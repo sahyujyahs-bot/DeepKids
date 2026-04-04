@@ -1339,16 +1339,39 @@
     requestAnimationFrame(backFrame);
   }
 
-  /* ── Navigation ─────────────────────────────────────────── */
+  /* ── Navigation — always responsive, cancels in-flight animations ── */
+
+  /* Helper: abort any running zoom/roll and jump straight to a checkpoint */
+  function cancelAnimations() {
+    if (zoomRaf) { cancelAnimationFrame(zoomRaf); zoomRaf = null; }
+    rainTimers && rainTimers.forEach && rainTimers.forEach(id => clearTimeout(id));
+    busy = false;
+  }
+
   window.s2GoBack = function() {
-    if (busy) return;
-    if (state === 4 || state === 5) {
-      // Go back from checkpoint 2 → checkpoint 1
+    if (state === 1) {
+      // Zooming in progress → cancel and jump back to checkpoint 0
+      cancelAnimations();
+      currentScale = 1; currentRotation = 0;
+      curFocusNX = FOCUS_NX; curFocusNY = FOCUS_NY;
+      drawBoard(1, 0);
+      progress.style.width = '0%'; progress.style.opacity = '1';
+      hideTokens();
+      label.style.opacity = '0';
+      diceWrap.classList.remove('show');
+      dice.classList.remove('idle','rolling');
+      state = 0; busy = false;
+      btnBack.disabled = true; btnFwd.disabled = false;
+      return;
+    }
+    if (state === 3 || state === 4 || state === 5) {
+      // Rolling or done → cancel and go back to checkpoint 1
+      cancelAnimations();
       undoRoll();
       return;
     }
     if (state === 2) {
-      // Go back from checkpoint 1 → checkpoint 0
+      // Checkpoint 1 → checkpoint 0
       label.style.opacity  = '0';
       diceWrap.classList.remove('show');
       dice.classList.remove('idle','rolling');
@@ -1358,15 +1381,29 @@
   };
 
   window.s2GoForward = function() {
-    if (busy) return;
+    if (state === 1) {
+      // Zooming in progress → skip to end (checkpoint 1)
+      cancelAnimations();
+      currentScale = endScale || 3.0;
+      currentRotation = END_ROT;
+      drawBoard(currentScale, currentRotation);
+      progress.style.width = '100%';
+      progress.style.opacity = '0';
+      onZoomComplete();
+      return;
+    }
     if (state === 0) {
-      // Go forward from checkpoint 0 → checkpoint 1 (trigger zoom)
+      // Checkpoint 0 → checkpoint 1 (trigger zoom)
       startZoom();
       return;
     }
     if (state === 2) {
-      // Go forward from checkpoint 1 → checkpoint 2 (roll dice)
+      // Checkpoint 1 → checkpoint 2 (roll dice)
       doRoll();
+      return;
+    }
+    if (state === 3) {
+      // Rolling in progress — let it finish, don't block
       return;
     }
   };
@@ -1519,30 +1556,46 @@
     });
   }
 
-  /* Wheel navigation */
+  /* ── Helpers: skip section-snap when S2 is active and mid-experience ── */
+  function isS2Active(){
+    // If S2 is the current section and has an ongoing interactive experience
+    // (state > 0 means zoom started or further), block section snapping
+    const s2El = document.getElementById('s2');
+    if(!s2El) return false;
+    const r = s2El.getBoundingClientRect();
+    const inView = r.top > -r.height * 0.5 && r.top < window.innerHeight * 0.5;
+    return inView;
+  }
+
+  /* Wheel navigation — higher threshold + skip when inside S2 */
   let wAcc=0, wT;
   function hw(e){
     clearTimeout(wT); wAcc += e.deltaY;
     wT = setTimeout(()=>{
-      if(wAcc > 25) goTo(current + 1);
-      else if(wAcc < -25) goTo(current - 1);
+      if(isS2Active()){
+        wAcc = 0; return;       // S2 handles its own navigation
+      }
+      if(wAcc > 80) goTo(current + 1);
+      else if(wAcc < -80) goTo(current - 1);
       wAcc = 0;
-    }, 60);
+    }, 120);
   }
   window.addEventListener('wheel', hw, {passive:true});
   const cv2 = document.getElementById('cv');
   if(cv2) cv2.addEventListener('wheel', hw, {passive:true});
 
-  /* Keyboard */
+  /* Keyboard — skip when S2 is active */
   window.addEventListener('keydown', e => {
+    if(isS2Active()) return;
     if(['ArrowDown','PageDown',' '].includes(e.key)){ e.preventDefault(); goTo(current + 1); }
     else if(['ArrowUp','PageUp'].includes(e.key)){ e.preventDefault(); goTo(current - 1); }
   });
 
-  /* Touch swipe */
+  /* Touch swipe — skip when S2 is active */
   let ty0=0, tx0=0;
   document.addEventListener('touchstart', e => { ty0=e.touches[0].clientY; tx0=e.touches[0].clientX; }, {passive:true,capture:true});
   document.addEventListener('touchend', e => {
+    if(isS2Active()) return;
     const dy = ty0 - e.changedTouches[0].clientY, dx = tx0 - e.changedTouches[0].clientX;
     if(Math.abs(dy) > 55 && Math.abs(dy) > Math.abs(dx) * 1.4){
       if(dy > 0) goTo(current + 1); else goTo(current - 1);
