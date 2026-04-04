@@ -2026,7 +2026,7 @@
         // Tile 11 is on the 3rd ring from center, at ~100° clockwise.
         // The earth icon sits at the inner edge of tile 11.
         var EARTH_ICON_NX = 0.68;
-        var EARTH_ICON_NY = 0.66;
+        var EARTH_ICON_NY = 0.62;
         rollTimers.push(setTimeout(() => {
           var bubble = document.getElementById('s2-comic-bubble');
           if (!bubble) return;
@@ -2039,7 +2039,7 @@
           var bubbleW = bubble.offsetWidth || 250;
           var bubbleH = bubble.offsetHeight || 120;
           var bx = earthX - bubbleW * 0.45;  // tail is at 45% from left
-          var by = earthY - bubbleH - 22;     // 22px for tail height
+          var by = earthY - bubbleH + 30;     // shifted down from earth icon
           // Clamp to stay in view
           bx = Math.max(8, Math.min(bx, brRect.width - bubbleW - 8));
           by = Math.max(5, by);
