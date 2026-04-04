@@ -646,6 +646,7 @@
            browser gives us ALL touch events. We decide per-gesture:
            - Finger on a card → drag the card (preventDefault)
            - Finger on empty space → manually scroll the page           ── */
+        cv.removeEventListener('mousewheel', mouse.mousewheel);
         cv.removeEventListener('wheel', mouse.mousewheel);
         cv.removeEventListener('DOMMouseScroll', mouse.mousewheel);
         cv.removeEventListener('touchmove', mouse.mousemove);
