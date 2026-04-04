@@ -1327,16 +1327,16 @@
 }
 .s2-drop-kids {
   position: absolute;
-  width: min(70vw, 55vh);
+  width: min(80vw, 50vh);
   height: auto;
-  top: 50%;
+  bottom: 15%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
   transition: opacity 0.4s ease;
 }
 .s2-drop-item {
   position: absolute;
-  width: min(22vw, 18vh);
+  width: clamp(50px, 15vw, 100px);
   height: auto;
   opacity: 0;
   z-index: 30;
@@ -1979,9 +1979,9 @@
     kidsHolding.style.opacity = '1';
     kidsEmpty.style.opacity = '0';
 
-    // Position items at the kids' hand positions (roughly center, slightly below middle)
+    // Position items at the kids' hand height, spread across
     var items = [ball, feather, leaf, paper];
-    var startY = 45; // % from top (hand height)
+    var startY = 55; // % from top — near the kids' hands
 
     items.forEach(function(item) {
       item.style.opacity = '0';
@@ -1989,11 +1989,11 @@
       item.style.transform = 'translate(-50%, -50%)';
     });
 
-    // Spread items slightly from center
-    ball.style.left = '40%';
-    feather.style.left = '48%';
-    leaf.style.left = '55%';
-    paper.style.left = '62%';
+    // Spread items across the width
+    ball.style.left = '30%';
+    feather.style.left = '43%';
+    leaf.style.left = '57%';
+    paper.style.left = '70%';
 
     // After 1.5s: swap to empty hands, start items falling
     setTimeout(function() {
