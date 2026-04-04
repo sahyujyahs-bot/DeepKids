@@ -1114,12 +1114,12 @@
     max-width: clamp(200px, 35vw, 320px);
     text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
   }
-  /* Comic tail pointing down-left toward tile */
+  /* Comic tail pointing down toward earth icon */
   .s2-bubble-box::after {
     content: '';
     position: absolute;
     bottom: -16px;
-    left: 25%;
+    left: 45%;
     width: 0; height: 0;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
@@ -1129,7 +1129,7 @@
     content: '';
     position: absolute;
     bottom: -20px;
-    left: calc(25% - 2px);
+    left: calc(45% - 2px);
     width: 0; height: 0;
     border-left: 14px solid transparent;
     border-right: 14px solid transparent;
@@ -2022,10 +2022,11 @@
         state = 4; busy = false;
         btnBack.disabled = false; btnFwd.disabled = true;
         // Show comic bubble pointing at the earth icon on tile 11
-        // The earth icon is slightly below-right of the tile 11 center
-        // in normalized board coords (before rotation)
-        var EARTH_ICON_NX = 0.72;
-        var EARTH_ICON_NY = 0.58;
+        // The earth icon on tile 11 — in normalized board coords (pre-rotation).
+        // Tile 11 is on the 3rd ring from center, at ~100° clockwise.
+        // The earth icon sits at the inner edge of tile 11.
+        var EARTH_ICON_NX = 0.68;
+        var EARTH_ICON_NY = 0.62;
         rollTimers.push(setTimeout(() => {
           var bubble = document.getElementById('s2-comic-bubble');
           if (!bubble) return;
@@ -2034,10 +2035,10 @@
           var s2Rect = s2El.getBoundingClientRect();
           var earthX = pEarth.x - (brRect.left - s2Rect.left);
           var earthY = pEarth.y - (brRect.top - s2Rect.top);
-          // Bubble above the earth icon, tail tip at earthX/earthY
+          // Bubble above the earth icon, tail (at 45%) points down to it
           var bubbleW = bubble.offsetWidth || 250;
           var bubbleH = bubble.offsetHeight || 120;
-          var bx = earthX - bubbleW * 0.25;  // tail is at 25% from left
+          var bx = earthX - bubbleW * 0.45;  // tail is at 45% from left
           var by = earthY - bubbleH - 22;     // 22px for tail height
           // Clamp to stay in view
           bx = Math.max(8, Math.min(bx, brRect.width - bubbleW - 8));
