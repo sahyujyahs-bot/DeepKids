@@ -33,6 +33,7 @@
     #cv {
       position: absolute; inset: 0; z-index: 0;
       display: block; cursor: grab;
+      touch-action: pan-y;    /* allow vertical scroll on mobile */
     }
     #cv:active { cursor: grabbing; }
 
@@ -554,6 +555,14 @@
         /* Drag-and-drop (mouse + touch) */
         const mouse = Mouse.create(cv);
         mouse.pixelRatio = 1;
+
+        /* Matter.js adds touchmove/touchstart listeners with preventDefault,
+           which blocks page scrolling on mobile. Remove them and re-add as
+           passive so the page can scroll while cards remain draggable.      */
+        cv.removeEventListener('touchmove', mouse.mousemove);
+        cv.removeEventListener('touchstart', mouse.mousedown);
+        cv.addEventListener('touchmove',  mouse.mousemove,  { passive: true });
+        cv.addEventListener('touchstart', mouse.mousedown,  { passive: true });
 
         const mc = MouseConstraint.create(engine, {
           mouse,
