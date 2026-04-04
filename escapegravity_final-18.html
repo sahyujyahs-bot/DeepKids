@@ -1246,6 +1246,11 @@
     ctx.translate(bCX, bCY);   // spin around board centre
     ctx.rotate(rotation);
     ctx.translate(-bCX, -bCY);
+    /* Clip to circle so the dark square corners are transparent,
+       letting the CSS starfield show through.                    */
+    ctx.beginPath();
+    ctx.arc(imgX + dispW/2, imgY + dispW/2, dispW * 0.48, 0, Math.PI * 2);
+    ctx.clip();
     ctx.drawImage(boardImg, imgX, imgY, dispW, dispW);
     ctx.restore();
   }
