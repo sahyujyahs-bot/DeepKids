@@ -1220,7 +1220,7 @@
   left: 50%;
   width: min(50vw, 38vh);
   aspect-ratio: 1677 / 1205;
-  transform-origin: 50% 150%;    /* pivot point well below card for wider fan arc */
+  transform-origin: 50% 200%;    /* pivot point well below card for fan arc */
   cursor: pointer;
   transition: transform 0.4s cubic-bezier(.34,1.56,.64,1), filter 0.3s ease, z-index 0s;
   perspective: 800px;
@@ -1258,11 +1258,11 @@
   transform: rotateY(180deg);
 }
 
-/* Inviting animation — gentle wobble + glow pulse */
+/* Inviting animation — gentle wobble */
 @keyframes s2-card-invite {
-  0%, 100% { transform: var(--card-base-transform) rotate(0deg); }
-  25% { transform: var(--card-base-transform) rotate(1.5deg); }
-  75% { transform: var(--card-base-transform) rotate(-1.5deg); }
+  0%, 100% { transform: var(--card-base-transform); }
+  25% { transform: var(--card-base-transform) scale(1.03); }
+  75% { transform: var(--card-base-transform) scale(0.97); }
 }
 .s2-fan-card.inviting {
   animation: s2-card-invite 2s ease-in-out infinite;
@@ -1272,8 +1272,7 @@
 /* Selected card — pops out of fan, centered in viewport */
 .s2-fan-card.selected {
   animation: none;
-  top: 50%;
-  transform: translateX(-50%) translateY(-50%) rotate(0deg) scale(1.3);
+  transform: translate(-50%,-50%) rotate(0deg) scale(1.4) !important;
   z-index: 20;
   filter: drop-shadow(0 20px 40px rgba(0,0,0,0.8));
 }
@@ -1849,8 +1848,8 @@
       var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * i;
       var card  = document.createElement('div');
       card.className = 's2-fan-card inviting';
-      card.style.cssText = 'transform:translateX(-50%) rotate('+angle+'deg);'
-        + '--card-base-transform:translateX(-50%) rotate('+angle+'deg);'
+      card.style.cssText = 'transform:translate(-50%,-50%) rotate('+angle+'deg);'
+        + '--card-base-transform:translate(-50%,-50%) rotate('+angle+'deg);'
         + '--card-delay:'+(i*0.18)+'s;';
       card.dataset.index = i;
 
