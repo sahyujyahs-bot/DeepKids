@@ -29,7 +29,7 @@
     html { height: 100%; }
     body {
       height: 100%; overflow-y: auto; color: #fff;
-      background: #0a0618;       /* deep purple-black base */
+      background: #2B2847;       /* deep purple base */
       /* Fixed starfield — brighter, more stars, varied sizes */
       background-image:
         /* Bright stars */
@@ -86,9 +86,9 @@
       pointer-events: none;
       background: linear-gradient(
         to bottom,
-        rgba(10,6,24,.7) 0%,
-        rgba(10,6,24,.4) 60%,
-        rgba(10,6,24,0)  100%
+        rgba(43,40,71,.7) 0%,
+        rgba(43,40,71,.4) 60%,
+        rgba(43,40,71,0)  100%
       );
     }
     #content > * { pointer-events: all; }
@@ -278,7 +278,7 @@
 <style>
   .eg-nav {
     position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;
-    background: rgba(10,6,24,0.6);
+    background: rgba(43,40,71,0.6);
     backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid rgba(156,188,20,0.3);
     display: flex; align-items: center; justify-content: space-between;
@@ -478,7 +478,7 @@
       })();
 
       function drawBackground() {
-        ctx.fillStyle = '#0a0618';
+        ctx.fillStyle = '#2B2847';
         ctx.fillRect(0, 0, W, H);
 
         stars.forEach(s => {
@@ -887,7 +887,7 @@
     align-items: center; justify-content: center;
     text-align: center; gap: 8px;
     padding: clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);
-    background: linear-gradient(180deg,rgba(10,6,24,.5) 0%,rgba(10,6,24,.3) 72%,transparent 100%);
+    background: linear-gradient(180deg,rgba(43,40,71,.5) 0%,rgba(43,40,71,.3) 72%,transparent 100%);
     border-bottom: 1px solid rgba(156,188,20,.12);
     position: relative; z-index: 10;
   }
@@ -1918,7 +1918,7 @@
 
   /* ── Footer styles ───────────────────────────────────────── */
   .eg-footer {
-    background: rgba(10,6,24,.6);
+    background: rgba(43,40,71,.6);
     border-top: 1px solid rgba(156,188,20,0.25);
     padding: clamp(40px, 5vh, 64px) clamp(20px, 6vw, 80px) 0;
     box-sizing: border-box;
