@@ -2012,20 +2012,15 @@
     state = 4; busy = false;
     btnBack.disabled = false; btnFwd.disabled = false;
     rollTimers.push(setTimeout(() => {
-      var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-      var s2Rect = s2El.getBoundingClientRect();
-      var pEarth = tilePos(0.68, 0.78);
-      var earthX = pEarth.x - (brRect.left - s2Rect.left);
-      var earthY = pEarth.y - (brRect.top - s2Rect.top);
       var bbl = document.getElementById('s2-comic-bubble');
       if (!bbl) return;
+      var tokRect = tokBlue.getBoundingClientRect();
+      var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
+      var tokX = tokRect.left - brRect.left + tokRect.width;
+      var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
       var bubbleW = bbl.offsetWidth || 250;
-      var bubbleH = bbl.offsetHeight || 120;
-      var bx = earthX - bubbleW * 0.45;
-      var byOff = brRect.height * (window.innerWidth < 768 ? 0.10 : 0.16);
-      var by = earthY - bubbleH + byOff;
-      bx = Math.max(8, Math.min(bx, brRect.width - bubbleW - 8));
-      by = Math.max(5, by);
+      var bx = Math.min(tokX + 15, brRect.width - bubbleW - 8);
+      var by = Math.max(5, tokY);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       bbl.classList.add('show');
@@ -2081,22 +2076,19 @@
         // The earth icon on tile 11 — in normalized board coords (pre-rotation).
         // Tile 11 is on the 3rd ring from center, at ~100° clockwise.
         // The earth icon sits at the inner edge of tile 11.
-        var EARTH_ICON_NX = 0.68;
-        var EARTH_ICON_NY = 0.78;
         rollTimers.push(setTimeout(() => {
           var bubble = document.getElementById('s2-comic-bubble');
           if (!bubble) return;
-          var pEarth = tilePos(EARTH_ICON_NX, EARTH_ICON_NY);
+          // Use the blue token's actual screen position
+          var tokRect = tokBlue.getBoundingClientRect();
           var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-          var s2Rect = s2El.getBoundingClientRect();
-          var earthX = pEarth.x - (brRect.left - s2Rect.left);
-          var earthY = pEarth.y - (brRect.top - s2Rect.top);
-          // Bubble above the earth icon, tail (at 45%) points down to it
+          var tokX = tokRect.left - brRect.left + tokRect.width;
+          var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
           var bubbleW = bubble.offsetWidth || 250;
           var bubbleH = bubble.offsetHeight || 120;
-          var bx = earthX - bubbleW * 0.45;  // tail is at 45% from left
-          var byOff = brRect.height * (window.innerWidth < 768 ? 0.10 : 0.16);
-          var by = earthY - bubbleH + byOff;
+          // Few steps right, 1 step down from astronaut
+          var bx = tokX + 15;
+          var by = tokY;
           // Clamp to stay in view
           bx = Math.max(8, Math.min(bx, brRect.width - bubbleW - 8));
           by = Math.max(5, by);
