@@ -1327,12 +1327,14 @@
 }
 .s2-drop-kids {
   position: absolute;
-  width: min(90vw, 80vh);
-  height: auto;
-  bottom: 5%;
+  height: 90%;
+  width: auto;
+  max-width: 95vw;
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
   transition: opacity 0.4s ease;
+  object-fit: contain;
 }
 .s2-drop-item {
   position: absolute;
