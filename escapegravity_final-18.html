@@ -1084,9 +1084,76 @@
     width:0%; transition:none; z-index:15; pointer-events:none;
     opacity:1;
   }
-</style>
 
-<section id="s2">
+  /* ── Comic speech bubble ─────────────────────────────────── */
+  #s2-comic-bubble {
+    position: absolute;
+    z-index: 35;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%) scale(0);
+    opacity: 0;
+    transition: transform 0.5s cubic-bezier(.34,1.56,.64,1), opacity 0.4s ease;
+    pointer-events: none;
+  }
+  #s2-comic-bubble.show {
+    transform: translateX(-50%) scale(1);
+    opacity: 1;
+  }
+  .s2-bubble-box {
+    background: #fff;
+    color: #1a0838;
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(13px, 1.8vw, 20px);
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    padding: clamp(12px, 2vw, 22px) clamp(16px, 3vw, 32px);
+    border-radius: 20px;
+    border: 3px solid #6b2155;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+    position: relative;
+    max-width: clamp(220px, 40vw, 380px);
+  }
+  /* Comic tail pointing down */
+  .s2-bubble-box::after {
+    content: '';
+    position: absolute;
+    bottom: -18px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0; height: 0;
+    border-left: 14px solid transparent;
+    border-right: 14px solid transparent;
+    border-top: 20px solid #fff;
+    filter: drop-shadow(0 3px 2px rgba(0,0,0,0.2));
+  }
+  .s2-bubble-box::before {
+    content: '';
+    position: absolute;
+    bottom: -22px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0; height: 0;
+    border-left: 16px solid transparent;
+    border-right: 16px solid transparent;
+    border-top: 22px solid #6b2155;
+  }
+  .s2-bubble-earth {
+    display: inline-block;
+    width: 1.4em; height: 1.4em;
+    vertical-align: middle;
+    border: 2px solid #6b2155;
+    border-radius: 50%;
+    background: radial-gradient(circle at 40% 40%, #4a90d9, #1a5c2a 50%, #2d7d3a 70%, #4a90d9 90%);
+    margin: 0 4px;
+    box-shadow: 0 0 8px rgba(74,144,217,0.5);
+  }
+  .s2-bubble-highlight {
+    color: #6b2155;
+    font-weight: 900;
+  }
+</style>
   <!-- Row 1: Title -->
   <div id="s2-title-row">
     <h2>It's Your Turn to Roll Now</h2>
@@ -1149,6 +1216,16 @@
 
       <!-- Result -->
       <div id="s2-result"></div>
+
+      <!-- Comic speech bubble -->
+      <div id="s2-comic-bubble">
+        <div class="s2-bubble-box">
+          If you have an<br>
+          <span class="s2-bubble-highlight"><span class="s2-bubble-earth"></span> Earth Force Card</span><br>
+          you can play it…<br>
+          or you <span class="s2-bubble-highlight">fall down!</span>
+        </div>
+      </div>
     </div>
 
     <div class="s2-panel" id="s2-panel-physical">
@@ -1794,6 +1871,8 @@
   let autoStartTimer = null;
   function jumpToState0() {
     cancelAllAnimations();
+    var bubble = document.getElementById('s2-comic-bubble');
+    if (bubble) bubble.classList.remove('show');
     currentScale = 1; currentRotation = 0;
     curFocusNX = FOCUS_NX; curFocusNY = FOCUS_NY;
     drawBoard(1, 0);
@@ -1818,6 +1897,8 @@
   /* ── Jump instantly to dice-ready (state 2) ────────────── */
   function jumpToState2() {
     cancelAllAnimations();
+    var bubble = document.getElementById('s2-comic-bubble');
+    if (bubble) bubble.classList.remove('show');
     endScale = getEndScale();
     currentScale = endScale;
     currentRotation = END_ROT;
@@ -1941,6 +2022,11 @@
         if (state !== 3) return;
         state = 4; busy = false;
         btnBack.disabled = false; btnFwd.disabled = true;
+        // Show comic bubble after zoom settles
+        rollTimers.push(setTimeout(() => {
+          var bubble = document.getElementById('s2-comic-bubble');
+          if (bubble) bubble.classList.add('show');
+        }, 2200));
       }, 5000));
     }, 2000));
   }
