@@ -752,16 +752,23 @@
 <style>
   #s2 {
     position: relative;                         /* tokens anchor here */
-    height: 100vh; display: flex; flex-direction: column;
+    display: flex; flex-direction: column;
     overflow: visible;
+    /* Ensure enough height so the square spiral fits fully on all screens.
+       On wide desktops the board needs vertical room ≈ viewport width;
+       on portrait / mobile screens 100vh is already sufficient.          */
+    height: max(100vh, calc(100vw * 0.78 + 100px));
+  }
+  @media (max-width: 768px) {
+    #s2 { height: 100vh; }            /* mobile: viewport height is enough */
   }
   /* ── Row 1: Title ─────────────────────────────────────── */
   #s2-title-row {
-    flex: 0 0 26%;
+    flex: 0 0 auto;
     display: flex; flex-direction: column;
     align-items: center; justify-content: center;
     text-align: center; gap: 8px;
-    padding: 0 clamp(12px,4vw,40px);
+    padding: clamp(14px,2.5vh,32px) clamp(12px,4vw,40px);
     background: linear-gradient(180deg,rgba(4,4,14,1) 0%,rgba(4,4,14,.9) 72%,rgba(4,4,14,.4) 100%);
     border-bottom: 1px solid rgba(156,188,20,.12);
     position: relative; z-index: 10;
@@ -782,7 +789,8 @@
 
   /* ── Row 2: Board canvas ───────────────────────────────── */
   #s2-board-row {
-    flex: 1 1 74%; position: relative; overflow: visible; 
+    flex: 1 1 0%; position: relative; overflow: visible;
+    min-height: 0;     /* allow flex child to shrink properly */
   }
   #s2-canvas {
     display: block; width: 100%; height: 100%;
@@ -1424,7 +1432,7 @@
     if (entries[0].isIntersecting && state === 0 && !busy) {
       setTimeout(startZoom, 400); // brief pause before starting
     }
-  }, { threshold: 0.5 }).observe(document.getElementById('s2'));
+  }, { threshold: 0.2 }).observe(document.getElementById('s2'));
 
   window.addEventListener('resize', () => {
     resizeCanvas();
