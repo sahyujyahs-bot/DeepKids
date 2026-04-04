@@ -87,8 +87,6 @@
     }
     #content > * { pointer-events: all; }
 
-    }
-
     /* ── Title ─────────────────────────────────────────────────── */
     .title {
       font-family: 'Norwester', sans-serif;
@@ -224,6 +222,7 @@
       border-radius: 50%;
       border: 2px solid rgba(160,200,22,.55);
       background: rgba(2,4,14,.80);
+      -webkit-backdrop-filter: blur(6px);
       backdrop-filter: blur(6px);
       cursor: pointer;
       display: flex;
@@ -335,7 +334,7 @@
   .eg-hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
   .eg-mobile-overlay {
     display: none; position: fixed; top: 56px; left: 0; width: 100%; height: calc(100% - 56px);
-    background: rgba(2,4,14,0.95); backdrop-filter: blur(16px);
+    background: rgba(2,4,14,0.95); -webkit-backdrop-filter: blur(16px); backdrop-filter: blur(16px);
     flex-direction: column; align-items: center; justify-content: flex-start;
     padding-top: 48px; gap: 32px; z-index: 999;
   }
@@ -647,7 +646,7 @@
            browser gives us ALL touch events. We decide per-gesture:
            - Finger on a card → drag the card (preventDefault)
            - Finger on empty space → manually scroll the page           ── */
-        cv.removeEventListener('mousewheel', mouse.mousewheel);
+        cv.removeEventListener('wheel', mouse.mousewheel);
         cv.removeEventListener('DOMMouseScroll', mouse.mousewheel);
         cv.removeEventListener('touchmove', mouse.mousemove);
         cv.removeEventListener('touchstart', mouse.mousedown);
@@ -939,12 +938,6 @@
     opacity: 1;
     transform: translate(-50%, -100%) scale(1);
   }
-  .s2-tok.slide {
-    transition: left 3.2s cubic-bezier(.4,0,.2,1),
-                top  3.2s cubic-bezier(.4,0,.2,1),
-                opacity .5s ease,
-                transform .7s cubic-bezier(.34,1.56,.64,1);
-  }
   #s2-tok-blue { width: clamp(80px, 12vw, 190px); }
   #s2-tok-red  { width: clamp(62px,  9vw, 145px); }
 
@@ -952,7 +945,7 @@
   #s2-label {
     position: absolute; z-index: 26; left: 50%; top: 8%;
     transform: translateX(-50%);
-    background: rgba(4,4,14,.84); backdrop-filter: blur(8px);
+    background: rgba(4,4,14,.84); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
     border: 1px solid rgba(156,188,20,.45); border-radius: 20px;
     padding: 5px 18px;
     font-family: 'Pompiere', sans-serif; font-size: clamp(8px,1vw,13px);
@@ -1058,7 +1051,6 @@
     transition:transform .45s cubic-bezier(.34,1.56,.64,1), opacity .5s ease;
   }
   #s2-result.show { transform:translate(-50%,-50%) scale(1); }
-  #s2-result.gone { opacity:0; transform:translate(-50%,-50%) scale(0); transition:opacity .3s,transform .3s; }
 
   /* ── Arrow nav buttons ───────────────────────────────────── */
   #s2-nav {
@@ -1071,7 +1063,7 @@
   .s2-arrow {
     width: clamp(40px,5vw,56px); height: clamp(40px,5vw,56px);
     border-radius:50%;
-    background:rgba(4,4,14,.78); backdrop-filter:blur(6px);
+    background:rgba(4,4,14,.78); -webkit-backdrop-filter:blur(6px); backdrop-filter:blur(6px);
     border:1.5px solid rgba(156,188,20,.5);
     display:flex; align-items:center; justify-content:center;
     cursor:pointer; transition:border-color .2s,background .2s,transform .15s;
@@ -1182,6 +1174,8 @@
   let   curFocusNY       = FOCUS_NY;
   let   endScale         = 3.0;        // final responsive scale (set in startZoom)
 
+  function smoothstep(t) { return t * t * (3 - 2 * t); }
+
   /* ── Elements ────────────────────────────────────────────── */
   const cv      = document.getElementById('s2-canvas');
   const ctx     = cv.getContext('2d');
@@ -1197,13 +1191,20 @@
   const navEl   = document.getElementById('s2-nav');
   const btnBack = document.getElementById('s2-back');
   const btnFwd  = document.getElementById('s2-fwd');
+  const s2El    = document.getElementById('s2');
   /* ── State ───────────────────────────────────────────────── */
-  let state   = 0;    // 0=wide, 1=zooming, 2=ready, 3=rolling, 4=done
+  let state   = 0;    // 0=wide, 1=zooming, 2=ready, 3=rolling, 4=done, 5=tile11-zoom, 6=resetting
   let busy    = false;
   let zoomRaf = null;
+  let tile11Raf = null;
   let zoomStart = null;
   let currentScale = 1;
   let currentRotation = 0;
+
+  function getEndScale() {
+    const W = cv.width;
+    return W >= 1024 ? 3.0 : W >= 768 ? 2.1 : W >= 480 ? 1.9 : 1.8;
+  }
 
   /* ── Load full board image ──────────────────────────────── */
   const boardImg = new Image();
@@ -1250,12 +1251,6 @@
     ctx.restore();
   }
 
-  /* ── Easing: slow-in, very slow middle, subtle ease-out ─── */
-  function easeZoom(t) {
-    // Smoothstep: gentle start & end, readable linear middle
-    return t * t * (3 - 2 * t);
-  }
-
   /* ── Token placement ────────────────────────────────────────────── */
   /* Compute where board-normalised point (nx,ny) appears in #s2 px      */
   /* coordinates after the current rotation + zoom.                       */
@@ -1279,7 +1274,7 @@
     const cvx   = rFx + currentScale * (rpx - rFx);
     const cvy   = rFy + currentScale * (rpy - rFy);
     const cvR   = cv.getBoundingClientRect();
-    const s2R   = document.getElementById('s2').getBoundingClientRect();
+    const s2R   = s2El.getBoundingClientRect();
     return { x: cvR.left - s2R.left + cvx,
              y: cvR.top  - s2R.top  + cvy };
   }
@@ -1370,19 +1365,19 @@
     function frame(ts) {
       if (!t11Start) t11Start = ts;
       const t = Math.min((ts - t11Start) / DURATION, 1);
-      const e = t * t * (3 - 2 * t);
+      const e = smoothstep(t);
       currentScale = startScale + (tgtScale    - startScale) * e;
       curFocusNX   = startFocusNX + (tgtFocusNX - startFocusNX) * e;
       curFocusNY   = startFocusNY + (tgtFocusNY - startFocusNY) * e;
       drawBoard(currentScale, currentRotation);
       pinTokens();
       if (t < 1) {
-        requestAnimationFrame(frame);
+        tile11Raf = requestAnimationFrame(frame);
       } else {
         state = 5;
       }
     }
-    requestAnimationFrame(frame);
+    tile11Raf = requestAnimationFrame(frame);
   }
 
   /* ── Start zoom animation ───────────────────────────────── */
@@ -1391,22 +1386,17 @@
     zoomStart = null;
 
     // Responsive scale: more zoom on wider screens, keeps tile 10 token visible
-    const W = cv.width;
-    endScale = W >= 1024 ? 3.0
-               : W >=  768 ? 2.1
-               : W >=  480 ? 1.9
-               :             1.8;
+    endScale = getEndScale();
     const targetScale = endScale;
 
     // Phase 1 (0→50% of time): board spins 90° CCW at full scale — rotation clearly visible
     // Phase 2 (50→100%):       rotation locked, zoom in to tiles 10 & 11
     function getAnimState(t) {
-      const smooth = function(p){ return p*p*(3-2*p); };
       if (t <= 0.5) {
-        const e = smooth(t / 0.5);
+        const e = smoothstep(t / 0.5);
         return { s: 1.0, r: END_ROT * e };
       } else {
-        const e = smooth((t - 0.5) / 0.5);
+        const e = smoothstep((t - 0.5) / 0.5);
         return { s: 1.0 + (targetScale - 1.0) * e, r: END_ROT };
       }
     }
@@ -1470,10 +1460,7 @@
   /* ── Jump instantly to wide board (state 0), then auto-start ── */
   let autoStartTimer = null;
   function jumpToState0() {
-    cancelAnimationFrame(zoomRaf); zoomRaf = null;
-    cancelAnimationFrame(resetRaf); resetRaf = null;
-    clearTimeout(autoStartTimer);
-    clearRollTimers();
+    cancelAllAnimations();
     currentScale = 1; currentRotation = 0;
     curFocusNX = FOCUS_NX; curFocusNY = FOCUS_NY;
     drawBoard(1, 0);
@@ -1497,12 +1484,8 @@
 
   /* ── Jump instantly to dice-ready (state 2) ────────────── */
   function jumpToState2() {
-    cancelAnimationFrame(zoomRaf); zoomRaf = null;
-    cancelAnimationFrame(resetRaf); resetRaf = null;
-    clearTimeout(autoStartTimer);
-    clearRollTimers();
-    const W = cv.width;
-    endScale = W >= 1024 ? 3.0 : W >= 768 ? 2.1 : W >= 480 ? 1.9 : 1.8;
+    cancelAllAnimations();
+    endScale = getEndScale();
     currentScale = endScale;
     currentRotation = END_ROT;
     curFocusNX = FOCUS_NX; curFocusNY = FOCUS_NY;
@@ -1531,6 +1514,14 @@
   function clearRollTimers() {
     rollTimers.forEach(id => clearTimeout(id));
     rollTimers = [];
+  }
+
+  function cancelAllAnimations() {
+    cancelAnimationFrame(zoomRaf); zoomRaf = null;
+    cancelAnimationFrame(resetRaf); resetRaf = null;
+    cancelAnimationFrame(tile11Raf); tile11Raf = null;
+    clearTimeout(autoStartTimer);
+    clearRollTimers();
   }
 
   /* ── Navigation ─────────────────────────────────────────── */
@@ -1623,10 +1614,6 @@
     }, 2000));
   }
 
-  function undoRoll() {
-    jumpToState2();
-  }
-
   /* ── Show nav when S2 is in view ─────────────────────────── */
   new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) {
@@ -1646,28 +1633,25 @@
     }
   }, { threshold: 0.8 }).observe(document.getElementById('s2'));
 
-  window.addEventListener('resize', () => {
-    resizeCanvas();
-  });
-
 })();
 
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
 (function(){
   'use strict';
   const sectionIds = ['s1','s2','s3','s4','s5','eg-footer'];
+  const sectionEls = sectionIds.map(id => document.getElementById(id));
+  const allNavLinks = document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a');
 
   /* Highlight active nav link based on scroll position */
   function updateActiveNav(){
     let closest = 0, minDist = Infinity;
-    sectionIds.forEach((id, i) => {
-      const el = document.getElementById(id);
+    sectionEls.forEach((el, i) => {
       if(!el) return;
       const dist = Math.abs(el.getBoundingClientRect().top);
       if(dist < minDist){ minDist = dist; closest = i; }
     });
     const activeId = sectionIds[closest];
-    document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a').forEach(a => {
+    allNavLinks.forEach(a => {
       a.classList.toggle('active', a.getAttribute('data-section') === activeId);
     });
   }
@@ -1677,7 +1661,7 @@
   }, {passive:true});
 
   /* Nav link clicks — smooth scroll to section */
-  document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a').forEach(a => {
+  allNavLinks.forEach(a => {
     a.addEventListener('click', e => {
       e.preventDefault();
       const sec = a.getAttribute('data-section');
@@ -1711,26 +1695,34 @@
 
 <!-- ═══════════════════════════════════════════════ S3: ABOUT ══ -->
 <style>
-  /* ── S3 About styles ─────────────────────────────────────── */
-  #s3 {
+  /* ── Shared section styles ────────────────────────────────── */
+  .eg-section {
     position: relative;
-    min-height: 100vh;
     background: transparent;
     padding: clamp(80px,10vh,120px) clamp(20px,6vw,80px) clamp(40px,6vh,80px);
     box-sizing: border-box;
     overflow: hidden;
   }
-  #s3::before {
+  .eg-section::before {
     content: '';
-    position: absolute; top: 0; left: 10%; right: 10%; height: 2px;
-    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.5), transparent);
+    position: absolute; top: 0; left: 10%; right: 10%; height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.2), transparent);
   }
-  .s3-title {
+  .eg-section-title {
     font-family: 'Norwester', sans-serif;
+    font-weight: normal; font-style: normal; font-variant: small-caps;
     font-size: clamp(28px, 5vw, 56px);
     color: #fff;
     text-align: center;
     text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
+    margin-bottom: clamp(30px, 4vh, 50px);
+  }
+
+  /* ── S3 About styles ─────────────────────────────────────── */
+  #s3 {
+    min-height: 100vh;
+  }
+  .s3-title {
     margin: 0 0 8px;
   }
   .s3-subtitle {
@@ -1794,24 +1786,9 @@
 
   /* ── S4 Features styles ──────────────────────────────────── */
   #s4 {
-    position: relative;
     min-height: 100vh;
-    background: transparent;
-    padding: clamp(80px,10vh,120px) clamp(20px,6vw,80px) clamp(40px,6vh,80px);
-    box-sizing: border-box;
-    overflow: hidden;
-  }
-  #s4::before {
-    content: '';
-    position: absolute; top: 0; left: 10%; right: 10%; height: 2px;
-    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.5), transparent);
   }
   .s4-title {
-    font-family: 'Norwester', sans-serif;
-    font-size: clamp(28px, 5vw, 56px);
-    color: #fff;
-    text-align: center;
-    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
     margin: 0 0 clamp(32px, 5vh, 60px);
   }
   .s4-grid {
@@ -1866,25 +1843,10 @@
 
   /* ── S5 Contact / Newsletter styles ──────────────────────── */
   #s5 {
-    position: relative;
     min-height: 60vh;
-    background: transparent;
-    padding: clamp(80px,10vh,120px) clamp(20px,6vw,80px) clamp(40px,6vh,80px);
-    box-sizing: border-box;
     display: flex; flex-direction: column; align-items: center; justify-content: center;
-    overflow: hidden;
-  }
-  #s5::before {
-    content: '';
-    position: absolute; top: 0; left: 10%; right: 10%; height: 2px;
-    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.5), transparent);
   }
   .s5-title {
-    font-family: 'Norwester', sans-serif;
-    font-size: clamp(28px, 5vw, 56px);
-    color: #fff;
-    text-align: center;
-    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
     margin: 0 0 12px;
   }
   .s5-text {
@@ -2015,8 +1977,8 @@
 </style>
 
 <!-- ═══════════════════════════════════════════════ S3: ABOUT ══ -->
-<section id="s3">
-  <h2 class="s3-title eg-fade-in">About EscapeGravity</h2>
+<section id="s3" class="eg-section">
+  <h2 class="eg-section-title s3-title eg-fade-in">About EscapeGravity</h2>
   <p class="s3-subtitle eg-fade-in">Defy physics. Reach the stars.</p>
   <div class="s3-grid">
     <div class="s3-desc eg-fade-in">
@@ -2047,8 +2009,8 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════ S4: FEATURES ══ -->
-<section id="s4">
-  <h2 class="s4-title eg-fade-in">Game Features</h2>
+<section id="s4" class="eg-section">
+  <h2 class="eg-section-title s4-title eg-fade-in">Game Features</h2>
   <div class="s4-grid">
 
     <div class="s4-card eg-fade-in">
@@ -2091,8 +2053,8 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════ S5: CONTACT ══ -->
-<section id="s5">
-  <h2 class="s5-title eg-fade-in">Join the Mission</h2>
+<section id="s5" class="eg-section">
+  <h2 class="eg-section-title s5-title eg-fade-in">Join the Mission</h2>
   <p class="s5-text eg-fade-in">Be the first to know when EscapeGravity launches. Sign up for mission updates!</p>
   <form class="s5-form eg-fade-in" id="s5-form">
     <input type="email" class="s5-input" placeholder="your.email@mission.control" required>
