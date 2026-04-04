@@ -1162,7 +1162,7 @@
       <button class="s2-tab" data-panel="physical">Physical Challenges</button>
       <button class="s2-tab" data-panel="science">Science</button>
     </div>
-    <div class="s2-force-link" id="s2-force-link">Your Force Cards</div>
+    <div class="s2-force-link show" id="s2-force-link">Earn a Force Card</div>
   </div>
 
   <!-- Row 2: Board -->
@@ -1520,7 +1520,7 @@
 
 /* Your Force Cards link */
 .s2-force-link {
-  display: none;
+  display: block;
   font-family: 'Pompiere', sans-serif;
   font-size: clamp(11px, 1.3vw, 15px);
   letter-spacing: 3px;
@@ -1530,11 +1530,17 @@
   cursor: pointer;
   text-align: center;
   margin-top: 4px;
-  opacity: 0;
-  transition: opacity 0.6s ease;
+  opacity: 0.6;
+  transition: opacity 0.4s ease, text-shadow 0.3s ease;
 }
-.s2-force-link.show { display: block; opacity: 1; }
-.s2-force-link:hover { text-shadow: 0 0 12px rgba(156,188,20,0.6); }
+.s2-force-link:hover { text-shadow: 0 0 12px rgba(156,188,20,0.6); opacity: 1; }
+.s2-force-link.disabled {
+  opacity: 0.35;
+  cursor: default;
+  pointer-events: none;
+  text-decoration: none;
+}
+.s2-force-link.earned { opacity: 1; }
 
 @keyframes s2-force-pulse {
   0%, 100% { opacity: 0.6; transform: scale(1); text-shadow: 0 0 0 transparent; }
@@ -1568,7 +1574,7 @@
   'use strict';
 
   /* ── Config ─────────────────────────────────────────────── */
-  const ZOOM_DURATION = 10000;    // ms — slow spin so board is clearly readable
+  const ZOOM_DURATION = 6000;    // ms — spin and zoom
   const END_SCALE = 2.2;
   const END_ROT = -1.570796; // -90° anticlockwise
   const BOARD_CENTER_NX  = 0.511;
@@ -1887,10 +1893,10 @@
     state = 0; busy = false;
     btnBack.disabled = true; btnFwd.disabled = false;
     navEl.classList.add('show');
-    // Auto-start zoom after 2 seconds
+    // Auto-start zoom after 1 second
     autoStartTimer = setTimeout(() => {
       if (state === 0) startZoom();
-    }, 2000);
+    }, 1000);
   }
 
   /* ── Jump instantly to dice-ready (state 2) ────────────── */
@@ -2023,7 +2029,7 @@
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       bbl.classList.add('show');
-    }, 2500));
+    }, 800));
   }
 
   /* ── Dice roll ──────────────────────────────────────────── */
@@ -2097,7 +2103,7 @@
           bubble.style.left = bx + 'px';
           bubble.style.top = by + 'px';
           bubble.classList.add('show');
-        }, 2200));
+        }, 800));
       }, 5000));
     }, 2000));
   }
@@ -2117,9 +2123,9 @@
       clearTimeout(autoStartTimer);
       autoStartTimer = setTimeout(() => {
         if (state === 0) startZoom();
-      }, 1500);
+      }, 600);
     }
-  }, { threshold: 0.8 }).observe(document.getElementById('s2'));
+  }, { threshold: 0.4 }).observe(document.getElementById('s2'));
 
 })();
 
@@ -2168,6 +2174,7 @@
         s2Nav.style.display = 'none';
         window.s2ActiveTab = target;
       }
+      if (window.updateForceLinkState) window.updateForceLinkState();
     });
   });
 })();
@@ -2277,12 +2284,38 @@
   var forceLink = document.getElementById('s2-force-link');
   var forceEarned = false;
 
+  // Initialize: on PC tab it's disabled, on BG tab it navigates to PC tab
+  function updateForceLinkState() {
+    if (forceEarned) {
+      forceLink.textContent = 'Your Force Cards';
+      forceLink.classList.remove('disabled', 'pulse');
+      forceLink.classList.add('earned');
+    } else {
+      forceLink.textContent = 'Earn a Force Card';
+      // On PC tab: disabled. On BG tab: clickable (navigates to PC tab)
+      if (window.s2ActiveTab === 'physical') {
+        forceLink.classList.add('disabled');
+      } else {
+        forceLink.classList.remove('disabled');
+      }
+    }
+  }
+
+  // Expose for tab switching to call
+  window.updateForceLinkState = updateForceLinkState;
+
+  function markForceEarned() {
+    forceEarned = true;
+    forceLink.textContent = 'Your Force Cards';
+    forceLink.classList.remove('disabled');
+    forceLink.classList.add('earned', 'pulse');
+  }
+
   function showForceCard() {
     var title = document.getElementById('s2-force-popup-title');
     if (title) title.textContent = 'Your Force Card';
     forceOverlay.classList.add('show');
     forceCardWrap.classList.remove('flipped');
-    // Stop pulse after first view
     forceLink.classList.remove('pulse');
   }
 
@@ -2301,9 +2334,15 @@
     hideForceCard();
   });
 
-  // "Your Force Cards" link
+  // Force link click: if earned → show card, if not → go to PC tab
   forceLink.addEventListener('click', function() {
-    showForceCard();
+    if (forceEarned) {
+      showForceCard();
+    } else if (window.s2ActiveTab !== 'physical') {
+      // Navigate to Physical Challenges tab
+      var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
+      if (pcTab) pcTab.click();
+    }
   });
 
   // Click overlay background to close
@@ -2369,8 +2408,7 @@
 
     // After items settle, show the force card link with animation
     setTimeout(function() {
-      forceEarned = true;
-      forceLink.classList.add('show', 'pulse');
+      markForceEarned();
     }, 5500);
 
     // After all items settled, allow click to reset
