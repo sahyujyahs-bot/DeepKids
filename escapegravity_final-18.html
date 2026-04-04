@@ -200,6 +200,98 @@
   </style>
 </head>
 <body>
+
+<!-- ═══════════════════════════════════════════════ STICKY NAV ══ -->
+<style>
+  .eg-nav {
+    position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;
+    background: rgba(2,4,14,0.85);
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(156,188,20,0.3);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 clamp(16px,4vw,48px);
+    height: 56px; box-sizing: border-box;
+  }
+  .eg-nav-logo {
+    font-family: 'Norwester', sans-serif; font-size: clamp(18px,2.4vw,28px);
+    color: #9cbc14; text-decoration: none; letter-spacing: 1px;
+    white-space: nowrap;
+  }
+  .eg-nav-links {
+    display: flex; gap: clamp(12px,2.5vw,32px); align-items: center; list-style: none;
+    margin: 0; padding: 0;
+  }
+  .eg-nav-links a {
+    font-family: 'Pompiere', sans-serif; font-size: clamp(13px,1.3vw,17px);
+    color: rgba(255,255,255,0.7); text-decoration: none;
+    text-transform: uppercase; letter-spacing: 2px;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+    position: relative;
+  }
+  .eg-nav-links a::after {
+    content: ''; position: absolute; bottom: -4px; left: 0; width: 0; height: 2px;
+    background: #9cbc14; transition: width 0.3s ease;
+  }
+  .eg-nav-links a:hover, .eg-nav-links a.active {
+    color: #9cbc14;
+  }
+  .eg-nav-links a:hover::after, .eg-nav-links a.active::after {
+    width: 100%;
+  }
+  .eg-hamburger {
+    display: none; flex-direction: column; gap: 5px; cursor: pointer;
+    background: none; border: none; padding: 8px; z-index: 1002;
+  }
+  .eg-hamburger span {
+    display: block; width: 24px; height: 2px; background: #fff;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  .eg-hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .eg-hamburger.open span:nth-child(2) { opacity: 0; }
+  .eg-hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+  .eg-mobile-overlay {
+    display: none; position: fixed; top: 56px; left: 0; width: 100%; height: calc(100% - 56px);
+    background: rgba(2,4,14,0.95); backdrop-filter: blur(16px);
+    flex-direction: column; align-items: center; justify-content: flex-start;
+    padding-top: 48px; gap: 32px; z-index: 999;
+  }
+  .eg-mobile-overlay.open { display: flex; }
+  .eg-mobile-overlay a {
+    font-family: 'Pompiere', sans-serif; font-size: 22px;
+    color: rgba(255,255,255,0.8); text-decoration: none;
+    text-transform: uppercase; letter-spacing: 3px;
+    transition: color 0.3s ease;
+  }
+  .eg-mobile-overlay a:hover, .eg-mobile-overlay a.active { color: #9cbc14; }
+  @media(max-width:768px) {
+    .eg-nav-links { display: none; }
+    .eg-hamburger { display: flex; }
+  }
+  /* offset body content for fixed nav */
+  #s1 { margin-top: 0; /* s1 is full-screen, no offset needed */ }
+</style>
+
+<nav class="eg-nav">
+  <a href="#s1" class="eg-nav-logo">EscapeGravity</a>
+  <ul class="eg-nav-links">
+    <li><a href="#s1" data-section="s1" class="active">Home</a></li>
+    <li><a href="#s2" data-section="s2">Board</a></li>
+    <li><a href="#s3" data-section="s3">About</a></li>
+    <li><a href="#s4" data-section="s4">Features</a></li>
+    <li><a href="#s5" data-section="s5">Contact</a></li>
+  </ul>
+  <button class="eg-hamburger" id="eg-hamburger" aria-label="Toggle menu">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+<div class="eg-mobile-overlay" id="eg-mobile-overlay">
+  <a href="#s1" data-section="s1">Home</a>
+  <a href="#s2" data-section="s2">Board</a>
+  <a href="#s3" data-section="s3">About</a>
+  <a href="#s4" data-section="s4">Features</a>
+  <a href="#s5" data-section="s5">Contact</a>
+</div>
+
 <section id="s1">
 <canvas id="cv"></canvas>
 
@@ -1340,32 +1432,567 @@
 
 })();
 
-/* ── Section navigation ─────────────────────────────────── */
+/* ── Section navigation (supports s1–s5 + footer) ──────── */
 (function(){
   'use strict';
-  let current=1, busy=false;
+  const sectionIds = ['s1','s2','s3','s4','s5','eg-footer'];
+  const totalSections = sectionIds.length;
+  let current = 0, busy = false;
+
   function goTo(n){
-    if(busy||n===current||n<1||n>2)return;
-    busy=true; current=n;
-    document.getElementById('s'+n).scrollIntoView({behavior:'smooth',block:'start'});
-    setTimeout(()=>{busy=false;},1100);
+    if(busy || n === current || n < 0 || n >= totalSections) return;
+    busy = true; current = n;
+    const el = document.getElementById(sectionIds[n]);
+    if(el) el.scrollIntoView({behavior:'smooth',block:'start'});
+    setTimeout(()=>{ busy = false; }, 1100);
   }
-  window.goToSection=goTo;
-  let wAcc=0,wT;
-  function hw(e){clearTimeout(wT);wAcc+=e.deltaY;wT=setTimeout(()=>{if(wAcc>25)goTo(2);else if(wAcc<-25)goTo(1);wAcc=0;},60);}
-  window.addEventListener('wheel',hw,{passive:true});
-  const cv2=document.getElementById('cv');
-  if(cv2)cv2.addEventListener('wheel',hw,{passive:true});
-  window.addEventListener('keydown',e=>{
-    if(['ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();goTo(2);}
-    else if(['ArrowUp','PageUp'].includes(e.key)){e.preventDefault();goTo(1);}
+  window.goToSection = function(num){ goTo(num - 1); };
+
+  /* Update active nav link on scroll */
+  function updateActiveNav(){
+    let closest = 0, minDist = Infinity;
+    sectionIds.forEach((id, i) => {
+      const el = document.getElementById(id);
+      if(!el) return;
+      const dist = Math.abs(el.getBoundingClientRect().top);
+      if(dist < minDist){ minDist = dist; closest = i; }
+    });
+    current = closest;
+    const activeId = sectionIds[closest];
+    document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a').forEach(a => {
+      a.classList.toggle('active', a.getAttribute('data-section') === activeId);
+    });
+  }
+  let scrollTick = false;
+  window.addEventListener('scroll', () => {
+    if(!scrollTick){ scrollTick = true; requestAnimationFrame(()=>{ updateActiveNav(); scrollTick = false; }); }
+  }, {passive:true});
+
+  /* Nav link clicks */
+  document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a').forEach(a => {
+    a.addEventListener('click', e => {
+      e.preventDefault();
+      const sec = a.getAttribute('data-section');
+      const idx = sectionIds.indexOf(sec);
+      if(idx >= 0) goTo(idx);
+      // close mobile menu
+      const overlay = document.getElementById('eg-mobile-overlay');
+      const hamburger = document.getElementById('eg-hamburger');
+      if(overlay) overlay.classList.remove('open');
+      if(hamburger) hamburger.classList.remove('open');
+    });
   });
-  let ty0=0,tx0=0;
-  document.addEventListener('touchstart',e=>{ty0=e.touches[0].clientY;tx0=e.touches[0].clientX;},{passive:true,capture:true});
-  document.addEventListener('touchend',e=>{
-    const dy=ty0-e.changedTouches[0].clientY,dx=tx0-e.changedTouches[0].clientX;
-    if(Math.abs(dy)>55&&Math.abs(dy)>Math.abs(dx)*1.4){if(dy>0)goTo(2);else goTo(1);}
-  },{passive:true,capture:true});
+
+  /* Hamburger toggle */
+  const hamburger = document.getElementById('eg-hamburger');
+  const overlay = document.getElementById('eg-mobile-overlay');
+  if(hamburger && overlay){
+    hamburger.addEventListener('click', () => {
+      hamburger.classList.toggle('open');
+      overlay.classList.toggle('open');
+    });
+  }
+
+  /* Wheel navigation */
+  let wAcc=0, wT;
+  function hw(e){
+    clearTimeout(wT); wAcc += e.deltaY;
+    wT = setTimeout(()=>{
+      if(wAcc > 25) goTo(current + 1);
+      else if(wAcc < -25) goTo(current - 1);
+      wAcc = 0;
+    }, 60);
+  }
+  window.addEventListener('wheel', hw, {passive:true});
+  const cv2 = document.getElementById('cv');
+  if(cv2) cv2.addEventListener('wheel', hw, {passive:true});
+
+  /* Keyboard */
+  window.addEventListener('keydown', e => {
+    if(['ArrowDown','PageDown',' '].includes(e.key)){ e.preventDefault(); goTo(current + 1); }
+    else if(['ArrowUp','PageUp'].includes(e.key)){ e.preventDefault(); goTo(current - 1); }
+  });
+
+  /* Touch swipe */
+  let ty0=0, tx0=0;
+  document.addEventListener('touchstart', e => { ty0=e.touches[0].clientY; tx0=e.touches[0].clientX; }, {passive:true,capture:true});
+  document.addEventListener('touchend', e => {
+    const dy = ty0 - e.changedTouches[0].clientY, dx = tx0 - e.changedTouches[0].clientX;
+    if(Math.abs(dy) > 55 && Math.abs(dy) > Math.abs(dx) * 1.4){
+      if(dy > 0) goTo(current + 1); else goTo(current - 1);
+    }
+  }, {passive:true,capture:true});
+})();
+</script>
+
+<!-- ═══════════════════════════════════════════════ S3: ABOUT ══ -->
+<style>
+  /* ── S3 About styles ─────────────────────────────────────── */
+  #s3 {
+    position: relative;
+    min-height: 100vh;
+    background: #02040e;
+    padding: clamp(80px,10vh,120px) clamp(20px,6vw,80px) clamp(40px,6vh,80px);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  #s3::before {
+    content: '';
+    position: absolute; top: 0; left: 10%; right: 10%; height: 2px;
+    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.5), transparent);
+  }
+  .s3-title {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(28px, 5vw, 56px);
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
+    margin: 0 0 8px;
+  }
+  .s3-subtitle {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(16px, 2vw, 24px);
+    color: #9cbc14;
+    text-align: center;
+    margin: 0 0 clamp(32px, 5vh, 60px);
+    letter-spacing: 2px;
+  }
+  .s3-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(24px, 4vw, 60px);
+    max-width: 1100px;
+    margin: 0 auto;
+    align-items: start;
+  }
+  .s3-desc p {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(15px, 1.6vw, 20px);
+    color: rgba(255,255,255,0.75);
+    line-height: 1.7;
+    margin: 0 0 16px;
+  }
+  .s3-stats {
+    background: rgba(156,188,20,0.06);
+    border: 1px solid rgba(156,188,20,0.25);
+    border-radius: 20px;
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    padding: clamp(24px, 3vw, 40px);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .s3-stat {
+    text-align: center;
+    padding: 16px 8px;
+    border-radius: 12px;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(156,188,20,0.12);
+  }
+  .s3-stat-value {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(22px, 3vw, 36px);
+    color: #9cbc14;
+    display: block;
+  }
+  .s3-stat-label {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(12px, 1.2vw, 16px);
+    color: rgba(255,255,255,0.6);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 4px;
+    display: block;
+  }
+  @media (max-width: 768px) {
+    .s3-grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── S4 Features styles ──────────────────────────────────── */
+  #s4 {
+    position: relative;
+    min-height: 100vh;
+    background: #02040e;
+    padding: clamp(80px,10vh,120px) clamp(20px,6vw,80px) clamp(40px,6vh,80px);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  #s4::before {
+    content: '';
+    position: absolute; top: 0; left: 10%; right: 10%; height: 2px;
+    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.5), transparent);
+  }
+  .s4-title {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(28px, 5vw, 56px);
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
+    margin: 0 0 clamp(32px, 5vh, 60px);
+  }
+  .s4-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: clamp(16px, 2.5vw, 32px);
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .s4-card {
+    background: rgba(156,188,20,0.04);
+    border: 1px solid rgba(156,188,20,0.18);
+    border-radius: 18px;
+    backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+    padding: clamp(20px, 2.5vw, 36px);
+    text-align: center;
+    transition: transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease;
+  }
+  .s4-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 48px rgba(156,188,20,0.12);
+    border-color: rgba(156,188,20,0.4);
+  }
+  .s4-icon {
+    width: 48px; height: 48px;
+    margin: 0 auto clamp(12px, 1.5vw, 20px);
+  }
+  .s4-icon svg {
+    width: 100%; height: 100%;
+    stroke: #9cbc14; fill: none; stroke-width: 1.5;
+    stroke-linecap: round; stroke-linejoin: round;
+  }
+  .s4-card h3 {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(16px, 1.8vw, 22px);
+    color: #9cbc14;
+    margin: 0 0 8px;
+  }
+  .s4-card p {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(14px, 1.4vw, 18px);
+    color: rgba(255,255,255,0.65);
+    line-height: 1.6;
+    margin: 0;
+  }
+  @media (max-width: 768px) and (min-width: 481px) {
+    .s4-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 480px) {
+    .s4-grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── S5 Contact / Newsletter styles ──────────────────────── */
+  #s5 {
+    position: relative;
+    min-height: 60vh;
+    background: #02040e;
+    padding: clamp(80px,10vh,120px) clamp(20px,6vw,80px) clamp(40px,6vh,80px);
+    box-sizing: border-box;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    overflow: hidden;
+  }
+  #s5::before {
+    content: '';
+    position: absolute; top: 0; left: 10%; right: 10%; height: 2px;
+    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.5), transparent);
+  }
+  .s5-title {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(28px, 5vw, 56px);
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
+    margin: 0 0 12px;
+  }
+  .s5-text {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(15px, 1.8vw, 22px);
+    color: rgba(255,255,255,0.7);
+    text-align: center;
+    max-width: 540px;
+    margin: 0 0 clamp(24px, 4vh, 48px);
+    line-height: 1.6;
+  }
+  .s5-form {
+    display: flex;
+    gap: 12px;
+    max-width: 480px;
+    width: 100%;
+  }
+  .s5-input {
+    flex: 1;
+    padding: 14px 20px;
+    font-family: 'Pompiere', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    background: rgba(255,255,255,0.05);
+    border: 1.5px solid rgba(156,188,20,0.25);
+    border-radius: 12px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  .s5-input::placeholder { color: rgba(255,255,255,0.35); }
+  .s5-input:focus {
+    border-color: #9cbc14;
+    box-shadow: 0 0 16px rgba(156,188,20,0.2);
+  }
+  .s5-btn {
+    padding: 14px 28px;
+    font-family: 'Norwester', sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #02040e;
+    background: linear-gradient(135deg, #9cbc14, #a0c816, #b8d84a);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    white-space: nowrap;
+  }
+  .s5-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 28px rgba(156,188,20,0.35);
+  }
+  .s5-btn:active { transform: scale(0.97); }
+  @media (max-width: 480px) {
+    .s5-form { flex-direction: column; }
+    .s5-btn { width: 100%; }
+  }
+
+  /* ── Footer styles ───────────────────────────────────────── */
+  .eg-footer {
+    background: #0a0e1a;
+    border-top: 1px solid rgba(156,188,20,0.25);
+    padding: clamp(40px, 5vh, 64px) clamp(20px, 6vw, 80px) 0;
+    box-sizing: border-box;
+  }
+  .eg-footer-grid {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr 1fr;
+    gap: clamp(24px, 4vw, 60px);
+    max-width: 1100px;
+    margin: 0 auto clamp(32px, 4vh, 48px);
+  }
+  .eg-footer-brand-name {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(20px, 2.5vw, 28px);
+    color: #9cbc14;
+    margin: 0 0 8px;
+  }
+  .eg-footer-brand-tag {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(13px, 1.3vw, 17px);
+    color: rgba(255,255,255,0.5);
+    line-height: 1.5;
+  }
+  .eg-footer h4 {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(14px, 1.4vw, 18px);
+    color: rgba(255,255,255,0.85);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 0 16px;
+  }
+  .eg-footer-links {
+    list-style: none; padding: 0; margin: 0;
+  }
+  .eg-footer-links li { margin-bottom: 10px; }
+  .eg-footer-links a {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(14px, 1.3vw, 17px);
+    color: rgba(255,255,255,0.55);
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  .eg-footer-links a:hover { color: #9cbc14; }
+  .eg-footer-socials {
+    display: flex; gap: 16px; margin-top: 4px;
+  }
+  .eg-footer-socials a {
+    display: flex; align-items: center; justify-content: center;
+    width: 40px; height: 40px; border-radius: 50%;
+    background: rgba(156,188,20,0.08);
+    border: 1px solid rgba(156,188,20,0.2);
+    transition: background 0.3s ease, border-color 0.3s ease;
+  }
+  .eg-footer-socials a:hover {
+    background: rgba(156,188,20,0.18);
+    border-color: rgba(156,188,20,0.5);
+  }
+  .eg-footer-socials svg {
+    width: 18px; height: 18px;
+    fill: rgba(255,255,255,0.65);
+    transition: fill 0.3s ease;
+  }
+  .eg-footer-socials a:hover svg { fill: #9cbc14; }
+  .eg-footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.08);
+    text-align: center;
+    padding: 20px 0;
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(12px, 1.1vw, 15px);
+    color: rgba(255,255,255,0.35);
+    letter-spacing: 1px;
+  }
+  @media (max-width: 768px) {
+    .eg-footer-grid { grid-template-columns: 1fr; text-align: center; }
+    .eg-footer-socials { justify-content: center; }
+  }
+
+  /* ── Fade-in animation classes ───────────────────────────── */
+  .eg-fade-in {
+    opacity: 0; transform: translateY(30px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+  .eg-fade-in.visible {
+    opacity: 1; transform: translateY(0);
+  }
+</style>
+
+<!-- ═══════════════════════════════════════════════ S3: ABOUT ══ -->
+<section id="s3">
+  <h2 class="s3-title eg-fade-in">About EscapeGravity</h2>
+  <p class="s3-subtitle eg-fade-in">Defy physics. Reach the stars.</p>
+  <div class="s3-grid">
+    <div class="s3-desc eg-fade-in">
+      <p>EscapeGravity is an immersive board game where players race to launch from Earth and reach the International Space Station. Every turn pulls you deeper into the science of spaceflight, from calculating thrust to understanding orbital mechanics.</p>
+      <p>But this is no ordinary roll-and-move game. Gravity fights back! Players face physical challenges that get them out of their chairs — balance like an astronaut, stretch to simulate zero-G manoeuvres, and demonstrate the focus needed for mission control.</p>
+      <p>Along the way, science questions from physics, biology, and astronomy test your knowledge. Answer correctly to boost your trajectory; get it wrong and gravity drags you back toward Earth.</p>
+      <p>With strategic card play, unpredictable events, and a beautifully illustrated board, every launch attempt is a unique adventure for the whole family.</p>
+    </div>
+    <div class="s3-stats eg-fade-in">
+      <div class="s3-stat">
+        <span class="s3-stat-value">2-6</span>
+        <span class="s3-stat-label">Players</span>
+      </div>
+      <div class="s3-stat">
+        <span class="s3-stat-value">8+</span>
+        <span class="s3-stat-label">Ages</span>
+      </div>
+      <div class="s3-stat">
+        <span class="s3-stat-value">30-60</span>
+        <span class="s3-stat-label">Minutes</span>
+      </div>
+      <div class="s3-stat">
+        <span class="s3-stat-value">Science + Fun</span>
+        <span class="s3-stat-label">Category</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ S4: FEATURES ══ -->
+<section id="s4">
+  <h2 class="s4-title eg-fade-in">Game Features</h2>
+  <div class="s4-grid">
+
+    <div class="s4-card eg-fade-in">
+      <div class="s4-icon"><svg viewBox="0 0 48 48"><path d="M24 4 L24 18 M18 12 L24 18 L30 12"/><circle cx="24" cy="30" r="12"/><path d="M18 28 L22 34 L30 26"/></svg></div>
+      <h3>Physical Challenges</h3>
+      <p>Move, stretch, balance! The board demands real-world actions that bring the game to life.</p>
+    </div>
+
+    <div class="s4-card eg-fade-in">
+      <div class="s4-icon"><svg viewBox="0 0 48 48"><circle cx="24" cy="16" r="10"/><path d="M14 40 L24 28 L34 40"/><path d="M20 16 L24 12 L28 16 L24 20 Z"/></svg></div>
+      <h3>Science Learning</h3>
+      <p>Questions from physics to biology. Learn while you play and boost your trajectory!</p>
+    </div>
+
+    <div class="s4-card eg-fade-in">
+      <div class="s4-icon"><svg viewBox="0 0 48 48"><rect x="8" y="8" width="32" height="32" rx="4" fill="none"/><path d="M16 24 L22 30 L32 18"/><path d="M8 16 L40 16 M24 8 L24 40"/></svg></div>
+      <h3>Strategic Gameplay</h3>
+      <p>Plan your moves carefully. Every decision affects your orbit and your chance of reaching the ISS.</p>
+    </div>
+
+    <div class="s4-card eg-fade-in">
+      <div class="s4-icon"><svg viewBox="0 0 48 48"><circle cx="16" cy="20" r="8"/><circle cx="32" cy="20" r="8"/><path d="M8 38 C8 30 16 28 16 28 M24 28 C24 28 32 30 40 38"/><path d="M20 20 L28 20"/></svg></div>
+      <h3>Multiplayer Fun</h3>
+      <p>2-6 players race to escape gravity together. Alliances form, rivalries ignite!</p>
+    </div>
+
+    <div class="s4-card eg-fade-in">
+      <div class="s4-icon"><svg viewBox="0 0 48 48"><rect x="6" y="10" width="36" height="28" rx="3" fill="none"/><path d="M6 18 L24 28 L42 18"/><circle cx="36" cy="14" r="2" fill="#9cbc14" stroke="none"/></svg></div>
+      <h3>Beautiful Art</h3>
+      <p>Hand-illustrated cards and board bring the wonders of space to vivid life.</p>
+    </div>
+
+    <div class="s4-card eg-fade-in">
+      <div class="s4-icon"><svg viewBox="0 0 48 48"><path d="M24 4 L28 16 L40 16 L30 24 L34 36 L24 28 L14 36 L18 24 L8 16 L20 16 Z"/></svg></div>
+      <h3>Replayability</h3>
+      <p>Random events, shuffled cards, and branching paths make every game unique.</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ S5: CONTACT ══ -->
+<section id="s5">
+  <h2 class="s5-title eg-fade-in">Join the Mission</h2>
+  <p class="s5-text eg-fade-in">Be the first to know when EscapeGravity launches. Sign up for mission updates!</p>
+  <form class="s5-form eg-fade-in" id="s5-form">
+    <input type="email" class="s5-input" placeholder="your.email@mission.control" required>
+    <button type="submit" class="s5-btn">Launch</button>
+  </form>
+</section>
+
+<!-- ═══════════════════════════════════════════════ FOOTER ══ -->
+<footer class="eg-footer" id="eg-footer">
+  <div class="eg-footer-grid">
+    <div>
+      <div class="eg-footer-brand-name">EscapeGravity</div>
+      <div class="eg-footer-brand-tag">A board game that defies gravity and ignites curiosity. Science, strategy, and physical fun for the whole family.</div>
+    </div>
+    <div>
+      <h4>Quick Links</h4>
+      <ul class="eg-footer-links">
+        <li><a href="#s1" data-section="s1">Home</a></li>
+        <li><a href="#s3" data-section="s3">About</a></li>
+        <li><a href="#s4" data-section="s4">Features</a></li>
+        <li><a href="#s5" data-section="s5">Contact</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Follow Us</h4>
+      <div class="eg-footer-socials">
+        <a href="#" aria-label="X / Twitter"><svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+        <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="17.5" cy="6.5" r="1.2"/></svg></a>
+        <a href="#" aria-label="YouTube"><svg viewBox="0 0 24 24"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19.1c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z" fill="none" stroke="currentColor" stroke-width="1.5"/><polygon points="9.75,8.25 15.5,12 9.75,15.75" fill="currentColor" stroke="none"/></svg></a>
+      </div>
+    </div>
+  </div>
+  <div class="eg-footer-bottom">&copy; 2026 EscapeGravity. All rights reserved.</div>
+</footer>
+
+<!-- ═══════════════════════════════════ OBSERVER + FORM SCRIPTS ══ -->
+<script>
+(function(){
+  'use strict';
+
+  /* ── IntersectionObserver for fade-in animations ─────────── */
+  const fadeEls = document.querySelectorAll('.eg-fade-in');
+  if('IntersectionObserver' in window){
+    const obs = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if(e.isIntersecting){
+          e.target.classList.add('visible');
+          obs.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.15 });
+    fadeEls.forEach(el => obs.observe(el));
+  } else {
+    fadeEls.forEach(el => el.classList.add('visible'));
+  }
+
+  /* ── Newsletter form ─────────────────────────────────────── */
+  const form = document.getElementById('s5-form');
+  if(form){
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      alert('Thank you for joining the mission! We\u2019ll send you launch updates.');
+      form.reset();
+    });
+  }
 })();
 </script>
 
