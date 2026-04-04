@@ -754,13 +754,7 @@
     position: relative;                         /* tokens anchor here */
     display: flex; flex-direction: column;
     overflow: visible;
-    /* Ensure enough height so the square spiral fits fully on all screens.
-       On wide desktops the board needs vertical room ≈ viewport width;
-       on portrait / mobile screens 100vh is already sufficient.          */
-    height: max(100vh, calc(100vw * 0.78 + 100px));
-  }
-  @media (max-width: 768px) {
-    #s2 { height: 100vh; }            /* mobile: viewport height is enough */
+    height: 100vh;
   }
   /* ── Row 1: Title ─────────────────────────────────────── */
   #s2-title-row {
@@ -768,7 +762,7 @@
     display: flex; flex-direction: column;
     align-items: center; justify-content: center;
     text-align: center; gap: 8px;
-    padding: clamp(14px,2.5vh,32px) clamp(12px,4vw,40px);
+    padding: clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);
     background: linear-gradient(180deg,rgba(4,4,14,1) 0%,rgba(4,4,14,.9) 72%,rgba(4,4,14,.4) 100%);
     border-bottom: 1px solid rgba(156,188,20,.12);
     position: relative; z-index: 10;
@@ -934,7 +928,7 @@
 
   /* ── Arrow nav buttons ───────────────────────────────────── */
   #s2-nav {
-    position:absolute; bottom:clamp(10px,2vh,22px); left:50%;
+    position:absolute; bottom:clamp(8px,1.5vh,18px); left:50%;
     transform:translateX(-50%);
     z-index:30; display:flex; gap:20px; align-items:center;
     opacity:0; transition:opacity .6s ease;
@@ -1311,7 +1305,6 @@
       label.style.opacity = '1';
       diceWrap.classList.add('show');
       dice.classList.add('idle');
-      navEl.classList.add('show');
       btnBack.disabled = false;
       btnFwd.disabled  = false;
     }, 400);
@@ -1339,8 +1332,8 @@
         drawBoard(1, 0);
         state = 0; busy = false;
         progress.style.width = '0%'; progress.style.opacity = '1';
-        navEl.classList.remove('show');
-        btnBack.disabled = true; btnFwd.disabled = true;
+        navEl.classList.add('show');
+        btnBack.disabled = true; btnFwd.disabled = false;
       }
     }
     requestAnimationFrame(backFrame);
@@ -1349,21 +1342,33 @@
   /* ── Navigation ─────────────────────────────────────────── */
   window.s2GoBack = function() {
     if (busy) return;
-    if (state === 4) { undoRoll(); return; }
+    if (state === 4 || state === 5) {
+      // Go back from checkpoint 2 → checkpoint 1
+      undoRoll();
+      return;
+    }
     if (state === 2) {
-      // Reset to wide board
+      // Go back from checkpoint 1 → checkpoint 0
       label.style.opacity  = '0';
       diceWrap.classList.remove('show');
       dice.classList.remove('idle','rolling');
-      navEl.classList.remove('show');
-      btnBack.disabled = true; btnFwd.disabled = true;
       resetZoom();
+      return;
     }
   };
 
   window.s2GoForward = function() {
-    if (busy || state !== 2) return;
-    doRoll();
+    if (busy) return;
+    if (state === 0) {
+      // Go forward from checkpoint 0 → checkpoint 1 (trigger zoom)
+      startZoom();
+      return;
+    }
+    if (state === 2) {
+      // Go forward from checkpoint 1 → checkpoint 2 (roll dice)
+      doRoll();
+      return;
+    }
   };
 
   /* ── Dice roll ──────────────────────────────────────────── */
@@ -1408,7 +1413,7 @@
       }, 3200);
       setTimeout(() => {
         state = 4; busy = false;
-        btnBack.disabled = false; btnFwd.disabled = false;
+        btnBack.disabled = false; btnFwd.disabled = true;
       }, 5000);
     }, 2000);
   }
@@ -1417,6 +1422,9 @@
     state = 2; busy = false;
     result.classList.remove('show');
     diceWrap.classList.remove('hide');
+    diceWrap.classList.add('show');
+    dice.classList.add('idle');
+    dice.classList.remove('rolling');
     // Reset canvas focus + scale back to the post-zoom2 resting state
     curFocusNX   = FOCUS_NX;
     curFocusNY   = FOCUS_NY;
@@ -1424,15 +1432,25 @@
     drawBoard(currentScale, currentRotation);
     tokBlue.classList.remove('slide');
     showTokens();
+    label.style.opacity = '1';
     btnBack.disabled = false; btnFwd.disabled = false;
   }
+
+  /* ── Show nav when S2 is in view ─────────────────────────── */
+  new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) {
+      navEl.classList.add('show');
+      btnBack.disabled = (state === 0);
+      btnFwd.disabled = (state === 4 || state === 5);
+    }
+  }, { threshold: 0.3 }).observe(document.getElementById('s2'));
 
   /* ── Auto-trigger on scroll ─────────────────────────────── */
   new IntersectionObserver(entries => {
     if (entries[0].isIntersecting && state === 0 && !busy) {
       setTimeout(startZoom, 400); // brief pause before starting
     }
-  }, { threshold: 0.2 }).observe(document.getElementById('s2'));
+  }, { threshold: 0.5 }).observe(document.getElementById('s2'));
 
   window.addEventListener('resize', () => {
     resizeCanvas();
