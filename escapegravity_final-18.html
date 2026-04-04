@@ -1089,69 +1089,66 @@
   #s2-comic-bubble {
     position: absolute;
     z-index: 35;
-    top: 10%;
-    left: 50%;
-    transform: translateX(-50%) scale(0);
+    transform: scale(0);
     opacity: 0;
     transition: transform 0.5s cubic-bezier(.34,1.56,.64,1), opacity 0.4s ease;
     pointer-events: none;
   }
   #s2-comic-bubble.show {
-    transform: translateX(-50%) scale(1);
+    transform: scale(1);
     opacity: 1;
   }
   .s2-bubble-box {
-    background: #fff;
-    color: #1a0838;
+    background: linear-gradient(135deg, #a0c816, #7aa010);
+    color: #fff;
     font-family: 'Pompiere', sans-serif;
-    font-size: clamp(13px, 1.8vw, 20px);
+    font-size: clamp(12px, 1.6vw, 18px);
     font-weight: 700;
     line-height: 1.4;
     text-align: center;
-    padding: clamp(12px, 2vw, 22px) clamp(16px, 3vw, 32px);
-    border-radius: 20px;
+    padding: clamp(10px, 1.5vw, 18px) clamp(14px, 2.5vw, 28px);
+    border-radius: 18px;
     border: 3px solid #6b2155;
     box-shadow: 0 8px 30px rgba(0,0,0,0.5);
     position: relative;
-    max-width: clamp(220px, 40vw, 380px);
+    max-width: clamp(200px, 35vw, 320px);
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
   }
-  /* Comic tail pointing down */
+  /* Comic tail pointing down-left toward tile */
   .s2-bubble-box::after {
     content: '';
     position: absolute;
-    bottom: -18px;
-    left: 50%;
-    transform: translateX(-50%);
+    bottom: -16px;
+    left: 25%;
     width: 0; height: 0;
-    border-left: 14px solid transparent;
-    border-right: 14px solid transparent;
-    border-top: 20px solid #fff;
-    filter: drop-shadow(0 3px 2px rgba(0,0,0,0.2));
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 18px solid #7aa010;
   }
   .s2-bubble-box::before {
     content: '';
     position: absolute;
-    bottom: -22px;
-    left: 50%;
-    transform: translateX(-50%);
+    bottom: -20px;
+    left: calc(25% - 2px);
     width: 0; height: 0;
-    border-left: 16px solid transparent;
-    border-right: 16px solid transparent;
-    border-top: 22px solid #6b2155;
+    border-left: 14px solid transparent;
+    border-right: 14px solid transparent;
+    border-top: 20px solid #6b2155;
   }
   .s2-bubble-earth {
     display: inline-block;
-    width: 1.4em; height: 1.4em;
+    width: 1.3em; height: 1.3em;
     vertical-align: middle;
-    border: 2px solid #6b2155;
+    border: 2px solid #fff;
     border-radius: 50%;
     background: radial-gradient(circle at 40% 40%, #4a90d9, #1a5c2a 50%, #2d7d3a 70%, #4a90d9 90%);
-    margin: 0 4px;
-    box-shadow: 0 0 8px rgba(74,144,217,0.5);
+    margin: 0 3px;
+    box-shadow: 0 0 6px rgba(255,255,255,0.5);
   }
   .s2-bubble-highlight {
-    color: #6b2155;
+    color: #fff;
     font-weight: 900;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
   }
 </style>
 
@@ -2024,10 +2021,21 @@
         if (state !== 3) return;
         state = 4; busy = false;
         btnBack.disabled = false; btnFwd.disabled = true;
-        // Show comic bubble after zoom settles
+        // Show comic bubble near the blue token on tile 11
         rollTimers.push(setTimeout(() => {
           var bubble = document.getElementById('s2-comic-bubble');
-          if (bubble) bubble.classList.add('show');
+          if (!bubble) return;
+          // Position relative to board-row using tile 11 coords
+          var p11 = tilePos(TILE11_NX, TILE11_NY);
+          var boardRow = document.getElementById('s2-board-row');
+          var brRect = boardRow.getBoundingClientRect();
+          var s2Rect = s2El.getBoundingClientRect();
+          // Place bubble above and slightly right of the token
+          var bx = p11.x - s2Rect.left;
+          var by = p11.y - s2Rect.top - brRect.top + s2Rect.top;
+          bubble.style.left = Math.min(bx + 20, brRect.width - 200) + 'px';
+          bubble.style.top = Math.max(by - 120, 10) + 'px';
+          bubble.classList.add('show');
         }, 2200));
       }, 5000));
     }, 2000));
