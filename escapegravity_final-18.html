@@ -87,13 +87,6 @@
     }
     #content > * { pointer-events: all; }
 
-    /* ── Hero text backdrop ────────────────────────────────────── */
-    .hero-text-box {
-      background: rgba(10,6,24,.55);
-      backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
-      border-radius: 20px;
-      padding: clamp(16px,2.5vh,28px) clamp(20px,4vw,48px);
-      pointer-events: all;
     }
 
     /* ── Title ─────────────────────────────────────────────────── */
@@ -101,12 +94,16 @@
       font-family: 'Norwester', sans-serif;
       font-weight: normal; font-style: normal; font-variant: small-caps;
       font-size: clamp(40px, 7vw, 96px);
-      line-height: .88;
+      line-height: 1.1;
       color: #fff;
       text-shadow: 0 0 26px rgba(160,210,20,.55), 3px 3px 0 rgba(0,0,0,.9);
       margin-bottom: 15px;
       animation: float-title 7s ease-in-out infinite;
       white-space: nowrap;
+      background: rgba(10,6,24,.6);
+      padding: 8px clamp(14px,2vw,24px);
+      border-radius: 8px;
+      -webkit-box-decoration-break: clone; box-decoration-break: clone;
     }
     @keyframes float-title {
       0%, 100% { transform: translateY(0);    }
@@ -124,6 +121,10 @@
       opacity: .92;
       margin-bottom: 14px;
       white-space: nowrap;
+      background: rgba(10,6,24,.55);
+      padding: 5px clamp(10px,1.5vw,18px);
+      border-radius: 6px;
+      -webkit-box-decoration-break: clone; box-decoration-break: clone;
     }
 
     /* ── Description ───────────────────────────────────────────── */
@@ -131,11 +132,15 @@
       font-family: 'Pompiere', sans-serif;
       font-weight: 400; font-style: normal;
       font-size: clamp(13px, 1.4vw, 18px);
-      line-height: 1.80;
-      color: rgba(255,255,255,.75);
+      line-height: 2.0;
+      color: rgba(255,255,255,.8);
       text-shadow: 0 1px 5px rgba(0,0,0,.95);
       margin-bottom: 22px;
       white-space: nowrap;
+      background: rgba(10,6,24,.5);
+      padding: 6px clamp(10px,1.5vw,18px);
+      border-radius: 6px;
+      -webkit-box-decoration-break: clone; box-decoration-break: clone;
     }
 
     /* ── DK Button — reusable brand button ───────────────────── */
@@ -371,7 +376,6 @@
 <canvas id="cv"></canvas>
 
   <div id="content">
-    <div class="hero-text-box">
       <h1 class="title">EscapeGravity</h1>
       <p class="subtitle">Boardgame &nbsp;&middot;&nbsp; Physical Challenges &nbsp;&middot;&nbsp; Science</p>
       <p class="desc">
@@ -414,7 +418,6 @@
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
-    </div><!-- /.hero-text-box -->
   </div>
 
   <!-- Replay button — bottom right -->
