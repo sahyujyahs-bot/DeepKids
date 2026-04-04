@@ -29,7 +29,7 @@
     html { height: 100%; }
     body {
       height: 100%; overflow-y: auto; color: #fff;
-      background: #2B2847;       /* deep purple base */
+      background: #0a0618;       /* deep purple-black base */
       /* Fixed starfield — brighter, more stars, varied sizes */
       background-image:
         /* Bright stars */
@@ -84,14 +84,17 @@
       padding: 60px clamp(12px, 4vw, 40px) 0;  /* top padding for nav bar */
       text-align: center;
       pointer-events: none;
-      background: linear-gradient(
-        to bottom,
-        rgba(43,40,71,.7) 0%,
-        rgba(43,40,71,.4) 60%,
-        rgba(43,40,71,0)  100%
-      );
     }
     #content > * { pointer-events: all; }
+
+    /* ── Hero text backdrop ────────────────────────────────────── */
+    .hero-text-box {
+      background: rgba(10,6,24,.55);
+      backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+      border-radius: 20px;
+      padding: clamp(16px,2.5vh,28px) clamp(20px,4vw,48px);
+      pointer-events: all;
+    }
 
     /* ── Title ─────────────────────────────────────────────────── */
     .title {
@@ -278,9 +281,8 @@
 <style>
   .eg-nav {
     position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;
-    background: rgba(43,40,71,0.6);
+    background: rgba(10,6,24,0.6);
     backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(156,188,20,0.3);
     display: flex; align-items: center; justify-content: space-between;
     padding: 0 clamp(16px,4vw,48px);
     height: 56px; box-sizing: border-box;
@@ -369,14 +371,15 @@
 <canvas id="cv"></canvas>
 
   <div id="content">
-    <h1 class="title">EscapeGravity</h1>
-    <p class="subtitle">Boardgame &nbsp;&middot;&nbsp; Physical Challenges &nbsp;&middot;&nbsp; Science</p>
-    <p class="desc">
-      Your mission is to reach the International Space Station from Earth's surface.<br>
-      But it won't be easy. The board is Gravity's agent<br>
-      trying to pull you down into the core &amp; consume!
-    </p>
-    <div class="btn-wrap" onclick="doPreOrder()">
+    <div class="hero-text-box">
+      <h1 class="title">EscapeGravity</h1>
+      <p class="subtitle">Boardgame &nbsp;&middot;&nbsp; Physical Challenges &nbsp;&middot;&nbsp; Science</p>
+      <p class="desc">
+        Your mission is to reach the International Space Station from Earth's surface.<br>
+        But it won't be easy. The board is Gravity's agent<br>
+        trying to pull you down into the core &amp; consume!
+      </p>
+      <div class="btn-wrap" onclick="doPreOrder()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
@@ -411,6 +414,7 @@
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
+    </div><!-- /.hero-text-box -->
   </div>
 
   <!-- Replay button — bottom right -->
@@ -478,7 +482,7 @@
       })();
 
       function drawBackground() {
-        ctx.fillStyle = '#2B2847';
+        ctx.fillStyle = '#0a0618';
         ctx.fillRect(0, 0, W, H);
 
         stars.forEach(s => {
@@ -887,8 +891,7 @@
     align-items: center; justify-content: center;
     text-align: center; gap: 8px;
     padding: clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);
-    background: linear-gradient(180deg,rgba(43,40,71,.5) 0%,rgba(43,40,71,.3) 72%,transparent 100%);
-    border-bottom: 1px solid rgba(156,188,20,.12);
+    background: linear-gradient(180deg,rgba(10,6,24,.5) 0%,rgba(10,6,24,.3) 72%,transparent 100%);
     position: relative; z-index: 10;
   }
   #s2-title-row h2 {
@@ -1918,8 +1921,7 @@
 
   /* ── Footer styles ───────────────────────────────────────── */
   .eg-footer {
-    background: rgba(43,40,71,.6);
-    border-top: 1px solid rgba(156,188,20,0.25);
+    background: rgba(10,6,24,.6);
     padding: clamp(40px, 5vh, 64px) clamp(20px, 6vw, 80px) 0;
     box-sizing: border-box;
   }
@@ -1983,7 +1985,6 @@
   }
   .eg-footer-socials a:hover svg { fill: #9cbc14; }
   .eg-footer-bottom {
-    border-top: 1px solid rgba(255,255,255,0.08);
     text-align: center;
     padding: 20px 0;
     font-family: 'Pompiere', sans-serif;
