@@ -33,7 +33,7 @@
     #cv {
       position: absolute; inset: 0; z-index: 0;
       display: block; cursor: grab;
-      touch-action: pan-y;    /* allow vertical scroll on mobile */
+      touch-action: none;     /* managed by JS: scroll allowed unless dragging a card */
     }
     #cv:active { cursor: grabbing; }
 
@@ -556,13 +556,11 @@
         const mouse = Mouse.create(cv);
         mouse.pixelRatio = 1;
 
-        /* Matter.js adds touchmove/touchstart listeners with preventDefault,
-           which blocks page scrolling on mobile. Remove them and re-add as
-           passive so the page can scroll while cards remain draggable.      */
+        /* Matter.js adds touchmove/touchstart with preventDefault, blocking
+           page scroll. Replace with smart handling: allow scroll normally,
+           but block it when the user is actively dragging a physics card.   */
         cv.removeEventListener('touchmove', mouse.mousemove);
         cv.removeEventListener('touchstart', mouse.mousedown);
-        cv.addEventListener('touchmove',  mouse.mousemove,  { passive: true });
-        cv.addEventListener('touchstart', mouse.mousedown,  { passive: true });
 
         const mc = MouseConstraint.create(engine, {
           mouse,
@@ -574,6 +572,50 @@
           },
         });
         World.add(world, mc);
+
+        /* ── Smart touch: scroll vs drag ──────────────────────── */
+        let isDraggingCard = false;
+        let touchStartY = 0;
+        let touchDecided = false;   // once we decide scroll vs drag, lock it
+
+        Events.on(mc, 'startdrag', () => { isDraggingCard = true; });
+        Events.on(mc, 'enddrag',   () => { isDraggingCard = false; touchDecided = false; });
+
+        cv.addEventListener('touchstart', (e) => {
+          touchStartY = e.touches[0].clientY;
+          touchDecided = false;
+          isDraggingCard = false;
+          // Let Matter.js know about the touch
+          mouse.mousedown(e);
+        }, { passive: true });
+
+        cv.addEventListener('touchmove', (e) => {
+          // Feed position to Matter.js
+          mouse.mousemove(e);
+
+          if (!touchDecided) {
+            // If Matter.js grabbed a body, it's a card drag → block scroll
+            if (mc.body) {
+              isDraggingCard = true;
+              touchDecided = true;
+            } else {
+              // No body grabbed → this is a scroll, let it through
+              touchDecided = true;
+              isDraggingCard = false;
+            }
+          }
+
+          // Only block scroll when dragging a card
+          if (isDraggingCard) {
+            e.preventDefault();
+          }
+        }, { passive: false });  /* non-passive so we CAN preventDefault */
+
+        cv.addEventListener('touchend', (e) => {
+          mouse.mouseup(e);
+          isDraggingCard = false;
+          touchDecided = false;
+        }, { passive: true });
 
         const hint    = document.getElementById('drag-hint');
         const replayBtn = document.getElementById('replay-btn');
@@ -597,7 +639,7 @@
           startTease();
         }, 5000);
 
-        /* Stop everything the moment user first drags */
+        /* Stop tease the moment user first drags */
         Events.on(mc, 'startdrag', () => {
           cv.style.cursor = 'grabbing';
           teaseActive = false;
