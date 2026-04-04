@@ -183,6 +183,10 @@
       display: inline-block;
       cursor: pointer;
       animation: btn-bob 3.5s ease-in-out infinite;
+      /* Shift right so the D-shape (not the K fins) is centered under text.
+         The D occupies x 5–273 of 360 viewBox, center at ~139.
+         Total center is 180. Offset = (180-139)/360 ≈ 11.4% of button width. */
+      margin-left: 11%;
     }
     .btn-wrap:hover  { filter: brightness(1.14); transform: translateX(5px) scale(1.05); animation: none; }
     .btn-wrap:active { transform: translateX(2px) scale(.97);                            animation: none; }
