@@ -33,7 +33,7 @@
     #cv {
       position: absolute; inset: 0; z-index: 0;
       display: block; cursor: grab;
-      touch-action: none;     /* managed by JS: scroll allowed unless dragging a card */
+      touch-action: auto;     /* normal scroll; JS blocks only when dragging a card */
     }
     #cv:active { cursor: grabbing; }
 
@@ -557,8 +557,7 @@
         mouse.pixelRatio = 1;
 
         /* Matter.js adds touchmove/touchstart with preventDefault, blocking
-           page scroll. Replace with smart handling: allow scroll normally,
-           but block it when the user is actively dragging a physics card.   */
+           page scroll on mobile. Remove them so we control touch ourselves. */
         cv.removeEventListener('touchmove', mouse.mousemove);
         cv.removeEventListener('touchstart', mouse.mousedown);
 
@@ -573,49 +572,50 @@
         });
         World.add(world, mc);
 
-        /* ── Smart touch: scroll vs drag ──────────────────────── */
-        let isDraggingCard = false;
-        let touchStartY = 0;
-        let touchDecided = false;   // once we decide scroll vs drag, lock it
+        /* ── Smart touch: scroll vs card drag ─────────────────── */
+        /* At touchstart we check if a physics body is under the finger.
+           If yes → set touch-action:none (block browser scroll, enable drag).
+           If no  → keep touch-action:auto (browser handles scroll normally).
+           touch-action is read by the browser at touchstart, so we set it
+           BEFORE the next touch via a pointerdown / touchstart on the
+           preceding pointerup. We use a hit-test approach instead.          */
 
-        Events.on(mc, 'startdrag', () => { isDraggingCard = true; });
-        Events.on(mc, 'enddrag',   () => { isDraggingCard = false; touchDecided = false; });
+        /* Hit-test: is there a physics body at (x, y) canvas coords? */
+        function bodyAtPoint(x, y) {
+          const rect = cv.getBoundingClientRect();
+          const px = x - rect.left;
+          const py = y - rect.top;
+          const { Query } = Matter;
+          const point = { x: px, y: py };
+          const allBodies = physEntries.map(en => en.body);
+          const hits = Query.point(allBodies, point);
+          return hits.length > 0;
+        }
 
-        cv.addEventListener('touchstart', (e) => {
-          touchStartY = e.touches[0].clientY;
-          touchDecided = false;
-          isDraggingCard = false;
-          // Let Matter.js know about the touch
-          mouse.mousedown(e);
-        }, { passive: true });
-
-        cv.addEventListener('touchmove', (e) => {
-          // Feed position to Matter.js
-          mouse.mousemove(e);
-
-          if (!touchDecided) {
-            // If Matter.js grabbed a body, it's a card drag → block scroll
-            if (mc.body) {
-              isDraggingCard = true;
-              touchDecided = true;
+        /* On pointerdown (fires before touchstart), decide touch-action */
+        cv.addEventListener('pointerdown', (e) => {
+          if (e.pointerType === 'touch') {
+            if (bodyAtPoint(e.clientX, e.clientY)) {
+              cv.style.touchAction = 'none';   // block scroll, allow drag
             } else {
-              // No body grabbed → this is a scroll, let it through
-              touchDecided = true;
-              isDraggingCard = false;
+              cv.style.touchAction = 'auto';   // allow normal scroll
             }
           }
+        });
 
-          // Only block scroll when dragging a card
-          if (isDraggingCard) {
-            e.preventDefault();
-          }
-        }, { passive: false });  /* non-passive so we CAN preventDefault */
+        cv.addEventListener('pointerup', () => {
+          cv.style.touchAction = 'auto';  // reset for next gesture
+        });
+        cv.addEventListener('pointercancel', () => {
+          cv.style.touchAction = 'auto';
+        });
 
-        cv.addEventListener('touchend', (e) => {
-          mouse.mouseup(e);
-          isDraggingCard = false;
-          touchDecided = false;
-        }, { passive: true });
+        /* Feed touch events to Matter.js mouse (passive: true is fine
+           because the browser already decided scroll vs no-scroll from
+           touch-action set during pointerdown).                          */
+        cv.addEventListener('touchstart', (e) => { mouse.mousedown(e); }, { passive: true });
+        cv.addEventListener('touchmove',  (e) => { mouse.mousemove(e); }, { passive: true });
+        cv.addEventListener('touchend',   (e) => { mouse.mouseup(e);   }, { passive: true });
 
         const hint    = document.getElementById('drag-hint');
         const replayBtn = document.getElementById('replay-btn');
