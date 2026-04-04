@@ -1446,18 +1446,26 @@
 .s2-force-link {
   display: none;
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(10px, 1.2vw, 14px);
-  letter-spacing: 2px;
+  font-size: clamp(11px, 1.3vw, 15px);
+  letter-spacing: 3px;
   text-transform: uppercase;
   color: #9cbc14;
   cursor: pointer;
   text-align: center;
-  margin-top: 6px;
-  opacity: 0.7;
-  transition: opacity 0.3s;
+  margin-top: 8px;
+  opacity: 0;
+  transition: opacity 0.6s ease;
 }
-.s2-force-link:hover { opacity: 1; text-decoration: underline; }
-.s2-force-link.show { display: block; }
+.s2-force-link.show { display: block; opacity: 1; }
+.s2-force-link:hover { text-shadow: 0 0 12px rgba(156,188,20,0.6); }
+
+@keyframes s2-force-pulse {
+  0%, 100% { opacity: 0.6; transform: scale(1); text-shadow: 0 0 0 transparent; }
+  50% { opacity: 1; transform: scale(1.08); text-shadow: 0 0 18px rgba(156,188,20,0.7); }
+}
+.s2-force-link.pulse {
+  animation: s2-force-pulse 1.5s ease-in-out infinite;
+}
 </style>
 
 <div class="s2-force-overlay" id="s2-force-overlay">
@@ -2102,19 +2110,17 @@
   var forceLink = document.getElementById('s2-force-link');
   var forceEarned = false;
 
-  function showForceCard(isReward) {
+  function showForceCard() {
     var title = document.getElementById('s2-force-popup-title');
-    if (title) title.textContent = isReward ? 'You Earned a Force Card!' : 'Your Force Card';
+    if (title) title.textContent = 'Your Force Card';
     forceOverlay.classList.add('show');
     forceCardWrap.classList.remove('flipped');
+    // Stop pulse after first view
+    forceLink.classList.remove('pulse');
   }
 
   function hideForceCard() {
     forceOverlay.classList.remove('show');
-    if (!forceEarned) {
-      forceEarned = true;
-      forceLink.classList.add('show');
-    }
   }
 
   // Flip on click
@@ -2130,16 +2136,13 @@
 
   // "Your Force Cards" link
   forceLink.addEventListener('click', function() {
-    showForceCard(false);
+    showForceCard();
   });
 
   // Click overlay background to close
   forceOverlay.addEventListener('click', function(e) {
     if (e.target === forceOverlay) hideForceCard();
   });
-
-  // Expose for use in drop animation
-  window.showForceCard = showForceCard;
 
   function startDropAnimation() {
     var scene = document.getElementById('s2-drop-scene');
@@ -2197,9 +2200,10 @@
       });
     }, 1500);
 
-    // After items settle, show force card reward
+    // After items settle, show the force card link with animation
     setTimeout(function() {
-      showForceCard(true);
+      forceEarned = true;
+      forceLink.classList.add('show', 'pulse');
     }, 5500);
 
     // After all items settled, allow click to reset
