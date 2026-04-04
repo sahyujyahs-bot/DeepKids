@@ -1878,6 +1878,7 @@
     });
 
     el.classList.remove('inviting');
+    el.style.cssText = '';  // clear inline transform so CSS class takes over
     el.classList.add('selected');
     setTimeout(function(){ el.classList.add('flipped'); }, 500);
 
@@ -1890,8 +1891,13 @@
   function resetFan(){
     selected = null;
     var prompt = document.getElementById('s2-draw-prompt');
-    document.querySelectorAll('.s2-fan-card').forEach(function(c){
+    document.querySelectorAll('.s2-fan-card').forEach(function(c, idx){
       c.classList.remove('selected','flipped','dimmed');
+      // Restore original fan transform
+      var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * idx;
+      c.style.cssText = 'transform:translate(-50%,-50%) rotate('+angle+'deg);'
+        + '--card-base-transform:translate(-50%,-50%) rotate('+angle+'deg);'
+        + '--card-delay:'+(idx*0.18)+'s;';
       c.classList.add('inviting');
     });
     setTimeout(function(){ if(prompt) prompt.classList.add('show'); }, 300);
