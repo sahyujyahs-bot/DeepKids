@@ -1269,13 +1269,9 @@
   animation-delay: var(--card-delay, 0s);
 }
 
-/* Selected card — pops out of fan, centered in viewport */
+/* Selected card — JS handles transform directly */
 .s2-fan-card.selected {
   animation: none;
-  transform: translate(-50%,-50%) rotate(0deg) scale(2.2) !important;
-  transform-origin: center center !important;
-  z-index: 20;
-  filter: drop-shadow(0 20px 40px rgba(0,0,0,0.8));
 }
 .s2-fan-card.dimmed {
   animation: none;
@@ -1878,14 +1874,23 @@
     });
 
     el.classList.remove('inviting');
-    el.style.cssText = '';  // clear inline transform so CSS class takes over
-    el.classList.add('selected');
-    setTimeout(function(){ el.classList.add('flipped'); }, 500);
+    // Step 1: pop out of fan, center, straighten
+    el.style.transformOrigin = 'center center';
+    el.style.transform = 'translate(-50%,-50%) rotate(0deg)';
+    el.style.zIndex = '20';
+    el.style.filter = 'drop-shadow(0 20px 40px rgba(0,0,0,0.8))';
+    // Step 2: flip after settling
+    setTimeout(function(){ el.classList.add('flipped'); }, 600);
+    // Step 3: zoom up after flip completes
+    setTimeout(function(){
+      el.style.transition = 'transform 0.6s cubic-bezier(.34,1.56,.64,1)';
+      el.style.transform = 'translate(-50%,-50%) rotate(0deg) scale(2.2)';
+    }, 1400);
 
     setTimeout(function(){
       el.style.cursor = 'pointer';
       el.addEventListener('click', resetFan, {once:true});
-    }, 1400);
+    }, 2200);
   }
 
   function resetFan(){
@@ -1893,8 +1898,10 @@
     var prompt = document.getElementById('s2-draw-prompt');
     document.querySelectorAll('.s2-fan-card').forEach(function(c, idx){
       c.classList.remove('selected','flipped','dimmed');
-      // Restore original fan transform
+      // Restore original fan transform and clear all inline overrides
       var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * idx;
+      c.style.cssText = '';
+      c.offsetHeight; // force reflow
       c.style.cssText = 'transform:translate(-50%,-50%) rotate('+angle+'deg);'
         + '--card-base-transform:translate(-50%,-50%) rotate('+angle+'deg);'
         + '--card-delay:'+(idx*0.18)+'s;';
