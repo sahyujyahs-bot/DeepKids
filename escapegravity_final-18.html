@@ -1216,9 +1216,9 @@
 /* ── S2 Individual Fan Cards ────────────────────────────── */
 .s2-fan-card {
   position: absolute;
-  bottom: 5%;
+  bottom: 10%;
   left: 50%;
-  width: clamp(180px, 28vw, 340px);
+  width: min(55vw, 45vh);
   aspect-ratio: 1677 / 1205;
   transform-origin: bottom center;
   cursor: pointer;
@@ -1272,7 +1272,8 @@
 /* Selected card — pops out of fan, centered in viewport */
 .s2-fan-card.selected {
   animation: none;
-  transform: translateX(-50%) translateY(-60%) scale(1.8);
+  bottom: 50%;
+  transform: translateX(-50%) translateY(50%) rotate(0deg) scale(1.2);
   z-index: 20;
   filter: drop-shadow(0 20px 40px rgba(0,0,0,0.8));
 }
