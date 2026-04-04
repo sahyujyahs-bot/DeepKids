@@ -1858,14 +1858,15 @@
   }
 
   /* ── Navigation ─────────────────────────────────────────── */
+  window.s2ActiveTab = 'boardgame';
+
   window.s2GoBack = function() {
+    if (window.s2ActiveTab === 'physical') { window.pcGoBack(); return; }
     if (state === 1 || state === 6) {
-      // Zoom or reset in progress → snap to start, auto-start
       jumpToState0();
       return;
     }
     if (state === 2) {
-      // Dice ready → go back to start, auto-start
       label.style.opacity = '0';
       diceWrap.classList.remove('show');
       dice.classList.remove('idle','rolling');
@@ -1873,26 +1874,23 @@
       return;
     }
     if (state === 3 || state === 4 || state === 5) {
-      // Rolling / done / zoomed-tile-11 → go back to dice ready
       jumpToState2();
       return;
     }
   };
 
   window.s2GoForward = function() {
+    if (window.s2ActiveTab === 'physical') { window.pcGoForward(); return; }
     if (state === 1) {
-      // Zoom in progress → skip to dice ready
       jumpToState2();
       return;
     }
     if (state === 0) {
-      // Start → trigger zoom
       clearTimeout(autoStartTimer);
       startZoom();
       return;
     }
     if (state === 2) {
-      // Dice ready → roll
       doRoll();
       return;
     }
@@ -1987,9 +1985,9 @@
     if (tokBlue) tokBlue.style.display = v;
     if (tokRed)  tokRed.style.display = v;
     if (diceWrap) diceWrap.style.display = v;
-    if (s2Nav)   s2Nav.style.display = v;
     if (s2Label) s2Label.style.display = v;
     if (s2Progress) s2Progress.style.display = v;
+    // Nav stays visible on physical tab too
   }
 
   tabs.forEach(function(tab){
@@ -2001,7 +1999,18 @@
       var panel = document.getElementById('s2-panel-' + target);
       if (panel) panel.classList.add('active');
       setBoardElementsVisible(target === 'boardgame');
-      if (target === 'physical') initCardFan();
+      // Show nav on physical tab too, update button states
+      if (target === 'physical') {
+        initCardFan();
+        s2Nav.style.display = '';
+        window.s2ActiveTab = 'physical';
+        window.pcJumpTo(0);
+      } else if (target === 'boardgame') {
+        window.s2ActiveTab = 'boardgame';
+      } else {
+        s2Nav.style.display = 'none';
+        window.s2ActiveTab = target;
+      }
     });
   });
 })();
@@ -2336,6 +2345,108 @@
     /* Start initial drop */
     startDrop();
   }
+
+  /* ── Physical Challenges checkpoint navigation ─────────── */
+  /* PC states: 0=card fan, 1=card zoomed, 2=drop scene       */
+  var pcState = 0;
+
+  function pcUpdateButtons() {
+    var back = document.getElementById('s2-back');
+    var fwd  = document.getElementById('s2-fwd');
+    back.disabled = false;
+    fwd.disabled  = false;
+  }
+
+  window.pcJumpTo = function(target) {
+    var scene = document.getElementById('s2-drop-scene');
+    var fan   = document.getElementById('s2-card-fan');
+    var prompt = document.getElementById('s2-draw-prompt');
+    var back = document.getElementById('s2-back');
+    var fwd  = document.getElementById('s2-fwd');
+
+    if (target === 0) {
+      // Reset to card fan
+      if (scene) scene.classList.remove('active');
+      // Reset items
+      ['s2-item-ball','s2-item-feather','s2-item-leaf','s2-item-paper'].forEach(function(id){
+        var el = document.getElementById(id);
+        if (el) el.style.opacity = '0';
+      });
+      var kh = document.getElementById('s2-kids-holding');
+      var ke = document.getElementById('s2-kids-empty');
+      if (kh) kh.style.opacity = '1';
+      if (ke) ke.style.opacity = '0';
+      // Reset card fan
+      selected = null;
+      document.querySelectorAll('.s2-fan-card').forEach(function(c, idx){
+        c.classList.remove('selected','flipped','dimmed');
+        c.style.cssText = '';
+        c.offsetHeight;
+        var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * idx;
+        c.style.cssText = 'transform:translate(-50%,-50%) rotate('+angle+'deg);'
+          + '--card-base-transform:translate(-50%,-50%) rotate('+angle+'deg);'
+          + '--card-delay:'+(idx*0.18)+'s;';
+        c.classList.add('inviting');
+      });
+      if (fan) fan.style.display = '';
+      if (prompt) { prompt.classList.add('show'); }
+      pcState = 0;
+      back.disabled = true;
+      fwd.disabled = true; // user must click a card
+    }
+    else if (target === 1) {
+      // Jump to zoomed card view — pick the first card automatically
+      if (scene) scene.classList.remove('active');
+      if (fan) fan.style.display = '';
+      var cards = document.querySelectorAll('.s2-fan-card');
+      if (cards.length > 0 && !selected) {
+        pickCard(cards[Math.floor(Math.random() * cards.length)]);
+      }
+      pcState = 1;
+      pcUpdateButtons();
+    }
+    else if (target === 2) {
+      // Jump to drop scene
+      if (fan) fan.style.display = 'none';
+      if (prompt) prompt.classList.remove('show');
+      // Hide all cards
+      document.querySelectorAll('.s2-fan-card').forEach(function(c){
+        c.style.opacity = '0';
+      });
+      startDropAnimation();
+      pcState = 2;
+      pcUpdateButtons();
+    }
+  };
+
+  // Called when card is picked — update pcState
+  var origPickCard = pickCard;
+  // Track pcState when card is naturally picked
+  var origClickHandler = null;
+
+  // Watch for pcState changes from natural flow
+  function onCardPicked() { pcState = 1; pcUpdateButtons(); }
+  function onDropStarted() { pcState = 2; pcUpdateButtons(); }
+
+  // Hook into existing flow: override pickCard to also update pcState
+  var _origPickCard = pickCard;
+  pickCard = function(el) {
+    _origPickCard(el);
+    onCardPicked();
+  };
+
+  window.pcGoBack = function() {
+    if (pcState === 2) { window.pcJumpTo(1); }
+    else if (pcState === 1) { window.pcJumpTo(0); }
+    else { window.pcJumpTo(0); }
+  };
+
+  window.pcGoForward = function() {
+    if (pcState === 0) { window.pcJumpTo(1); }
+    else if (pcState === 1) { window.pcJumpTo(2); }
+    else if (pcState === 2) { window.pcJumpTo(0); } // wrap around
+  };
+
 })();
 
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
