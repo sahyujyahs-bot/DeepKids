@@ -1427,17 +1427,18 @@
   position: absolute;
   top: clamp(12px, 2vh, 24px);
   right: clamp(12px, 2vw, 24px);
-  width: 40px; height: 40px;
+  width: 44px; height: 44px;
   border-radius: 50%;
-  background: rgba(255,255,255,0.1);
-  border: 1px solid rgba(255,255,255,0.2);
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.3);
   color: #fff;
-  font-size: 20px;
+  font-size: 24px;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: background 0.2s, transform 0.2s;
+  z-index: 210;
 }
 .s2-force-close:hover { background: rgba(255,255,255,0.2); transform: scale(1.1); }
 
@@ -2122,13 +2123,19 @@
   });
 
   // Close button
-  forceClose.addEventListener('click', function() {
+  forceClose.addEventListener('click', function(e) {
+    e.stopPropagation();
     hideForceCard();
   });
 
   // "Your Force Cards" link
   forceLink.addEventListener('click', function() {
     showForceCard(false);
+  });
+
+  // Click overlay background to close
+  forceOverlay.addEventListener('click', function(e) {
+    if (e.target === forceOverlay) hideForceCard();
   });
 
   // Expose for use in drop animation
