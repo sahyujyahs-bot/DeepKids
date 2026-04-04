@@ -1336,11 +1336,14 @@
 }
 .s2-drop-item {
   position: absolute;
-  width: min(12vw, 10vh);
+  width: min(22vw, 18vh);
   height: auto;
   opacity: 0;
   z-index: 30;
+  cursor: grab;
+  touch-action: none;
 }
+.s2-drop-item:active { cursor: grabbing; }
 </style>
 
 </section>
@@ -2031,40 +2034,45 @@
   }
 
   function animateDrop(el, opts) {
-    var startTime = null;
-    var startY = parseFloat(el.style.top);
-    var startX = opts.startX;
-    var vy = 0; // velocity
-    var maxY = 85; // bottom boundary (% of container)
+    var vy = 0;
+    var maxY = 85;
     var landed = false;
+    var dragging = false;
+    var dropRaf = null;
+    var startTime = null;
+    var curX = opts.startX;
+
+    /* ── Physics drop loop ─────────────────────────────── */
+    function startDrop() {
+      landed = false;
+      vy = 0;
+      startTime = null;
+      if (dropRaf) cancelAnimationFrame(dropRaf);
+      dropRaf = requestAnimationFrame(frame);
+    }
 
     function frame(ts) {
+      if (dragging || landed) return;
       if (!startTime) startTime = ts;
-      var dt = Math.min((ts - startTime) / 1000, 0.05); // delta seconds, capped
+      var dt = Math.min((ts - startTime) / 1000, 0.05);
       startTime = ts;
 
-      if (landed) return;
-
-      // Apply gravity and air resistance
       vy += opts.gravity * dt;
       vy *= (1 - opts.airResistance);
 
       var currentY = parseFloat(el.style.top);
       var newY = currentY + vy * dt;
 
-      // Sway (horizontal oscillation)
-      var elapsed = (ts / 1000);
+      var elapsed = ts / 1000;
       var swayAmount = (opts.sway || 0) * Math.sin(elapsed * (opts.swaySpeed || 2));
-      el.style.left = (startX + swayAmount) + '%';
+      el.style.left = (curX + swayAmount) + '%';
 
-      // Flutter rotation for paper
       if (opts.flutter) {
         el.style.transform = 'translate(-50%,-50%) rotate(' + (swayAmount * 8) + 'deg)';
       } else if (opts.sway) {
         el.style.transform = 'translate(-50%,-50%) rotate(' + (swayAmount * 3) + 'deg)';
       }
 
-      // Bounce or land
       if (newY >= maxY) {
         if (opts.bounce > 0 && vy > 50) {
           vy = -vy * opts.bounce;
@@ -2076,13 +2084,71 @@
       }
 
       el.style.top = newY + '%';
-
-      if (!landed) {
-        requestAnimationFrame(frame);
-      }
+      if (!landed) dropRaf = requestAnimationFrame(frame);
     }
 
-    requestAnimationFrame(frame);
+    /* ── Drag and drop (mouse + touch) ─────────────────── */
+    var scene = document.getElementById('s2-drop-scene');
+
+    function pctX(clientX) {
+      var r = scene.getBoundingClientRect();
+      return ((clientX - r.left) / r.width) * 100;
+    }
+    function pctY(clientY) {
+      var r = scene.getBoundingClientRect();
+      return ((clientY - r.top) / r.height) * 100;
+    }
+
+    function onDragStart(cx, cy) {
+      dragging = true;
+      landed = false;
+      if (dropRaf) cancelAnimationFrame(dropRaf);
+      el.style.left = pctX(cx) + '%';
+      el.style.top = pctY(cy) + '%';
+      el.style.transform = 'translate(-50%,-50%)';
+    }
+    function onDragMove(cx, cy) {
+      if (!dragging) return;
+      el.style.left = pctX(cx) + '%';
+      el.style.top = pctY(cy) + '%';
+    }
+    function onDragEnd() {
+      if (!dragging) return;
+      dragging = false;
+      curX = parseFloat(el.style.left);
+      startDrop();
+    }
+
+    /* Mouse events */
+    el.addEventListener('mousedown', function(e) {
+      e.preventDefault();
+      onDragStart(e.clientX, e.clientY);
+      function mm(e) { onDragMove(e.clientX, e.clientY); }
+      function mu() {
+        onDragEnd();
+        window.removeEventListener('mousemove', mm);
+        window.removeEventListener('mouseup', mu);
+      }
+      window.addEventListener('mousemove', mm);
+      window.addEventListener('mouseup', mu);
+    });
+
+    /* Touch events */
+    el.addEventListener('touchstart', function(e) {
+      e.preventDefault();
+      var t = e.touches[0];
+      onDragStart(t.clientX, t.clientY);
+    }, { passive: false });
+    el.addEventListener('touchmove', function(e) {
+      e.preventDefault();
+      var t = e.touches[0];
+      onDragMove(t.clientX, t.clientY);
+    }, { passive: false });
+    el.addEventListener('touchend', function() { onDragEnd(); });
+    el.addEventListener('touchcancel', function() { onDragEnd(); });
+
+    /* Start initial drop */
+    startDrop();
   }
 })();
 
