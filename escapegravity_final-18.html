@@ -33,6 +33,7 @@
     #cv {
       position: absolute; inset: 0; z-index: 0;
       display: block; cursor: grab;
+      touch-action: none;     /* JS handles scroll vs drag decision */
     }
     #cv:active { cursor: grabbing; }
 
@@ -555,10 +556,14 @@
         const mouse = Mouse.create(cv);
         mouse.pixelRatio = 1;
 
-        /* ── Fix scrolling: Matter.js Mouse.create attaches mousewheel,
-           DOMMouseScroll, touchstart, and touchmove listeners that call
-           preventDefault, which blocks ALL page scrolling over the canvas.
-           Remove every listener Matter.js added and rebuild from scratch. ── */
+        /* ── Fix scrolling vs card drag ──────────────────────────
+           Matter.js Mouse.create attaches mousewheel, DOMMouseScroll,
+           touchstart, and touchmove listeners that call preventDefault,
+           blocking ALL scrolling over the canvas. Remove them all.
+           We take full control: touch-action:none on canvas means the
+           browser gives us ALL touch events. We decide per-gesture:
+           - Finger on a card → drag the card (preventDefault)
+           - Finger on empty space → manually scroll the page           ── */
         cv.removeEventListener('mousewheel', mouse.mousewheel);
         cv.removeEventListener('DOMMouseScroll', mouse.mousewheel);
         cv.removeEventListener('touchmove', mouse.mousemove);
@@ -575,10 +580,41 @@
         });
         World.add(world, mc);
 
-        /* ── Re-attach touch events as passive (scroll always works) ── */
-        cv.addEventListener('touchstart', (e) => { mouse.mousedown(e); },  { passive: true });
-        cv.addEventListener('touchmove',  (e) => { mouse.mousemove(e); },  { passive: true });
-        cv.addEventListener('touchend',   (e) => { mouse.mouseup(e); },    { passive: true });
+        /* ── Smart touch: drag cards OR scroll page ───────────── */
+        let touchLastY = 0;
+        let draggingCard = false;
+
+        cv.addEventListener('touchstart', (e) => {
+          const t = e.touches[0];
+          touchLastY = t.clientY;
+          // Feed to Matter.js so it can detect body under finger
+          mouse.mousedown(e);
+          // Check on next frame if Matter.js grabbed a body
+          draggingCard = false;
+        }, { passive: true });   // passive: can't preventDefault here, but that's OK
+
+        cv.addEventListener('touchmove', (e) => {
+          const t = e.touches[0];
+          const dy = touchLastY - t.clientY;
+          touchLastY = t.clientY;
+
+          // Feed position to Matter.js
+          mouse.mousemove(e);
+
+          // If Matter.js has grabbed a physics body → card drag
+          if (mc.body) {
+            draggingCard = true;
+            e.preventDefault();   // block scroll, card interaction only
+          } else if (!draggingCard) {
+            // No body → scroll the page manually
+            window.scrollBy(0, dy);
+          }
+        }, { passive: false });   // non-passive so we CAN preventDefault
+
+        cv.addEventListener('touchend', (e) => {
+          mouse.mouseup(e);
+          draggingCard = false;
+        }, { passive: true });
 
         const hint    = document.getElementById('drag-hint');
         const replayBtn = document.getElementById('replay-btn');
