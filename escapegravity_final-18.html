@@ -957,7 +957,7 @@
 
   /* ── Dice ────────────────────────────────────────────────── */
   #s2-dice-wrap {
-    position: absolute; left: 50%; bottom: clamp(60px, 10vh, 100px);
+    position: absolute; left: 65%; bottom: clamp(60px, 10vh, 100px);
     transform: translateX(-50%); z-index: 30;
     opacity: 0; transition: opacity .6s ease;
     display: flex; flex-direction: column; align-items: center; gap: 12px;
@@ -1971,6 +1971,11 @@
       jumpToState4();
       return;
     }
+    if (state === 3 || state === 4 || state === 5) {
+      // Last scene → loop back to start and auto-play
+      jumpToState0();
+      return;
+    }
   };
 
   /* ── Jump to final scene: tile 11 zoomed with bubble ──── */
@@ -1999,7 +2004,7 @@
     tokBlue.style.top = (p11.y + stepDown + blueExtraDown) + 'px';
     zoomIntoTile11();
     state = 4; busy = false;
-    btnBack.disabled = false; btnFwd.disabled = true;
+    btnBack.disabled = false; btnFwd.disabled = false;
     rollTimers.push(setTimeout(() => {
       var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
       var s2Rect = s2El.getBoundingClientRect();
@@ -2027,7 +2032,7 @@
   function doRoll() {
     state = 3; busy = true;
     clearRollTimers();
-    btnBack.disabled = false; btnFwd.disabled = true;
+    btnBack.disabled = false; btnFwd.disabled = false;
     dice.classList.remove('idle');
     dice.style.transition = 'none';
     dice.style.transform  = 'rotateX(0deg) rotateY(0deg)';
@@ -2065,7 +2070,7 @@
       rollTimers.push(setTimeout(() => {
         if (state !== 3) return;
         state = 4; busy = false;
-        btnBack.disabled = false; btnFwd.disabled = true;
+        btnBack.disabled = false; btnFwd.disabled = false;
         // Show comic bubble pointing at the earth icon on tile 11
         // The earth icon on tile 11 — in normalized board coords (pre-rotation).
         // Tile 11 is on the 3rd ring from center, at ~100° clockwise.
