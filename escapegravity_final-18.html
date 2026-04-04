@@ -2021,20 +2021,24 @@
         if (state !== 3) return;
         state = 4; busy = false;
         btnBack.disabled = false; btnFwd.disabled = true;
-        // Show comic bubble near the blue token on tile 11
+        // Show comic bubble pointing at the earth icon on tile 11
         rollTimers.push(setTimeout(() => {
           var bubble = document.getElementById('s2-comic-bubble');
           if (!bubble) return;
-          // Position relative to board-row using tile 11 coords
+          // tilePos returns coords relative to #s2
+          // bubble is inside board-row (child of s2), so offset by board-row's position in s2
           var p11 = tilePos(TILE11_NX, TILE11_NY);
-          var boardRow = document.getElementById('s2-board-row');
-          var brRect = boardRow.getBoundingClientRect();
+          var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
           var s2Rect = s2El.getBoundingClientRect();
-          // Place bubble above and slightly right of the token
-          var bx = p11.x - s2Rect.left;
-          var by = p11.y - s2Rect.top - brRect.top + s2Rect.top;
-          bubble.style.left = Math.min(bx + 20, brRect.width - 200) + 'px';
-          bubble.style.top = Math.max(by - 120, 10) + 'px';
+          var offX = brRect.left - s2Rect.left;
+          var offY = brRect.top - s2Rect.top;
+          // Earth icon is at the tile 11 position
+          var earthX = p11.x - offX;
+          var earthY = p11.y - offY;
+          // Place bubble above the earth icon, tail points down to it
+          var bw = Math.min(window.innerWidth * 0.35, 320); // approx bubble width
+          bubble.style.left = Math.max(10, Math.min(earthX - bw * 0.25, brRect.width - bw - 10)) + 'px';
+          bubble.style.top = Math.max(5, earthY - 140) + 'px';
           bubble.classList.add('show');
         }, 2200));
       }, 5000));
