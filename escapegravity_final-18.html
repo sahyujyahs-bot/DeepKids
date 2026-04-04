@@ -2001,19 +2001,19 @@
 
       // Animate each item with different physics
       animateDrop(ball, {
-        gravity: 2800, airResistance: 0.01, sway: 0, name: 'ball',
-        bounce: 0.4, startX: 40
+        gravity: 800, airResistance: 0.02, sway: 0, name: 'ball',
+        bounce: 0.35, startX: 40
       });
       animateDrop(paper, {
-        gravity: 600, airResistance: 0.08, sway: 3.5, swaySpeed: 4, name: 'paper',
+        gravity: 180, airResistance: 0.12, sway: 3.5, swaySpeed: 3, name: 'paper',
         bounce: 0, flutter: true, startX: 62
       });
       animateDrop(leaf, {
-        gravity: 400, airResistance: 0.1, sway: 4, swaySpeed: 2.5, name: 'leaf',
+        gravity: 120, airResistance: 0.14, sway: 4, swaySpeed: 2, name: 'leaf',
         bounce: 0, startX: 55
       });
       animateDrop(feather, {
-        gravity: 200, airResistance: 0.15, sway: 5, swaySpeed: 1.8, name: 'feather',
+        gravity: 60, airResistance: 0.18, sway: 5, swaySpeed: 1.2, name: 'feather',
         bounce: 0, startX: 48
       });
     }, 1500);
