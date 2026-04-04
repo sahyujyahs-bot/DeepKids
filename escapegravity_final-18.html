@@ -2014,7 +2014,7 @@
     rollTimers.push(setTimeout(() => {
       var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
       var s2Rect = s2El.getBoundingClientRect();
-      var pEarth = tilePos(0.68, 0.55);
+      var pEarth = tilePos(0.68, 0.42);
       var earthX = pEarth.x - (brRect.left - s2Rect.left);
       var earthY = pEarth.y - (brRect.top - s2Rect.top);
       var bbl = document.getElementById('s2-comic-bubble');
@@ -2029,7 +2029,7 @@
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       bbl.classList.add('show');
-    }, 800));
+    }, 2200));
   }
 
   /* ── Dice roll ──────────────────────────────────────────── */
@@ -2082,7 +2082,7 @@
         // Tile 11 is on the 3rd ring from center, at ~100° clockwise.
         // The earth icon sits at the inner edge of tile 11.
         var EARTH_ICON_NX = 0.68;
-        var EARTH_ICON_NY = 0.55;
+        var EARTH_ICON_NY = 0.42;
         rollTimers.push(setTimeout(() => {
           var bubble = document.getElementById('s2-comic-bubble');
           if (!bubble) return;
@@ -2103,7 +2103,7 @@
           bubble.style.left = bx + 'px';
           bubble.style.top = by + 'px';
           bubble.classList.add('show');
-        }, 800));
+        }, 2500));
       }, 5000));
     }, 2000));
   }
