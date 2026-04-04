@@ -2124,5 +2124,121 @@
 })();
 </script>
 
+<!-- ═══════════════════════════════ ANIMATED SPIRAL CURSOR ══ -->
+<script>
+(function(){
+  'use strict';
+
+  var CURSOR_SRC = 'data:image/png;base64,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';
+  var SIZE = 32;
+  var HALF = SIZE / 2;
+
+  /* ── Load the spiral image ──────────────────────────────── */
+  var cursorImg = new Image();
+  cursorImg.src = CURSOR_SRC;
+
+  /* ── Offscreen canvas for rotating ─────────────────────── */
+  var offCv = document.createElement('canvas');
+  offCv.width = SIZE; offCv.height = SIZE;
+  var offCtx = offCv.getContext('2d');
+
+  /* ── State ──────────────────────────────────────────────── */
+  var currentAngle = 0;       // current visual rotation (radians)
+  var targetAngle = 0;        // target to animate towards
+  var animating = false;
+  var clickDir = 1;           // alternates: +1 / -1
+  var dblClickDir = 1;        // alternates for double-click
+  var scrollAccum = 0;        // accumulated scroll delta
+
+  /* ── Generate cursor URL at a given angle ──────────────── */
+  function cursorAtAngle(angle) {
+    offCtx.clearRect(0, 0, SIZE, SIZE);
+    offCtx.save();
+    offCtx.translate(HALF, HALF);
+    offCtx.rotate(angle);
+    offCtx.drawImage(cursorImg, -HALF, -HALF, SIZE, SIZE);
+    offCtx.restore();
+    return offCv.toDataURL('image/png');
+  }
+
+  function applyCursor(angle) {
+    var url = cursorAtAngle(angle);
+    document.body.style.cursor = 'url(' + url + ') ' + HALF + ' ' + HALF + ', auto';
+  }
+
+  /* ── Smooth animation loop ─────────────────────────────── */
+  function animateCursor() {
+    if (!animating) return;
+    var diff = targetAngle - currentAngle;
+    if (Math.abs(diff) < 0.02) {
+      currentAngle = targetAngle;
+      applyCursor(currentAngle);
+      animating = false;
+      return;
+    }
+    // Ease towards target
+    currentAngle += diff * 0.15;
+    applyCursor(currentAngle);
+    requestAnimationFrame(animateCursor);
+  }
+
+  function spinTo(angle) {
+    targetAngle = angle;
+    if (!animating) {
+      animating = true;
+      animateCursor();
+    }
+  }
+
+  /* ── Scroll: rotate with scroll direction ──────────────── */
+  var scrollTimer;
+  window.addEventListener('wheel', function(e) {
+    scrollAccum += e.deltaY;
+    clearTimeout(scrollTimer);
+    scrollTimer = setTimeout(function() { scrollAccum = 0; }, 150);
+    // Rotate proportionally to scroll amount
+    targetAngle += e.deltaY * 0.003;
+    if (!animating) {
+      animating = true;
+      animateCursor();
+    }
+  }, { passive: true });
+
+  /* ── Touch scroll rotation ─────────────────────────────── */
+  var lastTouchY = 0;
+  document.addEventListener('touchstart', function(e) {
+    lastTouchY = e.touches[0].clientY;
+  }, { passive: true });
+  document.addEventListener('touchmove', function(e) {
+    var dy = lastTouchY - e.touches[0].clientY;
+    lastTouchY = e.touches[0].clientY;
+    targetAngle += dy * 0.008;
+    if (!animating) {
+      animating = true;
+      animateCursor();
+    }
+  }, { passive: true });
+
+  /* ── Click: 1 full spin, alternating direction ─────────── */
+  document.addEventListener('click', function() {
+    spinTo(currentAngle + clickDir * Math.PI * 2);
+    clickDir *= -1;
+  });
+
+  /* ── Double-click: 5 full spins, alternating direction ─── */
+  document.addEventListener('dblclick', function(e) {
+    e.preventDefault();
+    spinTo(currentAngle + dblClickDir * Math.PI * 2 * 5);
+    dblClickDir *= -1;
+  });
+
+  /* ── Set initial cursor once image loads ────────────────── */
+  cursorImg.onload = function() {
+    applyCursor(0);
+  };
+
+})();
+</script>
+
 </body>
 </html>
