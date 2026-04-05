@@ -1114,12 +1114,12 @@
     max-width: clamp(200px, 35vw, 320px);
     text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
   }
-  /* Comic tail pointing down toward earth icon */
+  /* Comic tail pointing down-left toward earth icon */
   .s2-bubble-box::after {
     content: '';
     position: absolute;
     bottom: -16px;
-    left: 45%;
+    left: 20%;
     width: 0; height: 0;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
@@ -1129,7 +1129,7 @@
     content: '';
     position: absolute;
     bottom: -20px;
-    left: calc(45% - 2px);
+    left: calc(20% - 2px);
     width: 0; height: 0;
     border-left: 14px solid transparent;
     border-right: 14px solid transparent;
@@ -2019,8 +2019,8 @@
       var tokX = tokRect.left - brRect.left + tokRect.width;
       var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
       var bubbleW = bbl.offsetWidth || 250;
-      var bx = Math.min(tokX + 5, brRect.width - bubbleW - 8);
-      var by = Math.max(5, tokY + 25);
+      var bx = Math.min(tokX - 30, brRect.width - bubbleW - 8);
+      var by = Math.max(5, tokY + 60);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       bbl.classList.add('show');
@@ -2087,8 +2087,8 @@
           var bubbleW = bubble.offsetWidth || 250;
           var bubbleH = bubble.offsetHeight || 120;
           // Few steps right, 1 step down from astronaut
-          var bx = tokX + 5;
-          var by = tokY + 25;
+          var bx = tokX - 30;
+          var by = tokY + 60;
           // Clamp to stay in view
           bx = Math.max(8, Math.min(bx, brRect.width - bubbleW - 8));
           by = Math.max(5, by);
