@@ -947,6 +947,11 @@
   .s2-pin-item img {
     width: 100%; display: block;
   }
+  .s2-pin-crop img {
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    object-position: center;
+  }
   .s2-pin-item svg {
     width: 100%; display: block;
     box-sizing: border-box;
@@ -993,7 +998,7 @@
   <p class="s2-subtitle eg-fade-in s2-d2" style="margin-bottom:clamp(16px,2.5vh,32px);">What's Inside The Box</p>
 
   <div class="s2-pin">
-    <div class="s2-pin-item s2-pin-wide">
+    <div class="s2-pin-item s2-pin-wide s2-pin-crop">
       <img src="Egocentric with lid coming off.png" alt="The Box">
       <div class="s2-pin-lbl">Box</div>
     </div>
