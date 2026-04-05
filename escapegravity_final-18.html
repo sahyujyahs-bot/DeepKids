@@ -1092,42 +1092,53 @@
 
   var opened = false;
   var count = 7;
-  // Each item on its own orbit — radii as fraction of container half-size
-  var orbitFracs = [0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 0.95];
-  // Spread evenly + golden angle offset so items don't line up
-  var angleOffsets = [-1.57, 0.83, 3.23, -0.37, 2.03, 4.43, 1.13];
-
-  function getEllipse() {
-    // On wide screens: horizontal ellipse. On tall/narrow: vertical ellipse.
-    var w = orbit.offsetWidth;
-    var h = orbit.offsetHeight;
-    // rx and ry as % of container — stretch along the longer axis
-    return { rx: 50, ry: 50 * (h / w) }; // normalised so rx is always 50%
-  }
 
   function unbox() {
     if (opened) return;
     opened = true;
     box.classList.add('opened');
 
-    var e = getEllipse();
+    var w = orbit.offsetWidth;
+    var h = orbit.offsetHeight;
+    var isWide = w > h;
+
+    // 7 orbit radii — percentages of half-width (rx) and half-height (ry)
+    // Start far enough from center to clear the box
+    var rSteps = [28, 33, 38, 43, 48, 53, 58]; // % radii for the wider axis
+
+    // 7 angles evenly distributed, starting from top
+    var angles = [];
+    for (var a = 0; a < count; a++) {
+      angles.push(-Math.PI / 2 + (a * 2 * Math.PI / count));
+    }
 
     for (var i = 0; i < count; i++) {
       (function(idx) {
         var el = document.getElementById('s2-orb-' + idx);
         var ring = document.getElementById('s2-ring-' + idx);
         if (!el) return;
-        var frac = orbitFracs[idx];
-        var angle = angleOffsets[idx];
-        var rx = frac * e.rx;
-        var ry = frac * e.ry;
+
+        var r = rSteps[idx];
+        var angle = angles[idx];
+        var rx, ry;
+
+        if (isWide) {
+          // Desktop: horizontal ellipse — wider than tall
+          rx = r;
+          ry = r * (h / w) * 0.9;
+        } else {
+          // Mobile: vertical ellipse — taller than wide
+          rx = r * (w / h) * 0.9;
+          ry = r;
+        }
+
         var x = 50 + rx * Math.cos(angle);
         var y = 50 + ry * Math.sin(angle);
 
         // Size the elliptical ring
         if (ring) {
-          ring.style.width = (frac * e.rx * 2) + '%';
-          ring.style.height = (frac * e.ry * 2) + '%';
+          ring.style.width = (rx * 2) + '%';
+          ring.style.height = (ry * 2) + '%';
         }
 
         setTimeout(function() {
