@@ -894,42 +894,34 @@
   #s2 {
     position: relative;
     height: 100vh;
-    text-align: center;
-    overflow: hidden;
-  }
-  .s2-mission {
-    position: relative;
-    z-index: 20;
-    padding: clamp(80px, 10vh, 120px) clamp(16px, 4vw, 60px) 0;
-  }
-  .s2-mission-title {
-    font-family: 'Norwester', sans-serif;
-    font-variant: small-caps;
-    font-size: clamp(28px, 5vw, 64px);
-    color: #fff;
-    text-shadow: 0 0 20px rgba(160,210,20,.4), 2px 2px 0 rgba(0,0,0,.8);
-    margin: 0 0 clamp(8px, 1.5vh, 16px);
-    line-height: 1;
-  }
-  .s2-mission-tagline {
-    font-family: 'Pompiere', sans-serif;
-    font-size: clamp(15px, 1.8vw, 22px);
-    color: #9cbc14;
-    letter-spacing: 2px;
-    margin: 0 0 clamp(20px, 3vh, 40px);
-  }
-  .s2-mission-lines {
-    max-width: 700px;
-    margin: 0 auto;
     display: flex;
     flex-direction: column;
-    gap: clamp(6px, 1vh, 12px);
+    text-align: center;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .s2-mission {
+    position: relative; z-index: 20;
+    padding: clamp(70px, 9vh, 110px) clamp(16px, 4vw, 60px) 0;
+    flex-shrink: 0;
+  }
+  .s2-mission-title {
+    font-family: 'Norwester', sans-serif; font-variant: small-caps;
+    font-size: clamp(28px, 5vw, 64px); color: #fff;
+    text-shadow: 0 0 20px rgba(160,210,20,.4), 2px 2px 0 rgba(0,0,0,.8);
+    margin: 0 0 clamp(6px, 1vh, 12px); line-height: 1;
+  }
+  .s2-mission-tagline {
+    font-family: 'Pompiere', sans-serif; font-size: clamp(14px, 1.6vw, 20px);
+    color: #9cbc14; letter-spacing: 2px; margin: 0 0 clamp(12px, 2vh, 24px);
+  }
+  .s2-mission-lines {
+    max-width: 660px; margin: 0 auto;
+    display: flex; flex-direction: column; gap: clamp(4px, 0.8vh, 8px);
   }
   .s2-mission-line {
-    font-family: 'Pompiere', sans-serif;
-    font-size: clamp(14px, 1.5vw, 20px);
-    color: rgba(255,255,255,0.7);
-    line-height: 1.5;
+    font-family: 'Pompiere', sans-serif; font-size: clamp(13px, 1.3vw, 18px);
+    color: rgba(255,255,255,0.7); line-height: 1.4;
   }
   .s2-mission-line em { font-style: normal; color: #9cbc14; }
   .s2-delay-1 { transition-delay: 0.1s; }
@@ -937,103 +929,66 @@
   .s2-delay-3 { transition-delay: 0.3s; }
   .s2-delay-4 { transition-delay: 0.4s; }
 
-  /* ── Unbox ────────────────────────────────────── */
-  .s2-unbox-wrap {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  /* ── Unbox container: fills remaining space ───── */
+  .s2-unbox {
+    flex: 1; position: relative; min-height: 0;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .s2-unbox-inner {
+    position: relative;
+    width: clamp(300px, 80vw, 800px);
+    height: clamp(240px, 40vh, 420px);
   }
 
-  /* The box */
+  /* ── Box: centered ────────────────────────────── */
   .s2-box {
-    position: absolute;
-    left: 50%;
-    top: 50%;
+    position: absolute; left: 50%; top: 50%;
     transform: translate(-50%, -50%);
-    width: clamp(180px, 28vw, 320px);
-    cursor: pointer;
-    z-index: 10;
+    width: clamp(140px, 22vw, 260px);
+    cursor: pointer; z-index: 10;
     transition: transform 0.4s ease;
   }
   .s2-box:hover { transform: translate(-50%, -50%) scale(1.05); }
-  .s2-box-img {
-    width: 100%;
-    height: auto;
-    display: block;
-    transition: opacity 0.5s ease;
-  }
+  .s2-box-img { width: 100%; height: auto; display: block; transition: opacity 0.5s ease; }
   .s2-box-img.hidden { opacity: 0; position: absolute; top: 0; left: 0; }
   .s2-box.opened .s2-box-closed { opacity: 0; }
   .s2-box.opened .s2-box-open { opacity: 1; position: relative; }
   .s2-box-label {
-    position: absolute;
-    left: 50%;
-    top: calc(50% + clamp(100px, 16vw, 180px));
-    transform: translateX(-50%);
-    font-family: 'Pompiere', sans-serif;
-    font-size: clamp(12px, 1.2vw, 16px);
-    color: rgba(255,255,255,0.4);
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    transition: opacity 0.3s;
-    white-space: nowrap;
-    z-index: 10;
+    font-family: 'Pompiere', sans-serif; font-size: clamp(11px, 1.1vw, 15px);
+    color: rgba(255,255,255,0.4); letter-spacing: 2px; text-transform: uppercase;
+    text-align: center; margin-top: 8px; transition: opacity 0.3s;
   }
-  .s2-box.opened ~ .s2-box-label { opacity: 0; }
+  .s2-box.opened ~ .s2-box-lbl-wrap { opacity: 0; }
 
-  /* Items that fly out */
-  .s2-unbox-item {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    opacity: 0;
-    transform: translate(-50%, -50%) scale(0);
-    /* Start position: center of wrap (same as box) */
-    left: 50%;
-    top: 50%;
-    transition: all 0.7s cubic-bezier(.34,1.56,.64,1);
+  /* ── Items: absolute, start at center ─────────── */
+  .s2-ui {
+    position: absolute; display: flex; flex-direction: column; align-items: center;
+    left: 50%; top: 50%;
+    opacity: 0; transform: translate(-50%, -50%) scale(0);
+    transition: all 0.6s cubic-bezier(.34,1.56,.64,1);
     z-index: 5;
   }
-  .s2-unbox-item.revealed {
-    opacity: 1;
-    transform: translate(-50%, -50%) scale(1);
+  .s2-ui.show {
+    opacity: 1; transform: translate(-50%, -50%) scale(1);
   }
-  .s2-unbox-item-icon {
-    width: clamp(52px, 8vw, 90px);
-    height: clamp(52px, 8vw, 90px);
-    border-radius: 14px;
-    background: rgba(10,6,24,0.85);
-    border: 1.5px solid rgba(156,188,20,0.25);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    backdrop-filter: blur(6px);
-    transition: border-color 0.3s, box-shadow 0.3s;
+  .s2-ui-img {
+    width: clamp(44px, 7vw, 80px); height: clamp(44px, 7vw, 80px);
+    border-radius: 10px; object-fit: contain;
+    filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
+    transition: transform 0.3s;
   }
-  .s2-unbox-item:hover .s2-unbox-item-icon {
-    border-color: rgba(156,188,20,0.6);
-    box-shadow: 0 0 20px rgba(156,188,20,0.2);
-  }
-  .s2-unbox-item-icon svg {
-    width: 55%; height: 55%;
-  }
-  .s2-unbox-item-label {
-    font-family: 'Pompiere', sans-serif;
-    font-size: clamp(10px, 1.1vw, 14px);
-    color: rgba(255,255,255,0.6);
-    margin-top: 8px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    white-space: nowrap;
+  .s2-ui:hover .s2-ui-img { transform: scale(1.1); }
+  .s2-ui-lbl {
+    font-family: 'Pompiere', sans-serif; font-size: clamp(9px, 1vw, 13px);
+    color: rgba(255,255,255,0.55); margin-top: 6px;
+    letter-spacing: 1px; text-transform: uppercase; white-space: nowrap;
   }
 
   @media (max-width: 600px) {
-    .s2-unbox-item-icon { width: 48px; height: 48px; border-radius: 10px; }
-    .s2-unbox-item-label { font-size: 9px; }
-    .s2-box { width: 160px; }
+    .s2-unbox-inner { width: 95vw; height: 55vw; }
+    .s2-box { width: 120px; }
+    .s2-ui-img { width: 40px; height: 40px; }
+    .s2-ui-lbl { font-size: 8px; }
   }
 </style>
 
@@ -1041,54 +996,30 @@
   <div class="s2-mission">
     <h2 class="s2-mission-title eg-fade-in">The Mission</h2>
     <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
-
     <div class="s2-mission-lines">
-      <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth's surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
-      <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity's agent</em> — pulling you down toward the core.</div>
-      <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> — earned by completing <em>Physical Challenges</em>.</div>
+      <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth\u2019s surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
+      <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity\u2019s agent</em> \u2014 pulling you down toward the core.</div>
+      <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> \u2014 earned by completing <em>Physical Challenges</em>.</div>
       <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
     </div>
   </div>
 
-  <div class="s2-unbox-wrap">
-    <div class="s2-box" id="s2-box" title="Click to unbox!">
-      <img class="s2-box-img s2-box-closed" src="EG closed box.png" alt="EscapeGravity box closed">
-      <img class="s2-box-img s2-box-open hidden" src="Egocentric with lid coming off.png" alt="EscapeGravity box opening">
-    </div>
-    <div class="s2-box-label" id="s2-box-label">Tap to unbox</div>
+  <div class="s2-unbox">
+    <div class="s2-unbox-inner" id="s2-unbox-inner">
+      <!-- Box -->
+      <div class="s2-box" id="s2-box" title="Click to unbox!">
+        <img class="s2-box-img s2-box-closed" src="EG closed box.png" alt="EscapeGravity box">
+        <img class="s2-box-img s2-box-open hidden" src="Egocentric with lid coming off.png" alt="Box opening">
+        <div class="s2-box-label">Tap to unbox</div>
+      </div>
 
-    <!-- Items: positioned via JS after unbox -->
-    <div class="s2-unbox-item" id="s2-ui-0">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="4" y="4" width="40" height="40" rx="4"/><path d="M12 12h24v24H12z" opacity=".4"/><circle cx="24" cy="24" r="5" fill="#9cbc14" opacity=".4" stroke="none"/></svg></div>
-      <span class="s2-unbox-item-label">Game Board</span>
-    </div>
-    <div class="s2-unbox-item" id="s2-ui-1">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="4" width="32" height="40" rx="4"/><path d="M16 16l8-5 8 5v14l-8 5-8-5z" opacity=".5"/></svg></div>
-      <span class="s2-unbox-item-label">Force Cards</span>
-    </div>
-    <div class="s2-unbox-item" id="s2-ui-2">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="4" width="32" height="40" rx="4"/><path d="M18 18l6-8 6 8M18 30l6 8 6-8" opacity=".5"/></svg></div>
-      <span class="s2-unbox-item-label">Challenge Cards</span>
-    </div>
-    <div class="s2-unbox-item" id="s2-ui-3">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="10" y="10" width="28" height="28" rx="5"/><circle cx="19" cy="19" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="29" cy="19" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="24" cy="24" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="19" cy="29" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="29" cy="29" r="2.5" fill="#9cbc14" stroke="none"/></svg></div>
-      <span class="s2-unbox-item-label">Dice</span>
-    </div>
-    <div class="s2-unbox-item" id="s2-ui-4">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><ellipse cx="24" cy="14" rx="10" ry="6"/><path d="M14 14v18c0 5 5 8 10 8s10-3 10-8V14"/><path d="M19 22v8" opacity=".4"/></svg></div>
-      <span class="s2-unbox-item-label">Sand Timer</span>
-    </div>
-    <div class="s2-unbox-item" id="s2-ui-5">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><path d="M14 38l8-26M26 12l8 26"/><ellipse cx="24" cy="32" rx="10" ry="5" opacity=".4"/><circle cx="24" cy="22" r="4" fill="#9cbc14" opacity=".3" stroke="none"/></svg></div>
-      <span class="s2-unbox-item-label">Challenge Kit</span>
-    </div>
-    <div class="s2-unbox-item" id="s2-ui-6">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><circle cx="17" cy="28" r="8"/><circle cx="31" cy="28" r="8"/><circle cx="24" cy="18" r="5" fill="#9cbc14" opacity=".25" stroke="none"/><path d="M17 38h14" opacity=".5"/></svg></div>
-      <span class="s2-unbox-item-label">Player Tokens</span>
-    </div>
-    <div class="s2-unbox-item" id="s2-ui-7">
-      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="12" width="32" height="24" rx="3"/><path d="M8 20h32M20 12v24M32 12v24" opacity=".35"/><path d="M23 26l3 3 7-7" stroke-width="2"/></svg></div>
-      <span class="s2-unbox-item-label">Rulebook</span>
+      <!-- Items -->
+      <div class="s2-ui" id="s2-ui-0"><img class="s2-ui-img" src="Copy of Core.png" alt="Board"><span class="s2-ui-lbl">Board</span></div>
+      <div class="s2-ui" id="s2-ui-1"><img class="s2-ui-img" src="Blue astronaut front.png" alt="Astronaut"><span class="s2-ui-lbl">Astronaut</span></div>
+      <div class="s2-ui" id="s2-ui-2"><img class="s2-ui-img" src="Untitled_Artwork 7.png" alt="Rocket"><span class="s2-ui-lbl">Rocket</span></div>
+      <div class="s2-ui" id="s2-ui-3"><img class="s2-ui-img" src="IMG_5098.jpeg" alt="Force Card"><span class="s2-ui-lbl">Force Card</span></div>
+      <div class="s2-ui" id="s2-ui-4"><img class="s2-ui-img" src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card"><span class="s2-ui-lbl">Challenge Card</span></div>
+      <div class="s2-ui" id="s2-ui-5"><img class="s2-ui-img" src="Lightest_Items_Wins.png" alt="Challenge"><span class="s2-ui-lbl">Challenge Inside</span></div>
     </div>
   </div>
 </section>
@@ -1097,27 +1028,22 @@
 (function(){
   'use strict';
   var box = document.getElementById('s2-box');
-  var label = document.getElementById('s2-box-label');
   if (!box) return;
-
   var opened = false;
-  // Final positions for 8 items in a circle around the box
+
   var positions = [
-    { left: '8%',  top: '20%' },   // Game Board
-    { left: '30%', top: '8%' },    // Force Cards
-    { left: '70%', top: '8%' },    // Challenge Cards
-    { left: '92%', top: '20%' },   // Dice
-    { left: '8%',  top: '72%' },   // Sand Timer
-    { left: '30%', top: '85%' },   // Challenge Kit
-    { left: '70%', top: '85%' },   // Player Tokens
-    { left: '92%', top: '72%' },   // Rulebook
+    { left: '8%',  top: '30%' },  // Board (left)
+    { left: '20%', top: '80%' },  // Astronaut (bottom-left)
+    { left: '80%', top: '80%' },  // Rocket (bottom-right)
+    { left: '92%', top: '30%' },  // Force Card (right)
+    { left: '25%', top: '8%' },   // Challenge Card back (top-left)
+    { left: '75%', top: '8%' },   // Challenge Card front (top-right)
   ];
 
   function unbox() {
     if (opened) return;
     opened = true;
     box.classList.add('opened');
-    if (label) label.style.opacity = '0';
 
     positions.forEach(function(pos, i) {
       var el = document.getElementById('s2-ui-' + i);
@@ -1125,14 +1051,13 @@
       setTimeout(function() {
         el.style.left = pos.left;
         el.style.top = pos.top;
-        el.classList.add('revealed');
-      }, 200 + i * 100);
+        el.classList.add('show');
+      }, 200 + i * 120);
     });
   }
 
   box.addEventListener('click', unbox);
 
-  // Also auto-unbox when section scrolls into view
   if ('IntersectionObserver' in window) {
     new IntersectionObserver(function(entries, obs) {
       if (entries[0].isIntersecting && !opened) {
