@@ -959,14 +959,17 @@
     text-align: center; margin-top: 6px; transition: opacity 0.3s;
   }
 
-  /* ── Orbit ring (decorative) ──────────────────── */
+  /* ── Orbit rings (one per item) ─────────────────── */
   .s2-orbit-ring {
-    position: absolute; inset: 0;
-    border: 1px solid rgba(156,188,20,0.08);
+    position: absolute;
+    left: 50%; top: 50%;
+    border: 1px solid rgba(156,188,20,0.06);
     border-radius: 50%;
-    animation: s2-ring-spin 60s linear infinite;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.6s ease;
   }
-  @keyframes s2-ring-spin { to { transform: rotate(360deg); } }
+  .s2-orbit-ring.show { opacity: 1; }
 
   /* ── Orbiting items ───────────────────────────── */
   .s2-orb {
@@ -1018,7 +1021,14 @@
 
   <div class="s2-orbit-wrap">
     <div class="s2-orbit" id="s2-orbit">
-      <div class="s2-orbit-ring"></div>
+      <!-- Orbit rings — one per item, sized by JS -->
+      <div class="s2-orbit-ring" id="s2-ring-0"></div>
+      <div class="s2-orbit-ring" id="s2-ring-1"></div>
+      <div class="s2-orbit-ring" id="s2-ring-2"></div>
+      <div class="s2-orbit-ring" id="s2-ring-3"></div>
+      <div class="s2-orbit-ring" id="s2-ring-4"></div>
+      <div class="s2-orbit-ring" id="s2-ring-5"></div>
+      <div class="s2-orbit-ring" id="s2-ring-6"></div>
 
       <!-- Box at center -->
       <div class="s2-box" id="s2-box" title="Click to unbox!">
@@ -1081,7 +1091,10 @@
 
   var opened = false;
   var count = 7;
-  var radius = 46; // % from center
+  // Each item gets its own orbit radius (% from center) and angle offset
+  var radii = [22, 28, 34, 40, 46, 52, 58]; // staggered distances
+  // Spread angles so items don't cluster — offset each by a golden-angle-like spread
+  var angleOffsets = [0, 2.4, 4.8, 1.2, 3.6, 0.6, 5.4]; // radians, spread nicely
 
   function unbox() {
     if (opened) return;
@@ -1091,15 +1104,26 @@
     for (var i = 0; i < count; i++) {
       (function(idx) {
         var el = document.getElementById('s2-orb-' + idx);
+        var ring = document.getElementById('s2-ring-' + idx);
         if (!el) return;
-        var angle = (idx / count) * 2 * Math.PI - Math.PI / 2; // start from top
-        var x = 50 + radius * Math.cos(angle);
-        var y = 50 + radius * Math.sin(angle);
+        var r = radii[idx];
+        var angle = angleOffsets[idx];
+        var x = 50 + r * Math.cos(angle);
+        var y = 50 + r * Math.sin(angle);
+
+        // Size the ring for this orbit
+        if (ring) {
+          var diam = r * 2;
+          ring.style.width = diam + '%';
+          ring.style.height = diam + '%';
+        }
+
         setTimeout(function() {
+          if (ring) ring.classList.add('show');
           el.style.left = x + '%';
           el.style.top = y + '%';
           el.classList.add('show');
-        }, 300 + idx * 120);
+        }, 300 + idx * 150);
       })(i);
     }
   }
