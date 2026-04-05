@@ -892,138 +892,151 @@
 <!-- ======================================= S2: THE GAME ======= -->
 <style>
   #s2 {
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    padding: clamp(70px, 9vh, 100px) clamp(16px, 4vw, 60px) clamp(30px, 4vh, 50px);
+    padding: clamp(70px, 9vh, 100px) clamp(16px, 4vw, 60px) clamp(40px, 5vh, 60px);
     text-align: center;
     box-sizing: border-box;
-    gap: clamp(16px, 2.5vh, 32px);
   }
-  .s2-mission-title {
+  .s2-title {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
-    font-size: clamp(28px, 5vw, 64px); color: #fff;
+    font-size: clamp(32px, 6vw, 72px); color: #fff;
     text-shadow: 0 0 20px rgba(160,210,20,.4), 2px 2px 0 rgba(0,0,0,.8);
-    margin: 0; line-height: 1;
+    margin: 0 0 clamp(4px, 0.8vh, 10px); line-height: 1;
   }
-  .s2-mission-tagline {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(14px, 1.6vw, 20px);
-    color: #9cbc14; letter-spacing: 2px; margin: 0;
+  .s2-subtitle {
+    font-family: 'Norwester', sans-serif; font-variant: small-caps;
+    font-size: clamp(16px, 2.2vw, 28px); color: #9cbc14;
+    letter-spacing: 2px; margin: 0 0 clamp(12px, 2vh, 24px);
+    text-shadow: 0 0 12px rgba(156,188,20,0.3);
   }
-  .s2-mission-lines {
-    max-width: 660px; margin: 0 auto;
-    display: flex; flex-direction: column; gap: clamp(3px, 0.5vh, 6px);
+  .s2-desc {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(14px, 1.5vw, 20px);
+    color: rgba(255,255,255,0.65); line-height: 1.6;
+    max-width: 700px; margin: 0 auto clamp(24px, 3.5vh, 44px);
   }
-  .s2-mission-line {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(12px, 1.2vw, 17px);
-    color: rgba(255,255,255,0.65); line-height: 1.4;
-  }
-  .s2-mission-line em { font-style: normal; color: #9cbc14; }
+  .s2-desc em { font-style: normal; color: #9cbc14; }
+
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
-  .s2-d5 { transition-delay: .5s; }
 
   /* ── Box hero ─────────────────────────────────── */
   .s2-box-hero {
-    width: clamp(240px, 35vw, 420px);
+    margin-bottom: clamp(8px, 1.2vh, 16px);
   }
   .s2-box-hero img {
-    width: 100%; height: auto;
+    width: clamp(280px, 40vw, 480px); height: auto;
     filter: drop-shadow(0 12px 40px rgba(0,0,0,0.6));
     transition: transform 0.4s;
   }
   .s2-box-hero:hover img { transform: scale(1.03); }
+  .s2-box-lbl {
+    font-family: 'Norwester', sans-serif; font-variant: small-caps;
+    font-size: clamp(13px, 1.4vw, 18px);
+    color: rgba(255,255,255,0.4); letter-spacing: 2px;
+    margin-top: 10px;
+  }
 
   /* ── Items row ────────────────────────────────── */
   .s2-items {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    gap: clamp(12px, 2.5vw, 36px);
+    gap: clamp(16px, 3vw, 44px);
     flex-wrap: wrap;
-    max-width: 1000px;
+    max-width: 1100px;
   }
   .s2-item {
     display: flex; flex-direction: column; align-items: center;
-    width: clamp(60px, 10vw, 110px);
+    width: clamp(100px, 14vw, 180px);
     flex-shrink: 0;
   }
   .s2-item-img {
-    width: 100%;
-    aspect-ratio: 1;
-    border-radius: 12px;
-    object-fit: contain;
-    filter: drop-shadow(0 4px 14px rgba(0,0,0,0.5));
+    width: 100%; height: auto;
+    border-radius: 8px;
+    filter: drop-shadow(0 4px 16px rgba(0,0,0,0.5));
     transition: transform 0.3s;
   }
-  .s2-item:hover .s2-item-img { transform: scale(1.1) translateY(-4px); }
-  .s2-item-svg {
-    width: 100%;
-    aspect-ratio: 1;
-    filter: drop-shadow(0 4px 14px rgba(0,0,0,0.5));
+  .s2-item:hover .s2-item-img { transform: scale(1.08) translateY(-4px); }
+  .s2-item-svg-wrap {
+    width: 100%; aspect-ratio: 1;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .s2-item-svg-wrap svg {
+    width: 80%; height: 80%;
+    filter: drop-shadow(0 4px 16px rgba(0,0,0,0.5));
     transition: transform 0.3s;
   }
-  .s2-item:hover .s2-item-svg { transform: scale(1.1) translateY(-4px); }
+  .s2-item:hover .s2-item-svg-wrap svg { transform: scale(1.08) translateY(-4px); }
   .s2-item-lbl {
-    font-family: 'Pompiere', sans-serif;
-    font-size: clamp(9px, 1vw, 13px);
-    color: rgba(255,255,255,0.4);
-    letter-spacing: 1px; text-transform: uppercase;
-    margin-top: 8px; white-space: nowrap;
+    font-family: 'Norwester', sans-serif; font-variant: small-caps;
+    font-size: clamp(11px, 1.2vw, 16px);
+    color: rgba(255,255,255,0.45);
+    letter-spacing: 1.5px;
+    margin-top: 10px; white-space: nowrap;
+  }
+
+  @media (max-width: 600px) {
+    .s2-item { width: clamp(80px, 28vw, 140px); }
+    .s2-items { gap: 12px; }
   }
 </style>
 
 <section id="s2">
-  <h2 class="s2-mission-title eg-fade-in">The Mission</h2>
-  <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
+  <h2 class="s2-title eg-fade-in">The Game</h2>
+  <p class="s2-subtitle eg-fade-in">Mission: Reach The International Space Station</p>
 
-  <div class="s2-mission-lines">
-    <div class="s2-mission-line eg-fade-in s2-d1">Start at <em>Earth\u2019s surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
-    <div class="s2-mission-line eg-fade-in s2-d2">But the board is <em>Gravity\u2019s agent</em> \u2014 pulling you down toward the core.</div>
-    <div class="s2-mission-line eg-fade-in s2-d3">Fight back with <em>Force Cards</em> \u2014 earned by completing <em>Physical Challenges</em>.</div>
-    <div class="s2-mission-line eg-fade-in s2-d4">Roll the dice, move your token, and race your friends to orbit.</div>
-  </div>
+  <p class="s2-desc eg-fade-in s2-d1">
+    You start on <em>Earth\u2019s Surface</em>, roll dice and move on the spiral board towards the <em>ISS</em>.
+    It won\u2019t be easy! The board is <em>Gravity\u2019s agent</em> trying to pull you down into the core &amp; consume!
+    But, you can fight Gravity using the <em>Force Cards</em>. To earn them you do <em>Physical Challenges</em>.
+  </p>
 
-  <div class="s2-box-hero eg-fade-in s2-d4">
+  <div class="s2-box-hero eg-fade-in s2-d2">
     <img src="Egocentric with lid coming off.png" alt="EscapeGravity Box">
+    <div class="s2-box-lbl">The Box</div>
   </div>
 
-  <div class="s2-items eg-fade-in s2-d5">
-    <div class="s2-item">
+  <div class="s2-items">
+    <div class="s2-item eg-fade-in s2-d2">
       <img class="s2-item-img" src="Copy of Core.png" alt="Board">
       <span class="s2-item-lbl">Board</span>
     </div>
-    <div class="s2-item">
-      <img class="s2-item-img" src="IMG_5098.jpeg" alt="Force Card">
+    <div class="s2-item eg-fade-in s2-d2">
+      <img class="s2-item-img" src="IMG_5098.jpeg" alt="Force Card Front">
       <span class="s2-item-lbl">Force Cards</span>
     </div>
-    <div class="s2-item">
+    <div class="s2-item eg-fade-in s2-d3">
       <img class="s2-item-img" src="Lightest_Items_Wins.png" alt="Challenge Card">
       <span class="s2-item-lbl">Challenge Cards</span>
     </div>
-    <div class="s2-item">
-      <img class="s2-item-img" src="Blue astronaut front.png" alt="Astronaut" style="border-radius:50%;">
-      <span class="s2-item-lbl">Tokens</span>
+    <div class="s2-item eg-fade-in s2-d3">
+      <img class="s2-item-img" src="Blue astronaut front.png" alt="Player Tokens">
+      <span class="s2-item-lbl">Player Tokens</span>
     </div>
-    <div class="s2-item">
-      <svg class="s2-item-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
-        <circle cx="20" cy="20" r="4" fill="#9cbc14"/><circle cx="44" cy="20" r="4" fill="#9cbc14"/>
-        <circle cx="32" cy="32" r="4" fill="#9cbc14"/>
-        <circle cx="20" cy="44" r="4" fill="#9cbc14"/><circle cx="44" cy="44" r="4" fill="#9cbc14"/>
-      </svg>
+    <div class="s2-item eg-fade-in s2-d4">
+      <div class="s2-item-svg-wrap">
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
+          <circle cx="20" cy="20" r="4" fill="#9cbc14"/><circle cx="44" cy="20" r="4" fill="#9cbc14"/>
+          <circle cx="32" cy="32" r="4" fill="#9cbc14"/>
+          <circle cx="20" cy="44" r="4" fill="#9cbc14"/><circle cx="44" cy="44" r="4" fill="#9cbc14"/>
+        </svg>
+      </div>
       <span class="s2-item-lbl">Dice</span>
     </div>
-    <div class="s2-item">
-      <svg class="s2-item-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
-        <ellipse cx="32" cy="18" rx="12" ry="7" stroke="#9cbc14" stroke-width="1.8"/>
-        <path d="M20 18v22c0 6 5.5 9 12 9s12-3 12-9V18" stroke="#9cbc14" stroke-width="1.8"/>
-        <path d="M26 26v10" stroke="#9cbc14" stroke-width="1.2" opacity=".5"/>
-        <circle cx="32" cy="36" r="3" fill="#9cbc14" opacity=".3"/>
-      </svg>
+    <div class="s2-item eg-fade-in s2-d4">
+      <div class="s2-item-svg-wrap">
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
+          <ellipse cx="32" cy="18" rx="12" ry="7" stroke="#9cbc14" stroke-width="1.8"/>
+          <path d="M20 18v22c0 6 5.5 9 12 9s12-3 12-9V18" stroke="#9cbc14" stroke-width="1.8"/>
+          <path d="M26 26v10" stroke="#9cbc14" stroke-width="1.2" opacity=".5"/>
+          <circle cx="32" cy="36" r="3" fill="#9cbc14" opacity=".3"/>
+        </svg>
+      </div>
       <span class="s2-item-lbl">Sand Timer</span>
     </div>
   </div>
