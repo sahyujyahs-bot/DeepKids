@@ -898,26 +898,29 @@
   }
   .s2-title {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
-    font-size: clamp(32px, 6vw, 72px); color: #fff;
-    text-shadow: 0 0 20px rgba(160,210,20,.4), 2px 2px 0 rgba(0,0,0,.8);
+    font-size: clamp(40px, 7vw, 96px); color: #fff;
+    text-shadow: 0 0 26px rgba(160,210,20,.55), 3px 3px 0 rgba(0,0,0,.9);
     margin: 0 0 clamp(4px, 0.8vh, 10px); line-height: 1;
   }
   .s2-subtitle {
-    font-family: 'Norwester', sans-serif; font-variant: small-caps;
-    font-size: clamp(10px, 2.2vw, 28px); color: #9cbc14;
-    letter-spacing: clamp(0px, 0.2vw, 2px); margin: 0 0 clamp(10px, 1.5vh, 20px);
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(14px, 2.2vw, 28px); color: #9cbc14;
+    letter-spacing: clamp(2px, .5vw, 5px);
+    text-transform: uppercase;
+    margin: 0 0 clamp(10px, 1.5vh, 20px);
     text-shadow: 0 0 12px rgba(156,188,20,0.3);
+    white-space: nowrap;
   }
   .s2-desc {
     font-family: 'Pompiere', sans-serif;
-    font-size: clamp(11px, 1.5vw, 20px);
+    font-size: clamp(14px, 2.2vw, 28px);
     color: rgba(255,255,255,0.65); line-height: 1.5;
-    max-width: 700px; margin: 0 auto clamp(20px, 3vh, 40px);
+    margin: 0 0 clamp(20px, 3vh, 40px);
   }
   .s2-desc em { font-style: normal; color: #9cbc14; }
   .s2-desc-big {
     display: block;
-    font-size: clamp(12px, 2vw, 28px);
+    font-size: clamp(16px, 2.8vw, 34px);
     margin: clamp(4px, 0.8vh, 10px) 0;
     color: rgba(255,255,255,0.8);
   }
@@ -977,9 +980,7 @@
   @media (max-width: 480px) {
     .s2-pin { columns: 2; column-gap: 10px; }
     .s2-pin-item { margin-bottom: 10px; }
-    .s2-subtitle { font-size: 11px; letter-spacing: 0.5px; }
-    .s2-desc { font-size: 12px; line-height: 1.4; }
-    .s2-desc-big { font-size: 14px; }
+    .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
 </style>
 
