@@ -892,14 +892,15 @@
 <!-- ======================================= S2: THE GAME ======= -->
 <style>
   #s2 {
+    position: relative;
     height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: clamp(80px, 10vh, 120px) clamp(16px, 4vw, 60px) clamp(40px, 6vh, 80px);
     text-align: center;
     overflow: hidden;
-    box-sizing: border-box;
+  }
+  .s2-mission {
+    position: relative;
+    z-index: 20;
+    padding: clamp(80px, 10vh, 120px) clamp(16px, 4vw, 60px) 0;
   }
   .s2-mission-title {
     font-family: 'Norwester', sans-serif;
@@ -919,7 +920,7 @@
   }
   .s2-mission-lines {
     max-width: 700px;
-    margin: 0 auto clamp(28px, 4vh, 48px);
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     gap: clamp(6px, 1vh, 12px);
@@ -938,10 +939,11 @@
 
   /* ── Unbox ────────────────────────────────────── */
   .s2-unbox-wrap {
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    max-width: 700px;
-    flex: 1 1 0;
+    height: 100%;
   }
 
   /* The box */
@@ -1036,14 +1038,16 @@
 </style>
 
 <section id="s2">
-  <h2 class="s2-mission-title eg-fade-in">The Mission</h2>
-  <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
+  <div class="s2-mission">
+    <h2 class="s2-mission-title eg-fade-in">The Mission</h2>
+    <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
 
-  <div class="s2-mission-lines">
-    <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth's surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
-    <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity's agent</em> — pulling you down toward the core.</div>
-    <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> — earned by completing <em>Physical Challenges</em>.</div>
-    <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
+    <div class="s2-mission-lines">
+      <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth's surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
+      <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity's agent</em> — pulling you down toward the core.</div>
+      <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> — earned by completing <em>Physical Challenges</em>.</div>
+      <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
+    </div>
   </div>
 
   <div class="s2-unbox-wrap">
