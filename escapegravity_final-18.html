@@ -1304,8 +1304,74 @@
       </div>
     </div>
 
+    <style>
+    /* ── Science Tab Slides ───────────────────────────── */
+    .sci-slide {
+      display: none;
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+    }
+    .sci-slide.active { display: block; }
+
+    .sci-slide-title {
+      position: absolute;
+      top: 3%;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Norwester', sans-serif;
+      font-variant: small-caps;
+      font-size: clamp(18px, 3vw, 36px);
+      color: #9cbc14;
+      text-shadow: 0 0 20px rgba(156,188,20,0.5);
+      text-align: center;
+      z-index: 5;
+      white-space: nowrap;
+    }
+
+    #sci-canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    .sci-tile-label {
+      position: absolute;
+      bottom: 12%;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Pompiere', sans-serif;
+      font-size: clamp(14px, 2vw, 22px);
+      color: #fff;
+      text-align: center;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      background: rgba(10,6,24,0.7);
+      padding: 8px 20px;
+      border-radius: 10px;
+      border: 1px solid rgba(156,188,20,0.3);
+      opacity: 0;
+      transition: opacity 0.5s ease;
+      z-index: 5;
+      white-space: nowrap;
+    }
+    .sci-tile-label.show { opacity: 1; }
+    </style>
+
     <div class="s2-panel" id="s2-panel-science">
-      <div style="display:flex;align-items:center;justify-content:center;height:100%;font-family:'Pompiere',sans-serif;font-size:clamp(16px,2vw,24px);color:rgba(255,255,255,0.4);letter-spacing:3px;text-transform:uppercase;">Coming Soon</div>
+      <!-- Science Slide 1: Each Tile Carries Science -->
+      <div class="sci-slide active" id="sci-slide-1">
+        <div class="sci-slide-title" id="sci-title-1">Each Tile Carries Science</div>
+        <canvas id="sci-canvas" width="800" height="600"></canvas>
+        <div class="sci-tile-label" id="sci-tile-label"></div>
+      </div>
+      <!-- Science Slide 2: placeholder for now -->
+      <div class="sci-slide" id="sci-slide-2">
+        <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
+      </div>
+      <!-- Science Slide 3: placeholder for now -->
+      <div class="sci-slide" id="sci-slide-3">
+        <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
+      </div>
     </div>
 
     <!-- Navigation arrows -->
@@ -1697,6 +1763,7 @@
     drawBoard(currentScale, currentRotation);
   }
   window.addEventListener('resize', resizeCanvas);
+  window.boardImg = boardImg;
   boardImg.onload = () => {
     currentScale = 1;
     currentRotation = 0;
@@ -2011,6 +2078,7 @@
   window.s2ActiveTab = 'boardgame';
 
   window.s2GoBack = function() {
+    if (window.s2ActiveTab === 'science') { if (window.sciGoBack) window.sciGoBack(); return; }
     if (window.s2ActiveTab === 'physical') { window.pcGoBack(); return; }
     if (state === 1 || state === 6) {
       jumpToState0();
@@ -2030,6 +2098,7 @@
   };
 
   window.s2GoForward = function() {
+    if (window.s2ActiveTab === 'science') { if (window.sciGoForward) window.sciGoForward(); return; }
     if (window.s2ActiveTab === 'physical') { window.pcGoForward(); return; }
     if (state === 0 || state === 1) {
       // Skip to dice scene (endpoint)
@@ -2247,6 +2316,7 @@
       var panel = document.getElementById('s2-panel-' + target);
       if (panel) panel.classList.add('active');
       setBoardElementsVisible(target === 'boardgame');
+      if (window.stopSciAnimation) window.stopSciAnimation();
       // Show nav on physical tab too, update button states
       if (target === 'physical') {
         initCardFan();
@@ -2255,6 +2325,11 @@
         window.pcJumpTo(0);
       } else if (target === 'boardgame') {
         window.s2ActiveTab = 'boardgame';
+      } else if (target === 'science') {
+        s2Nav.style.display = '';
+        window.s2ActiveTab = 'science';
+        if (window.sciResetSlides) window.sciResetSlides();
+        if (window.startSciAnimation) window.startSciAnimation();
       } else {
         s2Nav.style.display = 'none';
         window.s2ActiveTab = target;
@@ -2776,6 +2851,176 @@
     else if (pcState === 2) { window.pcJumpTo(0); } // wrap around
   };
 
+})();
+
+/* ── Science Tab — Tile Zoom Animation ──────────────────── */
+(function(){
+  'use strict';
+
+  var sciCanvas = document.getElementById('sci-canvas');
+  var sciCtx = sciCanvas ? sciCanvas.getContext('2d') : null;
+  var sciLabel = document.getElementById('sci-tile-label');
+  var sciActive = false;
+  var sciRaf = null;
+
+  // Tiles to highlight — normalized coordinates on the original board image
+  var TILES = [
+    { nx: 0.63, ny: 0.31, scale: 3.5, label: 'Gravity Near Surface' },
+    { nx: 0.55, ny: 0.55, scale: 4.0, label: 'Near Vacuum \u2014 Low Pressure' },
+    { nx: 0.72, ny: 0.55, scale: 3.8, label: 'Strong Horizontal Winds' },
+    { nx: 0.45, ny: 0.40, scale: 3.5, label: 'Extreme UV \u2014 No Air' },
+  ];
+
+  var currentTile = -1;
+  var animStart = null;
+  var ZOOM_TIME = 1500;
+  var HOLD_TIME = 3000;
+  var phase = 'idle';
+  var fromState = { cx: 0.5, cy: 0.5, s: 1 };
+  var toState = { cx: 0.5, cy: 0.5, s: 1 };
+
+  function resizeSciCanvas() {
+    if (!sciCanvas) return;
+    var parent = sciCanvas.parentElement;
+    if (!parent) return;
+    sciCanvas.width = parent.clientWidth;
+    sciCanvas.height = parent.clientHeight;
+  }
+
+  function drawSciBoard(cx, cy, scale) {
+    if (!sciCtx || !window.boardImg) return;
+    var W = sciCanvas.width, H = sciCanvas.height;
+    var img = window.boardImg;
+    var nat = img.naturalWidth || 1200;
+    var imgScale = Math.min(W, H) / nat;
+    var dispW = nat * imgScale;
+    var imgX = (W - dispW) / 2;
+    var imgY = (H - dispW) / 2;
+
+    var focusX = imgX + cx * dispW;
+    var focusY = imgY + cy * dispW;
+
+    sciCtx.clearRect(0, 0, W, H);
+    sciCtx.save();
+    sciCtx.translate(focusX, focusY);
+    sciCtx.scale(scale, scale);
+    sciCtx.translate(-focusX, -focusY);
+    sciCtx.drawImage(img, imgX, imgY, dispW, dispW);
+    sciCtx.restore();
+  }
+
+  function smoothstep(t) { return t * t * (3 - 2 * t); }
+  function lerp(a, b, t) { return a + (b - a) * t; }
+
+  function sciFrame(ts) {
+    if (!sciActive) return;
+    if (!animStart) animStart = ts;
+    var elapsed = ts - animStart;
+
+    if (phase === 'zooming-in' || phase === 'zooming-out') {
+      var t = Math.min(elapsed / ZOOM_TIME, 1);
+      var e = smoothstep(t);
+      var cx = lerp(fromState.cx, toState.cx, e);
+      var cy = lerp(fromState.cy, toState.cy, e);
+      var s = lerp(fromState.s, toState.s, e);
+      drawSciBoard(cx, cy, s);
+      if (t >= 1) {
+        if (phase === 'zooming-in') {
+          phase = 'holding';
+          animStart = ts;
+          if (sciLabel && currentTile >= 0) {
+            sciLabel.textContent = TILES[currentTile].label;
+            sciLabel.classList.add('show');
+          }
+        } else {
+          phase = 'idle';
+          animStart = ts;
+          nextTile();
+          sciRaf = requestAnimationFrame(sciFrame);
+          return;
+        }
+      }
+    } else if (phase === 'holding') {
+      if (elapsed >= HOLD_TIME) {
+        if (sciLabel) sciLabel.classList.remove('show');
+        phase = 'zooming-out';
+        animStart = ts;
+        fromState = { cx: toState.cx, cy: toState.cy, s: toState.s };
+        toState = { cx: 0.5, cy: 0.5, s: 1 };
+      }
+    } else if (phase === 'idle') {
+      if (elapsed >= 1000) {
+        nextTile();
+      }
+      drawSciBoard(0.5, 0.5, 1);
+    }
+
+    sciRaf = requestAnimationFrame(sciFrame);
+  }
+
+  function nextTile() {
+    currentTile = (currentTile + 1) % TILES.length;
+    var tile = TILES[currentTile];
+    phase = 'zooming-in';
+    animStart = null;
+    fromState = { cx: 0.5, cy: 0.5, s: 1 };
+    toState = { cx: tile.nx, cy: tile.ny, s: tile.scale };
+  }
+
+  function startSciAnimation() {
+    if (sciActive) return;
+    sciActive = true;
+    resizeSciCanvas();
+    currentTile = -1;
+    phase = 'idle';
+    animStart = null;
+    drawSciBoard(0.5, 0.5, 1);
+    sciRaf = requestAnimationFrame(sciFrame);
+  }
+
+  function stopSciAnimation() {
+    sciActive = false;
+    if (sciRaf) cancelAnimationFrame(sciRaf);
+    sciRaf = null;
+    if (sciLabel) sciLabel.classList.remove('show');
+  }
+
+  window.startSciAnimation = startSciAnimation;
+  window.stopSciAnimation = stopSciAnimation;
+
+  window.addEventListener('resize', resizeSciCanvas);
+
+  // Science slide navigation
+  var sciSlideIndex = 0;
+  window.sciGoForward = function() {
+    if (sciSlideIndex < 2) {
+      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.remove('active');
+      sciSlideIndex++;
+      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.add('active');
+      if (sciSlideIndex === 0) startSciAnimation(); else stopSciAnimation();
+    } else {
+      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.remove('active');
+      sciSlideIndex = 0;
+      document.getElementById('sci-slide-1').classList.add('active');
+      startSciAnimation();
+    }
+  };
+  window.sciGoBack = function() {
+    if (sciSlideIndex > 0) {
+      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.remove('active');
+      sciSlideIndex--;
+      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.add('active');
+      if (sciSlideIndex === 0) startSciAnimation(); else stopSciAnimation();
+    }
+  };
+  window.sciResetSlides = function() {
+    for (var i = 1; i <= 3; i++) {
+      var sl = document.getElementById('sci-slide-' + i);
+      if (sl) sl.classList.remove('active');
+    }
+    document.getElementById('sci-slide-1').classList.add('active');
+    sciSlideIndex = 0;
+  };
 })();
 
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
