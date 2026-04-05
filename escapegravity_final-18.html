@@ -940,7 +940,7 @@
     position: relative;
     width: 100%;
     max-width: 700px;
-    min-height: clamp(320px, 50vh, 500px);
+    height: clamp(320px, 50vh, 500px);
     margin: 0 auto;
   }
 
@@ -989,9 +989,9 @@
     align-items: center;
     opacity: 0;
     transform: translate(-50%, -50%) scale(0);
-    /* Start position: center of box */
+    /* Start position: center of wrap (same as box) */
     left: 50%;
-    top: clamp(50px, 8vw, 80px);
+    top: 50%;
     transition: all 0.7s cubic-bezier(.34,1.56,.64,1);
     z-index: 5;
   }
