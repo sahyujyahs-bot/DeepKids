@@ -124,6 +124,9 @@
       border-radius: 6px;
       -webkit-box-decoration-break: clone; box-decoration-break: clone;
     }
+    .sub-dot {
+      margin: 0 clamp(2px, 0.5vw, 8px);
+    }
 
     /* ── Description ───────────────────────────────────────────── */
     .desc {
@@ -382,7 +385,7 @@
 
   <div id="content">
       <h1 class="title">EscapeGravity</h1>
-      <p class="subtitle">Boardgame &nbsp;&middot;&nbsp; Physical Challenges &nbsp;&middot;&nbsp; Science</p>
+      <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
         <!-- 1. K dark borders first — they go behind the D fill -->
