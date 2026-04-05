@@ -929,66 +929,78 @@
   .s2-delay-3 { transition-delay: 0.3s; }
   .s2-delay-4 { transition-delay: 0.4s; }
 
-  /* ── Unbox container: fills remaining space ───── */
-  .s2-unbox {
-    flex: 1; position: relative; min-height: 0;
-    display: flex; align-items: center; justify-content: center;
+  /* ── Orbit area ───────────────────────────────── */
+  .s2-orbit-wrap {
+    flex: 1; display: flex; align-items: center; justify-content: center;
+    min-height: 0; position: relative;
   }
-  .s2-unbox-inner {
+  .s2-orbit {
     position: relative;
-    width: clamp(300px, 80vw, 800px);
-    height: clamp(240px, 40vh, 420px);
+    width: clamp(280px, 50vh, 480px);
+    height: clamp(280px, 50vh, 480px);
   }
 
-  /* ── Box: centered ────────────────────────────── */
+  /* ── Box at center ────────────────────────────── */
   .s2-box {
     position: absolute; left: 50%; top: 50%;
     transform: translate(-50%, -50%);
-    width: clamp(140px, 22vw, 260px);
+    width: clamp(100px, 16vh, 180px);
     cursor: pointer; z-index: 10;
     transition: transform 0.4s ease;
   }
-  .s2-box:hover { transform: translate(-50%, -50%) scale(1.05); }
-  .s2-box-img { width: 100%; height: auto; display: block; transition: opacity 0.5s ease; }
+  .s2-box:hover { transform: translate(-50%, -50%) scale(1.06); }
+  .s2-box-img { width: 100%; height: auto; display: block; transition: opacity 0.5s; }
   .s2-box-img.hidden { opacity: 0; position: absolute; top: 0; left: 0; }
   .s2-box.opened .s2-box-closed { opacity: 0; }
   .s2-box.opened .s2-box-open { opacity: 1; position: relative; }
   .s2-box-label {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(11px, 1.1vw, 15px);
-    color: rgba(255,255,255,0.4); letter-spacing: 2px; text-transform: uppercase;
-    text-align: center; margin-top: 8px; transition: opacity 0.3s;
+    font-family: 'Pompiere', sans-serif; font-size: clamp(10px, 1vw, 14px);
+    color: rgba(255,255,255,0.35); letter-spacing: 2px; text-transform: uppercase;
+    text-align: center; margin-top: 6px; transition: opacity 0.3s;
   }
-  .s2-box.opened ~ .s2-box-lbl-wrap { opacity: 0; }
 
-  /* ── Items: absolute, start at center ─────────── */
-  .s2-ui {
-    position: absolute; display: flex; flex-direction: column; align-items: center;
-    left: 50%; top: 50%;
-    opacity: 0; transform: translate(-50%, -50%) scale(0);
-    transition: all 0.6s cubic-bezier(.34,1.56,.64,1);
+  /* ── Orbit ring (decorative) ──────────────────── */
+  .s2-orbit-ring {
+    position: absolute; inset: 0;
+    border: 1px solid rgba(156,188,20,0.08);
+    border-radius: 50%;
+    animation: s2-ring-spin 60s linear infinite;
+  }
+  @keyframes s2-ring-spin { to { transform: rotate(360deg); } }
+
+  /* ── Orbiting items ───────────────────────────── */
+  .s2-orb {
+    position: absolute;
+    display: flex; flex-direction: column; align-items: center;
+    opacity: 0; transform: scale(0);
+    transition: opacity 0.5s ease, transform 0.6s cubic-bezier(.34,1.56,.64,1);
     z-index: 5;
   }
-  .s2-ui.show {
-    opacity: 1; transform: translate(-50%, -50%) scale(1);
-  }
-  .s2-ui-img {
-    width: clamp(44px, 7vw, 80px); height: clamp(44px, 7vw, 80px);
-    border-radius: 10px; object-fit: contain;
-    filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
+  .s2-orb.show { opacity: 1; transform: scale(1); }
+  .s2-orb-icon {
+    width: clamp(40px, 7vh, 70px); height: clamp(40px, 7vh, 70px);
+    border-radius: 50%; object-fit: contain;
+    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.6));
     transition: transform 0.3s;
   }
-  .s2-ui:hover .s2-ui-img { transform: scale(1.1); }
-  .s2-ui-lbl {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(9px, 1vw, 13px);
-    color: rgba(255,255,255,0.55); margin-top: 6px;
+  .s2-orb:hover .s2-orb-icon { transform: scale(1.15); }
+  .s2-orb-svg {
+    width: clamp(40px, 7vh, 70px); height: clamp(40px, 7vh, 70px);
+    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.6));
+    transition: transform 0.3s;
+  }
+  .s2-orb:hover .s2-orb-svg { transform: scale(1.15); }
+  .s2-orb-lbl {
+    font-family: 'Pompiere', sans-serif; font-size: clamp(8px, 1vw, 12px);
+    color: rgba(255,255,255,0.5); margin-top: 4px;
     letter-spacing: 1px; text-transform: uppercase; white-space: nowrap;
   }
 
   @media (max-width: 600px) {
-    .s2-unbox-inner { width: 95vw; height: 55vw; }
-    .s2-box { width: 120px; }
-    .s2-ui-img { width: 40px; height: 40px; }
-    .s2-ui-lbl { font-size: 8px; }
+    .s2-orbit { width: 78vw; height: 78vw; }
+    .s2-box { width: 80px; }
+    .s2-orb-icon, .s2-orb-svg { width: 36px; height: 36px; }
+    .s2-orb-lbl { font-size: 7px; }
   }
 </style>
 
@@ -1004,22 +1016,58 @@
     </div>
   </div>
 
-  <div class="s2-unbox">
-    <div class="s2-unbox-inner" id="s2-unbox-inner">
-      <!-- Box -->
+  <div class="s2-orbit-wrap">
+    <div class="s2-orbit" id="s2-orbit">
+      <div class="s2-orbit-ring"></div>
+
+      <!-- Box at center -->
       <div class="s2-box" id="s2-box" title="Click to unbox!">
         <img class="s2-box-img s2-box-closed" src="EG closed box.png" alt="EscapeGravity box">
         <img class="s2-box-img s2-box-open hidden" src="Egocentric with lid coming off.png" alt="Box opening">
         <div class="s2-box-label">Tap to unbox</div>
       </div>
 
-      <!-- Items -->
-      <div class="s2-ui" id="s2-ui-0"><img class="s2-ui-img" src="Copy of Core.png" alt="Board"><span class="s2-ui-lbl">Board</span></div>
-      <div class="s2-ui" id="s2-ui-1"><img class="s2-ui-img" src="Blue astronaut front.png" alt="Astronaut"><span class="s2-ui-lbl">Astronaut</span></div>
-      <div class="s2-ui" id="s2-ui-2"><img class="s2-ui-img" src="Untitled_Artwork 7.png" alt="Rocket"><span class="s2-ui-lbl">Rocket</span></div>
-      <div class="s2-ui" id="s2-ui-3"><img class="s2-ui-img" src="IMG_5098.jpeg" alt="Force Card"><span class="s2-ui-lbl">Force Card</span></div>
-      <div class="s2-ui" id="s2-ui-4"><img class="s2-ui-img" src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card"><span class="s2-ui-lbl">Challenge Card</span></div>
-      <div class="s2-ui" id="s2-ui-5"><img class="s2-ui-img" src="Lightest_Items_Wins.png" alt="Challenge"><span class="s2-ui-lbl">Challenge Inside</span></div>
+      <!-- 7 orbiting items — positioned by JS in a circle -->
+      <div class="s2-orb" id="s2-orb-0">
+        <img class="s2-orb-icon" src="Copy of Core.png" alt="Board">
+        <span class="s2-orb-lbl">Board</span>
+      </div>
+      <div class="s2-orb" id="s2-orb-1">
+        <img class="s2-orb-icon" src="IMG_5098.jpeg" alt="Force Cards">
+        <span class="s2-orb-lbl">Force Cards</span>
+      </div>
+      <div class="s2-orb" id="s2-orb-2">
+        <img class="s2-orb-icon" src="Lightest_Items_Wins.png" alt="Challenge Cards">
+        <span class="s2-orb-lbl">Challenge Cards</span>
+      </div>
+      <div class="s2-orb" id="s2-orb-3">
+        <img class="s2-orb-icon" src="Blue astronaut front.png" alt="Player Tokens" style="border-radius:50%;">
+        <span class="s2-orb-lbl">Player Tokens</span>
+      </div>
+      <div class="s2-orb" id="s2-orb-4">
+        <svg class="s2-orb-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="52" height="52" rx="10" fill="#1a2508" stroke="#9cbc14" stroke-width="2.5"/>
+          <circle cx="22" cy="22" r="4" fill="#9cbc14"/><circle cx="42" cy="22" r="4" fill="#9cbc14"/>
+          <circle cx="32" cy="32" r="4" fill="#9cbc14"/>
+          <circle cx="22" cy="42" r="4" fill="#9cbc14"/><circle cx="42" cy="42" r="4" fill="#9cbc14"/>
+        </svg>
+        <span class="s2-orb-lbl">Dice</span>
+      </div>
+      <div class="s2-orb" id="s2-orb-5">
+        <img class="s2-orb-icon" src="Untitled_Artwork 7.png" alt="Rocket Token" style="border-radius:50%;">
+        <span class="s2-orb-lbl">Rocket Token</span>
+      </div>
+      <div class="s2-orb" id="s2-orb-6">
+        <svg class="s2-orb-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="32" cy="32" r="28" fill="#1a2508" stroke="#9cbc14" stroke-width="2.5"/>
+          <path d="M22 42 L28 22 M36 22 L42 42" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="32" cy="28" r="5" fill="#9cbc14" opacity="0.4"/>
+          <path d="M20 44h24" stroke="#9cbc14" stroke-width="1.5" opacity="0.5"/>
+          <circle cx="25" cy="36" r="2" fill="#9cbc14" opacity="0.6"/>
+          <circle cx="39" cy="36" r="2" fill="#9cbc14" opacity="0.6"/>
+        </svg>
+        <span class="s2-orb-lbl">Kit Items</span>
+      </div>
     </div>
   </div>
 </section>
@@ -1028,32 +1076,32 @@
 (function(){
   'use strict';
   var box = document.getElementById('s2-box');
-  if (!box) return;
-  var opened = false;
+  var orbit = document.getElementById('s2-orbit');
+  if (!box || !orbit) return;
 
-  var positions = [
-    { left: '8%',  top: '30%' },  // Board (left)
-    { left: '20%', top: '80%' },  // Astronaut (bottom-left)
-    { left: '80%', top: '80%' },  // Rocket (bottom-right)
-    { left: '92%', top: '30%' },  // Force Card (right)
-    { left: '25%', top: '8%' },   // Challenge Card back (top-left)
-    { left: '75%', top: '8%' },   // Challenge Card front (top-right)
-  ];
+  var opened = false;
+  var count = 7;
+  var radius = 46; // % from center
 
   function unbox() {
     if (opened) return;
     opened = true;
     box.classList.add('opened');
 
-    positions.forEach(function(pos, i) {
-      var el = document.getElementById('s2-ui-' + i);
-      if (!el) return;
-      setTimeout(function() {
-        el.style.left = pos.left;
-        el.style.top = pos.top;
-        el.classList.add('show');
-      }, 200 + i * 120);
-    });
+    for (var i = 0; i < count; i++) {
+      (function(idx) {
+        var el = document.getElementById('s2-orb-' + idx);
+        if (!el) return;
+        var angle = (idx / count) * 2 * Math.PI - Math.PI / 2; // start from top
+        var x = 50 + radius * Math.cos(angle);
+        var y = 50 + radius * Math.sin(angle);
+        setTimeout(function() {
+          el.style.left = x + '%';
+          el.style.top = y + '%';
+          el.classList.add('show');
+        }, 300 + idx * 120);
+      })(i);
+    }
   }
 
   box.addEventListener('click', unbox);
