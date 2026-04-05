@@ -665,39 +665,57 @@
         });
         World.add(world, mc);
 
-        /* ── Smart touch: drag cards OR scroll page ───────────── */
+        /* ── Smart touch: drag cards OR scroll page (with momentum) ── */
         let touchLastY = 0;
+        let touchLastTime = 0;
         let draggingCard = false;
+        let scrollVelocity = 0;
+        let momentumRAF = 0;
+
+        function startMomentumScroll() {
+          cancelAnimationFrame(momentumRAF);
+          const friction = 0.95;
+          const minV = 0.5;
+          (function tick() {
+            if (Math.abs(scrollVelocity) < minV) return;
+            window.scrollBy(0, scrollVelocity);
+            scrollVelocity *= friction;
+            momentumRAF = requestAnimationFrame(tick);
+          })();
+        }
 
         cv.addEventListener('touchstart', (e) => {
           const t = e.touches[0];
           touchLastY = t.clientY;
-          // Feed to Matter.js so it can detect body under finger
+          touchLastTime = performance.now();
+          cancelAnimationFrame(momentumRAF);
+          scrollVelocity = 0;
           mouse.mousedown(e);
-          // Check on next frame if Matter.js grabbed a body
           draggingCard = false;
-        }, { passive: true });   // passive: can't preventDefault here, but that's OK
+        }, { passive: true });
 
         cv.addEventListener('touchmove', (e) => {
           const t = e.touches[0];
+          const now = performance.now();
           const dy = touchLastY - t.clientY;
+          const dt = now - touchLastTime || 16;
           touchLastY = t.clientY;
+          touchLastTime = now;
 
-          // Feed position to Matter.js
           mouse.mousemove(e);
 
-          // If Matter.js has grabbed a physics body → card drag
           if (mc.body) {
             draggingCard = true;
-            e.preventDefault();   // block scroll, card interaction only
+            e.preventDefault();
           } else if (!draggingCard) {
-            // No body → scroll the page manually
             window.scrollBy(0, dy);
+            scrollVelocity = dy * (16 / dt);
           }
-        }, { passive: false });   // non-passive so we CAN preventDefault
+        }, { passive: false });
 
         cv.addEventListener('touchend', (e) => {
           mouse.mouseup(e);
+          if (!draggingCard) startMomentumScroll();
           draggingCard = false;
         }, { passive: true });
 
