@@ -1114,26 +1114,26 @@
     max-width: clamp(200px, 35vw, 320px);
     text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
   }
-  /* Comic tail pointing up-left toward earth icon */
+  /* Comic tail pointing down toward earth icon */
   .s2-bubble-box::after {
     content: '';
     position: absolute;
-    top: -16px;
+    bottom: -16px;
     left: 20%;
     width: 0; height: 0;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
-    border-bottom: 18px solid #a0c816;
+    border-top: 18px solid #7aa010;
   }
   .s2-bubble-box::before {
     content: '';
     position: absolute;
-    top: -20px;
+    bottom: -20px;
     left: calc(20% - 2px);
     width: 0; height: 0;
     border-left: 14px solid transparent;
     border-right: 14px solid transparent;
-    border-bottom: 20px solid #6b2155;
+    border-top: 20px solid #6b2155;
   }
   .s2-bubble-earth {
     display: inline-block;
