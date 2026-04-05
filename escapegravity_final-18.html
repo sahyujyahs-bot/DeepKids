@@ -892,13 +892,14 @@
 <!-- ======================================= S2: THE GAME ======= -->
 <style>
   #s2 {
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: clamp(80px, 10vh, 120px) clamp(16px, 4vw, 60px) clamp(40px, 6vh, 80px);
     text-align: center;
     overflow: hidden;
+    box-sizing: border-box;
   }
   .s2-mission-title {
     font-family: 'Norwester', sans-serif;
@@ -940,8 +941,7 @@
     position: relative;
     width: 100%;
     max-width: 700px;
-    flex: 1;
-    min-height: 0;
+    flex: 1 1 0;
   }
 
   /* The box */
@@ -1046,7 +1046,7 @@
     <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
   </div>
 
-  <div class="s2-unbox-wrap eg-fade-in s2-delay-4">
+  <div class="s2-unbox-wrap">
     <div class="s2-box" id="s2-box" title="Click to unbox!">
       <img class="s2-box-img s2-box-closed" src="EG closed box.png" alt="EscapeGravity box closed">
       <img class="s2-box-img s2-box-open hidden" src="Egocentric with lid coming off.png" alt="EscapeGravity box opening">
