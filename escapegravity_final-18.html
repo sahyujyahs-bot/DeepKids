@@ -900,10 +900,8 @@
     text-align: center;
     overflow: hidden;
   }
-
-  /* ── Mission text ─────────────────────────────── */
   .s2-mission-title {
-    font-family: ‘Norwester’, sans-serif;
+    font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
     font-size: clamp(28px, 5vw, 64px);
     color: #fff;
@@ -912,99 +910,148 @@
     line-height: 1;
   }
   .s2-mission-tagline {
-    font-family: ‘Pompiere’, sans-serif;
+    font-family: 'Pompiere', sans-serif;
     font-size: clamp(15px, 1.8vw, 22px);
     color: #9cbc14;
     letter-spacing: 2px;
-    margin: 0 0 clamp(24px, 4vh, 48px);
+    margin: 0 0 clamp(20px, 3vh, 40px);
   }
   .s2-mission-lines {
     max-width: 700px;
-    margin: 0 auto clamp(32px, 5vh, 56px);
+    margin: 0 auto clamp(28px, 4vh, 48px);
     display: flex;
     flex-direction: column;
     gap: clamp(6px, 1vh, 12px);
   }
   .s2-mission-line {
-    font-family: ‘Pompiere’, sans-serif;
+    font-family: 'Pompiere', sans-serif;
     font-size: clamp(14px, 1.5vw, 20px);
     color: rgba(255,255,255,0.7);
     line-height: 1.5;
   }
-  .s2-mission-line em {
-    font-style: normal;
-    color: #9cbc14;
-  }
+  .s2-mission-line em { font-style: normal; color: #9cbc14; }
+  .s2-delay-1 { transition-delay: 0.1s; }
+  .s2-delay-2 { transition-delay: 0.2s; }
+  .s2-delay-3 { transition-delay: 0.3s; }
+  .s2-delay-4 { transition-delay: 0.4s; }
 
-  /* ── Unbox area ───────────────────────────────── */
-  .s2-unbox-title {
-    font-family: ‘Norwester’, sans-serif;
-    font-variant: small-caps;
-    font-size: clamp(18px, 2.5vw, 32px);
-    color: rgba(255,255,255,0.5);
-    letter-spacing: 3px;
-    margin: 0 0 clamp(20px, 3vh, 36px);
-  }
-  .s2-unbox-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: clamp(12px, 2vw, 28px);
-    max-width: 800px;
+  /* ── Unbox ────────────────────────────────────── */
+  .s2-unbox-wrap {
+    position: relative;
     width: 100%;
+    max-width: 700px;
+    min-height: clamp(320px, 50vh, 500px);
     margin: 0 auto;
   }
 
-  /* ── Individual items ─────────────────────────── */
-  .s2-item {
+  /* The box */
+  .s2-box {
+    position: relative;
+    width: clamp(120px, 18vw, 180px);
+    height: clamp(100px, 14vw, 150px);
+    margin: 0 auto;
+    cursor: pointer;
+    z-index: 10;
+    transition: transform 0.4s ease;
+  }
+  .s2-box:hover { transform: scale(1.05); }
+  .s2-box-body {
+    width: 100%; height: 100%;
+    background: linear-gradient(135deg, #2a3a12 0%, #1a2508 100%);
+    border: 2px solid #9cbc14;
+    border-radius: 8px 8px 6px 6px;
+    position: relative;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.5), inset 0 -10px 20px rgba(0,0,0,0.3);
+  }
+  .s2-box-body::after {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 40%;
+    background: linear-gradient(180deg, rgba(156,188,20,0.08), transparent);
+    border-radius: 8px 8px 0 0;
+  }
+  .s2-box-ribbon {
+    position: absolute; top: 0; left: 50%; width: 20%; height: 100%;
+    transform: translateX(-50%);
+    background: rgba(156,188,20,0.15);
+    border-left: 1px solid rgba(156,188,20,0.25);
+    border-right: 1px solid rgba(156,188,20,0.25);
+  }
+  .s2-box-lid {
+    position: absolute;
+    top: -12px; left: -6px; right: -6px; height: 28px;
+    background: linear-gradient(135deg, #3a4a18 0%, #2a3a10 100%);
+    border: 2px solid #9cbc14;
+    border-radius: 6px 6px 0 0;
+    transform-origin: bottom center;
+    transition: transform 0.6s cubic-bezier(.34,1.56,.64,1);
+    z-index: 2;
+    box-shadow: 0 -3px 12px rgba(0,0,0,0.3);
+  }
+  .s2-box.opened .s2-box-lid {
+    transform: rotateX(-120deg) translateY(-10px);
+  }
+  .s2-box-label {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(12px, 1.2vw, 16px);
+    color: rgba(255,255,255,0.4);
+    margin-top: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: opacity 0.3s;
+  }
+  .s2-box.opened + .s2-box-label { opacity: 0; }
+
+  /* Items that fly out */
+  .s2-unbox-item {
+    position: absolute;
     display: flex;
     flex-direction: column;
     align-items: center;
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0);
+    /* Start position: center of box */
+    left: 50%;
+    top: clamp(50px, 8vw, 80px);
+    transition: all 0.7s cubic-bezier(.34,1.56,.64,1);
+    z-index: 5;
   }
-  .s2-item-img {
-    width: clamp(60px, 10vw, 110px);
-    height: clamp(60px, 10vw, 110px);
+  .s2-unbox-item.revealed {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  .s2-unbox-item-icon {
+    width: clamp(52px, 8vw, 90px);
+    height: clamp(52px, 8vw, 90px);
     border-radius: 14px;
-    background: rgba(255,255,255,0.05);
-    border: 1.5px solid rgba(156,188,20,0.2);
+    background: rgba(10,6,24,0.85);
+    border: 1.5px solid rgba(156,188,20,0.25);
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
-    transition: border-color 0.3s, box-shadow 0.3s, transform 0.3s;
+    backdrop-filter: blur(6px);
+    transition: border-color 0.3s, box-shadow 0.3s;
   }
-  .s2-item:hover .s2-item-img {
-    border-color: rgba(156,188,20,0.5);
-    box-shadow: 0 0 24px rgba(156,188,20,0.15);
-    transform: translateY(-4px);
+  .s2-unbox-item:hover .s2-unbox-item-icon {
+    border-color: rgba(156,188,20,0.6);
+    box-shadow: 0 0 20px rgba(156,188,20,0.2);
   }
-  .s2-item-img svg {
-    width: 60%;
-    height: 60%;
+  .s2-unbox-item-icon svg {
+    width: 55%; height: 55%;
   }
-  .s2-item-label {
-    font-family: ‘Pompiere’, sans-serif;
-    font-size: clamp(11px, 1.2vw, 15px);
-    color: rgba(255,255,255,0.55);
-    margin-top: 10px;
+  .s2-unbox-item-label {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(10px, 1.1vw, 14px);
+    color: rgba(255,255,255,0.6);
+    margin-top: 8px;
     letter-spacing: 1px;
     text-transform: uppercase;
     white-space: nowrap;
   }
 
-  /* ── Stagger delays for fade-in ───────────────── */
-  .s2-delay-1 { transition-delay: 0.1s; }
-  .s2-delay-2 { transition-delay: 0.2s; }
-  .s2-delay-3 { transition-delay: 0.3s; }
-  .s2-delay-4 { transition-delay: 0.4s; }
-  .s2-delay-5 { transition-delay: 0.5s; }
-  .s2-delay-6 { transition-delay: 0.6s; }
-  .s2-delay-7 { transition-delay: 0.7s; }
-  .s2-delay-8 { transition-delay: 0.8s; }
-
   @media (max-width: 600px) {
-    .s2-unbox-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
-    .s2-item-img { width: 64px; height: 64px; border-radius: 10px; }
-    .s2-item-label { font-size: 10px; }
+    .s2-unbox-item-icon { width: 48px; height: 48px; border-radius: 10px; }
+    .s2-unbox-item-label { font-size: 9px; }
+    .s2-box { width: 100px; height: 84px; }
+    .s2-box-lid { height: 22px; top: -10px; left: -4px; right: -4px; }
   }
 </style>
 
@@ -1013,65 +1060,107 @@
   <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
 
   <div class="s2-mission-lines">
-    <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth’s surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
-    <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity’s agent</em> — pulling you down toward the core.</div>
+    <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth's surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
+    <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity's agent</em> — pulling you down toward the core.</div>
     <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> — earned by completing <em>Physical Challenges</em>.</div>
     <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
   </div>
 
-  <div class="s2-unbox-title eg-fade-in s2-delay-4">What’s In The Box</div>
+  <div class="s2-unbox-wrap eg-fade-in s2-delay-4">
+    <div class="s2-box" id="s2-box" title="Click to unbox!">
+      <div class="s2-box-lid"></div>
+      <div class="s2-box-body">
+        <div class="s2-box-ribbon"></div>
+      </div>
+    </div>
+    <div class="s2-box-label" id="s2-box-label">Tap to unbox</div>
 
-  <div class="s2-unbox-grid">
-    <div class="s2-item eg-fade-in s2-delay-1">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="4" y="4" width="40" height="40" rx="4"/><path d="M12 12h24v24H12z" opacity=".4"/><circle cx="24" cy="24" r="5" fill="#9cbc14" opacity=".4" stroke="none"/></svg>
-      </div>
-      <span class="s2-item-label">Game Board</span>
+    <!-- Items: positioned via JS after unbox -->
+    <div class="s2-unbox-item" id="s2-ui-0">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="4" y="4" width="40" height="40" rx="4"/><path d="M12 12h24v24H12z" opacity=".4"/><circle cx="24" cy="24" r="5" fill="#9cbc14" opacity=".4" stroke="none"/></svg></div>
+      <span class="s2-unbox-item-label">Game Board</span>
     </div>
-    <div class="s2-item eg-fade-in s2-delay-2">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="4" width="32" height="40" rx="4"/><path d="M16 16l8-5 8 5v14l-8 5-8-5z" opacity=".5"/></svg>
-      </div>
-      <span class="s2-item-label">Force Cards</span>
+    <div class="s2-unbox-item" id="s2-ui-1">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="4" width="32" height="40" rx="4"/><path d="M16 16l8-5 8 5v14l-8 5-8-5z" opacity=".5"/></svg></div>
+      <span class="s2-unbox-item-label">Force Cards</span>
     </div>
-    <div class="s2-item eg-fade-in s2-delay-3">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="4" width="32" height="40" rx="4"/><path d="M18 18l6-8 6 8M18 30l6 8 6-8" opacity=".5"/></svg>
-      </div>
-      <span class="s2-item-label">Challenge Cards</span>
+    <div class="s2-unbox-item" id="s2-ui-2">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="4" width="32" height="40" rx="4"/><path d="M18 18l6-8 6 8M18 30l6 8 6-8" opacity=".5"/></svg></div>
+      <span class="s2-unbox-item-label">Challenge Cards</span>
     </div>
-    <div class="s2-item eg-fade-in s2-delay-4">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="10" y="10" width="28" height="28" rx="5"/><circle cx="19" cy="19" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="29" cy="19" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="24" cy="24" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="19" cy="29" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="29" cy="29" r="2.5" fill="#9cbc14" stroke="none"/></svg>
-      </div>
-      <span class="s2-item-label">Dice</span>
+    <div class="s2-unbox-item" id="s2-ui-3">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="10" y="10" width="28" height="28" rx="5"/><circle cx="19" cy="19" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="29" cy="19" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="24" cy="24" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="19" cy="29" r="2.5" fill="#9cbc14" stroke="none"/><circle cx="29" cy="29" r="2.5" fill="#9cbc14" stroke="none"/></svg></div>
+      <span class="s2-unbox-item-label">Dice</span>
     </div>
-    <div class="s2-item eg-fade-in s2-delay-5">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><ellipse cx="24" cy="14" rx="10" ry="6"/><path d="M14 14v18c0 5 5 8 10 8s10-3 10-8V14"/><path d="M19 22v8" opacity=".4"/></svg>
-      </div>
-      <span class="s2-item-label">Sand Timer</span>
+    <div class="s2-unbox-item" id="s2-ui-4">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><ellipse cx="24" cy="14" rx="10" ry="6"/><path d="M14 14v18c0 5 5 8 10 8s10-3 10-8V14"/><path d="M19 22v8" opacity=".4"/></svg></div>
+      <span class="s2-unbox-item-label">Sand Timer</span>
     </div>
-    <div class="s2-item eg-fade-in s2-delay-6">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><path d="M14 38l8-26M26 12l8 26"/><ellipse cx="24" cy="32" rx="10" ry="5" opacity=".4"/><circle cx="24" cy="22" r="4" fill="#9cbc14" opacity=".3" stroke="none"/></svg>
-      </div>
-      <span class="s2-item-label">Challenge Kit</span>
+    <div class="s2-unbox-item" id="s2-ui-5">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><path d="M14 38l8-26M26 12l8 26"/><ellipse cx="24" cy="32" rx="10" ry="5" opacity=".4"/><circle cx="24" cy="22" r="4" fill="#9cbc14" opacity=".3" stroke="none"/></svg></div>
+      <span class="s2-unbox-item-label">Challenge Kit</span>
     </div>
-    <div class="s2-item eg-fade-in s2-delay-7">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><circle cx="17" cy="28" r="8"/><circle cx="31" cy="28" r="8"/><circle cx="24" cy="18" r="5" fill="#9cbc14" opacity=".25" stroke="none"/><path d="M17 38h14" opacity=".5"/></svg>
-      </div>
-      <span class="s2-item-label">Player Tokens</span>
+    <div class="s2-unbox-item" id="s2-ui-6">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><circle cx="17" cy="28" r="8"/><circle cx="31" cy="28" r="8"/><circle cx="24" cy="18" r="5" fill="#9cbc14" opacity=".25" stroke="none"/><path d="M17 38h14" opacity=".5"/></svg></div>
+      <span class="s2-unbox-item-label">Player Tokens</span>
     </div>
-    <div class="s2-item eg-fade-in s2-delay-8">
-      <div class="s2-item-img">
-        <svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="12" width="32" height="24" rx="3"/><path d="M8 20h32M20 12v24M32 12v24" opacity=".35"/><path d="M23 26l3 3 7-7" stroke-width="2"/></svg>
-      </div>
-      <span class="s2-item-label">Rulebook</span>
+    <div class="s2-unbox-item" id="s2-ui-7">
+      <div class="s2-unbox-item-icon"><svg viewBox="0 0 48 48" fill="none" stroke="#9cbc14" stroke-width="1.8"><rect x="8" y="12" width="32" height="24" rx="3"/><path d="M8 20h32M20 12v24M32 12v24" opacity=".35"/><path d="M23 26l3 3 7-7" stroke-width="2"/></svg></div>
+      <span class="s2-unbox-item-label">Rulebook</span>
     </div>
   </div>
 </section>
+
+<script>
+(function(){
+  'use strict';
+  var box = document.getElementById('s2-box');
+  var label = document.getElementById('s2-box-label');
+  if (!box) return;
+
+  var opened = false;
+  // Final positions for 8 items in a circle around the box
+  var positions = [
+    { left: '12%', top: '25%' },   // Game Board
+    { left: '38%', top: '15%' },   // Force Cards
+    { left: '62%', top: '15%' },   // Challenge Cards
+    { left: '88%', top: '25%' },   // Dice
+    { left: '12%', top: '70%' },   // Sand Timer
+    { left: '38%', top: '80%' },   // Challenge Kit
+    { left: '62%', top: '80%' },   // Player Tokens
+    { left: '88%', top: '70%' },   // Rulebook
+  ];
+
+  function unbox() {
+    if (opened) return;
+    opened = true;
+    box.classList.add('opened');
+    if (label) label.style.opacity = '0';
+
+    positions.forEach(function(pos, i) {
+      var el = document.getElementById('s2-ui-' + i);
+      if (!el) return;
+      setTimeout(function() {
+        el.style.left = pos.left;
+        el.style.top = pos.top;
+        el.classList.add('revealed');
+      }, 200 + i * 100);
+    });
+  }
+
+  box.addEventListener('click', unbox);
+
+  // Also auto-unbox when section scrolls into view
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function(entries, obs) {
+      if (entries[0].isIntersecting && !opened) {
+        setTimeout(unbox, 800);
+        obs.unobserve(entries[0].target);
+      }
+    }, { threshold: 0.5 }).observe(document.getElementById('s2'));
+  }
+})();
+</script>
 
 <!-- ═══════════════════════════════════════════════ SECTION 2 ══ -->
 <style>
