@@ -920,19 +920,14 @@
 
   /* ── Pinterest masonry grid ───────────────────── */
   .s2-pin {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: auto;
-    gap: clamp(10px, 1.5vw, 20px);
+    columns: 3;
+    column-gap: 14px;
     max-width: 1100px;
     margin: 0 auto;
-    align-items: start;
-  }
-  .s2-pin-wide {
-    grid-column: span 2;
   }
   .s2-pin-item {
     break-inside: avoid;
+    margin-bottom: 14px;
     border-radius: 12px;
     overflow: hidden;
     background: rgba(255,255,255,0.015);
@@ -946,11 +941,6 @@
   }
   .s2-pin-item img {
     width: 100%; display: block;
-  }
-  .s2-pin-crop img {
-    aspect-ratio: 16 / 10;
-    object-fit: cover;
-    object-position: center;
   }
   .s2-pin-item svg {
     width: 100%; display: block;
@@ -969,21 +959,8 @@
     justify-content: center;
   }
 
-  @media (max-width: 900px) { .s2-pin { grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 480px) {
-    .s2-pin {
-      display: block;
-      columns: 2;
-      column-gap: 10px;
-    }
-    .s2-pin-item {
-      break-inside: avoid;
-      margin-bottom: 10px;
-    }
-    .s2-pin-wide {
-      column-span: all;
-    }
-  }
+  @media (max-width: 900px) { .s2-pin { columns: 2; } }
+  @media (max-width: 480px) { .s2-pin { columns: 2; column-gap: 10px; } .s2-pin-item { margin-bottom: 10px; } }
 </style>
 
 <section id="s2">
@@ -998,12 +975,12 @@
   <p class="s2-subtitle eg-fade-in s2-d2" style="margin-bottom:clamp(16px,2.5vh,32px);">What's Inside The Box</p>
 
   <div class="s2-pin">
-    <div class="s2-pin-item s2-pin-wide s2-pin-crop">
+    <div class="s2-pin-item">
       <img src="Egocentric with lid coming off.png" alt="The Box">
       <div class="s2-pin-lbl">Box</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-wide">
+    <div class="s2-pin-item">
       <img src="Copy of Core.png" alt="Board">
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
@@ -1018,27 +995,27 @@
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-wide">
+    <div class="s2-pin-item">
       <img src="Lightest_Items_Wins.png" alt="Challenge Card">
       <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-small">
+    <div class="s2-pin-item">
       <img src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back">
       <div class="s2-pin-lbl">Challenge Card Back</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-small">
+    <div class="s2-pin-item">
       <img src="Blue astronaut front.png" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-small">
+    <div class="s2-pin-item">
       <img src="Untitled_Artwork 7.png" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-small">
+    <div class="s2-pin-item">
       <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
         <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
         <circle cx="20" cy="20" r="4" fill="#9cbc14"/><circle cx="44" cy="20" r="4" fill="#9cbc14"/>
