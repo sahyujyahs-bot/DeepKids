@@ -965,7 +965,11 @@
   }
 
   @media (max-width: 900px) { .s2-pin { grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 480px) { .s2-pin { grid-template-columns: 1fr; } .s2-pin-wide { grid-column: span 1; } }
+  @media (max-width: 480px) {
+    .s2-pin { grid-template-columns: repeat(2, 1fr); }
+    .s2-pin-item { grid-column: span 2; }
+    .s2-pin-small { grid-column: span 1; }
+  }
 </style>
 
 <section id="s2">
@@ -1005,22 +1009,22 @@
       <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-small">
       <img src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back">
       <div class="s2-pin-lbl">Challenge Card Back</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-small">
       <img src="Blue astronaut front.png" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-small">
       <img src="Untitled_Artwork 7.png" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-small">
       <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
         <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
         <circle cx="20" cy="20" r="4" fill="#9cbc14"/><circle cx="44" cy="20" r="4" fill="#9cbc14"/>
