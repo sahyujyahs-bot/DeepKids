@@ -2099,14 +2099,12 @@
 
   /* ── Drop astronaut to tile 7 (exposed for force card flow) ── */
   window.dropToTile7 = function() {
-    var p7 = tilePos(TILE7_NX, TILE7_NY);
-    var stepDown = Math.max(18, cv.height * 0.042);
-    var stepRight = Math.max(18, cv.width * 0.032);
-    var blueExtraDown = Math.max(12, cv.height * 0.055);
-    tokBlue.style.transition = 'left 2s cubic-bezier(.4,0,.2,1), top 2s cubic-bezier(.4,0,.2,1)';
-    tokBlue.style.left = (p7.x + stepRight) + 'px';
-    tokBlue.style.top = (p7.y + stepDown + blueExtraDown) + 'px';
-    setTimeout(function() { tokBlue.style.transition = ''; }, 2200);
+    // Move astronaut just a few steps down from current position
+    var currentTop = parseFloat(tokBlue.style.top) || 0;
+    var dropDist = Math.max(40, cv.height * 0.08);
+    tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1)';
+    tokBlue.style.top = (currentTop + dropDist) + 'px';
+    setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
   /* ── Position inline force card near token (exposed) ── */
@@ -2412,7 +2410,7 @@
     bubbleFcLink.addEventListener('click', function(e) {
       e.stopPropagation();
       if (forceEarned) {
-        showForceCard();
+        showForceCardInline();
       } else {
         var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
         if (pcTab) pcTab.click();
@@ -2421,35 +2419,20 @@
   }
 
   /* ── Show force card inline on the board, then drop token ── */
-  function showForceCard() {
+  function showForceCardInline() {
     forceLink.classList.remove('pulse');
 
-    // If not on boardgame tab, switch first then jump to tile 11 scene
-    if (window.s2ActiveTab !== 'boardgame') {
-      var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
-      if (bgTab) bgTab.click();
-      setTimeout(function() {
-        if (window.jumpToState4) window.jumpToState4();
-        setTimeout(showForceCard, 3000);
-      }, 300);
-      return;
-    }
-
-    // Set the force card image from the overlay
     var fcImg = document.getElementById('s2-inline-fc-img');
     var overlaySrc = forceOverlay.querySelector('.s2-force-card-face img');
     if (fcImg && overlaySrc) fcImg.src = overlaySrc.src;
 
-    // Hide the comic bubble
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) bubble.classList.remove('show');
 
-    // Position and show inline card
     if (window.positionInlineFc) window.positionInlineFc();
     var inlineFc = document.getElementById('s2-inline-fc');
     inlineFc.classList.add('show');
 
-    // After 3s: hide card, then drop astronaut to tile 7
     setTimeout(function() {
       inlineFc.classList.remove('show');
       setTimeout(function() {
@@ -2458,10 +2441,43 @@
     }, 3000);
   }
 
-  // Force link click: if earned → show inline card + drop, if not → go to PC tab
+  /* ── Show force card flippable overlay (for PC tab) ── */
+  function showForceCardFlip() {
+    forceLink.classList.remove('pulse');
+    var title = document.getElementById('s2-force-popup-title');
+    if (title) title.textContent = 'Your Force Card';
+    forceOverlay.classList.add('show');
+    forceCardWrap.classList.remove('flipped');
+  }
+
+  function hideForceCard() {
+    forceOverlay.classList.remove('show');
+  }
+
+  // Flip on click
+  forceCardWrap.addEventListener('click', function() {
+    forceCardWrap.classList.toggle('flipped');
+  });
+
+  // Close button
+  forceClose.addEventListener('click', function(e) {
+    e.stopPropagation();
+    hideForceCard();
+  });
+
+  // Click overlay background to close
+  forceOverlay.addEventListener('click', function(e) {
+    if (e.target === forceOverlay) hideForceCard();
+  });
+
+  // Force link click: boardgame → inline + drop, PC → flippable, else → navigate
   forceLink.addEventListener('click', function() {
     if (forceEarned) {
-      showForceCard();
+      if (window.s2ActiveTab === 'boardgame') {
+        showForceCardInline();
+      } else {
+        showForceCardFlip();
+      }
     } else if (window.s2ActiveTab !== 'physical') {
       var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
       if (pcTab) pcTab.click();
