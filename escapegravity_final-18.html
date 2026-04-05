@@ -892,18 +892,13 @@
 <!-- ======================================= S2: THE GAME ======= -->
 <style>
   #s2 {
-    position: relative;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    padding: clamp(70px, 9vh, 110px) clamp(16px, 4vw, 60px) clamp(40px, 5vh, 60px);
     text-align: center;
-    overflow: hidden;
     box-sizing: border-box;
-  }
-  .s2-mission {
-    position: relative; z-index: 20;
-    padding: clamp(70px, 9vh, 110px) clamp(16px, 4vw, 60px) 0;
-    flex-shrink: 0;
   }
   .s2-mission-title {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
@@ -916,7 +911,7 @@
     color: #9cbc14; letter-spacing: 2px; margin: 0 0 clamp(12px, 2vh, 24px);
   }
   .s2-mission-lines {
-    max-width: 660px; margin: 0 auto;
+    max-width: 660px; margin: 0 auto clamp(24px, 3vh, 40px);
     display: flex; flex-direction: column; gap: clamp(4px, 0.8vh, 8px);
   }
   .s2-mission-line {
@@ -928,241 +923,132 @@
   .s2-delay-2 { transition-delay: 0.2s; }
   .s2-delay-3 { transition-delay: 0.3s; }
   .s2-delay-4 { transition-delay: 0.4s; }
+  .s2-delay-5 { transition-delay: 0.5s; }
+  .s2-delay-6 { transition-delay: 0.6s; }
+  .s2-delay-7 { transition-delay: 0.7s; }
+  .s2-delay-8 { transition-delay: 0.8s; }
+  .s2-delay-9 { transition-delay: 0.9s; }
 
-  /* ── Orbit area ───────────────────────────────── */
-  .s2-orbit-wrap {
-    flex: 1; display: flex; align-items: center; justify-content: center;
-    min-height: 0; position: relative;
+  /* ── Collage ──────────────────────────────────── */
+  .s2-collage {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto auto;
+    gap: clamp(10px, 1.5vw, 20px);
+    max-width: 900px;
     width: 100%;
   }
-  .s2-orbit {
-    position: relative;
-    width: min(90vw, 900px);
-    height: min(50vh, 500px);
+  .s2-collage-hero {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    margin-bottom: clamp(4px, 1vh, 12px);
   }
-
-  /* ── Box at center ────────────────────────────── */
-  .s2-box {
-    position: absolute; left: 50%; top: 50%;
-    transform: translate(-50%, -50%);
-    width: clamp(150px, 22vw, 280px);
-    cursor: pointer; z-index: 10;
-    transition: transform 0.4s ease;
-  }
-  .s2-box:hover { transform: translate(-50%, -50%) scale(1.06); }
-  .s2-box-img { width: 100%; height: auto; display: block; transition: opacity 0.5s; }
-  .s2-box-img.hidden { opacity: 0; position: absolute; top: 0; left: 0; }
-  .s2-box.opened .s2-box-closed { opacity: 0; }
-  .s2-box.opened .s2-box-open { opacity: 1; position: relative; }
-  .s2-box-label {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(10px, 1vw, 14px);
-    color: rgba(255,255,255,0.35); letter-spacing: 2px; text-transform: uppercase;
-    text-align: center; margin-top: 6px; transition: opacity 0.3s;
-  }
-
-  /* ── Orbit rings (elliptical) ─────────────────── */
-  .s2-orbit-ring {
-    position: absolute;
-    left: 50%; top: 50%;
-    border: 1px solid rgba(156,188,20,0.07);
-    border-radius: 50%;
-    transform: translate(-50%, -50%);
-    opacity: 0;
-    transition: opacity 0.6s ease;
-  }
-  .s2-orbit-ring.show { opacity: 1; }
-
-  /* ── Orbiting items ───────────────────────────── */
-  .s2-orb {
-    position: absolute;
-    display: flex; flex-direction: column; align-items: center;
-    opacity: 0; transform: scale(0);
-    transition: opacity 0.5s ease, transform 0.6s cubic-bezier(.34,1.56,.64,1);
-    z-index: 5;
-  }
-  .s2-orb.show { opacity: 1; transform: scale(1); }
-  .s2-orb-icon {
-    width: clamp(50px, 8vw, 90px); height: clamp(50px, 8vw, 90px);
-    border-radius: 50%; object-fit: contain;
-    filter: drop-shadow(0 3px 10px rgba(0,0,0,0.6));
+  .s2-collage-hero img {
+    width: clamp(200px, 30vw, 360px);
+    height: auto;
+    filter: drop-shadow(0 8px 24px rgba(0,0,0,0.5));
     transition: transform 0.3s;
   }
-  .s2-orb:hover .s2-orb-icon { transform: scale(1.15); }
-  .s2-orb-svg {
-    width: clamp(50px, 8vw, 90px); height: clamp(50px, 8vw, 90px);
-    filter: drop-shadow(0 3px 10px rgba(0,0,0,0.6));
+  .s2-collage-hero img:hover { transform: scale(1.03); }
+
+  .s2-collage-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+  .s2-collage-img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: contain;
+    border-radius: 12px;
+    filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
     transition: transform 0.3s;
   }
-  .s2-orb:hover .s2-orb-svg { transform: scale(1.15); }
-  .s2-orb-lbl {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(9px, 1.1vw, 14px);
-    color: rgba(255,255,255,0.5); margin-top: 6px;
-    letter-spacing: 1px; text-transform: uppercase; white-space: nowrap;
+  .s2-collage-item:hover .s2-collage-img { transform: scale(1.08); }
+  .s2-collage-svg {
+    width: 60%;
+    aspect-ratio: 1;
+    filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
+    transition: transform 0.3s;
+  }
+  .s2-collage-item:hover .s2-collage-svg { transform: scale(1.08); }
+  .s2-collage-lbl {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(10px, 1.2vw, 15px);
+    color: rgba(255,255,255,0.5);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    white-space: nowrap;
   }
 
   @media (max-width: 600px) {
-    .s2-orbit { width: 90vw; height: 60vh; }
-    .s2-box { width: clamp(110px, 30vw, 160px); }
-    .s2-orb-icon, .s2-orb-svg { width: 44px; height: 44px; }
-    .s2-orb-lbl { font-size: 8px; }
+    .s2-collage { grid-template-columns: repeat(3, 1fr); gap: 10px; }
+    .s2-collage-hero img { width: 60vw; }
+  }
+  @media (max-width: 400px) {
+    .s2-collage { grid-template-columns: repeat(2, 1fr); }
   }
 </style>
 
 <section id="s2">
-  <div class="s2-mission">
-    <h2 class="s2-mission-title eg-fade-in">The Mission</h2>
-    <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
-    <div class="s2-mission-lines">
-      <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth\u2019s surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
-      <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity\u2019s agent</em> \u2014 pulling you down toward the core.</div>
-      <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> \u2014 earned by completing <em>Physical Challenges</em>.</div>
-      <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
-    </div>
+  <h2 class="s2-mission-title eg-fade-in">The Mission</h2>
+  <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
+  <div class="s2-mission-lines">
+    <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth\u2019s surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
+    <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity\u2019s agent</em> \u2014 pulling you down toward the core.</div>
+    <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> \u2014 earned by completing <em>Physical Challenges</em>.</div>
+    <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
   </div>
 
-  <div class="s2-orbit-wrap">
-    <div class="s2-orbit" id="s2-orbit">
-      <!-- Orbit rings — one per item, sized by JS -->
-      <div class="s2-orbit-ring" id="s2-ring-0"></div>
-      <div class="s2-orbit-ring" id="s2-ring-1"></div>
-      <div class="s2-orbit-ring" id="s2-ring-2"></div>
-      <div class="s2-orbit-ring" id="s2-ring-3"></div>
-      <div class="s2-orbit-ring" id="s2-ring-4"></div>
-      <div class="s2-orbit-ring" id="s2-ring-5"></div>
-      <div class="s2-orbit-ring" id="s2-ring-6"></div>
+  <div class="s2-collage">
+    <div class="s2-collage-hero eg-fade-in s2-delay-4">
+      <img src="Egocentric with lid coming off.png" alt="EscapeGravity Box">
+    </div>
 
-      <!-- Box at center -->
-      <div class="s2-box" id="s2-box" title="Click to unbox!">
-        <img class="s2-box-img s2-box-closed" src="EG closed box.png" alt="EscapeGravity box">
-        <img class="s2-box-img s2-box-open hidden" src="Egocentric with lid coming off.png" alt="Box opening">
-        <div class="s2-box-label">Tap to unbox</div>
-      </div>
-
-      <!-- 7 orbiting items — positioned by JS in a circle -->
-      <div class="s2-orb" id="s2-orb-0">
-        <img class="s2-orb-icon" src="Copy of Core.png" alt="Board">
-        <span class="s2-orb-lbl">Board</span>
-      </div>
-      <div class="s2-orb" id="s2-orb-1">
-        <img class="s2-orb-icon" src="IMG_5098.jpeg" alt="Force Cards">
-        <span class="s2-orb-lbl">Force Cards</span>
-      </div>
-      <div class="s2-orb" id="s2-orb-2">
-        <img class="s2-orb-icon" src="Lightest_Items_Wins.png" alt="Challenge Cards">
-        <span class="s2-orb-lbl">Challenge Cards</span>
-      </div>
-      <div class="s2-orb" id="s2-orb-3">
-        <img class="s2-orb-icon" src="Blue astronaut front.png" alt="Player Tokens" style="border-radius:50%;">
-        <span class="s2-orb-lbl">Player Tokens</span>
-      </div>
-      <div class="s2-orb" id="s2-orb-4">
-        <svg class="s2-orb-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <rect x="6" y="6" width="52" height="52" rx="10" fill="#1a2508" stroke="#9cbc14" stroke-width="2.5"/>
-          <circle cx="22" cy="22" r="4" fill="#9cbc14"/><circle cx="42" cy="22" r="4" fill="#9cbc14"/>
-          <circle cx="32" cy="32" r="4" fill="#9cbc14"/>
-          <circle cx="22" cy="42" r="4" fill="#9cbc14"/><circle cx="42" cy="42" r="4" fill="#9cbc14"/>
-        </svg>
-        <span class="s2-orb-lbl">Dice</span>
-      </div>
-      <div class="s2-orb" id="s2-orb-5">
-        <img class="s2-orb-icon" src="Untitled_Artwork 7.png" alt="Rocket Token" style="border-radius:50%;">
-        <span class="s2-orb-lbl">Rocket Token</span>
-      </div>
-      <div class="s2-orb" id="s2-orb-6">
-        <svg class="s2-orb-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="32" cy="32" r="28" fill="#1a2508" stroke="#9cbc14" stroke-width="2.5"/>
-          <path d="M22 42 L28 22 M36 22 L42 42" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/>
-          <circle cx="32" cy="28" r="5" fill="#9cbc14" opacity="0.4"/>
-          <path d="M20 44h24" stroke="#9cbc14" stroke-width="1.5" opacity="0.5"/>
-          <circle cx="25" cy="36" r="2" fill="#9cbc14" opacity="0.6"/>
-          <circle cx="39" cy="36" r="2" fill="#9cbc14" opacity="0.6"/>
-        </svg>
-        <span class="s2-orb-lbl">Kit Items</span>
-      </div>
+    <div class="s2-collage-item eg-fade-in s2-delay-5">
+      <img class="s2-collage-img" src="Copy of Core.png" alt="Board">
+      <span class="s2-collage-lbl">Board</span>
+    </div>
+    <div class="s2-collage-item eg-fade-in s2-delay-5">
+      <img class="s2-collage-img" src="IMG_5098.jpeg" alt="Force Cards">
+      <span class="s2-collage-lbl">Force Cards</span>
+    </div>
+    <div class="s2-collage-item eg-fade-in s2-delay-6">
+      <img class="s2-collage-img" src="Lightest_Items_Wins.png" alt="Challenge Cards">
+      <span class="s2-collage-lbl">Challenge Cards</span>
+    </div>
+    <div class="s2-collage-item eg-fade-in s2-delay-6">
+      <img class="s2-collage-img" src="Blue astronaut front.png" alt="Player Tokens" style="border-radius:50%;">
+      <span class="s2-collage-lbl">Player Tokens</span>
+    </div>
+    <div class="s2-collage-item eg-fade-in s2-delay-7">
+      <img class="s2-collage-img" src="Untitled_Artwork 7.png" alt="Rocket Token" style="border-radius:50%;">
+      <span class="s2-collage-lbl">Rocket Token</span>
+    </div>
+    <div class="s2-collage-item eg-fade-in s2-delay-7">
+      <svg class="s2-collage-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="6" y="6" width="52" height="52" rx="10" fill="#1a2508" stroke="#9cbc14" stroke-width="2.5"/>
+        <circle cx="22" cy="22" r="4" fill="#9cbc14"/><circle cx="42" cy="22" r="4" fill="#9cbc14"/>
+        <circle cx="32" cy="32" r="4" fill="#9cbc14"/>
+        <circle cx="22" cy="42" r="4" fill="#9cbc14"/><circle cx="42" cy="42" r="4" fill="#9cbc14"/>
+      </svg>
+      <span class="s2-collage-lbl">Dice</span>
+    </div>
+    <div class="s2-collage-item eg-fade-in s2-delay-8">
+      <svg class="s2-collage-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="32" cy="32" r="28" fill="#1a2508" stroke="#9cbc14" stroke-width="2.5"/>
+        <path d="M22 42 L28 22 M36 22 L42 42" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/>
+        <circle cx="32" cy="28" r="5" fill="#9cbc14" opacity="0.4"/>
+        <path d="M20 44h24" stroke="#9cbc14" stroke-width="1.5" opacity="0.5"/>
+        <circle cx="25" cy="36" r="2" fill="#9cbc14" opacity="0.6"/>
+        <circle cx="39" cy="36" r="2" fill="#9cbc14" opacity="0.6"/>
+      </svg>
+      <span class="s2-collage-lbl">Kit Items</span>
     </div>
   </div>
 </section>
-
-<script>
-(function(){
-  'use strict';
-  var box = document.getElementById('s2-box');
-  var orbit = document.getElementById('s2-orbit');
-  if (!box || !orbit) return;
-
-  var opened = false;
-  var count = 7;
-
-  function unbox() {
-    if (opened) return;
-    opened = true;
-    box.classList.add('opened');
-
-    var w = orbit.offsetWidth;
-    var h = orbit.offsetHeight;
-    var isWide = w > h;
-
-    // 7 orbit radii — percentages of half-width (rx) and half-height (ry)
-    // Start far enough from center to clear the box
-    var rSteps = [28, 33, 38, 43, 48, 53, 58]; // % radii for the wider axis
-
-    // 7 angles evenly distributed, starting from top
-    var angles = [];
-    for (var a = 0; a < count; a++) {
-      angles.push(-Math.PI / 2 + (a * 2 * Math.PI / count));
-    }
-
-    for (var i = 0; i < count; i++) {
-      (function(idx) {
-        var el = document.getElementById('s2-orb-' + idx);
-        var ring = document.getElementById('s2-ring-' + idx);
-        if (!el) return;
-
-        var r = rSteps[idx];
-        var angle = angles[idx];
-        var rx, ry;
-
-        if (isWide) {
-          // Desktop: horizontal ellipse — wider than tall
-          rx = r;
-          ry = r * (h / w) * 0.9;
-        } else {
-          // Mobile: vertical ellipse — taller than wide
-          rx = r * (w / h) * 0.9;
-          ry = r;
-        }
-
-        var x = 50 + rx * Math.cos(angle);
-        var y = 50 + ry * Math.sin(angle);
-
-        // Size the elliptical ring
-        if (ring) {
-          ring.style.width = (rx * 2) + '%';
-          ring.style.height = (ry * 2) + '%';
-        }
-
-        setTimeout(function() {
-          if (ring) ring.classList.add('show');
-          el.style.left = x + '%';
-          el.style.top = y + '%';
-          el.classList.add('show');
-        }, 300 + idx * 150);
-      })(i);
-    }
-  }
-
-  box.addEventListener('click', unbox);
-
-  if ('IntersectionObserver' in window) {
-    new IntersectionObserver(function(entries, obs) {
-      if (entries[0].isIntersecting && !opened) {
-        setTimeout(unbox, 800);
-        obs.unobserve(entries[0].target);
-      }
-    }, { threshold: 0.5 }).observe(document.getElementById('s2'));
-  }
-})();
-</script>
 
 <!-- ═══════════════════════════════════════════════ SECTION 2 ══ -->
 <style>
