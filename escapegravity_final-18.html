@@ -2101,7 +2101,7 @@
   window.dropToTile7 = function() {
     // Move astronaut just a few steps down from current position
     var currentTop = parseFloat(tokBlue.style.top) || 0;
-    var dropDist = Math.max(40, cv.height * 0.08);
+    var dropDist = Math.max(60, cv.height * 0.15);
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.top = (currentTop + dropDist) + 'px';
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
