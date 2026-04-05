@@ -187,7 +187,7 @@
       margin-left: clamp(10px, 4vw, 42px);
     }
     .btn-wrap:hover  { filter: brightness(1.14); transform: translateX(5px) scale(1.05); animation: none; }
-    .btn-wrap:active { transform: translateX(2px) translateY(3px) scale(.97);             animation: none; }
+    .btn-wrap:active { transform: translateX(2px) scale(.97);                            animation: none; }
     @keyframes btn-bob {
       0%, 100% { transform: scale(1)    translateY(0);    }
       50%       { transform: scale(1.03) translateY(-4px); }
@@ -384,44 +384,26 @@
       <h1 class="title">EscapeGravity</h1>
       <p class="subtitle">Boardgame &nbsp;&middot;&nbsp; Physical Challenges &nbsp;&middot;&nbsp; Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
-      <svg class="btn-svg" viewBox="0 0 360 114" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <filter id="btn-shadow" x="-10%" y="-10%" width="130%" height="140%">
-            <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="rgba(0,0,0,0.5)"/>
-          </filter>
-        </defs>
-
-        <!-- 0. Bottom face (3D thickness) — darker green shifted down -->
-        <path d="M 9,33 A 18,18 0 0,1 27,15 L 226,15 A 43,43 0 1,1 226,101 L 27,101 A 18,18 0 0,1 9,83 Z"
-              fill="#5a7a0c" filter="url(#btn-shadow)"/>
-        <line x1="268" y1="58" x2="331" y2="18"
-              stroke="#5a7a0c" stroke-width="13" stroke-linecap="round"/>
-        <line x1="268" y1="58" x2="331" y2="98"
-              stroke="#5a7a0c" stroke-width="13" stroke-linecap="round"/>
-
+      <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
         <!-- 1. K dark borders first — they go behind the D fill -->
-        <line x1="268" y1="50" x2="334" y2="8"
+        <line x1="268" y1="54" x2="334" y2="12"
               stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-        <line x1="268" y1="50" x2="334" y2="92"
+        <line x1="268" y1="54" x2="334" y2="96"
               stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
 
         <!-- 2. D border stroke — drawn over K dark borders -->
-        <path d="M 5,25 A 22,22 0 0,1 27,3 L 226,3 A 47,47 0 1,1 226,97 L 27,97 A 22,22 0 0,1 5,75 Z"
+        <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z"
               fill="none" stroke="#6b2155" stroke-width="9"/>
 
-        <!-- 3. D green fill (top face) -->
-        <path d="M 9,25 A 18,18 0 0,1 27,7 L 226,7 A 43,43 0 1,1 226,93 L 27,93 A 18,18 0 0,1 9,75 Z"
+        <!-- 3. D green fill -->
+        <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z"
               fill="#7aa010"/>
 
         <!-- 4. K green fills on top -->
-        <line x1="268" y1="50" x2="331" y2="10"
+        <line x1="268" y1="54" x2="331" y2="14"
               stroke="#7aa010" stroke-width="13" stroke-linecap="round"/>
-        <line x1="268" y1="50" x2="331" y2="90"
+        <line x1="268" y1="54" x2="331" y2="94"
               stroke="#7aa010" stroke-width="13" stroke-linecap="round"/>
-
-        <!-- 5. Top highlight for light catch -->
-        <path d="M 30,10 L 200,10 A 40,40 0 0,1 220,18 L 30,18 Z"
-              fill="rgba(255,255,255,0.13)" rx="6"/>
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
