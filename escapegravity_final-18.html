@@ -947,48 +947,22 @@
   /* The box */
   .s2-box {
     position: relative;
-    width: clamp(120px, 18vw, 180px);
-    height: clamp(100px, 14vw, 150px);
+    width: clamp(180px, 28vw, 320px);
     margin: 0 auto;
     cursor: pointer;
     z-index: 10;
     transition: transform 0.4s ease;
   }
   .s2-box:hover { transform: scale(1.05); }
-  .s2-box-body {
-    width: 100%; height: 100%;
-    background: linear-gradient(135deg, #2a3a12 0%, #1a2508 100%);
-    border: 2px solid #9cbc14;
-    border-radius: 8px 8px 6px 6px;
-    position: relative;
-    box-shadow: 0 8px 30px rgba(0,0,0,0.5), inset 0 -10px 20px rgba(0,0,0,0.3);
+  .s2-box-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: opacity 0.5s ease;
   }
-  .s2-box-body::after {
-    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 40%;
-    background: linear-gradient(180deg, rgba(156,188,20,0.08), transparent);
-    border-radius: 8px 8px 0 0;
-  }
-  .s2-box-ribbon {
-    position: absolute; top: 0; left: 50%; width: 20%; height: 100%;
-    transform: translateX(-50%);
-    background: rgba(156,188,20,0.15);
-    border-left: 1px solid rgba(156,188,20,0.25);
-    border-right: 1px solid rgba(156,188,20,0.25);
-  }
-  .s2-box-lid {
-    position: absolute;
-    top: -12px; left: -6px; right: -6px; height: 28px;
-    background: linear-gradient(135deg, #3a4a18 0%, #2a3a10 100%);
-    border: 2px solid #9cbc14;
-    border-radius: 6px 6px 0 0;
-    transform-origin: bottom center;
-    transition: transform 0.6s cubic-bezier(.34,1.56,.64,1);
-    z-index: 2;
-    box-shadow: 0 -3px 12px rgba(0,0,0,0.3);
-  }
-  .s2-box.opened .s2-box-lid {
-    transform: rotateX(-120deg) translateY(-10px);
-  }
+  .s2-box-img.hidden { opacity: 0; position: absolute; top: 0; left: 0; }
+  .s2-box.opened .s2-box-closed { opacity: 0; }
+  .s2-box.opened .s2-box-open { opacity: 1; position: relative; }
   .s2-box-label {
     font-family: 'Pompiere', sans-serif;
     font-size: clamp(12px, 1.2vw, 16px);
@@ -1050,8 +1024,7 @@
   @media (max-width: 600px) {
     .s2-unbox-item-icon { width: 48px; height: 48px; border-radius: 10px; }
     .s2-unbox-item-label { font-size: 9px; }
-    .s2-box { width: 100px; height: 84px; }
-    .s2-box-lid { height: 22px; top: -10px; left: -4px; right: -4px; }
+    .s2-box { width: 160px; }
   }
 </style>
 
@@ -1068,10 +1041,8 @@
 
   <div class="s2-unbox-wrap eg-fade-in s2-delay-4">
     <div class="s2-box" id="s2-box" title="Click to unbox!">
-      <div class="s2-box-lid"></div>
-      <div class="s2-box-body">
-        <div class="s2-box-ribbon"></div>
-      </div>
+      <img class="s2-box-img s2-box-closed" src="EG closed box.png" alt="EscapeGravity box closed">
+      <img class="s2-box-img s2-box-open hidden" src="Egocentric with lid coming off.png" alt="EscapeGravity box opening">
     </div>
     <div class="s2-box-label" id="s2-box-label">Tap to unbox</div>
 
