@@ -1150,6 +1150,19 @@
     font-weight: 900;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
   }
+  .s2-bubble-link {
+    display: inline-block;
+    margin-top: 6px;
+    color: #fff;
+    font-size: 0.85em;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    cursor: pointer;
+    opacity: 0.9;
+    transition: opacity 0.2s;
+    pointer-events: auto;
+  }
+  .s2-bubble-link:hover { opacity: 1; }
 </style>
 
 <section id="s2">
@@ -1222,7 +1235,8 @@
           If you have an<br>
           <span class="s2-bubble-highlight"><span class="s2-bubble-earth"></span> Earth Force Card</span><br>
           you can play it…<br>
-          or you <span class="s2-bubble-highlight">fall down!</span>
+          or you <span class="s2-bubble-highlight">fall down!</span><br>
+          <a class="s2-bubble-link" id="s2-bubble-fc-link">Earn a Force Card</a>
         </div>
       </div>
     </div>
@@ -2019,11 +2033,12 @@
       var tokX = tokRect.left - brRect.left + tokRect.width;
       var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
       var bubbleW = bbl.offsetWidth || 250;
-      var mobileOff2 = window.innerWidth < 768 ? -10 : 120;
+      var mobileOff2 = window.innerWidth < 768 ? -25 : 105;
       var bx = Math.min(tokX - 30, brRect.width - bubbleW - 8);
       var by = Math.max(5, tokY + mobileOff2);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
+      if (window.updateBubbleLink) window.updateBubbleLink();
       bbl.classList.add('show');
     }, 2200));
   }
@@ -2088,7 +2103,7 @@
           var bubbleW = bubble.offsetWidth || 250;
           var bubbleH = bubble.offsetHeight || 120;
           // Few steps right, 1 step down from astronaut
-          var mobileOff = window.innerWidth < 768 ? -10 : 120;
+          var mobileOff = window.innerWidth < 768 ? -25 : 105;
           var bx = tokX - 30;
           var by = tokY + mobileOff;
           // Clamp to stay in view
@@ -2096,6 +2111,7 @@
           by = Math.max(5, by);
           bubble.style.left = bx + 'px';
           bubble.style.top = by + 'px';
+          if (window.updateBubbleLink) window.updateBubbleLink();
           bubble.classList.add('show');
         }, 2500));
       }, 5000));
@@ -2297,12 +2313,34 @@
 
   // Expose for tab switching to call
   window.updateForceLinkState = updateForceLinkState;
+  window.updateBubbleLink = updateBubbleLink;
 
   function markForceEarned() {
     forceEarned = true;
     forceLink.textContent = 'Your Force Cards';
     forceLink.classList.remove('disabled');
     forceLink.classList.add('earned', 'pulse');
+    updateBubbleLink();
+  }
+
+  function updateBubbleLink() {
+    var bl = document.getElementById('s2-bubble-fc-link');
+    if (!bl) return;
+    bl.textContent = forceEarned ? 'Your Force Card' : 'Earn a Force Card';
+  }
+
+  // Bubble link click handler
+  var bubbleFcLink = document.getElementById('s2-bubble-fc-link');
+  if (bubbleFcLink) {
+    bubbleFcLink.addEventListener('click', function(e) {
+      e.stopPropagation();
+      if (forceEarned) {
+        showForceCard();
+      } else {
+        var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
+        if (pcTab) pcTab.click();
+      }
+    });
   }
 
   function showForceCard() {
