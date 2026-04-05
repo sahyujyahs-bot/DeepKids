@@ -2019,8 +2019,9 @@
       var tokX = tokRect.left - brRect.left + tokRect.width;
       var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
       var bubbleW = bbl.offsetWidth || 250;
+      var mobileOff2 = window.innerWidth < 768 ? 60 : 120;
       var bx = Math.min(tokX - 30, brRect.width - bubbleW - 8);
-      var by = Math.max(5, tokY + 120);
+      var by = Math.max(5, tokY + mobileOff2);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       bbl.classList.add('show');
@@ -2087,8 +2088,9 @@
           var bubbleW = bubble.offsetWidth || 250;
           var bubbleH = bubble.offsetHeight || 120;
           // Few steps right, 1 step down from astronaut
+          var mobileOff = window.innerWidth < 768 ? 60 : 120;
           var bx = tokX - 30;
-          var by = tokY + 120;
+          var by = tokY + mobileOff;
           // Clamp to stay in view
           bx = Math.max(8, Math.min(bx, brRect.width - bubbleW - 8));
           by = Math.max(5, by);
