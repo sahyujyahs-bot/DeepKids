@@ -1150,6 +1150,46 @@
     font-weight: 900;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
   }
+  /* ── Inline force card (small, over the board) ────────── */
+  .s2-inline-fc {
+    position: absolute;
+    z-index: 40;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.5);
+    transition: opacity 0.5s ease, transform 0.4s cubic-bezier(.34,1.56,.64,1);
+  }
+  .s2-inline-fc.show {
+    opacity: 1;
+    pointer-events: auto;
+    transform: scale(1);
+  }
+  .s2-inline-fc-text {
+    font-family: 'Norwester', sans-serif;
+    font-variant: small-caps;
+    font-size: clamp(12px, 1.8vw, 20px);
+    color: #ff4444;
+    text-shadow: 0 0 12px rgba(255,68,68,0.6), 2px 2px 0 rgba(0,0,0,0.8);
+    text-align: center;
+    white-space: nowrap;
+  }
+  .s2-inline-fc-card {
+    width: clamp(80px, 12vw, 150px);
+    border-radius: 8px;
+    overflow: hidden;
+    border: 2px solid #6b2155;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.6);
+  }
+  .s2-inline-fc-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
   .s2-bubble-link {
     display: inline-block;
     margin-top: 6px;
@@ -1237,6 +1277,14 @@
           you can play it…<br>
           or you <span class="s2-bubble-highlight">fall down!</span><br>
           <a class="s2-bubble-link" id="s2-bubble-fc-link">Earn a Force Card</a>
+        </div>
+      </div>
+
+      <!-- Inline force card display (small, over the board) -->
+      <div id="s2-inline-fc" class="s2-inline-fc">
+        <div class="s2-inline-fc-text" id="s2-inline-fc-text">Force Card No Match — So Drop!</div>
+        <div class="s2-inline-fc-card">
+          <img id="s2-inline-fc-img" src="" alt="Force Card">
         </div>
       </div>
     </div>
@@ -1597,6 +1645,8 @@
   const TILE11_NX        = 0.705;  // ring at ~95-110° CW = right top in rotated view
   const TILE11_NY        = 0.555;  // lower-right quadrant of original = right after -90° rot
   const TILE10_NY        = 0.3071;
+  const TILE7_NX         = 0.58;   // tile 7 — inner ring, below tile 11
+  const TILE7_NY         = 0.42;
   const FOCUS_NX         = 0.6472;   // midpoint T10↔T11 (base value)
   const FOCUS_NY         = 0.5092;
   let   curFocusNX       = FOCUS_NX;   // updated during tile-11 zoom
@@ -2045,6 +2095,33 @@
 
   /* ── Dice roll ──────────────────────────────────────────── */
   window.s2Roll = function() { if (state === 2 && !busy) doRoll(); };
+  window.jumpToState4 = jumpToState4;
+
+  /* ── Drop astronaut to tile 7 (exposed for force card flow) ── */
+  window.dropToTile7 = function() {
+    var p7 = tilePos(TILE7_NX, TILE7_NY);
+    var stepDown = Math.max(18, cv.height * 0.042);
+    var stepRight = Math.max(18, cv.width * 0.032);
+    var blueExtraDown = Math.max(12, cv.height * 0.055);
+    tokBlue.style.transition = 'left 2s cubic-bezier(.4,0,.2,1), top 2s cubic-bezier(.4,0,.2,1)';
+    tokBlue.style.left = (p7.x + stepRight) + 'px';
+    tokBlue.style.top = (p7.y + stepDown + blueExtraDown) + 'px';
+    setTimeout(function() { tokBlue.style.transition = ''; }, 2200);
+  };
+
+  /* ── Position inline force card near token (exposed) ── */
+  window.positionInlineFc = function() {
+    var inlineFc = document.getElementById('s2-inline-fc');
+    if (!inlineFc) return;
+    var tokRect = tokBlue.getBoundingClientRect();
+    var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
+    var fcX = tokRect.left - brRect.left + tokRect.width + 20;
+    var fcY = tokRect.top - brRect.top;
+    fcX = Math.min(fcX, brRect.width - 200);
+    fcY = Math.max(10, fcY);
+    inlineFc.style.left = fcX + 'px';
+    inlineFc.style.top = fcY + 'px';
+  };
 
   function doRoll() {
     state = 3; busy = true;
@@ -2343,43 +2420,52 @@
     });
   }
 
+  /* ── Show force card inline on the board, then drop token ── */
   function showForceCard() {
-    var title = document.getElementById('s2-force-popup-title');
-    if (title) title.textContent = 'Your Force Card';
-    forceOverlay.classList.add('show');
-    forceCardWrap.classList.remove('flipped');
     forceLink.classList.remove('pulse');
+
+    // If not on boardgame tab, switch first then jump to tile 11 scene
+    if (window.s2ActiveTab !== 'boardgame') {
+      var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
+      if (bgTab) bgTab.click();
+      setTimeout(function() {
+        if (window.jumpToState4) window.jumpToState4();
+        setTimeout(showForceCard, 3000);
+      }, 300);
+      return;
+    }
+
+    // Set the force card image from the overlay
+    var fcImg = document.getElementById('s2-inline-fc-img');
+    var overlaySrc = forceOverlay.querySelector('.s2-force-card-face img');
+    if (fcImg && overlaySrc) fcImg.src = overlaySrc.src;
+
+    // Hide the comic bubble
+    var bubble = document.getElementById('s2-comic-bubble');
+    if (bubble) bubble.classList.remove('show');
+
+    // Position and show inline card
+    if (window.positionInlineFc) window.positionInlineFc();
+    var inlineFc = document.getElementById('s2-inline-fc');
+    inlineFc.classList.add('show');
+
+    // After 3s: hide card, then drop astronaut to tile 7
+    setTimeout(function() {
+      inlineFc.classList.remove('show');
+      setTimeout(function() {
+        if (window.dropToTile7) window.dropToTile7();
+      }, 600);
+    }, 3000);
   }
 
-  function hideForceCard() {
-    forceOverlay.classList.remove('show');
-  }
-
-  // Flip on click
-  forceCardWrap.addEventListener('click', function() {
-    forceCardWrap.classList.toggle('flipped');
-  });
-
-  // Close button
-  forceClose.addEventListener('click', function(e) {
-    e.stopPropagation();
-    hideForceCard();
-  });
-
-  // Force link click: if earned → show card, if not → go to PC tab
+  // Force link click: if earned → show inline card + drop, if not → go to PC tab
   forceLink.addEventListener('click', function() {
     if (forceEarned) {
       showForceCard();
     } else if (window.s2ActiveTab !== 'physical') {
-      // Navigate to Physical Challenges tab
       var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
       if (pcTab) pcTab.click();
     }
-  });
-
-  // Click overlay background to close
-  forceOverlay.addEventListener('click', function(e) {
-    if (e.target === forceOverlay) hideForceCard();
   });
 
   function startDropAnimation() {
