@@ -933,18 +933,19 @@
   .s2-orbit-wrap {
     flex: 1; display: flex; align-items: center; justify-content: center;
     min-height: 0; position: relative;
+    width: 100%;
   }
   .s2-orbit {
     position: relative;
-    width: clamp(280px, 50vh, 480px);
-    height: clamp(280px, 50vh, 480px);
+    width: min(90vw, 900px);
+    height: min(50vh, 500px);
   }
 
   /* ── Box at center ────────────────────────────── */
   .s2-box {
     position: absolute; left: 50%; top: 50%;
     transform: translate(-50%, -50%);
-    width: clamp(100px, 16vh, 180px);
+    width: clamp(150px, 22vw, 280px);
     cursor: pointer; z-index: 10;
     transition: transform 0.4s ease;
   }
@@ -959,11 +960,11 @@
     text-align: center; margin-top: 6px; transition: opacity 0.3s;
   }
 
-  /* ── Orbit rings (one per item) ─────────────────── */
+  /* ── Orbit rings (elliptical) ─────────────────── */
   .s2-orbit-ring {
     position: absolute;
     left: 50%; top: 50%;
-    border: 1px solid rgba(156,188,20,0.06);
+    border: 1px solid rgba(156,188,20,0.07);
     border-radius: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -981,29 +982,29 @@
   }
   .s2-orb.show { opacity: 1; transform: scale(1); }
   .s2-orb-icon {
-    width: clamp(40px, 7vh, 70px); height: clamp(40px, 7vh, 70px);
+    width: clamp(50px, 8vw, 90px); height: clamp(50px, 8vw, 90px);
     border-radius: 50%; object-fit: contain;
-    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.6));
+    filter: drop-shadow(0 3px 10px rgba(0,0,0,0.6));
     transition: transform 0.3s;
   }
   .s2-orb:hover .s2-orb-icon { transform: scale(1.15); }
   .s2-orb-svg {
-    width: clamp(40px, 7vh, 70px); height: clamp(40px, 7vh, 70px);
-    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.6));
+    width: clamp(50px, 8vw, 90px); height: clamp(50px, 8vw, 90px);
+    filter: drop-shadow(0 3px 10px rgba(0,0,0,0.6));
     transition: transform 0.3s;
   }
   .s2-orb:hover .s2-orb-svg { transform: scale(1.15); }
   .s2-orb-lbl {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(8px, 1vw, 12px);
-    color: rgba(255,255,255,0.5); margin-top: 4px;
+    font-family: 'Pompiere', sans-serif; font-size: clamp(9px, 1.1vw, 14px);
+    color: rgba(255,255,255,0.5); margin-top: 6px;
     letter-spacing: 1px; text-transform: uppercase; white-space: nowrap;
   }
 
   @media (max-width: 600px) {
-    .s2-orbit { width: 78vw; height: 78vw; }
-    .s2-box { width: 80px; }
-    .s2-orb-icon, .s2-orb-svg { width: 36px; height: 36px; }
-    .s2-orb-lbl { font-size: 7px; }
+    .s2-orbit { width: 90vw; height: 60vh; }
+    .s2-box { width: clamp(110px, 30vw, 160px); }
+    .s2-orb-icon, .s2-orb-svg { width: 44px; height: 44px; }
+    .s2-orb-lbl { font-size: 8px; }
   }
 </style>
 
@@ -1091,31 +1092,42 @@
 
   var opened = false;
   var count = 7;
-  // Each item gets its own orbit radius (% from center) and angle offset
-  var radii = [22, 28, 34, 40, 46, 52, 58]; // staggered distances
-  // Spread angles so items don't cluster — offset each by a golden-angle-like spread
-  var angleOffsets = [0, 2.4, 4.8, 1.2, 3.6, 0.6, 5.4]; // radians, spread nicely
+  // Each item on its own orbit — radii as fraction of container half-size
+  var orbitFracs = [0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 0.95];
+  // Spread evenly + golden angle offset so items don't line up
+  var angleOffsets = [-1.57, 0.83, 3.23, -0.37, 2.03, 4.43, 1.13];
+
+  function getEllipse() {
+    // On wide screens: horizontal ellipse. On tall/narrow: vertical ellipse.
+    var w = orbit.offsetWidth;
+    var h = orbit.offsetHeight;
+    // rx and ry as % of container — stretch along the longer axis
+    return { rx: 50, ry: 50 * (h / w) }; // normalised so rx is always 50%
+  }
 
   function unbox() {
     if (opened) return;
     opened = true;
     box.classList.add('opened');
 
+    var e = getEllipse();
+
     for (var i = 0; i < count; i++) {
       (function(idx) {
         var el = document.getElementById('s2-orb-' + idx);
         var ring = document.getElementById('s2-ring-' + idx);
         if (!el) return;
-        var r = radii[idx];
+        var frac = orbitFracs[idx];
         var angle = angleOffsets[idx];
-        var x = 50 + r * Math.cos(angle);
-        var y = 50 + r * Math.sin(angle);
+        var rx = frac * e.rx;
+        var ry = frac * e.ry;
+        var x = 50 + rx * Math.cos(angle);
+        var y = 50 + ry * Math.sin(angle);
 
-        // Size the ring for this orbit
+        // Size the elliptical ring
         if (ring) {
-          var diam = r * 2;
-          ring.style.width = diam + '%';
-          ring.style.height = diam + '%';
+          ring.style.width = (frac * e.rx * 2) + '%';
+          ring.style.height = (frac * e.ry * 2) + '%';
         }
 
         setTimeout(function() {
