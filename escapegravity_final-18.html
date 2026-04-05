@@ -942,22 +942,20 @@
     max-width: 700px;
     min-height: clamp(320px, 50vh, 500px);
     margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
   }
 
   /* The box */
   .s2-box {
-    position: relative;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
     width: clamp(180px, 28vw, 320px);
-    margin: 0 auto;
     cursor: pointer;
     z-index: 10;
     transition: transform 0.4s ease;
   }
-  .s2-box:hover { transform: scale(1.05); }
+  .s2-box:hover { transform: translate(-50%, -50%) scale(1.05); }
   .s2-box-img {
     width: 100%;
     height: auto;
@@ -968,15 +966,20 @@
   .s2-box.opened .s2-box-closed { opacity: 0; }
   .s2-box.opened .s2-box-open { opacity: 1; position: relative; }
   .s2-box-label {
+    position: absolute;
+    left: 50%;
+    top: calc(50% + clamp(100px, 16vw, 180px));
+    transform: translateX(-50%);
     font-family: 'Pompiere', sans-serif;
     font-size: clamp(12px, 1.2vw, 16px);
     color: rgba(255,255,255,0.4);
-    margin-top: 12px;
     letter-spacing: 2px;
     text-transform: uppercase;
     transition: opacity 0.3s;
+    white-space: nowrap;
+    z-index: 10;
   }
-  .s2-box.opened + .s2-box-label { opacity: 0; }
+  .s2-box.opened ~ .s2-box-label { opacity: 0; }
 
   /* Items that fly out */
   .s2-unbox-item {
