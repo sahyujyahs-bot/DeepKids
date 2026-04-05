@@ -896,7 +896,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: clamp(70px, 9vh, 110px) clamp(16px, 4vw, 60px) clamp(40px, 5vh, 60px);
+    padding: clamp(70px, 9vh, 100px) clamp(12px, 3vw, 40px) clamp(20px, 3vh, 40px);
     text-align: center;
     box-sizing: border-box;
   }
@@ -908,88 +908,74 @@
   }
   .s2-mission-tagline {
     font-family: 'Pompiere', sans-serif; font-size: clamp(14px, 1.6vw, 20px);
-    color: #9cbc14; letter-spacing: 2px; margin: 0 0 clamp(12px, 2vh, 24px);
+    color: #9cbc14; letter-spacing: 2px; margin: 0 0 clamp(10px, 1.5vh, 20px);
   }
   .s2-mission-lines {
-    max-width: 660px; margin: 0 auto clamp(24px, 3vh, 40px);
-    display: flex; flex-direction: column; gap: clamp(4px, 0.8vh, 8px);
+    max-width: 660px; margin: 0 auto clamp(16px, 2vh, 28px);
+    display: flex; flex-direction: column; gap: clamp(3px, 0.6vh, 6px);
   }
   .s2-mission-line {
-    font-family: 'Pompiere', sans-serif; font-size: clamp(13px, 1.3vw, 18px);
+    font-family: 'Pompiere', sans-serif; font-size: clamp(12px, 1.2vw, 17px);
     color: rgba(255,255,255,0.7); line-height: 1.4;
   }
   .s2-mission-line em { font-style: normal; color: #9cbc14; }
-  .s2-delay-1 { transition-delay: 0.1s; }
-  .s2-delay-2 { transition-delay: 0.2s; }
-  .s2-delay-3 { transition-delay: 0.3s; }
-  .s2-delay-4 { transition-delay: 0.4s; }
+  .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
+  .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
+  .s2-d5 { transition-delay: .5s; } .s2-d6 { transition-delay: .6s; }
 
-  /* ── Rectangle collage ────────────────────────── */
-  .s2-collage {
-    display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    gap: clamp(6px, 1vw, 14px);
-    max-width: 900px;
-    width: 100%;
+  /* ── Collage grid ─────────────────────────────── */
+  .s2-grid {
     flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.6fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: clamp(6px, 0.8vw, 12px);
+    width: 100%;
+    max-width: 1100px;
     min-height: 0;
   }
-  .s2-c {
-    display: flex; flex-direction: column;
-    align-items: center; justify-content: center;
-    border-radius: 10px;
-    background: rgba(255,255,255,0.02);
-    border: 1px solid rgba(156,188,20,0.08);
-    padding: clamp(6px, 1vw, 14px);
-    overflow: hidden;
-    transition: border-color 0.3s, transform 0.3s;
+  /*  Layout:
+      [board]     [fc-front]  [  BOX  ]  [pc-back]   [astro]
+      [fc-back]   [dice]      [  BOX  ]  [pc-front]  [rocket]
+  */
+  .s2-g { display: flex; align-items: center; justify-content: center; overflow: hidden; }
+  .s2-g img {
+    max-width: 100%; max-height: 100%; object-fit: contain;
+    filter: drop-shadow(0 4px 14px rgba(0,0,0,0.5));
+    transition: transform 0.3s;
   }
-  .s2-c:hover {
-    border-color: rgba(156,188,20,0.25);
-    transform: scale(1.02);
+  .s2-g:hover img { transform: scale(1.06); }
+  .s2-g svg {
+    width: 70%; height: 70%;
+    filter: drop-shadow(0 4px 14px rgba(0,0,0,0.5));
+    transition: transform 0.3s;
   }
-  .s2-c-box {
-    grid-column: 2;
-    grid-row: 1 / 3;
-    background: none;
-    border: none;
-    padding: clamp(8px, 1.5vw, 20px);
+  .s2-g:hover svg { transform: scale(1.06); }
+  .s2-g-lbl {
+    position: absolute; bottom: 4px;
+    font-family: 'Pompiere', sans-serif; font-size: clamp(8px, 0.9vw, 12px);
+    color: rgba(255,255,255,0.4); letter-spacing: 1px; text-transform: uppercase;
   }
-  .s2-c-box:hover { transform: scale(1.03); }
-  .s2-c-box img {
-    width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-    filter: drop-shadow(0 8px 24px rgba(0,0,0,0.5));
+  .s2-g { position: relative; }
+  .s2-g-box {
+    grid-column: 3; grid-row: 1 / 3;
   }
-  .s2-c img:not(.s2-c-box img) {
-    width: 80%;
-    max-height: 70%;
-    object-fit: contain;
-    filter: drop-shadow(0 3px 10px rgba(0,0,0,0.5));
-  }
-  .s2-c svg {
-    width: 50%;
-    max-height: 50%;
-    filter: drop-shadow(0 3px 10px rgba(0,0,0,0.5));
-  }
-  .s2-c-lbl {
-    font-family: 'Pompiere', sans-serif;
-    font-size: clamp(9px, 1vw, 13px);
-    color: rgba(255,255,255,0.45);
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    margin-top: 6px;
-    white-space: nowrap;
-  }
+  .s2-g-box img { filter: drop-shadow(0 10px 30px rgba(0,0,0,0.6)); }
 
-  @media (max-width: 600px) {
-    .s2-collage {
-      grid-template-columns: 1fr 1.8fr 1fr;
-      grid-template-rows: 1fr 1fr 1fr;
+  @media (max-width: 768px) {
+    .s2-grid {
+      grid-template-columns: 1fr 1.4fr 1fr;
+      grid-template-rows: repeat(4, 1fr);
     }
-    .s2-c-box { grid-row: 1 / 4; }
+    .s2-g-box { grid-column: 2; grid-row: 1 / 3; }
+    .s2-g-sand { display: none; }
+  }
+  @media (max-width: 480px) {
+    .s2-grid {
+      grid-template-columns: 1fr 1.6fr 1fr;
+      grid-template-rows: repeat(4, 1fr);
+      gap: 4px;
+    }
   }
 </style>
 
@@ -997,37 +983,34 @@
   <h2 class="s2-mission-title eg-fade-in">The Mission</h2>
   <p class="s2-mission-tagline eg-fade-in">Escape Earth. Reach the ISS. Defy Gravity.</p>
   <div class="s2-mission-lines">
-    <div class="s2-mission-line eg-fade-in s2-delay-1">Start at <em>Earth\u2019s surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
-    <div class="s2-mission-line eg-fade-in s2-delay-2">But the board is <em>Gravity\u2019s agent</em> \u2014 pulling you down toward the core.</div>
-    <div class="s2-mission-line eg-fade-in s2-delay-3">Fight back with <em>Force Cards</em> \u2014 earned by completing <em>Physical Challenges</em>.</div>
-    <div class="s2-mission-line eg-fade-in s2-delay-4">Roll the dice, move your token, and race your friends to orbit.</div>
+    <div class="s2-mission-line eg-fade-in s2-d1">Start at <em>Earth\u2019s surface</em>. Your goal: reach the <em>International Space Station</em>.</div>
+    <div class="s2-mission-line eg-fade-in s2-d2">But the board is <em>Gravity\u2019s agent</em> \u2014 pulling you down toward the core.</div>
+    <div class="s2-mission-line eg-fade-in s2-d3">Fight back with <em>Force Cards</em> \u2014 earned by completing <em>Physical Challenges</em>.</div>
+    <div class="s2-mission-line eg-fade-in s2-d4">Roll the dice, move your token, and race your friends to orbit.</div>
   </div>
 
-  <div class="s2-collage eg-fade-in s2-delay-4">
-    <!-- Left column -->
-    <div class="s2-c">
-      <img src="Copy of Core.png" alt="Board">
-      <span class="s2-c-lbl">Board</span>
-    </div>
-    <div class="s2-c">
-      <img src="IMG_5098.jpeg" alt="Force Cards">
-      <span class="s2-c-lbl">Force Cards</span>
-    </div>
+  <div class="s2-grid eg-fade-in s2-d4">
+    <!-- Row 1 -->
+    <div class="s2-g"><img src="Copy of Core.png" alt="Board"><span class="s2-g-lbl">Board</span></div>
+    <div class="s2-g"><img src="IMG_5098.jpeg" alt="Force Card Front"><span class="s2-g-lbl">Force Card</span></div>
+    <div class="s2-g s2-g-box"><img src="Egocentric with lid coming off.png" alt="Box"></div>
+    <div class="s2-g"><img src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back"><span class="s2-g-lbl">Challenge Card</span></div>
+    <div class="s2-g"><img src="Blue astronaut front.png" alt="Astronaut Token"><span class="s2-g-lbl">Astronaut</span></div>
 
-    <!-- Center: box (spans both rows) -->
-    <div class="s2-c s2-c-box">
-      <img src="Egocentric with lid coming off.png" alt="EscapeGravity Box">
+    <!-- Row 2 -->
+    <div class="s2-g"><img src="IMG_5099.jpeg" alt="Force Card Back"><span class="s2-g-lbl">Force Card Back</span></div>
+    <div class="s2-g">
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="4" y="4" width="56" height="56" rx="11" fill="#1a2508" stroke="#9cbc14" stroke-width="2.5"/>
+        <circle cx="20" cy="20" r="4.5" fill="#9cbc14"/><circle cx="44" cy="20" r="4.5" fill="#9cbc14"/>
+        <circle cx="32" cy="32" r="4.5" fill="#9cbc14"/>
+        <circle cx="20" cy="44" r="4.5" fill="#9cbc14"/><circle cx="44" cy="44" r="4.5" fill="#9cbc14"/>
+      </svg>
+      <span class="s2-g-lbl">Dice</span>
     </div>
-
-    <!-- Right column -->
-    <div class="s2-c">
-      <img src="Lightest_Items_Wins.png" alt="Challenge Cards">
-      <span class="s2-c-lbl">Challenge Cards</span>
-    </div>
-    <div class="s2-c">
-      <img src="Blue astronaut front.png" alt="Player Tokens" style="border-radius:50%;width:60%;">
-      <span class="s2-c-lbl">Player Tokens</span>
-    </div>
+    <!-- box continues here (row span) -->
+    <div class="s2-g"><img src="Lightest_Items_Wins.png" alt="Challenge Inside"><span class="s2-g-lbl">Activity Card</span></div>
+    <div class="s2-g"><img src="Untitled_Artwork 7.png" alt="Rocket Token"><span class="s2-g-lbl">Rocket</span></div>
   </div>
 </section>
 
