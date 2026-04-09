@@ -1772,10 +1772,8 @@
 /* Force Card Popup Overlay */
 .s2-force-overlay {
   position: fixed;
-  top: 0; right: 0; bottom: 0;
-  left: auto;
-  width: 40vw;
-  background: rgba(0,0,0,0.85);
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.75);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1784,18 +1782,22 @@
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.5s ease;
-  border-left: 2px solid rgba(156,188,20,0.2);
 }
 .s2-force-overlay.show {
   opacity: 1;
   pointer-events: auto;
 }
+/* Step 3 walkthrough mode: right panel on desktop, top on mobile */
+.s2-force-overlay.step3-inline {
+  background: transparent;
+  left: auto; right: 0; top: 0; bottom: 0;
+  width: 40vw;
+  border-left: none;
+}
 @media (max-width: 768px) {
-  .s2-force-overlay {
-    top: 0; left: 0; right: 0; bottom: auto;
-    width: 100%; height: 50vh;
-    border-left: none;
-    border-bottom: 2px solid rgba(156,188,20,0.2);
+  .s2-force-overlay.step3-inline {
+    left: 0; right: 0; top: 0; bottom: auto;
+    width: 100%; height: 45vh;
   }
 }
 
@@ -1810,15 +1812,10 @@
 }
 
 .s2-force-card-wrap {
-  width: min(28vw, 50vh);
+  width: min(70vw, 45vh);
   aspect-ratio: 909 / 1205;
   perspective: 1000px;
   cursor: pointer;
-}
-@media (max-width: 768px) {
-  .s2-force-card-wrap {
-    width: min(55vw, 35vh);
-  }
 }
 .s2-force-card-inner {
   position: relative;
@@ -2445,6 +2442,18 @@
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
+  window.dropToTile3 = function() {
+    // Move token 5 steps down and 5 steps left from current position
+    var currentTop = parseFloat(tokBlue.style.top) || 0;
+    var currentLeft = parseFloat(tokBlue.style.left) || 0;
+    var stepDown = Math.max(18, cssH() * 0.042);
+    var stepLeft = Math.max(18, cssW() * 0.032);
+    tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
+    tokBlue.style.top = (currentTop + stepDown * 5) + 'px';
+    tokBlue.style.left = (currentLeft - stepLeft * 5) + 'px';
+    setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
+  };
+
   /* ── Position inline force card near token (exposed) ── */
   window.positionInlineFc = function() {
     var inlineFc = document.getElementById('s2-inline-fc');
@@ -2831,15 +2840,17 @@
   }
 
   function showTile7Bubble() {
-    // Show force card overlay automatically (no click needed)
+    // Show force card overlay automatically in step3-inline mode
     var title = document.getElementById('s2-force-popup-title');
     if (title) title.textContent = 'Your Force Card';
+    forceOverlay.classList.add('step3-inline');
     forceOverlay.classList.add('show');
     forceCardWrap.classList.remove('flipped');
 
     // After viewing card, show "Only 1 Card" inline and drop to tile 3
     setTimeout(function() {
       forceOverlay.classList.remove('show');
+      forceOverlay.classList.remove('step3-inline');
       setTimeout(function() {
         var inlineFc = document.getElementById('s2-inline-fc');
         var inlineFcText = document.getElementById('s2-inline-fc-text');
@@ -2849,14 +2860,7 @@
         setTimeout(function() {
           inlineFc.classList.remove('show');
           setTimeout(function() {
-            // Drop to tile 3: 5 steps down + 5 steps left
-            var currentTop = parseFloat(tokBlue.style.top) || 0;
-            var currentLeft = parseFloat(tokBlue.style.left) || 0;
-            var stepSize = Math.max(18, cssH() * 0.042);
-            tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
-            tokBlue.style.top = (currentTop + stepSize * 5) + 'px';
-            tokBlue.style.left = (currentLeft - stepSize * 5) + 'px';
-            setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
+            window.dropToTile3();
           }, 600);
         }, 3000);
       }, 500);
@@ -2874,6 +2878,7 @@
 
   function hideForceCard() {
     forceOverlay.classList.remove('show');
+    forceOverlay.classList.remove('step3-inline');
   }
 
   // Flip on click
