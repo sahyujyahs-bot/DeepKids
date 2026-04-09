@@ -1055,7 +1055,7 @@
   #s3 {
     position: relative;                         /* tokens anchor here */
     display: flex; flex-direction: column;
-    overflow-x: hidden; overflow-y: visible;
+    overflow: hidden;
     height: 100vh;
     margin-top: clamp(30px, 5vh, 60px);         /* space below S1 */
     background: transparent;
@@ -1067,7 +1067,7 @@
     align-items: center; justify-content: center;
     text-align: center; gap: 8px;
     padding: clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);
-    background: linear-gradient(180deg,rgba(10,6,24,.5) 0%,rgba(10,6,24,.3) 72%,transparent 100%);
+    background: transparent;
     position: relative; z-index: 10;
   }
   #s2-title-row h2 {
@@ -1076,6 +1076,10 @@
     font-size: clamp(22px,4.2vw,62px); line-height: .9; color: #fff;
     text-shadow: 0 0 26px rgba(160,210,20,.45), 3px 3px 0 rgba(0,0,0,.9);
     white-space: nowrap; animation: s2-float 6s ease-in-out infinite;
+    background: rgba(18,8,38,.65);
+    padding: 8px clamp(14px,2vw,24px);
+    border-radius: 8px;
+    -webkit-box-decoration-break: clone; box-decoration-break: clone;
   }
   @keyframes s2-float { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-6px); } }
   .s2-sub {
