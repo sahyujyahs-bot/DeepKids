@@ -1619,13 +1619,9 @@
   z-index: 1;
 }
 @media (max-width: 768px) {
-  .s2-card-fan {
-    transform: rotate(90deg);
-    transform-origin: center center;
-  }
   .s2-fan-card {
-    top: 50%;
-    width: min(55vh, 80vw);
+    top: 38%;
+    width: min(38vw, 30vh);
     transform-origin: 50% 160%;
   }
 }
@@ -2552,6 +2548,16 @@
   var fanReady   = false;
   var selected   = null;
 
+  function isMobileFan() { return window.innerWidth <= 768; }
+  function fanCardTransform(angle) {
+    var extra = isMobileFan() ? ' rotateZ(90deg)' : '';
+    return 'translate(-50%,-50%) rotate('+angle+'deg)' + extra;
+  }
+  function fanCardCSS(angle, idx) {
+    var t = fanCardTransform(angle);
+    return 'transform:'+t+';--card-base-transform:'+t+';--card-delay:'+(idx*0.18)+'s;';
+  }
+
   window.initCardFan = function(){
     if (fanReady) return;
     fanReady = true;
@@ -2564,9 +2570,7 @@
       var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * i;
       var card  = document.createElement('div');
       card.className = 's2-fan-card inviting';
-      card.style.cssText = 'transform:translate(-50%,-50%) rotate('+angle+'deg);'
-        + '--card-base-transform:translate(-50%,-50%) rotate('+angle+'deg);'
-        + '--card-delay:'+(i*0.18)+'s;';
+      card.style.cssText = fanCardCSS(angle, i);
       card.dataset.index = i;
 
       card.innerHTML =
@@ -2627,13 +2631,10 @@
     var prompt = document.getElementById('s2-draw-prompt');
     document.querySelectorAll('.s2-fan-card').forEach(function(c, idx){
       c.classList.remove('selected','flipped','dimmed');
-      // Restore original fan transform and clear all inline overrides
       var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * idx;
       c.style.cssText = '';
-      c.offsetHeight; // force reflow
-      c.style.cssText = 'transform:translate(-50%,-50%) rotate('+angle+'deg);'
-        + '--card-base-transform:translate(-50%,-50%) rotate('+angle+'deg);'
-        + '--card-delay:'+(idx*0.18)+'s;';
+      c.offsetHeight;
+      c.style.cssText = fanCardCSS(angle, idx);
       c.classList.add('inviting');
     });
     setTimeout(function(){ if(prompt) prompt.classList.add('show'); }, 300);
@@ -2989,9 +2990,7 @@
         c.style.cssText = '';
         c.offsetHeight;
         var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * idx;
-        c.style.cssText = 'transform:translate(-50%,-50%) rotate('+angle+'deg);'
-          + '--card-base-transform:translate(-50%,-50%) rotate('+angle+'deg);'
-          + '--card-delay:'+(idx*0.18)+'s;';
+        c.style.cssText = fanCardCSS(angle, idx);
         c.classList.add('inviting');
       });
       if (fan) fan.style.display = '';
