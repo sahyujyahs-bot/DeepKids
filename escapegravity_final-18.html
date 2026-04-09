@@ -1902,6 +1902,26 @@
 
 </section>
 
+<!-- ═══════════════════════════════════════════════ S4: SCIENCE ══ -->
+<section id="s4-science" style="position:relative;height:100vh;overflow:hidden;margin-top:clamp(30px,5vh,60px);">
+  <div style="display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);position:relative;z-index:10;">
+    <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Science</h2>
+  </div>
+  <div style="position:relative;flex:1;width:100%;height:calc(100vh - 80px);">
+    <div class="sci-slide active" id="sci-slide-1" style="position:absolute;top:0;left:0;right:0;bottom:0;">
+      <div class="sci-slide-title" id="sci-title-1">Each Tile Carries Science</div>
+      <canvas id="sci-canvas" width="800" height="600"></canvas>
+      <div class="sci-tile-label" id="sci-tile-label"></div>
+    </div>
+    <div class="sci-slide" id="sci-slide-2">
+      <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
+    </div>
+    <div class="sci-slide" id="sci-slide-3">
+      <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
+    </div>
+  </div>
+</section>
+
 <script>
 (function(){
   'use strict';
@@ -2375,6 +2395,19 @@
     }, 2200));
   }
 
+  /* ── Jump to tile-11 state with bubble for Step 3 ──────── */
+  function jumpToState4WithBubble() {
+    jumpToState4();
+    // Override bubble link to show "Your Force Card"
+    rollTimers.push(setTimeout(() => {
+      var bbl = document.getElementById('s2-comic-bubble');
+      if (bbl && bbl.classList.contains('show')) {
+        if (window.updateBubbleLink) window.updateBubbleLink();
+      }
+    }, 2500));
+  }
+  window.jumpToState4WithBubble = jumpToState4WithBubble;
+
   /* ── Dice roll ──────────────────────────────────────────── */
   window.s2Roll = function() { if (state === 2 && !busy) doRoll(); };
   window.jumpToState0 = jumpToState0;
@@ -2445,33 +2478,32 @@
       rollTimers.push(setTimeout(() => {
         if (state !== 3) return;
         state = 4; busy = false;
+        window.sessionHasReachedTile11 = true;
         btnBack.disabled = false; btnFwd.disabled = false;
-        // Show comic bubble pointing at the earth icon on tile 11
-        var bubble = document.getElementById('s2-comic-bubble');
-        if (!bubble) return;
-        // Use the blue token's actual screen position
-        var tokRect = tokBlue.getBoundingClientRect();
-        var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-        var tokX = tokRect.left - brRect.left + tokRect.width;
-        var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
-        var bubbleW = bubble.offsetWidth || 250;
-        var bubbleH = bubble.offsetHeight || 120;
-        // Few steps right, 1 step down from astronaut
-        var mobileOff = window.innerWidth < 768 ? -25 : 105;
-          var bx = tokX - 30;
-          var by = tokY + mobileOff;
-          // Clamp to stay in view
-          bx = Math.max(8, Math.min(bx, brRect.width - bubbleW - 8));
-          by = Math.max(5, by);
+
+        if (window.forceEarned) {
+          // Force card already earned — auto-advance to Step 3
+          rollTimers.push(setTimeout(() => {
+            var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
+            if (sciTab) sciTab.click();
+          }, 1500));
+        } else {
+          // No force card yet — show "earn a force card" bubble
+          var bubble = document.getElementById('s2-comic-bubble');
+          if (!bubble) return;
+          var tokRect = tokBlue.getBoundingClientRect();
+          var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
+          var tokX = tokRect.left - brRect.left + tokRect.width;
+          var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
+          var bubbleW = bubble.offsetWidth || 250;
+          var mobileOff = window.innerWidth < 768 ? -25 : 105;
+          var bx = Math.max(8, Math.min(tokX - 30, brRect.width - bubbleW - 8));
+          var by = Math.max(5, tokY + mobileOff);
           bubble.style.left = bx + 'px';
           bubble.style.top = by + 'px';
           if (window.updateBubbleLink) window.updateBubbleLink();
           bubble.classList.add('show');
-          // Auto-advance to Step 3 after showing bubble
-          rollTimers.push(setTimeout(() => {
-            var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
-            if (sciTab) sciTab.click();
-          }, 5000));
+        }
       }, 5000));
     }, 2000));
   }
@@ -2542,11 +2574,16 @@
         if (window.jumpToState0) window.jumpToState0();
       } else if (target === 'science') {
         window.s2ActiveTab = 'science';
-        // Scroll to the standalone science section
-        var sciSection = document.getElementById('s4-science');
-        if (sciSection) sciSection.scrollIntoView({ behavior: 'smooth' });
-        if (window.sciResetSlides) window.sciResetSlides();
-        if (window.startSciAnimation) window.startSciAnimation();
+        // Step 3: show boardgame panel in tile-11 state with bubble
+        // Override: show the boardgame panel instead of science panel
+        var bgPanel = document.getElementById('s2-panel-boardgame');
+        var sciPanel = document.getElementById('s2-panel-science');
+        if (sciPanel) sciPanel.classList.remove('active');
+        if (bgPanel) bgPanel.classList.add('active');
+        setBoardElementsVisible(true);
+        s2Nav.style.display = '';
+        // Jump to tile-11 zoomed state and show bubble
+        if (window.jumpToState4WithBubble) window.jumpToState4WithBubble();
       } else {
         s2Nav.style.display = 'none';
         window.s2ActiveTab = target;
@@ -2675,6 +2712,8 @@
   var forceCardWrap = document.getElementById('s2-force-card-wrap');
   var forceLink = document.getElementById('s2-force-link');
   var forceEarned = false;
+  window.forceEarned = false;
+  window.sessionHasReachedTile11 = false;
 
   // Initialize: on PC tab it's disabled, on BG tab it navigates to PC tab
   function updateForceLinkState() {
@@ -2699,6 +2738,7 @@
 
   function markForceEarned() {
     forceEarned = true;
+    window.forceEarned = true;
     forceLink.textContent = 'Your Force Cards';
     forceLink.classList.remove('disabled');
     forceLink.classList.add('earned', 'pulse');
@@ -2865,14 +2905,20 @@
       markForceEarned();
     }, 5500);
 
-    // After all items settled, auto-advance to Step 2
+    // After all items settled, auto-advance
     setTimeout(function() {
       scene.classList.remove('active');
       items.forEach(function(item) { item.style.opacity = '0'; });
       resetFan();
-      // Switch to boardgame tab
-      var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
-      if (bgTab) bgTab.click();
+      if (window.sessionHasReachedTile11) {
+        // Already did Step 2 — go straight to Step 3
+        var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
+        if (sciTab) sciTab.click();
+      } else {
+        // Haven't done Step 2 yet — go to Step 2
+        var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
+        if (bgTab) bgTab.click();
+      }
     }, 8000);
   }
 
@@ -3283,7 +3329,7 @@
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
 (function(){
   'use strict';
-  const sectionIds = ['s1','s2','s3','s4','s5','s6','eg-footer'];
+  const sectionIds = ['s1','s2','s3','s4-science','s5','s6','s7','eg-footer'];
   const sectionEls = sectionIds.map(id => document.getElementById(id));
   const allNavLinks = document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a');
 
@@ -3620,29 +3666,6 @@
     opacity: 1; transform: translateY(0);
   }
 </style>
-
-<!-- ═══════════════════════════════════════════════ S4: SCIENCE ══ -->
-<section id="s4-science" style="position:relative;height:100vh;overflow:hidden;margin-top:clamp(30px,5vh,60px);">
-  <div style="display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);position:relative;z-index:10;">
-    <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Science</h2>
-  </div>
-  <div style="position:relative;flex:1;width:100%;height:calc(100vh - 80px);">
-    <!-- Science Slide 1: Each Tile Carries Science -->
-    <div class="sci-slide active" id="sci-slide-1" style="position:absolute;top:0;left:0;right:0;bottom:0;">
-      <div class="sci-slide-title" id="sci-title-1">Each Tile Carries Science</div>
-      <canvas id="sci-canvas" width="800" height="600"></canvas>
-      <div class="sci-tile-label" id="sci-tile-label"></div>
-    </div>
-    <!-- Science Slide 2: placeholder for now -->
-    <div class="sci-slide" id="sci-slide-2">
-      <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
-    </div>
-    <!-- Science Slide 3: placeholder for now -->
-    <div class="sci-slide" id="sci-slide-3">
-      <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
-    </div>
-  </div>
-</section>
 
 <!-- ═══════════════════════════════════════════════ S5: ABOUT ══ -->
 <section id="s5" class="eg-section">
