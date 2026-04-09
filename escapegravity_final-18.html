@@ -2660,7 +2660,7 @@
     var scene = document.getElementById('s2-drop-scene');
     if (scene) scene.classList.remove('active');
     var dt = document.getElementById('s2-drop-title');
-    if (dt) dt.classList.remove('show');
+    if (dt) { dt.classList.remove('show'); dt.textContent = 'All Players Do The Challenge'; dt.style.cursor = ''; dt.style.pointerEvents = ''; dt.style.textDecoration = ''; dt.onclick = null; }
     var prompt = document.getElementById('s2-draw-prompt');
     document.querySelectorAll('.s2-fan-card').forEach(function(c, idx){
       c.classList.remove('selected','flipped','dimmed');
@@ -2707,6 +2707,17 @@
     forceLink.classList.remove('disabled');
     forceLink.classList.add('earned', 'pulse');
     updateBubbleLink();
+    // Update drop title to earned state
+    var dropTitle = document.getElementById('s2-drop-title');
+    if (dropTitle) {
+      dropTitle.textContent = 'You Have Earned A Force Card';
+      dropTitle.style.cursor = 'pointer';
+      dropTitle.style.pointerEvents = 'auto';
+      dropTitle.style.textDecoration = 'underline';
+      dropTitle.style.textUnderlineOffset = '6px';
+      dropTitle.classList.add('show');
+      dropTitle.onclick = function() { showForceCardFlip(); };
+    }
   }
 
   function updateBubbleLink() {
