@@ -1620,9 +1620,9 @@
 }
 @media (max-width: 768px) {
   .s2-fan-card {
-    top: 38%;
-    width: min(38vw, 30vh);
-    transform-origin: 50% 160%;
+    top: 45%;
+    width: min(62vw, 44vh);
+    transform-origin: center center;
   }
 }
 .s2-fan-card:hover {
@@ -2549,12 +2549,14 @@
   var selected   = null;
 
   function isMobileFan() { return window.innerWidth <= 768; }
-  function fanCardTransform(angle) {
-    var extra = isMobileFan() ? ' rotateZ(90deg)' : '';
+  function fanCardTransform(fanAngle) {
+    var mob = isMobileFan();
+    var angle = mob ? fanAngle * 0.5 : fanAngle;
+    var extra = mob ? ' rotateZ(90deg)' : '';
     return 'translate(-50%,-50%) rotate('+angle+'deg)' + extra;
   }
-  function fanCardCSS(angle, idx) {
-    var t = fanCardTransform(angle);
+  function fanCardCSS(fanAngle, idx) {
+    var t = fanCardTransform(fanAngle);
     return 'transform:'+t+';--card-base-transform:'+t+';--card-delay:'+(idx*0.18)+'s;';
   }
 
