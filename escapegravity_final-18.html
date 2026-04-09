@@ -1390,7 +1390,7 @@
       <span class="s2-tab-arrow">&#x279C;</span>
       <button class="s2-tab" data-panel="boardgame">Step 2: Moving On The Board</button>
       <span class="s2-tab-arrow">&#x279C;</span>
-      <button class="s2-tab" data-panel="science">Step 3: Resolving Gravity Wells</button>
+      <button class="s2-tab locked" data-panel="science">Step 3: Resolving Gravity Wells</button>
     </div>
     <div class="s2-force-link show" id="s2-force-link">Earn a Force Card</div>
   </div>
@@ -1585,6 +1585,12 @@
   border-color: #9cbc14;
   background: rgba(156,188,20,0.08);
 }
+.s2-tab.locked {
+  filter: grayscale(1);
+  opacity: 0.4;
+  pointer-events: auto;
+  cursor: not-allowed;
+}
 
 /* ── S2 Tab Panels ──────────────────────────────────────── */
 .s2-panel { display: none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; }
@@ -1766,8 +1772,10 @@
 /* Force Card Popup Overlay */
 .s2-force-overlay {
   position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,0.75);
+  top: 0; right: 0; bottom: 0;
+  left: auto;
+  width: 40vw;
+  background: rgba(0,0,0,0.85);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1776,10 +1784,19 @@
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.5s ease;
+  border-left: 2px solid rgba(156,188,20,0.2);
 }
 .s2-force-overlay.show {
   opacity: 1;
   pointer-events: auto;
+}
+@media (max-width: 768px) {
+  .s2-force-overlay {
+    top: 0; left: 0; right: 0; bottom: auto;
+    width: 100%; height: 50vh;
+    border-left: none;
+    border-bottom: 2px solid rgba(156,188,20,0.2);
+  }
 }
 
 .s2-force-title {
@@ -1793,10 +1810,15 @@
 }
 
 .s2-force-card-wrap {
-  width: min(70vw, 45vh);
+  width: min(28vw, 50vh);
   aspect-ratio: 909 / 1205;
   perspective: 1000px;
   cursor: pointer;
+}
+@media (max-width: 768px) {
+  .s2-force-card-wrap {
+    width: min(55vw, 35vh);
+  }
 }
 .s2-force-card-inner {
   position: relative;
@@ -2479,6 +2501,8 @@
         if (state !== 3) return;
         state = 4; busy = false;
         window.sessionHasReachedTile11 = true;
+        var step3Tab = document.querySelector('.s2-tab[data-panel="science"]');
+        if (step3Tab) step3Tab.classList.remove('locked');
         btnBack.disabled = false; btnFwd.disabled = false;
 
         if (window.forceEarned) {
@@ -2555,6 +2579,7 @@
 
   tabs.forEach(function(tab){
     tab.addEventListener('click', function(){
+      if (tab.classList.contains('locked')) return;
       var target = tab.dataset.panel;
       tabs.forEach(function(t){ t.classList.remove('active'); });
       panels.forEach(function(p){ p.classList.remove('active'); });
@@ -2789,13 +2814,52 @@
 
     if (window.positionInlineFc) window.positionInlineFc();
     var inlineFc = document.getElementById('s2-inline-fc');
+    var inlineFcText = document.getElementById('s2-inline-fc-text');
+    if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
     inlineFc.classList.add('show');
 
     setTimeout(function() {
       inlineFc.classList.remove('show');
       setTimeout(function() {
         if (window.dropToTile7) window.dropToTile7();
+        // After dropping to tile 7, show bubble for "Any 2 Cards" tile
+        setTimeout(function() {
+          showTile7Bubble();
+        }, 2000);
       }, 600);
+    }, 3000);
+  }
+
+  function showTile7Bubble() {
+    // Show force card overlay automatically (no click needed)
+    var title = document.getElementById('s2-force-popup-title');
+    if (title) title.textContent = 'Your Force Card';
+    forceOverlay.classList.add('show');
+    forceCardWrap.classList.remove('flipped');
+
+    // After viewing card, show "Only 1 Card" inline and drop to tile 3
+    setTimeout(function() {
+      forceOverlay.classList.remove('show');
+      setTimeout(function() {
+        var inlineFc = document.getElementById('s2-inline-fc');
+        var inlineFcText = document.getElementById('s2-inline-fc-text');
+        if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
+        if (window.positionInlineFc) window.positionInlineFc();
+        inlineFc.classList.add('show');
+        setTimeout(function() {
+          inlineFc.classList.remove('show');
+          setTimeout(function() {
+            // Drop to tile 3: 5 steps down + 5 steps left
+            var currentTop = parseFloat(tokBlue.style.top) || 0;
+            var currentLeft = parseFloat(tokBlue.style.left) || 0;
+            var stepSize = Math.max(18, cssH() * 0.042);
+            tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
+            tokBlue.style.top = (currentTop + stepSize * 5) + 'px';
+            tokBlue.style.left = (currentLeft - stepSize * 5) + 'px';
+            setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
+          }, 600);
+        }, 3000);
+      }, 500);
     }, 3000);
   }
 
