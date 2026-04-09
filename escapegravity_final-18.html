@@ -1275,16 +1275,16 @@
     background: linear-gradient(135deg, #a0c816, #7aa010);
     color: #fff;
     font-family: 'Pompiere', sans-serif;
-    font-size: clamp(12px, 1.6vw, 18px);
+    font-size: clamp(15px, 2.2vw, 24px);
     font-weight: 700;
-    line-height: 1.4;
+    line-height: 1.5;
     text-align: center;
-    padding: clamp(10px, 1.5vw, 18px) clamp(14px, 2.5vw, 28px);
+    padding: clamp(14px, 2vw, 24px) clamp(18px, 3vw, 36px);
     border-radius: 18px;
     border: 3px solid #6b2155;
     box-shadow: 0 8px 30px rgba(0,0,0,0.5);
     position: relative;
-    max-width: clamp(200px, 35vw, 320px);
+    max-width: clamp(250px, 42vw, 420px);
     text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
   }
   /* Comic tail pointing down toward earth icon */
@@ -2458,21 +2458,17 @@
         state = 4; busy = false;
         btnBack.disabled = false; btnFwd.disabled = false;
         // Show comic bubble pointing at the earth icon on tile 11
-        // The earth icon on tile 11 — in normalized board coords (pre-rotation).
-        // Tile 11 is on the 3rd ring from center, at ~100° clockwise.
-        // The earth icon sits at the inner edge of tile 11.
-        rollTimers.push(setTimeout(() => {
-          var bubble = document.getElementById('s2-comic-bubble');
-          if (!bubble) return;
-          // Use the blue token's actual screen position
-          var tokRect = tokBlue.getBoundingClientRect();
-          var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-          var tokX = tokRect.left - brRect.left + tokRect.width;
-          var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
-          var bubbleW = bubble.offsetWidth || 250;
-          var bubbleH = bubble.offsetHeight || 120;
-          // Few steps right, 1 step down from astronaut
-          var mobileOff = window.innerWidth < 768 ? -25 : 105;
+        var bubble = document.getElementById('s2-comic-bubble');
+        if (!bubble) return;
+        // Use the blue token's actual screen position
+        var tokRect = tokBlue.getBoundingClientRect();
+        var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
+        var tokX = tokRect.left - brRect.left + tokRect.width;
+        var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
+        var bubbleW = bubble.offsetWidth || 250;
+        var bubbleH = bubble.offsetHeight || 120;
+        // Few steps right, 1 step down from astronaut
+        var mobileOff = window.innerWidth < 768 ? -25 : 105;
           var bx = tokX - 30;
           var by = tokY + mobileOff;
           // Clamp to stay in view
@@ -2482,7 +2478,6 @@
           bubble.style.top = by + 'px';
           if (window.updateBubbleLink) window.updateBubbleLink();
           bubble.classList.add('show');
-        }, 2500));
       }, 5000));
     }, 2000));
   }
