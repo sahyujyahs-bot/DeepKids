@@ -1608,11 +1608,11 @@
 /* ── S2 Individual Fan Cards ────────────────────────────── */
 .s2-fan-card {
   position: absolute;
-  top: 50%;
+  top: 42%;
   left: 50%;
-  width: min(50vw, 38vh);
+  width: min(58vw, 46vh);
   aspect-ratio: 1677 / 1205;
-  transform-origin: 50% 200%;    /* pivot point well below card for fan arc */
+  transform-origin: 50% 180%;    /* pivot point below card for fan arc */
   cursor: pointer;
   transition: transform 0.4s cubic-bezier(.34,1.56,.64,1), filter 0.3s ease, z-index 0s;
   perspective: 800px;
@@ -1676,7 +1676,7 @@
 /* ── S2 Draw Prompt ─────────────────────────────────────── */
 .s2-draw-prompt {
   position: absolute;
-  top: 2%;
+  top: 5%;
   left: 50%;
   transform: translateX(-50%);
   font-family: 'Norwester', sans-serif;
