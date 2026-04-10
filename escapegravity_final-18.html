@@ -27,9 +27,42 @@
     /* ── Reset ─────────────────────────────────────────────────── */
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
     html { height: 100%; }
+
+    /* ── Custom horizontal scrollbar for mobile scroll rows ──── */
+    .spiral-row-mobile::-webkit-scrollbar,
+    .forces-icons::-webkit-scrollbar,
+    .forces-cards::-webkit-scrollbar,
+    .s6b-flow::-webkit-scrollbar,
+    .s4b-flow::-webkit-scrollbar {
+      height: 6px;
+    }
+    .spiral-row-mobile::-webkit-scrollbar-track,
+    .forces-icons::-webkit-scrollbar-track,
+    .forces-cards::-webkit-scrollbar-track,
+    .s6b-flow::-webkit-scrollbar-track,
+    .s4b-flow::-webkit-scrollbar-track {
+      background: rgba(8,4,24,0.3);
+      border-radius: 10px;
+    }
+    .spiral-row-mobile::-webkit-scrollbar-thumb,
+    .forces-icons::-webkit-scrollbar-thumb,
+    .forces-cards::-webkit-scrollbar-thumb,
+    .s6b-flow::-webkit-scrollbar-thumb,
+    .s4b-flow::-webkit-scrollbar-thumb {
+      background: rgba(26,42,90,0.5);
+      border-radius: 10px;
+    }
+    .spiral-row-mobile,
+    .forces-icons,
+    .forces-cards,
+    .s6b-flow,
+    .s4b-flow {
+      scrollbar-width: thin;
+      scrollbar-color: rgba(26,42,90,0.5) rgba(8,4,24,0.3);
+    }
     body {
       height: 100%; overflow-y: auto; color: #fff;
-      background: #120826;       /* deep purple-black base */
+      background: #080418;       /* dark blue-black base — consistent on all devices */
       /* Fixed starfield — brighter, more stars, varied sizes */
       background-image:
         /* Bright stars */
@@ -86,6 +119,35 @@
       pointer-events: none;
     }
     #content > * { pointer-events: all; }
+
+    /* ── Hero tags (Ages / Players / Playtime) ────────────────── */
+    .hero-tags {
+      display: flex;
+      justify-content: center;
+      gap: clamp(6px, 1.2vw, 14px);
+      margin-bottom: clamp(10px, 2vh, 18px);
+      flex-wrap: wrap;
+    }
+    .hero-tag {
+      font-family: 'Pompiere', sans-serif;
+      font-size: clamp(11px, 1.4vw, 16px);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #c0e638;
+      background: rgba(10,6,24,0.65);
+      border: 1px solid rgba(156,188,20,0.4);
+      padding: 5px clamp(10px,1.5vw,18px);
+      border-radius: 20px;
+      text-shadow: 0 0 10px rgba(192,230,56,0.5);
+      box-shadow: 0 0 16px rgba(156,188,20,0.2), inset 0 0 8px rgba(156,188,20,0.1);
+      animation: hero-tag-glow 3s ease-in-out infinite;
+    }
+    .hero-tag:nth-child(2) { animation-delay: 0.5s; }
+    .hero-tag:nth-child(3) { animation-delay: 1s; }
+    @keyframes hero-tag-glow {
+      0%, 100% { box-shadow: 0 0 16px rgba(156,188,20,0.2), inset 0 0 8px rgba(156,188,20,0.1); }
+      50%      { box-shadow: 0 0 28px rgba(156,188,20,0.5), inset 0 0 14px rgba(156,188,20,0.2); }
+    }
 
     /* ── Title ─────────────────────────────────────────────────── */
     .title {
@@ -404,6 +466,11 @@
 <canvas id="cv"></canvas>
 
   <div id="content">
+      <div class="hero-tags">
+        <span class="hero-tag">Ages 7+</span>
+        <span class="hero-tag">2+ Players</span>
+        <span class="hero-tag">30 min Avg Playtime</span>
+      </div>
       <h1 class="title">EscapeGravity</h1>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
@@ -419,10 +486,12 @@
             <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
           </linearGradient>
         </defs>
-        <!-- 1. K dark borders first — they go behind the D fill -->
-        <line x1="268" y1="54" x2="334" y2="12"
+        <!-- 1. K dark borders first — they go behind the D fill.
+             K fins end aligned with D top/bottom edges (y=17 and y=91 so round linecap
+             stroke extends to exactly y=7 and y=101 matching D path). -->
+        <line x1="268" y1="54" x2="324" y2="17"
               stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-        <line x1="268" y1="54" x2="334" y2="96"
+        <line x1="268" y1="54" x2="324" y2="91"
               stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
 
         <!-- 2. D border stroke — drawn over K dark borders -->
@@ -434,16 +503,16 @@
               fill="url(#dk-green-grad)"/>
 
         <!-- 4. K green fills on top -->
-        <line x1="268" y1="54" x2="331" y2="14"
+        <line x1="268" y1="54" x2="321" y2="19"
               stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
-        <line x1="268" y1="54" x2="331" y2="94"
+        <line x1="268" y1="54" x2="321" y2="89"
               stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
 
         <!-- 5. 3D lighter green streak highlight on D top -->
         <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z"
               fill="url(#dk-highlight)"/>
         <!-- Highlight on K top arm -->
-        <line x1="275" y1="42" x2="325" y2="20" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
+        <line x1="275" y1="42" x2="315" y2="25" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
@@ -966,65 +1035,75 @@
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
   /* ── Pinterest masonry grid ───────────────────── */
+  /* ── What's Inside The Box — full-width grid layout ───────── */
   .s2-pin {
-    columns: 3;
-    column-gap: 14px;
-    max-width: 1100px;
-    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: clamp(10px, 1.2vw, 20px);
+    padding: 0 clamp(8px, 2vw, 32px);
+    width: 100%;
   }
   .s2-pin-item {
-    break-inside: avoid;
-    margin-bottom: 14px;
     border-radius: 12px;
-    overflow: hidden;
+    overflow: visible;
     background: none;
     border: none;
-    transition: transform 0.3s, border-color 0.3s, box-shadow 0.3s;
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
-  .s2-pin-item:hover {
-    transform: translateY(-4px);
-    border-color: rgba(156,188,20,0.3);
-    box-shadow: 0 8px 28px rgba(0,0,0,0.4);
-  }
-  .s2-pin-item img {
+  .s2-pin-item:hover { transform: translateY(-4px); }
+  .s2-pin-item img, .s2-pin-item svg {
     width: 100%; display: block;
   }
-  /* Small items: tokens, dice — shrink image inside its column */
-  .s2-pin-small img, .s2-pin-small svg {
-    width: 55%;
-    margin: 0 auto;
-  }
-  /* Large items inherit full width */
-  .s2-pin-large img { width: 100%; }
+  /* Box — full width spanning all columns */
   .s2-pin-box {
-    column-span: all;
+    grid-column: 1 / -1;
   }
   .s2-pin-box img {
-    aspect-ratio: 16 / 7;
+    aspect-ratio: 16 / 6;
     object-fit: cover;
     object-position: center 45%;
+    border-radius: 12px;
+  }
+  /* Large items (board, cards) — 4 columns each (3 per row on desktop) */
+  .s2-pin-large {
+    grid-column: span 4;
+  }
+  /* Small items (tokens, dice) — 2 columns each */
+  .s2-pin-small {
+    grid-column: span 2;
+  }
+  .s2-pin-small img, .s2-pin-small svg {
+    max-width: 72%;
+    margin: 0 auto;
   }
   .s2-pin-item svg {
-    width: 100%; display: block;
     box-sizing: border-box;
   }
   .s2-pin-lbl {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
     font-size: clamp(11px, 1.2vw, 16px);
-    color: rgba(255,255,255,0.45);
+    color: rgba(255,255,255,0.5);
     letter-spacing: 1.5px;
-    padding: 10px 8px;
+    padding: 8px 4px 0;
     text-align: center;
-    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  @media (max-width: 900px) { .s2-pin { columns: 2; } }
-  @media (max-width: 480px) {
-    .s2-pin { columns: 2; column-gap: 10px; }
-    .s2-pin-item { margin-bottom: 10px; }
+  @media (max-width: 900px) {
+    .s2-pin { grid-template-columns: repeat(6, 1fr); }
+    .s2-pin-large { grid-column: span 3; }
+    .s2-pin-small { grid-column: span 2; }
+  }
+  @media (max-width: 560px) {
+    .s2-pin { grid-template-columns: repeat(4, 1fr); gap: 8px; }
+    .s2-pin-large { grid-column: span 2; }
+    .s2-pin-small { grid-column: span 2; }
+    .s2-pin-small img, .s2-pin-small svg { max-width: 55%; }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
 </style>
@@ -1978,8 +2057,8 @@
   </div>
   <div id="sci-collage">
     <picture>
-      <source media="(max-width: 600px)" srcset="Section4 collage mobile.png">
-      <img src="Section4 collage.png" alt="Each Tile Carries Science — tile close-ups collage">
+      <source media="(max-width: 600px)" srcset="Section4%20collage%20mobile.png">
+      <img src="Section4%20collage.png" alt="Each Tile Carries Science — tile close-ups collage">
     </picture>
   </div>
 </section>
@@ -3439,13 +3518,21 @@
   .eg-section {
     position: relative;
     background: transparent;
-    padding: clamp(60px,8vh,100px) 0 clamp(40px,6vh,80px);
+    padding: clamp(50px,7vh,90px) 0 clamp(50px,7vh,90px);
     box-sizing: border-box;
     overflow: hidden;
     width: 100%;
   }
-  .eg-section > h2,
-  .eg-section > p,
+  .eg-section > h2.eg-section-title {
+    margin-bottom: clamp(14px, 2vh, 22px) !important;
+    padding-left: clamp(16px,4vw,48px);
+    padding-right: clamp(16px,4vw,48px);
+  }
+  .eg-section > p {
+    margin-bottom: clamp(22px, 3vh, 36px);
+    padding-left: clamp(16px,4vw,48px);
+    padding-right: clamp(16px,4vw,48px);
+  }
   .eg-section > h3 {
     padding-left: clamp(16px,4vw,48px);
     padding-right: clamp(16px,4vw,48px);
@@ -3859,10 +3946,20 @@
 .s4b-connection em { color: #9cbc14; font-style: normal; font-weight: bold; }
 
 @media (max-width: 900px) {
-  .s4b-panel.active { flex-direction: column; }
-  .s4b-bottom { flex-direction: column-reverse; max-width: 100%; }
+  .s4b-panel.active { flex-direction: column; align-items: center; }
+  .s4b-annotated {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 560px;
+  }
+  .s4b-bottom {
+    flex-direction: column-reverse;
+    max-width: 100%;
+    align-items: center;
+    width: 100%;
+  }
   .s4b-fc-img { width: clamp(200px, 55vw, 300px); }
-  .s4b-challenge-img { width: 80%; }
+  .s4b-challenge-img { width: 82%; margin: 0 auto; }
 }
 </style>
 
@@ -4085,7 +4182,12 @@
   .s6b-fc-pair { flex-direction: row; }
   .s6b-fc-img { width: clamp(160px, 45vw, 240px); }
   .s6b-tile-img-wrap img { width: clamp(200px, 60vw, 300px); }
-  .s6b-fan { width: clamp(160px, 45vw, 240px); height: clamp(224px, 63vw, 336px); }
+  .s6b-fan {
+    width: clamp(160px, 45vw, 240px);
+    height: clamp(224px, 63vw, 336px);
+    margin: 0 auto;
+  }
+  .s6b-fc-pair { justify-content: center; }
 }
 </style>
 
@@ -4117,7 +4219,7 @@
   <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Spirals in the Universe</h2>
   <p class="spiral-subtitle eg-fade-in">The board is a spiral — because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
 
-  <!-- Spiral + flanking tiles -->
+  <!-- Desktop: tiles flanking spiral -->
   <div class="spiral-stage eg-fade-in">
     <div class="spiral-side">
       <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
@@ -4131,6 +4233,14 @@
       <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
       <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
     </div>
+  </div>
+
+  <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
+  <div class="spiral-row-mobile eg-fade-in">
+    <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+    <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
   </div>
 </section>
 
@@ -4206,15 +4316,27 @@
   letter-spacing: 1px;
 }
 
+/* Hide mobile scroll row on desktop */
+.spiral-row-mobile { display: none; }
+
 @media (max-width: 680px) {
-  .spiral-stage { flex-direction: column; align-items: center; }
-  .spiral-side {
-    flex-direction: row;
-    width: 100%;
-    justify-content: center;
+  /* Hide desktop side columns; show only spiral */
+  .spiral-side { display: none; }
+  .spiral-stage { display: block; text-align: center; }
+  .spiral-img { width: 96vw; max-width: none; }
+  /* Show mobile scroll row */
+  .spiral-row-mobile {
+    display: flex;
+    gap: clamp(10px, 3vw, 16px);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    padding: clamp(14px, 2.5vh, 22px) clamp(12px, 4vw, 24px) 0;
   }
-  .spiral-side .spiral-ex { width: 45%; }
-  .spiral-img { width: 92vw; max-width: none; }
+  .spiral-row-mobile .spiral-ex {
+    flex: 0 0 65%;
+    scroll-snap-align: center;
+  }
 }
 </style>
 
@@ -4391,13 +4513,15 @@
   line-height: 1.5;
 }
 
-/* Desktop: icons left, cards right */
+/* Desktop: icons left, cards right — centered on screen */
 .forces-layout {
   display: flex;
   gap: clamp(20px, 3vw, 40px);
-  align-items: flex-start;
+  align-items: center;
+  justify-content: center;
   max-width: 1100px;
   margin: 0 auto;
+  padding: 0 clamp(16px, 3vw, 40px);
 }
 
 /* Icon grid — 2 columns on desktop */
@@ -5291,14 +5415,14 @@
             <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
           </linearGradient>
         </defs>
-        <line x1="268" y1="54" x2="334" y2="12" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-        <line x1="268" y1="54" x2="334" y2="96" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+        <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+        <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
         <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
         <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad2)"/>
-        <line x1="268" y1="54" x2="331" y2="14" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
-        <line x1="268" y1="54" x2="331" y2="94" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+        <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+        <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
         <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight2)"/>
-        <line x1="275" y1="42" x2="325" y2="20" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
+        <line x1="275" y1="42" x2="315" y2="25" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
       </svg>
       <span class="btn-label">Launch</span>
     </button>
