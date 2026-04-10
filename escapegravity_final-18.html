@@ -2532,23 +2532,21 @@
 
   /* ── Drop astronaut to tile 7 (exposed for force card flow) ── */
   window.dropToTile7 = function() {
-    // Move astronaut just a few steps down from current position
     var currentTop = parseFloat(tokBlue.style.top) || 0;
-    var dropDist = Math.max(80, cssH() * 0.22);
+    var dropDist = Math.max(80, cssH() * 0.22) - Math.max(18, cssH() * 0.042);
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.top = (currentTop + dropDist) + 'px';
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
   window.dropToTile3 = function() {
-    // Move token 5 steps down and 3 steps left from current position
     var currentTop = parseFloat(tokBlue.style.top) || 0;
     var currentLeft = parseFloat(tokBlue.style.left) || 0;
     var stepDown = Math.max(18, cssH() * 0.042);
     var stepLeft = Math.max(18, cssW() * 0.032);
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
-    tokBlue.style.top = (currentTop + stepDown * 5) + 'px';
-    tokBlue.style.left = (currentLeft - stepLeft * 3) + 'px';
+    tokBlue.style.top = (currentTop + stepDown * 2) + 'px';
+    tokBlue.style.left = (currentLeft - stepLeft * 2) + 'px';
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
@@ -2947,7 +2945,7 @@
       var brH = br ? br.clientHeight : 600;
       var brW = br ? br.clientWidth : 800;
       var curTop = parseFloat(inlineFc.style.top) || 0;
-      var dropDist = Math.max(80, brH * 0.22);
+      var dropDist = Math.max(80, brH * 0.22) - Math.max(18, brH * 0.042);
       inlineFc.style.top = (curTop + dropDist) + 'px';
       // Move bubble with token
       if (bubble) {
@@ -2966,14 +2964,14 @@
           var curLeft2 = parseFloat(inlineFc.style.left) || 0;
           var stepD = Math.max(18, brH * 0.042);
           var stepL = Math.max(18, brW * 0.032);
-          inlineFc.style.top = (curTop2 + stepD * 5) + 'px';
-          inlineFc.style.left = (curLeft2 - stepL * 3) + 'px';
+          inlineFc.style.top = (curTop2 + stepD * 2) + 'px';
+          inlineFc.style.left = (curLeft2 - stepL * 2) + 'px';
           // Move bubble with token
           if (bubble) {
             var bTop2 = parseFloat(bubble.style.top) || 0;
             var bLeft2 = parseFloat(bubble.style.left) || 0;
-            bubble.style.top = (bTop2 + stepD * 5) + 'px';
-            bubble.style.left = (bLeft2 - stepL * 3) + 'px';
+            bubble.style.top = (bTop2 + stepD * 2) + 'px';
+            bubble.style.left = (bLeft2 - stepL * 2) + 'px';
           }
 
           // Hide everything after final drop
