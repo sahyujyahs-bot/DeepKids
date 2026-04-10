@@ -1359,6 +1359,35 @@
     border: 2px solid #6b2155;
     box-shadow: 0 6px 20px rgba(0,0,0,0.6);
   }
+  /* Step 3 persistent card: right on desktop, top on mobile */
+  .s2-inline-fc.step3-card {
+    position: absolute;
+    top: auto; left: auto;
+    right: 3%; bottom: 50%;
+    transform: translateY(50%);
+    opacity: 0;
+    z-index: 45;
+  }
+  .s2-inline-fc.step3-card.show {
+    opacity: 1;
+    transform: translateY(50%) scale(1);
+  }
+  .s2-inline-fc.step3-card .s2-inline-fc-card {
+    width: clamp(180px, 26vw, 340px);
+  }
+  @media (max-width: 768px) {
+    .s2-inline-fc.step3-card {
+      right: 50%; bottom: auto;
+      top: 8%;
+      transform: translateX(50%);
+    }
+    .s2-inline-fc.step3-card.show {
+      transform: translateX(50%) scale(1);
+    }
+    .s2-inline-fc.step3-card .s2-inline-fc-card {
+      width: clamp(140px, 40vw, 240px);
+    }
+  }
   .s2-inline-fc-card img {
     width: 100%;
     height: auto;
@@ -2430,14 +2459,14 @@
   };
 
   window.dropToTile3 = function() {
-    // Move token 5 steps down and 5 steps left from current position
+    // Move token 5 steps down and 3 steps left from current position
     var currentTop = parseFloat(tokBlue.style.top) || 0;
     var currentLeft = parseFloat(tokBlue.style.left) || 0;
     var stepDown = Math.max(18, cssH() * 0.042);
     var stepLeft = Math.max(18, cssW() * 0.032);
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.top = (currentTop + stepDown * 5) + 'px';
-    tokBlue.style.left = (currentLeft - stepLeft * 5) + 'px';
+    tokBlue.style.left = (currentLeft - stepLeft * 3) + 'px';
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
@@ -2813,29 +2842,31 @@
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) bubble.classList.remove('show');
 
-    if (window.positionInlineFc) window.positionInlineFc();
     var inlineFc = document.getElementById('s2-inline-fc');
     var inlineFcText = document.getElementById('s2-inline-fc-text');
+
+    // Position card on right (desktop) / top (mobile) and keep visible
+    inlineFc.classList.add('step3-card');
+    inlineFc.style.left = ''; inlineFc.style.top = '';
     if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
     inlineFc.classList.add('show');
 
+    // Drop to tile 7
     setTimeout(function() {
-      inlineFc.classList.remove('show');
+      if (window.dropToTile7) window.dropToTile7();
+      // After drop, update text to "Only 1 Card"
       setTimeout(function() {
-        if (window.dropToTile7) window.dropToTile7();
-        // After dropping to tile 7, show "Only 1 Card" and drop to tile 3
+        if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
+        // Drop to tile 3
         setTimeout(function() {
-          if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
-          if (window.positionInlineFc) window.positionInlineFc();
-          inlineFc.classList.add('show');
+          if (window.dropToTile3) window.dropToTile3();
+          // Hide card after final drop
           setTimeout(function() {
             inlineFc.classList.remove('show');
-            setTimeout(function() {
-              if (window.dropToTile3) window.dropToTile3();
-            }, 600);
-          }, 3000);
-        }, 2000);
-      }, 600);
+            inlineFc.classList.remove('step3-card');
+          }, 2000);
+        }, 2500);
+      }, 2000);
     }, 3000);
   }
 
