@@ -2434,28 +2434,12 @@
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) bubble.classList.remove('show');
 
-    // Rotate 90° CW — puts tiles 11/7/3 on the right side, core at bottom
-    var rotation = Math.PI / 2;  // 90° clockwise
-    var tgtScale = 2.4;
-
-    var W = cssW(), H = cssH();
-    var nat = (window.boardImg && window.boardImg.naturalWidth) || 1200;
-    var imgScale = Math.min(W, H) / nat;
-    var dispW = nat * imgScale;
-    var bCX = (W - dispW) / 2 + BOARD_CENTER_NX * dispW;
-    var bCY = (H - dispW) / 2 + BOARD_CENTER_NY * dispW;
-
-    // Target: core at ~40% from left, 60% from top (well within view)
-    var tgtVpX = 0.40 * W;
-    var tgtVpY = 0.60 * H;
-    var focX = (tgtScale * bCX - tgtVpX) / (tgtScale - 1);
-    var focY = (tgtScale * bCY - tgtVpY) / (tgtScale - 1);
-    curFocusNX = BOARD_CENTER_NX + (bCY - focY) / dispW;
-    curFocusNY = 0.500 + (focX - bCX) / dispW;
-
-    currentScale = tgtScale;
-    currentRotation = rotation;
-    drawBoard(tgtScale, rotation);
+    // Full spiral, no rotation, centered on screen
+    currentScale = 1;
+    currentRotation = 0;
+    curFocusNX = BOARD_CENTER_NX;
+    curFocusNY = BOARD_CENTER_NY;
+    drawBoard(1, 0);
 
     // Hide dice/result UI
     diceWrap.classList.remove('show');
