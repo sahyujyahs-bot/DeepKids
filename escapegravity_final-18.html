@@ -4099,27 +4099,41 @@
   <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Spirals in the Universe</h2>
   <p class="spiral-subtitle eg-fade-in">The board is a spiral — because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
 
-  <!-- Spinning spiral board -->
-  <div class="spiral-wrap eg-fade-in">
-    <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
-    <p class="spiral-hint">Scroll, click or double-click to spin</p>
+  <!-- Spiral + flanking tiles layout -->
+  <div class="spiral-stage eg-fade-in">
+    <!-- Left tiles -->
+    <div class="spiral-side">
+      <div class="spiral-ex">
+        <div class="spiral-ex-placeholder">Escape trajectory out of Earth</div>
+      </div>
+      <div class="spiral-ex">
+        <div class="spiral-ex-placeholder">Galaxy — stars &amp; planets spiral by gravity</div>
+      </div>
+    </div>
+
+    <!-- Spinning spiral board -->
+    <div class="spiral-wrap">
+      <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
+      <p class="spiral-hint">Scroll, click or double-click to spin</p>
+    </div>
+
+    <!-- Right tiles -->
+    <div class="spiral-side">
+      <div class="spiral-ex">
+        <div class="spiral-ex-placeholder">Water spiralling down a drain</div>
+      </div>
+      <div class="spiral-ex">
+        <div class="spiral-ex-placeholder">Hurricane spirals</div>
+      </div>
+    </div>
   </div>
 
-  <!-- 4 universe spiral examples -->
-  <h3 class="spiral-examples-title eg-fade-in">Spirals Are Everywhere</h3>
-  <div class="spiral-examples eg-fade-in">
-    <div class="spiral-ex">
-      <div class="spiral-ex-placeholder">Escape trajectory out of Earth</div>
-    </div>
-    <div class="spiral-ex">
-      <div class="spiral-ex-placeholder">Galaxy — stars &amp; planets spiral by gravity</div>
-    </div>
-    <div class="spiral-ex">
-      <div class="spiral-ex-placeholder">Water spiralling down a drain</div>
-    </div>
-    <div class="spiral-ex">
-      <div class="spiral-ex-placeholder">Hurricane spirals</div>
-    </div>
+  <!-- Mobile only: horizontal scroll of all 4 -->
+  <div class="spiral-examples-mobile eg-fade-in">
+    <div class="spiral-ex"><div class="spiral-ex-placeholder">Escape trajectory out of Earth</div></div>
+    <div class="spiral-ex"><div class="spiral-ex-placeholder">Galaxy — stars &amp; planets spiral by gravity</div></div>
+    <div class="spiral-ex"><div class="spiral-ex-placeholder">Water spiralling down a drain</div></div>
+    <div class="spiral-ex"><div class="spiral-ex-placeholder">Hurricane spirals</div></div>
   </div>
 </section>
 
@@ -4135,21 +4149,33 @@
   line-height: 1.5;
 }
 
-/* Spiral board */
+/* Desktop: tiles | spiral | tiles */
+.spiral-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(14px, 2vw, 28px);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.spiral-side {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(10px, 1.5vw, 18px);
+  flex-shrink: 0;
+  width: clamp(140px, 18vw, 220px);
+}
 .spiral-wrap {
   text-align: center;
-  margin-bottom: clamp(30px, 4vh, 48px);
+  flex-shrink: 0;
 }
 .spiral-img {
-  width: clamp(300px, 55vw, 700px);
+  width: clamp(300px, 38vw, 540px);
   display: inline-block;
   cursor: pointer;
   transition: transform 0.05s linear;
   user-select: none;
   -webkit-user-select: none;
-}
-@media (max-width: 600px) {
-  .spiral-img { width: 92vw; }
 }
 .spiral-hint {
   font-family: 'Pompiere', sans-serif;
@@ -4160,27 +4186,7 @@
   margin-top: clamp(8px, 1vh, 14px);
 }
 
-/* Universe spiral examples */
-.spiral-examples-title {
-  font-family: 'Norwester', sans-serif;
-  font-variant: small-caps;
-  font-size: clamp(18px, 2.5vw, 30px);
-  color: #9cbc14;
-  text-align: center;
-  margin-bottom: clamp(16px, 2vh, 24px);
-}
-.spiral-examples {
-  display: flex;
-  gap: clamp(10px, 1.5vw, 18px);
-  justify-content: center;
-  padding: 0 clamp(12px, 3vw, 40px);
-  max-width: 960px;
-  margin: 0 auto;
-}
-.spiral-ex {
-  flex: 1;
-  min-width: 0;
-}
+/* Tile cards */
 .spiral-ex img {
   width: 100%;
   border-radius: clamp(8px, 1.2vw, 14px);
@@ -4202,15 +4208,28 @@
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-/* Mobile: horizontal scroll */
+
+/* Mobile-only horizontal scroll row (hidden on desktop) */
+.spiral-examples-mobile {
+  display: none;
+}
+
 @media (max-width: 680px) {
-  .spiral-examples {
+  /* Hide flanking tiles, show spiral full-width */
+  .spiral-side { display: none; }
+  .spiral-stage { display: block; text-align: center; }
+  .spiral-img { width: 92vw; }
+
+  /* Show mobile horizontal scroll */
+  .spiral-examples-mobile {
+    display: flex;
+    gap: clamp(10px, 3vw, 16px);
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scroll-snap-type: x mandatory;
-    justify-content: flex-start;
+    padding: clamp(16px, 3vh, 28px) clamp(12px, 4vw, 24px) 0;
   }
-  .spiral-ex {
+  .spiral-examples-mobile .spiral-ex {
     flex: 0 0 70%;
     scroll-snap-align: center;
   }
