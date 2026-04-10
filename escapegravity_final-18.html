@@ -185,22 +185,33 @@
       50%      { box-shadow: 0 6px 30px rgba(160,200,22,.45), 0 0 50px rgba(156,188,20,.15); }
     }
 
-    /* ── Pre-order button ──────────────────────────────────────── */
+    /* ── DK-shape button (used for pre-order, launch, etc.) ───── */
     .btn-wrap {
       position: relative;
       display: inline-block;
       cursor: pointer;
       animation: btn-bob 3.5s ease-in-out infinite;
-      /* Shift right so the D-shape (not the K fins) is centered under text.
-         The D occupies x 5–273 of 360 viewBox, center at ~139.
-         Total center is 180. Offset = (180-139)/360 ≈ 11.4% of button width. */
+      filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+      transition: filter .3s ease, transform .3s ease;
+      /* Shift right so the D-shape (not the K fins) is centered under text. */
       margin-left: clamp(10px, 4vw, 42px);
     }
-    .btn-wrap:hover  { filter: brightness(1.14); transform: translateX(5px) scale(1.05); animation: none; }
+    .btn-wrap:hover  {
+      filter: drop-shadow(0 0 22px rgba(156,188,20,0.6)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)) brightness(1.12);
+      transform: translateX(5px) scale(1.07);
+      animation: none;
+    }
     .btn-wrap:active { transform: translateX(2px) scale(.97);                            animation: none; }
     @keyframes btn-bob {
-      0%, 100% { transform: scale(1)    translateY(0);    }
-      50%       { transform: scale(1.03) translateY(-4px); }
+      0%, 100% { transform: scale(1)    translateY(0);    filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
+      50%       { transform: scale(1.03) translateY(-4px); filter: drop-shadow(0 0 22px rgba(156,188,20,0.55)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)); }
+    }
+    /* Inline button-wrap (inside forms, etc) — no margin shift, no native button styling */
+    .btn-wrap-inline {
+      margin-left: 0;
+      padding: 0;
+      border: none;
+      background: none;
     }
     .btn-svg {
       display: block;
@@ -397,6 +408,17 @@
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="dk-green-grad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#c0e638"/>
+            <stop offset="45%" stop-color="#9cbc14"/>
+            <stop offset="100%" stop-color="#6b8f08"/>
+          </linearGradient>
+          <linearGradient id="dk-highlight" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+            <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+          </linearGradient>
+        </defs>
         <!-- 1. K dark borders first — they go behind the D fill -->
         <line x1="268" y1="54" x2="334" y2="12"
               stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
@@ -407,15 +429,21 @@
         <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z"
               fill="none" stroke="#6b2155" stroke-width="9"/>
 
-        <!-- 3. D green fill -->
+        <!-- 3. D green fill with gradient -->
         <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z"
-              fill="#7aa010"/>
+              fill="url(#dk-green-grad)"/>
 
         <!-- 4. K green fills on top -->
         <line x1="268" y1="54" x2="331" y2="14"
-              stroke="#7aa010" stroke-width="13" stroke-linecap="round"/>
+              stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
         <line x1="268" y1="54" x2="331" y2="94"
-              stroke="#7aa010" stroke-width="13" stroke-linecap="round"/>
+              stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+
+        <!-- 5. 3D lighter green streak highlight on D top -->
+        <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z"
+              fill="url(#dk-highlight)"/>
+        <!-- Highlight on K top arm -->
+        <line x1="275" y1="42" x2="325" y2="20" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
@@ -961,6 +989,13 @@
   .s2-pin-item img {
     width: 100%; display: block;
   }
+  /* Small items: tokens, dice — shrink image inside its column */
+  .s2-pin-small img, .s2-pin-small svg {
+    width: 55%;
+    margin: 0 auto;
+  }
+  /* Large items inherit full width */
+  .s2-pin-large img { width: 100%; }
   .s2-pin-box {
     column-span: all;
   }
@@ -1011,42 +1046,42 @@
       <div class="s2-pin-lbl">Box</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-large">
       <img src="Copy of Core.png" alt="Board">
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-large">
       <img src="IMG_5098.jpeg" alt="Force Card Front">
       <div class="s2-pin-lbl">Force Cards &mdash; 13 Forces</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-large">
       <img src="IMG_5099.jpeg" alt="Force Card Back">
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-large">
       <img src="Lightest_Items_Wins.png" alt="Challenge Card">
       <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-large">
       <img src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back">
       <div class="s2-pin-lbl">Challenge Card Back</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-small">
       <img src="Blue astronaut front.png" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-small">
       <img src="Untitled_Artwork 7.png" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-small">
       <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
         <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
         <circle cx="20" cy="20" r="4" fill="#9cbc14"/><circle cx="44" cy="20" r="4" fill="#9cbc14"/>
@@ -3404,10 +3439,16 @@
   .eg-section {
     position: relative;
     background: transparent;
-    padding: clamp(60px,8vh,100px) clamp(16px,4vw,48px) clamp(40px,6vh,80px);
+    padding: clamp(60px,8vh,100px) 0 clamp(40px,6vh,80px);
     box-sizing: border-box;
     overflow: hidden;
     width: 100%;
+  }
+  .eg-section > h2,
+  .eg-section > p,
+  .eg-section > h3 {
+    padding-left: clamp(16px,4vw,48px);
+    padding-right: clamp(16px,4vw,48px);
   }
   .eg-section::before {
     content: '';
@@ -3767,14 +3808,15 @@
 
 <style>
 /* ── Every Turn Is A Lesson ────────────────────────────── */
-.s4b-panel { display: none; max-width: 960px; margin: 0 auto; }
-.s4b-panel.active { display: block; }
+.s4b-panel { display: none; max-width: 1400px; margin: 0 auto; padding: 0 clamp(12px,3vw,40px); }
+.s4b-panel.active { display: flex; flex-wrap: wrap; gap: clamp(20px, 3vw, 40px); align-items: center; justify-content: center; }
 
-/* Challenge card — full width with SVG bracket overlay */
+/* Challenge card — left side with bracket overlay */
 .s4b-annotated {
   position: relative;
-  max-width: 760px;
-  margin: 0 auto clamp(28px,4vh,44px);
+  flex: 1 1 540px;
+  max-width: 720px;
+  min-width: 340px;
 }
 .s4b-challenge-img {
   width: 85%;       /* leave room on right for bracket labels */
@@ -3790,17 +3832,17 @@
   overflow: visible;
 }
 
-/* Force card — large + connection side by side */
+/* Force card + connection — right side of challenge card on desktop */
 .s4b-bottom {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: clamp(20px, 3vw, 36px);
-  justify-content: center;
-  max-width: 760px;
-  margin: 0 auto;
+  gap: clamp(16px, 2vw, 28px);
+  flex: 0 0 auto;
+  max-width: 340px;
 }
 .s4b-fc-img {
-  width: clamp(200px, 30vw, 340px);
+  width: clamp(220px, 22vw, 320px);
   border-radius: clamp(10px, 1.5vw, 16px);
   box-shadow: 0 6px 28px rgba(0,0,0,0.5);
   display: block;
@@ -3808,16 +3850,17 @@
 }
 .s4b-connection {
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(15px, 1.7vw, 20px);
+  font-size: clamp(14px, 1.4vw, 18px);
   color: rgba(255,255,255,0.8);
   line-height: 1.6;
-  max-width: 380px;
+  text-align: center;
   margin: 0;
 }
 .s4b-connection em { color: #9cbc14; font-style: normal; font-weight: bold; }
 
-@media (max-width: 600px) {
-  .s4b-bottom { flex-direction: column-reverse; align-items: center; text-align: center; }
+@media (max-width: 900px) {
+  .s4b-panel.active { flex-direction: column; }
+  .s4b-bottom { flex-direction: column-reverse; max-width: 100%; }
   .s4b-fc-img { width: clamp(200px, 55vw, 300px); }
   .s4b-challenge-img { width: 80%; }
 }
@@ -5235,7 +5278,30 @@
   <p class="s6-text eg-fade-in">Be the first to know when EscapeGravity launches. Sign up for mission updates!</p>
   <form class="s6-form eg-fade-in" id="s6-form">
     <input type="email" class="s6-input" placeholder="your.email@mission.control" required>
-    <button type="submit" class="dk-btn s5-btn">Launch</button>
+    <button type="submit" class="btn-wrap btn-wrap-inline" aria-label="Launch">
+      <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="dk-green-grad2" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#c0e638"/>
+            <stop offset="45%" stop-color="#9cbc14"/>
+            <stop offset="100%" stop-color="#6b8f08"/>
+          </linearGradient>
+          <linearGradient id="dk-highlight2" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+            <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+          </linearGradient>
+        </defs>
+        <line x1="268" y1="54" x2="334" y2="12" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+        <line x1="268" y1="54" x2="334" y2="96" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+        <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
+        <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad2)"/>
+        <line x1="268" y1="54" x2="331" y2="14" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+        <line x1="268" y1="54" x2="331" y2="94" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+        <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight2)"/>
+        <line x1="275" y1="42" x2="325" y2="20" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
+      </svg>
+      <span class="btn-label">Launch</span>
+    </button>
   </form>
 </section>
 
