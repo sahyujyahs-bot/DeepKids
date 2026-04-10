@@ -1538,22 +1538,22 @@
     </div>
 
     <style>
-    /* ── Science — Spread tile collage ──────────────── */
+    /* ── Science — Eye/mandala tile collage ─────────── */
     #sci-collage {
       position: relative;
       width: 100%;
-      max-width: 1000px;
+      max-width: 900px;
       margin: 0 auto;
-      aspect-ratio: 5 / 4;
+      aspect-ratio: 6 / 5;
     }
     .sci-tile-shot {
       position: absolute;
       display: block;
       height: auto;
-      filter: drop-shadow(0 3px 10px rgba(0,0,0,0.5));
+      filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4));
     }
     @media (max-width: 600px) {
-      #sci-collage { aspect-ratio: 3 / 4; }
+      #sci-collage { aspect-ratio: 5 / 5; }
     }
     </style>
 
@@ -1942,29 +1942,35 @@
     <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Each Tile Carries Science</h2>
   </div>
   <div id="sci-collage">
-    <!-- Back layer: large arcs filling edges -->
-    <img class="sci-tile-shot" src="Section4.9.png" alt="Gravity Highest — Tile 13"
-         style="width:55%;top:-5%;left:-8%;transform:rotate(15deg);">
-    <img class="sci-tile-shot" src="Section4.1.png" alt="Ocean — Tile 12"
-         style="width:55%;top:-8%;right:-10%;left:auto;transform:rotate(-20deg);">
-    <img class="sci-tile-shot" src="Section4.5.png" alt="No Air — Tile 42"
-         style="width:55%;bottom:-5%;top:auto;left:5%;transform:rotate(-10deg);">
-    <img class="sci-tile-shot" src="Section4.4.png" alt="Time Speeds — Tile 28"
-         style="width:52%;bottom:-2%;top:auto;right:-5%;left:auto;transform:rotate(12deg);">
-
-    <!-- Middle layer: arcs filling the gaps -->
-    <img class="sci-tile-shot" src="Section4.7.png" alt="Airplanes — Tile 23"
-         style="width:50%;top:15%;left:25%;transform:rotate(-8deg);">
+    <!-- Outer ring — top of eye -->
     <img class="sci-tile-shot" src="Section4.3.png" alt="Mesosphere — Tile 35"
-         style="width:48%;top:28%;left:-3%;transform:rotate(25deg);">
-    <img class="sci-tile-shot" src="Section4.6.png" alt="Meteors — Tile 32"
-         style="width:48%;top:25%;right:-3%;left:auto;transform:rotate(-22deg);">
-    <img class="sci-tile-shot" src="Section4.2.png" alt="Time Slows — Tile 5"
-         style="width:45%;top:38%;left:28%;transform:rotate(5deg);">
+         style="width:50%;top:-2%;left:-2%;transform:rotate(10deg);">
+    <img class="sci-tile-shot" src="Section4.5.png" alt="No Air — Tile 42"
+         style="width:50%;top:-2%;left:auto;right:-2%;transform:rotate(-8deg);">
 
-    <!-- Core on top -->
+    <!-- Middle ring — left and right -->
+    <img class="sci-tile-shot" src="Section4.7.png" alt="Airplanes — Tile 23"
+         style="width:44%;top:16%;left:2%;transform:rotate(8deg);">
+    <img class="sci-tile-shot" src="Section4.4.png" alt="Time Speeds — Tile 28"
+         style="width:48%;top:14%;left:auto;right:-2%;transform:rotate(-6deg);">
+
+    <!-- Inner ring — ocean arc spanning center -->
+    <img class="sci-tile-shot" src="Section4.1.png" alt="Ocean — Tile 12"
+         style="width:46%;top:28%;left:15%;transform:rotate(6deg);">
+
+    <!-- Center — orange wedge -->
+    <img class="sci-tile-shot" src="Section4.2.png" alt="Time Slows — Tile 5"
+         style="width:40%;top:32%;left:30%;transform:rotate(2deg);z-index:1;">
+
+    <!-- Core circle — bottom center -->
     <img class="sci-tile-shot" src="Section4.8.png" alt="Core — Tile 0"
-         style="width:25%;top:50%;left:50%;transform:translate(-50%,-50%);z-index:3;">
+         style="width:18%;top:64%;left:50%;transform:translateX(-50%);z-index:3;">
+
+    <!-- Outer ring — bottom of eye (flipped arcs) -->
+    <img class="sci-tile-shot" src="Section4.9.png" alt="Gravity Highest — Tile 13"
+         style="width:52%;top:auto;bottom:-4%;left:-4%;transform:rotate(190deg);">
+    <img class="sci-tile-shot" src="Section4.6.png" alt="Meteors — Tile 32"
+         style="width:50%;top:auto;bottom:-2%;left:auto;right:-4%;transform:rotate(178deg);">
   </div>
 </section>
 
