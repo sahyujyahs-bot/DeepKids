@@ -2837,7 +2837,10 @@
     if (fcImg && overlaySrc) fcImg.src = overlaySrc.src;
 
     var bubble = document.getElementById('s2-comic-bubble');
-    if (bubble) bubble.classList.remove('show');
+    // Keep bubble visible — add transition so it follows token drops
+    if (bubble) {
+      bubble.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
+    }
 
     var inlineFc = document.getElementById('s2-inline-fc');
     var inlineFcText = document.getElementById('s2-inline-fc-text');
@@ -2858,6 +2861,11 @@
       var curTop = parseFloat(inlineFc.style.top) || 0;
       var dropDist = Math.max(80, brH * 0.22);
       inlineFc.style.top = (curTop + dropDist) + 'px';
+      // Move bubble with token
+      if (bubble) {
+        var bTop = parseFloat(bubble.style.top) || 0;
+        bubble.style.top = (bTop + dropDist) + 'px';
+      }
 
       // After drop settles, update text
       setTimeout(function() {
@@ -2872,11 +2880,22 @@
           var stepL = Math.max(18, brW * 0.032);
           inlineFc.style.top = (curTop2 + stepD * 5) + 'px';
           inlineFc.style.left = (curLeft2 - stepL * 3) + 'px';
+          // Move bubble with token
+          if (bubble) {
+            var bTop2 = parseFloat(bubble.style.top) || 0;
+            var bLeft2 = parseFloat(bubble.style.left) || 0;
+            bubble.style.top = (bTop2 + stepD * 5) + 'px';
+            bubble.style.left = (bLeft2 - stepL * 3) + 'px';
+          }
 
-          // Hide after final drop
+          // Hide everything after final drop
           setTimeout(function() {
             inlineFc.classList.remove('show');
             inlineFc.classList.remove('step3-card');
+            if (bubble) {
+              bubble.classList.remove('show');
+              bubble.style.transition = '';
+            }
           }, 2000);
         }, 2500);
       }, 2000);
