@@ -2546,36 +2546,47 @@
   window.ICON3_NX = ICON3_NX; window.ICON3_NY = ICON3_NY;
   window.jumpToState4 = jumpToState4;
 
-  /* ── DEBUG: Show tile markers ──────────────────────────────── */
-  /* Temporary overlay to verify tile 11, 7, 3, 2 positions.     */
-  /* Each tile gets a bright colored circle with its number.      */
+  /* ── DEBUG: Show 2 dots per tile ─────────────────────────────── */
+  /* Dot A (yellow) = left of the white text (empty space on tile) */
+  /* Dot B (cyan)   = right above the force-category icon          */
+  /* Coordinates are in ORIGINAL image space; tilePos() handles    */
+  /* rotation + zoom.  After -90° CCW rotation:                    */
+  /*   screen-left  = decrease NY   |  screen-up  = increase NX    */
   window.showTileMarkers = function() {
-    // Remove any existing markers
     document.querySelectorAll('.debug-tile-marker').forEach(function(el) { el.remove(); });
 
-    var tiles = [
-      { nx: TILE11_NX, ny: TILE11_NY, num: 11, color: '#FF0000' },   // Red
-      { nx: TILE7_NX,  ny: TILE7_NY,  num: 7,  color: '#00FF00' },   // Green
-      { nx: TILE3_NX,  ny: TILE3_NY,  num: 3,  color: '#0088FF' },   // Blue
-      { nx: TILE2_NX,  ny: TILE2_NY,  num: 2,  color: '#FF00FF' },   // Magenta
-      { nx: TILE10_NX, ny: TILE10_NY, num: 10, color: '#FFaa00' }    // Orange
+    // --- Dot positions (original image NX / NY) ---
+    // A = left-of-text   B = above-icon
+    var dots = [
+      // Tile 11 — Earth icon
+      { nx: 0.716, ny: 0.543, type: 'A', tile: 11 },  // left of text
+      { nx: 0.698, ny: 0.551, type: 'B', tile: 11 },  // above Earth icon
+      // Tile 7 — Any 2 Cards icon
+      { nx: 0.647, ny: 0.525, type: 'A', tile: 7 },
+      { nx: 0.635, ny: 0.533, type: 'B', tile: 7 },
+      // Tile 3 — Body icon
+      { nx: 0.587, ny: 0.510, type: 'A', tile: 3 },
+      { nx: 0.580, ny: 0.518, type: 'B', tile: 3 },
+      // Tile 2 — (icon type TBD)
+      { nx: 0.587, ny: 0.405, type: 'A', tile: 2 },
+      { nx: 0.583, ny: 0.419, type: 'B', tile: 2 }
     ];
-    var container = s2El;  // #s3 section
-    tiles.forEach(function(t) {
-      var pos = tilePos(t.nx, t.ny);
-      var dot = document.createElement('div');
-      dot.className = 'debug-tile-marker';
-      dot.style.cssText = 'position:absolute;z-index:99999;pointer-events:none;'
-        + 'width:48px;height:48px;border-radius:50%;'
-        + 'background:' + t.color + ';opacity:0.85;'
-        + 'display:flex;align-items:center;justify-content:center;'
-        + 'font-size:18px;font-weight:bold;color:#fff;text-shadow:0 0 3px #000;'
-        + 'border:3px solid #fff;box-shadow:0 0 8px rgba(0,0,0,0.5);'
-        + 'left:' + (pos.x - 24) + 'px;top:' + (pos.y - 24) + 'px;';
-      dot.textContent = t.num;
-      container.appendChild(dot);
+
+    var container = s2El;
+    var sz = 10; // px — small enough for mobile
+    dots.forEach(function(d) {
+      var pos = tilePos(d.nx, d.ny);
+      var el = document.createElement('div');
+      el.className = 'debug-tile-marker';
+      var bg = d.type === 'A' ? '#FFD600' : '#00E5FF'; // yellow = text, cyan = icon
+      el.style.cssText = 'position:absolute;z-index:99999;pointer-events:none;'
+        + 'width:' + sz + 'px;height:' + sz + 'px;border-radius:50%;'
+        + 'background:' + bg + ';'
+        + 'border:1.5px solid #fff;box-shadow:0 0 4px rgba(0,0,0,0.6);'
+        + 'left:' + (pos.x - sz/2) + 'px;top:' + (pos.y - sz/2) + 'px;';
+      container.appendChild(el);
     });
-    console.log('DEBUG: Tile markers shown — Red=11, Green=7, Blue=3, Magenta=2, Orange=10');
+    console.log('DEBUG dots — yellow = left-of-text, cyan = above-icon');
   };
   /* ── END DEBUG ─────────────────────────────────────────────── */
 
