@@ -3751,34 +3751,34 @@
   <!-- ── Example 1: Miss The Bucket ────────────────────── -->
   <div class="s4b-panel active" id="s4b-ex1">
 
-    <!-- Challenge card with arrow annotations -->
+    <!-- Challenge card with overlapping bracket annotations -->
     <div class="s4b-annotated eg-fade-in">
       <img class="s4b-challenge-img" src="IMG_5141.jpeg" alt="Miss The Bucket — Challenge Card">
-      <!-- SVG arrows overlaid -->
-      <svg class="s4b-arrows" viewBox="0 0 1000 520" preserveAspectRatio="none">
-        <defs>
-          <marker id="ah1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#e85d75"/></marker>
-          <marker id="ah2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#4fc3f7"/></marker>
-          <marker id="ah3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#9cbc14"/></marker>
-        </defs>
-        <!-- Physical Challenge → top half of card -->
-        <line x1="30" y1="200" x2="130" y2="200" stroke="#e85d75" stroke-width="2.5" marker-end="url(#ah1)"/>
-        <!-- Thinking Cue → bottom dashed area -->
-        <line x1="30" y1="410" x2="130" y2="410" stroke="#4fc3f7" stroke-width="2.5" marker-end="url(#ah2)"/>
-        <!-- Force Card Earned → very bottom -->
-        <line x1="30" y1="490" x2="130" y2="490" stroke="#9cbc14" stroke-width="2.5" marker-end="url(#ah3)"/>
+      <svg class="s4b-arrows" viewBox="0 0 100 54" preserveAspectRatio="xMidYMid meet">
+        <!-- Physical Challenge bracket: right side, top 5% to 65% -->
+        <line x1="96" y1="3" x2="96" y2="35" stroke="#e85d75" stroke-width="0.5"/>
+        <line x1="93" y1="3" x2="96" y2="3" stroke="#e85d75" stroke-width="0.5"/>
+        <line x1="93" y1="35" x2="96" y2="35" stroke="#e85d75" stroke-width="0.5"/>
+        <text x="99" y="20" fill="#e85d75" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Physical</text>
+        <text x="99" y="23.5" fill="#e85d75" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Challenge</text>
+        <!-- Thinking Cue bracket: right side, 65% to 85% -->
+        <line x1="96" y1="37" x2="96" y2="46" stroke="#4fc3f7" stroke-width="0.5"/>
+        <line x1="93" y1="37" x2="96" y2="37" stroke="#4fc3f7" stroke-width="0.5"/>
+        <line x1="93" y1="46" x2="96" y2="46" stroke="#4fc3f7" stroke-width="0.5"/>
+        <text x="99" y="41.5" fill="#4fc3f7" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Thinking</text>
+        <text x="99" y="45" fill="#4fc3f7" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Cue</text>
+        <!-- Force Card Earned bracket: right side, 85% to 98% -->
+        <line x1="96" y1="47.5" x2="96" y2="52" stroke="#9cbc14" stroke-width="0.5"/>
+        <line x1="93" y1="47.5" x2="96" y2="47.5" stroke="#9cbc14" stroke-width="0.5"/>
+        <line x1="93" y1="52" x2="96" y2="52" stroke="#9cbc14" stroke-width="0.5"/>
+        <text x="99" y="49.5" fill="#9cbc14" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Force Card</text>
+        <text x="99" y="53" fill="#9cbc14" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Earned</text>
       </svg>
-      <!-- Labels on the left -->
-      <div class="s4b-label" style="top:35%;color:#e85d75;">Physical Challenge</div>
-      <div class="s4b-label" style="top:76%;color:#4fc3f7;">Thinking Cue</div>
-      <div class="s4b-label" style="top:92%;color:#9cbc14;">Force Card Earned</div>
     </div>
 
-    <!-- Force card + connection -->
+    <!-- Force card large + connection -->
     <div class="s4b-bottom eg-fade-in">
-      <div class="s4b-fc-wrap">
-        <img class="s4b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity — Force Card (content side)">
-      </div>
+      <img class="s4b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity — Force Card (content side)">
       <p class="s4b-connection">
         The car rolls off the table and curves &mdash; it doesn&rsquo;t fall straight down.
         That curved path <em>is</em> sideways velocity in action.
@@ -3790,29 +3790,29 @@
   <!-- ── Example 2: One Leg Balance ────────────────────── -->
   <div class="s4b-panel" id="s4b-ex2">
 
-    <!-- Challenge card with arrow annotations -->
     <div class="s4b-annotated eg-fade-in">
       <img class="s4b-challenge-img" src="IMG_5149.jpeg" alt="One Leg Balance — Challenge Card">
-      <svg class="s4b-arrows" viewBox="0 0 1000 520" preserveAspectRatio="none">
-        <defs>
-          <marker id="bh1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#e85d75"/></marker>
-          <marker id="bh2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#4fc3f7"/></marker>
-          <marker id="bh3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#9cbc14"/></marker>
-        </defs>
-        <line x1="30" y1="200" x2="130" y2="200" stroke="#e85d75" stroke-width="2.5" marker-end="url(#bh1)"/>
-        <line x1="30" y1="410" x2="130" y2="410" stroke="#4fc3f7" stroke-width="2.5" marker-end="url(#bh2)"/>
-        <line x1="30" y1="490" x2="130" y2="490" stroke="#9cbc14" stroke-width="2.5" marker-end="url(#bh3)"/>
+      <svg class="s4b-arrows" viewBox="0 0 100 54" preserveAspectRatio="xMidYMid meet">
+        <line x1="96" y1="3" x2="96" y2="35" stroke="#e85d75" stroke-width="0.5"/>
+        <line x1="93" y1="3" x2="96" y2="3" stroke="#e85d75" stroke-width="0.5"/>
+        <line x1="93" y1="35" x2="96" y2="35" stroke="#e85d75" stroke-width="0.5"/>
+        <text x="99" y="20" fill="#e85d75" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Physical</text>
+        <text x="99" y="23.5" fill="#e85d75" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Challenge</text>
+        <line x1="96" y1="37" x2="96" y2="46" stroke="#4fc3f7" stroke-width="0.5"/>
+        <line x1="93" y1="37" x2="96" y2="37" stroke="#4fc3f7" stroke-width="0.5"/>
+        <line x1="93" y1="46" x2="96" y2="46" stroke="#4fc3f7" stroke-width="0.5"/>
+        <text x="99" y="41.5" fill="#4fc3f7" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Thinking</text>
+        <text x="99" y="45" fill="#4fc3f7" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Cue</text>
+        <line x1="96" y1="47.5" x2="96" y2="52" stroke="#9cbc14" stroke-width="0.5"/>
+        <line x1="93" y1="47.5" x2="96" y2="47.5" stroke="#9cbc14" stroke-width="0.5"/>
+        <line x1="93" y1="52" x2="96" y2="52" stroke="#9cbc14" stroke-width="0.5"/>
+        <text x="99" y="49.5" fill="#9cbc14" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Force Card</text>
+        <text x="99" y="53" fill="#9cbc14" font-size="3.2" font-family="Pompiere,sans-serif" text-anchor="start" dominant-baseline="middle">Earned</text>
       </svg>
-      <div class="s4b-label" style="top:35%;color:#e85d75;">Physical Challenge</div>
-      <div class="s4b-label" style="top:76%;color:#4fc3f7;">Thinking Cue</div>
-      <div class="s4b-label" style="top:92%;color:#9cbc14;">Force Card Earned</div>
     </div>
 
-    <!-- Force card + connection -->
     <div class="s4b-bottom eg-fade-in">
-      <div class="s4b-fc-wrap">
-        <img class="s4b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Force Card (content side)">
-      </div>
+      <img class="s4b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Force Card (content side)">
       <p class="s4b-connection">
         Spreading your arms shifts your center of gravity back over your base &mdash;
         that&rsquo;s why balancing gets easier.
@@ -3827,61 +3827,58 @@
 .s4b-panel { display: none; max-width: 960px; margin: 0 auto; }
 .s4b-panel.active { display: block; }
 
-/* Annotated challenge card — large, with arrow labels on left */
+/* Challenge card — full width with SVG bracket overlay */
 .s4b-annotated {
   position: relative;
-  max-width: 800px;
-  margin: 0 auto clamp(24px,3vh,36px);
-  padding-left: clamp(110px, 16vw, 180px);  /* room for labels */
+  max-width: 760px;
+  margin: 0 auto clamp(28px,4vh,44px);
 }
 .s4b-challenge-img {
-  width: 100%;
+  width: 85%;       /* leave room on right for bracket labels */
   display: block;
   border-radius: clamp(10px, 1.5vw, 16px);
   box-shadow: 0 6px 28px rgba(0,0,0,0.5);
 }
-
-/* SVG arrow overlay */
 .s4b-arrows {
   position: absolute;
   top: 0; left: 0;
   width: 100%; height: 100%;
   pointer-events: none;
+  overflow: visible;
 }
 
-/* Text labels positioned on the left */
-.s4b-label {
-  position: absolute;
-  left: 0;
-  transform: translateY(-50%);
-  font-family: 'Pompiere', sans-serif;
-  font-size: clamp(12px, 1.4vw, 17px);
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  white-space: nowrap;
-  font-weight: bold;
-}
-
-/* Force card + connection below */
+/* Force card — large + connection side by side */
 .s4b-bottom {
   display: flex;
   align-items: center;
-  gap: clamp(16px, 3vw, 32px);
+  gap: clamp(20px, 3vw, 36px);
   justify-content: center;
-  max-width: 800px;
+  max-width: 760px;
   margin: 0 auto;
 }
-@media (max-width: 600px) {
-  .s4b-bottom { flex-direction: column; }
-  .s4b-annotated { padding-left: clamp(80px, 22vw, 130px); }
-}
-.s4b-fc-wrap { flex-shrink: 0; }
 .s4b-fc-img {
-  width: clamp(150px, 22vw, 220px);
+  width: clamp(200px, 30vw, 340px);
   border-radius: clamp(10px, 1.5vw, 16px);
   box-shadow: 0 6px 28px rgba(0,0,0,0.5);
   display: block;
+  flex-shrink: 0;
 }
+.s4b-connection {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(15px, 1.7vw, 20px);
+  color: rgba(255,255,255,0.8);
+  line-height: 1.6;
+  max-width: 380px;
+  margin: 0;
+}
+.s4b-connection em { color: #9cbc14; font-style: normal; font-weight: bold; }
+
+@media (max-width: 600px) {
+  .s4b-bottom { flex-direction: column; align-items: center; text-align: center; }
+  .s4b-fc-img { width: clamp(200px, 55vw, 300px); }
+  .s4b-challenge-img { width: 80%; }
+}
+</style>
 
 /* Connection explanation */
 .s4b-connection {
