@@ -2533,9 +2533,13 @@
   /* ── Drop astronaut to tile 7 (exposed for force card flow) ── */
   window.dropToTile7 = function() {
     var currentTop = parseFloat(tokBlue.style.top) || 0;
-    var dropDist = Math.max(80, cssH() * 0.22) - Math.max(18, cssH() * 0.042);
-    tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1)';
+    var currentLeft = parseFloat(tokBlue.style.left) || 0;
+    var step = Math.max(18, cssH() * 0.042);
+    var stepL = Math.max(18, cssW() * 0.032);
+    var dropDist = Math.max(80, cssH() * 0.22) - step * 2;
+    tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.top = (currentTop + dropDist) + 'px';
+    tokBlue.style.left = (currentLeft - stepL * 2) + 'px';
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
@@ -2545,7 +2549,7 @@
     var stepDown = Math.max(18, cssH() * 0.042);
     var stepLeft = Math.max(18, cssW() * 0.032);
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
-    tokBlue.style.top = (currentTop + stepDown * 2) + 'px';
+    tokBlue.style.top = (currentTop + stepDown * 1) + 'px';
     tokBlue.style.left = (currentLeft - stepLeft * 2) + 'px';
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
@@ -2937,42 +2941,48 @@
     if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
     inlineFc.classList.add('show');
 
-    // Drop to tile 7 — move token AND inline-fc together
+    // Drop to tile 7 — move token, reposition text box + card above token
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
-      // Move inline-fc to follow token
       var br = document.getElementById('s2-board-row');
       var brH = br ? br.clientHeight : 600;
       var brW = br ? br.clientWidth : 800;
-      var curTop = parseFloat(inlineFc.style.top) || 0;
-      var dropDist = Math.max(80, brH * 0.22) - Math.max(18, brH * 0.042);
-      inlineFc.style.top = (curTop + dropDist) + 'px';
-      // Move bubble with token
+      var step = Math.max(18, brH * 0.042);
+      var stepL = Math.max(18, brW * 0.032);
+      var dropDist = Math.max(80, brH * 0.22) - step * 2;
+
+      // Move bubble and inline-fc: follow token down but offset up to stay in view
       if (bubble) {
         var bTop = parseFloat(bubble.style.top) || 0;
-        bubble.style.top = (bTop + dropDist) + 'px';
+        var bLeft = parseFloat(bubble.style.left) || 0;
+        bubble.style.top = Math.max(5, bTop + dropDist - step * 3) + 'px';
+        bubble.style.left = (bLeft - stepL * 2) + 'px';
       }
+      var curTop = parseFloat(inlineFc.style.top) || 0;
+      var curLeft = parseFloat(inlineFc.style.left) || 0;
+      inlineFc.style.top = Math.max(5, curTop + dropDist - step * 3) + 'px';
+      inlineFc.style.left = (curLeft - stepL * 2) + 'px';
 
       // After drop settles, update text
       setTimeout(function() {
         if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
 
-        // Drop to tile 3 — move token AND inline-fc together
+        // Drop to tile 3 — move token, reposition text box + card above
         setTimeout(function() {
           if (window.dropToTile3) window.dropToTile3();
-          var curTop2 = parseFloat(inlineFc.style.top) || 0;
-          var curLeft2 = parseFloat(inlineFc.style.left) || 0;
           var stepD = Math.max(18, brH * 0.042);
-          var stepL = Math.max(18, brW * 0.032);
-          inlineFc.style.top = (curTop2 + stepD * 2) + 'px';
-          inlineFc.style.left = (curLeft2 - stepL * 2) + 'px';
-          // Move bubble with token
+          var stepL2 = Math.max(18, brW * 0.032);
+
           if (bubble) {
             var bTop2 = parseFloat(bubble.style.top) || 0;
             var bLeft2 = parseFloat(bubble.style.left) || 0;
-            bubble.style.top = (bTop2 + stepD * 2) + 'px';
-            bubble.style.left = (bLeft2 - stepL * 2) + 'px';
+            bubble.style.top = Math.max(5, bTop2 + stepD * 1 - stepD * 2) + 'px';
+            bubble.style.left = (bLeft2 - stepL2 * 2) + 'px';
           }
+          var curTop2 = parseFloat(inlineFc.style.top) || 0;
+          var curLeft2 = parseFloat(inlineFc.style.left) || 0;
+          inlineFc.style.top = Math.max(5, curTop2 + stepD * 1 - stepD * 2) + 'px';
+          inlineFc.style.left = (curLeft2 - stepL2 * 2) + 'px';
 
           // Hide everything after final drop
           setTimeout(function() {
