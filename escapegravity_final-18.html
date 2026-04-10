@@ -3368,7 +3368,7 @@
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
 (function(){
   'use strict';
-  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s5','s6','s6b-gravity','s7','eg-footer'];
+  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s6b-gravity','s5','s6','s7','eg-footer'];
   const sectionEls = sectionIds.map(id => document.getElementById(id));
   const allNavLinks = document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a');
 
@@ -3861,6 +3861,115 @@
 })();
 </script>
 
+<!-- ═══════════════════════════════════════════════ S6b: LEARNING FULL CIRCLE ══ -->
+<section id="s6b-gravity" class="eg-section">
+  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(12px,2vh,20px);">The Learning Comes Full Circle</h2>
+  <p class="s6b-subtitle eg-fade-in">The science you learn through challenges and force cards isn't just for collecting &mdash; you use it to survive gravity wells on the board.</p>
+
+  <div class="s2-tabs eg-fade-in" style="margin-bottom:clamp(20px,3vh,36px);">
+    <button class="s2-tab s6b-tab active" data-tab="gw1">Tile 10</button>
+    <button class="s2-tab s6b-tab" data-tab="gw2">Tile 16</button>
+  </div>
+
+  <div class="s6b-panel active" id="s6b-gw1">
+    <div class="s6b-content eg-fade-in">
+      <div class="s6b-scenario">
+        <div class="s6b-tile-badge">Tile 10 &mdash; Earth&rsquo;s Surface</div>
+        <p class="s6b-desc">You play <strong>2 Speed Cards</strong> (Escape Velocity &amp; Sideways Velocity) to reach the ISS.</p>
+        <p class="s6b-desc">These are the 2 velocities needed in reality to reach &amp; stay in orbit. All the fuel is burnt to achieve these two speeds.</p>
+      </div>
+      <div class="s6b-cards">
+        <div class="s6b-fc-pair">
+          <img class="s6b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity — Speed">
+          <img class="s6b-fc-img" src="IMG_5098.jpeg" alt="Escape Velocity — Speed">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="s6b-panel" id="s6b-gw2">
+    <div class="s6b-content eg-fade-in">
+      <div class="s6b-scenario">
+        <div class="s6b-tile-badge">Tile 16 &mdash; Cliff Edge</div>
+        <p class="s6b-desc">You land on a cliff edge. You play the <strong>Balance &mdash; Center Of Gravity</strong> card to stay or fall down to a lower tile.</p>
+        <p class="s6b-desc">Losing balance at a cliff is deadly &mdash; the same Center of Gravity concept you discovered in the One Leg Balance challenge now saves your game.</p>
+      </div>
+      <div class="s6b-cards">
+        <div class="s6b-fc-pair">
+          <img class="s6b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Balance">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+.s6b-subtitle {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(15px, 1.7vw, 21px);
+  color: rgba(255,255,255,0.65);
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto clamp(16px, 2vh, 24px);
+  line-height: 1.5;
+}
+.s6b-panel { display: none; max-width: 800px; margin: 0 auto; }
+.s6b-panel.active { display: block; }
+.s6b-content {
+  display: flex;
+  align-items: center;
+  gap: clamp(20px, 3vw, 36px);
+}
+@media (max-width: 680px) {
+  .s6b-content { flex-direction: column; }
+}
+.s6b-scenario { flex: 1; }
+.s6b-tile-badge {
+  display: inline-block;
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(16px, 2vw, 22px);
+  color: #9cbc14;
+  border: 1px solid rgba(156,188,20,0.3);
+  padding: 4px 16px;
+  border-radius: 20px;
+  margin-bottom: clamp(10px, 1.5vh, 16px);
+}
+.s6b-desc {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(15px, 1.6vw, 19px);
+  color: rgba(255,255,255,0.85);
+  line-height: 1.6;
+  margin: 0 0 clamp(8px, 1vh, 12px);
+}
+.s6b-desc strong { color: #9cbc14; }
+.s6b-cards { flex-shrink: 0; }
+.s6b-fc-pair {
+  display: flex;
+  gap: clamp(8px, 1vw, 14px);
+}
+.s6b-fc-img {
+  width: clamp(120px, 18vw, 180px);
+  border-radius: clamp(8px, 1.2vw, 14px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  display: block;
+}
+</style>
+
+<script>
+(function(){
+  var tabs = document.querySelectorAll('.s6b-tab');
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      tabs.forEach(function(t) { t.classList.remove('active'); });
+      tab.classList.add('active');
+      document.querySelectorAll('.s6b-panel').forEach(function(p) { p.classList.remove('active'); });
+      document.getElementById('s6b-' + tab.getAttribute('data-tab')).classList.add('active');
+    });
+  });
+})();
+</script>
+
 <!-- ═══════════════════════════════════════════════ S5: ABOUT ══ -->
 <section id="s5" class="eg-section">
   <h2 class="eg-section-title s3-title eg-fade-in">About EscapeGravity</h2>
@@ -3936,122 +4045,6 @@
 
   </div>
 </section>
-
-<!-- ═══════════════════════════════════════════════ S6b: LEARNING FULL CIRCLE ══ -->
-<section id="s6b-gravity" class="eg-section">
-  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(12px,2vh,20px);">The Learning Comes Full Circle</h2>
-  <p class="s6b-subtitle eg-fade-in">The science you learn through challenges and force cards isn't just for collecting &mdash; you use it to survive gravity wells on the board.</p>
-
-  <!-- Tab bar -->
-  <div class="s2-tabs eg-fade-in" style="margin-bottom:clamp(20px,3vh,36px);">
-    <button class="s2-tab s6b-tab active" data-tab="gw1">Tile 10</button>
-    <button class="s2-tab s6b-tab" data-tab="gw2">Tile 16</button>
-  </div>
-
-  <!-- ── Tile 10 example ────────────────────── -->
-  <div class="s6b-panel active" id="s6b-gw1">
-    <div class="s6b-content eg-fade-in">
-      <div class="s6b-scenario">
-        <div class="s6b-tile-badge">Tile 10 &mdash; Earth&rsquo;s Surface</div>
-        <p class="s6b-desc">You play <strong>2 Speed Cards</strong> (Escape Velocity &amp; Sideways Velocity) to reach the ISS.</p>
-        <p class="s6b-desc">These are the 2 velocities needed in reality to reach &amp; stay in orbit. All the fuel is burnt to achieve these two speeds.</p>
-      </div>
-      <div class="s6b-cards">
-        <div class="s6b-fc-pair">
-          <img class="s6b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity — Speed">
-          <img class="s6b-fc-img" src="IMG_5098.jpeg" alt="Escape Velocity — Speed">
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- ── Tile 16 example ────────────────────── -->
-  <div class="s6b-panel" id="s6b-gw2">
-    <div class="s6b-content eg-fade-in">
-      <div class="s6b-scenario">
-        <div class="s6b-tile-badge">Tile 16 &mdash; Cliff Edge</div>
-        <p class="s6b-desc">You land on a cliff edge. You play the <strong>Balance &mdash; Center Of Gravity</strong> card to stay or fall down to a lower tile.</p>
-        <p class="s6b-desc">Losing balance at a cliff is deadly &mdash; the same Center of Gravity concept you discovered in the One Leg Balance challenge now saves your game.</p>
-      </div>
-      <div class="s6b-cards">
-        <div class="s6b-fc-pair">
-          <img class="s6b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Balance">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<style>
-/* ── Learning Comes Full Circle ───────────────────────── */
-.s6b-subtitle {
-  font-family: 'Pompiere', sans-serif;
-  font-size: clamp(15px, 1.7vw, 21px);
-  color: rgba(255,255,255,0.65);
-  text-align: center;
-  max-width: 640px;
-  margin: 0 auto clamp(16px, 2vh, 24px);
-  line-height: 1.5;
-}
-.s6b-panel { display: none; max-width: 800px; margin: 0 auto; }
-.s6b-panel.active { display: block; }
-
-.s6b-content {
-  display: flex;
-  align-items: center;
-  gap: clamp(20px, 3vw, 36px);
-}
-@media (max-width: 680px) {
-  .s6b-content { flex-direction: column; }
-}
-
-.s6b-scenario { flex: 1; }
-.s6b-tile-badge {
-  display: inline-block;
-  font-family: 'Norwester', sans-serif;
-  font-variant: small-caps;
-  font-size: clamp(16px, 2vw, 22px);
-  color: #9cbc14;
-  border: 1px solid rgba(156,188,20,0.3);
-  padding: 4px 16px;
-  border-radius: 20px;
-  margin-bottom: clamp(10px, 1.5vh, 16px);
-}
-.s6b-desc {
-  font-family: 'Pompiere', sans-serif;
-  font-size: clamp(15px, 1.6vw, 19px);
-  color: rgba(255,255,255,0.85);
-  line-height: 1.6;
-  margin: 0 0 clamp(8px, 1vh, 12px);
-}
-.s6b-desc strong { color: #9cbc14; }
-
-.s6b-cards { flex-shrink: 0; }
-.s6b-fc-pair {
-  display: flex;
-  gap: clamp(8px, 1vw, 14px);
-}
-.s6b-fc-img {
-  width: clamp(120px, 18vw, 180px);
-  border-radius: clamp(8px, 1.2vw, 14px);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
-  display: block;
-}
-</style>
-
-<script>
-(function(){
-  var tabs = document.querySelectorAll('.s6b-tab');
-  tabs.forEach(function(tab) {
-    tab.addEventListener('click', function() {
-      tabs.forEach(function(t) { t.classList.remove('active'); });
-      tab.classList.add('active');
-      document.querySelectorAll('.s6b-panel').forEach(function(p) { p.classList.remove('active'); });
-      document.getElementById('s6b-' + tab.getAttribute('data-tab')).classList.add('active');
-    });
-  });
-})();
-</script>
 
 <!-- ═══════════════════════════════════════════════ S5: CONTACT ══ -->
 <section id="s7" class="eg-section">
