@@ -2436,7 +2436,7 @@
 
     // Rotate 180° CCW so top quadrant of spiral is above the core
     var rotation = -Math.PI;  // 180° counter-clockwise
-    var tgtScale = 3.2;
+    var tgtScale = 2.4;
 
     var W = cssW(), H = cssH();
     var nat = (window.boardImg && window.boardImg.naturalWidth) || 1200;
@@ -2445,9 +2445,9 @@
     var bCX = (W - dispW) / 2 + BOARD_CENTER_NX * dispW;
     var bCY = (H - dispW) / 2 + BOARD_CENTER_NY * dispW;
 
-    // Target: core at ~15% from left, 78% from top (moved up, less left space)
-    var tgtVpX = 0.15 * W;
-    var tgtVpY = 0.78 * H;
+    // Target: core at ~40% from left, 60% from top (well within view)
+    var tgtVpX = 0.40 * W;
+    var tgtVpY = 0.60 * H;
     var focX = (tgtScale * bCX - tgtVpX) / (tgtScale - 1);
     var focY = (tgtScale * bCY - tgtVpY) / (tgtScale - 1);
     curFocusNX = BOARD_CENTER_NX + (bCY - focY) / dispW;
