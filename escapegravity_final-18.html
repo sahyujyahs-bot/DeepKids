@@ -2007,6 +2007,8 @@
   const TILE7_NY         = 0.536;
   const TILE3_NX         = 0.579;  // tile 3 — same angle as tile 11, ~35% radius
   const TILE3_NY         = 0.520;
+  const TILE2_NX         = 0.548;  // tile 2 — next ring inward from tile 3
+  const TILE2_NY         = 0.511;
   // Force category icon positions within each tile (inner edge of arc)
   const ICON11_NX        = 0.6895; // Earth icon on tile 11
   const ICON11_NY        = 0.5506;
@@ -2553,6 +2555,7 @@
   window.TILE11_NX = TILE11_NX; window.TILE11_NY = TILE11_NY;
   window.TILE7_NX = TILE7_NX; window.TILE7_NY = TILE7_NY;
   window.TILE3_NX = TILE3_NX; window.TILE3_NY = TILE3_NY;
+  window.TILE2_NX = TILE2_NX; window.TILE2_NY = TILE2_NY;
   window.TILE10_NX = TILE10_NX; window.TILE10_NY = TILE10_NY;
   window.ICON11_NX = ICON11_NX; window.ICON11_NY = ICON11_NY;
   window.ICON7_NX = ICON7_NX; window.ICON7_NY = ICON7_NY;
@@ -2577,6 +2580,16 @@
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.left = (p3.x + sr) + 'px';
     tokBlue.style.top  = (p3.y + sd) + 'px';
+    setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
+  };
+
+  window.dropToTile2 = function() {
+    var p2 = tilePos(TILE2_NX, TILE2_NY);
+    var sr = Math.max(18, cssW() * 0.032);
+    var sd = Math.max(18, cssH() * 0.042);
+    tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
+    tokBlue.style.left = (p2.x + sr) + 'px';
+    tokBlue.style.top  = (p2.y + sd) + 'px';
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
@@ -3010,14 +3023,35 @@
           }
           if (window.positionInlineFc) window.positionInlineFc();
 
-          // Hide inline force card label after drop settles (keep bubble visible)
+          // After tile 3 drop settles, update text and drop to tile 2
           setTimeout(function() {
-            inlineFc.classList.remove('show');
-            inlineFc.classList.remove('step3-card');
-            if (bubble) {
-              bubble.style.transition = '';
-            }
-          }, 5000);
+            if (inlineFcText) inlineFcText.textContent = 'No Cards Left — Drop Again!';
+
+            setTimeout(function() {
+              if (window.dropToTile2) window.dropToTile2();
+
+              // Move bubble at the same time as the token
+              var tok2pos = window.tilePos(window.TILE2_NX, window.TILE2_NY);
+              if (bubble) {
+                var bW2 = bubble.offsetWidth || 200;
+                var bH2 = bubble.offsetHeight || 100;
+                bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
+                bubble.style.left = Math.max(5, tok2pos.x + 60) + 'px';
+                var tile2UpOffset = window.innerWidth <= 768 ? 180 : 140;
+                bubble.style.top = Math.max(5, tok2pos.y - bH2 - tile2UpOffset) + 'px';
+              }
+              if (window.positionInlineFc) window.positionInlineFc();
+
+              // Hide inline force card label after drop settles (keep bubble visible)
+              setTimeout(function() {
+                inlineFc.classList.remove('show');
+                inlineFc.classList.remove('step3-card');
+                if (bubble) {
+                  bubble.style.transition = '';
+                }
+              }, 5000);
+            }, 2500);
+          }, 2000);
         }, 2500);
       }, 2000);
     }, 3000);
