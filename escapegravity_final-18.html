@@ -3368,7 +3368,7 @@
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
 (function(){
   'use strict';
-  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s6b-gravity','s5','s6','s7','eg-footer'];
+  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s6b-gravity','s-spiral','s5','s6','s7','eg-footer'];
   const sectionEls = sectionIds.map(id => document.getElementById(id));
   const allNavLinks = document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a');
 
@@ -4090,6 +4090,195 @@
     fan.addEventListener('click', function() {
       fan.classList.toggle('swapped');
     });
+  }
+})();
+</script>
+
+<!-- ═══════════════════════════════════════════════ S-SPIRAL: SPIRALS ══ -->
+<section id="s-spiral" class="eg-section">
+  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Spirals in the Universe</h2>
+  <p class="spiral-subtitle eg-fade-in">The board is a spiral — because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
+
+  <!-- Spinning spiral board -->
+  <div class="spiral-wrap eg-fade-in">
+    <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
+    <p class="spiral-hint">Scroll, click or double-click to spin</p>
+  </div>
+
+  <!-- 4 universe spiral examples -->
+  <h3 class="spiral-examples-title eg-fade-in">Spirals Are Everywhere</h3>
+  <div class="spiral-examples eg-fade-in">
+    <div class="spiral-ex">
+      <div class="spiral-ex-placeholder">Escape trajectory out of Earth</div>
+    </div>
+    <div class="spiral-ex">
+      <div class="spiral-ex-placeholder">Galaxy — stars &amp; planets spiral by gravity</div>
+    </div>
+    <div class="spiral-ex">
+      <div class="spiral-ex-placeholder">Water spiralling down a drain</div>
+    </div>
+    <div class="spiral-ex">
+      <div class="spiral-ex-placeholder">Hurricane spirals</div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ── Spirals section ─────────────────────────────────── */
+.spiral-subtitle {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(15px, 1.7vw, 21px);
+  color: rgba(255,255,255,0.65);
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto clamp(20px, 3vh, 36px);
+  line-height: 1.5;
+}
+
+/* Spiral board */
+.spiral-wrap {
+  text-align: center;
+  margin-bottom: clamp(30px, 4vh, 48px);
+}
+.spiral-img {
+  width: clamp(250px, 40vw, 480px);
+  display: inline-block;
+  cursor: pointer;
+  transition: transform 0.05s linear;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.spiral-hint {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(12px, 1.2vw, 15px);
+  color: rgba(255,255,255,0.35);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: clamp(8px, 1vh, 14px);
+}
+
+/* Universe spiral examples */
+.spiral-examples-title {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(18px, 2.5vw, 30px);
+  color: #9cbc14;
+  text-align: center;
+  margin-bottom: clamp(16px, 2vh, 24px);
+}
+.spiral-examples {
+  display: flex;
+  gap: clamp(10px, 1.5vw, 18px);
+  justify-content: center;
+  padding: 0 clamp(12px, 3vw, 40px);
+  max-width: 960px;
+  margin: 0 auto;
+}
+.spiral-ex {
+  flex: 1;
+  min-width: 0;
+}
+.spiral-ex img {
+  width: 100%;
+  border-radius: clamp(8px, 1.2vw, 14px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+  display: block;
+}
+.spiral-ex-placeholder {
+  aspect-ratio: 4 / 3;
+  border-radius: clamp(8px, 1.2vw, 14px);
+  border: 2px dashed rgba(156,188,20,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 12px;
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(11px, 1.2vw, 15px);
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+/* Mobile: horizontal scroll */
+@media (max-width: 680px) {
+  .spiral-examples {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    justify-content: flex-start;
+  }
+  .spiral-ex {
+    flex: 0 0 70%;
+    scroll-snap-align: center;
+  }
+}
+</style>
+
+<script>
+(function(){
+  var img = document.getElementById('spiral-board');
+  if (!img) return;
+
+  var angle = 0;
+  var clickDir = 1;      // alternates: +1 / -1
+  var dblDir = 1;         // alternates for double-click
+  var spinning = false;
+
+  function setAngle(a) {
+    angle = a;
+    img.style.transform = 'rotate(' + a + 'deg)';
+  }
+
+  // ── Scroll: rotate with scroll delta ───────────────
+  var section = document.getElementById('s-spiral');
+  var lastY = 0;
+  window.addEventListener('scroll', function() {
+    if (!section) return;
+    var rect = section.getBoundingClientRect();
+    // Only respond when section is in viewport
+    if (rect.bottom < 0 || rect.top > window.innerHeight) return;
+    var y = window.pageYOffset;
+    var delta = y - lastY;
+    lastY = y;
+    setAngle(angle + delta * 0.5);
+  });
+  lastY = window.pageYOffset;
+
+  // ── Single click: 1 full spin, alternating direction ─
+  img.addEventListener('click', function(e) {
+    if (spinning) return;
+    spinning = true;
+    var target = angle + clickDir * 360;
+    clickDir *= -1;
+    animateSpin(target, 800, function() { spinning = false; });
+  });
+
+  // ── Double click: 5 full spins, alternating direction ─
+  img.addEventListener('dblclick', function(e) {
+    e.preventDefault();
+    spinning = true;
+    var target = angle + dblDir * 360 * 5;
+    dblDir *= -1;
+    animateSpin(target, 2500, function() { spinning = false; });
+  });
+
+  function animateSpin(target, duration, cb) {
+    var start = angle;
+    var startTime = null;
+    function frame(ts) {
+      if (!startTime) startTime = ts;
+      var t = Math.min((ts - startTime) / duration, 1);
+      // ease out
+      var e = 1 - Math.pow(1 - t, 3);
+      setAngle(start + (target - start) * e);
+      if (t < 1) {
+        requestAnimationFrame(frame);
+      } else {
+        setAngle(target);
+        if (cb) cb();
+      }
+    }
+    requestAnimationFrame(frame);
   }
 })();
 </script>
