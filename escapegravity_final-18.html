@@ -1538,22 +1538,15 @@
     </div>
 
     <style>
-    /* ── Science — Eye/mandala tile collage ─────────── */
+    /* ── Science — Collage image ──────────────────── */
     #sci-collage {
-      position: relative;
-      width: 100%;
+      text-align: center;
+      padding: 0 clamp(8px, 2vw, 24px);
+    }
+    #sci-collage img {
       max-width: 900px;
-      margin: 0 auto;
-      aspect-ratio: 6 / 5;
-    }
-    .sci-tile-shot {
-      position: absolute;
-      display: block;
-      height: auto;
-      filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4));
-    }
-    @media (max-width: 600px) {
-      #sci-collage { aspect-ratio: 5 / 5; }
+      width: 100%;
+      display: inline-block;
     }
     </style>
 
@@ -1942,35 +1935,10 @@
     <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Each Tile Carries Science</h2>
   </div>
   <div id="sci-collage">
-    <!-- Outer ring — top of eye -->
-    <img class="sci-tile-shot" src="Section4.3.png" alt="Mesosphere — Tile 35"
-         style="width:50%;top:-2%;left:-2%;transform:rotate(10deg);">
-    <img class="sci-tile-shot" src="Section4.5.png" alt="No Air — Tile 42"
-         style="width:50%;top:-2%;left:auto;right:-2%;transform:rotate(-8deg);">
-
-    <!-- Middle ring — left and right -->
-    <img class="sci-tile-shot" src="Section4.7.png" alt="Airplanes — Tile 23"
-         style="width:44%;top:16%;left:2%;transform:rotate(8deg);">
-    <img class="sci-tile-shot" src="Section4.4.png" alt="Time Speeds — Tile 28"
-         style="width:48%;top:14%;left:auto;right:-2%;transform:rotate(-6deg);">
-
-    <!-- Inner ring — ocean arc spanning center -->
-    <img class="sci-tile-shot" src="Section4.1.png" alt="Ocean — Tile 12"
-         style="width:46%;top:28%;left:15%;transform:rotate(6deg);">
-
-    <!-- Center — orange wedge -->
-    <img class="sci-tile-shot" src="Section4.2.png" alt="Time Slows — Tile 5"
-         style="width:40%;top:32%;left:30%;transform:rotate(2deg);z-index:1;">
-
-    <!-- Core circle — bottom center -->
-    <img class="sci-tile-shot" src="Section4.8.png" alt="Core — Tile 0"
-         style="width:18%;top:64%;left:50%;transform:translateX(-50%);z-index:3;">
-
-    <!-- Outer ring — bottom of eye (flipped arcs) -->
-    <img class="sci-tile-shot" src="Section4.9.png" alt="Gravity Highest — Tile 13"
-         style="width:52%;top:auto;bottom:-4%;left:-4%;transform:rotate(190deg);">
-    <img class="sci-tile-shot" src="Section4.6.png" alt="Meteors — Tile 32"
-         style="width:50%;top:auto;bottom:-2%;left:auto;right:-4%;transform:rotate(178deg);">
+    <picture>
+      <source media="(max-width: 600px)" srcset="Section4 collage mobile.png">
+      <img src="Section4 collage.png" alt="Each Tile Carries Science — tile close-ups collage">
+    </picture>
   </div>
 </section>
 
