@@ -3368,7 +3368,7 @@
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
 (function(){
   'use strict';
-  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s6b-gravity','s-spiral','s-forces','s-experience','s5','s6','s7','eg-footer'];
+  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s6b-gravity','s-spiral','s-forces','s-experience','s-game','s5','s6','s7','eg-footer'];
   const sectionEls = sectionIds.map(id => document.getElementById(id));
   const allNavLinks = document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a');
 
@@ -4566,6 +4566,420 @@
   .exp-grid { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
+
+<!-- ═══════════════════════════════════════════════ S-GAME: MINI GAME ══ -->
+<section id="s-game" class="eg-section">
+  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Escape the Gravity Wells!</h2>
+  <p class="game-subtitle eg-fade-in">Collect force cards and survive the gravity wells. Tap or press Space to jump.</p>
+  <div class="game-wrap eg-fade-in">
+    <canvas id="eg-runner" width="800" height="320"></canvas>
+    <div class="game-hud" id="game-hud"></div>
+    <div class="game-overlay" id="game-overlay">
+      <div class="game-overlay-text" id="game-overlay-text">Tap or Press Space to Start</div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ── Mini Runner Game ────────────────────────────────── */
+.game-subtitle {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(14px, 1.5vw, 19px);
+  color: rgba(255,255,255,0.55);
+  text-align: center;
+  margin: 0 auto clamp(16px, 2vh, 24px);
+}
+.game-wrap {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: clamp(10px, 1.5vw, 16px);
+  overflow: hidden;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+  border: 1px solid rgba(156,188,20,0.15);
+}
+#eg-runner {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #0a0618;
+}
+.game-hud {
+  position: absolute;
+  top: 8px; left: 8px;
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  max-width: 60%;
+}
+.game-hud .hud-coin {
+  width: 22px; height: 22px;
+  border-radius: 50%;
+  border: 1.5px solid #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: bold;
+  color: #fff;
+}
+.game-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(10,6,24,0.75);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.game-overlay.hidden { display: none; }
+.game-overlay-text {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(18px, 3vw, 28px);
+  color: #9cbc14;
+  text-align: center;
+  text-shadow: 0 0 20px rgba(156,188,20,0.4);
+}
+</style>
+
+<script>
+(function(){
+  'use strict';
+  var cv = document.getElementById('eg-runner');
+  if (!cv) return;
+  var ctx = cv.getContext('2d');
+  var overlay = document.getElementById('game-overlay');
+  var overlayText = document.getElementById('game-overlay-text');
+  var hudEl = document.getElementById('game-hud');
+
+  var W = 800, H = 320;
+  var GROUND = H - 50;
+  var GRAVITY = 0.6;
+  var JUMP_VEL = -11;
+  var SCROLL_SPEED = 3.5;
+
+  // Force categories
+  var CATS = [
+    { key: 'earth',   color: '#4caf50', label: 'E' },
+    { key: 'air',     color: '#81d4fa', label: 'A' },
+    { key: 'water',   color: '#29b6f6', label: 'W' },
+    { key: 'body',    color: '#ef5350', label: 'B' },
+    { key: 'speed',   color: '#ab47bc', label: 'S' },
+    { key: 'energy',  color: '#ffa726', label: 'N' },
+    { key: 'balance', color: '#5c6bc0', label: 'L' }
+  ];
+
+  // Gravity well types — each requires a specific force category
+  var WELLS = [
+    { name: 'Cliff!',      cat: 'balance', color: '#5c6bc0' },
+    { name: 'Ocean!',      cat: 'water',   color: '#29b6f6' },
+    { name: 'Sinkhole!',   cat: 'earth',   color: '#4caf50' },
+    { name: 'Air Drag!',   cat: 'air',     color: '#81d4fa' },
+    { name: 'Freefall!',   cat: 'speed',   color: '#ab47bc' },
+    { name: 'Exhaustion!', cat: 'body',    color: '#ef5350' },
+    { name: 'Blackout!',   cat: 'energy',  color: '#ffa726' }
+  ];
+
+  // Player
+  var player = { x: 80, y: GROUND, vy: 0, w: 28, h: 40, onGround: true };
+  var inventory = [];  // collected force keys
+  var coins = [];
+  var wells = [];
+  var stars = [];
+  var score = 0;
+  var dist = 0;
+  var gameState = 'idle'; // idle, running, dead
+  var deadTimer = 0;
+  var flashMsg = '';
+  var flashTimer = 0;
+
+  // Generate stars background
+  for (var i = 0; i < 60; i++) {
+    stars.push({ x: Math.random() * W, y: Math.random() * (GROUND - 20), s: Math.random() * 1.5 + 0.5, sp: Math.random() * 0.3 + 0.1 });
+  }
+
+  function spawnCoin() {
+    var cat = CATS[Math.floor(Math.random() * CATS.length)];
+    coins.push({
+      x: W + Math.random() * 200,
+      y: GROUND - 50 - Math.random() * 120,
+      r: 14,
+      cat: cat,
+      collected: false
+    });
+  }
+
+  function spawnWell() {
+    var w = WELLS[Math.floor(Math.random() * WELLS.length)];
+    wells.push({
+      x: W + Math.random() * 100,
+      w: 60, h: 40,
+      well: w,
+      passed: false
+    });
+  }
+
+  function reset() {
+    player.y = GROUND; player.vy = 0; player.onGround = true;
+    inventory = [];
+    coins = [];
+    wells = [];
+    score = 0;
+    dist = 0;
+    flashMsg = '';
+    flashTimer = 0;
+    // Seed some initial coins
+    for (var i = 0; i < 3; i++) {
+      var c = CATS[Math.floor(Math.random() * CATS.length)];
+      coins.push({ x: 300 + i * 180, y: GROUND - 60 - Math.random() * 80, r: 14, cat: c, collected: false });
+    }
+  }
+
+  function jump() {
+    if (player.onGround) {
+      player.vy = JUMP_VEL;
+      player.onGround = false;
+    }
+  }
+
+  function updateHud() {
+    hudEl.innerHTML = '';
+    inventory.forEach(function(key) {
+      var cat = CATS.find(function(c) { return c.key === key; });
+      if (!cat) return;
+      var el = document.createElement('div');
+      el.className = 'hud-coin';
+      el.style.background = cat.color;
+      el.textContent = cat.label;
+      hudEl.appendChild(el);
+    });
+  }
+
+  function update() {
+    if (gameState !== 'running') return;
+
+    dist += SCROLL_SPEED;
+
+    // Spawn
+    if (Math.random() < 0.025) spawnCoin();
+    if (dist > 400 && Math.random() < 0.008) spawnWell();
+
+    // Player physics
+    player.vy += GRAVITY;
+    player.y += player.vy;
+    if (player.y >= GROUND) {
+      player.y = GROUND;
+      player.vy = 0;
+      player.onGround = true;
+    }
+
+    // Scroll & collide coins
+    for (var i = coins.length - 1; i >= 0; i--) {
+      var c = coins[i];
+      c.x -= SCROLL_SPEED;
+      if (c.x < -30) { coins.splice(i, 1); continue; }
+      if (c.collected) continue;
+      var dx = (player.x + player.w / 2) - c.x;
+      var dy = (player.y - player.h / 2) - c.y;
+      if (Math.sqrt(dx * dx + dy * dy) < c.r + 16) {
+        c.collected = true;
+        inventory.push(c.cat.key);
+        score++;
+        updateHud();
+      }
+    }
+
+    // Scroll & collide wells
+    for (var j = wells.length - 1; j >= 0; j--) {
+      var w = wells[j];
+      w.x -= SCROLL_SPEED;
+      if (w.x < -80) { wells.splice(j, 1); continue; }
+      if (w.passed) continue;
+      // Check collision
+      if (player.x + player.w > w.x && player.x < w.x + w.w && player.onGround) {
+        w.passed = true;
+        var idx = inventory.indexOf(w.well.cat);
+        if (idx !== -1) {
+          inventory.splice(idx, 1);
+          updateHud();
+          flashMsg = w.well.name + ' Force card used!';
+          flashTimer = 90;
+        } else {
+          // DEAD
+          gameState = 'dead';
+          deadTimer = 120;
+          flashMsg = w.well.name + ' No ' + CATS.find(function(c){return c.key===w.well.cat;}).key + ' card!';
+          flashTimer = 120;
+          return;
+        }
+      }
+    }
+
+    // Remove collected coins
+    coins = coins.filter(function(c) { return !c.collected || c.x > -30; });
+
+    if (flashTimer > 0) flashTimer--;
+  }
+
+  function draw() {
+    ctx.clearRect(0, 0, W, H);
+
+    // Stars
+    stars.forEach(function(s) {
+      s.x -= s.sp;
+      if (s.x < 0) { s.x = W; s.y = Math.random() * (GROUND - 20); }
+      ctx.fillStyle = 'rgba(255,255,255,' + (s.s / 2) + ')';
+      ctx.fillRect(s.x, s.y, s.s, s.s);
+    });
+
+    // Ground
+    ctx.fillStyle = '#1a0a2e';
+    ctx.fillRect(0, GROUND, W, H - GROUND);
+    ctx.strokeStyle = 'rgba(156,188,20,0.3)';
+    ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(0, GROUND); ctx.lineTo(W, GROUND); ctx.stroke();
+
+    // Ground details
+    var gOff = dist % 40;
+    ctx.fillStyle = 'rgba(156,188,20,0.08)';
+    for (var g = -1; g < W / 40 + 1; g++) {
+      ctx.fillRect(g * 40 - gOff, GROUND + 4, 2, 6);
+    }
+
+    // Wells
+    wells.forEach(function(w) {
+      if (w.passed && gameState === 'running') return;
+      ctx.fillStyle = w.well.color;
+      ctx.globalAlpha = 0.25;
+      ctx.fillRect(w.x, GROUND - w.h, w.w, w.h);
+      ctx.globalAlpha = 1;
+      ctx.strokeStyle = w.well.color;
+      ctx.lineWidth = 2;
+      ctx.strokeRect(w.x, GROUND - w.h, w.w, w.h);
+      // Danger pattern
+      ctx.fillStyle = w.well.color;
+      ctx.font = 'bold 10px Pompiere, sans-serif';
+      ctx.textAlign = 'center';
+      ctx.fillText(w.well.name, w.x + w.w / 2, GROUND - w.h - 6);
+      // Needed icon
+      var cat = CATS.find(function(c){return c.key===w.well.cat;});
+      ctx.fillStyle = cat.color;
+      ctx.beginPath();
+      ctx.arc(w.x + w.w / 2, GROUND - w.h / 2, 10, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.fillStyle = '#fff';
+      ctx.font = 'bold 11px sans-serif';
+      ctx.fillText(cat.label, w.x + w.w / 2, GROUND - w.h / 2 + 4);
+    });
+
+    // Coins
+    coins.forEach(function(c) {
+      if (c.collected) return;
+      ctx.beginPath();
+      ctx.arc(c.x, c.y, c.r, 0, Math.PI * 2);
+      ctx.fillStyle = c.cat.color;
+      ctx.fill();
+      ctx.strokeStyle = '#fff';
+      ctx.lineWidth = 1.5;
+      ctx.stroke();
+      ctx.fillStyle = '#fff';
+      ctx.font = 'bold 12px sans-serif';
+      ctx.textAlign = 'center';
+      ctx.fillText(c.cat.label, c.x, c.y + 4);
+    });
+
+    // Player (simple astronaut)
+    var px = player.x, py = player.y;
+    // Body
+    ctx.fillStyle = '#e0e0e0';
+    ctx.fillRect(px + 6, py - 30, 16, 22);
+    // Helmet
+    ctx.fillStyle = '#4fc3f7';
+    ctx.beginPath();
+    ctx.arc(px + 14, py - 34, 10, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = '#0a0618';
+    ctx.beginPath();
+    ctx.arc(px + 14, py - 34, 7, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = '#fff';
+    ctx.beginPath();
+    ctx.arc(px + 15, py - 35, 2, 0, Math.PI * 2);
+    ctx.fill();
+    // Legs
+    ctx.strokeStyle = '#e0e0e0';
+    ctx.lineWidth = 3;
+    var legPhase = Math.sin(dist * 0.15) * 6;
+    ctx.beginPath(); ctx.moveTo(px + 10, py - 8); ctx.lineTo(px + 6, py + legPhase); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(px + 18, py - 8); ctx.lineTo(px + 22, py - legPhase); ctx.stroke();
+    // Backpack
+    ctx.fillStyle = '#9e9e9e';
+    ctx.fillRect(px + 1, py - 28, 6, 16);
+
+    // Flash message
+    if (flashTimer > 0) {
+      ctx.fillStyle = 'rgba(0,0,0,0.5)';
+      ctx.fillRect(W / 2 - 140, 10, 280, 30);
+      ctx.fillStyle = gameState === 'dead' ? '#ef5350' : '#9cbc14';
+      ctx.font = 'bold 14px Pompiere, sans-serif';
+      ctx.textAlign = 'center';
+      ctx.fillText(flashMsg, W / 2, 30);
+    }
+
+    // Score
+    ctx.fillStyle = 'rgba(255,255,255,0.4)';
+    ctx.font = '12px Pompiere, sans-serif';
+    ctx.textAlign = 'right';
+    ctx.fillText('Distance: ' + Math.floor(dist / 10), W - 12, 20);
+  }
+
+  function loop() {
+    if (gameState === 'running') {
+      update();
+      draw();
+      requestAnimationFrame(loop);
+    } else if (gameState === 'dead') {
+      draw();
+      deadTimer--;
+      if (deadTimer > 0) {
+        requestAnimationFrame(loop);
+      } else {
+        overlayText.textContent = 'You fell! Score: ' + Math.floor(dist / 10) + ' — Tap to retry';
+        overlay.classList.remove('hidden');
+      }
+    }
+  }
+
+  function startGame() {
+    overlay.classList.add('hidden');
+    reset();
+    updateHud();
+    gameState = 'running';
+    loop();
+  }
+
+  // Controls
+  overlay.addEventListener('click', startGame);
+  document.addEventListener('keydown', function(e) {
+    if (e.code === 'Space') {
+      e.preventDefault();
+      if (gameState === 'idle' || gameState === 'dead') { startGame(); }
+      else if (gameState === 'running') { jump(); }
+    }
+  });
+  cv.addEventListener('click', function() {
+    if (gameState === 'running') jump();
+  });
+  cv.addEventListener('touchstart', function(e) {
+    e.preventDefault();
+    if (gameState === 'running') jump();
+  }, { passive: false });
+
+  // Initial draw
+  draw();
+})();
+</script>
 
 <!-- ═══════════════════════════════════════════════ S5: ABOUT ══ -->
 <section id="s5" class="eg-section">
