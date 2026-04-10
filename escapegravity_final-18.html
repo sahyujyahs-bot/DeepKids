@@ -1359,32 +1359,18 @@
     border: 2px solid #6b2155;
     box-shadow: 0 6px 20px rgba(0,0,0,0.6);
   }
-  /* Step 3 persistent card: right on desktop, top on mobile */
-  .s2-inline-fc.step3-card {
-    position: absolute;
-    top: auto; left: auto;
-    right: 3%; bottom: 50%;
-    transform: translateY(50%);
-    opacity: 0;
+  /* Step 3 persistent card: image pinned to right (desktop) / top (mobile) */
+  .s2-inline-fc.step3-card .s2-inline-fc-card {
+    position: fixed;
+    right: 3%; top: 50%;
+    transform: translateY(-50%);
+    width: clamp(180px, 26vw, 340px);
     z-index: 45;
   }
-  .s2-inline-fc.step3-card.show {
-    opacity: 1;
-    transform: translateY(50%) scale(1);
-  }
-  .s2-inline-fc.step3-card .s2-inline-fc-card {
-    width: clamp(180px, 26vw, 340px);
-  }
   @media (max-width: 768px) {
-    .s2-inline-fc.step3-card {
-      right: 50%; bottom: auto;
-      top: 8%;
-      transform: translateX(50%);
-    }
-    .s2-inline-fc.step3-card.show {
-      transform: translateX(50%) scale(1);
-    }
     .s2-inline-fc.step3-card .s2-inline-fc-card {
+      right: 50%; top: 12%;
+      transform: translateX(50%);
       width: clamp(140px, 40vw, 240px);
     }
   }
@@ -2845,9 +2831,9 @@
     var inlineFc = document.getElementById('s2-inline-fc');
     var inlineFcText = document.getElementById('s2-inline-fc-text');
 
-    // Position card on right (desktop) / top (mobile) and keep visible
+    // Position text near token, card image goes to right/top via CSS
     inlineFc.classList.add('step3-card');
-    inlineFc.style.left = ''; inlineFc.style.top = '';
+    if (window.positionInlineFc) window.positionInlineFc();
     if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
     inlineFc.classList.add('show');
 
