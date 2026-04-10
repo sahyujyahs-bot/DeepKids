@@ -3890,10 +3890,10 @@
       <!-- Arrow -->
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
-      <!-- Force cards -->
-      <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity">
-        <img class="s6b-fc-img" src="IMG_5098.jpeg" alt="Escape Velocity">
+      <!-- Force cards — fan stack -->
+      <div class="s6b-fan" id="s6b-fan">
+        <img class="s6b-fan-card" src="IMG_5099.jpeg" alt="Sideways Velocity" style="z-index:2;">
+        <img class="s6b-fan-card" src="IMG_5098.jpeg" alt="Escape Velocity" style="z-index:1;">
       </div>
     </div>
   </div>
@@ -4011,7 +4011,7 @@
 }
 .s6b-desc strong { color: #9cbc14; }
 
-/* Force cards */
+/* Force cards — single card (Tile 16) */
 .s6b-fc-pair {
   display: flex;
   flex-direction: column;
@@ -4023,6 +4023,38 @@
   border-radius: clamp(8px, 1.2vw, 14px);
   box-shadow: 0 4px 20px rgba(0,0,0,0.5);
   display: block;
+}
+
+/* Force cards — fan stack (Tile 10) */
+.s6b-fan {
+  position: relative;
+  width: clamp(140px, 20vw, 200px);
+  height: clamp(195px, 28vw, 280px);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.s6b-fan-card {
+  position: absolute;
+  width: 100%;
+  border-radius: clamp(8px, 1.2vw, 14px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  transition: transform 0.4s cubic-bezier(.4,0,.2,1), z-index 0s;
+  transform-origin: bottom center;
+}
+.s6b-fan-card:nth-child(1) {
+  transform: rotate(-6deg);
+}
+.s6b-fan-card:nth-child(2) {
+  transform: rotate(6deg);
+}
+/* When second card is on top */
+.s6b-fan.swapped .s6b-fan-card:nth-child(1) {
+  z-index: 1 !important;
+  transform: rotate(6deg);
+}
+.s6b-fan.swapped .s6b-fan-card:nth-child(2) {
+  z-index: 2 !important;
+  transform: rotate(-6deg);
 }
 
 /* Mobile: stack vertically */
@@ -4041,6 +4073,7 @@
 
 <script>
 (function(){
+  // Tab switching
   var tabs = document.querySelectorAll('.s6b-tab');
   tabs.forEach(function(tab) {
     tab.addEventListener('click', function() {
@@ -4050,6 +4083,14 @@
       document.getElementById('s6b-' + tab.getAttribute('data-tab')).classList.add('active');
     });
   });
+
+  // Fan stack — click to swap front/back card
+  var fan = document.getElementById('s6b-fan');
+  if (fan) {
+    fan.addEventListener('click', function() {
+      fan.classList.toggle('swapped');
+    });
+  }
 })();
 </script>
 
