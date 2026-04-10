@@ -2584,14 +2584,22 @@
   window.positionInlineFc = function() {
     var inlineFc = document.getElementById('s2-inline-fc');
     if (!inlineFc) return;
-    var tokRect = tokBlue.getBoundingClientRect();
     var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-    var fcX = tokRect.left - brRect.left + tokRect.width + 20;
-    var fcY = tokRect.top - brRect.top;
-    fcX = Math.min(fcX, brRect.width - 200);
-    fcY = Math.max(10, fcY);
-    inlineFc.style.left = fcX + 'px';
-    inlineFc.style.top = fcY + 'px';
+    if (window.innerWidth <= 768) {
+      // Mobile: place at top center of board area
+      inlineFc.style.left = '50%';
+      inlineFc.style.transform = 'translateX(-50%)';
+      inlineFc.style.top = '10px';
+    } else {
+      var tokRect = tokBlue.getBoundingClientRect();
+      var fcX = tokRect.left - brRect.left + tokRect.width + 20;
+      var fcY = tokRect.top - brRect.top;
+      fcX = Math.min(fcX, brRect.width - 200);
+      fcY = Math.max(10, fcY);
+      inlineFc.style.left = fcX + 'px';
+      inlineFc.style.top = fcY + 'px';
+      inlineFc.style.transform = '';
+    }
   };
 
   function doRoll() {
@@ -3006,12 +3014,11 @@
             if (window.positionInlineFc) window.positionInlineFc();
           }, 1600);
 
-          // Hide everything after final drop settles and bubble is visible
+          // Hide inline force card label after drop settles (keep bubble visible)
           setTimeout(function() {
             inlineFc.classList.remove('show');
             inlineFc.classList.remove('step3-card');
             if (bubble) {
-              bubble.classList.remove('show');
               bubble.style.transition = '';
             }
           }, 5000);
