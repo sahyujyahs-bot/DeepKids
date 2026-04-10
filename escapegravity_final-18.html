@@ -2885,14 +2885,10 @@
     if (e.target === forceOverlay) hideForceCard();
   });
 
-  // Force link click: boardgame → inline + drop, PC → flippable, else → navigate
+  // Force link click: always show fullscreen flippable overlay
   forceLink.addEventListener('click', function() {
     if (forceEarned) {
-      if (window.s2ActiveTab === 'boardgame') {
-        showForceCardInline();
-      } else {
-        showForceCardFlip();
-      }
+      showForceCardFlip();
     } else if (window.s2ActiveTab !== 'physical') {
       var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
       if (pcTab) pcTab.click();
