@@ -3742,57 +3742,39 @@
 <section id="s4b-turns" class="eg-section">
   <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(16px,2vh,28px);">Every Turn Is a Lesson</h2>
 
-  <!-- Tab bar -->
-  <div class="s4b-tabs eg-fade-in">
-    <button class="s4b-tab active" data-tab="ex1">Example 1</button>
-    <button class="s4b-tab" data-tab="ex2">Example 2</button>
+  <!-- Tab bar — same style as Section 3 -->
+  <div class="s2-tabs eg-fade-in" style="margin-bottom:clamp(20px,3vh,36px);">
+    <button class="s2-tab s4b-tab active" data-tab="ex1">Example 1</button>
+    <span class="s2-tab-arrow">&#x279C;</span>
+    <button class="s2-tab s4b-tab" data-tab="ex2">Example 2</button>
   </div>
 
   <!-- ── Example 1: Miss The Bucket ────────────────────── -->
   <div class="s4b-panel active" id="s4b-ex1">
+    <div class="s4b-layout eg-fade-in">
 
-    <!-- Challenge card -->
-    <div class="s4b-challenge-card eg-fade-in">
-      <div class="s4b-card-badge">Challenge</div>
-      <h3 class="s4b-card-title">Miss The Bucket</h3>
-      <ul class="s4b-card-steps">
-        <li>Place a basket/bowl directly below the edge of a table.</li>
-        <li>Roll a toy car (in the kit) off the table.</li>
-        <li>If the car misses the bowl, you score a point.</li>
-        <li>Take turns and play as many rounds for 60 seconds.</li>
-      </ul>
-      <div class="s4b-card-winner">The player with most bucket misses gets 1 point!</div>
-      <div class="s4b-thinking-cue">
-        <span class="s4b-cue-icon">?</span>
-        Did the car fall straight down or along a curved path?
-      </div>
-      <div class="s4b-card-earn">Turn Player Earns A &ldquo;Sideways Velocity&rdquo; Card from &ldquo;Speed&rdquo; Category</div>
-    </div>
-
-    <!-- Annotations -->
-    <div class="s4b-annotations eg-fade-in">
-      <div class="s4b-anno">
-        <span class="s4b-anno-arrow">&#9650;</span>
-        <strong>Physical challenge</strong> that demonstrates science
-      </div>
-      <div class="s4b-anno">
-        <span class="s4b-anno-arrow">&#9650;</span>
-        <strong>Thinking Cue</strong> &mdash; prompts reflection
-      </div>
-    </div>
-
-    <!-- Explanation -->
-    <p class="s4b-explanation eg-fade-in">
-      The force card they earn is the concept demonstrated by the physical challenge.
-      The force card is the answer or explanation behind the thinking cue.
-    </p>
-
-    <!-- Force cards -->
-    <div class="s4b-force-cards eg-fade-in">
-      <div class="s4b-fc" style="--fc-color:#6b2fa0;">
-        <div class="s4b-fc-header">
-          <span class="s4b-fc-cat">Speed</span>
+      <!-- Challenge Card -->
+      <div class="s4b-card">
+        <div class="s4b-card-badge">Challenge</div>
+        <h3 class="s4b-card-title">Miss The Bucket</h3>
+        <ul class="s4b-card-steps">
+          <li>Place a basket/bowl directly below the edge of a table.</li>
+          <li>Roll a toy car (in the kit) off the table.</li>
+          <li>If the car misses the bowl, you score a point.</li>
+          <li>Take turns and play as many rounds for 60 seconds.</li>
+        </ul>
+        <div class="s4b-card-winner">The player with most bucket misses gets 1 point!</div>
+        <div class="s4b-marker"><span class="s4b-marker-dot phys"></span> Physical Challenge</div>
+        <div class="s4b-thinking-cue">
+          Did the car fall straight down or along a curved path?
         </div>
+        <div class="s4b-marker"><span class="s4b-marker-dot think"></span> Thinking Cue</div>
+        <div class="s4b-card-earn"><span class="s4b-marker-dot earn"></span> Earns: &ldquo;Sideways Velocity&rdquo; card from &ldquo;Speed&rdquo; category</div>
+      </div>
+
+      <!-- Force Card (content side) -->
+      <div class="s4b-fc" style="--fc-color:#6b2fa0;">
+        <div class="s4b-fc-header"><span class="s4b-fc-cat">Speed</span></div>
         <div class="s4b-fc-body">
           <div class="s4b-fc-name">Sideways Velocity</div>
           <div class="s4b-fc-tagline">Gravity pulls, speed saves&hellip;</div>
@@ -3803,76 +3785,42 @@
         </div>
         <div class="s4b-fc-footer">Sideways Velocity</div>
       </div>
-
-      <div class="s4b-fc" style="--fc-color:#6b2fa0;">
-        <div class="s4b-fc-header">
-          <span class="s4b-fc-cat">Sideways Velocity</span>
-        </div>
-        <div class="s4b-fc-body s4b-fc-back">
-          <div class="s4b-fc-diagram">&#9978;</div>
-          <div class="s4b-fc-name">Speed</div>
-        </div>
-        <div class="s4b-fc-footer">Speed</div>
-      </div>
     </div>
+
+    <!-- Connection explanation -->
+    <p class="s4b-connection eg-fade-in">
+      The car rolls off the table and curves &mdash; it doesn&rsquo;t fall straight down.
+      That curved path <em>is</em> sideways velocity in action.
+      The force card explains exactly the concept the challenge just demonstrated.
+    </p>
   </div>
 
   <!-- ── Example 2: One Leg Balance ────────────────────── -->
   <div class="s4b-panel" id="s4b-ex2">
+    <div class="s4b-layout eg-fade-in">
 
-    <!-- Challenge card -->
-    <div class="s4b-challenge-card eg-fade-in">
-      <div class="s4b-card-badge">Challenge</div>
-      <h3 class="s4b-card-title">One Leg Balance!</h3>
-      <ul class="s4b-card-steps">
-        <li>Each player stands straight, folds one leg and places the foot above the other knee.</li>
-        <li>Lift your hands straight above head or to the sides to balance.</li>
-        <li>If you fall, start again.</li>
-        <li>Balance on one leg for 60 seconds.</li>
-      </ul>
-      <div class="s4b-card-winner">The player who balances the longest wins 1 point!</div>
-      <div class="s4b-thinking-cue">
-        <span class="s4b-cue-icon">?</span>
-        Did spreading your arms make balancing easier? Why?
+      <!-- Challenge Card -->
+      <div class="s4b-card">
+        <div class="s4b-card-badge">Challenge</div>
+        <h3 class="s4b-card-title">One Leg Balance!</h3>
+        <ul class="s4b-card-steps">
+          <li>Each player stands straight, folds one leg and places the foot above the other knee.</li>
+          <li>Lift your hands straight above head or to the sides to balance.</li>
+          <li>If you fall, start again.</li>
+          <li>Balance on one leg for 60 seconds.</li>
+        </ul>
+        <div class="s4b-card-winner">The player who balances the longest wins 1 point!</div>
+        <div class="s4b-marker"><span class="s4b-marker-dot phys"></span> Physical Challenge</div>
+        <div class="s4b-thinking-cue">
+          Did spreading your arms make balancing easier? Why?
+        </div>
+        <div class="s4b-marker"><span class="s4b-marker-dot think"></span> Thinking Cue</div>
+        <div class="s4b-card-earn"><span class="s4b-marker-dot earn"></span> Earns: &ldquo;Center Of Gravity&rdquo; card from &ldquo;Balance&rdquo; category</div>
       </div>
-      <div class="s4b-card-earn">Turn Player Earns A &ldquo;Center Of Gravity&rdquo; Card from &ldquo;Balance&rdquo; Category</div>
-    </div>
 
-    <!-- Annotations -->
-    <div class="s4b-annotations eg-fade-in">
-      <div class="s4b-anno">
-        <span class="s4b-anno-arrow">&#9650;</span>
-        <strong>Yoga poses</strong> that need Center of Gravity alignment
-      </div>
-      <div class="s4b-anno">
-        <span class="s4b-anno-arrow">&#9650;</span>
-        <strong>Spreading arms</strong> helps Center of Gravity alignment &amp; provides balance
-      </div>
-    </div>
-
-    <!-- Explanation -->
-    <p class="s4b-explanation eg-fade-in">
-      The learning becomes complete &amp; clear, when the player earns the Center of
-      Gravity force card after doing the activity &amp; pondering on the question.
-    </p>
-
-    <!-- Force cards -->
-    <div class="s4b-force-cards eg-fade-in">
+      <!-- Force Card (content side) -->
       <div class="s4b-fc" style="--fc-color:#1a4a7a;">
-        <div class="s4b-fc-header">
-          <span class="s4b-fc-cat">Center of Gravity</span>
-        </div>
-        <div class="s4b-fc-body s4b-fc-back">
-          <div class="s4b-fc-diagram">&#9878;</div>
-          <div class="s4b-fc-name">Balance</div>
-        </div>
-        <div class="s4b-fc-footer">Balance</div>
-      </div>
-
-      <div class="s4b-fc" style="--fc-color:#1a4a7a;">
-        <div class="s4b-fc-header">
-          <span class="s4b-fc-cat">Balance</span>
-        </div>
+        <div class="s4b-fc-header"><span class="s4b-fc-cat">Balance</span></div>
         <div class="s4b-fc-body">
           <div class="s4b-fc-name">Center Of Gravity</div>
           <div class="s4b-fc-tagline">Center aligned &mdash; balance found!</div>
@@ -3883,46 +3831,40 @@
         <div class="s4b-fc-footer">Center Of Gravity</div>
       </div>
     </div>
+
+    <!-- Connection explanation -->
+    <p class="s4b-connection eg-fade-in">
+      Spreading your arms shifts your center of gravity back over your base &mdash;
+      that&rsquo;s why balancing gets easier.
+      The force card explains the very science the players just felt in their body.
+    </p>
   </div>
 </section>
 
 <style>
 /* ── Every Turn Is A Lesson ────────────────────────────── */
-.s4b-tabs {
-  display: flex;
-  justify-content: center;
-  gap: clamp(6px, 1vw, 12px);
-  margin-bottom: clamp(20px, 3vh, 36px);
-}
-.s4b-tab {
-  font-family: 'Pompiere', sans-serif;
-  font-size: clamp(14px, 1.6vw, 20px);
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  padding: clamp(8px,1vh,12px) clamp(18px,2.5vw,36px);
-  border: 1px solid rgba(156,188,20,0.35);
-  border-radius: 8px;
-  background: rgba(18,8,38,0.5);
-  color: rgba(255,255,255,0.55);
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-.s4b-tab:hover { color: #fff; border-color: rgba(156,188,20,0.6); }
-.s4b-tab.active {
-  background: rgba(156,188,20,0.15);
-  color: #9cbc14;
-  border-color: #9cbc14;
-}
-.s4b-panel { display: none; max-width: 720px; margin: 0 auto; }
+.s4b-panel { display: none; max-width: 860px; margin: 0 auto; }
 .s4b-panel.active { display: block; }
 
+/* Side-by-side layout: challenge card + force card */
+.s4b-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: clamp(16px, 3vw, 32px);
+  justify-content: center;
+}
+@media (max-width: 680px) {
+  .s4b-layout { flex-direction: column; align-items: center; }
+}
+
 /* Challenge card */
-.s4b-challenge-card {
+.s4b-card {
+  flex: 1;
+  max-width: 480px;
   background: linear-gradient(135deg, #1a0a2e 0%, #2d1650 100%);
   border: 1px solid rgba(156,188,20,0.2);
   border-radius: clamp(12px,2vw,20px);
-  padding: clamp(20px,3vw,36px);
-  margin-bottom: clamp(16px,2vh,24px);
+  padding: clamp(18px,2.5vw,32px);
 }
 .s4b-card-badge {
   display: inline-block;
@@ -3939,23 +3881,23 @@
 .s4b-card-title {
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
-  font-size: clamp(20px,3vw,32px);
+  font-size: clamp(18px,2.6vw,28px);
   color: #fff;
-  margin: 0 0 clamp(10px,1.5vh,16px);
+  margin: 0 0 clamp(8px,1.2vh,14px);
 }
 .s4b-card-steps {
   list-style: none;
   padding: 0;
-  margin: 0 0 clamp(12px,1.5vh,18px);
+  margin: 0 0 clamp(10px,1.2vh,14px);
 }
 .s4b-card-steps li {
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(14px,1.6vw,19px);
+  font-size: clamp(13px,1.5vw,17px);
   color: rgba(255,255,255,0.85);
   line-height: 1.5;
-  padding-left: 22px;
+  padding-left: 20px;
   position: relative;
-  margin-bottom: 4px;
+  margin-bottom: 3px;
 }
 .s4b-card-steps li::before {
   content: '\2192';
@@ -3965,94 +3907,69 @@
 }
 .s4b-card-winner {
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(12px,1.3vw,16px);
+  font-size: clamp(11px,1.2vw,14px);
   color: #9cbc14;
   background: rgba(156,188,20,0.1);
-  padding: 6px 14px;
+  padding: 5px 12px;
   border-radius: 6px;
-  margin-bottom: clamp(12px,1.5vh,18px);
+  margin-bottom: clamp(10px,1.2vh,14px);
 }
+
+/* Thinking cue — dashed box */
 .s4b-thinking-cue {
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
-  font-size: clamp(16px,2.2vw,24px);
+  font-size: clamp(14px,1.8vw,20px);
   color: #fff;
   text-align: center;
-  padding: clamp(12px,1.5vh,18px);
+  padding: clamp(10px,1.2vh,16px);
   border: 2px dashed rgba(255,255,255,0.35);
   border-radius: 10px;
-  margin-bottom: clamp(10px,1.2vh,14px);
+  margin-bottom: 6px;
 }
-.s4b-cue-icon {
-  display: inline-flex;
+
+/* Annotation markers */
+.s4b-marker {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(11px,1.1vw,14px);
+  color: rgba(255,255,255,0.55);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: clamp(8px,1vh,12px);
+  display: flex;
   align-items: center;
-  justify-content: center;
-  width: 26px; height: 26px;
-  border-radius: 50%;
-  background: #9cbc14;
-  color: #1a0a2e;
-  font-size: 16px;
-  font-weight: bold;
-  margin-right: 8px;
-  vertical-align: middle;
+  gap: 6px;
 }
+.s4b-marker-dot {
+  display: inline-block;
+  width: 10px; height: 10px;
+  border-radius: 50%;
+}
+.s4b-marker-dot.phys  { background: #e85d75; }
+.s4b-marker-dot.think { background: #4fc3f7; }
+.s4b-marker-dot.earn  { background: #9cbc14; }
 .s4b-card-earn {
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(12px,1.3vw,16px);
-  color: rgba(255,255,255,0.6);
-  text-align: center;
-  padding-top: 6px;
-}
-
-/* Annotations */
-.s4b-annotations {
-  display: flex;
-  justify-content: space-around;
-  gap: 16px;
-  margin-bottom: clamp(14px,2vh,20px);
-  flex-wrap: wrap;
-}
-.s4b-anno {
-  font-family: 'Pompiere', sans-serif;
-  font-size: clamp(13px,1.4vw,17px);
-  color: rgba(255,255,255,0.7);
-  text-align: center;
-  max-width: 260px;
-}
-.s4b-anno-arrow {
-  display: block;
+  font-size: clamp(12px,1.3vw,15px);
   color: #9cbc14;
-  font-size: 12px;
-  margin-bottom: 2px;
-}
-
-/* Explanation */
-.s4b-explanation {
-  font-family: 'Pompiere', sans-serif;
-  font-size: clamp(15px,1.7vw,20px);
-  color: rgba(255,255,255,0.8);
-  text-align: center;
-  line-height: 1.6;
-  max-width: 600px;
-  margin: 0 auto clamp(20px,3vh,32px);
-}
-
-/* Force cards */
-.s4b-force-cards {
   display: flex;
-  justify-content: center;
-  gap: clamp(12px,2vw,24px);
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  padding-top: 4px;
 }
+
+/* Force card */
 .s4b-fc {
-  width: clamp(140px,22vw,200px);
-  border-radius: clamp(10px,1.5vw,14px);
+  width: clamp(180px,26vw,260px);
+  flex-shrink: 0;
+  border-radius: clamp(10px,1.5vw,16px);
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+  align-self: center;
 }
 .s4b-fc-header, .s4b-fc-footer {
   background: var(--fc-color, #6b2fa0);
-  padding: clamp(6px,0.8vh,10px);
+  padding: clamp(7px,1vh,12px);
   text-align: center;
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
@@ -4060,12 +3977,12 @@
   color: #fff;
   letter-spacing: 1px;
 }
-.s4b-fc-cat { font-size: clamp(12px,1.3vw,16px); }
+.s4b-fc-cat { font-size: clamp(13px,1.4vw,17px); }
 .s4b-fc-body {
   background: linear-gradient(180deg, #1a0a2e, #2d1650);
-  padding: clamp(12px,1.5vw,20px);
+  padding: clamp(16px,2vw,28px);
   text-align: center;
-  min-height: clamp(100px,16vw,160px);
+  min-height: clamp(140px,22vw,220px);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -4074,31 +3991,38 @@
 .s4b-fc-name {
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
-  font-size: clamp(14px,1.6vw,20px);
+  font-size: clamp(16px,2vw,22px);
   color: #fff;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 .s4b-fc-tagline {
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
   font-size: clamp(10px,1.1vw,13px);
   color: #9cbc14;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 .s4b-fc-text {
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(11px,1.2vw,14px);
+  font-size: clamp(12px,1.3vw,15px);
   color: rgba(255,255,255,0.75);
-  line-height: 1.5;
+  line-height: 1.6;
   margin: 0;
 }
-.s4b-fc-diagram {
-  font-size: clamp(36px,5vw,56px);
-  margin-bottom: 8px;
+
+/* Connection explanation */
+.s4b-connection {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(15px,1.7vw,20px);
+  color: rgba(255,255,255,0.8);
+  text-align: center;
+  line-height: 1.6;
+  max-width: 640px;
+  margin: clamp(20px,3vh,32px) auto 0;
+  padding: clamp(14px,2vh,22px);
+  border-top: 1px solid rgba(156,188,20,0.15);
 }
-.s4b-fc-back {
-  background: radial-gradient(circle at center, rgba(156,188,20,0.08) 0%, #1a0a2e 70%);
-}
+.s4b-connection em { color: #9cbc14; font-style: normal; font-weight: bold; }
 </style>
 
 <script>
