@@ -1128,15 +1128,17 @@
     border-width: 2px;
   }
   #s3.step3-view .s2-bubble-box::after {
-    left: 50%; transform: translateX(-50%);
-    bottom: -12px;
+    left: 8%;
+    transform: rotate(20deg);
+    bottom: -11px;
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
     border-top: 13px solid #7aa010;
   }
   #s3.step3-view .s2-bubble-box::before {
-    left: 50%; transform: translateX(-50%);
-    bottom: -15px;
+    left: calc(8% - 2px);
+    transform: rotate(20deg);
+    bottom: -14px;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 15px solid #6b2155;
@@ -1314,26 +1316,28 @@
     max-width: clamp(250px, 42vw, 420px);
     text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
   }
-  /* Comic tail pointing down toward earth icon */
+  /* Comic tail pointing diagonally down-left toward token */
   .s2-bubble-box::after {
     content: '';
     position: absolute;
-    bottom: -16px;
-    left: 20%;
+    bottom: -14px;
+    left: 8%;
     width: 0; height: 0;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
     border-top: 18px solid #7aa010;
+    transform: rotate(20deg);
   }
   .s2-bubble-box::before {
     content: '';
     position: absolute;
-    bottom: -20px;
-    left: calc(20% - 2px);
+    bottom: -18px;
+    left: calc(8% - 2px);
     width: 0; height: 0;
     border-left: 14px solid transparent;
     border-right: 14px solid transparent;
     border-top: 20px solid #6b2155;
+    transform: rotate(20deg);
   }
   .s2-bubble-earth {
     display: inline-block;
@@ -2520,12 +2524,12 @@
       if (!bbl) return;
       var tokRect = tokBlue.getBoundingClientRect();
       var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-      // Point bubble tail at Earth icon on tile 11
-      var icon11 = tilePos(ICON11_NX, ICON11_NY);
+      // Position bubble to upper-right of token on tile 11
+      var tok11pos = tilePos(TILE11_NX, TILE11_NY);
       var bubbleW = bbl.offsetWidth || 200;
       var bubbleH = bbl.offsetHeight || 100;
-      var bx = Math.max(5, icon11.x - bubbleW / 2);
-      var by = Math.max(5, icon11.y - bubbleH - 15);
+      var bx = Math.max(5, tok11pos.x + 30);
+      var by = Math.max(5, tok11pos.y - bubbleH - 30);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       if (window.updateBubbleLink) window.updateBubbleLink();
@@ -2961,14 +2965,15 @@
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
 
-      // Reposition bubble above tile 7, tail pointing at Any2Cards icon
+      // Reposition bubble to upper-right of token on tile 7
       setTimeout(function() {
-        var icon7 = window.tilePos(window.ICON7_NX, window.ICON7_NY);
+        var tok7pos = window.tilePos(window.TILE7_NX, window.TILE7_NY);
         if (bubble) {
           var bW = bubble.offsetWidth || 200;
           var bH = bubble.offsetHeight || 100;
-          bubble.style.left = Math.max(5, icon7.x - bW / 2) + 'px';
-          bubble.style.top = Math.max(5, icon7.y - bH - 15) + 'px';
+          bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
+          bubble.style.left = Math.max(5, tok7pos.x + 30) + 'px';
+          bubble.style.top = Math.max(5, tok7pos.y - bH - 30) + 'px';
         }
         if (window.positionInlineFc) window.positionInlineFc();
       }, 1600);
@@ -2981,14 +2986,15 @@
         setTimeout(function() {
           if (window.dropToTile3) window.dropToTile3();
 
-          // Reposition bubble above tile 3, tail pointing at Body icon
+          // Reposition bubble to upper-right of token on tile 3
           setTimeout(function() {
-            var icon3 = window.tilePos(window.ICON3_NX, window.ICON3_NY);
+            var tok3pos = window.tilePos(window.TILE3_NX, window.TILE3_NY);
             if (bubble) {
               var bW3 = bubble.offsetWidth || 200;
               var bH3 = bubble.offsetHeight || 100;
-              bubble.style.left = Math.max(5, icon3.x - bW3 / 2) + 'px';
-              bubble.style.top = Math.max(5, icon3.y - bH3 - 15) + 'px';
+              bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
+              bubble.style.left = Math.max(5, tok3pos.x + 30) + 'px';
+              bubble.style.top = Math.max(5, tok3pos.y - bH3 - 30) + 'px';
             }
             if (window.positionInlineFc) window.positionInlineFc();
           }, 1600);
