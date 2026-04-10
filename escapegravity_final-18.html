@@ -2007,8 +2007,8 @@
   const TILE7_NY         = 0.536;
   const TILE3_NX         = 0.579;  // tile 3 — same angle as tile 11, ~35% radius
   const TILE3_NY         = 0.520;
-  const TILE2_NX         = 0.555;  // tile 2 — inner ring, to the right of tile 3 after rotation
-  const TILE2_NY         = 0.565;
+  const TILE2_NX         = 0.540;  // tile 2 — inner ring, 4 tiles to the left of tile 3 after rotation
+  const TILE2_NY         = 0.380;
   // Force category icon positions within each tile (inner edge of arc)
   const ICON11_NX        = 0.6895; // Earth icon on tile 11
   const ICON11_NY        = 0.5506;
@@ -3030,7 +3030,7 @@
             setTimeout(function() {
               if (window.dropToTile2) window.dropToTile2();
 
-              // Move bubble at the same time as the token — tile 2 is to the right
+              // Move bubble at the same time as the token — tile 2 is to the left
               var tok2pos = window.tilePos(window.TILE2_NX, window.TILE2_NY);
               if (bubble) {
                 var bW2 = bubble.offsetWidth || 200;
