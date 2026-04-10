@@ -2428,18 +2428,36 @@
   }
 
   /* ── Jump to tile-11 state with bubble for Step 3 ──────── */
-  /* ── Jump to full board view for Step 3, core shifted right-bottom ── */
+  /* ── Jump to full board view for Step 3, core at bottom-left quarter ── */
   function jumpToState4WithBubble() {
     cancelAllAnimations();
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) bubble.classList.remove('show');
 
-    // Reset to full board — no zoom, no rotation
-    currentScale = 1;
+    // Zoom into board with core at bottom of screen, 1/4 from left
+    // Use drawBoard's focus system: set focus so core maps to target viewport position
+    var W = cssW(), H = cssH();
+    var nat = (window.boardImg && window.boardImg.naturalWidth) || 1200;
+    var imgScale = Math.min(W, H) / nat;
+    var dispW = nat * imgScale;
+    var bCX = (W - dispW) / 2 + BOARD_CENTER_NX * dispW;
+    var bCY = (H - dispW) / 2 + BOARD_CENTER_NY * dispW;
+
+    // Target: core at 25% from left, 90% from top
+    var tgtScale = 2.2;
+    var tgtVpX = 0.25 * W;
+    var tgtVpY = 0.90 * H;
+    // Solve: vpPos = focusPos + scale * (corePos - focusPos)
+    // => focusPos = (scale * corePos - vpPos) / (scale - 1)
+    var focX = (tgtScale * bCX - tgtVpX) / (tgtScale - 1);
+    var focY = (tgtScale * bCY - tgtVpY) / (tgtScale - 1);
+    // Convert to normalized coords
+    curFocusNX = BOARD_CENTER_NX + (bCY - focY) / dispW;
+    curFocusNY = 0.500 + (focX - bCX) / dispW;
+
+    currentScale = tgtScale;
     currentRotation = 0;
-    curFocusNX = BOARD_CENTER_NX;
-    curFocusNY = BOARD_CENTER_NY;
-    drawBoard(1, 0);
+    drawBoard(tgtScale, 0);
 
     // Hide dice/result UI
     diceWrap.classList.remove('show');
@@ -2450,7 +2468,7 @@
     result.classList.remove('show');
     progress.style.opacity = '0';
 
-    // Show tokens at tile 10/11 positions on the unrotated board
+    // Show tokens at tile 10/11 positions
     showTokens();
     var p11 = tilePos(TILE11_NX, TILE11_NY);
     var p10 = tilePos(TILE10_NX, TILE10_NY);
@@ -2466,15 +2484,6 @@
 
     state = 4; busy = false;
     btnBack.disabled = false; btnFwd.disabled = false;
-
-    // Shift board right so core moves toward right-bottom
-    var boardRow = document.getElementById('s2-board-row');
-    if (boardRow) {
-      boardRow.style.transition = 'transform 1.2s ease-in-out';
-      var shiftX = window.innerWidth < 768 ? '15vw' : '22vw';
-      var shiftY = window.innerWidth < 768 ? '8vh' : '5vh';
-      boardRow.style.transform = 'translate(' + shiftX + ', ' + shiftY + ')';
-    }
 
     // Show bubble after board settles
     rollTimers.push(setTimeout(() => {
@@ -2492,17 +2501,10 @@
       bbl.style.top = by + 'px';
       if (window.updateBubbleLink) window.updateBubbleLink();
       bbl.classList.add('show');
-    }, 1800));
+    }, 800));
   }
-  // Reset board position when leaving Step 3
-  window.resetBoardOffset = function() {
-    var boardRow = document.getElementById('s2-board-row');
-    if (boardRow) {
-      boardRow.style.transition = 'transform 0.5s ease';
-      boardRow.style.transform = '';
-      setTimeout(function() { boardRow.style.transition = ''; }, 600);
-    }
-  };
+  // Reset board position when leaving Step 3 (no-op now, kept for compatibility)
+  window.resetBoardOffset = function() {};
   window.jumpToState4WithBubble = jumpToState4WithBubble;
 
   /* ── Dice roll ──────────────────────────────────────────── */
