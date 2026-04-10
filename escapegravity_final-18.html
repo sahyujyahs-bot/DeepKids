@@ -2434,12 +2434,12 @@
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) bubble.classList.remove('show');
 
-    // Full spiral, no rotation, centered on screen
+    // Full spiral, rotated 90° anti-clockwise, centered on screen
     currentScale = 1;
-    currentRotation = 0;
+    currentRotation = -Math.PI / 2;
     curFocusNX = BOARD_CENTER_NX;
     curFocusNY = BOARD_CENTER_NY;
-    drawBoard(1, 0);
+    drawBoard(1, -Math.PI / 2);
 
     // Hide dice/result UI
     diceWrap.classList.remove('show');
