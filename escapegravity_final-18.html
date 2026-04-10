@@ -1943,6 +1943,12 @@
 .s2-force-link.pulse {
   animation: s2-force-pulse 1.5s ease-in-out infinite;
 }
+@media (max-width: 768px) {
+  .s2-force-overlay {
+    justify-content: flex-start;
+    padding-top: clamp(20px, 5vh, 60px);
+  }
+}
 </style>
 
 <div class="s2-force-overlay" id="s2-force-overlay">
@@ -2994,7 +3000,8 @@
               var bH3 = bubble.offsetHeight || 100;
               bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
               bubble.style.left = Math.max(5, tok3pos.x + 60) + 'px';
-              bubble.style.top = Math.max(5, tok3pos.y - bH3 - 140) + 'px';
+              var tile3UpOffset = window.innerWidth <= 768 ? 180 : 140;
+              bubble.style.top = Math.max(5, tok3pos.y - bH3 - tile3UpOffset) + 'px';
             }
             if (window.positionInlineFc) window.positionInlineFc();
           }, 1600);
