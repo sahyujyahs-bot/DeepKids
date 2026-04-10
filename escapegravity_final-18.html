@@ -3871,39 +3871,62 @@
     <button class="s2-tab s6b-tab" data-tab="gw2">Tile 16</button>
   </div>
 
+  <!-- ── Tile 10: Speed cards to reach ISS ────────────── -->
   <div class="s6b-panel active" id="s6b-gw1">
-    <div class="s6b-content eg-fade-in">
-      <div class="s6b-scenario">
+    <div class="s6b-flow eg-fade-in">
+      <!-- Tile image (placeholder — you'll provide) -->
+      <div class="s6b-tile-img-wrap">
+        <div class="s6b-placeholder">Tile 10 image</div>
+      </div>
+      <!-- Arrow -->
+      <div class="s6b-arrow-h">&#10140;</div>
+      <div class="s6b-arrow-v">&#10140;</div>
+      <!-- Text -->
+      <div class="s6b-text">
         <div class="s6b-tile-badge">Tile 10 &mdash; Earth&rsquo;s Surface</div>
-        <p class="s6b-desc">You play <strong>2 Speed Cards</strong> (Escape Velocity &amp; Sideways Velocity) to reach the ISS.</p>
+        <p class="s6b-desc">You play <strong>2 Speed Cards</strong> &mdash; Escape Velocity &amp; Sideways Velocity &mdash; to reach the ISS.</p>
         <p class="s6b-desc">These are the 2 velocities needed in reality to reach &amp; stay in orbit. All the fuel is burnt to achieve these two speeds.</p>
       </div>
-      <div class="s6b-cards">
-        <div class="s6b-fc-pair">
-          <img class="s6b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity — Speed">
-          <img class="s6b-fc-img" src="IMG_5098.jpeg" alt="Escape Velocity — Speed">
-        </div>
+      <!-- Arrow -->
+      <div class="s6b-arrow-h">&#10140;</div>
+      <div class="s6b-arrow-v">&#10140;</div>
+      <!-- Force cards -->
+      <div class="s6b-fc-pair">
+        <img class="s6b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity">
+        <img class="s6b-fc-img" src="IMG_5098.jpeg" alt="Escape Velocity">
       </div>
     </div>
   </div>
 
+  <!-- ── Tile 16: Balance card at cliff ────────────── -->
   <div class="s6b-panel" id="s6b-gw2">
-    <div class="s6b-content eg-fade-in">
-      <div class="s6b-scenario">
+    <div class="s6b-flow eg-fade-in">
+      <!-- Tile image (placeholder) -->
+      <div class="s6b-tile-img-wrap">
+        <div class="s6b-placeholder">Tile 16 image</div>
+      </div>
+      <!-- Arrow -->
+      <div class="s6b-arrow-h">&#10140;</div>
+      <div class="s6b-arrow-v">&#10140;</div>
+      <!-- Text -->
+      <div class="s6b-text">
         <div class="s6b-tile-badge">Tile 16 &mdash; Cliff Edge</div>
         <p class="s6b-desc">You land on a cliff edge. You play the <strong>Balance &mdash; Center Of Gravity</strong> card to stay or fall down to a lower tile.</p>
-        <p class="s6b-desc">Losing balance at a cliff is deadly &mdash; the same Center of Gravity concept you discovered in the One Leg Balance challenge now saves your game.</p>
+        <p class="s6b-desc">The same concept you discovered in the One Leg Balance challenge now saves your game.</p>
       </div>
-      <div class="s6b-cards">
-        <div class="s6b-fc-pair">
-          <img class="s6b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Balance">
-        </div>
+      <!-- Arrow -->
+      <div class="s6b-arrow-h">&#10140;</div>
+      <div class="s6b-arrow-v">&#10140;</div>
+      <!-- Force card -->
+      <div class="s6b-fc-pair">
+        <img class="s6b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity">
       </div>
     </div>
   </div>
 </section>
 
 <style>
+/* ── Learning Comes Full Circle ───────────────────────── */
 .s6b-subtitle {
   font-family: 'Pompiere', sans-serif;
   font-size: clamp(15px, 1.7vw, 21px);
@@ -3913,17 +3936,61 @@
   margin: 0 auto clamp(16px, 2vh, 24px);
   line-height: 1.5;
 }
-.s6b-panel { display: none; max-width: 800px; margin: 0 auto; }
+.s6b-panel { display: none; max-width: 960px; margin: 0 auto; }
 .s6b-panel.active { display: block; }
-.s6b-content {
+
+/* Flow: tile → arrow → text → arrow → force card */
+.s6b-flow {
   display: flex;
   align-items: center;
-  gap: clamp(20px, 3vw, 36px);
+  gap: clamp(10px, 1.5vw, 20px);
+  justify-content: center;
 }
-@media (max-width: 680px) {
-  .s6b-content { flex-direction: column; }
+
+/* Tile image placeholder / actual image */
+.s6b-tile-img-wrap { flex-shrink: 0; }
+.s6b-tile-img-wrap img {
+  width: clamp(140px, 20vw, 220px);
+  border-radius: clamp(8px, 1.2vw, 14px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  display: block;
 }
-.s6b-scenario { flex: 1; }
+.s6b-placeholder {
+  width: clamp(140px, 20vw, 220px);
+  height: clamp(140px, 20vw, 220px);
+  border-radius: clamp(8px, 1.2vw, 14px);
+  border: 2px dashed rgba(156,188,20,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(12px, 1.3vw, 16px);
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Horizontal arrow (desktop) */
+.s6b-arrow-h {
+  font-size: clamp(20px, 2.5vw, 32px);
+  color: rgba(156,188,20,0.5);
+  flex-shrink: 0;
+  line-height: 1;
+}
+/* Vertical arrow (mobile) — hidden on desktop */
+.s6b-arrow-v {
+  display: none;
+  font-size: clamp(20px, 5vw, 32px);
+  color: rgba(156,188,20,0.5);
+  transform: rotate(90deg);
+  line-height: 1;
+}
+
+/* Text block */
+.s6b-text {
+  flex: 1;
+  min-width: 0;
+}
 .s6b-tile-badge {
   display: inline-block;
   font-family: 'Norwester', sans-serif;
@@ -3933,26 +4000,42 @@
   border: 1px solid rgba(156,188,20,0.3);
   padding: 4px 16px;
   border-radius: 20px;
-  margin-bottom: clamp(10px, 1.5vh, 16px);
+  margin-bottom: clamp(8px, 1vh, 14px);
 }
 .s6b-desc {
   font-family: 'Pompiere', sans-serif;
   font-size: clamp(15px, 1.6vw, 19px);
   color: rgba(255,255,255,0.85);
   line-height: 1.6;
-  margin: 0 0 clamp(8px, 1vh, 12px);
+  margin: 0 0 clamp(6px, 0.8vh, 10px);
 }
 .s6b-desc strong { color: #9cbc14; }
-.s6b-cards { flex-shrink: 0; }
+
+/* Force cards */
 .s6b-fc-pair {
   display: flex;
-  gap: clamp(8px, 1vw, 14px);
+  flex-direction: column;
+  gap: clamp(6px, 0.8vw, 10px);
+  flex-shrink: 0;
 }
 .s6b-fc-img {
   width: clamp(120px, 18vw, 180px);
   border-radius: clamp(8px, 1.2vw, 14px);
   box-shadow: 0 4px 20px rgba(0,0,0,0.5);
   display: block;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 680px) {
+  .s6b-flow {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .s6b-arrow-h { display: none; }
+  .s6b-arrow-v { display: block; }
+  .s6b-fc-pair { flex-direction: row; }
+  .s6b-fc-img { width: clamp(110px, 30vw, 160px); }
 }
 </style>
 
