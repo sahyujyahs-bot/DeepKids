@@ -2528,8 +2528,8 @@
       var tok11pos = tilePos(TILE11_NX, TILE11_NY);
       var bubbleW = bbl.offsetWidth || 200;
       var bubbleH = bbl.offsetHeight || 100;
-      var bx = Math.max(5, tok11pos.x + 30);
-      var by = Math.max(5, tok11pos.y - bubbleH - 90);
+      var bx = Math.max(5, tok11pos.x + 60);
+      var by = Math.max(5, tok11pos.y - bubbleH - 140);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       if (window.updateBubbleLink) window.updateBubbleLink();
@@ -2972,8 +2972,8 @@
           var bW = bubble.offsetWidth || 200;
           var bH = bubble.offsetHeight || 100;
           bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-          bubble.style.left = Math.max(5, tok7pos.x + 30) + 'px';
-          bubble.style.top = Math.max(5, tok7pos.y - bH - 90) + 'px';
+          bubble.style.left = Math.max(5, tok7pos.x + 60) + 'px';
+          bubble.style.top = Math.max(5, tok7pos.y - bH - 140) + 'px';
         }
         if (window.positionInlineFc) window.positionInlineFc();
       }, 1600);
@@ -2993,8 +2993,8 @@
               var bW3 = bubble.offsetWidth || 200;
               var bH3 = bubble.offsetHeight || 100;
               bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-              bubble.style.left = Math.max(5, tok3pos.x + 30) + 'px';
-              bubble.style.top = Math.max(5, tok3pos.y - bH3 - 90) + 'px';
+              bubble.style.left = Math.max(5, tok3pos.x + 60) + 'px';
+              bubble.style.top = Math.max(5, tok3pos.y - bH3 - 140) + 'px';
             }
             if (window.positionInlineFc) window.positionInlineFc();
           }, 1600);
