@@ -2852,8 +2852,11 @@
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
       // Move inline-fc to follow token
+      var br = document.getElementById('s2-board-row');
+      var brH = br ? br.clientHeight : 600;
+      var brW = br ? br.clientWidth : 800;
       var curTop = parseFloat(inlineFc.style.top) || 0;
-      var dropDist = Math.max(80, cssH() * 0.22);
+      var dropDist = Math.max(80, brH * 0.22);
       inlineFc.style.top = (curTop + dropDist) + 'px';
 
       // After drop settles, update text
@@ -2865,8 +2868,8 @@
           if (window.dropToTile3) window.dropToTile3();
           var curTop2 = parseFloat(inlineFc.style.top) || 0;
           var curLeft2 = parseFloat(inlineFc.style.left) || 0;
-          var stepD = Math.max(18, cssH() * 0.042);
-          var stepL = Math.max(18, cssW() * 0.032);
+          var stepD = Math.max(18, brH * 0.042);
+          var stepL = Math.max(18, brW * 0.032);
           inlineFc.style.top = (curTop2 + stepD * 5) + 'px';
           inlineFc.style.left = (curLeft2 - stepL * 3) + 'px';
 
