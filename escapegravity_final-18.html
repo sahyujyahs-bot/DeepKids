@@ -1359,19 +1359,23 @@
     border: 2px solid #6b2155;
     box-shadow: 0 6px 20px rgba(0,0,0,0.6);
   }
-  /* Step 3 persistent card: image pinned to right (desktop) / top (mobile) */
+  /* Step 3: text + card side by side, follows token */
+  .s2-inline-fc.step3-card {
+    flex-direction: row;
+    align-items: center;
+    gap: clamp(10px, 2vw, 20px);
+    transition: opacity 0.5s ease, transform 0.4s cubic-bezier(.34,1.56,.64,1),
+                top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1);
+  }
   .s2-inline-fc.step3-card .s2-inline-fc-card {
-    position: fixed;
-    right: 3%; top: 50%;
-    transform: translateY(-50%);
-    width: clamp(180px, 26vw, 340px);
-    z-index: 45;
+    width: clamp(140px, 18vw, 260px);
   }
   @media (max-width: 768px) {
+    .s2-inline-fc.step3-card {
+      flex-direction: column;
+    }
     .s2-inline-fc.step3-card .s2-inline-fc-card {
-      right: 50%; top: 12%;
-      transform: translateX(50%);
-      width: clamp(140px, 40vw, 240px);
+      width: clamp(100px, 28vw, 180px);
     }
   }
   .s2-inline-fc-card img {
@@ -2831,22 +2835,35 @@
     var inlineFc = document.getElementById('s2-inline-fc');
     var inlineFcText = document.getElementById('s2-inline-fc-text');
 
-    // Position text near token, card image goes to right/top via CSS
+    // Position text + card side by side near token
     inlineFc.classList.add('step3-card');
     if (window.positionInlineFc) window.positionInlineFc();
     if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
     inlineFc.classList.add('show');
 
-    // Drop to tile 7
+    // Drop to tile 7 — move token AND inline-fc together
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
-      // After drop, update text to "Only 1 Card"
+      // Move inline-fc to follow token
+      var curTop = parseFloat(inlineFc.style.top) || 0;
+      var dropDist = Math.max(80, cssH() * 0.22);
+      inlineFc.style.top = (curTop + dropDist) + 'px';
+
+      // After drop settles, update text
       setTimeout(function() {
         if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
-        // Drop to tile 3
+
+        // Drop to tile 3 — move token AND inline-fc together
         setTimeout(function() {
           if (window.dropToTile3) window.dropToTile3();
-          // Hide card after final drop
+          var curTop2 = parseFloat(inlineFc.style.top) || 0;
+          var curLeft2 = parseFloat(inlineFc.style.left) || 0;
+          var stepD = Math.max(18, cssH() * 0.042);
+          var stepL = Math.max(18, cssW() * 0.032);
+          inlineFc.style.top = (curTop2 + stepD * 5) + 'px';
+          inlineFc.style.left = (curLeft2 - stepL * 3) + 'px';
+
+          // Hide after final drop
           setTimeout(function() {
             inlineFc.classList.remove('show');
             inlineFc.classList.remove('step3-card');
