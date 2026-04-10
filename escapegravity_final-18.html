@@ -4595,14 +4595,12 @@
   margin: 0 auto;
   border-radius: clamp(10px, 1.5vw, 16px);
   overflow: hidden;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
-  border: 1px solid rgba(156,188,20,0.15);
 }
 #eg-runner {
   display: block;
   width: 100%;
   height: auto;
-  background: #0a0618;
+  background: transparent;
 }
 .game-hud {
   position: absolute;
@@ -4825,16 +4823,8 @@
   function draw() {
     ctx.clearRect(0, 0, W, H);
 
-    // Stars
-    stars.forEach(function(s) {
-      s.x -= s.sp;
-      if (s.x < 0) { s.x = W; s.y = Math.random() * (GROUND - 20); }
-      ctx.fillStyle = 'rgba(255,255,255,' + (s.s / 2) + ')';
-      ctx.fillRect(s.x, s.y, s.s, s.s);
-    });
-
-    // Ground
-    ctx.fillStyle = '#1a0a2e';
+    // Ground (semi-transparent — page starry bg shows through)
+    ctx.fillStyle = 'rgba(26,10,46,0.6)';
     ctx.fillRect(0, GROUND, W, H - GROUND);
     ctx.strokeStyle = 'rgba(156,188,20,0.3)';
     ctx.lineWidth = 1;
@@ -4856,8 +4846,7 @@
       var wk = w.well.cat;
 
       // Erase ground where pit is
-      ctx.fillStyle = '#0a0618';
-      ctx.fillRect(px1, pitY, w.w, H - pitY);
+      ctx.clearRect(px1, pitY, w.w, H - pitY);
 
       // Pit walls
       ctx.strokeStyle = 'rgba(255,255,255,0.25)';
