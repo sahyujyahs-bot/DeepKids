@@ -2428,9 +2428,21 @@
   }
 
   /* ── Jump to tile-11 state with bubble for Step 3 ──────── */
+  /* Shift the board right so tiles below (2-7) are more visible */
   function jumpToState4WithBubble() {
     jumpToState4();
-    // Override bubble link to show "Your Force Card"
+
+    // After zoom completes, pan the board slightly right
+    rollTimers.push(setTimeout(() => {
+      var boardRow = document.getElementById('s2-board-row');
+      if (boardRow) {
+        boardRow.style.transition = 'transform 1.2s ease-in-out';
+        var shiftX = window.innerWidth < 768 ? '8vw' : '12vw';
+        boardRow.style.transform = 'translateX(' + shiftX + ')';
+      }
+    }, 2000));
+
+    // Override bubble link to show "Check Your Force Card"
     rollTimers.push(setTimeout(() => {
       var bbl = document.getElementById('s2-comic-bubble');
       if (bbl && bbl.classList.contains('show')) {
@@ -2438,6 +2450,15 @@
       }
     }, 2500));
   }
+  // Reset board position when leaving Step 3
+  window.resetBoardOffset = function() {
+    var boardRow = document.getElementById('s2-board-row');
+    if (boardRow) {
+      boardRow.style.transition = 'transform 0.5s ease';
+      boardRow.style.transform = '';
+      setTimeout(function() { boardRow.style.transition = ''; }, 600);
+    }
+  };
   window.jumpToState4WithBubble = jumpToState4WithBubble;
 
   /* ── Dice roll ──────────────────────────────────────────── */
@@ -2615,6 +2636,7 @@
       if (panel) panel.classList.add('active');
       setBoardElementsVisible(target === 'boardgame');
       if (window.stopSciAnimation) window.stopSciAnimation();
+      if (target !== 'science' && window.resetBoardOffset) window.resetBoardOffset();
       // Show nav on physical tab too, update button states
       if (target === 'physical') {
         initCardFan();
