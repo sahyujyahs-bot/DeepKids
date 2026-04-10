@@ -1117,15 +1117,15 @@
   #s2-tok-blue { width: clamp(80px, 12vw, 190px); }
   #s2-tok-red  { width: clamp(62px,  9vw, 145px); }
 
-  /* Step 3: smaller tokens and bubble */
-  #s3.step3-view #s2-tok-blue { width: clamp(45px, 7vw, 100px); }
-  #s3.step3-view #s2-tok-red  { width: clamp(35px, 5vw, 75px); }
+  /* Step 3: tokens and bubble */
+  #s3.step3-view #s2-tok-blue { width: clamp(65px, 10vw, 140px); }
+  #s3.step3-view #s2-tok-red  { width: clamp(50px, 7vw, 100px); }
   #s3.step3-view .s2-bubble-box {
-    font-size: clamp(11px, 1.4vw, 16px);
-    padding: clamp(8px, 1.2vw, 14px) clamp(10px, 1.8vw, 20px);
-    max-width: clamp(160px, 28vw, 280px);
-    border-radius: 12px;
-    border-width: 2px;
+    font-size: clamp(14px, 2vw, 22px);
+    padding: clamp(12px, 1.8vw, 20px) clamp(14px, 2.5vw, 30px);
+    max-width: clamp(220px, 36vw, 380px);
+    border-radius: 14px;
+    border-width: 3px;
   }
   #s3.step3-view .s2-bubble-box::after {
     left: 8%;
@@ -2007,8 +2007,8 @@
   const TILE7_NY         = 0.536;
   const TILE3_NX         = 0.579;  // tile 3 — same angle as tile 11, ~35% radius
   const TILE3_NY         = 0.520;
-  const TILE2_NX         = 0.579;  // tile 2 — same ring as tile 3, straight to the left after rotation
-  const TILE2_NY         = 0.475;
+  const TILE2_NX         = 0.555;  // tile 2 — inner ring, to the right of tile 3 after rotation
+  const TILE2_NY         = 0.565;
   // Force category icon positions within each tile (inner edge of arc)
   const ICON11_NX        = 0.6895; // Earth icon on tile 11
   const ICON11_NY        = 0.5506;
@@ -3030,14 +3030,14 @@
             setTimeout(function() {
               if (window.dropToTile2) window.dropToTile2();
 
-              // Move bubble at the same time as the token — tile 2 is to the left
+              // Move bubble at the same time as the token — tile 2 is to the right
               var tok2pos = window.tilePos(window.TILE2_NX, window.TILE2_NY);
               if (bubble) {
                 var bW2 = bubble.offsetWidth || 200;
                 var bH2 = bubble.offsetHeight || 100;
                 bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-                bubble.style.left = Math.max(5, tok2pos.x - bW2 - 30) + 'px';
-                var tile2UpOffset = window.innerWidth <= 768 ? 180 : 140;
+                bubble.style.left = Math.max(5, tok2pos.x + 60) + 'px';
+                var tile2UpOffset = window.innerWidth <= 768 ? 220 : 180;
                 bubble.style.top = Math.max(5, tok2pos.y - bH2 - tile2UpOffset) + 'px';
               }
               if (window.positionInlineFc) window.positionInlineFc();
