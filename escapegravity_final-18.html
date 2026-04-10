@@ -1538,22 +1538,36 @@
     </div>
 
     <style>
-    /* ── Science — Free-form tile collage ──────────── */
+    /* ── Science — Flower tile collage ──────────────── */
     #sci-collage {
       position: relative;
-      width: 100%;
-      max-width: 900px;
+      width: 90%;
+      max-width: 700px;
       margin: 0 auto;
-      aspect-ratio: 4 / 5;
+      aspect-ratio: 1 / 1;
     }
     .sci-tile-shot {
       position: absolute;
       display: block;
       height: auto;
-      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
+      filter: drop-shadow(0 3px 8px rgba(0,0,0,0.45));
+    }
+    /* The core circle — centered, on top */
+    .sci-core {
+      z-index: 2;
+      width: 22%;
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    /* Each petal — anchored near center, rotated outward */
+    .sci-petal {
+      width: 40%;
+      transform-origin: 15% 80%;
     }
     @media (max-width: 600px) {
-      #sci-collage { aspect-ratio: 3 / 5; }
+      #sci-collage { width: 95%; }
+      .sci-petal { width: 42%; }
+      .sci-core { width: 24%; }
     }
     </style>
 
@@ -1941,30 +1955,26 @@
   <div style="display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);position:relative;z-index:10;">
     <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Each Tile Carries Science</h2>
   </div>
-  <div id="sci-collage" style="padding:clamp(8px,2vw,24px) clamp(16px,5vw,60px);width:100%;box-sizing:border-box;">
-    <!-- Top cluster -->
-    <img class="sci-tile-shot" src="Section4.5.png" alt="No Air Molecules — Tile 42"
-         style="width:48%;top:0%;left:26%;">
-    <img class="sci-tile-shot" src="Section4.7.png" alt="Airplanes Cause Drag — Tile 23"
-         style="width:44%;top:4%;left:52%;transform:rotate(6deg);">
-    <img class="sci-tile-shot" src="Section4.4.png" alt="Time Speeds With Height — Tile 28"
-         style="width:42%;top:3%;left:2%;transform:rotate(-8deg);">
-    <!-- Middle layer -->
-    <img class="sci-tile-shot" src="Section4.6.png" alt="Meteors Cause Turbulence — Tile 32"
-         style="width:46%;top:22%;left:50%;transform:rotate(4deg);">
-    <img class="sci-tile-shot" src="Section4.3.png" alt="Mesosphere Stabilises Temperature — Tile 35"
-         style="width:44%;top:24%;left:0%;transform:rotate(-5deg);">
-    <!-- Center — core -->
-    <img class="sci-tile-shot" src="Section4.8.png" alt="Gravity 0, Time Slows — Core"
-         style="width:28%;top:40%;left:36%;">
-    <!-- Lower arcs -->
-    <img class="sci-tile-shot" src="Section4.1.png" alt="Ocean Less Dense — Tile 12"
-         style="width:38%;top:52%;left:4%;transform:rotate(5deg);">
-    <img class="sci-tile-shot" src="Section4.2.png" alt="Time Slows Close To Center — Tile 5"
-         style="width:36%;top:50%;left:58%;transform:rotate(-6deg);">
-    <!-- Bottom -->
-    <img class="sci-tile-shot" src="Section4.9.png" alt="Gravity Highest At Surface — Tile 13"
-         style="width:40%;top:72%;left:30%;transform:rotate(3deg);">
+  <div id="sci-collage">
+    <!-- Petals: 8 arcs radiating outward from center at 45° intervals -->
+    <img class="sci-tile-shot sci-petal" src="Section4.5.png" alt="No Air — Tile 42"
+         style="top:32%;left:32%;transform:rotate(0deg);">
+    <img class="sci-tile-shot sci-petal" src="Section4.4.png" alt="Time Speeds — Tile 28"
+         style="top:32%;left:32%;transform:rotate(45deg);">
+    <img class="sci-tile-shot sci-petal" src="Section4.7.png" alt="Airplanes — Tile 23"
+         style="top:32%;left:32%;transform:rotate(90deg);">
+    <img class="sci-tile-shot sci-petal" src="Section4.6.png" alt="Meteors — Tile 32"
+         style="top:32%;left:32%;transform:rotate(135deg);">
+    <img class="sci-tile-shot sci-petal" src="Section4.3.png" alt="Mesosphere — Tile 35"
+         style="top:32%;left:32%;transform:rotate(180deg);">
+    <img class="sci-tile-shot sci-petal" src="Section4.9.png" alt="Gravity Highest — Tile 13"
+         style="top:32%;left:32%;transform:rotate(225deg);">
+    <img class="sci-tile-shot sci-petal" src="Section4.1.png" alt="Ocean — Tile 12"
+         style="top:32%;left:32%;transform:rotate(270deg);">
+    <img class="sci-tile-shot sci-petal" src="Section4.2.png" alt="Time Slows — Tile 5"
+         style="top:32%;left:32%;transform:rotate(315deg);">
+    <!-- Center core — on top -->
+    <img class="sci-tile-shot sci-core" src="Section4.8.png" alt="Core — Tile 0">
   </div>
 </section>
 
