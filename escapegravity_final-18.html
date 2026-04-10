@@ -2428,27 +2428,71 @@
   }
 
   /* ── Jump to tile-11 state with bubble for Step 3 ──────── */
-  /* Shift the board right so tiles below (2-7) are more visible */
+  /* ── Jump to full board view for Step 3, core shifted right-bottom ── */
   function jumpToState4WithBubble() {
-    jumpToState4();
+    cancelAllAnimations();
+    var bubble = document.getElementById('s2-comic-bubble');
+    if (bubble) bubble.classList.remove('show');
 
-    // After zoom completes, pan the board slightly right
-    rollTimers.push(setTimeout(() => {
-      var boardRow = document.getElementById('s2-board-row');
-      if (boardRow) {
-        boardRow.style.transition = 'transform 1.2s ease-in-out';
-        var shiftX = window.innerWidth < 768 ? '8vw' : '12vw';
-        boardRow.style.transform = 'translateX(' + shiftX + ')';
-      }
-    }, 2000));
+    // Reset to full board — no zoom, no rotation
+    currentScale = 1;
+    currentRotation = 0;
+    curFocusNX = BOARD_CENTER_NX;
+    curFocusNY = BOARD_CENTER_NY;
+    drawBoard(1, 0);
 
-    // Override bubble link to show "Check Your Force Card"
+    // Hide dice/result UI
+    diceWrap.classList.remove('show');
+    diceWrap.classList.add('hide');
+    dice.classList.remove('idle','rolling');
+    hint.style.opacity = '0';
+    label.style.opacity = '0';
+    result.classList.remove('show');
+    progress.style.opacity = '0';
+
+    // Show tokens at tile 10/11 positions on the unrotated board
+    showTokens();
+    var p11 = tilePos(TILE11_NX, TILE11_NY);
+    var p10 = tilePos(TILE10_NX, TILE10_NY);
+    var sd = Math.max(18, cssH() * 0.042);
+    var sr = Math.max(18, cssW() * 0.032);
+    var blueExtra = Math.max(12, cssH() * 0.055);
+    tokBlue.style.transition = '';
+    tokBlue.style.left = (p11.x + sr) + 'px';
+    tokBlue.style.top = (p11.y + sd + blueExtra) + 'px';
+    tokRed.style.transition = '';
+    tokRed.style.left = (p10.x + sr + 40) + 'px';
+    tokRed.style.top = (p10.y + sd) + 'px';
+
+    state = 4; busy = false;
+    btnBack.disabled = false; btnFwd.disabled = false;
+
+    // Shift board right so core moves toward right-bottom
+    var boardRow = document.getElementById('s2-board-row');
+    if (boardRow) {
+      boardRow.style.transition = 'transform 1.2s ease-in-out';
+      var shiftX = window.innerWidth < 768 ? '15vw' : '22vw';
+      var shiftY = window.innerWidth < 768 ? '8vh' : '5vh';
+      boardRow.style.transform = 'translate(' + shiftX + ', ' + shiftY + ')';
+    }
+
+    // Show bubble after board settles
     rollTimers.push(setTimeout(() => {
       var bbl = document.getElementById('s2-comic-bubble');
-      if (bbl && bbl.classList.contains('show')) {
-        if (window.updateBubbleLink) window.updateBubbleLink();
-      }
-    }, 2500));
+      if (!bbl) return;
+      var tokRect = tokBlue.getBoundingClientRect();
+      var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
+      var tokX = tokRect.left - brRect.left + tokRect.width;
+      var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
+      var bubbleW = bbl.offsetWidth || 250;
+      var mobileOff = window.innerWidth < 768 ? -25 : 105;
+      var bx = Math.max(8, Math.min(tokX - 30, brRect.width - bubbleW - 8));
+      var by = Math.max(5, tokY + mobileOff);
+      bbl.style.left = bx + 'px';
+      bbl.style.top = by + 'px';
+      if (window.updateBubbleLink) window.updateBubbleLink();
+      bbl.classList.add('show');
+    }, 1800));
   }
   // Reset board position when leaving Step 3
   window.resetBoardOffset = function() {
