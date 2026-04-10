@@ -1382,7 +1382,7 @@
     white-space: nowrap;
   }
   .s2-inline-fc-card {
-    width: clamp(120px, 20vw, 260px);
+    width: clamp(180px, 30vw, 380px);
     border-radius: 8px;
     overflow: hidden;
     border: 2px solid #6b2155;
@@ -1403,7 +1403,7 @@
     flex-shrink: 1;
   }
   .s2-inline-fc.step3-card .s2-inline-fc-card {
-    width: clamp(140px, 18vw, 260px);
+    width: clamp(200px, 25vw, 380px);
     flex-shrink: 0;
   }
   @media (max-width: 768px) {
@@ -1411,7 +1411,7 @@
       max-width: clamp(100px, 30vw, 160px);
     }
     .s2-inline-fc.step3-card .s2-inline-fc-card {
-      width: clamp(100px, 28vw, 180px);
+      width: clamp(140px, 35vw, 240px);
     }
   }
   .s2-inline-fc-card img {
@@ -2975,44 +2975,40 @@
     if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
     inlineFc.classList.add('show');
 
-    // Drop to tile 7 — use actual tile position
+    // Drop to tile 7 — move token and bubble together
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
 
-      // Reposition bubble to upper-right of token on tile 7
-      setTimeout(function() {
-        var tok7pos = window.tilePos(window.TILE7_NX, window.TILE7_NY);
-        if (bubble) {
-          var bW = bubble.offsetWidth || 200;
-          var bH = bubble.offsetHeight || 100;
-          bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-          bubble.style.left = Math.max(5, tok7pos.x + 60) + 'px';
-          bubble.style.top = Math.max(5, tok7pos.y - bH - 160) + 'px';
-        }
-        if (window.positionInlineFc) window.positionInlineFc();
-      }, 1600);
+      // Move bubble at the same time as the token
+      var tok7pos = window.tilePos(window.TILE7_NX, window.TILE7_NY);
+      if (bubble) {
+        var bW = bubble.offsetWidth || 200;
+        var bH = bubble.offsetHeight || 100;
+        bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
+        bubble.style.left = Math.max(5, tok7pos.x + 60) + 'px';
+        bubble.style.top = Math.max(5, tok7pos.y - bH - 160) + 'px';
+      }
+      if (window.positionInlineFc) window.positionInlineFc();
 
       // After drop settles, update text
       setTimeout(function() {
         if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
 
-        // Drop to tile 3 — use actual tile position
+        // Drop to tile 3 — move token and bubble together
         setTimeout(function() {
           if (window.dropToTile3) window.dropToTile3();
 
-          // Reposition bubble to upper-right of token on tile 3
-          setTimeout(function() {
-            var tok3pos = window.tilePos(window.TILE3_NX, window.TILE3_NY);
-            if (bubble) {
-              var bW3 = bubble.offsetWidth || 200;
-              var bH3 = bubble.offsetHeight || 100;
-              bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-              bubble.style.left = Math.max(5, tok3pos.x + 60) + 'px';
-              var tile3UpOffset = window.innerWidth <= 768 ? 180 : 140;
-              bubble.style.top = Math.max(5, tok3pos.y - bH3 - tile3UpOffset) + 'px';
-            }
-            if (window.positionInlineFc) window.positionInlineFc();
-          }, 1600);
+          // Move bubble at the same time as the token
+          var tok3pos = window.tilePos(window.TILE3_NX, window.TILE3_NY);
+          if (bubble) {
+            var bW3 = bubble.offsetWidth || 200;
+            var bH3 = bubble.offsetHeight || 100;
+            bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
+            bubble.style.left = Math.max(5, tok3pos.x + 60) + 'px';
+            var tile3UpOffset = window.innerWidth <= 768 ? 180 : 140;
+            bubble.style.top = Math.max(5, tok3pos.y - bH3 - tile3UpOffset) + 'px';
+          }
+          if (window.positionInlineFc) window.positionInlineFc();
 
           // Hide inline force card label after drop settles (keep bubble visible)
           setTimeout(function() {
