@@ -2529,7 +2529,7 @@
       var bubbleW = bbl.offsetWidth || 200;
       var bubbleH = bbl.offsetHeight || 100;
       var bx = Math.max(5, tok11pos.x + 30);
-      var by = Math.max(5, tok11pos.y - bubbleH - 30);
+      var by = Math.max(5, tok11pos.y - bubbleH - 90);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       if (window.updateBubbleLink) window.updateBubbleLink();
@@ -2973,7 +2973,7 @@
           var bH = bubble.offsetHeight || 100;
           bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
           bubble.style.left = Math.max(5, tok7pos.x + 30) + 'px';
-          bubble.style.top = Math.max(5, tok7pos.y - bH - 30) + 'px';
+          bubble.style.top = Math.max(5, tok7pos.y - bH - 90) + 'px';
         }
         if (window.positionInlineFc) window.positionInlineFc();
       }, 1600);
@@ -2994,7 +2994,7 @@
               var bH3 = bubble.offsetHeight || 100;
               bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
               bubble.style.left = Math.max(5, tok3pos.x + 30) + 'px';
-              bubble.style.top = Math.max(5, tok3pos.y - bH3 - 30) + 'px';
+              bubble.style.top = Math.max(5, tok3pos.y - bH3 - 90) + 'px';
             }
             if (window.positionInlineFc) window.positionInlineFc();
           }, 1600);
