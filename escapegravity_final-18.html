@@ -3368,7 +3368,7 @@
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
 (function(){
   'use strict';
-  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s6b-gravity','s-spiral','s-forces','s5','s6','s7','eg-footer'];
+  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s6b-gravity','s-spiral','s-forces','s-experience','s5','s6','s7','eg-footer'];
   const sectionEls = sectionIds.map(id => document.getElementById(id));
   const allNavLinks = document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a');
 
@@ -4518,6 +4518,54 @@
   });
 })();
 </script>
+
+<!-- ═══════════════════════════════════════════════ S-EXPERIENCE ══ -->
+<section id="s-experience" class="eg-section">
+  <h2 class="eg-section-title eg-fade-in" style="max-width:700px;margin-left:auto;margin-right:auto;margin-bottom:clamp(20px,3vh,36px);">Gravity Is Not Just Read In Books, Gravity Is Experienced</h2>
+
+  <div class="exp-grid eg-fade-in">
+    <div class="exp-item"><div class="exp-placeholder">Illustration 1</div></div>
+    <div class="exp-item"><div class="exp-placeholder">Illustration 2</div></div>
+    <div class="exp-item"><div class="exp-placeholder">Illustration 3</div></div>
+    <div class="exp-item"><div class="exp-placeholder">Illustration 4</div></div>
+    <div class="exp-item"><div class="exp-placeholder">Illustration 5</div></div>
+    <div class="exp-item"><div class="exp-placeholder">Illustration 6</div></div>
+  </div>
+</section>
+
+<style>
+/* ── Gravity Is Experienced ──────────────────────────── */
+.exp-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: clamp(12px, 2vw, 24px);
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 clamp(12px, 3vw, 40px);
+}
+.exp-item img {
+  width: 100%;
+  display: block;
+  border-radius: clamp(8px, 1.2vw, 14px);
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+}
+.exp-placeholder {
+  aspect-ratio: 1 / 1;
+  border-radius: clamp(8px, 1.2vw, 14px);
+  border: 2px dashed rgba(156,188,20,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(12px, 1.3vw, 16px);
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+@media (max-width: 600px) {
+  .exp-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
 
 <!-- ═══════════════════════════════════════════════ S5: ABOUT ══ -->
 <section id="s5" class="eg-section">
