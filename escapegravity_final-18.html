@@ -2428,14 +2428,16 @@
   }
 
   /* ── Jump to tile-11 state with bubble for Step 3 ──────── */
-  /* ── Jump to full board view for Step 3, core at bottom-left quarter ── */
+  /* ── Jump to board view for Step 3: 180° CCW, core at bottom-left ── */
   function jumpToState4WithBubble() {
     cancelAllAnimations();
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) bubble.classList.remove('show');
 
-    // Zoom into board with core at bottom of screen, 1/4 from left
-    // Use drawBoard's focus system: set focus so core maps to target viewport position
+    // Rotate 180° CCW so top quadrant of spiral is above the core
+    var rotation = -Math.PI;  // 180° counter-clockwise
+    var tgtScale = 2.5;
+
     var W = cssW(), H = cssH();
     var nat = (window.boardImg && window.boardImg.naturalWidth) || 1200;
     var imgScale = Math.min(W, H) / nat;
@@ -2443,21 +2445,17 @@
     var bCX = (W - dispW) / 2 + BOARD_CENTER_NX * dispW;
     var bCY = (H - dispW) / 2 + BOARD_CENTER_NY * dispW;
 
-    // Target: core at 25% from left, 90% from top
-    var tgtScale = 2.2;
-    var tgtVpX = 0.25 * W;
-    var tgtVpY = 0.90 * H;
-    // Solve: vpPos = focusPos + scale * (corePos - focusPos)
-    // => focusPos = (scale * corePos - vpPos) / (scale - 1)
+    // Target: core at ~30% from left, 88% from top
+    var tgtVpX = 0.30 * W;
+    var tgtVpY = 0.88 * H;
     var focX = (tgtScale * bCX - tgtVpX) / (tgtScale - 1);
     var focY = (tgtScale * bCY - tgtVpY) / (tgtScale - 1);
-    // Convert to normalized coords
     curFocusNX = BOARD_CENTER_NX + (bCY - focY) / dispW;
     curFocusNY = 0.500 + (focX - bCX) / dispW;
 
     currentScale = tgtScale;
-    currentRotation = 0;
-    drawBoard(tgtScale, 0);
+    currentRotation = rotation;
+    drawBoard(tgtScale, rotation);
 
     // Hide dice/result UI
     diceWrap.classList.remove('show');
