@@ -1117,6 +1117,29 @@
   #s2-tok-blue { width: clamp(80px, 12vw, 190px); }
   #s2-tok-red  { width: clamp(62px,  9vw, 145px); }
 
+  /* Step 3: smaller tokens and bubble */
+  #s3.step3-view #s2-tok-blue { width: clamp(45px, 7vw, 100px); }
+  #s3.step3-view #s2-tok-red  { width: clamp(35px, 5vw, 75px); }
+  #s3.step3-view .s2-bubble-box {
+    font-size: clamp(11px, 1.4vw, 16px);
+    padding: clamp(8px, 1.2vw, 14px) clamp(10px, 1.8vw, 20px);
+    max-width: clamp(160px, 28vw, 280px);
+    border-radius: 12px;
+    border-width: 2px;
+  }
+  #s3.step3-view .s2-bubble-box::after {
+    bottom: -12px;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 13px solid #7aa010;
+  }
+  #s3.step3-view .s2-bubble-box::before {
+    bottom: -15px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid #6b2155;
+  }
+
   /* ── Tile label ──────────────────────────────────────────── */
   #s2-label {
     position: absolute; z-index: 26; left: 50%; top: 8%;
@@ -2677,7 +2700,9 @@
       if (panel) panel.classList.add('active');
       setBoardElementsVisible(target === 'boardgame');
       if (window.stopSciAnimation) window.stopSciAnimation();
-      if (target !== 'science' && window.resetBoardOffset) window.resetBoardOffset();
+      var s3El = document.getElementById('s3');
+      if (target === 'science') { if (s3El) s3El.classList.add('step3-view'); }
+      else { if (s3El) s3El.classList.remove('step3-view'); if (window.resetBoardOffset) window.resetBoardOffset(); }
       // Show nav on physical tab too, update button states
       if (target === 'physical') {
         initCardFan();
