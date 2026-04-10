@@ -2523,6 +2523,11 @@
           bubble.style.top = by + 'px';
           if (window.updateBubbleLink) window.updateBubbleLink();
           bubble.classList.add('show');
+          // Auto-advance to Step 3 after showing bubble
+          rollTimers.push(setTimeout(() => {
+            var sciTab2 = document.querySelector('.s2-tab[data-panel="science"]');
+            if (sciTab2) { sciTab2.classList.remove('locked'); sciTab2.click(); }
+          }, 5000));
         }
       }, 5000));
     }, 2000));
