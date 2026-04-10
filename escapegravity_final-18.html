@@ -2471,18 +2471,18 @@
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) bubble.classList.remove('show');
 
-    // Rotated 90° CCW, zoomed so core is cut in half at bottom
+    // Rotated 90° CCW, zoomed to show tiles 11, 7, 3 and 2
     var rotation = -Math.PI / 2;
-    var tgtScale = 2.2;
     var W = cssW(), H = cssH();
     var nat = (window.boardImg && window.boardImg.naturalWidth) || 1200;
     var imgScale = Math.min(W, H) / nat;
     var dispW = nat * imgScale;
     var bCX = (W - dispW) / 2 + BOARD_CENTER_NX * dispW;
     var bCY = (H - dispW) / 2 + BOARD_CENTER_NY * dispW;
-    // Core at center horizontally, bottom edge vertically (half cut)
-    var tgtVpX = 0.50 * W;
-    var tgtVpY = 1.0 * H;
+    var tgtScale = Math.min(6.5, 1.15 * H / (0.22 * dispW));
+    // Frame the tile 11→2 corridor
+    var tgtVpX = 0.12 * W;
+    var tgtVpY = 0.85 * H;
     var focX = (tgtScale * bCX - tgtVpX) / (tgtScale - 1);
     var focY = (tgtScale * bCY - tgtVpY) / (tgtScale - 1);
     curFocusNX = BOARD_CENTER_NX + (bCY - focY) / dispW;
