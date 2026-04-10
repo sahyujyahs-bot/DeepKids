@@ -1346,14 +1346,14 @@
   .s2-inline-fc-text {
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
-    font-size: clamp(12px, 1.8vw, 20px);
+    font-size: clamp(16px, 2.5vw, 28px);
     color: #ff4444;
     text-shadow: 0 0 12px rgba(255,68,68,0.6), 2px 2px 0 rgba(0,0,0,0.8);
     text-align: center;
     white-space: nowrap;
   }
   .s2-inline-fc-card {
-    width: clamp(80px, 12vw, 150px);
+    width: clamp(120px, 20vw, 260px);
     border-radius: 8px;
     overflow: hidden;
     border: 2px solid #6b2155;
@@ -2785,7 +2785,7 @@
   function updateBubbleLink() {
     var bl = document.getElementById('s2-bubble-fc-link');
     if (!bl) return;
-    bl.textContent = forceEarned ? 'Your Force Card' : 'Earn a Force Card';
+    bl.textContent = forceEarned ? 'Check Your Force Card' : 'Earn a Force Card';
   }
 
   // Bubble link click handler
@@ -2823,37 +2823,19 @@
       inlineFc.classList.remove('show');
       setTimeout(function() {
         if (window.dropToTile7) window.dropToTile7();
-        // After dropping to tile 7, show bubble for "Any 2 Cards" tile
+        // After dropping to tile 7, show "Only 1 Card" and drop to tile 3
         setTimeout(function() {
-          showTile7Bubble();
+          if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
+          if (window.positionInlineFc) window.positionInlineFc();
+          inlineFc.classList.add('show');
+          setTimeout(function() {
+            inlineFc.classList.remove('show');
+            setTimeout(function() {
+              if (window.dropToTile3) window.dropToTile3();
+            }, 600);
+          }, 3000);
         }, 2000);
       }, 600);
-    }, 3000);
-  }
-
-  function showTile7Bubble() {
-    // Show force card overlay automatically in step3-inline mode
-    var title = document.getElementById('s2-force-popup-title');
-    if (title) title.textContent = 'Your Force Card';
-    forceOverlay.classList.add('show');
-    forceCardWrap.classList.remove('flipped');
-
-    // After viewing card, show "Only 1 Card" inline and drop to tile 3
-    setTimeout(function() {
-      forceOverlay.classList.remove('show');
-      setTimeout(function() {
-        var inlineFc = document.getElementById('s2-inline-fc');
-        var inlineFcText = document.getElementById('s2-inline-fc-text');
-        if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
-        if (window.positionInlineFc) window.positionInlineFc();
-        inlineFc.classList.add('show');
-        setTimeout(function() {
-          inlineFc.classList.remove('show');
-          setTimeout(function() {
-            window.dropToTile3();
-          }, 600);
-        }, 3000);
-      }, 500);
     }, 3000);
   }
 
