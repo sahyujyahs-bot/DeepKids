@@ -1538,31 +1538,22 @@
     </div>
 
     <style>
-    /* ── Science Collage ─────────────────────────────── */
-    .sci-tile-shot {
-      position: relative;
-      border-radius: clamp(6px,1.2vw,14px);
-      overflow: hidden;
-      background-color: rgba(18,8,38,0.5);
-      background-size: 350% 350%;
-      background-repeat: no-repeat;
-      aspect-ratio: 1 / 1;
+    /* ── Science — Pinterest Masonry Collage ──────────── */
+    #sci-collage {
+      column-count: 3;
+      column-gap: clamp(8px, 1.2vw, 14px);
     }
-    .sci-tile-shot .sci-shot-label {
-      position: absolute;
-      bottom: 0; left: 0; right: 0;
-      padding: clamp(4px,0.6vw,10px) clamp(6px,1vw,14px);
-      font-family: 'Pompiere', sans-serif;
-      font-size: clamp(11px,1.4vw,18px);
-      color: #fff;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      text-align: center;
-      background: linear-gradient(transparent, rgba(10,6,24,0.85));
+    .sci-tile-shot {
+      break-inside: avoid;
+      margin-bottom: clamp(8px, 1.2vw, 14px);
+      border-radius: clamp(8px, 1.4vw, 16px);
+      overflow: hidden;
+      background-color: rgba(30,15,50,0.6);
+      background-repeat: no-repeat;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
     }
     @media (max-width: 600px) {
-      #sci-collage { grid-template-columns: repeat(2, 1fr); }
-      .sci-tile-shot { aspect-ratio: 1 / 1; }
+      #sci-collage { column-count: 2; }
     }
     </style>
 
@@ -1948,9 +1939,9 @@
 <!-- ═══════════════════════════════════════════════ S4: SCIENCE ══ -->
 <section id="s4-science" style="position:relative;overflow:hidden;margin-top:clamp(30px,5vh,60px);">
   <div style="display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);position:relative;z-index:10;">
-    <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Every Tile Has Science</h2>
+    <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Each Tile Carries Science</h2>
   </div>
-  <div id="sci-collage" style="display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(6px,1vw,14px);padding:clamp(8px,2vw,24px) clamp(12px,4vw,48px);width:100%;box-sizing:border-box;max-height:calc(100vh - 100px);overflow:hidden;">
+  <div id="sci-collage" style="padding:clamp(8px,2vw,24px) clamp(16px,5vw,60px);width:100%;box-sizing:border-box;">
   </div>
 </section>
 
@@ -3336,60 +3327,58 @@
 
 })();
 
-/* ── Science Section — Tile Close-up Collage ──────────────── */
+/* ── Science Section — Pinterest Masonry Tile Collage ─────── */
 (function(){
   'use strict';
 
-  // Each entry: normalised focus (nx, ny) on the board image,
-  // zoom level (background-size %), and label text.
+  // Each crop: nx/ny = normalised focus on board image (0-1),
+  // zoom = background-size %, h = card height for masonry variety.
+  // Positions matched to reference image from the philosophy book.
   var SHOTS = [
-    { nx: 0.63, ny: 0.31, zoom: 380, label: 'Gravity Near Surface' },
-    { nx: 0.55, ny: 0.55, zoom: 400, label: 'Near Vacuum — Low Pressure' },
-    { nx: 0.72, ny: 0.55, zoom: 390, label: 'Strong Horizontal Winds' },
-    { nx: 0.45, ny: 0.40, zoom: 380, label: 'Extreme UV — No Air' },
-    { nx: 0.38, ny: 0.55, zoom: 380, label: 'Extreme Temperature Shifts' },
-    { nx: 0.30, ny: 0.40, zoom: 400, label: 'Surface to 35 km' },
+    // Col-1 flow
+    { nx: 0.50, ny: 0.12, zoom: 420, h: 'clamp(140px,22vw,220px)' },   // Strong Horizontal Winds — top of board
+    { nx: 0.25, ny: 0.40, zoom: 380, h: 'clamp(220px,36vw,360px)' },   // LOW EARTH ORBIT / Extreme UV / Near Vacuum (tall)
+    { nx: 0.55, ny: 0.65, zoom: 420, h: 'clamp(150px,24vw,240px)' },   // Storm & Unpredictable / Roll Dice
+    // Col-2 flow
+    { nx: 0.78, ny: 0.22, zoom: 400, h: 'clamp(180px,28vw,280px)' },   // Military Jets / tile 29-30 area
+    { nx: 0.55, ny: 0.45, zoom: 440, h: 'clamp(160px,26vw,260px)' },   // Time Speeds With Height / Crust Absorbs
+    { nx: 0.35, ny: 0.75, zoom: 400, h: 'clamp(180px,28vw,280px)' },   // Gravity Highest / Stable Crust / Brittle Crust (tall)
+    // Col-3 flow
+    { nx: 0.80, ny: 0.50, zoom: 400, h: 'clamp(200px,32vw,320px)' },   // tile 28-30 / JUMP TO ISS / Crust Absorbs
+    { nx: 0.60, ny: 0.80, zoom: 420, h: 'clamp(160px,24vw,240px)' },   // Mesosphere / Safe Spot
+    { nx: 0.20, ny: 0.60, zoom: 400, h: 'clamp(140px,22vw,220px)' },   // Troposphere / Low Gravity At Altitude
   ];
 
   var collage = document.getElementById('sci-collage');
   if (!collage) return;
 
-  // Build tiles (background set once boardImg is ready)
+  // Build cards
   SHOTS.forEach(function(shot) {
-    var tile = document.createElement('div');
-    tile.className = 'sci-tile-shot';
-    tile.dataset.nx = shot.nx;
-    tile.dataset.ny = shot.ny;
-    tile.dataset.zoom = shot.zoom;
-    var lbl = document.createElement('div');
-    lbl.className = 'sci-shot-label';
-    lbl.textContent = shot.label;
-    tile.appendChild(lbl);
-    collage.appendChild(tile);
+    var card = document.createElement('div');
+    card.className = 'sci-tile-shot';
+    card.dataset.nx = shot.nx;
+    card.dataset.ny = shot.ny;
+    card.dataset.zoom = shot.zoom;
+    card.style.height = shot.h;
+    collage.appendChild(card);
   });
 
   function applyBackgrounds() {
     if (!window.boardImg || !window.boardImg.src) return;
     var src = window.boardImg.src;
-    var tiles = collage.querySelectorAll('.sci-tile-shot');
-    tiles.forEach(function(el) {
+    collage.querySelectorAll('.sci-tile-shot').forEach(function(el) {
       var nx = parseFloat(el.dataset.nx);
       var ny = parseFloat(el.dataset.ny);
       var zoom = parseFloat(el.dataset.zoom);
-      // background-position: move the focus point to the centre of the div
-      var bpx = (nx * 100).toFixed(1) + '%';
-      var bpy = (ny * 100).toFixed(1) + '%';
       el.style.backgroundImage = 'url(' + src + ')';
-      el.style.backgroundSize = zoom + '% ' + zoom + '%';
-      el.style.backgroundPosition = bpx + ' ' + bpy;
+      el.style.backgroundSize = zoom + '%';
+      el.style.backgroundPosition = (nx * 100) + '% ' + (ny * 100) + '%';
     });
   }
 
-  // Board image may already be loaded (section 3 loads it)
   if (window.boardImg && window.boardImg.complete) {
     applyBackgrounds();
   } else {
-    // Poll briefly until boardImg is available
     var attempts = 0;
     var poll = setInterval(function() {
       attempts++;
@@ -3400,7 +3389,7 @@
     }, 500);
   }
 
-  // Keep stubs so nothing breaks if other code references these
+  // Stubs so nothing breaks if other code references these
   window.startSciAnimation = function() {};
   window.stopSciAnimation = function() {};
   window.sciGoForward = function() {};
