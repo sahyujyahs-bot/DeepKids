@@ -1995,6 +1995,13 @@
   const TILE7_NY         = 0.536;
   const TILE3_NX         = 0.579;  // tile 3 — same angle as tile 11, ~35% radius
   const TILE3_NY         = 0.520;
+  // Force category icon positions within each tile (inner edge of arc)
+  const ICON11_NX        = 0.6895; // Earth icon on tile 11
+  const ICON11_NY        = 0.5506;
+  const ICON7_NX         = 0.6270; // Any 2 Cards icon on tile 7
+  const ICON7_NY         = 0.5329;
+  const ICON3_NX         = 0.5738; // Body icon on tile 3
+  const ICON3_NY         = 0.5178;
   const FOCUS_NX         = 0.6472;   // midpoint T10↔T11 (base value)
   const FOCUS_NY         = 0.5092;
   let   curFocusNX       = FOCUS_NX;   // updated during tile-11 zoom
@@ -2511,12 +2518,12 @@
       if (!bbl) return;
       var tokRect = tokBlue.getBoundingClientRect();
       var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-      var tokX = tokRect.left - brRect.left + tokRect.width;
-      var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
+      // Point bubble tail at Earth icon on tile 11
+      var icon11 = tilePos(ICON11_NX, ICON11_NY);
       var bubbleW = bbl.offsetWidth || 250;
-      var mobileOff = window.innerWidth < 768 ? -25 : 105;
-      var bx = Math.max(8, Math.min(tokX - 30, brRect.width - bubbleW - 8));
-      var by = Math.max(5, tokY + mobileOff);
+      var bubbleH = bbl.offsetHeight || 120;
+      var bx = Math.max(8, Math.min(icon11.x - bubbleW * 0.2, brRect.width - bubbleW - 8));
+      var by = Math.max(5, icon11.y - bubbleH - 18);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       if (window.updateBubbleLink) window.updateBubbleLink();
@@ -2535,6 +2542,9 @@
   window.TILE7_NX = TILE7_NX; window.TILE7_NY = TILE7_NY;
   window.TILE3_NX = TILE3_NX; window.TILE3_NY = TILE3_NY;
   window.TILE10_NX = TILE10_NX; window.TILE10_NY = TILE10_NY;
+  window.ICON11_NX = ICON11_NX; window.ICON11_NY = ICON11_NY;
+  window.ICON7_NX = ICON7_NX; window.ICON7_NY = ICON7_NY;
+  window.ICON3_NX = ICON3_NX; window.ICON3_NY = ICON3_NY;
   window.jumpToState4 = jumpToState4;
 
   /* ── Drop astronaut to tile 7 (exposed for force card flow) ── */
@@ -2949,20 +2959,17 @@
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
 
-      // Reposition bubble and inline-fc above tile 7
+      // Reposition bubble tail to point at Any2Cards icon on tile 7
       setTimeout(function() {
-        var p7 = window.tilePos(window.TILE7_NX, window.TILE7_NY);
-        var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-        var s3Rect = document.getElementById('s3').getBoundingClientRect();
-        var t7x = p7.x;
-        var t7y = p7.y;
+        var icon7 = window.tilePos(window.ICON7_NX, window.ICON7_NY);
         if (bubble) {
           var bubbleW = bubble.offsetWidth || 200;
-          bubble.style.left = Math.max(5, t7x - bubbleW * 0.3) + 'px';
-          bubble.style.top = Math.max(5, t7y - 160) + 'px';
+          var bubbleH = bubble.offsetHeight || 120;
+          bubble.style.left = Math.max(5, icon7.x - bubbleW * 0.2) + 'px';
+          bubble.style.top = Math.max(5, icon7.y - bubbleH - 18) + 'px';
         }
-        inlineFc.style.left = (t7x + 30) + 'px';
-        inlineFc.style.top = Math.max(5, t7y - 120) + 'px';
+        inlineFc.style.left = (icon7.x + 60) + 'px';
+        inlineFc.style.top = Math.max(5, icon7.y - 100) + 'px';
       }, 1600);
 
       // After drop settles, update text
@@ -2973,16 +2980,17 @@
         setTimeout(function() {
           if (window.dropToTile3) window.dropToTile3();
 
-          // Reposition bubble and inline-fc above tile 3
+          // Reposition bubble tail to point at Body icon on tile 3
           setTimeout(function() {
-            var p3 = window.tilePos(window.TILE3_NX, window.TILE3_NY);
+            var icon3 = window.tilePos(window.ICON3_NX, window.ICON3_NY);
             if (bubble) {
               var bubbleW2 = bubble.offsetWidth || 200;
-              bubble.style.left = Math.max(5, p3.x - bubbleW2 * 0.3) + 'px';
-              bubble.style.top = Math.max(5, p3.y - 160) + 'px';
+              var bubbleH2 = bubble.offsetHeight || 120;
+              bubble.style.left = Math.max(5, icon3.x - bubbleW2 * 0.2) + 'px';
+              bubble.style.top = Math.max(5, icon3.y - bubbleH2 - 18) + 'px';
             }
-            inlineFc.style.left = (p3.x + 30) + 'px';
-            inlineFc.style.top = Math.max(5, p3.y - 120) + 'px';
+            inlineFc.style.left = (icon3.x + 60) + 'px';
+            inlineFc.style.top = Math.max(5, icon3.y - 100) + 'px';
           }, 1600);
 
           // Hide everything after final drop
