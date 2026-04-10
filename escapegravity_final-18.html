@@ -3927,27 +3927,12 @@
   justify-content: center;
 }
 
-/* Tile image placeholder / actual image */
+/* Tile image — no box, sits directly on bg */
 .s6b-tile-img-wrap { flex-shrink: 0; }
 .s6b-tile-img-wrap img {
-  width: clamp(140px, 20vw, 220px);
-  border-radius: clamp(8px, 1.2vw, 14px);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  width: clamp(180px, 28vw, 320px);
   display: block;
-}
-.s6b-placeholder {
-  width: clamp(140px, 20vw, 220px);
-  height: clamp(140px, 20vw, 220px);
-  border-radius: clamp(8px, 1.2vw, 14px);
-  border: 2px dashed rgba(156,188,20,0.3);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Pompiere', sans-serif;
-  font-size: clamp(12px, 1.3vw, 16px);
-  color: rgba(255,255,255,0.3);
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
 }
 
 /* Horizontal arrow (desktop) */
@@ -3999,25 +3984,25 @@
   flex-shrink: 0;
 }
 .s6b-fc-img {
-  width: clamp(120px, 18vw, 180px);
-  border-radius: clamp(8px, 1.2vw, 14px);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  width: clamp(160px, 24vw, 280px);
+  border-radius: clamp(10px, 1.5vw, 16px);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
   display: block;
 }
 
 /* Force cards — fan stack (Tile 10) */
 .s6b-fan {
   position: relative;
-  width: clamp(140px, 20vw, 200px);
-  height: clamp(195px, 28vw, 280px);
+  width: clamp(160px, 24vw, 280px);
+  height: clamp(224px, 34vw, 392px);
   flex-shrink: 0;
   cursor: pointer;
 }
 .s6b-fan-card {
   position: absolute;
   width: 100%;
-  border-radius: clamp(8px, 1.2vw, 14px);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  border-radius: clamp(10px, 1.5vw, 16px);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
   transition: transform 0.4s cubic-bezier(.4,0,.2,1), z-index 0s;
   transform-origin: bottom center;
 }
@@ -4047,7 +4032,9 @@
   .s6b-arrow-h { display: none; }
   .s6b-arrow-v { display: block; }
   .s6b-fc-pair { flex-direction: row; }
-  .s6b-fc-img { width: clamp(110px, 30vw, 160px); }
+  .s6b-fc-img { width: clamp(160px, 45vw, 240px); }
+  .s6b-tile-img-wrap img { width: clamp(200px, 60vw, 300px); }
+  .s6b-fan { width: clamp(160px, 45vw, 240px); height: clamp(224px, 63vw, 336px); }
 }
 </style>
 
