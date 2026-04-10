@@ -2173,16 +2173,17 @@
     const bCX   = (W - dispW) / 2 + BOARD_CENTER_NX * dispW;
     const bCY   = (H - dispW) / 2 + BOARD_CENTER_NY * dispW;
 
-    // Scale: enlarged so tiles 11, 7, 3 and 2 fill the viewport
-    const tgtScale = Math.min(6.5, 1.15 * H / (0.22 * dispW));
+    // Scale: derived so the 3rd arc from core fills the quadrant top-to-bottom
+    //   S = BOTTOM_FRAC * H / (ring3_radius * dispW)  → 4.09 landscape, higher portrait
+    const tgtScale = Math.min(4.8, 0.90 * H / (0.22 * dispW));
 
-    // Geometric constraint: frame the tile-11→2 corridor —
-    //   board's vertical centre line  (rpx = bCX) → 12% from viewport left
-    //   board's horizontal centre line (rpy = bCY) → 85% from viewport top
+    // Geometric constraint: frame the upper-right quadrant exactly —
+    //   board's vertical centre line  (rpx = bCX) → 5%  from viewport left
+    //   board's horizontal centre line (rpy = bCY) → 90% from viewport top
     // Solving:  viewport_pos = rF + S*(canvas_pos - rF)
     //   => rF = (S*canvas_pos - target) / (S-1)
-    const rFx = (tgtScale * bCX - 0.12 * W) / (tgtScale - 1);
-    const rFy = (tgtScale * bCY - 0.85 * H) / (tgtScale - 1);
+    const rFx = (tgtScale * bCX - 0.05 * W) / (tgtScale - 1);
+    const rFy = (tgtScale * bCY - 0.90 * H) / (tgtScale - 1);
 
     // Convert to normalised focus coords used by drawBoard / tilePos
     const tgtFocusNX = BOARD_CENTER_NX + (bCY - rFy) / dispW;
@@ -2479,10 +2480,10 @@
     var dispW = nat * imgScale;
     var bCX = (W - dispW) / 2 + BOARD_CENTER_NX * dispW;
     var bCY = (H - dispW) / 2 + BOARD_CENTER_NY * dispW;
-    var tgtScale = Math.min(6.5, 1.15 * H / (0.22 * dispW));
-    // Frame the tile 11→2 corridor
-    var tgtVpX = 0.12 * W;
-    var tgtVpY = 0.85 * H;
+    var tgtScale = 3.5;
+    // Frame the tile 11→2 corridor — board center at 35% from left, 95% from top
+    var tgtVpX = 0.35 * W;
+    var tgtVpY = 0.95 * H;
     var focX = (tgtScale * bCX - tgtVpX) / (tgtScale - 1);
     var focY = (tgtScale * bCY - tgtVpY) / (tgtScale - 1);
     curFocusNX = BOARD_CENTER_NX + (bCY - focY) / dispW;
