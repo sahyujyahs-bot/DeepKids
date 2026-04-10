@@ -158,25 +158,32 @@
       text-decoration: none;
       color: #fff;
       text-shadow: 1px 1px 3px rgba(0,0,0,.6);
-      background: linear-gradient(90deg, #a0c816, #7aa010);
+      background: linear-gradient(180deg, #b8d930 0%, #a0c816 40%, #7aa010 100%);
       border: 3px solid #6b2155;
       border-radius: 14px;
       cursor: pointer;
       position: relative;
       overflow: hidden;
-      transition: transform .2s ease, filter .2s ease, box-shadow .2s ease;
+      transition: transform .3s ease, filter .3s ease, box-shadow .3s ease;
+      box-shadow: 0 4px 16px rgba(160,200,22,.25), inset 0 1px 0 rgba(255,255,255,.2);
+      animation: btn-glow 3s ease-in-out infinite;
     }
     .dk-btn::after {
-      content: ''; position: absolute; top: 4px; left: 14px; right: 14px;
-      height: 28%; background: rgba(255,255,255,.15);
+      content: ''; position: absolute; top: 3px; left: 12px; right: 12px;
+      height: 32%; background: linear-gradient(180deg, rgba(255,255,255,.3), rgba(255,255,255,.05));
       border-radius: 8px; pointer-events: none;
     }
     .dk-btn:hover {
-      filter: brightness(1.14);
-      transform: scale(1.05);
-      box-shadow: 0 8px 28px rgba(160,200,22,.35);
+      filter: brightness(1.18);
+      transform: scale(1.08);
+      box-shadow: 0 8px 36px rgba(160,200,22,.5), 0 0 60px rgba(156,188,20,.2);
+      animation: none;
     }
-    .dk-btn:active { transform: scale(.97); }
+    .dk-btn:active { transform: scale(.97); animation: none; }
+    @keyframes btn-glow {
+      0%, 100% { box-shadow: 0 4px 16px rgba(160,200,22,.25); }
+      50%      { box-shadow: 0 6px 30px rgba(160,200,22,.45), 0 0 50px rgba(156,188,20,.15); }
+    }
 
     /* ── Pre-order button ──────────────────────────────────────── */
     .btn-wrap {
@@ -3397,9 +3404,10 @@
   .eg-section {
     position: relative;
     background: transparent;
-    padding: clamp(80px,10vh,120px) clamp(20px,6vw,80px) clamp(40px,6vh,80px);
+    padding: clamp(60px,8vh,100px) clamp(16px,4vw,48px) clamp(40px,6vh,80px);
     box-sizing: border-box;
     overflow: hidden;
+    width: 100%;
   }
   .eg-section::before {
     content: '';
@@ -4066,18 +4074,20 @@
   <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Spirals in the Universe</h2>
   <p class="spiral-subtitle eg-fade-in">The board is a spiral — because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
 
-  <!-- Spinning spiral board -->
-  <div class="spiral-wrap eg-fade-in">
-    <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
-    <p class="spiral-hint">Scroll, click or double-click to spin</p>
-  </div>
-
-  <!-- 4 universe spirals — single row -->
-  <div class="spiral-row eg-fade-in">
-    <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory out of Earth"></div>
-    <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
-    <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water spiralling down a drain"></div>
-    <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral from space"></div>
+  <!-- Spiral + flanking tiles -->
+  <div class="spiral-stage eg-fade-in">
+    <div class="spiral-side">
+      <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    </div>
+    <div class="spiral-wrap">
+      <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
+      <p class="spiral-hint">Scroll, click or double-click to spin</p>
+    </div>
+    <div class="spiral-side">
+      <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+      <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+    </div>
   </div>
 </section>
 
@@ -4093,24 +4103,25 @@
   line-height: 1.5;
 }
 
-/* Spiral board */
-.spiral-wrap {
-  text-align: center;
-  margin-bottom: clamp(24px, 3vh, 40px);
-}
-
-/* 4 universe spirals — single row */
-.spiral-row {
+/* Desktop: tiles | spiral | tiles */
+.spiral-stage {
   display: flex;
-  gap: clamp(10px, 1.5vw, 18px);
+  align-items: center;
   justify-content: center;
-  padding: 0 clamp(12px, 3vw, 40px);
-  max-width: 1100px;
+  gap: clamp(16px, 2.5vw, 32px);
+  max-width: 1300px;
   margin: 0 auto;
 }
-.spiral-row .spiral-ex {
-  flex: 1;
-  min-width: 0;
+.spiral-side {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(12px, 2vw, 20px);
+  flex-shrink: 0;
+  width: clamp(200px, 26vw, 340px);
+}
+.spiral-wrap {
+  text-align: center;
+  flex-shrink: 0;
 }
 .spiral-img {
   width: clamp(320px, 48vw, 660px);
@@ -4153,17 +4164,14 @@
 }
 
 @media (max-width: 680px) {
-  .spiral-img { width: 98vw; max-width: none; }
-  .spiral-row {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scroll-snap-type: x mandatory;
-    justify-content: flex-start;
+  .spiral-stage { flex-direction: column; align-items: center; }
+  .spiral-side {
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
   }
-  .spiral-row .spiral-ex {
-    flex: 0 0 65%;
-    scroll-snap-align: center;
-  }
+  .spiral-side .spiral-ex { width: 45%; }
+  .spiral-img { width: 92vw; max-width: none; }
 }
 </style>
 
@@ -4242,8 +4250,11 @@
   <p class="forces-subtitle eg-fade-in">Nothing exists alone in nature &mdash; true for gravity too. Every force interacts with others: some reinforce, some resist, and together they shape how everything moves.</p>
   <p class="forces-subtitle eg-fade-in" style="margin-top:0;">The game reflects this. There are 13 forces across 7 categories &mdash; players earn these force cards by doing physical challenges, then use them to escape the gravity wells on the board.</p>
 
+  <!-- Wrap icons + panels for side-by-side desktop layout -->
+  <div class="forces-layout eg-fade-in">
+
   <!-- 7 Category icons -->
-  <div class="forces-icons eg-fade-in" id="forces-icons">
+  <div class="forces-icons" id="forces-icons">
     <button class="forces-icon active" data-cat="earth">
       <img src="IMG_4700.png" alt="Earth">
       <span>Earth</span>
@@ -4322,6 +4333,7 @@
       <div class="forces-card-slot"><img src="IMG_5108.jpeg" alt="Neutral Pull"></div>
     </div>
   </div>
+  </div><!-- /forces-layout -->
 </section>
 
 <style>
@@ -4336,16 +4348,21 @@
   line-height: 1.5;
 }
 
-/* Icon row */
+/* Desktop: icons left, cards right */
+.forces-layout {
+  display: flex;
+  gap: clamp(20px, 3vw, 40px);
+  align-items: flex-start;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Icon column (vertical on desktop) */
 .forces-icons {
   display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-  gap: clamp(6px, 1.2vw, 16px);
-  margin-bottom: clamp(24px, 3vh, 40px);
-  padding: 0 clamp(8px, 2vw, 20px);
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+  flex-direction: column;
+  gap: clamp(6px, 0.8vw, 12px);
+  flex-shrink: 0;
 }
 .forces-icon {
   display: flex;
@@ -4383,11 +4400,11 @@
   background: rgba(156,188,20,0.1);
 }
 
-/* Panels */
+/* Panels — fill remaining space */
 .forces-panel {
   display: none;
-  max-width: 800px;
-  margin: 0 auto;
+  flex: 1;
+  min-width: 0;
 }
 .forces-panel.active { display: block; }
 
@@ -4431,6 +4448,16 @@
 }
 
 @media (max-width: 680px) {
+  .forces-layout { flex-direction: column; align-items: center; }
+  .forces-icons {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    justify-content: flex-start;
+    padding: 0 12px;
+  }
   .forces-cards {
     justify-content: flex-start;
     overflow-x: auto;
@@ -4486,8 +4513,8 @@
 .exp-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: clamp(8px, 1.5vw, 18px);
-  max-width: 1000px;
+  gap: clamp(10px, 2vw, 24px);
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 clamp(12px, 3vw, 40px);
 }
