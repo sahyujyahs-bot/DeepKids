@@ -2287,7 +2287,6 @@
       dice.classList.add('idle');
       btnBack.disabled = false;
       btnFwd.disabled  = false;
-      if (window.showTileMarkers) window.showTileMarkers(); // DEBUG: auto-show tile markers
     }, 400);
   }
 
@@ -2517,7 +2516,6 @@
 
     state = 4; busy = false;
     btnBack.disabled = false; btnFwd.disabled = false;
-    if (window.showTileMarkers) window.showTileMarkers(); // DEBUG: show tile markers in step 3 view
 
     // Show bubble after board settles
     rollTimers.push(setTimeout(() => {
@@ -2545,50 +2543,6 @@
   window.ICON7_NX = ICON7_NX; window.ICON7_NY = ICON7_NY;
   window.ICON3_NX = ICON3_NX; window.ICON3_NY = ICON3_NY;
   window.jumpToState4 = jumpToState4;
-
-  /* ── DEBUG: Show 2 dots per tile ─────────────────────────────── */
-  /* Dot A (yellow) = left of the white text (empty space on tile) */
-  /* Dot B (cyan)   = right above the force-category icon          */
-  /* Coordinates are in ORIGINAL image space; tilePos() handles    */
-  /* rotation + zoom.  After -90° CCW rotation:                    */
-  /*   screen-left  = decrease NY   |  screen-up  = increase NX    */
-  window.showTileMarkers = function() {
-    document.querySelectorAll('.debug-tile-marker').forEach(function(el) { el.remove(); });
-
-    // --- Dot positions (original image NX / NY) ---
-    // A = left-of-text   B = above-icon
-    var dots = [
-      // Tile 11 — Earth icon
-      { nx: 0.716, ny: 0.543, type: 'A', tile: 11 },  // left of text
-      { nx: 0.698, ny: 0.551, type: 'B', tile: 11 },  // above Earth icon
-      // Tile 7 — Any 2 Cards icon
-      { nx: 0.647, ny: 0.525, type: 'A', tile: 7 },
-      { nx: 0.635, ny: 0.533, type: 'B', tile: 7 },
-      // Tile 3 — Body icon
-      { nx: 0.587, ny: 0.510, type: 'A', tile: 3 },
-      { nx: 0.580, ny: 0.518, type: 'B', tile: 3 },
-      // Tile 2 — (icon type TBD)
-      { nx: 0.587, ny: 0.405, type: 'A', tile: 2 },
-      { nx: 0.583, ny: 0.419, type: 'B', tile: 2 }
-    ];
-
-    var container = s2El;
-    var sz = 10; // px — small enough for mobile
-    dots.forEach(function(d) {
-      var pos = tilePos(d.nx, d.ny);
-      var el = document.createElement('div');
-      el.className = 'debug-tile-marker';
-      var bg = d.type === 'A' ? '#FFD600' : '#00E5FF'; // yellow = text, cyan = icon
-      el.style.cssText = 'position:absolute;z-index:99999;pointer-events:none;'
-        + 'width:' + sz + 'px;height:' + sz + 'px;border-radius:50%;'
-        + 'background:' + bg + ';'
-        + 'border:1.5px solid #fff;box-shadow:0 0 4px rgba(0,0,0,0.6);'
-        + 'left:' + (pos.x - sz/2) + 'px;top:' + (pos.y - sz/2) + 'px;';
-      container.appendChild(el);
-    });
-    console.log('DEBUG dots — yellow = left-of-text, cyan = above-icon');
-  };
-  /* ── END DEBUG ─────────────────────────────────────────────── */
 
   /* ── Drop astronaut to tile 7 (exposed for force card flow) ── */
   window.dropToTile7 = function() {
