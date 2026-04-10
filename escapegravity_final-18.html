@@ -4688,6 +4688,34 @@
   var gameState = 'idle'; // idle, running, falling, dead
   var deadTimer = 0;
   var fallInfo = null;   // { wellType, pitX, pitW, fallY, fallVy, sinkTimer }
+
+  // ── Sound effects (Web Audio API — no files needed) ────
+  var audioCtx = null;
+  function getAudio() {
+    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    return audioCtx;
+  }
+  function playTone(freq, dur, type, vol, slide) {
+    try {
+      var a = getAudio();
+      var osc = a.createOscillator();
+      var gain = a.createGain();
+      osc.type = type || 'sine';
+      osc.frequency.setValueAtTime(freq, a.currentTime);
+      if (slide) osc.frequency.linearRampToValueAtTime(slide, a.currentTime + dur);
+      gain.gain.setValueAtTime(vol || 0.15, a.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.001, a.currentTime + dur);
+      osc.connect(gain);
+      gain.connect(a.destination);
+      osc.start();
+      osc.stop(a.currentTime + dur);
+    } catch(e) {}
+  }
+  function sfxJump()    { playTone(440, 0.15, 'sine', 0.12, 880); }
+  function sfxCollect()  { playTone(880, 0.1, 'sine', 0.12); setTimeout(function(){ playTone(1100, 0.12, 'sine', 0.10); }, 60); }
+  function sfxSurvive()  { playTone(520, 0.1, 'triangle', 0.12); setTimeout(function(){ playTone(660, 0.1, 'triangle', 0.10); }, 80); setTimeout(function(){ playTone(880, 0.15, 'triangle', 0.10); }, 160); }
+  function sfxFall()     { playTone(400, 0.6, 'sawtooth', 0.10, 80); }
+  function sfxStart()    { playTone(330, 0.1, 'sine', 0.08); setTimeout(function(){ playTone(440, 0.1, 'sine', 0.08); }, 100); setTimeout(function(){ playTone(660, 0.15, 'sine', 0.10); }, 200); }
   var flashMsg = '';
   var flashTimer = 0;
 
@@ -4737,6 +4765,7 @@
     if (player.onGround) {
       player.vy = JUMP_VEL;
       player.onGround = false;
+      sfxJump();
     }
   }
 
@@ -4784,6 +4813,7 @@
         inventory.push(c.cat.key);
         score++;
         updateHud();
+        sfxCollect();
       }
     }
 
@@ -4802,9 +4832,11 @@
           updateHud();
           flashMsg = w.well.name + ' Force card used!';
           flashTimer = 90;
+          sfxSurvive();
         } else {
           // Start falling into the pit
           gameState = 'falling';
+          sfxFall();
           fallInfo = {
             wellType: w.well.cat,
             wellName: w.well.name,
@@ -5131,6 +5163,7 @@
     reset();
     updateHud();
     gameState = 'running';
+    sfxStart();
     loop();
   }
 
