@@ -1787,19 +1787,6 @@
   opacity: 1;
   pointer-events: auto;
 }
-/* Step 3 walkthrough mode: right panel on desktop, top on mobile */
-.s2-force-overlay.step3-inline {
-  background: transparent;
-  left: auto; right: 0; top: 0; bottom: 0;
-  width: 40vw;
-  border-left: none;
-}
-@media (max-width: 768px) {
-  .s2-force-overlay.step3-inline {
-    left: 0; right: 0; top: 0; bottom: auto;
-    width: 100%; height: 45vh;
-  }
-}
 
 .s2-force-title {
   font-family: 'Norwester', sans-serif;
@@ -2843,14 +2830,12 @@
     // Show force card overlay automatically in step3-inline mode
     var title = document.getElementById('s2-force-popup-title');
     if (title) title.textContent = 'Your Force Card';
-    forceOverlay.classList.add('step3-inline');
     forceOverlay.classList.add('show');
     forceCardWrap.classList.remove('flipped');
 
     // After viewing card, show "Only 1 Card" inline and drop to tile 3
     setTimeout(function() {
       forceOverlay.classList.remove('show');
-      forceOverlay.classList.remove('step3-inline');
       setTimeout(function() {
         var inlineFc = document.getElementById('s2-inline-fc');
         var inlineFcText = document.getElementById('s2-inline-fc-text');
@@ -2878,7 +2863,6 @@
 
   function hideForceCard() {
     forceOverlay.classList.remove('show');
-    forceOverlay.classList.remove('step3-inline');
   }
 
   // Flip on click
