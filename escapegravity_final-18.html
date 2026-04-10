@@ -4141,12 +4141,15 @@
   margin-bottom: clamp(30px, 4vh, 48px);
 }
 .spiral-img {
-  width: clamp(250px, 40vw, 480px);
+  width: clamp(300px, 55vw, 700px);
   display: inline-block;
   cursor: pointer;
   transition: transform 0.05s linear;
   user-select: none;
   -webkit-user-select: none;
+}
+@media (max-width: 600px) {
+  .spiral-img { width: 92vw; }
 }
 .spiral-hint {
   font-family: 'Pompiere', sans-serif;
