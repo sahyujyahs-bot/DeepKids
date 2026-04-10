@@ -1362,17 +1362,24 @@
   /* Step 3: text + card side by side, follows token */
   .s2-inline-fc.step3-card {
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     gap: clamp(10px, 2vw, 20px);
+    flex-wrap: nowrap;
     transition: opacity 0.5s ease, transform 0.4s cubic-bezier(.34,1.56,.64,1),
                 top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1);
   }
+  .s2-inline-fc.step3-card .s2-inline-fc-text {
+    white-space: normal;
+    max-width: clamp(120px, 18vw, 220px);
+    flex-shrink: 1;
+  }
   .s2-inline-fc.step3-card .s2-inline-fc-card {
     width: clamp(140px, 18vw, 260px);
+    flex-shrink: 0;
   }
   @media (max-width: 768px) {
-    .s2-inline-fc.step3-card {
-      flex-direction: column;
+    .s2-inline-fc.step3-card .s2-inline-fc-text {
+      max-width: clamp(100px, 30vw, 160px);
     }
     .s2-inline-fc.step3-card .s2-inline-fc-card {
       width: clamp(100px, 28vw, 180px);
