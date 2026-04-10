@@ -2461,8 +2461,9 @@
       var tokRect = tokBlue.getBoundingClientRect();
       var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
       var tokX = tokRect.left - brRect.left + tokRect.width + 20;
-      var tokY = tokRect.top - brRect.top - 20;
       var bubbleW = bbl.offsetWidth || 250;
+      var bubbleH2 = bbl.offsetHeight || 100;
+      var tokY = tokRect.top - brRect.top - bubbleH2 + 20;
       var bx = Math.min(Math.max(5, tokX), brRect.width - bubbleW - 8);
       var by = Math.max(5, tokY);
       bbl.style.left = bx + 'px';
@@ -2531,14 +2532,13 @@
       if (!bbl) return;
       var tokRect = tokBlue.getBoundingClientRect();
       var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-      // Position bubble to the right of token on tile 11
+      // Position bubble to the right of token on tile 11, slightly above
       var tok11pos = tilePos(TILE11_NX, TILE11_NY);
       var bubbleW = bbl.offsetWidth || 200;
       var bubbleH = bbl.offsetHeight || 100;
-      var sd = Math.max(18, cssH() * 0.042);
       var tokW = tokBlue.offsetWidth || 80;
       var bx = Math.max(5, tok11pos.x + tokW + 20);
-      var by = Math.max(5, tok11pos.y + sd - 20);
+      var by = Math.max(5, tok11pos.y - bubbleH + 20);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       if (window.updateBubbleLink) window.updateBubbleLink();
@@ -2993,14 +2993,14 @@
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
 
-      // Move bubble at the same time as the token — to the right, same height
+      // Move bubble at the same time as the token — to the right, slightly above
       var tok7pos = window.tilePos(window.TILE7_NX, window.TILE7_NY);
       if (bubble) {
-        var sd7 = Math.max(18, window.innerHeight * 0.042);
         var tokW7 = tokBlue.offsetWidth || 80;
+        var bH7 = bubble.offsetHeight || 100;
         bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
         bubble.style.left = Math.max(5, tok7pos.x + tokW7 + 20) + 'px';
-        bubble.style.top = Math.max(5, tok7pos.y + sd7 - 20) + 'px';
+        bubble.style.top = Math.max(5, tok7pos.y - bH7 + 20) + 'px';
       }
       if (window.positionInlineFc) window.positionInlineFc();
 
@@ -3012,14 +3012,14 @@
         setTimeout(function() {
           if (window.dropToTile3) window.dropToTile3();
 
-          // Move bubble at the same time as the token — to the right, same height
+          // Move bubble at the same time as the token — to the right, slightly above
           var tok3pos = window.tilePos(window.TILE3_NX, window.TILE3_NY);
           if (bubble) {
-            var sd3 = Math.max(18, window.innerHeight * 0.042);
             var tokW3 = tokBlue.offsetWidth || 80;
+            var bH3 = bubble.offsetHeight || 100;
             bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
             bubble.style.left = Math.max(5, tok3pos.x + tokW3 + 20) + 'px';
-            bubble.style.top = Math.max(5, tok3pos.y + sd3 - 20) + 'px';
+            bubble.style.top = Math.max(5, tok3pos.y - bH3 + 20) + 'px';
           }
           if (window.positionInlineFc) window.positionInlineFc();
 
@@ -3030,14 +3030,14 @@
             setTimeout(function() {
               if (window.dropToTile2) window.dropToTile2();
 
-              // Move bubble at the same time as the token — to the right, same height
+              // Move bubble at the same time as the token — to the right, slightly above
               var tok2pos = window.tilePos(window.TILE2_NX, window.TILE2_NY);
               if (bubble) {
-                var sd2 = Math.max(18, window.innerHeight * 0.042);
                 var tokW2 = tokBlue.offsetWidth || 80;
+                var bH2 = bubble.offsetHeight || 100;
                 bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
                 bubble.style.left = Math.max(5, tok2pos.x + tokW2 + 20) + 'px';
-                bubble.style.top = Math.max(5, tok2pos.y + sd2 - 20) + 'px';
+                bubble.style.top = Math.max(5, tok2pos.y - bH2 + 20) + 'px';
               }
               if (window.positionInlineFc) window.positionInlineFc();
 
