@@ -1538,23 +1538,22 @@
     </div>
 
     <style>
-    /* ── Science — Pinterest Masonry Collage ──────────── */
+    /* ── Science — Free-form tile collage ──────────── */
     #sci-collage {
-      column-count: 3;
-      column-gap: clamp(8px, 1.2vw, 14px);
+      position: relative;
+      width: 100%;
+      max-width: 900px;
+      margin: 0 auto;
+      aspect-ratio: 4 / 5;
     }
     .sci-tile-shot {
-      break-inside: avoid;
-      margin-bottom: clamp(8px, 1.2vw, 14px);
-      border-radius: clamp(8px, 1.4vw, 16px);
-      overflow: hidden;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+      position: absolute;
       display: block;
-      width: 100%;
       height: auto;
+      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
     }
     @media (max-width: 600px) {
-      #sci-collage { column-count: 2; }
+      #sci-collage { aspect-ratio: 3 / 5; }
     }
     </style>
 
@@ -1943,15 +1942,29 @@
     <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Each Tile Carries Science</h2>
   </div>
   <div id="sci-collage" style="padding:clamp(8px,2vw,24px) clamp(16px,5vw,60px);width:100%;box-sizing:border-box;">
-    <img class="sci-tile-shot" src="Section4.9.png" alt="Gravity Highest At Surface — Tile 13">
-    <img class="sci-tile-shot" src="Section4.5.png" alt="Almost No Air Molecules In Thermosphere — Tile 42">
-    <img class="sci-tile-shot" src="Section4.8.png" alt="Gravity 0, Time Slows — Core Tile 0">
-    <img class="sci-tile-shot" src="Section4.2.png" alt="Time Slows Close To Center — Tile 5">
-    <img class="sci-tile-shot" src="Section4.7.png" alt="Airplanes Fly At Troposphere Edge Cause Drag — Tile 23">
-    <img class="sci-tile-shot" src="Section4.1.png" alt="Ocean Less Dense Than Land — Tile 12">
-    <img class="sci-tile-shot" src="Section4.4.png" alt="Time Speeds With Height — Tile 28">
-    <img class="sci-tile-shot" src="Section4.3.png" alt="Mesosphere Helps Stabilise Temperature — Tile 35">
-    <img class="sci-tile-shot" src="Section4.6.png" alt="Meteors Burning At Mesosphere Cause Turbulence — Tile 32">
+    <!-- Top cluster -->
+    <img class="sci-tile-shot" src="Section4.5.png" alt="No Air Molecules — Tile 42"
+         style="width:48%;top:0%;left:26%;">
+    <img class="sci-tile-shot" src="Section4.7.png" alt="Airplanes Cause Drag — Tile 23"
+         style="width:44%;top:4%;left:52%;transform:rotate(6deg);">
+    <img class="sci-tile-shot" src="Section4.4.png" alt="Time Speeds With Height — Tile 28"
+         style="width:42%;top:3%;left:2%;transform:rotate(-8deg);">
+    <!-- Middle layer -->
+    <img class="sci-tile-shot" src="Section4.6.png" alt="Meteors Cause Turbulence — Tile 32"
+         style="width:46%;top:22%;left:50%;transform:rotate(4deg);">
+    <img class="sci-tile-shot" src="Section4.3.png" alt="Mesosphere Stabilises Temperature — Tile 35"
+         style="width:44%;top:24%;left:0%;transform:rotate(-5deg);">
+    <!-- Center — core -->
+    <img class="sci-tile-shot" src="Section4.8.png" alt="Gravity 0, Time Slows — Core"
+         style="width:28%;top:40%;left:36%;">
+    <!-- Lower arcs -->
+    <img class="sci-tile-shot" src="Section4.1.png" alt="Ocean Less Dense — Tile 12"
+         style="width:38%;top:52%;left:4%;transform:rotate(5deg);">
+    <img class="sci-tile-shot" src="Section4.2.png" alt="Time Slows Close To Center — Tile 5"
+         style="width:36%;top:50%;left:58%;transform:rotate(-6deg);">
+    <!-- Bottom -->
+    <img class="sci-tile-shot" src="Section4.9.png" alt="Gravity Highest At Surface — Tile 13"
+         style="width:40%;top:72%;left:30%;transform:rotate(3deg);">
   </div>
 </section>
 
