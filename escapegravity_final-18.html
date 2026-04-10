@@ -2460,10 +2460,9 @@
       if (!bbl) return;
       var tokRect = tokBlue.getBoundingClientRect();
       var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-      var tokX = tokRect.left - brRect.left + tokRect.width + 20;
+      var tokX = tokRect.left - brRect.left + tokRect.width + 15;
+      var tokY = tokRect.top - brRect.top;
       var bubbleW = bbl.offsetWidth || 250;
-      var bubbleH2 = bbl.offsetHeight || 100;
-      var tokY = tokRect.top - brRect.top - bubbleH2 + 20;
       var bx = Math.min(Math.max(5, tokX), brRect.width - bubbleW - 8);
       var by = Math.max(5, tokY);
       bbl.style.left = bx + 'px';
@@ -2526,19 +2525,15 @@
     state = 4; busy = false;
     btnBack.disabled = false; btnFwd.disabled = false;
 
-    // Show bubble after board settles
+    // Show bubble after board settles — read token's actual position
     rollTimers.push(setTimeout(() => {
       var bbl = document.getElementById('s2-comic-bubble');
       if (!bbl) return;
-      var tokRect = tokBlue.getBoundingClientRect();
-      var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-      // Position bubble to the right of token on tile 11, slightly above
-      var tok11pos = tilePos(TILE11_NX, TILE11_NY);
-      var bubbleW = bbl.offsetWidth || 200;
-      var bubbleH = bbl.offsetHeight || 100;
+      var tokLeft = parseFloat(tokBlue.style.left) || 0;
+      var tokTop = parseFloat(tokBlue.style.top) || 0;
       var tokW = tokBlue.offsetWidth || 80;
-      var bx = Math.max(5, tok11pos.x + tokW + 20);
-      var by = Math.max(5, tok11pos.y - bubbleH + 20);
+      var bx = Math.max(5, tokLeft + tokW + 15);
+      var by = Math.max(5, tokTop);
       bbl.style.left = bx + 'px';
       bbl.style.top = by + 'px';
       if (window.updateBubbleLink) window.updateBubbleLink();
@@ -2993,14 +2988,14 @@
     setTimeout(function() {
       if (window.dropToTile7) window.dropToTile7();
 
-      // Move bubble at the same time as the token — to the right, slightly above
-      var tok7pos = window.tilePos(window.TILE7_NX, window.TILE7_NY);
+      // Read token's target position and place bubble to its right
       if (bubble) {
+        var tokLeft7 = parseFloat(tokBlue.style.left) || 0;
+        var tokTop7 = parseFloat(tokBlue.style.top) || 0;
         var tokW7 = tokBlue.offsetWidth || 80;
-        var bH7 = bubble.offsetHeight || 100;
         bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-        bubble.style.left = Math.max(5, tok7pos.x + tokW7 + 20) + 'px';
-        bubble.style.top = Math.max(5, tok7pos.y - bH7 + 20) + 'px';
+        bubble.style.left = Math.max(5, tokLeft7 + tokW7 + 15) + 'px';
+        bubble.style.top = Math.max(5, tokTop7) + 'px';
       }
       if (window.positionInlineFc) window.positionInlineFc();
 
@@ -3012,14 +3007,14 @@
         setTimeout(function() {
           if (window.dropToTile3) window.dropToTile3();
 
-          // Move bubble at the same time as the token — to the right, slightly above
-          var tok3pos = window.tilePos(window.TILE3_NX, window.TILE3_NY);
+          // Read token's target position and place bubble to its right
           if (bubble) {
+            var tokLeft3 = parseFloat(tokBlue.style.left) || 0;
+            var tokTop3 = parseFloat(tokBlue.style.top) || 0;
             var tokW3 = tokBlue.offsetWidth || 80;
-            var bH3 = bubble.offsetHeight || 100;
             bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-            bubble.style.left = Math.max(5, tok3pos.x + tokW3 + 20) + 'px';
-            bubble.style.top = Math.max(5, tok3pos.y - bH3 + 20) + 'px';
+            bubble.style.left = Math.max(5, tokLeft3 + tokW3 + 15) + 'px';
+            bubble.style.top = Math.max(5, tokTop3) + 'px';
           }
           if (window.positionInlineFc) window.positionInlineFc();
 
@@ -3030,14 +3025,14 @@
             setTimeout(function() {
               if (window.dropToTile2) window.dropToTile2();
 
-              // Move bubble at the same time as the token — to the right, slightly above
-              var tok2pos = window.tilePos(window.TILE2_NX, window.TILE2_NY);
+              // Read token's target position and place bubble to its right
               if (bubble) {
+                var tokLeft2 = parseFloat(tokBlue.style.left) || 0;
+                var tokTop2 = parseFloat(tokBlue.style.top) || 0;
                 var tokW2 = tokBlue.offsetWidth || 80;
-                var bH2 = bubble.offsetHeight || 100;
                 bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
-                bubble.style.left = Math.max(5, tok2pos.x + tokW2 + 20) + 'px';
-                bubble.style.top = Math.max(5, tok2pos.y - bH2 + 20) + 'px';
+                bubble.style.left = Math.max(5, tokLeft2 + tokW2 + 15) + 'px';
+                bubble.style.top = Math.max(5, tokTop2) + 'px';
               }
               if (window.positionInlineFc) window.positionInlineFc();
 
