@@ -1548,9 +1548,10 @@
       margin-bottom: clamp(8px, 1.2vw, 14px);
       border-radius: clamp(8px, 1.4vw, 16px);
       overflow: hidden;
-      background-color: rgba(30,15,50,0.6);
-      background-repeat: no-repeat;
       box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+      display: block;
+      width: 100%;
+      height: auto;
     }
     @media (max-width: 600px) {
       #sci-collage { column-count: 2; }
@@ -1942,6 +1943,15 @@
     <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Each Tile Carries Science</h2>
   </div>
   <div id="sci-collage" style="padding:clamp(8px,2vw,24px) clamp(16px,5vw,60px);width:100%;box-sizing:border-box;">
+    <img class="sci-tile-shot" src="Section4.9.png" alt="Gravity Highest At Surface — Tile 13">
+    <img class="sci-tile-shot" src="Section4.5.png" alt="Almost No Air Molecules In Thermosphere — Tile 42">
+    <img class="sci-tile-shot" src="Section4.8.png" alt="Gravity 0, Time Slows — Core Tile 0">
+    <img class="sci-tile-shot" src="Section4.2.png" alt="Time Slows Close To Center — Tile 5">
+    <img class="sci-tile-shot" src="Section4.7.png" alt="Airplanes Fly At Troposphere Edge Cause Drag — Tile 23">
+    <img class="sci-tile-shot" src="Section4.1.png" alt="Ocean Less Dense Than Land — Tile 12">
+    <img class="sci-tile-shot" src="Section4.4.png" alt="Time Speeds With Height — Tile 28">
+    <img class="sci-tile-shot" src="Section4.3.png" alt="Mesosphere Helps Stabilise Temperature — Tile 35">
+    <img class="sci-tile-shot" src="Section4.6.png" alt="Meteors Burning At Mesosphere Cause Turbulence — Tile 32">
   </div>
 </section>
 
@@ -3327,69 +3337,8 @@
 
 })();
 
-/* ── Science Section — Pinterest Masonry Tile Collage ─────── */
+/* ── Science Section — stubs for compatibility ─────── */
 (function(){
-  'use strict';
-
-  // Each crop: nx/ny = normalised focus on board image (0-1),
-  // zoom = background-size %, h = card height for masonry variety.
-  // Positions matched to reference image from the philosophy book.
-  var SHOTS = [
-    // Col-1 flow
-    { nx: 0.50, ny: 0.12, zoom: 420, h: 'clamp(140px,22vw,220px)' },   // Strong Horizontal Winds — top of board
-    { nx: 0.25, ny: 0.40, zoom: 380, h: 'clamp(220px,36vw,360px)' },   // LOW EARTH ORBIT / Extreme UV / Near Vacuum (tall)
-    { nx: 0.55, ny: 0.65, zoom: 420, h: 'clamp(150px,24vw,240px)' },   // Storm & Unpredictable / Roll Dice
-    // Col-2 flow
-    { nx: 0.78, ny: 0.22, zoom: 400, h: 'clamp(180px,28vw,280px)' },   // Military Jets / tile 29-30 area
-    { nx: 0.55, ny: 0.45, zoom: 440, h: 'clamp(160px,26vw,260px)' },   // Time Speeds With Height / Crust Absorbs
-    { nx: 0.35, ny: 0.75, zoom: 400, h: 'clamp(180px,28vw,280px)' },   // Gravity Highest / Stable Crust / Brittle Crust (tall)
-    // Col-3 flow
-    { nx: 0.80, ny: 0.50, zoom: 400, h: 'clamp(200px,32vw,320px)' },   // tile 28-30 / JUMP TO ISS / Crust Absorbs
-    { nx: 0.60, ny: 0.80, zoom: 420, h: 'clamp(160px,24vw,240px)' },   // Mesosphere / Safe Spot
-    { nx: 0.20, ny: 0.60, zoom: 400, h: 'clamp(140px,22vw,220px)' },   // Troposphere / Low Gravity At Altitude
-  ];
-
-  var collage = document.getElementById('sci-collage');
-  if (!collage) return;
-
-  // Build cards
-  SHOTS.forEach(function(shot) {
-    var card = document.createElement('div');
-    card.className = 'sci-tile-shot';
-    card.dataset.nx = shot.nx;
-    card.dataset.ny = shot.ny;
-    card.dataset.zoom = shot.zoom;
-    card.style.height = shot.h;
-    collage.appendChild(card);
-  });
-
-  function applyBackgrounds() {
-    if (!window.boardImg || !window.boardImg.src) return;
-    var src = window.boardImg.src;
-    collage.querySelectorAll('.sci-tile-shot').forEach(function(el) {
-      var nx = parseFloat(el.dataset.nx);
-      var ny = parseFloat(el.dataset.ny);
-      var zoom = parseFloat(el.dataset.zoom);
-      el.style.backgroundImage = 'url(' + src + ')';
-      el.style.backgroundSize = zoom + '%';
-      el.style.backgroundPosition = (nx * 100) + '% ' + (ny * 100) + '%';
-    });
-  }
-
-  if (window.boardImg && window.boardImg.complete) {
-    applyBackgrounds();
-  } else {
-    var attempts = 0;
-    var poll = setInterval(function() {
-      attempts++;
-      if ((window.boardImg && window.boardImg.complete) || attempts > 60) {
-        clearInterval(poll);
-        applyBackgrounds();
-      }
-    }, 500);
-  }
-
-  // Stubs so nothing breaks if other code references these
   window.startSciAnimation = function() {};
   window.stopSciAnimation = function() {};
   window.sciGoForward = function() {};
