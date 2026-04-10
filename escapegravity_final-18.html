@@ -1538,56 +1538,32 @@
     </div>
 
     <style>
-    /* ── Science Tab Slides ───────────────────────────── */
-    .sci-slide {
-      display: none;
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
+    /* ── Science Collage ─────────────────────────────── */
+    .sci-tile-shot {
+      position: relative;
+      border-radius: clamp(6px,1.2vw,14px);
+      overflow: hidden;
+      background-color: rgba(18,8,38,0.5);
+      background-size: 350% 350%;
+      background-repeat: no-repeat;
+      aspect-ratio: 1 / 1;
     }
-    .sci-slide.active { display: block; }
-
-    .sci-slide-title {
+    .sci-tile-shot .sci-shot-label {
       position: absolute;
-      top: 3%;
-      left: 50%;
-      transform: translateX(-50%);
-      font-family: 'Norwester', sans-serif;
-      font-variant: small-caps;
-      font-size: clamp(18px, 3vw, 36px);
-      color: #9cbc14;
-      text-shadow: 0 0 20px rgba(156,188,20,0.5);
-      text-align: center;
-      z-index: 5;
-      white-space: nowrap;
-    }
-
-    #sci-canvas {
-      display: block;
-      width: 100%;
-      height: 100%;
-    }
-
-    .sci-tile-label {
-      position: absolute;
-      bottom: 12%;
-      left: 50%;
-      transform: translateX(-50%);
+      bottom: 0; left: 0; right: 0;
+      padding: clamp(4px,0.6vw,10px) clamp(6px,1vw,14px);
       font-family: 'Pompiere', sans-serif;
-      font-size: clamp(14px, 2vw, 22px);
+      font-size: clamp(11px,1.4vw,18px);
       color: #fff;
-      text-align: center;
-      letter-spacing: 2px;
+      letter-spacing: 1.5px;
       text-transform: uppercase;
-      background: rgba(10,6,24,0.7);
-      padding: 8px 20px;
-      border-radius: 10px;
-      border: 1px solid rgba(156,188,20,0.3);
-      opacity: 0;
-      transition: opacity 0.5s ease;
-      z-index: 5;
-      white-space: nowrap;
+      text-align: center;
+      background: linear-gradient(transparent, rgba(10,6,24,0.85));
     }
-    .sci-tile-label.show { opacity: 1; }
+    @media (max-width: 600px) {
+      #sci-collage { grid-template-columns: repeat(2, 1fr); }
+      .sci-tile-shot { aspect-ratio: 1 / 1; }
+    }
     </style>
 
     <div class="s2-panel" id="s2-panel-science">
@@ -1970,22 +1946,11 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════ S4: SCIENCE ══ -->
-<section id="s4-science" style="position:relative;height:100vh;overflow:hidden;margin-top:clamp(30px,5vh,60px);">
+<section id="s4-science" style="position:relative;overflow:hidden;margin-top:clamp(30px,5vh,60px);">
   <div style="display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);position:relative;z-index:10;">
-    <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Science</h2>
+    <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Every Tile Has Science</h2>
   </div>
-  <div style="position:relative;flex:1;width:100%;height:calc(100vh - 80px);">
-    <div class="sci-slide active" id="sci-slide-1" style="position:absolute;top:0;left:0;right:0;bottom:0;">
-      <div class="sci-slide-title" id="sci-title-1">Each Tile Carries Science</div>
-      <canvas id="sci-canvas" width="800" height="600"></canvas>
-      <div class="sci-tile-label" id="sci-tile-label"></div>
-    </div>
-    <div class="sci-slide" id="sci-slide-2">
-      <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
-    </div>
-    <div class="sci-slide" id="sci-slide-3">
-      <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.3);font-family:'Pompiere',sans-serif;font-size:18px;letter-spacing:3px;text-transform:uppercase;">Loading...</div>
-    </div>
+  <div id="sci-collage" style="display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(6px,1vw,14px);padding:clamp(8px,2vw,24px) clamp(12px,4vw,48px);width:100%;box-sizing:border-box;max-height:calc(100vh - 100px);overflow:hidden;">
   </div>
 </section>
 
@@ -3371,187 +3336,76 @@
 
 })();
 
-/* ── Science Tab — Tile Zoom Animation ──────────────────── */
+/* ── Science Section — Tile Close-up Collage ──────────────── */
 (function(){
   'use strict';
 
-  var sciCanvas = document.getElementById('sci-canvas');
-  var sciCtx = sciCanvas ? sciCanvas.getContext('2d') : null;
-  var sciLabel = document.getElementById('sci-tile-label');
-  var sciActive = false;
-  var sciRaf = null;
-
-  // Tiles to highlight — normalized coordinates on the original board image
-  var TILES = [
-    { nx: 0.63, ny: 0.31, scale: 3.5, label: 'Gravity Near Surface' },
-    { nx: 0.55, ny: 0.55, scale: 4.0, label: 'Near Vacuum \u2014 Low Pressure' },
-    { nx: 0.72, ny: 0.55, scale: 3.8, label: 'Strong Horizontal Winds' },
-    { nx: 0.45, ny: 0.40, scale: 3.5, label: 'Extreme UV \u2014 No Air' },
+  // Each entry: normalised focus (nx, ny) on the board image,
+  // zoom level (background-size %), and label text.
+  var SHOTS = [
+    { nx: 0.63, ny: 0.31, zoom: 380, label: 'Gravity Near Surface' },
+    { nx: 0.55, ny: 0.55, zoom: 400, label: 'Near Vacuum — Low Pressure' },
+    { nx: 0.72, ny: 0.55, zoom: 390, label: 'Strong Horizontal Winds' },
+    { nx: 0.45, ny: 0.40, zoom: 380, label: 'Extreme UV — No Air' },
+    { nx: 0.38, ny: 0.55, zoom: 380, label: 'Extreme Temperature Shifts' },
+    { nx: 0.30, ny: 0.40, zoom: 400, label: 'Surface to 35 km' },
   ];
 
-  var currentTile = -1;
-  var animStart = null;
-  var ZOOM_TIME = 1500;
-  var HOLD_TIME = 3000;
-  var phase = 'idle';
-  var fromState = { cx: 0.5, cy: 0.5, s: 1 };
-  var toState = { cx: 0.5, cy: 0.5, s: 1 };
+  var collage = document.getElementById('sci-collage');
+  if (!collage) return;
 
-  function resizeSciCanvas() {
-    if (!sciCanvas) return;
-    var parent = sciCanvas.parentElement;
-    if (!parent) return;
-    sciCanvas.width = parent.clientWidth;
-    sciCanvas.height = parent.clientHeight;
+  // Build tiles (background set once boardImg is ready)
+  SHOTS.forEach(function(shot) {
+    var tile = document.createElement('div');
+    tile.className = 'sci-tile-shot';
+    tile.dataset.nx = shot.nx;
+    tile.dataset.ny = shot.ny;
+    tile.dataset.zoom = shot.zoom;
+    var lbl = document.createElement('div');
+    lbl.className = 'sci-shot-label';
+    lbl.textContent = shot.label;
+    tile.appendChild(lbl);
+    collage.appendChild(tile);
+  });
+
+  function applyBackgrounds() {
+    if (!window.boardImg || !window.boardImg.src) return;
+    var src = window.boardImg.src;
+    var tiles = collage.querySelectorAll('.sci-tile-shot');
+    tiles.forEach(function(el) {
+      var nx = parseFloat(el.dataset.nx);
+      var ny = parseFloat(el.dataset.ny);
+      var zoom = parseFloat(el.dataset.zoom);
+      // background-position: move the focus point to the centre of the div
+      var bpx = (nx * 100).toFixed(1) + '%';
+      var bpy = (ny * 100).toFixed(1) + '%';
+      el.style.backgroundImage = 'url(' + src + ')';
+      el.style.backgroundSize = zoom + '% ' + zoom + '%';
+      el.style.backgroundPosition = bpx + ' ' + bpy;
+    });
   }
 
-  function drawSciBoard(cx, cy, scale) {
-    if (!sciCtx || !window.boardImg) return;
-    var W = sciCanvas.width, H = sciCanvas.height;
-    var img = window.boardImg;
-    var nat = img.naturalWidth || 1200;
-    var imgScale = Math.min(W, H) / nat;
-    var dispW = nat * imgScale;
-    var imgX = (W - dispW) / 2;
-    var imgY = (H - dispW) / 2;
-
-    var focusX = imgX + cx * dispW;
-    var focusY = imgY + cy * dispW;
-
-    sciCtx.clearRect(0, 0, W, H);
-    sciCtx.save();
-    sciCtx.translate(focusX, focusY);
-    sciCtx.scale(scale, scale);
-    sciCtx.translate(-focusX, -focusY);
-    sciCtx.drawImage(img, imgX, imgY, dispW, dispW);
-    sciCtx.restore();
-  }
-
-  function smoothstep(t) { return t * t * (3 - 2 * t); }
-  function lerp(a, b, t) { return a + (b - a) * t; }
-
-  function sciFrame(ts) {
-    if (!sciActive) return;
-    if (!animStart) animStart = ts;
-    var elapsed = ts - animStart;
-
-    if (phase === 'zooming-in' || phase === 'zooming-out') {
-      var t = Math.min(elapsed / ZOOM_TIME, 1);
-      var e = smoothstep(t);
-      var cx = lerp(fromState.cx, toState.cx, e);
-      var cy = lerp(fromState.cy, toState.cy, e);
-      var s = lerp(fromState.s, toState.s, e);
-      drawSciBoard(cx, cy, s);
-      if (t >= 1) {
-        if (phase === 'zooming-in') {
-          phase = 'holding';
-          animStart = ts;
-          if (sciLabel && currentTile >= 0) {
-            sciLabel.textContent = TILES[currentTile].label;
-            sciLabel.classList.add('show');
-          }
-        } else {
-          phase = 'idle';
-          animStart = ts;
-          nextTile();
-          sciRaf = requestAnimationFrame(sciFrame);
-          return;
-        }
+  // Board image may already be loaded (section 3 loads it)
+  if (window.boardImg && window.boardImg.complete) {
+    applyBackgrounds();
+  } else {
+    // Poll briefly until boardImg is available
+    var attempts = 0;
+    var poll = setInterval(function() {
+      attempts++;
+      if ((window.boardImg && window.boardImg.complete) || attempts > 60) {
+        clearInterval(poll);
+        applyBackgrounds();
       }
-    } else if (phase === 'holding') {
-      if (elapsed >= HOLD_TIME) {
-        if (sciLabel) sciLabel.classList.remove('show');
-        phase = 'zooming-out';
-        animStart = ts;
-        fromState = { cx: toState.cx, cy: toState.cy, s: toState.s };
-        toState = { cx: 0.5, cy: 0.5, s: 1 };
-      }
-    } else if (phase === 'idle') {
-      if (elapsed >= 1000) {
-        nextTile();
-      }
-      drawSciBoard(0.5, 0.5, 1);
-    }
-
-    sciRaf = requestAnimationFrame(sciFrame);
+    }, 500);
   }
 
-  function nextTile() {
-    currentTile = (currentTile + 1) % TILES.length;
-    var tile = TILES[currentTile];
-    phase = 'zooming-in';
-    animStart = null;
-    fromState = { cx: 0.5, cy: 0.5, s: 1 };
-    toState = { cx: tile.nx, cy: tile.ny, s: tile.scale };
-  }
-
-  function startSciAnimation() {
-    if (sciActive) return;
-    sciActive = true;
-    resizeSciCanvas();
-    currentTile = -1;
-    phase = 'idle';
-    animStart = null;
-    drawSciBoard(0.5, 0.5, 1);
-    sciRaf = requestAnimationFrame(sciFrame);
-  }
-
-  function stopSciAnimation() {
-    sciActive = false;
-    if (sciRaf) cancelAnimationFrame(sciRaf);
-    sciRaf = null;
-    if (sciLabel) sciLabel.classList.remove('show');
-  }
-
-  window.startSciAnimation = startSciAnimation;
-  window.stopSciAnimation = stopSciAnimation;
-
-  window.addEventListener('resize', resizeSciCanvas);
-
-  // Auto-start/stop science animation when section is in view
-  var sciSection = document.getElementById('s4-science');
-  if (sciSection) {
-    new IntersectionObserver(function(entries) {
-      if (entries[0].isIntersecting) {
-        resizeSciCanvas();
-        startSciAnimation();
-      } else {
-        stopSciAnimation();
-      }
-    }, { threshold: 0.3 }).observe(sciSection);
-  }
-
-  // Science slide navigation
-  var sciSlideIndex = 0;
-  window.sciGoForward = function() {
-    if (sciSlideIndex < 2) {
-      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.remove('active');
-      sciSlideIndex++;
-      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.add('active');
-      if (sciSlideIndex === 0) startSciAnimation(); else stopSciAnimation();
-    } else {
-      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.remove('active');
-      sciSlideIndex = 0;
-      document.getElementById('sci-slide-1').classList.add('active');
-      startSciAnimation();
-    }
-  };
-  window.sciGoBack = function() {
-    if (sciSlideIndex > 0) {
-      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.remove('active');
-      sciSlideIndex--;
-      document.getElementById('sci-slide-' + (sciSlideIndex + 1)).classList.add('active');
-      if (sciSlideIndex === 0) startSciAnimation(); else stopSciAnimation();
-    }
-  };
-  window.sciResetSlides = function() {
-    for (var i = 1; i <= 3; i++) {
-      var sl = document.getElementById('sci-slide-' + i);
-      if (sl) sl.classList.remove('active');
-    }
-    document.getElementById('sci-slide-1').classList.add('active');
-    sciSlideIndex = 0;
-  };
+  // Keep stubs so nothing breaks if other code references these
+  window.startSciAnimation = function() {};
+  window.stopSciAnimation = function() {};
+  window.sciGoForward = function() {};
+  window.sciGoBack = function() {};
+  window.sciResetSlides = function() {};
 })();
 
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
