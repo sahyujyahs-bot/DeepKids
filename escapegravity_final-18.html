@@ -3400,7 +3400,7 @@
 /* ── Normal scroll — no snapping, just active-nav highlighting + smooth nav clicks ── */
 (function(){
   'use strict';
-  const sectionIds = ['s1','s2','s3','s4-science','s5','s6','s7','eg-footer'];
+  const sectionIds = ['s1','s2','s3','s4-science','s4b-turns','s5','s6','s7','eg-footer'];
   const sectionEls = sectionIds.map(id => document.getElementById(id));
   const allNavLinks = document.querySelectorAll('.eg-nav-links a, .eg-mobile-overlay a');
 
@@ -3737,6 +3737,383 @@
     opacity: 1; transform: translateY(0);
   }
 </style>
+
+<!-- ═══════════════════════════════════════════════ S4b: EVERY TURN ══ -->
+<section id="s4b-turns" class="eg-section">
+  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(16px,2vh,28px);">Every Turn Is a Lesson</h2>
+
+  <!-- Tab bar -->
+  <div class="s4b-tabs eg-fade-in">
+    <button class="s4b-tab active" data-tab="ex1">Example 1</button>
+    <button class="s4b-tab" data-tab="ex2">Example 2</button>
+  </div>
+
+  <!-- ── Example 1: Miss The Bucket ────────────────────── -->
+  <div class="s4b-panel active" id="s4b-ex1">
+
+    <!-- Challenge card -->
+    <div class="s4b-challenge-card eg-fade-in">
+      <div class="s4b-card-badge">Challenge</div>
+      <h3 class="s4b-card-title">Miss The Bucket</h3>
+      <ul class="s4b-card-steps">
+        <li>Place a basket/bowl directly below the edge of a table.</li>
+        <li>Roll a toy car (in the kit) off the table.</li>
+        <li>If the car misses the bowl, you score a point.</li>
+        <li>Take turns and play as many rounds for 60 seconds.</li>
+      </ul>
+      <div class="s4b-card-winner">The player with most bucket misses gets 1 point!</div>
+      <div class="s4b-thinking-cue">
+        <span class="s4b-cue-icon">?</span>
+        Did the car fall straight down or along a curved path?
+      </div>
+      <div class="s4b-card-earn">Turn Player Earns A &ldquo;Sideways Velocity&rdquo; Card from &ldquo;Speed&rdquo; Category</div>
+    </div>
+
+    <!-- Annotations -->
+    <div class="s4b-annotations eg-fade-in">
+      <div class="s4b-anno">
+        <span class="s4b-anno-arrow">&#9650;</span>
+        <strong>Physical challenge</strong> that demonstrates science
+      </div>
+      <div class="s4b-anno">
+        <span class="s4b-anno-arrow">&#9650;</span>
+        <strong>Thinking Cue</strong> &mdash; prompts reflection
+      </div>
+    </div>
+
+    <!-- Explanation -->
+    <p class="s4b-explanation eg-fade-in">
+      The force card they earn is the concept demonstrated by the physical challenge.
+      The force card is the answer or explanation behind the thinking cue.
+    </p>
+
+    <!-- Force cards -->
+    <div class="s4b-force-cards eg-fade-in">
+      <div class="s4b-fc" style="--fc-color:#6b2fa0;">
+        <div class="s4b-fc-header">
+          <span class="s4b-fc-cat">Speed</span>
+        </div>
+        <div class="s4b-fc-body">
+          <div class="s4b-fc-name">Sideways Velocity</div>
+          <div class="s4b-fc-tagline">Gravity pulls, speed saves&hellip;</div>
+          <p class="s4b-fc-text">Gravity of a massive body pulls you inward.
+            Sideways motion can keep you from crashing into it.
+            Move fast enough &amp; you orbit &mdash;
+            like Earth around the Sun.</p>
+        </div>
+        <div class="s4b-fc-footer">Sideways Velocity</div>
+      </div>
+
+      <div class="s4b-fc" style="--fc-color:#6b2fa0;">
+        <div class="s4b-fc-header">
+          <span class="s4b-fc-cat">Sideways Velocity</span>
+        </div>
+        <div class="s4b-fc-body s4b-fc-back">
+          <div class="s4b-fc-diagram">&#9978;</div>
+          <div class="s4b-fc-name">Speed</div>
+        </div>
+        <div class="s4b-fc-footer">Speed</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Example 2: One Leg Balance ────────────────────── -->
+  <div class="s4b-panel" id="s4b-ex2">
+
+    <!-- Challenge card -->
+    <div class="s4b-challenge-card eg-fade-in">
+      <div class="s4b-card-badge">Challenge</div>
+      <h3 class="s4b-card-title">One Leg Balance!</h3>
+      <ul class="s4b-card-steps">
+        <li>Each player stands straight, folds one leg and places the foot above the other knee.</li>
+        <li>Lift your hands straight above head or to the sides to balance.</li>
+        <li>If you fall, start again.</li>
+        <li>Balance on one leg for 60 seconds.</li>
+      </ul>
+      <div class="s4b-card-winner">The player who balances the longest wins 1 point!</div>
+      <div class="s4b-thinking-cue">
+        <span class="s4b-cue-icon">?</span>
+        Did spreading your arms make balancing easier? Why?
+      </div>
+      <div class="s4b-card-earn">Turn Player Earns A &ldquo;Center Of Gravity&rdquo; Card from &ldquo;Balance&rdquo; Category</div>
+    </div>
+
+    <!-- Annotations -->
+    <div class="s4b-annotations eg-fade-in">
+      <div class="s4b-anno">
+        <span class="s4b-anno-arrow">&#9650;</span>
+        <strong>Yoga poses</strong> that need Center of Gravity alignment
+      </div>
+      <div class="s4b-anno">
+        <span class="s4b-anno-arrow">&#9650;</span>
+        <strong>Spreading arms</strong> helps Center of Gravity alignment &amp; provides balance
+      </div>
+    </div>
+
+    <!-- Explanation -->
+    <p class="s4b-explanation eg-fade-in">
+      The learning becomes complete &amp; clear, when the player earns the Center of
+      Gravity force card after doing the activity &amp; pondering on the question.
+    </p>
+
+    <!-- Force cards -->
+    <div class="s4b-force-cards eg-fade-in">
+      <div class="s4b-fc" style="--fc-color:#1a4a7a;">
+        <div class="s4b-fc-header">
+          <span class="s4b-fc-cat">Center of Gravity</span>
+        </div>
+        <div class="s4b-fc-body s4b-fc-back">
+          <div class="s4b-fc-diagram">&#9878;</div>
+          <div class="s4b-fc-name">Balance</div>
+        </div>
+        <div class="s4b-fc-footer">Balance</div>
+      </div>
+
+      <div class="s4b-fc" style="--fc-color:#1a4a7a;">
+        <div class="s4b-fc-header">
+          <span class="s4b-fc-cat">Balance</span>
+        </div>
+        <div class="s4b-fc-body">
+          <div class="s4b-fc-name">Center Of Gravity</div>
+          <div class="s4b-fc-tagline">Center aligned &mdash; balance found!</div>
+          <p class="s4b-fc-text">Every object has a point where its weight
+            is balanced. Keep it above the base &mdash; it
+            stands. Move it past the base &mdash; it falls.</p>
+        </div>
+        <div class="s4b-fc-footer">Center Of Gravity</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ── Every Turn Is A Lesson ────────────────────────────── */
+.s4b-tabs {
+  display: flex;
+  justify-content: center;
+  gap: clamp(6px, 1vw, 12px);
+  margin-bottom: clamp(20px, 3vh, 36px);
+}
+.s4b-tab {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(14px, 1.6vw, 20px);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: clamp(8px,1vh,12px) clamp(18px,2.5vw,36px);
+  border: 1px solid rgba(156,188,20,0.35);
+  border-radius: 8px;
+  background: rgba(18,8,38,0.5);
+  color: rgba(255,255,255,0.55);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.s4b-tab:hover { color: #fff; border-color: rgba(156,188,20,0.6); }
+.s4b-tab.active {
+  background: rgba(156,188,20,0.15);
+  color: #9cbc14;
+  border-color: #9cbc14;
+}
+.s4b-panel { display: none; max-width: 720px; margin: 0 auto; }
+.s4b-panel.active { display: block; }
+
+/* Challenge card */
+.s4b-challenge-card {
+  background: linear-gradient(135deg, #1a0a2e 0%, #2d1650 100%);
+  border: 1px solid rgba(156,188,20,0.2);
+  border-radius: clamp(12px,2vw,20px);
+  padding: clamp(20px,3vw,36px);
+  margin-bottom: clamp(16px,2vh,24px);
+}
+.s4b-card-badge {
+  display: inline-block;
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(11px,1.2vw,15px);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background: rgba(156,188,20,0.2);
+  color: #9cbc14;
+  padding: 3px 14px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.s4b-card-title {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(20px,3vw,32px);
+  color: #fff;
+  margin: 0 0 clamp(10px,1.5vh,16px);
+}
+.s4b-card-steps {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 clamp(12px,1.5vh,18px);
+}
+.s4b-card-steps li {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(14px,1.6vw,19px);
+  color: rgba(255,255,255,0.85);
+  line-height: 1.5;
+  padding-left: 22px;
+  position: relative;
+  margin-bottom: 4px;
+}
+.s4b-card-steps li::before {
+  content: '\2192';
+  position: absolute;
+  left: 0;
+  color: #9cbc14;
+}
+.s4b-card-winner {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(12px,1.3vw,16px);
+  color: #9cbc14;
+  background: rgba(156,188,20,0.1);
+  padding: 6px 14px;
+  border-radius: 6px;
+  margin-bottom: clamp(12px,1.5vh,18px);
+}
+.s4b-thinking-cue {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(16px,2.2vw,24px);
+  color: #fff;
+  text-align: center;
+  padding: clamp(12px,1.5vh,18px);
+  border: 2px dashed rgba(255,255,255,0.35);
+  border-radius: 10px;
+  margin-bottom: clamp(10px,1.2vh,14px);
+}
+.s4b-cue-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  background: #9cbc14;
+  color: #1a0a2e;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+.s4b-card-earn {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(12px,1.3vw,16px);
+  color: rgba(255,255,255,0.6);
+  text-align: center;
+  padding-top: 6px;
+}
+
+/* Annotations */
+.s4b-annotations {
+  display: flex;
+  justify-content: space-around;
+  gap: 16px;
+  margin-bottom: clamp(14px,2vh,20px);
+  flex-wrap: wrap;
+}
+.s4b-anno {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(13px,1.4vw,17px);
+  color: rgba(255,255,255,0.7);
+  text-align: center;
+  max-width: 260px;
+}
+.s4b-anno-arrow {
+  display: block;
+  color: #9cbc14;
+  font-size: 12px;
+  margin-bottom: 2px;
+}
+
+/* Explanation */
+.s4b-explanation {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(15px,1.7vw,20px);
+  color: rgba(255,255,255,0.8);
+  text-align: center;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto clamp(20px,3vh,32px);
+}
+
+/* Force cards */
+.s4b-force-cards {
+  display: flex;
+  justify-content: center;
+  gap: clamp(12px,2vw,24px);
+  flex-wrap: wrap;
+}
+.s4b-fc {
+  width: clamp(140px,22vw,200px);
+  border-radius: clamp(10px,1.5vw,14px);
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+}
+.s4b-fc-header, .s4b-fc-footer {
+  background: var(--fc-color, #6b2fa0);
+  padding: clamp(6px,0.8vh,10px);
+  text-align: center;
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(11px,1.2vw,15px);
+  color: #fff;
+  letter-spacing: 1px;
+}
+.s4b-fc-cat { font-size: clamp(12px,1.3vw,16px); }
+.s4b-fc-body {
+  background: linear-gradient(180deg, #1a0a2e, #2d1650);
+  padding: clamp(12px,1.5vw,20px);
+  text-align: center;
+  min-height: clamp(100px,16vw,160px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.s4b-fc-name {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(14px,1.6vw,20px);
+  color: #fff;
+  margin-bottom: 6px;
+}
+.s4b-fc-tagline {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(10px,1.1vw,13px);
+  color: #9cbc14;
+  margin-bottom: 8px;
+}
+.s4b-fc-text {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(11px,1.2vw,14px);
+  color: rgba(255,255,255,0.75);
+  line-height: 1.5;
+  margin: 0;
+}
+.s4b-fc-diagram {
+  font-size: clamp(36px,5vw,56px);
+  margin-bottom: 8px;
+}
+.s4b-fc-back {
+  background: radial-gradient(circle at center, rgba(156,188,20,0.08) 0%, #1a0a2e 70%);
+}
+</style>
+
+<script>
+(function(){
+  var tabs = document.querySelectorAll('.s4b-tab');
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      tabs.forEach(function(t) { t.classList.remove('active'); });
+      tab.classList.add('active');
+      document.querySelectorAll('.s4b-panel').forEach(function(p) { p.classList.remove('active'); });
+      document.getElementById('s4b-' + tab.getAttribute('data-tab')).classList.add('active');
+    });
+  });
+})();
+</script>
 
 <!-- ═══════════════════════════════════════════════ S5: ABOUT ══ -->
 <section id="s5" class="eg-section">
