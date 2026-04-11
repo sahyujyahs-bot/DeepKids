@@ -114,14 +114,15 @@
       justify-content: center;
       margin-bottom: clamp(8px, 1.4vh, 14px);
     }
-    /* "from DeepKids" — small pill anchored to the title's top-right
-       corner on every screen size (sits inside the title box, like a
-       brand mark at the top-right). */
+    /* "from DeepKids" — small pill anchored just above the title's
+       top edge, close to but not overlapping the title text. Uses a
+       translate trick so the pill's bottom sits a couple of pixels
+       into the title padding regardless of the title font size. */
     .hero-tm {
       position: absolute;
-      top: clamp(-0.6em, -0.4vw, -0.3em);
-      right: clamp(2px, 0.5vw, 8px);
-      transform: none;
+      top: 0;
+      right: clamp(2px, 0.5vw, 10px);
+      transform: translateY(calc(-100% + 2px));
       font-family: 'Pompiere', sans-serif;
       font-weight: normal;
       font-variant: normal;
@@ -146,8 +147,7 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        top: -0.2em;
-        right: 2px;
+        right: 3px;
         font-size: clamp(8px, 2.4vw, 11px);
         padding: 3px 7px;
         letter-spacing: 0.5px;
@@ -6598,7 +6598,7 @@
     position: fixed;
     left: 0; right: 0; bottom: 0;
     z-index: 998;
-    padding: 10px 12px calc(12px + env(safe-area-inset-bottom, 0px));
+    padding: 8px 4px calc(10px + env(safe-area-inset-bottom, 0px));
     background: linear-gradient(180deg, rgba(10,6,24,0) 0%, rgba(10,6,24,0.85) 45%, rgba(10,6,24,0.95) 100%);
     pointer-events: none;
     opacity: 0;
@@ -6637,13 +6637,13 @@
   .eg-mobile-preorder .btn-svg path[stroke="#6b2155"] { stroke-width: 4 !important; }
   .eg-mobile-preorder .btn-svg line[stroke="#6b2155"] { stroke-width: 6 !important; }
   .eg-mobile-preorder .btn-svg line[stroke="#9cbc14"] { stroke-width: 4 !important; }
-  /* Centre label on the D portion of the DK button. The D in the
-     SVG runs from x=5 to x≈240 of the 360-wide viewBox; its centre
-     sits at ~34% of the rendered width. */
+  /* Centre label on the D portion of the DK button. After we trim
+     the viewBox to 339, the D centre lands at 122.5 / 339 ≈ 36.1%
+     of the rendered width. */
   .eg-mobile-preorder .btn-label {
     font-size: 16px;
     letter-spacing: 2px;
-    left: 34% !important;
+    left: 36% !important;
   }
   @media (max-width: 768px) {
     .eg-mobile-preorder { display: block; }
@@ -6662,9 +6662,17 @@
   var el = document.getElementById('eg-mobile-preorder');
   if (!el) return;
 
-  // Stretch the DK button horizontally to fill the full row.
+  // Stretch the DK button horizontally to fill the full row, AND trim
+  // the viewBox so the D+K content is visually centred (the default
+  // 360-unit viewBox has ~7% empty space on the right and only ~1%
+  // on the left, which pulls the rendered button toward the left).
+  // 339 is the minimum width that keeps a matching 5-unit padding
+  // on both sides of the D (x=5→) and K (x=324 + 10 round-cap).
   var svg = el.querySelector('.btn-svg');
-  if (svg) svg.setAttribute('preserveAspectRatio', 'none');
+  if (svg) {
+    svg.setAttribute('preserveAspectRatio', 'none');
+    svg.setAttribute('viewBox', '0 0 339 108');
+  }
 
   function toggle(){
     // Show after user scrolls past the 1st viewport (i.e. from the 2nd viewport onward)
