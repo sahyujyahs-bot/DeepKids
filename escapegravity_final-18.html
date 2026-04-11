@@ -1746,15 +1746,27 @@
     border-top: 20px solid #6b2155;
     transform: rotate(20deg);
   }
-  .s2-bubble-earth {
+  /* Icons embedded in the comic bubble — reference real force-card
+     icons from the repo so they match the rest of the site. */
+  .s2-bubble-icon {
     display: inline-block;
-    width: 1.3em; height: 1.3em;
+    width: 1.4em;
+    height: 1.4em;
     vertical-align: middle;
-    border: 2px solid #fff;
-    border-radius: 50%;
-    background: radial-gradient(circle at 40% 40%, #4a90d9, #1a5c2a 50%, #2d7d3a 70%, #4a90d9 90%);
+    object-fit: contain;
     margin: 0 3px;
-    box-shadow: 0 0 6px rgba(255,255,255,0.5);
+    filter: drop-shadow(0 1px 2px rgba(0,0,0,0.5));
+  }
+  .s2-bubble-earth { /* legacy class kept for back-compat */
+    display: inline-block;
+    width: 1.4em; height: 1.4em;
+    vertical-align: middle;
+    margin: 0 3px;
+    background: url("IMG_4700.png") center/contain no-repeat;
+    filter: drop-shadow(0 1px 2px rgba(0,0,0,0.5));
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
   }
   .s2-bubble-highlight {
     color: #fff;
@@ -1962,7 +1974,7 @@
       <div id="s2-comic-bubble">
         <div class="s2-bubble-box">
           If you have an<br>
-          <span class="s2-bubble-highlight"><span class="s2-bubble-earth"></span> Earth Force Card</span><br>
+          <span class="s2-bubble-highlight"><img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth"> Earth Force Card</span><br>
           you can play it…<br>
           or you <span class="s2-bubble-highlight">fall down!</span><br>
           <a class="s2-bubble-link" id="s2-bubble-fc-link">Earn a Force Card</a>
@@ -2994,11 +3006,41 @@
   /* ── Navigation ─────────────────────────────────────────── */
   window.s2ActiveTab = 'physical';
 
+  /* Cross-step navigation:
+       - Next at the END of a step advances to the NEXT step's first scene
+       - Prev at the START of a step jumps back to the PREVIOUS step's last scene
+       - Within a step, it still walks through that step's internal scenes
+     Steps cycle: 1 ↔ 2 ↔ 3 ↔ 1 */
   window.s2GoBack = function() {
     if (window.s2sfx) window.s2sfx.click();
-    if (window.s2ActiveTab === 'science') { if (window.sciGoBack) window.sciGoBack(); return; }
-    if (window.s2ActiveTab === 'physical') { window.pcGoBack(); return; }
-    if (state === 1 || state === 6) {
+
+    if (window.s2ActiveTab === 'physical') {
+      // pcGoBack handles cross-step wrap (start of Step 1 → Step 3)
+      window.pcGoBack();
+      return;
+    }
+
+    if (window.s2ActiveTab === 'science') {
+      // Step 3 has no internal states — Prev goes to Step 2's last scene
+      var bgTab2 = document.querySelector('.s2-tab[data-panel="boardgame"]');
+      if (bgTab2) {
+        bgTab2.click();
+        setTimeout(function(){ if (window.jumpToState4) window.jumpToState4(); }, 120);
+      }
+      return;
+    }
+
+    // window.s2ActiveTab === 'boardgame'
+    // Start of Step 2 → Step 1 last scene
+    if (state === 0 || state === 1) {
+      var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
+      if (pcTab) {
+        pcTab.click();
+        setTimeout(function(){ if (window.pcJumpTo) window.pcJumpTo(2); }, 120);
+      }
+      return;
+    }
+    if (state === 6) {
       jumpToState0();
       return;
     }
@@ -3017,21 +3059,37 @@
 
   window.s2GoForward = function() {
     if (window.s2sfx) window.s2sfx.click();
-    if (window.s2ActiveTab === 'science') { if (window.sciGoForward) window.sciGoForward(); return; }
-    if (window.s2ActiveTab === 'physical') { window.pcGoForward(); return; }
+
+    if (window.s2ActiveTab === 'physical') {
+      // pcGoForward handles cross-step wrap (end of Step 1 → Step 2)
+      window.pcGoForward();
+      return;
+    }
+
+    if (window.s2ActiveTab === 'science') {
+      // End of Step 3 → loop back to Step 1 start
+      var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
+      if (pcTab) pcTab.click();
+      return;
+    }
+
+    // window.s2ActiveTab === 'boardgame'
     if (state === 0 || state === 1) {
-      // Skip to dice scene (endpoint)
       jumpToState2();
       return;
     }
     if (state === 2) {
-      // Skip to tile 11 zoom + bubble (endpoint)
       jumpToState4();
       return;
     }
+    // state 3 / 4 / 5 → end of Step 2, advance to Step 3
     if (state === 3 || state === 4 || state === 5) {
-      // Last scene → loop back to start and auto-play
-      jumpToState0();
+      var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
+      if (sciTab && !sciTab.classList.contains('locked')) {
+        sciTab.click();
+      } else {
+        jumpToState0();
+      }
       return;
     }
   };
@@ -3184,40 +3242,47 @@
   };
 
   /* ── Position bubble attached to the token ─────────────────
-     The bubble sticks next to the token in the same horizontal
-     band, never overlapping. Tries right-of-token first, then
-     left-of-token, and if neither has room, places the bubble
-     above or below the token. The final position is clamped to
-     the s2-board-row container so nothing is clipped. */
+     IMPORTANT: #s2-tok-blue is a direct child of #s3 (so it can
+     overflow the board-row), but the bubble is inside
+     #s2-panel-boardgame → #s2-board-row. The two elements are in
+     different offset-parent coordinate spaces, so we can't just
+     compare their style.left/top values.
+
+     This version uses getBoundingClientRect() on both and
+     converts the token's viewport rect into the bubble's
+     offset-parent space before positioning. */
   function positionBubbleAtToken(bubble, animate) {
     if (!bubble || !tokBlue) return;
-    var tokL = parseFloat(tokBlue.style.left) || 0;
-    var tokT = parseFloat(tokBlue.style.top) || 0;
-    var tokW = tokBlue.offsetWidth || 80;
-    var tokH = tokBlue.offsetHeight || 80;
-    var bblW = bubble.offsetWidth || 260;
-    var bblH = bubble.offsetHeight || 110;
 
-    // Container bounds — use the board-row so the bubble tracks
-    // the same coordinate space as the token.
-    var container = document.getElementById('s2-board-row') || document.getElementById('s3');
-    var cw = container ? container.clientWidth  : window.innerWidth;
-    var ch = container ? container.clientHeight : window.innerHeight;
+    // Let layout settle before measuring, so offsetWidth/Height
+    // reflect the latest content.
+    var bblW = bubble.offsetWidth  || 260;
+    var bblH = bubble.offsetHeight || 110;
+    var offsetParent = bubble.offsetParent || document.getElementById('s2-board-row') || document.getElementById('s3');
+    if (!offsetParent) return;
+    var parentRect = offsetParent.getBoundingClientRect();
+    var tokRect = tokBlue.getBoundingClientRect();
+
+    // Token in bubble's offset-parent coordinate space
+    var tokL = tokRect.left - parentRect.left;
+    var tokT = tokRect.top  - parentRect.top;
+    var tokW = tokRect.width;
+    var tokH = tokRect.height;
+
+    // Container = bubble's offset parent
+    var cw = offsetParent.clientWidth;
+    var ch = offsetParent.clientHeight;
     var padding = 8;
     var gap = 14;
 
     // Room on each side of the token
-    var roomRight  = cw - (tokL + tokW) - gap - padding;
-    var roomLeft   = tokL - gap - padding;
-    var roomAbove  = tokT - gap - padding;
-    var roomBelow  = ch - (tokT + tokH) - gap - padding;
+    var roomRight = cw - (tokL + tokW) - gap - padding;
+    var roomLeft  = tokL - gap - padding;
+    var roomAbove = tokT - gap - padding;
+    var roomBelow = ch - (tokT + tokH) - gap - padding;
 
     var finalLeft, finalTop;
-
-    // Prefer the side of the token that has room. The bubble sits
-    // in the same horizontal band as the token (vertical centre
-    // aligned with the token's vertical centre), which is the
-    // "same horizontal area" the user asked for.
+    // Vertical centre aligned with the token's vertical centre
     var sameRowTop = tokT + tokH / 2 - bblH / 2;
 
     if (roomRight >= bblW) {
@@ -3227,21 +3292,16 @@
       finalLeft = tokL - bblW - gap;
       finalTop  = sameRowTop;
     } else if (roomBelow >= bblH) {
-      // Drop it just below the token, horizontally aligned
       finalLeft = tokL + tokW / 2 - bblW / 2;
       finalTop  = tokT + tokH + gap;
     } else if (roomAbove >= bblH) {
-      // Lift it just above the token, horizontally aligned
       finalLeft = tokL + tokW / 2 - bblW / 2;
       finalTop  = tokT - bblH - gap;
     } else {
-      // Tight — keep it beside the token on whichever side has
-      // more room, we'll clamp after.
-      if (roomRight >= roomLeft) {
-        finalLeft = tokL + tokW + gap;
-      } else {
-        finalLeft = tokL - bblW - gap;
-      }
+      // Tight — whichever side has more room beside the token
+      finalLeft = (roomRight >= roomLeft)
+        ? tokL + tokW + gap
+        : tokL - bblW - gap;
       finalTop = sameRowTop;
     }
 
@@ -3709,11 +3769,16 @@
     if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
     inlineFc.classList.add('show');
 
+    // Icon HTML snippets (referencing real assets in the repo)
+    var iconEarth  = '<img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth">';
+    var iconBody   = '<img class="s2-bubble-icon" src="IMG_4705.png" alt="Body">';
+    var iconTwo    = '<img class="s2-bubble-icon" src="any-2-cards.png" alt="Any 2 Cards" onerror="this.style.display=\'none\'">';
+
     // Starting state (token on tile 11) — keep the Earth Force Card
     // message with the "Check Your Force Card" call-to-action link.
     setBubbleContent(
       'If you have an<br>' +
-      '<span class="s2-bubble-highlight"><span class="s2-bubble-earth"></span> Earth Force Card</span><br>' +
+      '<span class="s2-bubble-highlight">' + iconEarth + ' Earth Force Card</span><br>' +
       'you can play it…<br>' +
       'or you <span class="s2-bubble-highlight">fall down!</span><br>' +
       '<a class="s2-bubble-link" id="s2-bubble-fc-link">Check Your Force Card</a>',
@@ -3726,8 +3791,8 @@
       if (window.dropToTile7) window.dropToTile7();
       // Content change 1: arriving at tile 7
       setBubbleContent(
-        'If you have <span class="s2-bubble-highlight">2 cards</span> to play,<br>' +
-        'you can play &amp; <span class="s2-bubble-highlight">escape downfall</span>',
+        'If you have ' + iconTwo + '<span class="s2-bubble-highlight">any 2 cards</span><br>' +
+        'to play, you can play &amp;<br><span class="s2-bubble-highlight">escape downfall</span>',
         false
       );
       positionBubbleAtToken(bubble, true);
@@ -3742,7 +3807,8 @@
           if (window.dropToTile3) window.dropToTile3();
           // Content change 2: arriving at tile 3
           setBubbleContent(
-            'If you have a <span class="s2-bubble-highlight">Body Force Card</span>,<br>' +
+            'If you have a<br>' +
+            '<span class="s2-bubble-highlight">' + iconBody + ' Body Card</span>,<br>' +
             'you can play &amp; <span class="s2-bubble-highlight">escape downfall</span>',
             false
           );
@@ -3755,10 +3821,15 @@
 
             setTimeout(function() {
               if (window.dropToTile2) window.dropToTile2();
-              // Content change 3: arriving at tile 2 — same copy as tile 3
+              // Content change 3: arriving at tile 2 — extended copy:
+              // explains the consequence if the Body card isn't held.
               setBubbleContent(
-                'If you have a <span class="s2-bubble-highlight">Body Force Card</span>,<br>' +
-                'you can play &amp; <span class="s2-bubble-highlight">escape downfall</span>',
+                'If you have a<br>' +
+                '<span class="s2-bubble-highlight">' + iconBody + ' Body Card</span>,<br>' +
+                'play &amp; <span class="s2-bubble-highlight">escape</span>,<br>' +
+                'else <span class="s2-bubble-highlight">lose next 2 turns</span><br>' +
+                'to roll dice.<br>' +
+                '<em>Current turn ends now.</em>',
                 false
               );
               positionBubbleAtToken(bubble, true);
@@ -4147,15 +4218,22 @@
   };
 
   window.pcGoBack = function() {
-    if (pcState === 2) { window.pcJumpTo(1); }
-    else if (pcState === 1) { window.pcJumpTo(0); }
-    else { window.pcJumpTo(0); }
+    if (pcState === 2) { window.pcJumpTo(1); return; }
+    if (pcState === 1) { window.pcJumpTo(0); return; }
+    // pcState === 0 → start of Step 1 → wrap to Step 3 end
+    // (if unlocked) else Step 2 end.
+    var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
+    if (sciTab && !sciTab.classList.contains('locked')) { sciTab.click(); return; }
+    var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
+    if (bgTab) bgTab.click();
   };
 
   window.pcGoForward = function() {
-    if (pcState === 0) { window.pcJumpTo(1); }
-    else if (pcState === 1) { window.pcJumpTo(2); }
-    else if (pcState === 2) { window.pcJumpTo(0); } // wrap around
+    if (pcState === 0) { window.pcJumpTo(1); return; }
+    if (pcState === 1) { window.pcJumpTo(2); return; }
+    // pcState === 2 → end of Step 1 → advance to Step 2 start
+    var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
+    if (bgTab) bgTab.click();
   };
 
 })();
