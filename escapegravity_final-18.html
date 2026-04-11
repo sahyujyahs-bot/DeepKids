@@ -144,9 +144,14 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        right: 50%;
-        top: -1.4em;
-        transform: translateX(50%);
+        /* Sit at the very top-right of the title (no horizontal offset),
+           tucked into its top edge so it doesn't crash into the ages pill above. */
+        right: -2px;
+        top: -0.2em;
+        transform: translateX(0);
+        font-size: clamp(8px, 2.4vw, 11px);
+        padding: 3px 7px;
+        letter-spacing: 0.5px;
       }
     }
     .hero-tag {
@@ -4775,10 +4780,15 @@
   transition: transform 0.05s linear;
   user-select: none;
   -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
   filter: drop-shadow(0 18px 50px rgba(0,0,0,0.55))
           drop-shadow(0 0 80px rgba(156,188,20,0.18));
   transform-origin: center center;
 }
+.spiral-img:focus,
+.spiral-img:active { outline: none; }
 .spiral-hint {
   font-family: 'Pompiere', sans-serif;
   font-size: clamp(12px, 1.2vw, 15px);
@@ -6664,6 +6674,329 @@
   window.addEventListener('scroll', toggle, {passive: true});
   window.addEventListener('resize', toggle);
   toggle();
+})();
+</script>
+
+<!-- ═══════════════════════════════════ CUE FRAMEWORK ══ -->
+<style>
+  /* Floating cue bubble — appears on top of a section to invite interaction */
+  .eg-cue {
+    position: absolute;
+    z-index: 60;
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(12px, 1.4vw, 17px);
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #c0e638;
+    background: rgba(10,6,24,0.88);
+    border: 1.5px solid rgba(192,230,56,0.55);
+    border-radius: 999px;
+    padding: 8px 16px;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.5), 0 0 28px rgba(156,188,20,0.28);
+    text-shadow: 0 0 10px rgba(156,188,20,0.5);
+    white-space: nowrap;
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+  }
+  .eg-cue.visible {
+    opacity: 1;
+    transform: translateY(0);
+    animation: eg-cue-bob 2.4s ease-in-out 0.6s infinite;
+  }
+  .eg-cue.dismissed {
+    opacity: 0;
+    transform: translateY(-8px);
+    animation: none;
+  }
+  @keyframes eg-cue-bob {
+    0%, 100% { transform: translateY(0); }
+    50%      { transform: translateY(-6px); }
+  }
+  /* Anchored top-center inside its parent (parent must be position:relative) */
+  .eg-cue.eg-cue-top {
+    top: clamp(10px, 2vh, 22px);
+    left: 50%;
+    transform: translate(-50%, 8px);
+  }
+  .eg-cue.eg-cue-top.visible {
+    transform: translate(-50%, 0);
+  }
+  .eg-cue.eg-cue-top.visible {
+    animation: eg-cue-bob-center 2.4s ease-in-out 0.6s infinite;
+  }
+  @keyframes eg-cue-bob-center {
+    0%, 100% { transform: translate(-50%, 0); }
+    50%      { transform: translate(-50%, -6px); }
+  }
+  /* Anchored bottom-center */
+  .eg-cue.eg-cue-bottom {
+    bottom: clamp(14px, 3vh, 30px);
+    left: 50%;
+    transform: translate(-50%, -8px);
+  }
+  .eg-cue.eg-cue-bottom.visible {
+    transform: translate(-50%, 0);
+    animation: eg-cue-bob-center 2.4s ease-in-out 0.6s infinite;
+  }
+
+  /* Horizontal swipe cue — animated finger that moves left↔right */
+  .eg-swipe-cue {
+    position: absolute;
+    left: 50%;
+    bottom: clamp(8px, 2vh, 20px);
+    transform: translateX(-50%);
+    z-index: 55;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(11px, 1.2vw, 14px);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(192,230,56,0.85);
+    background: rgba(10,6,24,0.75);
+    border: 1px solid rgba(192,230,56,0.35);
+    border-radius: 999px;
+    padding: 6px 14px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+  }
+  .eg-swipe-cue.visible { opacity: 1; }
+  .eg-swipe-cue.dismissed { opacity: 0; }
+  .eg-swipe-cue::before {
+    content: '';
+    width: 14px;
+    height: 14px;
+    border: 2px solid #c0e638;
+    border-radius: 50%;
+    background: rgba(192,230,56,0.15);
+    animation: eg-swipe-finger 1.8s ease-in-out infinite;
+    flex-shrink: 0;
+  }
+  @keyframes eg-swipe-finger {
+    0%, 100% { transform: translateX(-12px); opacity: 0.55; }
+    50%      { transform: translateX(12px);  opacity: 1; }
+  }
+
+  /* Tab pulse — calls attention to inactive tabs in a tab group */
+  .eg-tab-pulse {
+    animation: eg-tab-pulse-anim 2.2s ease-in-out infinite;
+  }
+  @keyframes eg-tab-pulse-anim {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(156,188,20,0); }
+    50%      { box-shadow: 0 0 0 6px rgba(156,188,20,0.25); }
+  }
+
+  @media (max-width: 560px) {
+    .eg-cue { font-size: 11px; padding: 6px 12px; letter-spacing: 1px; }
+    .eg-swipe-cue { font-size: 10px; padding: 5px 10px; }
+  }
+</style>
+
+<script>
+(function(){
+  'use strict';
+  /* Cue helpers — show on first viewport intersection, fade after a
+     timeout or when the user interacts with the relevant element. */
+  var DEFAULT_TIMEOUT = 6000;
+
+  function show(el)    { if (el) { el.classList.add('visible'); el.classList.remove('dismissed'); } }
+  function dismiss(el) { if (el) { el.classList.remove('visible'); el.classList.add('dismissed'); } }
+
+  function watchInView(el, onEnter, threshold) {
+    if (!el || !('IntersectionObserver' in window)) { if (onEnter) onEnter(); return; }
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){
+        if (e.isIntersecting) {
+          io.unobserve(e.target);
+          if (onEnter) onEnter();
+        }
+      });
+    }, { threshold: threshold || 0.35 });
+    io.observe(el);
+  }
+
+  /* ── Hero / illustrations rain cue ─────────────────── */
+  (function(){
+    var s1 = document.getElementById('s1');
+    if (!s1) return;
+    var cue = document.createElement('div');
+    cue.className = 'eg-cue eg-cue-bottom';
+    cue.textContent = 'Drag, drop & play with the elements';
+    cue.style.bottom = 'clamp(50px, 10vh, 90px)';
+    s1.appendChild(cue);
+    var dismissed = false;
+    function go() {
+      if (dismissed) return;
+      show(cue);
+      setTimeout(function(){ dismiss(cue); }, 7000);
+    }
+    // Slight delay so it appears after the first card has settled
+    setTimeout(go, 1800);
+    // Hide once user interacts with the canvas
+    var cv = document.getElementById('cv');
+    function onInteract() {
+      dismissed = true;
+      dismiss(cue);
+      if (cv) {
+        cv.removeEventListener('pointerdown', onInteract);
+        cv.removeEventListener('touchstart', onInteract);
+      }
+    }
+    if (cv) {
+      cv.addEventListener('pointerdown', onInteract, { passive: true });
+      cv.addEventListener('touchstart', onInteract, { passive: true });
+    }
+  })();
+
+  /* ── How To Play cue ──────────────────────────────── */
+  (function(){
+    var s3 = document.getElementById('s3');
+    if (!s3) return;
+    var cue = document.createElement('div');
+    cue.className = 'eg-cue eg-cue-top';
+    cue.textContent = 'Try playing 1 round of Escape Gravity';
+    cue.style.top = '64px';
+    s3.appendChild(cue);
+    watchInView(s3, function(){
+      show(cue);
+      setTimeout(function(){ dismiss(cue); }, DEFAULT_TIMEOUT);
+    }, 0.4);
+    // Dismiss when user interacts with any tab or the nav buttons
+    var tabs = s3.querySelectorAll('.s2-tab');
+    var navBtns = s3.querySelectorAll('.s2-arrow');
+    function onAct(){ dismiss(cue); }
+    tabs.forEach(function(t){ t.addEventListener('click', onAct, { once: true }); });
+    navBtns.forEach(function(b){ b.addEventListener('click', onAct, { once: true }); });
+  })();
+
+  /* ── Tab hand-holding for sections that have tab groups ── */
+  (function(){
+    var groups = [
+      { selector: '#s3 .s2-tabs', label: 'Tap each step to walk through a turn' },
+      { selector: '#s4b-turns .s2-tabs', label: 'Switch examples to see different turns' },
+      { selector: '#s6b-gravity .s2-tabs', label: 'Tap a tile to see its gravity well' }
+    ];
+    groups.forEach(function(g){
+      var holder = document.querySelector(g.selector);
+      if (!holder) return;
+      var section = holder.closest('section');
+      if (!section) return;
+      // Make sure the section is the positioning context
+      var cs = window.getComputedStyle(section);
+      if (cs.position === 'static') section.style.position = 'relative';
+
+      var cue = document.createElement('div');
+      cue.className = 'eg-cue eg-cue-top';
+      cue.textContent = g.label;
+      cue.style.top = 'auto';
+      // Anchor the cue just under the tabs
+      function place(){
+        var hr = holder.getBoundingClientRect();
+        var sr = section.getBoundingClientRect();
+        var top = (hr.bottom - sr.top) + 8;
+        cue.style.top = top + 'px';
+      }
+      section.appendChild(cue);
+      // Pulse the inactive tabs in the group
+      var tabs = holder.querySelectorAll('.s2-tab');
+      tabs.forEach(function(t){ if (!t.classList.contains('active')) t.classList.add('eg-tab-pulse'); });
+      function clearPulse(){ tabs.forEach(function(t){ t.classList.remove('eg-tab-pulse'); }); }
+
+      watchInView(holder, function(){
+        place();
+        show(cue);
+        setTimeout(function(){ dismiss(cue); }, DEFAULT_TIMEOUT);
+      }, 0.5);
+
+      tabs.forEach(function(t){
+        t.addEventListener('click', function(){
+          dismiss(cue);
+          clearPulse();
+        }, { once: true });
+      });
+      window.addEventListener('resize', place);
+    });
+  })();
+
+  /* ── Horizontal scroll swipe cue ──────────────────── */
+  (function(){
+    // Find every scroll container we want to hint at
+    var selectors = [
+      '.spiral-row-mobile',
+      '.forces-cards',
+      '.s4b-flow',
+      '.s6b-flow',
+      '.exp-grid',
+      '.forces-icons'
+    ];
+    var els = [];
+    selectors.forEach(function(sel){
+      document.querySelectorAll(sel).forEach(function(el){ els.push(el); });
+    });
+    // Filter to only elements that actually scroll horizontally
+    function isScrollable(el){
+      return el.scrollWidth - el.clientWidth > 12;
+    }
+
+    els.forEach(function(scroller){
+      // Anchor the cue inside the nearest positioned ancestor (the section)
+      var section = scroller.closest('section') || scroller.parentElement;
+      if (!section) return;
+      var cs = window.getComputedStyle(section);
+      if (cs.position === 'static') section.style.position = 'relative';
+
+      var cue = document.createElement('div');
+      cue.className = 'eg-swipe-cue';
+      cue.textContent = 'Swipe';
+      section.appendChild(cue);
+
+      function place(){
+        var sr = scroller.getBoundingClientRect();
+        var pr = section.getBoundingClientRect();
+        cue.style.bottom = 'auto';
+        cue.style.top = (sr.bottom - pr.top - 36) + 'px';
+        cue.style.left = '50%';
+      }
+
+      var dismissed = false;
+      function dismissCue(){
+        if (dismissed) return;
+        dismissed = true;
+        dismiss(cue);
+      }
+      function showOnce(){
+        if (!isScrollable(scroller)) { dismissCue(); return; }
+        place();
+        show(cue);
+        // Auto-fade after a while
+        setTimeout(function(){ if (!dismissed) dismiss(cue); }, 5500);
+      }
+
+      // Wait for first time the scroller is in view
+      watchInView(scroller, showOnce, 0.5);
+
+      // Hide as soon as the user actually scrolls horizontally
+      scroller.addEventListener('scroll', function(){
+        if (scroller.scrollLeft > 4) dismissCue();
+      }, { passive: true });
+      scroller.addEventListener('touchstart', function(){
+        // Set a flag — we'll dismiss on touch end / scroll
+      }, { passive: true });
+      scroller.addEventListener('pointerdown', function(){
+        // Touch / mouse interaction starts — fade out shortly
+        setTimeout(dismissCue, 200);
+      }, { passive: true });
+
+      window.addEventListener('resize', function(){ if (cue.classList.contains('visible')) place(); });
+    });
+  })();
 })();
 </script>
 
