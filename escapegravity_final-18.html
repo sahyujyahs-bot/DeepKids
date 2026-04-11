@@ -2772,6 +2772,11 @@
     state = 1; busy = true;
     zoomStart = null;
     if (window.s2sfx) window.s2sfx.zoomIn();
+    // Show a walkthrough title explaining what's happening during the zoom.
+    if (label) {
+      label.innerHTML = '✦ &nbsp;Now, Roll Dice &amp; Move Your Token On The Board&nbsp; ✦';
+      label.style.opacity = '1';
+    }
 
     // Responsive scale: more zoom on wider screens, keeps tile 10 token visible
     endScale = getEndScale();
@@ -2895,7 +2900,10 @@
     dice.style.transition = '';
     result.classList.remove('show');
     hint.style.opacity = '1';
-    label.style.opacity = '1';
+    if (label) {
+      label.innerHTML = '✦ &nbsp;Roll The Dice&nbsp; ✦';
+      label.style.opacity = '1';
+    }
     showTokens();
     state = 2; busy = false;
     btnBack.disabled = false; btnFwd.disabled = false;
@@ -3109,22 +3117,54 @@
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
-  /* ── Position bubble to the right of the blue token ─────── */
-  /* Reads token's current CSS left/top (which is already set  */
-  /* to its TARGET position by the drop function), so bubble   */
-  /* transitions to the same destination in sync with token.   */
+  /* ── Position bubble above-right of the blue token ─────────
+     The bubble sits to the right of the token and ABOVE its top
+     edge so that as the token drops from tile 11 → 7 → 3 → 2 the
+     whole bubble stays inside the board-row container — it never
+     gets clipped at the bottom. The final position is clamped
+     against the container rect, and if the bubble would overflow
+     the right edge it flips to the LEFT side of the token.
+     Reads token's current CSS left/top which is already set to
+     its TARGET position by the drop function, so the bubble
+     transitions in sync with the token. */
   function positionBubbleAtToken(bubble, animate) {
     if (!bubble || !tokBlue) return;
     var tokL = parseFloat(tokBlue.style.left) || 0;
     var tokT = parseFloat(tokBlue.style.top) || 0;
     var tokW = tokBlue.offsetWidth || 80;
     var tokH = tokBlue.offsetHeight || 80;
-    var bblH = bubble.offsetHeight || 100;
+    var bblW = bubble.offsetWidth || 260;
+    var bblH = bubble.offsetHeight || 110;
+
+    // Container bounds (s2-board-row holds every absolutely-positioned
+    // element in the board animation).
+    var container = document.getElementById('s2-board-row') || document.getElementById('s3');
+    var cw = container ? container.clientWidth  : window.innerWidth;
+    var ch = container ? container.clientHeight : window.innerHeight;
+    var padding = 10;
+
+    // Preferred: right of the token, lifted ABOVE the token's top
+    // so the bubble is always higher than the token (so the bubble
+    // can't be hidden under the token as the token drops).
+    var gap = 14;
+    var preferredLeft = tokL + tokW + gap;
+    var preferredTop  = tokT - bblH - gap;
+
+    // If the right-side placement runs past the container, flip
+    // to the left of the token.
+    if (preferredLeft + bblW + padding > cw) {
+      preferredLeft = tokL - bblW - gap;
+    }
+
+    // Clamp inside container so no edge is ever clipped.
+    var finalLeft = Math.max(padding, Math.min(cw - bblW - padding, preferredLeft));
+    var finalTop  = Math.max(padding, Math.min(ch - bblH - padding, preferredTop));
+
     if (animate) {
       bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
     }
-    bubble.style.left = Math.max(5, tokL + tokW + 15) + 'px';
-    bubble.style.top  = Math.max(5, tokT + tokH / 2 - bblH / 2) + 'px';
+    bubble.style.left = finalLeft + 'px';
+    bubble.style.top  = finalTop  + 'px';
   }
   window.positionBubbleAtToken = positionBubbleAtToken;
 
@@ -3162,7 +3202,6 @@
     dice.classList.add('rolling');
     if (window.s2sfx) window.s2sfx.diceRoll();
     hint.style.opacity = '0';
-    label.style.opacity = '0';
     // Lock on face 1
     rollTimers.push(setTimeout(() => {
       if (state !== 3) return;
@@ -3175,6 +3214,10 @@
       if (state !== 3) return;
       diceWrap.classList.add('hide');
       result.classList.add('show');
+      if (label) {
+        label.innerHTML = '✦ &nbsp;Your Token Moves 1 Tile Over To Tile 11&nbsp; ✦';
+        label.style.opacity = '1';
+      }
       if (window.s2sfx) window.s2sfx.slide();
       const p11       = tilePos(TILE11_NX, TILE11_NY);
       const stepDown  = Math.max(18, cssH() * 0.042);
@@ -3410,8 +3453,20 @@
       if (window.s2sfx) window.s2sfx.zoomIn();
     }, 1400);
 
-    // Step 4: after viewing the zoomed card, transition to drop animation
+    // Step 3b: once the zoomed card has settled, show a brief
+    // walkthrough title explaining what the challenge is so users
+    // know why items are about to drop.
     setTimeout(function(){
+      if (prompt) {
+        prompt.textContent = 'Challenge: Find & drop the slowest falling item';
+        prompt.classList.add('show');
+      }
+    }, 2200);
+
+    // Step 4: after viewing the zoomed card, transition to drop animation.
+    // Extended from 3500ms to 5500ms so users have time to read the challenge.
+    setTimeout(function(){
+      if (prompt) prompt.classList.remove('show');
       // Fade out the card
       el.style.transition = 'opacity 0.5s ease';
       el.style.opacity = '0';
@@ -3421,7 +3476,7 @@
       });
       // Start the drop scene
       startDropAnimation();
-    }, 3500);
+    }, 5500);
   }
 
   function resetFan(){
@@ -3431,6 +3486,10 @@
     var dt = document.getElementById('s2-drop-title');
     if (dt) { dt.classList.remove('show'); dt.textContent = 'All Players Do The Challenge'; dt.style.cursor = ''; dt.style.pointerEvents = ''; dt.style.textDecoration = ''; dt.onclick = null; }
     var prompt = document.getElementById('s2-draw-prompt');
+    if (prompt) {
+      prompt.classList.remove('show');
+      prompt.textContent = 'Draw A Physical Challenge Card';
+    }
     document.querySelectorAll('.s2-fan-card').forEach(function(c, idx){
       c.classList.remove('selected','flipped','dimmed');
       var angle = -FAN_SPREAD/2 + (FAN_SPREAD/(NUM_CARDS-1)) * idx;
@@ -3616,6 +3675,16 @@
     }
   });
 
+  // Track user interaction with the drop-scene items so the
+  // auto-advance waits while the user is playing with them.
+  window.s2LastDropInteraction = 0;
+  window.s2DropInteracting = false;
+  function recordDropInteraction(active){
+    window.s2LastDropInteraction = performance.now();
+    if (active != null) window.s2DropInteracting = active;
+  }
+  window.recordDropInteraction = recordDropInteraction;
+
   function startDropAnimation() {
     var scene = document.getElementById('s2-drop-scene');
     var kidsHolding = document.getElementById('s2-kids-holding');
@@ -3625,10 +3694,17 @@
     var leaf = document.getElementById('s2-item-leaf');
     var paper = document.getElementById('s2-item-paper');
 
+    // Reset interaction tracking for this run
+    window.s2LastDropInteraction = 0;
+    window.s2DropInteracting = false;
+
     // Show scene with kids holding items
     scene.classList.add('active');
     var dropTitle = document.getElementById('s2-drop-title');
-    if (dropTitle) dropTitle.classList.add('show');
+    if (dropTitle) {
+      dropTitle.textContent = 'You can drag, drop & play with the items';
+      dropTitle.classList.add('show');
+    }
     kidsHolding.style.opacity = '1';
     kidsEmpty.style.opacity = '0';
 
@@ -3682,21 +3758,38 @@
       if (window.s2sfx) setTimeout(function(){ window.s2sfx.chime(); }, 200);
     }, 5500);
 
-    // After all items settled, auto-advance
-    setTimeout(function() {
+    // Auto-advance — but only after the user has idled for a few
+    // seconds. Keeps the drop scene open as long as they're playing
+    // with the items, and only moves on when they've stopped.
+    var MIN_DISPLAY_MS = 11000;     // never leave earlier than this
+    var IDLE_BEFORE_LEAVE_MS = 5500; // stay 5.5s after last interaction
+    var sceneStart = performance.now();
+    function maybeAdvance() {
+      if (!scene.classList.contains('active')) return;
+      var now = performance.now();
+      var elapsed = now - sceneStart;
+      if (elapsed < MIN_DISPLAY_MS) {
+        setTimeout(maybeAdvance, MIN_DISPLAY_MS - elapsed + 50);
+        return;
+      }
+      var sinceInteraction = now - (window.s2LastDropInteraction || 0);
+      if (window.s2DropInteracting || sinceInteraction < IDLE_BEFORE_LEAVE_MS) {
+        // User is still playing — check again shortly
+        setTimeout(maybeAdvance, 1200);
+        return;
+      }
       scene.classList.remove('active');
       items.forEach(function(item) { item.style.opacity = '0'; });
       resetFan();
       if (window.sessionHasReachedTile11) {
-        // Already did Step 2 — go straight to Step 3
         var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
         if (sciTab) sciTab.click();
       } else {
-        // Haven't done Step 2 yet — go to Step 2
         var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
         if (bgTab) bgTab.click();
       }
-    }, 8000);
+    }
+    setTimeout(maybeAdvance, MIN_DISPLAY_MS);
   }
 
   function animateDrop(el, opts) {
@@ -3772,17 +3865,20 @@
       el.style.left = pctX(cx) + '%';
       el.style.top = pctY(cy) + '%';
       el.style.transform = 'translate(-50%,-50%)';
+      if (window.recordDropInteraction) window.recordDropInteraction(true);
     }
     function onDragMove(cx, cy) {
       if (!dragging) return;
       el.style.left = pctX(cx) + '%';
       el.style.top = pctY(cy) + '%';
+      if (window.recordDropInteraction) window.recordDropInteraction(true);
     }
     function onDragEnd() {
       if (!dragging) return;
       dragging = false;
       curX = parseFloat(el.style.left);
       startDrop();
+      if (window.recordDropInteraction) window.recordDropInteraction(false);
     }
 
     /* Mouse events */
