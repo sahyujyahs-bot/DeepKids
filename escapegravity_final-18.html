@@ -28,37 +28,25 @@
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
     html { height: 100%; }
 
-    /* ── Custom horizontal scrollbar for mobile scroll rows ──── */
+    /* ── Hide scrollbars on mobile horizontal scroll rows ──── */
     .spiral-row-mobile::-webkit-scrollbar,
     .forces-icons::-webkit-scrollbar,
     .forces-cards::-webkit-scrollbar,
     .s6b-flow::-webkit-scrollbar,
-    .s4b-flow::-webkit-scrollbar {
-      height: 6px;
-    }
-    .spiral-row-mobile::-webkit-scrollbar-track,
-    .forces-icons::-webkit-scrollbar-track,
-    .forces-cards::-webkit-scrollbar-track,
-    .s6b-flow::-webkit-scrollbar-track,
-    .s4b-flow::-webkit-scrollbar-track {
-      background: rgba(8,4,24,0.3);
-      border-radius: 10px;
-    }
-    .spiral-row-mobile::-webkit-scrollbar-thumb,
-    .forces-icons::-webkit-scrollbar-thumb,
-    .forces-cards::-webkit-scrollbar-thumb,
-    .s6b-flow::-webkit-scrollbar-thumb,
-    .s4b-flow::-webkit-scrollbar-thumb {
-      background: rgba(26,42,90,0.5);
-      border-radius: 10px;
+    .s4b-flow::-webkit-scrollbar,
+    .exp-grid::-webkit-scrollbar {
+      display: none;
+      height: 0;
+      width: 0;
     }
     .spiral-row-mobile,
     .forces-icons,
     .forces-cards,
     .s6b-flow,
-    .s4b-flow {
-      scrollbar-width: thin;
-      scrollbar-color: rgba(26,42,90,0.5) rgba(8,4,24,0.3);
+    .s4b-flow,
+    .exp-grid {
+      scrollbar-width: none;
+      -ms-overflow-style: none;
     }
     body {
       height: 100%; overflow-y: auto; color: #fff;
@@ -120,13 +108,11 @@
     }
     #content > * { pointer-events: all; }
 
-    /* ── Hero tags (Ages / Players / Playtime) ────────────────── */
+    /* ── Hero tag (Ages · Players · Playtime — single pill) ──── */
     .hero-tags {
       display: flex;
       justify-content: center;
-      gap: clamp(6px, 1.2vw, 14px);
       margin-bottom: clamp(10px, 2vh, 18px);
-      flex-wrap: wrap;
     }
     .hero-tag {
       font-family: 'Pompiere', sans-serif;
@@ -136,14 +122,17 @@
       color: #c0e638;
       background: rgba(10,6,24,0.65);
       border: 1px solid rgba(156,188,20,0.4);
-      padding: 5px clamp(10px,1.5vw,18px);
+      padding: 6px clamp(14px,2vw,24px);
       border-radius: 20px;
       text-shadow: 0 0 10px rgba(192,230,56,0.5);
       box-shadow: 0 0 16px rgba(156,188,20,0.2), inset 0 0 8px rgba(156,188,20,0.1);
       animation: hero-tag-glow 3s ease-in-out infinite;
+      white-space: nowrap;
     }
-    .hero-tag:nth-child(2) { animation-delay: 0.5s; }
-    .hero-tag:nth-child(3) { animation-delay: 1s; }
+    .hero-tag-sep {
+      color: rgba(192,230,56,0.5);
+      margin: 0 clamp(6px,1vw,12px);
+    }
     @keyframes hero-tag-glow {
       0%, 100% { box-shadow: 0 0 16px rgba(156,188,20,0.2), inset 0 0 8px rgba(156,188,20,0.1); }
       50%      { box-shadow: 0 0 28px rgba(156,188,20,0.5), inset 0 0 14px rgba(156,188,20,0.2); }
@@ -467,9 +456,7 @@
 
   <div id="content">
       <div class="hero-tags">
-        <span class="hero-tag">Ages 7+</span>
-        <span class="hero-tag">2+ Players</span>
-        <span class="hero-tag">30 min Avg Playtime</span>
+        <span class="hero-tag">Ages 7+ <span class="hero-tag-sep">·</span> 2+ Players <span class="hero-tag-sep">·</span> 30 min Avg Playtime</span>
       </div>
       <h1 class="title">EscapeGravity</h1>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
@@ -1035,49 +1022,38 @@
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
   /* ── Pinterest masonry grid ───────────────────── */
-  /* ── What's Inside The Box — full-width grid layout ───────── */
+  /* ── What's Inside The Box — masonry columns ─────────────── */
   .s2-pin {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    gap: clamp(10px, 1.2vw, 20px);
-    padding: 0 clamp(8px, 2vw, 32px);
-    width: 100%;
+    columns: 4;
+    column-gap: 14px;
+    max-width: 1100px;
+    margin: 0 auto;
   }
   .s2-pin-item {
+    break-inside: avoid;
+    margin-bottom: 14px;
     border-radius: 12px;
-    overflow: visible;
+    overflow: hidden;
     background: none;
     border: none;
-    transition: transform 0.3s ease;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    transition: transform 0.3s;
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
   .s2-pin-item img, .s2-pin-item svg {
     width: 100%; display: block;
   }
-  /* Box — full width spanning all columns */
+  /* Small items: tokens, dice — shrink image inside its column */
+  .s2-pin-small img, .s2-pin-small svg {
+    width: 55%;
+    margin: 0 auto;
+  }
   .s2-pin-box {
-    grid-column: 1 / -1;
+    column-span: all;
   }
   .s2-pin-box img {
-    aspect-ratio: 16 / 6;
+    aspect-ratio: 16 / 7;
     object-fit: cover;
     object-position: center 45%;
-    border-radius: 12px;
-  }
-  /* Large items (board, cards) — 4 columns each (3 per row on desktop) */
-  .s2-pin-large {
-    grid-column: span 4;
-  }
-  /* Small items (tokens, dice) — 2 columns each */
-  .s2-pin-small {
-    grid-column: span 2;
-  }
-  .s2-pin-small img, .s2-pin-small svg {
-    max-width: 72%;
-    margin: 0 auto;
   }
   .s2-pin-item svg {
     box-sizing: border-box;
@@ -1085,25 +1061,21 @@
   .s2-pin-lbl {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
     font-size: clamp(11px, 1.2vw, 16px);
-    color: rgba(255,255,255,0.5);
+    color: rgba(255,255,255,0.45);
     letter-spacing: 1.5px;
-    padding: 8px 4px 0;
+    padding: 10px 8px;
     text-align: center;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  @media (max-width: 900px) {
-    .s2-pin { grid-template-columns: repeat(6, 1fr); }
-    .s2-pin-large { grid-column: span 3; }
-    .s2-pin-small { grid-column: span 2; }
-  }
-  @media (max-width: 560px) {
-    .s2-pin { grid-template-columns: repeat(4, 1fr); gap: 8px; }
-    .s2-pin-large { grid-column: span 2; }
-    .s2-pin-small { grid-column: span 2; }
-    .s2-pin-small img, .s2-pin-small svg { max-width: 55%; }
+  @media (max-width: 1100px) { .s2-pin { columns: 3; } }
+  @media (max-width: 900px)  { .s2-pin { columns: 2; } }
+  @media (max-width: 480px) {
+    .s2-pin { columns: 2; column-gap: 10px; }
+    .s2-pin-item { margin-bottom: 10px; }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
 </style>
@@ -4145,29 +4117,31 @@
   height: clamp(224px, 34vw, 392px);
   flex-shrink: 0;
   cursor: pointer;
+  margin: 0 auto;
 }
 .s6b-fan-card {
   position: absolute;
+  top: 0;
+  left: 50%;
   width: 100%;
   border-radius: clamp(10px, 1.5vw, 16px);
   box-shadow: 0 4px 24px rgba(0,0,0,0.5);
   transition: transform 0.4s cubic-bezier(.4,0,.2,1), z-index 0s;
-  transform-origin: bottom center;
+  transform-origin: 50% 100%;
 }
 .s6b-fan-card:nth-child(1) {
-  transform: rotate(-6deg);
+  transform: translateX(-50%) rotate(-6deg);
 }
 .s6b-fan-card:nth-child(2) {
-  transform: rotate(6deg);
+  transform: translateX(-50%) rotate(6deg);
 }
-/* When second card is on top */
 .s6b-fan.swapped .s6b-fan-card:nth-child(1) {
   z-index: 1 !important;
-  transform: rotate(6deg);
+  transform: translateX(-50%) rotate(6deg);
 }
 .s6b-fan.swapped .s6b-fan-card:nth-child(2) {
   z-index: 2 !important;
-  transform: rotate(-6deg);
+  transform: translateX(-50%) rotate(-6deg);
 }
 
 /* Mobile: stack vertically */
@@ -4296,6 +4270,8 @@
 /* Tile cards */
 .spiral-ex img {
   width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
   border-radius: clamp(8px, 1.2vw, 14px);
   box-shadow: 0 4px 16px rgba(0,0,0,0.4);
   display: block;
