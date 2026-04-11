@@ -102,7 +102,7 @@
       z-index: 10;
       display: flex; flex-direction: column;
       align-items: center; justify-content: center;
-      padding: 80px clamp(12px, 4vw, 40px) 0;  /* top padding for nav bar */
+      padding: clamp(60px, 9vh, 100px) clamp(12px, 4vw, 40px) 0;
       text-align: center;
       pointer-events: none;
     }
@@ -114,19 +114,40 @@
       justify-content: center;
       margin-bottom: clamp(8px, 1.4vh, 14px);
     }
-    .hero-from {
+    /* "from DeepKids" — small TM-style pill anchored to top-right of title */
+    .hero-tm {
+      position: absolute;
+      top: -0.4em;
+      right: -0.6em;
+      transform: translateX(100%);
       font-family: 'Pompiere', sans-serif;
-      font-size: clamp(13px, 1.5vw, 19px);
-      letter-spacing: clamp(2px, .4vw, 4px);
+      font-weight: normal;
+      font-variant: normal;
+      font-size: clamp(9px, 0.95vw, 13px);
+      letter-spacing: clamp(0.5px, .2vw, 2px);
       text-transform: uppercase;
-      color: rgba(255,255,255,0.78);
-      margin: clamp(-4px, -0.5vh, 0px) 0 clamp(8px, 1.4vh, 14px);
-      text-shadow: 0 0 10px rgba(156,188,20,0.35);
+      color: rgba(255,255,255,0.82);
+      line-height: 1;
+      padding: 4px 10px;
+      border: 1px solid rgba(192,230,56,0.45);
+      border-radius: 999px;
+      background: rgba(10,6,24,0.65);
+      text-shadow: 0 0 10px rgba(156,188,20,0.4);
+      box-shadow: 0 0 14px rgba(192,230,56,0.2);
+      white-space: nowrap;
+      pointer-events: none;
     }
-    .hero-from strong {
+    .hero-tm b {
       font-weight: normal;
       color: #c0e638;
-      text-shadow: 0 0 14px rgba(192,230,56,0.55);
+      text-shadow: 0 0 12px rgba(192,230,56,0.6);
+    }
+    @media (max-width: 600px) {
+      .hero-tm {
+        right: 50%;
+        top: -1.4em;
+        transform: translateX(50%);
+      }
     }
     .hero-tag {
       font-family: 'Pompiere', sans-serif;
@@ -154,6 +175,7 @@
 
     /* ── Title ─────────────────────────────────────────────────── */
     .title {
+      position: relative;
       font-family: 'Norwester', sans-serif;
       font-weight: normal; font-style: normal; font-variant: small-caps;
       font-size: clamp(48px, 9vw, 120px);
@@ -406,8 +428,13 @@
     background: rgba(10,6,24,0.6);
     backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
     display: flex; align-items: center; justify-content: space-between;
-    padding: 0 clamp(16px,4vw,48px);
-    height: 56px; box-sizing: border-box;
+    padding: 0 clamp(14px,4vw,48px);
+    /* Smaller on mobile, taller on laptops to give the Pre-Order pill room */
+    height: 48px;
+    box-sizing: border-box;
+  }
+  @media (min-width: 769px) {
+    .eg-nav { height: 68px; padding: 0 clamp(20px, 4vw, 56px); }
   }
   .eg-nav-logo {
     font-family: 'Norwester', sans-serif; font-size: clamp(18px,2.4vw,28px);
@@ -437,8 +464,7 @@
       <div class="hero-tags">
         <span class="hero-tag">Ages 7+ <span class="hero-tag-sep">·</span> 2+ Players <span class="hero-tag-sep">·</span> 30 min Avg Playtime</span>
       </div>
-      <h1 class="title">EscapeGravity</h1>
-      <p class="hero-from">From <strong>DeepKids</strong></p>
+      <h1 class="title">EscapeGravity<sup class="hero-tm">from <b>DeepKids</b></sup></h1>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
@@ -1254,16 +1280,15 @@
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
-  /* ── What's Inside The Box — clean uniform grid ─────────── */
+  /* ── What's Inside The Box — Pinterest collage ─────────── */
   .s2-pin {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: clamp(14px, 1.6vw, 22px);
+    grid-template-columns: repeat(6, 1fr);
+    gap: clamp(10px, 1.2vw, 18px);
     padding: 0 clamp(12px, 2.5vw, 32px);
-    max-width: 1100px;
-    margin: 0 auto;
     width: 100%;
     box-sizing: border-box;
+    align-items: start;
   }
   .s2-pin-item {
     background: none;
@@ -1272,68 +1297,63 @@
     margin: 0;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s;
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
-
-  /* Default tile: square image cell */
-  .s2-pin-img {
+  .s2-pin-item img,
+  .s2-pin-item svg {
     width: 100%;
-    aspect-ratio: 1 / 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: visible;
-    background: none;
-  }
-  .s2-pin-img img,
-  .s2-pin-img svg {
-    max-width: 100%;
-    max-height: 100%;
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
     display: block;
-    filter: drop-shadow(0 8px 24px rgba(0,0,0,0.55));
+    object-fit: contain;
   }
-
-  /* Box: spans 2x2 — image cell stays a 2-col-wide square so it
-     occupies exactly 2 row tracks of the same height as 1x1 items */
+  /* Box: pushed to LEFT, spans 3 cols x 2 rows (landscape) */
   .s2-pin-box {
-    grid-column: span 2;
-    grid-row: span 2;
+    grid-column: 1 / span 3;
+    grid-row: 1 / span 2;
+    justify-content: center;
   }
-  /* Challenge card front: spans 2x2, same trick */
-  .s2-pin-chall {
-    grid-column: span 2;
-    grid-row: span 2;
+  .s2-pin-box img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    object-position: center 50%;
+    border-radius: 10px;
   }
-  /* Both featured items keep an inner square cell so the row tracks
-     align with single-cell items above/below */
-  .s2-pin-box .s2-pin-img,
-  .s2-pin-chall .s2-pin-img {
-    aspect-ratio: 1 / 1;
+  /* Other large items — 1 col each */
+  .s2-pin-large { grid-column: span 1; }
+  /* Small items: tokens, dice — 1 col, image shrunk inside */
+  .s2-pin-small {
+    grid-column: span 1;
+    justify-content: flex-end;
   }
-
+  .s2-pin-small img,
+  .s2-pin-small svg {
+    width: 60%;
+    margin: auto;
+    max-height: 140px;
+  }
+  .s2-pin-item svg { box-sizing: border-box; }
   .s2-pin-lbl {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
     font-size: clamp(11px, 1.2vw, 16px);
-    color: rgba(255,255,255,0.55);
+    color: rgba(255,255,255,0.45);
     letter-spacing: 1.5px;
-    padding: 10px 4px 0;
+    padding: 8px 6px 0;
     text-align: center;
-    line-height: 1.25;
-    min-height: 36px;
+    min-height: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
-  @media (max-width: 700px) {
-    .s2-pin { grid-template-columns: repeat(2, 1fr); gap: 14px; }
-    .s2-pin-box, .s2-pin-chall { grid-column: span 2; grid-row: auto; }
-    .s2-pin-box .s2-pin-img, .s2-pin-chall .s2-pin-img {
-      aspect-ratio: 16 / 10;
-    }
+  @media (max-width: 900px) {
+    .s2-pin { grid-template-columns: repeat(4, 1fr); }
+    .s2-pin-box { grid-column: 1 / span 4; grid-row: auto; }
+  }
+  @media (max-width: 560px) {
+    .s2-pin { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .s2-pin-box { grid-column: 1 / span 2; }
+    .s2-pin-large, .s2-pin-small { grid-column: span 1; }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
 </style>
@@ -1350,60 +1370,53 @@
   <p class="page-subh eg-fade-in s2-d2">What's Inside The Box</p>
 
   <div class="s2-pin">
-    <!-- Row 1-2: Box (2x2) | Spiral Board -->
     <div class="s2-pin-item s2-pin-box">
-      <div class="s2-pin-img"><img src="Egocentric with lid coming off.png" alt="The Box"></div>
+      <img src="Egocentric with lid coming off.png" alt="The Box">
       <div class="s2-pin-lbl">Box</div>
     </div>
 
-    <div class="s2-pin-item">
-      <div class="s2-pin-img"><img src="Copy of Core.png" alt="Board"></div>
+    <div class="s2-pin-item s2-pin-large">
+      <img src="Copy of Core.png" alt="Board">
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
-    <!-- Row 2: Force Front -->
-    <div class="s2-pin-item">
-      <div class="s2-pin-img"><img src="IMG_5098.jpeg" alt="Force Card Front"></div>
+    <div class="s2-pin-item s2-pin-large">
+      <img src="IMG_5098.jpeg" alt="Force Card Front">
       <div class="s2-pin-lbl">Force Cards &mdash; 13 Forces</div>
     </div>
 
-    <!-- Row 3-4: Challenge (2x2) | Force Back -->
-    <div class="s2-pin-item s2-pin-chall">
-      <div class="s2-pin-img"><img src="Lightest_Items_Wins.png" alt="Challenge Card"></div>
-      <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
-    </div>
-
-    <div class="s2-pin-item">
-      <div class="s2-pin-img"><img src="IMG_5099.jpeg" alt="Force Card Back"></div>
+    <div class="s2-pin-item s2-pin-large">
+      <img src="IMG_5099.jpeg" alt="Force Card Back">
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
 
-    <!-- Row 4: Challenge Back -->
-    <div class="s2-pin-item">
-      <div class="s2-pin-img"><img src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back"></div>
+    <div class="s2-pin-item s2-pin-large">
+      <img src="Lightest_Items_Wins.png" alt="Challenge Card">
+      <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
+    </div>
+
+    <div class="s2-pin-item s2-pin-large">
+      <img src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back">
       <div class="s2-pin-lbl">Challenge Card Back</div>
     </div>
 
-    <!-- Row 5: Astronaut | Rocket | Dice -->
-    <div class="s2-pin-item">
-      <div class="s2-pin-img"><img src="Blue astronaut front.png" alt="Astronaut Token"></div>
+    <div class="s2-pin-item s2-pin-small">
+      <img src="Blue astronaut front.png" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
-    <div class="s2-pin-item">
-      <div class="s2-pin-img"><img src="Untitled_Artwork 7.png" alt="Rocket Token"></div>
+    <div class="s2-pin-item s2-pin-small">
+      <img src="Untitled_Artwork 7.png" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
-    <div class="s2-pin-item">
-      <div class="s2-pin-img">
-        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
-          <circle cx="20" cy="20" r="4" fill="#9cbc14"/><circle cx="44" cy="20" r="4" fill="#9cbc14"/>
-          <circle cx="32" cy="32" r="4" fill="#9cbc14"/>
-          <circle cx="20" cy="44" r="4" fill="#9cbc14"/><circle cx="44" cy="44" r="4" fill="#9cbc14"/>
-        </svg>
-      </div>
+    <div class="s2-pin-item s2-pin-small">
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="4" y="4" width="56" height="56" rx="12" fill="#1a2508" stroke="#9cbc14" stroke-width="2"/>
+        <circle cx="20" cy="20" r="4" fill="#9cbc14"/><circle cx="44" cy="20" r="4" fill="#9cbc14"/>
+        <circle cx="32" cy="32" r="4" fill="#9cbc14"/>
+        <circle cx="20" cy="44" r="4" fill="#9cbc14"/><circle cx="44" cy="44" r="4" fill="#9cbc14"/>
+      </svg>
       <div class="s2-pin-lbl">Dice</div>
     </div>
 
@@ -2386,6 +2399,124 @@
   const btnBack = document.getElementById('s2-back');
   const btnFwd  = document.getElementById('s2-fwd');
   const s2El    = document.getElementById('s3');
+
+  /* ── How To Play sound effects (Web Audio, no files) ──────
+     Exposed as window.s2sfx so the physical-challenge code can
+     reuse the same audio context and helpers. */
+  if (!window.s2sfx) (function(){
+    var ctx = null, master = null, enabled = true;
+    function init(){
+      if (ctx) return ctx;
+      try {
+        ctx = new (window.AudioContext || window.webkitAudioContext)();
+        master = ctx.createGain();
+        master.gain.value = 0.35;
+        master.connect(ctx.destination);
+      } catch(e){ enabled = false; }
+      return ctx;
+    }
+    // Resume on first user gesture (browser autoplay policy)
+    function resume(){ if (ctx && ctx.state === 'suspended') ctx.resume(); }
+    document.addEventListener('click', function(){ init(); resume(); }, { passive: true, once: false });
+    document.addEventListener('touchstart', function(){ init(); resume(); }, { passive: true, once: false });
+
+    function tone(opts){
+      if (!enabled) return;
+      var c = init(); if (!c) return;
+      var o = c.createOscillator();
+      var g = c.createGain();
+      o.type = opts.type || 'sine';
+      var t0 = c.currentTime;
+      o.frequency.setValueAtTime(opts.f0 || 440, t0);
+      if (opts.f1 != null) o.frequency.exponentialRampToValueAtTime(Math.max(40, opts.f1), t0 + (opts.dur || 0.2));
+      g.gain.setValueAtTime(0.0001, t0);
+      g.gain.exponentialRampToValueAtTime(opts.vol || 0.18, t0 + 0.01);
+      g.gain.exponentialRampToValueAtTime(0.0001, t0 + (opts.dur || 0.2));
+      o.connect(g); g.connect(master);
+      o.start(t0); o.stop(t0 + (opts.dur || 0.2) + 0.02);
+    }
+    function noise(opts){
+      if (!enabled) return;
+      var c = init(); if (!c) return;
+      var dur = opts.dur || 0.2;
+      var buf = c.createBuffer(1, Math.floor(c.sampleRate * dur), c.sampleRate);
+      var data = buf.getChannelData(0);
+      for (var i=0;i<data.length;i++){
+        var env = 1 - i / data.length;
+        data[i] = (Math.random()*2 - 1) * env;
+      }
+      var src = c.createBufferSource();
+      src.buffer = buf;
+      var bp = c.createBiquadFilter();
+      bp.type = opts.filterType || 'bandpass';
+      bp.frequency.value = opts.freq || 1000;
+      bp.Q.value = opts.q || 1;
+      var g = c.createGain();
+      g.gain.value = opts.vol || 0.18;
+      src.connect(bp); bp.connect(g); g.connect(master);
+      src.start();
+    }
+
+    window.s2sfx = {
+      // Card flip / select — short paper-flick whoosh + soft click
+      cardFlip: function(){
+        noise({ dur: 0.18, freq: 2200, q: 0.6, vol: 0.12 });
+        setTimeout(function(){ tone({ type: 'sine', f0: 720, f1: 540, dur: 0.08, vol: 0.10 }); }, 120);
+      },
+      // Card pop / zoom up — soft bloop
+      cardPop: function(){
+        tone({ type: 'sine', f0: 380, f1: 760, dur: 0.18, vol: 0.14 });
+      },
+      // Whoosh — items begin to fall
+      whoosh: function(){
+        noise({ dur: 0.45, freq: 800, q: 0.7, vol: 0.18 });
+      },
+      // Soft thud — landing item
+      thud: function(){
+        tone({ type: 'sine', f0: 110, f1: 55, dur: 0.18, vol: 0.20 });
+        noise({ dur: 0.10, freq: 180, q: 1.5, vol: 0.10 });
+      },
+      // Force-card earned chime (3-note arpeggio)
+      chime: function(){
+        tone({ type: 'triangle', f0: 660, dur: 0.18, vol: 0.16 });
+        setTimeout(function(){ tone({ type: 'triangle', f0: 880, dur: 0.18, vol: 0.16 }); }, 120);
+        setTimeout(function(){ tone({ type: 'triangle', f0: 1175, dur: 0.32, vol: 0.18 }); }, 240);
+      },
+      // Dice rattle — 4 quick noise bursts
+      diceRoll: function(){
+        for (var i=0;i<5;i++){
+          (function(d){ setTimeout(function(){
+            noise({ dur: 0.07, freq: 1800 + Math.random()*1400, q: 1.2, vol: 0.14 });
+          }, d); })(i*120);
+        }
+      },
+      // Dice settles — single thud
+      diceSettle: function(){
+        tone({ type: 'sine', f0: 220, f1: 110, dur: 0.18, vol: 0.18 });
+      },
+      // Token sliding — gentle ramp tone
+      slide: function(){
+        tone({ type: 'sine', f0: 340, f1: 540, dur: 0.5, vol: 0.10 });
+      },
+      // Zoom in — rising sweep
+      zoomIn: function(){
+        tone({ type: 'sine', f0: 220, f1: 660, dur: 0.45, vol: 0.10 });
+      },
+      // Zoom out — falling sweep
+      zoomOut: function(){
+        tone({ type: 'sine', f0: 660, f1: 220, dur: 0.4, vol: 0.10 });
+      },
+      // Soft tab/button click
+      click: function(){
+        tone({ type: 'square', f0: 880, dur: 0.04, vol: 0.06 });
+      },
+      // Achievement / unlock
+      unlock: function(){
+        tone({ type: 'triangle', f0: 523, dur: 0.10, vol: 0.14 });
+        setTimeout(function(){ tone({ type: 'triangle', f0: 784, dur: 0.18, vol: 0.16 }); }, 90);
+      }
+    };
+  })();
   /* ── State ───────────────────────────────────────────────── */
   let state   = 0;    // 0=wide, 1=zooming, 2=ready, 3=rolling, 4=done, 5=tile11-zoom, 6=resetting
   let busy    = false;
@@ -2518,6 +2649,7 @@
 
   /* ── Zoom canvas into tile 11 — show upper-right quadrant ──────────── */
   function zoomIntoTile11() {
+    if (window.s2sfx) window.s2sfx.zoomIn();
     const startScale   = currentScale;
     const startFocusNX = curFocusNX;
     const startFocusNY = curFocusNY;
@@ -2587,6 +2719,7 @@
   function startZoom() {
     state = 1; busy = true;
     zoomStart = null;
+    if (window.s2sfx) window.s2sfx.zoomIn();
 
     // Responsive scale: more zoom on wider screens, keeps tile 10 token visible
     endScale = getEndScale();
@@ -2639,6 +2772,7 @@
   /* ── Reset zoom ─────────────────────────────────────────── */
   let resetRaf = null;
   function resetZoom() {
+    if (window.s2sfx) window.s2sfx.zoomOut();
     hideTokens();
     cancelAnimationFrame(zoomRaf); zoomRaf = null;
     cancelAnimationFrame(resetRaf); resetRaf = null;
@@ -2735,6 +2869,7 @@
   window.s2ActiveTab = 'physical';
 
   window.s2GoBack = function() {
+    if (window.s2sfx) window.s2sfx.click();
     if (window.s2ActiveTab === 'science') { if (window.sciGoBack) window.sciGoBack(); return; }
     if (window.s2ActiveTab === 'physical') { window.pcGoBack(); return; }
     if (state === 1 || state === 6) {
@@ -2755,6 +2890,7 @@
   };
 
   window.s2GoForward = function() {
+    if (window.s2sfx) window.s2sfx.click();
     if (window.s2ActiveTab === 'science') { if (window.sciGoForward) window.sciGoForward(); return; }
     if (window.s2ActiveTab === 'physical') { window.pcGoForward(); return; }
     if (state === 0 || state === 1) {
@@ -2972,6 +3108,7 @@
     void dice.offsetWidth;
     dice.style.transition = '';
     dice.classList.add('rolling');
+    if (window.s2sfx) window.s2sfx.diceRoll();
     hint.style.opacity = '0';
     label.style.opacity = '0';
     // Lock on face 1
@@ -2979,12 +3116,14 @@
       if (state !== 3) return;
       dice.classList.remove('rolling');
       dice.style.transform = 'rotateX(720deg) rotateY(720deg)';
+      if (window.s2sfx) window.s2sfx.diceSettle();
     }, 1600));
     // Show result + slide tokBlue to tile 11
     rollTimers.push(setTimeout(() => {
       if (state !== 3) return;
       diceWrap.classList.add('hide');
       result.classList.add('show');
+      if (window.s2sfx) window.s2sfx.slide();
       const p11       = tilePos(TILE11_NX, TILE11_NY);
       const stepDown  = Math.max(18, cssH() * 0.042);
       const stepRight = Math.max(18, cssW() * 0.032);
@@ -3005,7 +3144,10 @@
         state = 4; busy = false;
         window.sessionHasReachedTile11 = true;
         var step3Tab = document.querySelector('.s2-tab[data-panel="science"]');
-        if (step3Tab) step3Tab.classList.remove('locked');
+        if (step3Tab && step3Tab.classList.contains('locked')) {
+          step3Tab.classList.remove('locked');
+          if (window.s2sfx) window.s2sfx.unlock();
+        }
         btnBack.disabled = false; btnFwd.disabled = false;
 
         if (window.forceEarned) {
@@ -3088,6 +3230,7 @@
   tabs.forEach(function(tab){
     tab.addEventListener('click', function(){
       if (tab.classList.contains('locked')) return;
+      if (window.s2sfx) window.s2sfx.click();
       var target = tab.dataset.panel;
       tabs.forEach(function(t){ t.classList.remove('active'); });
       panels.forEach(function(p){ p.classList.remove('active'); });
@@ -3187,6 +3330,7 @@
   function pickCard(el){
     if (selected) return;
     selected = el;
+    if (window.s2sfx) window.s2sfx.cardPop();
 
     var prompt = document.getElementById('s2-draw-prompt');
     if (prompt) prompt.classList.remove('show');
@@ -3202,12 +3346,16 @@
     el.style.zIndex = '20';
     el.style.filter = 'drop-shadow(0 20px 40px rgba(0,0,0,0.8))';
     // Step 2: flip after settling
-    setTimeout(function(){ el.classList.add('flipped'); }, 600);
+    setTimeout(function(){
+      el.classList.add('flipped');
+      if (window.s2sfx) window.s2sfx.cardFlip();
+    }, 600);
     // Step 3: zoom up after flip completes
     setTimeout(function(){
       var zoomScale = (window.innerWidth <= 768) ? 1.3 : 2.2;
       el.style.transition = 'transform 0.6s cubic-bezier(.34,1.56,.64,1)';
       el.style.transform = 'translate(-50%,-50%) rotate(0deg) scale('+zoomScale+')';
+      if (window.s2sfx) window.s2sfx.zoomIn();
     }, 1400);
 
     // Step 4: after viewing the zoomed card, transition to drop animation
@@ -3452,6 +3600,7 @@
     setTimeout(function() {
       kidsHolding.style.opacity = '0';
       kidsEmpty.style.opacity = '1';
+      if (window.s2sfx) window.s2sfx.whoosh();
 
       items.forEach(function(item) { item.style.opacity = '1'; });
 
@@ -3476,7 +3625,9 @@
 
     // After items settle, show the force card link with animation
     setTimeout(function() {
+      if (window.s2sfx) window.s2sfx.thud();
       markForceEarned();
+      if (window.s2sfx) setTimeout(function(){ window.s2sfx.chime(); }, 200);
     }, 5500);
 
     // After all items settled, auto-advance
@@ -4898,9 +5049,9 @@
 /* Panels — fill remaining space */
 .forces-panel {
   display: none;
-  flex: 1;
+  flex: 1 1 0%;
   min-width: 0;
-  overflow: hidden;
+  width: 100%;
 }
 .forces-panel.active { display: block; }
 
@@ -4913,9 +5064,13 @@
   gap: clamp(12px, 2vw, 20px);
   padding: 10px clamp(8px, 2vw, 20px);
   overflow-x: auto;
+  overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
   scroll-snap-type: x mandatory;
   scroll-padding-inline: clamp(12px, 3vw, 24px);
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 .forces-card-slot {
   flex-shrink: 0;
@@ -4952,7 +5107,12 @@
 }
 
 @media (max-width: 680px) {
-  .forces-layout { flex-direction: column; align-items: center; }
+  .forces-layout {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    padding: 0;
+  }
   .forces-icons {
     display: flex;
     flex-direction: row;
@@ -4960,20 +5120,31 @@
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     width: 100%;
+    max-width: 100%;
     justify-content: flex-start;
     padding: 0 12px;
+    box-sizing: border-box;
+  }
+  .forces-panel {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
   }
   .forces-cards {
     justify-content: flex-start;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scroll-snap-type: x mandatory;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 10px 16px;
   }
   .forces-card-slot {
     flex-shrink: 0;
     scroll-snap-align: center;
   }
-  .forces-card-slot img { width: clamp(180px, 50vw, 260px); }
+  .forces-card-slot img { width: clamp(180px, 60vw, 260px); }
 }
 </style>
 
@@ -6418,24 +6589,40 @@
     position: fixed;
     left: 0; right: 0; bottom: 0;
     z-index: 998;
-    padding: 10px clamp(14px, 4vw, 22px) calc(10px + env(safe-area-inset-bottom, 0px));
+    padding: 10px 12px calc(12px + env(safe-area-inset-bottom, 0px));
     background: linear-gradient(180deg, rgba(10,6,24,0) 0%, rgba(10,6,24,0.85) 45%, rgba(10,6,24,0.95) 100%);
     pointer-events: none;
     opacity: 0;
     transform: translateY(20px);
     transition: opacity .3s ease, transform .3s ease;
-    text-align: center;
   }
   .eg-mobile-preorder.visible {
     opacity: 1;
     transform: translateY(0);
     pointer-events: auto;
   }
-  .eg-mobile-preorder .btn-wrap { margin-left: 0; }
-  .eg-mobile-preorder .btn-svg { width: clamp(220px, 70vw, 320px); }
+  /* Make the DK button stretch to the full screen width on mobile.
+     The .btn-wrap inside is set to display: block + width: 100%, and the
+     SVG inside it preserves aspect-ratio so it sizes to fill the row. */
+  .eg-mobile-preorder .dk-btn-host {
+    display: block !important;
+    width: 100%;
+    margin: 0 !important;
+    animation: none;
+  }
+  .eg-mobile-preorder .btn-svg {
+    width: 100% !important;
+    max-width: none !important;
+    height: auto;
+  }
+  .eg-mobile-preorder .btn-label {
+    /* Larger label for the wider button */
+    font-size: clamp(16px, 5vw, 22px);
+    letter-spacing: clamp(2px, 0.6vw, 5px);
+  }
   @media (max-width: 768px) {
     .eg-mobile-preorder { display: block; }
-    body { padding-bottom: 96px; }
+    body { padding-bottom: 92px; }
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
