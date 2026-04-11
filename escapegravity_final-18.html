@@ -1711,16 +1711,16 @@
     background: linear-gradient(135deg, #a0c816, #7aa010);
     color: #fff;
     font-family: 'Pompiere', sans-serif;
-    font-size: clamp(15px, 2.2vw, 24px);
+    font-size: clamp(13px, 1.9vw, 20px);
     font-weight: 700;
-    line-height: 1.5;
+    line-height: 1.45;
     text-align: center;
-    padding: clamp(14px, 2vw, 24px) clamp(18px, 3vw, 36px);
-    border-radius: 18px;
+    padding: clamp(10px, 1.5vw, 18px) clamp(14px, 2.2vw, 26px);
+    border-radius: 16px;
     border: 3px solid #6b2155;
     box-shadow: 0 8px 30px rgba(0,0,0,0.5);
     position: relative;
-    max-width: clamp(250px, 42vw, 420px);
+    max-width: clamp(200px, 30vw, 320px);
     text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
   }
   /* Comic tail pointing diagonally down-left toward token */
@@ -3183,16 +3183,12 @@
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
-  /* ── Position bubble above-right of the blue token ─────────
-     The bubble sits to the right of the token and ABOVE its top
-     edge so that as the token drops from tile 11 → 7 → 3 → 2 the
-     whole bubble stays inside the board-row container — it never
-     gets clipped at the bottom. The final position is clamped
-     against the container rect, and if the bubble would overflow
-     the right edge it flips to the LEFT side of the token.
-     Reads token's current CSS left/top which is already set to
-     its TARGET position by the drop function, so the bubble
-     transitions in sync with the token. */
+  /* ── Position bubble attached to the token ─────────────────
+     The bubble sticks next to the token in the same horizontal
+     band, never overlapping. Tries right-of-token first, then
+     left-of-token, and if neither has room, places the bubble
+     above or below the token. The final position is clamped to
+     the s2-board-row container so nothing is clipped. */
   function positionBubbleAtToken(bubble, animate) {
     if (!bubble || !tokBlue) return;
     var tokL = parseFloat(tokBlue.style.left) || 0;
@@ -3202,30 +3198,56 @@
     var bblW = bubble.offsetWidth || 260;
     var bblH = bubble.offsetHeight || 110;
 
-    // Container bounds (s2-board-row holds every absolutely-positioned
-    // element in the board animation).
+    // Container bounds — use the board-row so the bubble tracks
+    // the same coordinate space as the token.
     var container = document.getElementById('s2-board-row') || document.getElementById('s3');
     var cw = container ? container.clientWidth  : window.innerWidth;
     var ch = container ? container.clientHeight : window.innerHeight;
-    var padding = 10;
-
-    // Preferred: right of the token with the bubble's TOP edge
-    // aligned with the token's top (so most of the bubble sits
-    // level with the token — user wants it "starting right where
-    // the token top starts" rather than far above).
+    var padding = 8;
     var gap = 14;
-    var preferredLeft = tokL + tokW + gap;
-    var preferredTop  = tokT;
 
-    // If the right-side placement runs past the container, flip
-    // to the left of the token.
-    if (preferredLeft + bblW + padding > cw) {
-      preferredLeft = tokL - bblW - gap;
+    // Room on each side of the token
+    var roomRight  = cw - (tokL + tokW) - gap - padding;
+    var roomLeft   = tokL - gap - padding;
+    var roomAbove  = tokT - gap - padding;
+    var roomBelow  = ch - (tokT + tokH) - gap - padding;
+
+    var finalLeft, finalTop;
+
+    // Prefer the side of the token that has room. The bubble sits
+    // in the same horizontal band as the token (vertical centre
+    // aligned with the token's vertical centre), which is the
+    // "same horizontal area" the user asked for.
+    var sameRowTop = tokT + tokH / 2 - bblH / 2;
+
+    if (roomRight >= bblW) {
+      finalLeft = tokL + tokW + gap;
+      finalTop  = sameRowTop;
+    } else if (roomLeft >= bblW) {
+      finalLeft = tokL - bblW - gap;
+      finalTop  = sameRowTop;
+    } else if (roomBelow >= bblH) {
+      // Drop it just below the token, horizontally aligned
+      finalLeft = tokL + tokW / 2 - bblW / 2;
+      finalTop  = tokT + tokH + gap;
+    } else if (roomAbove >= bblH) {
+      // Lift it just above the token, horizontally aligned
+      finalLeft = tokL + tokW / 2 - bblW / 2;
+      finalTop  = tokT - bblH - gap;
+    } else {
+      // Tight — keep it beside the token on whichever side has
+      // more room, we'll clamp after.
+      if (roomRight >= roomLeft) {
+        finalLeft = tokL + tokW + gap;
+      } else {
+        finalLeft = tokL - bblW - gap;
+      }
+      finalTop = sameRowTop;
     }
 
-    // Clamp inside container so no edge is ever clipped.
-    var finalLeft = Math.max(padding, Math.min(cw - bblW - padding, preferredLeft));
-    var finalTop  = Math.max(padding, Math.min(ch - bblH - padding, preferredTop));
+    // Clamp inside the container so nothing is clipped
+    finalLeft = Math.max(padding, Math.min(cw - bblW - padding, finalLeft));
+    finalTop  = Math.max(padding, Math.min(ch - bblH - padding, finalTop));
 
     if (animate) {
       bubble.style.transition = 'left 1.5s cubic-bezier(.4,0,.2,1), top 1.5s cubic-bezier(.4,0,.2,1)';
