@@ -6612,69 +6612,79 @@
     transform: translateY(0);
     pointer-events: auto;
   }
-  /* Mobile sticky button: full screen width, short height. The DK
-     button SVG is stretched horizontally (preserveAspectRatio="none"
-     set in JS), with thinner outline strokes so the elongated shape
-     doesn't look heavy. The label sits centred on the D portion. */
-  .eg-mobile-preorder .dk-btn-host {
-    display: block !important;
+  /* Mobile sticky button: full-width row with a stretched DK SVG.
+     The SVG markup bakes in preserveAspectRatio="none" and a trimmed
+     viewBox of 0 0 339 108 so the content sits in the exact centre
+     of the row with matching 5-unit padding on each side. */
+  .eg-mobile-preorder-btn {
+    display: block;
     width: 100%;
-    margin: 0 !important;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    position: relative;
+    cursor: pointer;
     animation: none;
     line-height: 0;
+    -webkit-appearance: none;
+    appearance: none;
   }
-  .eg-mobile-preorder .btn-svg {
+  .eg-mobile-preorder-btn .btn-svg {
     width: 100% !important;
     max-width: none !important;
-    height: 56px !important;
+    height: 54px !important;
     display: block;
   }
-  /* Thin, even strokes regardless of how much the SVG is stretched.
-     vector-effect keeps the rendered stroke width consistent across
-     the horizontal stretch, then we override the actual widths. */
-  .eg-mobile-preorder .btn-svg path,
-  .eg-mobile-preorder .btn-svg line {
-    vector-effect: non-scaling-stroke;
-  }
-  .eg-mobile-preorder .btn-svg path[stroke="#6b2155"] { stroke-width: 4 !important; }
-  .eg-mobile-preorder .btn-svg line[stroke="#6b2155"] { stroke-width: 6 !important; }
-  .eg-mobile-preorder .btn-svg line[stroke="#9cbc14"] { stroke-width: 4 !important; }
-  /* Centre label on the D portion of the DK button. After we trim
-     the viewBox to 339, the D centre lands at 122.5 / 339 ≈ 36.1%
-     of the rendered width. */
-  .eg-mobile-preorder .btn-label {
+  /* Thin, even strokes regardless of the horizontal stretch. The
+     stroke widths are small user-units so with
+     vector-effect:non-scaling-stroke they render at a constant pixel
+     weight — no thick lines from the stretch. */
+  .eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"] { stroke-width: 4 !important; }
+  .eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"]  { stroke-width: 6 !important; }
+  .eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 4 !important; }
+  /* Centre label on the D portion. D runs from x=5 to ~240 in the
+     339-wide viewBox, so its centre sits at 122.5/339 ≈ 36.1% of
+     the rendered width. */
+  .eg-mobile-preorder-btn .btn-label {
     font-size: 16px;
     letter-spacing: 2px;
     left: 36% !important;
   }
   @media (max-width: 768px) {
     .eg-mobile-preorder { display: block; }
-    body { padding-bottom: 76px; }
+    body { padding-bottom: 74px; }
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
-  <button type="button" class="dk-btn-host" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
+  <button type="button" class="btn-wrap eg-mobile-preorder-btn" onclick="doPreOrder()">
+    <svg class="btn-svg" viewBox="0 0 339 108" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#c0e638"/>
+          <stop offset="45%" stop-color="#9cbc14"/>
+          <stop offset="100%" stop-color="#6b8f08"/>
+        </linearGradient>
+        <linearGradient id="dk-mobile-hi" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+          <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+        </linearGradient>
+      </defs>
+      <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9" vector-effect="non-scaling-stroke"/>
+      <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-mobile-grad)"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-mobile-hi)"/>
+    </svg>
+    <span class="btn-label">Pre-Order</span>
+  </button>
 </div>
 <script>
 (function(){
-  // Make sure any [data-dk-btn] elements (including the one above) are
-  // hydrated before this section's logic runs.
-  if (typeof window.hydrateAllDkBtns === 'function') window.hydrateAllDkBtns();
-
   var el = document.getElementById('eg-mobile-preorder');
   if (!el) return;
-
-  // Stretch the DK button horizontally to fill the full row, AND trim
-  // the viewBox so the D+K content is visually centred (the default
-  // 360-unit viewBox has ~7% empty space on the right and only ~1%
-  // on the left, which pulls the rendered button toward the left).
-  // 339 is the minimum width that keeps a matching 5-unit padding
-  // on both sides of the D (x=5→) and K (x=324 + 10 round-cap).
-  var svg = el.querySelector('.btn-svg');
-  if (svg) {
-    svg.setAttribute('preserveAspectRatio', 'none');
-    svg.setAttribute('viewBox', '0 0 339 108');
-  }
 
   function toggle(){
     // Show after user scrolls past the 1st viewport (i.e. from the 2nd viewport onward)
