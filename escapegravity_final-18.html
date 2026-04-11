@@ -250,6 +250,23 @@
       50%      { box-shadow: 0 6px 30px rgba(160,200,22,.45), 0 0 50px rgba(156,188,20,.15); }
     }
 
+    /* ── DK button host: any element with data-dk-btn becomes one ── */
+    .dk-btn-host {
+      display: inline-block;
+      cursor: pointer;
+      background: none;
+      border: 0;
+      padding: 0;
+      margin: 0 !important;
+      font: inherit;
+      color: inherit;
+      -webkit-appearance: none;
+      appearance: none;
+    }
+    .dk-btn-host[data-dk-size="sm"]  .btn-svg { width: clamp(140px, 14vw, 200px); }
+    .dk-btn-host[data-dk-size="md"]  .btn-svg { width: clamp(180px, 22vw, 280px); }
+    .dk-btn-host[data-dk-size="lg"]  .btn-svg { width: clamp(220px, 32vw, 360px); }
+
     /* ── DK-shape button (used for pre-order, launch, etc.) ───── */
     .btn-wrap {
       position: relative;
@@ -387,30 +404,9 @@
     white-space: nowrap;
   }
   .eg-nav-cta {
-    display: inline-flex; align-items: center; gap: 8px;
-    font-family: 'Norwester', sans-serif; font-variant: small-caps;
-    font-size: clamp(13px, 1.2vw, 16px);
-    letter-spacing: 2px;
-    text-decoration: none;
-    color: #0a0618;
-    background: linear-gradient(180deg, #c0e638 0%, #9cbc14 55%, #6b8f08 100%);
-    border: 2px solid #6b2155;
-    border-radius: 10px;
-    padding: 8px clamp(14px, 1.8vw, 22px);
-    text-transform: uppercase;
-    cursor: pointer;
-    box-shadow: 0 3px 14px rgba(156,188,20,0.35), inset 0 1px 0 rgba(255,255,255,0.3);
-    transition: transform .25s ease, filter .25s ease, box-shadow .25s ease;
-    white-space: nowrap;
-    font-weight: normal;
+    margin-left: 0; /* override .btn-wrap default left shift inside the nav */
   }
-  .eg-nav-cta:focus-visible { outline: 2px solid #c0e638; outline-offset: 3px; }
-  .eg-nav-cta:hover {
-    transform: translateY(-1px) scale(1.04);
-    filter: brightness(1.1);
-    box-shadow: 0 6px 22px rgba(156,188,20,0.55), inset 0 1px 0 rgba(255,255,255,0.4);
-  }
-  .eg-nav-cta:active { transform: scale(.97); }
+  .eg-nav-cta .btn-svg { width: clamp(120px, 14vw, 170px); }
   @media (max-width: 768px) {
     .eg-nav-cta { display: none; }
   }
@@ -420,7 +416,7 @@
 
 <nav class="eg-nav">
   <a href="#s1" class="eg-nav-logo">EscapeGravity</a>
-  <button type="button" class="eg-nav-cta" onclick="doPreOrder()">Pre-Order</button>
+  <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
 </nav>
 
 <section id="s1">
@@ -1257,13 +1253,13 @@
     margin: 0 auto;
     width: 100%;
     box-sizing: border-box;
+    align-items: start;
   }
   .s2-pin-item {
-    background: rgba(255,255,255,0.025);
-    border: 1px solid rgba(156,188,20,0.12);
-    border-radius: 14px;
-    padding: clamp(10px, 1.2vw, 16px);
-    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+    background: none;
+    border: none;
+    padding: 0;
+    transition: transform 0.3s ease;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1271,8 +1267,6 @@
   }
   .s2-pin-item:hover {
     transform: translateY(-4px);
-    border-color: rgba(156,188,20,0.35);
-    box-shadow: 0 10px 28px rgba(0,0,0,0.4), 0 0 30px rgba(156,188,20,0.1);
   }
   /* Image frame: every item shares the same square aspect, image fits inside */
   .s2-pin-img {
@@ -1281,8 +1275,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
-    border-radius: 10px;
+    overflow: visible;
+    border-radius: 0;
+    background: none;
   }
   .s2-pin-img img,
   .s2-pin-img svg {
@@ -1290,6 +1285,7 @@
     height: 100%;
     object-fit: contain;
     display: block;
+    filter: drop-shadow(0 8px 24px rgba(0,0,0,0.55));
   }
   /* Box (top-left): spans 2 columns × 2 rows, uses landscape aspect */
   .s2-pin-box {
@@ -1300,8 +1296,16 @@
     aspect-ratio: 16 / 11;
   }
   .s2-pin-box .s2-pin-img img {
-    object-fit: cover;
+    object-fit: contain;
     object-position: center 50%;
+  }
+  /* Challenge card front — larger, spans 2 cols */
+  .s2-pin-chall {
+    grid-column: span 2;
+    grid-row: span 2;
+  }
+  .s2-pin-chall .s2-pin-img {
+    aspect-ratio: 4 / 3;
   }
   .s2-pin-lbl {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
@@ -1317,10 +1321,12 @@
     .s2-pin { grid-template-columns: repeat(3, 1fr); }
     .s2-pin-box { grid-column: 1 / -1; grid-row: auto; }
     .s2-pin-box .s2-pin-img { aspect-ratio: 16 / 9; }
+    .s2-pin-chall { grid-column: span 2; grid-row: auto; }
   }
   @media (max-width: 560px) {
     .s2-pin { grid-template-columns: repeat(2, 1fr); gap: 12px; }
     .s2-pin-box { grid-column: 1 / -1; }
+    .s2-pin-chall { grid-column: 1 / -1; }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
 </style>
@@ -1357,7 +1363,7 @@
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
 
-    <div class="s2-pin-item">
+    <div class="s2-pin-item s2-pin-chall">
       <div class="s2-pin-img"><img src="Lightest_Items_Wins.png" alt="Challenge Card"></div>
       <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
     </div>
@@ -2289,11 +2295,11 @@
 }
 .layer-swatch {
   width: 100%;
-  height: 10px;
-  background: var(--lc);
+  height: 14px;
+  background: var(--lg, var(--lc));
   border-radius: 4px;
   margin-bottom: 10px;
-  box-shadow: 0 0 12px var(--lc);
+  box-shadow: 0 0 14px var(--lc), inset 0 1px 0 rgba(255,255,255,0.18);
 }
 .layer-name {
   font-family: 'Norwester', sans-serif;
@@ -4465,14 +4471,31 @@
 
 <!-- ═══════════════════════════════════════════════ S-SPIRAL: SPIRALS ══ -->
 <section id="s-spiral" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">The Spiral Board</h2>
-  <p class="spiral-subtitle eg-fade-in">9 rings &mdash; one for each layer of Earth and its atmosphere &mdash; 54 tiles arranged as a spiral, because gravity meeting motion and energy loss makes spirals everywhere in the universe.</p>
+  <h2 class="page-h2 eg-fade-in">Spirals In The Universe</h2>
+  <p class="spiral-subtitle eg-fade-in">The board is a spiral &mdash; because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
 
+  <!-- Desktop: tiles flanking spiral -->
   <div class="spiral-stage eg-fade-in">
+    <div class="spiral-side">
+      <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    </div>
     <div class="spiral-wrap">
       <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
+    <div class="spiral-side">
+      <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+      <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+    </div>
+  </div>
+
+  <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
+  <div class="spiral-row-mobile eg-fade-in">
+    <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+    <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
   </div>
 </section>
 
@@ -4482,57 +4505,57 @@
   <p class="page-desc eg-fade-in">9 concentric rings on the spiral board map to 9 real layers &mdash; from Earth&rsquo;s core to outer space.</p>
 
   <div class="layers-grid eg-fade-in">
-    <div class="layer-card" style="--lc:#d6352d;">
+    <div class="layer-card" style="--lc:#d6352d;--lg:linear-gradient(90deg,#ffb060,#ff7236,#d6352d,#8a1a14);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Core</div>
       <div class="layer-tiles">Tile 0</div>
     </div>
-    <div class="layer-card" style="--lc:#7f4a22;">
+    <div class="layer-card" style="--lc:#7f4a22;--lg:linear-gradient(90deg,#3e1f0a,#5a3018,#7f4a22,#a06a35,#c89860);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Mantle</div>
       <div class="layer-tiles">Tiles 1 &ndash; 4</div>
     </div>
-    <div class="layer-card" style="--lc:#cbb560;">
+    <div class="layer-card" style="--lc:#cbb560;--lg:linear-gradient(90deg,#9c8235,#b59c48,#cbb560,#e5d290,#f4e4ae);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Crust</div>
       <div class="layer-tiles">Tiles 5 &ndash; 9</div>
     </div>
-    <div class="layer-card" style="--lc:#4fa771;">
+    <div class="layer-card" style="--lc:#4fa771;--lg:linear-gradient(90deg,#1f5532,#2d6a3f,#4fa771,#6dc090,#9fdcb6);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Surface</div>
       <div class="layer-tiles">Tiles 10 &ndash; 17</div>
     </div>
-    <div class="layer-card" style="--lc:#8ea4c4;">
+    <div class="layer-card" style="--lc:#8ea4c4;--lg:linear-gradient(90deg,#3f5872,#5b7890,#8ea4c4,#b3c4e0,#d2deef);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Troposphere</div>
       <div class="layer-tiles">Tiles 18 &ndash; 23</div>
     </div>
-    <div class="layer-card" style="--lc:#7b80b5;">
+    <div class="layer-card" style="--lc:#7b80b5;--lg:linear-gradient(90deg,#383c70,#494e8a,#696ea0,#8e93c5,#b3b8df);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Stratosphere</div>
       <div class="layer-tiles">Tiles 24 &ndash; 30</div>
     </div>
-    <div class="layer-card" style="--lc:#a87ba8;">
+    <div class="layer-card" style="--lc:#a87ba8;--lg:linear-gradient(90deg,#603e60,#7a5878,#946890,#a87ba8,#c294be);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Mesosphere</div>
       <div class="layer-tiles">Tiles 31 &ndash; 39</div>
     </div>
-    <div class="layer-card" style="--lc:#c96a7a;">
+    <div class="layer-card" style="--lc:#c96a7a;--lg:linear-gradient(90deg,#7a2b3a,#9e3d4f,#c96a7a,#db8595,#ecaab8);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Thermosphere</div>
       <div class="layer-tiles">Tiles 40 &ndash; 44, 46, 47</div>
     </div>
-    <div class="layer-card layer-iss" style="--lc:#f0c846;">
+    <div class="layer-card layer-iss" style="--lc:#f0c846;--lg:linear-gradient(90deg,#a8801c,#d4a82e,#f0c846,#fadc78,#fff0b0);">
       <div class="layer-swatch"></div>
       <div class="layer-name">ISS</div>
       <div class="layer-tiles">Tile 45 &mdash; Mission Stop</div>
     </div>
-    <div class="layer-card" style="--lc:#8f3d6b;">
+    <div class="layer-card" style="--lc:#8f3d6b;--lg:linear-gradient(90deg,#3a0f24,#5a1f3e,#722d54,#8f3d6b,#aa5283);">
       <div class="layer-swatch"></div>
       <div class="layer-name">Exosphere</div>
       <div class="layer-tiles">Tiles 48 &ndash; 54</div>
     </div>
-    <div class="layer-card layer-iss" style="--lc:#f0c846;grid-column:span 2;">
+    <div class="layer-card layer-iss" style="--lc:#f0c846;--lg:linear-gradient(90deg,#806010,#a8801c,#d4a82e,#f0c846,#fadc78);grid-column:span 2;">
       <div class="layer-swatch"></div>
       <div class="layer-name">Lagrange Points L1 &ndash; L4</div>
       <div class="layer-tiles">L4 &mdash; Extended Mission Stop</div>
@@ -4553,20 +4576,29 @@
   padding: 0 clamp(16px,4vw,40px);
 }
 
+/* Desktop: tiles | spiral | tiles */
 .spiral-stage {
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 1200px;
+  gap: clamp(16px, 2.5vw, 32px);
+  max-width: 1300px;
   margin: 0 auto;
   padding: 0 clamp(12px,3vw,30px);
 }
+.spiral-side {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(12px, 2vw, 20px);
+  flex-shrink: 0;
+  width: clamp(200px, 26vw, 320px);
+}
 .spiral-wrap {
   text-align: center;
-  width: 100%;
+  flex-shrink: 0;
 }
 .spiral-img {
-  width: clamp(280px, 56vw, 620px);
+  width: clamp(280px, 44vw, 560px);
   height: auto;
   display: inline-block;
   cursor: pointer;
@@ -4586,8 +4618,39 @@
   margin-top: clamp(10px, 1.4vh, 16px);
 }
 
-@media (max-width: 680px) {
-  .spiral-img { width: 92vw; max-width: 520px; }
+/* Side example tiles */
+.spiral-ex img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: clamp(8px, 1.2vw, 14px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.45);
+  display: block;
+}
+
+/* Hide mobile scroll row on desktop */
+.spiral-row-mobile { display: none; }
+
+@media (max-width: 900px) {
+  /* Hide desktop side columns; show only spiral, then mobile scroll row */
+  .spiral-side { display: none; }
+  .spiral-stage { display: block; text-align: center; }
+  .spiral-img { width: clamp(280px, 70vw, 560px); }
+  .spiral-row-mobile {
+    display: flex;
+    gap: clamp(10px, 3vw, 16px);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    padding: clamp(18px, 3vh, 26px) clamp(12px, 4vw, 24px) 0;
+  }
+  .spiral-row-mobile .spiral-ex {
+    flex: 0 0 65%;
+    scroll-snap-align: center;
+  }
+}
+@media (max-width: 560px) {
+  .spiral-img { width: 92vw; }
 }
 </style>
 
@@ -5584,7 +5647,7 @@
   <div class="quiz-wrap eg-fade-in">
     <div class="quiz-progress"><div class="quiz-progress-bar" id="quiz-bar"></div></div>
     <div class="quiz-stage" id="quiz-stage">
-      <button class="quiz-start-btn" id="quiz-start">Start Quiz &#10140;</button>
+      <button type="button" class="dk-btn-host quiz-start-btn" id="quiz-start" data-dk-size="md" data-dk-btn="Start Quiz"></button>
     </div>
     <div class="quiz-meta">
       <span id="quiz-counter"></span>
@@ -5691,37 +5754,11 @@
   100% { background-position: 300% 0%; }
 }
 .quiz-start-btn {
-  font-family: 'Norwester', sans-serif;
-  font-variant: small-caps;
-  font-size: clamp(20px,2.8vw,32px);
-  background: linear-gradient(180deg, #d4f045 0%, #a0c816 50%, #7aa010 100%);
-  color: #fff;
-  border: 3px solid #6b2155;
-  border-radius: 16px;
-  padding: clamp(16px,2.4vh,24px) clamp(36px,4.8vw,60px);
-  cursor: pointer;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
-  box-shadow: 0 8px 28px rgba(156,188,20,0.45), inset 0 2px 0 rgba(255,255,255,0.3);
-  transition: all 0.3s ease;
   align-self: center;
-  letter-spacing: 3px;
-  animation: quiz-pulse 2.2s ease-in-out infinite;
+  margin-left: 0;
   position: relative;
   z-index: 2;
 }
-.quiz-start-btn::before {
-  content: '✦';
-  margin-right: 12px;
-  color: #fff;
-  text-shadow: 0 0 12px rgba(255,255,255,0.7);
-}
-.quiz-start-btn::after {
-  content: '✦';
-  margin-left: 12px;
-  color: #fff;
-  text-shadow: 0 0 12px rgba(255,255,255,0.7);
-}
-.quiz-start-btn:hover { transform: scale(1.08) rotate(-1deg); filter: brightness(1.15); }
 @keyframes quiz-pulse {
   0%, 100% {
     box-shadow: 0 8px 28px rgba(156,188,20,0.45), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 0 rgba(156,188,20,0.5);
@@ -5856,16 +5893,8 @@
   margin-bottom: clamp(18px,2.5vh,28px);
 }
 .quiz-restart {
-  font-family: 'Norwester', sans-serif;
-  font-variant: small-caps;
-  font-size: clamp(14px,1.6vw,18px);
-  background: rgba(156,188,20,0.15);
-  border: 1.5px solid #9cbc14;
-  color: #c0e638;
-  border-radius: 10px;
-  padding: 12px 28px;
-  cursor: pointer;
-  letter-spacing: 2px;
+  margin-left: 0;
+  margin-top: clamp(12px,1.8vh,18px);
 }
 .quiz-meta {
   display: flex;
@@ -6011,9 +6040,11 @@
       '<div class="quiz-result">' +
       '<h3>' + score + ' / ' + QUESTIONS.length + '</h3>' +
       '<p>' + msg + '</p>' +
-      '<button class="quiz-restart" id="quiz-restart">Try Again</button>' +
+      '<button type="button" class="quiz-restart dk-btn-host" id="quiz-restart" data-dk-size="md" data-dk-btn="Try Again"></button>' +
       '</div>';
-    document.getElementById('quiz-restart').addEventListener('click', function() {
+    var restartBtn = document.getElementById('quiz-restart');
+    if (typeof window.hydrateDkBtn === 'function') window.hydrateDkBtn(restartBtn);
+    restartBtn.addEventListener('click', function() {
       idx = 0; score = 0; showQuestion();
     });
   }
@@ -6140,6 +6171,44 @@
 (function(){
   'use strict';
 
+  /* ── Hydrate every [data-dk-btn] element into a DK SVG button ── */
+  var DK_GRAD_SEQ = 0;
+  function dkButtonMarkup(label) {
+    var gid = 'dk-grad-' + (++DK_GRAD_SEQ);
+    var hid = 'dk-hi-'  + DK_GRAD_SEQ;
+    return ''
+      + '<svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">'
+      +   '<defs>'
+      +     '<linearGradient id="' + gid + '" x1="0" y1="0" x2="0" y2="1">'
+      +       '<stop offset="0%" stop-color="#c0e638"/>'
+      +       '<stop offset="45%" stop-color="#9cbc14"/>'
+      +       '<stop offset="100%" stop-color="#6b8f08"/>'
+      +     '</linearGradient>'
+      +     '<linearGradient id="' + hid + '" x1="0" y1="0" x2="0" y2="1">'
+      +       '<stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>'
+      +       '<stop offset="100%" stop-color="rgba(255,255,255,0)"/>'
+      +     '</linearGradient>'
+      +   '</defs>'
+      +   '<line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>'
+      +   '<path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>'
+      +   '<path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#' + gid + ')"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
+      +   '<path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#' + hid + ')"/>'
+      + '</svg>'
+      + '<span class="btn-label">' + label + '</span>';
+  }
+  function hydrateDkBtn(host){
+    if (!host || host.dataset.dkHydrated === '1') return;
+    var label = host.getAttribute('data-dk-btn') || '';
+    host.classList.add('btn-wrap', 'dk-btn-host');
+    host.innerHTML = dkButtonMarkup(label);
+    host.dataset.dkHydrated = '1';
+  }
+  window.hydrateDkBtn = hydrateDkBtn;
+  document.querySelectorAll('[data-dk-btn]').forEach(hydrateDkBtn);
+
   /* ── IntersectionObserver for fade-in animations ─────────── */
   const fadeEls = document.querySelectorAll('.eg-fade-in');
   if('IntersectionObserver' in window){
@@ -6173,13 +6242,16 @@
 (function(){
   'use strict';
 
-  var SIZE = 64;
+  // 128 is the largest cursor size most browsers will accept (Chrome/Safari).
+  var SIZE = 128;
   var HALF = SIZE / 2;
 
   /* ── Offscreen canvas for drawing the spiral ───────────── */
   var offCv = document.createElement('canvas');
   offCv.width = SIZE; offCv.height = SIZE;
   var offCtx = offCv.getContext('2d');
+  offCtx.imageSmoothingEnabled = true;
+  if ('imageSmoothingQuality' in offCtx) offCtx.imageSmoothingQuality = 'high';
 
   /* ── Spiral source image (the EscapeGravity board, no text) ─ */
   var spiralImg = new Image();
@@ -6193,15 +6265,40 @@
 
   /* ── Draw the spiral image at a given rotation angle ──── */
   function drawSpiralAt(angle) {
-    offCtx.clearRect(0, 0, SIZE, SIZE);
-    if (!spiralLoaded) return;
     offCtx.save();
+    offCtx.clearRect(0, 0, SIZE, SIZE);
+    if (!spiralLoaded) { offCtx.restore(); return; }
+
+    // Round clip mask so the cursor reads as a clean disc
+    offCtx.beginPath();
+    offCtx.arc(HALF, HALF, HALF - 2, 0, Math.PI * 2);
+    offCtx.closePath();
+    offCtx.clip();
+
     offCtx.translate(HALF, HALF);
     offCtx.rotate(angle);
-    // Render the spiral image centered, filling the cursor canvas
+
+    // Render the spiral image centered. Crop the source's transparent
+    // padding by drawing the inner ~92% of the source and stretching it
+    // to the full cursor canvas — gives much sharper visible content.
     try {
-      offCtx.drawImage(spiralImg, -HALF, -HALF, SIZE, SIZE);
+      var sw = spiralImg.naturalWidth  || spiralImg.width;
+      var sh = spiralImg.naturalHeight || spiralImg.height;
+      var crop = 0.04; // crop 4% off each edge
+      var sx = sw * crop, sy = sh * crop;
+      var sW = sw * (1 - crop * 2), sH = sh * (1 - crop * 2);
+      offCtx.drawImage(spiralImg, sx, sy, sW, sH, -HALF, -HALF, SIZE, SIZE);
     } catch (e) {}
+
+    offCtx.restore();
+
+    // Crisp outer ring for visibility on any background
+    offCtx.save();
+    offCtx.beginPath();
+    offCtx.arc(HALF, HALF, HALF - 2, 0, Math.PI * 2);
+    offCtx.lineWidth = 2;
+    offCtx.strokeStyle = 'rgba(255,255,255,0.9)';
+    offCtx.stroke();
     offCtx.restore();
   }
 
@@ -6316,37 +6413,22 @@
     opacity: 0;
     transform: translateY(20px);
     transition: opacity .3s ease, transform .3s ease;
+    text-align: center;
   }
   .eg-mobile-preorder.visible {
     opacity: 1;
     transform: translateY(0);
     pointer-events: auto;
   }
-  .eg-mobile-preorder button {
-    width: 100%;
-    display: flex; align-items: center; justify-content: center;
-    gap: 8px;
-    font-family: 'Norwester', sans-serif;
-    font-variant: small-caps;
-    font-size: 17px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: #0a0618;
-    background: linear-gradient(180deg, #c0e638 0%, #9cbc14 55%, #6b8f08 100%);
-    border: 2px solid #6b2155;
-    border-radius: 14px;
-    padding: 14px 18px;
-    cursor: pointer;
-    box-shadow: 0 6px 24px rgba(156,188,20,0.45), inset 0 1px 0 rgba(255,255,255,0.35);
-  }
-  .eg-mobile-preorder button:active { transform: scale(.97); }
+  .eg-mobile-preorder .btn-wrap { margin-left: 0; }
+  .eg-mobile-preorder .btn-svg { width: clamp(220px, 70vw, 320px); }
   @media (max-width: 768px) {
     .eg-mobile-preorder { display: block; }
-    body { padding-bottom: 76px; }
+    body { padding-bottom: 96px; }
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
-  <button type="button" onclick="doPreOrder()">Pre-Order Now</button>
+  <button type="button" class="dk-btn-host" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
 </div>
 <script>
 (function(){
