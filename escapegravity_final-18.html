@@ -1757,6 +1757,13 @@
     margin: 0 3px;
     filter: drop-shadow(0 1px 2px rgba(0,0,0,0.5));
   }
+  /* Slightly taller variant for the "any 2 cards" icon — that PNG
+     is a circle with two card shapes inside, so it reads better at
+     a larger size inline with the bubble text. */
+  .s2-bubble-icon.s2-bubble-icon-lg {
+    width: 1.7em;
+    height: 1.7em;
+  }
   .s2-bubble-earth { /* legacy class kept for back-compat */
     display: inline-block;
     width: 1.4em; height: 1.4em;
@@ -3772,7 +3779,7 @@
     // Icon HTML snippets (referencing real assets in the repo)
     var iconEarth  = '<img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth">';
     var iconBody   = '<img class="s2-bubble-icon" src="IMG_4705.png" alt="Body">';
-    var iconTwo    = '<img class="s2-bubble-icon" src="any-2-cards.png" alt="Any 2 Cards" onerror="this.style.display=\'none\'">';
+    var iconTwo    = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.png" alt="Any 2 Cards">';
 
     // Starting state (token on tile 11) — keep the Earth Force Card
     // message with the "Check Your Force Card" call-to-action link.
