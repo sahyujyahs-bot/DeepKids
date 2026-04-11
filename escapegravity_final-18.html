@@ -1081,15 +1081,15 @@
 </style>
 
 <section id="s2">
-  <h2 class="s2-title eg-fade-in">The Game</h2>
-  <p class="s2-subtitle eg-fade-in">Mission: Reach The International Space Station</p>
+  <h2 class="page-h2 eg-fade-in">The Game</h2>
+  <p class="page-subh eg-fade-in">Mission: Reach The International Space Station</p>
   <p class="s2-desc eg-fade-in s2-d1">
     Start on <em>Earth's Surface</em> and race toward the <em>ISS</em>.<br>
     <span class="s2-desc-big">The board is <em>Gravity's agent</em> — pulling you down into the core to consume you.</span>
     Fight back using <em>Force Cards</em>, earned by completing <em>Physical Challenges</em>.
   </p>
 
-  <p class="s2-subtitle eg-fade-in s2-d2" style="margin-bottom:clamp(16px,2.5vh,32px);">What's Inside The Box</p>
+  <p class="page-subh eg-fade-in s2-d2">What's Inside The Box</p>
 
   <div class="s2-pin">
     <div class="s2-pin-item s2-pin-box">
@@ -1165,23 +1165,8 @@
     background: transparent;
     position: relative; z-index: 10;
   }
-  #s2-title-row h2 {
-    font-family: 'Norwester', sans-serif;
-    font-weight: normal; font-style: normal; font-variant: small-caps;
-    font-size: clamp(22px,4.2vw,62px); line-height: .9; color: #fff;
-    text-shadow: 0 0 26px rgba(160,210,20,.45), 3px 3px 0 rgba(0,0,0,.9);
-    white-space: nowrap; animation: s2-float 6s ease-in-out infinite;
-    background: rgba(18,8,38,.65);
-    padding: 8px clamp(14px,2vw,24px);
-    border-radius: 8px;
-    -webkit-box-decoration-break: clone; box-decoration-break: clone;
-  }
-  @keyframes s2-float { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-6px); } }
-  .s2-sub {
-    font-family: 'Pompiere', sans-serif; font-weight:400; font-style:normal;
-    font-size: clamp(10px,1.2vw,16px); letter-spacing: clamp(2px,.5vw,6px);
-    color: #9cbc14; text-transform: uppercase; white-space: nowrap; opacity: .88;
-  }
+  /* #s2-title-row h2 now uses .page-h2 unified style */
+  .s2-sub { /* now uses .page-subh — kept as empty class for HTML compat */ }
 
   /* ── Row 2: Board canvas ───────────────────────────────── */
   #s2-board-row {
@@ -1531,8 +1516,8 @@
 <section id="s3">
   <!-- Row 1: Title -->
   <div id="s2-title-row">
-    <h2>How To Play The Game</h2>
-    <span class="s2-sub">An animated interactive experience</span>
+    <h2 class="page-h2">How To Play</h2>
+    <p class="page-subh">An Example Interactive Experience</p>
     <div class="s2-tabs">
       <button class="s2-tab active" data-panel="physical">Step 1: Earning Force Card</button>
       <span class="s2-tab-arrow">&#x279C;</span>
@@ -2025,7 +2010,7 @@
 <!-- ═══════════════════════════════════════════════ S4: SCIENCE ══ -->
 <section id="s4-science" style="position:relative;overflow:hidden;margin-top:clamp(30px,5vh,60px);">
   <div style="display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);position:relative;z-index:10;">
-    <h2 style="font-family:'Norwester',sans-serif;font-variant:small-caps;font-size:clamp(22px,4.2vw,62px);line-height:.9;color:#fff;text-shadow:0 0 26px rgba(160,210,20,.45),3px 3px 0 rgba(0,0,0,.9);background:rgba(18,8,38,.65);padding:8px clamp(14px,2vw,24px);border-radius:8px;">Each Tile Carries Science</h2>
+    <h2 class="page-h2">Each Tile Carries Science</h2>
   </div>
   <div id="sci-collage">
     <picture>
@@ -3495,16 +3480,6 @@
     overflow: hidden;
     width: 100%;
   }
-  .eg-section > h2.eg-section-title {
-    margin-bottom: clamp(14px, 2vh, 22px) !important;
-    padding-left: clamp(16px,4vw,48px);
-    padding-right: clamp(16px,4vw,48px);
-  }
-  .eg-section > p {
-    margin-bottom: clamp(22px, 3vh, 36px);
-    padding-left: clamp(16px,4vw,48px);
-    padding-right: clamp(16px,4vw,48px);
-  }
   .eg-section > h3 {
     padding-left: clamp(16px,4vw,48px);
     padding-right: clamp(16px,4vw,48px);
@@ -3514,14 +3489,31 @@
     position: absolute; top: 0; left: 10%; right: 10%; height: 1px;
     background: linear-gradient(90deg, transparent, rgba(156,188,20,0.2), transparent);
   }
-  .eg-section-title {
+  /* ── Unified section headings & subheadings ─────────────── */
+  .eg-section-title,
+  .page-h2 {
     font-family: 'Norwester', sans-serif;
     font-weight: normal; font-style: normal; font-variant: small-caps;
-    font-size: clamp(28px, 5vw, 56px);
+    font-size: clamp(26px, 4.5vw, 54px);
+    line-height: 1;
     color: #fff;
     text-align: center;
     text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
-    margin-bottom: clamp(30px, 4vh, 50px);
+    margin: 0 auto clamp(12px, 2vh, 20px) !important;
+    max-width: 1100px;
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .page-subh {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(14px, 1.8vw, 22px);
+    color: #9cbc14;
+    letter-spacing: clamp(2px, .4vw, 4px);
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto clamp(22px, 3vh, 36px);
+    text-shadow: 0 0 12px rgba(156,188,20,0.3);
+    max-width: 1100px;
+    padding: 0 clamp(16px,4vw,40px);
   }
 
   /* ── S3 About styles ─────────────────────────────────────── */
@@ -3784,7 +3776,7 @@
 
 <!-- ═══════════════════════════════════════════════ S4b: EVERY TURN ══ -->
 <section id="s4b-turns" class="eg-section">
-  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(16px,2vh,28px);">Every Turn Is a Lesson</h2>
+  <h2 class="page-h2 eg-fade-in">Every Turn Is A Lesson</h2>
 
   <!-- Tab bar — same style as Section 3 -->
   <div class="s2-tabs eg-fade-in" style="margin-bottom:clamp(20px,3vh,36px);">
@@ -3951,7 +3943,7 @@
 
 <!-- ═══════════════════════════════════════════════ S6b: LEARNING FULL CIRCLE ══ -->
 <section id="s6b-gravity" class="eg-section">
-  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(12px,2vh,20px);">The Learning Comes Full Circle</h2>
+  <h2 class="page-h2 eg-fade-in">Learning Comes Full Circle</h2>
   <p class="s6b-subtitle eg-fade-in">The science you learn through challenges and force cards isn't just for collecting &mdash; you use it to survive gravity wells on the board.</p>
 
   <div class="s2-tabs eg-fade-in" style="margin-bottom:clamp(20px,3vh,36px);">
@@ -4190,7 +4182,7 @@
 
 <!-- ═══════════════════════════════════════════════ S-SPIRAL: SPIRALS ══ -->
 <section id="s-spiral" class="eg-section">
-  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Spirals in the Universe</h2>
+  <h2 class="page-h2 eg-fade-in">Spirals In The Universe</h2>
   <p class="spiral-subtitle eg-fade-in">The board is a spiral — because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
 
   <!-- Desktop: tiles flanking spiral -->
@@ -4387,7 +4379,7 @@
 
 <!-- ═══════════════════════════════════════════════ S-FORCES ══ -->
 <section id="s-forces" class="eg-section">
-  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Forces Against Gravity</h2>
+  <h2 class="page-h2 eg-fade-in">Forces Against Gravity</h2>
   <p class="forces-subtitle eg-fade-in">Nothing exists alone in nature &mdash; true for gravity too. Every force interacts with others: some reinforce, some resist, and together they shape how everything moves.</p>
   <p class="forces-subtitle eg-fade-in" style="margin-top:0;">The game reflects this. There are 13 forces across 7 categories &mdash; players earn these force cards by doing physical challenges, then use them to escape the gravity wells on the board.</p>
 
@@ -4636,7 +4628,7 @@
 
 <!-- ═══════════════════════════════════════════════ S-EXPERIENCE ══ -->
 <section id="s-experience" class="eg-section">
-  <h2 class="eg-section-title eg-fade-in" style="max-width:700px;margin-left:auto;margin-right:auto;margin-bottom:clamp(10px,1.5vh,16px);">Gravity Is Not Just Read In Books, Gravity Is Experienced</h2>
+  <h2 class="page-h2 eg-fade-in">Gravity Is Experienced, Not Just Read About</h2>
   <p class="eg-fade-in" style="font-family:'Pompiere',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
 
   <div class="exp-grid eg-fade-in">
@@ -4675,7 +4667,7 @@
 
 <!-- ═══════════════════════════════════════════════ S-GAME: MINI GAME ══ -->
 <section id="s-game" class="eg-section">
-  <h2 class="eg-section-title eg-fade-in" style="margin-bottom:clamp(8px,1.5vh,16px);">Escape the Gravity Wells!</h2>
+  <h2 class="page-h2 eg-fade-in">Escape The Gravity Wells Mini Game</h2>
   <p class="game-subtitle eg-fade-in">Collect force cards and survive the gravity wells. Tap or press Space to jump.</p>
   <div class="game-wrap eg-fade-in">
     <canvas id="eg-runner" width="800" height="320"></canvas>
@@ -5298,8 +5290,8 @@
 
 <!-- ═══════════════════════════════════════════════ S5: ABOUT ══ -->
 <section id="s5" class="eg-section">
-  <h2 class="eg-section-title s3-title eg-fade-in">About EscapeGravity</h2>
-  <p class="s4-subtitle eg-fade-in">Defy physics. Reach the stars.</p>
+  <h2 class="page-h2 eg-fade-in">About EscapeGravity</h2>
+  <p class="page-subh eg-fade-in">Defy physics. Reach the stars.</p>
   <div class="s4-grid">
     <div class="s4-desc eg-fade-in">
       <p>EscapeGravity is an immersive board game where players race to launch from Earth and reach the International Space Station. Every turn pulls you deeper into the science of spaceflight, from calculating thrust to understanding orbital mechanics.</p>
@@ -5330,7 +5322,7 @@
 
 <!-- ═══════════════════════════════════════════════ S4: FEATURES ══ -->
 <section id="s6" class="eg-section">
-  <h2 class="eg-section-title s4-title eg-fade-in">Game Features</h2>
+  <h2 class="page-h2 eg-fade-in">Game Features</h2>
   <div class="s5-grid">
 
     <div class="s5-card eg-fade-in">
@@ -5374,7 +5366,7 @@
 
 <!-- ═══════════════════════════════════════════════ S5: CONTACT ══ -->
 <section id="s7" class="eg-section">
-  <h2 class="eg-section-title s5-title eg-fade-in">Join the Mission</h2>
+  <h2 class="page-h2 eg-fade-in">Join The Mission</h2>
   <p class="s6-text eg-fade-in">Be the first to know when EscapeGravity launches. Sign up for mission updates!</p>
   <form class="s6-form eg-fade-in" id="s6-form">
     <input type="email" class="s6-input" placeholder="your.email@mission.control" required>
