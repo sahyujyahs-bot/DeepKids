@@ -970,9 +970,262 @@
 
     })();
 
-    function doPreOrder() { alert('🚀 EscapeGravity – Pre-Order\nOpening soon!'); }
+    /* ── Pre-Order Modal: collect WhatsApp number ─────────── */
+    function doPreOrder() {
+      var modal = document.getElementById('preorder-modal');
+      if (modal) modal.classList.add('show');
+    }
+    function closePreOrderModal() {
+      var modal = document.getElementById('preorder-modal');
+      if (modal) modal.classList.remove('show');
+    }
+    function submitPreOrder(e) {
+      e.preventDefault();
+      var form = e.target;
+      var cc = form.querySelector('#po-cc').value.trim();
+      var phone = form.querySelector('#po-phone').value.trim();
+      var name = form.querySelector('#po-name').value.trim();
+      var msg = document.getElementById('po-msg');
+      msg.textContent = '';
+      msg.className = 'po-msg';
+
+      // Validation
+      var digits = phone.replace(/\D/g, '');
+      if (!cc.match(/^\+?\d{1,4}$/)) {
+        msg.textContent = 'Please enter a valid country code (e.g. +91, +1).';
+        msg.classList.add('err');
+        return false;
+      }
+      if (digits.length < 7 || digits.length > 15) {
+        msg.textContent = 'Please enter a valid phone number (7–15 digits).';
+        msg.classList.add('err');
+        return false;
+      }
+      if (!name) {
+        msg.textContent = 'Please enter your name.';
+        msg.classList.add('err');
+        return false;
+      }
+
+      var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
+
+      // Save to localStorage as backup
+      try {
+        var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
+        preorders.push({ name: name, whatsapp: fullNumber, ts: new Date().toISOString() });
+        localStorage.setItem('eg-preorders', JSON.stringify(preorders));
+      } catch (e) {}
+
+      // Submit to FormSubmit (free email forwarding service)
+      // NOTE: First submission goes to a confirmation email — click the link
+      // in that email to activate forwarding. After that, all submissions
+      // arrive in your inbox automatically.
+      var data = new FormData();
+      data.append('name', name);
+      data.append('whatsapp', fullNumber);
+      data.append('_subject', 'EscapeGravity Pre-Order: ' + name);
+      data.append('_template', 'table');
+      data.append('_captcha', 'false');
+
+      msg.textContent = 'Submitting…';
+      msg.classList.remove('err');
+      var submitBtn = form.querySelector('button[type="submit"]');
+      if (submitBtn) submitBtn.disabled = true;
+
+      fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
+        method: 'POST',
+        headers: { 'Accept': 'application/json' },
+        body: data
+      }).then(function(r) { return r.json(); }).then(function(d) {
+        msg.textContent = '✓ Thanks! We\'ll WhatsApp you when pre-orders open.';
+        msg.className = 'po-msg success';
+        form.reset();
+        setTimeout(closePreOrderModal, 2800);
+      }).catch(function() {
+        msg.textContent = 'Saved locally. We\'ll reach you when we open pre-orders.';
+        msg.className = 'po-msg success';
+        setTimeout(closePreOrderModal, 2800);
+      }).finally(function() {
+        if (submitBtn) submitBtn.disabled = false;
+      });
+
+      return false;
+    }
+    // Close modal on backdrop click / Esc
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closePreOrderModal();
+    });
   </script>
 </section>
+
+<!-- ═══════════════════════════════════════════════ PRE-ORDER MODAL ══ -->
+<div id="preorder-modal" class="po-modal" onclick="if(event.target===this)closePreOrderModal()">
+  <div class="po-box">
+    <button type="button" class="po-close" onclick="closePreOrderModal()" aria-label="Close">×</button>
+    <h3 class="po-title">Pre-Order EscapeGravity</h3>
+    <p class="po-subtitle">Leave your WhatsApp number and we'll notify you the moment pre-orders go live.</p>
+    <form class="po-form" onsubmit="return submitPreOrder(event)">
+      <label class="po-field">
+        <span>Your Name</span>
+        <input type="text" id="po-name" placeholder="Jane Doe" required maxlength="60">
+      </label>
+      <label class="po-field">
+        <span>WhatsApp Number</span>
+        <div class="po-phone-row">
+          <input type="text" id="po-cc" placeholder="+91" value="+91" maxlength="5" inputmode="tel">
+          <input type="tel" id="po-phone" placeholder="98765 43210" required maxlength="20" inputmode="tel">
+        </div>
+      </label>
+      <div id="po-msg" class="po-msg"></div>
+      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Notify Me">
+        <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="dk-green-grad3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#c0e638"/>
+              <stop offset="45%" stop-color="#9cbc14"/>
+              <stop offset="100%" stop-color="#6b8f08"/>
+            </linearGradient>
+            <linearGradient id="dk-highlight3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+              <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+            </linearGradient>
+          </defs>
+          <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+          <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
+          <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad3)"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight3)"/>
+          <line x1="275" y1="42" x2="315" y2="25" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
+        </svg>
+        <span class="btn-label">Notify Me</span>
+      </button>
+    </form>
+    <p class="po-privacy">We'll only use your number to let you know about the launch. No spam.</p>
+  </div>
+</div>
+
+<style>
+/* ── Pre-Order Modal ─────────────────────────────────────── */
+.po-modal {
+  position: fixed; inset: 0; z-index: 9999;
+  display: none;
+  align-items: center; justify-content: center;
+  background: rgba(6,2,18,0.82);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 20px;
+  box-sizing: border-box;
+  animation: po-fade-in 0.3s ease;
+}
+.po-modal.show { display: flex; }
+@keyframes po-fade-in { from { opacity: 0; } to { opacity: 1; } }
+.po-box {
+  background: linear-gradient(180deg, rgba(30,15,55,0.98), rgba(18,8,38,0.98));
+  border: 1px solid rgba(156,188,20,0.35);
+  border-radius: clamp(14px, 2vw, 22px);
+  padding: clamp(24px, 3vw, 40px) clamp(20px, 3vw, 40px);
+  max-width: 460px;
+  width: 100%;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.6), 0 0 40px rgba(156,188,20,0.15);
+  position: relative;
+  animation: po-slide-up 0.4s cubic-bezier(.4,0,.2,1);
+}
+@keyframes po-slide-up {
+  from { transform: translateY(20px); opacity: 0; }
+  to   { transform: translateY(0);    opacity: 1; }
+}
+.po-close {
+  position: absolute; top: 10px; right: 14px;
+  background: none; border: none; color: rgba(255,255,255,0.5);
+  font-size: 30px; line-height: 1; cursor: pointer;
+  width: 34px; height: 34px;
+  border-radius: 50%;
+  transition: all 0.2s;
+}
+.po-close:hover { color: #fff; background: rgba(255,255,255,0.08); }
+.po-title {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(22px, 3vw, 32px);
+  color: #fff;
+  text-align: center;
+  margin: 0 0 8px;
+  text-shadow: 0 0 20px rgba(156,188,20,0.4);
+}
+.po-subtitle {
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(14px, 1.5vw, 17px);
+  color: rgba(255,255,255,0.7);
+  text-align: center;
+  margin: 0 0 clamp(18px, 2.5vh, 28px);
+  line-height: 1.5;
+}
+.po-field {
+  display: block;
+  margin-bottom: clamp(12px, 1.6vh, 18px);
+}
+.po-field > span {
+  display: block;
+  font-family: 'Pompiere', sans-serif;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: rgba(156,188,20,0.85);
+  margin-bottom: 6px;
+}
+.po-field input {
+  width: 100%;
+  padding: 12px 14px;
+  background: rgba(10,6,24,0.6);
+  border: 1px solid rgba(156,188,20,0.25);
+  border-radius: 8px;
+  color: #fff;
+  font-family: 'Pompiere', sans-serif;
+  font-size: 16px;
+  outline: none;
+  transition: all 0.3s;
+}
+.po-field input:focus {
+  border-color: #9cbc14;
+  box-shadow: 0 0 0 3px rgba(156,188,20,0.15);
+}
+.po-field input::placeholder { color: rgba(255,255,255,0.3); }
+.po-phone-row {
+  display: flex;
+  gap: 10px;
+}
+.po-phone-row input:first-child {
+  max-width: 90px;
+  text-align: center;
+}
+.po-phone-row input:last-child {
+  flex: 1;
+}
+.po-msg {
+  min-height: 20px;
+  font-family: 'Pompiere', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  margin: 8px 0 12px;
+  color: rgba(255,255,255,0.7);
+}
+.po-msg.err { color: #ff6b6b; }
+.po-msg.success { color: #9cbc14; }
+.po-submit {
+  margin: clamp(8px, 1vh, 14px) auto 0;
+  display: block;
+}
+.po-submit .btn-svg { width: clamp(180px, 32vw, 260px); }
+.po-privacy {
+  font-family: 'Pompiere', sans-serif;
+  font-size: 12px;
+  color: rgba(255,255,255,0.4);
+  text-align: center;
+  margin: clamp(14px, 2vh, 20px) 0 0;
+}
+</style>
 
 
 
