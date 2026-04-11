@@ -499,7 +499,7 @@
         <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z"
               fill="url(#dk-highlight)"/>
         <!-- Highlight on K top arm -->
-        <line x1="275" y1="42" x2="315" y2="25" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
+        
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
@@ -1097,7 +1097,7 @@
           <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight3)"/>
-          <line x1="275" y1="42" x2="315" y2="25" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
+          
         </svg>
         <span class="btn-label">Notify Me</span>
       </button>
@@ -1283,6 +1283,7 @@
     padding: 0 clamp(12px, 2.5vw, 32px);
     width: 100%;
     box-sizing: border-box;
+    align-items: start;
   }
   .s2-pin-item {
     border-radius: 12px;
@@ -1291,6 +1292,7 @@
     transition: transform 0.3s;
     display: flex;
     flex-direction: column;
+    align-self: start;
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
   .s2-pin-item img, .s2-pin-item svg {
@@ -1302,7 +1304,7 @@
   .s2-pin-box {
     grid-column: 1 / span 3;
     grid-row: 1 / span 2;
-    justify-content: center;
+    align-self: start;
   }
   .s2-pin-box img {
     width: 100%;
@@ -1322,12 +1324,11 @@
   /* Small items: tokens, dice — 1 col, image shrunk inside */
   .s2-pin-small {
     grid-column: span 1;
-    justify-content: flex-end;
   }
   .s2-pin-small img, .s2-pin-small svg {
-    width: 60%;
-    margin: auto;
-    max-height: 140px;
+    width: 72%;
+    margin: 0 auto;
+    max-height: 160px;
   }
   .s2-pin-item svg {
     box-sizing: border-box;
@@ -2291,7 +2292,7 @@
   <div style="display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:clamp(10px,1.5vh,20px) clamp(12px,4vw,40px);position:relative;z-index:10;">
     <h2 class="page-h2">Each Tile Carries Science</h2>
   </div>
-  <p class="page-subh" style="max-width:720px;">54 tiles &mdash; each with a scientifically accurate quip explaining exactly why that gravity well exists and how the forces at that altitude shape the game.</p>
+  <p class="page-desc">54 tiles &mdash; each with a scientifically accurate quip explaining exactly why that gravity well exists and how the forces at that altitude shape the game.</p>
   <div id="sci-collage">
     <picture>
       <source media="(max-width: 600px)" srcset="Section4%20collage%20mobile.png">
@@ -2303,7 +2304,7 @@
 <!-- ═══════════════════════════════════════════════ S-LAYERS: 9 LAYERS ══ -->
 <section id="s-layers" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Each Ring Is A Layer Of Earth Or Its Atmosphere</h2>
-  <p class="page-subh eg-fade-in" style="text-transform:none;letter-spacing:1.5px;font-size:clamp(15px,1.7vw,20px);color:rgba(255,255,255,0.7);">9 concentric rings on the spiral board map to 9 real layers &mdash; from Earth&rsquo;s core to outer space.</p>
+  <p class="page-desc eg-fade-in">9 concentric rings on the spiral board map to 9 real layers &mdash; from Earth&rsquo;s core to outer space.</p>
 
   <div class="layers-grid eg-fade-in">
     <div class="layer-card" style="--lc:#d6352d;">
@@ -3911,6 +3912,17 @@
     max-width: 1100px;
     padding: 0 clamp(16px,4vw,40px);
   }
+  .page-desc {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(15px, 1.7vw, 21px);
+    color: rgba(255,255,255,0.72);
+    line-height: 1.55;
+    text-align: center;
+    margin: 0 auto clamp(22px, 3vh, 36px);
+    max-width: 780px;
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .page-desc em { color: #9cbc14; font-style: normal; }
 
   /* ── S3 About styles ─────────────────────────────────────── */
   #s4 {
@@ -4188,7 +4200,7 @@
 <!-- ═══════════════════════════════════════════════ S4b: EVERY TURN ══ -->
 <section id="s4b-turns" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Every Turn Is A Lesson</h2>
-  <p class="page-subh eg-fade-in" style="max-width:760px;text-transform:none;letter-spacing:1.5px;font-size:clamp(15px,1.7vw,20px);color:rgba(255,255,255,0.7);">Do &rarr; Wonder &rarr; Earn &rarr; Understand. Every turn weaves a physical challenge, a thinking cue, and a force card into one moment &mdash; so the science isn&rsquo;t just read, it&rsquo;s lived and connected.</p>
+  <p class="page-desc eg-fade-in">Do &rarr; Wonder &rarr; Earn &rarr; Understand. Every turn weaves a physical challenge, a thinking cue, and a force card into one moment &mdash; so the science isn&rsquo;t just read, it&rsquo;s lived and connected.</p>
 
   <!-- Tab bar — same style as Section 3 -->
   <div class="s2-tabs eg-fade-in" style="margin-bottom:clamp(20px,3vh,36px);">
@@ -4953,17 +4965,27 @@
   display: none;
   flex: 1;
   min-width: 0;
+  overflow: hidden;
 }
 .forces-panel.active { display: block; }
 
-/* Cards row — scrollable on mobile */
+/* Cards row — horizontally scrollable when overflowing */
 .forces-cards {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   gap: clamp(12px, 2vw, 20px);
-  padding: 0 clamp(8px, 2vw, 20px);
+  padding: 10px clamp(8px, 2vw, 20px);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x mandatory;
+}
+.forces-panel.active .forces-cards {
+  /* Center if content fits, start if it overflows */
+  justify-content: center;
 }
 .forces-card-slot {
+  flex-shrink: 0;
+  scroll-snap-align: center;
   transition: transform 0.4s cubic-bezier(.4,0,.2,1);
 }
 .forces-card-slot:hover {
@@ -5703,7 +5725,7 @@
 <!-- ═══════════════════════════════════════════════ S-QUIZ ══ -->
 <section id="s-quiz" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Quick Quiz</h2>
-  <p class="page-subh eg-fade-in" style="text-transform:none;letter-spacing:1.5px;font-size:clamp(15px,1.7vw,20px);color:rgba(255,255,255,0.7);">How well do you know gravity? 12 questions &mdash; no pressure, just fun.</p>
+  <p class="page-desc eg-fade-in">How well do you know gravity? 12 questions &mdash; no pressure, just fun.</p>
 
   <div class="quiz-wrap eg-fade-in">
     <div class="quiz-progress"><div class="quiz-progress-bar" id="quiz-bar"></div></div>
@@ -5718,104 +5740,229 @@
 </section>
 
 <style>
-/* ── Quiz ─────────────────────────────────────────────── */
+/* ── Quiz — fun, playful, glowing ────────────────────── */
 .quiz-wrap {
-  max-width: 720px;
+  max-width: 780px;
   margin: 0 auto;
   padding: 0 clamp(16px, 4vw, 32px);
+  position: relative;
+}
+/* Floating sparkles around the quiz */
+.quiz-wrap::before, .quiz-wrap::after {
+  content: '';
+  position: absolute;
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: #c0e638;
+  box-shadow:
+    20px 40px 0 #9cbc14, 80px 80px 0 #ffb74d, 140px 20px 0 #4fc3f7,
+    220px 60px 0 #e85d75, 320px 30px 0 #ab47bc, 420px 80px 0 #9cbc14,
+    520px 20px 0 #4fc3f7, 620px 60px 0 #ffb74d,
+    30px 200px 0 #ab47bc, 120px 260px 0 #9cbc14, 220px 220px 0 #4fc3f7,
+    330px 260px 0 #ffb74d, 430px 220px 0 #e85d75, 530px 260px 0 #9cbc14,
+    630px 220px 0 #c0e638;
+  opacity: 0.6;
+  animation: quiz-sparkle 4s ease-in-out infinite;
+  pointer-events: none;
+  top: -10px; left: 0;
+}
+.quiz-wrap::after {
+  animation-delay: -2s;
+  top: auto; bottom: -10px;
+}
+@keyframes quiz-sparkle {
+  0%, 100% { opacity: 0.3; transform: scale(0.8); }
+  50%      { opacity: 0.9; transform: scale(1.2); }
 }
 .quiz-progress {
   width: 100%;
-  height: 6px;
-  background: rgba(18,8,38,0.6);
-  border-radius: 10px;
+  height: 10px;
+  background: rgba(18,8,38,0.7);
+  border-radius: 20px;
   overflow: hidden;
   margin-bottom: clamp(18px,2.5vh,28px);
+  border: 1px solid rgba(156,188,20,0.2);
+  box-shadow: inset 0 2px 6px rgba(0,0,0,0.4);
+  position: relative;
 }
 .quiz-progress-bar {
   height: 100%;
   width: 0;
-  background: linear-gradient(90deg, #9cbc14, #c0e638);
-  border-radius: 10px;
-  transition: width 0.4s ease;
-  box-shadow: 0 0 12px rgba(156,188,20,0.5);
+  background: linear-gradient(90deg, #4fc3f7, #9cbc14, #ffb74d, #e85d75);
+  background-size: 300% 100%;
+  border-radius: 20px;
+  transition: width 0.5s cubic-bezier(.4,0,.2,1);
+  box-shadow: 0 0 20px rgba(156,188,20,0.7);
+  animation: quiz-bar-shimmer 3s linear infinite;
+}
+@keyframes quiz-bar-shimmer {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 300% 0%; }
 }
 .quiz-stage {
-  background: linear-gradient(180deg, rgba(30,15,55,0.8), rgba(18,8,38,0.8));
-  border: 1px solid rgba(156,188,20,0.2);
-  border-radius: clamp(12px,1.8vw,20px);
-  padding: clamp(24px,3.5vh,40px) clamp(20px,3vw,40px);
-  min-height: clamp(280px, 42vh, 420px);
+  background:
+    radial-gradient(circle at 20% 20%, rgba(156,188,20,0.12), transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(79,195,247,0.12), transparent 50%),
+    linear-gradient(180deg, rgba(40,18,70,0.92), rgba(18,8,38,0.95));
+  border: 2px solid transparent;
+  background-clip: padding-box;
+  border-radius: clamp(14px,2vw,24px);
+  padding: clamp(28px,4vh,48px) clamp(22px,3.5vw,44px);
+  min-height: clamp(300px, 44vh, 460px);
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
   position: relative;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 60px rgba(156,188,20,0.15);
+  overflow: hidden;
+}
+/* Animated gradient border */
+.quiz-stage::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  padding: 2px;
+  border-radius: inherit;
+  background: linear-gradient(135deg, #9cbc14, #4fc3f7, #ffb74d, #e85d75, #9cbc14);
+  background-size: 300% 300%;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+  animation: quiz-border-shift 6s linear infinite;
+  pointer-events: none;
+}
+@keyframes quiz-border-shift {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 300% 0%; }
 }
 .quiz-start-btn {
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
-  font-size: clamp(18px,2.4vw,28px);
-  background: linear-gradient(180deg, #c0e638, #7aa010);
+  font-size: clamp(20px,2.8vw,32px);
+  background: linear-gradient(180deg, #d4f045 0%, #a0c816 50%, #7aa010 100%);
   color: #fff;
-  border: 2px solid #6b2155;
-  border-radius: 12px;
-  padding: clamp(14px,2vh,20px) clamp(32px,4vw,54px);
+  border: 3px solid #6b2155;
+  border-radius: 16px;
+  padding: clamp(16px,2.4vh,24px) clamp(36px,4.8vw,60px);
   cursor: pointer;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-  box-shadow: 0 6px 24px rgba(156,188,20,0.35), inset 0 1px 0 rgba(255,255,255,0.25);
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  box-shadow: 0 8px 28px rgba(156,188,20,0.45), inset 0 2px 0 rgba(255,255,255,0.3);
   transition: all 0.3s ease;
   align-self: center;
   letter-spacing: 3px;
-  animation: quiz-pulse 2.5s ease-in-out infinite;
+  animation: quiz-pulse 2.2s ease-in-out infinite;
+  position: relative;
+  z-index: 2;
 }
-.quiz-start-btn:hover { transform: scale(1.05); filter: brightness(1.12); }
+.quiz-start-btn::before {
+  content: '✦';
+  margin-right: 12px;
+  color: #fff;
+  text-shadow: 0 0 12px rgba(255,255,255,0.7);
+}
+.quiz-start-btn::after {
+  content: '✦';
+  margin-left: 12px;
+  color: #fff;
+  text-shadow: 0 0 12px rgba(255,255,255,0.7);
+}
+.quiz-start-btn:hover { transform: scale(1.08) rotate(-1deg); filter: brightness(1.15); }
 @keyframes quiz-pulse {
-  0%, 100% { box-shadow: 0 6px 24px rgba(156,188,20,0.35), inset 0 1px 0 rgba(255,255,255,0.25); }
-  50%      { box-shadow: 0 8px 36px rgba(156,188,20,0.6), 0 0 50px rgba(156,188,20,0.2), inset 0 1px 0 rgba(255,255,255,0.25); }
+  0%, 100% {
+    box-shadow: 0 8px 28px rgba(156,188,20,0.45), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 0 rgba(156,188,20,0.5);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 12px 44px rgba(156,188,20,0.7), 0 0 80px rgba(156,188,20,0.3), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 14px rgba(156,188,20,0);
+    transform: scale(1.03);
+  }
 }
 .quiz-q {
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
-  font-size: clamp(18px,2.2vw,26px);
+  font-size: clamp(19px,2.4vw,28px);
   color: #fff;
   margin-bottom: clamp(18px,2.8vh,28px);
   line-height: 1.3;
-  text-shadow: 0 0 14px rgba(156,188,20,0.25);
+  text-shadow: 0 0 18px rgba(156,188,20,0.35), 0 2px 0 rgba(0,0,0,0.6);
+  position: relative;
+  z-index: 2;
+  animation: quiz-q-pop 0.5s cubic-bezier(.4,0,.2,1);
+}
+@keyframes quiz-q-pop {
+  from { opacity: 0; transform: translateY(-12px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 .quiz-options {
   display: flex;
   flex-direction: column;
-  gap: clamp(8px,1.2vh,14px);
+  gap: clamp(10px,1.5vh,16px);
+  position: relative;
+  z-index: 2;
 }
 .quiz-opt {
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(15px,1.7vw,19px);
-  color: rgba(255,255,255,0.85);
-  background: rgba(10,6,24,0.55);
-  border: 1.5px solid rgba(156,188,20,0.2);
-  border-radius: 10px;
-  padding: clamp(10px,1.5vh,14px) clamp(14px,2vw,22px);
+  font-size: clamp(16px,1.9vw,21px);
+  color: #fff;
+  background: linear-gradient(180deg, rgba(30,18,58,0.85), rgba(15,8,32,0.85));
+  border: 2px solid rgba(156,188,20,0.3);
+  border-radius: 12px;
+  padding: clamp(12px,1.7vh,16px) clamp(16px,2.2vw,24px);
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(.4,0,.2,1);
   text-align: left;
   line-height: 1.4;
+  position: relative;
+  animation: quiz-q-pop 0.5s ease;
+  animation-fill-mode: both;
 }
+.quiz-opt:nth-child(1) { animation-delay: 0.05s; }
+.quiz-opt:nth-child(2) { animation-delay: 0.12s; }
+.quiz-opt:nth-child(3) { animation-delay: 0.19s; }
+.quiz-opt:nth-child(4) { animation-delay: 0.26s; }
 .quiz-opt:hover:not(:disabled) {
-  border-color: #9cbc14;
-  background: rgba(156,188,20,0.08);
-  transform: translateX(4px);
+  border-color: #c0e638;
+  background: linear-gradient(180deg, rgba(156,188,20,0.18), rgba(30,18,58,0.9));
+  transform: translateX(8px) scale(1.02);
+  box-shadow: 0 4px 20px rgba(156,188,20,0.25);
+  color: #c0e638;
 }
 .quiz-opt.right {
   border-color: #4caf50;
-  background: rgba(76,175,80,0.15);
-  color: #a5d6a7;
-  box-shadow: 0 0 18px rgba(76,175,80,0.4);
+  background: linear-gradient(180deg, rgba(76,175,80,0.3), rgba(46,125,50,0.3));
+  color: #fff;
+  box-shadow: 0 0 30px rgba(76,175,80,0.6), inset 0 0 20px rgba(76,175,80,0.2);
+  animation: quiz-right-shake 0.5s ease;
+}
+.quiz-opt.right::after {
+  content: ' ✓';
+  color: #fff;
+  text-shadow: 0 0 12px rgba(76,175,80,0.9);
+  font-weight: bold;
 }
 .quiz-opt.wrong {
   border-color: #e85d75;
-  background: rgba(232,93,117,0.12);
-  color: #ffb8c5;
+  background: linear-gradient(180deg, rgba(232,93,117,0.3), rgba(183,28,28,0.3));
+  color: #fff;
+  box-shadow: 0 0 20px rgba(232,93,117,0.5);
+  animation: quiz-wrong-shake 0.4s ease;
+}
+.quiz-opt.wrong::after {
+  content: ' ✗';
+  color: #fff;
+  font-weight: bold;
+}
+@keyframes quiz-right-shake {
+  0%, 100% { transform: scale(1); }
+  25% { transform: scale(1.04) rotate(-1deg); }
+  50% { transform: scale(1.06); }
+  75% { transform: scale(1.04) rotate(1deg); }
+}
+@keyframes quiz-wrong-shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-6px); }
+  75% { transform: translateX(6px); }
 }
 .quiz-opt:disabled { cursor: default; }
 .quiz-next {
@@ -6129,7 +6276,7 @@
         <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
         <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
         <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight2)"/>
-        <line x1="275" y1="42" x2="315" y2="25" stroke="rgba(255,255,255,0.35)" stroke-width="4" stroke-linecap="round"/>
+        
       </svg>
       <span class="btn-label">Launch</span>
     </button>
@@ -6205,17 +6352,66 @@
   'use strict';
 
   var CURSOR_SRC = 'data:image/png;base64,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';
-  var SIZE = 64;
+  var SIZE = 44;
   var HALF = SIZE / 2;
 
-  /* ── Load the spiral image ──────────────────────────────── */
-  var cursorImg = new Image();
-  cursorImg.src = CURSOR_SRC;
-
-  /* ── Offscreen canvas for rotating ─────────────────────── */
+  /* ── Offscreen canvas for drawing the spiral ───────────── */
   var offCv = document.createElement('canvas');
   offCv.width = SIZE; offCv.height = SIZE;
   var offCtx = offCv.getContext('2d');
+
+  /* ── Draw a crisp spiral at a given angle ──────────────── */
+  function drawSpiralAt(angle) {
+    offCtx.clearRect(0, 0, SIZE, SIZE);
+    offCtx.save();
+    offCtx.translate(HALF, HALF);
+    offCtx.rotate(angle);
+
+    // Dark outline for contrast against any background
+    offCtx.strokeStyle = 'rgba(10,6,24,0.9)';
+    offCtx.lineWidth = 4;
+    offCtx.lineCap = 'round';
+    drawSpiralPath();
+    offCtx.stroke();
+
+    // Main bright green spiral
+    offCtx.strokeStyle = '#c0e638';
+    offCtx.lineWidth = 2.4;
+    drawSpiralPath();
+    offCtx.stroke();
+
+    // Inner white highlight
+    offCtx.strokeStyle = 'rgba(255,255,255,0.85)';
+    offCtx.lineWidth = 0.9;
+    drawSpiralPath();
+    offCtx.stroke();
+
+    // Center glowing dot
+    offCtx.fillStyle = '#ffffff';
+    offCtx.beginPath();
+    offCtx.arc(0, 0, 2, 0, Math.PI * 2);
+    offCtx.fill();
+    offCtx.fillStyle = 'rgba(192,230,56,0.6)';
+    offCtx.beginPath();
+    offCtx.arc(0, 0, 3.5, 0, Math.PI * 2);
+    offCtx.fill();
+
+    offCtx.restore();
+  }
+  function drawSpiralPath() {
+    // Archimedean spiral: r = a * theta
+    var a = 1.0;
+    var maxTheta = Math.PI * 5; // 2.5 turns
+    var step = 0.12;
+    offCtx.beginPath();
+    for (var t = 0; t <= maxTheta; t += step) {
+      var r = a * t;
+      var x = r * Math.cos(t);
+      var y = r * Math.sin(t);
+      if (t === 0) offCtx.moveTo(x, y);
+      else         offCtx.lineTo(x, y);
+    }
+  }
 
   /* ── State ──────────────────────────────────────────────── */
   var currentAngle = 0;       // current visual rotation (radians)
@@ -6227,12 +6423,7 @@
 
   /* ── Generate cursor URL at a given angle ──────────────── */
   function cursorAtAngle(angle) {
-    offCtx.clearRect(0, 0, SIZE, SIZE);
-    offCtx.save();
-    offCtx.translate(HALF, HALF);
-    offCtx.rotate(angle);
-    offCtx.drawImage(cursorImg, -HALF, -HALF, SIZE, SIZE);
-    offCtx.restore();
+    drawSpiralAt(angle);
     return offCv.toDataURL('image/png');
   }
 
@@ -6307,10 +6498,8 @@
     dblClickDir *= -1;
   });
 
-  /* ── Set initial cursor once image loads ────────────────── */
-  cursorImg.onload = function() {
-    applyCursor(0);
-  };
+  /* ── Set initial cursor ─────────────────────────────────── */
+  applyCursor(0);
 
 })();
 </script>
