@@ -114,30 +114,32 @@
       justify-content: center;
       margin-bottom: clamp(8px, 1.4vh, 14px);
     }
-    /* "from DeepKids" — small pill centred on the title's top edge
-       so it touches the title without covering the text (half of the
-       pill sits above the title, half in its inner top padding). */
+    /* "from DeepKids" — small pill sitting right on the title's
+       top edge. Top ~half above the title, bottom half overlapping
+       the very top of the letters — reads as a brand mark attached
+       to the title rather than floating above it. */
     .hero-tm {
       position: absolute;
-      top: 0;
+      top: -4px;
       right: clamp(6px, 0.8vw, 14px);
-      transform: translateY(-50%);
+      transform: none;
       font-family: 'Pompiere', sans-serif;
       font-weight: normal;
       font-variant: normal;
-      font-size: clamp(9px, 0.95vw, 14px);
-      letter-spacing: clamp(0.5px, .2vw, 2px);
+      font-size: clamp(8px, 0.85vw, 12px);
+      letter-spacing: clamp(0.5px, .2vw, 1.5px);
       text-transform: uppercase;
-      color: rgba(255,255,255,0.82);
+      color: rgba(255,255,255,0.92);
       line-height: 1;
-      padding: 4px 10px;
-      border: 1px solid rgba(192,230,56,0.45);
+      padding: 3px 9px;
+      border: 1px solid rgba(192,230,56,0.55);
       border-radius: 999px;
-      background: rgba(10,6,24,0.85);
-      text-shadow: 0 0 10px rgba(156,188,20,0.4);
-      box-shadow: 0 0 14px rgba(192,230,56,0.2);
+      background: rgba(10,6,24,0.95);
+      text-shadow: 0 0 10px rgba(156,188,20,0.5);
+      box-shadow: 0 0 14px rgba(192,230,56,0.25), 0 2px 8px rgba(0,0,0,0.5);
       white-space: nowrap;
       pointer-events: none;
+      z-index: 5;
     }
     .hero-tm b {
       font-weight: normal;
@@ -146,9 +148,10 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        right: 3px;
-        font-size: clamp(8px, 2.4vw, 11px);
-        padding: 3px 7px;
+        top: -3px;
+        right: 4px;
+        font-size: clamp(7px, 2.2vw, 10px);
+        padding: 2px 6px;
         letter-spacing: 0.5px;
       }
     }
@@ -650,71 +653,6 @@
         World.add(world, walls);
       }
       rebuildWalls();
-
-      /* ── Fall-on-ground sound ──────────────────────────────────
-         Plays a small thud whenever a rain-card hits the ground
-         (walls[0]). Uses an Audio element so the file plays as-is
-         — no Web Audio synthesis. Cloned per hit so overlapping
-         landings don't cut each other off. Velocity is checked so
-         cards resting on top of a pile don't constantly retrigger. */
-      const fallSoundSrc = 'gravityfallelementssound.wav';
-      const fallSoundTemplate = new Audio(fallSoundSrc);
-      fallSoundTemplate.preload = 'auto';
-      fallSoundTemplate.volume = 0;       // primer muted
-      let fallAudioUnlocked = false;
-      function unlockFallAudio() {
-        if (fallAudioUnlocked) return;
-        fallAudioUnlocked = true;
-        // Prime: play+pause so cloneNode().play() works later
-        try {
-          fallSoundTemplate.play().then(function(){
-            fallSoundTemplate.pause();
-            fallSoundTemplate.currentTime = 0;
-          }).catch(function(){});
-        } catch(e){}
-      }
-      document.addEventListener('pointerdown', unlockFallAudio, { passive: true, once: false });
-      document.addEventListener('touchstart',  unlockFallAudio, { passive: true, once: false });
-      document.addEventListener('keydown',     unlockFallAudio, { passive: true, once: false });
-
-      let lastFallSoundAt = 0;
-      function playFallSound(intensity) {
-        const now = performance.now();
-        // Debounce so a cluster of simultaneous impacts produces one thud
-        if (now - lastFallSoundAt < 90) return;
-        lastFallSoundAt = now;
-        try {
-          const s = fallSoundTemplate.cloneNode();
-          const vol = Math.max(0.15, Math.min(0.85, 0.25 + intensity * 0.05));
-          s.volume = vol;
-          s.playbackRate = 0.88 + Math.random() * 0.24;
-          s.play().catch(function(){});
-        } catch(e){}
-      }
-
-      /* Listen for card ↔ ground collisions */
-      Events.on(engine, 'collisionStart', function(evt){
-        const ground = walls[0];
-        if (!ground) return;
-        const pairs = evt.pairs;
-        for (let i = 0; i < pairs.length; i++) {
-          const p = pairs[i];
-          const a = p.bodyA, b = p.bodyB;
-          // Only interested in hits against the ground wall
-          const cardBody =
-            (a === ground) ? b :
-            (b === ground) ? a : null;
-          if (!cardBody || cardBody.isStatic) continue;
-          // Only card bodies (skip mouse/constraint helpers)
-          const isCard = physEntries.some(function(en){ return en.body === cardBody; });
-          if (!isCard) continue;
-          // Skip tiny contacts (resting on a pile, minor jitter)
-          const speed = Math.abs(cardBody.velocity.y) + Math.abs(cardBody.velocity.x);
-          if (speed < 1.8) continue;
-          playFallSound(speed);
-          break; // one thud per collision frame is plenty
-        }
-      });
 
       /* ── Card keys ──────────────────────────────────────────── */
       const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
