@@ -114,14 +114,14 @@
       justify-content: center;
       margin-bottom: clamp(8px, 1.4vh, 14px);
     }
-    /* "from DeepKids" — small pill sitting right on the title's
-       top edge. Top ~half above the title, bottom half overlapping
-       the very top of the letters — reads as a brand mark attached
-       to the title rather than floating above it. */
+    /* "from DeepKids" — small pill sitting right on top of the
+       title's top edge, overlapping down into the first few pixels
+       of the letters so it reads as a brand mark attached to the
+       title itself. Think ™ badge placement. */
     .hero-tm {
       position: absolute;
-      top: -4px;
-      right: clamp(6px, 0.8vw, 14px);
+      top: 6px;
+      right: clamp(10px, 1vw, 18px);
       transform: none;
       font-family: 'Pompiere', sans-serif;
       font-weight: normal;
@@ -129,14 +129,14 @@
       font-size: clamp(8px, 0.85vw, 12px);
       letter-spacing: clamp(0.5px, .2vw, 1.5px);
       text-transform: uppercase;
-      color: rgba(255,255,255,0.92);
+      color: rgba(255,255,255,0.95);
       line-height: 1;
       padding: 3px 9px;
-      border: 1px solid rgba(192,230,56,0.55);
+      border: 1px solid rgba(192,230,56,0.6);
       border-radius: 999px;
-      background: rgba(10,6,24,0.95);
+      background: rgba(10,6,24,0.98);
       text-shadow: 0 0 10px rgba(156,188,20,0.5);
-      box-shadow: 0 0 14px rgba(192,230,56,0.25), 0 2px 8px rgba(0,0,0,0.5);
+      box-shadow: 0 0 14px rgba(192,230,56,0.3), 0 2px 8px rgba(0,0,0,0.6);
       white-space: nowrap;
       pointer-events: none;
       z-index: 5;
@@ -148,8 +148,8 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        top: -3px;
-        right: 4px;
+        top: 4px;
+        right: 6px;
         font-size: clamp(7px, 2.2vw, 10px);
         padding: 2px 6px;
         letter-spacing: 0.5px;
@@ -1286,14 +1286,17 @@
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
-  /* ── What's Inside The Box — true Pinterest masonry ─────────
-     Uses CSS columns: every column is the same width, every gap
-     between items (column gap and inter-item margin) is identical,
-     and each image keeps its own natural aspect ratio so the
-     collage feels varied without any cropping. */
+  /* ── What's Inside The Box — CSS Grid collage ──────────────
+     6-column grid so the featured items (Box + Challenge Card) can
+     span multiple columns and feel bigger than the others. Grid
+     `gap` keeps the horizontal and vertical spacing uniform across
+     every item regardless of their individual heights. */
   .s2-pin {
-    column-count: 4;
-    column-gap: clamp(12px, 1.4vw, 20px);
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: clamp(12px, 1.4vw, 20px);
+    grid-auto-flow: row dense;
+    align-items: start;
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 clamp(12px, 2.5vw, 32px);
@@ -1301,16 +1304,16 @@
     box-sizing: border-box;
   }
   .s2-pin-item {
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-    margin: 0 0 clamp(12px, 1.4vw, 20px);
-    display: inline-block;
-    width: 100%;
     background: none;
     border: none;
     padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
     transition: transform 0.3s;
+    min-width: 0;
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
   .s2-pin-item img,
@@ -1320,21 +1323,33 @@
     display: block;
     object-fit: contain;
   }
-  /* Box image — crop the transparent padding so it reads as a
-     proper box card; everything else uses natural aspect ratio. */
+
+  /* Default single tile — 1 col wide */
+  .s2-pin-large { grid-column: span 1; }
+
+  /* Box: 3 cols wide spanning 2 rows (bigger, featured, landscape) */
+  .s2-pin-box {
+    grid-column: span 3;
+    grid-row: span 2;
+  }
   .s2-pin-box img {
     aspect-ratio: 16 / 9;
     object-fit: cover;
     object-position: center;
     border-radius: 10px;
   }
-  /* Tokens / dice — keep them comfortably sized inside their column */
+
+  /* Challenge card front: 2 cols wide (bigger) */
+  .s2-pin-chall {
+    grid-column: span 2;
+  }
+
+  /* Tokens / dice — 1 col, image shrunk and centred inside the cell */
+  .s2-pin-small { grid-column: span 1; justify-content: center; }
   .s2-pin-small img,
   .s2-pin-small svg {
-    width: 78%;
+    width: 70%;
     margin: 0 auto;
-    max-height: 220px;
-    object-fit: contain;
   }
   .s2-pin-item svg { box-sizing: border-box; }
 
@@ -1352,11 +1367,14 @@
   }
 
   @media (max-width: 900px) {
-    .s2-pin { column-count: 3; }
+    .s2-pin { grid-template-columns: repeat(4, 1fr); }
+    .s2-pin-box { grid-column: span 4; grid-row: auto; }
+    .s2-pin-chall { grid-column: span 2; }
   }
   @media (max-width: 560px) {
-    .s2-pin { column-count: 2; column-gap: 12px; }
-    .s2-pin-item { margin-bottom: 12px; }
+    .s2-pin { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+    .s2-pin-box { grid-column: span 2; grid-row: auto; }
+    .s2-pin-chall { grid-column: span 2; }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
 </style>
@@ -1393,7 +1411,7 @@
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-large">
+    <div class="s2-pin-item s2-pin-chall">
       <img src="Lightest_Items_Wins.png" alt="Challenge Card">
       <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
     </div>
@@ -6612,52 +6630,69 @@
     transform: translateY(0);
     pointer-events: auto;
   }
-  /* Mobile sticky button: full-width row with a stretched DK SVG.
-     The SVG markup bakes in preserveAspectRatio="none" and a trimmed
-     viewBox of 0 0 339 108 so the content sits in the exact centre
-     of the row with matching 5-unit padding on each side. */
-  .eg-mobile-preorder-btn {
+  /* Mobile sticky button: self-contained full-width styles. Does
+     NOT inherit .btn-wrap because that class has margin-left and
+     hover translateX that push the button off-centre. The SVG
+     itself bakes in preserveAspectRatio="none" and a trimmed
+     viewBox of 0 0 339 108 so the D+K content spans exactly the
+     full row width with symmetric padding. */
+  button.eg-mobile-preorder-btn {
+    all: unset;
     display: block;
     width: 100%;
-    margin: 0;
-    padding: 0;
-    border: none;
-    background: none;
+    box-sizing: border-box;
     position: relative;
     cursor: pointer;
-    animation: none;
     line-height: 0;
-    -webkit-appearance: none;
-    appearance: none;
+    filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+    transition: filter .2s ease;
   }
-  .eg-mobile-preorder-btn .btn-svg {
+  button.eg-mobile-preorder-btn:hover {
+    filter: drop-shadow(0 0 22px rgba(156,188,20,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
+  }
+  button.eg-mobile-preorder-btn:active {
+    filter: drop-shadow(0 0 10px rgba(156,188,20,0.3)) brightness(0.95);
+  }
+  button.eg-mobile-preorder-btn .btn-svg {
     width: 100% !important;
     max-width: none !important;
-    height: 54px !important;
+    height: 56px !important;
     display: block;
+    overflow: visible;
   }
-  /* Thin, even strokes regardless of the horizontal stretch. The
-     stroke widths are small user-units so with
-     vector-effect:non-scaling-stroke they render at a constant pixel
-     weight — no thick lines from the stretch. */
-  .eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"] { stroke-width: 4 !important; }
-  .eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"]  { stroke-width: 6 !important; }
-  .eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 4 !important; }
+  /* Thin pink/purple outline — the SVG markup has
+     vector-effect="non-scaling-stroke" on each path/line so the
+     stroke widths are a constant pixel weight even when the SVG is
+     horizontally stretched. Override the defaults here so they stay
+     light on the elongated button. */
+  button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"] { stroke-width: 3 !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"]  { stroke-width: 5 !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 3 !important; }
   /* Centre label on the D portion. D runs from x=5 to ~240 in the
-     339-wide viewBox, so its centre sits at 122.5/339 ≈ 36.1% of
-     the rendered width. */
-  .eg-mobile-preorder-btn .btn-label {
+     339-wide viewBox, so its visual centre sits at 122.5/339 ≈
+     36.1% of the rendered width. */
+  button.eg-mobile-preorder-btn .btn-label {
+    position: absolute;
+    top: 50%;
+    left: 36% !important;
+    transform: translate(-50%, -50%);
+    font-family: 'Norwester', sans-serif;
+    font-variant: small-caps;
+    font-weight: normal;
     font-size: 16px;
     letter-spacing: 2px;
-    left: 36% !important;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0,0,0,.7);
+    pointer-events: none;
+    white-space: nowrap;
   }
   @media (max-width: 768px) {
     .eg-mobile-preorder { display: block; }
-    body { padding-bottom: 74px; }
+    body { padding-bottom: 76px; }
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
-  <button type="button" class="btn-wrap eg-mobile-preorder-btn" onclick="doPreOrder()">
+  <button type="button" class="eg-mobile-preorder-btn" onclick="doPreOrder()">
     <svg class="btn-svg" viewBox="0 0 339 108" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
