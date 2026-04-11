@@ -1287,6 +1287,8 @@
     gap: clamp(10px, 1.2vw, 18px);
     padding: 0 clamp(12px, 2.5vw, 32px);
     width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
     box-sizing: border-box;
     align-items: start;
   }
@@ -6601,28 +6603,38 @@
     transform: translateY(0);
     pointer-events: auto;
   }
-  /* Make the DK button stretch to the full screen width on mobile.
-     The .btn-wrap inside is set to display: block + width: 100%, and the
-     SVG inside it preserves aspect-ratio so it sizes to fill the row. */
+  /* Mobile sticky button: stretch full screen width, fixed shorter
+     height. The SVG gets preserveAspectRatio="none" added at hydration
+     so the D+K shapes elongate horizontally to fill the row instead
+     of forcing the row to grow tall. */
   .eg-mobile-preorder .dk-btn-host {
     display: block !important;
     width: 100%;
     margin: 0 !important;
     animation: none;
+    line-height: 0;
   }
   .eg-mobile-preorder .btn-svg {
     width: 100% !important;
     max-width: none !important;
-    height: auto;
+    height: 52px !important;
+    display: block;
+  }
+  /* Keep stroke widths uniform when the SVG is horizontally stretched */
+  .eg-mobile-preorder .btn-svg path,
+  .eg-mobile-preorder .btn-svg line {
+    vector-effect: non-scaling-stroke;
   }
   .eg-mobile-preorder .btn-label {
-    /* Larger label for the wider button */
-    font-size: clamp(16px, 5vw, 22px);
-    letter-spacing: clamp(2px, 0.6vw, 5px);
+    font-size: clamp(15px, 4.5vw, 20px);
+    letter-spacing: clamp(2px, 0.6vw, 4px);
+    /* Override the default .btn-label position so the text sits in the
+       horizontal centre of the elongated button instead of under the D. */
+    left: 50% !important;
   }
   @media (max-width: 768px) {
     .eg-mobile-preorder { display: block; }
-    body { padding-bottom: 92px; }
+    body { padding-bottom: 72px; }
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
@@ -6636,6 +6648,13 @@
 
   var el = document.getElementById('eg-mobile-preorder');
   if (!el) return;
+
+  // Stretch the DK button SVG to the row's full size by switching off
+  // aspect-ratio preservation. The D + K shapes elongate horizontally
+  // which lets the button stay short while spanning the screen.
+  var svg = el.querySelector('.btn-svg');
+  if (svg) svg.setAttribute('preserveAspectRatio', 'none');
+
   function toggle(){
     // Show after user scrolls past the 1st viewport (i.e. from the 2nd viewport onward)
     var show = window.pageYOffset > window.innerHeight * 0.85;
