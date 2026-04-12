@@ -2955,7 +2955,9 @@
     dice.style.transform = '';
     result.classList.remove('show');
     state = 0; busy = false;
-    btnBack.disabled = true; btnFwd.disabled = false;
+    // Back button stays enabled at state 0 so the user can step
+    // back across the step boundary into Step 1's last scene.
+    btnBack.disabled = false; btnFwd.disabled = false;
     navEl.classList.add('show');
     // Auto-start zoom after 1 second
     autoStartTimer = setTimeout(() => {
@@ -3028,12 +3030,19 @@
     }
 
     if (window.s2ActiveTab === 'science') {
-      // Step 3 has no internal states — Prev goes to Step 2's last scene
+      // Step 3 → Step 2's last scene (token at tile 11, before Step 3 began).
+      // Manually update tabs/panels and jump straight to state 4 — going
+      // through bgTab.click() would briefly flash state 0 (wide board).
       var bgTab2 = document.querySelector('.s2-tab[data-panel="boardgame"]');
-      if (bgTab2) {
-        bgTab2.click();
-        setTimeout(function(){ if (window.jumpToState4) window.jumpToState4(); }, 120);
-      }
+      var sciTab2 = document.querySelector('.s2-tab[data-panel="science"]');
+      if (bgTab2) bgTab2.classList.add('active');
+      if (sciTab2) sciTab2.classList.remove('active');
+      var bubble2 = document.getElementById('s2-comic-bubble');
+      if (bubble2) bubble2.classList.remove('show');
+      window.s2ActiveTab = 'boardgame';
+      var s3El2 = document.getElementById('s3');
+      if (s3El2) s3El2.classList.remove('step3-view');
+      if (window.jumpToState4) window.jumpToState4();
       return;
     }
 
@@ -3250,47 +3259,54 @@
   };
 
   /* ── Position bubble attached to the token ─────────────────
-     IMPORTANT: #s2-tok-blue is a direct child of #s3 (so it can
-     overflow the board-row), but the bubble is inside
-     #s2-panel-boardgame → #s2-board-row. The two elements are in
-     different offset-parent coordinate spaces, so we can't just
-     compare their style.left/top values.
+     #s2-tok-blue is a direct child of #s3 (so it can overflow the
+     board-row), but the bubble is inside #s2-board-row → so the
+     two have DIFFERENT offsetParents.
 
-     This version uses getBoundingClientRect() on both and
-     converts the token's viewport rect into the bubble's
-     offset-parent space before positioning. */
+     We use the token's TARGET style.left/top values (which are set
+     immediately by dropToTile7/3/2 with a CSS transition) — NOT
+     getBoundingClientRect() which would return the live, mid-
+     animation position. Then we convert from the token's parent
+     coordinate space to the bubble's parent coordinate space using
+     a one-time delta computed from getBoundingClientRect of the
+     two parents. The bubble then animates to its target position
+     in sync with the token. */
   function positionBubbleAtToken(bubble, animate) {
     if (!bubble || !tokBlue) return;
 
-    // Let layout settle before measuring, so offsetWidth/Height
-    // reflect the latest content.
     var bblW = bubble.offsetWidth  || 260;
     var bblH = bubble.offsetHeight || 110;
-    var offsetParent = bubble.offsetParent || document.getElementById('s2-board-row') || document.getElementById('s3');
-    if (!offsetParent) return;
-    var parentRect = offsetParent.getBoundingClientRect();
-    var tokRect = tokBlue.getBoundingClientRect();
 
-    // Token in bubble's offset-parent coordinate space
-    var tokL = tokRect.left - parentRect.left;
-    var tokT = tokRect.top  - parentRect.top;
-    var tokW = tokRect.width;
-    var tokH = tokRect.height;
+    // The token's TARGET position, in its own offset-parent space
+    var tokTargetL = parseFloat(tokBlue.style.left) || 0;
+    var tokTargetT = parseFloat(tokBlue.style.top)  || 0;
+    var tokW = tokBlue.offsetWidth  || 80;
+    var tokH = tokBlue.offsetHeight || 80;
+
+    // Convert token's target position into bubble's offset-parent space
+    var tokParent = tokBlue.offsetParent || document.body;
+    var bblParent = bubble.offsetParent  || document.body;
+    var tokParentRect = tokParent.getBoundingClientRect();
+    var bblParentRect = bblParent.getBoundingClientRect();
+    var deltaX = tokParentRect.left - bblParentRect.left;
+    var deltaY = tokParentRect.top  - bblParentRect.top;
+
+    var tokL = tokTargetL + deltaX;
+    var tokT = tokTargetT + deltaY;
 
     // Container = bubble's offset parent
-    var cw = offsetParent.clientWidth;
-    var ch = offsetParent.clientHeight;
+    var cw = bblParent.clientWidth  || window.innerWidth;
+    var ch = bblParent.clientHeight || window.innerHeight;
     var padding = 8;
     var gap = 14;
 
-    // Room on each side of the token
+    // Room on each side of the token (in bubble parent space)
     var roomRight = cw - (tokL + tokW) - gap - padding;
     var roomLeft  = tokL - gap - padding;
     var roomAbove = tokT - gap - padding;
     var roomBelow = ch - (tokT + tokH) - gap - padding;
 
     var finalLeft, finalTop;
-    // Vertical centre aligned with the token's vertical centre
     var sameRowTop = tokT + tokH / 2 - bblH / 2;
 
     if (roomRight >= bblW) {
@@ -3306,7 +3322,6 @@
       finalLeft = tokL + tokW / 2 - bblW / 2;
       finalTop  = tokT - bblH - gap;
     } else {
-      // Tight — whichever side has more room beside the token
       finalLeft = (roomRight >= roomLeft)
         ? tokL + tokW + gap
         : tokL - bblW - gap;
@@ -3415,8 +3430,11 @@
   new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) {
       navEl.classList.add('show');
-      btnBack.disabled = (state === 0);
-      btnFwd.disabled = (state === 4 || state === 5);
+      // Both buttons stay enabled — Prev at state 0 walks back to
+      // Step 1; Next at any state walks forward (and at the end
+      // of Step 2 advances into Step 3).
+      btnBack.disabled = false;
+      btnFwd.disabled = false;
     }
   }, { threshold: 0.3 }).observe(document.getElementById('s3'));
 
