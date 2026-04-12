@@ -4007,17 +4007,17 @@
     } else if (idx === 1) {
       if (window.dropToTile7) window.dropToTile7();
       setBubbleContentTile7();
-      setInlineFcText('Only 1 Card In Hand, Tile Needs 2 — Drop!');
+      setInlineFcText('Only 1 Card In Hand, Tile Needs 2 — So Drop!');
       showInlineFc();
     } else if (idx === 2) {
       if (window.dropToTile3) window.dropToTile3();
       setBubbleContentTile3();
-      setInlineFcText('No Cards Left — Drop Again!');
+      setInlineFcText('You Don\u2019t Have Body Card — Drop!');
       showInlineFc();
     } else if (idx === 3) {
       if (window.dropToTile2) window.dropToTile2();
       setBubbleContentTile2();
-      setInlineFcText('No Cards Left — Drop Again!');
+      setInlineFcText('No Body Card. So Lose Next Turns');
       showInlineFc();
     }
 
@@ -4029,22 +4029,34 @@
   window.sciMaxScene = 3;
 
   // Auto-drop chain — kicks off after the user clicks the
-  // "Check Your Force Card" link in scene 0. Walks scene 1 → 2
-  // → 3 with comfortable pauses between each drop. Every step
-  // is scheduled via step3Schedule so a Prev / Next click (or
-  // a tab change) cancels every pending drop instantly.
+  // "Check Your Force Card" link in scene 0. Shows the inline
+  // force card AT tile 11 first (with a "No Earth Card" red
+  // label), pauses, then walks scene 1 → 2 → 3 with the red
+  // text updating per tile. Every step is scheduled via
+  // step3Schedule so Prev/Next or a tab change cancels every
+  // pending drop instantly.
   window.sciStartAutoDrops = function() {
-    // Enter scene 1 right away
-    sciShowScene(1);
-    // Then chain into scene 2 + 3
+    // ── Phase 0: reveal force card at tile 11 (token stays put) ──
+    setInlineFcText('You Have No Earth Card — So Drop To Tile 7');
+    showInlineFc();
+
+    // ── Phase 1: after a pause, drop to tile 7 ──
     step3Schedule(function(){
       if (window.s2ActiveTab !== 'science') return;
-      sciShowScene(2);
+      sciShowScene(1);
+
+      // ── Phase 2: drop to tile 3 ──
       step3Schedule(function(){
         if (window.s2ActiveTab !== 'science') return;
-        sciShowScene(3);
+        sciShowScene(2);
+
+        // ── Phase 3: drop to tile 2 ──
+        step3Schedule(function(){
+          if (window.s2ActiveTab !== 'science') return;
+          sciShowScene(3);
+        }, 4500);
       }, 4500);
-    }, 4500);
+    }, 3000);
   };
 
   // Step 3 entry: jumpToState4WithBubble already placed the token
