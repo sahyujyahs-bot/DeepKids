@@ -694,13 +694,21 @@
         } catch(e) { swooshReady = true; }
       })();
       // Resume AudioContext on ANY user gesture (autoplay policy).
-      // Scroll counts on some browsers; touch/click on all.
       function resumeSwooshCtx() {
         if (swooshCtx && swooshCtx.state === 'suspended') swooshCtx.resume();
       }
       ['pointerdown','touchstart','scroll','keydown','click'].forEach(function(evt) {
         document.addEventListener(evt, resumeSwooshCtx, { passive: true });
       });
+      // Trick: a tiny programmatic scroll may count as a gesture on
+      // some browsers, unlocking audio before the first rain.
+      setTimeout(function() {
+        if (window.scrollY === 0) {
+          window.scrollTo(0, 1);
+          requestAnimationFrame(function() { window.scrollTo(0, 0); });
+        }
+        resumeSwooshCtx();
+      }, 200);
       function playSwoosh() {
         if (!swooshBuffer || !swooshCtx) return;
         try {
@@ -1453,6 +1461,8 @@
     transition: transform 0.3s;
     min-width: 0;
     min-height: 0;
+    overflow: hidden;
+    border-radius: clamp(8px, 1.2vw, 14px);
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
   /* Fill the grid cell. object-fit:contain keeps the image aspect
@@ -1575,7 +1585,7 @@
       <div class="s2-pin-lbl">Force Cards &mdash; 13 Forces</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-large" style="grid-column:span 2;">
+    <div class="s2-pin-item s2-pin-chall">
       <img loading="lazy" src="IMG_5099.jpeg" alt="Force Card Back">
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
@@ -3129,16 +3139,20 @@
       var s3El2 = document.getElementById('s3');
       if (s3El2) s3El2.classList.remove('step3-view');
       window._step2ReachedViaPrev = true; // suppress auto-advance
+      if (window._step2AutoAdvance) clearTimeout(window._step2AutoAdvance);
+      // Hide bubble FIRST to prevent a flash at the old position
+      var bblPrev = document.getElementById('s2-comic-bubble');
+      if (bblPrev) { bblPrev.classList.remove('show'); bblPrev.style.transition = 'none'; }
       if (window.jumpToState4) window.jumpToState4();
-      // Show the bubble with Go To Next Step link
+      // After board settles, show bubble at the correct position
       setTimeout(function() {
-        var bbl = document.getElementById('s2-comic-bubble');
-        if (bbl && typeof window.setBubbleContentTile11Step2 === 'function') {
+        if (bblPrev && typeof window.setBubbleContentTile11Step2 === 'function') {
           window.setBubbleContentTile11Step2();
-          if (typeof positionBubbleAtToken === 'function') positionBubbleAtToken(bbl, false);
-          bbl.classList.add('show');
+          if (typeof positionBubbleAtToken === 'function') positionBubbleAtToken(bblPrev, false);
+          bblPrev.style.transition = '';
+          bblPrev.classList.add('show');
         }
-      }, 300);
+      }, 400);
       return;
     }
 
@@ -3496,7 +3510,9 @@
     void dice.offsetWidth;
     dice.style.transition = '';
     dice.classList.add('rolling');
-    playSound(sndDiceRoll, 0.5);
+    // Only play dice sound if the dice is actually being shown
+    // (not when skipping ahead via Next/Prev navigation)
+    if (diceWrap.classList.contains('show')) playSound(sndDiceRoll, 0.5);
     hint.style.opacity = '0';
     // Lock on face 1
     rollTimers.push(setTimeout(() => {
@@ -3550,15 +3566,16 @@
           bubble.classList.add('show');
         }
         // In the normal forward flow, auto-advance to Step 3 after
-        // 3 seconds so the user doesn't have to click Next manually.
-        // (When the user lands here via Prev from Step 3, we set a
-        // flag so this timer does NOT fire — they're browsing back.)
+        // 3 seconds. Use a standalone timer (NOT in rollTimers)
+        // so cancelBoardgameAnims doesn't kill it.
         window._step2ReachedViaPrev = false;
-        rollTimers.push(setTimeout(() => {
+        if (window._step2AutoAdvance) clearTimeout(window._step2AutoAdvance);
+        window._step2AutoAdvance = setTimeout(function() {
           if (state !== 4 || window._step2ReachedViaPrev) return;
+          if (window.s2ActiveTab !== 'boardgame') return;
           var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
           if (sciTab) { sciTab.classList.remove('locked'); sciTab.click(); }
-        }, 3000));
+        }, 3000);
       }, 5000));
     }, 2000));
   }
@@ -5513,8 +5530,9 @@
   color: rgba(255,255,255,0.45);
   letter-spacing: 2px;
   text-transform: uppercase;
-  margin-top: clamp(2px, 0.5vh, 6px);
+  margin-top: 0;
 }
+
 
 /* Side example tiles */
 .spiral-ex img {
