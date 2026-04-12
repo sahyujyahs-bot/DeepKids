@@ -1666,7 +1666,7 @@
   #s2-nav {
     position:absolute; bottom:clamp(8px,1.5vh,18px); left:50%;
     transform:translateX(-50%);
-    z-index:30; display:flex; gap:20px; align-items:center;
+    z-index:120; display:flex; gap:20px; align-items:center;
     opacity:0; transition:opacity .6s ease;
   }
   #s2-nav.show { opacity:1; }
@@ -3252,6 +3252,20 @@
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
+  /* Move astronaut back to tile 11 — used when navigating Prev
+     in Step 3 from scene 1 → scene 0. Mirrors the positioning
+     logic in jumpToState4WithBubble (with the blueExtra Y kick). */
+  window.dropToTile11 = function() {
+    var p11 = tilePos(TILE11_NX, TILE11_NY);
+    var sr = Math.max(18, cssW() * 0.032);
+    var sd = Math.max(18, cssH() * 0.042);
+    var blueExtra = Math.max(12, cssH() * 0.055);
+    tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
+    tokBlue.style.left = (p11.x + sr) + 'px';
+    tokBlue.style.top  = (p11.y + sd + blueExtra) + 'px';
+    setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
+  };
+
   window.dropToTile3 = function() {
     var p3 = tilePos(TILE3_NX, TILE3_NY);
     var sr = Math.max(18, cssW() * 0.032);
@@ -3901,23 +3915,23 @@
       }
       // action === 'check' (Step 3 scene 0): reveal the inline
       // force card on the right (laptop) / top (mobile) and
-      // advance to scene 1 (drop to tile 7). Does NOT open the
-      // big centered flippable overlay.
+      // start the auto-drop chain — walks tile 7 → 3 → 2
+      // automatically. Does NOT open the big centered flippable
+      // overlay (that's reserved for the title-row force-link).
       if (window.s2ActiveTab !== 'science') {
         var sciTabL2 = document.querySelector('.s2-tab[data-panel="science"]');
         if (sciTabL2) {
           sciTabL2.classList.remove('locked');
           sciTabL2.click();
-          // After the tab handler renders scene 0, advance to 1
           setTimeout(function(){
-            if (typeof window.sciShowScene === 'function') window.sciShowScene(1);
+            if (typeof window.sciStartAutoDrops === 'function') window.sciStartAutoDrops();
           }, 200);
         }
         return;
       }
-      // Already in Step 3 scene 0 — advance to scene 1
-      if (typeof window.sciShowScene === 'function') {
-        window.sciShowScene(1);
+      // Already in Step 3 scene 0 — kick off the auto-drop chain
+      if (typeof window.sciStartAutoDrops === 'function') {
+        window.sciStartAutoDrops();
       }
     });
   }
@@ -3942,18 +3956,25 @@
   }
   window.cleanupStep3 = cleanupStep3;
 
-  // Render Step 3 scene N — only triggers what changed for that scene.
-  // Scenes are user-driven via Prev/Next now, no auto-chained timers.
+  // Render Step 3 scene N — drives the token + bubble + inline FC
+  // for the current scene. Scenes can be advanced manually via
+  // Next/Prev OR auto-chained from sciStartAutoDrops().
+  // Inline force card is positioned ONCE on first show — after
+  // that it stays put while the token + bubble move down through
+  // the tiles, so it never gets clipped by the container.
+  var inlineFcPositioned = false;
   function showInlineFc() {
     var fcImg = document.getElementById('s2-inline-fc-img');
     var overlaySrc = forceOverlay.querySelector('.s2-force-card-face img');
     if (fcImg && overlaySrc) fcImg.src = overlaySrc.src;
     var inlineFc = document.getElementById('s2-inline-fc');
-    if (inlineFc) {
-      inlineFc.classList.add('step3-card');
-      inlineFc.classList.add('show');
+    if (!inlineFc) return;
+    inlineFc.classList.add('step3-card');
+    inlineFc.classList.add('show');
+    if (!inlineFcPositioned) {
+      if (window.positionInlineFc) window.positionInlineFc();
+      inlineFcPositioned = true;
     }
-    if (window.positionInlineFc) window.positionInlineFc();
   }
   function setInlineFcText(txt) {
     var t = document.getElementById('s2-inline-fc-text');
@@ -3961,25 +3982,28 @@
   }
 
   function sciShowScene(idx) {
+    // Cancel any pending auto-drops the moment the user navigates
+    // — clicking Next/Prev should always be authoritative.
+    clearStep3Timers();
     sciSceneIdx = idx;
     var bubble = document.getElementById('s2-comic-bubble');
     if (!bubble) return;
-    // Animate bubble + token together on every scene change after 0
-    if (idx > 0) {
-      bubble.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
-    } else {
-      bubble.style.transition = '';
-    }
+    // Bubble follows the token with the same 1.5 s transition.
+    bubble.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
 
     if (idx === 0) {
-      // Tile 11 — token already there from jumpToState4WithBubble
+      // Tile 11 — move the token back here whenever we land on
+      // scene 0 (so Prev from tile 7 actually returns the token).
+      if (window.dropToTile11) window.dropToTile11();
       setBubbleContentTile11();
-      // No inline FC, no auto drops — wait for user
+      // No inline FC at scene 0 — also forget any cached position
+      // so the next time the user reveals it the FC re-anchors.
       var inlineFc0 = document.getElementById('s2-inline-fc');
       if (inlineFc0) {
         inlineFc0.classList.remove('show');
         inlineFc0.classList.remove('step3-card');
       }
+      inlineFcPositioned = false;
     } else if (idx === 1) {
       if (window.dropToTile7) window.dropToTile7();
       setBubbleContentTile7();
@@ -4003,6 +4027,25 @@
   window.sciShowScene = sciShowScene;
   window.sciCurrentScene = function(){ return sciSceneIdx; };
   window.sciMaxScene = 3;
+
+  // Auto-drop chain — kicks off after the user clicks the
+  // "Check Your Force Card" link in scene 0. Walks scene 1 → 2
+  // → 3 with comfortable pauses between each drop. Every step
+  // is scheduled via step3Schedule so a Prev / Next click (or
+  // a tab change) cancels every pending drop instantly.
+  window.sciStartAutoDrops = function() {
+    // Enter scene 1 right away
+    sciShowScene(1);
+    // Then chain into scene 2 + 3
+    step3Schedule(function(){
+      if (window.s2ActiveTab !== 'science') return;
+      sciShowScene(2);
+      step3Schedule(function(){
+        if (window.s2ActiveTab !== 'science') return;
+        sciShowScene(3);
+      }, 4500);
+    }, 4500);
+  };
 
   // Step 3 entry: jumpToState4WithBubble already placed the token
   // at tile 11; we just show scene 0 (bubble + link, no drops).
