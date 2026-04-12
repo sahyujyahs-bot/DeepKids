@@ -2556,123 +2556,6 @@
   const btnFwd  = document.getElementById('s2-fwd');
   const s2El    = document.getElementById('s3');
 
-  /* ── How To Play sound effects (Web Audio, no files) ──────
-     Exposed as window.s2sfx so the physical-challenge code can
-     reuse the same audio context and helpers. */
-  if (!window.s2sfx) (function(){
-    var ctx = null, master = null, enabled = true;
-    function init(){
-      if (ctx) return ctx;
-      try {
-        ctx = new (window.AudioContext || window.webkitAudioContext)();
-        master = ctx.createGain();
-        master.gain.value = 0.35;
-        master.connect(ctx.destination);
-      } catch(e){ enabled = false; }
-      return ctx;
-    }
-    // Resume on first user gesture (browser autoplay policy)
-    function resume(){ if (ctx && ctx.state === 'suspended') ctx.resume(); }
-    document.addEventListener('click', function(){ init(); resume(); }, { passive: true, once: false });
-    document.addEventListener('touchstart', function(){ init(); resume(); }, { passive: true, once: false });
-
-    function tone(opts){
-      if (!enabled) return;
-      var c = init(); if (!c) return;
-      var o = c.createOscillator();
-      var g = c.createGain();
-      o.type = opts.type || 'sine';
-      var t0 = c.currentTime;
-      o.frequency.setValueAtTime(opts.f0 || 440, t0);
-      if (opts.f1 != null) o.frequency.exponentialRampToValueAtTime(Math.max(40, opts.f1), t0 + (opts.dur || 0.2));
-      g.gain.setValueAtTime(0.0001, t0);
-      g.gain.exponentialRampToValueAtTime(opts.vol || 0.18, t0 + 0.01);
-      g.gain.exponentialRampToValueAtTime(0.0001, t0 + (opts.dur || 0.2));
-      o.connect(g); g.connect(master);
-      o.start(t0); o.stop(t0 + (opts.dur || 0.2) + 0.02);
-    }
-    function noise(opts){
-      if (!enabled) return;
-      var c = init(); if (!c) return;
-      var dur = opts.dur || 0.2;
-      var buf = c.createBuffer(1, Math.floor(c.sampleRate * dur), c.sampleRate);
-      var data = buf.getChannelData(0);
-      for (var i=0;i<data.length;i++){
-        var env = 1 - i / data.length;
-        data[i] = (Math.random()*2 - 1) * env;
-      }
-      var src = c.createBufferSource();
-      src.buffer = buf;
-      var bp = c.createBiquadFilter();
-      bp.type = opts.filterType || 'bandpass';
-      bp.frequency.value = opts.freq || 1000;
-      bp.Q.value = opts.q || 1;
-      var g = c.createGain();
-      g.gain.value = opts.vol || 0.18;
-      src.connect(bp); bp.connect(g); g.connect(master);
-      src.start();
-    }
-
-    window.s2sfx = {
-      // Card flip / select — short paper-flick whoosh + soft click
-      cardFlip: function(){
-        noise({ dur: 0.18, freq: 2200, q: 0.6, vol: 0.12 });
-        setTimeout(function(){ tone({ type: 'sine', f0: 720, f1: 540, dur: 0.08, vol: 0.10 }); }, 120);
-      },
-      // Card pop / zoom up — soft bloop
-      cardPop: function(){
-        tone({ type: 'sine', f0: 380, f1: 760, dur: 0.18, vol: 0.14 });
-      },
-      // Whoosh — items begin to fall
-      whoosh: function(){
-        noise({ dur: 0.45, freq: 800, q: 0.7, vol: 0.18 });
-      },
-      // Soft thud — landing item
-      thud: function(){
-        tone({ type: 'sine', f0: 110, f1: 55, dur: 0.18, vol: 0.20 });
-        noise({ dur: 0.10, freq: 180, q: 1.5, vol: 0.10 });
-      },
-      // Force-card earned chime (3-note arpeggio)
-      chime: function(){
-        tone({ type: 'triangle', f0: 660, dur: 0.18, vol: 0.16 });
-        setTimeout(function(){ tone({ type: 'triangle', f0: 880, dur: 0.18, vol: 0.16 }); }, 120);
-        setTimeout(function(){ tone({ type: 'triangle', f0: 1175, dur: 0.32, vol: 0.18 }); }, 240);
-      },
-      // Dice rattle — 4 quick noise bursts
-      diceRoll: function(){
-        for (var i=0;i<5;i++){
-          (function(d){ setTimeout(function(){
-            noise({ dur: 0.07, freq: 1800 + Math.random()*1400, q: 1.2, vol: 0.14 });
-          }, d); })(i*120);
-        }
-      },
-      // Dice settles — single thud
-      diceSettle: function(){
-        tone({ type: 'sine', f0: 220, f1: 110, dur: 0.18, vol: 0.18 });
-      },
-      // Token sliding — gentle ramp tone
-      slide: function(){
-        tone({ type: 'sine', f0: 340, f1: 540, dur: 0.5, vol: 0.10 });
-      },
-      // Zoom in — rising sweep
-      zoomIn: function(){
-        tone({ type: 'sine', f0: 220, f1: 660, dur: 0.45, vol: 0.10 });
-      },
-      // Zoom out — falling sweep
-      zoomOut: function(){
-        tone({ type: 'sine', f0: 660, f1: 220, dur: 0.4, vol: 0.10 });
-      },
-      // Soft tab/button click
-      click: function(){
-        tone({ type: 'square', f0: 880, dur: 0.04, vol: 0.06 });
-      },
-      // Achievement / unlock
-      unlock: function(){
-        tone({ type: 'triangle', f0: 523, dur: 0.10, vol: 0.14 });
-        setTimeout(function(){ tone({ type: 'triangle', f0: 784, dur: 0.18, vol: 0.16 }); }, 90);
-      }
-    };
-  })();
   /* ── State ───────────────────────────────────────────────── */
   let state   = 0;    // 0=wide, 1=zooming, 2=ready, 3=rolling, 4=done, 5=tile11-zoom, 6=resetting
   let busy    = false;
@@ -2805,7 +2688,6 @@
 
   /* ── Zoom canvas into tile 11 — show upper-right quadrant ──────────── */
   function zoomIntoTile11() {
-    if (window.s2sfx) window.s2sfx.zoomIn();
     const startScale   = currentScale;
     const startFocusNX = curFocusNX;
     const startFocusNY = curFocusNY;
@@ -2875,7 +2757,6 @@
   function startZoom() {
     state = 1; busy = true;
     zoomStart = null;
-    if (window.s2sfx) window.s2sfx.zoomIn();
     // Show a walkthrough title explaining what's happening during the zoom.
     if (label) {
       label.innerHTML = '✦ &nbsp;Now, Roll Dice &amp; Move Your Token On The Board&nbsp; ✦';
@@ -2933,7 +2814,6 @@
   /* ── Reset zoom ─────────────────────────────────────────── */
   let resetRaf = null;
   function resetZoom() {
-    if (window.s2sfx) window.s2sfx.zoomOut();
     hideTokens();
     cancelAnimationFrame(zoomRaf); zoomRaf = null;
     cancelAnimationFrame(resetRaf); resetRaf = null;
@@ -3043,7 +2923,6 @@
        - Within a step, it still walks through that step's internal scenes
      Steps cycle: 1 ↔ 2 ↔ 3 ↔ 1 */
   window.s2GoBack = function() {
-    if (window.s2sfx) window.s2sfx.click();
 
     if (window.s2ActiveTab === 'physical') {
       // pcGoBack handles cross-step wrap (start of Step 1 → Step 3)
@@ -3103,7 +2982,6 @@
   };
 
   window.s2GoForward = function() {
-    if (window.s2sfx) window.s2sfx.click();
 
     if (window.s2ActiveTab === 'physical') {
       // pcGoForward handles cross-step wrap (end of Step 1 → Step 2)
@@ -3427,14 +3305,12 @@
     void dice.offsetWidth;
     dice.style.transition = '';
     dice.classList.add('rolling');
-    if (window.s2sfx) window.s2sfx.diceRoll();
     hint.style.opacity = '0';
     // Lock on face 1
     rollTimers.push(setTimeout(() => {
       if (state !== 3) return;
       dice.classList.remove('rolling');
       dice.style.transform = 'rotateX(720deg) rotateY(720deg)';
-      if (window.s2sfx) window.s2sfx.diceSettle();
     }, 1600));
     // Show result + slide tokBlue to tile 11
     rollTimers.push(setTimeout(() => {
@@ -3445,7 +3321,6 @@
         label.innerHTML = '✦ &nbsp;Your Token Moves 1 Tile Over To Tile 11&nbsp; ✦';
         label.style.opacity = '1';
       }
-      if (window.s2sfx) window.s2sfx.slide();
       const p11       = tilePos(TILE11_NX, TILE11_NY);
       const stepDown  = Math.max(18, cssH() * 0.042);
       const stepRight = Math.max(18, cssW() * 0.032);
@@ -3468,7 +3343,6 @@
         var step3Tab = document.querySelector('.s2-tab[data-panel="science"]');
         if (step3Tab && step3Tab.classList.contains('locked')) {
           step3Tab.classList.remove('locked');
-          if (window.s2sfx) window.s2sfx.unlock();
         }
         btnBack.disabled = false; btnFwd.disabled = false;
 
@@ -3544,7 +3418,6 @@
   tabs.forEach(function(tab){
     tab.addEventListener('click', function(){
       if (tab.classList.contains('locked')) return;
-      if (window.s2sfx) window.s2sfx.click();
       var target = tab.dataset.panel;
       // ALWAYS clean Step 3 leftovers AND any pending boardgame
       // (doRoll / auto-zoom) timers before switching tabs so
@@ -3658,7 +3531,6 @@
   function pickCard(el){
     if (selected) return;
     selected = el;
-    if (window.s2sfx) window.s2sfx.cardPop();
 
     var prompt = document.getElementById('s2-draw-prompt');
     if (prompt) prompt.classList.remove('show');
@@ -3676,7 +3548,6 @@
     // Step 2: flip after settling
     setTimeout(function(){
       el.classList.add('flipped');
-      if (window.s2sfx) window.s2sfx.cardFlip();
     }, 600);
     // Step 3: zoom up after flip completes — cap the scale so the
     // fully-zoomed card never overflows the s3 container on any
@@ -3697,7 +3568,6 @@
       var zoomScale = Math.min(desiredScale, maxScaleW, maxScaleH);
       el.style.transition = 'transform 0.6s cubic-bezier(.34,1.56,.64,1)';
       el.style.transform = 'translate(-50%,-50%) rotate(0deg) scale('+zoomScale+')';
-      if (window.s2sfx) window.s2sfx.zoomIn();
     }, 1400);
 
     // Step 3b: once the zoomed card has settled, show a brief
@@ -4205,7 +4075,6 @@
     setTimeout(function() {
       kidsHolding.style.opacity = '0';
       kidsEmpty.style.opacity = '1';
-      if (window.s2sfx) window.s2sfx.whoosh();
 
       items.forEach(function(item) { item.style.opacity = '1'; });
 
@@ -4230,9 +4099,7 @@
 
     // After items settle, show the force card link with animation
     setTimeout(function() {
-      if (window.s2sfx) window.s2sfx.thud();
       markForceEarned();
-      if (window.s2sfx) setTimeout(function(){ window.s2sfx.chime(); }, 200);
     }, 5500);
 
     // Auto-advance — but only after the user has idled for a few
@@ -4317,7 +4184,6 @@
         if (opts.bounce > 0 && vy > 18) {
           vy = -vy * opts.bounce;
           newY = maxY;
-          if (window.s2sfx) window.s2sfx.thud();
         } else {
           newY = maxY;
           landed = true;
