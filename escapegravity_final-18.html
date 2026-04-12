@@ -1909,6 +1909,22 @@
   }
   /* Hide the link in bubble states where it shouldn't appear */
   .s2-bubble-box.no-link .s2-bubble-link { display: none; }
+
+  /* On mobile the bubble sits to the LEFT of the token, so the
+     tail should point toward the right (toward the token) for
+     tiles 11, 7 and 3. Tile 2 keeps the default left tail. */
+  @media (max-width: 768px) {
+    .s2-bubble-box.tail-right::after {
+      left: auto !important;
+      right: 8%;
+      transform: rotate(-20deg) !important;
+    }
+    .s2-bubble-box.tail-right::before {
+      left: auto !important;
+      right: calc(8% - 2px);
+      transform: rotate(-20deg) !important;
+    }
+  }
 </style>
 
 <section id="s3">
@@ -4025,6 +4041,23 @@
     }
 
     positionBubbleAtToken(bubble, idx > 0);
+
+    // On bigger screens + tile 2 only, nudge the bubble up a bit
+    // more so it doesn't crowd the bottom nav / token area.
+    if (idx === 3 && window.innerWidth > 768) {
+      var curTop = parseFloat(bubble.style.top) || 0;
+      bubble.style.top = Math.max(4, curTop - 60) + 'px';
+    }
+
+    // On mobile for tiles 11, 7 & 3 the bubble sits LEFT of the
+    // token, so flip the tail arrow to the right side so it points
+    // toward the token. Tile 2 keeps the default left tail.
+    var box = bubble.querySelector('.s2-bubble-box');
+    if (box) {
+      var mobileTailRight = (window.innerWidth <= 768) && (idx < 3);
+      box.classList.toggle('tail-right', mobileTailRight);
+    }
+
     bubble.classList.add('show');
   }
   window.sciShowScene = sciShowScene;
