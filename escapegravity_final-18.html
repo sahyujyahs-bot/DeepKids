@@ -3086,16 +3086,17 @@
       return;
     }
     if (state === 2) {
-      jumpToState4();
+      // Trigger the actual dice roll — animates, unlocks Step 3
+      // tab and auto-advances to Step 3 when complete.
+      doRoll();
       return;
     }
     // state 3 / 4 / 5 → end of Step 2, advance to Step 3
     if (state === 3 || state === 4 || state === 5) {
       var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
-      if (sciTab && !sciTab.classList.contains('locked')) {
+      if (sciTab) {
+        sciTab.classList.remove('locked');
         sciTab.click();
-      } else {
-        jumpToState0();
       }
       return;
     }
@@ -3400,35 +3401,12 @@
           if (window.s2sfx) window.s2sfx.unlock();
         }
         btnBack.disabled = false; btnFwd.disabled = false;
-
-        if (window.forceEarned) {
-          // Force card already earned — auto-advance to Step 3
-          rollTimers.push(setTimeout(() => {
-            var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
-            if (sciTab) sciTab.click();
-          }, 1500));
-        } else {
-          // No force card yet — show "earn a force card" bubble
-          var bubble = document.getElementById('s2-comic-bubble');
-          if (!bubble) return;
-          var tokRect = tokBlue.getBoundingClientRect();
-          var brRect = document.getElementById('s2-board-row').getBoundingClientRect();
-          var tokX = tokRect.left - brRect.left + tokRect.width;
-          var tokY = tokRect.top - brRect.top + tokRect.height * 0.3;
-          var bubbleW = bubble.offsetWidth || 250;
-          var mobileOff = window.innerWidth < 768 ? -25 : 105;
-          var bx = Math.max(8, Math.min(tokX - 30, brRect.width - bubbleW - 8));
-          var by = Math.max(5, tokY + mobileOff);
-          bubble.style.left = bx + 'px';
-          bubble.style.top = by + 'px';
-          if (window.updateBubbleLink) window.updateBubbleLink();
-          bubble.classList.add('show');
-          // Auto-advance to Step 3 after showing bubble
-          rollTimers.push(setTimeout(() => {
-            var sciTab2 = document.querySelector('.s2-tab[data-panel="science"]');
-            if (sciTab2) { sciTab2.classList.remove('locked'); sciTab2.click(); }
-          }, 5000));
-        }
+        // Auto-advance to Step 3 after a short pause. The bubble +
+        // drop animation belong to Step 3, so we don't show them here.
+        rollTimers.push(setTimeout(() => {
+          var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
+          if (sciTab) { sciTab.classList.remove('locked'); sciTab.click(); }
+        }, 1500));
       }, 5000));
     }, 2000));
   }
@@ -3512,8 +3490,15 @@
         if (bgPanel) bgPanel.classList.add('active');
         setBoardElementsVisible(true);
         s2Nav.style.display = '';
-        // Jump to tile-11 zoomed state and show bubble
+        // Jump to tile-11 zoomed state, then auto-run the inline
+        // force-card / drop sequence so the bubble shows + the
+        // token drops through tiles 11 → 7 → 3 → 2 right inside
+        // Step 3 (no need to click anything).
         if (window.jumpToState4WithBubble) window.jumpToState4WithBubble();
+        setTimeout(function(){
+          if (window.s2ActiveTab !== 'science') return;
+          if (typeof window.runStep3Drops === 'function') window.runStep3Drops();
+        }, 1500);
       } else {
         s2Nav.style.display = 'none';
         window.s2ActiveTab = target;
@@ -3753,6 +3738,9 @@
     box.innerHTML = html;
     box.classList.toggle('no-link', !withLink);
   }
+
+  // Expose so the science-tab click can run the drop sequence directly
+  window.runStep3Drops = function() { showForceCardInline(); };
 
   function showForceCardInline() {
     forceLink.classList.remove('pulse');
