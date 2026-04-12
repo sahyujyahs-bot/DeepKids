@@ -3337,10 +3337,13 @@
     var roomBelow = ch - (tokT + tokH) - gap - padding;
 
     var finalLeft, finalTop;
-    // Anchor the bubble's top edge well ABOVE the token's top
-    // (60% of the bubble height) so it sits clearly up-and-right
-    // against the token, hugging its top corner.
-    var sameRowTop = tokT - bblH * 0.6;
+    // On mobile the bubble usually lands LEFT of the token (no room
+    // on the right). Shift it further UP so it doesn't hide the tile
+    // the token is sitting on. On desktop, a gentler lift is enough.
+    var isMobile = window.innerWidth <= 768;
+    var sameRowTop = isMobile
+      ? (tokT - bblH * 1.3)   // well above the token on mobile
+      : (tokT - bblH * 0.6);  // slight lift on desktop
 
     if (roomRight >= bblW) {
       finalLeft = tokL + tokW + gap;
