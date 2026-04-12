@@ -659,6 +659,21 @@
         } catch(e){}
       }
 
+      const thudTemplate = new Audio('impact thud sound.wav');
+      thudTemplate.preload = 'auto';
+      let lastThudAt = 0;
+      function playThud() {
+        const now = performance.now();
+        if (now - lastThudAt < 90) return; // debounce cluster
+        lastThudAt = now;
+        try {
+          const s = thudTemplate.cloneNode();
+          s.volume = 0.3 + Math.random() * 0.15;
+          s.playbackRate = 0.85 + Math.random() * 0.3;
+          s.play().catch(function(){});
+        } catch(e){}
+      }
+
       function rebuildWalls() {
         if (walls.length) World.remove(world, walls);
         const tk = 80;
@@ -862,6 +877,25 @@
         Events.on(mc, 'enddrag', () => { cv.style.cursor = 'grab'; });
 
         Runner.run(Runner.create(), engine);
+
+        /* ── Ground-hit thud for every rain card ──────────────── */
+        Events.on(engine, 'collisionStart', function(evt) {
+          const ground = walls[0];
+          if (!ground) return;
+          for (let i = 0; i < evt.pairs.length; i++) {
+            const p = evt.pairs[i];
+            const cardBody = (p.bodyA === ground) ? p.bodyB :
+                             (p.bodyB === ground) ? p.bodyA : null;
+            if (!cardBody || cardBody.isStatic) continue;
+            const isCard = physEntries.some(en => en.body === cardBody);
+            if (!isCard) continue;
+            const speed = Math.abs(cardBody.velocity.y) + Math.abs(cardBody.velocity.x);
+            if (speed < 1.5) continue;
+            playThud();
+            break;
+          }
+        });
+
         initFloaters();
         spawnRain();   /* ← first rain */
         loop();
