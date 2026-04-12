@@ -2804,9 +2804,24 @@
   }
 
   /* ── Start zoom animation ───────────────────────────────── */
+  /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
+  var spinSound = new Audio('spin sound.wav');
+  spinSound.preload = 'auto';
+  function playSpinSound() {
+    try {
+      spinSound.currentTime = 0;
+      spinSound.volume = 0.45;
+      spinSound.play().catch(function(){});
+    } catch(e){}
+  }
+  function stopSpinSound() {
+    try { spinSound.pause(); spinSound.currentTime = 0; } catch(e){}
+  }
+
   function startZoom() {
     state = 1; busy = true;
     zoomStart = null;
+    playSpinSound();
     // Show a walkthrough title explaining what's happening during the zoom.
     if (label) {
       label.innerHTML = '✦ &nbsp;Now, Roll Dice &amp; Move Your Token On The Board&nbsp; ✦';
@@ -2959,6 +2974,7 @@
     cancelAnimationFrame(tile11Raf); tile11Raf = null;
     clearTimeout(autoStartTimer);
     clearRollTimers();
+    stopSpinSound();
   }
   // Expose so the tab handler can cancel doRoll's pending
   // auto-advance timer when the user manually switches tabs.
