@@ -1,0 +1,23 @@
+.section {
+  padding: clamp(50px,7vh,90px) 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.section::before {
+  content: '';
+  position: absolute; top: 0; left: 10%; right: 10%; height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(156,188,20,0.2), transparent);
+}
+.title {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(26px, 4.5vw, 54px);
+  color: #fff;
+  text-shadow: 0 0 30px rgba(156,188,20,0.5);
+}
+.sub {
+  color: rgba(255,255,255,0.4);
+  margin-top: 16px;
+  font-size: 18px;
+}

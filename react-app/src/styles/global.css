@@ -1,0 +1,47 @@
+@import './fonts.css';
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { height: 100%; }
+
+body {
+  height: 100%; overflow-y: auto; color: #fff;
+  background-color: #1a0821;
+  background-image:
+    radial-gradient(circle at 15% 10%, rgba(120,40,130,0.35), transparent 55%),
+    radial-gradient(circle at 85% 85%, rgba(70,20,90,0.45), transparent 60%),
+    radial-gradient(circle at 50% 50%, rgba(40,10,55,0.35), transparent 70%),
+    radial-gradient(2px 2px at 10% 15%, rgba(255,255,255,.85), transparent),
+    radial-gradient(2.2px 2.2px at 40% 8%, rgba(255,255,255,.9), transparent),
+    radial-gradient(1.8px 1.8px at 70% 22%, rgba(255,255,255,.8), transparent),
+    radial-gradient(2px 2px at 85% 55%, rgba(255,255,255,.85), transparent),
+    radial-gradient(2.5px 2.5px at 92% 12%, rgba(255,255,255,.75), transparent),
+    radial-gradient(2px 2px at 5% 92%, rgba(255,255,255,.8), transparent),
+    radial-gradient(1.8px 1.8px at 52% 68%, rgba(255,255,255,.7), transparent),
+    radial-gradient(2.2px 2.2px at 33% 45%, rgba(255,255,255,.85), transparent),
+    radial-gradient(1.4px 1.4px at 25% 35%, rgba(255,255,255,.6), transparent),
+    radial-gradient(1.5px 1.5px at 55% 42%, rgba(255,255,255,.55), transparent),
+    radial-gradient(1.3px 1.3px at 78% 72%, rgba(255,255,255,.5), transparent),
+    radial-gradient(1.4px 1.4px at 20% 48%, rgba(255,255,255,.55), transparent),
+    radial-gradient(1.5px 1.5px at 65% 5%, rgba(255,255,255,.5), transparent),
+    radial-gradient(1.3px 1.3px at 88% 38%, rgba(255,255,255,.6), transparent),
+    radial-gradient(1.4px 1.4px at 42% 82%, rgba(255,255,255,.5), transparent),
+    radial-gradient(1.5px 1.5px at 3% 58%, rgba(255,255,255,.55), transparent),
+    radial-gradient(1px 1px at 15% 65%, rgba(255,255,255,.35), transparent),
+    radial-gradient(1px 1px at 48% 25%, rgba(255,255,255,.3), transparent),
+    radial-gradient(0.8px 0.8px at 60% 88%, rgba(255,255,255,.28), transparent),
+    radial-gradient(1px 1px at 95% 85%, rgba(255,255,255,.3), transparent),
+    radial-gradient(0.8px 0.8px at 30% 95%, rgba(255,255,255,.25), transparent),
+    radial-gradient(1px 1px at 75% 48%, rgba(255,255,255,.32), transparent),
+    radial-gradient(0.8px 0.8px at 12% 82%, rgba(255,255,255,.28), transparent),
+    radial-gradient(1px 1px at 58% 15%, rgba(255,255,255,.3), transparent),
+    radial-gradient(1.2px 1.2px at 38% 62%, rgba(220,160,230,.3), transparent),
+    radial-gradient(1px 1px at 82% 28%, rgba(230,170,220,.25), transparent),
+    radial-gradient(1.3px 1.3px at 18% 38%, rgba(210,150,200,.28), transparent),
+    radial-gradient(1px 1px at 68% 75%, rgba(220,160,210,.22), transparent);
+  background-attachment: fixed;
+  font-family: 'Pompiere', sans-serif;
+}
+
+/* Hide scrollbars on horizontal scroll rows */
+.hide-scrollbar::-webkit-scrollbar { display: none; height: 0; width: 0; }
+.hide-scrollbar { scrollbar-width: none; -ms-overflow-style: none; }
