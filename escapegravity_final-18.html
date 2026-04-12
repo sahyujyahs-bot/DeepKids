@@ -3312,9 +3312,9 @@
     var cw = bblParent.clientWidth  || window.innerWidth;
     var ch = bblParent.clientHeight || window.innerHeight;
     var padding = 4;
-    // The bubble actually OVERLAPS the token slightly (negative gap)
-    // so it sits flush against the token's left/right edge.
-    var gap = -8;
+    // The bubble OVERLAPS the token by a chunk on the chosen side
+    // so the bubble's edge sits noticeably inside the token's edge.
+    var gap = -28;
 
     // Room on each side of the token (in bubble parent space)
     var roomRight = cw - (tokL + tokW) - gap - padding;
@@ -3324,9 +3324,9 @@
 
     var finalLeft, finalTop;
     // Anchor the bubble's top edge well ABOVE the token's top
-    // (40% of the bubble height) so it sits up-and-right against
-    // the token rather than mid-height beside it.
-    var sameRowTop = tokT - bblH * 0.4;
+    // (60% of the bubble height) so it sits clearly up-and-right
+    // against the token, hugging its top corner.
+    var sameRowTop = tokT - bblH * 0.6;
 
     if (roomRight >= bblW) {
       finalLeft = tokL + tokW + gap;
@@ -3437,14 +3437,13 @@
         btnBack.disabled = false; btnFwd.disabled = false;
 
         // Step 2 last scene: show the comic bubble next to the
-        // token at tile 11 with the "Check Your Force Card" link.
+        // token at tile 11 with a "Go To Next Step" link.
         // The user reads it, then either clicks Next to advance
-        // to Step 3, or clicks the link itself to open the force
-        // card overlay AND jump into Step 3.
+        // to Step 3, or clicks the link to jump into Step 3.
         var bubble = document.getElementById('s2-comic-bubble');
         if (bubble) {
-          if (typeof window.setBubbleContentTile11 === 'function') {
-            window.setBubbleContentTile11();
+          if (typeof window.setBubbleContentTile11Step2 === 'function') {
+            window.setBubbleContentTile11Step2();
           }
           positionBubbleAtToken(bubble, false);
           bubble.classList.add('show');
@@ -3516,6 +3515,12 @@
       // nothing can bleed into the next tab.
       if (typeof window.cleanupStep3 === 'function') window.cleanupStep3();
       if (typeof window.cancelBoardgameAnims === 'function') window.cancelBoardgameAnims();
+      // Hide the Step-1 drop scene the moment we leave the physical
+      // tab — otherwise its in-flight maybeAdvance timer can fire
+      // later and click bgTab/sciTab on top of whatever the user is
+      // viewing now.
+      var dropScene = document.getElementById('s2-drop-scene');
+      if (dropScene && target !== 'physical') dropScene.classList.remove('active');
       tabs.forEach(function(t){ t.classList.remove('active'); });
       panels.forEach(function(p){ p.classList.remove('active'); });
       tab.classList.add('active');
@@ -3821,13 +3826,27 @@
   var ICON_BODY  = '<img class="s2-bubble-icon" src="IMG_4705.png" alt="Body">';
   var ICON_TWO   = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.png" alt="Any 2 Cards">';
 
+  // Step 3 scene 0: bubble + "Check Your Force Card" link.
+  // Clicking the link reveals the inline force card and advances.
   function setBubbleContentTile11(){
     setBubbleContent(
       'If you have an<br>' +
       '<span class="s2-bubble-highlight">' + ICON_EARTH + ' Earth Force Card</span><br>' +
       'you can play it…<br>' +
       'or you <span class="s2-bubble-highlight">fall down!</span><br>' +
-      '<a class="s2-bubble-link" id="s2-bubble-fc-link">Check Your Force Card</a>',
+      '<a class="s2-bubble-link" id="s2-bubble-fc-link" data-bubble-action="check">Check Your Force Card</a>',
+      true
+    );
+  }
+  // Step 2 last scene: same body copy but the link reads
+  // "Go To Next Step →" and just advances to Step 3 scene 0.
+  function setBubbleContentTile11Step2(){
+    setBubbleContent(
+      'If you have an<br>' +
+      '<span class="s2-bubble-highlight">' + ICON_EARTH + ' Earth Force Card</span><br>' +
+      'you can play it…<br>' +
+      'or you <span class="s2-bubble-highlight">fall down!</span><br>' +
+      '<a class="s2-bubble-link" id="s2-bubble-fc-link" data-bubble-action="next-step">Go To Next Step</a>',
       true
     );
   }
@@ -3858,6 +3877,7 @@
     );
   }
   window.setBubbleContentTile11 = setBubbleContentTile11;
+  window.setBubbleContentTile11Step2 = setBubbleContentTile11Step2;
 
   // Bubble link click — uses event delegation on the bubble container
   // so it survives every setBubbleContent() call (which replaces the
@@ -3869,19 +3889,35 @@
       if (!link) return;
       e.preventDefault();
       e.stopPropagation();
-      // Open the full-screen flippable force card overlay AND make
-      // sure we're on the Step 3 tab (if the user clicked the link
-      // while still in Step 2's last scene, this advances them).
-      if (window.s2ActiveTab !== 'science') {
+      var action = link.getAttribute('data-bubble-action') || 'check';
+      if (action === 'next-step') {
+        // Step 2 last scene → advance into Step 3 scene 0
         var sciTabL = document.querySelector('.s2-tab[data-panel="science"]');
         if (sciTabL) {
           sciTabL.classList.remove('locked');
           sciTabL.click();
         }
+        return;
       }
-      if (typeof window.openForceCardOverlay === 'function') {
-        // Slight delay so the Step 3 tab fully renders first
-        setTimeout(window.openForceCardOverlay, 250);
+      // action === 'check' (Step 3 scene 0): reveal the inline
+      // force card on the right (laptop) / top (mobile) and
+      // advance to scene 1 (drop to tile 7). Does NOT open the
+      // big centered flippable overlay.
+      if (window.s2ActiveTab !== 'science') {
+        var sciTabL2 = document.querySelector('.s2-tab[data-panel="science"]');
+        if (sciTabL2) {
+          sciTabL2.classList.remove('locked');
+          sciTabL2.click();
+          // After the tab handler renders scene 0, advance to 1
+          setTimeout(function(){
+            if (typeof window.sciShowScene === 'function') window.sciShowScene(1);
+          }, 200);
+        }
+        return;
+      }
+      // Already in Step 3 scene 0 — advance to scene 1
+      if (typeof window.sciShowScene === 'function') {
+        window.sciShowScene(1);
       }
     });
   }
@@ -4106,6 +4142,10 @@
     var IDLE_BEFORE_LEAVE_MS = 5500; // stay 5.5s after last interaction
     var sceneStart = performance.now();
     function maybeAdvance() {
+      // Bail out if the user has manually navigated away — this was
+      // the bug that bounced the user back to Step 2 start when the
+      // Step-1 advance timer fired minutes later from another tab.
+      if (window.s2ActiveTab && window.s2ActiveTab !== 'physical') return;
       if (!scene.classList.contains('active')) return;
       var now = performance.now();
       var elapsed = now - sceneStart;
