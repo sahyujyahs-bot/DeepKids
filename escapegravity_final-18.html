@@ -658,7 +658,6 @@
          playback after a user gesture. */
       let swooshBuffer = null;
       let swooshCtx = null;
-      let swooshReady = false;
       (function preloadSwoosh() {
         try {
           swooshCtx = new (window.AudioContext || window.webkitAudioContext)();
@@ -669,46 +668,22 @@
             if (xhr.status === 200) {
               swooshCtx.decodeAudioData(xhr.response, function(buf) {
                 swooshBuffer = buf;
-                swooshReady = true;
-                // If images finished loading before the sound was
-                // decoded, spawnAll is waiting — trigger it now.
-                if (window._heroImagesReady && !window._heroSpawned) {
-                  window._heroSpawned = true;
-                  spawnAll();
-                }
               });
             }
           };
           xhr.send();
-          // If the sound fails to load after 3s, don't block the
-          // hero animation — just start without sound.
-          setTimeout(function() {
-            if (!swooshReady) {
-              swooshReady = true;
-              if (window._heroImagesReady && !window._heroSpawned) {
-                window._heroSpawned = true;
-                spawnAll();
-              }
-            }
-          }, 3000);
-        } catch(e) { swooshReady = true; }
+        } catch(e) {}
       })();
       // Resume AudioContext on ANY user gesture (autoplay policy).
       function resumeSwooshCtx() {
         if (swooshCtx && swooshCtx.state === 'suspended') swooshCtx.resume();
       }
-      ['pointerdown','touchstart','scroll','keydown','click'].forEach(function(evt) {
+      ['pointerdown','touchstart','keydown','click'].forEach(function(evt) {
         document.addEventListener(evt, resumeSwooshCtx, { passive: true });
       });
-      // Trick: a tiny programmatic scroll may count as a gesture on
-      // some browsers, unlocking audio before the first rain.
-      setTimeout(function() {
-        if (window.scrollY === 0) {
-          window.scrollTo(0, 1);
-          requestAnimationFrame(function() { window.scrollTo(0, 0); });
-        }
-        resumeSwooshCtx();
-      }, 200);
+      // NOTE: first-load rain will be silent (browser autoplay policy
+      // blocks audio before user interaction). The redo button and all
+      // subsequent rains play with sound because the user has interacted.
       function playSwoosh() {
         if (!swooshBuffer || !swooshCtx) return;
         try {
@@ -754,9 +729,10 @@
         img.src     = CARDS[k].src;
       });
       function onImagesReady() {
-        window._heroImagesReady = true;
-        // Only spawn once both images AND the swoosh sound are decoded
-        if (swooshReady && !window._heroSpawned) {
+        // Start the rain as soon as images are loaded — don't wait
+        // for the swoosh decode (first-load rain is silent anyway
+        // due to browser autoplay policy; redo plays with sound).
+        if (!window._heroSpawned) {
           window._heroSpawned = true;
           spawnAll();
         }
@@ -1450,8 +1426,8 @@
     box-sizing: border-box;
   }
   .s2-pin-item {
-    background: none;
-    border: none;
+    background: rgba(18,10,38,0.35);
+    border: 1px solid rgba(156,188,20,0.08);
     padding: 0;
     margin: 0;
     display: flex;
@@ -1462,7 +1438,7 @@
     min-width: 0;
     min-height: 0;
     overflow: hidden;
-    border-radius: clamp(8px, 1.2vw, 14px);
+    border-radius: clamp(10px, 1.5vw, 16px);
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
   /* Fill the grid cell. object-fit:contain keeps the image aspect
@@ -3138,8 +3114,9 @@
       window.s2ActiveTab = 'boardgame';
       var s3El2 = document.getElementById('s3');
       if (s3El2) s3El2.classList.remove('step3-view');
-      window._step2ReachedViaPrev = true; // suppress auto-advance
-      if (window._step2AutoAdvance) clearTimeout(window._step2AutoAdvance);
+      // Cancel any pending auto-advance so it doesn't fire while
+      // the user is browsing backward.
+      if (window._step2AutoAdvance) { clearTimeout(window._step2AutoAdvance); window._step2AutoAdvance = null; }
       // Hide bubble FIRST to prevent a flash at the old position
       var bblPrev = document.getElementById('s2-comic-bubble');
       if (bblPrev) { bblPrev.classList.remove('show'); bblPrev.style.transition = 'none'; }
@@ -3565,17 +3542,17 @@
           positionBubbleAtToken(bubble, false);
           bubble.classList.add('show');
         }
-        // In the normal forward flow, auto-advance to Step 3 after
-        // 3 seconds. Use a standalone timer (NOT in rollTimers)
-        // so cancelBoardgameAnims doesn't kill it.
-        window._step2ReachedViaPrev = false;
+        // Auto-advance to Step 3 after 3 seconds in normal forward
+        // flow. Uses a global timer ID so the Prev path can cancel it.
         if (window._step2AutoAdvance) clearTimeout(window._step2AutoAdvance);
         window._step2AutoAdvance = setTimeout(function() {
-          if (state !== 4 || window._step2ReachedViaPrev) return;
+          window._step2AutoAdvance = null;
+          // Only fire if user is STILL on Step 2 state 4
+          if (state !== 4) return;
           if (window.s2ActiveTab !== 'boardgame') return;
           var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
           if (sciTab) { sciTab.classList.remove('locked'); sciTab.click(); }
-        }, 3000);
+        }, 3500);
       }, 5000));
     }, 2000));
   }
@@ -5391,7 +5368,7 @@
       <div class="spiral-ex"><img loading="lazy" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
     </div>
     <div class="spiral-wrap">
-      <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
+      <img id="spiral-board" class="spiral-img" loading="lazy" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
     <div class="spiral-side">
@@ -5527,10 +5504,12 @@
 .spiral-hint {
   font-family: 'Pompiere', sans-serif;
   font-size: clamp(12px, 1.2vw, 15px);
-  color: rgba(255,255,255,0.45);
+  color: rgba(255,255,255,0.5);
   letter-spacing: 2px;
   text-transform: uppercase;
-  margin-top: 0;
+  margin-top: -8px;
+  position: relative;
+  z-index: 5;
 }
 
 
@@ -7085,15 +7064,50 @@
   'use strict';
 
   /* ── Global button click sound ─────────────────────────────
-     Plays the user-provided WAV on every button, .btn-wrap,
-     .dk-btn-host, .s2-tab, .s2-arrow, .eg-nav-cta, and anchor
-     click across the page. Uses event delegation on document so
-     dynamically created buttons are covered too. */
+     Regular click sound for tabs, arrows, quiz buttons, etc.
+     CTA buttons (Pre-Order, Sign Up, Count Me In) get a special
+     celebratory chime instead. */
   var btnClickSound = new Audio('button click sound.wav');
   btnClickSound.preload = 'auto';
+
+  // Celebratory chime for CTA buttons (Web Audio — rising arpeggio)
+  var ctaAudioCtx = null;
+  function playCtaChime() {
+    try {
+      if (!ctaAudioCtx) ctaAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      if (ctaAudioCtx.state === 'suspended') ctaAudioCtx.resume();
+      var notes = [523, 659, 784, 1047]; // C5 E5 G5 C6
+      var t0 = ctaAudioCtx.currentTime;
+      notes.forEach(function(freq, i) {
+        var osc = ctaAudioCtx.createOscillator();
+        var gain = ctaAudioCtx.createGain();
+        osc.type = 'triangle';
+        osc.frequency.value = freq;
+        gain.gain.setValueAtTime(0.0001, t0 + i * 0.09);
+        gain.gain.exponentialRampToValueAtTime(0.15, t0 + i * 0.09 + 0.02);
+        gain.gain.exponentialRampToValueAtTime(0.0001, t0 + i * 0.09 + 0.35);
+        osc.connect(gain);
+        gain.connect(ctaAudioCtx.destination);
+        osc.start(t0 + i * 0.09);
+        osc.stop(t0 + i * 0.09 + 0.4);
+      });
+    } catch(e) {}
+  }
+
+  // CTA selectors — Pre-Order, Sign Up, Count Me In, Notify
+  var CTA_SEL = '.btn-wrap[onclick*="doPreOrder"], .eg-mobile-preorder-btn, .eg-nav-cta, .po-submit';
+  // All other interactive elements
+  var BTN_SEL = 'button, .btn-wrap, .dk-btn-host, .s2-tab, .s2-arrow, .s2-bubble-link, .quiz-start-btn, .quiz-opt, .quiz-next, .quiz-restart, [data-dk-btn]';
+
   document.addEventListener('click', function(e) {
     var t = e.target;
-    if (t.closest('button, .btn-wrap, .dk-btn-host, .eg-mobile-preorder-btn, .eg-nav-cta, .s2-tab, .s2-arrow, .s2-bubble-link, .quiz-start-btn, .quiz-opt, .quiz-next, .quiz-restart, .po-submit, [data-dk-btn]')) {
+    // CTA buttons get the celebratory chime
+    if (t.closest(CTA_SEL)) {
+      playCtaChime();
+      return;
+    }
+    // Everything else gets the standard click sound
+    if (t.closest(BTN_SEL)) {
       try {
         var s = btnClickSound.cloneNode();
         s.volume = 0.4;
