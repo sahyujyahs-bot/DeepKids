@@ -2565,6 +2565,19 @@
   const dice    = document.getElementById('s2-dice');
   const tokBlue = document.getElementById('s2-tok-blue');
   const tokRed  = document.getElementById('s2-tok-red');
+
+  /* ── How To Play sound effects (file-based) ──────────────── */
+  var sndCardScroll  = new Audio('cardsscrollsound.wav');  sndCardScroll.preload = 'auto';
+  var sndCardFlip    = new Audio('cardflip sound.wav');     sndCardFlip.preload = 'auto';
+  var sndDiceRoll    = new Audio('click sounds.wav');       sndDiceRoll.preload = 'auto';
+  var sndTokenMove11 = new Audio('token move to tile 11.wav'); sndTokenMove11.preload = 'auto';
+  var sndTokenDrop   = new Audio('token drops to tiles 7,3,2.wav'); sndTokenDrop.preload = 'auto';
+  function playSound(snd, vol) {
+    try { snd.currentTime = 0; snd.volume = vol || 0.45; snd.play().catch(function(){}); } catch(e){}
+  }
+  function stopSound(snd) {
+    try { snd.pause(); snd.currentTime = 0; } catch(e){}
+  }
   const hint    = document.getElementById('s2-hint');
   const result  = document.getElementById('s2-result');
   const navEl   = document.getElementById('s2-nav');
@@ -2941,6 +2954,9 @@
     clearTimeout(autoStartTimer);
     clearRollTimers();
     stopSpinSound();
+    stopSound(sndDiceRoll);
+    stopSound(sndTokenMove11);
+    stopSound(sndTokenDrop);
   }
   // Expose so the tab handler can cancel doRoll's pending
   // auto-advance timer when the user manually switches tabs.
@@ -3178,6 +3194,7 @@
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.left = (p7.x + sr) + 'px';
     tokBlue.style.top  = (p7.y + sd) + 'px';
+    playSound(sndTokenDrop, 0.5);
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
@@ -3202,6 +3219,7 @@
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.left = (p3.x + sr) + 'px';
     tokBlue.style.top  = (p3.y + sd) + 'px';
+    playSound(sndTokenDrop, 0.5);
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
@@ -3212,6 +3230,7 @@
     tokBlue.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
     tokBlue.style.left = (p2.x + sr) + 'px';
     tokBlue.style.top  = (p2.y + sd) + 'px';
+    playSound(sndTokenDrop, 0.5);
     setTimeout(function() { tokBlue.style.transition = ''; }, 1700);
   };
 
@@ -3337,6 +3356,7 @@
     void dice.offsetWidth;
     dice.style.transition = '';
     dice.classList.add('rolling');
+    playSound(sndDiceRoll, 0.5);
     hint.style.opacity = '0';
     // Lock on face 1
     rollTimers.push(setTimeout(() => {
@@ -3349,6 +3369,7 @@
       if (state !== 3) return;
       diceWrap.classList.add('hide');
       result.classList.add('show');
+      playSound(sndTokenMove11, 0.5);
       if (label) {
         label.innerHTML = '✦ &nbsp;Your Token Moves 1 Tile Over To Tile 11&nbsp; ✦';
         label.style.opacity = '1';
@@ -3557,6 +3578,19 @@
       card.addEventListener('click', function(){ pickCard(this); });
       fan.appendChild(card);
     }
+    // Card scroll sound — plays once when user hovers/touches
+    // across the fan of cards (not on every single card hover).
+    var scrollSoundPlaying = false;
+    fan.addEventListener('pointerenter', function() {
+      if (!scrollSoundPlaying && !selected) {
+        scrollSoundPlaying = true;
+        playSound(sndCardScroll, 0.35);
+        sndCardScroll.addEventListener('ended', function() { scrollSoundPlaying = false; }, { once: true });
+      }
+    });
+    fan.addEventListener('pointerleave', function() {
+      scrollSoundPlaying = false;
+    });
     setTimeout(function(){ if(prompt) prompt.classList.add('show'); }, 400);
   };
 
@@ -3580,6 +3614,7 @@
     // Step 2: flip after settling
     setTimeout(function(){
       el.classList.add('flipped');
+      playSound(sndCardFlip, 0.5);
     }, 600);
     // Step 3: zoom up after flip completes — cap the scale so the
     // fully-zoomed card never overflows the s3 container on any
