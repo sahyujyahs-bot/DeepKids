@@ -644,61 +644,19 @@
       const world  = engine.world;
       let walls    = [];
 
-      /* ── Hero rain sound effects (Web Audio, no files) ────────
-         Swoosh: filtered noise burst (air tearing) when a card
-         starts falling.
-         Thud:   low sine + noise on ground contact.
-         Unlocked on first user gesture so autoplay policy is OK. */
-      let heroAudioCtx = null;
-      function heroAudio() {
-        if (!heroAudioCtx) {
-          try { heroAudioCtx = new (window.AudioContext || window.webkitAudioContext)(); }
-          catch(e) { return null; }
-        }
-        if (heroAudioCtx.state === 'suspended') heroAudioCtx.resume();
-        return heroAudioCtx;
-      }
-      // Prime on first interaction
-      document.addEventListener('pointerdown', function() { heroAudio(); }, { passive: true, once: true });
-
-      function heroNoise(dur, freq, vol) {
-        var c = heroAudio(); if (!c) return;
-        var buf = c.createBuffer(1, Math.floor(c.sampleRate * dur), c.sampleRate);
-        var d = buf.getChannelData(0);
-        for (var i = 0; i < d.length; i++) {
-          var env = 1 - i / d.length;
-          d[i] = (Math.random() * 2 - 1) * env;
-        }
-        var src = c.createBufferSource(); src.buffer = buf;
-        var bp = c.createBiquadFilter();
-        bp.type = 'bandpass'; bp.frequency.value = freq; bp.Q.value = 0.8;
-        var g = c.createGain(); g.gain.value = vol;
-        src.connect(bp); bp.connect(g); g.connect(c.destination);
-        src.start();
-      }
-      function heroTone(f0, dur, type, vol, f1) {
-        var c = heroAudio(); if (!c) return;
-        var o = c.createOscillator(); var g = c.createGain();
-        o.type = type || 'sine';
-        o.frequency.setValueAtTime(f0, c.currentTime);
-        if (f1) o.frequency.exponentialRampToValueAtTime(Math.max(20, f1), c.currentTime + dur);
-        g.gain.setValueAtTime(0.0001, c.currentTime);
-        g.gain.exponentialRampToValueAtTime(vol || 0.15, c.currentTime + 0.01);
-        g.gain.exponentialRampToValueAtTime(0.0001, c.currentTime + dur);
-        o.connect(g); g.connect(c.destination);
-        o.start(); o.stop(c.currentTime + dur + 0.02);
-      }
-      function sfxSwoosh() {
-        heroNoise(0.25, 1800 + Math.random() * 1200, 0.08 + Math.random() * 0.06);
-        heroTone(600 + Math.random() * 400, 0.18, 'sine', 0.04, 200);
-      }
-      var lastThudAt = 0;
-      function sfxThud() {
-        var now = performance.now();
-        if (now - lastThudAt < 80) return; // debounce cluster
-        lastThudAt = now;
-        heroTone(90 + Math.random() * 30, 0.16, 'sine', 0.14 + Math.random() * 0.06, 45);
-        heroNoise(0.08, 160, 0.08);
+      /* ── Hero rain sound — single swoosh file per falling element ─
+         Plays the user-provided swoosh WAV once for each card the
+         moment it starts falling. Uses cloneNode so overlapping
+         swooshes from staggered drops don't cut each other off. */
+      const swooshTemplate = new Audio('single Swoosh sound.wav');
+      swooshTemplate.preload = 'auto';
+      function playSwoosh() {
+        try {
+          const s = swooshTemplate.cloneNode();
+          s.volume = 0.35 + Math.random() * 0.15;
+          s.playbackRate = 0.9 + Math.random() * 0.2;
+          s.play().catch(function(){});
+        } catch(e){}
       }
 
       function rebuildWalls() {
@@ -782,7 +740,7 @@
             Body.setStatic(body, false);
             Body.setAngularVelocity(body, (Math.random() - .5) * .35);
             Body.setVelocity(body, { x: (Math.random() - .5) * 1.5, y: 0 });
-            sfxSwoosh();
+            playSwoosh();
           }, delay));
         });
       }
@@ -904,25 +862,6 @@
         Events.on(mc, 'enddrag', () => { cv.style.cursor = 'grab'; });
 
         Runner.run(Runner.create(), engine);
-
-        /* ── Ground-hit thud for every rain card ──────────────── */
-        Events.on(engine, 'collisionStart', function(evt) {
-          const ground = walls[0];
-          if (!ground) return;
-          for (let i = 0; i < evt.pairs.length; i++) {
-            const p = evt.pairs[i];
-            const cardBody = (p.bodyA === ground) ? p.bodyB :
-                             (p.bodyB === ground) ? p.bodyA : null;
-            if (!cardBody || cardBody.isStatic) continue;
-            const isCard = physEntries.some(en => en.body === cardBody);
-            if (!isCard) continue;
-            const speed = Math.abs(cardBody.velocity.y) + Math.abs(cardBody.velocity.x);
-            if (speed < 1.5) continue;
-            sfxThud();
-            break; // one thud per collision frame
-          }
-        });
-
         initFloaters();
         spawnRain();   /* ← first rain */
         loop();
