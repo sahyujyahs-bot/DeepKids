@@ -3033,9 +3033,17 @@
     }
 
     if (window.s2ActiveTab === 'science') {
-      // Step 3 → Step 2's last scene (token at tile 11, before Step 3 began).
-      // Manually update tabs/panels and jump straight to state 4 — going
-      // through bgTab.click() would briefly flash state 0 (wide board).
+      // Inside Step 3: Prev walks back through internal scenes
+      // (tile 2 → tile 3 → tile 7 → tile 11). Only at scene 0
+      // do we cross the boundary back into Step 2's last scene.
+      if (typeof window.sciCurrentScene === 'function' && window.sciCurrentScene() > 0) {
+        if (typeof window.sciShowScene === 'function') {
+          window.sciShowScene(window.sciCurrentScene() - 1);
+        }
+        return;
+      }
+      // Scene 0 → Step 2 last scene (token at tile 11, bubble + link).
+      // Manually update tabs/panels and jump straight to state 4.
       if (typeof window.cleanupStep3 === 'function') window.cleanupStep3();
       var bgTab2 = document.querySelector('.s2-tab[data-panel="boardgame"]');
       var sciTab2 = document.querySelector('.s2-tab[data-panel="science"]');
@@ -3085,6 +3093,16 @@
     }
 
     if (window.s2ActiveTab === 'science') {
+      // Inside Step 3: Next walks through internal scenes
+      // (tile 11 → 7 → 3 → 2). Only at the last scene do we
+      // cross the boundary forward into Step 1's first scene.
+      var maxScene = window.sciMaxScene || 3;
+      if (typeof window.sciCurrentScene === 'function' && window.sciCurrentScene() < maxScene) {
+        if (typeof window.sciShowScene === 'function') {
+          window.sciShowScene(window.sciCurrentScene() + 1);
+        }
+        return;
+      }
       // End of Step 3 → loop back to Step 1 start
       var pcTab = document.querySelector('.s2-tab[data-panel="physical"]');
       if (pcTab) pcTab.click();
@@ -3201,15 +3219,9 @@
 
     state = 4; busy = false;
     btnBack.disabled = false; btnFwd.disabled = false;
-
-    // Show bubble after board settles
-    rollTimers.push(setTimeout(() => {
-      var bbl = document.getElementById('s2-comic-bubble');
-      if (!bbl) return;
-      positionBubbleAtToken(bbl, false);
-      if (window.updateBubbleLink) window.updateBubbleLink();
-      bbl.classList.add('show');
-    }, 800));
+    // The bubble is shown by sciShowScene(0) (called from the
+    // science-tab click handler), so we don't show it here — that
+    // would just cause a brief flash before sciShowScene re-renders.
   }
   // Reset board position when leaving Step 3 (no-op now, kept for compatibility)
   window.resetBoardOffset = function() {};
@@ -3299,8 +3311,10 @@
     // Container = bubble's offset parent
     var cw = bblParent.clientWidth  || window.innerWidth;
     var ch = bblParent.clientHeight || window.innerHeight;
-    var padding = 6;
-    var gap = 4;     // tight against the token, not floating away
+    var padding = 4;
+    // The bubble actually OVERLAPS the token slightly (negative gap)
+    // so it sits flush against the token's left/right edge.
+    var gap = -8;
 
     // Room on each side of the token (in bubble parent space)
     var roomRight = cw - (tokL + tokW) - gap - padding;
@@ -3309,10 +3323,10 @@
     var roomBelow = ch - (tokT + tokH) - gap - padding;
 
     var finalLeft, finalTop;
-    // Anchor the bubble's top edge slightly ABOVE the token's top
-    // (a quarter of the bubble height) so it sits up-and-right
-    // against the token instead of straight beside its centre.
-    var sameRowTop = tokT - bblH * 0.25;
+    // Anchor the bubble's top edge well ABOVE the token's top
+    // (40% of the bubble height) so it sits up-and-right against
+    // the token rather than mid-height beside it.
+    var sameRowTop = tokT - bblH * 0.4;
 
     if (roomRight >= bblW) {
       finalLeft = tokL + tokW + gap;
@@ -3421,12 +3435,20 @@
           if (window.s2sfx) window.s2sfx.unlock();
         }
         btnBack.disabled = false; btnFwd.disabled = false;
-        // Auto-advance to Step 3 after a short pause. The bubble +
-        // drop animation belong to Step 3, so we don't show them here.
-        rollTimers.push(setTimeout(() => {
-          var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
-          if (sciTab) { sciTab.classList.remove('locked'); sciTab.click(); }
-        }, 1500));
+
+        // Step 2 last scene: show the comic bubble next to the
+        // token at tile 11 with the "Check Your Force Card" link.
+        // The user reads it, then either clicks Next to advance
+        // to Step 3, or clicks the link itself to open the force
+        // card overlay AND jump into Step 3.
+        var bubble = document.getElementById('s2-comic-bubble');
+        if (bubble) {
+          if (typeof window.setBubbleContentTile11 === 'function') {
+            window.setBubbleContentTile11();
+          }
+          positionBubbleAtToken(bubble, false);
+          bubble.classList.add('show');
+        }
       }, 5000));
     }, 2000));
   }
@@ -3524,13 +3546,10 @@
         setBoardElementsVisible(true);
         s2Nav.style.display = '';
         // Reset the board view to the rotated tile-11 zoom and
-        // start the drop sequence from the top every time the user
-        // re-enters Step 3.
+        // start at scene 0 (bubble + link, NO drops, NO inline FC).
+        // The user controls the drop sequence with Next/Prev.
         if (window.jumpToState4WithBubble) window.jumpToState4WithBubble();
-        setTimeout(function(){
-          if (window.s2ActiveTab !== 'science') return;
-          if (typeof window.runStep3Drops === 'function') window.runStep3Drops();
-        }, 1500);
+        if (typeof window.runStep3Drops === 'function') window.runStep3Drops();
       } else {
         s2Nav.style.display = 'none';
         window.s2ActiveTab = target;
@@ -3777,9 +3796,14 @@
   // timers fire after the user has switched tabs and update the
   // bubble / token / inline-fc on top of the wrong panel.
   var step3Timers = [];
+  // Step 3 internal scenes (intra-step navigation):
+  //   0 = tile 11   (bubble + Check-Your-Force-Card link, no drops)
+  //   1 = tile 7    (drop, "any 2 cards" copy + inline FC visible)
+  //   2 = tile 3    (drop, "Body Card" copy)
+  //   3 = tile 2    (drop, "lose next 2 turns" copy)
+  var sciSceneIdx = 0;
   function step3Schedule(fn, ms){
     var id = setTimeout(function(){
-      // Drop the id from the queue when the timer fires naturally
       var idx = step3Timers.indexOf(id);
       if (idx >= 0) step3Timers.splice(idx, 1);
       fn();
@@ -3791,9 +3815,81 @@
     step3Timers.forEach(function(id){ clearTimeout(id); });
     step3Timers.length = 0;
   }
+
+  // Tile-11 bubble copy (start state of Step 3 / end state of Step 2)
+  var ICON_EARTH = '<img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth">';
+  var ICON_BODY  = '<img class="s2-bubble-icon" src="IMG_4705.png" alt="Body">';
+  var ICON_TWO   = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.png" alt="Any 2 Cards">';
+
+  function setBubbleContentTile11(){
+    setBubbleContent(
+      'If you have an<br>' +
+      '<span class="s2-bubble-highlight">' + ICON_EARTH + ' Earth Force Card</span><br>' +
+      'you can play it…<br>' +
+      'or you <span class="s2-bubble-highlight">fall down!</span><br>' +
+      '<a class="s2-bubble-link" id="s2-bubble-fc-link">Check Your Force Card</a>',
+      true
+    );
+  }
+  function setBubbleContentTile7(){
+    setBubbleContent(
+      'If you have ' + ICON_TWO + '<span class="s2-bubble-highlight">any 2 cards</span><br>' +
+      'to play, you can play &amp;<br><span class="s2-bubble-highlight">escape downfall</span>',
+      false
+    );
+  }
+  function setBubbleContentTile3(){
+    setBubbleContent(
+      'If you have a<br>' +
+      '<span class="s2-bubble-highlight">' + ICON_BODY + ' Body Card</span>,<br>' +
+      'you can play &amp; <span class="s2-bubble-highlight">escape downfall</span>',
+      false
+    );
+  }
+  function setBubbleContentTile2(){
+    setBubbleContent(
+      'If you have a<br>' +
+      '<span class="s2-bubble-highlight">' + ICON_BODY + ' Body Card</span>,<br>' +
+      'play &amp; <span class="s2-bubble-highlight">escape</span>,<br>' +
+      'else <span class="s2-bubble-highlight">lose next 2 turns</span><br>' +
+      'to roll dice.<br>' +
+      '<em>Current turn ends now.</em>',
+      false
+    );
+  }
+  window.setBubbleContentTile11 = setBubbleContentTile11;
+
+  // Bubble link click — uses event delegation on the bubble container
+  // so it survives every setBubbleContent() call (which replaces the
+  // inner HTML and detaches any direct listeners).
+  var bubbleEl = document.getElementById('s2-comic-bubble');
+  if (bubbleEl) {
+    bubbleEl.addEventListener('click', function(e) {
+      var link = e.target.closest('#s2-bubble-fc-link');
+      if (!link) return;
+      e.preventDefault();
+      e.stopPropagation();
+      // Open the full-screen flippable force card overlay AND make
+      // sure we're on the Step 3 tab (if the user clicked the link
+      // while still in Step 2's last scene, this advances them).
+      if (window.s2ActiveTab !== 'science') {
+        var sciTabL = document.querySelector('.s2-tab[data-panel="science"]');
+        if (sciTabL) {
+          sciTabL.classList.remove('locked');
+          sciTabL.click();
+        }
+      }
+      if (typeof window.openForceCardOverlay === 'function') {
+        // Slight delay so the Step 3 tab fully renders first
+        setTimeout(window.openForceCardOverlay, 250);
+      }
+    });
+  }
+
   // Hide / reset every Step 3 element so nothing leaks onto other tabs.
   function cleanupStep3(){
     clearStep3Timers();
+    sciSceneIdx = 0;
     var bubble = document.getElementById('s2-comic-bubble');
     if (bubble) {
       bubble.classList.remove('show');
@@ -3806,120 +3902,78 @@
     }
     var inlineFcText = document.getElementById('s2-inline-fc-text');
     if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
-    // Reset the bubble copy back to its tile-11 state so the next
-    // entry into Step 3 doesn't briefly show the tile-2 message.
-    setBubbleContent(
-      'If you have an<br>' +
-      '<span class="s2-bubble-highlight"><img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth"> Earth Force Card</span><br>' +
-      'you can play it…<br>' +
-      'or you <span class="s2-bubble-highlight">fall down!</span><br>' +
-      '<a class="s2-bubble-link" id="s2-bubble-fc-link">Check Your Force Card</a>',
-      true
-    );
+    setBubbleContentTile11();
   }
   window.cleanupStep3 = cleanupStep3;
 
-  // Expose so the science-tab click can run the drop sequence directly
-  window.runStep3Drops = function() {
-    cleanupStep3();
-    showForceCardInline();
-  };
-
-  function showForceCardInline() {
-    forceLink.classList.remove('pulse');
-
+  // Render Step 3 scene N — only triggers what changed for that scene.
+  // Scenes are user-driven via Prev/Next now, no auto-chained timers.
+  function showInlineFc() {
     var fcImg = document.getElementById('s2-inline-fc-img');
     var overlaySrc = forceOverlay.querySelector('.s2-force-card-face img');
     if (fcImg && overlaySrc) fcImg.src = overlaySrc.src;
-
-    var bubble = document.getElementById('s2-comic-bubble');
-    // Keep bubble visible — add transition so it follows token drops
-    if (bubble) {
-      bubble.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
-    }
-
     var inlineFc = document.getElementById('s2-inline-fc');
-    var inlineFcText = document.getElementById('s2-inline-fc-text');
-
-    // Position text + card side by side near token
-    inlineFc.classList.add('step3-card');
+    if (inlineFc) {
+      inlineFc.classList.add('step3-card');
+      inlineFc.classList.add('show');
+    }
     if (window.positionInlineFc) window.positionInlineFc();
-    if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
-    inlineFc.classList.add('show');
+  }
+  function setInlineFcText(txt) {
+    var t = document.getElementById('s2-inline-fc-text');
+    if (t) t.textContent = txt;
+  }
 
-    // Icon HTML snippets (referencing real assets in the repo)
-    var iconEarth  = '<img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth">';
-    var iconBody   = '<img class="s2-bubble-icon" src="IMG_4705.png" alt="Body">';
-    var iconTwo    = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.png" alt="Any 2 Cards">';
-
-    // Starting state (token on tile 11)
-    setBubbleContent(
-      'If you have an<br>' +
-      '<span class="s2-bubble-highlight">' + iconEarth + ' Earth Force Card</span><br>' +
-      'you can play it…<br>' +
-      'or you <span class="s2-bubble-highlight">fall down!</span><br>' +
-      '<a class="s2-bubble-link" id="s2-bubble-fc-link">Check Your Force Card</a>',
-      true
-    );
-    if (window.updateBubbleLink) window.updateBubbleLink();
-    if (bubble) {
-      positionBubbleAtToken(bubble, false);
-      bubble.classList.add('show');
+  function sciShowScene(idx) {
+    sciSceneIdx = idx;
+    var bubble = document.getElementById('s2-comic-bubble');
+    if (!bubble) return;
+    // Animate bubble + token together on every scene change after 0
+    if (idx > 0) {
+      bubble.style.transition = 'top 1.5s cubic-bezier(.4,0,.2,1), left 1.5s cubic-bezier(.4,0,.2,1)';
+    } else {
+      bubble.style.transition = '';
     }
 
-    // Drop to tile 7
-    step3Schedule(function() {
+    if (idx === 0) {
+      // Tile 11 — token already there from jumpToState4WithBubble
+      setBubbleContentTile11();
+      // No inline FC, no auto drops — wait for user
+      var inlineFc0 = document.getElementById('s2-inline-fc');
+      if (inlineFc0) {
+        inlineFc0.classList.remove('show');
+        inlineFc0.classList.remove('step3-card');
+      }
+    } else if (idx === 1) {
       if (window.dropToTile7) window.dropToTile7();
-      setBubbleContent(
-        'If you have ' + iconTwo + '<span class="s2-bubble-highlight">any 2 cards</span><br>' +
-        'to play, you can play &amp;<br><span class="s2-bubble-highlight">escape downfall</span>',
-        false
-      );
-      positionBubbleAtToken(bubble, true);
-      if (window.positionInlineFc) window.positionInlineFc();
+      setBubbleContentTile7();
+      setInlineFcText('Only 1 Card In Hand, Tile Needs 2 — Drop!');
+      showInlineFc();
+    } else if (idx === 2) {
+      if (window.dropToTile3) window.dropToTile3();
+      setBubbleContentTile3();
+      setInlineFcText('No Cards Left — Drop Again!');
+      showInlineFc();
+    } else if (idx === 3) {
+      if (window.dropToTile2) window.dropToTile2();
+      setBubbleContentTile2();
+      setInlineFcText('No Cards Left — Drop Again!');
+      showInlineFc();
+    }
 
-      step3Schedule(function() {
-        if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
-
-        step3Schedule(function() {
-          if (window.dropToTile3) window.dropToTile3();
-          setBubbleContent(
-            'If you have a<br>' +
-            '<span class="s2-bubble-highlight">' + iconBody + ' Body Card</span>,<br>' +
-            'you can play &amp; <span class="s2-bubble-highlight">escape downfall</span>',
-            false
-          );
-          positionBubbleAtToken(bubble, true);
-          if (window.positionInlineFc) window.positionInlineFc();
-
-          step3Schedule(function() {
-            if (inlineFcText) inlineFcText.textContent = 'No Cards Left — Drop Again!';
-
-            step3Schedule(function() {
-              if (window.dropToTile2) window.dropToTile2();
-              setBubbleContent(
-                'If you have a<br>' +
-                '<span class="s2-bubble-highlight">' + iconBody + ' Body Card</span>,<br>' +
-                'play &amp; <span class="s2-bubble-highlight">escape</span>,<br>' +
-                'else <span class="s2-bubble-highlight">lose next 2 turns</span><br>' +
-                'to roll dice.<br>' +
-                '<em>Current turn ends now.</em>',
-                false
-              );
-              positionBubbleAtToken(bubble, true);
-              if (window.positionInlineFc) window.positionInlineFc();
-
-              step3Schedule(function() {
-                inlineFc.classList.remove('show');
-                inlineFc.classList.remove('step3-card');
-                if (bubble) bubble.style.transition = '';
-              }, 5000);
-            }, 2500);
-          }, 2000);
-        }, 2500);
-      }, 2000);
-    }, 3000);
+    positionBubbleAtToken(bubble, idx > 0);
+    bubble.classList.add('show');
   }
+  window.sciShowScene = sciShowScene;
+  window.sciCurrentScene = function(){ return sciSceneIdx; };
+  window.sciMaxScene = 3;
+
+  // Step 3 entry: jumpToState4WithBubble already placed the token
+  // at tile 11; we just show scene 0 (bubble + link, no drops).
+  window.runStep3Drops = function() {
+    cleanupStep3();
+    sciShowScene(0);
+  };
 
   /* ── Show force card flippable overlay (for PC tab) ── */
   function showForceCardFlip() {
@@ -3929,6 +3983,8 @@
     forceOverlay.classList.add('show');
     forceCardWrap.classList.remove('flipped');
   }
+  // Exposed alias the bubble link delegate calls
+  window.openForceCardOverlay = showForceCardFlip;
 
   function hideForceCard() {
     forceOverlay.classList.remove('show');
