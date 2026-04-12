@@ -4,6 +4,9 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
   <title>EscapeGravity — DeepKids</title>
+  <!-- Preload the custom font so it's ready before first paint,
+       eliminating the flash of unstyled text (FOUT). -->
+  <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
   <link href="https://fonts.googleapis.com/css2?family=Pompiere&display=swap" rel="stylesheet"/>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
   <style>
@@ -14,6 +17,7 @@
       src: url('norwester.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
+      font-display: block; /* hide text until font loads (max 3s) */
     }
 
     
@@ -646,16 +650,46 @@
 
       /* ── Hero rain sound — single swoosh file per falling element ─
          Plays the user-provided swoosh WAV once for each card the
-         moment it starts falling. Uses cloneNode so overlapping
-         swooshes from staggered drops don't cut each other off. */
-      const swooshTemplate = new Audio('single Swoosh sound.wav');
-      swooshTemplate.preload = 'auto';
-      function playSwoosh() {
+         moment it starts falling. Pre-fetches the audio data via
+         XHR so it's ready before the first element drops (browsers
+         often ignore preload="auto" on Audio elements). Uses Web
+         Audio API to play from the decoded buffer — this also
+         sidesteps the autoplay-policy issue for programmatic
+         playback after a user gesture. */
+      let swooshBuffer = null;
+      let swooshCtx = null;
+      (function preloadSwoosh() {
         try {
-          const s = swooshTemplate.cloneNode();
-          s.volume = 0.35 + Math.random() * 0.15;
-          s.playbackRate = 0.9 + Math.random() * 0.2;
-          s.play().catch(function(){});
+          swooshCtx = new (window.AudioContext || window.webkitAudioContext)();
+          var xhr = new XMLHttpRequest();
+          xhr.open('GET', 'single Swoosh sound.wav', true);
+          xhr.responseType = 'arraybuffer';
+          xhr.onload = function() {
+            if (xhr.status === 200) {
+              swooshCtx.decodeAudioData(xhr.response, function(buf) {
+                swooshBuffer = buf;
+              });
+            }
+          };
+          xhr.send();
+        } catch(e) {}
+      })();
+      // Resume AudioContext on first user gesture (autoplay policy)
+      document.addEventListener('pointerdown', function() {
+        if (swooshCtx && swooshCtx.state === 'suspended') swooshCtx.resume();
+      }, { passive: true, once: false });
+      function playSwoosh() {
+        if (!swooshBuffer || !swooshCtx) return;
+        try {
+          if (swooshCtx.state === 'suspended') swooshCtx.resume();
+          var src = swooshCtx.createBufferSource();
+          src.buffer = swooshBuffer;
+          src.playbackRate.value = 0.9 + Math.random() * 0.2;
+          var gain = swooshCtx.createGain();
+          gain.gain.value = 0.35 + Math.random() * 0.15;
+          src.connect(gain);
+          gain.connect(swooshCtx.destination);
+          src.start();
         } catch(e){}
       }
 
@@ -1442,42 +1476,42 @@
 
   <div class="s2-pin">
     <div class="s2-pin-item s2-pin-box">
-      <img src="Egocentric with lid coming off.png" alt="The Box">
+      <img loading="lazy" src="Egocentric with lid coming off.png" alt="The Box">
       <div class="s2-pin-lbl">Box</div>
     </div>
 
     <div class="s2-pin-item s2-pin-spiral">
-      <img src="full board.png" alt="Board">
+      <img loading="lazy" src="full board.png" alt="Board">
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
     <div class="s2-pin-item s2-pin-large">
-      <img src="IMG_5098.jpeg" alt="Force Card Front">
+      <img loading="lazy" src="IMG_5098.jpeg" alt="Force Card Front">
       <div class="s2-pin-lbl">Force Cards &mdash; 13 Forces</div>
     </div>
 
     <div class="s2-pin-item s2-pin-large">
-      <img src="IMG_5099.jpeg" alt="Force Card Back">
+      <img loading="lazy" src="IMG_5099.jpeg" alt="Force Card Back">
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
 
     <div class="s2-pin-item s2-pin-chall">
-      <img src="Lightest_Items_Wins.png" alt="Challenge Card">
+      <img loading="lazy" src="Lightest_Items_Wins.png" alt="Challenge Card">
       <div class="s2-pin-lbl">Physical Challenge Cards &mdash; 35+ Challenges</div>
     </div>
 
     <div class="s2-pin-item s2-pin-large">
-      <img src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back">
+      <img loading="lazy" src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back">
       <div class="s2-pin-lbl">Challenge Card Back</div>
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img src="Blue astronaut front.png" alt="Astronaut Token">
+      <img loading="lazy" src="Blue astronaut front.png" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img src="Untitled_Artwork 7.png" alt="Rocket Token">
+      <img loading="lazy" src="Untitled_Artwork 7.png" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
@@ -2463,7 +2497,7 @@
   <div id="sci-collage" class="eg-fade-in">
     <picture>
       <source media="(max-width: 600px)" srcset="Section4%20collage%20mobile.png">
-      <img src="Section4%20collage.png" alt="Each Tile Carries Science — tile close-ups collage">
+      <img loading="lazy" src="Section4%20collage.png" alt="Each Tile Carries Science — tile close-ups collage">
     </picture>
   </div>
 </section>
@@ -2578,6 +2612,11 @@
   function stopSound(snd) {
     try { snd.pause(); snd.currentTime = 0; } catch(e){}
   }
+  // Expose sounds so the physical-challenges IIFE (pickCard,
+  // initCardFan) and the Learning Full Circle section can use them.
+  window.sndCardScroll = sndCardScroll;
+  window.sndCardFlip   = sndCardFlip;
+  window.playSound     = playSound;
   const hint    = document.getElementById('s2-hint');
   const result  = document.getElementById('s2-result');
   const navEl   = document.getElementById('s2-nav');
@@ -2800,7 +2839,11 @@
   function startZoom() {
     state = 1; busy = true;
     zoomStart = null;
-    playSpinSound();
+    // Only play spin sound when actually on the boardgame tab (Step 2).
+    // The auto-zoom IntersectionObserver fires when s3 scrolls into
+    // view regardless of which tab is active — playing the spin on
+    // Step 1 was confusing.
+    if (window.s2ActiveTab === 'boardgame') playSpinSound();
     // Show a walkthrough title explaining what's happening during the zoom.
     if (label) {
       label.innerHTML = '✦ &nbsp;Now, Roll Dice &amp; Move Your Token On The Board&nbsp; ✦';
@@ -3571,8 +3614,8 @@
 
       card.innerHTML =
         '<div class="s2-fan-card-inner">' +
-          '<div class="s2-fan-card-face s2-fan-card-back"><img src="'+CARD_BACK+'" alt="Activity Card"></div>' +
-          '<div class="s2-fan-card-face s2-fan-card-front"><img src="'+CARD_FRONT+'" alt="Challenge"></div>' +
+          '<div class="s2-fan-card-face s2-fan-card-back"><img loading="lazy" src="'+CARD_BACK+'" alt="Activity Card"></div>' +
+          '<div class="s2-fan-card-face s2-fan-card-front"><img loading="lazy" src="'+CARD_FRONT+'" alt="Challenge"></div>' +
         '</div>';
 
       card.addEventListener('click', function(){ pickCard(this); });
@@ -3582,10 +3625,10 @@
     // across the fan of cards (not on every single card hover).
     var scrollSoundPlaying = false;
     fan.addEventListener('pointerenter', function() {
-      if (!scrollSoundPlaying && !selected) {
+      if (!scrollSoundPlaying && !selected && window.sndCardScroll && window.playSound) {
         scrollSoundPlaying = true;
-        playSound(sndCardScroll, 0.35);
-        sndCardScroll.addEventListener('ended', function() { scrollSoundPlaying = false; }, { once: true });
+        window.playSound(window.sndCardScroll, 0.35);
+        window.sndCardScroll.addEventListener('ended', function() { scrollSoundPlaying = false; }, { once: true });
       }
     });
     fan.addEventListener('pointerleave', function() {
@@ -3614,7 +3657,7 @@
     // Step 2: flip after settling
     setTimeout(function(){
       el.classList.add('flipped');
-      playSound(sndCardFlip, 0.5);
+      if (window.sndCardFlip && window.playSound) window.playSound(window.sndCardFlip, 0.5);
     }, 600);
     // Step 3: zoom up after flip completes — cap the scale so the
     // fully-zoomed card never overflows the s3 container on any
@@ -4055,6 +4098,7 @@
     if (title) title.textContent = 'Your Force Card';
     forceOverlay.classList.add('show');
     forceCardWrap.classList.remove('flipped');
+    if (window.sndCardFlip && window.playSound) window.playSound(window.sndCardFlip, 0.45);
   }
   // Exposed alias the bubble link delegate calls
   window.openForceCardOverlay = showForceCardFlip;
@@ -4066,6 +4110,7 @@
   // Flip on click
   forceCardWrap.addEventListener('click', function() {
     forceCardWrap.classList.toggle('flipped');
+    if (window.sndCardFlip && window.playSound) window.playSound(window.sndCardFlip, 0.45);
   });
 
   // Close button
@@ -4986,7 +5031,7 @@
   <div class="s6b-panel active" id="s6b-gw1">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img src="Tile10.png" alt="Tile 10 — Earth's Surface">
+        <img loading="lazy" src="Tile10.png" alt="Tile 10 — Earth's Surface">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5008,7 +5053,7 @@
   <div class="s6b-panel" id="s6b-gw2">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img src="Section6 tile15.png" alt="Tile 15 — Rough Ocean Waves">
+        <img loading="lazy" src="Section6 tile15.png" alt="Tile 15 — Rough Ocean Waves">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5029,7 +5074,7 @@
   <div class="s6b-panel" id="s6b-gw3">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img src="Section6tile16.png" alt="Tile 16 — Losing Balance At A Cliff">
+        <img loading="lazy" src="Section6tile16.png" alt="Tile 16 — Losing Balance At A Cliff">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5205,6 +5250,7 @@
   if (fan) {
     fan.addEventListener('click', function() {
       fan.classList.toggle('swapped');
+      if (window.sndCardFlip && window.playSound) window.playSound(window.sndCardFlip, 0.45);
     });
   }
 })();
@@ -5218,25 +5264,25 @@
   <!-- Desktop: tiles flanking spiral -->
   <div class="spiral-stage eg-fade-in">
     <div class="spiral-side">
-      <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
-      <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+      <div class="spiral-ex"><img loading="lazy" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img loading="lazy" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
     </div>
     <div class="spiral-wrap">
       <img id="spiral-board" class="spiral-img" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
     <div class="spiral-side">
-      <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-      <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+      <div class="spiral-ex"><img loading="lazy" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+      <div class="spiral-ex"><img loading="lazy" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
     </div>
   </div>
 
   <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
   <div class="spiral-row-mobile eg-fade-in">
-    <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
-    <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
-    <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-    <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+    <div class="spiral-ex"><img loading="lazy" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img loading="lazy" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    <div class="spiral-ex"><img loading="lazy" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+    <div class="spiral-ex"><img loading="lazy" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
   </div>
 </section>
 
@@ -5477,31 +5523,31 @@
   <!-- 7 Category icons -->
   <div class="forces-icons" id="forces-icons">
     <button class="forces-icon active" data-cat="earth">
-      <img src="IMG_4700.png" alt="Earth">
+      <img loading="lazy" src="IMG_4700.png" alt="Earth">
       <span>Earth</span>
     </button>
     <button class="forces-icon" data-cat="air">
-      <img src="IMG_4702.png" alt="Air">
+      <img loading="lazy" src="IMG_4702.png" alt="Air">
       <span>Air</span>
     </button>
     <button class="forces-icon" data-cat="water">
-      <img src="IMG_4701.png" alt="Water">
+      <img loading="lazy" src="IMG_4701.png" alt="Water">
       <span>Water</span>
     </button>
     <button class="forces-icon" data-cat="body">
-      <img src="IMG_4705.png" alt="Body">
+      <img loading="lazy" src="IMG_4705.png" alt="Body">
       <span>Body</span>
     </button>
     <button class="forces-icon" data-cat="speed">
-      <img src="IMG_4704.png" alt="Speed">
+      <img loading="lazy" src="IMG_4704.png" alt="Speed">
       <span>Speed</span>
     </button>
     <button class="forces-icon" data-cat="energy">
-      <img src="IMG_4703.png" alt="Energy">
+      <img loading="lazy" src="IMG_4703.png" alt="Energy">
       <span>Energy</span>
     </button>
     <button class="forces-icon" data-cat="balance">
-      <img src="IMG_4706.png" alt="Balance">
+      <img loading="lazy" src="IMG_4706.png" alt="Balance">
       <span>Balance</span>
     </button>
   </div>
@@ -5509,49 +5555,49 @@
   <!-- Force card panels — one per category -->
   <div class="forces-panel active" data-cat="earth">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5106.jpeg" alt="Normal Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5106.jpeg" alt="Normal Force"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="air">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5120.jpeg" alt="Air Resistance"></div>
-      <div class="forces-card-slot"><img src="IMG_5118.jpeg" alt="Airlift"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5120.jpeg" alt="Air Resistance"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5118.jpeg" alt="Airlift"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="water">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5116.jpeg" alt="Buoyancy"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5116.jpeg" alt="Buoyancy"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="body">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5114.jpeg" alt="Weight"></div>
-      <div class="forces-card-slot"><img src="IMG_5112.jpeg" alt="Physical Work"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5114.jpeg" alt="Weight"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5112.jpeg" alt="Physical Work"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="speed">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5098.jpeg" alt="Sideways Velocity"></div>
-      <div class="forces-card-slot"><img src="IMG_5096.jpeg" alt="Escape Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5098.jpeg" alt="Sideways Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5096.jpeg" alt="Escape Velocity"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="energy">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5102.jpeg" alt="Magnetic Force"></div>
-      <div class="forces-card-slot"><img src="IMG_5100.jpeg" alt="Elastic Energy"></div>
-      <div class="forces-card-slot"><img src="IMG_5104.jpeg" alt="Knowledge"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5102.jpeg" alt="Magnetic Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5100.jpeg" alt="Elastic Energy"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5104.jpeg" alt="Knowledge"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="balance">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5110.jpeg" alt="Center of Gravity"></div>
-      <div class="forces-card-slot"><img src="IMG_5108.jpeg" alt="Neutral Pull"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5110.jpeg" alt="Center of Gravity"></div>
+      <div class="forces-card-slot"><img loading="lazy" src="IMG_5108.jpeg" alt="Neutral Pull"></div>
     </div>
   </div>
   </div><!-- /forces-layout -->
@@ -5749,16 +5795,16 @@
   <p class="eg-fade-in" style="font-family:'Pompiere',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
 
   <div class="exp-grid eg-fade-in">
-    <div class="exp-item"><img src="IMG_5232.png" alt="Drop different objects"></div>
-    <div class="exp-item"><img src="IMG_5067.png" alt="Yoga balance poses"></div>
-    <div class="exp-item"><img src="IMG_5068.png" alt="Blow feathers with hairdryers"></div>
-    <div class="exp-item"><img src="IMG_5062.png" alt="Roll car off table"></div>
-    <div class="exp-item"><img src="IMG_5071.png" alt="Spinning on the board"></div>
-    <div class="exp-item"><img src="IMG_5064.png" alt="Tug of war"></div>
-    <div class="exp-item"><img src="IMG_5066.png" alt="Drop paper vs crumpled paper"></div>
-    <div class="exp-item"><img src="IMG_5069.png" alt="Balance books on head"></div>
-    <div class="exp-item"><img src="IMG_5070.png" alt="Throw ball high"></div>
-    <div class="exp-item"><img src="IMG_5065.png" alt="Solve puzzles at table"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5232.png" alt="Drop different objects"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5067.png" alt="Yoga balance poses"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5068.png" alt="Blow feathers with hairdryers"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5062.png" alt="Roll car off table"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5071.png" alt="Spinning on the board"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5064.png" alt="Tug of war"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5066.png" alt="Drop paper vs crumpled paper"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5069.png" alt="Balance books on head"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5070.png" alt="Throw ball high"></div>
+    <div class="exp-item"><img loading="lazy" src="IMG_5065.png" alt="Solve puzzles at table"></div>
   </div>
 </section>
 
