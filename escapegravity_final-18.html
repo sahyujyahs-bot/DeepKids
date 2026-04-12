@@ -1075,6 +1075,16 @@
         }, 5000);
       };
 
+      /* Auto-replay the rain once after first load so the swoosh
+         sound plays on the 2nd drop (the 1st is silent due to
+         browser autoplay policy, but by the time the 2nd starts
+         the user has likely scrolled/clicked to unlock audio). */
+      setTimeout(function() {
+        if (typeof window.replayRain === 'function') {
+          window.replayRain();
+        }
+      }, 7000);
+
     })();
 
     /* ── Pre-Order Modal: collect WhatsApp number ─────────── */
