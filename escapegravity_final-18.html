@@ -3011,6 +3011,9 @@
     clearTimeout(autoStartTimer);
     clearRollTimers();
   }
+  // Expose so the tab handler can cancel doRoll's pending
+  // auto-advance timer when the user manually switches tabs.
+  window.cancelBoardgameAnims = cancelAllAnimations;
 
   /* ── Navigation ─────────────────────────────────────────── */
   window.s2ActiveTab = 'physical';
@@ -3033,12 +3036,11 @@
       // Step 3 → Step 2's last scene (token at tile 11, before Step 3 began).
       // Manually update tabs/panels and jump straight to state 4 — going
       // through bgTab.click() would briefly flash state 0 (wide board).
+      if (typeof window.cleanupStep3 === 'function') window.cleanupStep3();
       var bgTab2 = document.querySelector('.s2-tab[data-panel="boardgame"]');
       var sciTab2 = document.querySelector('.s2-tab[data-panel="science"]');
       if (bgTab2) bgTab2.classList.add('active');
       if (sciTab2) sciTab2.classList.remove('active');
-      var bubble2 = document.getElementById('s2-comic-bubble');
-      if (bubble2) bubble2.classList.remove('show');
       window.s2ActiveTab = 'boardgame';
       var s3El2 = document.getElementById('s3');
       if (s3El2) s3El2.classList.remove('step3-view');
@@ -3297,8 +3299,8 @@
     // Container = bubble's offset parent
     var cw = bblParent.clientWidth  || window.innerWidth;
     var ch = bblParent.clientHeight || window.innerHeight;
-    var padding = 8;
-    var gap = 14;
+    var padding = 6;
+    var gap = 4;     // tight against the token, not floating away
 
     // Room on each side of the token (in bubble parent space)
     var roomRight = cw - (tokL + tokW) - gap - padding;
@@ -3307,7 +3309,10 @@
     var roomBelow = ch - (tokT + tokH) - gap - padding;
 
     var finalLeft, finalTop;
-    var sameRowTop = tokT + tokH / 2 - bblH / 2;
+    // Anchor the bubble's top edge slightly ABOVE the token's top
+    // (a quarter of the bubble height) so it sits up-and-right
+    // against the token instead of straight beside its centre.
+    var sameRowTop = tokT - bblH * 0.25;
 
     if (roomRight >= bblW) {
       finalLeft = tokL + tokW + gap;
@@ -3428,13 +3433,18 @@
 
   /* ── Show nav when S2 is in view ─────────────────────────── */
   new IntersectionObserver(entries => {
-    if (entries[0].isIntersecting) {
+    var e = entries[0];
+    if (e.isIntersecting) {
       navEl.classList.add('show');
       // Both buttons stay enabled — Prev at state 0 walks back to
       // Step 1; Next at any state walks forward (and at the end
       // of Step 2 advances into Step 3).
       btnBack.disabled = false;
       btnFwd.disabled = false;
+    } else {
+      // Section scrolled out of view — kill any in-flight Step 3
+      // drop timers so the force card / bubble don't keep firing.
+      if (typeof window.cleanupStep3 === 'function') window.cleanupStep3();
     }
   }, { threshold: 0.3 }).observe(document.getElementById('s3'));
 
@@ -3479,6 +3489,11 @@
       if (tab.classList.contains('locked')) return;
       if (window.s2sfx) window.s2sfx.click();
       var target = tab.dataset.panel;
+      // ALWAYS clean Step 3 leftovers AND any pending boardgame
+      // (doRoll / auto-zoom) timers before switching tabs so
+      // nothing can bleed into the next tab.
+      if (typeof window.cleanupStep3 === 'function') window.cleanupStep3();
+      if (typeof window.cancelBoardgameAnims === 'function') window.cancelBoardgameAnims();
       tabs.forEach(function(t){ t.classList.remove('active'); });
       panels.forEach(function(p){ p.classList.remove('active'); });
       tab.classList.add('active');
@@ -3508,10 +3523,9 @@
         if (bgPanel) bgPanel.classList.add('active');
         setBoardElementsVisible(true);
         s2Nav.style.display = '';
-        // Jump to tile-11 zoomed state, then auto-run the inline
-        // force-card / drop sequence so the bubble shows + the
-        // token drops through tiles 11 → 7 → 3 → 2 right inside
-        // Step 3 (no need to click anything).
+        // Reset the board view to the rotated tile-11 zoom and
+        // start the drop sequence from the top every time the user
+        // re-enters Step 3.
         if (window.jumpToState4WithBubble) window.jumpToState4WithBubble();
         setTimeout(function(){
           if (window.s2ActiveTab !== 'science') return;
@@ -3757,8 +3771,59 @@
     box.classList.toggle('no-link', !withLink);
   }
 
+  // ── Step 3 lifecycle ─────────────────────────────────────
+  // Track every setTimeout that the drop sequence schedules so
+  // we can cancel them all on cleanupStep3() — otherwise leftover
+  // timers fire after the user has switched tabs and update the
+  // bubble / token / inline-fc on top of the wrong panel.
+  var step3Timers = [];
+  function step3Schedule(fn, ms){
+    var id = setTimeout(function(){
+      // Drop the id from the queue when the timer fires naturally
+      var idx = step3Timers.indexOf(id);
+      if (idx >= 0) step3Timers.splice(idx, 1);
+      fn();
+    }, ms);
+    step3Timers.push(id);
+    return id;
+  }
+  function clearStep3Timers(){
+    step3Timers.forEach(function(id){ clearTimeout(id); });
+    step3Timers.length = 0;
+  }
+  // Hide / reset every Step 3 element so nothing leaks onto other tabs.
+  function cleanupStep3(){
+    clearStep3Timers();
+    var bubble = document.getElementById('s2-comic-bubble');
+    if (bubble) {
+      bubble.classList.remove('show');
+      bubble.style.transition = '';
+    }
+    var inlineFc = document.getElementById('s2-inline-fc');
+    if (inlineFc) {
+      inlineFc.classList.remove('show');
+      inlineFc.classList.remove('step3-card');
+    }
+    var inlineFcText = document.getElementById('s2-inline-fc-text');
+    if (inlineFcText) inlineFcText.textContent = 'Force Card No Match — So Drop!';
+    // Reset the bubble copy back to its tile-11 state so the next
+    // entry into Step 3 doesn't briefly show the tile-2 message.
+    setBubbleContent(
+      'If you have an<br>' +
+      '<span class="s2-bubble-highlight"><img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth"> Earth Force Card</span><br>' +
+      'you can play it…<br>' +
+      'or you <span class="s2-bubble-highlight">fall down!</span><br>' +
+      '<a class="s2-bubble-link" id="s2-bubble-fc-link">Check Your Force Card</a>',
+      true
+    );
+  }
+  window.cleanupStep3 = cleanupStep3;
+
   // Expose so the science-tab click can run the drop sequence directly
-  window.runStep3Drops = function() { showForceCardInline(); };
+  window.runStep3Drops = function() {
+    cleanupStep3();
+    showForceCardInline();
+  };
 
   function showForceCardInline() {
     forceLink.classList.remove('pulse');
@@ -3787,8 +3852,7 @@
     var iconBody   = '<img class="s2-bubble-icon" src="IMG_4705.png" alt="Body">';
     var iconTwo    = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.png" alt="Any 2 Cards">';
 
-    // Starting state (token on tile 11) — keep the Earth Force Card
-    // message with the "Check Your Force Card" call-to-action link.
+    // Starting state (token on tile 11)
     setBubbleContent(
       'If you have an<br>' +
       '<span class="s2-bubble-highlight">' + iconEarth + ' Earth Force Card</span><br>' +
@@ -3798,11 +3862,14 @@
       true
     );
     if (window.updateBubbleLink) window.updateBubbleLink();
+    if (bubble) {
+      positionBubbleAtToken(bubble, false);
+      bubble.classList.add('show');
+    }
 
-    // Drop to tile 7 — move token and bubble together
-    setTimeout(function() {
+    // Drop to tile 7
+    step3Schedule(function() {
       if (window.dropToTile7) window.dropToTile7();
-      // Content change 1: arriving at tile 7
       setBubbleContent(
         'If you have ' + iconTwo + '<span class="s2-bubble-highlight">any 2 cards</span><br>' +
         'to play, you can play &amp;<br><span class="s2-bubble-highlight">escape downfall</span>',
@@ -3811,14 +3878,11 @@
       positionBubbleAtToken(bubble, true);
       if (window.positionInlineFc) window.positionInlineFc();
 
-      // After drop settles, update inline text
-      setTimeout(function() {
+      step3Schedule(function() {
         if (inlineFcText) inlineFcText.textContent = 'Only 1 Card In Hand, Tile Needs 2 — Drop!';
 
-        // Drop to tile 3 — move token and bubble together
-        setTimeout(function() {
+        step3Schedule(function() {
           if (window.dropToTile3) window.dropToTile3();
-          // Content change 2: arriving at tile 3
           setBubbleContent(
             'If you have a<br>' +
             '<span class="s2-bubble-highlight">' + iconBody + ' Body Card</span>,<br>' +
@@ -3828,14 +3892,11 @@
           positionBubbleAtToken(bubble, true);
           if (window.positionInlineFc) window.positionInlineFc();
 
-          // After tile 3 drop settles, update text and drop to tile 2
-          setTimeout(function() {
+          step3Schedule(function() {
             if (inlineFcText) inlineFcText.textContent = 'No Cards Left — Drop Again!';
 
-            setTimeout(function() {
+            step3Schedule(function() {
               if (window.dropToTile2) window.dropToTile2();
-              // Content change 3: arriving at tile 2 — extended copy:
-              // explains the consequence if the Body card isn't held.
               setBubbleContent(
                 'If you have a<br>' +
                 '<span class="s2-bubble-highlight">' + iconBody + ' Body Card</span>,<br>' +
@@ -3848,13 +3909,10 @@
               positionBubbleAtToken(bubble, true);
               if (window.positionInlineFc) window.positionInlineFc();
 
-              // Hide inline force card label after drop settles (keep bubble visible)
-              setTimeout(function() {
+              step3Schedule(function() {
                 inlineFc.classList.remove('show');
                 inlineFc.classList.remove('step3-card');
-                if (bubble) {
-                  bubble.style.transition = '';
-                }
+                if (bubble) bubble.style.transition = '';
               }, 5000);
             }, 2500);
           }, 2000);
