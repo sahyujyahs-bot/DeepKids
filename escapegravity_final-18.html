@@ -693,10 +693,14 @@
           }, 3000);
         } catch(e) { swooshReady = true; }
       })();
-      // Resume AudioContext on first user gesture (autoplay policy)
-      document.addEventListener('pointerdown', function() {
+      // Resume AudioContext on ANY user gesture (autoplay policy).
+      // Scroll counts on some browsers; touch/click on all.
+      function resumeSwooshCtx() {
         if (swooshCtx && swooshCtx.state === 'suspended') swooshCtx.resume();
-      }, { passive: true, once: false });
+      }
+      ['pointerdown','touchstart','scroll','keydown','click'].forEach(function(evt) {
+        document.addEventListener(evt, resumeSwooshCtx, { passive: true });
+      });
       function playSwoosh() {
         if (!swooshBuffer || !swooshCtx) return;
         try {
@@ -1181,12 +1185,16 @@
 <div id="preorder-modal" class="po-modal" onclick="if(event.target===this)closePreOrderModal()">
   <div class="po-box">
     <button type="button" class="po-close" onclick="closePreOrderModal()" aria-label="Close">×</button>
-    <h3 class="po-title">Pre-Order EscapeGravity</h3>
-    <p class="po-subtitle">Leave your WhatsApp number and we'll notify you the moment pre-orders go live.</p>
+    <!-- Rocket illustration at the top -->
+    <div class="po-hero-img">
+      <img src="Untitled_Artwork 7.png" alt="Rocket" class="po-rocket">
+    </div>
+    <h3 class="po-title">Ready for Launch?</h3>
+    <p class="po-subtitle">Be among the first to play <strong>EscapeGravity</strong>. Drop your details and we'll beam you a message when it's time to launch!</p>
     <form class="po-form" onsubmit="return submitPreOrder(event)">
       <label class="po-field">
         <span>Your Name</span>
-        <input type="text" id="po-name" placeholder="Jane Doe" required maxlength="60">
+        <input type="text" id="po-name" placeholder="Commander Jane" required maxlength="60">
       </label>
       <label class="po-field">
         <span>WhatsApp Number</span>
@@ -1216,12 +1224,11 @@
           <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight3)"/>
-          
         </svg>
-        <span class="btn-label">Notify Me</span>
+        <span class="btn-label">Count Me In!</span>
       </button>
     </form>
-    <p class="po-privacy">We'll only use your number to let you know about the launch. No spam.</p>
+    <p class="po-privacy">📱 We'll only ping you about the launch. Zero spam, full gravity.</p>
   </div>
 </div>
 
@@ -1241,15 +1248,38 @@
 .po-modal.show { display: flex; }
 @keyframes po-fade-in { from { opacity: 0; } to { opacity: 1; } }
 .po-box {
-  background: linear-gradient(180deg, rgba(30,15,55,0.98), rgba(18,8,38,0.98));
-  border: 1px solid rgba(156,188,20,0.35);
-  border-radius: clamp(14px, 2vw, 22px);
+  background:
+    radial-gradient(circle at 30% 20%, rgba(156,188,20,0.12), transparent 55%),
+    radial-gradient(circle at 70% 80%, rgba(120,40,130,0.18), transparent 55%),
+    linear-gradient(180deg, rgba(30,15,55,0.98), rgba(18,8,38,0.98));
+  border: 2px solid rgba(156,188,20,0.45);
+  border-radius: clamp(18px, 2.5vw, 28px);
   padding: clamp(24px, 3vw, 40px) clamp(20px, 3vw, 40px);
-  max-width: 460px;
+  max-width: 480px;
   width: 100%;
-  box-shadow: 0 20px 60px rgba(0,0,0,0.6), 0 0 40px rgba(156,188,20,0.15);
+  box-shadow:
+    0 24px 70px rgba(0,0,0,0.65),
+    0 0 60px rgba(156,188,20,0.2),
+    inset 0 1px 0 rgba(255,255,255,0.06);
   position: relative;
   animation: po-slide-up 0.4s cubic-bezier(.4,0,.2,1);
+  overflow: hidden;
+}
+/* Decorative rocket illustration */
+.po-hero-img {
+  text-align: center;
+  margin: -8px 0 12px;
+}
+.po-rocket {
+  width: clamp(60px, 12vw, 90px);
+  height: auto;
+  filter: drop-shadow(0 6px 20px rgba(0,0,0,0.6))
+          drop-shadow(0 0 16px rgba(192,230,56,0.25));
+  animation: po-rocket-bob 2.5s ease-in-out infinite;
+}
+@keyframes po-rocket-bob {
+  0%, 100% { transform: translateY(0) rotate(-5deg); }
+  50%      { transform: translateY(-8px) rotate(5deg); }
 }
 @keyframes po-slide-up {
   from { transform: translateY(20px); opacity: 0; }
@@ -3098,7 +3128,17 @@
       window.s2ActiveTab = 'boardgame';
       var s3El2 = document.getElementById('s3');
       if (s3El2) s3El2.classList.remove('step3-view');
+      window._step2ReachedViaPrev = true; // suppress auto-advance
       if (window.jumpToState4) window.jumpToState4();
+      // Show the bubble with Go To Next Step link
+      setTimeout(function() {
+        var bbl = document.getElementById('s2-comic-bubble');
+        if (bbl && typeof window.setBubbleContentTile11Step2 === 'function') {
+          window.setBubbleContentTile11Step2();
+          if (typeof positionBubbleAtToken === 'function') positionBubbleAtToken(bbl, false);
+          bbl.classList.add('show');
+        }
+      }, 300);
       return;
     }
 
@@ -3501,8 +3541,6 @@
 
         // Step 2 last scene: show the comic bubble next to the
         // token at tile 11 with a "Go To Next Step" link.
-        // The user reads it, then either clicks Next to advance
-        // to Step 3, or clicks the link to jump into Step 3.
         var bubble = document.getElementById('s2-comic-bubble');
         if (bubble) {
           if (typeof window.setBubbleContentTile11Step2 === 'function') {
@@ -3511,6 +3549,16 @@
           positionBubbleAtToken(bubble, false);
           bubble.classList.add('show');
         }
+        // In the normal forward flow, auto-advance to Step 3 after
+        // 3 seconds so the user doesn't have to click Next manually.
+        // (When the user lands here via Prev from Step 3, we set a
+        // flag so this timer does NOT fire — they're browsing back.)
+        window._step2ReachedViaPrev = false;
+        rollTimers.push(setTimeout(() => {
+          if (state !== 4 || window._step2ReachedViaPrev) return;
+          var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
+          if (sciTab) { sciTab.classList.remove('locked'); sciTab.click(); }
+        }, 3000));
       }, 5000));
     }, 2000));
   }
@@ -4291,13 +4339,11 @@
       scene.classList.remove('active');
       items.forEach(function(item) { item.style.opacity = '0'; });
       resetFan();
-      if (window.sessionHasReachedTile11) {
-        var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
-        if (sciTab) sciTab.click();
-      } else {
-        var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
-        if (bgTab) bgTab.click();
-      }
+      // Always advance to Step 2 from Step 1 — never skip straight
+      // to Step 3 (sessionHasReachedTile11 stays true across runs
+      // and was causing Step 2 to be skipped on the 2nd playthrough).
+      var bgTab = document.querySelector('.s2-tab[data-panel="boardgame"]');
+      if (bgTab) bgTab.click();
     }
     setTimeout(maybeAdvance, MIN_DISPLAY_MS);
   }
@@ -4346,7 +4392,16 @@
         if (opts.bounce > 0 && vy > 18) {
           vy = -vy * opts.bounce;
           newY = maxY;
-          if (window.sndBallBounce && window.playSound) window.playSound(window.sndBallBounce, 0.4);
+          // Play just the initial impact portion of the bounce sound
+          // (cut after 0.3s so it matches the actual bounce timing)
+          if (window.sndBallBounce) {
+            try {
+              var bb = window.sndBallBounce.cloneNode();
+              bb.volume = 0.4;
+              bb.play().catch(function(){});
+              setTimeout(function(){ try { bb.pause(); } catch(e){} }, 300);
+            } catch(e){}
+          }
         } else {
           newY = maxY;
           landed = true;
@@ -5455,10 +5510,10 @@
 .spiral-hint {
   font-family: 'Pompiere', sans-serif;
   font-size: clamp(12px, 1.2vw, 15px);
-  color: rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.45);
   letter-spacing: 2px;
   text-transform: uppercase;
-  margin-top: clamp(10px, 1.4vh, 16px);
+  margin-top: clamp(2px, 0.5vh, 6px);
 }
 
 /* Side example tiles */
@@ -7550,7 +7605,7 @@
     if (!s1) return;
     var cue = document.createElement('div');
     cue.className = 'eg-cue eg-cue-bottom';
-    cue.textContent = 'Drag the elements ↓';
+    cue.textContent = 'Drag, Drop & Play with the elements';
     // Sit just above the rain so it's visible without overlapping the button
     cue.style.bottom = 'clamp(70px, 14vh, 130px)';
     cue.style.zIndex = '90';
