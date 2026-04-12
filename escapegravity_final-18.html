@@ -1436,8 +1436,8 @@
     box-sizing: border-box;
   }
   .s2-pin-item {
-    background: rgba(18,10,38,0.35);
-    border: 1px solid rgba(156,188,20,0.08);
+    background: none;
+    border: none;
     padding: 0;
     margin: 0;
     display: flex;
@@ -3124,12 +3124,14 @@
       window.s2ActiveTab = 'boardgame';
       var s3El2 = document.getElementById('s3');
       if (s3El2) s3El2.classList.remove('step3-view');
-      // Cancel any pending auto-advance so it doesn't fire while
-      // the user is browsing backward.
-      if (window._step2AutoAdvance) { clearTimeout(window._step2AutoAdvance); window._step2AutoAdvance = null; }
-      // Hide bubble FIRST to prevent a flash at the old position
+      // Suppress the auto-advance so it doesn't fire while the
+      // user is browsing backward.
+      window._step2ForwardState4 = false;
+      // Hide ALL Step 3 overlays BEFORE switching to prevent a flash
       var bblPrev = document.getElementById('s2-comic-bubble');
       if (bblPrev) { bblPrev.classList.remove('show'); bblPrev.style.transition = 'none'; }
+      var inlineFcPrev = document.getElementById('s2-inline-fc');
+      if (inlineFcPrev) { inlineFcPrev.classList.remove('show'); inlineFcPrev.classList.remove('step3-card'); }
       if (window.jumpToState4) window.jumpToState4();
       // After board settles, show bubble at the correct position
       setTimeout(function() {
@@ -3244,13 +3246,8 @@
     zoomIntoTile11();
     state = 4; busy = false;
     btnBack.disabled = false; btnFwd.disabled = false;
-    rollTimers.push(setTimeout(() => {
-      var bbl = document.getElementById('s2-comic-bubble');
-      if (!bbl) return;
-      positionBubbleAtToken(bbl, false);
-      if (window.updateBubbleLink) window.updateBubbleLink();
-      bbl.classList.add('show');
-    }, 2200));
+    // The bubble is shown by the doRoll flow or the Prev path,
+    // so we don't show it here (that would cause a double-show).
   }
 
   /* ── Jump to tile-11 state with bubble for Step 3 ──────── */
@@ -3552,20 +3549,32 @@
           positionBubbleAtToken(bubble, false);
           bubble.classList.add('show');
         }
-        // Auto-advance to Step 3 after 3 seconds in normal forward
-        // flow. Uses a global timer ID so the Prev path can cancel it.
-        if (window._step2AutoAdvance) clearTimeout(window._step2AutoAdvance);
-        window._step2AutoAdvance = setTimeout(function() {
-          window._step2AutoAdvance = null;
-          // Only fire if user is STILL on Step 2 state 4
-          if (state !== 4) return;
-          if (window.s2ActiveTab !== 'boardgame') return;
-          var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
-          if (sciTab) { sciTab.classList.remove('locked'); sciTab.click(); }
-        }, 3500);
+        // Signal that state 4 was reached via forward flow
+        window._step2ForwardState4 = true;
       }, 5000));
     }, 2000));
   }
+
+  /* ── Step 2 → Step 3 auto-advance ─────────────────────────
+     Polls every second. When state === 4, the boardgame tab is
+     active, and the forward flag is set, it waits 3.5 s then
+     clicks the Step 3 tab. Completely independent of rollTimers
+     so cancelBoardgameAnims can never accidentally kill it. */
+  window._step2ForwardState4 = false;
+  (function step2AutoPoll() {
+    setInterval(function() {
+      if (state !== 4) return;
+      if (window.s2ActiveTab !== 'boardgame') return;
+      if (!window._step2ForwardState4) return;
+      // Reached via forward flow — advance once
+      window._step2ForwardState4 = false;
+      setTimeout(function() {
+        if (state !== 4 || window.s2ActiveTab !== 'boardgame') return;
+        var sciTab = document.querySelector('.s2-tab[data-panel="science"]');
+        if (sciTab) { sciTab.classList.remove('locked'); sciTab.click(); }
+      }, 3500);
+    }, 1000);
+  })();
 
   /* ── Show nav when S2 is in view ─────────────────────────── */
   new IntersectionObserver(entries => {
@@ -4396,9 +4405,9 @@
         if (opts.bounce > 0 && vy > 18) {
           vy = -vy * opts.bounce;
           newY = maxY;
-          // Play just the initial impact portion of the bounce sound
-          // (cut after 0.3s so it matches the actual bounce timing)
-          if (window.sndBallBounce) {
+          // Play bounce sound only on the FIRST impact (not repeats)
+          if (!opts._bounced && window.sndBallBounce) {
+            opts._bounced = true;
             try {
               var bb = window.sndBallBounce.cloneNode();
               bb.volume = 0.4;
