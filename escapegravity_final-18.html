@@ -4051,11 +4051,17 @@
 
     // On mobile for tiles 11, 7 & 3 the bubble sits LEFT of the
     // token, so flip the tail arrow to the right side so it points
-    // toward the token. Tile 2 keeps the default left tail.
+    // toward the token. Also nudge the bubble a little further
+    // toward the left screen edge so the tile underneath is fully
+    // visible. Tile 2 keeps the default left tail + no nudge.
     var box = bubble.querySelector('.s2-bubble-box');
     if (box) {
       var mobileTailRight = (window.innerWidth <= 768) && (idx < 3);
       box.classList.toggle('tail-right', mobileTailRight);
+    }
+    if ((window.innerWidth <= 768) && idx < 3) {
+      var curLeft = parseFloat(bubble.style.left) || 0;
+      bubble.style.left = Math.max(4, curLeft - 30) + 'px';
     }
 
     bubble.classList.add('show');
