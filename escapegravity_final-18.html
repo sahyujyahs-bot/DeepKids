@@ -6897,6 +6897,24 @@
 (function(){
   'use strict';
 
+  /* ── Global button click sound ─────────────────────────────
+     Plays the user-provided WAV on every button, .btn-wrap,
+     .dk-btn-host, .s2-tab, .s2-arrow, .eg-nav-cta, and anchor
+     click across the page. Uses event delegation on document so
+     dynamically created buttons are covered too. */
+  var btnClickSound = new Audio('button click sound.wav');
+  btnClickSound.preload = 'auto';
+  document.addEventListener('click', function(e) {
+    var t = e.target;
+    if (t.closest('button, .btn-wrap, .dk-btn-host, .eg-mobile-preorder-btn, .eg-nav-cta, .s2-tab, .s2-arrow, .s2-bubble-link, .quiz-start-btn, .quiz-opt, .quiz-next, .quiz-restart, .po-submit, [data-dk-btn]')) {
+      try {
+        var s = btnClickSound.cloneNode();
+        s.volume = 0.4;
+        s.play().catch(function(){});
+      } catch(e2){}
+    }
+  }, true);
+
   /* ── Hydrate every [data-dk-btn] element into a DK SVG button ── */
   var DK_GRAD_SEQ = 0;
   function dkButtonMarkup(label) {
