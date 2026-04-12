@@ -658,6 +658,7 @@
          playback after a user gesture. */
       let swooshBuffer = null;
       let swooshCtx = null;
+      let swooshReady = false;
       (function preloadSwoosh() {
         try {
           swooshCtx = new (window.AudioContext || window.webkitAudioContext)();
@@ -668,11 +669,29 @@
             if (xhr.status === 200) {
               swooshCtx.decodeAudioData(xhr.response, function(buf) {
                 swooshBuffer = buf;
+                swooshReady = true;
+                // If images finished loading before the sound was
+                // decoded, spawnAll is waiting — trigger it now.
+                if (window._heroImagesReady && !window._heroSpawned) {
+                  window._heroSpawned = true;
+                  spawnAll();
+                }
               });
             }
           };
           xhr.send();
-        } catch(e) {}
+          // If the sound fails to load after 3s, don't block the
+          // hero animation — just start without sound.
+          setTimeout(function() {
+            if (!swooshReady) {
+              swooshReady = true;
+              if (window._heroImagesReady && !window._heroSpawned) {
+                window._heroSpawned = true;
+                spawnAll();
+              }
+            }
+          }, 3000);
+        } catch(e) { swooshReady = true; }
       })();
       // Resume AudioContext on first user gesture (autoplay policy)
       document.addEventListener('pointerdown', function() {
@@ -718,10 +737,18 @@
       let loadedCount = 0;
       ALL_KEYS.forEach(k => {
         const img   = new Image();
-        img.onload  = () => { imgCache[k] = img; if (++loadedCount === ALL_KEYS.length) spawnAll(); };
-        img.onerror = () => {                     if (++loadedCount === ALL_KEYS.length) spawnAll(); };
+        img.onload  = () => { imgCache[k] = img; if (++loadedCount === ALL_KEYS.length) onImagesReady(); };
+        img.onerror = () => {                     if (++loadedCount === ALL_KEYS.length) onImagesReady(); };
         img.src     = CARDS[k].src;
       });
+      function onImagesReady() {
+        window._heroImagesReady = true;
+        // Only spawn once both images AND the swoosh sound are decoded
+        if (swooshReady && !window._heroSpawned) {
+          window._heroSpawned = true;
+          spawnAll();
+        }
+      }
 
       /* ── Rain state ─────────────────────────────────────────── */
       const physEntries = [];   // { body, key, dW, dH }
@@ -886,14 +913,41 @@
           startTease();
         }, 5000);
 
-        /* Stop tease the moment user first drags */
+        /* Stop tease the moment user first drags + play drag sound */
+        var dragHumInterval = null;
         Events.on(mc, 'startdrag', () => {
           cv.style.cursor = 'grabbing';
           teaseActive = false;
           clearTimeout(teaseTimer);
           if (hint) hint.style.opacity = '0';
+          // Mild hum while dragging — gentle low tone
+          if (swooshCtx && swooshBuffer) {
+            try {
+              if (swooshCtx.state === 'suspended') swooshCtx.resume();
+              var o = swooshCtx.createOscillator();
+              var g = swooshCtx.createGain();
+              o.type = 'sine'; o.frequency.value = 140;
+              g.gain.value = 0.04;
+              o.connect(g); g.connect(swooshCtx.destination);
+              o.start();
+              // Store so we can stop on enddrag
+              window._dragHum = { osc: o, gain: g };
+            } catch(e){}
+          }
         });
-        Events.on(mc, 'enddrag', () => { cv.style.cursor = 'grab'; });
+        Events.on(mc, 'enddrag', () => {
+          cv.style.cursor = 'grab';
+          // Stop drag hum
+          if (window._dragHum) {
+            try {
+              window._dragHum.gain.gain.exponentialRampToValueAtTime(0.001, swooshCtx.currentTime + 0.15);
+              window._dragHum.osc.stop(swooshCtx.currentTime + 0.2);
+            } catch(e){}
+            window._dragHum = null;
+          }
+          // Swoosh on release
+          playSwoosh();
+        });
 
         Runner.run(Runner.create(), engine);
         initFloaters();
@@ -1382,6 +1436,7 @@
     object-fit: contain;
     display: block;
     flex: 1 1 0;
+    border-radius: clamp(8px, 1.2vw, 14px);
   }
 
   /* Default 1-col tile */
@@ -1490,7 +1545,7 @@
       <div class="s2-pin-lbl">Force Cards &mdash; 13 Forces</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-large">
+    <div class="s2-pin-item s2-pin-large" style="grid-column:span 2;">
       <img loading="lazy" src="IMG_5099.jpeg" alt="Force Card Back">
       <div class="s2-pin-lbl">Force Card Back</div>
     </div>
@@ -2612,10 +2667,12 @@
   function stopSound(snd) {
     try { snd.pause(); snd.currentTime = 0; } catch(e){}
   }
+  var sndBallBounce  = new Audio('ball bounce.wav');         sndBallBounce.preload = 'auto';
   // Expose sounds so the physical-challenges IIFE (pickCard,
   // initCardFan) and the Learning Full Circle section can use them.
   window.sndCardScroll = sndCardScroll;
   window.sndCardFlip   = sndCardFlip;
+  window.sndBallBounce = sndBallBounce;
   window.playSound     = playSound;
   const hint    = document.getElementById('s2-hint');
   const result  = document.getElementById('s2-result');
@@ -3618,22 +3675,15 @@
           '<div class="s2-fan-card-face s2-fan-card-front"><img loading="lazy" src="'+CARD_FRONT+'" alt="Challenge"></div>' +
         '</div>';
 
+      // Card scroll sound — plays when user hovers over each card
+      card.addEventListener('pointerenter', function() {
+        if (!selected && window.sndCardScroll && window.playSound) {
+          window.playSound(window.sndCardScroll, 0.3);
+        }
+      });
       card.addEventListener('click', function(){ pickCard(this); });
       fan.appendChild(card);
     }
-    // Card scroll sound — plays once when user hovers/touches
-    // across the fan of cards (not on every single card hover).
-    var scrollSoundPlaying = false;
-    fan.addEventListener('pointerenter', function() {
-      if (!scrollSoundPlaying && !selected && window.sndCardScroll && window.playSound) {
-        scrollSoundPlaying = true;
-        window.playSound(window.sndCardScroll, 0.35);
-        window.sndCardScroll.addEventListener('ended', function() { scrollSoundPlaying = false; }, { once: true });
-      }
-    });
-    fan.addEventListener('pointerleave', function() {
-      scrollSoundPlaying = false;
-    });
     setTimeout(function(){ if(prompt) prompt.classList.add('show'); }, 400);
   };
 
@@ -4296,6 +4346,7 @@
         if (opts.bounce > 0 && vy > 18) {
           vy = -vy * opts.bounce;
           newY = maxY;
+          if (window.sndBallBounce && window.playSound) window.playSound(window.sndBallBounce, 0.4);
         } else {
           newY = maxY;
           landed = true;
@@ -7060,7 +7111,8 @@
 
   // Small, pointer-feeling cursor. CSS cursors render at native pixel
   // size, so the canvas size IS the on-screen size in CSS px.
-  var SIZE = 48;
+  // Bigger on desktop for better visibility, smaller on mobile
+  var SIZE = (window.innerWidth > 768) ? 72 : 48;
   var HALF = SIZE / 2;
 
   /* ── Offscreen canvas for drawing the spiral ───────────── */
@@ -7076,14 +7128,15 @@
   var spiralPrepped = null;   // pre-downscaled high-quality copy of the source
   var spiralLoaded = false;
   spiralImg.onload = function() {
-    // Pre-downsample the 600px source through 2 stages — this produces a
-    // much crisper small cursor than a single drawImage downscale.
+    // Pre-downsample the source through 2 stages for crispness.
+    // Stage 1 is larger on desktop (360px) for the bigger cursor.
     var s1 = document.createElement('canvas');
-    s1.width = 240; s1.height = 240;
+    var s1Size = SIZE > 48 ? 360 : 240;
+    s1.width = s1Size; s1.height = s1Size;
     var c1 = s1.getContext('2d');
     c1.imageSmoothingEnabled = true;
     if ('imageSmoothingQuality' in c1) c1.imageSmoothingQuality = 'high';
-    c1.drawImage(spiralImg, 0, 0, 240, 240);
+    c1.drawImage(spiralImg, 0, 0, s1Size, s1Size);
 
     var s2 = document.createElement('canvas');
     s2.width = SIZE * 2; s2.height = SIZE * 2;   // 96px stable working copy
