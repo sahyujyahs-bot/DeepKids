@@ -836,7 +836,7 @@
 
         function startMomentumScroll() {
           cancelAnimationFrame(momentumRAF);
-          const friction = 0.95;
+          const friction = 0.88;   // was 0.95 — faster decay to prevent overshooting
           const minV = 0.5;
           (function tick() {
             if (Math.abs(scrollVelocity) < minV) return;
@@ -871,7 +871,8 @@
             e.preventDefault();
           } else if (!draggingCard) {
             window.scrollBy(0, dy);
-            scrollVelocity = dy * (16 / dt);
+            // Cap velocity so a fast flick doesn't fling to the footer
+            scrollVelocity = Math.max(-30, Math.min(30, dy * (16 / dt)));
           }
         }, { passive: false });
 
@@ -5320,7 +5321,14 @@
   box-shadow: 0 4px 24px rgba(0,0,0,0.5);
   transition: transform 0.4s cubic-bezier(.4,0,.2,1), z-index 0s;
   transform-origin: 50% 100%;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  user-select: none;
+  -webkit-user-select: none;
+  outline: none;
 }
+.s6b-fan-card:focus,
+.s6b-fan-card:active { outline: none; }
 .s6b-fan-card:nth-child(1) {
   transform: translateX(-50%) rotate(-6deg);
 }
