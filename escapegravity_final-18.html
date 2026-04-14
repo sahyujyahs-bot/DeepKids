@@ -7465,14 +7465,12 @@
      light on the elongated button. */
   button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"] { stroke: none !important; }
   button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"]  { stroke: none !important; }
-  button.eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 3 !important; }
-  /* Centre label on the D portion. D runs from x=5 to ~240 in the
-     339-wide viewBox, so its visual centre sits at 122.5/339 ≈
-     36.1% of the rendered width. */
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 8 !important; }
+  /* Label shifted right since there's no purple border eating space */
   button.eg-mobile-preorder-btn .btn-label {
     position: absolute;
     top: 50%;
-    left: 36% !important;
+    left: 42% !important;
     transform: translate(-50%, -50%);
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
