@@ -34,6 +34,12 @@
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
     html { height: 100%; }
 
+    /* ── Suppress mobile tap highlight on ALL interactive elements ── */
+    button, a, img, [onclick], [role="button"] {
+      -webkit-tap-highlight-color: transparent;
+      -webkit-touch-callout: none;
+    }
+
     /* ── Hide scrollbars on mobile horizontal scroll rows ──── */
     .spiral-row-mobile::-webkit-scrollbar,
     .forces-icons::-webkit-scrollbar,
@@ -5311,7 +5317,13 @@
   flex-shrink: 0;
   cursor: pointer;
   margin: 0 auto;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  user-select: none;
+  -webkit-user-select: none;
+  outline: none;
 }
+.s6b-fan:focus, .s6b-fan:active { outline: none; }
 .s6b-fan-card {
   position: absolute;
   top: 0;
