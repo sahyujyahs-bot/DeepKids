@@ -7428,16 +7428,12 @@
     transform: translateY(0);
     pointer-events: auto;
   }
-  /* Mobile sticky button: self-contained full-width styles. Does
-     NOT inherit .btn-wrap because that class has margin-left and
-     hover translateX that push the button off-centre. The SVG
-     itself bakes in preserveAspectRatio="none" and a trimmed
-     viewBox of 0 0 339 108 so the D+K content spans exactly the
-     full row width with symmetric padding. */
+  /* Mobile sticky button: natural aspect ratio (viewBox 339:108),
+     centred in the row. No horizontal stretching. */
   button.eg-mobile-preorder-btn {
     all: unset;
     display: block;
-    width: 100%;
+    margin: 0 auto;
     box-sizing: border-box;
     position: relative;
     cursor: pointer;
@@ -7452,21 +7448,17 @@
     filter: drop-shadow(0 0 10px rgba(156,188,20,0.3)) brightness(0.95);
   }
   button.eg-mobile-preorder-btn .btn-svg {
-    width: 100% !important;
-    max-width: none !important;
+    width: auto !important;
     height: 56px !important;
     display: block;
     overflow: visible;
   }
-  /* Thin pink/purple outline — the SVG markup has
-     vector-effect="non-scaling-stroke" on each path/line so the
-     stroke widths are a constant pixel weight even when the SVG is
-     horizontally stretched. Override the defaults here so they stay
-     light on the elongated button. */
+  /* Thin pink/purple outline — kept off so the lime pill reads
+     cleaner against the dark gradient. */
   button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"] { stroke: none !important; }
   button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"]  { stroke: none !important; }
   button.eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 8 !important; }
-  /* Label shifted right since there's no purple border eating space */
+  /* Label centred over the pill body (K chevron sits at the right) */
   button.eg-mobile-preorder-btn .btn-label {
     position: absolute;
     top: 50%;
@@ -7489,7 +7481,7 @@
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
   <button type="button" class="eg-mobile-preorder-btn" onclick="doPreOrder()">
-    <svg class="btn-svg" viewBox="0 0 339 108" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <svg class="btn-svg" viewBox="0 0 339 108" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
           <stop offset="0%" stop-color="#c0e638"/>
