@@ -695,12 +695,29 @@
           xhr.send();
         } catch(e) {}
       })();
-      // Resume AudioContext on ANY user gesture (autoplay policy).
-      function resumeSwooshCtx() {
-        if (swooshCtx && swooshCtx.state === 'suspended') swooshCtx.resume();
+      // Arm on the FIRST user gesture (touchstart fires before the
+      // scroll actually happens, so we catch the intent early):
+      // resume the AudioContext AND immediately replay the rain so
+      // the user's first real experience of the drop has sound.
+      // After this one-time hit, subsequent plays resume the ctx on
+      // their own via playSwoosh().
+      var audioArmed = false;
+      function armAudioAndReplay() {
+        if (audioArmed) return;
+        audioArmed = true;
+        try { if (swooshCtx && swooshCtx.state === 'suspended') swooshCtx.resume(); } catch(e) {}
+        // Cancel the 7s fallback auto-replay so we don't double-fire
+        if (window._heroAutoReplayTimer) {
+          clearTimeout(window._heroAutoReplayTimer);
+          window._heroAutoReplayTimer = null;
+        }
+        // Small delay so AudioContext.resume() has a tick to take effect
+        setTimeout(function() {
+          if (typeof window.replayRain === 'function') window.replayRain();
+        }, 60);
       }
       ['pointerdown','touchstart','keydown','click'].forEach(function(evt) {
-        document.addEventListener(evt, resumeSwooshCtx, { passive: true });
+        document.addEventListener(evt, armAudioAndReplay, { passive: true, once: true });
       });
       // NOTE: first-load rain will be silent (browser autoplay policy
       // blocks audio before user interaction). The redo button and all
@@ -1099,11 +1116,12 @@
         }, 5000);
       };
 
-      /* Auto-replay the rain once after first load so the swoosh
-         sound plays on the 2nd drop (the 1st is silent due to
-         browser autoplay policy, but by the time the 2nd starts
-         the user has likely scrolled/clicked to unlock audio). */
-      setTimeout(function() {
+      /* Fallback auto-replay: if the user hasn't interacted by 7s,
+         replay once on our own. This timer is cancelled by
+         armAudioAndReplay() above as soon as a real gesture fires,
+         so we never double-fire. */
+      window._heroAutoReplayTimer = setTimeout(function() {
+        window._heroAutoReplayTimer = null;
         if (typeof window.replayRain === 'function') {
           window.replayRain();
         }
