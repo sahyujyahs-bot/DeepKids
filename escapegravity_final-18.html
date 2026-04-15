@@ -829,15 +829,15 @@
           World.add(world, body);
           physEntries.push({ body, key, dW, dH });
 
-          /* Staggered raindrop release — tight so the viewer sees
-             action within ~200ms. Row 0 drops as a fast cluster,
-             row 1+ follows after a short break, preserving the
-             "one, then a few, then a few" rhythm. */
+          /* Staggered raindrop release — first card drops at t=0 so
+             the viewer sees motion the instant spawn fires. Row 0
+             then cascades fast; row 1+ follows after a short break,
+             preserving the "one, then a few, then a few" rhythm. */
           let delay;
           if (row === 0) {
-            delay = col * 160 + Math.random() * 180;
+            delay = col === 0 ? 0 : (col * 130 + Math.random() * 120);
           } else {
-            delay = row * 1500 + col * 180 + Math.random() * 240;
+            delay = row * 1300 + col * 160 + Math.random() * 220;
           }
           rainTimers.push(setTimeout(() => {
             Body.setStatic(body, false);
