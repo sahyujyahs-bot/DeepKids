@@ -701,6 +701,11 @@
       // the user's first real experience of the drop has sound.
       // After this one-time hit, subsequent plays resume the ctx on
       // their own via playSwoosh().
+      // True while the hero is (mostly) still on-screen. Beyond this
+      // the user has moved on and we don't want to yank them back.
+      function stillInHero() {
+        return window.pageYOffset < window.innerHeight * 0.8;
+      }
       var audioArmed = false;
       function armAudioAndReplay() {
         if (audioArmed) return;
@@ -711,8 +716,11 @@
           clearTimeout(window._heroAutoReplayTimer);
           window._heroAutoReplayTimer = null;
         }
-        // Small delay so AudioContext.resume() has a tick to take effect
+        // Small delay so AudioContext.resume() has a tick to take effect.
+        // Skip the replay entirely if the user has already scrolled
+        // past the hero — re-dropping now would be a surprise.
         setTimeout(function() {
+          if (!stillInHero()) return;
           if (typeof window.replayRain === 'function') window.replayRain();
         }, 60);
       }
@@ -821,8 +829,17 @@
           World.add(world, body);
           physEntries.push({ body, key, dW, dH });
 
-          /* Staggered raindrop release */
-          const delay = (row === 0 ? 0 : 4000) + Math.random() * (row === 0 ? 2400 : 2000);
+          /* Staggered raindrop release — tight so the viewer sees
+             action within ~200ms. Row 0 drops as a fast cluster,
+             row 1+ follows after a short break, preserving the
+             "one, then a few, then a few" rhythm. */
+          const col = i % cardsPerRow;
+          let delay;
+          if (row === 0) {
+            delay = col * 160 + Math.random() * 180;
+          } else {
+            delay = row * 1500 + col * 180 + Math.random() * 240;
+          }
           rainTimers.push(setTimeout(() => {
             Body.setStatic(body, false);
             Body.setAngularVelocity(body, (Math.random() - .5) * .35);
@@ -1122,6 +1139,8 @@
          so we never double-fire. */
       window._heroAutoReplayTimer = setTimeout(function() {
         window._heroAutoReplayTimer = null;
+        // Only auto-replay if the user is still parked on the hero.
+        if (!stillInHero()) return;
         if (typeof window.replayRain === 'function') {
           window.replayRain();
         }
