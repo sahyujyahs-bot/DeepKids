@@ -341,6 +341,13 @@
       height: auto;
       overflow: visible;
     }
+    /* Hide the dark-purple outline on every D+K button — we're
+       trialling the look without it (same approach used on the
+       mobile sticky). Adjacent shapes stay intact. */
+    .btn-svg path[stroke="#6b2155"],
+    .btn-svg line[stroke="#6b2155"] {
+      stroke: none !important;
+    }
     .btn-label {
       position: absolute; top: 50%; left: 38%;
       transform: translate(-50%, -50%);
