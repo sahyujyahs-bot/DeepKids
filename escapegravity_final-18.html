@@ -6019,20 +6019,16 @@
   padding: 0 clamp(12px, 3vw, 40px);
 }
 
-/* Polaroid card — cream background, rounded corners, layered shadow,
-   slight random tilt per tile (via nth-child below). */
+/* Just the illustration — no card, no background. Tile rotates
+   slightly per nth-child so the row reads as playful rather than
+   gridded. */
 .exp-item {
   position: relative;
-  background: linear-gradient(180deg, #fdf9ed 0%, #f2e8cc 100%);
-  padding: 10px 10px 30px;
-  border-radius: 4px;
-  box-shadow:
-    0 2px 4px rgba(0,0,0,0.25),
-    0 10px 24px rgba(0,0,0,0.45);
   cursor: pointer;
   user-select: none;
   outline: none;
   -webkit-tap-highlight-color: transparent;
+  padding-bottom: 18px; /* room for caption on hover */
   /* Entrance starting state — invisible, sunk, compact. Stagger
      transition-delay per nth-child once .exp-grid.visible is set. */
   --r: 0deg;
@@ -6040,27 +6036,28 @@
   transform: translateY(22px) scale(0.85) rotate(var(--r));
   transition:
     opacity .55s cubic-bezier(.34, 1.56, .64, 1),
-    transform .55s cubic-bezier(.34, 1.56, .64, 1),
-    box-shadow .3s ease;
+    transform .55s cubic-bezier(.34, 1.56, .64, 1);
   will-change: transform, opacity;
 }
 .exp-item img {
   width: 100%;
   display: block;
-  filter: none;
-  border-radius: 2px;
-  pointer-events: none; /* click goes to the item wrapper for focus */
+  filter: drop-shadow(0 6px 14px rgba(0,0,0,0.45));
+  transition: filter .3s ease;
+  pointer-events: none;
 }
 .exp-caption {
   position: absolute;
-  left: 8px; right: 8px; bottom: 8px;
+  left: 0; right: 0; bottom: -4px;
   font-family: 'Pompiere', sans-serif;
-  font-size: clamp(11px, 1.2vw, 14px);
+  font-size: clamp(12px, 1.3vw, 15px);
   line-height: 1.15;
-  color: #3a2a1e;
+  color: #c0e638;
   text-align: center;
+  letter-spacing: 0.3px;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.7), 0 0 10px rgba(156,188,20,0.35);
   opacity: 0;
-  transform: translateY(4px);
+  transform: translateY(6px);
   transition: opacity .25s ease, transform .25s ease;
   pointer-events: none;
   white-space: nowrap;
@@ -6069,7 +6066,7 @@
 }
 
 /* Assign each tile a small random-feel rotation so the grid reads
-   as scattered polaroids rather than a neat table. */
+   as scattered rather than a neat table. */
 .exp-item:nth-child(1)  { --r: -4deg; }
 .exp-item:nth-child(2)  { --r:  3deg; }
 .exp-item:nth-child(3)  { --r: -2deg; }
@@ -6087,42 +6084,44 @@
   opacity: 1;
   transform: translateY(0) scale(1) rotate(var(--r));
 }
-.exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms, 0ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms, 80ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(3)  { transition-delay: 160ms,160ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(4)  { transition-delay: 240ms,240ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(5)  { transition-delay: 320ms,320ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(6)  { transition-delay: 400ms,400ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(7)  { transition-delay: 480ms,480ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(8)  { transition-delay: 560ms,560ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(9)  { transition-delay: 640ms,640ms, 0ms; }
-.exp-grid.visible .exp-item:nth-child(10) { transition-delay: 720ms,720ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms,   0ms; }
+.exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms,  80ms; }
+.exp-grid.visible .exp-item:nth-child(3)  { transition-delay: 160ms, 160ms; }
+.exp-grid.visible .exp-item:nth-child(4)  { transition-delay: 240ms, 240ms; }
+.exp-grid.visible .exp-item:nth-child(5)  { transition-delay: 320ms, 320ms; }
+.exp-grid.visible .exp-item:nth-child(6)  { transition-delay: 400ms, 400ms; }
+.exp-grid.visible .exp-item:nth-child(7)  { transition-delay: 480ms, 480ms; }
+.exp-grid.visible .exp-item:nth-child(8)  { transition-delay: 560ms, 560ms; }
+.exp-grid.visible .exp-item:nth-child(9)  { transition-delay: 640ms, 640ms; }
+.exp-grid.visible .exp-item:nth-child(10) { transition-delay: 720ms, 720ms; }
 
-/* Hover / tap / focus — straighten, lift, lime glow, reveal caption */
+/* Hover / tap / focus — straighten, lift, brighten shadow, reveal caption */
 .exp-grid.visible .exp-item:hover,
 .exp-grid.visible .exp-item:focus,
 .exp-grid.visible .exp-item:focus-within,
 .exp-grid.visible .exp-item.is-active {
-  transform: translateY(-10px) scale(1.05) rotate(0deg);
-  box-shadow:
-    0 4px 6px rgba(0,0,0,0.3),
-    0 16px 36px rgba(0,0,0,0.55),
-    0 0 0 2px rgba(156,188,20,0.35),
-    0 0 28px rgba(156,188,20,0.28);
+  transform: translateY(-10px) scale(1.06) rotate(0deg);
   z-index: 3;
   transition-delay: 0ms;
+}
+.exp-grid.visible .exp-item:hover img,
+.exp-grid.visible .exp-item:focus img,
+.exp-grid.visible .exp-item:focus-within img,
+.exp-grid.visible .exp-item.is-active img {
+  filter:
+    drop-shadow(0 10px 22px rgba(0,0,0,0.55))
+    drop-shadow(0 0 14px rgba(156,188,20,0.45));
 }
 .exp-grid.visible .exp-item:hover .exp-caption,
 .exp-grid.visible .exp-item:focus .exp-caption,
 .exp-grid.visible .exp-item:focus-within .exp-caption,
 .exp-grid.visible .exp-item.is-active .exp-caption {
-  opacity: 0.95;
+  opacity: 1;
   transform: translateY(0);
 }
 
 @media (max-width: 600px) {
   .exp-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
-  .exp-item { padding: 8px 8px 24px; }
   .exp-caption { font-size: 11px; }
 }
 @media (prefers-reduced-motion: reduce) {
