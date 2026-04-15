@@ -5995,16 +5995,16 @@
   <p class="eg-fade-in" style="font-family:'Pompiere',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
 
   <div class="exp-grid eg-fade-in">
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5232.png" alt="Drop different objects"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5067.png" alt="Yoga balance poses"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5068.png" alt="Blow feathers with hairdryers"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5062.png" alt="Roll car off table"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5071.png" alt="Spinning on the board"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5064.png" alt="Tug of war"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5066.png" alt="Drop paper vs crumpled paper"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5069.png" alt="Balance books on head"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5070.png" alt="Throw ball high"></div>
-    <div class="exp-item"><img loading="lazy" decoding="async" src="IMG_5065.png" alt="Solve puzzles at table"></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5232.png" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5067.png" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5068.png" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5062.png" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5071.png" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5064.png" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5066.png" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5069.png" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5070.png" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5065.png" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
   </div>
 </section>
 
@@ -6013,19 +6013,153 @@
 .exp-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: clamp(10px, 2vw, 24px);
+  gap: clamp(14px, 2.6vw, 28px);
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 clamp(12px, 3vw, 40px);
 }
+
+/* Polaroid card — cream background, rounded corners, layered shadow,
+   slight random tilt per tile (via nth-child below). */
+.exp-item {
+  position: relative;
+  background: linear-gradient(180deg, #fdf9ed 0%, #f2e8cc 100%);
+  padding: 10px 10px 30px;
+  border-radius: 4px;
+  box-shadow:
+    0 2px 4px rgba(0,0,0,0.25),
+    0 10px 24px rgba(0,0,0,0.45);
+  cursor: pointer;
+  user-select: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  /* Entrance starting state — invisible, sunk, compact. Stagger
+     transition-delay per nth-child once .exp-grid.visible is set. */
+  --r: 0deg;
+  opacity: 0;
+  transform: translateY(22px) scale(0.85) rotate(var(--r));
+  transition:
+    opacity .55s cubic-bezier(.34, 1.56, .64, 1),
+    transform .55s cubic-bezier(.34, 1.56, .64, 1),
+    box-shadow .3s ease;
+  will-change: transform, opacity;
+}
 .exp-item img {
   width: 100%;
   display: block;
-  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+  filter: none;
+  border-radius: 2px;
+  pointer-events: none; /* click goes to the item wrapper for focus */
 }
+.exp-caption {
+  position: absolute;
+  left: 8px; right: 8px; bottom: 8px;
+  font-family: 'Pompiere', sans-serif;
+  font-size: clamp(11px, 1.2vw, 14px);
+  line-height: 1.15;
+  color: #3a2a1e;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity .25s ease, transform .25s ease;
+  pointer-events: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Assign each tile a small random-feel rotation so the grid reads
+   as scattered polaroids rather than a neat table. */
+.exp-item:nth-child(1)  { --r: -4deg; }
+.exp-item:nth-child(2)  { --r:  3deg; }
+.exp-item:nth-child(3)  { --r: -2deg; }
+.exp-item:nth-child(4)  { --r:  5deg; }
+.exp-item:nth-child(5)  { --r: -3deg; }
+.exp-item:nth-child(6)  { --r:  2deg; }
+.exp-item:nth-child(7)  { --r: -5deg; }
+.exp-item:nth-child(8)  { --r:  4deg; }
+.exp-item:nth-child(9)  { --r: -2deg; }
+.exp-item:nth-child(10) { --r:  3deg; }
+
+/* Visible state — tiles settle into their rotation. Staggered delay
+   per nth-child so they pop in one after another. */
+.exp-grid.visible .exp-item {
+  opacity: 1;
+  transform: translateY(0) scale(1) rotate(var(--r));
+}
+.exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms, 0ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms, 80ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(3)  { transition-delay: 160ms,160ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(4)  { transition-delay: 240ms,240ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(5)  { transition-delay: 320ms,320ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(6)  { transition-delay: 400ms,400ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(7)  { transition-delay: 480ms,480ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(8)  { transition-delay: 560ms,560ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(9)  { transition-delay: 640ms,640ms, 0ms; }
+.exp-grid.visible .exp-item:nth-child(10) { transition-delay: 720ms,720ms, 0ms; }
+
+/* Hover / tap / focus — straighten, lift, lime glow, reveal caption */
+.exp-grid.visible .exp-item:hover,
+.exp-grid.visible .exp-item:focus,
+.exp-grid.visible .exp-item:focus-within,
+.exp-grid.visible .exp-item.is-active {
+  transform: translateY(-10px) scale(1.05) rotate(0deg);
+  box-shadow:
+    0 4px 6px rgba(0,0,0,0.3),
+    0 16px 36px rgba(0,0,0,0.55),
+    0 0 0 2px rgba(156,188,20,0.35),
+    0 0 28px rgba(156,188,20,0.28);
+  z-index: 3;
+  transition-delay: 0ms;
+}
+.exp-grid.visible .exp-item:hover .exp-caption,
+.exp-grid.visible .exp-item:focus .exp-caption,
+.exp-grid.visible .exp-item:focus-within .exp-caption,
+.exp-grid.visible .exp-item.is-active .exp-caption {
+  opacity: 0.95;
+  transform: translateY(0);
+}
+
 @media (max-width: 600px) {
-  .exp-grid { grid-template-columns: repeat(3, 1fr); }
+  .exp-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .exp-item { padding: 8px 8px 24px; }
+  .exp-caption { font-size: 11px; }
 }
+@media (prefers-reduced-motion: reduce) {
+  .exp-item,
+  .exp-grid.visible .exp-item {
+    transition: opacity .3s ease;
+    transform: none !important;
+  }
+  .exp-grid.visible .exp-item { opacity: 1; }
+}
+</style>
+<script>
+(function(){
+  // Polaroid tiles: tap to reveal caption on touch devices.
+  // On desktop :hover handles it; this script also makes tap-away
+  // close any stuck-active tile.
+  var grid = document.querySelector('.exp-grid');
+  if (!grid) return;
+  grid.addEventListener('click', function(e){
+    var tile = e.target.closest('.exp-item');
+    // Clear previously active tile(s)
+    grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
+      if (el !== tile) el.classList.remove('is-active');
+    });
+    if (tile) tile.classList.toggle('is-active');
+  });
+  document.addEventListener('click', function(e){
+    if (!e.target.closest('.exp-grid')) {
+      grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
+        el.classList.remove('is-active');
+      });
+    }
+  });
+})();
+</script>
+<style>
+/* (stylesheet continuation — sentinel so the next <style> tag closes cleanly) */
 </style>
 
 <!-- ═══════════════════════════════════════════════ S-GAME: MINI GAME ══ -->
