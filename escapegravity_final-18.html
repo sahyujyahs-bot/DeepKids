@@ -7416,30 +7416,49 @@
     position: fixed;
     left: 0; right: 0; bottom: 0;
     z-index: 998;
-    padding: 8px 12px calc(10px + env(safe-area-inset-bottom, 0px));
+    padding: 8px 0 calc(10px + env(safe-area-inset-bottom, 0px));
     background: linear-gradient(180deg, rgba(10,6,24,0) 0%, rgba(10,6,24,0.85) 45%, rgba(10,6,24,0.95) 100%);
     pointer-events: none;
     opacity: 0;
     transform: translateY(20px);
     transition: opacity .3s ease, transform .3s ease;
+    overflow: hidden;
   }
   .eg-mobile-preorder.visible {
     opacity: 1;
     transform: translateY(0);
     pointer-events: auto;
   }
-  /* Mobile sticky button: natural aspect ratio (viewBox 339:108),
-     anchored to the right-hand edge. */
+  /* Mobile sticky button: natural aspect ratio (viewBox 339:108).
+     Drifts across the strip Pac-Man style — exits off the left,
+     wraps back in from the right. */
   button.eg-mobile-preorder-btn {
     all: unset;
     display: block;
-    margin: 0 0 0 auto;
+    margin: 0;
     box-sizing: border-box;
     position: relative;
     cursor: pointer;
     line-height: 0;
     filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
     transition: filter .2s ease;
+    animation: eg-swim-across 14s linear infinite;
+    will-change: transform;
+  }
+  @keyframes eg-swim-across {
+    0%   { transform: translateX(100vw); }
+    100% { transform: translateX(-100%); }
+  }
+  /* Only animate while the strip is actually showing */
+  .eg-mobile-preorder:not(.visible) button.eg-mobile-preorder-btn {
+    animation-play-state: paused;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    button.eg-mobile-preorder-btn {
+      animation: none;
+      margin: 0 0 0 auto;
+      padding-right: 12px;
+    }
   }
   button.eg-mobile-preorder-btn:hover {
     filter: drop-shadow(0 0 22px rgba(156,188,20,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
