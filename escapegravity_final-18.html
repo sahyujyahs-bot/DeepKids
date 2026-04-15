@@ -7444,6 +7444,15 @@
     transition: filter .2s ease;
     animation: eg-swim-across 14s linear infinite;
     will-change: transform;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    outline: none;
+  }
+  button.eg-mobile-preorder-btn:focus,
+  button.eg-mobile-preorder-btn:focus-visible {
+    outline: none;
   }
   @keyframes eg-swim-across {
     0%   { transform: translateX(100vw); }
