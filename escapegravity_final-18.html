@@ -341,11 +341,11 @@
       height: auto;
       overflow: visible;
     }
-    /* Hide the dark-purple outline on every D+K button — we're
-       trialling the look without it (same approach used on the
-       mobile sticky). Adjacent shapes stay intact. */
-    .btn-svg path[stroke="#6b2155"],
-    .btn-svg line[stroke="#6b2155"] {
+    /* Hide the dark-purple OUTER outline on every D+K button — we're
+       trialling the look without the thick border. Matched by
+       stroke-width so new thin inner outlines still render. */
+    .btn-svg path[stroke="#6b2155"][stroke-width="9"],
+    .btn-svg line[stroke="#6b2155"][stroke-width="20"] {
       stroke: none !important;
     }
     .btn-label {
@@ -530,7 +530,10 @@
         <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z"
               fill="url(#dk-highlight)"/>
         <!-- Highlight on K top arm -->
-        
+
+        <!-- 6. Thin purple inner outline, traced inside the D pill -->
+        <path d="M 11,29 A 16,16 0 0,1 27,13 L 226,13 A 41,41 0 1,1 226,95 L 27,95 A 16,16 0 0,1 11,79 Z"
+              fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
@@ -1236,6 +1239,7 @@
           <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight3)"/>
+          <path d="M 11,29 A 16,16 0 0,1 27,13 L 226,13 A 41,41 0 1,1 226,95 L 27,95 A 16,16 0 0,1 11,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
         </svg>
         <span class="btn-label">Count Me In!</span>
       </button>
@@ -7193,6 +7197,7 @@
       +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
       +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
       +   '<path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#' + hid + ')"/>'
+      +   '<path d="M 11,29 A 16,16 0 0,1 27,13 L 226,13 A 41,41 0 1,1 226,95 L 27,95 A 16,16 0 0,1 11,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>'
       + '</svg>'
       + '<span class="btn-label">' + label + '</span>';
   }
@@ -7490,8 +7495,8 @@
   }
   /* Thin pink/purple outline — kept off so the lime pill reads
      cleaner against the dark gradient. */
-  button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"] { stroke: none !important; }
-  button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"]  { stroke: none !important; }
+  button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"][stroke-width="9"]  { stroke: none !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"][stroke-width="20"] { stroke: none !important; }
   button.eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 8 !important; }
   /* Label centred over the pill body (K chevron sits at the right) */
   button.eg-mobile-preorder-btn .btn-label {
@@ -7535,6 +7540,7 @@
       <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
       <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
       <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-mobile-hi)"/>
+      <path d="M 11,29 A 16,16 0 0,1 27,13 L 226,13 A 41,41 0 1,1 226,95 L 27,95 A 16,16 0 0,1 11,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
     </svg>
     <span class="btn-label">Pre-Order</span>
   </button>
