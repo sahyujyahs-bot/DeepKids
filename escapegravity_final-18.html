@@ -833,7 +833,6 @@
              action within ~200ms. Row 0 drops as a fast cluster,
              row 1+ follows after a short break, preserving the
              "one, then a few, then a few" rhythm. */
-          const col = i % cardsPerRow;
           let delay;
           if (row === 0) {
             delay = col * 160 + Math.random() * 180;
