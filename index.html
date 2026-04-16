@@ -133,46 +133,49 @@
     }
     #cv:active { cursor: grabbing; }
 
-    /* ── Hero teaser card: pure-CSS drop while the rest of the
-       HTML + CARDS base64 is still downloading/parsing. Falls all
-       the way past the bottom of the viewport and fades out — no
-       "frozen mid-screen" state if physics rain takes longer than
-       expected to spawn. When the full rain *does* take over, the
-       JS hero code adds .teaser-done which cancels the animation
-       and fades the element in ~200ms. */
-    #hero-teaser {
+    /* ── Hero teaser cards: pure-CSS drops that start while the rest
+       of the HTML + CARDS base64 is still downloading/parsing.
+       Four cards fall in sequence across the width of the hero so
+       the user sees continuous motion from first paint through
+       ~3.2s. Each falls past the bottom and fades out, so there's
+       no "frozen mid-screen" state if physics rain is late. When
+       physics spawns, JS adds .teaser-done on the parent container
+       which cancels all animations and fades the cards in ~200ms. */
+    .hero-teaser-card {
       position: absolute;
       z-index: 1;             /* above canvas, below #content */
       top: 0;
-      left: clamp(4%, 6vw, 60px);
-      width: clamp(68px, 11vw, 160px);
+      width: clamp(58px, 9.5vw, 140px);
       height: auto;
       pointer-events: none;
       opacity: 0;
       filter: drop-shadow(0 6px 14px rgba(0,0,0,0.35));
-      transform: translate3d(0, -120%, 0) rotate(-8deg);
       animation: hero-teaser-fall 2.4s cubic-bezier(.42,.02,.7,.55) forwards;
       will-change: transform, opacity;
     }
+    .hero-teaser-card.tc1 { left:  6%; animation-delay:    0ms; }
+    .hero-teaser-card.tc2 { left: 32%; animation-delay:  260ms; }
+    .hero-teaser-card.tc3 { left: 58%; animation-delay:  520ms; }
+    .hero-teaser-card.tc4 { left: 82%; animation-delay:  780ms; }
     @keyframes hero-teaser-fall {
-      0%    { transform: translate3d(0, -120%, 0) rotate(-8deg); opacity: 0; }
+      0%    { transform: translate3d(0, -120%, 0) rotate(-6deg); opacity: 0; }
       6%    { opacity: 1; }
-      45%   { transform: translate3d(0, 58vh, 0) rotate(12deg); opacity: 1; }
-      55%   { transform: translate3d(0, 50vh, 0) rotate(6deg);  opacity: 1; } /* small bounce */
-      65%   { transform: translate3d(0, 58vh, 0) rotate(14deg); opacity: 0.95; }
+      45%   { transform: translate3d(0, 58vh, 0) rotate(10deg); opacity: 1; }
+      55%   { transform: translate3d(0, 50vh, 0) rotate(5deg);  opacity: 1; } /* small bounce */
+      65%   { transform: translate3d(0, 58vh, 0) rotate(12deg); opacity: 0.95; }
       85%   { opacity: 0.35; }
-      100%  { transform: translate3d(0, 110vh, 0) rotate(28deg); opacity: 0; }
+      100%  { transform: translate3d(0, 110vh, 0) rotate(26deg); opacity: 0; }
     }
-    /* When physics rain takes over, cancel the fall animation and
-       fade whatever position the card is in. Without !important the
-       CSS animation would keep dominating the opacity value. */
-    #hero-teaser.teaser-done {
+    /* When physics rain takes over, cancel the animation on every
+       teaser and fade them wherever they are. !important required;
+       CSS animations out-specify plain rules without it. */
+    #hero-teasers.teaser-done .hero-teaser-card {
       animation: none !important;
       opacity: 0 !important;
       transition: opacity .2s ease;
     }
     @media (prefers-reduced-motion: reduce) {
-      #hero-teaser { animation: none; opacity: 0; }
+      .hero-teaser-card { animation: none; opacity: 0; }
     }
 
     /* ── Content overlay ───────────────────────────────────────── */
@@ -556,7 +559,12 @@
      element. Pure CSS animation, no JS dependency, no wait for the
      huge CARDS base64 blob below. The JS hero rain hides this when
      the real physics rain takes over. -->
-<img id="hero-teaser" src="card1.png" alt="" aria-hidden="true">
+<div id="hero-teasers" aria-hidden="true">
+  <img class="hero-teaser-card tc1" src="card1.png" alt="">
+  <img class="hero-teaser-card tc2" src="card1.png" alt="">
+  <img class="hero-teaser-card tc3" src="card1.png" alt="">
+  <img class="hero-teaser-card tc4" src="card1.png" alt="">
+</div>
 
   <div id="content">
       <div class="hero-tags">
@@ -838,13 +846,14 @@
         // due to browser autoplay policy; redo plays with sound).
         if (!window._heroSpawned) {
           window._heroSpawned = true;
-          // Hide the CSS teaser card right before physics takes over.
-          // Its drop was the early "something is happening" motion
-          // the user saw while the huge CARDS blob was still parsing.
-          var teaser = document.getElementById('hero-teaser');
-          if (teaser) {
-            teaser.classList.add('teaser-done');
-            setTimeout(function(){ if (teaser.parentNode) teaser.parentNode.removeChild(teaser); }, 300);
+          // Hide the CSS teaser cards right before physics takes over.
+          // Their staggered drop was the early "something is happening"
+          // motion the user saw while the huge CARDS blob was still
+          // parsing.
+          var teasers = document.getElementById('hero-teasers');
+          if (teasers) {
+            teasers.classList.add('teaser-done');
+            setTimeout(function(){ if (teasers.parentNode) teasers.parentNode.removeChild(teasers); }, 300);
           }
           spawnAll();
         }
