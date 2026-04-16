@@ -20,6 +20,13 @@
        it's already cached by the time the user scrolls to the
        "Spirals Everywhere" section. -->
   <link rel="preload" as="image" href="IMG_4945.png" fetchpriority="high"/>
+  <!-- Preload card1.png (the hero teaser) at the highest priority so
+       it can drop from the top of the screen *before* the huge inline
+       CARDS base64 blob finishes parsing. This gives the user motion
+       within ~200-400ms of navigation instead of waiting for the
+       whole HTML to arrive. Physics rain still takes over once the
+       full CARDS definition is ready. -->
+  <link rel="preload" as="image" href="card1.png" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
   <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
@@ -120,6 +127,40 @@
       touch-action: none;     /* JS handles scroll vs drag decision */
     }
     #cv:active { cursor: grabbing; }
+
+    /* ── Hero teaser card: pure-CSS drop while the rest of the
+       HTML (CARDS base64) is still downloading/parsing. Starts
+       off-screen above the viewport and falls to roughly where
+       the physics rain will place card 0, then settles. When the
+       full rain takes over, the JS hero code adds .teaser-done to
+       fade this out. */
+    #hero-teaser {
+      position: absolute;
+      z-index: 1;             /* above canvas, below #content */
+      top: 0;
+      left: clamp(4%, 6vw, 60px);
+      width: clamp(68px, 11vw, 160px);
+      height: auto;
+      pointer-events: none;
+      opacity: 0.95;
+      filter: drop-shadow(0 6px 14px rgba(0,0,0,0.35));
+      transform: translate3d(0, -120%, 0) rotate(-8deg);
+      animation: hero-teaser-fall 1.4s cubic-bezier(.36,.07,.75,.55) forwards;
+      will-change: transform;
+    }
+    @keyframes hero-teaser-fall {
+      0%   { transform: translate3d(0, -120%, 0) rotate(-8deg); }
+      60%  { transform: translate3d(0, 58vh, 0) rotate(12deg); }
+      80%  { transform: translate3d(0, 52vh, 0) rotate(8deg); }   /* tiny bounce */
+      100% { transform: translate3d(0, 55vh, 0) rotate(10deg); }
+    }
+    #hero-teaser.teaser-done {
+      opacity: 0;
+      transition: opacity .25s ease;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #hero-teaser { animation: none; transform: translate3d(0, 55vh, 0) rotate(10deg); }
+    }
 
     /* ── Content overlay ───────────────────────────────────────── */
     #content {
@@ -497,6 +538,12 @@
 
 <section id="s1">
 <canvas id="cv"></canvas>
+<!-- Hero teaser card: an image-only placeholder that starts falling
+     from the top of the hero the instant the parser reaches this
+     element. Pure CSS animation, no JS dependency, no wait for the
+     huge CARDS base64 blob below. The JS hero rain hides this when
+     the real physics rain takes over. -->
+<img id="hero-teaser" src="card1.png" alt="" aria-hidden="true">
 
   <div id="content">
       <div class="hero-tags">
@@ -793,6 +840,14 @@
         // due to browser autoplay policy; redo plays with sound).
         if (!window._heroSpawned) {
           window._heroSpawned = true;
+          // Hide the CSS teaser card right before physics takes over.
+          // Its drop was the early "something is happening" motion
+          // the user saw while the huge CARDS blob was still parsing.
+          var teaser = document.getElementById('hero-teaser');
+          if (teaser) {
+            teaser.classList.add('teaser-done');
+            setTimeout(function(){ if (teaser.parentNode) teaser.parentNode.removeChild(teaser); }, 300);
+          }
           spawnAll();
         }
       }
