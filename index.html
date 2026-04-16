@@ -4,12 +4,25 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
   <title>EscapeGravity — DeepKids</title>
+  <!-- Open the TCP+TLS connection to the matter.js CDN and Google
+       Fonts early so the actual fetches later reuse the warm
+       connection (saves ~100-300ms on slow networks). -->
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
   <!-- Preload the custom font so it's ready before first paint,
        eliminating the flash of unstyled text (FOUT). -->
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
   <!-- Preload Pompiere so it's ready before first paint too -->
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Pompiere&display=swap" as="style"/>
   <link href="https://fonts.googleapis.com/css2?family=Pompiere&display=swap" rel="stylesheet"/>
+  <!-- Start downloading the spiral board image at high priority so
+       it's already cached by the time the user scrolls to the
+       "Spirals Everywhere" section. -->
+  <link rel="preload" as="image" href="IMG_4945.png" fetchpriority="high"/>
+  <!-- Preload matter.js too so it races with the inline HTML parse
+       instead of blocking it serially. -->
+  <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
   <style>
 
@@ -5465,7 +5478,7 @@
       <div class="spiral-ex"><img loading="lazy" decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
     </div>
     <div class="spiral-wrap">
-      <img id="spiral-board" class="spiral-img" loading="lazy" decoding="async" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
+      <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
     <div class="spiral-side">
@@ -7279,8 +7292,8 @@
     <div>
       <h4>Follow Us</h4>
       <div class="eg-footer-socials">
-        <a href="#" aria-label="X / Twitter"><svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
-        <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="17.5" cy="6.5" r="1.2"/></svg></a>
+        <a href="https://www.instagram.com/deepkids.club" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="17.5" cy="6.5" r="1.2"/></svg></a>
+        <a href="https://www.facebook.com/people/DeepKids/61584787613315/" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24"><path d="M13.5 22v-8h2.7l.4-3.1h-3.1V8.9c0-.9.25-1.5 1.55-1.5H16.7V4.6c-.3-.04-1.34-.13-2.56-.13-2.53 0-4.27 1.55-4.27 4.39v2.45H7.15V14.4h2.72V22z" fill="currentColor"/></svg></a>
         <a href="#" aria-label="YouTube"><svg viewBox="0 0 24 24"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19.1c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z" fill="none" stroke="currentColor" stroke-width="1.5"/><polygon points="9.75,8.25 15.5,12 9.75,15.75" fill="currentColor" stroke="none"/></svg></a>
       </div>
     </div>
