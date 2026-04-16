@@ -129,11 +129,12 @@
     #cv:active { cursor: grabbing; }
 
     /* ── Hero teaser card: pure-CSS drop while the rest of the
-       HTML (CARDS base64) is still downloading/parsing. Starts
-       off-screen above the viewport and falls to roughly where
-       the physics rain will place card 0, then settles. When the
-       full rain takes over, the JS hero code adds .teaser-done to
-       fade this out. */
+       HTML + CARDS base64 is still downloading/parsing. Falls all
+       the way past the bottom of the viewport and fades out — no
+       "frozen mid-screen" state if physics rain takes longer than
+       expected to spawn. When the full rain *does* take over, the
+       JS hero code adds .teaser-done which cancels the animation
+       and fades the element in ~200ms. */
     #hero-teaser {
       position: absolute;
       z-index: 1;             /* above canvas, below #content */
@@ -142,24 +143,31 @@
       width: clamp(68px, 11vw, 160px);
       height: auto;
       pointer-events: none;
-      opacity: 0.95;
+      opacity: 0;
       filter: drop-shadow(0 6px 14px rgba(0,0,0,0.35));
       transform: translate3d(0, -120%, 0) rotate(-8deg);
-      animation: hero-teaser-fall 1.4s cubic-bezier(.36,.07,.75,.55) forwards;
-      will-change: transform;
+      animation: hero-teaser-fall 2.4s cubic-bezier(.42,.02,.7,.55) forwards;
+      will-change: transform, opacity;
     }
     @keyframes hero-teaser-fall {
-      0%   { transform: translate3d(0, -120%, 0) rotate(-8deg); }
-      60%  { transform: translate3d(0, 58vh, 0) rotate(12deg); }
-      80%  { transform: translate3d(0, 52vh, 0) rotate(8deg); }   /* tiny bounce */
-      100% { transform: translate3d(0, 55vh, 0) rotate(10deg); }
+      0%    { transform: translate3d(0, -120%, 0) rotate(-8deg); opacity: 0; }
+      6%    { opacity: 1; }
+      45%   { transform: translate3d(0, 58vh, 0) rotate(12deg); opacity: 1; }
+      55%   { transform: translate3d(0, 50vh, 0) rotate(6deg);  opacity: 1; } /* small bounce */
+      65%   { transform: translate3d(0, 58vh, 0) rotate(14deg); opacity: 0.95; }
+      85%   { opacity: 0.35; }
+      100%  { transform: translate3d(0, 110vh, 0) rotate(28deg); opacity: 0; }
     }
+    /* When physics rain takes over, cancel the fall animation and
+       fade whatever position the card is in. Without !important the
+       CSS animation would keep dominating the opacity value. */
     #hero-teaser.teaser-done {
-      opacity: 0;
-      transition: opacity .25s ease;
+      animation: none !important;
+      opacity: 0 !important;
+      transition: opacity .2s ease;
     }
     @media (prefers-reduced-motion: reduce) {
-      #hero-teaser { animation: none; transform: translate3d(0, 55vh, 0) rotate(10deg); }
+      #hero-teaser { animation: none; opacity: 0; }
     }
 
     /* ── Content overlay ───────────────────────────────────────── */
