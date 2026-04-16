@@ -33,6 +33,9 @@
   <link rel="preload" as="image" href="Card9Side1.png"/>
   <link rel="preload" as="image" href="DeepKids_Logo_Idea.png"/>
   <link rel="preload" as="image" href="Copy of Core.png"/>
+  <!-- Preload the swoosh sound so it's decoded and ready before the
+       user's first gesture triggers a replay. -->
+  <link rel="preload" as="fetch" href="single Swoosh sound.wav" crossorigin/>
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
@@ -735,13 +738,20 @@
           clearTimeout(window._heroAutoReplayTimer);
           window._heroAutoReplayTimer = null;
         }
-        // Small delay so AudioContext.resume() has a tick to take effect.
-        // Skip the replay entirely if the user has already scrolled
-        // past the hero — re-dropping now would be a surprise.
-        setTimeout(function() {
+        // Wait for the swoosh buffer to be decoded (WAV may still be
+        // downloading). Poll every 80ms for up to 2s, then replay
+        // anyway (silent is better than never replaying).
+        var waited = 0;
+        function tryReplay() {
           if (!stillInHero()) return;
+          if (!swooshBuffer && waited < 2000) {
+            waited += 80;
+            setTimeout(tryReplay, 80);
+            return;
+          }
           if (typeof window.replayRain === 'function') window.replayRain();
-        }, 60);
+        }
+        setTimeout(tryReplay, 60);
       }
       ['pointerdown','touchstart','keydown','click'].forEach(function(evt) {
         document.addEventListener(evt, armAudioAndReplay, { passive: true, once: true });
