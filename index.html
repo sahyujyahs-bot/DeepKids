@@ -1924,6 +1924,114 @@
 
   </div>
 </section>
+<style>
+/* ── Exploding box animation ───────────────────────────── */
+/* Before the explosion fires, non-box items sit at opacity 0 with
+   a transform that JS computes to overlay them on the box centre.
+   On trigger, transforms are removed → items spring to their grid
+   cells. The spring easing gives a playful overshoot. */
+.s2-pin-item:not(.s2-pin-box) .s2-pin-lbl { opacity: 0; }
+.s2-pin-box.box-pulse {
+  animation: s2-box-pulse .55s ease;
+}
+@keyframes s2-box-pulse {
+  0%   { filter: brightness(1); }
+  40%  { filter: brightness(1.35) drop-shadow(0 0 40px rgba(156,188,20,.65)); }
+  100% { filter: brightness(1) drop-shadow(0 0 0 transparent); }
+}
+</style>
+<script>
+(function() {
+  var grid = document.querySelector('.s2-pin');
+  if (!grid) return;
+
+  var boxEl = grid.querySelector('.s2-pin-box');
+  var items = Array.prototype.slice.call(
+    grid.querySelectorAll('.s2-pin-item:not(.s2-pin-box)')
+  );
+  var labels = Array.prototype.slice.call(
+    grid.querySelectorAll('.s2-pin-item:not(.s2-pin-box) .s2-pin-lbl')
+  );
+  if (!boxEl || !items.length) return;
+
+  /* ── Measure & collapse items onto box centre ──────────── */
+  function collapse() {
+    var br = boxEl.getBoundingClientRect();
+    var bCx = br.left + br.width / 2;
+    var bCy = br.top + br.height / 2;
+
+    items.forEach(function(el) {
+      var r  = el.getBoundingClientRect();
+      var cx = r.left + r.width / 2;
+      var cy = r.top  + r.height / 2;
+      var dx = bCx - cx;
+      var dy = bCy - cy;
+
+      el.style.transition = 'none';
+      el.style.transform  = 'translate(' + dx + 'px,' + dy + 'px) scale(0.12) rotate(' + (Math.random() * 40 - 20) + 'deg)';
+      el.style.opacity    = '0';
+    });
+
+    labels.forEach(function(lbl) {
+      lbl.style.transition = 'none';
+      lbl.style.opacity    = '0';
+    });
+  }
+
+  collapse();
+
+  /* ── Explode on scroll into view ───────────────────────── */
+  var fired = false;
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting && !fired) {
+        fired = true;
+        explode();
+        obs.unobserve(grid);
+      }
+    });
+  }, { threshold: 0.25 });
+  obs.observe(grid);
+
+  function explode() {
+    /* Pulse the box */
+    boxEl.classList.add('box-pulse');
+    boxEl.addEventListener('animationend', function() {
+      boxEl.classList.remove('box-pulse');
+    }, { once: true });
+
+    /* Enable transitions on items (rAF double-wrap ensures the
+       browser has painted the collapsed state first) */
+    requestAnimationFrame(function() {
+      requestAnimationFrame(function() {
+        items.forEach(function(el, i) {
+          el.style.transition =
+            'transform .75s cubic-bezier(.34,1.56,.64,1) ' + (i * 70 + 80) + 'ms,' +
+            'opacity .45s ease ' + (i * 70 + 80) + 'ms';
+          el.style.transform = 'translate(0,0) scale(1) rotate(0deg)';
+          el.style.opacity   = '1';
+        });
+
+        /* Labels fade in after items have mostly landed */
+        setTimeout(function() {
+          labels.forEach(function(lbl, i) {
+            lbl.style.transition = 'opacity .4s ease ' + (i * 50) + 'ms';
+            lbl.style.opacity    = '1';
+          });
+        }, 550);
+      });
+    });
+  }
+
+  /* Re-collapse + re-measure on resize (positions change) */
+  var rt;
+  window.addEventListener('resize', function() {
+    if (fired) return;
+    clearTimeout(rt);
+    rt = setTimeout(collapse, 200);
+  });
+})();
+</script>
 
 <!-- ═══════════════════════════════════════════════ SECTION 2 ══ -->
 <style>
