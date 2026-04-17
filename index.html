@@ -560,6 +560,7 @@
     font-family: 'Norwester', sans-serif; font-size: clamp(18px,2.4vw,28px);
     color: #9cbc14; text-decoration: none; letter-spacing: 1px;
     white-space: nowrap;
+    opacity: 0; /* hidden until morph script hands off at scroll threshold */
   }
   .eg-nav-cta {
     margin-left: 0; /* override .btn-wrap default left shift inside the nav */
@@ -1278,121 +1279,98 @@
 
     /* ── Title morph: hero centre → nav logo on scroll ─────── */
     (function() {
-      var h1       = document.querySelector('.title');
-      var navLogo  = document.querySelector('.eg-nav-logo');
-      var nav      = document.querySelector('.eg-nav');
-      if (!h1 || !navLogo || !nav) return;
+      var h1      = document.querySelector('.title');
+      var navLogo = document.querySelector('.eg-nav-logo');
+      if (!h1 || !navLogo) return;
 
-      var sup = h1.querySelector('.hero-tm');
-
-      // Clone the h1 into a fixed overlay that we'll animate.
-      // The original stays in the DOM (visibility:hidden) to hold
-      // its layout space inside #content.
       var clone = document.createElement('div');
       clone.className = 'title-morph';
       clone.setAttribute('aria-hidden', 'true');
       clone.textContent = 'EscapeGravity';
       document.body.appendChild(clone);
 
-      var scrollRange, startX, startY, startW, startFontSize,
-          endX, endY, endFontSize, scaleEnd;
+      var scrollRange, startX, startY, startFontSize,
+          endX, endY, endFontSize, scaleEnd, padLR;
 
       function measure() {
-        // Temporarily restore original so we can measure its rect
         clone.style.display = 'none';
         h1.style.visibility = 'visible';
         h1.style.animation  = 'float-title 7s ease-in-out infinite';
 
+        var saved = window.pageYOffset || 0;
         var hr = h1.getBoundingClientRect();
         var nr = navLogo.getBoundingClientRect();
 
         startFontSize = parseFloat(getComputedStyle(h1).fontSize);
         endFontSize   = parseFloat(getComputedStyle(navLogo).fontSize);
         scaleEnd      = endFontSize / startFontSize;
+        padLR         = getComputedStyle(h1).paddingLeft;
 
         startX = hr.left;
-        startY = hr.top;
-        startW = hr.width;
+        startY = hr.top + saved;
         endX   = nr.left;
-        endY   = nr.top + (nr.height - hr.height * scaleEnd) / 2;
+        endY   = nr.top;
 
         scrollRange = window.innerHeight * 0.38;
 
-        // Set up clone to match h1
         clone.style.cssText =
           'position:fixed;z-index:1001;pointer-events:none;' +
           'font-family:Norwester,sans-serif;font-variant:small-caps;' +
           'font-weight:normal;font-style:normal;' +
           'line-height:.88;white-space:nowrap;' +
           'font-size:' + startFontSize + 'px;' +
-          'top:' + startY + 'px;left:' + startX + 'px;' +
-          'width:' + startW + 'px;' +
           'color:#fff;' +
           'text-shadow:0 0 26px rgba(160,210,20,.55),3px 3px 0 rgba(0,0,0,.9);' +
           'background:rgba(10,6,24,.6);' +
-          'padding:12px ' + getComputedStyle(h1).paddingLeft + ';' +
+          'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
-          'transform-origin:left center;' +
+          'transform-origin:left top;' +
           'will-change:transform,opacity;';
 
         clone.style.display = '';
         h1.style.visibility = 'hidden';
         h1.style.animation  = 'none';
-
-        // Force a first frame
         onScroll();
       }
 
-      function easeOutCubic(t) { return 1 - Math.pow(1 - t, 3); }
+      function ease(t) { return 1 - Math.pow(1 - t, 3); }
 
       function onScroll() {
-        var scrollY  = window.pageYOffset || 0;
-        var rawP     = Math.min(scrollY / scrollRange, 1);
-        var p        = easeOutCubic(rawP);
-
-        if (rawP <= 0) {
-          // Fully at top — clone visible, nav logo hidden
-          clone.style.transform  = 'translate(0,0) scale(1)';
-          clone.style.opacity    = '1';
-          clone.style.background = 'rgba(10,6,24,.6)';
-          clone.style.color      = '#fff';
-          navLogo.style.opacity  = '0';
-          return;
-        }
+        var scrollY = window.pageYOffset || 0;
+        var rawP    = Math.min(scrollY / scrollRange, 1);
+        var p       = ease(rawP);
 
         if (rawP >= 1) {
-          // Fully morphed — hide clone, show nav logo
           clone.style.opacity   = '0';
           navLogo.style.opacity = '1';
           return;
         }
 
-        // Interpolate position, scale, colours
-        var dx = (endX - startX) * p;
-        var dy = (endY - startY) * p;
-        var s  = 1 + (scaleEnd - 1) * p;
+        var pageX = startX;
+        var pageY = startY - scrollY;
 
-        clone.style.transform =
-          'translate(' + dx + 'px,' + dy + 'px) scale(' + s + ')';
+        var curX = pageX + (endX - pageX) * p;
+        var curY = pageY + (endY - pageY) * p;
+        var s    = 1 + (scaleEnd - 1) * p;
 
-        // Fade bg pill and swap colour white→lime
-        var bgAlpha = 0.6 * (1 - p);
-        clone.style.background = 'rgba(10,6,24,' + bgAlpha + ')';
+        clone.style.left      = curX + 'px';
+        clone.style.top       = curY + 'px';
+        clone.style.transform = 'scale(' + s + ')';
 
-        // Colour lerp: #fff(255,255,255) → #9cbc14(156,188,20)
+        clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
+
         var r = Math.round(255 + (156 - 255) * p);
         var g = Math.round(255 + (188 - 255) * p);
         var b = Math.round(255 + (20  - 255) * p);
         clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
 
-        // Text shadow fades to the nav style (subtle lime glow)
-        var tsA = 1 - p;
+        var a = 1 - p;
         clone.style.textShadow =
-          '0 0 26px rgba(160,210,20,' + (0.55 * tsA) + '),' +
-          '3px 3px 0 rgba(0,0,0,' + (0.9 * tsA) + ')';
+          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
+          '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
 
-        clone.style.opacity   = 1;
-        navLogo.style.opacity = 0;
+        clone.style.opacity   = '1';
+        navLogo.style.opacity = '0';
       }
 
       var ticking = false;
@@ -1403,13 +1381,11 @@
         }
       }, { passive: true });
 
-      var resizeTimer;
+      var rt;
       window.addEventListener('resize', function() {
-        clearTimeout(resizeTimer);
-        resizeTimer = setTimeout(measure, 200);
+        clearTimeout(rt); rt = setTimeout(measure, 200);
       });
 
-      // Initial measure once fonts are ready
       if (document.fonts && document.fonts.ready) {
         document.fonts.ready.then(measure);
       } else {
