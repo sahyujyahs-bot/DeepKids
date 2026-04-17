@@ -1369,8 +1369,17 @@
           '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
           '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
 
-        clone.style.opacity   = '1';
-        navLogo.style.opacity = '0';
+        // Smooth crossfade over the last 20% of the scroll range
+        // so the clone melts into the nav logo instead of snapping.
+        var fadeZone = 0.8;
+        if (rawP > fadeZone) {
+          var fp = (rawP - fadeZone) / (1 - fadeZone);
+          clone.style.opacity   = String(1 - fp);
+          navLogo.style.opacity = String(fp);
+        } else {
+          clone.style.opacity   = '1';
+          navLogo.style.opacity = '0';
+        }
       }
 
       var ticking = false;
