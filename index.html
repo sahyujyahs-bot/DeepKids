@@ -2287,7 +2287,8 @@
       }
     });
 
-    // Continuous train-like scroll
+    // Continuous train-like scroll — starts immediately,
+    // runs silently off-screen, already moving when user arrives
     var speed = 0.8;
     function tick() {
       if (!userTouching && pin.scrollWidth > pin.clientWidth) {
@@ -2298,17 +2299,7 @@
       }
       requestAnimationFrame(tick);
     }
-
-    // Start when section enters viewport
-    var started = false;
-    var obs = new IntersectionObserver(function(entries) {
-      if (entries[0].isIntersecting && !started) {
-        started = true;
-        tick();
-        obs.unobserve(pin);
-      }
-    }, { threshold: 0.15 });
-    obs.observe(pin);
+    tick();
 
     // Auto-flip cards when they pass near viewport centre
     var flips = pin.querySelectorAll('.s2-flip-card');
