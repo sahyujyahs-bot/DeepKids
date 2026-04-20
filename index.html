@@ -104,7 +104,7 @@
   <!-- "What's In The Box" section images — preload so they don't
        pop in slowly when user scrolls to that section. -->
   <link rel="preload" as="image" href="Egocentric with lid coming off.png"/>
-  <link rel="preload" as="image" href="full board.png"/>
+  <link rel="preload" as="image" href="full-board.jpg"/>
   <link rel="preload" as="image" href="IMG_5098.jpeg"/>
   <link rel="preload" as="image" href="IMG_5099.jpeg"/>
   <link rel="preload" as="image" href="Lightest_Items_Wins.png"/>
@@ -489,20 +489,27 @@
       letter-spacing: 2.5px;
     }
     /* "No Payment Needed" tag below Pre-Order buttons */
+    /* Container that aligns tag + link under the button text.
+       The btn-label sits at left:38% inside the SVG so we offset
+       this column ~12% left of center to match. */
+    .hero-cta-below {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-right: clamp(22px, 3.4vw, 42px);
+      margin-top: -2px;
+    }
     .no-pay-tag {
       font-family: 'Pompiere', sans-serif;
       font-size: clamp(11px, 1.3vw, 15px);
       color: rgba(156,188,20,0.75);
       letter-spacing: 1.5px;
-      margin-top: -2px;
-      padding-right: 8%;
-      text-align: center;
       text-shadow: 0 1px 3px rgba(0,0,0,.6);
       pointer-events: none;
     }
     .hero-playtest-link {
       display: inline-block;
-      margin-top: 10px;
+      margin-top: 8px;
       font-family: 'Pompiere', sans-serif;
       font-size: clamp(14px, 1.6vw, 19px);
       color: #fff;
@@ -718,8 +725,10 @@
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
-    <p class="no-pay-tag">No Payment Needed</p>
-    <a href="#" class="hero-playtest-link" onclick="event.preventDefault(); openPlayTest();">Join Play Testing</a>
+    <div class="hero-cta-below">
+      <p class="no-pay-tag">No Payment Needed</p>
+      <a href="#" class="hero-playtest-link" onclick="event.preventDefault(); openPlayTest();">Join Play Testing</a>
+    </div>
   </div>
 
   <!-- Replay button — bottom right -->
@@ -2067,7 +2076,7 @@
     </div>
 
     <div class="s2-pin-item s2-pin-spiral">
-      <img decoding="async" src="full board.png" alt="Board">
+      <img decoding="async" src="full-board.jpg" alt="Board">
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
