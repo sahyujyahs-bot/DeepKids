@@ -1982,8 +1982,8 @@
   /* Kit items: show full image, no cropping */
   .s2-pin-kit { grid-column: span 2; grid-row: span 3; }
   .s2-pin-kit > img { object-fit: contain; border-radius: 10px; }
-  /* Cards: tall portrait */
-  .s2-pin-chall { grid-column: span 1; grid-row: span 2; }
+  /* Cards: tall portrait — big enough to read text */
+  .s2-pin-chall { grid-column: span 1; grid-row: span 3; }
   /* Tokens / dice: small */
   .s2-pin-small { grid-column: span 1; grid-row: span 1; }
   .s2-pin-small > img,
@@ -2019,15 +2019,37 @@
     .s2-pin-chall  { grid-column: span 1; grid-row: span 2; }
   }
   @media (max-width: 560px) {
+    /* Mobile: horizontal auto-scrolling carousel */
     .s2-pin {
-      grid-template-columns: repeat(2, 1fr);
-      grid-auto-rows: clamp(100px, 28vw, 170px);
-      gap: 12px;
+      display: flex;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+      gap: 14px;
+      padding: 0 16px 16px;
+      scrollbar-width: none;
     }
-    .s2-pin-box    { grid-column: span 2; grid-row: span 2; }
-    .s2-pin-spiral { grid-column: span 2; grid-row: span 3; }
-    .s2-pin-kit    { grid-column: span 2; grid-row: span 3; }
-    .s2-pin-chall  { grid-column: span 1; grid-row: span 2; }
+    .s2-pin::-webkit-scrollbar { display: none; }
+    .s2-pin-item {
+      flex: 0 0 clamp(200px, 65vw, 280px);
+      scroll-snap-align: center;
+      min-height: auto;
+      max-height: none;
+    }
+    .s2-pin-item > img,
+    .s2-pin-item > svg {
+      flex: none;
+      height: auto;
+      max-height: clamp(260px, 75vw, 380px);
+    }
+    .s2-pin-small { flex: 0 0 clamp(140px, 40vw, 180px); }
+    .s2-pin-small > img,
+    .s2-pin-small > svg {
+      width: 80%;
+      height: auto;
+      max-height: clamp(140px, 40vw, 180px);
+    }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
 </style>
@@ -2316,6 +2338,47 @@
         cube.classList.remove('spinning');
       }, { once: true });
     });
+  }
+
+  /* ── Mobile auto-scroll carousel ───────────────────── */
+  if (window.innerWidth <= 560) {
+    var pin = document.querySelector('.s2-pin');
+    if (pin) {
+      var scrollSpeed = 0.6;
+      var paused = false;
+      var resumeTimer;
+
+      pin.addEventListener('pointerdown', function() {
+        paused = true;
+        clearTimeout(resumeTimer);
+      });
+      pin.addEventListener('pointerup', function() {
+        resumeTimer = setTimeout(function() { paused = false; }, 3000);
+      });
+      pin.addEventListener('scroll', function() {
+        paused = true;
+        clearTimeout(resumeTimer);
+        resumeTimer = setTimeout(function() { paused = false; }, 3000);
+      }, { passive: true });
+
+      function autoScroll() {
+        if (!paused && pin.scrollWidth > pin.clientWidth) {
+          pin.scrollLeft += scrollSpeed;
+          if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 2) {
+            pin.scrollLeft = 0;
+          }
+        }
+        requestAnimationFrame(autoScroll);
+      }
+      // Start auto-scroll when section enters viewport
+      var pinObs = new IntersectionObserver(function(entries) {
+        if (entries[0].isIntersecting) {
+          autoScroll();
+          pinObs.unobserve(pin);
+        }
+      }, { threshold: 0.1 });
+      pinObs.observe(pin);
+    }
   }
 })();
 </script>
