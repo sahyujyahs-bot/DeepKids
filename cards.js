@@ -7,7 +7,7 @@ const CARDS = {
   "Card7Side2": {src:"Card7Side2.png",w:170,h:128,role:"rain"},
   "Card8Side1": {src:"Card8Side1.png",w:109,h:150,role:"rain"},
   "Card9Side1": {src:"Card9Side1.png",w:109,h:150,role:"rain"},
-  "Card12Side1": {src:"Card12Side1.png",w:198,h:280,role:"balloon"},
+  "Card12Side1": {src:"Hotairballoon.png",w:756,h:1051,role:"balloon"},
   "Card12Side2": {src:"Card12Side2.png",w:220,h:124,role:"bird"},
   "Card13Side1": {src:"Card13Side1.png",w:206,h:280,role:"parachute"},
   "DKLogo": {src:"DeepKids_Logo_Idea.png",w:200,h:200,role:"rain"},
