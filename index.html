@@ -1976,12 +1976,12 @@
   /* Box: wide landscape */
   .s2-pin-box { grid-column: span 2; grid-row: span 2; }
   .s2-pin-box > img { object-fit: cover; object-position: center; border-radius: 10px; }
-  /* Board: square, big */
-  .s2-pin-spiral { grid-column: span 2; grid-row: span 2; }
-  .s2-pin-spiral > img { object-fit: cover; border-radius: 10px; }
-  /* Kit items: square */
-  .s2-pin-kit { grid-column: span 2; grid-row: span 2; }
-  .s2-pin-kit > img { object-fit: cover; border-radius: 10px; }
+  /* Board: show full image, no cropping */
+  .s2-pin-spiral { grid-column: span 2; grid-row: span 3; }
+  .s2-pin-spiral > img { object-fit: contain; border-radius: 10px; }
+  /* Kit items: show full image, no cropping */
+  .s2-pin-kit { grid-column: span 2; grid-row: span 3; }
+  .s2-pin-kit > img { object-fit: contain; border-radius: 10px; }
   /* Cards: tall portrait */
   .s2-pin-chall { grid-column: span 1; grid-row: span 2; }
   /* Tokens / dice: small */
@@ -2014,8 +2014,8 @@
       grid-auto-rows: clamp(110px, 18vw, 180px);
     }
     .s2-pin-box    { grid-column: span 2; grid-row: span 2; }
-    .s2-pin-spiral { grid-column: span 2; grid-row: span 2; }
-    .s2-pin-kit    { grid-column: span 2; grid-row: span 2; }
+    .s2-pin-spiral { grid-column: span 2; grid-row: span 3; }
+    .s2-pin-kit    { grid-column: span 2; grid-row: span 3; }
     .s2-pin-chall  { grid-column: span 1; grid-row: span 2; }
   }
   @media (max-width: 560px) {
@@ -2025,8 +2025,8 @@
       gap: 12px;
     }
     .s2-pin-box    { grid-column: span 2; grid-row: span 2; }
-    .s2-pin-spiral { grid-column: span 2; grid-row: span 2; }
-    .s2-pin-kit    { grid-column: span 2; grid-row: span 2; }
+    .s2-pin-spiral { grid-column: span 2; grid-row: span 3; }
+    .s2-pin-kit    { grid-column: span 2; grid-row: span 3; }
     .s2-pin-chall  { grid-column: span 1; grid-row: span 2; }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
