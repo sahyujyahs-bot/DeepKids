@@ -96,6 +96,21 @@
   <link rel="preload" as="image" href="Card9Side1.png"/>
   <link rel="preload" as="image" href="DeepKids_Logo_Idea.png"/>
   <link rel="preload" as="image" href="Copy of Core.png"/>
+  <!-- Floater images (bird, balloon, parachute) — preload so they
+       appear shortly after the physics rain starts. -->
+  <link rel="preload" as="image" href="Card12Side1.png"/>
+  <link rel="preload" as="image" href="Card12Side2.png"/>
+  <link rel="preload" as="image" href="Card13Side1.png"/>
+  <!-- "What's In The Box" section images — preload so they don't
+       pop in slowly when user scrolls to that section. -->
+  <link rel="preload" as="image" href="Egocentric with lid coming off.png"/>
+  <link rel="preload" as="image" href="full board.png"/>
+  <link rel="preload" as="image" href="IMG_5098.jpeg"/>
+  <link rel="preload" as="image" href="IMG_5099.jpeg"/>
+  <link rel="preload" as="image" href="Lightest_Items_Wins.png"/>
+  <link rel="preload" as="image" href="Physical_Challenge_Card_Top_Side.png"/>
+  <link rel="preload" as="image" href="Blue astronaut front.png"/>
+  <link rel="preload" as="image" href="Untitled_Artwork 7.png"/>
   <!-- Preload the swoosh sound so it's decoded and ready before the
        user's first gesture triggers a replay. -->
   <link rel="preload" as="fetch" href="single Swoosh sound.wav" crossorigin/>
@@ -1227,6 +1242,7 @@
       /* ── Render loop ────────────────────────────────────────── */
       function loop() {
         t++;
+        initFloaters();
         drawBackground();
         drawPhysics();
         updateBalloon();
@@ -1873,20 +1889,20 @@
 
   <div class="s2-pin">
     <div class="s2-pin-item s2-pin-box">
-      <img loading="lazy" decoding="async" src="Egocentric with lid coming off.png" alt="The Box">
+      <img decoding="async" src="Egocentric with lid coming off.png" alt="The Box">
       <div class="s2-pin-lbl">Box</div>
     </div>
 
     <div class="s2-pin-item s2-pin-spiral">
-      <img loading="lazy" decoding="async" src="full board.png" alt="Board">
+      <img decoding="async" src="full board.png" alt="Board">
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
     <div class="s2-pin-item s2-pin-chall">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img loading="lazy" decoding="async" src="IMG_5098.jpeg" alt="Force Card Front"></div>
-          <div class="s2-flip-back"><img loading="lazy" decoding="async" src="IMG_5099.jpeg" alt="Force Card Back"></div>
+          <div class="s2-flip-front"><img decoding="async" src="IMG_5098.jpeg" alt="Force Card Front"></div>
+          <div class="s2-flip-back"><img decoding="async" src="IMG_5099.jpeg" alt="Force Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -1896,8 +1912,8 @@
     <div class="s2-pin-item s2-pin-chall">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img loading="lazy" decoding="async" src="Lightest_Items_Wins.png" alt="Challenge Card Front"></div>
-          <div class="s2-flip-back"><img loading="lazy" decoding="async" src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back"></div>
+          <div class="s2-flip-front"><img decoding="async" src="Lightest_Items_Wins.png" alt="Challenge Card Front"></div>
+          <div class="s2-flip-back"><img decoding="async" src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -1905,12 +1921,12 @@
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img loading="lazy" decoding="async" src="Blue astronaut front.png" alt="Astronaut Token">
+      <img decoding="async" src="Blue astronaut front.png" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img loading="lazy" decoding="async" src="Untitled_Artwork 7.png" alt="Rocket Token">
+      <img decoding="async" src="Untitled_Artwork 7.png" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
