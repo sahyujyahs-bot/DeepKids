@@ -113,6 +113,9 @@
   <link rel="preload" as="image" href="Untitled_Artwork 7.png"/>
   <link rel="preload" as="image" href="IMG_5301.png"/>
   <link rel="preload" as="image" href="IMG_5302.jpeg"/>
+  <!-- Spiral section images — preload so they're cached before scroll -->
+  <link rel="preload" as="image" href="spiral-galaxy-x.jpg"/>
+  <link rel="preload" as="image" href="water-swirl_600.jpg"/>
   <!-- Preload the swoosh sound so it's decoded and ready before the
        user's first gesture triggers a replay. -->
   <link rel="preload" as="fetch" href="single Swoosh sound.wav" crossorigin/>
@@ -489,7 +492,7 @@
       color: rgba(156,188,20,0.75);
       letter-spacing: 1.5px;
       margin-top: -2px;
-      padding-right: 18%;
+      padding-right: 8%;
       text-align: center;
       text-shadow: 0 1px 3px rgba(0,0,0,.6);
       pointer-events: none;
@@ -1180,8 +1183,11 @@
       }
 
       const bird    = { x: -300, phase: 0, phaseSpd: 0.040, img: null, w: 0, h: 0, ready: false };
-      const balloon = { x: 0, y: 0, spd: 1.8, drift: 0, img: null, w: 0, h: 0, ready: false };
-      const chute   = { x: 0, y: 0, spd: 0.50, drift: 0, img: null, w: 0, h: 0, ready: false };
+      // Speed scales with viewport height so floaters don't zip
+      // on small mobile screens vs large desktop monitors.
+      var floatSpeedFactor = Math.max(0.55, H / 900);
+      const balloon = { x: 0, y: 0, spd: 1.2 * floatSpeedFactor, drift: 0, img: null, w: 0, h: 0, ready: false };
+      const chute   = { x: 0, y: 0, spd: 0.45 * floatSpeedFactor, drift: 0, img: null, w: 0, h: 0, ready: false };
 
       function initFloaters() {
         if (imgCache[BIRD_KEY] && !bird.ready) {
@@ -5923,25 +5929,25 @@
   <!-- Desktop: tiles flanking spiral -->
   <div class="spiral-stage eg-fade-in">
     <div class="spiral-side">
-      <div class="spiral-ex"><img loading="lazy" decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
-      <div class="spiral-ex"><img loading="lazy" decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
     </div>
     <div class="spiral-wrap">
       <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
     <div class="spiral-side">
-      <div class="spiral-ex"><img loading="lazy" decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-      <div class="spiral-ex"><img loading="lazy" decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
     </div>
   </div>
 
   <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
   <div class="spiral-row-mobile eg-fade-in">
-    <div class="spiral-ex"><img loading="lazy" decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
-    <div class="spiral-ex"><img loading="lazy" decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
-    <div class="spiral-ex"><img loading="lazy" decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-    <div class="spiral-ex"><img loading="lazy" decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
   </div>
 </section>
 
