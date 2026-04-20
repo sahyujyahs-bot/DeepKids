@@ -111,6 +111,8 @@
   <link rel="preload" as="image" href="Physical_Challenge_Card_Top_Side.png"/>
   <link rel="preload" as="image" href="Blue astronaut front.png"/>
   <link rel="preload" as="image" href="Untitled_Artwork 7.png"/>
+  <link rel="preload" as="image" href="IMG_5301.png"/>
+  <link rel="preload" as="image" href="IMG_5302.jpeg"/>
   <!-- Preload the swoosh sound so it's decoded and ready before the
        user's first gesture triggers a replay. -->
   <link rel="preload" as="fetch" href="single Swoosh sound.wav" crossorigin/>
@@ -485,9 +487,10 @@
       font-family: 'Pompiere', sans-serif;
       font-size: clamp(11px, 1.3vw, 15px);
       color: rgba(156,188,20,0.75);
-      text-align: center;
       letter-spacing: 1.5px;
-      margin-top: 8px;
+      margin-top: -2px;
+      padding-right: 18%;
+      text-align: center;
       text-shadow: 0 1px 3px rgba(0,0,0,.6);
       pointer-events: none;
     }
@@ -1172,11 +1175,12 @@
       /* ── Floaters: bird, balloon, parachute ─────────────────── */
       function floatScale(role) {
         if (role === 'bird') return W < 480 ? 0.55 : W < 768 ? 0.68 : 1.0;
+        if (role === 'balloon') return W < 480 ? 0.08 : W < 768 ? 0.11 : W < 960 ? 0.14 : 0.17;
         return W < 480 ? 0.20 : W < 768 ? 0.28 : W < 960 ? 0.38 : 0.52;
       }
 
       const bird    = { x: -300, phase: 0, phaseSpd: 0.040, img: null, w: 0, h: 0, ready: false };
-      const balloon = { x: 0, y: 0, spd: 0.55, drift: 0, img: null, w: 0, h: 0, ready: false };
+      const balloon = { x: 0, y: 0, spd: 1.8, drift: 0, img: null, w: 0, h: 0, ready: false };
       const chute   = { x: 0, y: 0, spd: 0.50, drift: 0, img: null, w: 0, h: 0, ready: false };
 
       function initFloaters() {
@@ -1704,7 +1708,8 @@
   margin: clamp(8px, 1vh, 14px) auto 0;
   display: block;
 }
-.po-submit .btn-svg { width: clamp(180px, 32vw, 260px); }
+.po-submit .btn-svg { width: clamp(220px, 38vw, 320px); }
+.po-submit .btn-label { font-size: clamp(13px, 1.6vw, 20px); left: 38%; }
 .po-privacy {
   font-family: 'Pompiere', sans-serif;
   font-size: 12px;
@@ -5706,7 +5711,7 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5116.jpeg" alt="Buoyancy — Water">
+        <img class="s6b-fc-img" src="IMG_5301.png" alt="Buoyancy — Water (content side)">
       </div>
     </div>
   </div>
@@ -5727,7 +5732,7 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Balance">
+        <img class="s6b-fc-img" src="IMG_5302.jpeg" alt="Center Of Gravity — Balance (content side)">
       </div>
     </div>
   </div>
@@ -6613,39 +6618,28 @@
     }
   });
 
-  // Subtle whoosh sound when the exp-grid tiles pop in on scroll
-  var expSoundPlayed = false;
-  var expObs = new IntersectionObserver(function(entries) {
-    entries.forEach(function(e) {
-      if (e.isIntersecting && !expSoundPlayed) {
-        expSoundPlayed = true;
-        try {
-          var ac = new (window.AudioContext || window.webkitAudioContext)();
-          if (ac.state === 'suspended') ac.resume();
-          // Synthesized soft whoosh: filtered noise burst
-          var len = ac.sampleRate * 0.6;
-          var buf = ac.createBuffer(1, len, ac.sampleRate);
-          var data = buf.getChannelData(0);
-          for (var i = 0; i < len; i++) {
-            var env = Math.pow(1 - i / len, 2.5);
-            data[i] = (Math.random() * 2 - 1) * env * 0.12;
-          }
-          var src = ac.createBufferSource();
-          src.buffer = buf;
-          var filt = ac.createBiquadFilter();
-          filt.type = 'bandpass';
-          filt.frequency.setValueAtTime(1200, ac.currentTime);
-          filt.frequency.exponentialRampToValueAtTime(300, ac.currentTime + 0.5);
-          filt.Q.value = 0.7;
-          src.connect(filt);
-          filt.connect(ac.destination);
-          src.start();
-        } catch(err) {}
-        expObs.unobserve(grid);
-      }
-    });
-  }, { threshold: 0.2 });
-  expObs.observe(grid);
+  // Soft pop sound on each individual illustration hover/tap
+  var expAc = null;
+  function playExpPop() {
+    try {
+      if (!expAc) expAc = new (window.AudioContext || window.webkitAudioContext)();
+      if (expAc.state === 'suspended') expAc.resume();
+      var osc = expAc.createOscillator();
+      var gain = expAc.createGain();
+      osc.type = 'sine';
+      osc.frequency.setValueAtTime(680 + Math.random() * 200, expAc.currentTime);
+      osc.frequency.exponentialRampToValueAtTime(280, expAc.currentTime + 0.12);
+      gain.gain.setValueAtTime(0.08, expAc.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.001, expAc.currentTime + 0.15);
+      osc.connect(gain);
+      gain.connect(expAc.destination);
+      osc.start();
+      osc.stop(expAc.currentTime + 0.18);
+    } catch(err) {}
+  }
+  grid.querySelectorAll('.exp-item').forEach(function(item) {
+    item.addEventListener('pointerenter', playExpPop);
+  });
 })();
 </script>
 <style>
@@ -7744,7 +7738,7 @@
   <h2 class="page-h2 eg-fade-in">Participate In Play Testing</h2>
   <p class="s6-text eg-fade-in">Be the first to play EscapeGravity before launch. Sign up and we&rsquo;ll reach out!</p>
   <form class="s6-form eg-fade-in" id="s6-form" onsubmit="event.preventDefault(); doPreOrder();">
-    <input type="email" class="s6-input" placeholder="your.email@mission.control" required>
+    <input type="tel" class="s6-input" placeholder="+91 98765 43210" inputmode="tel" required>
     <button type="submit" class="dk-btn-host s6-launch" data-dk-size="md" data-dk-btn="Sign Up" aria-label="Sign Up"></button>
   </form>
 </section>
