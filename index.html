@@ -2276,11 +2276,52 @@
     });
   });
 
+  /* ── Card sounds ─────────────────────────────────────── */
+  var boxAudioCtx = null;
+  var cardFlipBuf = null;
+  var cardScrollBuf = null;
+  function getBoxAudio() {
+    if (!boxAudioCtx) boxAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    return boxAudioCtx;
+  }
+  function loadBoxSound(url, cb) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.responseType = 'arraybuffer';
+    xhr.onload = function() {
+      if (xhr.status === 200) {
+        getBoxAudio().decodeAudioData(xhr.response, function(buf) { cb(buf); });
+      }
+    };
+    xhr.send();
+  }
+  loadBoxSound('cardflip sound.wav', function(b) { cardFlipBuf = b; });
+  loadBoxSound('cardsscrollsound.wav', function(b) { cardScrollBuf = b; });
+
+  function playBoxSound(buf, vol) {
+    if (!buf || !boxAudioCtx) return;
+    try {
+      if (boxAudioCtx.state === 'suspended') boxAudioCtx.resume();
+      var src = boxAudioCtx.createBufferSource();
+      src.buffer = buf;
+      var gain = boxAudioCtx.createGain();
+      gain.gain.value = vol || 0.5;
+      src.connect(gain);
+      gain.connect(boxAudioCtx.destination);
+      src.start();
+    } catch(e) {}
+  }
+
   /* ── Flip cards ──────────────────────────────────────── */
   var flipCards = document.querySelectorAll('.s2-flip-card');
   flipCards.forEach(function(card) {
     card.addEventListener('click', function() {
       card.classList.toggle('flipped');
+      playBoxSound(cardFlipBuf, 0.55);
+    });
+    // Card scroll/touch sound on hover
+    card.closest('.s2-pin-item').addEventListener('pointerenter', function() {
+      playBoxSound(cardScrollBuf, 0.35);
     });
   });
 
