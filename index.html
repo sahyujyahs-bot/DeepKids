@@ -233,6 +233,9 @@
       text-align: center;
       pointer-events: none;
     }
+    @media (max-width: 768px) {
+      #content { padding-top: clamp(36px, 6vh, 60px); }
+    }
     #content > * { pointer-events: all; }
 
     /* ── Hero tag (Ages · Players · Playtime — single pill) ──── */
@@ -1186,8 +1189,8 @@
       // Speed scales with viewport height so floaters don't zip
       // on small mobile screens vs large desktop monitors.
       var floatSpeedFactor = Math.max(0.55, H / 900);
-      const balloon = { x: 0, y: 0, spd: 1.2 * floatSpeedFactor, drift: 0, img: null, w: 0, h: 0, ready: false };
-      const chute   = { x: 0, y: 0, spd: 0.45 * floatSpeedFactor, drift: 0, img: null, w: 0, h: 0, ready: false };
+      const balloon = { x: 0, y: 0, spd: 0.85 * floatSpeedFactor, drift: 0, img: null, w: 0, h: 0, ready: false };
+      const chute   = { x: 0, y: 0, spd: 0.32 * floatSpeedFactor, drift: 0, img: null, w: 0, h: 0, ready: false };
 
       function initFloaters() {
         if (imgCache[BIRD_KEY] && !bird.ready) {
