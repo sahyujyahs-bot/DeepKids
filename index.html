@@ -463,8 +463,8 @@
       transform: translate(-50%, -50%);
       font-family: 'Norwester', sans-serif;
       font-weight: normal; font-style: normal; font-variant: small-caps;
-      font-size: clamp(12px, 1.75vw, 22px);
-      letter-spacing: clamp(1px, .4vw, 5px);
+      font-size: clamp(15px, 2.2vw, 28px);
+      letter-spacing: clamp(1px, .5vw, 6px);
       color: #fff;
       text-shadow: 1px 1px 3px rgba(0,0,0,.7);
       pointer-events: none;
@@ -472,14 +472,24 @@
       max-width: 60%;
       text-align: center;
     }
-    /* Smaller button variants get a tighter label */
     .dk-btn-host[data-dk-size="sm"] .btn-label {
-      font-size: clamp(10px, 1.2vw, 14px);
-      letter-spacing: 1px;
+      font-size: clamp(12px, 1.5vw, 18px);
+      letter-spacing: 1.5px;
     }
     .dk-btn-host[data-dk-size="md"] .btn-label {
-      font-size: clamp(12px, 1.5vw, 18px);
-      letter-spacing: 2px;
+      font-size: clamp(14px, 1.8vw, 22px);
+      letter-spacing: 2.5px;
+    }
+    /* "No Payment Needed" tag below Pre-Order buttons */
+    .no-pay-tag {
+      font-family: 'Pompiere', sans-serif;
+      font-size: clamp(11px, 1.3vw, 15px);
+      color: rgba(156,188,20,0.75);
+      text-align: center;
+      letter-spacing: 1.5px;
+      margin-top: 8px;
+      text-shadow: 0 1px 3px rgba(0,0,0,.6);
+      pointer-events: none;
     }
 
     /* ── Replay button ─────────────────────────────────────────── */
@@ -656,6 +666,7 @@
       </svg>
       <span class="btn-label">Pre-Order</span>
     </div>
+    <p class="no-pay-tag">No Payment Needed</p>
   </div>
 
   <!-- Replay button — bottom right -->
@@ -1553,6 +1564,7 @@
         </svg>
         <span class="btn-label">Count Me In!</span>
       </button>
+      <p class="no-pay-tag" style="margin-top:10px;">No Payment Needed</p>
     </form>
     <p class="po-privacy">📱 We'll only ping you about the launch. Zero spam, full gravity.</p>
   </div>
@@ -1933,12 +1945,12 @@
     <div class="s2-pin-item s2-pin-small">
       <div class="s2-dice-scene">
         <div class="s2-dice-cube">
-          <div class="s2-dice-face"><span class="s2-dice-dot"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span><span class="s2-dice-dot"></span></div>
+          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:2/2"></span></div>
+          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span></div>
+          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/2"></span><span class="s2-dice-dot" style="grid-area:3/1"></span></div>
+          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
+          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/2"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
+          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/1"></span><span class="s2-dice-dot" style="grid-area:2/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
         </div>
       </div>
       <div class="s2-pin-lbl">Dice &mdash; Tap to Roll</div>
@@ -2038,21 +2050,21 @@
   width: 56px;
   height: 56px;
   border-radius: 10px;
-  background: #1a2508;
-  border: 1.5px solid #9cbc14;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-  padding: 8px;
+  background: linear-gradient(148deg, #a0c816 0%, #7aa010 100%);
+  border: 2px solid #6b2155;
+  box-shadow: inset 0 2px 6px rgba(255,255,255,.2), inset 0 -2px 4px rgba(0,0,0,.15);
+  display: grid;
+  grid-template: repeat(3,1fr)/repeat(3,1fr);
+  place-items: center;
+  padding: 6px;
   box-sizing: border-box;
 }
 .s2-dice-dot {
-  width: 10px;
-  height: 10px;
+  width: 9px;
+  height: 9px;
   border-radius: 50%;
-  background: #9cbc14;
+  background: radial-gradient(circle at 33% 33%, #fff, #e8e0d0);
+  box-shadow: inset 0 1px 1px rgba(255,255,255,.5), 0 1px 2px rgba(0,0,0,.3);
 }
 /* Position each face of the cube */
 .s2-dice-face:nth-child(1) { transform: rotateY(  0deg) translateZ(28px); } /* front - 1 */
@@ -6600,6 +6612,40 @@
       });
     }
   });
+
+  // Subtle whoosh sound when the exp-grid tiles pop in on scroll
+  var expSoundPlayed = false;
+  var expObs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting && !expSoundPlayed) {
+        expSoundPlayed = true;
+        try {
+          var ac = new (window.AudioContext || window.webkitAudioContext)();
+          if (ac.state === 'suspended') ac.resume();
+          // Synthesized soft whoosh: filtered noise burst
+          var len = ac.sampleRate * 0.6;
+          var buf = ac.createBuffer(1, len, ac.sampleRate);
+          var data = buf.getChannelData(0);
+          for (var i = 0; i < len; i++) {
+            var env = Math.pow(1 - i / len, 2.5);
+            data[i] = (Math.random() * 2 - 1) * env * 0.12;
+          }
+          var src = ac.createBufferSource();
+          src.buffer = buf;
+          var filt = ac.createBiquadFilter();
+          filt.type = 'bandpass';
+          filt.frequency.setValueAtTime(1200, ac.currentTime);
+          filt.frequency.exponentialRampToValueAtTime(300, ac.currentTime + 0.5);
+          filt.Q.value = 0.7;
+          src.connect(filt);
+          filt.connect(ac.destination);
+          src.start();
+        } catch(err) {}
+        expObs.unobserve(grid);
+      }
+    });
+  }, { threshold: 0.2 });
+  expObs.observe(grid);
 })();
 </script>
 <style>
@@ -7733,6 +7779,35 @@
   <div class="eg-footer-bottom">&copy; 2026 DeepKids. All rights reserved. <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="https://deepkids.in" style="color:#9cbc14;text-decoration:none;">deepkids.in</a></div>
 </footer>
 
+<!-- ═══════════════════ FLOATING PAPER ROCKET ══════════════ -->
+<style>
+.floating-rocket {
+  position: fixed;
+  z-index: 997;
+  width: clamp(30px, 4vw, 50px);
+  height: auto;
+  pointer-events: none;
+  opacity: 0;
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.4));
+  animation: rocket-fly 18s linear infinite;
+  will-change: transform;
+}
+@keyframes rocket-fly {
+  0%   { transform: translate(-60px, 75vh) rotate(35deg); opacity: 0; }
+  3%   { opacity: 0.85; }
+  50%  { transform: translate(calc(100vw + 60px), 15vh) rotate(35deg); opacity: 0.85; }
+  53%  { opacity: 0; }
+  54%  { transform: translate(calc(100vw + 60px), 60vh) rotate(-145deg); opacity: 0; }
+  57%  { opacity: 0.7; }
+  97%  { transform: translate(-60px, 25vh) rotate(-145deg); opacity: 0.7; }
+  100% { transform: translate(-60px, 25vh) rotate(-145deg); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .floating-rocket { display: none; }
+}
+</style>
+<img class="floating-rocket" src="Untitled_Artwork 7.png" alt="" aria-hidden="true">
+
 <!-- ═══════════════════════════════════ OBSERVER + FORM SCRIPTS ══ -->
 <script>
 (function(){
@@ -8128,8 +8203,8 @@
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
     font-weight: normal;
-    font-size: 16px;
-    letter-spacing: 2px;
+    font-size: 19px;
+    letter-spacing: 2.5px;
     color: #fff;
     text-shadow: 1px 1px 3px rgba(0,0,0,.7);
     pointer-events: none;
