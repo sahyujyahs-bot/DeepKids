@@ -43,8 +43,8 @@
        eliminating the flash of unstyled text (FOUT). -->
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
   <!-- Preload Pompiere so it's ready before first paint too -->
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Pompiere&display=swap" as="style"/>
-  <link href="https://fonts.googleapis.com/css2?family=Pompiere&display=swap" rel="stylesheet"/>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Pompiere&display=block" as="style"/>
+  <link href="https://fonts.googleapis.com/css2?family=Pompiere&display=block" rel="stylesheet"/>
   <!-- Structured data: helps Google show rich results (product info,
        ratings, breadcrumbs etc.) -->
   <script type="application/ld+json">
@@ -79,47 +79,12 @@
     ]
   }
   </script>
-  <!-- Start downloading the spiral board image at high priority so
-       it's already cached by the time the user scrolls to the
-       "Spirals Everywhere" section. -->
-  <link rel="preload" as="image" href="IMG_4945.png" fetchpriority="high"/>
-  <!-- Preload hero rain card images at high priority so they download
-       in parallel with the HTML. By the time the hero init JS runs
-       new Image(), these are already in the browser cache. -->
+  <!-- Only preload above-the-fold critical resources. Too many
+       preloads saturate the browser's ~6 connections and delay
+       fonts. Below-fold images load naturally on scroll. -->
   <link rel="preload" as="image" href="Card2Side2.png"/>
   <link rel="preload" as="image" href="Card4Side1.png"/>
-  <link rel="preload" as="image" href="Card4Side2.png"/>
   <link rel="preload" as="image" href="Card5Side1.png"/>
-  <link rel="preload" as="image" href="Card5Side2.png"/>
-  <link rel="preload" as="image" href="Card7Side2.png"/>
-  <link rel="preload" as="image" href="Card8Side1.png"/>
-  <link rel="preload" as="image" href="Card9Side1.png"/>
-  <link rel="preload" as="image" href="DeepKids_Logo_Idea.png"/>
-  <link rel="preload" as="image" href="Copy of Core.png"/>
-  <!-- Floater images (bird, balloon, parachute) — preload so they
-       appear shortly after the physics rain starts. -->
-  <link rel="preload" as="image" href="Hotairballoon.png"/>
-  <link rel="preload" as="image" href="Card12Side2.png"/>
-  <link rel="preload" as="image" href="Card13Side1.png"/>
-  <!-- "What's In The Box" section images — preload so they don't
-       pop in slowly when user scrolls to that section. -->
-  <link rel="preload" as="image" href="Egocentric with lid coming off.png"/>
-  <link rel="preload" as="image" href="board-prototype.webp"/>
-  <link rel="preload" as="image" href="kit-items.webp"/>
-  <link rel="preload" as="image" href="IMG_5098.jpeg"/>
-  <link rel="preload" as="image" href="IMG_5099.jpeg"/>
-  <link rel="preload" as="image" href="Lightest_Items_Wins.png"/>
-  <link rel="preload" as="image" href="Physical_Challenge_Card_Top_Side.png"/>
-  <link rel="preload" as="image" href="Blue astronaut front.png"/>
-  <link rel="preload" as="image" href="Untitled_Artwork 7.png"/>
-  <link rel="preload" as="image" href="IMG_5301.png"/>
-  <link rel="preload" as="image" href="IMG_5302.jpeg"/>
-  <!-- Spiral section images — preload so they're cached before scroll -->
-  <link rel="preload" as="image" href="spiral-galaxy-x.jpg"/>
-  <link rel="preload" as="image" href="water-swirl_600.jpg"/>
-  <!-- Preload the swoosh sound so it's decoded and ready before the
-       user's first gesture triggers a replay. -->
-  <link rel="preload" as="fetch" href="single Swoosh sound.wav" crossorigin/>
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
