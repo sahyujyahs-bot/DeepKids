@@ -500,6 +500,20 @@
       text-shadow: 0 1px 3px rgba(0,0,0,.6);
       pointer-events: none;
     }
+    .hero-playtest-link {
+      display: inline-block;
+      margin-top: 10px;
+      font-family: 'Pompiere', sans-serif;
+      font-size: clamp(14px, 1.6vw, 19px);
+      color: #fff;
+      text-decoration: underline;
+      text-underline-offset: 4px;
+      text-decoration-color: rgba(156,188,20,0.6);
+      letter-spacing: 1.5px;
+      text-shadow: 0 1px 4px rgba(0,0,0,.7);
+      transition: color .2s ease;
+    }
+    .hero-playtest-link:hover { color: #c0e638; }
 
     /* ── Replay button ─────────────────────────────────────────── */
     #replay-btn {
@@ -596,12 +610,38 @@
     white-space: nowrap;
     opacity: 0; /* hidden until morph script hands off at scroll threshold */
   }
+  .eg-nav-right {
+    display: flex;
+    align-items: center;
+    gap: clamp(12px, 2vw, 24px);
+  }
+  .eg-nav-playtest {
+    font-family: 'Pompiere', sans-serif;
+    font-size: clamp(13px, 1.4vw, 17px);
+    color: #9cbc14;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .3s ease;
+  }
+  .eg-nav-playtest.show {
+    opacity: 1;
+    pointer-events: auto;
+  }
   .eg-nav-cta {
-    margin-left: 0; /* override .btn-wrap default left shift inside the nav */
+    margin-left: 0;
   }
   .eg-nav-cta .btn-svg { width: clamp(120px, 14vw, 170px); }
   @media (max-width: 768px) {
     .eg-nav-cta { display: none; }
+    .eg-nav-playtest {
+      opacity: 1;
+      pointer-events: auto;
+      font-size: 14px;
+    }
   }
   /* offset body content for fixed nav */
   #s1 { margin-top: 0; /* s1 is full-screen, no offset needed */ }
@@ -609,7 +649,10 @@
 
 <nav class="eg-nav">
   <a href="#s1" class="eg-nav-logo">EscapeGravity</a>
-  <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
+  <div class="eg-nav-right">
+    <a href="#" class="eg-nav-playtest" onclick="event.preventDefault(); openPlayTest();">Join Play Testing</a>
+    <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
+  </div>
 </nav>
 
 <section id="s1">
@@ -676,6 +719,7 @@
       <span class="btn-label">Pre-Order</span>
     </div>
     <p class="no-pay-tag">No Payment Needed</p>
+    <a href="#" class="hero-playtest-link" onclick="event.preventDefault(); openPlayTest();">Join Play Testing</a>
   </div>
 
   <!-- Replay button — bottom right -->
@@ -1449,6 +1493,14 @@
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.remove('show');
     }
+    function openPlayTest() {
+      var modal = document.getElementById('playtest-modal');
+      if (modal) modal.classList.add('show');
+    }
+    function closePlayTest() {
+      var modal = document.getElementById('playtest-modal');
+      if (modal) modal.classList.remove('show');
+    }
     function submitPreOrder(e) {
       e.preventDefault();
       var form = e.target;
@@ -1521,6 +1573,48 @@
 
       return false;
     }
+    function submitPlayTest(e) {
+      e.preventDefault();
+      var form = e.target;
+      var cc = form.querySelector('#pt-cc').value.trim();
+      var phone = form.querySelector('#pt-phone').value.trim();
+      var name = form.querySelector('#pt-name').value.trim();
+      var msg = document.getElementById('pt-msg');
+      msg.textContent = '';
+      msg.className = 'po-msg';
+      var digits = phone.replace(/\D/g, '');
+      if (!cc.match(/^\+?\d{1,4}$/)) { msg.textContent = 'Please enter a valid country code.'; msg.classList.add('err'); return false; }
+      if (digits.length < 7 || digits.length > 15) { msg.textContent = 'Please enter a valid phone number.'; msg.classList.add('err'); return false; }
+      if (!name) { msg.textContent = 'Please enter your name.'; msg.classList.add('err'); return false; }
+      var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
+      try {
+        var pts = JSON.parse(localStorage.getItem('eg-playtests') || '[]');
+        pts.push({ name: name, whatsapp: fullNumber, ts: new Date().toISOString() });
+        localStorage.setItem('eg-playtests', JSON.stringify(pts));
+      } catch(ex) {}
+      var data = new FormData();
+      data.append('name', name);
+      data.append('whatsapp', fullNumber);
+      data.append('_subject', 'EscapeGravity Play Test Request: ' + name);
+      data.append('_template', 'table');
+      data.append('_captcha', 'false');
+      msg.textContent = 'Submitting…';
+      var btn = form.querySelector('button[type="submit"]');
+      if (btn) btn.disabled = true;
+      fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
+        method: 'POST', headers: { 'Accept': 'application/json' }, body: data
+      }).then(function(r) { return r.json(); }).then(function() {
+        msg.textContent = '✓ Awesome! We\'ll WhatsApp you to schedule a play test.';
+        msg.className = 'po-msg success';
+        form.reset();
+        setTimeout(closePlayTest, 2800);
+      }).catch(function() {
+        msg.textContent = 'Saved! We\'ll reach out to schedule your play test.';
+        msg.className = 'po-msg success';
+        setTimeout(closePlayTest, 2800);
+      }).finally(function() { if (btn) btn.disabled = false; });
+      return false;
+    }
     // Close modal on backdrop click / Esc
     document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape') closePreOrderModal();
@@ -1580,6 +1674,59 @@
       <p class="no-pay-tag" style="margin-top:10px;">No Payment Needed</p>
     </form>
     <p class="po-privacy">📱 We'll only ping you about the launch. Zero spam, full gravity.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════ PLAY TESTING MODAL ══════════════ -->
+<div id="playtest-modal" class="po-modal" onclick="if(event.target===this)closePlayTest()">
+  <div class="po-box">
+    <button type="button" class="po-close" onclick="closePlayTest()" aria-label="Close">&times;</button>
+    <div class="po-hero-img">
+      <img src="Untitled_Artwork 7.png" alt="Rocket" class="po-rocket">
+    </div>
+    <h3 class="po-title">Join Play Testing</h3>
+    <p class="po-subtitle">Join with your WhatsApp number. We'll ping you to find a weekend and time for a play test session in your locality.</p>
+    <form class="po-form" onsubmit="return submitPlayTest(event)">
+      <label class="po-field">
+        <span>Your Name</span>
+        <input type="text" id="pt-name" placeholder="Commander Jane" required maxlength="60">
+      </label>
+      <label class="po-field">
+        <span>WhatsApp Number</span>
+        <div class="po-phone-row">
+          <input type="text" id="pt-cc" placeholder="+91" value="+91" maxlength="5" inputmode="tel">
+          <input type="tel" id="pt-phone" placeholder="98765 43210" required maxlength="20" inputmode="tel">
+        </div>
+      </label>
+      <div id="pt-msg" class="po-msg"></div>
+      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Join Playtest">
+        <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="dk-green-grad-pt" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#c0e638"/>
+              <stop offset="45%" stop-color="#9cbc14"/>
+              <stop offset="100%" stop-color="#6b8f08"/>
+            </linearGradient>
+            <linearGradient id="dk-highlight-pt" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+              <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+            </linearGradient>
+          </defs>
+          <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+          <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
+          <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad-pt)"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight-pt)"/>
+          <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <span class="btn-label">Join Playtest</span>
+      </button>
+      <p class="no-pay-tag" style="margin-top:10px;">No Payment Needed</p>
+    </form>
   </div>
 </div>
 
@@ -7745,11 +7892,10 @@
 <!-- ═══════════════════════════════════════════════ S5: CONTACT ══ -->
 <section id="s7" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Participate In Play Testing</h2>
-  <p class="s6-text eg-fade-in">Be the first to play EscapeGravity before launch. Sign up and we&rsquo;ll reach out!</p>
-  <form class="s6-form eg-fade-in" id="s6-form" onsubmit="event.preventDefault(); doPreOrder();">
-    <input type="tel" class="s6-input" placeholder="+91 98765 43210" inputmode="tel" required>
-    <button type="submit" class="dk-btn-host s6-launch" data-dk-size="md" data-dk-btn="Sign Up" aria-label="Sign Up"></button>
-  </form>
+  <p class="s6-text eg-fade-in">Join with your WhatsApp number. We'll ping you to find a weekend and time for a play test session in your locality.</p>
+  <div class="s6-form eg-fade-in" style="justify-content:center;">
+    <button type="button" class="dk-btn-host s6-launch" data-dk-size="md" data-dk-btn="Join Playtest" aria-label="Join Playtest" onclick="openPlayTest()"></button>
+  </div>
 </section>
 
 <!-- ═══════════════════════════════════════════════ FOOTER ══ -->
@@ -8249,13 +8395,18 @@
 <script>
 (function(){
   var el = document.getElementById('eg-mobile-preorder');
-  if (!el) return;
+  var navPt = document.querySelector('.eg-nav-playtest');
 
   function toggle(){
-    // Show after user scrolls past the 1st viewport (i.e. from the 2nd viewport onward)
-    var show = window.pageYOffset > window.innerHeight * 0.85;
-    el.classList.toggle('visible', show);
-    el.setAttribute('aria-hidden', show ? 'false' : 'true');
+    var past = window.pageYOffset > window.innerHeight * 0.85;
+    if (el) {
+      el.classList.toggle('visible', past);
+      el.setAttribute('aria-hidden', past ? 'false' : 'true');
+    }
+    // Show "Join Play Testing" in nav on desktop after scrolling past hero
+    if (navPt && window.innerWidth > 768) {
+      navPt.classList.toggle('show', past);
+    }
   }
   window.addEventListener('scroll', toggle, {passive: true});
   window.addEventListener('resize', toggle);
