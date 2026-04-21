@@ -1600,7 +1600,7 @@
 
       // Also save to Google Sheet (fire-and-forget)
       try {
-        var sheetFd = new FormData();
+        var sheetFd = new URLSearchParams();
         sheetFd.append('name', name);
         sheetFd.append('whatsapp', fullNumber);
         sheetFd.append('type', 'Pre-Order');
@@ -1658,7 +1658,7 @@
 
       // Also save to Google Sheet (fire-and-forget)
       try {
-        var sheetFd = new FormData();
+        var sheetFd = new URLSearchParams();
         sheetFd.append('name', name);
         sheetFd.append('whatsapp', fullNumber);
         sheetFd.append('type', 'Playtest');
