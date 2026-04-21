@@ -8372,10 +8372,19 @@
     }
   }
 
+  // Cache cursor: only regenerate when angle changes by > 0.15 rad (~8.6°)
+  // toDataURL() is extremely expensive (PNG encode per call)
+  var lastCursorAngle = -999;
+  var lastCursorUrl = null;
   function applyCursor(angle) {
     if (!spiralLoaded) return;
+    if (Math.abs(angle - lastCursorAngle) < 0.15 && lastCursorUrl) {
+      return; // reuse cached cursor
+    }
+    lastCursorAngle = angle;
     var url = cursorAtAngle(angle);
     if (!url) { document.body.style.cursor = 'auto'; return; }
+    lastCursorUrl = url;
     document.body.style.cursor = 'url(' + url + ') ' + HALF + ' ' + HALF + ', auto';
   }
 
