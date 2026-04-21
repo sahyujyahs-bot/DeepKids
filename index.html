@@ -1598,14 +1598,11 @@
         msg.className = 'po-msg success';
         setTimeout(closePreOrderModal, 2800);
 
-      // Also save to Google Sheet (parallel, fire-and-forget)
-      try {
-        var sheetUrl = 'https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec'
-          + '?name=' + encodeURIComponent(name)
-          + '&whatsapp=' + encodeURIComponent(fullNumber)
-          + '&type=Pre-Order';
-        fetch(sheetUrl, { mode: 'no-cors' }).catch(function(){});
-      } catch(ex) {}
+      // Also save to Google Sheet (fire-and-forget via image pixel)
+      try { new Image().src = 'https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec'
+        + '?name=' + encodeURIComponent(name)
+        + '&whatsapp=' + encodeURIComponent(fullNumber)
+        + '&type=Pre-Order'; } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
       });
@@ -1656,14 +1653,11 @@
         setTimeout(closePlayTest, 2800);
       }).finally(function() { if (btn) btn.disabled = false; });
 
-      // Also save to Google Sheet (parallel, fire-and-forget)
-      try {
-        var sheetUrl = 'https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec'
-          + '?name=' + encodeURIComponent(name)
-          + '&whatsapp=' + encodeURIComponent(fullNumber)
-          + '&type=Playtest';
-        fetch(sheetUrl, { mode: 'no-cors' }).catch(function(){});
-      } catch(ex) {}
+      // Also save to Google Sheet (fire-and-forget via image pixel)
+      try { new Image().src = 'https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec'
+        + '?name=' + encodeURIComponent(name)
+        + '&whatsapp=' + encodeURIComponent(fullNumber)
+        + '&type=Playtest'; } catch(ex) {}
       return false;
     }
     // Close modal on backdrop click / Esc
