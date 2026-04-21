@@ -1598,13 +1598,15 @@
         msg.className = 'po-msg success';
         setTimeout(closePreOrderModal, 2800);
 
-      // Also save to Google Sheet (fire-and-forget)
+      // Also save to Google Sheet (hidden iframe form submission)
       try {
-        var sheetFd = new URLSearchParams();
-        sheetFd.append('name', name);
-        sheetFd.append('whatsapp', fullNumber);
-        sheetFd.append('type', 'Pre-Order');
-        fetch('https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec', { method: 'POST', mode: 'no-cors', body: sheetFd }).catch(function(){});
+        var sf = document.createElement('form');
+        sf.method = 'POST'; sf.action = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec';
+        sf.target = 'eg-sheet-frame'; sf.style.display = 'none';
+        [['name',name],['whatsapp',fullNumber],['type','Pre-Order']].forEach(function(p){
+          var i = document.createElement('input'); i.type='hidden'; i.name=p[0]; i.value=p[1]; sf.appendChild(i);
+        });
+        document.body.appendChild(sf); sf.submit(); sf.remove();
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1656,13 +1658,15 @@
         setTimeout(closePlayTest, 2800);
       }).finally(function() { if (btn) btn.disabled = false; });
 
-      // Also save to Google Sheet (fire-and-forget)
+      // Also save to Google Sheet (hidden iframe form submission)
       try {
-        var sheetFd = new URLSearchParams();
-        sheetFd.append('name', name);
-        sheetFd.append('whatsapp', fullNumber);
-        sheetFd.append('type', 'Playtest');
-        fetch('https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec', { method: 'POST', mode: 'no-cors', body: sheetFd }).catch(function(){});
+        var sf = document.createElement('form');
+        sf.method = 'POST'; sf.action = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec';
+        sf.target = 'eg-sheet-frame'; sf.style.display = 'none';
+        [['name',name],['whatsapp',fullNumber],['type','Playtest']].forEach(function(p){
+          var i = document.createElement('input'); i.type='hidden'; i.name=p[0]; i.value=p[1]; sf.appendChild(i);
+        });
+        document.body.appendChild(sf); sf.submit(); sf.remove();
       } catch(ex) {}
       return false;
     }
@@ -9018,5 +9022,6 @@
 })();
 </script>
 
+<iframe name="eg-sheet-frame" style="display:none"></iframe>
 </body>
 </html>
