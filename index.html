@@ -8304,20 +8304,53 @@
     requestAnimationFrame(animateCursor);
   }
 
-  // Spiral whirring sound — pitch matches spin speed
+  // Spiral sounds
   var spiralAc = null;
   var spiralWhirr = null;
+  var spinSoundBuf = null;
+  // Preload spin sound.wav for scroll turns
+  (function() {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'spin sound.wav', true);
+    xhr.responseType = 'arraybuffer';
+    xhr.onload = function() {
+      if (xhr.status === 200) {
+        if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
+        spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
+      }
+    };
+    xhr.send();
+  })();
+
+  // Play the spin sound.wav file (for scroll turns)
+  var spinSoundSrc = null;
+  function playSpinSound() {
+    if (!spinSoundBuf || !spiralAc) return;
+    try {
+      if (spiralAc.state === 'suspended') spiralAc.resume();
+      // Don't overlap — skip if already playing
+      if (spinSoundSrc) return;
+      spinSoundSrc = spiralAc.createBufferSource();
+      spinSoundSrc.buffer = spinSoundBuf;
+      var gain = spiralAc.createGain();
+      gain.gain.value = 0.3;
+      spinSoundSrc.connect(gain);
+      gain.connect(spiralAc.destination);
+      spinSoundSrc.onended = function() { spinSoundSrc = null; };
+      spinSoundSrc.start();
+    } catch(e) {}
+  }
+
+  // Synthesized whirr (for click/dblclick spins)
   function startSpiralSound(duration) {
     try {
       if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
       if (spiralAc.state === 'suspended') spiralAc.resume();
-      // Stop any existing whirr
       if (spiralWhirr) { try { spiralWhirr.osc.stop(); } catch(x){} spiralWhirr = null; }
       var osc = spiralAc.createOscillator();
       var gain = spiralAc.createGain();
       var t = spiralAc.currentTime;
       osc.type = 'sine';
-      // Start high pitch, sweep down as spin decelerates
       osc.frequency.setValueAtTime(320, t);
       osc.frequency.exponentialRampToValueAtTime(80, t + duration);
       gain.gain.setValueAtTime(0.06, t);
@@ -8362,7 +8395,7 @@
       animating = true;
       animateCursor();
     }
-    startSpiralSound(0.4);
+    playSpinSound();
   }, { passive: true });
 
   /* ── Touch scroll rotation ─────────────────────────────── */
@@ -8379,7 +8412,7 @@
       animating = true;
       animateCursor();
     }
-    startSpiralSound(0.35);
+    playSpinSound();
   }, { passive: true });
 
   /* ── Click: 1 full spin, alternating direction ─────────── */
