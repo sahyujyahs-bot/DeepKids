@@ -17,11 +17,13 @@
   </script>
   <!-- Microsoft Clarity — free heatmaps + session recordings -->
   <script>
-    (function(c,l,a,r,i,t,y){
-      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/CLARITY_ID";
-      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window,document,"clarity","script");
+    // Microsoft Clarity — replace CLARITY_ID with your project ID
+    // from clarity.microsoft.com to activate. Commented out until then.
+    // (function(c,l,a,r,i,t,y){
+    //   c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    //   t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/YOUR_ID";
+    //   y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    // })(window,document,"clarity","script");
   </script>
   <!-- Meta Pixel (Facebook/Instagram ads + retargeting) -->
   <script>
@@ -989,6 +991,8 @@
       const physEntries = [];   // { body, key, dW, dH }
       const rainTimers  = [];   // setTimeout IDs — cancelled on replay
       let maxCardH      = 200;
+      let teaseActive   = true;
+      let teaseTimer;
       let numPhysRows   = 1;
 
       /* spawnRain() is the replayable part — called on load and on replay */
@@ -1167,8 +1171,6 @@
 
         const hint    = document.getElementById('drag-hint');
         const replayBtn = document.getElementById('replay-btn');
-        let teaseActive = true;
-        let teaseTimer;
 
         /* Tease: wobble a random settled card every 6 s to signal interactivity */
         function startTease() {
