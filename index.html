@@ -90,6 +90,30 @@
        instead of blocking it serially. -->
   <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+  <!-- Global image fade-in: images start invisible and fade in
+       once fully loaded. Prevents blank screens and half-loaded
+       images unfolding top-to-bottom. -->
+  <style>
+    img[decoding="async"], img[loading="lazy"] {
+      opacity: 0;
+      transition: opacity .35s ease;
+    }
+    img.img-loaded {
+      opacity: 1;
+    }
+  </style>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img[decoding="async"], img[loading="lazy"]').forEach(function(img) {
+        if (img.complete && img.naturalWidth > 0) {
+          img.classList.add('img-loaded');
+        } else {
+          img.addEventListener('load', function() { img.classList.add('img-loaded'); });
+          img.addEventListener('error', function() { img.classList.add('img-loaded'); });
+        }
+      });
+    });
+  </script>
   <style>
 
     /* ── Fonts ─────────────────────────────────────────────────── */
@@ -200,7 +224,7 @@
       pointer-events: none;
     }
     @media (max-width: 768px) {
-      #content { padding-top: clamp(36px, 6vh, 60px); }
+      #content { padding-top: clamp(20px, 3.5vh, 40px); }
     }
     #content > * { pointer-events: all; }
 
@@ -1904,7 +1928,6 @@
     display: flex;
     overflow-x: auto;
     overflow-y: hidden;
-    scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
     gap: clamp(14px, 2vw, 24px);
     padding: 0 clamp(16px, 4vw, 48px) 20px;
@@ -1915,7 +1938,6 @@
   .s2-pin-item {
     flex: 0 0 auto;
     width: clamp(220px, 28vw, 340px);
-    scroll-snap-align: center;
     background: none;
     border: none;
     padding: 0;
@@ -1930,6 +1952,24 @@
     border-radius: clamp(10px, 1.5vw, 16px);
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
+  /* Staggered entry: items start invisible, pop in one by one */
+  .s2-pin-item {
+    opacity: 0;
+    transform: translateY(20px) scale(0.92);
+    animation: s2-item-enter .6s cubic-bezier(.34,1.56,.64,1) forwards;
+  }
+  .s2-pin-item:nth-child(1) { animation-delay: .05s; }
+  .s2-pin-item:nth-child(2) { animation-delay: .15s; }
+  .s2-pin-item:nth-child(3) { animation-delay: .25s; }
+  .s2-pin-item:nth-child(4) { animation-delay: .35s; }
+  .s2-pin-item:nth-child(5) { animation-delay: .45s; }
+  .s2-pin-item:nth-child(6) { animation-delay: .5s; }
+  .s2-pin-item:nth-child(7) { animation-delay: .55s; }
+  .s2-pin-item:nth-child(8) { animation-delay: .6s; }
+  .s2-pin-item:nth-child(9) { animation-delay: .65s; }
+  @keyframes s2-item-enter {
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
   .s2-pin-item > img,
   .s2-pin-item > svg {
     width: 100%;
@@ -1946,11 +1986,11 @@
   .s2-pin-kit { width: clamp(280px, 36vw, 440px); }
   .s2-pin-kit > img { border-radius: 10px; }
   .s2-pin-chall {
-    width: clamp(200px, 24vw, 300px);
+    width: clamp(240px, 30vw, 380px);
   }
   .s2-pin-chall .s2-flip-card {
     width: 100%;
-    height: clamp(280px, 36vw, 420px);
+    height: clamp(340px, 42vw, 520px);
   }
   .s2-pin-chall .s2-flip-front img,
   .s2-pin-chall .s2-flip-back img { object-fit: contain; }
@@ -1976,8 +2016,8 @@
     .s2-pin-box { width: clamp(220px, 65vw, 280px); }
     .s2-pin-spiral { width: clamp(220px, 65vw, 280px); }
     .s2-pin-kit { width: clamp(220px, 65vw, 280px); }
-    .s2-pin-chall { width: clamp(170px, 50vw, 220px); }
-    .s2-pin-chall .s2-flip-card { height: clamp(230px, 65vw, 310px); }
+    .s2-pin-chall { width: clamp(200px, 58vw, 260px); }
+    .s2-pin-chall .s2-flip-card { height: clamp(280px, 75vw, 370px); }
     .s2-pin-small { width: clamp(120px, 36vw, 160px); }
     .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
   }
