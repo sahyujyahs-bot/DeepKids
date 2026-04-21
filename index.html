@@ -1600,7 +1600,7 @@
 
       // Also save to Google Sheet (parallel, fire-and-forget)
       try {
-        fetch('https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec', {
+        fetch('https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec', { mode: 'no-cors',
           method: 'POST',
           body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Pre-Order' })
         }).catch(function(){});
@@ -1657,7 +1657,7 @@
 
       // Also save to Google Sheet (parallel, fire-and-forget)
       try {
-        fetch('https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec', {
+        fetch('https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec', { mode: 'no-cors',
           method: 'POST',
           body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Playtest' })
         }).catch(function(){});
