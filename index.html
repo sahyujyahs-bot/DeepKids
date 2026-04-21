@@ -119,6 +119,7 @@
   <link rel="preload" as="image" href="Card5Side1.png"/>
   <link rel="preload" as="image" href="box-lid.webp"/>
   <link rel="preload" as="image" href="board-prototype.webp"/>
+  <link rel="preload" as="image" href="kit-items.webp"/>
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
@@ -8485,21 +8486,19 @@
     spObs.observe(spiralSection);
   }
 
-  /* ── Scroll: rotate with scroll direction ──────────────── */
+  /* ── Scroll: accumulate angle, but DON'T run animateCursor.
+       The cursor only updates on click/dblclick. Scroll just
+       changes the target angle silently — no canvas work, no
+       toDataURL, no jank. Cursor catches up on next click. ── */
   var scrollTimer;
   window.addEventListener('wheel', function(e) {
     scrollAccum += e.deltaY;
     clearTimeout(scrollTimer);
     scrollTimer = setTimeout(function() { scrollAccum = 0; }, 150);
     targetAngle += e.deltaY * 0.003;
-    if (!animating) {
-      animating = true;
-      animateCursor();
-    }
     if (spiralSectionVisible) playSpinSound();
   }, { passive: true });
 
-  /* ── Touch scroll rotation ─────────────────────────────── */
   var lastTouchY = 0;
   document.addEventListener('touchstart', function(e) {
     lastTouchY = e.touches[0].clientY;
@@ -8508,10 +8507,6 @@
     var dy = lastTouchY - e.touches[0].clientY;
     lastTouchY = e.touches[0].clientY;
     targetAngle += dy * 0.008;
-    if (!animating) {
-      animating = true;
-      animateCursor();
-    }
     if (spiralSectionVisible) playSpinSound();
   }, { passive: true });
 
