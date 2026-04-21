@@ -85,6 +85,8 @@
   <link rel="preload" as="image" href="Card2Side2.png"/>
   <link rel="preload" as="image" href="Card4Side1.png"/>
   <link rel="preload" as="image" href="Card5Side1.png"/>
+  <link rel="preload" as="image" href="Egocentric with lid coming off.png"/>
+  <link rel="preload" as="image" href="board-prototype.webp"/>
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
@@ -224,7 +226,7 @@
       pointer-events: none;
     }
     @media (max-width: 768px) {
-      #content { padding-top: clamp(20px, 3.5vh, 40px); }
+      #content { padding-top: clamp(10px, 2vh, 24px); }
     }
     #content > * { pointer-events: all; }
 
@@ -634,11 +636,7 @@
   .eg-nav-cta .btn-svg { width: clamp(120px, 14vw, 170px); }
   @media (max-width: 768px) {
     .eg-nav-cta { display: none; }
-    .eg-nav-playtest {
-      opacity: 1;
-      pointer-events: auto;
-      font-size: 14px;
-    }
+    .eg-nav-playtest { font-size: 14px; }
   }
   /* offset body content for fixed nav */
   #s1 { margin-top: 0; /* s1 is full-screen, no offset needed */ }
@@ -1952,24 +1950,25 @@
     border-radius: clamp(10px, 1.5vw, 16px);
   }
   .s2-pin-item:hover { transform: translateY(-4px); }
-  /* Staggered entry: items start invisible, pop in one by one */
+  /* Items start invisible, animate in when section enters viewport */
   .s2-pin-item {
     opacity: 0;
     transform: translateY(20px) scale(0.92);
-    animation: s2-item-enter .6s cubic-bezier(.34,1.56,.64,1) forwards;
+    transition: opacity .5s ease, transform .6s cubic-bezier(.34,1.56,.64,1);
   }
-  .s2-pin-item:nth-child(1) { animation-delay: .05s; }
-  .s2-pin-item:nth-child(2) { animation-delay: .15s; }
-  .s2-pin-item:nth-child(3) { animation-delay: .25s; }
-  .s2-pin-item:nth-child(4) { animation-delay: .35s; }
-  .s2-pin-item:nth-child(5) { animation-delay: .45s; }
-  .s2-pin-item:nth-child(6) { animation-delay: .5s; }
-  .s2-pin-item:nth-child(7) { animation-delay: .55s; }
-  .s2-pin-item:nth-child(8) { animation-delay: .6s; }
-  .s2-pin-item:nth-child(9) { animation-delay: .65s; }
-  @keyframes s2-item-enter {
-    to { opacity: 1; transform: translateY(0) scale(1); }
+  .s2-pin.s2-entered .s2-pin-item {
+    opacity: 1;
+    transform: translateY(0) scale(1);
   }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(1) { transition-delay: .05s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(2) { transition-delay: .15s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(3) { transition-delay: .25s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(4) { transition-delay: .35s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(5) { transition-delay: .45s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(6) { transition-delay: .5s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(7) { transition-delay: .55s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(8) { transition-delay: .6s; }
+  .s2-pin.s2-entered .s2-pin-item:nth-child(9) { transition-delay: .65s; }
   .s2-pin-item > img,
   .s2-pin-item > svg {
     width: 100%;
@@ -1986,11 +1985,11 @@
   .s2-pin-kit { width: clamp(280px, 36vw, 440px); }
   .s2-pin-kit > img { border-radius: 10px; }
   .s2-pin-chall {
-    width: clamp(240px, 30vw, 380px);
+    width: clamp(260px, 32vw, 400px) !important;
   }
   .s2-pin-chall .s2-flip-card {
     width: 100%;
-    height: clamp(340px, 42vw, 520px);
+    height: clamp(360px, 44vw, 560px);
   }
   .s2-pin-chall .s2-flip-front img,
   .s2-pin-chall .s2-flip-back img { object-fit: contain; }
@@ -2313,25 +2312,30 @@
   (function() {
     var pin = document.querySelector('.s2-pin');
     if (!pin) return;
-    var userTouching = false;
+    var paused = false;
     var resumeTimer;
 
-    // Pause on touch/mouse interaction, resume after idle
-    pin.addEventListener('pointerdown', function() {
-      userTouching = true;
+    // Only pause on deliberate click/tap ON the strip, not page scroll
+    pin.addEventListener('click', function(e) {
+      if (e.target.closest('.s2-flip-card') || e.target.closest('.s2-dice-scene')) return;
+      paused = true;
       clearTimeout(resumeTimer);
-    });
-    window.addEventListener('pointerup', function() {
-      if (userTouching) {
-        resumeTimer = setTimeout(function() { userTouching = false; }, 3000);
-      }
+      resumeTimer = setTimeout(function() { paused = false; }, 4000);
     });
 
-    // Continuous train-like scroll — starts immediately,
-    // runs silently off-screen, already moving when user arrives
-    var speed = 0.8;
+    // Trigger entry animation when section scrolls into view
+    var entryObs = new IntersectionObserver(function(entries) {
+      if (entries[0].isIntersecting) {
+        pin.classList.add('s2-entered');
+        entryObs.unobserve(pin);
+      }
+    }, { threshold: 0.05 });
+    entryObs.observe(pin);
+
+    // Train scroll
+    var speed = 0.7;
     function tick() {
-      if (!userTouching && pin.scrollWidth > pin.clientWidth) {
+      if (!paused && pin.scrollWidth > pin.clientWidth) {
         pin.scrollLeft += speed;
         if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 1) {
           pin.scrollLeft = 0;
@@ -2341,27 +2345,33 @@
     }
     tick();
 
-    // Auto-flip cards when they pass near viewport centre
+    // Auto-flip: only when section is actually visible
     var flips = pin.querySelectorAll('.s2-flip-card');
+    var sectionVisible = false;
+    var flipObs = new IntersectionObserver(function(entries) {
+      sectionVisible = entries[0].isIntersecting;
+    }, { threshold: 0.1 });
+    flipObs.observe(pin);
+
     function checkFlips() {
-      var pinR = pin.getBoundingClientRect();
-      var cx = pinR.left + pinR.width / 2;
-      flips.forEach(function(card) {
-        var r = card.getBoundingClientRect();
-        var cardCx = r.left + r.width / 2;
-        if (Math.abs(cardCx - cx) < r.width * 0.7) {
-          if (!card.dataset.af) {
+      if (sectionVisible) {
+        var pinR = pin.getBoundingClientRect();
+        var cx = pinR.left + pinR.width / 2;
+        flips.forEach(function(card) {
+          var r = card.getBoundingClientRect();
+          var cardCx = r.left + r.width / 2;
+          if (Math.abs(cardCx - cx) < r.width * 0.7 && !card.dataset.af) {
             card.dataset.af = '1';
             card.classList.add('flipped');
             if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.45);
             setTimeout(function() {
               card.classList.remove('flipped');
               if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.3);
-              setTimeout(function() { delete card.dataset.af; }, 2000);
+              setTimeout(function() { delete card.dataset.af; }, 2500);
             }, 2200);
           }
-        }
-      });
+        });
+      }
       requestAnimationFrame(checkFlips);
     }
     checkFlips();
@@ -5911,7 +5921,7 @@
   <div class="s6b-panel active" id="s6b-gw1">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img loading="lazy" decoding="async" src="Tile10.png" alt="Tile 10 — Earth's Surface">
+        <img decoding="async" src="Tile10.png" alt="Tile 10 — Earth's Surface">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5933,7 +5943,7 @@
   <div class="s6b-panel" id="s6b-gw2">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img loading="lazy" decoding="async" src="Section6 tile15.png" alt="Tile 15 — Rough Ocean Waves">
+        <img decoding="async" src="Section6 tile15.png" alt="Tile 15 — Rough Ocean Waves">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5954,7 +5964,7 @@
   <div class="s6b-panel" id="s6b-gw3">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img loading="lazy" decoding="async" src="Section6tile16.png" alt="Tile 16 — Losing Balance At A Cliff">
+        <img decoding="async" src="Section6tile16.png" alt="Tile 16 — Losing Balance At A Cliff">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -6691,16 +6701,16 @@
   <p class="eg-fade-in" style="font-family:'Pompiere',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
 
   <div class="exp-grid eg-fade-in">
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5232.png" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5067.png" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5068.png" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5062.png" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5071.png" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5064.png" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5066.png" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5069.png" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5070.png" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
-    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5065.png" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5232.png" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5067.png" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5068.png" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5062.png" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5071.png" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5064.png" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5066.png" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5069.png" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5070.png" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5065.png" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
   </div>
 </section>
 
