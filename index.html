@@ -8169,7 +8169,7 @@
           obs.unobserve(e.target);
         }
       });
-    }, { threshold: 0.8 });
+    }, { threshold: 0.1 });
     fadeEls.forEach(el => obs.observe(el));
   } else {
     fadeEls.forEach(el => el.classList.add('visible'));
