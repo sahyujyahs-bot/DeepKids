@@ -8473,10 +8473,11 @@
   }, { passive: true });
 
   /* ── Click: 1 full spin, alternating direction ─────────── */
-  document.addEventListener('click', function() {
+  document.addEventListener('click', function(e) {
     spinTo(currentAngle + clickDir * Math.PI * 2);
     clickDir *= -1;
-    if (spiralSectionVisible) startSpiralSound(1.8);
+    // Sound only when clicking inside the spiral section itself
+    if (spiralSectionVisible && spiralSection && spiralSection.contains(e.target)) startSpiralSound(1.8);
   });
 
   /* ── Double-click: 5 full spins, alternating direction ─── */
@@ -8484,7 +8485,7 @@
     e.preventDefault();
     spinTo(currentAngle + dblClickDir * Math.PI * 2 * 5);
     dblClickDir *= -1;
-    if (spiralSectionVisible) startSpiralSound(5.0);
+    if (spiralSectionVisible && spiralSection && spiralSection.contains(e.target)) startSpiralSound(5.0);
   });
 
   /* ── Set initial cursor ─────────────────────────────────── */
