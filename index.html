@@ -1226,9 +1226,11 @@
           playSwoosh();
         });
 
-        Runner.run(Runner.create(), engine);
+        // Run physics manually inside our render loop instead of
+        // using Runner (which creates a second rAF loop that competes
+        // for frame budget and causes stuttering on mobile).
         initFloaters();
-        spawnRain();   /* ← first rain */
+        spawnRain();
         loop();
       }
 
@@ -1335,6 +1337,7 @@
       /* ── Render loop ────────────────────────────────────────── */
       function loop() {
         t++;
+        Engine.update(engine, 1000 / 60);
         initFloaters();
         drawBackground();
         drawPhysics();
