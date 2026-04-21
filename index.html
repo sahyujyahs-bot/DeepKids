@@ -1604,7 +1604,7 @@
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Pre-Order' })
-        }).catch(function(){});
+        }).then(function(r){return r.json();}).then(function(d){console.log('Sheet:',d);}).catch(function(e){console.log('Sheet err:',e);});
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1662,7 +1662,7 @@
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Playtest' })
-        }).catch(function(){});
+        }).then(function(r){return r.json();}).then(function(d){console.log('Sheet:',d);}).catch(function(e){console.log('Sheet err:',e);});
       } catch(ex) {}
       return false;
     }
