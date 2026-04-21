@@ -1599,10 +1599,13 @@
         setTimeout(closePreOrderModal, 2800);
 
       // Also save to Google Sheet (fire-and-forget)
-      try { fetch('https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec'
-        + '?name=' + encodeURIComponent(name)
-        + '&whatsapp=' + encodeURIComponent(fullNumber)
-        + '&type=Pre-Order').catch(function(){}); } catch(ex) {}
+      try {
+        var sheetFd = new FormData();
+        sheetFd.append('name', name);
+        sheetFd.append('whatsapp', fullNumber);
+        sheetFd.append('type', 'Pre-Order');
+        fetch('https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec', { method: 'POST', mode: 'no-cors', body: sheetFd }).catch(function(){});
+      } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
       });
@@ -1654,10 +1657,13 @@
       }).finally(function() { if (btn) btn.disabled = false; });
 
       // Also save to Google Sheet (fire-and-forget)
-      try { fetch('https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec'
-        + '?name=' + encodeURIComponent(name)
-        + '&whatsapp=' + encodeURIComponent(fullNumber)
-        + '&type=Playtest').catch(function(){}); } catch(ex) {}
+      try {
+        var sheetFd = new FormData();
+        sheetFd.append('name', name);
+        sheetFd.append('whatsapp', fullNumber);
+        sheetFd.append('type', 'Playtest');
+        fetch('https://script.google.com/macros/s/AKfycbyWlUPdCdmHMt0y8JYmKxP4FLmrCrT7X7k9UogwYMzsiv-OnpklFv9_7Kb9Jk62259g/exec', { method: 'POST', mode: 'no-cors', body: sheetFd }).catch(function(){});
+      } catch(ex) {}
       return false;
     }
     // Close modal on backdrop click / Esc
