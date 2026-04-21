@@ -831,10 +831,12 @@
           ctx.translate(a.x, a.y);
           ctx.rotate(a.rot);
 
-          const g = ctx.createRadialGradient(-a.r*.3, -a.r*.3, 0, 0, 0, a.r);
-          g.addColorStop(0, '#5a4634');
-          g.addColorStop(1, '#140e06');
-          ctx.fillStyle = g;
+          if (!a._grad) {
+            a._grad = ctx.createRadialGradient(-a.r*.3, -a.r*.3, 0, 0, 0, a.r);
+            a._grad.addColorStop(0, '#5a4634');
+            a._grad.addColorStop(1, '#140e06');
+          }
+          ctx.fillStyle = a._grad;
           ctx.beginPath();
           for (let i = 0; i < 7; i++) {
             const ang = i/7 * Math.PI*2;
@@ -1334,16 +1336,24 @@
         }
       }
 
-      /* ── Render loop ────────────────────────────────────────── */
+      /* ── Render loop — only runs when hero section is visible ── */
+      var heroVisible = true;
+      var heroObs = new IntersectionObserver(function(entries) {
+        heroVisible = entries[0].isIntersecting;
+      }, { threshold: 0 });
+      heroObs.observe(document.getElementById('s1'));
+
       function loop() {
-        t++;
-        Engine.update(engine, 1000 / 60);
-        initFloaters();
-        drawBackground();
-        drawPhysics();
-        updateBalloon();
-        updateParachute();
-        updateBird();
+        if (heroVisible) {
+          t++;
+          Engine.update(engine, 1000 / 60);
+          if (!bird.ready || !balloon.ready || !chute.ready) initFloaters();
+          drawBackground();
+          drawPhysics();
+          updateBalloon();
+          updateParachute();
+          updateBird();
+        }
         requestAnimationFrame(loop);
       }
 
@@ -2408,55 +2418,47 @@
     }, { threshold: 0.05 });
     entryObs.observe(pin);
 
-    // Train scroll — only while section is visible
+    // Train scroll + flip check — merged into one loop,
+    // only runs RAF when section is visible
     var speed = 0.7;
     var stripVisible = false;
-    var scrollObs = new IntersectionObserver(function(entries) {
+    var stripObs = new IntersectionObserver(function(entries) {
+      var wasVisible = stripVisible;
       stripVisible = entries[0].isIntersecting;
+      if (stripVisible && !wasVisible) stripLoop();
     }, { threshold: 0.05 });
-    scrollObs.observe(pin);
+    stripObs.observe(pin);
 
-    function tick() {
-      if (!paused && stripVisible && pin.scrollWidth > pin.clientWidth) {
+    var flips = pin.querySelectorAll('.s2-flip-card');
+
+    function stripLoop() {
+      if (!stripVisible) return; // stop RAF chain when off-screen
+      // Auto-scroll
+      if (!paused && pin.scrollWidth > pin.clientWidth) {
         pin.scrollLeft += speed;
         if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 1) {
           pin.scrollLeft = 0;
         }
       }
-      requestAnimationFrame(tick);
+      // Auto-flip check
+      var pinR = pin.getBoundingClientRect();
+      var cx = pinR.left + pinR.width / 2;
+      flips.forEach(function(card) {
+        var r = card.getBoundingClientRect();
+        var cardCx = r.left + r.width / 2;
+        if (Math.abs(cardCx - cx) < r.width * 0.7 && !card.dataset.af) {
+          card.dataset.af = '1';
+          card.classList.add('flipped');
+          if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.45);
+          setTimeout(function() {
+            card.classList.remove('flipped');
+            if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.3);
+            setTimeout(function() { delete card.dataset.af; }, 2500);
+          }, 2200);
+        }
+      });
+      requestAnimationFrame(stripLoop);
     }
-    tick();
-
-    // Auto-flip: only when section is actually visible
-    var flips = pin.querySelectorAll('.s2-flip-card');
-    var sectionVisible = false;
-    var flipObs = new IntersectionObserver(function(entries) {
-      sectionVisible = entries[0].isIntersecting;
-    }, { threshold: 0.1 });
-    flipObs.observe(pin);
-
-    function checkFlips() {
-      if (sectionVisible) {
-        var pinR = pin.getBoundingClientRect();
-        var cx = pinR.left + pinR.width / 2;
-        flips.forEach(function(card) {
-          var r = card.getBoundingClientRect();
-          var cardCx = r.left + r.width / 2;
-          if (Math.abs(cardCx - cx) < r.width * 0.7 && !card.dataset.af) {
-            card.dataset.af = '1';
-            card.classList.add('flipped');
-            if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.45);
-            setTimeout(function() {
-              card.classList.remove('flipped');
-              if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.3);
-              setTimeout(function() { delete card.dataset.af; }, 2500);
-            }, 2200);
-          }
-        });
-      }
-      requestAnimationFrame(checkFlips);
-    }
-    checkFlips();
   })();
 })();
 </script>
