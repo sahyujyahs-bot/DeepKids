@@ -1600,10 +1600,11 @@
 
       // Also save to Google Sheet (parallel, fire-and-forget)
       try {
-        fetch('https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec', { mode: 'no-cors',
-          method: 'POST',
-          body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Pre-Order' })
-        }).catch(function(){});
+        var sheetUrl = 'https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec'
+          + '?name=' + encodeURIComponent(name)
+          + '&whatsapp=' + encodeURIComponent(fullNumber)
+          + '&type=Pre-Order';
+        fetch(sheetUrl, { mode: 'no-cors' }).catch(function(){});
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1657,10 +1658,11 @@
 
       // Also save to Google Sheet (parallel, fire-and-forget)
       try {
-        fetch('https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec', { mode: 'no-cors',
-          method: 'POST',
-          body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Playtest' })
-        }).catch(function(){});
+        var sheetUrl = 'https://script.google.com/macros/s/AKfycbyJ1ZPJ1U3G2qOmFmOcg_OnJm_p4eHyIlvDI-2LMDIFm3-iY4i3UwOuo_IlNtFfgnGp/exec'
+          + '?name=' + encodeURIComponent(name)
+          + '&whatsapp=' + encodeURIComponent(fullNumber)
+          + '&type=Playtest';
+        fetch(sheetUrl, { mode: 'no-cors' }).catch(function(){});
       } catch(ex) {}
       return false;
     }
