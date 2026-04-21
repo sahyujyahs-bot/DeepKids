@@ -973,7 +973,7 @@
           if (RAIN_KEYS.indexOf(k) !== -1) rainLoadedCount++;
           // Start the rain as soon as the first rain image is
           // ready. Remaining cards are added as they arrive.
-          if (rainLoadedCount >= 1 && !window._heroSpawned) {
+          if (rainLoadedCount >= 3 && !window._heroSpawned) {
             window._heroSpawned = true;
             spawnAll();
           } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
@@ -1038,7 +1038,7 @@
              preserving the "one, then a few, then a few" rhythm. */
           let delay;
           if (row === 0) {
-            delay = col === 0 ? 60 : (col * 130 + 60 + Math.random() * 120);
+            delay = col === 0 ? 0 : (col * 130 + Math.random() * 120);
           } else {
             delay = row * 1300 + col * 160 + Math.random() * 220;
           }
@@ -8373,14 +8373,14 @@
     }
   }
 
-  // Cache cursor: only regenerate when angle changes by > 0.15 rad (~8.6°)
-  // toDataURL() is extremely expensive (PNG encode per call)
+  // Cache cursor: only regenerate when angle changes by > 0.5 rad (~29°)
+  // toDataURL() is very expensive (PNG encode) — skip most updates
   var lastCursorAngle = -999;
   var lastCursorUrl = null;
   function applyCursor(angle) {
     if (!spiralLoaded) return;
-    if (Math.abs(angle - lastCursorAngle) < 0.15 && lastCursorUrl) {
-      return; // reuse cached cursor
+    if (Math.abs(angle - lastCursorAngle) < 0.5 && lastCursorUrl) {
+      return;
     }
     lastCursorAngle = angle;
     var url = cursorAtAngle(angle);
@@ -8486,19 +8486,21 @@
     spObs.observe(spiralSection);
   }
 
-  /* ── Scroll: accumulate angle, but DON'T run animateCursor.
-       The cursor only updates on click/dblclick. Scroll just
-       changes the target angle silently — no canvas work, no
-       toDataURL, no jank. Cursor catches up on next click. ── */
+  /* ── Scroll: rotate with scroll direction ──────────────── */
   var scrollTimer;
   window.addEventListener('wheel', function(e) {
     scrollAccum += e.deltaY;
     clearTimeout(scrollTimer);
     scrollTimer = setTimeout(function() { scrollAccum = 0; }, 150);
     targetAngle += e.deltaY * 0.003;
+    if (!animating) {
+      animating = true;
+      animateCursor();
+    }
     if (spiralSectionVisible) playSpinSound();
   }, { passive: true });
 
+  /* ── Touch scroll rotation ─────────────────────────────── */
   var lastTouchY = 0;
   document.addEventListener('touchstart', function(e) {
     lastTouchY = e.touches[0].clientY;
@@ -8507,6 +8509,10 @@
     var dy = lastTouchY - e.touches[0].clientY;
     lastTouchY = e.touches[0].clientY;
     targetAngle += dy * 0.008;
+    if (!animating) {
+      animating = true;
+      animateCursor();
+    }
     if (spiralSectionVisible) playSpinSound();
   }, { passive: true });
 
