@@ -1598,13 +1598,13 @@
         msg.className = 'po-msg success';
         setTimeout(closePreOrderModal, 2800);
 
-      // Save to Google Sheet via script tag (JSONP-style, no CORS)
+      // Save to Google Sheet via Cloudflare Worker (same-origin, no CORS)
       try {
-        var gs = document.createElement('script');
-        gs.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec?name=' + encodeURIComponent(name) + '&whatsapp=' + encodeURIComponent(fullNumber) + '&type=Pre-Order&callback=_gs';
-        gs.onerror = function(){ gs.remove(); };
-        gs.onload = function(){ gs.remove(); };
-        document.body.appendChild(gs);
+        fetch('/api/sheet', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Pre-Order' })
+        }).catch(function(){});
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1656,13 +1656,13 @@
         setTimeout(closePlayTest, 2800);
       }).finally(function() { if (btn) btn.disabled = false; });
 
-      // Save to Google Sheet via script tag (JSONP-style, no CORS)
+      // Save to Google Sheet via Cloudflare Worker (same-origin, no CORS)
       try {
-        var gs = document.createElement('script');
-        gs.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec?name=' + encodeURIComponent(name) + '&whatsapp=' + encodeURIComponent(fullNumber) + '&type=Playtest&callback=_gs';
-        gs.onerror = function(){ gs.remove(); };
-        gs.onload = function(){ gs.remove(); };
-        document.body.appendChild(gs);
+        fetch('/api/sheet', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Playtest' })
+        }).catch(function(){});
       } catch(ex) {}
       return false;
     }
@@ -9018,6 +9018,5 @@
 })();
 </script>
 
-<script>window._gs = function(){};</script>
 </body>
 </html>
