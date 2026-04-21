@@ -111,15 +111,8 @@
     ]
   }
   </script>
-  <!-- Only preload above-the-fold critical resources. Too many
-       preloads saturate the browser's ~6 connections and delay
-       fonts. Below-fold images load naturally on scroll. -->
-  <link rel="preload" as="image" href="Card2Side2.png"/>
-  <link rel="preload" as="image" href="Card4Side1.png"/>
-  <link rel="preload" as="image" href="Card5Side1.png"/>
-  <link rel="preload" as="image" href="box-lid.webp"/>
-  <link rel="preload" as="image" href="board-prototype.webp"/>
-  <link rel="preload" as="image" href="kit-items.webp"/>
+  <!-- Only preload scripts needed before first paint. Images and
+       audio load naturally — too many preloads delay fonts. -->
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
@@ -869,7 +862,10 @@
          playback after a user gesture. */
       let swooshBuffer = null;
       let swooshCtx = null;
-      (function preloadSwoosh() {
+      var swooshLoaded = false;
+      function loadSwooshOnce() {
+        if (swooshLoaded) return;
+        swooshLoaded = true;
         try {
           swooshCtx = new (window.AudioContext || window.webkitAudioContext)();
           var xhr = new XMLHttpRequest();
@@ -877,14 +873,15 @@
           xhr.responseType = 'arraybuffer';
           xhr.onload = function() {
             if (xhr.status === 200) {
-              swooshCtx.decodeAudioData(xhr.response, function(buf) {
-                swooshBuffer = buf;
-              });
+              swooshCtx.decodeAudioData(xhr.response, function(buf) { swooshBuffer = buf; });
             }
           };
           xhr.send();
         } catch(e) {}
-      })();
+      }
+      ['pointerdown','touchstart','click'].forEach(function(e) {
+        document.addEventListener(e, loadSwooshOnce, {passive:true});
+      });
       // Arm on the FIRST user gesture (touchstart fires before the
       // scroll actually happens, so we catch the intent early):
       // resume the AudioContext AND immediately replay the rain so
@@ -1478,18 +1475,7 @@
         clone.style.left      = curX + 'px';
         clone.style.top       = curY + 'px';
         clone.style.transform = 'scale(' + s + ')';
-
-        clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
-
-        var r = Math.round(255 + (156 - 255) * p);
-        var g = Math.round(255 + (188 - 255) * p);
-        var b = Math.round(255 + (20  - 255) * p);
-        clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
-
-        var a = 1 - p;
-        clone.style.textShadow =
-          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
-          '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
+        clone.style.opacity   = String(1 - p * 0.15);
 
         // Smooth crossfade over the last 20% of the scroll range
         // so the clone melts into the nav logo instead of snapping.
@@ -2138,8 +2124,8 @@
     <div class="s2-pin-item s2-pin-chall">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img decoding="async" src="IMG_5098.jpeg" alt="Force Card Front"></div>
-          <div class="s2-flip-back"><img decoding="async" src="IMG_5099.jpeg" alt="Force Card Back"></div>
+          <div class="s2-flip-front"><img decoding="async" src="IMG_5098.webp" alt="Force Card Front"></div>
+          <div class="s2-flip-back"><img decoding="async" src="IMG_5099.webp" alt="Force Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -2350,8 +2336,18 @@
     };
     xhr.send();
   }
-  loadBoxSound('cardflip sound.wav', function(b) { cardFlipBuf = b; });
-  loadBoxSound('cardsscrollsound.wav', function(b) { cardScrollBuf = b; });
+  // Defer box sounds to when section enters viewport
+  var boxSoundsLoaded = false;
+  var boxSoundObs = new IntersectionObserver(function(entries) {
+    if (entries[0].isIntersecting && !boxSoundsLoaded) {
+      boxSoundsLoaded = true;
+      loadBoxSound('cardflip sound.wav', function(b) { cardFlipBuf = b; });
+      loadBoxSound('cardsscrollsound.wav', function(b) { cardScrollBuf = b; });
+      boxSoundObs.disconnect();
+    }
+  }, { threshold: 0, rootMargin: '200px' });
+  var boxGrid = document.querySelector('.s2-pin');
+  if (boxGrid) boxSoundObs.observe(boxGrid);
 
   function playBoxSound(buf, vol) {
     if (!buf || !boxAudioCtx) return;
@@ -3759,7 +3755,7 @@
 
   /* ── Start zoom animation ───────────────────────────────── */
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
-  var spinSound = new Audio('spin sound.wav');
+  var spinSound = null; // loaded lazily in spiral section
   spinSound.preload = 'auto';
   function playSpinSound() {
     try {
@@ -5870,7 +5866,7 @@
     </div>
 
     <div class="s4b-bottom">
-      <img class="s4b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity — Force Card (content side)">
+      <img class="s4b-fc-img" src="IMG_5099.webp" alt="Sideways Velocity — Force Card (content side)">
       <p class="s4b-connection">
         The car rolls off the table and curves &mdash; it doesn&rsquo;t fall straight down.
         That curved path is sideways velocity in action.
@@ -5904,7 +5900,7 @@
     </div>
 
     <div class="s4b-bottom">
-      <img class="s4b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Force Card (content side)">
+      <img class="s4b-fc-img" src="IMG_5111.webp" alt="Center Of Gravity — Force Card (content side)">
       <p class="s4b-connection">
         Spreading your arms shifts your center of gravity back over your base &mdash;
         that&rsquo;s why balancing gets easier.
@@ -6025,8 +6021,8 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fan" id="s6b-fan">
-        <img class="s6b-fan-card" src="IMG_5099.jpeg" alt="Sideways Velocity" style="z-index:2;">
-        <img class="s6b-fan-card" src="IMG_5097.jpeg" alt="Escape Velocity" style="z-index:1;">
+        <img class="s6b-fan-card" src="IMG_5099.webp" alt="Sideways Velocity" style="z-index:2;">
+        <img class="s6b-fan-card" src="IMG_5097.webp" alt="Escape Velocity" style="z-index:1;">
       </div>
     </div>
   </div>
@@ -6068,7 +6064,7 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5302.jpeg" alt="Center Of Gravity — Balance (content side)">
+        <img class="s6b-fc-img" src="IMG_5302.webp" alt="Center Of Gravity — Balance (content side)">
       </div>
     </div>
   </div>
@@ -6553,49 +6549,49 @@
   <!-- Force card panels — one per category -->
   <div class="forces-panel active" data-cat="earth">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5106.jpeg" alt="Normal Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5106.webp" alt="Normal Force"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="air">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5120.jpeg" alt="Air Resistance"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5118.jpeg" alt="Airlift"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5120.webp" alt="Air Resistance"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5118.webp" alt="Airlift"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="water">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5116.jpeg" alt="Buoyancy"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5116.webp" alt="Buoyancy"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="body">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5114.jpeg" alt="Weight"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5112.jpeg" alt="Physical Work"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5114.webp" alt="Weight"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5112.webp" alt="Physical Work"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="speed">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5098.jpeg" alt="Sideways Velocity"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5096.jpeg" alt="Escape Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5098.webp" alt="Sideways Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5096.webp" alt="Escape Velocity"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="energy">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5102.jpeg" alt="Magnetic Force"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5100.jpeg" alt="Elastic Energy"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5104.jpeg" alt="Knowledge"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5102.webp" alt="Magnetic Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5100.webp" alt="Elastic Energy"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5104.webp" alt="Knowledge"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="balance">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5110.jpeg" alt="Center of Gravity"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5108.jpeg" alt="Neutral Pull"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5110.webp" alt="Center of Gravity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5108.webp" alt="Neutral Pull"></div>
     </div>
   </div>
   </div><!-- /forces-layout -->
@@ -8148,8 +8144,7 @@
      Regular click sound for tabs, arrows, quiz buttons, etc.
      CTA buttons (Pre-Order, Sign Up, Count Me In) get a special
      celebratory chime instead. */
-  var btnClickSound = new Audio('button click sound.wav');
-  btnClickSound.preload = 'auto';
+  var btnClickSound = null;
 
   // Celebratory chime for CTA buttons (Web Audio — rising arpeggio)
   var ctaAudioCtx = null;
@@ -8190,6 +8185,10 @@
     // Everything else gets the standard click sound
     if (t.closest(BTN_SEL)) {
       try {
+        if (!btnClickSound) {
+          btnClickSound = new Audio('button click sound.wav');
+          btnClickSound.preload = 'auto';
+        }
         var s = btnClickSound.cloneNode();
         s.volume = 0.4;
         s.play().catch(function(){});
@@ -8408,8 +8407,10 @@
   var spiralAc = null;
   var spiralWhirr = null;
   var spinSoundBuf = null;
-  // Preload spin sound.wav for scroll turns
-  (function() {
+  var spinSoundLoading = false;
+  function loadSpinSoundOnce() {
+    if (spinSoundLoading) return;
+    spinSoundLoading = true;
     var xhr = new XMLHttpRequest();
     xhr.open('GET', 'spin sound.wav', true);
     xhr.responseType = 'arraybuffer';
@@ -8420,7 +8421,7 @@
       }
     };
     xhr.send();
-  })();
+  }
 
   // Play spin sound.wav (scroll turns) — only first 1s, with fade
   var spinPlaying = false;
@@ -8481,6 +8482,7 @@
   if (spiralSection) {
     var spObs = new IntersectionObserver(function(entries) {
       spiralSectionVisible = entries[0].isIntersecting;
+      if (spiralSectionVisible) loadSpinSoundOnce();
     }, { threshold: 0.1 });
     spObs.observe(spiralSection);
   }
