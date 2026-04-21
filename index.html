@@ -1572,6 +1572,7 @@
       var data = new FormData();
       data.append('name', name);
       data.append('whatsapp', fullNumber);
+      data.append('signup_type', 'Pre-Order');
       data.append('_subject', 'EscapeGravity Pre-Order: ' + name);
       data.append('_template', 'table');
       data.append('_captcha', 'false');
@@ -1624,6 +1625,7 @@
       var data = new FormData();
       data.append('name', name);
       data.append('whatsapp', fullNumber);
+      data.append('signup_type', 'Playtest');
       data.append('_subject', 'EscapeGravity Playtest Request: ' + name);
       data.append('_template', 'table');
       data.append('_captcha', 'false');
