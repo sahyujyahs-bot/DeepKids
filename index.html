@@ -2332,10 +2332,16 @@
     }, { threshold: 0.05 });
     entryObs.observe(pin);
 
-    // Train scroll
+    // Train scroll — only while section is visible
     var speed = 0.7;
+    var stripVisible = false;
+    var scrollObs = new IntersectionObserver(function(entries) {
+      stripVisible = entries[0].isIntersecting;
+    }, { threshold: 0.05 });
+    scrollObs.observe(pin);
+
     function tick() {
-      if (!paused && pin.scrollWidth > pin.clientWidth) {
+      if (!paused && stripVisible && pin.scrollWidth > pin.clientWidth) {
         pin.scrollLeft += speed;
         if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 1) {
           pin.scrollLeft = 0;
@@ -3347,7 +3353,7 @@
   <div id="sci-collage" class="eg-fade-in">
     <picture>
       <source media="(max-width: 600px)" srcset="Section4%20collage%20mobile.png">
-      <img loading="lazy" decoding="async" src="Section4%20collage.png" alt="Each Tile Carries Science — tile close-ups collage">
+      <img decoding="async" src="Section4%20collage.png" alt="Each Tile Carries Science — tile close-ups collage">
     </picture>
   </div>
 </section>
@@ -8298,6 +8304,33 @@
     requestAnimationFrame(animateCursor);
   }
 
+  // Spiral whirring sound — pitch matches spin speed
+  var spiralAc = null;
+  var spiralWhirr = null;
+  function startSpiralSound(duration) {
+    try {
+      if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
+      if (spiralAc.state === 'suspended') spiralAc.resume();
+      // Stop any existing whirr
+      if (spiralWhirr) { try { spiralWhirr.osc.stop(); } catch(x){} spiralWhirr = null; }
+      var osc = spiralAc.createOscillator();
+      var gain = spiralAc.createGain();
+      var t = spiralAc.currentTime;
+      osc.type = 'sine';
+      // Start high pitch, sweep down as spin decelerates
+      osc.frequency.setValueAtTime(320, t);
+      osc.frequency.exponentialRampToValueAtTime(80, t + duration);
+      gain.gain.setValueAtTime(0.06, t);
+      gain.gain.setValueAtTime(0.06, t + duration * 0.6);
+      gain.gain.exponentialRampToValueAtTime(0.001, t + duration);
+      osc.connect(gain);
+      gain.connect(spiralAc.destination);
+      osc.start(t);
+      osc.stop(t + duration);
+      spiralWhirr = { osc: osc };
+    } catch(e) {}
+  }
+
   function spinTo(angle) {
     targetAngle = angle;
     if (!animating) {
@@ -8318,6 +8351,7 @@
       animating = true;
       animateCursor();
     }
+    startSpiralSound(0.4);
   }, { passive: true });
 
   /* ── Touch scroll rotation ─────────────────────────────── */
@@ -8333,12 +8367,14 @@
       animating = true;
       animateCursor();
     }
+    startSpiralSound(0.35);
   }, { passive: true });
 
   /* ── Click: 1 full spin, alternating direction ─────────── */
   document.addEventListener('click', function() {
     spinTo(currentAngle + clickDir * Math.PI * 2);
     clickDir *= -1;
+    startSpiralSound(1.8);
   });
 
   /* ── Double-click: 5 full spins, alternating direction ─── */
@@ -8346,6 +8382,7 @@
     e.preventDefault();
     spinTo(currentAngle + dblClickDir * Math.PI * 2 * 5);
     dblClickDir *= -1;
+    startSpiralSound(5.0);
   });
 
   /* ── Set initial cursor ─────────────────────────────────── */
@@ -8491,8 +8528,8 @@
       el.classList.toggle('visible', past);
       el.setAttribute('aria-hidden', past ? 'false' : 'true');
     }
-    // Show "Join Play Testing" in nav on desktop after scrolling past hero
-    if (navPt && window.innerWidth > 768) {
+    // Show "Join Play Testing" in nav after scrolling past hero (all devices)
+    if (navPt) {
       navPt.classList.toggle('show', past);
     }
   }
