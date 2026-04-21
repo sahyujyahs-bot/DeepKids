@@ -1598,15 +1598,13 @@
         msg.className = 'po-msg success';
         setTimeout(closePreOrderModal, 2800);
 
-      // Also save to Google Sheet (hidden iframe form submission)
+      // Save to Google Sheet via script tag (JSONP-style, no CORS)
       try {
-        var sf = document.createElement('form');
-        sf.method = 'POST'; sf.action = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec';
-        sf.target = 'eg-sheet-frame'; sf.style.display = 'none';
-        [['name',name],['whatsapp',fullNumber],['type','Pre-Order']].forEach(function(p){
-          var i = document.createElement('input'); i.type='hidden'; i.name=p[0]; i.value=p[1]; sf.appendChild(i);
-        });
-        document.body.appendChild(sf); sf.submit(); sf.remove();
+        var gs = document.createElement('script');
+        gs.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec?name=' + encodeURIComponent(name) + '&whatsapp=' + encodeURIComponent(fullNumber) + '&type=Pre-Order&callback=_gs';
+        gs.onerror = function(){ gs.remove(); };
+        gs.onload = function(){ gs.remove(); };
+        document.body.appendChild(gs);
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1658,15 +1656,13 @@
         setTimeout(closePlayTest, 2800);
       }).finally(function() { if (btn) btn.disabled = false; });
 
-      // Also save to Google Sheet (hidden iframe form submission)
+      // Save to Google Sheet via script tag (JSONP-style, no CORS)
       try {
-        var sf = document.createElement('form');
-        sf.method = 'POST'; sf.action = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec';
-        sf.target = 'eg-sheet-frame'; sf.style.display = 'none';
-        [['name',name],['whatsapp',fullNumber],['type','Playtest']].forEach(function(p){
-          var i = document.createElement('input'); i.type='hidden'; i.name=p[0]; i.value=p[1]; sf.appendChild(i);
-        });
-        document.body.appendChild(sf); sf.submit(); sf.remove();
+        var gs = document.createElement('script');
+        gs.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec?name=' + encodeURIComponent(name) + '&whatsapp=' + encodeURIComponent(fullNumber) + '&type=Playtest&callback=_gs';
+        gs.onerror = function(){ gs.remove(); };
+        gs.onload = function(){ gs.remove(); };
+        document.body.appendChild(gs);
       } catch(ex) {}
       return false;
     }
@@ -9022,6 +9018,6 @@
 })();
 </script>
 
-<iframe name="eg-sheet-frame" style="display:none"></iframe>
+<script>window._gs = function(){};</script>
 </body>
 </html>
