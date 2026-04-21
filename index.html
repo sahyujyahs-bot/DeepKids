@@ -993,6 +993,16 @@
       let maxCardH      = 200;
       let teaseActive   = true;
       let teaseTimer;
+
+      /* Tease: wobble a random settled card every 6 s to signal interactivity */
+      function startTease() {
+        if (!teaseActive) return;
+        const live = physEntries.filter(en => !en.body.isStatic);
+        if (live.length === 0) { teaseTimer = setTimeout(startTease, 1000); return; }
+        const target = live[Math.floor(Math.random() * live.length)];
+        Body.setAngularVelocity(target.body, (Math.random() > .5 ? 1 : -1) * 0.10);
+        teaseTimer = setTimeout(startTease, 6000);
+      }
       let numPhysRows   = 1;
 
       /* spawnRain() is the replayable part — called on load and on replay */
@@ -1171,16 +1181,6 @@
 
         const hint    = document.getElementById('drag-hint');
         const replayBtn = document.getElementById('replay-btn');
-
-        /* Tease: wobble a random settled card every 6 s to signal interactivity */
-        function startTease() {
-          if (!teaseActive) return;
-          const live = physEntries.filter(en => !en.body.isStatic);
-          if (live.length === 0) { teaseTimer = setTimeout(startTease, 1000); return; }
-          const target = live[Math.floor(Math.random() * live.length)];
-          Body.setAngularVelocity(target.body, (Math.random() > .5 ? 1 : -1) * 0.10);
-          teaseTimer = setTimeout(startTease, 6000);
-        }
 
         /* Hint & tease appear after cards have had time to settle */
         setTimeout(() => {
