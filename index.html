@@ -970,10 +970,9 @@
           imgCache[k] = img;
           loadedCount++;
           if (RAIN_KEYS.indexOf(k) !== -1) rainLoadedCount++;
-          // Start the rain as soon as at least 3 rain images are
-          // ready — no need to wait for all 13. The remaining cards
-          // are added to the scene as they arrive.
-          if (rainLoadedCount >= 3 && !window._heroSpawned) {
+          // Start the rain as soon as the first rain image is
+          // ready. Remaining cards are added as they arrive.
+          if (rainLoadedCount >= 1 && !window._heroSpawned) {
             window._heroSpawned = true;
             spawnAll();
           } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
@@ -1038,7 +1037,7 @@
              preserving the "one, then a few, then a few" rhythm. */
           let delay;
           if (row === 0) {
-            delay = col === 0 ? 0 : (col * 130 + Math.random() * 120);
+            delay = col === 0 ? 60 : (col * 130 + 60 + Math.random() * 120);
           } else {
             delay = row * 1300 + col * 160 + Math.random() * 220;
           }
@@ -3422,8 +3421,8 @@
   <p class="page-desc eg-fade-in">54 tiles &mdash; each with a scientifically accurate quip explaining exactly why that gravity well exists and how the forces at that altitude shape the game.</p>
   <div id="sci-collage" class="eg-fade-in">
     <picture>
-      <source media="(max-width: 600px)" srcset="Section4-collage-mobile.webp">
-      <img decoding="async" src="Section4-collage.webp" alt="Each Tile Carries Science — tile close-ups collage">
+      <source media="(max-width: 600px)" srcset="science-tiles-mobile.webp">
+      <img decoding="async" src="science-tiles-laptop.webp" alt="Each Tile Carries Science — tile close-ups collage">
     </picture>
   </div>
 </section>
