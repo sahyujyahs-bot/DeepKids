@@ -19,45 +19,36 @@ export async function onRequest(context) {
 
   try {
     const data = await context.request.json();
-    const params = new URLSearchParams();
-    params.append('name', data.name || '');
-    params.append('whatsapp', data.whatsapp || '');
-    params.append('type', data.type || '');
 
-    // Try POST with form data
-    const gsResponse = await fetch(SHEET_URL, {
-      method: 'POST',
-      body: params.toString(),
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      redirect: 'follow',
-    });
+    // Append data as URL query params — NOT as POST body.
+    // Google's 302 redirect turns POST→GET and drops the body.
+    // Query params survive the redirect because they're in the URL.
+    const url = SHEET_URL
+      + '?name=' + encodeURIComponent(data.name || '')
+      + '&whatsapp=' + encodeURIComponent(data.whatsapp || '')
+      + '&type=' + encodeURIComponent(data.type || '');
 
+    // Use GET so the redirect doesn't strip anything
+    const gsResponse = await fetch(url, { redirect: 'follow' });
     const gsText = await gsResponse.text();
 
-    // If POST failed, try GET with params
-    if (gsResponse.status !== 200) {
-      const gsResponse2 = await fetch(SHEET_URL + '?' + params.toString(), {
-        redirect: 'follow',
-      });
-      const gsText2 = await gsResponse2.text();
-      return new Response(JSON.stringify({
-        result: 'fallback',
-        postStatus: gsResponse.status,
-        postBody: gsText.substring(0, 200),
-        getStatus: gsResponse2.status,
-        getBody: gsText2.substring(0, 200),
-      }), {
-        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
-      });
-    }
-
-    return new Response(JSON.stringify({ result: 'ok', status: gsResponse.status }), {
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+    return new Response(JSON.stringify({
+      result: 'ok',
+      gsStatus: gsResponse.status,
+      gsResponse: gsText.substring(0, 200)
+    }), {
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+      },
     });
   } catch (err) {
-    return new Response(JSON.stringify({ error: err.message, stack: err.stack }), {
+    return new Response(JSON.stringify({ error: err.message }), {
       status: 500,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+      },
     });
   }
 }
