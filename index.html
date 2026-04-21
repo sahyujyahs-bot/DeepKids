@@ -258,7 +258,24 @@
       pointer-events: none;
     }
     @media (max-width: 768px) {
-      #content { padding-top: 0; }
+      #content {
+        height: 52vh;
+        justify-content: flex-start;
+        padding-top: clamp(48px, 7vh, 64px);
+        gap: clamp(2px, 0.6vh, 6px);
+      }
+      .hero-tags { margin-bottom: 4px; }
+      .title {
+        font-size: clamp(36px, 9vw, 56px);
+        margin-bottom: 4px;
+        padding: 8px clamp(10px,2vw,18px);
+      }
+      .subtitle {
+        margin-bottom: 10px;
+        font-size: clamp(11px, 2.5vw, 16px);
+        padding: 3px clamp(10px,2vw,18px);
+      }
+      .hero-cta-below { margin-top: -4px; }
     }
     #content > * { pointer-events: all; }
 
