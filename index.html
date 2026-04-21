@@ -8393,14 +8393,13 @@
   function animateCursor() {
     if (!animating) return;
     var diff = targetAngle - currentAngle;
-    if (Math.abs(diff) < 0.02) {
+    if (Math.abs(diff) < 0.1) {
       currentAngle = targetAngle;
       applyCursor(currentAngle);
       animating = false;
       return;
     }
-    // Ease towards target
-    currentAngle += diff * 0.15;
+    currentAngle += diff * 0.4;
     applyCursor(currentAngle);
     requestAnimationFrame(animateCursor);
   }
@@ -8440,7 +8439,7 @@
       src.connect(gain);
       gain.connect(spiralAc.destination);
       src.start(0, 0, 1.0);
-      setTimeout(function() { spinPlaying = false; }, 900);
+      setTimeout(function() { spinPlaying = false; }, 1500);
     } catch(e) { spinPlaying = false; }
   }
 
