@@ -8339,13 +8339,24 @@
     }
   }
 
+  /* ── Visibility gate: only rotate + sound when spiral section
+       is in the viewport ─────────────────────────────────────── */
+  var spiralSectionVisible = false;
+  var spiralSection = document.getElementById('s-spiral');
+  if (spiralSection) {
+    var spObs = new IntersectionObserver(function(entries) {
+      spiralSectionVisible = entries[0].isIntersecting;
+    }, { threshold: 0.1 });
+    spObs.observe(spiralSection);
+  }
+
   /* ── Scroll: rotate with scroll direction ──────────────── */
   var scrollTimer;
   window.addEventListener('wheel', function(e) {
+    if (!spiralSectionVisible) return;
     scrollAccum += e.deltaY;
     clearTimeout(scrollTimer);
     scrollTimer = setTimeout(function() { scrollAccum = 0; }, 150);
-    // Rotate proportionally to scroll amount
     targetAngle += e.deltaY * 0.003;
     if (!animating) {
       animating = true;
@@ -8360,6 +8371,7 @@
     lastTouchY = e.touches[0].clientY;
   }, { passive: true });
   document.addEventListener('touchmove', function(e) {
+    if (!spiralSectionVisible) return;
     var dy = lastTouchY - e.touches[0].clientY;
     lastTouchY = e.touches[0].clientY;
     targetAngle += dy * 0.008;
@@ -8372,6 +8384,7 @@
 
   /* ── Click: 1 full spin, alternating direction ─────────── */
   document.addEventListener('click', function() {
+    if (!spiralSectionVisible) return;
     spinTo(currentAngle + clickDir * Math.PI * 2);
     clickDir *= -1;
     startSpiralSound(1.8);
@@ -8379,6 +8392,7 @@
 
   /* ── Double-click: 5 full spins, alternating direction ─── */
   document.addEventListener('dblclick', function(e) {
+    if (!spiralSectionVisible) return;
     e.preventDefault();
     spinTo(currentAngle + dblClickDir * Math.PI * 2 * 5);
     dblClickDir *= -1;
