@@ -10,6 +10,6 @@ const CARDS = {
   "Card12Side1": {src:"Hotairballoon.png",w:756,h:1051,role:"balloon"},
   "Card12Side2": {src:"Card12Side2.png",w:220,h:124,role:"bird"},
   "Card13Side1": {src:"Card13Side1.png",w:206,h:280,role:"parachute"},
-  "DKLogo": {src:"DeepKids_Logo_Idea.png",w:200,h:200,role:"rain"},
+  "DKLogo": {src:"DeepKids_Logo_Idea.webp",w:200,h:200,role:"rain"},
   "ISSArt": {src:"Copy of Core.png",w:160,h:160,role:"rain"}
 };

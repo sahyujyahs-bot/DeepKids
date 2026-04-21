@@ -52,7 +52,7 @@
   <meta property="og:url" content="https://deepkids.in/"/>
   <meta property="og:title" content="EscapeGravity — A Board Game Where Gravity Is Experienced, Not Just Read About"/>
   <meta property="og:description" content="35+ physical challenges. 13 forces across 7 categories. 54 science-packed tiles. A spiral board that pulls you into the core. Ages 7+, 2+ players."/>
-  <meta property="og:image" content="https://deepkids.in/IMG_4945.png"/>
+  <meta property="og:image" content="https://deepkids.in/IMG_4945.webp"/>
   <meta property="og:image:width" content="1024"/>
   <meta property="og:image:height" content="1024"/>
   <meta property="og:site_name" content="DeepKids"/>
@@ -60,7 +60,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="EscapeGravity — Gravity Is Experienced, Not Just Read About"/>
   <meta name="twitter:description" content="A science board game with 35+ physical challenges, force cards, and gravity wells. Ages 7+."/>
-  <meta name="twitter:image" content="https://deepkids.in/IMG_4945.png"/>
+  <meta name="twitter:image" content="https://deepkids.in/IMG_4945.webp"/>
   <!-- Additional SEO signals -->
   <meta name="robots" content="index, follow"/>
   <meta name="author" content="DeepKids"/>
@@ -85,7 +85,7 @@
     "@type": "Product",
     "name": "EscapeGravity",
     "description": "A science board game for ages 7+ where players do 35+ physical challenges, earn force cards, and escape gravity wells on a spiral board. Gravity is experienced, not just read about.",
-    "image": "https://deepkids.in/IMG_4945.png",
+    "image": "https://deepkids.in/IMG_4945.webp",
     "brand": {
       "@type": "Brand",
       "name": "DeepKids"
@@ -104,7 +104,7 @@
     "@type": "Organization",
     "name": "DeepKids",
     "url": "https://deepkids.in",
-    "logo": "https://deepkids.in/DeepKids_Logo_Idea.png",
+    "logo": "https://deepkids.in/DeepKids_Logo_Idea.webp",
     "sameAs": [
       "https://www.instagram.com/deepkids.club",
       "https://www.facebook.com/people/DeepKids/61584787613315/"
@@ -258,7 +258,7 @@
       pointer-events: none;
     }
     @media (max-width: 768px) {
-      #content { padding-top: clamp(10px, 2vh, 24px); }
+      #content { padding-top: 0; }
     }
     #content > * { pointer-events: all; }
 
@@ -1666,7 +1666,7 @@
     <button type="button" class="po-close" onclick="closePreOrderModal()" aria-label="Close">×</button>
     <!-- Rocket illustration at the top -->
     <div class="po-hero-img">
-      <img src="Untitled_Artwork 7.png" alt="Rocket" class="po-rocket">
+      <img src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
     <p class="po-subtitle">Be among the first to play <strong>EscapeGravity</strong>. Drop your details and we'll beam you a message when it's time to launch!</p>
@@ -1720,7 +1720,7 @@
   <div class="po-box">
     <button type="button" class="po-close" onclick="closePlayTest()" aria-label="Close">&times;</button>
     <div class="po-hero-img">
-      <img src="Untitled_Artwork 7.png" alt="Rocket" class="po-rocket">
+      <img src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Join Play Testing</h3>
     <p class="po-subtitle">Join with your WhatsApp number. We'll ping you to find a weekend and time for a play test session in your locality.</p>
@@ -2104,8 +2104,8 @@
     <div class="s2-pin-item s2-pin-chall">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img decoding="async" src="Lightest_Items_Wins.png" alt="Challenge Card Front"></div>
-          <div class="s2-flip-back"><img decoding="async" src="Physical_Challenge_Card_Top_Side.png" alt="Challenge Card Back"></div>
+          <div class="s2-flip-front"><img decoding="async" src="Lightest_Items_Wins.webp" alt="Challenge Card Front"></div>
+          <div class="s2-flip-back"><img decoding="async" src="Physical_Challenge_Card_Top_Side.webp" alt="Challenge Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -2113,12 +2113,12 @@
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img decoding="async" src="Blue astronaut front.png" alt="Astronaut Token">
+      <img decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img decoding="async" src="Untitled_Artwork 7.png" alt="Rocket Token">
+      <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
@@ -3393,8 +3393,8 @@
   <p class="page-desc eg-fade-in">54 tiles &mdash; each with a scientifically accurate quip explaining exactly why that gravity well exists and how the forces at that altitude shape the game.</p>
   <div id="sci-collage" class="eg-fade-in">
     <picture>
-      <source media="(max-width: 600px)" srcset="Section4%20collage%20mobile.png">
-      <img decoding="async" src="Section4%20collage.png" alt="Each Tile Carries Science — tile close-ups collage">
+      <source media="(max-width: 600px)" srcset="Section4-collage-mobile.webp">
+      <img decoding="async" src="Section4-collage.webp" alt="Each Tile Carries Science — tile close-ups collage">
     </picture>
   </div>
 </section>
@@ -4127,7 +4127,12 @@
   window.jumpToState4WithBubble = jumpToState4WithBubble;
 
   /* ── Dice roll ──────────────────────────────────────────── */
-  window.s2Roll = function() { if (state === 2 && !busy) doRoll(); };
+  window.s2Roll = function() {
+    if (state === 2 && !busy) {
+      doRoll();
+      if (typeof gtag === 'function') gtag('event', 'howtoplay_dice_roll', { event_category: 'engagement' });
+    }
+  };
   window.jumpToState0 = jumpToState0;
   window.tilePos = tilePos;
   window.TILE11_NX = TILE11_NX; window.TILE11_NY = TILE11_NY;
@@ -4450,6 +4455,9 @@
     tab.addEventListener('click', function(){
       if (tab.classList.contains('locked')) return;
       var target = tab.dataset.panel;
+      // Track How To Play tab interaction for retargeting
+      if (typeof gtag === 'function') gtag('event', 'howtoplay_step', { event_category: 'engagement', step: target });
+      if (typeof fbq === 'function') fbq('trackCustom', 'HowToPlayInteraction', { step: target });
       // ALWAYS clean Step 3 leftovers AND any pending boardgame
       // (doRoll / auto-zoom) timers before switching tabs so
       // nothing can bleed into the next tab.
@@ -5801,7 +5809,7 @@
 
     <!-- Challenge card with overlapping bracket annotations -->
     <div class="s4b-annotated eg-fade-in">
-      <img class="s4b-challenge-img" src="IMG_5141.jpeg" alt="Miss The Bucket — Challenge Card">
+      <img class="s4b-challenge-img" src="IMG_5141.webp" alt="Miss The Bucket — Challenge Card">
       <svg class="s4b-arrows" viewBox="0 0 100 54" preserveAspectRatio="xMidYMid meet">
         <!-- Physical Challenge bracket — touching card right edge -->
         <line x1="87" y1="3" x2="87" y2="35" stroke="#e85d75" stroke-width="0.5"/>
@@ -5838,7 +5846,7 @@
   <div class="s4b-panel" id="s4b-ex2">
 
     <div class="s4b-annotated eg-fade-in">
-      <img class="s4b-challenge-img" src="IMG_5149.jpeg" alt="One Leg Balance — Challenge Card">
+      <img class="s4b-challenge-img" src="IMG_5149.webp" alt="One Leg Balance — Challenge Card">
       <svg class="s4b-arrows" viewBox="0 0 100 54" preserveAspectRatio="xMidYMid meet">
         <line x1="87" y1="3" x2="87" y2="35" stroke="#e85d75" stroke-width="0.5"/>
         <line x1="85" y1="3" x2="87" y2="3" stroke="#e85d75" stroke-width="0.5"/>
@@ -5968,7 +5976,7 @@
   <div class="s6b-panel active" id="s6b-gw1">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img decoding="async" src="Tile10.png" alt="Tile 10 — Earth's Surface">
+        <img decoding="async" src="Tile10.webp" alt="Tile 10 — Earth's Surface">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5990,7 +5998,7 @@
   <div class="s6b-panel" id="s6b-gw2">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img decoding="async" src="Section6 tile15.png" alt="Tile 15 — Rough Ocean Waves">
+        <img decoding="async" src="Section6-tile15.webp" alt="Tile 15 — Rough Ocean Waves">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -6002,7 +6010,7 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5301.png" alt="Buoyancy — Water (content side)">
+        <img class="s6b-fc-img" src="IMG_5301.webp" alt="Buoyancy — Water (content side)">
       </div>
     </div>
   </div>
@@ -6011,7 +6019,7 @@
   <div class="s6b-panel" id="s6b-gw3">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img decoding="async" src="Section6tile16.png" alt="Tile 16 — Losing Balance At A Cliff">
+        <img decoding="async" src="Section6tile16.webp" alt="Tile 16 — Losing Balance At A Cliff">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -6214,25 +6222,25 @@
   <!-- Desktop: tiles flanking spiral -->
   <div class="spiral-stage eg-fade-in">
     <div class="spiral-side">
-      <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
       <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
     </div>
     <div class="spiral-wrap">
-      <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="IMG_4945.png" alt="EscapeGravity Spiral Board">
+      <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="IMG_4945.webp" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
     <div class="spiral-side">
       <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-      <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
     </div>
   </div>
 
   <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
   <div class="spiral-row-mobile eg-fade-in">
-    <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.png" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
     <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
     <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-    <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg" alt="Hurricane spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
   </div>
 </section>
 
@@ -6748,16 +6756,16 @@
   <p class="eg-fade-in" style="font-family:'Pompiere',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
 
   <div class="exp-grid eg-fade-in">
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5232.png" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5067.png" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5068.png" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5062.png" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5071.png" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5064.png" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5066.png" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5069.png" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5070.png" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5065.png" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5232.webp" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5067.webp" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5068.webp" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5062.webp" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5071.webp" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5064.webp" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5066.webp" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5069.webp" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5070.webp" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5065.webp" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
   </div>
 </section>
 
@@ -8090,7 +8098,7 @@
   .floating-rocket { display: none; }
 }
 </style>
-<img class="floating-rocket" src="Untitled_Artwork 7.png" alt="" aria-hidden="true">
+<img class="floating-rocket" src="Untitled_Artwork-7.webp" alt="" aria-hidden="true">
 
 <!-- ═══════════════════════════════════ OBSERVER + FORM SCRIPTS ══ -->
 <script>
@@ -8216,6 +8224,18 @@
     fadeEls.forEach(el => el.classList.add('visible'));
   }
 
+  /* ── Section-view tracking for retargeting ──────────────── */
+  var trackedSections = {};
+  var sectionObs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting && !trackedSections[e.target.id]) {
+        trackedSections[e.target.id] = true;
+        if (typeof gtag === 'function') gtag('event', 'section_view', { event_category: 'scroll_depth', section: e.target.id });
+      }
+    });
+  }, { threshold: 0.2 });
+  document.querySelectorAll('section[id]').forEach(function(s) { sectionObs.observe(s); });
+
   /* ── Newsletter form ─────────────────────────────────────── */
   const form = document.getElementById('s6-form');
   if(form){
@@ -8273,7 +8293,7 @@
     spiralLoaded = true;
     applyCursor(currentAngle);
   };
-  spiralImg.src = 'IMG_4945.png';
+  spiralImg.src = 'IMG_4945.webp';
 
   /* ── Draw the spiral at a given rotation angle (no border) ── */
   function drawSpiralAt(angle) {
