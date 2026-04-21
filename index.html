@@ -111,8 +111,14 @@
     ]
   }
   </script>
-  <!-- Only preload scripts needed before first paint. Images and
-       audio load naturally — too many preloads delay fonts. -->
+  <!-- Only preload above-the-fold critical resources. Too many
+       preloads saturate the browser's ~6 connections and delay
+       fonts. Below-fold images load naturally on scroll. -->
+  <link rel="preload" as="image" href="Card2Side2.png"/>
+  <link rel="preload" as="image" href="Card4Side1.png"/>
+  <link rel="preload" as="image" href="Card5Side1.png"/>
+  <link rel="preload" as="image" href="box-lid.webp"/>
+  <link rel="preload" as="image" href="board-prototype.webp"/>
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
@@ -824,12 +830,10 @@
           ctx.translate(a.x, a.y);
           ctx.rotate(a.rot);
 
-          if (!a._grad) {
-            a._grad = ctx.createRadialGradient(-a.r*.3, -a.r*.3, 0, 0, 0, a.r);
-            a._grad.addColorStop(0, '#5a4634');
-            a._grad.addColorStop(1, '#140e06');
-          }
-          ctx.fillStyle = a._grad;
+          const g = ctx.createRadialGradient(-a.r*.3, -a.r*.3, 0, 0, 0, a.r);
+          g.addColorStop(0, '#5a4634');
+          g.addColorStop(1, '#140e06');
+          ctx.fillStyle = g;
           ctx.beginPath();
           for (let i = 0; i < 7; i++) {
             const ang = i/7 * Math.PI*2;
@@ -862,10 +866,7 @@
          playback after a user gesture. */
       let swooshBuffer = null;
       let swooshCtx = null;
-      var swooshLoaded = false;
-      function loadSwooshOnce() {
-        if (swooshLoaded) return;
-        swooshLoaded = true;
+      (function preloadSwoosh() {
         try {
           swooshCtx = new (window.AudioContext || window.webkitAudioContext)();
           var xhr = new XMLHttpRequest();
@@ -873,15 +874,14 @@
           xhr.responseType = 'arraybuffer';
           xhr.onload = function() {
             if (xhr.status === 200) {
-              swooshCtx.decodeAudioData(xhr.response, function(buf) { swooshBuffer = buf; });
+              swooshCtx.decodeAudioData(xhr.response, function(buf) {
+                swooshBuffer = buf;
+              });
             }
           };
           xhr.send();
         } catch(e) {}
-      }
-      ['pointerdown','touchstart','click'].forEach(function(e) {
-        document.addEventListener(e, loadSwooshOnce, {passive:true});
-      });
+      })();
       // Arm on the FIRST user gesture (touchstart fires before the
       // scroll actually happens, so we catch the intent early):
       // resume the AudioContext AND immediately replay the rain so
@@ -976,11 +976,8 @@
             window._heroSpawned = true;
             spawnAll();
           } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
-            // Late arrival: queue for next animation frame to avoid
-            // physics stutter from mid-frame body creation
-            requestAnimationFrame(function() {
-              if (typeof window._lateDropCard === 'function') window._lateDropCard(k);
-            });
+            // Late arrival: add this card to the existing scene
+            if (typeof window._lateDropCard === 'function') window._lateDropCard(k);
           }
         };
         img.onerror = () => { loadedCount++; };
@@ -1027,7 +1024,7 @@
 
           const body = Bodies.rectangle(x, y, dW, dH, {
             isStatic:    true,
-            frictionAir: 0.008 + Math.random() * 0.012,
+            frictionAir: 0.012 + Math.random() * 0.018,
             restitution: 0.30  + Math.random() * 0.30,
             friction:    0.55  + Math.random() * 0.30,
           });
@@ -1071,7 +1068,7 @@
         var y = -dH/2 - 30;
         var body = Bodies.rectangle(x, y, dW, dH, {
           isStatic: false,
-          frictionAir: 0.008 + Math.random() * 0.012,
+          frictionAir: 0.012 + Math.random() * 0.018,
           restitution: 0.30 + Math.random() * 0.30,
           friction: 0.55 + Math.random() * 0.30,
         });
@@ -1225,11 +1222,9 @@
           playSwoosh();
         });
 
-        // Run physics manually inside our render loop instead of
-        // using Runner (which creates a second rAF loop that competes
-        // for frame budget and causes stuttering on mobile).
+        Runner.run(Runner.create(), engine);
         initFloaters();
-        spawnRain();
+        spawnRain();   /* ← first rain */
         loop();
       }
 
@@ -1333,24 +1328,15 @@
         }
       }
 
-      /* ── Render loop — only runs when hero section is visible ── */
-      var heroVisible = true;
-      var heroObs = new IntersectionObserver(function(entries) {
-        heroVisible = entries[0].isIntersecting;
-      }, { threshold: 0 });
-      heroObs.observe(document.getElementById('s1'));
-
+      /* ── Render loop ────────────────────────────────────────── */
       function loop() {
-        if (heroVisible) {
-          t++;
-          Engine.update(engine, 1000 / 60);
-          if (!bird.ready || !balloon.ready || !chute.ready) initFloaters();
-          drawBackground();
-          drawPhysics();
-          updateBalloon();
-          updateParachute();
-          updateBird();
-        }
+        t++;
+        initFloaters();
+        drawBackground();
+        drawPhysics();
+        updateBalloon();
+        updateParachute();
+        updateBird();
         requestAnimationFrame(loop);
       }
 
@@ -1475,7 +1461,18 @@
         clone.style.left      = curX + 'px';
         clone.style.top       = curY + 'px';
         clone.style.transform = 'scale(' + s + ')';
-        clone.style.opacity   = String(1 - p * 0.15);
+
+        clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
+
+        var r = Math.round(255 + (156 - 255) * p);
+        var g = Math.round(255 + (188 - 255) * p);
+        var b = Math.round(255 + (20  - 255) * p);
+        clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
+
+        var a = 1 - p;
+        clone.style.textShadow =
+          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
+          '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
 
         // Smooth crossfade over the last 20% of the scroll range
         // so the clone melts into the nav logo instead of snapping.
@@ -2107,25 +2104,25 @@
 
   <div class="s2-pin">
     <div class="s2-pin-item s2-pin-box">
-      <img src="box-lid.webp" alt="The Box">
+      <img decoding="async" src="box-lid.webp" alt="The Box">
       <div class="s2-pin-lbl">Box</div>
     </div>
 
     <div class="s2-pin-item s2-pin-spiral">
-      <img src="board-prototype.webp" alt="Board Prototype">
+      <img decoding="async" src="board-prototype.webp" alt="Board Prototype">
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
     <div class="s2-pin-item s2-pin-kit">
-      <img src="kit-items.webp" alt="Challenge Kit Items">
+      <img decoding="async" src="kit-items.webp" alt="Challenge Kit Items">
       <div class="s2-pin-lbl">Challenge Kit Items</div>
     </div>
 
     <div class="s2-pin-item s2-pin-chall">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img src="IMG_5098.webp" alt="Force Card Front"></div>
-          <div class="s2-flip-back"><img src="IMG_5099.webp" alt="Force Card Back"></div>
+          <div class="s2-flip-front"><img decoding="async" src="IMG_5098.jpeg" alt="Force Card Front"></div>
+          <div class="s2-flip-back"><img decoding="async" src="IMG_5099.jpeg" alt="Force Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -2135,8 +2132,8 @@
     <div class="s2-pin-item s2-pin-chall">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img src="Lightest_Items_Wins.webp" alt="Challenge Card Front"></div>
-          <div class="s2-flip-back"><img src="Physical_Challenge_Card_Top_Side.webp" alt="Challenge Card Back"></div>
+          <div class="s2-flip-front"><img decoding="async" src="Lightest_Items_Wins.webp" alt="Challenge Card Front"></div>
+          <div class="s2-flip-back"><img decoding="async" src="Physical_Challenge_Card_Top_Side.webp" alt="Challenge Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -2144,12 +2141,12 @@
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img src="Blue-astronaut-front.webp" alt="Astronaut Token">
+      <img decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut Token">
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img src="Untitled_Artwork-7.webp" alt="Rocket Token">
+      <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket Token">
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
@@ -2336,18 +2333,8 @@
     };
     xhr.send();
   }
-  // Defer box sounds to when section enters viewport
-  var boxSoundsLoaded = false;
-  var boxSoundObs = new IntersectionObserver(function(entries) {
-    if (entries[0].isIntersecting && !boxSoundsLoaded) {
-      boxSoundsLoaded = true;
-      loadBoxSound('cardflip sound.wav', function(b) { cardFlipBuf = b; });
-      loadBoxSound('cardsscrollsound.wav', function(b) { cardScrollBuf = b; });
-      boxSoundObs.disconnect();
-    }
-  }, { threshold: 0, rootMargin: '200px' });
-  var boxGrid = document.querySelector('.s2-pin');
-  if (boxGrid) boxSoundObs.observe(boxGrid);
+  loadBoxSound('cardflip sound.wav', function(b) { cardFlipBuf = b; });
+  loadBoxSound('cardsscrollsound.wav', function(b) { cardScrollBuf = b; });
 
   function playBoxSound(buf, vol) {
     if (!buf || !boxAudioCtx) return;
@@ -2414,47 +2401,55 @@
     }, { threshold: 0.05 });
     entryObs.observe(pin);
 
-    // Train scroll + flip check — merged into one loop,
-    // only runs RAF when section is visible
+    // Train scroll — only while section is visible
     var speed = 0.7;
     var stripVisible = false;
-    var stripObs = new IntersectionObserver(function(entries) {
-      var wasVisible = stripVisible;
+    var scrollObs = new IntersectionObserver(function(entries) {
       stripVisible = entries[0].isIntersecting;
-      if (stripVisible && !wasVisible) stripLoop();
     }, { threshold: 0.05 });
-    stripObs.observe(pin);
+    scrollObs.observe(pin);
 
-    var flips = pin.querySelectorAll('.s2-flip-card');
-
-    function stripLoop() {
-      if (!stripVisible) return; // stop RAF chain when off-screen
-      // Auto-scroll
-      if (!paused && pin.scrollWidth > pin.clientWidth) {
+    function tick() {
+      if (!paused && stripVisible && pin.scrollWidth > pin.clientWidth) {
         pin.scrollLeft += speed;
         if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 1) {
           pin.scrollLeft = 0;
         }
       }
-      // Auto-flip check
-      var pinR = pin.getBoundingClientRect();
-      var cx = pinR.left + pinR.width / 2;
-      flips.forEach(function(card) {
-        var r = card.getBoundingClientRect();
-        var cardCx = r.left + r.width / 2;
-        if (Math.abs(cardCx - cx) < r.width * 0.7 && !card.dataset.af) {
-          card.dataset.af = '1';
-          card.classList.add('flipped');
-          if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.45);
-          setTimeout(function() {
-            card.classList.remove('flipped');
-            if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.3);
-            setTimeout(function() { delete card.dataset.af; }, 2500);
-          }, 2200);
-        }
-      });
-      requestAnimationFrame(stripLoop);
+      requestAnimationFrame(tick);
     }
+    tick();
+
+    // Auto-flip: only when section is actually visible
+    var flips = pin.querySelectorAll('.s2-flip-card');
+    var sectionVisible = false;
+    var flipObs = new IntersectionObserver(function(entries) {
+      sectionVisible = entries[0].isIntersecting;
+    }, { threshold: 0.1 });
+    flipObs.observe(pin);
+
+    function checkFlips() {
+      if (sectionVisible) {
+        var pinR = pin.getBoundingClientRect();
+        var cx = pinR.left + pinR.width / 2;
+        flips.forEach(function(card) {
+          var r = card.getBoundingClientRect();
+          var cardCx = r.left + r.width / 2;
+          if (Math.abs(cardCx - cx) < r.width * 0.7 && !card.dataset.af) {
+            card.dataset.af = '1';
+            card.classList.add('flipped');
+            if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.45);
+            setTimeout(function() {
+              card.classList.remove('flipped');
+              if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.3);
+              setTimeout(function() { delete card.dataset.af; }, 2500);
+            }, 2200);
+          }
+        });
+      }
+      requestAnimationFrame(checkFlips);
+    }
+    checkFlips();
   })();
 })();
 </script>
@@ -3427,7 +3422,7 @@
   <div id="sci-collage" class="eg-fade-in">
     <picture>
       <source media="(max-width: 600px)" srcset="science-tiles-mobile.webp">
-      <img src="science-tiles-laptop.webp" alt="Each Tile Carries Science — tile close-ups collage">
+      <img decoding="async" src="science-tiles-laptop.webp" alt="Each Tile Carries Science — tile close-ups collage">
     </picture>
   </div>
 </section>
@@ -3755,7 +3750,7 @@
 
   /* ── Start zoom animation ───────────────────────────────── */
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
-  var spinSound = null; // loaded lazily in spiral section
+  var spinSound = new Audio('spin sound.wav');
   spinSound.preload = 'auto';
   function playSpinSound() {
     try {
@@ -4590,8 +4585,8 @@
 
       card.innerHTML =
         '<div class="s2-fan-card-inner">' +
-          '<div class="s2-fan-card-face s2-fan-card-back"><img src="'+CARD_BACK+'" alt="Activity Card"></div>' +
-          '<div class="s2-fan-card-face s2-fan-card-front"><img src="'+CARD_FRONT+'" alt="Challenge"></div>' +
+          '<div class="s2-fan-card-face s2-fan-card-back"><img loading="lazy" decoding="async" src="'+CARD_BACK+'" alt="Activity Card"></div>' +
+          '<div class="s2-fan-card-face s2-fan-card-front"><img loading="lazy" decoding="async" src="'+CARD_FRONT+'" alt="Challenge"></div>' +
         '</div>';
 
       // Card scroll sound — plays when user hovers over each card
@@ -5866,7 +5861,7 @@
     </div>
 
     <div class="s4b-bottom">
-      <img class="s4b-fc-img" src="IMG_5099.webp" alt="Sideways Velocity — Force Card (content side)">
+      <img class="s4b-fc-img" src="IMG_5099.jpeg" alt="Sideways Velocity — Force Card (content side)">
       <p class="s4b-connection">
         The car rolls off the table and curves &mdash; it doesn&rsquo;t fall straight down.
         That curved path is sideways velocity in action.
@@ -5900,7 +5895,7 @@
     </div>
 
     <div class="s4b-bottom">
-      <img class="s4b-fc-img" src="IMG_5111.webp" alt="Center Of Gravity — Force Card (content side)">
+      <img class="s4b-fc-img" src="IMG_5111.jpeg" alt="Center Of Gravity — Force Card (content side)">
       <p class="s4b-connection">
         Spreading your arms shifts your center of gravity back over your base &mdash;
         that&rsquo;s why balancing gets easier.
@@ -6009,7 +6004,7 @@
   <div class="s6b-panel active" id="s6b-gw1">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img src="Tile10.webp" alt="Tile 10 — Earth's Surface">
+        <img decoding="async" src="Tile10.webp" alt="Tile 10 — Earth's Surface">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -6021,8 +6016,8 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fan" id="s6b-fan">
-        <img class="s6b-fan-card" src="IMG_5099.webp" alt="Sideways Velocity" style="z-index:2;">
-        <img class="s6b-fan-card" src="IMG_5097.webp" alt="Escape Velocity" style="z-index:1;">
+        <img class="s6b-fan-card" src="IMG_5099.jpeg" alt="Sideways Velocity" style="z-index:2;">
+        <img class="s6b-fan-card" src="IMG_5097.jpeg" alt="Escape Velocity" style="z-index:1;">
       </div>
     </div>
   </div>
@@ -6031,7 +6026,7 @@
   <div class="s6b-panel" id="s6b-gw2">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img src="Section6-tile15.webp" alt="Tile 15 — Rough Ocean Waves">
+        <img decoding="async" src="Section6-tile15.webp" alt="Tile 15 — Rough Ocean Waves">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -6052,7 +6047,7 @@
   <div class="s6b-panel" id="s6b-gw3">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img src="Section6tile16.webp" alt="Tile 16 — Losing Balance At A Cliff">
+        <img decoding="async" src="Section6tile16.webp" alt="Tile 16 — Losing Balance At A Cliff">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -6064,7 +6059,7 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5302.webp" alt="Center Of Gravity — Balance (content side)">
+        <img class="s6b-fc-img" src="IMG_5302.jpeg" alt="Center Of Gravity — Balance (content side)">
       </div>
     </div>
   </div>
@@ -6255,25 +6250,25 @@
   <!-- Desktop: tiles flanking spiral -->
   <div class="spiral-stage eg-fade-in">
     <div class="spiral-side">
-      <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
-      <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
     </div>
     <div class="spiral-wrap">
-      <img id="spiral-board" class="spiral-img" fetchpriority="high" src="IMG_4945.webp" alt="EscapeGravity Spiral Board">
+      <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="IMG_4945.webp" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
     <div class="spiral-side">
-      <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-      <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
     </div>
   </div>
 
   <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
   <div class="spiral-row-mobile eg-fade-in">
-    <div class="spiral-ex"><img src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
-    <div class="spiral-ex"><img src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
-    <div class="spiral-ex"><img src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-    <div class="spiral-ex"><img src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
   </div>
 </section>
 
@@ -6517,31 +6512,31 @@
   <!-- 7 Category icons -->
   <div class="forces-icons" id="forces-icons">
     <button class="forces-icon active" data-cat="earth">
-      <img src="IMG_4700.png" alt="Earth">
+      <img loading="lazy" decoding="async" src="IMG_4700.png" alt="Earth">
       <span>Earth</span>
     </button>
     <button class="forces-icon" data-cat="air">
-      <img src="IMG_4702.png" alt="Air">
+      <img loading="lazy" decoding="async" src="IMG_4702.png" alt="Air">
       <span>Air</span>
     </button>
     <button class="forces-icon" data-cat="water">
-      <img src="IMG_4701.png" alt="Water">
+      <img loading="lazy" decoding="async" src="IMG_4701.png" alt="Water">
       <span>Water</span>
     </button>
     <button class="forces-icon" data-cat="body">
-      <img src="IMG_4705.png" alt="Body">
+      <img loading="lazy" decoding="async" src="IMG_4705.png" alt="Body">
       <span>Body</span>
     </button>
     <button class="forces-icon" data-cat="speed">
-      <img src="IMG_4704.png" alt="Speed">
+      <img loading="lazy" decoding="async" src="IMG_4704.png" alt="Speed">
       <span>Speed</span>
     </button>
     <button class="forces-icon" data-cat="energy">
-      <img src="IMG_4703.png" alt="Energy">
+      <img loading="lazy" decoding="async" src="IMG_4703.png" alt="Energy">
       <span>Energy</span>
     </button>
     <button class="forces-icon" data-cat="balance">
-      <img src="IMG_4706.png" alt="Balance">
+      <img loading="lazy" decoding="async" src="IMG_4706.png" alt="Balance">
       <span>Balance</span>
     </button>
   </div>
@@ -6549,49 +6544,49 @@
   <!-- Force card panels — one per category -->
   <div class="forces-panel active" data-cat="earth">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5106.webp" alt="Normal Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5106.jpeg" alt="Normal Force"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="air">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5120.webp" alt="Air Resistance"></div>
-      <div class="forces-card-slot"><img src="IMG_5118.webp" alt="Airlift"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5120.jpeg" alt="Air Resistance"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5118.jpeg" alt="Airlift"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="water">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5116.webp" alt="Buoyancy"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5116.jpeg" alt="Buoyancy"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="body">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5114.webp" alt="Weight"></div>
-      <div class="forces-card-slot"><img src="IMG_5112.webp" alt="Physical Work"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5114.jpeg" alt="Weight"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5112.jpeg" alt="Physical Work"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="speed">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5098.webp" alt="Sideways Velocity"></div>
-      <div class="forces-card-slot"><img src="IMG_5096.webp" alt="Escape Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5098.jpeg" alt="Sideways Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5096.jpeg" alt="Escape Velocity"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="energy">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5102.webp" alt="Magnetic Force"></div>
-      <div class="forces-card-slot"><img src="IMG_5100.webp" alt="Elastic Energy"></div>
-      <div class="forces-card-slot"><img src="IMG_5104.webp" alt="Knowledge"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5102.jpeg" alt="Magnetic Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5100.jpeg" alt="Elastic Energy"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5104.jpeg" alt="Knowledge"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="balance">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img src="IMG_5110.webp" alt="Center of Gravity"></div>
-      <div class="forces-card-slot"><img src="IMG_5108.webp" alt="Neutral Pull"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5110.jpeg" alt="Center of Gravity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5108.jpeg" alt="Neutral Pull"></div>
     </div>
   </div>
   </div><!-- /forces-layout -->
@@ -6789,16 +6784,16 @@
   <p class="eg-fade-in" style="font-family:'Pompiere',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
 
   <div class="exp-grid eg-fade-in">
-    <div class="exp-item" tabindex="0"><img src="IMG_5232.webp" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5067.webp" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5068.webp" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5062.webp" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5071.webp" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5064.webp" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5066.webp" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5069.webp" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5070.webp" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
-    <div class="exp-item" tabindex="0"><img src="IMG_5065.webp" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5232.webp" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5067.webp" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5068.webp" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5062.webp" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5071.webp" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5064.webp" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5066.webp" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5069.webp" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5070.webp" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5065.webp" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
   </div>
 </section>
 
@@ -8144,7 +8139,8 @@
      Regular click sound for tabs, arrows, quiz buttons, etc.
      CTA buttons (Pre-Order, Sign Up, Count Me In) get a special
      celebratory chime instead. */
-  var btnClickSound = null;
+  var btnClickSound = new Audio('button click sound.wav');
+  btnClickSound.preload = 'auto';
 
   // Celebratory chime for CTA buttons (Web Audio — rising arpeggio)
   var ctaAudioCtx = null;
@@ -8185,10 +8181,6 @@
     // Everything else gets the standard click sound
     if (t.closest(BTN_SEL)) {
       try {
-        if (!btnClickSound) {
-          btnClickSound = new Audio('button click sound.wav');
-          btnClickSound.preload = 'auto';
-        }
         var s = btnClickSound.cloneNode();
         s.volume = 0.4;
         s.play().catch(function(){});
@@ -8407,10 +8399,8 @@
   var spiralAc = null;
   var spiralWhirr = null;
   var spinSoundBuf = null;
-  var spinSoundLoading = false;
-  function loadSpinSoundOnce() {
-    if (spinSoundLoading) return;
-    spinSoundLoading = true;
+  // Preload spin sound.wav for scroll turns
+  (function() {
     var xhr = new XMLHttpRequest();
     xhr.open('GET', 'spin sound.wav', true);
     xhr.responseType = 'arraybuffer';
@@ -8421,7 +8411,7 @@
       }
     };
     xhr.send();
-  }
+  })();
 
   // Play spin sound.wav (scroll turns) — only first 1s, with fade
   var spinPlaying = false;
@@ -8482,7 +8472,6 @@
   if (spiralSection) {
     var spObs = new IntersectionObserver(function(entries) {
       spiralSectionVisible = entries[0].isIntersecting;
-      if (spiralSectionVisible) loadSpinSoundOnce();
     }, { threshold: 0.1 });
     spObs.observe(spiralSection);
   }
