@@ -1600,13 +1600,16 @@
         msg.className = 'po-msg success';
         setTimeout(closePreOrderModal, 2800);
 
-      // Save to Google Sheet via Cloudflare Worker (same-origin, no CORS)
+      // Save to Google Sheet (direct browser GET — same method that works in browser URL bar)
       try {
-        fetch('/api/sheet', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Pre-Order' })
-        }).then(function(r){return r.json();}).then(function(d){console.log('Sheet:',d);}).catch(function(e){console.log('Sheet err:',e);});
+        var sheetImg = document.createElement('img');
+        sheetImg.style.display = 'none';
+        sheetImg.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec'
+          + '?name=' + encodeURIComponent(name)
+          + '&whatsapp=' + encodeURIComponent(fullNumber)
+          + '&type=Pre-Order';
+        document.body.appendChild(sheetImg);
+        setTimeout(function(){ sheetImg.remove(); }, 5000);
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1658,13 +1661,16 @@
         setTimeout(closePlayTest, 2800);
       }).finally(function() { if (btn) btn.disabled = false; });
 
-      // Save to Google Sheet via Cloudflare Worker (same-origin, no CORS)
+      // Save to Google Sheet (direct browser GET — same method that works in browser URL bar)
       try {
-        fetch('/api/sheet', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ name: name, whatsapp: fullNumber, type: 'Playtest' })
-        }).then(function(r){return r.json();}).then(function(d){console.log('Sheet:',d);}).catch(function(e){console.log('Sheet err:',e);});
+        var sheetImg = document.createElement('img');
+        sheetImg.style.display = 'none';
+        sheetImg.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec'
+          + '?name=' + encodeURIComponent(name)
+          + '&whatsapp=' + encodeURIComponent(fullNumber)
+          + '&type=Playtest';
+        document.body.appendChild(sheetImg);
+        setTimeout(function(){ sheetImg.remove(); }, 5000);
       } catch(ex) {}
       return false;
     }
