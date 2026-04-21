@@ -670,7 +670,7 @@
 <nav class="eg-nav">
   <a href="#s1" class="eg-nav-logo">EscapeGravity</a>
   <div class="eg-nav-right">
-    <a href="#" class="eg-nav-playtest" onclick="event.preventDefault(); openPlayTest();">Join Play Testing</a>
+    <a href="#" class="eg-nav-playtest" onclick="event.preventDefault(); openPlayTest();">Join Playtesting</a>
     <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
   </div>
 </nav>
@@ -740,7 +740,7 @@
     </div>
     <div class="hero-cta-below">
       <p class="no-pay-tag">No Payment Needed</p>
-      <a href="#" class="hero-playtest-link" onclick="event.preventDefault(); openPlayTest();">Join Play Testing</a>
+      <a href="#" class="hero-playtest-link" onclick="event.preventDefault(); openPlayTest();">Join Playtesting</a>
     </div>
   </div>
 
@@ -1624,7 +1624,7 @@
       var data = new FormData();
       data.append('name', name);
       data.append('whatsapp', fullNumber);
-      data.append('_subject', 'EscapeGravity Play Test Request: ' + name);
+      data.append('_subject', 'EscapeGravity Playtest Request: ' + name);
       data.append('_template', 'table');
       data.append('_captcha', 'false');
       msg.textContent = 'Submitting…';
@@ -1709,18 +1709,24 @@
 </div>
 
 <!-- ═══════════════════ PLAY TESTING MODAL ══════════════ -->
+<!-- Playtest modal — distinct purple-accent design vs the pre-order's lime -->
 <div id="playtest-modal" class="po-modal" onclick="if(event.target===this)closePlayTest()">
-  <div class="po-box">
+  <div class="po-box pt-box">
     <button type="button" class="po-close" onclick="closePlayTest()" aria-label="Close">&times;</button>
-    <div class="po-hero-img">
-      <img src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
+    <div class="pt-icon">
+      <svg viewBox="0 0 64 64" width="56" height="56" fill="none">
+        <circle cx="32" cy="32" r="28" stroke="#9cbc14" stroke-width="2.5" stroke-dasharray="6 4"/>
+        <path d="M22 26 L32 18 L42 26" stroke="#c0e638" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M22 34 L32 26 L42 34" stroke="#9cbc14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/>
+        <circle cx="32" cy="42" r="4" fill="#9cbc14"/>
+      </svg>
     </div>
-    <h3 class="po-title">Join Play Testing</h3>
-    <p class="po-subtitle">Join with your WhatsApp number. We'll ping you to find a weekend and time for a play test session in your locality.</p>
+    <h3 class="po-title pt-title">Join Playtesting</h3>
+    <p class="po-subtitle pt-subtitle">Drop your WhatsApp number. We'll ping you to find a weekend and time for a playtest session in your locality.</p>
     <form class="po-form" onsubmit="return submitPlayTest(event)">
       <label class="po-field">
         <span>Your Name</span>
-        <input type="text" id="pt-name" placeholder="Commander Jane" required maxlength="60">
+        <input type="text" id="pt-name" placeholder="Player One" required maxlength="60">
       </label>
       <label class="po-field">
         <span>WhatsApp Number</span>
@@ -1743,25 +1749,44 @@
               <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
             </linearGradient>
           </defs>
-          <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-          <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-          <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
           <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad-pt)"/>
           <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
           <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight-pt)"/>
           <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-          <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-          <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
         <span class="btn-label">Join Playtest</span>
       </button>
-      <p class="no-pay-tag" style="margin-top:10px;">No Payment Needed</p>
+      <p class="no-pay-tag" style="margin-top:6px;">No Payment Needed</p>
     </form>
   </div>
 </div>
 
 <style>
+/* ── Playtest modal — distinct from Pre-Order ────────────── */
+.pt-box {
+  background:
+    radial-gradient(circle at 25% 15%, rgba(107,33,85,0.25), transparent 55%),
+    radial-gradient(circle at 75% 85%, rgba(156,188,20,0.10), transparent 55%),
+    linear-gradient(180deg, rgba(22,10,45,0.98), rgba(12,5,28,0.98)) !important;
+  border-color: rgba(107,33,85,0.6) !important;
+}
+.pt-icon {
+  text-align: center;
+  margin: -4px 0 10px;
+  animation: pt-icon-spin 6s linear infinite;
+}
+@keyframes pt-icon-spin {
+  0%, 100% { transform: rotate(0deg); }
+  50%      { transform: rotate(8deg); }
+}
+.pt-title {
+  text-shadow: 0 0 20px rgba(107,33,85,0.5) !important;
+}
+.pt-subtitle {
+  color: rgba(255,255,255,0.6) !important;
+}
+
 /* ── Pre-Order Modal ─────────────────────────────────────── */
 .po-modal {
   position: fixed; inset: 0; z-index: 9999;
@@ -1893,10 +1918,19 @@
 .po-msg.success { color: #9cbc14; }
 .po-submit {
   margin: clamp(8px, 1vh, 14px) auto 0;
-  display: block;
+  display: flex;
+  justify-content: center;
 }
 .po-submit .btn-svg { width: clamp(220px, 38vw, 320px); }
 .po-submit .btn-label { font-size: clamp(13px, 1.6vw, 20px); left: 38%; }
+/* No-pay tag inside modals — centered under button text */
+.po-form .no-pay-tag,
+#playtest-modal .no-pay-tag {
+  text-align: center;
+  margin: 6px auto 0;
+  padding-right: 12%;
+  display: block;
+}
 .po-privacy {
   font-family: 'Pompiere', sans-serif;
   font-size: 12px;
@@ -6877,6 +6911,8 @@
 @media (max-width: 600px) {
   .exp-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
   .exp-caption { font-size: 11px; }
+  /* No stagger on mobile — all items appear together */
+  .exp-grid.visible .exp-item { transition-delay: 0ms !important; }
 }
 @media (prefers-reduced-motion: reduce) {
   .exp-item,
@@ -8027,7 +8063,7 @@
 
 <!-- ═══════════════════════════════════════════════ S5: CONTACT ══ -->
 <section id="s7" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">Participate In Play Testing</h2>
+  <h2 class="page-h2 eg-fade-in">Participate In Playtesting</h2>
   <p class="s6-text eg-fade-in">Join with your WhatsApp number. We'll ping you to find a weekend and time for a play test session in your locality.</p>
   <div class="s6-form eg-fade-in" style="justify-content:center;">
     <button type="button" class="dk-btn-host s6-launch" data-dk-size="md" data-dk-btn="Join Playtest" aria-label="Join Playtest" onclick="openPlayTest()"></button>
@@ -8130,7 +8166,7 @@
   }
 
   // CTA selectors — Pre-Order, Sign Up, Count Me In, Notify
-  var CTA_SEL = '.btn-wrap[onclick*="doPreOrder"], .eg-mobile-preorder-btn, .eg-nav-cta, .po-submit';
+  var CTA_SEL = '.btn-wrap[onclick*="doPreOrder"], .eg-mobile-preorder-btn, .eg-nav-cta, .po-submit, [onclick*="openPlayTest"]';
   // All other interactive elements
   var BTN_SEL = 'button, .btn-wrap, .dk-btn-host, .s2-tab, .s2-arrow, .s2-bubble-link, .quiz-start-btn, .quiz-opt, .quiz-next, .quiz-restart, [data-dk-btn]';
 
@@ -8628,7 +8664,7 @@
       el.classList.toggle('visible', past);
       el.setAttribute('aria-hidden', past ? 'false' : 'true');
     }
-    // Show "Join Play Testing" in nav after scrolling past hero (all devices)
+    // Show "Join Playtesting" in nav after scrolling past hero (all devices)
     if (navPt) {
       navPt.classList.toggle('show', past);
     }
