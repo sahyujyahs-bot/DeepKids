@@ -23,6 +23,20 @@
       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window,document,"clarity","script");
   </script>
+  <!-- Meta Pixel (Facebook/Instagram ads + retargeting) -->
+  <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+    (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    // Replace META_PIXEL_ID with your pixel ID from Meta Events Manager.
+    // Until then this is a harmless no-op (fbq exists but no pixel fires).
+    // fbq('init', 'META_PIXEL_ID');
+    // fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=META_PIXEL_ID&ev=PageView&noscript=1"/></noscript>
+  </script>
   <title>EscapeGravity — A Board Game About Gravity, Forces &amp; Physical Challenges | DeepKids</title>
   <!-- Favicons -->
   <link rel="icon" href="/favicon.ico" sizes="any"/>
@@ -103,7 +117,7 @@
   <link rel="preload" as="image" href="Card2Side2.png"/>
   <link rel="preload" as="image" href="Card4Side1.png"/>
   <link rel="preload" as="image" href="Card5Side1.png"/>
-  <link rel="preload" as="image" href="Egocentric with lid coming off.png"/>
+  <link rel="preload" as="image" href="box-lid.webp"/>
   <link rel="preload" as="image" href="board-prototype.webp"/>
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
@@ -1503,6 +1517,9 @@
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
+      // Event: user opened pre-order modal
+      if (typeof gtag === 'function') gtag('event', 'open_preorder', { event_category: 'engagement' });
+      if (typeof fbq === 'function') fbq('track', 'InitiateCheckout');
     }
     function closePreOrderModal() {
       var modal = document.getElementById('preorder-modal');
@@ -1511,6 +1528,8 @@
     function openPlayTest() {
       var modal = document.getElementById('playtest-modal');
       if (modal) modal.classList.add('show');
+      if (typeof gtag === 'function') gtag('event', 'open_playtest', { event_category: 'engagement' });
+      if (typeof fbq === 'function') fbq('track', 'Lead', { content_name: 'playtest_modal' });
     }
     function closePlayTest() {
       var modal = document.getElementById('playtest-modal');
@@ -1575,6 +1594,8 @@
         body: data
       }).then(function(r) { return r.json(); }).then(function(d) {
         msg.textContent = '✓ Thanks! We\'ll WhatsApp you when pre-orders open.';
+        if (typeof gtag === 'function') gtag('event', 'preorder_submit', { event_category: 'conversion' });
+        if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'preorder' });
         msg.className = 'po-msg success';
         form.reset();
         setTimeout(closePreOrderModal, 2800);
@@ -1620,6 +1641,8 @@
         method: 'POST', headers: { 'Accept': 'application/json' }, body: data
       }).then(function(r) { return r.json(); }).then(function() {
         msg.textContent = '✓ Awesome! We\'ll WhatsApp you to schedule a play test.';
+        if (typeof gtag === 'function') gtag('event', 'playtest_submit', { event_category: 'conversion' });
+        if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'playtest' });
         msg.className = 'po-msg success';
         form.reset();
         setTimeout(closePlayTest, 2800);
@@ -2053,7 +2076,7 @@
 
   <div class="s2-pin">
     <div class="s2-pin-item s2-pin-box">
-      <img decoding="async" src="Egocentric with lid coming off.png" alt="The Box">
+      <img decoding="async" src="box-lid.webp" alt="The Box">
       <div class="s2-pin-lbl">Box</div>
     </div>
 
