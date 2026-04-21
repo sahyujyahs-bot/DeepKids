@@ -119,6 +119,7 @@
   <link rel="preload" as="image" href="Card5Side1.png"/>
   <link rel="preload" as="image" href="box-lid.webp"/>
   <link rel="preload" as="image" href="board-prototype.webp"/>
+  <link rel="preload" as="image" href="kit-items.webp"/>
   <link rel="preload" as="script" href="cards.js" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
@@ -976,8 +977,11 @@
             window._heroSpawned = true;
             spawnAll();
           } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
-            // Late arrival: add this card to the existing scene
-            if (typeof window._lateDropCard === 'function') window._lateDropCard(k);
+            // Late arrival: queue for next animation frame to avoid
+            // physics stutter from mid-frame body creation
+            requestAnimationFrame(function() {
+              if (typeof window._lateDropCard === 'function') window._lateDropCard(k);
+            });
           }
         };
         img.onerror = () => { loadedCount++; };
@@ -1024,7 +1028,7 @@
 
           const body = Bodies.rectangle(x, y, dW, dH, {
             isStatic:    true,
-            frictionAir: 0.012 + Math.random() * 0.018,
+            frictionAir: 0.008 + Math.random() * 0.012,
             restitution: 0.30  + Math.random() * 0.30,
             friction:    0.55  + Math.random() * 0.30,
           });
@@ -1068,7 +1072,7 @@
         var y = -dH/2 - 30;
         var body = Bodies.rectangle(x, y, dW, dH, {
           isStatic: false,
-          frictionAir: 0.012 + Math.random() * 0.018,
+          frictionAir: 0.008 + Math.random() * 0.012,
           restitution: 0.30 + Math.random() * 0.30,
           friction: 0.55 + Math.random() * 0.30,
         });
