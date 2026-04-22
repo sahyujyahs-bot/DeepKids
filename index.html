@@ -266,7 +266,7 @@
       .hero-tags { margin-bottom: 2px; }
       .title {
         font-size: clamp(36px, 9vw, 56px) !important;
-        margin-bottom: 4px !important;
+        margin-bottom: 10px !important;
         padding: 4px clamp(10px,2vw,18px) !important;
       }
       .subtitle {
@@ -9052,8 +9052,6 @@
   var sub = document.querySelector('.subtitle');
   if (!sub) return;
 
-  if (window.innerWidth <= 768) sub.style.visibility = 'hidden';
-
   function fitSubtitle() {
     if (window.innerWidth > 768) {
       sub.style.fontSize = '';
@@ -9080,10 +9078,11 @@
     sub.style.visibility = 'visible';
   }
 
-  if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(fitSubtitle);
-  } else {
-    setTimeout(fitSubtitle, 300);
+  // Fit immediately using whatever font is currently rendered (fallback or loaded)
+  fitSubtitle();
+  // Refine when the specific Futura font has loaded
+  if (document.fonts && document.fonts.load) {
+    document.fonts.load('400 18px Futura').then(fitSubtitle).catch(function(){});
   }
   window.addEventListener('resize', fitSubtitle);
 })();
