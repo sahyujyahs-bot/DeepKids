@@ -1600,16 +1600,19 @@
         msg.className = 'po-msg success';
         setTimeout(closePreOrderModal, 2800);
 
-      // Save to Google Sheet via hidden iframe navigation
+      // Save to Google Sheet via Google Forms (hidden form POST)
       try {
-        var gf = document.createElement('iframe');
-        gf.style.cssText = 'position:fixed;width:1px;height:1px;opacity:0;pointer-events:none;';
-        gf.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec'
-          + '?name=' + encodeURIComponent(name)
-          + '&whatsapp=' + encodeURIComponent(fullNumber)
-          + '&type=Pre-Order';
-        document.body.appendChild(gf);
-        setTimeout(function(){ gf.remove(); }, 8000);
+        var gf = document.createElement('form');
+        gf.method = 'POST';
+        gf.action = 'https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse';
+        gf.target = 'eg-gform';
+        gf.style.display = 'none';
+        var fields = {'entry.1636497169': name, 'entry.1301511467': fullNumber, 'entry.1152692251': 'Pre-Order'};
+        for (var k in fields) {
+          var inp = document.createElement('input');
+          inp.name = k; inp.value = fields[k]; gf.appendChild(inp);
+        }
+        document.body.appendChild(gf); gf.submit(); gf.remove();
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1661,16 +1664,19 @@
         setTimeout(closePlayTest, 2800);
       }).finally(function() { if (btn) btn.disabled = false; });
 
-      // Save to Google Sheet via hidden iframe navigation
+      // Save to Google Sheet via Google Forms (hidden form POST)
       try {
-        var gf = document.createElement('iframe');
-        gf.style.cssText = 'position:fixed;width:1px;height:1px;opacity:0;pointer-events:none;';
-        gf.src = 'https://script.google.com/macros/s/AKfycbwkytwlYEXbZDMYBOihp_xO5z9-NqwYS-3ucdypdJpn_eKnKmjadFM7-Id2Nua6MsB4/exec'
-          + '?name=' + encodeURIComponent(name)
-          + '&whatsapp=' + encodeURIComponent(fullNumber)
-          + '&type=Playtest';
-        document.body.appendChild(gf);
-        setTimeout(function(){ gf.remove(); }, 8000);
+        var gf = document.createElement('form');
+        gf.method = 'POST';
+        gf.action = 'https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse';
+        gf.target = 'eg-gform';
+        gf.style.display = 'none';
+        var fields = {'entry.1636497169': name, 'entry.1301511467': fullNumber, 'entry.1152692251': 'Playtest'};
+        for (var k in fields) {
+          var inp = document.createElement('input');
+          inp.name = k; inp.value = fields[k]; gf.appendChild(inp);
+        }
+        document.body.appendChild(gf); gf.submit(); gf.remove();
       } catch(ex) {}
       return false;
     }
@@ -9026,5 +9032,6 @@
 })();
 </script>
 
+<iframe name="eg-gform" style="display:none"></iframe>
 </body>
 </html>
