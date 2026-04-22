@@ -9057,7 +9057,7 @@
   function fitSubtitle() {
     if (window.innerWidth > 768) {
       sub.style.fontSize = '';
-      sub.style.visibility = '';
+      sub.style.visibility = 'visible';
       return;
     }
     var content = sub.parentElement;
@@ -9077,13 +9077,13 @@
       }
     }
     sub.style.fontSize = best + 'px';
-    sub.style.visibility = '';
+    sub.style.visibility = 'visible';
   }
 
   if (document.fonts && document.fonts.ready) {
     document.fonts.ready.then(fitSubtitle);
   } else {
-    setTimeout(fitSubtitle, 200);
+    setTimeout(fitSubtitle, 300);
   }
   window.addEventListener('resize', fitSubtitle);
 })();
