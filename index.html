@@ -251,12 +251,12 @@
       }
       .subtitle {
         margin-bottom: 10px !important;
-        font-size: clamp(9px, 2.4vw, 14px) !important;
-        padding: 3px 8px !important;
+        padding: 3px 10px !important;
         white-space: nowrap !important;
         letter-spacing: 0.5px !important;
+        /* font-size set by JS to fit screen exactly */
       }
-      .sub-dot { margin: 0 3px !important; }
+      .sub-dot { margin: 0 4px !important; }
       .hero-cta-below { margin-top: -4px; }
     }
     #content > * { pointer-events: all; }
@@ -9023,5 +9023,47 @@
 })();
 </script>
 
+<script>
+/* Auto-fit the hero subtitle to screen width on mobile.
+   Measures the rendered text width, adjusts font-size until the
+   text fills the container perfectly (edge-to-edge, single line). */
+(function() {
+  var sub = document.querySelector('.subtitle');
+  if (!sub) return;
+
+  function fitSubtitle() {
+    if (window.innerWidth > 768) {
+      sub.style.fontSize = ''; // reset on desktop — use CSS default
+      return;
+    }
+    var content = sub.parentElement;
+    if (!content) return;
+    var target = content.clientWidth * 0.92; // 92% of #content width
+    if (target < 10) return;
+
+    // Binary search for the largest font-size that fits
+    var lo = 8, hi = 28, best = 10;
+    for (var i = 0; i < 10; i++) {
+      var mid = (lo + hi) / 2;
+      sub.style.fontSize = mid + 'px';
+      if (sub.scrollWidth <= target) {
+        best = mid;
+        lo = mid;
+      } else {
+        hi = mid;
+      }
+    }
+    sub.style.fontSize = best + 'px';
+  }
+
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(fitSubtitle);
+  } else {
+    setTimeout(fitSubtitle, 200);
+  }
+  window.addEventListener('resize', fitSubtitle);
+  fitSubtitle();
+})();
+</script>
 </body>
 </html>
