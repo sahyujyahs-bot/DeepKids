@@ -1604,7 +1604,6 @@
       });
 
       // Save to Google Sheet via Google Forms (runs in parallel, always)
-      console.log('SHEET SUBMIT:', name, fullNumber);
       try {
         fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
           method: 'POST', mode: 'no-cors',
@@ -1660,7 +1659,6 @@
       }).finally(function() { if (btn) btn.disabled = false; });
 
       // Save to Google Sheet via Google Forms (runs in parallel, always)
-      console.log('SHEET SUBMIT:', name, fullNumber);
       try {
         fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
           method: 'POST', mode: 'no-cors',
