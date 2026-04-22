@@ -256,19 +256,21 @@
       pointer-events: none;
     }
     @media (max-width: 768px) {
+      #s1 { height: 100svh; }
       #content {
         height: 43vh;
         justify-content: flex-start;
-        padding-top: clamp(40px, 6vh, 56px);
+        padding-top: clamp(44px, 6.5vh, 58px);
         gap: 0px;
       }
       .hero-tags { margin-bottom: 2px; }
       .title {
-        font-size: clamp(36px, 9vw, 56px);
-        margin-bottom: -2px;
-        padding: 4px clamp(10px,2vw,18px);
+        font-size: clamp(36px, 9vw, 56px) !important;
+        margin-bottom: -2px !important;
+        padding: 4px clamp(10px,2vw,18px) !important;
       }
       .subtitle {
+        visibility: hidden;
         margin-bottom: 6px !important;
         padding: 3px 10px !important;
         white-space: nowrap !important;
@@ -566,7 +568,7 @@
     /* ── Replay button ─────────────────────────────────────────── */
     #replay-btn {
       position: absolute;
-      bottom: 44px;
+      bottom: 22px;
       right: 22px;
       z-index: 20;
       width: 46px;
