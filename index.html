@@ -71,14 +71,12 @@
        Fonts early so the actual fetches later reuse the warm
        connection (saves ~100-300ms on slow networks). -->
   <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin/>
-  <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
   <!-- Preload the custom font so it's ready before first paint,
        eliminating the flash of unstyled text (FOUT). -->
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
-  <!-- Preload Futura (self-hosted) for main body/label text -->
-  <link rel="preload" href="fonts/futura-book.ttf" as="font" type="font/ttf" crossorigin/>
-  <link rel="preload" href="fonts/futura-medium.ttf" as="font" type="font/ttf" crossorigin/>
+  <!-- Preload Futura Condensed (self-hosted) for main body/label text -->
+  <link rel="preload" href="fonts/futura-cond.otf" as="font" type="font/opentype" crossorigin/>
+  <link rel="preload" href="fonts/futura-cond-oblique.otf" as="font" type="font/opentype" crossorigin/>
   <!-- Structured data: helps Google show rich results (product info,
        ratings, breadcrumbs etc.) -->
   <script type="application/ld+json">
@@ -137,36 +135,26 @@
       font-style: normal;
       font-display: block;
     }
-    /* Futura self-hosted — 4 variants */
+    /* Futura Std Condensed — self-hosted */
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-book.ttf') format('truetype');
+      src: url('fonts/futura-cond.otf') format('opentype');
       font-weight: 400; font-style: normal; font-display: block;
     }
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-book-italic.ttf') format('truetype');
-      font-weight: 400; font-style: italic; font-display: block;
+      src: url('fonts/futura-cond-oblique.otf') format('opentype');
+      font-weight: 400; font-style: oblique; font-display: block;
     }
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-medium.ttf') format('truetype');
-      font-weight: 500; font-style: normal; font-display: block;
+      src: url('fonts/futura-cond-light.otf') format('opentype');
+      font-weight: 300; font-style: normal; font-display: block;
     }
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-medium-italic.ttf') format('truetype');
-      font-weight: 500; font-style: italic; font-display: block;
-    }
-    @font-face {
-      font-family: 'Futura';
-      src: url('fonts/futura-bold.ttf') format('truetype');
-      font-weight: 700; font-style: normal; font-display: block;
-    }
-    @font-face {
-      font-family: 'Futura';
-      src: url('fonts/futura-bold-italic.ttf') format('truetype');
-      font-weight: 700; font-style: italic; font-display: block;
+      src: url('fonts/futura-cond-extrabold.otf') format('opentype');
+      font-weight: 800; font-style: normal; font-display: block;
     }
 
     
@@ -269,26 +257,25 @@
     }
     @media (max-width: 768px) {
       #content {
-        height: 52vh;
+        height: 46vh;
         justify-content: flex-start;
-        padding-top: clamp(48px, 7vh, 64px);
-        gap: clamp(2px, 0.6vh, 6px);
+        padding-top: clamp(36px, 5.5vh, 52px);
+        gap: 0px;
       }
-      .hero-tags { margin-bottom: 4px; }
+      .hero-tags { margin-bottom: 2px; }
       .title {
         font-size: clamp(36px, 9vw, 56px);
-        margin-bottom: 4px;
-        padding: 8px clamp(10px,2vw,18px);
+        margin-bottom: 2px;
+        padding: 6px clamp(10px,2vw,18px);
       }
       .subtitle {
-        margin-bottom: 10px !important;
+        margin-bottom: 6px !important;
         padding: 3px 10px !important;
         white-space: nowrap !important;
         letter-spacing: 0.5px !important;
-        /* font-size set by JS to fit screen exactly */
       }
       .sub-dot { margin: 0 4px !important; }
-      .hero-cta-below { margin-top: -4px; }
+      .hero-cta-below { margin-top: -2px; }
     }
     #content > * { pointer-events: all; }
 
@@ -579,7 +566,7 @@
     /* ── Replay button ─────────────────────────────────────────── */
     #replay-btn {
       position: absolute;
-      bottom: 22px;
+      bottom: 36px;
       right: 22px;
       z-index: 20;
       width: 46px;
@@ -2028,15 +2015,16 @@
   }
   .s2-desc {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(16px, 2.2vw, 28px);
-    color: rgba(255,255,255,0.65); line-height: 1.5;
+    font-size: clamp(15px, 1.7vw, 21px);
+    color: rgba(255,255,255,0.65); line-height: 1.55;
     margin: 0 0 clamp(20px, 3vh, 40px);
     padding: 0 clamp(12px, 4vw, 40px);
   }
   .s2-desc em { font-style: normal; color: #9cbc14; }
   .s2-desc-big {
     display: block;
-    font-size: clamp(19px, 2.8vw, 34px);
+    font-size: clamp(17px, 2vw, 24px);
+    font-style: oblique;
     margin: clamp(4px, 0.8vh, 10px) 0;
     color: rgba(255,255,255,0.8);
   }
@@ -2142,7 +2130,7 @@
     .s2-pin-chall { width: clamp(200px, 58vw, 260px); }
     .s2-pin-chall .s2-flip-card { height: clamp(280px, 75vw, 370px); }
     .s2-pin-small { width: clamp(120px, 36vw, 160px); }
-    .s2-desc-big { font-size: clamp(18px, 5vw, 26px); line-height: 1.35; }
+    .s2-desc-big { font-size: clamp(17px, 4.4vw, 23px); line-height: 1.35; }
   }
 </style>
 
@@ -2151,7 +2139,7 @@
   <p class="page-subh eg-fade-in">Mission: Reach The International Space Station</p>
   <p class="s2-desc eg-fade-in s2-d1">
     Start on <em>Earth's Surface</em> and race toward the <em>ISS</em>.<br>
-    <span class="s2-desc-big" style="font-style:italic;">The board is <em>Gravity's agent</em> — pulling you down into the core to consume you.</span>
+    <span class="s2-desc-big">The board is <em>Gravity's agent</em> — pulling you down into the core to consume you.</span>
     Fight back using <em>Force Cards</em>, earned by completing <em>Physical Challenges</em>.
   </p>
 
@@ -9062,17 +9050,19 @@
   var sub = document.querySelector('.subtitle');
   if (!sub) return;
 
+  if (window.innerWidth <= 768) sub.style.visibility = 'hidden';
+
   function fitSubtitle() {
     if (window.innerWidth > 768) {
-      sub.style.fontSize = ''; // reset on desktop — use CSS default
+      sub.style.fontSize = '';
+      sub.style.visibility = '';
       return;
     }
     var content = sub.parentElement;
     if (!content) return;
-    var target = content.clientWidth * 0.92; // 92% of #content width
+    var target = content.clientWidth * 0.92;
     if (target < 10) return;
 
-    // Binary search for the largest font-size that fits
     var lo = 8, hi = 28, best = 10;
     for (var i = 0; i < 10; i++) {
       var mid = (lo + hi) / 2;
@@ -9085,6 +9075,7 @@
       }
     }
     sub.style.fontSize = best + 'px';
+    sub.style.visibility = '';
   }
 
   if (document.fonts && document.fonts.ready) {
@@ -9093,7 +9084,6 @@
     setTimeout(fitSubtitle, 200);
   }
   window.addEventListener('resize', fitSubtitle);
-  fitSubtitle();
 })();
 
 
