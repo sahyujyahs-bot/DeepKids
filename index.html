@@ -2111,7 +2111,7 @@
     .s2-pin-chall { width: clamp(200px, 58vw, 260px); }
     .s2-pin-chall .s2-flip-card { height: clamp(280px, 75vw, 370px); }
     .s2-pin-small { width: clamp(120px, 36vw, 160px); }
-    .s2-desc-big { font-size: clamp(14px, 3.5vw, 20px); }
+    .s2-desc-big { font-size: clamp(18px, 5vw, 26px); line-height: 1.35; }
   }
 </style>
 
@@ -5988,6 +5988,8 @@
     width: 100%;
     max-width: 560px;
   }
+  /* Shrink image width on mobile to give bracket labels more room */
+  .s4b-challenge-img { width: 72% !important; }
   .s4b-bottom {
     flex-direction: column-reverse;
     max-width: 100%;
@@ -9063,6 +9065,42 @@
   }
   window.addEventListener('resize', fitSubtitle);
   fitSubtitle();
+})();
+
+/* Reposition s4b bracket labels on mobile so text fits.
+   Brackets + text are at x=85-89 by default; on mobile the image
+   shrinks to 72% width so we shift the brackets to align. */
+(function() {
+  var svgs = document.querySelectorAll('.s4b-arrows');
+  if (!svgs.length) return;
+
+  function adjust() {
+    var mobile = window.innerWidth <= 900;
+    svgs.forEach(function(svg) {
+      var lines = svg.querySelectorAll('line');
+      var texts = svg.querySelectorAll('text');
+      lines.forEach(function(l) {
+        var x1 = parseFloat(l.dataset.x1 || l.getAttribute('x1'));
+        var x2 = parseFloat(l.dataset.x2 || l.getAttribute('x2'));
+        if (!l.dataset.x1) { l.dataset.x1 = x1; l.dataset.x2 = x2; }
+        if (mobile) {
+          // Shift lines left by 13 units (85→72, 87→74)
+          l.setAttribute('x1', x1 - 13);
+          l.setAttribute('x2', x2 - 13);
+        } else {
+          l.setAttribute('x1', x1);
+          l.setAttribute('x2', x2);
+        }
+      });
+      texts.forEach(function(t) {
+        var x = parseFloat(t.dataset.x || t.getAttribute('x'));
+        if (!t.dataset.x) t.dataset.x = x;
+        t.setAttribute('x', mobile ? x - 13 : x);
+      });
+    });
+  }
+  adjust();
+  window.addEventListener('resize', adjust);
 })();
 </script>
 </body>
