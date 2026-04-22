@@ -1612,7 +1612,7 @@
           var inp = document.createElement('input');
           inp.name = k; inp.value = fields[k]; gf.appendChild(inp);
         }
-        document.body.appendChild(gf); gf.submit(); gf.remove();
+        document.body.appendChild(gf); gf.submit(); setTimeout(function(){ gf.remove(); }, 5000);
       } catch(ex) {}
       }).finally(function() {
         if (submitBtn) submitBtn.disabled = false;
@@ -1676,7 +1676,7 @@
           var inp = document.createElement('input');
           inp.name = k; inp.value = fields[k]; gf.appendChild(inp);
         }
-        document.body.appendChild(gf); gf.submit(); gf.remove();
+        document.body.appendChild(gf); gf.submit(); setTimeout(function(){ gf.remove(); }, 5000);
       } catch(ex) {}
       return false;
     }
