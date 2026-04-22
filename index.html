@@ -1590,7 +1590,7 @@
         body: data
       }).then(function(r) { return r.json(); }).then(function(d) {
         msg.textContent = '✓ Thanks! We\'ll WhatsApp you when pre-orders open.';
-        if (typeof gtag === 'function') gtag('event', 'preorder_submit', { event_category: 'conversion' });
+        if (typeof gtag === 'function') gtag('event', 'preorder_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
         if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'preorder' });
         msg.className = 'po-msg success';
         form.reset();
@@ -1647,7 +1647,7 @@
         method: 'POST', headers: { 'Accept': 'application/json' }, body: data
       }).then(function(r) { return r.json(); }).then(function() {
         msg.textContent = '✓ Awesome! We\'ll WhatsApp you to schedule a play test.';
-        if (typeof gtag === 'function') gtag('event', 'playtest_submit', { event_category: 'conversion' });
+        if (typeof gtag === 'function') gtag('event', 'playtest_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
         if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'playtest' });
         msg.className = 'po-msg success';
         form.reset();
