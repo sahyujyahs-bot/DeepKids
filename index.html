@@ -2201,13 +2201,6 @@
     scroll-snap-align: center;
     border-radius: 16px;
     overflow: hidden;
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
-  }
-  .ps-card.eg-visible {
-    opacity: 1;
-    transform: translateY(0);
   }
   .ps-img-wrap {
     position: relative;
@@ -2218,111 +2211,107 @@
     display: block;
     border-radius: 16px;
   }
-  .ps-clouds {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 50%;
-    padding: clamp(10px, 1.5vw, 16px);
-    display: flex;
-    flex-direction: column;
-    gap: clamp(6px, 1vh, 10px);
-  }
   .ps-cloud {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(11px, 1.3vw, 15px);
+    font-size: clamp(10px, 1.2vw, 14px);
     line-height: 1.4;
-    padding: clamp(8px, 1.2vw, 12px) clamp(12px, 1.5vw, 18px);
-    border-radius: 16px;
-    max-width: 78%;
-    position: relative;
+    padding: clamp(7px, 1vw, 11px) clamp(10px, 1.3vw, 16px);
+    border-radius: 14px;
+    position: absolute;
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
+    opacity: 0;
+    transform: scale(0.8);
+    transition: opacity 0.5s ease, transform 0.5s ease;
   }
-  .ps-cloud::after { display: none; }
+  .ps-card.eg-visible .ps-cloud { opacity: 1; transform: scale(1); }
+  .ps-card.eg-visible .ps-cloud-d1 { transition-delay: 0.3s; }
+  .ps-card.eg-visible .ps-cloud-d2 { transition-delay: 1s; }
   .ps-cloud-adult {
-    background: rgba(0,0,0,0.55);
+    background: rgba(0,0,0,0.6);
     border: 1px solid rgba(255,255,255,0.2);
     color: rgba(255,255,255,0.9);
-    align-self: flex-end;
-  }
-  .ps-cloud-adult::after {
-    right: 20px;
-    border-top-color: rgba(0,0,0,0.55);
   }
   .ps-cloud-kid {
-    background: rgba(20,40,5,0.65);
+    background: rgba(20,40,5,0.7);
     border: 1px solid rgba(156,188,20,0.35);
     color: #b8d940;
-    align-self: flex-start;
-  }
-  .ps-cloud-kid::after {
-    left: 20px;
-    border-top-color: rgba(20,40,5,0.65);
   }
   .ps-cloud em {
     font-style: normal;
     color: #fff;
     font-weight: 500;
   }
-  .ps-cloud-reaction {
-    background: rgba(0,0,0,0.4);
-    border: 1px solid rgba(255,255,255,0.1);
-    color: rgba(255,255,255,0.6);
-    font-style: italic;
-    align-self: flex-end;
-    max-width: 55%;
+
+  /* Card 1: Bathtime — kid bubble top-left */
+  .ps-card-bath .ps-cloud-kid {
+    top: 6%;
+    left: 4%;
+    max-width: 48%;
   }
-  .ps-cloud-reaction::after {
-    right: 20px;
-    border-top-color: rgba(0,0,0,0.4);
+
+  /* Card 2: Dinner — dad top-right, kid mid-left */
+  .ps-card-dinner .ps-cloud-adult {
+    top: 4%;
+    right: 3%;
+    max-width: 46%;
   }
+  .ps-card-dinner .ps-cloud-kid {
+    top: 32%;
+    left: 3%;
+    max-width: 50%;
+  }
+
+  /* Card 3: School — teacher top-right pushed right, kid mid-left */
+  .ps-card-school .ps-cloud-adult {
+    top: 4%;
+    right: 2%;
+    max-width: 40%;
+  }
+  .ps-card-school .ps-cloud-kid {
+    top: 35%;
+    left: 3%;
+    max-width: 46%;
+  }
+
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
-    .ps-cloud { font-size: clamp(11px, 3.2vw, 14px); max-width: 85%; }
-    .ps-cloud-reaction { max-width: 65%; }
+    .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
   }
 </style>
 
 <section id="s-parents" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">What You'll See In Your Kids</h2>
+  <h2 class="page-h2 eg-fade-in">What You'll See In Your DeepKids</h2>
   <p class="parents-intro eg-fade-in">After a few games, something shifts. Science stops being a subject and becomes a lens they see the world through.</p>
 
   <div class="parents-stories">
 
-    <div class="ps-card eg-fade-in">
+    <div class="ps-card ps-card-bath eg-fade-in">
       <div class="ps-img-wrap">
         <img class="ps-img" src="IMG_5314.png" alt="Kid pointing at water spiraling down bathtub drain" decoding="async">
-        <div class="ps-clouds">
-          <div class="ps-cloud ps-cloud-kid">Amma look! The water is spiraling down the drain, just like the board! Is <em>gravity</em> pulling it into the core?</div>
-          <div class="ps-cloud ps-cloud-reaction">...</div>
-        </div>
+        <div class="ps-cloud ps-cloud-kid ps-cloud-d1">Amma look! The water is spiraling down the drain, just like the board! Is <em>gravity</em> pulling it into the core?</div>
       </div>
     </div>
 
-    <div class="ps-card eg-fade-in">
+    <div class="ps-card ps-card-dinner eg-fade-in">
       <div class="ps-img-wrap">
         <img class="ps-img" src="Untitled design.png" alt="Family at dinner table discussing feathers and gravity" decoding="async">
-        <div class="ps-clouds">
-          <div class="ps-cloud ps-cloud-adult">A feather falls slower because it has less gravity acting on it, right?</div>
-          <div class="ps-cloud ps-cloud-kid">Actually Appa, gravity pulls <em>everything</em> the same. The feather falls slower because of <em>air resistance</em>.</div>
-        </div>
+        <div class="ps-cloud ps-cloud-adult ps-cloud-d1">A feather falls slower because it has less gravity acting on it, right?</div>
+        <div class="ps-cloud ps-cloud-kid ps-cloud-d2">Actually Appa, gravity pulls <em>everything</em> the same. The feather falls slower because of <em>air resistance</em>.</div>
       </div>
     </div>
 
-    <div class="ps-card eg-fade-in">
+    <div class="ps-card ps-card-school eg-fade-in">
       <div class="ps-img-wrap">
         <img class="ps-img" src="IMG_5313.png" alt="Kid raising hand in classroom correcting teacher about gravity" decoding="async">
-        <div class="ps-clouds">
-          <div class="ps-cloud ps-cloud-adult">Gravity is the force that keeps us on the ground.</div>
-          <div class="ps-cloud ps-cloud-kid">Miss, isn't gravity actually trying to pull us <em>into the core</em>? It's the <em>ground</em> that saves us from falling in!</div>
-          <div class="ps-cloud ps-cloud-reaction">...well, yes, that's technically correct.</div>
-        </div>
+        <div class="ps-cloud ps-cloud-adult ps-cloud-d1">Gravity is the force that keeps us on the ground.</div>
+        <div class="ps-cloud ps-cloud-kid ps-cloud-d2">Miss, isn't gravity actually trying to pull us <em>into the core</em>? It's the <em>ground</em> that saves us from falling in!</div>
       </div>
     </div>
 
   </div>
 </section>
+
 
 <section id="s2">
   <h2 class="page-h2 eg-fade-in">The Board Game</h2>
