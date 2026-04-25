@@ -2192,6 +2192,7 @@
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
+    justify-content: center;
   }
   .parents-stories::-webkit-scrollbar { display: none; }
   .ps-card {
@@ -2219,13 +2220,15 @@
   }
   .ps-clouds {
     position: absolute;
-    top: 0;
+    bottom: 0;
     left: 0;
     right: 0;
     padding: clamp(12px, 2vw, 20px);
     display: flex;
     flex-direction: column;
     gap: clamp(6px, 1vh, 10px);
+    background: linear-gradient(to top, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.25) 60%, transparent 100%);
+    border-radius: 0 0 16px 16px;
   }
   .ps-cloud {
     font-family: 'Futura', sans-serif;
@@ -2238,14 +2241,7 @@
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
   }
-  .ps-cloud::after {
-    content: '';
-    position: absolute;
-    width: 0;
-    height: 0;
-    border: 6px solid transparent;
-    bottom: -11px;
-  }
+  .ps-cloud::after { display: none; }
   .ps-cloud-adult {
     background: rgba(0,0,0,0.55);
     border: 1px solid rgba(255,255,255,0.2);
