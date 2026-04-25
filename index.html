@@ -2169,6 +2169,152 @@
   }
 </style>
 
+<!-- ═══════════════════════════════════════════════ S-PARENTS ══ -->
+<style>
+  #s-parents {
+    padding: clamp(50px,7vh,90px) clamp(16px,4vw,40px);
+    text-align: center;
+  }
+  .parents-intro {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(15px, 1.7vw, 21px);
+    color: rgba(255,255,255,0.72);
+    line-height: 1.55;
+    max-width: 700px;
+    margin: 0 auto clamp(36px, 5vh, 56px);
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .parents-stories {
+    display: flex;
+    flex-direction: column;
+    gap: clamp(48px, 7vh, 80px);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .ps-card {
+    position: relative;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .ps-card.eg-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .ps-img {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 16px;
+    filter: drop-shadow(0 8px 24px rgba(0,0,0,0.4));
+  }
+  .ps-clouds {
+    position: relative;
+    margin-top: clamp(-30px, -4vw, -20px);
+    padding: 0 clamp(8px, 2vw, 24px);
+    display: flex;
+    flex-direction: column;
+    gap: clamp(8px, 1.2vh, 14px);
+  }
+  .ps-cloud {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(13px, 1.5vw, 18px);
+    line-height: 1.45;
+    padding: clamp(10px, 1.5vw, 16px) clamp(16px, 2vw, 24px);
+    border-radius: 20px;
+    max-width: 75%;
+    position: relative;
+    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.3));
+  }
+  .ps-cloud::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 8px solid transparent;
+  }
+  .ps-cloud-adult {
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.85);
+    align-self: flex-end;
+  }
+  .ps-cloud-adult::after {
+    top: -14px;
+    right: 24px;
+    border-bottom-color: rgba(255,255,255,0.1);
+  }
+  .ps-cloud-kid {
+    background: rgba(156,188,20,0.12);
+    border: 1px solid rgba(156,188,20,0.25);
+    color: #9cbc14;
+    align-self: flex-start;
+  }
+  .ps-cloud-kid::after {
+    top: -14px;
+    left: 24px;
+    border-bottom-color: rgba(156,188,20,0.12);
+  }
+  .ps-cloud em {
+    font-style: normal;
+    color: #fff;
+    font-weight: 500;
+  }
+  .ps-cloud-reaction {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    color: rgba(255,255,255,0.5);
+    font-style: italic;
+    align-self: flex-end;
+    max-width: 50%;
+  }
+  .ps-cloud-reaction::after {
+    top: -14px;
+    right: 24px;
+    border-bottom-color: rgba(255,255,255,0.06);
+  }
+  @media (max-width: 768px) {
+    .ps-cloud { max-width: 88%; font-size: clamp(12px, 3.5vw, 16px); }
+    .ps-cloud-reaction { max-width: 60%; }
+    .ps-clouds { margin-top: clamp(-20px, -3vw, -12px); }
+  }
+</style>
+
+<section id="s-parents" class="eg-section">
+  <h2 class="page-h2 eg-fade-in">What You'll See In Your Kids</h2>
+  <p class="parents-intro eg-fade-in">After a few games, something shifts. Science stops being a subject and becomes a lens they see the world through.</p>
+
+  <div class="parents-stories">
+
+    <div class="ps-card eg-fade-in">
+      <img class="ps-img" src="IMG_5314.png" alt="Kid pointing at water spiraling down bathtub drain" decoding="async">
+      <div class="ps-clouds">
+        <div class="ps-cloud ps-cloud-kid">Amma look! The water is spiraling down the drain, just like the board! Is <em>gravity</em> pulling it into the core?</div>
+        <div class="ps-cloud ps-cloud-reaction">...</div>
+      </div>
+    </div>
+
+    <div class="ps-card eg-fade-in">
+      <img class="ps-img" src="Untitled design.png" alt="Family at dinner table discussing feathers and gravity" decoding="async">
+      <div class="ps-clouds">
+        <div class="ps-cloud ps-cloud-adult">A feather falls slower because it has less gravity acting on it, right?</div>
+        <div class="ps-cloud ps-cloud-kid">Actually Appa, gravity pulls <em>everything</em> the same. The feather falls slower because of <em>air resistance</em>.</div>
+      </div>
+    </div>
+
+    <div class="ps-card eg-fade-in">
+      <img class="ps-img" src="IMG_5313.png" alt="Kid raising hand in classroom correcting teacher about gravity" decoding="async">
+      <div class="ps-clouds">
+        <div class="ps-cloud ps-cloud-adult">Gravity is the force that keeps us on the ground.</div>
+        <div class="ps-cloud ps-cloud-kid">Miss, isn't gravity actually trying to pull us <em>into the core</em>? It's the <em>ground</em> that saves us from falling in!</div>
+        <div class="ps-cloud ps-cloud-reaction">...well, yes, that's technically correct.</div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
 <section id="s2">
   <h2 class="page-h2 eg-fade-in">The Board Game</h2>
   <p class="page-subh eg-fade-in">Mission: Reach The International Space Station</p>
@@ -7052,175 +7198,6 @@
 <style>
 /* (stylesheet continuation — sentinel so the next <style> tag closes cleanly) */
 </style>
-
-<!-- ═══════════════════════════════════════════════ S-PARENTS ══ -->
-<style>
-  #s-parents {
-    padding: clamp(50px,7vh,90px) clamp(16px,4vw,40px);
-    text-align: center;
-  }
-  .parents-intro {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(15px, 1.7vw, 21px);
-    color: rgba(255,255,255,0.72);
-    line-height: 1.55;
-    max-width: 700px;
-    margin: 0 auto clamp(32px, 5vh, 50px);
-    padding: 0 clamp(16px,4vw,40px);
-  }
-  .parents-stories {
-    display: flex;
-    flex-direction: column;
-    gap: clamp(28px, 4vh, 44px);
-    max-width: 680px;
-    margin: 0 auto;
-  }
-  .ps-card {
-    background: rgba(10,6,24,0.6);
-    border: 1px solid rgba(156,188,20,0.15);
-    border-radius: 16px;
-    padding: clamp(20px,3vw,32px);
-    text-align: left;
-    opacity: 0;
-    transform: translateY(30px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
-  }
-  .ps-card.eg-visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-  .ps-scene {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(11px, 1.2vw, 14px);
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: rgba(156,188,20,0.7);
-    margin-bottom: clamp(12px, 1.5vh, 18px);
-  }
-  .ps-dialogue {
-    display: flex;
-    flex-direction: column;
-    gap: clamp(10px, 1.5vh, 16px);
-  }
-  .ps-line {
-    display: flex;
-    align-items: flex-start;
-    gap: clamp(10px, 1.2vw, 16px);
-  }
-  .ps-line-right {
-    flex-direction: row-reverse;
-    text-align: right;
-  }
-  .ps-avatar {
-    flex-shrink: 0;
-    width: clamp(32px, 4vw, 42px);
-    height: clamp(32px, 4vw, 42px);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: clamp(16px, 2vw, 22px);
-    line-height: 1;
-  }
-  .ps-avatar-parent {
-    background: rgba(107,33,85,0.4);
-    border: 1px solid rgba(107,33,85,0.5);
-  }
-  .ps-avatar-kid {
-    background: rgba(156,188,20,0.2);
-    border: 1px solid rgba(156,188,20,0.4);
-  }
-  .ps-avatar-teacher {
-    background: rgba(80,120,200,0.25);
-    border: 1px solid rgba(80,120,200,0.4);
-  }
-  .ps-bubble {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(14px, 1.6vw, 19px);
-    line-height: 1.5;
-    color: rgba(255,255,255,0.8);
-    background: rgba(255,255,255,0.04);
-    border-radius: 12px;
-    padding: clamp(10px, 1.5vw, 16px) clamp(14px, 2vw, 20px);
-    max-width: 85%;
-  }
-  .ps-bubble-kid {
-    color: #9cbc14;
-    background: rgba(156,188,20,0.06);
-  }
-  .ps-bubble em {
-    font-style: normal;
-    color: #fff;
-    font-weight: 500;
-  }
-  .ps-emoji {
-    display: block;
-    text-align: center;
-    font-size: clamp(20px, 2.5vw, 28px);
-    margin-top: clamp(6px, 1vh, 12px);
-  }
-  @media (max-width: 768px) {
-    .ps-bubble { max-width: 78%; }
-  }
-</style>
-
-<section id="s-parents" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">What You'll See In Your Kids</h2>
-  <p class="parents-intro eg-fade-in">After a few games, something shifts. Science stops being a subject and becomes a lens they see the world through.</p>
-
-  <div class="parents-stories">
-
-    <div class="ps-card eg-fade-in">
-      <div class="ps-scene">At bathtime</div>
-      <div class="ps-dialogue">
-        <div class="ps-line">
-          <div class="ps-avatar ps-avatar-kid">🧒</div>
-          <div class="ps-bubble ps-bubble-kid">Amma look! The water is spiraling down the drain, just like the board! Is <em>gravity</em> pulling it into the core?</div>
-        </div>
-        <div class="ps-line ps-line-right">
-          <div class="ps-avatar ps-avatar-parent">👩</div>
-          <div class="ps-bubble">...</div>
-        </div>
-      </div>
-      <span class="ps-emoji">🌀</span>
-    </div>
-
-    <div class="ps-card eg-fade-in">
-      <div class="ps-scene">At dinner</div>
-      <div class="ps-dialogue">
-        <div class="ps-line ps-line-right">
-          <div class="ps-avatar ps-avatar-parent">👨</div>
-          <div class="ps-bubble">A feather falls slower because it has less gravity acting on it, right?</div>
-        </div>
-        <div class="ps-line">
-          <div class="ps-avatar ps-avatar-kid">👧</div>
-          <div class="ps-bubble ps-bubble-kid">Actually Appa, gravity pulls <em>everything</em> the same. The feather falls slower because of <em>air resistance</em>.</div>
-        </div>
-      </div>
-      <span class="ps-emoji">🪶</span>
-    </div>
-
-    <div class="ps-card eg-fade-in">
-      <div class="ps-scene">At school</div>
-      <div class="ps-dialogue">
-        <div class="ps-line ps-line-right">
-          <div class="ps-avatar ps-avatar-teacher">👩‍🏫</div>
-          <div class="ps-bubble">Gravity is the force that keeps us on the ground.</div>
-        </div>
-        <div class="ps-line">
-          <div class="ps-avatar ps-avatar-kid">🙋‍♀️</div>
-          <div class="ps-bubble ps-bubble-kid">Miss, isn't gravity actually trying to pull us <em>into the core</em>? It's the <em>ground</em> that saves us from falling in!</div>
-        </div>
-        <div class="ps-line ps-line-right">
-          <div class="ps-avatar ps-avatar-teacher">👩‍🏫</div>
-          <div class="ps-bubble">...well, yes, that's technically correct.</div>
-        </div>
-      </div>
-      <span class="ps-emoji">🎓</span>
-    </div>
-
-  </div>
-</section>
 
 <!-- ═══════════════════════════════════════════════ S-GAME: MINI GAME ══ -->
 <section id="s-game" class="eg-section">
