@@ -2253,17 +2253,18 @@
     max-width: 48%;
   }
 
-  /* Card 2: Dinner — dad top-right, kid top-left */
+  /* Card 2: Dinner — dad mid-right near his head, kid bottom-left near hers */
   .ps-card-dinner .ps-cloud-adult {
-    top: 1%;
-    right: 3%;
+    top: 18%;
+    right: 2%;
     left: auto;
-    max-width: 46%;
+    max-width: 42%;
   }
   .ps-card-dinner .ps-cloud-kid {
-    top: 16%;
-    left: 3%;
-    max-width: 50%;
+    bottom: 8%;
+    top: auto;
+    left: 2%;
+    max-width: 48%;
   }
 
   /* Card 3: School — teacher top-right, kid top-left */
@@ -2282,7 +2283,7 @@
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
-    .ps-card-dinner .ps-cloud-kid { top: 12%; }
+    .ps-card-dinner .ps-cloud-kid { bottom: 4%; top: auto; }
     .ps-card-school .ps-cloud-kid { top: 10%; }
   }
 </style>
@@ -2319,92 +2320,116 @@
   </div>
 
   <style>
+    .ps-reasons-title {
+      font-family: 'Norwester', sans-serif;
+      font-variant: small-caps;
+      font-size: clamp(18px, 3vw, 32px);
+      color: #fff;
+      text-shadow: 0 0 16px rgba(156,188,20,0.3);
+      margin: clamp(40px, 6vh, 64px) 0 clamp(20px, 3vh, 32px);
+      text-align: center;
+    }
     .ps-reasons {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(clamp(140px, 30vw, 240px), 1fr));
-      gap: clamp(14px, 2vw, 24px);
-      max-width: 900px;
-      margin: clamp(36px, 5vh, 56px) auto 0;
-      padding: 0 clamp(16px, 4vw, 40px);
-    }
-    .ps-reason {
       display: flex;
-      align-items: flex-start;
-      gap: clamp(8px, 1vw, 12px);
-      text-align: left;
-      padding: clamp(10px, 1.5vw, 16px);
-      background: rgba(10,6,24,0.5);
-      border: 1px solid rgba(156,188,20,0.1);
-      border-radius: 12px;
-      opacity: 0;
-      transform: translateY(16px);
-      transition: opacity 0.4s ease, transform 0.4s ease;
+      overflow-x: auto;
+      gap: clamp(14px, 2vw, 22px);
+      padding: 0 clamp(16px, 4vw, 48px) 16px;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
-    .ps-reason.visible {
-      opacity: 1;
-      transform: translateY(0);
+    .ps-reasons::-webkit-scrollbar { display: none; }
+    .ps-reason {
+      flex: 0 0 clamp(150px, 28vw, 200px);
+      text-align: center;
+      padding: clamp(16px, 2vw, 24px) clamp(12px, 1.5vw, 18px);
+      border-radius: 16px;
+      background: linear-gradient(160deg, rgba(156,188,20,0.08) 0%, rgba(10,6,24,0.6) 100%);
+      border: 1px solid rgba(156,188,20,0.12);
+      transition: transform 0.3s ease, border-color 0.3s ease;
+    }
+    .ps-reason:hover {
+      transform: translateY(-4px);
+      border-color: rgba(156,188,20,0.35);
     }
     .ps-reason-icon {
-      font-size: clamp(18px, 2.2vw, 26px);
-      line-height: 1;
-      flex-shrink: 0;
-      margin-top: 2px;
+      width: clamp(44px, 6vw, 56px);
+      height: clamp(44px, 6vw, 56px);
+      margin: 0 auto clamp(8px, 1.2vh, 14px);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: clamp(20px, 2.8vw, 28px);
+      background: rgba(156,188,20,0.12);
+      border: 1.5px solid rgba(156,188,20,0.25);
     }
-    .ps-reason-text {
+    .ps-reason-title {
       font-family: 'Futura', sans-serif;
-      font-size: clamp(12px, 1.3vw, 15px);
-      line-height: 1.45;
-      color: rgba(255,255,255,0.78);
-    }
-    .ps-reason-text strong {
-      color: #9cbc14;
+      font-size: clamp(12px, 1.4vw, 16px);
       font-weight: 500;
-      display: block;
-      margin-bottom: 2px;
-      font-size: clamp(13px, 1.4vw, 16px);
+      color: #9cbc14;
+      margin-bottom: clamp(4px, 0.6vh, 8px);
+      line-height: 1.3;
+    }
+    .ps-reason-desc {
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(10px, 1.1vw, 13px);
+      line-height: 1.4;
+      color: rgba(255,255,255,0.6);
     }
   </style>
 
+  <div class="ps-reasons-title eg-fade-in">Why Parents Love It</div>
   <div class="ps-reasons">
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">🔄</span>
-      <div class="ps-reason-text"><strong>Endlessly Replayable</strong>Different cards, different challenges, different outcomes every single time.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 4V2M12 22v-2M4 12H2M22 12h-2M6.34 6.34L4.93 4.93M19.07 4.93l-1.41 1.41M6.34 17.66l-1.41 1.41M19.07 19.07l-1.41-1.41" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="4" stroke="#9cbc14" stroke-width="2"/></svg></div>
+      <div class="ps-reason-title">Endlessly Replayable</div>
+      <div class="ps-reason-desc">Different cards, different challenges, different outcomes every time</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">🏃</span>
-      <div class="ps-reason-text"><strong>Gets Them Moving</strong>35+ physical challenges — balancing, tossing, blowing, jumping. Science through the body.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M13 4l-1 3-3 1 3 1 1 3 1-3 3-1-3-1-1-3zM6 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#9cbc14"/><path d="M18 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#9cbc14" opacity=".6"/></svg></div>
+      <div class="ps-reason-title">Gets Them Moving</div>
+      <div class="ps-reason-desc">35+ physical challenges — balance, toss, blow, jump. Science through the body</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">📵</span>
-      <div class="ps-reason-text"><strong>Zero Screens</strong>A fully hands-on, tactile experience. No apps, no batteries, no screen time.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><rect x="5" y="3" width="14" height="18" rx="2" stroke="#9cbc14" stroke-width="2"/><line x1="9" y1="13" x2="15" y2="7" stroke="#9cbc14" stroke-width="2.5" stroke-linecap="round"/><line x1="9" y1="7" x2="15" y2="13" stroke="#9cbc14" stroke-width="2.5" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-title">Zero Screens</div>
+      <div class="ps-reason-desc">Fully hands-on. No apps, no batteries, no screen time</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">🔬</span>
-      <div class="ps-reason-text"><strong>Deeply Researched Science</strong>13 real forces, 54 science-accurate tiles. Teaches gravity better than most school curriculums.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="10" r="6" stroke="#9cbc14" stroke-width="2"/><path d="M12 16v4M9 22h6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><path d="M12 7v3l2 1" stroke="#9cbc14" stroke-width="1.5" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-title">Deeply Researched</div>
+      <div class="ps-reason-desc">13 real forces, 54 accurate tiles. Teaches gravity better than most textbooks</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">🎯</span>
-      <div class="ps-reason-text"><strong>Right Level Of Challenge</strong>Easy to learn, hard to master. Grows with your child from age 7 to teen.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 3l2.5 5 5.5.8-4 3.9.9 5.5L12 15.8l-4.9 2.4.9-5.5-4-3.9 5.5-.8L12 3z" stroke="#9cbc14" stroke-width="2" stroke-linejoin="round"/></svg></div>
+      <div class="ps-reason-title">Right Level Of Challenge</div>
+      <div class="ps-reason-desc">Easy to learn, hard to master. Grows with your child from 7 to teen</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">🎨</span>
-      <div class="ps-reason-text"><strong>Rich Hand-Drawn Art</strong>Every card, tile, and token is original artwork — not clip art, not AI generated.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 20L8 4M12 20c0-8 8-8 8-16" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="6" cy="12" r="2" fill="#9cbc14" opacity=".4"/><circle cx="16" cy="10" r="1.5" fill="#9cbc14" opacity=".6"/></svg></div>
+      <div class="ps-reason-title">Hand-Drawn Art</div>
+      <div class="ps-reason-desc">Every card and tile is original artwork — no clip art, no AI</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">🧩</span>
-      <div class="ps-reason-text"><strong>Not Another Kit</strong>Kits get done once and shelved. This is a game your family will pull out again and again.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 6h16M4 6l4 12h8l4-12" stroke="#9cbc14" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="14" r="2" fill="#9cbc14"/></svg></div>
+      <div class="ps-reason-title">Not Another Kit</div>
+      <div class="ps-reason-desc">Kits get done once and shelved. This game comes out again and again</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">✏️</span>
-      <div class="ps-reason-text"><strong>Every Detail Is Intentional</strong>Board shape, tile placement, card mechanics — every aspect designed with learning in mind.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="#9cbc14" stroke-width="2"/><path d="M12 3c0 5-4 9-9 9M12 3c0 5 4 9 9 9M12 21c0-5-4-9-9-9M12 21c0-5 4-9 9-9" stroke="#9cbc14" stroke-width="1.2" opacity=".5"/></svg></div>
+      <div class="ps-reason-title">Thoughtfully Designed</div>
+      <div class="ps-reason-desc">Board shape, tile positions, card mechanics — every detail serves the learning</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">👨‍👩‍👧</span>
-      <div class="ps-reason-text"><strong>Fun For The Whole Family</strong>Parents don't just watch — they play, learn, and get corrected by their own kids.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M17 21v-2a4 4 0 00-4-4H5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="9" cy="7" r="4" stroke="#9cbc14" stroke-width="2"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-title">Family Bonding</div>
+      <div class="ps-reason-desc">Parents play, learn, and get cheerfully corrected by their own kids</div>
     </div>
-    <div class="ps-reason eg-fade-in">
-      <span class="ps-reason-icon">💡</span>
-      <div class="ps-reason-text"><strong>Sparks Curiosity Beyond The Board</strong>Open-ended questions baked into every tile. Kids don't stop thinking when the game ends.</div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><path d="M22 2l-7 7M22 2h-5M22 2v5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+      <div class="ps-reason-title">Sparks Curiosity</div>
+      <div class="ps-reason-desc">Open-ended questions on every tile. Thinking doesn't stop when the game ends</div>
     </div>
   </div>
 
