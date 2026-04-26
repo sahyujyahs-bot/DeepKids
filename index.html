@@ -300,7 +300,7 @@
       .hero-tags { margin-bottom: 2px; }
       .title {
         font-size: clamp(36px, 9vw, 56px) !important;
-        margin-bottom: 10px !important;
+        margin-bottom: 6px !important;
         padding: 4px clamp(10px,2vw,18px) !important;
       }
       .subtitle {
@@ -2193,7 +2193,9 @@
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
-    justify-content: center;
+  }
+  @media (min-width: 769px) {
+    .parents-stories { justify-content: center; }
   }
   .parents-stories::-webkit-scrollbar { display: none; }
   .ps-card {
@@ -2246,31 +2248,31 @@
 
   /* Card 1: Bathtime — kid bubble top-left */
   .ps-card-bath .ps-cloud-kid {
-    top: 6%;
+    top: 4%;
     left: 4%;
     max-width: 48%;
   }
 
-  /* Card 2: Dinner — dad top-right, kid mid-left */
+  /* Card 2: Dinner — dad top-left, kid below */
   .ps-card-dinner .ps-cloud-adult {
-    top: 4%;
-    right: 3%;
+    top: 3%;
+    left: 3%;
     max-width: 46%;
   }
   .ps-card-dinner .ps-cloud-kid {
-    top: 32%;
+    top: 24%;
     left: 3%;
     max-width: 50%;
   }
 
-  /* Card 3: School — teacher top-right pushed right, kid mid-left */
+  /* Card 3: School — teacher top-left, kid below */
   .ps-card-school .ps-cloud-adult {
-    top: 4%;
-    right: 2%;
-    max-width: 40%;
+    top: 3%;
+    left: 3%;
+    max-width: 42%;
   }
   .ps-card-school .ps-cloud-kid {
-    top: 35%;
+    top: 22%;
     left: 3%;
     max-width: 46%;
   }
@@ -2278,6 +2280,11 @@
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
+    .ps-card-bath .ps-cloud-kid { top: 2%; }
+    .ps-card-dinner .ps-cloud-adult { top: 1%; }
+    .ps-card-dinner .ps-cloud-kid { top: 18%; }
+    .ps-card-school .ps-cloud-adult { top: 1%; }
+    .ps-card-school .ps-cloud-kid { top: 16%; }
   }
 </style>
 
@@ -2298,7 +2305,7 @@
       <div class="ps-img-wrap">
         <img class="ps-img" src="Untitled design.png" alt="Family at dinner table discussing feathers and gravity" decoding="async">
         <div class="ps-cloud ps-cloud-adult ps-cloud-d1">A feather falls slower because it has less gravity acting on it, right?</div>
-        <div class="ps-cloud ps-cloud-kid ps-cloud-d2">Actually Appa, gravity pulls <em>everything</em> the same. The feather falls slower because of <em>air resistance</em>.</div>
+        <div class="ps-cloud ps-cloud-kid ps-cloud-d2">Actually Dad, gravity pulls <em>everything</em> the same. The feather falls slower because of <em>air resistance</em>.</div>
       </div>
     </div>
 
