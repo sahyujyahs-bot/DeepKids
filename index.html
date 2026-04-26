@@ -2261,7 +2261,7 @@
     max-width: 46%;
   }
   .ps-card-dinner .ps-cloud-kid {
-    top: 22%;
+    top: 16%;
     left: 3%;
     max-width: 50%;
   }
@@ -2274,7 +2274,7 @@
     max-width: 42%;
   }
   .ps-card-school .ps-cloud-kid {
-    top: 20%;
+    top: 14%;
     left: 3%;
     max-width: 46%;
   }
@@ -2282,14 +2282,14 @@
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
-    .ps-card-dinner .ps-cloud-kid { top: 16%; }
-    .ps-card-school .ps-cloud-kid { top: 14%; }
+    .ps-card-dinner .ps-cloud-kid { top: 12%; }
+    .ps-card-school .ps-cloud-kid { top: 10%; }
   }
 </style>
 
 <section id="s-parents" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Kids Become <em style="color:#9cbc14;font-style:normal;">DeepKids</em></h2>
-  <p class="parents-intro eg-fade-in">After a few games, something shifts. Science stops being a subject and becomes a lens they see the world through.</p>
+  <p class="parents-intro eg-fade-in">Dear parents — your child won't just play a board game. They'll start correcting you at dinner, questioning teachers at school, and spotting science in places you never thought to look.</p>
 
   <div class="parents-stories">
 
@@ -2317,6 +2317,97 @@
     </div>
 
   </div>
+
+  <style>
+    .ps-reasons {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(clamp(140px, 30vw, 240px), 1fr));
+      gap: clamp(14px, 2vw, 24px);
+      max-width: 900px;
+      margin: clamp(36px, 5vh, 56px) auto 0;
+      padding: 0 clamp(16px, 4vw, 40px);
+    }
+    .ps-reason {
+      display: flex;
+      align-items: flex-start;
+      gap: clamp(8px, 1vw, 12px);
+      text-align: left;
+      padding: clamp(10px, 1.5vw, 16px);
+      background: rgba(10,6,24,0.5);
+      border: 1px solid rgba(156,188,20,0.1);
+      border-radius: 12px;
+      opacity: 0;
+      transform: translateY(16px);
+      transition: opacity 0.4s ease, transform 0.4s ease;
+    }
+    .ps-reason.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .ps-reason-icon {
+      font-size: clamp(18px, 2.2vw, 26px);
+      line-height: 1;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .ps-reason-text {
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(12px, 1.3vw, 15px);
+      line-height: 1.45;
+      color: rgba(255,255,255,0.78);
+    }
+    .ps-reason-text strong {
+      color: #9cbc14;
+      font-weight: 500;
+      display: block;
+      margin-bottom: 2px;
+      font-size: clamp(13px, 1.4vw, 16px);
+    }
+  </style>
+
+  <div class="ps-reasons">
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">🔄</span>
+      <div class="ps-reason-text"><strong>Endlessly Replayable</strong>Different cards, different challenges, different outcomes every single time.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">🏃</span>
+      <div class="ps-reason-text"><strong>Gets Them Moving</strong>35+ physical challenges — balancing, tossing, blowing, jumping. Science through the body.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">📵</span>
+      <div class="ps-reason-text"><strong>Zero Screens</strong>A fully hands-on, tactile experience. No apps, no batteries, no screen time.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">🔬</span>
+      <div class="ps-reason-text"><strong>Deeply Researched Science</strong>13 real forces, 54 science-accurate tiles. Teaches gravity better than most school curriculums.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">🎯</span>
+      <div class="ps-reason-text"><strong>Right Level Of Challenge</strong>Easy to learn, hard to master. Grows with your child from age 7 to teen.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">🎨</span>
+      <div class="ps-reason-text"><strong>Rich Hand-Drawn Art</strong>Every card, tile, and token is original artwork — not clip art, not AI generated.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">🧩</span>
+      <div class="ps-reason-text"><strong>Not Another Kit</strong>Kits get done once and shelved. This is a game your family will pull out again and again.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">✏️</span>
+      <div class="ps-reason-text"><strong>Every Detail Is Intentional</strong>Board shape, tile placement, card mechanics — every aspect designed with learning in mind.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">👨‍👩‍👧</span>
+      <div class="ps-reason-text"><strong>Fun For The Whole Family</strong>Parents don't just watch — they play, learn, and get corrected by their own kids.</div>
+    </div>
+    <div class="ps-reason eg-fade-in">
+      <span class="ps-reason-icon">💡</span>
+      <div class="ps-reason-text"><strong>Sparks Curiosity Beyond The Board</strong>Open-ended questions baked into every tile. Kids don't stop thinking when the game ends.</div>
+    </div>
+  </div>
+
 </section>
 
 
