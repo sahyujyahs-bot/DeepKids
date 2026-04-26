@@ -2320,64 +2320,114 @@
   </div>
 
   <style>
-    .ps-reasons {
-      display: flex;
-      overflow-x: auto;
-      gap: clamp(12px, 1.8vw, 18px);
-      padding: clamp(36px, 5vh, 56px) clamp(16px, 4vw, 48px) 16px;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
-    }
-    .ps-reasons::-webkit-scrollbar { display: none; }
-    .ps-reason {
-      flex: 0 0 clamp(110px, 18vw, 150px);
-      text-align: center;
-      padding: clamp(14px, 2vw, 22px) clamp(8px, 1vw, 14px) clamp(12px, 1.5vw, 18px);
-      border-radius: 20px;
-      position: relative;
-      overflow: hidden;
-      cursor: default;
-      transition: transform 0.3s ease;
-    }
-    .ps-reason:hover { transform: translateY(-3px) scale(1.03); }
-    .ps-reason:nth-child(odd) {
-      background: linear-gradient(170deg, rgba(156,188,20,0.15) 0%, rgba(156,188,20,0.03) 100%);
-      border: 1px solid rgba(156,188,20,0.2);
-    }
-    .ps-reason:nth-child(even) {
-      background: linear-gradient(170deg, rgba(107,33,85,0.2) 0%, rgba(107,33,85,0.05) 100%);
-      border: 1px solid rgba(107,33,85,0.25);
-    }
-    .ps-reason-glyph {
-      font-size: clamp(32px, 5vw, 48px);
-      line-height: 1;
-      margin-bottom: clamp(6px, 1vh, 10px);
-      filter: drop-shadow(0 2px 6px rgba(156,188,20,0.3));
-    }
-    .ps-reason-title {
+    .ps-whylove {
       font-family: 'Norwester', sans-serif;
       font-variant: small-caps;
-      font-size: clamp(11px, 1.3vw, 15px);
+      font-size: clamp(20px, 3.5vw, 36px);
       color: #fff;
-      line-height: 1.2;
-      letter-spacing: 0.5px;
+      text-align: center;
+      margin: clamp(40px, 6vh, 64px) 0 clamp(24px, 3vh, 36px);
+      text-shadow: 0 0 20px rgba(156,188,20,0.3);
     }
-    @media (max-width: 768px) {
-      .ps-reason { flex: 0 0 clamp(100px, 26vw, 130px); }
+    .ps-reasons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: clamp(10px, 1.5vw, 16px);
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 0 clamp(12px, 3vw, 32px);
+    }
+    .ps-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: clamp(6px, 0.8vw, 10px);
+      padding: clamp(8px, 1.2vw, 13px) clamp(14px, 2vw, 22px);
+      border-radius: 100px;
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(12px, 1.3vw, 16px);
+      color: rgba(255,255,255,0.9);
+      cursor: default;
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+      position: relative;
+    }
+    .ps-chip:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+    }
+    .ps-chip-green {
+      background: linear-gradient(135deg, rgba(156,188,20,0.2) 0%, rgba(156,188,20,0.06) 100%);
+      border: 1px solid rgba(156,188,20,0.3);
+    }
+    .ps-chip-purple {
+      background: linear-gradient(135deg, rgba(107,33,85,0.25) 0%, rgba(107,33,85,0.08) 100%);
+      border: 1px solid rgba(107,33,85,0.3);
+    }
+    .ps-chip-icon {
+      font-size: clamp(16px, 2vw, 22px);
+      line-height: 1;
+    }
+    .ps-chip-label {
+      font-weight: 500;
+    }
+    .ps-chip-label em {
+      font-style: normal;
+      color: #9cbc14;
+    }
+    .ps-expanded {
+      max-width: 780px;
+      margin: clamp(28px, 4vh, 44px) auto 0;
+      padding: 0 clamp(16px, 4vw, 40px);
+      display: flex;
+      flex-direction: column;
+      gap: clamp(6px, 1vh, 10px);
+    }
+    .ps-exp-item {
+      display: flex;
+      align-items: baseline;
+      gap: clamp(8px, 1vw, 12px);
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(13px, 1.4vw, 17px);
+      color: rgba(255,255,255,0.65);
+      line-height: 1.5;
+    }
+    .ps-exp-item::before {
+      content: '→';
+      color: #9cbc14;
+      font-weight: bold;
+      flex-shrink: 0;
+    }
+    .ps-exp-item em {
+      font-style: normal;
+      color: rgba(255,255,255,0.9);
     }
   </style>
 
-  <div class="ps-reasons">
-    <div class="ps-reason"><div class="ps-reason-glyph">♻️</div><div class="ps-reason-title">Endlessly Replayable</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">🤸</div><div class="ps-reason-title">Gets Them Moving</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">🚫📱</div><div class="ps-reason-title">Zero Screens</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">🧬</div><div class="ps-reason-title">Real Science</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">📈</div><div class="ps-reason-title">Grows With Them</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">🎨</div><div class="ps-reason-title">Hand-Drawn Art</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">🔁</div><div class="ps-reason-title">Not A One-Time Kit</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">⚙️</div><div class="ps-reason-title">Every Detail Matters</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">👨‍👩‍👧‍👦</div><div class="ps-reason-title">Family Bonding</div></div>
-    <div class="ps-reason"><div class="ps-reason-glyph">💡</div><div class="ps-reason-title">Sparks Curiosity</div></div>
+  <div class="ps-whylove eg-fade-in">Why Parents Love It</div>
+  <div class="ps-reasons eg-fade-in">
+    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">🔄</span><span class="ps-chip-label"><em>Endlessly</em> Replayable</span></div>
+    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">🤸</span><span class="ps-chip-label">Gets Them <em>Moving</em></span></div>
+    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">📵</span><span class="ps-chip-label"><em>Zero</em> Screens</span></div>
+    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">🔬</span><span class="ps-chip-label"><em>Real</em> Science</span></div>
+    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">📈</span><span class="ps-chip-label">Grows <em>With</em> Them</span></div>
+    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">🎨</span><span class="ps-chip-label"><em>Hand-Drawn</em> Art</span></div>
+    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">♾️</span><span class="ps-chip-label">Not A <em>One-Time</em> Kit</span></div>
+    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">⚙️</span><span class="ps-chip-label"><em>Every</em> Detail Matters</span></div>
+    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">👨‍👩‍👧</span><span class="ps-chip-label"><em>Family</em> Bonding</span></div>
+    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">💡</span><span class="ps-chip-label">Sparks <em>Curiosity</em></span></div>
+  </div>
+
+  <div class="ps-expanded eg-fade-in">
+    <div class="ps-exp-item">Different cards, different challenges, <em>different outcomes every time</em></div>
+    <div class="ps-exp-item"><em>35+ physical challenges</em> — balancing, tossing, blowing, jumping. Science through the body</div>
+    <div class="ps-exp-item">No apps, no batteries. <em>A fully hands-on experience</em></div>
+    <div class="ps-exp-item">13 real forces, 54 science-accurate tiles. <em>Teaches gravity better than most textbooks</em></div>
+    <div class="ps-exp-item">Easy to learn, hard to master. <em>Grows with your child</em> from age 7 to teen</div>
+    <div class="ps-exp-item">Every card, tile, and token is <em>original hand-drawn artwork</em></div>
+    <div class="ps-exp-item">Kits get done once and shelved. <em>This game comes out again and again</em></div>
+    <div class="ps-exp-item">Board shape, tile placement, card mechanics — <em>every aspect designed for learning</em></div>
+    <div class="ps-exp-item">Parents don't just watch — they <em>play, learn, and get corrected</em> by their own kids</div>
+    <div class="ps-exp-item">Open-ended questions on every tile. <em>Thinking doesn't stop</em> when the game ends</div>
   </div>
 
 </section>
