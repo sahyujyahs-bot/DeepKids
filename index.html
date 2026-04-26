@@ -2248,31 +2248,33 @@
 
   /* Card 1: Bathtime — kid bubble top-left */
   .ps-card-bath .ps-cloud-kid {
-    top: 4%;
+    top: 2%;
     left: 4%;
     max-width: 48%;
   }
 
-  /* Card 2: Dinner — dad top-left, kid below */
+  /* Card 2: Dinner — dad top-right, kid top-left */
   .ps-card-dinner .ps-cloud-adult {
-    top: 3%;
-    left: 3%;
+    top: 1%;
+    right: 3%;
+    left: auto;
     max-width: 46%;
   }
   .ps-card-dinner .ps-cloud-kid {
-    top: 24%;
+    top: 22%;
     left: 3%;
     max-width: 50%;
   }
 
-  /* Card 3: School — teacher top-left, kid below */
+  /* Card 3: School — teacher top-right, kid top-left */
   .ps-card-school .ps-cloud-adult {
-    top: 3%;
-    left: 3%;
+    top: 1%;
+    right: 2%;
+    left: auto;
     max-width: 42%;
   }
   .ps-card-school .ps-cloud-kid {
-    top: 22%;
+    top: 20%;
     left: 3%;
     max-width: 46%;
   }
@@ -2280,11 +2282,8 @@
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
-    .ps-card-bath .ps-cloud-kid { top: 2%; }
-    .ps-card-dinner .ps-cloud-adult { top: 1%; }
-    .ps-card-dinner .ps-cloud-kid { top: 18%; }
-    .ps-card-school .ps-cloud-adult { top: 1%; }
-    .ps-card-school .ps-cloud-kid { top: 16%; }
+    .ps-card-dinner .ps-cloud-kid { top: 16%; }
+    .ps-card-school .ps-cloud-kid { top: 14%; }
   }
 </style>
 
