@@ -2326,108 +2326,62 @@
       font-size: clamp(20px, 3.5vw, 36px);
       color: #fff;
       text-align: center;
-      margin: clamp(40px, 6vh, 64px) 0 clamp(24px, 3vh, 36px);
+      margin: clamp(44px, 6vh, 64px) 0 clamp(28px, 4vh, 40px);
       text-shadow: 0 0 20px rgba(156,188,20,0.3);
     }
     .ps-reasons {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: clamp(10px, 1.5vw, 16px);
-      max-width: 860px;
+      max-width: 520px;
       margin: 0 auto;
-      padding: 0 clamp(12px, 3vw, 32px);
-    }
-    .ps-chip {
-      display: inline-flex;
-      align-items: center;
-      gap: clamp(6px, 0.8vw, 10px);
-      padding: clamp(8px, 1.2vw, 13px) clamp(14px, 2vw, 22px);
-      border-radius: 100px;
-      font-family: 'Futura', sans-serif;
-      font-size: clamp(12px, 1.3vw, 16px);
-      color: rgba(255,255,255,0.9);
-      cursor: default;
-      transition: transform 0.25s ease, box-shadow 0.25s ease;
-      position: relative;
-    }
-    .ps-chip:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(0,0,0,0.3);
-    }
-    .ps-chip-green {
-      background: linear-gradient(135deg, rgba(156,188,20,0.2) 0%, rgba(156,188,20,0.06) 100%);
-      border: 1px solid rgba(156,188,20,0.3);
-    }
-    .ps-chip-purple {
-      background: linear-gradient(135deg, rgba(107,33,85,0.25) 0%, rgba(107,33,85,0.08) 100%);
-      border: 1px solid rgba(107,33,85,0.3);
-    }
-    .ps-chip-icon {
-      font-size: clamp(16px, 2vw, 22px);
-      line-height: 1;
-    }
-    .ps-chip-label {
-      font-weight: 500;
-    }
-    .ps-chip-label em {
-      font-style: normal;
-      color: #9cbc14;
-    }
-    .ps-expanded {
-      max-width: 780px;
-      margin: clamp(28px, 4vh, 44px) auto 0;
-      padding: 0 clamp(16px, 4vw, 40px);
+      padding: 0 clamp(20px, 4vw, 40px);
       display: flex;
       flex-direction: column;
-      gap: clamp(6px, 1vh, 10px);
+      gap: 0;
     }
-    .ps-exp-item {
+    .ps-row {
       display: flex;
-      align-items: baseline;
-      gap: clamp(8px, 1vw, 12px);
-      font-family: 'Futura', sans-serif;
-      font-size: clamp(13px, 1.4vw, 17px);
-      color: rgba(255,255,255,0.65);
-      line-height: 1.5;
+      align-items: flex-start;
+      gap: clamp(12px, 2vw, 18px);
+      padding: clamp(14px, 2vh, 20px) 0;
+      border-bottom: 1px solid rgba(156,188,20,0.08);
     }
-    .ps-exp-item::before {
-      content: '→';
-      color: #9cbc14;
-      font-weight: bold;
+    .ps-row:last-child { border-bottom: none; }
+    .ps-dot {
+      width: clamp(8px, 1.2vw, 10px);
+      height: clamp(8px, 1.2vw, 10px);
+      border-radius: 50%;
+      background: #9cbc14;
       flex-shrink: 0;
+      margin-top: clamp(5px, 0.7vw, 7px);
+      box-shadow: 0 0 8px rgba(156,188,20,0.4);
     }
-    .ps-exp-item em {
+    .ps-row-text {
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(14px, 1.6vw, 19px);
+      line-height: 1.5;
+      color: rgba(255,255,255,0.7);
+    }
+    .ps-row-text strong {
+      color: #fff;
+      font-weight: 500;
+    }
+    .ps-row-text em {
       font-style: normal;
-      color: rgba(255,255,255,0.9);
+      color: #9cbc14;
     }
   </style>
 
   <div class="ps-whylove eg-fade-in">Why Parents Love It</div>
   <div class="ps-reasons eg-fade-in">
-    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">🔄</span><span class="ps-chip-label"><em>Endlessly</em> Replayable</span></div>
-    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">🤸</span><span class="ps-chip-label">Gets Them <em>Moving</em></span></div>
-    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">📵</span><span class="ps-chip-label"><em>Zero</em> Screens</span></div>
-    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">🔬</span><span class="ps-chip-label"><em>Real</em> Science</span></div>
-    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">📈</span><span class="ps-chip-label">Grows <em>With</em> Them</span></div>
-    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">🎨</span><span class="ps-chip-label"><em>Hand-Drawn</em> Art</span></div>
-    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">♾️</span><span class="ps-chip-label">Not A <em>One-Time</em> Kit</span></div>
-    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">⚙️</span><span class="ps-chip-label"><em>Every</em> Detail Matters</span></div>
-    <div class="ps-chip ps-chip-green"><span class="ps-chip-icon">👨‍👩‍👧</span><span class="ps-chip-label"><em>Family</em> Bonding</span></div>
-    <div class="ps-chip ps-chip-purple"><span class="ps-chip-icon">💡</span><span class="ps-chip-label">Sparks <em>Curiosity</em></span></div>
-  </div>
-
-  <div class="ps-expanded eg-fade-in">
-    <div class="ps-exp-item">Different cards, different challenges, <em>different outcomes every time</em></div>
-    <div class="ps-exp-item"><em>35+ physical challenges</em> — balancing, tossing, blowing, jumping. Science through the body</div>
-    <div class="ps-exp-item">No apps, no batteries. <em>A fully hands-on experience</em></div>
-    <div class="ps-exp-item">13 real forces, 54 science-accurate tiles. <em>Teaches gravity better than most textbooks</em></div>
-    <div class="ps-exp-item">Easy to learn, hard to master. <em>Grows with your child</em> from age 7 to teen</div>
-    <div class="ps-exp-item">Every card, tile, and token is <em>original hand-drawn artwork</em></div>
-    <div class="ps-exp-item">Kits get done once and shelved. <em>This game comes out again and again</em></div>
-    <div class="ps-exp-item">Board shape, tile placement, card mechanics — <em>every aspect designed for learning</em></div>
-    <div class="ps-exp-item">Parents don't just watch — they <em>play, learn, and get corrected</em> by their own kids</div>
-    <div class="ps-exp-item">Open-ended questions on every tile. <em>Thinking doesn't stop</em> when the game ends</div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Endlessly replayable</em> — different cards, challenges, and outcomes every time</div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Gets them off the couch</em> — 35+ physical challenges. Balancing, tossing, jumping. <strong>Science through the body</strong></div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Zero screens.</em> No apps, no batteries. Fully hands-on</div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Deeply researched</em> — 13 real forces, 54 accurate tiles. <strong>Teaches gravity better than most textbooks</strong></div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Grows with your child</em> — easy to learn, hard to master. Ages 7 to teen</div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Every card and tile is <em>original hand-drawn artwork</em></div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Not another kit</em> that gets done once and shelved. <strong>This game comes out again and again</strong></div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Board shape, tile placement, card mechanics — <em>every detail designed for learning</em></div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Parents don't just watch — they <em>play, learn, and get corrected</em> by their own kids</div></div>
+    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Open-ended questions on every tile. <strong>Thinking doesn't stop when the game ends</strong></div></div>
   </div>
 
 </section>
