@@ -2330,58 +2330,109 @@
       text-shadow: 0 0 20px rgba(156,188,20,0.3);
     }
     .ps-reasons {
-      max-width: 520px;
-      margin: 0 auto;
-      padding: 0 clamp(20px, 4vw, 40px);
       display: flex;
-      flex-direction: column;
-      gap: 0;
+      overflow-x: auto;
+      gap: clamp(14px, 2vw, 22px);
+      padding: 0 clamp(16px, 4vw, 48px) 16px;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
-    .ps-row {
-      display: flex;
-      align-items: flex-start;
-      gap: clamp(12px, 2vw, 18px);
-      padding: clamp(14px, 2vh, 20px) 0;
-      border-bottom: 1px solid rgba(156,188,20,0.08);
+    .ps-reasons::-webkit-scrollbar { display: none; }
+    .ps-reason {
+      flex: 0 0 clamp(200px, 32vw, 260px);
+      text-align: center;
+      padding: clamp(20px, 2.5vw, 28px) clamp(14px, 1.8vw, 20px);
+      border-radius: 16px;
+      background: rgba(10,6,24,0.6);
+      border: 1px solid rgba(156,188,20,0.12);
+      transition: transform 0.3s ease, border-color 0.3s ease;
     }
-    .ps-row:last-child { border-bottom: none; }
-    .ps-dot {
-      width: clamp(8px, 1.2vw, 10px);
-      height: clamp(8px, 1.2vw, 10px);
+    .ps-reason:hover {
+      transform: translateY(-4px);
+      border-color: rgba(156,188,20,0.35);
+    }
+    .ps-reason-icon {
+      width: clamp(48px, 6vw, 60px);
+      height: clamp(48px, 6vw, 60px);
+      margin: 0 auto clamp(10px, 1.4vh, 16px);
       border-radius: 50%;
-      background: #9cbc14;
-      flex-shrink: 0;
-      margin-top: clamp(5px, 0.7vw, 7px);
-      box-shadow: 0 0 8px rgba(156,188,20,0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: clamp(22px, 3vw, 30px);
+      background: rgba(156,188,20,0.1);
+      border: 1.5px solid rgba(156,188,20,0.2);
     }
-    .ps-row-text {
-      font-family: 'Futura', sans-serif;
-      font-size: clamp(14px, 1.6vw, 19px);
-      line-height: 1.5;
-      color: rgba(255,255,255,0.7);
-    }
-    .ps-row-text strong {
-      color: #fff;
-      font-weight: 500;
-    }
-    .ps-row-text em {
-      font-style: normal;
+    .ps-reason-title {
+      font-family: 'Norwester', sans-serif;
+      font-variant: small-caps;
+      font-size: clamp(14px, 1.6vw, 18px);
       color: #9cbc14;
+      margin-bottom: clamp(6px, 0.8vh, 10px);
+    }
+    .ps-reason-desc {
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(11px, 1.2vw, 14px);
+      line-height: 1.45;
+      color: rgba(255,255,255,0.6);
+    }
+    @media (max-width: 768px) {
+      .ps-reason { flex: 0 0 clamp(180px, 55vw, 240px); }
     }
   </style>
 
   <div class="ps-whylove eg-fade-in">Why Parents Love It</div>
-  <div class="ps-reasons eg-fade-in">
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Endlessly replayable</em> — different cards, challenges, and outcomes every time</div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Gets them off the couch</em> — 35+ physical challenges. Balancing, tossing, jumping. <strong>Science through the body</strong></div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Zero screens.</em> No apps, no batteries. Fully hands-on</div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Deeply researched</em> — 13 real forces, 54 accurate tiles. <strong>Teaches gravity better than most textbooks</strong></div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Grows with your child</em> — easy to learn, hard to master. Ages 7 to teen</div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Every card and tile is <em>original hand-drawn artwork</em></div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text"><em>Not another kit</em> that gets done once and shelved. <strong>This game comes out again and again</strong></div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Board shape, tile placement, card mechanics — <em>every detail designed for learning</em></div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Parents don't just watch — they <em>play, learn, and get corrected</em> by their own kids</div></div>
-    <div class="ps-row"><div class="ps-dot"></div><div class="ps-row-text">Open-ended questions on every tile. <strong>Thinking doesn't stop when the game ends</strong></div></div>
+  <div class="ps-reasons">
+    <div class="ps-reason">
+      <div class="ps-reason-icon">🔄</div>
+      <div class="ps-reason-title">Endlessly Replayable</div>
+      <div class="ps-reason-desc">Different cards, different challenges, different outcomes every time</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">🤸</div>
+      <div class="ps-reason-title">Gets Them Moving</div>
+      <div class="ps-reason-desc">35+ physical challenges — balance, toss, blow, jump. Science through the body</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">📵</div>
+      <div class="ps-reason-title">Zero Screens</div>
+      <div class="ps-reason-desc">No apps, no batteries. A fully hands-on experience</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">🔬</div>
+      <div class="ps-reason-title">Real Science</div>
+      <div class="ps-reason-desc">13 real forces, 54 accurate tiles. Teaches gravity better than most textbooks</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">📈</div>
+      <div class="ps-reason-title">Grows With Them</div>
+      <div class="ps-reason-desc">Easy to learn, hard to master. Grows with your child from 7 to teen</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">🎨</div>
+      <div class="ps-reason-title">Hand-Drawn Art</div>
+      <div class="ps-reason-desc">Every card and tile is original artwork — not clip art, not AI</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">♾️</div>
+      <div class="ps-reason-title">Not A One-Time Kit</div>
+      <div class="ps-reason-desc">Kits get done once and shelved. This game comes out again and again</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">⚙️</div>
+      <div class="ps-reason-title">Every Detail Matters</div>
+      <div class="ps-reason-desc">Board shape, tile placement, card mechanics — every aspect designed for learning</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">👨‍👩‍👧</div>
+      <div class="ps-reason-title">Family Bonding</div>
+      <div class="ps-reason-desc">Parents play, learn, and get cheerfully corrected by their own kids</div>
+    </div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon">💡</div>
+      <div class="ps-reason-title">Sparks Curiosity</div>
+      <div class="ps-reason-desc">Open-ended questions on every tile. Thinking doesn't stop when the game ends</div>
+    </div>
   </div>
 
 </section>
