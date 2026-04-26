@@ -2319,196 +2319,120 @@
 
   </div>
 
+
   <style>
-    .ps-whylove {
+    .ps-reasons-title {
       font-family: 'Norwester', sans-serif;
       font-variant: small-caps;
-      font-size: clamp(20px, 3.5vw, 36px);
+      font-size: clamp(18px, 3vw, 32px);
       color: #fff;
+      text-shadow: 0 0 16px rgba(156,188,20,0.3);
+      margin: clamp(40px, 6vh, 64px) 0 clamp(20px, 3vh, 32px);
       text-align: center;
-      margin: clamp(44px, 6vh, 64px) 0 clamp(28px, 4vh, 40px);
-      text-shadow: 0 0 20px rgba(156,188,20,0.3);
     }
-    .ps-accordion {
+    .ps-reasons {
       display: flex;
-      height: clamp(320px, 45vw, 420px);
-      gap: 4px;
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 clamp(12px, 3vw, 32px);
+      overflow-x: auto;
+      gap: clamp(14px, 2vw, 22px);
+      padding: 0 clamp(16px, 4vw, 48px) 16px;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
-    .ps-acc-item {
-      flex: 1;
-      min-width: 0;
-      border-radius: 14px;
-      overflow: hidden;
-      position: relative;
-      cursor: pointer;
-      transition: flex 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    .ps-reasons::-webkit-scrollbar { display: none; }
+    .ps-reason {
+      flex: 0 0 clamp(150px, 28vw, 200px);
+      text-align: center;
+      padding: clamp(16px, 2vw, 24px) clamp(12px, 1.5vw, 18px);
+      border-radius: 16px;
+      background: linear-gradient(160deg, rgba(156,188,20,0.08) 0%, rgba(10,6,24,0.6) 100%);
+      border: 1px solid rgba(156,188,20,0.12);
+      transition: transform 0.3s ease, border-color 0.3s ease;
     }
-    .ps-accordion:hover .ps-acc-item { flex: 0.6; }
-    .ps-accordion:hover .ps-acc-item:hover { flex: 6; }
-    .ps-acc-bg {
-      position: absolute;
-      inset: 0;
-      opacity: 0.85;
+    .ps-reason:hover {
+      transform: translateY(-4px);
+      border-color: rgba(156,188,20,0.35);
     }
-    .ps-acc-item:nth-child(1) .ps-acc-bg { background: linear-gradient(170deg, #1a3a0a 0%, #0a1808 100%); }
-    .ps-acc-item:nth-child(2) .ps-acc-bg { background: linear-gradient(170deg, #2a1038 0%, #120620 100%); }
-    .ps-acc-item:nth-child(3) .ps-acc-bg { background: linear-gradient(170deg, #0a2818 0%, #061210 100%); }
-    .ps-acc-item:nth-child(4) .ps-acc-bg { background: linear-gradient(170deg, #1a0830 0%, #0e0418 100%); }
-    .ps-acc-item:nth-child(5) .ps-acc-bg { background: linear-gradient(170deg, #1e3008 0%, #101a04 100%); }
-    .ps-acc-item:nth-child(6) .ps-acc-bg { background: linear-gradient(170deg, #280a28 0%, #140614 100%); }
-    .ps-acc-item:nth-child(7) .ps-acc-bg { background: linear-gradient(170deg, #0a2a12 0%, #06140a 100%); }
-    .ps-acc-item:nth-child(8) .ps-acc-bg { background: linear-gradient(170deg, #1a1040 0%, #0c0820 100%); }
-    .ps-acc-item:nth-child(9) .ps-acc-bg { background: linear-gradient(170deg, #1c2e0a 0%, #0e1806 100%); }
-    .ps-acc-item:nth-child(10) .ps-acc-bg { background: linear-gradient(170deg, #221030 0%, #120818 100%); }
-    .ps-acc-collapsed {
-      position: absolute;
-      inset: 0;
+    .ps-reason-icon {
+      width: clamp(44px, 6vw, 56px);
+      height: clamp(44px, 6vw, 56px);
+      margin: 0 auto clamp(8px, 1.2vh, 14px);
+      border-radius: 50%;
       display: flex;
-      flex-direction: column;
       align-items: center;
-      justify-content: flex-end;
-      padding-bottom: clamp(16px, 2.5vw, 28px);
-      transition: opacity 0.3s ease;
+      justify-content: center;
+      font-size: clamp(20px, 2.8vw, 28px);
+      background: rgba(156,188,20,0.12);
+      border: 1.5px solid rgba(156,188,20,0.25);
     }
-    .ps-acc-icon-sm {
-      font-size: clamp(18px, 2.5vw, 26px);
-      margin-bottom: 10px;
-    }
-    .ps-acc-vlabel {
-      writing-mode: vertical-rl;
-      text-orientation: mixed;
-      font-family: 'Norwester', sans-serif;
-      font-variant: small-caps;
-      font-size: clamp(11px, 1.3vw, 15px);
-      color: rgba(255,255,255,0.8);
-      letter-spacing: 1px;
-      white-space: nowrap;
-    }
-    .ps-acc-expanded {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-end;
-      padding: clamp(20px, 3vw, 32px);
-      opacity: 0;
-      transition: opacity 0.4s ease 0.15s;
-      background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 50%, transparent 100%);
-    }
-    .ps-acc-item:hover .ps-acc-collapsed { opacity: 0; }
-    .ps-acc-item:hover .ps-acc-expanded { opacity: 1; }
-    .ps-acc-icon-lg {
-      font-size: clamp(28px, 4vw, 40px);
-      margin-bottom: clamp(8px, 1.2vh, 14px);
-    }
-    .ps-acc-title {
-      font-family: 'Norwester', sans-serif;
-      font-variant: small-caps;
-      font-size: clamp(16px, 2.2vw, 24px);
+    .ps-reason-title {
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(12px, 1.4vw, 16px);
+      font-weight: 500;
       color: #9cbc14;
       margin-bottom: clamp(4px, 0.6vh, 8px);
+      line-height: 1.3;
     }
-    .ps-acc-desc {
+    .ps-reason-desc {
       font-family: 'Futura', sans-serif;
-      font-size: clamp(12px, 1.3vw, 15px);
-      line-height: 1.45;
-      color: rgba(255,255,255,0.75);
-      max-width: 280px;
-    }
-    @media (max-width: 768px) {
-      .ps-accordion {
-        height: auto;
-        flex-direction: row;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none;
-        gap: 6px;
-        padding-bottom: 12px;
-      }
-      .ps-accordion::-webkit-scrollbar { display: none; }
-      .ps-acc-item {
-        flex: 0 0 clamp(60px, 16vw, 80px);
-        height: clamp(280px, 65vw, 360px);
-        transition: flex 0.4s ease;
-      }
-      .ps-accordion .ps-acc-item.ps-acc-active { flex: 0 0 clamp(240px, 65vw, 300px); }
-      .ps-acc-item.ps-acc-active .ps-acc-collapsed { opacity: 0; }
-      .ps-acc-item.ps-acc-active .ps-acc-expanded { opacity: 1; }
+      font-size: clamp(10px, 1.1vw, 13px);
+      line-height: 1.4;
+      color: rgba(255,255,255,0.6);
     }
   </style>
 
-  <div class="ps-whylove eg-fade-in">Why Parents Love It</div>
-  <div class="ps-accordion eg-fade-in">
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">🔄</span><span class="ps-acc-vlabel">Replayable</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">🔄</span><div class="ps-acc-title">Endlessly Replayable</div><div class="ps-acc-desc">Different cards, different challenges, different outcomes every time</div></div>
+  <div class="ps-reasons-title eg-fade-in">Why Parents Love It</div>
+  <div class="ps-reasons">
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 4V2M12 22v-2M4 12H2M22 12h-2M6.34 6.34L4.93 4.93M19.07 4.93l-1.41 1.41M6.34 17.66l-1.41 1.41M19.07 19.07l-1.41-1.41" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="4" stroke="#9cbc14" stroke-width="2"/></svg></div>
+      <div class="ps-reason-title">Endlessly Replayable</div>
+      <div class="ps-reason-desc">Different cards, different challenges, different outcomes every time</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">🤸</span><span class="ps-acc-vlabel">Moving</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">🤸</span><div class="ps-acc-title">Gets Them Moving</div><div class="ps-acc-desc">35+ physical challenges — balance, toss, blow, jump. Science through the body</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M13 4l-1 3-3 1 3 1 1 3 1-3 3-1-3-1-1-3zM6 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#9cbc14"/><path d="M18 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#9cbc14" opacity=".6"/></svg></div>
+      <div class="ps-reason-title">Gets Them Moving</div>
+      <div class="ps-reason-desc">35+ physical challenges — balance, toss, blow, jump. Science through the body</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">📵</span><span class="ps-acc-vlabel">No Screens</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">📵</span><div class="ps-acc-title">Zero Screens</div><div class="ps-acc-desc">No apps, no batteries. A fully hands-on, tactile experience</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><rect x="5" y="3" width="14" height="18" rx="2" stroke="#9cbc14" stroke-width="2"/><line x1="9" y1="13" x2="15" y2="7" stroke="#9cbc14" stroke-width="2.5" stroke-linecap="round"/><line x1="9" y1="7" x2="15" y2="13" stroke="#9cbc14" stroke-width="2.5" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-title">Zero Screens</div>
+      <div class="ps-reason-desc">Fully hands-on. No apps, no batteries, no screen time</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">🔬</span><span class="ps-acc-vlabel">Science</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">🔬</span><div class="ps-acc-title">Real Science</div><div class="ps-acc-desc">13 real forces, 54 accurate tiles. Teaches gravity better than most textbooks</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="10" r="6" stroke="#9cbc14" stroke-width="2"/><path d="M12 16v4M9 22h6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><path d="M12 7v3l2 1" stroke="#9cbc14" stroke-width="1.5" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-title">Deeply Researched</div>
+      <div class="ps-reason-desc">13 real forces, 54 accurate tiles. Teaches gravity better than most textbooks</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">📈</span><span class="ps-acc-vlabel">Grows</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">📈</span><div class="ps-acc-title">Grows With Them</div><div class="ps-acc-desc">Easy to learn, hard to master. Grows with your child from age 7 to teen</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 3l2.5 5 5.5.8-4 3.9.9 5.5L12 15.8l-4.9 2.4.9-5.5-4-3.9 5.5-.8L12 3z" stroke="#9cbc14" stroke-width="2" stroke-linejoin="round"/></svg></div>
+      <div class="ps-reason-title">Right Level Of Challenge</div>
+      <div class="ps-reason-desc">Easy to learn, hard to master. Grows with your child from 7 to teen</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">🎨</span><span class="ps-acc-vlabel">Art</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">🎨</span><div class="ps-acc-title">Hand-Drawn Art</div><div class="ps-acc-desc">Every card and tile is original artwork — not clip art, not AI</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 20L8 4M12 20c0-8 8-8 8-16" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="6" cy="12" r="2" fill="#9cbc14" opacity=".4"/><circle cx="16" cy="10" r="1.5" fill="#9cbc14" opacity=".6"/></svg></div>
+      <div class="ps-reason-title">Hand-Drawn Art</div>
+      <div class="ps-reason-desc">Every card and tile is original artwork — no clip art, no AI</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">♾️</span><span class="ps-acc-vlabel">Not A Kit</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">♾️</span><div class="ps-acc-title">Not A One-Time Kit</div><div class="ps-acc-desc">Kits get done once and shelved. This game comes out again and again</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 6h16M4 6l4 12h8l4-12" stroke="#9cbc14" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="14" r="2" fill="#9cbc14"/></svg></div>
+      <div class="ps-reason-title">Not Another Kit</div>
+      <div class="ps-reason-desc">Kits get done once and shelved. This game comes out again and again</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">⚙️</span><span class="ps-acc-vlabel">Designed</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">⚙️</span><div class="ps-acc-title">Every Detail Matters</div><div class="ps-acc-desc">Board shape, tile placement, card mechanics — every aspect designed for learning</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="#9cbc14" stroke-width="2"/><path d="M12 3c0 5-4 9-9 9M12 3c0 5 4 9 9 9M12 21c0-5-4-9-9-9M12 21c0-5 4-9 9-9" stroke="#9cbc14" stroke-width="1.2" opacity=".5"/></svg></div>
+      <div class="ps-reason-title">Thoughtfully Designed</div>
+      <div class="ps-reason-desc">Board shape, tile positions, card mechanics — every detail serves the learning</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">👨‍👩‍👧</span><span class="ps-acc-vlabel">Family</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">👨‍👩‍👧</span><div class="ps-acc-title">Family Bonding</div><div class="ps-acc-desc">Parents play, learn, and get cheerfully corrected by their own kids</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M17 21v-2a4 4 0 00-4-4H5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="9" cy="7" r="4" stroke="#9cbc14" stroke-width="2"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-title">Family Bonding</div>
+      <div class="ps-reason-desc">Parents play, learn, and get cheerfully corrected by their own kids</div>
     </div>
-    <div class="ps-acc-item">
-      <div class="ps-acc-bg"></div>
-      <div class="ps-acc-collapsed"><span class="ps-acc-icon-sm">💡</span><span class="ps-acc-vlabel">Curiosity</span></div>
-      <div class="ps-acc-expanded"><span class="ps-acc-icon-lg">💡</span><div class="ps-acc-title">Sparks Curiosity</div><div class="ps-acc-desc">Open-ended questions on every tile. Thinking doesn't stop when the game ends</div></div>
+    <div class="ps-reason">
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><path d="M22 2l-7 7M22 2h-5M22 2v5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+      <div class="ps-reason-title">Sparks Curiosity</div>
+      <div class="ps-reason-desc">Open-ended questions on every tile. Thinking doesn't stop when the game ends</div>
     </div>
-  </div>
 
-  <script>
-  (function(){
-    if (window.innerWidth > 768) return;
-    var items = document.querySelectorAll('.ps-acc-item');
-    items.forEach(function(item) {
-      item.addEventListener('click', function() {
-        var wasActive = item.classList.contains('ps-acc-active');
-        items.forEach(function(i) { i.classList.remove('ps-acc-active'); });
-        if (!wasActive) item.classList.add('ps-acc-active');
-      });
-    });
-  })();
-  </script>
-
-</section>
 
 
 <section id="s2">
