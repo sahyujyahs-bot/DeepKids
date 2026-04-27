@@ -8765,13 +8765,21 @@
   .unlearn-stamp {
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
-    font-size: clamp(28px, 4vw, 42px);
-    letter-spacing: 3px;
-    padding: clamp(6px, 1vw, 10px) clamp(16px, 2.5vw, 28px);
+    font-size: clamp(14px, 2vw, 20px);
+    letter-spacing: 2px;
+    width: clamp(70px, 10vw, 90px);
+    height: clamp(70px, 10vw, 90px);
     border: 3px solid;
-    border-radius: 8px;
-    transform: rotate(-8deg);
-    margin-bottom: clamp(12px, 1.5vh, 18px);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.1;
+    position: absolute;
+    bottom: clamp(12px, 2vw, 20px);
+    right: clamp(12px, 2vw, 20px);
+    transform: rotate(-12deg);
     text-shadow: 0 2px 8px rgba(0,0,0,0.5);
     box-shadow: 0 0 20px rgba(0,0,0,0.3);
   }
