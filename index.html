@@ -328,10 +328,11 @@
        of the letters so it reads as a brand mark attached to the
        title itself. Think ™ badge placement. */
     .hero-tm {
-      position: absolute;
-      top: -6px;
-      right: clamp(10px, 1vw, 18px);
-      transform: none;
+      position: relative;
+      display: inline-block;
+      vertical-align: top;
+      top: -0.5em;
+      margin-left: 6px;
       font-family: 'Futura', sans-serif;
       font-weight: normal;
       font-variant: normal;
@@ -348,7 +349,6 @@
       box-shadow: 0 0 14px rgba(192,230,56,0.3), 0 2px 8px rgba(0,0,0,0.6);
       white-space: nowrap;
       pointer-events: none;
-      z-index: 5;
     }
     .hero-tm b {
       font-weight: normal;
@@ -357,8 +357,8 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        top: -4px;
-        right: 6px;
+        top: -0.4em;
+        margin-left: 4px;
         font-size: clamp(7px, 2.2vw, 10px);
         padding: 2px 6px;
         letter-spacing: 0.5px;
@@ -2212,8 +2212,9 @@
     flex: 0 0 clamp(300px, 75vw, 520px);
     scroll-snap-align: center;
     border-radius: 16px;
-    overflow: hidden;
+    overflow: visible;
   }
+  .ps-img { border-radius: 16px; }
   .ps-img-wrap {
     position: relative;
     width: 100%;
