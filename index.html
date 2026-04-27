@@ -717,10 +717,17 @@
   }
   .eg-nav-cta {
     margin-left: 0;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .3s ease;
+  }
+  .eg-nav-cta.show {
+    opacity: 1;
+    pointer-events: auto;
   }
   .eg-nav-cta .btn-svg { width: clamp(120px, 14vw, 170px); }
   @media (max-width: 768px) {
-    .eg-nav-cta { display: none; }
+    .eg-nav-cta { display: none; } /* mobile uses sticky bottom CTA instead */
     .eg-nav-playtest { font-size: 14px; }
   }
   /* offset body content for fixed nav */
@@ -9013,6 +9020,7 @@
 (function(){
   var el = document.getElementById('eg-mobile-preorder');
   var navPt = document.querySelector('.eg-nav-playtest');
+  var navCta = document.querySelector('.eg-nav-cta');
 
   function toggle(){
     var past = window.pageYOffset > window.innerHeight * 0.85;
@@ -9020,10 +9028,8 @@
       el.classList.toggle('visible', past);
       el.setAttribute('aria-hidden', past ? 'false' : 'true');
     }
-    // Show "Join Playtesting" in nav after scrolling past hero (all devices)
-    if (navPt) {
-      navPt.classList.toggle('show', past);
-    }
+    if (navPt) navPt.classList.toggle('show', past);
+    if (navCta) navCta.classList.toggle('show', past);
   }
   window.addEventListener('scroll', toggle, {passive: true});
   window.addEventListener('resize', toggle);
