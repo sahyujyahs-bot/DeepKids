@@ -3785,6 +3785,1071 @@
 
 </section>
 
+<!-- ═══════════════════════════════════════════════ S3: ABOUT ══ -->
+<style>
+  /* ── Shared section styles ────────────────────────────────── */
+  .eg-section {
+    position: relative;
+    background: transparent;
+    padding: clamp(50px,7vh,90px) 0 clamp(50px,7vh,90px);
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 100%;
+  }
+  .eg-section > h3 {
+    padding-left: clamp(16px,4vw,48px);
+    padding-right: clamp(16px,4vw,48px);
+  }
+  .eg-section::before {
+    content: '';
+    position: absolute; top: 0; left: 10%; right: 10%; height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.2), transparent);
+  }
+  /* ── Unified section headings & subheadings ─────────────── */
+  .eg-section-title,
+  .page-h2 {
+    font-family: 'Norwester', sans-serif;
+    font-weight: normal; font-style: normal; font-variant: small-caps;
+    font-size: clamp(26px, 4.5vw, 54px);
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
+    margin: 0 auto clamp(12px, 2vh, 20px) !important;
+    max-width: 1100px;
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .page-subh {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(14px, 1.8vw, 22px);
+    color: #9cbc14;
+    letter-spacing: clamp(2px, .4vw, 4px);
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto clamp(22px, 3vh, 36px);
+    text-shadow: 0 0 12px rgba(156,188,20,0.3);
+    max-width: 1100px;
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .page-desc {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(15px, 1.7vw, 21px);
+    color: rgba(255,255,255,0.72);
+    line-height: 1.55;
+    text-align: center;
+    margin: 0 auto clamp(22px, 3vh, 36px);
+    max-width: 780px;
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .page-desc em { color: #9cbc14; font-style: normal; }
+
+  /* ── S3 About styles ─────────────────────────────────────── */
+  .s4-title {
+    margin: 0 0 8px;
+  }
+  .s4-subtitle {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(16px, 2vw, 24px);
+    color: #9cbc14;
+    text-align: center;
+    margin: 0 0 clamp(32px, 5vh, 60px);
+    letter-spacing: 2px;
+  }
+  .s4-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(24px, 4vw, 60px);
+    max-width: 1100px;
+    margin: 0 auto;
+    align-items: start;
+  }
+  .s4-desc p {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(15px, 1.6vw, 20px);
+    color: rgba(255,255,255,0.75);
+    line-height: 1.7;
+    margin: 0 0 16px;
+  }
+  .s4-stats {
+    background: rgba(156,188,20,0.06);
+    border: 1px solid rgba(156,188,20,0.25);
+    border-radius: 20px;
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    padding: clamp(24px, 3vw, 40px);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .s4-stat {
+    text-align: center;
+    padding: 16px 8px;
+    border-radius: 12px;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(156,188,20,0.12);
+  }
+  .s4-stat-value {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(22px, 3vw, 36px);
+    color: #9cbc14;
+    display: block;
+  }
+  .s4-stat-label {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(12px, 1.2vw, 16px);
+    color: rgba(255,255,255,0.6);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 4px;
+    display: block;
+  }
+  @media (max-width: 768px) {
+    .s4-grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── S4 Features styles ──────────────────────────────────── */
+  .s5-title {
+    margin: 0 0 clamp(32px, 5vh, 60px);
+  }
+  .s5-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: clamp(16px, 2.5vw, 32px);
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .s5-card {
+    background: rgba(156,188,20,0.04);
+    border: 1px solid rgba(156,188,20,0.18);
+    border-radius: 18px;
+    backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+    padding: clamp(20px, 2.5vw, 36px);
+    text-align: center;
+    transition: transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease;
+  }
+  .s5-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 48px rgba(156,188,20,0.12);
+    border-color: rgba(156,188,20,0.4);
+  }
+  .s5-icon {
+    width: 48px; height: 48px;
+    margin: 0 auto clamp(12px, 1.5vw, 20px);
+  }
+  .s5-icon svg {
+    width: 100%; height: 100%;
+    stroke: #9cbc14; fill: none; stroke-width: 1.5;
+    stroke-linecap: round; stroke-linejoin: round;
+  }
+  .s5-card h3 {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(16px, 1.8vw, 22px);
+    color: #9cbc14;
+    margin: 0 0 8px;
+  }
+  .s5-card p {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(14px, 1.4vw, 18px);
+    color: rgba(255,255,255,0.65);
+    line-height: 1.6;
+    margin: 0;
+  }
+  @media (max-width: 768px) and (min-width: 481px) {
+    .s5-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 480px) {
+    .s5-grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── S5 Contact / Newsletter styles ──────────────────────── */
+  #s7 {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+  }
+  .s6-title {
+    margin: 0 0 12px;
+  }
+  .s6-text {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(15px, 1.8vw, 22px);
+    color: rgba(255,255,255,0.7);
+    text-align: center;
+    max-width: 540px;
+    margin: 0 0 clamp(24px, 4vh, 48px);
+    line-height: 1.6;
+  }
+  .s6-form {
+    display: flex;
+    gap: 16px;
+    max-width: 520px;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .s6-input {
+    flex: 1 1 240px;
+    padding: 9px 16px;
+    height: 42px;
+    line-height: 1.2;
+    font-family: 'Futura', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    background: rgba(255,255,255,0.05);
+    border: 1.5px solid rgba(156,188,20,0.25);
+    border-radius: 10px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+  .s6-input::placeholder { color: rgba(255,255,255,0.35); }
+  .s6-input:focus {
+    border-color: #9cbc14;
+    box-shadow: 0 0 16px rgba(156,188,20,0.2);
+  }
+  .s6-launch { flex: 0 0 auto; }
+  .s6-launch .btn-svg { width: clamp(170px, 26vw, 240px); }
+  @media (max-width: 560px) {
+    .s6-form { flex-direction: column; gap: 14px; }
+    .s6-input { width: 100%; height: 38px; padding: 7px 14px; font-size: 15px; }
+    .s6-launch .btn-svg { width: clamp(200px, 60vw, 260px); }
+  }
+
+  /* ── Footer styles ───────────────────────────────────────── */
+  .eg-footer {
+    background: rgba(10,6,24,.6);
+    padding: clamp(40px, 5vh, 64px) clamp(20px, 6vw, 80px) 0;
+    box-sizing: border-box;
+  }
+  .eg-footer-grid {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr 1fr;
+    gap: clamp(24px, 4vw, 60px);
+    max-width: 1100px;
+    margin: 0 auto clamp(32px, 4vh, 48px);
+  }
+  .eg-footer-brand-name {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(20px, 2.5vw, 28px);
+    color: #9cbc14;
+    margin: 0 0 8px;
+  }
+  .eg-footer-brand-tag {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(13px, 1.3vw, 17px);
+    color: rgba(255,255,255,0.5);
+    line-height: 1.5;
+  }
+  .eg-footer-by {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(13px, 1.3vw, 16px);
+    color: rgba(255,255,255,0.65);
+    line-height: 1.5;
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px solid rgba(156,188,20,0.15);
+  }
+  .eg-footer-by strong {
+    color: #9cbc14;
+    font-weight: normal;
+    letter-spacing: 1px;
+    text-shadow: 0 0 14px rgba(156,188,20,0.35);
+  }
+  .eg-footer h4 {
+    font-family: 'Norwester', sans-serif;
+    font-size: clamp(14px, 1.4vw, 18px);
+    color: rgba(255,255,255,0.85);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 0 16px;
+  }
+  .eg-footer-links {
+    list-style: none; padding: 0; margin: 0;
+  }
+  .eg-footer-links li { margin-bottom: 10px; }
+  .eg-footer-links a {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(14px, 1.3vw, 17px);
+    color: rgba(255,255,255,0.55);
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  .eg-footer-links a:hover { color: #9cbc14; }
+  .eg-footer-socials {
+    display: flex; gap: 16px; margin-top: 4px;
+  }
+  .eg-footer-socials a {
+    display: flex; align-items: center; justify-content: center;
+    width: 40px; height: 40px; border-radius: 50%;
+    background: rgba(156,188,20,0.08);
+    border: 1px solid rgba(156,188,20,0.2);
+    transition: background 0.3s ease, border-color 0.3s ease;
+  }
+  .eg-footer-socials a:hover {
+    background: rgba(156,188,20,0.18);
+    border-color: rgba(156,188,20,0.5);
+  }
+  .eg-footer-socials svg {
+    width: 18px; height: 18px;
+    fill: rgba(255,255,255,0.65);
+    transition: fill 0.3s ease;
+  }
+  .eg-footer-socials a:hover svg { fill: #9cbc14; }
+  .eg-footer-bottom {
+    text-align: center;
+    padding: 20px 0;
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(12px, 1.1vw, 15px);
+    color: rgba(255,255,255,0.35);
+    letter-spacing: 1px;
+  }
+  @media (max-width: 768px) {
+    .eg-footer-grid { grid-template-columns: 1fr; text-align: center; }
+    .eg-footer-socials { justify-content: center; }
+  }
+
+  /* ── Fade-in animation classes ───────────────────────────── */
+  .eg-fade-in {
+    opacity: 0; transform: translateY(30px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+  .eg-fade-in.visible {
+    opacity: 1; transform: translateY(0);
+  }
+</style>
+
+<!-- ═══════════════════════════════════════════════ S-EXPERIENCE ══ -->
+<section id="s-experience" class="eg-section">
+  <h2 class="page-h2 eg-fade-in">Gravity Is Experienced, Not Just Read In Books</h2>
+  <p class="eg-fade-in" style="font-family:'Futura',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
+
+  <div class="exp-grid eg-fade-in">
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5232.webp" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5067.webp" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5068.webp" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5062.webp" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5071.webp" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5064.webp" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5066.webp" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5069.webp" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5070.webp" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
+    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5065.webp" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
+  </div>
+</section>
+
+<style>
+/* ── Gravity Is Experienced ──────────────────────────── */
+.exp-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: clamp(18px, 3vw, 36px);
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 clamp(16px, 4vw, 56px);
+}
+
+/* Just the illustration — no card, no background. Tile rotates
+   slightly per nth-child so the row reads as playful rather than
+   gridded. */
+.exp-item {
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  padding-bottom: 18px; /* room for caption on hover */
+  /* Entrance starting state — invisible, sunk, compact. Stagger
+     transition-delay per nth-child once .exp-grid.visible is set. */
+  --r: 0deg;
+  opacity: 0;
+  transform: translateY(22px) scale(0.85) rotate(var(--r));
+  transition:
+    opacity .55s cubic-bezier(.34, 1.56, .64, 1),
+    transform .55s cubic-bezier(.34, 1.56, .64, 1);
+  will-change: transform, opacity;
+}
+.exp-item img {
+  width: 100%;
+  display: block;
+  filter: drop-shadow(0 6px 14px rgba(0,0,0,0.45));
+  transition: filter .3s ease;
+  pointer-events: none;
+}
+.exp-caption {
+  position: absolute;
+  left: 0; right: 0; bottom: -4px;
+  font-family: 'Futura', sans-serif;
+  font-size: clamp(12px, 1.3vw, 15px);
+  line-height: 1.15;
+  color: #c0e638;
+  text-align: center;
+  letter-spacing: 0.3px;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.7), 0 0 10px rgba(156,188,20,0.35);
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity .25s ease, transform .25s ease;
+  pointer-events: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Assign each tile a small random-feel rotation so the grid reads
+   as scattered rather than a neat table. */
+.exp-item:nth-child(1)  { --r: -4deg; }
+.exp-item:nth-child(2)  { --r:  3deg; }
+.exp-item:nth-child(3)  { --r: -2deg; }
+.exp-item:nth-child(4)  { --r:  5deg; }
+.exp-item:nth-child(5)  { --r: -3deg; }
+.exp-item:nth-child(6)  { --r:  2deg; }
+.exp-item:nth-child(7)  { --r: -5deg; }
+.exp-item:nth-child(8)  { --r:  4deg; }
+.exp-item:nth-child(9)  { --r: -2deg; }
+.exp-item:nth-child(10) { --r:  3deg; }
+
+/* Visible state — tiles settle into their rotation. Staggered delay
+   per nth-child so they pop in one after another. */
+.exp-grid.visible .exp-item {
+  opacity: 1;
+  transform: translateY(0) scale(1) rotate(var(--r));
+}
+.exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms,   0ms; }
+.exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms,  80ms; }
+.exp-grid.visible .exp-item:nth-child(3)  { transition-delay: 160ms, 160ms; }
+.exp-grid.visible .exp-item:nth-child(4)  { transition-delay: 240ms, 240ms; }
+.exp-grid.visible .exp-item:nth-child(5)  { transition-delay: 320ms, 320ms; }
+.exp-grid.visible .exp-item:nth-child(6)  { transition-delay: 400ms, 400ms; }
+.exp-grid.visible .exp-item:nth-child(7)  { transition-delay: 480ms, 480ms; }
+.exp-grid.visible .exp-item:nth-child(8)  { transition-delay: 560ms, 560ms; }
+.exp-grid.visible .exp-item:nth-child(9)  { transition-delay: 640ms, 640ms; }
+.exp-grid.visible .exp-item:nth-child(10) { transition-delay: 720ms, 720ms; }
+
+/* Hover / tap / focus — straighten, lift, brighten shadow, reveal caption */
+.exp-grid.visible .exp-item:hover,
+.exp-grid.visible .exp-item:focus,
+.exp-grid.visible .exp-item:focus-within,
+.exp-grid.visible .exp-item.is-active {
+  transform: translateY(-10px) scale(1.06) rotate(0deg);
+  z-index: 3;
+  transition-delay: 0ms;
+}
+.exp-grid.visible .exp-item:hover img,
+.exp-grid.visible .exp-item:focus img,
+.exp-grid.visible .exp-item:focus-within img,
+.exp-grid.visible .exp-item.is-active img {
+  filter:
+    drop-shadow(0 10px 22px rgba(0,0,0,0.55))
+    drop-shadow(0 0 14px rgba(156,188,20,0.45));
+}
+.exp-grid.visible .exp-item:hover .exp-caption,
+.exp-grid.visible .exp-item:focus .exp-caption,
+.exp-grid.visible .exp-item:focus-within .exp-caption,
+.exp-grid.visible .exp-item.is-active .exp-caption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (max-width: 600px) {
+  .exp-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .exp-caption { font-size: 11px; }
+  /* No stagger on mobile — all items appear together */
+  .exp-grid.visible .exp-item { transition-delay: 0ms !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .exp-item,
+  .exp-grid.visible .exp-item {
+    transition: opacity .3s ease;
+    transform: none !important;
+  }
+  .exp-grid.visible .exp-item { opacity: 1; }
+}
+</style>
+<script>
+(function(){
+  // Polaroid tiles: tap to reveal caption on touch devices.
+  // On desktop :hover handles it; this script also makes tap-away
+  // close any stuck-active tile.
+  var grid = document.querySelector('.exp-grid');
+  if (!grid) return;
+  grid.addEventListener('click', function(e){
+    var tile = e.target.closest('.exp-item');
+    // Clear previously active tile(s)
+    grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
+      if (el !== tile) el.classList.remove('is-active');
+    });
+    if (tile) tile.classList.toggle('is-active');
+  });
+  document.addEventListener('click', function(e){
+    if (!e.target.closest('.exp-grid')) {
+      grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
+        el.classList.remove('is-active');
+      });
+    }
+  });
+
+  // Soft pop sound on each individual illustration hover/tap
+  var expAc = null;
+  function playExpPop() {
+    try {
+      if (!expAc) expAc = new (window.AudioContext || window.webkitAudioContext)();
+      if (expAc.state === 'suspended') expAc.resume();
+      var osc = expAc.createOscillator();
+      var gain = expAc.createGain();
+      osc.type = 'sine';
+      osc.frequency.setValueAtTime(680 + Math.random() * 200, expAc.currentTime);
+      osc.frequency.exponentialRampToValueAtTime(280, expAc.currentTime + 0.12);
+      gain.gain.setValueAtTime(0.08, expAc.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.001, expAc.currentTime + 0.15);
+      osc.connect(gain);
+      gain.connect(expAc.destination);
+      osc.start();
+      osc.stop(expAc.currentTime + 0.18);
+    } catch(err) {}
+  }
+  grid.querySelectorAll('.exp-item').forEach(function(item) {
+    item.addEventListener('pointerenter', playExpPop);
+  });
+})();
+</script>
+<style>
+/* (stylesheet continuation — sentinel so the next <style> tag closes cleanly) */
+</style>
+
+<!-- ═══════════════════════════════════════════════ S-SPIRAL: SPIRALS ══ -->
+<section id="s-spiral" class="eg-section">
+  <h2 class="page-h2 eg-fade-in">Spirals In The Universe</h2>
+  <p class="spiral-subtitle eg-fade-in">The board is a spiral &mdash; because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
+
+  <!-- Desktop: tiles flanking spiral -->
+  <div class="spiral-stage eg-fade-in">
+    <div class="spiral-side">
+      <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    </div>
+    <div class="spiral-wrap">
+      <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="spiral-board-display.webp" alt="EscapeGravity Spiral Board">
+      <p class="spiral-hint">Scroll, click or double-click to spin</p>
+    </div>
+    <div class="spiral-side">
+      <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+      <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
+    </div>
+  </div>
+
+  <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
+  <div class="spiral-row-mobile eg-fade-in">
+    <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+    <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ S-LAYERS: 9 LAYERS ══ -->
+<section id="s-layers" class="eg-section">
+  <h2 class="page-h2 eg-fade-in">Each Ring Is A Layer Of Earth Or Its Atmosphere</h2>
+  <p class="page-desc eg-fade-in">9 concentric rings on the spiral board map to 9 real layers &mdash; from Earth&rsquo;s core to outer space.</p>
+
+  <div class="layers-grid eg-fade-in">
+    <div class="layer-card" style="--lc:#d6352d;--lg:linear-gradient(90deg,#ffb060,#ff7236,#d6352d,#8a1a14);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Core</div>
+      <div class="layer-tiles">Tile 0</div>
+    </div>
+    <div class="layer-card" style="--lc:#7f4a22;--lg:linear-gradient(90deg,#3e1f0a,#5a3018,#7f4a22,#a06a35,#c89860);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Mantle</div>
+      <div class="layer-tiles">Tiles 1 &ndash; 4</div>
+    </div>
+    <div class="layer-card" style="--lc:#cbb560;--lg:linear-gradient(90deg,#9c8235,#b59c48,#cbb560,#e5d290,#f4e4ae);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Crust</div>
+      <div class="layer-tiles">Tiles 5 &ndash; 9</div>
+    </div>
+    <div class="layer-card" style="--lc:#4fa771;--lg:linear-gradient(90deg,#1f5532,#2d6a3f,#4fa771,#6dc090,#9fdcb6);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Surface</div>
+      <div class="layer-tiles">Tiles 10 &ndash; 17</div>
+    </div>
+    <div class="layer-card" style="--lc:#8ea4c4;--lg:linear-gradient(90deg,#3f5872,#5b7890,#8ea4c4,#b3c4e0,#d2deef);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Troposphere</div>
+      <div class="layer-tiles">Tiles 18 &ndash; 23</div>
+    </div>
+    <div class="layer-card" style="--lc:#7b80b5;--lg:linear-gradient(90deg,#383c70,#494e8a,#696ea0,#8e93c5,#b3b8df);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Stratosphere</div>
+      <div class="layer-tiles">Tiles 24 &ndash; 30</div>
+    </div>
+    <div class="layer-card" style="--lc:#a87ba8;--lg:linear-gradient(90deg,#603e60,#7a5878,#946890,#a87ba8,#c294be);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Mesosphere</div>
+      <div class="layer-tiles">Tiles 31 &ndash; 39</div>
+    </div>
+    <div class="layer-card" style="--lc:#c96a7a;--lg:linear-gradient(90deg,#7a2b3a,#9e3d4f,#c96a7a,#db8595,#ecaab8);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Thermosphere</div>
+      <div class="layer-tiles">Tiles 40 &ndash; 44, 46, 47</div>
+    </div>
+    <div class="layer-card layer-iss" style="--lc:#f0c846;--lg:linear-gradient(90deg,#a8801c,#d4a82e,#f0c846,#fadc78,#fff0b0);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">ISS</div>
+      <div class="layer-tiles">Tile 45 &mdash; Mission Stop</div>
+    </div>
+    <div class="layer-card" style="--lc:#8f3d6b;--lg:linear-gradient(90deg,#3a0f24,#5a1f3e,#722d54,#8f3d6b,#aa5283);">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Exosphere</div>
+      <div class="layer-tiles">Tiles 48 &ndash; 54</div>
+    </div>
+    <div class="layer-card layer-iss" style="--lc:#f0c846;--lg:linear-gradient(90deg,#806010,#a8801c,#d4a82e,#f0c846,#fadc78);grid-column:span 2;">
+      <div class="layer-swatch"></div>
+      <div class="layer-name">Lagrange Points L1 &ndash; L4</div>
+      <div class="layer-tiles">L4 &mdash; Extended Mission Stop</div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ── Spirals section ─────────────────────────────────── */
+.spiral-subtitle {
+  font-family: 'Futura', sans-serif;
+  font-size: clamp(15px, 1.7vw, 21px);
+  color: rgba(255,255,255,0.72);
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto clamp(20px, 3vh, 36px);
+  line-height: 1.5;
+  padding: 0 clamp(16px,4vw,40px);
+}
+
+/* Desktop: tiles | spiral | tiles */
+.spiral-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(16px, 2.5vw, 32px);
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 clamp(12px,3vw,30px);
+}
+.spiral-side {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(12px, 2vw, 20px);
+  flex-shrink: 0;
+  width: clamp(200px, 26vw, 320px);
+}
+.spiral-wrap {
+  text-align: center;
+  flex-shrink: 0;
+}
+.spiral-img {
+  width: clamp(280px, 44vw, 560px);
+  height: auto;
+  display: inline-block;
+  cursor: pointer;
+  transition: transform 0.05s linear;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  filter: drop-shadow(0 18px 50px rgba(0,0,0,0.55))
+          drop-shadow(0 0 80px rgba(156,188,20,0.18));
+  transform-origin: center center;
+}
+.spiral-img:focus,
+.spiral-img:active { outline: none; }
+.spiral-hint {
+  font-family: 'Futura', sans-serif;
+  font-size: clamp(12px, 1.2vw, 15px);
+  color: rgba(255,255,255,0.5);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: -8px;
+  position: relative;
+  z-index: 5;
+}
+
+
+/* Side example tiles */
+.spiral-ex img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: clamp(8px, 1.2vw, 14px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.45);
+  display: block;
+}
+
+/* Hide mobile scroll row on desktop */
+.spiral-row-mobile { display: none; }
+
+@media (max-width: 900px) {
+  /* Hide desktop side columns; show only spiral, then mobile scroll row */
+  .spiral-side { display: none; }
+  .spiral-stage { display: block; text-align: center; }
+  .spiral-img { width: clamp(280px, 70vw, 560px); }
+  .spiral-row-mobile {
+    display: flex;
+    gap: clamp(10px, 3vw, 16px);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    padding: clamp(18px, 3vh, 26px) clamp(12px, 4vw, 24px) 0;
+  }
+  .spiral-row-mobile .spiral-ex {
+    flex: 0 0 65%;
+    scroll-snap-align: center;
+  }
+}
+@media (max-width: 560px) {
+  .spiral-img { width: 92vw; }
+}
+</style>
+
+<script>
+(function(){
+  var img = document.getElementById('spiral-board');
+  if (!img) return;
+
+  var angle = 0;
+  var clickDir = 1;
+  var dblDir = 1;
+  var spinning = false;
+
+  function setAngle(a) {
+    angle = a;
+    img.style.transform = 'rotate(' + a + 'deg)';
+  }
+
+  // ── Scroll: rotate with scroll delta when section is in view ──
+  var section = document.getElementById('s-spiral');
+  var lastY = window.pageYOffset;
+  window.addEventListener('scroll', function() {
+    if (!section) return;
+    var rect = section.getBoundingClientRect();
+    if (rect.bottom < 0 || rect.top > window.innerHeight) {
+      lastY = window.pageYOffset;
+      return;
+    }
+    var y = window.pageYOffset;
+    var delta = y - lastY;
+    lastY = y;
+    setAngle(angle + delta * 0.4);
+  }, { passive: true });
+
+  // ── Single click: 1 full spin, alternating direction ──
+  img.addEventListener('click', function() {
+    if (spinning) return;
+    spinning = true;
+    var target = angle + clickDir * 360;
+    clickDir *= -1;
+    animateSpin(target, 900, function() { spinning = false; });
+  });
+
+  // ── Double click: 5 full spins, alternating direction ──
+  img.addEventListener('dblclick', function(e) {
+    e.preventDefault();
+    spinning = true;
+    var target = angle + dblDir * 360 * 5;
+    dblDir *= -1;
+    animateSpin(target, 2500, function() { spinning = false; });
+  });
+
+  function animateSpin(target, duration, cb) {
+    var start = angle;
+    var startTime = null;
+    function frame(ts) {
+      if (!startTime) startTime = ts;
+      var t = Math.min((ts - startTime) / duration, 1);
+      var e = 1 - Math.pow(1 - t, 3);
+      setAngle(start + (target - start) * e);
+      if (t < 1) requestAnimationFrame(frame);
+      else { setAngle(target); if (cb) cb(); }
+    }
+    requestAnimationFrame(frame);
+  }
+})();
+</script>
+
+<!-- ═══════════════════════════════════════════════ S-FORCES ══ -->
+<section id="s-forces" class="eg-section">
+  <h2 class="page-h2 eg-fade-in">Forces Against Gravity</h2>
+  <p class="forces-subtitle eg-fade-in">Nothing exists alone in nature &mdash; true for gravity too. Every force interacts with others: some reinforce, some resist, and together they shape how everything moves.</p>
+  <p class="forces-subtitle eg-fade-in" style="margin-top:0;">The game reflects this. There are 13 forces across 7 categories &mdash; players earn these force cards by doing physical challenges, then use them to escape the gravity wells on the board.</p>
+
+  <!-- Wrap icons + panels for side-by-side desktop layout -->
+  <div class="forces-layout eg-fade-in">
+
+  <!-- 7 Category icons -->
+  <div class="forces-icons" id="forces-icons">
+    <button class="forces-icon active" data-cat="earth">
+      <img loading="lazy" decoding="async" src="IMG_4700.png" alt="Earth">
+      <span>Earth</span>
+    </button>
+    <button class="forces-icon" data-cat="air">
+      <img loading="lazy" decoding="async" src="IMG_4702.png" alt="Air">
+      <span>Air</span>
+    </button>
+    <button class="forces-icon" data-cat="water">
+      <img loading="lazy" decoding="async" src="IMG_4701.png" alt="Water">
+      <span>Water</span>
+    </button>
+    <button class="forces-icon" data-cat="body">
+      <img loading="lazy" decoding="async" src="IMG_4705.png" alt="Body">
+      <span>Body</span>
+    </button>
+    <button class="forces-icon" data-cat="speed">
+      <img loading="lazy" decoding="async" src="IMG_4704.png" alt="Speed">
+      <span>Speed</span>
+    </button>
+    <button class="forces-icon" data-cat="energy">
+      <img loading="lazy" decoding="async" src="IMG_4703.png" alt="Energy">
+      <span>Energy</span>
+    </button>
+    <button class="forces-icon" data-cat="balance">
+      <img loading="lazy" decoding="async" src="IMG_4706.png" alt="Balance">
+      <span>Balance</span>
+    </button>
+  </div>
+
+  <!-- Force card panels — one per category -->
+  <div class="forces-panel active" data-cat="earth">
+    <div class="forces-cards">
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5106.jpeg" alt="Normal Force"></div>
+    </div>
+  </div>
+
+  <div class="forces-panel" data-cat="air">
+    <div class="forces-cards">
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5120.jpeg" alt="Air Resistance"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5118.jpeg" alt="Airlift"></div>
+    </div>
+  </div>
+
+  <div class="forces-panel" data-cat="water">
+    <div class="forces-cards">
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5116.jpeg" alt="Buoyancy"></div>
+    </div>
+  </div>
+
+  <div class="forces-panel" data-cat="body">
+    <div class="forces-cards">
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5114.jpeg" alt="Weight"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5112.jpeg" alt="Physical Work"></div>
+    </div>
+  </div>
+
+  <div class="forces-panel" data-cat="speed">
+    <div class="forces-cards">
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5098.jpeg" alt="Sideways Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5096.jpeg" alt="Escape Velocity"></div>
+    </div>
+  </div>
+
+  <div class="forces-panel" data-cat="energy">
+    <div class="forces-cards">
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5102.jpeg" alt="Magnetic Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5100.jpeg" alt="Elastic Energy"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5104.jpeg" alt="Knowledge"></div>
+    </div>
+  </div>
+
+  <div class="forces-panel" data-cat="balance">
+    <div class="forces-cards">
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5110.jpeg" alt="Center of Gravity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5108.jpeg" alt="Neutral Pull"></div>
+    </div>
+  </div>
+  </div><!-- /forces-layout -->
+</section>
+
+<style>
+/* ── Forces Against Gravity ──────────────────────────── */
+.forces-subtitle {
+  font-family: 'Futura', sans-serif;
+  font-size: clamp(15px, 1.7vw, 21px);
+  color: rgba(255,255,255,0.65);
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto clamp(20px, 3vh, 32px);
+  line-height: 1.5;
+}
+
+/* Desktop: icons left, cards right — centered on screen */
+.forces-layout {
+  display: flex;
+  gap: clamp(20px, 3vw, 40px);
+  align-items: center;
+  justify-content: center;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 clamp(16px, 3vw, 40px);
+}
+
+/* Icon grid — 2 columns on desktop */
+.forces-icons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: clamp(6px, 0.8vw, 12px);
+  flex-shrink: 0;
+  align-content: start;
+}
+.forces-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  background: rgba(18,8,38,0.5);
+  border: 1px solid rgba(156,188,20,0.15);
+  border-radius: clamp(10px, 1.5vw, 16px);
+  padding: clamp(10px, 1.5vw, 18px) clamp(12px, 1.8vw, 22px);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+  color: rgba(255,255,255,0.5);
+}
+.forces-icon svg, .forces-icon img {
+  width: clamp(28px, 4vw, 44px);
+  height: clamp(28px, 4vw, 44px);
+  object-fit: contain;
+}
+.forces-icon span {
+  font-family: 'Futura', sans-serif;
+  font-size: clamp(11px, 1.2vw, 15px);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.forces-icon:hover {
+  color: rgba(255,255,255,0.8);
+  border-color: rgba(156,188,20,0.4);
+}
+.forces-icon.active {
+  color: #9cbc14;
+  border-color: #9cbc14;
+  background: rgba(156,188,20,0.1);
+}
+
+/* Panels — fill remaining space */
+.forces-panel {
+  display: none;
+  flex: 1 1 0%;
+  min-width: 0;
+  width: 100%;
+}
+.forces-panel.active { display: block; }
+
+/* Cards row — horizontally scrollable when overflowing */
+.forces-cards {
+  display: flex;
+  /* `safe center` keeps content centered when it fits, but falls back to
+     start-alignment when it overflows so leading cards aren't clipped. */
+  justify-content: safe center;
+  gap: clamp(12px, 2vw, 20px);
+  padding: 10px clamp(8px, 2vw, 20px);
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: clamp(12px, 3vw, 24px);
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.forces-card-slot {
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  transition: transform 0.4s cubic-bezier(.4,0,.2,1);
+}
+.forces-card-slot:hover {
+  transform: translateY(-8px) scale(1.04);
+}
+.forces-card-slot img {
+  width: clamp(180px, 28vw, 300px);
+  border-radius: clamp(10px, 1.5vw, 16px);
+  box-shadow: 0 6px 28px rgba(0,0,0,0.5);
+  display: block;
+  transition: box-shadow 0.4s ease;
+}
+.forces-card-slot:hover img {
+  box-shadow: 0 12px 40px rgba(156,188,20,0.25), 0 6px 20px rgba(0,0,0,0.5);
+}
+.forces-card-placeholder {
+  width: clamp(140px, 22vw, 220px);
+  height: clamp(196px, 30vw, 308px);
+  border-radius: clamp(8px, 1.2vw, 14px);
+  border: 2px dashed rgba(156,188,20,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Futura', sans-serif;
+  font-size: clamp(13px, 1.4vw, 17px);
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+@media (max-width: 680px) {
+  .forces-layout {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    padding: 0;
+  }
+  .forces-icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    max-width: 100%;
+    justify-content: flex-start;
+    padding: 0 12px;
+    box-sizing: border-box;
+  }
+  .forces-panel {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+  .forces-cards {
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 10px 16px;
+  }
+  .forces-card-slot {
+    flex-shrink: 0;
+    scroll-snap-align: center;
+  }
+  .forces-card-slot img { width: clamp(180px, 60vw, 260px); }
+}
+</style>
+
+<script>
+(function(){
+  var icons = document.querySelectorAll('.forces-icon');
+  var panels = document.querySelectorAll('.forces-panel');
+  icons.forEach(function(icon) {
+    icon.addEventListener('click', function() {
+      var cat = icon.getAttribute('data-cat');
+      icons.forEach(function(i) { i.classList.remove('active'); });
+      icon.classList.add('active');
+      panels.forEach(function(p) {
+        p.classList.toggle('active', p.getAttribute('data-cat') === cat);
+      });
+    });
+  });
+})();
+</script>
+
 <!-- ═══════════════════════════════════════════════ S4: SCIENCE ══ -->
 <section id="s4-science" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Each Tile Carries Science</h2>
@@ -5859,338 +6924,6 @@
 })();
 </script>
 
-<!-- ═══════════════════════════════════════════════ S3: ABOUT ══ -->
-<style>
-  /* ── Shared section styles ────────────────────────────────── */
-  .eg-section {
-    position: relative;
-    background: transparent;
-    padding: clamp(50px,7vh,90px) 0 clamp(50px,7vh,90px);
-    box-sizing: border-box;
-    overflow: hidden;
-    width: 100%;
-  }
-  .eg-section > h3 {
-    padding-left: clamp(16px,4vw,48px);
-    padding-right: clamp(16px,4vw,48px);
-  }
-  .eg-section::before {
-    content: '';
-    position: absolute; top: 0; left: 10%; right: 10%; height: 1px;
-    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.2), transparent);
-  }
-  /* ── Unified section headings & subheadings ─────────────── */
-  .eg-section-title,
-  .page-h2 {
-    font-family: 'Norwester', sans-serif;
-    font-weight: normal; font-style: normal; font-variant: small-caps;
-    font-size: clamp(26px, 4.5vw, 54px);
-    line-height: 1;
-    color: #fff;
-    text-align: center;
-    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
-    margin: 0 auto clamp(12px, 2vh, 20px) !important;
-    max-width: 1100px;
-    padding: 0 clamp(16px,4vw,40px);
-  }
-  .page-subh {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(14px, 1.8vw, 22px);
-    color: #9cbc14;
-    letter-spacing: clamp(2px, .4vw, 4px);
-    text-transform: uppercase;
-    text-align: center;
-    margin: 0 auto clamp(22px, 3vh, 36px);
-    text-shadow: 0 0 12px rgba(156,188,20,0.3);
-    max-width: 1100px;
-    padding: 0 clamp(16px,4vw,40px);
-  }
-  .page-desc {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(15px, 1.7vw, 21px);
-    color: rgba(255,255,255,0.72);
-    line-height: 1.55;
-    text-align: center;
-    margin: 0 auto clamp(22px, 3vh, 36px);
-    max-width: 780px;
-    padding: 0 clamp(16px,4vw,40px);
-  }
-  .page-desc em { color: #9cbc14; font-style: normal; }
-
-  /* ── S3 About styles ─────────────────────────────────────── */
-  .s4-title {
-    margin: 0 0 8px;
-  }
-  .s4-subtitle {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(16px, 2vw, 24px);
-    color: #9cbc14;
-    text-align: center;
-    margin: 0 0 clamp(32px, 5vh, 60px);
-    letter-spacing: 2px;
-  }
-  .s4-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: clamp(24px, 4vw, 60px);
-    max-width: 1100px;
-    margin: 0 auto;
-    align-items: start;
-  }
-  .s4-desc p {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(15px, 1.6vw, 20px);
-    color: rgba(255,255,255,0.75);
-    line-height: 1.7;
-    margin: 0 0 16px;
-  }
-  .s4-stats {
-    background: rgba(156,188,20,0.06);
-    border: 1px solid rgba(156,188,20,0.25);
-    border-radius: 20px;
-    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-    padding: clamp(24px, 3vw, 40px);
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 24px;
-  }
-  .s4-stat {
-    text-align: center;
-    padding: 16px 8px;
-    border-radius: 12px;
-    background: rgba(255,255,255,0.03);
-    border: 1px solid rgba(156,188,20,0.12);
-  }
-  .s4-stat-value {
-    font-family: 'Norwester', sans-serif;
-    font-size: clamp(22px, 3vw, 36px);
-    color: #9cbc14;
-    display: block;
-  }
-  .s4-stat-label {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(12px, 1.2vw, 16px);
-    color: rgba(255,255,255,0.6);
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    margin-top: 4px;
-    display: block;
-  }
-  @media (max-width: 768px) {
-    .s4-grid { grid-template-columns: 1fr; }
-  }
-
-  /* ── S4 Features styles ──────────────────────────────────── */
-  .s5-title {
-    margin: 0 0 clamp(32px, 5vh, 60px);
-  }
-  .s5-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: clamp(16px, 2.5vw, 32px);
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-  .s5-card {
-    background: rgba(156,188,20,0.04);
-    border: 1px solid rgba(156,188,20,0.18);
-    border-radius: 18px;
-    backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
-    padding: clamp(20px, 2.5vw, 36px);
-    text-align: center;
-    transition: transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease;
-  }
-  .s5-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 16px 48px rgba(156,188,20,0.12);
-    border-color: rgba(156,188,20,0.4);
-  }
-  .s5-icon {
-    width: 48px; height: 48px;
-    margin: 0 auto clamp(12px, 1.5vw, 20px);
-  }
-  .s5-icon svg {
-    width: 100%; height: 100%;
-    stroke: #9cbc14; fill: none; stroke-width: 1.5;
-    stroke-linecap: round; stroke-linejoin: round;
-  }
-  .s5-card h3 {
-    font-family: 'Norwester', sans-serif;
-    font-size: clamp(16px, 1.8vw, 22px);
-    color: #9cbc14;
-    margin: 0 0 8px;
-  }
-  .s5-card p {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(14px, 1.4vw, 18px);
-    color: rgba(255,255,255,0.65);
-    line-height: 1.6;
-    margin: 0;
-  }
-  @media (max-width: 768px) and (min-width: 481px) {
-    .s5-grid { grid-template-columns: repeat(2, 1fr); }
-  }
-  @media (max-width: 480px) {
-    .s5-grid { grid-template-columns: 1fr; }
-  }
-
-  /* ── S5 Contact / Newsletter styles ──────────────────────── */
-  #s7 {
-    display: flex; flex-direction: column; align-items: center; justify-content: center;
-  }
-  .s6-title {
-    margin: 0 0 12px;
-  }
-  .s6-text {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(15px, 1.8vw, 22px);
-    color: rgba(255,255,255,0.7);
-    text-align: center;
-    max-width: 540px;
-    margin: 0 0 clamp(24px, 4vh, 48px);
-    line-height: 1.6;
-  }
-  .s6-form {
-    display: flex;
-    gap: 16px;
-    max-width: 520px;
-    width: 100%;
-    align-items: center;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .s6-input {
-    flex: 1 1 240px;
-    padding: 9px 16px;
-    height: 42px;
-    line-height: 1.2;
-    font-family: 'Futura', sans-serif;
-    font-size: 16px;
-    color: #fff;
-    background: rgba(255,255,255,0.05);
-    border: 1.5px solid rgba(156,188,20,0.25);
-    border-radius: 10px;
-    outline: none;
-    transition: border-color 0.3s ease, box-shadow 0.3s ease;
-    min-width: 0;
-    box-sizing: border-box;
-  }
-  .s6-input::placeholder { color: rgba(255,255,255,0.35); }
-  .s6-input:focus {
-    border-color: #9cbc14;
-    box-shadow: 0 0 16px rgba(156,188,20,0.2);
-  }
-  .s6-launch { flex: 0 0 auto; }
-  .s6-launch .btn-svg { width: clamp(170px, 26vw, 240px); }
-  @media (max-width: 560px) {
-    .s6-form { flex-direction: column; gap: 14px; }
-    .s6-input { width: 100%; height: 38px; padding: 7px 14px; font-size: 15px; }
-    .s6-launch .btn-svg { width: clamp(200px, 60vw, 260px); }
-  }
-
-  /* ── Footer styles ───────────────────────────────────────── */
-  .eg-footer {
-    background: rgba(10,6,24,.6);
-    padding: clamp(40px, 5vh, 64px) clamp(20px, 6vw, 80px) 0;
-    box-sizing: border-box;
-  }
-  .eg-footer-grid {
-    display: grid;
-    grid-template-columns: 1.2fr 1fr 1fr;
-    gap: clamp(24px, 4vw, 60px);
-    max-width: 1100px;
-    margin: 0 auto clamp(32px, 4vh, 48px);
-  }
-  .eg-footer-brand-name {
-    font-family: 'Norwester', sans-serif;
-    font-size: clamp(20px, 2.5vw, 28px);
-    color: #9cbc14;
-    margin: 0 0 8px;
-  }
-  .eg-footer-brand-tag {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(13px, 1.3vw, 17px);
-    color: rgba(255,255,255,0.5);
-    line-height: 1.5;
-  }
-  .eg-footer-by {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(13px, 1.3vw, 16px);
-    color: rgba(255,255,255,0.65);
-    line-height: 1.5;
-    margin-top: 14px;
-    padding-top: 12px;
-    border-top: 1px solid rgba(156,188,20,0.15);
-  }
-  .eg-footer-by strong {
-    color: #9cbc14;
-    font-weight: normal;
-    letter-spacing: 1px;
-    text-shadow: 0 0 14px rgba(156,188,20,0.35);
-  }
-  .eg-footer h4 {
-    font-family: 'Norwester', sans-serif;
-    font-size: clamp(14px, 1.4vw, 18px);
-    color: rgba(255,255,255,0.85);
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin: 0 0 16px;
-  }
-  .eg-footer-links {
-    list-style: none; padding: 0; margin: 0;
-  }
-  .eg-footer-links li { margin-bottom: 10px; }
-  .eg-footer-links a {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(14px, 1.3vw, 17px);
-    color: rgba(255,255,255,0.55);
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-  .eg-footer-links a:hover { color: #9cbc14; }
-  .eg-footer-socials {
-    display: flex; gap: 16px; margin-top: 4px;
-  }
-  .eg-footer-socials a {
-    display: flex; align-items: center; justify-content: center;
-    width: 40px; height: 40px; border-radius: 50%;
-    background: rgba(156,188,20,0.08);
-    border: 1px solid rgba(156,188,20,0.2);
-    transition: background 0.3s ease, border-color 0.3s ease;
-  }
-  .eg-footer-socials a:hover {
-    background: rgba(156,188,20,0.18);
-    border-color: rgba(156,188,20,0.5);
-  }
-  .eg-footer-socials svg {
-    width: 18px; height: 18px;
-    fill: rgba(255,255,255,0.65);
-    transition: fill 0.3s ease;
-  }
-  .eg-footer-socials a:hover svg { fill: #9cbc14; }
-  .eg-footer-bottom {
-    text-align: center;
-    padding: 20px 0;
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(12px, 1.1vw, 15px);
-    color: rgba(255,255,255,0.35);
-    letter-spacing: 1px;
-  }
-  @media (max-width: 768px) {
-    .eg-footer-grid { grid-template-columns: 1fr; text-align: center; }
-    .eg-footer-socials { justify-content: center; }
-  }
-
-  /* ── Fade-in animation classes ───────────────────────────── */
-  .eg-fade-in {
-    opacity: 0; transform: translateY(30px);
-    transition: opacity 0.7s ease, transform 0.7s ease;
-  }
-  .eg-fade-in.visible {
-    opacity: 1; transform: translateY(0);
-  }
-</style>
-
 <!-- ═══════════════════════════════════════════════ S4b: EVERY TURN ══ -->
 <section id="s4b-turns" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Every Turn Is A Lesson</h2>
@@ -6611,739 +7344,6 @@
   }
 })();
 </script>
-
-<!-- ═══════════════════════════════════════════════ S-SPIRAL: SPIRALS ══ -->
-<section id="s-spiral" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">Spirals In The Universe</h2>
-  <p class="spiral-subtitle eg-fade-in">The board is a spiral &mdash; because gravity, when met with motion and energy loss, manifests as spirals everywhere in the universe.</p>
-
-  <!-- Desktop: tiles flanking spiral -->
-  <div class="spiral-stage eg-fade-in">
-    <div class="spiral-side">
-      <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
-      <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
-    </div>
-    <div class="spiral-wrap">
-      <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="spiral-board-display.webp" alt="EscapeGravity Spiral Board">
-      <p class="spiral-hint">Scroll, click or double-click to spin</p>
-    </div>
-    <div class="spiral-side">
-      <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-      <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
-    </div>
-  </div>
-
-  <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
-  <div class="spiral-row-mobile eg-fade-in">
-    <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
-    <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.jpg" alt="Galaxy spiral"></div>
-    <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-    <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
-  </div>
-</section>
-
-<!-- ═══════════════════════════════════════════════ S-LAYERS: 9 LAYERS ══ -->
-<section id="s-layers" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">Each Ring Is A Layer Of Earth Or Its Atmosphere</h2>
-  <p class="page-desc eg-fade-in">9 concentric rings on the spiral board map to 9 real layers &mdash; from Earth&rsquo;s core to outer space.</p>
-
-  <div class="layers-grid eg-fade-in">
-    <div class="layer-card" style="--lc:#d6352d;--lg:linear-gradient(90deg,#ffb060,#ff7236,#d6352d,#8a1a14);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Core</div>
-      <div class="layer-tiles">Tile 0</div>
-    </div>
-    <div class="layer-card" style="--lc:#7f4a22;--lg:linear-gradient(90deg,#3e1f0a,#5a3018,#7f4a22,#a06a35,#c89860);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Mantle</div>
-      <div class="layer-tiles">Tiles 1 &ndash; 4</div>
-    </div>
-    <div class="layer-card" style="--lc:#cbb560;--lg:linear-gradient(90deg,#9c8235,#b59c48,#cbb560,#e5d290,#f4e4ae);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Crust</div>
-      <div class="layer-tiles">Tiles 5 &ndash; 9</div>
-    </div>
-    <div class="layer-card" style="--lc:#4fa771;--lg:linear-gradient(90deg,#1f5532,#2d6a3f,#4fa771,#6dc090,#9fdcb6);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Surface</div>
-      <div class="layer-tiles">Tiles 10 &ndash; 17</div>
-    </div>
-    <div class="layer-card" style="--lc:#8ea4c4;--lg:linear-gradient(90deg,#3f5872,#5b7890,#8ea4c4,#b3c4e0,#d2deef);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Troposphere</div>
-      <div class="layer-tiles">Tiles 18 &ndash; 23</div>
-    </div>
-    <div class="layer-card" style="--lc:#7b80b5;--lg:linear-gradient(90deg,#383c70,#494e8a,#696ea0,#8e93c5,#b3b8df);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Stratosphere</div>
-      <div class="layer-tiles">Tiles 24 &ndash; 30</div>
-    </div>
-    <div class="layer-card" style="--lc:#a87ba8;--lg:linear-gradient(90deg,#603e60,#7a5878,#946890,#a87ba8,#c294be);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Mesosphere</div>
-      <div class="layer-tiles">Tiles 31 &ndash; 39</div>
-    </div>
-    <div class="layer-card" style="--lc:#c96a7a;--lg:linear-gradient(90deg,#7a2b3a,#9e3d4f,#c96a7a,#db8595,#ecaab8);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Thermosphere</div>
-      <div class="layer-tiles">Tiles 40 &ndash; 44, 46, 47</div>
-    </div>
-    <div class="layer-card layer-iss" style="--lc:#f0c846;--lg:linear-gradient(90deg,#a8801c,#d4a82e,#f0c846,#fadc78,#fff0b0);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">ISS</div>
-      <div class="layer-tiles">Tile 45 &mdash; Mission Stop</div>
-    </div>
-    <div class="layer-card" style="--lc:#8f3d6b;--lg:linear-gradient(90deg,#3a0f24,#5a1f3e,#722d54,#8f3d6b,#aa5283);">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Exosphere</div>
-      <div class="layer-tiles">Tiles 48 &ndash; 54</div>
-    </div>
-    <div class="layer-card layer-iss" style="--lc:#f0c846;--lg:linear-gradient(90deg,#806010,#a8801c,#d4a82e,#f0c846,#fadc78);grid-column:span 2;">
-      <div class="layer-swatch"></div>
-      <div class="layer-name">Lagrange Points L1 &ndash; L4</div>
-      <div class="layer-tiles">L4 &mdash; Extended Mission Stop</div>
-    </div>
-  </div>
-</section>
-
-<style>
-/* ── Spirals section ─────────────────────────────────── */
-.spiral-subtitle {
-  font-family: 'Futura', sans-serif;
-  font-size: clamp(15px, 1.7vw, 21px);
-  color: rgba(255,255,255,0.72);
-  text-align: center;
-  max-width: 720px;
-  margin: 0 auto clamp(20px, 3vh, 36px);
-  line-height: 1.5;
-  padding: 0 clamp(16px,4vw,40px);
-}
-
-/* Desktop: tiles | spiral | tiles */
-.spiral-stage {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: clamp(16px, 2.5vw, 32px);
-  max-width: 1300px;
-  margin: 0 auto;
-  padding: 0 clamp(12px,3vw,30px);
-}
-.spiral-side {
-  display: flex;
-  flex-direction: column;
-  gap: clamp(12px, 2vw, 20px);
-  flex-shrink: 0;
-  width: clamp(200px, 26vw, 320px);
-}
-.spiral-wrap {
-  text-align: center;
-  flex-shrink: 0;
-}
-.spiral-img {
-  width: clamp(280px, 44vw, 560px);
-  height: auto;
-  display: inline-block;
-  cursor: pointer;
-  transition: transform 0.05s linear;
-  user-select: none;
-  -webkit-user-select: none;
-  -webkit-touch-callout: none;
-  -webkit-tap-highlight-color: transparent;
-  outline: none;
-  filter: drop-shadow(0 18px 50px rgba(0,0,0,0.55))
-          drop-shadow(0 0 80px rgba(156,188,20,0.18));
-  transform-origin: center center;
-}
-.spiral-img:focus,
-.spiral-img:active { outline: none; }
-.spiral-hint {
-  font-family: 'Futura', sans-serif;
-  font-size: clamp(12px, 1.2vw, 15px);
-  color: rgba(255,255,255,0.5);
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  margin-top: -8px;
-  position: relative;
-  z-index: 5;
-}
-
-
-/* Side example tiles */
-.spiral-ex img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: clamp(8px, 1.2vw, 14px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.45);
-  display: block;
-}
-
-/* Hide mobile scroll row on desktop */
-.spiral-row-mobile { display: none; }
-
-@media (max-width: 900px) {
-  /* Hide desktop side columns; show only spiral, then mobile scroll row */
-  .spiral-side { display: none; }
-  .spiral-stage { display: block; text-align: center; }
-  .spiral-img { width: clamp(280px, 70vw, 560px); }
-  .spiral-row-mobile {
-    display: flex;
-    gap: clamp(10px, 3vw, 16px);
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scroll-snap-type: x mandatory;
-    padding: clamp(18px, 3vh, 26px) clamp(12px, 4vw, 24px) 0;
-  }
-  .spiral-row-mobile .spiral-ex {
-    flex: 0 0 65%;
-    scroll-snap-align: center;
-  }
-}
-@media (max-width: 560px) {
-  .spiral-img { width: 92vw; }
-}
-</style>
-
-<script>
-(function(){
-  var img = document.getElementById('spiral-board');
-  if (!img) return;
-
-  var angle = 0;
-  var clickDir = 1;
-  var dblDir = 1;
-  var spinning = false;
-
-  function setAngle(a) {
-    angle = a;
-    img.style.transform = 'rotate(' + a + 'deg)';
-  }
-
-  // ── Scroll: rotate with scroll delta when section is in view ──
-  var section = document.getElementById('s-spiral');
-  var lastY = window.pageYOffset;
-  window.addEventListener('scroll', function() {
-    if (!section) return;
-    var rect = section.getBoundingClientRect();
-    if (rect.bottom < 0 || rect.top > window.innerHeight) {
-      lastY = window.pageYOffset;
-      return;
-    }
-    var y = window.pageYOffset;
-    var delta = y - lastY;
-    lastY = y;
-    setAngle(angle + delta * 0.4);
-  }, { passive: true });
-
-  // ── Single click: 1 full spin, alternating direction ──
-  img.addEventListener('click', function() {
-    if (spinning) return;
-    spinning = true;
-    var target = angle + clickDir * 360;
-    clickDir *= -1;
-    animateSpin(target, 900, function() { spinning = false; });
-  });
-
-  // ── Double click: 5 full spins, alternating direction ──
-  img.addEventListener('dblclick', function(e) {
-    e.preventDefault();
-    spinning = true;
-    var target = angle + dblDir * 360 * 5;
-    dblDir *= -1;
-    animateSpin(target, 2500, function() { spinning = false; });
-  });
-
-  function animateSpin(target, duration, cb) {
-    var start = angle;
-    var startTime = null;
-    function frame(ts) {
-      if (!startTime) startTime = ts;
-      var t = Math.min((ts - startTime) / duration, 1);
-      var e = 1 - Math.pow(1 - t, 3);
-      setAngle(start + (target - start) * e);
-      if (t < 1) requestAnimationFrame(frame);
-      else { setAngle(target); if (cb) cb(); }
-    }
-    requestAnimationFrame(frame);
-  }
-})();
-</script>
-
-<!-- ═══════════════════════════════════════════════ S-FORCES ══ -->
-<section id="s-forces" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">Forces Against Gravity</h2>
-  <p class="forces-subtitle eg-fade-in">Nothing exists alone in nature &mdash; true for gravity too. Every force interacts with others: some reinforce, some resist, and together they shape how everything moves.</p>
-  <p class="forces-subtitle eg-fade-in" style="margin-top:0;">The game reflects this. There are 13 forces across 7 categories &mdash; players earn these force cards by doing physical challenges, then use them to escape the gravity wells on the board.</p>
-
-  <!-- Wrap icons + panels for side-by-side desktop layout -->
-  <div class="forces-layout eg-fade-in">
-
-  <!-- 7 Category icons -->
-  <div class="forces-icons" id="forces-icons">
-    <button class="forces-icon active" data-cat="earth">
-      <img loading="lazy" decoding="async" src="IMG_4700.png" alt="Earth">
-      <span>Earth</span>
-    </button>
-    <button class="forces-icon" data-cat="air">
-      <img loading="lazy" decoding="async" src="IMG_4702.png" alt="Air">
-      <span>Air</span>
-    </button>
-    <button class="forces-icon" data-cat="water">
-      <img loading="lazy" decoding="async" src="IMG_4701.png" alt="Water">
-      <span>Water</span>
-    </button>
-    <button class="forces-icon" data-cat="body">
-      <img loading="lazy" decoding="async" src="IMG_4705.png" alt="Body">
-      <span>Body</span>
-    </button>
-    <button class="forces-icon" data-cat="speed">
-      <img loading="lazy" decoding="async" src="IMG_4704.png" alt="Speed">
-      <span>Speed</span>
-    </button>
-    <button class="forces-icon" data-cat="energy">
-      <img loading="lazy" decoding="async" src="IMG_4703.png" alt="Energy">
-      <span>Energy</span>
-    </button>
-    <button class="forces-icon" data-cat="balance">
-      <img loading="lazy" decoding="async" src="IMG_4706.png" alt="Balance">
-      <span>Balance</span>
-    </button>
-  </div>
-
-  <!-- Force card panels — one per category -->
-  <div class="forces-panel active" data-cat="earth">
-    <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5106.jpeg" alt="Normal Force"></div>
-    </div>
-  </div>
-
-  <div class="forces-panel" data-cat="air">
-    <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5120.jpeg" alt="Air Resistance"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5118.jpeg" alt="Airlift"></div>
-    </div>
-  </div>
-
-  <div class="forces-panel" data-cat="water">
-    <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5116.jpeg" alt="Buoyancy"></div>
-    </div>
-  </div>
-
-  <div class="forces-panel" data-cat="body">
-    <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5114.jpeg" alt="Weight"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5112.jpeg" alt="Physical Work"></div>
-    </div>
-  </div>
-
-  <div class="forces-panel" data-cat="speed">
-    <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5098.jpeg" alt="Sideways Velocity"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5096.jpeg" alt="Escape Velocity"></div>
-    </div>
-  </div>
-
-  <div class="forces-panel" data-cat="energy">
-    <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5102.jpeg" alt="Magnetic Force"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5100.jpeg" alt="Elastic Energy"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5104.jpeg" alt="Knowledge"></div>
-    </div>
-  </div>
-
-  <div class="forces-panel" data-cat="balance">
-    <div class="forces-cards">
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5110.jpeg" alt="Center of Gravity"></div>
-      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5108.jpeg" alt="Neutral Pull"></div>
-    </div>
-  </div>
-  </div><!-- /forces-layout -->
-</section>
-
-<style>
-/* ── Forces Against Gravity ──────────────────────────── */
-.forces-subtitle {
-  font-family: 'Futura', sans-serif;
-  font-size: clamp(15px, 1.7vw, 21px);
-  color: rgba(255,255,255,0.65);
-  text-align: center;
-  max-width: 640px;
-  margin: 0 auto clamp(20px, 3vh, 32px);
-  line-height: 1.5;
-}
-
-/* Desktop: icons left, cards right — centered on screen */
-.forces-layout {
-  display: flex;
-  gap: clamp(20px, 3vw, 40px);
-  align-items: center;
-  justify-content: center;
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 clamp(16px, 3vw, 40px);
-}
-
-/* Icon grid — 2 columns on desktop */
-.forces-icons {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: clamp(6px, 0.8vw, 12px);
-  flex-shrink: 0;
-  align-content: start;
-}
-.forces-icon {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 6px;
-  background: rgba(18,8,38,0.5);
-  border: 1px solid rgba(156,188,20,0.15);
-  border-radius: clamp(10px, 1.5vw, 16px);
-  padding: clamp(10px, 1.5vw, 18px) clamp(12px, 1.8vw, 22px);
-  cursor: pointer;
-  transition: all 0.3s ease;
-  flex-shrink: 0;
-  color: rgba(255,255,255,0.5);
-}
-.forces-icon svg, .forces-icon img {
-  width: clamp(28px, 4vw, 44px);
-  height: clamp(28px, 4vw, 44px);
-  object-fit: contain;
-}
-.forces-icon span {
-  font-family: 'Futura', sans-serif;
-  font-size: clamp(11px, 1.2vw, 15px);
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  white-space: nowrap;
-}
-.forces-icon:hover {
-  color: rgba(255,255,255,0.8);
-  border-color: rgba(156,188,20,0.4);
-}
-.forces-icon.active {
-  color: #9cbc14;
-  border-color: #9cbc14;
-  background: rgba(156,188,20,0.1);
-}
-
-/* Panels — fill remaining space */
-.forces-panel {
-  display: none;
-  flex: 1 1 0%;
-  min-width: 0;
-  width: 100%;
-}
-.forces-panel.active { display: block; }
-
-/* Cards row — horizontally scrollable when overflowing */
-.forces-cards {
-  display: flex;
-  /* `safe center` keeps content centered when it fits, but falls back to
-     start-alignment when it overflows so leading cards aren't clipped. */
-  justify-content: safe center;
-  gap: clamp(12px, 2vw, 20px);
-  padding: 10px clamp(8px, 2vw, 20px);
-  overflow-x: auto;
-  overflow-y: hidden;
-  -webkit-overflow-scrolling: touch;
-  scroll-snap-type: x mandatory;
-  scroll-padding-inline: clamp(12px, 3vw, 24px);
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-}
-.forces-card-slot {
-  flex-shrink: 0;
-  scroll-snap-align: center;
-  transition: transform 0.4s cubic-bezier(.4,0,.2,1);
-}
-.forces-card-slot:hover {
-  transform: translateY(-8px) scale(1.04);
-}
-.forces-card-slot img {
-  width: clamp(180px, 28vw, 300px);
-  border-radius: clamp(10px, 1.5vw, 16px);
-  box-shadow: 0 6px 28px rgba(0,0,0,0.5);
-  display: block;
-  transition: box-shadow 0.4s ease;
-}
-.forces-card-slot:hover img {
-  box-shadow: 0 12px 40px rgba(156,188,20,0.25), 0 6px 20px rgba(0,0,0,0.5);
-}
-.forces-card-placeholder {
-  width: clamp(140px, 22vw, 220px);
-  height: clamp(196px, 30vw, 308px);
-  border-radius: clamp(8px, 1.2vw, 14px);
-  border: 2px dashed rgba(156,188,20,0.3);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  font-family: 'Futura', sans-serif;
-  font-size: clamp(13px, 1.4vw, 17px);
-  color: rgba(255,255,255,0.3);
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-@media (max-width: 680px) {
-  .forces-layout {
-    flex-direction: column;
-    align-items: stretch;
-    width: 100%;
-    padding: 0;
-  }
-  .forces-icons {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    width: 100%;
-    max-width: 100%;
-    justify-content: flex-start;
-    padding: 0 12px;
-    box-sizing: border-box;
-  }
-  .forces-panel {
-    width: 100%;
-    max-width: 100%;
-    min-width: 0;
-  }
-  .forces-cards {
-    justify-content: flex-start;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scroll-snap-type: x mandatory;
-    width: 100%;
-    max-width: 100%;
-    box-sizing: border-box;
-    padding: 10px 16px;
-  }
-  .forces-card-slot {
-    flex-shrink: 0;
-    scroll-snap-align: center;
-  }
-  .forces-card-slot img { width: clamp(180px, 60vw, 260px); }
-}
-</style>
-
-<script>
-(function(){
-  var icons = document.querySelectorAll('.forces-icon');
-  var panels = document.querySelectorAll('.forces-panel');
-  icons.forEach(function(icon) {
-    icon.addEventListener('click', function() {
-      var cat = icon.getAttribute('data-cat');
-      icons.forEach(function(i) { i.classList.remove('active'); });
-      icon.classList.add('active');
-      panels.forEach(function(p) {
-        p.classList.toggle('active', p.getAttribute('data-cat') === cat);
-      });
-    });
-  });
-})();
-</script>
-
-<!-- ═══════════════════════════════════════════════ S-EXPERIENCE ══ -->
-<section id="s-experience" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">A Learning Game Where Gravity Is Experienced, Not Just Read About</h2>
-  <p class="eg-fade-in" style="font-family:'Futura',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
-
-  <div class="exp-grid eg-fade-in">
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5232.webp" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5067.webp" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5068.webp" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5062.webp" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5071.webp" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5064.webp" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5066.webp" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5069.webp" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5070.webp" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5065.webp" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
-  </div>
-</section>
-
-<style>
-/* ── Gravity Is Experienced ──────────────────────────── */
-.exp-grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: clamp(14px, 2.6vw, 28px);
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 clamp(12px, 3vw, 40px);
-}
-
-/* Just the illustration — no card, no background. Tile rotates
-   slightly per nth-child so the row reads as playful rather than
-   gridded. */
-.exp-item {
-  position: relative;
-  cursor: pointer;
-  user-select: none;
-  outline: none;
-  -webkit-tap-highlight-color: transparent;
-  padding-bottom: 18px; /* room for caption on hover */
-  /* Entrance starting state — invisible, sunk, compact. Stagger
-     transition-delay per nth-child once .exp-grid.visible is set. */
-  --r: 0deg;
-  opacity: 0;
-  transform: translateY(22px) scale(0.85) rotate(var(--r));
-  transition:
-    opacity .55s cubic-bezier(.34, 1.56, .64, 1),
-    transform .55s cubic-bezier(.34, 1.56, .64, 1);
-  will-change: transform, opacity;
-}
-.exp-item img {
-  width: 100%;
-  display: block;
-  filter: drop-shadow(0 6px 14px rgba(0,0,0,0.45));
-  transition: filter .3s ease;
-  pointer-events: none;
-}
-.exp-caption {
-  position: absolute;
-  left: 0; right: 0; bottom: -4px;
-  font-family: 'Futura', sans-serif;
-  font-size: clamp(12px, 1.3vw, 15px);
-  line-height: 1.15;
-  color: #c0e638;
-  text-align: center;
-  letter-spacing: 0.3px;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.7), 0 0 10px rgba(156,188,20,0.35);
-  opacity: 0;
-  transform: translateY(6px);
-  transition: opacity .25s ease, transform .25s ease;
-  pointer-events: none;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-/* Assign each tile a small random-feel rotation so the grid reads
-   as scattered rather than a neat table. */
-.exp-item:nth-child(1)  { --r: -4deg; }
-.exp-item:nth-child(2)  { --r:  3deg; }
-.exp-item:nth-child(3)  { --r: -2deg; }
-.exp-item:nth-child(4)  { --r:  5deg; }
-.exp-item:nth-child(5)  { --r: -3deg; }
-.exp-item:nth-child(6)  { --r:  2deg; }
-.exp-item:nth-child(7)  { --r: -5deg; }
-.exp-item:nth-child(8)  { --r:  4deg; }
-.exp-item:nth-child(9)  { --r: -2deg; }
-.exp-item:nth-child(10) { --r:  3deg; }
-
-/* Visible state — tiles settle into their rotation. Staggered delay
-   per nth-child so they pop in one after another. */
-.exp-grid.visible .exp-item {
-  opacity: 1;
-  transform: translateY(0) scale(1) rotate(var(--r));
-}
-.exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms,   0ms; }
-.exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms,  80ms; }
-.exp-grid.visible .exp-item:nth-child(3)  { transition-delay: 160ms, 160ms; }
-.exp-grid.visible .exp-item:nth-child(4)  { transition-delay: 240ms, 240ms; }
-.exp-grid.visible .exp-item:nth-child(5)  { transition-delay: 320ms, 320ms; }
-.exp-grid.visible .exp-item:nth-child(6)  { transition-delay: 400ms, 400ms; }
-.exp-grid.visible .exp-item:nth-child(7)  { transition-delay: 480ms, 480ms; }
-.exp-grid.visible .exp-item:nth-child(8)  { transition-delay: 560ms, 560ms; }
-.exp-grid.visible .exp-item:nth-child(9)  { transition-delay: 640ms, 640ms; }
-.exp-grid.visible .exp-item:nth-child(10) { transition-delay: 720ms, 720ms; }
-
-/* Hover / tap / focus — straighten, lift, brighten shadow, reveal caption */
-.exp-grid.visible .exp-item:hover,
-.exp-grid.visible .exp-item:focus,
-.exp-grid.visible .exp-item:focus-within,
-.exp-grid.visible .exp-item.is-active {
-  transform: translateY(-10px) scale(1.06) rotate(0deg);
-  z-index: 3;
-  transition-delay: 0ms;
-}
-.exp-grid.visible .exp-item:hover img,
-.exp-grid.visible .exp-item:focus img,
-.exp-grid.visible .exp-item:focus-within img,
-.exp-grid.visible .exp-item.is-active img {
-  filter:
-    drop-shadow(0 10px 22px rgba(0,0,0,0.55))
-    drop-shadow(0 0 14px rgba(156,188,20,0.45));
-}
-.exp-grid.visible .exp-item:hover .exp-caption,
-.exp-grid.visible .exp-item:focus .exp-caption,
-.exp-grid.visible .exp-item:focus-within .exp-caption,
-.exp-grid.visible .exp-item.is-active .exp-caption {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-@media (max-width: 600px) {
-  .exp-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
-  .exp-caption { font-size: 11px; }
-  /* No stagger on mobile — all items appear together */
-  .exp-grid.visible .exp-item { transition-delay: 0ms !important; }
-}
-@media (prefers-reduced-motion: reduce) {
-  .exp-item,
-  .exp-grid.visible .exp-item {
-    transition: opacity .3s ease;
-    transform: none !important;
-  }
-  .exp-grid.visible .exp-item { opacity: 1; }
-}
-</style>
-<script>
-(function(){
-  // Polaroid tiles: tap to reveal caption on touch devices.
-  // On desktop :hover handles it; this script also makes tap-away
-  // close any stuck-active tile.
-  var grid = document.querySelector('.exp-grid');
-  if (!grid) return;
-  grid.addEventListener('click', function(e){
-    var tile = e.target.closest('.exp-item');
-    // Clear previously active tile(s)
-    grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
-      if (el !== tile) el.classList.remove('is-active');
-    });
-    if (tile) tile.classList.toggle('is-active');
-  });
-  document.addEventListener('click', function(e){
-    if (!e.target.closest('.exp-grid')) {
-      grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
-        el.classList.remove('is-active');
-      });
-    }
-  });
-
-  // Soft pop sound on each individual illustration hover/tap
-  var expAc = null;
-  function playExpPop() {
-    try {
-      if (!expAc) expAc = new (window.AudioContext || window.webkitAudioContext)();
-      if (expAc.state === 'suspended') expAc.resume();
-      var osc = expAc.createOscillator();
-      var gain = expAc.createGain();
-      osc.type = 'sine';
-      osc.frequency.setValueAtTime(680 + Math.random() * 200, expAc.currentTime);
-      osc.frequency.exponentialRampToValueAtTime(280, expAc.currentTime + 0.12);
-      gain.gain.setValueAtTime(0.08, expAc.currentTime);
-      gain.gain.exponentialRampToValueAtTime(0.001, expAc.currentTime + 0.15);
-      osc.connect(gain);
-      gain.connect(expAc.destination);
-      osc.start();
-      osc.stop(expAc.currentTime + 0.18);
-    } catch(err) {}
-  }
-  grid.querySelectorAll('.exp-item').forEach(function(item) {
-    item.addEventListener('pointerenter', playExpPop);
-  });
-})();
-</script>
-<style>
-/* (stylesheet continuation — sentinel so the next <style> tag closes cleanly) */
-</style>
 
 <!-- ═══════════════════════════════════════════════ S-GAME: MINI GAME ══ -->
 <section id="s-game" class="eg-section">
@@ -8402,7 +8402,7 @@
     <div class="s5-card eg-fade-in">
       <div class="s5-icon"><svg viewBox="0 0 48 48"><circle cx="24" cy="16" r="10"/><path d="M14 40 L24 28 L34 40"/><path d="M20 16 L24 12 L28 16 L24 20 Z"/></svg></div>
       <h3>Science Learning</h3>
-      <p>Questions from physics to biology. Learn while you play and boost your trajectory!</p>
+      <p>Physical challenges connect gravity &amp; forces to real motion, while thinking cues deepen understanding every turn.</p>
     </div>
 
     <div class="s5-card eg-fade-in">
