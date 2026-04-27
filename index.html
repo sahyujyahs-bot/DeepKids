@@ -300,9 +300,11 @@
       .hero-tags { margin-bottom: 2px; }
       .title {
         font-size: clamp(36px, 9vw, 56px) !important;
-        margin-bottom: 6px !important;
+        margin-bottom: 12px !important;
         padding: 4px clamp(10px,2vw,18px) !important;
       }
+      .hero-tags { letter-spacing: 0.3px !important; }
+      .hero-tag { letter-spacing: clamp(1px, 0.5vw, 2px) !important; padding: 5px clamp(10px,2vw,18px) !important; }
       .subtitle {
         font-size: clamp(11px, 3.6vw, 18px) !important;
         margin-bottom: 6px !important;
@@ -327,7 +329,7 @@
        title itself. Think ™ badge placement. */
     .hero-tm {
       position: absolute;
-      top: 6px;
+      top: -6px;
       right: clamp(10px, 1vw, 18px);
       transform: none;
       font-family: 'Futura', sans-serif;
@@ -355,7 +357,7 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        top: 4px;
+        top: -4px;
         right: 6px;
         font-size: clamp(7px, 2.2vw, 10px);
         padding: 2px 6px;
@@ -2253,39 +2255,41 @@
     font-weight: 500;
   }
 
-  /* Card 1: Bathtime — kid bubble top-left */
+  /* Card 1: Bath — boy's cloud top-left, above faces */
   .ps-card-bath .ps-cloud-kid {
-    top: 2%;
-    left: 4%;
+    top: -2%;
+    left: 3%;
     max-width: 48%;
   }
 
-  /* Card 2: Dinner — kid cloud bottom-left */
+  /* Card 2: Dinner — girl's cloud bottom-left, below faces */
   .ps-card-dinner .ps-cloud-kid {
-    bottom: 6%;
+    bottom: 2%;
     top: auto;
-    left: 3%;
+    left: 2%;
     max-width: 52%;
   }
 
-  /* Card 3: School — teacher top-right, kid top-left */
+  /* Card 3: School — teacher cloud very top-right, kid cloud top-left */
   .ps-card-school .ps-cloud-adult {
-    top: 1%;
+    top: -2%;
     right: 2%;
     left: auto;
-    max-width: 42%;
+    max-width: 40%;
   }
   .ps-card-school .ps-cloud-kid {
-    top: 14%;
-    left: 3%;
-    max-width: 46%;
+    top: 8%;
+    left: 2%;
+    max-width: 44%;
   }
 
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
-    .ps-card-dinner .ps-cloud-kid { bottom: 3%; top: auto; }
-    .ps-card-school .ps-cloud-kid { top: 10%; }
+    .ps-card-bath .ps-cloud-kid { top: -4%; }
+    .ps-card-dinner .ps-cloud-kid { bottom: 0%; top: auto; }
+    .ps-card-school .ps-cloud-adult { top: -4%; }
+    .ps-card-school .ps-cloud-kid { top: 5%; }
   }
 </style>
 
