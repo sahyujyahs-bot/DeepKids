@@ -8712,11 +8712,11 @@
     .more-grid { justify-content: flex-start; }
   }
   .more-card {
-    flex: 0 0 clamp(200px, 32vw, 260px);
+    flex: 0 0 clamp(260px, 38vw, 340px);
     background: rgba(10,6,24,0.5);
     border: 1px solid rgba(156,188,20,0.12);
     border-radius: 16px;
-    padding: clamp(20px, 2.5vw, 28px) clamp(14px, 1.8vw, 20px);
+    overflow: hidden;
     text-align: center;
     transition: transform 0.3s ease, border-color 0.3s ease;
   }
@@ -8724,9 +8724,14 @@
     transform: translateY(-4px);
     border-color: rgba(156,188,20,0.35);
   }
-  .more-icon {
-    font-size: clamp(36px, 5vw, 48px);
-    margin-bottom: clamp(8px, 1.2vh, 14px);
+  .more-card-img {
+    width: 100%;
+    display: block;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+  }
+  .more-card-body {
+    padding: clamp(14px, 2vw, 22px) clamp(12px, 1.5vw, 18px);
   }
   .more-title {
     font-family: 'Norwester', sans-serif;
@@ -8760,28 +8765,36 @@
 
   <div class="more-grid">
     <div class="more-card eg-fade-in">
-      <div class="more-icon">🏛️</div>
-      <div class="more-title">Indian History Board Game</div>
-      <div class="more-desc">6 time periods from 7000 BCE to today. 52+ empires, 500+ cards across geography, culture, trade, art, science and more. Place tokens on a detailed map board. Make your own 3D tokens with air dry clay.</div>
-      <div class="more-tag">In Development</div>
+      <img class="more-card-img" src="more-history.webp" alt="Indian History Board Game — map board with empires" decoding="async">
+      <div class="more-card-body">
+        <div class="more-title">Indian History Board Game</div>
+        <div class="more-desc">6 time periods from 7000 BCE to today. 52+ empires, 500+ cards across geography, culture, trade, art, science and more.</div>
+        <div class="more-tag">In Development</div>
+      </div>
     </div>
     <div class="more-card eg-fade-in">
-      <div class="more-icon">🃏</div>
-      <div class="more-title">Sci. Trading Cards</div>
-      <div class="more-desc">Scientists trading cards — collect, trade, and battle. Well-researched, bias-free, featuring underdog scientists and ideas kids won't find in textbooks. New sets launch with every DeepKids game.</div>
-      <div class="more-tag">In Development</div>
+      <img class="more-card-img" src="more-sci.webp" alt="Sci. Scientists Trading Cards" decoding="async">
+      <div class="more-card-body">
+        <div class="more-title">Sci. Trading Cards</div>
+        <div class="more-desc">Scientists trading cards — collect, trade, and battle. Bias-free, featuring underdog scientists kids won't find in textbooks.</div>
+        <div class="more-tag">In Development</div>
+      </div>
     </div>
     <div class="more-card eg-fade-in">
-      <div class="more-icon">📖</div>
-      <div class="more-title">Evolution Picture Book</div>
-      <div class="more-desc">A hand-illustrated visual journey through the story of life on Earth — from the first single cells to the complex world we live in today</div>
-      <div class="more-tag">In Development</div>
+      <img class="more-card-img" src="more-evolution.webp" alt="Evolution Picture Book — illustrated pages" decoding="async">
+      <div class="more-card-body">
+        <div class="more-title">Evolution Picture Book</div>
+        <div class="more-desc">A hand-illustrated visual journey through the story of life on Earth — from single cells to the world we know.</div>
+        <div class="more-tag">In Development</div>
+      </div>
     </div>
     <div class="more-card eg-fade-in">
-      <div class="more-icon">🌍</div>
-      <div class="more-title">Who Pulls Whom?</div>
-      <div class="more-desc">A gravity card game. Play element cards that can drag others based on mass and energy. Predict outcomes, verify, score points. Learn what factors really affect gravity.</div>
-      <div class="more-tag">In Development</div>
+      <img class="more-card-img" src="more-whopulls.webp" alt="Who Pulls Whom gravity card game — element cards" decoding="async">
+      <div class="more-card-body">
+        <div class="more-title">Who Pulls Whom?</div>
+        <div class="more-desc">A gravity card game. Play element cards that drag others based on mass and energy. Predict outcomes, score points.</div>
+        <div class="more-tag">In Development</div>
+      </div>
     </div>
   </div>
 </section>
