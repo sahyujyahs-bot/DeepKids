@@ -2213,7 +2213,17 @@
     scroll-snap-align: center;
     border-radius: 16px;
     overflow: visible;
+    opacity: 0;
+    transform: translateY(-60px);
+    transition: opacity 0.6s ease, transform 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
   }
+  .ps-card.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .ps-card:nth-child(1) { transition-delay: 0s; }
+  .ps-card:nth-child(2) { transition-delay: 0.15s; }
+  .ps-card:nth-child(3) { transition-delay: 0.3s; }
   .ps-img { border-radius: 16px; }
   .ps-img-wrap {
     position: relative;
@@ -2351,9 +2361,19 @@
       border-radius: 16px;
       border: 1px solid rgba(255,255,255,0.1);
       transition: transform 0.3s ease, border-color 0.3s ease;
+      animation: ps-float 4s ease-in-out infinite;
+      animation-play-state: paused;
+    }
+    .ps-reason:nth-child(odd)  { animation-delay: 0s; }
+    .ps-reason:nth-child(even) { animation-delay: 2s; }
+    .ps-reasons:hover .ps-reason,
+    .ps-reasons.in-view .ps-reason { animation-play-state: running; }
+    @keyframes ps-float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
     }
     .ps-reason:hover {
-      transform: translateY(-4px);
+      transform: translateY(-8px) !important;
       border-color: rgba(255,255,255,0.25);
     }
     .ps-reason:nth-child(1)  { background: linear-gradient(170deg, rgba(76,175,80,0.35) 0%, rgba(76,175,80,0.08) 100%); border-color: rgba(76,175,80,0.3); }
@@ -2475,9 +2495,31 @@
   if (container) {
     container.addEventListener('scroll', function() {
       var scrollLeft = container.scrollLeft;
-      cards.forEach(function(card, i) {
+      cards.forEach(function(card) {
         var offset = (scrollLeft - card.offsetLeft) * 0.05;
         card.style.transform = 'translateX(' + offset + 'px)';
+      });
+    }, { passive: true });
+  }
+
+  // Float animation trigger for selling points
+  var reasonsContainer = document.querySelector('.ps-reasons');
+  if (reasonsContainer && 'IntersectionObserver' in window) {
+    var rObs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        e.target.classList.toggle('in-view', e.isIntersecting);
+      });
+    }, { threshold: 0.1 });
+    rObs.observe(reasonsContainer);
+  }
+
+  // Parallax for selling points
+  if (reasonsContainer) {
+    reasonsContainer.addEventListener('scroll', function() {
+      var scrollLeft = reasonsContainer.scrollLeft;
+      reasons.forEach(function(r) {
+        var offset = (scrollLeft - r.offsetLeft) * 0.04;
+        r.style.transform = 'translateX(' + offset + 'px)';
       });
     }, { passive: true });
   }
@@ -4184,10 +4226,10 @@
      transition-delay per nth-child once .exp-grid.visible is set. */
   --r: 0deg;
   opacity: 0;
-  transform: translateY(22px) scale(0.85) rotate(var(--r));
+  transform: scale(0.3) rotate(180deg);
   transition:
-    opacity .55s cubic-bezier(.34, 1.56, .64, 1),
-    transform .55s cubic-bezier(.34, 1.56, .64, 1);
+    opacity .7s cubic-bezier(.34, 1.56, .64, 1),
+    transform .7s cubic-bezier(.34, 1.56, .64, 1);
   will-change: transform, opacity;
 }
 .exp-item img {
@@ -4233,7 +4275,7 @@
    per nth-child so they pop in one after another. */
 .exp-grid.visible .exp-item {
   opacity: 1;
-  transform: translateY(0) scale(1) rotate(var(--r));
+  transform: scale(1) rotate(0deg);
 }
 .exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms,   0ms; }
 .exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms,  80ms; }
@@ -9327,7 +9369,8 @@
       '.spiral-row-mobile',
       '.forces-cards',
       '.exp-grid',
-      '.parents-stories'
+      '.parents-stories',
+      '.ps-reasons'
     ];
     var els = [];
     selectors.forEach(function(sel){
