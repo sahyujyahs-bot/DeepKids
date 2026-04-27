@@ -2253,18 +2253,11 @@
     max-width: 48%;
   }
 
-  /* Card 2: Dinner — dad mid-right near his head, kid bottom-left near hers */
-  .ps-card-dinner .ps-cloud-adult {
-    top: 18%;
-    right: 2%;
-    left: auto;
-    max-width: 42%;
-  }
+  /* Card 2: Dinner — kid cloud top-left */
   .ps-card-dinner .ps-cloud-kid {
-    bottom: 8%;
-    top: auto;
-    left: 2%;
-    max-width: 48%;
+    top: 3%;
+    left: 3%;
+    max-width: 52%;
   }
 
   /* Card 3: School — teacher top-right, kid top-left */
@@ -2283,7 +2276,7 @@
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
-    .ps-card-dinner .ps-cloud-kid { bottom: 4%; top: auto; }
+    .ps-card-dinner .ps-cloud-kid { top: 2%; }
     .ps-card-school .ps-cloud-kid { top: 10%; }
   }
 </style>
@@ -2304,8 +2297,7 @@
     <div class="ps-card ps-card-dinner eg-fade-in">
       <div class="ps-img-wrap">
         <img class="ps-img" src="Untitled design.png" alt="Family at dinner table discussing feathers and gravity" decoding="async">
-        <div class="ps-cloud ps-cloud-adult ps-cloud-d1">A feather falls slower because it has less gravity acting on it, right?</div>
-        <div class="ps-cloud ps-cloud-kid ps-cloud-d2">Actually Dad, gravity pulls <em>everything</em> the same. The feather falls slower because of <em>air resistance</em>.</div>
+        <div class="ps-cloud ps-cloud-kid ps-cloud-d1">Hey look, a falling feather! Did you know it falls slowly because of <em>air resistance</em>, not because of less gravity?</div>
       </div>
     </div>
 
@@ -2413,8 +2405,8 @@
     </div>
     <div class="ps-reason">
       <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 3l2.5 5 5.5.8-4 3.9.9 5.5L12 15.8l-4.9 2.4.9-5.5-4-3.9 5.5-.8L12 3z" stroke="#9cbc14" stroke-width="2" stroke-linejoin="round"/></svg></div>
-      <div class="ps-reason-title">Right Level Of Challenge</div>
-      <div class="ps-reason-desc">Easy to learn, hard to master. Grows with your child from 7 to teen</div>
+      <div class="ps-reason-title">Appropriately Challenging</div>
+      <div class="ps-reason-desc">Concept-rich, provokes thinking and action. Hard to master, easy to love</div>
     </div>
     <div class="ps-reason">
       <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 20L8 4M12 20c0-8 8-8 8-16" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="6" cy="12" r="2" fill="#9cbc14" opacity=".4"/><circle cx="16" cy="10" r="1.5" fill="#9cbc14" opacity=".6"/></svg></div>
@@ -2434,7 +2426,7 @@
     <div class="ps-reason">
       <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M17 21v-2a4 4 0 00-4-4H5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="9" cy="7" r="4" stroke="#9cbc14" stroke-width="2"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg></div>
       <div class="ps-reason-title">Family Bonding</div>
-      <div class="ps-reason-desc">Parents play, learn, and get cheerfully corrected by their own kids</div>
+      <div class="ps-reason-desc">Parents will find it just as interesting to play — and get cheerfully corrected</div>
     </div>
     <div class="ps-reason">
       <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><path d="M22 2l-7 7M22 2h-5M22 2v5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
