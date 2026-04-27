@@ -756,7 +756,7 @@
       <div class="hero-tags">
         <span class="hero-tag">Ages 7+ <span class="hero-tag-sep">·</span> 2+ Players <span class="hero-tag-sep">·</span> 30 min Avg Playtime</span>
       </div>
-      <h1 class="title">EscapeGravity<sup class="hero-tm">from <b>DeepKids</b></sup></h1>
+      <h1 class="title">EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
@@ -1460,7 +1460,7 @@
       var clone = document.createElement('div');
       clone.className = 'title-morph';
       clone.setAttribute('aria-hidden', 'true');
-      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">from <b>DeepKids</b></sup>';
+      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
       document.body.appendChild(clone);
 
       var scrollRange, startX, startY, startFontSize,
@@ -2305,7 +2305,7 @@
 </style>
 
 <section id="s-parents" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">Kids Become <em style="color:#9cbc14;font-style:normal;">DeepKids</em></h2>
+  <h2 class="page-h2 eg-fade-in">Kids To <em style="color:#9cbc14;font-style:normal;">DeepKids</em></h2>
   <p class="parents-intro eg-fade-in">Dear parents — your child won't just play a board game. They'll start correcting you at dinner, questioning teachers at school, and spotting science in places you never thought to look.</p>
 
   <div class="parents-stories">
@@ -2474,9 +2474,18 @@
   var reasons = document.querySelectorAll('.ps-reason');
   var clickSound = new Audio('button click sound.wav');
   clickSound.preload = 'auto';
+  var scrollSound = new Audio('cardsscrollsound.wav');
+  scrollSound.preload = 'auto';
+  scrollSound.volume = 0.15;
 
   function playClick() {
     try { var s = clickSound.cloneNode(); s.volume = 0.3; s.play(); } catch(e){}
+  }
+  var scrollTimer = null;
+  function playScrollSound() {
+    if (scrollTimer) return;
+    try { var s = scrollSound.cloneNode(); s.volume = 0.15; s.play(); } catch(e){}
+    scrollTimer = setTimeout(function(){ scrollTimer = null; }, 400);
   }
 
   cards.forEach(function(c) { c.addEventListener('click', playClick); });
@@ -2494,6 +2503,7 @@
   var container = document.querySelector('.parents-stories');
   if (container) {
     container.addEventListener('scroll', function() {
+      playScrollSound();
       var scrollLeft = container.scrollLeft;
       cards.forEach(function(card) {
         var offset = (scrollLeft - card.offsetLeft) * 0.05;
@@ -2516,6 +2526,7 @@
   // Parallax for selling points
   if (reasonsContainer) {
     reasonsContainer.addEventListener('scroll', function() {
+      playScrollSound();
       var scrollLeft = reasonsContainer.scrollLeft;
       reasons.forEach(function(r) {
         var offset = (scrollLeft - r.offsetLeft) * 0.04;
@@ -4226,10 +4237,10 @@
      transition-delay per nth-child once .exp-grid.visible is set. */
   --r: 0deg;
   opacity: 0;
-  transform: scale(0.3) rotate(180deg);
+  transform: scale(0.7) rotate(90deg);
   transition:
-    opacity .7s cubic-bezier(.34, 1.56, .64, 1),
-    transform .7s cubic-bezier(.34, 1.56, .64, 1);
+    opacity .6s ease,
+    transform .6s cubic-bezier(.34, 1.56, .64, 1);
   will-change: transform, opacity;
 }
 .exp-item img {
