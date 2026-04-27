@@ -2199,7 +2199,7 @@
     overflow-x: auto;
     gap: clamp(20px, 3vw, 32px);
     padding: clamp(30px, 4vw, 50px) clamp(16px, 4vw, 48px) 20px;
-    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
   }
@@ -2302,21 +2302,21 @@
 
     <div class="ps-card ps-card-bath eg-fade-in">
       <div class="ps-img-wrap">
-        <img class="ps-img" src="IMG_5314.png" alt="Kid pointing at water spiraling down bathtub drain" decoding="async">
+        <img class="ps-img" src="IMG_5314.webp" alt="Kid pointing at water spiraling down bathtub drain" decoding="async">
         <div class="ps-cloud ps-cloud-kid ps-cloud-d1">Amma look! The water is spiraling down the drain, just like the board! Is <em>gravity</em> pulling it into the core?</div>
       </div>
     </div>
 
     <div class="ps-card ps-card-dinner eg-fade-in">
       <div class="ps-img-wrap">
-        <img class="ps-img" src="Untitled design.png" alt="Family at dinner table discussing feathers and gravity" decoding="async">
+        <img class="ps-img" src="Untitled-design.webp" alt="Family at dinner table discussing feathers and gravity" decoding="async">
         <div class="ps-cloud ps-cloud-kid ps-cloud-d1">Hey Dad, look — a falling feather! Did you know it falls slowly because of <em>air resistance</em>, not because of less gravity?</div>
       </div>
     </div>
 
     <div class="ps-card ps-card-school eg-fade-in">
       <div class="ps-img-wrap">
-        <img class="ps-img" src="IMG_5313.png" alt="Kid raising hand in classroom correcting teacher about gravity" decoding="async">
+        <img class="ps-img" src="IMG_5313.webp" alt="Kid raising hand in classroom correcting teacher about gravity" decoding="async">
         <div class="ps-cloud ps-cloud-adult ps-cloud-d1">Gravity is the force that keeps us on the ground.</div>
         <div class="ps-cloud ps-cloud-kid ps-cloud-d2">Miss, isn't gravity actually trying to pull us <em>into the core</em>? It's the <em>ground</em> that saves us from falling in!</div>
       </div>
@@ -2451,6 +2451,17 @@
 <script>
 (function(){
   var cards = document.querySelectorAll('.ps-card');
+  var reasons = document.querySelectorAll('.ps-reason');
+  var clickSound = new Audio('button click sound.wav');
+  clickSound.preload = 'auto';
+
+  function playClick() {
+    try { var s = clickSound.cloneNode(); s.volume = 0.3; s.play(); } catch(e){}
+  }
+
+  cards.forEach(function(c) { c.addEventListener('click', playClick); });
+  reasons.forEach(function(r) { r.addEventListener('click', playClick); });
+
   if (!cards.length || !('IntersectionObserver' in window)) return;
   var obs = new IntersectionObserver(function(entries) {
     entries.forEach(function(e) {
@@ -2458,6 +2469,18 @@
     });
   }, { threshold: 0.3 });
   cards.forEach(function(c) { obs.observe(c); });
+
+  // Parallax: cards shift horizontally based on scroll position in container
+  var container = document.querySelector('.parents-stories');
+  if (container) {
+    container.addEventListener('scroll', function() {
+      var scrollLeft = container.scrollLeft;
+      cards.forEach(function(card, i) {
+        var offset = (scrollLeft - card.offsetLeft) * 0.05;
+        card.style.transform = 'translateX(' + offset + 'px)';
+      });
+    }, { passive: true });
+  }
 })();
 </script>
 
@@ -4249,7 +4272,7 @@
 }
 
 @media (max-width: 600px) {
-  .exp-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .exp-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
   .exp-caption { font-size: 11px; }
   /* No stagger on mobile — all items appear together */
   .exp-grid.visible .exp-item { transition-delay: 0ms !important; }
@@ -9303,7 +9326,8 @@
     var selectors = [
       '.spiral-row-mobile',
       '.forces-cards',
-      '.exp-grid'
+      '.exp-grid',
+      '.parents-stories'
     ];
     var els = [];
     selectors.forEach(function(sel){
