@@ -2288,8 +2288,8 @@
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); max-width: 55% !important; }
     .ps-card-bath .ps-cloud-kid { top: auto; bottom: 3%; }
-    .ps-card-dinner .ps-cloud-kid { bottom: 1%; }
-    .ps-card-school .ps-cloud-adult { top: 1%; right: 1%; max-width: 38% !important; }
+    .ps-card-dinner .ps-cloud-kid { bottom: -3%; }
+    .ps-card-school .ps-cloud-adult { top: -3%; right: 1%; max-width: 38% !important; }
     .ps-card-school .ps-cloud-kid { top: auto; bottom: 3%; left: 1%; }
   }
 </style>
@@ -2448,6 +2448,18 @@
     </div>
   </div>
 </section>
+<script>
+(function(){
+  var cards = document.querySelectorAll('.ps-card');
+  if (!cards.length || !('IntersectionObserver' in window)) return;
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      e.target.classList.toggle('visible', e.isIntersecting);
+    });
+  }, { threshold: 0.3 });
+  cards.forEach(function(c) { obs.observe(c); });
+})();
+</script>
 
 <section id="s2">
   <h2 class="page-h2 eg-fade-in">The Board Game</h2>
