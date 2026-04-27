@@ -1460,7 +1460,7 @@
       var clone = document.createElement('div');
       clone.className = 'title-morph';
       clone.setAttribute('aria-hidden', 'true');
-      clone.textContent = 'EscapeGravity';
+      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">from <b>DeepKids</b></sup>';
       document.body.appendChild(clone);
 
       var scrollRange, startX, startY, startFontSize,
@@ -2198,7 +2198,7 @@
     display: flex;
     overflow-x: auto;
     gap: clamp(20px, 3vw, 32px);
-    padding: 0 clamp(16px, 4vw, 48px) 20px;
+    padding: clamp(30px, 4vw, 50px) clamp(16px, 4vw, 48px) 20px;
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
@@ -2256,30 +2256,30 @@
     font-weight: 500;
   }
 
-  /* Card 1: Bath — boy's cloud top-left, above faces */
+  /* Card 1: Bath — boy's cloud top-left */
   .ps-card-bath .ps-cloud-kid {
-    top: -2%;
+    top: 3%;
     left: 3%;
     max-width: 48%;
   }
 
-  /* Card 2: Dinner — girl's cloud bottom-left, below faces */
+  /* Card 2: Dinner — girl's cloud bottom-left */
   .ps-card-dinner .ps-cloud-kid {
-    bottom: 2%;
+    bottom: 3%;
     top: auto;
     left: 2%;
     max-width: 52%;
   }
 
-  /* Card 3: School — teacher cloud very top-right, kid cloud top-left */
+  /* Card 3: School — teacher top-right, kid mid-left */
   .ps-card-school .ps-cloud-adult {
-    top: -2%;
+    top: 2%;
     right: 2%;
     left: auto;
     max-width: 40%;
   }
   .ps-card-school .ps-cloud-kid {
-    top: 8%;
+    top: 26%;
     left: 2%;
     max-width: 44%;
   }
@@ -2287,10 +2287,6 @@
   @media (max-width: 768px) {
     .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); }
-    .ps-card-bath .ps-cloud-kid { top: -4%; }
-    .ps-card-dinner .ps-cloud-kid { bottom: 0%; top: auto; }
-    .ps-card-school .ps-cloud-adult { top: -4%; }
-    .ps-card-school .ps-cloud-kid { top: 5%; }
   }
 </style>
 
