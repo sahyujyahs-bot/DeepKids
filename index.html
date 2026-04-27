@@ -8683,6 +8683,204 @@
 })();
 </script>
 
+<!-- ═══════════════════════════════════════════════ UNLEARN ══ -->
+<style>
+  #s-unlearn {
+    padding: clamp(50px,7vh,90px) clamp(16px,4vw,40px);
+    text-align: center;
+  }
+  .unlearn-intro {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(14px, 1.5vw, 19px);
+    color: rgba(255,255,255,0.65);
+    line-height: 1.55;
+    max-width: 680px;
+    margin: 0 auto clamp(32px, 5vh, 48px);
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .unlearn-grid {
+    display: flex;
+    overflow-x: auto;
+    gap: clamp(16px, 2.5vw, 24px);
+    padding: 0 clamp(16px, 4vw, 48px) 20px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    justify-content: center;
+  }
+  .unlearn-grid::-webkit-scrollbar { display: none; }
+  @media (max-width: 768px) {
+    .unlearn-grid { justify-content: flex-start; }
+  }
+  .unlearn-card {
+    flex: 0 0 clamp(250px, 36vw, 320px);
+    perspective: 800px;
+    cursor: pointer;
+  }
+  .unlearn-inner {
+    position: relative;
+    width: 100%;
+    min-height: clamp(300px, 42vw, 400px);
+    transition: transform 0.7s cubic-bezier(0.34, 1.56, 0.64, 1);
+    transform-style: preserve-3d;
+  }
+  .unlearn-card.flipped .unlearn-inner {
+    transform: rotateY(180deg);
+  }
+  .unlearn-front, .unlearn-back {
+    position: absolute;
+    inset: 0;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    border-radius: 16px;
+    padding: clamp(24px, 3vw, 36px) clamp(16px, 2vw, 24px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .unlearn-front {
+    background: linear-gradient(170deg, rgba(40,15,25,0.7) 0%, rgba(10,6,24,0.8) 100%);
+    border: 1px solid rgba(200,50,50,0.25);
+  }
+  .unlearn-back {
+    transform: rotateY(180deg);
+    background: linear-gradient(170deg, rgba(15,35,15,0.7) 0%, rgba(10,6,24,0.8) 100%);
+    border: 1px solid rgba(156,188,20,0.3);
+    text-align: left;
+    justify-content: flex-start;
+    overflow-y: auto;
+  }
+  .unlearn-myth {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(15px, 1.7vw, 20px);
+    color: rgba(255,255,255,0.85);
+    line-height: 1.45;
+    margin-bottom: clamp(16px, 2vh, 24px);
+    text-align: center;
+  }
+  .unlearn-myth em {
+    font-style: normal;
+    color: rgba(255,200,200,0.9);
+  }
+  .unlearn-stamp {
+    font-family: 'Norwester', sans-serif;
+    font-variant: small-caps;
+    font-size: clamp(28px, 4vw, 42px);
+    letter-spacing: 3px;
+    padding: clamp(6px, 1vw, 10px) clamp(16px, 2.5vw, 28px);
+    border: 3px solid;
+    border-radius: 8px;
+    transform: rotate(-8deg);
+    margin-bottom: clamp(12px, 1.5vh, 18px);
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  }
+  .stamp-absurd  { color: #ff4444; border-color: #ff4444; }
+  .stamp-wrong   { color: #ff6633; border-color: #ff6633; }
+  .stamp-false   { color: #ff3355; border-color: #ff3355; }
+  .stamp-incomplete { color: #ffaa22; border-color: #ffaa22; }
+  .unlearn-tap {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(10px, 1.1vw, 13px);
+    color: rgba(255,255,255,0.35);
+    margin-top: auto;
+    letter-spacing: 1px;
+  }
+  .unlearn-truth-title {
+    font-family: 'Norwester', sans-serif;
+    font-variant: small-caps;
+    font-size: clamp(16px, 1.8vw, 22px);
+    color: #9cbc14;
+    margin-bottom: clamp(10px, 1.5vh, 16px);
+    text-align: center;
+    width: 100%;
+  }
+  .unlearn-truth {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(13px, 1.4vw, 16px);
+    color: rgba(255,255,255,0.75);
+    line-height: 1.55;
+  }
+  .unlearn-truth em {
+    font-style: normal;
+    color: #9cbc14;
+    font-weight: 500;
+  }
+  .unlearn-back .unlearn-tap {
+    color: rgba(156,188,20,0.4);
+    margin-top: clamp(12px, 1.5vh, 18px);
+  }
+</style>
+
+<section id="s-unlearn" class="eg-section">
+  <h2 class="page-h2 eg-fade-in">4 Things About Gravity You Were Told. All Wrong.</h2>
+  <p class="unlearn-intro eg-fade-in">You wouldn't believe how much of what we accept as facts are simply false — across topics. We did the research for you, and we hope to fix some holes. These are just 4 examples. About gravity.</p>
+
+  <div class="unlearn-grid">
+
+    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+      <div class="unlearn-inner">
+        <div class="unlearn-front">
+          <div class="unlearn-myth">"If there were <em>no gravity</em>, we would all <em>float away</em> into space."</div>
+          <div class="unlearn-stamp stamp-absurd">Absurd</div>
+          <div class="unlearn-tap">tap to flip</div>
+        </div>
+        <div class="unlearn-back">
+          <div class="unlearn-truth-title">The Truth</div>
+          <div class="unlearn-truth">Without gravity, there IS no space. <em>No stars form.</em> No elements are forged. No planets coalesce. No water, no air, no you. Gravity didn't just put you here — gravity <em>made the atoms you're made of.</em> Float away? There'd be nothing to float, nowhere to float to, and no one to do the floating.</div>
+          <div class="unlearn-tap">tap to flip back</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+      <div class="unlearn-inner">
+        <div class="unlearn-front">
+          <div class="unlearn-myth">"Which force <em>keeps us on the ground</em>?"<br><br>If you said <em>gravity</em>...</div>
+          <div class="unlearn-stamp stamp-wrong">Wrong</div>
+          <div class="unlearn-tap">tap to flip</div>
+        </div>
+        <div class="unlearn-back">
+          <div class="unlearn-truth-title">The Truth</div>
+          <div class="unlearn-truth">Gravity isn't keeping you safe. It's trying to <em>drag you into the molten core</em> of the Earth. Right now. The only thing saving you is the ground <em>pushing back</em> — that's the Normal Force. You're not being held on the surface. You're being <em>rescued from being consumed.</em></div>
+          <div class="unlearn-tap">tap to flip back</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+      <div class="unlearn-inner">
+        <div class="unlearn-front">
+          <div class="unlearn-myth">"Astronauts float in the ISS because of <em>zero gravity</em>."</div>
+          <div class="unlearn-stamp stamp-false">False</div>
+          <div class="unlearn-tap">tap to flip</div>
+        </div>
+        <div class="unlearn-back">
+          <div class="unlearn-truth-title">The Truth</div>
+          <div class="unlearn-truth">The ISS experiences <em>90% of Earth's gravity.</em> Ninety percent. Astronauts aren't weightless — they're <em>falling.</em> Constantly. Plummeting at 28,000 km/h and perpetually missing the ground. That's not zero gravity. That's gravity doing <em>exactly what it does.</em></div>
+          <div class="unlearn-tap">tap to flip back</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+      <div class="unlearn-inner">
+        <div class="unlearn-front">
+          <div class="unlearn-myth">"Gravity <em>pulls things down.</em>"</div>
+          <div class="unlearn-stamp stamp-incomplete">Incomplete</div>
+          <div class="unlearn-tap">tap to flip</div>
+        </div>
+        <div class="unlearn-back">
+          <div class="unlearn-truth-title">The Truth</div>
+          <div class="unlearn-truth">You are gravitationally pulling <em>the Earth toward you</em> right now. Your coffee mug is pulling your phone. The Moon pulls the oceans. Every object with mass pulls <em>every other object</em>, always, everywhere, all at once. "Down" is just the direction of the <em>nearest big thing trying to eat you.</em></div>
+          <div class="unlearn-tap">tap to flip back</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
 <!-- ═══════════════════════════════════════════════ MORE FROM DEEPKIDS ══ -->
 <style>
   #s-more {
