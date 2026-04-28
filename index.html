@@ -4410,20 +4410,6 @@
     grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
       if (el !== tile) el.classList.remove('is-active');
     });
-</style>
-<script>
-(function(){
-  // Polaroid tiles: tap to reveal caption on touch devices.
-  // On desktop :hover handles it; this script also makes tap-away
-  // close any stuck-active tile.
-  var grid = document.querySelector('.exp-grid');
-  if (!grid) return;
-  grid.addEventListener('click', function(e){
-    var tile = e.target.closest('.exp-item');
-    // Clear previously active tile(s)
-    grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
-      if (el !== tile) el.classList.remove('is-active');
-    });
     if (tile) tile.classList.toggle('is-active');
   });
   document.addEventListener('click', function(e){
