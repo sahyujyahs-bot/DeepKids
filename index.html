@@ -2472,66 +2472,50 @@
 (function(){
   var cards = document.querySelectorAll('.ps-card');
   var reasons = document.querySelectorAll('.ps-reason');
-  var clickSound = new Audio('button click sound.wav');
-  clickSound.preload = 'auto';
-  var scrollSound = new Audio('cardsscrollsound.wav');
-  scrollSound.preload = 'auto';
-  scrollSound.volume = 0.15;
-
-  function playClick() {
-    try { var s = clickSound.cloneNode(); s.volume = 0.3; s.play(); } catch(e){}
-  }
-  var scrollTimer = null;
-  function playScrollSound() {
-    if (scrollTimer) return;
-    try { var s = scrollSound.cloneNode(); s.volume = 0.15; s.play(); } catch(e){}
-    scrollTimer = setTimeout(function(){ scrollTimer = null; }, 400);
-  }
+  function gPlay(buf, vol) { if (window.playBoxSound && buf) window.playBoxSound(buf, vol); }
+  function playClick() { gPlay(window._cardFlipBuf, 0.3); }
+  function playScroll() { gPlay(window._cardScrollBuf, 0.15); }
 
   cards.forEach(function(c) { c.addEventListener('click', playClick); });
   reasons.forEach(function(r) { r.addEventListener('click', playClick); });
 
   if (!cards.length || !('IntersectionObserver' in window)) return;
   var obs = new IntersectionObserver(function(entries) {
-    entries.forEach(function(e) {
-      e.target.classList.toggle('visible', e.isIntersecting);
-    });
+    entries.forEach(function(e) { e.target.classList.toggle('visible', e.isIntersecting); });
   }, { threshold: 0.3 });
   cards.forEach(function(c) { obs.observe(c); });
 
-  // Parallax: cards shift horizontally based on scroll position in container
   var container = document.querySelector('.parents-stories');
+  var t1 = null;
   if (container) {
     container.addEventListener('scroll', function() {
-      playScrollSound();
-      var scrollLeft = container.scrollLeft;
-      cards.forEach(function(card) {
-        var offset = (scrollLeft - card.offsetLeft) * 0.05;
-        card.style.transform = 'translateX(' + offset + 'px)';
-      });
+      if (!t1) { playScroll(); t1 = setTimeout(function(){ t1 = null; }, 400); }
+      var sl = container.scrollLeft;
+      cards.forEach(function(card) { card.style.transform = 'translateX(' + ((sl - card.offsetLeft) * 0.05) + 'px)'; });
     }, { passive: true });
   }
 
-  // Float animation trigger for selling points
-  var reasonsContainer = document.querySelector('.ps-reasons');
-  if (reasonsContainer && 'IntersectionObserver' in window) {
+  var rc = document.querySelector('.ps-reasons');
+  if (rc && 'IntersectionObserver' in window) {
     var rObs = new IntersectionObserver(function(entries) {
-      entries.forEach(function(e) {
-        e.target.classList.toggle('in-view', e.isIntersecting);
-      });
+      entries.forEach(function(e) { e.target.classList.toggle('in-view', e.isIntersecting); });
     }, { threshold: 0.1 });
-    rObs.observe(reasonsContainer);
+    rObs.observe(rc);
+  }
+  var t2 = null;
+  if (rc) {
+    rc.addEventListener('scroll', function() {
+      if (!t2) { playScroll(); t2 = setTimeout(function(){ t2 = null; }, 400); }
+      reasons.forEach(function(r) { r.style.transform = 'translateX(' + ((rc.scrollLeft - r.offsetLeft) * 0.04) + 'px)'; });
+    }, { passive: true });
   }
 
-  // Parallax for selling points
-  if (reasonsContainer) {
-    reasonsContainer.addEventListener('scroll', function() {
-      playScrollSound();
-      var scrollLeft = reasonsContainer.scrollLeft;
-      reasons.forEach(function(r) {
-        var offset = (scrollLeft - r.offsetLeft) * 0.04;
-        r.style.transform = 'translateX(' + offset + 'px)';
-      });
+  // Experience section scroll sound
+  var expGrid = document.querySelector('.exp-grid');
+  var t3 = null;
+  if (expGrid) {
+    expGrid.addEventListener('scroll', function() {
+      if (!t3) { playScroll(); t3 = setTimeout(function(){ t3 = null; }, 400); }
     }, { passive: true });
   }
 })();
@@ -8717,6 +8701,23 @@
     flex: 0 0 clamp(280px, 40vw, 360px);
     perspective: 1000px;
     cursor: pointer;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  .unlearn-card.u-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  @keyframes unlearn-wiggle {
+    0%, 100% { transform: rotate(0deg); }
+    20% { transform: rotate(-3deg); }
+    40% { transform: rotate(3deg); }
+    60% { transform: rotate(-2deg); }
+    80% { transform: rotate(2deg); }
+  }
+  .unlearn-card:hover:not(.flipped) .unlearn-inner {
+    animation: unlearn-wiggle 0.5s ease;
   }
   .unlearn-inner {
     position: relative;
@@ -8940,24 +8941,25 @@
     });
   });
 
-  // Hint animation when cards scroll into view
+  // Entry animation every time + hint wiggle
   if ('IntersectionObserver' in window) {
     var obs = new IntersectionObserver(function(entries) {
       entries.forEach(function(e) {
-        if (e.isIntersecting) {
-          var card = e.target;
-          setTimeout(function() {
-            card.classList.add('hint');
-            card.addEventListener('animationend', function() {
-              card.classList.remove('hint');
-            }, { once: true });
-          }, 600);
-          obs.unobserve(card);
-        }
+        e.target.classList.toggle('u-visible', e.isIntersecting);
       });
-    }, { threshold: 0.5 });
-    cards.forEach(function(c) { obs.observe(c); });
+    }, { threshold: 0.3 });
+    cards.forEach(function(c, i) {
+      c.style.transitionDelay = (i * 0.12) + 's';
+      obs.observe(c);
+    });
   }
+
+  // Sound on hover
+  cards.forEach(function(card) {
+    card.addEventListener('mouseenter', function() {
+      if (window.playBoxSound && window._cardScrollBuf) window.playBoxSound(window._cardScrollBuf, 0.1);
+    });
+  });
 
   // Scroll sound + parallax on horizontal scroll
   var grid = document.querySelector('.unlearn-grid');
