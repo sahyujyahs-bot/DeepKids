@@ -660,31 +660,43 @@
       border: none;
       cursor: pointer;
       outline: none;
-      background: radial-gradient(circle at 35% 35%, #c0e638, #7aa010);
+      background: radial-gradient(circle at 30% 30%, #d4f050, #c0e638 40%, #7aa010);
       box-shadow:
-        0 4px 0 #5a7a08,
-        0 6px 12px rgba(0,0,0,0.4),
-        inset 0 2px 4px rgba(255,255,255,0.3);
+        0 8px 0 #4a6a06,
+        0 10px 20px rgba(0,0,0,0.5),
+        inset 0 3px 6px rgba(255,255,255,0.35),
+        inset 0 -2px 4px rgba(0,0,0,0.15);
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.5s ease;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.6s ease;
       animation: sound-pulse 2s ease-in-out infinite;
     }
     #sound-on-btn:hover {
-      transform: translateX(-50%) scale(1.08);
+      transform: translateX(-50%) scale(1.1);
+      box-shadow:
+        0 10px 0 #4a6a06,
+        0 14px 28px rgba(0,0,0,0.5),
+        inset 0 3px 6px rgba(255,255,255,0.35),
+        inset 0 -2px 4px rgba(0,0,0,0.15);
     }
     #sound-on-btn:active {
-      transform: translateX(-50%) translateY(3px) scale(0.95);
+      transform: translateX(-50%) translateY(7px) scale(0.96);
       box-shadow:
-        0 1px 0 #5a7a08,
-        0 2px 6px rgba(0,0,0,0.3),
-        inset 0 2px 4px rgba(255,255,255,0.3);
+        0 1px 0 #4a6a06,
+        0 2px 4px rgba(0,0,0,0.3),
+        inset 0 3px 8px rgba(0,0,0,0.2);
+      transition: transform 0.08s ease, box-shadow 0.08s ease;
     }
     #sound-on-btn.pressed {
+      transform: translateX(-50%) translateY(8px) scale(0.9);
+      box-shadow:
+        0 0 0 #4a6a06,
+        0 1px 2px rgba(0,0,0,0.2),
+        inset 0 4px 10px rgba(0,0,0,0.3);
       opacity: 0;
       pointer-events: none;
-      transform: translateX(-50%) scale(1.3);
+      transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.4s ease 0.15s;
     }
     #sound-on-btn svg {
       width: clamp(24px, 3.5vw, 32px);
