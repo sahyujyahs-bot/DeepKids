@@ -647,6 +647,67 @@
       to   { transform: rotate(-360deg); }
     }
 
+    /* ── Sound On button ───────────────────────────────────── */
+    #sound-on-btn {
+      position: absolute;
+      bottom: clamp(70px, 12vh, 100px);
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 25;
+      width: clamp(56px, 8vw, 72px);
+      height: clamp(56px, 8vw, 72px);
+      border-radius: 50%;
+      border: none;
+      cursor: pointer;
+      outline: none;
+      background: radial-gradient(circle at 35% 35%, #c0e638, #7aa010);
+      box-shadow:
+        0 4px 0 #5a7a08,
+        0 6px 12px rgba(0,0,0,0.4),
+        inset 0 2px 4px rgba(255,255,255,0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.5s ease;
+      animation: sound-pulse 2s ease-in-out infinite;
+    }
+    #sound-on-btn:hover {
+      transform: translateX(-50%) scale(1.08);
+    }
+    #sound-on-btn:active {
+      transform: translateX(-50%) translateY(3px) scale(0.95);
+      box-shadow:
+        0 1px 0 #5a7a08,
+        0 2px 6px rgba(0,0,0,0.3),
+        inset 0 2px 4px rgba(255,255,255,0.3);
+    }
+    #sound-on-btn.pressed {
+      opacity: 0;
+      pointer-events: none;
+      transform: translateX(-50%) scale(1.3);
+    }
+    #sound-on-btn svg {
+      width: clamp(24px, 3.5vw, 32px);
+      height: clamp(24px, 3.5vw, 32px);
+      fill: #1a3a0a;
+      filter: drop-shadow(0 1px 2px rgba(0,0,0,0.3));
+    }
+    @keyframes sound-pulse {
+      0%, 100% { box-shadow: 0 4px 0 #5a7a08, 0 6px 12px rgba(0,0,0,0.4), inset 0 2px 4px rgba(255,255,255,0.3), 0 0 0 0 rgba(156,188,20,0.4); }
+      50% { box-shadow: 0 4px 0 #5a7a08, 0 6px 12px rgba(0,0,0,0.4), inset 0 2px 4px rgba(255,255,255,0.3), 0 0 0 16px rgba(156,188,20,0); }
+    }
+    #sound-on-label {
+      position: absolute;
+      bottom: -24px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(9px, 1.1vw, 12px);
+      color: rgba(255,255,255,0.5);
+      white-space: nowrap;
+      letter-spacing: 1px;
+    }
+
     /* ── Drag hint ─────────────────────────────────────────────── */
     #drag-hint {
       position: absolute; bottom: 10px; left: 50%;
@@ -814,6 +875,14 @@
   </div>
 
   <!-- Replay button — bottom right -->
+  <button id="sound-on-btn" aria-label="Turn sound on">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M11 5L6 9H2v6h4l5 4V5z"/>
+      <path d="M15.54 8.46a5 5 0 010 7.07" fill="none" stroke="#1a3a0a" stroke-width="2" stroke-linecap="round"/>
+      <path d="M19.07 4.93a10 10 0 010 14.14" fill="none" stroke="#1a3a0a" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+    <span id="sound-on-label">sound on</span>
+  </button>
   <button id="replay-btn" onclick="replayRain()" title="Drop them again!">
     <!-- Circular arrow / replay icon -->
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -10136,6 +10205,38 @@
   window.addEventListener('resize', fitSubtitle);
 })();
 
+// Sound On button — unlocks all audio contexts on first tap
+(function(){
+  var btn = document.getElementById('sound-on-btn');
+  if (!btn) return;
+  btn.addEventListener('click', function() {
+    // Unlock Web Audio contexts
+    try {
+      if (window.playBoxSound && window._cardFlipBuf) {
+        window.playBoxSound(window._cardFlipBuf, 0.5);
+      }
+    } catch(e){}
+    // Play a chime via Web Audio
+    try {
+      var ctx = new (window.AudioContext || window.webkitAudioContext)();
+      var notes = [523, 659, 784, 1047];
+      notes.forEach(function(freq, i) {
+        var osc = ctx.createOscillator();
+        var gain = ctx.createGain();
+        osc.type = 'sine';
+        osc.frequency.value = freq;
+        gain.gain.setValueAtTime(0.15, ctx.currentTime + i * 0.08);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.08 + 0.3);
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        osc.start(ctx.currentTime + i * 0.08);
+        osc.stop(ctx.currentTime + i * 0.08 + 0.3);
+      });
+    } catch(e){}
+    btn.classList.add('pressed');
+    setTimeout(function() { btn.remove(); }, 600);
+  });
+})();
 
 </script>
 </body>
