@@ -8750,24 +8750,7 @@
     display: block;
     aspect-ratio: 1/1;
     object-fit: cover;
-    transition: filter 0.3s ease;
   }
-  .unlearn-card:hover .unlearn-front-img {
-    filter: brightness(0.85) contrast(1.1);
-  }
-  /* Pixelation canvas overlay */
-  .unlearn-pixels {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.4s ease;
-    aspect-ratio: 1/1;
-  }
-  .unlearn-card:hover .unlearn-pixels { opacity: 0.6; }
   .unlearn-text-area {
     padding: clamp(14px, 2vw, 22px) clamp(14px, 2vw, 20px);
     position: relative;
@@ -8867,7 +8850,7 @@
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="Nogravityfloatingabsurdity.webp" alt="No gravity floating absurdity" decoding="async">
-          <canvas class="unlearn-pixels"></canvas>
+
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"If there were <em>no gravity</em>, we would all <em>float away</em> into space."</div>
           </div>
@@ -8886,7 +8869,7 @@
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="groundbreakingaway.webp" alt="Ground breaking away revealing core" decoding="async">
-          <canvas class="unlearn-pixels"></canvas>
+
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"Which force <em>keeps us on the ground</em>?"<br>If you said <em>gravity</em>...</div>
           </div>
@@ -8905,7 +8888,7 @@
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="unlearn-iss.webp" alt="Kid floating in ISS" decoding="async">
-          <canvas class="unlearn-pixels"></canvas>
+
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"Astronauts float in the ISS because of <em>zero gravity</em>."</div>
           </div>
@@ -8924,7 +8907,7 @@
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="unlearn-pulls.webp" alt="Everything pulls everything — spacetime curvature" decoding="async">
-          <canvas class="unlearn-pixels"></canvas>
+
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"Gravity <em>pulls things down.</em>"</div>
           </div>
@@ -8945,16 +8928,13 @@
 <script>
 (function(){
   var cards = document.querySelectorAll('.unlearn-card');
-  var flipSound = new Audio('cardflip sound.wav');
-  flipSound.preload = 'auto';
-  var scrollSound = new Audio('cardsscrollsound.wav');
-  scrollSound.preload = 'auto';
-
   // Flip with sound
   cards.forEach(function(card) {
     card.addEventListener('click', function() {
       card.classList.toggle('flipped');
-      try { var s = flipSound.cloneNode(); s.volume = 0.4; s.play(); } catch(e){}
+      if (typeof playBoxSound === 'function' && typeof cardFlipBuf !== 'undefined') {
+        playBoxSound(cardFlipBuf, 0.4);
+      }
     });
   });
 
@@ -8983,7 +8963,9 @@
   if (grid) {
     grid.addEventListener('scroll', function() {
       if (!scrollTimer) {
-        try { var s = scrollSound.cloneNode(); s.volume = 0.12; s.play(); } catch(e){}
+        if (typeof playBoxSound === 'function' && typeof cardScrollBuf !== 'undefined') {
+          playBoxSound(cardScrollBuf, 0.15);
+        }
         scrollTimer = setTimeout(function(){ scrollTimer = null; }, 400);
       }
       var sl = grid.scrollLeft;
@@ -8996,32 +8978,6 @@
     }, { passive: true });
   }
 
-  // Pixelation effect on hover
-  cards.forEach(function(card) {
-    var img = card.querySelector('.unlearn-front-img');
-    var canvas = card.querySelector('.unlearn-pixels');
-    if (!img || !canvas) return;
-    var ctx = canvas.getContext('2d');
-    var loaded = false;
-
-    function pixelate() {
-      if (!loaded) return;
-      var w = canvas.width = img.naturalWidth / 8;
-      var h = canvas.height = img.naturalHeight / 8;
-      canvas.style.imageRendering = 'pixelated';
-      ctx.imageSmoothingEnabled = false;
-      ctx.drawImage(img, 0, 0, w, h);
-    }
-
-    if (img.complete) { loaded = true; }
-    else { img.addEventListener('load', function() { loaded = true; }); }
-
-    card.addEventListener('mouseenter', pixelate);
-    card.addEventListener('touchstart', function() {
-      pixelate();
-      setTimeout(function() { canvas.style.opacity = '0.6'; }, 50);
-    }, { passive: true });
-  });
 })();
 </script>
 
