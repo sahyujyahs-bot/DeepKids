@@ -2760,8 +2760,10 @@
     });
   });
 
-  /* ── Card sounds ─────────────────────────────────────── */
+  /* ── Card sounds (global for reuse by other sections) ──── */
   var boxAudioCtx = null;
+  window._cardFlipBuf = null;
+  window._cardScrollBuf = null;
   var cardFlipBuf = null;
   var cardScrollBuf = null;
   function getBoxAudio() {
@@ -2779,10 +2781,10 @@
     };
     xhr.send();
   }
-  loadBoxSound('cardflip sound.wav', function(b) { cardFlipBuf = b; });
-  loadBoxSound('cardsscrollsound.wav', function(b) { cardScrollBuf = b; });
+  loadBoxSound('cardflip sound.wav', function(b) { window._cardFlipBuf = b; cardFlipBuf = b; });
+  loadBoxSound('cardsscrollsound.wav', function(b) { window._cardScrollBuf = b; cardScrollBuf = b; });
 
-  function playBoxSound(buf, vol) {
+  window.playBoxSound = function(buf, vol) {
     if (!buf || !boxAudioCtx) return;
     try {
       if (boxAudioCtx.state === 'suspended') boxAudioCtx.resume();
@@ -8932,8 +8934,8 @@
   cards.forEach(function(card) {
     card.addEventListener('click', function() {
       card.classList.toggle('flipped');
-      if (typeof playBoxSound === 'function' && typeof cardFlipBuf !== 'undefined') {
-        playBoxSound(cardFlipBuf, 0.4);
+      if (window.playBoxSound && window._cardFlipBuf) {
+        window.playBoxSound(window._cardFlipBuf, 0.4);
       }
     });
   });
@@ -8963,8 +8965,8 @@
   if (grid) {
     grid.addEventListener('scroll', function() {
       if (!scrollTimer) {
-        if (typeof playBoxSound === 'function' && typeof cardScrollBuf !== 'undefined') {
-          playBoxSound(cardScrollBuf, 0.15);
+        if (window.playBoxSound && window._cardScrollBuf) {
+          window.playBoxSound(window._cardScrollBuf, 0.15);
         }
         scrollTimer = setTimeout(function(){ scrollTimer = null; }, 400);
       }
@@ -8985,7 +8987,7 @@
 <!-- ═══════════════════════════════════════════════ MORE FROM DEEPKIDS ══ -->
 <style>
   #s-more {
-    padding: clamp(50px,7vh,90px) clamp(16px,4vw,40px);
+    padding: clamp(50px,7vh,90px) 0;
     text-align: center;
   }
   .more-intro {
@@ -8998,66 +9000,83 @@
     padding: 0 clamp(16px,4vw,40px);
   }
   .more-masonry {
-    columns: 2;
-    column-gap: clamp(12px, 2vw, 20px);
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 clamp(8px, 2vw, 16px);
+    columns: 4;
+    column-gap: clamp(8px, 1.2vw, 14px);
+    padding: 0 clamp(8px, 1.5vw, 16px);
   }
   .more-pin {
     break-inside: avoid;
-    margin-bottom: clamp(12px, 2vw, 20px);
-    border-radius: 16px;
+    margin-bottom: clamp(8px, 1.2vw, 14px);
+    border-radius: 12px;
     overflow: hidden;
     position: relative;
     cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .more-pin:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 30px rgba(0,0,0,0.4);
   }
   .more-pin img {
     width: 100%;
     display: block;
+    transition: transform 0.5s ease, filter 0.3s ease;
   }
+  .more-pin:hover img {
+    transform: scale(1.05);
+    filter: brightness(1.1) saturate(1.2);
+  }
+  .more-pin::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg,
+      rgba(156,188,20,0.08) 0%,
+      transparent 40%,
+      rgba(255,255,255,0.06) 60%,
+      transparent 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    mix-blend-mode: overlay;
+  }
+  .more-pin:hover::after { opacity: 1; }
   .more-pin-overlay {
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
-    padding: clamp(12px, 2vw, 20px);
-    background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 60%, transparent 100%);
+    padding: clamp(8px, 1.2vw, 14px) clamp(10px, 1.5vw, 16px);
+    background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, transparent 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
   }
+  .more-pin:hover .more-pin-overlay { opacity: 1; }
   .more-pin-title {
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
-    font-size: clamp(14px, 1.8vw, 20px);
-    color: #fff;
-    margin-bottom: 4px;
+    font-size: clamp(11px, 1.3vw, 16px);
+    color: #9cbc14;
   }
   .more-pin-desc {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(10px, 1.1vw, 13px);
+    font-size: clamp(9px, 0.9vw, 12px);
     color: rgba(255,255,255,0.7);
-    line-height: 1.4;
+    line-height: 1.35;
+    margin-top: 2px;
   }
-  .more-pin-tag {
-    position: absolute;
-    top: clamp(8px, 1.2vw, 14px);
-    right: clamp(8px, 1.2vw, 14px);
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(8px, 0.9vw, 11px);
-    color: #9cbc14;
-    background: rgba(10,6,24,0.75);
-    backdrop-filter: blur(4px);
-    border: 1px solid rgba(156,188,20,0.3);
-    border-radius: 20px;
-    padding: 3px 10px;
-    letter-spacing: 0.5px;
+  .more-pin {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95);
+    transition: opacity 0.5s ease, transform 0.5s ease;
   }
-  @media (max-width: 500px) {
-    .more-masonry { columns: 1; max-width: 360px; }
+  .more-pin.visible {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  @media (max-width: 900px) {
+    .more-masonry { columns: 3; }
+  }
+  @media (max-width: 600px) {
+    .more-masonry { columns: 2; column-gap: 8px; }
+    .more-pin { margin-bottom: 8px; }
+    .more-pin-overlay { opacity: 1; }
   }
 </style>
 
@@ -9066,43 +9085,72 @@
   <p class="more-intro eg-fade-in">EscapeGravity is just the beginning. We're building a universe of games, cards, and books that turn deep concepts into unforgettable experiences.</p>
 
   <div class="more-masonry">
-    <div class="more-pin eg-fade-in">
-      <img src="more-history.webp" alt="Indian History Board Game" decoding="async">
-      <div class="more-pin-tag">In Development</div>
-      <div class="more-pin-overlay">
-        <div class="more-pin-title">Indian History Board Game</div>
-        <div class="more-pin-desc">6 time periods. 52+ empires. 500+ cards. A detailed map board.</div>
-      </div>
-    </div>
+    <div class="more-pin" data-product="history"><img src="more-history.webp" alt="Indian History Board Game map" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Indian History Board Game</div><div class="more-pin-desc">52+ empires. 500+ cards. A detailed map board.</div></div></div>
 
-    <div class="more-pin eg-fade-in">
-      <img src="more-sci-pin.webp" alt="Sci. Scientists Trading Cards" decoding="async">
-      <div class="more-pin-tag">In Development</div>
-      <div class="more-pin-overlay">
-        <div class="more-pin-title">Sci. Trading Cards</div>
-        <div class="more-pin-desc">Collect, trade, battle. Underdog scientists. Bias-free.</div>
-      </div>
-    </div>
+    <div class="more-pin" data-product="sci"><img src="more-sci-front.webp" alt="Jagadish Chandra Bose trading card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Sci. Trading Cards</div><div class="more-pin-desc">Underdog scientists. Bias-free.</div></div></div>
 
-    <div class="more-pin eg-fade-in">
-      <img src="more-evo-pin.webp" alt="Evolution Picture Book" decoding="async">
-      <div class="more-pin-tag">In Development</div>
-      <div class="more-pin-overlay">
-        <div class="more-pin-title">Evolution Picture Book</div>
-        <div class="more-pin-desc">Hand-illustrated journey from single cells to the world we know.</div>
-      </div>
-    </div>
+    <div class="more-pin" data-product="evo"><img src="more-evo-1.webp" alt="Evolution — ancient ocean jellyfish" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
 
-    <div class="more-pin eg-fade-in">
-      <img src="more-wpm-pin.webp" alt="Who Pulls Whom gravity card game" decoding="async">
-      <div class="more-pin-tag">In Development</div>
-      <div class="more-pin-overlay">
-        <div class="more-pin-title">Who Pulls Whom?</div>
-        <div class="more-pin-desc">Gravity card game. Play elements, predict forces, score points.</div>
-      </div>
-    </div>
+    <div class="more-pin" data-product="wpm"><img src="more-wpm-1.webp" alt="Who Pulls Whom — astronaut card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div><div class="more-pin-desc">Gravity card game.</div></div></div>
+
+    <div class="more-pin" data-product="evo"><img src="more-evo-2.webp" alt="Evolution — Cambrian sea creatures" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
+
+    <div class="more-pin" data-product="sci"><img src="more-sci-back.webp" alt="SCI. trading cards back design" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Sci. Trading Cards</div></div></div>
+
+    <div class="more-pin" data-product="wpm"><img src="more-wpm-2.webp" alt="Who Pulls Whom — Earth card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
+
+    <div class="more-pin" data-product="evo"><img src="more-evo-4.webp" alt="Evolution — dinosaur hunting" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
+
+    <div class="more-pin" data-product="wpm"><img src="more-wpm-3.webp" alt="Who Pulls Whom — Jupiter card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
+
+    <div class="more-pin" data-product="evo"><img src="more-evo-6.webp" alt="Evolution — pterodactyl forest" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
+
+    <div class="more-pin" data-product="evo"><img src="more-evo-5.webp" alt="Evolution — ancient rainforest" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
+
+    <div class="more-pin" data-product="wpm"><img src="more-wpm-4.webp" alt="Who Pulls Whom — Sun card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
+
+    <div class="more-pin" data-product="evo"><img src="more-evo-7.webp" alt="Evolution — koala moonlight" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
+
+    <div class="more-pin" data-product="evo"><img src="more-evo-3.webp" alt="Evolution — early trees" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
   </div>
 </section>
+
+<script>
+(function(){
+  var pins = document.querySelectorAll('.more-pin');
+  if (!pins.length) return;
+
+  // Staggered reveal on scroll
+  if ('IntersectionObserver' in window) {
+    var obs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) {
+          e.target.classList.add('visible');
+          obs.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.1 });
+    pins.forEach(function(pin, i) {
+      pin.style.transitionDelay = (i * 0.06) + 's';
+      obs.observe(pin);
+    });
+  }
+
+  // Sound on hover/touch
+  pins.forEach(function(pin) {
+    pin.addEventListener('mouseenter', function() {
+      if (window.playBoxSound && window._cardScrollBuf) {
+        window.playBoxSound(window._cardScrollBuf, 0.1);
+      }
+    });
+    pin.addEventListener('click', function() {
+      if (window.playBoxSound && window._cardFlipBuf) {
+        window.playBoxSound(window._cardFlipBuf, 0.3);
+      }
+    });
+  });
+})();
+</script>
 
 <!-- ═══════════════════════════════════════════════ S5: CONTACT ══ -->
 <section id="s7" class="eg-section">
