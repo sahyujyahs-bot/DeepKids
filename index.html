@@ -4313,21 +4313,11 @@
   /* Entrance starting state — invisible, sunk, compact. Stagger
      transition-delay per nth-child once .exp-grid.visible is set. */
   --r: 0deg;
-  opacity: 1;
-  transform: translateY(0) scale(1) rotate(var(--r));
-}
-@keyframes exp-pop-in {
-  from {
-    opacity: 0;
-    transform: translateY(20px) scale(0.85) rotate(0deg);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0) scale(1) rotate(var(--r));
-  }
-}
-.exp-grid.visible .exp-item {
-  animation: exp-pop-in .55s cubic-bezier(.34, 1.56, .64, 1) both;
+  opacity: 0;
+  transform: translateY(20px) scale(0.92);
+  transition:
+    opacity .5s ease,
+    transform .5s ease;
 }
 .exp-item img {
   width: 100%;
@@ -4368,17 +4358,22 @@
 .exp-item:nth-child(9)  { --r: -2deg; }
 .exp-item:nth-child(10) { --r:  3deg; }
 
-/* Stagger animation delays per nth-child */
-.exp-grid.visible .exp-item:nth-child(1)  { animation-delay:   0ms; }
-.exp-grid.visible .exp-item:nth-child(2)  { animation-delay:  80ms; }
-.exp-grid.visible .exp-item:nth-child(3)  { animation-delay: 160ms; }
-.exp-grid.visible .exp-item:nth-child(4)  { animation-delay: 240ms; }
-.exp-grid.visible .exp-item:nth-child(5)  { animation-delay: 320ms; }
-.exp-grid.visible .exp-item:nth-child(6)  { animation-delay: 400ms; }
-.exp-grid.visible .exp-item:nth-child(7)  { animation-delay: 480ms; }
-.exp-grid.visible .exp-item:nth-child(8)  { animation-delay: 560ms; }
-.exp-grid.visible .exp-item:nth-child(9)  { animation-delay: 640ms; }
-.exp-grid.visible .exp-item:nth-child(10) { animation-delay: 720ms; }
+/* Visible state — tiles settle into their rotation. Staggered delay
+   per nth-child so they pop in one after another. */
+.exp-grid.visible .exp-item {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+.exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms,   0ms; }
+.exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms,  80ms; }
+.exp-grid.visible .exp-item:nth-child(3)  { transition-delay: 160ms, 160ms; }
+.exp-grid.visible .exp-item:nth-child(4)  { transition-delay: 240ms, 240ms; }
+.exp-grid.visible .exp-item:nth-child(5)  { transition-delay: 320ms, 320ms; }
+.exp-grid.visible .exp-item:nth-child(6)  { transition-delay: 400ms, 400ms; }
+.exp-grid.visible .exp-item:nth-child(7)  { transition-delay: 480ms, 480ms; }
+.exp-grid.visible .exp-item:nth-child(8)  { transition-delay: 560ms, 560ms; }
+.exp-grid.visible .exp-item:nth-child(9)  { transition-delay: 640ms, 640ms; }
+.exp-grid.visible .exp-item:nth-child(10) { transition-delay: 720ms, 720ms; }
 
 /* Hover / tap / focus — straighten, lift, brighten shadow, reveal caption */
 .exp-grid.visible .exp-item:hover,
@@ -4409,12 +4404,30 @@
   .exp-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
   .exp-caption { font-size: 11px; }
   /* No stagger on mobile — all items appear together */
-  .exp-grid.visible .exp-item { animation-delay: 0ms !important; }
+  .exp-grid.visible .exp-item { transition-delay: 0ms !important; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .exp-item { opacity: 1; transform: none; }
-  .exp-grid.visible .exp-item { animation: none; opacity: 1; }
+  .exp-item,
+  .exp-grid.visible .exp-item {
+    transition: opacity .3s ease;
+    transform: none !important;
+  }
+  .exp-grid.visible .exp-item { opacity: 1; }
 }
+</style>
+<script>
+(function(){
+  // Polaroid tiles: tap to reveal caption on touch devices.
+  // On desktop :hover handles it; this script also makes tap-away
+  // close any stuck-active tile.
+  var grid = document.querySelector('.exp-grid');
+  if (!grid) return;
+  grid.addEventListener('click', function(e){
+    var tile = e.target.closest('.exp-item');
+    // Clear previously active tile(s)
+    grid.querySelectorAll('.exp-item.is-active').forEach(function(el){
+      if (el !== tile) el.classList.remove('is-active');
+    });
 </style>
 <script>
 (function(){
