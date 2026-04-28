@@ -8079,7 +8079,9 @@
       if (deadTimer > 0) {
         requestAnimationFrame(loop);
       } else {
-        overlayText.textContent = 'You fell! Score: ' + Math.floor(dist / 10) + ' — Tap to retry';
+        var gameScore = Math.floor(dist / 10);
+        overlayText.textContent = 'You fell! Score: ' + gameScore + ' — Tap to retry';
+        if (typeof gtag === 'function') gtag('event', 'minigame_complete', { event_category: 'engagement', score: gameScore, force_cards: inventory.length });
         overlay.classList.remove('hidden');
       }
     }
@@ -8510,6 +8512,7 @@
     counter.textContent = 'Complete!';
     sfxDone();
     var pct = Math.round(score / QUESTIONS.length * 100);
+    if (typeof gtag === 'function') gtag('event', 'quiz_complete', { event_category: 'engagement', score: score, total: QUESTIONS.length, percentage: pct });
     var msg = pct === 100 ? 'Perfect! Gravity has nothing on you.'
             : pct >= 75  ? 'Brilliant! You clearly know your forces.'
             : pct >= 50  ? 'Solid! The board game will level you up further.'
