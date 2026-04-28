@@ -8997,64 +8997,67 @@
     margin: 0 auto clamp(28px, 4vh, 40px);
     padding: 0 clamp(16px,4vw,40px);
   }
-  .more-grid {
-    display: flex;
-    overflow-x: auto;
-    gap: clamp(16px, 2.5vw, 24px);
-    padding: 0 clamp(16px, 4vw, 48px) 16px;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    justify-content: center;
+  .more-masonry {
+    columns: 2;
+    column-gap: clamp(12px, 2vw, 20px);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 clamp(8px, 2vw, 16px);
   }
-  .more-grid::-webkit-scrollbar { display: none; }
-  @media (max-width: 768px) {
-    .more-grid { justify-content: flex-start; }
-  }
-  .more-card {
-    flex: 0 0 clamp(260px, 38vw, 340px);
-    background: rgba(10,6,24,0.5);
-    border: 1px solid rgba(156,188,20,0.12);
+  .more-pin {
+    break-inside: avoid;
+    margin-bottom: clamp(12px, 2vw, 20px);
     border-radius: 16px;
     overflow: hidden;
-    text-align: center;
-    transition: transform 0.3s ease, border-color 0.3s ease;
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
-  .more-card:hover {
+  .more-pin:hover {
     transform: translateY(-4px);
-    border-color: rgba(156,188,20,0.35);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.4);
   }
-  .more-card-img {
+  .more-pin img {
     width: 100%;
     display: block;
-    aspect-ratio: 16/9;
-    object-fit: cover;
   }
-  .more-card-body {
-    padding: clamp(14px, 2vw, 22px) clamp(12px, 1.5vw, 18px);
+  .more-pin-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: clamp(12px, 2vw, 20px);
+    background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 60%, transparent 100%);
   }
-  .more-title {
+  .more-pin-title {
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
-    font-size: clamp(14px, 1.6vw, 18px);
+    font-size: clamp(14px, 1.8vw, 20px);
+    color: #fff;
+    margin-bottom: 4px;
+  }
+  .more-pin-desc {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(10px, 1.1vw, 13px);
+    color: rgba(255,255,255,0.7);
+    line-height: 1.4;
+  }
+  .more-pin-tag {
+    position: absolute;
+    top: clamp(8px, 1.2vw, 14px);
+    right: clamp(8px, 1.2vw, 14px);
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(8px, 0.9vw, 11px);
     color: #9cbc14;
-    margin-bottom: clamp(6px, 0.8vh, 10px);
-  }
-  .more-desc {
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(11px, 1.2vw, 14px);
-    line-height: 1.45;
-    color: rgba(255,255,255,0.55);
-  }
-  .more-tag {
-    display: inline-block;
-    margin-top: clamp(8px, 1vh, 12px);
-    font-family: 'Futura', sans-serif;
-    font-size: clamp(9px, 1vw, 12px);
-    color: rgba(156,188,20,0.7);
-    border: 1px solid rgba(156,188,20,0.2);
+    background: rgba(10,6,24,0.75);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(156,188,20,0.3);
     border-radius: 20px;
     padding: 3px 10px;
     letter-spacing: 0.5px;
+  }
+  @media (max-width: 500px) {
+    .more-masonry { columns: 1; max-width: 360px; }
   }
 </style>
 
@@ -9062,37 +9065,40 @@
   <h2 class="page-h2 eg-fade-in">More Worlds From DeepKids</h2>
   <p class="more-intro eg-fade-in">EscapeGravity is just the beginning. We're building a universe of games, cards, and books that turn deep concepts into unforgettable experiences.</p>
 
-  <div class="more-grid">
-    <div class="more-card eg-fade-in">
-      <img class="more-card-img" src="more-history.webp" alt="Indian History Board Game — map board with empires" decoding="async">
-      <div class="more-card-body">
-        <div class="more-title">Indian History Board Game</div>
-        <div class="more-desc">6 time periods from 7000 BCE to today. 52+ empires, 500+ cards across geography, culture, trade, art, science and more.</div>
-        <div class="more-tag">In Development</div>
+  <div class="more-masonry">
+    <div class="more-pin eg-fade-in">
+      <img src="more-history.webp" alt="Indian History Board Game" decoding="async">
+      <div class="more-pin-tag">In Development</div>
+      <div class="more-pin-overlay">
+        <div class="more-pin-title">Indian History Board Game</div>
+        <div class="more-pin-desc">6 time periods. 52+ empires. 500+ cards. A detailed map board.</div>
       </div>
     </div>
-    <div class="more-card eg-fade-in">
-      <img class="more-card-img" src="more-sci.webp" alt="Sci. Scientists Trading Cards" decoding="async">
-      <div class="more-card-body">
-        <div class="more-title">Sci. Trading Cards</div>
-        <div class="more-desc">Scientists trading cards — collect, trade, and battle. Bias-free, featuring underdog scientists kids won't find in textbooks.</div>
-        <div class="more-tag">In Development</div>
+
+    <div class="more-pin eg-fade-in">
+      <img src="more-sci-pin.webp" alt="Sci. Scientists Trading Cards" decoding="async">
+      <div class="more-pin-tag">In Development</div>
+      <div class="more-pin-overlay">
+        <div class="more-pin-title">Sci. Trading Cards</div>
+        <div class="more-pin-desc">Collect, trade, battle. Underdog scientists. Bias-free.</div>
       </div>
     </div>
-    <div class="more-card eg-fade-in">
-      <img class="more-card-img" src="more-evolution.webp" alt="Evolution Picture Book — illustrated pages" decoding="async">
-      <div class="more-card-body">
-        <div class="more-title">Evolution Picture Book</div>
-        <div class="more-desc">A hand-illustrated visual journey through the story of life on Earth — from single cells to the world we know.</div>
-        <div class="more-tag">In Development</div>
+
+    <div class="more-pin eg-fade-in">
+      <img src="more-evo-pin.webp" alt="Evolution Picture Book" decoding="async">
+      <div class="more-pin-tag">In Development</div>
+      <div class="more-pin-overlay">
+        <div class="more-pin-title">Evolution Picture Book</div>
+        <div class="more-pin-desc">Hand-illustrated journey from single cells to the world we know.</div>
       </div>
     </div>
-    <div class="more-card eg-fade-in">
-      <img class="more-card-img" src="more-whopulls.webp" alt="Who Pulls Whom gravity card game — element cards" decoding="async">
-      <div class="more-card-body">
-        <div class="more-title">Who Pulls Whom?</div>
-        <div class="more-desc">A gravity card game. Play element cards that drag others based on mass and energy. Predict outcomes, score points.</div>
-        <div class="more-tag">In Development</div>
+
+    <div class="more-pin eg-fade-in">
+      <img src="more-wpm-pin.webp" alt="Who Pulls Whom gravity card game" decoding="async">
+      <div class="more-pin-tag">In Development</div>
+      <div class="more-pin-overlay">
+        <div class="more-pin-title">Who Pulls Whom?</div>
+        <div class="more-pin-desc">Gravity card game. Play elements, predict forces, score points.</div>
       </div>
     </div>
   </div>
