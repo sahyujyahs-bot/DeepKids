@@ -813,7 +813,7 @@
   <a href="#s1" class="eg-nav-logo">EscapeGravity</a>
   <div class="eg-nav-right">
     <a href="#" class="eg-nav-playtest" onclick="event.preventDefault(); openPlayTest();">Join Playtesting</a>
-    <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
+    <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Show Interest" onclick="doPreOrder()"></button>
   </div>
 </nav>
 
@@ -878,7 +878,7 @@
         <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
         <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
       </svg>
-      <span class="btn-label">Pre-Order</span>
+      <span class="btn-label">Show Interest</span>
     </div>
     <div class="hero-cta-below">
       <p class="no-pay-tag">No Payment Needed</p>
@@ -4314,10 +4314,10 @@
      transition-delay per nth-child once .exp-grid.visible is set. */
   --r: 0deg;
   opacity: 0;
-  transform: translateY(20px) scale(0.92);
+  transform: translateY(20px) scale(0.85) rotate(var(--r));
   transition:
-    opacity .5s ease,
-    transform .5s ease;
+    opacity .55s cubic-bezier(.34, 1.56, .64, 1),
+    transform .55s cubic-bezier(.34, 1.56, .64, 1);
 }
 .exp-item img {
   width: 100%;
@@ -4362,7 +4362,7 @@
    per nth-child so they pop in one after another. */
 .exp-grid.visible .exp-item {
   opacity: 1;
-  transform: translateY(0) scale(1);
+  transform: translateY(0) scale(1) rotate(var(--r));
 }
 .exp-grid.visible .exp-item:nth-child(1)  { transition-delay:   0ms,   0ms; }
 .exp-grid.visible .exp-item:nth-child(2)  { transition-delay:  80ms,  80ms; }
@@ -8739,10 +8739,10 @@
 
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-        Is the pre-order free?
+        Is showing interest free?
         <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
-      <div class="faq-a"><div class="faq-a-inner"><em>Yes — no payment needed right now.</em> You're just registering your interest. We'll WhatsApp you when pre-orders officially open with pricing and shipping details.</div></div>
+      <div class="faq-a"><div class="faq-a-inner"><em>Yes — completely free, no payment needed.</em> You're just registering your interest. We'll WhatsApp you with updates on pricing, shipping, and launch details.</div></div>
     </div>
 
     <div class="faq-item eg-fade-in">
@@ -9846,7 +9846,7 @@
       <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
       <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
     </svg>
-    <span class="btn-label">Pre-Order</span>
+    <span class="btn-label">Show Interest</span>
   </button>
 </div>
 <script>
