@@ -8686,7 +8686,7 @@
 <!-- ═══════════════════════════════════════════════ UNLEARN ══ -->
 <style>
   #s-unlearn {
-    padding: clamp(50px,7vh,90px) clamp(16px,4vw,40px);
+    padding: clamp(50px,7vh,90px) 0;
     text-align: center;
   }
   .unlearn-intro {
@@ -8701,7 +8701,7 @@
   .unlearn-grid {
     display: flex;
     overflow-x: auto;
-    gap: clamp(16px, 2.5vw, 24px);
+    gap: clamp(18px, 3vw, 28px);
     padding: 0 clamp(16px, 4vw, 48px) 20px;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
@@ -8712,71 +8712,85 @@
     .unlearn-grid { justify-content: flex-start; }
   }
   .unlearn-card {
-    flex: 0 0 clamp(250px, 36vw, 320px);
-    perspective: 800px;
+    flex: 0 0 clamp(280px, 40vw, 360px);
+    perspective: 1000px;
     cursor: pointer;
   }
   .unlearn-inner {
     position: relative;
     width: 100%;
-    min-height: clamp(300px, 42vw, 400px);
     transition: transform 0.7s cubic-bezier(0.34, 1.56, 0.64, 1);
     transform-style: preserve-3d;
   }
   .unlearn-card.flipped .unlearn-inner {
     transform: rotateY(180deg);
   }
+  /* Hint animation — subtle wiggle to show it's flippable */
+  @keyframes unlearn-hint {
+    0%, 100% { transform: rotateY(0deg); }
+    25% { transform: rotateY(12deg); }
+    75% { transform: rotateY(-8deg); }
+  }
+  .unlearn-card.hint .unlearn-inner {
+    animation: unlearn-hint 1.2s ease-in-out;
+  }
   .unlearn-front, .unlearn-back {
-    position: absolute;
-    inset: 0;
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
     border-radius: 16px;
-    padding: clamp(24px, 3vw, 36px) clamp(16px, 2vw, 24px);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    overflow: hidden;
   }
   .unlearn-front {
-    background: linear-gradient(170deg, rgba(40,15,25,0.7) 0%, rgba(10,6,24,0.8) 100%);
-    border: 1px solid rgba(200,50,50,0.25);
+    background: rgba(10,6,24,0.8);
+    border: 1px solid rgba(200,50,50,0.2);
+    position: relative;
   }
   .unlearn-front-img {
     width: 100%;
-    border-radius: 12px;
-    margin-bottom: clamp(10px, 1.5vh, 16px);
+    display: block;
+    aspect-ratio: 1/1;
     object-fit: cover;
-    max-height: 45%;
+    transition: filter 0.3s ease;
   }
-  .unlearn-back {
-    transform: rotateY(180deg);
-    background: linear-gradient(170deg, rgba(15,35,15,0.7) 0%, rgba(10,6,24,0.8) 100%);
-    border: 1px solid rgba(156,188,20,0.3);
-    text-align: left;
-    justify-content: flex-start;
-    overflow-y: auto;
+  .unlearn-card:hover .unlearn-front-img {
+    filter: brightness(0.85) contrast(1.1);
+  }
+  /* Pixelation canvas overlay */
+  .unlearn-pixels {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    aspect-ratio: 1/1;
+  }
+  .unlearn-card:hover .unlearn-pixels { opacity: 0.6; }
+  .unlearn-text-area {
+    padding: clamp(14px, 2vw, 22px) clamp(14px, 2vw, 20px);
+    position: relative;
   }
   .unlearn-myth {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(15px, 1.7vw, 20px);
+    font-size: clamp(13px, 1.4vw, 17px);
     color: rgba(255,255,255,0.85);
     line-height: 1.45;
-    margin-bottom: clamp(16px, 2vh, 24px);
-    text-align: center;
+    text-align: left;
   }
   .unlearn-myth em {
     font-style: normal;
-    color: rgba(255,200,200,0.9);
+    color: rgba(255,200,200,0.95);
   }
   .unlearn-stamp {
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
-    font-size: clamp(14px, 2vw, 20px);
-    letter-spacing: 2px;
-    width: clamp(70px, 10vw, 90px);
-    height: clamp(70px, 10vw, 90px);
-    border: 3px solid;
+    font-size: clamp(11px, 1.4vw, 15px);
+    letter-spacing: 1.5px;
+    width: clamp(58px, 8vw, 74px);
+    height: clamp(58px, 8vw, 74px);
+    border: 2.5px solid;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -8784,11 +8798,13 @@
     text-align: center;
     line-height: 1.1;
     position: absolute;
-    bottom: clamp(12px, 2vw, 20px);
-    right: clamp(12px, 2vw, 20px);
+    bottom: clamp(10px, 1.5vw, 16px);
+    right: clamp(10px, 1.5vw, 16px);
     transform: rotate(-12deg);
-    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
-    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    text-shadow: 0 2px 6px rgba(0,0,0,0.5);
+    box-shadow: 0 0 14px rgba(0,0,0,0.3);
+    background: rgba(10,6,24,0.7);
+    backdrop-filter: blur(4px);
   }
   .stamp-absurd  { color: #ff4444; border-color: #ff4444; }
   .stamp-wrong   { color: #ff6633; border-color: #ff6633; }
@@ -8796,25 +8812,40 @@
   .stamp-incomplete { color: #ffaa22; border-color: #ffaa22; }
   .unlearn-tap {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(10px, 1.1vw, 13px);
-    color: rgba(255,255,255,0.35);
-    margin-top: auto;
+    font-size: clamp(10px, 1vw, 12px);
+    color: rgba(255,255,255,0.3);
+    text-align: center;
+    padding: clamp(6px, 1vh, 10px) 0;
     letter-spacing: 1px;
+  }
+  .unlearn-back {
+    position: absolute;
+    inset: 0;
+    transform: rotateY(180deg);
+    background: linear-gradient(170deg, rgba(15,35,15,0.8) 0%, rgba(10,6,24,0.9) 100%);
+    border: 1px solid rgba(156,188,20,0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: clamp(24px, 3vw, 36px) clamp(18px, 2.5vw, 28px);
+    text-align: left;
+    overflow-y: auto;
   }
   .unlearn-truth-title {
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
-    font-size: clamp(16px, 1.8vw, 22px);
+    font-size: clamp(18px, 2.2vw, 26px);
     color: #9cbc14;
-    margin-bottom: clamp(10px, 1.5vh, 16px);
+    margin-bottom: clamp(12px, 1.5vh, 20px);
     text-align: center;
     width: 100%;
   }
   .unlearn-truth {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(13px, 1.4vw, 16px);
-    color: rgba(255,255,255,0.75);
-    line-height: 1.55;
+    font-size: clamp(13px, 1.4vw, 17px);
+    color: rgba(255,255,255,0.8);
+    line-height: 1.6;
   }
   .unlearn-truth em {
     font-style: normal;
@@ -8823,7 +8854,6 @@
   }
   .unlearn-back .unlearn-tap {
     color: rgba(156,188,20,0.4);
-    margin-top: clamp(12px, 1.5vh, 18px);
   }
 </style>
 
@@ -8833,11 +8863,14 @@
 
   <div class="unlearn-grid">
 
-    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+    <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="Nogravityfloatingabsurdity.webp" alt="No gravity floating absurdity" decoding="async">
-          <div class="unlearn-myth">"If there were <em>no gravity</em>, we would all <em>float away</em> into space."</div>
+          <canvas class="unlearn-pixels"></canvas>
+          <div class="unlearn-text-area">
+            <div class="unlearn-myth">"If there were <em>no gravity</em>, we would all <em>float away</em> into space."</div>
+          </div>
           <div class="unlearn-stamp stamp-absurd">Absurd</div>
           <div class="unlearn-tap">tap to flip</div>
         </div>
@@ -8849,11 +8882,14 @@
       </div>
     </div>
 
-    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+    <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="groundbreakingaway.webp" alt="Ground breaking away revealing core" decoding="async">
-          <div class="unlearn-myth">"Which force <em>keeps us on the ground</em>?"<br><br>If you said <em>gravity</em>...</div>
+          <canvas class="unlearn-pixels"></canvas>
+          <div class="unlearn-text-area">
+            <div class="unlearn-myth">"Which force <em>keeps us on the ground</em>?"<br>If you said <em>gravity</em>...</div>
+          </div>
           <div class="unlearn-stamp stamp-wrong">Wrong</div>
           <div class="unlearn-tap">tap to flip</div>
         </div>
@@ -8865,11 +8901,14 @@
       </div>
     </div>
 
-    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+    <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="unlearn-iss.webp" alt="Kid floating in ISS" decoding="async">
-          <div class="unlearn-myth">"Astronauts float in the ISS because of <em>zero gravity</em>."</div>
+          <canvas class="unlearn-pixels"></canvas>
+          <div class="unlearn-text-area">
+            <div class="unlearn-myth">"Astronauts float in the ISS because of <em>zero gravity</em>."</div>
+          </div>
           <div class="unlearn-stamp stamp-false">False</div>
           <div class="unlearn-tap">tap to flip</div>
         </div>
@@ -8881,11 +8920,14 @@
       </div>
     </div>
 
-    <div class="unlearn-card eg-fade-in" onclick="this.classList.toggle('flipped')">
+    <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
           <img class="unlearn-front-img" src="unlearn-pulls.webp" alt="Everything pulls everything — spacetime curvature" decoding="async">
-          <div class="unlearn-myth">"Gravity <em>pulls things down.</em>"</div>
+          <canvas class="unlearn-pixels"></canvas>
+          <div class="unlearn-text-area">
+            <div class="unlearn-myth">"Gravity <em>pulls things down.</em>"</div>
+          </div>
           <div class="unlearn-stamp stamp-incomplete">Incomplete</div>
           <div class="unlearn-tap">tap to flip</div>
         </div>
@@ -8899,6 +8941,90 @@
 
   </div>
 </section>
+
+<script>
+(function(){
+  var cards = document.querySelectorAll('.unlearn-card');
+  var flipSound = new Audio('cardflip sound.wav');
+  flipSound.preload = 'auto';
+  var scrollSound = new Audio('cardsscrollsound.wav');
+  scrollSound.preload = 'auto';
+
+  // Flip with sound
+  cards.forEach(function(card) {
+    card.addEventListener('click', function() {
+      card.classList.toggle('flipped');
+      try { var s = flipSound.cloneNode(); s.volume = 0.4; s.play(); } catch(e){}
+    });
+  });
+
+  // Hint animation when cards scroll into view
+  if ('IntersectionObserver' in window) {
+    var obs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) {
+          var card = e.target;
+          setTimeout(function() {
+            card.classList.add('hint');
+            card.addEventListener('animationend', function() {
+              card.classList.remove('hint');
+            }, { once: true });
+          }, 600);
+          obs.unobserve(card);
+        }
+      });
+    }, { threshold: 0.5 });
+    cards.forEach(function(c) { obs.observe(c); });
+  }
+
+  // Scroll sound + parallax on horizontal scroll
+  var grid = document.querySelector('.unlearn-grid');
+  var scrollTimer = null;
+  if (grid) {
+    grid.addEventListener('scroll', function() {
+      if (!scrollTimer) {
+        try { var s = scrollSound.cloneNode(); s.volume = 0.12; s.play(); } catch(e){}
+        scrollTimer = setTimeout(function(){ scrollTimer = null; }, 400);
+      }
+      var sl = grid.scrollLeft;
+      cards.forEach(function(card) {
+        var offset = (sl - card.offsetLeft) * 0.04;
+        if (!card.classList.contains('flipped')) {
+          card.style.transform = 'translateX(' + offset + 'px)';
+        }
+      });
+    }, { passive: true });
+  }
+
+  // Pixelation effect on hover
+  cards.forEach(function(card) {
+    var img = card.querySelector('.unlearn-front-img');
+    var canvas = card.querySelector('.unlearn-pixels');
+    if (!img || !canvas) return;
+    var ctx = canvas.getContext('2d');
+    var loaded = false;
+
+    function pixelate() {
+      if (!loaded) return;
+      var w = canvas.width = img.naturalWidth / 8;
+      var h = canvas.height = img.naturalHeight / 8;
+      canvas.style.imageRendering = 'pixelated';
+      ctx.imageSmoothingEnabled = false;
+      ctx.drawImage(img, 0, 0, w, h);
+    }
+
+    if (img.complete) { loaded = true; }
+    else { img.addEventListener('load', function() { loaded = true; }); }
+
+    card.addEventListener('mouseenter', pixelate);
+    card.addEventListener('touchstart', function() {
+      pixelate();
+      setTimeout(function() { canvas.style.opacity = '0.6'; }, 50);
+    }, { passive: true });
+  });
+})();
+</script>
+
 
 <!-- ═══════════════════════════════════════════════ MORE FROM DEEPKIDS ══ -->
 <style>
@@ -9889,7 +10015,8 @@
       '.forces-cards',
       '.exp-grid',
       '.parents-stories',
-      '.ps-reasons'
+      '.ps-reasons',
+      '.unlearn-grid'
     ];
     var els = [];
     selectors.forEach(function(sel){
