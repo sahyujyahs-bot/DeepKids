@@ -8696,6 +8696,7 @@
   }
   .unlearn-grid {
     display: flex;
+    align-items: stretch;
     overflow-x: auto;
     gap: clamp(18px, 3vw, 28px);
     padding: 0 clamp(16px, 4vw, 48px) 20px;
@@ -8714,6 +8715,7 @@
     opacity: 0;
     transform: translateY(30px);
     transition: opacity 0.5s ease, transform 0.5s ease;
+    display: flex;
   }
   .unlearn-card.u-visible {
     opacity: 1;
@@ -8732,6 +8734,7 @@
   .unlearn-inner {
     position: relative;
     width: 100%;
+    flex: 1;
     transition: transform 0.7s cubic-bezier(0.34, 1.56, 0.64, 1);
     transform-style: preserve-3d;
   }
@@ -9099,32 +9102,19 @@
   <p class="more-intro eg-fade-in">EscapeGravity is just the beginning. We're building a universe of games, cards, and books that turn deep concepts into unforgettable experiences.</p>
 
   <div class="more-masonry">
-    <div class="more-pin" data-product="history"><img src="more-history.webp" alt="Indian History Board Game map" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Indian History Board Game</div><div class="more-pin-desc">52+ empires. 500+ cards. A detailed map board.</div></div></div>
-
     <div class="more-pin" data-product="sci"><img src="more-sci-front.webp" alt="Jagadish Chandra Bose trading card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Sci. Trading Cards</div><div class="more-pin-desc">Underdog scientists. Bias-free.</div></div></div>
-
     <div class="more-pin" data-product="evo"><img src="more-evo-1.webp" alt="Evolution — ancient ocean jellyfish" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
-
     <div class="more-pin" data-product="wpm"><img src="more-wpm-1.webp" alt="Who Pulls Whom — astronaut card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div><div class="more-pin-desc">Gravity card game.</div></div></div>
-
-    <div class="more-pin" data-product="evo"><img src="more-evo-2.webp" alt="Evolution — Cambrian sea creatures" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
-
-    <div class="more-pin" data-product="sci"><img src="more-sci-back.webp" alt="SCI. trading cards back design" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Sci. Trading Cards</div></div></div>
-
-    <div class="more-pin" data-product="wpm"><img src="more-wpm-2.webp" alt="Who Pulls Whom — Earth card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
-
     <div class="more-pin" data-product="evo"><img src="more-evo-4.webp" alt="Evolution — dinosaur hunting" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
-
-    <div class="more-pin" data-product="wpm"><img src="more-wpm-3.webp" alt="Who Pulls Whom — Jupiter card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
-
+    <div class="more-pin" data-product="history"><img src="more-history.webp" alt="Indian History Board Game map" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Indian History Board Game</div><div class="more-pin-desc">52+ empires. 500+ cards.</div></div></div>
+    <div class="more-pin" data-product="wpm"><img src="more-wpm-2.webp" alt="Who Pulls Whom — Earth card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
+    <div class="more-pin" data-product="evo"><img src="more-evo-2.webp" alt="Evolution — Cambrian sea creatures" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
+    <div class="more-pin" data-product="sci"><img src="more-sci-back.webp" alt="SCI. trading cards back design" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Sci. Trading Cards</div></div></div>
     <div class="more-pin" data-product="evo"><img src="more-evo-6.webp" alt="Evolution — pterodactyl forest" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
-
+    <div class="more-pin" data-product="wpm"><img src="more-wpm-3.webp" alt="Who Pulls Whom — Jupiter card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
     <div class="more-pin" data-product="evo"><img src="more-evo-5.webp" alt="Evolution — ancient rainforest" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
-
     <div class="more-pin" data-product="wpm"><img src="more-wpm-4.webp" alt="Who Pulls Whom — Sun card" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Who Pulls Whom?</div></div></div>
-
     <div class="more-pin" data-product="evo"><img src="more-evo-7.webp" alt="Evolution — koala moonlight" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
-
     <div class="more-pin" data-product="evo"><img src="more-evo-3.webp" alt="Evolution — early trees" decoding="async" loading="lazy"><div class="more-pin-overlay"><div class="more-pin-title">Evolution Picture Book</div></div></div>
   </div>
 </section>
