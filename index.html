@@ -2221,6 +2221,11 @@
     opacity: 1;
     transform: translateY(0);
   }
+  .ps-card:hover .ps-img {
+    transform: scale(1.03);
+    transition: transform 0.4s ease;
+  }
+  .ps-img { transition: transform 0.4s ease; }
   .ps-card:nth-child(1) { transition-delay: 0s; }
   .ps-card:nth-child(2) { transition-delay: 0.15s; }
   .ps-card:nth-child(3) { transition-delay: 0.3s; }
@@ -2476,8 +2481,13 @@
   function playClick() { gPlay(window._cardFlipBuf, 0.3); }
   function playScroll() { gPlay(window._cardScrollBuf, 0.15); }
 
-  cards.forEach(function(c) { c.addEventListener('click', playClick); });
-  reasons.forEach(function(r) { r.addEventListener('click', playClick); });
+  cards.forEach(function(c) {
+    c.addEventListener('click', playClick);
+    c.addEventListener('mouseenter', function() { gPlay(window._cardScrollBuf, 0.1); });
+  });
+  reasons.forEach(function(r) {
+    r.addEventListener('click', playClick);
+  });
 
   if (!cards.length || !('IntersectionObserver' in window)) return;
   var obs = new IntersectionObserver(function(entries) {
@@ -9337,10 +9347,7 @@
   if('IntersectionObserver' in window){
     const obs = new IntersectionObserver((entries) => {
       entries.forEach(e => {
-        if(e.isIntersecting){
-          e.target.classList.add('visible');
-          obs.unobserve(e.target);
-        }
+        e.target.classList.toggle('visible', e.isIntersecting);
       });
     }, { threshold: 0.1 });
     fadeEls.forEach(el => obs.observe(el));
