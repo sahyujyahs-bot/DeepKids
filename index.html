@@ -8820,10 +8820,12 @@
           btn.classList.add('right');
           score++;
           sfxRight();
+          if (typeof window.awardGP === 'function') window.awardGP('quiz_q_' + idx, 5);
         } else {
           btn.classList.add('wrong');
           opts[q.answer].classList.add('right');
           sfxWrong();
+          if (typeof window.awardGP === 'function') window.awardGP('quiz_attempt_' + idx, 2);
         }
         scoreEl.textContent = 'Score: ' + score;
         nextBtn.classList.add('show');
@@ -10683,12 +10685,15 @@
     });
   }
 
-  // ── How To Play: 25 pts for viewing all 3 tabs ──
+  // ── How To Play: 8 pts per tab, 25 bonus for all 3 ──
   var htpTabs = {};
   document.querySelectorAll('.s2-tab').forEach(function(tab) {
     tab.addEventListener('click', function() {
       var panel = tab.getAttribute('data-panel');
-      if (panel) htpTabs[panel] = true;
+      if (panel) {
+        award('htp_tab_' + panel, 8);
+        htpTabs[panel] = true;
+      }
       if (htpTabs.physical && htpTabs.boardgame && htpTabs.science) {
         award('htp_all', 25);
       }
@@ -10733,9 +10738,10 @@
   var flipped = {};
   document.querySelectorAll('.unlearn-card').forEach(function(card, i) {
     card.addEventListener('click', function() {
+      award('unlearn_' + i, 3);
       flipped[i] = true;
       if (Object.keys(flipped).length >= 4) {
-        award('unlearn_all', 15);
+        award('unlearn_all', 10);
       }
     });
   });
@@ -10770,8 +10776,9 @@
     }, 1500);
   }
 
-  // ── Expose points for signup form ──
+  // ── Expose for other scripts ──
   window.getGravityPoints = function() { return points; };
+  window.awardGP = function(key, amount) { award(key, amount); };
 
   // ── Click pill to show info ──
   var pillClicked = false;
@@ -10793,6 +10800,99 @@
   pill.addEventListener('animationend', function() {
     pill.classList.remove('wiggle');
   });
+})();
+</script>
+
+<!-- ═══════════════════════════════ FALLING APPLE + NEWTON ══ -->
+<style>
+#falling-apple {
+  position: fixed;
+  z-index: 50;
+  pointer-events: none;
+  opacity: 0;
+  right: 12%;
+  top: -60px;
+  transition: none;
+}
+#falling-apple img { width: 32px; filter: drop-shadow(0 3px 8px rgba(0,0,0,0.5)); }
+#newton-bottom {
+  position: fixed;
+  bottom: -140px;
+  right: 10%;
+  z-index: 49;
+  pointer-events: none;
+  transition: bottom 0.6s cubic-bezier(0.34,1.56,0.64,1);
+  text-align: center;
+}
+#newton-bottom.visible { bottom: 0; }
+#newton-bottom img { width: clamp(80px, 10vw, 110px); filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5)); }
+#newton-label {
+  font-family: 'Futura', sans-serif;
+  font-size: 11px;
+  color: rgba(255,255,255,0.5);
+  margin-top: -10px;
+  opacity: 0;
+  transition: opacity 0.5s ease 0.5s;
+}
+#newton-bottom.hit #newton-label { opacity: 1; }
+@keyframes newton-bonk { 0%{transform:scale(1)} 30%{transform:scale(1.15) translateY(-5px)} 100%{transform:scale(1)} }
+#newton-bottom.hit img { animation: newton-bonk 0.5s ease; }
+@media (max-width: 768px) {
+  #falling-apple { right: 8%; }
+  #falling-apple img { width: 24px; }
+  #newton-bottom { right: 5%; }
+  #newton-bottom img { width: 70px; }
+}
+</style>
+
+<div id="falling-apple"><img src="apple-fall.webp" alt=""></div>
+<div id="newton-bottom"><img src="newton-crash.webp" alt="Newton"><div id="newton-label">Eureka!</div></div>
+
+<script>
+(function(){
+  var apple = document.getElementById('falling-apple');
+  var newton = document.getElementById('newton-bottom');
+  if (!apple || !newton) return;
+
+  function onScroll() {
+    var scrollTop = window.pageYOffset || 0;
+    var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    var pct = docHeight > 0 ? scrollTop / docHeight : 0;
+
+    // Apple: starts at 5% scroll, reaches bottom at 90%
+    var applePct = Math.max(0, (pct - 0.05) / 0.85);
+    applePct = Math.min(applePct, 1);
+
+    if (applePct > 0 && applePct < 0.98) {
+      var appleY = -30 + applePct * (window.innerHeight + 10);
+      var drift = Math.sin(applePct * Math.PI * 4) * 15;
+      var rotate = applePct * 360;
+      apple.style.top = appleY + 'px';
+      apple.style.right = (window.innerWidth * 0.12 + drift) + 'px';
+      apple.style.transform = 'rotate(' + rotate + 'deg)';
+      apple.style.opacity = '0.9';
+    } else {
+      apple.style.opacity = '0';
+    }
+
+    // Newton: appears at 85%
+    if (pct > 0.85) {
+      newton.classList.add('visible');
+    } else {
+      newton.classList.remove('visible');
+      newton.classList.remove('hit');
+    }
+
+    // Apple hits Newton at 95%
+    if (pct > 0.95) {
+      newton.classList.add('hit');
+      apple.style.opacity = '0';
+      if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
+    }
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
 })();
 </script>
 </body>
