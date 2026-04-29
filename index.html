@@ -5069,7 +5069,7 @@
 
 
 /* ── S2 Tab switching ────────────────────────────────────── */
-(function(){
+document.addEventListener('DOMContentLoaded', function(){
   'use strict';
   var tabs = document.querySelectorAll('.s2-tab');
   var panels = document.querySelectorAll('.s2-panel');
@@ -5155,7 +5155,7 @@
   setBoardElementsVisible(false);
   s2Nav.style.display = '';
   setTimeout(function(){ if (window.initCardFan) window.initCardFan(); }, 100);
-})();
+});
 
 /* ── Physical Challenges — Card Fan ──────────────────────── */
 (function(){
