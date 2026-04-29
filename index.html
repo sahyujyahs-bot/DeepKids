@@ -1721,8 +1721,10 @@
       var data = new FormData();
       data.append('name', name);
       data.append('whatsapp', fullNumber);
+      var gp = typeof window.getGravityPoints === 'function' ? window.getGravityPoints() : 0;
       data.append('signup_type', 'Pre-Order');
-      data.append('_subject', 'EscapeGravity Pre-Order: ' + name);
+      data.append('gravity_points', gp);
+      data.append('_subject', 'EscapeGravity Interest: ' + name + ' (' + gp + ' pts)');
       data.append('_template', 'table');
       data.append('_captcha', 'false');
 
@@ -1736,7 +1738,8 @@
         headers: { 'Accept': 'application/json' },
         body: data
       }).then(function(r) { return r.json(); }).then(function(d) {
-        msg.textContent = '✓ Thanks! We\'ll WhatsApp you when pre-orders open.';
+        var gpMsg = gp > 0 ? ' Your ' + gp + ' Gravity Points (₹' + gp + ' discount) are saved!' : '';
+        msg.textContent = '✓ Thanks! We\'ll WhatsApp you with updates.' + gpMsg;
         if (typeof gtag === 'function') gtag('event', 'preorder_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
         if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'preorder' });
         msg.className = 'po-msg success';
@@ -1783,8 +1786,10 @@
       var data = new FormData();
       data.append('name', name);
       data.append('whatsapp', fullNumber);
+      var gp2 = typeof window.getGravityPoints === 'function' ? window.getGravityPoints() : 0;
       data.append('signup_type', 'Playtest');
-      data.append('_subject', 'EscapeGravity Playtest Request: ' + name);
+      data.append('gravity_points', gp2);
+      data.append('_subject', 'EscapeGravity Playtest: ' + name + ' (' + gp2 + ' pts)');
       data.append('_template', 'table');
       data.append('_captcha', 'false');
       msg.textContent = 'Submitting…';
@@ -1793,7 +1798,8 @@
       fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
         method: 'POST', headers: { 'Accept': 'application/json' }, body: data
       }).then(function(r) { return r.json(); }).then(function() {
-        msg.textContent = '✓ Awesome! We\'ll WhatsApp you to schedule a play test.';
+        var gpMsg2 = gp2 > 0 ? ' Your ' + gp2 + ' Gravity Points (₹' + gp2 + ' discount) are saved!' : '';
+        msg.textContent = '✓ Awesome! We\'ll WhatsApp you to schedule a play test.' + gpMsg2;
         if (typeof gtag === 'function') gtag('event', 'playtest_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
         if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'playtest' });
         msg.className = 'po-msg success';
