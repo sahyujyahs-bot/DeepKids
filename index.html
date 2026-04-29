@@ -4092,7 +4092,7 @@
 </style>
 
 <script>
-(function(){
+document.addEventListener('DOMContentLoaded', function(){
   'use strict';
 
   /* ── Config ─────────────────────────────────────────────── */
@@ -5069,7 +5069,7 @@
 
 
 /* ── S2 Tab switching ────────────────────────────────────── */
-document.addEventListener('DOMContentLoaded', function(){
+(function(){
   'use strict';
   var tabs = document.querySelectorAll('.s2-tab');
   var panels = document.querySelectorAll('.s2-panel');
@@ -5155,7 +5155,7 @@ document.addEventListener('DOMContentLoaded', function(){
   setBoardElementsVisible(false);
   s2Nav.style.display = '';
   setTimeout(function(){ if (window.initCardFan) window.initCardFan(); }, 100);
-});
+})();
 
 /* ── Physical Challenges — Card Fan ──────────────────────── */
 (function(){
@@ -6098,7 +6098,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const el = document.getElementById(sectionIds[num - 1]);
     if(el) el.scrollIntoView({behavior:'smooth',block:'start'});
   };
-})();
+});
 </script>
 
 <!-- ═══════════════════════════════════════════════ S4b: EVERY TURN ══ -->
