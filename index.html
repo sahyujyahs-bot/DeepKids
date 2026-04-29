@@ -10514,8 +10514,26 @@
   transition: opacity 0.4s ease, transform 0.4s ease;
   pointer-events: none;
 }
-#gp-toast.show { opacity: 1; transform: translateY(0); }
+#gp-toast.show { opacity: 1; transform: translateY(0); pointer-events: auto; }
 #gp-toast em { font-style: normal; color: #ffb300; }
+#gp-toast .gp-close {
+  position: absolute; top: 6px; right: 8px; cursor: pointer;
+  color: rgba(255,255,255,0.3); font-size: 14px;
+}
+#gp-toast .gp-close:hover { color: #fff; }
+/* Wiggle to attract attention */
+@keyframes gp-wiggle {
+  0%,100% { transform: translateX(0) rotate(0deg); }
+  15% { transform: translateX(-3px) rotate(-3deg); }
+  30% { transform: translateX(3px) rotate(3deg); }
+  45% { transform: translateX(-2px) rotate(-2deg); }
+  60% { transform: translateX(2px) rotate(1deg); }
+  75% { transform: translateX(-1px) rotate(0deg); }
+}
+#gp-pill.wiggle {
+  animation: gp-wiggle 0.6s ease;
+}
+#gp-pill { cursor: pointer; }
 @media (max-width: 768px) {
   #gp-pill { bottom: clamp(70px, 10vh, 90px); left: 8px; padding: 5px 10px 5px 8px; }
   #gp-score { font-size: 14px; }
@@ -10754,6 +10772,27 @@
 
   // ── Expose points for signup form ──
   window.getGravityPoints = function() { return points; };
+
+  // ── Click pill to show info ──
+  var pillClicked = false;
+  pill.addEventListener('click', function() {
+    if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.35);
+    pillClicked = true;
+    var discount = points > 0 ? ' That\'s <em>₹' + points + ' off</em> when we launch!' : '';
+    showToast('<em>Gravity Points</em> — earn points by exploring the site. Every point = ₹1 discount on EscapeGravity.' + discount + '<span class="gp-close" onclick="this.parentElement.classList.remove(\'show\')">✕</span>', 8000);
+  });
+
+  // ── Wiggle every 8 seconds until clicked ──
+  var wiggleTimer = setInterval(function() {
+    if (pillClicked || !visible) return;
+    pill.classList.remove('wiggle');
+    void pill.offsetWidth;
+    pill.classList.add('wiggle');
+  }, 8000);
+
+  pill.addEventListener('animationend', function() {
+    pill.classList.remove('wiggle');
+  });
 })();
 </script>
 </body>
