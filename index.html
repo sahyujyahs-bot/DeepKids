@@ -10816,12 +10816,18 @@
 }
 #falling-apple img { width: clamp(60px, 8vw, 90px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
 #newton-bottom {
-  position: absolute;
-  bottom: 0;
+  position: fixed;
+  bottom: -200px;
   right: 8%;
   z-index: 49;
   pointer-events: none;
   text-align: center;
+  transition: bottom 0.5s ease;
+  opacity: 0;
+}
+#newton-bottom.visible {
+  bottom: 0;
+  opacity: 1;
 }
 #newton-bottom img { width: clamp(180px, 24vw, 280px); filter: drop-shadow(0 6px 16px rgba(0,0,0,0.5)); }
 #newton-label { display: none; }
@@ -10862,8 +10868,8 @@
     var docHeight = document.documentElement.scrollHeight - window.innerHeight;
     var pct = docHeight > 0 ? scrollTop / docHeight : 0;
 
-    // Apple: starts falling at 1% scroll (immediately after any scroll)
-    var applePct = Math.max(0, (pct - 0.01) / 0.89);
+    // Apple: starts falling immediately on scroll
+    var applePct = Math.max(0, pct / 0.90);
     applePct = Math.min(applePct, 1);
 
     if (applePct > 0 && !appleHit) {
@@ -10877,6 +10883,13 @@
       apple.classList.remove('into-hole');
     } else if (!appleHit) {
       apple.style.opacity = '0';
+    }
+
+    // Newton appears near the very bottom
+    if (pct > 0.88) {
+      newton.classList.add('visible');
+    } else {
+      newton.classList.remove('visible');
     }
 
     // Apple hits Newton at 92% scroll
