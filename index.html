@@ -2790,7 +2790,7 @@
 </style>
 
 <section id="s-unlearn" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">4 &ldquo;Facts&rdquo; About Gravity That Are Simply Wrong. <span style="color:#9cbc14;font-size:0.7em;">#Unlearn</span></h2>
+  <h2 class="page-h2 eg-fade-in">4 &ldquo;Facts&rdquo; About Gravity That Are Wrong. <span style="color:#9cbc14;font-size:0.7em;">#Unlearn</span></h2>
   <p class="unlearn-intro eg-fade-in">You wouldn't believe how much of what we accept as facts are simply false — across topics. We did the research for you, and we hope to fix some holes. These are just 4 examples. About gravity.</p>
 
   <div class="unlearn-grid">
@@ -10399,6 +10399,335 @@
 
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
+})();
+</script>
+
+<!-- ═══════════════════════════════════ GRAVITY POINTS ══ -->
+<style>
+#gp-pill {
+  position: fixed;
+  bottom: clamp(80px, 12vh, 100px);
+  left: clamp(10px, 2vw, 20px);
+  z-index: 998;
+  background: rgba(10,6,24,0.85);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(156,188,20,0.3);
+  border-radius: 24px;
+  padding: 6px 14px 6px 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: default;
+  opacity: 0;
+  transform: translateX(-60px);
+  transition: opacity 0.5s ease, transform 0.5s ease, box-shadow 0.3s ease;
+  pointer-events: none;
+}
+#gp-pill.visible {
+  opacity: 1;
+  transform: translateX(0);
+  pointer-events: auto;
+}
+#gp-pill.pulse {
+  box-shadow: 0 0 16px rgba(156,188,20,0.5);
+}
+#gp-icon {
+  width: 24px; height: 24px;
+  animation: gp-spin 3s linear infinite paused;
+}
+#gp-pill.pulse #gp-icon { animation-play-state: running; }
+@keyframes gp-spin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+#gp-score {
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: 16px;
+  color: #9cbc14;
+  min-width: 20px;
+}
+#gp-label {
+  font-family: 'Futura', sans-serif;
+  font-size: 9px;
+  color: rgba(255,255,255,0.4);
+  letter-spacing: 0.5px;
+}
+#gp-float {
+  position: fixed;
+  z-index: 999;
+  pointer-events: none;
+  font-family: 'Norwester', sans-serif;
+  font-size: 18px;
+  color: #9cbc14;
+  opacity: 0;
+  transition: none;
+  text-shadow: 0 0 8px rgba(156,188,20,0.5);
+}
+#gp-float.show {
+  animation: gp-float-up 1s ease-out forwards;
+}
+@keyframes gp-float-up {
+  0% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-40px); }
+}
+#gp-toast {
+  position: fixed;
+  bottom: clamp(130px, 18vh, 160px);
+  left: clamp(10px, 2vw, 20px);
+  z-index: 997;
+  background: rgba(10,6,24,0.9);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(156,188,20,0.25);
+  border-radius: 12px;
+  padding: 10px 16px;
+  font-family: 'Futura', sans-serif;
+  font-size: 12px;
+  color: rgba(255,255,255,0.75);
+  max-width: 260px;
+  line-height: 1.4;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  pointer-events: none;
+}
+#gp-toast.show { opacity: 1; transform: translateY(0); }
+#gp-toast em { font-style: normal; color: #9cbc14; }
+@media (max-width: 768px) {
+  #gp-pill { bottom: clamp(70px, 10vh, 90px); left: 8px; padding: 5px 10px 5px 8px; }
+  #gp-score { font-size: 14px; }
+  #gp-toast { bottom: clamp(110px, 15vh, 140px); left: 8px; max-width: 220px; font-size: 11px; }
+}
+</style>
+
+<div id="gp-pill">
+  <svg id="gp-icon" viewBox="0 0 24 24" fill="none">
+    <circle cx="12" cy="12" r="10" stroke="#9cbc14" stroke-width="1.5"/>
+    <path d="M12 6v6l4 2" stroke="#9cbc14" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="12" cy="12" r="3" fill="#9cbc14" opacity="0.3"/>
+  </svg>
+  <div>
+    <div id="gp-score">0</div>
+    <div id="gp-label">GRAVITY PTS</div>
+  </div>
+</div>
+<div id="gp-float"></div>
+<div id="gp-toast"></div>
+
+<script>
+(function(){
+  var pill = document.getElementById('gp-pill');
+  var scoreEl = document.getElementById('gp-score');
+  var floatEl = document.getElementById('gp-float');
+  var toastEl = document.getElementById('gp-toast');
+  if (!pill) return;
+
+  // Load from localStorage
+  var stored = JSON.parse(localStorage.getItem('gp-data') || '{}');
+  var points = stored.points || 0;
+  var earned = stored.earned || {};
+  var toastsShown = stored.toasts || {};
+  var visible = false;
+
+  function save() {
+    localStorage.setItem('gp-data', JSON.stringify({
+      points: points, earned: earned, toasts: toastsShown
+    }));
+  }
+
+  function updateDisplay() { scoreEl.textContent = points; }
+
+  function showFloat(amount, x, y) {
+    floatEl.textContent = '+' + amount;
+    floatEl.style.left = (x || 40) + 'px';
+    floatEl.style.top = (y || pill.getBoundingClientRect().top) + 'px';
+    floatEl.classList.remove('show');
+    void floatEl.offsetWidth;
+    floatEl.classList.add('show');
+    pill.classList.add('pulse');
+    setTimeout(function() { pill.classList.remove('pulse'); }, 600);
+  }
+
+  function award(key, amount, x, y) {
+    if (earned[key]) return;
+    earned[key] = true;
+    points += amount;
+    updateDisplay();
+    showFloat(amount, x, y);
+    save();
+    checkToasts();
+  }
+
+  function awardRepeatable(key, amount) {
+    points += amount;
+    updateDisplay();
+    showFloat(amount);
+    save();
+    checkToasts();
+  }
+
+  function showToast(msg, duration) {
+    toastEl.innerHTML = msg;
+    toastEl.classList.add('show');
+    setTimeout(function() { toastEl.classList.remove('show'); }, duration || 4000);
+  }
+
+  function checkToasts() {
+    if (points >= 50 && !toastsShown.t50) {
+      toastsShown.t50 = true;
+      showToast("You're earning <em>Gravity Points!</em> These convert to <em>₹1 discount per point</em> when EscapeGravity launches.", 5000);
+      save();
+    }
+    if (points >= 100 && !toastsShown.t100) {
+      toastsShown.t100 = true;
+      showToast("<em>100 Gravity Points = ₹100 off!</em> Keep exploring to earn more.", 4000);
+      save();
+    }
+    if (points >= 200 && !toastsShown.t200) {
+      toastsShown.t200 = true;
+      showToast("<em>200 points!</em> You're in the top tier of explorers.", 4000);
+      save();
+    }
+  }
+
+  updateDisplay();
+
+  // ── Section scroll: 5 pts per section ──
+  var sectionIds = ['s-parents','s-unlearn','s2','s-experience','s-forces',
+    's-spiral','s-layers','s4-science','s4b-turns','s6b-gravity',
+    's3','s-game','s-quiz','s-faq','s6','s7','s-more'];
+
+  if ('IntersectionObserver' in window) {
+    var secObs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) {
+          award('sec_' + e.target.id, 5);
+        }
+      });
+    }, { threshold: 0.3 });
+    sectionIds.forEach(function(id) {
+      var el = document.getElementById(id);
+      if (el) secObs.observe(el);
+    });
+  }
+
+  // ── Time spent: 1 pt per 10 sec per section, max 12 per section ──
+  var timeTrackers = {};
+  if ('IntersectionObserver' in window) {
+    var timeObs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        var id = e.target.id;
+        if (e.isIntersecting) {
+          if (!timeTrackers[id]) timeTrackers[id] = { total: 0, timer: null };
+          var t = timeTrackers[id];
+          if (t.timer) return;
+          t.timer = setInterval(function() {
+            var key = 'time_' + id + '_' + t.total;
+            if (t.total < 12) {
+              t.total++;
+              award(key, 1);
+            }
+          }, 10000);
+        } else {
+          if (timeTrackers[id] && timeTrackers[id].timer) {
+            clearInterval(timeTrackers[id].timer);
+            timeTrackers[id].timer = null;
+          }
+        }
+      });
+    }, { threshold: 0.2 });
+    sectionIds.forEach(function(id) {
+      var el = document.getElementById(id);
+      if (el) timeObs.observe(el);
+    });
+  }
+
+  // ── How To Play: 25 pts for viewing all 3 tabs ──
+  var htpTabs = {};
+  document.querySelectorAll('.s2-tab').forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      var panel = tab.getAttribute('data-panel');
+      if (panel) htpTabs[panel] = true;
+      if (htpTabs.physical && htpTabs.boardgame && htpTabs.science) {
+        award('htp_all', 25);
+      }
+    });
+  });
+
+  // ── Quiz: 20 pts + 5 per correct ──
+  var origShowResult = window.showQuizResult;
+  var quizInterval = setInterval(function() {
+    var quizScore = document.getElementById('quiz-score');
+    var restartBtn = document.getElementById('quiz-restart');
+    if (restartBtn && !earned.quiz_done) {
+      award('quiz_done', 20);
+      // Try to get score from the displayed text
+      var scoreText = quizScore ? quizScore.parentElement.textContent : '';
+      var match = scoreText.match(/(\d+)\s*\/\s*(\d+)/);
+      if (match) {
+        var correct = parseInt(match[1]);
+        for (var i = 0; i < correct; i++) {
+          award('quiz_q' + i, 5);
+        }
+      }
+      clearInterval(quizInterval);
+    }
+  }, 2000);
+
+  // ── Mini game: 15 pts for playing + score ──
+  var gameInterval = setInterval(function() {
+    var overlay = document.getElementById('game-overlay-text');
+    if (overlay && overlay.textContent.indexOf('Score:') >= 0 && !earned.game_played) {
+      award('game_played', 15);
+      var gMatch = overlay.textContent.match(/Score:\s*(\d+)/);
+      if (gMatch) {
+        var gameScore = Math.min(parseInt(gMatch[1]), 50);
+        awardRepeatable('game_score', gameScore);
+      }
+      clearInterval(gameInterval);
+    }
+  }, 2000);
+
+  // ── Unlearn flips: 15 pts for flipping all 4 ──
+  var flipped = {};
+  document.querySelectorAll('.unlearn-card').forEach(function(card, i) {
+    card.addEventListener('click', function() {
+      flipped[i] = true;
+      if (Object.keys(flipped).length >= 4) {
+        award('unlearn_all', 15);
+      }
+    });
+  });
+
+  // ── Show Interest signup: 50 pts ──
+  var origDoPreOrder = window.doPreOrder;
+  if (typeof origDoPreOrder === 'function') {
+    window.doPreOrder = function() {
+      origDoPreOrder.apply(this, arguments);
+      setTimeout(function() { award('signup', 50); }, 500);
+    };
+  }
+
+  // ── Show pill after 30 seconds of scrolling ──
+  var showTimer = null;
+  window.addEventListener('scroll', function() {
+    if (visible) return;
+    if (!showTimer) {
+      showTimer = setTimeout(function() {
+        visible = true;
+        pill.classList.add('visible');
+        if (points > 0) checkToasts();
+      }, 3000);
+    }
+  }, { passive: true });
+
+  // If returning user with points, show immediately after short delay
+  if (points > 0) {
+    setTimeout(function() {
+      visible = true;
+      pill.classList.add('visible');
+    }, 1500);
+  }
+
+  // ── Expose points for signup form ──
+  window.getGravityPoints = function() { return points; };
 })();
 </script>
 </body>
