@@ -1104,7 +1104,7 @@
       /* ── Card keys ──────────────────────────────────────────── */
       const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
                              'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
-                             'DKLogo','ISSArt'];
+                             'DKLogo','ISSArt','AppleTree'];
       const BIRD_KEY      = 'Card12Side2';
       const BALLOON_KEY   = 'Card12Side1';
       const PARACHUTE_KEY = 'Card13Side1';
@@ -10816,15 +10816,13 @@
 }
 #falling-apple img { width: clamp(60px, 8vw, 90px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
 #newton-bottom {
-  position: fixed;
-  bottom: -200px;
+  position: absolute;
+  bottom: 0;
   right: 8%;
   z-index: 49;
   pointer-events: none;
-  transition: bottom 0.7s cubic-bezier(0.34,1.56,0.64,1);
   text-align: center;
 }
-#newton-bottom.visible { bottom: -20px; }
 #newton-bottom img { width: clamp(180px, 24vw, 280px); filter: drop-shadow(0 6px 16px rgba(0,0,0,0.5)); }
 #newton-label { display: none; }
 @keyframes newton-bonk {
@@ -10864,13 +10862,13 @@
     var docHeight = document.documentElement.scrollHeight - window.innerHeight;
     var pct = docHeight > 0 ? scrollTop / docHeight : 0;
 
-    // Apple: starts falling right after hero (5% scroll), reaches bottom at 88%
-    var applePct = Math.max(0, (pct - 0.05) / 0.83);
+    // Apple: starts falling at 1% scroll (immediately after any scroll)
+    var applePct = Math.max(0, (pct - 0.01) / 0.89);
     applePct = Math.min(applePct, 1);
 
     if (applePct > 0 && !appleHit) {
-      var appleY = -50 + applePct * (window.innerHeight + 30);
-      var drift = Math.sin(applePct * Math.PI * 6) * 20;
+      var appleY = -60 + applePct * (window.innerHeight + 40);
+      var drift = Math.sin(applePct * Math.PI * 6) * 25;
       var rotate = applePct * 540;
       apple.style.top = appleY + 'px';
       apple.style.right = (window.innerWidth * 0.09 + drift) + 'px';
@@ -10881,31 +10879,26 @@
       apple.style.opacity = '0';
     }
 
-    // Newton: appears at 82%
-    if (pct > 0.82) {
-      newton.classList.add('visible');
-    } else {
-      newton.classList.remove('visible');
-      newton.classList.remove('hit');
-      appleHit = false;
-      apple.classList.remove('into-hole');
-    }
-
-    // Apple hits Newton's head at 90%, then falls into the hole
-    if (pct > 0.90 && !appleHit) {
+    // Apple hits Newton at 92% scroll
+    if (pct > 0.92 && !appleHit) {
       appleHit = true;
       newton.classList.add('hit');
-      // Position apple on Newton's head
       var newtonRect = newton.getBoundingClientRect();
       apple.style.top = (newtonRect.top - 10) + 'px';
       apple.style.right = (window.innerWidth - newtonRect.left - newtonRect.width / 2 - 20) + 'px';
       apple.style.transform = 'rotate(0deg)';
-      // Apple falls into the hole after a beat
       setTimeout(function() {
         apple.classList.add('into-hole');
       }, 400);
       if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
       if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.3);
+    }
+
+    // Reset if scrolled back up
+    if (pct < 0.85) {
+      appleHit = false;
+      newton.classList.remove('hit');
+      apple.classList.remove('into-hole');
     }
   }
 
