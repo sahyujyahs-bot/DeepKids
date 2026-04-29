@@ -10811,37 +10811,51 @@
   pointer-events: none;
   opacity: 0;
   right: 12%;
-  top: -60px;
+  top: -80px;
   transition: none;
 }
-#falling-apple img { width: 32px; filter: drop-shadow(0 3px 8px rgba(0,0,0,0.5)); }
+#falling-apple img { width: clamp(45px, 6vw, 65px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
 #newton-bottom {
   position: fixed;
-  bottom: -140px;
-  right: 10%;
+  bottom: -200px;
+  right: 8%;
   z-index: 49;
   pointer-events: none;
-  transition: bottom 0.6s cubic-bezier(0.34,1.56,0.64,1);
+  transition: bottom 0.7s cubic-bezier(0.34,1.56,0.64,1);
   text-align: center;
 }
-#newton-bottom.visible { bottom: 0; }
-#newton-bottom img { width: clamp(80px, 10vw, 110px); filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5)); }
+#newton-bottom.visible { bottom: -20px; }
+#newton-bottom img { width: clamp(140px, 18vw, 200px); filter: drop-shadow(0 6px 16px rgba(0,0,0,0.5)); }
 #newton-label {
-  font-family: 'Futura', sans-serif;
-  font-size: 11px;
-  color: rgba(255,255,255,0.5);
-  margin-top: -10px;
+  font-family: 'Norwester', sans-serif;
+  font-variant: small-caps;
+  font-size: clamp(13px, 1.6vw, 18px);
+  color: #ffb300;
+  margin-top: -30px;
   opacity: 0;
-  transition: opacity 0.5s ease 0.5s;
+  transition: opacity 0.5s ease 0.3s;
+  text-shadow: 0 0 10px rgba(255,152,0,0.4);
 }
 #newton-bottom.hit #newton-label { opacity: 1; }
-@keyframes newton-bonk { 0%{transform:scale(1)} 30%{transform:scale(1.15) translateY(-5px)} 100%{transform:scale(1)} }
-#newton-bottom.hit img { animation: newton-bonk 0.5s ease; }
+@keyframes newton-bonk {
+  0% { transform: scale(1) translateY(0); }
+  20% { transform: scale(1.1) translateY(-8px); }
+  50% { transform: scale(0.95) translateY(0); }
+  70% { transform: scale(1.03) translateY(-3px); }
+  100% { transform: scale(1) translateY(0); }
+}
+#newton-bottom.hit img { animation: newton-bonk 0.6s ease; }
+@keyframes apple-into-hole {
+  0% { opacity: 0.9; transform: translateY(0) scale(1); }
+  30% { opacity: 1; transform: translateY(-10px) scale(0.9); }
+  100% { opacity: 0; transform: translateY(40px) scale(0.3); }
+}
+#falling-apple.into-hole img { animation: apple-into-hole 0.8s ease-in forwards; }
 @media (max-width: 768px) {
-  #falling-apple { right: 8%; }
-  #falling-apple img { width: 24px; }
-  #newton-bottom { right: 5%; }
-  #newton-bottom img { width: 70px; }
+  #falling-apple { right: 6%; }
+  #falling-apple img { width: clamp(35px, 8vw, 50px); }
+  #newton-bottom { right: 3%; }
+  #newton-bottom img { width: clamp(100px, 25vw, 150px); }
 }
 </style>
 
@@ -10853,41 +10867,55 @@
   var apple = document.getElementById('falling-apple');
   var newton = document.getElementById('newton-bottom');
   if (!apple || !newton) return;
+  var appleHit = false;
 
   function onScroll() {
     var scrollTop = window.pageYOffset || 0;
     var docHeight = document.documentElement.scrollHeight - window.innerHeight;
     var pct = docHeight > 0 ? scrollTop / docHeight : 0;
 
-    // Apple: starts at 5% scroll, reaches bottom at 90%
-    var applePct = Math.max(0, (pct - 0.05) / 0.85);
+    // Apple: appears at 20% scroll (after ~3 sections), reaches bottom at 88%
+    var applePct = Math.max(0, (pct - 0.2) / 0.68);
     applePct = Math.min(applePct, 1);
 
-    if (applePct > 0 && applePct < 0.98) {
-      var appleY = -30 + applePct * (window.innerHeight + 10);
-      var drift = Math.sin(applePct * Math.PI * 4) * 15;
-      var rotate = applePct * 360;
+    if (applePct > 0 && !appleHit) {
+      var appleY = -50 + applePct * (window.innerHeight + 30);
+      var drift = Math.sin(applePct * Math.PI * 6) * 20;
+      var rotate = applePct * 540;
       apple.style.top = appleY + 'px';
-      apple.style.right = (window.innerWidth * 0.12 + drift) + 'px';
+      apple.style.right = (window.innerWidth * 0.09 + drift) + 'px';
       apple.style.transform = 'rotate(' + rotate + 'deg)';
       apple.style.opacity = '0.9';
-    } else {
+      apple.classList.remove('into-hole');
+    } else if (!appleHit) {
       apple.style.opacity = '0';
     }
 
-    // Newton: appears at 85%
-    if (pct > 0.85) {
+    // Newton: appears at 82%
+    if (pct > 0.82) {
       newton.classList.add('visible');
     } else {
       newton.classList.remove('visible');
       newton.classList.remove('hit');
+      appleHit = false;
+      apple.classList.remove('into-hole');
     }
 
-    // Apple hits Newton at 95%
-    if (pct > 0.95) {
+    // Apple hits Newton's head at 90%, then falls into the hole
+    if (pct > 0.90 && !appleHit) {
+      appleHit = true;
       newton.classList.add('hit');
-      apple.style.opacity = '0';
+      // Position apple on Newton's head
+      var newtonRect = newton.getBoundingClientRect();
+      apple.style.top = (newtonRect.top - 10) + 'px';
+      apple.style.right = (window.innerWidth - newtonRect.left - newtonRect.width / 2 - 20) + 'px';
+      apple.style.transform = 'rotate(0deg)';
+      // Apple falls into the hole after a beat
+      setTimeout(function() {
+        apple.classList.add('into-hole');
+      }, 400);
       if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
+      if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.3);
     }
   }
 
