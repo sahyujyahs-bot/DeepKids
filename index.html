@@ -10814,7 +10814,7 @@
   top: -80px;
   transition: none;
 }
-#falling-apple img { width: clamp(45px, 6vw, 65px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
+#falling-apple img { width: clamp(60px, 8vw, 90px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
 #newton-bottom {
   position: fixed;
   bottom: -200px;
@@ -10825,18 +10825,8 @@
   text-align: center;
 }
 #newton-bottom.visible { bottom: -20px; }
-#newton-bottom img { width: clamp(140px, 18vw, 200px); filter: drop-shadow(0 6px 16px rgba(0,0,0,0.5)); }
-#newton-label {
-  font-family: 'Norwester', sans-serif;
-  font-variant: small-caps;
-  font-size: clamp(13px, 1.6vw, 18px);
-  color: #ffb300;
-  margin-top: -30px;
-  opacity: 0;
-  transition: opacity 0.5s ease 0.3s;
-  text-shadow: 0 0 10px rgba(255,152,0,0.4);
-}
-#newton-bottom.hit #newton-label { opacity: 1; }
+#newton-bottom img { width: clamp(180px, 24vw, 280px); filter: drop-shadow(0 6px 16px rgba(0,0,0,0.5)); }
+#newton-label { display: none; }
 @keyframes newton-bonk {
   0% { transform: scale(1) translateY(0); }
   20% { transform: scale(1.1) translateY(-8px); }
@@ -10852,10 +10842,10 @@
 }
 #falling-apple.into-hole img { animation: apple-into-hole 0.8s ease-in forwards; }
 @media (max-width: 768px) {
-  #falling-apple { right: 6%; }
-  #falling-apple img { width: clamp(35px, 8vw, 50px); }
-  #newton-bottom { right: 3%; }
-  #newton-bottom img { width: clamp(100px, 25vw, 150px); }
+  #falling-apple { right: 5%; }
+  #falling-apple img { width: clamp(50px, 12vw, 70px); }
+  #newton-bottom { right: 2%; }
+  #newton-bottom img { width: clamp(140px, 35vw, 200px); }
 }
 </style>
 
@@ -10874,8 +10864,8 @@
     var docHeight = document.documentElement.scrollHeight - window.innerHeight;
     var pct = docHeight > 0 ? scrollTop / docHeight : 0;
 
-    // Apple: appears at 20% scroll (after ~3 sections), reaches bottom at 88%
-    var applePct = Math.max(0, (pct - 0.2) / 0.68);
+    // Apple: starts falling right after hero (5% scroll), reaches bottom at 88%
+    var applePct = Math.max(0, (pct - 0.05) / 0.83);
     applePct = Math.min(applePct, 1);
 
     if (applePct > 0 && !appleHit) {
