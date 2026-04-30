@@ -42,7 +42,7 @@ canvas{display:block;cursor:crosshair}
       <span class="val" id="size-val">20</span>
     </div>
     <div class="slider-row">
-      <label title="Sideways velocity. Determines orbit vs crash vs escape. 0 = falls straight in. High = escapes.">Speed</label>
+      <label title="0 = no speed (falls in). 50 = perfect orbit. 100 = escape velocity. Calculated relative to nearest mass.">Speed</label>
       <input type="range" id="speed-slider" min="0" max="100" value="30">
       <span class="val" id="speed-val">30</span>
     </div>
@@ -105,8 +105,8 @@ function syncSliders(o){
 }
 
 function applySpeed(o){
-  var speed=parseInt(speedSlider.value)*0.08;
-  if(objects.length<=1||speed===0){o.vx=0;o.vy=0;return;}
+  var pct=parseInt(speedSlider.value)/100; // 0 to 1
+  if(objects.length<=1||pct===0){o.vx=0;o.vy=0;return;}
   var nearest=null,nd=Infinity;
   for(var i=0;i<objects.length;i++){
     if(objects[i]===o)continue;
@@ -115,7 +115,16 @@ function applySpeed(o){
   }
   if(nearest){
     var dx=nearest.x-o.x,dy=nearest.y-o.y,dist=Math.sqrt(dx*dx+dy*dy);
-    if(dist>1){o.vx=-(dy/dist)*speed;o.vy=(dx/dist)*speed;}
+    if(dist>1){
+      // Circular orbital speed = sqrt(G * M / r)
+      var G=0.15;
+      var orbitalV=Math.sqrt(G*nearest.mass/Math.max(dist,20));
+      // pct=0.5 = perfect orbit, <0.5 = falls in, >0.5 = escapes
+      // Scale: 0=0, 50=orbital, 100=2x orbital (escape)
+      var speed=orbitalV*pct*2;
+      o.vx=-(dy/dist)*speed;
+      o.vy=(dx/dist)*speed;
+    }
   }
 }
 
