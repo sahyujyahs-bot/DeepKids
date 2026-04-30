@@ -70,323 +70,232 @@ canvas{display:block;cursor:crosshair}
 <div id="info">Tap/click to place objects · Drag to move them · Scroll to adjust mass</div>
 
 <script>
-var cv = document.getElementById('cv');
-var ctx = cv.getContext('2d');
-var W, H, GRID = 28;
-var objects = [];
-var dragging = null, dragOffX = 0, dragOffY = 0, selected = null;
-var massSlider = document.getElementById('mass-slider');
-var sizeSlider = document.getElementById('size-slider');
-var speedSlider = document.getElementById('speed-slider');
-var massVal = document.getElementById('mass-val');
-var sizeVal = document.getElementById('size-val');
-var speedVal = document.getElementById('speed-val');
-var showTrails = false;
-var energyLoss = true;
-var currentColor = '#ffdd22';
+var cv=document.getElementById('cv'),ctx=cv.getContext('2d'),W,H,GRID=28;
+var objects=[],dragging=null,dragOffX=0,dragOffY=0,selected=null;
+var massSlider=document.getElementById('mass-slider');
+var sizeSlider=document.getElementById('size-slider');
+var speedSlider=document.getElementById('speed-slider');
+var massVal=document.getElementById('mass-val');
+var sizeVal=document.getElementById('size-val');
+var speedVal=document.getElementById('speed-val');
+var showTrails=false,energyLoss=true,currentColor='#ffdd22';
 
-function resize() { W = cv.width = window.innerWidth; H = cv.height = window.innerHeight; }
-resize(); window.addEventListener('resize', resize);
+function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
+resize();window.addEventListener('resize',resize);
 
-document.querySelectorAll('.preset').forEach(function(p) {
-  p.addEventListener('click', function() {
+document.querySelectorAll('.preset').forEach(function(p){
+  p.addEventListener('click',function(){
     document.querySelectorAll('.preset').forEach(function(pp){pp.classList.remove('active')});
     p.classList.add('active');
-    massSlider.value = p.dataset.mass || 30;
-    sizeSlider.value = p.dataset.size || 20;
-    speedSlider.value = p.dataset.speed || 30;
-    currentColor = p.dataset.color || '#9cbc14';
-    massVal.textContent = massSlider.value;
-    sizeVal.textContent = sizeSlider.value;
-    speedVal.textContent = speedSlider.value;
-    if (selected) {
-      selected.mass = +massSlider.value;
-      selected.size = +sizeSlider.value;
-      selected.color = currentColor;
-      selected.isPhoton = +massSlider.value <= 1;
-      // Update velocity based on new speed
-      var spd = parseInt(speedSlider.value) * 0.06;
-      if (spd > 0) {
-        var nearest = null, nearDist = Infinity;
-        for (var ii = 0; ii < objects.length; ii++) {
-          if (objects[ii] === selected) continue;
-          var ddx = objects[ii].x - selected.x, ddy = objects[ii].y - selected.y;
-          var dd = Math.sqrt(ddx * ddx + ddy * ddy);
-          if (dd < nearDist) { nearDist = dd; nearest = objects[ii]; }
-        }
-        if (nearest) {
-          var ddx2 = nearest.x - selected.x, ddy2 = nearest.y - selected.y;
-          var dist2 = Math.sqrt(ddx2 * ddx2 + ddy2 * ddy2);
-          if (dist2 > 1) { selected.vx = -(ddy2 / dist2) * spd; selected.vy = (ddx2 / dist2) * spd; }
-        }
-      }
+    massSlider.value=p.dataset.mass||30;sizeSlider.value=p.dataset.size||20;
+    speedSlider.value=p.dataset.speed||30;currentColor=p.dataset.color||'#9cbc14';
+    massVal.textContent=massSlider.value;sizeVal.textContent=sizeSlider.value;
+    speedVal.textContent=speedSlider.value;
+    if(selected){
+      selected.mass=+massSlider.value;selected.size=+sizeSlider.value;
+      selected.color=currentColor;selected.isPhoton=+massSlider.value<=1;
+      applySpeed(selected);
     }
   });
 });
 
-function syncSliders(o) {
-  massSlider.value = o.mass; sizeSlider.value = o.size;
-  massVal.textContent = o.mass; sizeVal.textContent = o.size;
-}
-massSlider.addEventListener('input', function() { massVal.textContent = this.value; if (selected) { selected.mass = +this.value; selected.isPhoton = +this.value <= 1; } });
-sizeSlider.addEventListener('input', function() { sizeVal.textContent = this.value; if (selected) selected.size = +this.value; });
-speedSlider.addEventListener('input', function() {
-  speedVal.textContent = this.value;
-  if (selected && selected !== dragging) {
-    var speed = parseInt(this.value) * 0.06;
-    // Find nearest other object to orbit around
-    var nearest = null, nearDist = Infinity;
-    for (var i = 0; i < objects.length; i++) {
-      if (objects[i] === selected) continue;
-      var dx = objects[i].x - selected.x, dy = objects[i].y - selected.y;
-      var d = Math.sqrt(dx * dx + dy * dy);
-      if (d < nearDist) { nearDist = d; nearest = objects[i]; }
-    }
-    if (nearest) {
-      var dx = nearest.x - selected.x, dy = nearest.y - selected.y;
-      var dist = Math.sqrt(dx * dx + dy * dy);
-      if (dist > 1) {
-        selected.vx = -(dy / dist) * speed;
-        selected.vy = (dx / dist) * speed;
-      }
-    } else {
-      selected.vx = speed;
-      selected.vy = 0;
-    }
-  }
-});
-
-document.getElementById('btn-clear').addEventListener('click', function() { objects = []; selected = null; });
-document.getElementById('btn-trails').addEventListener('click', function() {
-  showTrails = !showTrails; this.textContent = 'Trails: ' + (showTrails ? 'On' : 'Off');
-});
-var btnEnergy = document.getElementById('btn-energy');
-btnEnergy.addEventListener('click', function() {
-  energyLoss = !energyLoss;
-  this.textContent = 'Drag: ' + (energyLoss ? 'On' : 'Off');
-  this.style.borderColor = energyLoss ? '#ff6633' : '#9cbc14';
-  this.title = energyLoss
-    ? 'Drag On = friction/atmosphere slows objects (spiral in)'
-    : 'Drag Off = vacuum, no friction (stable orbits like Earth around Sun)';
-});
-document.getElementById('btn-add').addEventListener('click', function() {
-  addObject(W * 0.2 + Math.random() * W * 0.6, H * 0.2 + Math.random() * H * 0.6);
-});
-
-function addObject(x, y) {
-  var speed = parseInt(speedSlider.value) * 0.06;
-  var mass = +massSlider.value;
-  var isPhoton = mass <= 1;
-  var vx = 0, vy = 0;
-  if (objects.length > 0 && speed > 0) {
-    var nearest = null, nearDist = Infinity;
-    for (var i = 0; i < objects.length; i++) {
-      var dx = objects[i].x - x, dy = objects[i].y - y;
-      var d = Math.sqrt(dx * dx + dy * dy);
-      if (d < nearDist) { nearDist = d; nearest = objects[i]; }
-    }
-    if (nearest) {
-      var dx = nearest.x - x, dy = nearest.y - y;
-      var dist = Math.sqrt(dx * dx + dy * dy);
-      if (dist > 1) { vx = -(dy / dist) * speed; vy = (dx / dist) * speed; }
-    }
-  }
-  var obj = {
-    x: x, y: y, mass: mass, size: +sizeSlider.value,
-    color: currentColor, vx: vx, vy: vy, isPhoton: isPhoton
-  };
-  objects.push(obj); selected = obj; syncSliders(obj);
+function syncSliders(o){
+  massSlider.value=o.mass;sizeSlider.value=o.size;
+  massVal.textContent=o.mass;sizeVal.textContent=o.size;
 }
 
-function getPos(e) { var t = e.touches ? e.touches[0] : e; return { x: t.clientX, y: t.clientY }; }
-function findObject(x, y) {
-  for (var i = objects.length - 1; i >= 0; i--) {
-    var o = objects[i], dx = x - o.x, dy = y - o.y;
-    if (dx * dx + dy * dy < (o.size + 15) * (o.size + 15)) return o;
+function applySpeed(o){
+  var speed=parseInt(speedSlider.value)*0.08;
+  if(objects.length<=1||speed===0){o.vx=0;o.vy=0;return;}
+  var nearest=null,nd=Infinity;
+  for(var i=0;i<objects.length;i++){
+    if(objects[i]===o)continue;
+    var dx=objects[i].x-o.x,dy=objects[i].y-o.y,d=Math.sqrt(dx*dx+dy*dy);
+    if(d<nd){nd=d;nearest=objects[i];}
   }
-  return null;
+  if(nearest){
+    var dx=nearest.x-o.x,dy=nearest.y-o.y,dist=Math.sqrt(dx*dx+dy*dy);
+    if(dist>1){o.vx=-(dy/dist)*speed;o.vy=(dx/dist)*speed;}
+  }
 }
 
-cv.addEventListener('mousedown', function(e) { var p = getPos(e), f = findObject(p.x, p.y); if (f) { dragging = f; selected = f; syncSliders(f); dragOffX = p.x - f.x; dragOffY = p.y - f.y; } });
-cv.addEventListener('mousemove', function(e) { if (dragging) { var p = getPos(e); dragging.x = p.x - dragOffX; dragging.y = p.y - dragOffY; dragging.vx = 0; dragging.vy = 0; } });
-cv.addEventListener('mouseup', function(e) { if (!dragging) { var p = getPos(e); if (!findObject(p.x, p.y)) addObject(p.x, p.y); } dragging = null; });
-cv.addEventListener('touchstart', function(e) { var p = getPos(e), f = findObject(p.x, p.y); if (f) { dragging = f; selected = f; syncSliders(f); dragOffX = p.x - f.x; dragOffY = p.y - f.y; e.preventDefault(); } }, { passive: false });
-cv.addEventListener('touchmove', function(e) { if (dragging) { var p = getPos(e); dragging.x = p.x - dragOffX; dragging.y = p.y - dragOffY; dragging.vx = 0; dragging.vy = 0; e.preventDefault(); } }, { passive: false });
-cv.addEventListener('touchend', function(e) { if (!dragging && e.changedTouches) { var t = e.changedTouches[0]; if (!findObject(t.clientX, t.clientY)) addObject(t.clientX, t.clientY); } dragging = null; });
-cv.addEventListener('wheel', function(e) { var p = getPos(e), o = findObject(p.x, p.y); if (o) { o.mass = Math.max(1, Math.min(100, o.mass + (e.deltaY > 0 ? -3 : 3))); o.size = Math.max(3, Math.min(60, o.size + (e.deltaY > 0 ? -1 : 1))); if (o === selected) syncSliders(o); e.preventDefault(); } }, { passive: false });
+massSlider.addEventListener('input',function(){
+  massVal.textContent=this.value;
+  if(selected){selected.mass=+this.value;selected.isPhoton=+this.value<=1;}
+});
+sizeSlider.addEventListener('input',function(){
+  sizeVal.textContent=this.value;if(selected)selected.size=+this.value;
+});
+speedSlider.addEventListener('input',function(){
+  speedVal.textContent=this.value;if(selected)applySpeed(selected);
+});
 
-function updatePhysics() {
-  var G = 0.12;
-  var DAMPING = energyLoss ? 0.9992 : 1.0;
+document.getElementById('btn-clear').addEventListener('click',function(){objects=[];selected=null;});
+document.getElementById('btn-trails').addEventListener('click',function(){
+  showTrails=!showTrails;this.textContent='Trails: '+(showTrails?'On':'Off');
+});
+document.getElementById('btn-energy').addEventListener('click',function(){
+  energyLoss=!energyLoss;
+  this.textContent='Drag: '+(energyLoss?'On':'Off');
+  this.style.borderColor=energyLoss?'#ff6633':'#9cbc14';
+});
+document.getElementById('btn-add').addEventListener('click',function(){
+  addObject(W*0.2+Math.random()*W*0.6,H*0.2+Math.random()*H*0.6);
+});
 
-  // Mergers (not for photons)
-  for (var i = 0; i < objects.length; i++) {
-    for (var j = i + 1; j < objects.length; j++) {
-      if (objects[i].isPhoton || objects[j].isPhoton) continue;
-      var dx = objects[j].x - objects[i].x, dy = objects[j].y - objects[i].y;
-      var dist = Math.sqrt(dx * dx + dy * dy);
-      if (dist < Math.min(objects[i].size, objects[j].size) * 0.5 && objects[i] !== dragging && objects[j] !== dragging) {
-        var big = objects[i].mass >= objects[j].mass ? i : j, small = big === i ? j : i;
-        var b = objects[big], s = objects[small], tm = b.mass + s.mass;
-        b.vx = (b.vx * b.mass + s.vx * s.mass) / tm;
-        b.vy = (b.vy * b.mass + s.vy * s.mass) / tm;
-        b.mass = Math.min(tm, 100);
-        b.size = Math.min(Math.sqrt(b.size * b.size + s.size * s.size), 60);
-        if (selected === s) selected = b;
-        objects.splice(small, 1);
-        if (selected) syncSliders(selected);
-        break;
+function addObject(x,y){
+  var obj={x:x,y:y,mass:+massSlider.value,size:+sizeSlider.value,
+    color:currentColor,vx:0,vy:0,isPhoton:+massSlider.value<=1};
+  objects.push(obj);selected=obj;syncSliders(obj);
+  applySpeed(obj);
+}
+
+function getPos(e){var t=e.touches?e.touches[0]:e;return{x:t.clientX,y:t.clientY};}
+function findObject(x,y){
+  for(var i=objects.length-1;i>=0;i--){
+    var o=objects[i],dx=x-o.x,dy=y-o.y;
+    if(dx*dx+dy*dy<(o.size+18)*(o.size+18))return o;
+  }return null;
+}
+
+cv.addEventListener('mousedown',function(e){var p=getPos(e),f=findObject(p.x,p.y);
+  if(f){dragging=f;selected=f;syncSliders(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;}});
+cv.addEventListener('mousemove',function(e){
+  if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;}});
+cv.addEventListener('mouseup',function(e){
+  if(!dragging){var p=getPos(e);if(!findObject(p.x,p.y))addObject(p.x,p.y);}dragging=null;});
+cv.addEventListener('touchstart',function(e){var p=getPos(e),f=findObject(p.x,p.y);
+  if(f){dragging=f;selected=f;syncSliders(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;e.preventDefault();}},{passive:false});
+cv.addEventListener('touchmove',function(e){
+  if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;e.preventDefault();}},{passive:false});
+cv.addEventListener('touchend',function(e){
+  if(!dragging&&e.changedTouches){var t=e.changedTouches[0];if(!findObject(t.clientX,t.clientY))addObject(t.clientX,t.clientY);}dragging=null;});
+cv.addEventListener('wheel',function(e){var p=getPos(e),o=findObject(p.x,p.y);
+  if(o){o.mass=Math.max(1,Math.min(100,o.mass+(e.deltaY>0?-3:3)));
+    o.size=Math.max(3,Math.min(60,o.size+(e.deltaY>0?-1:1)));
+    if(o===selected)syncSliders(o);e.preventDefault();}},{passive:false});
+
+function updatePhysics(){
+  var G=0.15,DAMP=energyLoss?0.999:1.0;
+  // Mergers
+  for(var i=0;i<objects.length;i++){
+    for(var j=i+1;j<objects.length;j++){
+      if(objects[i].isPhoton||objects[j].isPhoton)continue;
+      var dx=objects[j].x-objects[i].x,dy=objects[j].y-objects[i].y;
+      var dist=Math.sqrt(dx*dx+dy*dy);
+      if(dist<Math.min(objects[i].size,objects[j].size)*0.4&&objects[i]!==dragging&&objects[j]!==dragging){
+        var bi=objects[i].mass>=objects[j].mass?i:j,si=bi===i?j:i;
+        var b=objects[bi],s=objects[si],tm=b.mass+s.mass;
+        b.vx=(b.vx*b.mass+s.vx*s.mass)/tm;
+        b.vy=(b.vy*b.mass+s.vy*s.mass)/tm;
+        b.mass=Math.min(tm,100);b.size=Math.min(Math.sqrt(b.size*b.size+s.size*s.size),60);
+        if(selected===s)selected=b;objects.splice(si,1);
+        if(selected)syncSliders(selected);break;
       }
     }
   }
-
-  for (var i = 0; i < objects.length; i++) {
-    if (objects[i] === dragging) continue;
-    var o = objects[i], ax = 0, ay = 0;
-    for (var j = 0; j < objects.length; j++) {
-      if (i === j) continue;
-      var dx = objects[j].x - o.x, dy = objects[j].y - o.y;
-      var dist = Math.sqrt(dx * dx + dy * dy);
-
-      // Photon absorbed by black hole (size < 6)
-      if (o.isPhoton && dist < objects[j].size && objects[j].size < 6) {
-        objects.splice(i, 1); i--; break;
+  for(var i=0;i<objects.length;i++){
+    if(objects[i]===dragging)continue;
+    var o=objects[i],ax=0,ay=0;
+    for(var j=0;j<objects.length;j++){
+      if(i===j)continue;
+      var dx=objects[j].x-o.x,dy=objects[j].y-o.y;
+      var dist=Math.sqrt(dx*dx+dy*dy);
+      // Photon absorbed by black hole
+      if(o.isPhoton&&dist<objects[j].size*0.8&&objects[j].size<8){
+        objects.splice(i,1);i--;break;
       }
-
-      if (!o.isPhoton && dist < o.size + objects[j].size) {
-        var nx = dx / dist, ny = dy / dist, overlap = (o.size + objects[j].size) - dist;
-        o.x -= nx * overlap * 0.3; o.y -= ny * overlap * 0.3;
+      // Soft collision
+      if(!o.isPhoton&&dist<o.size+objects[j].size&&dist>0){
+        var nx=dx/dist,ny=dy/dist;
+        o.x-=nx*(o.size+objects[j].size-dist)*0.4;
+        o.y-=ny*(o.size+objects[j].size-dist)*0.4;
+        // Bounce
+        var rv=(o.vx-objects[j].vx)*nx+(o.vy-objects[j].vy)*ny;
+        if(rv>0){o.vx-=nx*rv*0.8;o.vy-=ny*rv*0.8;}
         continue;
       }
-
-      // Gravity — photons are affected by gravity but have no mass to pull back
-      var force = G * objects[j].mass / (dist * dist + 60);
-      // Photons: gravity bends their path (gravitational lensing)
-      var multiplier = o.isPhoton ? 2.5 : 1.0;
-      ax += force * dx / dist * multiplier;
-      ay += force * dy / dist * multiplier;
+      var force=G*objects[j].mass/(dist*dist+40);
+      var mult=o.isPhoton?3.0:1.0;
+      ax+=force*dx/dist*mult;ay+=force*dy/dist*mult;
     }
-
-    // Photons maintain constant speed (they don't slow down or speed up)
-    if (o.isPhoton) {
-      o.vx += ax; o.vy += ay;
-      var spd = Math.sqrt(o.vx * o.vx + o.vy * o.vy);
-      var targetSpeed = 3.0; // speed of light (constant)
-      if (spd > 0) { o.vx = (o.vx / spd) * targetSpeed; o.vy = (o.vy / spd) * targetSpeed; }
-    } else {
-      o.vx = (o.vx + ax) * DAMPING;
-      o.vy = (o.vy + ay) * DAMPING;
+    if(o.isPhoton){
+      o.vx+=ax;o.vy+=ay;
+      var spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
+      if(spd>0){var ts=3.5;o.vx=(o.vx/spd)*ts;o.vy=(o.vy/spd)*ts;}
+    }else{
+      o.vx=(o.vx+ax)*DAMP;o.vy=(o.vy+ay)*DAMP;
     }
-
-    o.x += o.vx; o.y += o.vy;
-
-    // Walls — photons wrap around, others bounce
-    if (o.isPhoton) {
-      if (o.x < -20) o.x = W + 20; if (o.x > W + 20) o.x = -20;
-      if (o.y < -20) o.y = H + 20; if (o.y > H + 20) o.y = -20;
-    } else {
-      if (o.x < 0) { o.x = 0; o.vx *= -0.3; } if (o.x > W) { o.x = W; o.vx *= -0.3; }
-      if (o.y < 0) { o.y = 0; o.vy *= -0.3; } if (o.y > H) { o.y = H; o.vy *= -0.3; }
+    o.x+=o.vx;o.y+=o.vy;
+    if(o.isPhoton){
+      if(o.x<-30)o.x=W+30;if(o.x>W+30)o.x=-30;
+      if(o.y<-30)o.y=H+30;if(o.y>H+30)o.y=-30;
+    }else{
+      if(o.x<0){o.x=0;o.vx*=-0.3;}if(o.x>W){o.x=W;o.vx*=-0.3;}
+      if(o.y<0){o.y=0;o.vy*=-0.3;}if(o.y>H){o.y=H;o.vy*=-0.3;}
     }
   }
 }
 
-function draw() {
-  ctx.fillStyle = showTrails ? 'rgba(10,6,24,0.04)' : '#0a0618';
-  ctx.fillRect(0, 0, W, H);
-  var cols = Math.ceil(W / GRID) + 1, rows = Math.ceil(H / GRID) + 1;
-
-  function getDisp(gx, gy) {
-    var dxT = 0, dyT = 0;
-    for (var i = 0; i < objects.length; i++) {
-      if (objects[i].isPhoton) continue;
-      var ddx = gx - objects[i].x, ddy = gy - objects[i].y;
-      var dist = Math.sqrt(ddx * ddx + ddy * ddy);
-      var radius = objects[i].mass * 5 + 60;
-      if (dist < radius && dist > 1) {
-        var t = 1 - dist / radius, pull = objects[i].mass * 1.2 * t * t;
-        dxT -= (ddx / dist) * pull; dyT -= (ddy / dist) * pull;
+function draw(){
+  ctx.fillStyle=showTrails?'rgba(10,6,24,0.04)':'#0a0618';
+  ctx.fillRect(0,0,W,H);
+  var cols=Math.ceil(W/GRID)+1,rows=Math.ceil(H/GRID)+1;
+  function getDisp(gx,gy){
+    var dxT=0,dyT=0;
+    for(var i=0;i<objects.length;i++){
+      if(objects[i].isPhoton)continue;
+      var ddx=gx-objects[i].x,ddy=gy-objects[i].y;
+      var dist=Math.sqrt(ddx*ddx+ddy*ddy);
+      var radius=objects[i].mass*6+50;
+      if(dist<radius&&dist>1){
+        var t=1-dist/radius,pull=objects[i].mass*1.5*t*t;
+        dxT-=(ddx/dist)*pull;dyT-=(ddy/dist)*pull;
       }
     }
-    return { x: gx + dxT, y: gy + dyT };
+    return{x:gx+dxT,y:gy+dyT};
   }
-
-  for (var r = 0; r < rows; r++) {
+  for(var r=0;r<rows;r++){
     ctx.beginPath();
-    for (var c = 0; c < cols; c++) { var p = getDisp(c * GRID, r * GRID); c === 0 ? ctx.moveTo(p.x, p.y) : ctx.lineTo(p.x, p.y); }
-    ctx.strokeStyle = 'rgba(156,188,20,0.18)'; ctx.lineWidth = 0.8; ctx.stroke();
+    for(var c=0;c<cols;c++){var p=getDisp(c*GRID,r*GRID);c===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}
+    ctx.strokeStyle='rgba(156,188,20,0.18)';ctx.lineWidth=0.8;ctx.stroke();
   }
-  for (var c = 0; c < cols; c++) {
+  for(var c=0;c<cols;c++){
     ctx.beginPath();
-    for (var r = 0; r < rows; r++) { var p = getDisp(c * GRID, r * GRID); r === 0 ? ctx.moveTo(p.x, p.y) : ctx.lineTo(p.x, p.y); }
-    ctx.strokeStyle = 'rgba(156,188,20,0.18)'; ctx.lineWidth = 0.8; ctx.stroke();
+    for(var r=0;r<rows;r++){var p=getDisp(c*GRID,r*GRID);r===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}
+    ctx.strokeStyle='rgba(156,188,20,0.18)';ctx.lineWidth=0.8;ctx.stroke();
   }
-
-  for (var i = 0; i < objects.length; i++) {
-    var o = objects[i];
-    var spd = Math.sqrt(o.vx * o.vx + o.vy * o.vy);
-
-    if (o.isPhoton) {
-      // Photon: small bright dot with a light trail
-      ctx.fillStyle = o.color;
-      ctx.shadowColor = o.color;
-      ctx.shadowBlur = 12;
-      ctx.beginPath(); ctx.arc(o.x, o.y, 3, 0, Math.PI * 2); ctx.fill();
-      ctx.shadowBlur = 0;
-      // Trail line
-      ctx.strokeStyle = o.color + '40';
-      ctx.lineWidth = 1;
-      ctx.beginPath();
-      ctx.moveTo(o.x, o.y);
-      ctx.lineTo(o.x - o.vx * 8, o.y - o.vy * 8);
-      ctx.stroke();
+  for(var i=0;i<objects.length;i++){
+    var o=objects[i];
+    var spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
+    if(o.isPhoton){
+      ctx.fillStyle=o.color;ctx.shadowColor=o.color;ctx.shadowBlur=14;
+      ctx.beginPath();ctx.arc(o.x,o.y,3,0,Math.PI*2);ctx.fill();ctx.shadowBlur=0;
+      ctx.strokeStyle=o.color+'30';ctx.lineWidth=1;ctx.beginPath();
+      ctx.moveTo(o.x,o.y);ctx.lineTo(o.x-o.vx*10,o.y-o.vy*10);ctx.stroke();
       continue;
     }
-
-    // Velocity arrow
-    if (spd > 0.3) {
-      ctx.strokeStyle = o.color + '44'; ctx.lineWidth = 1.5;
-      ctx.beginPath(); ctx.moveTo(o.x, o.y); ctx.lineTo(o.x + o.vx * 12, o.y + o.vy * 12); ctx.stroke();
-      var angle = Math.atan2(o.vy, o.vx);
-      var ax2 = o.x + o.vx * 12, ay2 = o.y + o.vy * 12;
-      ctx.fillStyle = o.color + '44'; ctx.beginPath();
-      ctx.moveTo(ax2, ay2);
-      ctx.lineTo(ax2 - 6 * Math.cos(angle - 0.4), ay2 - 6 * Math.sin(angle - 0.4));
-      ctx.lineTo(ax2 - 6 * Math.cos(angle + 0.4), ay2 - 6 * Math.sin(angle + 0.4));
-      ctx.fill();
+    if(spd>0.2){
+      ctx.strokeStyle=o.color+'40';ctx.lineWidth=1.5;ctx.beginPath();
+      ctx.moveTo(o.x,o.y);ctx.lineTo(o.x+o.vx*10,o.y+o.vy*10);ctx.stroke();
     }
-
-    // Glow
-    var grd = ctx.createRadialGradient(o.x, o.y, 0, o.x, o.y, o.size * 2.5);
-    grd.addColorStop(0, o.color + '33'); grd.addColorStop(1, 'transparent');
-    ctx.fillStyle = grd; ctx.beginPath(); ctx.arc(o.x, o.y, o.size * 2.5, 0, Math.PI * 2); ctx.fill();
-
-    // Body
-    var bg = ctx.createRadialGradient(o.x - o.size * 0.3, o.y - o.size * 0.3, 0, o.x, o.y, o.size);
-    bg.addColorStop(0, o.color); bg.addColorStop(1, o.color + '88');
-    ctx.fillStyle = bg; ctx.beginPath(); ctx.arc(o.x, o.y, o.size, 0, Math.PI * 2); ctx.fill();
-
-    // Highlight
-    ctx.fillStyle = 'rgba(255,255,255,0.18)'; ctx.beginPath();
-    ctx.arc(o.x - o.size * 0.25, o.y - o.size * 0.25, o.size * 0.28, 0, Math.PI * 2); ctx.fill();
-
-    // Selected ring
-    if (o === selected) { ctx.strokeStyle = '#fff'; ctx.lineWidth = 1.5; ctx.beginPath(); ctx.arc(o.x, o.y, o.size + 6, 0, Math.PI * 2); ctx.stroke(); }
-
-    // Label
-    ctx.fillStyle = 'rgba(255,255,255,0.35)'; ctx.font = '9px sans-serif'; ctx.textAlign = 'center';
-    ctx.fillText(o.mass + 'M  v' + spd.toFixed(1), o.x, o.y + o.size + 13);
+    var grd=ctx.createRadialGradient(o.x,o.y,0,o.x,o.y,o.size*2.5);
+    grd.addColorStop(0,o.color+'33');grd.addColorStop(1,'transparent');
+    ctx.fillStyle=grd;ctx.beginPath();ctx.arc(o.x,o.y,o.size*2.5,0,Math.PI*2);ctx.fill();
+    var bg=ctx.createRadialGradient(o.x-o.size*0.3,o.y-o.size*0.3,0,o.x,o.y,o.size);
+    bg.addColorStop(0,o.color);bg.addColorStop(1,o.color+'88');
+    ctx.fillStyle=bg;ctx.beginPath();ctx.arc(o.x,o.y,o.size,0,Math.PI*2);ctx.fill();
+    ctx.fillStyle='rgba(255,255,255,0.15)';ctx.beginPath();
+    ctx.arc(o.x-o.size*0.25,o.y-o.size*0.25,o.size*0.28,0,Math.PI*2);ctx.fill();
+    if(o===selected){ctx.strokeStyle='#fff';ctx.lineWidth=1.5;ctx.beginPath();ctx.arc(o.x,o.y,o.size+6,0,Math.PI*2);ctx.stroke();}
+    ctx.fillStyle='rgba(255,255,255,0.3)';ctx.font='9px sans-serif';ctx.textAlign='center';
+    ctx.fillText(o.mass+'M v'+spd.toFixed(1),o.x,o.y+o.size+13);
   }
-
-  ctx.fillStyle = 'rgba(255,255,255,0.2)'; ctx.font = '11px sans-serif'; ctx.textAlign = 'right';
-  ctx.fillText(objects.length + ' object' + (objects.length !== 1 ? 's' : '') + '  ·  drag ' + (energyLoss ? 'on (spiral)' : 'off (orbit)'), W - 16, H - 16);
-
-  updatePhysics();
-  requestAnimationFrame(draw);
+  ctx.fillStyle='rgba(255,255,255,0.2)';ctx.font='11px sans-serif';ctx.textAlign='right';
+  ctx.fillText(objects.length+' objects  ·  drag '+(energyLoss?'on':'off'),W-16,H-16);
+  updatePhysics();requestAnimationFrame(draw);
 }
-
-draw();
-addObject(W / 2, H / 2);
+draw();addObject(W/2,H/2);
 </script>
 </body>
 </html>
