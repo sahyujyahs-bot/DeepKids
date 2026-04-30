@@ -8,7 +8,7 @@
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#0a0618;overflow:hidden;height:100vh;font-family:sans-serif;color:#fff}
 canvas{display:block}
-#ui{position:fixed;top:0;left:0;right:0;bottom:0;z-index:10;display:flex;align-items:center;justify-content:center;pointer-events:none}
+#ui{position:fixed;top:10px;left:0;right:0;z-index:10;display:flex;align-items:flex-start;justify-content:center;pointer-events:none}
 #ui>*{pointer-events:auto}
 .card{background:rgba(10,6,24,0.92);backdrop-filter:blur(10px);border:1px solid rgba(156,188,20,0.2);border-radius:14px;padding:24px 28px;text-align:center;max-width:360px;width:90%}
 .card h2{font-size:18px;color:#9cbc14;margin-bottom:8px;letter-spacing:1px}
@@ -31,7 +31,13 @@ canvas{display:block}
 #btn-drag{position:fixed;top:12px;right:90px;z-index:10;background:rgba(255,152,0,0.1);
   border:1px solid rgba(255,152,0,0.3);color:#ffb300;padding:6px 14px;border-radius:8px;
   cursor:pointer;font-size:11px;display:none}
-#sim-label{position:fixed;top:12px;left:12px;z-index:10;font-size:11px;color:rgba(255,255,255,0.3);display:none}
+#sim-label{position:fixed;top:12px;left:12px;z-index:10;font-size:11px;color:rgba(255,255,255,0.3);display:none;max-width:50%;line-height:1.4}
+#live-tag{position:fixed;z-index:10;font-size:10px;color:rgba(255,255,255,0.5);pointer-events:none;display:none;
+  background:rgba(10,6,24,0.7);padding:3px 8px;border-radius:6px;border:1px solid rgba(156,188,20,0.15)}
+#live-tag span{color:#9cbc14}
+@keyframes burn-in{0%{opacity:1;transform:scale(1)}50%{opacity:0.8;transform:scale(1.3);filter:brightness(3)}100%{opacity:0;transform:scale(0.2);filter:brightness(5)}}
+.burning{animation:burn-in 0.6s ease-in forwards !important}
+@keyframes absorb-pulse{0%{transform:scale(1)}50%{transform:scale(1.15)}100%{transform:scale(1)}}
 </style>
 </head>
 <body>
@@ -76,6 +82,7 @@ canvas{display:block}
 <button id="btn-reset" onclick="resetAll()">↻ Start Over</button>
 <button id="btn-drag" onclick="toggleDrag()">Drag: Off</button>
 <div id="sim-label"></div>
+<div id="live-tag"></div>
 
 <script>
 var cv=document.getElementById('cv'),ctx=cv.getContext('2d');
@@ -140,6 +147,8 @@ function chooseOrbiter(type){
   state='placing';
 }
 
+var orbiterDragging=false,orbiterObj=null;
+
 function placeFinal(x,y){
   var dx=anchor.x-x,dy=anchor.y-y,dist=Math.sqrt(dx*dx+dy*dy);
   if(dist<anchor.size+orbiter.size+5){return;}
@@ -170,7 +179,7 @@ function placeFinal(x,y){
   else outcome='Escape';
 
   var obj={x:x,y:y,vx:vx,vy:vy,mass:orbiter.mass,size:orbiter.size,
-    color:orbiter.color,name:orbiter.name,isPhoton:orbiter.isPhoton};
+    color:orbiter.color,name:orbiter.name,isPhoton:orbiter.isPhoton,v_fixed:orbiter.v_fixed};
   objects.push(obj);
 
   document.getElementById('step3').style.display='none';
@@ -184,7 +193,38 @@ function placeFinal(x,y){
     ' · v_circ:'+vCircNeeded.toFixed(2)+
     ' · <span style="color:'+(outcome.indexOf('Circular')>=0?'#9cbc14':outcome.indexOf('Escape')>=0?'#ffb300':'#ff6644')+'">'+outcome+'</span>';
   state='simulating';
+  orbiterObj=obj;
+  // Allow dragging orbiter to reposition
+  setTimeout(function(){orbiterObj=null},100);
 }
+
+// Drag orbiter during simulation
+cv.addEventListener('mousedown',function(e){
+  if(state!=='simulating')return;
+  var p={x:e.clientX,y:e.clientY};
+  for(var i=1;i<objects.length;i++){
+    var o=objects[i],dx=p.x-o.x,dy=p.y-o.y;
+    if(dx*dx+dy*dy<(o.size+15)*(o.size+15)){orbiterDragging=o;break;}
+  }
+});
+cv.addEventListener('mousemove',function(e){
+  if(orbiterDragging){orbiterDragging.x=e.clientX;orbiterDragging.y=e.clientY;orbiterDragging.vx=0;orbiterDragging.vy=0;}
+});
+cv.addEventListener('mouseup',function(e){
+  if(orbiterDragging&&anchor){
+    // Recalculate velocity for new position
+    var o=orbiterDragging,dx=anchor.x-o.x,dy=anchor.y-o.y,dist=Math.sqrt(dx*dx+dy*dy);
+    if(dist>1&&o.v_fixed){
+      o.vx=-(dy/dist)*o.v_fixed;o.vy=(dx/dist)*o.v_fixed;
+    }
+    // Update label
+    var vCirc=Math.sqrt(G*anchor.mass/dist);
+    var ratio=o.v_fixed/vCirc;
+    var pred=ratio<0.3?'Crash':ratio<0.85?'Elliptical':ratio<1.15?'Circular':ratio<1.41?'Wide ellipse':'Escape';
+    document.getElementById('sim-label').innerHTML=anchor.name+' + '+(o.name||'?')+' · dist:'+Math.round(dist)+'px · <span style="color:#9cbc14">'+pred+'</span>';
+    orbiterDragging=null;
+  }
+});
 
 function resetAll(){
   objects=[];anchor=null;orbiter=null;state='choose-anchor';dragOn=false;
@@ -192,7 +232,7 @@ function resetAll(){
   document.getElementById('step2').style.display='none';
   document.getElementById('step3').style.display='none';
   document.getElementById('info-bar').style.display='none';
-  document.getElementById('btn-reset').style.display='none';
+  
   document.getElementById('btn-drag').style.display='none';
   document.getElementById('sim-label').style.display='none';
   document.getElementById('btn-drag').textContent='Drag: Off';
@@ -232,13 +272,19 @@ function physics(){
       var a=objects[i],b=objects[j];
       if(a.isPhoton||b.isPhoton)continue;
       var dx=b.x-a.x,dy=b.y-a.y,dist=Math.sqrt(dx*dx+dy*dy);
-      if(dist<Math.max(a.size,b.size)*0.4){
+      if(dist<Math.max(a.size,b.size)*0.5){
         var big=a.mass>=b.mass?a:b,small=a.mass>=b.mass?b:a;
         var tm=big.mass+small.mass;
         big.vx=(big.vx*big.mass+small.vx*small.mass)/tm;
         big.vy=(big.vy*big.mass+small.vy*small.mass)/tm;
-        big.mass=Math.min(tm,999);
-        big.size=Math.min(Math.sqrt(big.size*big.size+small.size*small.size),55);
+        big.mass=Math.min(tm,9999);
+        big.size=Math.min(big.size+small.size*0.3,60);
+        // Show what happened
+        var lt=document.getElementById('live-tag');
+        if(big.size<8) lt.innerHTML='<span>'+small.name+' absorbed into '+big.name+'!</span> Mass now '+Math.round(big.mass);
+        else lt.innerHTML='<span>'+small.name+' crashed into '+big.name+'!</span>';
+        lt.style.display='';lt.style.left=(big.x+big.size+10)+'px';lt.style.top=(big.y-10)+'px';
+        setTimeout(function(){lt.style.display='none'},3000);
         objects.splice(objects.indexOf(small),1);
         i=-1;break;
       }
@@ -369,6 +415,22 @@ function draw(){
     // Name
     ctx.fillStyle='rgba(255,255,255,0.25)';ctx.font='9px sans-serif';ctx.textAlign='center';
     ctx.fillText(o.name||'',o.x,o.y+o.size+12);
+  }
+
+  // Live tag showing orbiter status
+  if(state==='simulating'&&objects.length>1){
+    var orb=objects[1];
+    if(!orb.isPhoton){
+      var dx2=anchor.x-orb.x,dy2=anchor.y-orb.y,d2=Math.sqrt(dx2*dx2+dy2*dy2);
+      var sp2=Math.sqrt(orb.vx*orb.vx+orb.vy*orb.vy);
+      var vc2=Math.sqrt(G*anchor.mass/Math.max(d2,1));
+      var r2=sp2/vc2;
+      var st=r2<0.3?'Crashing':r2<0.85?'Elliptical orbit':r2<1.15?'Circular orbit':r2<1.41?'Wide orbit':'Escaping';
+      if(dragOn&&st.indexOf('orbit')>=0)st+=' (decaying)';
+      ctx.fillStyle='rgba(255,255,255,0.3)';ctx.font='9px sans-serif';ctx.textAlign='left';
+      ctx.fillText('v:'+sp2.toFixed(2)+' need:'+vc2.toFixed(2)+' — '+st, orb.x+orb.size+8, orb.y-4);
+      ctx.fillText('dist:'+Math.round(d2)+'px', orb.x+orb.size+8, orb.y+8);
+    }
   }
 
   physics();
