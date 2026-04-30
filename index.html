@@ -10938,7 +10938,7 @@
 #gw-tag {
   position: fixed;
   right: 0;
-  top: 25%;
+  top: 40%;
   transform: translateY(-50%);
   z-index: 996;
   background: linear-gradient(180deg, rgba(40,20,5,0.9), rgba(25,12,3,0.95));
@@ -10960,7 +10960,7 @@
 #gw-panel {
   position: fixed;
   right: -340px;
-  top: 25%;
+  top: 40%;
   transform: translateY(-50%);
   z-index: 995;
   width: 300px;
@@ -10973,7 +10973,7 @@
   transition: right 0.4s cubic-bezier(0.34,1.56,0.64,1);
   backdrop-filter: blur(10px);
 }
-#gw-panel.open { right: 0; }
+#gw-panel.open { right: 20px; }
 #gw-close {
   position: absolute; top: 8px; right: 12px; cursor: pointer;
   color: rgba(255,255,255,0.3); font-size: 18px; border: none; background: none;
@@ -11022,9 +11022,9 @@
 }
 </style>
 
-<div id="gw-tag" onclick="document.getElementById('gw-panel').classList.add('open')">⚖ Your Weight</div>
+<div id="gw-tag">⚖ Your Weight</div>
 <div id="gw-panel">
-  <button id="gw-close" onclick="this.parentElement.classList.remove('open')">✕</button>
+  <button id="gw-close">✕</button>
   <div id="gw-title">What Would You Weigh?</div>
   <div id="gw-input-row">
     <input type="number" id="gw-input" value="70" min="1" max="500">
@@ -11082,27 +11082,48 @@
   input.addEventListener('input', update);
   update();
 
-  // Click outside to close
-  document.addEventListener('click', function(e) {
-    if (panel.classList.contains('open') && !panel.contains(e.target) && e.target !== tag) {
-      panel.classList.remove('open');
-    }
-  });
+  function playSound(vol) {
+    if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, vol || 0.3);
+  }
+  function playScrollSound(vol) {
+    if (window.playBoxSound && window._cardScrollBuf) window.playBoxSound(window._cardScrollBuf, vol || 0.15);
+  }
 
-  // Hide tag when panel is open
-  tag.addEventListener('click', function() {
+  // Open panel
+  tag.addEventListener('click', function(e) {
+    e.stopPropagation();
     panel.classList.add('open');
     tag.style.opacity = '0';
     tag.style.pointerEvents = 'none';
+    playSound(0.35);
+    setTimeout(function() { playScrollSound(0.2); }, 150);
+    if (typeof window.awardGP === 'function') window.awardGP('weight_open', 5);
   });
 
-  // Show tag when panel closes
-  var obs = new MutationObserver(function() {
-    if (!panel.classList.contains('open')) {
-      setTimeout(function() { tag.style.opacity = ''; tag.style.pointerEvents = ''; }, 300);
+  // Close panel
+  function closePanel() {
+    panel.classList.remove('open');
+    playScrollSound(0.15);
+    setTimeout(function() { tag.style.opacity = ''; tag.style.pointerEvents = ''; }, 400);
+  }
+
+  // Close button
+  document.getElementById('gw-close').addEventListener('click', function(e) {
+    e.stopPropagation();
+    closePanel();
+  });
+
+  // Click outside to close
+  document.addEventListener('click', function(e) {
+    if (panel.classList.contains('open') && !panel.contains(e.target) && e.target !== tag && !tag.contains(e.target)) {
+      closePanel();
     }
   });
-  obs.observe(panel, { attributes: true, attributeFilter: ['class'] });
+
+  // Sound on weight change
+  input.addEventListener('input', function() {
+    playScrollSound(0.1);
+  });
 })();
 </script>
 
