@@ -41,6 +41,11 @@ canvas{display:block;cursor:crosshair}
       <input type="range" id="size-slider" min="5" max="60" value="20">
       <span class="val" id="size-val">20</span>
     </div>
+    <div class="slider-row">
+      <label>Spin</label>
+      <input type="range" id="spin-slider" min="-100" max="100" value="0">
+      <span class="val" id="spin-val">0</span>
+    </div>
     <div style="display:flex;gap:8px;margin-top:8px">
       <button class="btn" id="btn-add" style="background:rgba(156,188,20,0.25);font-weight:bold;font-size:16px;padding:6px 16px">+ Add</button>
       <button class="btn" id="btn-clear">Clear All</button>
@@ -69,56 +74,50 @@ var dragOffX = 0, dragOffY = 0;
 var selected = null;
 var massSlider = document.getElementById('mass-slider');
 var sizeSlider = document.getElementById('size-slider');
+var spinSlider = document.getElementById('spin-slider');
 var massVal = document.getElementById('mass-val');
 var sizeVal = document.getElementById('size-val');
+var spinVal = document.getElementById('spin-val');
 var showTrails = false;
 
-function resize() {
-  W = cv.width = window.innerWidth;
-  H = cv.height = window.innerHeight;
-}
+function resize() { W = cv.width = window.innerWidth; H = cv.height = window.innerHeight; }
 resize();
 window.addEventListener('resize', resize);
 
 // Presets
+var presetData = {
+  'Moon': {mass:8, size:8, spin:5},
+  'Earth': {mass:25, size:18, spin:30},
+  'Jupiter': {mass:60, size:35, spin:60},
+  'Sun': {mass:100, size:50, spin:10},
+  'Black Hole': {mass:100, size:5, spin:95}
+};
 document.querySelectorAll('.preset').forEach(function(p) {
   p.addEventListener('click', function() {
     document.querySelectorAll('.preset').forEach(function(pp) { pp.classList.remove('active'); });
     p.classList.add('active');
-    massSlider.value = p.dataset.mass;
-    sizeSlider.value = p.dataset.size;
-    massVal.textContent = p.dataset.mass;
-    sizeVal.textContent = p.dataset.size;
-    if (selected) {
-      selected.mass = parseInt(p.dataset.mass);
-      selected.size = parseInt(p.dataset.size);
-    }
+    var d = presetData[p.textContent] || {};
+    massSlider.value = d.mass || 30; sizeSlider.value = d.size || 20; spinSlider.value = d.spin || 0;
+    massVal.textContent = massSlider.value; sizeVal.textContent = sizeSlider.value; spinVal.textContent = spinSlider.value;
+    if (selected) { selected.mass = parseInt(massSlider.value); selected.size = parseInt(sizeSlider.value); selected.spin = parseInt(spinSlider.value); }
   });
 });
 
-massSlider.addEventListener('input', function() {
-  massVal.textContent = this.value;
-  if (selected) selected.mass = parseInt(this.value);
-});
-sizeSlider.addEventListener('input', function() {
-  sizeVal.textContent = this.value;
-  if (selected) selected.size = parseInt(this.value);
-});
+function syncSliders(obj) {
+  massSlider.value = obj.mass; sizeSlider.value = obj.size; spinSlider.value = obj.spin;
+  massVal.textContent = obj.mass; sizeVal.textContent = obj.size; spinVal.textContent = obj.spin;
+}
 
-document.getElementById('btn-clear').addEventListener('click', function() {
-  objects = [];
-  selected = null;
-});
+massSlider.addEventListener('input', function() { massVal.textContent = this.value; if (selected) selected.mass = parseInt(this.value); });
+sizeSlider.addEventListener('input', function() { sizeVal.textContent = this.value; if (selected) selected.size = parseInt(this.value); });
+spinSlider.addEventListener('input', function() { spinVal.textContent = this.value; if (selected) selected.spin = parseInt(this.value); });
 
+document.getElementById('btn-clear').addEventListener('click', function() { objects = []; selected = null; });
 document.getElementById('btn-trails').addEventListener('click', function() {
-  showTrails = !showTrails;
-  this.textContent = 'Trails: ' + (showTrails ? 'On' : 'Off');
+  showTrails = !showTrails; this.textContent = 'Trails: ' + (showTrails ? 'On' : 'Off');
 });
-
 document.getElementById('btn-add').addEventListener('click', function() {
-  var x = W * 0.3 + Math.random() * W * 0.4;
-  var y = H * 0.3 + Math.random() * H * 0.4;
-  addObject(x, y);
+  addObject(W * 0.25 + Math.random() * W * 0.5, H * 0.25 + Math.random() * H * 0.5);
 });
 
 var COLORS = ['#9cbc14','#ff6633','#4488ff','#ffaa22','#cc44cc','#44ccaa','#ff4466','#88cc44','#ff8800','#66ddff'];
@@ -128,263 +127,260 @@ function addObject(x, y) {
     x: x, y: y,
     mass: parseInt(massSlider.value),
     size: parseInt(sizeSlider.value),
+    spin: parseInt(spinSlider.value),
     color: COLORS[objects.length % COLORS.length],
-    vx: (Math.random() - 0.5) * 0.5,
-    vy: (Math.random() - 0.5) * 0.5
+    vx: (Math.random() - 0.5) * 0.8, vy: (Math.random() - 0.5) * 0.8,
+    angle: 0
   };
   objects.push(obj);
   selected = obj;
-  massSlider.value = obj.mass;
-  sizeSlider.value = obj.size;
-  massVal.textContent = obj.mass;
-  sizeVal.textContent = obj.size;
+  syncSliders(obj);
 }
 
-function getPos(e) {
-  var t = e.touches ? e.touches[0] : e;
-  return { x: t.clientX, y: t.clientY };
-}
-
-cv.addEventListener('mousedown', function(e) {
-  var p = getPos(e);
-  var found = findObject(p.x, p.y);
-  if (found) {
-    dragging = found;
-    selected = found;
-    massSlider.value = found.mass;
-    sizeSlider.value = found.size;
-    massVal.textContent = found.mass;
-    sizeVal.textContent = found.size;
-    dragOffX = p.x - found.x;
-    dragOffY = p.y - found.y;
-  }
-});
-
-cv.addEventListener('mousemove', function(e) {
-  if (dragging) {
-    var p = getPos(e);
-    dragging.x = p.x - dragOffX;
-    dragging.y = p.y - dragOffY;
-    dragging.vx = 0;
-    dragging.vy = 0;
-  }
-});
-
-cv.addEventListener('mouseup', function(e) {
-  if (!dragging) {
-    var p = getPos(e);
-    if (!findObject(p.x, p.y)) addObject(p.x, p.y);
-  }
-  dragging = null;
-});
-
-cv.addEventListener('touchstart', function(e) {
-  var p = getPos(e);
-  var found = findObject(p.x, p.y);
-  if (found) {
-    dragging = found;
-    selected = found;
-    massSlider.value = found.mass;
-    sizeSlider.value = found.size;
-    massVal.textContent = found.mass;
-    sizeVal.textContent = found.size;
-    dragOffX = p.x - found.x;
-    dragOffY = p.y - found.y;
-    e.preventDefault();
-  }
-}, { passive: false });
-
-cv.addEventListener('touchmove', function(e) {
-  if (dragging) {
-    var p = getPos(e);
-    dragging.x = p.x - dragOffX;
-    dragging.y = p.y - dragOffY;
-    dragging.vx = 0;
-    dragging.vy = 0;
-    e.preventDefault();
-  }
-}, { passive: false });
-
-cv.addEventListener('touchend', function(e) {
-  if (!dragging && e.changedTouches) {
-    var t = e.changedTouches[0];
-    if (!findObject(t.clientX, t.clientY)) addObject(t.clientX, t.clientY);
-  }
-  dragging = null;
-});
-
-cv.addEventListener('wheel', function(e) {
-  var p = getPos(e);
-  var obj = findObject(p.x, p.y);
-  if (obj) {
-    obj.mass = Math.max(1, Math.min(100, obj.mass + (e.deltaY > 0 ? -3 : 3)));
-    obj.size = Math.max(3, Math.min(60, obj.size + (e.deltaY > 0 ? -1 : 1)));
-    if (obj === selected) {
-      massSlider.value = obj.mass;
-      sizeSlider.value = obj.size;
-      massVal.textContent = obj.mass;
-      sizeVal.textContent = obj.size;
-    }
-    e.preventDefault();
-  }
-}, { passive: false });
+function getPos(e) { var t = e.touches ? e.touches[0] : e; return {x:t.clientX, y:t.clientY}; }
 
 function findObject(x, y) {
   for (var i = objects.length - 1; i >= 0; i--) {
-    var o = objects[i];
-    var dx = x - o.x, dy = y - o.y;
-    if (dx * dx + dy * dy < (o.size + 15) * (o.size + 15)) return o;
+    var o = objects[i], dx = x - o.x, dy = y - o.y;
+    if (dx*dx + dy*dy < (o.size+15)*(o.size+15)) return o;
   }
   return null;
 }
 
+cv.addEventListener('mousedown', function(e) {
+  var p = getPos(e), found = findObject(p.x, p.y);
+  if (found) { dragging = found; selected = found; syncSliders(found); dragOffX = p.x-found.x; dragOffY = p.y-found.y; }
+});
+cv.addEventListener('mousemove', function(e) {
+  if (dragging) { var p = getPos(e); dragging.x = p.x-dragOffX; dragging.y = p.y-dragOffY; dragging.vx=0; dragging.vy=0; }
+});
+cv.addEventListener('mouseup', function(e) {
+  if (!dragging) { var p = getPos(e); if (!findObject(p.x,p.y)) addObject(p.x,p.y); }
+  dragging = null;
+});
+cv.addEventListener('touchstart', function(e) {
+  var p = getPos(e), found = findObject(p.x, p.y);
+  if (found) { dragging=found; selected=found; syncSliders(found); dragOffX=p.x-found.x; dragOffY=p.y-found.y; e.preventDefault(); }
+}, {passive:false});
+cv.addEventListener('touchmove', function(e) {
+  if (dragging) { var p=getPos(e); dragging.x=p.x-dragOffX; dragging.y=p.y-dragOffY; dragging.vx=0; dragging.vy=0; e.preventDefault(); }
+}, {passive:false});
+cv.addEventListener('touchend', function(e) {
+  if (!dragging && e.changedTouches) { var t=e.changedTouches[0]; if (!findObject(t.clientX,t.clientY)) addObject(t.clientX,t.clientY); }
+  dragging = null;
+});
+cv.addEventListener('wheel', function(e) {
+  var p=getPos(e), obj=findObject(p.x,p.y);
+  if (obj) {
+    obj.mass = Math.max(1, Math.min(100, obj.mass + (e.deltaY>0?-3:3)));
+    obj.size = Math.max(3, Math.min(60, obj.size + (e.deltaY>0?-1:1)));
+    if (obj===selected) syncSliders(obj);
+    e.preventDefault();
+  }
+}, {passive:false});
+
 function updatePhysics() {
-  var G = 0.1;
+  var G = 0.12;
+  var ENERGY_LOSS = 0.9985; // gradual orbital decay
+  var FRAME_DRAG = 0.0003; // frame-dragging strength
+
+  // Check mergers first
   for (var i = 0; i < objects.length; i++) {
-    if (objects[i] === dragging) continue;
-    var ax = 0, ay = 0;
-    for (var j = 0; j < objects.length; j++) {
-      if (i === j) continue;
+    for (var j = i+1; j < objects.length; j++) {
       var dx = objects[j].x - objects[i].x;
       var dy = objects[j].y - objects[i].y;
-      var dist = Math.sqrt(dx * dx + dy * dy);
-      if (dist < objects[i].size + objects[j].size) {
-        // Collision — bounce
-        var nx = dx / dist, ny = dy / dist;
-        var overlap = (objects[i].size + objects[j].size) - dist;
-        objects[i].x -= nx * overlap * 0.5;
-        objects[i].y -= ny * overlap * 0.5;
-        var relV = (objects[i].vx - objects[j].vx) * nx + (objects[i].vy - objects[j].vy) * ny;
-        if (relV > 0) {
-          objects[i].vx -= nx * relV * 0.8;
-          objects[i].vy -= ny * relV * 0.8;
-        }
+      var dist = Math.sqrt(dx*dx + dy*dy);
+      var minDist = Math.min(objects[i].size, objects[j].size) * 0.6;
+      if (dist < minDist && objects[i] !== dragging && objects[j] !== dragging) {
+        // Merge: bigger absorbs smaller
+        var big = objects[i].mass >= objects[j].mass ? i : j;
+        var small = big === i ? j : i;
+        var b = objects[big], s = objects[small];
+        // Conservation of momentum
+        var totalMass = b.mass + s.mass;
+        b.vx = (b.vx * b.mass + s.vx * s.mass) / totalMass;
+        b.vy = (b.vy * b.mass + s.vy * s.mass) / totalMass;
+        b.mass = Math.min(totalMass, 100);
+        b.size = Math.min(Math.sqrt(b.size*b.size + s.size*s.size), 60);
+        b.spin = Math.max(-100, Math.min(100, (b.spin * b.mass + s.spin * s.mass) / totalMass));
+        if (selected === s) selected = b;
+        objects.splice(small, 1);
+        if (selected) syncSliders(selected);
+        break; // restart loop
+      }
+    }
+  }
+
+  for (var i = 0; i < objects.length; i++) {
+    if (objects[i] === dragging) continue;
+    var o = objects[i];
+    var ax = 0, ay = 0;
+
+    for (var j = 0; j < objects.length; j++) {
+      if (i === j) continue;
+      var dx = objects[j].x - o.x;
+      var dy = objects[j].y - o.y;
+      var dist = Math.sqrt(dx*dx + dy*dy);
+      if (dist < o.size + objects[j].size) {
+        // Soft collision push
+        var nx = dx/dist, ny = dy/dist;
+        var overlap = (o.size + objects[j].size) - dist;
+        o.x -= nx * overlap * 0.3;
+        o.y -= ny * overlap * 0.3;
         continue;
       }
-      var force = G * objects[j].mass / (dist * dist + 80);
+
+      // Gravitational pull
+      var force = G * objects[j].mass / (dist*dist + 60);
       ax += force * dx / dist;
       ay += force * dy / dist;
+
+      // Frame-dragging: spinning mass drags nearby objects tangentially
+      if (Math.abs(objects[j].spin) > 5 && dist < objects[j].mass * 5 + 80) {
+        var t = 1 - dist / (objects[j].mass * 5 + 80);
+        var dragStrength = FRAME_DRAG * objects[j].spin * t * t;
+        // Tangential direction (perpendicular to radial)
+        var tx = -dy / dist;
+        var ty = dx / dist;
+        ax += tx * dragStrength;
+        ay += ty * dragStrength;
+      }
     }
-    objects[i].vx = (objects[i].vx + ax) * 0.999;
-    objects[i].vy = (objects[i].vy + ay) * 0.999;
-    objects[i].x += objects[i].vx;
-    objects[i].y += objects[i].vy;
-    if (objects[i].x < 0) { objects[i].x = 0; objects[i].vx *= -0.5; }
-    if (objects[i].x > W) { objects[i].x = W; objects[i].vx *= -0.5; }
-    if (objects[i].y < 0) { objects[i].y = 0; objects[i].vy *= -0.5; }
-    if (objects[i].y > H) { objects[i].y = H; objects[i].vy *= -0.5; }
+
+    o.vx = (o.vx + ax) * ENERGY_LOSS;
+    o.vy = (o.vy + ay) * ENERGY_LOSS;
+    o.x += o.vx;
+    o.y += o.vy;
+
+    // Update visual rotation
+    o.angle += o.spin * 0.002;
+
+    // Walls
+    if (o.x < 0) { o.x = 0; o.vx *= -0.3; }
+    if (o.x > W) { o.x = W; o.vx *= -0.3; }
+    if (o.y < 0) { o.y = 0; o.vy *= -0.3; }
+    if (o.y > H) { o.y = H; o.vy *= -0.3; }
   }
 }
 
 function draw() {
-  if (showTrails) {
-    ctx.fillStyle = 'rgba(10,6,24,0.08)';
-  } else {
-    ctx.fillStyle = '#0a0618';
-  }
+  ctx.fillStyle = showTrails ? 'rgba(10,6,24,0.06)' : '#0a0618';
   ctx.fillRect(0, 0, W, H);
 
-  var cols = Math.ceil(W / GRID) + 1;
-  var rows = Math.ceil(H / GRID) + 1;
+  var cols = Math.ceil(W/GRID)+1, rows = Math.ceil(H/GRID)+1;
 
   function getDisp(gx, gy) {
-    var dx2 = 0, dy2 = 0;
-    for (var i = 0; i < objects.length; i++) {
-      var ddx = gx - objects[i].x;
-      var ddy = gy - objects[i].y;
-      var dist = Math.sqrt(ddx * ddx + ddy * ddy);
+    var dxT=0, dyT=0;
+    for (var i=0; i<objects.length; i++) {
+      var ddx=gx-objects[i].x, ddy=gy-objects[i].y;
+      var dist = Math.sqrt(ddx*ddx + ddy*ddy);
       var radius = objects[i].mass * 5 + 60;
       if (dist < radius && dist > 1) {
-        var t = 1 - dist / radius;
+        var t = 1 - dist/radius;
         var pull = objects[i].mass * 1.2 * t * t;
-        dx2 -= (ddx / dist) * pull;
-        dy2 -= (ddy / dist) * pull;
+        dxT -= (ddx/dist) * pull;
+        dyT -= (ddy/dist) * pull;
+
+        // Spin warps grid tangentially
+        if (Math.abs(objects[i].spin) > 5) {
+          var st = objects[i].spin * 0.02 * t * t;
+          dxT += (-ddy/dist) * st;
+          dyT += (ddx/dist) * st;
+        }
       }
     }
-    return { x: gx + dx2, y: gy + dy2 };
+    return {x: gx+dxT, y: gy+dyT};
   }
 
-  // Horizontal grid lines
-  for (var r = 0; r < rows; r++) {
+  // Grid lines
+  for (var r=0; r<rows; r++) {
     ctx.beginPath();
-    for (var c = 0; c < cols; c++) {
-      var p = getDisp(c * GRID, r * GRID);
-      if (c === 0) ctx.moveTo(p.x, p.y);
-      else ctx.lineTo(p.x, p.y);
-    }
-    ctx.strokeStyle = 'rgba(156,188,20,0.18)';
-    ctx.lineWidth = 0.8;
-    ctx.stroke();
+    for (var c=0; c<cols; c++) { var p=getDisp(c*GRID, r*GRID); c===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y); }
+    ctx.strokeStyle='rgba(156,188,20,0.18)'; ctx.lineWidth=0.8; ctx.stroke();
   }
-
-  // Vertical grid lines
-  for (var c = 0; c < cols; c++) {
+  for (var c=0; c<cols; c++) {
     ctx.beginPath();
-    for (var r = 0; r < rows; r++) {
-      var p = getDisp(c * GRID, r * GRID);
-      if (r === 0) ctx.moveTo(p.x, p.y);
-      else ctx.lineTo(p.x, p.y);
-    }
-    ctx.strokeStyle = 'rgba(156,188,20,0.18)';
-    ctx.lineWidth = 0.8;
-    ctx.stroke();
+    for (var r=0; r<rows; r++) { var p=getDisp(c*GRID, r*GRID); r===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y); }
+    ctx.strokeStyle='rgba(156,188,20,0.18)'; ctx.lineWidth=0.8; ctx.stroke();
   }
 
-  // Draw objects
-  for (var i = 0; i < objects.length; i++) {
+  // Objects
+  for (var i=0; i<objects.length; i++) {
     var o = objects[i];
-    // Glow
-    var grd = ctx.createRadialGradient(o.x, o.y, 0, o.x, o.y, o.size * 3);
-    grd.addColorStop(0, o.color + '44');
-    grd.addColorStop(1, 'transparent');
-    ctx.fillStyle = grd;
-    ctx.beginPath();
-    ctx.arc(o.x, o.y, o.size * 3, 0, Math.PI * 2);
-    ctx.fill();
 
-    // Body
-    var bodyGrd = ctx.createRadialGradient(o.x - o.size * 0.3, o.y - o.size * 0.3, 0, o.x, o.y, o.size);
-    bodyGrd.addColorStop(0, o.color);
-    bodyGrd.addColorStop(1, o.color + '88');
+    // Spin direction indicator (orbit ring)
+    if (Math.abs(o.spin) > 10) {
+      ctx.save();
+      ctx.translate(o.x, o.y);
+      ctx.rotate(o.angle);
+      ctx.strokeStyle = o.color + '30';
+      ctx.lineWidth = 1;
+      ctx.setLineDash([4, 4]);
+      ctx.beginPath();
+      ctx.arc(0, 0, o.size + 12, 0, Math.PI * 2);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      // Arrow showing spin direction
+      var arrowAngle = o.spin > 0 ? 0 : Math.PI;
+      var ax = Math.cos(arrowAngle) * (o.size + 12);
+      var ay = Math.sin(arrowAngle) * (o.size + 12);
+      ctx.fillStyle = o.color + '60';
+      ctx.beginPath();
+      ctx.arc(ax, ay, 3, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.restore();
+    }
+
+    // Glow
+    var grd = ctx.createRadialGradient(o.x, o.y, 0, o.x, o.y, o.size*3);
+    grd.addColorStop(0, o.color+'44'); grd.addColorStop(1, 'transparent');
+    ctx.fillStyle = grd;
+    ctx.beginPath(); ctx.arc(o.x, o.y, o.size*3, 0, Math.PI*2); ctx.fill();
+
+    // Body with spin texture
+    ctx.save();
+    ctx.translate(o.x, o.y);
+    ctx.rotate(o.angle);
+    var bodyGrd = ctx.createRadialGradient(-o.size*0.3, -o.size*0.3, 0, 0, 0, o.size);
+    bodyGrd.addColorStop(0, o.color); bodyGrd.addColorStop(1, o.color+'88');
     ctx.fillStyle = bodyGrd;
+    ctx.beginPath(); ctx.arc(0, 0, o.size, 0, Math.PI*2); ctx.fill();
+
+    // Surface detail (shows rotation)
+    ctx.strokeStyle = 'rgba(255,255,255,0.12)';
+    ctx.lineWidth = 0.8;
     ctx.beginPath();
-    ctx.arc(o.x, o.y, o.size, 0, Math.PI * 2);
-    ctx.fill();
+    ctx.arc(0, 0, o.size*0.6, 0, Math.PI); ctx.stroke();
+    ctx.beginPath();
+    ctx.arc(0, 0, o.size*0.3, Math.PI*0.5, Math.PI*1.5); ctx.stroke();
 
     // Highlight
     ctx.fillStyle = 'rgba(255,255,255,0.2)';
-    ctx.beginPath();
-    ctx.arc(o.x - o.size * 0.25, o.y - o.size * 0.25, o.size * 0.3, 0, Math.PI * 2);
-    ctx.fill();
+    ctx.beginPath(); ctx.arc(-o.size*0.25, -o.size*0.25, o.size*0.3, 0, Math.PI*2); ctx.fill();
+    ctx.restore();
 
     // Selected ring
     if (o === selected) {
-      ctx.strokeStyle = '#fff';
-      ctx.lineWidth = 1.5;
-      ctx.beginPath();
-      ctx.arc(o.x, o.y, o.size + 6, 0, Math.PI * 2);
-      ctx.stroke();
+      ctx.strokeStyle = '#fff'; ctx.lineWidth = 1.5;
+      ctx.beginPath(); ctx.arc(o.x, o.y, o.size+6, 0, Math.PI*2); ctx.stroke();
     }
 
-    // Label
-    ctx.fillStyle = 'rgba(255,255,255,0.5)';
-    ctx.font = '10px sans-serif';
-    ctx.textAlign = 'center';
-    ctx.fillText(o.mass + 'M', o.x, o.y + o.size + 14);
+    // Labels
+    ctx.fillStyle = 'rgba(255,255,255,0.45)';
+    ctx.font = '9px sans-serif'; ctx.textAlign = 'center';
+    ctx.fillText(o.mass+'M' + (Math.abs(o.spin)>10 ? ' ↻'+o.spin : ''), o.x, o.y+o.size+13);
   }
 
-  // Object count
-  ctx.fillStyle = 'rgba(255,255,255,0.3)';
-  ctx.font = '11px sans-serif';
-  ctx.textAlign = 'right';
-  ctx.fillText(objects.length + ' object' + (objects.length !== 1 ? 's' : ''), W - 16, H - 16);
+  // Info
+  ctx.fillStyle='rgba(255,255,255,0.25)'; ctx.font='11px sans-serif'; ctx.textAlign='right';
+  ctx.fillText(objects.length+' object'+(objects.length!==1?'s':''), W-16, H-16);
 
   updatePhysics();
   requestAnimationFrame(draw);
 }
 
 draw();
-addObject(W / 2, H / 2);
+addObject(W/2, H/2);
 </script>
 </body>
 </html>
