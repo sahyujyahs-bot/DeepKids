@@ -41,59 +41,68 @@ var trail = [];
 // Two objects: Sun (fixed center) and Earth (orbiting)
 var sun = {x:0,y:0,mass:500,size:30,color:'#ffdd22'};
 var earth = {x:0,y:0,vx:0,vy:0,mass:1,size:8,color:'#4488ff'};
+var mars = {x:0,y:0,vx:0,vy:0,mass:0.5,size:5,color:'#ff6633'};
 
 function reset(speedFactor) {
   sun.x = W/2;
   sun.y = H/2;
 
   // Place Earth to the right of Sun
-  var dist = 180;
-  earth.x = sun.x + dist;
+  var distE = 180;
+  earth.x = sun.x + distE;
   earth.y = sun.y;
-
-  // Calculate circular orbital velocity: v = sqrt(G*M/r)
-  var vCircular = Math.sqrt(G * sun.mass / dist);
-
-  // Apply speed factor: 1.0 = circular orbit
-  var v = vCircular * speedFactor;
-
-  // Velocity perpendicular to radial direction (upward = counter-clockwise)
+  var vE = Math.sqrt(G * sun.mass / distE) * speedFactor;
   earth.vx = 0;
-  earth.vy = -v;  // negative = upward = counter-clockwise
+  earth.vy = -vE;
+
+  // Place Mars further out, above Sun
+  var distM = 280;
+  mars.x = sun.x;
+  mars.y = sun.y - distM;
+  var vM = Math.sqrt(G * sun.mass / distM) * speedFactor;
+  mars.vx = vM;
+  mars.vy = 0;
 
   trail = [];
+  trailM = [];
   document.getElementById('info').textContent =
-    'v_circular=' + vCircular.toFixed(3) + '  v_applied=' + v.toFixed(3) + '  speed=' + (speedFactor*100).toFixed(0) + '%';
+    'Earth v=' + vE.toFixed(3) + '  Mars v=' + vM.toFixed(3) + '  speed=' + (speedFactor*100).toFixed(0) + '%';
 }
 
+var trailM = [];
 reset(1); // Start with perfect orbit
 
+function gravitate(obj, sources) {
+  var ax=0, ay=0;
+  for (var i=0; i<sources.length; i++) {
+    var s = sources[i];
+    if (s === obj) continue;
+    var dx=s.x-obj.x, dy=s.y-obj.y;
+    var dist = Math.sqrt(dx*dx+dy*dy);
+    if (dist > 1) {
+      var a = G * s.mass / (dist*dist);
+      ax += a*(dx/dist);
+      ay += a*(dy/dist);
+    }
+  }
+  obj.vx += ax;
+  obj.vy += ay;
+  if (drag) { obj.vx *= 0.9999; obj.vy *= 0.9999; }
+  obj.x += obj.vx;
+  obj.y += obj.vy;
+}
+
 function step() {
-  // Gravity: F = G*M*m/r^2, a = F/m = G*M/r^2
-  var dx = sun.x - earth.x;
-  var dy = sun.y - earth.y;
-  var dist = Math.sqrt(dx*dx + dy*dy);
+  var all = [sun, earth, mars];
+  gravitate(earth, all);
+  gravitate(mars, all);
+  // Sun stays fixed (too massive to move noticeably)
 
-  if (dist > 1) {
-    var a = G * sun.mass / (dist * dist);
-    earth.vx += a * (dx/dist);
-    earth.vy += a * (dy/dist);
-  }
-
-  // Energy loss (drag)
-  if (drag) {
-    earth.vx *= 0.9999;
-    earth.vy *= 0.9999;
-  }
-
-  // Move
-  earth.x += earth.vx;
-  earth.y += earth.vy;
-
-  // Trail
   if (showTrail) {
     trail.push({x:earth.x, y:earth.y});
     if (trail.length > 3000) trail.shift();
+    trailM.push({x:mars.x, y:mars.y});
+    if (trailM.length > 3000) trailM.shift();
   }
 }
 
@@ -111,47 +120,44 @@ function draw() {
   for (var x=0;x<W;x+=40){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,H);ctx.stroke();}
   for (var y=0;y<H;y+=40){ctx.beginPath();ctx.moveTo(0,y);ctx.lineTo(W,y);ctx.stroke();}
 
-  // Trail
-  if (trail.length > 1) {
-    ctx.strokeStyle = earth.color + '40';
-    ctx.lineWidth = 1;
-    ctx.beginPath();
-    ctx.moveTo(trail[0].x, trail[0].y);
-    for (var i=1;i<trail.length;i++) ctx.lineTo(trail[i].x, trail[i].y);
-    ctx.stroke();
+  // Trails
+  function drawTrail(t, color) {
+    if (t.length > 1) {
+      ctx.strokeStyle = color + '40'; ctx.lineWidth = 1; ctx.beginPath();
+      ctx.moveTo(t[0].x, t[0].y);
+      for (var i=1;i<t.length;i++) ctx.lineTo(t[i].x, t[i].y);
+      ctx.stroke();
+    }
   }
+  drawTrail(trail, earth.color);
+  drawTrail(trailM, mars.color);
 
-  // Sun
-  ctx.fillStyle = sun.color;
-  ctx.beginPath();
-  ctx.arc(sun.x, sun.y, sun.size, 0, Math.PI*2);
-  ctx.fill();
-  ctx.fillStyle = 'rgba(255,255,255,0.2)';
-  ctx.beginPath();
-  ctx.arc(sun.x-sun.size*0.3, sun.y-sun.size*0.3, sun.size*0.3, 0, Math.PI*2);
-  ctx.fill();
+  // Draw a body
+  function drawBody(b) {
+    ctx.fillStyle = b.color; ctx.beginPath(); ctx.arc(b.x, b.y, b.size, 0, Math.PI*2); ctx.fill();
+    ctx.fillStyle = 'rgba(255,255,255,0.2)'; ctx.beginPath();
+    ctx.arc(b.x-b.size*0.3, b.y-b.size*0.3, b.size*0.25, 0, Math.PI*2); ctx.fill();
+  }
+  drawBody(sun);
+  drawBody(earth);
+  drawBody(mars);
 
-  // Earth
-  ctx.fillStyle = earth.color;
-  ctx.beginPath();
-  ctx.arc(earth.x, earth.y, earth.size, 0, Math.PI*2);
-  ctx.fill();
+  // Velocity vectors
+  function drawVel(b) {
+    var spd = Math.sqrt(b.vx*b.vx+b.vy*b.vy);
+    if (spd > 0.1) {
+      ctx.strokeStyle = '#ff444488'; ctx.lineWidth = 1.5; ctx.beginPath();
+      ctx.moveTo(b.x,b.y); ctx.lineTo(b.x+b.vx*15,b.y+b.vy*15); ctx.stroke();
+    }
+  }
+  drawVel(earth);
+  drawVel(mars);
 
-  // Velocity vector
-  ctx.strokeStyle = '#ff4444';
-  ctx.lineWidth = 2;
-  ctx.beginPath();
-  ctx.moveTo(earth.x, earth.y);
-  ctx.lineTo(earth.x + earth.vx*20, earth.y + earth.vy*20);
-  ctx.stroke();
-
-  // Distance and speed readout
-  var spd = Math.sqrt(earth.vx*earth.vx + earth.vy*earth.vy);
-  var dist = Math.sqrt((earth.x-sun.x)*(earth.x-sun.x)+(earth.y-sun.y)*(earth.y-sun.y));
-  ctx.fillStyle = 'rgba(255,255,255,0.4)';
-  ctx.font = '12px monospace';
-  ctx.textAlign = 'left';
-  ctx.fillText('dist: ' + dist.toFixed(1) + '  speed: ' + spd.toFixed(3) + '  drag: ' + (drag?'on':'off'), 10, H-10);
+  // Readout
+  var spdE = Math.sqrt(earth.vx*earth.vx + earth.vy*earth.vy);
+  var spdM = Math.sqrt(mars.vx*mars.vx + mars.vy*mars.vy);
+  ctx.fillStyle = 'rgba(255,255,255,0.4)'; ctx.font = '12px monospace'; ctx.textAlign = 'left';
+  ctx.fillText('Earth v:'+spdE.toFixed(2)+'  Mars v:'+spdM.toFixed(2)+'  drag:'+(drag?'on':'off'), 10, H-10);
 
   step();
   requestAnimationFrame(draw);
