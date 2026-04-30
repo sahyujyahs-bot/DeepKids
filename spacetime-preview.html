@@ -63,7 +63,7 @@ canvas{display:block}
 
   <div class="card" id="step3" style="display:none">
     <h2>Click To Place</h2>
-    <p>Click anywhere on the spacetime grid. <br>The <span style="color:#9cbc14">green circle</span> shows the gravity field. Place inside it to orbit, outside to escape.</p>
+    <p>Click to place. Distance matters!<br>At the <span style="color:#9cbc14">ideal distance</span>, you get a circular orbit.<br>Closer = too fast = elliptical/escape. Farther = too slow = elliptical/crash.</p>
   </div>
 </div>
 
@@ -92,14 +92,14 @@ var mouseX=0,mouseY=0;
 var gravFieldRadius=0;
 
 var PRESETS={
-  sun:      {mass:5000,size:30,color:'#ffdd22',name:'Sun',speed:0},
-  blackhole:{mass:5000,size:5, color:'#8800cc',name:'Black Hole',speed:0},
-  earth:    {mass:1.5,size:9, color:'#4488ff',name:'Earth',speed:50},
-  jupiter:  {mass:5,  size:18,color:'#ff9944',name:'Jupiter',speed:48},
-  moon:     {mass:0.2,size:4, color:'#aaaaaa',name:'Moon',speed:50},
-  iss:      {mass:0.01,size:2,color:'#88ddff',name:'ISS',speed:50},
-  photon:   {mass:0.001,size:2,color:'#ffffff',name:'Photon',speed:100},
-  sun2:     {mass:5000,size:28,color:'#ffdd22',name:'Sun',speed:45}
+  sun:      {mass:5000,size:30,color:'#ffdd22',name:'Sun',speed:0,v_fixed:0,ideal_dist:0},
+  blackhole:{mass:5000,size:5, color:'#8800cc',name:'Black Hole',speed:0,v_fixed:0,ideal_dist:0},
+  earth:    {mass:1.5,size:9, color:'#4488ff',name:'Earth',speed:0,v_fixed:5.0,ideal_dist:200},
+  jupiter:  {mass:5,  size:18,color:'#ff9944',name:'Jupiter',speed:0,v_fixed:4.08,ideal_dist:300},
+  moon:     {mass:0.2,size:4, color:'#aaaaaa',name:'Moon',speed:0,v_fixed:5.77,ideal_dist:150},
+  iss:      {mass:0.01,size:2,color:'#88ddff',name:'ISS',speed:0,v_fixed:6.45,ideal_dist:120},
+  photon:   {mass:0.001,size:2,color:'#ffffff',name:'Photon',speed:0,v_fixed:0,ideal_dist:0},
+  sun2:     {mass:5000,size:28,color:'#ffdd22',name:'Sun',speed:0,v_fixed:4.47,ideal_dist:250}
 };
 
 function chooseAnchor(type){
@@ -122,7 +122,7 @@ function chooseAnchor(type){
     opts+='<div class="opt" onclick="chooseOrbiter(\''+key+'\')">';
     opts+='<div class="emoji">'+(key==='earth'?'🌍':key==='jupiter'?'🟠':key==='moon'?'🌙':key==='iss'?'🛸':key==='photon'?'💡':key==='sun2'?'☀️':'')+'</div>';
     opts+='<div class="name">'+pr.name+'</div>';
-    opts+='<div class="desc">Speed '+pr.speed+'%</div>';
+    opts+='<div class="desc">'+(pr.v_fixed?'v='+pr.v_fixed+' · ideal '+pr.ideal_dist+'px':'Light speed')+'</div>';
     opts+='</div>';
   });
   document.getElementById('orbiter-opts').innerHTML=opts;
@@ -142,15 +142,32 @@ function chooseOrbiter(type){
 
 function placeFinal(x,y){
   var dx=anchor.x-x,dy=anchor.y-y,dist=Math.sqrt(dx*dx+dy*dy);
-  if(dist<anchor.size+orbiter.size+5){return;} // too close
+  if(dist<anchor.size+orbiter.size+5){return;}
 
   var vx=0,vy=0;
-  if(orbiter.speed>0 && dist>1){
-    var vCirc=Math.sqrt(G*anchor.mass/dist);
-    var factor=orbiter.speed/50;
-    vx=-(dy/dist)*vCirc*factor;
-    vy=(dx/dist)*vCirc*factor;
+  if(orbiter.isPhoton){
+    // Photon: constant speed, tangential
+    var PHOTON_V=4.0;
+    if(dist>1){vx=-(dy/dist)*PHOTON_V;vy=(dx/dist)*PHOTON_V;}
+  } else if(orbiter.v_fixed>0 && dist>1){
+    // Fixed velocity, tangential direction
+    var v=orbiter.v_fixed;
+    vx=-(dy/dist)*v;
+    vy=(dx/dist)*v;
   }
+
+  // Calculate what the outcome will be
+  var vCircNeeded=Math.sqrt(G*anchor.mass/dist);
+  var vEscNeeded=vCircNeeded*Math.SQRT2;
+  var actualV=Math.sqrt(vx*vx+vy*vy);
+  var ratio=actualV/vCircNeeded;
+  var outcome='';
+  if(orbiter.isPhoton) outcome='Photon — bends path';
+  else if(ratio<0.3) outcome='Crash (too slow)';
+  else if(ratio<0.85) outcome='Elliptical (close approach)';
+  else if(ratio<1.15) outcome='Circular orbit';
+  else if(ratio<1.41) outcome='Wide elliptical orbit';
+  else outcome='Escape';
 
   var obj={x:x,y:y,vx:vx,vy:vy,mass:orbiter.mass,size:orbiter.size,
     color:orbiter.color,name:orbiter.name,isPhoton:orbiter.isPhoton};
@@ -160,7 +177,12 @@ function placeFinal(x,y){
   document.getElementById('info-bar').style.display='none';
   document.getElementById('btn-drag').style.display='';
   document.getElementById('sim-label').style.display='';
-  document.getElementById('sim-label').textContent=anchor.name+' + '+orbiter.name+' · Speed '+orbiter.speed+'%';
+  document.getElementById('sim-label').innerHTML=
+    anchor.name+' + '+orbiter.name+
+    ' · dist:'+Math.round(dist)+'px'+
+    ' · v:'+actualV.toFixed(2)+
+    ' · v_circ:'+vCircNeeded.toFixed(2)+
+    ' · <span style="color:'+(outcome.indexOf('Circular')>=0?'#9cbc14':outcome.indexOf('Escape')>=0?'#ffb300':'#ff6644')+'">'+outcome+'</span>';
   state='simulating';
 }
 
@@ -299,11 +321,22 @@ function draw(){
     document.getElementById('info-dist').textContent=Math.round(dist)+'px';
     document.getElementById('info-field').textContent=inField?'Yes ✓':'No ✗';
     document.getElementById('info-field').style.color=inField?'#9cbc14':'#ff6644';
-    var pred=orbiter.speed===0?'Crash':orbiter.speed<=30?'Spiral/Crash':
-      (inField?(orbiter.speed>=70?'Escape':'Orbit'):'Escape');
-    if(dragOn&&pred==='Orbit')pred='Spiral → Crash';
-    document.getElementById('info-pred').textContent=pred;
-    document.getElementById('info-pred').style.color=pred==='Orbit'?'#9cbc14':pred==='Escape'?'#ffb300':'#ff6644';
+    // Predict outcome based on fixed velocity vs needed circular velocity
+    var vCirc=Math.sqrt(G*anchor.mass/Math.max(dist,10));
+    var actualV=orbiter.isPhoton?4.0:(orbiter.v_fixed||0);
+    var ratio=vCirc>0?actualV/vCirc:0;
+    var pred='';
+    if(orbiter.isPhoton) pred='Bends path';
+    else if(actualV===0) pred='Crash';
+    else if(ratio<0.3) pred='Crash';
+    else if(ratio<0.85) pred='Elliptical (close)';
+    else if(ratio<1.15) pred='Circular orbit';
+    else if(ratio<1.41) pred='Wide ellipse';
+    else pred='Escape';
+    if(dragOn&&pred.indexOf('orbit')>=0) pred+=' → Spiral';
+    if(dragOn&&pred.indexOf('Ellip')>=0) pred+=' → Spiral';
+    document.getElementById('info-pred').textContent=pred+' (v:'+actualV.toFixed(1)+' need:'+vCirc.toFixed(1)+')';
+    document.getElementById('info-pred').style.color=pred.indexOf('Circular')>=0?'#9cbc14':pred.indexOf('Escape')>=0?'#ffb300':'#ff6644';
   }
 
   // Draw objects
