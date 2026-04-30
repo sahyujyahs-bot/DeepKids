@@ -104,6 +104,22 @@ document.querySelectorAll('.preset').forEach(function(p) {
       selected.size = +sizeSlider.value;
       selected.color = currentColor;
       selected.isPhoton = +massSlider.value <= 1;
+      // Update velocity based on new speed
+      var spd = parseInt(speedSlider.value) * 0.06;
+      if (spd > 0) {
+        var nearest = null, nearDist = Infinity;
+        for (var ii = 0; ii < objects.length; ii++) {
+          if (objects[ii] === selected) continue;
+          var ddx = objects[ii].x - selected.x, ddy = objects[ii].y - selected.y;
+          var dd = Math.sqrt(ddx * ddx + ddy * ddy);
+          if (dd < nearDist) { nearDist = dd; nearest = objects[ii]; }
+        }
+        if (nearest) {
+          var ddx2 = nearest.x - selected.x, ddy2 = nearest.y - selected.y;
+          var dist2 = Math.sqrt(ddx2 * ddx2 + ddy2 * ddy2);
+          if (dist2 > 1) { selected.vx = -(ddy2 / dist2) * spd; selected.vy = (ddx2 / dist2) * spd; }
+        }
+      }
     }
   });
 });
@@ -112,9 +128,33 @@ function syncSliders(o) {
   massSlider.value = o.mass; sizeSlider.value = o.size;
   massVal.textContent = o.mass; sizeVal.textContent = o.size;
 }
-massSlider.addEventListener('input', function() { massVal.textContent = this.value; if (selected) selected.mass = +this.value; });
+massSlider.addEventListener('input', function() { massVal.textContent = this.value; if (selected) { selected.mass = +this.value; selected.isPhoton = +this.value <= 1; } });
 sizeSlider.addEventListener('input', function() { sizeVal.textContent = this.value; if (selected) selected.size = +this.value; });
-speedSlider.addEventListener('input', function() { speedVal.textContent = this.value; });
+speedSlider.addEventListener('input', function() {
+  speedVal.textContent = this.value;
+  if (selected && selected !== dragging) {
+    var speed = parseInt(this.value) * 0.06;
+    // Find nearest other object to orbit around
+    var nearest = null, nearDist = Infinity;
+    for (var i = 0; i < objects.length; i++) {
+      if (objects[i] === selected) continue;
+      var dx = objects[i].x - selected.x, dy = objects[i].y - selected.y;
+      var d = Math.sqrt(dx * dx + dy * dy);
+      if (d < nearDist) { nearDist = d; nearest = objects[i]; }
+    }
+    if (nearest) {
+      var dx = nearest.x - selected.x, dy = nearest.y - selected.y;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist > 1) {
+        selected.vx = -(dy / dist) * speed;
+        selected.vy = (dx / dist) * speed;
+      }
+    } else {
+      selected.vx = speed;
+      selected.vy = 0;
+    }
+  }
+});
 
 document.getElementById('btn-clear').addEventListener('click', function() { objects = []; selected = null; });
 document.getElementById('btn-trails').addEventListener('click', function() {
@@ -134,7 +174,7 @@ document.getElementById('btn-add').addEventListener('click', function() {
 });
 
 function addObject(x, y) {
-  var speed = parseInt(speedSlider.value) * 0.03;
+  var speed = parseInt(speedSlider.value) * 0.06;
   var mass = +massSlider.value;
   var isPhoton = mass <= 1;
   var vx = 0, vy = 0;
