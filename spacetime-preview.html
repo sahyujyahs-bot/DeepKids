@@ -30,34 +30,39 @@ canvas{display:block;cursor:crosshair}
 <div id="ui">
   <div class="panel">
     <h3>Spacetime Simulator</h3>
-    <p>Click anywhere to place a mass. Watch spacetime curve around it.</p>
+    <p>Click to place a mass. Watch spacetime curve. Adjust mass, size, speed to see orbits, spirals, or escapes.</p>
     <div class="slider-row">
-      <label>Mass</label>
+      <label title="How heavy the object is. Heavier = deeper spacetime well.">Mass</label>
       <input type="range" id="mass-slider" min="1" max="100" value="30">
       <span class="val" id="mass-val">30</span>
     </div>
     <div class="slider-row">
-      <label>Size</label>
-      <input type="range" id="size-slider" min="5" max="60" value="20">
+      <label title="Physical radius of the object.">Size</label>
+      <input type="range" id="size-slider" min="3" max="60" value="20">
       <span class="val" id="size-val">20</span>
     </div>
     <div class="slider-row">
-      <label>Speed</label>
+      <label title="Sideways velocity. Determines orbit vs crash vs escape. 0 = falls straight in. High = escapes.">Speed</label>
       <input type="range" id="speed-slider" min="0" max="100" value="30">
       <span class="val" id="speed-val">30</span>
     </div>
-    <div style="display:flex;gap:8px;margin-top:8px">
-      <button class="btn" id="btn-add" style="background:rgba(156,188,20,0.25);font-weight:bold;font-size:16px;padding:6px 16px">+ Add</button>
-      <button class="btn" id="btn-clear">Clear All</button>
-      <button class="btn" id="btn-trails">Trails: Off</button>
-      <button class="btn" id="btn-energy" style="border-color:#ff6633">Drag: On (spiral)</button>
+    <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
+      <button class="btn" id="btn-add" style="background:rgba(156,188,20,0.25);font-weight:bold;font-size:14px;padding:6px 14px" title="Add a new object at random position">+ Add</button>
+      <button class="btn" id="btn-clear" title="Remove all objects">Clear</button>
+      <button class="btn" id="btn-trails" title="Show orbital path trails">Trails: Off</button>
+      <button class="btn" id="btn-energy" style="border-color:#ff6633" title="Drag On = atmosphere/friction slows objects (spiral in). Drag Off = vacuum, no friction (stable orbits like Earth around Sun).">Drag: On</button>
     </div>
     <div class="presets">
-      <div class="preset" data-mass="8" data-size="8">Moon</div>
-      <div class="preset" data-mass="25" data-size="18">Earth</div>
-      <div class="preset" data-mass="60" data-size="35">Jupiter</div>
-      <div class="preset active" data-mass="100" data-size="50">Sun</div>
-      <div class="preset" data-mass="100" data-size="5">Black Hole</div>
+      <div class="preset" data-mass="1" data-size="3" data-speed="100" data-color="#ffffff" title="Massless, travels at max speed. Can it escape a black hole?">Photon</div>
+      <div class="preset" data-mass="3" data-size="6" data-speed="30" data-color="#aaaaaa" title="Tiny, low mass. Easily captured by larger objects.">Moon</div>
+      <div class="preset" data-mass="20" data-size="16" data-speed="40" data-color="#4488ff" title="Medium mass. Stable orbits at the right speed.">Earth</div>
+      <div class="preset" data-mass="55" data-size="30" data-speed="25" data-color="#ff9944" title="Gas giant. Heavy enough to influence smaller objects.">Jupiter</div>
+      <div class="preset active" data-mass="100" data-size="45" data-speed="0" data-color="#ffdd22" title="Massive. Place first, then orbit other objects around it.">Sun</div>
+      <div class="preset" data-mass="100" data-size="4" data-speed="0" data-color="#8800cc" title="Extreme mass, tiny size. Deep gravity well. Can photons escape?">Black Hole</div>
+    </div>
+    <div style="margin-top:8px;font-size:9px;color:rgba(255,255,255,0.3);line-height:1.4">
+      <b style="color:rgba(255,255,255,0.5)">Why doesn't Earth spiral into the Sun?</b><br>
+      Earth orbits in near-vacuum — no friction. It loses energy via gravitational waves at ~200 watts. At that rate, it would take 10²³ years to spiral in. The Sun dies in 5 billion.
     </div>
   </div>
 </div>
@@ -78,220 +83,270 @@ var sizeVal = document.getElementById('size-val');
 var speedVal = document.getElementById('speed-val');
 var showTrails = false;
 var energyLoss = true;
+var currentColor = '#ffdd22';
 
 function resize() { W = cv.width = window.innerWidth; H = cv.height = window.innerHeight; }
 resize(); window.addEventListener('resize', resize);
 
-var presetData = {
-  'Moon':{mass:8,size:8,speed:20}, 'Earth':{mass:25,size:18,speed:40},
-  'Jupiter':{mass:60,size:35,speed:25}, 'Sun':{mass:100,size:50,speed:0},
-  'Black Hole':{mass:100,size:5,speed:0}
-};
 document.querySelectorAll('.preset').forEach(function(p) {
   p.addEventListener('click', function() {
     document.querySelectorAll('.preset').forEach(function(pp){pp.classList.remove('active')});
     p.classList.add('active');
-    var d = presetData[p.textContent] || {};
-    massSlider.value=d.mass||30; sizeSlider.value=d.size||20; speedSlider.value=d.speed||30;
-    massVal.textContent=massSlider.value; sizeVal.textContent=sizeSlider.value; speedVal.textContent=speedSlider.value;
-    if(selected){selected.mass=+massSlider.value;selected.size=+sizeSlider.value;}
+    massSlider.value = p.dataset.mass || 30;
+    sizeSlider.value = p.dataset.size || 20;
+    speedSlider.value = p.dataset.speed || 30;
+    currentColor = p.dataset.color || '#9cbc14';
+    massVal.textContent = massSlider.value;
+    sizeVal.textContent = sizeSlider.value;
+    speedVal.textContent = speedSlider.value;
+    if (selected) {
+      selected.mass = +massSlider.value;
+      selected.size = +sizeSlider.value;
+      selected.color = currentColor;
+      selected.isPhoton = +massSlider.value <= 1;
+    }
   });
 });
 
-function syncSliders(o){
-  massSlider.value=o.mass; sizeSlider.value=o.size;
-  massVal.textContent=o.mass; sizeVal.textContent=o.size;
+function syncSliders(o) {
+  massSlider.value = o.mass; sizeSlider.value = o.size;
+  massVal.textContent = o.mass; sizeVal.textContent = o.size;
 }
-massSlider.addEventListener('input',function(){massVal.textContent=this.value;if(selected)selected.mass=+this.value;});
-sizeSlider.addEventListener('input',function(){sizeVal.textContent=this.value;if(selected)selected.size=+this.value;});
-speedSlider.addEventListener('input',function(){speedVal.textContent=this.value;});
+massSlider.addEventListener('input', function() { massVal.textContent = this.value; if (selected) selected.mass = +this.value; });
+sizeSlider.addEventListener('input', function() { sizeVal.textContent = this.value; if (selected) selected.size = +this.value; });
+speedSlider.addEventListener('input', function() { speedVal.textContent = this.value; });
 
-document.getElementById('btn-clear').addEventListener('click',function(){objects=[];selected=null;});
-document.getElementById('btn-trails').addEventListener('click',function(){
-  showTrails=!showTrails;this.textContent='Trails: '+(showTrails?'On':'Off');
+document.getElementById('btn-clear').addEventListener('click', function() { objects = []; selected = null; });
+document.getElementById('btn-trails').addEventListener('click', function() {
+  showTrails = !showTrails; this.textContent = 'Trails: ' + (showTrails ? 'On' : 'Off');
 });
-
-// Energy loss toggle
 var btnEnergy = document.getElementById('btn-energy');
-btnEnergy.addEventListener('click',function(){
-  energyLoss=!energyLoss;
-  this.textContent='Drag: '+(energyLoss?'On (spiral)':'Off (orbit)');
-  this.style.borderColor=energyLoss?'#ff6633':'#9cbc14';
+btnEnergy.addEventListener('click', function() {
+  energyLoss = !energyLoss;
+  this.textContent = 'Drag: ' + (energyLoss ? 'On' : 'Off');
+  this.style.borderColor = energyLoss ? '#ff6633' : '#9cbc14';
+  this.title = energyLoss
+    ? 'Drag On = friction/atmosphere slows objects (spiral in)'
+    : 'Drag Off = vacuum, no friction (stable orbits like Earth around Sun)';
 });
-
-document.getElementById('btn-add').addEventListener('click',function(){
-  addObject(W*0.25+Math.random()*W*0.5, H*0.25+Math.random()*H*0.5);
+document.getElementById('btn-add').addEventListener('click', function() {
+  addObject(W * 0.2 + Math.random() * W * 0.6, H * 0.2 + Math.random() * H * 0.6);
 });
-
-var COLORS=['#9cbc14','#ff6633','#4488ff','#ffaa22','#cc44cc','#44ccaa','#ff4466','#88cc44','#ff8800','#66ddff'];
 
 function addObject(x, y) {
-  // Calculate sideways velocity relative to nearest heavy object
   var speed = parseInt(speedSlider.value) * 0.03;
+  var mass = +massSlider.value;
+  var isPhoton = mass <= 1;
   var vx = 0, vy = 0;
   if (objects.length > 0 && speed > 0) {
-    // Find nearest existing object
     var nearest = null, nearDist = Infinity;
-    for (var i=0;i<objects.length;i++){
-      var dx=objects[i].x-x, dy=objects[i].y-y;
-      var d=Math.sqrt(dx*dx+dy*dy);
-      if(d<nearDist){nearDist=d;nearest=objects[i];}
+    for (var i = 0; i < objects.length; i++) {
+      var dx = objects[i].x - x, dy = objects[i].y - y;
+      var d = Math.sqrt(dx * dx + dy * dy);
+      if (d < nearDist) { nearDist = d; nearest = objects[i]; }
     }
     if (nearest) {
-      // Tangential velocity (perpendicular to line toward nearest mass)
-      var dx=nearest.x-x, dy=nearest.y-y;
-      var dist=Math.sqrt(dx*dx+dy*dy);
-      if(dist>1){
-        // Perpendicular direction (counter-clockwise)
-        vx = -(dy/dist) * speed;
-        vy = (dx/dist) * speed;
-      }
+      var dx = nearest.x - x, dy = nearest.y - y;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist > 1) { vx = -(dy / dist) * speed; vy = (dx / dist) * speed; }
     }
   }
   var obj = {
-    x:x, y:y, mass:+massSlider.value, size:+sizeSlider.value,
-    color:COLORS[objects.length%COLORS.length], vx:vx, vy:vy
+    x: x, y: y, mass: mass, size: +sizeSlider.value,
+    color: currentColor, vx: vx, vy: vy, isPhoton: isPhoton
   };
-  objects.push(obj); selected=obj; syncSliders(obj);
+  objects.push(obj); selected = obj; syncSliders(obj);
 }
 
-function getPos(e){var t=e.touches?e.touches[0]:e;return{x:t.clientX,y:t.clientY};}
-function findObject(x,y){
-  for(var i=objects.length-1;i>=0;i--){var o=objects[i],dx=x-o.x,dy=y-o.y;if(dx*dx+dy*dy<(o.size+15)*(o.size+15))return o;}
+function getPos(e) { var t = e.touches ? e.touches[0] : e; return { x: t.clientX, y: t.clientY }; }
+function findObject(x, y) {
+  for (var i = objects.length - 1; i >= 0; i--) {
+    var o = objects[i], dx = x - o.x, dy = y - o.y;
+    if (dx * dx + dy * dy < (o.size + 15) * (o.size + 15)) return o;
+  }
   return null;
 }
 
-cv.addEventListener('mousedown',function(e){var p=getPos(e),f=findObject(p.x,p.y);if(f){dragging=f;selected=f;syncSliders(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;}});
-cv.addEventListener('mousemove',function(e){if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;}});
-cv.addEventListener('mouseup',function(e){if(!dragging){var p=getPos(e);if(!findObject(p.x,p.y))addObject(p.x,p.y);}dragging=null;});
-cv.addEventListener('touchstart',function(e){var p=getPos(e),f=findObject(p.x,p.y);if(f){dragging=f;selected=f;syncSliders(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;e.preventDefault();}},{passive:false});
-cv.addEventListener('touchmove',function(e){if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;e.preventDefault();}},{passive:false});
-cv.addEventListener('touchend',function(e){if(!dragging&&e.changedTouches){var t=e.changedTouches[0];if(!findObject(t.clientX,t.clientY))addObject(t.clientX,t.clientY);}dragging=null;});
-cv.addEventListener('wheel',function(e){var p=getPos(e),o=findObject(p.x,p.y);if(o){o.mass=Math.max(1,Math.min(100,o.mass+(e.deltaY>0?-3:3)));o.size=Math.max(3,Math.min(60,o.size+(e.deltaY>0?-1:1)));if(o===selected)syncSliders(o);e.preventDefault();}},{passive:false});
+cv.addEventListener('mousedown', function(e) { var p = getPos(e), f = findObject(p.x, p.y); if (f) { dragging = f; selected = f; syncSliders(f); dragOffX = p.x - f.x; dragOffY = p.y - f.y; } });
+cv.addEventListener('mousemove', function(e) { if (dragging) { var p = getPos(e); dragging.x = p.x - dragOffX; dragging.y = p.y - dragOffY; dragging.vx = 0; dragging.vy = 0; } });
+cv.addEventListener('mouseup', function(e) { if (!dragging) { var p = getPos(e); if (!findObject(p.x, p.y)) addObject(p.x, p.y); } dragging = null; });
+cv.addEventListener('touchstart', function(e) { var p = getPos(e), f = findObject(p.x, p.y); if (f) { dragging = f; selected = f; syncSliders(f); dragOffX = p.x - f.x; dragOffY = p.y - f.y; e.preventDefault(); } }, { passive: false });
+cv.addEventListener('touchmove', function(e) { if (dragging) { var p = getPos(e); dragging.x = p.x - dragOffX; dragging.y = p.y - dragOffY; dragging.vx = 0; dragging.vy = 0; e.preventDefault(); } }, { passive: false });
+cv.addEventListener('touchend', function(e) { if (!dragging && e.changedTouches) { var t = e.changedTouches[0]; if (!findObject(t.clientX, t.clientY)) addObject(t.clientX, t.clientY); } dragging = null; });
+cv.addEventListener('wheel', function(e) { var p = getPos(e), o = findObject(p.x, p.y); if (o) { o.mass = Math.max(1, Math.min(100, o.mass + (e.deltaY > 0 ? -3 : 3))); o.size = Math.max(3, Math.min(60, o.size + (e.deltaY > 0 ? -1 : 1))); if (o === selected) syncSliders(o); e.preventDefault(); } }, { passive: false });
 
 function updatePhysics() {
   var G = 0.12;
-  var DAMPING = energyLoss ? 0.9992 : 1.0; // 1.0 = no loss = stable orbits
+  var DAMPING = energyLoss ? 0.9992 : 1.0;
 
-  // Mergers
-  for(var i=0;i<objects.length;i++){
-    for(var j=i+1;j<objects.length;j++){
-      var dx=objects[j].x-objects[i].x, dy=objects[j].y-objects[i].y;
-      var dist=Math.sqrt(dx*dx+dy*dy);
-      if(dist < Math.min(objects[i].size, objects[j].size)*0.5 && objects[i]!==dragging && objects[j]!==dragging){
-        var big=objects[i].mass>=objects[j].mass?i:j, small=big===i?j:i;
-        var b=objects[big],s=objects[small], tm=b.mass+s.mass;
-        b.vx=(b.vx*b.mass+s.vx*s.mass)/tm;
-        b.vy=(b.vy*b.mass+s.vy*s.mass)/tm;
-        b.mass=Math.min(tm,100);
-        b.size=Math.min(Math.sqrt(b.size*b.size+s.size*s.size),60);
-        if(selected===s)selected=b;
-        objects.splice(small,1);
-        if(selected)syncSliders(selected);
+  // Mergers (not for photons)
+  for (var i = 0; i < objects.length; i++) {
+    for (var j = i + 1; j < objects.length; j++) {
+      if (objects[i].isPhoton || objects[j].isPhoton) continue;
+      var dx = objects[j].x - objects[i].x, dy = objects[j].y - objects[i].y;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist < Math.min(objects[i].size, objects[j].size) * 0.5 && objects[i] !== dragging && objects[j] !== dragging) {
+        var big = objects[i].mass >= objects[j].mass ? i : j, small = big === i ? j : i;
+        var b = objects[big], s = objects[small], tm = b.mass + s.mass;
+        b.vx = (b.vx * b.mass + s.vx * s.mass) / tm;
+        b.vy = (b.vy * b.mass + s.vy * s.mass) / tm;
+        b.mass = Math.min(tm, 100);
+        b.size = Math.min(Math.sqrt(b.size * b.size + s.size * s.size), 60);
+        if (selected === s) selected = b;
+        objects.splice(small, 1);
+        if (selected) syncSliders(selected);
         break;
       }
     }
   }
 
-  for(var i=0;i<objects.length;i++){
-    if(objects[i]===dragging)continue;
-    var o=objects[i], ax=0, ay=0;
-    for(var j=0;j<objects.length;j++){
-      if(i===j)continue;
-      var dx=objects[j].x-o.x, dy=objects[j].y-o.y;
-      var dist=Math.sqrt(dx*dx+dy*dy);
-      if(dist<o.size+objects[j].size){
-        var nx=dx/dist,ny=dy/dist,overlap=(o.size+objects[j].size)-dist;
-        o.x-=nx*overlap*0.3; o.y-=ny*overlap*0.3;
+  for (var i = 0; i < objects.length; i++) {
+    if (objects[i] === dragging) continue;
+    var o = objects[i], ax = 0, ay = 0;
+    for (var j = 0; j < objects.length; j++) {
+      if (i === j) continue;
+      var dx = objects[j].x - o.x, dy = objects[j].y - o.y;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+
+      // Photon absorbed by black hole (size < 6)
+      if (o.isPhoton && dist < objects[j].size && objects[j].size < 6) {
+        objects.splice(i, 1); i--; break;
+      }
+
+      if (!o.isPhoton && dist < o.size + objects[j].size) {
+        var nx = dx / dist, ny = dy / dist, overlap = (o.size + objects[j].size) - dist;
+        o.x -= nx * overlap * 0.3; o.y -= ny * overlap * 0.3;
         continue;
       }
-      var force=G*objects[j].mass/(dist*dist+60);
-      ax+=force*dx/dist; ay+=force*dy/dist;
+
+      // Gravity — photons are affected by gravity but have no mass to pull back
+      var force = G * objects[j].mass / (dist * dist + 60);
+      // Photons: gravity bends their path (gravitational lensing)
+      var multiplier = o.isPhoton ? 2.5 : 1.0;
+      ax += force * dx / dist * multiplier;
+      ay += force * dy / dist * multiplier;
     }
-    o.vx=(o.vx+ax)*DAMPING;
-    o.vy=(o.vy+ay)*DAMPING;
-    o.x+=o.vx; o.y+=o.vy;
-    if(o.x<0){o.x=0;o.vx*=-0.3;} if(o.x>W){o.x=W;o.vx*=-0.3;}
-    if(o.y<0){o.y=0;o.vy*=-0.3;} if(o.y>H){o.y=H;o.vy*=-0.3;}
+
+    // Photons maintain constant speed (they don't slow down or speed up)
+    if (o.isPhoton) {
+      o.vx += ax; o.vy += ay;
+      var spd = Math.sqrt(o.vx * o.vx + o.vy * o.vy);
+      var targetSpeed = 3.0; // speed of light (constant)
+      if (spd > 0) { o.vx = (o.vx / spd) * targetSpeed; o.vy = (o.vy / spd) * targetSpeed; }
+    } else {
+      o.vx = (o.vx + ax) * DAMPING;
+      o.vy = (o.vy + ay) * DAMPING;
+    }
+
+    o.x += o.vx; o.y += o.vy;
+
+    // Walls — photons wrap around, others bounce
+    if (o.isPhoton) {
+      if (o.x < -20) o.x = W + 20; if (o.x > W + 20) o.x = -20;
+      if (o.y < -20) o.y = H + 20; if (o.y > H + 20) o.y = -20;
+    } else {
+      if (o.x < 0) { o.x = 0; o.vx *= -0.3; } if (o.x > W) { o.x = W; o.vx *= -0.3; }
+      if (o.y < 0) { o.y = 0; o.vy *= -0.3; } if (o.y > H) { o.y = H; o.vy *= -0.3; }
+    }
   }
 }
 
 function draw() {
-  ctx.fillStyle = showTrails ? 'rgba(10,6,24,0.05)' : '#0a0618';
-  ctx.fillRect(0,0,W,H);
-  var cols=Math.ceil(W/GRID)+1, rows=Math.ceil(H/GRID)+1;
+  ctx.fillStyle = showTrails ? 'rgba(10,6,24,0.04)' : '#0a0618';
+  ctx.fillRect(0, 0, W, H);
+  var cols = Math.ceil(W / GRID) + 1, rows = Math.ceil(H / GRID) + 1;
 
-  function getDisp(gx,gy){
-    var dxT=0,dyT=0;
-    for(var i=0;i<objects.length;i++){
-      var ddx=gx-objects[i].x, ddy=gy-objects[i].y;
-      var dist=Math.sqrt(ddx*ddx+ddy*ddy);
-      var radius=objects[i].mass*5+60;
-      if(dist<radius&&dist>1){
-        var t=1-dist/radius, pull=objects[i].mass*1.2*t*t;
-        dxT-=(ddx/dist)*pull; dyT-=(ddy/dist)*pull;
+  function getDisp(gx, gy) {
+    var dxT = 0, dyT = 0;
+    for (var i = 0; i < objects.length; i++) {
+      if (objects[i].isPhoton) continue;
+      var ddx = gx - objects[i].x, ddy = gy - objects[i].y;
+      var dist = Math.sqrt(ddx * ddx + ddy * ddy);
+      var radius = objects[i].mass * 5 + 60;
+      if (dist < radius && dist > 1) {
+        var t = 1 - dist / radius, pull = objects[i].mass * 1.2 * t * t;
+        dxT -= (ddx / dist) * pull; dyT -= (ddy / dist) * pull;
       }
     }
-    return{x:gx+dxT, y:gy+dyT};
+    return { x: gx + dxT, y: gy + dyT };
   }
 
-  // Grid
-  for(var r=0;r<rows;r++){
+  for (var r = 0; r < rows; r++) {
     ctx.beginPath();
-    for(var c=0;c<cols;c++){var p=getDisp(c*GRID,r*GRID);c===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}
-    ctx.strokeStyle='rgba(156,188,20,0.18)';ctx.lineWidth=0.8;ctx.stroke();
+    for (var c = 0; c < cols; c++) { var p = getDisp(c * GRID, r * GRID); c === 0 ? ctx.moveTo(p.x, p.y) : ctx.lineTo(p.x, p.y); }
+    ctx.strokeStyle = 'rgba(156,188,20,0.18)'; ctx.lineWidth = 0.8; ctx.stroke();
   }
-  for(var c=0;c<cols;c++){
+  for (var c = 0; c < cols; c++) {
     ctx.beginPath();
-    for(var r=0;r<rows;r++){var p=getDisp(c*GRID,r*GRID);r===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}
-    ctx.strokeStyle='rgba(156,188,20,0.18)';ctx.lineWidth=0.8;ctx.stroke();
+    for (var r = 0; r < rows; r++) { var p = getDisp(c * GRID, r * GRID); r === 0 ? ctx.moveTo(p.x, p.y) : ctx.lineTo(p.x, p.y); }
+    ctx.strokeStyle = 'rgba(156,188,20,0.18)'; ctx.lineWidth = 0.8; ctx.stroke();
   }
 
-  // Objects
-  for(var i=0;i<objects.length;i++){
-    var o=objects[i];
-    // Velocity line (shows direction and speed)
-    var spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
-    if(spd>0.3){
-      ctx.strokeStyle=o.color+'55';ctx.lineWidth=1.5;
-      ctx.beginPath();ctx.moveTo(o.x,o.y);
-      ctx.lineTo(o.x+o.vx*15,o.y+o.vy*15);ctx.stroke();
-      // Arrow head
-      ctx.fillStyle=o.color+'55';
+  for (var i = 0; i < objects.length; i++) {
+    var o = objects[i];
+    var spd = Math.sqrt(o.vx * o.vx + o.vy * o.vy);
+
+    if (o.isPhoton) {
+      // Photon: small bright dot with a light trail
+      ctx.fillStyle = o.color;
+      ctx.shadowColor = o.color;
+      ctx.shadowBlur = 12;
+      ctx.beginPath(); ctx.arc(o.x, o.y, 3, 0, Math.PI * 2); ctx.fill();
+      ctx.shadowBlur = 0;
+      // Trail line
+      ctx.strokeStyle = o.color + '40';
+      ctx.lineWidth = 1;
       ctx.beginPath();
-      var angle=Math.atan2(o.vy,o.vx);
-      var ax=o.x+o.vx*15, ay=o.y+o.vy*15;
-      ctx.moveTo(ax,ay);
-      ctx.lineTo(ax-8*Math.cos(angle-0.4),ay-8*Math.sin(angle-0.4));
-      ctx.lineTo(ax-8*Math.cos(angle+0.4),ay-8*Math.sin(angle+0.4));
+      ctx.moveTo(o.x, o.y);
+      ctx.lineTo(o.x - o.vx * 8, o.y - o.vy * 8);
+      ctx.stroke();
+      continue;
+    }
+
+    // Velocity arrow
+    if (spd > 0.3) {
+      ctx.strokeStyle = o.color + '44'; ctx.lineWidth = 1.5;
+      ctx.beginPath(); ctx.moveTo(o.x, o.y); ctx.lineTo(o.x + o.vx * 12, o.y + o.vy * 12); ctx.stroke();
+      var angle = Math.atan2(o.vy, o.vx);
+      var ax2 = o.x + o.vx * 12, ay2 = o.y + o.vy * 12;
+      ctx.fillStyle = o.color + '44'; ctx.beginPath();
+      ctx.moveTo(ax2, ay2);
+      ctx.lineTo(ax2 - 6 * Math.cos(angle - 0.4), ay2 - 6 * Math.sin(angle - 0.4));
+      ctx.lineTo(ax2 - 6 * Math.cos(angle + 0.4), ay2 - 6 * Math.sin(angle + 0.4));
       ctx.fill();
     }
+
     // Glow
-    var grd=ctx.createRadialGradient(o.x,o.y,0,o.x,o.y,o.size*3);
-    grd.addColorStop(0,o.color+'44');grd.addColorStop(1,'transparent');
-    ctx.fillStyle=grd;ctx.beginPath();ctx.arc(o.x,o.y,o.size*3,0,Math.PI*2);ctx.fill();
+    var grd = ctx.createRadialGradient(o.x, o.y, 0, o.x, o.y, o.size * 2.5);
+    grd.addColorStop(0, o.color + '33'); grd.addColorStop(1, 'transparent');
+    ctx.fillStyle = grd; ctx.beginPath(); ctx.arc(o.x, o.y, o.size * 2.5, 0, Math.PI * 2); ctx.fill();
+
     // Body
-    var bg=ctx.createRadialGradient(o.x-o.size*0.3,o.y-o.size*0.3,0,o.x,o.y,o.size);
-    bg.addColorStop(0,o.color);bg.addColorStop(1,o.color+'88');
-    ctx.fillStyle=bg;ctx.beginPath();ctx.arc(o.x,o.y,o.size,0,Math.PI*2);ctx.fill();
+    var bg = ctx.createRadialGradient(o.x - o.size * 0.3, o.y - o.size * 0.3, 0, o.x, o.y, o.size);
+    bg.addColorStop(0, o.color); bg.addColorStop(1, o.color + '88');
+    ctx.fillStyle = bg; ctx.beginPath(); ctx.arc(o.x, o.y, o.size, 0, Math.PI * 2); ctx.fill();
+
     // Highlight
-    ctx.fillStyle='rgba(255,255,255,0.2)';ctx.beginPath();
-    ctx.arc(o.x-o.size*0.25,o.y-o.size*0.25,o.size*0.3,0,Math.PI*2);ctx.fill();
-    // Selected
-    if(o===selected){ctx.strokeStyle='#fff';ctx.lineWidth=1.5;ctx.beginPath();ctx.arc(o.x,o.y,o.size+6,0,Math.PI*2);ctx.stroke();}
+    ctx.fillStyle = 'rgba(255,255,255,0.18)'; ctx.beginPath();
+    ctx.arc(o.x - o.size * 0.25, o.y - o.size * 0.25, o.size * 0.28, 0, Math.PI * 2); ctx.fill();
+
+    // Selected ring
+    if (o === selected) { ctx.strokeStyle = '#fff'; ctx.lineWidth = 1.5; ctx.beginPath(); ctx.arc(o.x, o.y, o.size + 6, 0, Math.PI * 2); ctx.stroke(); }
+
     // Label
-    ctx.fillStyle='rgba(255,255,255,0.4)';ctx.font='9px sans-serif';ctx.textAlign='center';
-    ctx.fillText(o.mass+'M  v:'+spd.toFixed(1),o.x,o.y+o.size+13);
+    ctx.fillStyle = 'rgba(255,255,255,0.35)'; ctx.font = '9px sans-serif'; ctx.textAlign = 'center';
+    ctx.fillText(o.mass + 'M  v' + spd.toFixed(1), o.x, o.y + o.size + 13);
   }
 
-  // Status
-  ctx.fillStyle='rgba(255,255,255,0.25)';ctx.font='11px sans-serif';ctx.textAlign='right';
-  ctx.fillText(objects.length+' object'+(objects.length!==1?'s':'')+' · '+(energyLoss?'drag on (spiral)':'drag off (orbit)'),W-16,H-16);
+  ctx.fillStyle = 'rgba(255,255,255,0.2)'; ctx.font = '11px sans-serif'; ctx.textAlign = 'right';
+  ctx.fillText(objects.length + ' object' + (objects.length !== 1 ? 's' : '') + '  ·  drag ' + (energyLoss ? 'on (spiral)' : 'off (orbit)'), W - 16, H - 16);
 
   updatePhysics();
   requestAnimationFrame(draw);
 }
 
 draw();
-addObject(W/2, H/2);
-</script>\n</body>\n</html>
+addObject(W / 2, H / 2);
+</script>
+</body>
+</html>
