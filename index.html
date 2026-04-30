@@ -10821,9 +10821,9 @@
   z-index: 50;
   pointer-events: none;
   opacity: 0;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.15s ease;
 }
-#newton-img.show { opacity: 1; }
+#newton-img.show { opacity: 1; transition: opacity 0.3s ease; }
 #newton-img img {
   width: clamp(120px, 16vw, 180px);
   filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5));
@@ -10938,9 +10938,9 @@
 #gw-tag {
   position: fixed;
   right: 0;
-  top: 40%;
+  top: 28%;
   transform: translateY(-50%);
-  z-index: 996;
+  z-index: 1003;
   background: linear-gradient(180deg, rgba(40,20,5,0.9), rgba(25,12,3,0.95));
   border: 1.5px solid rgba(255,152,0,0.4);
   border-right: none;
@@ -10960,9 +10960,9 @@
 #gw-panel {
   position: fixed;
   right: -340px;
-  top: 40%;
+  top: 30%;
   transform: translateY(-50%);
-  z-index: 995;
+  z-index: 1002;
   width: 300px;
   background: linear-gradient(170deg, rgba(20,10,3,0.96), rgba(10,6,24,0.98));
   border: 1px solid rgba(255,152,0,0.25);
@@ -11022,12 +11022,14 @@
 }
 </style>
 
-<div id="gw-tag">⚖ Your Weight</div>
+<div id="gw-tag">🌍🌙 W=mg</div>
 <div id="gw-panel">
   <button id="gw-close">✕</button>
   <div id="gw-title">What Would You Weigh?</div>
   <div id="gw-input-row">
+    <button class="gw-step" id="gw-minus" style="font-size:20px;padding:4px 12px;background:rgba(255,152,0,0.15);border:1px solid rgba(255,152,0,0.3);color:#ffb300;border-radius:6px;cursor:pointer">−</button>
     <input type="number" id="gw-input" value="70" min="1" max="500">
+    <button class="gw-step" id="gw-plus" style="font-size:20px;padding:4px 12px;background:rgba(255,152,0,0.15);border:1px solid rgba(255,152,0,0.3);color:#ffb300;border-radius:6px;cursor:pointer">+</button>
     <span id="gw-input-label">kg on Earth</span>
   </div>
   <div id="gw-results">
@@ -11122,8 +11124,30 @@
 
   // Sound on weight change
   input.addEventListener('input', function() {
-    playScrollSound(0.1);
+    playSound(0.15);
+    update();
   });
+
+  // +/- buttons
+  document.getElementById('gw-plus').addEventListener('click', function(e) {
+    e.stopPropagation();
+    input.value = Math.min(500, (+input.value || 0) + 5);
+    playSound(0.2);
+    update();
+  });
+  document.getElementById('gw-minus').addEventListener('click', function(e) {
+    e.stopPropagation();
+    input.value = Math.max(1, (+input.value || 0) - 5);
+    playSound(0.2);
+    update();
+  });
+
+  // Mobile: touch outside to close
+  document.addEventListener('touchstart', function(e) {
+    if (panel.classList.contains('open') && !panel.contains(e.target) && e.target !== tag && !tag.contains(e.target)) {
+      closePanel();
+    }
+  }, { passive: true });
 })();
 </script>
 
