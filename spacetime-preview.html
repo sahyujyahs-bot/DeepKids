@@ -45,12 +45,12 @@ canvas{display:block}
       <div class="opt" onclick="chooseAnchor('sun')">
         <div class="emoji">☀️</div>
         <div class="name">Sun</div>
-        <div class="desc">Mass 500 · Heavy</div>
+        <div class="desc">Mass 5000 · Anchor</div>
       </div>
       <div class="opt" onclick="chooseAnchor('blackhole')">
         <div class="emoji">🕳️</div>
         <div class="name">Black Hole</div>
-        <div class="desc">Mass 500 · Tiny · Extreme</div>
+        <div class="desc">Mass 5000 · Tiny · Extreme</div>
       </div>
     </div>
   </div>
@@ -92,14 +92,14 @@ var mouseX=0,mouseY=0;
 var gravFieldRadius=0;
 
 var PRESETS={
-  sun:      {mass:500,size:30,color:'#ffdd22',name:'Sun',speed:0},
-  blackhole:{mass:500,size:5, color:'#8800cc',name:'Black Hole',speed:0},
-  earth:    {mass:10, size:10,color:'#4488ff',name:'Earth',speed:50},
-  jupiter:  {mass:80, size:22,color:'#ff9944',name:'Jupiter',speed:45},
-  moon:     {mass:3,  size:5, color:'#aaaaaa',name:'Moon',speed:50},
-  iss:      {mass:0.5,size:3, color:'#88ddff',name:'ISS',speed:55},
-  photon:   {mass:1,  size:2, color:'#ffffff',name:'Photon',speed:100},
-  sun2:     {mass:500,size:30,color:'#ffdd22',name:'Sun',speed:40}
+  sun:      {mass:5000,size:30,color:'#ffdd22',name:'Sun',speed:0},
+  blackhole:{mass:5000,size:5, color:'#8800cc',name:'Black Hole',speed:0},
+  earth:    {mass:1.5,size:9, color:'#4488ff',name:'Earth',speed:50},
+  jupiter:  {mass:5,  size:18,color:'#ff9944',name:'Jupiter',speed:48},
+  moon:     {mass:0.2,size:4, color:'#aaaaaa',name:'Moon',speed:50},
+  iss:      {mass:0.01,size:2,color:'#88ddff',name:'ISS',speed:50},
+  photon:   {mass:0.001,size:2,color:'#ffffff',name:'Photon',speed:100},
+  sun2:     {mass:5000,size:28,color:'#ffdd22',name:'Sun',speed:45}
 };
 
 function chooseAnchor(type){
@@ -107,7 +107,7 @@ function chooseAnchor(type){
   anchor={x:W/2,y:H/2,vx:0,vy:0,mass:p.mass,size:p.size,color:p.color,name:p.name,isPhoton:false};
   objects=[anchor];
   // Gravity field radius (where orbits are visually meaningful)
-  gravFieldRadius=Math.sqrt(anchor.mass)*12+80;
+  gravFieldRadius=Math.sqrt(anchor.mass)*5+80;
 
   document.getElementById('step1').style.display='none';
   document.getElementById('step2').style.display='';
@@ -122,7 +122,7 @@ function chooseAnchor(type){
     opts+='<div class="opt" onclick="chooseOrbiter(\''+key+'\')">';
     opts+='<div class="emoji">'+(key==='earth'?'🌍':key==='jupiter'?'🟠':key==='moon'?'🌙':key==='iss'?'🛸':key==='photon'?'💡':key==='sun2'?'☀️':'')+'</div>';
     opts+='<div class="name">'+pr.name+'</div>';
-    opts+='<div class="desc">Mass '+pr.mass+' · Speed '+pr.speed+'%</div>';
+    opts+='<div class="desc">Speed '+pr.speed+'%</div>';
     opts+='</div>';
   });
   document.getElementById('orbiter-opts').innerHTML=opts;
@@ -133,7 +133,7 @@ function chooseAnchor(type){
 
 function chooseOrbiter(type){
   orbiter=JSON.parse(JSON.stringify(PRESETS[type]));
-  orbiter.isPhoton=orbiter.mass<=1;
+  orbiter.isPhoton=orbiter.mass<=0.01;
   document.getElementById('step2').style.display='none';
   document.getElementById('step3').style.display='';
   document.getElementById('info-bar').style.display='';
@@ -232,7 +232,7 @@ function physics(){
       var dx=oj.x-o.x,dy=oj.y-o.y;
       var distSq=dx*dx+dy*dy,dist=Math.sqrt(distSq);
       if(dist<2)continue;
-      if(o.isPhoton&&dist<oj.size*0.6&&oj.size<8){objects.splice(i,1);i--;break;}
+      if(o.isPhoton&&dist<oj.size*0.8&&oj.size<8){objects.splice(i,1);i--;break;}
       if(!o.isPhoton&&dist<o.size+oj.size){
         var nx=dx/dist,ny=dy/dist,ov=o.size+oj.size-dist,tm2=o.mass+oj.mass;
         o.x-=nx*ov*(oj.mass/tm2);o.y-=ny*ov*(oj.mass/tm2);
@@ -267,8 +267,8 @@ function draw(){
     for(var i=0;i<objects.length;i++){
       if(objects[i].isPhoton)continue;
       var dx=gx-objects[i].x,dy=gy-objects[i].y,d=Math.sqrt(dx*dx+dy*dy);
-      var r=Math.sqrt(objects[i].mass)*8+40;
-      if(d<r&&d>1){var t=1-d/r;var p=Math.sqrt(objects[i].mass)*1.5*t*t;wx-=(dx/d)*p;wy-=(dy/d)*p;}
+      var r=Math.sqrt(objects[i].mass)*4+40;
+      if(d<r&&d>1){var t=1-d/r;var p=Math.sqrt(objects[i].mass)*1.0*t*t;wx-=(dx/d)*p;wy-=(dy/d)*p;}
     }
     return{x:gx+wx,y:gy+wy};
   }
