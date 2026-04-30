@@ -10807,48 +10807,46 @@
 <style>
 #apple-scroll {
   position: fixed;
-  z-index: 50;
+  z-index: 52;
   pointer-events: none;
   right: 10%;
-  top: -80px;
+  top: 0;
   opacity: 0;
 }
-#apple-scroll img { width: clamp(55px, 7vw, 80px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
+#apple-scroll img { width: clamp(50px, 6vw, 70px); filter: drop-shadow(0 3px 8px rgba(0,0,0,0.5)); }
+
 #newton-scene {
   position: fixed;
   bottom: 0;
-  right: 7%;
-  z-index: 49;
+  right: 6%;
+  z-index: 50;
   pointer-events: none;
   text-align: center;
   opacity: 0;
-  transform: translateY(100%);
-  transition: opacity 0.5s ease, transform 0.5s ease;
+  transition: opacity 0.4s ease;
 }
-#newton-scene.show {
-  opacity: 1;
-  transform: translateY(0);
+#newton-scene.show { opacity: 1; }
+
+#newton-char {
+  position: relative;
+  z-index: 2;
+  transition: transform 0.05s linear;
 }
-#newton-char { position: relative; z-index: 2; }
-#newton-char img { width: clamp(100px, 14vw, 150px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
-#newton-hole { position: relative; z-index: 1; margin-top: -25px; }
-#newton-hole img { width: clamp(160px, 20vw, 230px); }
-#newton-scene.fallen #newton-char {
-  transition: transform 0.7s ease-in, opacity 0.5s ease 0.3s;
-  transform: translateY(50px) scale(0.5);
-  opacity: 0;
+#newton-char img { width: clamp(100px, 13vw, 140px); filter: drop-shadow(0 3px 8px rgba(0,0,0,0.5)); }
+
+#newton-hole {
+  position: relative;
+  z-index: 1;
+  margin-top: -20px;
 }
-#apple-scroll.fallen {
-  transition: transform 0.7s ease-in, opacity 0.5s ease 0.3s !important;
-  transform: translateY(50px) scale(0.4) !important;
-  opacity: 0 !important;
-}
+#newton-hole img { width: clamp(160px, 20vw, 220px); }
+
 @media (max-width: 768px) {
-  #apple-scroll { right: 6%; }
-  #apple-scroll img { width: clamp(40px, 10vw, 60px); }
-  #newton-scene { right: 3%; }
-  #newton-char img { width: clamp(80px, 20vw, 120px); }
-  #newton-hole img { width: clamp(130px, 30vw, 190px); }
+  #apple-scroll { right: 5%; }
+  #apple-scroll img { width: clamp(35px, 9vw, 55px); }
+  #newton-scene { right: 2%; }
+  #newton-char img { width: clamp(75px, 18vw, 110px); }
+  #newton-hole img { width: clamp(120px, 28vw, 170px); }
 }
 </style>
 
@@ -10862,9 +10860,30 @@
 (function(){
   var apple = document.getElementById('apple-scroll');
   var scene = document.getElementById('newton-scene');
-  if (!apple || !scene) return;
-  var hit = false;
-  var scrollStarted = false;
+  var charEl = document.getElementById('newton-char');
+  if (!apple || !scene || !charEl) return;
+
+  // Animation state
+  var phase = 'falling'; // falling, bounce, sinking
+  var bounceT = 0;
+  var sinkT = 0;
+  var applePhysY = 0;
+  var applePhysVy = 0;
+  var newtonY = 0;
+  var newtonVy = 0;
+
+  function resetState() {
+    phase = 'falling';
+    bounceT = 0;
+    sinkT = 0;
+    applePhysY = 0;
+    applePhysVy = 0;
+    newtonY = 0;
+    newtonVy = 0;
+    charEl.style.transform = '';
+    charEl.style.opacity = '';
+    apple.style.opacity = '0';
+  }
 
   window.addEventListener('scroll', function() {
     var scrollTop = window.pageYOffset || 0;
@@ -10872,50 +10891,103 @@
     if (docHeight <= 0) return;
     var pct = scrollTop / docHeight;
 
-    // Apple starts on ANY scroll
-    if (pct > 0 && !hit) {
-      // Start from top of viewport, end at bottom
-      var appleY = pct * window.innerHeight;
-      var drift = Math.sin(pct * Math.PI * 8) * 30;
-      var rotate = pct * 720;
-      apple.style.top = appleY + 'px';
-      apple.style.right = (window.innerWidth * 0.08 + drift) + 'px';
-      apple.style.transform = 'rotate(' + rotate + 'deg)';
-      apple.style.opacity = Math.min(pct * 20, 0.9);
-    }
-    if (pct === 0) {
-      apple.style.opacity = '0';
-    }
-
-    // Newton ONLY shows when user is at the very bottom (last 10%)
-    var nearBottom = pct > 0.90;
-    if (nearBottom) {
+    // Newton scene visible at 88%+
+    if (pct > 0.88) {
       scene.classList.add('show');
     } else {
       scene.classList.remove('show');
-      scene.classList.remove('fallen');
-      apple.classList.remove('fallen');
-      hit = false;
+      resetState();
+      return;
     }
 
-    // Apple hits Newton at 95%
-    if (pct > 0.95 && !hit) {
-      hit = true;
-      var charEl = document.getElementById('newton-char');
-      if (charEl) {
-        var r = charEl.getBoundingClientRect();
-        apple.style.top = (r.top - 15) + 'px';
-        apple.style.right = (window.innerWidth - r.left - r.width/2 - 15) + 'px';
-        apple.style.transform = 'rotate(0deg)';
+    // Apple falling phase: scroll 0% to 92%
+    if (phase === 'falling') {
+      if (pct > 0) {
+        var appleY = pct * window.innerHeight * 0.9;
+        var drift = Math.sin(pct * Math.PI * 8) * 25;
+        var rotate = pct * 720;
+        apple.style.top = appleY + 'px';
+        apple.style.right = (window.innerWidth * 0.07 + drift) + 'px';
+        apple.style.transform = 'rotate(' + rotate + 'deg)';
+        apple.style.opacity = Math.min(pct * 15, 0.9);
       }
-      setTimeout(function() {
-        scene.classList.add('fallen');
-        apple.classList.add('fallen');
-      }, 500);
-      if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
-      if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.3);
+
+      // Check if apple reached Newton (92%+)
+      if (pct > 0.92) {
+        phase = 'bounce';
+        bounceT = 0;
+        // Get Newton's head position
+        var charRect = charEl.getBoundingClientRect();
+        var holeEl = document.getElementById('newton-hole');
+        var holeRect = holeEl ? holeEl.getBoundingClientRect() : {top: window.innerHeight};
+        // Set apple position to Newton's head
+        applePhysY = charRect.top - 20;
+        applePhysVy = -4; // bounce UP first
+        newtonY = 0;
+        newtonVy = 0;
+        // Snap apple x to Newton
+        apple.style.right = (window.innerWidth - charRect.left - charRect.width/2 - 10) + 'px';
+        apple.style.transform = 'rotate(0deg)';
+        // Sound
+        if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.4);
+        if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
+        requestAnimationFrame(animateBounce);
+      }
     }
   }, { passive: true });
+
+  function animateBounce() {
+    if (phase !== 'bounce' && phase !== 'sinking') return;
+    bounceT++;
+
+    if (phase === 'bounce') {
+      // Apple bounces off Newton's head
+      applePhysVy += 0.3; // gravity
+      applePhysY += applePhysVy;
+
+      // Newton recoils down from impact
+      if (bounceT < 10) {
+        newtonY += 1.5;
+      }
+
+      apple.style.top = applePhysY + 'px';
+      apple.style.opacity = '0.9';
+
+      // After bounce reaches peak and comes back down (30 frames)
+      if (bounceT > 25) {
+        phase = 'sinking';
+        sinkT = 0;
+      }
+    }
+
+    if (phase === 'sinking') {
+      sinkT++;
+      // Both Newton and apple sink into the hole
+      var sinkPct = Math.min(sinkT / 50, 1);
+      var ease = sinkPct * sinkPct; // accelerating
+
+      newtonY = 10 + ease * 80;
+      var newtonScale = 1 - ease * 0.6;
+      var newtonOpacity = 1 - ease;
+      charEl.style.transform = 'translateY(' + newtonY + 'px) scale(' + newtonScale + ')';
+      charEl.style.opacity = newtonOpacity;
+
+      // Apple follows Newton down
+      var charRect = charEl.getBoundingClientRect();
+      applePhysY = charRect.top - 10 + ease * 30;
+      apple.style.top = applePhysY + 'px';
+      var appleScale = 1 - ease * 0.7;
+      var appleOpacity = 1 - ease;
+      apple.style.transform = 'scale(' + appleScale + ')';
+      apple.style.opacity = appleOpacity;
+
+      if (sinkT >= 50) {
+        return; // done
+      }
+    }
+
+    requestAnimationFrame(animateBounce);
+  }
 })();
 </script>
 
