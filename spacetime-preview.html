@@ -93,11 +93,11 @@ document.querySelectorAll('.preset').forEach(function(p){
     massSlider.value=p.dataset.mass;sizeSlider.value=p.dataset.size;speedSlider.value=p.dataset.speed;
     currentColor=p.dataset.color;
     massVal.textContent=massSlider.value;sizeVal.textContent=sizeSlider.value;speedVal.textContent=speedSlider.value;
-    if(selected){selected.mass=+massSlider.value;selected.size=+sizeSlider.value;selected.color=currentColor;selected.isPhoton=+massSlider.value<=1;applyV(selected);}
+    if(selected){selected.mass=+massSlider.value;selected.size=+sizeSlider.value;selected.color=currentColor;selected.isPhoton=+massSlider.value<=1;selected.speedPct=+speedSlider.value;applyV(selected);}
   });
 });
 
-function syncUI(o){massSlider.value=o.mass;sizeSlider.value=o.size;massVal.textContent=o.mass;sizeVal.textContent=o.size;}
+function syncUI(o){massSlider.value=o.mass;sizeSlider.value=o.size;speedSlider.value=o.speedPct||0;massVal.textContent=o.mass;sizeVal.textContent=o.size;speedVal.textContent=o.speedPct||0;}
 
 function findNearest(obj){
   var best=null,bd=Infinity;
@@ -106,7 +106,7 @@ function findNearest(obj){
 }
 
 function applyV(obj){
-  var pct=+speedSlider.value;
+  var pct=obj.speedPct;
   if(pct<=0){obj.vx=0;obj.vy=0;return;}
   var near=findNearest(obj);
   if(!near){obj.vx=pct*0.03;obj.vy=0;return;}
@@ -121,7 +121,7 @@ function applyV(obj){
 
 massSlider.addEventListener('input',function(){massVal.textContent=this.value;if(selected){selected.mass=+this.value;selected.isPhoton=+this.value<=1;}});
 sizeSlider.addEventListener('input',function(){sizeVal.textContent=this.value;if(selected)selected.size=+this.value;});
-speedSlider.addEventListener('input',function(){speedVal.textContent=this.value;if(selected)applyV(selected);});
+speedSlider.addEventListener('input',function(){speedVal.textContent=this.value;if(selected){selected.speedPct=+this.value;applyV(selected);}});
 
 document.getElementById('btn-clear').addEventListener('click',function(){objects=[];selected=null;});
 document.getElementById('btn-trails').addEventListener('click',function(){showTrails=!showTrails;this.textContent='Trails: '+(showTrails?'On':'Off');});
@@ -129,7 +129,7 @@ document.getElementById('btn-energy').addEventListener('click',function(){energy
 document.getElementById('btn-add').addEventListener('click',function(){placeObj(W*0.2+Math.random()*W*0.6,H*0.2+Math.random()*H*0.6);});
 
 function placeObj(x,y){
-  var obj={x:x,y:y,mass:+massSlider.value,size:+sizeSlider.value,color:currentColor,vx:0,vy:0,isPhoton:+massSlider.value<=1};
+  var obj={x:x,y:y,mass:+massSlider.value,size:+sizeSlider.value,color:currentColor,vx:0,vy:0,isPhoton:+massSlider.value<=1,speedPct:+speedSlider.value};
   objects.push(obj);selected=obj;applyV(obj);syncUI(obj);
 }
 
