@@ -1,216 +1,299 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Spacetime Curvature Simulator — DeepKids</title>
+<title>Spacetime Simulator — DeepKids</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#0a0618;overflow:hidden;height:100vh;font-family:sans-serif;color:#fff}
 canvas{display:block;cursor:crosshair}
-#ui{position:fixed;top:16px;left:16px;z-index:10;display:flex;flex-direction:column;gap:10px;max-width:280px}
-.panel{background:rgba(10,6,24,0.85);backdrop-filter:blur(8px);border:1px solid rgba(156,188,20,0.25);border-radius:12px;padding:14px 16px}
-.panel h3{font-size:14px;color:#9cbc14;margin-bottom:8px;letter-spacing:1px}
-.panel p{font-size:11px;color:rgba(255,255,255,0.5);line-height:1.4;margin-bottom:8px}
-.slider-row{display:flex;align-items:center;gap:8px;margin-bottom:6px}
-.slider-row label{font-size:11px;color:rgba(255,255,255,0.6);min-width:40px}
-.slider-row input[type=range]{flex:1;accent-color:#9cbc14;height:4px}
-.slider-row .val{font-size:12px;color:#9cbc14;min-width:30px;text-align:right}
-.btn{background:rgba(156,188,20,0.15);border:1px solid rgba(156,188,20,0.3);color:#9cbc14;padding:6px 14px;border-radius:8px;cursor:pointer;font-size:12px;transition:background 0.2s}
-.btn:hover{background:rgba(156,188,20,0.3)}
-.presets{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
-.preset{font-size:10px;padding:4px 10px;border-radius:20px;cursor:pointer;border:1px solid rgba(255,255,255,0.15);background:rgba(255,255,255,0.05);color:rgba(255,255,255,0.7);transition:all 0.2s}
-.preset:hover,.preset.active{border-color:#9cbc14;color:#9cbc14;background:rgba(156,188,20,0.1)}
-#info{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);font-size:11px;color:rgba(255,255,255,0.35);text-align:center}
+#ui{position:fixed;top:12px;left:12px;z-index:10;max-width:260px}
+.panel{background:rgba(10,6,24,0.88);backdrop-filter:blur(8px);border:1px solid rgba(156,188,20,0.25);border-radius:10px;padding:12px 14px;margin-bottom:8px}
+.panel h3{font-size:13px;color:#9cbc14;margin-bottom:6px;letter-spacing:1px}
+.panel p{font-size:10px;color:rgba(255,255,255,0.4);line-height:1.4;margin-bottom:6px}
+.sr{display:flex;align-items:center;gap:6px;margin-bottom:4px}
+.sr label{font-size:10px;color:rgba(255,255,255,0.5);min-width:34px}
+.sr input[type=range]{flex:1;accent-color:#9cbc14;height:3px}
+.sr .v{font-size:11px;color:#9cbc14;min-width:24px;text-align:right}
+.btns{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}
+.b{background:rgba(156,188,20,0.12);border:1px solid rgba(156,188,20,0.25);color:#9cbc14;padding:4px 10px;border-radius:6px;cursor:pointer;font-size:10px}
+.b:hover{background:rgba(156,188,20,0.25)}
+.presets{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}
+.pr{font-size:9px;padding:3px 8px;border-radius:14px;cursor:pointer;border:1px solid rgba(255,255,255,0.12);background:rgba(255,255,255,0.04);color:rgba(255,255,255,0.6)}
+.pr:hover,.pr.on{border-color:#9cbc14;color:#9cbc14;background:rgba(156,188,20,0.08)}
+.note{font-size:8px;color:rgba(255,255,255,0.25);line-height:1.3;margin-top:6px}
+#hud{position:fixed;bottom:8px;left:8px;font-size:10px;color:rgba(255,255,255,0.25);z-index:10}
 </style>
 </head>
 <body>
 <canvas id="cv"></canvas>
-
 <div id="ui">
-  <div class="panel">
-    <h3>Spacetime Simulator</h3>
-    <p>Click to place a mass. Watch spacetime curve. Adjust mass, size, speed to see orbits, spirals, or escapes.</p>
-    <div class="slider-row">
-      <label title="How heavy the object is. Heavier = deeper spacetime well.">Mass</label>
-      <input type="range" id="mass-slider" min="1" max="500" value="30">
-      <span class="val" id="mass-val">30</span>
-    </div>
-    <div class="slider-row">
-      <label title="Physical radius of the object.">Size</label>
-      <input type="range" id="size-slider" min="3" max="60" value="20">
-      <span class="val" id="size-val">20</span>
-    </div>
-    <div class="slider-row">
-      <label title="0 = no speed (falls in). 50 = perfect orbit. 100 = escape velocity. Calculated relative to nearest mass.">Speed</label>
-      <input type="range" id="speed-slider" min="0" max="100" value="30">
-      <span class="val" id="speed-val">30</span>
-    </div>
-    <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
-      <button class="btn" id="btn-add" style="background:rgba(156,188,20,0.25);font-weight:bold;font-size:14px;padding:6px 14px" title="Add a new object at random position">+ Add</button>
-      <button class="btn" id="btn-clear" title="Remove all objects">Clear</button>
-      <button class="btn" id="btn-trails" title="Show orbital path trails">Trails: Off</button>
-      <button class="btn" id="btn-energy" style="border-color:#ff6633" title="Drag On = atmosphere/friction slows objects (spiral in). Drag Off = vacuum, no friction (stable orbits like Earth around Sun).">Drag: On</button>
-    </div>
-    <div class="presets">
-      <div class="preset" data-mass="1" data-size="3" data-speed="100" data-color="#ffffff" title="Massless, travels at max speed. Can it escape a black hole?">Photon</div>
-      <div class="preset" data-mass="3" data-size="6" data-speed="30" data-color="#aaaaaa" title="Tiny, low mass. Easily captured by larger objects.">Moon</div>
-      <div class="preset" data-mass="20" data-size="16" data-speed="40" data-color="#4488ff" title="Medium mass. Stable orbits at the right speed.">Earth</div>
-      <div class="preset" data-mass="55" data-size="30" data-speed="25" data-color="#ff9944" title="Gas giant. Heavy enough to influence smaller objects.">Jupiter</div>
-      <div class="preset active" data-mass="500" data-size="35" data-speed="0" data-color="#ffdd22" title="Massive. Place first, then orbit other objects around it.">Sun</div>
-      <div class="preset" data-mass="500" data-size="4" data-speed="0" data-color="#8800cc" title="Extreme mass, tiny size. Deep gravity well. Can photons escape?">Black Hole</div>
-    </div>
-    <div style="margin-top:8px;font-size:9px;color:rgba(255,255,255,0.3);line-height:1.4">
-      <b style="color:rgba(255,255,255,0.5)">Why doesn't Earth spiral into the Sun?</b><br>
-      Earth orbits in near-vacuum — no friction. It loses energy via gravitational waves at ~200 watts. At that rate, it would take 10²³ years to spiral in. The Sun dies in 5 billion.
-    </div>
+<div class="panel">
+  <h3>Spacetime Simulator</h3>
+  <p>Click to place. Drag to move. Sliders change next placed object.</p>
+  <div class="sr"><label title="Heavier = deeper gravity well">Mass</label><input type="range" id="sl-m" min="1" max="500" value="500"><span class="v" id="vm">500</span></div>
+  <div class="sr"><label title="Visual size + collision radius">Size</label><input type="range" id="sl-s" min="3" max="50" value="30"><span class="v" id="vs">30</span></div>
+  <div class="sr"><label title="0=still 50=orbit 71=escape 100=fast escape">Speed</label><input type="range" id="sl-v" min="0" max="100" value="0"><span class="v" id="vv">0</span></div>
+  <div class="btns">
+    <div class="b" id="ba" style="background:rgba(156,188,20,0.2);font-weight:bold">+ Add</div>
+    <div class="b" id="bc">Clear</div>
+    <div class="b" id="bt">Trails: Off</div>
+    <div class="b" id="bd" style="border-color:rgba(255,152,0,0.4);color:#ffb300">Drag: Off</div>
   </div>
+  <div class="presets">
+    <div class="pr" data-m="1" data-s="2" data-v="100" data-c="#ffffff" title="Massless light. Constant speed. Bends around mass.">Photon</div>
+    <div class="pr" data-m="3" data-s="5" data-v="50" data-c="#aaaaaa" title="Low mass. Easily captured.">Moon</div>
+    <div class="pr" data-m="10" data-s="10" data-v="50" data-c="#4488ff" title="Medium mass. Speed 50 = orbit.">Earth</div>
+    <div class="pr" data-m="80" data-s="22" data-v="45" data-c="#ff9944" title="Heavy. Influences others.">Jupiter</div>
+    <div class="pr on" data-m="500" data-s="30" data-v="0" data-c="#ffdd22" title="Very heavy. Place first, speed 0.">Sun</div>
+    <div class="pr" data-m="500" data-s="4" data-v="0" data-c="#8800cc" title="Max mass, tiny. Absorbs photons.">Black Hole</div>
+  </div>
+  <div class="note">Speed 50 = circular orbit · 71 = escape velocity<br>Drag On = atmosphere friction (orbits decay)</div>
 </div>
-
-<div id="info">Tap/click to place objects · Drag to move them · Scroll to adjust mass</div>
+</div>
+<div id="hud"></div>
 
 <script>
-var cv=document.getElementById('cv'),ctx=cv.getContext('2d');
-var W,H,GRID=30;
+(function(){
+var cv=document.getElementById('cv'),ctx=cv.getContext('2d'),hud=document.getElementById('hud');
+var W,H,G=1.0,GRID=32,MIN_DIST=2;
 function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
 resize();window.addEventListener('resize',resize);
 
-var objects=[],dragging=null,dragOffX=0,dragOffY=0,selected=null;
-var showTrails=false,energyLoss=false,currentColor='#ffdd22';
-var G=1.0;
+var objects=[];
+var dragging=null,dragOff={x:0,y:0};
+var trails=false,dragOn=false;
+var curColor='#ffdd22';
 
-var massSlider=document.getElementById('mass-slider');
-var sizeSlider=document.getElementById('size-slider');
-var speedSlider=document.getElementById('speed-slider');
-var massVal=document.getElementById('mass-val');
-var sizeVal=document.getElementById('size-val');
-var speedVal=document.getElementById('speed-val');
+var slM=document.getElementById('sl-m'),slS=document.getElementById('sl-s'),slV=document.getElementById('sl-v');
+var vM=document.getElementById('vm'),vS=document.getElementById('vs'),vV=document.getElementById('vv');
+slM.oninput=function(){vM.textContent=this.value};
+slS.oninput=function(){vS.textContent=this.value};
+slV.oninput=function(){vV.textContent=this.value};
 
-document.querySelectorAll('.preset').forEach(function(p){
-  p.addEventListener('click',function(){
-    document.querySelectorAll('.preset').forEach(function(pp){pp.classList.remove('active')});
-    p.classList.add('active');
-    massSlider.value=p.dataset.mass;sizeSlider.value=p.dataset.size;speedSlider.value=p.dataset.speed;
-    currentColor=p.dataset.color;
-    massVal.textContent=massSlider.value;sizeVal.textContent=sizeSlider.value;speedVal.textContent=speedSlider.value;
-    if(selected){selected.mass=+massSlider.value;selected.size=+sizeSlider.value;selected.color=currentColor;selected.isPhoton=+massSlider.value<=1;selected.speedPct=+speedSlider.value;applyV(selected);}
-  });
+// Presets
+document.querySelectorAll('.pr').forEach(function(p){
+  p.onclick=function(){
+    document.querySelectorAll('.pr').forEach(function(q){q.classList.remove('on')});
+    p.classList.add('on');
+    slM.value=p.dataset.m;slS.value=p.dataset.s;slV.value=p.dataset.v;
+    curColor=p.dataset.c;
+    vM.textContent=p.dataset.m;vS.textContent=p.dataset.s;vV.textContent=p.dataset.v;
+  };
 });
 
-function syncUI(o){massSlider.value=o.mass;sizeSlider.value=o.size;speedSlider.value=o.speedPct||0;massVal.textContent=o.mass;sizeVal.textContent=o.size;speedVal.textContent=o.speedPct||0;}
+// Buttons
+document.getElementById('ba').onclick=function(){place(W*0.2+Math.random()*W*0.6,H*0.2+Math.random()*H*0.6)};
+document.getElementById('bc').onclick=function(){objects=[]};
+document.getElementById('bt').onclick=function(){trails=!trails;this.textContent='Trails: '+(trails?'On':'Off')};
+document.getElementById('bd').onclick=function(){dragOn=!dragOn;this.textContent='Drag: '+(dragOn?'On':'Off');this.style.color=dragOn?'#ff8800':'#ffb300'};
 
-function findNearest(obj){
-  var best=null,bd=Infinity;
-  for(var i=0;i<objects.length;i++){if(objects[i]===obj)continue;var dx=objects[i].x-obj.x,dy=objects[i].y-obj.y,d=Math.sqrt(dx*dx+dy*dy);if(d<bd){bd=d;best=objects[i];}}
-  return best;
-}
+// Place object
+function place(x,y){
+  var mass=+slM.value,size=+slS.value,speedPct=+slV.value;
+  var isPhoton=mass<=1;
+  var vx=0,vy=0;
 
-function applyV(obj){
-  var pct=obj.speedPct;
-  if(pct<=0){obj.vx=0;obj.vy=0;return;}
-  var near=findNearest(obj);
-  if(!near){obj.vx=pct*0.03;obj.vy=0;return;}
-  var dx=near.x-obj.x,dy=near.y-obj.y,dist=Math.sqrt(dx*dx+dy*dy);
-  if(dist<1)return;
-  var vCirc=Math.sqrt(G*near.mass/dist);
-  var factor=pct/50; // 50=circular orbit
-  var v=vCirc*factor;
-  obj.vx=-(dy/dist)*v;
-  obj.vy=(dx/dist)*v;
-}
-
-massSlider.addEventListener('input',function(){massVal.textContent=this.value;if(selected){selected.mass=+this.value;selected.isPhoton=+this.value<=1;}});
-sizeSlider.addEventListener('input',function(){sizeVal.textContent=this.value;if(selected)selected.size=+this.value;});
-speedSlider.addEventListener('input',function(){speedVal.textContent=this.value;if(selected){selected.speedPct=+this.value;applyV(selected);}});
-
-document.getElementById('btn-clear').addEventListener('click',function(){objects=[];selected=null;});
-document.getElementById('btn-trails').addEventListener('click',function(){showTrails=!showTrails;this.textContent='Trails: '+(showTrails?'On':'Off');});
-document.getElementById('btn-energy').addEventListener('click',function(){energyLoss=!energyLoss;this.textContent='Drag: '+(energyLoss?'On':'Off');this.style.borderColor=energyLoss?'#ff6633':'#9cbc14';});
-document.getElementById('btn-add').addEventListener('click',function(){placeObj(W*0.2+Math.random()*W*0.6,H*0.2+Math.random()*H*0.6);});
-
-function placeObj(x,y){
-  var obj={x:x,y:y,mass:+massSlider.value,size:+sizeSlider.value,color:currentColor,vx:0,vy:0,isPhoton:+massSlider.value<=1,speedPct:+speedSlider.value};
-  objects.push(obj);selected=obj;applyV(obj);syncUI(obj);
-}
-
-function getPos(e){var t=e.touches?e.touches[0]:e;return{x:t.clientX,y:t.clientY};}
-function findObj(x,y){for(var i=objects.length-1;i>=0;i--){var o=objects[i],dx=x-o.x,dy=y-o.y;if(dx*dx+dy*dy<(o.size+18)*(o.size+18))return o;}return null;}
-
-cv.addEventListener('mousedown',function(e){var p=getPos(e),f=findObj(p.x,p.y);if(f){dragging=f;selected=f;syncUI(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;}});
-cv.addEventListener('mousemove',function(e){if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;}});
-cv.addEventListener('mouseup',function(e){if(dragging){applyV(dragging);dragging=null;}else{var p=getPos(e);if(!findObj(p.x,p.y))placeObj(p.x,p.y);}});
-cv.addEventListener('touchstart',function(e){var p=getPos(e),f=findObj(p.x,p.y);if(f){dragging=f;selected=f;syncUI(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;e.preventDefault();}},{passive:false});
-cv.addEventListener('touchmove',function(e){if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;e.preventDefault();}},{passive:false});
-cv.addEventListener('touchend',function(e){if(dragging){applyV(dragging);dragging=null;}else if(e.changedTouches){var t=e.changedTouches[0];if(!findObj(t.clientX,t.clientY))placeObj(t.clientX,t.clientY);}});
-
-function physics(){
-  var DAMP=energyLoss?0.9999:1.0;
-  // Mergers
-  for(var i=0;i<objects.length;i++){for(var j=i+1;j<objects.length;j++){
-    if(objects[i].isPhoton||objects[j].isPhoton)continue;
-    var dx=objects[j].x-objects[i].x,dy=objects[j].y-objects[i].y,dist=Math.sqrt(dx*dx+dy*dy);
-    if(dist<Math.max(objects[i].size,objects[j].size)*0.4&&objects[i]!==dragging&&objects[j]!==dragging){
-      var bi=objects[i].mass>=objects[j].mass?i:j,si=bi===i?j:i;
-      var b=objects[bi],s=objects[si],tm=b.mass+s.mass;
-      b.vx=(b.vx*b.mass+s.vx*s.mass)/tm;b.vy=(b.vy*b.mass+s.vy*s.mass)/tm;
-      b.mass=Math.min(tm,500);b.size=Math.min(Math.sqrt(b.size*b.size+s.size*s.size),60);
-      if(selected===s)selected=b;objects.splice(si,1);if(selected)syncUI(selected);i=-1;break;
+  if(objects.length>0 && speedPct>0){
+    // Find nearest other object
+    var near=null,nd=1e9;
+    for(var i=0;i<objects.length;i++){
+      var dx=objects[i].x-x,dy=objects[i].y-y,d=Math.sqrt(dx*dx+dy*dy);
+      if(d<nd){nd=d;near=objects[i];}
     }
-  }}
+    if(near && nd>1){
+      var dx=near.x-x,dy=near.y-y,dist=nd;
+      // v_circular = sqrt(G*M/r)
+      var vCirc=Math.sqrt(G*near.mass/dist);
+      // Map: 50=circular, 71≈escape(sqrt2), 100=2x circular
+      var factor=speedPct/50;
+      var speed=vCirc*factor;
+      // Tangential (perpendicular to radial, counter-clockwise)
+      vx=-(dy/dist)*speed;
+      vy=(dx/dist)*speed;
+    }
+  }
+
+  objects.push({x:x,y:y,vx:vx,vy:vy,mass:mass,size:size,color:curColor,isPhoton:isPhoton});
+}
+
+// Input
+function gp(e){var t=e.touches?e.touches[0]:e;return{x:t.clientX,y:t.clientY}}
+function find(x,y){for(var i=objects.length-1;i>=0;i--){var o=objects[i],dx=x-o.x,dy=y-o.y;if(dx*dx+dy*dy<(o.size+14)*(o.size+14))return{obj:o,idx:i}}return null}
+
+cv.onmousedown=function(e){var p=gp(e),f=find(p.x,p.y);if(f){dragging=f.obj;dragOff.x=p.x-f.obj.x;dragOff.y=p.y-f.obj.y}};
+cv.onmousemove=function(e){if(dragging){var p=gp(e);dragging.x=p.x-dragOff.x;dragging.y=p.y-dragOff.y;dragging.vx=0;dragging.vy=0}};
+cv.onmouseup=function(e){if(dragging){dragging=null}else{var p=gp(e);if(!find(p.x,p.y))place(p.x,p.y)}};
+cv.ontouchstart=function(e){var p=gp(e),f=find(p.x,p.y);if(f){dragging=f.obj;dragOff.x=p.x-f.obj.x;dragOff.y=p.y-f.obj.y;e.preventDefault()}};
+cv.ontouchmove=function(e){if(dragging){var p=gp(e);dragging.x=p.x-dragOff.x;dragging.y=p.y-dragOff.y;dragging.vx=0;dragging.vy=0;e.preventDefault()}};
+cv.ontouchend=function(e){if(dragging){dragging=null}else if(e.changedTouches){var t=e.changedTouches[0];if(!find(t.clientX,t.clientY))place(t.clientX,t.clientY)}};
+
+// Physics
+function physics(){
+  var DAMP=dragOn?0.9999:1.0;
+  var PHOTON_SPEED=4.0;
+
+  // Mergers
+  for(var i=0;i<objects.length;i++){
+    for(var j=i+1;j<objects.length;j++){
+      var a=objects[i],b=objects[j];
+      if(a.isPhoton||b.isPhoton)continue;
+      if(a===dragging||b===dragging)continue;
+      var dx=b.x-a.x,dy=b.y-a.y,dist=Math.sqrt(dx*dx+dy*dy);
+      if(dist<Math.max(a.size,b.size)*0.4){
+        // Merge: bigger absorbs smaller
+        var big=a.mass>=b.mass?a:b,small=a.mass>=b.mass?b:a;
+        var tm=big.mass+small.mass;
+        big.vx=(big.vx*big.mass+small.vx*small.mass)/tm;
+        big.vy=(big.vy*big.mass+small.vy*small.mass)/tm;
+        big.mass=Math.min(tm,999);
+        big.size=Math.min(Math.sqrt(big.size*big.size+small.size*small.size),55);
+        objects.splice(objects.indexOf(small),1);
+        i=-1;break;
+      }
+    }
+  }
 
   for(var i=0;i<objects.length;i++){
-    if(objects[i]===dragging)continue;
-    var o=objects[i],ax=0,ay=0;
+    var o=objects[i];
+    if(o===dragging)continue;
+    var ax=0,ay=0;
+
     for(var j=0;j<objects.length;j++){
       if(i===j)continue;
-      var dx=objects[j].x-o.x,dy=objects[j].y-o.y,dist=Math.sqrt(dx*dx+dy*dy);
-      if(dist<0.5)continue;
-      if(o.isPhoton&&dist<objects[j].size*0.6&&objects[j].size<8){objects.splice(i,1);i--;break;}
-      if(!o.isPhoton&&dist<o.size+objects[j].size){
-        var nx=dx/dist,ny=dy/dist,ov=o.size+objects[j].size-dist,tm2=o.mass+objects[j].mass;
-        o.x-=nx*ov*(objects[j].mass/tm2);o.y-=ny*ov*(objects[j].mass/tm2);
-        var dvn=(o.vx-objects[j].vx)*nx+(o.vy-objects[j].vy)*ny;
-        if(dvn>0){var imp=dvn*2*objects[j].mass/tm2;o.vx-=imp*nx*0.5;o.vy-=imp*ny*0.5;}
+      var oj=objects[j];
+      var dx=oj.x-o.x,dy=oj.y-o.y;
+      var distSq=dx*dx+dy*dy;
+      var dist=Math.sqrt(distSq);
+
+      if(dist<MIN_DIST)continue;
+
+      // Photon absorbed by black hole
+      if(o.isPhoton && dist<oj.size*0.6 && oj.size<8){
+        objects.splice(i,1);i--;break;
+      }
+
+      // Collision (non-photon)
+      if(!o.isPhoton && dist<o.size+oj.size){
+        var nx=dx/dist,ny=dy/dist;
+        var overlap=o.size+oj.size-dist;
+        var tm2=o.mass+oj.mass;
+        // Push apart weighted by mass
+        o.x-=nx*overlap*(oj.mass/tm2);
+        o.y-=ny*overlap*(oj.mass/tm2);
+        // Elastic bounce
+        var dvn=(o.vx-oj.vx)*nx+(o.vy-oj.vy)*ny;
+        if(dvn>0){
+          var impulse=dvn*2*oj.mass/tm2;
+          o.vx-=impulse*nx*0.5;
+          o.vy-=impulse*ny*0.5;
+        }
         continue;
       }
-      // EXACT same gravity as orbit-test: a = G*M/r^2
-      var a=G*objects[j].mass/(dist*dist);
-      var mult=o.isPhoton?3.0:1.0;
-      ax+=a*(dx/dist)*mult;ay+=a*(dy/dist)*mult;
+
+      // Gravity: a = G*M/r^2
+      var acc=G*oj.mass/distSq;
+      // Cap acceleration to prevent explosion at close range
+      if(acc>2)acc=2;
+      var mul=o.isPhoton?3.0:1.0;
+      ax+=acc*(dx/dist)*mul;
+      ay+=acc*(dy/dist)*mul;
     }
-    if(o.isPhoton){o.vx+=ax;o.vy+=ay;var sp=Math.sqrt(o.vx*o.vx+o.vy*o.vy);if(sp>0){o.vx=(o.vx/sp)*3.5;o.vy=(o.vy/sp)*3.5;}}
-    else{o.vx=(o.vx+ax)*DAMP;o.vy=(o.vy+ay)*DAMP;}
+
+    if(o.isPhoton){
+      o.vx+=ax;o.vy+=ay;
+      // Normalize to constant speed
+      var spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
+      if(spd>0){o.vx=(o.vx/spd)*PHOTON_SPEED;o.vy=(o.vy/spd)*PHOTON_SPEED;}
+    }else{
+      o.vx=(o.vx+ax)*DAMP;
+      o.vy=(o.vy+ay)*DAMP;
+    }
+
     o.x+=o.vx;o.y+=o.vy;
-    if(o.isPhoton){if(o.x<-30)o.x=W+30;if(o.x>W+30)o.x=-30;if(o.y<-30)o.y=H+30;if(o.y>H+30)o.y=-30;}
-    else{if(o.x<0){o.x=0;o.vx*=-0.3;}if(o.x>W){o.x=W;o.vx*=-0.3;}if(o.y<0){o.y=0;o.vy*=-0.3;}if(o.y>H){o.y=H;o.vy*=-0.3;}}
+
+    // Boundaries
+    if(o.isPhoton){
+      if(o.x<-40)o.x=W+40;if(o.x>W+40)o.x=-40;
+      if(o.y<-40)o.y=H+40;if(o.y>H+40)o.y=-40;
+    }else{
+      if(o.x<o.size){o.x=o.size;o.vx*=-0.3;}
+      if(o.x>W-o.size){o.x=W-o.size;o.vx*=-0.3;}
+      if(o.y<o.size){o.y=o.size;o.vy*=-0.3;}
+      if(o.y>H-o.size){o.y=H-o.size;o.vy*=-0.3;}
+    }
   }
 }
 
+// Render
 function draw(){
-  ctx.fillStyle=showTrails?'rgba(10,6,24,0.03)':'#0a0618';ctx.fillRect(0,0,W,H);
-  var cols=Math.ceil(W/GRID)+1,rows=Math.ceil(H/GRID)+1;
-  function gd(gx,gy){var dx=0,dy=0;for(var i=0;i<objects.length;i++){if(objects[i].isPhoton)continue;var ddx=gx-objects[i].x,ddy=gy-objects[i].y,d=Math.sqrt(ddx*ddx+ddy*ddy),r=objects[i].mass*0.5+50;if(d<r&&d>1){var t=1-d/r,p=objects[i].mass*0.15*t*t;dx-=(ddx/d)*p;dy-=(ddy/d)*p;}}return{x:gx+dx,y:gy+dy};}
-  ctx.strokeStyle='rgba(156,188,20,0.15)';ctx.lineWidth=0.8;
-  for(var r=0;r<rows;r++){ctx.beginPath();for(var c=0;c<cols;c++){var p=gd(c*GRID,r*GRID);c===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}ctx.stroke();}
-  for(var c=0;c<cols;c++){ctx.beginPath();for(var r=0;r<rows;r++){var p=gd(c*GRID,r*GRID);r===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}ctx.stroke();}
+  ctx.fillStyle=trails?'rgba(10,6,24,0.03)':'#0a0618';
+  ctx.fillRect(0,0,W,H);
 
+  // Grid with deformation
+  var cols=Math.ceil(W/GRID)+1,rows=Math.ceil(H/GRID)+1;
+  function warp(gx,gy){
+    var wx=0,wy=0;
+    for(var i=0;i<objects.length;i++){
+      if(objects[i].isPhoton)continue;
+      var dx=gx-objects[i].x,dy=gy-objects[i].y;
+      var d=Math.sqrt(dx*dx+dy*dy);
+      var r=Math.sqrt(objects[i].mass)*8+40;
+      if(d<r&&d>1){var t=1-d/r;var p=Math.sqrt(objects[i].mass)*1.5*t*t;wx-=(dx/d)*p;wy-=(dy/d)*p;}
+    }
+    return{x:gx+wx,y:gy+wy};
+  }
+  ctx.strokeStyle='rgba(156,188,20,0.14)';ctx.lineWidth=0.7;
+  for(var r=0;r<rows;r++){ctx.beginPath();for(var c=0;c<cols;c++){var p=warp(c*GRID,r*GRID);c?ctx.lineTo(p.x,p.y):ctx.moveTo(p.x,p.y)}ctx.stroke()}
+  for(var c=0;c<cols;c++){ctx.beginPath();for(var r=0;r<rows;r++){var p=warp(c*GRID,r*GRID);r?ctx.lineTo(p.x,p.y):ctx.moveTo(p.x,p.y)}ctx.stroke()}
+
+  // Objects
   for(var i=0;i<objects.length;i++){
     var o=objects[i],spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
-    if(o.isPhoton){ctx.fillStyle=o.color;ctx.shadowColor=o.color;ctx.shadowBlur=12;ctx.beginPath();ctx.arc(o.x,o.y,3,0,Math.PI*2);ctx.fill();ctx.shadowBlur=0;continue;}
-    if(spd>0.1){ctx.strokeStyle='#ff444466';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(o.x,o.y);ctx.lineTo(o.x+o.vx*12,o.y+o.vy*12);ctx.stroke();}
-    var grd=ctx.createRadialGradient(o.x,o.y,0,o.x,o.y,o.size*2.5);grd.addColorStop(0,o.color+'30');grd.addColorStop(1,'transparent');
-    ctx.fillStyle=grd;ctx.beginPath();ctx.arc(o.x,o.y,o.size*2.5,0,Math.PI*2);ctx.fill();
-    var bg=ctx.createRadialGradient(o.x-o.size*0.3,o.y-o.size*0.3,0,o.x,o.y,o.size);bg.addColorStop(0,o.color);bg.addColorStop(1,o.color+'88');
+
+    if(o.isPhoton){
+      ctx.fillStyle='#fff';ctx.shadowColor='#fff';ctx.shadowBlur=10;
+      ctx.beginPath();ctx.arc(o.x,o.y,2.5,0,Math.PI*2);ctx.fill();
+      ctx.shadowBlur=0;
+      ctx.strokeStyle='rgba(255,255,255,0.2)';ctx.lineWidth=0.8;ctx.beginPath();
+      ctx.moveTo(o.x,o.y);ctx.lineTo(o.x-o.vx*6,o.y-o.vy*6);ctx.stroke();
+      continue;
+    }
+
+    // Velocity arrow
+    if(spd>0.15){
+      ctx.strokeStyle=o.color+'30';ctx.lineWidth=1;ctx.beginPath();
+      ctx.moveTo(o.x,o.y);ctx.lineTo(o.x+o.vx*8,o.y+o.vy*8);ctx.stroke();
+    }
+    // Glow
+    var gr=ctx.createRadialGradient(o.x,o.y,0,o.x,o.y,o.size*2.2);
+    gr.addColorStop(0,o.color+'25');gr.addColorStop(1,'transparent');
+    ctx.fillStyle=gr;ctx.beginPath();ctx.arc(o.x,o.y,o.size*2.2,0,Math.PI*2);ctx.fill();
+    // Body
+    var bg=ctx.createRadialGradient(o.x-o.size*0.3,o.y-o.size*0.3,0,o.x,o.y,o.size);
+    bg.addColorStop(0,o.color);bg.addColorStop(1,o.color+'77');
     ctx.fillStyle=bg;ctx.beginPath();ctx.arc(o.x,o.y,o.size,0,Math.PI*2);ctx.fill();
-    ctx.fillStyle='rgba(255,255,255,0.15)';ctx.beginPath();ctx.arc(o.x-o.size*0.25,o.y-o.size*0.25,o.size*0.25,0,Math.PI*2);ctx.fill();
-    if(o===selected){ctx.strokeStyle='#fff';ctx.lineWidth=1.5;ctx.setLineDash([4,4]);ctx.beginPath();ctx.arc(o.x,o.y,o.size+8,0,Math.PI*2);ctx.stroke();ctx.setLineDash([]);}
-    ctx.fillStyle='rgba(255,255,255,0.25)';ctx.font='9px sans-serif';ctx.textAlign='center';ctx.fillText(Math.round(o.mass)+'M',o.x,o.y+o.size+12);
+    // Highlight
+    ctx.fillStyle='rgba(255,255,255,0.12)';ctx.beginPath();
+    ctx.arc(o.x-o.size*0.25,o.y-o.size*0.25,o.size*0.22,0,Math.PI*2);ctx.fill();
+    // Label
+    ctx.fillStyle='rgba(255,255,255,0.22)';ctx.font='8px sans-serif';ctx.textAlign='center';
+    ctx.fillText(Math.round(o.mass)+'M',o.x,o.y+o.size+10);
   }
-  ctx.fillStyle='rgba(255,255,255,0.2)';ctx.font='11px sans-serif';ctx.textAlign='right';
-  ctx.fillText(objects.length+' objects | drag '+(energyLoss?'on':'off'),W-16,H-16);
-  physics();requestAnimationFrame(draw);
+
+  // HUD
+  hud.textContent=objects.length+' objects | drag '+(dragOn?'on':'off');
+
+  physics();
+  requestAnimationFrame(draw);
 }
-draw();placeObj(W/2,H/2);
+
+draw();
+// Start with Sun in center
+place(W/2,H/2);
+
+})();
 </script>
 </body>
 </html>
