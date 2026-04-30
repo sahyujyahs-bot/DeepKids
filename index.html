@@ -10816,14 +10816,19 @@
 #apple-scroll img { width: clamp(55px, 7vw, 80px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
 #newton-scene {
   position: fixed;
-  bottom: -250px;
+  bottom: 0;
   right: 7%;
   z-index: 49;
   pointer-events: none;
   text-align: center;
-  transition: bottom 0.7s ease;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: opacity 0.5s ease, transform 0.5s ease;
 }
-#newton-scene.show { bottom: 0; }
+#newton-scene.show {
+  opacity: 1;
+  transform: translateY(0);
+}
 #newton-char { position: relative; z-index: 2; }
 #newton-char img { width: clamp(100px, 14vw, 150px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
 #newton-hole { position: relative; z-index: 1; margin-top: -25px; }
@@ -10859,6 +10864,7 @@
   var scene = document.getElementById('newton-scene');
   if (!apple || !scene) return;
   var hit = false;
+  var scrollStarted = false;
 
   window.addEventListener('scroll', function() {
     var scrollTop = window.pageYOffset || 0;
@@ -10866,21 +10872,25 @@
     if (docHeight <= 0) return;
     var pct = scrollTop / docHeight;
 
-    // Apple falls through viewport as user scrolls entire page
-    // pct 0 = top of page, 1 = bottom of page
-    // Apple position maps scroll to viewport Y
-    if (!hit) {
-      var appleY = -60 + pct * (window.innerHeight + 40);
+    // Apple starts on ANY scroll
+    if (pct > 0 && !hit) {
+      scrollStarted = true;
+      // Map scroll % to viewport Y position
+      var appleY = -50 + pct * (window.innerHeight + 30);
       var drift = Math.sin(pct * Math.PI * 8) * 30;
       var rotate = pct * 720;
       apple.style.top = appleY + 'px';
       apple.style.right = (window.innerWidth * 0.08 + drift) + 'px';
       apple.style.transform = 'rotate(' + rotate + 'deg)';
-      apple.style.opacity = pct > 0.01 ? '0.9' : '0';
+      apple.style.opacity = '0.9';
+    }
+    if (pct === 0) {
+      apple.style.opacity = '0';
     }
 
-    // Newton appears at 88%
-    if (pct > 0.88) {
+    // Newton ONLY shows when user is at the very bottom (last 10%)
+    var nearBottom = pct > 0.90;
+    if (nearBottom) {
       scene.classList.add('show');
     } else {
       scene.classList.remove('show');
@@ -10889,10 +10899,9 @@
       hit = false;
     }
 
-    // Apple hits Newton at 93%
-    if (pct > 0.93 && !hit) {
+    // Apple hits Newton at 95%
+    if (pct > 0.95 && !hit) {
       hit = true;
-      // Snap apple to Newton's head
       var charEl = document.getElementById('newton-char');
       if (charEl) {
         var r = charEl.getBoundingClientRect();
@@ -10900,7 +10909,6 @@
         apple.style.right = (window.innerWidth - r.left - r.width/2 - 15) + 'px';
         apple.style.transform = 'rotate(0deg)';
       }
-      // Both fall into hole
       setTimeout(function() {
         scene.classList.add('fallen');
         apple.classList.add('fallen');
