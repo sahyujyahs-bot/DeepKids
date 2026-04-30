@@ -10821,9 +10821,8 @@
   right: 5%;
   z-index: 50;
   pointer-events: none;
-  text-align: center;
   opacity: 0;
-  transition: opacity 0.4s ease;
+  transition: opacity 0.3s ease;
 }
 #newton-combined.show { opacity: 1; }
 #newton-combined img { width: clamp(120px, 16vw, 180px); filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5)); }
@@ -10834,7 +10833,6 @@
   right: 5%;
   z-index: 50;
   pointer-events: none;
-  text-align: center;
   opacity: 0;
 }
 #newton-split.show { opacity: 1; }
@@ -10870,18 +10868,18 @@
   if (!apple || !combined || !split || !splitChar) return;
 
   var phase = 'falling';
-  var frameCount = 0;
+  var frame = 0;
+  var hitY = 0; // Y position where apple hit Newton's top edge
 
   function resetAll() {
     phase = 'falling';
-    frameCount = 0;
-    combined.classList.remove('show');
+    frame = 0;
+    combined.classList.add('show');
     split.classList.remove('show');
     split.style.opacity = '';
     splitChar.style.transform = '';
     splitChar.style.opacity = '';
     apple.style.opacity = '0';
-    apple.classList.remove('sinking');
   }
 
   window.addEventListener('scroll', function() {
@@ -10890,111 +10888,88 @@
     if (docHeight <= 0) return;
     var pct = scrollTop / docHeight;
 
-    // Reset if scrolled back up
-    if (pct < 0.85) {
-      resetAll();
-      // Still show apple falling in upper sections
-      if (pct > 0) {
-        var appleY = pct * window.innerHeight;
-        var drift = Math.sin(pct * Math.PI * 8) * 25;
-        var rotate = pct * 720;
-        apple.style.top = appleY + 'px';
-        apple.style.right = (window.innerWidth * 0.06 + drift) + 'px';
-        apple.style.transform = 'rotate(' + rotate + 'deg)';
-        apple.style.opacity = '' + Math.min(pct * 15, 0.9);
-      }
-      return;
-    }
-
-    // 85%+: Show Newton (combined image — sitting on ground)
-    if (phase === 'falling') {
-      combined.classList.add('show');
-      split.classList.remove('show');
-
-      // Apple continues falling
+    // Apple always falls from top (visible from first scroll)
+    if (phase === 'falling' && pct > 0) {
       var appleY = pct * window.innerHeight;
       var drift = Math.sin(pct * Math.PI * 8) * 25;
       var rotate = pct * 720;
       apple.style.top = appleY + 'px';
       apple.style.right = (window.innerWidth * 0.06 + drift) + 'px';
       apple.style.transform = 'rotate(' + rotate + 'deg)';
-      apple.style.opacity = '0.9';
+      apple.style.opacity = '' + Math.min(pct * 15, 0.9);
+    }
 
-      // At 93%: apple hits Newton
-      if (pct > 0.93) {
-        phase = 'hit';
-        frameCount = 0;
+    // Newton (combined) always visible at bottom-right when 85%+
+    if (pct > 0.85 && phase === 'falling') {
+      combined.classList.add('show');
+    }
+    if (pct < 0.85) {
+      combined.classList.remove('show');
+    }
 
-        // Snap apple to Newton's head area
-        var cRect = combined.getBoundingClientRect();
-        apple.style.right = (window.innerWidth - cRect.left - cRect.width * 0.5) + 'px';
-        apple.style.transform = 'rotate(0deg)';
+    // Reset everything if scrolled back up
+    if (pct < 0.80 && phase !== 'falling') {
+      resetAll();
+    }
 
-        // Sound
-        if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.4);
-        if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
-
-        requestAnimationFrame(animateHit);
-      }
+    // Apple hits Newton's TOP EDGE at 93%
+    if (pct > 0.93 && phase === 'falling') {
+      phase = 'bounce';
+      frame = 0;
+      // Get Newton's top edge
+      var cRect = combined.getBoundingClientRect();
+      hitY = cRect.top;
+      // Snap apple X to align with Newton
+      apple.style.right = (window.innerWidth - cRect.left - cRect.width * 0.4) + 'px';
+      apple.style.top = hitY + 'px';
+      apple.style.transform = 'rotate(0deg)';
+      // Sound
+      if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.4);
+      if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
+      requestAnimationFrame(animate);
     }
   }, { passive: true });
 
-  function animateHit() {
-    if (phase !== 'hit' && phase !== 'sink') return;
-    frameCount++;
+  function animate() {
+    if (phase !== 'bounce' && phase !== 'sink') return;
+    frame++;
 
-    if (phase === 'hit') {
-      // Frames 1-8: apple bounces UP off Newton's head
-      if (frameCount <= 8) {
-        var bounceUp = Math.sin((frameCount / 8) * Math.PI) * 40;
-        var cRect = combined.getBoundingClientRect();
-        apple.style.top = (cRect.top - 20 - bounceUp) + 'px';
-        apple.style.transform = 'rotate(' + (frameCount * 15) + 'deg)';
+    if (phase === 'bounce') {
+      if (frame <= 15) {
+        // Apple bounces UP from Newton's top edge
+        var bounceH = Math.sin((frame / 15) * Math.PI) * 50;
+        apple.style.top = (hitY - bounceH) + 'px';
+        apple.style.transform = 'rotate(' + (frame * 12) + 'deg)';
+        apple.style.opacity = '0.9';
       }
-
-      // Frame 12: swap combined image for split (Newton + hole separate)
-      if (frameCount === 12) {
+      // At frame 15: bounce done, swap to split images
+      if (frame === 15) {
         combined.classList.remove('show');
         split.classList.add('show');
         split.style.opacity = '1';
-      }
-
-      // Frames 8-20: apple falls back down onto Newton
-      if (frameCount > 8 && frameCount <= 20) {
-        var fallPct = (frameCount - 8) / 12;
-        var splitRect = splitChar.getBoundingClientRect();
-        apple.style.top = (splitRect.top - 20 + fallPct * 30) + 'px';
-      }
-
-      // Frame 20: start sinking
-      if (frameCount >= 20) {
         phase = 'sink';
-        frameCount = 0;
+        frame = 0;
       }
     }
 
     if (phase === 'sink') {
-      // Both Newton and apple sink into the hole
-      var t = Math.min(frameCount / 45, 1);
-      var ease = t * t; // accelerating into hole
+      var t = Math.min(frame / 40, 1);
+      var ease = t * t;
 
-      var sinkY = ease * 70;
-      var sinkScale = 1 - ease * 0.6;
-      var sinkOpacity = 1 - ease;
+      // Newton sinks into hole
+      splitChar.style.transform = 'translateY(' + (ease * 60) + 'px) scale(' + (1 - ease * 0.5) + ')';
+      splitChar.style.opacity = '' + (1 - ease);
 
-      splitChar.style.transform = 'translateY(' + sinkY + 'px) scale(' + sinkScale + ')';
-      splitChar.style.opacity = '' + sinkOpacity;
-
-      // Apple follows Newton down
+      // Apple follows — sits on Newton's head and sinks with him
       var charRect = splitChar.getBoundingClientRect();
-      apple.style.top = (charRect.top - 5) + 'px';
-      apple.style.transform = 'scale(' + sinkScale + ')';
-      apple.style.opacity = '' + sinkOpacity;
+      apple.style.top = (charRect.top - 10) + 'px';
+      apple.style.transform = 'scale(' + (1 - ease * 0.6) + ')';
+      apple.style.opacity = '' + (1 - ease);
 
-      if (frameCount >= 45) return; // done — hole remains
+      if (frame >= 40) return;
     }
 
-    requestAnimationFrame(animateHit);
+    requestAnimationFrame(animate);
   }
 })();
 </script>
