@@ -10874,15 +10874,14 @@
 
     // Apple starts on ANY scroll
     if (pct > 0 && !hit) {
-      scrollStarted = true;
-      // Map scroll % to viewport Y position
-      var appleY = -50 + pct * (window.innerHeight + 30);
+      // Start from top of viewport, end at bottom
+      var appleY = pct * window.innerHeight;
       var drift = Math.sin(pct * Math.PI * 8) * 30;
       var rotate = pct * 720;
       apple.style.top = appleY + 'px';
       apple.style.right = (window.innerWidth * 0.08 + drift) + 'px';
       apple.style.transform = 'rotate(' + rotate + 'deg)';
-      apple.style.opacity = '0.9';
+      apple.style.opacity = Math.min(pct * 20, 0.9);
     }
     if (pct === 0) {
       apple.style.opacity = '0';
