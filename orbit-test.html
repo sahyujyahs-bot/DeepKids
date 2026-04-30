@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Orbit Test — Minimal</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0618;overflow:hidden;height:100vh}
+canvas{display:block}
+#controls{position:fixed;top:10px;left:10px;z-index:10;color:#fff;font:13px sans-serif;
+  background:rgba(0,0,0,0.7);padding:12px;border-radius:8px;line-height:2}
+button{margin:4px;padding:4px 12px;cursor:pointer;background:#333;color:#fff;border:1px solid #666;border-radius:4px}
+button:hover{background:#555}
+</style>
+</head>
+<body>
+<canvas id="cv"></canvas>
+<div id="controls">
+  <b style="color:#9cbc14">Minimal Orbit Test</b><br>
+  <button onclick="reset(0)">Speed 0 (crash)</button>
+  <button onclick="reset(0.5)">Speed 50% (spiral?)</button>
+  <button onclick="reset(1)">Speed 100% (orbit)</button>
+  <button onclick="reset(1.5)">Speed 150% (escape)</button><br>
+  <button onclick="drag=!drag;this.textContent='Drag: '+(drag?'On':'Off')">Drag: Off</button>
+  <button onclick="showTrail=!showTrail">Toggle Trail</button><br>
+  <span id="info"></span>
+</div>
+<script>
+var cv=document.getElementById('cv'),ctx=cv.getContext('2d');
+var W,H;
+function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
+resize();window.addEventListener('resize',resize);
+
+// Physics constants
+var G = 1.0;  // gravitational constant
+var drag = false;
+var showTrail = false;
+var trail = [];
+
+// Two objects: Sun (fixed center) and Earth (orbiting)
+var sun = {x:0,y:0,mass:500,size:30,color:'#ffdd22'};
+var earth = {x:0,y:0,vx:0,vy:0,mass:1,size:8,color:'#4488ff'};
+
+function reset(speedFactor) {
+  sun.x = W/2;
+  sun.y = H/2;
+
+  // Place Earth to the right of Sun
+  var dist = 180;
+  earth.x = sun.x + dist;
+  earth.y = sun.y;
+
+  // Calculate circular orbital velocity: v = sqrt(G*M/r)
+  var vCircular = Math.sqrt(G * sun.mass / dist);
+
+  // Apply speed factor: 1.0 = circular orbit
+  var v = vCircular * speedFactor;
+
+  // Velocity perpendicular to radial direction (upward = counter-clockwise)
+  earth.vx = 0;
+  earth.vy = -v;  // negative = upward = counter-clockwise
+
+  trail = [];
+  document.getElementById('info').textContent =
+    'v_circular=' + vCircular.toFixed(3) + '  v_applied=' + v.toFixed(3) + '  speed=' + (speedFactor*100).toFixed(0) + '%';
+}
+
+reset(1); // Start with perfect orbit
+
+function step() {
+  // Gravity: F = G*M*m/r^2, a = F/m = G*M/r^2
+  var dx = sun.x - earth.x;
+  var dy = sun.y - earth.y;
+  var dist = Math.sqrt(dx*dx + dy*dy);
+
+  if (dist > 1) {
+    var a = G * sun.mass / (dist * dist);
+    earth.vx += a * (dx/dist);
+    earth.vy += a * (dy/dist);
+  }
+
+  // Energy loss (drag)
+  if (drag) {
+    earth.vx *= 0.9999;
+    earth.vy *= 0.9999;
+  }
+
+  // Move
+  earth.x += earth.vx;
+  earth.y += earth.vy;
+
+  // Trail
+  if (showTrail) {
+    trail.push({x:earth.x, y:earth.y});
+    if (trail.length > 3000) trail.shift();
+  }
+}
+
+function draw() {
+  if (showTrail) {
+    ctx.fillStyle = 'rgba(10,6,24,0.02)';
+  } else {
+    ctx.fillStyle = '#0a0618';
+  }
+  ctx.fillRect(0,0,W,H);
+
+  // Grid
+  ctx.strokeStyle = 'rgba(156,188,20,0.08)';
+  ctx.lineWidth = 0.5;
+  for (var x=0;x<W;x+=40){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,H);ctx.stroke();}
+  for (var y=0;y<H;y+=40){ctx.beginPath();ctx.moveTo(0,y);ctx.lineTo(W,y);ctx.stroke();}
+
+  // Trail
+  if (trail.length > 1) {
+    ctx.strokeStyle = earth.color + '40';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(trail[0].x, trail[0].y);
+    for (var i=1;i<trail.length;i++) ctx.lineTo(trail[i].x, trail[i].y);
+    ctx.stroke();
+  }
+
+  // Sun
+  ctx.fillStyle = sun.color;
+  ctx.beginPath();
+  ctx.arc(sun.x, sun.y, sun.size, 0, Math.PI*2);
+  ctx.fill();
+  ctx.fillStyle = 'rgba(255,255,255,0.2)';
+  ctx.beginPath();
+  ctx.arc(sun.x-sun.size*0.3, sun.y-sun.size*0.3, sun.size*0.3, 0, Math.PI*2);
+  ctx.fill();
+
+  // Earth
+  ctx.fillStyle = earth.color;
+  ctx.beginPath();
+  ctx.arc(earth.x, earth.y, earth.size, 0, Math.PI*2);
+  ctx.fill();
+
+  // Velocity vector
+  ctx.strokeStyle = '#ff4444';
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(earth.x, earth.y);
+  ctx.lineTo(earth.x + earth.vx*20, earth.y + earth.vy*20);
+  ctx.stroke();
+
+  // Distance and speed readout
+  var spd = Math.sqrt(earth.vx*earth.vx + earth.vy*earth.vy);
+  var dist = Math.sqrt((earth.x-sun.x)*(earth.x-sun.x)+(earth.y-sun.y)*(earth.y-sun.y));
+  ctx.fillStyle = 'rgba(255,255,255,0.4)';
+  ctx.font = '12px monospace';
+  ctx.textAlign = 'left';
+  ctx.fillText('dist: ' + dist.toFixed(1) + '  speed: ' + spd.toFixed(3) + '  drag: ' + (drag?'on':'off'), 10, H-10);
+
+  step();
+  requestAnimationFrame(draw);
+}
+
+draw();
+</script>
+</body>
+</html>
