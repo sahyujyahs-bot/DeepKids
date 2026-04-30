@@ -141,7 +141,10 @@ var G=0.15;
 function recalcVelocity(obj, speedPct){
   if(speedPct<=0){obj.vx=0;obj.vy=0;return;}
   var nearest=findNearest(obj);
-  if(!nearest){obj.vx=0;obj.vy=0;return;}
+  if(!nearest){
+    // Single object: just move horizontally at given speed
+    obj.vx=speedPct*0.05;obj.vy=0;return;
+  }
   var dx=nearest.x-obj.x, dy=nearest.y-obj.y;
   var dist=Math.sqrt(dx*dx+dy*dy);
   if(dist<1){obj.vx=0;obj.vy=0;return;}
