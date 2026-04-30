@@ -70,75 +70,57 @@ canvas{display:block;cursor:crosshair}
 <div id="info">Tap/click to place objects · Drag to move them · Scroll to adjust mass</div>
 
 <script>
-var cv=document.getElementById('cv'),ctx=cv.getContext('2d'),W,H,GRID=28;
-var objects=[],dragging=null,dragOffX=0,dragOffY=0,selected=null;
+var cv=document.getElementById('cv'),ctx=cv.getContext('2d');
+var W,H,GRID=28;
+function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
+resize();window.addEventListener('resize',resize);
+
+var objects=[];
+var dragging=null,dragOffX=0,dragOffY=0;
+var selected=null;
+var showTrails=false,energyLoss=true;
+var currentPreset={mass:100,size:45,speed:0,color:'#ffdd22'};
+
 var massSlider=document.getElementById('mass-slider');
 var sizeSlider=document.getElementById('size-slider');
 var speedSlider=document.getElementById('speed-slider');
 var massVal=document.getElementById('mass-val');
 var sizeVal=document.getElementById('size-val');
 var speedVal=document.getElementById('speed-val');
-var showTrails=false,energyLoss=true,currentColor='#ffdd22';
 
-function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
-resize();window.addEventListener('resize',resize);
-
+// ── Presets ──
 document.querySelectorAll('.preset').forEach(function(p){
   p.addEventListener('click',function(){
     document.querySelectorAll('.preset').forEach(function(pp){pp.classList.remove('active')});
     p.classList.add('active');
-    massSlider.value=p.dataset.mass||30;sizeSlider.value=p.dataset.size||20;
-    speedSlider.value=p.dataset.speed||30;currentColor=p.dataset.color||'#9cbc14';
-    massVal.textContent=massSlider.value;sizeVal.textContent=sizeSlider.value;
-    speedVal.textContent=speedSlider.value;
+    currentPreset={mass:+p.dataset.mass,size:+p.dataset.size,speed:+p.dataset.speed,color:p.dataset.color};
+    massSlider.value=currentPreset.mass; sizeSlider.value=currentPreset.size; speedSlider.value=currentPreset.speed;
+    massVal.textContent=currentPreset.mass; sizeVal.textContent=currentPreset.size; speedVal.textContent=currentPreset.speed;
     if(selected){
-      selected.mass=+massSlider.value;selected.size=+sizeSlider.value;
-      selected.color=currentColor;selected.isPhoton=+massSlider.value<=1;
-      applySpeed(selected);
+      selected.mass=currentPreset.mass;
+      selected.size=currentPreset.size;
+      selected.color=currentPreset.color;
+      selected.isPhoton=currentPreset.mass<=1;
+      recalcVelocity(selected,currentPreset.speed);
     }
   });
 });
 
-function syncSliders(o){
-  massSlider.value=o.mass;sizeSlider.value=o.size;
-  massVal.textContent=o.mass;sizeVal.textContent=o.size;
-}
-
-function applySpeed(o){
-  var pct=parseInt(speedSlider.value)/100; // 0 to 1
-  if(objects.length<=1||pct===0){o.vx=0;o.vy=0;return;}
-  var nearest=null,nd=Infinity;
-  for(var i=0;i<objects.length;i++){
-    if(objects[i]===o)continue;
-    var dx=objects[i].x-o.x,dy=objects[i].y-o.y,d=Math.sqrt(dx*dx+dy*dy);
-    if(d<nd){nd=d;nearest=objects[i];}
-  }
-  if(nearest){
-    var dx=nearest.x-o.x,dy=nearest.y-o.y,dist=Math.sqrt(dx*dx+dy*dy);
-    if(dist>1){
-      // Circular orbital speed = sqrt(G * M / r)
-      var G=0.15;
-      var orbitalV=Math.sqrt(G*nearest.mass/Math.max(dist,20));
-      // pct=0.5 = perfect orbit, <0.5 = falls in, >0.5 = escapes
-      // Scale: 0=0, 50=orbital, 100=2x orbital (escape)
-      var speed=orbitalV*pct*2;
-      o.vx=-(dy/dist)*speed;
-      o.vy=(dx/dist)*speed;
-    }
-  }
-}
-
+// ── Sliders ──
 massSlider.addEventListener('input',function(){
   massVal.textContent=this.value;
   if(selected){selected.mass=+this.value;selected.isPhoton=+this.value<=1;}
 });
 sizeSlider.addEventListener('input',function(){
-  sizeVal.textContent=this.value;if(selected)selected.size=+this.value;
+  sizeVal.textContent=this.value;
+  if(selected)selected.size=+this.value;
 });
 speedSlider.addEventListener('input',function(){
-  speedVal.textContent=this.value;if(selected)applySpeed(selected);
+  speedVal.textContent=this.value;
+  if(selected)recalcVelocity(selected,+this.value);
 });
 
+// ── Buttons ──
 document.getElementById('btn-clear').addEventListener('click',function(){objects=[];selected=null;});
 document.getElementById('btn-trails').addEventListener('click',function(){
   showTrails=!showTrails;this.textContent='Trails: '+(showTrails?'On':'Off');
@@ -149,16 +131,63 @@ document.getElementById('btn-energy').addEventListener('click',function(){
   this.style.borderColor=energyLoss?'#ff6633':'#9cbc14';
 });
 document.getElementById('btn-add').addEventListener('click',function(){
-  addObject(W*0.2+Math.random()*W*0.6,H*0.2+Math.random()*H*0.6);
+  var x=W*0.2+Math.random()*W*0.6, y=H*0.2+Math.random()*H*0.6;
+  placeObject(x,y);
 });
 
-function addObject(x,y){
-  var obj={x:x,y:y,mass:+massSlider.value,size:+sizeSlider.value,
-    color:currentColor,vx:0,vy:0,isPhoton:+massSlider.value<=1};
-  objects.push(obj);selected=obj;syncSliders(obj);
-  applySpeed(obj);
+// ── Calculate orbital velocity ──
+// speedPct: 0=stationary, 50=circular orbit, 100=escape
+var G=0.15;
+function recalcVelocity(obj, speedPct){
+  if(speedPct<=0){obj.vx=0;obj.vy=0;return;}
+  var nearest=findNearest(obj);
+  if(!nearest){obj.vx=0;obj.vy=0;return;}
+  var dx=nearest.x-obj.x, dy=nearest.y-obj.y;
+  var dist=Math.sqrt(dx*dx+dy*dy);
+  if(dist<1){obj.vx=0;obj.vy=0;return;}
+  // Circular orbital speed: v = sqrt(G * M / r)
+  var vOrbit=Math.sqrt(G*nearest.mass/dist);
+  // Map: 50 = vOrbit, 100 = 2*vOrbit (escape = sqrt(2)*vOrbit ≈ 1.41)
+  var v=vOrbit*(speedPct/50);
+  // Tangential direction (perpendicular to radial, counter-clockwise)
+  var nx=dx/dist, ny=dy/dist;
+  obj.vx=-ny*v;
+  obj.vy=nx*v;
 }
 
+function findNearest(obj){
+  var nearest=null,nd=Infinity;
+  for(var i=0;i<objects.length;i++){
+    if(objects[i]===obj)continue;
+    var dx=objects[i].x-obj.x,dy=objects[i].y-obj.y;
+    var d=Math.sqrt(dx*dx+dy*dy);
+    if(d<nd){nd=d;nearest=objects[i];}
+  }
+  return nearest;
+}
+
+function placeObject(x,y){
+  var obj={
+    x:x,y:y,
+    mass:+massSlider.value,
+    size:+sizeSlider.value,
+    color:currentPreset.color,
+    vx:0,vy:0,
+    isPhoton:+massSlider.value<=1
+  };
+  objects.push(obj);
+  selected=obj;
+  // Now calculate velocity AFTER object is in the array
+  recalcVelocity(obj,+speedSlider.value);
+  syncUI(obj);
+}
+
+function syncUI(o){
+  massSlider.value=o.mass;sizeSlider.value=o.size;
+  massVal.textContent=o.mass;sizeVal.textContent=o.size;
+}
+
+// ── Input handling ──
 function getPos(e){var t=e.touches?e.touches[0]:e;return{x:t.clientX,y:t.clientY};}
 function findObject(x,y){
   for(var i=objects.length-1;i>=0;i--){
@@ -167,75 +196,118 @@ function findObject(x,y){
   }return null;
 }
 
-cv.addEventListener('mousedown',function(e){var p=getPos(e),f=findObject(p.x,p.y);
-  if(f){dragging=f;selected=f;syncSliders(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;}});
+cv.addEventListener('mousedown',function(e){
+  var p=getPos(e),f=findObject(p.x,p.y);
+  if(f){dragging=f;selected=f;syncUI(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;}
+});
 cv.addEventListener('mousemove',function(e){
-  if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;}});
+  if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;}
+});
 cv.addEventListener('mouseup',function(e){
-  if(!dragging){var p=getPos(e);if(!findObject(p.x,p.y))addObject(p.x,p.y);}dragging=null;});
-cv.addEventListener('touchstart',function(e){var p=getPos(e),f=findObject(p.x,p.y);
-  if(f){dragging=f;selected=f;syncSliders(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;e.preventDefault();}},{passive:false});
+  if(dragging){
+    // After drag release, recalc velocity based on current speed slider
+    recalcVelocity(dragging,+speedSlider.value);
+    dragging=null;
+  }else{
+    var p=getPos(e);if(!findObject(p.x,p.y))placeObject(p.x,p.y);
+  }
+});
+cv.addEventListener('touchstart',function(e){
+  var p=getPos(e),f=findObject(p.x,p.y);
+  if(f){dragging=f;selected=f;syncUI(f);dragOffX=p.x-f.x;dragOffY=p.y-f.y;e.preventDefault();}
+},{passive:false});
 cv.addEventListener('touchmove',function(e){
-  if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;e.preventDefault();}},{passive:false});
+  if(dragging){var p=getPos(e);dragging.x=p.x-dragOffX;dragging.y=p.y-dragOffY;dragging.vx=0;dragging.vy=0;e.preventDefault();}
+},{passive:false});
 cv.addEventListener('touchend',function(e){
-  if(!dragging&&e.changedTouches){var t=e.changedTouches[0];if(!findObject(t.clientX,t.clientY))addObject(t.clientX,t.clientY);}dragging=null;});
-cv.addEventListener('wheel',function(e){var p=getPos(e),o=findObject(p.x,p.y);
+  if(dragging){recalcVelocity(dragging,+speedSlider.value);dragging=null;}
+  else if(e.changedTouches){var t=e.changedTouches[0];if(!findObject(t.clientX,t.clientY))placeObject(t.clientX,t.clientY);}
+});
+cv.addEventListener('wheel',function(e){
+  var p=getPos(e),o=findObject(p.x,p.y);
   if(o){o.mass=Math.max(1,Math.min(100,o.mass+(e.deltaY>0?-3:3)));
     o.size=Math.max(3,Math.min(60,o.size+(e.deltaY>0?-1:1)));
-    if(o===selected)syncSliders(o);e.preventDefault();}},{passive:false});
+    if(o===selected)syncUI(o);e.preventDefault();}
+},{passive:false});
 
+// ── Physics ──
 function updatePhysics(){
-  var G=0.15,DAMP=energyLoss?0.999:1.0;
+  var DAMP=energyLoss?0.9995:1.0;
   // Mergers
   for(var i=0;i<objects.length;i++){
     for(var j=i+1;j<objects.length;j++){
       if(objects[i].isPhoton||objects[j].isPhoton)continue;
       var dx=objects[j].x-objects[i].x,dy=objects[j].y-objects[i].y;
       var dist=Math.sqrt(dx*dx+dy*dy);
-      if(dist<Math.min(objects[i].size,objects[j].size)*0.4&&objects[i]!==dragging&&objects[j]!==dragging){
+      var minD=Math.max(objects[i].size,objects[j].size)*0.3;
+      if(dist<minD&&objects[i]!==dragging&&objects[j]!==dragging){
         var bi=objects[i].mass>=objects[j].mass?i:j,si=bi===i?j:i;
         var b=objects[bi],s=objects[si],tm=b.mass+s.mass;
         b.vx=(b.vx*b.mass+s.vx*s.mass)/tm;
         b.vy=(b.vy*b.mass+s.vy*s.mass)/tm;
-        b.mass=Math.min(tm,100);b.size=Math.min(Math.sqrt(b.size*b.size+s.size*s.size),60);
-        if(selected===s)selected=b;objects.splice(si,1);
-        if(selected)syncSliders(selected);break;
+        b.mass=Math.min(tm,100);
+        b.size=Math.min(Math.sqrt(b.size*b.size+s.size*s.size),60);
+        if(selected===s)selected=b;
+        objects.splice(si,1);
+        if(selected)syncUI(selected);
+        i=-1;break; // restart
       }
     }
   }
+
   for(var i=0;i<objects.length;i++){
     if(objects[i]===dragging)continue;
     var o=objects[i],ax=0,ay=0;
     for(var j=0;j<objects.length;j++){
       if(i===j)continue;
-      var dx=objects[j].x-o.x,dy=objects[j].y-o.y;
+      var oj=objects[j];
+      var dx=oj.x-o.x,dy=oj.y-o.y;
       var dist=Math.sqrt(dx*dx+dy*dy);
+      if(dist<0.5)continue;
+
       // Photon absorbed by black hole
-      if(o.isPhoton&&dist<objects[j].size*0.8&&objects[j].size<8){
+      if(o.isPhoton&&dist<oj.size*0.6&&oj.size<8){
         objects.splice(i,1);i--;break;
       }
-      // Soft collision
-      if(!o.isPhoton&&dist<o.size+objects[j].size&&dist>0){
+
+      // Collision (non-photon)
+      if(!o.isPhoton&&dist<o.size+oj.size){
         var nx=dx/dist,ny=dy/dist;
-        o.x-=nx*(o.size+objects[j].size-dist)*0.4;
-        o.y-=ny*(o.size+objects[j].size-dist)*0.4;
-        // Bounce
-        var rv=(o.vx-objects[j].vx)*nx+(o.vy-objects[j].vy)*ny;
-        if(rv>0){o.vx-=nx*rv*0.8;o.vy-=ny*rv*0.8;}
+        var overlap=o.size+oj.size-dist;
+        // Push apart proportional to mass
+        var totalM=o.mass+oj.mass;
+        o.x-=nx*overlap*(oj.mass/totalM);
+        o.y-=ny*overlap*(oj.mass/totalM);
+        // Elastic bounce
+        var dvx=o.vx-oj.vx,dvy=o.vy-oj.vy;
+        var dvDotN=dvx*nx+dvy*ny;
+        if(dvDotN>0){
+          var impulse=dvDotN*2*oj.mass/totalM;
+          o.vx-=impulse*nx*0.8;
+          o.vy-=impulse*ny*0.8;
+        }
         continue;
       }
-      var force=G*objects[j].mass/(dist*dist+40);
+
+      // Gravitational acceleration: a = G*M/r²
+      var a=G*oj.mass/(dist*dist);
       var mult=o.isPhoton?3.0:1.0;
-      ax+=force*dx/dist*mult;ay+=force*dy/dist*mult;
+      ax+=a*(dx/dist)*mult;
+      ay+=a*(dy/dist)*mult;
     }
+
     if(o.isPhoton){
+      // Photon: constant speed, gravity only changes direction
       o.vx+=ax;o.vy+=ay;
       var spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
-      if(spd>0){var ts=3.5;o.vx=(o.vx/spd)*ts;o.vy=(o.vy/spd)*ts;}
+      if(spd>0){o.vx=(o.vx/spd)*3.5;o.vy=(o.vy/spd)*3.5;}
     }else{
-      o.vx=(o.vx+ax)*DAMP;o.vy=(o.vy+ay)*DAMP;
+      o.vx=(o.vx+ax)*DAMP;
+      o.vy=(o.vy+ay)*DAMP;
     }
     o.x+=o.vx;o.y+=o.vy;
+
+    // Boundaries
     if(o.isPhoton){
       if(o.x<-30)o.x=W+30;if(o.x>W+30)o.x=-30;
       if(o.y<-30)o.y=H+30;if(o.y>H+30)o.y=-30;
@@ -246,65 +318,76 @@ function updatePhysics(){
   }
 }
 
+// ── Rendering ──
 function draw(){
-  ctx.fillStyle=showTrails?'rgba(10,6,24,0.04)':'#0a0618';
+  ctx.fillStyle=showTrails?'rgba(10,6,24,0.03)':'#0a0618';
   ctx.fillRect(0,0,W,H);
+
   var cols=Math.ceil(W/GRID)+1,rows=Math.ceil(H/GRID)+1;
   function getDisp(gx,gy){
-    var dxT=0,dyT=0;
+    var dx=0,dy=0;
     for(var i=0;i<objects.length;i++){
       if(objects[i].isPhoton)continue;
       var ddx=gx-objects[i].x,ddy=gy-objects[i].y;
-      var dist=Math.sqrt(ddx*ddx+ddy*ddy);
-      var radius=objects[i].mass*6+50;
-      if(dist<radius&&dist>1){
-        var t=1-dist/radius,pull=objects[i].mass*1.5*t*t;
-        dxT-=(ddx/dist)*pull;dyT-=(ddy/dist)*pull;
-      }
+      var d=Math.sqrt(ddx*ddx+ddy*ddy);
+      var r=objects[i].mass*6+50;
+      if(d<r&&d>1){var t=1-d/r;var p=objects[i].mass*1.5*t*t;dx-=(ddx/d)*p;dy-=(ddy/d)*p;}
     }
-    return{x:gx+dxT,y:gy+dyT};
+    return{x:gx+dx,y:gy+dy};
   }
-  for(var r=0;r<rows;r++){
-    ctx.beginPath();
-    for(var c=0;c<cols;c++){var p=getDisp(c*GRID,r*GRID);c===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}
-    ctx.strokeStyle='rgba(156,188,20,0.18)';ctx.lineWidth=0.8;ctx.stroke();
-  }
-  for(var c=0;c<cols;c++){
-    ctx.beginPath();
-    for(var r=0;r<rows;r++){var p=getDisp(c*GRID,r*GRID);r===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}
-    ctx.strokeStyle='rgba(156,188,20,0.18)';ctx.lineWidth=0.8;ctx.stroke();
-  }
+
+  // Grid
+  ctx.strokeStyle='rgba(156,188,20,0.16)';ctx.lineWidth=0.8;
+  for(var r=0;r<rows;r++){ctx.beginPath();for(var c=0;c<cols;c++){var p=getDisp(c*GRID,r*GRID);c===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}ctx.stroke();}
+  for(var c=0;c<cols;c++){ctx.beginPath();for(var r=0;r<rows;r++){var p=getDisp(c*GRID,r*GRID);r===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);}ctx.stroke();}
+
+  // Objects
   for(var i=0;i<objects.length;i++){
-    var o=objects[i];
-    var spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
+    var o=objects[i],spd=Math.sqrt(o.vx*o.vx+o.vy*o.vy);
+
     if(o.isPhoton){
       ctx.fillStyle=o.color;ctx.shadowColor=o.color;ctx.shadowBlur=14;
       ctx.beginPath();ctx.arc(o.x,o.y,3,0,Math.PI*2);ctx.fill();ctx.shadowBlur=0;
       ctx.strokeStyle=o.color+'30';ctx.lineWidth=1;ctx.beginPath();
-      ctx.moveTo(o.x,o.y);ctx.lineTo(o.x-o.vx*10,o.y-o.vy*10);ctx.stroke();
+      ctx.moveTo(o.x,o.y);ctx.lineTo(o.x-o.vx*8,o.y-o.vy*8);ctx.stroke();
       continue;
     }
-    if(spd>0.2){
-      ctx.strokeStyle=o.color+'40';ctx.lineWidth=1.5;ctx.beginPath();
+
+    // Velocity arrow
+    if(spd>0.15){
+      ctx.strokeStyle=o.color+'35';ctx.lineWidth=1;ctx.beginPath();
       ctx.moveTo(o.x,o.y);ctx.lineTo(o.x+o.vx*10,o.y+o.vy*10);ctx.stroke();
     }
+    // Glow
     var grd=ctx.createRadialGradient(o.x,o.y,0,o.x,o.y,o.size*2.5);
-    grd.addColorStop(0,o.color+'33');grd.addColorStop(1,'transparent');
+    grd.addColorStop(0,o.color+'30');grd.addColorStop(1,'transparent');
     ctx.fillStyle=grd;ctx.beginPath();ctx.arc(o.x,o.y,o.size*2.5,0,Math.PI*2);ctx.fill();
+    // Body
     var bg=ctx.createRadialGradient(o.x-o.size*0.3,o.y-o.size*0.3,0,o.x,o.y,o.size);
     bg.addColorStop(0,o.color);bg.addColorStop(1,o.color+'88');
     ctx.fillStyle=bg;ctx.beginPath();ctx.arc(o.x,o.y,o.size,0,Math.PI*2);ctx.fill();
+    // Highlight
     ctx.fillStyle='rgba(255,255,255,0.15)';ctx.beginPath();
-    ctx.arc(o.x-o.size*0.25,o.y-o.size*0.25,o.size*0.28,0,Math.PI*2);ctx.fill();
-    if(o===selected){ctx.strokeStyle='#fff';ctx.lineWidth=1.5;ctx.beginPath();ctx.arc(o.x,o.y,o.size+6,0,Math.PI*2);ctx.stroke();}
+    ctx.arc(o.x-o.size*0.25,o.y-o.size*0.25,o.size*0.25,0,Math.PI*2);ctx.fill();
+    // Selected
+    if(o===selected){ctx.strokeStyle='#fff';ctx.lineWidth=1.5;ctx.setLineDash([4,4]);
+      ctx.beginPath();ctx.arc(o.x,o.y,o.size+8,0,Math.PI*2);ctx.stroke();ctx.setLineDash([]);}
+    // Label
     ctx.fillStyle='rgba(255,255,255,0.3)';ctx.font='9px sans-serif';ctx.textAlign='center';
-    ctx.fillText(o.mass+'M v'+spd.toFixed(1),o.x,o.y+o.size+13);
+    ctx.fillText(Math.round(o.mass)+'M',o.x,o.y+o.size+12);
   }
+
+  // Status
   ctx.fillStyle='rgba(255,255,255,0.2)';ctx.font='11px sans-serif';ctx.textAlign='right';
-  ctx.fillText(objects.length+' objects  ·  drag '+(energyLoss?'on':'off'),W-16,H-16);
-  updatePhysics();requestAnimationFrame(draw);
+  ctx.fillText(objects.length+' objects  |  drag '+(energyLoss?'on (spiral)':'off (orbit)'),W-16,H-16);
+
+  updatePhysics();
+  requestAnimationFrame(draw);
 }
-draw();addObject(W/2,H/2);
+
+draw();
+// Start with a Sun in the center
+placeObject(W/2,H/2);
 </script>
 </body>
 </html>
