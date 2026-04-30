@@ -1122,7 +1122,7 @@
           if (RAIN_KEYS.indexOf(k) !== -1) rainLoadedCount++;
           // Start the rain as soon as the first rain image is
           // ready. Remaining cards are added as they arrive.
-          if (rainLoadedCount >= 3 && !window._heroSpawned) {
+          if (rainLoadedCount >= 1 && !window._heroSpawned) {
             window._heroSpawned = true;
             spawnAll();
           } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
