@@ -137,7 +137,7 @@ document.getElementById('btn-add').addEventListener('click',function(){
 
 // ── Calculate orbital velocity ──
 // speedPct: 0=stationary, 50=circular orbit, 100=escape
-var G=0.15;
+var G=0.5;
 function recalcVelocity(obj, speedPct){
   if(speedPct<=0){obj.vx=0;obj.vy=0;return;}
   var nearest=findNearest(obj);
@@ -149,7 +149,7 @@ function recalcVelocity(obj, speedPct){
   var dist=Math.sqrt(dx*dx+dy*dy);
   if(dist<1){obj.vx=0;obj.vy=0;return;}
   // Circular orbital speed: v = sqrt(G * M / r)
-  var vOrbit=Math.sqrt(G*nearest.mass/dist);
+  var vOrbit=Math.sqrt(0.5*nearest.mass/dist);
   // Map: 50 = vOrbit, 100 = 2*vOrbit (escape = sqrt(2)*vOrbit ≈ 1.41)
   var v=vOrbit*(speedPct/50);
   // Tangential direction (perpendicular to radial, counter-clockwise)
@@ -235,7 +235,7 @@ cv.addEventListener('wheel',function(e){
 
 // ── Physics ──
 function updatePhysics(){
-  var DAMP=energyLoss?0.9995:1.0;
+  var DAMP=energyLoss?0.99995:1.0;
   // Mergers
   for(var i=0;i<objects.length;i++){
     for(var j=i+1;j<objects.length;j++){
