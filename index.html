@@ -10933,5 +10933,138 @@
 })();
 </script>
 
+<!-- ═══════════════════════════════ GRAVITY WEIGHT CALCULATOR ══ -->
+<style>
+#gw-tag {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 996;
+  background: linear-gradient(180deg, rgba(40,20,5,0.9), rgba(25,12,3,0.95));
+  border: 1.5px solid rgba(255,152,0,0.4);
+  border-right: none;
+  border-radius: 8px 0 0 8px;
+  padding: 10px 8px;
+  cursor: pointer;
+  writing-mode: vertical-rl;
+  font-family: 'Futura', sans-serif;
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  color: #ffb300;
+  text-transform: uppercase;
+  transition: background 0.2s;
+  box-shadow: -2px 0 10px rgba(0,0,0,0.3);
+}
+#gw-tag:hover { background: linear-gradient(180deg, rgba(60,30,8,0.95), rgba(35,18,5,0.98)); }
+#gw-panel {
+  position: fixed;
+  right: -320px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 995;
+  width: 300px;
+  background: linear-gradient(170deg, rgba(20,10,3,0.96), rgba(10,6,24,0.98));
+  border: 1px solid rgba(255,152,0,0.25);
+  border-right: none;
+  border-radius: 16px 0 0 16px;
+  padding: 20px;
+  box-shadow: -4px 0 20px rgba(0,0,0,0.4);
+  transition: right 0.4s cubic-bezier(0.34,1.56,0.64,1);
+  backdrop-filter: blur(10px);
+}
+#gw-panel.open { right: 0; }
+#gw-close {
+  position: absolute; top: 8px; right: 12px; cursor: pointer;
+  color: rgba(255,255,255,0.3); font-size: 18px; border: none; background: none;
+}
+#gw-close:hover { color: #fff; }
+#gw-title {
+  font-family: 'Norwester', sans-serif; font-variant: small-caps;
+  font-size: 18px; color: #ffb300; margin-bottom: 14px;
+  text-shadow: 0 0 8px rgba(255,152,0,0.3);
+}
+#gw-input-row {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 16px;
+}
+#gw-input {
+  width: 80px; padding: 8px 10px; background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,152,0,0.3); border-radius: 6px;
+  color: #ffb300; font-size: 20px; font-family: 'Norwester', sans-serif;
+  outline: none; text-align: center;
+}
+#gw-input:focus { border-color: #ffb300; }
+#gw-input-label { font-family: 'Futura', sans-serif; font-size: 12px; color: rgba(255,255,255,0.5); }
+.gw-row {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 8px 0; border-bottom: 1px solid rgba(255,152,0,0.08);
+}
+.gw-row:last-child { border-bottom: none; }
+.gw-planet {
+  display: flex; align-items: center; gap: 8px;
+}
+.gw-emoji { font-size: 20px; }
+.gw-name { font-family: 'Futura', sans-serif; font-size: 12px; color: rgba(255,255,255,0.6); }
+.gw-val {
+  font-family: 'Norwester', sans-serif; font-size: 20px; color: #ffb300;
+  min-width: 60px; text-align: right;
+  transition: all 0.3s ease;
+}
+.gw-val.flash { transform: scale(1.15); color: #ffdd00; }
+.gw-unit { font-family: 'Futura', sans-serif; font-size: 10px; color: rgba(255,255,255,0.3); margin-left: 2px; }
+.gw-note {
+  margin-top: 12px; font-family: 'Futura', sans-serif; font-size: 9px;
+  color: rgba(255,255,255,0.25); line-height: 1.4;
+}
+@media (max-width: 768px) {
+  #gw-panel { width: 260px; right: -280px; padding: 16px; }
+  #gw-tag { font-size: 10px; padding: 8px 6px; }
+}
+</style>
+
+<div id="gw-tag" onclick="document.getElementById('gw-panel').classList.add('open')">⚖ Your Weight</div>
+<div id="gw-panel">
+  <button id="gw-close" onclick="this.parentElement.classList.remove('open')">✕</button>
+  <div id="gw-title">What Would You Weigh?</div>
+  <div id="gw-input-row">
+    <input type="number" id="gw-input" value="70" min="1" max="500">
+    <span id="gw-input-label">kg on Earth</span>
+  </div>
+  <div id="gw-results">
+    <div class="gw-row"><div class="gw-planet"><span class="gw-emoji">🌙</span><span class="gw-name">Moon</span></div><div><span class="gw-val" data-g="0.166">11.6</span><span class="gw-unit">kg</span></div></div>
+    <div class="gw-row"><div class="gw-planet"><span class="gw-emoji">🔴</span><span class="gw-name">Mars</span></div><div><span class="gw-val" data-g="0.378">26.5</span><span class="gw-unit">kg</span></div></div>
+    <div class="gw-row"><div class="gw-planet"><span class="gw-emoji">♀️</span><span class="gw-name">Venus</span></div><div><span class="gw-val" data-g="0.905">63.4</span><span class="gw-unit">kg</span></div></div>
+    <div class="gw-row"><div class="gw-planet"><span class="gw-emoji">🟠</span><span class="gw-name">Jupiter</span></div><div><span class="gw-val" data-g="2.528">176.9</span><span class="gw-unit">kg</span></div></div>
+    <div class="gw-row"><div class="gw-planet"><span class="gw-emoji">🛸</span><span class="gw-name">ISS</span></div><div><span class="gw-val" data-g="0">0.0</span><span class="gw-unit">kg*</span></div></div>
+    <div class="gw-row"><div class="gw-planet"><span class="gw-emoji">🌋</span><span class="gw-name">Earth's Core</span></div><div><span class="gw-val" data-g="0">0.0</span><span class="gw-unit">kg*</span></div></div>
+  </div>
+  <div class="gw-note">* ISS: you're in freefall, not zero gravity.<br>* Core: gravity pulls equally in all directions — net zero.</div>
+</div>
+
+<script>
+(function(){
+  var input = document.getElementById('gw-input');
+  var vals = document.querySelectorAll('.gw-val');
+  if (!input || !vals.length) return;
+
+  function update() {
+    var w = parseFloat(input.value) || 0;
+    vals.forEach(function(el) {
+      var g = parseFloat(el.dataset.g);
+      var result = (w * g).toFixed(1);
+      if (el.textContent !== result) {
+        el.textContent = result;
+        el.classList.add('flash');
+        setTimeout(function() { el.classList.remove('flash'); }, 300);
+      }
+    });
+    if (typeof window.awardGP === 'function') window.awardGP('weight_calc', 5);
+  }
+
+  input.addEventListener('input', update);
+  update();
+})();
+</script>
+
 </body>
 </html>
