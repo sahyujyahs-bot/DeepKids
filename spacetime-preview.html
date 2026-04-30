@@ -42,6 +42,7 @@ canvas{display:block;cursor:crosshair}
       <span class="val" id="size-val">20</span>
     </div>
     <div style="display:flex;gap:8px;margin-top:8px">
+      <button class="btn" id="btn-add" style="background:rgba(156,188,20,0.25);font-weight:bold;font-size:16px;padding:6px 16px">+ Add</button>
       <button class="btn" id="btn-clear">Clear All</button>
       <button class="btn" id="btn-trails">Trails: Off</button>
     </div>
@@ -65,12 +66,12 @@ var GRID = 28;
 var objects = [];
 var dragging = null;
 var dragOffX = 0, dragOffY = 0;
+var selected = null;
 var massSlider = document.getElementById('mass-slider');
 var sizeSlider = document.getElementById('size-slider');
 var massVal = document.getElementById('mass-val');
 var sizeVal = document.getElementById('size-val');
 var showTrails = false;
-var trails = [];
 
 function resize() {
   W = cv.width = window.innerWidth;
@@ -88,37 +89,57 @@ document.querySelectorAll('.preset').forEach(function(p) {
     sizeSlider.value = p.dataset.size;
     massVal.textContent = p.dataset.mass;
     sizeVal.textContent = p.dataset.size;
+    if (selected) {
+      selected.mass = parseInt(p.dataset.mass);
+      selected.size = parseInt(p.dataset.size);
+    }
   });
 });
 
-massSlider.addEventListener('input', function() { massVal.textContent = this.value; });
-sizeSlider.addEventListener('input', function() { sizeVal.textContent = this.value; });
+massSlider.addEventListener('input', function() {
+  massVal.textContent = this.value;
+  if (selected) selected.mass = parseInt(this.value);
+});
+sizeSlider.addEventListener('input', function() {
+  sizeVal.textContent = this.value;
+  if (selected) selected.size = parseInt(this.value);
+});
 
 document.getElementById('btn-clear').addEventListener('click', function() {
   objects = [];
-  trails = [];
+  selected = null;
 });
 
 document.getElementById('btn-trails').addEventListener('click', function() {
   showTrails = !showTrails;
   this.textContent = 'Trails: ' + (showTrails ? 'On' : 'Off');
-  if (!showTrails) trails = [];
 });
 
-// Colors for objects
-var COLORS = ['#9cbc14','#ff6633','#4488ff','#ffaa22','#cc44cc','#44ccaa','#ff4466','#88cc44'];
+document.getElementById('btn-add').addEventListener('click', function() {
+  var x = W * 0.3 + Math.random() * W * 0.4;
+  var y = H * 0.3 + Math.random() * H * 0.4;
+  addObject(x, y);
+});
+
+var COLORS = ['#9cbc14','#ff6633','#4488ff','#ffaa22','#cc44cc','#44ccaa','#ff4466','#88cc44','#ff8800','#66ddff'];
 
 function addObject(x, y) {
-  objects.push({
+  var obj = {
     x: x, y: y,
     mass: parseInt(massSlider.value),
     size: parseInt(sizeSlider.value),
     color: COLORS[objects.length % COLORS.length],
-    vx: 0, vy: 0
-  });
+    vx: (Math.random() - 0.5) * 0.5,
+    vy: (Math.random() - 0.5) * 0.5
+  };
+  objects.push(obj);
+  selected = obj;
+  massSlider.value = obj.mass;
+  sizeSlider.value = obj.size;
+  massVal.textContent = obj.mass;
+  sizeVal.textContent = obj.size;
 }
 
-// Mouse/touch
 function getPos(e) {
   var t = e.touches ? e.touches[0] : e;
   return { x: t.clientX, y: t.clientY };
@@ -126,10 +147,16 @@ function getPos(e) {
 
 cv.addEventListener('mousedown', function(e) {
   var p = getPos(e);
-  dragging = findObject(p.x, p.y);
-  if (dragging) {
-    dragOffX = p.x - dragging.x;
-    dragOffY = p.y - dragging.y;
+  var found = findObject(p.x, p.y);
+  if (found) {
+    dragging = found;
+    selected = found;
+    massSlider.value = found.mass;
+    sizeSlider.value = found.size;
+    massVal.textContent = found.mass;
+    sizeVal.textContent = found.size;
+    dragOffX = p.x - found.x;
+    dragOffY = p.y - found.y;
   }
 });
 
@@ -138,6 +165,8 @@ cv.addEventListener('mousemove', function(e) {
     var p = getPos(e);
     dragging.x = p.x - dragOffX;
     dragging.y = p.y - dragOffY;
+    dragging.vx = 0;
+    dragging.vy = 0;
   }
 });
 
@@ -151,10 +180,16 @@ cv.addEventListener('mouseup', function(e) {
 
 cv.addEventListener('touchstart', function(e) {
   var p = getPos(e);
-  dragging = findObject(p.x, p.y);
-  if (dragging) {
-    dragOffX = p.x - dragging.x;
-    dragOffY = p.y - dragging.y;
+  var found = findObject(p.x, p.y);
+  if (found) {
+    dragging = found;
+    selected = found;
+    massSlider.value = found.mass;
+    sizeSlider.value = found.size;
+    massVal.textContent = found.mass;
+    sizeVal.textContent = found.size;
+    dragOffX = p.x - found.x;
+    dragOffY = p.y - found.y;
     e.preventDefault();
   }
 }, { passive: false });
@@ -164,6 +199,8 @@ cv.addEventListener('touchmove', function(e) {
     var p = getPos(e);
     dragging.x = p.x - dragOffX;
     dragging.y = p.y - dragOffY;
+    dragging.vx = 0;
+    dragging.vy = 0;
     e.preventDefault();
   }
 }, { passive: false });
@@ -182,6 +219,12 @@ cv.addEventListener('wheel', function(e) {
   if (obj) {
     obj.mass = Math.max(1, Math.min(100, obj.mass + (e.deltaY > 0 ? -3 : 3)));
     obj.size = Math.max(3, Math.min(60, obj.size + (e.deltaY > 0 ? -1 : 1)));
+    if (obj === selected) {
+      massSlider.value = obj.mass;
+      sizeSlider.value = obj.size;
+      massVal.textContent = obj.mass;
+      sizeVal.textContent = obj.size;
+    }
     e.preventDefault();
   }
 }, { passive: false });
@@ -195,9 +238,8 @@ function findObject(x, y) {
   return null;
 }
 
-// Physics — gravitational attraction between objects
 function updatePhysics() {
-  var G = 0.08;
+  var G = 0.1;
   for (var i = 0; i < objects.length; i++) {
     if (objects[i] === dragging) continue;
     var ax = 0, ay = 0;
@@ -206,17 +248,27 @@ function updatePhysics() {
       var dx = objects[j].x - objects[i].x;
       var dy = objects[j].y - objects[i].y;
       var dist = Math.sqrt(dx * dx + dy * dy);
-      if (dist < objects[i].size + objects[j].size) continue;
-      var force = G * objects[j].mass / (dist * dist + 100);
+      if (dist < objects[i].size + objects[j].size) {
+        // Collision — bounce
+        var nx = dx / dist, ny = dy / dist;
+        var overlap = (objects[i].size + objects[j].size) - dist;
+        objects[i].x -= nx * overlap * 0.5;
+        objects[i].y -= ny * overlap * 0.5;
+        var relV = (objects[i].vx - objects[j].vx) * nx + (objects[i].vy - objects[j].vy) * ny;
+        if (relV > 0) {
+          objects[i].vx -= nx * relV * 0.8;
+          objects[i].vy -= ny * relV * 0.8;
+        }
+        continue;
+      }
+      var force = G * objects[j].mass / (dist * dist + 80);
       ax += force * dx / dist;
       ay += force * dy / dist;
     }
-    objects[i].vx = (objects[i].vx + ax) * 0.998;
-    objects[i].vy = (objects[i].vy + ay) * 0.998;
+    objects[i].vx = (objects[i].vx + ax) * 0.999;
+    objects[i].vy = (objects[i].vy + ay) * 0.999;
     objects[i].x += objects[i].vx;
     objects[i].y += objects[i].vy;
-
-    // Keep on screen
     if (objects[i].x < 0) { objects[i].x = 0; objects[i].vx *= -0.5; }
     if (objects[i].x > W) { objects[i].x = W; objects[i].vx *= -0.5; }
     if (objects[i].y < 0) { objects[i].y = 0; objects[i].vy *= -0.5; }
@@ -224,26 +276,10 @@ function updatePhysics() {
   }
 }
 
-// Grid deformation
-function getDeflection(gx, gy) {
-  var totalDef = 0;
-  for (var i = 0; i < objects.length; i++) {
-    var dx = gx - objects[i].x;
-    var dy = gy - objects[i].y;
-    var dist = Math.sqrt(dx * dx + dy * dy);
-    var depth = objects[i].mass * 3;
-    var radius = objects[i].mass * 4 + 50;
-    if (dist < radius) {
-      var t = 1 - dist / radius;
-      totalDef += depth * t * t;
-    }
-  }
-  return totalDef;
-}
-
 function draw() {
-  ctx.fillStyle = 'rgba(10,6,24,0.15)';
-  if (!showTrails) {
+  if (showTrails) {
+    ctx.fillStyle = 'rgba(10,6,24,0.08)';
+  } else {
     ctx.fillStyle = '#0a0618';
   }
   ctx.fillRect(0, 0, W, H);
@@ -251,64 +287,45 @@ function draw() {
   var cols = Math.ceil(W / GRID) + 1;
   var rows = Math.ceil(H / GRID) + 1;
 
-  // Draw grid with deformation
+  function getDisp(gx, gy) {
+    var dx2 = 0, dy2 = 0;
+    for (var i = 0; i < objects.length; i++) {
+      var ddx = gx - objects[i].x;
+      var ddy = gy - objects[i].y;
+      var dist = Math.sqrt(ddx * ddx + ddy * ddy);
+      var radius = objects[i].mass * 5 + 60;
+      if (dist < radius && dist > 1) {
+        var t = 1 - dist / radius;
+        var pull = objects[i].mass * 1.2 * t * t;
+        dx2 -= (ddx / dist) * pull;
+        dy2 -= (ddy / dist) * pull;
+      }
+    }
+    return { x: gx + dx2, y: gy + dy2 };
+  }
+
+  // Horizontal grid lines
   for (var r = 0; r < rows; r++) {
     ctx.beginPath();
     for (var c = 0; c < cols; c++) {
-      var gx = c * GRID;
-      var gy = r * GRID;
-      var def = getDeflection(gx, gy);
-      // Push points away from center of mass (radial displacement)
-      var dispX = 0, dispY = 0;
-      for (var i = 0; i < objects.length; i++) {
-        var dx = gx - objects[i].x;
-        var dy = gy - objects[i].y;
-        var dist = Math.sqrt(dx * dx + dy * dy);
-        var radius = objects[i].mass * 4 + 50;
-        if (dist < radius && dist > 1) {
-          var t = 1 - dist / radius;
-          var pull = objects[i].mass * 0.8 * t * t;
-          dispX -= (dx / dist) * pull;
-          dispY -= (dy / dist) * pull;
-        }
-      }
-      var px = gx + dispX;
-      var py = gy + dispY;
-
-      if (c === 0) ctx.moveTo(px, py);
-      else ctx.lineTo(px, py);
+      var p = getDisp(c * GRID, r * GRID);
+      if (c === 0) ctx.moveTo(p.x, p.y);
+      else ctx.lineTo(p.x, p.y);
     }
-    var intensity = Math.min(r / rows, 1);
-    ctx.strokeStyle = 'rgba(156,188,20,' + (0.12 + intensity * 0.08) + ')';
+    ctx.strokeStyle = 'rgba(156,188,20,0.18)';
     ctx.lineWidth = 0.8;
     ctx.stroke();
   }
 
-  // Vertical lines
+  // Vertical grid lines
   for (var c = 0; c < cols; c++) {
     ctx.beginPath();
     for (var r = 0; r < rows; r++) {
-      var gx = c * GRID;
-      var gy = r * GRID;
-      var dispX = 0, dispY = 0;
-      for (var i = 0; i < objects.length; i++) {
-        var dx = gx - objects[i].x;
-        var dy = gy - objects[i].y;
-        var dist = Math.sqrt(dx * dx + dy * dy);
-        var radius = objects[i].mass * 4 + 50;
-        if (dist < radius && dist > 1) {
-          var t = 1 - dist / radius;
-          var pull = objects[i].mass * 0.8 * t * t;
-          dispX -= (dx / dist) * pull;
-          dispY -= (dy / dist) * pull;
-        }
-      }
-      var px = gx + dispX;
-      var py = gy + dispY;
-      if (r === 0) ctx.moveTo(px, py);
-      else ctx.lineTo(px, py);
+      var p = getDisp(c * GRID, r * GRID);
+      if (r === 0) ctx.moveTo(p.x, p.y);
+      else ctx.lineTo(p.x, p.y);
     }
-    ctx.strokeStyle = 'rgba(156,188,20,0.15)';
+    ctx.strokeStyle = 'rgba(156,188,20,0.18)';
     ctx.lineWidth = 0.8;
     ctx.stroke();
   }
@@ -316,14 +333,13 @@ function draw() {
   // Draw objects
   for (var i = 0; i < objects.length; i++) {
     var o = objects[i];
-
     // Glow
-    var grd = ctx.createRadialGradient(o.x, o.y, 0, o.x, o.y, o.size * 2.5);
-    grd.addColorStop(0, o.color + '33');
+    var grd = ctx.createRadialGradient(o.x, o.y, 0, o.x, o.y, o.size * 3);
+    grd.addColorStop(0, o.color + '44');
     grd.addColorStop(1, 'transparent');
     ctx.fillStyle = grd;
     ctx.beginPath();
-    ctx.arc(o.x, o.y, o.size * 2.5, 0, Math.PI * 2);
+    ctx.arc(o.x, o.y, o.size * 3, 0, Math.PI * 2);
     ctx.fill();
 
     // Body
@@ -336,25 +352,38 @@ function draw() {
     ctx.fill();
 
     // Highlight
-    ctx.fillStyle = 'rgba(255,255,255,0.15)';
+    ctx.fillStyle = 'rgba(255,255,255,0.2)';
     ctx.beginPath();
-    ctx.arc(o.x - o.size * 0.25, o.y - o.size * 0.25, o.size * 0.35, 0, Math.PI * 2);
+    ctx.arc(o.x - o.size * 0.25, o.y - o.size * 0.25, o.size * 0.3, 0, Math.PI * 2);
     ctx.fill();
 
-    // Mass label
-    ctx.fillStyle = 'rgba(255,255,255,0.6)';
+    // Selected ring
+    if (o === selected) {
+      ctx.strokeStyle = '#fff';
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.arc(o.x, o.y, o.size + 6, 0, Math.PI * 2);
+      ctx.stroke();
+    }
+
+    // Label
+    ctx.fillStyle = 'rgba(255,255,255,0.5)';
     ctx.font = '10px sans-serif';
     ctx.textAlign = 'center';
     ctx.fillText(o.mass + 'M', o.x, o.y + o.size + 14);
   }
+
+  // Object count
+  ctx.fillStyle = 'rgba(255,255,255,0.3)';
+  ctx.font = '11px sans-serif';
+  ctx.textAlign = 'right';
+  ctx.fillText(objects.length + ' object' + (objects.length !== 1 ? 's' : ''), W - 16, H - 16);
 
   updatePhysics();
   requestAnimationFrame(draw);
 }
 
 draw();
-
-// Start with one object in center
 addObject(W / 2, H / 2);
 </script>
 </body>
