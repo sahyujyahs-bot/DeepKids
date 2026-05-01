@@ -3,206 +3,199 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
-<title>Spacetime Grid Test</title>
+<title>Spacetime Grid</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{background:#0a0618;overflow:hidden;height:100vh}
+body{background:#000;overflow:hidden;height:100vh}
 canvas{display:block}
-#add-btn{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:10;
-  padding:12px 30px;background:rgba(156,188,20,0.2);border:2px solid #9cbc14;
-  border-radius:30px;color:#9cbc14;font-size:16px;cursor:pointer;font-weight:bold}
-#add-btn:hover{background:rgba(156,188,20,0.35)}
-#hint{position:fixed;top:12px;left:12px;z-index:10;color:rgba(255,255,255,0.4);font:12px sans-serif}
+#hint{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);z-index:10;
+  color:rgba(255,255,255,0.4);font:13px sans-serif;text-align:center}
 </style>
 </head>
 <body>
 <canvas id="cv"></canvas>
-<button id="add-btn">+ Add Mass</button>
-<div id="hint">Click Add, then click on grid. Hold to grow. Release to place.</div>
+<div id="hint">Click anywhere to place a mass. Hold to grow. Add multiple.</div>
 <script>
-var cv=document.getElementById('cv'), ctx=cv.getContext('2d');
-var W,H,GRID=14;
+var cv=document.getElementById('cv'),ctx=cv.getContext('2d');
+var W,H;
 function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
 resize();window.addEventListener('resize',resize);
 
-var masses=[]; // {x,y,mass,size,color,verts}
-var mode='idle'; // idle, placing
-var growing=null; // mass being grown
-var mouseX=0,mouseY=0;
+var GRID=20;
+var masses=[]; // {x,y,mass,size,verts}
+var growing=null;
 
-// Glowing rock vertices
 function makeVerts(n){
   var v=[];
-  for(var i=0;i<n;i++){
-    var a=Math.PI*2*i/n;
-    var r=0.75+Math.random()*0.5;
-    v.push({a:a,r:r});
-  }
+  for(var i=0;i<n;i++){v.push({a:Math.PI*2*i/n, r:0.7+Math.random()*0.6});}
   return v;
 }
 
-document.getElementById('add-btn').onclick=function(){
-  mode='placing';
-  document.getElementById('hint').textContent='Click anywhere on the grid to place. Hold to grow.';
-};
-
-cv.addEventListener('mousemove',function(e){mouseX=e.clientX;mouseY=e.clientY});
-cv.addEventListener('touchmove',function(e){if(e.touches[0]){mouseX=e.touches[0].clientX;mouseY=e.touches[0].clientY}},{passive:true});
-
+// Click = place immediately, hold = grow
 cv.addEventListener('mousedown',function(e){
-  if(mode==='placing'){
-    var obj={x:e.clientX,y:e.clientY,mass:5,size:8,color:'#ff6633',verts:makeVerts(10)};
-    masses.push(obj);
-    growing=obj;
-    mode='growing';
-  }
+  // Check if clicking existing mass
+  var existing=findMass(e.clientX,e.clientY);
+  if(existing){growing=existing;return;}
+  var obj={x:e.clientX,y:e.clientY,mass:8,size:12,verts:makeVerts(10)};
+  masses.push(obj);
+  growing=obj;
 });
+cv.addEventListener('mouseup',function(){growing=null;});
 cv.addEventListener('touchstart',function(e){
-  if(mode==='placing'&&e.touches[0]){
-    var obj={x:e.touches[0].clientX,y:e.touches[0].clientY,mass:5,size:8,color:'#ff6633',verts:makeVerts(10)};
-    masses.push(obj);
-    growing=obj;
-    mode='growing';
-    e.preventDefault();
-  }
+  if(!e.touches[0])return;
+  var tx=e.touches[0].clientX,ty=e.touches[0].clientY;
+  var existing=findMass(tx,ty);
+  if(existing){growing=existing;e.preventDefault();return;}
+  var obj={x:tx,y:ty,mass:8,size:12,verts:makeVerts(10)};
+  masses.push(obj);
+  growing=obj;
+  e.preventDefault();
 },{passive:false});
+cv.addEventListener('touchend',function(){growing=null;});
 
-cv.addEventListener('mouseup',function(){
-  if(mode==='growing'){growing=null;mode='idle';
-    document.getElementById('hint').textContent='Click Add to place another mass.';}
-});
-cv.addEventListener('touchend',function(){
-  if(mode==='growing'){growing=null;mode='idle';
-    document.getElementById('hint').textContent='Click Add to place another mass.';}
-});
+function findMass(x,y){
+  for(var i=masses.length-1;i>=0;i--){
+    var m=masses[i],dx=x-m.x,dy=y-m.y;
+    if(dx*dx+dy*dy<(m.size+10)*(m.size+10))return m;
+  }
+  return null;
+}
 
-// Draw
+// 3D perspective projection
+// Grid is a flat plane. Masses push points "down" (into screen).
+// We simulate this by:
+// 1. Computing a depth value for each grid point (how far down the mass pushes it)
+// 2. Using perspective to project: points that are "deeper" move toward the center of the well
+
+// Camera: looking down at a slight angle
+var CAM_Y_TILT=0.35; // 0=straight down, 1=side view. 0.35 = nice 3D angle
+var CAM_HEIGHT=800;
+
+function project3D(gx,gy,depth){
+  // depth = how far "down" this point is pushed by gravity
+  // In 3D: the point is at (gx, gy, -depth)
+  // Camera is at (W/2, H*0.3, CAM_HEIGHT) looking at (W/2, H*0.6, 0)
+
+  // Simple perspective: shift Y based on depth and tilt
+  var centerX=W/2, centerY=H*0.45;
+  var relX=gx-centerX, relY=gy-centerY;
+
+  // Apply tilt: Y compresses based on viewing angle
+  var tiltedY=relY*CAM_Y_TILT;
+
+  // Depth pulls point toward screen center (perspective foreshortening)
+  var depthScale=1/(1+depth/CAM_HEIGHT);
+
+  var px=centerX + relX*depthScale;
+  var py=centerY + tiltedY*depthScale + depth*0.4; // depth pushes visually downward
+
+  return{x:px, y:py, depth:depth};
+}
+
+function getDepth(gx,gy){
+  var totalDepth=0;
+  for(var i=0;i<masses.length;i++){
+    var m=masses[i];
+    var dx=gx-m.x, dy=gy-m.y;
+    var dist=Math.sqrt(dx*dx+dy*dy);
+    var radius=Math.sqrt(m.mass)*10+40;
+    if(dist<radius){
+      var t=1-dist/radius;
+      totalDepth+=m.mass*0.15*t*t;
+    }
+  }
+  return totalDepth;
+}
+
 function draw(){
-  ctx.fillStyle='#0a0618';
+  ctx.fillStyle='#000';
   ctx.fillRect(0,0,W,H);
 
   // Grow
   if(growing){
-    growing.mass+=0.5;
-    growing.size=Math.min(growing.size+0.3, 80);
+    growing.mass+=0.8;
+    growing.size=Math.min(4+Math.sqrt(growing.mass)*2, 80);
   }
 
   var cols=Math.ceil(W/GRID)+1, rows=Math.ceil(H/GRID)+1;
 
-  // Warp function
-  function warp(gx,gy){
-    var wx=0,wy=0;
-    for(var i=0;i<masses.length;i++){
-      var m=masses[i];
-      var dx=gx-m.x, dy=gy-m.y;
-      var d=Math.sqrt(dx*dx+dy*dy);
-      // Warp radius proportional to mass — wide parabolic bend
-      var radius=Math.sqrt(m.mass)*12+60;
-      if(d<radius && d>0.5){
-        // Quadratic falloff — creates parabolic curve
-        var t=1-d/radius;
-        var pull=Math.sqrt(m.mass)*3*t*t;
-        wx-=(dx/d)*pull;
-        wy-=(dy/d)*pull;
-      }
+  // Compute projected grid
+  var grid=[];
+  for(var r=0;r<rows;r++){
+    grid[r]=[];
+    for(var c=0;c<cols;c++){
+      var gx=c*GRID, gy=r*GRID;
+      var depth=getDepth(gx,gy);
+      grid[r][c]=project3D(gx,gy,depth);
     }
-    return{x:gx+wx, y:gy+wy};
   }
 
-  // Draw grid — horizontal lines
+  // Draw grid lines with depth-based brightness
+  // Horizontal
   for(var r=0;r<rows;r++){
     ctx.beginPath();
     for(var c=0;c<cols;c++){
-      var p=warp(c*GRID, r*GRID);
-      if(c===0) ctx.moveTo(p.x,p.y);
+      var p=grid[r][c];
+      if(c===0)ctx.moveTo(p.x,p.y);
       else ctx.lineTo(p.x,p.y);
     }
-    ctx.strokeStyle='rgba(156,188,20,0.2)';
-    ctx.lineWidth=0.7;
+    var baseAlpha=0.15+0.1*(r/rows);
+    ctx.strokeStyle='rgba(200,200,220,'+baseAlpha+')';
+    ctx.lineWidth=0.6;
     ctx.stroke();
   }
-  // Vertical lines
+  // Vertical
   for(var c=0;c<cols;c++){
     ctx.beginPath();
     for(var r=0;r<rows;r++){
-      var p=warp(c*GRID, r*GRID);
-      if(r===0) ctx.moveTo(p.x,p.y);
+      var p=grid[r][c];
+      if(r===0)ctx.moveTo(p.x,p.y);
       else ctx.lineTo(p.x,p.y);
     }
-    ctx.strokeStyle='rgba(156,188,20,0.2)';
-    ctx.lineWidth=0.7;
+    ctx.strokeStyle='rgba(200,200,220,0.15)';
+    ctx.lineWidth=0.6;
     ctx.stroke();
   }
 
-  // Draw masses as glowing rocks
+  // Draw masses (project their position too)
   for(var i=0;i<masses.length;i++){
     var m=masses[i];
+    var depth=getDepth(m.x,m.y);
+    var mp=project3D(m.x,m.y,depth*0.3); // mass sits slightly above the bottom of the well
 
     // Outer glow
-    var grd=ctx.createRadialGradient(m.x,m.y,0,m.x,m.y,m.size*3);
-    grd.addColorStop(0,m.color+'30');
+    var grd=ctx.createRadialGradient(mp.x,mp.y,0,mp.x,mp.y,m.size*2.5);
+    grd.addColorStop(0,'rgba(255,255,255,0.2)');
     grd.addColorStop(1,'transparent');
     ctx.fillStyle=grd;
     ctx.beginPath();
-    ctx.arc(m.x,m.y,m.size*3,0,Math.PI*2);
+    ctx.arc(mp.x,mp.y,m.size*2.5,0,Math.PI*2);
     ctx.fill();
 
-    // Rock body — irregular polygon
+    // Rock body
     ctx.beginPath();
     for(var v=0;v<m.verts.length;v++){
       var vt=m.verts[v];
-      var px=m.x+Math.cos(vt.a)*m.size*vt.r;
-      var py=m.y+Math.sin(vt.a)*m.size*vt.r;
-      if(v===0) ctx.moveTo(px,py);
-      else ctx.lineTo(px,py);
+      var px=mp.x+Math.cos(vt.a)*m.size*vt.r;
+      var py=mp.y+Math.sin(vt.a)*m.size*vt.r;
+      if(v===0)ctx.moveTo(px,py);else ctx.lineTo(px,py);
     }
     ctx.closePath();
-
-    // Radial gradient fill
-    var bg=ctx.createRadialGradient(m.x-m.size*0.2,m.y-m.size*0.2,0,m.x,m.y,m.size);
-    bg.addColorStop(0,'#fff');
-    bg.addColorStop(0.3,m.color);
-    bg.addColorStop(1,m.color+'44');
+    var bg=ctx.createRadialGradient(mp.x-m.size*0.2,mp.y-m.size*0.2,0,mp.x,mp.y,m.size);
+    bg.addColorStop(0,'#ffffff');
+    bg.addColorStop(0.4,'#ccccdd');
+    bg.addColorStop(1,'#666677');
     ctx.fillStyle=bg;
     ctx.fill();
-
-    // Edge highlight
-    ctx.strokeStyle=m.color+'66';
-    ctx.lineWidth=1;
+    ctx.strokeStyle='rgba(255,255,255,0.3)';
+    ctx.lineWidth=0.8;
     ctx.stroke();
 
-    // Inner gem lines
-    ctx.strokeStyle=m.color+'22';
-    ctx.lineWidth=0.5;
-    for(var v2=0;v2<m.verts.length;v2+=2){
-      var vt2=m.verts[v2];
-      ctx.beginPath();
-      ctx.moveTo(m.x,m.y);
-      ctx.lineTo(m.x+Math.cos(vt2.a)*m.size*vt2.r,m.y+Math.sin(vt2.a)*m.size*vt2.r);
-      ctx.stroke();
-    }
-
-    // Specular highlight
-    ctx.fillStyle='rgba(255,255,255,0.25)';
+    // Specular
+    ctx.fillStyle='rgba(255,255,255,0.4)';
     ctx.beginPath();
-    ctx.arc(m.x-m.size*0.2,m.y-m.size*0.25,m.size*0.2,0,Math.PI*2);
+    ctx.arc(mp.x-m.size*0.2,mp.y-m.size*0.25,m.size*0.18,0,Math.PI*2);
     ctx.fill();
-
-    // Mass label
-    ctx.fillStyle='rgba(255,255,255,0.3)';
-    ctx.font='10px sans-serif';
-    ctx.textAlign='center';
-    ctx.fillText('m='+Math.round(m.mass),m.x,m.y+m.size+14);
-  }
-
-  // Preview while placing
-  if(mode==='placing'){
-    ctx.strokeStyle='rgba(156,188,20,0.3)';
-    ctx.setLineDash([4,4]);
-    ctx.beginPath();
-    ctx.arc(mouseX,mouseY,8,0,Math.PI*2);
-    ctx.stroke();
-    ctx.setLineDash([]);
   }
 
   requestAnimationFrame(draw);
