@@ -26,7 +26,7 @@ canvas{display:block}
 .info-bar span{color:#9cbc14}
 #btn-reset{position:fixed;top:12px;right:12px;z-index:10;background:rgba(255,60,60,0.15);
   border:1px solid rgba(255,60,60,0.3);color:#ff6644;padding:6px 14px;border-radius:8px;
-  cursor:pointer;font-size:11px;display:none}
+  cursor:pointer;font-size:11px}
 #btn-reset:hover{background:rgba(255,60,60,0.25)}
 #btn-drag{position:fixed;top:12px;right:90px;z-index:10;background:rgba(255,152,0,0.1);
   border:1px solid rgba(255,152,0,0.3);color:#ffb300;padding:6px 14px;border-radius:8px;
@@ -228,11 +228,13 @@ cv.addEventListener('mouseup',function(e){
 
 function resetAll(){
   objects=[];anchor=null;orbiter=null;state='choose-anchor';dragOn=false;
+  // Clear canvas fully
+  ctx.fillStyle='#0a0618';ctx.fillRect(0,0,W,H);
   document.getElementById('step1').style.display='';
   document.getElementById('step2').style.display='none';
   document.getElementById('step3').style.display='none';
   document.getElementById('info-bar').style.display='none';
-  
+  document.getElementById('live-tag').style.display='none';
   document.getElementById('btn-drag').style.display='none';
   document.getElementById('sim-label').style.display='none';
   document.getElementById('btn-drag').textContent='Drag: Off';
@@ -327,7 +329,7 @@ function physics(){
 
 // Render
 function draw(){
-  ctx.fillStyle='#0a0618';ctx.fillRect(0,0,W,H);
+  ctx.fillStyle='rgba(10,6,24,0.04)';ctx.fillRect(0,0,W,H);
 
   var cols=Math.ceil(W/GRID)+1,rows=Math.ceil(H/GRID)+1;
   function warp(gx,gy){
