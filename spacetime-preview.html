@@ -335,8 +335,11 @@ function draw(){
     for(var i=0;i<objects.length;i++){
       if(objects[i].isPhoton)continue;
       var dx=gx-objects[i].x,dy=gy-objects[i].y,d=Math.sqrt(dx*dx+dy*dy);
-      var r=Math.sqrt(objects[i].mass)*4+40;
-      if(d<r&&d>1){var t=1-d/r;var p=Math.sqrt(objects[i].mass)*1.0*t*t;wx-=(dx/d)*p;wy-=(dy/d)*p;}
+      // Warp radius: visual, not mass-proportional. Even small objects show deformation.
+      var r=Math.max(Math.sqrt(objects[i].mass)*4, 30) + 80;
+      // Pull strength: scales with mass but has a minimum for visibility
+      var strength=Math.max(Math.sqrt(objects[i].mass)*1.2, 8);
+      if(d<r&&d>1){var t=1-d/r;var p=strength*t*t;wx-=(dx/d)*p;wy-=(dy/d)*p;}
     }
     return{x:gx+wx,y:gy+wy};
   }
