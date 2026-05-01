@@ -2,15 +2,912 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
 <title>Spacetime Simulator — DeepKids</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{background:#0a0618;overflow:hidden;height:100vh}
-iframe{width:100%;height:100%;border:none;filter:hue-rotate(60deg) saturate(1.2)}
+body{background:#0a0618;overflow:hidden;height:100vh;font-family:'Segoe UI',system-ui,sans-serif;color:#fff;user-select:none;-webkit-user-select:none}
+canvas{display:block;position:absolute;top:0;left:0}
+
+#ui-overlay{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:10}
+#ui-overlay *{pointer-events:auto}
+
+#walkthrough{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);z-index:20;
+  background:rgba(10,6,24,0.92);border:1px solid rgba(156,188,20,0.3);border-radius:16px;
+  padding:32px 40px;text-align:center;max-width:420px;backdrop-filter:blur(8px)}
+#walkthrough h2{color:#9cbc14;font-size:22px;margin-bottom:12px;font-weight:600}
+#walkthrough p{color:rgba(255,255,255,0.7);font-size:14px;margin-bottom:20px;line-height:1.5}
+#walkthrough .step-label{color:rgba(156,188,20,0.5);font-size:11px;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px}
+
+.obj-btn{display:inline-block;margin:6px;padding:10px 18px;border:2px solid rgba(255,255,255,0.15);
+  border-radius:10px;cursor:pointer;transition:all 0.2s;background:rgba(255,255,255,0.04);font-size:14px}
+.obj-btn:hover{border-color:rgba(156,188,20,0.6);background:rgba(156,188,20,0.08);transform:scale(1.05)}
+.obj-btn .dot{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:8px;vertical-align:middle}
+
+#info-bar{position:fixed;bottom:0;left:0;width:100%;background:rgba(10,6,24,0.85);
+  border-top:1px solid rgba(156,188,20,0.15);padding:8px 16px;font-size:12px;
+  font-family:'Courier New',monospace;color:rgba(255,255,255,0.6);z-index:15;
+  display:flex;gap:24px;align-items:center;backdrop-filter:blur(6px)}
+#info-bar .label{color:rgba(156,188,20,0.6);margin-right:4px}
+#info-bar .val{color:#fff}
+
+#top-controls{position:fixed;top:12px;right:12px;z-index:15;display:flex;gap:8px}
+.ctrl-btn{padding:6px 14px;border:1px solid rgba(156,188,20,0.3);border-radius:8px;
+  background:rgba(10,6,24,0.7);color:#9cbc14;font-size:12px;cursor:pointer;
+  transition:all 0.2s;backdrop-filter:blur(4px)}
+.ctrl-btn:hover{background:rgba(156,188,20,0.15);border-color:rgba(156,188,20,0.6)}
+.ctrl-btn.active{background:rgba(156,188,20,0.2);border-color:#9cbc14}
+
+#step-hint{position:fixed;top:12px;left:12px;z-index:15;background:rgba(10,6,24,0.7);
+  border:1px solid rgba(156,188,20,0.2);border-radius:8px;padding:8px 14px;font-size:12px;
+  color:rgba(156,188,20,0.7);backdrop-filter:blur(4px)}
 </style>
 </head>
 <body>
-<iframe src="https://spacetimeloom.com/" allow="fullscreen"></iframe>
+<canvas id="cv"></canvas>
+<div id="ui-overlay">
+  <div id="walkthrough"></div>
+  <div id="info-bar" style="display:none">
+    <span><span class="label">DIST:</span><span class="val" id="ib-dist">—</span></span>
+    <span><span class="label">IN FIELD:</span><span class="val" id="ib-field">—</span></span>
+    <span><span class="label">OUTCOME:</span><span class="val" id="ib-outcome">—</span></span>
+    <span><span class="label">SPEED RATIO:</span><span class="val" id="ib-ratio">—</span></span>
+  </div>
+  <div id="top-controls" style="display:none">
+    <button class="ctrl-btn" id="btn-drag" onclick="toggleDrag()">Drag: OFF</button>
+    <button class="ctrl-btn" id="btn-trail" onclick="toggleTrail()">Trails: ON</button>
+    <button class="ctrl-btn" id="btn-restart" onclick="startOver()">Start Over</button>
+  </div>
+  <div id="step-hint" style="display:none"></div>
+</div>
+
+<script>
+// ============================================================
+//  CANVAS SETUP
+// ============================================================
+var cv = document.getElementById('cv'), ctx = cv.getContext('2d');
+var W, H;
+function resize() { W = cv.width = window.innerWidth; H = cv.height = window.innerHeight; }
+resize(); window.addEventListener('resize', resize);
+
+// ============================================================
+//  WEB AUDIO
+// ============================================================
+var audioCtx = null;
+function ensureAudio() {
+  if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  if (audioCtx.state === 'suspended') audioCtx.resume();
+}
+function playClick() {
+  ensureAudio();
+  var o = audioCtx.createOscillator(), g = audioCtx.createGain();
+  o.type = 'sine'; o.frequency.value = 440;
+  g.gain.setValueAtTime(0.2, audioCtx.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.1);
+  o.connect(g); g.connect(audioCtx.destination);
+  o.start(); o.stop(audioCtx.currentTime + 0.1);
+}
+var growNoteTimer = null, growPitch = 220;
+function startGrowSound() {
+  ensureAudio();
+  growPitch = 220;
+  playGrowNote();
+  growNoteTimer = setInterval(playGrowNote, 200);
+}
+function playGrowNote() {
+  if (!audioCtx) return;
+  var o = audioCtx.createOscillator(), g = audioCtx.createGain();
+  o.type = 'sine'; o.frequency.value = growPitch;
+  g.gain.setValueAtTime(0.12, audioCtx.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.18);
+  o.connect(g); g.connect(audioCtx.destination);
+  o.start(); o.stop(audioCtx.currentTime + 0.18);
+  growPitch += 40;
+  if (growPitch > 2000) growPitch = 2000;
+}
+function stopGrowSound() {
+  if (growNoteTimer) { clearInterval(growNoteTimer); growNoteTimer = null; }
+}
+function playPlop() {
+  ensureAudio();
+  var o = audioCtx.createOscillator(), g = audioCtx.createGain();
+  o.type = 'sine'; o.frequency.setValueAtTime(280, audioCtx.currentTime);
+  o.frequency.exponentialRampToValueAtTime(140, audioCtx.currentTime + 0.15);
+  g.gain.setValueAtTime(0.25, audioCtx.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.15);
+  o.connect(g); g.connect(audioCtx.destination);
+  o.start(); o.stop(audioCtx.currentTime + 0.15);
+}
+
+// ============================================================
+//  PRESETS
+// ============================================================
+var PRESETS = {
+  Sun:       { mass:5000, size:40, v_fixed:0,    ideal_dist:0,   color:'#ffdd22', isAnchor:true },
+  BlackHole: { mass:5000, size:8,  v_fixed:0,    ideal_dist:0,   color:'#8800cc', isAnchor:true },
+  Earth:     { mass:1.5,  size:14, v_fixed:5.0,  ideal_dist:200, color:'#4488ff', isAnchor:false },
+  Jupiter:   { mass:5,    size:26, v_fixed:4.08, ideal_dist:300, color:'#ff9944', isAnchor:false },
+  Moon:      { mass:0.2,  size:8,  v_fixed:5.77, ideal_dist:150, color:'#aaaaaa', isAnchor:false },
+  ISS:       { mass:0.01, size:5,  v_fixed:6.45, ideal_dist:120, color:'#88ddff', isAnchor:false },
+  Photon:    { mass:0.001,size:3,  v_fixed:0,    ideal_dist:0,   color:'#ffffff', isAnchor:false, isPhoton:true }
+};
+
+// ============================================================
+//  STATE
+// ============================================================
+var G = 1.0;
+var objects = [];
+var simRunning = false;
+var dragEnabled = false;
+var trailEnabled = true;
+var currentStep = 1; // 1=choose anchor, 2=choose orbiter, 3=place
+var selectedPreset = null;
+var anchor = null;
+var mouseX = 0, mouseY = 0;
+var mouseDown = false;
+var holdStart = 0;
+var holdObj = null; // object being grown
+var draggingObj = null;
+var dragOffX = 0, dragOffY = 0;
+
+// Low-poly vertex cache per object
+function generateVertices(numVerts, baseRadius) {
+  var verts = [];
+  for (var i = 0; i < numVerts; i++) {
+    var angle = (Math.PI * 2 * i) / numVerts;
+    var offset = 0.8 + Math.random() * 0.4; // 0.8..1.2 variation
+    verts.push({ angle: angle, offset: offset });
+  }
+  return verts;
+}
+
+function createObject(preset, x, y, presetName) {
+  var p = PRESETS[preset];
+  var numVerts = 8 + Math.floor(Math.random() * 5); // 8-12
+  var obj = {
+    x: x, y: y,
+    vx: 0, vy: 0,
+    mass: p.mass,
+    size: p.size,
+    baseSize: p.size,
+    baseMass: p.mass,
+    color: p.color,
+    v_fixed: p.v_fixed,
+    ideal_dist: p.ideal_dist,
+    isAnchor: p.isAnchor,
+    isPhoton: !!p.isPhoton,
+    presetName: presetName || preset,
+    trail: [],
+    verts: generateVertices(numVerts, p.size),
+    alive: true
+  };
+  return obj;
+}
+
+// ============================================================
+//  WALKTHROUGH UI
+// ============================================================
+var walkthroughEl = document.getElementById('walkthrough');
+var stepHintEl = document.getElementById('step-hint');
+
+function showStep(step) {
+  currentStep = step;
+  var html = '';
+  if (step === 1) {
+    html = '<div class="step-label">Step 1 of 3</div>' +
+      '<h2>Choose Your Anchor</h2>' +
+      '<p>Pick a massive object to be the center of gravity.</p>' +
+      '<div class="obj-btn" onclick="selectPreset(\'Sun\')"><span class="dot" style="background:#ffdd22"></span>Sun</div>' +
+      '<div class="obj-btn" onclick="selectPreset(\'BlackHole\')"><span class="dot" style="background:#8800cc"></span>Black Hole</div>';
+    walkthroughEl.style.display = 'block';
+    document.getElementById('top-controls').style.display = 'none';
+    document.getElementById('info-bar').style.display = 'none';
+    stepHintEl.style.display = 'none';
+  } else if (step === 2) {
+    html = '<div class="step-label">Step 2 of 3</div>' +
+      '<h2>Choose an Orbiter</h2>' +
+      '<p>Pick an object to orbit around ' + (anchor ? anchor.presetName : 'the anchor') + '.</p>' +
+      '<div class="obj-btn" onclick="selectPreset(\'Earth\')"><span class="dot" style="background:#4488ff"></span>Earth</div>' +
+      '<div class="obj-btn" onclick="selectPreset(\'Jupiter\')"><span class="dot" style="background:#ff9944"></span>Jupiter</div>' +
+      '<div class="obj-btn" onclick="selectPreset(\'Moon\')"><span class="dot" style="background:#aaaaaa"></span>Moon</div>' +
+      '<div class="obj-btn" onclick="selectPreset(\'ISS\')"><span class="dot" style="background:#88ddff"></span>ISS</div>' +
+      '<div class="obj-btn" onclick="selectPreset(\'Photon\')"><span class="dot" style="background:#ffffff"></span>Photon</div>';
+    walkthroughEl.style.display = 'block';
+    document.getElementById('top-controls').style.display = 'flex';
+    stepHintEl.style.display = 'none';
+  } else if (step === 3) {
+    walkthroughEl.style.display = 'none';
+    document.getElementById('info-bar').style.display = 'flex';
+    document.getElementById('top-controls').style.display = 'flex';
+    stepHintEl.style.display = 'block';
+    stepHintEl.innerHTML = 'Click to place <b style="color:' + PRESETS[selectedPreset].color + '">' + selectedPreset + '</b> — hold to grow';
+  }
+  walkthroughEl.innerHTML = html;
+}
+
+function selectPreset(name) {
+  ensureAudio();
+  playClick();
+  selectedPreset = name;
+  var p = PRESETS[name];
+  if (p.isAnchor) {
+    // Place anchor at center
+    var obj = createObject(name, W / 2, H / 2, name);
+    objects = [obj];
+    anchor = obj;
+    simRunning = false;
+    showStep(2);
+  } else {
+    showStep(3);
+  }
+}
+
+function startOver() {
+  playClick();
+  objects = [];
+  anchor = null;
+  simRunning = false;
+  selectedPreset = null;
+  holdObj = null;
+  draggingObj = null;
+  mouseDown = false;
+  stopGrowSound();
+  showStep(1);
+}
+
+function toggleDrag() {
+  dragEnabled = !dragEnabled;
+  document.getElementById('btn-drag').textContent = 'Drag: ' + (dragEnabled ? 'ON' : 'OFF');
+  document.getElementById('btn-drag').classList.toggle('active', dragEnabled);
+}
+
+function toggleTrail() {
+  trailEnabled = !trailEnabled;
+  document.getElementById('btn-trail').textContent = 'Trails: ' + (trailEnabled ? 'ON' : 'OFF');
+  document.getElementById('btn-trail').classList.toggle('active', trailEnabled);
+  if (!trailEnabled) {
+    for (var i = 0; i < objects.length; i++) objects[i].trail = [];
+  }
+}
+
+// ============================================================
+//  OUTCOME PREDICTION
+// ============================================================
+function predictOutcome(dist) {
+  if (!anchor || !selectedPreset) return { outcome: '—', ratio: 0 };
+  var p = PRESETS[selectedPreset];
+  if (p.isPhoton) {
+    return { outcome: 'Photon — constant speed', ratio: 0 };
+  }
+  var v_circ = Math.sqrt(G * anchor.mass / dist);
+  var ratio = p.v_fixed / v_circ;
+  var outcome = '';
+  if (ratio < 0.3) outcome = 'Crash';
+  else if (ratio < 0.85) outcome = 'Elliptical (close)';
+  else if (ratio <= 1.15) outcome = 'Circular orbit';
+  else if (ratio <= 1.41) outcome = 'Wide ellipse';
+  else outcome = 'Escape';
+  return { outcome: outcome, ratio: ratio, v_circ: v_circ, v_fixed: p.v_fixed };
+}
+
+function getOutcomeForObj(obj) {
+  if (!anchor || obj === anchor) return { outcome: '—', ratio: 0 };
+  var dx = obj.x - anchor.x, dy = obj.y - anchor.y;
+  var dist = Math.sqrt(dx * dx + dy * dy);
+  var v = Math.sqrt(obj.vx * obj.vx + obj.vy * obj.vy);
+  var v_circ = Math.sqrt(G * anchor.mass / Math.max(dist, 1));
+  var ratio = v / v_circ;
+  var outcome = '';
+  if (obj.isPhoton) return { outcome: 'Photon', ratio: 0, v: v, v_circ: v_circ };
+  if (ratio < 0.3) outcome = 'Crash';
+  else if (ratio < 0.85) outcome = 'Elliptical (close)';
+  else if (ratio <= 1.15) outcome = 'Circular orbit';
+  else if (ratio <= 1.41) outcome = 'Wide ellipse';
+  else outcome = 'Escape';
+  return { outcome: outcome, ratio: ratio, v: v, v_circ: v_circ };
+}
+
+// ============================================================
+//  MOUSE / TOUCH
+// ============================================================
+function getEventPos(e) {
+  if (e.touches && e.touches.length > 0) {
+    return { x: e.touches[0].clientX, y: e.touches[0].clientY };
+  }
+  return { x: e.clientX, y: e.clientY };
+}
+
+function findObjectAt(x, y) {
+  for (var i = objects.length - 1; i >= 0; i--) {
+    var o = objects[i];
+    var dx = x - o.x, dy = y - o.y;
+    if (dx * dx + dy * dy < (o.size + 10) * (o.size + 10)) return o;
+  }
+  return null;
+}
+
+function onDown(e) {
+  e.preventDefault();
+  var pos = getEventPos(e);
+  mouseX = pos.x; mouseY = pos.y;
+  mouseDown = true;
+
+  if (currentStep !== 3) {
+    // Check if dragging existing object
+    var hit = findObjectAt(pos.x, pos.y);
+    if (hit && simRunning) {
+      draggingObj = hit;
+      dragOffX = hit.x - pos.x;
+      dragOffY = hit.y - pos.y;
+      hit.vx = 0; hit.vy = 0;
+    }
+    return;
+  }
+
+  // Step 3: placing new object
+  var hit2 = findObjectAt(pos.x, pos.y);
+  if (hit2 && simRunning) {
+    draggingObj = hit2;
+    dragOffX = hit2.x - pos.x;
+    dragOffY = hit2.y - pos.y;
+    hit2.vx = 0; hit2.vy = 0;
+    return;
+  }
+
+  playClick();
+  startGrowSound();
+  holdStart = Date.now();
+
+  var obj = createObject(selectedPreset, pos.x, pos.y, selectedPreset);
+  // Start small
+  obj.size = Math.max(3, obj.baseSize * 0.3);
+  obj.mass = obj.baseMass * 0.3;
+  holdObj = obj;
+  objects.push(obj);
+}
+
+function onMove(e) {
+  e.preventDefault();
+  var pos = getEventPos(e);
+  mouseX = pos.x; mouseY = pos.y;
+
+  if (draggingObj) {
+    draggingObj.x = pos.x + dragOffX;
+    draggingObj.y = pos.y + dragOffY;
+  }
+}
+
+function onUp(e) {
+  e.preventDefault();
+  mouseDown = false;
+
+  if (draggingObj) {
+    // Recalculate velocity for new position
+    if (anchor && draggingObj !== anchor) {
+      var dx = draggingObj.x - anchor.x, dy = draggingObj.y - anchor.y;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist > 1) {
+        if (draggingObj.isPhoton) {
+          // Photon: tangential direction at constant speed
+          var nx = -dy / dist, ny = dx / dist;
+          draggingObj.vx = nx * 4.0;
+          draggingObj.vy = ny * 4.0;
+        } else {
+          var v = draggingObj.v_fixed;
+          var nx = -dy / dist, ny = dx / dist;
+          draggingObj.vx = nx * v;
+          draggingObj.vy = ny * v;
+        }
+      }
+    }
+    draggingObj = null;
+    playPlop();
+    return;
+  }
+
+  if (holdObj) {
+    stopGrowSound();
+    playPlop();
+
+    // Set velocity based on distance to anchor
+    if (anchor && holdObj !== anchor) {
+      var dx = holdObj.x - anchor.x, dy = holdObj.y - anchor.y;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist > 1) {
+        if (holdObj.isPhoton) {
+          var nx = -dy / dist, ny = dx / dist;
+          holdObj.vx = nx * 4.0;
+          holdObj.vy = ny * 4.0;
+        } else {
+          var v = holdObj.v_fixed;
+          var nx = -dy / dist, ny = dx / dist;
+          holdObj.vx = nx * v;
+          holdObj.vy = ny * v;
+        }
+      }
+    }
+
+    holdObj = null;
+    simRunning = true;
+    // Go back to step 2 to choose another orbiter
+    showStep(2);
+  }
+}
+
+cv.addEventListener('mousedown', onDown);
+cv.addEventListener('mousemove', onMove);
+cv.addEventListener('mouseup', onUp);
+cv.addEventListener('touchstart', onDown, { passive: false });
+cv.addEventListener('touchmove', onMove, { passive: false });
+cv.addEventListener('touchend', onUp, { passive: false });
+
+// ============================================================
+//  PHYSICS
+// ============================================================
+function physicsStep() {
+  if (!simRunning) return;
+
+  for (var i = 0; i < objects.length; i++) {
+    var obj = objects[i];
+    if (!obj.alive || obj === draggingObj) continue;
+
+    if (obj.isAnchor) {
+      // Anchor barely moves — apply tiny gravity from orbiters
+      var ax = 0, ay = 0;
+      for (var j = 0; j < objects.length; j++) {
+        if (j === i || !objects[j].alive) continue;
+        var s = objects[j];
+        var ddx = s.x - obj.x, ddy = s.y - obj.y;
+        var dd = Math.sqrt(ddx * ddx + ddy * ddy);
+        if (dd > 1) {
+          var a = G * s.mass / (dd * dd);
+          a = Math.min(a, 0.01); // cap anchor movement
+          ax += a * (ddx / dd);
+          ay += a * (ddy / dd);
+        }
+      }
+      obj.vx += ax; obj.vy += ay;
+      if (dragEnabled) { obj.vx *= 0.9999; obj.vy *= 0.9999; }
+      obj.x += obj.vx; obj.y += obj.vy;
+      continue;
+    }
+
+    if (obj.isPhoton) {
+      // Photon: constant speed, direction changes by gravity
+      var ax2 = 0, ay2 = 0;
+      for (var j2 = 0; j2 < objects.length; j2++) {
+        if (j2 === i || !objects[j2].alive) continue;
+        var s2 = objects[j2];
+        var ddx2 = s2.x - obj.x, ddy2 = s2.y - obj.y;
+        var dd2 = Math.sqrt(ddx2 * ddx2 + ddy2 * ddy2);
+        if (dd2 > 1) {
+          var a2 = G * s2.mass / (dd2 * dd2);
+          ax2 += a2 * (ddx2 / dd2);
+          ay2 += a2 * (ddy2 / dd2);
+        }
+      }
+      obj.vx += ax2; obj.vy += ay2;
+      // Normalize to constant speed
+      var spd = Math.sqrt(obj.vx * obj.vx + obj.vy * obj.vy);
+      if (spd > 0) { obj.vx = (obj.vx / spd) * 4.0; obj.vy = (obj.vy / spd) * 4.0; }
+      obj.x += obj.vx; obj.y += obj.vy;
+      continue;
+    }
+
+    // Normal orbiter
+    var ax3 = 0, ay3 = 0;
+    for (var j3 = 0; j3 < objects.length; j3++) {
+      if (j3 === i || !objects[j3].alive) continue;
+      var s3 = objects[j3];
+      var ddx3 = s3.x - obj.x, ddy3 = s3.y - obj.y;
+      var dd3 = Math.sqrt(ddx3 * ddx3 + ddy3 * ddy3);
+      if (dd3 > 1) {
+        var a3 = G * s3.mass / (dd3 * dd3);
+        a3 = Math.min(a3, 2); // cap at 2 to prevent explosions
+        ax3 += a3 * (ddx3 / dd3);
+        ay3 += a3 * (ddy3 / dd3);
+      }
+    }
+    obj.vx += ax3; obj.vy += ay3;
+    var damp = dragEnabled ? 0.9999 : 1.0;
+    obj.vx *= damp; obj.vy *= damp;
+    obj.x += obj.vx; obj.y += obj.vy;
+  }
+
+  // Mergers: when surfaces touch, smaller absorbed
+  for (var a = 0; a < objects.length; a++) {
+    if (!objects[a].alive) continue;
+    for (var b = a + 1; b < objects.length; b++) {
+      if (!objects[b].alive) continue;
+      var oa = objects[a], ob = objects[b];
+      var mdx = oa.x - ob.x, mdy = oa.y - ob.y;
+      var mdist = Math.sqrt(mdx * mdx + mdy * mdy);
+      if (mdist < oa.size + ob.size) {
+        // Smaller absorbed by larger
+        var big, small;
+        if (oa.mass >= ob.mass) { big = oa; small = ob; }
+        else { big = oa; small = ob; if (ob.mass > oa.mass) { big = ob; small = oa; } }
+        // Conserve momentum
+        var totalMass = big.mass + small.mass;
+        big.vx = (big.vx * big.mass + small.vx * small.mass) / totalMass;
+        big.vy = (big.vy * big.mass + small.vy * small.mass) / totalMass;
+        big.mass = totalMass;
+        big.size = Math.max(big.size, big.size + small.size * 0.3);
+        small.alive = false;
+        if (small === anchor) anchor = big;
+      }
+    }
+  }
+
+  // Remove dead
+  objects = objects.filter(function(o) { return o.alive; });
+
+  // Trails
+  if (trailEnabled) {
+    for (var t = 0; t < objects.length; t++) {
+      var to = objects[t];
+      if (to === draggingObj) continue;
+      to.trail.push({ x: to.x, y: to.y });
+      if (to.trail.length > 2000) to.trail.shift();
+    }
+  }
+}
+
+// Growing while holding
+function updateHold() {
+  if (!holdObj || !mouseDown) return;
+  var elapsed = (Date.now() - holdStart) / 1000; // seconds
+  var growFactor = 0.3 + elapsed * 0.5; // grows 50% per second
+  if (growFactor > 3) growFactor = 3;
+  holdObj.size = holdObj.baseSize * growFactor;
+  holdObj.mass = holdObj.baseMass * growFactor * growFactor; // mass grows with square
+}
+
+// ============================================================
+//  DRAW — LOW-POLY ROCK RENDERING
+// ============================================================
+function drawRock(obj) {
+  var cx = obj.x, cy = obj.y, r = obj.size;
+  var verts = obj.verts;
+  var n = verts.length;
+
+  ctx.save();
+
+  // Outer glow
+  var glowR = r * 2.2;
+  var glow = ctx.createRadialGradient(cx, cy, r * 0.5, cx, cy, glowR);
+  glow.addColorStop(0, obj.color + '30');
+  glow.addColorStop(1, obj.color + '00');
+  ctx.fillStyle = glow;
+  ctx.beginPath();
+  ctx.arc(cx, cy, glowR, 0, Math.PI * 2);
+  ctx.fill();
+
+  // Build polygon path
+  var pts = [];
+  for (var i = 0; i < n; i++) {
+    var v = verts[i];
+    var px = cx + Math.cos(v.angle) * r * v.offset;
+    var py = cy + Math.sin(v.angle) * r * v.offset;
+    pts.push({ x: px, y: py });
+  }
+
+  // Radial gradient fill
+  var grad = ctx.createRadialGradient(cx - r * 0.2, cy - r * 0.2, r * 0.1, cx, cy, r * 1.1);
+  var baseColor = obj.color;
+  grad.addColorStop(0, lightenColor(baseColor, 60));
+  grad.addColorStop(0.4, baseColor);
+  grad.addColorStop(1, darkenColor(baseColor, 50));
+
+  ctx.beginPath();
+  ctx.moveTo(pts[0].x, pts[0].y);
+  for (var i2 = 1; i2 < n; i2++) ctx.lineTo(pts[i2].x, pts[i2].y);
+  ctx.closePath();
+  ctx.fillStyle = grad;
+  ctx.fill();
+
+  // Faceted edge highlight — draw subtle lines between vertices
+  ctx.strokeStyle = lightenColor(baseColor, 30) + '40';
+  ctx.lineWidth = 0.8;
+  ctx.beginPath();
+  ctx.moveTo(pts[0].x, pts[0].y);
+  for (var i3 = 1; i3 < n; i3++) ctx.lineTo(pts[i3].x, pts[i3].y);
+  ctx.closePath();
+  ctx.stroke();
+
+  // Inner facet lines (from center outward to some vertices) for gem-like look
+  ctx.strokeStyle = lightenColor(baseColor, 20) + '18';
+  ctx.lineWidth = 0.5;
+  for (var i4 = 0; i4 < n; i4 += 2) {
+    ctx.beginPath();
+    ctx.moveTo(cx, cy);
+    ctx.lineTo(pts[i4].x, pts[i4].y);
+    ctx.stroke();
+  }
+
+  // Bright specular highlight
+  ctx.fillStyle = 'rgba(255,255,255,0.15)';
+  ctx.beginPath();
+  ctx.ellipse(cx - r * 0.25, cy - r * 0.25, r * 0.22, r * 0.15, -0.5, 0, Math.PI * 2);
+  ctx.fill();
+
+  ctx.restore();
+}
+
+// Color helpers
+function hexToRGB(hex) {
+  hex = hex.replace('#', '');
+  if (hex.length === 3) hex = hex[0]+hex[0]+hex[1]+hex[1]+hex[2]+hex[2];
+  return {
+    r: parseInt(hex.substr(0, 2), 16),
+    g: parseInt(hex.substr(2, 2), 16),
+    b: parseInt(hex.substr(4, 2), 16)
+  };
+}
+function lightenColor(hex, amt) {
+  var c = hexToRGB(hex);
+  c.r = Math.min(255, c.r + amt);
+  c.g = Math.min(255, c.g + amt);
+  c.b = Math.min(255, c.b + amt);
+  return 'rgb(' + c.r + ',' + c.g + ',' + c.b + ')';
+}
+function darkenColor(hex, amt) {
+  var c = hexToRGB(hex);
+  c.r = Math.max(0, c.r - amt);
+  c.g = Math.max(0, c.g - amt);
+  c.b = Math.max(0, c.b - amt);
+  return 'rgb(' + c.r + ',' + c.g + ',' + c.b + ')';
+}
+
+// ============================================================
+//  DRAW — WARPED GRID
+// ============================================================
+function warpPoint(px, py) {
+  var wx = px, wy = py;
+  for (var i = 0; i < objects.length; i++) {
+    var o = objects[i];
+    if (!o.alive) continue;
+    var warpRadius = Math.max(Math.sqrt(o.mass) * 6, 80) + 150;
+    var warpStrength = Math.max(Math.sqrt(o.mass) * 2.5, 25);
+    var dx = px - o.x, dy = py - o.y;
+    var dist = Math.sqrt(dx * dx + dy * dy);
+    if (dist < warpRadius && dist > 1) {
+      var factor = 1.0 - dist / warpRadius;
+      factor = factor * factor; // quadratic falloff
+      var pull = warpStrength * factor;
+      wx -= (dx / dist) * pull;
+      wy -= (dy / dist) * pull;
+    }
+  }
+  return { x: wx, y: wy };
+}
+
+function drawGrid() {
+  var spacing = 20;
+  ctx.strokeStyle = 'rgba(156,188,20,0.07)';
+  ctx.lineWidth = 0.5;
+
+  var hasObjects = objects.length > 0;
+
+  // Vertical lines
+  for (var gx = 0; gx < W; gx += spacing) {
+    ctx.beginPath();
+    var first = true;
+    for (var gy = 0; gy <= H; gy += (hasObjects ? 8 : spacing)) {
+      var p = hasObjects ? warpPoint(gx, gy) : { x: gx, y: gy };
+      if (first) { ctx.moveTo(p.x, p.y); first = false; }
+      else ctx.lineTo(p.x, p.y);
+    }
+    ctx.stroke();
+  }
+
+  // Horizontal lines
+  for (var gy2 = 0; gy2 < H; gy2 += spacing) {
+    ctx.beginPath();
+    var first2 = true;
+    for (var gx2 = 0; gx2 <= W; gx2 += (hasObjects ? 8 : spacing)) {
+      var p2 = hasObjects ? warpPoint(gx2, gy2) : { x: gx2, y: gy2 };
+      if (first2) { ctx.moveTo(p2.x, p2.y); first2 = false; }
+      else ctx.lineTo(p2.x, p2.y);
+    }
+    ctx.stroke();
+  }
+}
+
+// ============================================================
+//  DRAW — GRAVITY FIELD CIRCLE
+// ============================================================
+function drawGravityField() {
+  if (!anchor) return;
+  var fieldR = Math.max(Math.sqrt(anchor.mass) * 6, 80) + 150;
+  ctx.save();
+  ctx.setLineDash([6, 4]);
+  ctx.strokeStyle = 'rgba(156,188,20,0.2)';
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.arc(anchor.x, anchor.y, fieldR, 0, Math.PI * 2);
+  ctx.stroke();
+  ctx.setLineDash([]);
+  ctx.restore();
+}
+
+// ============================================================
+//  DRAW — DISTANCE LINE & CURSOR PREVIEW
+// ============================================================
+function drawPlacementGuide() {
+  if (currentStep !== 3 || !anchor) return;
+
+  var dx = mouseX - anchor.x, dy = mouseY - anchor.y;
+  var dist = Math.sqrt(dx * dx + dy * dy);
+
+  // Distance line
+  ctx.save();
+  ctx.setLineDash([4, 6]);
+  ctx.strokeStyle = 'rgba(156,188,20,0.3)';
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.moveTo(anchor.x, anchor.y);
+  ctx.lineTo(mouseX, mouseY);
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Distance label at midpoint
+  var mx = (anchor.x + mouseX) / 2, my = (anchor.y + mouseY) / 2;
+  ctx.fillStyle = 'rgba(156,188,20,0.6)';
+  ctx.font = '11px monospace';
+  ctx.textAlign = 'center';
+  ctx.fillText(dist.toFixed(0) + 'px', mx, my - 8);
+
+  // Preview circle at cursor
+  if (selectedPreset && !holdObj) {
+    var p = PRESETS[selectedPreset];
+    ctx.globalAlpha = 0.3;
+    ctx.strokeStyle = p.color;
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.arc(mouseX, mouseY, p.size, 0, Math.PI * 2);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+  ctx.restore();
+
+  // Update info bar
+  var fieldR = Math.max(Math.sqrt(anchor.mass) * 6, 80) + 150;
+  var inField = dist < fieldR;
+  var pred = predictOutcome(dist);
+
+  document.getElementById('ib-dist').textContent = dist.toFixed(0) + 'px';
+  document.getElementById('ib-field').textContent = inField ? 'YES' : 'NO';
+  document.getElementById('ib-field').style.color = inField ? '#9cbc14' : '#ff4444';
+  document.getElementById('ib-outcome').textContent = pred.outcome;
+  document.getElementById('ib-outcome').style.color = getOutcomeColor(pred.outcome);
+  document.getElementById('ib-ratio').textContent = pred.ratio ? pred.ratio.toFixed(3) : '—';
+}
+
+function getOutcomeColor(outcome) {
+  if (outcome.indexOf('Crash') >= 0) return '#ff4444';
+  if (outcome.indexOf('Elliptical') >= 0) return '#ffaa44';
+  if (outcome.indexOf('Circular') >= 0) return '#44ff88';
+  if (outcome.indexOf('Wide') >= 0) return '#44aaff';
+  if (outcome.indexOf('Escape') >= 0) return '#ff44ff';
+  return '#ffffff';
+}
+
+// ============================================================
+//  DRAW — TRAILS
+// ============================================================
+function drawTrails() {
+  for (var i = 0; i < objects.length; i++) {
+    var obj = objects[i];
+    if (obj.trail.length < 2) continue;
+    var trail = obj.trail;
+    var len = trail.length;
+    for (var j = 0; j < len; j++) {
+      var alpha = (j / len) * 0.6;
+      var rgb = hexToRGB(obj.color);
+      ctx.fillStyle = 'rgba(' + rgb.r + ',' + rgb.g + ',' + rgb.b + ',' + alpha.toFixed(3) + ')';
+      ctx.beginPath();
+      ctx.arc(trail[j].x, trail[j].y, 1.2, 0, Math.PI * 2);
+      ctx.fill();
+    }
+  }
+}
+
+// ============================================================
+//  DRAW — PHYSICS TAGS
+// ============================================================
+function drawPhysicsTags() {
+  if (!simRunning || !anchor) return;
+  ctx.font = '10px monospace';
+  ctx.textAlign = 'left';
+
+  for (var i = 0; i < objects.length; i++) {
+    var obj = objects[i];
+    if (obj === anchor || !obj.alive || obj === draggingObj) continue;
+    var info = getOutcomeForObj(obj);
+    var tagX = obj.x + obj.size + 8;
+    var tagY = obj.y - obj.size - 4;
+
+    // Background
+    ctx.fillStyle = 'rgba(0,0,0,0.6)';
+    var tw = 140;
+    ctx.fillRect(tagX - 4, tagY - 10, tw, 36);
+
+    // Text
+    ctx.fillStyle = 'rgba(255,255,255,0.7)';
+    ctx.fillText('v=' + (info.v || 0).toFixed(2) + '  need=' + (info.v_circ || 0).toFixed(2), tagX, tagY);
+    ctx.fillStyle = getOutcomeColor(info.outcome);
+    ctx.fillText(info.outcome, tagX, tagY + 12);
+    ctx.fillStyle = 'rgba(255,255,255,0.4)';
+    ctx.fillText('ratio=' + (info.ratio || 0).toFixed(3), tagX, tagY + 22);
+  }
+}
+
+// ============================================================
+//  MAIN DRAW LOOP
+// ============================================================
+function draw() {
+  // Clear
+  ctx.fillStyle = '#0a0618';
+  ctx.fillRect(0, 0, W, H);
+
+  // Grid (fully redrawn each frame)
+  drawGrid();
+
+  // Gravity field
+  drawGravityField();
+
+  // Trails
+  drawTrails();
+
+  // Placement guide
+  drawPlacementGuide();
+
+  // Update hold growth
+  updateHold();
+
+  // Physics
+  physicsStep();
+
+  // Draw objects
+  for (var i = 0; i < objects.length; i++) {
+    if (objects[i].alive) drawRock(objects[i]);
+  }
+
+  // Physics tags
+  drawPhysicsTags();
+
+  // Update info bar during sim
+  if (simRunning && anchor && currentStep !== 3) {
+    // Show info about nearest orbiter
+    var nearest = null, nearDist = Infinity;
+    for (var j = 0; j < objects.length; j++) {
+      if (objects[j] !== anchor && objects[j].alive) {
+        var d = Math.sqrt(Math.pow(objects[j].x - anchor.x, 2) + Math.pow(objects[j].y - anchor.y, 2));
+        if (d < nearDist) { nearDist = d; nearest = objects[j]; }
+      }
+    }
+    if (nearest) {
+      var nInfo = getOutcomeForObj(nearest);
+      var fieldR = Math.max(Math.sqrt(anchor.mass) * 6, 80) + 150;
+      document.getElementById('ib-dist').textContent = nearDist.toFixed(0) + 'px';
+      document.getElementById('ib-field').textContent = nearDist < fieldR ? 'YES' : 'NO';
+      document.getElementById('ib-field').style.color = nearDist < fieldR ? '#9cbc14' : '#ff4444';
+      document.getElementById('ib-outcome').textContent = nInfo.outcome;
+      document.getElementById('ib-outcome').style.color = getOutcomeColor(nInfo.outcome);
+      document.getElementById('ib-ratio').textContent = (nInfo.ratio || 0).toFixed(3);
+    }
+    document.getElementById('info-bar').style.display = 'flex';
+  }
+
+  requestAnimationFrame(draw);
+}
+
+// ============================================================
+//  INIT
+// ============================================================
+showStep(1);
+draw();
+</script>
 </body>
 </html>
