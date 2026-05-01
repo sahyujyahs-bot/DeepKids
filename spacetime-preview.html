@@ -86,7 +86,7 @@ canvas{display:block}
 
 <script>
 var cv=document.getElementById('cv'),ctx=cv.getContext('2d');
-var W,H,G=1.0,GRID=32;
+var W,H,G=1.0,GRID=18;
 function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
 resize();window.addEventListener('resize',resize);
 
@@ -99,14 +99,14 @@ var mouseX=0,mouseY=0;
 var gravFieldRadius=0;
 
 var PRESETS={
-  sun:      {mass:5000,size:30,color:'#ffdd22',name:'Sun',speed:0,v_fixed:0,ideal_dist:0},
-  blackhole:{mass:5000,size:5, color:'#8800cc',name:'Black Hole',speed:0,v_fixed:0,ideal_dist:0},
-  earth:    {mass:1.5,size:9, color:'#4488ff',name:'Earth',speed:0,v_fixed:5.0,ideal_dist:200},
-  jupiter:  {mass:5,  size:18,color:'#ff9944',name:'Jupiter',speed:0,v_fixed:4.08,ideal_dist:300},
-  moon:     {mass:0.2,size:4, color:'#aaaaaa',name:'Moon',speed:0,v_fixed:5.77,ideal_dist:150},
-  iss:      {mass:0.01,size:2,color:'#88ddff',name:'ISS',speed:0,v_fixed:6.45,ideal_dist:120},
-  photon:   {mass:0.001,size:2,color:'#ffffff',name:'Photon',speed:0,v_fixed:0,ideal_dist:0},
-  sun2:     {mass:5000,size:28,color:'#ffdd22',name:'Sun',speed:0,v_fixed:4.47,ideal_dist:250}
+  sun:      {mass:5000,size:40,color:'#ffdd22',name:'Sun',speed:0,v_fixed:0,ideal_dist:0},
+  blackhole:{mass:5000,size:8, color:'#8800cc',name:'Black Hole',speed:0,v_fixed:0,ideal_dist:0},
+  earth:    {mass:1.5,size:14,color:'#4488ff',name:'Earth',speed:0,v_fixed:5.0,ideal_dist:200},
+  jupiter:  {mass:5,  size:26,color:'#ff9944',name:'Jupiter',speed:0,v_fixed:4.08,ideal_dist:300},
+  moon:     {mass:0.2,size:8, color:'#aaaaaa',name:'Moon',speed:0,v_fixed:5.77,ideal_dist:150},
+  iss:      {mass:0.01,size:5,color:'#88ddff',name:'ISS',speed:0,v_fixed:6.45,ideal_dist:120},
+  photon:   {mass:0.001,size:3,color:'#ffffff',name:'Photon',speed:0,v_fixed:0,ideal_dist:0},
+  sun2:     {mass:5000,size:38,color:'#ffdd22',name:'Sun',speed:0,v_fixed:4.47,ideal_dist:250}
 };
 
 function chooseAnchor(type){
@@ -360,8 +360,8 @@ function draw(){
     for(var i=0;i<objects.length;i++){
       if(objects[i].isPhoton)continue;
       var dx=gx-objects[i].x,dy=gy-objects[i].y,d=Math.sqrt(dx*dx+dy*dy);
-      var r=Math.max(Math.sqrt(objects[i].mass)*4, 40) + 100;
-      var strength=Math.max(Math.sqrt(objects[i].mass)*1.5, 12);
+      var r=Math.max(Math.sqrt(objects[i].mass)*6, 80) + 150;
+      var strength=Math.max(Math.sqrt(objects[i].mass)*2.5, 25);
       if(d<r&&d>1){var t=1-d/r;var p=strength*t*t;wx-=(dx/d)*p;wy-=(dy/d)*p;}
     }
     return{x:gx+wx,y:gy+wy};
