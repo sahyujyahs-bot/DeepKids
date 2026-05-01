@@ -42,7 +42,7 @@ function findMass(x,y){
 cv.addEventListener('mousedown',function(e){
   var f=findMass(e.clientX,e.clientY);
   if(f){growing=f;return;}
-  var o={x:e.clientX,y:e.clientY,mass:10,size:15,verts:makeVerts()};
+  var o={x:e.clientX,y:e.clientY,mass:10,size:15,vx:0,vy:0,verts:makeVerts()};
   masses.push(o);growing=o;
 });
 cv.addEventListener('mouseup',function(){growing=null});
@@ -176,6 +176,48 @@ function draw(){
     ctx.font='10px sans-serif';
     ctx.textAlign='center';
     ctx.fillText('m='+Math.round(m.mass),m.x,m.y+m.size+14);
+  }
+
+  // Physics: every mass pulls every other mass
+  // Not running while user is holding/growing
+  if(!growing){
+    var G=1.0;
+    for(var i=0;i<masses.length;i++){
+      var mi=masses[i];
+      var ax=0,ay=0;
+      for(var j=0;j<masses.length;j++){
+        if(i===j)continue;
+        var mj=masses[j];
+        var dx=mj.x-mi.x,dy=mj.y-mi.y;
+        var dist=Math.sqrt(dx*dx+dy*dy);
+        if(dist<mi.size+mj.size){
+          // Collision — merge smaller into larger
+          if(mi.mass>=mj.mass){
+            var tm=mi.mass+mj.mass;
+            mi.vx=(mi.vx*mi.mass+mj.vx*mj.mass)/tm;
+            mi.vy=(mi.vy*mi.mass+mj.vy*mj.mass)/tm;
+            mi.mass=tm;
+            mi.size=Math.min(6+Math.pow(mi.mass,0.45)*3,90);
+            masses.splice(j,1);
+            if(j<i)i--;
+            j--;
+          }
+          continue;
+        }
+        if(dist<2)continue;
+        var a=G*mj.mass/(dist*dist);
+        a=Math.min(a,2);
+        ax+=a*(dx/dist);
+        ay+=a*(dy/dist);
+      }
+      mi.vx+=ax;
+      mi.vy+=ay;
+    }
+    for(var i=0;i<masses.length;i++){
+      var mi=masses[i];
+      mi.x+=mi.vx;
+      mi.y+=mi.vy;
+    }
   }
 
   requestAnimationFrame(draw);
