@@ -123,13 +123,13 @@ function playPlop() {
 //  PRESETS
 // ============================================================
 var PRESETS = {
-  Sun:       { mass:5000, size:40, v_fixed:0,    ideal_dist:0,   color:'#ffdd22', isAnchor:true },
-  BlackHole: { mass:5000, size:8,  v_fixed:0,    ideal_dist:0,   color:'#8800cc', isAnchor:true },
-  Earth:     { mass:1.5,  size:14, v_fixed:5.0,  ideal_dist:200, color:'#4488ff', isAnchor:false },
-  Jupiter:   { mass:5,    size:26, v_fixed:4.08, ideal_dist:300, color:'#ff9944', isAnchor:false },
-  Moon:      { mass:0.2,  size:8,  v_fixed:5.77, ideal_dist:150, color:'#aaaaaa', isAnchor:false },
-  ISS:       { mass:0.01, size:5,  v_fixed:6.45, ideal_dist:120, color:'#88ddff', isAnchor:false },
-  Photon:    { mass:0.001,size:3,  v_fixed:0,    ideal_dist:0,   color:'#ffffff', isAnchor:false, isPhoton:true }
+  Sun:       { mass:5000, size:55, v_fixed:0,    ideal_dist:0,   color:'#ffdd22', isAnchor:true },
+  BlackHole: { mass:5000, size:12,  v_fixed:0,    ideal_dist:0,   color:'#8800cc', isAnchor:true },
+  Earth:     { mass:1.5,  size:20, v_fixed:5.0,  ideal_dist:200, color:'#4488ff', isAnchor:false },
+  Jupiter:   { mass:5,    size:34, v_fixed:4.08, ideal_dist:300, color:'#ff9944', isAnchor:false },
+  Moon:      { mass:0.2,  size:14,  v_fixed:5.77, ideal_dist:150, color:'#aaaaaa', isAnchor:false },
+  ISS:       { mass:0.01, size:10,  v_fixed:6.45, ideal_dist:120, color:'#88ddff', isAnchor:false },
+  Photon:    { mass:0.001,size:5,  v_fixed:0,    ideal_dist:0,   color:'#ffffff', isAnchor:false, isPhoton:true }
 };
 
 // ============================================================
@@ -217,10 +217,12 @@ function showStep(step) {
     stepHintEl.style.display = 'none';
   } else if (step === 3) {
     walkthroughEl.style.display = 'none';
+    walkthroughEl.innerHTML = '';
     document.getElementById('info-bar').style.display = 'flex';
     document.getElementById('top-controls').style.display = 'flex';
     stepHintEl.style.display = 'block';
     stepHintEl.innerHTML = 'Click to place <b style="color:' + PRESETS[selectedPreset].color + '">' + selectedPreset + '</b> — hold to grow';
+    return;
   }
   walkthroughEl.innerHTML = html;
 }
