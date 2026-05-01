@@ -446,77 +446,101 @@ cv.addEventListener('touchend', onUp, { passive: false });
 // ============================================================
 //  PHYSICS
 // ============================================================
+function computeAccel(obj, allObjects, idx) {
+  // Calculate gravitational acceleration on obj from all other objects
+  var ax = 0, ay = 0;
+  for (var j = 0; j < allObjects.length; j++) {
+    if (j === idx || !allObjects[j].alive) continue;
+    var s = allObjects[j];
+    var dx = s.x - obj.x, dy = s.y - obj.y;
+    var dist = Math.sqrt(dx * dx + dy * dy);
+    if (dist < 2) continue;
+    var a = G * s.mass / (dist * dist);
+    // Cap anchor movement
+    if (obj.isAnchor) a = Math.min(a, 0.01);
+    else a = Math.min(a, 2);
+    ax += a * (dx / dist);
+    ay += a * (dy / dist);
+  }
+  return { ax: ax, ay: ay };
+}
+
 function physicsStep() {
   if (!simRunning) return;
+
+  var dt = 1.0; // timestep
+  var damp = dragEnabled ? 0.9999 : 1.0;
 
   for (var i = 0; i < objects.length; i++) {
     var obj = objects[i];
     if (!obj.alive || obj === draggingObj) continue;
 
-    if (obj.isAnchor) {
-      // Anchor barely moves — apply tiny gravity from orbiters
-      var ax = 0, ay = 0;
-      for (var j = 0; j < objects.length; j++) {
-        if (j === i || !objects[j].alive) continue;
-        var s = objects[j];
-        var ddx = s.x - obj.x, ddy = s.y - obj.y;
-        var dd = Math.sqrt(ddx * ddx + ddy * ddy);
-        if (dd > 1) {
-          var a = G * s.mass / (dd * dd);
-          a = Math.min(a, 0.01); // cap anchor movement
-          ax += a * (ddx / dd);
-          ay += a * (ddy / dd);
-        }
-      }
-      obj.vx += ax; obj.vy += ay;
-      if (dragEnabled) { obj.vx *= 0.9999; obj.vy *= 0.9999; }
-      obj.x += obj.vx; obj.y += obj.vy;
-      continue;
-    }
-
     if (obj.isPhoton) {
-      // Photon: constant speed, direction changes by gravity
-      var ax2 = 0, ay2 = 0;
-      for (var j2 = 0; j2 < objects.length; j2++) {
-        if (j2 === i || !objects[j2].alive) continue;
-        var s2 = objects[j2];
-        var ddx2 = s2.x - obj.x, ddy2 = s2.y - obj.y;
-        var dd2 = Math.sqrt(ddx2 * ddx2 + ddy2 * ddy2);
-        if (dd2 > 1) {
-          var a2 = G * s2.mass / (dd2 * dd2);
-          ax2 += a2 * (ddx2 / dd2);
-          ay2 += a2 * (ddy2 / dd2);
-        }
-      }
-      obj.vx += ax2; obj.vy += ay2;
-      // Normalize to constant speed
+      // Photon: simple Euler is fine (constant speed, only direction changes)
+      var pa = computeAccel(obj, objects, i);
+      obj.vx += pa.ax * dt;
+      obj.vy += pa.ay * dt;
       var spd = Math.sqrt(obj.vx * obj.vx + obj.vy * obj.vy);
       if (spd > 0) { obj.vx = (obj.vx / spd) * 4.0; obj.vy = (obj.vy / spd) * 4.0; }
-      obj.x += obj.vx; obj.y += obj.vy;
+      obj.x += obj.vx * dt;
+      obj.y += obj.vy * dt;
       continue;
     }
 
-    // Normal orbiter
-    var ax3 = 0, ay3 = 0;
-    for (var j3 = 0; j3 < objects.length; j3++) {
-      if (j3 === i || !objects[j3].alive) continue;
-      var s3 = objects[j3];
-      var ddx3 = s3.x - obj.x, ddy3 = s3.y - obj.y;
-      var dd3 = Math.sqrt(ddx3 * ddx3 + ddy3 * ddy3);
-      if (dd3 > 1) {
-        var a3 = G * s3.mass / (dd3 * dd3);
-        a3 = Math.min(a3, 2); // cap at 2 to prevent explosions
-        ax3 += a3 * (ddx3 / dd3);
-        ay3 += a3 * (ddy3 / dd3);
-      }
-    }
-    obj.vx += ax3; obj.vy += ay3;
-    var damp = dragEnabled ? 0.9999 : 1.0;
-    obj.vx *= damp; obj.vy *= damp;
-    obj.x += obj.vx; obj.y += obj.vy;
+    // ── RK4 Integration ──
+    // Save initial state
+    var x0 = obj.x, y0 = obj.y, vx0 = obj.vx, vy0 = obj.vy;
+
+    // k1: acceleration at current position
+    var k1 = computeAccel(obj, objects, i);
+    var k1vx = k1.ax, k1vy = k1.ay;
+
+    // k2: acceleration at half-step using k1
+    obj.x = x0 + vx0 * dt * 0.5;
+    obj.y = y0 + vy0 * dt * 0.5;
+    obj.vx = vx0 + k1vx * dt * 0.5;
+    obj.vy = vy0 + k1vy * dt * 0.5;
+    var k2 = computeAccel(obj, objects, i);
+    var k2vx = k2.ax, k2vy = k2.ay;
+
+    // k3: acceleration at half-step using k2
+    obj.x = x0 + (vx0 + k1vx * dt * 0.5) * dt * 0.5;
+    obj.y = y0 + (vy0 + k1vy * dt * 0.5) * dt * 0.5;
+    obj.vx = vx0 + k2vx * dt * 0.5;
+    obj.vy = vy0 + k2vy * dt * 0.5;
+    var k3 = computeAccel(obj, objects, i);
+    var k3vx = k3.ax, k3vy = k3.ay;
+
+    // k4: acceleration at full step using k3
+    obj.x = x0 + (vx0 + k2vx * dt * 0.5) * dt;
+    obj.y = y0 + (vy0 + k2vy * dt * 0.5) * dt;
+    obj.vx = vx0 + k3vx * dt;
+    obj.vy = vy0 + k3vy * dt;
+    var k4 = computeAccel(obj, objects, i);
+    var k4vx = k4.ax, k4vy = k4.ay;
+
+    // Combine: weighted average of the 4 evaluations
+    var avgAx = (k1vx + 2 * k2vx + 2 * k3vx + k4vx) / 6;
+    var avgAy = (k1vy + 2 * k2vy + 2 * k3vy + k4vy) / 6;
+
+    // Update velocity
+    obj.vx = (vx0 + avgAx * dt) * damp;
+    obj.vy = (vy0 + avgAy * dt) * damp;
+
+    // Update position using average velocity (more accurate than Euler)
+    var avgVx = vx0 + avgAx * dt * 0.5;
+    var avgVy = vy0 + avgAy * dt * 0.5;
+    obj.x = x0 + avgVx * dt;
+    obj.y = y0 + avgVy * dt;
+
+    // Wall boundaries
+    if (obj.x < obj.size) { obj.x = obj.size; obj.vx *= -0.3; }
+    if (obj.x > W - obj.size) { obj.x = W - obj.size; obj.vx *= -0.3; }
+    if (obj.y < obj.size) { obj.y = obj.size; obj.vy *= -0.3; }
+    if (obj.y > H - obj.size) { obj.y = H - obj.size; obj.vy *= -0.3; }
   }
 
-  // Mergers: when surfaces touch, smaller absorbed
+    // Mergers: when surfaces touch, smaller absorbed
   for (var a = 0; a < objects.length; a++) {
     if (!objects[a].alive) continue;
     for (var b = a + 1; b < objects.length; b++) {
