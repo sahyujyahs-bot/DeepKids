@@ -1847,10 +1847,14 @@
           sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId);
           if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
           if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
-          msg.textContent = '✓ Payment successful! Order confirmed. We\'ll WhatsApp you with shipping updates.';
-          msg.className = 'po-msg success';
-          form.reset();
-          setTimeout(closePreOrderModal, 3500);
+          // Redirect to confirmation page with order details
+          var params = new URLSearchParams({
+            name: name,
+            phone: fullNumber,
+            address: fullAddress,
+            payment_id: paymentId
+          });
+          window.location.href = '/order-confirmed.html?' + params.toString();
         },
         modal: {
           ondismiss: function() {
