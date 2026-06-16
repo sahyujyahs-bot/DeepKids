@@ -745,6 +745,8 @@
     }
 
   </style>
+  <!-- Razorpay Checkout -->
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 </head>
 <body>
 
@@ -1678,88 +1680,96 @@
     function submitPreOrder(e) {
       e.preventDefault();
       var form = e.target;
-      var cc = form.querySelector('#po-cc').value.trim();
-      var phone = form.querySelector('#po-phone').value.trim();
-      var name = form.querySelector('#po-name').value.trim();
-      var msg = document.getElementById('po-msg');
+      var cc      = form.querySelector('#po-cc').value.trim();
+      var phone   = form.querySelector('#po-phone').value.trim();
+      var name    = form.querySelector('#po-name').value.trim();
+      var address = form.querySelector('#po-address').value.trim();
+      var city    = form.querySelector('#po-city').value.trim();
+      var pincode = form.querySelector('#po-pincode').value.trim();
+      var state   = form.querySelector('#po-state').value.trim();
+      var msg     = document.getElementById('po-msg');
       msg.textContent = '';
       msg.className = 'po-msg';
 
-      // Validation
       var digits = phone.replace(/\D/g, '');
       if (!cc.match(/^\+?\d{1,4}$/)) {
-        msg.textContent = 'Please enter a valid country code (e.g. +91, +1).';
-        msg.classList.add('err');
-        return false;
+        msg.textContent = 'Please enter a valid country code (e.g. +91).';
+        msg.classList.add('err'); return false;
       }
       if (digits.length < 7 || digits.length > 15) {
-        msg.textContent = 'Please enter a valid phone number (7–15 digits).';
-        msg.classList.add('err');
-        return false;
+        msg.textContent = 'Please enter a valid phone number.';
+        msg.classList.add('err'); return false;
       }
-      if (!name) {
-        msg.textContent = 'Please enter your name.';
-        msg.classList.add('err');
-        return false;
+      if (!name || !address || !city || !pincode || !state) {
+        msg.textContent = 'Please fill in all fields.';
+        msg.classList.add('err'); return false;
       }
 
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
+      var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
 
-      // Save to localStorage as backup
-      try {
-        var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
-        preorders.push({ name: name, whatsapp: fullNumber, ts: new Date().toISOString() });
-        localStorage.setItem('eg-preorders', JSON.stringify(preorders));
-      } catch (e) {}
+      var options = {
+        key: 'rzp_test_T2O8bhsjDFP1aF',
+        amount: 250000,
+        currency: 'INR',
+        name: 'DeepKids',
+        description: 'EscapeGravity Pre-Order',
+        image: 'https://deepkids.in/apple-touch-icon.png',
+        prefill: { name: name, contact: fullNumber },
+        theme: { color: '#6b2155' },
+        handler: function(response) {
+          var paymentId = response.razorpay_payment_id;
 
-      // Submit to FormSubmit (free email forwarding service)
-      // NOTE: First submission goes to a confirmation email — click the link
-      // in that email to activate forwarding. After that, all submissions
-      // arrive in your inbox automatically.
-      var data = new FormData();
-      data.append('name', name);
-      data.append('whatsapp', fullNumber);
-      var gp = typeof window.getGravityPoints === 'function' ? window.getGravityPoints() : 0;
-      data.append('signup_type', 'Pre-Order');
-      data.append('gravity_points', gp);
-      data.append('_subject', 'EscapeGravity Interest: ' + name + ' (' + gp + ' pts)');
-      data.append('_template', 'table');
-      data.append('_captcha', 'false');
+          // Save to localStorage
+          try {
+            var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
+            preorders.push({ name: name, whatsapp: fullNumber, address: fullAddress, payment_id: paymentId, ts: new Date().toISOString() });
+            localStorage.setItem('eg-preorders', JSON.stringify(preorders));
+          } catch(ex) {}
 
-      msg.textContent = 'Submitting…';
-      msg.classList.remove('err');
-      var submitBtn = form.querySelector('button[type="submit"]');
-      if (submitBtn) submitBtn.disabled = true;
+          // Email via FormSubmit
+          var data = new FormData();
+          data.append('name', name);
+          data.append('whatsapp', fullNumber);
+          data.append('address', fullAddress);
+          data.append('razorpay_payment_id', paymentId);
+          data.append('amount', '₹2,500');
+          data.append('_subject', 'EscapeGravity Pre-Order PAID: ' + name + ' | ' + paymentId);
+          data.append('_template', 'table');
+          data.append('_captcha', 'false');
+          fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
+            method: 'POST',
+            headers: { 'Accept': 'application/json' },
+            body: data
+          }).catch(function(){});
 
-      fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
-        method: 'POST',
-        headers: { 'Accept': 'application/json' },
-        body: data
-      }).then(function(r) { return r.json(); }).then(function(d) {
-        var gpMsg = gp > 0 ? ' Your ' + gp + ' Gravity Points (₹' + gp + ' discount) are saved!' : '';
-        msg.textContent = '✓ Thanks! We\'ll WhatsApp you with updates.' + gpMsg;
-        if (typeof gtag === 'function') gtag('event', 'preorder_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
-        if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'preorder' });
-        msg.className = 'po-msg success';
-        form.reset();
-        setTimeout(closePreOrderModal, 2800);
-      }).catch(function() {
-        msg.textContent = 'Saved locally. We\'ll reach you when we open pre-orders.';
-        msg.className = 'po-msg success';
-        setTimeout(closePreOrderModal, 2800);
-      }).finally(function() {
-        if (submitBtn) submitBtn.disabled = false;
-      });
+          // Google Sheet (parallel)
+          try {
+            fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
+              method: 'POST', mode: 'no-cors',
+              headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+              body: 'entry.1636497169=' + encodeURIComponent(name) + '&entry.1301511467=' + encodeURIComponent(fullNumber) + '&entry.1152692251=Pre-Order-Paid'
+            }).catch(function(){});
+          } catch(ex) {}
 
-      // Save to Google Sheet via Google Forms (runs in parallel, always)
-      try {
-        fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
-          method: 'POST', mode: 'no-cors',
-          headers: {'Content-Type': 'application/x-www-form-urlencoded'},
-          body: 'entry.1636497169=' + encodeURIComponent(name) + '&entry.1301511467=' + encodeURIComponent(fullNumber) + '&entry.1152692251=Pre-Order'
-        }).catch(function(){});
-      } catch(ex) {}
+          if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2500, 'currency': 'INR' }); }
+          if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2500, currency: 'INR', content_name: 'EscapeGravity' });
 
+          msg.textContent = '✓ Payment successful! Order confirmed. We\'ll WhatsApp you with shipping updates.';
+          msg.className = 'po-msg success';
+          form.reset();
+          setTimeout(closePreOrderModal, 3500);
+        },
+        modal: {
+          ondismiss: function() {
+            msg.textContent = 'Payment cancelled. Try again when ready!';
+            msg.className = 'po-msg err';
+          }
+        }
+      };
+
+      var rzp = new Razorpay(options);
+      rzp.open();
       return false;
     }
     function submitPlayTest(e) {
@@ -1835,7 +1845,7 @@
       <img src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
-    <p class="po-subtitle">Be among the first to play <strong>EscapeGravity</strong>. Drop your details and we'll beam you a message when it's time to launch!</p>
+    <p class="po-subtitle">Pre-order <strong>EscapeGravity</strong> for ₹2,500. We'll ship to your door!</p>
     <form class="po-form" onsubmit="return submitPreOrder(event)">
       <label class="po-field">
         <span>Your Name</span>
@@ -1848,8 +1858,26 @@
           <input type="tel" id="po-phone" placeholder="98765 43210" required maxlength="20" inputmode="tel">
         </div>
       </label>
+      <label class="po-field">
+        <span>Delivery Address</span>
+        <input type="text" id="po-address" placeholder="Flat / House No., Street, Area" required maxlength="120">
+      </label>
+      <div class="po-city-row">
+        <label class="po-field">
+          <span>City</span>
+          <input type="text" id="po-city" placeholder="Mumbai" required maxlength="60">
+        </label>
+        <label class="po-field">
+          <span>Pincode</span>
+          <input type="text" id="po-pincode" placeholder="400001" required maxlength="10" inputmode="numeric">
+        </label>
+      </div>
+      <label class="po-field">
+        <span>State</span>
+        <input type="text" id="po-state" placeholder="Maharashtra" required maxlength="60">
+      </label>
       <div id="po-msg" class="po-msg"></div>
-      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Notify Me">
+      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Pay and Pre-Order">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <linearGradient id="dk-green-grad3" x1="0" y1="0" x2="0" y2="1">
@@ -1873,11 +1901,10 @@
           <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
-        <span class="btn-label">Count Me In!</span>
+        <span class="btn-label">Pay ₹2,500 & Pre-Order</span>
       </button>
-      <p class="no-pay-tag" style="margin-top:10px;">No Payment Needed</p>
     </form>
-    <p class="po-privacy">📱 We'll only ping you about the launch. Zero spam, full gravity.</p>
+    <p class="po-privacy">🔒 Secure payment via Razorpay. Your details are safe with us.</p>
   </div>
 </div>
 
@@ -2078,6 +2105,16 @@
 }
 .po-phone-row input:last-child {
   flex: 1;
+}
+.po-city-row {
+  display: flex;
+  gap: 10px;
+}
+.po-city-row .po-field {
+  flex: 1;
+}
+.po-city-row .po-field:last-child {
+  flex: 0 0 110px;
 }
 .po-msg {
   min-height: 20px;
