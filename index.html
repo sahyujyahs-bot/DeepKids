@@ -3365,35 +3365,43 @@
   <div class="gallery-grid eg-fade-in">
     <!-- Photo 1 -->
     <div class="gallery-item">
-      <div class="gallery-placeholder"><span>📸 Photo 1</span></div>
+      <img src="IMG-20260614-WA0000.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
     </div>
     <!-- Photo 2 -->
     <div class="gallery-item">
-      <div class="gallery-placeholder"><span>📸 Photo 2</span></div>
+      <img src="IMG-20260614-WA0022.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
     </div>
     <!-- Video 1 -->
     <div class="gallery-item gallery-item--wide">
-      <div class="gallery-placeholder gallery-placeholder--video"><span>▶ Video 1</span></div>
+      <video class="gallery-img" controls playsinline preload="none" poster="">
+        <source src="VID-20260614-WA0009.mp4" type="video/mp4">
+      </video>
     </div>
     <!-- Photo 3 -->
     <div class="gallery-item">
-      <div class="gallery-placeholder"><span>📸 Photo 3</span></div>
+      <img src="IMG-20260614-WA0023.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
     </div>
     <!-- Photo 4 -->
     <div class="gallery-item">
-      <div class="gallery-placeholder"><span>📸 Photo 4</span></div>
-    </div>
-    <!-- Photo 5 -->
-    <div class="gallery-item">
-      <div class="gallery-placeholder"><span>📸 Photo 5</span></div>
+      <img src="IMG-20260614-WA0031.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
     </div>
     <!-- Video 2 -->
     <div class="gallery-item gallery-item--wide">
-      <div class="gallery-placeholder gallery-placeholder--video"><span>▶ Video 2</span></div>
+      <video class="gallery-img" controls playsinline preload="none">
+        <source src="VID-20260614-WA0010.mp4" type="video/mp4">
+      </video>
     </div>
-    <!-- Photo 6 -->
-    <div class="gallery-item">
-      <div class="gallery-placeholder"><span>📸 Photo 6</span></div>
+    <!-- Video 3 -->
+    <div class="gallery-item gallery-item--wide">
+      <video class="gallery-img" controls playsinline preload="none">
+        <source src="VID-20260614-WA0025.mp4" type="video/mp4">
+      </video>
+    </div>
+    <!-- Video 4 -->
+    <div class="gallery-item gallery-item--wide">
+      <video class="gallery-img" controls playsinline preload="none">
+        <source src="VID-20260614-WA0027.mp4" type="video/mp4">
+      </video>
     </div>
   </div>
 </section>
@@ -3422,6 +3430,13 @@
   }
   .gallery-placeholder--video { aspect-ratio: 16/9; }
   .gallery-placeholder span { pointer-events: none; }
+  .gallery-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+    display: block;
+  }
   @media (max-width: 700px) {
     .gallery-grid { grid-template-columns: 1fr 1fr; }
     .gallery-item--wide { grid-column: span 2; }
