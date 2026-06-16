@@ -1689,6 +1689,46 @@
     function closePreOrderModal() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.remove('show');
+      // If they filled details but never clicked Pay Now, capture it
+      var name = (document.getElementById('po-name') || {}).value || '';
+      var phone = (document.getElementById('po-phone') || {}).value || '';
+      var cc = (document.getElementById('po-cc') || {}).value || '+91';
+      if (name.trim() && phone.trim()) {
+        var digits = phone.replace(/\D/g, '');
+        var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
+        var address = (document.getElementById('po-address') || {}).value || '';
+        var city = (document.getElementById('po-city') || {}).value || '';
+        var pincode = (document.getElementById('po-pincode') || {}).value || '';
+        var state = (document.getElementById('po-state') || {}).value || '';
+        var fullAddress = [address, city, pincode, state].filter(Boolean).join(', ');
+        sendLeadData(name.trim(), fullNumber, fullAddress, 'Closed Without Paying', '');
+      }
+    }
+    function sendLeadData(name, whatsapp, address, status, paymentId) {
+      // Email
+      var data = new FormData();
+      data.append('name', name);
+      data.append('whatsapp', whatsapp);
+      data.append('address', address || '—');
+      data.append('payment_status', status);
+      if (paymentId) data.append('razorpay_payment_id', paymentId);
+      data.append('amount', '₹2,499');
+      data.append('_subject', 'EscapeGravity Pre-Order [' + status + ']: ' + name);
+      data.append('_template', 'table');
+      data.append('_captcha', 'false');
+      fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
+        method: 'POST', headers: { 'Accept': 'application/json' }, body: data
+      }).catch(function(){});
+      // Google Sheet
+      try {
+        fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
+          method: 'POST', mode: 'no-cors',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: 'entry.1636497169=' + encodeURIComponent(name) +
+                '&entry.1301511467=' + encodeURIComponent(whatsapp) +
+                '&entry.1152692251=' + encodeURIComponent('Pre-Order: ' + status)
+        }).catch(function(){});
+      } catch(ex) {}
     }
     function openPlayTest() {
       var modal = document.getElementById('playtest-modal');
@@ -1742,42 +1782,14 @@
         theme: { color: '#6b2155' },
         handler: function(response) {
           var paymentId = response.razorpay_payment_id;
-
-          // Save to localStorage
           try {
             var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
             preorders.push({ name: name, whatsapp: fullNumber, address: fullAddress, payment_id: paymentId, ts: new Date().toISOString() });
             localStorage.setItem('eg-preorders', JSON.stringify(preorders));
           } catch(ex) {}
-
-          // Email via FormSubmit
-          var data = new FormData();
-          data.append('name', name);
-          data.append('whatsapp', fullNumber);
-          data.append('address', fullAddress);
-          data.append('razorpay_payment_id', paymentId);
-          data.append('amount', '₹2,499');
-          data.append('_subject', 'EscapeGravity Pre-Order PAID: ' + name + ' | ' + paymentId);
-          data.append('_template', 'table');
-          data.append('_captcha', 'false');
-          fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
-            method: 'POST',
-            headers: { 'Accept': 'application/json' },
-            body: data
-          }).catch(function(){});
-
-          // Google Sheet (parallel)
-          try {
-            fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
-              method: 'POST', mode: 'no-cors',
-              headers: {'Content-Type': 'application/x-www-form-urlencoded'},
-              body: 'entry.1636497169=' + encodeURIComponent(name) + '&entry.1301511467=' + encodeURIComponent(fullNumber) + '&entry.1152692251=Pre-Order-Paid'
-            }).catch(function(){});
-          } catch(ex) {}
-
-          if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2500, 'currency': 'INR' }); }
-          if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2500, currency: 'INR', content_name: 'EscapeGravity' });
-
+          sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId);
+          if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
+          if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
           msg.textContent = '✓ Payment successful! Order confirmed. We\'ll WhatsApp you with shipping updates.';
           msg.className = 'po-msg success';
           form.reset();
@@ -1785,18 +1797,20 @@
         },
         modal: {
           ondismiss: function() {
+            sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
             msg.textContent = 'Payment cancelled. Try again when ready!';
             msg.className = 'po-msg err';
           }
         }
       };
 
-      // Fire "Pay Now" click events before opening Razorpay
+      // Pay Now clicked — send details with "Payment Initiated" status
+      sendLeadData(name, fullNumber, fullAddress, 'Payment Initiated', '');
       if (typeof gtag === 'function') {
-        gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2500, currency: 'INR' });
-        gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2500, 'currency': 'INR' });
+        gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
+        gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
       }
-      if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2500, currency: 'INR', content_name: 'EscapeGravity' });
+      if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
 
       var rzp = new Razorpay(options);
       rzp.open();
