@@ -1768,6 +1768,13 @@
         }
       };
 
+      // Fire "Pay Now" click events before opening Razorpay
+      if (typeof gtag === 'function') {
+        gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2500, currency: 'INR' });
+        gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2500, 'currency': 'INR' });
+      }
+      if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2500, currency: 'INR', content_name: 'EscapeGravity' });
+
       var rzp = new Razorpay(options);
       rzp.open();
       return false;
@@ -1877,7 +1884,8 @@
         <input type="text" id="po-state" placeholder="Maharashtra" required maxlength="60">
       </label>
       <div id="po-msg" class="po-msg"></div>
-      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Pay and Pre-Order">
+      <p class="po-price-label">Total: <strong>₹2,500</strong></p>
+      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Pay Now">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <linearGradient id="dk-green-grad3" x1="0" y1="0" x2="0" y2="1">
@@ -1901,7 +1909,7 @@
           <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
-        <span class="btn-label">Pay ₹2,500 & Pre-Order</span>
+        <span class="btn-label">Pay Now</span>
       </button>
     </form>
     <p class="po-privacy">🔒 Secure payment via Razorpay. Your details are safe with us.</p>
@@ -2105,6 +2113,16 @@
 }
 .po-phone-row input:last-child {
   flex: 1;
+}
+.po-price-label {
+  text-align: center;
+  font-size: 18px;
+  color: #c0e638;
+  margin: 8px 0 4px;
+  letter-spacing: 0.02em;
+}
+.po-price-label strong {
+  font-size: 22px;
 }
 .po-city-row {
   display: flex;
