@@ -3371,34 +3371,47 @@
     </div>
     <!-- Right col: videos -->
     <div class="gallery-videos">
-      <div class="gallery-video-item">
-        <video controls playsinline preload="metadata" class="gv">
+      <div class="gallery-video-item" onclick="playGalleryVideo(this)">
+        <video playsinline preload="metadata" class="gv">
           <source src="VID-20260614-WA0009.mp4" type="video/mp4">
         </video>
+        <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
       </div>
-      <div class="gallery-video-item">
-        <video controls playsinline preload="metadata" class="gv">
+      <div class="gallery-video-item" onclick="playGalleryVideo(this)">
+        <video playsinline preload="metadata" class="gv">
           <source src="VID-20260614-WA0010.mp4" type="video/mp4">
         </video>
+        <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
       </div>
-      <div class="gallery-video-item">
-        <video controls playsinline preload="metadata" class="gv">
+      <div class="gallery-video-item" onclick="playGalleryVideo(this)">
+        <video playsinline preload="metadata" class="gv">
           <source src="VID-20260614-WA0025.mp4" type="video/mp4">
         </video>
+        <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
       </div>
-      <div class="gallery-video-item">
-        <video controls playsinline preload="metadata" class="gv">
+      <div class="gallery-video-item" onclick="playGalleryVideo(this)">
+        <video playsinline preload="metadata" class="gv">
           <source src="VID-20260614-WA0027.mp4" type="video/mp4">
         </video>
+        <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
       </div>
     </div>
   </div>
 </section>
 <script>
-  // Show a real frame instead of black screen on all gallery videos
   document.querySelectorAll('.gv').forEach(function(v) {
     v.addEventListener('loadedmetadata', function() { v.currentTime = 1; });
   });
+  function playGalleryVideo(item) {
+    var v = item.querySelector('video');
+    var btn = item.querySelector('.gv-play');
+    if (!v) return;
+    v.controls = true;
+    btn.style.display = 'none';
+    item.onclick = null;
+    v.currentTime = 0;
+    v.play();
+  }
 </script>
 <style>
   #s-gallery {
@@ -3450,17 +3463,28 @@
     overflow: hidden;
     background: #000;
     min-height: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    position: relative;
+    cursor: pointer;
   }
   .gv {
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
     display: block;
     border-radius: 12px;
+    pointer-events: none;
   }
+  .gallery-video-item video[controls] { pointer-events: auto; }
+  .gv-play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: clamp(36px, 5vw, 56px);
+    pointer-events: none;
+    transition: transform 0.15s;
+  }
+  .gallery-video-item:hover .gv-play { transform: translate(-50%, -50%) scale(1.12); }
   @media (max-width: 700px) {
     #s-gallery { height: auto; }
     .gallery-grid { grid-template-columns: 1fr; }
