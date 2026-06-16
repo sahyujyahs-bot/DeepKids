@@ -3358,88 +3358,113 @@
 })();
 </script>
 <!-- ═══════════════════════════════════════════════ S-GALLERY ══ -->
-<section id="s-gallery" class="eg-section">
+<section id="s-gallery">
   <h2 class="page-h2 eg-fade-in">Kids Playing EscapeGravity</h2>
-  <p class="eg-fade-in" style="font-family:'Futura',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Real kids. Real fun. Real science happening.</p>
-
+  <p class="gallery-sub eg-fade-in">Real kids. Real fun. Real science happening.</p>
   <div class="gallery-grid eg-fade-in">
-    <!-- Photo 1 -->
-    <div class="gallery-item">
-      <img src="IMG-20260614-WA0000.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
+    <!-- Left col: photos -->
+    <div class="gallery-photos">
+      <div class="gallery-photo-item"><img src="IMG-20260614-WA0000.jpg" alt="Kids playing EscapeGravity" loading="lazy"></div>
+      <div class="gallery-photo-item"><img src="IMG-20260614-WA0022.jpg" alt="Kids playing EscapeGravity" loading="lazy"></div>
+      <div class="gallery-photo-item"><img src="IMG-20260614-WA0023.jpg" alt="Kids playing EscapeGravity" loading="lazy"></div>
+      <div class="gallery-photo-item"><img src="IMG-20260614-WA0031.jpg" alt="Kids playing EscapeGravity" loading="lazy"></div>
     </div>
-    <!-- Photo 2 -->
-    <div class="gallery-item">
-      <img src="IMG-20260614-WA0022.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
-    </div>
-    <!-- Video 1 -->
-    <div class="gallery-item gallery-item--wide">
-      <video class="gallery-img" controls playsinline preload="none" poster="">
-        <source src="VID-20260614-WA0009.mp4" type="video/mp4">
-      </video>
-    </div>
-    <!-- Photo 3 -->
-    <div class="gallery-item">
-      <img src="IMG-20260614-WA0023.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
-    </div>
-    <!-- Photo 4 -->
-    <div class="gallery-item">
-      <img src="IMG-20260614-WA0031.jpg" alt="Kids playing EscapeGravity" class="gallery-img" loading="lazy">
-    </div>
-    <!-- Video 2 -->
-    <div class="gallery-item gallery-item--wide">
-      <video class="gallery-img" controls playsinline preload="none">
-        <source src="VID-20260614-WA0010.mp4" type="video/mp4">
-      </video>
-    </div>
-    <!-- Video 3 -->
-    <div class="gallery-item gallery-item--wide">
-      <video class="gallery-img" controls playsinline preload="none">
-        <source src="VID-20260614-WA0025.mp4" type="video/mp4">
-      </video>
-    </div>
-    <!-- Video 4 -->
-    <div class="gallery-item gallery-item--wide">
-      <video class="gallery-img" controls playsinline preload="none">
-        <source src="VID-20260614-WA0027.mp4" type="video/mp4">
-      </video>
+    <!-- Right col: videos -->
+    <div class="gallery-videos">
+      <div class="gallery-video-item">
+        <video controls playsinline preload="metadata" class="gv">
+          <source src="VID-20260614-WA0009.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="gallery-video-item">
+        <video controls playsinline preload="metadata" class="gv">
+          <source src="VID-20260614-WA0010.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="gallery-video-item">
+        <video controls playsinline preload="metadata" class="gv">
+          <source src="VID-20260614-WA0025.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="gallery-video-item">
+        <video controls playsinline preload="metadata" class="gv">
+          <source src="VID-20260614-WA0027.mp4" type="video/mp4">
+        </video>
+      </div>
     </div>
   </div>
 </section>
+<script>
+  // Show a real frame instead of black screen on all gallery videos
+  document.querySelectorAll('.gv').forEach(function(v) {
+    v.addEventListener('loadedmetadata', function() { v.currentTime = 1; });
+  });
+</script>
 <style>
-  #s-gallery { padding: clamp(50px,7vh,90px) clamp(16px,5vw,80px); }
+  #s-gallery {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: clamp(24px,4vh,48px) clamp(16px,4vw,60px) clamp(16px,3vh,32px);
+    box-sizing: border-box;
+  }
+  .gallery-sub {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(14px,1.5vw,19px);
+    color: rgba(255,255,255,0.6);
+    text-align: center;
+    margin: 0 auto clamp(12px,2vh,24px);
+  }
   .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 16px;
-    max-width: 1100px;
-    margin: 0 auto;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    flex: 1;
+    min-height: 0;
   }
-  .gallery-item--wide { grid-column: span 2; }
-  .gallery-placeholder {
-    background: rgba(255,255,255,0.06);
-    border: 2px dashed rgba(192,230,56,0.35);
-    border-radius: 14px;
-    aspect-ratio: 4/3;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: rgba(255,255,255,0.35);
-    font-family: 'Futura', sans-serif;
-    font-size: 18px;
-    transition: background 0.2s;
+  .gallery-photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    min-height: 0;
   }
-  .gallery-placeholder--video { aspect-ratio: 16/9; }
-  .gallery-placeholder span { pointer-events: none; }
-  .gallery-img {
+  .gallery-photo-item {
+    border-radius: 12px;
+    overflow: hidden;
+    min-height: 0;
+  }
+  .gallery-photo-item img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    border-radius: 14px;
     display: block;
   }
+  .gallery-videos {
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px;
+    min-height: 0;
+  }
+  .gallery-video-item {
+    border-radius: 12px;
+    overflow: hidden;
+    background: #000;
+    min-height: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .gv {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+    border-radius: 12px;
+  }
   @media (max-width: 700px) {
-    .gallery-grid { grid-template-columns: 1fr 1fr; }
-    .gallery-item--wide { grid-column: span 2; }
+    #s-gallery { height: auto; }
+    .gallery-grid { grid-template-columns: 1fr; }
+    .gallery-videos { grid-template-rows: auto; }
   }
 </style>
 
