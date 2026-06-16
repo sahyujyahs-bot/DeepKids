@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Blog — Science, Learning & Play | DeepKids</title>
+  <meta name="description" content="Articles on science education, educational board games, teaching kids physics at home, and STEM learning — by the makers of EscapeGravity."/>
+  <meta name="keywords" content="science board games blog, educational games India, teach kids science, STEM learning, DeepKids blog"/>
+  <link rel="canonical" href="https://deepkids.in/blog.html"/>
+  <link rel="icon" href="/favicon.ico"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="Blog — Science, Learning & Play | DeepKids"/>
+  <meta property="og:description" content="Articles on science education, educational board games, and teaching kids physics — by the makers of EscapeGravity."/>
+  <meta property="og:image" content="https://deepkids.in/spiral-board-display.webp"/>
+  <meta property="og:url" content="https://deepkids.in/blog.html"/>
+  <meta name="robots" content="index, follow"/>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "DeepKids Blog",
+    "description": "Articles on science education, educational board games, and teaching kids physics at home.",
+    "url": "https://deepkids.in/blog.html",
+    "publisher": { "@type": "Organization", "name": "DeepKids", "logo": { "@type": "ImageObject", "url": "https://deepkids.in/apple-touch-icon.png" } }
+  }
+  </script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0d0820; color: rgba(255,255,255,0.85); font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; line-height: 1.75; }
+    header {
+      background: rgba(255,255,255,0.04);
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      padding: 18px 40px;
+      display: flex; align-items: center; justify-content: space-between;
+      position: sticky; top: 0; z-index: 10; backdrop-filter: blur(8px);
+    }
+    header a.logo { font-family: 'Futura','Trebuchet MS',sans-serif; font-size: 20px; color: #c0e638; text-decoration: none; font-weight: bold; }
+    header a.cta { background: #c0e638; color: #0d0820; font-weight: bold; font-size: 14px; padding: 8px 18px; border-radius: 999px; text-decoration: none; }
+    header a.cta:hover { background: #9cbc14; }
+    .hero {
+      max-width: 860px; margin: 60px auto 0; padding: 0 24px 48px;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      text-align: center;
+    }
+    .tag { display: inline-block; background: rgba(192,230,56,0.12); border: 1px solid rgba(192,230,56,0.3); color: #c0e638; font-family: 'Futura',sans-serif; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; padding: 4px 12px; border-radius: 999px; margin-bottom: 18px; }
+    h1 { font-family: 'Futura','Trebuchet MS',sans-serif; font-size: clamp(28px,4vw,44px); color: #fff; margin-bottom: 14px; }
+    .hero p { color: rgba(255,255,255,0.55); font-size: 17px; max-width: 560px; margin: 0 auto; }
+    main { max-width: 860px; margin: 0 auto; padding: 48px 24px 80px; }
+    .posts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+    .post-card {
+      background: rgba(255,255,255,0.04);
+      border: 1.5px solid rgba(255,255,255,0.08);
+      border-radius: 18px;
+      overflow: hidden;
+      text-decoration: none;
+      display: flex; flex-direction: column;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .post-card:hover { border-color: rgba(192,230,56,0.4); transform: translateY(-3px); }
+    .post-card.featured { grid-column: span 2; flex-direction: row; }
+    .post-img {
+      width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;
+      background: rgba(255,255,255,0.04);
+    }
+    .post-card.featured .post-img { width: 45%; aspect-ratio: auto; flex-shrink: 0; }
+    .post-body { padding: 24px; display: flex; flex-direction: column; flex: 1; }
+    .post-category { font-family: 'Futura',sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: #c0e638; margin-bottom: 10px; }
+    .post-title { font-family: 'Futura','Trebuchet MS',sans-serif; font-size: clamp(17px,2vw,21px); color: #fff; line-height: 1.3; margin-bottom: 10px; }
+    .post-excerpt { font-size: 14px; color: rgba(255,255,255,0.55); line-height: 1.6; flex: 1; }
+    .post-meta { font-size: 12px; color: rgba(255,255,255,0.3); margin-top: 16px; }
+    .read-more { display: inline-flex; align-items: center; gap: 6px; margin-top: 16px; font-size: 14px; color: #c0e638; font-family: 'Futura',sans-serif; }
+    footer { text-align: center; padding: 24px; font-size: 13px; color: rgba(255,255,255,0.3); border-top: 1px solid rgba(255,255,255,0.07); }
+    footer a { color: rgba(255,255,255,0.4); text-decoration: none; margin: 0 8px; }
+    footer a:hover { color: #c0e638; }
+    @media (max-width: 640px) {
+      header { padding: 14px 20px; }
+      .posts-grid { grid-template-columns: 1fr; }
+      .post-card.featured { flex-direction: column; grid-column: span 1; }
+      .post-card.featured .post-img { width: 100%; aspect-ratio: 16/9; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <a class="logo" href="/">EscapeGravity</a>
+  <a class="cta" href="/#s1">Pre-Order — 50% Off</a>
+</header>
+
+<div class="hero">
+  <span class="tag">DeepKids Blog</span>
+  <h1>Science, Learning & Play</h1>
+  <p>Ideas, guides, and honest opinions on teaching kids science through games and hands-on play.</p>
+</div>
+
+<main>
+  <div class="posts-grid">
+
+    <!-- Featured post -->
+    <a class="post-card featured" href="/best-science-board-games-for-kids-india.html">
+      <img class="post-img" src="spiral-board-display.webp" alt="Best Science Board Games for Kids India" loading="lazy">
+      <div class="post-body">
+        <div class="post-category">Board Games</div>
+        <div class="post-title">Best Science Board Games for Kids in India (2026)</div>
+        <div class="post-excerpt">Looking for a science board game that actually teaches something? We review the top options available in India — with honest pros, cons, and who each one is really for.</div>
+        <div class="post-meta">June 2026 &nbsp;·&nbsp; 8 min read</div>
+        <span class="read-more">Read article →</span>
+      </div>
+    </a>
+
+    <!-- Post 2 -->
+    <a class="post-card" href="/educational-games-for-kids-india.html">
+      <img class="post-img" src="kit-items.webp" alt="Educational Games for Kids India" loading="lazy">
+      <div class="post-body">
+        <div class="post-category">Education</div>
+        <div class="post-title">Best Educational Games for Kids in India — Beyond Screens and Textbooks</div>
+        <div class="post-excerpt">Screen time is up. Attention spans are down. Here's how educational games are filling the gap — and which ones are actually worth buying.</div>
+        <div class="post-meta">June 2026 &nbsp;·&nbsp; 7 min read</div>
+        <span class="read-more">Read article →</span>
+      </div>
+    </a>
+
+    <!-- Post 3 -->
+    <a class="post-card" href="/how-to-teach-kids-physics-at-home.html">
+      <img class="post-img" src="Gravity Set 1 Do 1.png" alt="Teach Kids Physics at Home" loading="lazy">
+      <div class="post-body">
+        <div class="post-category">Science at Home</div>
+        <div class="post-title">How to Teach Kids Physics at Home — 7 Fun Activities That Actually Work</div>
+        <div class="post-excerpt">You don't need a lab. You need a table, a few household objects, and the willingness to drop things. Here are 7 physics activities kids love.</div>
+        <div class="post-meta">June 2026 &nbsp;·&nbsp; 6 min read</div>
+        <span class="read-more">Read article →</span>
+      </div>
+    </a>
+
+    <!-- Post 4 -->
+    <a class="post-card" href="/stem-toys-vs-board-games-for-kids.html">
+      <img class="post-img" src="Science Tiles Laptop.png" alt="STEM Toys vs Board Games" loading="lazy">
+      <div class="post-body">
+        <div class="post-category">STEM</div>
+        <div class="post-title">STEM Toys vs Board Games for Kids: Which is Better for Learning?</div>
+        <div class="post-excerpt">Both promise to make your child love science. One costs more, gets used once, and sits on a shelf. Here's the honest comparison.</div>
+        <div class="post-meta">June 2026 &nbsp;·&nbsp; 7 min read</div>
+        <span class="read-more">Read article →</span>
+      </div>
+    </a>
+
+  </div>
+</main>
+
+<footer>
+  &copy; 2026 DeepKids. All rights reserved.
+  <a href="/">Home</a>
+  <a href="/blog.html">Blog</a>
+  <a href="/privacy-policy.html">Privacy Policy</a>
+  <a href="/refund-policy.html">Refund Policy</a>
+</footer>
+</body>
+</html>
