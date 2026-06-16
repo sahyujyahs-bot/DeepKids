@@ -578,6 +578,29 @@
       margin-right: clamp(22px, 3.4vw, 42px);
       margin-top: -2px;
     }
+    .hero-offer-badge {
+      margin-top: 10px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: rgba(192,230,56,0.12);
+      border: 1.5px solid rgba(192,230,56,0.45);
+      border-radius: 999px;
+      padding: 5px 14px;
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(12px, 1.2vw, 15px);
+      color: #c0e638;
+      white-space: nowrap;
+    }
+    .hero-offer-mrp {
+      text-decoration: line-through;
+      opacity: 0.55;
+      color: #fff;
+    }
+    .hero-offer-price {
+      font-weight: bold;
+      color: #c0e638;
+    }
     .no-pay-tag {
       font-family: 'Futura', sans-serif;
       font-size: clamp(11px, 1.3vw, 15px);
@@ -882,6 +905,7 @@
       <span class="btn-label">Pre-Order</span>
     </div>
     <div class="hero-cta-below">
+      <div class="hero-offer-badge">🚀 Early Bird — 50% Off &nbsp;<span class="hero-offer-mrp">₹4,999</span>&nbsp;<span class="hero-offer-price">₹2,499</span></div>
     </div>
   </div>
 
@@ -1709,7 +1733,7 @@
 
       var options = {
         key: 'rzp_test_T2O8bhsjDFP1aF',
-        amount: 250000,
+        amount: 249900,
         currency: 'INR',
         name: 'DeepKids',
         description: 'EscapeGravity Pre-Order',
@@ -1732,7 +1756,7 @@
           data.append('whatsapp', fullNumber);
           data.append('address', fullAddress);
           data.append('razorpay_payment_id', paymentId);
-          data.append('amount', '₹2,500');
+          data.append('amount', '₹2,499');
           data.append('_subject', 'EscapeGravity Pre-Order PAID: ' + name + ' | ' + paymentId);
           data.append('_template', 'table');
           data.append('_captcha', 'false');
@@ -1851,7 +1875,7 @@
       <img src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
-    <p class="po-subtitle">Pre-order <strong>EscapeGravity</strong> for ₹2,500. We'll ship to your door!</p>
+    <p class="po-subtitle">Early Bird — 50% off! Pre-order <strong>EscapeGravity</strong> at <span style="text-decoration:line-through;opacity:0.55;">₹4,999</span> <strong style="color:#c0e638;">₹2,499</strong>. We'll ship to your door!</p>
     <form class="po-form" onsubmit="return submitPreOrder(event)">
       <label class="po-field">
         <span>Your Name</span>
@@ -1883,7 +1907,7 @@
         <input type="text" id="po-state" placeholder="Maharashtra" required maxlength="60">
       </label>
       <div id="po-msg" class="po-msg"></div>
-      <p class="po-price-label">Total: <strong>₹2,500</strong></p>
+      <p class="po-price-label">Total: <strong>₹2,499</strong></p>
       <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Pay Now">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
