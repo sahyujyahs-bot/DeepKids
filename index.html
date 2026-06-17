@@ -1736,9 +1736,24 @@
         setTimeout(measure, 300);
       }
     })();
+    // Apps Script web app URL for manual GPay/UPI payment verification.
+    // Deploy manual-payment-verification.gs and paste the /exec URL here.
+    var MANUAL_PAYMENT_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+    var currentOrder = null;
+    var paymentPollTimer = null;
+
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
+      // Reset to the form view in case a previous session left the QR step showing
+      var form = document.querySelector('.po-form');
+      var qrStep = document.getElementById('po-qr-step');
+      if (form) form.style.display = '';
+      if (qrStep) qrStep.style.display = 'none';
+      var confirmBtn = document.getElementById('po-confirm-btn');
+      if (confirmBtn) { confirmBtn.style.display = ''; confirmBtn.disabled = false; confirmBtn.querySelector('.btn-label').textContent = "I've Paid — Notify Us"; }
+      var qrStatus = document.getElementById('po-qr-status');
+      if (qrStatus) { qrStatus.textContent = ''; qrStatus.className = 'po-msg'; }
       // Event: user opened pre-order modal
       if (typeof gtag === 'function') gtag('event', 'open_preorder', { event_category: 'engagement' });
       if (typeof fbq === 'function') fbq('track', 'InitiateCheckout');
@@ -1746,6 +1761,7 @@
     function closePreOrderModal() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.remove('show');
+      if (paymentPollTimer) { clearInterval(paymentPollTimer); paymentPollTimer = null; }
       // If they filled details but never clicked Pay Now, capture it
       var name = (document.getElementById('po-name') || {}).value || '';
       var phone = (document.getElementById('po-phone') || {}).value || '';
@@ -1827,55 +1843,98 @@
 
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
       var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
+      var orderId = 'EG-' + Date.now().toString(36).toUpperCase();
 
-      var options = {
-        key: 'rzp_test_T2O8bhsjDFP1aF',
-        amount: 249900,
-        currency: 'INR',
-        name: 'DeepKids',
-        description: 'EscapeGravity Pre-Order',
-        image: 'https://deepkids.in/apple-touch-icon.png',
-        prefill: { name: name, contact: fullNumber },
-        theme: { color: '#6b2155' },
-        handler: function(response) {
-          var paymentId = response.razorpay_payment_id;
-          try {
-            var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
-            preorders.push({ name: name, whatsapp: fullNumber, address: fullAddress, payment_id: paymentId, ts: new Date().toISOString() });
-            localStorage.setItem('eg-preorders', JSON.stringify(preorders));
-          } catch(ex) {}
-          sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId);
-          if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
-          if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
-          // Redirect to confirmation page with order details
-          var params = new URLSearchParams({
-            name: name,
-            phone: fullNumber,
-            address: fullAddress,
-            payment_id: paymentId
-          });
-          window.location.href = '/order-confirmed.html?' + params.toString();
-        },
-        modal: {
-          ondismiss: function() {
-            sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
-            msg.textContent = 'Payment cancelled. Try again when ready!';
-            msg.className = 'po-msg err';
-          }
-        }
-      };
+      currentOrder = { orderId: orderId, name: name, phone: fullNumber, address: fullAddress };
 
       // Pay Now clicked — send details with "Payment Initiated" status
-      sendLeadData(name, fullNumber, fullAddress, 'Payment Initiated', '');
+      sendLeadData(name, fullNumber, fullAddress, 'Payment Initiated', orderId);
       if (typeof gtag === 'function') {
         gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
         gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
       }
       if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
 
-      var rzp = new Razorpay(options);
-      rzp.open();
+      // Show the QR step instead of opening a payment gateway
+      document.querySelector('.po-form').style.display = 'none';
+      document.getElementById('po-order-id-display').textContent = orderId;
+      document.getElementById('po-qr-step').style.display = 'block';
       return false;
+    }
+
+    function confirmManualPayment() {
+      if (!currentOrder) return;
+      var btn = document.getElementById('po-confirm-btn');
+      var status = document.getElementById('po-qr-status');
+      btn.disabled = true;
+      btn.querySelector('.btn-label').textContent = 'Notifying us...';
+
+      // Log the order as Pending in the verification sheet
+      if (MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1) {
+        fetch(MANUAL_PAYMENT_SCRIPT_URL + '?action=create' +
+          '&orderId=' + encodeURIComponent(currentOrder.orderId) +
+          '&name=' + encodeURIComponent(currentOrder.name) +
+          '&whatsapp=' + encodeURIComponent(currentOrder.phone) +
+          '&address=' + encodeURIComponent(currentOrder.address) +
+          '&amount=2499'
+        ).catch(function(){});
+      }
+
+      // Email the owner a one-click confirm link
+      var confirmLink = MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1
+        ? MANUAL_PAYMENT_SCRIPT_URL + '?action=confirm&orderId=' + encodeURIComponent(currentOrder.orderId)
+        : '(set up MANUAL_PAYMENT_SCRIPT_URL first)';
+      var data = new FormData();
+      data.append('order_id', currentOrder.orderId);
+      data.append('name', currentOrder.name);
+      data.append('whatsapp', currentOrder.phone);
+      data.append('address', currentOrder.address);
+      data.append('amount', '₹2,499');
+      data.append('confirm_link', confirmLink);
+      data.append('_subject', 'CHECK GPAY: Pre-Order Payment to Confirm — ' + currentOrder.orderId);
+      data.append('_template', 'table');
+      data.append('_captcha', 'false');
+      fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
+        method: 'POST', headers: { 'Accept': 'application/json' }, body: data
+      }).catch(function(){});
+
+      sendLeadData(currentOrder.name, currentOrder.phone, currentOrder.address, 'Awaiting Manual Confirmation', currentOrder.orderId);
+
+      btn.style.display = 'none';
+      status.className = 'po-msg';
+      status.textContent = 'Thanks! We\'re checking your payment and will confirm shortly. Keep this window open.';
+
+      if (MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1) {
+        pollPaymentStatus(currentOrder.orderId);
+      }
+    }
+
+    function pollPaymentStatus(orderId) {
+      var attempts = 0;
+      var maxAttempts = 120; // ~10 minutes at 5s intervals
+      if (paymentPollTimer) clearInterval(paymentPollTimer);
+      paymentPollTimer = setInterval(function() {
+        attempts++;
+        fetch(MANUAL_PAYMENT_SCRIPT_URL + '?action=status&orderId=' + encodeURIComponent(orderId))
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            if (data.status === 'Confirmed') {
+              clearInterval(paymentPollTimer);
+              if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
+              if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+              try {
+                var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
+                preorders.push({ name: currentOrder.name, whatsapp: currentOrder.phone, address: currentOrder.address, payment_id: orderId, ts: new Date().toISOString() });
+                localStorage.setItem('eg-preorders', JSON.stringify(preorders));
+              } catch(ex) {}
+              var params = new URLSearchParams({
+                name: currentOrder.name, phone: currentOrder.phone, address: currentOrder.address, payment_id: orderId
+              });
+              window.location.href = '/order-confirmed.html?' + params.toString();
+            }
+          }).catch(function(){});
+        if (attempts >= maxAttempts) clearInterval(paymentPollTimer);
+      }, 5000);
     }
     function submitPlayTest(e) {
       e.preventDefault();
@@ -2010,7 +2069,16 @@
         <span class="btn-label">Pay Now</span>
       </button>
     </form>
-    <p class="po-privacy">🔒 Secure payment via Razorpay. Your details are safe with us.</p>
+    <div id="po-qr-step" class="po-qr-step" style="display:none;">
+      <p class="po-subtitle">Scan with any UPI app (GPay, PhonePe, Paytm) and pay <strong style="color:#c0e638;">₹2,499</strong></p>
+      <img src="gpay-qr.png" alt="GPay QR Code to pay DeepKids" class="po-qr-img">
+      <p class="po-qr-order">Order ID: <strong id="po-order-id-display"></strong></p>
+      <button type="button" id="po-confirm-btn" class="btn-wrap btn-wrap-inline po-submit" onclick="confirmManualPayment()" aria-label="I've Paid">
+        <span class="btn-label">I've Paid — Notify Us</span>
+      </button>
+      <div id="po-qr-status" class="po-msg"></div>
+    </div>
+    <p class="po-privacy">🔒 We verify every payment manually before confirming your order.</p>
   </div>
 </div>
 
@@ -2221,6 +2289,28 @@
 }
 .po-price-label strong {
   font-size: 22px;
+}
+.po-qr-step {
+  text-align: center;
+}
+.po-qr-img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 14px;
+  padding: 10px;
+  margin: 10px auto 14px;
+  display: block;
+}
+.po-qr-order {
+  font-size: 13px;
+  color: rgba(255,255,255,0.5);
+  margin-bottom: 14px;
+}
+.po-qr-order strong {
+  color: #c0e638;
+  letter-spacing: 0.04em;
 }
 .po-city-row {
   display: flex;
@@ -9301,7 +9391,7 @@
         How much does EscapeGravity cost?
         <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
-      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available for pre-order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Pre-orders ship once production is complete. Secure payment via Razorpay.</div></div>
+      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available for pre-order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Pre-orders ship once production is complete. Pay securely via UPI/GPay; we verify and confirm every payment manually.</div></div>
     </div>
 
     <div class="faq-item eg-fade-in">
