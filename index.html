@@ -1739,6 +1739,7 @@
     // Apps Script web app URL for manual GPay/UPI payment verification.
     // Deploy manual-payment-verification.gs and paste the /exec URL here.
     var MANUAL_PAYMENT_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+    var UPI_VPA = 'sahyujyahs@okhdfcbank';
     var currentOrder = null;
     var paymentPollTimer = null;
 
@@ -1799,7 +1800,7 @@
           headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
           body: 'entry.1636497169=' + encodeURIComponent(name) +
                 '&entry.1301511467=' + encodeURIComponent(whatsapp) +
-                '&entry.1152692251=' + encodeURIComponent('Pre-Order: ' + status)
+                '&entry.1152692251=' + encodeURIComponent('Pre-Order: ' + status + (paymentId ? ' [' + paymentId + ']' : ''))
         }).catch(function(){});
       } catch(ex) {}
     }
@@ -1855,7 +1856,15 @@
       }
       if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
 
-      // Show the QR step instead of opening a payment gateway
+      // Show the QR step instead of opening a payment gateway.
+      // The QR encodes a UPI deep link with the amount pre-filled, so the
+      // customer's UPI app opens straight to "Pay ₹2,499" — no manual typing.
+      var upiUri = 'upi://pay?pa=' + encodeURIComponent(UPI_VPA) +
+        '&pn=' + encodeURIComponent('DeepKids') +
+        '&am=2499&cu=INR&tn=' + encodeURIComponent('EscapeGravity ' + orderId);
+      var qrImg = document.getElementById('po-qr-img');
+      if (qrImg) qrImg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=240x240&data=' + encodeURIComponent(upiUri);
+
       document.querySelector('.po-form').style.display = 'none';
       document.getElementById('po-order-id-display').textContent = orderId;
       document.getElementById('po-qr-step').style.display = 'block';
@@ -2071,7 +2080,7 @@
     </form>
     <div id="po-qr-step" class="po-qr-step" style="display:none;">
       <p class="po-subtitle">Scan with any UPI app (GPay, PhonePe, Paytm) and pay <strong style="color:#c0e638;">₹2,499</strong></p>
-      <img src="GooglePay_QR.png" alt="GPay QR Code to pay DeepKids" class="po-qr-img">
+      <img id="po-qr-img" src="GooglePay_QR.png" alt="UPI QR Code to pay DeepKids" class="po-qr-img">
       <p class="po-qr-order">Order ID: <strong id="po-order-id-display"></strong></p>
       <button type="button" id="po-confirm-btn" class="btn-wrap btn-wrap-inline po-submit" onclick="confirmManualPayment()" aria-label="Payment Done">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">

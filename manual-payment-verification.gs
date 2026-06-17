@@ -10,12 +10,17 @@
 //      website can show the confirmation page automatically once
 //      you've checked your GPay and clicked Confirm.
 //
-// SETUP:
-// 1. Go to https://sheets.google.com and create a NEW blank sheet,
-//    name it "Manual Payments".
-// 2. Extensions → Apps Script. Delete the default code and paste
-//    this whole file in.
-// 3. Run setupSheet() once (Run → setupSheet). Authorize when asked.
+// SETUP — install this INSIDE your existing "Escape Gravity Signups"
+// Google Sheet (the one that already collects pre-order leads), so
+// everything lives in one spreadsheet you already check:
+// 1. Open that Google Sheet → Extensions → Apps Script.
+// 2. You'll see whatsapp-auto-reply.gs already there. Add a NEW file
+//    in the same project (File icon → + → Script) and paste this
+//    whole file in. Don't delete the existing whatsapp-auto-reply code.
+// 3. Run setupSheet() once (select it from the function dropdown,
+//    then click ▶ Run). Authorize when asked. This adds a new tab
+//    called "Orders" to your existing spreadsheet — separate from
+//    the form-response tab, but in the same file.
 // 4. Deploy → New deployment → type: "Web app".
 //      - Execute as: Me
 //      - Who has access: Anyone
@@ -24,6 +29,12 @@
 //    https://script.google.com/macros/s/AKfycb..../exec
 // 5. Paste that URL into index.html where it says
 //    MANUAL_PAYMENT_SCRIPT_URL = '...'
+//
+// Once set up, every "Payment Done" click creates a row in the
+// "Orders" tab with status "Pending". The email you receive has a
+// "Confirm Payment" link — clicking it sets that row's status to
+// "Confirmed" and the customer's browser (which is quietly polling)
+// auto-redirects them to the order-confirmed page within ~5 seconds.
 // ============================================================
 
 var SHEET_NAME = 'Orders';
