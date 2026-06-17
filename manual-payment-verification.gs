@@ -38,6 +38,7 @@
 // ============================================================
 
 var SHEET_NAME = 'Orders';
+var OWNER_EMAIL = 'sahyujyahs@gmail.com';
 
 function setupSheet() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
@@ -95,7 +96,34 @@ function handleCreate(e) {
   } else {
     sheet.getRange(row, 1, 1, values.length).setValues([values]);
   }
+
+  sendConfirmEmail_(orderId, e.parameter.name || '', e.parameter.whatsapp || '', e.parameter.address || '', e.parameter.amount || '2499');
+
   return jsonOut_({ ok: true, status: 'Pending' });
+}
+
+function sendConfirmEmail_(orderId, name, whatsapp, address, amount) {
+  var confirmLink = ScriptApp.getService().getUrl() + '?action=confirm&orderId=' + encodeURIComponent(orderId);
+  var subject = 'CHECK GPAY: Confirm Payment for Order ' + orderId;
+  var htmlBody =
+    '<div style="font-family:sans-serif;max-width:480px;">' +
+    '<h2>New pre-order — verify payment</h2>' +
+    '<table style="border-collapse:collapse;width:100%;">' +
+    '<tr><td style="padding:4px 8px;color:#666;">Order ID</td><td style="padding:4px 8px;"><strong>' + orderId + '</strong></td></tr>' +
+    '<tr><td style="padding:4px 8px;color:#666;">Name</td><td style="padding:4px 8px;">' + name + '</td></tr>' +
+    '<tr><td style="padding:4px 8px;color:#666;">WhatsApp</td><td style="padding:4px 8px;">' + whatsapp + '</td></tr>' +
+    '<tr><td style="padding:4px 8px;color:#666;">Address</td><td style="padding:4px 8px;">' + address + '</td></tr>' +
+    '<tr><td style="padding:4px 8px;color:#666;">Amount</td><td style="padding:4px 8px;">₹' + amount + '</td></tr>' +
+    '</table>' +
+    '<p>Check your GPay/UPI app for a matching payment, then:</p>' +
+    '<p><a href="' + confirmLink + '" style="display:inline-block;background:#c0e638;color:#0d0820;font-weight:bold;padding:12px 24px;border-radius:8px;text-decoration:none;">Confirm Payment Received</a></p>' +
+    '<p style="font-size:12px;color:#999;">If the button doesn\'t work, copy this link: ' + confirmLink + '</p>' +
+    '</div>';
+  MailApp.sendEmail({
+    to: OWNER_EMAIL,
+    subject: subject,
+    htmlBody: htmlBody
+  });
 }
 
 // ?action=status&orderId=...

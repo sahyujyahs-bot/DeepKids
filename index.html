@@ -1878,7 +1878,10 @@
       btn.disabled = true;
       btn.querySelector('.btn-label').textContent = 'Confirming...';
 
-      // Log the order as Pending in the verification sheet
+      // Log the order as Pending in the verification sheet. The Apps Script
+      // itself emails the owner a "Confirm Payment" link directly (via
+      // MailApp) — no third-party email relay, so no ads and a real
+      // clickable button.
       if (MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1) {
         fetch(MANUAL_PAYMENT_SCRIPT_URL + '?action=create' +
           '&orderId=' + encodeURIComponent(currentOrder.orderId) +
@@ -1888,24 +1891,6 @@
           '&amount=2499'
         ).catch(function(){});
       }
-
-      // Email the owner a one-click confirm link
-      var confirmLink = MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1
-        ? MANUAL_PAYMENT_SCRIPT_URL + '?action=confirm&orderId=' + encodeURIComponent(currentOrder.orderId)
-        : '(set up MANUAL_PAYMENT_SCRIPT_URL first)';
-      var data = new FormData();
-      data.append('order_id', currentOrder.orderId);
-      data.append('name', currentOrder.name);
-      data.append('whatsapp', currentOrder.phone);
-      data.append('address', currentOrder.address);
-      data.append('amount', '₹2,499');
-      data.append('confirm_link', confirmLink);
-      data.append('_subject', 'CHECK GPAY: Pre-Order Payment to Confirm — ' + currentOrder.orderId);
-      data.append('_template', 'table');
-      data.append('_captcha', 'false');
-      fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
-        method: 'POST', headers: { 'Accept': 'application/json' }, body: data
-      }).catch(function(){});
 
       sendLeadData(currentOrder.name, currentOrder.phone, currentOrder.address, 'Awaiting Manual Confirmation', currentOrder.orderId);
 
