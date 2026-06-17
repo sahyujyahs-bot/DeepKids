@@ -1751,7 +1751,7 @@
       if (form) form.style.display = '';
       if (qrStep) qrStep.style.display = 'none';
       var confirmBtn = document.getElementById('po-confirm-btn');
-      if (confirmBtn) { confirmBtn.style.display = ''; confirmBtn.disabled = false; confirmBtn.querySelector('.btn-label').textContent = "I've Paid — Notify Us"; }
+      if (confirmBtn) { confirmBtn.style.display = ''; confirmBtn.disabled = false; confirmBtn.querySelector('.btn-label').textContent = 'Payment Done'; }
       var qrStatus = document.getElementById('po-qr-status');
       if (qrStatus) { qrStatus.textContent = ''; qrStatus.className = 'po-msg'; }
       // Event: user opened pre-order modal
@@ -1867,7 +1867,7 @@
       var btn = document.getElementById('po-confirm-btn');
       var status = document.getElementById('po-qr-status');
       btn.disabled = true;
-      btn.querySelector('.btn-label').textContent = 'Notifying us...';
+      btn.querySelector('.btn-label').textContent = 'Confirming...';
 
       // Log the order as Pending in the verification sheet
       if (MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1) {
@@ -1901,8 +1901,8 @@
       sendLeadData(currentOrder.name, currentOrder.phone, currentOrder.address, 'Awaiting Manual Confirmation', currentOrder.orderId);
 
       btn.style.display = 'none';
-      status.className = 'po-msg';
-      status.textContent = 'Thanks! We\'re checking your payment and will confirm shortly. Keep this window open.';
+      status.className = 'po-msg success';
+      status.innerHTML = '✓ Order Placed! We\'re verifying your payment and will confirm shortly on WhatsApp.';
 
       if (MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1) {
         pollPaymentStatus(currentOrder.orderId);
@@ -2073,8 +2073,31 @@
       <p class="po-subtitle">Scan with any UPI app (GPay, PhonePe, Paytm) and pay <strong style="color:#c0e638;">₹2,499</strong></p>
       <img src="gpay-qr.png" alt="GPay QR Code to pay DeepKids" class="po-qr-img">
       <p class="po-qr-order">Order ID: <strong id="po-order-id-display"></strong></p>
-      <button type="button" id="po-confirm-btn" class="btn-wrap btn-wrap-inline po-submit" onclick="confirmManualPayment()" aria-label="I've Paid">
-        <span class="btn-label">I've Paid — Notify Us</span>
+      <button type="button" id="po-confirm-btn" class="btn-wrap btn-wrap-inline po-submit" onclick="confirmManualPayment()" aria-label="Payment Done">
+        <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="dk-green-grad4" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#c0e638"/>
+              <stop offset="45%" stop-color="#9cbc14"/>
+              <stop offset="100%" stop-color="#6b8f08"/>
+            </linearGradient>
+            <linearGradient id="dk-highlight4" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+              <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+            </linearGradient>
+          </defs>
+          <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
+          <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
+          <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad4)"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight4)"/>
+          <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <span class="btn-label">Payment Done</span>
       </button>
       <div id="po-qr-status" class="po-msg"></div>
     </div>
