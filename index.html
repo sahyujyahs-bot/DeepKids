@@ -1736,25 +1736,12 @@
         setTimeout(measure, 300);
       }
     })();
-    // Apps Script web app URL for manual GPay/UPI payment verification.
-    // Deploy manual-payment-verification.gs and paste the /exec URL here.
-    var MANUAL_PAYMENT_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz-UBCHrkFIWpK-pOi-Be_9tSRmCMhgM9FyEpYcCsm3An1m5LQ7--2qXniy-Eqr-Tst/exec';
-    var UPI_VPA = 'sahyujyahs@okhdfcbank';
+    var RAZORPAY_KEY_ID = 'rzp_test_T3Z3wc4m6gN7G6'; // public Key ID only — safe to expose client-side
     var currentOrder = null;
-    var paymentPollTimer = null;
 
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
-      // Reset to the form view in case a previous session left the QR step showing
-      var form = document.querySelector('.po-form');
-      var qrStep = document.getElementById('po-qr-step');
-      if (form) form.style.display = '';
-      if (qrStep) qrStep.style.display = 'none';
-      var confirmBtn = document.getElementById('po-confirm-btn');
-      if (confirmBtn) { confirmBtn.style.display = ''; confirmBtn.disabled = false; confirmBtn.querySelector('.btn-label').textContent = 'Payment Done'; }
-      var qrStatus = document.getElementById('po-qr-status');
-      if (qrStatus) { qrStatus.textContent = ''; qrStatus.className = 'po-msg'; }
       // Event: user opened pre-order modal
       if (typeof gtag === 'function') gtag('event', 'open_preorder', { event_category: 'engagement' });
       if (typeof fbq === 'function') fbq('track', 'InitiateCheckout');
@@ -1762,7 +1749,6 @@
     function closePreOrderModal() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.remove('show');
-      if (paymentPollTimer) { clearInterval(paymentPollTimer); paymentPollTimer = null; }
       // If they filled details but never clicked Pay Now, capture it
       var name = (document.getElementById('po-name') || {}).value || '';
       var phone = (document.getElementById('po-phone') || {}).value || '';
@@ -1844,92 +1830,109 @@
 
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
       var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
-      var orderId = 'EG-' + Date.now().toString(36).toUpperCase();
 
-      currentOrder = { orderId: orderId, name: name, phone: fullNumber, address: fullAddress };
+      currentOrder = { name: name, phone: fullNumber, address: fullAddress };
 
       // Pay Now clicked — send details with "Payment Initiated" status
-      sendLeadData(name, fullNumber, fullAddress, 'Payment Initiated', orderId);
+      sendLeadData(name, fullNumber, fullAddress, 'Payment Initiated', '');
       if (typeof gtag === 'function') {
         gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
         gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
       }
       if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
 
-      // Show the QR step instead of opening a payment gateway.
-      // The QR encodes a UPI deep link with the amount pre-filled, so the
-      // customer's UPI app opens straight to "Pay ₹2,499" — no manual typing.
-      var upiUri = 'upi://pay?pa=' + encodeURIComponent(UPI_VPA) +
-        '&pn=' + encodeURIComponent('DeepKids') +
-        '&am=2499&cu=INR&tn=' + encodeURIComponent('EscapeGravity ' + orderId);
-      var qrImg = document.getElementById('po-qr-img');
-      if (qrImg) qrImg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=240x240&data=' + encodeURIComponent(upiUri);
+      var submitBtn = form.querySelector('.po-submit');
+      if (submitBtn) { submitBtn.disabled = true; submitBtn.querySelector('.btn-label').textContent = 'Loading...'; }
 
-      document.querySelector('.po-form').style.display = 'none';
-      document.getElementById('po-order-id-display').textContent = orderId;
-      document.getElementById('po-qr-step').style.display = 'block';
+      // Order is created server-side (Cloudflare Pages Function) so the
+      // Razorpay Key Secret never touches the browser.
+      fetch('/api/create-order', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ amount: 249900, receipt: 'EG-' + Date.now() })
+      })
+        .then(function(r) { return r.json(); })
+        .then(function(order) {
+          if (!order.order_id) throw new Error(order.error || 'Could not create order');
+          openRazorpayCheckout(order.order_id, name, fullNumber, fullAddress, msg, submitBtn);
+        })
+        .catch(function(err) {
+          msg.textContent = 'Could not start payment. Please try again.';
+          msg.className = 'po-msg err';
+          if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
+        });
+
       return false;
     }
 
-    function confirmManualPayment() {
-      if (!currentOrder) return;
-      var btn = document.getElementById('po-confirm-btn');
-      var status = document.getElementById('po-qr-status');
-      btn.disabled = true;
-      btn.querySelector('.btn-label').textContent = 'Confirming...';
-
-      // Log the order as Pending in the verification sheet. The Apps Script
-      // itself emails the owner a "Confirm Payment" link directly (via
-      // MailApp) — no third-party email relay, so no ads and a real
-      // clickable button.
-      if (MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1) {
-        fetch(MANUAL_PAYMENT_SCRIPT_URL + '?action=create' +
-          '&orderId=' + encodeURIComponent(currentOrder.orderId) +
-          '&name=' + encodeURIComponent(currentOrder.name) +
-          '&whatsapp=' + encodeURIComponent(currentOrder.phone) +
-          '&address=' + encodeURIComponent(currentOrder.address) +
-          '&amount=2499'
-        ).catch(function(){});
-      }
-
-      sendLeadData(currentOrder.name, currentOrder.phone, currentOrder.address, 'Awaiting Manual Confirmation', currentOrder.orderId);
-
-      btn.style.display = 'none';
-      status.className = 'po-msg success';
-      status.innerHTML = '✓ Order Placed! We\'re verifying your payment and will confirm shortly on WhatsApp.';
-
-      if (MANUAL_PAYMENT_SCRIPT_URL.indexOf('PASTE_YOUR') === -1) {
-        pollPaymentStatus(currentOrder.orderId);
-      }
-    }
-
-    function pollPaymentStatus(orderId) {
-      var attempts = 0;
-      var maxAttempts = 120; // ~10 minutes at 5s intervals
-      if (paymentPollTimer) clearInterval(paymentPollTimer);
-      paymentPollTimer = setInterval(function() {
-        attempts++;
-        fetch(MANUAL_PAYMENT_SCRIPT_URL + '?action=status&orderId=' + encodeURIComponent(orderId))
-          .then(function(r) { return r.json(); })
-          .then(function(data) {
-            if (data.status === 'Confirmed') {
-              clearInterval(paymentPollTimer);
-              if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
-              if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+    function openRazorpayCheckout(orderId, name, fullNumber, fullAddress, msg, submitBtn) {
+      var options = {
+        key: RAZORPAY_KEY_ID,
+        order_id: orderId,
+        amount: 249900,
+        currency: 'INR',
+        name: 'DeepKids',
+        description: 'EscapeGravity Pre-Order',
+        image: 'https://deepkids.in/apple-touch-icon.png',
+        prefill: { name: name, contact: fullNumber },
+        theme: { color: '#6b2155' },
+        handler: function(response) {
+          // Signature is verified server-side — the frontend never decides
+          // on its own that a payment succeeded.
+          fetch('/api/verify-payment', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              razorpay_order_id: response.razorpay_order_id,
+              razorpay_payment_id: response.razorpay_payment_id,
+              razorpay_signature: response.razorpay_signature
+            })
+          })
+            .then(function(r) { return r.json(); })
+            .then(function(result) {
+              if (!result.verified) {
+                msg.textContent = 'Payment verification failed. If you were charged, contact us with your payment ID: ' + response.razorpay_payment_id;
+                msg.className = 'po-msg err';
+                if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
+                return;
+              }
+              var paymentId = response.razorpay_payment_id;
               try {
                 var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
-                preorders.push({ name: currentOrder.name, whatsapp: currentOrder.phone, address: currentOrder.address, payment_id: orderId, ts: new Date().toISOString() });
+                preorders.push({ name: name, whatsapp: fullNumber, address: fullAddress, payment_id: paymentId, ts: new Date().toISOString() });
                 localStorage.setItem('eg-preorders', JSON.stringify(preorders));
               } catch(ex) {}
-              var params = new URLSearchParams({
-                name: currentOrder.name, phone: currentOrder.phone, address: currentOrder.address, payment_id: orderId
-              });
+              sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId);
+              if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
+              if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+              var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
               window.location.href = '/order-confirmed.html?' + params.toString();
-            }
-          }).catch(function(){});
-        if (attempts >= maxAttempts) clearInterval(paymentPollTimer);
-      }, 5000);
+            })
+            .catch(function() {
+              msg.textContent = 'Could not verify payment. If you were charged, contact us with your payment ID: ' + response.razorpay_payment_id;
+              msg.className = 'po-msg err';
+              if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
+            });
+        },
+        modal: {
+          ondismiss: function() {
+            sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
+            msg.textContent = 'Payment cancelled. Try again when ready!';
+            msg.className = 'po-msg err';
+            if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
+          }
+        }
+      };
+      var rzp = new Razorpay(options);
+      rzp.on('payment.failed', function(response) {
+        sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
+        msg.textContent = 'Payment failed: ' + (response.error && response.error.description ? response.error.description : 'please try again.');
+        msg.className = 'po-msg err';
+        if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
+      });
+      rzp.open();
     }
+
     function submitPlayTest(e) {
       e.preventDefault();
       var form = e.target;
@@ -2063,39 +2066,7 @@
         <span class="btn-label">Pay Now</span>
       </button>
     </form>
-    <div id="po-qr-step" class="po-qr-step" style="display:none;">
-      <p class="po-subtitle">Scan with any UPI app (GPay, PhonePe, Paytm) and pay <strong style="color:#c0e638;">₹2,499</strong></p>
-      <img id="po-qr-img" src="GooglePay_QR.png" alt="UPI QR Code to pay DeepKids" class="po-qr-img">
-      <p class="po-qr-order">Order ID: <strong id="po-order-id-display"></strong></p>
-      <button type="button" id="po-confirm-btn" class="btn-wrap btn-wrap-inline po-submit" onclick="confirmManualPayment()" aria-label="Payment Done">
-        <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="dk-green-grad4" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="0%" stop-color="#c0e638"/>
-              <stop offset="45%" stop-color="#9cbc14"/>
-              <stop offset="100%" stop-color="#6b8f08"/>
-            </linearGradient>
-            <linearGradient id="dk-highlight4" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
-              <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-            </linearGradient>
-          </defs>
-          <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-          <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-          <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
-          <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad4)"/>
-          <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
-          <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
-          <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight4)"/>
-          <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-          <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-          <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-        </svg>
-        <span class="btn-label">Payment Done</span>
-      </button>
-      <div id="po-qr-status" class="po-msg"></div>
-    </div>
-    <p class="po-privacy">🔒 We verify every payment manually before confirming your order.</p>
+    <p class="po-privacy">🔒 Secure payment via Razorpay. Your card/UPI details are never stored on our servers.</p>
   </div>
 </div>
 
@@ -2306,28 +2277,6 @@
 }
 .po-price-label strong {
   font-size: 22px;
-}
-.po-qr-step {
-  text-align: center;
-}
-.po-qr-img {
-  width: 200px;
-  height: 200px;
-  object-fit: contain;
-  background: #fff;
-  border-radius: 14px;
-  padding: 10px;
-  margin: 10px auto 14px;
-  display: block;
-}
-.po-qr-order {
-  font-size: 13px;
-  color: rgba(255,255,255,0.5);
-  margin-bottom: 14px;
-}
-.po-qr-order strong {
-  color: #c0e638;
-  letter-spacing: 0.04em;
 }
 .po-city-row {
   display: flex;
@@ -9408,7 +9357,7 @@
         How much does EscapeGravity cost?
         <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
-      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available for pre-order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Pre-orders ship once production is complete. Pay securely via UPI/GPay; we verify and confirm every payment manually.</div></div>
+      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available for pre-order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Pre-orders ship once production is complete. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
     </div>
 
     <div class="faq-item eg-fade-in">
