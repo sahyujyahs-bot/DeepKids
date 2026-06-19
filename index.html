@@ -1738,10 +1738,12 @@
     })();
     var RAZORPAY_KEY_ID = 'rzp_live_T3ZTo2sM5OJff2'; // public Key ID only — safe to expose client-side
     var currentOrder = null;
+    var leadEmailSent = false; // ensures only one email/sheet row per pre-order attempt
 
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
+      leadEmailSent = false;
       // Event: user opened pre-order modal
       if (typeof gtag === 'function') gtag('event', 'open_preorder', { event_category: 'engagement' });
       if (typeof fbq === 'function') fbq('track', 'InitiateCheckout');
@@ -1749,18 +1751,20 @@
     function closePreOrderModal() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.remove('show');
-      // If they filled details but never clicked Pay Now, capture it
+      // If they filled in any details but the attempt never reached a final
+      // outcome (success/failed/cancelled), capture it as one lead record.
       var name = (document.getElementById('po-name') || {}).value || '';
       var phone = (document.getElementById('po-phone') || {}).value || '';
       var cc = (document.getElementById('po-cc') || {}).value || '+91';
-      if (name.trim() && phone.trim()) {
+      if (!leadEmailSent && (name.trim() || phone.trim())) {
         var digits = phone.replace(/\D/g, '');
-        var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
+        var fullNumber = digits ? (cc.startsWith('+') ? cc : '+' + cc) + digits : '';
         var address = (document.getElementById('po-address') || {}).value || '';
         var city = (document.getElementById('po-city') || {}).value || '';
         var pincode = (document.getElementById('po-pincode') || {}).value || '';
         var state = (document.getElementById('po-state') || {}).value || '';
         var fullAddress = [address, city, pincode, state].filter(Boolean).join(', ');
+        leadEmailSent = true;
         sendLeadData(name.trim(), fullNumber, fullAddress, 'Closed Without Paying', '');
       }
     }
@@ -1833,8 +1837,6 @@
 
       currentOrder = { name: name, phone: fullNumber, address: fullAddress };
 
-      // Pay Now clicked — send details with "Payment Initiated" status
-      sendLeadData(name, fullNumber, fullAddress, 'Payment Initiated', '');
       if (typeof gtag === 'function') {
         gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
         gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
@@ -1902,6 +1904,7 @@
                 preorders.push({ name: name, whatsapp: fullNumber, address: fullAddress, payment_id: paymentId, ts: new Date().toISOString() });
                 localStorage.setItem('eg-preorders', JSON.stringify(preorders));
               } catch(ex) {}
+              leadEmailSent = true;
               sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId);
               if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
               if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
@@ -1916,6 +1919,8 @@
         },
         modal: {
           ondismiss: function() {
+            if (leadEmailSent) return;
+            leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
             msg.textContent = 'Payment cancelled. Try again when ready!';
             msg.className = 'po-msg err';
@@ -1925,6 +1930,7 @@
       };
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
+        leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
         msg.textContent = 'Payment failed: ' + (response.error && response.error.description ? response.error.description : 'please try again.');
         msg.className = 'po-msg err';
