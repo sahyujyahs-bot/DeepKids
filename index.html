@@ -1780,19 +1780,27 @@
       data.append('_subject', 'EscapeGravity Pre-Order [' + status + ']: ' + name);
       data.append('_template', 'table');
       data.append('_captcha', 'false');
-      fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
+      var emailPromise = fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
         method: 'POST', headers: { 'Accept': 'application/json' }, body: data
       }).catch(function(){});
       // Google Sheet
+      var sheetPromise;
       try {
-        fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
+        sheetPromise = fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
           method: 'POST', mode: 'no-cors',
           headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
           body: 'entry.1636497169=' + encodeURIComponent(name) +
                 '&entry.1301511467=' + encodeURIComponent(whatsapp) +
                 '&entry.1152692251=' + encodeURIComponent('Pre-Order: ' + status + (paymentId ? ' [' + paymentId + ']' : ''))
         }).catch(function(){});
-      } catch(ex) {}
+      } catch(ex) { sheetPromise = Promise.resolve(); }
+      // Caller must wait on this before navigating away — otherwise the
+      // browser can abort these requests mid-flight on page unload, which
+      // is why successful payments were sometimes never recorded.
+      return Promise.allSettled([emailPromise, sheetPromise]);
+    }
+    function withTimeout(promise, ms) {
+      return Promise.race([promise, new Promise(function(resolve) { setTimeout(resolve, ms); })]);
     }
     function openPlayTest() {
       var modal = document.getElementById('playtest-modal');
@@ -1905,11 +1913,15 @@
                 localStorage.setItem('eg-preorders', JSON.stringify(preorders));
               } catch(ex) {}
               leadEmailSent = true;
-              sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId);
               if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
               if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
               var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
-              window.location.href = '/order-confirmed.html?' + params.toString();
+              // Wait for the email/sheet write to actually finish before navigating
+              // away — navigating too early can abort the requests mid-flight.
+              // Timeout caps the wait so a slow/blocked network can't strand the user.
+              withTimeout(sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId), 4000).then(function() {
+                window.location.href = '/order-confirmed.html?' + params.toString();
+              });
             })
             .catch(function() {
               msg.textContent = 'Could not verify payment. If you were charged, contact us with your payment ID: ' + response.razorpay_payment_id;
