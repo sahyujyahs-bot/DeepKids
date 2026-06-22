@@ -66,7 +66,17 @@ export async function onRequestPost(context) {
       return json({ success: false, error: result.error ? result.error.message : 'HTTP ' + response.status }, response.status);
     }
 
-    return json({ success: true, messageId: result.messages && result.messages[0] && result.messages[0].id });
+    const messageId = result.messages && result.messages[0] && result.messages[0].id;
+
+    if (env.DB) {
+      try {
+        await env.DB.prepare(
+          'INSERT INTO messages (phone, direction, body, template, status, wa_message_id) VALUES (?, ?, ?, ?, ?, ?)'
+        ).bind(payload.to, 'out', (bodyParams || []).join(' / '), template, 'sent', messageId || null).run();
+      } catch (ex) {}
+    }
+
+    return json({ success: true, messageId: messageId });
   } catch (err) {
     return json({ error: 'Unexpected server error', details: String(err) }, 500);
   }
