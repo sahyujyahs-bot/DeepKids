@@ -773,27 +773,29 @@
     function restorePreOrderFromLink() {
       var qsPhone = new URLSearchParams(window.location.search).get('phone');
       if (!qsPhone) return;
-      var draft;
-      try { draft = JSON.parse(localStorage.getItem('eg-preorder-draft') || 'null'); } catch(ex) { draft = null; }
       doPreOrder();
-      if (draft && draft.rawPhone && qsPhone.indexOf(draft.rawPhone) !== -1) {
-        var setVal = function(id, val) {
-          var el = document.getElementById(id);
-          if (el && val) el.value = val;
-        };
-        setVal('po-cc', draft.cc);
-        setVal('po-phone', draft.rawPhone);
-        setVal('po-name', draft.name);
-        setVal('po-address', draft.address);
-        setVal('po-city', draft.city);
-        setVal('po-pincode', draft.pincode);
-        setVal('po-state', draft.state);
-      } else {
-        var ccEl = document.getElementById('po-cc');
-        var phoneEl = document.getElementById('po-phone');
-        if (phoneEl) phoneEl.value = qsPhone.replace(/^91/, '');
-        if (ccEl) ccEl.value = '+91';
-      }
+      var ccEl = document.getElementById('po-cc');
+      var phoneEl = document.getElementById('po-phone');
+      if (phoneEl) phoneEl.value = qsPhone.replace(/^91/, '');
+      if (ccEl) ccEl.value = '+91';
+      fetch('/api/get-draft?phone=' + encodeURIComponent(qsPhone))
+        .then(function(r) { return r.json(); })
+        .then(function(result) {
+          var draft = result && result.draft;
+          if (!draft) return;
+          var setVal = function(id, val) {
+            var el = document.getElementById(id);
+            if (el && val) el.value = val;
+          };
+          setVal('po-cc', draft.cc);
+          setVal('po-phone', draft.raw_phone);
+          setVal('po-name', draft.name);
+          setVal('po-address', draft.address);
+          setVal('po-city', draft.city);
+          setVal('po-pincode', draft.pincode);
+          setVal('po-state', draft.state);
+        })
+        .catch(function() {});
     }
     document.addEventListener('DOMContentLoaded', restorePreOrderFromLink);
 
@@ -913,12 +915,14 @@
       var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
 
       currentOrder = { name: name, phone: fullNumber, address: fullAddress };
-      try {
-        localStorage.setItem('eg-preorder-draft', JSON.stringify({
+      fetch('/api/save-draft', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
           phone: fullNumber, cc: cc, rawPhone: digits, name: name,
           address: address, city: city, pincode: pincode, state: state
-        }));
-      } catch(ex) {}
+        })
+      }).catch(function(){});
 
       if (typeof gtag === 'function') {
         gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
@@ -986,7 +990,6 @@
                 var preorders = JSON.parse(localStorage.getItem('eg-preorders') || '[]');
                 preorders.push({ name: name, whatsapp: fullNumber, address: fullAddress, payment_id: paymentId, ts: new Date().toISOString() });
                 localStorage.setItem('eg-preorders', JSON.stringify(preorders));
-                localStorage.removeItem('eg-preorder-draft');
               } catch(ex) {}
               leadEmailSent = true;
               if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
