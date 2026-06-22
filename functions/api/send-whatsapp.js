@@ -44,7 +44,9 @@ export async function onRequestPost(context) {
       type: 'template',
       template: {
         name: template,
-        language: { code: 'en' },
+        // hello_world (Meta's built-in test template) only exists under en_US;
+        // our own templates were created under plain English (en).
+        language: { code: template === 'hello_world' ? 'en_US' : 'en' },
         components: components
       }
     };
