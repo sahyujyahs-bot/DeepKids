@@ -22,3 +22,4 @@ function json(obj, status) {
     headers: { 'Content-Type': 'application/json' }
   });
 }
+
