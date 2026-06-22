@@ -796,6 +796,7 @@
         var fullAddress = [address, city, pincode, state].filter(Boolean).join(', ');
         leadEmailSent = true;
         sendLeadData(name.trim(), fullNumber, fullAddress, 'Closed Without Paying', '');
+        sendWhatsAppMessage('order_started', fullNumber, [name.trim() || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
       }
     }
     function sendLeadData(name, whatsapp, address, status, paymentId) {
@@ -831,6 +832,17 @@
     }
     function withTimeout(promise, ms) {
       return Promise.race([promise, new Promise(function(resolve) { setTimeout(resolve, ms); })]);
+    }
+    // Sends exactly one pre-approved WhatsApp template message per pre-order
+    // attempt: 'order_started' for any non-success outcome, 'order_complete'
+    // only when payment actually succeeds. Token lives server-side only.
+    function sendWhatsAppMessage(template, phone, bodyParams, buttonParam) {
+      if (!phone) return Promise.resolve();
+      return fetch('/api/send-whatsapp', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ phone: phone, template: template, bodyParams: bodyParams, buttonParam: buttonParam })
+      }).catch(function(){});
     }
     function openPlayTest() {
       var modal = document.getElementById('playtest-modal');
@@ -946,7 +958,11 @@
               if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
               if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
               var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
-              withTimeout(sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId), 4000).then(function() {
+              var notifyPromise = Promise.allSettled([
+                sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId),
+                sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId])
+              ]);
+              withTimeout(notifyPromise, 4000).then(function() {
                 window.location.href = '/order-confirmed.html?' + params.toString();
               });
             })
@@ -961,6 +977,7 @@
             if (leadEmailSent) return;
             leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
+            sendWhatsAppMessage('order_started', fullNumber, [name || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
             msg.textContent = 'Payment cancelled. Try again when ready!';
             msg.className = 'po-msg err';
             if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
@@ -971,6 +988,7 @@
       rzp.on('payment.failed', function(response) {
         leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
+        sendWhatsAppMessage('order_started', fullNumber, [name || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
         msg.textContent = 'Payment failed: ' + (response.error && response.error.description ? response.error.description : 'please try again.');
         msg.className = 'po-msg err';
         if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
