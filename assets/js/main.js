@@ -796,7 +796,7 @@
         var fullAddress = [address, city, pincode, state].filter(Boolean).join(', ');
         leadEmailSent = true;
         sendLeadData(name.trim(), fullNumber, fullAddress, 'Closed Without Paying', '');
-        sendWhatsAppMessage('order_started', fullNumber, [name.trim() || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
+        sendWhatsAppMessage('hello_world', fullNumber, [name.trim() || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
       }
     }
     function sendLeadData(name, whatsapp, address, status, paymentId) {
@@ -960,7 +960,7 @@
               var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
               var notifyPromise = Promise.allSettled([
                 sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId),
-                sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId])
+                sendWhatsAppMessage('hello_world', fullNumber, [name, paymentId])
               ]);
               withTimeout(notifyPromise, 4000).then(function() {
                 window.location.href = '/order-confirmed.html?' + params.toString();
@@ -977,7 +977,7 @@
             if (leadEmailSent) return;
             leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
-            sendWhatsAppMessage('order_started', fullNumber, [name || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
+            sendWhatsAppMessage('hello_world', fullNumber, [name || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
             msg.textContent = 'Payment cancelled. Try again when ready!';
             msg.className = 'po-msg err';
             if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
@@ -988,7 +988,7 @@
       rzp.on('payment.failed', function(response) {
         leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
-        sendWhatsAppMessage('order_started', fullNumber, [name || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
+        sendWhatsAppMessage('hello_world', fullNumber, [name || 'there'], '?phone=' + fullNumber.replace(/^\+/, ''));
         msg.textContent = 'Payment failed: ' + (response.error && response.error.description ? response.error.description : 'please try again.');
         msg.className = 'po-msg err';
         if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
