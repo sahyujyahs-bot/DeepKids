@@ -26,7 +26,13 @@
       const cv  = document.getElementById('cv');
       const ctx = cv.getContext('2d');
       let W, H;
-      const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
+      const resize = () => {
+        W = innerWidth; H = innerHeight;
+        const dpr = Math.min(window.devicePixelRatio || 1, 2);
+        cv.width  = Math.round(W * dpr);
+        cv.height = Math.round(H * dpr);
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      };
       resize();
       addEventListener('resize', () => { resize(); rebuildWalls(); });
 

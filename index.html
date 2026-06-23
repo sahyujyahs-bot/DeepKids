@@ -931,7 +931,13 @@
       const cv  = document.getElementById('cv');
       const ctx = cv.getContext('2d');
       let W, H;
-      const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
+      const resize = () => {
+        W = innerWidth; H = innerHeight;
+        const dpr = Math.min(window.devicePixelRatio || 1, 2);
+        cv.width  = Math.round(W * dpr);
+        cv.height = Math.round(H * dpr);
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      };
       resize();
       addEventListener('resize', () => { resize(); rebuildWalls(); });
 
@@ -2474,6 +2480,11 @@
     height: auto;
     display: block;
     filter: drop-shadow(0 10px 30px rgba(0,0,0,0.5));
+    animation: s2-box-float 5s ease-in-out infinite;
+  }
+  @keyframes s2-box-float {
+    0%, 100% { transform: translateY(0); }
+    50%       { transform: translateY(-10px); }
   }
   .s2-pin-spiral { width: clamp(290px, 35vw, 420px); }
   .s2-pin-spiral .s2-pin-media > img { border-radius: 10px; }
