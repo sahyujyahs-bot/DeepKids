@@ -27,11 +27,9 @@
       const ctx = cv.getContext('2d');
       let W, H;
       const resize = () => {
-        const dpr = Math.min(window.devicePixelRatio || 1, 2);
         W = innerWidth; H = innerHeight;
-        cv.width  = Math.round(W * dpr);
-        cv.height = Math.round(H * dpr);
-        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        cv.width  = W;
+        cv.height = H;
       };
       resize();
       addEventListener('resize', () => {
@@ -45,6 +43,24 @@
         if (Math.abs(W - oldW) < 2) return;
         rebuildWalls();
       });
+
+      /* EGBox is rendered as a real DOM <img> (not canvas-drawn) so it
+         stays pixel-sharp on high-DPR mobile screens — the shared
+         canvas is intentionally kept at 1x resolution for performance/
+         stability, which makes anything drawn on it via ctx.drawImage
+         soft on retina displays. The element just tracks the physics
+         body's position/rotation every frame in drawPhysics(). */
+      const egBoxEl = document.createElement('img');
+      egBoxEl.src = CARDS.EGBox.src;
+      egBoxEl.alt = '';
+      egBoxEl.style.position = 'absolute';
+      egBoxEl.style.left = '0';
+      egBoxEl.style.top = '0';
+      egBoxEl.style.zIndex = '1';
+      egBoxEl.style.pointerEvents = 'none';
+      egBoxEl.style.display = 'none';
+      egBoxEl.style.willChange = 'transform';
+      cv.parentElement.appendChild(egBoxEl);
 
       /* ── Background: stars & drifting asteroids ─────────────── */
       let t = 0;
@@ -511,15 +527,25 @@
       function drawPhysics() {
         ctx.imageSmoothingEnabled = true;
         if ('imageSmoothingQuality' in ctx) ctx.imageSmoothingQuality = 'high';
+        let egBoxVisible = false;
         physEntries.forEach(en => {
           if (!imgCache[en.key]) return;
           const { position: p, angle: a } = en.body;
+          if (en.key === 'EGBox') {
+            egBoxVisible = true;
+            egBoxEl.style.width  = en.dW + 'px';
+            egBoxEl.style.height = en.dH + 'px';
+            egBoxEl.style.transform =
+              'translate(' + p.x + 'px,' + p.y + 'px) translate(-50%,-50%) rotate(' + a + 'rad)';
+            return;
+          }
           ctx.save();
           ctx.translate(p.x, p.y);
           ctx.rotate(a);
           ctx.drawImage(imgCache[en.key], -en.dW/2, -en.dH/2, en.dW, en.dH);
           ctx.restore();
         });
+        egBoxEl.style.display = egBoxVisible ? 'block' : 'none';
       }
 
       /* ── Floaters: bird, balloon, parachute ─────────────────── */
