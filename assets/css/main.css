@@ -840,7 +840,7 @@
   .s2-desc {
     font-family: 'Futura', sans-serif;
     font-size: clamp(15px, 1.7vw, 21px);
-    color: rgba(255,255,255,0.65); line-height: 1.55;
+    color: rgba(255,255,255,0.7); line-height: 1.55;
     margin: 0 0 clamp(20px, 3vh, 40px);
     padding: 0 clamp(12px, 4vw, 40px);
   }
@@ -963,7 +963,7 @@
   .parents-intro {
     font-family: 'Futura', sans-serif;
     font-size: clamp(15px, 1.7vw, 21px);
-    color: rgba(255,255,255,0.72);
+    color: rgba(255,255,255,0.7);
     line-height: 1.55;
     max-width: 700px;
     margin: 0 auto clamp(28px, 4vh, 44px);
@@ -1147,9 +1147,9 @@
     }
     .ps-reason-desc {
       font-family: 'Futura', sans-serif;
-      font-size: clamp(10px, 1.1vw, 13px);
+      font-size: clamp(15px, 1.7vw, 21px);
       line-height: 1.4;
-      color: rgba(255,255,255,0.6);
+      color: rgba(255,255,255,0.7);
     }
   
 
@@ -1405,8 +1405,8 @@
   }
   .gallery-sub {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(14px,1.5vw,19px);
-    color: rgba(255,255,255,0.6);
+    font-size: clamp(15px, 1.7vw, 21px);
+    color: rgba(255,255,255,0.7);
     text-align: center;
     margin: 0 auto clamp(12px,2vh,24px);
   }
@@ -1590,7 +1590,7 @@
 .forces-subtitle {
   font-family: 'Futura', sans-serif;
   font-size: clamp(15px, 1.7vw, 21px);
-  color: rgba(255,255,255,0.65);
+  color: rgba(255,255,255,0.7);
   text-align: center;
   max-width: 640px;
   margin: 0 auto clamp(20px, 3vh, 32px);
@@ -1758,7 +1758,7 @@
 .spiral-subtitle {
   font-family: 'Futura', sans-serif;
   font-size: clamp(15px, 1.7vw, 21px);
-  color: rgba(255,255,255,0.72);
+  color: rgba(255,255,255,0.7);
   text-align: center;
   max-width: 720px;
   margin: 0 auto clamp(20px, 3vh, 36px);
@@ -1946,8 +1946,8 @@
 }
 .s4b-connection {
   font-family: 'Futura', sans-serif;
-  font-size: clamp(14px, 1.4vw, 18px);
-  color: rgba(255,255,255,0.8);
+  font-size: clamp(15px, 1.7vw, 21px);
+  color: rgba(255,255,255,0.7);
   line-height: 1.6;
   text-align: center;
   margin: 0;
@@ -1976,7 +1976,7 @@
 .s6b-subtitle {
   font-family: 'Futura', sans-serif;
   font-size: clamp(15px, 1.7vw, 21px);
-  color: rgba(255,255,255,0.65);
+  color: rgba(255,255,255,0.7);
   text-align: center;
   max-width: 640px;
   margin: 0 auto clamp(16px, 2vh, 24px);
@@ -2995,7 +2995,7 @@
   .page-desc {
     font-family: 'Futura', sans-serif;
     font-size: clamp(15px, 1.7vw, 21px);
-    color: rgba(255,255,255,0.72);
+    color: rgba(255,255,255,0.7);
     line-height: 1.55;
     text-align: center;
     margin: 0 auto clamp(22px, 3vh, 36px);
@@ -3281,8 +3281,8 @@
 /* ── Mini Runner Game ────────────────────────────────── */
 .game-subtitle {
   font-family: 'Futura', sans-serif;
-  font-size: clamp(14px, 1.5vw, 19px);
-  color: rgba(255,255,255,0.55);
+  font-size: clamp(15px, 1.7vw, 21px);
+  color: rgba(255,255,255,0.7);
   text-align: center;
   margin: 0 auto clamp(16px, 2vh, 24px);
 }
@@ -3660,8 +3660,8 @@
   }
   .more-intro {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(14px, 1.5vw, 19px);
-    color: rgba(255,255,255,0.65);
+    font-size: clamp(15px, 1.7vw, 21px);
+    color: rgba(255,255,255,0.7);
     line-height: 1.5;
     max-width: 650px;
     margin: 0 auto clamp(28px, 4vh, 40px);
