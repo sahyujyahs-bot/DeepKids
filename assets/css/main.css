@@ -322,14 +322,14 @@
       text-decoration: none;
       color: #fff;
       text-shadow: 1px 1px 3px rgba(0,0,0,.6);
-      background: linear-gradient(180deg, #b8d930 0%, #a0c816 40%, #7aa010 100%);
+      background: linear-gradient(180deg, #cd9edf 0%, #aa59c8 40%, #793194 100%);
       border: 3px solid #6b2155;
       border-radius: 14px;
       cursor: pointer;
       position: relative;
       overflow: hidden;
       transition: transform .3s ease, filter .3s ease, box-shadow .3s ease;
-      box-shadow: 0 4px 16px rgba(160,200,22,.25), inset 0 1px 0 rgba(255,255,255,.2);
+      box-shadow: 0 4px 16px rgba(170,89,200,.25), inset 0 1px 0 rgba(255,255,255,.2);
       animation: btn-glow 3s ease-in-out infinite;
     }
     .dk-btn::after {
@@ -340,13 +340,13 @@
     .dk-btn:hover {
       filter: brightness(1.18);
       transform: scale(1.08);
-      box-shadow: 0 8px 36px rgba(160,200,22,.5), 0 0 60px rgba(156,188,20,.2);
+      box-shadow: 0 8px 36px rgba(170,89,200,.5), 0 0 60px rgba(170,89,200,.2);
       animation: none;
     }
     .dk-btn:active { transform: scale(.97); animation: none; }
     @keyframes btn-glow {
-      0%, 100% { box-shadow: 0 4px 16px rgba(160,200,22,.25); }
-      50%      { box-shadow: 0 6px 30px rgba(160,200,22,.45), 0 0 50px rgba(156,188,20,.15); }
+      0%, 100% { box-shadow: 0 4px 16px rgba(170,89,200,.25); }
+      50%      { box-shadow: 0 6px 30px rgba(170,89,200,.45), 0 0 50px rgba(170,89,200,.15); }
     }
 
     /* ── DK button host: any element with data-dk-btn becomes one ── */
@@ -372,20 +372,20 @@
       display: inline-block;
       cursor: pointer;
       animation: btn-bob 3.5s ease-in-out infinite;
-      filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+      filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
       transition: filter .3s ease, transform .3s ease;
       /* Shift right so the D-shape (not the K fins) is centered under text. */
       margin-left: clamp(10px, 4vw, 42px);
     }
     .btn-wrap:hover  {
-      filter: drop-shadow(0 0 22px rgba(156,188,20,0.6)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)) brightness(1.12);
+      filter: drop-shadow(0 0 22px rgba(170,89,200,0.6)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)) brightness(1.12);
       transform: translateX(5px) scale(1.07);
       animation: none;
     }
     .btn-wrap:active { transform: translateX(2px) scale(.97);                            animation: none; }
     @keyframes btn-bob {
-      0%, 100% { transform: scale(1)    translateY(0);    filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
-      50%       { transform: scale(1.03) translateY(-4px); filter: drop-shadow(0 0 22px rgba(156,188,20,0.55)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)); }
+      0%, 100% { transform: scale(1)    translateY(0);    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
+      50%       { transform: scale(1.03) translateY(-4px); filter: drop-shadow(0 0 22px rgba(170,89,200,0.55)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)); }
     }
     /* Inline button-wrap (inside forms, etc) — no margin shift, no native button styling */
     .btn-wrap-inline {
@@ -3580,11 +3580,11 @@
 }
 @keyframes quiz-pulse {
   0%, 100% {
-    box-shadow: 0 8px 28px rgba(156,188,20,0.45), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 0 rgba(156,188,20,0.5);
+    box-shadow: 0 8px 28px rgba(170,89,200,0.45), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 0 rgba(170,89,200,0.5);
     transform: scale(1);
   }
   50% {
-    box-shadow: 0 12px 44px rgba(156,188,20,0.7), 0 0 80px rgba(156,188,20,0.3), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 14px rgba(156,188,20,0);
+    box-shadow: 0 12px 44px rgba(170,89,200,0.7), 0 0 80px rgba(170,89,200,0.3), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 14px rgba(170,89,200,0);
     transform: scale(1.03);
   }
 }
@@ -3945,7 +3945,7 @@
     position: relative;
     cursor: pointer;
     line-height: 0;
-    filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
     transition: filter .2s ease;
     animation: eg-swim-across 14s linear infinite;
     will-change: transform;
@@ -3975,10 +3975,10 @@
     }
   }
   button.eg-mobile-preorder-btn:hover {
-    filter: drop-shadow(0 0 22px rgba(156,188,20,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
+    filter: drop-shadow(0 0 22px rgba(170,89,200,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
   }
   button.eg-mobile-preorder-btn:active {
-    filter: drop-shadow(0 0 10px rgba(156,188,20,0.3)) brightness(0.95);
+    filter: drop-shadow(0 0 10px rgba(170,89,200,0.3)) brightness(0.95);
   }
   button.eg-mobile-preorder-btn .btn-svg {
     width: auto !important;
@@ -3990,7 +3990,7 @@
      cleaner against the dark gradient. */
   button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"][stroke-width="9"]  { stroke: none !important; }
   button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"][stroke-width="20"] { stroke: none !important; }
-  button.eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 8 !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#aa59c8"]  { stroke-width: 8 !important; }
   /* Label centred over the pill body (K chevron sits at the right) */
   button.eg-mobile-preorder-btn .btn-label {
     position: absolute;
