@@ -138,7 +138,9 @@
     #cv {
       position: absolute; inset: 0; z-index: 0;
       display: block; cursor: grab;
-      touch-action: none;     /* JS handles scroll vs drag decision */
+      touch-action: pan-y;    /* native scroll by default; JS flips to
+                                 'none' per-gesture only when the touch
+                                 starts on a card, to allow dragging */
     }
     #cv:active { cursor: grabbing; }
 

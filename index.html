@@ -334,7 +334,9 @@
     #cv {
       position: absolute; inset: 0; z-index: 0;
       display: block; cursor: grab;
-      touch-action: none;     /* JS handles scroll vs drag decision */
+      touch-action: pan-y;    /* native scroll by default; JS flips to
+                                 'none' per-gesture only when the touch
+                                 starts on a card, to allow dragging */
     }
     #cv:active { cursor: grabbing; }
 
@@ -1365,54 +1367,44 @@
           return null;
         }
 
-        let touchLastY = 0;
-        let touchLastTime = 0;
         let draggingCard = false;
         let touchTotalMove = 0;
         let touchOnCard = false;
-        let scrollVelocity = 0;
-        let momentumRAF = 0;
+        let touchLastY = 0;
 
-        function startMomentumScroll() {
-          cancelAnimationFrame(momentumRAF);
-          const friction = 0.88;   // was 0.95 — faster decay to prevent overshooting
-          const minV = 0.5;
-          (function tick() {
-            if (Math.abs(scrollVelocity) < minV) return;
-            window.scrollBy(0, scrollVelocity);
-            scrollVelocity *= friction;
-            momentumRAF = requestAnimationFrame(tick);
-          })();
-        }
-
+        /* touch-action on the canvas decides, BEFORE the browser's
+           gesture recognizer runs, whether this touch scrolls the page
+           natively or is handed entirely to us. We set it fresh on
+           every touchstart based on the hit-test, so the browser does
+           the scrolling itself (smooth, handles gentle/slow swipes
+           correctly) for any touch that isn't on a card, and only
+           takes its hands off the wheel ('none') when we're going to
+           drag a card. This replaces a hand-rolled scrollBy+momentum
+           implementation that fought the browser instead of using it. */
         cv.addEventListener('touchstart', (e) => {
           const t = e.touches[0];
           touchLastY = t.clientY;
-          touchLastTime = performance.now();
-          cancelAnimationFrame(momentumRAF);
-          scrollVelocity = 0;
           draggingCard = false;
           touchTotalMove = 0;
 
           const rect = cv.getBoundingClientRect();
           const hit  = hitTestCard(t.clientX - rect.left, t.clientY - rect.top, 0.62);
           touchOnCard = !!hit;
+          cv.style.touchAction = touchOnCard ? 'none' : 'pan-y';
           if (touchOnCard) mouse.mousedown(e);
         }, { passive: true });
 
         cv.addEventListener('touchmove', (e) => {
           const t = e.touches[0];
-          const now = performance.now();
           const dy = touchLastY - t.clientY;
-          const dt = now - touchLastTime || 16;
           touchLastY = t.clientY;
-          touchLastTime = now;
           touchTotalMove += Math.abs(dy);
 
           /* Don't commit to a drag just because the finger landed on a
              card — only treat it as a drag once the finger has moved
              enough to show real dragging intent AND it actually started
-             on the card's visible artwork; until then, scroll normally. */
+             on the card's visible artwork; until then, let the native
+             scroll (already granted by touch-action above) carry on. */
           if (!draggingCard && touchOnCard && mc.body && touchTotalMove > 14) {
             draggingCard = true;
           }
@@ -1420,17 +1412,13 @@
           if (draggingCard) {
             mouse.mousemove(e);
             e.preventDefault();
-          } else {
-            window.scrollBy(0, dy);
-            // Cap velocity so a fast flick doesn't fling to the footer
-            scrollVelocity = Math.max(-30, Math.min(30, dy * (16 / dt)));
           }
         }, { passive: false });
 
         cv.addEventListener('touchend', (e) => {
           mouse.mouseup(e);
-          if (!draggingCard) startMomentumScroll();
           draggingCard = false;
+          cv.style.touchAction = 'pan-y';
         }, { passive: true });
 
         const hint    = document.getElementById('drag-hint');
@@ -4282,20 +4270,33 @@
     img.style.transform = 'rotate(' + a + 'deg)';
   }
 
-  // ── Scroll: rotate with scroll delta when section is in view ──
+  /* ── Rotate directly from the wheel/touch gesture, not from the
+       resulting scroll-position delta — on mobile the page's scroll
+       position can lag or batch behind the touch (and doesn't change
+       at all once the section is fully in view), so driving rotation
+       off window.pageYOffset made the image appear stuck even though
+       the gesture (and its sound, wired to the same gesture) fired. ── */
   var section = document.getElementById('s-spiral');
-  var lastY = window.pageYOffset;
-  window.addEventListener('scroll', function() {
-    if (!section) return;
+  function inSection() {
+    if (!section) return false;
     var rect = section.getBoundingClientRect();
-    if (rect.bottom < 0 || rect.top > window.innerHeight) {
-      lastY = window.pageYOffset;
-      return;
-    }
-    var y = window.pageYOffset;
-    var delta = y - lastY;
-    lastY = y;
-    setAngle(angle + delta * 0.4);
+    return rect.bottom >= 0 && rect.top <= window.innerHeight;
+  }
+  window.addEventListener('wheel', function(e) {
+    if (!inSection()) return;
+    setAngle(angle + e.deltaY * 0.4);
+  }, { passive: true });
+
+  var lastTouchYImg = 0;
+  document.addEventListener('touchstart', function(e) {
+    lastTouchYImg = e.touches[0].clientY;
+  }, { passive: true });
+  document.addEventListener('touchmove', function(e) {
+    var y = e.touches[0].clientY;
+    var dy = lastTouchYImg - y;
+    lastTouchYImg = y;
+    if (!inSection()) return;
+    setAngle(angle - dy * 0.4);
   }, { passive: true });
 
   // ── Single click: 1 full spin, alternating direction ──
