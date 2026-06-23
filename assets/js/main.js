@@ -214,7 +214,7 @@
       /* ── Card keys ──────────────────────────────────────────── */
       const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
                              'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
-                             'DKLogo','ISSArt','AppleTree'];
+                             'DKLogo','ISSArt','AppleTree','EGBox'];
       const BIRD_KEY      = 'Card12Side2';
       const BALLOON_KEY   = 'Card12Side1';
       const PARACHUTE_KEY = 'Card13Side1';
@@ -225,6 +225,7 @@
       let rainLoadedCount = 0;
       const RAIN_TOTAL = RAIN_KEYS.length;
       ALL_KEYS.forEach(k => {
+        if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
         const img   = new Image();
         img.onload  = () => {
           imgCache[k] = img;
@@ -285,8 +286,9 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info = CARDS[key];
-          const dW   = Math.round(slotW);
-          const dH   = Math.round(slotW * info.h / info.w);
+          const cardScale = info.scale || 1;
+          const dW   = Math.round(slotW * cardScale);
+          const dH   = Math.round(slotW * cardScale * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
 
           const col = i % cardsPerRow;
@@ -334,8 +336,9 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var dW = Math.round(slotW);
-        var dH = Math.round(slotW * info.h / info.w);
+        var cardScale = info.scale || 1;
+        var dW = Math.round(slotW * cardScale);
+        var dH = Math.round(slotW * cardScale * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
         var y = -dH/2 - 30;
         var body = Bodies.rectangle(x, y, dW, dH, {
@@ -651,7 +654,7 @@
       var clone = document.createElement('div');
       clone.className = 'title-morph';
       clone.setAttribute('aria-hidden', 'true');
-      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
+      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
       document.body.appendChild(clone);
 
       var scrollRange, startX, startY, startFontSize,
@@ -685,7 +688,7 @@
           'line-height:.88;white-space:nowrap;' +
           'font-size:' + startFontSize + 'px;' +
           'color:#fff;' +
-          'text-shadow:0 0 26px rgba(160,210,20,.55),3px 3px 0 rgba(0,0,0,.9);' +
+          'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
           'background:rgba(10,6,24,.6);' +
           'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
@@ -724,14 +727,14 @@
 
         clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
 
-        var r = Math.round(255 + (156 - 255) * p);
-        var g = Math.round(255 + (188 - 255) * p);
-        var b = Math.round(255 + (20  - 255) * p);
+        var r = Math.round(255 + (170 - 255) * p);
+        var g = Math.round(255 + (89  - 255) * p);
+        var b = Math.round(255 + (200 - 255) * p);
         clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
 
         var a = 1 - p;
         clone.style.textShadow =
-          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
+          '0 0 26px rgba(170,89,200,' + (0.55 * a) + '),' +
           '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
 
         // Smooth crossfade over the last 20% of the scroll range
@@ -5014,39 +5017,6 @@
     document.fonts.load('400 18px Futura').then(fitSubtitle).catch(function(){});
   }
   window.addEventListener('resize', fitSubtitle);
-})();
-
-// Sound On button — unlocks all audio contexts on first tap
-(function(){
-  var btn = document.getElementById('sound-on-btn');
-  if (!btn) return;
-  btn.addEventListener('click', function() {
-    // Unlock Web Audio contexts
-    try {
-      if (window.playBoxSound && window._cardFlipBuf) {
-        window.playBoxSound(window._cardFlipBuf, 0.5);
-      }
-    } catch(e){}
-    // Play a chime via Web Audio
-    try {
-      var ctx = new (window.AudioContext || window.webkitAudioContext)();
-      var notes = [523, 659, 784, 1047];
-      notes.forEach(function(freq, i) {
-        var osc = ctx.createOscillator();
-        var gain = ctx.createGain();
-        osc.type = 'sine';
-        osc.frequency.value = freq;
-        gain.gain.setValueAtTime(0.15, ctx.currentTime + i * 0.08);
-        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.08 + 0.3);
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.start(ctx.currentTime + i * 0.08);
-        osc.stop(ctx.currentTime + i * 0.08 + 0.3);
-      });
-    } catch(e){}
-    btn.classList.add('pressed');
-    setTimeout(function() { btn.remove(); }, 600);
-  });
 })();
 
 

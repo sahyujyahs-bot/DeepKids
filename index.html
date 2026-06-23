@@ -195,7 +195,7 @@
   <link rel="preload" as="image" href="box-lid.webp"/>
   <link rel="preload" as="image" href="board-prototype.webp"/>
   <link rel="preload" as="image" href="kit-items.webp"/>
-  <link rel="preload" as="script" href="cards.js?v=2" fetchpriority="high"/>
+  <link rel="preload" as="script" href="cards.js?v=5" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
   <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
@@ -388,36 +388,36 @@
       position: relative;
       display: inline-block;
       vertical-align: top;
-      top: -0.5em;
-      margin-left: 6px;
+      top: -0.6em;
+      margin-left: 8px;
       font-family: 'Futura', sans-serif;
       font-weight: normal;
       font-variant: normal;
-      font-size: clamp(8px, 0.85vw, 12px);
+      font-size: clamp(11px, 1.15vw, 15px);
       letter-spacing: clamp(0.5px, .2vw, 1.5px);
       text-transform: uppercase;
       color: rgba(255,255,255,0.95);
       line-height: 1;
-      padding: 3px 9px;
-      border: 1px solid rgba(192,230,56,0.6);
+      padding: 4px 12px;
+      border: 1.5px solid rgba(205,158,223,0.8);
       border-radius: 999px;
       background: rgba(10,6,24,0.98);
-      text-shadow: 0 0 10px rgba(156,188,20,0.5);
-      box-shadow: 0 0 14px rgba(192,230,56,0.3), 0 2px 8px rgba(0,0,0,0.6);
+      text-shadow: 0 0 10px rgba(170,89,200,0.5);
+      box-shadow: 0 0 18px rgba(205,158,223,0.4), 0 2px 8px rgba(0,0,0,0.6);
       white-space: nowrap;
       pointer-events: none;
     }
     .hero-tm b {
       font-weight: normal;
-      color: #c0e638;
-      text-shadow: 0 0 12px rgba(192,230,56,0.6);
+      color: #fff;
+      text-shadow: 0 0 12px rgba(205,158,223,0.5);
     }
     @media (max-width: 600px) {
       .hero-tm {
-        top: -0.4em;
+        top: -0.5em;
         margin-left: 4px;
-        font-size: clamp(7px, 2.2vw, 10px);
-        padding: 2px 6px;
+        font-size: clamp(9px, 2.8vw, 12px);
+        padding: 3px 8px;
         letter-spacing: 0.5px;
       }
     }
@@ -426,23 +426,23 @@
       font-size: clamp(11px, 1.4vw, 16px);
       letter-spacing: 2px;
       text-transform: uppercase;
-      color: #c0e638;
+      color: rgba(255,255,255,0.92);
       background: rgba(10,6,24,0.65);
-      border: 1px solid rgba(156,188,20,0.4);
+      border: 1px solid rgba(170,89,200,0.4);
       padding: 6px clamp(14px,2vw,24px);
       border-radius: 20px;
-      text-shadow: 0 0 10px rgba(192,230,56,0.5);
-      box-shadow: 0 0 16px rgba(156,188,20,0.2), inset 0 0 8px rgba(156,188,20,0.1);
+      text-shadow: 0 1px 4px rgba(0,0,0,0.6);
+      box-shadow: 0 0 16px rgba(170,89,200,0.2), inset 0 0 8px rgba(170,89,200,0.1);
       animation: hero-tag-glow 3s ease-in-out infinite;
       white-space: nowrap;
     }
     .hero-tag-sep {
-      color: rgba(192,230,56,0.5);
+      color: rgba(205,158,223,0.45);
       margin: 0 clamp(6px,1vw,12px);
     }
     @keyframes hero-tag-glow {
-      0%, 100% { box-shadow: 0 0 16px rgba(156,188,20,0.2), inset 0 0 8px rgba(156,188,20,0.1); }
-      50%      { box-shadow: 0 0 28px rgba(156,188,20,0.5), inset 0 0 14px rgba(156,188,20,0.2); }
+      0%, 100% { box-shadow: 0 0 16px rgba(170,89,200,0.2), inset 0 0 8px rgba(170,89,200,0.1); }
+      50%      { box-shadow: 0 0 28px rgba(170,89,200,0.5), inset 0 0 14px rgba(170,89,200,0.2); }
     }
 
     /* ── Title ─────────────────────────────────────────────────── */
@@ -453,7 +453,7 @@
       font-size: clamp(48px, 9vw, 120px);
       line-height: .88;
       color: #fff;
-      text-shadow: 0 0 26px rgba(160,210,20,.55), 3px 3px 0 rgba(0,0,0,.9);
+      text-shadow: 0 0 26px rgba(170,89,200,.55), 3px 3px 0 rgba(0,0,0,.9);
       margin-bottom: clamp(10px, 2vh, 24px);
       animation: float-title 7s ease-in-out infinite;
       white-space: nowrap;
@@ -473,7 +473,7 @@
       font-weight: 400; font-style: normal;
       font-size: clamp(14px, 2.2vw, 28px);
       letter-spacing: clamp(3px, .7vw, 8px);
-      color: #9cbc14;
+      color: rgba(255,255,255,0.85);
       text-transform: uppercase;
       opacity: .92;
       margin-bottom: clamp(22px, 4vh, 44px);
@@ -517,14 +517,14 @@
       text-decoration: none;
       color: #fff;
       text-shadow: 1px 1px 3px rgba(0,0,0,.6);
-      background: linear-gradient(180deg, #b8d930 0%, #a0c816 40%, #7aa010 100%);
+      background: linear-gradient(180deg, #cd9edf 0%, #aa59c8 40%, #793194 100%);
       border: 3px solid #6b2155;
       border-radius: 14px;
       cursor: pointer;
       position: relative;
       overflow: hidden;
       transition: transform .3s ease, filter .3s ease, box-shadow .3s ease;
-      box-shadow: 0 4px 16px rgba(160,200,22,.25), inset 0 1px 0 rgba(255,255,255,.2);
+      box-shadow: 0 4px 16px rgba(170,89,200,.25), inset 0 1px 0 rgba(255,255,255,.2);
       animation: btn-glow 3s ease-in-out infinite;
     }
     .dk-btn::after {
@@ -535,13 +535,13 @@
     .dk-btn:hover {
       filter: brightness(1.18);
       transform: scale(1.08);
-      box-shadow: 0 8px 36px rgba(160,200,22,.5), 0 0 60px rgba(156,188,20,.2);
+      box-shadow: 0 8px 36px rgba(170,89,200,.5), 0 0 60px rgba(170,89,200,.2);
       animation: none;
     }
     .dk-btn:active { transform: scale(.97); animation: none; }
     @keyframes btn-glow {
-      0%, 100% { box-shadow: 0 4px 16px rgba(160,200,22,.25); }
-      50%      { box-shadow: 0 6px 30px rgba(160,200,22,.45), 0 0 50px rgba(156,188,20,.15); }
+      0%, 100% { box-shadow: 0 4px 16px rgba(170,89,200,.25); }
+      50%      { box-shadow: 0 6px 30px rgba(170,89,200,.45), 0 0 50px rgba(170,89,200,.15); }
     }
 
     /* ── DK button host: any element with data-dk-btn becomes one ── */
@@ -567,20 +567,20 @@
       display: inline-block;
       cursor: pointer;
       animation: btn-bob 3.5s ease-in-out infinite;
-      filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+      filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
       transition: filter .3s ease, transform .3s ease;
       /* Shift right so the D-shape (not the K fins) is centered under text. */
       margin-left: clamp(10px, 4vw, 42px);
     }
     .btn-wrap:hover  {
-      filter: drop-shadow(0 0 22px rgba(156,188,20,0.6)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)) brightness(1.12);
+      filter: drop-shadow(0 0 22px rgba(170,89,200,0.6)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)) brightness(1.12);
       transform: translateX(5px) scale(1.07);
       animation: none;
     }
     .btn-wrap:active { transform: translateX(2px) scale(.97);                            animation: none; }
     @keyframes btn-bob {
-      0%, 100% { transform: scale(1)    translateY(0);    filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
-      50%       { transform: scale(1.03) translateY(-4px); filter: drop-shadow(0 0 22px rgba(156,188,20,0.55)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)); }
+      0%, 100% { transform: scale(1)    translateY(0);    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
+      50%       { transform: scale(1.03) translateY(-4px); filter: drop-shadow(0 0 22px rgba(170,89,200,0.55)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)); }
     }
     /* Inline button-wrap (inside forms, etc) — no margin shift, no native button styling */
     .btn-wrap-inline {
@@ -640,13 +640,13 @@
       display: inline-flex;
       align-items: center;
       gap: 4px;
-      background: rgba(192,230,56,0.12);
-      border: 1.5px solid rgba(192,230,56,0.45);
+      background: rgba(205,158,223,0.12);
+      border: 1.5px solid rgba(205,158,223,0.45);
       border-radius: 999px;
       padding: 5px 14px;
       font-family: 'Futura', sans-serif;
       font-size: clamp(12px, 1.2vw, 15px);
-      color: #c0e638;
+      color: #cd9edf;
       white-space: nowrap;
     }
     .hero-offer-mrp {
@@ -656,12 +656,12 @@
     }
     .hero-offer-price {
       font-weight: bold;
-      color: #c0e638;
+      color: #cd9edf;
     }
     .no-pay-tag {
       font-family: 'Futura', sans-serif;
       font-size: clamp(11px, 1.3vw, 15px);
-      color: rgba(156,188,20,0.75);
+      color: rgba(170,89,200,0.75);
       letter-spacing: 1.5px;
       text-shadow: 0 1px 3px rgba(0,0,0,.6);
       pointer-events: none;
@@ -674,12 +674,12 @@
       color: #fff;
       text-decoration: underline;
       text-underline-offset: 4px;
-      text-decoration-color: rgba(156,188,20,0.6);
+      text-decoration-color: rgba(170,89,200,0.6);
       letter-spacing: 1.5px;
       text-shadow: 0 1px 4px rgba(0,0,0,.7);
       transition: color .2s ease;
     }
-    .hero-playtest-link:hover { color: #c0e638; }
+    .hero-playtest-link:hover { color: #cd9edf; }
 
     /* ── Replay button ─────────────────────────────────────────── */
     #replay-btn {
@@ -690,7 +690,7 @@
       width: 46px;
       height: 46px;
       border-radius: 50%;
-      border: 2px solid rgba(160,200,22,.55);
+      border: 2px solid rgba(170,89,200,.55);
       background: rgba(2,4,14,.80);
       -webkit-backdrop-filter: blur(6px);
       backdrop-filter: blur(6px);
@@ -702,7 +702,7 @@
       outline: none;
     }
     #replay-btn:hover {
-      border-color: #a0c816;
+      border-color: #aa59c8;
       background: rgba(30,50,5,.90);
       transform: scale(1.12);
     }
@@ -710,13 +710,13 @@
     #replay-btn svg {
       width: 22px; height: 22px;
       fill: none;
-      stroke: #9cbc14;
+      stroke: #aa59c8;
       stroke-width: 2.4;
       stroke-linecap: round;
       stroke-linejoin: round;
       transition: stroke .25s;
     }
-    #replay-btn:hover svg { stroke: #c8f020; }
+    #replay-btn:hover svg { stroke: #cd9edf; }
 
     /* Spin the icon during animation */
     #replay-btn.spinning svg {
@@ -727,98 +727,36 @@
       to   { transform: rotate(-360deg); }
     }
 
-    /* ── Sound On button ───────────────────────────────────── */
-    #sound-on-btn {
-      position: absolute;
-      bottom: clamp(70px, 12vh, 100px);
-      left: 50%;
-      transform: translateX(-50%);
-      z-index: 25;
-      width: clamp(56px, 8vw, 72px);
-      height: clamp(56px, 8vw, 72px);
-      border-radius: 50%;
-      border: none;
-      cursor: pointer;
-      outline: none;
-      background: radial-gradient(circle at 30% 30%, #d4f050, #c0e638 40%, #7aa010);
-      box-shadow:
-        0 8px 0 #4a6a06,
-        0 10px 20px rgba(0,0,0,0.5),
-        inset 0 3px 6px rgba(255,255,255,0.35),
-        inset 0 -2px 4px rgba(0,0,0,0.15);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.6s ease;
-      animation: sound-pulse 2s ease-in-out infinite;
-    }
-    #sound-on-btn:hover {
-      transform: translateX(-50%) scale(1.1);
-      box-shadow:
-        0 10px 0 #4a6a06,
-        0 14px 28px rgba(0,0,0,0.5),
-        inset 0 3px 6px rgba(255,255,255,0.35),
-        inset 0 -2px 4px rgba(0,0,0,0.15);
-    }
-    #sound-on-btn:active {
-      transform: translateX(-50%) translateY(7px) scale(0.96);
-      box-shadow:
-        0 1px 0 #4a6a06,
-        0 2px 4px rgba(0,0,0,0.3),
-        inset 0 3px 8px rgba(0,0,0,0.2);
-      transition: transform 0.08s ease, box-shadow 0.08s ease;
-    }
-    #sound-on-btn.pressed {
-      transform: translateX(-50%) translateY(8px) scale(0.9);
-      box-shadow:
-        0 0 0 #4a6a06,
-        0 1px 2px rgba(0,0,0,0.2),
-        inset 0 4px 10px rgba(0,0,0,0.3);
-      opacity: 0;
-      pointer-events: none;
-      transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.4s ease 0.15s;
-    }
-    #sound-on-btn svg {
-      width: clamp(24px, 3.5vw, 32px);
-      height: clamp(24px, 3.5vw, 32px);
-      fill: #1a3a0a;
-      filter: drop-shadow(0 1px 2px rgba(0,0,0,0.3));
-    }
-    @keyframes sound-pulse {
-      0%, 100% { box-shadow: 0 4px 0 #5a7a08, 0 6px 12px rgba(0,0,0,0.4), inset 0 2px 4px rgba(255,255,255,0.3), 0 0 0 0 rgba(156,188,20,0.4); }
-      50% { box-shadow: 0 4px 0 #5a7a08, 0 6px 12px rgba(0,0,0,0.4), inset 0 2px 4px rgba(255,255,255,0.3), 0 0 0 16px rgba(156,188,20,0); }
-    }
-    #sound-on-label {
-      position: absolute;
-      bottom: -24px;
-      left: 50%;
-      transform: translateX(-50%);
-      font-family: 'Futura', sans-serif;
-      font-size: clamp(9px, 1.1vw, 12px);
-      color: rgba(255,255,255,0.5);
-      white-space: nowrap;
-      letter-spacing: 1px;
-    }
-
     /* ── Drag hint ─────────────────────────────────────────────── */
     #drag-hint {
-      position: absolute; bottom: 10px; left: 50%;
+      position: absolute; bottom: 22px; left: 50%;
       transform: translateX(-50%);
       z-index: 5;
       font-family: 'Futura', sans-serif;
-      font-size: 11px;
-      letter-spacing: 3px;
-      color: rgba(155,188,20,.50);
+      font-size: 12px;
+      letter-spacing: 2.5px;
+      font-weight: 600;
+      color: #fff;
+      background: rgba(170,89,200,.92);
+      border: 1px solid rgba(255,255,255,.35);
+      border-radius: 999px;
+      padding: 9px 20px;
+      box-shadow: 0 4px 18px rgba(93,30,120,.45);
       text-transform: uppercase;
       pointer-events: none;
       opacity: 0;                 /* starts hidden — fades in after cards settle */
       transition: opacity 2s;
+      animation: drag-hint-bounce 1.8s ease-in-out infinite;
+    }
+    @keyframes drag-hint-bounce {
+      0%, 100% { transform: translateX(-50%) translateY(0); }
+      50%      { transform: translateX(-50%) translateY(-6px); }
     }
 
     /* ── Replay button pulse (activates after first rain settles) ─ */
     @keyframes replay-pulse {
-      0%, 100% { box-shadow: 0 0 0 0   rgba(160,200,22,0);    }
-      50%       { box-shadow: 0 0 0 10px rgba(160,200,22,0.25); }
+      0%, 100% { box-shadow: 0 0 0 0   rgba(170,89,200,0);    }
+      50%       { box-shadow: 0 0 0 10px rgba(170,89,200,0.25); }
     }
     #replay-btn.pulsing {
       animation: replay-pulse 2.4s ease-in-out infinite;
@@ -847,9 +785,25 @@
   }
   .eg-nav-logo {
     font-family: 'Norwester', sans-serif; font-size: clamp(18px,2.4vw,28px);
-    color: #9cbc14; text-decoration: none; letter-spacing: 1px;
+    color: #aa59c8; text-decoration: none; letter-spacing: 1px;
     white-space: nowrap;
     opacity: 0; /* hidden until morph script hands off at scroll threshold */
+    display: flex;
+    align-items: baseline;
+    gap: clamp(6px, 1vw, 10px);
+  }
+  .eg-nav-logo-by {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(9px, 1vw, 12px);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.55);
+    font-weight: normal;
+  }
+  .eg-nav-logo-by b { color: #fff; font-weight: normal; }
+  @media (max-width: 480px) {
+    .eg-nav-logo { gap: 4px; }
+    .eg-nav-logo-by { font-size: 7px; letter-spacing: 0.2px; }
   }
   .eg-nav-right {
     display: flex;
@@ -859,7 +813,7 @@
   .eg-nav-playtest {
     font-family: 'Futura', sans-serif;
     font-size: clamp(13px, 1.4vw, 17px);
-    color: #9cbc14;
+    color: #aa59c8;
     text-decoration: underline;
     text-underline-offset: 3px;
     letter-spacing: 1px;
@@ -892,7 +846,7 @@
 </style>
 
 <nav class="eg-nav">
-  <a href="/" class="eg-nav-logo">EscapeGravity</a>
+  <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
 <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
   </div>
@@ -910,15 +864,15 @@
       <div class="hero-tags">
         <span class="hero-tag">Ages 7+ <span class="hero-tag-sep">·</span> 2+ Players <span class="hero-tag-sep">·</span> 30 min Avg Playtime</span>
       </div>
-      <h1 class="title">EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
+      <h1 class="title">EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <linearGradient id="dk-green-grad" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stop-color="#c0e638"/>
-            <stop offset="45%" stop-color="#9cbc14"/>
-            <stop offset="100%" stop-color="#6b8f08"/>
+            <stop offset="0%" stop-color="#cd9edf"/>
+            <stop offset="45%" stop-color="#aa59c8"/>
+            <stop offset="100%" stop-color="#793194"/>
           </linearGradient>
           <linearGradient id="dk-highlight" x1="0" y1="0" x2="0" y2="1">
             <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
@@ -943,9 +897,9 @@
 
         <!-- 4. K green fills on top -->
         <line x1="268" y1="54" x2="321" y2="19"
-              stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+              stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
         <line x1="268" y1="54" x2="321" y2="89"
-              stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+              stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
 
         <!-- 5. 3D lighter green streak highlight on D top -->
         <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z"
@@ -965,16 +919,6 @@
       <div class="hero-offer-badge">🚀 Early Bird — 50% Off &nbsp;<span class="hero-offer-mrp">₹4,999</span>&nbsp;<span class="hero-offer-price">₹2,499</span></div>
     </div>
   </div>
-
-  <!-- Replay button — bottom right -->
-  <button id="sound-on-btn" aria-label="Turn sound on">
-    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-      <path d="M11 5L6 9H2v6h4l5 4V5z"/>
-      <path d="M15.54 8.46a5 5 0 010 7.07" fill="none" stroke="#1a3a0a" stroke-width="2" stroke-linecap="round"/>
-      <path d="M19.07 4.93a10 10 0 010 14.14" fill="none" stroke="#1a3a0a" stroke-width="2" stroke-linecap="round"/>
-    </svg>
-    <span id="sound-on-label">sound on</span>
-  </button>
   <button id="replay-btn" onclick="replayRain()" title="Drop them again!">
     <!-- Circular arrow / replay icon -->
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -985,7 +929,7 @@
 
   <div id="drag-hint">✦&nbsp;&nbsp;grab &amp; toss the illustrations&nbsp;&nbsp;✦</div>
 
-  <script src="cards.js?v=2"></script>
+  <script src="cards.js?v=5"></script>
   <script>
 
     /* ── Main scene ───────────────────────────────────────────── */
@@ -1184,7 +1128,7 @@
       /* ── Card keys ──────────────────────────────────────────── */
       const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
                              'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
-                             'DKLogo','ISSArt','AppleTree'];
+                             'DKLogo','ISSArt','AppleTree','EGBox'];
       const BIRD_KEY      = 'Card12Side2';
       const BALLOON_KEY   = 'Card12Side1';
       const PARACHUTE_KEY = 'Card13Side1';
@@ -1195,6 +1139,7 @@
       let rainLoadedCount = 0;
       const RAIN_TOTAL = RAIN_KEYS.length;
       ALL_KEYS.forEach(k => {
+        if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
         const img   = new Image();
         img.onload  = () => {
           imgCache[k] = img;
@@ -1255,8 +1200,9 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info = CARDS[key];
-          const dW   = Math.round(slotW);
-          const dH   = Math.round(slotW * info.h / info.w);
+          const cardScale = info.scale || 1;
+          const dW   = Math.round(slotW * cardScale);
+          const dH   = Math.round(slotW * cardScale * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
 
           const col = i % cardsPerRow;
@@ -1304,8 +1250,9 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var dW = Math.round(slotW);
-        var dH = Math.round(slotW * info.h / info.w);
+        var cardScale = info.scale || 1;
+        var dW = Math.round(slotW * cardScale);
+        var dH = Math.round(slotW * cardScale * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
         var y = -dH/2 - 30;
         var body = Bodies.rectangle(x, y, dW, dH, {
@@ -1621,7 +1568,7 @@
       var clone = document.createElement('div');
       clone.className = 'title-morph';
       clone.setAttribute('aria-hidden', 'true');
-      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
+      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
       document.body.appendChild(clone);
 
       var scrollRange, startX, startY, startFontSize,
@@ -1655,7 +1602,7 @@
           'line-height:.88;white-space:nowrap;' +
           'font-size:' + startFontSize + 'px;' +
           'color:#fff;' +
-          'text-shadow:0 0 26px rgba(160,210,20,.55),3px 3px 0 rgba(0,0,0,.9);' +
+          'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
           'background:rgba(10,6,24,.6);' +
           'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
@@ -1694,14 +1641,14 @@
 
         clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
 
-        var r = Math.round(255 + (156 - 255) * p);
-        var g = Math.round(255 + (188 - 255) * p);
-        var b = Math.round(255 + (20  - 255) * p);
+        var r = Math.round(255 + (170 - 255) * p);
+        var g = Math.round(255 + (89  - 255) * p);
+        var b = Math.round(255 + (200 - 255) * p);
         clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
 
         var a = 1 - p;
         clone.style.textShadow =
-          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
+          '0 0 26px rgba(170,89,200,' + (0.55 * a) + '),' +
           '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
 
         // Smooth crossfade over the last 20% of the scroll range
@@ -2079,7 +2026,7 @@
       <img src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
-    <p class="po-subtitle">Early Bird — 50% off! Pre-order <strong>EscapeGravity</strong> at <span style="text-decoration:line-through;opacity:0.55;">₹4,999</span> <strong style="color:#c0e638;">₹2,499</strong>. We'll ship to your door!</p>
+    <p class="po-subtitle">Early Bird — 50% off! Pre-order <strong>EscapeGravity</strong> at <span style="text-decoration:line-through;opacity:0.55;">₹4,999</span> <strong style="color:#cd9edf;">₹2,499</strong>. We'll ship to your door!</p>
     <form class="po-form" onsubmit="return submitPreOrder(event)">
       <label class="po-field">
         <span>Your Name</span>
@@ -2116,9 +2063,9 @@
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <linearGradient id="dk-green-grad3" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="0%" stop-color="#c0e638"/>
-              <stop offset="45%" stop-color="#9cbc14"/>
-              <stop offset="100%" stop-color="#6b8f08"/>
+              <stop offset="0%" stop-color="#cd9edf"/>
+              <stop offset="45%" stop-color="#aa59c8"/>
+              <stop offset="100%" stop-color="#793194"/>
             </linearGradient>
             <linearGradient id="dk-highlight3" x1="0" y1="0" x2="0" y2="1">
               <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
@@ -2129,8 +2076,8 @@
           <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
           <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>
           <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad3)"/>
-          <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
-          <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
           <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight3)"/>
           <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
           <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
@@ -2150,10 +2097,10 @@
     <button type="button" class="po-close" onclick="closePlayTest()" aria-label="Close">&times;</button>
     <div class="pt-icon">
       <svg viewBox="0 0 64 64" width="56" height="56" fill="none">
-        <circle cx="32" cy="32" r="28" stroke="#9cbc14" stroke-width="2.5" stroke-dasharray="6 4"/>
-        <path d="M22 26 L32 18 L42 26" stroke="#c0e638" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M22 34 L32 26 L42 34" stroke="#9cbc14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/>
-        <circle cx="32" cy="42" r="4" fill="#9cbc14"/>
+        <circle cx="32" cy="32" r="28" stroke="#aa59c8" stroke-width="2.5" stroke-dasharray="6 4"/>
+        <path d="M22 26 L32 18 L42 26" stroke="#cd9edf" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M22 34 L32 26 L42 34" stroke="#aa59c8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/>
+        <circle cx="32" cy="42" r="4" fill="#aa59c8"/>
       </svg>
     </div>
     <h3 class="po-title pt-title">Join Playtesting</h3>
@@ -2175,9 +2122,9 @@
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <linearGradient id="dk-green-grad-pt" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="0%" stop-color="#c0e638"/>
-              <stop offset="45%" stop-color="#9cbc14"/>
-              <stop offset="100%" stop-color="#6b8f08"/>
+              <stop offset="0%" stop-color="#cd9edf"/>
+              <stop offset="45%" stop-color="#aa59c8"/>
+              <stop offset="100%" stop-color="#793194"/>
             </linearGradient>
             <linearGradient id="dk-highlight-pt" x1="0" y1="0" x2="0" y2="1">
               <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
@@ -2185,8 +2132,8 @@
             </linearGradient>
           </defs>
           <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-green-grad-pt)"/>
-          <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
-          <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
           <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-highlight-pt)"/>
           <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
         </svg>
@@ -2202,7 +2149,7 @@
 .pt-box {
   background:
     radial-gradient(circle at 25% 15%, rgba(107,33,85,0.25), transparent 55%),
-    radial-gradient(circle at 75% 85%, rgba(156,188,20,0.10), transparent 55%),
+    radial-gradient(circle at 75% 85%, rgba(170,89,200,0.10), transparent 55%),
     linear-gradient(180deg, rgba(22,10,45,0.98), rgba(12,5,28,0.98)) !important;
   border-color: rgba(107,33,85,0.6) !important;
 }
@@ -2238,17 +2185,17 @@
 @keyframes po-fade-in { from { opacity: 0; } to { opacity: 1; } }
 .po-box {
   background:
-    radial-gradient(circle at 30% 20%, rgba(156,188,20,0.12), transparent 55%),
+    radial-gradient(circle at 30% 20%, rgba(170,89,200,0.12), transparent 55%),
     radial-gradient(circle at 70% 80%, rgba(120,40,130,0.18), transparent 55%),
     linear-gradient(180deg, rgba(30,15,55,0.98), rgba(18,8,38,0.98));
-  border: 2px solid rgba(156,188,20,0.45);
+  border: 2px solid rgba(170,89,200,0.45);
   border-radius: clamp(18px, 2.5vw, 28px);
   padding: clamp(24px, 3vw, 40px) clamp(20px, 3vw, 40px);
   max-width: 480px;
   width: 100%;
   box-shadow:
     0 24px 70px rgba(0,0,0,0.65),
-    0 0 60px rgba(156,188,20,0.2),
+    0 0 60px rgba(170,89,200,0.2),
     inset 0 1px 0 rgba(255,255,255,0.06);
   position: relative;
   animation: po-slide-up 0.4s cubic-bezier(.4,0,.2,1);
@@ -2263,7 +2210,7 @@
   width: clamp(60px, 12vw, 90px);
   height: auto;
   filter: drop-shadow(0 6px 20px rgba(0,0,0,0.6))
-          drop-shadow(0 0 16px rgba(192,230,56,0.25));
+          drop-shadow(0 0 16px rgba(205,158,223,0.25));
   animation: po-rocket-bob 2.5s ease-in-out infinite;
 }
 @keyframes po-rocket-bob {
@@ -2290,7 +2237,7 @@
   color: #fff;
   text-align: center;
   margin: 0 0 8px;
-  text-shadow: 0 0 20px rgba(156,188,20,0.4);
+  text-shadow: 0 0 20px rgba(170,89,200,0.4);
 }
 .po-subtitle {
   font-family: 'Futura', sans-serif;
@@ -2310,7 +2257,7 @@
   font-size: 13px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: rgba(156,188,20,0.85);
+  color: rgba(170,89,200,0.85);
   margin-bottom: 6px;
 }
 .po-field input {
@@ -2326,8 +2273,8 @@
   transition: all 0.3s;
 }
 .po-field input:focus {
-  border-color: #9cbc14;
-  box-shadow: 0 0 0 3px rgba(156,188,20,0.15);
+  border-color: #aa59c8;
+  box-shadow: 0 0 0 3px rgba(170,89,200,0.15);
 }
 .po-field input::placeholder { color: rgba(255,255,255,0.3); }
 .po-phone-row {
@@ -2344,7 +2291,7 @@
 .po-price-label {
   text-align: center;
   font-size: 18px;
-  color: #c0e638;
+  color: #cd9edf;
   margin: 8px 0 4px;
   letter-spacing: 0.02em;
 }
@@ -2370,7 +2317,7 @@
   color: rgba(255,255,255,0.7);
 }
 .po-msg.err { color: #ff6b6b; }
-.po-msg.success { color: #9cbc14; }
+.po-msg.success { color: #aa59c8; }
 .po-submit {
   margin: clamp(8px, 1vh, 14px) auto 0;
   display: flex;
@@ -2413,67 +2360,92 @@
   .s2-title {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
     font-size: clamp(22px, 4.2vw, 62px); color: #fff;
-    text-shadow: 0 0 26px rgba(160,210,20,.45), 3px 3px 0 rgba(0,0,0,.9);
+    text-shadow: 0 0 26px rgba(170,89,200,.45), 3px 3px 0 rgba(0,0,0,.9);
     margin: 0 0 clamp(4px, 0.8vh, 10px); line-height: .9;
   }
   .s2-subtitle {
     font-family: 'Futura', sans-serif;
-    font-size: clamp(14px, 2.2vw, 28px); color: #9cbc14;
+    font-size: clamp(14px, 2.2vw, 28px); color: #aa59c8;
     letter-spacing: clamp(2px, .5vw, 5px);
     text-transform: uppercase;
     margin: 0 0 clamp(16px, 2.5vh, 32px);
-    text-shadow: 0 0 12px rgba(156,188,20,0.3);
+    text-shadow: 0 0 12px rgba(170,89,200,0.3);
     white-space: nowrap;
   }
   .s2-desc {
     font-family: 'Futura', sans-serif;
     font-size: clamp(15px, 1.7vw, 21px);
     color: rgba(255,255,255,0.65); line-height: 1.55;
-    margin: 0 0 clamp(20px, 3vh, 40px);
-    padding: 0 clamp(12px, 4vw, 40px);
+    margin: 0;
+    padding: 0;
   }
-  .s2-desc em { font-style: normal; color: #9cbc14; }
+  .s2-desc p {
+    margin: 0 0 clamp(14px, 2vh, 22px);
+  }
+  .s2-desc p:last-child { margin-bottom: 0; }
+  .s2-desc em { font-style: normal; color: #aa59c8; }
   .s2-desc-big {
     display: block;
     font-size: clamp(17px, 2vw, 24px);
     font-style: oblique;
-    margin: clamp(4px, 0.8vh, 10px) 0;
     color: rgba(255,255,255,0.8);
   }
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
-  /* ── What's Inside The Box — Horizontal film strip ────────
-     Single horizontal scroll on all screen sizes. Items scroll
-     like a film reel / train. Auto-scrolls continuously. */
-  .s2-pin {
+  /* ── Intro: text + featured box image side by side ──────── */
+  .s2-intro {
     display: flex;
-    overflow-x: auto;
-    overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
-    gap: clamp(14px, 2vw, 24px);
-    padding: 0 clamp(16px, 4vw, 48px) 20px;
-    max-width: 100%;
-    scrollbar-width: none;
+    align-items: center;
+    gap: clamp(24px, 4vw, 56px);
+    max-width: 1080px;
+    margin: 0 auto clamp(30px, 4.5vh, 52px);
+    padding: 0 clamp(16px, 4vw, 48px);
+    text-align: left;
   }
-  .s2-pin::-webkit-scrollbar { display: none; }
+  .s2-intro .s2-desc { flex: 1 1 52%; }
+  .s2-intro-img {
+    flex: 1 1 42%;
+    display: flex;
+    justify-content: center;
+  }
+  .s2-intro-img img {
+    width: 100%;
+    max-width: 360px;
+    display: block;
+    filter: drop-shadow(0 18px 30px rgba(15,6,24,0.55));
+  }
+  @media (max-width: 760px) {
+    .s2-intro { flex-direction: column; text-align: center; }
+  }
+
+  /* ── What's Inside The Box — Responsive card grid ────────── */
+  .s2-pin {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: clamp(18px, 2.4vw, 30px);
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 clamp(16px, 4vw, 48px) 10px;
+  }
   .s2-pin-item {
-    flex: 0 0 auto;
-    width: clamp(220px, 28vw, 340px);
-    background: none;
-    border: none;
-    padding: 0;
+    width: 100%;
+    background: linear-gradient(165deg, rgba(170,89,200,0.18) 0%, rgba(30,14,42,0.7) 100%);
+    border: 1px solid rgba(170,89,200,0.32);
+    box-shadow: 0 10px 28px rgba(15,6,24,0.4);
+    padding: clamp(14px, 1.8vw, 22px);
     margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    transition: transform 0.3s;
+    gap: clamp(10px, 1.4vw, 16px);
+    transition: transform 0.3s, border-color 0.3s;
     min-width: 0;
     overflow: hidden;
-    border-radius: clamp(10px, 1.5vw, 16px);
+    border-radius: clamp(14px, 1.8vw, 20px);
   }
-  .s2-pin-item:hover { transform: translateY(-4px); }
+  .s2-pin-item:hover { transform: translateY(-4px); border-color: rgba(205,158,223,0.55); }
   /* Items start invisible, animate in when section enters viewport */
   .s2-pin-item {
     opacity: 0;
@@ -2493,55 +2465,48 @@
   .s2-pin.s2-entered .s2-pin-item:nth-child(7) { transition-delay: .55s; }
   .s2-pin.s2-entered .s2-pin-item:nth-child(8) { transition-delay: .6s; }
   .s2-pin.s2-entered .s2-pin-item:nth-child(9) { transition-delay: .65s; }
-  .s2-pin-item > img,
-  .s2-pin-item > svg {
+  /* Fixed-height media frame — keeps every label aligned regardless
+     of the natural size of the image/card/dice inside it. */
+  .s2-pin-media {
     width: 100%;
-    height: auto;
-    max-height: clamp(280px, 36vw, 460px);
+    height: clamp(200px, 24vw, 300px);
+    background: rgba(10,6,24,0.4);
+    border-radius: clamp(10px, 1.4vw, 16px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .s2-pin-media img,
+  .s2-pin-media svg,
+  .s2-pin-media .s2-flip-card {
+    width: 100%;
+    height: 100%;
     object-fit: contain;
     display: block;
-    border-radius: clamp(8px, 1.2vw, 14px);
   }
-  .s2-pin-box { width: clamp(260px, 34vw, 420px); }
-  .s2-pin-box > img { object-fit: cover; object-position: center; border-radius: 10px; }
-  .s2-pin-spiral { width: clamp(280px, 36vw, 440px); }
-  .s2-pin-spiral > img { border-radius: 10px; }
-  .s2-pin-kit { width: clamp(280px, 36vw, 440px); }
-  .s2-pin-kit > img { border-radius: 10px; }
-  .s2-pin-chall {
-    width: clamp(260px, 32vw, 400px) !important;
-  }
-  .s2-pin-chall .s2-flip-card {
-    width: 100%;
-    height: clamp(360px, 44vw, 560px);
-  }
+  .s2-pin-spiral .s2-pin-media img,
+  .s2-pin-kit .s2-pin-media img { object-fit: cover; object-position: center; }
   .s2-pin-chall .s2-flip-front img,
   .s2-pin-chall .s2-flip-back img { object-fit: contain; }
-  .s2-pin-small {
-    width: clamp(140px, 16vw, 200px);
-  }
-  .s2-pin-small > img,
-  .s2-pin-small > svg { width: 80%; height: auto; object-fit: contain; }
+  .s2-pin-small .s2-pin-media img,
+  .s2-pin-small .s2-pin-media svg { width: auto; height: 65%; max-width: 70%; object-fit: contain; }
   .s2-pin-item svg { box-sizing: border-box; }
 
   .s2-pin-lbl {
     font-family: 'Norwester', sans-serif; font-variant: small-caps;
     font-size: clamp(11px, 1.2vw, 16px);
-    color: rgba(255,255,255,0.45);
+    color: #fff;
+    background: rgba(170,89,200,0.28);
+    border: 1px solid rgba(205,158,223,0.35);
+    border-radius: 999px;
     letter-spacing: 1.5px;
-    padding: 6px 4px 0;
+    padding: 6px 16px;
     text-align: center;
     flex: 0 0 auto;
   }
 
   @media (max-width: 560px) {
-    .s2-pin-item { width: clamp(180px, 55vw, 240px); }
-    .s2-pin-box { width: clamp(220px, 65vw, 280px); }
-    .s2-pin-spiral { width: clamp(220px, 65vw, 280px); }
-    .s2-pin-kit { width: clamp(220px, 65vw, 280px); }
-    .s2-pin-chall { width: clamp(200px, 58vw, 260px); }
-    .s2-pin-chall .s2-flip-card { height: clamp(280px, 75vw, 370px); }
-    .s2-pin-small { width: clamp(120px, 36vw, 160px); }
     .s2-desc-big { font-size: clamp(17px, 4.4vw, 23px); line-height: 1.35; }
   }
 </style>
@@ -2628,14 +2593,14 @@
     color: rgba(255,255,255,0.9);
   }
   .ps-cloud-kid {
-    background: rgba(20,40,5,0.7);
-    border: 1px solid rgba(156,188,20,0.35);
-    color: #b8d940;
+    background: rgba(35,16,48,0.7);
+    border: 1px solid rgba(170,89,200,0.35);
+    color: #fff;
   }
   .ps-cloud em {
     font-style: normal;
-    color: #fff;
-    font-weight: 500;
+    color: #cd9edf;
+    font-weight: 600;
   }
 
   /* Card 1: Bath — boy's cloud top-left */
@@ -2677,7 +2642,7 @@
 </style>
 
 <section id="s-parents" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">Kids To <em style="color:#9cbc14;font-style:normal;">DeepKids</em></h2>
+  <h2 class="page-h2 eg-fade-in">Kids To <em style="color:#aa59c8;font-style:normal;">DeepKids</em></h2>
   <p class="parents-intro eg-fade-in">Dear parents — your child won't just play a board game. They'll start correcting you at dinner, questioning teachers at school, and spotting science in places you never thought to look.</p>
 
   <div class="parents-stories">
@@ -2713,7 +2678,7 @@
       font-variant: small-caps;
       font-size: clamp(18px, 3vw, 32px);
       color: #fff;
-      text-shadow: 0 0 16px rgba(156,188,20,0.3);
+      text-shadow: 0 0 16px rgba(170,89,200,0.3);
       margin: clamp(40px, 6vh, 64px) 0 clamp(20px, 3vh, 32px);
       text-align: center;
     }
@@ -2748,16 +2713,16 @@
       transform: translateY(-8px) !important;
       border-color: rgba(255,255,255,0.25);
     }
-    .ps-reason:nth-child(1)  { background: linear-gradient(170deg, rgba(76,175,80,0.35) 0%, rgba(76,175,80,0.08) 100%); border-color: rgba(76,175,80,0.3); }
-    .ps-reason:nth-child(2)  { background: linear-gradient(170deg, rgba(139,195,74,0.35) 0%, rgba(139,195,74,0.08) 100%); border-color: rgba(139,195,74,0.3); }
-    .ps-reason:nth-child(3)  { background: linear-gradient(170deg, rgba(205,220,57,0.35) 0%, rgba(205,220,57,0.08) 100%); border-color: rgba(205,220,57,0.3); }
-    .ps-reason:nth-child(4)  { background: linear-gradient(170deg, rgba(255,193,7,0.35) 0%, rgba(255,193,7,0.08) 100%); border-color: rgba(255,193,7,0.3); }
-    .ps-reason:nth-child(5)  { background: linear-gradient(170deg, rgba(255,152,0,0.35) 0%, rgba(255,152,0,0.08) 100%); border-color: rgba(255,152,0,0.3); }
-    .ps-reason:nth-child(6)  { background: linear-gradient(170deg, rgba(233,90,100,0.35) 0%, rgba(233,90,100,0.08) 100%); border-color: rgba(233,90,100,0.3); }
-    .ps-reason:nth-child(7)  { background: linear-gradient(170deg, rgba(206,80,120,0.35) 0%, rgba(206,80,120,0.08) 100%); border-color: rgba(206,80,120,0.3); }
-    .ps-reason:nth-child(8)  { background: linear-gradient(170deg, rgba(171,71,140,0.35) 0%, rgba(171,71,140,0.08) 100%); border-color: rgba(171,71,140,0.3); }
-    .ps-reason:nth-child(9)  { background: linear-gradient(170deg, rgba(136,62,160,0.35) 0%, rgba(136,62,160,0.08) 100%); border-color: rgba(136,62,160,0.3); }
-    .ps-reason:nth-child(10) { background: linear-gradient(170deg, rgba(100,50,180,0.35) 0%, rgba(100,50,180,0.08) 100%); border-color: rgba(100,50,180,0.3); }
+    .ps-reason:nth-child(1)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(2)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(3)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(4)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(5)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(6)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(7)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(8)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(9)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(10) { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
     .ps-reason-icon {
       width: clamp(44px, 6vw, 56px);
       height: clamp(44px, 6vw, 56px);
@@ -2767,14 +2732,14 @@
       align-items: center;
       justify-content: center;
       font-size: clamp(20px, 2.8vw, 28px);
-      background: rgba(156,188,20,0.12);
-      border: 1.5px solid rgba(156,188,20,0.25);
+      background: rgba(170,89,200,0.12);
+      border: 1.5px solid rgba(170,89,200,0.25);
     }
     .ps-reason-title {
       font-family: 'Futura', sans-serif;
       font-size: clamp(12px, 1.4vw, 16px);
       font-weight: 500;
-      color: #9cbc14;
+      color: #aa59c8;
       margin-bottom: clamp(4px, 0.6vh, 8px);
       line-height: 1.3;
     }
@@ -2789,52 +2754,52 @@
   <div class="ps-reasons-title eg-fade-in">Why Parents Love It</div>
   <div class="ps-reasons">
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 4V2M12 22v-2M4 12H2M22 12h-2M6.34 6.34L4.93 4.93M19.07 4.93l-1.41 1.41M6.34 17.66l-1.41 1.41M19.07 19.07l-1.41-1.41" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="4" stroke="#9cbc14" stroke-width="2"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 4V2M12 22v-2M4 12H2M22 12h-2M6.34 6.34L4.93 4.93M19.07 4.93l-1.41 1.41M6.34 17.66l-1.41 1.41M19.07 19.07l-1.41-1.41" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="4" stroke="#aa59c8" stroke-width="2"/></svg></div>
       <div class="ps-reason-title">Endlessly Replayable</div>
       <div class="ps-reason-desc">Different cards, different challenges, different outcomes every time</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M13 4l-1 3-3 1 3 1 1 3 1-3 3-1-3-1-1-3zM6 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#9cbc14"/><path d="M18 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#9cbc14" opacity=".6"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M13 4l-1 3-3 1 3 1 1 3 1-3 3-1-3-1-1-3zM6 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#aa59c8"/><path d="M18 14l-1 2-2 1 2 1 1 2 1-2 2-1-2-1-1-2z" fill="#aa59c8" opacity=".6"/></svg></div>
       <div class="ps-reason-title">Gets Them Moving</div>
       <div class="ps-reason-desc">35+ physical challenges — balance, toss, blow, jump. Science through the body</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><rect x="5" y="3" width="14" height="18" rx="2" stroke="#9cbc14" stroke-width="2"/><line x1="9" y1="13" x2="15" y2="7" stroke="#9cbc14" stroke-width="2.5" stroke-linecap="round"/><line x1="9" y1="7" x2="15" y2="13" stroke="#9cbc14" stroke-width="2.5" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><rect x="5" y="3" width="14" height="18" rx="2" stroke="#aa59c8" stroke-width="2"/><line x1="9" y1="13" x2="15" y2="7" stroke="#aa59c8" stroke-width="2.5" stroke-linecap="round"/><line x1="9" y1="7" x2="15" y2="13" stroke="#aa59c8" stroke-width="2.5" stroke-linecap="round"/></svg></div>
       <div class="ps-reason-title">Zero Screens</div>
       <div class="ps-reason-desc">Fully hands-on. No apps, no batteries, no screen time</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="10" r="6" stroke="#9cbc14" stroke-width="2"/><path d="M12 16v4M9 22h6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><path d="M12 7v3l2 1" stroke="#9cbc14" stroke-width="1.5" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="10" r="6" stroke="#aa59c8" stroke-width="2"/><path d="M12 16v4M9 22h6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/><path d="M12 7v3l2 1" stroke="#aa59c8" stroke-width="1.5" stroke-linecap="round"/></svg></div>
       <div class="ps-reason-title">Deeply Researched</div>
       <div class="ps-reason-desc">13 real forces, 54 accurate tiles. Teaches gravity better than most textbooks</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 3l2.5 5 5.5.8-4 3.9.9 5.5L12 15.8l-4.9 2.4.9-5.5-4-3.9 5.5-.8L12 3z" stroke="#9cbc14" stroke-width="2" stroke-linejoin="round"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 3l2.5 5 5.5.8-4 3.9.9 5.5L12 15.8l-4.9 2.4.9-5.5-4-3.9 5.5-.8L12 3z" stroke="#aa59c8" stroke-width="2" stroke-linejoin="round"/></svg></div>
       <div class="ps-reason-title">Appropriately Challenging</div>
       <div class="ps-reason-desc">Concept-rich gameplay that provokes thinking, action, and real understanding</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 20L8 4M12 20c0-8 8-8 8-16" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="6" cy="12" r="2" fill="#9cbc14" opacity=".4"/><circle cx="16" cy="10" r="1.5" fill="#9cbc14" opacity=".6"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 20L8 4M12 20c0-8 8-8 8-16" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/><circle cx="6" cy="12" r="2" fill="#aa59c8" opacity=".4"/><circle cx="16" cy="10" r="1.5" fill="#aa59c8" opacity=".6"/></svg></div>
       <div class="ps-reason-title">Hand-Drawn Art</div>
       <div class="ps-reason-desc">Every card and tile is original artwork — no clip art, no AI</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 6h16M4 6l4 12h8l4-12" stroke="#9cbc14" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="14" r="2" fill="#9cbc14"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 6h16M4 6l4 12h8l4-12" stroke="#aa59c8" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="14" r="2" fill="#aa59c8"/></svg></div>
       <div class="ps-reason-title">Not Another Kit</div>
       <div class="ps-reason-desc">Kits get done once and shelved. This game comes out again and again</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="#9cbc14" stroke-width="2"/><path d="M12 3c0 5-4 9-9 9M12 3c0 5 4 9 9 9M12 21c0-5-4-9-9-9M12 21c0-5 4-9 9-9" stroke="#9cbc14" stroke-width="1.2" opacity=".5"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="#aa59c8" stroke-width="2"/><path d="M12 3c0 5-4 9-9 9M12 3c0 5 4 9 9 9M12 21c0-5-4-9-9-9M12 21c0-5 4-9 9-9" stroke="#aa59c8" stroke-width="1.2" opacity=".5"/></svg></div>
       <div class="ps-reason-title">Thoughtfully Designed</div>
       <div class="ps-reason-desc">Board shape, tile positions, card mechanics — every detail serves the learning</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M17 21v-2a4 4 0 00-4-4H5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><circle cx="9" cy="7" r="4" stroke="#9cbc14" stroke-width="2"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M17 21v-2a4 4 0 00-4-4H5" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/><circle cx="9" cy="7" r="4" stroke="#aa59c8" stroke-width="2"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg></div>
       <div class="ps-reason-title">Family Bonding</div>
       <div class="ps-reason-desc">A game parents genuinely enjoy playing too — learning together, not just watching</div>
     </div>
     <div class="ps-reason">
-      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/><path d="M22 2l-7 7M22 2h-5M22 2v5" stroke="#9cbc14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+      <div class="ps-reason-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/><path d="M22 2l-7 7M22 2h-5M22 2v5" stroke="#aa59c8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
       <div class="ps-reason-title">Sparks Curiosity</div>
       <div class="ps-reason-desc">Thinking cues in every card, science on every tile — each a doorway to explore more</div>
     </div>
@@ -3041,7 +3006,7 @@
     inset: 0;
     transform: rotateY(180deg);
     background: linear-gradient(170deg, rgba(15,35,15,0.8) 0%, rgba(10,6,24,0.9) 100%);
-    border: 1px solid rgba(156,188,20,0.3);
+    border: 1px solid rgba(170,89,200,0.3);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -3054,7 +3019,7 @@
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
     font-size: clamp(18px, 2.2vw, 26px);
-    color: #9cbc14;
+    color: #aa59c8;
     margin-bottom: clamp(12px, 1.5vh, 20px);
     text-align: center;
     width: 100%;
@@ -3067,16 +3032,16 @@
   }
   .unlearn-truth em {
     font-style: normal;
-    color: #9cbc14;
+    color: #aa59c8;
     font-weight: 500;
   }
   .unlearn-back .unlearn-tap {
-    color: rgba(156,188,20,0.4);
+    color: rgba(170,89,200,0.4);
   }
 </style>
 
 <section id="s-unlearn" class="eg-section">
-  <h2 class="page-h2 eg-fade-in">4 &ldquo;Facts&rdquo; About Gravity That Are Wrong. <span style="color:#9cbc14;font-size:0.7em;">#Unlearn</span></h2>
+  <h2 class="page-h2 eg-fade-in">4 &ldquo;Facts&rdquo; About Gravity That Are Wrong. <span style="color:#aa59c8;font-size:0.7em;">#Unlearn</span></h2>
   <p class="unlearn-intro eg-fade-in">You wouldn't believe how much of what we accept as facts are simply false — across topics. We did the research for you, and we hope to fix some holes. These are just 4 examples. About gravity.</p>
 
   <div class="unlearn-grid">
@@ -3159,7 +3124,7 @@
 
   </div>
 
-  <p class="eg-fade-in" style="margin-top:clamp(32px,5vh,48px);text-align:center;font-family:'Futura',sans-serif;font-size:clamp(17px,2vw,24px);color:rgba(255,255,255,0.8);max-width:700px;margin-left:auto;margin-right:auto;line-height:1.5;"><span style="color:#9cbc14;font-weight:500;">EscapeGravity</span> covers all of this and more — <span style="background:linear-gradient(to top,rgba(120,80,180,0.35) 40%,transparent 40%);padding:0 4px;">deeply researched, first principles, the full picture.</span></p>
+  <p class="eg-fade-in" style="margin-top:clamp(32px,5vh,48px);text-align:center;font-family:'Futura',sans-serif;font-size:clamp(17px,2vw,24px);color:rgba(255,255,255,0.8);max-width:700px;margin-left:auto;margin-right:auto;line-height:1.5;"><span style="color:#aa59c8;font-weight:500;">EscapeGravity</span> covers all of this and more — <span style="background:linear-gradient(to top,rgba(120,80,180,0.35) 40%,transparent 40%);padding:0 4px;">deeply researched, first principles, the full picture.</span></p>
 </section>
 
 <script>
@@ -3223,71 +3188,86 @@
 <section id="s2">
   <h2 class="page-h2 eg-fade-in">The Board Game</h2>
   <p class="page-subh eg-fade-in">Mission: Reach The International Space Station</p>
-  <p class="s2-desc eg-fade-in s2-d1">
-    Start on <em>Earth's Surface</em> and race toward the <em>ISS</em>.<br>
-    <span class="s2-desc-big">The board is <em>Gravity's agent</em> — pulling you down into the core to consume you.</span>
-    Fight back using <em>Force Cards</em>, earned by completing <em>Physical Challenges</em>.
-  </p>
 
-  <p class="page-subh eg-fade-in s2-d2">What's Inside The Box</p>
+  <div class="s2-intro">
+    <div class="s2-desc eg-fade-in s2-d1">
+      <p>Start on <em>Earth's Surface</em> and race toward the <em>ISS</em>.</p>
+      <p class="s2-desc-big">The board is <em>Gravity's agent</em> — pulling you down into the core to consume you.</p>
+      <p>Fight back using <em>Force Cards</em>, earned by completing <em>Physical Challenges</em>.</p>
+    </div>
+    <div class="s2-intro-img eg-fade-in s2-d2">
+      <img decoding="async" src="eg-closed-box.webp" alt="EscapeGravity board game box">
+    </div>
+  </div>
+
+  <p class="page-subh eg-fade-in s2-d3">What's Inside The Box</p>
 
   <div class="s2-pin">
-    <div class="s2-pin-item s2-pin-box">
-      <img decoding="async" src="box-lid.webp" alt="EscapeGravity educational board game box">
-      <div class="s2-pin-lbl">Box</div>
-    </div>
-
     <div class="s2-pin-item s2-pin-spiral">
-      <img decoding="async" src="board-prototype.webp" alt="EscapeGravity learning board game spiral board">
+      <div class="s2-pin-media">
+        <img decoding="async" src="board-prototype.webp" alt="EscapeGravity learning board game spiral board">
+      </div>
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
-    <div class="s2-pin-item s2-pin-kit">
-      <img decoding="async" src="kit-items.webp" alt="Educational board game challenge kit items">
-      <div class="s2-pin-lbl">Challenge Kit Items</div>
-    </div>
-
     <div class="s2-pin-item s2-pin-chall">
-      <div class="s2-flip-card">
-        <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img decoding="async" src="IMG_5098.jpeg" alt="Learning board game force card front"></div>
-          <div class="s2-flip-back"><img decoding="async" src="IMG_5099.jpeg" alt="Force Card Back"></div>
+      <div class="s2-pin-media">
+        <div class="s2-flip-card">
+          <div class="s2-flip-inner">
+            <div class="s2-flip-front"><img decoding="async" src="IMG_5098.jpeg" alt="Learning board game force card front"></div>
+            <div class="s2-flip-back"><img decoding="async" src="IMG_5099.jpeg" alt="Force Card Back"></div>
+          </div>
+          <span class="s2-flip-hint">tap to flip</span>
         </div>
-        <span class="s2-flip-hint">tap to flip</span>
       </div>
       <div class="s2-pin-lbl">Force Cards &mdash; 13 Forces</div>
     </div>
 
     <div class="s2-pin-item s2-pin-chall">
-      <div class="s2-flip-card">
-        <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img decoding="async" src="Lightest_Items_Wins.webp" alt="Kids board game physical challenge card"></div>
-          <div class="s2-flip-back"><img decoding="async" src="Physical_Challenge_Card_Top_Side.webp" alt="Challenge Card Back"></div>
+      <div class="s2-pin-media">
+        <div class="s2-flip-card">
+          <div class="s2-flip-inner">
+            <div class="s2-flip-front"><img decoding="async" src="Lightest_Items_Wins.webp" alt="Kids board game physical challenge card"></div>
+            <div class="s2-flip-back"><img decoding="async" src="Physical_Challenge_Card_Top_Side.webp" alt="Challenge Card Back"></div>
+          </div>
+          <span class="s2-flip-hint">tap to flip</span>
         </div>
-        <span class="s2-flip-hint">tap to flip</span>
       </div>
       <div class="s2-pin-lbl">Challenge Cards &mdash; 35+ Challenges</div>
     </div>
 
+    <div class="s2-pin-item s2-pin-kit">
+      <div class="s2-pin-media">
+        <img decoding="async" src="kit-items.webp" alt="Educational board game challenge kit items">
+      </div>
+      <div class="s2-pin-lbl">Challenge Kit Items</div>
+    </div>
+
     <div class="s2-pin-item s2-pin-small">
-      <img decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut Token">
+      <div class="s2-pin-media">
+        <img decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut Token">
+      </div>
       <div class="s2-pin-lbl">Player Tokens</div>
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket Token">
+      <div class="s2-pin-media">
+        <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket Token">
+      </div>
       <div class="s2-pin-lbl">Rocket Token</div>
     </div>
 
     <div class="s2-pin-item s2-pin-small">
-      <div class="s2-dice-scene">
-        <div class="s2-dice-cube">
-          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:2/2"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/2"></span><span class="s2-dice-dot" style="grid-area:3/1"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/2"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
-          <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/1"></span><span class="s2-dice-dot" style="grid-area:2/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
+      <div class="s2-pin-media">
+        <div class="s2-dice-scene">
+          <div class="s2-dice-cube">
+            <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:2/2"></span></div>
+            <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span></div>
+            <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/2"></span><span class="s2-dice-dot" style="grid-area:3/1"></span></div>
+            <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
+            <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/2"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
+            <div class="s2-dice-face"><span class="s2-dice-dot" style="grid-area:1/1"></span><span class="s2-dice-dot" style="grid-area:1/3"></span><span class="s2-dice-dot" style="grid-area:2/1"></span><span class="s2-dice-dot" style="grid-area:2/3"></span><span class="s2-dice-dot" style="grid-area:3/1"></span><span class="s2-dice-dot" style="grid-area:3/3"></span></div>
+          </div>
         </div>
       </div>
       <div class="s2-pin-lbl">Dice &mdash; Tap to Roll</div>
@@ -3353,7 +3333,7 @@
   transform: translateX(-50%);
   font-family: 'Futura', sans-serif;
   font-size: 12px;
-  color: rgba(156,188,20,0.7);
+  color: rgba(170,89,200,0.7);
   letter-spacing: 1px;
   white-space: nowrap;
   pointer-events: none;
@@ -3387,7 +3367,7 @@
   width: 56px;
   height: 56px;
   border-radius: 10px;
-  background: linear-gradient(148deg, #a0c816 0%, #7aa010 100%);
+  background: linear-gradient(148deg, #aa59c8 0%, #793194 100%);
   border: 2px solid #6b2155;
   box-shadow: inset 0 2px 6px rgba(255,255,255,.2), inset 0 -2px 4px rgba(0,0,0,.15);
   display: grid;
@@ -3779,10 +3759,10 @@
   font-family: 'Futura', sans-serif;
   font-size: clamp(12px, 1.3vw, 15px);
   line-height: 1.15;
-  color: #c0e638;
+  color: #cd9edf;
   text-align: center;
   letter-spacing: 0.3px;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.7), 0 0 10px rgba(156,188,20,0.35);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.7), 0 0 10px rgba(170,89,200,0.35);
   opacity: 0;
   transform: translateY(6px);
   transition: opacity .25s ease, transform .25s ease;
@@ -3822,7 +3802,7 @@
 .exp-item.is-active img {
   filter:
     drop-shadow(0 10px 22px rgba(0,0,0,0.55))
-    drop-shadow(0 0 14px rgba(156,188,20,0.45));
+    drop-shadow(0 0 14px rgba(170,89,200,0.45));
 }
 .exp-item:hover .exp-caption,
 .exp-item:focus .exp-caption,
@@ -4042,7 +4022,7 @@
   align-items: center;
   gap: 6px;
   background: rgba(18,8,38,0.5);
-  border: 1px solid rgba(156,188,20,0.15);
+  border: 1px solid rgba(170,89,200,0.15);
   border-radius: clamp(10px, 1.5vw, 16px);
   padding: clamp(10px, 1.5vw, 18px) clamp(12px, 1.8vw, 22px);
   cursor: pointer;
@@ -4064,12 +4044,12 @@
 }
 .forces-icon:hover {
   color: rgba(255,255,255,0.8);
-  border-color: rgba(156,188,20,0.4);
+  border-color: rgba(170,89,200,0.4);
 }
 .forces-icon.active {
-  color: #9cbc14;
-  border-color: #9cbc14;
-  background: rgba(156,188,20,0.1);
+  color: #aa59c8;
+  border-color: #aa59c8;
+  background: rgba(170,89,200,0.1);
 }
 
 /* Panels — fill remaining space */
@@ -4114,13 +4094,13 @@
   transition: box-shadow 0.4s ease;
 }
 .forces-card-slot:hover img {
-  box-shadow: 0 12px 40px rgba(156,188,20,0.25), 0 6px 20px rgba(0,0,0,0.5);
+  box-shadow: 0 12px 40px rgba(170,89,200,0.25), 0 6px 20px rgba(0,0,0,0.5);
 }
 .forces-card-placeholder {
   width: clamp(140px, 22vw, 220px);
   height: clamp(196px, 30vw, 308px);
   border-radius: clamp(8px, 1.2vw, 14px);
-  border: 2px dashed rgba(156,188,20,0.3);
+  border: 2px dashed rgba(170,89,200,0.3);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -4331,7 +4311,7 @@
   -webkit-tap-highlight-color: transparent;
   outline: none;
   filter: drop-shadow(0 18px 50px rgba(0,0,0,0.55))
-          drop-shadow(0 0 80px rgba(156,188,20,0.18));
+          drop-shadow(0 0 80px rgba(170,89,200,0.18));
   transform-origin: center center;
 }
 .spiral-img:focus,
@@ -4473,8 +4453,8 @@
 }
 .layer-card {
   background: rgba(18,8,38,0.55);
-  border: 1px solid rgba(156,188,20,0.12);
-  border-left: 4px solid var(--lc, #9cbc14);
+  border: 1px solid rgba(170,89,200,0.12);
+  border-left: 4px solid var(--lc, #aa59c8);
   border-radius: 10px;
   padding: clamp(10px,1.3vw,16px) clamp(12px,1.5vw,18px);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -4545,11 +4525,11 @@
         <text x="89" y="40" fill="#4fc3f7" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Thinking</text>
         <text x="89" y="43.5" fill="#4fc3f7" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Cue</text>
         <!-- Force Card Earned bracket — moved up -->
-        <line x1="87" y1="47" x2="87" y2="50.5" stroke="#9cbc14" stroke-width="0.5"/>
-        <line x1="85" y1="47" x2="87" y2="47" stroke="#9cbc14" stroke-width="0.5"/>
-        <line x1="85" y1="50.5" x2="87" y2="50.5" stroke="#9cbc14" stroke-width="0.5"/>
-        <text x="89" y="47.5" fill="#9cbc14" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Force Card</text>
-        <text x="89" y="51" fill="#9cbc14" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Earned</text>
+        <line x1="87" y1="47" x2="87" y2="50.5" stroke="#aa59c8" stroke-width="0.5"/>
+        <line x1="85" y1="47" x2="87" y2="47" stroke="#aa59c8" stroke-width="0.5"/>
+        <line x1="85" y1="50.5" x2="87" y2="50.5" stroke="#aa59c8" stroke-width="0.5"/>
+        <text x="89" y="47.5" fill="#aa59c8" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Force Card</text>
+        <text x="89" y="51" fill="#aa59c8" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Earned</text>
       </svg>
     </div>
 
@@ -4579,11 +4559,11 @@
         <line x1="85" y1="46" x2="87" y2="46" stroke="#4fc3f7" stroke-width="0.5"/>
         <text x="89" y="40" fill="#4fc3f7" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Thinking</text>
         <text x="89" y="43.5" fill="#4fc3f7" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Cue</text>
-        <line x1="87" y1="47" x2="87" y2="50.5" stroke="#9cbc14" stroke-width="0.5"/>
-        <line x1="85" y1="47" x2="87" y2="47" stroke="#9cbc14" stroke-width="0.5"/>
-        <line x1="85" y1="50.5" x2="87" y2="50.5" stroke="#9cbc14" stroke-width="0.5"/>
-        <text x="89" y="47.5" fill="#9cbc14" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Force Card</text>
-        <text x="89" y="51" fill="#9cbc14" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Earned</text>
+        <line x1="87" y1="47" x2="87" y2="50.5" stroke="#aa59c8" stroke-width="0.5"/>
+        <line x1="85" y1="47" x2="87" y2="47" stroke="#aa59c8" stroke-width="0.5"/>
+        <line x1="85" y1="50.5" x2="87" y2="50.5" stroke="#aa59c8" stroke-width="0.5"/>
+        <text x="89" y="47.5" fill="#aa59c8" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Force Card</text>
+        <text x="89" y="51" fill="#aa59c8" font-size="2.5" font-family="Futura,sans-serif" text-anchor="start" dominant-baseline="middle">Earned</text>
       </svg>
     </div>
 
@@ -4648,7 +4628,7 @@
   text-align: center;
   margin: 0;
 }
-.s4b-connection em { color: #9cbc14; font-style: normal; font-weight: bold; }
+.s4b-connection em { color: #aa59c8; font-style: normal; font-weight: bold; }
 
 @media (max-width: 900px) {
   .s4b-panel.active { flex-direction: column; align-items: center; }
@@ -4791,7 +4771,7 @@
 /* Horizontal arrow (desktop) */
 .s6b-arrow-h {
   font-size: clamp(20px, 2.5vw, 32px);
-  color: rgba(156,188,20,0.5);
+  color: rgba(170,89,200,0.5);
   flex-shrink: 0;
   line-height: 1;
 }
@@ -4799,7 +4779,7 @@
 .s6b-arrow-v {
   display: none;
   font-size: clamp(20px, 5vw, 32px);
-  color: rgba(156,188,20,0.5);
+  color: rgba(170,89,200,0.5);
   transform: rotate(90deg);
   line-height: 1;
 }
@@ -4814,8 +4794,8 @@
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
   font-size: clamp(16px, 2vw, 22px);
-  color: #9cbc14;
-  border: 1px solid rgba(156,188,20,0.3);
+  color: #aa59c8;
+  border: 1px solid rgba(170,89,200,0.3);
   padding: 4px 16px;
   border-radius: 20px;
   margin-bottom: clamp(8px, 1vh, 14px);
@@ -4827,7 +4807,7 @@
   line-height: 1.6;
   margin: 0 0 clamp(6px, 0.8vh, 10px);
 }
-.s6b-desc strong { color: #9cbc14; }
+.s6b-desc strong { color: #aa59c8; }
 
 /* Force cards — single card (Tile 16) */
 .s6b-fc-pair {
@@ -5000,7 +4980,7 @@
     bottom: -11px;
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
-    border-top: 13px solid #7aa010;
+    border-top: 13px solid #793194;
   }
   #s3.step3-view .s2-bubble-box::before {
     left: calc(8% - 2px);
@@ -5016,10 +4996,10 @@
     position: absolute; z-index: 26; left: 50%; top: 8%;
     transform: translateX(-50%);
     background: rgba(4,4,14,.84); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
-    border: 1px solid rgba(156,188,20,.45); border-radius: 20px;
+    border: 1px solid rgba(170,89,200,.45); border-radius: 20px;
     padding: 5px 18px;
     font-family: 'Futura', sans-serif; font-size: clamp(8px,1vw,13px);
-    letter-spacing: 3px; color: rgba(156,188,20,.9); text-transform: uppercase;
+    letter-spacing: 3px; color: rgba(170,89,200,.9); text-transform: uppercase;
     pointer-events: none; opacity: 0; transition: opacity .7s ease;
     white-space: nowrap;
   }
@@ -5038,7 +5018,7 @@
   /* Filter on scene — NEVER on #s2-dice (breaks preserve-3d) */
   #s2-scene {
     width: 110px; height: 110px; perspective: 420px; cursor: pointer;
-    filter: drop-shadow(0 10px 28px rgba(0,0,0,.9)) drop-shadow(0 0 22px rgba(160,200,22,.7));
+    filter: drop-shadow(0 10px 28px rgba(0,0,0,.9)) drop-shadow(0 0 22px rgba(170,89,200,.7));
   }
   @media(max-width:600px) { #s2-scene { width:82px; height:82px; } }
 
@@ -5071,7 +5051,7 @@
   .s2-face {
     position: absolute; width: 110px; height: 110px;
     border-radius: 16px;
-    background: linear-gradient(148deg, #a0c816 0%, #7aa010 100%);
+    background: linear-gradient(148deg, #aa59c8 0%, #793194 100%);
     border: 3px solid #6b2155;
     box-shadow: inset 0 3px 10px rgba(255,255,255,.25), inset 0 -3px 6px rgba(0,0,0,.2);
     box-sizing: border-box;
@@ -5103,8 +5083,8 @@
   #s2-hint {
     font-family:'Futura',sans-serif; font-weight:400; font-style:normal;
     font-size:clamp(9px,1vw,13px); letter-spacing:3px;
-    color:rgba(160,200,22,.9); text-transform:uppercase;
-    text-shadow:0 0 12px rgba(160,200,22,.65);
+    color:rgba(170,89,200,.9); text-transform:uppercase;
+    text-shadow:0 0 12px rgba(170,89,200,.65);
     animation:s2-hp 1.5s ease-in-out infinite;
     white-space:nowrap; pointer-events:none;
   }
@@ -5115,8 +5095,8 @@
     position:absolute; z-index:35; left:50%; top:36%;
     transform:translate(-50%,-50%) scale(0);
     font-family:'Norwester',sans-serif; font-variant:small-caps;
-    font-size:clamp(16px,2.5vw,38px); color:#a0c816;
-    text-shadow:0 0 20px rgba(160,200,22,.8),3px 3px 0 rgba(0,0,0,.85);
+    font-size:clamp(16px,2.5vw,38px); color:#aa59c8;
+    text-shadow:0 0 20px rgba(170,89,200,.8),3px 3px 0 rgba(0,0,0,.85);
     pointer-events:none; white-space:nowrap;
     transition:transform .45s cubic-bezier(.34,1.56,.64,1), opacity .5s ease;
   }
@@ -5134,22 +5114,22 @@
     width: clamp(40px,5vw,56px); height: clamp(40px,5vw,56px);
     border-radius:50%;
     background:rgba(4,4,14,.78); -webkit-backdrop-filter:blur(6px); backdrop-filter:blur(6px);
-    border:1.5px solid rgba(156,188,20,.5);
+    border:1.5px solid rgba(170,89,200,.5);
     display:flex; align-items:center; justify-content:center;
     cursor:pointer; transition:border-color .2s,background .2s,transform .15s;
   }
-  .s2-arrow:hover:not([disabled]) { border-color:#9cbc14; background:rgba(8,22,4,.88); transform:scale(1.1); }
+  .s2-arrow:hover:not([disabled]) { border-color:#aa59c8; background:rgba(8,22,4,.88); transform:scale(1.1); }
   .s2-arrow:active:not([disabled]) { transform:scale(.94); }
   .s2-arrow[disabled] { opacity:.25; cursor:default; pointer-events:none; }
   .s2-arrow svg {
     width:clamp(16px,2vw,22px); height:clamp(16px,2vw,22px);
-    stroke:#9cbc14; fill:none; stroke-width:2.5; stroke-linecap:round; stroke-linejoin:round;
+    stroke:#aa59c8; fill:none; stroke-width:2.5; stroke-linecap:round; stroke-linejoin:round;
   }
 
   /* ── Zoom progress indicator ─────────────────────────────── */
   #s2-progress {
     position:absolute; bottom:0; left:0; height:2px;
-    background:linear-gradient(90deg,rgba(156,188,20,.8),rgba(100,160,10,.4));
+    background:linear-gradient(90deg,rgba(170,89,200,.8),rgba(100,160,10,.4));
     width:0%; transition:none; z-index:15; pointer-events:none;
     opacity:1;
   }
@@ -5168,7 +5148,7 @@
     opacity: 1;
   }
   .s2-bubble-box {
-    background: linear-gradient(135deg, #a0c816, #7aa010);
+    background: linear-gradient(135deg, #aa59c8, #793194);
     color: #fff;
     font-family: 'Futura', sans-serif;
     font-size: clamp(13px, 1.9vw, 20px);
@@ -5192,7 +5172,7 @@
     width: 0; height: 0;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
-    border-top: 18px solid #7aa010;
+    border-top: 18px solid #793194;
     transform: rotate(20deg);
   }
   .s2-bubble-box::before {
@@ -5533,7 +5513,7 @@
   text-transform: uppercase;
   color: rgba(255,255,255,0.5);
   background: transparent;
-  border: 1px solid rgba(156,188,20,0.15);
+  border: 1px solid rgba(170,89,200,0.15);
   border-radius: 20px;
   padding: 5px clamp(12px, 2vw, 24px);
   cursor: pointer;
@@ -5542,15 +5522,15 @@
 }
 .s2-tab-arrow {
   font-size: clamp(14px, 1.6vw, 22px);
-  color: rgba(156,188,20,0.5);
+  color: rgba(170,89,200,0.5);
   user-select: none;
   line-height: 1;
 }
-.s2-tab:hover { color: rgba(255,255,255,0.8); border-color: rgba(156,188,20,0.4); }
+.s2-tab:hover { color: rgba(255,255,255,0.8); border-color: rgba(170,89,200,0.4); }
 .s2-tab.active {
-  color: #9cbc14;
-  border-color: #9cbc14;
-  background: rgba(156,188,20,0.08);
+  color: #aa59c8;
+  border-color: #aa59c8;
+  background: rgba(170,89,200,0.08);
 }
 .s2-tab.locked {
   filter: grayscale(1);
@@ -5593,7 +5573,7 @@
   }
 }
 .s2-fan-card:hover {
-  filter: brightness(1.15) drop-shadow(0 0 20px rgba(156,188,20,0.4));
+  filter: brightness(1.15) drop-shadow(0 0 20px rgba(170,89,200,0.4));
   z-index: 10;
 }
 
@@ -5656,18 +5636,18 @@
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
   font-size: clamp(14px, 2.2vw, 24px);
-  color: #c0e638;
-  text-shadow: 0 0 14px rgba(156,188,20,0.6);
+  color: #cd9edf;
+  text-shadow: 0 0 14px rgba(170,89,200,0.6);
   text-align: center;
   opacity: 0;
   transition: opacity 0.6s ease;
   pointer-events: none;
   z-index: 50;
   background: rgba(10,6,24,0.92);
-  border: 1.5px solid rgba(192,230,56,0.55);
+  border: 1.5px solid rgba(205,158,223,0.55);
   border-radius: 999px;
   padding: 8px clamp(14px, 2vw, 24px);
-  box-shadow: 0 4px 18px rgba(0,0,0,0.55), 0 0 24px rgba(156,188,20,0.25);
+  box-shadow: 0 4px 18px rgba(0,0,0,0.55), 0 0 24px rgba(170,89,200,0.25);
   white-space: nowrap;
   max-width: 92%;
   overflow: hidden;
@@ -5694,8 +5674,8 @@
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
   font-size: clamp(18px, 3vw, 36px);
-  color: #9cbc14;
-  text-shadow: 0 0 20px rgba(156,188,20,0.6);
+  color: #aa59c8;
+  text-shadow: 0 0 20px rgba(170,89,200,0.6);
   text-align: center;
   opacity: 0;
   transition: opacity 0.6s ease;
@@ -5775,8 +5755,8 @@
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
   font-size: clamp(22px, 4vw, 42px);
-  color: #9cbc14;
-  text-shadow: 0 0 20px rgba(156,188,20,0.6);
+  color: #aa59c8;
+  text-shadow: 0 0 20px rgba(170,89,200,0.6);
   margin-bottom: clamp(16px, 3vh, 30px);
   text-align: center;
 }
@@ -5848,14 +5828,14 @@
   letter-spacing: 3px;
   text-transform: uppercase;
   text-decoration: underline;
-  color: #9cbc14;
+  color: #aa59c8;
   cursor: pointer;
   text-align: center;
   margin-top: 4px;
   opacity: 0.6;
   transition: opacity 0.4s ease, text-shadow 0.3s ease;
 }
-.s2-force-link:hover { text-shadow: 0 0 12px rgba(156,188,20,0.6); opacity: 1; }
+.s2-force-link:hover { text-shadow: 0 0 12px rgba(170,89,200,0.6); opacity: 1; }
 .s2-force-link.disabled {
   opacity: 0.35;
   cursor: default;
@@ -5866,7 +5846,7 @@
 
 @keyframes s2-force-pulse {
   0%, 100% { opacity: 0.6; transform: scale(1); text-shadow: 0 0 0 transparent; }
-  50% { opacity: 1; transform: scale(1.08); text-shadow: 0 0 18px rgba(156,188,20,0.7); }
+  50% { opacity: 1; transform: scale(1.08); text-shadow: 0 0 18px rgba(170,89,200,0.7); }
 }
 .s2-force-link.pulse {
   animation: s2-force-pulse 1.5s ease-in-out infinite;
@@ -7925,7 +7905,7 @@
   .eg-section::before {
     content: '';
     position: absolute; top: 0; left: 10%; right: 10%; height: 1px;
-    background: linear-gradient(90deg, transparent, rgba(156,188,20,0.2), transparent);
+    background: linear-gradient(90deg, transparent, rgba(170,89,200,0.2), transparent);
   }
   /* ── Unified section headings & subheadings ─────────────── */
   .eg-section-title,
@@ -7936,7 +7916,7 @@
     line-height: 1;
     color: #fff;
     text-align: center;
-    text-shadow: 0 0 30px rgba(156,188,20,0.5), 0 0 60px rgba(156,188,20,0.2);
+    text-shadow: 0 0 30px rgba(170,89,200,0.5), 0 0 60px rgba(170,89,200,0.2);
     margin: 0 auto clamp(12px, 2vh, 20px) !important;
     max-width: 1100px;
     padding: 0 clamp(16px,4vw,40px);
@@ -7944,12 +7924,12 @@
   .page-subh {
     font-family: 'Futura', sans-serif;
     font-size: clamp(14px, 1.8vw, 22px);
-    color: #9cbc14;
+    color: #aa59c8;
     letter-spacing: clamp(2px, .4vw, 4px);
     text-transform: uppercase;
     text-align: center;
     margin: 0 auto clamp(22px, 3vh, 36px);
-    text-shadow: 0 0 12px rgba(156,188,20,0.3);
+    text-shadow: 0 0 12px rgba(170,89,200,0.3);
     max-width: 1100px;
     padding: 0 clamp(16px,4vw,40px);
   }
@@ -7963,7 +7943,7 @@
     max-width: 780px;
     padding: 0 clamp(16px,4vw,40px);
   }
-  .page-desc em { color: #9cbc14; font-style: normal; }
+  .page-desc em { color: #aa59c8; font-style: normal; }
 
   /* ── S3 About styles ─────────────────────────────────────── */
   .s4-title {
@@ -7972,7 +7952,7 @@
   .s4-subtitle {
     font-family: 'Futura', sans-serif;
     font-size: clamp(16px, 2vw, 24px);
-    color: #9cbc14;
+    color: #aa59c8;
     text-align: center;
     margin: 0 0 clamp(32px, 5vh, 60px);
     letter-spacing: 2px;
@@ -7993,7 +7973,7 @@
     margin: 0 0 16px;
   }
   .s4-stats {
-    background: rgba(156,188,20,0.06);
+    background: rgba(170,89,200,0.06);
     border: 1px solid rgba(255,152,0,0.25);
     border-radius: 20px;
     backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
@@ -8007,12 +7987,12 @@
     padding: 16px 8px;
     border-radius: 12px;
     background: rgba(255,255,255,0.03);
-    border: 1px solid rgba(156,188,20,0.12);
+    border: 1px solid rgba(170,89,200,0.12);
   }
   .s4-stat-value {
     font-family: 'Norwester', sans-serif;
     font-size: clamp(22px, 3vw, 36px);
-    color: #9cbc14;
+    color: #aa59c8;
     display: block;
   }
   .s4-stat-label {
@@ -8040,8 +8020,8 @@
     margin: 0 auto;
   }
   .s5-card {
-    background: rgba(156,188,20,0.04);
-    border: 1px solid rgba(156,188,20,0.18);
+    background: rgba(170,89,200,0.04);
+    border: 1px solid rgba(170,89,200,0.18);
     border-radius: 18px;
     backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
     padding: clamp(20px, 2.5vw, 36px);
@@ -8050,8 +8030,8 @@
   }
   .s5-card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 16px 48px rgba(156,188,20,0.12);
-    border-color: rgba(156,188,20,0.4);
+    box-shadow: 0 16px 48px rgba(170,89,200,0.12);
+    border-color: rgba(170,89,200,0.4);
   }
   .s5-icon {
     width: 48px; height: 48px;
@@ -8059,13 +8039,13 @@
   }
   .s5-icon svg {
     width: 100%; height: 100%;
-    stroke: #9cbc14; fill: none; stroke-width: 1.5;
+    stroke: #aa59c8; fill: none; stroke-width: 1.5;
     stroke-linecap: round; stroke-linejoin: round;
   }
   .s5-card h3 {
     font-family: 'Norwester', sans-serif;
     font-size: clamp(16px, 1.8vw, 22px);
-    color: #9cbc14;
+    color: #aa59c8;
     margin: 0 0 8px;
   }
   .s5-card p {
@@ -8116,7 +8096,7 @@
     font-size: 16px;
     color: #fff;
     background: rgba(255,255,255,0.05);
-    border: 1.5px solid rgba(156,188,20,0.25);
+    border: 1.5px solid rgba(170,89,200,0.25);
     border-radius: 10px;
     outline: none;
     transition: border-color 0.3s ease, box-shadow 0.3s ease;
@@ -8125,8 +8105,8 @@
   }
   .s6-input::placeholder { color: rgba(255,255,255,0.35); }
   .s6-input:focus {
-    border-color: #9cbc14;
-    box-shadow: 0 0 16px rgba(156,188,20,0.2);
+    border-color: #aa59c8;
+    box-shadow: 0 0 16px rgba(170,89,200,0.2);
   }
   .s6-launch { flex: 0 0 auto; }
   .s6-launch .btn-svg { width: clamp(170px, 26vw, 240px); }
@@ -8152,7 +8132,7 @@
   .eg-footer-brand-name {
     font-family: 'Norwester', sans-serif;
     font-size: clamp(20px, 2.5vw, 28px);
-    color: #9cbc14;
+    color: #aa59c8;
     margin: 0 0 8px;
   }
   .eg-footer-brand-tag {
@@ -8168,13 +8148,13 @@
     line-height: 1.5;
     margin-top: 14px;
     padding-top: 12px;
-    border-top: 1px solid rgba(156,188,20,0.15);
+    border-top: 1px solid rgba(170,89,200,0.15);
   }
   .eg-footer-by strong {
-    color: #9cbc14;
+    color: #aa59c8;
     font-weight: normal;
     letter-spacing: 1px;
-    text-shadow: 0 0 14px rgba(156,188,20,0.35);
+    text-shadow: 0 0 14px rgba(170,89,200,0.35);
   }
   .eg-footer h4 {
     font-family: 'Norwester', sans-serif;
@@ -8195,27 +8175,27 @@
     text-decoration: none;
     transition: color 0.3s ease;
   }
-  .eg-footer-links a:hover { color: #9cbc14; }
+  .eg-footer-links a:hover { color: #aa59c8; }
   .eg-footer-socials {
     display: flex; gap: 16px; margin-top: 4px;
   }
   .eg-footer-socials a {
     display: flex; align-items: center; justify-content: center;
     width: 40px; height: 40px; border-radius: 50%;
-    background: rgba(156,188,20,0.08);
-    border: 1px solid rgba(156,188,20,0.2);
+    background: rgba(170,89,200,0.08);
+    border: 1px solid rgba(170,89,200,0.2);
     transition: background 0.3s ease, border-color 0.3s ease;
   }
   .eg-footer-socials a:hover {
-    background: rgba(156,188,20,0.18);
-    border-color: rgba(156,188,20,0.5);
+    background: rgba(170,89,200,0.18);
+    border-color: rgba(170,89,200,0.5);
   }
   .eg-footer-socials svg {
     width: 18px; height: 18px;
     fill: rgba(255,255,255,0.65);
     transition: fill 0.3s ease;
   }
-  .eg-footer-socials a:hover svg { fill: #9cbc14; }
+  .eg-footer-socials a:hover svg { fill: #aa59c8; }
   .eg-footer-bottom {
     text-align: center;
     padding: 20px 0;
@@ -8305,9 +8285,9 @@
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
   font-size: clamp(18px, 3vw, 28px);
-  color: #9cbc14;
+  color: #aa59c8;
   text-align: center;
-  text-shadow: 0 0 20px rgba(156,188,20,0.4);
+  text-shadow: 0 0 20px rgba(170,89,200,0.4);
 }
 </style>
 
@@ -8537,13 +8517,13 @@
     // Ground (semi-transparent — page starry bg shows through)
     ctx.fillStyle = 'rgba(26,10,46,0.6)';
     ctx.fillRect(0, GROUND, W, H - GROUND);
-    ctx.strokeStyle = 'rgba(156,188,20,0.3)';
+    ctx.strokeStyle = 'rgba(170,89,200,0.3)';
     ctx.lineWidth = 1;
     ctx.beginPath(); ctx.moveTo(0, GROUND); ctx.lineTo(W, GROUND); ctx.stroke();
 
     // Ground details
     var gOff = dist % 40;
-    ctx.fillStyle = 'rgba(156,188,20,0.08)';
+    ctx.fillStyle = 'rgba(170,89,200,0.08)';
     for (var g = -1; g < W / 40 + 1; g++) {
       ctx.fillRect(g * 40 - gOff, GROUND + 4, 2, 6);
     }
@@ -8717,7 +8697,7 @@
     if (flashTimer > 0) {
       ctx.fillStyle = 'rgba(0,0,0,0.5)';
       ctx.fillRect(W / 2 - 140, 10, 280, 30);
-      ctx.fillStyle = gameState === 'dead' ? '#ef5350' : '#9cbc14';
+      ctx.fillStyle = gameState === 'dead' ? '#ef5350' : '#aa59c8';
       ctx.font = 'bold 14px Futura, sans-serif';
       ctx.textAlign = 'center';
       ctx.fillText(flashMsg, W / 2, 30);
@@ -8895,14 +8875,14 @@
   position: absolute;
   width: 8px; height: 8px;
   border-radius: 50%;
-  background: #c0e638;
+  background: #cd9edf;
   box-shadow:
-    20px 40px 0 #9cbc14, 80px 80px 0 #ffb74d, 140px 20px 0 #4fc3f7,
-    220px 60px 0 #e85d75, 320px 30px 0 #ab47bc, 420px 80px 0 #9cbc14,
+    20px 40px 0 #aa59c8, 80px 80px 0 #ffb74d, 140px 20px 0 #4fc3f7,
+    220px 60px 0 #e85d75, 320px 30px 0 #ab47bc, 420px 80px 0 #aa59c8,
     520px 20px 0 #4fc3f7, 620px 60px 0 #ffb74d,
-    30px 200px 0 #ab47bc, 120px 260px 0 #9cbc14, 220px 220px 0 #4fc3f7,
-    330px 260px 0 #ffb74d, 430px 220px 0 #e85d75, 530px 260px 0 #9cbc14,
-    630px 220px 0 #c0e638;
+    30px 200px 0 #ab47bc, 120px 260px 0 #aa59c8, 220px 220px 0 #4fc3f7,
+    330px 260px 0 #ffb74d, 430px 220px 0 #e85d75, 530px 260px 0 #aa59c8,
+    630px 220px 0 #cd9edf;
   opacity: 0.6;
   animation: quiz-sparkle 4s ease-in-out infinite;
   pointer-events: none;
@@ -8923,18 +8903,18 @@
   border-radius: 20px;
   overflow: hidden;
   margin-bottom: clamp(18px,2.5vh,28px);
-  border: 1px solid rgba(156,188,20,0.2);
+  border: 1px solid rgba(170,89,200,0.2);
   box-shadow: inset 0 2px 6px rgba(0,0,0,0.4);
   position: relative;
 }
 .quiz-progress-bar {
   height: 100%;
   width: 0;
-  background: linear-gradient(90deg, #4fc3f7, #9cbc14, #ffb74d, #e85d75);
+  background: linear-gradient(90deg, #4fc3f7, #aa59c8, #ffb74d, #e85d75);
   background-size: 300% 100%;
   border-radius: 20px;
   transition: width 0.5s cubic-bezier(.4,0,.2,1);
-  box-shadow: 0 0 20px rgba(156,188,20,0.7);
+  box-shadow: 0 0 20px rgba(170,89,200,0.7);
   animation: quiz-bar-shimmer 3s linear infinite;
 }
 @keyframes quiz-bar-shimmer {
@@ -8943,7 +8923,7 @@
 }
 .quiz-stage {
   background:
-    radial-gradient(circle at 20% 20%, rgba(156,188,20,0.12), transparent 50%),
+    radial-gradient(circle at 20% 20%, rgba(170,89,200,0.12), transparent 50%),
     radial-gradient(circle at 80% 80%, rgba(79,195,247,0.12), transparent 50%),
     linear-gradient(180deg, rgba(40,18,70,0.92), rgba(18,8,38,0.95));
   border: 2px solid transparent;
@@ -8956,7 +8936,7 @@
   justify-content: center;
   text-align: center;
   position: relative;
-  box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 60px rgba(156,188,20,0.15);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 60px rgba(170,89,200,0.15);
   overflow: hidden;
 }
 /* Animated gradient border */
@@ -8966,7 +8946,7 @@
   inset: 0;
   padding: 2px;
   border-radius: inherit;
-  background: linear-gradient(135deg, #9cbc14, #4fc3f7, #ffb74d, #e85d75, #9cbc14);
+  background: linear-gradient(135deg, #aa59c8, #4fc3f7, #ffb74d, #e85d75, #aa59c8);
   background-size: 300% 300%;
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -8986,11 +8966,11 @@
 }
 @keyframes quiz-pulse {
   0%, 100% {
-    box-shadow: 0 8px 28px rgba(156,188,20,0.45), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 0 rgba(156,188,20,0.5);
+    box-shadow: 0 8px 28px rgba(170,89,200,0.45), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 0 rgba(170,89,200,0.5);
     transform: scale(1);
   }
   50% {
-    box-shadow: 0 12px 44px rgba(156,188,20,0.7), 0 0 80px rgba(156,188,20,0.3), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 14px rgba(156,188,20,0);
+    box-shadow: 0 12px 44px rgba(170,89,200,0.7), 0 0 80px rgba(170,89,200,0.3), inset 0 2px 0 rgba(255,255,255,0.3), 0 0 0 14px rgba(170,89,200,0);
     transform: scale(1.03);
   }
 }
@@ -9001,7 +8981,7 @@
   color: #fff;
   margin-bottom: clamp(18px,2.8vh,28px);
   line-height: 1.3;
-  text-shadow: 0 0 18px rgba(156,188,20,0.35), 0 2px 0 rgba(0,0,0,0.6);
+  text-shadow: 0 0 18px rgba(170,89,200,0.35), 0 2px 0 rgba(0,0,0,0.6);
   position: relative;
   z-index: 2;
   animation: quiz-q-pop 0.5s cubic-bezier(.4,0,.2,1);
@@ -9022,7 +9002,7 @@
   font-size: clamp(16px,1.9vw,21px);
   color: #fff;
   background: linear-gradient(180deg, rgba(30,18,58,0.85), rgba(15,8,32,0.85));
-  border: 2px solid rgba(156,188,20,0.3);
+  border: 2px solid rgba(170,89,200,0.3);
   border-radius: 12px;
   padding: clamp(12px,1.7vh,16px) clamp(16px,2.2vw,24px);
   cursor: pointer;
@@ -9038,11 +9018,11 @@
 .quiz-opt:nth-child(3) { animation-delay: 0.19s; }
 .quiz-opt:nth-child(4) { animation-delay: 0.26s; }
 .quiz-opt:hover:not(:disabled) {
-  border-color: #c0e638;
-  background: linear-gradient(180deg, rgba(156,188,20,0.18), rgba(30,18,58,0.9));
+  border-color: #cd9edf;
+  background: linear-gradient(180deg, rgba(170,89,200,0.18), rgba(30,18,58,0.9));
   transform: translateX(8px) scale(1.02);
-  box-shadow: 0 4px 20px rgba(156,188,20,0.25);
-  color: #c0e638;
+  box-shadow: 0 4px 20px rgba(170,89,200,0.25);
+  color: #cd9edf;
 }
 .quiz-opt.right {
   border-color: #4caf50;
@@ -9085,9 +9065,9 @@
   margin-top: clamp(18px,2.5vh,26px);
   font-family: 'Futura', sans-serif;
   font-size: clamp(14px,1.5vw,17px);
-  background: rgba(156,188,20,0.15);
-  border: 1px solid #9cbc14;
-  color: #c0e638;
+  background: rgba(170,89,200,0.15);
+  border: 1px solid #aa59c8;
+  color: #cd9edf;
   border-radius: 8px;
   padding: 10px 22px;
   cursor: pointer;
@@ -9099,7 +9079,7 @@
   pointer-events: none;
 }
 .quiz-next.show { opacity: 1; pointer-events: auto; }
-.quiz-next:hover { background: rgba(156,188,20,0.28); }
+.quiz-next:hover { background: rgba(170,89,200,0.28); }
 .quiz-result {
   text-align: center;
 }
@@ -9107,9 +9087,9 @@
   font-family: 'Norwester', sans-serif;
   font-variant: small-caps;
   font-size: clamp(22px,3vw,36px);
-  color: #9cbc14;
+  color: #aa59c8;
   margin-bottom: 12px;
-  text-shadow: 0 0 20px rgba(156,188,20,0.4);
+  text-shadow: 0 0 20px rgba(170,89,200,0.4);
 }
 .quiz-result p {
   font-family: 'Futura', sans-serif;
@@ -9301,13 +9281,13 @@
     margin-top: clamp(24px, 3vh, 36px);
   }
   .faq-item {
-    border: 1px solid rgba(156,188,20,0.15);
+    border: 1px solid rgba(170,89,200,0.15);
     border-radius: 12px;
     overflow: hidden;
     background: rgba(10,6,24,0.5);
     transition: border-color 0.3s ease;
   }
-  .faq-item:hover { border-color: rgba(156,188,20,0.35); }
+  .faq-item:hover { border-color: rgba(170,89,200,0.35); }
   .faq-q {
     display: flex;
     align-items: center;
@@ -9320,14 +9300,14 @@
     user-select: none;
     gap: 12px;
   }
-  .faq-q:hover { color: #9cbc14; }
+  .faq-q:hover { color: #aa59c8; }
   .faq-arrow {
     width: 20px;
     height: 20px;
     flex-shrink: 0;
     transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
   }
-  .faq-arrow path { stroke: #9cbc14; }
+  .faq-arrow path { stroke: #aa59c8; }
   .faq-item.open .faq-arrow { transform: rotate(180deg); }
   .faq-a {
     max-height: 0;
@@ -9345,7 +9325,7 @@
     line-height: 1.55;
     color: rgba(255,255,255,0.65);
   }
-  .faq-a-inner em { font-style: normal; color: #9cbc14; }
+  .faq-a-inner em { font-style: normal; color: #aa59c8; }
   .faq-item {
     opacity: 0;
     transform: translateX(-20px);
@@ -9364,7 +9344,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         What age group is EscapeGravity designed for?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">Ages <em>7 and up</em>. Younger kids enjoy the physical challenges and dice rolling, while older kids and teens engage with the science and strategy. Parents find it genuinely interesting too — it's a true family game.</div></div>
     </div>
@@ -9372,7 +9352,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         How many players can play?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner"><em>2 to 6 players</em>. Works great for siblings, family game nights, or playdates. The physical challenges are even more fun with a bigger group.</div></div>
     </div>
@@ -9380,7 +9360,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         How long does a game take?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">About <em>30 minutes</em> on average — short enough to fit before dinner, long enough to feel like an adventure.</div></div>
     </div>
@@ -9388,7 +9368,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         Do I need to know physics to play with my kids?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">Not at all. The science is <em>built into the gameplay</em> — every tile explains the concept in simple language. You'll learn alongside your kids. That's part of the fun.</div></div>
     </div>
@@ -9396,7 +9376,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         Will my child actually learn, or is it just a game?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">Both. The 35+ physical challenges make kids <em>feel</em> forces like gravity, air resistance, and friction through their own body. The science tiles explain <em>why</em>. Kids remember what they experience — not what they memorize.</div></div>
     </div>
@@ -9404,7 +9384,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         Is it a one-time thing or can they play it again?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner"><em>Endlessly replayable.</em> Different challenge cards, different force cards, different dice rolls — every game plays out differently. This isn't a kit you do once and shelve.</div></div>
     </div>
@@ -9412,7 +9392,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         How much space do we need to play?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">A dining table for the board, and a bit of room nearby for the physical challenges — <em>balancing, tossing, jumping</em>. Works perfectly in a living room or even a small apartment.</div></div>
     </div>
@@ -9420,7 +9400,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         What's in the box?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">A <em>spiral game board</em> with 54 science tiles, <em>13 force cards</em> across 7 categories, <em>physical challenge cards</em>, player tokens, a dice, and a rule booklet. Everything hand-illustrated.</div></div>
     </div>
@@ -9428,7 +9408,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         How much does EscapeGravity cost?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available for pre-order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Pre-orders ship once production is complete. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
     </div>
@@ -9436,7 +9416,7 @@
     <div class="faq-item eg-fade-in">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         Are the materials safe for kids?
-        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#9cbc14" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
       <div class="faq-a"><div class="faq-a-inner">Absolutely. All components are made with <em>child-safe, non-toxic materials</em>. The board and cards are designed to withstand enthusiastic play.</div></div>
     </div>
@@ -9492,7 +9472,7 @@
     </div>
 
     <div class="s5-card eg-fade-in">
-      <div class="s5-icon"><svg viewBox="0 0 48 48"><rect x="6" y="10" width="36" height="28" rx="3" fill="none"/><path d="M6 18 L24 28 L42 18"/><circle cx="36" cy="14" r="2" fill="#9cbc14" stroke="none"/></svg></div>
+      <div class="s5-icon"><svg viewBox="0 0 48 48"><rect x="6" y="10" width="36" height="28" rx="3" fill="none"/><path d="M6 18 L24 28 L42 18"/><circle cx="36" cy="14" r="2" fill="#aa59c8" stroke="none"/></svg></div>
       <h3>Beautiful Art</h3>
       <p>Hand-illustrated cards and board bring the wonders of space to vivid life.</p>
     </div>
@@ -9551,7 +9531,7 @@
     position: absolute;
     inset: 0;
     background: linear-gradient(135deg,
-      rgba(156,188,20,0.08) 0%,
+      rgba(170,89,200,0.08) 0%,
       transparent 40%,
       rgba(255,255,255,0.06) 60%,
       transparent 100%);
@@ -9577,7 +9557,7 @@
     font-family: 'Norwester', sans-serif;
     font-variant: small-caps;
     font-size: clamp(11px, 1.3vw, 16px);
-    color: #9cbc14;
+    color: #aa59c8;
   }
   .more-pin-desc {
     font-family: 'Futura', sans-serif;
@@ -9680,6 +9660,7 @@
         <li><a href="#s4-science" data-section="s4-science">Science</a></li>
         <li><a href="#s6" data-section="s6">Features</a></li>
         <li><a href="/contact.html">Contact</a></li>
+        <li><a href="/about.html">About</a></li>
         <li><a href="/blog.html">Blog</a></li>
       </ul>
     </div>
@@ -9692,7 +9673,7 @@
       </div>
     </div>
   </div>
-  <div class="eg-footer-bottom">&copy; 2026 DeepKids. All rights reserved. <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="https://deepkids.in" style="color:#9cbc14;text-decoration:none;">deepkids.in</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/privacy-policy.html" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Privacy Policy</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/refund-policy.html" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Refund Policy</a></div>
+  <div class="eg-footer-bottom">&copy; 2026 DeepKids. All rights reserved. <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="https://deepkids.in" style="color:#aa59c8;text-decoration:none;">deepkids.in</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/privacy-policy.html" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Privacy Policy</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/refund-policy.html" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Refund Policy</a></div>
 </footer>
 
 <!-- ═══════════════════ FLOATING PAPER ROCKET ══════════════ -->
@@ -9791,9 +9772,9 @@
       + '<svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">'
       +   '<defs>'
       +     '<linearGradient id="' + gid + '" x1="0" y1="0" x2="0" y2="1">'
-      +       '<stop offset="0%" stop-color="#c0e638"/>'
-      +       '<stop offset="45%" stop-color="#9cbc14"/>'
-      +       '<stop offset="100%" stop-color="#6b8f08"/>'
+      +       '<stop offset="0%" stop-color="#cd9edf"/>'
+      +       '<stop offset="45%" stop-color="#aa59c8"/>'
+      +       '<stop offset="100%" stop-color="#793194"/>'
       +     '</linearGradient>'
       +     '<linearGradient id="' + hid + '" x1="0" y1="0" x2="0" y2="1">'
       +       '<stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>'
@@ -9804,8 +9785,8 @@
       +   '<line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>'
       +   '<path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>'
       +   '<path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#' + gid + ')"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>'
       +   '<path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#' + hid + ')"/>'
       +   '<path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>'
       +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>'
@@ -10159,7 +10140,7 @@
     position: relative;
     cursor: pointer;
     line-height: 0;
-    filter: drop-shadow(0 0 14px rgba(156,188,20,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
     transition: filter .2s ease;
     animation: eg-swim-across 14s linear infinite;
     will-change: transform;
@@ -10189,10 +10170,10 @@
     }
   }
   button.eg-mobile-preorder-btn:hover {
-    filter: drop-shadow(0 0 22px rgba(156,188,20,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
+    filter: drop-shadow(0 0 22px rgba(170,89,200,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
   }
   button.eg-mobile-preorder-btn:active {
-    filter: drop-shadow(0 0 10px rgba(156,188,20,0.3)) brightness(0.95);
+    filter: drop-shadow(0 0 10px rgba(170,89,200,0.3)) brightness(0.95);
   }
   button.eg-mobile-preorder-btn .btn-svg {
     width: auto !important;
@@ -10204,7 +10185,7 @@
      cleaner against the dark gradient. */
   button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"][stroke-width="9"]  { stroke: none !important; }
   button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"][stroke-width="20"] { stroke: none !important; }
-  button.eg-mobile-preorder-btn .btn-svg line[stroke="#9cbc14"]  { stroke-width: 8 !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#aa59c8"]  { stroke-width: 8 !important; }
   /* Label centred over the pill body (K chevron sits at the right) */
   button.eg-mobile-preorder-btn .btn-label {
     position: absolute;
@@ -10231,9 +10212,9 @@
     <svg class="btn-svg" viewBox="0 0 339 108" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="#c0e638"/>
-          <stop offset="45%" stop-color="#9cbc14"/>
-          <stop offset="100%" stop-color="#6b8f08"/>
+          <stop offset="0%" stop-color="#cd9edf"/>
+          <stop offset="45%" stop-color="#aa59c8"/>
+          <stop offset="100%" stop-color="#793194"/>
         </linearGradient>
         <linearGradient id="dk-mobile-hi" x1="0" y1="0" x2="0" y2="1">
           <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
@@ -10244,8 +10225,8 @@
       <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
       <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9" vector-effect="non-scaling-stroke"/>
       <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-mobile-grad)"/>
-      <line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
-      <line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
       <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-mobile-hi)"/>
       <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
       <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
@@ -10285,13 +10266,13 @@
     font-size: clamp(12px, 1.4vw, 17px);
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    color: #c0e638;
+    color: #cd9edf;
     background: rgba(10,6,24,0.88);
-    border: 1.5px solid rgba(192,230,56,0.55);
+    border: 1.5px solid rgba(205,158,223,0.55);
     border-radius: 999px;
     padding: 8px 16px;
-    box-shadow: 0 6px 24px rgba(0,0,0,0.5), 0 0 28px rgba(156,188,20,0.28);
-    text-shadow: 0 0 10px rgba(156,188,20,0.5);
+    box-shadow: 0 6px 24px rgba(0,0,0,0.5), 0 0 28px rgba(170,89,200,0.28);
+    text-shadow: 0 0 10px rgba(170,89,200,0.5);
     white-space: nowrap;
     pointer-events: none;
     opacity: 0;
@@ -10355,9 +10336,9 @@
     font-size: clamp(11px, 1.2vw, 14px);
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: rgba(192,230,56,0.85);
+    color: rgba(205,158,223,0.85);
     background: rgba(10,6,24,0.75);
-    border: 1px solid rgba(192,230,56,0.35);
+    border: 1px solid rgba(205,158,223,0.35);
     border-radius: 999px;
     padding: 6px 14px;
     pointer-events: none;
@@ -10371,9 +10352,9 @@
     content: '';
     width: 14px;
     height: 14px;
-    border: 2px solid #c0e638;
+    border: 2px solid #cd9edf;
     border-radius: 50%;
-    background: rgba(192,230,56,0.15);
+    background: rgba(205,158,223,0.15);
     animation: eg-swipe-finger 1.8s ease-in-out infinite;
     flex-shrink: 0;
   }
@@ -10387,8 +10368,8 @@
     animation: eg-tab-pulse-anim 2.2s ease-in-out infinite;
   }
   @keyframes eg-tab-pulse-anim {
-    0%, 100% { box-shadow: 0 0 0 0 rgba(156,188,20,0); }
-    50%      { box-shadow: 0 0 0 6px rgba(156,188,20,0.25); }
+    0%, 100% { box-shadow: 0 0 0 0 rgba(170,89,200,0); }
+    50%      { box-shadow: 0 0 0 6px rgba(170,89,200,0.25); }
   }
 
   @media (max-width: 560px) {
@@ -10636,39 +10617,6 @@
   window.addEventListener('resize', fitSubtitle);
 })();
 
-// Sound On button — unlocks all audio contexts on first tap
-(function(){
-  var btn = document.getElementById('sound-on-btn');
-  if (!btn) return;
-  btn.addEventListener('click', function() {
-    // Unlock Web Audio contexts
-    try {
-      if (window.playBoxSound && window._cardFlipBuf) {
-        window.playBoxSound(window._cardFlipBuf, 0.5);
-      }
-    } catch(e){}
-    // Play a chime via Web Audio
-    try {
-      var ctx = new (window.AudioContext || window.webkitAudioContext)();
-      var notes = [523, 659, 784, 1047];
-      notes.forEach(function(freq, i) {
-        var osc = ctx.createOscillator();
-        var gain = ctx.createGain();
-        osc.type = 'sine';
-        osc.frequency.value = freq;
-        gain.gain.setValueAtTime(0.15, ctx.currentTime + i * 0.08);
-        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.08 + 0.3);
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.start(ctx.currentTime + i * 0.08);
-        osc.stop(ctx.currentTime + i * 0.08 + 0.3);
-      });
-    } catch(e){}
-    btn.classList.add('pressed');
-    setTimeout(function() { btn.remove(); }, 600);
-  });
-})();
-
 </script>
 
 <!-- ═══════════════════════════════════ PROGRESS BAR + NAV DOTS ══ -->
@@ -10680,10 +10628,10 @@
     left: 0;
     width: 0%;
     height: 3px;
-    background: linear-gradient(90deg, #9cbc14, #c0e638);
+    background: linear-gradient(90deg, #aa59c8, #cd9edf);
     z-index: 10000;
     transition: width 0.1s linear;
-    box-shadow: 0 0 8px rgba(156,188,20,0.5);
+    box-shadow: 0 0 8px rgba(170,89,200,0.5);
     pointer-events: none;
   }
 
@@ -10717,12 +10665,12 @@
     position: relative;
   }
   .nav-dot:hover {
-    background: rgba(156,188,20,0.5);
+    background: rgba(170,89,200,0.5);
     transform: scale(1.4);
   }
   .nav-dot.active {
-    background: #9cbc14;
-    box-shadow: 0 0 6px rgba(156,188,20,0.6);
+    background: #aa59c8;
+    box-shadow: 0 0 6px rgba(170,89,200,0.6);
     transform: scale(1.3);
   }
   .nav-dot-tooltip {
