@@ -2392,6 +2392,7 @@
      like a film reel / train. Auto-scrolls continuously. */
   .s2-pin {
     display: flex;
+    justify-content: center;
     overflow-x: auto;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
@@ -2446,6 +2447,21 @@
     display: block;
     border-radius: clamp(8px, 1.2vw, 14px);
   }
+  .s2-pin-media {
+    width: 100%;
+    height: clamp(260px, 32vw, 380px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .s2-pin-media > img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    display: block;
+    border-radius: clamp(8px, 1.2vw, 14px);
+  }
   .s2-box-standalone {
     display: flex;
     justify-content: center;
@@ -2460,15 +2476,15 @@
     filter: drop-shadow(0 10px 30px rgba(0,0,0,0.5));
   }
   .s2-pin-spiral { width: clamp(220px, 28vw, 340px); }
-  .s2-pin-spiral > img { border-radius: 10px; }
+  .s2-pin-spiral .s2-pin-media > img { border-radius: 10px; }
   .s2-pin-kit { width: clamp(220px, 28vw, 340px); }
-  .s2-pin-kit > img { border-radius: 10px; }
+  .s2-pin-kit .s2-pin-media > img { border-radius: 10px; }
   .s2-pin-chall {
     width: clamp(200px, 25vw, 310px) !important;
   }
   .s2-pin-chall .s2-flip-card {
     width: 100%;
-    height: clamp(360px, 44vw, 560px);
+    height: clamp(260px, 32vw, 380px);
   }
   .s2-pin-chall .s2-flip-front img,
   .s2-pin-chall .s2-flip-back img { object-fit: contain; }
@@ -2492,7 +2508,8 @@
     .s2-pin-spiral { width: clamp(180px, 52vw, 230px); }
     .s2-pin-kit { width: clamp(180px, 52vw, 230px); }
     .s2-pin-chall { width: clamp(165px, 47vw, 215px); }
-    .s2-pin-chall .s2-flip-card { height: clamp(280px, 75vw, 370px); }
+    .s2-pin-media { height: clamp(220px, 60vw, 300px); }
+    .s2-pin-chall .s2-flip-card { height: clamp(220px, 60vw, 300px); }
     .s2-pin-chall-big { width: clamp(300px, 88vw, 390px) !important; }
     .s2-desc-big { font-size: clamp(17px, 4.4vw, 23px); line-height: 1.35; }
   }
@@ -3183,7 +3200,7 @@
 
   <div class="s2-pin">
     <div class="s2-pin-item s2-pin-spiral">
-      <img decoding="async" src="board-prototype.webp" alt="EscapeGravity learning board game spiral board">
+      <div class="s2-pin-media"><img decoding="async" src="board-prototype.webp" alt="EscapeGravity learning board game spiral board"></div>
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
@@ -3210,7 +3227,7 @@
     </div>
 
     <div class="s2-pin-item s2-pin-kit">
-      <img decoding="async" src="kit-items.webp" alt="Educational board game challenge kit items">
+      <div class="s2-pin-media"><img decoding="async" src="kit-items.webp" alt="Educational board game challenge kit items"></div>
       <div class="s2-pin-lbl">Challenge Kit Items</div>
     </div>
 
