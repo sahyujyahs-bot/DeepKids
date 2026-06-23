@@ -388,22 +388,22 @@
       position: relative;
       display: inline-block;
       vertical-align: top;
-      top: -0.5em;
-      margin-left: 6px;
+      top: -0.6em;
+      margin-left: 8px;
       font-family: 'Futura', sans-serif;
       font-weight: normal;
       font-variant: normal;
-      font-size: clamp(8px, 0.85vw, 12px);
+      font-size: clamp(11px, 1.15vw, 15px);
       letter-spacing: clamp(0.5px, .2vw, 1.5px);
       text-transform: uppercase;
       color: rgba(255,255,255,0.95);
       line-height: 1;
-      padding: 3px 9px;
-      border: 1px solid rgba(192,230,56,0.6);
+      padding: 4px 12px;
+      border: 1.5px solid rgba(192,230,56,0.8);
       border-radius: 999px;
       background: rgba(10,6,24,0.98);
       text-shadow: 0 0 10px rgba(156,188,20,0.5);
-      box-shadow: 0 0 14px rgba(192,230,56,0.3), 0 2px 8px rgba(0,0,0,0.6);
+      box-shadow: 0 0 18px rgba(192,230,56,0.4), 0 2px 8px rgba(0,0,0,0.6);
       white-space: nowrap;
       pointer-events: none;
     }
@@ -414,10 +414,10 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        top: -0.4em;
+        top: -0.5em;
         margin-left: 4px;
-        font-size: clamp(7px, 2.2vw, 10px);
-        padding: 2px 6px;
+        font-size: clamp(9px, 2.8vw, 12px);
+        padding: 3px 8px;
         letter-spacing: 0.5px;
       }
     }
@@ -850,6 +850,21 @@
     color: #9cbc14; text-decoration: none; letter-spacing: 1px;
     white-space: nowrap;
     opacity: 0; /* hidden until morph script hands off at scroll threshold */
+    display: flex;
+    align-items: baseline;
+    gap: clamp(6px, 1vw, 10px);
+  }
+  .eg-nav-logo-by {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(9px, 1vw, 12px);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.55);
+    font-weight: normal;
+  }
+  .eg-nav-logo-by b { color: #c0e638; font-weight: normal; }
+  @media (max-width: 480px) {
+    .eg-nav-logo-by { display: none; }
   }
   .eg-nav-right {
     display: flex;
@@ -892,7 +907,7 @@
 </style>
 
 <nav class="eg-nav">
-  <a href="/" class="eg-nav-logo">EscapeGravity</a>
+  <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
 <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
   </div>
@@ -910,7 +925,7 @@
       <div class="hero-tags">
         <span class="hero-tag">Ages 7+ <span class="hero-tag-sep">·</span> 2+ Players <span class="hero-tag-sep">·</span> 30 min Avg Playtime</span>
       </div>
-      <h1 class="title">EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
+      <h1 class="title">EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <div class="btn-wrap" onclick="doPreOrder()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
@@ -1621,7 +1636,7 @@
       var clone = document.createElement('div');
       clone.className = 'title-morph';
       clone.setAttribute('aria-hidden', 'true');
-      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
+      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
       document.body.appendChild(clone);
 
       var scrollRange, startX, startY, startFontSize,

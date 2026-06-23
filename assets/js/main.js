@@ -651,7 +651,7 @@
       var clone = document.createElement('div');
       clone.className = 'title-morph';
       clone.setAttribute('aria-hidden', 'true');
-      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">from <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
+      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
       document.body.appendChild(clone);
 
       var scrollRange, startX, startY, startFontSize,
