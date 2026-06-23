@@ -853,18 +853,21 @@
     margin: 0;
     padding: 0;
   }
+  .s2-desc p {
+    margin: 0 0 clamp(14px, 2vh, 22px);
+  }
+  .s2-desc p:last-child { margin-bottom: 0; }
   .s2-desc em { font-style: normal; color: #aa59c8; }
   .s2-desc-big {
     display: block;
     font-size: clamp(17px, 2vw, 24px);
     font-style: oblique;
-    margin: clamp(4px, 0.8vh, 10px) 0;
     color: rgba(255,255,255,0.8);
   }
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
-  /* ── Intro: text + featured board image side by side ────── */
+  /* ── Intro: text + featured box image side by side ──────── */
   .s2-intro {
     display: flex;
     align-items: center;
@@ -877,14 +880,14 @@
   .s2-intro .s2-desc { flex: 1 1 52%; }
   .s2-intro-img {
     flex: 1 1 42%;
-    position: relative;
+    display: flex;
+    justify-content: center;
   }
   .s2-intro-img img {
     width: 100%;
+    max-width: 360px;
     display: block;
-    border-radius: clamp(16px, 2vw, 24px);
-    border: 1px solid rgba(170,89,200,0.35);
-    box-shadow: 0 18px 44px rgba(15,6,24,0.5), 0 0 36px rgba(170,89,200,0.18);
+    filter: drop-shadow(0 18px 30px rgba(15,6,24,0.55));
   }
   @media (max-width: 760px) {
     .s2-intro { flex-direction: column; text-align: center; }
@@ -893,23 +896,24 @@
   /* ── What's Inside The Box — Responsive card grid ────────── */
   .s2-pin {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-    gap: clamp(16px, 2vw, 26px);
-    max-width: 1100px;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: clamp(18px, 2.4vw, 30px);
+    max-width: 1140px;
     margin: 0 auto;
     padding: 0 clamp(16px, 4vw, 48px) 10px;
   }
   .s2-pin-item {
     width: 100%;
-    background: linear-gradient(165deg, rgba(170,89,200,0.16) 0%, rgba(30,14,42,0.62) 100%);
-    border: 1px solid rgba(170,89,200,0.3);
+    background: linear-gradient(165deg, rgba(170,89,200,0.18) 0%, rgba(30,14,42,0.7) 100%);
+    border: 1px solid rgba(170,89,200,0.32);
     box-shadow: 0 10px 28px rgba(15,6,24,0.4);
-    padding: clamp(12px, 1.6vw, 20px) clamp(10px, 1.4vw, 16px);
+    padding: clamp(14px, 1.8vw, 22px);
     margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: clamp(10px, 1.4vw, 16px);
     transition: transform 0.3s, border-color 0.3s;
     min-width: 0;
     overflow: hidden;
@@ -935,22 +939,32 @@
   .s2-pin.s2-entered .s2-pin-item:nth-child(7) { transition-delay: .55s; }
   .s2-pin.s2-entered .s2-pin-item:nth-child(8) { transition-delay: .6s; }
   .s2-pin.s2-entered .s2-pin-item:nth-child(9) { transition-delay: .65s; }
-  .s2-pin-item > img,
-  .s2-pin-item > svg,
-  .s2-pin-item > .s2-flip-card {
+  /* Fixed-height media frame — keeps every label aligned regardless
+     of the natural size of the image/card/dice inside it. */
+  .s2-pin-media {
     width: 100%;
-    height: clamp(160px, 20vw, 230px);
+    height: clamp(200px, 24vw, 300px);
+    background: rgba(10,6,24,0.4);
+    border-radius: clamp(10px, 1.4vw, 16px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .s2-pin-media img,
+  .s2-pin-media svg,
+  .s2-pin-media .s2-flip-card {
+    width: 100%;
+    height: 100%;
     object-fit: contain;
     display: block;
-    border-radius: clamp(8px, 1.2vw, 14px);
   }
-  .s2-pin-box > img,
-  .s2-pin-spiral > img,
-  .s2-pin-kit > img { object-fit: cover; object-position: center; border-radius: 10px; }
+  .s2-pin-spiral .s2-pin-media img,
+  .s2-pin-kit .s2-pin-media img { object-fit: cover; object-position: center; }
   .s2-pin-chall .s2-flip-front img,
   .s2-pin-chall .s2-flip-back img { object-fit: contain; }
-  .s2-pin-small > img,
-  .s2-pin-small > svg { width: auto; max-width: 75%; height: clamp(110px, 14vw, 160px); object-fit: contain; }
+  .s2-pin-small .s2-pin-media img,
+  .s2-pin-small .s2-pin-media svg { width: auto; height: 65%; max-width: 70%; object-fit: contain; }
   .s2-pin-item svg { box-sizing: border-box; }
 
   .s2-pin-lbl {
@@ -962,7 +976,6 @@
     border-radius: 999px;
     letter-spacing: 1.5px;
     padding: 6px 16px;
-    margin-top: clamp(10px, 1.4vw, 16px);
     text-align: center;
     flex: 0 0 auto;
   }
