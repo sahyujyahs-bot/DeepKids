@@ -13,5 +13,5 @@ const CARDS = {
   "DKLogo": {src:"DeepKids_Logo_Idea.webp",w:200,h:200,role:"rain"},
   "ISSArt": {src:"Copy of Core.png",w:160,h:160,role:"rain"},
   "AppleTree": {src:"apple-tree.webp",w:180,h:180,role:"rain"},
-  "EGBox": {src:"eg-closed-box.webp",w:180,h:152,role:"rain",scale:1.18}
+  "EGBox": {src:"eg-closed-box.webp",w:180,h:152,role:"rain",scale:1.4}
 };

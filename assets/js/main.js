@@ -26,7 +26,13 @@
       const cv  = document.getElementById('cv');
       const ctx = cv.getContext('2d');
       let W, H;
-      const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
+      const resize = () => {
+        const dpr = Math.min(window.devicePixelRatio || 1, 2);
+        W = innerWidth; H = innerHeight;
+        cv.width  = Math.round(W * dpr);
+        cv.height = Math.round(H * dpr);
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      };
       resize();
       addEventListener('resize', () => { resize(); rebuildWalls(); });
 
@@ -1301,22 +1307,11 @@
     });
   }
 
-  /* ── Film-strip auto-scroll + auto-flip (all screens) ── */
+  /* ── Box-contents row: entry animation only (plain native scroll) ── */
   (function() {
     var pin = document.querySelector('.s2-pin');
     if (!pin) return;
-    var paused = false;
-    var resumeTimer;
 
-    // Only pause on deliberate click/tap ON the strip, not page scroll
-    pin.addEventListener('click', function(e) {
-      if (e.target.closest('.s2-flip-card') || e.target.closest('.s2-dice-scene')) return;
-      paused = true;
-      clearTimeout(resumeTimer);
-      resumeTimer = setTimeout(function() { paused = false; }, 4000);
-    });
-
-    // Trigger entry animation when section scrolls into view
     var entryObs = new IntersectionObserver(function(entries) {
       if (entries[0].isIntersecting) {
         pin.classList.add('s2-entered');
@@ -1324,56 +1319,6 @@
       }
     }, { threshold: 0.05 });
     entryObs.observe(pin);
-
-    // Train scroll — only while section is visible
-    var speed = 0.7;
-    var stripVisible = false;
-    var scrollObs = new IntersectionObserver(function(entries) {
-      stripVisible = entries[0].isIntersecting;
-    }, { threshold: 0.05 });
-    scrollObs.observe(pin);
-
-    function tick() {
-      if (!paused && stripVisible && pin.scrollWidth > pin.clientWidth) {
-        pin.scrollLeft += speed;
-        if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 1) {
-          pin.scrollLeft = 0;
-        }
-      }
-      requestAnimationFrame(tick);
-    }
-    tick();
-
-    // Auto-flip: only when section is actually visible
-    var flips = pin.querySelectorAll('.s2-flip-card');
-    var sectionVisible = false;
-    var flipObs = new IntersectionObserver(function(entries) {
-      sectionVisible = entries[0].isIntersecting;
-    }, { threshold: 0.1 });
-    flipObs.observe(pin);
-
-    function checkFlips() {
-      if (sectionVisible) {
-        var pinR = pin.getBoundingClientRect();
-        var cx = pinR.left + pinR.width / 2;
-        flips.forEach(function(card) {
-          var r = card.getBoundingClientRect();
-          var cardCx = r.left + r.width / 2;
-          if (Math.abs(cardCx - cx) < r.width * 0.7 && !card.dataset.af) {
-            card.dataset.af = '1';
-            card.classList.add('flipped');
-            if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.45);
-            setTimeout(function() {
-              card.classList.remove('flipped');
-              if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.3);
-              setTimeout(function() { delete card.dataset.af; }, 2500);
-            }, 2200);
-          }
-        });
-      }
-      requestAnimationFrame(checkFlips);
-    }
-    checkFlips();
   })();
 })();
 

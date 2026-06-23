@@ -677,13 +677,15 @@
   padding: clamp(24px, 3vw, 40px) clamp(20px, 3vw, 40px);
   max-width: 480px;
   width: 100%;
+  max-height: calc(100vh - 40px);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   box-shadow:
     0 24px 70px rgba(0,0,0,0.65),
     0 0 60px rgba(170,89,200,0.2),
     inset 0 1px 0 rgba(255,255,255,0.06);
   position: relative;
   animation: po-slide-up 0.4s cubic-bezier(.4,0,.2,1);
-  overflow: hidden;
 }
 /* Decorative rocket illustration */
 .po-hero-img {
@@ -857,7 +859,7 @@
     margin: 0 0 clamp(14px, 2vh, 22px);
   }
   .s2-desc p:last-child { margin-bottom: 0; }
-  .s2-desc em { font-style: normal; color: #aa59c8; }
+  .s2-desc em { font-style: normal; color: #fff; font-weight: 700; }
   .s2-desc-big {
     display: block;
     font-size: clamp(17px, 2vw, 24px);
