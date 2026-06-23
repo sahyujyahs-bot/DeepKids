@@ -850,8 +850,8 @@
     font-family: 'Futura', sans-serif;
     font-size: clamp(15px, 1.7vw, 21px);
     color: rgba(255,255,255,0.65); line-height: 1.55;
-    margin: 0 0 clamp(20px, 3vh, 40px);
-    padding: 0 clamp(12px, 4vw, 40px);
+    margin: 0;
+    padding: 0;
   }
   .s2-desc em { font-style: normal; color: #aa59c8; }
   .s2-desc-big {
@@ -864,23 +864,43 @@
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
-  /* ── What's Inside The Box — Horizontal film strip ────────
-     Single horizontal scroll on all screen sizes. Items scroll
-     like a film reel / train. Auto-scrolls continuously. */
-  .s2-pin {
+  /* ── Intro: text + featured board image side by side ────── */
+  .s2-intro {
     display: flex;
-    overflow-x: auto;
-    overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
-    gap: clamp(14px, 2vw, 24px);
-    padding: 0 clamp(16px, 4vw, 48px) 20px;
-    max-width: 100%;
-    scrollbar-width: none;
+    align-items: center;
+    gap: clamp(24px, 4vw, 56px);
+    max-width: 1080px;
+    margin: 0 auto clamp(30px, 4.5vh, 52px);
+    padding: 0 clamp(16px, 4vw, 48px);
+    text-align: left;
   }
-  .s2-pin::-webkit-scrollbar { display: none; }
+  .s2-intro .s2-desc { flex: 1 1 52%; }
+  .s2-intro-img {
+    flex: 1 1 42%;
+    position: relative;
+  }
+  .s2-intro-img img {
+    width: 100%;
+    display: block;
+    border-radius: clamp(16px, 2vw, 24px);
+    border: 1px solid rgba(170,89,200,0.35);
+    box-shadow: 0 18px 44px rgba(15,6,24,0.5), 0 0 36px rgba(170,89,200,0.18);
+  }
+  @media (max-width: 760px) {
+    .s2-intro { flex-direction: column; text-align: center; }
+  }
+
+  /* ── What's Inside The Box — Responsive card grid ────────── */
+  .s2-pin {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: clamp(16px, 2vw, 26px);
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 clamp(16px, 4vw, 48px) 10px;
+  }
   .s2-pin-item {
-    flex: 0 0 auto;
-    width: clamp(220px, 28vw, 340px);
+    width: 100%;
     background: linear-gradient(165deg, rgba(170,89,200,0.16) 0%, rgba(30,14,42,0.62) 100%);
     border: 1px solid rgba(170,89,200,0.3);
     box-shadow: 0 10px 28px rgba(15,6,24,0.4);
@@ -916,34 +936,21 @@
   .s2-pin.s2-entered .s2-pin-item:nth-child(8) { transition-delay: .6s; }
   .s2-pin.s2-entered .s2-pin-item:nth-child(9) { transition-delay: .65s; }
   .s2-pin-item > img,
-  .s2-pin-item > svg {
+  .s2-pin-item > svg,
+  .s2-pin-item > .s2-flip-card {
     width: 100%;
-    height: auto;
-    max-height: clamp(280px, 36vw, 460px);
+    height: clamp(160px, 20vw, 230px);
     object-fit: contain;
     display: block;
     border-radius: clamp(8px, 1.2vw, 14px);
   }
-  .s2-pin-box { width: clamp(260px, 34vw, 420px); }
-  .s2-pin-box > img { object-fit: cover; object-position: center; border-radius: 10px; }
-  .s2-pin-spiral { width: clamp(280px, 36vw, 440px); }
-  .s2-pin-spiral > img { border-radius: 10px; }
-  .s2-pin-kit { width: clamp(280px, 36vw, 440px); }
-  .s2-pin-kit > img { border-radius: 10px; }
-  .s2-pin-chall {
-    width: clamp(260px, 32vw, 400px) !important;
-  }
-  .s2-pin-chall .s2-flip-card {
-    width: 100%;
-    height: clamp(360px, 44vw, 560px);
-  }
+  .s2-pin-box > img,
+  .s2-pin-spiral > img,
+  .s2-pin-kit > img { object-fit: cover; object-position: center; border-radius: 10px; }
   .s2-pin-chall .s2-flip-front img,
   .s2-pin-chall .s2-flip-back img { object-fit: contain; }
-  .s2-pin-small {
-    width: clamp(140px, 16vw, 200px);
-  }
   .s2-pin-small > img,
-  .s2-pin-small > svg { width: 80%; height: auto; object-fit: contain; }
+  .s2-pin-small > svg { width: auto; max-width: 75%; height: clamp(110px, 14vw, 160px); object-fit: contain; }
   .s2-pin-item svg { box-sizing: border-box; }
 
   .s2-pin-lbl {
@@ -961,13 +968,6 @@
   }
 
   @media (max-width: 560px) {
-    .s2-pin-item { width: clamp(180px, 55vw, 240px); }
-    .s2-pin-box { width: clamp(220px, 65vw, 280px); }
-    .s2-pin-spiral { width: clamp(220px, 65vw, 280px); }
-    .s2-pin-kit { width: clamp(220px, 65vw, 280px); }
-    .s2-pin-chall { width: clamp(200px, 58vw, 260px); }
-    .s2-pin-chall .s2-flip-card { height: clamp(280px, 75vw, 370px); }
-    .s2-pin-small { width: clamp(120px, 36vw, 160px); }
     .s2-desc-big { font-size: clamp(17px, 4.4vw, 23px); line-height: 1.35; }
   }
 
