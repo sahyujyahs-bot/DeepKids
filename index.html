@@ -245,7 +245,7 @@
 
     /* ── Reset ─────────────────────────────────────────────────── */
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-    html { height: 100%; }
+    html { height: 100%; overflow-x: hidden; }
 
     /* ── Suppress mobile tap highlight on ALL interactive elements ── */
     button, a, img, [onclick], [role="button"] {
@@ -276,7 +276,7 @@
       -ms-overflow-style: none;
     }
     body {
-      height: 100%; overflow-y: auto; color: #fff;
+      height: 100%; overflow-y: auto; overflow-x: hidden; color: #fff;
       background: #120826;       /* deep purple-black base */
       /* Fixed starfield — brighter, more stars, varied sizes */
       background-image:
@@ -2476,8 +2476,8 @@
     flex-wrap: nowrap;
     align-items: flex-end;
     gap: clamp(20px, 3vw, 40px);
-    width: 100vw;
-    margin: 0 calc(50% - 50vw);
+    width: 100%;
+    margin: 0;
     padding: 0 clamp(16px, 4vw, 48px) 16px;
     overflow-x: auto;
     justify-content: center;
@@ -2492,7 +2492,7 @@
        so labels line up in a single row regardless of media size.
        This doesn't depend on the parent's align-items, which some
        mobile browsers get wrong on overflowing flex rows. */
-    height: clamp(460px, 58vw, 660px);
+    height: clamp(360px, 44vw, 500px);
     padding: 0;
     margin: 0;
     display: flex;
@@ -2529,7 +2529,6 @@
     align-items: center;
     justify-content: center;
   }
-  .s2-pin-item.s2-pin-bigchall .s2-pin-media { height: clamp(380px, 50vw, 560px); }
   .s2-pin-media img,
   .s2-pin-media svg,
   .s2-pin-media .s2-flip-card {
@@ -11343,7 +11342,7 @@
 }
 @media (max-width: 768px) {
   #gw-panel { width: 260px; right: -280px; padding: 16px; }
-  #gw-tag { font-size: 10px; padding: 8px 6px; }
+  #gw-tag { font-size: 10px; padding: 8px 6px; top: 42%; }
 }
 </style>
 
