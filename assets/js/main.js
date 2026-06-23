@@ -423,11 +423,34 @@
         });
         World.add(world, mc);
 
-        /* ── Smart touch: drag cards OR scroll page (with momentum) ── */
+        /* ── Smart touch: drag cards OR scroll page (with momentum) ──
+           Matter's own hit-test uses each card's full rectangular
+           bounding box, which is much bigger than the actual artwork
+           (lots of transparent margin in the PNGs) — so a touch "near"
+           a card, not actually on its visible pixels, was being treated
+           as a card-touch and blocking scroll. We do our own tighter
+           hit-test (shrunk to a fraction of the box) before ever
+           allowing Matter to grab a body for a touch gesture. ── */
+        function hitTestCard(localX, localY, inset) {
+          for (let i = physEntries.length - 1; i >= 0; i--) {
+            const en = physEntries[i];
+            const dx = localX - en.body.position.x;
+            const dy = localY - en.body.position.y;
+            const a  = -en.body.angle;
+            const rx = dx * Math.cos(a) - dy * Math.sin(a);
+            const ry = dx * Math.sin(a) + dy * Math.cos(a);
+            if (Math.abs(rx) < (en.dW / 2) * inset && Math.abs(ry) < (en.dH / 2) * inset) {
+              return en;
+            }
+          }
+          return null;
+        }
+
         let touchLastY = 0;
         let touchLastTime = 0;
         let draggingCard = false;
         let touchTotalMove = 0;
+        let touchOnCard = false;
         let scrollVelocity = 0;
         let momentumRAF = 0;
 
@@ -449,9 +472,13 @@
           touchLastTime = performance.now();
           cancelAnimationFrame(momentumRAF);
           scrollVelocity = 0;
-          mouse.mousedown(e);
           draggingCard = false;
           touchTotalMove = 0;
+
+          const rect = cv.getBoundingClientRect();
+          const hit  = hitTestCard(t.clientX - rect.left, t.clientY - rect.top, 0.62);
+          touchOnCard = !!hit;
+          if (touchOnCard) mouse.mousedown(e);
         }, { passive: true });
 
         cv.addEventListener('touchmove', (e) => {
@@ -464,11 +491,10 @@
           touchTotalMove += Math.abs(dy);
 
           /* Don't commit to a drag just because the finger landed on a
-             card — most touches that start on a card are actually trying
-             to scroll past it. Only treat it as a drag once the finger
-             has moved enough to show real dragging intent; until then,
-             let the page scroll normally. */
-          if (!draggingCard && mc.body && touchTotalMove > 14) {
+             card — only treat it as a drag once the finger has moved
+             enough to show real dragging intent AND it actually started
+             on the card's visible artwork; until then, scroll normally. */
+          if (!draggingCard && touchOnCard && mc.body && touchTotalMove > 14) {
             draggingCard = true;
           }
 
