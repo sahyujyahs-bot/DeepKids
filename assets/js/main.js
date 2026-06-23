@@ -214,7 +214,7 @@
       /* ── Card keys ──────────────────────────────────────────── */
       const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
                              'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
-                             'DKLogo','ISSArt','AppleTree'];
+                             'DKLogo','ISSArt','AppleTree','EGBox'];
       const BIRD_KEY      = 'Card12Side2';
       const BALLOON_KEY   = 'Card12Side1';
       const PARACHUTE_KEY = 'Card13Side1';
