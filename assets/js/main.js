@@ -286,8 +286,9 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info = CARDS[key];
-          const dW   = Math.round(slotW);
-          const dH   = Math.round(slotW * info.h / info.w);
+          const cardScale = info.scale || 1;
+          const dW   = Math.round(slotW * cardScale);
+          const dH   = Math.round(slotW * cardScale * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
 
           const col = i % cardsPerRow;
@@ -335,8 +336,9 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var dW = Math.round(slotW);
-        var dH = Math.round(slotW * info.h / info.w);
+        var cardScale = info.scale || 1;
+        var dW = Math.round(slotW * cardScale);
+        var dH = Math.round(slotW * cardScale * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
         var y = -dH/2 - 30;
         var body = Bodies.rectangle(x, y, dW, dH, {
