@@ -688,7 +688,7 @@
           'line-height:.88;white-space:nowrap;' +
           'font-size:' + startFontSize + 'px;' +
           'color:#fff;' +
-          'text-shadow:0 0 26px rgba(160,210,20,.55),3px 3px 0 rgba(0,0,0,.9);' +
+          'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
           'background:rgba(10,6,24,.6);' +
           'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
@@ -727,14 +727,14 @@
 
         clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
 
-        var r = Math.round(255 + (156 - 255) * p);
-        var g = Math.round(255 + (188 - 255) * p);
-        var b = Math.round(255 + (20  - 255) * p);
+        var r = Math.round(255 + (170 - 255) * p);
+        var g = Math.round(255 + (89  - 255) * p);
+        var b = Math.round(255 + (200 - 255) * p);
         clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
 
         var a = 1 - p;
         clone.style.textShadow =
-          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
+          '0 0 26px rgba(170,89,200,' + (0.55 * a) + '),' +
           '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
 
         // Smooth crossfade over the last 20% of the scroll range
