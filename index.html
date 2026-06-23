@@ -727,92 +727,30 @@
       to   { transform: rotate(-360deg); }
     }
 
-    /* ── Sound On button ───────────────────────────────────── */
-    #sound-on-btn {
-      position: absolute;
-      bottom: clamp(70px, 12vh, 100px);
-      left: 50%;
-      transform: translateX(-50%);
-      z-index: 25;
-      width: clamp(56px, 8vw, 72px);
-      height: clamp(56px, 8vw, 72px);
-      border-radius: 50%;
-      border: none;
-      cursor: pointer;
-      outline: none;
-      background: radial-gradient(circle at 30% 30%, #dba8e8, #cd9edf 40%, #793194);
-      box-shadow:
-        0 8px 0 #4a1d5e,
-        0 10px 20px rgba(0,0,0,0.5),
-        inset 0 3px 6px rgba(255,255,255,0.35),
-        inset 0 -2px 4px rgba(0,0,0,0.15);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.6s ease;
-      animation: sound-pulse 2s ease-in-out infinite;
-    }
-    #sound-on-btn:hover {
-      transform: translateX(-50%) scale(1.1);
-      box-shadow:
-        0 10px 0 #4a1d5e,
-        0 14px 28px rgba(0,0,0,0.5),
-        inset 0 3px 6px rgba(255,255,255,0.35),
-        inset 0 -2px 4px rgba(0,0,0,0.15);
-    }
-    #sound-on-btn:active {
-      transform: translateX(-50%) translateY(7px) scale(0.96);
-      box-shadow:
-        0 1px 0 #4a1d5e,
-        0 2px 4px rgba(0,0,0,0.3),
-        inset 0 3px 8px rgba(0,0,0,0.2);
-      transition: transform 0.08s ease, box-shadow 0.08s ease;
-    }
-    #sound-on-btn.pressed {
-      transform: translateX(-50%) translateY(8px) scale(0.9);
-      box-shadow:
-        0 0 0 #4a1d5e,
-        0 1px 2px rgba(0,0,0,0.2),
-        inset 0 4px 10px rgba(0,0,0,0.3);
-      opacity: 0;
-      pointer-events: none;
-      transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.4s ease 0.15s;
-    }
-    #sound-on-btn svg {
-      width: clamp(24px, 3.5vw, 32px);
-      height: clamp(24px, 3.5vw, 32px);
-      fill: #1a3a0a;
-      filter: drop-shadow(0 1px 2px rgba(0,0,0,0.3));
-    }
-    @keyframes sound-pulse {
-      0%, 100% { box-shadow: 0 4px 0 #5c2575, 0 6px 12px rgba(0,0,0,0.4), inset 0 2px 4px rgba(255,255,255,0.3), 0 0 0 0 rgba(170,89,200,0.4); }
-      50% { box-shadow: 0 4px 0 #5c2575, 0 6px 12px rgba(0,0,0,0.4), inset 0 2px 4px rgba(255,255,255,0.3), 0 0 0 16px rgba(170,89,200,0); }
-    }
-    #sound-on-label {
-      position: absolute;
-      bottom: -24px;
-      left: 50%;
-      transform: translateX(-50%);
-      font-family: 'Futura', sans-serif;
-      font-size: clamp(9px, 1.1vw, 12px);
-      color: rgba(255,255,255,0.5);
-      white-space: nowrap;
-      letter-spacing: 1px;
-    }
-
     /* ── Drag hint ─────────────────────────────────────────────── */
     #drag-hint {
-      position: absolute; bottom: 10px; left: 50%;
+      position: absolute; bottom: 22px; left: 50%;
       transform: translateX(-50%);
       z-index: 5;
       font-family: 'Futura', sans-serif;
-      font-size: 11px;
-      letter-spacing: 3px;
-      color: rgba(170,89,200,.50);
+      font-size: 12px;
+      letter-spacing: 2.5px;
+      font-weight: 600;
+      color: #fff;
+      background: rgba(170,89,200,.92);
+      border: 1px solid rgba(255,255,255,.35);
+      border-radius: 999px;
+      padding: 9px 20px;
+      box-shadow: 0 4px 18px rgba(93,30,120,.45);
       text-transform: uppercase;
       pointer-events: none;
       opacity: 0;                 /* starts hidden — fades in after cards settle */
       transition: opacity 2s;
+      animation: drag-hint-bounce 1.8s ease-in-out infinite;
+    }
+    @keyframes drag-hint-bounce {
+      0%, 100% { transform: translateX(-50%) translateY(0); }
+      50%      { transform: translateX(-50%) translateY(-6px); }
     }
 
     /* ── Replay button pulse (activates after first rain settles) ─ */
@@ -981,16 +919,6 @@
       <div class="hero-offer-badge">🚀 Early Bird — 50% Off &nbsp;<span class="hero-offer-mrp">₹4,999</span>&nbsp;<span class="hero-offer-price">₹2,499</span></div>
     </div>
   </div>
-
-  <!-- Replay button — bottom right -->
-  <button id="sound-on-btn" aria-label="Turn sound on">
-    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-      <path d="M11 5L6 9H2v6h4l5 4V5z"/>
-      <path d="M15.54 8.46a5 5 0 010 7.07" fill="none" stroke="#1a3a0a" stroke-width="2" stroke-linecap="round"/>
-      <path d="M19.07 4.93a10 10 0 010 14.14" fill="none" stroke="#1a3a0a" stroke-width="2" stroke-linecap="round"/>
-    </svg>
-    <span id="sound-on-label">sound on</span>
-  </button>
   <button id="replay-btn" onclick="replayRain()" title="Drop them again!">
     <!-- Circular arrow / replay icon -->
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -2767,16 +2695,16 @@
       transform: translateY(-8px) !important;
       border-color: rgba(255,255,255,0.25);
     }
-    .ps-reason:nth-child(1)  { background: linear-gradient(170deg, rgba(76,175,80,0.35) 0%, rgba(76,175,80,0.08) 100%); border-color: rgba(76,175,80,0.3); }
-    .ps-reason:nth-child(2)  { background: linear-gradient(170deg, rgba(139,195,74,0.35) 0%, rgba(139,195,74,0.08) 100%); border-color: rgba(139,195,74,0.3); }
-    .ps-reason:nth-child(3)  { background: linear-gradient(170deg, rgba(205,220,57,0.35) 0%, rgba(205,220,57,0.08) 100%); border-color: rgba(205,220,57,0.3); }
-    .ps-reason:nth-child(4)  { background: linear-gradient(170deg, rgba(255,193,7,0.35) 0%, rgba(255,193,7,0.08) 100%); border-color: rgba(255,193,7,0.3); }
-    .ps-reason:nth-child(5)  { background: linear-gradient(170deg, rgba(255,152,0,0.35) 0%, rgba(255,152,0,0.08) 100%); border-color: rgba(255,152,0,0.3); }
-    .ps-reason:nth-child(6)  { background: linear-gradient(170deg, rgba(233,90,100,0.35) 0%, rgba(233,90,100,0.08) 100%); border-color: rgba(233,90,100,0.3); }
-    .ps-reason:nth-child(7)  { background: linear-gradient(170deg, rgba(206,80,120,0.35) 0%, rgba(206,80,120,0.08) 100%); border-color: rgba(206,80,120,0.3); }
-    .ps-reason:nth-child(8)  { background: linear-gradient(170deg, rgba(171,71,140,0.35) 0%, rgba(171,71,140,0.08) 100%); border-color: rgba(171,71,140,0.3); }
-    .ps-reason:nth-child(9)  { background: linear-gradient(170deg, rgba(136,62,160,0.35) 0%, rgba(136,62,160,0.08) 100%); border-color: rgba(136,62,160,0.3); }
-    .ps-reason:nth-child(10) { background: linear-gradient(170deg, rgba(100,50,180,0.35) 0%, rgba(100,50,180,0.08) 100%); border-color: rgba(100,50,180,0.3); }
+    .ps-reason:nth-child(1)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(2)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(3)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(4)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(5)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(6)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(7)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(8)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(9)  { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
+    .ps-reason:nth-child(10) { background: linear-gradient(170deg, rgba(170,89,200,0.32) 0%, rgba(170,89,200,0.08) 100%); border-color: rgba(170,89,200,0.3); }
     .ps-reason-icon {
       width: clamp(44px, 6vw, 56px);
       height: clamp(44px, 6vw, 56px);
@@ -10654,39 +10582,6 @@
     document.fonts.load('400 18px Futura').then(fitSubtitle).catch(function(){});
   }
   window.addEventListener('resize', fitSubtitle);
-})();
-
-// Sound On button — unlocks all audio contexts on first tap
-(function(){
-  var btn = document.getElementById('sound-on-btn');
-  if (!btn) return;
-  btn.addEventListener('click', function() {
-    // Unlock Web Audio contexts
-    try {
-      if (window.playBoxSound && window._cardFlipBuf) {
-        window.playBoxSound(window._cardFlipBuf, 0.5);
-      }
-    } catch(e){}
-    // Play a chime via Web Audio
-    try {
-      var ctx = new (window.AudioContext || window.webkitAudioContext)();
-      var notes = [523, 659, 784, 1047];
-      notes.forEach(function(freq, i) {
-        var osc = ctx.createOscillator();
-        var gain = ctx.createGain();
-        osc.type = 'sine';
-        osc.frequency.value = freq;
-        gain.gain.setValueAtTime(0.15, ctx.currentTime + i * 0.08);
-        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.08 + 0.3);
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.start(ctx.currentTime + i * 0.08);
-        osc.stop(ctx.currentTime + i * 0.08 + 0.3);
-      });
-    } catch(e){}
-    btn.classList.add('pressed');
-    setTimeout(function() { btn.remove(); }, 600);
-  });
 })();
 
 </script>

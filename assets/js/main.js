@@ -5019,39 +5019,6 @@
   window.addEventListener('resize', fitSubtitle);
 })();
 
-// Sound On button — unlocks all audio contexts on first tap
-(function(){
-  var btn = document.getElementById('sound-on-btn');
-  if (!btn) return;
-  btn.addEventListener('click', function() {
-    // Unlock Web Audio contexts
-    try {
-      if (window.playBoxSound && window._cardFlipBuf) {
-        window.playBoxSound(window._cardFlipBuf, 0.5);
-      }
-    } catch(e){}
-    // Play a chime via Web Audio
-    try {
-      var ctx = new (window.AudioContext || window.webkitAudioContext)();
-      var notes = [523, 659, 784, 1047];
-      notes.forEach(function(freq, i) {
-        var osc = ctx.createOscillator();
-        var gain = ctx.createGain();
-        osc.type = 'sine';
-        osc.frequency.value = freq;
-        gain.gain.setValueAtTime(0.15, ctx.currentTime + i * 0.08);
-        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.08 + 0.3);
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.start(ctx.currentTime + i * 0.08);
-        osc.stop(ctx.currentTime + i * 0.08 + 0.3);
-      });
-    } catch(e){}
-    btn.classList.add('pressed');
-    setTimeout(function() { btn.remove(); }, 600);
-  });
-})();
-
 
 
 // ===== Scroll Effects =====
