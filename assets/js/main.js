@@ -26,25 +26,9 @@
       const cv  = document.getElementById('cv');
       const ctx = cv.getContext('2d');
       let W, H;
-      const resize = () => {
-        W = innerWidth; H = innerHeight;
-        cv.width  = W;
-        cv.height = H;
-        ctx.imageSmoothingEnabled = true;
-        if ('imageSmoothingQuality' in ctx) ctx.imageSmoothingQuality = 'high';
-      };
+      const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
       resize();
-      addEventListener('resize', () => {
-        const oldW = W;
-        resize();
-        // Mobile browsers fire 'resize' when the address bar shows/hides
-        // during scroll, changing only H. Rebuilding walls on a pure
-        // height change yanks the floor out from under settled cards
-        // and sends them flying — only rebuild on real width changes
-        // (covers orientation change / actual viewport resize).
-        if (Math.abs(W - oldW) < 2) return;
-        rebuildWalls();
-      });
+      addEventListener('resize', () => { resize(); rebuildWalls(); });
 
       /* ── Background: stars & drifting asteroids ─────────────── */
       let t = 0;
@@ -231,29 +215,6 @@
       const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
                              'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
                              'DKLogo','ISSArt','AppleTree','EGBox'];
-
-      /* Rain cards are rendered as real DOM <img> elements (not canvas-
-         drawn) so they stay pixel-sharp on high-DPR mobile screens —
-         the shared canvas is intentionally kept at 1x resolution for
-         performance/stability, which makes anything drawn on it via
-         ctx.drawImage soft on retina displays. Each element tracks its
-         physics body's position/rotation every frame in drawPhysics(). */
-      const rainImgEls = {};
-      RAIN_KEYS.forEach(key => {
-        const el = document.createElement('img');
-        el.src = CARDS[key].src;
-        el.alt = '';
-        el.style.position = 'absolute';
-        el.style.left = '0';
-        el.style.top = '0';
-        el.style.zIndex = '1';
-        el.style.pointerEvents = 'none';
-        el.style.display = 'none';
-        el.style.willChange = 'transform';
-        cv.parentElement.appendChild(el);
-        rainImgEls[key] = el;
-      });
-
       const BIRD_KEY      = 'Card12Side2';
       const BALLOON_KEY   = 'Card12Side1';
       const PARACHUTE_KEY = 'Card13Side1';
@@ -325,9 +286,8 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info = CARDS[key];
-          const cardScale = (info.scale || 1) * (W < 768 ? 1.12 : 1);
-          const dW   = Math.round(slotW * cardScale);
-          const dH   = Math.round(slotW * cardScale * info.h / info.w);
+          const dW   = Math.round(slotW);
+          const dH   = Math.round(slotW * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
 
           const col = i % cardsPerRow;
@@ -375,9 +335,8 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var cardScale = (info.scale || 1) * (W < 768 ? 1.12 : 1);
-        var dW = Math.round(slotW * cardScale);
-        var dH = Math.round(slotW * cardScale * info.h / info.w);
+        var dW = Math.round(slotW);
+        var dH = Math.round(slotW * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
         var y = -dH/2 - 30;
         var body = Bodies.rectangle(x, y, dW, dH, {
@@ -423,34 +382,10 @@
         });
         World.add(world, mc);
 
-        /* ── Smart touch: drag cards OR scroll page (with momentum) ──
-           Matter's own hit-test uses each card's full rectangular
-           bounding box, which is much bigger than the actual artwork
-           (lots of transparent margin in the PNGs) — so a touch "near"
-           a card, not actually on its visible pixels, was being treated
-           as a card-touch and blocking scroll. We do our own tighter
-           hit-test (shrunk to a fraction of the box) before ever
-           allowing Matter to grab a body for a touch gesture. ── */
-        function hitTestCard(localX, localY, inset) {
-          for (let i = physEntries.length - 1; i >= 0; i--) {
-            const en = physEntries[i];
-            const dx = localX - en.body.position.x;
-            const dy = localY - en.body.position.y;
-            const a  = -en.body.angle;
-            const rx = dx * Math.cos(a) - dy * Math.sin(a);
-            const ry = dx * Math.sin(a) + dy * Math.cos(a);
-            if (Math.abs(rx) < (en.dW / 2) * inset && Math.abs(ry) < (en.dH / 2) * inset) {
-              return en;
-            }
-          }
-          return null;
-        }
-
+        /* ── Smart touch: drag cards OR scroll page (with momentum) ── */
         let touchLastY = 0;
         let touchLastTime = 0;
         let draggingCard = false;
-        let touchTotalMove = 0;
-        let touchOnCard = false;
         let scrollVelocity = 0;
         let momentumRAF = 0;
 
@@ -472,13 +407,8 @@
           touchLastTime = performance.now();
           cancelAnimationFrame(momentumRAF);
           scrollVelocity = 0;
+          mouse.mousedown(e);
           draggingCard = false;
-          touchTotalMove = 0;
-
-          const rect = cv.getBoundingClientRect();
-          const hit  = hitTestCard(t.clientX - rect.left, t.clientY - rect.top, 0.62);
-          touchOnCard = !!hit;
-          if (touchOnCard) mouse.mousedown(e);
         }, { passive: true });
 
         cv.addEventListener('touchmove', (e) => {
@@ -488,20 +418,13 @@
           const dt = now - touchLastTime || 16;
           touchLastY = t.clientY;
           touchLastTime = now;
-          touchTotalMove += Math.abs(dy);
 
-          /* Don't commit to a drag just because the finger landed on a
-             card — only treat it as a drag once the finger has moved
-             enough to show real dragging intent AND it actually started
-             on the card's visible artwork; until then, scroll normally. */
-          if (!draggingCard && touchOnCard && mc.body && touchTotalMove > 14) {
+          mouse.mousemove(e);
+
+          if (mc.body) {
             draggingCard = true;
-          }
-
-          if (draggingCard) {
-            mouse.mousemove(e);
             e.preventDefault();
-          } else {
+          } else if (!draggingCard) {
             window.scrollBy(0, dy);
             // Cap velocity so a fast flick doesn't fling to the footer
             scrollVelocity = Math.max(-30, Math.min(30, dy * (16 / dt)));
@@ -567,23 +490,17 @@
       }
 
       /* ── Draw physics bodies (with rotation) ────────────────── */
-      const visibleRainKeys = new Set();
       function drawPhysics() {
-        visibleRainKeys.clear();
+        ctx.imageSmoothingEnabled = true;
+        if ('imageSmoothingQuality' in ctx) ctx.imageSmoothingQuality = 'high';
         physEntries.forEach(en => {
           if (!imgCache[en.key]) return;
           const { position: p, angle: a } = en.body;
-          const el = rainImgEls[en.key];
-          if (!el) return;
-          visibleRainKeys.add(en.key);
-          el.style.width  = en.dW + 'px';
-          el.style.height = en.dH + 'px';
-          el.style.transform =
-            'translate(' + p.x + 'px,' + p.y + 'px) translate(-50%,-50%) rotate(' + a + 'rad)';
-          el.style.display = 'block';
-        });
-        RAIN_KEYS.forEach(key => {
-          if (!visibleRainKeys.has(key)) rainImgEls[key].style.display = 'none';
+          ctx.save();
+          ctx.translate(p.x, p.y);
+          ctx.rotate(a);
+          ctx.drawImage(imgCache[en.key], -en.dW/2, -en.dH/2, en.dW, en.dH);
+          ctx.restore();
         });
       }
 
@@ -726,17 +643,109 @@
 
     })();
 
-    /* ── Nav logo: fades in once the hero title scrolls past the
-       nav bar, so the brand mark is always present in the header
-       without a fragile floating clone tracking scroll position. ── */
+    /* ── Title morph: hero centre → nav logo on scroll ─────── */
     (function() {
       var h1      = document.querySelector('.title');
       var navLogo = document.querySelector('.eg-nav-logo');
       if (!h1 || !navLogo) return;
 
-      function onScroll() {
+      var clone = document.createElement('div');
+      clone.className = 'title-morph';
+      clone.setAttribute('aria-hidden', 'true');
+      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
+      document.body.appendChild(clone);
+
+      var scrollRange, startX, startY, startFontSize,
+          endX, endY, endFontSize, scaleEnd, padLR;
+
+      function measure() {
+        clone.style.display = 'none';
+        h1.style.visibility = 'visible';
+        h1.style.animation  = 'float-title 7s ease-in-out infinite';
+
+        var saved = window.pageYOffset || 0;
         var hr = h1.getBoundingClientRect();
-        navLogo.style.opacity = hr.bottom < 60 ? '1' : '0';
+        var nr = navLogo.getBoundingClientRect();
+
+        startFontSize = parseFloat(getComputedStyle(h1).fontSize);
+        endFontSize   = parseFloat(getComputedStyle(navLogo).fontSize);
+        scaleEnd      = endFontSize / startFontSize;
+        padLR         = getComputedStyle(h1).paddingLeft;
+
+        startX = hr.left;
+        startY = hr.top + saved;
+        endX   = nr.left;
+        endY   = nr.top;
+
+        scrollRange = window.innerHeight * 0.38;
+
+        clone.style.cssText =
+          'position:fixed;z-index:1001;pointer-events:none;' +
+          'font-family:Norwester,sans-serif;font-variant:small-caps;' +
+          'font-weight:normal;font-style:normal;' +
+          'line-height:.88;white-space:nowrap;' +
+          'font-size:' + startFontSize + 'px;' +
+          'color:#fff;' +
+          'text-shadow:0 0 26px rgba(160,210,20,.55),3px 3px 0 rgba(0,0,0,.9);' +
+          'background:rgba(10,6,24,.6);' +
+          'padding:12px ' + padLR + ';' +
+          'border-radius:8px;' +
+          'transform-origin:left top;' +
+          'will-change:transform,opacity;';
+
+        clone.style.display = '';
+        h1.style.visibility = 'hidden';
+        h1.style.animation  = 'none';
+        onScroll();
+      }
+
+      function ease(t) { return 1 - Math.pow(1 - t, 3); }
+
+      function onScroll() {
+        var scrollY = window.pageYOffset || 0;
+        var rawP    = Math.min(scrollY / scrollRange, 1);
+        var p       = ease(rawP);
+
+        if (rawP >= 1) {
+          clone.style.opacity   = '0';
+          navLogo.style.opacity = '1';
+          return;
+        }
+
+        var pageX = startX;
+        var pageY = startY - scrollY;
+
+        var curX = pageX + (endX - pageX) * p;
+        var curY = pageY + (endY - pageY) * p;
+        var s    = 1 + (scaleEnd - 1) * p;
+
+        clone.style.left      = curX + 'px';
+        clone.style.top       = curY + 'px';
+        clone.style.transform = 'scale(' + s + ')';
+
+        clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
+
+        var r = Math.round(255 + (156 - 255) * p);
+        var g = Math.round(255 + (188 - 255) * p);
+        var b = Math.round(255 + (20  - 255) * p);
+        clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
+
+        var a = 1 - p;
+        clone.style.textShadow =
+          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
+          '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
+
+        // Smooth crossfade over the last 20% of the scroll range
+        // so the clone melts into the nav logo instead of snapping.
+        var fadeZone = 0.8;
+        if (rawP > fadeZone) {
+          var fp = (rawP - fadeZone) / (1 - fadeZone);
+          clone.style.opacity   = String(1 - fp);
+          navLogo.style.opacity = String(fp);
+        } else {
+          clone.style.opacity   = '1';
+          navLogo.style.opacity = '0';
+        }
       }
 
       var ticking = false;
@@ -747,7 +756,16 @@
         }
       }, { passive: true });
 
-      onScroll();
+      var rt;
+      window.addEventListener('resize', function() {
+        clearTimeout(rt); rt = setTimeout(measure, 200);
+      });
+
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(measure);
+      } else {
+        setTimeout(measure, 300);
+      }
     })();
     var RAZORPAY_KEY_ID = 'rzp_live_T3ZTo2sM5OJff2'; // public Key ID only — safe to expose client-side
     var currentOrder = null;
@@ -1097,12 +1115,9 @@
   });
 
   if (!cards.length || !('IntersectionObserver' in window)) return;
-  // Low threshold so a card peeking in from the side of the horizontal
-  // scroll row (often <10% visible) still fades in instead of staying
-  // invisible — otherwise the next card looks like it doesn't exist.
   var obs = new IntersectionObserver(function(entries) {
     entries.forEach(function(e) { e.target.classList.toggle('visible', e.isIntersecting); });
-  }, { threshold: 0.05 });
+  }, { threshold: 0.3 });
   cards.forEach(function(c) { obs.observe(c); });
 
   var container = document.querySelector('.parents-stories');
@@ -1284,11 +1299,22 @@
     });
   }
 
-  /* ── Box-contents row: entry animation only (plain native scroll) ── */
+  /* ── Film-strip auto-scroll + auto-flip (all screens) ── */
   (function() {
     var pin = document.querySelector('.s2-pin');
     if (!pin) return;
+    var paused = false;
+    var resumeTimer;
 
+    // Only pause on deliberate click/tap ON the strip, not page scroll
+    pin.addEventListener('click', function(e) {
+      if (e.target.closest('.s2-flip-card') || e.target.closest('.s2-dice-scene')) return;
+      paused = true;
+      clearTimeout(resumeTimer);
+      resumeTimer = setTimeout(function() { paused = false; }, 4000);
+    });
+
+    // Trigger entry animation when section scrolls into view
     var entryObs = new IntersectionObserver(function(entries) {
       if (entries[0].isIntersecting) {
         pin.classList.add('s2-entered');
@@ -1296,6 +1322,56 @@
       }
     }, { threshold: 0.05 });
     entryObs.observe(pin);
+
+    // Train scroll — only while section is visible
+    var speed = 0.7;
+    var stripVisible = false;
+    var scrollObs = new IntersectionObserver(function(entries) {
+      stripVisible = entries[0].isIntersecting;
+    }, { threshold: 0.05 });
+    scrollObs.observe(pin);
+
+    function tick() {
+      if (!paused && stripVisible && pin.scrollWidth > pin.clientWidth) {
+        pin.scrollLeft += speed;
+        if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 1) {
+          pin.scrollLeft = 0;
+        }
+      }
+      requestAnimationFrame(tick);
+    }
+    tick();
+
+    // Auto-flip: only when section is actually visible
+    var flips = pin.querySelectorAll('.s2-flip-card');
+    var sectionVisible = false;
+    var flipObs = new IntersectionObserver(function(entries) {
+      sectionVisible = entries[0].isIntersecting;
+    }, { threshold: 0.1 });
+    flipObs.observe(pin);
+
+    function checkFlips() {
+      if (sectionVisible) {
+        var pinR = pin.getBoundingClientRect();
+        var cx = pinR.left + pinR.width / 2;
+        flips.forEach(function(card) {
+          var r = card.getBoundingClientRect();
+          var cardCx = r.left + r.width / 2;
+          if (Math.abs(cardCx - cx) < r.width * 0.7 && !card.dataset.af) {
+            card.dataset.af = '1';
+            card.classList.add('flipped');
+            if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.45);
+            setTimeout(function() {
+              card.classList.remove('flipped');
+              if (typeof playBoxSound === 'function') playBoxSound(cardFlipBuf, 0.3);
+              setTimeout(function() { delete card.dataset.af; }, 2500);
+            }, 2200);
+          }
+        });
+      }
+      requestAnimationFrame(checkFlips);
+    }
+    checkFlips();
   })();
 })();
 
@@ -4516,13 +4592,13 @@
     }
   }
 
-  // Cache cursor: only regenerate when angle changes by > ~10°
+  // Cache cursor: only regenerate when angle changes by > 0.5 rad (~29°)
   // toDataURL() is very expensive (PNG encode) — skip most updates
   var lastCursorAngle = -999;
   var lastCursorUrl = null;
   function applyCursor(angle) {
     if (!spiralLoaded) return;
-    if (Math.abs(angle - lastCursorAngle) < 0.18 && lastCursorUrl) {
+    if (Math.abs(angle - lastCursorAngle) < 0.5 && lastCursorUrl) {
       return;
     }
     lastCursorAngle = angle;
@@ -4548,38 +4624,21 @@
   }
 
   // Spiral sounds
+  var spiralAc = null;
   var spiralWhirr = null;
   var spinSoundBuf = null;
-  var spiralAc = null;
-  // Browsers only count discrete gestures (click/touchstart/keydown)
-  // towards unlocking a Web Audio context, NOT continuous wheel/touchmove
-  // events — so we create/resume the context on the first real gesture,
-  // here, rather than waiting for a scroll. Must stay wrapped in try/catch:
-  // a thrown error here must never be able to take down the rest of this
-  // script (the rotation listeners are registered further below).
-  function ensureSpiralAudio() {
-    try {
-      if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
-      if (spiralAc.state === 'suspended') spiralAc.resume();
-    } catch (e) {}
-  }
-  ['pointerdown', 'touchstart', 'keydown', 'click'].forEach(function(evt) {
-    document.addEventListener(evt, ensureSpiralAudio, { passive: true, once: true });
-  });
   // Preload spin sound.wav for scroll turns
   (function() {
-    try {
-      var xhr = new XMLHttpRequest();
-      xhr.open('GET', 'spin sound.wav', true);
-      xhr.responseType = 'arraybuffer';
-      xhr.onload = function() {
-        if (xhr.status === 200) {
-          ensureSpiralAudio();
-          if (spiralAc) spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
-        }
-      };
-      xhr.send();
-    } catch (e) {}
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'spin sound.wav', true);
+    xhr.responseType = 'arraybuffer';
+    xhr.onload = function() {
+      if (xhr.status === 200) {
+        if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
+        spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
+      }
+    };
+    xhr.send();
   })();
 
   // Play spin sound.wav (scroll turns) — only first 1s, with fade
@@ -4956,6 +5015,39 @@
     document.fonts.load('400 18px Futura').then(fitSubtitle).catch(function(){});
   }
   window.addEventListener('resize', fitSubtitle);
+})();
+
+// Sound On button — unlocks all audio contexts on first tap
+(function(){
+  var btn = document.getElementById('sound-on-btn');
+  if (!btn) return;
+  btn.addEventListener('click', function() {
+    // Unlock Web Audio contexts
+    try {
+      if (window.playBoxSound && window._cardFlipBuf) {
+        window.playBoxSound(window._cardFlipBuf, 0.5);
+      }
+    } catch(e){}
+    // Play a chime via Web Audio
+    try {
+      var ctx = new (window.AudioContext || window.webkitAudioContext)();
+      var notes = [523, 659, 784, 1047];
+      notes.forEach(function(freq, i) {
+        var osc = ctx.createOscillator();
+        var gain = ctx.createGain();
+        osc.type = 'sine';
+        osc.frequency.value = freq;
+        gain.gain.setValueAtTime(0.15, ctx.currentTime + i * 0.08);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.08 + 0.3);
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        osc.start(ctx.currentTime + i * 0.08);
+        osc.stop(ctx.currentTime + i * 0.08 + 0.3);
+      });
+    } catch(e){}
+    btn.classList.add('pressed');
+    setTimeout(function() { btn.remove(); }, 600);
+  });
 })();
 
 
