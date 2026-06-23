@@ -195,7 +195,7 @@
   <link rel="preload" as="image" href="box-lid.webp"/>
   <link rel="preload" as="image" href="board-prototype.webp"/>
   <link rel="preload" as="image" href="kit-items.webp"/>
-  <link rel="preload" as="script" href="cards.js?v=2" fetchpriority="high"/>
+  <link rel="preload" as="script" href="cards.js?v=3" fetchpriority="high"/>
   <!-- Preload matter.js too so it races with the inline HTML parse
        instead of blocking it serially. -->
   <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
@@ -1001,7 +1001,7 @@
 
   <div id="drag-hint">✦&nbsp;&nbsp;grab &amp; toss the illustrations&nbsp;&nbsp;✦</div>
 
-  <script src="cards.js?v=2"></script>
+  <script src="cards.js?v=3"></script>
   <script>
 
     /* ── Main scene ───────────────────────────────────────────── */
@@ -1211,6 +1211,7 @@
       let rainLoadedCount = 0;
       const RAIN_TOTAL = RAIN_KEYS.length;
       ALL_KEYS.forEach(k => {
+        if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
         const img   = new Image();
         img.onload  = () => {
           imgCache[k] = img;

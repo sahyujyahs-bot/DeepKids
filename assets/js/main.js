@@ -225,6 +225,7 @@
       let rainLoadedCount = 0;
       const RAIN_TOTAL = RAIN_KEYS.length;
       ALL_KEYS.forEach(k => {
+        if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
         const img   = new Image();
         img.onload  = () => {
           imgCache[k] = img;
