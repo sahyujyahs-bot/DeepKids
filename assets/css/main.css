@@ -978,6 +978,10 @@
 
   @media (max-width: 560px) {
     .s2-desc-big { font-size: clamp(17px, 4.4vw, 23px); line-height: 1.35; }
+    /* justify-content:center clips the first item out of scroll range
+       when the row overflows (scrollLeft can't go negative) — start
+       from the first item instead so swiping right reaches all of them */
+    .s2-pin { justify-content: flex-start; }
   }
 
 /* ===== Parents Section ===== */
@@ -1428,6 +1432,9 @@
   z-index: 2;
 }
 .s2-flip-card.flipped .s2-flip-hint { opacity: 0; }
+/* Only one "tap to flip" walkthrough hint needed per row — keep it on
+   the first flip card (Force Cards) and hide the duplicate on the rest. */
+.s2-pin-item.s2-pin-bigchall .s2-flip-hint { display: none; }
 
 /* ── 3D Dice ───────────────────────────────────────────── */
 .s2-dice-scene {

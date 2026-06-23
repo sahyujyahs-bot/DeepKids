@@ -30,6 +30,8 @@
         W = innerWidth; H = innerHeight;
         cv.width  = W;
         cv.height = H;
+        ctx.imageSmoothingEnabled = true;
+        if ('imageSmoothingQuality' in ctx) ctx.imageSmoothingQuality = 'high';
       };
       resize();
       addEventListener('resize', () => {
@@ -43,24 +45,6 @@
         if (Math.abs(W - oldW) < 2) return;
         rebuildWalls();
       });
-
-      /* EGBox is rendered as a real DOM <img> (not canvas-drawn) so it
-         stays pixel-sharp on high-DPR mobile screens — the shared
-         canvas is intentionally kept at 1x resolution for performance/
-         stability, which makes anything drawn on it via ctx.drawImage
-         soft on retina displays. The element just tracks the physics
-         body's position/rotation every frame in drawPhysics(). */
-      const egBoxEl = document.createElement('img');
-      egBoxEl.src = CARDS.EGBox.src;
-      egBoxEl.alt = '';
-      egBoxEl.style.position = 'absolute';
-      egBoxEl.style.left = '0';
-      egBoxEl.style.top = '0';
-      egBoxEl.style.zIndex = '1';
-      egBoxEl.style.pointerEvents = 'none';
-      egBoxEl.style.display = 'none';
-      egBoxEl.style.willChange = 'transform';
-      cv.parentElement.appendChild(egBoxEl);
 
       /* ── Background: stars & drifting asteroids ─────────────── */
       let t = 0;
@@ -247,6 +231,29 @@
       const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
                              'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
                              'DKLogo','ISSArt','AppleTree','EGBox'];
+
+      /* Rain cards are rendered as real DOM <img> elements (not canvas-
+         drawn) so they stay pixel-sharp on high-DPR mobile screens —
+         the shared canvas is intentionally kept at 1x resolution for
+         performance/stability, which makes anything drawn on it via
+         ctx.drawImage soft on retina displays. Each element tracks its
+         physics body's position/rotation every frame in drawPhysics(). */
+      const rainImgEls = {};
+      RAIN_KEYS.forEach(key => {
+        const el = document.createElement('img');
+        el.src = CARDS[key].src;
+        el.alt = '';
+        el.style.position = 'absolute';
+        el.style.left = '0';
+        el.style.top = '0';
+        el.style.zIndex = '1';
+        el.style.pointerEvents = 'none';
+        el.style.display = 'none';
+        el.style.willChange = 'transform';
+        cv.parentElement.appendChild(el);
+        rainImgEls[key] = el;
+      });
+
       const BIRD_KEY      = 'Card12Side2';
       const BALLOON_KEY   = 'Card12Side1';
       const PARACHUTE_KEY = 'Card13Side1';
@@ -318,7 +325,7 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info = CARDS[key];
-          const cardScale = info.scale || 1;
+          const cardScale = (info.scale || 1) * (W < 768 ? 1.12 : 1);
           const dW   = Math.round(slotW * cardScale);
           const dH   = Math.round(slotW * cardScale * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
@@ -368,7 +375,7 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var cardScale = info.scale || 1;
+        var cardScale = (info.scale || 1) * (W < 768 ? 1.12 : 1);
         var dW = Math.round(slotW * cardScale);
         var dH = Math.round(slotW * cardScale * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
@@ -524,28 +531,24 @@
       }
 
       /* ── Draw physics bodies (with rotation) ────────────────── */
+      const visibleRainKeys = new Set();
       function drawPhysics() {
-        ctx.imageSmoothingEnabled = true;
-        if ('imageSmoothingQuality' in ctx) ctx.imageSmoothingQuality = 'high';
-        let egBoxVisible = false;
+        visibleRainKeys.clear();
         physEntries.forEach(en => {
           if (!imgCache[en.key]) return;
           const { position: p, angle: a } = en.body;
-          if (en.key === 'EGBox') {
-            egBoxVisible = true;
-            egBoxEl.style.width  = en.dW + 'px';
-            egBoxEl.style.height = en.dH + 'px';
-            egBoxEl.style.transform =
-              'translate(' + p.x + 'px,' + p.y + 'px) translate(-50%,-50%) rotate(' + a + 'rad)';
-            return;
-          }
-          ctx.save();
-          ctx.translate(p.x, p.y);
-          ctx.rotate(a);
-          ctx.drawImage(imgCache[en.key], -en.dW/2, -en.dH/2, en.dW, en.dH);
-          ctx.restore();
+          const el = rainImgEls[en.key];
+          if (!el) return;
+          visibleRainKeys.add(en.key);
+          el.style.width  = en.dW + 'px';
+          el.style.height = en.dH + 'px';
+          el.style.transform =
+            'translate(' + p.x + 'px,' + p.y + 'px) translate(-50%,-50%) rotate(' + a + 'rad)';
+          el.style.display = 'block';
         });
-        egBoxEl.style.display = egBoxVisible ? 'block' : 'none';
+        RAIN_KEYS.forEach(key => {
+          if (!visibleRainKeys.has(key)) rainImgEls[key].style.display = 'none';
+        });
       }
 
       /* ── Floaters: bird, balloon, parachute ─────────────────── */
