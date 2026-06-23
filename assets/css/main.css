@@ -590,7 +590,8 @@
     font-family: 'Norwester', sans-serif; font-size: clamp(18px,2.4vw,28px);
     color: #aa59c8; text-decoration: none; letter-spacing: 1px;
     white-space: nowrap;
-    opacity: 0; /* hidden until morph script hands off at scroll threshold */
+    opacity: 0; /* fades in once the hero title scrolls past the nav */
+    transition: opacity .25s ease;
   }
   .eg-nav-right {
     display: flex;

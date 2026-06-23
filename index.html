@@ -791,7 +791,8 @@
     font-family: 'Norwester', sans-serif; font-size: clamp(18px,2.4vw,28px);
     color: #aa59c8; text-decoration: none; letter-spacing: 1px;
     white-space: nowrap;
-    opacity: 0; /* hidden until morph script hands off at scroll threshold */
+    opacity: 0; /* fades in once the hero title scrolls past the nav */
+    transition: opacity .25s ease;
     display: flex;
     align-items: baseline;
     gap: clamp(6px, 1vw, 10px);
@@ -1345,6 +1346,7 @@
         let touchLastY = 0;
         let touchLastTime = 0;
         let draggingCard = false;
+        let touchTotalMove = 0;
         let scrollVelocity = 0;
         let momentumRAF = 0;
 
@@ -1368,6 +1370,7 @@
           scrollVelocity = 0;
           mouse.mousedown(e);
           draggingCard = false;
+          touchTotalMove = 0;
         }, { passive: true });
 
         cv.addEventListener('touchmove', (e) => {
@@ -1377,13 +1380,21 @@
           const dt = now - touchLastTime || 16;
           touchLastY = t.clientY;
           touchLastTime = now;
+          touchTotalMove += Math.abs(dy);
 
-          mouse.mousemove(e);
-
-          if (mc.body) {
+          /* Don't commit to a drag just because the finger landed on a
+             card — most touches that start on a card are actually trying
+             to scroll past it. Only treat it as a drag once the finger
+             has moved enough to show real dragging intent; until then,
+             let the page scroll normally. */
+          if (!draggingCard && mc.body && touchTotalMove > 14) {
             draggingCard = true;
+          }
+
+          if (draggingCard) {
+            mouse.mousemove(e);
             e.preventDefault();
-          } else if (!draggingCard) {
+          } else {
             window.scrollBy(0, dy);
             // Cap velocity so a fast flick doesn't fling to the footer
             scrollVelocity = Math.max(-30, Math.min(30, dy * (16 / dt)));
@@ -1608,109 +1619,17 @@
 
     })();
 
-    /* ── Title morph: hero centre → nav logo on scroll ─────── */
+    /* ── Nav logo: fades in once the hero title scrolls past the
+       nav bar, so the brand mark is always present in the header
+       without a fragile floating clone tracking scroll position. ── */
     (function() {
       var h1      = document.querySelector('.title');
       var navLogo = document.querySelector('.eg-nav-logo');
       if (!h1 || !navLogo) return;
 
-      var clone = document.createElement('div');
-      clone.className = 'title-morph';
-      clone.setAttribute('aria-hidden', 'true');
-      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
-      document.body.appendChild(clone);
-
-      var scrollRange, startX, startY, startFontSize,
-          endX, endY, endFontSize, scaleEnd, padLR;
-
-      function measure() {
-        clone.style.display = 'none';
-        h1.style.visibility = 'visible';
-        h1.style.animation  = 'float-title 7s ease-in-out infinite';
-
-        var saved = window.pageYOffset || 0;
-        var hr = h1.getBoundingClientRect();
-        var nr = navLogo.getBoundingClientRect();
-
-        startFontSize = parseFloat(getComputedStyle(h1).fontSize);
-        endFontSize   = parseFloat(getComputedStyle(navLogo).fontSize);
-        scaleEnd      = endFontSize / startFontSize;
-        padLR         = getComputedStyle(h1).paddingLeft;
-
-        startX = hr.left;
-        startY = hr.top + saved;
-        endX   = nr.left;
-        endY   = nr.top;
-
-        scrollRange = window.innerHeight * 0.38;
-
-        clone.style.cssText =
-          'position:fixed;z-index:1001;pointer-events:none;' +
-          'font-family:Norwester,sans-serif;font-variant:small-caps;' +
-          'font-weight:normal;font-style:normal;' +
-          'line-height:.88;white-space:nowrap;' +
-          'font-size:' + startFontSize + 'px;' +
-          'color:#fff;' +
-          'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
-          'background:rgba(10,6,24,.6);' +
-          'padding:12px ' + padLR + ';' +
-          'border-radius:8px;' +
-          'transform-origin:left top;' +
-          'will-change:transform,opacity;';
-
-        clone.style.display = '';
-        h1.style.visibility = 'hidden';
-        h1.style.animation  = 'none';
-        onScroll();
-      }
-
-      function ease(t) { return 1 - Math.pow(1 - t, 3); }
-
       function onScroll() {
-        var scrollY = window.pageYOffset || 0;
-        var rawP    = Math.min(scrollY / scrollRange, 1);
-        var p       = ease(rawP);
-
-        if (rawP >= 1) {
-          clone.style.opacity   = '0';
-          navLogo.style.opacity = '1';
-          return;
-        }
-
-        var pageX = startX;
-        var pageY = startY - scrollY;
-
-        var curX = pageX + (endX - pageX) * p;
-        var curY = pageY + (endY - pageY) * p;
-        var s    = 1 + (scaleEnd - 1) * p;
-
-        clone.style.left      = curX + 'px';
-        clone.style.top       = curY + 'px';
-        clone.style.transform = 'scale(' + s + ')';
-
-        clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
-
-        var r = Math.round(255 + (170 - 255) * p);
-        var g = Math.round(255 + (89  - 255) * p);
-        var b = Math.round(255 + (200 - 255) * p);
-        clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
-
-        var a = 1 - p;
-        clone.style.textShadow =
-          '0 0 26px rgba(170,89,200,' + (0.55 * a) + '),' +
-          '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
-
-        // Smooth crossfade over the last 20% of the scroll range
-        // so the clone melts into the nav logo instead of snapping.
-        var fadeZone = 0.8;
-        if (rawP > fadeZone) {
-          var fp = (rawP - fadeZone) / (1 - fadeZone);
-          clone.style.opacity   = String(1 - fp);
-          navLogo.style.opacity = String(fp);
-        } else {
-          clone.style.opacity   = '1';
-          navLogo.style.opacity = '0';
-        }
+        var hr = h1.getBoundingClientRect();
+        navLogo.style.opacity = hr.bottom < 60 ? '1' : '0';
       }
 
       var ticking = false;
@@ -1721,16 +1640,7 @@
         }
       }, { passive: true });
 
-      var rt;
-      window.addEventListener('resize', function() {
-        clearTimeout(rt); rt = setTimeout(measure, 200);
-      });
-
-      if (document.fonts && document.fonts.ready) {
-        document.fonts.ready.then(measure);
-      } else {
-        setTimeout(measure, 300);
-      }
+      onScroll();
     })();
     var RAZORPAY_KEY_ID = 'rzp_live_T3ZTo2sM5OJff2'; // public Key ID only — safe to expose client-side
     var currentOrder = null;
