@@ -704,7 +704,22 @@
     </div>
 
   </div>
+
+  <button type="button" class="s2-video-link eg-fade-in" id="s2VideoOpen">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 8.5l6 3.5-6 3.5z"/></svg>
+    Watch Unboxing Video
+  </button>
+
 </section>
+
+<div class="s2-video-overlay" id="s2VideoOverlay">
+  <div class="s2-video-box">
+    <button type="button" class="s2-video-close" id="s2VideoClose" aria-label="Close video">&times;</button>
+    <video class="s2-video-player" id="s2VideoPlayer" controls playsinline preload="none">
+      <source src="unboxing-video.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
 <!-- ═══════════════════════════════════════════════ S-GALLERY ══ -->
 <section id="s-gallery">
   <h2 class="page-h2 eg-fade-in">Kids Playing EscapeGravity</h2>

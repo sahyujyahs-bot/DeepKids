@@ -1301,6 +1301,32 @@
     });
   }
 
+  /* ── Unboxing video modal ───────────────────────────── */
+  (function() {
+    var openBtn = document.getElementById('s2VideoOpen');
+    var overlay = document.getElementById('s2VideoOverlay');
+    var closeBtn = document.getElementById('s2VideoClose');
+    var video = document.getElementById('s2VideoPlayer');
+    if (!openBtn || !overlay || !video) return;
+
+    function openVideo() {
+      overlay.classList.add('show');
+      video.play();
+    }
+    function closeVideo() {
+      overlay.classList.remove('show');
+      video.pause();
+    }
+    openBtn.addEventListener('click', openVideo);
+    closeBtn.addEventListener('click', closeVideo);
+    overlay.addEventListener('click', function(e) {
+      if (e.target === overlay) closeVideo();
+    });
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && overlay.classList.contains('show')) closeVideo();
+    });
+  })();
+
   /* ── Film-strip auto-scroll + auto-flip (all screens) ── */
   (function() {
     var pin = document.querySelector('.s2-pin');
