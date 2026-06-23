@@ -9882,29 +9882,36 @@
   // Spiral sounds
   var spiralWhirr = null;
   var spinSoundBuf = null;
-  // Create the context eagerly (it starts "suspended" until a real user
-  // gesture unlocks it — see the gesture listener below). Browsers only
-  // count discrete gestures like click/touchstart/keydown towards that
-  // unlock, NOT continuous wheel/touchmove events — so if we waited to
-  // create/resume the context until the first wheel/touchmove, it would
-  // never unlock and scroll-triggered sound would silently never play.
-  var spiralAc = new (window.AudioContext || window.webkitAudioContext)();
-  ['pointerdown', 'touchstart', 'keydown', 'click'].forEach(function(evt) {
-    document.addEventListener(evt, function() {
+  var spiralAc = null;
+  // Browsers only count discrete gestures (click/touchstart/keydown)
+  // towards unlocking a Web Audio context, NOT continuous wheel/touchmove
+  // events — so we create/resume the context on the first real gesture,
+  // here, rather than waiting for a scroll. Must stay wrapped in try/catch:
+  // a thrown error here must never be able to take down the rest of this
+  // script (the rotation listeners are registered further below).
+  function ensureSpiralAudio() {
+    try {
+      if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
       if (spiralAc.state === 'suspended') spiralAc.resume();
-    }, { passive: true, once: true });
+    } catch (e) {}
+  }
+  ['pointerdown', 'touchstart', 'keydown', 'click'].forEach(function(evt) {
+    document.addEventListener(evt, ensureSpiralAudio, { passive: true, once: true });
   });
   // Preload spin sound.wav for scroll turns
   (function() {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'spin sound.wav', true);
-    xhr.responseType = 'arraybuffer';
-    xhr.onload = function() {
-      if (xhr.status === 200) {
-        spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
-      }
-    };
-    xhr.send();
+    try {
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'spin sound.wav', true);
+      xhr.responseType = 'arraybuffer';
+      xhr.onload = function() {
+        if (xhr.status === 200) {
+          ensureSpiralAudio();
+          if (spiralAc) spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
+        }
+      };
+      xhr.send();
+    } catch (e) {}
   })();
 
   // Play spin sound.wav (scroll turns) — only first 1s, with fade
