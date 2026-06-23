@@ -26,7 +26,16 @@
       const cv  = document.getElementById('cv');
       const ctx = cv.getContext('2d');
       let W, H;
-      const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
+      // Render the canvas backing store at device pixel ratio so images
+      // stay sharp on high-DPI mobile screens, while W/H (used for all
+      // physics + layout math below) stay in plain CSS-pixel units.
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      const resize = () => {
+        W = innerWidth; H = innerHeight;
+        cv.width  = W * dpr;
+        cv.height = H * dpr;
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      };
       resize();
       addEventListener('resize', () => { resize(); rebuildWalls(); });
 
@@ -355,7 +364,7 @@
       function spawnAll() {
         /* Drag-and-drop (mouse + touch) */
         const mouse = Mouse.create(cv);
-        mouse.pixelRatio = 1;
+        mouse.pixelRatio = 1 / dpr;
 
         /* ── Fix scrolling vs card drag ──────────────────────────
            Matter.js Mouse.create attaches mousewheel, DOMMouseScroll,
