@@ -686,7 +686,7 @@
           'line-height:.88;white-space:nowrap;' +
           'font-size:' + startFontSize + 'px;' +
           'color:#fff;' +
-          'text-shadow:0 0 26px rgba(160,210,20,.55),3px 3px 0 rgba(0,0,0,.9);' +
+          'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
           'background:rgba(10,6,24,.6);' +
           'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
@@ -732,7 +732,7 @@
 
         var a = 1 - p;
         clone.style.textShadow =
-          '0 0 26px rgba(160,210,20,' + (0.55 * a) + '),' +
+          '0 0 26px rgba(170,89,200,' + (0.55 * a) + '),' +
           '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
 
         // Smooth crossfade over the last 20% of the scroll range
@@ -1216,7 +1216,7 @@
   /* ── 3D Tilt on pointer move for all s2-pin items ────── */
   var items = document.querySelectorAll('.s2-pin-item');
   items.forEach(function(item) {
-    var inner = item.querySelector('img') || item.querySelector('svg') || item.querySelector('.s2-flip-inner') || item.querySelector('.s2-dice-scene');
+    var inner = item.querySelector('img') || item.querySelector('svg') || item.querySelector('.s2-flip-inner');
     if (!inner) return;
 
     item.addEventListener('pointermove', function(e) {
@@ -1285,19 +1285,6 @@
     });
   });
 
-  /* ── 3D Dice tap to spin ─────────────────────────────── */
-  var diceScene = document.querySelector('.s2-dice-scene');
-  if (diceScene) {
-    var cube = diceScene.querySelector('.s2-dice-cube');
-    diceScene.addEventListener('click', function() {
-      cube.classList.remove('spinning');
-      void cube.offsetWidth; // force reflow
-      cube.classList.add('spinning');
-      cube.addEventListener('animationend', function() {
-        cube.classList.remove('spinning');
-      }, { once: true });
-    });
-  }
 
   /* ── Film-strip auto-scroll + auto-flip (all screens) ── */
   (function() {
@@ -1308,7 +1295,7 @@
 
     // Only pause on deliberate click/tap ON the strip, not page scroll
     pin.addEventListener('click', function(e) {
-      if (e.target.closest('.s2-flip-card') || e.target.closest('.s2-dice-scene')) return;
+      if (e.target.closest('.s2-flip-card')) return;
       paused = true;
       clearTimeout(resumeTimer);
       resumeTimer = setTimeout(function() { paused = false; }, 4000);
@@ -3811,13 +3798,13 @@
     // Ground (semi-transparent — page starry bg shows through)
     ctx.fillStyle = 'rgba(26,10,46,0.6)';
     ctx.fillRect(0, GROUND, W, H - GROUND);
-    ctx.strokeStyle = 'rgba(156,188,20,0.3)';
+    ctx.strokeStyle = 'rgba(170,89,200,0.3)';
     ctx.lineWidth = 1;
     ctx.beginPath(); ctx.moveTo(0, GROUND); ctx.lineTo(W, GROUND); ctx.stroke();
 
     // Ground details
     var gOff = dist % 40;
-    ctx.fillStyle = 'rgba(156,188,20,0.08)';
+    ctx.fillStyle = 'rgba(170,89,200,0.08)';
     for (var g = -1; g < W / 40 + 1; g++) {
       ctx.fillRect(g * 40 - gOff, GROUND + 4, 2, 6);
     }
@@ -3991,7 +3978,7 @@
     if (flashTimer > 0) {
       ctx.fillStyle = 'rgba(0,0,0,0.5)';
       ctx.fillRect(W / 2 - 140, 10, 280, 30);
-      ctx.fillStyle = gameState === 'dead' ? '#ef5350' : '#9cbc14';
+      ctx.fillStyle = gameState === 'dead' ? '#ef5350' : '#aa59c8';
       ctx.font = 'bold 14px Futura, sans-serif';
       ctx.textAlign = 'center';
       ctx.fillText(flashMsg, W / 2, 30);
@@ -4419,8 +4406,8 @@
       + '<svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">'
       +   '<defs>'
       +     '<linearGradient id="' + gid + '" x1="0" y1="0" x2="0" y2="1">'
-      +       '<stop offset="0%" stop-color="#c0e638"/>'
-      +       '<stop offset="45%" stop-color="#9cbc14"/>'
+      +       '<stop offset="0%" stop-color="#cd9edf"/>'
+      +       '<stop offset="45%" stop-color="#aa59c8"/>'
       +       '<stop offset="100%" stop-color="#6b8f08"/>'
       +     '</linearGradient>'
       +     '<linearGradient id="' + hid + '" x1="0" y1="0" x2="0" y2="1">'
@@ -4432,8 +4419,8 @@
       +   '<line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>'
       +   '<path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>'
       +   '<path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#' + gid + ')"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#9cbc14" stroke-width="13" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>'
       +   '<path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#' + hid + ')"/>'
       +   '<path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>'
       +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>'
@@ -5016,41 +5003,6 @@
   }
   window.addEventListener('resize', fitSubtitle);
 })();
-
-// Sound On button — unlocks all audio contexts on first tap
-(function(){
-  var btn = document.getElementById('sound-on-btn');
-  if (!btn) return;
-  btn.addEventListener('click', function() {
-    // Unlock Web Audio contexts
-    try {
-      if (window.playBoxSound && window._cardFlipBuf) {
-        window.playBoxSound(window._cardFlipBuf, 0.5);
-      }
-    } catch(e){}
-    // Play a chime via Web Audio
-    try {
-      var ctx = new (window.AudioContext || window.webkitAudioContext)();
-      var notes = [523, 659, 784, 1047];
-      notes.forEach(function(freq, i) {
-        var osc = ctx.createOscillator();
-        var gain = ctx.createGain();
-        osc.type = 'sine';
-        osc.frequency.value = freq;
-        gain.gain.setValueAtTime(0.15, ctx.currentTime + i * 0.08);
-        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.08 + 0.3);
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.start(ctx.currentTime + i * 0.08);
-        osc.stop(ctx.currentTime + i * 0.08 + 0.3);
-      });
-    } catch(e){}
-    btn.classList.add('pressed');
-    setTimeout(function() { btn.remove(); }, 600);
-  });
-})();
-
-
 
 // ===== Scroll Effects =====
 // ---- (originally index.html lines 10706-10753) ----
