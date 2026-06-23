@@ -949,9 +949,9 @@
     display: block;
     filter: drop-shadow(0 10px 30px rgba(0,0,0,0.5));
   }
-  .s2-pin-spiral { width: clamp(220px, 28vw, 340px); }
+  .s2-pin-spiral { width: clamp(260px, 32vw, 380px); }
   .s2-pin-spiral .s2-pin-media > img { border-radius: 10px; }
-  .s2-pin-kit { width: clamp(220px, 28vw, 340px); }
+  .s2-pin-kit { width: clamp(260px, 32vw, 380px); }
   .s2-pin-kit .s2-pin-media > img { border-radius: 10px; }
   .s2-pin-chall {
     width: clamp(200px, 25vw, 310px) !important;
@@ -979,8 +979,8 @@
 
   @media (max-width: 560px) {
     .s2-pin-item { width: clamp(180px, 55vw, 240px); }
-    .s2-pin-spiral { width: clamp(180px, 52vw, 230px); }
-    .s2-pin-kit { width: clamp(180px, 52vw, 230px); }
+    .s2-pin-spiral { width: clamp(220px, 60vw, 300px); }
+    .s2-pin-kit { width: clamp(220px, 60vw, 300px); }
     .s2-pin-chall { width: clamp(165px, 47vw, 215px); }
     .s2-pin-media { height: clamp(220px, 60vw, 300px); }
     .s2-pin-chall .s2-flip-card { height: clamp(220px, 60vw, 300px); }
