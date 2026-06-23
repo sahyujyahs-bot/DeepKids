@@ -4490,13 +4490,13 @@
     }
   }
 
-  // Cache cursor: only regenerate when angle changes by > 0.5 rad (~29°)
+  // Cache cursor: only regenerate when angle changes by > ~10°
   // toDataURL() is very expensive (PNG encode) — skip most updates
   var lastCursorAngle = -999;
   var lastCursorUrl = null;
   function applyCursor(angle) {
     if (!spiralLoaded) return;
-    if (Math.abs(angle - lastCursorAngle) < 0.5 && lastCursorUrl) {
+    if (Math.abs(angle - lastCursorAngle) < 0.18 && lastCursorUrl) {
       return;
     }
     lastCursorAngle = angle;
@@ -4522,9 +4522,20 @@
   }
 
   // Spiral sounds
-  var spiralAc = null;
   var spiralWhirr = null;
   var spinSoundBuf = null;
+  // Create the context eagerly (it starts "suspended" until a real user
+  // gesture unlocks it — see the gesture listener below). Browsers only
+  // count discrete gestures like click/touchstart/keydown towards that
+  // unlock, NOT continuous wheel/touchmove events — so if we waited to
+  // create/resume the context until the first wheel/touchmove, it would
+  // never unlock and scroll-triggered sound would silently never play.
+  var spiralAc = new (window.AudioContext || window.webkitAudioContext)();
+  ['pointerdown', 'touchstart', 'keydown', 'click'].forEach(function(evt) {
+    document.addEventListener(evt, function() {
+      if (spiralAc.state === 'suspended') spiralAc.resume();
+    }, { passive: true, once: true });
+  });
   // Preload spin sound.wav for scroll turns
   (function() {
     var xhr = new XMLHttpRequest();
@@ -4532,7 +4543,6 @@
     xhr.responseType = 'arraybuffer';
     xhr.onload = function() {
       if (xhr.status === 200) {
-        if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
         spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
       }
     };
