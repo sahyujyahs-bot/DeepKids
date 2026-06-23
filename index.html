@@ -2371,11 +2371,15 @@
     padding: 0 clamp(12px, 4vw, 40px);
   }
   .s2-desc em { font-style: normal; color: #aa59c8; }
+  .s2-desc-line {
+    display: block;
+    margin: clamp(10px, 1.6vh, 18px) 0;
+  }
   .s2-desc-big {
     display: block;
     font-size: clamp(17px, 2vw, 24px);
     font-style: oblique;
-    margin: clamp(4px, 0.8vh, 10px) 0;
+    margin: clamp(10px, 1.6vh, 18px) 0;
     color: rgba(255,255,255,0.8);
   }
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
@@ -2440,8 +2444,19 @@
     display: block;
     border-radius: clamp(8px, 1.2vw, 14px);
   }
-  .s2-pin-box { width: clamp(260px, 34vw, 420px); }
-  .s2-pin-box > img { object-fit: cover; object-position: center; border-radius: 10px; }
+  .s2-box-standalone {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto clamp(24px, 3.5vh, 40px);
+    padding: 0 clamp(16px,4vw,40px);
+  }
+  .s2-box-standalone > img {
+    max-width: clamp(220px, 30vw, 360px);
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: drop-shadow(0 10px 30px rgba(0,0,0,0.5));
+  }
   .s2-pin-spiral { width: clamp(280px, 36vw, 440px); }
   .s2-pin-spiral > img { border-radius: 10px; }
   .s2-pin-kit { width: clamp(280px, 36vw, 440px); }
@@ -2472,7 +2487,6 @@
 
   @media (max-width: 560px) {
     .s2-pin-item { width: clamp(180px, 55vw, 240px); }
-    .s2-pin-box { width: clamp(220px, 65vw, 280px); }
     .s2-pin-spiral { width: clamp(220px, 65vw, 280px); }
     .s2-pin-kit { width: clamp(220px, 65vw, 280px); }
     .s2-pin-chall { width: clamp(200px, 58vw, 260px); }
@@ -2645,13 +2659,16 @@
 
   <style>
     .ps-reasons-title {
-      font-family: 'Norwester', sans-serif;
-      font-variant: small-caps;
-      font-size: clamp(18px, 3vw, 32px);
-      color: #fff;
-      text-shadow: 0 0 16px rgba(170,89,200,0.3);
-      margin: clamp(40px, 6vh, 64px) 0 clamp(20px, 3vh, 32px);
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(14px, 1.8vw, 22px);
+      color: rgba(255,255,255,0.9);
+      letter-spacing: clamp(2px, .4vw, 4px);
+      text-transform: uppercase;
+      text-shadow: 0 0 12px rgba(170,89,200,0.3);
+      margin: clamp(40px, 6vh, 64px) auto clamp(20px, 3vh, 32px);
       text-align: center;
+      max-width: 1100px;
+      padding: 0 clamp(16px,4vw,40px);
     }
     .ps-reasons {
       display: flex;
@@ -3151,19 +3168,18 @@
   <h2 class="page-h2 eg-fade-in">The Board Game</h2>
   <p class="page-subh eg-fade-in">Mission: Reach The International Space Station</p>
   <p class="s2-desc eg-fade-in s2-d1">
-    Start on <em>Earth's Surface</em> and race toward the <em>ISS</em>.<br>
+    <span class="s2-desc-line">Start on <em>Earth's Surface</em> and race toward the <em>ISS</em>.</span>
     <span class="s2-desc-big">The board is <em>Gravity's agent</em> — pulling you down into the core to consume you.</span>
-    Fight back using <em>Force Cards</em>, earned by completing <em>Physical Challenges</em>.
+    <span class="s2-desc-line">Fight back using <em>Force Cards</em>, earned by completing <em>Physical Challenges</em>.</span>
   </p>
 
   <p class="page-subh eg-fade-in s2-d2">What's Inside The Box</p>
 
-  <div class="s2-pin">
-    <div class="s2-pin-item s2-pin-box">
-      <img decoding="async" src="box-lid.webp" alt="EscapeGravity educational board game box">
-      <div class="s2-pin-lbl">Box</div>
-    </div>
+  <div class="s2-box-standalone eg-fade-in s2-d2">
+    <img decoding="async" src="eg-box-new.webp" alt="EscapeGravity educational board game box">
+  </div>
 
+  <div class="s2-pin">
     <div class="s2-pin-item s2-pin-spiral">
       <img decoding="async" src="board-prototype.webp" alt="EscapeGravity learning board game spiral board">
       <div class="s2-pin-lbl">The Spiral Board</div>
@@ -7746,7 +7762,7 @@
   .page-subh {
     font-family: 'Futura', sans-serif;
     font-size: clamp(14px, 1.8vw, 22px);
-    color: #aa59c8;
+    color: rgba(255,255,255,0.9);
     letter-spacing: clamp(2px, .4vw, 4px);
     text-transform: uppercase;
     text-align: center;
