@@ -725,9 +725,9 @@
 
         clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
 
-        var r = Math.round(255 + (156 - 255) * p);
-        var g = Math.round(255 + (188 - 255) * p);
-        var b = Math.round(255 + (20  - 255) * p);
+        var r = Math.round(255 + (170 - 255) * p);
+        var g = Math.round(255 + (89  - 255) * p);
+        var b = Math.round(255 + (200 - 255) * p);
         clone.style.color = 'rgb(' + r + ',' + g + ',' + b + ')';
 
         var a = 1 - p;
@@ -1286,20 +1286,10 @@
   });
 
 
-  /* ── Film-strip auto-scroll + auto-flip (all screens) ── */
+  /* ── Film-strip: entry animation + auto-flip (all screens) ── */
   (function() {
     var pin = document.querySelector('.s2-pin');
     if (!pin) return;
-    var paused = false;
-    var resumeTimer;
-
-    // Only pause on deliberate click/tap ON the strip, not page scroll
-    pin.addEventListener('click', function(e) {
-      if (e.target.closest('.s2-flip-card')) return;
-      paused = true;
-      clearTimeout(resumeTimer);
-      resumeTimer = setTimeout(function() { paused = false; }, 4000);
-    });
 
     // Trigger entry animation when section scrolls into view
     var entryObs = new IntersectionObserver(function(entries) {
@@ -1309,25 +1299,6 @@
       }
     }, { threshold: 0.05 });
     entryObs.observe(pin);
-
-    // Train scroll — only while section is visible
-    var speed = 0.7;
-    var stripVisible = false;
-    var scrollObs = new IntersectionObserver(function(entries) {
-      stripVisible = entries[0].isIntersecting;
-    }, { threshold: 0.05 });
-    scrollObs.observe(pin);
-
-    function tick() {
-      if (!paused && stripVisible && pin.scrollWidth > pin.clientWidth) {
-        pin.scrollLeft += speed;
-        if (pin.scrollLeft >= pin.scrollWidth - pin.clientWidth - 1) {
-          pin.scrollLeft = 0;
-        }
-      }
-      requestAnimationFrame(tick);
-    }
-    tick();
 
     // Auto-flip: only when section is actually visible
     var flips = pin.querySelectorAll('.s2-flip-card');
@@ -4408,7 +4379,7 @@
       +     '<linearGradient id="' + gid + '" x1="0" y1="0" x2="0" y2="1">'
       +       '<stop offset="0%" stop-color="#cd9edf"/>'
       +       '<stop offset="45%" stop-color="#aa59c8"/>'
-      +       '<stop offset="100%" stop-color="#6b8f08"/>'
+      +       '<stop offset="100%" stop-color="#793194"/>'
       +     '</linearGradient>'
       +     '<linearGradient id="' + hid + '" x1="0" y1="0" x2="0" y2="1">'
       +       '<stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>'
