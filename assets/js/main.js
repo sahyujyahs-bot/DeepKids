@@ -34,7 +34,17 @@
         ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       };
       resize();
-      addEventListener('resize', () => { resize(); rebuildWalls(); });
+      addEventListener('resize', () => {
+        const oldW = W;
+        resize();
+        // Mobile browsers fire 'resize' when the address bar shows/hides
+        // during scroll, changing only H. Rebuilding walls on a pure
+        // height change yanks the floor out from under settled cards
+        // and sends them flying — only rebuild on real width changes
+        // (covers orientation change / actual viewport resize).
+        if (Math.abs(W - oldW) < 2) return;
+        rebuildWalls();
+      });
 
       /* ── Background: stars & drifting asteroids ─────────────── */
       let t = 0;
