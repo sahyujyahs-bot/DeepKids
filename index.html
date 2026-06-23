@@ -2487,6 +2487,12 @@
   .s2-pin-item {
     flex: 0 0 auto;
     width: clamp(260px, 27vw, 320px);
+    /* Fixed total height (tall enough for the biggest item) — every
+       item's label sits flush at the bottom via justify-content,
+       so labels line up in a single row regardless of media size.
+       This doesn't depend on the parent's align-items, which some
+       mobile browsers get wrong on overflowing flex rows. */
+    height: clamp(460px, 58vw, 660px);
     padding: 0;
     margin: 0;
     display: flex;
@@ -2498,7 +2504,7 @@
     min-width: 0;
     scroll-snap-align: center;
   }
-  .s2-pin-item.s2-pin-bigchall { width: clamp(300px, 34vw, 400px); }
+  .s2-pin-item.s2-pin-bigchall { width: clamp(340px, 38vw, 440px); }
   .s2-pin-item:hover { transform: translateY(-4px); }
   /* Items start invisible, animate in when section enters viewport */
   .s2-pin-item {
@@ -2523,7 +2529,7 @@
     align-items: center;
     justify-content: center;
   }
-  .s2-pin-item.s2-pin-bigchall .s2-pin-media { height: clamp(340px, 44vw, 500px); }
+  .s2-pin-item.s2-pin-bigchall .s2-pin-media { height: clamp(380px, 50vw, 560px); }
   .s2-pin-media img,
   .s2-pin-media svg,
   .s2-pin-media .s2-flip-card {
@@ -2679,7 +2685,7 @@
   }
 
   @media (max-width: 768px) {
-    .ps-card { flex: 0 0 clamp(280px, 82vw, 380px); }
+    .ps-card { flex: 0 0 clamp(260px, 76vw, 360px); }
     .ps-cloud { font-size: clamp(9px, 2.8vw, 12px); max-width: 55% !important; }
     .ps-card-bath .ps-cloud-kid { top: auto; bottom: 3%; }
     .ps-card-dinner .ps-cloud-kid { bottom: -3%; }
@@ -2869,9 +2875,12 @@
   });
 
   if (!cards.length || !('IntersectionObserver' in window)) return;
+  // Low threshold so a card peeking in from the side of the horizontal
+  // scroll row (often <10% visible) still fades in instead of staying
+  // invisible — otherwise the next card looks like it doesn't exist.
   var obs = new IntersectionObserver(function(entries) {
     entries.forEach(function(e) { e.target.classList.toggle('visible', e.isIntersecting); });
-  }, { threshold: 0.3 });
+  }, { threshold: 0.05 });
   cards.forEach(function(c) { obs.observe(c); });
 
   var container = document.querySelector('.parents-stories');

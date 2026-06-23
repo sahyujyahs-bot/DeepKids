@@ -1162,9 +1162,12 @@
   });
 
   if (!cards.length || !('IntersectionObserver' in window)) return;
+  // Low threshold so a card peeking in from the side of the horizontal
+  // scroll row (often <10% visible) still fades in instead of staying
+  // invisible — otherwise the next card looks like it doesn't exist.
   var obs = new IntersectionObserver(function(entries) {
     entries.forEach(function(e) { e.target.classList.toggle('visible', e.isIntersecting); });
-  }, { threshold: 0.3 });
+  }, { threshold: 0.05 });
   cards.forEach(function(c) { obs.observe(c); });
 
   var container = document.querySelector('.parents-stories');
