@@ -2471,6 +2471,7 @@
   .s2-pin {
     display: flex;
     flex-wrap: nowrap;
+    align-items: flex-end;
     gap: clamp(20px, 3vw, 40px);
     width: 100vw;
     margin: 0 calc(50% - 50vw);
@@ -2482,19 +2483,19 @@
   }
   .s2-pin-item {
     flex: 0 0 auto;
-    width: clamp(220px, 23vw, 270px);
+    width: clamp(260px, 27vw, 320px);
     padding: 0;
     margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
     gap: clamp(10px, 1.4vw, 16px);
     transition: transform 0.3s;
     min-width: 0;
     scroll-snap-align: center;
   }
-  .s2-pin-item.s2-pin-bigchall { width: clamp(260px, 30vw, 340px); }
+  .s2-pin-item.s2-pin-bigchall { width: clamp(300px, 34vw, 400px); }
   .s2-pin-item:hover { transform: translateY(-4px); }
   /* Items start invisible, animate in when section enters viewport */
   .s2-pin-item {
@@ -2514,12 +2515,12 @@
      of the natural size of the image/card/dice inside it. */
   .s2-pin-media {
     width: 100%;
-    height: clamp(240px, 30vw, 360px);
+    height: clamp(280px, 35vw, 420px);
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .s2-pin-item.s2-pin-bigchall .s2-pin-media { height: clamp(300px, 38vw, 440px); }
+  .s2-pin-item.s2-pin-bigchall .s2-pin-media { height: clamp(340px, 44vw, 500px); }
   .s2-pin-media img,
   .s2-pin-media svg,
   .s2-pin-media .s2-flip-card {
