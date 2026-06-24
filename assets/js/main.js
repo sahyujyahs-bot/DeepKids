@@ -254,6 +254,16 @@
       let loadedCount = 0;
       let rainLoadedCount = 0;
       const RAIN_TOTAL = RAIN_KEYS.length;
+      // Wait for the whole rain set to be ready before the first drop so
+      // every card falls together in one smooth cascade, instead of
+      // popping in mid-air one at a time as each image straggles in
+      // (which read as a glitchy stop-start load). A short timeout is
+      // a safety net in case one image is slow/broken — it spawns with
+      // whatever's loaded so far rather than blocking the hero forever;
+      // any genuinely late stragglers still use the old late-drop path.
+      let heroSpawnTimer = setTimeout(() => {
+        if (!window._heroSpawned) { window._heroSpawned = true; spawnAll(); }
+      }, 1800);
       ALL_KEYS.forEach(k => {
         if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
         const img   = new Image();
@@ -261,13 +271,14 @@
           imgCache[k] = img;
           loadedCount++;
           if (RAIN_KEYS.indexOf(k) !== -1) rainLoadedCount++;
-          // Start the rain as soon as the first rain image is
-          // ready. Remaining cards are added as they arrive.
-          if (rainLoadedCount >= 1 && !window._heroSpawned) {
+          // Start the rain once every rain image is ready.
+          if (rainLoadedCount >= RAIN_TOTAL && !window._heroSpawned) {
+            clearTimeout(heroSpawnTimer);
             window._heroSpawned = true;
             spawnAll();
           } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
-            // Late arrival: add this card to the existing scene
+            // Late arrival (only reachable via the timeout fallback above):
+            // add this card to the already-running scene.
             if (typeof window._lateDropCard === 'function') window._lateDropCard(k);
           }
         };
