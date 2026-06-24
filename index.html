@@ -1866,6 +1866,23 @@
         body: JSON.stringify({ phone: phone, template: template, bodyParams: bodyParams, buttonParam: buttonParam })
       }).catch(function(){});
     }
+    // TEMPORARY — manual WhatsApp template test trigger, gated behind a
+    // URL flag so normal visitors never see it. Remove once verified.
+    // Usage: https://deepkids.in/?wa-test=1&wa-phone=919739815506
+    (function () {
+      var qs = new URLSearchParams(window.location.search);
+      if (qs.get('wa-test') !== '1') return;
+      var phone = qs.get('wa-phone');
+      if (!phone) return;
+      var box = document.createElement('div');
+      box.style.cssText = 'position:fixed;bottom:16px;left:16px;z-index:99999;background:#111;color:#0f0;font:12px monospace;padding:10px 14px;border-radius:8px;max-width:300px;';
+      box.textContent = 'Sending order_complete test to +' + phone + '...';
+      document.body.appendChild(box);
+      sendWhatsAppMessage('order_complete', '+' + phone, ['Test User', 'TEST_ORDER_' + Date.now()])
+        .then(function (r) { return r && r.json ? r.json() : r; })
+        .then(function (result) { box.textContent = 'Result: ' + JSON.stringify(result); })
+        .catch(function (err) { box.textContent = 'Error: ' + err; });
+    })();
     function openPlayTest() {
       var modal = document.getElementById('playtest-modal');
       if (modal) modal.classList.add('show');
