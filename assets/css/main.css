@@ -869,14 +869,7 @@
   .s2-desc em { font-style: normal; color: #aa59c8; }
   .s2-desc-line {
     display: block;
-    margin: clamp(10px, 1.6vh, 18px) 0;
-  }
-  .s2-desc-big {
-    display: block;
-    font-size: clamp(17px, 2vw, 24px);
-    font-style: oblique;
-    margin: clamp(10px, 1.6vh, 18px) 0;
-    color: rgba(255,255,255,0.8);
+    margin: clamp(16px, 2.6vh, 26px) 0;
   }
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
@@ -1011,7 +1004,6 @@
     .s2-pin-media { height: clamp(220px, 60vw, 300px); }
     .s2-pin-chall .s2-flip-card { height: clamp(220px, 60vw, 300px); }
     .s2-pin-chall-big { width: clamp(300px, 88vw, 390px) !important; }
-    .s2-desc-big { font-size: clamp(17px, 4.4vw, 23px); line-height: 1.35; }
   }
 
 /* ===== Parents Section ===== */
