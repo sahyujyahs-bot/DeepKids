@@ -250,10 +250,11 @@
       const PARACHUTE_KEY = 'Card13Side1';
       const ALL_KEYS      = [...RAIN_KEYS, BIRD_KEY, BALLOON_KEY, PARACHUTE_KEY];
 
-      const imgCache = {};
-      let loadedCount = 0;
-      let rainLoadedCount = 0;
-      const RAIN_TOTAL = RAIN_KEYS.length;
+      // Image loading started before matter.min.js (see the small
+      // script right after cards.js in the HTML) so the fetches aren't
+      // stuck behind that blocking CDN script. We just hook into it.
+      const imgCache  = window.__rainImgCache;
+      const RAIN_TOTAL = window.__RAIN_TOTAL;
       // Wait for the whole rain set to be ready before the first drop so
       // every card falls together in one smooth cascade, instead of
       // popping in mid-air one at a time as each image straggles in
@@ -264,27 +265,26 @@
       let heroSpawnTimer = setTimeout(() => {
         if (!window._heroSpawned) { window._heroSpawned = true; spawnAll(); }
       }, 1800);
-      ALL_KEYS.forEach(k => {
-        if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
-        const img   = new Image();
-        img.onload  = () => {
-          imgCache[k] = img;
-          loadedCount++;
-          if (RAIN_KEYS.indexOf(k) !== -1) rainLoadedCount++;
-          // Start the rain once every rain image is ready.
-          if (rainLoadedCount >= RAIN_TOTAL && !window._heroSpawned) {
-            clearTimeout(heroSpawnTimer);
-            window._heroSpawned = true;
-            spawnAll();
-          } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
-            // Late arrival (only reachable via the timeout fallback above):
-            // add this card to the already-running scene.
-            if (typeof window._lateDropCard === 'function') window._lateDropCard(k);
-          }
-        };
-        img.onerror = () => { loadedCount++; };
-        img.src     = CARDS[k].src;
-      });
+      window.__onRainImageLoaded = (k) => {
+        if (window._heroSpawned) {
+          // Late arrival (only reachable via the timeout fallback above):
+          // add this card to the already-running scene.
+          if (RAIN_KEYS.indexOf(k) !== -1 && typeof window._lateDropCard === 'function') window._lateDropCard(k);
+          return;
+        }
+        if (window.__rainLoadedCount >= RAIN_TOTAL) {
+          clearTimeout(heroSpawnTimer);
+          window._heroSpawned = true;
+          spawnAll();
+        }
+      };
+      // Some/all images may have already finished loading by the time
+      // this script runs (they started before matter.min.js) — check now.
+      if (window.__rainLoadedCount >= RAIN_TOTAL) {
+        clearTimeout(heroSpawnTimer);
+        window._heroSpawned = true;
+        spawnAll();
+      }
 
       /* ── Rain state ─────────────────────────────────────────── */
       const physEntries = [];   // { body, key, dW, dH }

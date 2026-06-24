@@ -297,6 +297,32 @@
   <div id="drag-hint">✦&nbsp;&nbsp;grab &amp; toss the illustrations&nbsp;&nbsp;✦</div>
 
   <script src="cards.js?v=5"></script>
+  <!-- Start fetching the rain-card images right away — matter.min.js
+       below is a blocking cross-origin CDN script, and waiting until
+       after it loads to even begin these image requests is what was
+       making the hero rain start late and stutter when stragglers
+       arrived after the scene had already spawned. -->
+  <script>
+    window.__rainImgCache   = {};
+    window.__rainLoadedCount = 0;
+    (function () {
+      var RAIN_KEYS = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
+                       'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
+                       'DKLogo','AppleTree','DasBox'];
+      var ALL_KEYS = RAIN_KEYS.concat(['Card12Side2','Card12Side1','Card13Side1']);
+      window.__RAIN_TOTAL = RAIN_KEYS.length;
+      ALL_KEYS.forEach(function (k) {
+        if (!CARDS[k]) return;
+        var img = new Image();
+        img.onload = function () {
+          window.__rainImgCache[k] = img;
+          if (RAIN_KEYS.indexOf(k) !== -1) window.__rainLoadedCount++;
+          if (typeof window.__onRainImageLoaded === 'function') window.__onRainImageLoaded(k);
+        };
+        img.src = CARDS[k].src;
+      });
+    })();
+  </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
 </section>
 
