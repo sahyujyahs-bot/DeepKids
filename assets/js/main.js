@@ -5555,6 +5555,41 @@
   }, { passive: true });
 })();
 
+// ---- Board tour: full board → Tile 0 → ISS, auto-zoom ----
+(function () {
+  var frame = document.getElementById('s2-board-tour');
+  var img   = document.getElementById('s2-board-tour-img');
+  var label = document.getElementById('s2-board-tour-label');
+  if (!frame || !img || !label) return;
+  var STOPS = [
+    { t: 'scale(1) translate(0%, 0%)',       l: 'The Spiral Board' },
+    { t: 'scale(3.4) translate(-5%, 16%)',   l: 'Tile 0 — Starting Point' },
+    { t: 'scale(3.4) translate(33%, 36%)',   l: 'International Space Station' },
+    { t: 'scale(1) translate(0%, 0%)',       l: 'The Spiral Board' }
+  ];
+  var played = false;
+  function playTour() {
+    if (played) return;
+    played = true;
+    STOPS.forEach(function (stop, i) {
+      setTimeout(function () {
+        label.style.opacity = '0';
+        setTimeout(function () {
+          img.style.transform = stop.t;
+          label.textContent = stop.l;
+          label.style.opacity = '1';
+        }, 180);
+      }, i * 2200);
+    });
+  }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting && entry.intersectionRatio >= 0.5) playTour();
+    });
+  }, { threshold: 0.5 });
+  io.observe(frame);
+})();
+
 // ---- (originally index.html lines 11496-11499) ----
   // Disable right-click context menu (deterrent only — does not hide source code)
   document.addEventListener('contextmenu', function(e) { e.preventDefault(); });
