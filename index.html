@@ -1778,7 +1778,7 @@
         var fullAddress = [address, city, pincode, state].filter(Boolean).join(', ');
         leadEmailSent = true;
         sendLeadData(name.trim(), fullNumber, fullAddress, 'Closed Without Paying', '');
-        sendWhatsAppMessage('order_started', fullNumber, null, '?phone=' + fullNumber.replace(/^\+/, ''));
+        sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
       }
     }
     function sendLeadData(name, whatsapp, address, status, paymentId) {
@@ -1816,7 +1816,7 @@
       return Promise.race([promise, new Promise(function(resolve) { setTimeout(resolve, ms); })]);
     }
     // Sends exactly one pre-approved WhatsApp template message per pre-order
-    // attempt: 'order_started' for any non-success outcome, 'order_complete'
+    // attempt: 'order_started_new' for any non-success outcome, 'order_complete'
     // only when payment actually succeeds. Token lives server-side only.
     function sendWhatsAppMessage(template, phone, bodyParams, buttonParam) {
       if (!phone) return Promise.resolve();
@@ -1970,7 +1970,7 @@
             if (leadEmailSent) return;
             leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
-            sendWhatsAppMessage('order_started', fullNumber, null, '?phone=' + fullNumber.replace(/^\+/, ''));
+            sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
             msg.textContent = 'Payment cancelled. Try again when ready!';
             msg.className = 'po-msg err';
             if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
@@ -1981,7 +1981,7 @@
       rzp.on('payment.failed', function(response) {
         leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
-        sendWhatsAppMessage('order_started', fullNumber, null, '?phone=' + fullNumber.replace(/^\+/, ''));
+        sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
         msg.textContent = 'Payment failed: ' + (response.error && response.error.description ? response.error.description : 'please try again.');
         msg.className = 'po-msg err';
         if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
