@@ -2500,50 +2500,20 @@
     aspect-ratio: 1 / 1;
     box-shadow: 0 0 0 1px rgba(170,89,200,0.3), 0 20px 50px rgba(0,0,0,0.5);
   }
-  #s2-board-tour-toggle {
-    position: absolute;
-    bottom: 10px; right: 10px;
-    z-index: 5;
-    width: 34px; height: 34px;
-    border-radius: 50%;
-    border: 2px solid rgba(170,89,200,.55);
-    background: rgba(2,4,14,.80);
-    -webkit-backdrop-filter: blur(6px);
-    backdrop-filter: blur(6px);
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: border-color .25s, background .25s, transform .2s;
-    outline: none;
-  }
-  #s2-board-tour-toggle:hover {
-    border-color: #aa59c8;
-    transform: scale(1.1);
-  }
-  #s2-board-tour-toggle svg {
-    width: 16px; height: 16px;
-    fill: #aa59c8;
-  }
   #s2-board-tour-img {
     position: absolute; top: 0; left: 0;
     width: 100%; height: 100%;
     object-fit: cover;
     transform: scale(1) translate(0%, 0%);
-    transition: transform 1.6s cubic-bezier(.65,0,.35,1);
+    transition: transform 1.6s cubic-bezier(.65,0,.35,1), opacity .8s ease;
     will-change: transform;
   }
-  .s2-board-tour-token {
-    position: absolute;
-    width: 14px; height: 14px;
-    margin: -7px 0 0 -7px;
-    border-radius: 50%;
-    background: radial-gradient(circle at 35% 30%, #fff, #c8f020 55%, #8fae12 100%);
-    box-shadow: 0 0 10px 3px rgba(200,240,32,0.85), 0 0 0 2px rgba(0,0,0,0.4);
+  #s2-board-tour-img2 {
+    position: absolute; top: 0; left: 0;
+    width: 100%; height: 100%;
+    object-fit: cover;
     opacity: 0;
-    transition: left .22s ease, top .22s ease, opacity .25s;
-    z-index: 4;
-    pointer-events: none;
+    transition: opacity .8s ease;
   }
   .s2-board-tour-label {
     position: absolute;
@@ -3376,12 +3346,8 @@
     <div class="s2-board-tour eg-fade-in s2-d2" id="s2-board-tour">
       <div class="s2-board-tour-frame">
         <img decoding="async" src="full-board-tour.webp" alt="EscapeGravity spiral board — full board view" id="s2-board-tour-img">
-        <div class="s2-board-tour-token" id="s2-board-tour-token"></div>
+        <img decoding="async" src="board-table-tour.webp" alt="EscapeGravity spiral board on a table with tokens at Tile 0" id="s2-board-tour-img2">
         <div class="s2-board-tour-label" id="s2-board-tour-label">The Spiral Board</div>
-        <button id="s2-board-tour-toggle" title="Pause">
-          <svg id="s2-board-tour-pause-icon" viewBox="0 0 24 24"><rect x="6" y="5" width="4" height="14" rx="1"></rect><rect x="14" y="5" width="4" height="14" rx="1"></rect></svg>
-          <svg id="s2-board-tour-play-icon" viewBox="0 0 24 24" style="display:none"><path d="M7 4.5v15l13-7.5z"></path></svg>
-        </button>
       </div>
     </div>
   </div>
@@ -3389,50 +3355,22 @@
     (function () {
       var frame  = document.getElementById('s2-board-tour');
       var img    = document.getElementById('s2-board-tour-img');
+      var img2   = document.getElementById('s2-board-tour-img2');
       var label  = document.getElementById('s2-board-tour-label');
-      var token  = document.getElementById('s2-board-tour-token');
-      var toggle = document.getElementById('s2-board-tour-toggle');
-      var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
-      var playIcon  = document.getElementById('s2-board-tour-play-icon');
-      if (!frame || !img || !label || !token || !toggle) return;
+      if (!frame || !img || !img2 || !label) return;
 
       var FULL  = 'scale(1) translate(0%, 0%)';
       var TILE0 = 'scale(3.4) translate(-5%, 16%)';
       var ISS   = 'scale(3.4) translate(33%, 36%)';
 
-      /* Spiral path from Tile 0 out to the ISS, traced as a polar curve
-         around the board's centre, one stop per tile so the token visibly
-         hops tile-by-tile rather than gliding smoothly. Approximates the
-         drawn spiral rather than tracing every tile's exact centre. */
-      var TILE_COUNT = 45;
-      function spiralPoint(t) {
-        var theta0 = -71.17, theta1 = -132.3, turns = 4;
-        var sweep = (theta1 - theta0) - 360 * turns;
-        var r0 = 0.166, r1 = 0.489;
-        var theta = (theta0 + sweep * t) * Math.PI / 180;
-        var r = r0 + (r1 - r0) * t;
-        return { x: 0.5 + r * Math.cos(theta), y: 0.5 + r * Math.sin(theta) };
-      }
-
       var STEPS = [
-        { type: 'camera', t: FULL,  l: 'The Spiral Board',          hold: 2200 },
-        { type: 'camera', t: TILE0, l: 'Tile 0 — Starting Point',   hold: 2200 },
-        { type: 'camera', t: ISS,   l: 'International Space Station', hold: 2200 },
-        { type: 'camera', t: TILE0, l: 'Back To Tile 0',            hold: 1600 }
+        { t: FULL,  l: 'The Spiral Board',            hold: 2200 },
+        { t: TILE0, l: 'Tile 0 — Starting Point',      hold: 2200 },
+        { t: ISS,   l: 'International Space Station',  hold: 2200 },
+        { final: true, l: 'Tile 0 — On The Table' }
       ];
-      var N = TILE_COUNT;
-      for (var i = 0; i < N; i++) {
-        var pt = spiralPoint(i / (N - 1));
-        STEPS.push({
-          type: 'token', x: pt.x, y: pt.y,
-          cam: (i === 0 ? FULL : null),
-          l: (i === 0 ? 'Spiraling To The ISS…' : null),
-          endL: (i === N - 1 ? 'International Space Station' : null),
-          hold: (i === N - 1 ? 1400 : 260)
-        });
-      }
 
-      var idx = 0, paused = false, running = false, stepTimer = null;
+      var idx = 0, running = false, stepTimer = null, done = false;
       function setLabel(text) {
         label.style.opacity = '0';
         setTimeout(function () {
@@ -3442,28 +3380,26 @@
       }
       function runStep(i) {
         var step = STEPS[i];
-        if (step.type === 'camera') {
-          token.style.opacity = '0';
+        if (step.final) {
+          img.style.opacity = '0';
+          img2.style.opacity = '1';
+          setLabel(step.l);
+          done = true;
+        } else {
           img.style.transform = step.t;
           setLabel(step.l);
-        } else {
-          if (step.cam) img.style.transform = step.cam;
-          token.style.opacity = '1';
-          token.style.left = (step.x * 100) + '%';
-          token.style.top  = (step.y * 100) + '%';
-          if (step.l) setLabel(step.l);
-          if (step.endL) setTimeout(function () { setLabel(step.endL); }, 250);
         }
       }
       function scheduleNext() {
+        if (done) return;
         stepTimer = setTimeout(function () {
-          idx = (idx + 1) % STEPS.length;
+          idx++;
           runStep(idx);
           scheduleNext();
         }, STEPS[idx].hold);
       }
       function startTour() {
-        if (running) return;
+        if (running || done) return;
         running = true;
         runStep(idx);
         scheduleNext();
@@ -3472,26 +3408,12 @@
         if (stepTimer) clearTimeout(stepTimer);
         stepTimer = null;
       }
-      toggle.addEventListener('click', function () {
-        paused = !paused;
-        if (paused) {
-          pauseTour();
-          pauseIcon.style.display = 'none';
-          playIcon.style.display = '';
-          toggle.title = 'Play';
-        } else {
-          pauseIcon.style.display = '';
-          playIcon.style.display = 'none';
-          toggle.title = 'Pause';
-          scheduleNext();
-        }
-      });
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
           if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
-            if (!paused) startTour();
+            startTour();
           } else {
-            if (!paused) pauseTour();
+            pauseTour();
             running = false;
           }
         });

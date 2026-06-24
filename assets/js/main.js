@@ -5555,54 +5555,26 @@
   }, { passive: true });
 })();
 
-// ---- Board tour: full board → Tile 0 → ISS → spiral token travel (looping, pausable) ----
+// ---- Board tour: full board → Tile 0 → ISS → board on the table (plays once) ----
 (function () {
   var frame  = document.getElementById('s2-board-tour');
   var img    = document.getElementById('s2-board-tour-img');
+  var img2   = document.getElementById('s2-board-tour-img2');
   var label  = document.getElementById('s2-board-tour-label');
-  var token  = document.getElementById('s2-board-tour-token');
-  var toggle = document.getElementById('s2-board-tour-toggle');
-  var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
-  var playIcon  = document.getElementById('s2-board-tour-play-icon');
-  if (!frame || !img || !label || !token || !toggle) return;
+  if (!frame || !img || !img2 || !label) return;
 
   var FULL  = 'scale(1) translate(0%, 0%)';
   var TILE0 = 'scale(3.4) translate(-5%, 16%)';
   var ISS   = 'scale(3.4) translate(33%, 36%)';
 
-  /* Spiral path from Tile 0 out to the ISS, traced as a polar curve
-     around the board's centre, one stop per tile so the token visibly
-     hops tile-by-tile rather than gliding smoothly. Approximates the
-     drawn spiral rather than tracing every tile's exact centre. */
-  var TILE_COUNT = 45;
-  function spiralPoint(t) {
-    var theta0 = -71.17, theta1 = -132.3, turns = 4;
-    var sweep = (theta1 - theta0) - 360 * turns;
-    var r0 = 0.166, r1 = 0.489;
-    var theta = (theta0 + sweep * t) * Math.PI / 180;
-    var r = r0 + (r1 - r0) * t;
-    return { x: 0.5 + r * Math.cos(theta), y: 0.5 + r * Math.sin(theta) };
-  }
-
   var STEPS = [
-    { type: 'camera', t: FULL,  l: 'The Spiral Board',          hold: 2200 },
-    { type: 'camera', t: TILE0, l: 'Tile 0 — Starting Point',   hold: 2200 },
-    { type: 'camera', t: ISS,   l: 'International Space Station', hold: 2200 },
-    { type: 'camera', t: TILE0, l: 'Back To Tile 0',            hold: 1600 }
+    { t: FULL,  l: 'The Spiral Board',            hold: 2200 },
+    { t: TILE0, l: 'Tile 0 — Starting Point',      hold: 2200 },
+    { t: ISS,   l: 'International Space Station',  hold: 2200 },
+    { final: true, l: 'Tile 0 — On The Table' }
   ];
-  var N = TILE_COUNT;
-  for (var i = 0; i < N; i++) {
-    var pt = spiralPoint(i / (N - 1));
-    STEPS.push({
-      type: 'token', x: pt.x, y: pt.y,
-      cam: (i === 0 ? FULL : null),
-      l: (i === 0 ? 'Spiraling To The ISS…' : null),
-      endL: (i === N - 1 ? 'International Space Station' : null),
-      hold: (i === N - 1 ? 1400 : 260)
-    });
-  }
 
-  var idx = 0, paused = false, running = false, stepTimer = null;
+  var idx = 0, running = false, stepTimer = null, done = false;
   function setLabel(text) {
     label.style.opacity = '0';
     setTimeout(function () {
@@ -5612,28 +5584,26 @@
   }
   function runStep(i) {
     var step = STEPS[i];
-    if (step.type === 'camera') {
-      token.style.opacity = '0';
+    if (step.final) {
+      img.style.opacity = '0';
+      img2.style.opacity = '1';
+      setLabel(step.l);
+      done = true;
+    } else {
       img.style.transform = step.t;
       setLabel(step.l);
-    } else {
-      if (step.cam) img.style.transform = step.cam;
-      token.style.opacity = '1';
-      token.style.left = (step.x * 100) + '%';
-      token.style.top  = (step.y * 100) + '%';
-      if (step.l) setLabel(step.l);
-      if (step.endL) setTimeout(function () { setLabel(step.endL); }, 250);
     }
   }
   function scheduleNext() {
+    if (done) return;
     stepTimer = setTimeout(function () {
-      idx = (idx + 1) % STEPS.length;
+      idx++;
       runStep(idx);
       scheduleNext();
     }, STEPS[idx].hold);
   }
   function startTour() {
-    if (running) return;
+    if (running || done) return;
     running = true;
     runStep(idx);
     scheduleNext();
@@ -5642,26 +5612,12 @@
     if (stepTimer) clearTimeout(stepTimer);
     stepTimer = null;
   }
-  toggle.addEventListener('click', function () {
-    paused = !paused;
-    if (paused) {
-      pauseTour();
-      pauseIcon.style.display = 'none';
-      playIcon.style.display = '';
-      toggle.title = 'Play';
-    } else {
-      pauseIcon.style.display = '';
-      playIcon.style.display = 'none';
-      toggle.title = 'Pause';
-      scheduleNext();
-    }
-  });
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (entry) {
       if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
-        if (!paused) startTour();
+        startTour();
       } else {
-        if (!paused) pauseTour();
+        pauseTour();
         running = false;
       }
     });
