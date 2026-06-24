@@ -1186,7 +1186,6 @@
       let maxCardH      = 200;
       let teaseActive   = true;
       let teaseTimer;
-      let rainPlayCount = 0;    // counts spawnRain() calls for analytics (first load + every replay)
 
       /* Tease: wobble a random settled card every 6 s to signal interactivity */
       function startTease() {
@@ -1201,15 +1200,6 @@
 
       /* spawnRain() is the replayable part — called on load and on replay */
       function spawnRain() {
-        rainPlayCount++;
-        if (typeof gtag === 'function') {
-          gtag('event', 'rain_play', {
-            event_category: 'engagement',
-            event_label: rainPlayCount === 1 ? 'initial' : 'replay',
-            value: rainPlayCount
-          });
-        }
-
         /* Cancel any still-pending release timers */
         rainTimers.forEach(id => clearTimeout(id));
         rainTimers.length = 0;
@@ -1396,18 +1386,11 @@
 
         /* Stop tease the moment user first drags + play drag sound */
         var dragHumInterval = null;
-        Events.on(mc, 'startdrag', (e) => {
+        Events.on(mc, 'startdrag', () => {
           cv.style.cursor = 'grabbing';
           teaseActive = false;
           clearTimeout(teaseTimer);
           if (hint) hint.style.opacity = '0';
-          // One-time, per-pageload signal that this visitor touched the
-          // hero rain at all — lets us measure interaction rate in GA4
-          // (Users who fired this event ÷ total Users on the hero).
-          if (!window._heroInteracted) {
-            window._heroInteracted = true;
-            if (typeof gtag === 'function') gtag('event', 'hero_interact', { event_category: 'engagement' });
-          }
           // Mild hum while dragging — gentle low tone
           if (swooshCtx && swooshBuffer) {
             try {
@@ -1423,7 +1406,7 @@
             } catch(e){}
           }
         });
-        Events.on(mc, 'enddrag', (e) => {
+        Events.on(mc, 'enddrag', () => {
           cv.style.cursor = 'grab';
           // Stop drag hum
           if (window._dragHum) {
@@ -1435,14 +1418,6 @@
           }
           // Swoosh on release
           playSwoosh();
-          // Count every pick-up-and-drop as a "flip", per card key
-          if (typeof gtag === 'function') {
-            var draggedEntry = physEntries.find(function(en) { return en.body === e.body; });
-            gtag('event', 'card_flip', {
-              event_category: 'engagement',
-              event_label: draggedEntry ? draggedEntry.key : 'unknown'
-            });
-          }
         });
 
         Runner.run(Runner.create(), engine);
@@ -1750,12 +1725,6 @@
 
     function restorePreOrderFromLink() {
       var qsPhone = new URLSearchParams(window.location.search).get('phone');
-      if (!qsPhone) {
-        // WhatsApp template button links use a bare path segment
-        // (e.g. /919999999999) instead of a ?phone= query string.
-        var pathMatch = window.location.pathname.match(/^\/(\d{10,15})$/);
-        if (pathMatch) qsPhone = pathMatch[1];
-      }
       if (!qsPhone) return;
       doPreOrder();
       var ccEl = document.getElementById('po-cc');
