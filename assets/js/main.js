@@ -5555,13 +5555,14 @@
   }, { passive: true });
 })();
 
-// ---- Board tour: full board → Tile 0 → ISS → board on the table (plays once) ----
+// ---- Board tour: full board → Tile 0 → ISS → back to Tile 0 with tokens (plays once) ----
 (function () {
   var frame  = document.getElementById('s2-board-tour');
   var img    = document.getElementById('s2-board-tour-img');
-  var img2   = document.getElementById('s2-board-tour-img2');
+  var astro  = document.getElementById('s2-board-tour-astro');
+  var rocket = document.getElementById('s2-board-tour-rocket');
   var label  = document.getElementById('s2-board-tour-label');
-  if (!frame || !img || !img2 || !label) return;
+  if (!frame || !img || !astro || !rocket || !label) return;
 
   var FULL  = 'scale(1) translate(0%, 0%)';
   var TILE0 = 'scale(3.4) translate(-5%, 16%)';
@@ -5571,7 +5572,7 @@
     { t: FULL,  l: 'The Spiral Board',            hold: 2200 },
     { t: TILE0, l: 'Tile 0 — Starting Point',      hold: 2200 },
     { t: ISS,   l: 'International Space Station',  hold: 2200 },
-    { final: true, l: 'Tile 0 — On The Table' }
+    { t: TILE0, final: true, l: 'Tile 0 — Ready To Launch' }
   ];
 
   var idx = 0, running = false, stepTimer = null, done = false;
@@ -5585,9 +5586,12 @@
   function runStep(i) {
     var step = STEPS[i];
     if (step.final) {
-      img.style.opacity = '0';
-      img2.style.opacity = '1';
+      img.style.transform = step.t;
       setLabel(step.l);
+      setTimeout(function () {
+        astro.style.opacity = '1';
+        rocket.style.opacity = '1';
+      }, 700);
       done = true;
     } else {
       img.style.transform = step.t;
