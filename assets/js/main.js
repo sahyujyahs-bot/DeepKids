@@ -286,7 +286,7 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info  = CARDS[key];
-          const sizeMult = (key === 'EGBox') ? 1.5 : 1;
+          const sizeMult = (key === 'EGBox') ? 2.2 : 1;
           const dW   = Math.round(slotW * sizeMult);
           const dH   = Math.round(slotW * sizeMult * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
