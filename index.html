@@ -38,14 +38,14 @@
     fbq('track', 'PageView');
   </script>
   <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1112158878638948&ev=PageView&noscript=1"/></noscript>
-  <title>EscapeGravity — Educational Board Game for Kids | Learning Science Through Physical Challenges | DeepKids</title>
+  <title>EscapeGravity — Educational Science Board Game | DeepKids</title>
   <!-- Favicons -->
   <link rel="icon" href="/favicon.ico" sizes="any"/>
   <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"/>
   <link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16"/>
   <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
   <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192"/>
-  <meta name="description" content="EscapeGravity is an educational board game for kids ages 7+ that teaches science through 35+ physical challenges. This learning board game covers gravity, forces, and air resistance — experienced, not just read about. The perfect educational game for families. 2–6 players, 30 min avg playtime."/>
+  <meta name="description" content="EscapeGravity is the educational board game where kids ages 7+ learn gravity, forces & physics through 35+ hands-on challenges. 2–6 players."/>
   <meta name="keywords" content="board game, board games, board games for kids, educational board game, educational games, learning games, learning board games, educational boardgames, boardgames for kids, science board game, STEM game, EscapeGravity, DeepKids, gravity game, physical challenges, force cards, ages 7+, family board game, India board game"/>
   <link rel="canonical" href="https://deepkids.in/"/>
   <!-- Open Graph (Facebook, LinkedIn, WhatsApp link previews) -->
@@ -194,10 +194,12 @@
   <link rel="preload" as="image" href="board-prototype.webp"/>
   <link rel="preload" as="image" href="kit-items.webp"/>
   <link rel="preload" as="script" href="cards.js?v=5" fetchpriority="high"/>
-  <!-- Preload matter.js too so it races with the inline HTML parse
-       instead of blocking it serially. -->
+  <!-- Preload matter.js so the fetch races with the inline HTML parse —
+       the actual <script> tag that executes it lives right before the
+       canvas scene below (its first point of use) instead of here in
+       <head>, so it no longer blocks the rest of the head/body from
+       parsing and painting while it downloads. -->
   <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
   <style>
 
     /* ── Fonts ─────────────────────────────────────────────────── */
@@ -206,29 +208,29 @@
       src: url('norwester.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
-      font-display: block;
+      font-display: swap;
     }
     /* Futura Std Book (regular width) — body/description text */
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-book.otf') format('opentype');
-      font-weight: 400; font-style: normal; font-display: block;
+      font-weight: 400; font-style: normal; font-display: swap;
     }
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-book-oblique.otf') format('opentype');
-      font-weight: 400; font-style: oblique; font-display: block;
+      font-weight: 400; font-style: oblique; font-display: swap;
     }
     /* Futura Std Condensed — labels, subtitles, short text */
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-cond-light.otf') format('opentype');
-      font-weight: 300; font-style: normal; font-display: block;
+      font-weight: 300; font-style: normal; font-display: swap;
     }
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-cond-extrabold.otf') format('opentype');
-      font-weight: 800; font-style: normal; font-display: block;
+      font-weight: 800; font-style: normal; font-display: swap;
     }
 
     
@@ -939,6 +941,7 @@
   <div id="drag-hint">✦&nbsp;&nbsp;grab &amp; toss the illustrations&nbsp;&nbsp;✦</div>
 
   <script src="cards.js?v=5"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
   <script>
 
     /* ── Main scene ───────────────────────────────────────────── */

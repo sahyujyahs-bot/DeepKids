@@ -13,29 +13,29 @@
       src: url('norwester.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
-      font-display: block;
+      font-display: swap;
     }
     /* Futura Std Book (regular width) — body/description text */
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-book.otf') format('opentype');
-      font-weight: 400; font-style: normal; font-display: block;
+      font-weight: 400; font-style: normal; font-display: swap;
     }
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-book-oblique.otf') format('opentype');
-      font-weight: 400; font-style: oblique; font-display: block;
+      font-weight: 400; font-style: oblique; font-display: swap;
     }
     /* Futura Std Condensed — labels, subtitles, short text */
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-cond-light.otf') format('opentype');
-      font-weight: 300; font-style: normal; font-display: block;
+      font-weight: 300; font-style: normal; font-display: swap;
     }
     @font-face {
       font-family: 'Futura';
       src: url('fonts/futura-cond-extrabold.otf') format('opentype');
-      font-weight: 800; font-style: normal; font-display: block;
+      font-weight: 800; font-style: normal; font-display: swap;
     }
 
     
