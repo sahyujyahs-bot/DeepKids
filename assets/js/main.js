@@ -5571,10 +5571,12 @@
   var ISS   = 'scale(3.4) translate(33%, 36%)';
 
   /* Spiral path from Tile 0 out to the ISS, traced as a polar curve
-     around the board's centre — approximates the drawn spiral rather
-     than tracing every tile centre. */
+     around the board's centre, one stop per tile so the token visibly
+     hops tile-by-tile rather than gliding smoothly. Approximates the
+     drawn spiral rather than tracing every tile's exact centre. */
+  var TILE_COUNT = 45;
   function spiralPoint(t) {
-    var theta0 = -71.17, theta1 = -132.3, turns = 2;
+    var theta0 = -71.17, theta1 = -132.3, turns = 4;
     var sweep = (theta1 - theta0) - 360 * turns;
     var r0 = 0.166, r1 = 0.489;
     var theta = (theta0 + sweep * t) * Math.PI / 180;
@@ -5588,7 +5590,7 @@
     { type: 'camera', t: ISS,   l: 'International Space Station', hold: 2200 },
     { type: 'camera', t: TILE0, l: 'Back To Tile 0',            hold: 1600 }
   ];
-  var N = 26;
+  var N = TILE_COUNT;
   for (var i = 0; i < N; i++) {
     var pt = spiralPoint(i / (N - 1));
     STEPS.push({
@@ -5596,7 +5598,7 @@
       cam: (i === 0 ? FULL : null),
       l: (i === 0 ? 'Spiraling To The ISS…' : null),
       endL: (i === N - 1 ? 'International Space Station' : null),
-      hold: (i === N - 1 ? 1100 : 130)
+      hold: (i === N - 1 ? 1400 : 260)
     });
   }
 

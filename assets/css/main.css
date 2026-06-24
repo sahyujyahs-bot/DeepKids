@@ -948,7 +948,7 @@
     background: radial-gradient(circle at 35% 30%, #fff, #c8f020 55%, #8fae12 100%);
     box-shadow: 0 0 10px 3px rgba(200,240,32,0.85), 0 0 0 2px rgba(0,0,0,0.4);
     opacity: 0;
-    transition: left .15s linear, top .15s linear, opacity .25s;
+    transition: left .22s ease, top .22s ease, opacity .25s;
     z-index: 4;
     pointer-events: none;
   }
