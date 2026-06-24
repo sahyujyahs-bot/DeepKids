@@ -2598,15 +2598,11 @@
   }, { threshold: 0.3 }).observe(document.getElementById('s3'));
 
   /* ── Auto-trigger zoom when S2 is 80% in view ──────────── */
-  // Only auto-play the Step 2 board zoom if the visitor is actually
-  // on the boardgame tab — otherwise scrolling into the section while
-  // Step 1 (or Step 3) is active hijacks the view with a half-zoomed,
-  // empty-looking board.
   new IntersectionObserver(entries => {
-    if (entries[0].isIntersecting && state === 0 && !busy && window.s2ActiveTab === 'boardgame') {
+    if (entries[0].isIntersecting && state === 0 && !busy) {
       clearTimeout(autoStartTimer);
       autoStartTimer = setTimeout(() => {
-        if (state === 0 && window.s2ActiveTab === 'boardgame') startZoom();
+        if (state === 0) startZoom();
       }, 600);
     }
   }, { threshold: 0.4 }).observe(document.getElementById('s3'));
