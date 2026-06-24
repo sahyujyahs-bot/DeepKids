@@ -1277,7 +1277,7 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info  = CARDS[key];
-          const sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (twoRow ? 1.18 : 1);
+          const sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (key === 'DasBox') ? (twoRow ? 1.36 : 1.15) : (twoRow ? 1.18 : 1);
           const dW   = Math.round(slotW * sizeMult);
           const dH   = Math.round(slotW * sizeMult * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
@@ -1327,7 +1327,7 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (twoRow ? 1.18 : 1);
+        var sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (key === 'DasBox') ? (twoRow ? 1.36 : 1.15) : (twoRow ? 1.18 : 1);
         var dW = Math.round(slotW * sizeMult);
         var dH = Math.round(slotW * sizeMult * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
