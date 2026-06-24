@@ -1241,8 +1241,9 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var dW = Math.round(slotW);
-        var dH = Math.round(slotW * info.h / info.w);
+        var sizeMult = (key === 'EGBox') ? 2.2 : 1;
+        var dW = Math.round(slotW * sizeMult);
+        var dH = Math.round(slotW * sizeMult * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
         var y = -dH/2 - 30;
         var body = Bodies.rectangle(x, y, dW, dH, {
