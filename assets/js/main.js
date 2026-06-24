@@ -873,7 +873,7 @@
         var fullAddress = [address, city, pincode, state].filter(Boolean).join(', ');
         leadEmailSent = true;
         sendLeadData(name.trim(), fullNumber, fullAddress, 'Closed Without Paying', '');
-        sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
+        sendWhatsAppMessage('order_started_new', fullNumber, [name], fullNumber.replace(/^\+/, ''));
       }
     }
     function sendLeadData(name, whatsapp, address, status, paymentId) {
@@ -1062,7 +1062,7 @@
             if (leadEmailSent) return;
             leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
-            sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
+            sendWhatsAppMessage('order_started_new', fullNumber, [name], fullNumber.replace(/^\+/, ''));
             msg.textContent = 'Payment cancelled. Try again when ready!';
             msg.className = 'po-msg err';
             if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
@@ -1073,7 +1073,7 @@
       rzp.on('payment.failed', function(response) {
         leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
-        sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
+        sendWhatsAppMessage('order_started_new', fullNumber, [name], fullNumber.replace(/^\+/, ''));
         msg.textContent = 'Payment failed: ' + (response.error && response.error.description ? response.error.description : 'please try again.');
         msg.className = 'po-msg err';
         if (submitBtn) { submitBtn.disabled = false; submitBtn.querySelector('.btn-label').textContent = 'Pay Now'; }
