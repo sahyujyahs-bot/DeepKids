@@ -2508,23 +2508,35 @@
     transition: transform 1.6s cubic-bezier(.65,0,.35,1), opacity .8s ease;
     will-change: transform;
   }
-  .s2-board-tour-piece {
+  .s2-board-tour-piece-wrap {
     position: absolute;
-    width: 17%;
-    object-fit: contain;
+    width: 23%;
     opacity: 0;
-    filter: drop-shadow(0 4px 10px rgba(0,0,0,0.55));
     transition: opacity .6s ease;
     z-index: 4;
     pointer-events: none;
+    transform: translate(-50%, -50%);
+  }
+  .s2-board-tour-piece-wrap .s2-board-tour-piece {
+    position: relative;
+    display: block;
+    width: 100%;
+    z-index: 1;
+    filter: drop-shadow(0 3px 6px rgba(0,0,0,0.4));
+  }
+  .s2-board-tour-shadow {
+    position: absolute;
+    left: 50%; bottom: 8%;
+    width: 78%; height: 22%;
+    transform: translate(-50%, 50%);
+    background: radial-gradient(ellipse at center, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 72%);
+    z-index: 0;
   }
   .s2-board-tour-piece-astro {
-    left: 42%; top: 53%;
-    transform: translate(-50%, -50%);
+    left: 42%; top: 47%;
   }
   .s2-board-tour-piece-rocket {
     left: 60%; top: 47%;
-    transform: translate(-50%, -50%);
   }
   .s2-board-tour-label {
     position: absolute;
@@ -3357,8 +3369,14 @@
     <div class="s2-board-tour eg-fade-in s2-d2" id="s2-board-tour">
       <div class="s2-board-tour-frame">
         <img decoding="async" src="full-board-tour.webp" alt="EscapeGravity spiral board — full board view" id="s2-board-tour-img">
-        <img decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut token" class="s2-board-tour-piece s2-board-tour-piece-astro" id="s2-board-tour-astro">
-        <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket token" class="s2-board-tour-piece s2-board-tour-piece-rocket" id="s2-board-tour-rocket">
+        <div class="s2-board-tour-piece-wrap s2-board-tour-piece-astro" id="s2-board-tour-astro">
+          <div class="s2-board-tour-shadow"></div>
+          <img decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut token" class="s2-board-tour-piece">
+        </div>
+        <div class="s2-board-tour-piece-wrap s2-board-tour-piece-rocket" id="s2-board-tour-rocket">
+          <div class="s2-board-tour-shadow"></div>
+          <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket token" class="s2-board-tour-piece">
+        </div>
         <div class="s2-board-tour-label" id="s2-board-tour-label">The Spiral Board</div>
       </div>
     </div>
@@ -3373,7 +3391,7 @@
       if (!frame || !img || !astro || !rocket || !label) return;
 
       var FULL  = 'scale(1) translate(0%, 0%)';
-      var TILE0 = 'scale(3.4) translate(-5%, 16%)';
+      var TILE0 = 'scale(4.1) translate(-5%, 16%)';
       var ISS   = 'scale(3.4) translate(33%, 36%)';
 
       var STEPS = [

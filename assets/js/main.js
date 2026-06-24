@@ -5565,7 +5565,7 @@
   if (!frame || !img || !astro || !rocket || !label) return;
 
   var FULL  = 'scale(1) translate(0%, 0%)';
-  var TILE0 = 'scale(3.4) translate(-5%, 16%)';
+  var TILE0 = 'scale(4.1) translate(-5%, 16%)';
   var ISS   = 'scale(3.4) translate(33%, 36%)';
 
   var STEPS = [

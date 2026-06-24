@@ -915,23 +915,35 @@
     transition: transform 1.6s cubic-bezier(.65,0,.35,1), opacity .8s ease;
     will-change: transform;
   }
-  .s2-board-tour-piece {
+  .s2-board-tour-piece-wrap {
     position: absolute;
-    width: 17%;
-    object-fit: contain;
+    width: 23%;
     opacity: 0;
-    filter: drop-shadow(0 4px 10px rgba(0,0,0,0.55));
     transition: opacity .6s ease;
     z-index: 4;
     pointer-events: none;
+    transform: translate(-50%, -50%);
+  }
+  .s2-board-tour-piece-wrap .s2-board-tour-piece {
+    position: relative;
+    display: block;
+    width: 100%;
+    z-index: 1;
+    filter: drop-shadow(0 3px 6px rgba(0,0,0,0.4));
+  }
+  .s2-board-tour-shadow {
+    position: absolute;
+    left: 50%; bottom: 8%;
+    width: 78%; height: 22%;
+    transform: translate(-50%, 50%);
+    background: radial-gradient(ellipse at center, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 72%);
+    z-index: 0;
   }
   .s2-board-tour-piece-astro {
-    left: 42%; top: 53%;
-    transform: translate(-50%, -50%);
+    left: 42%; top: 47%;
   }
   .s2-board-tour-piece-rocket {
     left: 60%; top: 47%;
-    transform: translate(-50%, -50%);
   }
   .s2-board-tour-label {
     position: absolute;
