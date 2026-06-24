@@ -10794,6 +10794,22 @@
   var toastsShown = stored.toasts || {};
   var visible = false;
 
+  // Never show over the hero section — only from screen 2 onward
+  var heroInView = true;
+  function syncPillVisibility() {
+    if (visible && !heroInView) pill.classList.add('visible');
+    else pill.classList.remove('visible');
+  }
+  var heroEl = document.getElementById('s1');
+  if (heroEl && 'IntersectionObserver' in window) {
+    new IntersectionObserver(function(entries) {
+      heroInView = entries[0].isIntersecting;
+      syncPillVisibility();
+    }, { threshold: 0 }).observe(heroEl);
+  } else {
+    heroInView = false;
+  }
+
   function save() {
     localStorage.setItem('gp-data', JSON.stringify({
       points: points, earned: earned, toasts: toastsShown
@@ -10984,7 +11000,7 @@
     if (!showTimer) {
       showTimer = setTimeout(function() {
         visible = true;
-        pill.classList.add('visible');
+        syncPillVisibility();
         if (points > 0) checkToasts();
       }, 3000);
     }
@@ -10994,7 +11010,7 @@
   if (points > 0) {
     setTimeout(function() {
       visible = true;
-      pill.classList.add('visible');
+      syncPillVisibility();
     }, 1500);
   }
 
@@ -11172,12 +11188,15 @@
   writing-mode: vertical-rl;
   font-family: 'Futura', sans-serif;
   font-size: 11px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease, background 0.2s;
   letter-spacing: 1.5px;
   color: #ffb300;
   text-transform: uppercase;
-  transition: background 0.2s;
   box-shadow: -2px 0 10px rgba(0,0,0,0.3);
 }
+#gw-tag.visible { opacity: 1; pointer-events: auto; }
 #gw-tag:hover { background: linear-gradient(180deg, rgba(60,30,8,0.95), rgba(35,18,5,0.98)); }
 #gw-panel {
   position: fixed;
@@ -11272,6 +11291,18 @@
   var panel = document.getElementById('gw-panel');
   var tag = document.getElementById('gw-tag');
   if (!input || !vals.length || !panel) return;
+
+  // Never show over the hero section — only from screen 2 onward
+  if (tag) {
+    var gwHeroEl = document.getElementById('s1');
+    if (gwHeroEl && 'IntersectionObserver' in window) {
+      new IntersectionObserver(function(entries) {
+        tag.classList.toggle('visible', !entries[0].isIntersecting);
+      }, { threshold: 0 }).observe(gwHeroEl);
+    } else {
+      tag.classList.add('visible');
+    }
+  }
 
   // Animated count-up
   function animateValue(el, target) {

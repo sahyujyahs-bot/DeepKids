@@ -5043,6 +5043,22 @@
   var toastsShown = stored.toasts || {};
   var visible = false;
 
+  // Never show over the hero section — only from screen 2 onward
+  var heroInView = true;
+  function syncPillVisibility() {
+    if (visible && !heroInView) pill.classList.add('visible');
+    else pill.classList.remove('visible');
+  }
+  var heroEl = document.getElementById('s1');
+  if (heroEl && 'IntersectionObserver' in window) {
+    new IntersectionObserver(function(entries) {
+      heroInView = entries[0].isIntersecting;
+      syncPillVisibility();
+    }, { threshold: 0 }).observe(heroEl);
+  } else {
+    heroInView = false;
+  }
+
   function save() {
     localStorage.setItem('gp-data', JSON.stringify({
       points: points, earned: earned, toasts: toastsShown
@@ -5233,7 +5249,7 @@
     if (!showTimer) {
       showTimer = setTimeout(function() {
         visible = true;
-        pill.classList.add('visible');
+        syncPillVisibility();
         if (points > 0) checkToasts();
       }, 3000);
     }
@@ -5243,7 +5259,7 @@
   if (points > 0) {
     setTimeout(function() {
       visible = true;
-      pill.classList.add('visible');
+      syncPillVisibility();
     }, 1500);
   }
 
@@ -5360,6 +5376,18 @@
   var panel = document.getElementById('gw-panel');
   var tag = document.getElementById('gw-tag');
   if (!input || !vals.length || !panel) return;
+
+  // Never show over the hero section — only from screen 2 onward
+  if (tag) {
+    var gwHeroEl = document.getElementById('s1');
+    if (gwHeroEl && 'IntersectionObserver' in window) {
+      new IntersectionObserver(function(entries) {
+        tag.classList.toggle('visible', !entries[0].isIntersecting);
+      }, { threshold: 0 }).observe(gwHeroEl);
+    } else {
+      tag.classList.add('visible');
+    }
+  }
 
   // Animated count-up
   function animateValue(el, target) {
