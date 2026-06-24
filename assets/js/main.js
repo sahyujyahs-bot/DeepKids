@@ -26,9 +26,29 @@
       const cv  = document.getElementById('cv');
       const ctx = cv.getContext('2d');
       let W, H;
-      const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
+      // Render the canvas backing store at device pixel ratio so images
+      // stay sharp on high-DPI mobile screens. W/H (used for all physics
+      // + layout math below) stay in plain CSS-pixel units — only the
+      // canvas bitmap resolution and the draw transform change.
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      const resize = () => {
+        W = innerWidth; H = innerHeight;
+        cv.width  = W * dpr;
+        cv.height = H * dpr;
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      };
       resize();
-      addEventListener('resize', () => { resize(); rebuildWalls(); });
+      addEventListener('resize', () => {
+        const oldW = W;
+        resize();
+        // Mobile browsers fire 'resize' when the address bar shows/hides
+        // during scroll, changing only H. Rebuilding walls on a pure
+        // height change yanks the floor out from under settled cards
+        // and sends them flying — only rebuild on real width changes
+        // (covers orientation change / actual viewport resize).
+        if (Math.abs(W - oldW) < 2) return;
+        rebuildWalls();
+      });
 
       /* ── Background: stars & drifting asteroids ─────────────── */
       let t = 0;
@@ -355,7 +375,7 @@
       function spawnAll() {
         /* Drag-and-drop (mouse + touch) */
         const mouse = Mouse.create(cv);
-        mouse.pixelRatio = 1;
+        mouse.pixelRatio = 1 / dpr;
 
         /* ── Fix scrolling vs card drag ──────────────────────────
            Matter.js Mouse.create attaches mousewheel, DOMMouseScroll,
