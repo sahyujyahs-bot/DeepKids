@@ -2688,8 +2688,8 @@
 (function(){
   'use strict';
 
-  var CARD_BACK  = 's2-card-back.png';
-  var CARD_FRONT = 's2-card-front.png';
+  var CARD_BACK  = 's2-card-back.webp';
+  var CARD_FRONT = 's2-card-front.webp';
   var NUM_CARDS  = 6;
   var FAN_SPREAD = 70;
   var fanReady   = false;

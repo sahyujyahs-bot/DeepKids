@@ -201,8 +201,10 @@
        parsing and painting while it downloads. -->
   <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
   <link rel="stylesheet" href="assets/css/main.css">
-  <!-- Razorpay Checkout -->
-  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+  <!-- Razorpay Checkout — only invoked later inside a click handler
+       (new Razorpay(...) on Pay Now), so it's safe to defer: it'll be
+       ready long before a user can reach the payment button. -->
+  <script src="https://checkout.razorpay.com/v1/checkout.js" defer></script>
 </head>
 <body>
 
@@ -1137,8 +1139,8 @@
 
   <!-- Row 2: Board -->
   <!-- Tokens: direct children of #s3 so they can overflow board-row -->
-  <img id="s2-tok-blue" class="s2-tok" src="s2-token-blue.png" alt="">
-  <img id="s2-tok-red"  class="s2-tok" src="s2-token-red.png"  alt="">
+  <img id="s2-tok-blue" class="s2-tok" src="s2-token-blue.webp" alt="">
+  <img id="s2-tok-red"  class="s2-tok" src="s2-token-red.webp"  alt="">
   <div id="s2-board-row">
     <div class="s2-panel" id="s2-panel-boardgame">
       <!-- Canvas: smooth zoom animation -->
@@ -1213,12 +1215,12 @@
 
       <div class="s2-drop-scene" id="s2-drop-scene">
         <div class="s2-drop-title" id="s2-drop-title">All Players Do The Challenge</div>
-        <img class="s2-drop-kids" id="s2-kids-holding" src="s2-kids-holding.png" alt="Kids holding items">
-        <img class="s2-drop-kids" id="s2-kids-empty" src="s2-kids-empty.png" alt="Kids dropped items" style="opacity:0">
-        <img class="s2-drop-item" id="s2-item-ball" src="s2-item-ball.png" alt="Ball">
-        <img class="s2-drop-item" id="s2-item-feather" src="s2-item-feather.png" alt="Feather">
-        <img class="s2-drop-item" id="s2-item-leaf" src="s2-item-leaf.png" alt="Leaf">
-        <img class="s2-drop-item" id="s2-item-paper" src="s2-item-paper.png" alt="Paper">
+        <img class="s2-drop-kids" id="s2-kids-holding" src="s2-kids-holding.webp" alt="Kids holding items">
+        <img class="s2-drop-kids" id="s2-kids-empty" src="s2-kids-empty.webp" alt="Kids dropped items" style="opacity:0">
+        <img class="s2-drop-item" id="s2-item-ball" src="s2-item-ball.webp" alt="Ball">
+        <img class="s2-drop-item" id="s2-item-feather" src="s2-item-feather.webp" alt="Feather">
+        <img class="s2-drop-item" id="s2-item-leaf" src="s2-item-leaf.webp" alt="Leaf">
+        <img class="s2-drop-item" id="s2-item-paper" src="s2-item-paper.webp" alt="Paper">
       </div>
     </div>
 
@@ -1245,10 +1247,10 @@
   <div class="s2-force-card-wrap" id="s2-force-card-wrap">
     <div class="s2-force-card-inner">
       <div class="s2-force-card-face">
-        <img src="s2-force-card-front.jpg" alt="Force Card Front">
+        <img src="s2-force-card-front.webp" alt="Force Card Front">
       </div>
       <div class="s2-force-card-face s2-force-card-back-face">
-        <img src="s2-force-card-back.jpg" alt="Force Card Back">
+        <img src="s2-force-card-back.webp" alt="Force Card Back">
       </div>
     </div>
   </div>
