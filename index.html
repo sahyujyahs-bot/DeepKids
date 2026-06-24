@@ -2467,8 +2467,28 @@
   .s2-d1 { transition-delay: .1s; } .s2-d2 { transition-delay: .2s; }
   .s2-d3 { transition-delay: .3s; } .s2-d4 { transition-delay: .4s; }
 
+  /* ── Intro row: description left, board tour right on wide screens ── */
+  .s2-intro-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  @media (min-width: 900px) {
+    .s2-intro-row {
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: clamp(24px, 4vw, 64px);
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .s2-intro-row .s2-desc { flex: 1 1 0; text-align: left; margin-bottom: 0; }
+    .s2-intro-row .s2-board-tour { flex: 1 1 0; margin-bottom: 0; }
+  }
+
   /* ── Board tour: full board → Tile 0 → ISS, auto-zoom ───── */
   .s2-board-tour {
+    width: 100%;
     margin: 0 auto clamp(34px, 5vh, 60px);
     max-width: 460px;
     padding: 0 clamp(12px, 4vw, 40px);
@@ -2479,6 +2499,31 @@
     border-radius: 16px;
     aspect-ratio: 1 / 1;
     box-shadow: 0 0 0 1px rgba(170,89,200,0.3), 0 20px 50px rgba(0,0,0,0.5);
+  }
+  #s2-board-tour-toggle {
+    position: absolute;
+    bottom: 10px; right: 10px;
+    z-index: 5;
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    border: 2px solid rgba(170,89,200,.55);
+    background: rgba(2,4,14,.80);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border-color .25s, background .25s, transform .2s;
+    outline: none;
+  }
+  #s2-board-tour-toggle:hover {
+    border-color: #aa59c8;
+    transform: scale(1.1);
+  }
+  #s2-board-tour-toggle svg {
+    width: 16px; height: 16px;
+    fill: #aa59c8;
   }
   #s2-board-tour-img {
     position: absolute; top: 0; left: 0;
@@ -3309,48 +3354,87 @@
 <section id="s2">
   <h2 class="page-h2 eg-fade-in">The Board Game</h2>
   <p class="page-subh eg-fade-in" style="margin-bottom: clamp(34px, 5vh, 52px);">Mission: Reach The International Space Station</p>
-  <p class="s2-desc eg-fade-in s2-d1">
-    <span class="s2-desc-line">Start on Earth's Surface and race toward the <em>ISS</em>.</span>
-    <span class="s2-desc-line">The board is Gravity's agent — pulling you down into the core to consume you.</span>
-    <span class="s2-desc-line">Fight back using <em>Force Cards</em>, earned by completing Physical Challenges.</span>
-  </p>
+  <div class="s2-intro-row">
+    <p class="s2-desc eg-fade-in s2-d1">
+      <span class="s2-desc-line">Start on Earth's Surface and race toward the <em>ISS</em>.</span>
+      <span class="s2-desc-line">The board is Gravity's agent — pulling you down into the core to consume you.</span>
+      <span class="s2-desc-line">Fight back using <em>Force Cards</em>, earned by completing Physical Challenges.</span>
+    </p>
 
-  <div class="s2-board-tour eg-fade-in s2-d2" id="s2-board-tour">
-    <div class="s2-board-tour-frame">
-      <img decoding="async" src="full-board-tour.webp" alt="EscapeGravity spiral board — full board view" id="s2-board-tour-img">
-      <div class="s2-board-tour-label" id="s2-board-tour-label">The Spiral Board</div>
+    <div class="s2-board-tour eg-fade-in s2-d2" id="s2-board-tour">
+      <div class="s2-board-tour-frame">
+        <img decoding="async" src="full-board-tour.webp" alt="EscapeGravity spiral board — full board view" id="s2-board-tour-img">
+        <div class="s2-board-tour-label" id="s2-board-tour-label">The Spiral Board</div>
+        <button id="s2-board-tour-toggle" title="Pause">
+          <svg id="s2-board-tour-pause-icon" viewBox="0 0 24 24"><rect x="6" y="5" width="4" height="14" rx="1"></rect><rect x="14" y="5" width="4" height="14" rx="1"></rect></svg>
+          <svg id="s2-board-tour-play-icon" viewBox="0 0 24 24" style="display:none"><path d="M7 4.5v15l13-7.5z"></path></svg>
+        </button>
+      </div>
     </div>
   </div>
   <script>
     (function () {
-      var frame = document.getElementById('s2-board-tour');
-      var img   = document.getElementById('s2-board-tour-img');
-      var label = document.getElementById('s2-board-tour-label');
-      if (!frame || !img || !label) return;
+      var frame  = document.getElementById('s2-board-tour');
+      var img    = document.getElementById('s2-board-tour-img');
+      var label  = document.getElementById('s2-board-tour-label');
+      var toggle = document.getElementById('s2-board-tour-toggle');
+      var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
+      var playIcon  = document.getElementById('s2-board-tour-play-icon');
+      if (!frame || !img || !label || !toggle) return;
       var STOPS = [
         { t: 'scale(1) translate(0%, 0%)',       l: 'The Spiral Board' },
         { t: 'scale(3.4) translate(-5%, 16%)',   l: 'Tile 0 — Starting Point' },
-        { t: 'scale(3.4) translate(33%, 36%)',   l: 'International Space Station' },
-        { t: 'scale(1) translate(0%, 0%)',       l: 'The Spiral Board' }
+        { t: 'scale(3.4) translate(33%, 36%)',   l: 'International Space Station' }
       ];
-      var played = false;
-      function playTour() {
-        if (played) return;
-        played = true;
-        STOPS.forEach(function (stop, i) {
-          setTimeout(function () {
-            label.style.opacity = '0';
-            setTimeout(function () {
-              img.style.transform = stop.t;
-              label.textContent = stop.l;
-              label.style.opacity = '1';
-            }, 180);
-          }, i * 2200);
-        });
+      var idx = 0, paused = false, running = false, stepTimer = null;
+      function showStop(i) {
+        var stop = STOPS[i];
+        label.style.opacity = '0';
+        setTimeout(function () {
+          img.style.transform = stop.t;
+          label.textContent = stop.l;
+          label.style.opacity = '1';
+        }, 180);
       }
+      function scheduleNext() {
+        stepTimer = setTimeout(function () {
+          idx = (idx + 1) % STOPS.length;
+          showStop(idx);
+          scheduleNext();
+        }, 2200);
+      }
+      function startTour() {
+        if (running) return;
+        running = true;
+        showStop(idx);
+        scheduleNext();
+      }
+      function pauseTour() {
+        if (stepTimer) clearTimeout(stepTimer);
+        stepTimer = null;
+      }
+      toggle.addEventListener('click', function () {
+        paused = !paused;
+        if (paused) {
+          pauseTour();
+          pauseIcon.style.display = 'none';
+          playIcon.style.display = '';
+          toggle.title = 'Play';
+        } else {
+          pauseIcon.style.display = '';
+          playIcon.style.display = 'none';
+          toggle.title = 'Pause';
+          scheduleNext();
+        }
+      });
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
-          if (entry.isIntersecting && entry.intersectionRatio >= 0.5) playTour();
+          if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
+            if (!paused) startTour();
+          } else {
+            if (!paused) pauseTour();
+            running = false;
+          }
         });
       }, { threshold: 0.5 });
       io.observe(frame);

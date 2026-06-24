@@ -5555,36 +5555,69 @@
   }, { passive: true });
 })();
 
-// ---- Board tour: full board → Tile 0 → ISS, auto-zoom ----
+// ---- Board tour: full board → Tile 0 → ISS, auto-zoom (looping, pausable) ----
 (function () {
-  var frame = document.getElementById('s2-board-tour');
-  var img   = document.getElementById('s2-board-tour-img');
-  var label = document.getElementById('s2-board-tour-label');
-  if (!frame || !img || !label) return;
+  var frame  = document.getElementById('s2-board-tour');
+  var img    = document.getElementById('s2-board-tour-img');
+  var label  = document.getElementById('s2-board-tour-label');
+  var toggle = document.getElementById('s2-board-tour-toggle');
+  var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
+  var playIcon  = document.getElementById('s2-board-tour-play-icon');
+  if (!frame || !img || !label || !toggle) return;
   var STOPS = [
     { t: 'scale(1) translate(0%, 0%)',       l: 'The Spiral Board' },
     { t: 'scale(3.4) translate(-5%, 16%)',   l: 'Tile 0 — Starting Point' },
-    { t: 'scale(3.4) translate(33%, 36%)',   l: 'International Space Station' },
-    { t: 'scale(1) translate(0%, 0%)',       l: 'The Spiral Board' }
+    { t: 'scale(3.4) translate(33%, 36%)',   l: 'International Space Station' }
   ];
-  var played = false;
-  function playTour() {
-    if (played) return;
-    played = true;
-    STOPS.forEach(function (stop, i) {
-      setTimeout(function () {
-        label.style.opacity = '0';
-        setTimeout(function () {
-          img.style.transform = stop.t;
-          label.textContent = stop.l;
-          label.style.opacity = '1';
-        }, 180);
-      }, i * 2200);
-    });
+  var idx = 0, paused = false, running = false, stepTimer = null;
+  function showStop(i) {
+    var stop = STOPS[i];
+    label.style.opacity = '0';
+    setTimeout(function () {
+      img.style.transform = stop.t;
+      label.textContent = stop.l;
+      label.style.opacity = '1';
+    }, 180);
   }
+  function scheduleNext() {
+    stepTimer = setTimeout(function () {
+      idx = (idx + 1) % STOPS.length;
+      showStop(idx);
+      scheduleNext();
+    }, 2200);
+  }
+  function startTour() {
+    if (running) return;
+    running = true;
+    showStop(idx);
+    scheduleNext();
+  }
+  function pauseTour() {
+    if (stepTimer) clearTimeout(stepTimer);
+    stepTimer = null;
+  }
+  toggle.addEventListener('click', function () {
+    paused = !paused;
+    if (paused) {
+      pauseTour();
+      pauseIcon.style.display = 'none';
+      playIcon.style.display = '';
+      toggle.title = 'Play';
+    } else {
+      pauseIcon.style.display = '';
+      playIcon.style.display = 'none';
+      toggle.title = 'Pause';
+      scheduleNext();
+    }
+  });
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (entry) {
-      if (entry.isIntersecting && entry.intersectionRatio >= 0.5) playTour();
+      if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
+        if (!paused) startTour();
+      } else {
+        if (!paused) pauseTour();
+        running = false;
+      }
     });
   }, { threshold: 0.5 });
   io.observe(frame);
