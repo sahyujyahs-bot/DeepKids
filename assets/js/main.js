@@ -30,6 +30,24 @@
       resize();
       addEventListener('resize', () => { resize(); rebuildWalls(); });
 
+      /* EGBox is rendered as a real DOM <img> (not canvas-drawn) so it
+         stays pixel-sharp on high-DPR mobile screens — the shared
+         canvas is intentionally kept at 1x resolution for performance/
+         stability, which makes anything drawn on it via ctx.drawImage
+         soft on retina displays. The element just tracks the physics
+         body's position/rotation every frame in drawPhysics(). */
+      const egBoxEl = document.createElement('img');
+      egBoxEl.src = CARDS.EGBox.src;
+      egBoxEl.alt = '';
+      egBoxEl.style.position = 'absolute';
+      egBoxEl.style.left = '0';
+      egBoxEl.style.top = '0';
+      egBoxEl.style.zIndex = '1';
+      egBoxEl.style.pointerEvents = 'none';
+      egBoxEl.style.display = 'none';
+      egBoxEl.style.willChange = 'transform';
+      cv.parentElement.appendChild(egBoxEl);
+
       /* ── Background: stars & drifting asteroids ─────────────── */
       let t = 0;
       const stars = [];
@@ -286,7 +304,7 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info  = CARDS[key];
-          const sizeMult = (key === 'EGBox') ? 2.2 : 1;
+          const sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : 1;
           const dW   = Math.round(slotW * sizeMult);
           const dH   = Math.round(slotW * sizeMult * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
@@ -336,7 +354,7 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var sizeMult = (key === 'EGBox') ? 2.2 : 1;
+        var sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : 1;
         var dW = Math.round(slotW * sizeMult);
         var dH = Math.round(slotW * sizeMult * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
@@ -495,15 +513,25 @@
       function drawPhysics() {
         ctx.imageSmoothingEnabled = true;
         if ('imageSmoothingQuality' in ctx) ctx.imageSmoothingQuality = 'high';
+        let egBoxVisible = false;
         physEntries.forEach(en => {
           if (!imgCache[en.key]) return;
           const { position: p, angle: a } = en.body;
+          if (en.key === 'EGBox') {
+            egBoxVisible = true;
+            egBoxEl.style.width  = en.dW + 'px';
+            egBoxEl.style.height = en.dH + 'px';
+            egBoxEl.style.transform =
+              'translate(' + p.x + 'px,' + p.y + 'px) translate(-50%,-50%) rotate(' + a + 'rad)';
+            return;
+          }
           ctx.save();
           ctx.translate(p.x, p.y);
           ctx.rotate(a);
           ctx.drawImage(imgCache[en.key], -en.dW/2, -en.dH/2, en.dW, en.dH);
           ctx.restore();
         });
+        egBoxEl.style.display = egBoxVisible ? 'block' : 'none';
       }
 
       /* ── Floaters: bird, balloon, parachute ─────────────────── */
