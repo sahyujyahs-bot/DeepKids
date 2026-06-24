@@ -667,9 +667,6 @@
         initFloaters();
         drawBackground();
         drawPhysics();
-        updateBalloon();
-        updateParachute();
-        updateBird();
         requestAnimationFrame(loop);
       }
 
