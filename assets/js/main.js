@@ -5555,41 +5555,85 @@
   }, { passive: true });
 })();
 
-// ---- Board tour: full board → Tile 0 → ISS, auto-zoom (looping, pausable) ----
+// ---- Board tour: full board → Tile 0 → ISS → spiral token travel (looping, pausable) ----
 (function () {
   var frame  = document.getElementById('s2-board-tour');
   var img    = document.getElementById('s2-board-tour-img');
   var label  = document.getElementById('s2-board-tour-label');
+  var token  = document.getElementById('s2-board-tour-token');
   var toggle = document.getElementById('s2-board-tour-toggle');
   var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
   var playIcon  = document.getElementById('s2-board-tour-play-icon');
-  if (!frame || !img || !label || !toggle) return;
-  var STOPS = [
-    { t: 'scale(1) translate(0%, 0%)',       l: 'The Spiral Board' },
-    { t: 'scale(3.4) translate(-5%, 16%)',   l: 'Tile 0 — Starting Point' },
-    { t: 'scale(3.4) translate(33%, 36%)',   l: 'International Space Station' }
+  if (!frame || !img || !label || !token || !toggle) return;
+
+  var FULL  = 'scale(1) translate(0%, 0%)';
+  var TILE0 = 'scale(3.4) translate(-5%, 16%)';
+  var ISS   = 'scale(3.4) translate(33%, 36%)';
+
+  /* Spiral path from Tile 0 out to the ISS, traced as a polar curve
+     around the board's centre — approximates the drawn spiral rather
+     than tracing every tile centre. */
+  function spiralPoint(t) {
+    var theta0 = -71.17, theta1 = -132.3, turns = 2;
+    var sweep = (theta1 - theta0) - 360 * turns;
+    var r0 = 0.166, r1 = 0.489;
+    var theta = (theta0 + sweep * t) * Math.PI / 180;
+    var r = r0 + (r1 - r0) * t;
+    return { x: 0.5 + r * Math.cos(theta), y: 0.5 + r * Math.sin(theta) };
+  }
+
+  var STEPS = [
+    { type: 'camera', t: FULL,  l: 'The Spiral Board',          hold: 2200 },
+    { type: 'camera', t: TILE0, l: 'Tile 0 — Starting Point',   hold: 2200 },
+    { type: 'camera', t: ISS,   l: 'International Space Station', hold: 2200 },
+    { type: 'camera', t: TILE0, l: 'Back To Tile 0',            hold: 1600 }
   ];
+  var N = 26;
+  for (var i = 0; i < N; i++) {
+    var pt = spiralPoint(i / (N - 1));
+    STEPS.push({
+      type: 'token', x: pt.x, y: pt.y,
+      cam: (i === 0 ? FULL : null),
+      l: (i === 0 ? 'Spiraling To The ISS…' : null),
+      endL: (i === N - 1 ? 'International Space Station' : null),
+      hold: (i === N - 1 ? 1100 : 130)
+    });
+  }
+
   var idx = 0, paused = false, running = false, stepTimer = null;
-  function showStop(i) {
-    var stop = STOPS[i];
+  function setLabel(text) {
     label.style.opacity = '0';
     setTimeout(function () {
-      img.style.transform = stop.t;
-      label.textContent = stop.l;
+      label.textContent = text;
       label.style.opacity = '1';
     }, 180);
   }
+  function runStep(i) {
+    var step = STEPS[i];
+    if (step.type === 'camera') {
+      token.style.opacity = '0';
+      img.style.transform = step.t;
+      setLabel(step.l);
+    } else {
+      if (step.cam) img.style.transform = step.cam;
+      token.style.opacity = '1';
+      token.style.left = (step.x * 100) + '%';
+      token.style.top  = (step.y * 100) + '%';
+      if (step.l) setLabel(step.l);
+      if (step.endL) setTimeout(function () { setLabel(step.endL); }, 250);
+    }
+  }
   function scheduleNext() {
     stepTimer = setTimeout(function () {
-      idx = (idx + 1) % STOPS.length;
-      showStop(idx);
+      idx = (idx + 1) % STEPS.length;
+      runStep(idx);
       scheduleNext();
-    }, 2200);
+    }, STEPS[idx].hold);
   }
   function startTour() {
     if (running) return;
     running = true;
-    showStop(idx);
+    runStep(idx);
     scheduleNext();
   }
   function pauseTour() {
