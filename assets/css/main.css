@@ -383,10 +383,6 @@
       animation: none;
     }
     .btn-wrap:active { transform: translateX(2px) scale(.97);                            animation: none; }
-    .btn-wrap:disabled, .btn-wrap[disabled] {
-      opacity: 0.55; cursor: not-allowed;
-      filter: none !important; transform: none !important; animation: none !important;
-    }
     @keyframes btn-bob {
       0%, 100% { transform: scale(1)    translateY(0);    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
       50%       { transform: scale(1.03) translateY(-4px); filter: drop-shadow(0 0 22px rgba(170,89,200,0.55)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)); }
@@ -756,10 +752,6 @@
 .po-field input:focus {
   border-color: #aa59c8;
   box-shadow: 0 0 0 3px rgba(170,89,200,0.15);
-}
-.po-field input.invalid {
-  border-color: #ff6b6b;
-  box-shadow: 0 0 0 3px rgba(255,107,107,0.15);
 }
 .po-field input::placeholder { color: rgba(255,255,255,0.3); }
 .po-phone-row {

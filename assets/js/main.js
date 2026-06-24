@@ -843,13 +843,6 @@
     var currentOrder = null;
     var leadEmailSent = false; // ensures only one email/sheet row per pre-order attempt
 
-    // Clear a field's red "invalid" highlight as soon as the visitor edits it
-    document.addEventListener('input', function(e) {
-      if (e.target.matches && e.target.matches('.po-field input.invalid')) {
-        e.target.classList.remove('invalid');
-      }
-    });
-
     function restorePreOrderFromLink() {
       var qsPhone = new URLSearchParams(window.location.search).get('phone');
       if (!qsPhone) {
@@ -969,14 +962,6 @@
       var modal = document.getElementById('playtest-modal');
       if (modal) modal.classList.remove('show');
     }
-    function markFieldValidity(form, fieldErrors) {
-      form.querySelectorAll('.po-field input.invalid').forEach(function(el) { el.classList.remove('invalid'); });
-      Object.keys(fieldErrors).forEach(function(id) {
-        if (!fieldErrors[id]) return;
-        var el = form.querySelector('#' + id);
-        if (el) el.classList.add('invalid');
-      });
-    }
     function submitPreOrder(e) {
       e.preventDefault();
       var form = e.target;
@@ -993,24 +978,17 @@
 
       var digits = phone.replace(/\D/g, '');
       if (!cc.match(/^\+?\d{1,4}$/)) {
-        markFieldValidity(form, { 'po-cc': true });
         msg.textContent = 'Please enter a valid country code (e.g. +91).';
         msg.classList.add('err'); return false;
       }
       if (digits.length < 7 || digits.length > 15) {
-        markFieldValidity(form, { 'po-phone': true });
         msg.textContent = 'Please enter a valid phone number.';
         msg.classList.add('err'); return false;
       }
       if (!name || !address || !city || !pincode || !state) {
-        markFieldValidity(form, {
-          'po-name': !name, 'po-address': !address, 'po-city': !city,
-          'po-pincode': !pincode, 'po-state': !state
-        });
         msg.textContent = 'Please fill in all fields.';
         msg.classList.add('err'); return false;
       }
-      markFieldValidity(form, {});
 
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
       var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
@@ -1144,10 +1122,9 @@
       msg.textContent = '';
       msg.className = 'po-msg';
       var digits = phone.replace(/\D/g, '');
-      if (!cc.match(/^\+?\d{1,4}$/)) { markFieldValidity(form, { 'pt-cc': true }); msg.textContent = 'Please enter a valid country code.'; msg.classList.add('err'); return false; }
-      if (digits.length < 7 || digits.length > 15) { markFieldValidity(form, { 'pt-phone': true }); msg.textContent = 'Please enter a valid phone number.'; msg.classList.add('err'); return false; }
-      if (!name) { markFieldValidity(form, { 'pt-name': true }); msg.textContent = 'Please enter your name.'; msg.classList.add('err'); return false; }
-      markFieldValidity(form, {});
+      if (!cc.match(/^\+?\d{1,4}$/)) { msg.textContent = 'Please enter a valid country code.'; msg.classList.add('err'); return false; }
+      if (digits.length < 7 || digits.length > 15) { msg.textContent = 'Please enter a valid phone number.'; msg.classList.add('err'); return false; }
+      if (!name) { msg.textContent = 'Please enter your name.'; msg.classList.add('err'); return false; }
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
       try {
         var pts = JSON.parse(localStorage.getItem('eg-playtests') || '[]');
