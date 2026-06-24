@@ -22,6 +22,18 @@ export async function onRequestPost(context) {
 
     const components = [];
 
+    // order_started_new (and any future template with an image header) was
+    // created with a media header, which Meta always treats as dynamic —
+    // every send must include a header component carrying the image link,
+    // or the API rejects the whole message with #132012 even though the
+    // body/button params are correctly formatted.
+    if (template === 'order_started_new') {
+      components.push({
+        type: 'header',
+        parameters: [{ type: 'image', image: { link: 'https://deepkids.in/spiral-board-display-transparent.png' } }]
+      });
+    }
+
     if (Array.isArray(bodyParams) && bodyParams.length) {
       components.push({
         type: 'body',
