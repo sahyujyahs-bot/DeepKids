@@ -26,9 +26,29 @@
       const cv  = document.getElementById('cv');
       const ctx = cv.getContext('2d');
       let W, H;
-      const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
+      // Render the canvas backing store at device pixel ratio so images
+      // stay sharp on high-DPI mobile screens. W/H (used for all physics
+      // + layout math below) stay in plain CSS-pixel units. The canvas
+      // bitmap itself is only (re)allocated on a genuine width change —
+      // never on the address-bar-driven height-only resizes mobile
+      // browsers fire constantly while scrolling — to avoid repeatedly
+      // tearing down/rebuilding the canvas mid-scroll.
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      const applyCanvasSize = () => {
+        cv.width  = W * dpr;
+        cv.height = H * dpr;
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      };
+      const resize = () => { W = innerWidth; H = innerHeight; };
       resize();
-      addEventListener('resize', () => { resize(); rebuildWalls(); });
+      applyCanvasSize();
+      addEventListener('resize', () => {
+        const oldW = W;
+        resize();
+        if (Math.abs(W - oldW) < 2) return;
+        applyCanvasSize();
+        rebuildWalls();
+      });
 
       /* ── Background: stars & drifting asteroids ─────────────── */
       let t = 0;
@@ -355,7 +375,7 @@
       function spawnAll() {
         /* Drag-and-drop (mouse + touch) */
         const mouse = Mouse.create(cv);
-        mouse.pixelRatio = 1;
+        mouse.pixelRatio = 1 / dpr;
 
         /* ── Fix scrolling vs card drag ──────────────────────────
            Matter.js Mouse.create attaches mousewheel, DOMMouseScroll,
