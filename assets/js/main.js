@@ -42,8 +42,13 @@
       Object.keys(CARDS).forEach(key => {
         if (CARDS[key].role !== 'rain') return;
         const el = document.createElement('img');
-        el.src = CARDS[key].src;
+        /* src is assigned lazily in drawPhysics(), the first time
+           this card actually appears — assigning all of them up
+           front would force the browser to decode every rain image
+           at once on load, causing a jank/stutter right as the
+           first rain falls. */
         el.alt = '';
+        el.decoding = 'async';
         el.style.position = 'absolute';
         el.style.left = '0';
         el.style.top = '0';
@@ -526,6 +531,7 @@
           const { position: p, angle: a } = en.body;
           const el = rainImgEls[en.key];
           if (el) {
+            if (!el.src) el.src = CARDS[en.key].src;
             visibleRainEls.add(el);
             el.style.display = 'block';
             el.style.width  = en.dW + 'px';
