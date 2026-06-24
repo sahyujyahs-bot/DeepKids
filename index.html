@@ -578,6 +578,10 @@
       animation: none;
     }
     .btn-wrap:active { transform: translateX(2px) scale(.97);                            animation: none; }
+    .btn-wrap:disabled, .btn-wrap[disabled] {
+      opacity: 0.55; cursor: not-allowed;
+      filter: none !important; transform: none !important; animation: none !important;
+    }
     @keyframes btn-bob {
       0%, 100% { transform: scale(1)    translateY(0);    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
       50%       { transform: scale(1.03) translateY(-4px); filter: drop-shadow(0 0 22px rgba(170,89,200,0.55)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)); }
@@ -1748,6 +1752,13 @@
     var currentOrder = null;
     var leadEmailSent = false; // ensures only one email/sheet row per pre-order attempt
 
+    // Clear a field's red "invalid" highlight as soon as the visitor edits it
+    document.addEventListener('input', function(e) {
+      if (e.target.matches && e.target.matches('.po-field input.invalid')) {
+        e.target.classList.remove('invalid');
+      }
+    });
+
     function restorePreOrderFromLink() {
       var qsPhone = new URLSearchParams(window.location.search).get('phone');
       if (!qsPhone) {
@@ -1867,6 +1878,14 @@
       var modal = document.getElementById('playtest-modal');
       if (modal) modal.classList.remove('show');
     }
+    function markFieldValidity(form, fieldErrors) {
+      form.querySelectorAll('.po-field input.invalid').forEach(function(el) { el.classList.remove('invalid'); });
+      Object.keys(fieldErrors).forEach(function(id) {
+        if (!fieldErrors[id]) return;
+        var el = form.querySelector('#' + id);
+        if (el) el.classList.add('invalid');
+      });
+    }
     function submitPreOrder(e) {
       e.preventDefault();
       var form = e.target;
@@ -1883,17 +1902,24 @@
 
       var digits = phone.replace(/\D/g, '');
       if (!cc.match(/^\+?\d{1,4}$/)) {
+        markFieldValidity(form, { 'po-cc': true });
         msg.textContent = 'Please enter a valid country code (e.g. +91).';
         msg.classList.add('err'); return false;
       }
       if (digits.length < 7 || digits.length > 15) {
+        markFieldValidity(form, { 'po-phone': true });
         msg.textContent = 'Please enter a valid phone number.';
         msg.classList.add('err'); return false;
       }
       if (!name || !address || !city || !pincode || !state) {
+        markFieldValidity(form, {
+          'po-name': !name, 'po-address': !address, 'po-city': !city,
+          'po-pincode': !pincode, 'po-state': !state
+        });
         msg.textContent = 'Please fill in all fields.';
         msg.classList.add('err'); return false;
       }
+      markFieldValidity(form, {});
 
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
       var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
@@ -2030,9 +2056,10 @@
       msg.textContent = '';
       msg.className = 'po-msg';
       var digits = phone.replace(/\D/g, '');
-      if (!cc.match(/^\+?\d{1,4}$/)) { msg.textContent = 'Please enter a valid country code.'; msg.classList.add('err'); return false; }
-      if (digits.length < 7 || digits.length > 15) { msg.textContent = 'Please enter a valid phone number.'; msg.classList.add('err'); return false; }
-      if (!name) { msg.textContent = 'Please enter your name.'; msg.classList.add('err'); return false; }
+      if (!cc.match(/^\+?\d{1,4}$/)) { markFieldValidity(form, { 'pt-cc': true }); msg.textContent = 'Please enter a valid country code.'; msg.classList.add('err'); return false; }
+      if (digits.length < 7 || digits.length > 15) { markFieldValidity(form, { 'pt-phone': true }); msg.textContent = 'Please enter a valid phone number.'; msg.classList.add('err'); return false; }
+      if (!name) { markFieldValidity(form, { 'pt-name': true }); msg.textContent = 'Please enter your name.'; msg.classList.add('err'); return false; }
+      markFieldValidity(form, {});
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
       try {
         var pts = JSON.parse(localStorage.getItem('eg-playtests') || '[]');
@@ -2346,6 +2373,10 @@
 .po-field input:focus {
   border-color: #aa59c8;
   box-shadow: 0 0 0 3px rgba(170,89,200,0.15);
+}
+.po-field input.invalid {
+  border-color: #ff6b6b;
+  box-shadow: 0 0 0 3px rgba(255,107,107,0.15);
 }
 .po-field input::placeholder { color: rgba(255,255,255,0.3); }
 .po-phone-row {
