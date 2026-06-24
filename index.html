@@ -739,6 +739,26 @@
       opacity: 0;                 /* starts hidden — fades in after cards settle */
       transition: opacity 2s;
     }
+    #drag-hint.show {
+      animation: drag-hint-pulse 1.8s ease-in-out infinite;
+    }
+    @keyframes drag-hint-pulse {
+      0%, 100% { opacity: 0.55; }
+      50%      { opacity: 1; }
+    }
+    @media (max-width: 768px) {
+      #drag-hint {
+        bottom: 16px;
+        font-size: 13px;
+        letter-spacing: 2px;
+        color: #e8c4ff;
+        text-shadow: 0 0 10px rgba(170,89,200,.9), 0 1px 3px rgba(0,0,0,.6);
+        background: rgba(18,8,38,0.55);
+        padding: 6px 14px;
+        border-radius: 999px;
+        border: 1px solid rgba(170,89,200,.45);
+      }
+    }
 
     /* ── Replay button pulse (activates after first rain settles) ─ */
     @keyframes replay-pulse {
@@ -1387,7 +1407,7 @@
 
         /* Hint & tease appear after cards have had time to settle */
         setTimeout(() => {
-          if (hint) hint.style.opacity = '1';
+          if (hint) { hint.style.opacity = '1'; hint.classList.add('show'); }
           if (replayBtn) replayBtn.classList.add('pulsing');
           startTease();
         }, 5000);
@@ -1398,7 +1418,7 @@
           cv.style.cursor = 'grabbing';
           teaseActive = false;
           clearTimeout(teaseTimer);
-          if (hint) hint.style.opacity = '0';
+          if (hint) { hint.style.opacity = '0'; hint.classList.remove('show'); }
           // One-time, per-pageload signal that this visitor touched the
           // hero rain at all — lets us measure interaction rate in GA4
           // (Users who fired this event ÷ total Users on the hero).
@@ -1588,14 +1608,14 @@
         btn.addEventListener('animationend', () => btn.classList.remove('spinning'), { once: true });
 
         /* Hide hint while raining; re-show & re-tease after settle */
-        if (hint) hint.style.opacity = '0';
+        if (hint) { hint.style.opacity = '0'; hint.classList.remove('show'); }
         btn.classList.remove('pulsing');
 
         spawnRain();
 
         /* Re-enable tease & hint after new rain settles */
         setTimeout(() => {
-          if (hint) hint.style.opacity = '1';
+          if (hint) { hint.style.opacity = '1'; hint.classList.add('show'); }
           btn.classList.add('pulsing');
           teaseActive = true;
           clearTimeout(teaseTimer);

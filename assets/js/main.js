@@ -484,7 +484,7 @@
 
         /* Hint & tease appear after cards have had time to settle */
         setTimeout(() => {
-          if (hint) hint.style.opacity = '1';
+          if (hint) { hint.style.opacity = '1'; hint.classList.add('show'); }
           if (replayBtn) replayBtn.classList.add('pulsing');
           startTease();
         }, 5000);
@@ -495,7 +495,7 @@
           cv.style.cursor = 'grabbing';
           teaseActive = false;
           clearTimeout(teaseTimer);
-          if (hint) hint.style.opacity = '0';
+          if (hint) { hint.style.opacity = '0'; hint.classList.remove('show'); }
           // One-time, per-pageload signal that this visitor touched the
           // hero rain at all — lets us measure interaction rate in GA4
           // (Users who fired this event ÷ total Users on the hero).
@@ -685,14 +685,14 @@
         btn.addEventListener('animationend', () => btn.classList.remove('spinning'), { once: true });
 
         /* Hide hint while raining; re-show & re-tease after settle */
-        if (hint) hint.style.opacity = '0';
+        if (hint) { hint.style.opacity = '0'; hint.classList.remove('show'); }
         btn.classList.remove('pulsing');
 
         spawnRain();
 
         /* Re-enable tease & hint after new rain settles */
         setTimeout(() => {
-          if (hint) hint.style.opacity = '1';
+          if (hint) { hint.style.opacity = '1'; hint.classList.add('show'); }
           btn.classList.add('pulsing');
           teaseActive = true;
           clearTimeout(teaseTimer);

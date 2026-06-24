@@ -546,6 +546,26 @@
       opacity: 0;                 /* starts hidden — fades in after cards settle */
       transition: opacity 2s;
     }
+    #drag-hint.show {
+      animation: drag-hint-pulse 1.8s ease-in-out infinite;
+    }
+    @keyframes drag-hint-pulse {
+      0%, 100% { opacity: 0.55; }
+      50%      { opacity: 1; }
+    }
+    @media (max-width: 768px) {
+      #drag-hint {
+        bottom: 16px;
+        font-size: 13px;
+        letter-spacing: 2px;
+        color: #e8c4ff;
+        text-shadow: 0 0 10px rgba(170,89,200,.9), 0 1px 3px rgba(0,0,0,.6);
+        background: rgba(18,8,38,0.55);
+        padding: 6px 14px;
+        border-radius: 999px;
+        border: 1px solid rgba(170,89,200,.45);
+      }
+    }
 
     /* ── Replay button pulse (activates after first rain settles) ─ */
     @keyframes replay-pulse {
