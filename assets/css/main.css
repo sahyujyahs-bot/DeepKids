@@ -156,7 +156,7 @@
       #content {
         height: 43vh;
         justify-content: flex-start;
-        padding-top: clamp(60px, 9vh, 78px);
+        padding-top: clamp(74px, 10.5vh, 94px);
         gap: 0px;
       }
       .hero-tags { margin-bottom: 2px; }
