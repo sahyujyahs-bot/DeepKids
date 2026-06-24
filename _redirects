@@ -1,0 +1,5 @@
+# WhatsApp template buttons link to https://deepkids.in/<phone-digits>
+# (a bare path segment, no query string). Real files/pages still take
+# priority over this — Cloudflare Pages only falls through to
+# _redirects when no matching static asset exists.
+/:phone  /index.html  200

@@ -1725,6 +1725,12 @@
 
     function restorePreOrderFromLink() {
       var qsPhone = new URLSearchParams(window.location.search).get('phone');
+      if (!qsPhone) {
+        // WhatsApp template button links use a bare path segment
+        // (e.g. /919999999999) instead of a ?phone= query string.
+        var pathMatch = window.location.pathname.match(/^\/(\d{10,15})$/);
+        if (pathMatch) qsPhone = pathMatch[1];
+      }
       if (!qsPhone) return;
       doPreOrder();
       var ccEl = document.getElementById('po-cc');
