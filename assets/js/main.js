@@ -2664,7 +2664,13 @@
   // Initialize with physical tab as default
   setBoardElementsVisible(false);
   s2Nav.style.display = '';
-  setTimeout(function(){ if (window.initCardFan) window.initCardFan(); }, 100);
+  setTimeout(function(){
+    if (window.initCardFan) window.initCardFan();
+    // Run the same reset/reflow pass the tab-click handler uses so the
+    // fan reliably paints and animates on first load (some browsers
+    // fail to start the card's entrance animation otherwise).
+    if (window.pcJumpTo) window.pcJumpTo(0);
+  }, 100);
 })();
 
 /* ── Physical Challenges — Card Fan ──────────────────────── */
@@ -5555,14 +5561,17 @@
   }, { passive: true });
 })();
 
-// ---- Board tour: full board → Tile 0 → ISS → back to Tile 0 with tokens (plays once) ----
+// ---- Board tour: full board → Tile 0 → ISS → Tile 0 with tokens, looping, with play/pause ----
 (function () {
   var frame  = document.getElementById('s2-board-tour');
   var img    = document.getElementById('s2-board-tour-img');
   var astro  = document.getElementById('s2-board-tour-astro');
   var rocket = document.getElementById('s2-board-tour-rocket');
   var label  = document.getElementById('s2-board-tour-label');
-  if (!frame || !img || !astro || !rocket || !label) return;
+  var toggle = document.getElementById('s2-board-tour-toggle');
+  var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
+  var playIcon  = document.getElementById('s2-board-tour-play-icon');
+  if (!frame || !img || !astro || !rocket || !label || !toggle) return;
 
   var FULL  = 'scale(1) translate(0%, 0%)';
   var TILE0 = 'scale(4.1) translate(-5%, 16%)';
@@ -5572,10 +5581,10 @@
     { t: FULL,  l: 'The Spiral Board',            hold: 2200 },
     { t: TILE0, l: 'Tile 0 — Starting Point',      hold: 2200 },
     { t: ISS,   l: 'International Space Station',  hold: 2200 },
-    { t: TILE0, final: true, l: 'Tile 0 — Ready To Launch' }
+    { t: TILE0, l: 'Tile 0 — Ready To Launch',     hold: 2600, tokens: true }
   ];
 
-  var idx = 0, running = false, stepTimer = null, done = false;
+  var idx = 0, paused = false, running = false, stepTimer = null;
   function setLabel(text) {
     label.style.opacity = '0';
     setTimeout(function () {
@@ -5585,29 +5594,28 @@
   }
   function runStep(i) {
     var step = STEPS[i];
-    if (step.final) {
-      img.style.transform = step.t;
-      setLabel(step.l);
+    if (!step.tokens) {
+      astro.style.opacity = '0';
+      rocket.style.opacity = '0';
+    }
+    img.style.transform = step.t;
+    setLabel(step.l);
+    if (step.tokens) {
       setTimeout(function () {
         astro.style.opacity = '1';
         rocket.style.opacity = '1';
       }, 700);
-      done = true;
-    } else {
-      img.style.transform = step.t;
-      setLabel(step.l);
     }
   }
   function scheduleNext() {
-    if (done) return;
     stepTimer = setTimeout(function () {
-      idx++;
+      idx = (idx + 1) % STEPS.length;
       runStep(idx);
       scheduleNext();
     }, STEPS[idx].hold);
   }
   function startTour() {
-    if (running || done) return;
+    if (running) return;
     running = true;
     runStep(idx);
     scheduleNext();
@@ -5616,12 +5624,27 @@
     if (stepTimer) clearTimeout(stepTimer);
     stepTimer = null;
   }
+  toggle.addEventListener('click', function () {
+    paused = !paused;
+    if (paused) {
+      pauseTour();
+      running = false;
+      pauseIcon.style.display = 'none';
+      playIcon.style.display = '';
+      toggle.title = 'Play';
+    } else {
+      pauseIcon.style.display = '';
+      playIcon.style.display = 'none';
+      toggle.title = 'Pause';
+      startTour();
+    }
+  });
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (entry) {
       if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
-        startTour();
+        if (!paused) startTour();
       } else {
-        pauseTour();
+        if (!paused) pauseTour();
         running = false;
       }
     });

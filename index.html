@@ -2456,7 +2456,7 @@
     font-family: 'Futura', sans-serif;
     font-size: clamp(15px, 1.7vw, 21px);
     color: rgba(255,255,255,0.7); line-height: 1.55;
-    margin: 0 0 clamp(34px, 5vh, 60px);
+    margin: 0 0 clamp(18px, 3vh, 60px);
     padding: 0 clamp(12px, 4vw, 40px);
   }
   .s2-desc em { font-style: normal; color: #aa59c8; }
@@ -2554,6 +2554,31 @@
     border: 1px solid rgba(170,89,200,0.45);
     white-space: nowrap;
     transition: opacity .35s;
+  }
+  #s2-board-tour-toggle {
+    position: absolute;
+    bottom: 10px; right: 10px;
+    z-index: 5;
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    border: 2px solid rgba(170,89,200,.55);
+    background: rgba(2,4,14,.80);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border-color .25s, background .25s, transform .2s;
+    outline: none;
+  }
+  #s2-board-tour-toggle:hover {
+    border-color: #aa59c8;
+    transform: scale(1.1);
+  }
+  #s2-board-tour-toggle svg {
+    width: 16px; height: 16px;
+    fill: #aa59c8;
   }
 
   /* ── What's Inside The Box — Horizontal film strip ────────
@@ -3359,7 +3384,7 @@
 
 <section id="s2">
   <h2 class="page-h2 eg-fade-in"><span style="color:#aa59c8;">EscapeGravity</span> Board Game</h2>
-  <p class="page-subh eg-fade-in" style="margin-bottom: clamp(34px, 5vh, 52px);">Mission: Reach The International Space Station</p>
+  <p class="page-subh eg-fade-in" style="margin-bottom: clamp(16px, 3vh, 52px);">Mission: Reach The International Space Station</p>
   <div class="s2-intro-row">
     <p class="s2-desc eg-fade-in s2-d1">
       <span class="s2-desc-line">Start on Earth's Surface and race toward the <em>ISS</em>.</span>
@@ -3379,6 +3404,10 @@
           <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket token" class="s2-board-tour-piece">
         </div>
         <div class="s2-board-tour-label" id="s2-board-tour-label">The Spiral Board</div>
+        <button id="s2-board-tour-toggle" title="Pause">
+          <svg id="s2-board-tour-pause-icon" viewBox="0 0 24 24"><rect x="6" y="5" width="4" height="14" rx="1"></rect><rect x="14" y="5" width="4" height="14" rx="1"></rect></svg>
+          <svg id="s2-board-tour-play-icon" viewBox="0 0 24 24" style="display:none"><path d="M7 4.5v15l13-7.5z"></path></svg>
+        </button>
       </div>
     </div>
   </div>
@@ -3389,7 +3418,10 @@
       var astro  = document.getElementById('s2-board-tour-astro');
       var rocket = document.getElementById('s2-board-tour-rocket');
       var label  = document.getElementById('s2-board-tour-label');
-      if (!frame || !img || !astro || !rocket || !label) return;
+      var toggle = document.getElementById('s2-board-tour-toggle');
+      var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
+      var playIcon  = document.getElementById('s2-board-tour-play-icon');
+      if (!frame || !img || !astro || !rocket || !label || !toggle) return;
 
       var FULL  = 'scale(1) translate(0%, 0%)';
       var TILE0 = 'scale(4.1) translate(-5%, 16%)';
@@ -3399,10 +3431,10 @@
         { t: FULL,  l: 'The Spiral Board',            hold: 2200 },
         { t: TILE0, l: 'Tile 0 — Starting Point',      hold: 2200 },
         { t: ISS,   l: 'International Space Station',  hold: 2200 },
-        { t: TILE0, final: true, l: 'Tile 0 — Ready To Launch' }
+        { t: TILE0, l: 'Tile 0 — Ready To Launch',     hold: 2600, tokens: true }
       ];
 
-      var idx = 0, running = false, stepTimer = null, done = false;
+      var idx = 0, paused = false, running = false, stepTimer = null;
       function setLabel(text) {
         label.style.opacity = '0';
         setTimeout(function () {
@@ -3412,29 +3444,28 @@
       }
       function runStep(i) {
         var step = STEPS[i];
-        if (step.final) {
-          img.style.transform = step.t;
-          setLabel(step.l);
+        if (!step.tokens) {
+          astro.style.opacity = '0';
+          rocket.style.opacity = '0';
+        }
+        img.style.transform = step.t;
+        setLabel(step.l);
+        if (step.tokens) {
           setTimeout(function () {
             astro.style.opacity = '1';
             rocket.style.opacity = '1';
           }, 700);
-          done = true;
-        } else {
-          img.style.transform = step.t;
-          setLabel(step.l);
         }
       }
       function scheduleNext() {
-        if (done) return;
         stepTimer = setTimeout(function () {
-          idx++;
+          idx = (idx + 1) % STEPS.length;
           runStep(idx);
           scheduleNext();
         }, STEPS[idx].hold);
       }
       function startTour() {
-        if (running || done) return;
+        if (running) return;
         running = true;
         runStep(idx);
         scheduleNext();
@@ -3443,12 +3474,27 @@
         if (stepTimer) clearTimeout(stepTimer);
         stepTimer = null;
       }
+      toggle.addEventListener('click', function () {
+        paused = !paused;
+        if (paused) {
+          pauseTour();
+          running = false;
+          pauseIcon.style.display = 'none';
+          playIcon.style.display = '';
+          toggle.title = 'Play';
+        } else {
+          pauseIcon.style.display = '';
+          playIcon.style.display = 'none';
+          toggle.title = 'Pause';
+          startTour();
+        }
+      });
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
           if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
-            startTour();
+            if (!paused) startTour();
           } else {
-            pauseTour();
+            if (!paused) pauseTour();
             running = false;
           }
         });
@@ -7062,7 +7108,13 @@
   // Initialize with physical tab as default
   setBoardElementsVisible(false);
   s2Nav.style.display = '';
-  setTimeout(function(){ if (window.initCardFan) window.initCardFan(); }, 100);
+  setTimeout(function(){
+    if (window.initCardFan) window.initCardFan();
+    // Run the same reset/reflow pass the tab-click handler uses so the
+    // fan reliably paints and animates on first load (some browsers
+    // fail to start the card's entrance animation otherwise).
+    if (window.pcJumpTo) window.pcJumpTo(0);
+  }, 100);
 })();
 
 /* ── Physical Challenges — Card Fan ──────────────────────── */
