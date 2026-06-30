@@ -5037,7 +5037,6 @@
 // ===== Scroll Effects =====
 // ---- (originally index.html lines 10706-10753) ----
 (function(){
-  var bar = document.getElementById('scroll-progress');
   var dots = document.getElementById('nav-dots');
   var allDots = document.querySelectorAll('.nav-dot');
   var sections = [];
@@ -5055,9 +5054,6 @@
     var scrollTop = window.pageYOffset || 0;
     var docHeight = document.documentElement.scrollHeight - window.innerHeight;
     var pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-
-    // Progress bar
-    bar.style.width = pct + '%';
 
     // Show dots after scrolling past hero
     if (scrollTop > window.innerHeight * 0.5) {

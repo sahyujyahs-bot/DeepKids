@@ -4197,20 +4197,6 @@
   }
 
 /* ===== Scroll Progress Bar ===== */
-  /* ── Scroll progress bar ─────────────────────────── */
-  #scroll-progress {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 0%;
-    height: 3px;
-    background: linear-gradient(90deg, #aa59c8, #cd9edf);
-    z-index: 10000;
-    transition: width 0.1s linear;
-    box-shadow: 0 0 8px rgba(170,89,200,0.5);
-    pointer-events: none;
-  }
-
   /* ── Navigation dots ─────────────────────────────── */
   #nav-dots {
     position: fixed;

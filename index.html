@@ -10830,20 +10830,6 @@
 
 <!-- ═══════════════════════════════════ PROGRESS BAR + NAV DOTS ══ -->
 <style>
-  /* ── Scroll progress bar ─────────────────────────── */
-  #scroll-progress {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 0%;
-    height: 3px;
-    background: linear-gradient(90deg, #aa59c8, #cd9edf);
-    z-index: 10000;
-    transition: width 0.1s linear;
-    box-shadow: 0 0 8px rgba(170,89,200,0.5);
-    pointer-events: none;
-  }
-
   /* ── Navigation dots ─────────────────────────────── */
   #nav-dots {
     position: fixed;
@@ -10910,7 +10896,6 @@
   }
 </style>
 
-<div id="scroll-progress"></div>
 
 <div id="nav-dots">
   <div class="nav-dot" data-target="s1"><span class="nav-dot-tooltip">Hero</span></div>
@@ -10929,7 +10914,6 @@
 
 <script>
 (function(){
-  var bar = document.getElementById('scroll-progress');
   var dots = document.getElementById('nav-dots');
   var allDots = document.querySelectorAll('.nav-dot');
   var sections = [];
@@ -10947,9 +10931,6 @@
     var scrollTop = window.pageYOffset || 0;
     var docHeight = document.documentElement.scrollHeight - window.innerHeight;
     var pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-
-    // Progress bar
-    bar.style.width = pct + '%';
 
     // Show dots after scrolling past hero
     if (scrollTop > window.innerHeight * 0.5) {
