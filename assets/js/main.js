@@ -502,13 +502,16 @@
 
         /* Stop tease the moment user first drags + play drag sound.
            The hint line itself stays visible until the visitor has
-           accumulated enough real drag time to show intent — a single
-           quick touch/swipe shouldn't make it vanish before they've
-           even registered it. */
+           accumulated enough real drag time AND a few separate
+           grab-and-tosses to show clear intent — a single quick
+           touch/swipe shouldn't make it vanish before they've even
+           registered it. */
         var dragHumInterval = null;
         var heroDragAccumMs = 0;
         var heroDragStartTime = null;
+        var heroDragCount = 0;
         var HERO_HINT_DISMISS_MS = 1500;
+        var HERO_HINT_DISMISS_DRAGS = 3;
         Events.on(mc, 'startdrag', (e) => {
           cv.style.cursor = 'grabbing';
           teaseActive = false;
@@ -538,14 +541,15 @@
         });
         Events.on(mc, 'enddrag', (e) => {
           cv.style.cursor = 'grab';
-          // Accumulate real drag time; only dismiss the hint once the
-          // visitor has clearly been playing with the elements, not on
-          // the very first quick touch.
+          // Accumulate real drag time + count; only dismiss the hint
+          // once the visitor has clearly been playing with the
+          // elements, not on the very first quick touch.
           if (heroDragStartTime) {
             heroDragAccumMs += performance.now() - heroDragStartTime;
             heroDragStartTime = null;
           }
-          if (heroDragAccumMs >= HERO_HINT_DISMISS_MS && hint) {
+          heroDragCount++;
+          if (heroDragAccumMs >= HERO_HINT_DISMISS_MS && heroDragCount >= HERO_HINT_DISMISS_DRAGS && hint) {
             hint.style.opacity = '0';
             hint.classList.remove('show');
           }
