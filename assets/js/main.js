@@ -4862,55 +4862,6 @@
     io.observe(el);
   }
 
-  /* ── Hero / illustrations rain cue ─────────────────── */
-  (function(){
-    var s1 = document.getElementById('s1');
-    if (!s1) return;
-    var cue = document.createElement('div');
-    cue.className = 'eg-cue eg-cue-bottom';
-    cue.textContent = 'Drag, Drop & Play with the elements';
-    // Sit just above the rain so it's visible without overlapping the button
-    cue.style.bottom = 'clamp(70px, 14vh, 130px)';
-    cue.style.zIndex = '90';
-    s1.appendChild(cue);
-    var dismissed = false;
-    function go() {
-      if (dismissed) return;
-      show(cue);
-      // Auto-dismiss after a longer window so the user has time to read
-      setTimeout(function(){ dismiss(cue); }, 8000);
-    }
-    setTimeout(go, 1500);
-    // Only dismiss when the user actually drags something — a plain
-    // tap (which can just be a scroll start on mobile) shouldn't kill it.
-    var cv = document.getElementById('cv');
-    var startX = 0, startY = 0, tracking = false;
-    function onDown(e){
-      var p = e.touches ? e.touches[0] : e;
-      startX = p.clientX; startY = p.clientY;
-      tracking = true;
-    }
-    function onMove(e){
-      if (!tracking) return;
-      var p = e.touches ? e.touches[0] : e;
-      var dx = p.clientX - startX, dy = p.clientY - startY;
-      if (Math.hypot(dx, dy) > 16) {
-        dismissed = true;
-        dismiss(cue);
-        tracking = false;
-      }
-    }
-    function onUp(){ tracking = false; }
-    if (cv) {
-      cv.addEventListener('pointerdown', onDown, { passive: true });
-      cv.addEventListener('pointermove', onMove, { passive: true });
-      cv.addEventListener('pointerup', onUp, { passive: true });
-      cv.addEventListener('touchstart', onDown, { passive: true });
-      cv.addEventListener('touchmove', onMove, { passive: true });
-      cv.addEventListener('touchend', onUp, { passive: true });
-    }
-  })();
-
   /* ── Tab hand-holding for sections that have tab groups ── */
   (function(){
     var groups = [

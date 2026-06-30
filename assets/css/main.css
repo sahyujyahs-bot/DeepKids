@@ -537,22 +537,31 @@
     #drag-hint {
       position: absolute; bottom: 10px; left: 50%;
       transform: translateX(-50%);
-      z-index: 5;
+      z-index: 90;
       font-family: 'Futura', sans-serif;
-      font-size: 11px;
-      letter-spacing: 3px;
-      color: rgba(170,89,200,.50);
+      font-size: 12px;
+      letter-spacing: 2.5px;
+      color: #cd9edf;
       text-transform: uppercase;
       pointer-events: none;
+      background: rgba(10,6,24,0.88);
+      border: 1.5px solid rgba(205,158,223,0.55);
+      border-radius: 999px;
+      padding: 8px 16px;
+      box-shadow: 0 6px 24px rgba(0,0,0,0.5), 0 0 28px rgba(170,89,200,0.28);
+      text-shadow: 0 0 10px rgba(170,89,200,0.5);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      white-space: nowrap;
       opacity: 0;                 /* starts hidden — fades in after cards settle */
-      transition: opacity 2s;
+      transition: opacity 0.5s ease;
     }
     #drag-hint.show {
-      animation: drag-hint-pulse 1.8s ease-in-out infinite;
+      animation: drag-hint-pulse 2.4s ease-in-out infinite;
     }
     @keyframes drag-hint-pulse {
-      0%, 100% { opacity: 0.55; }
-      50%      { opacity: 1; }
+      0%, 100% { opacity: 0.9; transform: translateX(-50%) translateY(0); }
+      50%      { opacity: 1;   transform: translateX(-50%) translateY(-6px); }
     }
     @media (max-width: 768px) {
       #drag-hint {
