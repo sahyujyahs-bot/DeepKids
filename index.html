@@ -1438,13 +1438,20 @@
           startTease();
         }, 5000);
 
-        /* Stop tease the moment user first drags + play drag sound */
+        /* Stop tease the moment user first drags + play drag sound.
+           The hint line itself stays visible until the visitor has
+           accumulated enough real drag time to show intent — a single
+           quick touch/swipe shouldn't make it vanish before they've
+           even registered it. */
         var dragHumInterval = null;
+        var heroDragAccumMs = 0;
+        var heroDragStartTime = null;
+        var HERO_HINT_DISMISS_MS = 1500;
         Events.on(mc, 'startdrag', (e) => {
           cv.style.cursor = 'grabbing';
           teaseActive = false;
           clearTimeout(teaseTimer);
-          if (hint) { hint.style.opacity = '0'; hint.classList.remove('show'); }
+          heroDragStartTime = performance.now();
           // One-time, per-pageload signal that this visitor touched the
           // hero rain at all — lets us measure interaction rate in GA4
           // (Users who fired this event ÷ total Users on the hero).
@@ -1469,6 +1476,17 @@
         });
         Events.on(mc, 'enddrag', (e) => {
           cv.style.cursor = 'grab';
+          // Accumulate real drag time; only dismiss the hint once the
+          // visitor has clearly been playing with the elements, not on
+          // the very first quick touch.
+          if (heroDragStartTime) {
+            heroDragAccumMs += performance.now() - heroDragStartTime;
+            heroDragStartTime = null;
+          }
+          if (heroDragAccumMs >= HERO_HINT_DISMISS_MS && hint) {
+            hint.style.opacity = '0';
+            hint.classList.remove('show');
+          }
           // Stop drag hum
           if (window._dragHum) {
             try {
