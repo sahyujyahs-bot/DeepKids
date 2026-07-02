@@ -162,6 +162,44 @@ window.dataLayer = window.dataLayer || [];
   };
 })();
 
+/* ═══════════════════════════ Scroll-reveal helpers ══
+   egToggleOnView — class follows visibility (on/off as it scrolls)
+   egRevealOnce   — class added the first time it enters, then the
+                    observer lets go; optional stagger delay per item.
+   Both fall back to always-visible without IntersectionObserver. */
+function egToggleOnView(els, className, threshold) {
+  els = els.length !== undefined ? els : [els];
+  if (!els.length) return;
+  if (!('IntersectionObserver' in window)) {
+    els.forEach(function(el) { el.classList.add(className); });
+    return;
+  }
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) { e.target.classList.toggle(className, e.isIntersecting); });
+  }, { threshold: threshold });
+  els.forEach(function(el) { obs.observe(el); });
+}
+function egRevealOnce(els, className, threshold, staggerSec) {
+  els = els.length !== undefined ? els : [els];
+  if (!els.length) return;
+  if (!('IntersectionObserver' in window)) {
+    els.forEach(function(el) { el.classList.add(className); });
+    return;
+  }
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting) {
+        e.target.classList.add(className);
+        obs.unobserve(e.target);
+      }
+    });
+  }, { threshold: threshold });
+  els.forEach(function(el, i) {
+    if (staggerSec) el.style.transitionDelay = (i * staggerSec) + 's';
+    obs.observe(el);
+  });
+}
+
 // ─────────────────────────────────────────────
 
 /* ── Main scene ───────────────────────────────────────────── */
@@ -1342,11 +1380,8 @@ window.dataLayer = window.dataLayer || [];
     r.addEventListener('click', playClick);
   });
 
-  if (!cards.length || !('IntersectionObserver' in window)) return;
-  var obs = new IntersectionObserver(function(entries) {
-    entries.forEach(function(e) { e.target.classList.toggle('visible', e.isIntersecting); });
-  }, { threshold: 0.3 });
-  cards.forEach(function(c) { obs.observe(c); });
+  if (!cards.length) return;
+  egToggleOnView(cards, 'visible', 0.3);
 
   var container = document.querySelector('.parents-stories');
   var t1 = null;
@@ -1359,12 +1394,7 @@ window.dataLayer = window.dataLayer || [];
   }
 
   var rc = document.querySelector('.ps-reasons');
-  if (rc && 'IntersectionObserver' in window) {
-    var rObs = new IntersectionObserver(function(entries) {
-      entries.forEach(function(e) { e.target.classList.toggle('in-view', e.isIntersecting); });
-    }, { threshold: 0.1 });
-    rObs.observe(rc);
-  }
+  if (rc) egToggleOnView(rc, 'in-view', 0.1);
   var t2 = null;
   if (rc) {
     rc.addEventListener('scroll', function() {
@@ -1398,17 +1428,8 @@ window.dataLayer = window.dataLayer || [];
   });
 
   // Entry animation every time + hint wiggle
-  if ('IntersectionObserver' in window) {
-    var obs = new IntersectionObserver(function(entries) {
-      entries.forEach(function(e) {
-        e.target.classList.toggle('u-visible', e.isIntersecting);
-      });
-    }, { threshold: 0.3 });
-    cards.forEach(function(c, i) {
-      c.style.transitionDelay = (i * 0.12) + 's';
-      obs.observe(c);
-    });
-  }
+  cards.forEach(function(c, i) { c.style.transitionDelay = (i * 0.12) + 's'; });
+  egToggleOnView(cards, 'u-visible', 0.3);
 
   // Sound on hover
   cards.forEach(function(card) {
@@ -1587,13 +1608,7 @@ window.dataLayer = window.dataLayer || [];
     if (!pin) return;
 
     // Trigger entry animation when section scrolls into view
-    var entryObs = new IntersectionObserver(function(entries) {
-      if (entries[0].isIntersecting) {
-        pin.classList.add('s2-entered');
-        entryObs.unobserve(pin);
-      }
-    }, { threshold: 0.05 });
-    entryObs.observe(pin);
+    egRevealOnce(pin, 's2-entered', 0.05);
 
     // Auto-flip: only when section is actually visible
     var flips = pin.querySelectorAll('.s2-flip-card');
@@ -1669,19 +1684,7 @@ document.querySelectorAll('.gv').forEach(function(v) {
   });
 
   // One-shot observer: add visible once, never remove
-  if ('IntersectionObserver' in window) {
-    var gridObs = new IntersectionObserver(function(entries) {
-      entries.forEach(function(e) {
-        if (e.isIntersecting) {
-          grid.classList.add('visible');
-          gridObs.unobserve(grid);
-        }
-      });
-    }, { threshold: 0.05 });
-    gridObs.observe(grid);
-  } else {
-    grid.classList.add('visible');
-  }
+  egRevealOnce(grid, 'visible', 0.05);
 
   // Soft pop sound on each individual illustration hover/tap
   function playExpPop() {
@@ -4492,19 +4495,8 @@ initSimpleTabs('s4b');
 
 (function(){
   var items = document.querySelectorAll('.faq-item');
-  if (!items.length || !('IntersectionObserver' in window)) return;
-  var obs = new IntersectionObserver(function(entries) {
-    entries.forEach(function(e) {
-      if (e.isIntersecting) {
-        e.target.classList.add('visible');
-        obs.unobserve(e.target);
-      }
-    });
-  }, { threshold: 0.1 });
-  items.forEach(function(item, i) {
-    item.style.transitionDelay = (i * 0.08) + 's';
-    obs.observe(item);
-  });
+  if (!items.length) return;
+  egRevealOnce(items, 'visible', 0.1, 0.08);
 })();
 
 // ─────────────────────────────────────────────
@@ -4514,20 +4506,7 @@ initSimpleTabs('s4b');
   if (!pins.length) return;
 
   // Staggered reveal on scroll
-  if ('IntersectionObserver' in window) {
-    var obs = new IntersectionObserver(function(entries) {
-      entries.forEach(function(e) {
-        if (e.isIntersecting) {
-          e.target.classList.add('visible');
-          obs.unobserve(e.target);
-        }
-      });
-    }, { threshold: 0.1 });
-    pins.forEach(function(pin, i) {
-      pin.style.transitionDelay = (i * 0.06) + 's';
-      obs.observe(pin);
-    });
-  }
+  egRevealOnce(pins, 'visible', 0.1, 0.06);
 
   // Sound on hover/touch
   pins.forEach(function(pin) {
@@ -4648,17 +4627,7 @@ initSimpleTabs('s4b');
   }
 
   /* ── IntersectionObserver for fade-in animations ─────────── */
-  const fadeEls = document.querySelectorAll('.eg-fade-in');
-  if('IntersectionObserver' in window){
-    const obs = new IntersectionObserver((entries) => {
-      entries.forEach(e => {
-        e.target.classList.toggle('visible', e.isIntersecting);
-      });
-    }, { threshold: 0.1 });
-    fadeEls.forEach(el => obs.observe(el));
-  } else {
-    fadeEls.forEach(el => el.classList.add('visible'));
-  }
+  egToggleOnView(document.querySelectorAll('.eg-fade-in'), 'visible', 0.1);
 
   /* ── Section-view tracking for retargeting ──────────────── */
   var trackedSections = {};
