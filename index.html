@@ -1937,6 +1937,7 @@
       var phone = (document.getElementById('po-phone') || {}).value || '';
       var cc = (document.getElementById('po-cc') || {}).value || '+91';
       if (typeof gtag === 'function') gtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: (name.trim() || phone.trim()) ? 'with_details' : 'empty' });
+      if (typeof fbq === 'function') fbq('trackCustom', 'PreOrderAbandoned', { had_details: !!(name.trim() || phone.trim()) });
       if (!leadEmailSent && (name.trim() || phone.trim())) {
         var digits = phone.replace(/\D/g, '');
         var fullNumber = digits ? (cc.startsWith('+') ? cc : '+' + cc) + digits : '';
