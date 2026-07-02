@@ -7,21 +7,36 @@
   <meta name="facebook-domain-verification" content="9zm2ecdqyco9pfv02ofgmb3iqa3bsi"/>
   <!-- Pinterest domain verification -->
   <meta name="p:domain_verify" content="9a63c0b92d0b2a44826d83606f15c7c7"/>
+  <!-- Internal-traffic kill switch: visit once with ?notrack to stop
+       ALL analytics (GA4, Ads, Clarity, Meta) from this browser;
+       ?track re-enables. Flag persists in localStorage. -->
+  <script>
+    window._egNoTrack = (function(){
+      try {
+        var q = new URLSearchParams(location.search);
+        if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+        if (q.has('track')) localStorage.removeItem('eg-notrack');
+        return localStorage.getItem('eg-notrack') === '1';
+      } catch(e) { return false; }
+    })();
+  </script>
   <!-- Google Analytics (GA4) + Google Ads global site tag -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
   <script>
+    if (!window._egNoTrack) {
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    window.gtag = function(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-GYJLZ0FVJE');
     // Google Ads — replace AW-XXXXXXXXX with your Ads conversion
     // ID once you create a Google Ads account. Until then this
     // line is a no-op placeholder.
     gtag('config', 'AW-11336704198');
+    }
   </script>
   <!-- Microsoft Clarity — free heatmaps + session recordings -->
   <script>
-    (function(c,l,a,r,i,t,y){
+    if (!window._egNoTrack) (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
       t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
@@ -29,6 +44,7 @@
   </script>
   <!-- Meta Pixel (Facebook/Instagram ads + retargeting) -->
   <script>
+    if (!window._egNoTrack) {
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
     n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -36,6 +52,7 @@
     (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '1960497127528559');
     fbq('track', 'PageView');
+    }
   </script>
   <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1960497127528559&ev=PageView&noscript=1"/></noscript>
   <title>EscapeGravity — Educational Science Board Game | DeepKids</title>

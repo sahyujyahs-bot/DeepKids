@@ -1,15 +1,28 @@
-window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+/* Internal-traffic kill switch: visit once with ?notrack to stop all
+   analytics from this browser; ?track re-enables. */
+window._egNoTrack = (function(){
+  try {
+    var q = new URLSearchParams(location.search);
+    if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+    if (q.has('track')) localStorage.removeItem('eg-notrack');
+    return localStorage.getItem('eg-notrack') === '1';
+  } catch(e) { return false; }
+})();
+
+if (!window._egNoTrack) {
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-GYJLZ0FVJE');
     // Google Ads — replace AW-XXXXXXXXX with your Ads conversion
     // ID once you create a Google Ads account. Until then this
     // line is a no-op placeholder.
     gtag('config', 'AW-11336704198');
+}
 
 // ─────────────────────────────────────────────
 
-(function(c,l,a,r,i,t,y){
+if (!window._egNoTrack) (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
       t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
@@ -17,13 +30,14 @@ window.dataLayer = window.dataLayer || [];
 
 // ─────────────────────────────────────────────
 
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+if (!window._egNoTrack) { !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
     n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
     t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
     (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '1960497127528559');
     fbq('track', 'PageView');
+}
 
 // ─────────────────────────────────────────────
 
