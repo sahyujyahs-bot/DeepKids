@@ -27,54 +27,140 @@ window.dataLayer = window.dataLayer || [];
 
 // ─────────────────────────────────────────────
 
+/* ═══════════════════════════ EGAudio — unified audio module ══
+   One shared AudioContext + helpers for every sound on the site:
+   - loadBuffer/playBuffer  file-based one-shots via Web Audio
+   - tone                   synth beeps (quiz, runner game, pops)
+   - el/playEl/stopEl       HTMLAudio for longer/seekable sounds
+   All play paths resume the context first (autoplay policy), and
+   HTMLAudio elements are primed on the first user gesture (iOS). */
 (function(){
-    var AC = window.AudioContext || window.webkitAudioContext;
+  'use strict';
+  var AC = window.AudioContext || window.webkitAudioContext;
 
-    /* ── Shared AudioContext ── */
-    if (AC) {
-      window._getAC = function() {
-        if (!window._sharedAC) {
-          window._sharedAC = new AC();
-          // Auto-resume if the browser suspends the context after silence
-          window._sharedAC.onstatechange = function() {
-            if (window._sharedAC.state === 'suspended') {
-              window._sharedAC.resume().catch(function(){});
-            }
-          };
-        }
-        return window._sharedAC;
+  // Asset URLs are site-root-relative; resolve against this file's
+  // own location so pages at any depth (/, /clearedcode/) work.
+  var script = document.querySelector('script[src*="assets/js/main.js"]');
+  var BASE = script ? script.getAttribute('src').replace(/assets\/js\/main\.js.*$/, '') : '';
+
+  var shared = null;
+  function ctx() {
+    if (!AC) return null;
+    if (!shared) {
+      shared = new AC();
+      // Auto-resume if the browser suspends the context after silence
+      shared.onstatechange = function() {
+        if (shared.state === 'suspended') shared.resume().catch(function(){});
       };
-      function armAC() {
-        var ac = window._sharedAC;
-        if (ac && ac.state === 'suspended') ac.resume().catch(function(){});
-      }
-      ['pointerdown','touchstart','keydown'].forEach(function(ev) {
-        document.addEventListener(ev, armAC, {passive: true, capture: true});
-      });
     }
+    return shared;
+  }
 
-    /* ── HTMLAudio element unlock (iOS / strict autoplay policy) ──
-       On first gesture, call play()+pause() on every registered audio
-       element so subsequent programmatic play() calls are allowed. */
-    window._htmlAudioElements = [];
-    window._registerAudio = function(el) {
-      window._htmlAudioElements.push(el);
+  function url(file) { return BASE + file; }
+
+  function loadBuffer(file, cb) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url(file), true);
+    xhr.responseType = 'arraybuffer';
+    xhr.onload = function() {
+      if (xhr.status === 200) ctx().decodeAudioData(xhr.response, cb);
     };
-    var htmlUnlocked = false;
-    function unlockHTMLAudio() {
-      if (htmlUnlocked) return;
-      htmlUnlocked = true;
-      window._htmlAudioElements.forEach(function(el) {
-        try {
-          var p = el.play();
-          if (p && p.then) p.then(function(){ el.pause(); el.currentTime = 0; }).catch(function(){});
-        } catch(e){}
-      });
+    xhr.send();
+  }
+
+  function playBuffer(buf, opts) {
+    var ac = ctx();
+    if (!buf || !ac) return;
+    opts = opts || {};
+    function start() {
+      try {
+        var src = ac.createBufferSource();
+        src.buffer = buf;
+        if (opts.rate) src.playbackRate.value = opts.rate;
+        var gain = ac.createGain();
+        gain.gain.value = opts.vol != null ? opts.vol : 0.5;
+        src.connect(gain);
+        gain.connect(ac.destination);
+        src.start();
+      } catch(e) {}
     }
-    ['pointerdown','touchstart'].forEach(function(ev) {
-      document.addEventListener(ev, unlockHTMLAudio, {passive: true, capture: true, once: true});
+    try {
+      if (ac.state === 'suspended') ac.resume().then(start).catch(function(){});
+      else start();
+    } catch(e) {}
+  }
+
+  function tone(freq, dur, opts) {
+    var ac = ctx();
+    if (!ac) return;
+    opts = opts || {};
+    try {
+      if (ac.state === 'suspended') ac.resume();
+      var osc = ac.createOscillator();
+      var gain = ac.createGain();
+      osc.type = opts.type || 'sine';
+      osc.frequency.setValueAtTime(freq, ac.currentTime);
+      if (opts.slide) osc.frequency.linearRampToValueAtTime(opts.slide, ac.currentTime + dur);
+      if (opts.expSlide) osc.frequency.exponentialRampToValueAtTime(opts.expSlide, ac.currentTime + (opts.expSlideDur || dur));
+      gain.gain.setValueAtTime(opts.vol || 0.15, ac.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.001, ac.currentTime + dur);
+      osc.connect(gain);
+      gain.connect(ac.destination);
+      osc.start();
+      osc.stop(ac.currentTime + (opts.stop || dur));
+    } catch(e) {}
+  }
+
+  var htmlEls = [];
+  function el(file) {
+    var a = new Audio(url(file));
+    a.preload = 'auto';
+    htmlEls.push(a);
+    return a;
+  }
+  function playEl(snd, vol) {
+    try { snd.currentTime = 0; snd.volume = vol || 0.45; snd.play().catch(function(){}); } catch(e) {}
+  }
+  function stopEl(snd) {
+    try { snd.pause(); snd.currentTime = 0; } catch(e) {}
+  }
+  // Overlapping plays of the same file (clone per play)
+  function playElClone(snd, vol, stopAfterMs) {
+    try {
+      var c = snd.cloneNode();
+      c.volume = vol;
+      c.play().catch(function(){});
+      if (stopAfterMs) setTimeout(function(){ try { c.pause(); } catch(e){} }, stopAfterMs);
+    } catch(e) {}
+  }
+
+  var htmlUnlocked = false;
+  function unlockHTMLAudio() {
+    if (htmlUnlocked) return;
+    htmlUnlocked = true;
+    htmlEls.forEach(function(a) {
+      try {
+        var p = a.play();
+        if (p && p.then) p.then(function(){ a.pause(); a.currentTime = 0; }).catch(function(){});
+      } catch(e) {}
     });
-  })();
+  }
+  function armAC() {
+    if (shared && shared.state === 'suspended') shared.resume().catch(function(){});
+  }
+  ['pointerdown','touchstart','keydown'].forEach(function(ev) {
+    document.addEventListener(ev, armAC, {passive: true, capture: true});
+  });
+  ['pointerdown','touchstart'].forEach(function(ev) {
+    document.addEventListener(ev, unlockHTMLAudio, {passive: true, capture: true, once: true});
+  });
+
+  window.EGAudio = {
+    ctx: ctx, url: url,
+    loadBuffer: loadBuffer, playBuffer: playBuffer, tone: tone,
+    el: el, playEl: playEl, stopEl: stopEl, playElClone: playElClone
+  };
+})();
 
 // ─────────────────────────────────────────────
 
@@ -215,23 +301,9 @@ window.dataLayer = window.dataLayer || [];
          sidesteps the autoplay-policy issue for programmatic
          playback after a user gesture. */
       let swooshBuffer = null;
-      let swooshCtx = null;
-      (function preloadSwoosh() {
-        try {
-          swooshCtx = window._getAC();
-          var xhr = new XMLHttpRequest();
-          xhr.open('GET', 'single Swoosh sound.wav', true);
-          xhr.responseType = 'arraybuffer';
-          xhr.onload = function() {
-            if (xhr.status === 200) {
-              swooshCtx.decodeAudioData(xhr.response, function(buf) {
-                swooshBuffer = buf;
-              });
-            }
-          };
-          xhr.send();
-        } catch(e) {}
-      })();
+      try {
+        EGAudio.loadBuffer('single Swoosh sound.wav', function(buf) { swooshBuffer = buf; });
+      } catch(e) {}
       // Arm on the FIRST user gesture (touchstart fires before the
       // scroll actually happens, so we catch the intent early):
       // resume the AudioContext AND immediately replay the rain so
@@ -247,7 +319,7 @@ window.dataLayer = window.dataLayer || [];
       function armAudioAndReplay() {
         if (audioArmed) return;
         audioArmed = true;
-        try { if (swooshCtx && swooshCtx.state === 'suspended') swooshCtx.resume(); } catch(e) {}
+        try { var _ac = EGAudio.ctx(); if (_ac && _ac.state === 'suspended') _ac.resume(); } catch(e) {}
         // Cancel the 7s fallback auto-replay so we don't double-fire
         if (window._heroAutoReplayTimer) {
           clearTimeout(window._heroAutoReplayTimer);
@@ -275,26 +347,10 @@ window.dataLayer = window.dataLayer || [];
       // blocks audio before user interaction). The redo button and all
       // subsequent rains play with sound because the user has interacted.
       function playSwoosh() {
-        if (!swooshBuffer || !swooshCtx) return;
-        function _start() {
-          try {
-            var src = swooshCtx.createBufferSource();
-            src.buffer = swooshBuffer;
-            src.playbackRate.value = 0.9 + Math.random() * 0.2;
-            var gain = swooshCtx.createGain();
-            gain.gain.value = 0.35 + Math.random() * 0.15;
-            src.connect(gain);
-            gain.connect(swooshCtx.destination);
-            src.start();
-          } catch(e){}
-        }
-        try {
-          if (swooshCtx.state === 'suspended') {
-            swooshCtx.resume().then(_start).catch(function(){});
-          } else {
-            _start();
-          }
-        } catch(e){}
+        EGAudio.playBuffer(swooshBuffer, {
+          rate: 0.9 + Math.random() * 0.2,
+          vol: 0.35 + Math.random() * 0.15
+        });
       }
 
       function rebuildWalls() {
@@ -1501,49 +1557,15 @@ window.dataLayer = window.dataLayer || [];
   });
 
   /* ── Card sounds (global for reuse by other sections) ──── */
-  var boxAudioCtx = null;
   window._cardFlipBuf = null;
   window._cardScrollBuf = null;
   var cardFlipBuf = null;
   var cardScrollBuf = null;
-  function getBoxAudio() {
-    if (!boxAudioCtx) boxAudioCtx = window._getAC();
-    return boxAudioCtx;
-  }
-  function loadBoxSound(url, cb) {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', url, true);
-    xhr.responseType = 'arraybuffer';
-    xhr.onload = function() {
-      if (xhr.status === 200) {
-        getBoxAudio().decodeAudioData(xhr.response, function(buf) { cb(buf); });
-      }
-    };
-    xhr.send();
-  }
-  loadBoxSound('cardflip sound.wav', function(b) { window._cardFlipBuf = b; cardFlipBuf = b; });
-  loadBoxSound('cardsscrollsound.wav', function(b) { window._cardScrollBuf = b; cardScrollBuf = b; });
+  EGAudio.loadBuffer('cardflip sound.wav', function(b) { window._cardFlipBuf = b; cardFlipBuf = b; });
+  EGAudio.loadBuffer('cardsscrollsound.wav', function(b) { window._cardScrollBuf = b; cardScrollBuf = b; });
 
   window.playBoxSound = function(buf, vol) {
-    if (!buf || !boxAudioCtx) return;
-    function _start() {
-      try {
-        var src = boxAudioCtx.createBufferSource();
-        src.buffer = buf;
-        var gain = boxAudioCtx.createGain();
-        gain.gain.value = vol || 0.5;
-        src.connect(gain);
-        gain.connect(boxAudioCtx.destination);
-        src.start();
-      } catch(e) {}
-    }
-    try {
-      if (boxAudioCtx.state === 'suspended') {
-        boxAudioCtx.resume().then(_start).catch(function(){});
-      } else {
-        _start();
-      }
-    } catch(e) {}
+    EGAudio.playBuffer(buf, { vol: vol || 0.5 });
   }
 
   /* ── Flip cards ──────────────────────────────────────── */
@@ -1662,23 +1684,10 @@ document.querySelectorAll('.gv').forEach(function(v) {
   }
 
   // Soft pop sound on each individual illustration hover/tap
-  var expAc = null;
   function playExpPop() {
-    try {
-      if (!expAc) expAc = window._getAC();
-      if (expAc.state === 'suspended') expAc.resume();
-      var osc = expAc.createOscillator();
-      var gain = expAc.createGain();
-      osc.type = 'sine';
-      osc.frequency.setValueAtTime(680 + Math.random() * 200, expAc.currentTime);
-      osc.frequency.exponentialRampToValueAtTime(280, expAc.currentTime + 0.12);
-      gain.gain.setValueAtTime(0.08, expAc.currentTime);
-      gain.gain.exponentialRampToValueAtTime(0.001, expAc.currentTime + 0.15);
-      osc.connect(gain);
-      gain.connect(expAc.destination);
-      osc.start();
-      osc.stop(expAc.currentTime + 0.18);
-    } catch(err) {}
+    EGAudio.tone(680 + Math.random() * 200, 0.15, {
+      vol: 0.08, expSlide: 280, expSlideDur: 0.12, stop: 0.18
+    });
   }
   grid.querySelectorAll('.exp-item').forEach(function(item) {
     item.addEventListener('pointerenter', playExpPop);
@@ -1853,22 +1862,14 @@ document.querySelectorAll('.gv').forEach(function(v) {
   const tokRed  = document.getElementById('s2-tok-red');
 
   /* ── How To Play sound effects (file-based) ──────────────── */
-  var sndCardScroll  = new Audio('cardsscrollsound.wav');  sndCardScroll.preload = 'auto';
-  var sndCardFlip    = new Audio('cardflip sound.wav');     sndCardFlip.preload = 'auto';
-  var sndDiceRoll    = new Audio('dice roll sound2.wav');    sndDiceRoll.preload = 'auto';
-  var sndTokenMove11 = new Audio('token move to tile 11.wav'); sndTokenMove11.preload = 'auto';
-  var sndTokenDrop   = new Audio('token drops to tiles 7,3,2.wav'); sndTokenDrop.preload = 'auto';
-  [sndCardScroll, sndCardFlip, sndDiceRoll, sndTokenMove11, sndTokenDrop].forEach(function(s) {
-    if (window._registerAudio) window._registerAudio(s);
-  });
-  function playSound(snd, vol) {
-    try { snd.currentTime = 0; snd.volume = vol || 0.45; snd.play().catch(function(){}); } catch(e){}
-  }
-  function stopSound(snd) {
-    try { snd.pause(); snd.currentTime = 0; } catch(e){}
-  }
-  var sndBallBounce  = new Audio('ball bounce.wav');         sndBallBounce.preload = 'auto';
-  if (window._registerAudio) window._registerAudio(sndBallBounce);
+  var sndCardScroll  = EGAudio.el('cardsscrollsound.wav');
+  var sndCardFlip    = EGAudio.el('cardflip sound.wav');
+  var sndDiceRoll    = EGAudio.el('dice roll sound2.wav');
+  var sndTokenMove11 = EGAudio.el('token move to tile 11.wav');
+  var sndTokenDrop   = EGAudio.el('token drops to tiles 7,3,2.wav');
+  var sndBallBounce  = EGAudio.el('ball bounce.wav');
+  var playSound = EGAudio.playEl;
+  var stopSound = EGAudio.stopEl;
   // Expose sounds so the physical-challenges IIFE (pickCard,
   // initCardFan) and the Learning Full Circle section can use them.
   window.sndCardScroll = sndCardScroll;
@@ -1898,7 +1899,7 @@ document.querySelectorAll('.gv').forEach(function(v) {
 
   /* ── Load full board image ──────────────────────────────── */
   const boardImg = new Image();
-  boardImg.src = 's2-board-full.webp';
+  boardImg.src = EGAudio.url('s2-board-full.webp');
 
   /* ── Canvas sizing ──────────────────────────────────────── */
   const canvasDPR = Math.min(window.devicePixelRatio || 1, 2);
@@ -2081,19 +2082,9 @@ document.querySelectorAll('.gv').forEach(function(v) {
 
   /* ── Start zoom animation ───────────────────────────────── */
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
-  var spinSound = new Audio('spin sound.wav');
-  spinSound.preload = 'auto';
-  if (window._registerAudio) window._registerAudio(spinSound);
-  function playSpinSound() {
-    try {
-      spinSound.currentTime = 0;
-      spinSound.volume = 0.45;
-      spinSound.play().catch(function(){});
-    } catch(e){}
-  }
-  function stopSpinSound() {
-    try { spinSound.pause(); spinSound.currentTime = 0; } catch(e){}
-  }
+  var spinSound = EGAudio.el('spin sound.wav');
+  function playSpinSound() { EGAudio.playEl(spinSound, 0.45); }
+  function stopSpinSound() { EGAudio.stopEl(spinSound); }
 
   function startZoom() {
     state = 1; busy = true;
@@ -2887,8 +2878,8 @@ document.querySelectorAll('.gv').forEach(function(v) {
 (function(){
   'use strict';
 
-  var CARD_BACK  = 's2-card-back.webp';
-  var CARD_FRONT = 's2-card-front.webp';
+  var CARD_BACK  = EGAudio.url('s2-card-back.webp');
+  var CARD_FRONT = EGAudio.url('s2-card-front.webp');
   var NUM_CARDS  = 6;
   var FAN_SPREAD = 70;
   var fanReady   = false;
@@ -3140,9 +3131,9 @@ document.querySelectorAll('.gv').forEach(function(v) {
   }
 
   // Tile-11 bubble copy (start state of Step 3 / end state of Step 2)
-  var ICON_EARTH = '<img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth">';
-  var ICON_BODY  = '<img class="s2-bubble-icon" src="IMG_4705.png" alt="Body">';
-  var ICON_TWO   = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.png" alt="Any 2 Cards">';
+  var ICON_EARTH = '<img class="s2-bubble-icon" src="' + EGAudio.url('IMG_4700.png') + '" alt="Earth">';
+  var ICON_BODY  = '<img class="s2-bubble-icon" src="' + EGAudio.url('IMG_4705.png') + '" alt="Body">';
+  var ICON_TWO   = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="' + EGAudio.url('IMG_5300.png') + '" alt="Any 2 Cards">';
 
   // Step 3 scene 0: bubble + "Check Your Force Card" link.
   // Clicking the link reveals the inline force card and advances.
@@ -3599,12 +3590,7 @@ document.querySelectorAll('.gv').forEach(function(v) {
           // Play bounce sound only on the FIRST impact (not repeats)
           if (!opts._bounced && window.sndBallBounce) {
             opts._bounced = true;
-            try {
-              var bb = window.sndBallBounce.cloneNode();
-              bb.volume = 0.4;
-              bb.play().catch(function(){});
-              setTimeout(function(){ try { bb.pause(); } catch(e){} }, 300);
-            } catch(e){}
+            EGAudio.playElClone(window.sndBallBounce, 0.4, 300);
           }
         } else {
           newY = maxY;
@@ -3877,27 +3863,9 @@ document.querySelectorAll('.gv').forEach(function(v) {
   var deadTimer = 0;
   var fallInfo = null;   // { wellType, pitX, pitW, fallY, fallVy, sinkTimer }
 
-  // ── Sound effects (Web Audio API — no files needed) ────
-  var audioCtx = null;
-  function getAudio() {
-    if (!audioCtx) audioCtx = window._getAC();
-    return audioCtx;
-  }
+  // ── Sound effects (synth tones via EGAudio — no files needed) ────
   function playTone(freq, dur, type, vol, slide) {
-    try {
-      var a = getAudio();
-      var osc = a.createOscillator();
-      var gain = a.createGain();
-      osc.type = type || 'sine';
-      osc.frequency.setValueAtTime(freq, a.currentTime);
-      if (slide) osc.frequency.linearRampToValueAtTime(slide, a.currentTime + dur);
-      gain.gain.setValueAtTime(vol || 0.15, a.currentTime);
-      gain.gain.exponentialRampToValueAtTime(0.001, a.currentTime + dur);
-      osc.connect(gain);
-      gain.connect(a.destination);
-      osc.start();
-      osc.stop(a.currentTime + dur);
-    } catch(e) {}
+    EGAudio.tone(freq, dur, { type: type, vol: vol, slide: slide });
   }
   function sfxJump()    { playTone(440, 0.15, 'sine', 0.12, 880); }
   function sfxCollect()  { playTone(880, 0.1, 'sine', 0.12); setTimeout(function(){ playTone(1100, 0.12, 'sine', 0.10); }, 60); }
@@ -4430,18 +4398,8 @@ document.querySelectorAll('.gv').forEach(function(v) {
   var idx = 0, score = 0, answered = false;
 
   // Sounds
-  var aCtx = null;
-  function audio() { if (!aCtx) aCtx = window._getAC(); return aCtx; }
   function tone(f, d, t, v) {
-    try {
-      var a = audio(), o = a.createOscillator(), g = a.createGain();
-      o.type = t || 'sine';
-      o.frequency.value = f;
-      g.gain.setValueAtTime(v || 0.12, a.currentTime);
-      g.gain.exponentialRampToValueAtTime(0.001, a.currentTime + d);
-      o.connect(g); g.connect(a.destination);
-      o.start(); o.stop(a.currentTime + d);
-    } catch (e) {}
+    EGAudio.tone(f, d, { type: t, vol: v || 0.12 });
   }
   function sfxRight() {
     tone(660, 0.1, 'sine', 0.14);
@@ -4599,28 +4557,26 @@ document.querySelectorAll('.gv').forEach(function(v) {
      Regular click sound for tabs, arrows, quiz buttons, etc.
      CTA buttons (Pre-Order, Sign Up, Count Me In) get a special
      celebratory chime instead. */
-  var btnClickSound = new Audio('button click sound.wav');
-  btnClickSound.preload = 'auto';
-  if (window._registerAudio) window._registerAudio(btnClickSound);
+  var btnClickSound = EGAudio.el('button click sound.wav');
 
   // Celebratory chime for CTA buttons (Web Audio — rising arpeggio)
-  var ctaAudioCtx = null;
   function playCtaChime() {
     try {
-      if (!ctaAudioCtx) ctaAudioCtx = window._getAC();
-      if (ctaAudioCtx.state === 'suspended') ctaAudioCtx.resume();
+      var ac = EGAudio.ctx();
+      if (!ac) return;
+      if (ac.state === 'suspended') ac.resume();
       var notes = [523, 659, 784, 1047]; // C5 E5 G5 C6
-      var t0 = ctaAudioCtx.currentTime;
+      var t0 = ac.currentTime;
       notes.forEach(function(freq, i) {
-        var osc = ctaAudioCtx.createOscillator();
-        var gain = ctaAudioCtx.createGain();
+        var osc = ac.createOscillator();
+        var gain = ac.createGain();
         osc.type = 'triangle';
         osc.frequency.value = freq;
         gain.gain.setValueAtTime(0.0001, t0 + i * 0.09);
         gain.gain.exponentialRampToValueAtTime(0.15, t0 + i * 0.09 + 0.02);
         gain.gain.exponentialRampToValueAtTime(0.0001, t0 + i * 0.09 + 0.35);
         osc.connect(gain);
-        gain.connect(ctaAudioCtx.destination);
+        gain.connect(ac.destination);
         osc.start(t0 + i * 0.09);
         osc.stop(t0 + i * 0.09 + 0.4);
       });
@@ -4641,11 +4597,7 @@ document.querySelectorAll('.gv').forEach(function(v) {
     }
     // Everything else gets the standard click sound
     if (t.closest(BTN_SEL)) {
-      try {
-        var s = btnClickSound.cloneNode();
-        s.volume = 0.4;
-        s.play().catch(function(){});
-      } catch(e2){}
+      EGAudio.playElClone(btnClickSound, 0.4);
     }
   }, true);
 
@@ -4781,7 +4733,7 @@ document.querySelectorAll('.gv').forEach(function(v) {
     spiralLoaded = true;
     applyCursor(currentAngle);
   };
-  spiralImg.src = 'spiral-board-cursor.webp';
+  spiralImg.src = EGAudio.url('spiral-board-cursor.webp');
 
   /* ── Draw the spiral at a given rotation angle (no border) ── */
   function drawSpiralAt(angle) {
@@ -4861,47 +4813,36 @@ document.querySelectorAll('.gv').forEach(function(v) {
     requestAnimationFrame(animateCursor);
   }
 
-  // Spiral sounds
-  var spiralAc = null;
+  // Spiral sounds — custom envelopes, so these talk to the shared
+  // context directly rather than going through EGAudio.playBuffer.
   var spiralWhirr = null;
   var spinSoundBuf = null;
-  // Preload spin sound.wav for scroll turns
-  (function() {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'spin sound.wav', true);
-    xhr.responseType = 'arraybuffer';
-    xhr.onload = function() {
-      if (xhr.status === 200) {
-        if (!spiralAc) spiralAc = window._getAC();
-        spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
-      }
-    };
-    xhr.send();
-  })();
+  EGAudio.loadBuffer('spin sound.wav', function(buf) { spinSoundBuf = buf; });
 
   // Play spin sound.wav (scroll turns) — only first 1s, with fade
   var spinPlaying = false;
   function playSpinSound() {
-    if (!spinSoundBuf || !spiralAc || spinPlaying) return;
+    var ac = EGAudio.ctx();
+    if (!spinSoundBuf || !ac || spinPlaying) return;
     spinPlaying = true;
     function _start() {
       try {
-        var src = spiralAc.createBufferSource();
+        var src = ac.createBufferSource();
         src.buffer = spinSoundBuf;
-        var gain = spiralAc.createGain();
-        var t = spiralAc.currentTime;
+        var gain = ac.createGain();
+        var t = ac.currentTime;
         gain.gain.setValueAtTime(0.3, t);
         gain.gain.setValueAtTime(0.3, t + 0.7);
         gain.gain.exponentialRampToValueAtTime(0.001, t + 1.0);
         src.connect(gain);
-        gain.connect(spiralAc.destination);
+        gain.connect(ac.destination);
         src.start(0, 0, 1.0);
         setTimeout(function() { spinPlaying = false; }, 1500);
       } catch(e) { spinPlaying = false; }
     }
     try {
-      if (spiralAc.state === 'suspended') {
-        spiralAc.resume().then(_start).catch(function(){ spinPlaying = false; });
+      if (ac.state === 'suspended') {
+        ac.resume().then(_start).catch(function(){ spinPlaying = false; });
       } else {
         _start();
       }
@@ -4911,12 +4852,13 @@ document.querySelectorAll('.gv').forEach(function(v) {
   // Synthesized whirr (for click/dblclick spins)
   function startSpiralSound(duration) {
     try {
-      if (!spiralAc) spiralAc = window._getAC();
-      if (spiralAc.state === 'suspended') spiralAc.resume();
+      var ac = EGAudio.ctx();
+      if (!ac) return;
+      if (ac.state === 'suspended') ac.resume();
       if (spiralWhirr) { try { spiralWhirr.osc.stop(); } catch(x){} spiralWhirr = null; }
-      var osc = spiralAc.createOscillator();
-      var gain = spiralAc.createGain();
-      var t = spiralAc.currentTime;
+      var osc = ac.createOscillator();
+      var gain = ac.createGain();
+      var t = ac.currentTime;
       osc.type = 'sine';
       osc.frequency.setValueAtTime(320, t);
       osc.frequency.exponentialRampToValueAtTime(80, t + duration);
@@ -4924,7 +4866,7 @@ document.querySelectorAll('.gv').forEach(function(v) {
       gain.gain.setValueAtTime(0.06, t + duration * 0.6);
       gain.gain.exponentialRampToValueAtTime(0.001, t + duration);
       osc.connect(gain);
-      gain.connect(spiralAc.destination);
+      gain.connect(ac.destination);
       osc.start(t);
       osc.stop(t + duration);
       spiralWhirr = { osc: osc };
