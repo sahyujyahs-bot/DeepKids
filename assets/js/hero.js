@@ -550,6 +550,7 @@
          own depth → its own landing line; nearer objects render in
          front. Per-object floors are enforced every tick. */
       let terrainEnvKey = null;
+      let dragMC = null, dragMouse = null;
       // Ridge height (screen y) of the surface art at screen x
       function ridgeYAt(x) {
         const prof = SURFACE_PROFILES[terrainEnvKey];
@@ -591,12 +592,27 @@
       // Per-tick enforcement of each object's own ground line
       Events.on(engine, 'afterUpdate', function() {
         if (!SURFACE_PROFILES[terrainEnvKey]) return;
+        // Dragging across the floor changes DEPTH: while the pointer is
+        // on the ground area, the grabbed object slides between lanes
+        // (front to back); lifting it into the sky keeps its lane.
+        if (dragMC && dragMC.body && dragMouse) {
+          const den = physEntries.find(e => e.body === dragMC.body);
+          if (den) {
+            const px = dragMouse.position;
+            const ridge = ridgeYAt(px.x);
+            if (ridge !== null && px.y > ridge + 16) {
+              const far = ridge + 12, near = H - 6;
+              den.depthFrac = Math.min(1, Math.max(0, (px.y - far) / (near - far)));
+            }
+          }
+        }
         physEntries.forEach(en => {
           if (en.depthFrac === undefined) en.depthFrac = Math.random();
           en.floorY = floorYFor(en);
           if (!en.floorY || en.body.isStatic) return;
           const b = en.body;
-          const halfH = (en.bh || en.dH) / 2;
+          const s = 0.55 + 0.45 * en.depthFrac;
+          const halfH = (en.bh || en.dH) * s / 2;
           const bottom = b.position.y + halfH;
           if (bottom > en.floorY && b.velocity.y > 0) {
             Body.setPosition(b, { x: b.position.x, y: en.floorY - halfH });
@@ -675,6 +691,7 @@
         cv.removeEventListener('touchmove', mouse.mousemove);
         cv.removeEventListener('touchstart', mouse.mousedown);
 
+        dragMouse = mouse;
         const mc = MouseConstraint.create(engine, {
           mouse,
           constraint: {
@@ -685,6 +702,7 @@
           },
         });
         World.add(world, mc);
+        dragMC = mc;
 
         /* ── Smart touch: drag cards OR scroll page (with momentum) ── */
         let touchLastY = 0;
@@ -857,14 +875,25 @@
           if (!imgCache[en.key]) return;
           const { position: p, angle: a } = en.body;
           const el = rainImgEls[en.key];
-          const ox = en.ox !== undefined ? en.ox : en.dW / 2;
-          const oy = en.oy !== undefined ? en.oy : en.dH / 2;
+          // 2.5D: scale + dim with distance (far = deeper in the scene)
+          const lanes = !!SURFACE_PROFILES[terrainEnvKey];
+          const s = (lanes && en.depthFrac !== undefined) ? (0.55 + 0.45 * en.depthFrac) : 1;
+          const ox = (en.ox !== undefined ? en.ox : en.dW / 2) * s;
+          const oy = (en.oy !== undefined ? en.oy : en.dH / 2) * s;
           if (el) {
             if (!el.src) el.src = en.mat ? en.mat.svg : EGAudio.url(CARDS[en.key].src);
             visibleRainEls.add(el);
             el.style.display = 'block';
-            el.style.width  = en.dW + 'px';
-            el.style.height = en.dH + 'px';
+            el.style.width  = (en.dW * s) + 'px';
+            el.style.height = (en.dH * s) + 'px';
+            if (lanes) {
+              const zi = String(2 + Math.round((en.depthFrac || 0) * 20));
+              if (el.style.zIndex !== zi) el.style.zIndex = zi;
+              const f = 'brightness(' + (0.76 + 0.24 * (en.depthFrac || 0)).toFixed(2) + ')';
+              if (en._f !== f) { el.style.filter = f; en._f = f; }
+            } else if (en._f) {
+              el.style.filter = ''; en._f = null; el.style.zIndex = '1';
+            }
             // Rotate about the artwork's center (the physics body),
             // not the padded file's center.
             el.style.transformOrigin = ox + 'px ' + oy + 'px';
@@ -872,7 +901,7 @@
               'translate(' + (p.x - ox) + 'px,' + (p.y - oy) + 'px) rotate(' + a + 'rad)';
 
             if (en.floorY) {
-              const halfH = (en.bh || en.dH) / 2;
+              const halfH = (en.bh || en.dH) * s / 2;
               const alt = Math.max(0, en.floorY - (p.y + halfH));
               if (alt < 420) {
                 const sh = getShadowEl(en);
@@ -881,15 +910,15 @@
                 const op = Math.max(0, 0.6 - alt / 300 * 0.52);
                 const spread = 1 + alt / 420 * 0.35;   // grows slightly when airborne
                 sh.style.display = 'block';
-                sh.style.width  = en.dW + 'px';
-                sh.style.height = en.dH + 'px';
+                sh.style.width  = (en.dW * s) + 'px';
+                sh.style.height = (en.dH * s) + 'px';
                 sh.style.opacity = op.toFixed(3);
                 sh.style.zIndex = String(Math.max(1, (parseInt(el.style.zIndex, 10) || 2) - 1));
                 sh.style.transformOrigin = ox + 'px ' + oy + 'px';
                 // Project the sprite onto the ground: squash vertically,
                 // keep its rotation, throw it left of the sun.
                 sh.style.transform =
-                  'translate(' + (p.x - ox - (en.bw || en.dW) * 0.12 - alt * 0.4) + 'px,' +
+                  'translate(' + (p.x - ox - (en.bw || en.dW) * s * 0.06 - alt * 0.4) + 'px,' +
                   (en.floorY - oy) + 'px) scale(' + spread + ',' + (0.22 * spread) + ') rotate(' + a + 'rad)';
               }
             }
