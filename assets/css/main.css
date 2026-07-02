@@ -4736,3 +4736,30 @@ html[data-env="moon"]  #env-tint { opacity: 1; background: radial-gradient(ellip
 html[data-env="mars"]  #env-tint { opacity: 1; background: radial-gradient(ellipse at 50% 0%, rgba(255,120,60,0.10), rgba(140,50,20,0.16)); }
 html[data-env="jupiter"] #env-tint { opacity: 1; background: radial-gradient(ellipse at 50% 20%, rgba(255,180,90,0.10), rgba(130,80,25,0.15)); }
 html[data-env="iss"]   #env-tint { opacity: 1; background: radial-gradient(ellipse at 50% 100%, rgba(80,140,220,0.12), rgba(10,20,60,0.18)); }
+
+/* ── Per-environment surface layer (hero) ──
+   Bottom-anchored terrain art inside the first viewport. Sits above
+   the star canvas, below the falling elements. Physics floor is the
+   viewport bottom, and each surface's ground runs to its bottom
+   edge, so objects visually land ON the terrain. */
+#env-surface {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 100vh;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+#env-surface img {
+  position: absolute;
+  bottom: 0; left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  min-width: 900px;      /* keeps terrain scale sane on phones */
+  max-width: none;
+  opacity: 0;
+  transition: opacity 1.2s ease;
+}
+html[data-env="moon"] #env-surface img[data-env="moon"] { opacity: 1; }
+/* On moon, ease off the flat tint — the real surface does the work */
+html[data-env="moon"] #env-tint { opacity: 0.45; }

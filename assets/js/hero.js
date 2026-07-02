@@ -65,8 +65,14 @@
                        a: Math.random()*.11+.04 });
       })();
 
+      // Canvas base color per environment (set in applyEnv)
+      const ENV_BG = {
+        earth: '#120826', moon: '#0b0b10', mars: '#170b06',
+        jupiter: '#150e06', iss: '#060810'
+      };
+      let envBg = ENV_BG.earth;
       function drawBackground() {
-        ctx.fillStyle = '#120826';
+        ctx.fillStyle = envBg;
         ctx.fillRect(0, 0, W, H);
 
         stars.forEach(s => {
@@ -486,6 +492,7 @@
         }
       }
       function applyEnv(env) {
+        envBg = ENV_BG[env.key] || ENV_BG.earth;
         engine.gravity.y = 4 * env.g;
         setCeiling(env.g < 0.05);
         physEntries.forEach(en => {
