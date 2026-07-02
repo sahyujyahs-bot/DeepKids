@@ -480,6 +480,58 @@
         });
       });
 
+      /* ── Terrain: physics ground traced from the surface art ──
+         Height profile extracted from the environment PNG's alpha
+         channel (fraction of image height, left→right). Rendered as
+         a chain of thin static segments matching the on-screen
+         position of the bottom-anchored image, so objects land on
+         the ridges and roll into the valleys of the visible art. */
+      const SURFACE_PROFILES = {
+        moon: {
+          aspect: 900 / 2800, minWidth: 900,
+          points: [0.533,0.533,0.533,0.537,0.537,0.537,0.533,0.529,0.526,0.522,0.522,0.522,0.518,0.515,0.515,0.518,0.526,0.529,0.537,0.54,0.544,0.54,0.537,0.533,0.533,0.533,0.533,0.533,0.533,0.533,0.533,0.537,0.54,0.548,0.552,0.563,0.571,0.582,0.585,0.589,0.589,0.593,0.596,0.604,0.611,0.622,0.629,0.629,0.629,0.633,0.64,0.648,0.656,0.66,0.66,0.652,0.648,0.644,0.64,0.637,0.633,0.626,0.618,0.611,0.615,0.618,0.626,0.633,0.644,0.656,0.667,0.674,0.678,0.678,0.682,0.685,0.689,0.689,0.693,0.696,0.7,0.696,0.693,0.689,0.689,0.685,0.678,0.667,0.66,0.652,0.648,0.648,0.652,0.66,0.667,0.671,0.667,0.66,0.656,0.652,0.648,0.64,0.637,0.629,0.626,0.622,0.622,0.618,0.611,0.604,0.596,0.593,0.585,0.582,0.578,0.578,0.578,0.582,0.589,0.596,0.6,0.596,0.593,0.589,0.589,0.585,0.582,0.574,0.571,0.567,0.567,0.567,0.571,0.574,0.574,0.574,0.578,0.589,0.6,0.611]
+        }
+      };
+      let terrainBodies = [];
+      let terrainEnvKey = null;
+      function buildTerrain(envKey) {
+        terrainEnvKey = envKey;
+        if (terrainBodies.length) {
+          World.remove(world, terrainBodies);
+          terrainBodies = [];
+        }
+        const prof = SURFACE_PROFILES[envKey];
+        if (!prof) return;
+        const imgW = Math.max(W, prof.minWidth);
+        const imgH = imgW * prof.aspect;
+        const left = (W - imgW) / 2;
+        const top  = H - imgH;
+        const pts  = prof.points;
+        const n    = pts.length;
+        for (let i = 0; i < n - 1; i++) {
+          const x1 = left + (i / (n - 1)) * imgW;
+          const x2 = left + ((i + 1) / (n - 1)) * imgW;
+          if (x2 < -60 || x1 > W + 60) continue;
+          const y1 = top + pts[i]     * imgH;
+          const y2 = top + pts[i + 1] * imgH;
+          const cx = (x1 + x2) / 2;
+          const cy = (y1 + y2) / 2 + 7;   // segment body centered just under the line
+          const len = Math.hypot(x2 - x1, y2 - y1) + 3;
+          const ang = Math.atan2(y2 - y1, x2 - x1);
+          terrainBodies.push(Bodies.rectangle(cx, cy, len, 14, {
+            isStatic: true, angle: ang, friction: 0.9, restitution: 0.12
+          }));
+        }
+        World.add(world, terrainBodies);
+        // Wake settled bodies so they drop onto the new ground
+        physEntries.forEach(en => {
+          if (!en.body.isStatic) {
+            Body.setVelocity(en.body, { x: en.body.velocity.x, y: en.body.velocity.y - 0.4 });
+          }
+        });
+      }
+      addEventListener('resize', () => buildTerrain(terrainEnvKey));
+
       /* ── Environment (gravity dial) hookup ─────────────────── */
       let ceiling = null;
       function setCeiling(on) {
@@ -494,6 +546,7 @@
       function applyEnv(env) {
         envBg = ENV_BG[env.key] || ENV_BG.earth;
         engine.gravity.y = 4 * env.g;
+        buildTerrain(env.key);
         setCeiling(env.g < 0.05);
         physEntries.forEach(en => {
           en.body.frictionAir = 0.0008 + (en.baseAir || 0.015) * env.air;
