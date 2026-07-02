@@ -492,44 +492,55 @@
           points: [0.533,0.533,0.533,0.537,0.537,0.537,0.533,0.529,0.526,0.522,0.522,0.522,0.518,0.515,0.515,0.518,0.526,0.529,0.537,0.54,0.544,0.54,0.537,0.533,0.533,0.533,0.533,0.533,0.533,0.533,0.533,0.537,0.54,0.548,0.552,0.563,0.571,0.582,0.585,0.589,0.589,0.593,0.596,0.604,0.611,0.622,0.629,0.629,0.629,0.633,0.64,0.648,0.656,0.66,0.66,0.652,0.648,0.644,0.64,0.637,0.633,0.626,0.618,0.611,0.615,0.618,0.626,0.633,0.644,0.656,0.667,0.674,0.678,0.678,0.682,0.685,0.689,0.689,0.693,0.696,0.7,0.696,0.693,0.689,0.689,0.685,0.678,0.667,0.66,0.652,0.648,0.648,0.652,0.66,0.667,0.671,0.671,0.663,0.66,0.652,0.648,0.64,0.637,0.629,0.626,0.622,0.622,0.618,0.611,0.604,0.596,0.593,0.585,0.582,0.578,0.578,0.578,0.582,0.589,0.596,0.6,0.596,0.593,0.589,0.589,0.585,0.582,0.574,0.571,0.567,0.567,0.567,0.571,0.574,0.574,0.574,0.578,0.589,0.6,0.611]
         }
       };
-      let terrainBodies = [];
+      /* The visible ridge is BACKGROUND scenery. Objects land on the
+         foreground GROUND PLANE in front of it — pseudo-3D: x runs
+         across the screen, "z" runs into the scene from the screen
+         bottom (near) to the ridge base (far). Each object gets its
+         own depth → its own landing line; nearer objects render in
+         front. Per-object floors are enforced every tick. */
       let terrainEnvKey = null;
-      function buildTerrain(envKey) {
-        terrainEnvKey = envKey;
-        if (terrainBodies.length) {
-          World.remove(world, terrainBodies);
-          terrainBodies = [];
-        }
+      function groundBandFor(envKey) {
         const prof = SURFACE_PROFILES[envKey];
-        if (!prof) return;
+        if (!prof) return null;
         const imgW = Math.max(W, prof.minWidth);
         const imgH = imgW * prof.aspect;
-        const left = (W - imgW) / 2;
         const top  = H - imgH;
-        const pts  = prof.points;
-        const n    = pts.length;
-        for (let i = 0; i < n - 1; i++) {
-          const x1 = left + (i / (n - 1)) * imgW;
-          const x2 = left + ((i + 1) / (n - 1)) * imgW;
-          if (x2 < -60 || x1 > W + 60) continue;
-          const y1 = top + pts[i]     * imgH;
-          const y2 = top + pts[i + 1] * imgH;
-          const cx = (x1 + x2) / 2;
-          const cy = (y1 + y2) / 2 + 7;   // segment body centered just under the line
-          const len = Math.hypot(x2 - x1, y2 - y1) + 3;
-          const ang = Math.atan2(y2 - y1, x2 - x1);
-          terrainBodies.push(Bodies.rectangle(cx, cy, len, 14, {
-            isStatic: true, angle: ang, friction: 0.9, restitution: 0.12
-          }));
-        }
-        World.add(world, terrainBodies);
-        // Wake settled bodies so they drop onto the new ground
+        return {
+          far:  top + 0.74 * imgH,             // just below the ridge base
+          near: Math.min(H - 8, top + 0.99 * imgH)
+        };
+      }
+      function buildTerrain(envKey) {
+        terrainEnvKey = envKey;
+        const band = groundBandFor(envKey);
         physEntries.forEach(en => {
+          if (en.depthFrac === undefined) en.depthFrac = Math.random();
+          en.floorY = band ? band.far + en.depthFrac * (band.near - band.far) : null;
+          const el = rainImgEls[en.key];
+          if (el) el.style.zIndex = en.floorY ? String(2 + Math.round(en.depthFrac * 20)) : '1';
+          // Wake settled bodies so they drop onto their new floor
           if (!en.body.isStatic) {
             Body.setVelocity(en.body, { x: en.body.velocity.x, y: en.body.velocity.y - 0.4 });
           }
         });
       }
+      // Per-tick enforcement of each object's own ground line
+      Events.on(engine, 'afterUpdate', function() {
+        physEntries.forEach(en => {
+          if (!en.floorY || en.body.isStatic) return;
+          const b = en.body;
+          const bottom = b.position.y + en.dH / 2;
+          if (bottom > en.floorY && b.velocity.y > 0) {
+            Body.setPosition(b, { x: b.position.x, y: en.floorY - en.dH / 2 });
+            const vy = b.velocity.y;
+            Body.setVelocity(b, {
+              x: b.velocity.x * 0.92,                        // ground friction
+              y: vy > 1.4 ? -vy * (b.restitution || 0.3) : 0 // bounce or rest
+            });
+            Body.setAngularVelocity(b, b.angularVelocity * 0.85);
+          }
+        });
+      });
       addEventListener('resize', () => buildTerrain(terrainEnvKey));
 
       /* ── Environment (gravity dial) hookup ─────────────────── */
