@@ -407,7 +407,7 @@ window.dataLayer = window.dataLayer || [];
           }
         };
         img.onerror = () => { loadedCount++; };
-        img.src     = CARDS[k].src;
+        img.src     = EGAudio.url(CARDS[k].src);
       });
 
       /* ── Rain state ─────────────────────────────────────────── */
@@ -713,7 +713,7 @@ window.dataLayer = window.dataLayer || [];
           const { position: p, angle: a } = en.body;
           const el = rainImgEls[en.key];
           if (el) {
-            if (!el.src) el.src = CARDS[en.key].src;
+            if (!el.src) el.src = EGAudio.url(CARDS[en.key].src);
             visibleRainEls.add(el);
             el.style.display = 'block';
             el.style.width  = en.dW + 'px';
