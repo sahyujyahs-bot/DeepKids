@@ -798,24 +798,57 @@
        (new Razorpay(...) on Pay Now), so it's safe to defer: it'll be
        ready long before a user can reach the payment button. -->
   <script src="https://checkout.razorpay.com/v1/checkout.js" defer></script>
-  <!-- Shared AudioContext singleton — one context for the whole page,
-       armed on first user gesture so every sound system benefits
-       rather than each section managing its own suspended context. -->
+  <!-- Shared AudioContext + HTMLAudio unlock — one context for the whole
+       page, kept running permanently so sounds never fail because of
+       auto-suspend races. HTMLAudio elements are primed on first gesture
+       so iOS Safari lets them play from any event handler. -->
   <script>
   (function(){
     var AC = window.AudioContext || window.webkitAudioContext;
-    if (!AC) return;
-    window._getAC = function() {
-      if (!window._sharedAC) window._sharedAC = new AC();
-      return window._sharedAC;
-    };
-    function arm() {
-      if (window._sharedAC && window._sharedAC.state === 'suspended') {
-        window._sharedAC.resume().catch(function(){});
+
+    /* ── Shared AudioContext ── */
+    if (AC) {
+      window._getAC = function() {
+        if (!window._sharedAC) {
+          window._sharedAC = new AC();
+          // Auto-resume if the browser suspends the context after silence
+          window._sharedAC.onstatechange = function() {
+            if (window._sharedAC.state === 'suspended') {
+              window._sharedAC.resume().catch(function(){});
+            }
+          };
+        }
+        return window._sharedAC;
+      };
+      function armAC() {
+        var ac = window._sharedAC;
+        if (ac && ac.state === 'suspended') ac.resume().catch(function(){});
       }
+      ['pointerdown','touchstart','keydown'].forEach(function(ev) {
+        document.addEventListener(ev, armAC, {passive: true, capture: true});
+      });
     }
-    ['pointerdown','touchstart','keydown'].forEach(function(ev) {
-      document.addEventListener(ev, arm, {passive: true, capture: true});
+
+    /* ── HTMLAudio element unlock (iOS / strict autoplay policy) ──
+       On first gesture, call play()+pause() on every registered audio
+       element so subsequent programmatic play() calls are allowed. */
+    window._htmlAudioElements = [];
+    window._registerAudio = function(el) {
+      window._htmlAudioElements.push(el);
+    };
+    var htmlUnlocked = false;
+    function unlockHTMLAudio() {
+      if (htmlUnlocked) return;
+      htmlUnlocked = true;
+      window._htmlAudioElements.forEach(function(el) {
+        try {
+          var p = el.play();
+          if (p && p.then) p.then(function(){ el.pause(); el.currentTime = 0; }).catch(function(){});
+        } catch(e){}
+      });
+    }
+    ['pointerdown','touchstart'].forEach(function(ev) {
+      document.addEventListener(ev, unlockHTMLAudio, {passive: true, capture: true, once: true});
     });
   })();
   </script>
@@ -1184,16 +1217,24 @@
       // subsequent rains play with sound because the user has interacted.
       function playSwoosh() {
         if (!swooshBuffer || !swooshCtx) return;
+        function _start() {
+          try {
+            var src = swooshCtx.createBufferSource();
+            src.buffer = swooshBuffer;
+            src.playbackRate.value = 0.9 + Math.random() * 0.2;
+            var gain = swooshCtx.createGain();
+            gain.gain.value = 0.35 + Math.random() * 0.15;
+            src.connect(gain);
+            gain.connect(swooshCtx.destination);
+            src.start();
+          } catch(e){}
+        }
         try {
-          if (swooshCtx.state === 'suspended') swooshCtx.resume();
-          var src = swooshCtx.createBufferSource();
-          src.buffer = swooshBuffer;
-          src.playbackRate.value = 0.9 + Math.random() * 0.2;
-          var gain = swooshCtx.createGain();
-          gain.gain.value = 0.35 + Math.random() * 0.15;
-          src.connect(gain);
-          gain.connect(swooshCtx.destination);
-          src.start();
+          if (swooshCtx.state === 'suspended') {
+            swooshCtx.resume().then(_start).catch(function(){});
+          } else {
+            _start();
+          }
         } catch(e){}
       }
 
@@ -3765,15 +3806,23 @@
 
   window.playBoxSound = function(buf, vol) {
     if (!buf || !boxAudioCtx) return;
+    function _start() {
+      try {
+        var src = boxAudioCtx.createBufferSource();
+        src.buffer = buf;
+        var gain = boxAudioCtx.createGain();
+        gain.gain.value = vol || 0.5;
+        src.connect(gain);
+        gain.connect(boxAudioCtx.destination);
+        src.start();
+      } catch(e) {}
+    }
     try {
-      if (boxAudioCtx.state === 'suspended') boxAudioCtx.resume();
-      var src = boxAudioCtx.createBufferSource();
-      src.buffer = buf;
-      var gain = boxAudioCtx.createGain();
-      gain.gain.value = vol || 0.5;
-      src.connect(gain);
-      gain.connect(boxAudioCtx.destination);
-      src.start();
+      if (boxAudioCtx.state === 'suspended') {
+        boxAudioCtx.resume().then(_start).catch(function(){});
+      } else {
+        _start();
+      }
     } catch(e) {}
   }
 
@@ -6202,6 +6251,9 @@
   var sndDiceRoll    = new Audio('dice roll sound2.wav');    sndDiceRoll.preload = 'auto';
   var sndTokenMove11 = new Audio('token move to tile 11.wav'); sndTokenMove11.preload = 'auto';
   var sndTokenDrop   = new Audio('token drops to tiles 7,3,2.wav'); sndTokenDrop.preload = 'auto';
+  [sndCardScroll, sndCardFlip, sndDiceRoll, sndTokenMove11, sndTokenDrop].forEach(function(s) {
+    if (window._registerAudio) window._registerAudio(s);
+  });
   function playSound(snd, vol) {
     try { snd.currentTime = 0; snd.volume = vol || 0.45; snd.play().catch(function(){}); } catch(e){}
   }
@@ -6209,6 +6261,7 @@
     try { snd.pause(); snd.currentTime = 0; } catch(e){}
   }
   var sndBallBounce  = new Audio('ball bounce.wav');         sndBallBounce.preload = 'auto';
+  if (window._registerAudio) window._registerAudio(sndBallBounce);
   // Expose sounds so the physical-challenges IIFE (pickCard,
   // initCardFan) and the Learning Full Circle section can use them.
   window.sndCardScroll = sndCardScroll;
@@ -6423,6 +6476,7 @@
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
   var spinSound = new Audio('spin sound.wav');
   spinSound.preload = 'auto';
+  if (window._registerAudio) window._registerAudio(spinSound);
   function playSpinSound() {
     try {
       spinSound.currentTime = 0;
@@ -9995,6 +10049,7 @@
      celebratory chime instead. */
   var btnClickSound = new Audio('button click sound.wav');
   btnClickSound.preload = 'auto';
+  if (window._registerAudio) window._registerAudio(btnClickSound);
 
   // Celebratory chime for CTA buttons (Web Audio — rising arpeggio)
   var ctaAudioCtx = null;
@@ -10277,20 +10332,28 @@
   var spinPlaying = false;
   function playSpinSound() {
     if (!spinSoundBuf || !spiralAc || spinPlaying) return;
+    spinPlaying = true;
+    function _start() {
+      try {
+        var src = spiralAc.createBufferSource();
+        src.buffer = spinSoundBuf;
+        var gain = spiralAc.createGain();
+        var t = spiralAc.currentTime;
+        gain.gain.setValueAtTime(0.3, t);
+        gain.gain.setValueAtTime(0.3, t + 0.7);
+        gain.gain.exponentialRampToValueAtTime(0.001, t + 1.0);
+        src.connect(gain);
+        gain.connect(spiralAc.destination);
+        src.start(0, 0, 1.0);
+        setTimeout(function() { spinPlaying = false; }, 1500);
+      } catch(e) { spinPlaying = false; }
+    }
     try {
-      if (spiralAc.state === 'suspended') spiralAc.resume();
-      spinPlaying = true;
-      var src = spiralAc.createBufferSource();
-      src.buffer = spinSoundBuf;
-      var gain = spiralAc.createGain();
-      var t = spiralAc.currentTime;
-      gain.gain.setValueAtTime(0.3, t);
-      gain.gain.setValueAtTime(0.3, t + 0.7);
-      gain.gain.exponentialRampToValueAtTime(0.001, t + 1.0);
-      src.connect(gain);
-      gain.connect(spiralAc.destination);
-      src.start(0, 0, 1.0);
-      setTimeout(function() { spinPlaying = false; }, 1500);
+      if (spiralAc.state === 'suspended') {
+        spiralAc.resume().then(_start).catch(function(){ spinPlaying = false; });
+      } else {
+        _start();
+      }
     } catch(e) { spinPlaying = false; }
   }
 

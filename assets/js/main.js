@@ -216,16 +216,24 @@
       // subsequent rains play with sound because the user has interacted.
       function playSwoosh() {
         if (!swooshBuffer || !swooshCtx) return;
+        function _start() {
+          try {
+            var src = swooshCtx.createBufferSource();
+            src.buffer = swooshBuffer;
+            src.playbackRate.value = 0.9 + Math.random() * 0.2;
+            var gain = swooshCtx.createGain();
+            gain.gain.value = 0.35 + Math.random() * 0.15;
+            src.connect(gain);
+            gain.connect(swooshCtx.destination);
+            src.start();
+          } catch(e){}
+        }
         try {
-          if (swooshCtx.state === 'suspended') swooshCtx.resume();
-          var src = swooshCtx.createBufferSource();
-          src.buffer = swooshBuffer;
-          src.playbackRate.value = 0.9 + Math.random() * 0.2;
-          var gain = swooshCtx.createGain();
-          gain.gain.value = 0.35 + Math.random() * 0.15;
-          src.connect(gain);
-          gain.connect(swooshCtx.destination);
-          src.start();
+          if (swooshCtx.state === 'suspended') {
+            swooshCtx.resume().then(_start).catch(function(){});
+          } else {
+            _start();
+          }
         } catch(e){}
       }
 
@@ -1362,15 +1370,23 @@
 
   window.playBoxSound = function(buf, vol) {
     if (!buf || !boxAudioCtx) return;
+    function _start() {
+      try {
+        var src = boxAudioCtx.createBufferSource();
+        src.buffer = buf;
+        var gain = boxAudioCtx.createGain();
+        gain.gain.value = vol || 0.5;
+        src.connect(gain);
+        gain.connect(boxAudioCtx.destination);
+        src.start();
+      } catch(e) {}
+    }
     try {
-      if (boxAudioCtx.state === 'suspended') boxAudioCtx.resume();
-      var src = boxAudioCtx.createBufferSource();
-      src.buffer = buf;
-      var gain = boxAudioCtx.createGain();
-      gain.gain.value = vol || 0.5;
-      src.connect(gain);
-      gain.connect(boxAudioCtx.destination);
-      src.start();
+      if (boxAudioCtx.state === 'suspended') {
+        boxAudioCtx.resume().then(_start).catch(function(){});
+      } else {
+        _start();
+      }
     } catch(e) {}
   }
 
@@ -4711,20 +4727,28 @@
   var spinPlaying = false;
   function playSpinSound() {
     if (!spinSoundBuf || !spiralAc || spinPlaying) return;
+    spinPlaying = true;
+    function _start() {
+      try {
+        var src = spiralAc.createBufferSource();
+        src.buffer = spinSoundBuf;
+        var gain = spiralAc.createGain();
+        var t = spiralAc.currentTime;
+        gain.gain.setValueAtTime(0.3, t);
+        gain.gain.setValueAtTime(0.3, t + 0.7);
+        gain.gain.exponentialRampToValueAtTime(0.001, t + 1.0);
+        src.connect(gain);
+        gain.connect(spiralAc.destination);
+        src.start(0, 0, 1.0);
+        setTimeout(function() { spinPlaying = false; }, 1500);
+      } catch(e) { spinPlaying = false; }
+    }
     try {
-      if (spiralAc.state === 'suspended') spiralAc.resume();
-      spinPlaying = true;
-      var src = spiralAc.createBufferSource();
-      src.buffer = spinSoundBuf;
-      var gain = spiralAc.createGain();
-      var t = spiralAc.currentTime;
-      gain.gain.setValueAtTime(0.3, t);
-      gain.gain.setValueAtTime(0.3, t + 0.7);
-      gain.gain.exponentialRampToValueAtTime(0.001, t + 1.0);
-      src.connect(gain);
-      gain.connect(spiralAc.destination);
-      src.start(0, 0, 1.0);
-      setTimeout(function() { spinPlaying = false; }, 1500);
+      if (spiralAc.state === 'suspended') {
+        spiralAc.resume().then(_start).catch(function(){ spinPlaying = false; });
+      } else {
+        _start();
+      }
     } catch(e) { spinPlaying = false; }
   }
 
