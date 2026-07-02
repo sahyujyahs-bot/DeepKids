@@ -1778,31 +1778,27 @@ document.querySelectorAll('.gv').forEach(function(v) {
 
 // ─────────────────────────────────────────────
 
-(function(){
-  var tabs = document.querySelectorAll('.s4b-tab');
+/* ── Simple tab systems (Examples s4b, Gravity Wells s6b) ────
+   One active tab shows the matching panel (#<prefix>-<data-tab>).
+   The How-to-Play (s2) tabs stay bespoke — they carry cleanup and
+   board-state logic that doesn't fit this pattern. */
+function initSimpleTabs(prefix) {
+  var tabs = document.querySelectorAll('.' + prefix + '-tab');
   tabs.forEach(function(tab) {
     tab.addEventListener('click', function() {
       tabs.forEach(function(t) { t.classList.remove('active'); });
       tab.classList.add('active');
-      document.querySelectorAll('.s4b-panel').forEach(function(p) { p.classList.remove('active'); });
-      document.getElementById('s4b-' + tab.getAttribute('data-tab')).classList.add('active');
+      document.querySelectorAll('.' + prefix + '-panel').forEach(function(p) { p.classList.remove('active'); });
+      document.getElementById(prefix + '-' + tab.getAttribute('data-tab')).classList.add('active');
     });
   });
-})();
+}
+initSimpleTabs('s4b');
 
 // ─────────────────────────────────────────────
 
 (function(){
-  // Tab switching
-  var tabs = document.querySelectorAll('.s6b-tab');
-  tabs.forEach(function(tab) {
-    tab.addEventListener('click', function() {
-      tabs.forEach(function(t) { t.classList.remove('active'); });
-      tab.classList.add('active');
-      document.querySelectorAll('.s6b-panel').forEach(function(p) { p.classList.remove('active'); });
-      document.getElementById('s6b-' + tab.getAttribute('data-tab')).classList.add('active');
-    });
-  });
+  initSimpleTabs('s6b');
 
   // Fan stack — click to swap front/back card
   var fan = document.getElementById('s6b-fan');
