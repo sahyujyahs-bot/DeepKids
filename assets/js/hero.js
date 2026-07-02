@@ -550,23 +550,36 @@
          own depth → its own landing line; nearer objects render in
          front. Per-object floors are enforced every tick. */
       let terrainEnvKey = null;
-      function groundBandFor(envKey) {
-        const prof = SURFACE_PROFILES[envKey];
+      // Ridge height (screen y) of the surface art at screen x
+      function ridgeYAt(x) {
+        const prof = SURFACE_PROFILES[terrainEnvKey];
         if (!prof) return null;
         const imgW = Math.max(W, prof.minWidth);
         const imgH = imgW * prof.aspect;
+        const left = (W - imgW) / 2;
         const top  = H - imgH;
-        return {
-          far:  top + 0.74 * imgH,             // just below the ridge base
-          near: Math.min(H - 8, top + 0.99 * imgH)
-        };
+        const pts  = prof.points;
+        const fi = Math.min(pts.length - 1, Math.max(0, (x - left) / imgW * (pts.length - 1)));
+        const i0 = Math.floor(fi), i1 = Math.min(pts.length - 1, i0 + 1);
+        const frac = fi - i0;
+        return top + (pts[i0] * (1 - frac) + pts[i1] * frac) * imgH;
+      }
+      // Each object's ground line follows the terrain: at its current x
+      // the farthest landing line sits just below the visible ridge, the
+      // nearest at the screen bottom; depthFrac picks its lane between.
+      function floorYFor(en) {
+        const ridge = ridgeYAt(en.body.position.x);
+        if (ridge === null) return null;
+        const far  = ridge + 12;
+        const near = H - 6;
+        return far + en.depthFrac * (near - far);
       }
       function buildTerrain(envKey) {
         terrainEnvKey = envKey;
-        const band = groundBandFor(envKey);
+        const hasSurface = !!SURFACE_PROFILES[envKey];
         physEntries.forEach(en => {
           if (en.depthFrac === undefined) en.depthFrac = Math.random();
-          en.floorY = band ? band.far + en.depthFrac * (band.near - band.far) : null;
+          en.floorY = hasSurface ? floorYFor(en) : null;
           const el = rainImgEls[en.key];
           if (el) el.style.zIndex = en.floorY ? String(2 + Math.round(en.depthFrac * 20)) : '1';
           // Wake settled bodies so they drop onto their new floor
@@ -577,7 +590,10 @@
       }
       // Per-tick enforcement of each object's own ground line
       Events.on(engine, 'afterUpdate', function() {
+        if (!SURFACE_PROFILES[terrainEnvKey]) return;
         physEntries.forEach(en => {
+          if (en.depthFrac === undefined) en.depthFrac = Math.random();
+          en.floorY = floorYFor(en);
           if (!en.floorY || en.body.isStatic) return;
           const b = en.body;
           const halfH = (en.bh || en.dH) / 2;
@@ -812,13 +828,15 @@
          of Earth in the surface art), so shadows sit on each object's
          own ground line, sliding LEFT and fading as the object rises. */
       const shadowEls = {};
-      function getShadowEl(key) {
-        let sh = shadowEls[key];
+      function getShadowEl(en) {
+        let sh = shadowEls[en.key];
         if (!sh) {
-          sh = document.createElement('div');
+          sh = document.createElement('img');
           sh.className = 'eg-ground-shadow';
+          sh.src = en.mat ? en.mat.svg : EGAudio.url(CARDS[en.key].src);
+          sh.alt = '';
           cv.parentElement.appendChild(sh);
-          shadowEls[key] = sh;
+          shadowEls[en.key] = sh;
         }
         return sh;
       }
@@ -850,20 +868,22 @@
               const halfH = (en.bh || en.dH) / 2;
               const alt = Math.max(0, en.floorY - (p.y + halfH));
               if (alt < 420) {
-                const sh = getShadowEl(en.key);
+                const sh = getShadowEl(en);
                 visibleShadows.add(sh);
-                const wBase = (en.bw || en.dW) * 0.95;
-                const w = wBase * (1 + alt / 420 * 0.55);
-                const h = Math.max(7, wBase * 0.24);
                 // Dark at contact (vacuum shadow), fades fast with height
-                const op = Math.max(0, 0.72 - alt / 300 * 0.62);
+                const op = Math.max(0, 0.6 - alt / 300 * 0.52);
+                const spread = 1 + alt / 420 * 0.35;   // grows slightly when airborne
                 sh.style.display = 'block';
-                sh.style.width  = w + 'px';
-                sh.style.height = h + 'px';
+                sh.style.width  = en.dW + 'px';
+                sh.style.height = en.dH + 'px';
                 sh.style.opacity = op.toFixed(3);
                 sh.style.zIndex = String(Math.max(1, (parseInt(el.style.zIndex, 10) || 2) - 1));
+                sh.style.transformOrigin = ox + 'px ' + oy + 'px';
+                // Project the sprite onto the ground: squash vertically,
+                // keep its rotation, throw it left of the sun.
                 sh.style.transform =
-                  'translate(' + (p.x - wBase * 0.14 - alt * 0.4) + 'px,' + en.floorY + 'px) translate(-50%,-50%)';
+                  'translate(' + (p.x - ox - (en.bw || en.dW) * 0.12 - alt * 0.4) + 'px,' +
+                  (en.floorY - oy) + 'px) scale(' + spread + ',' + (0.22 * spread) + ') rotate(' + a + 'rad)';
               }
             }
             return;
