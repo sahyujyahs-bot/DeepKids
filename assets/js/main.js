@@ -1368,13 +1368,12 @@ function egRevealOnce(els, className, threshold, staggerSec) {
 (function(){
   var cards = document.querySelectorAll('.ps-card');
   var reasons = document.querySelectorAll('.ps-reason');
-  function gPlay(buf, vol) { if (window.playBoxSound && buf) window.playBoxSound(buf, vol); }
-  function playClick() { gPlay(window._cardFlipBuf, 0.3); }
-  function playScroll() { gPlay(window._cardScrollBuf, 0.15); }
+  function playClick() { window.egFlipSound(0.3); }
+  function playScroll() { window.egScrollSound(0.15); }
 
   cards.forEach(function(c) {
     c.addEventListener('click', playClick);
-    c.addEventListener('mouseenter', function() { gPlay(window._cardScrollBuf, 0.1); });
+    c.addEventListener('mouseenter', function() { window.egScrollSound(0.1); });
   });
   reasons.forEach(function(r) {
     r.addEventListener('click', playClick);
@@ -1421,9 +1420,7 @@ function egRevealOnce(els, className, threshold, staggerSec) {
   cards.forEach(function(card) {
     card.addEventListener('click', function() {
       card.classList.toggle('flipped');
-      if (window.playBoxSound && window._cardFlipBuf) {
-        window.playBoxSound(window._cardFlipBuf, 0.4);
-      }
+      window.egFlipSound(0.4);
     });
   });
 
@@ -1434,7 +1431,7 @@ function egRevealOnce(els, className, threshold, staggerSec) {
   // Sound on hover
   cards.forEach(function(card) {
     card.addEventListener('mouseenter', function() {
-      if (window.playBoxSound && window._cardScrollBuf) window.playBoxSound(window._cardScrollBuf, 0.1);
+      window.egScrollSound(0.1);
     });
   });
 
@@ -1444,9 +1441,7 @@ function egRevealOnce(els, className, threshold, staggerSec) {
   if (grid) {
     grid.addEventListener('scroll', function() {
       if (!scrollTimer) {
-        if (window.playBoxSound && window._cardScrollBuf) {
-          window.playBoxSound(window._cardScrollBuf, 0.15);
-        }
+        window.egScrollSound(0.15);
         scrollTimer = setTimeout(function(){ scrollTimer = null; }, 400);
       }
       var sl = grid.scrollLeft;
@@ -1587,6 +1582,13 @@ function egRevealOnce(els, className, threshold, staggerSec) {
 
   window.playBoxSound = function(buf, vol) {
     EGAudio.playBuffer(buf, { vol: vol || 0.5 });
+  }
+  // Site-wide card interaction sounds (used by many sections)
+  window.egFlipSound = function(vol) {
+    if (window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, vol || 0.3);
+  }
+  window.egScrollSound = function(vol) {
+    if (window._cardScrollBuf) window.playBoxSound(window._cardScrollBuf, vol || 0.15);
   }
 
   /* ── Flip cards ──────────────────────────────────────── */
@@ -4511,14 +4513,10 @@ initSimpleTabs('s4b');
   // Sound on hover/touch
   pins.forEach(function(pin) {
     pin.addEventListener('mouseenter', function() {
-      if (window.playBoxSound && window._cardScrollBuf) {
-        window.playBoxSound(window._cardScrollBuf, 0.1);
-      }
+      window.egScrollSound(0.1);
     });
     pin.addEventListener('click', function() {
-      if (window.playBoxSound && window._cardFlipBuf) {
-        window.playBoxSound(window._cardFlipBuf, 0.3);
-      }
+      window.egFlipSound(0.3);
     });
   });
 })();
@@ -5408,7 +5406,7 @@ initSimpleTabs('s4b');
   // ── Click pill to show info ──
   var pillClicked = false;
   pill.addEventListener('click', function() {
-    if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.35);
+    window.egFlipSound(0.35);
     pillClicked = true;
     var discount = points > 0 ? ' That\'s <em>₹' + points + ' off</em> when we launch!' : '';
     showToast('<em>Gravity Points</em> — earn points by exploring the site. Every point = ₹1 discount on EscapeGravity.' + discount + '<span class="gp-close" onclick="this.parentElement.classList.remove(\'show\')">✕</span>', 8000);
@@ -5479,7 +5477,7 @@ initSimpleTabs('s4b');
       apple.style.right = (window.innerWidth - nRect.left - nRect.width * 0.4) + 'px';
       apple.style.opacity = '0.9';
       newton.classList.add('bonked');
-      if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, 0.4);
+      window.egFlipSound(0.4);
       if (typeof window.awardGP === 'function') window.awardGP('newton_hit', 10);
       requestAnimationFrame(doBounce);
     }
@@ -5559,10 +5557,10 @@ initSimpleTabs('s4b');
   update();
 
   function playSound(vol) {
-    if (window.playBoxSound && window._cardFlipBuf) window.playBoxSound(window._cardFlipBuf, vol || 0.3);
+    window.egFlipSound(vol || 0.3);
   }
   function playScrollSound(vol) {
-    if (window.playBoxSound && window._cardScrollBuf) window.playBoxSound(window._cardScrollBuf, vol || 0.15);
+    window.egScrollSound(vol || 0.15);
   }
 
   // Open panel
