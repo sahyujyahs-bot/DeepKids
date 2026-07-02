@@ -411,6 +411,21 @@
         const img = new Image();
         img.src = MATERIALS[k].svg;
         img.onload = () => { imgCache['mat_' + k] = img; };
+        // Materials render as DOM images (like the rain cards) so they
+        // sit ABOVE the environment surface art, not on the star canvas
+        // behind it.
+        const el = document.createElement('img');
+        el.src = MATERIALS[k].svg;
+        el.alt = '';
+        el.style.position = 'absolute';
+        el.style.left = '0';
+        el.style.top = '0';
+        el.style.zIndex = '1';
+        el.style.pointerEvents = 'none';
+        el.style.display = 'none';
+        el.style.willChange = 'transform';
+        cv.parentElement.appendChild(el);
+        rainImgEls['mat_' + k] = el;
       });
 
       function currentAir() {
@@ -756,22 +771,57 @@
       }
 
       /* ── Draw physics bodies (with rotation) ────────────────── */
+      /* Ground shadows — light source is top-RIGHT (see the lit side
+         of Earth in the surface art), so shadows sit on each object's
+         own ground line, sliding LEFT and fading as the object rises. */
+      const shadowEls = {};
+      function getShadowEl(key) {
+        let sh = shadowEls[key];
+        if (!sh) {
+          sh = document.createElement('div');
+          sh.className = 'eg-ground-shadow';
+          cv.parentElement.appendChild(sh);
+          shadowEls[key] = sh;
+        }
+        return sh;
+      }
+
       function drawPhysics() {
         ctx.imageSmoothingEnabled = true;
         if ('imageSmoothingQuality' in ctx) ctx.imageSmoothingQuality = 'high';
         const visibleRainEls = new Set();
+        const visibleShadows = new Set();
         physEntries.forEach(en => {
           if (!imgCache[en.key]) return;
           const { position: p, angle: a } = en.body;
           const el = rainImgEls[en.key];
           if (el) {
-            if (!el.src) el.src = EGAudio.url(CARDS[en.key].src);
+            if (!el.src) el.src = en.mat ? en.mat.svg : EGAudio.url(CARDS[en.key].src);
             visibleRainEls.add(el);
             el.style.display = 'block';
             el.style.width  = en.dW + 'px';
             el.style.height = en.dH + 'px';
             el.style.transform =
               'translate(' + p.x + 'px,' + p.y + 'px) translate(-50%,-50%) rotate(' + a + 'rad)';
+
+            if (en.floorY) {
+              const alt = Math.max(0, en.floorY - (p.y + en.dH / 2));
+              if (alt < 420) {
+                const sh = getShadowEl(en.key);
+                visibleShadows.add(sh);
+                const wBase = en.dW * 0.85;
+                const w = wBase * (1 + alt / 420 * 0.7);
+                const h = Math.max(6, wBase * 0.22);
+                const op = Math.max(0, 0.42 - alt / 420 * 0.36);
+                sh.style.display = 'block';
+                sh.style.width  = w + 'px';
+                sh.style.height = h + 'px';
+                sh.style.opacity = op.toFixed(3);
+                sh.style.zIndex = String(Math.max(1, (parseInt(el.style.zIndex, 10) || 2) - 1));
+                sh.style.transform =
+                  'translate(' + (p.x - alt * 0.35) + 'px,' + en.floorY + 'px) translate(-50%,-50%)';
+              }
+            }
             return;
           }
           ctx.save();
@@ -782,6 +832,9 @@
         });
         Object.values(rainImgEls).forEach(el => {
           if (!visibleRainEls.has(el)) el.style.display = 'none';
+        });
+        Object.values(shadowEls).forEach(sh => {
+          if (!visibleShadows.has(sh)) sh.style.display = 'none';
         });
       }
 

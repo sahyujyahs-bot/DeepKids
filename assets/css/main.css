@@ -4763,3 +4763,15 @@ html[data-env="iss"]   #env-tint { opacity: 1; background: radial-gradient(ellip
 html[data-env="moon"] #env-surface img[data-env="moon"] { opacity: 1; }
 /* On moon, ease off the flat tint — the real surface does the work */
 html[data-env="moon"] #env-tint { opacity: 0.45; }
+
+/* Soft ground-contact shadow under falling objects (surface envs) */
+.eg-ground-shadow {
+  position: absolute;
+  top: 0; left: 0;
+  pointer-events: none;
+  border-radius: 50%;
+  background: radial-gradient(ellipse at center, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.35) 45%, transparent 72%);
+  filter: blur(2px);
+  will-change: transform, opacity;
+  display: none;
+}
