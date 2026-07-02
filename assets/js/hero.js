@@ -228,11 +228,39 @@
       let heroSpawnTimer = setTimeout(() => {
         if (!window._heroSpawned) { window._heroSpawned = true; spawnAll(); }
       }, 1800);
+      /* Tight opaque bounding box of an image (fractions 0..1).
+         The illustrations carry big transparent margins; physics
+         bodies use this box so objects touch the ground where the
+         ART is, not where the file's padding ends. */
+      const BBOX = {};
+      function computeBBox(img) {
+        try {
+          const S = 48;
+          const c = document.createElement('canvas');
+          c.width = S; c.height = S;
+          const cx = c.getContext('2d', { willReadFrequently: true });
+          cx.drawImage(img, 0, 0, S, S);
+          const d = cx.getImageData(0, 0, S, S).data;
+          let x0 = S, y0 = S, x1 = 0, y1 = 0;
+          for (let y = 0; y < S; y++) {
+            for (let x = 0; x < S; x++) {
+              if (d[(y * S + x) * 4 + 3] > 24) {
+                if (x < x0) x0 = x; if (x > x1) x1 = x;
+                if (y < y0) y0 = y; if (y > y1) y1 = y;
+              }
+            }
+          }
+          if (x1 <= x0 || y1 <= y0) return null;
+          return { x0: x0 / S, y0: y0 / S, x1: (x1 + 1) / S, y1: (y1 + 1) / S };
+        } catch (e) { return null; }
+      }
+
       ALL_KEYS.forEach(k => {
         if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
         const img   = new Image();
         img.onload  = () => {
           imgCache[k] = img;
+          BBOX[k] = computeBBox(img);
           loadedCount++;
           if (RAIN_KEYS.indexOf(k) !== -1) rainLoadedCount++;
           // Start the rain once every rain image is ready.
@@ -312,14 +340,18 @@
           const y   = -dH/2 - 30;
 
           const baseAir = 0.012 + Math.random() * 0.018;
-          const body = Bodies.rectangle(x, y, dW, dH, {
+          const bb = BBOX[key] || { x0: 0, y0: 0, x1: 1, y1: 1 };
+          const bw = Math.max(14, dW * (bb.x1 - bb.x0));
+          const bh = Math.max(14, dH * (bb.y1 - bb.y0));
+          const body = Bodies.rectangle(x, y, bw, bh, {
             isStatic:    true,
             frictionAir: baseAir,
             restitution: 0.30  + Math.random() * 0.30,
             friction:    0.55  + Math.random() * 0.30,
           });
           World.add(world, body);
-          physEntries.push({ body, key, dW, dH, baseAir });
+          physEntries.push({ body, key, dW, dH, baseAir, bw, bh,
+            ox: dW * (bb.x0 + bb.x1) / 2, oy: dH * (bb.y0 + bb.y1) / 2 });
 
           /* Staggered raindrop release — first card drops at t=0 so
              the viewer sees motion the instant spawn fires. Row 0
@@ -360,7 +392,10 @@
         var dH = Math.round(slotW * sizeMult * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
         var y = -dH/2 - 30;
-        var body = Bodies.rectangle(x, y, dW, dH, {
+        var bb = BBOX[key] || { x0: 0, y0: 0, x1: 1, y1: 1 };
+        var bw = Math.max(14, dW * (bb.x1 - bb.x0));
+        var bh = Math.max(14, dH * (bb.y1 - bb.y0));
+        var body = Bodies.rectangle(x, y, bw, bh, {
           isStatic: false,
           frictionAir: 0.012 + Math.random() * 0.018,
           restitution: 0.30 + Math.random() * 0.30,
@@ -368,7 +403,8 @@
         });
         Body.setAngularVelocity(body, (Math.random() - .5) * .35);
         World.add(world, body);
-        physEntries.push({ body: body, key: key, dW: dW, dH: dH, baseAir: body.frictionAir });
+        physEntries.push({ body: body, key: key, dW: dW, dH: dH, baseAir: body.frictionAir, bw: bw, bh: bh,
+          ox: dW * (bb.x0 + bb.x1) / 2, oy: dH * (bb.y0 + bb.y1) / 2 });
         playSwoosh();
       };
 
@@ -544,9 +580,10 @@
         physEntries.forEach(en => {
           if (!en.floorY || en.body.isStatic) return;
           const b = en.body;
-          const bottom = b.position.y + en.dH / 2;
+          const halfH = (en.bh || en.dH) / 2;
+          const bottom = b.position.y + halfH;
           if (bottom > en.floorY && b.velocity.y > 0) {
-            Body.setPosition(b, { x: b.position.x, y: en.floorY - en.dH / 2 });
+            Body.setPosition(b, { x: b.position.x, y: en.floorY - halfH });
             const vy = b.velocity.y;
             Body.setVelocity(b, {
               x: b.velocity.x * 0.92,                        // ground friction
@@ -795,24 +832,30 @@
           if (!imgCache[en.key]) return;
           const { position: p, angle: a } = en.body;
           const el = rainImgEls[en.key];
+          const ox = en.ox !== undefined ? en.ox : en.dW / 2;
+          const oy = en.oy !== undefined ? en.oy : en.dH / 2;
           if (el) {
             if (!el.src) el.src = en.mat ? en.mat.svg : EGAudio.url(CARDS[en.key].src);
             visibleRainEls.add(el);
             el.style.display = 'block';
             el.style.width  = en.dW + 'px';
             el.style.height = en.dH + 'px';
+            // Rotate about the artwork's center (the physics body),
+            // not the padded file's center.
+            el.style.transformOrigin = ox + 'px ' + oy + 'px';
             el.style.transform =
-              'translate(' + p.x + 'px,' + p.y + 'px) translate(-50%,-50%) rotate(' + a + 'rad)';
+              'translate(' + (p.x - ox) + 'px,' + (p.y - oy) + 'px) rotate(' + a + 'rad)';
 
             if (en.floorY) {
-              const alt = Math.max(0, en.floorY - (p.y + en.dH / 2));
+              const halfH = (en.bh || en.dH) / 2;
+              const alt = Math.max(0, en.floorY - (p.y + halfH));
               if (alt < 420) {
                 const sh = getShadowEl(en.key);
                 visibleShadows.add(sh);
-                const wBase = en.dW * 0.85;
+                const wBase = (en.bw || en.dW) * 0.9;
                 const w = wBase * (1 + alt / 420 * 0.7);
                 const h = Math.max(6, wBase * 0.22);
-                const op = Math.max(0, 0.42 - alt / 420 * 0.36);
+                const op = Math.max(0, 0.46 - alt / 420 * 0.4);
                 sh.style.display = 'block';
                 sh.style.width  = w + 'px';
                 sh.style.height = h + 'px';
@@ -827,7 +870,7 @@
           ctx.save();
           ctx.translate(p.x, p.y);
           ctx.rotate(a);
-          ctx.drawImage(imgCache[en.key], -en.dW/2, -en.dH/2, en.dW, en.dH);
+          ctx.drawImage(imgCache[en.key], -ox, -oy, en.dW, en.dH);
           ctx.restore();
         });
         Object.values(rainImgEls).forEach(el => {
