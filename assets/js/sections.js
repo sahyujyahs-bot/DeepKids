@@ -212,8 +212,8 @@
   window._cardScrollBuf = null;
   var cardFlipBuf = null;
   var cardScrollBuf = null;
-  EGAudio.loadBuffer('cardflip sound.wav', function(b) { window._cardFlipBuf = b; cardFlipBuf = b; });
-  EGAudio.loadBuffer('cardsscrollsound.wav', function(b) { window._cardScrollBuf = b; cardScrollBuf = b; });
+  EGAudio.loadBuffer('cardflip sound.mp3', function(b) { window._cardFlipBuf = b; cardFlipBuf = b; });
+  EGAudio.loadBuffer('cardsscrollsound.mp3', function(b) { window._cardScrollBuf = b; cardScrollBuf = b; });
 
   window.playBoxSound = function(buf, vol) {
     EGAudio.playBuffer(buf, { vol: vol || 0.5 });

@@ -1161,7 +1161,7 @@
         try {
           swooshCtx = window._getAC();
           var xhr = new XMLHttpRequest();
-          xhr.open('GET', 'single Swoosh sound.wav', true);
+          xhr.open('GET', 'single Swoosh sound.mp3', true);
           xhr.responseType = 'arraybuffer';
           xhr.onload = function() {
             if (xhr.status === 200) {
@@ -1915,6 +1915,15 @@
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
       leadEmailSent = false;
+      // Funnel: fires once per modal-open when the user starts typing
+      if (modal && !modal._formStartArmed) {
+        modal._formStartArmed = true;
+        modal.addEventListener('input', function onFirstInput() {
+          modal.removeEventListener('input', onFirstInput);
+          if (typeof gtag === 'function') gtag('event', 'preorder_form_started', { event_category: 'funnel' });
+          if (typeof fbq === 'function') fbq('trackCustom', 'PreOrderFormStarted');
+        });
+      }
       // Event: user opened pre-order modal
       if (typeof gtag === 'function') gtag('event', 'open_preorder', { event_category: 'engagement' });
       if (typeof fbq === 'function') fbq('track', 'InitiateCheckout');
@@ -1927,6 +1936,7 @@
       var name = (document.getElementById('po-name') || {}).value || '';
       var phone = (document.getElementById('po-phone') || {}).value || '';
       var cc = (document.getElementById('po-cc') || {}).value || '+91';
+      if (typeof gtag === 'function') gtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: (name.trim() || phone.trim()) ? 'with_details' : 'empty' });
       if (!leadEmailSent && (name.trim() || phone.trim())) {
         var digits = phone.replace(/\D/g, '');
         var fullNumber = digits ? (cc.startsWith('+') ? cc : '+' + cc) + digits : '';
@@ -2126,6 +2136,8 @@
         },
         modal: {
           ondismiss: function() {
+            if (typeof gtag === 'function') gtag('event', 'payment_cancelled', { event_category: 'funnel' });
+            if (typeof fbq === 'function') fbq('trackCustom', 'PaymentCancelled');
             if (leadEmailSent) return;
             leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
@@ -2138,6 +2150,8 @@
       };
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
+        if (typeof gtag === 'function') gtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });
+        if (typeof fbq === 'function') fbq('trackCustom', 'PaymentFailed');
         leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
         sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
@@ -3801,8 +3815,8 @@
     };
     xhr.send();
   }
-  loadBoxSound('cardflip sound.wav', function(b) { window._cardFlipBuf = b; cardFlipBuf = b; });
-  loadBoxSound('cardsscrollsound.wav', function(b) { window._cardScrollBuf = b; cardScrollBuf = b; });
+  loadBoxSound('cardflip sound.mp3', function(b) { window._cardFlipBuf = b; cardFlipBuf = b; });
+  loadBoxSound('cardsscrollsound.mp3', function(b) { window._cardScrollBuf = b; cardScrollBuf = b; });
 
   window.playBoxSound = function(buf, vol) {
     if (!buf || !boxAudioCtx) return;
@@ -6246,11 +6260,11 @@
   const tokRed  = document.getElementById('s2-tok-red');
 
   /* ── How To Play sound effects (file-based) ──────────────── */
-  var sndCardScroll  = new Audio('cardsscrollsound.wav');  sndCardScroll.preload = 'auto';
-  var sndCardFlip    = new Audio('cardflip sound.wav');     sndCardFlip.preload = 'auto';
-  var sndDiceRoll    = new Audio('dice roll sound2.wav');    sndDiceRoll.preload = 'auto';
-  var sndTokenMove11 = new Audio('token move to tile 11.wav'); sndTokenMove11.preload = 'auto';
-  var sndTokenDrop   = new Audio('token drops to tiles 7,3,2.wav'); sndTokenDrop.preload = 'auto';
+  var sndCardScroll  = new Audio('cardsscrollsound.mp3');  sndCardScroll.preload = 'auto';
+  var sndCardFlip    = new Audio('cardflip sound.mp3');     sndCardFlip.preload = 'auto';
+  var sndDiceRoll    = new Audio('dice roll sound2.mp3');    sndDiceRoll.preload = 'auto';
+  var sndTokenMove11 = new Audio('token move to tile 11.mp3'); sndTokenMove11.preload = 'auto';
+  var sndTokenDrop   = new Audio('token drops to tiles 7,3,2.mp3'); sndTokenDrop.preload = 'auto';
   [sndCardScroll, sndCardFlip, sndDiceRoll, sndTokenMove11, sndTokenDrop].forEach(function(s) {
     if (window._registerAudio) window._registerAudio(s);
   });
@@ -6260,7 +6274,7 @@
   function stopSound(snd) {
     try { snd.pause(); snd.currentTime = 0; } catch(e){}
   }
-  var sndBallBounce  = new Audio('ball bounce.wav');         sndBallBounce.preload = 'auto';
+  var sndBallBounce  = new Audio('ball bounce.mp3');         sndBallBounce.preload = 'auto';
   if (window._registerAudio) window._registerAudio(sndBallBounce);
   // Expose sounds so the physical-challenges IIFE (pickCard,
   // initCardFan) and the Learning Full Circle section can use them.
@@ -6474,7 +6488,7 @@
 
   /* ── Start zoom animation ───────────────────────────────── */
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
-  var spinSound = new Audio('spin sound.wav');
+  var spinSound = new Audio('spin sound.mp3');
   spinSound.preload = 'auto';
   if (window._registerAudio) window._registerAudio(spinSound);
   function playSpinSound() {
@@ -10047,7 +10061,7 @@
      Regular click sound for tabs, arrows, quiz buttons, etc.
      CTA buttons (Pre-Order, Sign Up, Count Me In) get a special
      celebratory chime instead. */
-  var btnClickSound = new Audio('button click sound.wav');
+  var btnClickSound = new Audio('button click sound.mp3');
   btnClickSound.preload = 'auto';
   if (window._registerAudio) window._registerAudio(btnClickSound);
 
@@ -10317,7 +10331,7 @@
   // Preload spin sound.wav for scroll turns
   (function() {
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'spin sound.wav', true);
+    xhr.open('GET', 'spin sound.mp3', true);
     xhr.responseType = 'arraybuffer';
     xhr.onload = function() {
       if (xhr.status === 200) {

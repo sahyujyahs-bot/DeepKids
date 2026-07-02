@@ -44,12 +44,12 @@
   const tokRed  = document.getElementById('s2-tok-red');
 
   /* ── How To Play sound effects (file-based) ──────────────── */
-  var sndCardScroll  = EGAudio.el('cardsscrollsound.wav');
-  var sndCardFlip    = EGAudio.el('cardflip sound.wav');
-  var sndDiceRoll    = EGAudio.el('dice roll sound2.wav');
-  var sndTokenMove11 = EGAudio.el('token move to tile 11.wav');
-  var sndTokenDrop   = EGAudio.el('token drops to tiles 7,3,2.wav');
-  var sndBallBounce  = EGAudio.el('ball bounce.wav');
+  var sndCardScroll  = EGAudio.el('cardsscrollsound.mp3');
+  var sndCardFlip    = EGAudio.el('cardflip sound.mp3');
+  var sndDiceRoll    = EGAudio.el('dice roll sound2.mp3');
+  var sndTokenMove11 = EGAudio.el('token move to tile 11.mp3');
+  var sndTokenDrop   = EGAudio.el('token drops to tiles 7,3,2.mp3');
+  var sndBallBounce  = EGAudio.el('ball bounce.mp3');
   var playSound = EGAudio.playEl;
   var stopSound = EGAudio.stopEl;
   // Expose sounds so the physical-challenges IIFE (pickCard,
@@ -264,7 +264,7 @@
 
   /* ── Start zoom animation ───────────────────────────────── */
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
-  var spinSound = EGAudio.el('spin sound.wav');
+  var spinSound = EGAudio.el('spin sound.mp3');
   function playSpinSound() { EGAudio.playEl(spinSound, 0.45); }
   function stopSpinSound() { EGAudio.stopEl(spinSound); }
 

@@ -5,7 +5,7 @@
      Regular click sound for tabs, arrows, quiz buttons, etc.
      CTA buttons (Pre-Order, Sign Up, Count Me In) get a special
      celebratory chime instead. */
-  var btnClickSound = EGAudio.el('button click sound.wav');
+  var btnClickSound = EGAudio.el('button click sound.mp3');
 
   // Celebratory chime for CTA buttons (Web Audio — rising arpeggio)
   function playCtaChime() {
@@ -255,7 +255,7 @@
   // context directly rather than going through EGAudio.playBuffer.
   var spiralWhirr = null;
   var spinSoundBuf = null;
-  EGAudio.loadBuffer('spin sound.wav', function(buf) { spinSoundBuf = buf; });
+  EGAudio.loadBuffer('spin sound.mp3', function(buf) { spinSoundBuf = buf; });
 
   // Play spin sound.wav (scroll turns) — only first 1s, with fade
   var spinPlaying = false;

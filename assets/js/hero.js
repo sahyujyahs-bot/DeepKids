@@ -136,7 +136,7 @@
          playback after a user gesture. */
       let swooshBuffer = null;
       try {
-        EGAudio.loadBuffer('single Swoosh sound.wav', function(buf) { swooshBuffer = buf; });
+        EGAudio.loadBuffer('single Swoosh sound.mp3', function(buf) { swooshBuffer = buf; });
       } catch(e) {}
       // Arm on the FIRST user gesture (touchstart fires before the
       // scroll actually happens, so we catch the intent early):
@@ -864,6 +864,15 @@
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
       leadEmailSent = false;
+      // Funnel: fires once per modal-open when the user starts typing
+      if (modal && !modal._formStartArmed) {
+        modal._formStartArmed = true;
+        modal.addEventListener('input', function onFirstInput() {
+          modal.removeEventListener('input', onFirstInput);
+          if (typeof gtag === 'function') gtag('event', 'preorder_form_started', { event_category: 'funnel' });
+          if (typeof fbq === 'function') fbq('trackCustom', 'PreOrderFormStarted');
+        });
+      }
       // Event: user opened pre-order modal
       if (typeof gtag === 'function') gtag('event', 'open_preorder', { event_category: 'engagement' });
       if (typeof fbq === 'function') fbq('track', 'InitiateCheckout');
@@ -876,6 +885,7 @@
       var name = (document.getElementById('po-name') || {}).value || '';
       var phone = (document.getElementById('po-phone') || {}).value || '';
       var cc = (document.getElementById('po-cc') || {}).value || '+91';
+      if (typeof gtag === 'function') gtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: (name.trim() || phone.trim()) ? 'with_details' : 'empty' });
       if (!leadEmailSent && (name.trim() || phone.trim())) {
         var digits = phone.replace(/\D/g, '');
         var fullNumber = digits ? (cc.startsWith('+') ? cc : '+' + cc) + digits : '';
@@ -1075,6 +1085,8 @@
         },
         modal: {
           ondismiss: function() {
+            if (typeof gtag === 'function') gtag('event', 'payment_cancelled', { event_category: 'funnel' });
+            if (typeof fbq === 'function') fbq('trackCustom', 'PaymentCancelled');
             if (leadEmailSent) return;
             leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
@@ -1087,6 +1099,8 @@
       };
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
+        if (typeof gtag === 'function') gtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });
+        if (typeof fbq === 'function') fbq('trackCustom', 'PaymentFailed');
         leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
         sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
