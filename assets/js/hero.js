@@ -305,14 +305,15 @@
           const x   = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
           const y   = -dH/2 - 30;
 
+          const baseAir = 0.012 + Math.random() * 0.018;
           const body = Bodies.rectangle(x, y, dW, dH, {
             isStatic:    true,
-            frictionAir: 0.012 + Math.random() * 0.018,
+            frictionAir: baseAir,
             restitution: 0.30  + Math.random() * 0.30,
             friction:    0.55  + Math.random() * 0.30,
           });
           World.add(world, body);
-          physEntries.push({ body, key, dW, dH });
+          physEntries.push({ body, key, dW, dH, baseAir });
 
           /* Staggered raindrop release — first card drops at t=0 so
              the viewer sees motion the instant spawn fires. Row 0
@@ -331,6 +332,9 @@
             playSwoosh();
           }, delay));
         });
+
+        spawnMaterials();
+        if (window.EGGravity) applyEnv(EGGravity.get());
       }
 
       /* Late-drop: when a card image loads after the initial rain
@@ -358,9 +362,152 @@
         });
         Body.setAngularVelocity(body, (Math.random() - .5) * .35);
         World.add(world, body);
-        physEntries.push({ body: body, key: key, dW: dW, dH: dH });
+        physEntries.push({ body: body, key: key, dW: dW, dH: dH, baseAir: body.frictionAir });
         playSwoosh();
       };
+
+      /* ═════════════ Material objects — real gravity behaviors ═════════
+         Five objects with honest physics: the apple falls and bounces,
+         the rocket thuds, the feather flutters (drag), the paper sways,
+         the balloon rises (buoyancy). All of it is driven by the
+         environment's g and air values from EGGravity — on the Moon the
+         feather drops like a stone and the balloon has nothing to float
+         in. Flat-vector SVG art, no image files needed. */
+      function svgURI(s) { return 'data:image/svg+xml;utf8,' + encodeURIComponent(s); }
+      const MATERIALS = {
+        apple: {
+          w: 42, h: 46, shape: 'circle',
+          density: 0.0020, rest: 0.45, fric: 0.4, airBase: 0.006,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 46"><path d="M21 10 C21 6 23 3 26 2" stroke="#6d4326" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M26 6 C31 2 36 4 37 8 C33 11 27 10 26 6Z" fill="#7fb069"/><path d="M21 9 C10 9 4 18 5 27 C6 37 13 44 21 44 C29 44 36 37 37 27 C38 18 32 9 21 9Z" fill="#d94f3d"/><ellipse cx="14" cy="21" rx="4.5" ry="6" fill="#ffffff" opacity="0.25" transform="rotate(-20 14 21)"/></svg>')
+        },
+        rocket: {
+          w: 30, h: 62, shape: 'rect',
+          density: 0.0060, rest: 0.06, fric: 0.8, airBase: 0.003,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 62"><path d="M15 1 C21 8 24 16 24 27 L24 46 L6 46 L6 27 C6 16 9 8 15 1Z" fill="#e8e4f0"/><path d="M6 38 L1 52 L6 49Z" fill="#aa59c8"/><path d="M24 38 L29 52 L24 49Z" fill="#aa59c8"/><rect x="10" y="46" width="10" height="7" rx="2" fill="#793194"/><path d="M11 53 L15 61 L19 53Z" fill="#ffc46b"/><circle cx="15" cy="22" r="5.5" fill="#7ec8ff" stroke="#793194" stroke-width="2"/></svg>')
+        },
+        feather: {
+          w: 58, h: 24, shape: 'rect',
+          density: 0.0002, rest: 0.10, fric: 0.2, airBase: 0.09, flutter: true,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 24"><path d="M2 22 C14 20 44 16 56 2 C46 4 20 6 8 14 C5 16 3 19 2 22Z" fill="#e9ddf3"/><path d="M2 22 C20 16 40 10 56 2" stroke="#cd9edf" stroke-width="1.4" fill="none"/></svg>')
+        },
+        paper: {
+          w: 50, h: 62, shape: 'rect',
+          density: 0.0003, rest: 0.05, fric: 0.3, airBase: 0.07, sway: true,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 62"><rect x="1" y="1" width="48" height="60" rx="3" fill="#f4f1fa" stroke="#cbc3dd" stroke-width="1.5"/><line x1="9" y1="14" x2="41" y2="14" stroke="#b9aed1" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="24" x2="41" y2="24" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="34" x2="41" y2="34" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="44" x2="29" y2="44" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/></svg>')
+        },
+        balloon: {
+          w: 44, h: 62, shape: 'circle',
+          density: 0.0004, rest: 0.60, fric: 0.1, airBase: 0.05, buoyant: true,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 62"><path d="M22 44 C10 40 3 30 3 20 C3 9 11 2 22 2 C33 2 41 9 41 20 C41 30 34 40 22 44Z" fill="#cd9edf"/><ellipse cx="14" cy="14" rx="5" ry="8" fill="#ffffff" opacity="0.3" transform="rotate(-18 14 14)"/><path d="M19 44 L25 44 L22 49Z" fill="#aa59c8"/><path d="M22 49 C20 53 24 56 22 61" stroke="#aa59c8" stroke-width="1.6" fill="none"/></svg>')
+        }
+      };
+      Object.keys(MATERIALS).forEach(k => {
+        const img = new Image();
+        img.src = MATERIALS[k].svg;
+        img.onload = () => { imgCache['mat_' + k] = img; };
+      });
+
+      function currentAir() {
+        return window.EGGravity ? EGGravity.get().air : 1;
+      }
+
+      function spawnMaterials() {
+        const air = currentAir();
+        const sc = W < 480 ? 0.72 : W < 768 ? 0.85 : 1;
+        Object.keys(MATERIALS).forEach((k, i) => {
+          const m  = MATERIALS[k];
+          const dW = Math.round(m.w * sc);
+          const dH = Math.round(m.h * sc);
+          const x  = W * 0.08 + Math.random() * W * 0.84;
+          // Balloon starts near the floor (it rises); everything else rains in
+          const fromFloor = m.buoyant;
+          const y  = fromFloor ? H - dH / 2 - 4 : -dH / 2 - 40 - Math.random() * 80;
+          const opts = {
+            isStatic:    true,
+            density:     m.density,
+            restitution: m.rest,
+            friction:    m.fric,
+            frictionAir: 0.0008 + m.airBase * air,
+          };
+          const body = m.shape === 'circle'
+            ? Bodies.circle(x, y, Math.max(dW, dH) / 2 * 0.85, opts)
+            : Bodies.rectangle(x, y, dW, dH, opts);
+          World.add(world, body);
+          physEntries.push({ body, key: 'mat_' + k, dW, dH, mat: m, baseAir: m.airBase, phase: Math.random() * Math.PI * 2 });
+          rainTimers.push(setTimeout(() => {
+            Body.setStatic(body, false);
+            if (!fromFloor) {
+              Body.setAngularVelocity(body, (Math.random() - .5) * .2);
+              Body.setVelocity(body, { x: (Math.random() - .5) * 1.2, y: 0 });
+              playSwoosh();
+            }
+          }, 2400 + i * 320 + Math.random() * 300));
+        });
+      }
+
+      /* Per-tick material forces: buoyancy (balloon), flutter (feather),
+         sway (paper). All scale with the environment's air density, so
+         they vanish in vacuum — which is the honest behavior. */
+      let matT = 0;
+      Events.on(engine, 'beforeUpdate', function() {
+        matT += 1 / 60;
+        const air = currentAir();
+        const gY  = engine.gravity.y * engine.gravity.scale;
+        physEntries.forEach(en => {
+          const m = en.mat;
+          if (!m || en.body.isStatic) return;
+          const b = en.body;
+          if (m.buoyant && air > 0 && engine.gravity.y > 0) {
+            // Lift exceeds weight low on screen, eases off near the top —
+            // so the balloon rises to a hover band and bobs there.
+            const heightFactor = Math.min(1.35, Math.max(0.25, b.position.y / (H * 0.32)));
+            const lift = -b.mass * gY * (1.15 * Math.min(air, 1)) * heightFactor;
+            Body.applyForce(b, b.position, { x: Math.sin(matT * 0.7 + en.phase) * b.mass * gY * 0.12, y: lift });
+          }
+          if (m.flutter && air > 0) {
+            Body.applyForce(b, b.position, { x: Math.sin(matT * 2.2 + en.phase) * b.mass * gY * 0.55, y: 0 });
+            b.torque += Math.sin(matT * 1.7 + en.phase) * b.mass * 0.00003;
+          }
+          if (m.sway && air > 0) {
+            Body.applyForce(b, b.position, { x: Math.sin(matT * 1.1 + en.phase) * b.mass * gY * 0.4, y: 0 });
+          }
+        });
+      });
+
+      /* ── Environment (gravity dial) hookup ─────────────────── */
+      let ceiling = null;
+      function setCeiling(on) {
+        if (on && !ceiling) {
+          ceiling = Bodies.rectangle(W / 2, -450, W + 600, 80, { isStatic: true });
+          World.add(world, ceiling);
+        } else if (!on && ceiling) {
+          World.remove(world, ceiling);
+          ceiling = null;
+        }
+      }
+      function applyEnv(env) {
+        engine.gravity.y = 4 * env.g;
+        setCeiling(env.g < 0.05);
+        physEntries.forEach(en => {
+          en.body.frictionAir = 0.0008 + (en.baseAir || 0.015) * env.air;
+          if (en.body.isStatic) return;
+          // Nudge so the change is immediately visible; in freefall,
+          // set everything gently adrift.
+          if (env.g < 0.05) {
+            Body.setVelocity(en.body, {
+              x: en.body.velocity.x + (Math.random() - .5) * 2.4,
+              y: en.body.velocity.y - (0.8 + Math.random() * 1.6),
+            });
+            Body.setAngularVelocity(en.body, (Math.random() - .5) * 0.12);
+          } else {
+            Body.setVelocity(en.body, {
+              x: en.body.velocity.x + (Math.random() - .5) * 0.5,
+              y: en.body.velocity.y - 0.5,
+            });
+          }
+        });
+      }
+      if (window.EGGravity) EGGravity.onChange(applyEnv);
 
       /* spawnAll() runs once: sets up mouse constraint, runner, floaters, loop */
       function spawnAll() {

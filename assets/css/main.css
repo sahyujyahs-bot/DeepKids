@@ -4637,3 +4637,102 @@
   #gw-panel { width: 260px; right: -280px; padding: 16px; }
   #gw-tag { font-size: 10px; padding: 8px 6px; }
 }
+
+/* ═══════════════════════════ Gravity dial ══
+   Fixed environment switcher. Each environment flips the page's
+   ambient tint (via html[data-env]) and, through EGGravity, the
+   physics g + air values of every live object. */
+#g-dial {
+  position: fixed;
+  left: clamp(6px, 1vw, 14px);
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 95;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  background: rgba(10,6,24,0.82);
+  border: 1.5px solid rgba(var(--purple-rgb), 0.45);
+  border-radius: 999px;
+  padding: 10px 5px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.45);
+}
+.g-dial-title {
+  font-family: var(--font-body);
+  font-size: 9px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.45);
+  margin-bottom: 2px;
+  writing-mode: horizontal-tb;
+}
+.g-dial-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  width: 40px;
+  padding: 5px 0 4px;
+  background: transparent;
+  border: 1.5px solid transparent;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s, transform 0.15s;
+}
+.g-dial-btn:hover { background: rgba(var(--purple-rgb), 0.14); transform: scale(1.08); }
+.g-dial-btn.active {
+  background: rgba(var(--purple-rgb), 0.20);
+  border-color: rgba(var(--purple-rgb), 0.65);
+}
+.g-dial-icon { font-size: 17px; line-height: 1.2; }
+.g-dial-name {
+  font-family: var(--font-body);
+  font-size: 8px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55);
+}
+.g-dial-btn.active .g-dial-name { color: var(--lilac); }
+.g-dial-note {
+  position: absolute;
+  left: calc(100% + 12px);
+  top: 50%;
+  transform: translateY(-50%);
+  width: min(240px, 56vw);
+  background: rgba(10,6,24,0.92);
+  border: 1.5px solid rgba(var(--lilac-rgb), 0.5);
+  border-radius: 12px;
+  padding: 10px 13px;
+  font-family: var(--font-body);
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: rgba(255,255,255,0.85);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+.g-dial-note.show { opacity: 1; }
+@media (max-width: 768px) {
+  #g-dial { padding: 8px 4px; gap: 2px; }
+  .g-dial-btn { width: 34px; }
+  .g-dial-icon { font-size: 14px; }
+  .g-dial-name { font-size: 7px; }
+}
+
+/* ── Per-environment ambient tint ──
+   A fixed, non-interactive wash over the whole page that
+   crossfades when the dial changes. Earth = no tint. */
+#env-tint {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 1.2s ease, background 1.2s ease;
+}
+html[data-env="moon"]  #env-tint { opacity: 1; background: radial-gradient(ellipse at 50% 0%, rgba(180,195,215,0.10), rgba(90,100,125,0.14)); }
+html[data-env="mars"]  #env-tint { opacity: 1; background: radial-gradient(ellipse at 50% 0%, rgba(255,120,60,0.10), rgba(140,50,20,0.16)); }
+html[data-env="jupiter"] #env-tint { opacity: 1; background: radial-gradient(ellipse at 50% 20%, rgba(255,180,90,0.10), rgba(130,80,25,0.15)); }
+html[data-env="iss"]   #env-tint { opacity: 1; background: radial-gradient(ellipse at 50% 100%, rgba(80,140,220,0.12), rgba(10,20,60,0.18)); }

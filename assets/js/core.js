@@ -215,3 +215,90 @@ function egRevealOnce(els, className, threshold, staggerSec) {
 }
 
 // ─────────────────────────────────────────────
+
+/* ═══════════════════════════ EGGravity — global environment ══
+   One gravitational state for the whole page. Each environment
+   sets g (gravity multiplier vs Earth) AND air (atmosphere
+   density multiplier) — so on the Moon a feather falls like an
+   apple (no drag) and a balloon stops floating (nothing to float
+   in). Subscribers (hero physics, future sections) react live. */
+window.EGGravity = (function(){
+  'use strict';
+  var ENVS = {
+    earth: {
+      key: 'earth', label: 'Earth', g: 1, air: 1,
+      icon: '🌍', accent: '#7ec8ff',
+      note: 'g = 9.8 m/s² — home settings.'
+    },
+    moon: {
+      key: 'moon', label: 'Moon', g: 1/6, air: 0,
+      icon: '🌙', accent: '#cfd8e3',
+      note: 'g = 1.6 m/s², and NO air — watch the feather fall exactly like the apple, and the balloon drop: nothing to float in.'
+    },
+    mars: {
+      key: 'mars', label: 'Mars', g: 0.38, air: 0.01,
+      icon: '🪐', accent: '#ff8b5e',
+      note: 'g = 3.7 m/s², air 1% of Earth’s — parachutes barely work here. Ask NASA.'
+    },
+    jupiter: {
+      key: 'jupiter', label: 'Jupiter', g: 2.4, air: 3,
+      icon: '🟠', accent: '#ffc46b',
+      note: 'g = 24.8 m/s² at the cloud tops — there is no surface to stand on.'
+    },
+    iss: {
+      key: 'iss', label: 'ISS', g: 0, air: 0,
+      icon: '🛰️', accent: '#9fd0ff',
+      note: 'Gravity here is still ~90% of Earth’s! Things float because the station is falling around Earth — freefall, not zero gravity.'
+    }
+  };
+  var ORDER = ['earth', 'moon', 'mars', 'jupiter', 'iss'];
+  var current = 'earth';
+  var listeners = [];
+
+  function get() { return ENVS[current]; }
+  function set(key) {
+    if (!ENVS[key] || key === current) return;
+    current = key;
+    document.documentElement.setAttribute('data-env', key);
+    listeners.forEach(function(fn) { try { fn(ENVS[key]); } catch(e) {} });
+  }
+  function onChange(fn) { listeners.push(fn); }
+
+  /* Dial UI — built at load if the mount point exists */
+  function buildDial() {
+    var mount = document.getElementById('g-dial');
+    if (!mount) return;
+    var html = '<div class="g-dial-title">gravity</div>';
+    ORDER.forEach(function(k) {
+      var e = ENVS[k];
+      html += '<button class="g-dial-btn' + (k === current ? ' active' : '') + '" data-env="' + k + '" title="' + e.label + '" aria-label="Set gravity to ' + e.label + '">' +
+        '<span class="g-dial-icon">' + e.icon + '</span><span class="g-dial-name">' + e.label + '</span></button>';
+    });
+    html += '<div class="g-dial-note" id="g-dial-note"></div>';
+    mount.innerHTML = html;
+    mount.addEventListener('click', function(ev) {
+      var btn = ev.target.closest('.g-dial-btn');
+      if (!btn) return;
+      set(btn.dataset.env);
+      mount.querySelectorAll('.g-dial-btn').forEach(function(b) {
+        b.classList.toggle('active', b === btn);
+      });
+      var note = document.getElementById('g-dial-note');
+      if (note) {
+        note.textContent = ENVS[current].note;
+        note.classList.add('show');
+        clearTimeout(note._t);
+        note._t = setTimeout(function() { note.classList.remove('show'); }, 7000);
+      }
+      if (typeof gtag === 'function') gtag('event', 'gravity_dial', { event_category: 'engagement', env: current });
+      if (typeof fbq === 'function') fbq('trackCustom', 'GravityDial', { env: current });
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', buildDial);
+  } else {
+    buildDial();
+  }
+
+  return { get: get, set: set, onChange: onChange, ENVS: ENVS };
+})();
