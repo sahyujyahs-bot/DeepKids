@@ -571,7 +571,10 @@
       function floorYFor(en) {
         const ridge = ridgeYAt(en.body.position.x);
         if (ridge === null) return null;
-        const far  = ridge + 12;
+        // Content zone is sacred: nothing settles behind the headline/CTA.
+        // The farthest lane is the LOWER of (just below the ridge) and
+        // 62% of the viewport.
+        const far  = Math.max(ridge + 12, H * 0.62);
         const near = H - 6;
         return far + en.depthFrac * (near - far);
       }
@@ -600,8 +603,9 @@
           if (den) {
             const px = dragMouse.position;
             const ridge = ridgeYAt(px.x);
-            if (ridge !== null && px.y > ridge + 16) {
-              const far = ridge + 12, near = H - 6;
+            const farLimit = Math.max((ridge === null ? 0 : ridge) + 12, H * 0.62);
+            if (ridge !== null && px.y > farLimit + 4) {
+              const far = farLimit, near = H - 6;
               den.depthFrac = Math.min(1, Math.max(0, (px.y - far) / (near - far)));
             }
           }

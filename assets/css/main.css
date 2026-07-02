@@ -4750,6 +4750,9 @@ html[data-env="iss"]   #env-tint { opacity: 1; background: radial-gradient(ellip
   overflow: hidden;
   pointer-events: none;
 }
+#env-surface {
+  isolation: isolate;    /* keep the tint blend inside this layer */
+}
 #env-surface img {
   position: absolute;
   bottom: 0; left: 50%;
@@ -4759,6 +4762,20 @@ html[data-env="iss"]   #env-tint { opacity: 1; background: radial-gradient(ellip
   max-width: none;
   opacity: 0;
   transition: opacity 1.2s ease;
+  /* Recede into the night sky: hills fade out toward the top so the
+     terrain doesn't dominate the hero; slightly dimmed so text pops */
+  filter: brightness(0.8) saturate(0.85);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.5) 16%, #000 38%);
+  mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.5) 16%, #000 38%);
+}
+/* Brand grade: violet multiply over the terrain only */
+#env-surface::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(to top, rgba(38,20,66,0.5), rgba(24,12,44,0.65));
+  mix-blend-mode: multiply;
 }
 html[data-env="moon"] #env-surface img[data-env="moon"] { opacity: 1; }
 /* On moon, ease off the flat tint — the real surface does the work */
