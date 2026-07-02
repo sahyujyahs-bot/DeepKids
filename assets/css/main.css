@@ -1,16 +1,9 @@
-/* ============================================================
- * EscapeGravity / DeepKids — main.css
- *
- * Extracted verbatim from index.html's inline <style> blocks
- * (refactor-only; no rule changes). Concatenated in original
- * document order, grouped with section header comments.
- * ============================================================ */
 
-/* ===== Fonts & Base Reset ===== */
+
     /* ── Fonts ─────────────────────────────────────────────────── */
     @font-face {
       font-family: 'Norwester';
-      src: url('norwester.ttf') format('truetype');
+      src: url('../../norwester.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
       font-display: swap;
@@ -18,23 +11,23 @@
     /* Futura Std Book (regular width) — body/description text */
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-book.otf') format('opentype');
+      src: url('../../fonts/futura-book.otf') format('opentype');
       font-weight: 400; font-style: normal; font-display: swap;
     }
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-book-oblique.otf') format('opentype');
+      src: url('../../fonts/futura-book-oblique.otf') format('opentype');
       font-weight: 400; font-style: oblique; font-display: swap;
     }
     /* Futura Std Condensed — labels, subtitles, short text */
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-cond-light.otf') format('opentype');
+      src: url('../../fonts/futura-cond-light.otf') format('opentype');
       font-weight: 300; font-style: normal; font-display: swap;
     }
     @font-face {
       font-family: 'Futura';
-      src: url('fonts/futura-cond-extrabold.otf') format('opentype');
+      src: url('../../fonts/futura-cond-extrabold.otf') format('opentype');
       font-weight: 800; font-style: normal; font-display: swap;
     }
 
@@ -194,22 +187,22 @@
       position: relative;
       display: inline-block;
       vertical-align: top;
-      top: -0.5em;
-      margin-left: 6px;
+      top: -0.6em;
+      margin-left: 8px;
       font-family: 'Futura', sans-serif;
       font-weight: normal;
       font-variant: normal;
-      font-size: clamp(8px, 0.85vw, 12px);
+      font-size: clamp(11px, 1.15vw, 15px);
       letter-spacing: clamp(0.5px, .2vw, 1.5px);
       text-transform: uppercase;
       color: rgba(255,255,255,0.95);
       line-height: 1;
-      padding: 3px 9px;
-      border: 1px solid rgba(205,158,223,0.6);
+      padding: 4px 12px;
+      border: 1.5px solid rgba(205,158,223,0.8);
       border-radius: 999px;
       background: rgba(10,6,24,0.98);
       text-shadow: 0 0 10px rgba(170,89,200,0.5);
-      box-shadow: 0 0 14px rgba(205,158,223,0.3), 0 2px 8px rgba(0,0,0,0.6);
+      box-shadow: 0 0 18px rgba(205,158,223,0.4), 0 2px 8px rgba(0,0,0,0.6);
       white-space: nowrap;
       pointer-events: none;
     }
@@ -220,10 +213,10 @@
     }
     @media (max-width: 600px) {
       .hero-tm {
-        top: -0.4em;
+        top: -0.5em;
         margin-left: 4px;
-        font-size: clamp(7px, 2.2vw, 10px);
-        padding: 2px 6px;
+        font-size: clamp(9px, 2.8vw, 12px);
+        padding: 3px 8px;
         letter-spacing: 0.5px;
       }
     }
@@ -588,7 +581,9 @@
 
   
 
-/* ===== Navigation Bar ===== */
+/* ─────────────────────────────────────────── */
+
+
   .eg-nav {
     position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;
     background: rgba(10,6,24,0.6);
@@ -607,6 +602,22 @@
     color: #aa59c8; text-decoration: none; letter-spacing: 1px;
     white-space: nowrap;
     opacity: 0; /* hidden until morph script hands off at scroll threshold */
+    display: flex;
+    align-items: baseline;
+    gap: clamp(6px, 1vw, 10px);
+  }
+  .eg-nav-logo-by {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(9px, 1vw, 12px);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.55);
+    font-weight: normal;
+  }
+  .eg-nav-logo-by b { color: #cd9edf; font-weight: normal; }
+  @media (max-width: 480px) {
+    .eg-nav-logo { gap: 4px; }
+    .eg-nav-logo-by { font-size: 7px; letter-spacing: 0.2px; }
   }
   .eg-nav-right {
     display: flex;
@@ -647,7 +658,10 @@
   /* offset body content for fixed nav */
   #s1 { margin-top: 0; /* s1 is full-screen, no offset needed */ }
 
-/* ===== Playtest Modal ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Playtest modal — distinct from Pre-Order ────────────── */
 .pt-box {
   background:
@@ -874,7 +888,10 @@
   margin: clamp(14px, 2vh, 20px) 0 0;
 }
 
-/* ===== Section 2 (Story/Intro) ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   #s2 {
     padding: clamp(50px,7vh,90px) 0 clamp(50px,7vh,90px);
     text-align: center;
@@ -1156,7 +1173,10 @@
     .s2-pin-chall-big { width: clamp(300px, 88vw, 390px) !important; }
   }
 
-/* ===== Parents Section ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   #s-parents {
     padding: clamp(50px,7vh,90px) 0 clamp(50px,7vh,90px);
     text-align: center;
@@ -1284,7 +1304,10 @@
     .ps-card-school .ps-cloud-kid { top: auto; bottom: 3%; left: 1%; }
   }
 
-/* ===== Reasons / Highlights ===== */
+
+/* ─────────────────────────────────────────── */
+
+
     .ps-reasons-title {
       font-family: 'Futura', sans-serif;
       font-size: clamp(14px, 1.8vw, 22px);
@@ -1357,7 +1380,9 @@
     }
   
 
-/* ===== Unlearn Section ===== */
+/* ─────────────────────────────────────────── */
+
+
   #s-unlearn {
     padding: clamp(50px,7vh,90px) 0;
     text-align: center;
@@ -1532,7 +1557,10 @@
     color: rgba(170,89,200,0.4);
   }
 
-/* ===== 3D Interactive Box Components ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── 3D interactive box components ─────────────────────── */
 
 /* Perspective container for tilt effect on all items */
@@ -1599,7 +1627,10 @@
 }
 .s2-flip-card.flipped .s2-flip-hint { opacity: 0; }
 
-/* ===== Gallery ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   #s-gallery {
     height: 100vh;
     display: flex;
@@ -1678,7 +1709,10 @@
     .gallery-videos { grid-template-rows: auto; }
   }
 
-/* ===== Gravity Is Experienced ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Gravity Is Experienced ──────────────────────────── */
 .exp-grid {
   display: grid;
@@ -1786,10 +1820,16 @@
   .exp-item { opacity: 1; }
 }
 
-/* ===== Stylesheet Continuation Sentinel ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* (stylesheet continuation — sentinel so the next <style> tag closes cleanly) */
 
-/* ===== Forces Against Gravity ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Forces Against Gravity ──────────────────────────── */
 .forces-subtitle {
   font-family: 'Futura', sans-serif;
@@ -1957,7 +1997,10 @@
   .forces-card-slot img { width: clamp(180px, 60vw, 260px); }
 }
 
-/* ===== Spirals Section ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Spirals section ─────────────────────────────────── */
 .spiral-subtitle {
   font-family: 'Futura', sans-serif;
@@ -2055,7 +2098,10 @@
   .spiral-img { width: 92vw; }
 }
 
-/* ===== 9 Layers Section ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── 9 Layers section ─────────────────────────────────── */
 .layers-grid {
   display: grid;
@@ -2106,7 +2152,10 @@
   .layer-iss[style*="span 2"] { grid-column: span 2 !important; }
 }
 
-/* ===== Every Turn Is A Lesson ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Every Turn Is A Lesson ────────────────────────────── */
 .s4b-panel { display: none; max-width: 1400px; margin: 0 auto; padding: 0 clamp(12px,3vw,40px); }
 .s4b-panel.active { display: flex; flex-wrap: wrap; gap: clamp(20px, 3vw, 40px); align-items: center; justify-content: center; }
@@ -2175,7 +2224,10 @@
   .s4b-challenge-img { width: 82%; margin: 0 auto; }
 }
 
-/* ===== Learning Comes Full Circle ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Learning Comes Full Circle ───────────────────────── */
 .s6b-subtitle {
   font-family: 'Futura', sans-serif;
@@ -2327,7 +2379,10 @@
   .s6b-fc-pair { justify-content: center; }
 }
 
-/* ===== Section 3 / Token System ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   #s3 {
     position: relative;                         /* tokens anchor here */
     display: flex; flex-direction: column;
@@ -2620,7 +2675,7 @@
     width: 1.4em; height: 1.4em;
     vertical-align: middle;
     margin: 0 3px;
-    background: url("IMG_4700.png") center/contain no-repeat;
+    background: url("../../IMG_4700.png") center/contain no-repeat;
     filter: drop-shadow(0 1px 2px rgba(0,0,0,0.5));
     border: none;
     border-radius: 0;
@@ -2777,7 +2832,10 @@
     }
   }
 
-/* ===== Science Collage ===== */
+
+/* ─────────────────────────────────────────── */
+
+
     /* ── Science — Collage image ──────────────────── */
     #sci-collage {
       text-align: center;
@@ -2790,7 +2848,9 @@
     }
     
 
-/* ===== S2 Tabs ===== */
+/* ─────────────────────────────────────────── */
+
+
 /* ── S2 Tabs ────────────────────────────────────────────── */
 .s2-tabs {
   display: flex; justify-content: center; align-items: center; gap: clamp(6px, 1.2vw, 14px);
@@ -3151,7 +3211,10 @@
   }
 }
 
-/* ===== Shared Section Styles ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   /* ── Shared section styles ────────────────────────────────── */
   .eg-section {
     position: relative;
@@ -3481,7 +3544,10 @@
     opacity: 1; transform: translateY(0);
   }
 
-/* ===== Mini Runner Game ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Mini Runner Game ────────────────────────────────── */
 .game-subtitle {
   font-family: 'Futura', sans-serif;
@@ -3539,7 +3605,10 @@
   text-shadow: 0 0 20px rgba(170,89,200,0.4);
 }
 
-/* ===== Quiz ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 /* ── Quiz — fun, playful, glowing ────────────────────── */
 .quiz-wrap {
   max-width: 780px;
@@ -3789,7 +3858,10 @@
   letter-spacing: 1px;
 }
 
-/* ===== FAQ Section ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   #s-faq {
     padding: clamp(50px,7vh,90px) clamp(16px,4vw,40px);
     max-width: 780px;
@@ -3857,7 +3929,10 @@
     transform: translateX(0);
   }
 
-/* ===== More Section ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   #s-more {
     padding: clamp(50px,7vh,90px) 0;
     text-align: center;
@@ -3953,7 +4028,10 @@
     .more-pin-overlay { opacity: 1; }
   }
 
-/* ===== Floating Rocket ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 .floating-rocket {
   position: fixed;
   z-index: 997;
@@ -3979,7 +4057,10 @@
   .floating-rocket { display: none; }
 }
 
-/* ===== Mobile Pre-Order Bar ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   .eg-mobile-preorder {
     display: none;
     position: fixed;
@@ -4076,7 +4157,10 @@
     body { padding-bottom: 76px; }
   }
 
-/* ===== Floating Cue Bubble ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   /* Floating cue bubble — appears on top of a section to invite interaction */
   .eg-cue {
     position: absolute;
@@ -4196,7 +4280,10 @@
     .eg-swipe-cue { font-size: 10px; padding: 5px 10px; }
   }
 
-/* ===== Scroll Progress Bar ===== */
+
+/* ─────────────────────────────────────────── */
+
+
   /* ── Navigation dots ─────────────────────────────── */
   #nav-dots {
     position: fixed;
@@ -4262,7 +4349,10 @@
     .nav-dot-tooltip { display: none; }
   }
 
-/* ===== Gravity Points Pill ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 #gp-pill {
   position: fixed;
   bottom: clamp(80px, 12vh, 100px);
@@ -4393,7 +4483,10 @@
   #gp-toast { bottom: clamp(110px, 15vh, 140px); left: 8px; max-width: 220px; font-size: 11px; }
 }
 
-/* ===== Apple Scroll Effect ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 #apple-scroll {
   position: fixed;
   z-index: 52;
@@ -4441,7 +4534,10 @@
   #newton-img img { width: clamp(90px, 22vw, 140px); }
 }
 
-/* ===== Gravity Wins Tag ===== */
+
+/* ─────────────────────────────────────────── */
+
+
 #gw-tag {
   position: fixed;
   right: 0;
@@ -4457,12 +4553,12 @@
   writing-mode: vertical-rl;
   font-family: 'Futura', sans-serif;
   font-size: 11px;
-  letter-spacing: 1.5px;
-  color: #ffb300;
-  text-transform: uppercase;
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.4s ease, background 0.2s;
+  letter-spacing: 1.5px;
+  color: #ffb300;
+  text-transform: uppercase;
   box-shadow: -2px 0 10px rgba(0,0,0,0.3);
 }
 #gw-tag.visible { opacity: 1; pointer-events: auto; }
@@ -4530,4 +4626,3 @@
   #gw-panel { width: 260px; right: -280px; padding: 16px; }
   #gw-tag { font-size: 10px; padding: 8px 6px; }
 }
-

@@ -1,24 +1,84 @@
-// ============================================================
-// EscapeGravity / DeepKids — main.js
-//
-// Extracted verbatim from index.html's inline <script> blocks
-// (refactor-only; no logic changes). Concatenated in original
-// document order so relative execution order is preserved —
-// this matters because some scripts reference globals/functions
-// defined earlier (e.g. matter.js-dependent physics code must
-// run after the matter.js CDN <script> tag, which still loads
-// synchronously before this deferred script executes).
-//
-// Tiny analytics bootstrap snippets (gtag/dataLayer init,
-// Microsoft Clarity placeholder, Meta Pixel init) were left
-// INLINE in index.clean.html <head> — they are intentionally
-// NOT included here, to avoid changing analytics load timing.
-// ============================================================
+window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GYJLZ0FVJE');
+    // Google Ads — replace AW-XXXXXXXXX with your Ads conversion
+    // ID once you create a Google Ads account. Until then this
+    // line is a no-op placeholder.
+    gtag('config', 'AW-11336704198');
 
-// ===== Hero / Page Load Animations, Matter.js Physics (Rain/Drop), Pre-Order Modal & Razorpay Payment Flow, PlayTest Modal =====
-// ---- (originally index.html lines 989-2003) ----
+// ─────────────────────────────────────────────
 
-    /* ── Main scene ───────────────────────────────────────────── */
+(function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window,document,"clarity","script","xc1qgqypu0");
+
+// ─────────────────────────────────────────────
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+    (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1112158878638948');
+    fbq('track', 'PageView');
+
+// ─────────────────────────────────────────────
+
+(function(){
+    var AC = window.AudioContext || window.webkitAudioContext;
+
+    /* ── Shared AudioContext ── */
+    if (AC) {
+      window._getAC = function() {
+        if (!window._sharedAC) {
+          window._sharedAC = new AC();
+          // Auto-resume if the browser suspends the context after silence
+          window._sharedAC.onstatechange = function() {
+            if (window._sharedAC.state === 'suspended') {
+              window._sharedAC.resume().catch(function(){});
+            }
+          };
+        }
+        return window._sharedAC;
+      };
+      function armAC() {
+        var ac = window._sharedAC;
+        if (ac && ac.state === 'suspended') ac.resume().catch(function(){});
+      }
+      ['pointerdown','touchstart','keydown'].forEach(function(ev) {
+        document.addEventListener(ev, armAC, {passive: true, capture: true});
+      });
+    }
+
+    /* ── HTMLAudio element unlock (iOS / strict autoplay policy) ──
+       On first gesture, call play()+pause() on every registered audio
+       element so subsequent programmatic play() calls are allowed. */
+    window._htmlAudioElements = [];
+    window._registerAudio = function(el) {
+      window._htmlAudioElements.push(el);
+    };
+    var htmlUnlocked = false;
+    function unlockHTMLAudio() {
+      if (htmlUnlocked) return;
+      htmlUnlocked = true;
+      window._htmlAudioElements.forEach(function(el) {
+        try {
+          var p = el.play();
+          if (p && p.then) p.then(function(){ el.pause(); el.currentTime = 0; }).catch(function(){});
+        } catch(e){}
+      });
+    }
+    ['pointerdown','touchstart'].forEach(function(ev) {
+      document.addEventListener(ev, unlockHTMLAudio, {passive: true, capture: true, once: true});
+    });
+  })();
+
+// ─────────────────────────────────────────────
+
+/* ── Main scene ───────────────────────────────────────────── */
     (function () {
       'use strict';
 
@@ -1106,6 +1166,9 @@
               if (typeof gtag === 'function') { gtag('event', 'preorder_paid', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' }); }
               if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
               var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
+              // Wait for the email/sheet write to actually finish before navigating
+              // away — navigating too early can abort the requests mid-flight.
+              // Timeout caps the wait so a slow/blocked network can't strand the user.
               var notifyPromise = Promise.allSettled([
                 sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId),
                 sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId])
@@ -1206,9 +1269,8 @@
       if (e.key === 'Escape') closePreOrderModal();
     });
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities =====
-// ---- (originally index.html lines 2776-2832) ----
 (function(){
   var cards = document.querySelectorAll('.ps-card');
   var reasons = document.querySelectorAll('.ps-reason');
@@ -1265,7 +1327,8 @@
   }
 })();
 
-// ---- (originally index.html lines 3098-3153) ----
+// ─────────────────────────────────────────────
+
 (function(){
   var cards = document.querySelectorAll('.unlearn-card');
   // Flip with sound
@@ -1321,7 +1384,100 @@
 
 })();
 
-// ---- (originally index.html lines 3356-3519) ----
+// ─────────────────────────────────────────────
+
+(function () {
+      var frame  = document.getElementById('s2-board-tour');
+      var img    = document.getElementById('s2-board-tour-img');
+      var astro  = document.getElementById('s2-board-tour-astro');
+      var rocket = document.getElementById('s2-board-tour-rocket');
+      var label  = document.getElementById('s2-board-tour-label');
+      var toggle = document.getElementById('s2-board-tour-toggle');
+      var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
+      var playIcon  = document.getElementById('s2-board-tour-play-icon');
+      if (!frame || !img || !astro || !rocket || !label || !toggle) return;
+
+      var FULL  = 'scale(1) translate(0%, 0%)';
+      var TILE0 = 'scale(4.1) translate(-5%, 16%)';
+      var ISS   = 'scale(3.4) translate(33%, 36%)';
+
+      var STEPS = [
+        { t: FULL,  l: 'The Spiral Board',            hold: 2200 },
+        { t: TILE0, l: 'Tile 0 — Starting Point',      hold: 2200 },
+        { t: ISS,   l: 'International Space Station',  hold: 2200 },
+        { t: TILE0, l: 'Tile 0 — Ready To Launch',     hold: 2600, tokens: true }
+      ];
+
+      var idx = 0, paused = false, running = false, stepTimer = null;
+      function setLabel(text) {
+        label.style.opacity = '0';
+        setTimeout(function () {
+          label.textContent = text;
+          label.style.opacity = '1';
+        }, 180);
+      }
+      function runStep(i) {
+        var step = STEPS[i];
+        if (!step.tokens) {
+          astro.style.opacity = '0';
+          rocket.style.opacity = '0';
+        }
+        img.style.transform = step.t;
+        setLabel(step.l);
+        if (step.tokens) {
+          setTimeout(function () {
+            astro.style.opacity = '1';
+            rocket.style.opacity = '1';
+          }, 700);
+        }
+      }
+      function scheduleNext() {
+        stepTimer = setTimeout(function () {
+          idx = (idx + 1) % STEPS.length;
+          runStep(idx);
+          scheduleNext();
+        }, STEPS[idx].hold);
+      }
+      function startTour() {
+        if (running) return;
+        running = true;
+        runStep(idx);
+        scheduleNext();
+      }
+      function pauseTour() {
+        if (stepTimer) clearTimeout(stepTimer);
+        stepTimer = null;
+      }
+      toggle.addEventListener('click', function () {
+        paused = !paused;
+        if (paused) {
+          pauseTour();
+          running = false;
+          pauseIcon.style.display = 'none';
+          playIcon.style.display = '';
+          toggle.title = 'Play';
+        } else {
+          pauseIcon.style.display = '';
+          playIcon.style.display = 'none';
+          toggle.title = 'Pause';
+          startTour();
+        }
+      });
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
+            if (!paused) startTour();
+          } else {
+            if (!paused) pauseTour();
+            running = false;
+          }
+        });
+      }, { threshold: 0.5 });
+      io.observe(frame);
+    })();
+
+// ─────────────────────────────────────────────
+
 (function() {
   /* ── 3D Tilt on pointer move for all s2-pin items ────── */
   var items = document.querySelectorAll('.s2-pin-item');
@@ -1403,7 +1559,6 @@
     });
   });
 
-
   /* ── Film-strip: entry animation + auto-flip (all screens) ── */
   (function() {
     var pin = document.querySelector('.s2-pin');
@@ -1451,10 +1606,9 @@
   })();
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Gallery Video =====
-// ---- (originally index.html lines 3561-3575) ----
-  document.querySelectorAll('.gv').forEach(function(v) {
+document.querySelectorAll('.gv').forEach(function(v) {
     v.addEventListener('loadedmetadata', function() { v.currentTime = 1; });
   });
   function playGalleryVideo(item) {
@@ -1468,9 +1622,8 @@
     v.play();
   }
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities =====
-// ---- (originally index.html lines 3783-3844) ----
 (function(){
   // Polaroid tiles: tap to reveal caption on touch devices.
   // On desktop :hover handles it; this script also makes tap-away
@@ -1532,7 +1685,8 @@
   });
 })();
 
-// ---- (originally index.html lines 4110-4125) ----
+// ─────────────────────────────────────────────
+
 (function(){
   var icons = document.querySelectorAll('.forces-icon');
   var panels = document.querySelectorAll('.forces-panel');
@@ -1548,7 +1702,8 @@
   });
 })();
 
-// ---- (originally index.html lines 4320-4383) ----
+// ─────────────────────────────────────────────
+
 (function(){
   var img = document.getElementById('spiral-board');
   if (!img) return;
@@ -1612,7 +1767,8 @@
   }
 })();
 
-// ---- (originally index.html lines 4604-4616) ----
+// ─────────────────────────────────────────────
+
 (function(){
   var tabs = document.querySelectorAll('.s4b-tab');
   tabs.forEach(function(tab) {
@@ -1625,7 +1781,8 @@
   });
 })();
 
-// ---- (originally index.html lines 4847-4869) ----
+// ─────────────────────────────────────────────
+
 (function(){
   // Tab switching
   var tabs = document.querySelectorAll('.s6b-tab');
@@ -1648,9 +1805,8 @@
   }
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Dice Roll / S2 Game Logic =====
-// ---- (originally index.html lines 5833-7841) ----
 (function(){
   'use strict';
 
@@ -1702,6 +1858,9 @@
   var sndDiceRoll    = new Audio('dice roll sound2.wav');    sndDiceRoll.preload = 'auto';
   var sndTokenMove11 = new Audio('token move to tile 11.wav'); sndTokenMove11.preload = 'auto';
   var sndTokenDrop   = new Audio('token drops to tiles 7,3,2.wav'); sndTokenDrop.preload = 'auto';
+  [sndCardScroll, sndCardFlip, sndDiceRoll, sndTokenMove11, sndTokenDrop].forEach(function(s) {
+    if (window._registerAudio) window._registerAudio(s);
+  });
   function playSound(snd, vol) {
     try { snd.currentTime = 0; snd.volume = vol || 0.45; snd.play().catch(function(){}); } catch(e){}
   }
@@ -1709,6 +1868,7 @@
     try { snd.pause(); snd.currentTime = 0; } catch(e){}
   }
   var sndBallBounce  = new Audio('ball bounce.wav');         sndBallBounce.preload = 'auto';
+  if (window._registerAudio) window._registerAudio(sndBallBounce);
   // Expose sounds so the physical-challenges IIFE (pickCard,
   // initCardFan) and the Learning Full Circle section can use them.
   window.sndCardScroll = sndCardScroll;
@@ -1923,6 +2083,7 @@
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
   var spinSound = new Audio('spin sound.wav');
   spinSound.preload = 'auto';
+  if (window._registerAudio) window._registerAudio(spinSound);
   function playSpinSound() {
     try {
       spinSound.currentTime = 0;
@@ -2630,7 +2791,7 @@
 /* ── S2 Tab switching ────────────────────────────────────── */
 (function(){
   'use strict';
-  var tabs = document.querySelectorAll('.s2-tab');
+  var tabs = document.querySelectorAll('.s2-tab[data-panel]');
   var panels = document.querySelectorAll('.s2-panel');
 
   var tokBlue = document.getElementById('s2-tok-blue');
@@ -3665,9 +3826,8 @@
   };
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities =====
-// ---- (originally index.html lines 8247-8798) ----
 (function(){
   'use strict';
   var cv = document.getElementById('eg-runner');
@@ -4219,9 +4379,8 @@
   draw();
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities (Quiz) =====
-// ---- (originally index.html lines 9068-9221) ----
 (function(){
   'use strict';
   var QUESTIONS = [
@@ -4375,9 +4534,8 @@
   }
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== FAQ Accordion =====
-// ---- (originally index.html lines 9379-9396) ----
 (function(){
   var items = document.querySelectorAll('.faq-item');
   if (!items.length || !('IntersectionObserver' in window)) return;
@@ -4395,9 +4553,8 @@
   });
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities =====
-// ---- (originally index.html lines 9563-9598) ----
 (function(){
   var pins = document.querySelectorAll('.more-pin');
   if (!pins.length) return;
@@ -4433,9 +4590,8 @@
   });
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Lead Tracking / Analytics helpers =====
-// ---- (originally index.html lines 9661-9804) ----
 (function(){
   'use strict';
 
@@ -4445,6 +4601,7 @@
      celebratory chime instead. */
   var btnClickSound = new Audio('button click sound.wav');
   btnClickSound.preload = 'auto';
+  if (window._registerAudio) window._registerAudio(btnClickSound);
 
   // Celebratory chime for CTA buttons (Web Audio — rising arpeggio)
   var ctaAudioCtx = null;
@@ -4579,9 +4736,8 @@
   }
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities =====
-// ---- (originally index.html lines 9807-10062) ----
 (function(){
   'use strict';
 
@@ -4845,7 +5001,8 @@
 
 })();
 
-// ---- (originally index.html lines 10190-10209) ----
+// ─────────────────────────────────────────────
+
 (function(){
   var el = document.getElementById('eg-mobile-preorder');
   var navPt = document.querySelector('.eg-nav-playtest');
@@ -4865,9 +5022,8 @@
   toggle();
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Lead Tracking / Analytics helpers (Cue framework) =====
-// ---- (originally index.html lines 10333-10527) ----
 (function(){
   'use strict';
   /* Cue helpers — show on first viewport intersection, fade after a
@@ -5013,9 +5169,8 @@
   })();
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities =====
-// ---- (originally index.html lines 10529-10605) ----
 /* Auto-fit the hero subtitle to screen width on mobile.
    Measures the rendered text width, adjusts font-size until the
    text fills the container perfectly (edge-to-edge, single line). */
@@ -5058,8 +5213,8 @@
   window.addEventListener('resize', fitSubtitle);
 })();
 
-// ===== Scroll Effects =====
-// ---- (originally index.html lines 10706-10753) ----
+// ─────────────────────────────────────────────
+
 (function(){
   var dots = document.getElementById('nav-dots');
   var allDots = document.querySelectorAll('.nav-dot');
@@ -5103,9 +5258,8 @@
   onScroll();
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Gravity Points / Toast =====
-// ---- (originally index.html lines 10902-11146) ----
 (function(){
   var pill = document.getElementById('gp-pill');
   var scoreEl = document.getElementById('gp-score');
@@ -5366,9 +5520,8 @@
   });
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Scroll Effects (Falling apple + Newton parallax) =====
-// ---- (originally index.html lines 11201-11276) ----
 (function(){
   var apple = document.getElementById('apple-scroll');
   var newton = document.getElementById('newton-img');
@@ -5444,9 +5597,8 @@
   }
 })();
 
+// ─────────────────────────────────────────────
 
-// ===== Misc Utilities =====
-// ---- (originally index.html lines 11388-11494) ----
 (function(){
   var input = document.getElementById('gw-input');
   var vals = document.querySelectorAll('.gw-val');
@@ -5565,99 +5717,7 @@
   }, { passive: true });
 })();
 
-// ---- Board tour: full board → Tile 0 → ISS → Tile 0 with tokens, looping, with play/pause ----
-(function () {
-  var frame  = document.getElementById('s2-board-tour');
-  var img    = document.getElementById('s2-board-tour-img');
-  var astro  = document.getElementById('s2-board-tour-astro');
-  var rocket = document.getElementById('s2-board-tour-rocket');
-  var label  = document.getElementById('s2-board-tour-label');
-  var toggle = document.getElementById('s2-board-tour-toggle');
-  var pauseIcon = document.getElementById('s2-board-tour-pause-icon');
-  var playIcon  = document.getElementById('s2-board-tour-play-icon');
-  if (!frame || !img || !astro || !rocket || !label || !toggle) return;
+// ─────────────────────────────────────────────
 
-  var FULL  = 'scale(1) translate(0%, 0%)';
-  var TILE0 = 'scale(4.1) translate(-5%, 16%)';
-  var ISS   = 'scale(3.4) translate(33%, 36%)';
-
-  var STEPS = [
-    { t: FULL,  l: 'The Spiral Board',            hold: 2200 },
-    { t: TILE0, l: 'Tile 0 — Starting Point',      hold: 2200 },
-    { t: ISS,   l: 'International Space Station',  hold: 2200 },
-    { t: TILE0, l: 'Tile 0 — Ready To Launch',     hold: 2600, tokens: true }
-  ];
-
-  var idx = 0, paused = false, running = false, stepTimer = null;
-  function setLabel(text) {
-    label.style.opacity = '0';
-    setTimeout(function () {
-      label.textContent = text;
-      label.style.opacity = '1';
-    }, 180);
-  }
-  function runStep(i) {
-    var step = STEPS[i];
-    if (!step.tokens) {
-      astro.style.opacity = '0';
-      rocket.style.opacity = '0';
-    }
-    img.style.transform = step.t;
-    setLabel(step.l);
-    if (step.tokens) {
-      setTimeout(function () {
-        astro.style.opacity = '1';
-        rocket.style.opacity = '1';
-      }, 700);
-    }
-  }
-  function scheduleNext() {
-    stepTimer = setTimeout(function () {
-      idx = (idx + 1) % STEPS.length;
-      runStep(idx);
-      scheduleNext();
-    }, STEPS[idx].hold);
-  }
-  function startTour() {
-    if (running) return;
-    running = true;
-    runStep(idx);
-    scheduleNext();
-  }
-  function pauseTour() {
-    if (stepTimer) clearTimeout(stepTimer);
-    stepTimer = null;
-  }
-  toggle.addEventListener('click', function () {
-    paused = !paused;
-    if (paused) {
-      pauseTour();
-      running = false;
-      pauseIcon.style.display = 'none';
-      playIcon.style.display = '';
-      toggle.title = 'Play';
-    } else {
-      pauseIcon.style.display = '';
-      playIcon.style.display = 'none';
-      toggle.title = 'Pause';
-      startTour();
-    }
-  });
-  var io = new IntersectionObserver(function (entries) {
-    entries.forEach(function (entry) {
-      if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
-        if (!paused) startTour();
-      } else {
-        if (!paused) pauseTour();
-        running = false;
-      }
-    });
-  }, { threshold: 0.5 });
-  io.observe(frame);
-})();
-
-// ---- (originally index.html lines 11496-11499) ----
-  // Disable right-click context menu (deterrent only — does not hide source code)
+// Disable right-click context menu (deterrent only — does not hide source code)
   document.addEventListener('contextmenu', function(e) { e.preventDefault(); });
-
-
