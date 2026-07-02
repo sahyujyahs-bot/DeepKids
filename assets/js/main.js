@@ -158,7 +158,7 @@
       let swooshCtx = null;
       (function preloadSwoosh() {
         try {
-          swooshCtx = new (window.AudioContext || window.webkitAudioContext)();
+          swooshCtx = window._getAC();
           var xhr = new XMLHttpRequest();
           xhr.open('GET', 'single Swoosh sound.wav', true);
           xhr.responseType = 'arraybuffer';
@@ -1343,7 +1343,7 @@
   var cardFlipBuf = null;
   var cardScrollBuf = null;
   function getBoxAudio() {
-    if (!boxAudioCtx) boxAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    if (!boxAudioCtx) boxAudioCtx = window._getAC();
     return boxAudioCtx;
   }
   function loadBoxSound(url, cb) {
@@ -1496,7 +1496,7 @@
   var expAc = null;
   function playExpPop() {
     try {
-      if (!expAc) expAc = new (window.AudioContext || window.webkitAudioContext)();
+      if (!expAc) expAc = window._getAC();
       if (expAc.state === 'suspended') expAc.resume();
       var osc = expAc.createOscillator();
       var gain = expAc.createGain();
@@ -3704,7 +3704,7 @@
   // ── Sound effects (Web Audio API — no files needed) ────
   var audioCtx = null;
   function getAudio() {
-    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    if (!audioCtx) audioCtx = window._getAC();
     return audioCtx;
   }
   function playTone(freq, dur, type, vol, slide) {
@@ -4256,7 +4256,7 @@
 
   // Sounds
   var aCtx = null;
-  function audio() { if (!aCtx) aCtx = new (window.AudioContext || window.webkitAudioContext)(); return aCtx; }
+  function audio() { if (!aCtx) aCtx = window._getAC(); return aCtx; }
   function tone(f, d, t, v) {
     try {
       var a = audio(), o = a.createOscillator(), g = a.createGain();
@@ -4434,7 +4434,7 @@
   var ctaAudioCtx = null;
   function playCtaChime() {
     try {
-      if (!ctaAudioCtx) ctaAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      if (!ctaAudioCtx) ctaAudioCtx = window._getAC();
       if (ctaAudioCtx.state === 'suspended') ctaAudioCtx.resume();
       var notes = [523, 659, 784, 1047]; // C5 E5 G5 C6
       var t0 = ctaAudioCtx.currentTime;
@@ -4700,7 +4700,7 @@
     xhr.responseType = 'arraybuffer';
     xhr.onload = function() {
       if (xhr.status === 200) {
-        if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
+        if (!spiralAc) spiralAc = window._getAC();
         spiralAc.decodeAudioData(xhr.response, function(buf) { spinSoundBuf = buf; });
       }
     };
@@ -4731,7 +4731,7 @@
   // Synthesized whirr (for click/dblclick spins)
   function startSpiralSound(duration) {
     try {
-      if (!spiralAc) spiralAc = new (window.AudioContext || window.webkitAudioContext)();
+      if (!spiralAc) spiralAc = window._getAC();
       if (spiralAc.state === 'suspended') spiralAc.resume();
       if (spiralWhirr) { try { spiralWhirr.osc.stop(); } catch(x){} spiralWhirr = null; }
       var osc = spiralAc.createOscillator();
