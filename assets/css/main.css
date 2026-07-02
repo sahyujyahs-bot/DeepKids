@@ -3105,7 +3105,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  z-index: 200;
+  z-index: 1200; /* above .eg-nav (1000) so the close button isn't hidden */
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.5s ease;
