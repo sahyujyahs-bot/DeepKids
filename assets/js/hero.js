@@ -626,6 +626,13 @@
         envBg = ENV_BG[env.key] || ENV_BG.earth;
         engine.gravity.y = 4 * env.g;
         buildTerrain(env.key);
+        // Depth lanes are honest 3D: objects in different lanes must not
+        // collide — and rectangle bodies around non-rectangular art
+        // create invisible ledges. On surface envs, each object only
+        // interacts with its own ground lane (negative group = never
+        // collide with each other; walls/drag unaffected).
+        const lanes = !!SURFACE_PROFILES[env.key];
+        physEntries.forEach(en => { en.body.collisionFilter.group = lanes ? -2 : 0; });
         setCeiling(env.g < 0.05);
         physEntries.forEach(en => {
           en.body.frictionAir = 0.0008 + (en.baseAir || 0.015) * env.air;
