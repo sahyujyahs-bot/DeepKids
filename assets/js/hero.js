@@ -852,17 +852,18 @@
               if (alt < 420) {
                 const sh = getShadowEl(en.key);
                 visibleShadows.add(sh);
-                const wBase = (en.bw || en.dW) * 0.9;
-                const w = wBase * (1 + alt / 420 * 0.7);
-                const h = Math.max(6, wBase * 0.22);
-                const op = Math.max(0, 0.46 - alt / 420 * 0.4);
+                const wBase = (en.bw || en.dW) * 0.95;
+                const w = wBase * (1 + alt / 420 * 0.55);
+                const h = Math.max(7, wBase * 0.24);
+                // Dark at contact (vacuum shadow), fades fast with height
+                const op = Math.max(0, 0.72 - alt / 300 * 0.62);
                 sh.style.display = 'block';
                 sh.style.width  = w + 'px';
                 sh.style.height = h + 'px';
                 sh.style.opacity = op.toFixed(3);
                 sh.style.zIndex = String(Math.max(1, (parseInt(el.style.zIndex, 10) || 2) - 1));
                 sh.style.transform =
-                  'translate(' + (p.x - alt * 0.35) + 'px,' + en.floorY + 'px) translate(-50%,-50%)';
+                  'translate(' + (p.x - wBase * 0.14 - alt * 0.4) + 'px,' + en.floorY + 'px) translate(-50%,-50%)';
               }
             }
             return;
