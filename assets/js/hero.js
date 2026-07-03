@@ -454,6 +454,16 @@
           w: 88, h: 86, shape: 'circle', img: 'item-bubble.webp', needsAir: true, sway: true,
           density: 0.00008, rest: 0.1, fric: 0.05, airBase: 0.17,
           label: function(env) { return 'almost weightless — drifts on air'; }
+        },
+        beachball: {
+          w: 140, h: 139, shape: 'circle', img: 'item-beachball.webp',
+          density: 0.0004, rest: 0.55, fric: 0.3, airBase: 0.03,
+          label: function(env) { return env.air > 0 ? 'big but mostly air — size isn\'t weight' : 'no air to slow it — falls like the rest'; }
+        },
+        chute: {
+          w: 100, h: 183, shape: 'rect', img: 'item-chute.webp', sway: true,
+          density: 0.0006, rest: 0.02, fric: 0.6, airBase: 0.14,
+          label: function(env) { return env.air > 0 ? 'parachute catches air — slowest faller' : 'no air — the parachute does nothing!'; }
         }
       };
       function matSrc(m) { return m.img ? EGAudio.url(m.img) : m.svg; }
