@@ -696,7 +696,6 @@
           if (bottom > en.floorY && b.velocity.y > 0) {
             Body.setPosition(b, { x: b.position.x, y: en.floorY - halfH });
             const vy = b.velocity.y;
-            if (vy > 1.2) en._labelUntil = performance.now() + 2600;
             if (vy > 2.2) playImpact(en, vy);
             Body.setVelocity(b, {
               x: b.velocity.x * 0.92,                        // ground friction
