@@ -484,7 +484,7 @@
 
       function spawnMaterials() {
         const air = currentAir();
-        const sc = W < 480 ? 1.15 : W < 768 ? 1.35 : 1.7;
+        const sc = W < 480 ? 1.3 : W < 768 ? 1.55 : 2.0;
         Object.keys(MATERIALS).forEach((k, i) => {
           const m  = MATERIALS[k];
           const dW = Math.round(m.w * sc);
