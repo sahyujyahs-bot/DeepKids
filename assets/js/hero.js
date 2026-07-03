@@ -417,35 +417,43 @@
       const MATERIALS = {
         apple: {
           w: 84, h: 86, shape: 'circle', img: 'item-apple.webp',
-          density: 0.0020, rest: 0.45, fric: 0.4, airBase: 0.006
+          density: 0.0020, rest: 0.45, fric: 0.4, airBase: 0.006,
+          label: function(env) { return 'falls fast, small bounce'; }
         },
         feather: {
           w: 118, h: 76, shape: 'rect', img: 'item-feather.webp',
-          density: 0.0002, rest: 0.10, fric: 0.2, airBase: 0.09, flutter: true
+          density: 0.0002, rest: 0.10, fric: 0.2, airBase: 0.09, flutter: true,
+          label: function(env) { return env.air > 0 ? 'air slows it — flutters down' : 'no air here — falls like the hammer!'; }
         },
         hammer: {
           w: 92, h: 110, shape: 'rect', img: 'item-hammer.webp',
-          density: 0.0085, rest: 0.04, fric: 0.85, airBase: 0.002
+          density: 0.0085, rest: 0.04, fric: 0.85, airBase: 0.002,
+          label: function(env) { return 'heavy — lands with a thud'; }
         },
         paper: {
           w: 96, h: 108, shape: 'rect', img: 'item-paper.webp',
-          density: 0.0003, rest: 0.05, fric: 0.3, airBase: 0.07, sway: true
+          density: 0.0003, rest: 0.05, fric: 0.3, airBase: 0.07, sway: true,
+          label: function(env) { return env.air > 0 ? 'rides the air, sways down' : 'no air — falls straight down'; }
         },
         balloon: {
           w: 84, h: 140, shape: 'circle', img: 'item-balloon.webp',
-          density: 0.0004, rest: 0.60, fric: 0.1, airBase: 0.05, buoyant: true
+          density: 0.0004, rest: 0.60, fric: 0.1, airBase: 0.05, buoyant: true,
+          label: function(env) { return env.air > 0 ? 'lighter than air — it floats' : 'nothing to float in — it drops'; }
         },
         bouncy: {
           w: 84, h: 81, shape: 'circle', img: 'item-bouncy.webp',
-          density: 0.0015, rest: 0.88, fric: 0.3, airBase: 0.004
+          density: 0.0015, rest: 0.88, fric: 0.3, airBase: 0.004,
+          label: function(env) { return 'rubber stores energy — big bounces'; }
         },
         steel: {
           w: 80, h: 78, shape: 'circle', img: 'item-steel.webp',
-          density: 0.0095, rest: 0.05, fric: 0.5, airBase: 0.002
+          density: 0.0095, rest: 0.05, fric: 0.5, airBase: 0.002,
+          label: function(env) { return 'same size, but steel — barely bounces'; }
         },
         bubble: {
           w: 88, h: 86, shape: 'circle', img: 'item-bubble.webp', needsAir: true, sway: true,
-          density: 0.00008, rest: 0.1, fric: 0.05, airBase: 0.17
+          density: 0.00008, rest: 0.1, fric: 0.05, airBase: 0.17,
+          label: function(env) { return 'almost weightless — drifts on air'; }
         }
       };
       function matSrc(m) { return m.img ? EGAudio.url(m.img) : m.svg; }
@@ -476,7 +484,7 @@
 
       function spawnMaterials() {
         const air = currentAir();
-        const sc = W < 480 ? 0.95 : W < 768 ? 1.1 : 1.35;
+        const sc = W < 480 ? 1.15 : W < 768 ? 1.35 : 1.7;
         Object.keys(MATERIALS).forEach((k, i) => {
           const m  = MATERIALS[k];
           const dW = Math.round(m.w * sc);
@@ -877,6 +885,17 @@
       /* Ground shadows — light source is top-RIGHT (see the lit side
          of Earth in the surface art), so shadows sit on each object's
          own ground line, sliding LEFT and fading as the object rises. */
+      const labelEls = {};
+      function getLabelEl(en) {
+        let lb = labelEls[en.key];
+        if (!lb) {
+          lb = document.createElement('div');
+          lb.className = 'mat-label';
+          cv.parentElement.appendChild(lb);
+          labelEls[en.key] = lb;
+        }
+        return lb;
+      }
       const shadowEls = {};
       function getShadowEl(en) {
         let sh = shadowEls[en.key];
@@ -928,6 +947,21 @@
             if (en.floorY) {
               const halfH = (en.bh || en.dH) * s / 2;
               const alt = Math.max(0, en.floorY - (p.y + halfH));
+              if (en.mat && en.mat.label) {
+                const lb = getLabelEl(en);
+                const v = en.body.velocity;
+                const settled = alt < 8 && Math.abs(v.x) + Math.abs(v.y) < 0.6 && !en.body.isStatic;
+                if (settled) {
+                  const env = window.EGGravity ? EGGravity.get() : { air: 1 };
+                  const txt = en.mat.label(env);
+                  if (lb.textContent !== txt) lb.textContent = txt;
+                  lb.style.opacity = '1';
+                  lb.style.zIndex = String((parseInt(el.style.zIndex, 10) || 2) + 1);
+                  lb.style.transform = 'translate(' + p.x + 'px,' + (en.floorY + 10) + 'px) translate(-50%,0)';
+                } else {
+                  lb.style.opacity = '0';
+                }
+              }
               if (alt < 420) {
                 const sh = getShadowEl(en);
                 visibleShadows.add(sh);
@@ -960,6 +994,9 @@
         });
         Object.values(shadowEls).forEach(sh => {
           if (!visibleShadows.has(sh)) sh.style.display = 'none';
+        });
+        physEntries.forEach(en => {
+          if (en.hidden && labelEls[en.key]) labelEls[en.key].style.opacity = '0';
         });
       }
 
