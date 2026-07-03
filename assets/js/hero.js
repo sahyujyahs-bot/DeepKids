@@ -327,7 +327,7 @@
           if (!imgCache[key]) return; // skip cards whose images haven't loaded yet
 
           const info  = CARDS[key];
-          const sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (key === 'DasBox') ? (twoRow ? 1.36 : 1.15) : (twoRow ? 1.18 : 1);
+          const sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (key === 'DasBox') ? (twoRow ? 1.7 : 1.6) : (twoRow ? 1.18 : 1);
           const dW   = Math.round(slotW * sizeMult);
           const dH   = Math.round(slotW * sizeMult * info.h / info.w);
           maxCardH   = Math.max(maxCardH, dH);
@@ -385,7 +385,7 @@
         var idx = RAIN_KEYS.indexOf(key);
         if (idx === -1) return;
         var col = idx % cardsPerRow;
-        var sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (key === 'DasBox') ? (twoRow ? 1.36 : 1.15) : (twoRow ? 1.18 : 1);
+        var sizeMult = (key === 'EGBox') ? (twoRow ? 2.2 : 1.6) : (key === 'DasBox') ? (twoRow ? 1.7 : 1.6) : (twoRow ? 1.18 : 1);
         var dW = Math.round(slotW * sizeMult);
         var dH = Math.round(slotW * sizeMult * info.h / info.w);
         var x = GAP + col*(slotW+GAP) + slotW/2 + (Math.random()-.5)*slotW*.12;
@@ -421,7 +421,7 @@
           label: function(env) { return 'falls fast, small bounce'; }
         },
         feather: {
-          w: 118, h: 76, shape: 'rect', img: 'item-feather.webp',
+          w: 104, h: 67, shape: 'rect', img: 'item-feather.webp',
           density: 0.0002, rest: 0.10, fric: 0.2, airBase: 0.09, flutter: true,
           label: function(env) { return env.air > 0 ? 'air slows it — flutters down' : 'no air here — falls like the hammer!'; }
         },
@@ -456,12 +456,12 @@
           label: function(env) { return 'almost weightless — drifts on air'; }
         },
         beachball: {
-          w: 140, h: 139, shape: 'circle', img: 'item-beachball.webp',
+          w: 100, h: 99, shape: 'circle', img: 'item-beachball.webp',
           density: 0.0004, rest: 0.55, fric: 0.3, airBase: 0.03,
           label: function(env) { return env.air > 0 ? 'big but mostly air — size isn\'t weight' : 'no air to slow it — falls like the rest'; }
         },
         chute: {
-          w: 100, h: 183, shape: 'rect', img: 'item-chute.webp', sway: true,
+          w: 76, h: 139, shape: 'rect', img: 'item-chute.webp', sway: true,
           density: 0.0006, rest: 0.02, fric: 0.6, airBase: 0.14,
           label: function(env) { return env.air > 0 ? 'parachute catches air — slowest faller' : 'no air — the parachute does nothing!'; }
         }
@@ -500,9 +500,7 @@
           const dW = Math.round(m.w * sc);
           const dH = Math.round(m.h * sc);
           const x  = W * 0.08 + Math.random() * W * 0.84;
-          // Balloon starts near the floor (it rises); everything else rains in
-          const fromFloor = m.buoyant;
-          const y  = fromFloor ? H - dH / 2 - 4 : -dH / 2 - 40 - Math.random() * 80;
+          const y  = -dH / 2 - 40 - Math.random() * 80;
           const opts = {
             isStatic:    true,
             density:     m.density,
@@ -517,11 +515,9 @@
           physEntries.push({ body, key: 'mat_' + k, dW, dH, mat: m, baseAir: m.airBase, phase: Math.random() * Math.PI * 2 });
           rainTimers.push(setTimeout(() => {
             Body.setStatic(body, false);
-            if (!fromFloor) {
-              Body.setAngularVelocity(body, (Math.random() - .5) * .2);
-              Body.setVelocity(body, { x: (Math.random() - .5) * 1.2, y: 0 });
-              playSwoosh();
-            }
+            Body.setAngularVelocity(body, (Math.random() - .5) * .2);
+            Body.setVelocity(body, { x: (Math.random() - .5) * 1.2, y: 0 });
+            playSwoosh();
           }, 2400 + i * 320 + Math.random() * 300));
         });
       }
@@ -616,8 +612,47 @@
           }
         });
       }
+      // Impact sounds: thud for heavy things, bounce for balls
+      let thudBuf = null, bounceBuf = null;
+      try {
+        EGAudio.loadBuffer('impact thud sound.mp3', function(b) { thudBuf = b; });
+        EGAudio.loadBuffer('ball bounce.mp3', function(b) { bounceBuf = b; });
+      } catch(e) {}
+      const IMPACT_SOUND = {
+        hammer:    () => [thudBuf, 0.9],
+        steel:     () => [thudBuf, 1.15],
+        DasBox:    () => [thudBuf, 0.8],
+        apple:     () => [bounceBuf, 1.0],
+        bouncy:    () => [bounceBuf, 1.25],
+        beachball: () => [bounceBuf, 0.75],
+      };
+      function playImpact(en, vy) {
+        const f = IMPACT_SOUND[en.mat ? matKeyOf(en) : en.key];
+        if (!f) return;
+        const now = performance.now();
+        if (en._sndAt && now - en._sndAt < 260) return;
+        en._sndAt = now;
+        const [buf, rate] = f();
+        EGAudio.playBuffer(buf, { rate, vol: Math.min(0.55, 0.12 + vy / 30) });
+      }
+      function matKeyOf(en) { return en.key.replace('mat_', ''); }
+
       // Per-tick enforcement of each object's own ground line
       Events.on(engine, 'afterUpdate', function() {
+        // Hard wall containment for every body (fast flings can tunnel
+        // through the static walls — the EG box especially)
+        physEntries.forEach(en => {
+          if (en.body.isStatic || en.hidden) return;
+          const b = en.body;
+          const halfW = (en.bw || en.dW) / 2;
+          if (b.position.x < halfW) {
+            Body.setPosition(b, { x: halfW, y: b.position.y });
+            Body.setVelocity(b, { x: Math.abs(b.velocity.x) * 0.4, y: b.velocity.y });
+          } else if (b.position.x > W - halfW) {
+            Body.setPosition(b, { x: W - halfW, y: b.position.y });
+            Body.setVelocity(b, { x: -Math.abs(b.velocity.x) * 0.4, y: b.velocity.y });
+          }
+        });
         if (!SURFACE_PROFILES[terrainEnvKey]) return;
         // Dragging across the floor changes DEPTH: while the pointer is
         // on the ground area, the grabbed object slides between lanes
@@ -645,6 +680,7 @@
           if (bottom > en.floorY && b.velocity.y > 0) {
             Body.setPosition(b, { x: b.position.x, y: en.floorY - halfH });
             const vy = b.velocity.y;
+            if (vy > 2.2) playImpact(en, vy);
             Body.setVelocity(b, {
               x: b.velocity.x * 0.92,                        // ground friction
               y: vy > 1.4 ? -vy * (b.restitution || 0.3) : 0 // bounce or rest
@@ -712,7 +748,15 @@
           }
         });
       }
-      if (window.EGGravity) EGGravity.onChange(applyEnv);
+      if (window.EGGravity) EGGravity.onChange(function(env) {
+        applyEnv(env);
+        // Re-drop everything under the new gravity so the difference
+        // is impossible to miss (only when the hero is on screen)
+        if (window.pageYOffset < window.innerHeight * 0.8 &&
+            typeof window.replayRain === 'function') {
+          window.replayRain();
+        }
+      });
 
       /* spawnAll() runs once: sets up mouse constraint, runner, floaters, loop */
       function spawnAll() {
