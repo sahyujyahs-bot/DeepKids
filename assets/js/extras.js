@@ -434,6 +434,19 @@
   input.addEventListener('input', update);
   update();
 
+  // Hybrid world rule: highlight the row of the dial's current world
+  if (window.EGGravity) {
+    var GW_MATCH = { earth: 'Earth', moon: 'Moon', mars: 'Mars', jupiter: 'Jupiter', iss: 'ISS' };
+    var markRow = function(env) {
+      document.querySelectorAll('.gw-row').forEach(function(row) {
+        var name = row.querySelector('.gw-name');
+        row.classList.toggle('gw-here', !!name && name.textContent.trim() === GW_MATCH[env.key]);
+      });
+    };
+    EGGravity.onChange(markRow);
+    markRow(EGGravity.get());
+  }
+
   function playSound(vol) {
     window.egFlipSound(vol || 0.3);
   }

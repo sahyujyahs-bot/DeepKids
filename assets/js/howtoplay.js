@@ -1726,6 +1726,13 @@
   }
 
   function animateDrop(el, opts) {
+    // Hybrid world rule: physics playgrounds obey the gravity dial
+    if (window.EGGravity) {
+      var _env = EGGravity.get();
+      opts.gravity = opts.gravity * (_env.g === 0 ? 0.02 : _env.g);
+      opts.airResistance = (opts.airResistance || 0) * _env.air;
+      if (opts.sway) opts.sway = opts.sway * (0.3 + 0.7 * _env.air);
+    }
     var vy = 0;
     var maxY = 85;
     var landed = false;

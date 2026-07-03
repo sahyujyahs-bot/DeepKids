@@ -468,6 +468,15 @@
           w: 76, h: 139, shape: 'rect', img: 'item-chute.webp', sway: true,
           density: 0.0006, rest: 0.02, fric: 0.6, airBase: 0.14,
           label: function(env) { return env.air > 0 ? 'parachute catches air — slowest faller' : 'no air — the parachute does nothing!'; }
+        },
+        astro: {
+          w: 80, h: 114, shape: 'rect', img: 'item-astro.webp',
+          density: 0.0030, rest: 0.18, fric: 0.7, airBase: 0.012,
+          label: function(env) {
+            if (env.g === 0) return 'in freefall astronauts float — hello ISS!';
+            if (env.g < 0.5) return 'low gravity — astronauts bounce-walk here';
+            return 'a spacesuit weighs ~130 kg on Earth!';
+          }
         }
       };
       function matSrc(m) { return m.img ? EGAudio.url(m.img) : m.svg; }
