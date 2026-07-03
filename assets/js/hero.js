@@ -206,9 +206,7 @@
       rebuildWalls();
 
       /* ── Card keys ──────────────────────────────────────────── */
-      const RAIN_KEYS     = ['Card2Side2','Card4Side1','Card4Side2','Card5Side1',
-                             'Card5Side2','Card7Side2','Card8Side1','Card9Side1',
-                             'DKLogo','AppleTree','DasBox'];
+      const RAIN_KEYS     = ['DasBox'];
       const BIRD_KEY      = 'Card12Side2';
       const BALLOON_KEY   = 'Card12Side1';
       const PARACHUTE_KEY = 'Card13Side1';
@@ -418,29 +416,44 @@
       function svgURI(s) { return 'data:image/svg+xml;utf8,' + encodeURIComponent(s); }
       const MATERIALS = {
         apple: {
-          w: 42, h: 46, shape: 'circle',
+          w: 68, h: 74, shape: 'circle',
           density: 0.0020, rest: 0.45, fric: 0.4, airBase: 0.006,
           svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 46"><path d="M21 10 C21 6 23 3 26 2" stroke="#6d4326" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M26 6 C31 2 36 4 37 8 C33 11 27 10 26 6Z" fill="#7fb069"/><path d="M21 9 C10 9 4 18 5 27 C6 37 13 44 21 44 C29 44 36 37 37 27 C38 18 32 9 21 9Z" fill="#d94f3d"/><ellipse cx="14" cy="21" rx="4.5" ry="6" fill="#ffffff" opacity="0.25" transform="rotate(-20 14 21)"/></svg>')
         },
-        rocket: {
-          w: 30, h: 62, shape: 'rect',
-          density: 0.0060, rest: 0.06, fric: 0.8, airBase: 0.003,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 62"><path d="M15 1 C21 8 24 16 24 27 L24 46 L6 46 L6 27 C6 16 9 8 15 1Z" fill="#e8e4f0"/><path d="M6 38 L1 52 L6 49Z" fill="#aa59c8"/><path d="M24 38 L29 52 L24 49Z" fill="#aa59c8"/><rect x="10" y="46" width="10" height="7" rx="2" fill="#793194"/><path d="M11 53 L15 61 L19 53Z" fill="#ffc46b"/><circle cx="15" cy="22" r="5.5" fill="#7ec8ff" stroke="#793194" stroke-width="2"/></svg>')
-        },
         feather: {
-          w: 58, h: 24, shape: 'rect',
+          w: 96, h: 40, shape: 'rect',
           density: 0.0002, rest: 0.10, fric: 0.2, airBase: 0.09, flutter: true,
           svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 24"><path d="M2 22 C14 20 44 16 56 2 C46 4 20 6 8 14 C5 16 3 19 2 22Z" fill="#e9ddf3"/><path d="M2 22 C20 16 40 10 56 2" stroke="#cd9edf" stroke-width="1.4" fill="none"/></svg>')
         },
         paper: {
-          w: 50, h: 62, shape: 'rect',
+          w: 80, h: 99, shape: 'rect',
           density: 0.0003, rest: 0.05, fric: 0.3, airBase: 0.07, sway: true,
           svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 62"><rect x="1" y="1" width="48" height="60" rx="3" fill="#f4f1fa" stroke="#cbc3dd" stroke-width="1.5"/><line x1="9" y1="14" x2="41" y2="14" stroke="#b9aed1" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="24" x2="41" y2="24" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="34" x2="41" y2="34" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="44" x2="29" y2="44" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/></svg>')
         },
         balloon: {
-          w: 44, h: 62, shape: 'circle',
+          w: 70, h: 99, shape: 'circle',
           density: 0.0004, rest: 0.60, fric: 0.1, airBase: 0.05, buoyant: true,
           svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 62"><path d="M22 44 C10 40 3 30 3 20 C3 9 11 2 22 2 C33 2 41 9 41 20 C41 30 34 40 22 44Z" fill="#cd9edf"/><ellipse cx="14" cy="14" rx="5" ry="8" fill="#ffffff" opacity="0.3" transform="rotate(-18 14 14)"/><path d="M19 44 L25 44 L22 49Z" fill="#aa59c8"/><path d="M22 49 C20 53 24 56 22 61" stroke="#aa59c8" stroke-width="1.6" fill="none"/></svg>')
+        }
+        ,hammer: {
+          w: 58, h: 84, shape: 'rect',
+          density: 0.0085, rest: 0.04, fric: 0.85, airBase: 0.002,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 84"><rect x="24" y="20" width="10" height="62" rx="4" fill="#b08558" stroke="rgba(255,255,255,0.75)" stroke-width="2"/><rect x="6" y="2" width="46" height="22" rx="7" fill="#b9b3c9" stroke="rgba(255,255,255,0.8)" stroke-width="2.4"/><rect x="10" y="6" width="14" height="5" rx="2.5" fill="#ffffff" opacity="0.45"/></svg>')
+        },
+        bouncy: {
+          w: 54, h: 54, shape: 'circle',
+          density: 0.0015, rest: 0.88, fric: 0.3, airBase: 0.004,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54"><circle cx="27" cy="27" r="25" fill="#e85d75" stroke="rgba(255,255,255,0.85)" stroke-width="2.4"/><path d="M4 33 C18 24 36 24 50 33" stroke="#f7c8d2" stroke-width="6" fill="none"/><ellipse cx="18" cy="15" rx="7" ry="5" fill="#ffffff" opacity="0.5" transform="rotate(-24 18 15)"/></svg>')
+        },
+        steel: {
+          w: 54, h: 54, shape: 'circle',
+          density: 0.0095, rest: 0.05, fric: 0.5, airBase: 0.002,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54"><defs><radialGradient id="st" cx="0.35" cy="0.3" r="0.9"><stop offset="0%" stop-color="#e8e6f0"/><stop offset="45%" stop-color="#9c96ad"/><stop offset="100%" stop-color="#4e4960"/></radialGradient></defs><circle cx="27" cy="27" r="25" fill="url(#st)" stroke="rgba(255,255,255,0.8)" stroke-width="2.2"/><ellipse cx="18" cy="14" rx="8" ry="5" fill="#ffffff" opacity="0.55" transform="rotate(-24 18 14)"/></svg>')
+        },
+        bubble: {
+          w: 62, h: 62, shape: 'circle', needsAir: true, sway: true,
+          density: 0.00008, rest: 0.1, fric: 0.05, airBase: 0.17,
+          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 62"><circle cx="31" cy="31" r="28" fill="rgba(190,215,255,0.13)" stroke="rgba(235,245,255,0.6)" stroke-width="2"/><path d="M12 22 C15 14 22 9 30 8" stroke="rgba(255,255,255,0.75)" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M46 44 C43 49 38 52 33 53" stroke="rgba(255,255,255,0.4)" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>')
         }
       };
       Object.keys(MATERIALS).forEach(k => {
@@ -470,7 +483,7 @@
 
       function spawnMaterials() {
         const air = currentAir();
-        const sc = W < 480 ? 0.72 : W < 768 ? 0.85 : 1;
+        const sc = W < 480 ? 0.95 : W < 768 ? 1.1 : 1.35;
         Object.keys(MATERIALS).forEach((k, i) => {
           const m  = MATERIALS[k];
           const dW = Math.round(m.w * sc);
@@ -644,6 +657,21 @@
       }
       function applyEnv(env) {
         envBg = ENV_BG[env.key] || ENV_BG.earth;
+        // Bubbles can't exist in vacuum: pop on airless worlds,
+        // reappear from the top when air returns
+        physEntries.forEach(en => {
+          if (!en.mat || !en.mat.needsAir) return;
+          if (env.air === 0 && !en.hidden) {
+            en.hidden = true;
+            Body.setStatic(en.body, true);
+            Body.setPosition(en.body, { x: W / 2, y: -3000 });
+          } else if (env.air > 0 && en.hidden) {
+            en.hidden = false;
+            Body.setPosition(en.body, { x: W * 0.15 + Math.random() * W * 0.7, y: -80 });
+            Body.setStatic(en.body, false);
+            Body.setVelocity(en.body, { x: 0, y: 0 });
+          }
+        });
         engine.gravity.y = 4 * env.g;
         buildTerrain(env.key);
         // Depth lanes are honest 3D: objects in different lanes must not
@@ -876,7 +904,7 @@
         const visibleRainEls = new Set();
         const visibleShadows = new Set();
         physEntries.forEach(en => {
-          if (!imgCache[en.key]) return;
+          if (!imgCache[en.key] || en.hidden) return;
           const { position: p, angle: a } = en.body;
           const el = rainImgEls[en.key];
           // 2.5D: scale + dim with distance (far = deeper in the scene)
