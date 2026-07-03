@@ -4848,3 +4848,39 @@ html[data-env="moon"] #env-tint { opacity: 0.45; }
 @media (max-width: 768px) {
   .mat-label { font-size: 10px; padding: 2px 8px; }
 }
+
+/* Chalk toss-gesture tutorial cue */
+#toss-cue {
+  position: absolute;
+  top: 0; left: 0;
+  width: 120px; height: 90px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+  z-index: 40;
+}
+#toss-cue.show { opacity: 1; }
+#toss-cue svg { width: 100%; height: 100%; }
+#toss-cue .tc-arc,
+#toss-cue .tc-arrow {
+  stroke: rgba(255,255,255,0.75);
+  stroke-width: 2.5;
+  stroke-linecap: round;
+  stroke-dasharray: 7 8;
+  filter: drop-shadow(0 0 4px rgba(0,0,0,0.8));
+}
+#toss-cue .tc-arc { animation: tc-march 1.2s linear infinite; }
+@keyframes tc-march { to { stroke-dashoffset: -30; } }
+#toss-cue .tc-hand {
+  position: absolute;
+  left: 2px; bottom: -14px;
+  font-size: 26px;
+  transform-origin: 60% 80%;
+  animation: tc-grab 1.6s ease-in-out infinite;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.7));
+}
+@keyframes tc-grab {
+  0%, 100% { transform: translate(0, 0) rotate(-8deg); }
+  45%      { transform: translate(10px, -14px) rotate(10deg); }
+  60%      { transform: translate(12px, -16px) rotate(12deg); }
+}

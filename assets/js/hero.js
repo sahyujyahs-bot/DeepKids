@@ -691,6 +691,53 @@
       });
       addEventListener('resize', () => buildTerrain(terrainEnvKey));
 
+      /* ── Grab affordance: chalk toss-gesture cue + hover nudge ──
+         The cue (chalk hand + dashed arc) rides the bouncy ball once
+         it settles, until the user's first real drag ever. Hovering
+         any object gives it a tiny lift so it feels alive. */
+      let tossCue = null;
+      let tossCueDone = false;
+      try { tossCueDone = localStorage.getItem('eg-tossed') === '1'; } catch(e) {}
+      function getTossCue() {
+        if (tossCue) return tossCue;
+        tossCue = document.createElement('div');
+        tossCue.id = 'toss-cue';
+        tossCue.innerHTML =
+          '<svg viewBox="0 0 120 90" xmlns="http://www.w3.org/2000/svg">' +
+            '<path class="tc-arc" d="M14 72 C 30 18, 78 10, 108 34" fill="none"/>' +
+            '<path class="tc-arrow" d="M100 24 L108 34 L95 38" fill="none"/>' +
+          '</svg>' +
+          '<div class="tc-hand">✋</div>';
+        cv.parentElement.appendChild(tossCue);
+        return tossCue;
+      }
+      function dismissTossCue() {
+        tossCueDone = true;
+        try { localStorage.setItem('eg-tossed', '1'); } catch(e) {}
+        if (tossCue) tossCue.classList.remove('show');
+      }
+      window._egDismissTossCue = dismissTossCue;
+
+      // Hover nudge: a light lift when the pointer passes over a body
+      let lastNudge = 0;
+      cv.addEventListener('pointermove', function(ev) {
+        const now = performance.now();
+        if (now - lastNudge < 350) return;
+        const rect = cv.getBoundingClientRect();
+        const px = ev.clientX - rect.left, py = ev.clientY - rect.top;
+        for (const en of physEntries) {
+          if (en.body.isStatic || en.hidden) continue;
+          const b = en.body;
+          const hw = (en.bw || en.dW) / 2, hh = (en.bh || en.dH) / 2;
+          if (Math.abs(px - b.position.x) < hw && Math.abs(py - b.position.y) < hh) {
+            Body.setVelocity(b, { x: b.velocity.x, y: b.velocity.y - 1.6 });
+            Body.setAngularVelocity(b, (Math.random() - .5) * 0.06);
+            lastNudge = now;
+            break;
+          }
+        }
+      }, { passive: true });
+
       /* ── Environment (gravity dial) hookup ─────────────────── */
       let ceiling = null;
       function setCeiling(on) {
@@ -790,6 +837,9 @@
         });
         World.add(world, mc);
         dragMC = mc;
+        Events.on(mc, 'startdrag', function() {
+          if (window._egDismissTossCue) window._egDismissTossCue();
+        });
 
         /* ── Smart touch: drag cards OR scroll page (with momentum) ── */
         let touchLastY = 0;
@@ -1005,6 +1055,15 @@
                 const lb = getLabelEl(en);
                 const v = en.body.velocity;
                 const settled = alt < 8 && Math.abs(v.x) + Math.abs(v.y) < 0.6 && !en.body.isStatic;
+                if (en.key === 'mat_bouncy' && !tossCueDone) {
+                  const cue = getTossCue();
+                  if (settled) {
+                    cue.classList.add('show');
+                    cue.style.transform = 'translate(' + (p.x - 46) + 'px,' + (p.y - en.dH * s / 2 - 92) + 'px)';
+                  } else {
+                    cue.classList.remove('show');
+                  }
+                }
                 if (settled) {
                   const env = window.EGGravity ? EGGravity.get() : { air: 1 };
                   const txt = en.mat.label(env);
