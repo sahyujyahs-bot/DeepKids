@@ -416,55 +416,48 @@
       function svgURI(s) { return 'data:image/svg+xml;utf8,' + encodeURIComponent(s); }
       const MATERIALS = {
         apple: {
-          w: 68, h: 74, shape: 'circle',
-          density: 0.0020, rest: 0.45, fric: 0.4, airBase: 0.006,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 46"><path d="M21 10 C21 6 23 3 26 2" stroke="#6d4326" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M26 6 C31 2 36 4 37 8 C33 11 27 10 26 6Z" fill="#7fb069"/><path d="M21 9 C10 9 4 18 5 27 C6 37 13 44 21 44 C29 44 36 37 37 27 C38 18 32 9 21 9Z" fill="#d94f3d"/><ellipse cx="14" cy="21" rx="4.5" ry="6" fill="#ffffff" opacity="0.25" transform="rotate(-20 14 21)"/></svg>')
+          w: 84, h: 86, shape: 'circle', img: 'item-apple.webp',
+          density: 0.0020, rest: 0.45, fric: 0.4, airBase: 0.006
         },
         feather: {
-          w: 96, h: 40, shape: 'rect',
-          density: 0.0002, rest: 0.10, fric: 0.2, airBase: 0.09, flutter: true,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 24"><path d="M2 22 C14 20 44 16 56 2 C46 4 20 6 8 14 C5 16 3 19 2 22Z" fill="#e9ddf3"/><path d="M2 22 C20 16 40 10 56 2" stroke="#cd9edf" stroke-width="1.4" fill="none"/></svg>')
+          w: 118, h: 76, shape: 'rect', img: 'item-feather.webp',
+          density: 0.0002, rest: 0.10, fric: 0.2, airBase: 0.09, flutter: true
+        },
+        hammer: {
+          w: 92, h: 110, shape: 'rect', img: 'item-hammer.webp',
+          density: 0.0085, rest: 0.04, fric: 0.85, airBase: 0.002
         },
         paper: {
-          w: 80, h: 99, shape: 'rect',
-          density: 0.0003, rest: 0.05, fric: 0.3, airBase: 0.07, sway: true,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 62"><rect x="1" y="1" width="48" height="60" rx="3" fill="#f4f1fa" stroke="#cbc3dd" stroke-width="1.5"/><line x1="9" y1="14" x2="41" y2="14" stroke="#b9aed1" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="24" x2="41" y2="24" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="34" x2="41" y2="34" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/><line x1="9" y1="44" x2="29" y2="44" stroke="#cfc7e0" stroke-width="2" stroke-linecap="round"/></svg>')
+          w: 96, h: 108, shape: 'rect', img: 'item-paper.webp',
+          density: 0.0003, rest: 0.05, fric: 0.3, airBase: 0.07, sway: true
         },
         balloon: {
-          w: 70, h: 99, shape: 'circle',
-          density: 0.0004, rest: 0.60, fric: 0.1, airBase: 0.05, buoyant: true,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 62"><path d="M22 44 C10 40 3 30 3 20 C3 9 11 2 22 2 C33 2 41 9 41 20 C41 30 34 40 22 44Z" fill="#cd9edf"/><ellipse cx="14" cy="14" rx="5" ry="8" fill="#ffffff" opacity="0.3" transform="rotate(-18 14 14)"/><path d="M19 44 L25 44 L22 49Z" fill="#aa59c8"/><path d="M22 49 C20 53 24 56 22 61" stroke="#aa59c8" stroke-width="1.6" fill="none"/></svg>')
-        }
-        ,hammer: {
-          w: 58, h: 84, shape: 'rect',
-          density: 0.0085, rest: 0.04, fric: 0.85, airBase: 0.002,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 84"><rect x="24" y="20" width="10" height="62" rx="4" fill="#b08558" stroke="rgba(255,255,255,0.75)" stroke-width="2"/><rect x="6" y="2" width="46" height="22" rx="7" fill="#b9b3c9" stroke="rgba(255,255,255,0.8)" stroke-width="2.4"/><rect x="10" y="6" width="14" height="5" rx="2.5" fill="#ffffff" opacity="0.45"/></svg>')
+          w: 84, h: 140, shape: 'circle', img: 'item-balloon.webp',
+          density: 0.0004, rest: 0.60, fric: 0.1, airBase: 0.05, buoyant: true
         },
         bouncy: {
-          w: 54, h: 54, shape: 'circle',
-          density: 0.0015, rest: 0.88, fric: 0.3, airBase: 0.004,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54"><circle cx="27" cy="27" r="25" fill="#e85d75" stroke="rgba(255,255,255,0.85)" stroke-width="2.4"/><path d="M4 33 C18 24 36 24 50 33" stroke="#f7c8d2" stroke-width="6" fill="none"/><ellipse cx="18" cy="15" rx="7" ry="5" fill="#ffffff" opacity="0.5" transform="rotate(-24 18 15)"/></svg>')
+          w: 84, h: 81, shape: 'circle', img: 'item-bouncy.webp',
+          density: 0.0015, rest: 0.88, fric: 0.3, airBase: 0.004
         },
         steel: {
-          w: 54, h: 54, shape: 'circle',
-          density: 0.0095, rest: 0.05, fric: 0.5, airBase: 0.002,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54"><defs><radialGradient id="st" cx="0.35" cy="0.3" r="0.9"><stop offset="0%" stop-color="#e8e6f0"/><stop offset="45%" stop-color="#9c96ad"/><stop offset="100%" stop-color="#4e4960"/></radialGradient></defs><circle cx="27" cy="27" r="25" fill="url(#st)" stroke="rgba(255,255,255,0.8)" stroke-width="2.2"/><ellipse cx="18" cy="14" rx="8" ry="5" fill="#ffffff" opacity="0.55" transform="rotate(-24 18 14)"/></svg>')
+          w: 80, h: 78, shape: 'circle', img: 'item-steel.webp',
+          density: 0.0095, rest: 0.05, fric: 0.5, airBase: 0.002
         },
         bubble: {
-          w: 62, h: 62, shape: 'circle', needsAir: true, sway: true,
-          density: 0.00008, rest: 0.1, fric: 0.05, airBase: 0.17,
-          svg: svgURI('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 62"><circle cx="31" cy="31" r="28" fill="rgba(190,215,255,0.13)" stroke="rgba(235,245,255,0.6)" stroke-width="2"/><path d="M12 22 C15 14 22 9 30 8" stroke="rgba(255,255,255,0.75)" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M46 44 C43 49 38 52 33 53" stroke="rgba(255,255,255,0.4)" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>')
+          w: 88, h: 86, shape: 'circle', img: 'item-bubble.webp', needsAir: true, sway: true,
+          density: 0.00008, rest: 0.1, fric: 0.05, airBase: 0.17
         }
       };
+      function matSrc(m) { return m.img ? EGAudio.url(m.img) : m.svg; }
       Object.keys(MATERIALS).forEach(k => {
         const img = new Image();
-        img.src = MATERIALS[k].svg;
+        img.src = matSrc(MATERIALS[k]);
         img.onload = () => { imgCache['mat_' + k] = img; };
         // Materials render as DOM images (like the rain cards) so they
         // sit ABOVE the environment surface art, not on the star canvas
         // behind it.
         const el = document.createElement('img');
-        el.src = MATERIALS[k].svg;
+        el.src = matSrc(MATERIALS[k]);
         el.alt = '';
         el.style.position = 'absolute';
         el.style.left = '0';
@@ -890,7 +883,7 @@
         if (!sh) {
           sh = document.createElement('img');
           sh.className = 'eg-ground-shadow';
-          sh.src = en.mat ? en.mat.svg : EGAudio.url(CARDS[en.key].src);
+          sh.src = en.mat ? matSrc(en.mat) : EGAudio.url(CARDS[en.key].src);
           sh.alt = '';
           cv.parentElement.appendChild(sh);
           shadowEls[en.key] = sh;
@@ -913,7 +906,7 @@
           const ox = (en.ox !== undefined ? en.ox : en.dW / 2) * s;
           const oy = (en.oy !== undefined ? en.oy : en.dH / 2) * s;
           if (el) {
-            if (!el.src) el.src = en.mat ? en.mat.svg : EGAudio.url(CARDS[en.key].src);
+            if (!el.src) el.src = en.mat ? matSrc(en.mat) : EGAudio.url(CARDS[en.key].src);
             visibleRainEls.add(el);
             el.style.display = 'block';
             el.style.width  = (en.dW * s) + 'px';
