@@ -804,7 +804,7 @@
         bigTossToast.textContent = env && env.key === 'moon'
           ? 'low gravity — that toss went ~6× higher than on Earth!'
           : 'low gravity — tosses fly much higher here!';
-        bigTossToast.style.transform = 'translate(' + (W / 2) + 'px, 90px) translate(-50%,0)';
+        bigTossToast.style.transform = 'translate(' + (W / 2) + 'px,' + Math.round(H * 0.56) + 'px) translate(-50%,0)';
         bigTossToast.style.zIndex = '60';
         bigTossToast.style.opacity = '1';
         setTimeout(() => { if (bigTossToast) bigTossToast.style.opacity = '0'; }, 3200);
