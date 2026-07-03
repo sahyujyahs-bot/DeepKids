@@ -279,7 +279,8 @@
       });
 
       /* ── Rain state ─────────────────────────────────────────── */
-      const physEntries = [];   // { body, key, dW, dH }
+      const physEntries = [];
+      window._dbgEntries = physEntries;   // { body, key, dW, dH }
       const rainTimers  = [];   // setTimeout IDs — cancelled on replay
       let maxCardH      = 200;
       let teaseActive   = true;
@@ -497,12 +498,20 @@
 
       function spawnMaterials() {
         const air = currentAir();
-        const sc = W < 480 ? 1.3 : W < 768 ? 1.55 : 2.0;
-        Object.keys(MATERIALS).forEach((k, i) => {
+        const sc = W < 480 ? 1.0 : W < 768 ? 1.3 : 2.0;
+        // Phones get a curated cast — the full lineup heaps up in a
+        // narrow viewport
+        const KEYS = W < 768
+          ? ['apple', 'feather', 'hammer', 'bouncy', 'balloon']
+          : Object.keys(MATERIALS);
+        KEYS.forEach((k, i) => {
           const m  = MATERIALS[k];
           const dW = Math.round(m.w * sc);
           const dH = Math.round(m.h * sc);
-          const x  = W * 0.08 + Math.random() * W * 0.84;
+          // Even slots with jitter — random x heaps everything on
+          // narrow screens
+          const slot = KEYS.length > 1 ? i / (KEYS.length - 1) : 0.5;
+          const x  = W * 0.1 + slot * W * 0.8 + (Math.random() - 0.5) * W * 0.06;
           const y  = -dH / 2 - 40 - Math.random() * 80;
           const opts = {
             isStatic:    true,
@@ -686,6 +695,7 @@
           if (bottom > en.floorY && b.velocity.y > 0) {
             Body.setPosition(b, { x: b.position.x, y: en.floorY - halfH });
             const vy = b.velocity.y;
+            if (vy > 1.2) en._labelUntil = performance.now() + 2600;
             if (vy > 2.2) playImpact(en, vy);
             Body.setVelocity(b, {
               x: b.velocity.x * 0.92,                        // ground friction
@@ -1098,7 +1108,8 @@
                     cue.classList.remove('show');
                   }
                 }
-                if (settled) {
+                const labelOk = W >= 768 || (en._labelUntil && performance.now() < en._labelUntil);
+                if (settled && labelOk) {
                   const env = window.EGGravity ? EGGravity.get() : { air: 1 };
                   const txt = en.mat.label(env);
                   if (lb.textContent !== txt) lb.textContent = txt;
