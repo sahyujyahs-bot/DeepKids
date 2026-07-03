@@ -138,10 +138,10 @@
     /* ── Canvas ────────────────────────────────────────────────── */
     #cv {
       position: absolute; inset: 0; z-index: 0;
-      display: block; cursor: grab;
+      display: block;   /* cursor managed by JS: spiral by default,
+                           grab only over a physics object */
       touch-action: none;     /* JS handles scroll vs drag decision */
     }
-    #cv:active { cursor: grabbing; }
 
 
 

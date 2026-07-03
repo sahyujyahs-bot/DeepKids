@@ -187,6 +187,8 @@
       // blocks audio before user interaction). The redo button and all
       // subsequent rains play with sound because the user has interacted.
       function playSwoosh() {
+        // No air, no sound of falling — vacuum is silent
+        if (window.EGGravity && EGGravity.get().air <= 0) return;
         EGAudio.playBuffer(swooshBuffer, {
           rate: 0.9 + Math.random() * 0.2,
           vol: 0.35 + Math.random() * 0.15
@@ -671,6 +673,9 @@
         }
         physEntries.forEach(en => {
           if (en.depthFrac === undefined) en.depthFrac = Math.random();
+          if (en.body.position.y < -H * 0.3 && window.EGGravity && EGGravity.get().g < 0.5 && EGGravity.get().g > 0.01) {
+            showBigTossToast();
+          }
           en.floorY = floorYFor(en);
           if (!en.floorY || en.body.isStatic) return;
           const b = en.body;
@@ -697,7 +702,8 @@
          any object gives it a tiny lift so it feels alive. */
       let tossCue = null;
       let tossCueDone = false;
-      try { tossCueDone = localStorage.getItem('eg-tossed') === '1'; } catch(e) {}
+      let tossCueSnooze = 0;
+      try { tossCueDone = parseInt(localStorage.getItem('eg-toss-count') || '0', 10) >= 3; } catch(e) {}
       function getTossCue() {
         if (tossCue) return tossCue;
         tossCue = document.createElement('div');
@@ -712,8 +718,13 @@
         return tossCue;
       }
       function dismissTossCue() {
-        tossCueDone = true;
-        try { localStorage.setItem('eg-tossed', '1'); } catch(e) {}
+        let n = 0;
+        try {
+          n = parseInt(localStorage.getItem('eg-toss-count') || '0', 10) + 1;
+          localStorage.setItem('eg-toss-count', String(n));
+        } catch(e) { n = 3; }
+        if (n >= 3) tossCueDone = true;
+        else tossCueSnooze = performance.now() + 10000;   // rest, then re-invite
         if (tossCue) tossCue.classList.remove('show');
       }
       window._egDismissTossCue = dismissTossCue;
@@ -721,33 +732,59 @@
       // Hover nudge: a light lift when the pointer passes over a body
       let lastNudge = 0;
       cv.addEventListener('pointermove', function(ev) {
-        const now = performance.now();
-        if (now - lastNudge < 350) return;
         const rect = cv.getBoundingClientRect();
         const px = ev.clientX - rect.left, py = ev.clientY - rect.top;
+        let over = false;
         for (const en of physEntries) {
           if (en.body.isStatic || en.hidden) continue;
           const b = en.body;
           const hw = (en.bw || en.dW) / 2, hh = (en.bh || en.dH) / 2;
           if (Math.abs(px - b.position.x) < hw && Math.abs(py - b.position.y) < hh) {
-            Body.setVelocity(b, { x: b.velocity.x, y: b.velocity.y - 1.6 });
-            Body.setAngularVelocity(b, (Math.random() - .5) * 0.06);
-            lastNudge = now;
+            over = true;
+            const now = performance.now();
+            if (now - lastNudge > 300) {
+              Body.setVelocity(b, { x: b.velocity.x, y: b.velocity.y - 2.4 });
+              Body.setAngularVelocity(b, (Math.random() - .5) * 0.08);
+              lastNudge = now;
+            }
             break;
           }
         }
+        // Spiral cursor (inherited from body) rules the hero; over a
+        // grabbable object it hands over to the grab hand
+        cv.style.cursor = over ? 'grab' : '';
       }, { passive: true });
 
       /* ── Environment (gravity dial) hookup ─────────────────── */
       let ceiling = null;
       function setCeiling(on) {
-        if (on && !ceiling) {
-          ceiling = Bodies.rectangle(W / 2, -450, W + 600, 80, { isStatic: true });
+        // Always-on catch ceiling far above the stage: big low-gravity
+        // tosses come back instead of vanishing for ages
+        if (!ceiling) {
+          ceiling = Bodies.rectangle(W / 2, -H * 0.95 - 40, W + 600, 80, { isStatic: true });
           World.add(world, ceiling);
-        } else if (!on && ceiling) {
-          World.remove(world, ceiling);
-          ceiling = null;
         }
+      }
+      setCeiling(true);
+      let bigTossToast = null, bigTossAt = 0;
+      function showBigTossToast() {
+        const now = performance.now();
+        if (now - bigTossAt < 9000) return;
+        bigTossAt = now;
+        if (!bigTossToast) {
+          bigTossToast = document.createElement('div');
+          bigTossToast.className = 'mat-label';
+          bigTossToast.style.fontSize = '13px';
+          cv.parentElement.appendChild(bigTossToast);
+        }
+        const env = window.EGGravity ? EGGravity.get() : null;
+        bigTossToast.textContent = env && env.key === 'moon'
+          ? 'low gravity — that toss went ~6× higher than on Earth!'
+          : 'low gravity — tosses fly much higher here!';
+        bigTossToast.style.transform = 'translate(' + (W / 2) + 'px, 90px) translate(-50%,0)';
+        bigTossToast.style.zIndex = '60';
+        bigTossToast.style.opacity = '1';
+        setTimeout(() => { if (bigTossToast) bigTossToast.style.opacity = '0'; }, 3200);
       }
       function applyEnv(env) {
         envBg = ENV_BG[env.key] || ENV_BG.earth;
@@ -839,7 +876,9 @@
         dragMC = mc;
         Events.on(mc, 'startdrag', function() {
           if (window._egDismissTossCue) window._egDismissTossCue();
+          cv.style.cursor = 'grabbing';
         });
+        Events.on(mc, 'enddrag', function() { cv.style.cursor = ''; });
 
         /* ── Smart touch: drag cards OR scroll page (with momentum) ── */
         let touchLastY = 0;
@@ -1057,7 +1096,7 @@
                 const settled = alt < 8 && Math.abs(v.x) + Math.abs(v.y) < 0.6 && !en.body.isStatic;
                 if (en.key === 'mat_bouncy' && !tossCueDone) {
                   const cue = getTossCue();
-                  if (settled) {
+                  if (settled && performance.now() > tossCueSnooze) {
                     cue.classList.add('show');
                     cue.style.transform = 'translate(' + (p.x - 46) + 'px,' + (p.y - en.dH * s / 2 - 92) + 'px)';
                   } else {
