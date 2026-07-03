@@ -264,25 +264,59 @@ window.EGGravity = (function(){
   }
   function onChange(fn) { listeners.push(fn); }
 
-  /* Dial UI — built at load if the mount point exists */
+  /* Dial UI — a rotating world dial. Worlds sit on a ring; choosing
+     one turns the ring so that world lands under the pointer. */
   function buildDial() {
     var mount = document.getElementById('g-dial');
     if (!mount) return;
-    var html = '<div class="g-dial-title">gravity</div>';
-    ORDER.forEach(function(k) {
+    mount.classList.add('gd');
+    var html = '<div class="gd-pointer"></div><div class="gd-ring" id="gd-ring">';
+    ORDER.forEach(function(k, i) {
       var e = ENVS[k];
-      html += '<button class="g-dial-btn' + (k === current ? ' active' : '') + '" data-env="' + k + '" title="' + e.label + '" aria-label="Set gravity to ' + e.label + '">' +
-        '<span class="g-dial-icon">' + e.icon + '</span><span class="g-dial-name">' + e.label + '</span></button>';
+      html += '<button class="gd-world' + (k === current ? ' active' : '') + '" data-env="' + k + '" data-i="' + i + '" aria-label="Set gravity to ' + e.label + '"><span>' + e.icon + '</span></button>';
     });
+    html += '</div><div class="gd-hub"><div class="gd-name" id="gd-name"></div><div class="gd-g" id="gd-g"></div></div>';
     html += '<div class="g-dial-note" id="g-dial-note"></div>';
     mount.innerHTML = html;
+
+    var ring = document.getElementById('gd-ring');
+    var STEP = 360 / ORDER.length;
+    var R = 44;   // ring radius in px (matches CSS size)
+
+    function layout(rot) {
+      ring.style.transform = 'rotate(' + rot + 'deg)';
+      ring.querySelectorAll('.gd-world').forEach(function(btn) {
+        var i = parseInt(btn.dataset.i, 10);
+        var a = i * STEP;
+        // place on ring; counter-rotate so icons stay upright
+        btn.style.transform =
+          'translate(-50%,-50%) rotate(' + a + 'deg) translate(0,' + (-R) + 'px) rotate(' + (-a - rot) + 'deg)';
+      });
+    }
+    function updateHub() {
+      var e = ENVS[current];
+      var nameEl = document.getElementById('gd-name');
+      var gEl = document.getElementById('gd-g');
+      if (nameEl) nameEl.textContent = e.label;
+      if (gEl) gEl.textContent = e.g === 0 ? 'freefall' : ('g × ' + (Math.round(e.g * 100) / 100));
+    }
+    function rotTo(key, animate) {
+      var i = ORDER.indexOf(key);
+      var rot = -i * STEP;
+      ring.style.transition = animate ? 'transform 0.85s cubic-bezier(.34,1.4,.44,1)' : 'none';
+      layout(rot);
+      mount.querySelectorAll('.gd-world').forEach(function(b) {
+        b.classList.toggle('active', b.dataset.env === key);
+      });
+      updateHub();
+    }
+    rotTo(current, false);
+
     mount.addEventListener('click', function(ev) {
-      var btn = ev.target.closest('.g-dial-btn');
+      var btn = ev.target.closest('.gd-world');
       if (!btn) return;
       set(btn.dataset.env);
-      mount.querySelectorAll('.g-dial-btn').forEach(function(b) {
-        b.classList.toggle('active', b === btn);
-      });
+      rotTo(current, true);
       var note = document.getElementById('g-dial-note');
       if (note) {
         note.textContent = ENVS[current].note;

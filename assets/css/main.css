@@ -4643,59 +4643,86 @@
    Fixed environment switcher. Each environment flips the page's
    ambient tint (via html[data-env]) and, through EGGravity, the
    physics g + air values of every live object. */
-#g-dial {
+#g-dial.gd {
   position: fixed;
-  left: clamp(6px, 1vw, 14px);
+  left: clamp(8px, 1.2vw, 18px);
   top: 50%;
   transform: translateY(-50%);
   z-index: 95;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
-  background: rgba(10,6,24,0.82);
-  border: 1.5px solid rgba(var(--purple-rgb), 0.45);
-  border-radius: 999px;
-  padding: 10px 5px;
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 42%, rgba(26,16,48,0.92), rgba(10,6,24,0.94));
+  border: 1.5px solid rgba(var(--purple-rgb), 0.5);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.55), inset 0 0 26px rgba(var(--purple-rgb),0.16);
   backdrop-filter: blur(6px);
-  box-shadow: 0 6px 24px rgba(0,0,0,0.45);
 }
-.g-dial-title {
-  font-family: var(--font-body);
-  font-size: 9px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  color: rgba(255,255,255,0.45);
-  margin-bottom: 2px;
-  writing-mode: horizontal-tb;
+/* ring ticks */
+#g-dial.gd::before {
+  content: '';
+  position: absolute;
+  inset: 7px;
+  border-radius: 50%;
+  border: 1.5px dashed rgba(var(--lilac-rgb), 0.28);
 }
-.g-dial-btn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0;
-  width: 40px;
-  padding: 5px 0 4px;
-  background: transparent;
+.gd-pointer {
+  position: absolute;
+  top: -7px; left: 50%;
+  transform: translateX(-50%);
+  width: 0; height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 10px solid var(--lilac);
+  filter: drop-shadow(0 0 6px rgba(var(--lilac-rgb),0.8));
+  z-index: 3;
+}
+.gd-ring {
+  position: absolute;
+  inset: 0;
+  will-change: transform;
+}
+.gd-world {
+  position: absolute;
+  left: 50%; top: 50%;
+  width: 34px; height: 34px;
+  border-radius: 50%;
   border: 1.5px solid transparent;
-  border-radius: 12px;
+  background: rgba(255,255,255,0.05);
   cursor: pointer;
-  transition: background 0.2s, border-color 0.2s, transform 0.15s;
+  font-size: 17px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.3s, background 0.3s, box-shadow 0.3s;
 }
-.g-dial-btn:hover { background: rgba(var(--purple-rgb), 0.14); transform: scale(1.08); }
-.g-dial-btn.active {
-  background: rgba(var(--purple-rgb), 0.20);
-  border-color: rgba(var(--purple-rgb), 0.65);
+.gd-world:hover { background: rgba(var(--purple-rgb),0.22); }
+.gd-world.active {
+  border-color: rgba(var(--lilac-rgb),0.9);
+  background: rgba(var(--purple-rgb),0.3);
+  box-shadow: 0 0 12px rgba(var(--purple-rgb),0.7);
 }
-.g-dial-icon { font-size: 17px; line-height: 1.2; }
-.g-dial-name {
+.gd-hub {
+  position: absolute;
+  left: 50%; top: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  pointer-events: none;
+}
+.gd-name {
   font-family: var(--font-body);
-  font-size: 8px;
-  letter-spacing: 0.6px;
+  font-size: 13px;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: rgba(255,255,255,0.55);
+  color: var(--lilac);
 }
-.g-dial-btn.active .g-dial-name { color: var(--lilac); }
+.gd-g {
+  font-family: var(--font-body);
+  font-size: 9.5px;
+  letter-spacing: 0.8px;
+  color: rgba(255,255,255,0.55);
+  margin-top: 2px;
+}
 .g-dial-note {
   position: absolute;
   left: calc(100% + 12px);
@@ -4716,10 +4743,9 @@
 }
 .g-dial-note.show { opacity: 1; }
 @media (max-width: 768px) {
-  #g-dial { padding: 8px 4px; gap: 2px; }
-  .g-dial-btn { width: 34px; }
-  .g-dial-icon { font-size: 14px; }
-  .g-dial-name { font-size: 7px; }
+  #g-dial.gd { width: 104px; height: 104px; }
+  .gd-world { width: 28px; height: 28px; font-size: 14px; }
+  .gd-name { font-size: 11px; }
 }
 
 /* ── Per-environment ambient tint ──
