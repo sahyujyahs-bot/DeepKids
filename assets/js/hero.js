@@ -711,6 +711,15 @@
               y: vy > 1.4 ? -vy * (b.restitution || 0.3) : 0 // bounce or rest
             });
             Body.setAngularVelocity(b, b.angularVelocity * 0.85);
+            // Ground contact rights the object: once resting (not
+            // dragged), ease its tilt back to upright
+            if (vy <= 1.4 && (!dragMC || dragMC.body !== b)) {
+              let na = b.angle % (Math.PI * 2);
+              if (na > Math.PI) na -= Math.PI * 2;
+              if (na < -Math.PI) na += Math.PI * 2;
+              if (Math.abs(na) > 0.008) Body.setAngle(b, na * 0.9);
+              else if (na !== 0) Body.setAngle(b, 0);
+            }
           }
         });
       });
