@@ -372,6 +372,7 @@
         });
 
         spawnMaterials();
+        tossCueRound = true;      // invite again on every fresh drop
         if (window.EGGravity) applyEnv(EGGravity.get());
       }
 
@@ -701,9 +702,7 @@
          it settles, until the user's first real drag ever. Hovering
          any object gives it a tiny lift so it feels alive. */
       let tossCue = null;
-      let tossCueDone = false;
-      let tossCueSnooze = 0;
-      try { tossCueDone = parseInt(localStorage.getItem('eg-toss-count') || '0', 10) >= 3; } catch(e) {}
+      let tossCueRound = true;    // eligible again on every rain drop
       function getTossCue() {
         if (tossCue) return tossCue;
         tossCue = document.createElement('div');
@@ -718,13 +717,7 @@
         return tossCue;
       }
       function dismissTossCue() {
-        let n = 0;
-        try {
-          n = parseInt(localStorage.getItem('eg-toss-count') || '0', 10) + 1;
-          localStorage.setItem('eg-toss-count', String(n));
-        } catch(e) { n = 3; }
-        if (n >= 3) tossCueDone = true;
-        else tossCueSnooze = performance.now() + 10000;   // rest, then re-invite
+        tossCueRound = false;     // hidden until the next rain round
         if (tossCue) tossCue.classList.remove('show');
       }
       window._egDismissTossCue = dismissTossCue;
@@ -735,10 +728,12 @@
         const rect = cv.getBoundingClientRect();
         const px = ev.clientX - rect.left, py = ev.clientY - rect.top;
         let over = false;
+        const hasLanes = !!SURFACE_PROFILES[terrainEnvKey];
         for (const en of physEntries) {
           if (en.body.isStatic || en.hidden) continue;
           const b = en.body;
-          const hw = (en.bw || en.dW) / 2, hh = (en.bh || en.dH) / 2;
+          const s = (hasLanes && en.depthFrac !== undefined) ? (0.55 + 0.45 * en.depthFrac) : 1;
+          const hw = (en.bw || en.dW) * s / 2 + 14, hh = (en.bh || en.dH) * s / 2 + 14;
           if (Math.abs(px - b.position.x) < hw && Math.abs(py - b.position.y) < hh) {
             over = true;
             const now = performance.now();
@@ -1094,9 +1089,9 @@
                 const lb = getLabelEl(en);
                 const v = en.body.velocity;
                 const settled = alt < 8 && Math.abs(v.x) + Math.abs(v.y) < 0.6 && !en.body.isStatic;
-                if (en.key === 'mat_bouncy' && !tossCueDone) {
+                if (en.key === 'mat_bouncy' && tossCueRound) {
                   const cue = getTossCue();
-                  if (settled && performance.now() > tossCueSnooze) {
+                  if (settled) {
                     cue.classList.add('show');
                     cue.style.transform = 'translate(' + (p.x - 46) + 'px,' + (p.y - en.dH * s / 2 - 92) + 'px)';
                   } else {
