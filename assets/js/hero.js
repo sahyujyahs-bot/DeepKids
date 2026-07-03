@@ -498,12 +498,8 @@
 
       function spawnMaterials() {
         const air = currentAir();
-        const sc = W < 480 ? 1.0 : W < 768 ? 1.3 : 2.0;
-        // Phones get a curated cast — the full lineup heaps up in a
-        // narrow viewport
-        const KEYS = W < 768
-          ? ['apple', 'feather', 'hammer', 'bouncy', 'balloon']
-          : Object.keys(MATERIALS);
+        const sc = W < 480 ? 0.85 : W < 768 ? 1.1 : 2.0;
+        const KEYS = Object.keys(MATERIALS);
         KEYS.forEach((k, i) => {
           const m  = MATERIALS[k];
           const dW = Math.round(m.w * sc);
@@ -583,6 +579,11 @@
          front. Per-object floors are enforced every tick. */
       let terrainEnvKey = null;
       let dragMC = null, dragMouse = null;
+      // Depth: near = big & bright, far = clearly smaller & dimmer
+      function depthScale(en) {
+        return (SURFACE_PROFILES[terrainEnvKey] && en.depthFrac !== undefined)
+          ? (0.40 + 0.60 * en.depthFrac) : 1;
+      }
       // Ridge height (screen y) of the surface art at screen x
       function ridgeYAt(x) {
         const prof = SURFACE_PROFILES[terrainEnvKey];
@@ -689,7 +690,7 @@
           en.floorY = floorYFor(en);
           if (!en.floorY || en.body.isStatic) return;
           const b = en.body;
-          const s = 0.55 + 0.45 * en.depthFrac;
+          const s = depthScale(en);
           const halfH = (en.bh || en.dH) * s / 2;
           const bottom = b.position.y + halfH;
           if (bottom > en.floorY && b.velocity.y > 0) {
@@ -742,7 +743,7 @@
         for (const en of physEntries) {
           if (en.body.isStatic || en.hidden) continue;
           const b = en.body;
-          const s = (hasLanes && en.depthFrac !== undefined) ? (0.55 + 0.45 * en.depthFrac) : 1;
+          const s = depthScale(en);
           const hw = (en.bw || en.dW) * s / 2 + 14, hh = (en.bh || en.dH) * s / 2 + 14;
           if (Math.abs(px - b.position.x) < hw && Math.abs(py - b.position.y) < hh) {
             over = true;
@@ -882,6 +883,8 @@
         Events.on(mc, 'startdrag', function() {
           if (window._egDismissTossCue) window._egDismissTossCue();
           cv.style.cursor = 'grabbing';
+          const den = physEntries.find(e => e.body === mc.body);
+          if (den) den._labelUntil = performance.now() + 3000;
         });
         Events.on(mc, 'enddrag', function() { cv.style.cursor = ''; });
 
@@ -1069,7 +1072,7 @@
           const el = rainImgEls[en.key];
           // 2.5D: scale + dim with distance (far = deeper in the scene)
           const lanes = !!SURFACE_PROFILES[terrainEnvKey];
-          const s = (lanes && en.depthFrac !== undefined) ? (0.55 + 0.45 * en.depthFrac) : 1;
+          const s = depthScale(en);
           const ox = (en.ox !== undefined ? en.ox : en.dW / 2) * s;
           const oy = (en.oy !== undefined ? en.oy : en.dH / 2) * s;
           if (el) {
@@ -1081,7 +1084,7 @@
             if (lanes) {
               const zi = String(2 + Math.round((en.depthFrac || 0) * 20));
               if (el.style.zIndex !== zi) el.style.zIndex = zi;
-              const f = 'brightness(' + (0.76 + 0.24 * (en.depthFrac || 0)).toFixed(2) + ')';
+              const f = 'brightness(' + (0.58 + 0.42 * (en.depthFrac || 0)).toFixed(2) + ') saturate(' + (0.8 + 0.2 * (en.depthFrac || 0)).toFixed(2) + ')';
               if (en._f !== f) { el.style.filter = f; en._f = f; }
             } else if (en._f) {
               el.style.filter = ''; en._f = null; el.style.zIndex = '1';
@@ -1108,14 +1111,16 @@
                     cue.classList.remove('show');
                   }
                 }
+                const dragging = dragMC && dragMC.body === en.body;
                 const labelOk = W >= 768 || (en._labelUntil && performance.now() < en._labelUntil);
-                if (settled && labelOk) {
+                if (dragging || (settled && labelOk)) {
                   const env = window.EGGravity ? EGGravity.get() : { air: 1 };
                   const txt = en.mat.label(env);
                   if (lb.textContent !== txt) lb.textContent = txt;
                   lb.style.opacity = '1';
                   lb.style.zIndex = String((parseInt(el.style.zIndex, 10) || 2) + 1);
-                  lb.style.transform = 'translate(' + p.x + 'px,' + (en.floorY + 10) + 'px) translate(-50%,0)';
+                  const ly = dragging ? (p.y + (en.dH * s) / 2 + 14) : (en.floorY + 10);
+                  lb.style.transform = 'translate(' + p.x + 'px,' + ly + 'px) translate(-50%,0)';
                 } else {
                   lb.style.opacity = '0';
                 }
