@@ -1121,8 +1121,7 @@
           'line-height:.88;white-space:nowrap;' +
           'font-size:' + startFontSize + 'px;' +
           'color:#fff;' +
-          'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
-          'background:rgba(10,6,24,.6);' +
+          'text-shadow:0 0 34px rgba(170,89,200,.75),0 0 90px rgba(170,89,200,.35),2px 3px 6px rgba(0,0,0,.9);' +
           'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
           'transform-origin:left top;' +
@@ -1158,8 +1157,6 @@
         clone.style.top       = curY + 'px';
         clone.style.transform = 'scale(' + s + ')';
 
-        clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
-
         var r = Math.round(255 + (170 - 255) * p);
         var g = Math.round(255 + (89  - 255) * p);
         var b = Math.round(255 + (200 - 255) * p);
@@ -1167,8 +1164,8 @@
 
         var a = 1 - p;
         clone.style.textShadow =
-          '0 0 26px rgba(170,89,200,' + (0.55 * a) + '),' +
-          '3px 3px 0 rgba(0,0,0,' + (0.9 * a) + ')';
+          '0 0 34px rgba(170,89,200,' + (0.75 * a) + '),' +
+          '2px 3px 6px rgba(0,0,0,' + (0.9 * a) + ')';
 
         // Smooth crossfade over the last 20% of the scroll range
         // so the clone melts into the nav logo instead of snapping.
