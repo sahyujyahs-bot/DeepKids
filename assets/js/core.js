@@ -270,6 +270,17 @@ window.EGGravity = (function(){
     var mount = document.getElementById('g-dial');
     if (!mount) return;
     mount.classList.add('gd');
+    // Dock to a compact puck once the hero scrolls away, so the dial
+    // stops competing with the content below (expands on hover/tap).
+    var heroS1 = document.getElementById('s1');
+    if (heroS1 && 'IntersectionObserver' in window) {
+      new IntersectionObserver(function(entries) {
+        mount.classList.toggle('docked', !entries[0].isIntersecting);
+      }, { threshold: 0.05 }).observe(heroS1);
+    }
+    mount.addEventListener('click', function() {
+      if (mount.classList.contains('docked')) mount.classList.toggle('open');
+    });
     var html = '<div class="gd-pointer"></div><div class="gd-ring" id="gd-ring">';
     ORDER.forEach(function(k, i) {
       var e = ENVS[k];

@@ -5059,3 +5059,24 @@ html[data-env="moon"] #env-tint { opacity: 0.45; }
 .chp-row span { grid-row: span 2; font-size: 18px; }
 .chp-row b { font-size: 13px; font-weight: normal; letter-spacing: 0.5px; }
 .chp-row i { font-size: 11px; font-style: normal; color: rgba(255,255,255,0.55); }
+
+/* ── Hero declutter ── */
+/* Earth is a lovely touch on desktop but crowds the title on phones */
+@media (max-width: 768px) {
+  #env-earth { display: none; }
+}
+/* Gravity dial docks to a compact puck once past the hero */
+#g-dial.gd.docked {
+  transform: translateY(-50%) scale(0.6);
+  opacity: 0.72;
+  transition: transform 0.4s cubic-bezier(.34,1.5,.5,1), opacity 0.4s;
+}
+#g-dial.gd.docked:hover,
+#g-dial.gd.docked.open {
+  transform: translateY(-50%) scale(1);
+  opacity: 1;
+}
+@media (max-width: 768px) {
+  #g-dial.gd.docked { transform: translateY(-50%) scale(0.5); opacity: 0.66; }
+  #g-dial.gd.docked.open { transform: translateY(-50%) scale(0.92); opacity: 1; }
+}
