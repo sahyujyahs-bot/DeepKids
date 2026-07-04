@@ -4365,23 +4365,22 @@
 /* ─────────────────────────────────────────── */
 
 
-/* Unified explorer widget: fanned force-card hand + gravity points */
 #gp-pill {
   position: fixed;
   bottom: clamp(80px, 12vh, 100px);
   left: clamp(10px, 2vw, 20px);
   z-index: 998;
-  background: linear-gradient(135deg, rgba(24,14,44,0.92), rgba(12,7,26,0.95));
+  background: linear-gradient(135deg, rgba(40,20,5,0.92), rgba(20,10,2,0.95));
   backdrop-filter: blur(10px);
-  border: 1.5px solid rgba(var(--lilac-rgb), 0.45);
-  border-radius: 16px;
-  padding: 8px 14px 8px 12px;
+  border: 1.5px solid rgba(255,152,0,0.45);
+  border-radius: 28px;
+  padding: 7px 16px 7px 10px;
   display: flex;
   align-items: center;
-  gap: 12px;
-  cursor: pointer;
+  gap: 8px;
+  cursor: default;
   opacity: 0;
-  transform: translateX(-60px) scale(0.85);
+  transform: translateX(-60px) scale(0.8);
   transition: opacity 0.5s ease, transform 0.5s cubic-bezier(0.34,1.56,0.64,1), box-shadow 0.3s ease;
   pointer-events: none;
 }
@@ -4389,56 +4388,27 @@
   opacity: 1;
   transform: translateX(0) scale(1);
   pointer-events: auto;
-  box-shadow: 0 6px 22px rgba(0,0,0,0.4);
+  box-shadow: 0 2px 12px rgba(255,152,0,0.15);
 }
 #gp-pill.pulse {
-  box-shadow: 0 0 20px rgba(var(--purple-rgb),0.55), 0 0 42px rgba(var(--purple-rgb),0.22);
-  border-color: rgba(var(--lilac-rgb),0.8);
+  box-shadow: 0 0 20px rgba(255,152,0,0.5), 0 0 40px rgba(255,100,0,0.2);
+  border-color: rgba(255,180,0,0.7);
 }
-/* Fanned hand of 5 card slots */
-.eh-cards {
-  position: relative;
-  width: 78px; height: 46px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-}
-.eh-slot {
-  position: absolute;
-  bottom: 0; left: 50%;
-  width: 24px; height: 34px;
-  margin-left: -12px;
-  transform-origin: 50% 120%;
-  border-radius: 4px;
-  border: 1.5px dashed rgba(var(--lilac-rgb), 0.4);
-  background: rgba(255,255,255,0.03);
-  display: flex; align-items: center; justify-content: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s;
-}
-.eh-slot i { font-size: 12px; opacity: 0.5; font-style: normal; }
-.eh-slot.filled {
-  border-style: solid;
-  border-color: rgba(var(--lilac-rgb), 0.85);
-  background: url('../../s2-force-card-front.webp') center / cover no-repeat;
-  box-shadow: 0 0 10px rgba(var(--purple-rgb), 0.6);
-}
-.eh-slot.pop { animation: eh-pop 0.7s cubic-bezier(.34,1.7,.5,1); z-index: 2; }
-@keyframes eh-pop {
-  0% { transform: rotate(var(--r,0)) scale(0.4); }
-  55% { transform: translateY(-8px) scale(1.4); }
-  100% {} /* settles back to inline rotate */
-}
-.eh-cards.complete .eh-slot.filled { box-shadow: 0 0 14px #ffd76b; border-color: #ffd76b; }
-.eh-pts {
-  display: flex; flex-direction: column; align-items: center;
-  padding-left: 10px; border-left: 1px solid rgba(255,255,255,0.12);
+#gp-icon { width: 26px; height: 26px; transition: transform 0.3s ease; }
+#gp-pill.pulse #gp-icon { animation: gp-celebrate 0.6s ease; }
+@keyframes gp-celebrate {
+  0% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.4) rotate(-15deg); }
+  50% { transform: scale(0.9) rotate(10deg); }
+  75% { transform: scale(1.2) rotate(-5deg); }
+  100% { transform: scale(1) rotate(0deg); }
 }
 #gp-score {
   font-family: var(--font-head);
   font-variant: small-caps;
   font-size: 18px;
   color: #ffb300;
-  min-width: 18px; text-align: center;
+  min-width: 20px;
   text-shadow: 0 0 6px rgba(255,152,0,0.3);
 }
 #gp-pill.pulse #gp-score { animation: gp-score-pop 0.4s ease; }
@@ -4449,9 +4419,9 @@
 }
 #gp-label {
   font-family: var(--font-body);
-  font-size: 8px;
-  color: rgba(255,180,100,0.55);
-  letter-spacing: 1px;
+  font-size: 9px;
+  color: rgba(255,180,100,0.5);
+  letter-spacing: 0.5px;
 }
 #gp-float {
   position: fixed;
@@ -5080,3 +5050,18 @@ html[data-env="moon"] #env-tint { opacity: 0.45; }
   #g-dial.gd.docked { transform: translateY(-50%) scale(0.5); opacity: 0.66; }
   #g-dial.gd.docked.open { transform: translateY(-50%) scale(0.92); opacity: 1; }
 }
+
+/* Subtle full-page crater texture — only in the moon world, faint so
+   it never fights the content. Fixed so it drifts under the scroll. */
+#page-craters {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: url('../../page-craters.svg') repeat;
+  background-size: 520px 520px;
+  opacity: 0;
+  transition: opacity 1.4s ease;
+}
+html[data-env="moon"] #page-craters { opacity: 0.5; }
+html[data-env="mars"] #page-craters { opacity: 0.32; }

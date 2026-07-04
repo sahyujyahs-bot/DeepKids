@@ -193,6 +193,7 @@
 <link rel="stylesheet" href="../assets/css/main.min.css">
 </head>
 <body>
+<div id="page-craters" aria-hidden="true"></div>
 <div id="env-tint"></div>
 <div id="g-dial"></div>
 
@@ -1589,10 +1590,14 @@
 
 
 <div id="gp-pill">
-  <div class="eh-cards" id="eh-cards" title="Force cards collected"></div>
-  <div class="eh-pts">
+  <svg id="gp-icon" viewBox="0 0 24 24" fill="none">
+    <circle cx="12" cy="12" r="10" stroke="#ffb300" stroke-width="1.5"/>
+    <path d="M12 6v6l4 2" stroke="#ffb300" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="12" cy="12" r="3" fill="#ff9800" opacity="0.4"/>
+  </svg>
+  <div>
     <div id="gp-score">0</div>
-    <div id="gp-label">PTS</div>
+    <div id="gp-label">GRAVITY PTS</div>
   </div>
 </div>
 <div id="gp-float"></div>

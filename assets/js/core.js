@@ -507,11 +507,16 @@ window.EGCards = (function(){
     }, { threshold: 0.35 }).observe(host);
   }
 
+  // Card collection is parked for the standalone game page — the
+  // marketing page stays focused on reading + converting. The API
+  // stays exported so the game page can reuse it later.
+  var ENABLED = false;
+
   function init() {
+    if (!ENABLED) return;
     buildHud();
     placeCards();
     intro();
-    // First collect: open the inventory briefly so the goal is clear
     var opened = false;
     listeners.push(function() {
       if (opened || count() !== 1) return;
