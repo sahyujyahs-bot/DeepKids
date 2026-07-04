@@ -4743,6 +4743,7 @@
 }
 .g-dial-note.show { opacity: 1; }
 @media (max-width: 768px) {
+  #env-earth { top: 16%; }
   #g-dial.gd { width: 104px; height: 104px; }
   .gd-world { width: 28px; height: 28px; font-size: 14px; }
   .gd-name { font-size: 11px; }
@@ -4818,7 +4819,7 @@ html[data-env="iss"]   #env-tint { opacity: 1; background: radial-gradient(ellip
 /* ── Earthrise (moon environment) ── */
 #env-earth {
   position: absolute;
-  top: 5%;
+  top: 11%;
   right: 2.5%;
   z-index: 2;
   width: clamp(110px, 12vw, 190px);
