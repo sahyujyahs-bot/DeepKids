@@ -187,6 +187,7 @@
       // blocks audio before user interaction). The redo button and all
       // subsequent rains play with sound because the user has interacted.
       function playSwoosh() {
+        if (!heroVisible) return;
         // No air, no sound of falling — vacuum is silent
         if (window.EGGravity && EGGravity.get().air <= 0) return;
         EGAudio.playBuffer(swooshBuffer, {
@@ -588,6 +589,7 @@
          front. Per-object floors are enforced every tick. */
       let terrainEnvKey = null;
       let dragMC = null, dragMouse = null;
+      let heroVisible = true;   // set by IntersectionObserver below
       // Depth: near = big & bright, far = clearly smaller & dimmer
       function depthScale(en) {
         return (SURFACE_PROFILES[terrainEnvKey] && en.depthFrac !== undefined)
@@ -634,30 +636,54 @@
           }
         });
       }
-      // Impact sounds: thud for heavy things, bounce for balls
+      // ── Impact + drag sounds ────────────────────────────────
+      // Each material lands with its OWN synthesized signature, so a
+      // tennis ball, a steel ball, an apple and a spacesuit never
+      // sound alike. Buffers add body to the heavy ones.
       let thudBuf = null, bounceBuf = null;
       try {
         EGAudio.loadBuffer('impact thud sound.mp3', function(b) { thudBuf = b; });
         EGAudio.loadBuffer('ball bounce.mp3', function(b) { bounceBuf = b; });
       } catch(e) {}
-      const IMPACT_SOUND = {
-        hammer:    () => [thudBuf, 0.9],
-        steel:     () => [thudBuf, 1.15],
-        DasBox:    () => [thudBuf, 0.8],
-        apple:     () => [bounceBuf, 1.0],
-        bouncy:    () => [bounceBuf, 1.25],
-        beachball: () => [bounceBuf, 0.75],
+      const IMPACT = {
+        // organic soft knock
+        apple:     function(v){ EGAudio.tone(160, 0.11, {type:'sine', vol:0.17*v, expSlide:85}); EGAudio.tone(90,0.08,{type:'triangle',vol:0.06*v}); },
+        // rubbery boing — pitch springs downward
+        bouncy:    function(v){ EGAudio.tone(440, 0.17, {type:'sine', vol:0.20*v, expSlide:150}); EGAudio.tone(230,0.09,{type:'triangle',vol:0.05*v}); },
+        // light hollow bonk
+        beachball: function(v){ EGAudio.tone(300, 0.15, {type:'triangle', vol:0.13*v, expSlide:200}); },
+        // bright metallic ting (two partials)
+        steel:     function(v){ EGAudio.tone(1550,0.10,{type:'sine', vol:0.12*v, expSlide:950}); EGAudio.tone(2300,0.07,{type:'sine', vol:0.07*v}); },
+        // heavy metal-on-ground thud
+        hammer:    function(v){ if(thudBuf)EGAudio.playBuffer(thudBuf,{rate:0.8,vol:0.42*v}); EGAudio.tone(85,0.13,{type:'square',vol:0.10*v}); },
+        // wooden knock
+        DasBox:    function(v){ EGAudio.tone(175,0.11,{type:'square', vol:0.14*v, expSlide:115}); if(thudBuf)EGAudio.playBuffer(thudBuf,{rate:1.15,vol:0.16*v}); },
+        // padded spacesuit thump
+        astro:     function(v){ EGAudio.tone(120,0.16,{type:'triangle', vol:0.13*v, expSlide:70}); if(thudBuf)EGAudio.playBuffer(thudBuf,{rate:0.68,vol:0.11*v}); },
       };
       function playImpact(en, vy) {
-        const f = IMPACT_SOUND[en.mat ? matKeyOf(en) : en.key];
+        if (!heroVisible) return;
+        if (dragMC && dragMC.body === en.body) return;   // dragging isn't landing
+        const key = en.mat ? matKeyOf(en) : en.key;
+        const f = IMPACT[key];
         if (!f) return;
         const now = performance.now();
-        if (en._sndAt && now - en._sndAt < 260) return;
+        if (en._sndAt && now - en._sndAt < 80) return;   // per-object retrigger guard
         en._sndAt = now;
-        const [buf, rate] = f();
-        EGAudio.playBuffer(buf, { rate, vol: Math.min(0.55, 0.12 + vy / 30) });
+        f(Math.min(1, 0.35 + vy / 22));
       }
       function matKeyOf(en) { return en.key.replace('mat_', ''); }
+
+      // Soft scrape while a grounded object is dragged sideways
+      let lastScrape = 0;
+      function playDragScrape(speed) {
+        if (!heroVisible) return;
+        const now = performance.now();
+        if (now - lastScrape < 85) return;
+        lastScrape = now;
+        EGAudio.tone(210 + Math.min(240, speed * 34), 0.05,
+          { type: 'triangle', vol: Math.min(0.085, 0.018 + speed * 0.009) });
+      }
 
       // Per-tick enforcement of each object's own ground line
       Events.on(engine, 'afterUpdate', function() {
@@ -689,6 +715,13 @@
               const far = farLimit, near = H - 6;
               den.depthFrac = Math.min(1, Math.max(0, (px.y - far) / (near - far)));
             }
+            // Scrape sound when a grounded object is dragged sideways
+            const b = den.body;
+            const sc = depthScale(den);
+            const grounded = den.floorY && (b.position.y + (den.bh || den.dH) * sc / 2) > den.floorY - 12;
+            const hspeed = Math.abs(b.position.x - (den._lastX || b.position.x));
+            den._lastX = b.position.x;
+            if (grounded && hspeed > 0.6) playDragScrape(hspeed);
           }
         }
         physEntries.forEach(en => {
@@ -1033,8 +1066,8 @@
             } catch(e){}
             window._dragHum = null;
           }
-          // Swoosh on release
-          playSwoosh();
+          // No release swoosh — the object's own impact sound plays
+          // when it actually lands, so drops aren't double-voiced.
           // Count every pick-up-and-drop as a "flip", per card key
           if (typeof gtag === 'function') {
             var draggedEntry = physEntries.find(function(en) { return en.body === e.body; });
@@ -1045,10 +1078,24 @@
           }
         });
 
-        Runner.run(Runner.create(), engine);
+        const heroRunner = Runner.create();
+        Runner.run(heroRunner, engine);
         initFloaters();
         spawnRain();   /* ← first rain */
         loop();
+
+        // Pause physics + sound when the hero scrolls out of view, so
+        // nothing bounces or chirps behind the sections below.
+        const heroSection = document.getElementById('s1') || cv.parentElement;
+        if (heroSection && 'IntersectionObserver' in window) {
+          let running = true;
+          new IntersectionObserver(function(entries) {
+            const vis = entries[0].isIntersecting;
+            heroVisible = vis;
+            if (vis && !running) { Runner.run(heroRunner, engine); running = true; }
+            else if (!vis && running) { Runner.stop(heroRunner); running = false; }
+          }, { threshold: 0.02 }).observe(heroSection);
+        }
       }
 
       /* ── Draw physics bodies (with rotation) ────────────────── */
