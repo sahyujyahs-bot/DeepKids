@@ -344,12 +344,14 @@ window.EGGravity = (function(){
    board experience. */
 window.EGCards = (function(){
   'use strict';
+  // Cards begin AFTER "Why Parents Love It" (s-parents) and are hidden
+  // through the sections that teach each concept.
   var CARDS = [
-    { key: 'gravity',  icon: '🌍', name: 'Gravity',        section: 's1',         note: 'The pull that starts every fall.' },
-    { key: 'air',      icon: '🪶', name: 'Air Resistance', section: 's-forces',   note: 'The drag that slows the feather.' },
-    { key: 'motion',   icon: '🌀', name: 'Sideways Motion',section: 's-spiral',   note: 'Fall sideways fast enough and you orbit.' },
-    { key: 'force',    icon: '💪', name: 'Applied Force',  section: 's3',         note: 'Earned through challenges, spent on the board.' },
-    { key: 'escape',   icon: '🚀', name: 'Escape',         section: 's-game',     note: 'Enough speed beats any gravity well.' }
+    { key: 'gravity',  icon: '🌍', name: 'Gravity',        section: 's-parents', note: 'The pull that starts every fall.' },
+    { key: 'air',      icon: '🪶', name: 'Air Resistance', section: 's-forces',  note: 'The drag that slows the feather.' },
+    { key: 'motion',   icon: '🌀', name: 'Sideways Motion',section: 's-spiral',  note: 'Fall sideways fast enough and you orbit.' },
+    { key: 'force',    icon: '💪', name: 'Applied Force',  section: 's3',        note: 'Earned through challenges, spent on the board.' },
+    { key: 'escape',   icon: '🚀', name: 'Escape',         section: 's-game',    note: 'Enough speed beats any gravity well.' }
   ];
   var KEY = 'eg-cards-v1';
   var got = {};
@@ -367,38 +369,87 @@ window.EGCards = (function(){
     if (typeof fbq === 'function') fbq('trackCustom', 'ForceCardCollected', { card: key });
   }
 
+  // Fanned angles for the 5 hand slots (deg), centered
+  var FAN = [-24, -12, 0, 12, 24];
+
   function buildHud() {
-    var hud = document.createElement('div');
-    hud.id = 'card-hud';
-    hud.innerHTML = '<span class="ch-icon"></span><span class="ch-label">Force Cards</span><span class="ch-count"></span>';
-    document.body.appendChild(hud);
+    var fan = document.getElementById('eh-cards');
+    if (!fan) return;
+    // popover inventory
     var pop = document.createElement('div');
     pop.id = 'card-hud-pop';
     document.body.appendChild(pop);
+
     function render() {
-      hud.querySelector('.ch-count').textContent = count() + '/' + CARDS.length;
-      hud.classList.toggle('complete', count() === CARDS.length);
-      pop.innerHTML = '<div class="chp-title">Force Cards</div>' + CARDS.map(function(c) {
+      // fanned hand of 5 slots
+      fan.innerHTML = CARDS.map(function(c, i) {
         var have = !!got[c.key];
-        return '<div class="chp-row' + (have ? ' have' : '') + '"><span>' + c.icon + '</span><b>' + c.name + '</b><i>' +
-          (have ? c.note : 'still hidden on this page…') + '</i></div>';
+        return '<span class="eh-slot' + (have ? ' filled' : '') + '" data-key="' + c.key +
+          '" style="transform:rotate(' + FAN[i] + 'deg) translateY(' + (Math.abs(FAN[i]) * 0.2) + 'px)">' +
+          (have ? '' : '<i>' + c.icon + '</i>') + '</span>';
       }).join('');
+      var n = count();
+      fan.setAttribute('data-count', n + '/' + CARDS.length);
+      fan.classList.toggle('complete', n === CARDS.length);
+      pop.innerHTML = '<div class="chp-title">Force Cards &nbsp;·&nbsp; ' + n + '/' + CARDS.length + '</div>' +
+        CARDS.map(function(c) {
+          var have = !!got[c.key];
+          return '<div class="chp-row' + (have ? ' have' : '') + '"><span>' + c.icon + '</span><b>' + c.name + '</b><i>' +
+            (have ? c.note : 'still hidden further down…') + '</i></div>';
+        }).join('') +
+        (n === CARDS.length ? '<div class="chp-done">Full hand! These carry into the board game.</div>' : '');
     }
     render();
-    listeners.push(function() {
+    listeners.push(function(key) {
       render();
-      hud.classList.add('pulse');
-      setTimeout(function() { hud.classList.remove('pulse'); }, 700);
+      var slot = fan.querySelector('.eh-slot[data-key="' + key + '"]');
+      if (slot) { slot.classList.add('pop'); setTimeout(function(){ slot.classList.remove('pop'); }, 700); }
     });
-    hud.addEventListener('click', function() {
-      pop.classList.toggle('show');
-    });
+    var pill = document.getElementById('gp-pill');
+    if (pill) pill.addEventListener('click', function() { pop.classList.toggle('show'); });
     document.addEventListener('click', function(e) {
-      if (!e.target.closest('#card-hud') && !e.target.closest('#card-hud-pop')) pop.classList.remove('show');
+      if (!e.target.closest('#gp-pill') && !e.target.closest('#card-hud-pop')) pop.classList.remove('show');
     });
   }
 
+  function slotRect(key) {
+    var slot = document.querySelector('#eh-cards .eh-slot[data-key="' + key + '"]');
+    return slot ? slot.getBoundingClientRect() : { left: 24, top: innerHeight - 40, width: 26, height: 36 };
+  }
+
+  // Juicy collect: lift + "got it" beat, then arc-fly into the fan slot
+  function flyToSlot(el, key) {
+    var r = el.getBoundingClientRect();
+    var dest = slotRect(key);
+    var fly = document.createElement('div');
+    fly.className = 'force-fly';
+    fly.style.left = r.left + 'px';
+    fly.style.top = r.top + 'px';
+    fly.style.width = r.width + 'px';
+    fly.style.height = r.height + 'px';
+    document.body.appendChild(fly);
+    // beat 1: pop up big
+    requestAnimationFrame(function() {
+      fly.style.transform = 'translateY(-26px) scale(1.35) rotate(-6deg)';
+    });
+    // beat 2: arc to the slot, shrink to card size
+    setTimeout(function() {
+      var dx = dest.left + dest.width / 2 - (r.left + r.width / 2);
+      var dy = dest.top + dest.height / 2 - (r.top + r.height / 2);
+      fly.style.transition = 'transform 0.62s cubic-bezier(.55,-0.2,.3,1), opacity 0.62s';
+      fly.style.transform = 'translate(' + dx + 'px,' + dy + 'px) scale(0.34) rotate(14deg)';
+      fly.style.opacity = '0.15';
+    }, 340);
+    setTimeout(function() { fly.remove(); }, 1050);
+  }
+
   function placeCards() {
+    // varied placements so they feel hidden, not templated
+    var spots = [
+      { right: '7%',  top: '28%', rot: 8  }, { left: '6%', top: '34%', rot: -10 },
+      { right: '9%',  top: '58%', rot: -6 }, { left: '7%', top: '60%', rot: 9  },
+      { right: '6%',  top: '40%', rot: 5  }
+    ];
     CARDS.forEach(function(c, i) {
       if (got[c.key]) return;
       var sec = document.getElementById(c.section);
@@ -406,60 +457,43 @@ window.EGCards = (function(){
       var el = document.createElement('button');
       el.className = 'force-pickup';
       el.setAttribute('aria-label', 'Collect the ' + c.name + ' force card');
-      el.innerHTML = '<span>' + c.icon + '</span>';
-      el.style.animationDelay = (i * 0.6) + 's';
-      // varied corners so they feel hidden, not templated
-      var spots = [
-        { right: '6%',  top: '24%' }, { left: '5%', top: '30%' },
-        { right: '8%',  top: '60%' }, { left: '6%', top: '62%' },
-        { right: '5%',  top: '38%' }
-      ];
+      el.innerHTML = '<span class="fp-icon">' + c.icon + '</span><span class="fp-glint"></span>';
+      el.style.animationDelay = (i * 0.5) + 's';
       var s = spots[i % spots.length];
-      Object.keys(s).forEach(function(k) { el.style[k] = s[k]; });
+      ['left','right','top'].forEach(function(k) { if (s[k] != null) el.style[k] = s[k]; });
+      el.style.setProperty('--rot', s.rot + 'deg');
       if (getComputedStyle(sec).position === 'static') sec.style.position = 'relative';
       sec.appendChild(el);
       el.addEventListener('click', function() {
-        // fly to the HUD
-        var r = el.getBoundingClientRect();
-        var hud = document.getElementById('card-hud');
-        var h = hud ? hud.getBoundingClientRect() : { left: 20, top: innerHeight - 40 };
-        var fly = el.cloneNode(true);
-        fly.className = 'force-pickup fly';
-        fly.style.left = r.left + 'px';
-        fly.style.top = r.top + 'px';
-        fly.style.right = 'auto';
-        fly.style.position = 'fixed';
-        document.body.appendChild(fly);
-        requestAnimationFrame(function() {
-          fly.style.transform = 'translate(' + (h.left - r.left) + 'px,' + (h.top - r.top) + 'px) scale(0.3)';
-          fly.style.opacity = '0.2';
-        });
-        setTimeout(function() { fly.remove(); }, 800);
-        el.remove();
+        if (window.egFlipSound) window.egFlipSound(0.4);
+        flyToSlot(el, c.key);
+        el.classList.add('taken');
+        setTimeout(function() { el.remove(); }, 260);
         collect(c.key);
       });
     });
   }
 
   function intro() {
-    // One-time announcement so the mechanism is understood — shows
-    // when the first pickup scrolls into view, until first collect
+    // Announcement in the space below "Why Parents Love It" — this is
+    // where the collection game begins.
     if (count() > 0) return;
-    var first = document.querySelector('.force-pickup');
-    if (!first || !('IntersectionObserver' in window)) return;
-    var io = new IntersectionObserver(function(entries) {
-      if (!entries[0].isIntersecting || count() > 0) return;
-      io.disconnect();
+    var host = document.getElementById('s-parents');
+    if (!host || !('IntersectionObserver' in window)) return;
+    var shown = false;
+    new IntersectionObserver(function(entries) {
+      if (!entries[0].isIntersecting || shown || count() > 0) return;
+      shown = true;
       var t = document.createElement('div');
       t.id = 'card-callout';
-      t.innerHTML = '<span class="cc-card"></span><span>Force Cards are hidden across this page — tap them to collect all 5!</span>';
+      t.innerHTML = '<span class="cc-card"></span><div><b>Collect the 5 Force Cards</b><br>' +
+        'They\'re hidden through the sections ahead — tap each one. Your hand fills up in the corner, and carries into the board game.</div>';
       document.body.appendChild(t);
       requestAnimationFrame(function() { t.classList.add('show'); });
-      var hide = function() { t.classList.remove('show'); setTimeout(function() { t.remove(); }, 600); };
-      setTimeout(hide, 7000);
+      var hide = function() { t.classList.remove('show'); setTimeout(function() { if(t.parentNode) t.remove(); }, 600); };
+      setTimeout(hide, 8000);
       listeners.push(hide);
-    }, { threshold: 0.4 });
-    io.observe(first);
+    }, { threshold: 0.35 }).observe(host);
   }
 
   function init() {
