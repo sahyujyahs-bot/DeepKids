@@ -693,7 +693,9 @@
         }
         physEntries.forEach(en => {
           if (en.depthFrac === undefined) en.depthFrac = Math.random();
-          if (en.body.position.y < -H * 0.3 && window.EGGravity && EGGravity.get().g < 0.5 && EGGravity.get().g > 0.01) {
+          // Only a genuine user toss: body RISING fast above the top
+          if (en.body.position.y < -30 && en.body.velocity.y < -4 &&
+              window.EGGravity && EGGravity.get().g < 0.5 && EGGravity.get().g > 0.01) {
             showBigTossToast();
           }
           en.floorY = floorYFor(en);

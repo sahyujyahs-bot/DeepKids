@@ -370,7 +370,7 @@ window.EGCards = (function(){
   function buildHud() {
     var hud = document.createElement('div');
     hud.id = 'card-hud';
-    hud.innerHTML = '<span class="ch-icon">🃏</span><span class="ch-count"></span>';
+    hud.innerHTML = '<span class="ch-icon"></span><span class="ch-label">Force Cards</span><span class="ch-count"></span>';
     document.body.appendChild(hud);
     var pop = document.createElement('div');
     pop.id = 'card-hud-pop';
@@ -441,9 +441,42 @@ window.EGCards = (function(){
     });
   }
 
+  function intro() {
+    // One-time announcement so the mechanism is understood — shows
+    // when the first pickup scrolls into view, until first collect
+    if (count() > 0) return;
+    var first = document.querySelector('.force-pickup');
+    if (!first || !('IntersectionObserver' in window)) return;
+    var io = new IntersectionObserver(function(entries) {
+      if (!entries[0].isIntersecting || count() > 0) return;
+      io.disconnect();
+      var t = document.createElement('div');
+      t.id = 'card-callout';
+      t.innerHTML = '<span class="cc-card"></span><span>Force Cards are hidden across this page — tap them to collect all 5!</span>';
+      document.body.appendChild(t);
+      requestAnimationFrame(function() { t.classList.add('show'); });
+      var hide = function() { t.classList.remove('show'); setTimeout(function() { t.remove(); }, 600); };
+      setTimeout(hide, 7000);
+      listeners.push(hide);
+    }, { threshold: 0.4 });
+    io.observe(first);
+  }
+
   function init() {
     buildHud();
     placeCards();
+    intro();
+    // First collect: open the inventory briefly so the goal is clear
+    var opened = false;
+    listeners.push(function() {
+      if (opened || count() !== 1) return;
+      opened = true;
+      var pop = document.getElementById('card-hud-pop');
+      if (pop) {
+        pop.classList.add('show');
+        setTimeout(function() { pop.classList.remove('show'); }, 3500);
+      }
+    });
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();

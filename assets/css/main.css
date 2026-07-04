@@ -4929,16 +4929,53 @@ html[data-env="moon"] #env-tint { opacity: 0.45; }
 .force-pickup {
   position: absolute;
   z-index: 30;
-  width: 46px; height: 58px;
-  border-radius: 9px;
-  border: 1.5px dashed rgba(var(--lilac-rgb), 0.75);
-  background: rgba(20,10,40,0.72);
-  box-shadow: 0 0 14px rgba(var(--purple-rgb), 0.5);
-  font-size: 22px;
-  display: flex; align-items: center; justify-content: center;
+  width: 68px; height: 95px;
+  border-radius: 8px;
+  border: 1.5px solid rgba(var(--lilac-rgb), 0.65);
+  background: rgba(20,10,40,0.8) url('../../s2-force-card-front.webp') center / cover no-repeat;
+  box-shadow: 0 0 18px rgba(var(--purple-rgb), 0.65), 0 4px 14px rgba(0,0,0,0.5);
+  font-size: 20px;
+  display: flex; align-items: flex-end; justify-content: flex-end;
+  padding: 3px;
   cursor: pointer;
   animation: fp-bob 3.2s ease-in-out infinite;
   transition: transform 0.25s, box-shadow 0.25s;
+}
+.force-pickup span {
+  background: rgba(10,6,24,0.8);
+  border-radius: 50%;
+  width: 26px; height: 26px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 15px;
+}
+#card-callout {
+  position: fixed;
+  left: 50%; bottom: clamp(64px, 9vh, 90px);
+  transform: translate(-50%, 12px);
+  z-index: 1250;
+  display: flex; align-items: center; gap: 12px;
+  max-width: min(430px, 88vw);
+  background: rgba(12,7,28,0.96);
+  border: 1.5px solid rgba(var(--lilac-rgb), 0.65);
+  border-radius: 14px;
+  padding: 12px 16px;
+  font-family: var(--font-body);
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: rgba(255,255,255,0.9);
+  box-shadow: 0 10px 34px rgba(0,0,0,0.6), 0 0 24px rgba(var(--purple-rgb),0.4);
+  opacity: 0;
+  transition: opacity 0.5s, transform 0.5s;
+  pointer-events: none;
+}
+#card-callout.show { opacity: 1; transform: translate(-50%, 0); }
+#card-callout .cc-card {
+  flex: 0 0 34px;
+  width: 34px; height: 48px;
+  border-radius: 5px;
+  background: url('../../s2-force-card-front.webp') center / cover no-repeat;
+  border: 1px solid rgba(var(--lilac-rgb), 0.7);
+  box-shadow: 0 0 10px rgba(var(--purple-rgb), 0.7);
 }
 .force-pickup:hover { transform: scale(1.15); box-shadow: 0 0 22px rgba(var(--purple-rgb), 0.85); }
 .force-pickup.fly {
@@ -4950,6 +4987,18 @@ html[data-env="moon"] #env-tint { opacity: 0.45; }
 @keyframes fp-bob {
   0%, 100% { translate: 0 0; }
   50%      { translate: 0 -8px; }
+}
+#card-hud .ch-icon {
+  width: 20px; height: 28px;
+  border-radius: 3px;
+  background: url('../../s2-force-card-front.webp') center / cover no-repeat;
+  border: 1px solid rgba(var(--lilac-rgb), 0.6);
+}
+#card-hud .ch-label {
+  font-size: 10.5px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.6);
 }
 #card-hud {
   position: fixed;
