@@ -336,3 +336,117 @@ window.EGGravity = (function(){
 
   return { get: get, set: set, onChange: onChange, ENVS: ENVS };
 })();
+
+/* ═══════════════════════════ EGCards — collectible force cards ══
+   Five force cards hidden across the page, each in the section that
+   teaches its concept. Collecting fills the HUD counter; the
+   inventory persists (localStorage) and is the seed for the future
+   board experience. */
+window.EGCards = (function(){
+  'use strict';
+  var CARDS = [
+    { key: 'gravity',  icon: '🌍', name: 'Gravity',        section: 's1',         note: 'The pull that starts every fall.' },
+    { key: 'air',      icon: '🪶', name: 'Air Resistance', section: 's-forces',   note: 'The drag that slows the feather.' },
+    { key: 'motion',   icon: '🌀', name: 'Sideways Motion',section: 's-spiral',   note: 'Fall sideways fast enough and you orbit.' },
+    { key: 'force',    icon: '💪', name: 'Applied Force',  section: 's3',         note: 'Earned through challenges, spent on the board.' },
+    { key: 'escape',   icon: '🚀', name: 'Escape',         section: 's-game',     note: 'Enough speed beats any gravity well.' }
+  ];
+  var KEY = 'eg-cards-v1';
+  var got = {};
+  try { got = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch(e) {}
+  var listeners = [];
+
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(got)); } catch(e) {} }
+  function count() { return CARDS.filter(function(c) { return got[c.key]; }).length; }
+  function collect(key) {
+    if (got[key]) return;
+    got[key] = Date.now();
+    save();
+    listeners.forEach(function(fn) { try { fn(key); } catch(e) {} });
+    if (typeof gtag === 'function') gtag('event', 'force_card_collected', { event_category: 'engagement', card: key, total: count() });
+    if (typeof fbq === 'function') fbq('trackCustom', 'ForceCardCollected', { card: key });
+  }
+
+  function buildHud() {
+    var hud = document.createElement('div');
+    hud.id = 'card-hud';
+    hud.innerHTML = '<span class="ch-icon">🃏</span><span class="ch-count"></span>';
+    document.body.appendChild(hud);
+    var pop = document.createElement('div');
+    pop.id = 'card-hud-pop';
+    document.body.appendChild(pop);
+    function render() {
+      hud.querySelector('.ch-count').textContent = count() + '/' + CARDS.length;
+      hud.classList.toggle('complete', count() === CARDS.length);
+      pop.innerHTML = '<div class="chp-title">Force Cards</div>' + CARDS.map(function(c) {
+        var have = !!got[c.key];
+        return '<div class="chp-row' + (have ? ' have' : '') + '"><span>' + c.icon + '</span><b>' + c.name + '</b><i>' +
+          (have ? c.note : 'still hidden on this page…') + '</i></div>';
+      }).join('');
+    }
+    render();
+    listeners.push(function() {
+      render();
+      hud.classList.add('pulse');
+      setTimeout(function() { hud.classList.remove('pulse'); }, 700);
+    });
+    hud.addEventListener('click', function() {
+      pop.classList.toggle('show');
+    });
+    document.addEventListener('click', function(e) {
+      if (!e.target.closest('#card-hud') && !e.target.closest('#card-hud-pop')) pop.classList.remove('show');
+    });
+  }
+
+  function placeCards() {
+    CARDS.forEach(function(c, i) {
+      if (got[c.key]) return;
+      var sec = document.getElementById(c.section);
+      if (!sec) return;
+      var el = document.createElement('button');
+      el.className = 'force-pickup';
+      el.setAttribute('aria-label', 'Collect the ' + c.name + ' force card');
+      el.innerHTML = '<span>' + c.icon + '</span>';
+      el.style.animationDelay = (i * 0.6) + 's';
+      // varied corners so they feel hidden, not templated
+      var spots = [
+        { right: '6%',  top: '24%' }, { left: '5%', top: '30%' },
+        { right: '8%',  top: '60%' }, { left: '6%', top: '62%' },
+        { right: '5%',  top: '38%' }
+      ];
+      var s = spots[i % spots.length];
+      Object.keys(s).forEach(function(k) { el.style[k] = s[k]; });
+      if (getComputedStyle(sec).position === 'static') sec.style.position = 'relative';
+      sec.appendChild(el);
+      el.addEventListener('click', function() {
+        // fly to the HUD
+        var r = el.getBoundingClientRect();
+        var hud = document.getElementById('card-hud');
+        var h = hud ? hud.getBoundingClientRect() : { left: 20, top: innerHeight - 40 };
+        var fly = el.cloneNode(true);
+        fly.className = 'force-pickup fly';
+        fly.style.left = r.left + 'px';
+        fly.style.top = r.top + 'px';
+        fly.style.right = 'auto';
+        fly.style.position = 'fixed';
+        document.body.appendChild(fly);
+        requestAnimationFrame(function() {
+          fly.style.transform = 'translate(' + (h.left - r.left) + 'px,' + (h.top - r.top) + 'px) scale(0.3)';
+          fly.style.opacity = '0.2';
+        });
+        setTimeout(function() { fly.remove(); }, 800);
+        el.remove();
+        collect(c.key);
+      });
+    });
+  }
+
+  function init() {
+    buildHud();
+    placeCards();
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+
+  return { collect: collect, count: count, CARDS: CARDS, onChange: function(fn){ listeners.push(fn); } };
+})();
