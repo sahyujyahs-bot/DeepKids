@@ -912,7 +912,7 @@
   .eg-nav-right {
     display: flex;
     align-items: center;
-    gap: clamp(12px, 2vw, 24px);
+    gap: 0;
   }
   .eg-nav-playtest {
     font-family: 'Futura', sans-serif;
@@ -944,19 +944,92 @@
     text-decoration: underline;
     text-underline-offset: 3px;
   }
+  /* Hidden on the hero: collapses to zero width so "How To Play" sits at
+     the far-right corner. On scroll it expands and pushes the link left. */
   .eg-nav-cta {
+    max-width: 0;
     margin-left: 0;
     opacity: 0;
+    overflow: hidden;
     pointer-events: none;
-    transition: opacity .3s ease;
+    transition: max-width .45s ease, margin-left .45s ease, opacity .3s ease;
   }
   .eg-nav-cta.show {
+    max-width: 220px;
+    margin-left: clamp(14px, 2vw, 26px);
     opacity: 1;
     pointer-events: auto;
   }
   .eg-nav-cta .btn-svg { width: clamp(120px, 14vw, 170px); }
+
+  /* ── Mobile hamburger menu ─────────────────────────────── */
+  .eg-nav-menu-btn {
+    display: none;               /* desktop: hidden, shown under 769px */
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .eg-nav-menu-btn span {
+    display: block;
+    height: 2px;
+    width: 100%;
+    border-radius: 2px;
+    background: #cd9edf;
+    transition: transform .3s ease, opacity .2s ease;
+  }
+  .eg-nav-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .eg-nav-menu-btn.open span:nth-child(2) { opacity: 0; }
+  .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+  .eg-nav-menu {
+    position: absolute;
+    top: 100%;
+    right: clamp(14px, 4vw, 48px);
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    background: rgba(16,10,34,0.97);
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(170,89,200,0.3);
+    border-radius: 14px;
+    padding: 8px;
+    margin-top: 8px;
+    box-shadow: 0 18px 50px rgba(0,0,0,0.5);
+    opacity: 0;
+    transform: translateY(-8px);
+    pointer-events: none;
+    transition: opacity .25s ease, transform .25s ease;
+  }
+  .eg-nav-menu.open {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+  .eg-nav-menu a {
+    font-family: 'Futura', sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    color: #efe6ff;
+    text-decoration: none;
+    padding: 12px 14px;
+    border-radius: 9px;
+    transition: background .18s ease, color .18s ease;
+  }
+  .eg-nav-menu a:hover,
+  .eg-nav-menu a:active { background: rgba(170,89,200,0.18); color: #fff; }
+  .eg-nav-menu a.eg-nav-menu-cta { color: #cd9edf; font-weight: bold; }
+
   @media (max-width: 768px) {
-    .eg-nav-cta { display: none; } /* mobile uses sticky bottom CTA instead */
+    .eg-nav-cta { display: none; } /* mobile uses sticky bottom CTA + menu */
+    .eg-nav-link { display: none; } /* replaced by the hamburger menu */
+    .eg-nav-menu-btn { display: flex; }
     .eg-nav-playtest { font-size: 14px; }
   }
   /* offset body content for fixed nav */
@@ -968,8 +1041,39 @@
   <div class="eg-nav-right">
     <a href="how-to-play.html" class="eg-nav-link">How To Play</a>
 <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
+    <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="eg-nav-menu" onclick="egToggleMenu()">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="eg-nav-menu" id="eg-nav-menu">
+    <a href="how-to-play.html">How To Play</a>
+    <a href="#s2" onclick="egCloseMenu()">The Game</a>
+    <a href="#s4-science" onclick="egCloseMenu()">Science</a>
+    <a href="#" class="eg-nav-menu-cta" onclick="egCloseMenu();doPreOrder();return false;">Pre-Order</a>
   </div>
 </nav>
+<script>
+  /* Mobile nav menu toggle (shared behaviour name used on all pages) */
+  function egToggleMenu() {
+    var m = document.getElementById('eg-nav-menu');
+    var b = document.querySelector('.eg-nav-menu-btn');
+    if (!m || !b) return;
+    var open = m.classList.toggle('open');
+    b.classList.toggle('open', open);
+    b.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+  function egCloseMenu() {
+    var m = document.getElementById('eg-nav-menu');
+    var b = document.querySelector('.eg-nav-menu-btn');
+    if (m) m.classList.remove('open');
+    if (b) { b.classList.remove('open'); b.setAttribute('aria-expanded', 'false'); }
+  }
+  /* Close the menu when tapping outside it */
+  document.addEventListener('click', function(e) {
+    var nav = document.querySelector('.eg-nav');
+    if (nav && !nav.contains(e.target)) egCloseMenu();
+  });
+</script>
 
 <section id="s1">
 <canvas id="cv"></canvas>
@@ -1942,6 +2046,12 @@
         .catch(function() {});
     }
     document.addEventListener('DOMContentLoaded', restorePreOrderFromLink);
+
+    /* Allow other pages (e.g. how-to-play.html) to deep-link the pre-order
+       modal open by navigating to index.html#preorder */
+    document.addEventListener('DOMContentLoaded', function() {
+      if (location.hash === '#preorder') doPreOrder();
+    });
 
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
