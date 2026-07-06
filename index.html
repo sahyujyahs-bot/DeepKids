@@ -87,6 +87,9 @@
        Fonts early so the actual fetches later reuse the warm
        connection (saves ~100-300ms on slow networks). -->
   <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin/>
+  <!-- Also warm a NON-cors connection: the matter.js <script> tag below is
+       not crossorigin, so it can't reuse the CORS preconnect above. -->
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com"/>
   <!-- Preload the custom font so it's ready before first paint,
        eliminating the flash of unstyled text (FOUT). -->
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
@@ -227,8 +230,12 @@
        the actual <script> tag that executes it lives right before the
        canvas scene below (its first point of use) instead of here in
        <head>, so it no longer blocks the rest of the head/body from
-       parsing and painting while it downloads. -->
-  <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" crossorigin/>
+       parsing and painting while it downloads.
+       NOTE: no `crossorigin` here — the executing <script> tag is not
+       crossorigin, so a CORS preload would mismatch and matter.js would be
+       downloaded twice (and the first fall would still wait on the network).
+       This was the real cause of the multi-second delay before the rain. -->
+  <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js" fetchpriority="high"/>
   <style>
 
     /* ── Fonts ─────────────────────────────────────────────────── */
@@ -1074,7 +1081,6 @@
   <a href="how-to-play.html">How To Play</a>
   <a href="#s2" onclick="egCloseMenu()">The Game</a>
   <a href="#s4-science" onclick="egCloseMenu()">Science</a>
-  <a href="#" class="eg-nav-menu-cta" onclick="egCloseMenu();doPreOrder();return false;">Pre-Order</a>
 </div>
 <script>
   /* Mobile nav menu toggle (shared behaviour name used on all pages) */
