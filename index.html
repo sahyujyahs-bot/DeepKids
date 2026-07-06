@@ -930,6 +930,20 @@
     opacity: 1;
     pointer-events: auto;
   }
+  .eg-nav-link {
+    font-family: 'Futura', sans-serif;
+    font-size: clamp(13px, 1.4vw, 17px);
+    color: #aa59c8;
+    text-decoration: none;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    transition: color .2s ease;
+  }
+  .eg-nav-link:hover {
+    color: #cd9edf;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
   .eg-nav-cta {
     margin-left: 0;
     opacity: 0;
@@ -952,6 +966,7 @@
 <nav class="eg-nav">
   <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
+    <a href="how-to-play.html" class="eg-nav-link">How To Play</a>
 <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
   </div>
 </nav>
