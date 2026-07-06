@@ -788,11 +788,41 @@
       transition: opacity 0.5s ease;
     }
     #drag-hint.show {
-      animation: drag-hint-pulse 2.4s ease-in-out infinite;
+      animation: drag-hint-pulse 2s ease-in-out infinite;
     }
+    /* Bob + gentle scale + a breathing purple glow so the whisper is much
+       harder to miss without shouting. */
     @keyframes drag-hint-pulse {
-      0%, 100% { opacity: 0.9; transform: translateX(-50%) translateY(0); }
-      50%      { opacity: 1;   transform: translateX(-50%) translateY(-6px); }
+      0%, 100% {
+        opacity: 0.92;
+        transform: translateX(-50%) translateY(0) scale(1);
+        border-color: rgba(205,158,223,0.5);
+        box-shadow: 0 6px 24px rgba(0,0,0,0.5), 0 0 18px rgba(170,89,200,0.3);
+      }
+      50% {
+        opacity: 1;
+        transform: translateX(-50%) translateY(-7px) scale(1.05);
+        border-color: rgba(232,196,255,0.95);
+        box-shadow: 0 10px 30px rgba(0,0,0,0.55),
+                    0 0 48px rgba(190,120,230,0.85),
+                    0 0 16px rgba(255,255,255,0.28);
+      }
+    }
+    /* Twinkling sparkles flanking the text */
+    #drag-hint .dh-star {
+      display: inline-block;
+      color: #f0dcff;
+      text-shadow: 0 0 10px rgba(205,158,223,0.95);
+      animation: dh-twinkle 1.5s ease-in-out infinite;
+    }
+    #drag-hint .dh-star.r { animation-delay: 0.75s; }
+    @keyframes dh-twinkle {
+      0%, 100% { opacity: 0.45; transform: scale(0.8) rotate(0deg); }
+      50%      { opacity: 1;    transform: scale(1.35) rotate(90deg); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #drag-hint.show { animation: none; opacity: 1; }
+      #drag-hint .dh-star { animation: none; }
     }
     @media (max-width: 768px) {
       #drag-hint {
@@ -1179,7 +1209,7 @@
     </svg>
   </button>
 
-  <div id="drag-hint">✦&nbsp;&nbsp;grab &amp; toss the illustrations&nbsp;&nbsp;✦</div>
+  <div id="drag-hint"><span class="dh-star">✦</span>&nbsp;&nbsp;grab &amp; toss the illustrations&nbsp;&nbsp;<span class="dh-star r">✦</span></div>
 
   <script src="cards.js?v=5"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
