@@ -66,24 +66,37 @@
     .eg-nav-menu-btn.open span:nth-child(2) { opacity: 0; }
     .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
     .eg-nav-menu {
-      position: absolute; top: 100%; right: clamp(14px, 4vw, 48px);
-      min-width: 200px; display: flex; flex-direction: column;
-      background: rgba(16,10,34,0.97);
-      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-      border: 1px solid rgba(170,89,200,0.3); border-radius: 14px;
-      padding: 8px; margin-top: 8px;
-      box-shadow: 0 18px 50px rgba(0,0,0,0.5);
-      opacity: 0; transform: translateY(-8px); pointer-events: none;
-      transition: opacity .25s ease, transform .25s ease;
+      position: fixed; top: 48px; right: clamp(10px, 4vw, 24px);
+      z-index: 3000; width: min(240px, 78vw);
+      display: flex; flex-direction: column;
+      background: rgba(16,10,34,0.98);
+      backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+      border: 1px solid rgba(170,89,200,0.45); border-radius: 14px;
+      padding: 6px;
+      box-shadow: 0 18px 50px rgba(0,0,0,0.6);
+      opacity: 0; transform: translateY(-8px) scale(0.98);
+      transform-origin: top right; pointer-events: none;
+      transition: opacity .2s ease, transform .2s ease;
     }
-    .eg-nav-menu.open { opacity: 1; transform: translateY(0); pointer-events: auto; }
+    .eg-nav-menu.open { opacity: 1; transform: translateY(0) scale(1); pointer-events: auto; }
     .eg-nav-menu a {
+      display: flex; align-items: center; justify-content: space-between;
       font-family: 'Futura', sans-serif; font-size: 16px; letter-spacing: 0.5px;
-      color: #efe6ff; text-decoration: none; padding: 12px 14px;
-      border-radius: 9px; transition: background .18s ease, color .18s ease;
+      color: #efe6ff; text-decoration: none; padding: 15px 16px;
+      border-radius: 10px; border-bottom: 1px solid rgba(170,89,200,0.16);
+      transition: background .18s ease, color .18s ease;
     }
-    .eg-nav-menu a:hover, .eg-nav-menu a:active { background: rgba(170,89,200,0.18); color: #fff; }
-    .eg-nav-menu a.eg-nav-menu-cta { color: #cd9edf; font-weight: bold; }
+    .eg-nav-menu a:last-child { border-bottom: 0; }
+    .eg-nav-menu a::after {
+      content: '\203A'; font-size: 20px; line-height: 1;
+      color: rgba(205,158,223,0.6); margin-left: 12px;
+    }
+    .eg-nav-menu a:hover, .eg-nav-menu a:active { background: rgba(170,89,200,0.22); color: #fff; }
+    .eg-nav-menu a.eg-nav-menu-cta {
+      color: #fff; font-weight: bold; margin-top: 4px;
+      background: linear-gradient(180deg, #aa59c8 0%, #793194 100%);
+    }
+    .eg-nav-menu a.eg-nav-menu-cta::after { color: rgba(255,255,255,0.8); }
     @media (max-width: 768px) {
       .eg-nav-menu-btn { display: flex; }
     }
@@ -153,13 +166,15 @@
       <span></span><span></span><span></span>
     </button>
   </div>
-  <div class="eg-nav-menu" id="eg-nav-menu">
-    <a href="index.html">Home</a>
-    <a href="index.html#s2">The Game</a>
-    <a href="index.html#s4-science">Science</a>
-    <a href="index.html#preorder" class="eg-nav-menu-cta">Pre-Order</a>
-  </div>
 </nav>
+<!-- Mobile dropdown menu — kept OUTSIDE <nav> so it escapes the nav's
+     backdrop-filter stacking context and layers above the page content. -->
+<div class="eg-nav-menu" id="eg-nav-menu">
+  <a href="index.html">Home</a>
+  <a href="index.html#s2">The Game</a>
+  <a href="index.html#s4-science">Science</a>
+  <a href="index.html#preorder" class="eg-nav-menu-cta">Pre-Order</a>
+</div>
 <script>
   function egToggleMenu() {
     var m = document.getElementById('eg-nav-menu');

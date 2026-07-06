@@ -955,8 +955,10 @@
     transition: max-width .45s ease, margin-left .45s ease, opacity .3s ease;
   }
   .eg-nav-cta.show {
-    max-width: 220px;
-    margin-left: clamp(14px, 2vw, 26px);
+    max-width: 240px;
+    /* !important beats `.dk-btn-host { margin: 0 !important }` so the pill
+       keeps a clear gap from the How To Play link. */
+    margin-left: clamp(24px, 3.5vw, 48px) !important;
     opacity: 1;
     pointer-events: auto;
   }
@@ -989,42 +991,62 @@
   .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
   .eg-nav-menu {
-    position: absolute;
-    top: 100%;
-    right: clamp(14px, 4vw, 48px);
-    min-width: 200px;
+    position: fixed;
+    top: 48px;                       /* just under the mobile nav bar */
+    right: clamp(10px, 4vw, 24px);
+    z-index: 3000;                   /* above the hero title (z 1001) */
+    width: min(240px, 78vw);
     display: flex;
     flex-direction: column;
-    background: rgba(16,10,34,0.97);
-    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-    border: 1px solid rgba(170,89,200,0.3);
+    background: rgba(16,10,34,0.98);
+    backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+    border: 1px solid rgba(170,89,200,0.45);
     border-radius: 14px;
-    padding: 8px;
-    margin-top: 8px;
-    box-shadow: 0 18px 50px rgba(0,0,0,0.5);
+    padding: 6px;
+    box-shadow: 0 18px 50px rgba(0,0,0,0.6);
     opacity: 0;
-    transform: translateY(-8px);
+    transform: translateY(-8px) scale(0.98);
+    transform-origin: top right;
     pointer-events: none;
-    transition: opacity .25s ease, transform .25s ease;
+    transition: opacity .2s ease, transform .2s ease;
   }
   .eg-nav-menu.open {
     opacity: 1;
-    transform: translateY(0);
+    transform: translateY(0) scale(1);
     pointer-events: auto;
   }
+  /* Each option is a clearly separate, tappable row */
   .eg-nav-menu a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     font-family: 'Futura', sans-serif;
     font-size: 16px;
     letter-spacing: 0.5px;
     color: #efe6ff;
     text-decoration: none;
-    padding: 12px 14px;
-    border-radius: 9px;
+    padding: 15px 16px;
+    border-radius: 10px;
+    border-bottom: 1px solid rgba(170,89,200,0.16);
     transition: background .18s ease, color .18s ease;
   }
+  .eg-nav-menu a:last-child { border-bottom: 0; }
+  .eg-nav-menu a::after {
+    content: '\203A';                /* › chevron, signals "go to" */
+    font-size: 20px;
+    line-height: 1;
+    color: rgba(205,158,223,0.6);
+    margin-left: 12px;
+  }
   .eg-nav-menu a:hover,
-  .eg-nav-menu a:active { background: rgba(170,89,200,0.18); color: #fff; }
-  .eg-nav-menu a.eg-nav-menu-cta { color: #cd9edf; font-weight: bold; }
+  .eg-nav-menu a:active { background: rgba(170,89,200,0.22); color: #fff; }
+  .eg-nav-menu a.eg-nav-menu-cta {
+    color: #fff;
+    font-weight: bold;
+    margin-top: 4px;
+    background: linear-gradient(180deg, #aa59c8 0%, #793194 100%);
+  }
+  .eg-nav-menu a.eg-nav-menu-cta::after { color: rgba(255,255,255,0.8); }
 
   @media (max-width: 768px) {
     .eg-nav-cta { display: none; } /* mobile uses sticky bottom CTA + menu */
@@ -1045,13 +1067,15 @@
       <span></span><span></span><span></span>
     </button>
   </div>
-  <div class="eg-nav-menu" id="eg-nav-menu">
-    <a href="how-to-play.html">How To Play</a>
-    <a href="#s2" onclick="egCloseMenu()">The Game</a>
-    <a href="#s4-science" onclick="egCloseMenu()">Science</a>
-    <a href="#" class="eg-nav-menu-cta" onclick="egCloseMenu();doPreOrder();return false;">Pre-Order</a>
-  </div>
 </nav>
+<!-- Mobile dropdown menu — kept OUTSIDE <nav> so it escapes the nav's
+     backdrop-filter stacking context and layers above the hero title. -->
+<div class="eg-nav-menu" id="eg-nav-menu">
+  <a href="how-to-play.html">How To Play</a>
+  <a href="#s2" onclick="egCloseMenu()">The Game</a>
+  <a href="#s4-science" onclick="egCloseMenu()">Science</a>
+  <a href="#" class="eg-nav-menu-cta" onclick="egCloseMenu();doPreOrder();return false;">Pre-Order</a>
+</div>
 <script>
   /* Mobile nav menu toggle (shared behaviour name used on all pages) */
   function egToggleMenu() {
