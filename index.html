@@ -494,10 +494,6 @@
       margin-bottom: clamp(10px, 2vh, 24px);
       animation: float-title 7s ease-in-out infinite;
       white-space: nowrap;
-      background: rgba(10,6,24,.6);
-      padding: 12px clamp(14px,2vw,24px);
-      border-radius: 8px;
-      -webkit-box-decoration-break: clone; box-decoration-break: clone;
     }
     @keyframes float-title {
       0%, 100% { transform: translateY(0);    }
@@ -515,10 +511,8 @@
       opacity: .92;
       margin-bottom: clamp(22px, 4vh, 44px);
       white-space: nowrap;
-      background: rgba(10,6,24,.55);
-      padding: 5px clamp(14px,2vw,24px);
-      border-radius: 6px;
-      -webkit-box-decoration-break: clone; box-decoration-break: clone;
+      /* No background block — a soft shadow keeps it legible over the rain. */
+      text-shadow: 0 2px 14px rgba(0,0,0,0.75), 0 0 22px rgba(10,6,24,0.7);
     }
     .sub-dot {
       margin: 0 clamp(2px, 0.5vw, 8px);
@@ -1994,7 +1988,7 @@
           'font-size:' + startFontSize + 'px;' +
           'color:#fff;' +
           'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
-          'background:rgba(10,6,24,.6);' +
+          'background:transparent;' +
           'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
           'transform-origin:left top;' +
@@ -2030,7 +2024,7 @@
         clone.style.top       = curY + 'px';
         clone.style.transform = 'scale(' + s + ')';
 
-        clone.style.background = 'rgba(10,6,24,' + (0.6 * (1 - p)) + ')';
+        clone.style.background = 'transparent';
 
         var r = Math.round(255 + (170 - 255) * p);
         var g = Math.round(255 + (89  - 255) * p);
