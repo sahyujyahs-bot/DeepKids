@@ -206,7 +206,6 @@
   <link rel="preload" as="image" href="Card2Side2.png"/>
   <link rel="preload" as="image" href="Card4Side1.png"/>
   <link rel="preload" as="image" href="Card5Side1.png"/>
-  <link rel="preload" as="image" href="box-lid.webp"/>
   <link rel="preload" as="image" href="board-prototype.webp"/>
   <link rel="preload" as="image" href="kit-items.webp"/>
   <!-- Remaining hero rain-card images: low priority so they don't
@@ -1939,25 +1938,34 @@
 
     })();
 
-    /* ── Title morph: hero centre → nav logo on scroll ─────── */
+    /* ── Title morph: hero centre → nav logo on scroll ───────
+       The REAL <h1> is the element that morphs (position:fixed +
+       transforms); an aria-hidden placeholder div keeps its layout
+       slot. Previously a visual clone morphed while the h1 sat with
+       visibility:hidden — which audits/crawlers flag as "H1 hidden
+       with CSS". This keeps the h1 itself visible. */
     (function() {
       var h1      = document.querySelector('.title');
       var navLogo = document.querySelector('.eg-nav-logo');
       if (!h1 || !navLogo) return;
 
-      var clone = document.createElement('div');
-      clone.className = 'title-morph';
-      clone.setAttribute('aria-hidden', 'true');
-      clone.innerHTML = 'EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup>';
-      document.body.appendChild(clone);
+      var clone = h1; // the h1 itself morphs; kept name so onScroll reads the same
+
+      var holder = document.createElement('div');
+      holder.className = 'title';
+      holder.setAttribute('aria-hidden', 'true');
+      holder.innerHTML = h1.innerHTML;
+      holder.style.visibility = 'hidden';
+      holder.style.animation  = 'none';
 
       var scrollRange, startX, startY, startFontSize,
           endX, endY, endFontSize, scaleEnd, padLR;
 
       function measure() {
-        clone.style.display = 'none';
-        h1.style.visibility = 'visible';
-        h1.style.animation  = 'float-title 7s ease-in-out infinite';
+        // Put the h1 back in flow (and pull the placeholder) so the
+        // natural position can be measured.
+        if (holder.parentNode) holder.parentNode.removeChild(holder);
+        h1.style.cssText = '';
 
         var saved = window.pageYOffset || 0;
         var hr = h1.getBoundingClientRect();
@@ -1975,7 +1983,9 @@
 
         scrollRange = window.innerHeight * 0.38;
 
-        clone.style.cssText =
+        // Placeholder takes over the layout slot; h1 goes fixed.
+        h1.parentNode.insertBefore(holder, h1);
+        h1.style.cssText =
           'position:fixed;z-index:1001;pointer-events:none;' +
           'font-family:Norwester,sans-serif;font-variant:small-caps;' +
           'font-weight:normal;font-style:normal;' +
@@ -1984,14 +1994,12 @@
           'color:#fff;' +
           'text-shadow:0 0 26px rgba(170,89,200,.55),3px 3px 0 rgba(0,0,0,.9);' +
           'background:transparent;' +
+          'margin:0;' +
           'padding:12px ' + padLR + ';' +
           'border-radius:8px;' +
           'transform-origin:left top;' +
+          'animation:none;' +
           'will-change:transform,opacity;';
-
-        clone.style.display = '';
-        h1.style.visibility = 'hidden';
-        h1.style.animation  = 'none';
         onScroll();
       }
 
@@ -2450,7 +2458,7 @@
     <button type="button" class="po-close" onclick="closePreOrderModal()" aria-label="Close">×</button>
     <!-- Rocket illustration at the top -->
     <div class="po-hero-img">
-      <img src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
+      <img loading="lazy" src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
     <div class="po-offer-badge">🚀 Early Bird — 50% Off &nbsp;<span class="po-offer-mrp">₹4,999</span>&nbsp;<span class="po-offer-price">₹2,499</span></div>
@@ -3230,21 +3238,21 @@
 
     <div class="ps-card ps-card-bath eg-fade-in">
       <div class="ps-img-wrap">
-        <img class="ps-img" src="IMG_5314.webp" alt="Kid pointing at water spiraling down bathtub drain" decoding="async">
+        <img loading="lazy" class="ps-img" src="IMG_5314.webp" alt="Kid pointing at water spiraling down bathtub drain" decoding="async">
         <div class="ps-cloud ps-cloud-kid ps-cloud-d1">Amma look! The water is spiraling down the drain, just like the board! Is <em>gravity</em> pulling it into the core?</div>
       </div>
     </div>
 
     <div class="ps-card ps-card-dinner eg-fade-in">
       <div class="ps-img-wrap">
-        <img class="ps-img" src="Untitled-design.webp" alt="Family at dinner table discussing feathers and gravity" decoding="async">
+        <img loading="lazy" class="ps-img" src="Untitled-design.webp" alt="Family at dinner table discussing feathers and gravity" decoding="async">
         <div class="ps-cloud ps-cloud-kid ps-cloud-d1">Hey Dad, look — a falling feather! Did you know it falls slowly because of <em>air resistance</em>, not because of less gravity?</div>
       </div>
     </div>
 
     <div class="ps-card ps-card-school eg-fade-in">
       <div class="ps-img-wrap">
-        <img class="ps-img" src="IMG_5313.webp" alt="Kid raising hand in classroom correcting teacher about gravity" decoding="async">
+        <img loading="lazy" class="ps-img" src="IMG_5313.webp" alt="Kid raising hand in classroom correcting teacher about gravity" decoding="async">
         <div class="ps-cloud ps-cloud-adult ps-cloud-d1">Gravity is the force that keeps us on the ground.</div>
         <div class="ps-cloud ps-cloud-kid ps-cloud-d2">Miss, isn't gravity actually trying to pull us <em>into the core</em>? It's the <em>ground</em> that saves us from falling in!</div>
       </div>
@@ -3624,7 +3632,7 @@
     <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
-          <img class="unlearn-front-img" src="Nogravityfloatingabsurdity.webp" alt="No gravity floating absurdity" decoding="async">
+          <img loading="lazy" class="unlearn-front-img" src="Nogravityfloatingabsurdity.webp" alt="No gravity floating absurdity" decoding="async">
 
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"If there were <em>no gravity</em>, we would all <em>float away</em> into space."</div>
@@ -3643,7 +3651,7 @@
     <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
-          <img class="unlearn-front-img" src="unlearn-iss.webp" alt="Kid floating in ISS" decoding="async">
+          <img loading="lazy" class="unlearn-front-img" src="unlearn-iss.webp" alt="Kid floating in ISS" decoding="async">
 
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"Astronauts float in the ISS because of <em>zero gravity</em>."</div>
@@ -3662,7 +3670,7 @@
     <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
-          <img class="unlearn-front-img" src="groundbreakingaway.webp" alt="Ground breaking away revealing core" decoding="async">
+          <img loading="lazy" class="unlearn-front-img" src="groundbreakingaway.webp" alt="Ground breaking away revealing core" decoding="async">
 
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"Which force <em>keeps us on the ground</em>?"<br>If you said <em>gravity</em>...</div>
@@ -3681,7 +3689,7 @@
     <div class="unlearn-card eg-fade-in">
       <div class="unlearn-inner">
         <div class="unlearn-front">
-          <img class="unlearn-front-img" src="unlearn-pulls.webp" alt="Everything pulls everything — spacetime curvature" decoding="async">
+          <img loading="lazy" class="unlearn-front-img" src="unlearn-pulls.webp" alt="Everything pulls everything — spacetime curvature" decoding="async">
 
           <div class="unlearn-text-area">
             <div class="unlearn-myth">"Gravity <em>pulls things down.</em>"</div>
@@ -3772,14 +3780,14 @@
 
     <div class="s2-board-tour eg-fade-in s2-d2" id="s2-board-tour">
       <div class="s2-board-tour-frame">
-        <img decoding="async" src="full-board-tour.webp" alt="EscapeGravity spiral board — full board view" id="s2-board-tour-img">
+        <img loading="lazy" decoding="async" src="full-board-tour.webp" alt="EscapeGravity spiral board — full board view" id="s2-board-tour-img">
         <div class="s2-board-tour-piece-wrap s2-board-tour-piece-astro" id="s2-board-tour-astro">
           <div class="s2-board-tour-shadow"></div>
-          <img decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut token" class="s2-board-tour-piece">
+          <img loading="lazy" decoding="async" src="Blue-astronaut-front.webp" alt="Astronaut token" class="s2-board-tour-piece">
         </div>
         <div class="s2-board-tour-piece-wrap s2-board-tour-piece-rocket" id="s2-board-tour-rocket">
           <div class="s2-board-tour-shadow"></div>
-          <img decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket token" class="s2-board-tour-piece">
+          <img loading="lazy" decoding="async" src="Untitled_Artwork-7.webp" alt="Rocket token" class="s2-board-tour-piece">
         </div>
         <div class="s2-board-tour-label" id="s2-board-tour-label">The Spiral Board</div>
         <button id="s2-board-tour-toggle" title="Pause">
@@ -3884,20 +3892,20 @@
   <p class="page-subh eg-fade-in s2-d2">What's Inside The Box</p>
 
   <div class="s2-box-standalone eg-fade-in s2-d2">
-    <img decoding="async" src="eg-box-new.webp" alt="EscapeGravity educational board game box">
+    <img loading="lazy" decoding="async" src="eg-box-new.webp" alt="EscapeGravity educational board game box">
   </div>
 
   <div class="s2-pin" tabindex="0" role="region" aria-label="What is in the box">
     <div class="s2-pin-item s2-pin-spiral">
-      <div class="s2-pin-media"><img decoding="async" src="board-prototype.webp" alt="EscapeGravity learning board game spiral board"></div>
+      <div class="s2-pin-media"><img loading="lazy" decoding="async" src="board-prototype.webp" alt="EscapeGravity learning board game spiral board"></div>
       <div class="s2-pin-lbl">The Spiral Board</div>
     </div>
 
     <div class="s2-pin-item s2-pin-chall">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img decoding="async" src="IMG_5098.webp" alt="Learning board game force card front"></div>
-          <div class="s2-flip-back"><img decoding="async" src="IMG_5099.webp" alt="Force Card Back"></div>
+          <div class="s2-flip-front"><img loading="lazy" decoding="async" src="IMG_5098.webp" alt="Learning board game force card front"></div>
+          <div class="s2-flip-back"><img loading="lazy" decoding="async" src="IMG_5099.webp" alt="Force Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -3907,8 +3915,8 @@
     <div class="s2-pin-item s2-pin-chall s2-pin-chall-big">
       <div class="s2-flip-card">
         <div class="s2-flip-inner">
-          <div class="s2-flip-front"><img decoding="async" src="Lightest_Items_Wins.webp" alt="Kids board game physical challenge card"></div>
-          <div class="s2-flip-back"><img decoding="async" src="Physical_Challenge_Card_Top_Side.webp" alt="Challenge Card Back"></div>
+          <div class="s2-flip-front"><img loading="lazy" decoding="async" src="Lightest_Items_Wins.webp" alt="Kids board game physical challenge card"></div>
+          <div class="s2-flip-back"><img loading="lazy" decoding="async" src="Physical_Challenge_Card_Top_Side.webp" alt="Challenge Card Back"></div>
         </div>
         <span class="s2-flip-hint">tap to flip</span>
       </div>
@@ -3916,7 +3924,7 @@
     </div>
 
     <div class="s2-pin-item s2-pin-kit">
-      <div class="s2-pin-media"><img decoding="async" src="kit-items.webp" alt="Educational board game challenge kit items"></div>
+      <div class="s2-pin-media"><img loading="lazy" decoding="async" src="kit-items.webp" alt="Educational board game challenge kit items"></div>
       <div class="s2-pin-lbl">Challenge Kit Items</div>
     </div>
 
@@ -4133,25 +4141,25 @@
     <!-- Right col: videos -->
     <div class="gallery-videos">
       <div class="gallery-video-item" onclick="playGalleryVideo(this)">
-        <video playsinline preload="metadata" class="gv">
+        <video playsinline preload="none" poster="gallery-vid-0009.webp" class="gv">
           <source src="VID-20260614-WA0009.mp4" type="video/mp4">
         </video>
         <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
       </div>
       <div class="gallery-video-item" onclick="playGalleryVideo(this)">
-        <video playsinline preload="metadata" class="gv">
+        <video playsinline preload="none" poster="gallery-vid-0010.webp" class="gv">
           <source src="VID-20260614-WA0010.mp4" type="video/mp4">
         </video>
         <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
       </div>
       <div class="gallery-video-item" onclick="playGalleryVideo(this)">
-        <video playsinline preload="metadata" class="gv">
+        <video playsinline preload="none" poster="gallery-vid-0025.webp" class="gv">
           <source src="VID-20260614-WA0025.mp4" type="video/mp4">
         </video>
         <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
       </div>
       <div class="gallery-video-item" onclick="playGalleryVideo(this)">
-        <video playsinline preload="metadata" class="gv">
+        <video playsinline preload="none" poster="gallery-vid-0027.webp" class="gv">
           <source src="VID-20260614-WA0027.mp4" type="video/mp4">
         </video>
         <div class="gv-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></div>
@@ -4260,16 +4268,16 @@
   <p class="eg-fade-in" style="font-family:'Futura',sans-serif;font-size:clamp(15px,1.7vw,21px);color:rgba(255,255,255,0.65);text-align:center;max-width:680px;margin:0 auto clamp(20px,3vh,36px);line-height:1.5;">Over 35 physical challenges let players feel the forces at work &mdash; balance, speed, air resistance, gravity itself. Every challenge is a real-world experiment hiding in plain sight.</p>
 
   <div class="exp-grid">
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5232.webp" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5067.webp" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5068.webp" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5062.webp" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5071.webp" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5064.webp" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5066.webp" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5069.webp" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5070.webp" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
-    <div class="exp-item" tabindex="0"><img decoding="async" src="IMG_5065.webp" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5232.webp" alt="Drop different objects"><span class="exp-caption">Drop different objects</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5067.webp" alt="Yoga balance poses"><span class="exp-caption">Yoga balance poses</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5068.webp" alt="Blow feathers with hairdryers"><span class="exp-caption">Blow feathers with hairdryers</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5062.webp" alt="Roll car off table"><span class="exp-caption">Roll a car off the table</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5071.webp" alt="Spinning on the board"><span class="exp-caption">Spin on the board</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5064.webp" alt="Tug of war"><span class="exp-caption">Tug of war</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5066.webp" alt="Drop paper vs crumpled paper"><span class="exp-caption">Drop paper vs crumpled paper</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5069.webp" alt="Balance books on head"><span class="exp-caption">Balance books on your head</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5070.webp" alt="Throw ball high"><span class="exp-caption">Throw a ball as high as you can</span></div>
+    <div class="exp-item" tabindex="0"><img loading="lazy" decoding="async" src="IMG_5065.webp" alt="Solve puzzles at table"><span class="exp-caption">Solve puzzles at the table</span></div>
   </div>
 </section>
 
@@ -4491,49 +4499,49 @@
   <!-- Force card panels — one per category -->
   <div class="forces-panel active" data-cat="earth">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5106.webp" alt="Normal Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5106.webp" alt="Normal Force"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="air">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5120.webp" alt="Air Resistance"></div>
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5118.webp" alt="Airlift"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5120.webp" alt="Air Resistance"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5118.webp" alt="Airlift"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="water">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5116.webp" alt="Buoyancy"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5116.webp" alt="Buoyancy"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="body">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5114.webp" alt="Weight"></div>
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5112.webp" alt="Physical Work"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5114.webp" alt="Weight"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5112.webp" alt="Physical Work"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="speed">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5098.webp" alt="Sideways Velocity"></div>
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5096.webp" alt="Escape Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5098.webp" alt="Sideways Velocity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5096.webp" alt="Escape Velocity"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="energy">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5102.webp" alt="Magnetic Force"></div>
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5100.webp" alt="Elastic Energy"></div>
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5104.webp" alt="Knowledge"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5102.webp" alt="Magnetic Force"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5100.webp" alt="Elastic Energy"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5104.webp" alt="Knowledge"></div>
     </div>
   </div>
 
   <div class="forces-panel" data-cat="balance">
     <div class="forces-cards">
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5110.webp" alt="Center of Gravity"></div>
-      <div class="forces-card-slot"><img decoding="async" src="IMG_5108.webp" alt="Neutral Pull"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5110.webp" alt="Center of Gravity"></div>
+      <div class="forces-card-slot"><img loading="lazy" decoding="async" src="IMG_5108.webp" alt="Neutral Pull"></div>
     </div>
   </div>
   </div><!-- /forces-layout -->
@@ -4733,25 +4741,25 @@
   <!-- Desktop: tiles flanking spiral -->
   <div class="spiral-stage eg-fade-in">
     <div class="spiral-side">
-      <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
-      <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.webp" alt="Galaxy spiral"></div>
+      <div class="spiral-ex"><img loading="lazy" decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
+      <div class="spiral-ex"><img loading="lazy" decoding="async" src="spiral-galaxy-x.webp" alt="Galaxy spiral"></div>
     </div>
     <div class="spiral-wrap">
-      <img id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="spiral-board-display.webp" alt="EscapeGravity Spiral Board">
+      <img loading="lazy" id="spiral-board" class="spiral-img" decoding="async" fetchpriority="high" src="spiral-board-display.webp" alt="EscapeGravity Spiral Board">
       <p class="spiral-hint">Scroll, click or double-click to spin</p>
     </div>
     <div class="spiral-side">
-      <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-      <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
+      <div class="spiral-ex"><img loading="lazy" decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+      <div class="spiral-ex"><img loading="lazy" decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
     </div>
   </div>
 
   <!-- Mobile: 4 tiles in horizontal scroll row below spiral -->
   <div class="spiral-row-mobile eg-fade-in" tabindex="0" role="region" aria-label="Spirals in nature">
-    <div class="spiral-ex"><img decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
-    <div class="spiral-ex"><img decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
-    <div class="spiral-ex"><img decoding="async" src="spiral-galaxy-x.webp" alt="Galaxy spiral"></div>
-    <div class="spiral-ex"><img decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
+    <div class="spiral-ex"><img loading="lazy" decoding="async" src="water-swirl_600.jpg" alt="Water drain spiral"></div>
+    <div class="spiral-ex"><img loading="lazy" decoding="async" src="Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).webp" alt="Hurricane spiral"></div>
+    <div class="spiral-ex"><img loading="lazy" decoding="async" src="spiral-galaxy-x.webp" alt="Galaxy spiral"></div>
+    <div class="spiral-ex"><img loading="lazy" decoding="async" src="image-1920-313407a2ae833fa4947256a2baf89138.webp" alt="Escape trajectory"></div>
   </div>
 </section>
 
@@ -4990,7 +4998,7 @@
   <div id="sci-collage" class="eg-fade-in">
     <picture>
       <source media="(max-width: 600px)" srcset="science-tiles-mobile.webp">
-      <img decoding="async" src="science-tiles-laptop.webp" alt="Each Tile Carries Science — tile close-ups collage">
+      <img loading="lazy" decoding="async" src="science-tiles-laptop.webp" alt="Each Tile Carries Science — tile close-ups collage">
     </picture>
   </div>
 </section>
@@ -5064,7 +5072,7 @@
 
     <!-- Challenge card with overlapping bracket annotations -->
     <div class="s4b-annotated eg-fade-in">
-      <img class="s4b-challenge-img" src="IMG_5141.webp" alt="Miss The Bucket — Challenge Card">
+      <img loading="lazy" class="s4b-challenge-img" src="IMG_5141.webp" alt="Miss The Bucket — Challenge Card">
       <svg class="s4b-arrows" viewBox="0 0 100 54" preserveAspectRatio="xMidYMid meet">
         <!-- Physical Challenge bracket — touching card right edge -->
         <line x1="87" y1="3" x2="87" y2="35" stroke="#e85d75" stroke-width="0.5"/>
@@ -5088,7 +5096,7 @@
     </div>
 
     <div class="s4b-bottom">
-      <img class="s4b-fc-img" src="IMG_5099.webp" alt="Sideways Velocity — Force Card (content side)">
+      <img loading="lazy" class="s4b-fc-img" src="IMG_5099.webp" alt="Sideways Velocity — Force Card (content side)">
       <p class="s4b-connection">
         The car rolls off the table and curves &mdash; it doesn&rsquo;t fall straight down.
         That curved path is sideways velocity in action.
@@ -5101,7 +5109,7 @@
   <div class="s4b-panel" id="s4b-ex2">
 
     <div class="s4b-annotated eg-fade-in">
-      <img class="s4b-challenge-img" src="IMG_5149.webp" alt="One Leg Balance — Challenge Card">
+      <img loading="lazy" class="s4b-challenge-img" src="IMG_5149.webp" alt="One Leg Balance — Challenge Card">
       <svg class="s4b-arrows" viewBox="0 0 100 54" preserveAspectRatio="xMidYMid meet">
         <line x1="87" y1="3" x2="87" y2="35" stroke="#e85d75" stroke-width="0.5"/>
         <line x1="85" y1="3" x2="87" y2="3" stroke="#e85d75" stroke-width="0.5"/>
@@ -5122,7 +5130,7 @@
     </div>
 
     <div class="s4b-bottom">
-      <img class="s4b-fc-img" src="IMG_5111.webp" alt="Center Of Gravity — Force Card (content side)">
+      <img loading="lazy" class="s4b-fc-img" src="IMG_5111.webp" alt="Center Of Gravity — Force Card (content side)">
       <p class="s4b-connection">
         Spreading your arms shifts your center of gravity back over your base &mdash;
         that&rsquo;s why balancing gets easier.
@@ -5231,7 +5239,7 @@
   <div class="s6b-panel active" id="s6b-gw1">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img decoding="async" src="Tile10.webp" alt="Tile 10 — Earth's Surface">
+        <img loading="lazy" decoding="async" src="Tile10.webp" alt="Tile 10 — Earth's Surface">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5243,8 +5251,8 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fan" id="s6b-fan">
-        <img class="s6b-fan-card" src="IMG_5099.webp" alt="Sideways Velocity" style="z-index:2;">
-        <img class="s6b-fan-card" src="IMG_5097.webp" alt="Escape Velocity" style="z-index:1;">
+        <img loading="lazy" class="s6b-fan-card" src="IMG_5099.webp" alt="Sideways Velocity" style="z-index:2;">
+        <img loading="lazy" class="s6b-fan-card" src="IMG_5097.webp" alt="Escape Velocity" style="z-index:1;">
       </div>
     </div>
   </div>
@@ -5253,7 +5261,7 @@
   <div class="s6b-panel" id="s6b-gw2">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img decoding="async" src="Section6-tile15.webp" alt="Tile 15 — Rough Ocean Waves">
+        <img loading="lazy" decoding="async" src="Section6-tile15.webp" alt="Tile 15 — Rough Ocean Waves">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5265,7 +5273,7 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5301.webp" alt="Buoyancy — Water (content side)">
+        <img loading="lazy" class="s6b-fc-img" src="IMG_5301.webp" alt="Buoyancy — Water (content side)">
       </div>
     </div>
   </div>
@@ -5274,7 +5282,7 @@
   <div class="s6b-panel" id="s6b-gw3">
     <div class="s6b-flow eg-fade-in">
       <div class="s6b-tile-img-wrap">
-        <img decoding="async" src="Section6tile16.webp" alt="Tile 16 — Losing Balance At A Cliff">
+        <img loading="lazy" decoding="async" src="Section6tile16.webp" alt="Tile 16 — Losing Balance At A Cliff">
       </div>
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
@@ -5286,7 +5294,7 @@
       <div class="s6b-arrow-h">&#10140;</div>
       <div class="s6b-arrow-v">&#10140;</div>
       <div class="s6b-fc-pair">
-        <img class="s6b-fc-img" src="IMG_5302.webp" alt="Center Of Gravity — Balance (content side)">
+        <img loading="lazy" class="s6b-fc-img" src="IMG_5302.webp" alt="Center Of Gravity — Balance (content side)">
       </div>
     </div>
   </div>
@@ -5938,8 +5946,8 @@
 
   <!-- Row 2: Board -->
   <!-- Tokens: direct children of #s3 so they can overflow board-row -->
-  <img id="s2-tok-blue" class="s2-tok" src="s2-token-blue.webp" alt="">
-  <img id="s2-tok-red"  class="s2-tok" src="s2-token-red.webp"  alt="">
+  <img loading="lazy" id="s2-tok-blue" class="s2-tok" src="s2-token-blue.webp" alt="">
+  <img loading="lazy" id="s2-tok-red"  class="s2-tok" src="s2-token-red.webp"  alt="">
   <div id="s2-board-row">
     <div class="s2-panel" id="s2-panel-boardgame">
       <!-- Canvas: smooth zoom animation -->
@@ -5991,7 +5999,7 @@
       <div id="s2-comic-bubble">
         <div class="s2-bubble-box">
           If you have an<br>
-          <span class="s2-bubble-highlight"><img class="s2-bubble-icon" src="IMG_4700.webp" alt="Earth"> Earth Force Card</span><br>
+          <span class="s2-bubble-highlight"><img loading="lazy" class="s2-bubble-icon" src="IMG_4700.webp" alt="Earth"> Earth Force Card</span><br>
           you can play it…<br>
           or you <span class="s2-bubble-highlight">fall down!</span><br>
           <a class="s2-bubble-link" id="s2-bubble-fc-link">Earn a Force Card</a>
@@ -6014,12 +6022,12 @@
 
       <div class="s2-drop-scene" id="s2-drop-scene">
         <div class="s2-drop-title" id="s2-drop-title">All Players Do The Challenge</div>
-        <img class="s2-drop-kids" id="s2-kids-holding" src="s2-kids-holding.webp" alt="Kids holding items">
-        <img class="s2-drop-kids" id="s2-kids-empty" src="s2-kids-empty.webp" alt="Kids dropped items" style="opacity:0">
-        <img class="s2-drop-item" id="s2-item-ball" src="s2-item-ball.webp" alt="Ball">
-        <img class="s2-drop-item" id="s2-item-feather" src="s2-item-feather.webp" alt="Feather">
-        <img class="s2-drop-item" id="s2-item-leaf" src="s2-item-leaf.webp" alt="Leaf">
-        <img class="s2-drop-item" id="s2-item-paper" src="s2-item-paper.webp" alt="Paper">
+        <img loading="lazy" class="s2-drop-kids" id="s2-kids-holding" src="s2-kids-holding.webp" alt="Kids holding items">
+        <img loading="lazy" class="s2-drop-kids" id="s2-kids-empty" src="s2-kids-empty.webp" alt="Kids dropped items" style="opacity:0">
+        <img loading="lazy" class="s2-drop-item" id="s2-item-ball" src="s2-item-ball.webp" alt="Ball">
+        <img loading="lazy" class="s2-drop-item" id="s2-item-feather" src="s2-item-feather.webp" alt="Feather">
+        <img loading="lazy" class="s2-drop-item" id="s2-item-leaf" src="s2-item-leaf.webp" alt="Leaf">
+        <img loading="lazy" class="s2-drop-item" id="s2-item-paper" src="s2-item-paper.webp" alt="Paper">
       </div>
     </div>
 
@@ -6419,10 +6427,10 @@
   <div class="s2-force-card-wrap" id="s2-force-card-wrap">
     <div class="s2-force-card-inner">
       <div class="s2-force-card-face">
-        <img src="s2-force-card-front.webp" alt="Force Card Front">
+        <img loading="lazy" src="s2-force-card-front.webp" alt="Force Card Front">
       </div>
       <div class="s2-force-card-face s2-force-card-back-face">
-        <img src="s2-force-card-back.webp" alt="Force Card Back">
+        <img loading="lazy" src="s2-force-card-back.webp" alt="Force Card Back">
       </div>
     </div>
   </div>
@@ -7769,9 +7777,9 @@
   }
 
   // Tile-11 bubble copy (start state of Step 3 / end state of Step 2)
-  var ICON_EARTH = '<img class="s2-bubble-icon" src="IMG_4700.webp" alt="Earth">';
-  var ICON_BODY  = '<img class="s2-bubble-icon" src="IMG_4705.webp" alt="Body">';
-  var ICON_TWO   = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.webp" alt="Any 2 Cards">';
+  var ICON_EARTH = '<img loading="lazy" class="s2-bubble-icon" src="IMG_4700.webp" alt="Earth">';
+  var ICON_BODY  = '<img loading="lazy" class="s2-bubble-icon" src="IMG_4705.webp" alt="Body">';
+  var ICON_TWO   = '<img loading="lazy" class="s2-bubble-icon s2-bubble-icon-lg" src="IMG_5300.webp" alt="Any 2 Cards">';
 
   // Step 3 scene 0: bubble + "Check Your Force Card" link.
   // Clicking the link reveals the inline force card and advances.
