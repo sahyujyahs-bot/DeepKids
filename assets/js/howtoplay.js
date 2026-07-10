@@ -1313,9 +1313,9 @@
   }
 
   // Tile-11 bubble copy (start state of Step 3 / end state of Step 2)
-  var ICON_EARTH = '<img class="s2-bubble-icon" src="' + EGAudio.url('IMG_4700.webp') + '" alt="Earth">';
-  var ICON_BODY  = '<img class="s2-bubble-icon" src="' + EGAudio.url('IMG_4705.webp') + '" alt="Body">';
-  var ICON_TWO   = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="' + EGAudio.url('IMG_5300.webp') + '" alt="Any 2 Cards">';
+  var ICON_EARTH = '<img class="s2-bubble-icon" src="' + EGAudio.url('IMG_4700.png') + '" alt="Earth">';
+  var ICON_BODY  = '<img class="s2-bubble-icon" src="' + EGAudio.url('IMG_4705.png') + '" alt="Body">';
+  var ICON_TWO   = '<img class="s2-bubble-icon s2-bubble-icon-lg" src="' + EGAudio.url('IMG_5300.png') + '" alt="Any 2 Cards">';
 
   // Step 3 scene 0: bubble + "Check Your Force Card" link.
   // Clicking the link reveals the inline force card and advances.
