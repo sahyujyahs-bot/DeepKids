@@ -195,6 +195,7 @@
     "url": "https://deepkids.in",
     "logo": "https://deepkids.in/DeepKids_Logo_Idea.webp",
     "sameAs": [
+      "https://www.youtube.com/@Deepkidsclub",
       "https://www.instagram.com/deepkids.club",
       "https://www.facebook.com/people/DeepKids/61584787613315/"
     ]
@@ -1085,7 +1086,7 @@
 <nav class="eg-nav">
   <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
-    <a href="how-to-play.html" class="eg-nav-link">How To Play</a>
+    <a href="/how-to-play" class="eg-nav-link">How To Play</a>
 <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Pre-Order" onclick="doPreOrder()"></button>
     <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="eg-nav-menu" onclick="egToggleMenu()">
       <span></span><span></span><span></span>
@@ -1095,7 +1096,7 @@
 <!-- Mobile dropdown menu — kept OUTSIDE <nav> so it escapes the nav's
      backdrop-filter stacking context and layers above the hero title. -->
 <div class="eg-nav-menu" id="eg-nav-menu" role="navigation" aria-label="Site menu">
-  <a href="how-to-play.html">How To Play</a>
+  <a href="/how-to-play">How To Play</a>
   <a href="#s2" onclick="egCloseMenu()">The Game</a>
   <a href="#s4-science" onclick="egCloseMenu()">Science</a>
 </div>
@@ -2351,7 +2352,7 @@
                 sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId])
               ]);
               withTimeout(notifyPromise, 4000).then(function() {
-                window.location.href = '/order-confirmed.html?' + params.toString();
+                window.location.href = '/order-confirmed?' + params.toString();
               });
             })
             .catch(function() {
@@ -10237,9 +10238,9 @@
         <li><a href="#s2" data-section="s2">The Game</a></li>
         <li><a href="#s4-science" data-section="s4-science">Science</a></li>
         <li><a href="#s6" data-section="s6">Features</a></li>
-        <li><a href="/contact.html">Contact</a></li>
-        <li><a href="/about.html">About</a></li>
-        <li><a href="/blog.html">Blog</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/blog">Blog</a></li>
       </ul>
     </div>
     <div>
@@ -10251,7 +10252,7 @@
       </div>
     </div>
   </div>
-  <div class="eg-footer-bottom">&copy; 2026 DeepKids. All rights reserved. <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="https://deepkids.in" style="color:#aa59c8;text-decoration:none;">deepkids.in</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/privacy-policy.html" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Privacy Policy</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/refund-policy.html" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Refund Policy</a></div>
+  <div class="eg-footer-bottom">&copy; 2026 DeepKids. All rights reserved. <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="https://deepkids.in" style="color:#aa59c8;text-decoration:none;">deepkids.in</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/privacy-policy" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Privacy Policy</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/refund-policy" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Refund Policy</a></div>
 </footer>
 
 <!-- ═══════════════════ FLOATING PAPER ROCKET ══════════════ -->
