@@ -3493,7 +3493,7 @@
     letter-spacing: 1px;
     text-shadow: 0 0 14px rgba(var(--purple-rgb),0.35);
   }
-  .eg-footer h4 {
+  .eg-footer h3 {
     font-family: var(--font-head);
     font-size: clamp(14px, 1.4vw, 18px);
     color: rgba(255,255,255,0.85);
