@@ -19,6 +19,11 @@
         return localStorage.getItem('eg-notrack') === '1';
       } catch(e) { return false; }
     })();
+    /* Guarded tracking helpers — gtag/fbq may be absent (notrack,
+       adblock, or the loader hasn't run), so every call site funnels
+       through these instead of repeating the typeof check. */
+    window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
+    window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
   </script>
   <!-- Google Analytics (GA4) + Google Ads global site tag -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
@@ -1502,13 +1507,11 @@
       /* spawnRain() is the replayable part — called on load and on replay */
       function spawnRain() {
         rainPlayCount++;
-        if (typeof gtag === 'function') {
-          gtag('event', 'rain_play', {
-            event_category: 'engagement',
-            event_label: rainPlayCount === 1 ? 'initial' : 'replay',
-            value: rainPlayCount
-          });
-        }
+        egGtag('event', 'rain_play', {
+          event_category: 'engagement',
+          event_label: rainPlayCount === 1 ? 'initial' : 'replay',
+          value: rainPlayCount
+        });
 
         /* Cancel any still-pending release timers */
         rainTimers.forEach(id => clearTimeout(id));
@@ -1716,7 +1719,7 @@
           // (Users who fired this event ÷ total Users on the hero).
           if (!window._heroInteracted) {
             window._heroInteracted = true;
-            if (typeof gtag === 'function') gtag('event', 'hero_interact', { event_category: 'engagement' });
+            egGtag('event', 'hero_interact', { event_category: 'engagement' });
           }
           // Mild hum while dragging — gentle low tone
           if (swooshCtx && swooshBuffer) {
@@ -1758,13 +1761,11 @@
           // Swoosh on release
           playSwoosh();
           // Count every pick-up-and-drop as a "flip", per card key
-          if (typeof gtag === 'function') {
-            var draggedEntry = physEntries.find(function(en) { return en.body === e.body; });
-            gtag('event', 'card_flip', {
-              event_category: 'engagement',
-              event_label: draggedEntry ? draggedEntry.key : 'unknown'
-            });
-          }
+          var draggedEntry = physEntries.find(function(en) { return en.body === e.body; });
+          egGtag('event', 'card_flip', {
+            event_category: 'engagement',
+            event_label: draggedEntry ? draggedEntry.key : 'unknown'
+          });
         });
 
         Runner.run(Runner.create(), engine);
@@ -2138,13 +2139,13 @@
         modal._formStartArmed = true;
         modal.addEventListener('input', function onFirstInput() {
           modal.removeEventListener('input', onFirstInput);
-          if (typeof gtag === 'function') gtag('event', 'preorder_form_started', { event_category: 'funnel' });
-          if (typeof fbq === 'function') fbq('trackCustom', 'PreOrderFormStarted');
+          egGtag('event', 'preorder_form_started', { event_category: 'funnel' });
+          egFbq('trackCustom', 'PreOrderFormStarted');
         });
       }
       // Event: user opened pre-order modal
-      if (typeof gtag === 'function') gtag('event', 'open_preorder', { event_category: 'engagement' });
-      if (typeof fbq === 'function') fbq('track', 'InitiateCheckout');
+      egGtag('event', 'open_preorder', { event_category: 'engagement' });
+      egFbq('track', 'InitiateCheckout');
     }
     function closePreOrderModal() {
       var modal = document.getElementById('preorder-modal');
@@ -2154,8 +2155,8 @@
       var name = (document.getElementById('po-name') || {}).value || '';
       var phone = (document.getElementById('po-phone') || {}).value || '';
       var cc = (document.getElementById('po-cc') || {}).value || '+91';
-      if (typeof gtag === 'function') gtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: (name.trim() || phone.trim()) ? 'with_details' : 'empty' });
-      if (typeof fbq === 'function') fbq('trackCustom', 'PreOrderAbandoned', { had_details: !!(name.trim() || phone.trim()) });
+      egGtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: (name.trim() || phone.trim()) ? 'with_details' : 'empty' });
+      egFbq('trackCustom', 'PreOrderAbandoned', { had_details: !!(name.trim() || phone.trim()) });
       if (!leadEmailSent && (name.trim() || phone.trim())) {
         var digits = phone.replace(/\D/g, '');
         var fullNumber = digits ? (cc.startsWith('+') ? cc : '+' + cc) + digits : '';
@@ -2217,8 +2218,8 @@
     function openPlayTest() {
       var modal = document.getElementById('playtest-modal');
       if (modal) modal.classList.add('show');
-      if (typeof gtag === 'function') gtag('event', 'open_playtest', { event_category: 'engagement' });
-      if (typeof fbq === 'function') fbq('track', 'Lead', { content_name: 'playtest_modal' });
+      egGtag('event', 'open_playtest', { event_category: 'engagement' });
+      egFbq('track', 'Lead', { content_name: 'playtest_modal' });
     }
     function closePlayTest() {
       var modal = document.getElementById('playtest-modal');
@@ -2265,12 +2266,10 @@
         })
       }).catch(function(){});
 
-      if (typeof gtag === 'function') {
-        gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
-        gtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
-        gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
-      }
-      if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+      egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
+      egGtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
+      egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+      egFbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
 
       var submitBtn = form.querySelector('.po-submit');
       if (submitBtn) { submitBtn.disabled = true; submitBtn.querySelector('.btn-label').textContent = 'Loading...'; }
@@ -2337,12 +2336,10 @@
                 localStorage.setItem('eg-preorders', JSON.stringify(preorders));
               } catch(ex) {}
               leadEmailSent = true;
-              if (typeof gtag === 'function') {
-                gtag('event', 'preorder_paid', { event_category: 'conversion' });
-                gtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
-                gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
-              }
-              if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+              egGtag('event', 'preorder_paid', { event_category: 'conversion' });
+              egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
+              egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+              egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
               var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
               // Wait for the email/sheet write to actually finish before navigating
               // away — navigating too early can abort the requests mid-flight.
@@ -2363,8 +2360,8 @@
         },
         modal: {
           ondismiss: function() {
-            if (typeof gtag === 'function') gtag('event', 'payment_cancelled', { event_category: 'funnel' });
-            if (typeof fbq === 'function') fbq('trackCustom', 'PaymentCancelled');
+            egGtag('event', 'payment_cancelled', { event_category: 'funnel' });
+            egFbq('trackCustom', 'PaymentCancelled');
             if (leadEmailSent) return;
             leadEmailSent = true;
             sendLeadData(name, fullNumber, fullAddress, 'Payment Cancelled', '');
@@ -2377,8 +2374,8 @@
       };
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
-        if (typeof gtag === 'function') gtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });
-        if (typeof fbq === 'function') fbq('trackCustom', 'PaymentFailed');
+        egGtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });
+        egFbq('trackCustom', 'PaymentFailed');
         leadEmailSent = true;
         sendLeadData(name, fullNumber, fullAddress, 'Payment Failed', '');
         sendWhatsAppMessage('order_started_new', fullNumber, [name], '?phone=' + fullNumber.replace(/^\+/, ''));
@@ -2425,8 +2422,8 @@
       }).then(function(r) { return r.json(); }).then(function() {
         var gpMsg2 = gp2 > 0 ? ' Your ' + gp2 + ' Gravity Points (₹' + gp2 + ' discount) are saved!' : '';
         msg.textContent = '✓ Awesome! We\'ll WhatsApp you to schedule a play test.' + gpMsg2;
-        if (typeof gtag === 'function') gtag('event', 'playtest_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
-        if (typeof fbq === 'function') fbq('track', 'CompleteRegistration', { content_name: 'playtest' });
+        egGtag('event', 'playtest_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
+        egFbq('track', 'CompleteRegistration', { content_name: 'playtest' });
         msg.className = 'po-msg success';
         form.reset();
         setTimeout(closePlayTest, 2800);
@@ -7124,7 +7121,7 @@
   window.s2Roll = function() {
     if (state === 2 && !busy) {
       doRoll();
-      if (typeof gtag === 'function') gtag('event', 'howtoplay_dice_roll', { event_category: 'engagement' });
+      egGtag('event', 'howtoplay_dice_roll', { event_category: 'engagement' });
     }
   };
   window.jumpToState0 = jumpToState0;
@@ -7450,8 +7447,8 @@
       if (tab.classList.contains('locked')) return;
       var target = tab.dataset.panel;
       // Track How To Play tab interaction for retargeting
-      if (typeof gtag === 'function') gtag('event', 'howtoplay_step', { event_category: 'engagement', step: target });
-      if (typeof fbq === 'function') fbq('trackCustom', 'HowToPlayInteraction', { step: target });
+      egGtag('event', 'howtoplay_step', { event_category: 'engagement', step: target });
+      egFbq('trackCustom', 'HowToPlayInteraction', { step: target });
       // ALWAYS clean Step 3 leftovers AND any pending boardgame
       // (doRoll / auto-zoom) timers before switching tabs so
       // nothing can bleed into the next tab.
@@ -9384,7 +9381,7 @@
       } else {
         var gameScore = Math.floor(dist / 10);
         overlayText.textContent = 'You fell! Score: ' + gameScore + ' — Tap to retry';
-        if (typeof gtag === 'function') gtag('event', 'minigame_complete', { event_category: 'engagement', score: gameScore, force_cards: inventory.length });
+        egGtag('event', 'minigame_complete', { event_category: 'engagement', score: gameScore, force_cards: inventory.length });
         overlay.classList.remove('hidden');
       }
     }
@@ -9817,7 +9814,7 @@
     counter.textContent = 'Complete!';
     sfxDone();
     var pct = Math.round(score / QUESTIONS.length * 100);
-    if (typeof gtag === 'function') gtag('event', 'quiz_complete', { event_category: 'engagement', score: score, total: QUESTIONS.length, percentage: pct });
+    egGtag('event', 'quiz_complete', { event_category: 'engagement', score: score, total: QUESTIONS.length, percentage: pct });
     var msg = pct === 100 ? 'Perfect! Gravity has nothing on you.'
             : pct >= 75  ? 'Brilliant! You clearly know your forces.'
             : pct >= 50  ? 'Solid! The board game will level you up further.'
@@ -10412,8 +10409,8 @@
     entries.forEach(function(e) {
       if (e.isIntersecting && !trackedSections[e.target.id]) {
         trackedSections[e.target.id] = true;
-        if (typeof gtag === 'function') gtag('event', 'section_view', { event_category: 'scroll_depth', section: e.target.id });
-        if (typeof fbq === 'function') fbq('trackCustom', 'SectionView', { section: e.target.id });
+        egGtag('event', 'section_view', { event_category: 'scroll_depth', section: e.target.id });
+        egFbq('trackCustom', 'SectionView', { section: e.target.id });
       }
     });
   }, { threshold: 0.2 });
