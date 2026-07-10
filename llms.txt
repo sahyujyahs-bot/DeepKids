@@ -1,20 +1,26 @@
 # DeepKids — EscapeGravity
 
-> EscapeGravity is an educational science board game for kids ages 7+, made by DeepKids. Players race a board piece toward the International Space Station while fighting "Gravity" using Force Cards earned by completing real, physical, hands-on challenges — learning concepts like gravity, forces, and air resistance by doing them, not just reading about them. 2–6 players, ~30 minute average playtime.
+> EscapeGravity is an educational science board game for kids ages 7+, made by DeepKids in India. Players race a board piece toward the International Space Station while fighting "Gravity" using Force Cards earned by completing real, physical, hands-on challenges — learning concepts like gravity, forces, and air resistance by doing them, not just reading about them. 2–6 players, about 30 minutes per game.
 
-## Product
-- Ages: 7+
-- Players: 2–6
-- Average playtime: 30 minutes
-- Core mechanic: physical challenge cards unlock force cards used to counter "gravity" on a spiral board, racing toward the ISS.
-- Category: educational board game, STEM toy, science learning game for kids, family board game (India).
+EscapeGravity is available for pre-order in India. The box includes a spiral game board, 13 Force Cards, 35+ Physical Challenge Cards, player tokens, and science tiles. Category: educational board game, STEM toy, science learning game for kids, family board game.
 
 ## Pages
-- Homepage: https://deepkids.in/ — full product overview, how to play, FAQ, pre-order.
-- Blog: https://deepkids.in/best-science-board-games-for-kids-india.html
-- Blog: https://deepkids.in/stem-toys-vs-board-games-for-kids.html
-- Blog: https://deepkids.in/how-to-teach-kids-physics-at-home.html
-- About: https://deepkids.in/about.html
 
-## Contact
-For press, partnership, or product questions, use the contact details listed on https://deepkids.in/.
+- [Homepage](https://deepkids.in/): Full product overview, what's inside the box, FAQ, and pre-order.
+- [How To Play](https://deepkids.in/how-to-play.html): Interactive walkthrough of a game turn plus video guides.
+- [About](https://deepkids.in/about.html): The story and mission behind DeepKids.
+- [Contact](https://deepkids.in/contact.html): Press, partnership, and product questions.
+- [Blog](https://deepkids.in/blog.html): Articles on science play and learning at home.
+
+## Guides
+
+- [Best science board games for kids in India](https://deepkids.in/best-science-board-games-for-kids-india.html): Buyer's guide to science board games.
+- [STEM toys vs board games for kids](https://deepkids.in/stem-toys-vs-board-games-for-kids.html): How structured games compare with open-ended STEM toys.
+- [How to teach kids physics at home](https://deepkids.in/how-to-teach-kids-physics-at-home.html): Hands-on physics activities for parents.
+- [Gravity experiments for kids at home](https://deepkids.in/gravity-experiments-for-kids-at-home.html): Simple gravity experiments using household items.
+- [Educational games for kids in India](https://deepkids.in/educational-games-for-kids-india.html): Overview of educational game options for Indian families.
+
+## Optional
+
+- [Privacy policy](https://deepkids.in/privacy-policy.html): How visitor data is handled.
+- [Refund policy](https://deepkids.in/refund-policy.html): Pre-order refund and cancellation terms.

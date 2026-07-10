@@ -2,3 +2,46 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
+
+# Images change rarely and are safe to cache for a month; when one is
+# replaced it keeps the same URL, so avoid immutable/1-year here.
+/*.webp
+  Cache-Control: public, max-age=2592000
+/*.png
+  Cache-Control: public, max-age=2592000
+/*.jpg
+  Cache-Control: public, max-age=2592000
+/*.jpeg
+  Cache-Control: public, max-age=2592000
+/*.svg
+  Cache-Control: public, max-age=2592000
+
+# Audio/video assets
+/*.mp3
+  Cache-Control: public, max-age=2592000
+/*.mp4
+  Cache-Control: public, max-age=2592000
+
+# Fonts never change
+/*.ttf
+  Cache-Control: public, max-age=31536000, immutable
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+# Vendored libraries are versioned via ?v= query and never edited in
+# place, so they can cache long-term.
+/vendor/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# JS/CSS bundles are cache-busted via ?v= query params in the HTML,
+# but keep a shorter window so un-versioned edits still roll out.
+/assets/*
+  Cache-Control: public, max-age=604800
+/cards.js
+  Cache-Control: public, max-age=604800
+
+# HTML must always revalidate so deploys show up immediately.
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+/
+  Cache-Control: public, max-age=0, must-revalidate

@@ -23,7 +23,6 @@
   <meta property="og:site_name" content="DeepKids"/>
   <meta name="theme-color" content="#0a0618"/>
   <!-- Preload fonts to avoid FOUT -->
-  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin/>
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
   <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
   <link rel="preload" href="fonts/futura-book-oblique.otf" as="font" type="font/opentype" crossorigin/>
@@ -169,7 +168,7 @@
 </nav>
 <!-- Mobile dropdown menu — kept OUTSIDE <nav> so it escapes the nav's
      backdrop-filter stacking context and layers above the page content. -->
-<div class="eg-nav-menu" id="eg-nav-menu">
+<div class="eg-nav-menu" id="eg-nav-menu" role="navigation" aria-label="Site menu">
   <a href="index.html">Home</a>
   <a href="index.html#s2">The Game</a>
   <a href="index.html#s4-science">Science</a>
@@ -196,10 +195,11 @@
 </script>
 
 <!-- ═══════════════════════════════════════════════ HOW TO PLAY ══ -->
+<main style="display:contents">
 <section id="s3">
   <!-- Row 1: Title -->
   <div id="s2-title-row">
-    <h2 class="page-h2">How To Play</h2>
+    <h1 class="page-h2">How To Play</h1>
     <p class="page-subh">An Example Interactive Experience</p>
     <div class="s2-tabs">
       <button class="s2-tab active" data-panel="physical">Step 1: Earning Force Card</button>
@@ -266,7 +266,7 @@
       <div id="s2-comic-bubble">
         <div class="s2-bubble-box">
           If you have an<br>
-          <span class="s2-bubble-highlight"><img class="s2-bubble-icon" src="IMG_4700.png" alt="Earth"> Earth Force Card</span><br>
+          <span class="s2-bubble-highlight"><img class="s2-bubble-icon" src="IMG_4700.webp" alt="Earth"> Earth Force Card</span><br>
           you can play it…<br>
           or you <span class="s2-bubble-highlight">fall down!</span><br>
           <a class="s2-bubble-link" id="s2-bubble-fc-link">Earn a Force Card</a>
@@ -372,6 +372,7 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════ FOOTER ══ -->
+</main>
 <footer class="eg-footer" id="eg-footer">
   <div class="eg-footer-grid">
     <div>
@@ -380,7 +381,7 @@
       <div class="eg-footer-by">A <strong>DeepKids</strong> creation &mdash; games that turn learning into play.</div>
     </div>
     <div>
-      <h4>Quick Links</h4>
+      <h3>Quick Links</h3>
       <ul class="eg-footer-links">
         <li><a href="index.html#s1">Home</a></li>
         <li><a href="index.html#s2">The Game</a></li>
@@ -392,7 +393,7 @@
       </ul>
     </div>
     <div>
-      <h4>Follow Us</h4>
+      <h3>Follow Us</h3>
       <div class="eg-footer-socials">
         <a href="https://www.instagram.com/deepkids.club" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="17.5" cy="6.5" r="1.2"/></svg></a>
         <a href="https://www.facebook.com/people/DeepKids/61584787613315/" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24"><path d="M13.5 22v-8h2.7l.4-3.1h-3.1V8.9c0-.9.25-1.5 1.55-1.5H16.7V4.6c-.3-.04-1.34-.13-2.56-.13-2.53 0-4.27 1.55-4.27 4.39v2.45H7.15V14.4h2.72V22z" fill="currentColor"/></svg></a>
