@@ -209,24 +209,22 @@
   <!-- Only preload above-the-fold critical resources. Too many
        preloads saturate the browser's ~6 connections and delay
        fonts. Below-fold images load naturally on scroll. -->
-  <link rel="preload" as="image" href="Card2Side2.png"/>
-  <link rel="preload" as="image" href="Card4Side1.png"/>
-  <link rel="preload" as="image" href="Card5Side1.png"/>
-  <link rel="preload" as="image" href="board-prototype.webp"/>
-  <link rel="preload" as="image" href="kit-items.webp"/>
+  <link rel="preload" as="image" href="Card2Side2.webp"/>
+  <link rel="preload" as="image" href="Card4Side1.webp"/>
+  <link rel="preload" as="image" href="Card5Side1.webp"/>
   <!-- Remaining hero rain-card images: low priority so they don't
        compete with the above-the-fold preloads, but still start
        fetching during head parse instead of waiting for the inline
        scene script (which runs after the blocking matter.min.js). -->
-  <link rel="preload" as="image" href="Card4Side2.png" fetchpriority="low"/>
-  <link rel="preload" as="image" href="Card5Side2.png" fetchpriority="low"/>
-  <link rel="preload" as="image" href="Card7Side2.png" fetchpriority="low"/>
-  <link rel="preload" as="image" href="Card8Side1.png" fetchpriority="low"/>
-  <link rel="preload" as="image" href="Card9Side1.png" fetchpriority="low"/>
-  <link rel="preload" as="image" href="DeepKids_Logo_Idea.webp" fetchpriority="low"/>
-  <link rel="preload" as="image" href="apple-tree.webp" fetchpriority="low"/>
-  <link rel="preload" as="image" href="das-box-3d.webp" fetchpriority="low"/>
-  <link rel="preload" as="script" href="cards.js?v=6" fetchpriority="high"/>
+  <link rel="preload" as="image" href="Card4Side2.webp"/>
+  <link rel="preload" as="image" href="Card5Side2.webp"/>
+  <link rel="preload" as="image" href="Card7Side2.webp"/>
+  <link rel="preload" as="image" href="Card8Side1.webp"/>
+  <link rel="preload" as="image" href="Card9Side1.webp"/>
+  <link rel="preload" as="image" href="DeepKids_Logo_Idea.webp"/>
+  <link rel="preload" as="image" href="apple-tree.webp"/>
+  <link rel="preload" as="image" href="das-box-3d.webp"/>
+  <link rel="preload" as="script" href="cards.js?v=7" fetchpriority="high"/>
   <!-- Preload matter.js (self-hosted) so the fetch races with the inline
        HTML parse — the executing <script> tag lives right before the
        canvas scene below (its first point of use) instead of here in
@@ -1205,7 +1203,7 @@
 
   <div id="drag-hint"><span class="dh-star">✦</span>&nbsp;&nbsp;grab &amp; toss the illustrations&nbsp;&nbsp;<span class="dh-star r">✦</span></div>
 
-  <script src="cards.js?v=6"></script>
+  <script src="cards.js?v=7"></script>
   <script src="vendor/matter.min.js?v=0.19.0"></script>
   <script>
 
@@ -6501,11 +6499,16 @@
   const tokRed  = document.getElementById('s2-tok-red');
 
   /* ── How To Play sound effects (file-based) ──────────────── */
-  var sndCardScroll  = new Audio('cardsscrollsound.mp3');  sndCardScroll.preload = 'auto';
-  var sndCardFlip    = new Audio('cardflip sound.mp3');     sndCardFlip.preload = 'auto';
-  var sndDiceRoll    = new Audio('dice roll sound2.mp3');    sndDiceRoll.preload = 'auto';
-  var sndTokenMove11 = new Audio('token move to tile 11.mp3'); sndTokenMove11.preload = 'auto';
-  var sndTokenDrop   = new Audio('token drops to tiles 7,3,2.mp3'); sndTokenDrop.preload = 'auto';
+  // Constructed WITHOUT preloading: this demo section is far below the
+  // fold, so its ~200KB of audio must not compete with the hero on
+  // page load. Downloads start when the visitor scrolls within reach
+  // (see the s2 asset warm-up observer below).
+  function lazyAudio(src) { var a = new Audio(); a.preload = 'none'; a.src = src; return a; }
+  var sndCardScroll  = lazyAudio('cardsscrollsound.mp3');
+  var sndCardFlip    = lazyAudio('cardflip sound.mp3');
+  var sndDiceRoll    = lazyAudio('dice roll sound2.mp3');
+  var sndTokenMove11 = lazyAudio('token move to tile 11.mp3');
+  var sndTokenDrop   = lazyAudio('token drops to tiles 7,3,2.mp3');
   [sndCardScroll, sndCardFlip, sndDiceRoll, sndTokenMove11, sndTokenDrop].forEach(function(s) {
     if (window._registerAudio) window._registerAudio(s);
   });
@@ -6515,7 +6518,7 @@
   function stopSound(snd) {
     try { snd.pause(); snd.currentTime = 0; } catch(e){}
   }
-  var sndBallBounce  = new Audio('ball bounce.mp3');         sndBallBounce.preload = 'auto';
+  var sndBallBounce  = lazyAudio('ball bounce.mp3');
   if (window._registerAudio) window._registerAudio(sndBallBounce);
   // Expose sounds so the physical-challenges IIFE (pickCard,
   // initCardFan) and the Learning Full Circle section can use them.
@@ -6544,9 +6547,30 @@
     return W >= 1024 ? 3.0 : W >= 768 ? 2.1 : W >= 480 ? 1.9 : 1.8;
   }
 
-  /* ── Load full board image ──────────────────────────────── */
+  /* ── Load full board image ──────────────────────────────────
+     The 300KB+ board is only fetched when the demo section comes
+     within ~2400px of the viewport, together with the demo audio —
+     keeps the initial load lean for the hero. */
   const boardImg = new Image();
-  boardImg.src = 's2-board-full.webp';
+  (function() {
+    var warmed = false;
+    function warm() {
+      if (warmed) return; warmed = true;
+      boardImg.src = 's2-board-full.webp';
+      [sndCardScroll, sndCardFlip, sndDiceRoll, sndTokenMove11, sndTokenDrop, sndBallBounce].forEach(function(a) {
+        try { a.preload = 'auto'; a.load(); } catch(e) {}
+      });
+      try { if (typeof spinSound !== 'undefined') { spinSound.preload = 'auto'; spinSound.load(); } } catch(e) {}
+    }
+    if ('IntersectionObserver' in window && s2El) {
+      var io = new IntersectionObserver(function(entries) {
+        for (var i = 0; i < entries.length; i++) if (entries[i].isIntersecting) { warm(); io.disconnect(); return; }
+      }, { rootMargin: '2400px 0px' });
+      io.observe(s2El);
+    } else {
+      setTimeout(warm, 4000);
+    }
+  })();
 
   /* ── Canvas sizing ──────────────────────────────────────── */
   const canvasDPR = Math.min(window.devicePixelRatio || 1, 2);
@@ -6729,8 +6753,9 @@
 
   /* ── Start zoom animation ───────────────────────────────── */
   /* ── Spin sound for the spiral turn + zoom in Step 2 ────── */
-  var spinSound = new Audio('spin sound.mp3');
-  spinSound.preload = 'auto';
+  var spinSound = new Audio(); // fetched with the rest of the demo assets, not at page load
+  spinSound.preload = 'none';
+  spinSound.src = 'spin sound.mp3';
   if (window._registerAudio) window._registerAudio(spinSound);
   function playSpinSound() {
     try {
