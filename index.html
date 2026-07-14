@@ -2134,13 +2134,29 @@
       if (modal) modal.classList.add('show');
       leadEmailSent = false;
       loadRazorpay().catch(function(){}); // warm up checkout.js while the user fills the form
-      // Funnel: fires once per modal-open when the user starts typing
+      // Funnel: preorder_form_started fires on the first keystroke,
+      // preorder_form_filled fires once name + phone both have real
+      // values (a lead-quality signal worth marking as a key event —
+      // it captures fill-then-close and fill-then-abandon cases too,
+      // since it fires the moment the fields are complete).
       if (modal && !modal._formStartArmed) {
         modal._formStartArmed = true;
-        modal.addEventListener('input', function onFirstInput() {
-          modal.removeEventListener('input', onFirstInput);
-          egGtag('event', 'preorder_form_started', { event_category: 'funnel' });
-          egFbq('trackCustom', 'PreOrderFormStarted');
+        var formStarted = false, formFilled = false;
+        modal.addEventListener('input', function() {
+          if (!formStarted) {
+            formStarted = true;
+            egGtag('event', 'preorder_form_started', { event_category: 'funnel' });
+            egFbq('trackCustom', 'PreOrderFormStarted');
+          }
+          if (!formFilled) {
+            var n = (document.getElementById('po-name') || {}).value || '';
+            var p = (document.getElementById('po-phone') || {}).value || '';
+            if (n.trim().length >= 2 && p.replace(/\D/g, '').length >= 10) {
+              formFilled = true;
+              egGtag('event', 'preorder_form_filled', { event_category: 'funnel' });
+              egFbq('trackCustom', 'PreOrderFormFilled');
+            }
+          }
         });
       }
       // Event: user opened pre-order modal
