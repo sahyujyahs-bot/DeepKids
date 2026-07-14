@@ -24,6 +24,22 @@
        through these instead of repeating the typeof check. */
     window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
     window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+    /* Field RUM: reports how long the hero took to come alive on REAL
+       visitors' devices. The bucket is baked into the event name so it
+       is visible in GA4's Events report with zero extra setup, and the
+       ratio hero_ready_* / page_view shows how many visitors never saw
+       the hero at all. Fired once, from the rain spawn code. */
+    window.egPerfHeroReady = function() {
+      if (window._egPerfSent) return;
+      window._egPerfSent = true;
+      try {
+        var ms = Math.round(performance.now());
+        var bucket = ms < 3000 ? 'under_3s' : ms < 8000 ? '3_8s' :
+                     ms < 15000 ? '8_15s' : ms < 30000 ? '15_30s' : 'over_30s';
+        var conn = (navigator.connection && navigator.connection.effectiveType) || 'unknown';
+        egGtag('event', 'hero_ready_' + bucket, { event_category: 'perf', event_label: conn, value: ms });
+      } catch(e) {}
+    };
   </script>
   <!-- Google Analytics (GA4) + Google Ads global site tag -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
@@ -1459,7 +1475,7 @@
       // whatever's loaded so far rather than blocking the hero forever;
       // any genuinely late stragglers still use the old late-drop path.
       let heroSpawnTimer = setTimeout(() => {
-        if (!window._heroSpawned) { window._heroSpawned = true; spawnAll(); }
+        if (!window._heroSpawned) { window._heroSpawned = true; spawnAll(); egPerfHeroReady(); }
       }, 1800);
       ALL_KEYS.forEach(k => {
         if (!CARDS[k]) { loadedCount++; return; } // stale cached cards.js without this key
@@ -1473,6 +1489,7 @@
             clearTimeout(heroSpawnTimer);
             window._heroSpawned = true;
             spawnAll();
+            egPerfHeroReady();
           } else if (window._heroSpawned && RAIN_KEYS.indexOf(k) !== -1) {
             // Late arrival (only reachable via the timeout fallback above):
             // add this card to the already-running scene.
