@@ -2161,7 +2161,7 @@
       }
       // Event: user opened pre-order modal
       egGtag('event', 'open_preorder', { event_category: 'engagement' });
-      egFbq('track', 'InitiateCheckout');
+      egFbq('track', 'AddToCart', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
     }
     function closePreOrderModal() {
       var modal = document.getElementById('preorder-modal');
@@ -2285,7 +2285,7 @@
       egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
       egGtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
       egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
-      egFbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+      egFbq('track', 'InitiateCheckout', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
 
       var submitBtn = form.querySelector('.po-submit');
       if (submitBtn) { submitBtn.disabled = true; submitBtn.querySelector('.btn-label').textContent = 'Loading...'; }
@@ -2388,6 +2388,7 @@
           }
         }
       };
+      egFbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
         egGtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });
