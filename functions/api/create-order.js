@@ -1,3 +1,5 @@
+import { sendMetaEvent } from './_meta.js';
+
 // Cloudflare Pages Function — POST /api/create-order
 // Creates a Razorpay order server-side. The KEY_SECRET never leaves this
 // function — it's read from Cloudflare's encrypted environment variables
@@ -43,6 +45,15 @@ export async function onRequestPost(context) {
     }
 
     const order = await res.json();
+    // Server-side InitiateCheckout for Meta CAPI — deduped against the
+    // browser pixel via the shared capi_event_id. Runs after the
+    // response is sent; cannot delay or break the order flow.
+    context.waitUntil(sendMetaEvent(context, {
+      name: 'InitiateCheckout',
+      id: body.capi_event_id,
+      phone: body.phone,
+      value: amount / 100
+    }));
     return json({ order_id: order.id, amount: order.amount, currency: order.currency });
   } catch (err) {
     return json({ error: 'Unexpected server error', details: String(err) }, 500);

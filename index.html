@@ -2300,7 +2300,10 @@
       egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
       egGtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
       egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
-      egFbq('track', 'InitiateCheckout', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+      // Shared event id lets Meta dedupe this browser event against the
+      // server-side CAPI copy sent by /api/create-order.
+      var icEventId = 'ic_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
+      egFbq('track', 'InitiateCheckout', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: icEventId });
 
       var submitBtn = form.querySelector('.po-submit');
       if (submitBtn) { submitBtn.disabled = true; submitBtn.querySelector('.btn-label').textContent = 'Loading...'; }
@@ -2311,7 +2314,7 @@
         fetch('/api/create-order', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ amount: 249900, receipt: 'EG-' + Date.now() })
+          body: JSON.stringify({ amount: 249900, receipt: 'EG-' + Date.now(), capi_event_id: icEventId, phone: fullNumber })
         }).then(function(r) { return r.json(); }),
         loadRazorpay()
       ])
@@ -2349,7 +2352,8 @@
             body: JSON.stringify({
               razorpay_order_id: response.razorpay_order_id,
               razorpay_payment_id: response.razorpay_payment_id,
-              razorpay_signature: response.razorpay_signature
+              razorpay_signature: response.razorpay_signature,
+              phone: fullNumber
             })
           })
             .then(function(r) { return r.json(); })
@@ -2370,7 +2374,7 @@
               egGtag('event', 'preorder_paid', { event_category: 'conversion' });
               egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
               egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
-              egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+              egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
               var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
               // Wait for the email/sheet write to actually finish before navigating
               // away — navigating too early can abort the requests mid-flight.

@@ -1,3 +1,5 @@
+import { sendMetaEvent } from './_meta.js';
+
 // Cloudflare Pages Function — POST /api/verify-payment
 // Verifies the Razorpay payment signature server-side using the KEY_SECRET,
 // which never reaches the browser. Only marks a payment as valid if the
@@ -25,6 +27,14 @@ export async function onRequestPost(context) {
       return json({ verified: false, error: 'Signature mismatch' }, 400);
     }
 
+    // Server-side Purchase for Meta CAPI — the authoritative conversion,
+    // deduped against the browser pixel via event_id = payment id.
+    context.waitUntil(sendMetaEvent(context, {
+      name: 'Purchase',
+      id: razorpay_payment_id,
+      phone: body.phone,
+      value: 2499
+    }));
     return json({ verified: true });
   } catch (err) {
     return json({ error: 'Unexpected server error', details: String(err) }, 500);
