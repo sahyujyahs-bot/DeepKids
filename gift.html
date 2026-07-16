@@ -79,160 +79,425 @@
       --purple: #aa59c8;
       --purple-rgb: 170,89,200;
       --lilac: #cd9edf;
+      --plum: #6b2155;
       --gold: #ffb300;
+      --gold-rgb: 255,179,0;
       --bg: #0a0618;
       --bg2: #120826;
+      --ink: rgba(255,255,255,.85);
+      --ink-dim: rgba(255,255,255,.62);
+      --font-head: 'Norwester', sans-serif;
+      --font-body: 'Futura', 'Segoe UI', sans-serif;
     }
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
     html { scroll-behavior: smooth; }
     body {
-      background: var(--bg2);
-      background-image:
-        radial-gradient(2px 2px at 12% 18%, rgba(255,255,255,.8), transparent),
-        radial-gradient(2px 2px at 38% 6%,  rgba(255,255,255,.85), transparent),
-        radial-gradient(1.8px 1.8px at 72% 24%, rgba(255,255,255,.75), transparent),
-        radial-gradient(2px 2px at 88% 60%, rgba(255,255,255,.8), transparent),
-        radial-gradient(1.6px 1.6px at 22% 74%, rgba(255,255,255,.7), transparent),
-        radial-gradient(2.2px 2.2px at 56% 88%, rgba(255,255,255,.8), transparent);
+      background:
+        radial-gradient(1200px 600px at 50% -100px, rgba(var(--purple-rgb), .16), transparent 65%),
+        linear-gradient(180deg, var(--bg) 0%, var(--bg2) 40%, var(--bg) 100%);
       color: #fff;
-      font-family: 'Futura', 'Segoe UI', sans-serif;
-      line-height: 1.6;
+      font-family: var(--font-body);
+      line-height: 1.65;
+      overflow-x: hidden;
     }
-    h1, h2, h3 { font-family: 'Norwester', sans-serif; font-weight: normal; font-variant: small-caps; line-height: 1.08; }
+    /* Star field — two layers, the front one twinkles */
+    .stars, .stars::after {
+      content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    }
+    .stars {
+      background-image:
+        radial-gradient(1.6px 1.6px at 11% 16%, rgba(255,255,255,.7), transparent),
+        radial-gradient(1.4px 1.4px at 34% 7%,  rgba(255,255,255,.6), transparent),
+        radial-gradient(1.8px 1.8px at 63% 21%, rgba(255,255,255,.65), transparent),
+        radial-gradient(1.4px 1.4px at 85% 12%, rgba(255,255,255,.55), transparent),
+        radial-gradient(1.6px 1.6px at 21% 55%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.4px 1.4px at 76% 48%, rgba(255,255,255,.55), transparent),
+        radial-gradient(1.8px 1.8px at 47% 76%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.4px 1.4px at 90% 82%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.6px 1.6px at 8% 88%,  rgba(255,255,255,.45), transparent);
+    }
+    .stars::after {
+      background-image:
+        radial-gradient(2.2px 2.2px at 27% 30%, rgba(255,255,255,.9), transparent),
+        radial-gradient(2px 2px at 71% 9%,  rgba(255,255,255,.85), transparent),
+        radial-gradient(2.4px 2.4px at 55% 44%, rgba(255,255,255,.8), transparent),
+        radial-gradient(2px 2px at 14% 71%, rgba(255,255,255,.8), transparent),
+        radial-gradient(2.2px 2.2px at 88% 64%, rgba(255,255,255,.85), transparent);
+      animation: twinkle 4.5s ease-in-out infinite;
+    }
+    @keyframes twinkle { 0%,100% { opacity: .95; } 50% { opacity: .35; } }
+
+    main, nav, footer { position: relative; z-index: 1; }
+    h1, h2, h3 { font-family: var(--font-head); font-weight: normal; font-variant: small-caps; line-height: 1.06; }
     img { max-width: 100%; height: auto; display: block; }
     a { color: var(--lilac); }
+    .wrap { max-width: 1060px; margin: 0 auto; padding: 0 clamp(20px, 5vw, 44px); }
 
-    .wrap { max-width: 1040px; margin: 0 auto; padding: 0 clamp(18px, 5vw, 40px); }
+    /* ═══ DK BUTTON (site's custom button, baked-in SVG) ═══ */
+    .btn-wrap {
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+      text-decoration: none;
+      animation: btn-bob 3.5s ease-in-out infinite;
+      filter: drop-shadow(0 0 14px rgba(var(--purple-rgb),0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+      transition: filter .3s ease, transform .3s ease;
+      margin-left: clamp(10px, 4vw, 42px); /* center the D-shape (not the K fins) under text */
+    }
+    .btn-wrap:hover {
+      filter: drop-shadow(0 0 22px rgba(var(--purple-rgb),0.6)) drop-shadow(0 6px 18px rgba(0,0,0,0.5)) brightness(1.12);
+      transform: translateX(5px) scale(1.07);
+      animation: none;
+    }
+    .btn-wrap:active { transform: translateX(2px) scale(.97); animation: none; }
+    @keyframes btn-bob {
+      0%, 100% { transform: scale(1)    translateY(0); }
+      50%       { transform: scale(1.03) translateY(-4px); }
+    }
+    .btn-svg { display: block; width: clamp(200px, 28vw, 340px); height: auto; overflow: visible; }
+    .btn-label {
+      position: absolute; top: 50%; left: 38%;
+      transform: translate(-50%, -50%);
+      font-family: var(--font-head);
+      font-weight: normal; font-variant: small-caps;
+      font-size: clamp(15px, 2.2vw, 26px);
+      letter-spacing: clamp(1px, .5vw, 5px);
+      color: #fff;
+      text-shadow: 1px 1px 3px rgba(0,0,0,.7);
+      pointer-events: none;
+      white-space: nowrap;
+      text-align: center;
+    }
+    .dk-sm .btn-svg { width: clamp(132px, 13vw, 176px); }
+    .dk-sm .btn-label { font-size: clamp(12px, 1.4vw, 16px); letter-spacing: 1.5px; }
+    .dk-sm { animation: none; margin-left: 0; }
+    .dk-nav { filter: drop-shadow(0 0 10px rgba(var(--purple-rgb),0.35)); }
 
-    /* ── Mini nav ── */
+    /* ═══ Mini nav ═══ */
     .nav {
       position: sticky; top: 0; z-index: 50;
       display: flex; align-items: center; justify-content: space-between;
-      padding: 12px clamp(18px, 5vw, 40px);
-      background: rgba(10,6,24,.85);
-      backdrop-filter: blur(8px);
-      border-bottom: 1px solid rgba(var(--purple-rgb), .25);
+      padding: 10px clamp(18px, 5vw, 40px);
+      background: rgba(10,6,24,.82);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(var(--purple-rgb), .22);
     }
-    .nav-logo { font-family: 'Norwester', sans-serif; font-variant: small-caps; font-size: 20px; color: #fff; text-decoration: none; letter-spacing: .5px; }
+    .nav-logo { font-family: var(--font-head); font-variant: small-caps; font-size: clamp(17px, 2.4vw, 21px); color: #fff; text-decoration: none; letter-spacing: .5px; }
     .nav-logo b { color: var(--purple); font-weight: normal; }
 
-    /* ── CTA button ── */
-    .cta {
-      display: inline-block;
-      font-family: 'Norwester', sans-serif; font-variant: small-caps; letter-spacing: 1.5px;
-      font-size: clamp(15px, 2vw, 18px);
-      color: #fff; text-decoration: none; text-align: center;
-      background: linear-gradient(180deg, #c46be0, #8a3aa8);
-      border: 1px solid rgba(255,255,255,.35);
-      border-radius: 999px;
-      padding: 13px clamp(22px, 4vw, 38px);
-      box-shadow: 0 0 22px rgba(var(--purple-rgb), .45), inset 0 1px 0 rgba(255,255,255,.35);
-      transition: transform .15s ease, box-shadow .15s ease;
-    }
-    .cta:hover { transform: translateY(-2px); box-shadow: 0 4px 30px rgba(var(--purple-rgb), .65), inset 0 1px 0 rgba(255,255,255,.35); }
-    .cta-sm { font-size: 14px; padding: 9px 20px; }
-
-    /* ── Hero ── */
-    .hero { padding: clamp(34px, 7vh, 70px) 0 clamp(30px, 6vh, 60px); text-align: center; }
+    /* ═══ Hero ═══ */
+    .hero { padding: clamp(40px, 8vh, 84px) 0 clamp(36px, 7vh, 72px); text-align: center; position: relative; }
     .hero-kicker {
-      display: inline-block; font-size: clamp(12px, 1.5vw, 14px); letter-spacing: 3px; text-transform: uppercase;
-      color: var(--gold); border: 1px solid rgba(255,179,0,.4); border-radius: 999px; padding: 5px 16px; margin-bottom: 18px;
-      background: rgba(255,179,0,.07);
+      display: inline-flex; align-items: center; gap: 8px;
+      font-size: clamp(11.5px, 1.4vw, 13.5px); letter-spacing: 3.5px; text-transform: uppercase;
+      color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .4); border-radius: 999px;
+      padding: 6px 18px; margin-bottom: 22px;
+      background: linear-gradient(180deg, rgba(var(--gold-rgb), .12), rgba(var(--gold-rgb), .03));
+      box-shadow: 0 0 18px rgba(var(--gold-rgb), .12) inset;
     }
     .hero h1 {
-      font-size: clamp(34px, 7.2vw, 64px);
-      text-shadow: 0 0 30px rgba(var(--purple-rgb), .5), 2px 2px 0 rgba(0,0,0,.85);
-      margin-bottom: 14px;
+      font-size: clamp(37px, 7.4vw, 68px);
+      text-shadow: 0 0 34px rgba(var(--purple-rgb), .55), 2px 2px 0 rgba(0,0,0,.85);
+      margin-bottom: 16px;
     }
-    .hero h1 em { font-style: normal; color: var(--lilac); }
-    .hero-sub { font-size: clamp(15px, 2.2vw, 19px); color: rgba(255,255,255,.85); max-width: 620px; margin: 0 auto 8px; }
-    .hero-img { width: min(420px, 78vw); margin: 22px auto 6px; filter: drop-shadow(0 18px 40px rgba(0,0,0,.6)); }
-    .price-row { display: flex; align-items: baseline; justify-content: center; gap: 14px; margin: 10px 0 4px; flex-wrap: wrap; }
-    .price-now { font-family: 'Norwester', sans-serif; font-size: clamp(30px, 5vw, 44px); color: #fff; }
-    .price-was { font-size: clamp(16px, 2.4vw, 22px); color: rgba(255,255,255,.5); text-decoration: line-through; }
-    .price-off { font-size: clamp(13px, 1.8vw, 16px); color: var(--gold); border: 1px solid rgba(255,179,0,.45); border-radius: 6px; padding: 2px 10px; background: rgba(255,179,0,.08); }
-    .hero .cta { margin: 16px 0 14px; }
-    .chips { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
-    .chip { font-size: 12.5px; letter-spacing: 1.5px; text-transform: uppercase; color: rgba(255,255,255,.75);
-      border: 1px solid rgba(255,255,255,.22); border-radius: 999px; padding: 5px 14px; }
+    .hero h1 em {
+      font-style: normal;
+      background: linear-gradient(180deg, #e9c6f7, var(--lilac) 55%, var(--purple));
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent; color: var(--lilac);
+    }
+    .hero-sub { font-size: clamp(15px, 2.1vw, 19px); color: var(--ink); max-width: 600px; margin: 0 auto; }
 
-    /* ── Sections ── */
-    section { padding: clamp(36px, 7vh, 72px) 0; }
-    .sec-h { text-align: center; font-size: clamp(26px, 4.6vw, 42px); margin-bottom: clamp(24px, 4vh, 40px);
-      text-shadow: 0 0 24px rgba(var(--purple-rgb), .45); }
+    /* Box on a glowing pedestal, floating */
+    .stage { position: relative; width: min(460px, 84vw); margin: 30px auto 8px; }
+    .stage::before {
+      content: ''; position: absolute; left: 50%; bottom: 4%;
+      width: 78%; height: 15%;
+      transform: translateX(-50%);
+      background: radial-gradient(ellipse at center, rgba(var(--purple-rgb), .5), rgba(var(--purple-rgb), .12) 55%, transparent 72%);
+      filter: blur(6px);
+      animation: pedestal 6s ease-in-out infinite;
+    }
+    .stage img {
+      position: relative;
+      filter: drop-shadow(0 26px 44px rgba(0,0,0,.65));
+      animation: float-box 6s ease-in-out infinite;
+    }
+    @keyframes float-box { 0%,100% { transform: translateY(0) rotate(-.4deg); } 50% { transform: translateY(-13px) rotate(.5deg); } }
+    @keyframes pedestal  { 0%,100% { opacity: 1; width: 78%; } 50% { opacity: .65; width: 70%; } }
+
+    /* Floating decorative cards (echo of the homepage rain) */
+    .float-deco { position: absolute; pointer-events: none; opacity: .8; }
+    .float-deco.apple { width: clamp(44px, 7vw, 70px); left: clamp(4px, 8vw, 130px); top: 34%; animation: drift 7s ease-in-out infinite; }
+    .float-deco.tree  { width: clamp(58px, 9vw, 96px); right: clamp(2px, 7vw, 120px); top: 56%; animation: drift 8s ease-in-out 1.2s infinite; }
+    @keyframes drift { 0%,100% { transform: translateY(0) rotate(-6deg); } 50% { transform: translateY(-16px) rotate(5deg); } }
+
+    /* Gift-tag price lockup */
+    .gift-tag {
+      position: relative;
+      display: inline-block;
+      margin: 8px auto 6px;
+      padding: 14px 26px 15px 40px;
+      background: linear-gradient(160deg, rgba(var(--purple-rgb), .22), rgba(255,255,255,.04));
+      border: 1px solid rgba(var(--purple-rgb), .55);
+      border-radius: 10px 16px 16px 10px;
+      transform: rotate(-2deg);
+      box-shadow: 0 10px 26px rgba(0,0,0,.4), 0 0 22px rgba(var(--purple-rgb), .18);
+    }
+    .gift-tag::before { /* punched hole */
+      content: ''; position: absolute; left: 14px; top: 50%;
+      width: 11px; height: 11px; transform: translateY(-50%);
+      border-radius: 50%; background: var(--bg);
+      border: 2px solid rgba(255,255,255,.45);
+    }
+    .gift-tag::after { /* string */
+      content: ''; position: absolute; left: -26px; top: 38%;
+      width: 34px; height: 22px;
+      border: 1.6px solid rgba(255,255,255,.35);
+      border-right: none; border-bottom: none;
+      border-radius: 100% 0 0 0;
+      transform: rotate(-14deg);
+    }
+    .gift-tag .row { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; justify-content: center; }
+    .price-now { font-family: var(--font-head); font-size: clamp(30px, 4.6vw, 42px); line-height: 1; color: #fff; }
+    .price-was { font-size: clamp(15px, 2.2vw, 20px); color: rgba(255,255,255,.45); text-decoration: line-through; }
+    .price-off {
+      font-size: clamp(11px, 1.5vw, 13px); letter-spacing: 1.6px; color: #1c0f00;
+      background: linear-gradient(180deg, #ffd257, var(--gold));
+      border-radius: 6px; padding: 3px 10px; font-weight: 600;
+      box-shadow: 0 2px 8px rgba(var(--gold-rgb), .35);
+    }
+    .hero .btn-wrap { margin-top: 20px; }
+    .chips { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 22px; }
+    .chip {
+      font-size: 12px; letter-spacing: 1.8px; text-transform: uppercase; color: var(--ink-dim);
+      border: 1px solid rgba(255,255,255,.18); border-radius: 999px; padding: 6px 15px;
+      background: rgba(255,255,255,.03);
+    }
+
+    /* ═══ Sections ═══ */
+    section { padding: clamp(44px, 8vh, 84px) 0; }
+    .sec-kicker {
+      display: block; text-align: center;
+      font-size: clamp(11px, 1.3vw, 12.5px); letter-spacing: 4px; text-transform: uppercase;
+      color: var(--gold); margin-bottom: 10px;
+    }
+    .sec-h {
+      text-align: center; font-size: clamp(27px, 4.8vw, 44px);
+      margin-bottom: clamp(28px, 5vh, 48px);
+      text-shadow: 0 0 26px rgba(var(--purple-rgb), .45);
+    }
     .sec-h em { font-style: normal; color: var(--lilac); }
 
     /* Why-gift cards */
-    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(235px, 1fr)); gap: 18px; }
     .card {
-      background: linear-gradient(180deg, rgba(var(--purple-rgb), .12), rgba(255,255,255,.03));
-      border: 1px solid rgba(var(--purple-rgb), .3);
-      border-radius: 16px; padding: 24px 20px;
+      position: relative;
+      background: linear-gradient(170deg, rgba(var(--purple-rgb), .13), rgba(255,255,255,.025) 60%);
+      border: 1px solid rgba(var(--purple-rgb), .32);
+      border-radius: 18px; padding: 28px 22px 24px;
+      transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
     }
-    .card .ico { font-size: 30px; margin-bottom: 10px; }
-    .card h3 { font-size: 19px; letter-spacing: .5px; margin-bottom: 8px; color: var(--lilac); }
-    .card p { font-size: 14.5px; color: rgba(255,255,255,.8); }
+    .card:hover {
+      transform: translateY(-5px);
+      border-color: rgba(var(--purple-rgb), .65);
+      box-shadow: 0 14px 34px rgba(0,0,0,.45), 0 0 24px rgba(var(--purple-rgb), .2);
+    }
+    .card .ico {
+      width: 52px; height: 52px; display: grid; place-items: center;
+      font-size: 26px; margin-bottom: 14px;
+      background: radial-gradient(circle at 35% 30%, rgba(var(--purple-rgb), .4), rgba(var(--purple-rgb), .12));
+      border: 1px solid rgba(var(--purple-rgb), .4);
+      border-radius: 14px;
+    }
+    .card h3 { font-size: 19px; letter-spacing: .6px; margin-bottom: 9px; color: #fff; }
+    .card p { font-size: 14.5px; color: var(--ink-dim); }
 
     /* Occasions */
-    .occ { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
+    .occ { display: flex; justify-content: center; gap: 13px; flex-wrap: wrap; max-width: 720px; margin: 0 auto; }
     .occ span {
-      font-size: 14px; color: #fff; letter-spacing: 1px;
-      border: 1px solid rgba(var(--purple-rgb), .5); background: rgba(var(--purple-rgb), .14);
-      border-radius: 999px; padding: 9px 20px;
+      font-size: 14px; color: #fff; letter-spacing: .8px;
+      border: 1px solid rgba(var(--purple-rgb), .5);
+      background: linear-gradient(180deg, rgba(var(--purple-rgb), .2), rgba(var(--purple-rgb), .06));
+      border-radius: 999px; padding: 10px 22px;
+      transition: transform .2s ease;
     }
+    .occ span:nth-child(odd)  { transform: rotate(-1.2deg); }
+    .occ span:nth-child(even) { transform: rotate(1.2deg); }
+    .occ span:hover { transform: rotate(0) scale(1.06); }
 
     /* Split rows */
-    .split { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(20px, 4vw, 48px); align-items: center; }
-    @media (max-width: 760px) { .split { grid-template-columns: 1fr; } }
-    .split img { border-radius: 16px; box-shadow: 0 16px 40px rgba(0,0,0,.5); }
-    .split h2 { font-size: clamp(24px, 4vw, 36px); margin-bottom: 14px; text-shadow: 0 0 24px rgba(var(--purple-rgb), .45); }
+    .split { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(26px, 5vw, 56px); align-items: center; }
+    @media (max-width: 760px) { .split { grid-template-columns: 1fr; } .split.rev > .media { order: -1; } }
+    .media { position: relative; }
+    .media::before {
+      content: ''; position: absolute; inset: 12% -6% -6% 10%;
+      background: radial-gradient(ellipse at center, rgba(var(--purple-rgb), .22), transparent 70%);
+      filter: blur(10px);
+    }
+    .media img {
+      position: relative;
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,.12);
+      box-shadow: 0 22px 48px rgba(0,0,0,.55);
+      transform: rotate(-1.3deg);
+      transition: transform .3s ease;
+    }
+    .split.rev .media img { transform: rotate(1.3deg); }
+    .media:hover img { transform: rotate(0) scale(1.015); }
+    .split h2 { font-size: clamp(25px, 4.2vw, 38px); margin-bottom: 16px; text-shadow: 0 0 24px rgba(var(--purple-rgb), .45); }
+    .split h2 em { font-style: normal; color: var(--lilac); }
+    .split p.lead { color: var(--ink); font-size: 15.5px; margin-bottom: 14px; }
     .split ul { list-style: none; }
-    .split li { padding: 7px 0 7px 30px; position: relative; font-size: 15.5px; color: rgba(255,255,255,.85); }
-    .split li::before { content: '✦'; position: absolute; left: 4px; color: var(--gold); }
+    .split li { padding: 8px 0 8px 32px; position: relative; font-size: 15.5px; color: var(--ink); }
+    .split li::before { content: '✦'; position: absolute; left: 4px; color: var(--gold); text-shadow: 0 0 8px rgba(var(--gold-rgb), .5); }
+    .split li b { color: #fff; font-weight: 600; }
 
     /* Quote */
-    .quote { text-align: center; max-width: 640px; margin: 0 auto; }
-    .quote p { font-size: clamp(17px, 2.6vw, 22px); font-style: oblique; color: rgba(255,255,255,.9); }
-    .quote .who { margin-top: 10px; font-size: 13.5px; letter-spacing: 2px; text-transform: uppercase; color: var(--lilac); font-style: normal; }
+    .quote {
+      margin-top: 18px; padding: 18px 22px;
+      border-left: 3px solid var(--purple);
+      background: linear-gradient(90deg, rgba(var(--purple-rgb), .12), transparent 80%);
+      border-radius: 0 14px 14px 0;
+    }
+    .quote p { font-size: clamp(16px, 2.3vw, 19px); font-style: oblique; color: rgba(255,255,255,.92); }
+    .quote .who { margin-top: 6px; font-size: 12px; letter-spacing: 2.5px; text-transform: uppercase; color: var(--lilac); font-style: normal; }
 
     /* Reassurance strip */
-    .assure { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; }
-    .assure div { text-align: center; border: 1px dashed rgba(255,255,255,.22); border-radius: 12px; padding: 18px 14px; }
-    .assure b { display: block; font-family: 'Norwester', sans-serif; font-variant: small-caps; font-weight: normal;
-      letter-spacing: 1px; color: #fff; margin-bottom: 5px; font-size: 16px; }
-    .assure span { font-size: 13.5px; color: rgba(255,255,255,.7); }
+    .assure { display: grid; grid-template-columns: repeat(auto-fit, minmax(215px, 1fr)); gap: 16px; }
+    .assure > div {
+      text-align: left; display: flex; gap: 14px; align-items: flex-start;
+      background: rgba(255,255,255,.028);
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 14px; padding: 18px 18px;
+    }
+    .assure .a-ico { font-size: 22px; line-height: 1.3; }
+    .assure b {
+      display: block; font-family: var(--font-head); font-variant: small-caps; font-weight: normal;
+      letter-spacing: 1px; color: #fff; margin-bottom: 3px; font-size: 16.5px;
+    }
+    .assure span { font-size: 13.5px; color: var(--ink-dim); }
 
     /* Final band */
-    .band { text-align: center; background: linear-gradient(180deg, rgba(var(--purple-rgb), .18), rgba(var(--purple-rgb), .05));
-      border-top: 1px solid rgba(var(--purple-rgb), .3); border-bottom: 1px solid rgba(var(--purple-rgb), .3); }
-    .band h2 { font-size: clamp(26px, 5vw, 44px); margin-bottom: 10px; text-shadow: 0 0 26px rgba(var(--purple-rgb), .5); }
-    .band p { color: rgba(255,255,255,.8); margin-bottom: 18px; }
+    .band {
+      text-align: center; position: relative; overflow: hidden;
+      background:
+        radial-gradient(700px 340px at 50% 115%, rgba(var(--purple-rgb), .34), transparent 70%),
+        linear-gradient(180deg, rgba(var(--purple-rgb), .1), rgba(var(--purple-rgb), .03));
+      border-top: 1px solid rgba(var(--purple-rgb), .3);
+      border-bottom: 1px solid rgba(var(--purple-rgb), .3);
+    }
+    .band h2 { font-size: clamp(28px, 5.4vw, 48px); margin-bottom: 12px; text-shadow: 0 0 28px rgba(var(--purple-rgb), .55); }
+    .band h2 em { font-style: normal; color: var(--lilac); }
+    .band p { color: var(--ink); margin-bottom: 6px; font-size: clamp(14px, 2vw, 16.5px); letter-spacing: .6px; }
 
-    footer { text-align: center; padding: 28px 16px 40px; font-size: 13px; color: rgba(255,255,255,.55); }
-    footer a { margin: 0 8px; }
+    footer { text-align: center; padding: 30px 16px 46px; font-size: 13px; color: rgba(255,255,255,.5); }
+    footer a { margin: 0 8px; color: rgba(255,255,255,.65); }
+
+    /* Sticky mobile CTA bar */
+    .mob-bar {
+      position: fixed; left: 0; right: 0; bottom: 0; z-index: 60;
+      display: none; align-items: center; justify-content: space-between; gap: 10px;
+      padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+      background: rgba(10,6,24,.92);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-top: 1px solid rgba(var(--purple-rgb), .35);
+      transform: translateY(105%);
+      transition: transform .35s ease;
+    }
+    .mob-bar.show { transform: translateY(0); }
+    .mob-bar .p { line-height: 1.25; }
+    .mob-bar .p .now { font-family: var(--font-head); font-size: 21px; }
+    .mob-bar .p .was { font-size: 12px; color: rgba(255,255,255,.5); text-decoration: line-through; margin-left: 7px; }
+    .mob-bar .p .off { display: block; font-size: 10.5px; letter-spacing: 1.4px; color: var(--gold); }
+    @media (max-width: 760px) { .mob-bar { display: flex; } }
+
+    /* Scroll reveal */
+    .rv { opacity: 0; transform: translateY(22px); transition: opacity .7s ease, transform .7s ease; }
+    .rv.in { opacity: 1; transform: none; }
+    .rv2 { transition-delay: .12s; } .rv3 { transition-delay: .24s; } .rv4 { transition-delay: .36s; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .stars::after, .stage img, .stage::before, .float-deco, .btn-wrap { animation: none !important; }
+      .rv { opacity: 1; transform: none; transition: none; }
+      html { scroll-behavior: auto; }
+    }
   </style>
 </head>
 <body>
+<div class="stars" aria-hidden="true"></div>
 
 <nav class="nav">
   <a class="nav-logo" href="/">EscapeGravity <b>by DeepKids</b></a>
-  <a class="cta cta-sm gift-cta" href="/#preorder">Gift It Now</a>
+  <a class="btn-wrap dk-sm dk-nav gift-cta" href="/#preorder" aria-label="Gift it now — open pre-order">
+    <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="dkg-nav" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
+        </linearGradient>
+        <linearGradient id="dkh-nav" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+        </linearGradient>
+      </defs>
+      <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-nav)"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+      <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-nav)"/>
+      <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <span class="btn-label">Gift It</span>
+  </a>
 </nav>
 
 <main>
   <!-- ═══ HERO ═══ -->
   <section class="hero wrap">
-    <span class="hero-kicker">🎁 The Gift Upgrade</span>
-    <h1>Stop Gifting Toys<br/>They Forget In <em>A Week</em></h1>
-    <p class="hero-sub">EscapeGravity is the science board game kids beg to replay — physical challenges, real physics, and the whole family at the table.</p>
-    <img class="hero-img" src="gift-box-hero.webp" alt="EscapeGravity board game box — a premium gift for kids 7+" width="900" height="900" fetchpriority="high"/>
-    <div class="price-row">
-      <span class="price-now">₹2,499</span>
-      <span class="price-was">₹4,999</span>
-      <span class="price-off">50% OFF — PRE-ORDER</span>
+    <span class="hero-kicker rv">🎁&nbsp; The Gift Upgrade</span>
+    <h1 class="rv">Stop Gifting Toys<br/>They Forget In <em>A Week</em></h1>
+    <p class="hero-sub rv rv2">EscapeGravity is the science board game kids beg to replay — physical challenges, real physics, and the whole family at the table.</p>
+
+    <div class="stage rv rv2">
+      <img src="gift-box-hero.webp" alt="EscapeGravity board game box — a premium gift for kids 7+" width="900" height="900" fetchpriority="high"/>
     </div>
-    <a class="cta gift-cta" href="/#preorder">Gift EscapeGravity →</a>
-    <div class="chips">
+    <img class="float-deco apple" src="apple-fall.webp" alt="" aria-hidden="true" width="120" height="120" loading="lazy"/>
+    <img class="float-deco tree" src="apple-tree.webp" alt="" aria-hidden="true" width="200" height="200" loading="lazy"/>
+
+    <div class="gift-tag rv rv3">
+      <div class="row">
+        <span class="price-now">₹2,499</span>
+        <span class="price-was">₹4,999</span>
+        <span class="price-off">50% OFF · PRE-ORDER</span>
+      </div>
+    </div>
+
+    <div class="rv rv3">
+      <a class="btn-wrap gift-cta" href="/#preorder" aria-label="Gift EscapeGravity — open pre-order">
+        <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="dkg-hero" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
+            </linearGradient>
+            <linearGradient id="dkh-hero" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+            </linearGradient>
+          </defs>
+          <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-hero)"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+          <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-hero)"/>
+          <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+          <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+          <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <span class="btn-label">Gift It Now</span>
+      </a>
+    </div>
+
+    <div class="chips rv rv4">
       <span class="chip">Ages 7+</span>
       <span class="chip">2–6 Players</span>
       <span class="chip">30 Min Games</span>
@@ -242,22 +507,24 @@
 
   <!-- ═══ WHY IT LANDS ═══ -->
   <section class="wrap">
-    <h2 class="sec-h">Why This Gift <em>Lands</em></h2>
+    <span class="sec-kicker rv">The four reasons</span>
+    <h2 class="sec-h rv">Why This Gift <em>Lands</em></h2>
     <div class="cards">
-      <div class="card"><div class="ico">🏃</div><h3>They Play With Their Body</h3><p>35+ physical challenges — balancing, tossing, blowing, jumping. It's the gift that gets kids off screens without a fight.</p></div>
-      <div class="card"><div class="ico">🧠</div><h3>They Learn Real Physics</h3><p>13 forces, from air resistance to escape velocity — experienced hands-on, not memorised. Parents notice. Teachers notice.</p></div>
-      <div class="card"><div class="ico">👨‍👩‍👧‍👦</div><h3>The Whole Family Plays</h3><p>2–6 players, ages 7 to grandparents. A gift for one child that ends up being family time for everyone.</p></div>
-      <div class="card"><div class="ico">📦</div><h3>It Unwraps Like a Big Deal</h3><p>A premium, heavy box full of boards, cards, tokens and science tiles. This is the present the birthday crowd remembers.</p></div>
+      <div class="card rv"><div class="ico">🏃</div><h3>They Play With Their Body</h3><p>35+ physical challenges — balancing, tossing, blowing, jumping. It's the gift that gets kids off screens without a fight.</p></div>
+      <div class="card rv rv2"><div class="ico">🧠</div><h3>They Learn Real Physics</h3><p>13 forces, from air resistance to escape velocity — experienced hands-on, not memorised. Parents notice. Teachers notice.</p></div>
+      <div class="card rv rv3"><div class="ico">👨‍👩‍👧‍👦</div><h3>The Whole Family Plays</h3><p>2–6 players, ages 7 to grandparents. A gift for one child that turns into family time for everyone.</p></div>
+      <div class="card rv rv4"><div class="ico">📦</div><h3>It Unwraps Like a Big Deal</h3><p>A premium, heavy box full of boards, cards, tokens and science tiles. This is the present the birthday crowd remembers.</p></div>
     </div>
   </section>
 
   <!-- ═══ OCCASIONS ═══ -->
   <section class="wrap" style="padding-top:0;">
-    <h2 class="sec-h" style="font-size:clamp(20px,3.4vw,28px);">Perfect For</h2>
-    <div class="occ">
+    <span class="sec-kicker rv">Any excuse works</span>
+    <h2 class="sec-h rv" style="font-size:clamp(22px,3.6vw,30px);">Perfect For</h2>
+    <div class="occ rv rv2">
       <span>🎂 Birthdays</span>
       <span>🪔 Festival Gifting</span>
-      <span>🎉 Return Gifts (the legendary kind)</span>
+      <span>🎉 Return Gifts — the legendary kind</span>
       <span>👵 Grandparent Points</span>
       <span>✨ Just Because</span>
     </div>
@@ -266,15 +533,17 @@
   <!-- ═══ WHAT'S INSIDE ═══ -->
   <section class="wrap">
     <div class="split">
-      <img src="kit-items.webp" alt="Everything inside the EscapeGravity box — board, cards, tokens and science tiles" loading="lazy" width="800" height="800"/>
-      <div>
-        <h2>Inside The Box</h2>
+      <div class="media rv">
+        <img src="kit-items.webp" alt="Everything inside the EscapeGravity box — board, cards, tokens and science tiles" loading="lazy" width="800" height="800"/>
+      </div>
+      <div class="rv rv2">
+        <h2>Inside <em>The Box</em></h2>
         <ul>
-          <li>The spiral game board — race from Earth's surface to the ISS</li>
-          <li>13 Force Cards — the physics powers players earn</li>
-          <li>35+ Physical Challenge Cards — the running-around part</li>
-          <li>Player tokens &amp; science tiles — every tile carries real science</li>
-          <li>Rules that take 5 minutes to learn, ages 7+</li>
+          <li><b>The spiral game board</b> — race from Earth's surface to the ISS</li>
+          <li><b>13 Force Cards</b> — the physics powers players earn</li>
+          <li><b>35+ Physical Challenge Cards</b> — the running-around part</li>
+          <li><b>Tokens &amp; science tiles</b> — every tile carries real science</li>
+          <li><b>5-minute rules</b> — learn fast, play for years, ages 7+</li>
         </ul>
       </div>
     </div>
@@ -282,39 +551,60 @@
 
   <!-- ═══ PROOF ═══ -->
   <section class="wrap">
-    <div class="split">
-      <div>
-        <h2>Playtested With Real Families</h2>
-        <p style="color:rgba(255,255,255,.85);font-size:15.5px;margin-bottom:14px;">
-          EscapeGravity has been through months of play sessions with real kids —
-          refined every time a seven-year-old found a loophole or invented a better rule.
-        </p>
-        <div class="quote" style="text-align:left;">
+    <div class="split rev">
+      <div class="rv">
+        <h2>Playtested With <em>Real Families</em></h2>
+        <p class="lead">EscapeGravity has been through months of play sessions with real kids — refined every time a seven-year-old found a loophole or invented a better rule.</p>
+        <div class="quote">
           <p>“My turn! My turn!” — the sound of every playtest we've run.</p>
           <span class="who">— The DeepKids play sessions</span>
         </div>
       </div>
-      <img src="s2-kids-holding.webp" alt="Kids holding up items for an EscapeGravity physical challenge" loading="lazy" width="1000" height="1000"/>
+      <div class="media rv rv2">
+        <img src="s2-kids-holding.webp" alt="Kids holding up items for an EscapeGravity physical challenge" loading="lazy" width="1000" height="1000"/>
+      </div>
     </div>
   </section>
 
   <!-- ═══ GIFT LOGISTICS ═══ -->
   <section class="wrap">
-    <h2 class="sec-h" style="font-size:clamp(20px,3.4vw,28px);">The Fine Print, Upfront</h2>
+    <span class="sec-kicker rv">No surprises</span>
+    <h2 class="sec-h rv" style="font-size:clamp(22px,3.6vw,30px);">The Fine Print, Upfront</h2>
     <div class="assure">
-      <div><b>Pre-Order Pricing</b><span>₹2,499 now vs ₹4,999 at retail. Price locks when you order.</span></div>
-      <div><b>Ships When Production Completes</b><span>Gifting for a date far out? Perfect. Need it tomorrow? We'd rather tell you honestly.</span></div>
-      <div><b>Secure Payment</b><span>Cards, UPI, netbanking via Razorpay. Details never stored on our servers.</span></div>
-      <div><b>Fair Refunds</b><span>Change of plans? See our <a href="/refund-policy">refund policy</a> — no fine-print games.</span></div>
+      <div class="rv"><span class="a-ico">🏷️</span><div><b>Pre-Order Pricing</b><span>₹2,499 now vs ₹4,999 at retail. Your price locks when you order.</span></div></div>
+      <div class="rv rv2"><span class="a-ico">🚚</span><div><b>Ships When Production Completes</b><span>Gifting for a date far out? Perfect. Need it tomorrow? We'd rather tell you honestly.</span></div></div>
+      <div class="rv rv3"><span class="a-ico">🔒</span><div><b>Secure Payment</b><span>Cards, UPI, netbanking via Razorpay. Details never stored on our servers.</span></div></div>
+      <div class="rv rv4"><span class="a-ico">↩️</span><div><b>Fair Refunds</b><span>Change of plans? See our <a href="/refund-policy">refund policy</a> — no fine-print games.</span></div></div>
     </div>
   </section>
 
   <!-- ═══ FINAL CTA ═══ -->
   <section class="band">
     <div class="wrap">
-      <h2>Be The Reason They Love Science</h2>
-      <p>₹2,499 · 50% off pre-order · Ages 7+ · Made in India</p>
-      <a class="cta gift-cta" href="/#preorder">Gift EscapeGravity →</a>
+      <h2 class="rv">Be The Reason They <em>Love Science</em></h2>
+      <p class="rv rv2">₹2,499 · 50% off pre-order · Ages 7+ · Made in India</p>
+      <div class="rv rv3" style="margin-top:14px;">
+        <a class="btn-wrap gift-cta" href="/#preorder" aria-label="Gift EscapeGravity — open pre-order">
+          <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="dkg-band" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
+              </linearGradient>
+              <linearGradient id="dkh-band" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+              </linearGradient>
+            </defs>
+            <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-band)"/>
+            <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+            <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+            <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-band)"/>
+            <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+            <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+            <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <span class="btn-label">Gift It Now</span>
+        </a>
+      </div>
     </div>
   </section>
 </main>
@@ -324,16 +614,64 @@
   <div style="margin-top:8px;">© DeepKids · deepkids.in</div>
 </footer>
 
+<!-- Sticky mobile CTA bar — appears after the hero scrolls away -->
+<div class="mob-bar" id="mob-bar" aria-hidden="true">
+  <div class="p">
+    <span class="now">₹2,499</span><span class="was">₹4,999</span>
+    <span class="off">50% OFF · PRE-ORDER</span>
+  </div>
+  <a class="btn-wrap dk-sm gift-cta" href="/#preorder" aria-label="Gift it — open pre-order">
+    <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="dkg-bar" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
+        </linearGradient>
+        <linearGradient id="dkh-bar" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+        </linearGradient>
+      </defs>
+      <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-bar)"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+      <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-bar)"/>
+      <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <span class="btn-label">Gift It</span>
+  </a>
+</div>
+
 <script>
-  // Funnel: count gift-page CTA clicks before handing off to the
-  // pre-order modal on the homepage (/#preorder auto-opens it).
   (function(){
+    // CTA funnel events (fired before the /#preorder hand-off)
     var ctas = document.querySelectorAll('.gift-cta');
     for (var i = 0; i < ctas.length; i++) {
       ctas[i].addEventListener('click', function(){
         egGtag('event', 'gift_cta_click', { event_category: 'funnel' });
         egFbq('trackCustom', 'GiftCTAClick');
       });
+    }
+
+    // Scroll reveals
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function(es){
+        es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+      }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+      document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
+    } else {
+      document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
+    }
+
+    // Sticky mobile CTA bar after the hero scrolls away
+    var bar = document.getElementById('mob-bar');
+    var hero = document.querySelector('.hero');
+    if (bar && hero && 'IntersectionObserver' in window) {
+      new IntersectionObserver(function(es){
+        var out = !es[0].isIntersecting;
+        bar.classList.toggle('show', out);
+        bar.setAttribute('aria-hidden', out ? 'false' : 'true');
+      }, { threshold: 0.05 }).observe(hero);
     }
   })();
 </script>
