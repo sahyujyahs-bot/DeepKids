@@ -1,0 +1,48 @@
+# Utility: fetch remote asset files (e.g. generated art on a CDN the
+# development sandbox cannot reach) and commit them to the branch.
+# Trigger manually via workflow_dispatch with up to two URL/filename pairs.
+name: Fetch asset
+on:
+  workflow_dispatch:
+    inputs:
+      url1:
+        description: 'First asset URL'
+        required: true
+        type: string
+      name1:
+        description: 'Filename to save the first asset as (repo root)'
+        required: true
+        type: string
+      url2:
+        description: 'Second asset URL (optional)'
+        required: false
+        type: string
+        default: ''
+      name2:
+        description: 'Filename for the second asset (optional)'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download assets
+        run: |
+          curl -fSL --max-filesize 26214400 -o "${{ inputs.name1 }}" "${{ inputs.url1 }}"
+          if [ -n "${{ inputs.url2 }}" ] && [ -n "${{ inputs.name2 }}" ]; then
+            curl -fSL --max-filesize 26214400 -o "${{ inputs.name2 }}" "${{ inputs.url2 }}"
+          fi
+          ls -la "${{ inputs.name1 }}" ${{ inputs.name2 && format('"{0}"', inputs.name2) || '' }}
+      - name: Commit
+        run: |
+          git config user.name "asset-fetch-bot"
+          git config user.email "noreply@deepkids.in"
+          git add -A
+          git commit -m "Fetch remote assets via workflow"
+          git push
