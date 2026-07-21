@@ -198,7 +198,7 @@
       {
         "@type": "Question",
         "name": "How much does EscapeGravity cost?",
-        "acceptedAnswer": { "@type": "Answer", "text": "EscapeGravity is available for pre-order at ₹2,499 — 50% off the retail price of ₹4,999. Pre-orders ship once production is complete." }
+        "acceptedAnswer": { "@type": "Answer", "text": "EscapeGravity is available for pre-order at ₹2,499 — 50% off the retail price of ₹4,999. Delivered to your door within 3 days of ordering." }
       },
       {
         "@type": "Question",
@@ -2262,10 +2262,6 @@
       var cc      = form.querySelector('#po-cc').value.trim();
       var phone   = form.querySelector('#po-phone').value.trim();
       var name    = form.querySelector('#po-name').value.trim();
-      var address = form.querySelector('#po-address').value.trim();
-      var city    = form.querySelector('#po-city').value.trim();
-      var pincode = form.querySelector('#po-pincode').value.trim();
-      var state   = form.querySelector('#po-state').value.trim();
       var msg     = document.getElementById('po-msg');
       msg.textContent = '';
       msg.className = 'po-msg';
@@ -2279,13 +2275,15 @@
         msg.textContent = 'Please enter a valid phone number.';
         msg.classList.add('err'); return false;
       }
-      if (!name || !address || !city || !pincode || !state) {
-        msg.textContent = 'Please fill in all fields.';
+      if (!name) {
+        msg.textContent = 'Please enter your name.';
         msg.classList.add('err'); return false;
       }
 
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
-      var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
+      // Address is collected on WhatsApp after payment (fewer fields
+      // before the pay step converts far better; buyers are told so).
+      var fullAddress = '';
 
       currentOrder = { name: name, phone: fullNumber, address: fullAddress };
       fetch('/api/save-draft', {
@@ -2293,7 +2291,7 @@
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           phone: fullNumber, cc: cc, rawPhone: digits, name: name,
-          address: address, city: city, pincode: pincode, state: state
+          address: '', city: '', pincode: '', state: ''
         })
       }).catch(function(){});
 
@@ -2509,24 +2507,7 @@
           <input type="tel" id="po-phone" placeholder="98765 43210" required maxlength="20" inputmode="tel">
         </div>
       </label>
-      <label class="po-field">
-        <span>Delivery Address</span>
-        <input type="text" id="po-address" placeholder="Flat / House No., Street, Area" required maxlength="120">
-      </label>
-      <div class="po-city-row">
-        <label class="po-field">
-          <span>City</span>
-          <input type="text" id="po-city" placeholder="Mumbai" required maxlength="60">
-        </label>
-        <label class="po-field">
-          <span>Pincode</span>
-          <input type="text" id="po-pincode" placeholder="400001" required maxlength="10" inputmode="numeric">
-        </label>
-      </div>
-      <label class="po-field">
-        <span>State</span>
-        <input type="text" id="po-state" placeholder="Maharashtra" required maxlength="60">
-      </label>
+      <p class="po-address-note">📦 That's all we need now — we'll confirm your <strong>delivery address on WhatsApp</strong> right after payment.</p>
       <div id="po-msg" class="po-msg"></div>
       <p class="po-price-label">Total: <strong>₹2,499</strong></p>
       <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Pay Now">
@@ -2826,6 +2807,11 @@
 .po-submit .btn-svg { width: clamp(220px, 38vw, 320px); }
 .po-submit .btn-label { font-size: clamp(13px, 1.6vw, 20px); left: 38%; }
 /* No-pay tag inside modals — centered under button text */
+.po-address-note {
+  font-size: 13px; color: rgba(255,255,255,.75); text-align: center;
+  background: rgba(170,89,200,.12); border: 1px dashed rgba(170,89,200,.45);
+  border-radius: 10px; padding: 9px 12px; margin: 2px 0 6px;
+}
 .po-form .no-pay-tag,
 #playtest-modal .no-pay-tag {
   text-align: center;
@@ -9975,6 +9961,73 @@
   }
 </style>
 
+<!-- ═══════════════════════════════════════════════ PARENT QUOTES + FOUNDER ══ -->
+<style>
+  .pq-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px; max-width: 1000px; margin: 0 auto clamp(28px, 5vh, 44px);
+    padding: 0 clamp(16px, 4vw, 40px);
+  }
+  .pq-card {
+    background: linear-gradient(170deg, rgba(170,89,200,.13), rgba(255,255,255,.025) 60%);
+    border: 1px solid rgba(170,89,200,.32);
+    border-radius: 16px; padding: 22px 20px;
+    font-family: 'Futura', sans-serif;
+  }
+  .pq-card p { font-size: 15px; line-height: 1.65; color: rgba(255,255,255,.88); font-style: oblique; }
+  .pq-card .pq-who { display: block; margin-top: 12px; font-size: 11.5px; letter-spacing: 2px;
+    text-transform: uppercase; color: #cd9edf; font-style: normal; }
+  .pq-stars { color: #ffb300; font-size: 13px; letter-spacing: 2px; margin-bottom: 8px; }
+  .pq-founder {
+    display: flex; gap: 18px; align-items: flex-start;
+    max-width: 720px; margin: 0 auto; padding: 22px clamp(18px, 4vw, 28px);
+    background: rgba(255,255,255,.03);
+    border: 1px solid rgba(255,255,255,.14);
+    border-radius: 18px;
+  }
+  .pq-avatar {
+    flex-shrink: 0; width: 64px; height: 64px; border-radius: 50%;
+    display: grid; place-items: center;
+    font-family: 'Norwester', sans-serif; font-size: 26px; color: #fff;
+    background: linear-gradient(160deg, #cd9edf, #793194);
+    border: 2px solid rgba(255,255,255,.35);
+    box-shadow: 0 0 18px rgba(170,89,200,.4);
+  }
+  .pq-founder-txt { font-family: 'Futura', sans-serif; font-size: 14.5px; color: rgba(255,255,255,.82); line-height: 1.7; }
+  .pq-founder-txt b { color: #fff; }
+  .pq-founder-txt .pq-sign { display: block; margin-top: 10px; font-size: 12px; letter-spacing: 2px;
+    text-transform: uppercase; color: #cd9edf; }
+  .pq-founder-txt a { color: #cd9edf; }
+  @media (max-width: 560px) { .pq-founder { flex-direction: column; align-items: center; text-align: center; } }
+</style>
+<section id="s-parents-say" class="eg-section">
+  <h2 class="page-h2 eg-fade-in">What Playtest Parents Say</h2>
+  <div class="pq-grid">
+    <div class="pq-card eg-fade-in">
+      <div class="pq-stars">★★★★★</div>
+      <p>“Such a fun game — the kids enjoy the physical challenges so much they don't even realise how much they're learning.”</p>
+      <span class="pq-who">Playtest parent · two kids, 7 &amp; 10</span>
+    </div>
+    <div class="pq-card eg-fade-in">
+      <div class="pq-stars">★★★★★</div>
+      <p>“Finally, screen-free engagement that's actually enriching. My daughter now explains gravity and air resistance to <em>me</em>.”</p>
+      <span class="pq-who">Playtest parent · 9-year-old</span>
+    </div>
+    <div class="pq-card eg-fade-in">
+      <div class="pq-stars">★★★★★</div>
+      <p>“He knows so much now about forces, the Earth, its atmosphere… When school gets to these topics, I'm sure he'll ace them.”</p>
+      <span class="pq-who">Playtest parent · 8-year-old</span>
+    </div>
+  </div>
+  <div class="pq-founder eg-fade-in">
+    <div class="pq-avatar" aria-hidden="true">S</div>
+    <div class="pq-founder-txt">
+      <b>Why I'm building this:</b> I fell in love with science as an adult — and realised how much of what we're taught as kids is half-baked, memorised, and forgotten. Every DeepKids game takes one topic and goes <b>deep</b> — many perspectives, real experiences, so kids <b>live</b> the science instead of mugging it up.
+      <span class="pq-sign">— Sahyujyah Shrinivas, Founder · <a href="/about">read the full story →</a></span>
+    </div>
+  </div>
+</section>
+
 <section id="s-faq" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Frequently Asked Questions</h2>
 
@@ -10048,7 +10101,7 @@
         How much does EscapeGravity cost?
         <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
-      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available for pre-order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Pre-orders ship once production is complete. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
+      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available for pre-order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Delivered to your door within <em>3 days</em> of ordering. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
     </div>
 
     <div class="faq-item eg-fade-in">

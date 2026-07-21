@@ -8,7 +8,7 @@
   <link rel="canonical" href="https://deepkids.in/order"/>
   <meta property="og:title" content="Pre-Order EscapeGravity — Kids Learn Physics By Playing"/>
   <meta property="og:description" content="The science board game kids beg to replay. Pre-order ₹2,499 (50% off)."/>
-  <meta property="og:image" content="https://deepkids.in/order-box-hero.webp"/>
+  <meta property="og:image" content="https://deepkids.in/gift-kids-hero.webp"/>
   <meta property="og:url" content="https://deepkids.in/order"/>
   <meta property="og:type" content="website"/>
   <meta name="theme-color" content="#0a0618"/>
@@ -441,12 +441,13 @@
     .co-actions { text-align: center; margin-top: 8px; }
     .co-actions .btn-wrap { margin-left: clamp(10px, 3vw, 34px); }
     button.btn-wrap { background: none; border: none; padding: 0; font: inherit; }
-    .co-back { display: inline-block; margin-top: 12px; font-size: 13px; color: var(--ink-dim); cursor: pointer; background: none; border: none; text-decoration: underline; }
     .co-trust { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 18px; }
     .co-trust span { font-size: 12px; color: var(--ink-dim); }
-    #co-step2 { display: none; }
-    .co-panel.step2 #co-step1 { display: none; }
-    .co-panel.step2 #co-step2 { display: block; }
+    .co-note {
+      font-size: 13px; color: rgba(255,255,255,.75); text-align: center;
+      background: rgba(var(--purple-rgb), .12); border: 1px dashed rgba(var(--purple-rgb), .45);
+      border-radius: 10px; padding: 9px 12px; margin: 2px 0 14px;
+    }
 
     /* FAQ */
     .faq { max-width: 720px; margin: 0 auto; }
@@ -606,10 +607,6 @@
         <span class="price-was">₹4,999</span>
         <span class="price-off">50% OFF · PRICE LOCKS TODAY</span>
       </div>
-      <div class="co-steps">
-        <span class="co-step-dot on" id="co-dot1">1 · You</span>
-        <span class="co-step-dot" id="co-dot2">2 · Delivery</span>
-      </div>
       <form id="co-form" novalidate>
         <div id="co-step1">
           <div class="co-field">
@@ -623,41 +620,9 @@
               <input id="co-phone" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="98765 43210"/>
             </div>
           </div>
+          <p class="co-note">📦 That's all we need now — we'll confirm your <b>delivery address on WhatsApp</b> right after payment.</p>
           <div class="co-actions">
-            <a class="btn-wrap " href="#checkout" id="co-continue" role="button" aria-label="Continue to delivery details">
-    <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="dkg-step1" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
-        </linearGradient>
-        <linearGradient id="dkh-step1" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-        </linearGradient>
-      </defs>
-      <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-step1)"/>
-      <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-      <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-      <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-step1)"/>
-      <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-      <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-      <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-    </svg>
-    <span class="btn-label">Continue</span>
-  </a>
-          </div>
-        </div>
-        <div id="co-step2">
-          <div class="co-field">
-            <label for="co-address">Address</label>
-            <input id="co-address" type="text" autocomplete="street-address" placeholder="House / street / area"/>
-          </div>
-          <div class="co-row2">
-            <div class="co-field"><label for="co-city">City</label><input id="co-city" type="text" autocomplete="address-level2"/></div>
-            <div class="co-field"><label for="co-pincode">Pincode</label><input id="co-pincode" type="text" inputmode="numeric" autocomplete="postal-code"/></div>
-          </div>
-          <div class="co-field"><label for="co-state">State</label><input id="co-state" type="text" autocomplete="address-level1"/></div>
-          <div class="co-actions">
-            <button type="submit" class="btn-wrap " id="co-pay" aria-label="Pay now with Razorpay">
+            <button type="submit" class="btn-wrap" id="co-pay" aria-label="Pay now with Razorpay">
     <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dkg-pay" x1="0" y1="0" x2="0" y2="1">
@@ -678,7 +643,6 @@
     <span class="btn-label">Pay Now</span>
   </button>
           </div>
-          <div style="text-align:center;"><button type="button" class="co-back" id="co-back">← edit name / number</button></div>
         </div>
         <div class="co-msg" id="co-msg" role="status"></div>
       </form>
@@ -694,7 +658,7 @@
     <h2 class="sec-h rv" style="font-size:clamp(22px,3.6vw,30px);">Honest Answers</h2>
     <div class="faq rv">
       <details><summary>Why ₹2,499?</summary><p>That's the 50% pre-order price — retail will be ₹4,999. The box is heavy: spiral board, 13 Force Cards, 35+ Physical Challenge Cards, tokens and science tiles, designed and made in India.</p></details>
-      <details><summary>When does it ship?</summary><p>Pre-orders ship as soon as the production run completes. You'll get WhatsApp updates at every step — you're never left wondering.</p></details>
+      <details><summary>When does it ship?</summary><p>Delivered to your door within 3 days of ordering, with WhatsApp updates at every step.</p></details>
       <details><summary>What if I change my mind?</summary><p>Fair, no-games refunds — see the <a href="/refund-policy">refund policy</a>. Your money isn't trapped.</p></details>
       <details><summary>Is payment safe?</summary><p>Payments run through Razorpay (UPI, cards, netbanking). Card details never touch our servers, and every payment is verified server-side before it counts.</p></details>
     </div>
@@ -706,7 +670,7 @@
     <h2 class="sec-h rv" style="font-size:clamp(22px,3.6vw,30px);">The Fine Print, Upfront</h2>
     <div class="assure">
       <div class="rv"><span class="a-ico">🏷️</span><div><b>Pre-Order Pricing</b><span>₹2,499 now vs ₹4,999 at retail. Your price locks when you order.</span></div></div>
-      <div class="rv rv2"><span class="a-ico">🚚</span><div><b>Ships When Production Completes</b><span>Gifting for a date far out? Perfect. Need it tomorrow? We'd rather tell you honestly.</span></div></div>
+      <div class="rv rv2"><span class="a-ico">🚚</span><div><b>3-Day Delivery</b><span>Delivered to your door within 3 days of ordering — WhatsApp updates the whole way.</span></div></div>
       <div class="rv rv3"><span class="a-ico">🔒</span><div><b>Secure Payment</b><span>Cards, UPI, netbanking via Razorpay. Details never stored on our servers.</span></div></div>
       <div class="rv rv4"><span class="a-ico">↩️</span><div><b>Fair Refunds</b><span>Change of plans? See our <a href="/refund-policy">refund policy</a> — no fine-print games.</span></div></div>
     </div>
@@ -866,42 +830,17 @@
       }
     });
 
-    /* ── Step 1 → 2 ── */
+    /* ── Draft save (address arrives via WhatsApp after payment) ── */
     function saveDraft() {
       fetch('/api/save-draft', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           phone: fullNumber, cc: val('co-cc').trim(), rawPhone: val('co-phone').replace(/\D/g, ''),
-          name: custName, address: val('co-address').trim(), city: val('co-city').trim(),
-          pincode: val('co-pincode').trim(), state: val('co-state').trim()
+          name: custName, address: '', city: '', pincode: '', state: ''
         })
       }).catch(function(){});
     }
-    function toStep2() {
-      var cc = val('co-cc').trim(), digits = val('co-phone').replace(/\D/g, '');
-      custName = val('co-name').trim();
-      msg.textContent = '';
-      if (!custName) { err('Please enter your name.'); return; }
-      if (!cc.match(/^\+?\d{1,4}$/)) { err('Please enter a valid country code (e.g. +91).'); return; }
-      if (digits.length < 7 || digits.length > 15) { err('Please enter a valid phone number.'); return; }
-      fullNumber = (cc.indexOf('+') === 0 ? cc : '+' + cc) + digits;
-      saveDraft();
-      loadRazorpay().catch(function(){}); // warm up while they type the address
-      panel.classList.add('step2');
-      document.getElementById('co-dot1').classList.remove('on');
-      document.getElementById('co-dot2').classList.add('on');
-      egGtag('event', 'preorder_step2', { event_category: 'funnel', event_label: 'order_lp' });
-      var first = document.getElementById('co-address');
-      if (first) first.focus();
-    }
-    document.getElementById('co-continue').addEventListener('click', function(e) { e.preventDefault(); toStep2(); });
-    document.getElementById('co-back').addEventListener('click', function() {
-      panel.classList.remove('step2');
-      document.getElementById('co-dot1').classList.add('on');
-      document.getElementById('co-dot2').classList.remove('on');
-      msg.textContent = '';
-    });
 
     /* ── Pay ── */
     var payBtn = document.getElementById('co-pay');
@@ -914,11 +853,14 @@
     }
     form.addEventListener('submit', function(e) {
       e.preventDefault();
-      var address = val('co-address').trim(), city = val('co-city').trim(),
-          pincode = val('co-pincode').trim(), state = val('co-state').trim();
+      var cc = val('co-cc').trim(), digits = val('co-phone').replace(/\D/g, '');
+      custName = val('co-name').trim();
       msg.textContent = '';
-      if (!address || !city || !pincode || !state) { err('Please fill in all delivery fields.'); return; }
-      fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
+      if (!custName) { err('Please enter your name.'); return; }
+      if (!cc.match(/^\+?\d{1,4}$/)) { err('Please enter a valid country code (e.g. +91).'); return; }
+      if (digits.length < 7 || digits.length > 15) { err('Please enter a valid phone number.'); return; }
+      fullNumber = (cc.indexOf('+') === 0 ? cc : '+' + cc) + digits;
+      fullAddress = ''; // confirmed on WhatsApp after payment
       leadSent = false;
       saveDraft();
 
@@ -1035,7 +977,7 @@
       egGtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: 'order_lp' });
       egFbq('trackCustom', 'PreOrderAbandoned', { had_details: true });
       var number = fullNumber || (digits.length >= 7 ? '+91' + digits : '');
-      sendLeadData(n || '—', number, val('co-address').trim(), 'Closed Without Paying', '');
+      sendLeadData(n || '—', number, '', 'Closed Without Paying', '');
       if (number) sendWhatsAppMessage('order_started_new', number, [n || 'there'], '?phone=' + number.replace(/^\+/, ''));
     });
 
