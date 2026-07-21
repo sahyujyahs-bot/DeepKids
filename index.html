@@ -3559,6 +3559,12 @@
     gap: 16px; max-width: 1000px; margin: 0 auto clamp(28px, 5vh, 44px);
     padding: 0 clamp(16px, 4vw, 40px);
   }
+  .pq-card { padding-top: 0 !important; overflow: hidden; }
+  .pq-photo {
+    width: calc(100% + 40px); margin: 0 -20px 16px;
+    height: 170px; object-fit: cover; display: block;
+    border-bottom: 1px solid rgba(170,89,200,.3);
+  }
   .pq-card {
     background: linear-gradient(170deg, rgba(170,89,200,.13), rgba(255,255,255,.025) 60%);
     border: 1px solid rgba(170,89,200,.32);
@@ -3595,16 +3601,19 @@
   <h2 class="page-h2 eg-fade-in">What Playtest Parents Say</h2>
   <div class="pq-grid">
     <div class="pq-card eg-fade-in">
+      <img class="pq-photo" src="gallery-wa0000.webp" alt="Kids playing EscapeGravity at home" loading="lazy" decoding="async">
       <div class="pq-stars">★★★★★</div>
       <p>“Such a fun game — the kids enjoy the physical challenges so much they don't even realise how much they're learning.”</p>
       <span class="pq-who">Playtest parent · two kids, 7 &amp; 10</span>
     </div>
     <div class="pq-card eg-fade-in">
+      <img class="pq-photo" src="gallery-wa0023.webp" alt="Family playing EscapeGravity together" loading="lazy" decoding="async">
       <div class="pq-stars">★★★★★</div>
       <p>“Finally, screen-free engagement that's actually enriching. My daughter now explains gravity and air resistance to <em>me</em>.”</p>
       <span class="pq-who">Playtest parent · 9-year-old</span>
     </div>
     <div class="pq-card eg-fade-in">
+      <img class="pq-photo" src="gallery-wa0031.webp" alt="Kids around the EscapeGravity board" loading="lazy" decoding="async">
       <div class="pq-stars">★★★★★</div>
       <p>“He knows so much now about forces, the Earth, its atmosphere… When school gets to these topics, I'm sure he'll ace them.”</p>
       <span class="pq-who">Playtest parent · 8-year-old</span>
