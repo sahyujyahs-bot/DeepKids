@@ -2150,12 +2150,36 @@
       if (location.hash === '#preorder') doPreOrder();
     });
 
+    // Payment-method choice: swaps the submit button label (Confirm Order
+    // by default and for COD, Pay Now for online).
+    function egSetPayType(type) {
+      window._egPayType = type;
+      var label = document.querySelector('#preorder-modal .po-submit .btn-label');
+      var btn = document.querySelector('#preorder-modal .po-submit');
+      var txt = (type === 'online') ? 'Pay Now' : 'Confirm Order';
+      if (label) label.textContent = txt;
+      if (btn) btn.setAttribute('aria-label', txt);
+    }
+    function egResetPayChoice() {
+      window._egPayType = '';
+      var radios = document.querySelectorAll('#preorder-modal input[name="po-paytype"]');
+      radios.forEach(function(r){ r.checked = false; });
+      var label = document.querySelector('#preorder-modal .po-submit .btn-label');
+      if (label) label.textContent = 'Confirm Order';
+      // Ensure the main form is visible and the address step hidden (in case
+      // of reopen within the same page view).
+      var mainForm = document.querySelector('#preorder-modal .po-form');
+      var addrForm = document.getElementById('po-address-form');
+      if (mainForm) mainForm.style.display = '';
+      if (addrForm) addrForm.style.display = 'none';
+    }
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
       leadEmailSent = false;
       window._egModalOpenedAt = Date.now();  // for close-duration tracking
       window._egModalDurSent = false;
+      egResetPayChoice();
       loadRazorpay().catch(function(){}); // warm up checkout.js while the user fills the form
       // Funnel: preorder_form_started fires on the first keystroke,
       // preorder_form_filled fires once name + phone both have real
@@ -2186,23 +2210,35 @@
       egGtag('event', 'open_preorder', { event_category: 'engagement' });
       egFbq('track', 'AddToCart', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
     }
-    function showPostPayAddressStep() {
+    function showPostPayAddressStep(mode) {
+      mode = mode || 'paid';
       var mainForm = document.querySelector('#preorder-modal .po-form');
       var addrForm = document.getElementById('po-address-form');
       var title = document.querySelector('#preorder-modal .po-title');
       var badge = document.querySelector('#preorder-modal .po-offer-badge');
       var sub   = document.querySelector('#preorder-modal .po-subtitle');
+      var banner = document.querySelector('#preorder-modal .po-paid-banner');
+      var saveBtn = document.querySelector('#preorder-modal .po-address-save');
       if (mainForm) mainForm.style.display = 'none';
       if (badge) badge.style.display = 'none';
       if (sub) sub.style.display = 'none';
-      if (title) title.textContent = 'Order Confirmed!';
+      if (mode === 'cod') {
+        if (title) title.textContent = 'Almost Done!';
+        if (banner) banner.innerHTML = '📦 <strong>Order confirmed!</strong> Where should we ship it? You\'ll pay <strong>₹2,499</strong> in cash when it arrives.';
+        if (saveBtn) saveBtn.textContent = 'Place Order →';
+      } else {
+        if (title) title.textContent = 'Order Confirmed!';
+        if (banner) banner.innerHTML = '🎉 <strong>Payment received!</strong> One last thing — where should we ship it?';
+        if (saveBtn) saveBtn.textContent = 'Save Address & Finish →';
+      }
       if (addrForm) addrForm.style.display = 'block';
       var first = document.getElementById('po-address');
       if (first) first.focus();
     }
     function submitPostPayAddress(e) {
       e.preventDefault();
-      var o = window._egPaidOrder || {};
+      var mode = window._egAddrMode || 'paid';
+      var o = window._egAddrOrder || window._egPaidOrder || {};
       var address = (document.getElementById('po-address') || {}).value || '';
       var city    = (document.getElementById('po-city') || {}).value || '';
       var pincode = (document.getElementById('po-pincode') || {}).value || '';
@@ -2214,15 +2250,34 @@
         return false;
       }
       var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
-      if (msg) { msg.textContent = 'Saving…'; msg.className = 'po-msg'; }
+      if (msg) { msg.textContent = mode === 'cod' ? 'Placing your order…' : 'Saving…'; msg.className = 'po-msg'; }
       fetch('/api/save-draft', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ phone: o.phone, cc: '', rawPhone: (o.phone || '').replace(/\D/g, ''), name: o.name,
           address: address, city: city, pincode: pincode, state: state })
       }).catch(function(){});
-      var params = new URLSearchParams({ name: o.name || '', phone: o.phone || '', address: fullAddress, payment_id: o.paymentId || '' });
-      var notifyPromise = sendLeadData(o.name || '', o.phone || '', fullAddress, 'Address Provided', o.paymentId || '');
+
+      var status, notifyPromise;
+      if (mode === 'cod') {
+        // COD order is placed at this point — fire the conversion events now.
+        var codId = 'COD-' + Date.now();
+        egReportModalDuration('cod_placed');
+        egGtag('event', 'cod_order_placed', { event_category: 'conversion' });
+        egGtag('event', 'purchase', { transaction_id: codId, value: 2499, currency: 'INR', payment_type: 'cod', items: [{ item_name: 'EscapeGravity', price: 2499, quantity: 1 }] });
+        egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+        egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity COD' });
+        egFbq('trackCustom', 'CODOrderPlaced', { value: 2499, currency: 'INR' });
+        status = 'COD Order Placed';
+        notifyPromise = Promise.allSettled([
+          sendLeadData(o.name || '', o.phone || '', fullAddress, status, codId),
+          sendWhatsAppMessage('order_complete', o.phone, [o.name, codId])
+        ]);
+      } else {
+        status = 'Address Provided';
+        notifyPromise = sendLeadData(o.name || '', o.phone || '', fullAddress, status, o.paymentId || '');
+      }
+      var params = new URLSearchParams({ name: o.name || '', phone: o.phone || '', address: fullAddress, payment_id: o.paymentId || '', method: mode });
       withTimeout(notifyPromise, 4000).then(function() {
         window.location.href = '/order-confirmed?' + params.toString();
       });
@@ -2258,7 +2313,8 @@
       var name = (document.getElementById('po-name') || {}).value || '';
       var phone = (document.getElementById('po-phone') || {}).value || '';
       var cc = (document.getElementById('po-cc') || {}).value || '+91';
-      egGtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: (name.trim() || phone.trim()) ? 'with_details' : 'empty' });
+      var _codAbandon = (window._egAddrMode === 'cod');
+      egGtag('event', 'preorder_modal_closed', { event_category: 'funnel', event_label: _codAbandon ? 'cod_no_address' : ((name.trim() || phone.trim()) ? 'with_details' : 'empty') });
       egFbq('trackCustom', 'PreOrderAbandoned', { had_details: !!(name.trim() || phone.trim()) });
       if (!leadEmailSent && (name.trim() || phone.trim())) {
         var digits = phone.replace(/\D/g, '');
@@ -2352,10 +2408,17 @@
         msg.classList.add('err'); return false;
       }
 
+      var payType = (form.querySelector('input[name="po-paytype"]:checked') || {}).value || '';
+      if (!payType) {
+        msg.textContent = 'Please choose Pay Online or Cash on Delivery.';
+        msg.classList.add('err');
+        var ptEl = document.querySelector('#preorder-modal .po-paytype');
+        if (ptEl) { ptEl.style.animation = 'none'; void ptEl.offsetWidth; ptEl.style.animation = 'po-shake .4s'; }
+        return false;
+      }
+
       var fullNumber = (cc.startsWith('+') ? cc : '+' + cc) + digits;
-      // Address is collected on WhatsApp after payment (fewer fields
-      // before the pay step converts far better; buyers are told so).
-      var fullAddress = '';
+      var fullAddress = ''; // collected in-flow after this step
 
       currentOrder = { name: name, phone: fullNumber, address: fullAddress };
       fetch('/api/save-draft', {
@@ -2367,8 +2430,20 @@
         })
       }).catch(function(){});
 
-      egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
       egGtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
+
+      // ── Cash on Delivery: no Razorpay, straight to address collection ──
+      if (payType === 'cod') {
+        egGtag('event', 'cod_confirm_click', { event_category: 'conversion', event_label: 'cod' });
+        egFbq('trackCustom', 'CODConfirm', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+        window._egAddrMode = 'cod';
+        window._egAddrOrder = { paymentId: '', name: name, phone: fullNumber };
+        showPostPayAddressStep('cod');
+        return false;
+      }
+
+      // ── Pay Online: existing Razorpay flow ──
+      egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
       egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
       // Shared event id lets Meta dedupe this browser event against the
       // server-side CAPI copy sent by /api/create-order.
@@ -2451,8 +2526,10 @@
               sendLeadData(name, fullNumber, '', 'Payment Successful', paymentId);
               sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId]);
               window._egPaidOrder = { paymentId: paymentId, name: name, phone: fullNumber };
+              window._egAddrMode = 'paid';
+              window._egAddrOrder = { paymentId: paymentId, name: name, phone: fullNumber };
               egReportModalDuration('paid');
-              showPostPayAddressStep();
+              showPostPayAddressStep('paid');
             })
             .catch(function() {
               msg.textContent = 'Could not verify payment. If you were charged, contact us with your payment ID: ' + response.razorpay_payment_id;
@@ -2576,10 +2653,20 @@
           <input type="tel" id="po-phone" placeholder="98765 43210" required maxlength="20" inputmode="tel">
         </div>
       </label>
-      <p class="po-address-note">📦 That's all before payment — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
+      <p class="po-address-note">📦 That's all for now — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
+      <div class="po-paytype" role="radiogroup" aria-label="How would you like to pay?">
+        <label class="po-pt">
+          <input type="radio" name="po-paytype" value="online" onchange="egSetPayType('online')">
+          <span class="po-pt-card"><span class="po-pt-ico">💳</span><span class="po-pt-txt"><b>Pay Online</b><small>UPI · Card · Netbanking</small></span></span>
+        </label>
+        <label class="po-pt">
+          <input type="radio" name="po-paytype" value="cod" onchange="egSetPayType('cod')">
+          <span class="po-pt-card"><span class="po-pt-ico">📦</span><span class="po-pt-txt"><b>Cash on Delivery</b><small>Pay when it arrives</small></span></span>
+        </label>
+      </div>
       <div id="po-msg" class="po-msg"></div>
       <p class="po-price-label">Total: <strong>₹2,499</strong></p>
-      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Pay Now">
+      <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Confirm Order">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <linearGradient id="dk-green-grad3" x1="0" y1="0" x2="0" y2="1">
@@ -2603,7 +2690,7 @@
           <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
-        <span class="btn-label">Pay Now</span>
+        <span class="btn-label">Confirm Order</span>
       </button>
     </form>
     <form id="po-address-form" style="display:none" onsubmit="return submitPostPayAddress(event)">
@@ -2903,6 +2990,31 @@
 .po-submit .btn-svg { width: clamp(220px, 38vw, 320px); }
 .po-submit .btn-label { font-size: clamp(13px, 1.6vw, 20px); left: 38%; }
 /* No-pay tag inside modals — centered under button text */
+@keyframes po-shake { 0%,100%{transform:translateX(0)} 20%,60%{transform:translateX(-6px)} 40%,80%{transform:translateX(6px)} }
+.po-paytype { display: flex; gap: 10px; margin: 2px 0 12px; }
+.po-pt { flex: 1; cursor: pointer; }
+.po-pt input { position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none; }
+.po-pt-card {
+  display: flex; align-items: center; gap: 10px; height: 100%;
+  padding: 12px 12px; border-radius: 12px;
+  border: 1.5px solid rgba(205,158,223,.35);
+  background: rgba(205,158,223,.06);
+  transition: border-color .15s, background .15s, box-shadow .15s;
+}
+.po-pt input:checked + .po-pt-card {
+  border-color: #cd9edf; background: rgba(205,158,223,.20);
+  box-shadow: 0 0 14px rgba(170,89,200,.28);
+}
+.po-pt input:focus-visible + .po-pt-card { outline: 2px solid #cd9edf; outline-offset: 2px; }
+.po-pt-ico { font-size: 22px; line-height: 1; }
+.po-pt-txt { display: flex; flex-direction: column; line-height: 1.2; text-align: left; }
+.po-pt-txt b { font-size: 14px; color: #fff; }
+.po-pt-txt small { font-size: 11px; color: rgba(255,255,255,.6); }
+@media (max-width: 420px) {
+  .po-paytype { gap: 8px; }
+  .po-pt-card { padding: 10px 9px; gap: 7px; }
+  .po-pt-txt b { font-size: 12.5px; } .po-pt-txt small { font-size: 9.5px; } .po-pt-ico { font-size: 19px; }
+}
 .po-paid-banner {
   font-size: 14.5px; color: rgba(255,255,255,.92); text-align: center;
   background: rgba(80,200,120,.12); border: 1px solid rgba(80,200,120,.45);
