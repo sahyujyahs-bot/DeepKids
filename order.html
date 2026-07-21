@@ -443,6 +443,22 @@
     button.btn-wrap { background: none; border: none; padding: 0; font: inherit; }
     .co-trust { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 18px; }
     .co-trust span { font-size: 12px; color: var(--ink-dim); }
+    .co-paid {
+      font-size: 14.5px; color: rgba(255,255,255,.92); text-align: center;
+      background: rgba(80,200,120,.12); border: 1px solid rgba(80,200,120,.45);
+      border-radius: 10px; padding: 11px 12px; margin: 2px 0 16px;
+    }
+    .co-save {
+      display: block; width: 100%; cursor: pointer;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px;
+      font-size: 17px; color: #fff;
+      background: linear-gradient(180deg, #c46be0, #8a3aa8);
+      border: 1px solid rgba(255,255,255,.35); border-radius: 999px;
+      padding: 13px 18px;
+      box-shadow: 0 0 20px rgba(var(--purple-rgb), .4), inset 0 1px 0 rgba(255,255,255,.3);
+      transition: transform .15s ease;
+    }
+    .co-save:hover { transform: translateY(-2px); }
     .co-note {
       font-size: 13px; color: rgba(255,255,255,.75); text-align: center;
       background: rgba(var(--purple-rgb), .12); border: 1px dashed rgba(var(--purple-rgb), .45);
@@ -620,7 +636,7 @@
               <input id="co-phone" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="98765 43210"/>
             </div>
           </div>
-          <p class="co-note">📦 That's all we need now — we'll confirm your <b>delivery address on WhatsApp</b> right after payment.</p>
+          <p class="co-note">📦 That's all before payment — you'll add your <b>delivery address right after</b> (takes 30 seconds).</p>
           <div class="co-actions">
             <button type="submit" class="btn-wrap" id="co-pay" aria-label="Pay now with Razorpay">
     <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
@@ -642,6 +658,21 @@
     </svg>
     <span class="btn-label">Pay Now</span>
   </button>
+          </div>
+        </div>
+        <div id="co-after" style="display:none">
+          <p class="co-paid">🎉 <b>Payment received!</b> One last thing — where should we ship it?</p>
+          <div class="co-field">
+            <label for="co-address">Address</label>
+            <input id="co-address" type="text" autocomplete="street-address" placeholder="House / street / area"/>
+          </div>
+          <div class="co-row2">
+            <div class="co-field"><label for="co-city">City</label><input id="co-city" type="text" autocomplete="address-level2"/></div>
+            <div class="co-field"><label for="co-pincode">Pincode</label><input id="co-pincode" type="text" inputmode="numeric" autocomplete="postal-code"/></div>
+          </div>
+          <div class="co-field"><label for="co-state">State</label><input id="co-state" type="text" autocomplete="address-level1"/></div>
+          <div class="co-actions">
+            <button type="button" class="co-save" id="co-save-address">Save Address &amp; Finish →</button>
           </div>
         </div>
         <div class="co-msg" id="co-msg" role="status"></div>
@@ -747,6 +778,7 @@
     var RAZORPAY_KEY_ID = 'rzp_live_T3ZTo2sM5OJff2'; // public Key ID only
     var leadSent = false, formStarted = false, formFilled = false, cartFired = false;
     var custName = '', fullNumber = '', fullAddress = '';
+    var paidOrder = null;
 
     /* ── Shared helpers (mirrors the homepage flow exactly) ── */
     var razorpayPromise = null;
@@ -919,18 +951,19 @@
             }
             var paymentId = response.razorpay_payment_id;
             leadSent = true;
+            paidOrder = { paymentId: paymentId, name: custName, phone: fullNumber };
             egGtag('event', 'preorder_paid', { event_category: 'conversion' });
             egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
             egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
             egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
-            var params = new URLSearchParams({ name: custName, phone: fullNumber, address: fullAddress, payment_id: paymentId });
-            var notifyPromise = Promise.allSettled([
-              sendLeadData(custName, fullNumber, fullAddress, 'Payment Successful', paymentId),
-              sendWhatsAppMessage('order_complete', fullNumber, [custName, paymentId])
-            ]);
-            withTimeout(notifyPromise, 4000).then(function() {
-              window.location.href = '/order-confirmed?' + params.toString();
-            });
+            // Record the payment immediately, then collect the address in
+            // this same flow — the panel swaps to a short address step.
+            sendLeadData(custName, fullNumber, '', 'Payment Successful', paymentId);
+            sendWhatsAppMessage('order_complete', fullNumber, [custName, paymentId]);
+            document.getElementById('co-step1').style.display = 'none';
+            document.getElementById('co-after').style.display = 'block';
+            msg.textContent = ''; msg.className = 'co-msg';
+            var f = document.getElementById('co-address'); if (f) f.focus();
           })
           .catch(function() {
             err('Could not verify payment. If you were charged, contact us with your payment ID: ' + response.razorpay_payment_id);
@@ -966,6 +999,26 @@
       });
       rzp.open();
     }
+
+    /* ── Post-payment address save ── */
+    document.getElementById('co-save-address').addEventListener('click', function() {
+      if (!paidOrder) return;
+      var address = val('co-address').trim(), city = val('co-city').trim(),
+          pincode = val('co-pincode').trim(), state = val('co-state').trim();
+      if (!address || !city || !pincode || !state) { err('Please fill in all address fields.'); return; }
+      fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
+      note('Saving…');
+      fetch('/api/save-draft', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ phone: paidOrder.phone, cc: '', rawPhone: (paidOrder.phone || '').replace(/\D/g, ''),
+          name: paidOrder.name, address: address, city: city, pincode: pincode, state: state })
+      }).catch(function(){});
+      var params = new URLSearchParams({ name: paidOrder.name, phone: paidOrder.phone, address: fullAddress, payment_id: paidOrder.paymentId });
+      withTimeout(sendLeadData(paidOrder.name, paidOrder.phone, fullAddress, 'Address Provided', paidOrder.paymentId), 4000).then(function() {
+        window.location.href = '/order-confirmed?' + params.toString();
+      });
+    });
 
     /* ── Abandon capture: filled details but left without an outcome ── */
     document.addEventListener('visibilitychange', function() {

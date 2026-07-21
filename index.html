@@ -2178,7 +2178,57 @@
       egGtag('event', 'open_preorder', { event_category: 'engagement' });
       egFbq('track', 'AddToCart', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
     }
+    function showPostPayAddressStep() {
+      var mainForm = document.querySelector('#preorder-modal .po-form');
+      var addrForm = document.getElementById('po-address-form');
+      var title = document.querySelector('#preorder-modal .po-title');
+      var badge = document.querySelector('#preorder-modal .po-offer-badge');
+      var sub   = document.querySelector('#preorder-modal .po-subtitle');
+      if (mainForm) mainForm.style.display = 'none';
+      if (badge) badge.style.display = 'none';
+      if (sub) sub.style.display = 'none';
+      if (title) title.textContent = 'Order Confirmed!';
+      if (addrForm) addrForm.style.display = 'block';
+      var first = document.getElementById('po-address');
+      if (first) first.focus();
+    }
+    function submitPostPayAddress(e) {
+      e.preventDefault();
+      var o = window._egPaidOrder || {};
+      var address = (document.getElementById('po-address') || {}).value || '';
+      var city    = (document.getElementById('po-city') || {}).value || '';
+      var pincode = (document.getElementById('po-pincode') || {}).value || '';
+      var state   = (document.getElementById('po-state') || {}).value || '';
+      var msg = document.getElementById('po-address-msg');
+      address = address.trim(); city = city.trim(); pincode = pincode.trim(); state = state.trim();
+      if (!address || !city || !pincode || !state) {
+        if (msg) { msg.textContent = 'Please fill in all address fields.'; msg.className = 'po-msg err'; }
+        return false;
+      }
+      var fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
+      if (msg) { msg.textContent = 'Saving…'; msg.className = 'po-msg'; }
+      fetch('/api/save-draft', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ phone: o.phone, cc: '', rawPhone: (o.phone || '').replace(/\D/g, ''), name: o.name,
+          address: address, city: city, pincode: pincode, state: state })
+      }).catch(function(){});
+      var params = new URLSearchParams({ name: o.name || '', phone: o.phone || '', address: fullAddress, payment_id: o.paymentId || '' });
+      var notifyPromise = sendLeadData(o.name || '', o.phone || '', fullAddress, 'Address Provided', o.paymentId || '');
+      withTimeout(notifyPromise, 4000).then(function() {
+        window.location.href = '/order-confirmed?' + params.toString();
+      });
+      return false;
+    }
     function closePreOrderModal() {
+      // After a successful payment the close button finishes the flow
+      // instead of discarding it (address can be collected later).
+      if (window._egPaidOrder) {
+        var o = window._egPaidOrder;
+        window.location.href = '/order-confirmed?' + new URLSearchParams({
+          name: o.name || '', phone: o.phone || '', payment_id: o.paymentId || '' }).toString();
+        return;
+      }
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.remove('show');
       // If they filled in any details but the attempt never reached a final
@@ -2373,17 +2423,13 @@
               egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
               egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
               egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
-              var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
-              // Wait for the email/sheet write to actually finish before navigating
-              // away — navigating too early can abort the requests mid-flight.
-              // Timeout caps the wait so a slow/blocked network can't strand the user.
-              var notifyPromise = Promise.allSettled([
-                sendLeadData(name, fullNumber, fullAddress, 'Payment Successful', paymentId),
-                sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId])
-              ]);
-              withTimeout(notifyPromise, 4000).then(function() {
-                window.location.href = '/order-confirmed?' + params.toString();
-              });
+              // Record the payment immediately (email/sheet/WhatsApp), then
+              // collect the delivery address in this same flow — the modal
+              // swaps to a short address step instead of redirecting away.
+              sendLeadData(name, fullNumber, '', 'Payment Successful', paymentId);
+              sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId]);
+              window._egPaidOrder = { paymentId: paymentId, name: name, phone: fullNumber };
+              showPostPayAddressStep();
             })
             .catch(function() {
               msg.textContent = 'Could not verify payment. If you were charged, contact us with your payment ID: ' + response.razorpay_payment_id;
@@ -2507,7 +2553,7 @@
           <input type="tel" id="po-phone" placeholder="98765 43210" required maxlength="20" inputmode="tel">
         </div>
       </label>
-      <p class="po-address-note">📦 That's all we need now — we'll confirm your <strong>delivery address on WhatsApp</strong> right after payment.</p>
+      <p class="po-address-note">📦 That's all before payment — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
       <div id="po-msg" class="po-msg"></div>
       <p class="po-price-label">Total: <strong>₹2,499</strong></p>
       <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Pay Now">
@@ -2536,6 +2582,29 @@
         </svg>
         <span class="btn-label">Pay Now</span>
       </button>
+    </form>
+    <form id="po-address-form" style="display:none" onsubmit="return submitPostPayAddress(event)">
+      <p class="po-paid-banner">🎉 <strong>Payment received!</strong> One last thing — where should we ship it?</p>
+      <label class="po-field">
+        <span>Delivery Address</span>
+        <input type="text" id="po-address" placeholder="Flat / House No., Street, Area" maxlength="120">
+      </label>
+      <div class="po-city-row">
+        <label class="po-field">
+          <span>City</span>
+          <input type="text" id="po-city" placeholder="Mumbai" maxlength="60">
+        </label>
+        <label class="po-field">
+          <span>Pincode</span>
+          <input type="text" id="po-pincode" placeholder="400001" maxlength="10" inputmode="numeric">
+        </label>
+      </div>
+      <label class="po-field">
+        <span>State</span>
+        <input type="text" id="po-state" placeholder="Maharashtra" maxlength="60">
+      </label>
+      <div id="po-address-msg" class="po-msg"></div>
+      <button type="submit" class="po-address-save">Save Address &amp; Finish →</button>
     </form>
     <p class="po-privacy">🔒 Secure payment via Razorpay. Your card/UPI details are never stored on our servers.</p>
   </div>
@@ -2807,6 +2876,22 @@
 .po-submit .btn-svg { width: clamp(220px, 38vw, 320px); }
 .po-submit .btn-label { font-size: clamp(13px, 1.6vw, 20px); left: 38%; }
 /* No-pay tag inside modals — centered under button text */
+.po-paid-banner {
+  font-size: 14.5px; color: rgba(255,255,255,.92); text-align: center;
+  background: rgba(80,200,120,.12); border: 1px solid rgba(80,200,120,.45);
+  border-radius: 10px; padding: 11px 12px; margin: 4px 0 14px;
+}
+.po-address-save {
+  display: block; width: 100%; margin-top: 6px; cursor: pointer;
+  font-family: 'Norwester', sans-serif; font-variant: small-caps; letter-spacing: 1.5px;
+  font-size: 17px; color: #fff;
+  background: linear-gradient(180deg, #c46be0, #8a3aa8);
+  border: 1px solid rgba(255,255,255,.35); border-radius: 999px;
+  padding: 13px 18px;
+  box-shadow: 0 0 20px rgba(170,89,200,.4), inset 0 1px 0 rgba(255,255,255,.3);
+  transition: transform .15s ease;
+}
+.po-address-save:hover { transform: translateY(-2px); }
 .po-address-note {
   font-size: 13px; color: rgba(255,255,255,.75); text-align: center;
   background: rgba(170,89,200,.12); border: 1px dashed rgba(170,89,200,.45);
