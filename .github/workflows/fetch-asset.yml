@@ -1,28 +1,17 @@
 # Utility: fetch remote asset files (e.g. generated art on a CDN the
-# development sandbox cannot reach) and commit them to the branch.
-# Trigger manually via workflow_dispatch with up to two URL/filename pairs.
-name: Fetch asset
+# development sandbox cannot reach) and commit them to this branch.
+# Usage: edit .fetch-assets.json with {"assets":[{"url":...,"name":...}]}
+# and push — this workflow downloads each URL and commits the files.
+# The workflow's own commit doesn't touch .fetch-assets.json, so it
+# cannot retrigger itself (and push events from the default GITHUB_TOKEN
+# don't start new workflow runs anyway).
+name: Fetch assets
 on:
-  workflow_dispatch:
-    inputs:
-      url1:
-        description: 'First asset URL'
-        required: true
-        type: string
-      name1:
-        description: 'Filename to save the first asset as (repo root)'
-        required: true
-        type: string
-      url2:
-        description: 'Second asset URL (optional)'
-        required: false
-        type: string
-        default: ''
-      name2:
-        description: 'Filename for the second asset (optional)'
-        required: false
-        type: string
-        default: ''
+  push:
+    branches:
+      - claude/continue-website-work-y7b62
+    paths:
+      - '.fetch-assets.json'
 
 permissions:
   contents: write
@@ -32,17 +21,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Download assets
+      - name: Download assets listed in .fetch-assets.json
         run: |
-          curl -fSL --max-filesize 26214400 -o "${{ inputs.name1 }}" "${{ inputs.url1 }}"
-          if [ -n "${{ inputs.url2 }}" ] && [ -n "${{ inputs.name2 }}" ]; then
-            curl -fSL --max-filesize 26214400 -o "${{ inputs.name2 }}" "${{ inputs.url2 }}"
-          fi
-          ls -la "${{ inputs.name1 }}" ${{ inputs.name2 && format('"{0}"', inputs.name2) || '' }}
-      - name: Commit
+          count=$(jq '.assets | length' .fetch-assets.json)
+          for i in $(seq 0 $((count - 1))); do
+            url=$(jq -r ".assets[$i].url" .fetch-assets.json)
+            name=$(jq -r ".assets[$i].name" .fetch-assets.json)
+            case "$name" in
+              */*|.*) echo "refusing path $name"; exit 1;;
+            esac
+            echo "fetching $name"
+            curl -fSL --max-filesize 26214400 -o "$name" "$url"
+          done
+          ls -la
+      - name: Commit fetched files
         run: |
           git config user.name "asset-fetch-bot"
           git config user.email "noreply@deepkids.in"
-          git add -A
-          git commit -m "Fetch remote assets via workflow"
+          git add -A ':!.fetch-assets.json'
+          git diff --cached --quiet || git commit -m "Fetch remote assets via workflow"
           git push
