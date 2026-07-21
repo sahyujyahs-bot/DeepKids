@@ -2,11 +2,11 @@
 
 > EscapeGravity is an educational science board game for kids ages 7+, made by DeepKids in India. Players race a board piece toward the International Space Station while fighting "Gravity" using Force Cards earned by completing real, physical, hands-on challenges — learning concepts like gravity, forces, and air resistance by doing them, not just reading about them. 2–6 players, about 30 minutes per game.
 
-EscapeGravity is available for pre-order in India. The box includes a spiral game board, 13 Force Cards, 35+ Physical Challenge Cards, player tokens, and science tiles. Category: educational board game, STEM toy, science learning game for kids, family board game.
+EscapeGravity is available to order in India. The box includes a spiral game board, 13 Force Cards, 35+ Physical Challenge Cards, player tokens, and science tiles. Category: educational board game, STEM toy, science learning game for kids, family board game.
 
 ## Pages
 
-- [Homepage](https://deepkids.in/): Full product overview, what's inside the box, FAQ, and pre-order.
+- [Homepage](https://deepkids.in/): Full product overview, what's inside the box, FAQ, and ordering.
 - [How To Play](https://deepkids.in/how-to-play): Interactive walkthrough of a game turn plus video guides.
 - [About](https://deepkids.in/about): The story and mission behind DeepKids.
 - [Contact](https://deepkids.in/contact): Press, partnership, and product questions.
@@ -23,4 +23,4 @@ EscapeGravity is available for pre-order in India. The box includes a spiral gam
 ## Optional
 
 - [Privacy policy](https://deepkids.in/privacy-policy): How visitor data is handled.
-- [Refund policy](https://deepkids.in/refund-policy): Pre-order refund and cancellation terms.
+- [Refund policy](https://deepkids.in/refund-policy): Refund and cancellation terms.
