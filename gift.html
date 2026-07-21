@@ -62,7 +62,7 @@
 
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
   <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
-  <link rel="preload" as="image" href="gift-box-hero.webp" fetchpriority="high"/>
+  <link rel="preload" as="image" href="gift-kids-hero.webp" fetchpriority="high"/>
 
   <style>
     @font-face {
@@ -210,12 +210,12 @@
     .hero-sub { font-size: clamp(15px, 2.1vw, 19px); color: var(--ink); max-width: 600px; margin: 0 auto; }
 
     /* Box on a glowing pedestal, floating */
-    .stage { position: relative; width: min(460px, 84vw); margin: 30px auto 8px; }
+    .stage { position: relative; width: min(640px, 92vw); margin: 26px auto 4px; }
     .stage::before {
       content: ''; position: absolute; left: 50%; bottom: 4%;
       width: 78%; height: 15%;
       transform: translateX(-50%);
-      background: radial-gradient(ellipse at center, rgba(var(--purple-rgb), .5), rgba(var(--purple-rgb), .12) 55%, transparent 72%);
+      background: radial-gradient(ellipse at center, rgba(var(--purple-rgb), .38), rgba(var(--purple-rgb), .1) 55%, transparent 72%);
       filter: blur(6px);
       animation: pedestal 6s ease-in-out infinite;
     }
@@ -223,15 +223,12 @@
       position: relative;
       filter: drop-shadow(0 26px 44px rgba(0,0,0,.65));
       animation: float-box 6s ease-in-out infinite;
+      /* fade the illustration's edges into the page background */
+      -webkit-mask-image: radial-gradient(ellipse 90% 86% at 50% 48%, #000 66%, transparent 98%);
+      mask-image: radial-gradient(ellipse 90% 86% at 50% 48%, #000 66%, transparent 98%);
     }
     @keyframes float-box { 0%,100% { transform: translateY(0) rotate(-.4deg); } 50% { transform: translateY(-13px) rotate(.5deg); } }
     @keyframes pedestal  { 0%,100% { opacity: 1; width: 78%; } 50% { opacity: .65; width: 70%; } }
-
-    /* Floating decorative cards (echo of the homepage rain) */
-    .float-deco { position: absolute; pointer-events: none; opacity: .8; }
-    .float-deco.apple { width: clamp(44px, 7vw, 70px); left: clamp(4px, 8vw, 130px); top: 34%; animation: drift 7s ease-in-out infinite; }
-    .float-deco.tree  { width: clamp(58px, 9vw, 96px); right: clamp(2px, 7vw, 120px); top: 56%; animation: drift 8s ease-in-out 1.2s infinite; }
-    @keyframes drift { 0%,100% { transform: translateY(0) rotate(-6deg); } 50% { transform: translateY(-16px) rotate(5deg); } }
 
     /* Gift-tag price lockup */
     .gift-tag {
@@ -420,7 +417,7 @@
     .rv2 { transition-delay: .12s; } .rv3 { transition-delay: .24s; } .rv4 { transition-delay: .36s; }
 
     @media (prefers-reduced-motion: reduce) {
-      .stars::after, .stage img, .stage::before, .float-deco, .btn-wrap { animation: none !important; }
+      .stars::after, .stage img, .stage::before, .btn-wrap { animation: none !important; }
       .rv { opacity: 1; transform: none; transition: none; }
       html { scroll-behavior: auto; }
     }
@@ -461,10 +458,8 @@
     <p class="hero-sub rv rv2">EscapeGravity is the science board game kids beg to replay — physical challenges, real physics, and the whole family at the table.</p>
 
     <div class="stage rv rv2">
-      <img src="gift-box-hero.webp" alt="EscapeGravity board game box — a premium gift for kids 7+" width="900" height="900" fetchpriority="high"/>
+      <img src="gift-kids-hero.webp" alt="Illustration of four kids joyfully playing the EscapeGravity spiral board game" width="1400" height="1045" fetchpriority="high"/>
     </div>
-    <img class="float-deco apple" src="apple-fall.webp" alt="" aria-hidden="true" width="120" height="120" loading="lazy"/>
-    <img class="float-deco tree" src="apple-tree.webp" alt="" aria-hidden="true" width="200" height="200" loading="lazy"/>
 
     <div class="gift-tag rv rv3">
       <div class="row">
@@ -561,7 +556,7 @@
         </div>
       </div>
       <div class="media rv rv2">
-        <img src="s2-kids-holding.webp" alt="Kids holding up items for an EscapeGravity physical challenge" loading="lazy" width="1000" height="1000"/>
+        <img src="gift-kids-play.webp" alt="Illustration of kids doing an EscapeGravity balance challenge around the board" loading="lazy" width="1100" height="821"/>
       </div>
     </div>
   </section>
@@ -581,6 +576,8 @@
   <!-- ═══ FINAL CTA ═══ -->
   <section class="band">
     <div class="wrap">
+      <img src="gift-box-hero.webp" alt="The EscapeGravity box" loading="lazy" width="900" height="900"
+           style="width:min(300px,60vw);margin:0 auto 18px;filter:drop-shadow(0 16px 32px rgba(0,0,0,.6));"/>
       <h2 class="rv">Be The Reason They <em>Love Science</em></h2>
       <p class="rv rv2">₹2,499 · 50% off pre-order · Ages 7+ · Made in India</p>
       <div class="rv rv3" style="margin-top:14px;">
