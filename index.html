@@ -2154,6 +2154,8 @@
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
       leadEmailSent = false;
+      window._egModalOpenedAt = Date.now();  // for close-duration tracking
+      window._egModalDurSent = false;
       loadRazorpay().catch(function(){}); // warm up checkout.js while the user fills the form
       // Funnel: preorder_form_started fires on the first keystroke,
       // preorder_form_filled fires once name + phone both have real
@@ -2226,9 +2228,23 @@
       });
       return false;
     }
+    // Reports how long the pre-order popup stayed open before closing,
+    // bucketed into the event name so it shows in GA4's Events report
+    // with no extra setup. Distinguishes fast bounces from real
+    // hesitation. Fires at most once per open.
+    function egReportModalDuration(outcome) {
+      if (window._egModalDurSent || !window._egModalOpenedAt) return;
+      window._egModalDurSent = true;
+      var secs = Math.round((Date.now() - window._egModalOpenedAt) / 1000);
+      var bucket = secs < 3 ? 'under_3s' : secs < 10 ? '3_10s' :
+                   secs < 30 ? '10_30s' : secs < 60 ? '30_60s' : 'over_60s';
+      egGtag('event', 'preorder_modal_open_' + bucket, {
+        event_category: 'funnel', event_label: outcome || 'closed', value: secs });
+    }
     function closePreOrderModal() {
+      egReportModalDuration(window._egPaidOrder ? 'paid' : 'closed');
       // After a successful payment the close button finishes the flow
-      // instead of discarding it (address can be collected later).
+      // instead of collecting the address (which can be done later).
       if (window._egPaidOrder) {
         var o = window._egPaidOrder;
         window.location.href = '/order-confirmed?' + new URLSearchParams({
@@ -2435,6 +2451,7 @@
               sendLeadData(name, fullNumber, '', 'Payment Successful', paymentId);
               sendWhatsAppMessage('order_complete', fullNumber, [name, paymentId]);
               window._egPaidOrder = { paymentId: paymentId, name: name, phone: fullNumber };
+              egReportModalDuration('paid');
               showPostPayAddressStep();
             })
             .catch(function() {
