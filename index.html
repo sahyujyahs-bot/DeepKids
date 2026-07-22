@@ -2654,18 +2654,18 @@
         </div>
       </label>
       <p class="po-address-note">📦 That's all for now — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
+      <div id="po-msg" class="po-msg"></div>
+      <p class="po-price-label">Total: <strong>₹2,499</strong></p>
       <div class="po-paytype" role="radiogroup" aria-label="How would you like to pay?">
         <label class="po-pt">
           <input type="radio" name="po-paytype" value="online" onchange="egSetPayType('online')">
-          <span class="po-pt-card"><span class="po-pt-ico">💳</span><span class="po-pt-txt"><b>Pay Online</b><small>UPI · Card · Netbanking</small></span></span>
+          <span class="po-pt-dot"></span><span class="po-pt-lbl">Pay Online <small>UPI · Card</small></span>
         </label>
         <label class="po-pt">
           <input type="radio" name="po-paytype" value="cod" onchange="egSetPayType('cod')">
-          <span class="po-pt-card"><span class="po-pt-ico">📦</span><span class="po-pt-txt"><b>Cash on Delivery</b><small>Pay when it arrives</small></span></span>
+          <span class="po-pt-dot"></span><span class="po-pt-lbl">Cash on Delivery</span>
         </label>
       </div>
-      <div id="po-msg" class="po-msg"></div>
-      <p class="po-price-label">Total: <strong>₹2,499</strong></p>
       <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Confirm Order">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -2991,29 +2991,26 @@
 .po-submit .btn-label { font-size: clamp(13px, 1.6vw, 20px); left: 38%; }
 /* No-pay tag inside modals — centered under button text */
 @keyframes po-shake { 0%,100%{transform:translateX(0)} 20%,60%{transform:translateX(-6px)} 40%,80%{transform:translateX(6px)} }
-.po-paytype { display: flex; gap: 10px; margin: 2px 0 12px; }
-.po-pt { flex: 1; cursor: pointer; }
+.po-paytype { display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap; margin: 2px 0 12px; }
+.po-pt { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; }
 .po-pt input { position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none; }
-.po-pt-card {
-  display: flex; align-items: center; gap: 10px; height: 100%;
-  padding: 12px 12px; border-radius: 12px;
-  border: 1.5px solid rgba(205,158,223,.35);
-  background: rgba(205,158,223,.06);
-  transition: border-color .15s, background .15s, box-shadow .15s;
+.po-pt-dot {
+  width: 18px; height: 18px; border-radius: 50%; flex-shrink: 0;
+  border: 2px solid rgba(205,158,223,.55); position: relative;
+  transition: border-color .15s;
 }
-.po-pt input:checked + .po-pt-card {
-  border-color: #cd9edf; background: rgba(205,158,223,.20);
-  box-shadow: 0 0 14px rgba(170,89,200,.28);
+.po-pt input:checked + .po-pt-dot { border-color: #cd9edf; }
+.po-pt input:checked + .po-pt-dot::after {
+  content: ''; position: absolute; inset: 3px; border-radius: 50%;
+  background: #cd9edf; box-shadow: 0 0 8px rgba(205,158,223,.7);
 }
-.po-pt input:focus-visible + .po-pt-card { outline: 2px solid #cd9edf; outline-offset: 2px; }
-.po-pt-ico { font-size: 22px; line-height: 1; }
-.po-pt-txt { display: flex; flex-direction: column; line-height: 1.2; text-align: left; }
-.po-pt-txt b { font-size: 14px; color: #fff; }
-.po-pt-txt small { font-size: 11px; color: rgba(255,255,255,.6); }
-@media (max-width: 420px) {
-  .po-paytype { gap: 8px; }
-  .po-pt-card { padding: 10px 9px; gap: 7px; }
-  .po-pt-txt b { font-size: 12.5px; } .po-pt-txt small { font-size: 9.5px; } .po-pt-ico { font-size: 19px; }
+.po-pt input:focus-visible + .po-pt-dot { outline: 2px solid #cd9edf; outline-offset: 2px; }
+.po-pt-lbl { font-size: 14.5px; color: rgba(255,255,255,.9); line-height: 1.15; }
+.po-pt-lbl small { display: block; font-size: 10.5px; color: rgba(255,255,255,.5); letter-spacing: .3px; }
+.po-pt input:checked ~ .po-pt-lbl { color: #fff; }
+@media (max-width: 400px) {
+  .po-paytype { gap: 14px; }
+  .po-pt-lbl { font-size: 13px; }
 }
 .po-paid-banner {
   font-size: 14.5px; color: rgba(255,255,255,.92); text-align: center;
