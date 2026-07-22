@@ -2654,18 +2654,23 @@
         </div>
       </label>
       <p class="po-address-note">📦 That's all for now — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
-      <div id="po-msg" class="po-msg"></div>
-      <p class="po-price-label">Total: <strong>₹2,499</strong></p>
-      <div class="po-paytype" role="radiogroup" aria-label="How would you like to pay?">
-        <label class="po-pt">
-          <input type="radio" name="po-paytype" value="online" onchange="egSetPayType('online')">
-          <span class="po-pt-dot"></span><span class="po-pt-lbl">Pay Online <small>UPI · Card</small></span>
-        </label>
-        <label class="po-pt">
-          <input type="radio" name="po-paytype" value="cod" onchange="egSetPayType('cod')">
-          <span class="po-pt-dot"></span><span class="po-pt-lbl">Cash on Delivery</span>
-        </label>
+      <div class="po-checkout">
+        <div class="po-checkout-total"><span>Total</span><strong>₹2,499</strong></div>
+        <div class="po-checkout-pay">
+          <span class="po-pay-heading">Choose how to pay</span>
+          <div class="po-paytype" role="radiogroup" aria-label="How would you like to pay?">
+            <label class="po-pt">
+              <input type="radio" name="po-paytype" value="online" onchange="egSetPayType('online')">
+              <span class="po-pt-dot"></span><span class="po-pt-lbl">Pay Online<small>UPI · Card · Netbanking</small></span>
+            </label>
+            <label class="po-pt">
+              <input type="radio" name="po-paytype" value="cod" onchange="egSetPayType('cod')">
+              <span class="po-pt-dot"></span><span class="po-pt-lbl">Cash on Delivery<small>Pay when it arrives</small></span>
+            </label>
+          </div>
+        </div>
       </div>
+      <div id="po-msg" class="po-msg"></div>
       <button type="submit" class="btn-wrap btn-wrap-inline po-submit" aria-label="Confirm Order">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -2952,16 +2957,22 @@
 .po-phone-row input:last-child {
   flex: 1;
 }
-.po-price-label {
-  text-align: center;
-  font-size: 18px;
-  color: #cd9edf;
-  margin: 8px 0 4px;
-  letter-spacing: 0.02em;
+.po-checkout {
+  margin: 16px 0 6px;
+  border: 1px solid rgba(205,158,223,.3);
+  border-radius: 16px;
+  background: rgba(205,158,223,.05);
+  overflow: hidden;
 }
-.po-price-label strong {
-  font-size: 22px;
+.po-checkout-total {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 13px 18px;
+  border-bottom: 1px solid rgba(205,158,223,.18);
 }
+.po-checkout-total span { font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; color: rgba(255,255,255,.6); }
+.po-checkout-total strong { font-family: 'Norwester', sans-serif; font-weight: normal; font-size: 26px; color: #fff; line-height: 1; }
+.po-checkout-pay { padding: 14px 14px 16px; }
+.po-pay-heading { display: block; text-align: center; font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 12px; }
 .po-city-row {
   display: flex;
   gap: 10px;
@@ -2973,13 +2984,14 @@
   flex: 0 0 110px;
 }
 .po-msg {
-  min-height: 20px;
+  min-height: 0;
   font-family: 'Futura', sans-serif;
   font-size: 14px;
   text-align: center;
-  margin: 8px 0 12px;
+  margin: 0;
   color: rgba(255,255,255,0.7);
 }
+.po-msg:not(:empty) { margin: 10px 0 2px; }
 .po-msg.err { color: #ff6b6b; }
 .po-msg.success { color: #aa59c8; }
 .po-submit {
@@ -2991,8 +3003,15 @@
 .po-submit .btn-label { font-size: clamp(13px, 1.6vw, 20px); left: 38%; }
 /* No-pay tag inside modals — centered under button text */
 @keyframes po-shake { 0%,100%{transform:translateX(0)} 20%,60%{transform:translateX(-6px)} 40%,80%{transform:translateX(6px)} }
-.po-paytype { display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap; margin: 2px 0 12px; }
-.po-pt { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; }
+.po-paytype { display: flex; gap: 10px; }
+.po-pt {
+  flex: 1; display: flex; align-items: center; gap: 10px; cursor: pointer;
+  padding: 11px 12px; border-radius: 11px;
+  border: 1px solid rgba(205,158,223,.22);
+  background: rgba(255,255,255,.02);
+  transition: border-color .15s, background .15s;
+}
+.po-pt:has(input:checked) { border-color: #cd9edf; background: rgba(205,158,223,.14); }
 .po-pt input { position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none; }
 .po-pt-dot {
   width: 18px; height: 18px; border-radius: 50%; flex-shrink: 0;
@@ -3005,12 +3024,12 @@
   background: #cd9edf; box-shadow: 0 0 8px rgba(205,158,223,.7);
 }
 .po-pt input:focus-visible + .po-pt-dot { outline: 2px solid #cd9edf; outline-offset: 2px; }
-.po-pt-lbl { font-size: 14.5px; color: rgba(255,255,255,.9); line-height: 1.15; }
-.po-pt-lbl small { display: block; font-size: 10.5px; color: rgba(255,255,255,.5); letter-spacing: .3px; }
-.po-pt input:checked ~ .po-pt-lbl { color: #fff; }
-@media (max-width: 400px) {
-  .po-paytype { gap: 14px; }
-  .po-pt-lbl { font-size: 13px; }
+.po-pt-lbl { font-size: 13.5px; color: rgba(255,255,255,.9); line-height: 1.2; text-align: left; }
+.po-pt-lbl small { display: block; font-size: 10px; color: rgba(255,255,255,.5); letter-spacing: .2px; margin-top: 1px; }
+.po-pt:has(input:checked) .po-pt-lbl { color: #fff; }
+@media (max-width: 380px) {
+  .po-pt { padding: 10px 9px; gap: 8px; }
+  .po-pt-lbl { font-size: 12.5px; } .po-pt-lbl small { font-size: 9px; }
 }
 .po-paid-banner {
   font-size: 14.5px; color: rgba(255,255,255,.92); text-align: center;
