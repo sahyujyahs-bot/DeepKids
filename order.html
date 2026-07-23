@@ -465,6 +465,59 @@
       border-radius: 10px; padding: 9px 12px; margin: 2px 0 14px;
     }
 
+    /* Payment choice (Pay Online / Cash on Delivery) */
+    .co-pay-heading { display: block; text-align: center; font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 11px; }
+    .co-paytype { display: flex; gap: 10px; margin-bottom: 16px; }
+    .co-pt {
+      flex: 1; display: flex; align-items: center; gap: 10px; cursor: pointer;
+      padding: 12px 13px; border-radius: 12px;
+      border: 1px solid rgba(var(--purple-rgb), .3); background: rgba(255,255,255,.02);
+      transition: border-color .15s, background .15s;
+    }
+    .co-pt:has(input:checked) { border-color: var(--lilac); background: rgba(var(--purple-rgb), .14); }
+    .co-pt input { position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none; }
+    .co-pt-dot {
+      width: 18px; height: 18px; border-radius: 50%; flex-shrink: 0;
+      border: 2px solid rgba(var(--purple-rgb), .55); position: relative; transition: border-color .15s;
+    }
+    .co-pt input:checked + .co-pt-dot { border-color: var(--lilac); }
+    .co-pt input:checked + .co-pt-dot::after {
+      content: ''; position: absolute; inset: 3px; border-radius: 50%;
+      background: var(--lilac); box-shadow: 0 0 8px rgba(var(--purple-rgb), .7);
+    }
+    .co-pt input:focus-visible + .co-pt-dot { outline: 2px solid var(--lilac); outline-offset: 2px; }
+    .co-pt-lbl { font-size: 14px; color: rgba(255,255,255,.9); line-height: 1.2; text-align: left; }
+    .co-pt-lbl small { display: block; font-size: 11px; color: rgba(255,255,255,.5); margin-top: 2px; }
+    .co-pt:has(input:checked) .co-pt-lbl { color: #fff; }
+    @keyframes co-shake { 0%,100%{transform:translateX(0)} 20%,60%{transform:translateX(-6px)} 40%,80%{transform:translateX(6px)} }
+
+    /* "Why it's worth ₹4,999" link + popover */
+    .co-why-row { text-align: center; margin: 0 0 6px; }
+    .co-why {
+      font-family: var(--font-body); font-size: 12.5px; letter-spacing: .2px;
+      color: var(--lilac); background: none; border: none;
+      border-bottom: 1px dashed rgba(205,158,223,.6); padding: 0 0 1px; cursor: pointer; line-height: 1.3;
+    }
+    .co-why:hover { color: #fff; border-bottom-color: #fff; }
+    .co-why-pop {
+      position: fixed; left: 50%; top: 50%; transform: translate(-50%, -50%);
+      width: min(340px, 88vw); z-index: 100000;
+      background: rgba(20,10,38,.99); border: 1px solid rgba(205,158,223,.5);
+      border-radius: 16px; padding: 18px 18px 16px;
+      box-shadow: 0 20px 60px rgba(0,0,0,.7), 0 0 24px rgba(170,89,200,.22), 0 0 0 100vmax rgba(0,0,0,.55);
+      animation: co-why-in .18s ease;
+    }
+    @keyframes co-why-in { from { opacity: 0; transform: translate(-50%, -46%); } to { opacity: 1; transform: translate(-50%, -50%); } }
+    .co-why-close { position: absolute; top: 8px; right: 10px; background: none; border: none; color: rgba(255,255,255,.6); font-size: 22px; line-height: 1; cursor: pointer; }
+    .co-why-close:hover { color: #fff; }
+    .co-why-title { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px; font-size: 18px; color: #fff; margin-bottom: 4px; }
+    .co-why-lead { font-size: 12px; color: rgba(255,255,255,.62); margin-bottom: 11px; line-height: 1.4; }
+    .co-why-list { list-style: none; margin: 0; padding: 0; }
+    .co-why-list li { display: flex; align-items: center; gap: 9px; padding: 5px 0; font-size: 13.5px; color: rgba(255,255,255,.9); }
+    .co-why-list li span { font-size: 16px; flex-shrink: 0; }
+    .co-why-more { display: inline-block; margin-top: 10px; font-size: 12.5px; color: var(--lilac); text-decoration: none; border-bottom: 1px dashed rgba(205,158,223,.5); }
+    .co-why-more:hover { color: #fff; }
+
     /* FAQ */
     .faq { max-width: 720px; margin: 0 auto; }
     .faq details {
@@ -623,6 +676,22 @@
         <span class="price-was">₹4,999</span>
         <span class="price-off">50% OFF · PRICE LOCKS TODAY</span>
       </div>
+      <div class="co-why-row">
+        <button type="button" class="co-why" aria-label="Why it's worth ₹4,999" onclick="coToggleWhy(event)">Why it's worth ₹4,999?</button>
+      </div>
+      <div class="co-why-pop" id="co-why-pop" hidden>
+        <button type="button" class="co-why-close" aria-label="Close" onclick="coToggleWhy(event)">×</button>
+        <div class="co-why-title">Why it's worth ₹4,999</div>
+        <div class="co-why-lead">You pay ₹2,499 today — here's the full value behind it:</div>
+        <ul class="co-why-list">
+          <li><span>🏎️</span> 11+ real play items included</li>
+          <li><span>🛠️</span> Premium materials, built to last</li>
+          <li><span>🎨</span> Original hand-drawn artwork</li>
+          <li><span>🔬</span> Hundreds of hours of research</li>
+          <li><span>📦</span> Small-batch, not mass-produced</li>
+        </ul>
+        <a class="co-why-more" href="/#s-worth">See the full breakdown →</a>
+      </div>
       <form id="co-form" novalidate>
         <div id="co-step1">
           <div class="co-field">
@@ -636,9 +705,20 @@
               <input id="co-phone" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="98765 43210"/>
             </div>
           </div>
-          <p class="co-note">📦 That's all before payment — you'll add your <b>delivery address right after</b> (takes 30 seconds).</p>
+          <p class="co-note">📦 That's all for now — you'll add your <b>delivery address right after</b> (takes 30 seconds).</p>
+          <span class="co-pay-heading">Choose how to pay</span>
+          <div class="co-paytype" role="radiogroup" aria-label="How would you like to pay?">
+            <label class="co-pt">
+              <input type="radio" name="co-paytype" value="online" onchange="coSetPayType('online')">
+              <span class="co-pt-dot"></span><span class="co-pt-lbl">Pay Online<small>UPI · Card · Netbanking</small></span>
+            </label>
+            <label class="co-pt">
+              <input type="radio" name="co-paytype" value="cod" onchange="coSetPayType('cod')">
+              <span class="co-pt-dot"></span><span class="co-pt-lbl">Cash on Delivery<small>Pay when it arrives</small></span>
+            </label>
+          </div>
           <div class="co-actions">
-            <button type="submit" class="btn-wrap" id="co-pay" aria-label="Pay now with Razorpay">
+            <button type="submit" class="btn-wrap" id="co-pay" aria-label="Confirm order">
     <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dkg-pay" x1="0" y1="0" x2="0" y2="1">
@@ -656,12 +736,12 @@
       <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
       <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
     </svg>
-    <span class="btn-label">Pay Now</span>
+    <span class="btn-label">Confirm Order</span>
   </button>
           </div>
         </div>
         <div id="co-after" style="display:none">
-          <p class="co-paid">🎉 <b>Payment received!</b> One last thing — where should we ship it?</p>
+          <p class="co-paid" id="co-paid-banner">🎉 <b>Payment received!</b> One last thing — where should we ship it?</p>
           <div class="co-field">
             <label for="co-address">Address</label>
             <input id="co-address" type="text" autocomplete="street-address" placeholder="House / street / area"/>
@@ -688,7 +768,7 @@
     <span class="sec-kicker rv">Before you ask</span>
     <h2 class="sec-h rv" style="font-size:clamp(22px,3.6vw,30px);">Honest Answers</h2>
     <div class="faq rv">
-      <details><summary>Why ₹2,499?</summary><p>That's the 50% launch price — retail will be ₹4,999. The box is heavy: spiral board, 13 Force Cards, 35+ Physical Challenge Cards, tokens and science tiles, designed and made in India.</p></details>
+      <details><summary>Is it really worth ₹4,999?</summary><p>Yes — that's the genuine retail price, not an inflated one. The box comes with 11+ real play objects, premium materials built to last, 100% original hand-drawn artwork, and hundreds of hours of research behind the science. It's made in small batches, not mass-produced. ₹2,499 is simply the 50% launch price while we're getting the first print run out.</p></details>
       <details><summary>When does it ship?</summary><p>Delivered to your door within 3 days of ordering, with WhatsApp updates at every step.</p></details>
       <details><summary>What if I change my mind?</summary><p>Fair, no-games refunds — see the <a href="/refund-policy">refund policy</a>. Your money isn't trapped.</p></details>
       <details><summary>Is payment safe?</summary><p>Payments run through Razorpay (UPI, cards, netbanking). Card details never touch our servers, and every payment is verified server-side before it counts.</p></details>
@@ -779,6 +859,8 @@
     var leadSent = false, formStarted = false, formFilled = false, cartFired = false;
     var custName = '', fullNumber = '', fullAddress = '';
     var paidOrder = null;
+    var orderMode = '';   // 'online' | 'cod' — chosen payment method
+    var codPending = null; // { name, phone } captured before the COD address step
 
     /* ── Shared helpers (mirrors the homepage flow exactly) ── */
     var razorpayPromise = null;
@@ -876,12 +958,44 @@
 
     /* ── Pay ── */
     var payBtn = document.getElementById('co-pay');
+    function payLabelText() { return orderMode === 'online' ? 'Pay Now' : 'Confirm Order'; }
     function setPayBusy(b) {
       if (!payBtn) return;
       payBtn.style.pointerEvents = b ? 'none' : '';
       payBtn.style.opacity = b ? '.6' : '';
       var l = payBtn.querySelector('.btn-label');
-      if (l) l.textContent = b ? 'Loading…' : 'Pay Now';
+      if (l) l.textContent = b ? 'Loading…' : payLabelText();
+    }
+
+    /* Payment-method choice: swaps the button label (Pay Now for online,
+       Confirm Order for COD / before a choice is made). */
+    window.coSetPayType = function(type) {
+      orderMode = type;
+      var l = payBtn && payBtn.querySelector('.btn-label');
+      if (l) l.textContent = payLabelText();
+      if (payBtn) payBtn.setAttribute('aria-label', orderMode === 'online' ? 'Pay now with Razorpay' : 'Confirm order');
+    };
+
+    /* "Why it's worth ₹4,999" popover toggle */
+    window.coToggleWhy = function(e) {
+      if (e) { e.preventDefault(); e.stopPropagation(); }
+      var pop = document.getElementById('co-why-pop');
+      if (!pop) return;
+      if (pop.hasAttribute('hidden')) {
+        pop.removeAttribute('hidden');
+        egGtag('event', 'why_price_open', { event_category: 'engagement', event_label: 'order_lp' });
+        setTimeout(function(){ document.addEventListener('click', coCloseWhyOutside, true); }, 0);
+      } else {
+        pop.setAttribute('hidden', '');
+        document.removeEventListener('click', coCloseWhyOutside, true);
+      }
+    };
+    function coCloseWhyOutside(e) {
+      var pop = document.getElementById('co-why-pop');
+      if (pop && !pop.contains(e.target) && !(e.target.closest && e.target.closest('.co-why'))) {
+        pop.setAttribute('hidden', '');
+        document.removeEventListener('click', coCloseWhyOutside, true);
+      }
     }
     form.addEventListener('submit', function(e) {
       e.preventDefault();
@@ -891,13 +1005,37 @@
       if (!custName) { err('Please enter your name.'); return; }
       if (!cc.match(/^\+?\d{1,4}$/)) { err('Please enter a valid country code (e.g. +91).'); return; }
       if (digits.length < 7 || digits.length > 15) { err('Please enter a valid phone number.'); return; }
+      if (!orderMode) {
+        err('Please choose Pay Online or Cash on Delivery.');
+        var ptEl = document.querySelector('.co-paytype');
+        if (ptEl) { ptEl.style.animation = 'none'; void ptEl.offsetWidth; ptEl.style.animation = 'co-shake .4s'; }
+        return;
+      }
       fullNumber = (cc.indexOf('+') === 0 ? cc : '+' + cc) + digits;
       fullAddress = ''; // confirmed on WhatsApp after payment
       leadSent = false;
       saveDraft();
 
-      egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'order_lp', value: 2499, currency: 'INR' });
       egGtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
+
+      // ── Cash on Delivery: no Razorpay, straight to address collection ──
+      if (orderMode === 'cod') {
+        egGtag('event', 'cod_confirm_click', { event_category: 'conversion', event_label: 'order_lp_cod' });
+        egFbq('trackCustom', 'CODConfirm', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+        codPending = { name: custName, phone: fullNumber };
+        var codBanner = document.getElementById('co-paid-banner');
+        if (codBanner) codBanner.innerHTML = '📦 <b>Order confirmed!</b> Where should we ship it? You\'ll pay <b>₹2,499</b> in cash when it arrives.';
+        var codSaveBtn = document.getElementById('co-save-address');
+        if (codSaveBtn) codSaveBtn.textContent = 'Place Order →';
+        document.getElementById('co-step1').style.display = 'none';
+        document.getElementById('co-after').style.display = 'block';
+        msg.textContent = ''; msg.className = 'co-msg';
+        var codAddr = document.getElementById('co-address'); if (codAddr) codAddr.focus();
+        return;
+      }
+
+      // ── Pay Online: existing Razorpay flow ──
+      egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'order_lp', value: 2499, currency: 'INR' });
       egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
       var icEventId = 'ic_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
       egFbq('track', 'InitiateCheckout', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: icEventId });
@@ -1000,22 +1138,45 @@
       rzp.open();
     }
 
-    /* ── Post-payment address save ── */
+    /* ── Address save — finishes a paid order, or PLACES a COD order ── */
     document.getElementById('co-save-address').addEventListener('click', function() {
-      if (!paidOrder) return;
+      var o = paidOrder || codPending;
+      if (!o) return;
       var address = val('co-address').trim(), city = val('co-city').trim(),
           pincode = val('co-pincode').trim(), state = val('co-state').trim();
       if (!address || !city || !pincode || !state) { err('Please fill in all address fields.'); return; }
       fullAddress = address + ', ' + city + ' - ' + pincode + ', ' + state;
-      note('Saving…');
+      var isCod = (orderMode === 'cod');
+      note(isCod ? 'Placing your order…' : 'Saving…');
       fetch('/api/save-draft', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ phone: paidOrder.phone, cc: '', rawPhone: (paidOrder.phone || '').replace(/\D/g, ''),
-          name: paidOrder.name, address: address, city: city, pincode: pincode, state: state })
+        body: JSON.stringify({ phone: o.phone, cc: '', rawPhone: (o.phone || '').replace(/\D/g, ''),
+          name: o.name, address: address, city: city, pincode: pincode, state: state })
       }).catch(function(){});
-      var params = new URLSearchParams({ name: paidOrder.name, phone: paidOrder.phone, address: fullAddress, payment_id: paidOrder.paymentId });
-      withTimeout(sendLeadData(paidOrder.name, paidOrder.phone, fullAddress, 'Address Provided', paidOrder.paymentId), 4000).then(function() {
+
+      var notifyPromise, paymentId, status;
+      if (isCod) {
+        // COD order is placed at this point — fire the conversion events now.
+        paymentId = 'COD-' + Date.now();
+        status = 'COD Order Placed';
+        leadSent = true;
+        egGtag('event', 'cod_order_placed', { event_category: 'conversion', event_label: 'order_lp' });
+        egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', payment_type: 'cod', items: [{ item_name: 'EscapeGravity', price: 2499, quantity: 1 }] });
+        egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+        egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity COD' });
+        egFbq('trackCustom', 'CODOrderPlaced', { value: 2499, currency: 'INR' });
+        notifyPromise = Promise.allSettled([
+          sendLeadData(o.name, o.phone, fullAddress, status, paymentId),
+          sendWhatsAppMessage('order_complete', o.phone, [o.name, paymentId])
+        ]);
+      } else {
+        paymentId = o.paymentId;
+        status = 'Address Provided';
+        notifyPromise = sendLeadData(o.name, o.phone, fullAddress, status, o.paymentId);
+      }
+      var params = new URLSearchParams({ name: o.name, phone: o.phone, address: fullAddress, payment_id: paymentId || '', method: orderMode });
+      withTimeout(notifyPromise, 4000).then(function() {
         window.location.href = '/order-confirmed?' + params.toString();
       });
     });

@@ -1121,7 +1121,7 @@
   <a href="/how-to-play">How To Play</a>
   <a href="#s2" onclick="egCloseMenu()">The Game</a>
   <a href="#s4-science" onclick="egCloseMenu()">Science</a>
-  <a href="#s-worth" onclick="egCloseMenu()">Why ₹2,499?</a>
+  <a href="#s-worth" onclick="egCloseMenu()">Why it's worth ₹4,999</a>
 </div>
 <script>
   /* Mobile nav menu toggle (shared behaviour name used on all pages) */
@@ -2682,12 +2682,13 @@
       <p class="po-address-note">📦 That's all for now — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
       <div class="po-checkout">
         <div class="po-checkout-total">
-          <span>Total <button type="button" class="po-why" aria-label="Why ₹2,499?" onclick="egToggleWhy(event)">Why ₹2,499?</button></span>
-          <strong>₹2,499</strong>
+          <span>Total <button type="button" class="po-why" aria-label="Why it's worth ₹4,999" onclick="egToggleWhy(event)">Why it's worth ₹4,999?</button></span>
+          <strong><s class="po-was">₹4,999</s> ₹2,499</strong>
         </div>
         <div class="po-why-pop" id="po-why-pop" hidden>
           <button type="button" class="po-why-close" aria-label="Close" onclick="egToggleWhy(event)">×</button>
-          <div class="po-why-title">Why ₹2,499?</div>
+          <div class="po-why-title">Why it's worth ₹4,999</div>
+          <div class="po-why-lead">You pay ₹2,499 today — here's the full value behind it:</div>
           <ul class="po-why-list">
             <li><span>🏎️</span> 11+ real play items included</li>
             <li><span>🛠️</span> Premium materials, built to last</li>
@@ -3012,6 +3013,7 @@
 }
 .po-checkout-total span { font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; color: rgba(255,255,255,.6); }
 .po-checkout-total strong { font-family: 'Norwester', sans-serif; font-weight: normal; font-size: 26px; color: #fff; line-height: 1; }
+.po-checkout-total .po-was { font-size: 15px; color: rgba(255,255,255,.42); text-decoration: line-through; margin-right: 4px; }
 .po-checkout-pay { padding: 14px 14px 16px; }
 .po-checkout-total > span { display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .po-why {
@@ -3036,7 +3038,11 @@
 .po-why-close:hover { color: #fff; }
 .po-why-title {
   font-family: 'Norwester', sans-serif; font-variant: small-caps; letter-spacing: 1px;
-  font-size: 17px; color: #fff; margin-bottom: 10px;
+  font-size: 17px; color: #fff; margin-bottom: 4px;
+}
+.po-why-lead {
+  font-family: 'Futura', sans-serif; font-size: 12px; color: rgba(255,255,255,.62);
+  margin-bottom: 11px; line-height: 1.4;
 }
 .po-why-list { list-style: none; margin: 0; padding: 0; }
 .po-why-list li {
@@ -10722,8 +10728,8 @@
 </style>
 <section id="s-worth" class="eg-section">
   <div class="worth-wrap">
-    <h2 class="page-h2 eg-fade-in worth-head">Why <em style="color:#aa59c8;font-style:normal;">₹2,499</em>?</h2>
-    <p class="worth-sub eg-fade-in">A fair question. Here's exactly where your money goes — and why this isn't another mass-made box.</p>
+    <h2 class="page-h2 eg-fade-in worth-head">Why it's a <em style="color:#aa59c8;font-style:normal;">₹4,999</em> game</h2>
+    <p class="worth-sub eg-fade-in">You're getting it for <b style="color:#fff;">₹2,499</b> during launch — half price. Here's what makes it genuinely worth full price, so you know that ₹4,999 isn't a made-up number.</p>
     <div class="worth-list">
       <div class="worth-row eg-fade-in"><div class="worth-ico">🏎️</div><div class="worth-txt"><b>Comes with 11+ real play objects</b><span>Toy cars, clay, a frisbee, balls &amp; more — every physical challenge ready to play, right out of the box.</span></div></div>
       <div class="worth-row eg-fade-in"><div class="worth-ico">🛠️</div><div class="worth-txt"><b>Premium materials &amp; finish</b><span>Built to survive years of eager little hands — not a flimsy box that tears after a week.</span></div></div>
@@ -10731,7 +10737,7 @@
       <div class="worth-row eg-fade-in"><div class="worth-ico">🔬</div><div class="worth-txt"><b>Hundreds of hours of research</b><span>Each concept checked, argued over, and refined — so what your child learns is genuinely right, not half-baked.</span></div></div>
       <div class="worth-row eg-fade-in"><div class="worth-ico">📦</div><div class="worth-txt"><b>Made in small batches, not mass-produced</b><span>Real quality costs more per box, and we won't cut it. You're paying for care, not a factory line.</span></div></div>
     </div>
-    <p class="worth-note eg-fade-in">Made with care, not on an assembly line.</p>
+    <p class="worth-note eg-fade-in">Made with care, not on an assembly line. Worth ₹4,999 — yours for ₹2,499 today.</p>
   </div>
 </section>
 
