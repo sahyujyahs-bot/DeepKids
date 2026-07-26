@@ -155,7 +155,7 @@
     .hero-sub { font-size: clamp(15px, 2.1vw, 19px); color: var(--ink); max-width: 640px; margin: 18px auto 0; }
 
     /* Section shell */
-    section { padding: clamp(38px, 6vh, 68px) 0; }
+    section { padding: clamp(30px, 4.4vh, 52px) 0; }
     .sec-kicker { display: block; text-align: center; font-size: clamp(11px, 1.3vw, 12.5px); letter-spacing: 4px; text-transform: uppercase; color: var(--gold); margin-bottom: 10px; }
     .sec-h { text-align: center; font-size: clamp(25px, 4.6vw, 40px); margin-bottom: clamp(24px, 4vh, 42px); text-shadow: 0 0 26px rgba(var(--purple-rgb), .45); }
     .sec-h em { font-style: normal; color: var(--lilac); }
@@ -172,7 +172,7 @@
     .pillar p { font-size: 14.5px; color: var(--ink-dim); }
 
     /* Sample cards */
-    .cards-row { display: flex; gap: clamp(16px, 4vw, 34px); justify-content: center; flex-wrap: wrap; }
+    .cards-row { display: flex; gap: clamp(26px, 6vw, 40px); justify-content: center; flex-wrap: wrap; }
     .card-fig { width: min(330px, 84vw); }
     .flip { position: relative; aspect-ratio: 760 / 1027; perspective: 1400px; cursor: pointer; outline: none; }
     .flip-inner { position: absolute; inset: 0; transform-style: preserve-3d; transition: transform .65s cubic-bezier(.2,.75,.2,1); }
@@ -217,15 +217,26 @@
     }
     .su-field input:focus { border-color: var(--purple); box-shadow: 0 0 0 3px rgba(var(--purple-rgb), .2); }
     .su-row { display: grid; grid-template-columns: 92px 1fr; gap: 10px; }
-    .su-btn {
-      display: block; width: 100%; cursor: pointer; margin-top: 4px;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px; font-size: 18px; color: #fff;
-      background: linear-gradient(180deg, #c46be0, #8a3aa8);
-      border: 1px solid rgba(255,255,255,.35); border-radius: 999px; padding: 14px 18px;
-      box-shadow: 0 0 20px rgba(var(--purple-rgb), .4), inset 0 1px 0 rgba(255,255,255,.3);
-      transition: transform .15s ease;
+    /* DeepKids button — same as the rest of the site */
+    .su-actions { text-align: center; margin-top: 8px; }
+    .btn-wrap {
+      position: relative; display: inline-block; cursor: pointer; text-decoration: none;
+      background: none; border: none; padding: 0; font: inherit;
+      animation: btn-bob 3.5s ease-in-out infinite;
+      filter: drop-shadow(0 0 14px rgba(var(--purple-rgb),.35)) drop-shadow(0 4px 12px rgba(0,0,0,.4));
+      transition: filter .3s ease, transform .3s ease;
     }
-    .su-btn:hover { transform: translateY(-2px); }
+    .btn-wrap:hover { transform: translateY(-3px) scale(1.04); animation: none;
+      filter: drop-shadow(0 0 22px rgba(var(--purple-rgb),.6)) drop-shadow(0 6px 18px rgba(0,0,0,.5)) brightness(1.1); }
+    .btn-wrap:active { transform: scale(.97); animation: none; }
+    @keyframes btn-bob { 0%,100% { transform: scale(1) translateY(0); } 50% { transform: scale(1.03) translateY(-4px); } }
+    .btn-svg { display: block; width: clamp(210px, 62vw, 290px); height: auto; overflow: visible; }
+    .btn-label {
+      position: absolute; top: 50%; left: 38%; transform: translate(-50%,-50%);
+      font-family: var(--font-head); font-variant: small-caps; font-size: clamp(16px, 4.6vw, 22px);
+      letter-spacing: clamp(1px,.5vw,4px); color: #fff; text-shadow: 1px 1px 3px rgba(0,0,0,.7);
+      pointer-events: none; white-space: nowrap;
+    }
     .su-msg { min-height: 20px; text-align: center; font-size: 14px; margin-top: 12px; color: var(--ink); }
     .su-msg.err { color: #ff8a8a; }
     .su-note { text-align: center; font-size: 12px; color: var(--ink-dim); margin-top: 12px; }
@@ -272,11 +283,20 @@
       opacity: 0; transform: translateX(8px); pointer-events: none;
       transition: opacity .4s ease, transform .4s ease;
     }
-    .eg-wa-cue.visible { opacity: 1; transform: none; pointer-events: auto; }
+    .eg-wa-cue.visible { opacity: 1; transform: none; pointer-events: auto; animation: eg-cue-dance 3.6s ease-in-out .45s infinite; }
+    @keyframes eg-cue-dance {
+      0% { transform: rotate(0) scale(1); }
+      4% { transform: rotate(-6deg) scale(1.05); }
+      9% { transform: rotate(6deg) scale(1.05); }
+      14% { transform: rotate(-4deg) scale(1.02); }
+      19% { transform: rotate(4deg) scale(1.02); }
+      24% { transform: rotate(0) scale(1); }
+      100% { transform: rotate(0) scale(1); }
+    }
     .eg-wa-cue::after { content: ''; position: absolute; right: -6px; top: 50%; transform: translateY(-50%); border: 6px solid transparent; border-left-color: #fff; border-right: 0; }
     .eg-wa-cue b { color: var(--plum); }
     @media (max-width: 760px) { .eg-wa { bottom: 20px; right: 14px; } .eg-wa-cue { bottom: 32px; right: 80px; } }
-    @media (prefers-reduced-motion: reduce) { .eg-wa { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .eg-wa, .eg-wa-cue.visible { animation: none; } }
   </style>
 </head>
 <body>
@@ -294,6 +314,13 @@
     <div class="brand rv rv2">SCI<span class="brand-dot">.</span></div>
     <h2 class="sub-name rv rv2">Scientist Trading Cards</h2>
     <p class="hero-sub rv rv3">Not just who discovered what. Each card takes one scientist, the <b>fundamental truth</b> their work uncovered, and shows you <b>where that truth is hiding in everyday life</b> — so science becomes something your child can spot, touch, and feel.</p>
+  </section>
+
+  <!-- ═══ COLLECTIBLE HOOK ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">A new kind of collectible</span>
+    <h2 class="sec-h rv">Pokémon Has Cards. <em>Why Not Scientists?</em></h2>
+    <p class="lede rv">Kids collect Pokémon. They collect footballers, cricketers, superheroes. So why not the real people who cracked how the universe actually works? <b>SCI. is a collectible deck of scientist trading cards</b> — chase them, swap them, complete the set. Except every card is a real human who genuinely changed the world.</p>
   </section>
 
   <!-- ═══ THE CONCEPT ═══ -->
@@ -354,7 +381,36 @@
         <figcaption class="card-cap">Emmy Noether<small>Why symmetry is the reason energy is conserved</small></figcaption>
       </figure>
     </div>
-    <p class="lede rv" style="margin-top:34px;">SCI. shines a light on the scientists history under-credited — across centuries, countries and genders. <b>Underdogs, bias-free.</b> From ancient India to modern Germany, the people who found the truths we live by.</p>
+  </section>
+
+  <!-- ═══ RARITY ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">Common to legendary</span>
+    <h2 class="sec-h rv">Every Card Has A <em>Rarity</em></h2>
+    <p class="lede rv">See the glowing world behind each scientist — a distant planet, a blazing sun, a whole galaxy? That's not just art. <b>The cosmic body behind the portrait marks how rare the card is.</b> The brighter it burns, the harder it is to pull — and the more collectors will want it. Some scientists are common finds. A few are legendary.</p>
+  </section>
+
+  <!-- ═══ WAYS TO PLAY ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">Not just a collection</span>
+    <h2 class="sec-h rv">More Than One <em>Way To Play</em></h2>
+    <div class="pillars">
+      <div class="pillar rv"><div class="ico">⏳</div><h3>Era</h3><p>Line your scientists up across history — whose breakthrough came first, and who stood on whose shoulders?</p></div>
+      <div class="pillar rv rv2"><div class="ico">🔗</div><h3>Connections</h3><p>The back of every card is a web of who influenced whom. Link the scientists who inspired each other into a chain.</p></div>
+      <div class="pillar rv"><div class="ico">🏆</div><h3>Best Total Score</h3><p>Add up each card's stats — the highest combined score takes the round.</p></div>
+      <div class="pillar rv rv2"><div class="ico">🎯</div><h3>Best Selected Score</h3><p>Pick your strongest hand and go head-to-head on the stats you choose.</p></div>
+    </div>
+  </section>
+
+  <!-- ═══ ART & RESEARCH ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">Made by hand, backed by research</span>
+    <h2 class="sec-h rv">Hand-Drawn. <em>Deeply Researched.</em></h2>
+    <div class="pillars">
+      <div class="pillar rv"><div class="ico">🎨</div><h3>100% Hand-Drawn</h3><p>Every portrait and border is original hand-drawn art — no AI, no stock, no shortcuts. Each card is its own tiny painting.</p></div>
+      <div class="pillar rv rv2"><div class="ico">📚</div><h3>Deeply Researched</h3><p>Every fact, every fundamental truth, every real-life example is checked and re-checked — so what your child learns is genuinely right.</p></div>
+      <div class="pillar rv"><div class="ico">🫡</div><h3>Giants &amp; Underdogs</h3><p>The famous names <em>and</em> the forgotten ones — the sidelined, the uncredited, the written out of the textbook. Bias-free, across centuries, countries and genders.</p></div>
+    </div>
   </section>
 
   <!-- ═══ SIGNUP ═══ -->
@@ -380,7 +436,28 @@
               <input id="su-phone" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="98765 43210"/>
             </div>
           </div>
-          <button type="submit" class="su-btn" id="su-btn">Notify Me + Claim My Discount →</button>
+          <div class="su-actions">
+            <button type="submit" class="btn-wrap" id="su-btn" aria-label="Get my launch discount">
+              <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                  <linearGradient id="dkg-su" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
+                  </linearGradient>
+                  <linearGradient id="dkh-su" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+                  </linearGradient>
+                </defs>
+                <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-su)"/>
+                <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+                <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+                <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-su)"/>
+                <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+                <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+                <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+              <span class="btn-label">Get Discount</span>
+            </button>
+          </div>
           <div class="su-msg" id="su-msg" role="status"></div>
           <p class="su-note">🔒 Just to hold your launch discount — no spam, and we'll only message you about SCI.</p>
         </form>
