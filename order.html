@@ -465,6 +465,19 @@
       border-radius: 10px; padding: 9px 12px; margin: 2px 0 14px;
     }
 
+    /* Coupon */
+    .co-coupon { display: flex; gap: 8px; margin: 0 0 6px; }
+    .co-coupon input { flex: 1; min-width: 0; padding: 11px 13px; font-family: var(--font-body); font-size: 14px; color: #fff; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.2); border-radius: 11px; outline: none; text-transform: uppercase; }
+    .co-coupon input::placeholder { text-transform: none; color: rgba(255,255,255,.4); }
+    .co-coupon input:focus { border-color: var(--lilac); box-shadow: 0 0 0 3px rgba(var(--purple-rgb), .18); }
+    .co-coupon input:disabled { opacity: .7; }
+    .co-coupon-btn { flex-shrink: 0; font-family: var(--font-body); font-size: 12.5px; letter-spacing: 1px; text-transform: uppercase; color: #fff; background: rgba(var(--purple-rgb), .3); border: 1px solid rgba(205,158,223,.5); border-radius: 11px; padding: 0 18px; cursor: pointer; transition: background .15s; }
+    .co-coupon-btn:hover { background: rgba(var(--purple-rgb), .5); }
+    .co-coupon-msg { font-family: var(--font-body); font-size: 12.5px; min-height: 0; text-align: center; }
+    .co-coupon-msg.ok { color: #7ee08a; }
+    .co-coupon-msg.err { color: #ff8a8a; }
+    .co-coupon-msg:not(:empty) { margin-bottom: 10px; }
+
     /* Payment choice (Pay Online / Cash on Delivery) */
     .co-pay-heading { display: block; text-align: center; font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 11px; }
     .co-paytype { display: flex; gap: 10px; margin-bottom: 16px; }
@@ -672,7 +685,7 @@
     <h2 class="sec-h rv" style="margin-bottom:22px;">Order <em>Yours</em></h2>
     <div class="co-panel rv" id="co-panel">
       <div class="co-price">
-        <span class="price-now">₹2,499</span>
+        <span class="price-now" id="co-price-now">₹2,499</span>
         <span class="price-was">₹4,999</span>
         <span class="price-off">50% OFF · PRICE LOCKS TODAY</span>
       </div>
@@ -706,6 +719,11 @@
             </div>
           </div>
           <p class="co-note">📦 That's all for now — you'll add your <b>delivery address right after</b> (takes 30 seconds).</p>
+          <div class="co-coupon">
+            <input type="text" id="co-coupon-input" placeholder="Coupon code" autocomplete="off" aria-label="Coupon code" onkeydown="if(event.key==='Enter'){event.preventDefault();coApplyCoupon();}">
+            <button type="button" class="co-coupon-btn" id="co-coupon-btn" onclick="coApplyCoupon()">Apply</button>
+          </div>
+          <div class="co-coupon-msg" id="co-coupon-msg" role="status"></div>
           <span class="co-pay-heading">Choose how to pay</span>
           <div class="co-paytype" role="radiogroup" aria-label="How would you like to pay?">
             <label class="co-pt">
@@ -862,6 +880,31 @@
     var orderMode = '';   // 'online' | 'cod' — chosen payment method
     var codPending = null; // { name, phone } captured before the COD address step
 
+    /* ── Coupon (re-validated server-side in /api/create-order) ── */
+    var couponCode = '', couponDiscount = 0; // paise
+    var COUPONS = { 'EG200': 20000 }, BASE_PAISE = 249900;
+    function finalPaise() { return Math.max(BASE_PAISE - couponDiscount, 100); }
+    function finalRupees() { return finalPaise() / 100; }
+    function finalStr() { return '₹' + finalRupees().toLocaleString('en-IN'); }
+    window.coApplyCoupon = function() {
+      var inp = document.getElementById('co-coupon-input'), msg = document.getElementById('co-coupon-msg'),
+          pn = document.getElementById('co-price-now'), btn = document.getElementById('co-coupon-btn');
+      if (!inp) return;
+      var code = (inp.value || '').trim().toUpperCase();
+      if (!code) { if (msg) { msg.textContent = ''; msg.className = 'co-coupon-msg'; } return; }
+      if (COUPONS[code] != null) {
+        couponCode = code; couponDiscount = COUPONS[code];
+        if (pn) pn.textContent = finalStr();
+        if (msg) { msg.textContent = '✓ ' + code + ' applied — ₹' + (COUPONS[code] / 100) + ' off'; msg.className = 'co-coupon-msg ok'; }
+        inp.disabled = true; if (btn) btn.textContent = 'Applied';
+        egGtag('event', 'coupon_applied', { event_category: 'engagement', event_label: code });
+      } else {
+        couponCode = ''; couponDiscount = 0;
+        if (pn) pn.textContent = '₹2,499';
+        if (msg) { msg.textContent = "That code isn't valid."; msg.className = 'co-coupon-msg err'; }
+      }
+    };
+
     /* ── Shared helpers (mirrors the homepage flow exactly) ── */
     var razorpayPromise = null;
     function loadRazorpay() {
@@ -883,7 +926,8 @@
       data.append('address', address || '—');
       data.append('payment_status', status);
       if (paymentId) data.append('razorpay_payment_id', paymentId);
-      data.append('amount', '₹2,499');
+      data.append('amount', finalStr());
+      if (couponCode) data.append('coupon', couponCode);
       data.append('_subject', 'EscapeGravity Pre-Order [' + status + ']: ' + name);
       data.append('_template', 'table');
       data.append('_captcha', 'false');
@@ -1024,7 +1068,7 @@
         egFbq('trackCustom', 'CODConfirm', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
         codPending = { name: custName, phone: fullNumber };
         var codBanner = document.getElementById('co-paid-banner');
-        if (codBanner) codBanner.innerHTML = '📦 <b>Order confirmed!</b> Where should we ship it? You\'ll pay <b>₹2,499</b> in cash when it arrives.';
+        if (codBanner) codBanner.innerHTML = '📦 <b>Order confirmed!</b> Where should we ship it? You\'ll pay <b>' + finalStr() + '</b> in cash when it arrives.';
         var codSaveBtn = document.getElementById('co-save-address');
         if (codSaveBtn) codSaveBtn.textContent = 'Place Order →';
         document.getElementById('co-step1').style.display = 'none';
@@ -1045,7 +1089,7 @@
         fetch('/api/create-order', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ amount: 249900, receipt: 'EG-LP-' + Date.now(), capi_event_id: icEventId, phone: fullNumber })
+          body: JSON.stringify({ amount: finalPaise(), coupon: couponCode, receipt: 'EG-LP-' + Date.now(), capi_event_id: icEventId, phone: fullNumber })
         }).then(function(r) { return r.json(); }),
         loadRazorpay()
       ]).then(function(results) {
@@ -1062,7 +1106,7 @@
       var options = {
         key: RAZORPAY_KEY_ID,
         order_id: orderId,
-        amount: 249900,
+        amount: finalPaise(),
         currency: 'INR',
         name: 'DeepKids',
         description: 'EscapeGravity Board Game',
@@ -1161,11 +1205,12 @@
         paymentId = 'COD-' + Date.now();
         status = 'COD Order Placed';
         leadSent = true;
+        var codVal = finalRupees();
         egGtag('event', 'cod_order_placed', { event_category: 'conversion', event_label: 'order_lp' });
-        egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', payment_type: 'cod', items: [{ item_name: 'EscapeGravity', price: 2499, quantity: 1 }] });
-        egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
-        egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity COD' });
-        egFbq('trackCustom', 'CODOrderPlaced', { value: 2499, currency: 'INR' });
+        egGtag('event', 'purchase', { transaction_id: paymentId, value: codVal, currency: 'INR', payment_type: 'cod', coupon: (couponCode || undefined), items: [{ item_name: 'EscapeGravity', price: codVal, quantity: 1 }] });
+        egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': codVal, 'currency': 'INR' });
+        egFbq('track', 'Purchase', { value: codVal, currency: 'INR', content_name: 'EscapeGravity COD' });
+        egFbq('trackCustom', 'CODOrderPlaced', { value: codVal, currency: 'INR' });
         notifyPromise = Promise.allSettled([
           sendLeadData(o.name, o.phone, fullAddress, status, paymentId),
           sendWhatsAppMessage('order_complete', o.phone, [o.name, paymentId])

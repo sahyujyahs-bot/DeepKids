@@ -16,11 +16,15 @@ export async function onRequestPost(context) {
     }
 
     const body = await request.json().catch(() => ({}));
-    const amount = Number(body.amount);
 
-    if (!Number.isInteger(amount) || amount < 100) {
-      return json({ error: 'Invalid amount — must be an integer in paise, minimum 100' }, 400);
-    }
+    // Price is computed server-side so the charged amount can never be
+    // tampered with from the browser. The client's `amount` is ignored.
+    const BASE_AMOUNT = 249900;              // ₹2,499 (EscapeGravity) in paise
+    const COUPONS = { 'EG200': 20000 };      // code (UPPERCASE) -> paise off
+    const coupon = String(body.coupon || '').trim().toUpperCase();
+    const discount = (coupon && COUPONS[coupon]) ? COUPONS[coupon] : 0;
+    const couponApplied = discount ? coupon : '';
+    const amount = Math.max(BASE_AMOUNT - discount, 100);
 
     const auth = btoa(`${keyId}:${keySecret}`);
     const res = await fetch('https://api.razorpay.com/v1/orders', {
@@ -54,7 +58,7 @@ export async function onRequestPost(context) {
       phone: body.phone,
       value: amount / 100
     }));
-    return json({ order_id: order.id, amount: order.amount, currency: order.currency });
+    return json({ order_id: order.id, amount: order.amount, currency: order.currency, coupon: couponApplied, discount: discount });
   } catch (err) {
     return json({ error: 'Unexpected server error', details: String(err) }, 500);
   }

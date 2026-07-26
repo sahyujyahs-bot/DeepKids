@@ -2162,6 +2162,42 @@
       if (label) label.textContent = txt;
       if (btn) btn.setAttribute('aria-label', txt);
     }
+    // ── Coupon codes (re-validated server-side in /api/create-order, so the
+    //    charged amount can't be tampered with from the browser) ──
+    window._egCouponCode = '';
+    window._egCouponDiscount = 0; // paise
+    var EG_COUPONS = { 'EG200': 20000 };   // code (UPPERCASE) -> paise off
+    var EG_BASE_PAISE = 249900;            // ₹2,499
+    function egFinalPaise() { return Math.max(EG_BASE_PAISE - (window._egCouponDiscount || 0), 100); }
+    function egFinalRupees() { return egFinalPaise() / 100; }
+    function egFinalStr() { return '₹' + egFinalRupees().toLocaleString('en-IN'); }
+    function egApplyCoupon() {
+      var inp = document.getElementById('po-coupon-input');
+      var msg = document.getElementById('po-coupon-msg');
+      var amtEl = document.getElementById('po-total-amt');
+      var btn = document.getElementById('po-coupon-btn');
+      if (!inp) return;
+      var code = (inp.value || '').trim().toUpperCase();
+      if (!code) { if (msg) { msg.textContent = ''; msg.className = 'po-coupon-msg'; } return; }
+      if (EG_COUPONS[code] != null) {
+        window._egCouponCode = code; window._egCouponDiscount = EG_COUPONS[code];
+        if (amtEl) amtEl.innerHTML = '<s class="po-was">₹2,499</s> ' + egFinalStr();
+        if (msg) { msg.textContent = '✓ ' + code + ' applied — ₹' + (EG_COUPONS[code] / 100) + ' off'; msg.className = 'po-coupon-msg ok'; }
+        inp.disabled = true; if (btn) btn.textContent = 'Applied';
+        egGtag('event', 'coupon_applied', { event_category: 'engagement', event_label: code });
+      } else {
+        window._egCouponCode = ''; window._egCouponDiscount = 0;
+        if (amtEl) amtEl.innerHTML = '<s class="po-was">₹4,999</s> ₹2,499';
+        if (msg) { msg.textContent = "That code isn't valid."; msg.className = 'po-coupon-msg err'; }
+      }
+    }
+    function egResetCoupon() {
+      window._egCouponCode = ''; window._egCouponDiscount = 0;
+      var inp = document.getElementById('po-coupon-input'); if (inp) { inp.value = ''; inp.disabled = false; }
+      var btn = document.getElementById('po-coupon-btn'); if (btn) btn.textContent = 'Apply';
+      var msg = document.getElementById('po-coupon-msg'); if (msg) { msg.textContent = ''; msg.className = 'po-coupon-msg'; }
+      var amtEl = document.getElementById('po-total-amt'); if (amtEl) amtEl.innerHTML = '<s class="po-was">₹4,999</s> ₹2,499';
+    }
     function egToggleWhy(e) {
       if (e) { e.preventDefault(); e.stopPropagation(); }
       var pop = document.getElementById('po-why-pop');
@@ -2199,6 +2235,7 @@
       if (addrForm) addrForm.style.display = 'none';
       var why = document.getElementById('po-why-pop');
       if (why) why.setAttribute('hidden', '');
+      egResetCoupon();
     }
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
@@ -2251,7 +2288,7 @@
       if (sub) sub.style.display = 'none';
       if (mode === 'cod') {
         if (title) title.textContent = 'Almost Done!';
-        if (banner) banner.innerHTML = '📦 <strong>Order confirmed!</strong> Where should we ship it? You\'ll pay <strong>₹2,499</strong> in cash when it arrives.';
+        if (banner) banner.innerHTML = '📦 <strong>Order confirmed!</strong> Where should we ship it? You\'ll pay <strong>' + egFinalStr() + '</strong> in cash when it arrives.';
         if (saveBtn) saveBtn.textContent = 'Place Order →';
       } else {
         if (title) title.textContent = 'Order Confirmed!';
@@ -2289,12 +2326,13 @@
       if (mode === 'cod') {
         // COD order is placed at this point — fire the conversion events now.
         var codId = 'COD-' + Date.now();
+        var codVal = egFinalRupees();
         egReportModalDuration('cod_placed');
         egGtag('event', 'cod_order_placed', { event_category: 'conversion' });
-        egGtag('event', 'purchase', { transaction_id: codId, value: 2499, currency: 'INR', payment_type: 'cod', items: [{ item_name: 'EscapeGravity', price: 2499, quantity: 1 }] });
-        egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
-        egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity COD' });
-        egFbq('trackCustom', 'CODOrderPlaced', { value: 2499, currency: 'INR' });
+        egGtag('event', 'purchase', { transaction_id: codId, value: codVal, currency: 'INR', payment_type: 'cod', coupon: (window._egCouponCode || undefined), items: [{ item_name: 'EscapeGravity', price: codVal, quantity: 1 }] });
+        egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': codVal, 'currency': 'INR' });
+        egFbq('track', 'Purchase', { value: codVal, currency: 'INR', content_name: 'EscapeGravity COD' });
+        egFbq('trackCustom', 'CODOrderPlaced', { value: codVal, currency: 'INR' });
         status = 'COD Order Placed';
         notifyPromise = Promise.allSettled([
           sendLeadData(o.name || '', o.phone || '', fullAddress, status, codId),
@@ -2364,7 +2402,8 @@
       data.append('address', address || '—');
       data.append('payment_status', status);
       if (paymentId) data.append('razorpay_payment_id', paymentId);
-      data.append('amount', '₹2,499');
+      data.append('amount', egFinalStr());
+      if (window._egCouponCode) data.append('coupon', window._egCouponCode);
       data.append('_subject', 'EscapeGravity Pre-Order [' + status + ']: ' + name);
       data.append('_template', 'table');
       data.append('_captcha', 'false');
@@ -2486,14 +2525,14 @@
         fetch('/api/create-order', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ amount: 249900, receipt: 'EG-' + Date.now(), capi_event_id: icEventId, phone: fullNumber })
+          body: JSON.stringify({ amount: egFinalPaise(), coupon: (window._egCouponCode || ''), receipt: 'EG-' + Date.now(), capi_event_id: icEventId, phone: fullNumber })
         }).then(function(r) { return r.json(); }),
         loadRazorpay()
       ])
         .then(function(results) {
           var order = results[0];
           if (!order.order_id) throw new Error(order.error || 'Could not create order');
-          openRazorpayCheckout(order.order_id, name, fullNumber, fullAddress, msg, submitBtn);
+          openRazorpayCheckout(order.order_id, order.amount, name, fullNumber, fullAddress, msg, submitBtn);
         })
         .catch(function(err) {
           msg.textContent = 'Could not start payment. Please try again.';
@@ -2504,11 +2543,11 @@
       return false;
     }
 
-    function openRazorpayCheckout(orderId, name, fullNumber, fullAddress, msg, submitBtn) {
+    function openRazorpayCheckout(orderId, amount, name, fullNumber, fullAddress, msg, submitBtn) {
       var options = {
         key: RAZORPAY_KEY_ID,
         order_id: orderId,
-        amount: 249900,
+        amount: amount || egFinalPaise(),
         currency: 'INR',
         name: 'DeepKids',
         description: 'EscapeGravity Board Game',
@@ -2684,7 +2723,7 @@
       <div class="po-checkout">
         <div class="po-checkout-total">
           <span>Total <button type="button" class="po-why" aria-label="Why it's worth ₹4,999" onclick="egToggleWhy(event)">Why it's worth ₹4,999?</button></span>
-          <strong><s class="po-was">₹4,999</s> ₹2,499</strong>
+          <strong id="po-total-amt"><s class="po-was">₹4,999</s> ₹2,499</strong>
         </div>
         <div class="po-why-pop" id="po-why-pop" hidden>
           <button type="button" class="po-why-close" aria-label="Close" onclick="egToggleWhy(event)">×</button>
@@ -2699,6 +2738,11 @@
           </ul>
           <a class="po-why-more" href="/#s-worth" onclick="closePreOrderModal()">See the full breakdown →</a>
         </div>
+        <div class="po-coupon">
+          <input type="text" id="po-coupon-input" placeholder="Coupon code" autocomplete="off" aria-label="Coupon code" onkeydown="if(event.key==='Enter'){event.preventDefault();egApplyCoupon();}">
+          <button type="button" class="po-coupon-btn" id="po-coupon-btn" onclick="egApplyCoupon()">Apply</button>
+        </div>
+        <div class="po-coupon-msg" id="po-coupon-msg" role="status"></div>
         <div class="po-checkout-pay">
           <span class="po-pay-heading">Choose how to pay</span>
           <div class="po-paytype" role="radiogroup" aria-label="How would you like to pay?">
@@ -3016,6 +3060,16 @@
 .po-checkout-total strong { font-family: 'Norwester', sans-serif; font-weight: normal; font-size: 26px; color: #fff; line-height: 1; }
 .po-checkout-total .po-was { font-size: 15px; color: rgba(255,255,255,.42); text-decoration: line-through; margin-right: 4px; }
 .po-checkout-pay { padding: 14px 14px 16px; }
+.po-coupon { display: flex; gap: 8px; padding: 12px 18px 0; }
+.po-coupon input { flex: 1; min-width: 0; padding: 10px 12px; font-family: 'Futura', sans-serif; font-size: 14px; color: #fff; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.2); border-radius: 10px; outline: none; text-transform: uppercase; }
+.po-coupon input::placeholder { text-transform: none; color: rgba(255,255,255,.4); }
+.po-coupon input:focus { border-color: #cd9edf; box-shadow: 0 0 0 3px rgba(170,89,200,.18); }
+.po-coupon input:disabled { opacity: .7; }
+.po-coupon-btn { flex-shrink: 0; font-family: 'Futura', sans-serif; font-size: 12.5px; letter-spacing: 1px; text-transform: uppercase; color: #fff; background: rgba(170,89,200,.3); border: 1px solid rgba(205,158,223,.5); border-radius: 10px; padding: 0 16px; cursor: pointer; transition: background .15s; }
+.po-coupon-btn:hover { background: rgba(170,89,200,.5); }
+.po-coupon-msg { padding: 5px 18px 0; font-family: 'Futura', sans-serif; font-size: 12.5px; min-height: 0; }
+.po-coupon-msg.ok { color: #7ee08a; }
+.po-coupon-msg.err { color: #ff8a8a; }
 .po-checkout-total > span { display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .po-why {
   font-family: 'Futura', sans-serif; font-size: 11px; letter-spacing: .3px; text-transform: none;
@@ -10675,7 +10729,7 @@
   <div class="sci-announce eg-fade-in">
     <span class="sci-announce-badge">🎉 Launching Next</span>
     <span class="sci-announce-main"><b>SCI.</b> — Scientist Trading Cards</span>
-    <span class="sci-announce-sub">Pokémon has trading cards. Footballers have trading cards. Why not scientists?</span>
+    <span class="sci-announce-sub">Real scientists as collectible trading cards — hand-drawn, rare-to-legendary, and packed with the science they cracked.</span>
     <div id="sci-bar-live">
       <form class="sci-announce-form" id="sci-bar-form" novalidate>
         <input type="tel" id="sci-bar-phone" inputmode="tel" autocomplete="tel" placeholder="Your WhatsApp number" aria-label="Your WhatsApp number">
@@ -12774,7 +12828,7 @@ if ('requestIdleCallback' in window) {
     <button class="sci-pop-close" id="sci-pop-close" aria-label="Close">×</button>
     <span class="sci-pop-badge">🎉 Launching Next</span>
     <div class="sci-pop-title"><b>SCI.</b> — Scientist Trading Cards</div>
-    <p class="sci-pop-sub">Pokémon has trading cards. Footballers have them. Why not scientists? Grab your launch discount.</p>
+    <p class="sci-pop-sub">Real scientists as collectible trading cards — hand-drawn, rare-to-legendary. Grab your launch discount.</p>
     <div id="sci-pop-live">
       <form class="sci-pop-form" id="sci-pop-form" novalidate>
         <input type="tel" id="sci-pop-phone" inputmode="tel" autocomplete="tel" placeholder="Your WhatsApp number" aria-label="Your WhatsApp number">
