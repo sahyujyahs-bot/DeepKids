@@ -8,7 +8,7 @@
   <link rel="canonical" href="https://deepkids.in/sci"/>
   <meta property="og:title" content="SCI. — Scientist Trading Cards (Launching Soon)"/>
   <meta property="og:description" content="Not just who discovered what — the fundamental truth underneath, and where you live it every day. Sign up for a launch discount + something special."/>
-  <meta property="og:image" content="https://deepkids.in/more-sci-front.webp"/>
+  <meta property="og:image" content="https://deepkids.in/sci-brahmagupta-front.webp"/>
   <meta property="og:url" content="https://deepkids.in/sci"/>
   <meta property="og:type" content="website"/>
   <meta name="theme-color" content="#0a0618"/>
@@ -173,22 +173,22 @@
 
     /* Sample cards */
     .cards-row { display: flex; gap: clamp(16px, 4vw, 34px); justify-content: center; flex-wrap: wrap; }
-    .card-fig { width: min(300px, 78vw); }
-    .card-fig .frame {
-      border-radius: 16px; overflow: hidden; border: 1px solid rgba(255,255,255,.14);
-      box-shadow: 0 22px 48px rgba(0,0,0,.55); transform: rotate(-1.4deg); transition: transform .3s ease;
-      aspect-ratio: 3 / 4; background: rgba(255,255,255,.03);
-      display: flex; align-items: center; justify-content: center; text-align: center;
+    .card-fig { width: min(330px, 84vw); }
+    .flip { position: relative; aspect-ratio: 760 / 1027; perspective: 1400px; cursor: pointer; outline: none; }
+    .flip-inner { position: absolute; inset: 0; transform-style: preserve-3d; transition: transform .65s cubic-bezier(.2,.75,.2,1); }
+    .flip.flipped .flip-inner { transform: rotateY(180deg); }
+    .flip-face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border-radius: 15px; overflow: hidden; box-shadow: 0 22px 48px rgba(0,0,0,.55); }
+    .flip-back { transform: rotateY(180deg); }
+    .flip-face img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .flip:focus-visible { outline: 2px solid var(--lilac); outline-offset: 4px; border-radius: 15px; }
+    .flip-hint {
+      position: absolute; bottom: 9px; left: 50%; transform: translateX(-50%);
+      font-family: var(--font-body); font-size: 11px; letter-spacing: .3px; color: #fff;
+      background: rgba(0,0,0,.55); padding: 4px 11px; border-radius: 999px; pointer-events: none;
+      z-index: 2; transition: opacity .3s ease; white-space: nowrap;
     }
-    .card-fig:nth-child(even) .frame { transform: rotate(1.4deg); }
-    .card-fig:hover .frame { transform: rotate(0) scale(1.02); }
-    .card-fig img { width: 100%; height: 100%; object-fit: cover; }
-    /* placeholder look until the real card art is dropped in */
-    .card-ph { padding: 24px; }
-    .card-ph .badge { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--gold); border: 1px solid rgba(var(--gold-rgb),.4); border-radius: 999px; padding: 4px 12px; display: inline-block; margin-bottom: 14px; }
-    .card-ph .who { font-family: var(--font-head); font-variant: small-caps; font-size: 26px; color: #fff; line-height: 1.05; }
-    .card-ph .role { font-size: 13px; color: var(--ink-dim); margin-top: 8px; }
-    .card-cap { text-align: center; margin-top: 14px; font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px; color: #fff; font-size: 18px; }
+    .flip.flipped .flip-hint { opacity: .55; }
+    .card-cap { text-align: center; margin-top: 16px; font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px; color: #fff; font-size: 18px; }
     .card-cap small { display: block; font-family: var(--font-body); font-variant: normal; letter-spacing: 0; text-transform: none; color: var(--ink-dim); font-size: 13px; margin-top: 3px; }
 
     .lede { max-width: 680px; margin: 0 auto; text-align: center; color: var(--ink); font-size: clamp(15px, 2vw, 17px); }
@@ -266,16 +266,17 @@
       100% { box-shadow: 0 6px 20px rgba(0,0,0,.45), 0 0 0 0 rgba(37,211,102,0); }
     }
     .eg-wa-cue {
-      position: fixed; right: 84px; bottom: 30px; z-index: 900; display: none;
+      position: fixed; right: 84px; bottom: 30px; z-index: 900; cursor: pointer;
       background: #fff; color: #0a0618; font-family: var(--font-body); font-size: 13px; font-weight: 600;
       padding: 8px 13px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,.4); white-space: nowrap;
-      animation: cue-bob 3s ease-in-out infinite;
+      opacity: 0; transform: translateX(8px); pointer-events: none;
+      transition: opacity .4s ease, transform .4s ease;
     }
+    .eg-wa-cue.visible { opacity: 1; transform: none; pointer-events: auto; }
     .eg-wa-cue::after { content: ''; position: absolute; right: -6px; top: 50%; transform: translateY(-50%); border: 6px solid transparent; border-left-color: #fff; border-right: 0; }
     .eg-wa-cue b { color: var(--plum); }
-    @keyframes cue-bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
     @media (max-width: 760px) { .eg-wa { bottom: 20px; right: 14px; } .eg-wa-cue { bottom: 32px; right: 80px; } }
-    @media (prefers-reduced-motion: reduce) { .eg-wa, .eg-wa-cue { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .eg-wa { animation: none; } }
   </style>
 </head>
 <body>
@@ -322,36 +323,38 @@
     <p class="lede rv" style="margin-top:28px;">That's the whole idea: <b>science you can identify and experience</b> — not facts you file away and forget.</p>
   </section>
 
-  <!-- ═══ SAMPLE CARDS ═══ -->
-  <!-- TODO: when the real card art is uploaded, replace each `.card-ph` block
-       with:  <img src="sci-brahmagupta.webp" alt="Brahmagupta SCI. trading card"/>
-       (and sci-noether.webp). Same for the frame — keep the surrounding .frame div. -->
+  <!-- ═══ SAMPLE CARDS (tap to flip front ↔ back) ═══ -->
   <section class="wrap">
     <span class="sec-kicker rv">First from the deck</span>
     <h2 class="sec-h rv">Meet The <em>First Two</em></h2>
+    <p class="lede rv" style="margin:-18px auto 30px; color: var(--ink-dim); font-size: 14px;">Tap a card to flip it — the back reveals the web of scientists it touches, and where you spot it in real life.</p>
     <div class="cards-row">
       <figure class="card-fig rv">
-        <div class="frame">
-          <div class="card-ph">
-            <span class="badge">Sneak peek soon</span>
-            <div class="who">Brahmagupta</div>
-            <div class="role">The mathematician who gave the world zero</div>
+        <div class="flip" tabindex="0" role="button" aria-label="Flip the Brahmagupta card to see its back"
+             onclick="this.classList.toggle('flipped')"
+             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.classList.toggle('flipped');}">
+          <div class="flip-inner">
+            <div class="flip-face flip-front"><img src="sci-brahmagupta-front.webp" alt="Brahmagupta SCI. trading card — front" loading="lazy" width="760" height="1027"></div>
+            <div class="flip-face flip-back"><img src="sci-brahmagupta-back.webp" alt="Brahmagupta SCI. trading card — back, showing his web of influence and where the science shows up in life" loading="lazy" width="760" height="1027"></div>
           </div>
+          <span class="flip-hint">tap to flip ⟲</span>
         </div>
         <figcaption class="card-cap">Brahmagupta<small>Zero, negatives &amp; the rules that run all of maths</small></figcaption>
       </figure>
       <figure class="card-fig rv rv2">
-        <div class="frame">
-          <div class="card-ph">
-            <span class="badge">Sneak peek soon</span>
-            <div class="who">Emmy Noether</div>
-            <div class="role">Whose theorem underpins modern physics</div>
+        <div class="flip" tabindex="0" role="button" aria-label="Flip the Emmy Noether card to see its back"
+             onclick="this.classList.toggle('flipped')"
+             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.classList.toggle('flipped');}">
+          <div class="flip-inner">
+            <div class="flip-face flip-front"><img src="sci-noether-front.webp" alt="Emmy Noether SCI. trading card — front" loading="lazy" width="760" height="1027"></div>
+            <div class="flip-face flip-back"><img src="sci-noether-back.webp" alt="Emmy Noether SCI. trading card — back, showing her web of influence and where the science shows up in life" loading="lazy" width="760" height="1027"></div>
           </div>
+          <span class="flip-hint">tap to flip ⟲</span>
         </div>
         <figcaption class="card-cap">Emmy Noether<small>Why symmetry is the reason energy is conserved</small></figcaption>
       </figure>
     </div>
-    <p class="lede rv" style="margin-top:30px;">SCI. shines a light on the scientists history under-credited — across centuries, countries and genders. <b>Underdogs, bias-free.</b> From ancient India to modern Germany, the people who found the truths we live by.</p>
+    <p class="lede rv" style="margin-top:34px;">SCI. shines a light on the scientists history under-credited — across centuries, countries and genders. <b>Underdogs, bias-free.</b> From ancient India to modern Germany, the people who found the truths we live by.</p>
   </section>
 
   <!-- ═══ SIGNUP ═══ -->
@@ -482,10 +485,28 @@
     btn.href = 'https://wa.me/' + EG_WA_NUMBER + '?text=' +
       encodeURIComponent("Hi! I'd like my " + EG_WA_OFFER + " on the SCI. cards 🙂");
     btn.style.display = 'flex';
-    if (cue) { cue.innerHTML = 'Get <b>' + EG_WA_OFFER + '</b> on WhatsApp'; cue.style.display = 'block'; }
     btn.addEventListener('click', function(){
       egGtag('event', 'whatsapp_click', { event_category: 'engagement', event_label: 'sci' });
       egFbq('track', 'Contact');
+    });
+    if (!cue) return;
+    cue.innerHTML = 'Get <b>' + EG_WA_OFFER + '</b> on WhatsApp';
+    // Cue shows the FIRST time only after the user scrolls past the hero,
+    // then pulses on a show/hide cycle (later cycles may land on the hero too).
+    var SHOW_MS = 6000, HIDE_MS = 15000, started = false;
+    function show(){ cue.classList.add('visible'); setTimeout(hide, SHOW_MS); }
+    function hide(){ cue.classList.remove('visible'); setTimeout(show, HIDE_MS); }
+    function onScroll(){
+      if (!started && window.scrollY > window.innerHeight * 0.85) {
+        started = true; show(); window.removeEventListener('scroll', onScroll);
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    cue.addEventListener('click', function(){
+      egGtag('event', 'whatsapp_click', { event_category: 'engagement', event_label: 'sci_cue' });
+      egFbq('track', 'Contact');
+      window.open(btn.href, '_blank');
+      cue.classList.remove('visible');
     });
   })();
 
