@@ -52,7 +52,7 @@
     // Google Ads — replace AW-XXXXXXXXX with your Ads conversion
     // ID once you create a Google Ads account. Until then this
     // line is a no-op placeholder.
-    gtag('config', 'AW-11336704198');
+    gtag('config', 'AW-18110551284');
     }
   </script>
   <!-- Microsoft Clarity — free heatmaps + session recordings -->
@@ -2330,7 +2330,7 @@
         egReportModalDuration('cod_placed');
         egGtag('event', 'cod_order_placed', { event_category: 'conversion' });
         egGtag('event', 'purchase', { transaction_id: codId, value: codVal, currency: 'INR', payment_type: 'cod', coupon: (window._egCouponCode || undefined), items: [{ item_name: 'EscapeGravity', price: codVal, quantity: 1 }] });
-        egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': codVal, 'currency': 'INR' });
+        egGtag('event', 'conversion', { 'send_to': 'AW-18110551284/ob8dCOfhsqAcEMbB4Z0q', 'value': codVal, 'currency': 'INR' });
         egFbq('track', 'Purchase', { value: codVal, currency: 'INR', content_name: 'EscapeGravity COD' });
         egFbq('trackCustom', 'CODOrderPlaced', { value: codVal, currency: 'INR' });
         status = 'COD Order Placed';
@@ -2510,7 +2510,7 @@
 
       // ── Pay Online: existing Razorpay flow ──
       egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
-      egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+      egGtag('event', 'conversion', { 'send_to': 'AW-18110551284/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
       // Shared event id lets Meta dedupe this browser event against the
       // server-side CAPI copy sent by /api/create-order.
       var icEventId = 'ic_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
@@ -2584,7 +2584,7 @@
               leadEmailSent = true;
               egGtag('event', 'preorder_paid', { event_category: 'conversion' });
               egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
-              egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+              egGtag('event', 'conversion', { 'send_to': 'AW-18110551284/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
               egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
               // Record the payment immediately (email/sheet/WhatsApp), then
               // collect the delivery address in this same flow — the modal
@@ -2668,7 +2668,7 @@
       }).then(function(r) { return r.json(); }).then(function() {
         var gpMsg2 = gp2 > 0 ? ' Your ' + gp2 + ' Gravity Points (₹' + gp2 + ' discount) are saved!' : '';
         msg.textContent = '✓ Awesome! We\'ll WhatsApp you to schedule a play test.' + gpMsg2;
-        egGtag('event', 'playtest_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
+        egGtag('event', 'playtest_submit', { event_category: 'conversion' }); gtag('event', 'conversion', { 'send_to': 'AW-18110551284/ob8dCOfhsqAcEMbB4Z0q', 'value': 1.0, 'currency': 'INR' });
         egFbq('track', 'CompleteRegistration', { content_name: 'playtest' });
         msg.className = 'po-msg success';
         form.reset();

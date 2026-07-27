@@ -139,6 +139,28 @@
       .tbl-header, .tbl-row { grid-template-columns: 1fr 1.6fr; font-size: 13.5px; padding: 11px 14px; }
     }
   </style>
+  <!-- Internal-traffic kill switch (same as the rest of the site): ?notrack / ?track -->
+  <script>
+    window._egNoTrack = (function(){
+      try {
+        var q = new URLSearchParams(location.search);
+        if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+        if (q.has('track')) localStorage.removeItem('eg-notrack');
+        return localStorage.getItem('eg-notrack') === '1';
+      } catch(e) { return false; }
+    })();
+    window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
+  <script>
+    if (!window._egNoTrack) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GYJLZ0FVJE');
+      gtag('config', 'AW-18110551284');
+    }
+  </script>
 </head>
 <body>
 
