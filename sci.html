@@ -464,7 +464,7 @@
       </div>
       <div class="su-done" id="su-done" style="display:none">
         <div class="big">🎉 You're on the list!</div>
-        <p>Your launch discount is reserved. We'll message you on WhatsApp the moment SCI. is ready.</p>
+        <p>Check WhatsApp — your discount code is on its way. We'll message you again the moment SCI. is ready.</p>
         <a class="wa-go" id="su-wa" target="_blank" rel="noopener">Say hi on WhatsApp 💬</a>
       </div>
     </div>
@@ -485,7 +485,24 @@
 <script>
   /* ── Config ── */
   var EG_WA_NUMBER = '919739815506';
-  var EG_WA_OFFER  = '₹200 off';   // TODO: set the real launch-discount amount
+  var EG_WA_OFFER  = '₹200 off';
+  var SCI_COUPON   = 'EG200';            // code sent to signups on WhatsApp
+  var SCI_TEMPLATE = 'sci_launch_code';  // approved Meta template name
+
+  /* Sends the launch-code template. Fails silently — a WhatsApp hiccup must
+     never block the signup confirmation the user sees. */
+  function sciSendWhatsApp(name, phone) {
+    if (!phone) return Promise.resolve();
+    return fetch('/api/send-whatsapp', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        phone: phone,
+        template: SCI_TEMPLATE,
+        bodyParams: [name || 'there', SCI_COUPON]
+      })
+    }).catch(function(){});
+  }
 
   /* ── Lead pipeline: same as the order flow — email to you + Google Sheet ── */
   function sciSendLead(name, whatsapp, status) {
@@ -544,7 +561,10 @@
       egGtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q' });
       egFbq('track', 'Lead', { content_name: 'SCI. Trading Cards' });
 
-      sciTimeout(sciSendLead(name, fullNumber, 'SCI. Launch Signup'), 4000).then(function(){
+      sciTimeout(Promise.allSettled([
+        sciSendLead(name, fullNumber, 'SCI. Launch Signup'),
+        sciSendWhatsApp(name, fullNumber)
+      ]), 4000).then(function(){
         document.getElementById('su-form-wrap').style.display = 'none';
         var done = document.getElementById('su-done'); done.style.display = 'block';
         var wa = document.getElementById('su-wa');

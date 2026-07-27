@@ -10753,7 +10753,7 @@
       <div class="sci-announce-msg" id="sci-bar-msg" role="status"></div>
       <a class="sci-announce-know" href="/sci">Know more about SCI. →</a>
     </div>
-    <div class="sci-announce-done" id="sci-bar-done" style="display:none">🎉 You're on the list! We'll WhatsApp you at launch. <a href="/sci">See the cards →</a></div>
+    <div class="sci-announce-done" id="sci-bar-done" style="display:none">🎉 You're on the list! Check WhatsApp — your discount code is on its way. <a href="/sci">See the cards →</a></div>
   </div>
 
   <div class="more-masonry">
@@ -12853,7 +12853,7 @@ if ('requestIdleCallback' in window) {
       <div class="sci-pop-msg" id="sci-pop-msg" role="status"></div>
       <a class="sci-pop-know" href="/sci">Know more about SCI. →</a>
     </div>
-    <div class="sci-pop-done" id="sci-pop-done" style="display:none">🎉 You're on the list! We'll WhatsApp you the moment SCI. launches.</div>
+    <div class="sci-pop-done" id="sci-pop-done" style="display:none">🎉 You're on the list! Check WhatsApp — your discount code is on its way.</div>
   </div>
 </div>
 <script>
@@ -12861,6 +12861,17 @@ if ('requestIdleCallback' in window) {
     /* Shared SCI. lead pipeline: emails you + logs to the Google Sheet */
     function normNum(raw){ var d=(raw||'').replace(/\D/g,''); if(d.length<10) return null; if(d.length===10) return '+91'+d; return '+'+d; }
     function withTO(p,ms){ return Promise.race([p, new Promise(function(r){ setTimeout(r,ms); })]); }
+    /* Sends the approved launch-code template. Fails silently — a WhatsApp
+       hiccup must never block the signup confirmation the user sees. These
+       forms only collect a number, so the name param falls back to 'there'. */
+    var SCI_COUPON = 'EG200', SCI_TEMPLATE = 'sci_launch_code';
+    function sciWhatsApp(phone){
+      if(!phone) return Promise.resolve();
+      return fetch('/api/send-whatsapp',{
+        method:'POST', headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({ phone: phone, template: SCI_TEMPLATE, bodyParams: ['there', SCI_COUPON] })
+      }).catch(function(){});
+    }
     function sciLead(phone, source){
       var data=new FormData();
       data.append('name','—'); data.append('whatsapp',phone); data.append('interest','SCI. Trading Cards'); data.append('source',source);
@@ -12880,7 +12891,7 @@ if ('requestIdleCallback' in window) {
         egGtag('event','sci_signup',{event_category:'conversion',event_label:source});
         egGtag('event','generate_lead',{event_category:'conversion',event_label:source});
         egFbq('track','Lead',{content_name:'SCI. Trading Cards'});
-        withTO(sciLead(num,source),3500).then(onDone);
+        withTO(Promise.allSettled([sciLead(num,source), sciWhatsApp(num)]),3500).then(onDone);
       });
     }
     /* Homepage banner form */
