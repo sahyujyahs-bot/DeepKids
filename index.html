@@ -11039,13 +11039,27 @@
   }
 
   /* ── Section-view tracking for retargeting ──────────────── */
+  /* Reads each section's own heading for a human-readable name, so GA4 shows
+     "What's Inside The Box" instead of "s2" — and it can never drift out of
+     sync with the page the way a hardcoded id→name map would. */
+  function egSectionName(el) {
+    var h = el.querySelector('h1, h2, .page-h2, .sec-h');
+    var t = h ? (h.textContent || '').replace(/\s+/g, ' ').trim() : '';
+    return t ? t.slice(0, 60) : el.id;
+  }
   var trackedSections = {};
   var sectionObs = new IntersectionObserver(function(entries) {
     entries.forEach(function(e) {
       if (e.isIntersecting && !trackedSections[e.target.id]) {
         trackedSections[e.target.id] = true;
-        egGtag('event', 'section_view', { event_category: 'scroll_depth', section: e.target.id });
-        egFbq('trackCustom', 'SectionView', { section: e.target.id });
+        var name = egSectionName(e.target);
+        egGtag('event', 'section_view', {
+          event_category: 'scroll_depth',
+          event_label: name,          // shows in GA4 without extra setup
+          section: e.target.id,
+          section_name: name
+        });
+        egFbq('trackCustom', 'SectionView', { section: e.target.id, section_name: name });
       }
     });
   }, { threshold: 0.2 });

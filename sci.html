@@ -358,8 +358,9 @@
     <div class="cards-row">
       <figure class="card-fig rv">
         <div class="flip" tabindex="0" role="button" aria-label="Flip the Brahmagupta card to see its back"
-             onclick="this.classList.toggle('flipped')"
-             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.classList.toggle('flipped');}">
+             data-card="Brahmagupta"
+             onclick="sciFlipCard(this)"
+             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();sciFlipCard(this);}">
           <div class="flip-inner">
             <div class="flip-face flip-front"><img src="sci-brahmagupta-front.webp" alt="Brahmagupta SCI. trading card — front" loading="lazy" width="760" height="1027"></div>
             <div class="flip-face flip-back"><img src="sci-brahmagupta-back.webp" alt="Brahmagupta SCI. trading card — back, showing his web of influence and where the science shows up in life" loading="lazy" width="760" height="1027"></div>
@@ -370,8 +371,9 @@
       </figure>
       <figure class="card-fig rv rv2">
         <div class="flip" tabindex="0" role="button" aria-label="Flip the Emmy Noether card to see its back"
-             onclick="this.classList.toggle('flipped')"
-             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.classList.toggle('flipped');}">
+             data-card="Emmy Noether"
+             onclick="sciFlipCard(this)"
+             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();sciFlipCard(this);}">
           <div class="flip-inner">
             <div class="flip-face flip-front"><img src="sci-noether-front.webp" alt="Emmy Noether SCI. trading card — front" loading="lazy" width="760" height="1027"></div>
             <div class="flip-face flip-back"><img src="sci-noether-back.webp" alt="Emmy Noether SCI. trading card — back, showing her web of influence and where the science shows up in life" loading="lazy" width="760" height="1027"></div>
@@ -483,6 +485,20 @@
 </a>
 
 <script>
+  /* Flip a SCI card and report which card (and which side it landed on). */
+  function sciFlipCard(el) {
+    el.classList.toggle('flipped');
+    var card = el.getAttribute('data-card') || 'unknown';
+    var side = el.classList.contains('flipped') ? 'back' : 'front';
+    egGtag('event', 'card_flip', {
+      event_category: 'engagement',
+      event_label: card,        // visible in GA4 with no extra setup
+      card_name: card,
+      card_side: side
+    });
+    egFbq('trackCustom', 'CardFlip', { card_name: card, card_side: side });
+  }
+
   /* ── Config ── */
   var EG_WA_NUMBER = '919739815506';
   var EG_WA_OFFER  = '₹200 off';
