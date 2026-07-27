@@ -558,7 +558,6 @@
       msg.textContent = 'Reserving your spot…';
       egGtag('event', 'sci_signup', { event_category: 'conversion' });
       egGtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'sci_launch' });
-      egGtag('event', 'conversion', { 'send_to': 'AW-18110551284/ob8dCOfhsqAcEMbB4Z0q' });
       egFbq('track', 'Lead', { content_name: 'SCI. Trading Cards' });
 
       sciTimeout(Promise.allSettled([
