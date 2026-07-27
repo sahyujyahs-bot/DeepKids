@@ -12864,7 +12864,7 @@ if ('requestIdleCallback' in window) {
     /* Sends the approved launch-code template. Fails silently — a WhatsApp
        hiccup must never block the signup confirmation the user sees. These
        forms only collect a number, so the name param falls back to 'there'. */
-    var SCI_COUPON = 'EG200', SCI_TEMPLATE = 'sci_launch_code';
+    var SCI_COUPON = 'EG200', SCI_TEMPLATE = '200_off_for_sci_';
     function sciWhatsApp(phone){
       if(!phone) return Promise.resolve();
       return fetch('/api/send-whatsapp',{
