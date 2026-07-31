@@ -180,7 +180,7 @@
 <nav class="eg-nav">
   <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
-    <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" onclick="location.href='index.html#preorder'"></button>
+    <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" onclick="location.href='/#preorder'"></button>
     <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="eg-nav-menu" onclick="egToggleMenu()">
       <span></span><span></span><span></span>
     </button>
@@ -192,6 +192,8 @@
   <a href="/">Home</a>
   <a href="/#s2">The Game</a>
   <a href="/#s4-science">Science</a>
+  <a href="/#s-worth">Why ₹4,999?</a>
+  <a href="/sci">SCI. Trading Cards</a>
 </div>
 <script>
   function egToggleMenu() {
@@ -426,6 +428,133 @@
 </footer>
 
 <!-- ═══════════════════════════════════════════════ SCRIPTS ══ -->
+<!-- ═══════════════════════════════════════════════ MOBILE STICKY ORDER CTA ══ -->
+<style>
+  .eg-mobile-preorder {
+    display: none;
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    z-index: 998;
+    padding: 8px 0 calc(10px + env(safe-area-inset-bottom, 0px));
+    background: linear-gradient(180deg, rgba(10,6,24,0) 0%, rgba(10,6,24,0.85) 45%, rgba(10,6,24,0.95) 100%);
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity .3s ease, transform .3s ease;
+    overflow: hidden;
+  }
+  .eg-mobile-preorder.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+  /* Mobile sticky button: natural aspect ratio (viewBox 339:108).
+     Drifts across the strip Pac-Man style — exits off the left,
+     wraps back in from the right. */
+  button.eg-mobile-preorder-btn {
+    all: unset;
+    display: block;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    cursor: pointer;
+    line-height: 0;
+    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+    transition: filter .2s ease;
+    animation: eg-swim-across 14s linear infinite;
+    will-change: transform;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    outline: none;
+  }
+  button.eg-mobile-preorder-btn:focus,
+  button.eg-mobile-preorder-btn:focus-visible {
+    outline: none;
+  }
+  @keyframes eg-swim-across {
+    0%   { transform: translateX(100vw); }
+    100% { transform: translateX(-100%); }
+  }
+  /* Only animate while the strip is actually showing */
+  .eg-mobile-preorder:not(.visible) button.eg-mobile-preorder-btn {
+    animation-play-state: paused;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    button.eg-mobile-preorder-btn {
+      animation: none;
+      margin: 0 0 0 auto;
+      padding-right: 12px;
+    }
+  }
+  button.eg-mobile-preorder-btn:hover {
+    filter: drop-shadow(0 0 22px rgba(170,89,200,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
+  }
+  button.eg-mobile-preorder-btn:active {
+    filter: drop-shadow(0 0 10px rgba(170,89,200,0.3)) brightness(0.95);
+  }
+  button.eg-mobile-preorder-btn .btn-svg {
+    width: auto !important;
+    height: 56px !important;
+    display: block;
+    overflow: visible;
+  }
+  /* Thin pink/purple outline — kept off so the lime pill reads
+     cleaner against the dark gradient. */
+  button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"][stroke-width="9"]  { stroke: none !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"][stroke-width="20"] { stroke: none !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#aa59c8"]  { stroke-width: 8 !important; }
+  /* Label centred over the pill body (K chevron sits at the right) */
+  button.eg-mobile-preorder-btn .btn-label {
+    position: absolute;
+    top: 50%;
+    left: 38% !important;
+    transform: translate(-50%, -50%);
+    font-family: 'Norwester', sans-serif;
+    font-variant: small-caps;
+    font-weight: normal;
+    font-size: 17px;
+    letter-spacing: 2px;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0,0,0,.7);
+    pointer-events: none;
+    white-space: nowrap;
+  }
+  @media (max-width: 768px) {
+    .eg-mobile-preorder { display: block; }
+    body { padding-bottom: 76px; }
+  }
+</style>
+<div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
+  <button type="button" class="eg-mobile-preorder-btn" onclick="location.href='/#preorder'">
+    <svg class="btn-svg" viewBox="0 0 339 108" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#cd9edf"/>
+          <stop offset="45%" stop-color="#aa59c8"/>
+          <stop offset="100%" stop-color="#793194"/>
+        </linearGradient>
+        <linearGradient id="dk-mobile-hi" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+          <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+        </linearGradient>
+      </defs>
+      <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9" vector-effect="non-scaling-stroke"/>
+      <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-mobile-grad)"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-mobile-hi)"/>
+      <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <span class="btn-label">Order Now</span>
+  </button>
+</div>
+
 <script src="assets/js/core.min.js"></script>
 <script src="assets/js/howtoplay.min.js"></script>
 <script src="assets/js/ui.min.js"></script>
