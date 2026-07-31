@@ -144,7 +144,7 @@
       "@type": "Offer",
       "url": "https://deepkids.in/",
       "priceCurrency": "INR",
-      "price": "2499",
+      "price": "4999",
       "priceValidUntil": "2026-12-31",
       "availability": "https://schema.org/InStock",
       "itemCondition": "https://schema.org/NewCondition",
@@ -198,7 +198,7 @@
       {
         "@type": "Question",
         "name": "How much does EscapeGravity cost?",
-        "acceptedAnswer": { "@type": "Answer", "text": "EscapeGravity is available to order at ₹2,499 — 50% off the retail price of ₹4,999. Delivered to your door within 3 days of ordering." }
+        "acceptedAnswer": { "@type": "Answer", "text": "EscapeGravity is available to order at ₹4,999 — the full retail price. Delivered to your door within 3 days of ordering." }
       },
       {
         "@type": "Question",
@@ -1121,7 +1121,7 @@
   <a href="/how-to-play">How To Play</a>
   <a href="#s2" onclick="egCloseMenu()">The Game</a>
   <a href="#s4-science" onclick="egCloseMenu()">Science</a>
-  <a href="#s-worth" onclick="egCloseMenu()">Why it's worth ₹4,999</a>
+  <a href="#s-worth" onclick="egCloseMenu()">Why ₹4,999?</a>
   <a href="/sci">SCI. Trading Cards</a>
 </div>
 <script>
@@ -1212,7 +1212,7 @@
       <span class="btn-label">Order Now</span>
     </div>
       <div class="hero-offer-badge eg-fade-in" style="margin-right: clamp(22px, 3.4vw, 42px);">
-        <span class="hero-offer-mrp">₹4,999</span>&nbsp;<span class="hero-offer-price">₹2,499</span>&nbsp;· Early Bird — Limited Time Offer
+        <span class="hero-offer-mrp">₹4,999</span>&nbsp;<span class="hero-offer-price">₹4,999</span>&nbsp;· Early Bird — Limited Time Offer
       </div>
   </div>
 
@@ -2167,7 +2167,7 @@
     window._egCouponCode = '';
     window._egCouponDiscount = 0; // paise
     var EG_COUPONS = { 'EG200': 20000 };   // code (UPPERCASE) -> paise off
-    var EG_BASE_PAISE = 249900;            // ₹2,499
+    var EG_BASE_PAISE = 499900;            // ₹4,999
     function egFinalPaise() { return Math.max(EG_BASE_PAISE - (window._egCouponDiscount || 0), 100); }
     function egFinalRupees() { return egFinalPaise() / 100; }
     function egFinalStr() { return '₹' + egFinalRupees().toLocaleString('en-IN'); }
@@ -2181,13 +2181,13 @@
       if (!code) { if (msg) { msg.textContent = ''; msg.className = 'po-coupon-msg'; } return; }
       if (EG_COUPONS[code] != null) {
         window._egCouponCode = code; window._egCouponDiscount = EG_COUPONS[code];
-        if (amtEl) amtEl.innerHTML = '<s class="po-was">₹2,499</s> ' + egFinalStr();
+        if (amtEl) amtEl.innerHTML = '<s class="po-was">₹4,999</s> ' + egFinalStr();
         if (msg) { msg.textContent = '✓ ' + code + ' applied — ₹' + (EG_COUPONS[code] / 100) + ' off'; msg.className = 'po-coupon-msg ok'; }
         inp.disabled = true; if (btn) btn.textContent = 'Applied';
         egGtag('event', 'coupon_applied', { event_category: 'engagement', event_label: code });
       } else {
         window._egCouponCode = ''; window._egCouponDiscount = 0;
-        if (amtEl) amtEl.innerHTML = '<s class="po-was">₹4,999</s> ₹2,499';
+        if (amtEl) amtEl.textContent = '₹4,999';
         if (msg) { msg.textContent = "That code isn't valid."; msg.className = 'po-coupon-msg err'; }
       }
     }
@@ -2196,7 +2196,7 @@
       var inp = document.getElementById('po-coupon-input'); if (inp) { inp.value = ''; inp.disabled = false; }
       var btn = document.getElementById('po-coupon-btn'); if (btn) btn.textContent = 'Apply';
       var msg = document.getElementById('po-coupon-msg'); if (msg) { msg.textContent = ''; msg.className = 'po-coupon-msg'; }
-      var amtEl = document.getElementById('po-total-amt'); if (amtEl) amtEl.innerHTML = '<s class="po-was">₹4,999</s> ₹2,499';
+      var amtEl = document.getElementById('po-total-amt'); if (amtEl) amtEl.textContent = '₹4,999';
     }
     function egToggleWhy(e) {
       if (e) { e.preventDefault(); e.stopPropagation(); }
@@ -2272,7 +2272,7 @@
       }
       // Event: user opened pre-order modal
       egGtag('event', 'open_preorder', { event_category: 'engagement' });
-      egFbq('track', 'AddToCart', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+      egFbq('track', 'AddToCart', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
     }
     function showPostPayAddressStep(mode) {
       mode = mode || 'paid';
@@ -2495,12 +2495,12 @@
         })
       }).catch(function(){});
 
-      egGtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
+      egGtag('event', 'begin_checkout', { value: 4999, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 4999, quantity: 1 }] });
 
       // ── Cash on Delivery: no Razorpay, straight to address collection ──
       if (payType === 'cod') {
         egGtag('event', 'cod_confirm_click', { event_category: 'conversion', event_label: 'cod' });
-        egFbq('trackCustom', 'CODConfirm', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+        egFbq('trackCustom', 'CODConfirm', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
         window._egAddrMode = 'cod';
         window._egAddrOrder = { paymentId: '', name: name, phone: fullNumber };
         showPostPayAddressStep('cod');
@@ -2508,11 +2508,11 @@
       }
 
       // ── Pay Online: existing Razorpay flow ──
-      egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
+      egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 4999, currency: 'INR' });
       // Shared event id lets Meta dedupe this browser event against the
       // server-side CAPI copy sent by /api/create-order.
       var icEventId = 'ic_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
-      egFbq('track', 'InitiateCheckout', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: icEventId });
+      egFbq('track', 'InitiateCheckout', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: icEventId });
 
       var submitBtn = form.querySelector('.po-submit');
       if (submitBtn) { submitBtn.disabled = true; submitBtn.querySelector('.btn-label').textContent = 'Loading...'; }
@@ -2581,8 +2581,8 @@
               } catch(ex) {}
               leadEmailSent = true;
               egGtag('event', 'preorder_paid', { event_category: 'conversion' });
-              egGtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
-              egFbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
+              egGtag('event', 'purchase', { transaction_id: paymentId, value: 4999, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 4999, quantity: 1 }] });
+              egFbq('track', 'Purchase', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
               // Record the payment immediately (email/sheet/WhatsApp), then
               // collect the delivery address in this same flow — the modal
               // swaps to a short address step instead of redirecting away.
@@ -2614,7 +2614,7 @@
           }
         }
       };
-      egFbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+      egFbq('track', 'AddPaymentInfo', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
         egGtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });
@@ -2702,7 +2702,7 @@
       <img loading="lazy" src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
-    <div class="po-offer-badge">🚀 Limited Time Offer — 50% Off &nbsp;<span class="po-offer-mrp">₹4,999</span>&nbsp;<span class="po-offer-price">₹2,499</span></div>
+    <div class="po-offer-badge">🚀 Launch offer ended &nbsp;<span class="po-offer-price">₹4,999</span></div>
     <p class="po-subtitle">Order <strong>EscapeGravity</strong> today. We'll ship to your door!</p>
     <form class="po-form" onsubmit="return submitPreOrder(event)">
       <label class="po-field">
@@ -2719,13 +2719,13 @@
       <p class="po-address-note">📦 That's all for now — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
       <div class="po-checkout">
         <div class="po-checkout-total">
-          <span>Total <button type="button" class="po-why" aria-label="Why it's worth ₹4,999" onclick="egToggleWhy(event)">Why it's worth ₹4,999?</button></span>
-          <strong id="po-total-amt"><s class="po-was">₹4,999</s> ₹2,499</strong>
+          <span>Total <button type="button" class="po-why" aria-label="Why ₹4,999?" onclick="egToggleWhy(event)">Why ₹4,999?</button></span>
+          <strong id="po-total-amt">₹4,999</strong>
         </div>
         <div class="po-why-pop" id="po-why-pop" hidden>
           <button type="button" class="po-why-close" aria-label="Close" onclick="egToggleWhy(event)">×</button>
-          <div class="po-why-title">Why it's worth ₹4,999</div>
-          <div class="po-why-lead">You pay ₹2,499 today — here's the full value behind it:</div>
+          <div class="po-why-title">Why ₹4,999?</div>
+          <div class="po-why-lead">Here's exactly what your money goes into:</div>
           <ul class="po-why-list">
             <li><span>🏎️</span> 11+ real play items included</li>
             <li><span>🛠️</span> Premium materials, built to last</li>
@@ -10513,7 +10513,7 @@
         How much does EscapeGravity cost?
         <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
-      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available to order at <em>₹2,499</em> — 50% off the retail price of ₹4,999. Delivered to your door within <em>3 days</em> of ordering. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
+      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available to order at <em>₹4,999</em> — the full retail price. Delivered to your door within <em>3 days</em> of ordering. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
     </div>
 
     <div class="faq-item eg-fade-in">
@@ -10810,7 +10810,7 @@
 
 <!-- ═══════════════════════════════════════════════ FOOTER ══ -->
 
-<!-- ═══════════════════════════════════════════════ WHY ₹2,499 ══ -->
+<!-- ═══════════════════════════════════════════════ WHY ₹4,999 ══ -->
 <style>
   #s-worth { padding: clamp(48px, 8vh, 84px) clamp(18px, 5vw, 40px); scroll-margin-top: 76px; }
   .worth-wrap { max-width: 760px; margin: 0 auto; }
@@ -10841,8 +10841,8 @@
 </style>
 <section id="s-worth" class="eg-section">
   <div class="worth-wrap">
-    <h2 class="page-h2 eg-fade-in worth-head">Why it's a <em style="color:#aa59c8;font-style:normal;">₹4,999</em> game</h2>
-    <p class="worth-sub eg-fade-in">You're getting it for <b style="color:#fff;">₹2,499</b> during launch — half price. Here's what makes it genuinely worth full price, so you know that ₹4,999 isn't a made-up number.</p>
+    <h2 class="page-h2 eg-fade-in worth-head">Why <em style="color:#aa59c8;font-style:normal;">₹4,999</em>?</h2>
+    <p class="worth-sub eg-fade-in">It's a fair question, and here's the honest answer — exactly what goes into the box, and why this isn't another mass-made product.</p>
     <div class="worth-list">
       <div class="worth-row eg-fade-in"><div class="worth-ico">🏎️</div><div class="worth-txt"><b>Comes with 11+ real play objects</b><span>Toy cars, clay, a frisbee, balls &amp; more — every physical challenge ready to play, right out of the box.</span></div></div>
       <div class="worth-row eg-fade-in"><div class="worth-ico">🛠️</div><div class="worth-txt"><b>Premium materials &amp; finish</b><span>Built to survive years of eager little hands — not a flimsy box that tears after a week.</span></div></div>
@@ -10850,7 +10850,7 @@
       <div class="worth-row eg-fade-in"><div class="worth-ico">🔬</div><div class="worth-txt"><b>Hundreds of hours of research</b><span>Each concept checked, argued over, and refined — so what your child learns is genuinely right, not half-baked.</span></div></div>
       <div class="worth-row eg-fade-in"><div class="worth-ico">📦</div><div class="worth-txt"><b>Made in small batches, not mass-produced</b><span>Real quality costs more per box, and we won't cut it. You're paying for care, not a factory line.</span></div></div>
     </div>
-    <p class="worth-note eg-fade-in">Made with care, not on an assembly line. Worth ₹4,999 — yours for ₹2,499 today.</p>
+    <p class="worth-note eg-fade-in">Made with care, not on an assembly line.</p>
   </div>
 </section>
 

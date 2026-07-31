@@ -49,7 +49,7 @@ export async function sendMetaEvent(context, event) {
         user_data,
         custom_data: {
           currency: 'INR',
-          value: event.value != null ? event.value : 2499,
+          value: event.value != null ? event.value : 4999,
           content_name: 'EscapeGravity'
         }
       }]

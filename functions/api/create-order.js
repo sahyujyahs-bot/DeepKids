@@ -19,7 +19,7 @@ export async function onRequestPost(context) {
 
     // Price is computed server-side so the charged amount can never be
     // tampered with from the browser. The client's `amount` is ignored.
-    const BASE_AMOUNT = 249900;              // ₹2,499 (EscapeGravity) in paise
+    const BASE_AMOUNT = 499900;              // ₹4,999 (EscapeGravity) in paise
     const COUPONS = { 'EG200': 20000 };      // code (UPPERCASE) -> paise off
     const coupon = String(body.coupon || '').trim().toUpperCase();
     const discount = (coupon && COUPONS[coupon]) ? COUPONS[coupon] : 0;

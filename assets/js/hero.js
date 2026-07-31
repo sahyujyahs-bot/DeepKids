@@ -908,7 +908,7 @@
       data.append('address', address || '—');
       data.append('payment_status', status);
       if (paymentId) data.append('razorpay_payment_id', paymentId);
-      data.append('amount', '₹2,499');
+      data.append('amount', '₹4,999');
       data.append('_subject', 'EscapeGravity Pre-Order [' + status + ']: ' + name);
       data.append('_template', 'table');
       data.append('_captcha', 'false');
@@ -997,11 +997,11 @@
       }).catch(function(){});
 
       if (typeof gtag === 'function') {
-        gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 2499, currency: 'INR' });
-        gtag('event', 'begin_checkout', { value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
-        gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+        gtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'preorder', value: 4999, currency: 'INR' });
+        gtag('event', 'begin_checkout', { value: 4999, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 4999, quantity: 1 }] });
+        gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 4999, 'currency': 'INR' });
       }
-      if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+      if (typeof fbq === 'function') fbq('track', 'AddPaymentInfo', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
 
       var submitBtn = form.querySelector('.po-submit');
       if (submitBtn) { submitBtn.disabled = true; submitBtn.querySelector('.btn-label').textContent = 'Loading...'; }
@@ -1011,7 +1011,7 @@
       fetch('/api/create-order', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ amount: 249900, receipt: 'EG-' + Date.now() })
+        body: JSON.stringify({ amount: 499900, receipt: 'EG-' + Date.now() })
       })
         .then(function(r) { return r.json(); })
         .then(function(order) {
@@ -1031,7 +1031,7 @@
       var options = {
         key: RAZORPAY_KEY_ID,
         order_id: orderId,
-        amount: 249900,
+        amount: 499900,
         currency: 'INR',
         name: 'DeepKids',
         description: 'EscapeGravity Pre-Order',
@@ -1067,10 +1067,10 @@
               leadEmailSent = true;
               if (typeof gtag === 'function') {
                 gtag('event', 'preorder_paid', { event_category: 'conversion' });
-                gtag('event', 'purchase', { transaction_id: paymentId, value: 2499, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 2499, quantity: 1 }] });
-                gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 2499, 'currency': 'INR' });
+                gtag('event', 'purchase', { transaction_id: paymentId, value: 4999, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 4999, quantity: 1 }] });
+                gtag('event', 'conversion', { 'send_to': 'AW-11336704198/ob8dCOfhsqAcEMbB4Z0q', 'value': 4999, 'currency': 'INR' });
               }
-              if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 2499, currency: 'INR', content_name: 'EscapeGravity' });
+              if (typeof fbq === 'function') fbq('track', 'Purchase', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
               var params = new URLSearchParams({ name: name, phone: fullNumber, address: fullAddress, payment_id: paymentId });
               // Wait for the email/sheet write to actually finish before navigating
               // away — navigating too early can abort the requests mid-flight.
