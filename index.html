@@ -12883,6 +12883,18 @@ if ('requestIdleCallback' in window) {
         body: JSON.stringify({ phone: phone, template: SCI_TEMPLATE, bodyParams: ['there', SCI_COUPON] })
       }).catch(function(){});
     }
+    /* Server-side capture into our own D1 database — the only sink we
+       control. formsubmit.co and Google Forms both fail silently, so a lead
+       can vanish with no trace. This one cannot. */
+    function sciSaveServerSide(phone, source){
+      if(!phone) return Promise.resolve();
+      return fetch('/api/save-draft',{
+        method:'POST', headers:{'Content-Type':'application/json'}, keepalive:true,
+        body: JSON.stringify({ phone: phone, rawPhone: phone.replace(/\D/g,''), cc:'',
+          name: '[SCI launch signup — ' + source + ']',
+          address:'', city:'', pincode:'', state:'' })
+      }).catch(function(){});
+    }
     function sciLead(phone, source){
       var data=new FormData();
       data.append('name','—'); data.append('whatsapp',phone); data.append('interest','SCI. Trading Cards'); data.append('source',source);
@@ -12902,7 +12914,7 @@ if ('requestIdleCallback' in window) {
         egGtag('event','sci_signup',{event_category:'conversion',event_label:source});
         egGtag('event','generate_lead',{event_category:'conversion',event_label:source});
         egFbq('track','Lead',{content_name:'SCI. Trading Cards'});
-        withTO(Promise.allSettled([sciLead(num,source), sciWhatsApp(num)]),3500).then(onDone);
+        withTO(Promise.allSettled([sciSaveServerSide(num,source), sciLead(num,source), sciWhatsApp(num)]),3500).then(onDone);
       });
     }
     /* Homepage banner form */

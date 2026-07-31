@@ -520,6 +520,24 @@
     }).catch(function(){});
   }
 
+  /* Server-side capture into our own D1 database. This is the ONLY sink we
+     control — formsubmit.co and Google Forms both fail silently (no-cors +
+     swallowed errors), so a lead can vanish without any trace. This one
+     can't. */
+  function sciSaveServerSide(name, phone) {
+    if (!phone) return Promise.resolve();
+    return fetch('/api/save-draft', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' }, keepalive: true,
+      body: JSON.stringify({
+        phone: phone,
+        rawPhone: phone.replace(/\D/g, ''),
+        cc: '',
+        name: (name || 'there') + ' [SCI launch signup]',
+        address: '', city: '', pincode: '', state: ''
+      })
+    }).catch(function(){});
+  }
+
   /* ── Lead pipeline: same as the order flow — email to you + Google Sheet ── */
   function sciSendLead(name, whatsapp, status) {
     var data = new FormData();
@@ -577,6 +595,7 @@
       egFbq('track', 'Lead', { content_name: 'SCI. Trading Cards' });
 
       sciTimeout(Promise.allSettled([
+        sciSaveServerSide(name, fullNumber),
         sciSendLead(name, fullNumber, 'SCI. Launch Signup'),
         sciSendWhatsApp(name, fullNumber)
       ]), 4000).then(function(){
