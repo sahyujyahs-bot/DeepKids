@@ -704,8 +704,15 @@
     }
     .hero-offer-price {
       font-weight: bold;
-      color: #cd9edf;
+      color: #fff;
+      font-size: 1.15em;
     }
+    .hero-offer-why {
+      color: #cd9edf;
+      text-decoration: none;
+      border-bottom: 1px dashed rgba(205,158,223,.55);
+    }
+    .hero-offer-why:hover { color: #fff; border-bottom-color: #fff; }
     .no-pay-tag {
       font-family: 'Futura', sans-serif;
       font-size: clamp(11px, 1.3vw, 15px);
@@ -1211,9 +1218,9 @@
       </svg>
       <span class="btn-label">Order Now</span>
     </div>
-      <div class="hero-offer-badge eg-fade-in" style="margin-right: clamp(22px, 3.4vw, 42px);">
-        <span class="hero-offer-mrp">₹4,999</span>&nbsp;<span class="hero-offer-price">₹4,999</span>&nbsp;· Early Bird — Limited Time Offer
-      </div>
+    <div class="hero-offer-badge eg-fade-in" style="margin-right: clamp(22px, 3.4vw, 42px);">
+      <span class="hero-offer-price">₹4,999</span>&nbsp;·&nbsp;<a href="#s-worth" class="hero-offer-why">Why ₹4,999?</a>
+    </div>
   </div>
 
   <!-- Replay button — bottom right -->
@@ -2702,7 +2709,6 @@
       <img loading="lazy" src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
-    <div class="po-offer-badge">🚀 Launch offer ended &nbsp;<span class="po-offer-price">₹4,999</span></div>
     <p class="po-subtitle">Order <strong>EscapeGravity</strong> today. We'll ship to your door!</p>
     <form class="po-form" onsubmit="return submitPreOrder(event)">
       <label class="po-field">
