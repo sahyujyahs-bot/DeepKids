@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>DeepKids — Almost Everything You'll Read Is A Copy Of A Copy</title>
-  <meta name="description" content="DeepKids makes offline games and books that go past the copied, half-wrong version of science every child is handed. Deeply researched, screen-free, and built for kids who are smarter than most products assume. Ages 7+."/>
+  <title>DeepKids — Boardgames, Card Games &amp; Picture Books That Go Deep</title>
+  <meta name="description" content="DeepKids makes offline boardgames, card games and picture books that take one concept and drill all the way down — first principles, many perspectives, deeply researched, original artwork. Ages 7+."/>
   <link rel="canonical" href="https://deepkids.in/newhome"/>
-  <meta property="og:title" content="DeepKids — Almost Everything You'll Read Is A Copy Of A Copy"/>
-  <meta property="og:description" content="Agreement isn't evidence. It's just repetition. Games and books that go deeper than the 99%."/>
+  <meta property="og:title" content="DeepKids — Boardgames, Card Games &amp; Picture Books That Go Deep"/>
+  <meta property="og:description" content="One concept, drilled deeper, from different perspectives. Screen-free, thought through, and built for kids who are smarter than most products assume."/>
   <meta property="og:image" content="https://deepkids.in/gift-kids-hero.webp"/>
   <meta property="og:url" content="https://deepkids.in/newhome"/>
   <meta property="og:type" content="website"/>
@@ -66,7 +66,7 @@
     "@type": "Organization",
     "name": "DeepKids",
     "url": "https://deepkids.in/",
-    "description": "DeepKids makes offline games and books that take one concept and go all the way down — screen-free learning for kids aged 7 and up.",
+    "description": "DeepKids makes offline boardgames, card games and picture books that take one concept and go all the way down — screen-free learning for kids aged 7 and up.",
     "founder": { "@type": "Person", "name": "Sahyujyah Shrinivas" },
     "sameAs": [
       "https://www.instagram.com/deepkids.club",
@@ -91,20 +91,6 @@
       font-weight: 400; font-style: normal; font-display: swap;
     }
 
-    /* ══════════════════════════════════════════════════════════
-       DESIGN IDEA — "past the 99%"
-
-       The argument is that almost everything a child is handed is a
-       copy of a copy, and that reaching the truth means putting the
-       easy 99% down and going further. So the page descends: the
-       water darkens as you scroll, a rail on the right tracks how
-       far down you are, and the further you go the more concrete it
-       gets — argument, then proof, then method, then the boxes you
-       can actually buy, then a floor of things to play with.
-
-       No geology here. The Earth's layers belong to EscapeGravity.
-       ══════════════════════════════════════════════════════════ */
-
     :root {
       --purple: #aa59c8; --purple-rgb: 170,89,200;
       --lilac: #cd9edf; --plum: #6b2155;
@@ -116,11 +102,10 @@
       --font-head: 'Norwester', sans-serif;
       --font-body: 'Futura', 'Segoe UI', sans-serif;
 
-      /* One rhythm value drives every vertical gap, so spacing can't
-         drift from section to section. */
-      --gap-section: clamp(64px, 11vh, 132px);
+      /* One rhythm value drives every vertical gap on the page. */
+      --gap-section: clamp(64px, 11vh, 130px);
       --gap-block: clamp(26px, 4.5vh, 46px);
-      --rail: clamp(34px, 5vw, 62px);
+      --rail: clamp(32px, 4.6vw, 58px);
     }
 
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -139,7 +124,9 @@
       padding-right: calc(var(--rail) + clamp(6px, 1.4vw, 18px));
     }
 
-    /* ─── Water that darkens as you descend ───────────────────*/
+    /* ─── Water that deepens as you descend ───────────────────
+       Scattered light at the surface, resolving into one centre by
+       the end — going further in rather than further underground. */
     .depths { position: fixed; inset: 0; z-index: 0; pointer-events: none; }
     .depth-layer { position: absolute; inset: 0; opacity: 0; transition: opacity 1s ease; }
     .depth-layer.on { opacity: 1; }
@@ -156,15 +143,12 @@
     .dl-3 { background:
       radial-gradient(900px 620px at 50% 60%, rgba(var(--purple-rgb), .2), transparent 68%),
       linear-gradient(180deg, #07030f 0%, #0b0518 55%, #04020a 100%); }
-    /* The descent inward: the scattered noise on the surface thins out
-       as you go, while a single centre grows and brightens, until by
-       the last section the whole screen is one light instead of many. */
     .core {
       position: fixed; inset: 0; z-index: 0; pointer-events: none;
       opacity: 0; transform: scale(.3);
       transition: opacity .5s linear, transform .5s linear;
       background:
-        radial-gradient(38vmax 38vmax at 50% 52%, rgba(255,255,255,.13) 0%, rgba(var(--lilac-rgb, 205,158,223), .1) 26%, rgba(var(--purple-rgb), .12) 46%, transparent 70%),
+        radial-gradient(38vmax 38vmax at 50% 52%, rgba(255,255,255,.13) 0%, rgba(var(--purple-rgb), .12) 46%, transparent 70%),
         radial-gradient(14vmax 14vmax at 50% 52%, rgba(255,246,224,.2) 0%, transparent 72%);
     }
     .motes { position: fixed; inset: 0; z-index: 0; pointer-events: none; opacity: .75;
@@ -184,12 +168,12 @@
 
     header, main, footer { position: relative; z-index: 2; }
 
-    /* ─── Descent rail — how far down you are ─────────────────*/
+    /* ─── Descent rail ────────────────────────────────────────*/
     .rail {
       position: fixed; top: 0; right: 0; bottom: 0; width: var(--rail);
       z-index: 40; pointer-events: none;
       display: flex; flex-direction: column; align-items: center;
-      padding-block: clamp(60px, 12vh, 104px) clamp(18px, 4vh, 32px);
+      padding-block: clamp(58px, 12vh, 100px) clamp(18px, 4vh, 32px);
       border-left: 1px solid rgba(255,255,255,.08);
       background: linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0,.3));
     }
@@ -207,7 +191,7 @@
     .rail-read {
       writing-mode: vertical-rl; text-orientation: mixed;
       margin-top: 14px; font-family: var(--font-head); font-variant: small-caps;
-      letter-spacing: 3px; font-size: clamp(10.5px, 1.4vw, 13px);
+      letter-spacing: 3px; font-size: clamp(10px, 1.3vw, 12.5px);
       color: rgba(255,255,255,.7); white-space: nowrap; text-shadow: 0 0 14px rgba(0,0,0,.85);
     }
     @media (prefers-reduced-motion: reduce) { .motes { animation: none; } }
@@ -237,159 +221,42 @@
 
     /* ─── Hero ────────────────────────────────────────────────*/
     .hero {
-      position: relative; overflow: hidden;
       min-height: 100vh; min-height: 100dvh;
-      display: flex; align-items: center;
-      padding-block: clamp(88px, 14vh, 140px) clamp(48px, 8vh, 92px);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      padding-block: clamp(86px, 13vh, 132px) clamp(40px, 7vh, 80px);
+      text-align: center;
     }
-    .hero-art { position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
-    .hero-art img {
-      width: 100%; height: 100%; object-fit: cover; opacity: .58;
-      transform: scale(1.04); animation: breathe 30s ease-in-out infinite alternate;
-    }
-    @keyframes breathe { from { transform: scale(1.04); } to { transform: scale(1.13); } }
-    .hero-art::after {
-      content: ''; position: absolute; inset: 0;
-      background:
-        radial-gradient(110% 74% at 50% 44%, rgba(5,3,15,.34) 0%, rgba(5,3,15,.82) 60%, #05030f 100%),
-        linear-gradient(180deg, rgba(5,3,15,.9) 0%, rgba(5,3,15,.24) 34%, rgba(5,3,15,.96) 100%);
-    }
-    .hero-inner { width: 100%; text-align: center; display: flex; flex-direction: column; }
-    .hero-eyebrow {
-      display: inline-flex; align-self: center; align-items: center; gap: 8px;
-      font-size: clamp(10px, 1.25vw, 12px); letter-spacing: 4px; text-transform: uppercase;
-      color: var(--cyan); border: 1px solid rgba(var(--cyan-rgb), .42); border-radius: 999px;
-      padding: 6px 16px; margin-bottom: clamp(18px, 3.2vh, 32px);
+    .hero-age {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: clamp(12px, 1.5vw, 15px); color: var(--cyan);
+      border: 1px solid rgba(var(--cyan-rgb), .45); border-radius: 999px;
+      padding: 4px 16px; margin-bottom: clamp(14px, 2.4vh, 24px);
       background: rgba(var(--cyan-rgb), .08);
     }
     .wordmark {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px;
-      font-size: clamp(46px, 12vw, 132px); line-height: .9;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px;
+      font-size: clamp(50px, 13vw, 140px); line-height: .9;
       background: linear-gradient(180deg, #fff 0%, #e9c6f7 32%, var(--lilac) 64%, var(--purple) 100%);
       -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
-      filter: drop-shadow(0 0 44px rgba(var(--purple-rgb), .55)) drop-shadow(0 4px 18px rgba(0,0,0,.8));
+      filter: drop-shadow(0 0 44px rgba(var(--purple-rgb), .55));
     }
-    .hero h1 {
-      margin-top: clamp(14px, 2.6vh, 26px);
-      font-size: clamp(25px, 5vw, 54px); color: #fff; letter-spacing: .5px;
-      text-shadow: 0 0 34px rgba(var(--purple-rgb), .5), 0 3px 16px rgba(0,0,0,.85);
+    .hero-kinds {
+      display: flex; flex-wrap: wrap; justify-content: center; align-items: center;
+      gap: 6px 14px; margin-top: clamp(10px, 1.8vh, 18px);
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: clamp(14px, 2.4vw, 24px); color: rgba(255,255,255,.92);
     }
-    .hero h1 em { font-style: normal; color: var(--cyan); }
-    .hero-sub {
+    .hero-kinds i { font-style: normal; color: var(--purple); }
+    .hero-stage {
+      width: min(760px, 92%); margin-top: clamp(20px, 3.5vh, 40px);
+      filter: drop-shadow(0 24px 50px rgba(0,0,0,.6));
+    }
+    .hero-line {
+      margin-top: clamp(18px, 3vh, 30px); max-width: 620px;
       font-size: clamp(15px, 2vw, 19px); color: var(--ink);
-      max-width: 600px; margin: clamp(16px, 2.6vh, 26px) auto 0;
-      text-shadow: 0 2px 14px rgba(0,0,0,.9);
     }
-    .hero-sub b { color: #fff; }
-    .hero-cta { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px; margin-top: clamp(24px, 4vh, 40px); }
-    .hero-cta .sec-link {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 15px;
-      color: rgba(255,255,255,.8); text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.3); padding-bottom: 3px;
-    }
-    .hero-cta .sec-link:hover { color: #fff; border-color: var(--cyan); }
-
-    /* ─── The two broken halves ───────────────────────────────
-       Full-bleed and edge to edge: entertainment on the left, school
-       on the right, split down the middle of the screen on desktop
-       and stacked top/bottom on a phone. Deliberately the loudest
-       thing on the page. */
-    .broken { position: relative; padding: 0; }
-    .broken-grid {
-      display: grid; grid-template-columns: 1fr;
-      min-height: 100vh; min-height: 100dvh;
-    }
-    @media (min-width: 860px) { .broken-grid { grid-template-columns: 1fr 1fr; } }
-    .half {
-      position: relative; overflow: hidden; isolation: isolate;
-      display: flex; flex-direction: column; justify-content: flex-end;
-      padding: clamp(26px, 4vw, 54px);
-      padding-bottom: clamp(34px, 5vw, 64px);
-      min-height: 62vh;
-    }
-    @media (min-width: 860px) { .half { min-height: 100vh; min-height: 100dvh; } }
-    .half + .half::before {
-      content: ''; position: absolute; left: 0; right: 0; top: 0; height: 1px; z-index: 4;
-      background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent);
-    }
-    @media (min-width: 860px) {
-      .half + .half::before { left: 0; right: auto; top: 0; bottom: 0; width: 1px; height: auto;
-        background: linear-gradient(180deg, transparent, rgba(255,255,255,.25), transparent); }
-    }
-    .half-art { position: absolute; inset: 0; z-index: -2; }
-    .half-art img { width: 100%; height: 100%; object-fit: cover; object-position: center 22%; }
-    .half-art::after {
-      content: ''; position: absolute; inset: 0;
-      background: linear-gradient(180deg, rgba(8,5,20,.5) 0%, rgba(8,5,20,.12) 26%, rgba(8,5,20,.82) 62%, rgba(8,5,20,.97) 100%);
-    }
-    .half-tag {
-      align-self: flex-start; font-family: var(--font-head); font-variant: small-caps;
-      letter-spacing: 3px; font-size: clamp(10.5px, 1.4vw, 12.5px);
-      padding: 5px 14px; border-radius: 999px; margin-bottom: 14px;
-      color: var(--rose); border: 1px solid rgba(255,138,138,.5); background: rgba(255,138,138,.1);
-    }
-    .half h3 {
-      font-size: clamp(28px, 5.6vw, 52px); color: #fff; letter-spacing: .5px;
-      text-shadow: 0 3px 20px rgba(0,0,0,.9);
-    }
-    .half h3 em { font-style: normal; color: var(--rose); }
-    .half > p {
-      margin-top: 12px; max-width: 460px; font-size: clamp(14.5px, 1.9vw, 16.5px);
-      color: rgba(255,255,255,.84); text-shadow: 0 2px 12px rgba(0,0,0,.9);
-    }
-    .half ul { list-style: none; margin-top: 16px; display: flex; flex-wrap: wrap; gap: 8px; }
-    .half li {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px; font-size: 13px;
-      color: rgba(255,255,255,.82); border: 1px solid rgba(255,255,255,.22);
-      border-radius: 999px; padding: 4px 13px; background: rgba(0,0,0,.35);
-      backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px);
-    }
-    /* The school half: a wall of identical worksheets, every one
-       carrying the same wrong sentence. Built in CSS so it is ours,
-       and it makes the copy-of-a-copy point better than a photo can. */
-    .sheet-wall {
-      position: absolute; inset: 0; z-index: -2; overflow: hidden;
-      background: linear-gradient(180deg, #141a34 0%, #0d1024 60%, #080514 100%);
-    }
-    .sheet-wall-inner {
-      position: absolute; inset: -12% -6%;
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr));
-      gap: 9px; transform: rotate(-4deg) scale(1.12); transform-origin: center;
-    }
-    @media (min-width: 860px) {
-      .sheet-wall-inner { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 12px; }
-    }
-    .sheet {
-      background: #eae6dd; border-radius: 3px; padding: 9px 8px;
-      box-shadow: 0 6px 16px rgba(0,0,0,.5); position: relative; overflow: hidden;
-      aspect-ratio: 3 / 4; transform: rotate(var(--rot, 0deg));
-    }
-    .sheet b {
-      display: block; font-family: var(--font-body); font-size: 6.5px; line-height: 1.3;
-      color: #2a2233; font-weight: bold; margin-bottom: 5px;
-    }
-    @media (min-width: 860px) { .sheet b { font-size: 7.5px; } }
-    .sheet i {
-      display: block; height: 2px; border-radius: 2px; background: #bdb6ab; margin-bottom: 4px;
-      width: var(--w, 100%);
-    }
-    .sheet::after {
-      content: '✕'; position: absolute; right: 5px; bottom: 3px;
-      font-size: 15px; line-height: 1; color: rgba(214,48,48,.85); font-weight: bold;
-    }
-    .sheet-wall::after {
-      content: ''; position: absolute; inset: 0;
-      background:
-        radial-gradient(92% 72% at 50% 26%, rgba(8,5,20,.14), rgba(8,5,20,.76) 66%, rgba(8,5,20,.97) 100%),
-        linear-gradient(180deg, rgba(8,5,20,.5) 0%, rgba(8,5,20,.26) 22%, rgba(8,5,20,.93) 62%, rgba(8,5,20,.99) 100%);
-    }
-    .broken-verdict {
-      text-align: center; padding: clamp(34px, 6vh, 64px) clamp(18px, 5vw, 40px);
-      padding-right: calc(var(--rail) + clamp(6px, 1.4vw, 18px));
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px;
-      font-size: clamp(20px, 4vw, 38px); line-height: 1.16; color: #fff;
-      background: linear-gradient(180deg, rgba(8,5,20,.98), rgba(5,3,15,0));
-    }
-    .broken-verdict em { font-style: normal; color: var(--lime); }
+    .hero-line b { color: #fff; }
 
     /* ─── Section shell ───────────────────────────────────────*/
     .zone { padding-block: var(--gap-section); }
@@ -398,170 +265,232 @@
       display: block; font-family: var(--font-head); font-variant: small-caps;
       font-size: clamp(10.5px, 1.4vw, 12.5px); letter-spacing: 4px; color: var(--gold); margin-bottom: 10px;
     }
-    .zone h2 { font-size: clamp(28px, 5.6vw, 54px); color: #fff; text-shadow: 0 0 30px rgba(var(--purple-rgb), .45); }
+    .zone h2 { font-size: clamp(28px, 5.4vw, 52px); color: #fff; text-shadow: 0 0 30px rgba(var(--purple-rgb), .45); }
     .zone h2 em { font-style: normal; color: var(--lilac); }
-    .zone-lede { max-width: 640px; margin-top: 16px; color: var(--ink); font-size: clamp(15px, 2vw, 17.5px); }
+    .zone-lede { max-width: 660px; margin-top: 16px; color: var(--ink); font-size: clamp(15px, 2vw, 17.5px); }
     .zone-lede b { color: #fff; }
-    .zone-lede + .zone-lede { margin-top: 12px; }
-
-    /* ─── "A copy of a copy" stack ────────────────────────────
-       The same claim printed over and over, each pass a little
-       blurrier — the argument made visible before it's made in
-       words. The last line is the one nobody copied. */
-    .copies { margin: 0 auto; max-width: 720px; text-align: center; }
-    .copy-line {
-      font-family: var(--font-body); font-size: clamp(15px, 2.4vw, 21px);
-      color: #fff; line-height: 1.45; white-space: nowrap;
-      opacity: calc(1 - (var(--i) * 0.1));
-      filter: blur(calc(var(--i) * 0.42px));
-      transform: translateX(calc(var(--i) * var(--dir) * 1.6px)) scale(calc(1 - var(--i) * 0.012));
-      margin-bottom: 2px;
-    }
-    .copy-src { display: block; font-size: 10.5px; letter-spacing: 2.5px; text-transform: uppercase;
-      color: rgba(255,255,255,.32); margin-top: 3px; }
-    .copy-truth {
-      margin-top: clamp(26px, 4.5vh, 44px); padding-top: clamp(24px, 4vh, 38px);
-      border-top: 1px solid rgba(var(--lime-rgb), .3);
-    }
-    .copy-truth .t-tag {
-      display: block; font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
-      font-size: 12px; color: var(--lime); margin-bottom: 10px;
-    }
-    .copy-truth p { font-size: clamp(17px, 2.8vw, 25px); color: #fff; line-height: 1.4; }
-    .copy-truth b { color: var(--lime); }
-
-    /* ─── Break-open cards ────────────────────────────────────*/
-    .cracks { display: grid; grid-template-columns: 1fr; gap: clamp(14px, 2vw, 20px); }
-    @media (min-width: 720px) { .cracks { grid-template-columns: repeat(2, 1fr); } }
-    .crack {
-      position: relative; text-align: left; cursor: pointer;
-      font: inherit; color: inherit; background: none; border: 0; padding: 0;
-      border-radius: 18px; isolation: isolate;
-    }
-    /* The truth sits in normal flow and sets the card's height; the
-       myth shell is layered on top at exactly that size, so the card
-       never resizes or clips when it breaks open. */
-    .crack-truth {
-      position: relative; min-height: 218px; border-radius: 18px; padding: 24px 22px;
-      display: flex; flex-direction: column; justify-content: center;
-      background: linear-gradient(165deg, rgba(var(--purple-rgb), .3), rgba(var(--cyan-rgb), .08) 75%);
-      border: 1px solid rgba(var(--purple-rgb), .55);
-      opacity: 0; transform: scale(.97); transition: opacity .5s ease .12s, transform .5s ease .12s;
-    }
-    .crack-truth .t-tag { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px;
-      font-size: 12px; color: var(--lime); margin-bottom: 8px; }
-    .crack-truth p { font-size: 15px; color: rgba(255,255,255,.93); }
-    .crack-truth b { color: var(--lime); }
-    .crack-shell { position: absolute; inset: 0; border-radius: 18px; }
-    .shell-half {
-      position: absolute; inset: 0; border-radius: 18px; padding: 24px 22px;
-      display: flex; flex-direction: column; justify-content: center;
-      background: linear-gradient(165deg, rgba(255,255,255,.075), rgba(255,255,255,.02) 70%);
-      border: 1px solid rgba(255,255,255,.2);
-      transition: transform .55s cubic-bezier(.6,-0.2,.3,1.3), opacity .5s ease;
-      backface-visibility: hidden;
-    }
-    /* Identical content in both halves, each clipped to one side of a
-       jagged split — so the claim visibly tears down the middle. */
-    .shell-half.top { clip-path: polygon(0 0,100% 0,100% 46%,72% 54%,44% 44%,18% 56%,0 48%); }
-    .shell-half.bot { clip-path: polygon(0 48%,18% 56%,44% 44%,72% 54%,100% 46%,100% 100%,0 100%); }
-    .crack.open .shell-half.top { transform: translateY(-26px) rotate(-1.2deg); opacity: 0; }
-    .crack.open .shell-half.bot { transform: translateY(26px) rotate(1.2deg); opacity: 0; }
-    .crack.open .crack-truth { opacity: 1; transform: none; }
-    .crack:hover .crack-shell { filter: brightness(1.12); }
-    .crack:focus-visible { outline: 2px solid var(--cyan); outline-offset: 5px; }
-    .m-tag { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px;
-      font-size: 12px; color: var(--rose); margin-bottom: 8px; }
-    .m-said { font-size: clamp(16px, 2.2vw, 18px); color: rgba(255,255,255,.94); }
-    .m-cue { margin-top: auto; padding-top: 16px; font-size: 11.5px; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,.42); }
-
-    /* ─── The method: descending steps ────────────────────────*/
-    .steps { position: relative; padding-left: 30px; }
-    .steps::before {
-      content: ''; position: absolute; left: 8px; top: 8px; bottom: 8px; width: 2px;
-      background: linear-gradient(180deg, rgba(var(--cyan-rgb), .7), rgba(var(--purple-rgb), .7) 50%, rgba(var(--lime-rgb), .55));
-    }
-    .step { position: relative; padding-bottom: clamp(24px, 4vh, 38px); }
-    .step:last-child { padding-bottom: 0; }
-    .step::before {
-      content: ''; position: absolute; left: -26px; top: 9px; width: 10px; height: 10px; border-radius: 50%;
-      background: #fff; box-shadow: 0 0 12px rgba(255,255,255,.8), 0 0 22px rgba(var(--purple-rgb), .9);
-    }
-    .step h3 { font-size: clamp(18px, 2.6vw, 23px); color: #fff; letter-spacing: .5px; margin-bottom: 6px; }
-    .step p { font-size: clamp(14.5px, 1.9vw, 16px); color: var(--ink-dim); max-width: 620px; }
-    .step .depth-tag {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: 11.5px;
-      color: var(--gold); display: block; margin-bottom: 2px;
-    }
-
-    /* ─── Product shelf ───────────────────────────────────────*/
-    .shelf { display: flex; flex-direction: column; gap: clamp(18px, 3vh, 30px); }
-    .prod {
-      display: grid; grid-template-columns: minmax(0, 42%) minmax(0, 58%); align-items: stretch;
-      background: linear-gradient(150deg, rgba(255,255,255,.07), rgba(255,255,255,.018) 68%);
-      border: 1px solid rgba(255,255,255,.15); border-radius: 22px; overflow: hidden;
-      transition: transform .35s ease, border-color .35s ease, box-shadow .35s ease;
-    }
-    .prod:hover { transform: translateY(-5px); border-color: rgba(var(--purple-rgb), .55); box-shadow: 0 28px 60px rgba(0,0,0,.55); }
-    .prod:nth-child(even) { grid-template-columns: minmax(0, 58%) minmax(0, 42%); }
-    .prod:nth-child(even) .prod-art { order: 2; }
-    .prod-art { position: relative; overflow: hidden; background: #0d0722; min-height: 210px; }
-    .prod-art img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
-    .prod:hover .prod-art img { transform: scale(1.05); }
-    .prod-depth {
-      position: absolute; left: 14px; top: 14px; z-index: 2;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 11.5px;
-      padding: 4px 11px; border-radius: 999px; color: #fff;
-      background: rgba(5,3,15,.72); border: 1px solid rgba(255,255,255,.28);
-      backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
-    }
-    .prod-body { padding: clamp(20px, 3vw, 32px); display: flex; flex-direction: column; }
-    .prod-status {
-      align-self: flex-start; font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px;
-      font-size: 11.5px; padding: 3px 12px; border-radius: 999px; margin-bottom: 12px;
-    }
-    .st-now   { color: #05030f; background: var(--lime); }
-    .st-soon  { color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .55); background: rgba(var(--gold-rgb), .1); }
-    .st-works { color: var(--ink-dim); border: 1px solid rgba(255,255,255,.22); }
-    .prod h3 { font-size: clamp(23px, 3.4vw, 34px); color: #fff; letter-spacing: .5px; }
-    .prod .meta { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--lilac); margin: 6px 0 12px; }
-    .prod p { font-size: 15px; color: var(--ink-dim); flex: 1; }
-    .prod-foot { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 18px; }
-    .prod-price { font-family: var(--font-head); font-size: clamp(20px, 2.6vw, 26px); color: #fff; letter-spacing: 1px; }
-    .prod-go {
-      display: inline-flex; align-items: center; gap: 8px;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 16px;
-      color: #fff; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.35); padding-bottom: 3px;
-      transition: border-color .2s ease, gap .2s ease;
-    }
-    .prod-go:hover { border-color: var(--cyan); gap: 13px; }
-    .prod-go.buy { color: #05030f; background: var(--lime); border: 0; border-radius: 999px; padding: 8px 20px; }
-    .prod-go.buy:hover { filter: brightness(1.08); }
-    .prod-go.muted { color: var(--ink-dim); border-bottom-style: dashed; pointer-events: none; }
-    @media (max-width: 760px) {
-      .prod, .prod:nth-child(even) { grid-template-columns: 1fr; }
-      .prod:nth-child(even) .prod-art { order: 0; }
-      .prod-art { aspect-ratio: 16 / 10; min-height: 0; }
-    }
+    .zone-centre { text-align: center; }
+    .zone-centre .zone-lede { margin-inline: auto; }
 
     /* ─── Word cloud ──────────────────────────────────────────*/
     .cloud {
       display: flex; flex-wrap: wrap; justify-content: center; align-items: center;
-      gap: clamp(8px, 1.6vw, 18px); max-width: 940px; margin: 0 auto;
+      gap: clamp(10px, 2vw, 26px); max-width: 940px; margin: 0 auto;
     }
     .cloud span {
       font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px;
-      line-height: 1.1; cursor: default; white-space: nowrap;
+      line-height: 1.05; cursor: default; white-space: nowrap;
       transition: color .25s ease, transform .25s ease, text-shadow .25s ease;
     }
-    .cloud span:hover { color: #fff !important; transform: scale(1.09) rotate(0deg) !important; text-shadow: 0 0 26px rgba(var(--purple-rgb), .9); }
-    .cl-xl { font-size: clamp(26px, 5.4vw, 52px); color: #fff; }
-    .cl-l  { font-size: clamp(21px, 4vw, 38px); color: var(--lilac); }
-    .cl-m  { font-size: clamp(16px, 2.8vw, 27px); color: rgba(255,255,255,.72); }
-    .cl-s  { font-size: clamp(13px, 2vw, 19px); color: rgba(255,255,255,.44); }
+    .cloud span:hover { color: #fff !important; transform: scale(1.08); text-shadow: 0 0 26px rgba(var(--purple-rgb), .9); }
+    .cl-xl { font-size: clamp(30px, 6.4vw, 62px); color: #fff; }
+    .cl-l  { font-size: clamp(23px, 4.6vw, 44px); color: var(--lilac); }
+    .cl-m  { font-size: clamp(18px, 3.2vw, 32px); color: rgba(255,255,255,.72); }
     .cl-gold { color: var(--gold); } .cl-lime { color: var(--lime); } .cl-cyan { color: var(--cyan); }
-    .cloud-legend { text-align: center; margin-top: var(--gap-block); font-size: 13px; letter-spacing: 2px;
-      text-transform: uppercase; color: var(--ink-dim); }
+
+    /* ─── School: the cage ────────────────────────────────────*/
+    .school { position: relative; padding: 0; }
+    .school-grid { display: grid; grid-template-columns: 1fr; min-height: 100vh; min-height: 100dvh; }
+    @media (min-width: 880px) { .school-grid { grid-template-columns: 1.05fr 1fr; } }
+    .school-art {
+      position: relative; overflow: hidden; min-height: 58vh;
+      background: linear-gradient(180deg, #141a34 0%, #0d1024 60%, #080514 100%);
+    }
+    @media (min-width: 880px) { .school-art { min-height: 100vh; min-height: 100dvh; } }
+    .school-art > img { width: 100%; height: 100%; object-fit: cover; object-position: center 25%; }
+    .school-art::after {
+      content: ''; position: absolute; inset: 0; pointer-events: none;
+      background: linear-gradient(180deg, rgba(8,5,20,.55) 0%, rgba(8,5,20,.08) 30%, rgba(8,5,20,.7) 82%, rgba(8,5,20,.95) 100%);
+    }
+    /* Bars drawn over the artwork — ruled-notebook lines turned into a
+       cage, so the frame reads as school even before you see the kids. */
+    .school-bars {
+      position: absolute; inset: 0; z-index: 2; pointer-events: none;
+      background:
+        repeating-linear-gradient(90deg, rgba(226,222,212,.5) 0 4px, transparent 4px 74px),
+        linear-gradient(180deg, rgba(226,222,212,.5) 0 5px, transparent 5px),
+        linear-gradient(0deg, rgba(226,222,212,.5) 0 5px, transparent 5px);
+      mask-image: radial-gradient(120% 90% at 50% 45%, #000 45%, rgba(0,0,0,.55) 75%, rgba(0,0,0,.25) 100%);
+      -webkit-mask-image: radial-gradient(120% 90% at 50% 45%, #000 45%, rgba(0,0,0,.55) 75%, rgba(0,0,0,.25) 100%);
+    }
+    .school-label {
+      position: absolute; top: 18px; left: 50%; transform: translateX(-50%); z-index: 3;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 6px;
+      font-size: clamp(13px, 2vw, 18px); color: rgba(255,255,255,.75);
+      background: rgba(5,3,15,.6); border: 1px solid rgba(255,255,255,.22);
+      padding: 4px 20px; border-radius: 4px;
+      backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
+    }
+    /* Stand-in until problem-education.jpg is added: a wall of identical
+       worksheets, every one carrying the same wrong sentence. */
+    .sheet-wall { position: absolute; inset: 0; overflow: hidden; }
+    .sheet-wall-inner {
+      position: absolute; inset: -12% -6%;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr));
+      gap: 9px; transform: rotate(-4deg) scale(1.12); transform-origin: center;
+    }
+    @media (min-width: 880px) {
+      .sheet-wall-inner { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 12px; }
+    }
+    .sheet {
+      background: #eae6dd; border-radius: 3px; padding: 9px 8px;
+      box-shadow: 0 6px 16px rgba(0,0,0,.5); position: relative; overflow: hidden;
+      aspect-ratio: 3 / 4; transform: rotate(var(--rot, 0deg));
+    }
+    .sheet b { display: block; font-family: var(--font-body); font-size: 6.5px; line-height: 1.3;
+      color: #2a2233; font-weight: bold; margin-bottom: 5px; }
+    @media (min-width: 880px) { .sheet b { font-size: 7.5px; } }
+    .sheet i { display: block; height: 2px; border-radius: 2px; background: #bdb6ab; margin-bottom: 4px; width: var(--w, 100%); }
+    .sheet::after {
+      content: '✕'; position: absolute; right: 5px; bottom: 3px;
+      font-size: 15px; line-height: 1; color: rgba(214,48,48,.85); font-weight: bold;
+    }
+    .school-copy {
+      display: flex; flex-direction: column; justify-content: center;
+      padding: clamp(34px, 5vw, 68px) clamp(22px, 5vw, 60px);
+      padding-right: calc(var(--rail) + clamp(16px, 3vw, 40px));
+    }
+    .school-copy .tag {
+      align-self: flex-start; font-family: var(--font-head); font-variant: small-caps;
+      letter-spacing: 3px; font-size: clamp(10.5px, 1.4vw, 12.5px);
+      padding: 5px 14px; border-radius: 999px; margin-bottom: 16px;
+      color: var(--rose); border: 1px solid rgba(255,138,138,.5); background: rgba(255,138,138,.1);
+    }
+    .school-copy h2 { font-size: clamp(30px, 5.4vw, 56px); color: #fff; }
+    .school-copy h2 em { font-style: normal; color: var(--rose); }
+    .school-copy p { margin-top: 16px; max-width: 480px; font-size: clamp(15px, 2vw, 17.5px); color: var(--ink); }
+    .school-copy p b { color: #fff; }
+    .school-copy ul { list-style: none; margin-top: 20px; display: flex; flex-wrap: wrap; gap: 8px; }
+    .school-copy li {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px; font-size: 13px;
+      color: rgba(255,255,255,.82); border: 1px solid rgba(255,255,255,.22);
+      border-radius: 999px; padding: 4px 13px; background: rgba(0,0,0,.3);
+    }
+
+    /* ─── The quiz ────────────────────────────────────────────*/
+    .quiz {
+      max-width: 720px; margin: 0 auto; position: relative;
+      background: linear-gradient(170deg, rgba(255,255,255,.06), rgba(255,255,255,.016) 70%);
+      border: 1px solid rgba(255,255,255,.16); border-radius: 22px;
+      padding: clamp(22px, 3.4vw, 36px);
+      box-shadow: 0 26px 60px rgba(0,0,0,.5);
+    }
+    .quiz-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 18px; }
+    .quiz-step { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: 12.5px; color: var(--ink-dim); }
+    .quiz-score { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 12.5px; color: var(--gold); }
+    .quiz-arrows { display: flex; gap: 8px; }
+    .quiz-arrow {
+      width: 34px; height: 34px; border-radius: 50%; cursor: pointer;
+      background: rgba(var(--purple-rgb), .2); border: 1px solid rgba(var(--purple-rgb), .5);
+      color: #fff; font-size: 15px; line-height: 1; display: grid; place-items: center;
+      transition: background .2s ease, opacity .2s ease;
+    }
+    .quiz-arrow:hover { background: rgba(var(--purple-rgb), .45); }
+    .quiz-arrow[disabled] { opacity: .3; cursor: default; }
+    .quiz-q {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: .5px;
+      font-size: clamp(20px, 3.4vw, 30px); color: #fff; line-height: 1.15; margin-bottom: 18px;
+    }
+    .quiz-opts { display: flex; flex-direction: column; gap: 10px; }
+    .quiz-opt {
+      text-align: left; cursor: pointer; font: inherit;
+      font-size: clamp(14.5px, 1.9vw, 16.5px); color: rgba(255,255,255,.92);
+      background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.2);
+      border-radius: 14px; padding: 14px 18px;
+      transition: background .2s ease, border-color .2s ease, transform .2s ease;
+    }
+    .quiz-opt:hover:not([disabled]) { background: rgba(var(--purple-rgb), .2); border-color: rgba(var(--purple-rgb), .6); transform: translateX(3px); }
+    .quiz-opt[disabled] { cursor: default; }
+    .quiz-opt.picked-wrong { background: rgba(255,138,138,.16); border-color: rgba(255,138,138,.6); }
+    .quiz-opt.is-right { background: rgba(var(--lime-rgb), .16); border-color: rgba(var(--lime-rgb), .6); }
+    .quiz-verdict {
+      display: none; margin-top: 20px; padding-top: 18px;
+      border-top: 1px dashed rgba(255,255,255,.2);
+    }
+    .quiz-verdict.show { display: block; }
+    .quiz-verdict .line {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px;
+      font-size: clamp(18px, 3vw, 26px); line-height: 1.15; margin-bottom: 14px;
+    }
+    .quiz-verdict .line.bad { color: var(--rose); }
+    .quiz-verdict .line.good { color: var(--lime); }
+    .quiz-reveal {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 15px;
+      color: #05030f; background: var(--lime); border: 0; border-radius: 999px;
+      padding: 9px 22px; cursor: pointer; transition: filter .2s ease;
+    }
+    .quiz-reveal:hover { filter: brightness(1.08); }
+    .quiz-actual { display: none; margin-top: 16px; font-size: clamp(14.5px, 1.9vw, 16.5px); color: var(--ink); }
+    .quiz-actual.show { display: block; }
+    .quiz-actual b { color: var(--lime); }
+    .quiz-next {
+      display: none; margin-top: 18px;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 15px;
+      color: #fff; background: rgba(var(--purple-rgb), .3); border: 1px solid rgba(var(--purple-rgb), .6);
+      border-radius: 999px; padding: 9px 22px; cursor: pointer;
+    }
+    .quiz-next.show { display: inline-block; }
+    .quiz-next:hover { background: rgba(var(--purple-rgb), .5); }
+    .quiz-done { text-align: center; padding: 8px 0; }
+    .quiz-done .big { font-family: var(--font-head); font-variant: small-caps; font-size: clamp(24px, 4.4vw, 36px); color: #fff; margin-bottom: 10px; }
+    .quiz-done p { color: var(--ink); font-size: clamp(15px, 2vw, 17px); max-width: 520px; margin: 0 auto; }
+
+    /* ─── One concept, drilled deeper ─────────────────────────*/
+    .drill { display: grid; grid-template-columns: 1fr; gap: clamp(16px, 2.4vw, 24px); }
+    @media (min-width: 760px) { .drill { grid-template-columns: repeat(3, 1fr); } }
+    .drill-card {
+      display: flex; flex-direction: column; overflow: hidden; border-radius: 20px;
+      background: linear-gradient(165deg, rgba(255,255,255,.07), rgba(255,255,255,.018) 68%);
+      border: 1px solid rgba(255,255,255,.15);
+      transition: transform .32s ease, border-color .32s ease, box-shadow .32s ease;
+    }
+    .drill-card:hover { transform: translateY(-6px); border-color: rgba(var(--purple-rgb), .55); box-shadow: 0 26px 54px rgba(0,0,0,.55); }
+    .drill-art { position: relative; aspect-ratio: 4 / 3; overflow: hidden; background: #0d0722; }
+    .drill-art img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
+    .drill-card:hover .drill-art img { transform: scale(1.06); }
+    .drill-status {
+      position: absolute; left: 12px; top: 12px; z-index: 2;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 11px;
+      padding: 3px 11px; border-radius: 999px;
+    }
+    .st-now  { color: #05030f; background: var(--lime); }
+    .st-soon { color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .55); background: rgba(5,3,15,.7); }
+    .drill-body { padding: clamp(18px, 2.4vw, 24px); display: flex; flex-direction: column; flex: 1; }
+    .drill-body h3 { font-size: clamp(21px, 2.8vw, 27px); color: #fff; letter-spacing: .5px; }
+    .drill-body .kind { font-size: 11.5px; letter-spacing: 2px; text-transform: uppercase; color: var(--lilac); margin: 5px 0 10px; }
+    .drill-body .topic {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px;
+      font-size: 13.5px; color: var(--cyan); margin-bottom: 8px;
+    }
+    .drill-body p { font-size: 14.5px; color: var(--ink-dim); flex: 1; }
+    .drill-go {
+      display: inline-flex; align-items: center; gap: 7px; margin-top: 16px; align-self: flex-start;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 15px;
+      color: #fff; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.35); padding-bottom: 3px;
+      transition: border-color .2s ease, gap .2s ease;
+    }
+    .drill-go:hover { border-color: var(--cyan); gap: 12px; }
+
+    /* ─── What our games are ──────────────────────────────────*/
+    .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: clamp(10px, 1.5vw, 16px); }
+    .tile {
+      padding: clamp(16px, 2vw, 22px) clamp(16px, 2vw, 20px); border-radius: 16px;
+      background: linear-gradient(170deg, rgba(var(--purple-rgb), .14), rgba(255,255,255,.02) 65%);
+      border: 1px solid rgba(var(--purple-rgb), .3);
+      transition: transform .28s ease, border-color .28s ease;
+    }
+    .tile:hover { transform: translateY(-4px); border-color: rgba(var(--purple-rgb), .65); }
+    .tile.tile-not {
+      background: linear-gradient(170deg, rgba(255,138,138,.1), rgba(255,255,255,.015) 65%);
+      border-color: rgba(255,138,138,.3);
+    }
+    .tile.tile-not:hover { border-color: rgba(255,138,138,.6); }
+    .tile b {
+      display: block; font-family: var(--font-head); font-weight: normal; font-variant: small-caps;
+      letter-spacing: .5px; font-size: clamp(17px, 2vw, 21px); color: #fff; line-height: 1.12; margin-bottom: 7px;
+    }
+    .tile.tile-not b { color: var(--rose); }
+    .tile span { font-size: 13.5px; line-height: 1.5; color: var(--ink-dim); }
 
     /* ─── Playground ──────────────────────────────────────────*/
     .toy {
@@ -586,14 +515,11 @@
     .toy-msg { min-height: 22px; font-size: 14px; color: var(--ink); margin-top: 12px; }
     .toy-msg.good { color: var(--lime); }
     .toy-msg.bad { color: var(--rose); }
-
-    /* Crossword */
     .xw-layout { display: grid; grid-template-columns: 1fr; gap: clamp(18px, 3vw, 28px); }
     @media (min-width: 900px) { .xw-layout { grid-template-columns: auto 1fr; align-items: start; } }
     .xw-scroll { overflow-x: auto; overscroll-behavior-x: contain; padding-bottom: 4px; }
     .xw-grid { display: grid; gap: 2px; width: max-content; margin-inline: auto; }
     .xw-cell { position: relative; width: clamp(23px, 6.4vw, 34px); aspect-ratio: 1; }
-    .xw-cell.block { background: none; }
     .xw-cell input {
       width: 100%; height: 100%; text-align: center; text-transform: uppercase;
       font-family: var(--font-head); font-size: clamp(13px, 3.4vw, 18px); color: #fff;
@@ -612,8 +538,6 @@
     .xw-clues li:hover, .xw-clues li.active { color: #fff; }
     .xw-clues li b { color: var(--lilac); font-weight: normal; margin-right: 5px; }
     .xw-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
-
-    /* Wordle */
     .wd-board { display: grid; gap: 6px; width: max-content; margin: 0 auto 16px; }
     .wd-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
     .wd-tile {
@@ -633,8 +557,6 @@
       background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.24); border-radius: 12px; outline: none;
     }
     .wd-entry input:focus { border-color: var(--cyan); box-shadow: 0 0 0 3px rgba(var(--cyan-rgb), .18); }
-
-    /* Piano */
     .pi-keys { position: relative; display: flex; width: 100%; max-width: 620px; margin: 0 auto; height: clamp(130px, 26vw, 180px); touch-action: manipulation; }
     .pi-white {
       position: relative; flex: 1; margin-right: 3px; border-radius: 0 0 8px 8px; cursor: pointer;
@@ -654,44 +576,7 @@
     .pi-note { text-align: center; margin-top: 16px; font-size: 13.5px; color: var(--ink-dim); }
     .pi-note b { color: var(--cyan); font-family: var(--font-head); letter-spacing: 1px; }
 
-    /* ─── Outcomes ────────────────────────────────────────────*/
-    .outcomes { display: grid; gap: 2px; border-radius: 18px; overflow: hidden; border: 1px solid rgba(255,255,255,.14); }
-    .outcome {
-      display: flex; gap: 18px; align-items: baseline;
-      padding: clamp(15px, 2.3vw, 21px) clamp(17px, 2.6vw, 26px);
-      background: rgba(255,255,255,.035); transition: background .25s ease, padding-left .25s ease;
-    }
-    .outcome:hover { background: rgba(var(--purple-rgb), .16); padding-left: calc(clamp(17px, 2.6vw, 26px) + 8px); }
-    .outcome .n { flex-shrink: 0; font-family: var(--font-head); font-size: 15px; color: var(--gold); letter-spacing: 1px; }
-    .outcome p { font-size: clamp(15px, 2vw, 16.5px); color: var(--ink); }
-    .outcome b { color: #fff; }
-
     /* ─── Closing ─────────────────────────────────────────────*/
-    .close-quote {
-      text-align: center; max-width: 820px; margin: 0 auto;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px;
-      font-size: clamp(24px, 5vw, 48px); line-height: 1.14; color: #fff;
-      text-shadow: 0 0 40px rgba(var(--purple-rgb), .45);
-    }
-    .close-quote em { font-style: normal; color: var(--lime); }
-    .close-note { max-width: 620px; margin: var(--gap-block) auto 0; text-align: center; color: var(--ink); font-size: clamp(14.5px, 1.9vw, 16.5px); }
-    .close-note b { color: #fff; }
-    .founder {
-      display: flex; gap: 20px; align-items: flex-start; max-width: 720px;
-      margin: var(--gap-section) auto 0;
-      background: rgba(255,255,255,.04); border: 1px solid rgba(255,255,255,.15);
-      border-radius: 20px; padding: clamp(20px, 3.2vw, 28px);
-    }
-    .avatar {
-      flex-shrink: 0; width: 62px; height: 62px; border-radius: 50%;
-      display: grid; place-items: center; font-family: var(--font-head); font-size: 25px; color: #fff;
-      background: linear-gradient(160deg, #cd9edf, #793194);
-      border: 2px solid rgba(255,255,255,.35); box-shadow: 0 0 22px rgba(var(--purple-rgb), .5);
-    }
-    .founder .who b { display: block; color: #fff; font-size: 17px; }
-    .founder .who .role { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--lilac); }
-    .founder .who p { font-size: 14.5px; color: var(--ink-dim); margin-top: 9px; }
-
     .cta-row { text-align: center; margin-top: var(--gap-block); }
     .btn-wrap {
       position: relative; display: inline-block; cursor: pointer; text-decoration: none;
@@ -701,8 +586,7 @@
       transition: filter .3s ease, transform .3s ease;
     }
     .btn-wrap:hover { transform: translateY(-3px) scale(1.04); animation: none;
-      filter: drop-shadow(0 0 24px rgba(var(--purple-rgb),.65)) drop-shadow(0 6px 18px rgba(0,0,0,.5)) brightness(1.1); }
-    .btn-wrap:active { transform: scale(.97); animation: none; }
+      filter: drop-shadow(0 0 24px rgba(var(--purple-rgb),.65)) brightness(1.1); }
     @keyframes btn-bob { 0%,100% { transform: scale(1) translateY(0); } 50% { transform: scale(1.03) translateY(-4px); } }
     .btn-svg { display: block; width: clamp(210px, 60vw, 300px); height: auto; overflow: visible; }
     .btn-label {
@@ -718,13 +602,12 @@
     footer a { margin: 0 9px; color: rgba(255,255,255,.66); text-decoration: none; }
     footer a:hover { color: #fff; }
 
-    /* ─── Reveal ──────────────────────────────────────────────*/
     .rv { opacity: 0; transform: translateY(26px); transition: opacity .8s ease, transform .8s ease; }
     .rv.in { opacity: 1; transform: none; }
-    .rv2 { transition-delay: .09s; } .rv3 { transition-delay: .18s; } .rv4 { transition-delay: .27s; }
+    .rv2 { transition-delay: .09s; } .rv3 { transition-delay: .18s; }
     @media (prefers-reduced-motion: reduce) {
       .rv { opacity: 1; transform: none; transition: none; }
-      .btn-wrap, .hero-art img { animation: none !important; }
+      .btn-wrap { animation: none !important; }
       html { scroll-behavior: auto; }
     }
   </style>
@@ -742,333 +625,183 @@
 
 <div class="rail" aria-hidden="true">
   <div class="rail-track"><div class="rail-fill" id="r-fill"></div><div class="rail-bead" id="r-bead"></div></div>
-  <div class="rail-read" id="r-read">Surface</div>
+  <div class="rail-read" id="r-read">DeepKids</div>
 </div>
 
 <header class="mast">
   <a class="mast-logo" href="/newhome"><b>Deep</b>Kids</a>
   <div class="mast-right">
-    <a href="#shelf" class="hide-sm">The Games</a>
+    <a href="#quiz" class="hide-sm">Take The Quiz</a>
+    <a href="#games" class="hide-sm">Our Games</a>
     <a href="#playground" class="hide-sm">Playground</a>
-    <a href="/about" class="hide-sm">About</a>
     <a href="/order" class="mast-buy" onclick="dkProductClick('nav_buy')">Buy</a>
   </div>
 </header>
 
 <main>
   <!-- ═════════ HERO ═════════ -->
-  <section class="hero" data-depth="Surface">
-    <div class="hero-art" aria-hidden="true">
-      <img src="gift-kids-hero.webp" alt="" width="1400" height="1045" fetchpriority="high" decoding="async"/>
-    </div>
-    <div class="wrap hero-inner">
-      <span class="hero-eyebrow">Screen 0 &nbsp;·&nbsp; Play 100</span>
-      <div class="wordmark">DeepKids</div>
-      <h1>Almost everything your child<br/>is taught is a <em>copy of a copy</em>.</h1>
-      <p class="hero-sub">We make the games and books you get when someone refuses to copy — <b>and goes and finds out instead</b>.</p>
-      <div class="hero-cta">
-        <a class="btn-wrap" href="#shelf" aria-label="See the games">
-          <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="dkg-hero" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
-              </linearGradient>
-              <linearGradient id="dkh-hero" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-              </linearGradient>
-            </defs>
-            <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-hero)"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-hero)"/>
-            <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-          </svg>
-          <span class="btn-label">See The Games</span>
-        </a>
-        <a class="sec-link" href="#proof">Show me you're right →</a>
-      </div>
+  <section class="hero wrap" data-depth="DeepKids">
+    <span class="hero-age">Ages 7+</span>
+    <div class="wordmark">DeepKids</div>
+    <div class="hero-kinds">Boardgames <i>·</i> Card Games <i>·</i> Picture Books</div>
+    <img class="hero-stage" src="gift-kids-hero.webp" alt="Four kids playing the EscapeGravity spiral board game together" width="1400" height="1045" fetchpriority="high" decoding="async"/>
+    <p class="hero-line">One concept, drilled all the way down, from every angle we can find. <b>Screen-free, deeply researched, and harder than most things sold to children.</b></p>
+  </section>
+
+  <!-- ═════════ WHAT WE'RE MADE OF ═════════ -->
+  <section class="zone wrap zone-centre" data-depth="What We're Made Of">
+    <div class="cloud rv">
+      <span class="cl-l">First Principles</span>
+      <span class="cl-m cl-cyan">Perspectives</span>
+      <span class="cl-xl">Depth</span>
+      <span class="cl-m">Deeply Researched</span>
+      <span class="cl-l cl-gold">Free Thinking</span>
+      <span class="cl-m">Original Artwork</span>
+      <span class="cl-xl cl-lime">Science</span>
+      <span class="cl-m">Thought Through</span>
+      <span class="cl-l">Concepts</span>
+      <span class="cl-m cl-cyan">Fundamentals</span>
+      <span class="cl-m">No Rote</span>
     </div>
   </section>
 
-  <!-- ═════════ THE TWO BROKEN HALVES ═════════ -->
-  <section class="broken" id="broken" data-depth="What's On Offer">
-    <div class="broken-grid">
-      <!-- Entertainment -->
-      <div class="half">
-        <div class="half-art" aria-hidden="true">
-          <img src="problem-entertainment.jpg" alt="" width="1200" height="1500" loading="lazy" decoding="async"/>
-        </div>
-        <span class="half-tag">Option one</span>
-        <h3>What They Do<br/>For <em>Fun</em></h3>
-        <p>An infinite feed built by people whose only job is to keep a child scrolling. It is very good at that. It is good at nothing else.</p>
-        <ul>
-          <li>Doom scrolling</li>
-          <li>Garbage content</li>
-          <li>Addictive</li>
-          <li>Mind-numbing</li>
-        </ul>
-      </div>
-
-      <!-- Education -->
-      <div class="half">
-        <!-- If problem-education.jpg is added to the repo it takes over;
-             until then this wall of identical worksheets stands in, and
-             makes the copy-of-a-copy point on its own. -->
+  <!-- ═════════ SCHOOL ═════════ -->
+  <section class="school" id="school" data-depth="School">
+    <div class="school-grid">
+      <div class="school-art">
+        <!-- Drop problem-education.jpg into the repo and it takes over
+             from the worksheet wall automatically. -->
         <div class="sheet-wall" aria-hidden="true"><div class="sheet-wall-inner" id="sheet-wall"></div></div>
-        <span class="half-tag">Option two</span>
-        <h3>What They Do<br/>To <em>Learn</em></h3>
-        <p>The same worksheet, the same diagram, the same sentence — copied between textbooks, sites and apps until nobody remembers who first got it wrong.</p>
+        <img id="school-photo" src="problem-education.jpg" alt="" style="display:none" loading="lazy" decoding="async"
+             onload="this.style.display='block'; var w=this.parentNode.querySelector('.sheet-wall'); if(w) w.style.display='none';"
+             onerror="this.remove();"/>
+        <div class="school-bars" aria-hidden="true"></div>
+        <div class="school-label">School</div>
+      </div>
+      <div class="school-copy">
+        <span class="tag">Meanwhile, nine to three</span>
+        <h2>Tied To A Desk,<br/>Learning Things<br/>That Are <em>Wrong</em></h2>
+        <p>The textbook copied an older textbook. The worksheet copied the textbook. The app copied the worksheet. Somewhere back at the start one person simplified something until it broke, and <b>nobody has gone back to check since</b>.</p>
+        <p>So a child spends years being tested on sentences that aren't true, and learns the most damaging lesson of all: that curiosity is something you do <b>after</b> the syllabus.</p>
         <ul>
           <li>Wrong</li>
           <li>Half-baked</li>
           <li>Outdated</li>
           <li>Built for the exam</li>
+          <li>Curiosity optional</li>
         </ul>
       </div>
     </div>
-    <p class="broken-verdict">Those are the two options.<br/><em>We didn't like either.</em></p>
   </section>
 
-  <!-- ═════════ THE 99% ═════════ -->
-  <section class="zone wrap" id="ninetynine" data-depth="The 99%">
-    <div class="zone-head">
-      <span class="zone-kicker rv">The problem</span>
-      <h2 class="rv">Everyone Agrees.<br/>Everyone Is <em>Wrong</em>.</h2>
-      <p class="zone-lede rv rv2">The textbook took it from an older textbook. The worksheet took it from the textbook. The top search result took it from the worksheet, the video took it from the search result, and the app took it from the video. One person simplified something until it broke, thirty years ago, and <b>nobody since has gone back to check</b>.</p>
-      <p class="zone-lede rv rv2">So a child asks a real question and gets handed the same sentence five times, in five fonts, and mistakes the repetition for proof. <b>Agreement isn't evidence. It's just copying.</b></p>
+  <!-- ═════════ THE QUIZ ═════════ -->
+  <section class="zone wrap" id="quiz" data-depth="The Quiz">
+    <div class="zone-head zone-centre">
+      <span class="zone-kicker rv">Six questions</span>
+      <h2 class="rv">How Much Of What You<br/>Were Taught Is <em>Actually True</em>?</h2>
+      <p class="zone-lede rv rv2">Every one of these is answered one way by almost every school in the country, and another way by the actual science. Takes two minutes.</p>
     </div>
 
-    <div class="copies rv rv3" aria-label="The same claim repeated by every source, degrading each time">
-      <div class="copy-line" style="--i:0; --dir:0;">"Gravity is what keeps us on the ground."<span class="copy-src">Class 5 textbook</span></div>
-      <div class="copy-line" style="--i:1; --dir:1;">"Gravity is what keeps us on the ground."<span class="copy-src">The worksheet</span></div>
-      <div class="copy-line" style="--i:2; --dir:-1;">"Gravity is what keeps us on the ground."<span class="copy-src">Top search result</span></div>
-      <div class="copy-line" style="--i:3; --dir:1;">"Gravity is what keeps us on the ground."<span class="copy-src">The 8-minute explainer</span></div>
-      <div class="copy-line" style="--i:4; --dir:-1;">"Gravity is what keeps us on the ground."<span class="copy-src">The learning app</span></div>
-      <div class="copy-line" style="--i:5; --dir:1;">"Gravity is what keeps us on the ground."<span class="copy-src">The revision guide</span></div>
-      <div class="copy-line" style="--i:6; --dir:-1;">"Gravity is what keeps us on the ground."<span class="copy-src">And on, and on</span></div>
-
-      <div class="copy-truth">
-        <span class="t-tag">What's actually happening</span>
-        <p>Gravity is dragging you <b>towards the centre of the Earth</b>. What holds you up is the ground shoving back — the <b>Normal Force</b>. You are standing in a tug of war, and the copied sentence deleted one side of it.</p>
+    <div class="quiz rv" id="quiz-box">
+      <div class="quiz-bar">
+        <span class="quiz-step" id="q-step">Question 1 of 6</span>
+        <span class="quiz-score" id="q-score">0 right</span>
+        <span class="quiz-arrows">
+          <button type="button" class="quiz-arrow" id="q-prev" aria-label="Previous question" onclick="dkQuizGo(-1)">&#8249;</button>
+          <button type="button" class="quiz-arrow" id="q-next-arrow" aria-label="Next question" onclick="dkQuizGo(1)">&#8250;</button>
+        </span>
       </div>
-    </div>
-  </section>
-
-  <!-- ═════════ PROOF ═════════ -->
-  <section class="zone wrap" id="proof" data-depth="The Proof">
-    <div class="zone-head">
-      <span class="zone-kicker rv">Four more</span>
-      <h2 class="rv">Try It On Something <em>You</em> Believe</h2>
-      <p class="zone-lede rv rv2">Every one of these is repeated by almost every source your child can reach. Every one is wrong. <b>Break one open.</b></p>
-    </div>
-
-    <div class="cracks">
-      <button type="button" class="crack rv" onclick="dkCrack(this)" data-myth="gravity-speed">
-        <div class="crack-truth">
-          <div class="t-tag">What's actually true</div>
-          <p>Gravity pulls <b>everything</b> at the same acceleration. Drop a hammer and a feather on the Moon and they land together — <b>Apollo 15 filmed it</b>. On Earth the feather loses to air, not to gravity.</p>
+      <div id="q-card">
+        <div class="quiz-q" id="q-text"></div>
+        <div class="quiz-opts" id="q-opts"></div>
+        <div class="quiz-verdict" id="q-verdict">
+          <div class="line" id="q-line"></div>
+          <button type="button" class="quiz-reveal" id="q-reveal" onclick="dkQuizReveal()">Actual Science &rarr;</button>
+          <div class="quiz-actual" id="q-actual"></div>
+          <button type="button" class="quiz-next" id="q-next" onclick="dkQuizGo(1)">Next question &rarr;</button>
         </div>
-        <div class="crack-shell">
-          <div class="shell-half top"><div class="m-tag">Everyone says</div><div class="m-said">"Heavy things fall faster than light things."</div><div class="m-cue">Tap to break it open</div></div>
-          <div class="shell-half bot"><div class="m-tag">Everyone says</div><div class="m-said">"Heavy things fall faster than light things."</div><div class="m-cue">Tap to break it open</div></div>
-        </div>
-      </button>
-
-      <button type="button" class="crack rv rv2" onclick="dkCrack(this)" data-myth="astronaut">
-        <div class="crack-truth">
-          <div class="t-tag">What's actually true</div>
-          <p>There is <b>plenty</b> of gravity up there — about 90% of what you feel standing here. Astronauts float because they are <b>falling</b>, and so is the station around them. An orbit is just falling and missing the ground, forever.</p>
-        </div>
-        <div class="crack-shell">
-          <div class="shell-half top"><div class="m-tag">Everyone says</div><div class="m-said">"Astronauts float because there's no gravity in space."</div><div class="m-cue">Tap to break it open</div></div>
-          <div class="shell-half bot"><div class="m-tag">Everyone says</div><div class="m-said">"Astronauts float because there's no gravity in space."</div><div class="m-cue">Tap to break it open</div></div>
-        </div>
-      </button>
-
-      <button type="button" class="crack rv rv3" onclick="dkCrack(this)" data-myth="dinosaurs">
-        <div class="crack-truth">
-          <div class="t-tag">What's actually true</div>
-          <p>One branch survived — the one that had <b>already learned to fly</b>. They're still here. They are the <b>birds</b> outside your window, which means your child has been feeding dinosaurs in the park all along.</p>
-        </div>
-        <div class="crack-shell">
-          <div class="shell-half top"><div class="m-tag">Everyone says</div><div class="m-said">"The dinosaurs all went extinct."</div><div class="m-cue">Tap to break it open</div></div>
-          <div class="shell-half bot"><div class="m-tag">Everyone says</div><div class="m-said">"The dinosaurs all went extinct."</div><div class="m-cue">Tap to break it open</div></div>
-        </div>
-      </button>
-
-      <button type="button" class="crack rv rv4" onclick="dkCrack(this)" data-myth="sensors">
-        <div class="crack-truth">
-          <div class="t-tag">What's actually true</div>
-          <p>Your whole body is <b>packed with sensors</b>, inside and out. Even your teeth carry <b>thousands of them beneath the enamel</b> — which is exactly why a cold sip goes straight through your jaw.</p>
-        </div>
-        <div class="crack-shell">
-          <div class="shell-half top"><div class="m-tag">Everyone says</div><div class="m-said">"You feel things with your skin."</div><div class="m-cue">Tap to break it open</div></div>
-          <div class="shell-half bot"><div class="m-tag">Everyone says</div><div class="m-said">"You feel things with your skin."</div><div class="m-cue">Tap to break it open</div></div>
-        </div>
-      </button>
-    </div>
-  </section>
-
-  <!-- ═════════ THE METHOD ═════════ -->
-  <section class="zone wrap" id="method" data-depth="How We Dig">
-    <div class="zone-head">
-      <span class="zone-kicker rv">What it costs to get it right</span>
-      <h2 class="rv">You Have To Put The<br/>Easy 99% <em>Down</em></h2>
-      <p class="zone-lede rv rv2">There's no shortcut past this, which is exactly why so few products bother. Every DeepKids box goes through all five before it gets printed.</p>
-    </div>
-    <div class="steps">
-      <div class="step rv">
-        <span class="depth-tag">Step one</span>
-        <h3>Set aside everything that's easy to find</h3>
-        <p>The first page of results, the summaries, the explainer videos, the other kids' books on the same subject. All of it is downstream of the same few sources. Start by refusing to use any of it.</p>
       </div>
-      <div class="step rv">
-        <span class="depth-tag">Step two</span>
-        <h3>Read widely, especially people who disagree</h3>
-        <p>Many books, from many decades, by people who argue with each other. Where two credible sources contradict each other, that contradiction is the interesting part — not something to smooth over.</p>
-      </div>
-      <div class="step rv">
-        <span class="depth-tag">Step three</span>
-        <h3>Go to the papers, not the write-up of the papers</h3>
-        <p>The journalism about a finding is not the finding. We read the research itself, including the bit at the end where the authors list everything their own study can't tell you.</p>
-      </div>
-      <div class="step rv">
-        <span class="depth-tag">Step four</span>
-        <h3>Think it through from first principles, alone</h3>
-        <p>Then put every source down and reason it out from scratch. If the accepted explanation and our own reasoning don't meet, one of them is broken, and we don't get to print until we know which.</p>
-      </div>
-      <div class="step rv">
-        <span class="depth-tag">Step five</span>
-        <h3>Challenge what's paraded — including the "facts"</h3>
-        <p>Some of the most confidently repeated ideas are the softest. Where the science is genuinely unsettled, we say so in the box, because "nobody knows yet" is a real answer and children deserve to hear it.</p>
+      <div class="quiz-done" id="q-done" style="display:none">
+        <div class="big" id="q-done-title"></div>
+        <p id="q-done-body"></p>
       </div>
     </div>
   </section>
 
-  <!-- ═════════ THE SHELF ═════════ -->
-  <section class="zone wrap" id="shelf" data-depth="The Games">
+  <!-- ═════════ ONE CONCEPT, DRILLED DEEPER ═════════ -->
+  <section class="zone wrap" id="games" data-depth="Our Games">
     <div class="zone-head">
-      <span class="zone-kicker rv">What that turns into</span>
-      <h2 class="rv">Boxes You Can <em>Actually Buy</em></h2>
-      <p class="zone-lede rv rv2">Every one of these is one subject, taken all the way down, and then built into something a child plays with their hands. No screens anywhere in the box.</p>
+      <span class="zone-kicker rv">How we build</span>
+      <h2 class="rv">One Concept &rarr; <em>Drilled Deeper</em><br/>&amp; From Different Perspectives</h2>
+      <p class="zone-lede rv rv2">Not a hundred topics an inch deep. Each product takes a single subject and goes all the way down — through the physics, the history, the arguments scientists are still having about it.</p>
     </div>
 
-    <div class="shelf">
-      <article class="prod rv">
-        <div class="prod-art">
-          <span class="prod-depth">Ages 7+</span>
+    <div class="drill">
+      <article class="drill-card rv">
+        <div class="drill-art">
+          <span class="drill-status st-now">Shipping now</span>
           <img src="gift-box-hero.webp" alt="The EscapeGravity board game box" width="900" height="900" loading="lazy" decoding="async"/>
         </div>
-        <div class="prod-body">
-          <span class="prod-status st-now">Shipping now</span>
+        <div class="drill-body">
+          <div class="topic">Gravity</div>
           <h3>EscapeGravity</h3>
-          <div class="meta">Board game · 2–6 players · ~30 min</div>
-          <p>A race to the Space Station where gravity fights back. <b>35+ physical challenges</b> your child does with their body, 13 forces to earn and spend, and a spiral board running from the Earth's core to deep space. Comes with 11+ real play objects, not just cardboard.</p>
-          <div class="prod-foot">
-            <span class="prod-price">₹4,999</span>
-            <a class="prod-go buy" href="/order" onclick="dkProductClick('escapegravity')">Buy it</a>
-            <a class="prod-go" href="/how-to-play" onclick="dkProductClick('how_to_play')">See a turn →</a>
-          </div>
+          <div class="kind">Boardgame · 2–6 players · ages 7+</div>
+          <p>13 forces, 11 layers from the Earth's core to the Lagrange points, 35+ physical challenges. Goes as far as curved spacetime and gravitational time dilation — ideas most books hold back until Class 11.</p>
+          <a class="drill-go" href="/order" onclick="dkProductClick('escapegravity')">₹4,999 &mdash; buy it &rarr;</a>
         </div>
       </article>
 
-      <article class="prod rv">
-        <div class="prod-art">
-          <span class="prod-depth">4 billion years</span>
-          <img src="more-evo-pin.webp" alt="Artwork from the Evolution picture book — an ancient ocean" width="1200" height="857" loading="lazy" decoding="async"/>
-        </div>
-        <div class="prod-body">
-          <span class="prod-status st-soon">In production</span>
-          <h3>The Story Of Evolution</h3>
-          <div class="meta">Picture book · For kids &amp; adults</div>
-          <p>Four billion years as one continuous story — the cell that taught a dying world to breathe, and the argument that <b>thought came long before neurons</b>. Every spread painted by hand. Most adults find something in it they were never told.</p>
-          <div class="prod-foot">
-            <a class="prod-go" href="/evolution" onclick="dkProductClick('evolution')">Read a spread →</a>
-          </div>
-        </div>
-      </article>
-
-      <article class="prod rv">
-        <div class="prod-art">
-          <span class="prod-depth">Collect &amp; trade</span>
+      <article class="drill-card rv rv2">
+        <div class="drill-art">
+          <span class="drill-status st-soon">Launching soon</span>
           <img src="more-sci-front.webp" alt="A SCI. scientist trading card" width="600" height="799" loading="lazy" decoding="async"/>
         </div>
-        <div class="prod-body">
-          <span class="prod-status st-soon">Launching soon</span>
+        <div class="drill-body">
+          <div class="topic">The Scientists</div>
           <h3>SCI. Trading Cards</h3>
-          <div class="meta">Card set · Ages 7+</div>
-          <p>Footballers get trading cards. Pokémon get trading cards. Scientists should too. Each card carries the discovery, <b>the fundamental truth underneath it</b>, and where you live that truth every day — with a deliberate bias toward the ones history skipped.</p>
-          <div class="prod-foot">
-            <a class="prod-go" href="/sci" onclick="dkProductClick('sci')">See the cards →</a>
-          </div>
+          <div class="kind">Card game · ages 7+</div>
+          <p>Every card carries a discovery, the fundamental truth sitting underneath it, and where you live that truth every day — with a deliberate bias toward the underdogs history skipped over.</p>
+          <a class="drill-go" href="/sci" onclick="dkProductClick('sci')">See the cards &rarr;</a>
         </div>
       </article>
 
-      <article class="prod rv">
-        <div class="prod-art">
-          <span class="prod-depth">Mass · Energy · Speed</span>
-          <img src="more-whopulls.webp" alt="Who Pulls Whom gravity card game cards" width="1756" height="600" loading="lazy" decoding="async"/>
+      <article class="drill-card rv rv3">
+        <div class="drill-art">
+          <span class="drill-status st-soon">In production</span>
+          <img src="more-evo-pin.webp" alt="Artwork from the Evolution picture book — an ancient ocean" width="1200" height="857" loading="lazy" decoding="async"/>
         </div>
-        <div class="prod-body">
-          <span class="prod-status st-works">In the workshop</span>
-          <h3>Who Pulls Whom?</h3>
-          <div class="meta">Card game · Ages 7+</div>
-          <p>Play the card that could drag everything else on the table — worked out from mass, energy, size and speed. Then predict what happens to the thing you dragged, and score extra for calling it right.</p>
-          <div class="prod-foot"><span class="prod-go muted">Coming</span></div>
-        </div>
-      </article>
-
-      <article class="prod rv">
-        <div class="prod-art">
-          <span class="prod-depth">7000 BCE → today</span>
-          <img src="more-history.webp" alt="The Indian History board game map" width="1600" height="900" loading="lazy" decoding="async"/>
-        </div>
-        <div class="prod-body">
-          <span class="prod-status st-works">In the workshop</span>
-          <h3>Indian History Board Game</h3>
-          <div class="meta">Board game · Ages 7+ · 1+ players</div>
-          <p>Six time periods, 52+ empires, 500+ cards across 20 categories — trade routes, food, architecture, medicine, money, war. <b>Including the empires of the north and south that mainstream content quietly skips.</b></p>
-          <div class="prod-foot"><span class="prod-go muted">Coming</span></div>
+        <div class="drill-body">
+          <div class="topic">Deep Time</div>
+          <h3>The Story Of Evolution</h3>
+          <div class="kind">Picture book · kids &amp; adults</div>
+          <p>Four billion years as one continuous story — the cell that taught a dying world to breathe, and the argument that thought came long before neurons. Every spread painted by hand.</p>
+          <a class="drill-go" href="/evolution" onclick="dkProductClick('evolution')">Read a spread &rarr;</a>
         </div>
       </article>
     </div>
   </section>
 
-  <!-- ═════════ WORD CLOUD ═════════ -->
-  <section class="zone wrap" id="cloud" data-depth="What You Get">
-    <div class="zone-head" style="text-align:center;">
-      <span class="zone-kicker rv">Everything in one breath</span>
-      <h2 class="rv">What's Actually <em>In It</em> For You</h2>
+  <!-- ═════════ WHAT OUR GAMES ARE ═════════ -->
+  <section class="zone wrap" data-depth="What They Are">
+    <div class="zone-head">
+      <span class="zone-kicker rv">DeepKids games</span>
+      <h2 class="rv">What You're Actually <em>Buying</em></h2>
     </div>
-    <div class="cloud rv rv2">
-      <span class="cl-m">No screens</span>
-      <span class="cl-xl">Actually accurate</span>
-      <span class="cl-s">Made in India</span>
-      <span class="cl-l cl-cyan">Do it with your hands</span>
-      <span class="cl-m">Built to survive kids</span>
-      <span class="cl-s">Small batches</span>
-      <span class="cl-l">You'll learn things too</span>
-      <span class="cl-m cl-gold">Argue with the answer</span>
-      <span class="cl-xl cl-lime">Beat gravity</span>
-      <span class="cl-s">No fake discounts</span>
-      <span class="cl-m">Hand-drawn, every line</span>
-      <span class="cl-l">Ages 7 to grandparents</span>
-      <span class="cl-s cl-cyan">Get slightly messy</span>
-      <span class="cl-m">Plays different every time</span>
-      <span class="cl-xl">Win by thinking</span>
-      <span class="cl-s">Worth the shelf space</span>
-      <span class="cl-l cl-gold">Real experiments</span>
-      <span class="cl-m">Ask the next question</span>
-      <span class="cl-s">Solo, family or group</span>
-      <span class="cl-l">Feel the force</span>
-      <span class="cl-m cl-lime">4 billion years</span>
-      <span class="cl-s">Nothing to charge</span>
-      <span class="cl-m">Great to gift</span>
-      <span class="cl-l">Nobody mugs anything up</span>
+    <div class="tiles">
+      <div class="tile rv"><b>Screen Free</b><span>Nothing to charge, nothing to download, no account. A box, a floor and people.</span></div>
+      <div class="tile rv"><b>Experiential</b><span>The concept arrives through the hands first — a throw, a balance, a jump — and is explained afterwards.</span></div>
+      <div class="tile rv"><b>Thought Through</b><span>Months of research and argument per box. Where the science is unsettled, the box says so.</span></div>
+      <div class="tile rv"><b>Out-Of-The-World Gameplay</b><span>A spiral board running from the Earth's core to deep space. Not a quiz with a board glued to it.</span></div>
+      <div class="tile rv"><b>Appropriately Challenging</b><span>Not the easiest game on the shelf, on purpose. Kids rise to it — they almost always do.</span></div>
+      <div class="tile rv"><b>Gets Kids Moving</b><span>35+ physical challenges. Somebody will be standing on one leg within ten minutes.</span></div>
+      <div class="tile rv"><b>Open-Ended Thinking</b><span>Questions with more than one good answer, and room to argue about which one is best.</span></div>
+      <div class="tile rv"><b>First Principles</b><span>Why things are the way they are, starting from the bottom — not a rule to apply and forget.</span></div>
+      <div class="tile rv"><b>Fundamentals</b><span>The load-bearing ideas, not the applications. Get these right and the rest follows on its own.</span></div>
+      <div class="tile rv"><b>Free Thinking</b><span>Permission to disagree with the box, with the textbook, and with you. That's the point.</span></div>
+      <div class="tile tile-not rv"><b>No Rote Memorisation</b><span>Nothing in here rewards remembering a list. You can't win by revising.</span></div>
+      <div class="tile tile-not rv"><b>Not Another STEM Kit</b><span>You don't build one gadget and shelve it. This is a game you come back to.</span></div>
+      <div class="tile tile-not rv"><b>Not Broken Content On Cards</b><span>Not the same copied, half-wrong facts printed on nicer cardboard. That's the whole reason we started.</span></div>
     </div>
-    <p class="cloud-legend rv">Every one of those is a decision someone had to argue for</p>
   </section>
 
   <!-- ═════════ PLAYGROUND ═════════ -->
@@ -1079,7 +812,6 @@
       <p class="zone-lede rv rv2">Three things to play with right now — while the kids are asleep, or with them awake. No signup, nothing to install.</p>
     </div>
 
-    <!-- Crossword -->
     <div class="toy rv" id="crossword">
       <div class="toy-head"><h3>The Crossword</h3><span class="tag">For the grown-ups</span></div>
       <p class="toy-sub">Nine answers, all from inside our boxes — gravity, evolution, forces, the scientists. Tap a clue to jump to it.</p>
@@ -1100,7 +832,6 @@
       </div>
     </div>
 
-    <!-- Wordle -->
     <div class="toy rv" id="fivegram">
       <div class="toy-head"><h3>Five</h3><span class="tag">New word every day</span></div>
       <p class="toy-sub">Six guesses at today's five-letter science word. Green is right and in place, amber is right but somewhere else. Comes back different tomorrow.</p>
@@ -1112,7 +843,6 @@
       <div class="toy-msg" id="wd-msg" role="status" style="text-align:center;"></div>
     </div>
 
-    <!-- Piano -->
     <div class="toy rv" id="piano">
       <div class="toy-head"><h3>The Frequency Piano</h3><span class="tag">Physics you can hear</span></div>
       <p class="toy-sub">Every key is a number of pushes per second. Play the low C, then the high C — the high one is pushing the air at <em>exactly double</em> the rate, which is the whole reason an octave sounds like the same note again.</p>
@@ -1121,37 +851,13 @@
     </div>
   </section>
 
-  <!-- ═════════ OUTCOMES ═════════ -->
-  <section class="zone wrap" id="outcomes" data-depth="What Changes">
-    <div class="zone-head">
-      <span class="zone-kicker rv">After the box is opened</span>
-      <h2 class="rv">What Shows Up At The <em>Dinner Table</em></h2>
-      <p class="zone-lede rv rv2">Not test scores. These are the things parents actually write to us about.</p>
-    </div>
-    <div class="outcomes rv">
-      <div class="outcome"><span class="n">01</span><p>They start <b>spotting the science in ordinary life</b> — a falling spoon, a bicycle, a bird.</p></div>
-      <div class="outcome"><span class="n">02</span><p>They <b>keep thinking about it after the box is shut</b>, and bring it back up days later.</p></div>
-      <div class="outcome"><span class="n">03</span><p>They <b>question things</b> — including you — and then start <b>teaching</b> what they worked out.</p></div>
-      <div class="outcome"><span class="n">04</span><p>They fall in love with the subject, which is the only part that outlives the exam.</p></div>
-      <div class="outcome"><span class="n">05</span><p>And the grown-ups genuinely want to play too, which is the whole point of a table game.</p></div>
-    </div>
-  </section>
-
   <!-- ═════════ CLOSE ═════════ -->
-  <section class="zone wrap" id="close" data-depth="The Floor">
-    <p class="close-quote rv">Our games are not the easiest.<br/><em>That is the point.</em><br/>Almost nothing out there respects<br/>how much a child can hold.</p>
-    <p class="close-note rv rv2">We're not an experiment kit or a robotics set, and we're not trying to replace them. Our focus is <b>fundamentals and first principles</b>, not engineering and application. The parents who buy those are usually the same parents who buy ours.</p>
-
-    <div class="founder rv">
-      <div class="avatar" aria-hidden="true">S</div>
-      <div class="who">
-        <b>Sahyujyah Shrinivas</b>
-        <div class="role">Founder, DeepKids</div>
-        <p>"I fell in love with learning as an adult. Properly in love — the kind where one question about gravity keeps you up chasing ten more. And inside that joy was a sting: why didn't school ever feel like this?" <a href="/about">Read the whole story →</a></p>
-      </div>
+  <section class="zone wrap zone-centre" data-depth="Start Here">
+    <div class="zone-head">
+      <h2 class="rv">Start With <em>Gravity</em></h2>
+      <p class="zone-lede rv rv2">EscapeGravity is the one that's shipping. Ages 7 to grandparents, two to six players, about half an hour a game — and a different half hour every time.</p>
     </div>
-
-    <div class="cta-row rv rv2">
+    <div class="cta-row rv">
       <a class="btn-wrap" href="/order" aria-label="Order EscapeGravity" onclick="dkProductClick('cta_escapegravity')">
         <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -1170,7 +876,7 @@
           <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
           <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
-        <span class="btn-label">Start With Gravity</span>
+        <span class="btn-label">Order EscapeGravity</span>
       </a>
       <p class="cta-sub">₹4,999 · delivered in 3 days · pay online or cash on delivery</p>
     </div>
@@ -1182,27 +888,17 @@
     <a href="/order">EscapeGravity</a>
     <a href="/evolution">Evolution</a>
     <a href="/sci">SCI. Cards</a>
+    <a href="/what-kids-learn">Learning Glossary</a>
     <a href="/how-to-play">How To Play</a>
     <a href="/blog">Blog</a>
     <a href="/about">About</a>
     <a href="/contact">Contact</a>
     <a href="/privacy-policy">Privacy</a>
-    <a href="/refund-policy">Refunds</a>
   </div>
   <div style="margin-top:10px;">© DeepKids · deepkids.in</div>
 </footer>
 
 <script>
-  /* ── Break-open cards ─────────────────────────────────────
-     Reports which claim a visitor was curious enough to open — a
-     decent read on which hook is actually landing. */
-  function dkCrack(el) {
-    var open = el.classList.toggle('open');
-    if (!open) return;
-    var which = el.getAttribute('data-myth') || 'unknown';
-    egGtag('event', 'myth_broken', { event_category: 'engagement', event_label: which, misconception: which });
-    egFbq('trackCustom', 'MythBroken', { misconception: which });
-  }
   function dkProductClick(product) {
     egGtag('event', 'product_click', { event_category: 'navigation', event_label: product, product: product });
     egFbq('trackCustom', 'ProductClick', { product: product });
@@ -1213,9 +909,8 @@
   }
 
   /* ── The wall of identical worksheets ─────────────────────
-     Every sheet carries the same wrong line. Built here rather than
-     drawn so it stays ours, and so it can fill whatever space the
-     half happens to be. */
+     Stands in for the school artwork until problem-education.jpg
+     exists; every sheet carries the same wrong line. */
   (function(){
     var wall = document.getElementById('sheet-wall');
     if (!wall) return;
@@ -1226,21 +921,149 @@
       'We feel with our skin.',
       'There is no gravity in space.'
     ];
-    var n = window.innerWidth > 860 ? 60 : 48;
+    var n = window.innerWidth > 880 ? 60 : 48;
     var html = '';
     for (var i = 0; i < n; i++) {
-      var rot = ((i * 37) % 7) - 3;                        // deterministic, not random
-      html += '<div class="sheet" style="--rot:' + rot + 'deg">' +
-              '<b>' + LINES[i % LINES.length] + '</b>';
+      var rot = ((i * 37) % 7) - 3;                       // deterministic, not random
+      html += '<div class="sheet" style="--rot:' + rot + 'deg"><b>' + LINES[i % LINES.length] + '</b>';
       for (var r = 0; r < 7; r++) html += '<i style="--w:' + (58 + ((i * 13 + r * 29) % 42)) + '%"></i>';
       html += '</div>';
     }
     wall.innerHTML = html;
   })();
 
-  /* ── Descent rail + water colour ──────────────────────────
-     Abstract depth only — no geology. The Earth's layers belong
-     to EscapeGravity, not to the brand page. */
+  /* ── The quiz ─────────────────────────────────────────────
+     Every question has a school answer and a true one. Picking the
+     school answer is the point — it is what almost everybody was
+     taught, and the reveal is what the science actually says. */
+  var QUIZ = [
+    { q: 'What is keeping you on the ground right now?',
+      opts: ['Gravity.', 'Gravity pulling down, and the ground pushing back.'],
+      right: 1,
+      actual: 'Gravity is dragging you <b>towards the core of the Earth</b> — it is not holding you up, it is trying to swallow you. What keeps you standing is the ground shoving back with equal force: the <b>Normal Force</b>. Delete either side and you are not standing, you are falling.' },
+    { q: 'Why does a feather fall slower than a cricket ball?',
+      opts: ['Gravity pulls harder on the heavier ball.', 'Air resistance slows the feather down.'],
+      right: 1,
+      actual: 'Gravity accelerates <b>everything</b> at the same rate, whatever it weighs. Take the air away and the difference vanishes — <b>Apollo 15 dropped a hammer and a feather on the Moon</b> and they hit the dust together. You can still watch the footage.' },
+    { q: 'Why do astronauts float on the Space Station?',
+      opts: ['Because there is no gravity up there.', 'Because they are falling, and so is the station.'],
+      right: 1,
+      actual: 'At 400 km up there is still about <b>90% of the gravity you feel on your sofa</b>. They float because everything around them is falling at exactly the same rate. An orbit is just falling sideways fast enough to keep missing the ground.' },
+    { q: 'What happened to the dinosaurs?',
+      opts: ['They all went extinct.', 'One branch survived and is still here.'],
+      right: 1,
+      actual: 'The ones that had <b>already adapted to fly</b> lived straight through it. They are the <b>birds</b> outside your window — which means your child has been feeding dinosaurs in the park this whole time.' },
+    { q: 'Gravity is…',
+      opts: ['A force of attraction between two masses.', 'The shape that mass gives to spacetime.'],
+      right: 1,
+      actual: 'Newton\'s version predicts well but is not what is happening. Einstein\'s is: <b>mass bends spacetime, and things follow the bend</b>. Most textbooks hold this back until Class 11. We put it in a game for seven-year-olds, and they are fine with it.' },
+    { q: 'Do all metals stick to a magnet?',
+      opts: ['Yes — that is what makes them metal.', 'No, most of them do not.'],
+      right: 1,
+      actual: 'Only a handful do: <b>iron, nickel and cobalt</b>. Aluminium, copper, gold, silver and lead feel nothing at all. Worth trying on a fridge, a coin and a spoon this evening.' }
+  ];
+  var QZ = { i: 0, score: 0, answered: [] };
+
+  function dkQuizRender() {
+    var q = QUIZ[QZ.i];
+    document.getElementById('q-step').textContent = 'Question ' + (QZ.i + 1) + ' of ' + QUIZ.length;
+    document.getElementById('q-score').textContent = QZ.score + ' right';
+    document.getElementById('q-text').textContent = q.q;
+    document.getElementById('q-prev').disabled = QZ.i === 0;
+    document.getElementById('q-next-arrow').disabled = QZ.i >= QUIZ.length - 1;
+
+    var opts = document.getElementById('q-opts');
+    opts.innerHTML = '';
+    var picked = QZ.answered[QZ.i];
+    q.opts.forEach(function(text, n){
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'quiz-opt'; b.textContent = text;
+      if (picked != null) {
+        b.disabled = true;
+        if (n === q.right) b.classList.add('is-right');
+        else if (n === picked) b.classList.add('picked-wrong');
+      } else {
+        b.onclick = function(){ dkQuizPick(n); };
+      }
+      opts.appendChild(b);
+    });
+
+    var verdict = document.getElementById('q-verdict');
+    if (picked == null) {
+      verdict.classList.remove('show');
+      document.getElementById('q-actual').classList.remove('show');
+      document.getElementById('q-next').classList.remove('show');
+      document.getElementById('q-reveal').style.display = '';
+    } else {
+      dkQuizVerdict(picked === q.right);
+      document.getElementById('q-actual').innerHTML = q.actual;
+    }
+  }
+
+  function dkQuizVerdict(gotIt) {
+    var line = document.getElementById('q-line');
+    line.className = 'line ' + (gotIt ? 'good' : 'bad');
+    line.textContent = gotIt
+      ? '✓ You are ahead of most textbooks.'
+      : '✕ Your education system failed you.';
+    document.getElementById('q-verdict').classList.add('show');
+  }
+
+  function dkQuizPick(n) {
+    var q = QUIZ[QZ.i];
+    if (QZ.answered[QZ.i] != null) return;
+    QZ.answered[QZ.i] = n;
+    if (n === q.right) QZ.score++;
+    document.getElementById('q-actual').innerHTML = q.actual;
+    dkQuizRender();
+    egGtag('event', 'quiz_answer', {
+      event_category: 'engagement',
+      event_label: 'q' + (QZ.i + 1) + (n === q.right ? '_right' : '_wrong'),
+      question: QZ.i + 1, correct: n === q.right
+    });
+    egFbq('trackCustom', 'QuizAnswer', { question: QZ.i + 1, correct: n === q.right });
+  }
+
+  function dkQuizReveal() {
+    document.getElementById('q-actual').classList.add('show');
+    document.getElementById('q-reveal').style.display = 'none';
+    document.getElementById('q-next').classList.add('show');
+    egGtag('event', 'quiz_reveal', { event_category: 'engagement', event_label: 'q' + (QZ.i + 1) });
+  }
+
+  function dkQuizGo(step) {
+    var next = QZ.i + step;
+    if (next < 0) return;
+    if (next >= QUIZ.length) { dkQuizFinish(); return; }
+    QZ.i = next;
+    dkQuizRender();
+  }
+
+  function dkQuizFinish() {
+    var answered = QZ.answered.filter(function(a){ return a != null; }).length;
+    if (answered < QUIZ.length) { QZ.i = QUIZ.length - 1; dkQuizRender(); return; }
+    document.getElementById('q-card').style.display = 'none';
+    document.querySelector('.quiz-bar').style.display = 'none';
+    var done = document.getElementById('q-done');
+    done.style.display = 'block';
+    var t = document.getElementById('q-done-title');
+    var b = document.getElementById('q-done-body');
+    if (QZ.score >= 5) {
+      t.textContent = QZ.score + ' out of 6 — you already knew.';
+      b.innerHTML = 'Then you already know why we build what we build. Every one of those answers is somewhere inside <a href="/order">EscapeGravity</a>, earned rather than told.';
+    } else if (QZ.score >= 3) {
+      t.textContent = QZ.score + ' out of 6.';
+      b.innerHTML = 'Which is better than most adults manage — and every single one of those was taught to you the other way round. <a href="/order">This is the game that fixes it</a>.';
+    } else {
+      t.textContent = QZ.score + ' out of 6. Not your fault.';
+      b.innerHTML = 'You were taught the copied version, like everyone else. Your child does not have to be. <a href="/order">Start with gravity &rarr;</a>';
+    }
+    egGtag('event', 'quiz_complete', { event_category: 'conversion', event_label: QZ.score + '_of_6', score: QZ.score });
+    egFbq('trackCustom', 'QuizComplete', { score: QZ.score });
+  }
+  dkQuizRender();
+
+  /* ── Descent rail + water ─────────────────────────────────*/
   (function(){
     var fill = document.getElementById('r-fill');
     var bead = document.getElementById('r-bead');
@@ -1260,18 +1083,17 @@
       fill.style.height = (p * 100) + '%';
       bead.style.top = (p * 100) + '%';
 
-      // Going inward: the scattered surface noise falls away while a
-      // single centre grows, so the deeper you get the more the page
-      // resolves from many small lights into one.
+      // Going inward: scattered surface light thins out while a single
+      // centre grows, so the page resolves from many lights into one.
       if (!calm) {
-        var inward = p * p;                    // stays subtle until you're properly down
+        var inward = p * p;
         core.style.opacity = Math.min(inward * 1.5, 1);
         core.style.transform = 'scale(' + (0.3 + inward * 1.25) + ')';
         motes.style.opacity = String(0.75 * (1 - p * 0.85));
       }
 
-      // Name the section currently crossing the middle of the screen.
-      var mid = window.pageYOffset + window.innerHeight * 0.45, name = sections[0].getAttribute('data-depth');
+      var mid = window.pageYOffset + window.innerHeight * 0.45;
+      var name = sections[0].getAttribute('data-depth');
       for (var i = 0; i < sections.length; i++) {
         if (sections[i].offsetTop <= mid) name = sections[i].getAttribute('data-depth');
       }
@@ -1291,8 +1113,7 @@
   })();
 
   /* ── Crossword ────────────────────────────────────────────
-     Layout was solved offline and baked in, so the grid is known
-     good: every crossing agrees and no stray two-letter words. */
+     Layout solved offline and baked in, so every crossing agrees. */
   var XW = {
     h: 9, w: 13,
     grid: [".......NEURON","...G.......X.","..FRICTION.Y.","...A...N...G.",".P.V..FEATHER",
@@ -1334,7 +1155,6 @@
         g.appendChild(cell);
       }
     }
-    // Typing advances along whichever direction the last clue set.
     var dir = 'across';
     g.addEventListener('input', function(e){
       var t = e.target; if (t.tagName !== 'INPUT') return;
@@ -1356,7 +1176,6 @@
       else if (k === 'Backspace' && !t.value) tgt = xwCells[(dir === 'across' ? r : r-1) + ',' + (dir === 'across' ? c-1 : c)];
       if (tgt) { e.preventDefault(); tgt.input.focus(); }
     });
-
     function renderClues(list, into, d) {
       var ol = document.getElementById(into);
       list.forEach(function(cl){
@@ -1412,10 +1231,7 @@
     document.getElementById('xw-msg').textContent = '';
   }
 
-  /* ── Five: a daily five-letter science word ───────────────
-     The answer is picked from the day number, so everyone sees
-     the same word on the same day and it rolls over at midnight
-     without anything server-side. */
+  /* ── Five: a daily five-letter science word ───────────────*/
   var WD_WORDS = ['FORCE','ATOMS','LIGHT','ORBIT','PRISM','SOLAR','LUNAR','GENES','CELLS','NERVE',
                   'SPINE','OCEAN','MAGMA','QUARK','SOUND','WAVES','DELTA','ALPHA','GAMMA','SPACE',
                   'EARTH','COMET','TIDAL','SOLID','VAPOR','STEAM','FLUID','ANGLE','CURVE','GRAPH',
@@ -1430,9 +1246,7 @@
     for (var r = 0; r < WD.max; r++) {
       var row = document.createElement('div');
       row.className = 'wd-row'; row.id = 'wd-row-' + r;
-      for (var c = 0; c < 5; c++) {
-        var t = document.createElement('div'); t.className = 'wd-tile'; row.appendChild(t);
-      }
+      for (var c = 0; c < 5; c++) { var t = document.createElement('div'); t.className = 'wd-tile'; row.appendChild(t); }
       board.appendChild(row);
     }
     var inp = document.getElementById('wd-input');
@@ -1454,7 +1268,6 @@
     if (WD.done) return;
     var g = (inp.value || '').toUpperCase();
     if (g.length !== 5) { msg.textContent = 'Five letters.'; msg.className = 'toy-msg bad'; return; }
-
     // Two passes so a repeated letter can't be counted twice.
     var ans = WD.answer.split(''), res = ['miss','miss','miss','miss','miss'], left = [];
     for (var i = 0; i < 5; i++) { if (g[i] === ans[i]) res[i] = 'hit'; else left.push(ans[i]); }
@@ -1487,19 +1300,14 @@
     }
   }
 
-  /* ── The frequency piano ──────────────────────────────────
-     Plain oscillators, built on demand so nothing runs until a
-     key is actually pressed. The Hz label is the point: the top C
-     is exactly twice the bottom C. */
+  /* ── The frequency piano ──────────────────────────────────*/
   (function(){
     var WHITE = [['C4',261.63,'a'],['D4',293.66,'s'],['E4',329.63,'d'],['F4',349.23,'f'],
                  ['G4',392.00,'g'],['A4',440.00,'h'],['B4',493.88,'j'],['C5',523.25,'k']];
-    // [name, hz, key, index of the white key it sits after]
     var BLACK = [['C#4',277.18,'w',0],['D#4',311.13,'e',1],['F#4',369.99,'t',3],['G#4',415.30,'y',4],['A#4',466.16,'u',5]];
     var wrap = document.getElementById('pi-keys');
     if (!wrap) return;
     var ctx = null, byKey = {}, now = document.getElementById('pi-now');
-
     function play(name, hz, el) {
       try {
         if (!ctx) ctx = new (window.AudioContext || window.webkitAudioContext)();
@@ -1515,7 +1323,6 @@
       if (el) { el.classList.add('down'); setTimeout(function(){ el.classList.remove('down'); }, 170); }
       dkToy('piano', name);
     }
-
     WHITE.forEach(function(k){
       var b = document.createElement('button');
       b.type = 'button'; b.className = 'pi-white'; b.textContent = k[0];
@@ -1524,7 +1331,6 @@
       wrap.appendChild(b);
       byKey[k[2]] = { fn: function(){ play(k[0], k[1], b); } };
     });
-    // Blacks are positioned over the gap between the whites they follow.
     BLACK.forEach(function(k){
       var b = document.createElement('button');
       b.type = 'button'; b.className = 'pi-black'; b.textContent = k[0];
@@ -1534,7 +1340,6 @@
       wrap.appendChild(b);
       byKey[k[2]] = { fn: function(){ play(k[0], k[1], b); } };
     });
-
     document.addEventListener('keydown', function(e){
       if (e.repeat || e.metaKey || e.ctrlKey || e.altKey) return;
       var t = e.target;
