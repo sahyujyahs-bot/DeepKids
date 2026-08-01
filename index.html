@@ -5622,10 +5622,10 @@
 
 <!-- ═══════════════════════════════════════════════ S4c: THE SYLLABUS ══ -->
 <style>
-/* ── What's actually taught ───────────────────────────── */
+/* ── The glossary: everything the box teaches, in one list ─── */
 .syl-count {
   display: flex; flex-wrap: wrap; justify-content: center; gap: clamp(8px, 1.4vw, 14px);
-  margin: 0 auto clamp(22px, 3.4vh, 38px); padding: 0 clamp(16px, 4vw, 40px);
+  margin: 0 auto clamp(26px, 4vh, 44px); padding: 0 clamp(16px, 4vw, 40px);
 }
 .syl-count span {
   font-family: 'Norwester', sans-serif; font-variant: small-caps; letter-spacing: 2px;
@@ -5635,46 +5635,52 @@
 }
 .syl-count span b { color: #fff; font-weight: normal; }
 
-.syl-wrap { max-width: 1160px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 40px); }
-.syl-grid {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
-  gap: clamp(10px, 1.4vw, 16px);
-}
-.syl-panel { display: none; }
-.syl-panel.active { display: block; }
+.syl-wrap { max-width: 1120px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 40px); }
 
-.syl-item {
-  background: rgba(18,8,38,0.55);
-  border: 1px solid rgba(170,89,200,0.16);
-  border-left: 3px solid var(--sc, #aa59c8);
-  border-radius: 12px;
-  padding: clamp(14px, 1.6vw, 18px) clamp(14px, 1.8vw, 20px);
-  transition: transform .3s ease, box-shadow .3s ease, border-color .3s ease;
+.syl-group-label {
+  display: flex; align-items: center; gap: 14px;
+  font-family: 'Norwester', sans-serif; font-variant: small-caps;
+  font-size: clamp(13px, 1.5vw, 16px); letter-spacing: 3px; color: #ffb300;
+  margin: clamp(30px, 4.5vh, 52px) 0 clamp(14px, 2vh, 20px);
 }
-.syl-item:hover {
-  transform: translateY(-3px);
-  border-color: rgba(170,89,200,0.5);
-  box-shadow: 0 10px 26px rgba(0,0,0,0.45), 0 0 18px rgba(170,89,200,0.18);
+.syl-group:first-child .syl-group-label { margin-top: 0; }
+.syl-group-label::after {
+  content: ''; flex: 1; height: 1px;
+  background: linear-gradient(90deg, rgba(255,179,0,0.35), rgba(255,179,0,0));
 }
-.syl-kicker {
-  display: block; font-family: 'Futura', sans-serif;
-  font-size: 10.5px; letter-spacing: 2.2px; text-transform: uppercase;
-  color: var(--sc, #aa59c8); margin-bottom: 5px;
+
+/* Two glossary columns on a wide screen, one on a phone. */
+.syl-list { display: grid; grid-template-columns: 1fr; column-gap: clamp(30px, 4.5vw, 64px); }
+@media (min-width: 880px) { .syl-list { grid-template-columns: 1fr 1fr; } }
+
+.syl-entry {
+  padding: clamp(11px, 1.5vh, 15px) 0;
+  border-bottom: 1px solid rgba(255,255,255,0.075);
 }
-.syl-name {
+.syl-term {
+  display: flex; align-items: baseline; gap: 9px; flex-wrap: wrap;
   font-family: 'Norwester', sans-serif; font-variant: small-caps;
   font-size: clamp(16px, 1.8vw, 20px); color: #fff; letter-spacing: 0.5px;
-  line-height: 1.15; margin-bottom: 7px;
+  line-height: 1.2; margin-bottom: 5px;
 }
-.syl-say {
+.syl-term::before {
+  content: ''; flex-shrink: 0; width: 8px; height: 8px; border-radius: 50%;
+  background: var(--sc, #aa59c8); box-shadow: 0 0 9px var(--sc, #aa59c8);
+  transform: translateY(-2px);
+}
+.syl-term small {
+  font-family: 'Futura', sans-serif; font-variant: normal; letter-spacing: 1.6px;
+  text-transform: uppercase; font-size: 10px; color: var(--sc, #aa59c8);
+}
+.syl-def {
   font-family: 'Futura', sans-serif; font-size: clamp(13.5px, 1.35vw, 15px);
-  line-height: 1.55; color: rgba(255,255,255,0.68);
+  line-height: 1.55; color: rgba(255,255,255,0.66); padding-left: 17px;
 }
-.syl-say em { font-style: normal; color: #c0e638; }
-.syl-item.syl-flag { border-left-color: #ffb300; }
-.syl-item.syl-flag .syl-kicker { color: #ffb300; }
+.syl-def em { font-style: normal; color: #c0e638; }
+.syl-entry.syl-flag { --sc: #ffb300; }
+
 .syl-note {
-  max-width: 760px; margin: clamp(22px, 3.4vh, 36px) auto 0;
+  max-width: 760px; margin: clamp(28px, 4vh, 46px) auto 0;
   text-align: center; font-family: 'Futura', sans-serif;
   font-size: clamp(13.5px, 1.4vw, 16px); line-height: 1.6;
   color: rgba(255,255,255,0.6); padding: 0 clamp(16px, 4vw, 40px);
@@ -5684,7 +5690,7 @@
 
 <section id="s-syllabus" class="eg-section">
   <h2 class="page-h2 eg-fade-in">Everything In The Box, Listed</h2>
-  <p class="page-desc eg-fade-in">Not &ldquo;STEM skills&rdquo; and not &ldquo;critical thinking&rdquo;. Here is the actual list of things your child will come out understanding &mdash; every force they can earn, every layer they climb through, and the ideas most books hold back until Class 11.</p>
+  <p class="page-desc eg-fade-in">The actual list of things your child comes out understanding &mdash; every force they can earn, every layer they climb through, and the ideas most books hold back until Class 11.</p>
 
   <div class="syl-count eg-fade-in">
     <span><b>13</b> forces</span>
@@ -5692,88 +5698,69 @@
     <span><b>12</b> ideas most books delay</span>
   </div>
 
-  <div class="s2-tabs eg-fade-in" style="margin-bottom:clamp(20px,3vh,34px);">
-    <button class="s2-tab syl-tab active" data-syl="forces" onclick="egSyl('forces')">The 13 Forces</button>
-    <button class="s2-tab syl-tab" data-syl="layers" onclick="egSyl('layers')">The Layers</button>
-    <button class="s2-tab syl-tab" data-syl="ideas" onclick="egSyl('ideas')">Ideas Most Books Delay</button>
-  </div>
+  <div class="syl-wrap eg-fade-in">
 
-  <div class="syl-wrap">
-    <!-- ── The 13 forces ────────────────────────────────── -->
-    <div class="syl-panel active eg-fade-in" id="syl-forces">
-      <div class="syl-grid">
-        <div class="syl-item" style="--sc:#4caf50;"><span class="syl-kicker">Earth</span><div class="syl-name">Normal Force</div><p class="syl-say">The ground pushing back. It is <em>electromagnetic</em> &mdash; the atoms in your shoe refusing to share space with the atoms in the floor. Nothing ever truly touches.</p></div>
-        <div class="syl-item" style="--sc:#81d4fa;"><span class="syl-kicker">Air</span><div class="syl-name">Air Resistance</div><p class="syl-say">Air is a fluid, and shoving through it costs you. <em>This</em> &mdash; not gravity &mdash; is the only reason a feather loses a race to a stone.</p></div>
-        <div class="syl-item" style="--sc:#81d4fa;"><span class="syl-kicker">Air</span><div class="syl-name">Airlift</div><p class="syl-say">Move a wing through air fast enough and the air pushes it upward. Birds, aeroplanes and a well-thrown frisbee all beat gravity with the same trick.</p></div>
-        <div class="syl-item" style="--sc:#29b6f6;"><span class="syl-kicker">Water</span><div class="syl-name">Buoyancy</div><p class="syl-say">Push water out of the way and it shoves back with the weight of exactly what you moved. Float or sink comes down to that one comparison.</p></div>
-        <div class="syl-item" style="--sc:#ef5350;"><span class="syl-kicker">Body</span><div class="syl-name">Weight</div><p class="syl-say">Not the same thing as mass. Weight is what gravity <em>does</em> to your mass, so it changes with where you stand. Your mass never does.</p></div>
-        <div class="syl-item" style="--sc:#ef5350;"><span class="syl-kicker">Body</span><div class="syl-name">Physical Work</div><p class="syl-say">Force applied across distance. Every metre you climb is work done against gravity &mdash; which is precisely why stairs are tiring and lying down is not.</p></div>
-        <div class="syl-item" style="--sc:#ab47bc;"><span class="syl-kicker">Speed</span><div class="syl-name">Sideways Velocity</div><p class="syl-say">Travel sideways fast enough and the ground curves away as quickly as you fall toward it. That is an orbit: <em>falling forever and always missing</em>.</p></div>
-        <div class="syl-item" style="--sc:#ab47bc;"><span class="syl-kicker">Speed</span><div class="syl-name">Escape Velocity</div><p class="syl-say">11.2 km per second from Earth&rsquo;s surface. Hit that and you never come back down &mdash; no engine needed for the rest of the journey.</p></div>
-        <div class="syl-item" style="--sc:#ffa726;"><span class="syl-kicker">Energy</span><div class="syl-name">Magnetic Force</div><p class="syl-say">A force that ignores gravity completely. And <em>not all metals feel it</em> &mdash; iron, nickel and cobalt do; aluminium and copper simply don&rsquo;t.</p></div>
-        <div class="syl-item" style="--sc:#ffa726;"><span class="syl-kicker">Energy</span><div class="syl-name">Elastic Energy</div><p class="syl-say">Bend something springy and it quietly stores your push. Let go and it hands the whole lot back &mdash; a catapult, a bow, a diving board.</p></div>
-        <div class="syl-item" style="--sc:#ffa726;"><span class="syl-kicker">Energy</span><div class="syl-name">Knowledge</div><p class="syl-say">The one force in the box you cannot touch. Every single thing humans built to leave the ground started as somebody working something out.</p></div>
-        <div class="syl-item" style="--sc:#5c6bc0;"><span class="syl-kicker">Balance</span><div class="syl-name">Centre Of Gravity</div><p class="syl-say">The single point gravity acts through. Keep it over your feet and you stand; let it wander past them and you are already falling.</p></div>
-        <div class="syl-item" style="--sc:#5c6bc0;"><span class="syl-kicker">Balance</span><div class="syl-name">Neutral Pull</div><p class="syl-say">Where opposing pulls cancel and you hang without falling &mdash; the same idea that makes a Lagrange point out in space actually work.</p></div>
+    <!-- ── The forces ───────────────────────────────────── -->
+    <div class="syl-group">
+      <div class="syl-group-label">The 13 Forces</div>
+      <div class="syl-list">
+        <div class="syl-entry" style="--sc:#4caf50;"><div class="syl-term">Normal Force <small>Earth</small></div><p class="syl-def">The ground pushing back. It is <em>electromagnetic</em> &mdash; the atoms in your shoe refusing to share space with the atoms in the floor. Nothing ever truly touches.</p></div>
+        <div class="syl-entry" style="--sc:#81d4fa;"><div class="syl-term">Air Resistance <small>Air</small></div><p class="syl-def">Air is a fluid, and shoving through it costs you. <em>This</em> &mdash; not gravity &mdash; is the only reason a feather loses a race to a stone.</p></div>
+        <div class="syl-entry" style="--sc:#81d4fa;"><div class="syl-term">Airlift <small>Air</small></div><p class="syl-def">Move a wing through air fast enough and the air pushes it upward. Birds, aeroplanes and a well-thrown frisbee all beat gravity with the same trick.</p></div>
+        <div class="syl-entry" style="--sc:#29b6f6;"><div class="syl-term">Buoyancy <small>Water</small></div><p class="syl-def">Push water out of the way and it shoves back with the weight of exactly what you moved. Float or sink comes down to that one comparison.</p></div>
+        <div class="syl-entry" style="--sc:#ef5350;"><div class="syl-term">Weight <small>Body</small></div><p class="syl-def">Not the same thing as mass. Weight is what gravity <em>does</em> to your mass, so it changes with where you stand. Your mass never does.</p></div>
+        <div class="syl-entry" style="--sc:#ef5350;"><div class="syl-term">Physical Work <small>Body</small></div><p class="syl-def">Force applied across distance. Every metre you climb is work done against gravity &mdash; which is precisely why stairs are tiring and lying down is not.</p></div>
+        <div class="syl-entry" style="--sc:#ab47bc;"><div class="syl-term">Sideways Velocity <small>Speed</small></div><p class="syl-def">Travel sideways fast enough and the ground curves away as quickly as you fall toward it. That is an orbit: <em>falling forever and always missing</em>.</p></div>
+        <div class="syl-entry" style="--sc:#ab47bc;"><div class="syl-term">Escape Velocity <small>Speed</small></div><p class="syl-def">11.2 km per second from Earth&rsquo;s surface. Hit that and you never come back down &mdash; no engine needed for the rest of the journey.</p></div>
+        <div class="syl-entry" style="--sc:#ffa726;"><div class="syl-term">Magnetic Force <small>Energy</small></div><p class="syl-def">A force that ignores gravity completely. And <em>not all metals feel it</em> &mdash; iron, nickel and cobalt do; aluminium and copper simply don&rsquo;t.</p></div>
+        <div class="syl-entry" style="--sc:#ffa726;"><div class="syl-term">Elastic Energy <small>Energy</small></div><p class="syl-def">Bend something springy and it quietly stores your push. Let go and it hands the whole lot back &mdash; a catapult, a bow, a diving board.</p></div>
+        <div class="syl-entry" style="--sc:#ffa726;"><div class="syl-term">Knowledge <small>Energy</small></div><p class="syl-def">The one force in the box you cannot touch. Every single thing humans built to leave the ground started as somebody working something out.</p></div>
+        <div class="syl-entry" style="--sc:#5c6bc0;"><div class="syl-term">Centre Of Gravity <small>Balance</small></div><p class="syl-def">The single point gravity acts through. Keep it over your feet and you stand; let it wander past them and you are already falling.</p></div>
+        <div class="syl-entry" style="--sc:#5c6bc0;"><div class="syl-term">Neutral Pull <small>Balance</small></div><p class="syl-def">Where opposing pulls cancel and you hang without falling &mdash; the same idea that makes a Lagrange point out in space actually work.</p></div>
       </div>
     </div>
 
     <!-- ── The layers ───────────────────────────────────── -->
-    <div class="syl-panel eg-fade-in" id="syl-layers">
-      <div class="syl-grid">
-        <div class="syl-item" style="--sc:#d6352d;"><span class="syl-kicker">Tile 0</span><div class="syl-name">The Core</div><p class="syl-say">Fall all the way here and the Earth pulls you in <em>every direction at once</em> &mdash; so it cancels. You would be weightless at the exact centre. Crushed, but weightless.</p></div>
-        <div class="syl-item" style="--sc:#7f4a22;"><span class="syl-kicker">Tiles 1 &ndash; 4</span><div class="syl-name">The Mantle</div><p class="syl-say">Solid rock that flows like treacle over millions of years. And gravity doesn&rsquo;t fade as you sink through it &mdash; it <em>climbs</em>, peaking right at the bottom of this layer.</p></div>
-        <div class="syl-item" style="--sc:#cbb560;"><span class="syl-kicker">Tiles 5 &ndash; 9</span><div class="syl-name">The Crust</div><p class="syl-say">The thin skin we live on &mdash; less than 1% of the way to the centre. Every hole humanity has ever dug is still inside this layer.</p></div>
-        <div class="syl-item" style="--sc:#4fa771;"><span class="syl-kicker">Tiles 10 &ndash; 17</span><div class="syl-name">The Surface</div><p class="syl-say">Where the race begins, at about <em>9.8 m/s&sup2;</em>. Climb from here and gravity fades away. Dig from here and it gets stronger first &mdash; before collapsing to nothing at the centre.</p></div>
-        <div class="syl-item" style="--sc:#8ea4c4;"><span class="syl-kicker">Tiles 18 &ndash; 23</span><div class="syl-name">Troposphere</div><p class="syl-say">Where every cloud, storm and aeroplane lives. Three quarters of the atmosphere&rsquo;s entire mass is squashed into this bottom layer alone.</p></div>
-        <div class="syl-item" style="--sc:#7b80b5;"><span class="syl-kicker">Tiles 24 &ndash; 30</span><div class="syl-name">Stratosphere</div><p class="syl-say">Home of the ozone layer &mdash; and it gets <em>warmer</em> as you climb, not colder, because ozone up there is busy absorbing ultraviolet on your behalf.</p></div>
-        <div class="syl-item" style="--sc:#a87ba8;"><span class="syl-kicker">Tiles 31 &ndash; 39</span><div class="syl-name">Mesosphere</div><p class="syl-say">The coldest place in the whole atmosphere, and where meteors burn up. Too thin to fly a plane in, too thick to hold an orbit in.</p></div>
-        <div class="syl-item" style="--sc:#c96a7a;"><span class="syl-kicker">Tiles 40 &ndash; 44, 46, 47</span><div class="syl-name">Thermosphere</div><p class="syl-say">Thousands of degrees &mdash; and you would still feel freezing. The molecules are so far apart there is almost nothing there to hand you the heat. Auroras happen here.</p></div>
-        <div class="syl-item syl-flag"><span class="syl-kicker">Tile 45 &middot; Mission stop</span><div class="syl-name">The ISS</div><p class="syl-say">400 km up, and still sitting in about <em>90% of Earth&rsquo;s gravity</em>. It stays up because it is moving sideways at 7.66 km/s &mdash; it falls, and misses.</p></div>
-        <div class="syl-item" style="--sc:#8f3d6b;"><span class="syl-kicker">Tiles 48 &ndash; 54</span><div class="syl-name">Exosphere</div><p class="syl-say">Where the atmosphere gives up and quietly becomes space. An atom out here can travel hundreds of kilometres before it meets another one.</p></div>
-        <div class="syl-item syl-flag"><span class="syl-kicker">L1 &ndash; L4 &middot; Extended mission</span><div class="syl-name">Lagrange Points</div><p class="syl-say">Spots where the Earth&rsquo;s pull and the Sun&rsquo;s pull cancel each other out. Park a telescope there and it stays put for free &mdash; which is where <em>James Webb</em> is right now.</p></div>
+    <div class="syl-group">
+      <div class="syl-group-label">The 11 Layers You Climb Through</div>
+      <div class="syl-list">
+        <div class="syl-entry" style="--sc:#d6352d;"><div class="syl-term">The Core <small>Tile 0</small></div><p class="syl-def">Fall all the way here and the Earth pulls you in <em>every direction at once</em> &mdash; so it cancels. You would be weightless at the exact centre. Crushed, but weightless.</p></div>
+        <div class="syl-entry" style="--sc:#7f4a22;"><div class="syl-term">The Mantle <small>Tiles 1 &ndash; 4</small></div><p class="syl-def">Solid rock that flows like treacle over millions of years. And gravity doesn&rsquo;t fade as you sink through it &mdash; it <em>climbs</em>, peaking right at the bottom of this layer.</p></div>
+        <div class="syl-entry" style="--sc:#cbb560;"><div class="syl-term">The Crust <small>Tiles 5 &ndash; 9</small></div><p class="syl-def">The thin skin we live on &mdash; less than 1% of the way to the centre. Every hole humanity has ever dug is still inside this layer.</p></div>
+        <div class="syl-entry" style="--sc:#4fa771;"><div class="syl-term">The Surface <small>Tiles 10 &ndash; 17</small></div><p class="syl-def">Where the race begins, at about <em>9.8 m/s&sup2;</em>. Climb from here and gravity fades away. Dig from here and it gets stronger first &mdash; before collapsing to nothing at the centre.</p></div>
+        <div class="syl-entry" style="--sc:#8ea4c4;"><div class="syl-term">Troposphere <small>Tiles 18 &ndash; 23</small></div><p class="syl-def">Where every cloud, storm and aeroplane lives. Three quarters of the atmosphere&rsquo;s entire mass is squashed into this bottom layer alone.</p></div>
+        <div class="syl-entry" style="--sc:#7b80b5;"><div class="syl-term">Stratosphere <small>Tiles 24 &ndash; 30</small></div><p class="syl-def">Home of the ozone layer &mdash; and it gets <em>warmer</em> as you climb, not colder, because ozone up there is busy absorbing ultraviolet on your behalf.</p></div>
+        <div class="syl-entry" style="--sc:#a87ba8;"><div class="syl-term">Mesosphere <small>Tiles 31 &ndash; 39</small></div><p class="syl-def">The coldest place in the whole atmosphere, and where meteors burn up. Too thin to fly a plane in, too thick to hold an orbit in.</p></div>
+        <div class="syl-entry" style="--sc:#c96a7a;"><div class="syl-term">Thermosphere <small>Tiles 40 &ndash; 44, 46, 47</small></div><p class="syl-def">Thousands of degrees &mdash; and you would still feel freezing. The molecules are so far apart there is almost nothing there to hand you the heat. Auroras happen here.</p></div>
+        <div class="syl-entry syl-flag"><div class="syl-term">The ISS <small>Tile 45 &middot; Mission stop</small></div><p class="syl-def">400 km up, and still sitting in about <em>90% of Earth&rsquo;s gravity</em>. It stays up because it is moving sideways at 7.66 km/s &mdash; it falls, and misses.</p></div>
+        <div class="syl-entry" style="--sc:#8f3d6b;"><div class="syl-term">Exosphere <small>Tiles 48 &ndash; 54</small></div><p class="syl-def">Where the atmosphere gives up and quietly becomes space. An atom out here can travel hundreds of kilometres before it meets another one.</p></div>
+        <div class="syl-entry syl-flag"><div class="syl-term">Lagrange Points <small>L1 &ndash; L4 &middot; Extended mission</small></div><p class="syl-def">Spots where the Earth&rsquo;s pull and the Sun&rsquo;s pull cancel each other out. Park a telescope there and it stays put for free &mdash; which is where <em>James Webb</em> is right now.</p></div>
       </div>
     </div>
 
     <!-- ── Ideas most books delay ───────────────────────── -->
-    <div class="syl-panel eg-fade-in" id="syl-ideas">
-      <div class="syl-grid">
-        <div class="syl-item syl-flag"><span class="syl-kicker">Usually held back to Class 11</span><div class="syl-name">Gravity Isn&rsquo;t Really A Force</div><p class="syl-say">Einstein&rsquo;s answer: mass <em>bends spacetime</em>, and everything simply follows the bend. Most books won&rsquo;t say this to a child. We do, at seven, because they handle it fine.</p></div>
-        <div class="syl-item syl-flag"><span class="syl-kicker">Usually held back to Class 12</span><div class="syl-name">Time Runs Slower Down Here</div><p class="syl-say">A clock at sea level ticks slower than one on a mountain. This isn&rsquo;t a theory to argue about &mdash; <em>GPS satellites correct for it every single day</em> or your maps would drift kilometres off.</p></div>
-        <div class="syl-item"><span class="syl-kicker">The counterintuitive one</span><div class="syl-name">Gravity Peaks 2,900 km Underground</div><p class="syl-say">Not at the centre, and not at the surface either. It maxes out at the core&ndash;mantle boundary at about <em>10.7 m/s&sup2;</em>, then falls to exactly zero at the Earth&rsquo;s centre, where every direction pulls equally.</p></div>
-        <div class="syl-item"><span class="syl-kicker">Height</span><div class="syl-name">It Weakens With Height &mdash; But Never Stops</div><p class="syl-say">Climb and gravity fades, but it never quite reaches zero anywhere. The Sun is still holding on to Neptune from four and a half billion kilometres away.</p></div>
-        <div class="syl-item"><span class="syl-kicker">The one everybody gets wrong</span><div class="syl-name">Weightless Is Not &ldquo;No Gravity&rdquo;</div><p class="syl-say">Astronauts float because they are <em>falling</em>, not because gravity ran out. Up at the ISS there is still roughly 90% of what you feel on your sofa.</p></div>
-        <div class="syl-item"><span class="syl-kicker">Two different things</span><div class="syl-name">Weight vs Mass</div><p class="syl-say">Mass is how much of you there is, and it is the same everywhere in the universe. Weight is just a conversation between that mass and whichever planet you happen to be standing on.</p></div>
-        <div class="syl-item"><span class="syl-kicker">Rarely mentioned at all</span><div class="syl-name">The Earth Doesn&rsquo;t Pull Evenly</div><p class="syl-say">Gravity varies slightly from place to place depending on how dense the rock beneath you is. Satellites have <em>mapped the lumps</em> &mdash; the planet is not a smooth ball of pull.</p></div>
-        <div class="syl-item"><span class="syl-kicker">Two speeds, two outcomes</span><div class="syl-name">Orbital vs Escape Velocity</div><p class="syl-say">One locks you into a circle forever, the other lets you leave for good. The gap between the two is only a factor of about 1.4 &mdash; surprisingly little.</p></div>
-        <div class="syl-item"><span class="syl-kicker">Where pulls cancel</span><div class="syl-name">Lagrange Points</div><p class="syl-say">Five places where the Earth&rsquo;s and the Sun&rsquo;s pull balance so precisely that an object can just sit there. We put our best telescopes in them.</p></div>
-        <div class="syl-item"><span class="syl-kicker">What &ldquo;solid&rdquo; actually means</span><div class="syl-name">Nothing Ever Really Touches</div><p class="syl-say">The Normal Force is electromagnetic. What your child feels as a solid floor is the <em>repulsion between electrons</em> refusing to let two lots of atoms occupy the same spot.</p></div>
-        <div class="syl-item"><span class="syl-kicker">Mass and the well</span><div class="syl-name">More Mass, Deeper Well</div><p class="syl-say">Heavier objects don&rsquo;t just tug harder &mdash; they bend spacetime <em>deeper</em>. The well gets steeper, and climbing back out of it costs correspondingly more.</p></div>
-        <div class="syl-item"><span class="syl-kicker">Proven on the Moon</span><div class="syl-name">Everything Falls At The Same Rate</div><p class="syl-say">A hammer and a feather, dropped together with no air in the way, land together. <em>Apollo 15 filmed exactly that</em> in 1971, and you can still watch it.</p></div>
+    <div class="syl-group">
+      <div class="syl-group-label">12 Ideas Most Books Delay</div>
+      <div class="syl-list">
+        <div class="syl-entry syl-flag"><div class="syl-term">Gravity Isn&rsquo;t Really A Force <small>Usually held to Class 11</small></div><p class="syl-def">Einstein&rsquo;s answer: mass <em>bends spacetime</em>, and everything simply follows the bend. Most books won&rsquo;t say this to a child. We do, at seven, because they handle it fine.</p></div>
+        <div class="syl-entry syl-flag"><div class="syl-term">Time Runs Slower Down Here <small>Usually held to Class 12</small></div><p class="syl-def">A clock at sea level ticks slower than one on a mountain. This isn&rsquo;t a theory to argue about &mdash; <em>GPS satellites correct for it every single day</em> or your maps would drift kilometres off.</p></div>
+        <div class="syl-entry"><div class="syl-term">Gravity Peaks 2,900 km Underground <small>The counterintuitive one</small></div><p class="syl-def">Not at the centre, and not at the surface either. It maxes out at the core&ndash;mantle boundary at about <em>10.7 m/s&sup2;</em>, then falls to exactly zero at the Earth&rsquo;s centre, where every direction pulls equally.</p></div>
+        <div class="syl-entry"><div class="syl-term">It Weakens With Height, But Never Stops <small>Distance</small></div><p class="syl-def">Climb and gravity fades, but it never quite reaches zero anywhere. The Sun is still holding on to Neptune from four and a half billion kilometres away.</p></div>
+        <div class="syl-entry"><div class="syl-term">Weightless Is Not &ldquo;No Gravity&rdquo; <small>The one everybody gets wrong</small></div><p class="syl-def">Astronauts float because they are <em>falling</em>, not because gravity ran out. Up at the ISS there is still roughly 90% of what you feel on your sofa.</p></div>
+        <div class="syl-entry"><div class="syl-term">Weight vs Mass <small>Two different things</small></div><p class="syl-def">Mass is how much of you there is, and it is the same everywhere in the universe. Weight is just a conversation between that mass and whichever planet you happen to be standing on.</p></div>
+        <div class="syl-entry"><div class="syl-term">The Earth Doesn&rsquo;t Pull Evenly <small>Rarely mentioned at all</small></div><p class="syl-def">Gravity varies slightly from place to place depending on how dense the rock beneath you is. Satellites have <em>mapped the lumps</em> &mdash; the planet is not a smooth ball of pull.</p></div>
+        <div class="syl-entry"><div class="syl-term">Orbital vs Escape Velocity <small>Two speeds, two outcomes</small></div><p class="syl-def">One locks you into a circle forever, the other lets you leave for good. The gap between the two is only a factor of about 1.4 &mdash; surprisingly little.</p></div>
+        <div class="syl-entry"><div class="syl-term">Lagrange Points <small>Where pulls cancel</small></div><p class="syl-def">Five places where the Earth&rsquo;s and the Sun&rsquo;s pull balance so precisely that an object can just sit there. We put our best telescopes in them.</p></div>
+        <div class="syl-entry"><div class="syl-term">Nothing Ever Really Touches <small>What &ldquo;solid&rdquo; means</small></div><p class="syl-def">The Normal Force is electromagnetic. What your child feels as a solid floor is the <em>repulsion between electrons</em> refusing to let two lots of atoms occupy the same spot.</p></div>
+        <div class="syl-entry"><div class="syl-term">More Mass, Deeper Well <small>Mass and the well</small></div><p class="syl-def">Heavier objects don&rsquo;t just tug harder &mdash; they bend spacetime <em>deeper</em>. The well gets steeper, and climbing back out of it costs correspondingly more.</p></div>
+        <div class="syl-entry"><div class="syl-term">Everything Falls At The Same Rate <small>Proven on the Moon</small></div><p class="syl-def">A hammer and a feather, dropped together with no air in the way, land together. <em>Apollo 15 filmed exactly that</em> in 1971, and you can still watch it.</p></div>
       </div>
     </div>
+
   </div>
 
   <p class="syl-note eg-fade-in">Every one of these is earned through something your child does with their <b>hands and body</b> first &mdash; a throw, a balance, a jump &mdash; and only explained afterwards. That order is the whole design.</p>
 </section>
-
-<script>
-  /* Syllabus tabs. Reports which group a parent opened — a decent
-     read on whether the forces, the layers or the harder ideas are
-     what actually sells the box. */
-  function egSyl(which) {
-    var tabs = document.querySelectorAll('.syl-tab');
-    for (var i = 0; i < tabs.length; i++) {
-      tabs[i].classList.toggle('active', tabs[i].getAttribute('data-syl') === which);
-    }
-    var panels = document.querySelectorAll('.syl-panel');
-    for (var j = 0; j < panels.length; j++) {
-      panels[j].classList.toggle('active', panels[j].id === 'syl-' + which);
-    }
-    egGtag('event', 'syllabus_tab', { event_category: 'engagement', event_label: which, tab: which });
-    egFbq('trackCustom', 'SyllabusTab', { tab: which });
-  }
-</script>
 
 <!-- ═══════════════════════════════════════════════ S4b: EVERY TURN ══ -->
 <section id="s4b-turns" class="eg-section">
