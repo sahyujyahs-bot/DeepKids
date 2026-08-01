@@ -24,6 +24,50 @@
        through these instead of repeating the typeof check. */
     window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
     window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+    /* ── In-page jumps ─────────────────────────────────────────
+       Sections low on the page sit below a lot of lazily-loaded
+       artwork. The browser computes a #hash jump against the document
+       as it stands at click time, then that artwork finishes laying
+       out and pushes the target down — #s-worth slides about 700px —
+       so the visitor lands looking at the section above the one they
+       asked for. This re-checks for a couple of seconds and nudges it
+       back, and bows out the instant the visitor scrolls themselves. */
+    window.egLandOn = function(el) {
+      if (!el) return;
+      var stopped = false, tries = 0;
+      var evs = ['wheel', 'touchmove', 'keydown'];
+      function stop() {
+        stopped = true;
+        evs.forEach(function(ev){ window.removeEventListener(ev, stop); });
+      }
+      evs.forEach(function(ev){ window.addEventListener(ev, stop, { passive: true }); });
+      // scrollIntoView honours scroll-margin-top, so that is where it should rest.
+      function want() { return parseFloat(getComputedStyle(el).scrollMarginTop) || 0; }
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      (function again() {
+        if (stopped || tries++ > 8) { stop(); return; }
+        setTimeout(function() {
+          if (stopped) return;
+          if (Math.abs(el.getBoundingClientRect().top - want()) > 4) {
+            el.scrollIntoView({ block: 'start' });   // instant correction
+          }
+          again();
+        }, tries < 2 ? 480 : (tries < 5 ? 260 : 520));
+      })();
+    };
+    /* Every in-page link goes through it. data-section links and the
+       nav dots have their own handlers, which call egLandOn directly. */
+    document.addEventListener('click', function(e) {
+      var a = e.target && e.target.closest ? e.target.closest('a[href^="#"]') : null;
+      if (!a || a.hasAttribute('data-section')) return;
+      var href = a.getAttribute('href') || '';
+      if (href.length < 2) return;
+      var el = document.getElementById(href.slice(1));
+      if (!el) return;
+      e.preventDefault();
+      try { history.replaceState(null, '', href); } catch(_) {}
+      window.egLandOn(el);
+    });
     /* ── Meta catalog product identity ──────────────────────────
        Advantage+ catalog ads and Instagram product tags match a
        visitor to a catalog item on content_ids + content_type, NOT on
@@ -5628,7 +5672,17 @@
 
 <!-- ═══════════════════════════════════════════════ WHY ₹4,999 ══ -->
 <style>
-  #s-worth { padding: clamp(48px, 8vh, 84px) clamp(18px, 5vw, 40px); scroll-margin-top: 76px; }
+  #s-worth { padding: clamp(48px, 8vh, 84px) clamp(18px, 5vw, 40px); }
+
+  /* Anchor landings. The nav is fixed (48px on mobile, 68px above
+     769px) and every section carries a big top padding, so a plain
+     #hash jump used to stop 76px above the section box — which meant
+     76px + the padding of dead space, and the tail of the previous
+     section filling the screen. Subtracting each section's own top
+     padding lands its heading ~82px down instead: just clear of the
+     nav, whatever the viewport height. */
+  #s-worth { scroll-margin-top: calc(82px - clamp(48px, 8vh, 84px)); }
+  #s2, #s4-science, #s-syllabus { scroll-margin-top: calc(82px - clamp(50px, 7vh, 90px)); }
   .worth-wrap { max-width: 760px; margin: 0 auto; }
   .worth-head { text-align: center; margin-bottom: clamp(10px, 2vh, 16px); }
   .worth-sub { text-align: center; color: rgba(255,255,255,.7); font-family: 'Futura', sans-serif;
@@ -9263,14 +9317,13 @@
       e.preventDefault();
       const sec = a.getAttribute('data-section');
       const el = document.getElementById(sec);
-      if(el) el.scrollIntoView({behavior:'smooth',block:'start'});
+      window.egLandOn(el);
     });
   });
 
   /* goToSection for any programmatic use */
   window.goToSection = function(num){
-    const el = document.getElementById(sectionIds[num - 1]);
-    if(el) el.scrollIntoView({behavior:'smooth',block:'start'});
+    window.egLandOn(document.getElementById(sectionIds[num - 1]));
   };
 })();
 </script>
@@ -12150,7 +12203,7 @@ if ('requestIdleCallback' in window) {
     var el = document.getElementById(id);
     if (el) sections.push({ dot: dot, el: el });
     dot.addEventListener('click', function() {
-      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      window.egLandOn(el);
     });
   });
 
