@@ -28,6 +28,27 @@
     })();
     window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
     window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+    /* ── Meta catalog product identity ──────────────────────────
+       Advantage+ catalog ads and Instagram product tags match a
+       visitor to a catalog item on content_ids + content_type, NOT on
+       content_name. The id below must stay byte-identical to the `id`
+       column in /product-feed.csv or nothing matches.
+       value is read lazily so a coupon-adjusted total (egFinalRupees,
+       defined further down the page) reaches Meta instead of list
+       price; before checkout code loads it falls back to list price. */
+    window.EG_PRODUCT_ID = 'EG-001';
+    window.egCatalog = function(extra) {
+      var o = {
+        content_ids: [window.EG_PRODUCT_ID],
+        content_type: 'product',
+        content_name: 'EscapeGravity',
+        content_category: 'Board Games',
+        currency: 'INR',
+        value: (typeof egFinalRupees === 'function') ? egFinalRupees() : 4999
+      };
+      for (var k in extra) if (Object.prototype.hasOwnProperty.call(extra, k)) o[k] = extra[k];
+      return o;
+    };
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
   <script>
@@ -55,6 +76,7 @@
     (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '1960497127528559');
     fbq('track', 'PageView');
+    fbq('track', 'ViewContent', egCatalog());
     fbq('trackCustom', 'OrderLPView');
     }
   </script>
@@ -966,7 +988,7 @@
       if (!cartFired) {
         cartFired = true;
         egGtag('event', 'open_preorder', { event_category: 'engagement', event_label: 'order_lp' });
-        egFbq('track', 'AddToCart', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
+        egFbq('track', 'AddToCart', egCatalog());
       }
       if (!formStarted) {
         formStarted = true;
@@ -1060,7 +1082,7 @@
       // ── Cash on Delivery: no Razorpay, straight to address collection ──
       if (orderMode === 'cod') {
         egGtag('event', 'cod_confirm_click', { event_category: 'conversion', event_label: 'order_lp_cod' });
-        egFbq('trackCustom', 'CODConfirm', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
+        egFbq('trackCustom', 'CODConfirm', egCatalog());
         codPending = { name: custName, phone: fullNumber };
         var codBanner = document.getElementById('co-paid-banner');
         if (codBanner) codBanner.innerHTML = '📦 <b>Order confirmed!</b> Where should we ship it? You\'ll pay <b>' + finalStr() + '</b> in cash when it arrives.';
@@ -1076,7 +1098,7 @@
       // ── Pay Online: existing Razorpay flow ──
       egGtag('event', 'pay_now_click', { event_category: 'conversion', event_label: 'order_lp', value: 4999, currency: 'INR' });
       var icEventId = 'ic_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
-      egFbq('track', 'InitiateCheckout', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: icEventId });
+      egFbq('track', 'InitiateCheckout', egCatalog(), { eventID: icEventId });
 
       setPayBusy(true);
       Promise.all([
@@ -1130,7 +1152,7 @@
             paidOrder = { paymentId: paymentId, name: custName, phone: fullNumber };
             egGtag('event', 'preorder_paid', { event_category: 'conversion' });
             egGtag('event', 'purchase', { transaction_id: paymentId, value: 4999, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 4999, quantity: 1 }] });
-            egFbq('track', 'Purchase', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
+            egFbq('track', 'Purchase', egCatalog(), { eventID: paymentId });
             // Record the payment immediately, then collect the address in
             // this same flow — the panel swaps to a short address step.
             sendLeadData(custName, fullNumber, '', 'Payment Successful', paymentId);
@@ -1159,7 +1181,7 @@
           }
         }
       };
-      egFbq('track', 'AddPaymentInfo', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
+      egFbq('track', 'AddPaymentInfo', egCatalog());
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
         egGtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });
@@ -1201,7 +1223,7 @@
         var codVal = finalRupees();
         egGtag('event', 'cod_order_placed', { event_category: 'conversion', event_label: 'order_lp' });
         egGtag('event', 'purchase', { transaction_id: paymentId, value: codVal, currency: 'INR', payment_type: 'cod', coupon: (couponCode || undefined), items: [{ item_name: 'EscapeGravity', price: codVal, quantity: 1 }] });
-        egFbq('track', 'Purchase', { value: codVal, currency: 'INR', content_name: 'EscapeGravity COD' });
+        egFbq('track', 'Purchase', egCatalog({ value: codVal, content_name: 'EscapeGravity COD' }));
         egFbq('trackCustom', 'CODOrderPlaced', { value: codVal, currency: 'INR' });
         notifyPromise = Promise.allSettled([
           sendLeadData(o.name, o.phone, fullAddress, status, paymentId),

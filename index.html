@@ -24,6 +24,27 @@
        through these instead of repeating the typeof check. */
     window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
     window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+    /* ── Meta catalog product identity ──────────────────────────
+       Advantage+ catalog ads and Instagram product tags match a
+       visitor to a catalog item on content_ids + content_type, NOT on
+       content_name. The id below must stay byte-identical to the `id`
+       column in /product-feed.csv or nothing matches.
+       value is read lazily so a coupon-adjusted total (egFinalRupees,
+       defined further down the page) reaches Meta instead of list
+       price; before checkout code loads it falls back to list price. */
+    window.EG_PRODUCT_ID = 'EG-001';
+    window.egCatalog = function(extra) {
+      var o = {
+        content_ids: [window.EG_PRODUCT_ID],
+        content_type: 'product',
+        content_name: 'EscapeGravity',
+        content_category: 'Board Games',
+        currency: 'INR',
+        value: (typeof egFinalRupees === 'function') ? egFinalRupees() : 4999
+      };
+      for (var k in extra) if (Object.prototype.hasOwnProperty.call(extra, k)) o[k] = extra[k];
+      return o;
+    };
     /* Field RUM: reports how long the hero took to come alive on REAL
        visitors' devices. The bucket is baked into the event name so it
        is visible in GA4's Events report with zero extra setup, and the
@@ -73,6 +94,7 @@
     (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '1960497127528559');
     fbq('track', 'PageView');
+    fbq('track', 'ViewContent', egCatalog());
     }
   </script>
   <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1960497127528559&ev=PageView&noscript=1"/></noscript>
@@ -120,6 +142,8 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "EscapeGravity",
+    "sku": "EG-001",
+    "mpn": "EG-001",
     "alternateName": "EscapeGravity Educational Board Game",
     "description": "EscapeGravity is an educational board game for kids ages 7+ where players do 35+ physical challenges, earn force cards, and escape gravity wells on a spiral board. A learning board game where science is experienced, not just read about.",
     "image": "https://deepkids.in/spiral-board-display-transparent.png",
@@ -2279,7 +2303,7 @@
       }
       // Event: user opened pre-order modal
       egGtag('event', 'open_preorder', { event_category: 'engagement' });
-      egFbq('track', 'AddToCart', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
+      egFbq('track', 'AddToCart', egCatalog());
     }
     function showPostPayAddressStep(mode) {
       mode = mode || 'paid';
@@ -2337,7 +2361,7 @@
         egReportModalDuration('cod_placed');
         egGtag('event', 'cod_order_placed', { event_category: 'conversion' });
         egGtag('event', 'purchase', { transaction_id: codId, value: codVal, currency: 'INR', payment_type: 'cod', coupon: (window._egCouponCode || undefined), items: [{ item_name: 'EscapeGravity', price: codVal, quantity: 1 }] });
-        egFbq('track', 'Purchase', { value: codVal, currency: 'INR', content_name: 'EscapeGravity COD' });
+        egFbq('track', 'Purchase', egCatalog({ value: codVal, content_name: 'EscapeGravity COD' }));
         egFbq('trackCustom', 'CODOrderPlaced', { value: codVal, currency: 'INR' });
         status = 'COD Order Placed';
         notifyPromise = Promise.allSettled([
@@ -2507,7 +2531,7 @@
       // ── Cash on Delivery: no Razorpay, straight to address collection ──
       if (payType === 'cod') {
         egGtag('event', 'cod_confirm_click', { event_category: 'conversion', event_label: 'cod' });
-        egFbq('trackCustom', 'CODConfirm', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
+        egFbq('trackCustom', 'CODConfirm', egCatalog());
         window._egAddrMode = 'cod';
         window._egAddrOrder = { paymentId: '', name: name, phone: fullNumber };
         showPostPayAddressStep('cod');
@@ -2519,7 +2543,7 @@
       // Shared event id lets Meta dedupe this browser event against the
       // server-side CAPI copy sent by /api/create-order.
       var icEventId = 'ic_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
-      egFbq('track', 'InitiateCheckout', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: icEventId });
+      egFbq('track', 'InitiateCheckout', egCatalog(), { eventID: icEventId });
 
       var submitBtn = form.querySelector('.po-submit');
       if (submitBtn) { submitBtn.disabled = true; submitBtn.querySelector('.btn-label').textContent = 'Loading...'; }
@@ -2589,7 +2613,7 @@
               leadEmailSent = true;
               egGtag('event', 'preorder_paid', { event_category: 'conversion' });
               egGtag('event', 'purchase', { transaction_id: paymentId, value: 4999, currency: 'INR', items: [{ item_name: 'EscapeGravity Pre-Order', price: 4999, quantity: 1 }] });
-              egFbq('track', 'Purchase', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' }, { eventID: paymentId });
+              egFbq('track', 'Purchase', egCatalog(), { eventID: paymentId });
               // Record the payment immediately (email/sheet/WhatsApp), then
               // collect the delivery address in this same flow — the modal
               // swaps to a short address step instead of redirecting away.
@@ -2621,7 +2645,7 @@
           }
         }
       };
-      egFbq('track', 'AddPaymentInfo', { value: 4999, currency: 'INR', content_name: 'EscapeGravity' });
+      egFbq('track', 'AddPaymentInfo', egCatalog());
       var rzp = new Razorpay(options);
       rzp.on('payment.failed', function(response) {
         egGtag('event', 'payment_failed', { event_category: 'funnel', event_label: response.error && response.error.code });

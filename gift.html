@@ -28,6 +28,27 @@
     })();
     window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
     window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+    /* ── Meta catalog product identity ──────────────────────────
+       Advantage+ catalog ads and Instagram product tags match a
+       visitor to a catalog item on content_ids + content_type, NOT on
+       content_name. The id below must stay byte-identical to the `id`
+       column in /product-feed.csv or nothing matches.
+       value is read lazily so a coupon-adjusted total (egFinalRupees,
+       defined further down the page) reaches Meta instead of list
+       price; before checkout code loads it falls back to list price. */
+    window.EG_PRODUCT_ID = 'EG-001';
+    window.egCatalog = function(extra) {
+      var o = {
+        content_ids: [window.EG_PRODUCT_ID],
+        content_type: 'product',
+        content_name: 'EscapeGravity',
+        content_category: 'Board Games',
+        currency: 'INR',
+        value: (typeof egFinalRupees === 'function') ? egFinalRupees() : 4999
+      };
+      for (var k in extra) if (Object.prototype.hasOwnProperty.call(extra, k)) o[k] = extra[k];
+      return o;
+    };
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
   <script>
@@ -55,6 +76,7 @@
     (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '1960497127528559');
     fbq('track', 'PageView');
+    fbq('track', 'ViewContent', egCatalog());
     fbq('trackCustom', 'GiftLPView');
     }
   </script>
