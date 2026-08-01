@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Story Of Evolution Of Life — A Picture Book | DeepKids</title>
+  <meta name="description" content="A hand-painted, scientifically accurate picture book that tells four billion years as one continuous story — from the silent infinite before the Earth to the thought that came before neurons. For kids and adults. From DeepKids."/>
+  <link rel="canonical" href="https://deepkids.in/evolution"/>
+  <meta property="og:title" content="The Story Of Evolution Of Life — A Picture Book For Kids &amp; Adults"/>
+  <meta property="og:description" content="Four billion years, told once, properly. Hand-painted spreads and honest science — including the parts most books leave out."/>
+  <meta property="og:image" content="https://deepkids.in/more-evo-pin.webp"/>
+  <meta property="og:url" content="https://deepkids.in/evolution"/>
+  <meta property="og:type" content="book"/>
+  <meta name="theme-color" content="#05030f"/>
+  <link rel="icon" href="/favicon.ico" sizes="any"/>
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+  <!-- Internal-traffic kill switch (same as the rest of the site): ?notrack / ?track -->
+  <script>
+    window._egNoTrack = (function(){
+      try {
+        var q = new URLSearchParams(location.search);
+        if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+        if (q.has('track')) localStorage.removeItem('eg-notrack');
+        return localStorage.getItem('eg-notrack') === '1';
+      } catch(e) { return false; }
+    })();
+    window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
+    window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
+  <script>
+    if (!window._egNoTrack) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GYJLZ0FVJE');
+      gtag('config', 'AW-18110551284');
+    }
+  </script>
+  <script>
+    if (!window._egNoTrack) (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window,document,"clarity","script","xc1qgqypu0");
+  </script>
+  <script>
+    if (!window._egNoTrack) {
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+    (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1960497127528559');
+    fbq('track', 'PageView');
+    fbq('trackCustom', 'EvolutionView');
+    }
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1960497127528559&ev=PageView&noscript=1"/></noscript>
+
+  <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
+  <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
+
+  <style>
+    @font-face {
+      font-family: 'Norwester';
+      src: url('norwester.ttf') format('truetype');
+      font-weight: normal; font-style: normal; font-display: swap;
+    }
+    @font-face {
+      font-family: 'Futura';
+      src: url('fonts/futura-book.otf') format('opentype');
+      font-weight: 400; font-style: normal; font-display: swap;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       DESIGN IDEA — "deep time"
+
+       The book's subject is one unbroken 4-billion-year story, so
+       the page is a single timeline you fall down. A clock pinned to
+       the left counts backwards from the silent infinite to now as
+       you scroll, and each chapter arrives as a full-bleed spread of
+       the actual artwork with its era stamped on it.
+       ══════════════════════════════════════════════════════════ */
+
+    :root {
+      --purple: #aa59c8; --purple-rgb: 170,89,200;
+      --lilac: #cd9edf;
+      --gold: #ffb300; --gold-rgb: 255,179,0;
+      --lime: #c0e638;
+      --cyan: #4fd8e8;
+      --rose: #ff8fb1;
+      --ink: rgba(255,255,255,.84); --ink-dim: rgba(255,255,255,.58);
+      --font-head: 'Norwester', sans-serif;
+      --font-body: 'Futura', 'Segoe UI', sans-serif;
+
+      --gap-section: clamp(60px, 10vh, 118px);
+      --gap-block: clamp(24px, 4vh, 42px);
+      --rail: clamp(44px, 6.5vw, 82px);
+    }
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: #05030f;
+      color: #fff; font-family: var(--font-body); line-height: 1.65; overflow-x: hidden;
+    }
+    img { max-width: 100%; height: auto; display: block; }
+    a { color: var(--lilac); }
+    h1, h2, h3 { font-family: var(--font-head); font-weight: normal; font-variant: small-caps; line-height: 1.05; }
+
+    .wrap {
+      max-width: 1040px; margin: 0 auto;
+      padding-inline: clamp(20px, 5vw, 40px);
+      padding-left: calc(var(--rail) + clamp(8px, 1.5vw, 18px));
+    }
+
+    /* ─── Deep-time backdrop ──────────────────────────────────*/
+    .eons { position: fixed; inset: 0; z-index: 0; pointer-events: none; }
+    .eon { position: absolute; inset: 0; opacity: 0; transition: opacity 1.1s ease; }
+    .eon.on { opacity: 1; }
+    .eon-void {
+      background:
+        radial-gradient(760px 560px at 50% 42%, rgba(255,122,61,.16), transparent 66%),
+        linear-gradient(180deg, #05030f 0%, #0a0518 60%, #05030f 100%);
+    }
+    .eon-forge {
+      background:
+        radial-gradient(900px 620px at 68% 26%, rgba(255,122,61,.24), transparent 68%),
+        radial-gradient(700px 520px at 22% 74%, rgba(255,179,0,.14), transparent 70%),
+        linear-gradient(180deg, #14060f 0%, #1d0913 55%, #0d0410 100%);
+    }
+    .eon-ocean {
+      background:
+        radial-gradient(1000px 640px at 30% 22%, rgba(79,216,232,.2), transparent 68%),
+        radial-gradient(820px 560px at 78% 72%, rgba(var(--purple-rgb), .22), transparent 70%),
+        linear-gradient(180deg, #04121e 0%, #071a2a 50%, #050d1c 100%);
+    }
+    .eon-life {
+      background:
+        radial-gradient(960px 620px at 24% 30%, rgba(var(--purple-rgb), .28), transparent 70%),
+        radial-gradient(780px 540px at 82% 70%, rgba(192,230,56,.12), transparent 70%),
+        linear-gradient(180deg, #0b0a24 0%, #12142e 55%, #080a1a 100%);
+    }
+    .eon-green {
+      background:
+        radial-gradient(980px 640px at 34% 34%, rgba(192,230,56,.16), transparent 68%),
+        radial-gradient(820px 560px at 76% 72%, rgba(var(--purple-rgb), .2), transparent 70%),
+        linear-gradient(180deg, #0a1410 0%, #121c14 55%, #070f0b 100%);
+    }
+    .dust { position: fixed; inset: 0; z-index: 0; pointer-events: none; opacity: .75;
+      background-image:
+        radial-gradient(1.7px 1.7px at 13% 19%, rgba(255,255,255,.7), transparent),
+        radial-gradient(1.4px 1.4px at 36% 8%,  rgba(255,255,255,.55), transparent),
+        radial-gradient(2px 2px   at 61% 25%, rgba(255,255,255,.65), transparent),
+        radial-gradient(1.4px 1.4px at 88% 15%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.7px 1.7px at 24% 59%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.4px 1.4px at 71% 51%, rgba(255,255,255,.55), transparent),
+        radial-gradient(2px 2px   at 44% 79%, rgba(255,255,255,.45), transparent),
+        radial-gradient(1.4px 1.4px at 93% 86%, rgba(255,255,255,.5), transparent);
+      animation: adrift 34s linear infinite;
+    }
+    @keyframes adrift { from { transform: translateY(0); } to { transform: translateY(-70px); } }
+
+    header, main, footer { position: relative; z-index: 2; }
+
+    /* ─── Deep-time clock ─────────────────────────────────────*/
+    .clock {
+      position: fixed; top: 0; left: 0; bottom: 0; width: var(--rail);
+      z-index: 40; pointer-events: none;
+      display: flex; flex-direction: column; align-items: center;
+      padding-block: clamp(62px, 12vh, 108px) clamp(18px, 4vh, 32px);
+      border-right: 1px solid rgba(255,255,255,.08);
+      background: linear-gradient(90deg, rgba(0,0,0,.3), rgba(0,0,0,0));
+    }
+    .clock-track { position: relative; flex: 1; width: 2px; border-radius: 2px; background: rgba(255,255,255,.12); overflow: hidden; }
+    .clock-fill {
+      position: absolute; left: 0; right: 0; top: 0; height: 0%;
+      background: linear-gradient(180deg, #ff7a3d, var(--gold) 26%, var(--cyan) 58%, var(--lime) 100%);
+      box-shadow: 0 0 12px rgba(255,179,0,.7);
+    }
+    .clock-bead {
+      position: absolute; left: 50%; top: 0; width: 9px; height: 9px; border-radius: 50%;
+      transform: translate(-50%,-50%); background: #fff;
+      box-shadow: 0 0 12px rgba(255,255,255,.9), 0 0 26px rgba(255,179,0,.8);
+    }
+    .clock-read {
+      writing-mode: vertical-rl; text-orientation: mixed; transform: rotate(180deg);
+      margin-top: 14px; font-family: var(--font-head); font-variant: small-caps;
+      letter-spacing: 3px; font-size: clamp(11px, 1.5vw, 13.5px);
+      color: rgba(255,255,255,.72); white-space: nowrap; text-shadow: 0 0 14px rgba(0,0,0,.85);
+    }
+    .clock-read b { color: #fff; font-weight: normal; }
+    @media (prefers-reduced-motion: reduce) { .dust { animation: none; } }
+
+    /* ─── Masthead ────────────────────────────────────────────*/
+    .mast {
+      position: fixed; top: 0; left: var(--rail); right: 0; z-index: 45;
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+      padding: 12px clamp(16px, 4vw, 34px);
+      background: rgba(5,3,15,.72);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(255,255,255,.07);
+    }
+    .mast-logo { font-family: var(--font-head); font-variant: small-caps; letter-spacing: .5px;
+      font-size: clamp(18px, 2.6vw, 23px); color: #fff; text-decoration: none; }
+    .mast-logo b { color: var(--purple); font-weight: normal; }
+    .mast nav { display: flex; align-items: center; gap: clamp(12px, 2.2vw, 24px); }
+    .mast nav a { font-size: 13.5px; color: rgba(255,255,255,.72); text-decoration: none; transition: color .2s ease; }
+    .mast nav a:hover { color: #fff; }
+    @media (max-width: 660px) { .mast nav a.hide-sm { display: none; } }
+
+    /* ─── Hero ────────────────────────────────────────────────*/
+    /* Full-bleed so the painting runs edge to edge; the copy inside
+       still sits in .wrap and clears the clock rail. */
+    .hero {
+      position: relative; overflow: hidden;
+      min-height: 100vh; min-height: 100dvh;
+      display: flex; align-items: center;
+      padding-block: clamp(94px, 15vh, 146px) clamp(56px, 9vh, 96px);
+    }
+    .hero-inner { width: 100%; text-align: center; display: flex; flex-direction: column; }
+    /* It's a picture book — so the hero is a page from it, dropped
+       behind the title and scrimmed down until the type sits clean. */
+    .hero-art {
+      position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none;
+    }
+    .hero-art img {
+      width: 100%; height: 100%; object-fit: cover; opacity: .72;
+      transform: scale(1.04);
+      animation: breathe 26s ease-in-out infinite alternate;
+    }
+    @keyframes breathe { from { transform: scale(1.04); } to { transform: scale(1.14); } }
+    .hero-art::after {
+      content: ''; position: absolute; inset: 0;
+      background:
+        radial-gradient(105% 70% at 50% 48%, rgba(5,3,15,.2) 0%, rgba(5,3,15,.72) 62%, rgba(5,3,15,.96) 100%),
+        linear-gradient(180deg, rgba(5,3,15,.86) 0%, rgba(5,3,15,.12) 32%, rgba(5,3,15,.9) 100%);
+    }
+    @media (prefers-reduced-motion: reduce) { .hero-art img { animation: none; } }
+    .hero-eyebrow {
+      display: inline-flex; align-self: center; align-items: center; gap: 9px;
+      font-size: clamp(10.5px, 1.3vw, 12.5px); letter-spacing: 4px; text-transform: uppercase;
+      color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .42); border-radius: 999px;
+      padding: 6px 18px; margin-bottom: clamp(20px, 3.5vh, 34px);
+      background: rgba(var(--gold-rgb), .08);
+    }
+    .hero h1 {
+      font-size: clamp(38px, 9vw, 104px); line-height: .94; letter-spacing: 1px;
+      background: linear-gradient(180deg, #fff 0%, #ffe6b0 32%, var(--gold) 68%, #ff7a3d 100%);
+      -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
+      filter: drop-shadow(0 0 44px rgba(255,179,0,.4)) drop-shadow(0 4px 20px rgba(0,0,0,.85));
+    }
+    .hero .of-life { display: block; }
+    .hero-sub {
+      font-size: clamp(15px, 2.1vw, 19px); color: var(--ink);
+      max-width: 620px; margin: clamp(20px, 3.2vh, 32px) auto 0;
+      text-shadow: 0 2px 14px rgba(0,0,0,.9);
+    }
+    .hero-sub b { color: #fff; }
+    .hero-facts { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: clamp(22px, 3.5vh, 34px); }
+    .hero-facts span {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: clamp(12px, 1.6vw, 14.5px);
+      color: var(--lilac); border: 1px solid rgba(var(--purple-rgb), .4); border-radius: 999px;
+      padding: 5px 16px; background: rgba(var(--purple-rgb), .1);
+    }
+    .scroll-cue {
+      margin-top: clamp(26px, 4.5vh, 46px); align-self: center;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 4px; font-size: 12.5px;
+      color: rgba(255,255,255,.6); text-decoration: none;
+      display: inline-flex; flex-direction: column; align-items: center; gap: 8px;
+    }
+    .scroll-cue span { display: block; width: 1px; height: 44px;
+      background: linear-gradient(180deg, rgba(255,255,255,.7), transparent);
+      animation: fall 2.4s ease-in-out infinite; }
+    @keyframes fall { 0%,100% { transform: scaleY(.5); opacity: .4; transform-origin: top; } 50% { transform: scaleY(1); opacity: 1; transform-origin: top; } }
+
+    /* ─── Sections ────────────────────────────────────────────*/
+    .zone { padding-block: var(--gap-section); }
+    .zone-head { margin-bottom: var(--gap-block); }
+    .zone-kicker {
+      display: block; font-family: var(--font-head); font-variant: small-caps;
+      font-size: clamp(11px, 1.5vw, 13px); letter-spacing: 4px; color: var(--gold); margin-bottom: 8px;
+    }
+    .zone h2 { font-size: clamp(27px, 5.4vw, 48px); color: #fff; text-shadow: 0 0 30px rgba(var(--purple-rgb), .4); }
+    .zone h2 em { font-style: normal; color: var(--lilac); }
+    .zone-lede { max-width: 660px; margin-top: 16px; color: var(--ink); font-size: clamp(15px, 2vw, 17.5px); }
+    .zone-lede b { color: #fff; }
+
+    /* ─── Excerpt: a real page from the book ──────────────────*/
+    .excerpt {
+      display: grid; grid-template-columns: minmax(0, 1fr); gap: 0;
+      border: 1px solid rgba(255,255,255,.16); border-radius: 22px; overflow: hidden;
+      background: linear-gradient(150deg, rgba(255,255,255,.06), rgba(255,255,255,.015) 70%);
+    }
+    @media (min-width: 820px) { .excerpt { grid-template-columns: minmax(0, 46%) minmax(0, 54%); } }
+    .excerpt-art { position: relative; background: #07040f; min-height: 240px; }
+    .excerpt-art img { width: 100%; height: 100%; object-fit: cover; }
+    .excerpt-era {
+      position: absolute; left: 14px; bottom: 14px;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: 12px;
+      color: #fff; background: rgba(5,3,15,.74); border: 1px solid rgba(255,255,255,.26);
+      padding: 4px 12px; border-radius: 999px;
+      backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
+    }
+    .excerpt-text { padding: clamp(24px, 3.4vw, 38px); display: flex; flex-direction: column; justify-content: center; }
+    .excerpt-text h3 { font-size: clamp(21px, 3vw, 30px); color: #fff; letter-spacing: 1.5px; margin-bottom: 14px; }
+    .excerpt-text p { font-size: clamp(15px, 1.9vw, 16.5px); color: var(--ink); }
+    .excerpt-text p + p { margin-top: 12px; }
+    .excerpt-text b { color: var(--lime); }
+    .excerpt-note {
+      margin-top: 18px; padding-top: 14px; border-top: 1px dashed rgba(255,255,255,.2);
+      font-size: 13px; color: var(--ink-dim); font-style: oblique;
+    }
+
+    /* ─── Chapter list ────────────────────────────────────────*/
+    .chapters { border: 1px solid rgba(255,255,255,.14); border-radius: 20px; overflow: hidden; }
+    .chapter {
+      display: grid; grid-template-columns: minmax(88px, 128px) 1fr; gap: clamp(12px, 2.4vw, 26px);
+      align-items: baseline; padding: clamp(14px, 2.2vw, 20px) clamp(16px, 2.6vw, 26px);
+      background: rgba(255,255,255,.03); border-bottom: 1px solid rgba(255,255,255,.07);
+      transition: background .25s ease, padding-left .25s ease;
+    }
+    .chapter:last-child { border-bottom: 0; }
+    .chapter:hover { background: rgba(var(--purple-rgb), .15); padding-left: calc(clamp(16px, 2.6vw, 26px) + 8px); }
+    .chapter .when {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px;
+      font-size: clamp(12px, 1.6vw, 14px); color: var(--gold); white-space: nowrap;
+    }
+    .chapter .what { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px;
+      font-size: clamp(16px, 2.2vw, 20px); color: #fff; }
+    .chapter .what small {
+      display: block; font-family: var(--font-body); font-variant: normal; letter-spacing: 0;
+      font-size: 13.5px; color: var(--ink-dim); margin-top: 2px; line-height: 1.5;
+    }
+
+    /* ─── Art gallery ─────────────────────────────────────────*/
+    .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: clamp(10px, 1.6vw, 16px); }
+    .plate {
+      position: relative; border-radius: 16px; overflow: hidden; aspect-ratio: 800 / 571;
+      border: 1px solid rgba(255,255,255,.12); background: #07040f;
+      transition: transform .35s ease, border-color .35s ease;
+    }
+    .plate:hover { transform: translateY(-4px) scale(1.015); border-color: rgba(var(--purple-rgb), .55); }
+    .plate img { width: 100%; height: 100%; object-fit: cover; }
+    .plate figcaption {
+      position: absolute; left: 0; right: 0; bottom: 0; padding: 22px 14px 12px;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px; font-size: 13.5px; color: #fff;
+      background: linear-gradient(180deg, transparent, rgba(5,3,15,.88));
+    }
+    .plate.wide { grid-column: span 2; aspect-ratio: 16 / 7; }
+    @media (max-width: 560px) { .plate.wide { grid-column: span 1; aspect-ratio: 800 / 571; } }
+
+    /* ─── Difference list ─────────────────────────────────────*/
+    .diffs { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: clamp(14px, 2vw, 20px); }
+    .diff {
+      padding: 26px 22px; border-radius: 18px;
+      background: linear-gradient(170deg, rgba(255,255,255,.06), rgba(255,255,255,.015) 70%);
+      border: 1px solid rgba(255,255,255,.14);
+      transition: transform .3s ease, border-color .3s ease;
+    }
+    .diff:hover { transform: translateY(-4px); border-color: rgba(var(--purple-rgb), .5); }
+    .diff .ico { font-size: 26px; margin-bottom: 12px; }
+    .diff h3 { font-size: 18.5px; color: #fff; letter-spacing: .5px; margin-bottom: 8px; }
+    .diff p { font-size: 14.5px; color: var(--ink-dim); }
+
+    /* ─── Notify panel ────────────────────────────────────────*/
+    .notify {
+      max-width: 560px; margin: 0 auto;
+      background: linear-gradient(170deg, rgba(var(--gold-rgb), .14), rgba(255,255,255,.03) 68%);
+      border: 1px solid rgba(var(--gold-rgb), .4); border-radius: 22px; padding: clamp(24px, 4vw, 38px);
+      box-shadow: 0 24px 60px rgba(0,0,0,.5);
+    }
+    .notify h2 { font-size: clamp(24px, 4.4vw, 36px); text-align: center; margin-bottom: 8px; }
+    .notify h2 em { font-style: normal; color: var(--gold); }
+    .n-intro { text-align: center; color: var(--ink); font-size: 15px; margin-bottom: 22px; }
+    .n-perks { display: flex; flex-direction: column; gap: 9px; margin: 0 auto 22px; max-width: 400px; }
+    .n-perks li { list-style: none; display: flex; align-items: flex-start; gap: 10px; font-size: 14.5px; color: rgba(255,255,255,.9); }
+    .n-perks li span { font-size: 17px; flex-shrink: 0; line-height: 1.5; }
+    .n-field { margin-bottom: 13px; }
+    .n-field label { display: block; font-size: 11.5px; letter-spacing: 2px; text-transform: uppercase; color: var(--ink-dim); margin-bottom: 6px; }
+    .n-field input {
+      width: 100%; padding: 13px 15px; font-family: var(--font-body); font-size: 16px; color: #fff;
+      background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.2); border-radius: 12px; outline: none;
+      transition: border-color .2s ease, box-shadow .2s ease;
+    }
+    .n-field input:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(var(--gold-rgb), .18); }
+    .n-row { display: grid; grid-template-columns: 92px 1fr; gap: 10px; }
+    .n-actions { text-align: center; margin-top: 18px; }
+    .n-msg { min-height: 20px; text-align: center; font-size: 14px; margin-top: 12px; color: var(--ink); }
+    .n-msg.err { color: #ff8a8a; }
+    .n-note { text-align: center; font-size: 12px; color: var(--ink-dim); margin-top: 12px; }
+    .n-done { text-align: center; padding: 10px 4px; }
+    .n-done .big { font-family: var(--font-head); font-variant: small-caps; font-size: clamp(24px, 4vw, 32px); color: #fff; margin-bottom: 8px; }
+    .n-done p { color: var(--ink); font-size: 15px; }
+
+    /* ─── DeepKids button ─────────────────────────────────────*/
+    .btn-wrap {
+      position: relative; display: inline-block; cursor: pointer; text-decoration: none;
+      background: none; border: none; padding: 0; font: inherit;
+      animation: btn-bob 3.5s ease-in-out infinite;
+      filter: drop-shadow(0 0 16px rgba(var(--purple-rgb),.4)) drop-shadow(0 4px 12px rgba(0,0,0,.45));
+      transition: filter .3s ease, transform .3s ease;
+    }
+    .btn-wrap:hover { transform: translateY(-3px) scale(1.04); animation: none;
+      filter: drop-shadow(0 0 24px rgba(var(--purple-rgb),.65)) drop-shadow(0 6px 18px rgba(0,0,0,.5)) brightness(1.1); }
+    .btn-wrap:active { transform: scale(.97); animation: none; }
+    @keyframes btn-bob { 0%,100% { transform: scale(1) translateY(0); } 50% { transform: scale(1.03) translateY(-4px); } }
+    .btn-svg { display: block; width: clamp(200px, 58vw, 280px); height: auto; overflow: visible; }
+    .btn-label {
+      position: absolute; top: 50%; left: 38%; transform: translate(-50%,-50%);
+      font-family: var(--font-head); font-variant: small-caps; font-size: clamp(15px, 4.2vw, 21px);
+      letter-spacing: clamp(1px,.5vw,3px); color: #fff; text-shadow: 1px 1px 3px rgba(0,0,0,.7);
+      pointer-events: none; white-space: nowrap;
+    }
+
+    footer { text-align: center; padding: 38px 16px 52px; font-size: 13px; color: rgba(255,255,255,.5); }
+    footer .f-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 0; }
+    footer a { margin: 0 9px; color: rgba(255,255,255,.66); text-decoration: none; }
+    footer a:hover { color: #fff; }
+
+    /* ─── Reveal ──────────────────────────────────────────────*/
+    .rv { opacity: 0; transform: translateY(26px); transition: opacity .8s ease, transform .8s ease; }
+    .rv.in { opacity: 1; transform: none; }
+    .rv2 { transition-delay: .09s; } .rv3 { transition-delay: .18s; }
+    @media (prefers-reduced-motion: reduce) {
+      .rv { opacity: 1; transform: none; transition: none; }
+      .btn-wrap, .scroll-cue span { animation: none !important; }
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="eons" aria-hidden="true">
+  <div class="eon eon-void on" data-eon="void"></div>
+  <div class="eon eon-forge" data-eon="forge"></div>
+  <div class="eon eon-ocean" data-eon="ocean"></div>
+  <div class="eon eon-life"  data-eon="life"></div>
+  <div class="eon eon-green" data-eon="green"></div>
+</div>
+<div class="dust" aria-hidden="true"></div>
+
+<!-- Deep-time clock -->
+<div class="clock" aria-hidden="true">
+  <div class="clock-track">
+    <div class="clock-fill" id="c-fill"></div>
+    <div class="clock-bead" id="c-bead"></div>
+  </div>
+  <div class="clock-read"><b id="c-when">Before time</b> · <span id="c-eon">The Silent Infinite</span></div>
+</div>
+
+<header class="mast">
+  <a class="mast-logo" href="/newhome"><b>Deep</b>Kids</a>
+  <nav>
+    <a href="#read">Read A Spread</a>
+    <a href="#chapters" class="hide-sm">Chapters</a>
+    <a href="#art" class="hide-sm">The Art</a>
+    <a href="#notify">Get Notified</a>
+  </nav>
+</header>
+
+<main>
+  <!-- ═══════════════ HERO ═══════════════ -->
+  <section class="hero">
+    <div class="hero-art" aria-hidden="true">
+      <img src="more-evo-pin.webp" alt="" width="1200" height="857" fetchpriority="high" decoding="async"/>
+    </div>
+    <div class="wrap hero-inner">
+    <span class="hero-eyebrow">✦&nbsp; Picture Book&nbsp;·&nbsp;In Production</span>
+    <h1>The Story Of<br/><span class="of-life">Evolution Of Life</span></h1>
+    <p class="hero-sub">Four billion years, told once and told <b>properly</b> — from the silent infinite before there was an Earth, to the cell that taught a dying world to breathe, to the discovery that thought came long before neurons. Hand-painted, and <b>scientifically accurate all the way through</b>.</p>
+    <div class="hero-facts">
+      <span>For kids &amp; adults</span>
+      <span>Hand-painted spreads</span>
+      <span>~4 billion years</span>
+    </div>
+    <a class="scroll-cue" href="#read" aria-label="Start reading">Fall through time<span></span></a>
+    </div>
+  </section>
+
+  <!-- ═══════════════ EXCERPTS ═══════════════ -->
+  <section class="zone wrap" id="read">
+    <div class="zone-head">
+      <span class="zone-kicker rv">Two pages from the book</span>
+      <h2 class="rv">Read A <em>Spread</em></h2>
+      <p class="zone-lede rv rv2">This is the actual writing, not a summary of it. Every spread pairs one painting with the story of what was happening — in a voice that assumes a child can handle the real thing.</p>
+    </div>
+
+    <article class="excerpt rv" style="margin-bottom: clamp(18px, 3vh, 30px);">
+      <div class="excerpt-art">
+        <img src="more-evo-1.webp" alt="Painting of an ancient ocean lit by a bloom of early life" width="800" height="571" loading="lazy" decoding="async"/>
+        <span class="excerpt-era">~2.5 billion years ago</span>
+      </div>
+      <div class="excerpt-text">
+        <h3>The Life Savers</h3>
+        <p>The new kid, cyanobacteria, came to the rescue.</p>
+        <p>The young cyanobacteria searched within herself, unlocking an ancient secret — <b>the power to breathe life into a dying world</b> as a by-product of photosynthesis, mother of all inventions.</p>
+        <p>For the very first time, organisms started breaking water and learned to use the power of the sun. With each bubble of oxygen she fought back the silent invaders, <b>paving the way for a world teeming with life</b>.</p>
+        <p class="excerpt-note">Most books hand children "plants make oxygen." This one hands them the moment it started, and who did it.</p>
+      </div>
+    </article>
+
+    <article class="excerpt rv rv2">
+      <div class="excerpt-art">
+        <img src="more-evo-2.webp" alt="Painting of a symmetrical network of early cellular life" width="800" height="571" loading="lazy" decoding="async"/>
+        <span class="excerpt-era">~4 billion years ago</span>
+      </div>
+      <div class="excerpt-text">
+        <h3>Thought Predates Neurons</h3>
+        <p>Form has always followed function in evolution, and the mind is no exception.</p>
+        <p>One of the great delusions — even science still clings to it — is that intelligence, thought and awareness began with "higher" animals, or with neurons and the brain. <b>But thought has been moulding life all along.</b></p>
+        <p>Now go back four billion years, to her: the great-grandmother cell, a prokaryote. She sensed her surroundings, made decisions, took action. <b>She built life from scratch — none of it without thought.</b> Same biochemistry, same ion flow, same protein triggers and gene flips. Just without the neurons, without the super-fast tunnels — through diffusion across the cell instead.</p>
+        <p>Thinking, strategising, planning — from the prokaryotes to you. <b>Common to all life.</b></p>
+      </div>
+    </article>
+  </section>
+
+  <!-- ═══════════════ CHAPTERS ═══════════════ -->
+  <section class="zone wrap" id="chapters">
+    <div class="zone-head">
+      <span class="zone-kicker rv">The whole arc</span>
+      <h2 class="rv">One Continuous <em>Story</em></h2>
+      <p class="zone-lede rv rv2">Not a list of facts by category — a single narrative you can read front to back, where each chapter is the consequence of the one before it.</p>
+    </div>
+    <div class="chapters rv">
+      <div class="chapter"><span class="when">Before time</span><span class="what">The Silent Infinite<small>"I hadn't yet been born. I did not count moments. I did not flow. I did not know myself."</small></span></div>
+      <div class="chapter"><span class="when">~4.5 billion</span><span class="what">The Birth Of The Earth<small>A cloud of dust and gas collapses, and a world condenses out of it.</small></span></div>
+      <div class="chapter"><span class="when">~4.45 billion</span><span class="what">The First Moon Rise<small>A collision so violent it throws up a companion — and the young Earth gets a sky with two lights in it.</small></span></div>
+      <div class="chapter"><span class="when">~4 billion</span><span class="what">Thought Predates Neurons<small>The great-grandmother cell senses, decides and acts — long before there is a brain to do it with.</small></span></div>
+      <div class="chapter"><span class="when">~2.5 billion</span><span class="what">The Life Savers<small>Cyanobacteria learn photosynthesis and flood a dying world with oxygen.</small></span></div>
+      <div class="chapter"><span class="when">Deep past</span><span class="what">The Start Of The Gender Race<small>Why life split itself in two, and what that division set loose.</small></span></div>
+      <div class="chapter"><span class="when">~700 million</span><span class="what">Comb Jellies — The First Predators<small>The moment one living thing started eating another, and everything had to get faster.</small></span></div>
+      <div class="chapter"><span class="when">~500 million</span><span class="what">Fishes &amp; Vertebrates<small>A spine appears, and with it a body plan that still runs through you.</small></span></div>
+      <div class="chapter"><span class="when">~410 million</span><span class="what">Plants Take Root<small>Life leaves the water and has to invent plumbing, structure and standing up.</small></span></div>
+      <div class="chapter"><span class="when">~385 million</span><span class="what">Trees — The Giants<small>The first forests, and a planet that changes colour from space.</small></span></div>
+      <div class="chapter"><span class="when">Onwards</span><span class="what">Ferns &amp; Fractals<small>The same pattern repeating at every scale — once you see it, you cannot unsee it.</small></span></div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ ART ═══════════════ -->
+  <section class="zone wrap" id="art">
+    <div class="zone-head">
+      <span class="zone-kicker rv">Every page painted by hand</span>
+      <h2 class="rv">The <em>Art</em></h2>
+      <p class="zone-lede rv rv2">No stock illustration, no clip-art, no templates. Every spread was painted for this book and nothing else — which is why the ancient ocean actually looks like somewhere you could drown.</p>
+    </div>
+    <div class="gallery">
+      <figure class="plate wide rv"><img src="more-evo-1.webp" alt="An ancient ocean floor lit from within" width="800" height="571" loading="lazy" decoding="async"/><figcaption>The first oceans</figcaption></figure>
+      <figure class="plate rv"><img src="more-evo-2.webp" alt="Symmetrical bloom of early cellular life" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Life multiplies</figcaption></figure>
+      <figure class="plate rv rv2"><img src="more-evo-3.webp" alt="The first trees rising in a red forest" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Trees, the giants</figcaption></figure>
+      <figure class="plate rv"><img src="more-evo-4.webp" alt="A predatory dinosaur hunting in shallow water" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Hunting in the shallows</figcaption></figure>
+      <figure class="plate rv rv2"><img src="more-evo-5.webp" alt="An ancient rainforest floor thick with ferns" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Ferns and fractals</figcaption></figure>
+      <figure class="plate rv rv3"><img src="more-evo-6.webp" alt="A pterosaur gliding through a prehistoric forest" width="800" height="571" loading="lazy" decoding="async"/><figcaption>The first fliers</figcaption></figure>
+      <figure class="plate wide rv rv2"><img src="more-evo-7.webp" alt="A small marsupial watching the moon from a branch" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Mammals in the dark</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- ═══════════════ WHY IT'S DIFFERENT ═══════════════ -->
+  <section class="zone wrap">
+    <div class="zone-head">
+      <span class="zone-kicker rv">Why this one</span>
+      <h2 class="rv">There Are Plenty Of<br/>Evolution Books. <em>Not This One.</em></h2>
+    </div>
+    <div class="diffs">
+      <div class="diff rv"><div class="ico">🧬</div><h3>Accurate, Not Simplified Into Wrong</h3><p>Simplifying is fine. Simplifying until it's false is not. Where the science is still argued over, the book says so rather than picking a tidy answer.</p></div>
+      <div class="diff rv rv2"><div class="ico">📖</div><h3>A Story, Not A Catalogue</h3><p>Most evolution books are sorted by animal. This one runs in time order, so a child sees cause and consequence instead of a parade of species.</p></div>
+      <div class="diff rv rv3"><div class="ico">👀</div><h3>Written For Both Of You</h3><p>The reading level lets a 7-year-old in, and the ideas are ones most adults have never been told. You'll learn something on the same page they do.</p></div>
+      <div class="diff rv"><div class="ico">🎨</div><h3>Painted, Not Assembled</h3><p>Every spread is original artwork made for this book — the kind of thing a child stares at long after you've stopped reading aloud.</p></div>
+      <div class="diff rv rv2"><div class="ico">🫀</div><h3>Life Told From The Inside</h3><p>Chapters are written in the voice of what's happening — a cell that searches within herself, a world that goes quiet. It lands differently than a textbook.</p></div>
+      <div class="diff rv rv3"><div class="ico">🌍</div><h3>Part Of A Bigger Map</h3><p>It shares its universe with EscapeGravity and SCI. — the same forces, the same first-principles thinking, one subject at a time.</p></div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ NOTIFY ═══════════════ -->
+  <section class="zone wrap" id="notify">
+    <div class="notify rv">
+      <div id="n-form-wrap">
+        <h2>Tell Me When It's <em>Printed</em></h2>
+        <p class="n-intro">The book is in production. Leave your number and you'll be the first to know — no spam, and nothing else sent to this list.</p>
+        <ul class="n-perks">
+          <li><span>📚</span> First word the day it goes on sale</li>
+          <li><span>🏷️</span> An early-reader price, held for this list</li>
+          <li><span>🖼️</span> A full spread sent to you before launch</li>
+        </ul>
+        <form id="n-form" novalidate>
+          <div class="n-field">
+            <label for="n-name">Your name</label>
+            <input id="n-name" type="text" autocomplete="name" placeholder="e.g. Priya Sharma"/>
+          </div>
+          <div class="n-field">
+            <label for="n-phone">WhatsApp number</label>
+            <div class="n-row">
+              <input id="n-cc" type="text" inputmode="tel" value="+91" aria-label="Country code"/>
+              <input id="n-phone" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="98765 43210"/>
+            </div>
+          </div>
+          <div class="n-actions">
+            <button type="submit" class="btn-wrap" id="n-btn" aria-label="Notify me when the book is printed">
+              <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                  <linearGradient id="dkg-evo" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
+                  </linearGradient>
+                  <linearGradient id="dkh-evo" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+                  </linearGradient>
+                </defs>
+                <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-evo)"/>
+                <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+                <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
+                <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-evo)"/>
+                <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+                <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+                <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+              <span class="btn-label">Notify Me</span>
+            </button>
+          </div>
+          <div class="n-msg" id="n-msg" role="status"></div>
+          <p class="n-note">🔒 Only about this book. We won't add you to anything else.</p>
+        </form>
+      </div>
+      <div class="n-done" id="n-done" style="display:none">
+        <div class="big">📚 You're on the list!</div>
+        <p>We'll message you the moment the book comes off the press — and send you a full spread before that.</p>
+        <p style="margin-top:14px;"><a href="/order">While you wait, meet EscapeGravity →</a></p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="f-links">
+    <a href="/newhome">DeepKids</a>
+    <a href="/order">EscapeGravity</a>
+    <a href="/sci">SCI. Cards</a>
+    <a href="/how-to-play">How To Play</a>
+    <a href="/blog">Blog</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+    <a href="/privacy-policy">Privacy</a>
+  </div>
+  <div style="margin-top:10px;">© DeepKids · deepkids.in</div>
+</footer>
+
+<script>
+  /* ── Deep-time clock ──────────────────────────────────────
+     Scroll progress reads as an age of the Earth, counting
+     forward from before the planet existed to the present. */
+  (function(){
+    var STOPS = [                       // [progress, readout, eon key]
+      [0.00, 'Before time', 'void',  'The Silent Infinite'],
+      [0.14, '4.5 billion', 'forge', 'The Earth Forms'],
+      [0.34, '2.5 billion', 'ocean', 'The First Oceans'],
+      [0.58, '700 million', 'life',  'The First Predators'],
+      [0.78, '385 million', 'green', 'The First Forests']
+    ];
+    var fill = document.getElementById('c-fill');
+    var bead = document.getElementById('c-bead');
+    var whenEl = document.getElementById('c-when');
+    var eonEl  = document.getElementById('c-eon');
+    var eons = {};
+    document.querySelectorAll('.eon').forEach(function(el){ eons[el.getAttribute('data-eon')] = el; });
+    var ticking = false, lastKey = 'void';
+
+    function paint() {
+      ticking = false;
+      var doc = document.documentElement;
+      var max = (doc.scrollHeight - window.innerHeight) || 1;
+      var p = Math.min(Math.max(window.pageYOffset / max, 0), 1);
+      fill.style.height = (p * 100) + '%';
+      bead.style.top = (p * 100) + '%';
+
+      var stop = STOPS[0];
+      for (var i = 0; i < STOPS.length; i++) { if (p >= STOPS[i][0]) stop = STOPS[i]; }
+      whenEl.textContent = stop[1];
+      eonEl.textContent = stop[3];
+      if (stop[2] !== lastKey) {
+        if (eons[lastKey]) eons[lastKey].classList.remove('on');
+        if (eons[stop[2]]) eons[stop[2]].classList.add('on');
+        lastKey = stop[2];
+      }
+    }
+    function onScroll(){ if (!ticking) { ticking = true; requestAnimationFrame(paint); } }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    paint();
+  })();
+
+  /* ── Notify signup ────────────────────────────────────────
+     Captured server-side into our own D1 table, which is the only
+     sink we control — formsubmit and Google Forms both fail
+     silently, so a lead can vanish with no trace. No WhatsApp
+     template is sent here: the approved one is SCI-specific and
+     would deliver the wrong message. */
+  function evoSaveServerSide(name, phone) {
+    if (!phone) return Promise.resolve();
+    return fetch('/api/save-draft', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' }, keepalive: true,
+      body: JSON.stringify({
+        phone: phone,
+        rawPhone: phone.replace(/\D/g, ''),
+        cc: '',
+        name: (name || 'there') + ' [Evolution book — notify me]',
+        address: '', city: '', pincode: '', state: ''
+      })
+    }).catch(function(){});
+  }
+  function evoSendLead(name, whatsapp) {
+    var data = new FormData();
+    data.append('name', name);
+    data.append('whatsapp', whatsapp);
+    data.append('interest', 'Evolution Picture Book');
+    data.append('_subject', 'Evolution Book Signup: ' + name + ' (' + whatsapp + ')');
+    data.append('_template', 'table');
+    data.append('_captcha', 'false');
+    return fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
+      method: 'POST', headers: { 'Accept': 'application/json' }, body: data, keepalive: true
+    }).catch(function(){});
+  }
+  function evoTimeout(p, ms) { return Promise.race([p, new Promise(function(r){ setTimeout(r, ms); })]); }
+
+  (function(){
+    var form = document.getElementById('n-form');
+    var msg  = document.getElementById('n-msg');
+    var btn  = document.getElementById('n-btn');
+    var started = false;
+    function v(id){ return (document.getElementById(id) || {}).value || ''; }
+
+    form.addEventListener('input', function(){
+      if (!started) { started = true;
+        egGtag('event', 'evo_signup_started', { event_category: 'funnel' });
+        egFbq('trackCustom', 'EvoSignupStarted');
+      }
+    });
+
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      var name = v('n-name').trim();
+      var cc = v('n-cc').trim(), digits = v('n-phone').replace(/\D/g, '');
+      msg.textContent = ''; msg.className = 'n-msg';
+      if (!name) { msg.textContent = 'Please enter your name.'; msg.className = 'n-msg err'; return; }
+      if (!cc.match(/^\+?\d{1,4}$/)) { msg.textContent = 'Please enter a valid country code (e.g. +91).'; msg.className = 'n-msg err'; return; }
+      if (digits.length < 7 || digits.length > 15) { msg.textContent = 'Please enter a valid WhatsApp number.'; msg.className = 'n-msg err'; return; }
+      var full = (cc.indexOf('+') === 0 ? cc : '+' + cc) + digits;
+
+      btn.style.pointerEvents = 'none'; btn.style.opacity = '.6';
+      msg.textContent = 'Adding you to the list…';
+      egGtag('event', 'evo_signup', { event_category: 'conversion' });
+      egGtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'evolution_book' });
+      egFbq('track', 'Lead', { content_name: 'Evolution Picture Book' });
+
+      evoTimeout(Promise.allSettled([
+        evoSaveServerSide(name, full),
+        evoSendLead(name, full)
+      ]), 4000).then(function(){
+        document.getElementById('n-form-wrap').style.display = 'none';
+        document.getElementById('n-done').style.display = 'block';
+      });
+    });
+  })();
+
+  /* ── Reveal on scroll ─────────────────────────────────────*/
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function(es){
+      es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+    document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
+  } else {
+    document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
+  }
+</script>
+</body>
+</html>
