@@ -167,10 +167,11 @@
     /* ─── Pre-order (shared cart) ─────────────────────────────*/
     .pre-cta { display:flex; flex-direction:column; align-items:center;
       margin:clamp(24px,4vh,40px) auto 0; }
-    /* Same D+K button as the rest of the site. Its filled body sits left
-       of centre inside its own box (the fins take the right), so the
-       whole shape is nudged over to land on the column's centre line. */
-    .pre-cta .pre-slot { display:flex; justify-content:center; transform:translateX(8px); }
+    /* Same D+K button as the rest of the site. The pill sits left of
+       centre inside its own box — the fins take the right half — so the
+       button is nudged over until the pill lands on the page's centre
+       line, where the price sits. */
+    .pre-cta .pre-slot { display:flex; justify-content:center; transform:translateX(28px); }
     .pre-cta .pre-btn { margin-left:0 !important; }
     .pre-cta .pre-btn .btn-svg { width:248px !important; }
     .pre-cta .pre-btn .btn-label { font-size:15px; letter-spacing:1.6px; }
