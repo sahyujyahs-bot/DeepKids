@@ -1185,7 +1185,7 @@
   <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
     <a href="/how-to-play" class="eg-nav-link">How To Play</a>
-<button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" onclick="doPreOrder()"></button>
+<button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" onclick="egOrderNow()"></button>
     <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="eg-nav-menu" onclick="egToggleMenu()">
       <span></span><span></span><span></span>
     </button>
@@ -1229,7 +1229,7 @@
       </div>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <h1 class="title">EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
-      <div class="btn-wrap" onclick="doPreOrder()">
+      <div class="btn-wrap" onclick="egOrderNow()">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <linearGradient id="dk-green-grad" x1="0" y1="0" x2="0" y2="1">
@@ -2234,8 +2234,17 @@
     window._egCouponCode = '';
     window._egCouponDiscount = 0; // paise
     var EG_COUPONS = { 'EG200': 20000 };   // code (UPPERCASE) -> paise off
-    var EG_BASE_PAISE = 499900;            // ₹4,999
-    function egFinalPaise() { return Math.max(EG_BASE_PAISE - (window._egCouponDiscount || 0), 100); }
+    var EG_BASE_PAISE = 499900;            // ₹4,999 — the box on its own
+    /* What the cart actually holds. The page used to charge for exactly
+       one EscapeGravity; now that a basket exists it can hold SCI. and
+       the picture book too, and the total has to follow it. Falls back to
+       the single box when the cart is empty or /cart.js hasn't loaded. */
+    function egBasePaise() {
+      var sub = (window.DK && DK.subtotal()) || 0;
+      return sub > 0 ? sub : EG_BASE_PAISE;
+    }
+    function egBaseStr() { return '₹' + (egBasePaise() / 100).toLocaleString('en-IN'); }
+    function egFinalPaise() { return Math.max(egBasePaise() - (window._egCouponDiscount || 0), 100); }
     function egFinalRupees() { return egFinalPaise() / 100; }
     function egFinalStr() { return '₹' + egFinalRupees().toLocaleString('en-IN'); }
     function egApplyCoupon() {
@@ -2248,7 +2257,7 @@
       if (!code) { if (msg) { msg.textContent = ''; msg.className = 'po-coupon-msg'; } return; }
       if (EG_COUPONS[code] != null) {
         window._egCouponCode = code; window._egCouponDiscount = EG_COUPONS[code];
-        if (amtEl) amtEl.innerHTML = '<s class="po-was">₹4,999</s> ' + egFinalStr();
+        if (amtEl) amtEl.innerHTML = '<s class="po-was">' + egBaseStr() + '</s> ' + egFinalStr();
         if (msg) { msg.textContent = '✓ ' + code + ' applied — ₹' + (EG_COUPONS[code] / 100) + ' off'; msg.className = 'po-coupon-msg ok'; }
         inp.disabled = true; if (btn) btn.textContent = 'Applied';
         egGtag('event', 'coupon_applied', { event_category: 'engagement', event_label: code });
@@ -2263,7 +2272,7 @@
       var inp = document.getElementById('po-coupon-input'); if (inp) { inp.value = ''; inp.disabled = false; }
       var btn = document.getElementById('po-coupon-btn'); if (btn) btn.textContent = 'Apply';
       var msg = document.getElementById('po-coupon-msg'); if (msg) { msg.textContent = ''; msg.className = 'po-coupon-msg'; }
-      var amtEl = document.getElementById('po-total-amt'); if (amtEl) amtEl.textContent = '₹4,999';
+      var amtEl = document.getElementById('po-total-amt'); if (amtEl) amtEl.textContent = egBaseStr();
     }
     function egToggleWhy(e) {
       if (e) { e.preventDefault(); e.stopPropagation(); }
@@ -2304,9 +2313,42 @@
       if (why) why.setAttribute('hidden', '');
       egResetCoupon();
     }
+    /* Order Now adds the box to the basket and drops the cart open, so a
+       second product can go in before checkout. Without /cart.js loaded
+       it falls back to the form, which is the old behaviour exactly. */
+    /* Names what is being paid for. "Why ₹4,999?" explains the price of
+       the box specifically, so it only makes sense when the box is the
+       only thing in the basket. */
+    function egSyncOrderCopy() {
+      var what = document.getElementById('po-what');
+      var why  = document.getElementById('po-why-btn');
+      var c    = (window.DK && DK.read()) || [];
+      if (what) {
+        var names = c.map(function (l) { var p = DK.find(l.sku); return p ? p.name : null; })
+                     .filter(Boolean);
+        var label = !names.length ? '<strong>EscapeGravity</strong>'
+                  : names.length === 1 ? '<strong>' + names[0] + '</strong>'
+                  : '<strong>' + names[0] + '</strong> and ' + (names.length - 1) +
+                    ' more item' + (names.length > 2 ? 's' : '');
+        what.innerHTML = 'Order ' + label + " today. We'll ship to your door!";
+      }
+      if (why) {
+        var onlyBox = c.length === 1 && c[0].sku === 'EG-001' && c[0].qty === 1;
+        why.style.display = (!c.length || onlyBox) ? '' : 'none';
+      }
+    }
+
+    function egOrderNow() {
+      if (window.DK) { DK.add('EG-001'); return; }
+      doPreOrder();
+    }
+    /* The cart drawer's Checkout button opens this page's own form. */
+    window.dkCheckout = function () { doPreOrder(); };
+
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
       if (modal) modal.classList.add('show');
+      egSyncOrderCopy();
       leadEmailSent = false;
       window._egModalOpenedAt = Date.now();  // for close-duration tracking
       window._egModalDurSent = false;
@@ -2590,7 +2632,7 @@
         fetch('/api/create-order', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ amount: egFinalPaise(), coupon: (window._egCouponCode || ''), receipt: 'EG-' + Date.now(), capi_event_id: icEventId, phone: fullNumber })
+          body: JSON.stringify({ amount: egFinalPaise(), items: (window.DK ? DK.items() : []), coupon: (window._egCouponCode || ''), receipt: 'EG-' + Date.now(), capi_event_id: icEventId, phone: fullNumber })
         }).then(function(r) { return r.json(); }),
         loadRazorpay()
       ])
@@ -2769,7 +2811,7 @@
       <img loading="lazy" src="Untitled_Artwork-7.webp" alt="Rocket" class="po-rocket">
     </div>
     <h3 class="po-title">Ready for Launch?</h3>
-    <p class="po-subtitle">Order <strong>EscapeGravity</strong> today. We'll ship to your door!</p>
+    <p class="po-subtitle" id="po-what">Order <strong>EscapeGravity</strong> today. We'll ship to your door!</p>
     <form class="po-form" onsubmit="return submitPreOrder(event)">
       <label class="po-field">
         <span>Your Name</span>
@@ -2785,7 +2827,7 @@
       <p class="po-address-note">📦 That's all for now — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
       <div class="po-checkout">
         <div class="po-checkout-total">
-          <span>Total <button type="button" class="po-why" aria-label="Why ₹4,999?" onclick="egToggleWhy(event)">Why ₹4,999?</button></span>
+          <span>Total <button type="button" class="po-why" id="po-why-btn" aria-label="Why ₹4,999?" onclick="egToggleWhy(event)">Why ₹4,999?</button></span>
           <strong id="po-total-amt">₹4,999</strong>
         </div>
         <div class="po-why-pop" id="po-why-pop" hidden>
@@ -11740,7 +11782,7 @@ if ('requestIdleCallback' in window) {
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
-  <button type="button" class="eg-mobile-preorder-btn" onclick="doPreOrder()">
+  <button type="button" class="eg-mobile-preorder-btn" onclick="egOrderNow()">
     <svg class="btn-svg" viewBox="0 0 339 108" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
@@ -13248,6 +13290,7 @@ if ('requestIdleCallback' in window) {
     }
   })();
 </script>
+  <script src="/cart.js" defer></script>
   <script src="/menu.js" defer></script>
 </body>
 </html>
