@@ -130,7 +130,18 @@
     }
     .nav-logo { font-family: var(--font-head); font-variant: small-caps; font-size: clamp(17px, 2.4vw, 21px); color: #fff; text-decoration: none; letter-spacing: .5px; }
     .nav-logo b { color: var(--purple); font-weight: normal; }
-    .nav-back { font-size: 14px; color: var(--lilac); text-decoration: none; }
+    .nav-logo { display:inline-flex; }
+    .eg-nav-right { display: flex; align-items: center; gap: clamp(6px, 1.4vw, 14px); }
+    .eg-nav-menu-btn {
+      display: flex; flex-direction: column; justify-content: center; gap: 5px;
+      width: 40px; height: 40px; padding: 8px; background: none; border: 0; cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .eg-nav-menu-btn span { display: block; height: 2px; width: 100%; border-radius: 2px;
+      background: #cd9edf; transition: transform .3s ease, opacity .2s ease; }
+    .eg-nav-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .eg-nav-menu-btn.open span:nth-child(2) { opacity: 0; }
+    .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
     /* Hero */
     .hero { padding-block: clamp(40px, 7vh, 76px) clamp(28px, 4vh, 44px); text-align: center; }
@@ -154,21 +165,23 @@
     }
 
     /* ─── Pre-order (shared cart) ─────────────────────────────*/
-    .pre-cta { display:flex; flex-direction:column; align-items:center; gap:10px;
+    .pre-cta { display:flex; flex-direction:column; align-items:center;
       margin:clamp(24px,4vh,40px) auto 0; }
-    .pre-cta button {
-      cursor:pointer; border:0; border-radius:999px; padding:13px 34px;
-      font-family:'Norwester',sans-serif; font-variant:small-caps; letter-spacing:2px; font-size:17px;
-      color:#fff; background:linear-gradient(180deg,#cd9edf 0%,#aa59c8 48%,#793194 100%);
-      box-shadow:0 6px 18px rgba(170,89,200,.35), inset 0 1px 0 rgba(255,255,255,.3);
-      transition:filter .2s ease, transform .15s ease;
-    }
-    .pre-cta button:hover { filter:brightness(1.08); }
-    .pre-cta button:active { transform:scale(.97); }
-    .pre-cta .pre-price { font-family:'Norwester',sans-serif; font-size:15px; letter-spacing:1px;
-      color:rgba(255,255,255,.75); }
-    .pre-cta .pre-price s { opacity:.55; margin-right:6px; }
-    .pre-cta .pre-price b { color:#cd9edf; font-weight:normal; }
+    /* Same D+K button as the rest of the site. Its filled body sits left
+       of centre inside its own box (the fins take the right), so the
+       whole shape is nudged over to land on the column's centre line. */
+    .pre-cta .pre-slot { display:flex; justify-content:center; transform:translateX(8px); }
+    .pre-cta .pre-btn { margin-left:0 !important; }
+    .pre-cta .pre-btn .btn-svg { width:248px !important; }
+    .pre-cta .pre-btn .btn-label { font-size:15px; letter-spacing:1.6px; }
+    /* Price on its own line, the shipping note under it — together they
+       wrapped mid-phrase on a phone. */
+    .pre-cta .pre-price { margin-top:12px; text-align:center; line-height:1.5; }
+    .pre-cta .pre-price .amt { display:block; font-family:'Norwester',sans-serif;
+      font-size:clamp(21px,4.4vw,26px); letter-spacing:1px; color:#fff; }
+    .pre-cta .pre-price .amt s { font-size:.62em; color:rgba(255,255,255,.45); margin-right:8px; }
+    .pre-cta .pre-price .amt b { color:#cd9edf; font-weight:normal; }
+    .pre-cta .pre-price .ship { display:block; font-size:13px; color:rgba(255,255,255,.6); }
     .hero-sub { font-size: clamp(15px, 2.1vw, 19px); color: var(--ink); max-width: 640px; margin: 18px auto 0; }
 
     /* Section shell — uniform vertical rhythm across every section */
@@ -319,9 +332,13 @@
 <body>
 <div class="stars" aria-hidden="true"></div>
 
-<nav class="nav">
-  <a class="nav-logo" href="/">EscapeGravity <b>by DeepKids</b></a>
-  <a class="nav-back" href="/">← back to the game</a>
+<nav class="nav eg-nav">
+  <a class="nav-logo" href="/"><b>Deep</b>Kids</a>
+  <div class="eg-nav-right">
+    <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
 </nav>
 
 <main>
@@ -332,8 +349,13 @@
     <h2 class="sub-name rv rv2">Scientist Trading Cards</h2>
     <p class="hero-sub rv rv3">Not just who discovered what. Each card takes one scientist, the <b>fundamental truth</b> their work uncovered, and shows you <b>where that truth is hiding in everyday life</b> — so science becomes something your child can spot, touch, and feel.</p>
     <div class="pre-cta">
-      <button type="button" data-add="SCI-001">Pre-order &mdash; 15% off</button>
-      <span class="pre-price"><s>₹1,199</s><b>₹1,019</b> &middot; ships as soon as it is printed</span>
+      <div class="pre-slot">
+        <button type="button" class="pre-btn" data-dk-btn="Pre-Order" data-add="SCI-001"></button>
+      </div>
+      <span class="pre-price">
+        <span class="amt"><s>₹1,199</s><b>₹1,019</b></span>
+        <span class="ship">Ships as soon as it is printed &middot; 15% off until then</span>
+      </span>
     </div>
   </section>
 
@@ -669,6 +691,7 @@
     document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
   }
 </script>
+  <script src="/dkbtn.js" defer></script>
   <script src="/cart.js" defer></script>
   <script src="/checkout.js" defer></script>
   <script src="/footer.js" defer></script>

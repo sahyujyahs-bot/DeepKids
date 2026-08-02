@@ -1108,7 +1108,7 @@
   <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
     <a href="/how-to-play" class="eg-nav-link">How To Play</a>
-<button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" onclick="egOrderNow()"></button>
+<button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" data-add="EG-001"></button>
     <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="eg-nav-menu" onclick="egToggleMenu()">
       <span></span><span></span><span></span>
     </button>
@@ -1152,7 +1152,7 @@
       </div>
       <p class="subtitle">Boardgame <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <h1 class="title">EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
-      <div class="btn-wrap" onclick="egOrderNow()">
+      <div class="btn-wrap" data-add="EG-001">
       <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <linearGradient id="dk-green-grad" x1="0" y1="0" x2="0" y2="1">
@@ -2261,6 +2261,12 @@
       }
     }
 
+    /* Order Now carries data-add now rather than calling this directly.
+       With an onclick, the click carried on bubbling to the handler that
+       closes every drawer — which shut the cart in the same tick that
+       adding had just opened it. The delegated path in /cart.js knows to
+       leave its own drawer alone. Kept as a fallback for anything still
+       calling it by name. */
     function egOrderNow() {
       if (window.DK) { DK.add('EG-001'); return; }
       doPreOrder();
@@ -11658,7 +11664,7 @@ if ('requestIdleCallback' in window) {
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
-  <button type="button" class="eg-mobile-preorder-btn" onclick="egOrderNow()">
+  <button type="button" class="eg-mobile-preorder-btn" data-add="EG-001">
     <svg class="btn-svg" viewBox="0 0 339 108" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">

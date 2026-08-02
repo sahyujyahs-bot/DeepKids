@@ -8,7 +8,7 @@
   <link rel="canonical" href="https://deepkids.in/evolution"/>
   <meta property="og:title" content="The Story Of Evolution Of Life — A Picture Book For Kids &amp; Adults"/>
   <meta property="og:description" content="Four billion years, told once, properly. Hand-painted spreads and honest science — including the parts most books leave out."/>
-  <meta property="og:image" content="https://deepkids.in/more-evo-pin.webp"/>
+  <meta property="og:image" content="https://deepkids.in/evo-network.webp"/>
   <meta property="og:url" content="https://deepkids.in/evolution"/>
   <meta property="og:type" content="book"/>
   <meta name="theme-color" content="#05030f"/>
@@ -99,6 +99,7 @@
       --gap-section: clamp(60px, 10vh, 118px);
       --gap-block: clamp(24px, 4vh, 42px);
       --rail: clamp(44px, 6.5vw, 82px);
+      --mast-h: 56px;
     }
 
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -168,10 +169,10 @@
 
     /* ─── Deep-time clock ─────────────────────────────────────*/
     .clock {
-      position: fixed; top: 0; left: 0; bottom: 0; width: var(--rail);
+      position: fixed; top: var(--mast-h, 56px); left: 0; bottom: 0; width: var(--rail);
       z-index: 40; pointer-events: none;
       display: flex; flex-direction: column; align-items: center;
-      padding-block: clamp(62px, 12vh, 108px) clamp(18px, 4vh, 32px);
+      padding-block: clamp(22px, 4vh, 40px) clamp(18px, 4vh, 32px);
       border-right: 1px solid rgba(255,255,255,.08);
       background: linear-gradient(90deg, rgba(0,0,0,.3), rgba(0,0,0,0));
     }
@@ -197,7 +198,7 @@
 
     /* ─── Masthead ────────────────────────────────────────────*/
     .mast {
-      position: fixed; top: 0; left: var(--rail); right: 0; z-index: 45;
+      position: fixed; top: 0; left: 0; right: 0; z-index: 45;
       display: flex; align-items: center; justify-content: space-between; gap: 12px;
       padding: 12px clamp(16px, 4vw, 34px);
       background: rgba(5,3,15,.72);
@@ -207,9 +208,17 @@
     .mast-logo { font-family: var(--font-head); font-variant: small-caps; letter-spacing: .5px;
       font-size: clamp(18px, 2.6vw, 23px); color: #fff; text-decoration: none; }
     .mast-logo b { color: var(--purple); font-weight: normal; }
-    .mast nav { display: flex; align-items: center; gap: clamp(12px, 2.2vw, 24px); }
-    .mast nav a { font-size: 13.5px; color: rgba(255,255,255,.72); text-decoration: none; transition: color .2s ease; }
-    .mast nav a:hover { color: #fff; }
+    .eg-nav-right { display: flex; align-items: center; gap: clamp(6px, 1.4vw, 14px); }
+    .eg-nav-menu-btn {
+      display: flex; flex-direction: column; justify-content: center; gap: 5px;
+      width: 40px; height: 40px; padding: 8px; background: none; border: 0; cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .eg-nav-menu-btn span { display: block; height: 2px; width: 100%; border-radius: 2px;
+      background: #cd9edf; transition: transform .3s ease, opacity .2s ease; }
+    .eg-nav-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .eg-nav-menu-btn.open span:nth-child(2) { opacity: 0; }
+    .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
     @media (max-width: 660px) { .mast nav a.hide-sm { display: none; } }
 
     /* ─── Hero ────────────────────────────────────────────────*/
@@ -368,21 +377,23 @@
 
 
     /* ─── Pre-order (shared cart) ─────────────────────────────*/
-    .pre-cta { display:flex; flex-direction:column; align-items:center; gap:10px;
+    .pre-cta { display:flex; flex-direction:column; align-items:center;
       margin:clamp(24px,4vh,40px) auto 0; }
-    .pre-cta button {
-      cursor:pointer; border:0; border-radius:999px; padding:13px 34px;
-      font-family:'Norwester',sans-serif; font-variant:small-caps; letter-spacing:2px; font-size:17px;
-      color:#fff; background:linear-gradient(180deg,#cd9edf 0%,#aa59c8 48%,#793194 100%);
-      box-shadow:0 6px 18px rgba(170,89,200,.35), inset 0 1px 0 rgba(255,255,255,.3);
-      transition:filter .2s ease, transform .15s ease;
-    }
-    .pre-cta button:hover { filter:brightness(1.08); }
-    .pre-cta button:active { transform:scale(.97); }
-    .pre-cta .pre-price { font-family:'Norwester',sans-serif; font-size:15px; letter-spacing:1px;
-      color:rgba(255,255,255,.75); }
-    .pre-cta .pre-price s { opacity:.55; margin-right:6px; }
-    .pre-cta .pre-price b { color:#cd9edf; font-weight:normal; }
+    /* Same D+K button as the rest of the site. Its filled body sits left
+       of centre inside its own box (the fins take the right), so the
+       whole shape is nudged over to land on the column's centre line. */
+    .pre-cta .pre-slot { display:flex; justify-content:center; transform:translateX(8px); }
+    .pre-cta .pre-btn { margin-left:0 !important; }
+    .pre-cta .pre-btn .btn-svg { width:248px !important; }
+    .pre-cta .pre-btn .btn-label { font-size:15px; letter-spacing:1.6px; }
+    /* Price on its own line, the shipping note under it — together they
+       wrapped mid-phrase on a phone. */
+    .pre-cta .pre-price { margin-top:12px; text-align:center; line-height:1.5; }
+    .pre-cta .pre-price .amt { display:block; font-family:'Norwester',sans-serif;
+      font-size:clamp(21px,4.4vw,26px); letter-spacing:1px; color:#fff; }
+    .pre-cta .pre-price .amt s { font-size:.62em; color:rgba(255,255,255,.45); margin-right:8px; }
+    .pre-cta .pre-price .amt b { color:#cd9edf; font-weight:normal; }
+    .pre-cta .pre-price .ship { display:block; font-size:13px; color:rgba(255,255,255,.6); }
 
     /* ─── Notify panel ────────────────────────────────────────*/
     .notify {
@@ -470,21 +481,20 @@
   <div class="clock-read"><b id="c-when">Before time</b> · <span id="c-eon">The Silent Infinite</span></div>
 </div>
 
-<header class="mast">
-  <a class="mast-logo" href="/newhome"><b>Deep</b>Kids</a>
-  <nav>
-    <a href="#read">Read A Spread</a>
-    <a href="#chapters" class="hide-sm">Chapters</a>
-    <a href="#art" class="hide-sm">The Art</a>
-    <a href="#notify">Get Notified</a>
-  </nav>
+<header class="mast eg-nav">
+  <a class="mast-logo" href="/"><b>Deep</b>Kids</a>
+  <div class="eg-nav-right">
+    <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
 </header>
 
 <main>
   <!-- ═══════════════ HERO ═══════════════ -->
   <section class="hero">
     <div class="hero-art" aria-hidden="true">
-      <img src="more-evo-pin.webp" alt="" width="1200" height="857" fetchpriority="high" decoding="async"/>
+      <img src="evo-network.webp" alt="" width="1500" height="1071" fetchpriority="high" decoding="async"/>
     </div>
     <div class="wrap hero-inner">
     <span class="hero-eyebrow">✦&nbsp; Picture Book&nbsp;·&nbsp;In Production</span>
@@ -496,8 +506,13 @@
       <span>~4 billion years</span>
     </div>
     <div class="pre-cta">
-      <button type="button" data-add="EVO-001">Pre-order &mdash; 15% off</button>
-      <span class="pre-price"><s>₹2,499</s><b>₹2,124</b> &middot; ships as soon as it is printed</span>
+      <div class="pre-slot">
+        <button type="button" class="pre-btn" data-dk-btn="Pre-Order" data-add="EVO-001"></button>
+      </div>
+      <span class="pre-price">
+        <span class="amt"><s>₹2,499</s><b>₹2,124</b></span>
+        <span class="ship">Ships as soon as it is printed &middot; 15% off until then</span>
+      </span>
     </div>
     <a class="scroll-cue" href="#read" aria-label="Start reading">Fall through time<span></span></a>
     </div>
@@ -513,7 +528,7 @@
 
     <article class="excerpt rv" style="margin-bottom: clamp(18px, 3vh, 30px);">
       <div class="excerpt-art">
-        <img src="more-evo-1.webp" alt="Painting of an ancient ocean lit by a bloom of early life" width="800" height="571" loading="lazy" decoding="async"/>
+        <img src="evo-deep-dna.webp" alt="Painting of a strand of DNA glowing in deep water" width="1500" height="1071" loading="lazy" decoding="async"/>
         <span class="excerpt-era">~2.5 billion years ago</span>
       </div>
       <div class="excerpt-text">
@@ -527,7 +542,7 @@
 
     <article class="excerpt rv rv2">
       <div class="excerpt-art">
-        <img src="more-evo-2.webp" alt="Painting of a symmetrical network of early cellular life" width="800" height="571" loading="lazy" decoding="async"/>
+        <img src="evo-cells.webp" alt="Painting of early cells dividing in a lit ocean" width="1500" height="1071" loading="lazy" decoding="async"/>
         <span class="excerpt-era">~4 billion years ago</span>
       </div>
       <div class="excerpt-text">
@@ -570,13 +585,20 @@
       <p class="zone-lede rv rv2">No stock illustration, no clip-art, no templates. Every spread was painted for this book and nothing else — which is why the ancient ocean actually looks like somewhere you could drown.</p>
     </div>
     <div class="gallery">
-      <figure class="plate wide rv"><img src="more-evo-1.webp" alt="An ancient ocean floor lit from within" width="800" height="571" loading="lazy" decoding="async"/><figcaption>The first oceans</figcaption></figure>
-      <figure class="plate rv"><img src="more-evo-2.webp" alt="Symmetrical bloom of early cellular life" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Life multiplies</figcaption></figure>
-      <figure class="plate rv rv2"><img src="more-evo-3.webp" alt="The first trees rising in a red forest" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Trees, the giants</figcaption></figure>
-      <figure class="plate rv"><img src="more-evo-4.webp" alt="A predatory dinosaur hunting in shallow water" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Hunting in the shallows</figcaption></figure>
-      <figure class="plate rv rv2"><img src="more-evo-5.webp" alt="An ancient rainforest floor thick with ferns" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Ferns and fractals</figcaption></figure>
-      <figure class="plate rv rv3"><img src="more-evo-6.webp" alt="A pterosaur gliding through a prehistoric forest" width="800" height="571" loading="lazy" decoding="async"/><figcaption>The first fliers</figcaption></figure>
-      <figure class="plate wide rv rv2"><img src="more-evo-7.webp" alt="A small marsupial watching the moon from a branch" width="800" height="571" loading="lazy" decoding="async"/><figcaption>Mammals in the dark</figcaption></figure>
+      <figure class="plate wide rv"><img src="evo-network.webp" alt="A lit network of points spread across the dark" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Before anything was alive</figcaption></figure>
+      <figure class="plate rv"><img src="evo-deep-dna.webp" alt="A strand of DNA glowing in deep water" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The first instructions</figcaption></figure>
+      <figure class="plate rv2 rv"><img src="evo-cells.webp" alt="Early cells dividing in a lit ocean" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Life multiplies</figcaption></figure>
+      <figure class="plate rv"><img src="evo-sunburst.webp" alt="A vast sun with life radiating from it" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The engine overhead</figcaption></figure>
+      <figure class="plate rv2 rv"><img src="evo-reef-red.webp" alt="A reef in reds and oranges, crowded with life" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The crowded shallows</figcaption></figure>
+      <figure class="plate rv3 rv"><img src="evo-jellies.webp" alt="Jellyfish drifting through a bloom of light" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Drifting, and glowing</figcaption></figure>
+      <figure class="plate wide rv2 rv"><img src="evo-reef-blue.webp" alt="A blue-green reef stretching into the distance" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>An ocean full of strangers</figcaption></figure>
+      <figure class="plate rv"><img src="evo-crash.webp" alt="An asteroid striking the Earth" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The afternoon it ended</figcaption></figure>
+      <figure class="plate rv2 rv"><img src="evo-bloom.webp" alt="A white bloom opening in a dark forest" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Flowers, an invention</figcaption></figure>
+      <figure class="plate rv"><img src="evo-whale.webp" alt="A whale surfacing at dusk" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Back into the water</figcaption></figure>
+      <figure class="plate rv2 rv"><img src="evo-roos.webp" alt="Kangaroos under a swirling night sky" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Mammals in the dark</figcaption></figure>
+      <figure class="plate rv"><img src="evo-mammoth.webp" alt="A mammoth walking through freezing mist" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The long cold</figcaption></figure>
+      <figure class="plate rv2 rv"><img src="evo-volcano.webp" alt="A volcano erupting beneath an enormous moon" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>A world still forming</figcaption></figure>
+      <figure class="plate wide rv rv"><img src="evo-people.webp" alt="Early people resting in long grass" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>And then, us</figcaption></figure>
     </div>
   </section>
 
@@ -783,6 +805,7 @@
     document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
   }
 </script>
+  <script src="/dkbtn.js" defer></script>
   <script src="/cart.js" defer></script>
   <script src="/checkout.js" defer></script>
   <script src="/footer.js" defer></script>

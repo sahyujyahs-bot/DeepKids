@@ -327,9 +327,9 @@
     .card-buy { margin-left:0 !important; }
     .card-buy .btn-svg { width:248px !important; }
     .card-buy .btn-label { font-size:15px; letter-spacing:1.6px; }
-    /* 11.4% of 248px. Not a percentage on the slot: that would resolve
+    /* 3.26% of 248px. Not a percentage on the slot: that would resolve
        against the column, not the button. */
-    .buy-slot { transform:translateX(28px); }
+    .buy-slot { transform:translateX(8px); }
     /* "See the details" is now the only way through to a product page —
        the gallery used to be one big link, so a swipe or a stray tap took
        you off the shop. Given that, it reads as a control, not a footnote. */
@@ -733,7 +733,7 @@ var COPY = {
 var SHOTS = {
   'EG-001': [{src:'eg-box-new.webp'}, {src:'gift-box-hero.webp'}, {src:'full-board-tour.webp', framed:true}, {src:'box-contents.webp', framed:true}],
   'SCI-001': [{src:'sci-brahmagupta-front.webp', framed:true}, {src:'sci-noether-front.webp', framed:true}, {src:'sci-brahmagupta-back.webp', framed:true}, {src:'sci-noether-back.webp', framed:true}],
-  'EVO-001': [{src:'more-evo-pin.webp', framed:true}, {src:'more-evo-1.webp', framed:true}, {src:'more-evo-4.webp', framed:true}, {src:'more-evo-6.webp', framed:true}, {src:'more-evo-3.webp', framed:true}],
+  'EVO-001': [{src:'evo-network.webp', framed:true}, {src:'evo-reef-red.webp', framed:true}, {src:'evo-jellies.webp', framed:true}, {src:'evo-people.webp', framed:true}, {src:'evo-mammoth.webp', framed:true}],
 };
 CATALOG.forEach(function(p){
   p.shots = SHOTS[p.sku] || [{ src: p.img }];

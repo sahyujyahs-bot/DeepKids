@@ -25,7 +25,7 @@
     { sku: 'SCI-001', name: 'SCI. Trading Cards',    price: 119900, preorder: true,
       href: '/sci',       img: 'sci-brahmagupta-front.webp' },
     { sku: 'EVO-001', name: 'The Story Of Evolution', price: 249900, preorder: true,
-      href: '/evolution', img: 'more-evo-pin.webp' }
+      href: '/evolution', img: 'evo-network.webp' }
   ];
 
   var CART_KEY = 'dk-cart', WISH_KEY = 'dk-wish';
@@ -78,9 +78,16 @@
     '.dkc-line{display:flex;gap:10px;align-items:center;padding:9px 0;border-bottom:1px solid rgba(255,255,255,.1)}',
     '.dkc-line:last-of-type{border-bottom:0}',
     '.dkc-line img{width:44px;height:44px;object-fit:cover;border-radius:8px;flex-shrink:0}',
-    '.dkc-n{flex:1;min-width:0;font-size:13.5px;color:#fff;line-height:1.3;font-family:"Futura","Segoe UI",sans-serif}',
+    '.dkc-n{flex:1;min-width:0;overflow:hidden;font-size:13.5px;color:#fff;line-height:1.3;font-family:"Futura","Segoe UI",sans-serif}',
     '.dkc-n small{display:block;color:rgba(255,255,255,.55);font-size:11.5px}',
     '.dkc-p{font-family:"Norwester",sans-serif;font-size:14px;color:#cd9edf;white-space:nowrap}',
+    '.dkc-qty{display:inline-flex;align-items:center;gap:2px;flex-shrink:0}',
+    '.dkc-qty button{width:22px;height:22px;line-height:1;padding:0;cursor:pointer;',
+      'border:1px solid rgba(205,158,223,.45);background:rgba(170,89,200,.14);color:#cd9edf;',
+      'border-radius:6px;font-size:14px;transition:background .18s ease,color .18s ease}',
+    '.dkc-qty button:hover{background:rgba(170,89,200,.4);color:#fff}',
+    '.dkc-qty b{min-width:18px;text-align:center;font-family:"Norwester",sans-serif;',
+      'font-weight:normal;font-size:14px;color:#fff}',
     '.dkc-x{background:none;border:0;color:rgba(255,255,255,.4);font-size:17px;cursor:pointer;line-height:1;padding:0 2px}',
     '.dkc-x:hover{color:#e85d75}',
     '.dkc-total{display:flex;justify-content:space-between;align-items:baseline;margin:12px 0 10px;',
@@ -188,9 +195,14 @@
       var u = unit(p); total += u * l.qty;
       if (p.preorder) anyPre = true;
       html += '<div class="dkc-line"><img src="' + thumb(p) + '" alt="" loading="lazy" decoding="async"/>' +
-              '<span class="dkc-n">' + p.name + (l.qty > 1 ? ' ×' + l.qty : '') +
+              '<span class="dkc-n">' + p.name +
               (window.dkWhy ? '<button type="button" class="dkc-why" aria-label="Why this price?" data-why="' + p.sku + '">?</button>' : '') +
               '<small>' + (p.preorder ? 'Pre-order · 15% off applied' : 'Ships in 3 days') + '</small></span>' +
+              '<span class="dkc-qty">' +
+                '<button type="button" aria-label="One fewer ' + p.name + '" data-less="' + p.sku + '">−</button>' +
+                '<b>' + l.qty + '</b>' +
+                '<button type="button" aria-label="One more ' + p.name + '" data-more="' + p.sku + '">+</button>' +
+              '</span>' +
               '<span class="dkc-p">' + rs(u * l.qty) + '</span>' +
               '<button type="button" class="dkc-x" aria-label="Remove ' + p.name + '" data-rm="' + p.sku + '">×</button></div>';
     });
@@ -271,6 +283,18 @@
     write(read().filter(function (l) { return l.sku !== sku; }));
     sound('click');
   }
+  /* Down to zero takes the line out, which is what people expect from a
+     minus button rather than it sticking at 1. */
+  function bump(sku, by) {
+    var c = read(), out = [];
+    for (var i = 0; i < c.length; i++) {
+      if (c[i].sku !== sku) { out.push(c[i]); continue; }
+      var q = Math.min(Math.max(c[i].qty + by, 0), 10);
+      if (q > 0) out.push({ sku: sku, qty: q });
+    }
+    write(out);
+    sound('click');
+  }
 
   function wish(sku, elm) {
     var w = wishRead(), i = w.indexOf(sku);
@@ -292,6 +316,10 @@
   cartBtn.addEventListener('click', function (e) { e.stopPropagation(); openCart(); });
 
   cartPop.addEventListener('click', function (e) {
+    var less = e.target.closest('[data-less]');
+    if (less) { bump(less.getAttribute('data-less'), -1); return; }
+    var more = e.target.closest('[data-more]');
+    if (more) { bump(more.getAttribute('data-more'), 1); return; }
     var rm = e.target.closest('[data-rm]');
     if (rm) { remove(rm.getAttribute('data-rm')); return; }
     var why = e.target.closest('[data-why]');
@@ -345,7 +373,7 @@
     CATALOG: CATALOG, PREORDER_OFF: PREORDER_OFF,
     find: find, unit: unit, rs: rs, thumb: thumb,
     read: read, write: write, subtotal: subtotal, count: count,
-    add: add, remove: remove, openCart: openCart, openWish: openWish,
+    add: add, remove: remove, bump: bump, openCart: openCart, openWish: openWish,
     wish: wish, wishRead: wishRead, wishDrop: wishDrop, wishAdd: wishAdd,
     paint: paint, wishPaint: wishPaint, syncHearts: syncHearts,
     /* What /api/create-order wants: SKUs and quantities, never prices. */
