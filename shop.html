@@ -109,7 +109,10 @@
       padding:0 clamp(14px,4vw,48px); height:48px; box-sizing:border-box;
       border-bottom:1px solid rgba(var(--purple-rgb),.2);
     }
-    @media (min-width:769px){ .eg-nav { height:68px; padding:0 clamp(20px,4vw,56px); } }
+    @media (min-width:769px){
+      .eg-nav { height:68px; padding:0 clamp(20px,4vw,56px); }
+      .hero { padding-block:calc(68px + clamp(30px,5vh,60px)) 0; }
+    }
     .eg-nav-logo {
       font-family:var(--font-head); font-size:clamp(18px,2.4vw,28px);
       color:var(--purple); text-decoration:none; letter-spacing:1px; white-space:nowrap;
@@ -208,32 +211,14 @@
        takes every pixel left over after the type, and object-fit:contain
        keeps it whole — so it fills the width without ever overflowing
        the height, at any viewport. */
-    /* Everything from the tag down to the ticker lives in one screen.
-       Two rows: the type, then the scene taking whatever is left. */
+    /* Everything from the wordmark down to the ticker lives in one screen.
+       Three rows: the type, the scene taking whatever is left, the ticker. */
     .hero {
       position:relative; height:100svh; overflow:hidden;
-      display:grid; grid-template-rows:auto 1fr;
-      padding-block:clamp(56px,8vh,88px) 0;
+      display:grid; grid-template-rows:auto 1fr auto;
+      padding-block:calc(48px + clamp(26px,5vh,54px)) 0;
     }
     .hero-top { text-align:center; padding-inline:clamp(16px,4vw,44px); position:relative; }
-    /* Same pill as the main site's hero, parked on the left rather than
-       centred over the wordmark. */
-    .hero-age {
-      position:absolute; left:clamp(16px,4vw,44px); top:0;
-      font-family:var(--font-body); font-size:clamp(10px,1.3vw,14px);
-      letter-spacing:2px; text-transform:uppercase; color:rgba(255,255,255,.92);
-      background:rgba(10,6,24,.65); border:1px solid rgba(var(--purple-rgb),.4);
-      padding:6px clamp(12px,2vw,22px); border-radius:20px; white-space:nowrap;
-      text-shadow:0 0 10px rgba(205,158,223,.5);
-      box-shadow:0 0 16px rgba(var(--purple-rgb),.2), inset 0 0 8px rgba(var(--purple-rgb),.1);
-      animation:tagglow 3s ease-in-out infinite;
-    }
-    @keyframes tagglow {
-      0%,100% { box-shadow:0 0 16px rgba(var(--purple-rgb),.2), inset 0 0 8px rgba(var(--purple-rgb),.1); }
-      50%     { box-shadow:0 0 28px rgba(var(--purple-rgb),.5), inset 0 0 14px rgba(var(--purple-rgb),.2); }
-    }
-    @media (max-width:640px){ .hero-age { position:static; display:inline-block; margin-bottom:10px; } }
-    @media (prefers-reduced-motion:reduce){ .hero-age { animation:none; } }
     .wordmark {
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px;
       font-size:clamp(46px,12vw,132px); line-height:.9; color:#fff;
@@ -292,28 +277,44 @@
     .shop-full { width:100%; }
     .grid { display:grid; grid-template-columns:1fr; gap:clamp(20px,3vw,34px); }
     @media (min-width:1000px){ .grid { grid-template-columns:repeat(3,1fr); } }
-    .card {
-      position:relative; display:flex; flex-direction:column; border-radius:22px; overflow:hidden;
-      background:linear-gradient(170deg,rgba(255,255,255,.06),rgba(255,255,255,.02) 70%);
-      border:1px solid rgba(255,255,255,.14);
-      transition:transform .35s ease, border-color .35s ease, box-shadow .35s ease;
+    /* No panel, no border. The product floats on the page background
+       with its own shadow, the way it would on a table. */
+    .card { position:relative; display:flex; flex-direction:column; background:none; border:0; }
+    .card::after {
+      /* the pool of shadow the product sits in */
+      content:''; position:absolute; left:18%; right:18%; top:clamp(230px,50vw,300px); height:30px;
+      background:radial-gradient(50% 50% at 50% 50%, rgba(0,0,0,.62), rgba(0,0,0,0) 72%);
+      filter:blur(6px); pointer-events:none; z-index:0;
+      transition:transform .45s ease, opacity .45s ease;
     }
-    .card:hover { transform:translateY(-6px); border-color:rgba(var(--purple-rgb),.55); box-shadow:0 26px 54px rgba(0,0,0,.55); }
+    .card:hover::after { transform:scale(.92); opacity:.75; }
+    @media (min-width:1000px){ .card::after { top:clamp(276px,22vw,350px); } }
 
     /* Gallery: a scroll-snap strip, arrows on desktop, dots under it. */
-    .gal { position:relative; background:#120a24; }
+    .gal { position:relative; background:none; z-index:1; }
+    /* One fixed height for every gallery, so the three columns line up
+       however different the artwork's proportions are. */
     .gal-strip {
-      display:flex; overflow-x:auto; scroll-snap-type:x mandatory;
+      display:flex; height:clamp(250px,54vw,330px);
+      overflow-x:auto; scroll-snap-type:x mandatory;
       scrollbar-width:none; -ms-overflow-style:none; overscroll-behavior-x:contain;
     }
+    @media (min-width:1000px){ .gal-strip { height:clamp(300px,24vw,380px); } }
     .gal-strip::-webkit-scrollbar { display:none; }
     .gal-strip a {
-      flex:0 0 100%; scroll-snap-align:center; display:block;
-      aspect-ratio:4/3; background:#120a24;
+      flex:0 0 100%; height:100%; scroll-snap-align:center;
+      display:grid; place-items:center; background:none; padding:4% 4% 8%;
     }
-    @media (min-width:1000px){ .gal-strip a { aspect-ratio:1/1; } }
-    .gal-strip img { width:100%; height:100%; object-fit:cover; }
-    .gal-strip img.fit { object-fit:contain; padding:6%; }
+    /* contain everywhere, so nothing is cropped into a rectangle — the
+       artwork keeps its own silhouette and floats */
+    .gal-strip img {
+      max-width:100%; max-height:100%; width:auto; height:auto; object-fit:contain;
+      filter:drop-shadow(0 26px 30px rgba(0,0,0,.65));
+      transition:transform .5s ease;
+    }
+    .card:hover .gal-strip img { transform:translateY(-8px) scale(1.03); }
+    /* framed artwork (cards, paintings) still reads better with an edge */
+    .gal-strip img.framed { border-radius:12px; box-shadow:0 20px 40px rgba(0,0,0,.6); filter:none; }
     .gal-nav {
       position:absolute; top:50%; transform:translateY(-50%); z-index:3;
       width:34px; height:34px; border-radius:50%; cursor:pointer;
@@ -326,19 +327,19 @@
     .gal-nav:hover { background:rgba(var(--purple-rgb),.6); }
     .gal-prev { left:10px; } .gal-next { right:10px; }
     @media (hover:none){ .gal-nav { display:none; } }
-    .gal-dots { position:absolute; left:0; right:0; bottom:10px; z-index:3;
+    .gal-dots { position:absolute; left:0; right:0; bottom:-2px; z-index:3;
       display:flex; justify-content:center; gap:6px; pointer-events:none; }
     .gal-dots i { width:6px; height:6px; border-radius:50%; background:rgba(255,255,255,.4); transition:background .2s ease, transform .2s ease; }
     .gal-dots i.on { background:#fff; transform:scale(1.35); }
     .card-badge {
-      position:absolute; left:12px; top:12px; z-index:4;
+      position:absolute; left:2px; top:2px; z-index:4;
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px; font-size:11px;
       padding:3px 11px; border-radius:999px;
     }
     .b-now { color:#0a0618; background:var(--lime); }
     .b-pre { color:#0a0618; background:var(--gold); }
     .wish {
-      position:absolute; right:10px; top:10px; z-index:4; width:36px; height:36px; border-radius:50%;
+      position:absolute; right:2px; top:2px; z-index:4; width:36px; height:36px; border-radius:50%;
       border:1px solid rgba(255,255,255,.28); background:rgba(10,6,24,.6); cursor:pointer;
       display:grid; place-items:center; -webkit-tap-highlight-color:transparent;
       backdrop-filter:blur(4px); -webkit-backdrop-filter:blur(4px);
@@ -347,11 +348,11 @@
     .wish svg { width:18px; height:18px; fill:none; stroke:#fff; stroke-width:1.8; transition:fill .2s ease, stroke .2s ease; }
     .wish:hover { transform:scale(1.1); }
     .wish.on svg { fill:var(--rose); stroke:var(--rose); }
-    .card-body { padding:clamp(16px,2vw,24px); display:flex; flex-direction:column; flex:1; }
+    .card-body { padding:clamp(14px,1.8vw,20px) clamp(6px,1vw,12px) 0; display:flex; flex-direction:column; flex:1; position:relative; z-index:1; text-align:center; }
     .card-kind { font-size:11px; letter-spacing:2px; text-transform:uppercase; color:var(--lilac); }
     .card-body h3 { font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:.5px; margin:4px 0 6px; }
     .card-body p { font-size:13.5px; color:var(--ink-dim); flex:1; }
-    .card-price { display:flex; align-items:baseline; gap:9px; margin:14px 0 12px; flex-wrap:wrap; }
+    .card-price { display:flex; align-items:baseline; justify-content:center; gap:9px; margin:14px 0 12px; flex-wrap:wrap; }
     .card-price .now { font-family:var(--font-head); font-size:clamp(22px,3vw,28px); color:#fff; letter-spacing:1px; }
     .card-price .was { font-size:14px; color:var(--ink-dim); text-decoration:line-through; }
     .card-price .off {
@@ -730,19 +731,18 @@
   <!-- ═══ HERO ═══ -->
   <section class="hero">
     <div class="hero-top">
-      <span class="hero-age">Ages 7+ · 2+ Players · 30 Min</span>
       <div class="wordmark" id="hero-mark">DeepKids</div>
       <div class="hero-kinds" id="hero-kinds">Boardgames <i>·</i> Card Games <i>·</i> Picture Books</div>
     </div>
     <div class="hero-scene">
       <img id="hero-art" src="kids-playing-cut.webp" alt="Four kids playing the EscapeGravity spiral board game" width="1357" height="970" fetchpriority="high" decoding="async"/>
     </div>
+    <!-- The ticker is the hero's last row, not a section below it, so the
+         whole first screen ends exactly where the hero ends. -->
+    <div class="ticker" aria-label="What DeepKids games are">
+      <div class="ticker-track" id="ticker"></div>
+    </div>
   </section>
-
-  <!-- ═══ USP TICKER ═══ -->
-  <div class="ticker" aria-label="What DeepKids games are">
-    <div class="ticker-track" id="ticker"></div>
-  </div>
 
   <!-- ═══ SHOP ═══ -->
   <section class="sec" id="shop" style="padding-inline:clamp(14px,3vw,32px)">
@@ -1013,18 +1013,19 @@ var CATALOG = [
   { sku:'EG-001', name:'EscapeGravity', kind:'Boardgame · 2–6 players · ages 7+',
     blurb:'A race to the Space Station where gravity fights back. 35+ physical challenges, 13 forces, and a spiral board from the Earth’s core to deep space.',
     price:499900, preorder:false, href:'/',
-    shots:[ {src:'eg-box-new.webp', fit:true}, {src:'full-board-tour.webp'},
-            {src:'box-contents.webp'}, {src:'kit-items.webp'}, {src:'gift-kids-hero.webp'} ] },
+    shots:[ {src:'eg-box-new.webp'}, {src:'gift-box-hero.webp'},
+            {src:'full-board-tour.webp', framed:true}, {src:'box-contents.webp', framed:true} ] },
   { sku:'SCI-001', name:'SCI. Trading Cards', kind:'Card game · ages 7+',
     blurb:'Scientists as trading cards. Each one carries a discovery, the truth underneath it, and where you meet that truth in ordinary life.',
     price:119900, preorder:true, href:'/sci',
-    shots:[ {src:'sci-brahmagupta-front.webp', fit:true}, {src:'sci-noether-front.webp', fit:true},
-            {src:'sci-brahmagupta-back.webp', fit:true}, {src:'sci-noether-back.webp', fit:true} ] },
+    shots:[ {src:'sci-brahmagupta-front.webp', framed:true}, {src:'sci-noether-front.webp', framed:true},
+            {src:'sci-brahmagupta-back.webp', framed:true}, {src:'sci-noether-back.webp', framed:true} ] },
   { sku:'EVO-001', name:'The Story Of Evolution', kind:'Picture book · kids & adults',
     blurb:'Four billion years told once, properly — hand-painted, and accurate all the way through. For reading together.',
     price:249900, preorder:true, href:'/evolution',
-    shots:[ {src:'more-evo-pin.webp'}, {src:'more-evo-1.webp'}, {src:'more-evo-4.webp'},
-            {src:'more-evo-6.webp'}, {src:'more-evo-3.webp'} ] }
+    shots:[ {src:'more-evo-pin.webp', framed:true}, {src:'more-evo-1.webp', framed:true},
+            {src:'more-evo-4.webp', framed:true}, {src:'more-evo-6.webp', framed:true},
+            {src:'more-evo-3.webp', framed:true} ] }
 ];
 // Rounded to whole rupees, exactly as /api/create-order does it — the two
 // must agree or the cart total won't match what Razorpay charges.
@@ -1291,7 +1292,7 @@ function dkWish(sku, el) {
     card.className = 'card rv' + (i ? ' rv' + Math.min(i + 1, 3) : '');
     var shots = p.shots.map(function(sh){
       return '<a href="' + p.href + '" target="_blank" rel="noopener" data-go="' + p.sku + '">' +
-             '<img src="' + sh.src + '" alt="' + p.name + '"' + (sh.fit ? ' class="fit"' : '') +
+             '<img src="' + sh.src + '" alt="' + p.name + '"' + (sh.framed ? ' class="framed"' : '') +
              ' loading="lazy" decoding="async"/></a>';
     }).join('');
     var dots = p.shots.map(function(_, n){ return '<i' + (n ? '' : ' class="on"') + '></i>'; }).join('');
