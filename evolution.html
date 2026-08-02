@@ -366,6 +366,24 @@
     .diff h3 { font-size: 18.5px; color: #fff; letter-spacing: .5px; margin-bottom: 8px; }
     .diff p { font-size: 14.5px; color: var(--ink-dim); }
 
+
+    /* ─── Pre-order (shared cart) ─────────────────────────────*/
+    .pre-cta { display:flex; flex-direction:column; align-items:center; gap:10px;
+      margin:clamp(24px,4vh,40px) auto 0; }
+    .pre-cta button {
+      cursor:pointer; border:0; border-radius:999px; padding:13px 34px;
+      font-family:'Norwester',sans-serif; font-variant:small-caps; letter-spacing:2px; font-size:17px;
+      color:#fff; background:linear-gradient(180deg,#cd9edf 0%,#aa59c8 48%,#793194 100%);
+      box-shadow:0 6px 18px rgba(170,89,200,.35), inset 0 1px 0 rgba(255,255,255,.3);
+      transition:filter .2s ease, transform .15s ease;
+    }
+    .pre-cta button:hover { filter:brightness(1.08); }
+    .pre-cta button:active { transform:scale(.97); }
+    .pre-cta .pre-price { font-family:'Norwester',sans-serif; font-size:15px; letter-spacing:1px;
+      color:rgba(255,255,255,.75); }
+    .pre-cta .pre-price s { opacity:.55; margin-right:6px; }
+    .pre-cta .pre-price b { color:#cd9edf; font-weight:normal; }
+
     /* ─── Notify panel ────────────────────────────────────────*/
     .notify {
       max-width: 560px; margin: 0 auto;
@@ -476,6 +494,10 @@
       <span>For kids &amp; adults</span>
       <span>Hand-painted spreads</span>
       <span>~4 billion years</span>
+    </div>
+    <div class="pre-cta">
+      <button type="button" data-add="EVO-001">Pre-order &mdash; 15% off</button>
+      <span class="pre-price"><s>₹2,499</s><b>₹2,124</b> &middot; ships as soon as it is printed</span>
     </div>
     <a class="scroll-cue" href="#read" aria-label="Start reading">Fall through time<span></span></a>
     </div>
@@ -632,19 +654,7 @@
   </section>
 </main>
 
-<footer>
-  <div class="f-links">
-    <a href="/newhome">DeepKids</a>
-    <a href="/shop">EscapeGravity</a>
-    <a href="/sci">SCI. Cards</a>
-    <a href="/how-to-play">How To Play</a>
-    <a href="/blog">Blog</a>
-    <a href="/about">About</a>
-    <a href="/contact">Contact</a>
-    <a href="/privacy-policy">Privacy</a>
-  </div>
-  <div style="margin-top:10px;">© DeepKids · deepkids.in</div>
-</footer>
+
 
 <script>
   /* ── Deep-time clock ──────────────────────────────────────
@@ -773,6 +783,9 @@
     document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
   }
 </script>
+  <script src="/cart.js" defer></script>
+  <script src="/checkout.js" defer></script>
+  <script src="/footer.js" defer></script>
   <script src="/menu.js" defer></script>
 </body>
 </html>

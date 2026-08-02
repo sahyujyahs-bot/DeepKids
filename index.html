@@ -2265,8 +2265,10 @@
       if (window.DK) { DK.add('EG-001'); return; }
       doPreOrder();
     }
-    /* The cart drawer's Checkout button opens this page's own form. */
-    window.dkCheckout = function () { doPreOrder(); };
+    /* Checkout is /checkout.js's, on every page including this one — it
+       loads after this script and claims window.dkCheckout. doPreOrder
+       stays for the deep links (?phone=, #preorder), which arrive with a
+       draft to restore into the older form. */
 
     function doPreOrder() {
       var modal = document.getElementById('preorder-modal');
@@ -13166,6 +13168,8 @@ if ('requestIdleCallback' in window) {
 </script>
   <script src="/dkbtn.js" defer></script>
   <script src="/cart.js" defer></script>
+  <script src="/checkout.js" defer></script>
+  <script src="/footer.js" defer></script>
   <script src="/menu.js" defer></script>
 </body>
 </html>

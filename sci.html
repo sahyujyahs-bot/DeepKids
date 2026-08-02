@@ -152,6 +152,23 @@
       font-size: clamp(20px, 4vw, 34px); color: #fff; letter-spacing: 1px; margin-top: 2px;
       text-shadow: 0 0 22px rgba(var(--purple-rgb), .45);
     }
+
+    /* ─── Pre-order (shared cart) ─────────────────────────────*/
+    .pre-cta { display:flex; flex-direction:column; align-items:center; gap:10px;
+      margin:clamp(24px,4vh,40px) auto 0; }
+    .pre-cta button {
+      cursor:pointer; border:0; border-radius:999px; padding:13px 34px;
+      font-family:'Norwester',sans-serif; font-variant:small-caps; letter-spacing:2px; font-size:17px;
+      color:#fff; background:linear-gradient(180deg,#cd9edf 0%,#aa59c8 48%,#793194 100%);
+      box-shadow:0 6px 18px rgba(170,89,200,.35), inset 0 1px 0 rgba(255,255,255,.3);
+      transition:filter .2s ease, transform .15s ease;
+    }
+    .pre-cta button:hover { filter:brightness(1.08); }
+    .pre-cta button:active { transform:scale(.97); }
+    .pre-cta .pre-price { font-family:'Norwester',sans-serif; font-size:15px; letter-spacing:1px;
+      color:rgba(255,255,255,.75); }
+    .pre-cta .pre-price s { opacity:.55; margin-right:6px; }
+    .pre-cta .pre-price b { color:#cd9edf; font-weight:normal; }
     .hero-sub { font-size: clamp(15px, 2.1vw, 19px); color: var(--ink); max-width: 640px; margin: 18px auto 0; }
 
     /* Section shell — uniform vertical rhythm across every section */
@@ -314,6 +331,10 @@
     <div class="brand rv rv2">SCI<span class="brand-dot">.</span></div>
     <h2 class="sub-name rv rv2">Scientist Trading Cards</h2>
     <p class="hero-sub rv rv3">Not just who discovered what. Each card takes one scientist, the <b>fundamental truth</b> their work uncovered, and shows you <b>where that truth is hiding in everyday life</b> — so science becomes something your child can spot, touch, and feel.</p>
+    <div class="pre-cta">
+      <button type="button" data-add="SCI-001">Pre-order &mdash; 15% off</button>
+      <span class="pre-price"><s>₹1,199</s><b>₹1,019</b> &middot; ships as soon as it is printed</span>
+    </div>
   </section>
 
   <!-- ═══ COLLECTIBLE HOOK ═══ -->
@@ -473,10 +494,7 @@
   </section>
 </main>
 
-<footer>
-  <a href="/">Home</a> · <a href="/shop">EscapeGravity</a> · <a href="/how-to-play">How To Play</a> · <a href="/sci">SCI. Cards</a> · <a href="/contact">Contact</a> · <a href="/privacy-policy">Privacy</a>
-  <div style="margin-top:8px;">© DeepKids · deepkids.in</div>
-</footer>
+
 
 <!-- Floating WhatsApp + "get X off" cue -->
 <div class="eg-wa-cue" id="eg-wa-cue">Get <b>₹200 off</b> on WhatsApp</div>
@@ -651,6 +669,9 @@
     document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
   }
 </script>
+  <script src="/cart.js" defer></script>
+  <script src="/checkout.js" defer></script>
+  <script src="/footer.js" defer></script>
   <script src="/menu.js" defer></script>
 </body>
 </html>

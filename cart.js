@@ -138,6 +138,16 @@
   } else {
     var bar = document.querySelector('.eg-nav .eg-nav-right, .eg-nav, nav.nav, header nav, header');
     if (bar) { bar.appendChild(wishBtn); bar.appendChild(cartBtn); }
+    else {
+      /* No bar on this page (404, order confirmation). Float the pair
+         where menu.js floats its button, just to the left of it —
+         otherwise the icons never exist and every repaint throws. */
+      var float = document.createElement('div');
+      float.style.cssText = 'position:fixed;top:6px;right:calc(clamp(10px,4vw,24px) + 44px);' +
+                            'z-index:4001;display:flex;align-items:center';
+      float.appendChild(wishBtn); float.appendChild(cartBtn);
+      document.body.appendChild(float);
+    }
   }
 
   var cartPop = el('div', 'dkc-pop',
@@ -162,7 +172,7 @@
   function paint() {
     var c = read(), lines = document.getElementById('dkc-cart-lines');
     var badge = document.getElementById('dkc-cart-count');
-    if (!lines) return;
+    if (!lines || !badge) return;
     badge.textContent = count();
     badge.classList.toggle('on', count() > 0);
     if (!c.length) {
@@ -194,7 +204,7 @@
   function wishPaint() {
     var w = wishRead(), box = document.getElementById('dkc-wish-lines');
     var badge = document.getElementById('dkc-wish-count');
-    if (!box) return;
+    if (!box || !badge) return;
     badge.textContent = w.length;
     badge.classList.toggle('on', w.length > 0);
     syncHearts();
