@@ -304,6 +304,64 @@
     .zone-lede b { color: #fff; }
 
     /* ─── Excerpt: a real page from the book ──────────────────*/
+    /* ─── Chapter flow ────────────────────────────────────────*/
+    /* Seventy-six chapters is a wall as a list. As a flow it reads as
+       what it is: one chain, where each link is the consequence of the
+       one before. Two columns on a wide screen, each carrying its own
+       spine — a single absolutely-positioned line cannot follow CSS
+       columns, so the second column had dots and no thread. */
+    .flow { counter-reset: flow; display: grid; grid-template-columns: 1fr; gap: clamp(24px, 4vw, 56px); }
+    @media (min-width: 820px) { .flow { grid-template-columns: 1fr 1fr; } }
+    .flow-col { position: relative; padding-left: clamp(34px, 4.4vw, 46px); }
+    .flow-col::before {
+      content: ''; position: absolute; left: clamp(13px, 1.8vw, 17px); top: 10px; bottom: 10px;
+      width: 2px; border-radius: 2px;
+      background: linear-gradient(180deg,
+        rgba(var(--purple-rgb), .12), rgba(var(--purple-rgb), .65) 8%,
+        rgba(var(--purple-rgb), .65) 92%, rgba(var(--purple-rgb), .12));
+    }
+    .flow-era { position: relative; margin: clamp(22px, 3.2vh, 34px) 0 10px; }
+    .flow-col > .flow-era:first-child { margin-top: 0; }
+    .flow-era::before {
+      content: ''; position: absolute;
+      left: calc(-1 * clamp(34px, 4.4vw, 46px) + clamp(8px, 1.2vw, 12px));
+      top: 6px; width: 12px; height: 12px; border-radius: 50%;
+      background: var(--gold); box-shadow: 0 0 0 4px #0b0718, 0 0 14px rgba(255,179,0,.65);
+    }
+    .flow-era h3 {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: clamp(14px, 2.1vw, 19px); color: #fff;
+    }
+    .flow-era span {
+      display: block; font-family: var(--font-head); font-variant: small-caps;
+      letter-spacing: 2px; font-size: clamp(10px, 1.3vw, 12px); color: var(--gold); opacity: .85;
+    }
+    /* The number is the node — one marker, not a number sitting behind a
+       dot where neither could be read. */
+    .flow-step {
+      position: relative; display: block; padding: 6px 0;
+      font-size: clamp(13.5px, 1.7vw, 15.5px); color: var(--ink);
+      transition: color .18s ease;
+    }
+    .flow-step::before {
+      counter-increment: flow; content: counter(flow);
+      position: absolute; left: calc(-1 * clamp(34px, 4.4vw, 46px)); top: 4px;
+      width: clamp(26px, 3.6vw, 34px); height: 20px; line-height: 20px; text-align: center;
+      font-family: var(--font-head); font-size: 11px;
+      color: var(--lilac); background: #0b0718;
+      border: 1px solid rgba(var(--purple-rgb), .5); border-radius: 999px;
+      transition: background .18s ease, color .18s ease, border-color .18s ease;
+    }
+    a.flow-step { text-decoration: none; }
+    a.flow-step:hover { color: #fff; }
+    a.flow-step:hover::before { background: var(--purple); color: #fff; border-color: var(--purple); }
+    /* A chapter you can actually look at on this page says so. */
+    .flow-step em {
+      font-style: normal; font-family: var(--font-head); font-variant: small-caps;
+      letter-spacing: 1.5px; font-size: 10.5px; color: var(--gold);
+      border: 1px solid rgba(255,179,0,.4); border-radius: 999px; padding: 1px 8px;
+      margin-left: 7px; white-space: nowrap;
+    }
     /* ─── Full-bleed spreads ──────────────────────────────────*/
     /* A spread is a page of the book, shown whole and edge to edge. No
        card, no border, no crop — the painting is the layout, and the type
@@ -561,40 +619,101 @@
   <!-- ═══════════════ CHAPTERS ═══════════════ -->
   <section class="zone wrap" id="chapters">
     <div class="zone-head">
-      <span class="zone-kicker rv">The whole arc</span>
+      <span class="zone-kicker rv">The whole arc &middot; 76 chapters</span>
       <h2 class="rv">One Continuous <em>Story</em></h2>
-      <p class="zone-lede rv rv2">Not a list of facts by category — a single narrative you can read front to back, where each chapter is the consequence of the one before it.</p>
+      <p class="zone-lede rv rv2">Not a list of facts by category. Read it front to back and every chapter is the consequence of the one before it &mdash; from before there was time, to what happens after us.</p>
     </div>
-    <div class="chapters rv">
-      <div class="chapter"><span class="when">Before time</span><span class="what">The Silent Infinite<small>"I hadn't yet been born. I did not count moments. I did not flow. I did not know myself."</small></span></div>
-      <div class="chapter"><span class="when">~13.8 billion</span><span class="what">The First Dance Of Creation<small>A ripple, a pulse — and the first breath moves through the infinite.</small></span></div>
-      <div class="chapter"><span class="when">~4.5 billion</span><span class="what">The Birth Of The Earth<small>Dust and gas spun, collided and grew, until 4.5 billion years in, the Earth arrived.</small></span></div>
-      <div class="chapter"><span class="when">~4.48 billion</span><span class="what">Fiery Hot Ball<small>Wild, hot and violent. Just fire, chaos, and the birth of a world.</small></span></div>
-      <div class="chapter"><span class="when">~4.45 billion</span><span class="what">The First Moon Rise<small>A Mars-sized rock hits, and the young Earth gets a sky with two lights in it.</small></span></div>
-      <div class="chapter"><span class="when">~4.3 billion</span><span class="what">Water, Water, Everywhere<small>Steam from the molten surface, rain for millions of years, and the first oceans.</small></span></div>
-      <div class="chapter"><span class="when">~4.2 billion</span><span class="what">Gene, Memory And Life<small>Molecules that flooded, flared and vanished — until one of them held a shape.</small></span></div>
-      <div class="chapter"><span class="when">~13.8 billion</span><span class="what">The Question Of God<small>Consciousness, intent, thought. Was it chance, or was there intent?</small></span></div>
-      <div class="chapter"><span class="when">~3.8 billion</span><span class="what">The First Cell<small>All our great grandmother. "This was no accident. This was ingenuity, wrapped in a cell wall."</small></span></div>
-      <div class="chapter"><span class="when">~3.5 billion</span><span class="what">The First Family<small>Archaea, cyanobacteria, aerobic bacteria — the first family photo.</small></span></div>
-      <div class="chapter"><span class="when">~3.25 billion</span><span class="what">Alien Zombies<small>Viruses: not quite alive, and thriving among us ever since.</small></span></div>
-      <div class="chapter"><span class="when">~2.5 billion</span><span class="what">The Life Savers<small>Cyanobacteria learn photosynthesis and flood a dying world with oxygen.</small></span></div>
-      <div class="chapter"><span class="when">~2.1 billion</span><span class="what">The Great Alliances<small>One prokaryote swallows another and neither dies — the first union.</small></span></div>
-      <div class="chapter"><span class="when">~2.1 billion</span><span class="what">The Start Of The Gender Race<small>Why life split itself in two, and what that division set loose.</small></span></div>
-      <div class="chapter"><span class="when">~1.5 billion</span><span class="what">Multicellularity<small>Single cells stop leaving home, and the first plant appears.</small></span></div>
-      <div class="chapter"><span class="when">~1.2 billion</span><span class="what">Fungi Born<small>The plant-animal in-betweens, digesting the world from the outside in.</small></span></div>
-      <div class="chapter"><span class="when">~800 million</span><span class="what">First Ever Animal<small>Sponges: full of pores, both male and female, and still here.</small></span></div>
-      <div class="chapter"><span class="when">~700 million</span><span class="what">Comb Jellies<small>The first predators — and the first true stomach.</small></span></div>
-      <div class="chapter"><span class="when">~4 billion</span><span class="what">Thought Predates Neurons<small>The great-grandmother cell senses, decides and acts, long before there is a brain to do it with.</small></span></div>
-      <div class="chapter"><span class="when">~590 million</span><span class="what">Symmetry Was Born<small>A left and a right, a front and a back — and with them, a head.</small></span></div>
-      <div class="chapter"><span class="when">~580 million</span><span class="what">Protostomes<small>Mouth first, belly-brained. The first bilaterians split into two great plans.</small></span></div>
-      <div class="chapter"><span class="when">~570 million</span><span class="what">The Second Path<small>Deuterostomes — the other plan, and the one that led to us.</small></span></div>
-      <div class="chapter"><span class="when">~512 million</span><span class="what">Parasites<small>Not just a myth, and thriving among us. Alive is a strategy with many shapes.</small></span></div>
-      <div class="chapter"><span class="when">~515 million</span><span class="what">Plants Take Root<small>With roots, plants anchor themselves and start to shape the world.</small></span></div>
-      <div class="chapter"><span class="when">~500 million</span><span class="what">Fishes & Vertebrates<small>A skull, then a spine — the first vertebrate, and eventually us.</small></span></div>
-      <div class="chapter"><span class="when">~400 million</span><span class="what">Woody-Stemmed Plants<small>Height, endurance, and a whole new era of competition for light.</small></span></div>
-      <div class="chapter"><span class="when">~385 million</span><span class="what">Trees — The Saint Giants<small>Sixty feet tall, connected underground, and quietly running the forest.</small></span></div>
-      <div class="chapter"><span class="when">~360 million</span><span class="what">Insects — Crawling & Flying<small>Six legs, compound eyes, and the first animal ever to fly.</small></span></div>
-      <div class="chapter"><span class="when">~296 million</span><span class="what">Octopus<small>Nine brains, blue blood, and a mind that thinks with its arms.</small></span></div>
+    <div class="flow rv">
+      <div class="flow-col">
+      <div class="flow-era"><h3>Before time</h3></div>
+      <div class="flow-step">The Silent Infinite</div>
+      <div class="flow-step">The First Dance Of Creation</div>
+      <div class="flow-era"><h3>A world forms</h3><span>~4.5 – 4.2 billion years</span></div>
+      <div class="flow-step">Birth Of Earth</div>
+      <a class="flow-step" href="#art">Early Earth <em>on this page</em></a>
+      <a class="flow-step" href="#art">Moon Rise <em>on this page</em></a>
+      <a class="flow-step" href="#art">Water, Water <em>on this page</em></a>
+      <div class="flow-step">The Question Of God</div>
+      <div class="flow-era"><h3>First life</h3><span>~3.8 – 2.5 billion years</span></div>
+      <a class="flow-step" href="#read">OG Ancestor <em>on this page</em></a>
+      <div class="flow-step">Happy Fam</div>
+      <a class="flow-step" href="#art">Alien Zombies <em>on this page</em></a>
+      <a class="flow-step" href="#read">Life Savers <em>on this page</em></a>
+      <div class="flow-era"><h3>The long middle</h3><span>~2.1 – 1 billion years</span></div>
+      <div class="flow-step">The Great Alliances</div>
+      <div class="flow-step">Eukaryotes</div>
+      <a class="flow-step" href="#art">The Arms Race Called Gender <em>on this page</em></a>
+      <a class="flow-step" href="#art">First Plant <em>on this page</em></a>
+      <div class="flow-step">First Fungi</div>
+      <div class="flow-step">First Animal</div>
+      <div class="flow-step">Green Algae</div>
+      <div class="flow-era"><h3>Animals arrive</h3><span>~730 – 500 million years</span></div>
+      <div class="flow-step">Fungi On Land</div>
+      <a class="flow-step" href="#art">Comb Jellies <em>on this page</em></a>
+      <a class="flow-step" href="#read">Thought Predates Neurons <em>on this page</em></a>
+      <div class="flow-step">Cnidarians</div>
+      <div class="flow-step">Symmetry Born</div>
+      <div class="flow-step">Protostomes — Predators Of Their Time</div>
+      <a class="flow-step" href="#art">Deuterostomes <em>on this page</em></a>
+      <div class="flow-step">Land Plants</div>
+      <div class="flow-step">Parasites</div>
+      <div class="flow-step">Euthycarcinoids</div>
+      <a class="flow-step" href="#art">Vertebrates And Fishes <em>on this page</em></a>
+      <div class="flow-step">Scorpion</div>
+      </div>
+      <div class="flow-col">
+      <div class="flow-era"><h3>Onto land</h3><span>~515 – 360 million years</span></div>
+      <div class="flow-step">Plants Take Root</div>
+      <div class="flow-step">Woody Stems</div>
+      <a class="flow-step" href="#art">Trees <em>on this page</em></a>
+      <div class="flow-step">Tiktaalik</div>
+      <div class="flow-step">Earliest Tetrapods</div>
+      <a class="flow-step" href="#art">Insects <em>on this page</em></a>
+      <div class="flow-step">Crabs And Shrimps</div>
+      <div class="flow-step">Ferns</div>
+      <div class="flow-era"><h3>The age of reptiles</h3></div>
+      <div class="flow-step">Amphibians, Amniotes</div>
+      <div class="flow-step">Turtles</div>
+      <div class="flow-step">Reptiles — Sauropsids</div>
+      <a class="flow-step" href="#art">Octopus <em>on this page</em></a>
+      <div class="flow-step">Crocodile — Sauropsids</div>
+      <div class="flow-step">Dinosaurs</div>
+      <div class="flow-step">Monotremes</div>
+      <div class="flow-step">Marsupials</div>
+      <div class="flow-step">Flowers</div>
+      <div class="flow-step">Birds</div>
+      <div class="flow-step">Tortoises</div>
+      <div class="flow-era"><h3>Mammals take over</h3></div>
+      <div class="flow-step">Snakes</div>
+      <div class="flow-step">Grass</div>
+      <div class="flow-step">Afrotheres</div>
+      <div class="flow-step">Wild Boar</div>
+      <div class="flow-step">Xenarthra</div>
+      <div class="flow-step">Rodents</div>
+      <div class="flow-step">Primates</div>
+      <div class="flow-step">Pigs & Camels</div>
+      <div class="flow-step">Bats, Shrews & Hedgehogs</div>
+      <div class="flow-step">Rhino — Odd-Toed</div>
+      <div class="flow-step">Whales & Dolphins</div>
+      <div class="flow-step">Horses</div>
+      <div class="flow-step">Carnivorous Mammals</div>
+      <div class="flow-era"><h3>Us</h3></div>
+      <div class="flow-step">Hominins</div>
+      <div class="flow-step">Homo Sapiens</div>
+      <div class="flow-era"><h3>And after</h3></div>
+      <div class="flow-step">World After Humans</div>
+      <div class="flow-step">Bananas</div>
+      <div class="flow-step">Need Drives Innovation</div>
+      <div class="flow-step">Internal Decay — External Replication</div>
+      <div class="flow-step">Ants</div>
+      <div class="flow-step">Dogs</div>
+      <div class="flow-step">Spider</div>
+      <div class="flow-step">Domestic Cats</div>
+      <div class="flow-step">Back &amp; Forth, Land To Water</div>
+      <div class="flow-step">Species No More</div>
+      <div class="flow-step">Owl</div>
+      <div class="flow-step">Sea Horse</div>
+      </div>
     </div>
   </section>
 
