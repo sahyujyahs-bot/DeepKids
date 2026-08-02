@@ -19,16 +19,26 @@
 
   var DK_GRAD_SEQ = 0;
 
-  function dkButtonMarkup(label) {
+  /* Colourways. The shape is fixed; the fill is not. data-dk-color picks
+     one, defaulting to the site purple. `ink` is the label colour, because
+     white type on the lime or the gold is unreadable. */
+  var DK_COLORS = {
+    purple: { top:'#cd9edf', mid:'#aa59c8', low:'#793194', fin:'#aa59c8', edge:'#6b2155', ink:'#fff',     shade:'rgba(0,0,0,.7)' },
+    lime:   { top:'#e8fa9a', mid:'#c0e638', low:'#7c9f16', fin:'#c0e638', edge:'#4d660b', ink:'#0a0618', shade:'rgba(255,255,255,.35)' },
+    gold:   { top:'#ffe0a3', mid:'#ffb300', low:'#b57a00', fin:'#ffb300', edge:'#7a5200', ink:'#0a0618', shade:'rgba(255,255,255,.35)' }
+  };
+
+  function dkButtonMarkup(label, colorName) {
+    var c = DK_COLORS[colorName] || DK_COLORS.purple;
     var gid = 'dk-grad-' + (++DK_GRAD_SEQ);
     var hid = 'dk-hi-'  + DK_GRAD_SEQ;
     return ''
       + '<svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">'
       +   '<defs>'
       +     '<linearGradient id="' + gid + '" x1="0" y1="0" x2="0" y2="1">'
-      +       '<stop offset="0%" stop-color="#cd9edf"/>'
-      +       '<stop offset="45%" stop-color="#aa59c8"/>'
-      +       '<stop offset="100%" stop-color="#793194"/>'
+      +       '<stop offset="0%" stop-color="' + c.top + '"/>'
+      +       '<stop offset="45%" stop-color="' + c.mid + '"/>'
+      +       '<stop offset="100%" stop-color="' + c.low + '"/>'
       +     '</linearGradient>'
       +     '<linearGradient id="' + hid + '" x1="0" y1="0" x2="0" y2="1">'
       +       '<stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>'
@@ -39,20 +49,20 @@
       +   '<line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>'
       +   '<path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9"/>'
       +   '<path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#' + gid + ')"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="' + c.fin + '" stroke-width="13" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="' + c.fin + '" stroke-width="13" stroke-linecap="round"/>'
       +   '<path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#' + hid + ')"/>'
-      +   '<path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>'
-      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>'
+      +   '<path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="' + c.edge + '" stroke-width="1.5" stroke-linejoin="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="19" stroke="' + c.edge + '" stroke-width="1.5" stroke-linecap="round"/>'
+      +   '<line x1="268" y1="54" x2="321" y2="89" stroke="' + c.edge + '" stroke-width="1.5" stroke-linecap="round"/>'
       + '</svg>'
-      + '<span class="btn-label">' + label + '</span>';
+      + '<span class="btn-label" style="color:' + c.ink + ';text-shadow:1px 1px 3px ' + c.shade + '">' + label + '</span>';
   }
   function hydrateDkBtn(host){
     if (!host || host.dataset.dkHydrated === '1') return;
     var label = host.getAttribute('data-dk-btn') || '';
     host.classList.add('btn-wrap', 'dk-btn-host');
-    host.innerHTML = dkButtonMarkup(label);
+    host.innerHTML = dkButtonMarkup(label, host.getAttribute('data-dk-color'));
     host.dataset.dkHydrated = '1';
   }
   function hydrateAllDkBtns(){
