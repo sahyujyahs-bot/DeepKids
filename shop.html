@@ -172,17 +172,17 @@
       filter:drop-shadow(0 26px 46px rgba(0,0,0,.65)) drop-shadow(0 0 70px rgba(var(--purple-rgb),.3));
       will-change:transform;
     }
-    /* On a phone the scene row used to stretch to fill the screen while the
-       landscape artwork inside it stayed letterboxed at the bottom — the
-       leftover became one dead band under the type. Now the picture sizes
-       itself to its own width and the type is centred in what is left, so
-       the space reads as composition instead of a hole. A portrait hero
-       (hero-tall.webp) closes the gap properly. */
+    /* Fallback only, for when the portrait artwork isn't there. A landscape
+       drawing in a portrait row letterboxes at the bottom and leaves one
+       dead band under the type; sizing the picture to its own width and
+       centring the type in what's left at least spreads that space. The
+       swap script adds .art-fit once the purpose-drawn hero has loaded,
+       and then the scene simply fills the row. */
     @media (max-width:768px){
-      .hero { grid-template-rows:1fr auto auto; }
-      .hero-top { align-self:center; }
-      .hero-scene { height:auto; align-self:end; }
-      .hero-scene img { height:auto; width:112%; margin-left:-6%; }
+      .hero:not(.art-fit) { grid-template-rows:1fr auto auto; }
+      .hero:not(.art-fit) .hero-top { align-self:center; }
+      .hero:not(.art-fit) .hero-scene { height:auto; align-self:end; }
+      .hero:not(.art-fit) .hero-scene img { height:auto; width:112%; margin-left:-6%; }
     }
     .hero-cta { margin-top:clamp(16px,2.6vh,28px); }
 
@@ -1671,10 +1671,14 @@ window.addEventListener('load', function() {
   if (!el) return;
   var want = matchMedia('(min-width:769px)').matches
     ? { src:'hero-wide.webp', w:3136, h:1344 }
-    : { src:'hero-tall.webp', w:1664, h:2496 };
+    : { src:'hero-tall.webp', w:1400, h:2030 };
   var probe = new Image();
   probe.onload = function() {
     el.width = want.w; el.height = want.h; el.src = want.src;
+    /* Art drawn for this shape — the scene can fill its row now, and the
+       spread-the-space fallback above turns itself off. */
+    var hero = document.querySelector('.hero');
+    if (hero) hero.classList.add('art-fit');
   };
   probe.src = want.src;
 });
