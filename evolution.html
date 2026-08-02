@@ -79,10 +79,9 @@
        DESIGN IDEA — "deep time"
 
        The book's subject is one unbroken 4-billion-year story, so
-       the page is a single timeline you fall down. A clock pinned to
-       the left counts backwards from the silent infinite to now as
-       you scroll, and each chapter arrives as a full-bleed spread of
-       the actual artwork with its era stamped on it.
+       the page is a single timeline you fall down. Each chapter
+       arrives as a full-bleed spread of the actual artwork with its
+       era stamped on it.
        ══════════════════════════════════════════════════════════ */
 
     :root {
@@ -98,7 +97,6 @@
 
       --gap-section: clamp(60px, 10vh, 118px);
       --gap-block: clamp(24px, 4vh, 42px);
-      --rail: clamp(44px, 6.5vw, 82px);
       --mast-h: 56px;
     }
 
@@ -115,7 +113,6 @@
     .wrap {
       max-width: 1040px; margin: 0 auto;
       padding-inline: clamp(20px, 5vw, 40px);
-      padding-left: calc(var(--rail) + clamp(8px, 1.5vw, 18px));
     }
 
     /* ─── Deep-time backdrop ──────────────────────────────────*/
@@ -167,33 +164,6 @@
 
     header, main, footer { position: relative; z-index: 2; }
 
-    /* ─── Deep-time clock ─────────────────────────────────────*/
-    .clock {
-      position: fixed; top: var(--mast-h, 56px); left: 0; bottom: 0; width: var(--rail);
-      z-index: 40; pointer-events: none;
-      display: flex; flex-direction: column; align-items: center;
-      padding-block: clamp(22px, 4vh, 40px) clamp(18px, 4vh, 32px);
-      border-right: 1px solid rgba(255,255,255,.08);
-      background: linear-gradient(90deg, rgba(0,0,0,.3), rgba(0,0,0,0));
-    }
-    .clock-track { position: relative; flex: 1; width: 2px; border-radius: 2px; background: rgba(255,255,255,.12); overflow: hidden; }
-    .clock-fill {
-      position: absolute; left: 0; right: 0; top: 0; height: 0%;
-      background: linear-gradient(180deg, #ff7a3d, var(--gold) 26%, var(--cyan) 58%, var(--lime) 100%);
-      box-shadow: 0 0 12px rgba(255,179,0,.7);
-    }
-    .clock-bead {
-      position: absolute; left: 50%; top: 0; width: 9px; height: 9px; border-radius: 50%;
-      transform: translate(-50%,-50%); background: #fff;
-      box-shadow: 0 0 12px rgba(255,255,255,.9), 0 0 26px rgba(255,179,0,.8);
-    }
-    .clock-read {
-      writing-mode: vertical-rl; text-orientation: mixed; transform: rotate(180deg);
-      margin-top: 14px; font-family: var(--font-head); font-variant: small-caps;
-      letter-spacing: 3px; font-size: clamp(11px, 1.5vw, 13.5px);
-      color: rgba(255,255,255,.72); white-space: nowrap; text-shadow: 0 0 14px rgba(0,0,0,.85);
-    }
-    .clock-read b { color: #fff; font-weight: normal; }
     @media (prefers-reduced-motion: reduce) { .dust { animation: none; } }
 
     /* ─── Masthead ────────────────────────────────────────────*/
@@ -222,8 +192,7 @@
     @media (max-width: 660px) { .mast nav a.hide-sm { display: none; } }
 
     /* ─── Hero ────────────────────────────────────────────────*/
-    /* Full-bleed so the painting runs edge to edge; the copy inside
-       still sits in .wrap and clears the clock rail. */
+    /* Full-bleed so the painting runs edge to edge. */
     .hero {
       position: relative; overflow: hidden;
       min-height: 100vh; min-height: 100dvh;
@@ -291,7 +260,6 @@
     /* Sections whose content is artwork: no side padding of their own, so
        a spread reaches both edges of the column — but still clear of the
        deep-time rail, which is fixed over the left of the viewport. */
-    .zone-bleed { padding-left: var(--rail); }
     .zone-bleed > .spread { padding-inline: 0; }
     .zone-head { margin-bottom: var(--gap-block); }
     .zone-kicker {
@@ -518,13 +486,6 @@
 </div>
 <div class="dust" aria-hidden="true"></div>
 
-<!-- Deep-time clock -->
-<div class="clock" aria-hidden="true">
-  <div class="clock-track">
-    <div class="clock-fill" id="c-fill"></div>
-    <div class="clock-bead" id="c-bead"></div>
-  </div>
-  <div class="clock-read"><b id="c-when">Before time</b> · <span id="c-eon">The Silent Infinite</span></div>
 </div>
 
 <header class="mast eg-nav">
@@ -594,9 +555,8 @@
         <div class="body">
           <p>The first cell, our great grandmother, the prokaryote, was born when the RNA chains took shelter in bubbles of fat floating in the ocean.</p>
           <p>She was an enigma — <b>the great grandmother for all life</b>. She lived, learned and built. She built the proteins by stitching amino acids into a chain. Proteins became the commandos and she, the queen.</p>
-          <p>She could already sense and respond to the environment. She could move toward food and away from toxins. She grew tails that spinned like propellers to move. She even learned to crawl. All while also splitting, copying, multiplying.</p>
+          <p>She could already sense and respond to the environment. She could move toward food and away from toxins. She grew tails that spun like propellers to move. She even learned to crawl. All while also splitting, copying, multiplying.</p>
           <p>This was no accident. <b>This was ingenuity, wrapped in a cell wall.</b> And still, just the beginning.</p>
-          <p class="spread-note">Verbatim from the spread, right down to "spinned".</p>
         </div>
       </div>
     </div>
@@ -855,120 +815,39 @@
 
 
 <script>
-  /* ── Deep-time clock ──────────────────────────────────────
-     Scroll progress reads as an age of the Earth, counting
-     forward from before the planet existed to the present. */
+</script>
+<script>
+  /* ── Backgrounds by depth ─────────────────────────────────
+     The five painted layers cross-fade as you fall down the page.
+     This used to be a side-effect of the deep-time rail; the rail is
+     gone but the backgrounds are the point, so they keep their own
+     small driver. */
   (function(){
-    var STOPS = [                       // [progress, readout, eon key]
-      [0.00, 'Before time', 'void',  'The Silent Infinite'],
-      [0.14, '4.5 billion', 'forge', 'The Earth Forms'],
-      [0.34, '2.5 billion', 'ocean', 'The First Oceans'],
-      [0.58, '700 million', 'life',  'The First Predators'],
-      [0.78, '385 million', 'green', 'The First Forests']
-    ];
-    var fill = document.getElementById('c-fill');
-    var bead = document.getElementById('c-bead');
-    var whenEl = document.getElementById('c-when');
-    var eonEl  = document.getElementById('c-eon');
+    var STOPS = [[0, 'void'], [0.14, 'forge'], [0.34, 'ocean'],
+                 [0.58, 'life'], [0.78, 'green']];
     var eons = {};
-    document.querySelectorAll('.eon').forEach(function(el){ eons[el.getAttribute('data-eon')] = el; });
-    var ticking = false, lastKey = 'void';
+    document.querySelectorAll('.eon').forEach(function(el){
+      eons[el.getAttribute('data-eon')] = el;
+    });
+    if (!Object.keys(eons).length) return;
+    var ticking = false, last = 'void';
 
     function paint() {
       ticking = false;
       var doc = document.documentElement;
       var max = (doc.scrollHeight - window.innerHeight) || 1;
-      var p = Math.min(Math.max(window.pageYOffset / max, 0), 1);
-      fill.style.height = (p * 100) + '%';
-      bead.style.top = (p * 100) + '%';
-
-      var stop = STOPS[0];
-      for (var i = 0; i < STOPS.length; i++) { if (p >= STOPS[i][0]) stop = STOPS[i]; }
-      whenEl.textContent = stop[1];
-      eonEl.textContent = stop[3];
-      if (stop[2] !== lastKey) {
-        if (eons[lastKey]) eons[lastKey].classList.remove('on');
-        if (eons[stop[2]]) eons[stop[2]].classList.add('on');
-        lastKey = stop[2];
-      }
+      var t = Math.min(Math.max((window.scrollY || doc.scrollTop) / max, 0), 1);
+      var key = STOPS[0][1];
+      for (var i = 0; i < STOPS.length; i++) if (t >= STOPS[i][0]) key = STOPS[i][1];
+      if (key === last) return;
+      if (eons[last]) eons[last].classList.remove('on');
+      if (eons[key])  eons[key].classList.add('on');
+      last = key;
     }
-    function onScroll(){ if (!ticking) { ticking = true; requestAnimationFrame(paint); } }
-    window.addEventListener('scroll', onScroll, { passive: true });
-    window.addEventListener('resize', onScroll);
+    window.addEventListener('scroll', function(){
+      if (!ticking) { ticking = true; requestAnimationFrame(paint); }
+    }, { passive: true });
     paint();
-  })();
-
-  /* ── Notify signup ────────────────────────────────────────
-     Captured server-side into our own D1 table, which is the only
-     sink we control — formsubmit and Google Forms both fail
-     silently, so a lead can vanish with no trace. No WhatsApp
-     template is sent here: the approved one is SCI-specific and
-     would deliver the wrong message. */
-  function evoSaveServerSide(name, phone) {
-    if (!phone) return Promise.resolve();
-    return fetch('/api/save-draft', {
-      method: 'POST', headers: { 'Content-Type': 'application/json' }, keepalive: true,
-      body: JSON.stringify({
-        phone: phone,
-        rawPhone: phone.replace(/\D/g, ''),
-        cc: '',
-        name: (name || 'there') + ' [Evolution book — notify me]',
-        address: '', city: '', pincode: '', state: ''
-      })
-    }).catch(function(){});
-  }
-  function evoSendLead(name, whatsapp) {
-    var data = new FormData();
-    data.append('name', name);
-    data.append('whatsapp', whatsapp);
-    data.append('interest', 'Evolution Picture Book');
-    data.append('_subject', 'Evolution Book Signup: ' + name + ' (' + whatsapp + ')');
-    data.append('_template', 'table');
-    data.append('_captcha', 'false');
-    return fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
-      method: 'POST', headers: { 'Accept': 'application/json' }, body: data, keepalive: true
-    }).catch(function(){});
-  }
-  function evoTimeout(p, ms) { return Promise.race([p, new Promise(function(r){ setTimeout(r, ms); })]); }
-
-  (function(){
-    var form = document.getElementById('n-form');
-    var msg  = document.getElementById('n-msg');
-    var btn  = document.getElementById('n-btn');
-    var started = false;
-    function v(id){ return (document.getElementById(id) || {}).value || ''; }
-
-    form.addEventListener('input', function(){
-      if (!started) { started = true;
-        egGtag('event', 'evo_signup_started', { event_category: 'funnel' });
-        egFbq('trackCustom', 'EvoSignupStarted');
-      }
-    });
-
-    form.addEventListener('submit', function(e){
-      e.preventDefault();
-      var name = v('n-name').trim();
-      var cc = v('n-cc').trim(), digits = v('n-phone').replace(/\D/g, '');
-      msg.textContent = ''; msg.className = 'n-msg';
-      if (!name) { msg.textContent = 'Please enter your name.'; msg.className = 'n-msg err'; return; }
-      if (!cc.match(/^\+?\d{1,4}$/)) { msg.textContent = 'Please enter a valid country code (e.g. +91).'; msg.className = 'n-msg err'; return; }
-      if (digits.length < 7 || digits.length > 15) { msg.textContent = 'Please enter a valid WhatsApp number.'; msg.className = 'n-msg err'; return; }
-      var full = (cc.indexOf('+') === 0 ? cc : '+' + cc) + digits;
-
-      btn.style.pointerEvents = 'none'; btn.style.opacity = '.6';
-      msg.textContent = 'Adding you to the list…';
-      egGtag('event', 'evo_signup', { event_category: 'conversion' });
-      egGtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'evolution_book' });
-      egFbq('track', 'Lead', { content_name: 'Evolution Picture Book' });
-
-      evoTimeout(Promise.allSettled([
-        evoSaveServerSide(name, full),
-        evoSendLead(name, full)
-      ]), 4000).then(function(){
-        document.getElementById('n-form-wrap').style.display = 'none';
-        document.getElementById('n-done').style.display = 'block';
-      });
-    });
   })();
 
   /* ── Reveal on scroll ─────────────────────────────────────*/
@@ -981,6 +860,7 @@
     document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
   }
 </script>
+
   <script src="/dkbtn.js" defer></script>
   <script src="/cart.js" defer></script>
   <script src="/checkout.js" defer></script>
