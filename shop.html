@@ -732,8 +732,13 @@
       </div>
       <div class="frame rv rv2">
         <div class="sheetwall" aria-hidden="true"><div class="sheetwall-in" id="sheetwall"></div></div>
-        <img id="school-photo" src="problem-education.jpg" alt="" style="display:none" loading="lazy" decoding="async"
-             onload="this.style.display='block'; var w=this.parentNode.querySelector('.sheetwall'); if(w) w.style.display='none';"
+        <!-- Fades in over the stand-in wall once it loads. Note: opacity,
+             not display:none — a display:none image with loading="lazy"
+             is never fetched, so the photo would never have appeared. -->
+        <img id="school-photo" src="problem-education.jpg"
+             alt="Two schoolchildren chained to their desks inside a cage of rulers, buried under textbooks"
+             style="opacity:0;transition:opacity .5s ease" decoding="async"
+             onload="this.style.opacity=1; var f=this.parentNode; var w=f.querySelector('.sheetwall'); if(w) w.style.display='none'; var bb=f.querySelector('.bars'); if(bb) bb.style.display='none';"
              onerror="this.remove();"/>
         <div class="bars" aria-hidden="true"></div>
         <div class="frame-cap">
