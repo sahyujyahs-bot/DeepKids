@@ -376,34 +376,45 @@
     .card-more:hover { text-decoration:underline; }
 
     /* ── Comics-style broken systems ──────────────────────────*/
-    .comic { padding-block:var(--gap-section); }
-    .comic-strip { display:grid; grid-template-columns:1fr; gap:clamp(12px,1.8vw,18px); }
-    @media (min-width:900px){ .comic-strip { grid-template-columns:1fr 1fr; } }
+    /* Exactly one screen: a one-line heading on top, a one-line punch at
+       the bottom, and the pictures taking every pixel in between. Nothing
+       spills past the fold at any viewport. */
+    .comic {
+      height:100svh; display:grid; grid-template-rows:auto 1fr auto;
+      padding-block:clamp(62px,9svh,92px) clamp(12px,2.2svh,24px);
+      gap:clamp(10px,1.8svh,20px);
+    }
+    .comic .sec-head { margin-bottom:0; }
+    /* Sized off the viewport width and locked to a single line — the old
+       two-line heading was what pushed this section past the fold. */
+    .comic .sec-head h2 { white-space:nowrap; font-size:clamp(19px,5.2vw,50px); }
+    .comic-strip {
+      display:grid; grid-template-columns:1fr; grid-template-rows:1fr 1fr;
+      gap:clamp(10px,1.6vw,18px); min-height:0;
+    }
+    @media (min-width:900px){ .comic-strip { grid-template-columns:1fr 1fr; grid-template-rows:1fr; } }
     .frame {
       position:relative; overflow:hidden; border-radius:14px;
       border:3px solid rgba(255,255,255,.9); background:#0d0722;
-      /* fills the screen below the heading; two-up on desktop so each
-         frame is the full remaining height, stacked and halved on mobile */
-      height:clamp(300px,44svh,460px);
+      height:100%; min-height:0;
       display:flex; align-items:flex-end;
       box-shadow:0 20px 44px rgba(0,0,0,.6);
     }
-    @media (min-width:900px){ .frame { height:clamp(420px,68svh,760px); } }
     .frame > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center 22%; }
     .frame::after {
       content:''; position:absolute; inset:0;
       background:linear-gradient(180deg,rgba(8,5,20,.25) 0%,rgba(8,5,20,.05) 30%,rgba(8,5,20,.86) 76%,rgba(8,5,20,.97) 100%);
     }
+    /* One line of caption, sitting on the picture. The paragraph that used
+       to live here ate the frame; the picture is the argument. */
     .frame-cap {
-      position:relative; z-index:2; padding:clamp(16px,2.4vw,26px); width:100%;
+      position:relative; z-index:2; padding:clamp(12px,2vw,22px); width:100%;
     }
-    .frame-tag {
-      display:inline-block; font-family:var(--font-head); font-variant:small-caps; letter-spacing:3px;
-      font-size:11.5px; color:#0a0618; background:#fff; padding:2px 12px; border-radius:3px; margin-bottom:10px;
+    .frame-cap h3 {
+      font-size:clamp(15px,3vw,32px); line-height:1.15; color:#fff;
+      text-shadow:0 3px 14px rgba(0,0,0,.9);
     }
-    .frame-cap h3 { font-size:clamp(23px,3.4vw,36px); color:#fff; text-shadow:0 3px 14px rgba(0,0,0,.9); }
     .frame-cap h3 em { font-style:normal; color:var(--rose); }
-    .frame-cap p { margin-top:8px; font-size:clamp(14px,1.7vw,16px); color:rgba(255,255,255,.88); max-width:44ch; text-shadow:0 2px 10px rgba(0,0,0,.9); }
     /* Stand-in art for the school frame until problem-education.jpg lands */
     .sheetwall { position:absolute; inset:0; overflow:hidden; }
     .sheetwall-in {
@@ -423,9 +434,9 @@
         linear-gradient(180deg,rgba(226,222,212,.5) 0 5px,transparent 5px);
     }
     .comic-punch {
-      text-align:center; margin-top:clamp(22px,3.4vh,38px);
+      text-align:center; margin:0; white-space:nowrap;
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:1px;
-      font-size:clamp(21px,3.8vw,40px); line-height:1.16; color:#fff;
+      font-size:clamp(17px,4.2vw,38px); line-height:1.16; color:#fff;
     }
     .comic-punch em { font-style:normal; color:var(--lime); }
 
@@ -757,16 +768,14 @@
   <!-- ═══ COMIC: THE TWO OPTIONS ═══ -->
   <section class="comic wrap" id="why">
     <div class="sec-head">
-      <span class="sec-kicker rv">Why we make these</span>
-      <h2 class="rv">A Child's Day Is Split<br/>Between <em>These Two</em></h2>
+      <span class="sec-kicker rv">A child's day</span>
+      <h2 class="rv">Split Between <em>These Two</em></h2>
     </div>
     <div class="comic-strip">
       <div class="frame rv">
         <img src="kids-screens-cut.webp" alt="Two children lit by phone screens" width="1267" height="1100" loading="lazy" decoding="async"/>
         <div class="frame-cap">
-          <span class="frame-tag">After school</span>
-          <h3>A feed that is <em>designed</em> to hold them</h3>
-          <p>Built by people paid to keep a child scrolling. Very good at that. Good at nothing else.</p>
+          <h3>A feed <em>built</em> to hold them</h3>
         </div>
       </div>
       <div class="frame rv rv2">
@@ -781,13 +790,15 @@
              onerror="this.remove();"/>
         <div class="bars" aria-hidden="true"></div>
         <div class="frame-cap">
-          <span class="frame-tag">Nine to three</span>
-          <h3>A syllabus that is <em>copied</em>, and often wrong</h3>
-          <p>The same sentences passed between textbooks for decades, tested but never rechecked.</p>
+          <h3>A syllabus <em>copied</em>, and often wrong</h3>
         </div>
       </div>
     </div>
-    <p class="comic-punch rv">So we built the third thing.<br/><em>Real science, played with your hands.</em></p>
+    <!-- Deliberately not .rv: this line is pinned to the bottom edge of a
+         section that is exactly one screen tall, and the reveal observer
+         shrinks its root by 8% at the bottom — so a reveal here would
+         never fire and the line would stay invisible forever. -->
+    <p class="comic-punch">So we built a <em>third thing</em>.</p>
   </section>
 
   <!-- ═══ QUIZ ═══ -->
@@ -970,8 +981,17 @@ function dkToy(toy, detail) {
   egGtag('event', 'playground', { event_category: 'engagement', event_label: toy, toy: toy, detail: detail || '' });
 }
 function dkSound(kind) {
-  if (kind === 'right')    dkTone([660, 880, 1170], 0.16, 'sine', 0.14);
-  else if (kind === 'wrong') dkTone([196, 156], 0.26, 'sawtooth', 0.09);
+  if (kind === 'right') {
+    // A rising major arpeggio with a soft octave shimmer layered over it —
+    // sine only, so it chimes instead of buzzing.
+    dkTone([784, 988, 1319], 0.22, 'sine', 0.12);
+    setTimeout(function(){ dkTone([1568, 1976, 2637], 0.20, 'sine', 0.035); }, 8);
+  }
+  else if (kind === 'wrong') {
+    // Two notes falling a fourth. Triangle, not sawtooth: a gentle "nope",
+    // not a buzzer a child gets punished by.
+    dkTone([392, 294], 0.30, 'triangle', 0.10);
+  }
   else if (kind === 'cart')  dkTone([784, 1046], 0.13, 'triangle', 0.13);
   else if (kind === 'checkout') dkTone([523, 659, 784, 1046], 0.15, 'triangle', 0.13);
   else dkTone([880], 0.07, 'sine', 0.07);          // generic click
@@ -1030,6 +1050,7 @@ var CATALOG = [
 // Rounded to whole rupees, exactly as /api/create-order does it — the two
 // must agree or the cart total won't match what Razorpay charges.
 function dkUnit(p) { return p.preorder ? Math.round(p.price * (1 - PREORDER_OFF) / 100) * 100 : p.price; }
+function dkThumb(p) { return (p.shots && p.shots[0] && p.shots[0].src) || ''; }
 function dkRs(paise) { return '₹' + (paise / 100).toLocaleString('en-IN'); }
 function dkFind(sku) { for (var i=0;i<CATALOG.length;i++) if (CATALOG[i].sku === sku) return CATALOG[i]; return null; }
 
@@ -1080,7 +1101,9 @@ function dkCartPaint() {
     var p = dkFind(l.sku); if (!p) return;
     var unit = dkUnit(p); total += unit * l.qty;
     if (p.preorder) anyPre = true;
-    html += '<div class="cart-line"><img src="' + p.img + '" alt=""/>' +
+    // The thumbnail is the product's first gallery shot — there is no
+    // separate p.img field, and asking for one rendered a broken icon.
+    html += '<div class="cart-line"><img src="' + dkThumb(p) + '" alt="" loading="lazy" decoding="async"/>' +
             '<span class="cl-n">' + p.name + (l.qty > 1 ? ' ×' + l.qty : '') +
             '<button type="button" class="why-btn" data-why="' + p.sku + '" aria-label="Why this price?" onclick="dkWhy(\'' + p.sku + '\', this)">?</button>' +
             '<small>' + (p.preorder ? 'Pre-order · 15% off applied' : 'Ships in 3 days') + '</small></span>' +
