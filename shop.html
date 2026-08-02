@@ -204,11 +204,16 @@
     .cart-toast.on { opacity:1; transform:none; }
 
     /* ── Hero ─────────────────────────────────────────────────*/
+    /* One screen exactly. A grid whose middle row is 1fr means the scene
+       takes every pixel left over after the type, and object-fit:contain
+       keeps it whole — so it fills the width without ever overflowing
+       the height, at any viewport. */
     .hero {
-      position:relative; min-height:100svh; display:flex; align-items:center;
-      padding-block:clamp(78px,11vh,120px) clamp(28px,5vh,60px); overflow:hidden;
+      position:relative; height:100svh; overflow:hidden;
+      display:grid; grid-template-rows:auto 1fr auto;
+      padding-block:clamp(60px,9vh,96px) clamp(16px,3vh,34px);
     }
-    .hero-in { width:100%; text-align:center; display:flex; flex-direction:column; align-items:center; }
+    .hero-top, .hero-bot { text-align:center; padding-inline:clamp(16px,4vw,44px); }
     .hero-age {
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:3px;
       font-size:clamp(11px,1.5vw,14px); color:var(--cyan);
@@ -229,14 +234,10 @@
     }
     .hero-kinds i { font-style:normal; color:var(--purple); }
     /* Full-width scene: the art spans the viewport, not a column. */
-    .hero-scene {
-      width:100vw; margin-inline:calc(50% - 50vw);
-      margin-top:clamp(10px,2vh,26px);
-      display:flex; justify-content:center;
-    }
+    .hero-scene { min-height:0; width:100%; display:block; }
     .hero-scene img {
-      width:min(1500px,116%); max-height:52svh; object-fit:contain;
-      filter:drop-shadow(0 30px 50px rgba(0,0,0,.65)) drop-shadow(0 0 70px rgba(var(--purple-rgb),.3));
+      width:100%; height:100%; object-fit:contain; object-position:center bottom;
+      filter:drop-shadow(0 26px 46px rgba(0,0,0,.65)) drop-shadow(0 0 70px rgba(var(--purple-rgb),.3));
       will-change:transform;
     }
     .hero-line { margin-top:clamp(12px,2vh,24px); max-width:640px; font-size:clamp(15px,2vw,19px); color:var(--ink); }
@@ -272,6 +273,7 @@
       font-size:clamp(10.5px,1.4vw,12.5px); letter-spacing:4px; color:var(--gold); margin-bottom:9px; }
     .sec-head h2 { font-size:clamp(28px,5.2vw,52px); color:#fff; text-shadow:0 0 30px rgba(var(--purple-rgb),.45); }
     .sec-head h2 em { font-style:normal; color:var(--lilac); }
+    .sec-lede { max-width:640px; margin-top:14px; color:var(--ink); font-size:clamp(14.5px,1.9vw,17px); }
     .sec-head p { max-width:620px; margin:14px auto 0; color:var(--ink); font-size:clamp(14.5px,1.9vw,17px); }
 
     .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr)); gap:clamp(16px,2.4vw,28px); }
@@ -337,10 +339,13 @@
     .frame {
       position:relative; overflow:hidden; border-radius:14px;
       border:3px solid rgba(255,255,255,.9); background:#0d0722;
-      min-height:clamp(340px,54svh,520px);
+      /* fills the screen below the heading; two-up on desktop so each
+         frame is the full remaining height, stacked and halved on mobile */
+      height:clamp(300px,44svh,460px);
       display:flex; align-items:flex-end;
       box-shadow:0 20px 44px rgba(0,0,0,.6);
     }
+    @media (min-width:900px){ .frame { height:clamp(420px,68svh,760px); } }
     .frame > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center 22%; }
     .frame::after {
       content:''; position:absolute; inset:0;
@@ -418,6 +423,201 @@
     .quiz-done .big { font-family:var(--font-head); font-variant:small-caps; font-size:clamp(23px,4.2vw,34px); color:#fff; margin-bottom:9px; }
     .quiz-done p { color:var(--ink); max-width:520px; margin:0 auto; }
 
+    /* ── "Why this price?" — answered in place, never a link away ──*/
+    .why-btn {
+      display:inline-flex; align-items:center; justify-content:center;
+      width:16px; height:16px; margin-left:6px; flex-shrink:0;
+      border-radius:50%; border:1px solid rgba(205,158,223,.6); background:none;
+      color:var(--lilac); font-family:var(--font-body); font-size:10px; line-height:1;
+      cursor:pointer; padding:0; vertical-align:middle;
+    }
+    .why-btn:hover { background:rgba(var(--purple-rgb),.35); color:#fff; }
+    .why-pop {
+      position:fixed; z-index:4000; width:min(300px,88vw);
+      background:#180f2e; border:1px solid rgba(var(--purple-rgb),.6); border-radius:14px;
+      padding:14px 15px; box-shadow:0 20px 50px rgba(0,0,0,.7);
+      opacity:0; transform:translateY(6px); pointer-events:none;
+      transition:opacity .18s ease, transform .18s ease;
+    }
+    .why-pop.on { opacity:1; transform:none; pointer-events:auto; }
+    .why-pop h5 { font-family:var(--font-head); font-variant:small-caps; letter-spacing:1.5px;
+      font-size:15px; color:#fff; margin-bottom:8px; }
+    .why-pop ul { list-style:none; }
+    .why-pop li { font-size:12.5px; color:var(--ink-dim); line-height:1.5; margin-bottom:5px;
+      display:flex; gap:7px; }
+    .why-pop li span { flex-shrink:0; }
+    .why-pop .close { position:absolute; top:6px; right:10px; background:none; border:0;
+      color:rgba(255,255,255,.5); font-size:17px; cursor:pointer; line-height:1; }
+
+    /* ── Checkout, on this page ───────────────────────────────*/
+    .co-back {
+      position:fixed; inset:0; z-index:4500; background:rgba(5,3,15,.82);
+      backdrop-filter:blur(6px); -webkit-backdrop-filter:blur(6px);
+      display:none; align-items:center; justify-content:center; padding:16px;
+    }
+    .co-back.on { display:flex; }
+    .co-box {
+      width:100%; max-width:480px;
+      max-height:calc(100vh - 32px); max-height:calc(100dvh - 32px);
+      overflow-y:auto; overscroll-behavior:contain;
+      background:linear-gradient(170deg,#1d1136,#140926 65%);
+      border:1px solid rgba(var(--purple-rgb),.5); border-radius:22px;
+      padding:clamp(20px,4vw,30px); position:relative;
+      box-shadow:0 30px 70px rgba(0,0,0,.75);
+    }
+    .co-box h3 { font-size:clamp(22px,4vw,30px); color:#fff; text-align:center; margin-bottom:4px; }
+    .co-sub { text-align:center; font-size:13.5px; color:var(--ink-dim); margin-bottom:16px; }
+    .co-x { position:absolute; top:10px; right:14px; background:none; border:0; color:rgba(255,255,255,.55);
+      font-size:26px; line-height:1; cursor:pointer; }
+    .co-list { border:1px solid rgba(255,255,255,.14); border-radius:14px; padding:4px 12px; margin-bottom:14px; }
+    .co-row { display:flex; align-items:center; gap:8px; padding:9px 0; border-bottom:1px solid rgba(255,255,255,.08); }
+    .co-row:last-child { border-bottom:0; }
+    .co-row .n { flex:1; font-size:13.5px; color:#fff; display:flex; align-items:center; flex-wrap:wrap; }
+    .co-row .n small { display:block; width:100%; color:var(--ink-dim); font-size:11.5px; }
+    .co-row .p { font-family:var(--font-head); font-size:15px; color:var(--lime); white-space:nowrap; }
+    .co-sum { display:flex; justify-content:space-between; align-items:baseline; margin:0 0 16px;
+      font-family:var(--font-head); font-variant:small-caps; letter-spacing:1.5px; font-size:17px; color:#fff; }
+    .co-sum b { font-size:23px; color:var(--lime); font-weight:normal; }
+    .co-f { margin-bottom:11px; }
+    .co-f label { display:block; font-size:11px; letter-spacing:2px; text-transform:uppercase; color:var(--ink-dim); margin-bottom:5px; }
+    .co-f input, .co-f textarea {
+      width:100%; padding:12px 14px; font-family:var(--font-body); font-size:16px; color:#fff;
+      background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.2); border-radius:12px;
+      outline:none; resize:vertical;
+    }
+    .co-f input:focus, .co-f textarea:focus { border-color:var(--purple); box-shadow:0 0 0 3px rgba(var(--purple-rgb),.2); }
+    .co-2 { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+    .co-phone { display:grid; grid-template-columns:86px 1fr; gap:9px; }
+    .co-pay { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin:14px 0; }
+    .co-pay button {
+      cursor:pointer; text-align:center; padding:12px 8px; border-radius:14px;
+      background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.2); color:#fff;
+      font-family:var(--font-head); font-variant:small-caps; letter-spacing:1.5px; font-size:15px;
+      transition:background .2s ease, border-color .2s ease;
+    }
+    .co-pay button small { display:block; font-family:var(--font-body); font-variant:normal;
+      letter-spacing:0; font-size:11px; color:var(--ink-dim); margin-top:2px; }
+    .co-pay button.on { background:rgba(var(--purple-rgb),.3); border-color:var(--purple); }
+    .co-go {
+      width:100%; cursor:pointer; border:0; margin-top:4px;
+      font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px; font-size:17px;
+      color:#0a0618; background:var(--lime); border-radius:999px; padding:13px;
+      transition:filter .2s ease;
+    }
+    .co-go:hover { filter:brightness(1.08); }
+    .co-go[disabled] { opacity:.55; cursor:default; }
+    .co-msg { min-height:20px; text-align:center; font-size:13.5px; margin-top:10px; color:var(--ink); }
+    .co-msg.err { color:var(--rose); }
+    .co-note { text-align:center; font-size:11.5px; color:var(--ink-dim); margin-top:9px; }
+    .co-done { text-align:center; padding:12px 0; }
+    .co-done .big { font-family:var(--font-head); font-variant:small-caps; font-size:clamp(24px,4.4vw,32px); color:#fff; margin-bottom:8px; }
+    .co-done p { color:var(--ink); font-size:14.5px; }
+
+    /* ─── What our games are ──────────────────────────────────*/
+    .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: clamp(10px, 1.5vw, 16px); }
+    .tile {
+      padding: clamp(16px, 2vw, 22px) clamp(16px, 2vw, 20px); border-radius: 16px;
+      background: linear-gradient(170deg, rgba(var(--purple-rgb), .14), rgba(255,255,255,.02) 65%);
+      border: 1px solid rgba(var(--purple-rgb), .3);
+      transition: transform .28s ease, border-color .28s ease;
+    }
+    .tile:hover { transform: translateY(-4px); border-color: rgba(var(--purple-rgb), .65); }
+    .tile.tile-not {
+      background: linear-gradient(170deg, rgba(255,138,138,.1), rgba(255,255,255,.015) 65%);
+      border-color: rgba(255,138,138,.3);
+    }
+    .tile.tile-not:hover { border-color: rgba(255,138,138,.6); }
+    .tile b {
+      display: block; font-family: var(--font-head); font-weight: normal; font-variant: small-caps;
+      letter-spacing: .5px; font-size: clamp(17px, 2vw, 21px); color: #fff; line-height: 1.12; margin-bottom: 7px;
+    }
+    .tile.tile-not b { color: var(--rose); }
+    .tile span { font-size: 13.5px; line-height: 1.5; color: var(--ink-dim); }
+
+    /* ─── Playground ──────────────────────────────────────────*/
+    .toy {
+      background: linear-gradient(170deg, rgba(255,255,255,.055), rgba(255,255,255,.015) 70%);
+      border: 1px solid rgba(255,255,255,.15); border-radius: 22px;
+      padding: clamp(20px, 3.2vw, 32px); margin-bottom: clamp(18px, 3vh, 28px);
+    }
+    .toy:last-child { margin-bottom: 0; }
+    .toy-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 14px; margin-bottom: 6px; }
+    .toy-head h3 { font-size: clamp(20px, 3vw, 28px); color: #fff; letter-spacing: 1px; }
+    .toy-head .tag {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 11px;
+      color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .45); border-radius: 999px; padding: 2px 10px;
+    }
+    .toy-sub { font-size: 14.5px; color: var(--ink-dim); margin-bottom: 20px; }
+    .toy-btn {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 14.5px;
+      color: #fff; background: rgba(var(--purple-rgb), .3); border: 1px solid rgba(var(--purple-rgb), .6);
+      border-radius: 999px; padding: 7px 18px; cursor: pointer; transition: background .2s ease;
+    }
+    .toy-btn:hover { background: rgba(var(--purple-rgb), .5); }
+    .toy-msg { min-height: 22px; font-size: 14px; color: var(--ink); margin-top: 12px; }
+    .toy-msg.good { color: var(--lime); }
+    .toy-msg.bad { color: var(--rose); }
+    .xw-layout { display: grid; grid-template-columns: 1fr; gap: clamp(18px, 3vw, 28px); }
+    @media (min-width: 900px) { .xw-layout { grid-template-columns: auto 1fr; align-items: start; } }
+    .xw-scroll { overflow-x: auto; overscroll-behavior-x: contain; padding-bottom: 4px; }
+    .xw-grid { display: grid; gap: 2px; width: max-content; margin-inline: auto; }
+    .xw-cell { position: relative; width: clamp(23px, 6.4vw, 34px); aspect-ratio: 1; }
+    .xw-cell input {
+      width: 100%; height: 100%; text-align: center; text-transform: uppercase;
+      font-family: var(--font-head); font-size: clamp(13px, 3.4vw, 18px); color: #fff;
+      background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.22); border-radius: 4px;
+      outline: none; padding: 0; caret-color: var(--cyan);
+    }
+    .xw-cell input:focus { background: rgba(var(--cyan-rgb), .22); border-color: var(--cyan); }
+    .xw-cell.lit input { background: rgba(var(--purple-rgb), .26); }
+    .xw-cell.right input { background: rgba(var(--lime-rgb), .22); border-color: rgba(var(--lime-rgb), .6); }
+    .xw-cell.wrong input { background: rgba(255,138,138,.2); border-color: rgba(255,138,138,.55); }
+    .xw-num { position: absolute; top: 1px; left: 2px; font-size: 8.5px; line-height: 1; color: rgba(255,255,255,.6); pointer-events: none; z-index: 2; }
+    .xw-clues { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
+    .xw-clues h4 { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: 13px; color: var(--gold); margin-bottom: 8px; }
+    .xw-clues ol { list-style: none; }
+    .xw-clues li { font-size: 13.5px; color: var(--ink-dim); margin-bottom: 7px; cursor: pointer; line-height: 1.45; transition: color .2s ease; }
+    .xw-clues li:hover, .xw-clues li.active { color: #fff; }
+    .xw-clues li b { color: var(--lilac); font-weight: normal; margin-right: 5px; }
+    .xw-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+    .wd-board { display: grid; gap: 6px; width: max-content; margin: 0 auto 16px; }
+    .wd-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
+    .wd-tile {
+      width: clamp(42px, 11vw, 56px); aspect-ratio: 1; display: grid; place-items: center;
+      font-family: var(--font-head); font-size: clamp(19px, 5vw, 26px); color: #fff;
+      border: 2px solid rgba(255,255,255,.2); border-radius: 6px; background: rgba(255,255,255,.03);
+      transition: background .3s ease, border-color .3s ease, transform .2s ease;
+    }
+    .wd-tile.filled { border-color: rgba(255,255,255,.45); transform: scale(1.04); }
+    .wd-tile.hit  { background: var(--lime); border-color: var(--lime); color: #05030f; }
+    .wd-tile.near { background: var(--gold); border-color: var(--gold); color: #05030f; }
+    .wd-tile.miss { background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.14); color: rgba(255,255,255,.45); }
+    .wd-entry { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; }
+    .wd-entry input {
+      width: min(220px, 60vw); padding: 11px 14px; text-align: center; text-transform: uppercase;
+      font-family: var(--font-head); font-size: 18px; letter-spacing: 6px; color: #fff;
+      background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.24); border-radius: 12px; outline: none;
+    }
+    .wd-entry input:focus { border-color: var(--cyan); box-shadow: 0 0 0 3px rgba(var(--cyan-rgb), .18); }
+    .pi-keys { position: relative; display: flex; width: 100%; max-width: 620px; margin: 0 auto; height: clamp(130px, 26vw, 180px); touch-action: manipulation; }
+    .pi-white {
+      position: relative; flex: 1; margin-right: 3px; border-radius: 0 0 8px 8px; cursor: pointer;
+      background: linear-gradient(180deg, #f4eefb, #cbbddd); border: 0; padding: 0;
+      display: flex; align-items: flex-end; justify-content: center; padding-bottom: 8px;
+      font-family: var(--font-body); font-size: 9.5px; color: #4a2b5c; transition: background .08s ease;
+    }
+    .pi-white:last-child { margin-right: 0; }
+    .pi-white.down { background: linear-gradient(180deg, #cd9edf, #9a5cb5); color: #fff; }
+    .pi-black {
+      position: absolute; top: 0; width: 8.6%; height: 62%; z-index: 3; cursor: pointer;
+      background: linear-gradient(180deg, #3b2450, #150b22); border: 0; border-radius: 0 0 6px 6px;
+      display: flex; align-items: flex-end; justify-content: center; padding-bottom: 6px;
+      font-family: var(--font-body); font-size: 8.5px; color: rgba(255,255,255,.6); transition: background .08s ease;
+    }
+    .pi-black.down { background: linear-gradient(180deg, #aa59c8, #5d2a75); color: #fff; }
+    .pi-note { text-align: center; margin-top: 16px; font-size: 13.5px; color: var(--ink-dim); }
+    .pi-note b { color: var(--cyan); font-family: var(--font-head); letter-spacing: 1px; }
+
     footer { text-align:center; padding:36px 16px 52px; font-size:13px; color:rgba(255,255,255,.5); }
     footer .fl { display:flex; flex-wrap:wrap; justify-content:center; gap:6px 0; }
     footer a { margin:0 9px; color:rgba(255,255,255,.66); text-decoration:none; }
@@ -487,32 +687,16 @@
 <main>
   <!-- ═══ HERO ═══ -->
   <section class="hero">
-    <div class="wrap hero-in">
+    <div class="hero-top">
       <span class="hero-age">Ages 7+</span>
       <div class="wordmark" id="hero-mark">DeepKids</div>
       <div class="hero-kinds" id="hero-kinds">Boardgames <i>·</i> Card Games <i>·</i> Picture Books</div>
-      <div class="hero-scene">
-        <img id="hero-art" src="kids-playing-cut.webp" alt="Four kids playing the EscapeGravity spiral board game" width="1357" height="970" fetchpriority="high" decoding="async"/>
-      </div>
+    </div>
+    <div class="hero-scene">
+      <img id="hero-art" src="kids-playing-cut.webp" alt="Four kids playing the EscapeGravity spiral board game" width="1357" height="970" fetchpriority="high" decoding="async"/>
+    </div>
+    <div class="hero-bot">
       <p class="hero-line">Games and books that take <b>one subject</b> and go properly into it — so a child ends up understanding it, not reciting it.</p>
-      <div class="hero-cta">
-        <a class="btn-wrap" href="#shop" onclick="dkSound('click')">
-          <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/></linearGradient>
-              <linearGradient id="h1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/></linearGradient>
-            </defs>
-            <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#g1)"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#h1)"/>
-            <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-          </svg>
-          <span class="btn-label">Shop All</span>
-        </a>
-      </div>
     </div>
   </section>
 
@@ -594,7 +778,116 @@
       </div>
     </div>
   </section>
+  <!-- ═════════ WHAT OUR GAMES ARE ═════════ -->
+  <section class="sec wrap">
+    <div class="sec-head">
+      <span class="sec-kicker rv">DeepKids games</span>
+      <h2 class="rv">Why You Should <em>Buy One</em></h2>
+    </div>
+    <div class="tiles">
+      <div class="tile rv"><b>Screen Free</b><span>Nothing to charge, nothing to download, no account. A box, a floor and people.</span></div>
+      <div class="tile rv"><b>Experiential</b><span>The concept arrives through the hands first — a throw, a balance, a jump — and is explained afterwards.</span></div>
+      <div class="tile rv"><b>Thought Through</b><span>Months of research and argument per box. Where the science is unsettled, the box says so.</span></div>
+      <div class="tile rv"><b>Out-Of-The-World Gameplay</b><span>A spiral board running from the Earth's core to deep space. Not a quiz with a board glued to it.</span></div>
+      <div class="tile rv"><b>Appropriately Challenging</b><span>Not the easiest game on the shelf, on purpose. Kids rise to it — they almost always do.</span></div>
+      <div class="tile rv"><b>Gets Kids Moving</b><span>35+ physical challenges. Somebody will be standing on one leg within ten minutes.</span></div>
+      <div class="tile rv"><b>Open-Ended Thinking</b><span>Questions with more than one good answer, and room to argue about which one is best.</span></div>
+      <div class="tile rv"><b>First Principles</b><span>Why things are the way they are, starting from the bottom — not a rule to apply and forget.</span></div>
+      <div class="tile rv"><b>Fundamentals</b><span>The load-bearing ideas, not the applications. Get these right and the rest follows on its own.</span></div>
+      <div class="tile rv"><b>Free Thinking</b><span>Permission to disagree with the box, with the textbook, and with you. That's the point.</span></div>
+      <div class="tile tile-not rv"><b>No Rote Memorisation</b><span>Nothing in here rewards remembering a list. You can't win by revising.</span></div>
+      <div class="tile tile-not rv"><b>Not Another STEM Kit</b><span>You don't build one gadget and shelve it. This is a game you come back to.</span></div>
+      <div class="tile tile-not rv"><b>Not Broken Content On Cards</b><span>Not the same copied, half-wrong facts printed on nicer cardboard. That's the whole reason we started.</span></div>
+    </div>
+  </section>
+
+  <!-- ═════════ PLAYGROUND ═════════ -->
+  <section class="sec wrap" id="playground">
+    <div class="sec-head">
+      <span class="sec-kicker rv">Free, and yours to keep</span>
+      <h2 class="rv">The <em>Playground</em></h2>
+      <p class="sec-lede rv rv2">Three things to play with right now — while the kids are asleep, or with them awake. No signup, nothing to install.</p>
+    </div>
+
+    <div class="toy rv" id="crossword">
+      <div class="toy-head"><h3>The Crossword</h3><span class="tag">For the grown-ups</span></div>
+      <p class="toy-sub">Nine answers, all from inside our boxes — gravity, evolution, forces, the scientists. Tap a clue to jump to it.</p>
+      <div class="xw-layout">
+        <div class="xw-scroll"><div class="xw-grid" id="xw-grid" role="grid" aria-label="Science crossword"></div></div>
+        <div>
+          <div class="xw-clues">
+            <div><h4>Across</h4><ol id="xw-across"></ol></div>
+            <div><h4>Down</h4><ol id="xw-down"></ol></div>
+          </div>
+          <div class="xw-actions">
+            <button type="button" class="toy-btn" onclick="xwCheck()">Check</button>
+            <button type="button" class="toy-btn" onclick="xwReveal()">Give up</button>
+            <button type="button" class="toy-btn" onclick="xwClear()">Clear</button>
+          </div>
+          <div class="toy-msg" id="xw-msg" role="status"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="toy rv" id="fivegram">
+      <div class="toy-head"><h3>Five</h3><span class="tag">New word every day</span></div>
+      <p class="toy-sub">Six guesses at today's five-letter science word. Green is right and in place, amber is right but somewhere else. Comes back different tomorrow.</p>
+      <div class="wd-board" id="wd-board"></div>
+      <div class="wd-entry">
+        <input id="wd-input" maxlength="5" autocomplete="off" autocapitalize="characters" spellcheck="false" aria-label="Your five-letter guess" placeholder="·····"/>
+        <button type="button" class="toy-btn" onclick="wdSubmit()">Guess</button>
+      </div>
+      <div class="toy-msg" id="wd-msg" role="status" style="text-align:center;"></div>
+    </div>
+
+    <div class="toy rv" id="piano">
+      <div class="toy-head"><h3>The Frequency Piano</h3><span class="tag">Physics you can hear</span></div>
+      <p class="toy-sub">Every key is a number of pushes per second. Play the low C, then the high C — the high one is pushing the air at <em>exactly double</em> the rate, which is the whole reason an octave sounds like the same note again.</p>
+      <div class="pi-keys" id="pi-keys"></div>
+      <p class="pi-note">Playing <b id="pi-now">—</b> &nbsp;·&nbsp; use your keyboard: A S D F G H J K, and W E T Y U for the black keys</p>
+    </div>
+  </section>
+
 </main>
+
+<div class="why-pop" id="why-pop" role="dialog" aria-label="Why this price">
+  <button type="button" class="close" onclick="dkWhyHide()" aria-label="Close">×</button>
+  <h5 id="why-title"></h5>
+  <ul id="why-list"></ul>
+</div>
+
+<div class="co-back" id="co-back" role="dialog" aria-modal="true" aria-label="Checkout">
+  <div class="co-box">
+    <button type="button" class="co-x" onclick="dkCoClose()" aria-label="Close">×</button>
+    <div id="co-form-wrap">
+      <h3>Checkout</h3>
+      <p class="co-sub">Delivered in 3 days. Pay online or in cash when it arrives.</p>
+      <div class="co-list" id="co-list"></div>
+      <div class="co-sum"><span>Total</span><b id="co-total">₹0</b></div>
+      <div class="co-f"><label for="co-name">Your name</label><input id="co-name" type="text" autocomplete="name" placeholder="Commander Jane" maxlength="60"/></div>
+      <div class="co-f"><label for="co-phone">WhatsApp number</label>
+        <div class="co-phone"><input id="co-cc" type="text" inputmode="tel" value="+91" aria-label="Country code" maxlength="5"/><input id="co-phone" type="tel" inputmode="tel" placeholder="98765 43210" maxlength="20"/></div>
+      </div>
+      <div class="co-f"><label for="co-addr">Delivery address</label><textarea id="co-addr" rows="2" placeholder="Flat, building, street, area"></textarea></div>
+      <div class="co-2">
+        <div class="co-f"><label for="co-city">City</label><input id="co-city" type="text"/></div>
+        <div class="co-f"><label for="co-pin">Pincode</label><input id="co-pin" type="text" inputmode="numeric" maxlength="6"/></div>
+      </div>
+      <div class="co-f"><label for="co-state">State</label><input id="co-state" type="text"/></div>
+      <div class="co-pay">
+        <button type="button" id="pay-online" class="on" onclick="dkPayType('online')">Pay Online<small>UPI · card · netbanking</small></button>
+        <button type="button" id="pay-cod" onclick="dkPayType('cod')">Cash On Delivery<small>Pay when it arrives</small></button>
+      </div>
+      <button type="button" class="co-go" id="co-go" onclick="dkPlaceOrder()">Pay Now</button>
+      <div class="co-msg" id="co-msg" role="status"></div>
+      <p class="co-note">🔒 Prices are re-checked on our server before anything is charged.</p>
+    </div>
+    <div class="co-done" id="co-done" style="display:none">
+      <div class="big">🚀 Order confirmed!</div>
+      <p id="co-done-b"></p>
+    </div>
+  </div>
+</div>
 
 <footer>
   <div class="fl">
@@ -628,6 +921,9 @@ function dkTone(freqs, dur, type, vol) {
       o.connect(g); g.connect(dkCtx.destination); o.start(at); o.stop(at + dur + 0.02);
     });
   } catch(e) {}
+}
+function dkToy(toy, detail) {
+  egGtag('event', 'playground', { event_category: 'engagement', event_label: toy, toy: toy, detail: detail || '' });
 }
 function dkSound(kind) {
   if (kind === 'right')    dkTone([660, 880, 1170], 0.16, 'sine', 0.14);
@@ -735,7 +1031,8 @@ function dkCartPaint() {
     if (p.preorder) anyPre = true;
     html += '<div class="cart-line"><img src="' + p.img + '" alt=""/>' +
             '<span class="cl-n">' + p.name + (l.qty > 1 ? ' ×' + l.qty : '') +
-            '<small>' + (p.preorder ? 'Pre-order · 15% off' : 'Ships in 3 days') + '</small></span>' +
+            '<button type="button" class="why-btn" data-why="' + p.sku + '" aria-label="Why this price?" onclick="dkWhy(\'' + p.sku + '\', this)">?</button>' +
+            '<small>' + (p.preorder ? 'Pre-order · 15% off applied' : 'Ships in 3 days') + '</small></span>' +
             '<span class="cl-p">' + dkRs(unit * l.qty) + '</span>' +
             '<button class="cl-x" aria-label="Remove ' + p.name + '" onclick="dkRemove(\'' + p.sku + '\')">×</button></div>';
   });
@@ -754,10 +1051,174 @@ function dkCheckout() {
     items: c.map(function(l){ var p = dkFind(l.sku); return { item_id: l.sku, item_name: p ? p.name : l.sku, quantity: l.qty }; }) });
   egFbq('track', 'InitiateCheckout', { content_ids: c.map(function(l){ return l.sku; }),
     content_type: 'product', currency: 'INR', value: total / 100 });
-  // The order form lives on /order; it reads dk-cart and prices every
-  // line server-side from the SKU before Razorpay is opened.
-  location.href = '/order?cart=1#checkout';
+  dkCoOpen();
 }
+
+/* ══════════════════════════════════════════════════════════════
+   "Why this price?" — every product carries its own answer and it
+   opens right next to the line, in the cart and in checkout. Nobody
+   gets navigated away mid-purchase to read it.
+   ══════════════════════════════════════════════════════════════ */
+var WHY = {
+  'EG-001': ['🏎️ 11+ real play objects in the box — cars, clay, a frisbee, balls',
+             '🛠️ Premium materials, built to survive years of hands',
+             '🎨 100% original hand-drawn artwork, nothing borrowed',
+             '🔬 Hundreds of hours of research behind every concept',
+             '📦 Made in small batches, not on a factory line'],
+  'SCI-001': ['🎨 Every card illustrated by hand, front and back',
+              '🔬 Each scientist researched properly — including the ones history skipped',
+              '🃏 Premium card stock, made to be shuffled and traded',
+              '📦 Small first print run'],
+  'EVO-001': ['🖌️ Every spread painted by hand for this book alone',
+              '🔬 Four billion years, checked and argued over',
+              '📖 Large format, heavy paper, made to be kept',
+              '📦 Small first print run']
+};
+function dkWhy(sku, el) {
+  var p = dkFind(sku); if (!p) return;
+  var pop = document.getElementById('why-pop');
+  document.getElementById('why-title').textContent = 'Why ' + dkRs(dkUnit(p)) + ' for ' + p.name + '?';
+  document.getElementById('why-list').innerHTML = (WHY[sku] || []).map(function(line){
+    var i = line.indexOf(' ');
+    return '<li><span>' + line.slice(0, i) + '</span>' + line.slice(i + 1) + '</li>';
+  }).join('');
+  pop.classList.add('on');
+  // Anchor it under the button, kept inside the viewport.
+  var r = el.getBoundingClientRect();
+  var w = pop.offsetWidth, h = pop.offsetHeight;
+  var left = Math.min(Math.max(8, r.left - w / 2 + r.width / 2), window.innerWidth - w - 8);
+  var top = (r.bottom + h + 12 < window.innerHeight) ? r.bottom + 8 : Math.max(8, r.top - h - 8);
+  pop.style.left = left + 'px'; pop.style.top = top + 'px';
+  dkSound('click');
+  egGtag('event', 'why_price', { event_category: 'engagement', event_label: sku });
+}
+function dkWhyHide(){ document.getElementById('why-pop').classList.remove('on'); }
+document.addEventListener('click', function(e){
+  if (!e.target.closest('#why-pop') && !e.target.closest('[data-why]')) dkWhyHide();
+}, true);
+
+/* ══ Checkout, right here ══ */
+var CO = { pay: 'online', busy: false };
+function dkPayType(t) {
+  CO.pay = t;
+  document.getElementById('pay-online').classList.toggle('on', t === 'online');
+  document.getElementById('pay-cod').classList.toggle('on', t === 'cod');
+  document.getElementById('co-go').textContent = (t === 'online') ? 'Pay Now' : 'Place Order';
+  dkSound('click');
+}
+function dkCoOpen() {
+  var c = dkCartRead(); if (!c.length) return;
+  var list = document.getElementById('co-list'), total = 0, html = '';
+  c.forEach(function(l){
+    var p = dkFind(l.sku); if (!p) return;
+    var unit = dkUnit(p); total += unit * l.qty;
+    html += '<div class="co-row"><span class="n">' + p.name + (l.qty > 1 ? ' ×' + l.qty : '') +
+            '<button type="button" class="why-btn" data-why="' + p.sku + '" aria-label="Why this price?" onclick="dkWhy(\'' + p.sku + '\', this)">?</button>' +
+            '<small>' + (p.preorder ? 'Pre-order · 15% off applied' : 'Ships in 3 days') + '</small></span>' +
+            '<span class="p">' + dkRs(unit * l.qty) + '</span></div>';
+  });
+  list.innerHTML = html;
+  document.getElementById('co-total').textContent = dkRs(total);
+  document.getElementById('co-back').classList.add('on');
+  document.getElementById('co-form-wrap').style.display = '';
+  document.getElementById('co-done').style.display = 'none';
+  dkCartToggle(false);
+}
+function dkCoClose(){ document.getElementById('co-back').classList.remove('on'); }
+
+function dkVal(id){ return (document.getElementById(id) || {}).value || ''; }
+function dkPlaceOrder() {
+  if (CO.busy) return;
+  var msg = document.getElementById('co-msg');
+  var name = dkVal('co-name').trim();
+  var cc = dkVal('co-cc').trim(), digits = dkVal('co-phone').replace(/\D/g, '');
+  var addr = dkVal('co-addr').trim(), city = dkVal('co-city').trim();
+  var pin = dkVal('co-pin').replace(/\D/g, ''), state = dkVal('co-state').trim();
+  msg.textContent = ''; msg.className = 'co-msg';
+  function bad(t){ msg.textContent = t; msg.className = 'co-msg err'; }
+  if (!name) return bad('Please enter your name.');
+  if (digits.length < 7 || digits.length > 15) return bad('Please enter a valid WhatsApp number.');
+  if (!addr) return bad('Please enter your delivery address.');
+  if (!city) return bad('Please enter your city.');
+  if (pin.length !== 6) return bad('Please enter a 6-digit pincode.');
+
+  var phone = (cc.indexOf('+') === 0 ? cc : '+' + cc) + digits;
+  var items = dkCartRead();
+  var total = items.reduce(function(a,l){ var p = dkFind(l.sku); return a + (p ? dkUnit(p) * l.qty : 0); }, 0);
+  CO.busy = true;
+  document.getElementById('co-go').disabled = true;
+  msg.textContent = 'Setting up your order…';
+
+  // Lead is saved first and independently — if payment falls over we
+  // still know who was trying to buy.
+  fetch('/api/save-draft', {
+    method:'POST', headers:{'Content-Type':'application/json'}, keepalive:true,
+    body: JSON.stringify({ phone: phone, rawPhone: digits, cc: cc, name: name,
+      address: addr, city: city, pincode: pin, state: state })
+  }).catch(function(){});
+
+  if (CO.pay === 'cod') {
+    dkOrderDone('cod', total, null);
+    return;
+  }
+
+  fetch('/api/create-order', {
+    method:'POST', headers:{'Content-Type':'application/json'},
+    body: JSON.stringify({ items: items })
+  }).then(function(r){ return r.json(); }).then(function(order){
+    if (!order || !order.order_id) throw new Error(order && order.error || 'Could not create order');
+    return dkRazorpay().then(function(){
+      var rz = new Razorpay({
+        key: 'rzp_live_T3ZTo2sM5OJff2',
+        amount: order.amount, currency: order.currency, order_id: order.order_id,
+        name: 'DeepKids', description: items.map(function(l){ var p = dkFind(l.sku); return p ? p.name : l.sku; }).join(', '),
+        prefill: { name: name, contact: phone },
+        notes: { address: addr + ', ' + city + ' ' + pin + ', ' + state },
+        theme: { color: '#aa59c8' },
+        handler: function(res){
+          fetch('/api/verify-payment', {
+            method:'POST', headers:{'Content-Type':'application/json'},
+            body: JSON.stringify(res)
+          }).catch(function(){});
+          dkOrderDone('paid', order.amount, res.razorpay_payment_id);
+        },
+        modal: { ondismiss: function(){ CO.busy = false; document.getElementById('co-go').disabled = false;
+          msg.textContent = 'Payment cancelled — your cart is still here.'; } }
+      });
+      rz.open();
+      msg.textContent = '';
+    });
+  }).catch(function(err){
+    CO.busy = false; document.getElementById('co-go').disabled = false;
+    bad('Something went wrong. Please try again, or message us on WhatsApp.');
+  });
+}
+function dkRazorpay() {
+  if (window.Razorpay) return Promise.resolve();
+  return new Promise(function(res, rej){
+    var sc = document.createElement('script');
+    sc.src = 'https://checkout.razorpay.com/v1/checkout.js';
+    sc.onload = res; sc.onerror = rej;
+    document.head.appendChild(sc);
+  });
+}
+function dkOrderDone(kind, paise, paymentId) {
+  var items = dkCartRead();
+  document.getElementById('co-form-wrap').style.display = 'none';
+  document.getElementById('co-done').style.display = 'block';
+  document.getElementById('co-done-b').textContent = (kind === 'cod')
+    ? 'We\'ll WhatsApp you to confirm, and you pay ' + dkRs(paise) + ' in cash when it arrives.'
+    : 'Payment received. We\'ll WhatsApp you the tracking details shortly.';
+  dkSound('checkout');
+  var value = paise / 100;
+  egGtag('event', 'purchase', { transaction_id: paymentId || ('cod_' + Date.now()),
+    value: value, currency: 'INR',
+    items: items.map(function(l){ var p = dkFind(l.sku); return { item_id: l.sku, item_name: p ? p.name : l.sku, quantity: l.qty }; }) });
+  egFbq('track', 'Purchase', { content_ids: items.map(function(l){ return l.sku; }),
+    content_type: 'product', value: value, currency: 'INR' }, paymentId ? { eventID: paymentId } : undefined);
+  dkCartWrite([]);
+}
+
 
 /* ══ Wishlist ══ */
 function dkWishRead() { try { return JSON.parse(localStorage.getItem(WISH_KEY) || '[]'); } catch(e) { return []; } }
@@ -1005,6 +1466,244 @@ dkQuizRender();
     });
   }, { passive:true });
 })();
+
+  /* ── Crossword ────────────────────────────────────────────
+     Layout solved offline and baked in, so every crossing agrees. */
+  var XW = {
+    h: 9, w: 13,
+    grid: [".......NEURON","...G.......X.","..FRICTION.Y.","...A...N...G.",".P.V..FEATHER",
+           "ORBIT..R...N.",".I.T...T.....",".S.Y..BIRDS..",".M.....A....."],
+    nums: {"0,7":1,"0,11":2,"1,3":3,"2,2":4,"2,7":5,"4,1":6,"4,6":7,"5,0":8,"7,6":9},
+    across: [
+      {n:1, r:0, c:7,  a:"NEURON",   q:"Thought, our picture book argues, came long before this"},
+      {n:4, r:2, c:2,  a:"FRICTION", q:"Why rubbing your hands together makes them warm"},
+      {n:7, r:4, c:6,  a:"FEATHER",  q:"In a vacuum, it lands at the same moment as the hammer"},
+      {n:8, r:5, c:0,  a:"ORBIT",    q:"Falling forever, and missing the ground every time"},
+      {n:9, r:7, c:6,  a:"BIRDS",    q:"What the dinosaurs that could already fly became"}
+    ],
+    down: [
+      {n:2, r:0, c:11, a:"OXYGEN",   q:"What cyanobacteria flooded a dying world with"},
+      {n:3, r:1, c:3,  a:"GRAVITY",  q:"The force our first game is one long fight against"},
+      {n:5, r:2, c:7,  a:"INERTIA",  q:"Why you lurch forward when the bus brakes"},
+      {n:6, r:4, c:1,  a:"PRISM",    q:"Splits white light into all the colours hiding in it"}
+    ]
+  };
+  var xwCells = {};
+  (function(){
+    var g = document.getElementById('xw-grid');
+    if (!g) return;
+    g.style.gridTemplateColumns = 'repeat(' + XW.w + ', auto)';
+    for (var r = 0; r < XW.h; r++) {
+      for (var c = 0; c < XW.w; c++) {
+        var ch = XW.grid[r][c];
+        var cell = document.createElement('div');
+        cell.className = 'xw-cell' + (ch === '.' ? ' block' : '');
+        if (ch !== '.') {
+          var n = XW.nums[r + ',' + c];
+          if (n) { var s = document.createElement('span'); s.className = 'xw-num'; s.textContent = n; cell.appendChild(s); }
+          var inp = document.createElement('input');
+          inp.maxLength = 1; inp.setAttribute('aria-label', 'Row ' + (r+1) + ' column ' + (c+1));
+          inp.dataset.r = r; inp.dataset.c = c;
+          cell.appendChild(inp);
+          xwCells[r + ',' + c] = { cell: cell, input: inp };
+        }
+        g.appendChild(cell);
+      }
+    }
+    var dir = 'across';
+    g.addEventListener('input', function(e){
+      var t = e.target; if (t.tagName !== 'INPUT') return;
+      t.value = (t.value || '').replace(/[^a-zA-Z]/g, '').toUpperCase().slice(0,1);
+      t.parentElement.classList.remove('right','wrong');
+      if (!t.value) return;
+      var r = +t.dataset.r, c = +t.dataset.c;
+      var nxt = xwCells[(dir === 'across' ? r : r+1) + ',' + (dir === 'across' ? c+1 : c)];
+      if (nxt) nxt.input.focus();
+      dkToy('crossword', 'typed');
+    });
+    g.addEventListener('keydown', function(e){
+      var t = e.target; if (t.tagName !== 'INPUT') return;
+      var r = +t.dataset.r, c = +t.dataset.c, k = e.key, tgt = null;
+      if (k === 'ArrowRight') tgt = xwCells[r + ',' + (c+1)];
+      else if (k === 'ArrowLeft') tgt = xwCells[r + ',' + (c-1)];
+      else if (k === 'ArrowDown') tgt = xwCells[(r+1) + ',' + c];
+      else if (k === 'ArrowUp') tgt = xwCells[(r-1) + ',' + c];
+      else if (k === 'Backspace' && !t.value) tgt = xwCells[(dir === 'across' ? r : r-1) + ',' + (dir === 'across' ? c-1 : c)];
+      if (tgt) { e.preventDefault(); tgt.input.focus(); }
+    });
+    function renderClues(list, into, d) {
+      var ol = document.getElementById(into);
+      list.forEach(function(cl){
+        var li = document.createElement('li');
+        li.innerHTML = '<b>' + cl.n + '.</b> ' + cl.q + ' <span style="opacity:.5">(' + cl.a.length + ')</span>';
+        li.onclick = function(){
+          dir = d;
+          [].forEach.call(document.querySelectorAll('.xw-clues li'), function(x){ x.classList.remove('active'); });
+          li.classList.add('active');
+          [].forEach.call(document.querySelectorAll('.xw-cell'), function(x){ x.classList.remove('lit'); });
+          for (var i = 0; i < cl.a.length; i++) {
+            var cc = xwCells[(d === 'across' ? cl.r : cl.r+i) + ',' + (d === 'across' ? cl.c+i : cl.c)];
+            if (cc) cc.cell.classList.add('lit');
+          }
+          var first = xwCells[cl.r + ',' + cl.c];
+          if (first) first.input.focus();
+          dkToy('crossword', 'clue_' + cl.n + d);
+        };
+        ol.appendChild(li);
+      });
+    }
+    renderClues(XW.across, 'xw-across', 'across');
+    renderClues(XW.down, 'xw-down', 'down');
+  })();
+
+  function xwEach(fn) {
+    XW.across.forEach(function(cl){ for (var i=0;i<cl.a.length;i++) fn(xwCells[cl.r + ',' + (cl.c+i)], cl.a[i]); });
+    XW.down.forEach(function(cl){ for (var i=0;i<cl.a.length;i++) fn(xwCells[(cl.r+i) + ',' + cl.c], cl.a[i]); });
+  }
+  function xwCheck() {
+    var wrong = 0, blank = 0;
+    xwEach(function(cc, ch){
+      if (!cc) return;
+      cc.cell.classList.remove('right','wrong');
+      var v = (cc.input.value || '').toUpperCase();
+      if (!v) { blank++; return; }
+      if (v === ch) cc.cell.classList.add('right'); else { cc.cell.classList.add('wrong'); wrong++; }
+    });
+    var m = document.getElementById('xw-msg');
+    if (!wrong && !blank) { m.textContent = 'All nine. Now go and argue with a textbook.'; m.className = 'toy-msg good'; dkToy('crossword','solved'); }
+    else if (wrong) { m.textContent = wrong + ' letter' + (wrong>1?'s':'') + ' off. The red ones.'; m.className = 'toy-msg bad'; }
+    else { m.textContent = 'Right so far — ' + blank + ' square' + (blank>1?'s':'') + ' still empty.'; m.className = 'toy-msg'; }
+    dkToy('crossword','check');
+  }
+  function xwReveal() {
+    xwEach(function(cc, ch){ if (cc) { cc.input.value = ch; cc.cell.classList.remove('wrong'); cc.cell.classList.add('right'); } });
+    var m = document.getElementById('xw-msg');
+    m.textContent = 'There you go. Every one of those is in a box.'; m.className = 'toy-msg';
+    dkToy('crossword','reveal');
+  }
+  function xwClear() {
+    xwEach(function(cc){ if (cc) { cc.input.value = ''; cc.cell.classList.remove('right','wrong'); } });
+    document.getElementById('xw-msg').textContent = '';
+  }
+
+  /* ── Five: a daily five-letter science word ───────────────*/
+  var WD_WORDS = ['FORCE','ATOMS','LIGHT','ORBIT','PRISM','SOLAR','LUNAR','GENES','CELLS','NERVE',
+                  'SPINE','OCEAN','MAGMA','QUARK','SOUND','WAVES','DELTA','ALPHA','GAMMA','SPACE',
+                  'EARTH','COMET','TIDAL','SOLID','VAPOR','STEAM','FLUID','ANGLE','CURVE','GRAPH',
+                  'LOGIC','PROOF','FIELD','PULSE','CRUST','AMBER','ALGAE','SPORE','LARVA','VENOM',
+                  'PLUME','SHELL','CORAL','WHALE','PHASE','RATIO','PRIME','IONIC','BONDS','ROOTS'];
+  var WD = { answer: '', row: 0, done: false, max: 6 };
+  (function(){
+    var board = document.getElementById('wd-board');
+    if (!board) return;
+    var day = Math.floor(Date.now() / 86400000);
+    WD.answer = WD_WORDS[day % WD_WORDS.length];
+    for (var r = 0; r < WD.max; r++) {
+      var row = document.createElement('div');
+      row.className = 'wd-row'; row.id = 'wd-row-' + r;
+      for (var c = 0; c < 5; c++) { var t = document.createElement('div'); t.className = 'wd-tile'; row.appendChild(t); }
+      board.appendChild(row);
+    }
+    var inp = document.getElementById('wd-input');
+    inp.addEventListener('input', function(){
+      inp.value = inp.value.replace(/[^a-zA-Z]/g, '').toUpperCase();
+      var tiles = document.getElementById('wd-row-' + WD.row);
+      if (!tiles) return;
+      for (var i = 0; i < 5; i++) {
+        var ch = inp.value[i] || '';
+        tiles.children[i].textContent = ch;
+        tiles.children[i].classList.toggle('filled', !!ch);
+      }
+    });
+    inp.addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); wdSubmit(); } });
+  })();
+  function wdSubmit() {
+    var inp = document.getElementById('wd-input');
+    var msg = document.getElementById('wd-msg');
+    if (WD.done) return;
+    var g = (inp.value || '').toUpperCase();
+    if (g.length !== 5) { msg.textContent = 'Five letters.'; msg.className = 'toy-msg bad'; return; }
+    // Two passes so a repeated letter can't be counted twice.
+    var ans = WD.answer.split(''), res = ['miss','miss','miss','miss','miss'], left = [];
+    for (var i = 0; i < 5; i++) { if (g[i] === ans[i]) res[i] = 'hit'; else left.push(ans[i]); }
+    for (var j = 0; j < 5; j++) {
+      if (res[j] === 'hit') continue;
+      var k = left.indexOf(g[j]);
+      if (k > -1) { res[j] = 'near'; left.splice(k, 1); }
+    }
+    var row = document.getElementById('wd-row-' + WD.row);
+    for (var m = 0; m < 5; m++) {
+      (function(m){ setTimeout(function(){
+        row.children[m].textContent = g[m];
+        row.children[m].classList.remove('filled');
+        row.children[m].classList.add(res[m]);
+      }, m * 110); })(m);
+    }
+    WD.row++;
+    inp.value = '';
+    if (g === WD.answer) {
+      WD.done = true; inp.disabled = true;
+      msg.textContent = 'Got it — ' + WD.answer + '. New word tomorrow.'; msg.className = 'toy-msg good';
+      dkToy('five', 'won_row' + WD.row);
+    } else if (WD.row >= WD.max) {
+      WD.done = true; inp.disabled = true;
+      msg.textContent = 'It was ' + WD.answer + '. Come back tomorrow for a new one.'; msg.className = 'toy-msg bad';
+      dkToy('five', 'lost');
+    } else {
+      msg.textContent = (WD.max - WD.row) + ' guess' + (WD.max - WD.row > 1 ? 'es' : '') + ' left.'; msg.className = 'toy-msg';
+      dkToy('five', 'guess' + WD.row);
+    }
+  }
+
+  /* ── The frequency piano ──────────────────────────────────*/
+  (function(){
+    var WHITE = [['C4',261.63,'a'],['D4',293.66,'s'],['E4',329.63,'d'],['F4',349.23,'f'],
+                 ['G4',392.00,'g'],['A4',440.00,'h'],['B4',493.88,'j'],['C5',523.25,'k']];
+    var BLACK = [['C#4',277.18,'w',0],['D#4',311.13,'e',1],['F#4',369.99,'t',3],['G#4',415.30,'y',4],['A#4',466.16,'u',5]];
+    var wrap = document.getElementById('pi-keys');
+    if (!wrap) return;
+    var ctx = null, byKey = {}, now = document.getElementById('pi-now');
+    function play(name, hz, el) {
+      try {
+        if (!ctx) ctx = new (window.AudioContext || window.webkitAudioContext)();
+        if (ctx.state === 'suspended') ctx.resume();
+        var o = ctx.createOscillator(), g = ctx.createGain(), t = ctx.currentTime;
+        o.type = 'triangle'; o.frequency.value = hz;
+        g.gain.setValueAtTime(0.0001, t);
+        g.gain.exponentialRampToValueAtTime(0.22, t + 0.015);
+        g.gain.exponentialRampToValueAtTime(0.0001, t + 1.5);
+        o.connect(g); g.connect(ctx.destination); o.start(t); o.stop(t + 1.6);
+      } catch(e) {}
+      if (now) now.textContent = name + ' — ' + hz.toFixed(2) + ' Hz';
+      if (el) { el.classList.add('down'); setTimeout(function(){ el.classList.remove('down'); }, 170); }
+      dkToy('piano', name);
+    }
+    WHITE.forEach(function(k){
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'pi-white'; b.textContent = k[0];
+      b.setAttribute('aria-label', k[0] + ', ' + k[1] + ' hertz');
+      b.addEventListener('pointerdown', function(e){ e.preventDefault(); play(k[0], k[1], b); });
+      wrap.appendChild(b);
+      byKey[k[2]] = { fn: function(){ play(k[0], k[1], b); } };
+    });
+    BLACK.forEach(function(k){
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'pi-black'; b.textContent = k[0];
+      b.setAttribute('aria-label', k[0] + ', ' + k[1] + ' hertz');
+      b.style.left = 'calc(' + ((k[3] + 1) * (100 / WHITE.length)) + '% - 4.3%)';
+      b.addEventListener('pointerdown', function(e){ e.preventDefault(); play(k[0], k[1], b); });
+      wrap.appendChild(b);
+      byKey[k[2]] = { fn: function(){ play(k[0], k[1], b); } };
+    });
+    document.addEventListener('keydown', function(e){
+      if (e.repeat || e.metaKey || e.ctrlKey || e.altKey) return;
+      var t = e.target;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA')) return;   // don't hijack the puzzles
+      var k = byKey[(e.key || '').toLowerCase()];
+      if (k) { e.preventDefault(); k.fn(); }
+    });
+  })();
+
 
 /* ══ Reveal on scroll ══ */
 if ('IntersectionObserver' in window) {
