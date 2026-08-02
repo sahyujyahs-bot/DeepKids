@@ -208,24 +208,36 @@
        takes every pixel left over after the type, and object-fit:contain
        keeps it whole — so it fills the width without ever overflowing
        the height, at any viewport. */
+    /* Everything from the tag down to the ticker lives in one screen.
+       Two rows: the type, then the scene taking whatever is left. */
     .hero {
       position:relative; height:100svh; overflow:hidden;
-      display:grid; grid-template-rows:auto 1fr auto;
-      padding-block:clamp(60px,9vh,96px) clamp(16px,3vh,34px);
+      display:grid; grid-template-rows:auto 1fr;
+      padding-block:clamp(56px,8vh,88px) 0;
     }
-    .hero-top, .hero-bot { text-align:center; padding-inline:clamp(16px,4vw,44px); }
+    .hero-top { text-align:center; padding-inline:clamp(16px,4vw,44px); position:relative; }
+    /* Same pill as the main site's hero, parked on the left rather than
+       centred over the wordmark. */
     .hero-age {
-      font-family:var(--font-head); font-variant:small-caps; letter-spacing:3px;
-      font-size:clamp(11px,1.5vw,14px); color:var(--cyan);
-      border:1px solid rgba(var(--cyan-rgb),.45); border-radius:999px;
-      padding:4px 16px; background:rgba(var(--cyan-rgb),.08); margin-bottom:clamp(10px,1.8vh,18px);
+      position:absolute; left:clamp(16px,4vw,44px); top:0;
+      font-family:var(--font-body); font-size:clamp(10px,1.3vw,14px);
+      letter-spacing:2px; text-transform:uppercase; color:rgba(255,255,255,.92);
+      background:rgba(10,6,24,.65); border:1px solid rgba(var(--purple-rgb),.4);
+      padding:6px clamp(12px,2vw,22px); border-radius:20px; white-space:nowrap;
+      text-shadow:0 0 10px rgba(205,158,223,.5);
+      box-shadow:0 0 16px rgba(var(--purple-rgb),.2), inset 0 0 8px rgba(var(--purple-rgb),.1);
+      animation:tagglow 3s ease-in-out infinite;
     }
+    @keyframes tagglow {
+      0%,100% { box-shadow:0 0 16px rgba(var(--purple-rgb),.2), inset 0 0 8px rgba(var(--purple-rgb),.1); }
+      50%     { box-shadow:0 0 28px rgba(var(--purple-rgb),.5), inset 0 0 14px rgba(var(--purple-rgb),.2); }
+    }
+    @media (max-width:640px){ .hero-age { position:static; display:inline-block; margin-bottom:10px; } }
+    @media (prefers-reduced-motion:reduce){ .hero-age { animation:none; } }
     .wordmark {
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px;
-      font-size:clamp(46px,12vw,132px); line-height:.9;
-      background:linear-gradient(180deg,#fff 0%,#e9c6f7 32%,var(--lilac) 64%,var(--purple) 100%);
-      -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent;
-      filter:drop-shadow(0 0 44px rgba(var(--purple-rgb),.55));
+      font-size:clamp(46px,12vw,132px); line-height:.9; color:#fff;
+      text-shadow:0 0 44px rgba(var(--purple-rgb),.6), 0 3px 18px rgba(0,0,0,.7);
     }
     .hero-kinds {
       display:flex; flex-wrap:wrap; justify-content:center; gap:5px 14px; margin-top:clamp(6px,1.2vh,14px);
@@ -240,8 +252,6 @@
       filter:drop-shadow(0 26px 46px rgba(0,0,0,.65)) drop-shadow(0 0 70px rgba(var(--purple-rgb),.3));
       will-change:transform;
     }
-    .hero-line { margin-top:clamp(12px,2vh,24px); max-width:640px; font-size:clamp(15px,2vw,19px); color:var(--ink); }
-    .hero-line b { color:#fff; }
     .hero-cta { margin-top:clamp(16px,2.6vh,28px); }
 
     /* ── USP ticker ───────────────────────────────────────────*/
@@ -276,27 +286,59 @@
     .sec-lede { max-width:640px; margin-top:14px; color:var(--ink); font-size:clamp(14.5px,1.9vw,17px); }
     .sec-head p { max-width:620px; margin:14px auto 0; color:var(--ink); font-size:clamp(14.5px,1.9vw,17px); }
 
-    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr)); gap:clamp(16px,2.4vw,28px); }
+    /* The catalog runs the full width of the screen and leads with
+       pictures: each product gets a swipeable gallery you can browse
+       without leaving the shop. */
+    .shop-full { width:100%; }
+    .grid { display:grid; grid-template-columns:1fr; gap:clamp(20px,3vw,34px); }
+    @media (min-width:1000px){ .grid { grid-template-columns:repeat(3,1fr); } }
     .card {
-      position:relative; display:flex; flex-direction:column; border-radius:20px; overflow:hidden;
+      position:relative; display:flex; flex-direction:column; border-radius:22px; overflow:hidden;
       background:linear-gradient(170deg,rgba(255,255,255,.06),rgba(255,255,255,.02) 70%);
       border:1px solid rgba(255,255,255,.14);
       transition:transform .35s ease, border-color .35s ease, box-shadow .35s ease;
     }
     .card:hover { transform:translateY(-6px); border-color:rgba(var(--purple-rgb),.55); box-shadow:0 26px 54px rgba(0,0,0,.55); }
-    /* Image-dominant: the picture is most of the card. */
-    .card-shot { position:relative; aspect-ratio:1/1; overflow:hidden; background:#120a24; display:block; cursor:pointer; }
-    .card-shot img { width:100%; height:100%; object-fit:cover; transition:transform .7s ease; }
-    .card:hover .card-shot img { transform:scale(1.06); }
+
+    /* Gallery: a scroll-snap strip, arrows on desktop, dots under it. */
+    .gal { position:relative; background:#120a24; }
+    .gal-strip {
+      display:flex; overflow-x:auto; scroll-snap-type:x mandatory;
+      scrollbar-width:none; -ms-overflow-style:none; overscroll-behavior-x:contain;
+    }
+    .gal-strip::-webkit-scrollbar { display:none; }
+    .gal-strip a {
+      flex:0 0 100%; scroll-snap-align:center; display:block;
+      aspect-ratio:4/3; background:#120a24;
+    }
+    @media (min-width:1000px){ .gal-strip a { aspect-ratio:1/1; } }
+    .gal-strip img { width:100%; height:100%; object-fit:cover; }
+    .gal-strip img.fit { object-fit:contain; padding:6%; }
+    .gal-nav {
+      position:absolute; top:50%; transform:translateY(-50%); z-index:3;
+      width:34px; height:34px; border-radius:50%; cursor:pointer;
+      background:rgba(10,6,24,.66); border:1px solid rgba(255,255,255,.28); color:#fff;
+      display:grid; place-items:center; font-size:16px; line-height:1;
+      backdrop-filter:blur(4px); -webkit-backdrop-filter:blur(4px);
+      opacity:0; transition:opacity .25s ease, background .2s ease;
+    }
+    .card:hover .gal-nav, .gal-nav:focus-visible { opacity:1; }
+    .gal-nav:hover { background:rgba(var(--purple-rgb),.6); }
+    .gal-prev { left:10px; } .gal-next { right:10px; }
+    @media (hover:none){ .gal-nav { display:none; } }
+    .gal-dots { position:absolute; left:0; right:0; bottom:10px; z-index:3;
+      display:flex; justify-content:center; gap:6px; pointer-events:none; }
+    .gal-dots i { width:6px; height:6px; border-radius:50%; background:rgba(255,255,255,.4); transition:background .2s ease, transform .2s ease; }
+    .gal-dots i.on { background:#fff; transform:scale(1.35); }
     .card-badge {
-      position:absolute; left:12px; top:12px; z-index:2;
+      position:absolute; left:12px; top:12px; z-index:4;
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px; font-size:11px;
       padding:3px 11px; border-radius:999px;
     }
     .b-now { color:#0a0618; background:var(--lime); }
     .b-pre { color:#0a0618; background:var(--gold); }
     .wish {
-      position:absolute; right:10px; top:10px; z-index:3; width:36px; height:36px; border-radius:50%;
+      position:absolute; right:10px; top:10px; z-index:4; width:36px; height:36px; border-radius:50%;
       border:1px solid rgba(255,255,255,.28); background:rgba(10,6,24,.6); cursor:pointer;
       display:grid; place-items:center; -webkit-tap-highlight-color:transparent;
       backdrop-filter:blur(4px); -webkit-backdrop-filter:blur(4px);
@@ -305,9 +347,9 @@
     .wish svg { width:18px; height:18px; fill:none; stroke:#fff; stroke-width:1.8; transition:fill .2s ease, stroke .2s ease; }
     .wish:hover { transform:scale(1.1); }
     .wish.on svg { fill:var(--rose); stroke:var(--rose); }
-    .card-body { padding:clamp(16px,2vw,22px); display:flex; flex-direction:column; flex:1; }
+    .card-body { padding:clamp(16px,2vw,24px); display:flex; flex-direction:column; flex:1; }
     .card-kind { font-size:11px; letter-spacing:2px; text-transform:uppercase; color:var(--lilac); }
-    .card-body h3 { font-size:clamp(20px,2.6vw,25px); color:#fff; letter-spacing:.5px; margin:4px 0 6px; }
+    .card-body h3 { font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:.5px; margin:4px 0 6px; }
     .card-body p { font-size:13.5px; color:var(--ink-dim); flex:1; }
     .card-price { display:flex; align-items:baseline; gap:9px; margin:14px 0 12px; flex-wrap:wrap; }
     .card-price .now { font-family:var(--font-head); font-size:clamp(22px,3vw,28px); color:#fff; letter-spacing:1px; }
@@ -328,9 +370,9 @@
     .card-buy.added { background:rgba(255,255,255,.16); color:#fff; }
     .card-more {
       display:block; text-align:center; margin-top:9px; font-size:13px; color:var(--lilac);
-      text-decoration:none; border-bottom:1px solid transparent; align-self:center;
+      text-decoration:none; align-self:center;
     }
-    .card-more:hover { border-bottom-color:var(--lilac); }
+    .card-more:hover { text-decoration:underline; }
 
     /* ── Comics-style broken systems ──────────────────────────*/
     .comic { padding-block:var(--gap-section); }
@@ -688,15 +730,12 @@
   <!-- ═══ HERO ═══ -->
   <section class="hero">
     <div class="hero-top">
-      <span class="hero-age">Ages 7+</span>
+      <span class="hero-age">Ages 7+ · 2+ Players · 30 Min</span>
       <div class="wordmark" id="hero-mark">DeepKids</div>
       <div class="hero-kinds" id="hero-kinds">Boardgames <i>·</i> Card Games <i>·</i> Picture Books</div>
     </div>
     <div class="hero-scene">
       <img id="hero-art" src="kids-playing-cut.webp" alt="Four kids playing the EscapeGravity spiral board game" width="1357" height="970" fetchpriority="high" decoding="async"/>
-    </div>
-    <div class="hero-bot">
-      <p class="hero-line">Games and books that take <b>one subject</b> and go properly into it — so a child ends up understanding it, not reciting it.</p>
     </div>
   </section>
 
@@ -706,7 +745,7 @@
   </div>
 
   <!-- ═══ SHOP ═══ -->
-  <section class="sec wrap" id="shop">
+  <section class="sec" id="shop" style="padding-inline:clamp(14px,3vw,32px)">
     <div class="sec-head">
       <span class="sec-kicker rv">The shelf</span>
       <h2 class="rv">Shop <em>DeepKids</em></h2>
@@ -973,13 +1012,19 @@ var PREORDER_OFF = 0.15;
 var CATALOG = [
   { sku:'EG-001', name:'EscapeGravity', kind:'Boardgame · 2–6 players · ages 7+',
     blurb:'A race to the Space Station where gravity fights back. 35+ physical challenges, 13 forces, and a spiral board from the Earth’s core to deep space.',
-    price:499900, preorder:false, img:'gift-box-hero.webp', href:'/' },
+    price:499900, preorder:false, href:'/',
+    shots:[ {src:'eg-box-new.webp', fit:true}, {src:'full-board-tour.webp'},
+            {src:'box-contents.webp'}, {src:'kit-items.webp'}, {src:'gift-kids-hero.webp'} ] },
   { sku:'SCI-001', name:'SCI. Trading Cards', kind:'Card game · ages 7+',
     blurb:'Scientists as trading cards. Each one carries a discovery, the truth underneath it, and where you meet that truth in ordinary life.',
-    price:119900, preorder:true, img:'more-sci-front.webp', href:'/sci' },
+    price:119900, preorder:true, href:'/sci',
+    shots:[ {src:'sci-brahmagupta-front.webp', fit:true}, {src:'sci-noether-front.webp', fit:true},
+            {src:'sci-brahmagupta-back.webp', fit:true}, {src:'sci-noether-back.webp', fit:true} ] },
   { sku:'EVO-001', name:'The Story Of Evolution', kind:'Picture book · kids & adults',
     blurb:'Four billion years told once, properly — hand-painted, and accurate all the way through. For reading together.',
-    price:249900, preorder:true, img:'more-evo-pin.webp', href:'/evolution' }
+    price:249900, preorder:true, href:'/evolution',
+    shots:[ {src:'more-evo-pin.webp'}, {src:'more-evo-1.webp'}, {src:'more-evo-4.webp'},
+            {src:'more-evo-6.webp'}, {src:'more-evo-3.webp'} ] }
 ];
 // Rounded to whole rupees, exactly as /api/create-order does it — the two
 // must agree or the cart total won't match what Razorpay charges.
@@ -1244,14 +1289,23 @@ function dkWish(sku, el) {
     var unit = dkUnit(p);
     var card = document.createElement('article');
     card.className = 'card rv' + (i ? ' rv' + Math.min(i + 1, 3) : '');
+    var shots = p.shots.map(function(sh){
+      return '<a href="' + p.href + '" target="_blank" rel="noopener" data-go="' + p.sku + '">' +
+             '<img src="' + sh.src + '" alt="' + p.name + '"' + (sh.fit ? ' class="fit"' : '') +
+             ' loading="lazy" decoding="async"/></a>';
+    }).join('');
+    var dots = p.shots.map(function(_, n){ return '<i' + (n ? '' : ' class="on"') + '></i>'; }).join('');
     card.innerHTML =
-      '<a class="card-shot" href="' + p.href + '" target="_blank" rel="noopener" data-go="' + p.sku + '">' +
-        '<img src="' + p.img + '" alt="' + p.name + '" loading="lazy" decoding="async"/>' +
+      '<div class="gal" data-gal="' + p.sku + '">' +
+        '<div class="gal-strip">' + shots + '</div>' +
+        '<button type="button" class="gal-nav gal-prev" aria-label="Previous image" data-step="-1">‹</button>' +
+        '<button type="button" class="gal-nav gal-next" aria-label="Next image" data-step="1">›</button>' +
+        '<span class="gal-dots">' + dots + '</span>' +
         '<span class="card-badge ' + (p.preorder ? 'b-pre">Pre-order' : 'b-now">Shipping now') + '</span>' +
-      '</a>' +
-      '<button type="button" class="wish' + (wish.indexOf(p.sku) > -1 ? ' on' : '') + '" aria-label="Save ' + p.name + '" data-wish="' + p.sku + '">' +
-        '<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-9.2A4.1 4.1 0 0 1 12 8a4.1 4.1 0 0 1 7 2.8C19 15.6 12 20 12 20z"/></svg>' +
-      '</button>' +
+        '<button type="button" class="wish' + (wish.indexOf(p.sku) > -1 ? ' on' : '') + '" aria-label="Save ' + p.name + '" data-wish="' + p.sku + '">' +
+          '<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-9.2A4.1 4.1 0 0 1 12 8a4.1 4.1 0 0 1 7 2.8C19 15.6 12 20 12 20z"/></svg>' +
+        '</button>' +
+      '</div>' +
       '<div class="card-body">' +
         '<span class="card-kind">' + p.kind + '</span>' +
         '<h3>' + p.name + '</h3>' +
@@ -1279,6 +1333,29 @@ function dkWish(sku, el) {
       // Opens in a new tab (target=_blank), so this page — and the cart —
       // is still sitting here when they come back.
     }
+  });
+  // Arrows step the strip; the dots follow whatever the strip is showing,
+  // so swiping and clicking stay in sync.
+  g.addEventListener('click', function(e){
+    var nav = e.target.closest('.gal-nav');
+    if (!nav) return;
+    e.preventDefault();
+    var strip = nav.parentNode.querySelector('.gal-strip');
+    strip.scrollBy({ left: (+nav.getAttribute('data-step')) * strip.clientWidth, behavior: 'smooth' });
+    dkSound('click');
+  });
+  [].forEach.call(g.querySelectorAll('.gal'), function(gal){
+    var strip = gal.querySelector('.gal-strip');
+    var dots = gal.querySelectorAll('.gal-dots i');
+    var t = false;
+    strip.addEventListener('scroll', function(){
+      if (t) return; t = true;
+      requestAnimationFrame(function(){
+        t = false;
+        var i = Math.round(strip.scrollLeft / Math.max(strip.clientWidth, 1));
+        [].forEach.call(dots, function(d, n){ d.classList.toggle('on', n === i); });
+      });
+    }, { passive: true });
   });
   dkCartPaint();
 })();
