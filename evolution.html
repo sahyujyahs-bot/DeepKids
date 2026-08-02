@@ -376,34 +376,64 @@
     .reader-nav button:hover { background: rgba(var(--purple-rgb), .3); color: #fff; }
     .reader-nav button[disabled] { opacity: .35; cursor: default; }
 
-    /* ─── Tree of life ────────────────────────────────────────*/
-    /* Lines connect a parent to its descendants — the elbows are drawn
-       with borders on the list items, so the whole thing reflows. */
-    .tree { overflow-x: auto; overscroll-behavior-x: contain; padding-bottom: 8px; }
-    .tree ul { list-style: none; margin: 0; padding-left: clamp(16px, 2.4vw, 26px); }
-    .tree > ul { padding-left: 0; }
-    .tree li { position: relative; padding: 3px 0 3px clamp(16px, 2.4vw, 26px); }
-    .tree > ul > li { padding-left: 0; }
-    .tree li::before {
-      content: ''; position: absolute; left: 0; top: 0; bottom: 0;
-      border-left: 1px solid rgba(var(--purple-rgb), .45);
+    /* ─── Chapter flow ────────────────────────────────────────*/
+    /* Seventy-six chapters is a wall as a list. As a flow it reads as
+       what it is: one chain, where each link is the consequence of the
+       one before. Two columns on a wide screen, each carrying its own
+       spine — a single absolutely-positioned line cannot follow CSS
+       columns, so the second column had dots and no thread. */
+    .flow { counter-reset: flow; display: grid; grid-template-columns: 1fr; gap: clamp(24px, 4vw, 56px); }
+    @media (min-width: 820px) { .flow { grid-template-columns: 1fr 1fr; } }
+    .flow-col { position: relative; padding-left: clamp(34px, 4.4vw, 46px); }
+    .flow-col::before {
+      content: ''; position: absolute; left: clamp(13px, 1.8vw, 17px); top: 10px; bottom: 10px;
+      width: 2px; border-radius: 2px;
+      background: linear-gradient(180deg,
+        rgba(var(--purple-rgb), .12), rgba(var(--purple-rgb), .65) 8%,
+        rgba(var(--purple-rgb), .65) 92%, rgba(var(--purple-rgb), .12));
     }
-    .tree li::after {
-      content: ''; position: absolute; left: 0; top: 17px;
-      width: clamp(11px, 1.6vw, 18px); border-top: 1px solid rgba(var(--purple-rgb), .45);
+    .flow-era { position: relative; margin: clamp(22px, 3.2vh, 34px) 0 10px; }
+    .flow-col > .flow-era:first-child { margin-top: 0; }
+    .flow-era::before {
+      content: ''; position: absolute;
+      left: calc(-1 * clamp(34px, 4.4vw, 46px) + clamp(8px, 1.2vw, 12px));
+      top: 6px; width: 12px; height: 12px; border-radius: 50%;
+      background: var(--gold); box-shadow: 0 0 0 4px #0b0718, 0 0 14px rgba(255,179,0,.65);
     }
-    .tree li:last-child::before { bottom: auto; height: 17px; }
-    .tree > ul > li::before, .tree > ul > li::after { display: none; }
-    .tree b {
-      display: inline-block; font-family: var(--font-head); font-variant: small-caps;
-      letter-spacing: 1.5px; font-weight: normal; font-size: clamp(13px, 1.7vw, 15.5px);
-      color: #fff; background: rgba(var(--purple-rgb), .16);
-      border: 1px solid rgba(var(--purple-rgb), .4); border-radius: 999px; padding: 3px 13px;
-      white-space: nowrap;
+    .flow-era h3 {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: clamp(14px, 2.1vw, 19px); color: #fff;
     }
-    .tree li.root > b { color: #0a0618; background: var(--gold); border-color: var(--gold); }
-    .tree li.leaf > b { background: none; border-color: rgba(255,255,255,.16); color: var(--ink); }
-    .tree li > small { display: block; margin: 2px 0 0 4px; font-size: 11.5px; color: var(--ink-dim); }
+    .flow-era span {
+      display: block; font-family: var(--font-head); font-variant: small-caps;
+      letter-spacing: 2px; font-size: clamp(10px, 1.3vw, 12px); color: var(--gold); opacity: .85;
+    }
+    /* The number is the node — one marker, not a number sitting behind a
+       dot where neither could be read. */
+    .flow-step {
+      position: relative; display: block; padding: 6px 0;
+      font-size: clamp(13.5px, 1.7vw, 15.5px); color: var(--ink);
+      transition: color .18s ease;
+    }
+    .flow-step::before {
+      counter-increment: flow; content: counter(flow);
+      position: absolute; left: calc(-1 * clamp(34px, 4.4vw, 46px)); top: 4px;
+      width: clamp(26px, 3.6vw, 34px); height: 20px; line-height: 20px; text-align: center;
+      font-family: var(--font-head); font-size: 11px;
+      color: var(--lilac); background: #0b0718;
+      border: 1px solid rgba(var(--purple-rgb), .5); border-radius: 999px;
+      transition: background .18s ease, color .18s ease, border-color .18s ease;
+    }
+    a.flow-step { text-decoration: none; }
+    a.flow-step:hover { color: #fff; }
+    a.flow-step:hover::before { background: var(--purple); color: #fff; border-color: var(--purple); }
+    /* A chapter you can actually look at on this page says so. */
+    .flow-step em {
+      font-style: normal; font-family: var(--font-head); font-variant: small-caps;
+      letter-spacing: 1.5px; font-size: 10.5px; color: var(--gold);
+      border: 1px solid rgba(255,179,0,.4); border-radius: 999px; padding: 1px 8px;
+      margin-left: 7px; white-space: nowrap;
+    }
     /* ─── Difference list ─────────────────────────────────────*/
     .diffs { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: clamp(14px, 2vw, 20px); }
     .diff {
@@ -620,15 +650,104 @@
     </div>
   </section>
 
-  <!-- ═══════════════ TREE ═══════════════ -->
-  <section class="zone wrap" id="tree">
+  <!-- ═══════════════ CHAPTERS ═══════════════ -->
+  <section class="zone wrap" id="chapters">
     <div class="zone-head">
-      <span class="zone-kicker rv">One family</span>
-      <h2 class="rv">Everything Alive, <em>Related</em></h2>
-      <p class="zone-lede rv rv2">Every branch here started as a change in the branch before it. Follow any line back far enough and you arrive at the same cell.</p>
+      <span class="zone-kicker rv">The whole arc &middot; 76 chapters</span>
+      <h2 class="rv">One Continuous <em>Story</em></h2>
+      <p class="zone-lede rv rv2">Not a list of facts by category. Read it front to back and every chapter is the consequence of the one before it &mdash; from before there was time, to what happens after us.</p>
     </div>
-    <div class="tree rv">
-      <ul><li class="root"><b>LUCA &mdash; the first cell</b><small>our great grandmother</small><ul><li class="leaf"><b>Archaea</b></li><li><b>Bacteria</b><ul><li class="leaf"><b>Cyanobacteria</b><small>the life savers</small></li></ul></li><li><b>Eukaryotes</b><small>archaea and bacteria, merged</small><ul><li><b>Plants</b><small>kept the chloroplast</small><ul><li class="leaf"><b>Green Algae</b></li><li><b>Land Plants</b><ul><li class="leaf"><b>Ferns</b></li><li><b>Woody Stems</b><ul><li class="leaf"><b>Trees</b></li></ul></li><li><b>Flowers</b><ul><li class="leaf"><b>Grass</b></li><li class="leaf"><b>Bananas</b></li></ul></li></ul></li></ul></li><li><b>Fungi</b><small>digest outside the body</small><ul><li class="leaf"><b>Fungi On Land</b></li></ul></li><li><b>Animals</b><ul><li class="leaf"><b>Sponges</b><small>the first animal</small></li><li class="leaf"><b>Comb Jellies</b><small>the first predators</small></li><li class="leaf"><b>Cnidarians</b></li><li><b>Bilateria</b><small>a left, a right, and a head</small><ul><li><b>Protostomes</b><small>mouth first</small><ul><li><b>Arthropods</b><ul><li class="leaf"><b>Euthycarcinoids</b><small>first onto land</small></li><li class="leaf"><b>Scorpion</b></li><li class="leaf"><b>Insects</b><small>and the first fliers</small></li><li class="leaf"><b>Crabs &amp; Shrimps</b></li><li class="leaf"><b>Spider</b></li><li class="leaf"><b>Ants</b></li></ul></li><li><b>Molluscs</b><ul><li class="leaf"><b>Octopus</b><small>nine brains</small></li></ul></li></ul></li><li><b>Deuterostomes</b><small>the other path &mdash; ours</small><ul><li><b>Chordates</b><ul><li><b>Fishes &amp; Vertebrates</b><ul><li class="leaf"><b>Tiktaalik</b><small>fins that could push</small></li><li><b>Tetrapods</b><ul><li class="leaf"><b>Amphibians</b></li><li><b>Amniotes</b><small>the egg that could leave water</small><ul><li><b>Sauropsids</b><ul><li class="leaf"><b>Turtles &amp; Tortoises</b></li><li class="leaf"><b>Snakes</b></li><li class="leaf"><b>Crocodiles</b></li><li><b>Dinosaurs</b><ul><li class="leaf"><b>Birds</b><small>the ones still here</small></li></ul></li><li class="leaf"><b>Owl</b></li></ul></li><li><b>Synapsids</b><ul><li><b>Mammals</b><ul><li class="leaf"><b>Monotremes</b></li><li class="leaf"><b>Marsupials</b></li><li><b>Placentals</b><ul><li class="leaf"><b>Afrotheres</b></li><li class="leaf"><b>Xenarthra</b></li><li class="leaf"><b>Rodents</b></li><li class="leaf"><b>Bats, Shrews &amp; Hedgehogs</b></li><li><b>Carnivorans</b><ul><li class="leaf"><b>Dogs</b></li><li class="leaf"><b>Domestic Cats</b></li></ul></li><li><b>Ungulates</b><ul><li class="leaf"><b>Pigs, Camels &amp; Wild Boar</b></li><li class="leaf"><b>Rhino &mdash; odd-toed</b></li><li class="leaf"><b>Horses</b></li><li class="leaf"><b>Whales &amp; Dolphins</b><small>back to the water</small></li></ul></li><li><b>Primates</b><ul><li><b>Hominins</b><ul><li class="leaf"><b>Homo Sapiens</b><small>us</small></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>
+    <div class="flow rv">
+      <div class="flow-col">
+      <div class="flow-era"><h3>Before time</h3></div>
+      <div class="flow-step">The Silent Infinite</div>
+      <div class="flow-step">The First Dance Of Creation</div>
+      <div class="flow-era"><h3>A world forms</h3><span>~4.5 – 4.2 billion years</span></div>
+      <div class="flow-step">Birth Of Earth</div>
+      <a class="flow-step" href="#art">Early Earth <em>on this page</em></a>
+      <a class="flow-step" href="#art">Moon Rise <em>on this page</em></a>
+      <a class="flow-step" href="#art">Water, Water <em>on this page</em></a>
+      <div class="flow-step">The Question Of God</div>
+      <div class="flow-era"><h3>First life</h3><span>~3.8 – 2.5 billion years</span></div>
+      <a class="flow-step" href="#read">OG Ancestor <em>on this page</em></a>
+      <div class="flow-step">Happy Fam</div>
+      <a class="flow-step" href="#art">Alien Zombies <em>on this page</em></a>
+      <a class="flow-step" href="#read">Life Savers <em>on this page</em></a>
+      <div class="flow-era"><h3>The long middle</h3><span>~2.1 – 1 billion years</span></div>
+      <div class="flow-step">The Great Alliances</div>
+      <div class="flow-step">Eukaryotes</div>
+      <a class="flow-step" href="#art">The Arms Race Called Gender <em>on this page</em></a>
+      <a class="flow-step" href="#art">First Plant <em>on this page</em></a>
+      <div class="flow-step">First Fungi</div>
+      <div class="flow-step">First Animal</div>
+      <div class="flow-step">Green Algae</div>
+      <div class="flow-era"><h3>Animals arrive</h3><span>~730 – 500 million years</span></div>
+      <div class="flow-step">Fungi On Land</div>
+      <a class="flow-step" href="#art">Comb Jellies <em>on this page</em></a>
+      <a class="flow-step" href="#read">Thought Predates Neurons <em>on this page</em></a>
+      <div class="flow-step">Cnidarians</div>
+      <div class="flow-step">Symmetry Born</div>
+      <div class="flow-step">Protostomes — Predators Of Their Time</div>
+      <a class="flow-step" href="#art">Deuterostomes <em>on this page</em></a>
+      <div class="flow-step">Land Plants</div>
+      <div class="flow-step">Parasites</div>
+      <div class="flow-step">Euthycarcinoids</div>
+      <a class="flow-step" href="#art">Vertebrates And Fishes <em>on this page</em></a>
+      <div class="flow-step">Scorpion</div>
+      </div>
+      <div class="flow-col">
+      <div class="flow-era"><h3>Onto land</h3><span>~515 – 360 million years</span></div>
+      <div class="flow-step">Plants Take Root</div>
+      <div class="flow-step">Woody Stems</div>
+      <a class="flow-step" href="#art">Trees <em>on this page</em></a>
+      <div class="flow-step">Tiktaalik</div>
+      <div class="flow-step">Earliest Tetrapods</div>
+      <a class="flow-step" href="#art">Insects <em>on this page</em></a>
+      <div class="flow-step">Crabs And Shrimps</div>
+      <div class="flow-step">Ferns</div>
+      <div class="flow-era"><h3>The age of reptiles</h3></div>
+      <div class="flow-step">Amphibians, Amniotes</div>
+      <div class="flow-step">Turtles</div>
+      <div class="flow-step">Reptiles — Sauropsids</div>
+      <a class="flow-step" href="#art">Octopus <em>on this page</em></a>
+      <div class="flow-step">Crocodile — Sauropsids</div>
+      <div class="flow-step">Dinosaurs</div>
+      <div class="flow-step">Monotremes</div>
+      <div class="flow-step">Marsupials</div>
+      <div class="flow-step">Flowers</div>
+      <div class="flow-step">Birds</div>
+      <div class="flow-step">Tortoises</div>
+      <div class="flow-era"><h3>Mammals take over</h3></div>
+      <div class="flow-step">Snakes</div>
+      <div class="flow-step">Grass</div>
+      <div class="flow-step">Afrotheres</div>
+      <div class="flow-step">Wild Boar</div>
+      <div class="flow-step">Xenarthra</div>
+      <div class="flow-step">Rodents</div>
+      <div class="flow-step">Primates</div>
+      <div class="flow-step">Pigs & Camels</div>
+      <div class="flow-step">Bats, Shrews & Hedgehogs</div>
+      <div class="flow-step">Rhino — Odd-Toed</div>
+      <div class="flow-step">Whales & Dolphins</div>
+      <div class="flow-step">Horses</div>
+      <div class="flow-step">Carnivorous Mammals</div>
+      <div class="flow-era"><h3>Us</h3></div>
+      <div class="flow-step">Hominins</div>
+      <div class="flow-step">Homo Sapiens</div>
+      <div class="flow-era"><h3>And after</h3></div>
+      <div class="flow-step">World After Humans</div>
+      <div class="flow-step">Bananas</div>
+      <div class="flow-step">Need Drives Innovation</div>
+      <div class="flow-step">Internal Decay — External Replication</div>
+      <div class="flow-step">Ants</div>
+      <div class="flow-step">Dogs</div>
+      <div class="flow-step">Spider</div>
+      <div class="flow-step">Domestic Cats</div>
+      <div class="flow-step">Back &amp; Forth, Land To Water</div>
+      <div class="flow-step">Species No More</div>
+      <div class="flow-step">Owl</div>
+      <div class="flow-step">Sea Horse</div>
+      </div>
     </div>
   </section>
 
@@ -636,7 +755,8 @@
   <section class="zone wrap">
     <div class="zone-head">
       <span class="zone-kicker rv">Why this one</span>
-      <h2 class="rv">There Are Plenty Of<br/>Evolution Books. <em>None This Deep.</em></h2>
+      <h2 class="rv">There Are Plenty Of Evolution Books.<br/><em>None As Thoughtful As This One.</em></h2>
+      <p class="zone-lede rv rv2">None researched this deeply, and none free of the human supremacy bias that runs through almost all of them. <b>We are a class apart.</b></p>
       <p class="zone-lede rv rv2">What is on each page is not the readily available paragraph about a species. It is every system it ran, every innovation it made, and the story of why it had to.</p>
     </div>
     <div class="diffs">
