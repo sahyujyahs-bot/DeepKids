@@ -18,13 +18,43 @@ export async function onRequestPost(context) {
     const body = await request.json().catch(() => ({}));
 
     // Price is computed server-side so the charged amount can never be
-    // tampered with from the browser. The client's `amount` is ignored.
-    const BASE_AMOUNT = 499900;              // ₹4,999 (EscapeGravity) in paise
+    // tampered with from the browser. The client's `amount` is ignored,
+    // and so is any price it sends per line — only the SKU is trusted.
+    const CATALOG = {
+      'EG-001':  { name: 'EscapeGravity',           paise: 499900, preorder: false },
+      'SCI-001': { name: 'SCI. Trading Cards',      paise: 119900, preorder: true  },
+      'EVO-001': { name: 'The Story Of Evolution',  paise: 249900, preorder: true  }
+    };
+    const PREORDER_OFF = 0.15;               // 15% off anything not yet shipping
+    const BASE_AMOUNT = CATALOG['EG-001'].paise;
     const COUPONS = { 'EG200': 20000 };      // code (UPPERCASE) -> paise off
     const coupon = String(body.coupon || '').trim().toUpperCase();
     const discount = (coupon && COUPONS[coupon]) ? COUPONS[coupon] : 0;
     const couponApplied = discount ? coupon : '';
-    const amount = Math.max(BASE_AMOUNT - discount, 100);
+
+    // A cart of {sku, qty} if the shop sent one; otherwise the original
+    // single-EscapeGravity path, so /order and the homepage keep working.
+    let subtotal = BASE_AMOUNT;
+    let lines = [{ sku: 'EG-001', name: CATALOG['EG-001'].name, qty: 1, paise: BASE_AMOUNT }];
+    if (Array.isArray(body.items) && body.items.length) {
+      lines = [];
+      subtotal = 0;
+      for (const raw of body.items.slice(0, 20)) {
+        const sku = String(raw && raw.sku || '').trim().toUpperCase();
+        const item = CATALOG[sku];
+        if (!item) continue;                                   // unknown SKU: ignored, never charged
+        const qty = Math.min(Math.max(parseInt(raw.qty, 10) || 1, 1), 10);
+        // Rounded to whole rupees so the charged total matches the cart
+        // the visitor was shown, to the paisa.
+        const unit = item.preorder
+          ? Math.round(item.paise * (1 - PREORDER_OFF) / 100) * 100
+          : item.paise;
+        subtotal += unit * qty;
+        lines.push({ sku, name: item.name, qty, paise: unit });
+      }
+      if (!lines.length) return json({ error: 'Cart is empty or contains no valid items' }, 400);
+    }
+    const amount = Math.max(subtotal - discount, 100);
 
     const auth = btoa(`${keyId}:${keySecret}`);
     const res = await fetch('https://api.razorpay.com/v1/orders', {
@@ -58,7 +88,8 @@ export async function onRequestPost(context) {
       phone: body.phone,
       value: amount / 100
     }));
-    return json({ order_id: order.id, amount: order.amount, currency: order.currency, coupon: couponApplied, discount: discount });
+    return json({ order_id: order.id, amount: order.amount, currency: order.currency,
+                   coupon: couponApplied, discount: discount, subtotal: subtotal, items: lines });
   } catch (err) {
     return json({ error: 'Unexpected server error', details: String(err) }, 500);
   }
