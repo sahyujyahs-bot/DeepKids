@@ -162,7 +162,7 @@
       white-space:nowrap; gap:0 clamp(5px,1.2vw,12px); margin-top:clamp(8px,1.6vh,18px);
       font-family:var(--font-body); font-weight:400; text-transform:uppercase;
       letter-spacing:clamp(1.6px,.62vw,8px);
-      font-size:clamp(9.5px,2.05vw,26px); color:rgba(255,255,255,.9); opacity:.92;
+      font-size:clamp(9.5px,2.05vw,26px); color:var(--lilac); opacity:1;
       text-shadow:0 2px 14px rgba(0,0,0,.75), 0 0 22px rgba(10,6,24,.7);
     }
     .hero-kinds i { font-style:normal; color:var(--purple); letter-spacing:0; }
@@ -560,98 +560,6 @@
     .tile.tile-not b { color: var(--rose); }
     .tile span { font-size: 13.5px; line-height: 1.5; color: var(--ink-dim); }
 
-    /* ─── Playground ──────────────────────────────────────────*/
-    .toy {
-      background: linear-gradient(170deg, rgba(255,255,255,.055), rgba(255,255,255,.015) 70%);
-      border: 1px solid rgba(255,255,255,.15); border-radius: 22px;
-      padding: clamp(20px, 3.2vw, 32px); margin-bottom: clamp(18px, 3vh, 28px);
-    }
-    .toy:last-child { margin-bottom: 0; }
-    .toy-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 14px; margin-bottom: 6px; }
-    .toy-head h3 { font-size: clamp(20px, 3vw, 28px); color: #fff; letter-spacing: 1px; }
-    .toy-head .tag {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 11px;
-      color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .45); border-radius: 999px; padding: 2px 10px;
-    }
-    .toy-sub { font-size: 14.5px; color: var(--ink-dim); margin-bottom: 20px; }
-    .toy-btn {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 14.5px;
-      color: #fff; background: rgba(var(--purple-rgb), .3); border: 1px solid rgba(var(--purple-rgb), .6);
-      border-radius: 999px; padding: 7px 18px; cursor: pointer; transition: background .2s ease;
-    }
-    .toy-btn:hover { background: rgba(var(--purple-rgb), .5); }
-    .toy-msg { min-height: 22px; font-size: 14px; color: var(--ink); margin-top: 12px; }
-    .toy-msg.good { color: var(--ok); }
-    .toy-msg.bad { color: var(--rose); }
-    .xw-layout { display: grid; grid-template-columns: 1fr; gap: clamp(18px, 3vw, 28px); }
-    @media (min-width: 900px) { .xw-layout { grid-template-columns: auto 1fr; align-items: start; } }
-    .xw-scroll { overflow-x: auto; overscroll-behavior-x: contain; padding-bottom: 4px; }
-    .xw-grid { display: grid; gap: 2px; width: max-content; margin-inline: auto; }
-    .xw-cell { position: relative; width: clamp(23px, 6.4vw, 34px); aspect-ratio: 1; }
-    .xw-cell input {
-      width: 100%; height: 100%; text-align: center; text-transform: uppercase;
-      font-family: var(--font-head); font-size: clamp(13px, 3.4vw, 18px); color: #fff;
-      background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.22); border-radius: 4px;
-      outline: none; padding: 0; caret-color: var(--cyan);
-    }
-    .xw-cell input:focus { background: rgba(var(--cyan-rgb), .22); border-color: var(--cyan); }
-    .xw-cell.lit input { background: rgba(var(--purple-rgb), .26); }
-    .xw-cell.right input { background: rgba(var(--ok-rgb), .22); border-color: rgba(var(--ok-rgb), .6); }
-    .xw-cell.wrong input { background: rgba(255,138,138,.2); border-color: rgba(255,138,138,.55); }
-    .xw-num { position: absolute; top: 1px; left: 2px; font-size: 8.5px; line-height: 1; color: rgba(255,255,255,.6); pointer-events: none; z-index: 2; }
-    .xw-clues { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
-    .xw-clues h4 { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: 13px; color: var(--gold); margin-bottom: 8px; }
-    .xw-clues ol { list-style: none; }
-    .xw-clues li { font-size: 13.5px; color: var(--ink-dim); margin-bottom: 7px; cursor: pointer; line-height: 1.45; transition: color .2s ease; }
-    .xw-clues li:hover, .xw-clues li.active { color: #fff; }
-    .xw-clues li b { color: var(--lilac); font-weight: normal; margin-right: 5px; }
-    .xw-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
-    .wd-board { display: grid; gap: 6px; width: max-content; margin: 0 auto 16px; }
-    .wd-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
-    .wd-tile {
-      width: clamp(42px, 11vw, 56px); aspect-ratio: 1; display: grid; place-items: center;
-      font-family: var(--font-head); font-size: clamp(19px, 5vw, 26px); color: #fff;
-      border: 2px solid rgba(255,255,255,.2); border-radius: 6px; background: rgba(255,255,255,.03);
-      transition: background .3s ease, border-color .3s ease, transform .2s ease;
-    }
-    .wd-tile.filled { border-color: rgba(255,255,255,.45); transform: scale(1.04); }
-    .wd-tile.hit  { background: var(--ok); border-color: var(--ok); color: #05030f; }
-    .wd-tile.near { background: var(--gold); border-color: var(--gold); color: #05030f; }
-    .wd-tile.miss { background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.14); color: rgba(255,255,255,.45); }
-    .wd-entry { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; }
-    .wd-entry input {
-      width: min(220px, 60vw); padding: 11px 14px; text-align: center; text-transform: uppercase;
-      font-family: var(--font-head); font-size: 18px; letter-spacing: 6px; color: #fff;
-      background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.24); border-radius: 12px; outline: none;
-    }
-    .wd-entry input:focus { border-color: var(--cyan); box-shadow: 0 0 0 3px rgba(var(--cyan-rgb), .18); }
-    .pi-keys { position: relative; display: flex; width: 100%; max-width: 620px; margin: 0 auto; height: clamp(130px, 26vw, 180px); touch-action: manipulation; }
-    .pi-white {
-      position: relative; flex: 1; margin-right: 3px; border-radius: 0 0 8px 8px; cursor: pointer;
-      background: linear-gradient(180deg, #f4eefb, #cbbddd); border: 0; padding: 0;
-      display: flex; align-items: flex-end; justify-content: center; padding-bottom: 8px;
-      font-family: var(--font-body); font-size: 9.5px; color: #4a2b5c; transition: background .08s ease;
-    }
-    .pi-white:last-child { margin-right: 0; }
-    .pi-white.down { background: linear-gradient(180deg, #cd9edf, #9a5cb5); color: #fff; }
-    .pi-black {
-      position: absolute; top: 0; width: 8.6%; height: 62%; z-index: 3; cursor: pointer;
-      background: linear-gradient(180deg, #3b2450, #150b22); border: 0; border-radius: 0 0 6px 6px;
-      display: flex; align-items: flex-end; justify-content: center; padding-bottom: 6px;
-      font-family: var(--font-body); font-size: 8.5px; color: rgba(255,255,255,.6); transition: background .08s ease;
-    }
-    .pi-black.down { background: linear-gradient(180deg, #aa59c8, #5d2a75); color: #fff; }
-    .pi-note { text-align: center; margin-top: 16px; font-size: 13.5px; color: var(--ink-dim); }
-    .pi-note b { color: var(--cyan); font-family: var(--font-head); letter-spacing: 1px; }
-
-    footer { text-align:center; padding:36px 16px 52px; font-size:13px; color:rgba(255,255,255,.5); }
-    footer .fl { display:flex; flex-wrap:wrap; justify-content:center; gap:6px 0; }
-    footer a { margin:0 9px; color:rgba(255,255,255,.66); text-decoration:none; }
-    footer a:hover { color:#fff; }
-
-    .rv { opacity:0; transform:translateY(24px); transition:opacity .8s ease, transform .8s ease; }
-    .rv.in { opacity:1; transform:none; }
-    .rv2 { transition-delay:.09s; } .rv3 { transition-delay:.18s; }
     @media (prefers-reduced-motion:reduce){
       .rv { opacity:1; transform:none; transition:none; }
       html { scroll-behavior:auto; }
@@ -808,53 +716,6 @@
     </div>
   </section>
 
-  <!-- ═════════ PLAYGROUND ═════════ -->
-  <section class="sec wrap" id="playground">
-    <div class="sec-head">
-      <span class="sec-kicker rv">Free, and yours to keep</span>
-      <h2 class="rv">The <em>Playground</em></h2>
-      <p class="sec-lede rv rv2">Three things to play with right now — while the kids are asleep, or with them awake. No signup, nothing to install.</p>
-    </div>
-
-    <div class="toy rv" id="crossword">
-      <div class="toy-head"><h3>The Crossword</h3><span class="tag">For the grown-ups</span></div>
-      <p class="toy-sub">Nine answers, all from inside our boxes — gravity, evolution, forces, the scientists. Tap a clue to jump to it.</p>
-      <div class="xw-layout">
-        <div class="xw-scroll"><div class="xw-grid" id="xw-grid" role="grid" aria-label="Science crossword"></div></div>
-        <div>
-          <div class="xw-clues">
-            <div><h4>Across</h4><ol id="xw-across"></ol></div>
-            <div><h4>Down</h4><ol id="xw-down"></ol></div>
-          </div>
-          <div class="xw-actions">
-            <button type="button" class="toy-btn" onclick="xwCheck()">Check</button>
-            <button type="button" class="toy-btn" onclick="xwReveal()">Give up</button>
-            <button type="button" class="toy-btn" onclick="xwClear()">Clear</button>
-          </div>
-          <div class="toy-msg" id="xw-msg" role="status"></div>
-        </div>
-      </div>
-    </div>
-
-    <div class="toy rv" id="fivegram">
-      <div class="toy-head"><h3>Five</h3><span class="tag">New word every day</span></div>
-      <p class="toy-sub">Six guesses at today's five-letter science word. Green is right and in place, amber is right but somewhere else. Comes back different tomorrow.</p>
-      <div class="wd-board" id="wd-board"></div>
-      <div class="wd-entry">
-        <input id="wd-input" maxlength="5" autocomplete="off" autocapitalize="characters" spellcheck="false" aria-label="Your five-letter guess" placeholder="·····"/>
-        <button type="button" class="toy-btn" onclick="wdSubmit()">Guess</button>
-      </div>
-      <div class="toy-msg" id="wd-msg" role="status" style="text-align:center;"></div>
-    </div>
-
-    <div class="toy rv" id="piano">
-      <div class="toy-head"><h3>The Frequency Piano</h3><span class="tag">Physics you can hear</span></div>
-      <p class="toy-sub">Every key is a number of pushes per second. Play the low C, then the high C — the high one is pushing the air at <em>exactly double</em> the rate, which is the whole reason an octave sounds like the same note again.</p>
-      <div class="pi-keys" id="pi-keys"></div>
-      <p class="pi-note">Playing <b id="pi-now">—</b> &nbsp;·&nbsp; use your keyboard: A S D F G H J K, and W E T Y U for the black keys</p>
-    </div>
-  </section>
-
 </main>
 
 <div class="why-pop" id="why-pop" role="dialog" aria-label="Why this price">
@@ -932,9 +793,6 @@ function dkTone(freqs, dur, type, vol) {
       o.connect(g); g.connect(dkCtx.destination); o.start(at); o.stop(at + dur + 0.02);
     });
   } catch(e) {}
-}
-function dkToy(toy, detail) {
-  egGtag('event', 'playground', { event_category: 'engagement', event_label: toy, toy: toy, detail: detail || '' });
 }
 function dkSound(kind) {
   if (kind === 'right') {
@@ -1196,8 +1054,7 @@ function dkOrderDone(kind, paise, paymentId) {
           (p.preorder ? '<span class="was">' + dkRs(p.price) + '</span><span class="off">15% off</span>' : '') +
         '</div>' +
         '<div class="card-cta">' +
-          '<div class="buy-slot"><button type="button" class="card-buy" data-dk-color="' +
-            (p.preorder ? 'gold' : 'lime') + '" data-dk-btn="' +
+          '<div class="buy-slot"><button type="button" class="card-buy" data-dk-btn="' +
             (p.preorder ? 'Pre-Order' : 'Add To Cart') + '" data-add="' + p.sku + '"></button></div>' +
           '<a class="card-more" href="' + p.href + '" target="_blank" rel="noopener" data-go="' + p.sku + '">' +
             'See the details <span>&rarr;</span></a>' +
@@ -1434,244 +1291,6 @@ dkQuizRender();
     });
   }, { passive:true });
 })();
-
-  /* ── Crossword ────────────────────────────────────────────
-     Layout solved offline and baked in, so every crossing agrees. */
-  var XW = {
-    h: 9, w: 13,
-    grid: [".......NEURON","...G.......X.","..FRICTION.Y.","...A...N...G.",".P.V..FEATHER",
-           "ORBIT..R...N.",".I.T...T.....",".S.Y..BIRDS..",".M.....A....."],
-    nums: {"0,7":1,"0,11":2,"1,3":3,"2,2":4,"2,7":5,"4,1":6,"4,6":7,"5,0":8,"7,6":9},
-    across: [
-      {n:1, r:0, c:7,  a:"NEURON",   q:"Thought, our picture book argues, came long before this"},
-      {n:4, r:2, c:2,  a:"FRICTION", q:"Why rubbing your hands together makes them warm"},
-      {n:7, r:4, c:6,  a:"FEATHER",  q:"In a vacuum, it lands at the same moment as the hammer"},
-      {n:8, r:5, c:0,  a:"ORBIT",    q:"Falling forever, and missing the ground every time"},
-      {n:9, r:7, c:6,  a:"BIRDS",    q:"What the dinosaurs that could already fly became"}
-    ],
-    down: [
-      {n:2, r:0, c:11, a:"OXYGEN",   q:"What cyanobacteria flooded a dying world with"},
-      {n:3, r:1, c:3,  a:"GRAVITY",  q:"The force our first game is one long fight against"},
-      {n:5, r:2, c:7,  a:"INERTIA",  q:"Why you lurch forward when the bus brakes"},
-      {n:6, r:4, c:1,  a:"PRISM",    q:"Splits white light into all the colours hiding in it"}
-    ]
-  };
-  var xwCells = {};
-  (function(){
-    var g = document.getElementById('xw-grid');
-    if (!g) return;
-    g.style.gridTemplateColumns = 'repeat(' + XW.w + ', auto)';
-    for (var r = 0; r < XW.h; r++) {
-      for (var c = 0; c < XW.w; c++) {
-        var ch = XW.grid[r][c];
-        var cell = document.createElement('div');
-        cell.className = 'xw-cell' + (ch === '.' ? ' block' : '');
-        if (ch !== '.') {
-          var n = XW.nums[r + ',' + c];
-          if (n) { var s = document.createElement('span'); s.className = 'xw-num'; s.textContent = n; cell.appendChild(s); }
-          var inp = document.createElement('input');
-          inp.maxLength = 1; inp.setAttribute('aria-label', 'Row ' + (r+1) + ' column ' + (c+1));
-          inp.dataset.r = r; inp.dataset.c = c;
-          cell.appendChild(inp);
-          xwCells[r + ',' + c] = { cell: cell, input: inp };
-        }
-        g.appendChild(cell);
-      }
-    }
-    var dir = 'across';
-    g.addEventListener('input', function(e){
-      var t = e.target; if (t.tagName !== 'INPUT') return;
-      t.value = (t.value || '').replace(/[^a-zA-Z]/g, '').toUpperCase().slice(0,1);
-      t.parentElement.classList.remove('right','wrong');
-      if (!t.value) return;
-      var r = +t.dataset.r, c = +t.dataset.c;
-      var nxt = xwCells[(dir === 'across' ? r : r+1) + ',' + (dir === 'across' ? c+1 : c)];
-      if (nxt) nxt.input.focus();
-      dkToy('crossword', 'typed');
-    });
-    g.addEventListener('keydown', function(e){
-      var t = e.target; if (t.tagName !== 'INPUT') return;
-      var r = +t.dataset.r, c = +t.dataset.c, k = e.key, tgt = null;
-      if (k === 'ArrowRight') tgt = xwCells[r + ',' + (c+1)];
-      else if (k === 'ArrowLeft') tgt = xwCells[r + ',' + (c-1)];
-      else if (k === 'ArrowDown') tgt = xwCells[(r+1) + ',' + c];
-      else if (k === 'ArrowUp') tgt = xwCells[(r-1) + ',' + c];
-      else if (k === 'Backspace' && !t.value) tgt = xwCells[(dir === 'across' ? r : r-1) + ',' + (dir === 'across' ? c-1 : c)];
-      if (tgt) { e.preventDefault(); tgt.input.focus(); }
-    });
-    function renderClues(list, into, d) {
-      var ol = document.getElementById(into);
-      list.forEach(function(cl){
-        var li = document.createElement('li');
-        li.innerHTML = '<b>' + cl.n + '.</b> ' + cl.q + ' <span style="opacity:.5">(' + cl.a.length + ')</span>';
-        li.onclick = function(){
-          dir = d;
-          [].forEach.call(document.querySelectorAll('.xw-clues li'), function(x){ x.classList.remove('active'); });
-          li.classList.add('active');
-          [].forEach.call(document.querySelectorAll('.xw-cell'), function(x){ x.classList.remove('lit'); });
-          for (var i = 0; i < cl.a.length; i++) {
-            var cc = xwCells[(d === 'across' ? cl.r : cl.r+i) + ',' + (d === 'across' ? cl.c+i : cl.c)];
-            if (cc) cc.cell.classList.add('lit');
-          }
-          var first = xwCells[cl.r + ',' + cl.c];
-          if (first) first.input.focus();
-          dkToy('crossword', 'clue_' + cl.n + d);
-        };
-        ol.appendChild(li);
-      });
-    }
-    renderClues(XW.across, 'xw-across', 'across');
-    renderClues(XW.down, 'xw-down', 'down');
-  })();
-
-  function xwEach(fn) {
-    XW.across.forEach(function(cl){ for (var i=0;i<cl.a.length;i++) fn(xwCells[cl.r + ',' + (cl.c+i)], cl.a[i]); });
-    XW.down.forEach(function(cl){ for (var i=0;i<cl.a.length;i++) fn(xwCells[(cl.r+i) + ',' + cl.c], cl.a[i]); });
-  }
-  function xwCheck() {
-    var wrong = 0, blank = 0;
-    xwEach(function(cc, ch){
-      if (!cc) return;
-      cc.cell.classList.remove('right','wrong');
-      var v = (cc.input.value || '').toUpperCase();
-      if (!v) { blank++; return; }
-      if (v === ch) cc.cell.classList.add('right'); else { cc.cell.classList.add('wrong'); wrong++; }
-    });
-    var m = document.getElementById('xw-msg');
-    if (!wrong && !blank) { m.textContent = 'All nine. Now go and argue with a textbook.'; m.className = 'toy-msg good'; dkToy('crossword','solved'); }
-    else if (wrong) { m.textContent = wrong + ' letter' + (wrong>1?'s':'') + ' off. The red ones.'; m.className = 'toy-msg bad'; }
-    else { m.textContent = 'Right so far — ' + blank + ' square' + (blank>1?'s':'') + ' still empty.'; m.className = 'toy-msg'; }
-    dkToy('crossword','check');
-  }
-  function xwReveal() {
-    xwEach(function(cc, ch){ if (cc) { cc.input.value = ch; cc.cell.classList.remove('wrong'); cc.cell.classList.add('right'); } });
-    var m = document.getElementById('xw-msg');
-    m.textContent = 'There you go. Every one of those is in a box.'; m.className = 'toy-msg';
-    dkToy('crossword','reveal');
-  }
-  function xwClear() {
-    xwEach(function(cc){ if (cc) { cc.input.value = ''; cc.cell.classList.remove('right','wrong'); } });
-    document.getElementById('xw-msg').textContent = '';
-  }
-
-  /* ── Five: a daily five-letter science word ───────────────*/
-  var WD_WORDS = ['FORCE','ATOMS','LIGHT','ORBIT','PRISM','SOLAR','LUNAR','GENES','CELLS','NERVE',
-                  'SPINE','OCEAN','MAGMA','QUARK','SOUND','WAVES','DELTA','ALPHA','GAMMA','SPACE',
-                  'EARTH','COMET','TIDAL','SOLID','VAPOR','STEAM','FLUID','ANGLE','CURVE','GRAPH',
-                  'LOGIC','PROOF','FIELD','PULSE','CRUST','AMBER','ALGAE','SPORE','LARVA','VENOM',
-                  'PLUME','SHELL','CORAL','WHALE','PHASE','RATIO','PRIME','IONIC','BONDS','ROOTS'];
-  var WD = { answer: '', row: 0, done: false, max: 6 };
-  (function(){
-    var board = document.getElementById('wd-board');
-    if (!board) return;
-    var day = Math.floor(Date.now() / 86400000);
-    WD.answer = WD_WORDS[day % WD_WORDS.length];
-    for (var r = 0; r < WD.max; r++) {
-      var row = document.createElement('div');
-      row.className = 'wd-row'; row.id = 'wd-row-' + r;
-      for (var c = 0; c < 5; c++) { var t = document.createElement('div'); t.className = 'wd-tile'; row.appendChild(t); }
-      board.appendChild(row);
-    }
-    var inp = document.getElementById('wd-input');
-    inp.addEventListener('input', function(){
-      inp.value = inp.value.replace(/[^a-zA-Z]/g, '').toUpperCase();
-      var tiles = document.getElementById('wd-row-' + WD.row);
-      if (!tiles) return;
-      for (var i = 0; i < 5; i++) {
-        var ch = inp.value[i] || '';
-        tiles.children[i].textContent = ch;
-        tiles.children[i].classList.toggle('filled', !!ch);
-      }
-    });
-    inp.addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); wdSubmit(); } });
-  })();
-  function wdSubmit() {
-    var inp = document.getElementById('wd-input');
-    var msg = document.getElementById('wd-msg');
-    if (WD.done) return;
-    var g = (inp.value || '').toUpperCase();
-    if (g.length !== 5) { msg.textContent = 'Five letters.'; msg.className = 'toy-msg bad'; return; }
-    // Two passes so a repeated letter can't be counted twice.
-    var ans = WD.answer.split(''), res = ['miss','miss','miss','miss','miss'], left = [];
-    for (var i = 0; i < 5; i++) { if (g[i] === ans[i]) res[i] = 'hit'; else left.push(ans[i]); }
-    for (var j = 0; j < 5; j++) {
-      if (res[j] === 'hit') continue;
-      var k = left.indexOf(g[j]);
-      if (k > -1) { res[j] = 'near'; left.splice(k, 1); }
-    }
-    var row = document.getElementById('wd-row-' + WD.row);
-    for (var m = 0; m < 5; m++) {
-      (function(m){ setTimeout(function(){
-        row.children[m].textContent = g[m];
-        row.children[m].classList.remove('filled');
-        row.children[m].classList.add(res[m]);
-      }, m * 110); })(m);
-    }
-    WD.row++;
-    inp.value = '';
-    if (g === WD.answer) {
-      WD.done = true; inp.disabled = true;
-      msg.textContent = 'Got it — ' + WD.answer + '. New word tomorrow.'; msg.className = 'toy-msg good';
-      dkToy('five', 'won_row' + WD.row);
-    } else if (WD.row >= WD.max) {
-      WD.done = true; inp.disabled = true;
-      msg.textContent = 'It was ' + WD.answer + '. Come back tomorrow for a new one.'; msg.className = 'toy-msg bad';
-      dkToy('five', 'lost');
-    } else {
-      msg.textContent = (WD.max - WD.row) + ' guess' + (WD.max - WD.row > 1 ? 'es' : '') + ' left.'; msg.className = 'toy-msg';
-      dkToy('five', 'guess' + WD.row);
-    }
-  }
-
-  /* ── The frequency piano ──────────────────────────────────*/
-  (function(){
-    var WHITE = [['C4',261.63,'a'],['D4',293.66,'s'],['E4',329.63,'d'],['F4',349.23,'f'],
-                 ['G4',392.00,'g'],['A4',440.00,'h'],['B4',493.88,'j'],['C5',523.25,'k']];
-    var BLACK = [['C#4',277.18,'w',0],['D#4',311.13,'e',1],['F#4',369.99,'t',3],['G#4',415.30,'y',4],['A#4',466.16,'u',5]];
-    var wrap = document.getElementById('pi-keys');
-    if (!wrap) return;
-    var ctx = null, byKey = {}, now = document.getElementById('pi-now');
-    function play(name, hz, el) {
-      try {
-        if (!ctx) ctx = new (window.AudioContext || window.webkitAudioContext)();
-        if (ctx.state === 'suspended') ctx.resume();
-        var o = ctx.createOscillator(), g = ctx.createGain(), t = ctx.currentTime;
-        o.type = 'triangle'; o.frequency.value = hz;
-        g.gain.setValueAtTime(0.0001, t);
-        g.gain.exponentialRampToValueAtTime(0.22, t + 0.015);
-        g.gain.exponentialRampToValueAtTime(0.0001, t + 1.5);
-        o.connect(g); g.connect(ctx.destination); o.start(t); o.stop(t + 1.6);
-      } catch(e) {}
-      if (now) now.textContent = name + ' — ' + hz.toFixed(2) + ' Hz';
-      if (el) { el.classList.add('down'); setTimeout(function(){ el.classList.remove('down'); }, 170); }
-      dkToy('piano', name);
-    }
-    WHITE.forEach(function(k){
-      var b = document.createElement('button');
-      b.type = 'button'; b.className = 'pi-white'; b.textContent = k[0];
-      b.setAttribute('aria-label', k[0] + ', ' + k[1] + ' hertz');
-      b.addEventListener('pointerdown', function(e){ e.preventDefault(); play(k[0], k[1], b); });
-      wrap.appendChild(b);
-      byKey[k[2]] = { fn: function(){ play(k[0], k[1], b); } };
-    });
-    BLACK.forEach(function(k){
-      var b = document.createElement('button');
-      b.type = 'button'; b.className = 'pi-black'; b.textContent = k[0];
-      b.setAttribute('aria-label', k[0] + ', ' + k[1] + ' hertz');
-      b.style.left = 'calc(' + ((k[3] + 1) * (100 / WHITE.length)) + '% - 4.3%)';
-      b.addEventListener('pointerdown', function(e){ e.preventDefault(); play(k[0], k[1], b); });
-      wrap.appendChild(b);
-      byKey[k[2]] = { fn: function(){ play(k[0], k[1], b); } };
-    });
-    document.addEventListener('keydown', function(e){
-      if (e.repeat || e.metaKey || e.ctrlKey || e.altKey) return;
-      var t = e.target;
-      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA')) return;   // don't hijack the puzzles
-      var k = byKey[(e.key || '').toLowerCase()];
-      if (k) { e.preventDefault(); k.fn(); }
-    });
-  })();
-
 
 /* ══ Reveal on scroll ══ */
 if ('IntersectionObserver' in window) {
