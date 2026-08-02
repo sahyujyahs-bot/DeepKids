@@ -113,10 +113,15 @@
       .eg-nav { height:68px; padding:0 clamp(20px,4vw,56px); }
       .hero { padding-block:calc(68px + clamp(30px,5vh,60px)) 0; }
     }
+    /* The hero already says DeepKids in 132px type — repeating it in the bar
+       on top of it is noise. The wordmark appears once you scroll past. */
     .eg-nav-logo {
       font-family:var(--font-head); font-size:clamp(18px,2.4vw,28px);
       color:var(--purple); text-decoration:none; letter-spacing:1px; white-space:nowrap;
+      opacity:0; pointer-events:none; transform:translateY(-4px);
+      transition:opacity .3s ease, transform .3s ease;
     }
+    .eg-nav-logo.show { opacity:1; pointer-events:auto; transform:none; }
     .eg-nav-logo b { color:#fff; font-weight:normal; }
     .eg-nav-right { display:flex; align-items:center; gap:clamp(8px,1.6vw,16px); }
     .cart-btn {
@@ -141,27 +146,6 @@
     .eg-nav-menu-btn.open span:nth-child(1){ transform:translateY(7px) rotate(45deg); }
     .eg-nav-menu-btn.open span:nth-child(2){ opacity:0; }
     .eg-nav-menu-btn.open span:nth-child(3){ transform:translateY(-7px) rotate(-45deg); }
-    .eg-nav-menu {
-      position:fixed; top:52px; right:clamp(10px,4vw,24px); z-index:3000; width:min(250px,80vw);
-      display:flex; flex-direction:column;
-      background:rgba(16,10,34,.98); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px);
-      border:1px solid rgba(var(--purple-rgb),.45); border-radius:14px; padding:6px;
-      box-shadow:0 18px 50px rgba(0,0,0,.6);
-      opacity:0; transform:translateY(-8px) scale(.98); transform-origin:top right; pointer-events:none;
-      transition:opacity .2s ease, transform .2s ease;
-    }
-    @media (min-width:769px){ .eg-nav-menu { top:72px; } }
-    .eg-nav-menu.open { opacity:1; transform:none; pointer-events:auto; }
-    .eg-nav-menu a {
-      display:flex; align-items:center; justify-content:space-between;
-      font-family:var(--font-body); font-size:16px; letter-spacing:.5px; color:#efe6ff;
-      text-decoration:none; padding:14px 16px; border-radius:10px;
-      border-bottom:1px solid rgba(var(--purple-rgb),.16);
-      transition:background .18s ease, color .18s ease;
-    }
-    .eg-nav-menu a:last-child { border-bottom:0; }
-    .eg-nav-menu a::after { content:'\203A'; font-size:20px; line-height:1; color:rgba(205,158,223,.6); margin-left:12px; }
-    .eg-nav-menu a:hover,.eg-nav-menu a:active { background:rgba(var(--purple-rgb),.22); color:#fff; }
 
     /* ── Cart drawer under the icon ───────────────────────────*/
     .cart-pop {
@@ -196,6 +180,25 @@
     .cart-empty { font-size:13.5px; color:var(--ink-dim); padding:6px 0 10px; }
     .cart-note { font-size:11.5px; color:var(--ink-dim); text-align:center; margin-top:9px; }
 
+    /* Wishlist drawer — same drawer, one column narrower, and every row
+       carries the button that moves it into the cart. */
+    .wish-pop { width:min(320px,92vw); }
+    #wish-btn svg { stroke:var(--rose); }
+    #wish-btn .cart-count { background:var(--rose); color:#fff; }
+    .wish-line { display:flex; gap:10px; align-items:center; padding:9px 0; border-bottom:1px solid rgba(255,255,255,.1); }
+    .wish-line:last-of-type { border-bottom:0; }
+    .wish-line img { width:44px; height:44px; object-fit:cover; border-radius:8px; flex-shrink:0; }
+    .wish-line .wl-n { flex:1; min-width:0; font-size:13.5px; color:#fff; line-height:1.3; }
+    .wish-line .wl-n small { display:block; color:var(--ink-dim); font-size:11.5px; }
+    .wish-line .wl-add {
+      flex-shrink:0; cursor:pointer; border:0; border-radius:999px; padding:6px 13px;
+      font-family:var(--font-head); font-variant:small-caps; letter-spacing:1.2px; font-size:13px;
+      color:#0a0618; background:var(--lime); transition:filter .2s ease;
+    }
+    .wish-line .wl-add:hover { filter:brightness(1.08); }
+    .wish-line .cl-x { background:none; border:0; color:rgba(255,255,255,.4); font-size:17px; cursor:pointer; line-height:1; padding:0 2px; }
+    .wish-line .cl-x:hover { color:var(--rose); }
+
     /* Fly-to-cart confirmation */
     .cart-toast {
       position:fixed; z-index:3300; top:58px; right:clamp(10px,4vw,24px);
@@ -224,18 +227,36 @@
       font-size:clamp(46px,12vw,132px); line-height:.9; color:#fff;
       text-shadow:0 0 44px rgba(var(--purple-rgb),.6), 0 3px 18px rgba(0,0,0,.7);
     }
+    /* The same subtitle treatment as the main page hero: Futura, uppercase,
+       wide tracking. It used to be Norwester small-caps, which is the
+       wordmark's own face — the two ran together as one block of type. */
     .hero-kinds {
-      display:flex; flex-wrap:wrap; justify-content:center; gap:5px 14px; margin-top:clamp(6px,1.2vh,14px);
-      font-family:var(--font-head); font-variant:small-caps; letter-spacing:3px;
-      font-size:clamp(13px,2.2vw,22px); color:rgba(255,255,255,.92);
+      display:flex; flex-wrap:nowrap; justify-content:center; align-items:center;
+      white-space:nowrap; gap:0 clamp(5px,1.2vw,12px); margin-top:clamp(8px,1.6vh,18px);
+      font-family:var(--font-body); font-weight:400; text-transform:uppercase;
+      letter-spacing:clamp(1.6px,.62vw,8px);
+      font-size:clamp(9.5px,2.05vw,26px); color:rgba(255,255,255,.9); opacity:.92;
+      text-shadow:0 2px 14px rgba(0,0,0,.75), 0 0 22px rgba(10,6,24,.7);
     }
-    .hero-kinds i { font-style:normal; color:var(--purple); }
+    .hero-kinds i { font-style:normal; color:var(--purple); letter-spacing:0; }
     /* Full-width scene: the art spans the viewport, not a column. */
     .hero-scene { min-height:0; width:100%; display:block; }
     .hero-scene img {
       width:100%; height:100%; object-fit:contain; object-position:center bottom;
       filter:drop-shadow(0 26px 46px rgba(0,0,0,.65)) drop-shadow(0 0 70px rgba(var(--purple-rgb),.3));
       will-change:transform;
+    }
+    /* On a phone the scene row used to stretch to fill the screen while the
+       landscape artwork inside it stayed letterboxed at the bottom — the
+       leftover became one dead band under the type. Now the picture sizes
+       itself to its own width and the type is centred in what is left, so
+       the space reads as composition instead of a hole. A portrait hero
+       (hero-tall.webp) closes the gap properly. */
+    @media (max-width:768px){
+      .hero { grid-template-rows:1fr auto auto; }
+      .hero-top { align-self:center; }
+      .hero-scene { height:auto; align-self:end; }
+      .hero-scene img { height:auto; width:112%; margin-left:-6%; }
     }
     .hero-cta { margin-top:clamp(16px,2.6vh,28px); }
 
@@ -282,39 +303,45 @@
     .card { position:relative; display:flex; flex-direction:column; background:none; border:0; }
     .card::after {
       /* the pool of shadow the product sits in */
-      content:''; position:absolute; left:18%; right:18%; top:clamp(230px,50vw,300px); height:30px;
+      content:''; position:absolute; left:18%; right:18%; top:clamp(250px,54vw,330px); height:30px;
       background:radial-gradient(50% 50% at 50% 50%, rgba(0,0,0,.62), rgba(0,0,0,0) 72%);
       filter:blur(6px); pointer-events:none; z-index:0;
       transition:transform .45s ease, opacity .45s ease;
     }
     .card:hover::after { transform:scale(.92); opacity:.75; }
-    @media (min-width:1000px){ .card::after { top:clamp(276px,22vw,350px); } }
+    @media (min-width:1000px){ .card::after { top:clamp(315px,24vw,405px); } }
 
     /* Gallery: a scroll-snap strip, arrows on desktop, dots under it. */
     .gal { position:relative; background:none; z-index:1; }
     /* One fixed height for every gallery, so the three columns line up
        however different the artwork's proportions are. */
     .gal-strip {
-      display:flex; height:clamp(250px,54vw,330px);
-      overflow-x:auto; scroll-snap-type:x mandatory;
+      display:flex; height:clamp(270px,58vw,360px);
+      overflow-x:auto; overflow-y:hidden; scroll-snap-type:x mandatory;
       scrollbar-width:none; -ms-overflow-style:none; overscroll-behavior-x:contain;
     }
-    @media (min-width:1000px){ .gal-strip { height:clamp(300px,24vw,380px); } }
+    @media (min-width:1000px){ .gal-strip { height:clamp(340px,26vw,440px); } }
     .gal-strip::-webkit-scrollbar { display:none; }
     .gal-strip a {
-      flex:0 0 100%; height:100%; scroll-snap-align:center;
-      display:grid; place-items:center; background:none; padding:4% 4% 8%;
+      flex:0 0 100%; min-width:0; min-height:0; scroll-snap-align:center;
+      display:block; background:none; padding:4% 4% 8%; box-sizing:border-box;
     }
-    /* contain everywhere, so nothing is cropped into a rectangle — the
-       artwork keeps its own silhouette and floats */
+    /* The whole picture, always. This was max-height:100% on an auto-sized
+       image, which never resolved against the grid area — the artwork drew
+       at its natural size (up to 724px in a 380px strip) and the strip
+       simply clipped it. An explicit 100%/100% box plus contain cannot
+       crop and cannot overflow. */
     .gal-strip img {
-      max-width:100%; max-height:100%; width:auto; height:auto; object-fit:contain;
+      width:100%; height:100%; object-fit:contain; object-position:center;
       filter:drop-shadow(0 26px 30px rgba(0,0,0,.65));
       transition:transform .5s ease;
     }
     .card:hover .gal-strip img { transform:translateY(-8px) scale(1.03); }
-    /* framed artwork (cards, paintings) still reads better with an edge */
-    .gal-strip img.framed { border-radius:12px; box-shadow:0 20px 40px rgba(0,0,0,.6); filter:none; }
+    /* Framed artwork (cards, paintings) gets a tighter shadow. It has to be
+       a drop-shadow, not a box-shadow: with object-fit:contain the element
+       box is larger than the picture, so a box-shadow would outline empty
+       space around it. drop-shadow follows the pixels. */
+    .gal-strip img.framed { filter:drop-shadow(0 18px 26px rgba(0,0,0,.6)); }
     .gal-nav {
       position:absolute; top:50%; transform:translateY(-50%); z-index:3;
       width:34px; height:34px; border-radius:50%; cursor:pointer;
@@ -705,28 +732,25 @@
 <div class="stars" aria-hidden="true"></div>
 
 <nav class="eg-nav">
-  <a href="/" class="eg-nav-logo">Deep<b>Kids</b></a>
+  <a href="/" class="eg-nav-logo" id="nav-logo">Deep<b>Kids</b></a>
   <div class="eg-nav-right">
+    <button type="button" class="cart-btn" id="wish-btn" aria-label="Wishlist" aria-controls="wish-pop" onclick="dkWishToggle()">
+      <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
+      <span class="cart-count" id="wish-count">0</span>
+    </button>
     <button type="button" class="cart-btn" id="cart-btn" aria-label="Cart" onclick="dkCartToggle()">
       <svg viewBox="0 0 24 24"><path d="M3 4h2l2.4 11.2a2 2 0 0 0 2 1.6h7.5a2 2 0 0 0 2-1.55L21 8H6"/><circle cx="10" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/></svg>
       <span class="cart-count" id="cart-count">0</span>
     </button>
-    <button type="button" class="eg-nav-menu-btn" id="menu-btn" aria-label="Open menu" aria-expanded="false" onclick="dkMenu()">
+    <button type="button" class="eg-nav-menu-btn" id="menu-btn" aria-label="Open menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
   </div>
 </nav>
 
-<div class="eg-nav-menu" id="eg-nav-menu" role="navigation" aria-label="Site menu">
-  <a href="/shop">Shop</a>
-  <a href="/">EscapeGravity</a>
-  <a href="/how-to-play">How To Play</a>
-  <a href="/what-kids-learn">Learning Glossary</a>
-  <a href="/sci">SCI. Trading Cards</a>
-  <a href="/evolution">Evolution</a>
-  <a href="/blog">Blog</a>
-  <a href="/about">About</a>
-  <a href="/contact">Contact</a>
+<div class="cart-pop wish-pop" id="wish-pop" role="dialog" aria-label="Your wishlist">
+  <h4>Saved For Later</h4>
+  <div id="wish-lines"></div>
 </div>
 
 <div class="cart-pop" id="cart-pop" role="dialog" aria-label="Your cart">
@@ -1003,29 +1027,22 @@ function dkSound(kind) {
 }
 
 /* ══ Nav + cart drawer ══ */
-function dkMenu() {
-  var m = document.getElementById('eg-nav-menu'), b = document.getElementById('menu-btn');
-  var open = m.classList.toggle('open');
-  b.classList.toggle('open', open);
-  b.setAttribute('aria-expanded', open ? 'true' : 'false');
-  document.getElementById('cart-pop').classList.remove('open');
-  dkSound('click');
-}
+/* The dropdown itself lives in /menu.js now — every page shares one. */
 function dkCartToggle(force) {
   var p = document.getElementById('cart-pop');
   var open = (force === undefined) ? !p.classList.contains('open') : force;
   p.classList.toggle('open', open);
-  document.getElementById('eg-nav-menu').classList.remove('open');
-  document.getElementById('menu-btn').classList.remove('open');
+  document.getElementById('wish-pop').classList.remove('open');
+  if (window.egCloseMenu) egCloseMenu();
   if (open) dkSound('click');
 }
 document.addEventListener('click', function(e){
   if (e.target.closest('#cart-pop') || e.target.closest('#cart-btn')) return;
-  if (e.target.closest('[data-add]')) return;   // adding opens the drawer; don't close it again
-  if (e.target.closest('#eg-nav-menu') || e.target.closest('#menu-btn')) return;
+  if (e.target.closest('#wish-pop') || e.target.closest('#wish-btn')) return;
+  if (e.target.closest('[data-add]') || e.target.closest('[data-wish]')) return;  // these open a drawer; don't close it again
+  if (e.target.closest('#dkm') || e.target.closest('.dkm-btn')) return;           // menu.js closes its own
   document.getElementById('cart-pop').classList.remove('open');
-  document.getElementById('eg-nav-menu').classList.remove('open');
-  document.getElementById('menu-btn').classList.remove('open');
+  document.getElementById('wish-pop').classList.remove('open');
 });
 
 /* ══════════════════════════════════════════════════════════════
@@ -1041,7 +1058,7 @@ var CATALOG = [
     shots:[ {src:'eg-box-new.webp'}, {src:'gift-box-hero.webp'},
             {src:'full-board-tour.webp', framed:true}, {src:'box-contents.webp', framed:true} ] },
   { sku:'SCI-001', name:'SCI. Trading Cards', kind:'Card game · ages 7+',
-    blurb:'Scientists as trading cards. Each one carries a discovery, the truth underneath it, and where you meet that truth in ordinary life.',
+    blurb:'Scientists as trading cards. Each one carries a discovery, the truth underneath it, and where you meet that truth in everyday life.',
     price:119900, preorder:true, href:'/sci',
     shots:[ {src:'sci-brahmagupta-front.webp', framed:true}, {src:'sci-noether-front.webp', framed:true},
             {src:'sci-brahmagupta-back.webp', framed:true}, {src:'sci-noether-back.webp', framed:true} ] },
@@ -1301,13 +1318,57 @@ function dkOrderDone(kind, paise, paymentId) {
 
 /* ══ Wishlist ══ */
 function dkWishRead() { try { return JSON.parse(localStorage.getItem(WISH_KEY) || '[]'); } catch(e) { return []; } }
+function dkWishWrite(w) {
+  try { localStorage.setItem(WISH_KEY, JSON.stringify(w)); } catch(e) {}
+  dkWishPaint();
+}
 function dkWish(sku, el) {
   var w = dkWishRead(), i = w.indexOf(sku);
   if (i > -1) w.splice(i, 1); else w.push(sku);
-  try { localStorage.setItem(WISH_KEY, JSON.stringify(w)); } catch(e) {}
-  el.classList.toggle('on', w.indexOf(sku) > -1);
+  dkWishWrite(w);
+  if (el) el.classList.toggle('on', w.indexOf(sku) > -1);
   dkSound('click');
-  egGtag('event', 'add_to_wishlist', { event_category: 'ecommerce', event_label: sku });
+  if (i === -1) egGtag('event', 'add_to_wishlist', { event_category: 'ecommerce', event_label: sku });
+}
+function dkWishDrop(sku) { var w = dkWishRead(), i = w.indexOf(sku); if (i > -1) { w.splice(i, 1); dkWishWrite(w); dkSound('click'); } dkSyncHearts(); }
+/* Keep the hearts on the cards honest when the list changes from the drawer. */
+function dkSyncHearts() {
+  var w = dkWishRead();
+  document.querySelectorAll('[data-wish]').forEach(function(b){
+    b.classList.toggle('on', w.indexOf(b.getAttribute('data-wish')) > -1);
+  });
+}
+/* Straight from the wishlist into the cart, without hunting for the card. */
+function dkWishAdd(sku) {
+  dkAdd(sku);
+  dkWishDrop(sku);
+}
+function dkWishToggle(force) {
+  var pop = document.getElementById('wish-pop');
+  var open = (force === undefined) ? !pop.classList.contains('open') : !!force;
+  pop.classList.toggle('open', open);
+  document.getElementById('cart-pop').classList.remove('open');
+  if (window.egCloseMenu) egCloseMenu();
+  if (open) dkSound('click');
+}
+function dkWishPaint() {
+  var w = dkWishRead(), box = document.getElementById('wish-lines');
+  var badge = document.getElementById('wish-count');
+  if (!box) return;
+  badge.textContent = w.length; badge.classList.toggle('on', w.length > 0);
+  if (!w.length) { box.innerHTML = '<p class="cart-empty">Nothing saved yet.</p>'; return; }
+  var html = '';
+  w.forEach(function(sku){
+    var p = dkFind(sku); if (!p) return;
+    html += '<div class="wish-line"><img src="' + dkThumb(p) + '" alt="" loading="lazy" decoding="async"/>' +
+            '<span class="wl-n">' + p.name + '<small>' + dkRs(dkUnit(p)) +
+            (p.preorder ? ' · pre-order' : '') + '</small></span>' +
+            '<button type="button" class="wl-add" onclick="dkWishAdd(\'' + p.sku + '\')">' +
+            (p.preorder ? 'Pre-order' : 'Add') + '</button>' +
+            '<button type="button" class="cl-x" aria-label="Remove ' + p.name +
+            ' from wishlist" onclick="dkWishDrop(\'' + p.sku + '\')">×</button></div>';
+  });
+  box.innerHTML = html;
 }
 
 /* ══ Render the shop ══ */
@@ -1826,6 +1887,22 @@ if ('IntersectionObserver' in window) {
   document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
 }
 
+/* ══ The bar's wordmark only after the hero ══
+   On the hero the page already says DeepKids in 132px type; a second copy
+   in the bar directly above it is pure redundancy. It fades in once the
+   hero has scrolled away and the bar needs to identify the site again. */
+(function(){
+  var logo = document.getElementById('nav-logo');
+  var hero = document.querySelector('.hero');
+  if (!logo || !hero) return;
+  if (!('IntersectionObserver' in window)) { logo.classList.add('show'); return; }
+  new IntersectionObserver(function(es){
+    logo.classList.toggle('show', !es[0].isIntersecting);
+  }, { threshold: 0, rootMargin: '-45% 0px 0px 0px' }).observe(hero);
+})();
+
+dkWishPaint();
+
 /* ══ Hero art: the right shape for the screen ══
    A wide 21:9 drawing letterboxes badly on a phone and a tall 2:3 one
    wastes a desktop, so there are two. Probed rather than declared with
@@ -1847,5 +1924,6 @@ window.addEventListener('load', function() {
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
+  <script src="/menu.js" defer></script>
 </body>
 </html>

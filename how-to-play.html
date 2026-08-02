@@ -186,16 +186,6 @@
     </button>
   </div>
 </nav>
-<!-- Mobile dropdown menu — kept OUTSIDE <nav> so it escapes the nav's
-     backdrop-filter stacking context and layers above the page content. -->
-<div class="eg-nav-menu" id="eg-nav-menu" role="navigation" aria-label="Site menu">
-  <a href="/">Home</a>
-  <a href="/shop">Shop</a>
-  <a href="/#s2">The Game</a>
-  <a href="/#s4-science">Science</a>
-  <a href="/#s-worth">Why ₹4,999?</a>
-  <a href="/sci">SCI. Trading Cards</a>
-</div>
 <script>
   function egToggleMenu() {
     var m = document.getElementById('eg-nav-menu');
@@ -560,5 +550,6 @@
 <script src="assets/js/howtoplay.min.js"></script>
 <script src="assets/js/ui.min.js"></script>
 
+  <script src="/menu.js" defer></script>
 </body>
 </html>

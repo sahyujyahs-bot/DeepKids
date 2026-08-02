@@ -1191,21 +1191,6 @@
     </button>
   </div>
 </nav>
-<!-- Mobile dropdown menu — kept OUTSIDE <nav> so it escapes the nav's
-     backdrop-filter stacking context and layers above the hero title. -->
-<div class="eg-nav-menu" id="eg-nav-menu" role="navigation" aria-label="Site menu">
-  <a href="/shop">Shop</a>
-  <a href="#s2" onclick="egCloseMenu()">The Game</a>
-  <a href="/how-to-play">How To Play</a>
-  <a href="#s4-science" onclick="egCloseMenu()">The Science</a>
-  <a href="#s-syllabus" onclick="egCloseMenu()">Learning Glossary</a>
-  <a href="/what-kids-learn">Learning Glossary &amp; Why ₹4,999</a>
-  <a href="#s-worth" onclick="egCloseMenu()">Why ₹4,999?</a>
-  <a href="/sci">SCI. Trading Cards</a>
-  <a href="/blog">Blog</a>
-  <a href="/about">About</a>
-  <a href="/contact">Contact</a>
-</div>
 <script>
   /* Mobile nav menu toggle (shared behaviour name used on all pages) */
   function egToggleMenu() {
@@ -13263,5 +13248,6 @@ if ('requestIdleCallback' in window) {
     }
   })();
 </script>
+  <script src="/menu.js" defer></script>
 </body>
 </html>
