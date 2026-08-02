@@ -167,11 +167,13 @@
     /* ─── Pre-order (shared cart) ─────────────────────────────*/
     .pre-cta { display:flex; flex-direction:column; align-items:center;
       margin:clamp(24px,4vh,40px) auto 0; }
-    /* Same D+K button as the rest of the site. The pill sits left of
-       centre inside its own box — the fins take the right half — so the
-       button is nudged over until the pill lands on the page's centre
-       line, where the price sits. */
-    .pre-cta .pre-slot { display:flex; justify-content:center; transform:translateX(28px); }
+    /* Same D+K button as the rest of the site. Its ink runs from x=9 to
+       the fin cap at x=327.5 of a 360-unit box, so the drawn mark is
+       11.75 units left of the box centre; the shift below puts the whole
+       button — pill and fins together — on the screen's centre line.
+       The pill alone then reads a little left of the price, which is the
+       shape's own asymmetry and not something a shift can remove. */
+    .pre-cta .pre-slot { display:flex; justify-content:center; transform:translateX(8px); }
     .pre-cta .pre-btn { margin-left:0 !important; }
     .pre-cta .pre-btn .btn-svg { width:248px !important; }
     .pre-cta .pre-btn .btn-label { font-size:15px; letter-spacing:1.6px; }
