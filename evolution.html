@@ -336,6 +336,9 @@
       font-style: normal; font-family: var(--font-head); font-variant: small-caps;
       letter-spacing: 2px; font-size: 10.5px; color: var(--gold);
     }
+    /* No caption, so no gradient and nothing to click through to. */
+    .sheet-plain { cursor: default; }
+    .sheet-plain:hover { transform: none; border-color: rgba(255,255,255,.1); }
     .sheet-no {
       position: absolute; top: 8px; left: 8px; z-index: 2;
       font-family: var(--font-head); font-size: 10.5px; line-height: 18px;
@@ -552,7 +555,7 @@
     <div class="zone-head">
       <span class="zone-kicker rv">Every page, in order</span>
       <h2 class="rv">The <em>Spreads</em></h2>
-      <p class="zone-lede rv rv2">Each painting was made for this book and nothing else. Tap any one to read the page that goes with it.</p>
+      <p class="zone-lede rv rv2">Fifty-one paintings, each made for this book and nothing else. Tap any titled one to read the page that goes with it.</p>
     </div>
     <div class="sheets">
       <button type="button" class="sheet rv" data-sheet="0"><span class="sheet-no">1</span><img src="sp-05.webp" alt="Fiery Hot Ball" width="1600" height="1143" loading="lazy" decoding="async"/><span class="sheet-cap"><i>~4.48 billion years</i><b>Fiery Hot Ball</b></span></button>
@@ -587,6 +590,34 @@
       <button type="button" class="sheet rv" data-sheet="29"><span class="sheet-no">30</span><img src="sp-34.webp" alt="Ferns And Fractals" width="1600" height="1143" loading="lazy" decoding="async"/><span class="sheet-cap"><i>In the book</i><b>Ferns And Fractals</b></span></button>
       <button type="button" class="sheet rv" data-sheet="30"><span class="sheet-no">31</span><img src="sp-36.webp" alt="Octopus" width="1600" height="1143" loading="lazy" decoding="async"/><span class="sheet-cap"><i>~296 million years</i><b>Octopus</b></span></button>
     </div>
+
+    <div class="zone-head" style="margin-top:clamp(40px,6vh,72px)">
+      <span class="zone-kicker rv">Later in the book</span>
+      <h2 class="rv">Twenty <em>More</em></h2>
+      <p class="zone-lede rv rv2">These come after the pages above &mdash; mammals, birds, the ones alive alongside us. Their chapters are still being set, so they are shown here without their titles.</p>
+    </div>
+    <div class="sheets">
+      <div class="sheet sheet-plain rv"><img src="sp-35.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x01.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x02.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x03.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x04.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x05.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x06.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x07.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x08.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x09.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x10.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x11.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x12.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x13.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x14.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x15.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x16.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x17.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x18.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+      <div class="sheet sheet-plain rv"><img src="sp-x19.webp" alt="A hand-painted spread from the book" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+    </div>
   </section>
 
   <!-- ═══════════════ TREE ═══════════════ -->
@@ -605,15 +636,16 @@
   <section class="zone wrap">
     <div class="zone-head">
       <span class="zone-kicker rv">Why this one</span>
-      <h2 class="rv">There Are Plenty Of<br/>Evolution Books. <em>Not This One.</em></h2>
+      <h2 class="rv">There Are Plenty Of<br/>Evolution Books. <em>None This Deep.</em></h2>
+      <p class="zone-lede rv rv2">What is on each page is not the readily available paragraph about a species. It is every system it ran, every innovation it made, and the story of why it had to.</p>
     </div>
     <div class="diffs">
-      <div class="diff rv"><div class="ico">🧬</div><h3>Accurate, Not Simplified Into Wrong</h3><p>Simplifying is fine. Simplifying until it's false is not. Where the science is still argued over, the book says so rather than picking a tidy answer.</p></div>
-      <div class="diff rv rv2"><div class="ico">📖</div><h3>A Story, Not A Catalogue</h3><p>Most evolution books are sorted by animal. This one runs in time order, so a child sees cause and consequence instead of a parade of species.</p></div>
-      <div class="diff rv rv3"><div class="ico">👀</div><h3>Written For Both Of You</h3><p>The reading level lets a 7-year-old in, and the ideas are ones most adults have never been told. You'll learn something on the same page they do.</p></div>
-      <div class="diff rv"><div class="ico">🎨</div><h3>Painted, Not Assembled</h3><p>Every spread is original artwork made for this book — the kind of thing a child stares at long after you've stopped reading aloud.</p></div>
-      <div class="diff rv rv2"><div class="ico">🫀</div><h3>Life Told From The Inside</h3><p>Chapters are written in the voice of what's happening — a cell that searches within herself, a world that goes quiet. It lands differently than a textbook.</p></div>
-      <div class="diff rv rv3"><div class="ico">🌍</div><h3>Part Of A Bigger Map</h3><p>It shares its universe with EscapeGravity and SCI. — the same forces, the same first-principles thinking, one subject at a time.</p></div>
+      <div class="diff rv"><div class="ico">🧬</div><h3>Every Species, Properly</h3><p>Features, characteristics, and the behavioural innovations each one brought with it &mdash; alongside the constraints it was up against and the openings it found. The pressure comes first; the biology is the answer to it.</p></div>
+      <div class="diff rv rv2"><div class="ico">🌱</div><h3>No Anthropocentric Bias</h3><p>Most books treat RNA, plants, even other animals as lifeless, mindless material. That could not be further from the truth. Here they are what they are: flourishing, intelligent, relentlessly adaptive life.</p></div>
+      <div class="diff rv rv3"><div class="ico">🧠</div><h3>Intelligence Is Not Ours Alone</h3><p>A prokaryote sensed, decided and acted four billion years before there was a brain to do it with. If thinking is older than neurons, the question is not whether other life thinks &mdash; it is why we assumed it didn&rsquo;t.</p></div>
+      <div class="diff rv"><div class="ico">❓</div><h3>The Questions It Leaves Open</h3><p>What do we mean by god. How genes, gender and behaviour are wired to each other. Whether humans have lost the capacity for biomechanical evolution. What it means that we are one outcome of all the intelligence that came before us.</p></div>
+      <div class="diff rv rv2"><div class="ico">⚖️</div><h3>What We Are Doing To Selection</h3><p>Species are dying under human hands, and at the same time evolution is surging on under our noses, in places we do not look. Both are happening. The book says so.</p></div>
+      <div class="diff rv rv3"><div class="ico">🎨</div><h3>Painted, Not Assembled</h3><p>Every spread is original artwork made for this book and nothing else &mdash; the kind of thing a child stares at long after you have stopped reading aloud.</p></div>
     </div>
   </section>
 
