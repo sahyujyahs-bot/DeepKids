@@ -199,7 +199,8 @@
       display: flex; align-items: center;
       padding-block: clamp(80px, 11vh, 118px) clamp(24px, 4vh, 46px);
     }
-    .hero-inner { width: 100%; text-align: center; display: flex; flex-direction: column; }
+    .hero-inner {
+      container-type: inline-size; width: 100%; text-align: center; display: flex; flex-direction: column; }
     /* It's a picture book — so the hero is a page from it, dropped
        behind the title and scrimmed down until the type sits clean. */
     .hero-art {
@@ -220,20 +221,25 @@
     @media (prefers-reduced-motion: reduce) { .hero-art img { animation: none; } }
     .hero-eyebrow {
       display: inline-flex; align-self: center; align-items: center; gap: 9px;
-      font-size: clamp(10.5px, 1.3vw, 12.5px); letter-spacing: 4px; text-transform: uppercase;
+      font-size: clamp(8px, 1.9vw, 12.5px); letter-spacing: clamp(1.6px, .5vw, 4px);
+      text-transform: uppercase; white-space: nowrap;
       color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .42); border-radius: 999px;
       padding: 6px 18px; margin-bottom: clamp(20px, 3.5vh, 34px);
       background: rgba(var(--gold-rgb), .08);
     }
     .hero h1 {
-      font-size: clamp(38px, 9vw, 104px); line-height: .94; letter-spacing: 1px;
+      /* One line at every width. Sized against the containing column
+         rather than the viewport, because past 1040px the column stops
+         growing and a vw-based size would overrun it. */
+      font-size: min(5.3cqw, 56px); line-height: 1.08; letter-spacing: .5px;
+      white-space: nowrap;
       background: linear-gradient(180deg, #fff 0%, #ffe6b0 32%, var(--gold) 68%, #ff7a3d 100%);
       -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
       filter: drop-shadow(0 0 44px rgba(255,179,0,.4)) drop-shadow(0 4px 20px rgba(0,0,0,.85));
     }
-    .hero .of-life { display: block; }
+    .hero .of-life { display: inline; }
     .hero-sub {
-      font-size: clamp(15px, 2.1vw, 19px); color: var(--ink);
+      font-size: clamp(12.5px, 3.4vw, 18px); color: var(--ink);
       max-width: 620px; margin: clamp(20px, 3.2vh, 32px) auto 0;
       text-shadow: 0 2px 14px rgba(0,0,0,.9);
     }
@@ -279,34 +285,40 @@
        steps down rather than the section growing past the fold. */
     @media (max-height: 780px) {
       .hero { padding-block: clamp(66px, 9vh, 92px) clamp(16px, 3vh, 30px); }
-      .hero-inner h1 { font-size: clamp(26px, 5.4vw, 44px); }
-      .hero-sub { font-size: clamp(12.5px, 1.5vw, 15px); max-width: 58ch; }
-      .hero-eyebrow { font-size: 10.5px; }
+      .hero-inner h1 { font-size: min(5.3cqw, 40px); }
+      .hero-sub { font-size: clamp(11.5px, 3vw, 15px); max-width: 58ch; }
+      .hero-eyebrow { font-size: clamp(8px, 1.8vw, 11px); }
       .kw { padding-block: 7px; margin-top: 12px; }
       .kw-track span { font-size: clamp(12px, 1.8vw, 17px); }
       .pre-cta { margin-top: 14px; }
       .pre-cta .pre-btn .btn-svg { width: 210px !important; }
       .pre-cta .pre-slot { transform: translateX(7px); }
+      .pre-cta .pre-price { transform: translateX(-17px); }
       .pre-cta .pre-price .amt { font-size: clamp(18px, 3.4vw, 22px); }
       .pre-cta .pre-price .ship { font-size: 11.5px; }
     }
     /* Button and price share one centre line and one width, so the price
        cannot sit off to the side of the button above it. */
     .pre-cta { align-items: center; margin-top: clamp(16px, 2.6vh, 30px); }
-    .pre-cta .pre-price { width: min(100%, 320px); margin-inline: auto; }
+    .pre-cta .pre-price { width: min(100%, 320px); margin-inline: auto; transform: translateX(-20px); }
     .pre-cta .pre-slot { display: flex; justify-content: center; transform: translateX(8px); }
     .pre-cta .pre-price { display: block; }
     /* ─── Keyword ticker ──────────────────────────────────────*/
     .kw {
-      overflow: hidden; margin-top: clamp(14px, 2.2vh, 26px);
+      margin-top: clamp(14px, 2.2vh, 26px);
       padding-block: clamp(9px, 1.4vh, 14px);
       border-block: 1px solid rgba(var(--purple-rgb), .22);
       -webkit-mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
       mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
     }
-    .kw-track { display: flex; width: max-content; gap: clamp(18px, 3vw, 36px); animation: kwrun 30s linear infinite; }
-    .kw:hover .kw-track { animation-play-state: paused; }
-    @keyframes kwrun { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+    .kw {
+      overflow-x: auto; scrollbar-width: none; -ms-overflow-style: none;
+      overscroll-behavior-x: contain; cursor: grab; -webkit-overflow-scrolling: touch;
+      touch-action: pan-x;
+    }
+    .kw::-webkit-scrollbar { display: none; }
+    .kw.dragging { cursor: grabbing; }
+    .kw-track { display: flex; width: max-content; gap: clamp(18px, 3vw, 36px); }
     .kw-track span {
       display: flex; align-items: center; gap: clamp(18px, 3vw, 36px); white-space: nowrap;
       font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
@@ -314,7 +326,6 @@
     }
     .kw-track span::after { content: '✦'; font-size: .5em; color: var(--purple); }
     .kw-track span.hi { color: #fff; }
-    @media (prefers-reduced-motion: reduce) { .kw-track { animation: none; } }
 
     /* ─── The spreads ─────────────────────────────────────────*/
     .sheets { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: clamp(10px, 1.6vw, 18px); }
@@ -567,7 +578,7 @@
     </div>
     <div class="wrap hero-inner">
     <span class="hero-eyebrow">&#10022;&nbsp; Picture Book&nbsp;&middot;&nbsp;In Production</span>
-    <h1>The Story Of<br/><span class="of-life">Evolution Of Life</span></h1>
+    <h1>The Story Of <span class="of-life">Evolution Of Life</span></h1>
     <p class="hero-sub">A thoroughly researched picture book. It begins in the <b>silent infinite</b> &mdash; the consciousness that the universe and time were born out of &mdash; then the making of the planets, and of Earth. Then the very first RNA, <b>our great-great-grandmother</b>. And from her, four billion years of life experimenting its way to today: where species are dying under human hands, while evolution surges on under our noses, where we don&rsquo;t see it.</p>
     <div class="pre-cta">
       <div class="pre-slot">
@@ -575,7 +586,7 @@
       </div>
       <span class="pre-price">
         <span class="amt"><s>&#8377;2,499</s><b>&#8377;2,124</b></span>
-        <span class="ship">15% off while it is in production &middot; ships the day it is printed</span>
+        <span class="ship">15% off while it is in production</span>
       </span>
     </div>
     <div class="kw" aria-label="What this book is">
@@ -589,7 +600,7 @@
     <div class="zone-head">
       <span class="zone-kicker rv">Every page, in order</span>
       <h2 class="rv">The <em>Spreads</em></h2>
-      <p class="zone-lede rv rv2">Every page, in the order it appears. Each painting was made for this book and nothing else &mdash; tap one to open it.</p>
+      <p class="zone-lede rv rv2">Hand-painted artwork on every page &mdash; tap to read.</p>
     </div>
     <div class="sheets">
       <button type="button" class="sheet rv" data-sheet="0"><span class="sheet-no">1</span><img src="sp-02.webp" alt="The Silent Infinite" width="1600" height="1143" loading="lazy" decoding="async"/><span class="sheet-cap"><i>Before time</i><b>The Silent Infinite</b></span></button>
@@ -927,6 +938,83 @@ document.addEventListener('keydown', function (e) {
   if (e.key === 'ArrowLeft') evoGo(-1);
   if (e.key === 'ArrowRight') evoGo(1);
 });
+</script>
+<script>
+/* ── Keyword ticker ───────────────────────────────────────────
+   A real scroller, so it can be swiped on touch and dragged with a
+   mouse, in either direction. It drifts on its own and gives way the
+   moment you touch it, picking the drift back up shortly after you let
+   go. A CSS animation could only be paused, and it ate the gesture.
+
+   Note there is deliberately no 'scroll' listener: the drift writes
+   scrollLeft every frame, the scroll event that follows is asynchronous,
+   and pausing on it made the ticker stop itself dead. Pointer and touch
+   events tell us about the user; scroll events cannot. */
+(function () {
+  var rail = document.querySelector('.kw'), track = rail && rail.querySelector('.kw-track');
+  if (!rail || !track) return;
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  var SPEED = 0.35;                       // ~21px a second
+  /* The position is kept as a float here and written out each frame.
+     Adding a sub-pixel amount to scrollLeft directly does nothing — the
+     browser snaps the value back and the drift never accumulates. */
+  var pos = 0, idle = 0, held = false, half = 0;
+  function measure() { half = track.scrollWidth / 2; }
+  measure();
+  window.addEventListener('resize', measure);
+
+  (function tick() {
+    requestAnimationFrame(tick);
+    if (held) return;
+    if (idle > 0) { idle--; return; }
+    pos += SPEED;
+    /* The list is printed twice, so stepping back a copy is invisible. */
+    if (half && pos >= half) pos -= half;
+    rail.scrollLeft = pos;
+  })();
+
+  function pause(frames) { if (frames > idle) idle = frames; }
+  /* Pick the drift up from wherever the user left it. */
+  function wrap() {
+    pos = rail.scrollLeft;
+    if (!half) return;
+    if (pos >= half) pos -= half;
+    else if (pos < 0) pos += half;
+    rail.scrollLeft = pos;
+  }
+
+  rail.addEventListener('click', function () { pause(60); });          // a beat, then on
+  rail.addEventListener('wheel', function () { pause(90); setTimeout(wrap, 400); }, { passive: true });
+
+  /* Touch: let the browser do the scrolling it is good at, and just
+     stand out of the way while a finger is down. */
+  rail.addEventListener('touchstart', function () { held = true; }, { passive: true });
+  function touchEnd() { held = false; pause(60); wrap(); }
+  rail.addEventListener('touchend', touchEnd, { passive: true });
+  rail.addEventListener('touchcancel', touchEnd, { passive: true });
+
+  /* Mouse: drag to scrub. */
+  var dragging = false, startX = 0, startScroll = 0;
+  rail.addEventListener('pointerdown', function (e) {
+    if (e.pointerType !== 'mouse') return;
+    dragging = true; held = true; startX = e.clientX; startScroll = rail.scrollLeft;
+    rail.classList.add('dragging');
+    if (rail.setPointerCapture) { try { rail.setPointerCapture(e.pointerId); } catch (err) {} }
+  });
+  rail.addEventListener('pointermove', function (e) {
+    if (!dragging) return;
+    rail.scrollLeft = startScroll - (e.clientX - startX);
+  });
+  function release() {
+    if (!dragging) return;
+    dragging = false; held = false;
+    rail.classList.remove('dragging');
+    pause(45); wrap();
+  }
+  rail.addEventListener('pointerup', release);
+  rail.addEventListener('pointercancel', release);
+})();
 </script>
   <script src="/dkbtn.js" defer></script>
   <script src="/cart.js" defer></script>
