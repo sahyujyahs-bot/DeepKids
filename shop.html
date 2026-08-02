@@ -746,7 +746,12 @@
       <div class="hero-kinds" id="hero-kinds">Boardgames <i>·</i> Card Games <i>·</i> Picture Books</div>
     </div>
     <div class="hero-scene">
-      <img id="hero-art" src="kids-playing-cut.webp" alt="Four kids playing the EscapeGravity spiral board game" width="1357" height="970" fetchpriority="high" decoding="async"/>
+      <!-- Ships with the existing wide art. hero-wide / hero-tall are the
+           purpose-drawn pair (21:9 and 2:3) that stretch the full width of
+           their screen; the script below swaps whichever one matches, and
+           only after it has actually loaded — so a missing file leaves the
+           hero intact instead of breaking it. -->
+      <img id="hero-art" src="kids-playing-cut.webp" alt="Kids playing the EscapeGravity spiral board game, one of them balancing on one leg" width="1357" height="970" fetchpriority="high" decoding="async"/>
     </div>
     <!-- The ticker is the hero's last row, not a section below it, so the
          whole first screen ends exactly where the hero ends. -->
@@ -1820,6 +1825,24 @@ if ('IntersectionObserver' in window) {
 } else {
   document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
 }
+
+/* ══ Hero art: the right shape for the screen ══
+   A wide 21:9 drawing letterboxes badly on a phone and a tall 2:3 one
+   wastes a desktop, so there are two. Probed rather than declared with
+   <picture> so the page still renders the existing art if a file is
+   missing, and probed after load so it never delays the first paint. */
+window.addEventListener('load', function() {
+  var el = document.getElementById('hero-art');
+  if (!el) return;
+  var want = matchMedia('(min-width:769px)').matches
+    ? { src:'hero-wide.webp', w:3136, h:1344 }
+    : { src:'hero-tall.webp', w:1664, h:2496 };
+  var probe = new Image();
+  probe.onload = function() {
+    el.width = want.w; el.height = want.h; el.src = want.src;
+  };
+  probe.src = want.src;
+});
 
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
