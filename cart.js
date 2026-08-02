@@ -25,7 +25,7 @@
     { sku: 'SCI-001', name: 'SCI. Trading Cards',    price: 119900, preorder: true,
       href: '/sci',       img: 'sci-brahmagupta-front.webp' },
     { sku: 'EVO-001', name: 'The Story Of Evolution', price: 249900, preorder: true,
-      href: '/evolution', img: 'evo-network.webp' }
+      href: '/evolution', img: 'evo-thought-neurons.webp' }
   ];
 
   var CART_KEY = 'dk-cart', WISH_KEY = 'dk-wish';

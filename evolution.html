@@ -8,7 +8,7 @@
   <link rel="canonical" href="https://deepkids.in/evolution"/>
   <meta property="og:title" content="The Story Of Evolution Of Life — A Picture Book For Kids &amp; Adults"/>
   <meta property="og:description" content="Four billion years, told once, properly. Hand-painted spreads and honest science — including the parts most books leave out."/>
-  <meta property="og:image" content="https://deepkids.in/evo-network.webp"/>
+  <meta property="og:image" content="https://deepkids.in/evo-thought-neurons.webp"/>
   <meta property="og:url" content="https://deepkids.in/evolution"/>
   <meta property="og:type" content="book"/>
   <meta name="theme-color" content="#05030f"/>
@@ -288,6 +288,11 @@
 
     /* ─── Sections ────────────────────────────────────────────*/
     .zone { padding-block: var(--gap-section); }
+    /* Sections whose content is artwork: no side padding of their own, so
+       a spread reaches both edges of the column — but still clear of the
+       deep-time rail, which is fixed over the left of the viewport. */
+    .zone-bleed { padding-left: var(--rail); }
+    .zone-bleed > .spread { padding-inline: 0; }
     .zone-head { margin-bottom: var(--gap-block); }
     .zone-kicker {
       display: block; font-family: var(--font-head); font-variant: small-caps;
@@ -299,68 +304,51 @@
     .zone-lede b { color: #fff; }
 
     /* ─── Excerpt: a real page from the book ──────────────────*/
-    .excerpt {
-      display: grid; grid-template-columns: minmax(0, 1fr); gap: 0;
-      border: 1px solid rgba(255,255,255,.16); border-radius: 22px; overflow: hidden;
-      background: linear-gradient(150deg, rgba(255,255,255,.06), rgba(255,255,255,.015) 70%);
+    /* ─── Full-bleed spreads ──────────────────────────────────*/
+    /* A spread is a page of the book, shown whole and edge to edge. No
+       card, no border, no crop — the painting is the layout, and the type
+       sits on it the way it does on the page itself. */
+    .spread {
+      position: relative; width: 100%; background: #05030f; overflow: hidden;
     }
-    @media (min-width: 820px) { .excerpt { grid-template-columns: minmax(0, 46%) minmax(0, 54%); } }
-    .excerpt-art { position: relative; background: #07040f; min-height: 240px; }
-    .excerpt-art img { width: 100%; height: 100%; object-fit: cover; }
-    .excerpt-era {
-      position: absolute; left: 14px; bottom: 14px;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: 12px;
-      color: #fff; background: rgba(5,3,15,.74); border: 1px solid rgba(255,255,255,.26);
-      padding: 4px 12px; border-radius: 999px;
-      backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
+    .spread + .spread { margin-top: clamp(6px, 1vh, 14px); }
+    .spread > img {
+      display: block; width: 100%; height: auto;
+      /* object-fit would crop; the whole painting has to be visible */
     }
-    .excerpt-text { padding: clamp(24px, 3.4vw, 38px); display: flex; flex-direction: column; justify-content: center; }
-    .excerpt-text h3 { font-size: clamp(21px, 3vw, 30px); color: #fff; letter-spacing: 1.5px; margin-bottom: 14px; }
-    .excerpt-text p { font-size: clamp(15px, 1.9vw, 16.5px); color: var(--ink); }
-    .excerpt-text p + p { margin-top: 12px; }
-    .excerpt-text b { color: var(--lime); }
-    .excerpt-note {
-      margin-top: 18px; padding-top: 14px; border-top: 1px dashed rgba(255,255,255,.2);
-      font-size: 13px; color: var(--ink-dim); font-style: oblique;
+    .spread-copy {
+      position: absolute; inset: 0; z-index: 2; pointer-events: none;
+      display: flex; flex-direction: column; justify-content: flex-end;
+      padding: clamp(16px, 4vw, 56px);
+      background: linear-gradient(180deg, rgba(5,3,15,.55) 0%, rgba(5,3,15,0) 26%,
+                                          rgba(5,3,15,0) 44%, rgba(5,3,15,.88) 100%);
     }
-
-    /* ─── Chapter list ────────────────────────────────────────*/
-    .chapters { border: 1px solid rgba(255,255,255,.14); border-radius: 20px; overflow: hidden; }
-    .chapter {
-      display: grid; grid-template-columns: minmax(88px, 128px) 1fr; gap: clamp(12px, 2.4vw, 26px);
-      align-items: baseline; padding: clamp(14px, 2.2vw, 20px) clamp(16px, 2.6vw, 26px);
-      background: rgba(255,255,255,.03); border-bottom: 1px solid rgba(255,255,255,.07);
-      transition: background .25s ease, padding-left .25s ease;
+    .spread-era {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: clamp(10px, 1.4vw, 13px); color: var(--gold);
     }
-    .chapter:last-child { border-bottom: 0; }
-    .chapter:hover { background: rgba(var(--purple-rgb), .15); padding-left: calc(clamp(16px, 2.6vw, 26px) + 8px); }
-    .chapter .when {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px;
-      font-size: clamp(12px, 1.6vw, 14px); color: var(--gold); white-space: nowrap;
+    .spread-copy h3 {
+      font-size: clamp(19px, 3.6vw, 44px); color: #fff; letter-spacing: 1.5px;
+      margin: 2px 0 0; text-shadow: 0 3px 20px rgba(0,0,0,.9);
     }
-    .chapter .what { font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px;
-      font-size: clamp(16px, 2.2vw, 20px); color: #fff; }
-    .chapter .what small {
-      display: block; font-family: var(--font-body); font-variant: normal; letter-spacing: 0;
-      font-size: 13.5px; color: var(--ink-dim); margin-top: 2px; line-height: 1.5;
+    .spread-copy .body { pointer-events: auto; max-width: 62ch; margin-top: clamp(6px, 1.2vh, 14px); }
+    .spread-copy .body p {
+      font-size: clamp(11.5px, 1.55vw, 17px); line-height: 1.55; color: rgba(255,255,255,.92);
+      text-shadow: 0 2px 12px rgba(0,0,0,.95);
     }
-
-    /* ─── Art gallery ─────────────────────────────────────────*/
-    .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: clamp(10px, 1.6vw, 16px); }
-    .plate {
-      position: relative; border-radius: 16px; overflow: hidden; aspect-ratio: 800 / 571;
-      border: 1px solid rgba(255,255,255,.12); background: #07040f;
-      transition: transform .35s ease, border-color .35s ease;
+    .spread-copy .body p + p { margin-top: .5em; }
+    .spread-copy .body b { color: var(--lilac); font-weight: normal; }
+    .spread-note {
+      margin-top: 10px; font-size: clamp(10.5px, 1.2vw, 13px);
+      color: rgba(255,255,255,.6); font-style: italic;
     }
-    .plate:hover { transform: translateY(-4px) scale(1.015); border-color: rgba(var(--purple-rgb), .55); }
-    .plate img { width: 100%; height: 100%; object-fit: cover; }
-    .plate figcaption {
-      position: absolute; left: 0; right: 0; bottom: 0; padding: 22px 14px 12px;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px; font-size: 13.5px; color: #fff;
-      background: linear-gradient(180deg, transparent, rgba(5,3,15,.88));
+    /* On a phone a 1.4:1 painting is short and the copy is long, so the
+       text sits under the picture instead of over it. */
+    @media (max-width: 700px) {
+      .spread-copy { position: static; background: none; padding: 14px clamp(14px, 4vw, 22px) 26px; }
+      .spread { background: linear-gradient(180deg, rgba(255,255,255,.04), transparent 60%); }
+      .spread + .spread { margin-top: 10px; }
     }
-    .plate.wide { grid-column: span 2; aspect-ratio: 16 / 7; }
-    @media (max-width: 560px) { .plate.wide { grid-column: span 1; aspect-ratio: 800 / 571; } }
 
     /* ─── Difference list ─────────────────────────────────────*/
     .diffs { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: clamp(14px, 2vw, 20px); }
@@ -494,7 +482,7 @@
   <!-- ═══════════════ HERO ═══════════════ -->
   <section class="hero">
     <div class="hero-art" aria-hidden="true">
-      <img src="evo-network.webp" alt="" width="1500" height="1071" fetchpriority="high" decoding="async"/>
+      <img src="evo-thought-neurons.webp" alt="" width="1800" height="1286" fetchpriority="high" decoding="async"/>
     </div>
     <div class="wrap hero-inner">
     <span class="hero-eyebrow">✦&nbsp; Picture Book&nbsp;·&nbsp;In Production</span>
@@ -519,40 +507,55 @@
   </section>
 
   <!-- ═══════════════ EXCERPTS ═══════════════ -->
-  <section class="zone wrap" id="read">
-    <div class="zone-head">
-      <span class="zone-kicker rv">Two pages from the book</span>
+  <section class="zone zone-bleed" id="read">
+    <div class="zone-head wrap">
+      <span class="zone-kicker rv">Three pages from the book</span>
       <h2 class="rv">Read A <em>Spread</em></h2>
       <p class="zone-lede rv rv2">This is the actual writing, not a summary of it. Every spread pairs one painting with the story of what was happening — in a voice that assumes a child can handle the real thing.</p>
     </div>
 
-    <article class="excerpt rv" style="margin-bottom: clamp(18px, 3vh, 30px);">
-      <div class="excerpt-art">
-        <img src="evo-deep-dna.webp" alt="Painting of a strand of DNA glowing in deep water" width="1500" height="1071" loading="lazy" decoding="async"/>
-        <span class="excerpt-era">~2.5 billion years ago</span>
-      </div>
-      <div class="excerpt-text">
+    <div class="spread rv">
+      <img src="evo-life-savers.webp" alt="A figure of light seated on the ocean floor, breathing out bubbles of oxygen" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy">
+        <span class="spread-era">~2.5 billion years</span>
         <h3>The Life Savers</h3>
-        <p>The new kid, cyanobacteria, came to the rescue.</p>
-        <p>The young cyanobacteria searched within herself, unlocking an ancient secret — <b>the power to breathe life into a dying world</b> as a by-product of photosynthesis, mother of all inventions.</p>
-        <p>For the very first time, organisms started breaking water and learned to use the power of the sun. With each bubble of oxygen she fought back the silent invaders, <b>paving the way for a world teeming with life</b>.</p>
-        <p class="excerpt-note">Most books hand children "plants make oxygen." This one hands them the moment it started, and who did it.</p>
+        <div class="body">
+          <p>The new kid, cyanobacteria, came to the rescue.</p>
+          <p>The young cyanobacteria searched within herself, unlocking an ancient secret — <b>the power to breathe life into a dying world</b> as a by-product of photosynthesis, mother of all inventions.</p>
+          <p>For the very first time, organisms started breaking water and learned to use the power of the sun. With each bubble of oxygen she fought back the silent invaders, <b>paving the way for a world teeming with life</b>.</p>
+          <p class="spread-note">Most books hand children "plants make oxygen." This one hands them the moment it started, and who did it.</p>
+        </div>
       </div>
-    </article>
+    </div>
 
-    <article class="excerpt rv rv2">
-      <div class="excerpt-art">
-        <img src="evo-cells.webp" alt="Painting of early cells dividing in a lit ocean" width="1500" height="1071" loading="lazy" decoding="async"/>
-        <span class="excerpt-era">~4 billion years ago</span>
+    <div class="spread rv rv2">
+      <img src="evo-first-cell.webp" alt="The first cell drifting in the dark ocean, tails trailing behind it" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy">
+        <span class="spread-era">~3.8 billion years</span>
+        <h3>The First Cell &mdash; All Our Great Grandmother</h3>
+        <div class="body">
+          <p>The first cell, our great grandmother, the prokaryote, was born when the RNA chains took shelter in bubbles of fat floating in the ocean.</p>
+          <p>She was an enigma — <b>the great grandmother for all life</b>. She lived, learned and built. She built the proteins by stitching amino acids into a chain. Proteins became the commandos and she, the queen.</p>
+          <p>She could already sense and respond to the environment. She could move toward food and away from toxins. She grew tails that spinned like propellers to move. She even learned to crawl. All while also splitting, copying, multiplying.</p>
+          <p>This was no accident. <b>This was ingenuity, wrapped in a cell wall.</b> And still, just the beginning.</p>
+          <p class="spread-note">Verbatim from the spread, right down to "spinned".</p>
+        </div>
       </div>
-      <div class="excerpt-text">
+    </div>
+
+    <div class="spread rv">
+      <img src="evo-thought-neurons.webp" alt="A sphere of lit points connected into a network, alone in the dark" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy">
+        <span class="spread-era">~4 billion years</span>
         <h3>Thought Predates Neurons</h3>
-        <p>Form has always followed function in evolution, and the mind is no exception.</p>
-        <p>One of the great delusions — even science still clings to it — is that intelligence, thought and awareness began with "higher" animals, or with neurons and the brain. <b>But thought has been moulding life all along.</b></p>
-        <p>Now go back four billion years, to her: the great-grandmother cell, a prokaryote. She sensed her surroundings, made decisions, took action. <b>She built life from scratch — none of it without thought.</b> Same biochemistry, same ion flow, same protein triggers and gene flips. Just without the neurons, without the super-fast tunnels — through diffusion across the cell instead.</p>
-        <p>Thinking, strategising, planning — from the prokaryotes to you. <b>Common to all life.</b></p>
+        <div class="body">
+          <p>Form has always followed function in evolution, and the mind is no exception.</p>
+          <p>One of the great delusions — even science still clings to it — is that intelligence, thought and awareness began with "higher" animals, or with neurons and the brain. <b>But thought has been moulding life all along.</b></p>
+          <p>Now go back four billion years, to her: the great-grandmother cell, a prokaryote. She sensed her surroundings, made decisions, took action. <b>She built life from scratch — none of it without thought.</b> Same biochemistry, same ion flow, same protein triggers and gene flips. Just without the neurons, without the super-fast tunnels — through diffusion across the cell instead.</p>
+          <p>Thinking, strategising, planning — from the prokaryotes to you. <b>Common to all life.</b></p>
+        </div>
       </div>
-    </article>
+    </div>
   </section>
 
   <!-- ═══════════════ CHAPTERS ═══════════════ -->
@@ -564,41 +567,95 @@
     </div>
     <div class="chapters rv">
       <div class="chapter"><span class="when">Before time</span><span class="what">The Silent Infinite<small>"I hadn't yet been born. I did not count moments. I did not flow. I did not know myself."</small></span></div>
-      <div class="chapter"><span class="when">~4.5 billion</span><span class="what">The Birth Of The Earth<small>A cloud of dust and gas collapses, and a world condenses out of it.</small></span></div>
-      <div class="chapter"><span class="when">~4.45 billion</span><span class="what">The First Moon Rise<small>A collision so violent it throws up a companion — and the young Earth gets a sky with two lights in it.</small></span></div>
-      <div class="chapter"><span class="when">~4 billion</span><span class="what">Thought Predates Neurons<small>The great-grandmother cell senses, decides and acts — long before there is a brain to do it with.</small></span></div>
+      <div class="chapter"><span class="when">~13.8 billion</span><span class="what">The First Dance Of Creation<small>A ripple, a pulse — and the first breath moves through the infinite.</small></span></div>
+      <div class="chapter"><span class="when">~4.5 billion</span><span class="what">The Birth Of The Earth<small>Dust and gas spun, collided and grew, until 4.5 billion years in, the Earth arrived.</small></span></div>
+      <div class="chapter"><span class="when">~4.48 billion</span><span class="what">Fiery Hot Ball<small>Wild, hot and violent. Just fire, chaos, and the birth of a world.</small></span></div>
+      <div class="chapter"><span class="when">~4.45 billion</span><span class="what">The First Moon Rise<small>A Mars-sized rock hits, and the young Earth gets a sky with two lights in it.</small></span></div>
+      <div class="chapter"><span class="when">~4.3 billion</span><span class="what">Water, Water, Everywhere<small>Steam from the molten surface, rain for millions of years, and the first oceans.</small></span></div>
+      <div class="chapter"><span class="when">~4.2 billion</span><span class="what">Gene, Memory And Life<small>Molecules that flooded, flared and vanished — until one of them held a shape.</small></span></div>
+      <div class="chapter"><span class="when">~13.8 billion</span><span class="what">The Question Of God<small>Consciousness, intent, thought. Was it chance, or was there intent?</small></span></div>
+      <div class="chapter"><span class="when">~3.8 billion</span><span class="what">The First Cell<small>All our great grandmother. "This was no accident. This was ingenuity, wrapped in a cell wall."</small></span></div>
+      <div class="chapter"><span class="when">~3.5 billion</span><span class="what">The First Family<small>Archaea, cyanobacteria, aerobic bacteria — the first family photo.</small></span></div>
+      <div class="chapter"><span class="when">~3.25 billion</span><span class="what">Alien Zombies<small>Viruses: not quite alive, and thriving among us ever since.</small></span></div>
       <div class="chapter"><span class="when">~2.5 billion</span><span class="what">The Life Savers<small>Cyanobacteria learn photosynthesis and flood a dying world with oxygen.</small></span></div>
-      <div class="chapter"><span class="when">Deep past</span><span class="what">The Start Of The Gender Race<small>Why life split itself in two, and what that division set loose.</small></span></div>
-      <div class="chapter"><span class="when">~700 million</span><span class="what">Comb Jellies — The First Predators<small>The moment one living thing started eating another, and everything had to get faster.</small></span></div>
-      <div class="chapter"><span class="when">~500 million</span><span class="what">Fishes &amp; Vertebrates<small>A spine appears, and with it a body plan that still runs through you.</small></span></div>
-      <div class="chapter"><span class="when">~410 million</span><span class="what">Plants Take Root<small>Life leaves the water and has to invent plumbing, structure and standing up.</small></span></div>
-      <div class="chapter"><span class="when">~385 million</span><span class="what">Trees — The Giants<small>The first forests, and a planet that changes colour from space.</small></span></div>
-      <div class="chapter"><span class="when">Onwards</span><span class="what">Ferns &amp; Fractals<small>The same pattern repeating at every scale — once you see it, you cannot unsee it.</small></span></div>
+      <div class="chapter"><span class="when">~2.1 billion</span><span class="what">The Great Alliances<small>One prokaryote swallows another and neither dies — the first union.</small></span></div>
+      <div class="chapter"><span class="when">~2.1 billion</span><span class="what">The Start Of The Gender Race<small>Why life split itself in two, and what that division set loose.</small></span></div>
+      <div class="chapter"><span class="when">~1.5 billion</span><span class="what">Multicellularity<small>Single cells stop leaving home, and the first plant appears.</small></span></div>
+      <div class="chapter"><span class="when">~1.2 billion</span><span class="what">Fungi Born<small>The plant-animal in-betweens, digesting the world from the outside in.</small></span></div>
+      <div class="chapter"><span class="when">~800 million</span><span class="what">First Ever Animal<small>Sponges: full of pores, both male and female, and still here.</small></span></div>
+      <div class="chapter"><span class="when">~700 million</span><span class="what">Comb Jellies<small>The first predators — and the first true stomach.</small></span></div>
+      <div class="chapter"><span class="when">~4 billion</span><span class="what">Thought Predates Neurons<small>The great-grandmother cell senses, decides and acts, long before there is a brain to do it with.</small></span></div>
+      <div class="chapter"><span class="when">~590 million</span><span class="what">Symmetry Was Born<small>A left and a right, a front and a back — and with them, a head.</small></span></div>
+      <div class="chapter"><span class="when">~580 million</span><span class="what">Protostomes<small>Mouth first, belly-brained. The first bilaterians split into two great plans.</small></span></div>
+      <div class="chapter"><span class="when">~570 million</span><span class="what">The Second Path<small>Deuterostomes — the other plan, and the one that led to us.</small></span></div>
+      <div class="chapter"><span class="when">~512 million</span><span class="what">Parasites<small>Not just a myth, and thriving among us. Alive is a strategy with many shapes.</small></span></div>
+      <div class="chapter"><span class="when">~515 million</span><span class="what">Plants Take Root<small>With roots, plants anchor themselves and start to shape the world.</small></span></div>
+      <div class="chapter"><span class="when">~500 million</span><span class="what">Fishes & Vertebrates<small>A skull, then a spine — the first vertebrate, and eventually us.</small></span></div>
+      <div class="chapter"><span class="when">~400 million</span><span class="what">Woody-Stemmed Plants<small>Height, endurance, and a whole new era of competition for light.</small></span></div>
+      <div class="chapter"><span class="when">~385 million</span><span class="what">Trees — The Saint Giants<small>Sixty feet tall, connected underground, and quietly running the forest.</small></span></div>
+      <div class="chapter"><span class="when">~360 million</span><span class="what">Insects — Crawling & Flying<small>Six legs, compound eyes, and the first animal ever to fly.</small></span></div>
+      <div class="chapter"><span class="when">~296 million</span><span class="what">Octopus<small>Nine brains, blue blood, and a mind that thinks with its arms.</small></span></div>
     </div>
   </section>
 
   <!-- ═══════════════ ART ═══════════════ -->
-  <section class="zone wrap" id="art">
-    <div class="zone-head">
+  <section class="zone zone-bleed" id="art">
+    <div class="zone-head wrap">
       <span class="zone-kicker rv">Every page painted by hand</span>
       <h2 class="rv">The <em>Art</em></h2>
       <p class="zone-lede rv rv2">No stock illustration, no clip-art, no templates. Every spread was painted for this book and nothing else — which is why the ancient ocean actually looks like somewhere you could drown.</p>
     </div>
-    <div class="gallery">
-      <figure class="plate wide rv"><img src="evo-network.webp" alt="A lit network of points spread across the dark" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Before anything was alive</figcaption></figure>
-      <figure class="plate rv"><img src="evo-deep-dna.webp" alt="A strand of DNA glowing in deep water" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The first instructions</figcaption></figure>
-      <figure class="plate rv2 rv"><img src="evo-cells.webp" alt="Early cells dividing in a lit ocean" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Life multiplies</figcaption></figure>
-      <figure class="plate rv"><img src="evo-sunburst.webp" alt="A vast sun with life radiating from it" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The engine overhead</figcaption></figure>
-      <figure class="plate rv2 rv"><img src="evo-reef-red.webp" alt="A reef in reds and oranges, crowded with life" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The crowded shallows</figcaption></figure>
-      <figure class="plate rv3 rv"><img src="evo-jellies.webp" alt="Jellyfish drifting through a bloom of light" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Drifting, and glowing</figcaption></figure>
-      <figure class="plate wide rv2 rv"><img src="evo-reef-blue.webp" alt="A blue-green reef stretching into the distance" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>An ocean full of strangers</figcaption></figure>
-      <figure class="plate rv"><img src="evo-crash.webp" alt="An asteroid striking the Earth" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The afternoon it ended</figcaption></figure>
-      <figure class="plate rv2 rv"><img src="evo-bloom.webp" alt="A white bloom opening in a dark forest" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Flowers, an invention</figcaption></figure>
-      <figure class="plate rv"><img src="evo-whale.webp" alt="A whale surfacing at dusk" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Back into the water</figcaption></figure>
-      <figure class="plate rv2 rv"><img src="evo-roos.webp" alt="Kangaroos under a swirling night sky" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>Mammals in the dark</figcaption></figure>
-      <figure class="plate rv"><img src="evo-mammoth.webp" alt="A mammoth walking through freezing mist" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>The long cold</figcaption></figure>
-      <figure class="plate rv2 rv"><img src="evo-volcano.webp" alt="A volcano erupting beneath an enormous moon" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>A world still forming</figcaption></figure>
-      <figure class="plate wide rv rv"><img src="evo-people.webp" alt="Early people resting in long grass" width="1500" height="1071" loading="lazy" decoding="async"/><figcaption>And then, us</figcaption></figure>
+    <div class="spread rv">
+      <img src="evo-fiery-hot-ball.webp" alt="Fiery Hot Ball — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~4.48 billion years</span><h3>Fiery Hot Ball</h3></div>
+    </div>
+    <div class="spread rv rv2">
+      <img src="evo-first-moon-rise.webp" alt="The First Moon Rise — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~4.45 billion years</span><h3>The First Moon Rise</h3></div>
+    </div>
+    <div class="spread rv">
+      <img src="evo-water-everywhere.webp" alt="Water, Water, Everywhere — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~4.3 billion years</span><h3>Water, Water, Everywhere</h3></div>
+    </div>
+    <div class="spread rv rv2">
+      <img src="evo-gene-memory-life.webp" alt="Gene, Memory And Life — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~4.2 billion years</span><h3>Gene, Memory And Life</h3></div>
+    </div>
+    <div class="spread rv">
+      <img src="evo-alien-zombies.webp" alt="Alien Zombies — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~3.25 billion years</span><h3>Alien Zombies</h3></div>
+    </div>
+    <div class="spread rv rv2">
+      <img src="evo-gender-race.webp" alt="The Start Of The Gender Race — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~2.1 billion years</span><h3>The Start Of The Gender Race</h3></div>
+    </div>
+    <div class="spread rv">
+      <img src="evo-first-plant.webp" alt="Multicellularity & The First Plant — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~1.5 billion years</span><h3>Multicellularity &amp; The First Plant</h3></div>
+    </div>
+    <div class="spread rv rv2">
+      <img src="evo-comb-jellies.webp" alt="Comb Jellies — The First Predators — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~700 million years</span><h3>Comb Jellies &mdash; The First Predators</h3></div>
+    </div>
+    <div class="spread rv">
+      <img src="evo-deuterostomes.webp" alt="The Second Path — Deuterostomes — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~570 million years</span><h3>The Second Path &mdash; Deuterostomes</h3></div>
+    </div>
+    <div class="spread rv rv2">
+      <img src="evo-fishes.webp" alt="Fishes & Vertebrates — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~500 million years</span><h3>Fishes &amp; Vertebrates</h3></div>
+    </div>
+    <div class="spread rv">
+      <img src="evo-trees.webp" alt="Trees — The Saint Giants — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~385 million years</span><h3>Trees &mdash; The Saint Giants</h3></div>
+    </div>
+    <div class="spread rv rv2">
+      <img src="evo-insects.webp" alt="Insects — Crawling & Flying — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~360 million years</span><h3>Insects &mdash; Crawling &amp; Flying</h3></div>
+    </div>
+    <div class="spread rv">
+      <img src="evo-octopus.webp" alt="Octopus — a hand-painted spread from the book" width="1800" height="1286" loading="lazy" decoding="async"/>
+      <div class="spread-copy"><span class="spread-era">~296 million years</span><h3>Octopus</h3></div>
     </div>
   </section>
 
