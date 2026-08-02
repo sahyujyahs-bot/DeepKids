@@ -220,10 +220,12 @@
     @media (max-width: 700px) { .mast-right a.hide-sm { display: none; } }
 
     /* ─── Hero ────────────────────────────────────────────────*/
+    /* Locked to exactly one screen — nothing spills past the fold and
+       the artwork shrinks to fit rather than pushing the copy off. */
     .hero {
-      min-height: 100vh; min-height: 100dvh;
+      height: 100vh; height: 100dvh; max-height: 100dvh; overflow: hidden;
       display: flex; flex-direction: column; justify-content: center; align-items: center;
-      padding-block: clamp(86px, 13vh, 132px) clamp(40px, 7vh, 80px);
+      padding-block: clamp(74px, 11vh, 116px) clamp(20px, 3.5vh, 44px);
       text-align: center;
     }
     .hero-age {
@@ -248,10 +250,17 @@
       font-size: clamp(14px, 2.4vw, 24px); color: rgba(255,255,255,.92);
     }
     .hero-kinds i { font-style: normal; color: var(--purple); }
+    /* The artwork is cut out of its own background: the page is the room
+       they are playing in. min-height:0 lets it shrink inside the flex
+       column instead of overflowing the fold. */
     .hero-stage {
-      width: min(760px, 92%); margin-top: clamp(20px, 3.5vh, 40px);
-      filter: drop-shadow(0 24px 50px rgba(0,0,0,.6));
+      flex: 0 1 auto; min-height: 0;
+      width: min(720px, 92%); max-height: 46vh; object-fit: contain;
+      margin-top: clamp(8px, 1.6vh, 22px);
+      filter: drop-shadow(0 28px 46px rgba(0,0,0,.65)) drop-shadow(0 0 60px rgba(var(--purple-rgb), .3));
+      will-change: transform;
     }
+    .hero-line { flex-shrink: 0; }
     .hero-line {
       margin-top: clamp(18px, 3vh, 30px); max-width: 620px;
       font-size: clamp(15px, 2vw, 19px); color: var(--ink);
@@ -288,84 +297,97 @@
     .cl-m  { font-size: clamp(18px, 3.2vw, 32px); color: rgba(255,255,255,.72); }
     .cl-gold { color: var(--gold); } .cl-lime { color: var(--lime); } .cl-cyan { color: var(--cyan); }
 
-    /* ─── School: the cage ────────────────────────────────────*/
-    .school { position: relative; padding: 0; }
-    .school-grid { display: grid; grid-template-columns: 1fr; min-height: 100vh; min-height: 100dvh; }
-    @media (min-width: 880px) { .school-grid { grid-template-columns: 1.05fr 1fr; } }
-    .school-art {
-      position: relative; overflow: hidden; min-height: 58vh;
+    /* ─── The two broken options ──────────────────────────────
+       One full screen each, built identically so they read as a pair:
+       cut-out artwork on the page background (never a photo in a box),
+       copy beside it on desktop and beneath it on a phone. */
+    .broken { position: relative; padding: 0; }
+    .broken-inner {
+      min-height: 100vh; min-height: 100dvh;
+      display: grid; grid-template-columns: 1fr; align-content: center;
+      gap: clamp(18px, 3vh, 34px);
+      padding-block: clamp(80px, 12vh, 120px) clamp(40px, 7vh, 80px);
+    }
+    @media (min-width: 900px) {
+      .broken-inner { grid-template-columns: 1.05fr 1fr; align-items: center; gap: clamp(24px, 4vw, 60px); }
+      .broken-inner.flip .broken-art { order: 2; }
+    }
+    .broken-art { position: relative; display: grid; place-items: center; }
+    .broken-art img {
+      width: 100%; max-width: 560px; max-height: 52vh; object-fit: contain;
+      filter: drop-shadow(0 26px 46px rgba(0,0,0,.7));
+    }
+    /* The school half is drawn rather than photographed until
+       problem-education.jpg lands: a wall of identical worksheets seen
+       through bars, which makes the copy-of-a-copy point on its own. */
+    .cage {
+      position: relative; width: 100%; max-width: 560px; aspect-ratio: 4 / 5;
+      border-radius: 10px; overflow: hidden;
+      box-shadow: 0 26px 46px rgba(0,0,0,.7);
       background: linear-gradient(180deg, #141a34 0%, #0d1024 60%, #080514 100%);
     }
-    @media (min-width: 880px) { .school-art { min-height: 100vh; min-height: 100dvh; } }
-    .school-art > img { width: 100%; height: 100%; object-fit: cover; object-position: center 25%; }
-    .school-art::after {
-      content: ''; position: absolute; inset: 0; pointer-events: none;
-      background: linear-gradient(180deg, rgba(8,5,20,.55) 0%, rgba(8,5,20,.08) 30%, rgba(8,5,20,.7) 82%, rgba(8,5,20,.95) 100%);
-    }
-    /* Bars drawn over the artwork — ruled-notebook lines turned into a
-       cage, so the frame reads as school even before you see the kids. */
-    .school-bars {
-      position: absolute; inset: 0; z-index: 2; pointer-events: none;
-      background:
-        repeating-linear-gradient(90deg, rgba(226,222,212,.5) 0 4px, transparent 4px 74px),
-        linear-gradient(180deg, rgba(226,222,212,.5) 0 5px, transparent 5px),
-        linear-gradient(0deg, rgba(226,222,212,.5) 0 5px, transparent 5px);
-      mask-image: radial-gradient(120% 90% at 50% 45%, #000 45%, rgba(0,0,0,.55) 75%, rgba(0,0,0,.25) 100%);
-      -webkit-mask-image: radial-gradient(120% 90% at 50% 45%, #000 45%, rgba(0,0,0,.55) 75%, rgba(0,0,0,.25) 100%);
-    }
-    .school-label {
-      position: absolute; top: 18px; left: 50%; transform: translateX(-50%); z-index: 3;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 6px;
-      font-size: clamp(13px, 2vw, 18px); color: rgba(255,255,255,.75);
-      background: rgba(5,3,15,.6); border: 1px solid rgba(255,255,255,.22);
-      padding: 4px 20px; border-radius: 4px;
-      backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
-    }
-    /* Stand-in until problem-education.jpg is added: a wall of identical
-       worksheets, every one carrying the same wrong sentence. */
+    .cage > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
     .sheet-wall { position: absolute; inset: 0; overflow: hidden; }
     .sheet-wall-inner {
-      position: absolute; inset: -12% -6%;
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr));
-      gap: 9px; transform: rotate(-4deg) scale(1.12); transform-origin: center;
+      position: absolute; inset: -14% -8%;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(62px, 1fr));
+      gap: 8px; transform: rotate(-4deg) scale(1.1); transform-origin: center;
     }
-    @media (min-width: 880px) {
-      .sheet-wall-inner { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 12px; }
-    }
+    @media (min-width: 900px) { .sheet-wall-inner { grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); gap: 10px; } }
     .sheet {
-      background: #eae6dd; border-radius: 3px; padding: 9px 8px;
+      background: #eae6dd; border-radius: 3px; padding: 8px 7px;
       box-shadow: 0 6px 16px rgba(0,0,0,.5); position: relative; overflow: hidden;
       aspect-ratio: 3 / 4; transform: rotate(var(--rot, 0deg));
     }
-    .sheet b { display: block; font-family: var(--font-body); font-size: 6.5px; line-height: 1.3;
-      color: #2a2233; font-weight: bold; margin-bottom: 5px; }
-    @media (min-width: 880px) { .sheet b { font-size: 7.5px; } }
-    .sheet i { display: block; height: 2px; border-radius: 2px; background: #bdb6ab; margin-bottom: 4px; width: var(--w, 100%); }
+    .sheet b { display: block; font-family: var(--font-body); font-size: 6px; line-height: 1.3;
+      color: #2a2233; font-weight: bold; margin-bottom: 4px; }
+    @media (min-width: 900px) { .sheet b { font-size: 7px; } }
+    .sheet i { display: block; height: 2px; border-radius: 2px; background: #bdb6ab; margin-bottom: 3px; width: var(--w, 100%); }
     .sheet::after {
-      content: '✕'; position: absolute; right: 5px; bottom: 3px;
-      font-size: 15px; line-height: 1; color: rgba(214,48,48,.85); font-weight: bold;
+      content: '✕'; position: absolute; right: 4px; bottom: 2px;
+      font-size: 13px; line-height: 1; color: rgba(214,48,48,.85); font-weight: bold;
     }
-    .school-copy {
-      display: flex; flex-direction: column; justify-content: center;
-      padding: clamp(34px, 5vw, 68px) clamp(22px, 5vw, 60px);
-      padding-right: calc(var(--rail) + clamp(16px, 3vw, 40px));
+    .cage-bars {
+      position: absolute; inset: 0; z-index: 2; pointer-events: none;
+      background:
+        repeating-linear-gradient(90deg, rgba(226,222,212,.55) 0 4px, transparent 4px 62px),
+        linear-gradient(180deg, rgba(226,222,212,.55) 0 5px, transparent 5px),
+        linear-gradient(0deg, rgba(226,222,212,.55) 0 5px, transparent 5px);
     }
-    .school-copy .tag {
+    .cage::after {
+      content: ''; position: absolute; inset: 0; z-index: 3; pointer-events: none;
+      background: radial-gradient(110% 85% at 50% 45%, rgba(8,5,20,.05) 40%, rgba(8,5,20,.55) 78%, rgba(8,5,20,.88) 100%);
+    }
+    .cage-label {
+      position: absolute; top: 14px; left: 50%; transform: translateX(-50%); z-index: 4;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 6px;
+      font-size: clamp(12px, 1.8vw, 16px); color: rgba(255,255,255,.8);
+      background: rgba(5,3,15,.62); border: 1px solid rgba(255,255,255,.24);
+      padding: 3px 18px; border-radius: 4px;
+    }
+    .broken-copy { display: flex; flex-direction: column; justify-content: center; }
+    .broken-copy .tag {
       align-self: flex-start; font-family: var(--font-head); font-variant: small-caps;
       letter-spacing: 3px; font-size: clamp(10.5px, 1.4vw, 12.5px);
-      padding: 5px 14px; border-radius: 999px; margin-bottom: 16px;
+      padding: 5px 14px; border-radius: 999px; margin-bottom: 14px;
       color: var(--rose); border: 1px solid rgba(255,138,138,.5); background: rgba(255,138,138,.1);
     }
-    .school-copy h2 { font-size: clamp(30px, 5.4vw, 56px); color: #fff; }
-    .school-copy h2 em { font-style: normal; color: var(--rose); }
-    .school-copy p { margin-top: 16px; max-width: 480px; font-size: clamp(15px, 2vw, 17.5px); color: var(--ink); }
-    .school-copy p b { color: #fff; }
-    .school-copy ul { list-style: none; margin-top: 20px; display: flex; flex-wrap: wrap; gap: 8px; }
-    .school-copy li {
+    .broken-copy h2 { font-size: clamp(29px, 5.2vw, 54px); color: #fff; }
+    .broken-copy h2 em { font-style: normal; color: var(--rose); }
+    .broken-copy p { margin-top: 14px; max-width: 480px; font-size: clamp(14.5px, 1.9vw, 17px); color: var(--ink); }
+    .broken-copy p b { color: #fff; }
+    .broken-copy ul { list-style: none; margin-top: 18px; display: flex; flex-wrap: wrap; gap: 8px; }
+    .broken-copy li {
       font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1.5px; font-size: 13px;
       color: rgba(255,255,255,.82); border: 1px solid rgba(255,255,255,.22);
-      border-radius: 999px; padding: 4px 13px; background: rgba(0,0,0,.3);
+      border-radius: 999px; padding: 4px 13px; background: rgba(0,0,0,.28);
     }
+    .broken-verdict {
+      text-align: center; padding: clamp(30px, 5vh, 60px) 0 clamp(10px, 2vh, 24px);
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px;
+      font-size: clamp(21px, 4vw, 40px); line-height: 1.16; color: #fff;
+    }
+    .broken-verdict em { font-style: normal; color: var(--lime); }
 
     /* ─── The quiz ────────────────────────────────────────────*/
     .quiz {
@@ -435,41 +457,82 @@
     .quiz-done .big { font-family: var(--font-head); font-variant: small-caps; font-size: clamp(24px, 4.4vw, 36px); color: #fff; margin-bottom: 10px; }
     .quiz-done p { color: var(--ink); font-size: clamp(15px, 2vw, 17px); max-width: 520px; margin: 0 auto; }
 
-    /* ─── One concept, drilled deeper ─────────────────────────*/
-    .drill { display: grid; grid-template-columns: 1fr; gap: clamp(16px, 2.4vw, 24px); }
-    @media (min-width: 760px) { .drill { grid-template-columns: repeat(3, 1fr); } }
-    .drill-card {
-      display: flex; flex-direction: column; overflow: hidden; border-radius: 20px;
-      background: linear-gradient(165deg, rgba(255,255,255,.07), rgba(255,255,255,.018) 68%);
-      border: 1px solid rgba(255,255,255,.15);
-      transition: transform .32s ease, border-color .32s ease, box-shadow .32s ease;
+    /* ─── One concept, drilled deeper ─────────────────────────
+       Not three boxes in a row. Three panels of artwork that share one
+       strip: click or hover one and it opens, pushing the others down
+       to slivers with their topic set vertically. On a phone they
+       stack and expand downward instead. */
+    .drill {
+      display: flex; flex-direction: column; gap: 10px;
+      height: auto;
     }
-    .drill-card:hover { transform: translateY(-6px); border-color: rgba(var(--purple-rgb), .55); box-shadow: 0 26px 54px rgba(0,0,0,.55); }
-    .drill-art { position: relative; aspect-ratio: 4 / 3; overflow: hidden; background: #0d0722; }
-    .drill-art img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
-    .drill-card:hover .drill-art img { transform: scale(1.06); }
-    .drill-status {
-      position: absolute; left: 12px; top: 12px; z-index: 2;
+    @media (min-width: 860px) { .drill { flex-direction: row; height: clamp(420px, 62vh, 560px); } }
+    .panel {
+      position: relative; overflow: hidden; cursor: pointer;
+      border: 1px solid rgba(255,255,255,.15); border-radius: 20px;
+      background: #0d0722; text-align: left; padding: 0; font: inherit; color: inherit;
+      flex: 1 1 auto; min-height: 108px;
+      transition: flex-grow .55s cubic-bezier(.3,.8,.3,1), border-color .4s ease, box-shadow .4s ease;
+    }
+    @media (min-width: 860px) { .panel { min-height: 0; flex: 1 1 0; } }
+    .panel:focus-visible { outline: 2px solid var(--cyan); outline-offset: 3px; }
+    .panel img {
+      position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+      transition: transform .8s ease, filter .5s ease;
+      filter: saturate(.55) brightness(.55);
+    }
+    .panel::after {
+      content: ''; position: absolute; inset: 0;
+      background: linear-gradient(180deg, rgba(5,3,15,.15) 0%, rgba(5,3,15,.55) 45%, rgba(5,3,15,.94) 100%);
+      transition: opacity .5s ease;
+    }
+    .panel.open { flex-grow: 4.2; border-color: rgba(var(--purple-rgb), .6); box-shadow: 0 26px 60px rgba(0,0,0,.6); }
+    .panel.open img { filter: saturate(1) brightness(.85); transform: scale(1.04); }
+    .panel-spine {
+      position: absolute; inset: 0; z-index: 2; display: flex; align-items: flex-end;
+      padding: 18px; transition: opacity .35s ease;
+    }
+    .panel-spine .topic {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 4px;
+      font-size: clamp(15px, 2.2vw, 20px); color: #fff; text-shadow: 0 2px 12px rgba(0,0,0,.9);
+    }
+    @media (min-width: 860px) {
+      .panel-spine { align-items: flex-end; justify-content: center; padding-bottom: 26px; }
+      .panel-spine .topic { writing-mode: vertical-rl; transform: rotate(180deg); }
+    }
+    .panel.open .panel-spine { opacity: 0; pointer-events: none; }
+    .panel-body {
+      position: absolute; inset: 0; z-index: 3; display: flex; flex-direction: column; justify-content: flex-end;
+      padding: clamp(18px, 2.6vw, 30px);
+      opacity: 0; transform: translateY(14px); pointer-events: none;
+      transition: opacity .45s ease .12s, transform .45s ease .12s;
+    }
+    .panel.open .panel-body { opacity: 1; transform: none; pointer-events: auto; }
+    .panel-body .topic {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: 13px; color: var(--cyan); margin-bottom: 4px;
+    }
+    .panel-body h3 { font-size: clamp(22px, 3.2vw, 32px); color: #fff; letter-spacing: .5px; }
+    .panel-body .kind { font-size: 11.5px; letter-spacing: 2px; text-transform: uppercase; color: var(--lilac); margin: 5px 0 9px; }
+    .panel-body p { font-size: clamp(13.5px, 1.7vw, 15px); color: rgba(255,255,255,.82); max-width: 44ch; }
+    .panel-status {
+      position: absolute; top: 14px; left: 14px; z-index: 4;
       font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 11px;
       padding: 3px 11px; border-radius: 999px;
     }
     .st-now  { color: #05030f; background: var(--lime); }
-    .st-soon { color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .55); background: rgba(5,3,15,.7); }
-    .drill-body { padding: clamp(18px, 2.4vw, 24px); display: flex; flex-direction: column; flex: 1; }
-    .drill-body h3 { font-size: clamp(21px, 2.8vw, 27px); color: #fff; letter-spacing: .5px; }
-    .drill-body .kind { font-size: 11.5px; letter-spacing: 2px; text-transform: uppercase; color: var(--lilac); margin: 5px 0 10px; }
-    .drill-body .topic {
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px;
-      font-size: 13.5px; color: var(--cyan); margin-bottom: 8px;
-    }
-    .drill-body p { font-size: 14.5px; color: var(--ink-dim); flex: 1; }
-    .drill-go {
-      display: inline-flex; align-items: center; gap: 7px; margin-top: 16px; align-self: flex-start;
+    .st-soon { color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .55); background: rgba(5,3,15,.72); }
+    .panel-go {
+      display: inline-flex; align-items: center; gap: 7px; margin-top: 14px; align-self: flex-start;
       font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 15px;
-      color: #fff; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.35); padding-bottom: 3px;
+      color: #fff; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.4); padding-bottom: 3px;
       transition: border-color .2s ease, gap .2s ease;
     }
-    .drill-go:hover { border-color: var(--cyan); gap: 12px; }
+    .panel-go:hover { border-color: var(--cyan); gap: 12px; }
+    .drill-hint {
+      text-align: center; margin-top: 16px; font-size: 12px; letter-spacing: 2px;
+      text-transform: uppercase; color: var(--ink-dim);
+    }
 
     /* ─── What our games are ──────────────────────────────────*/
     .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: clamp(10px, 1.5vw, 16px); }
@@ -644,7 +707,7 @@
     <span class="hero-age">Ages 7+</span>
     <div class="wordmark">DeepKids</div>
     <div class="hero-kinds">Boardgames <i>·</i> Card Games <i>·</i> Picture Books</div>
-    <img class="hero-stage" src="gift-kids-hero.webp" alt="Four kids playing the EscapeGravity spiral board game together" width="1400" height="1045" fetchpriority="high" decoding="async"/>
+    <img class="hero-stage" id="hero-art" src="kids-playing-cut.webp" alt="Four kids playing the EscapeGravity spiral board game together" width="1357" height="970" fetchpriority="high" decoding="async"/>
     <p class="hero-line">One concept, drilled all the way down, from every angle we can find. <b>Screen-free, deeply researched, and harder than most things sold to children.</b></p>
   </section>
 
@@ -653,45 +716,62 @@
     <div class="cloud rv">
       <span class="cl-l">First Principles</span>
       <span class="cl-m cl-cyan">Perspectives</span>
-      <span class="cl-xl">Depth</span>
+      <span class="cl-xl">Deep Learning</span>
       <span class="cl-m">Deeply Researched</span>
       <span class="cl-l cl-gold">Free Thinking</span>
       <span class="cl-m">Original Artwork</span>
-      <span class="cl-xl cl-lime">Science</span>
+      <span class="cl-xl cl-lime">Fun First</span>
       <span class="cl-m">Thought Through</span>
-      <span class="cl-l">Concepts</span>
+      <span class="cl-l">High Replayability</span>
       <span class="cl-m cl-cyan">Fundamentals</span>
+      <span class="cl-l cl-gold">Appropriately Challenging</span>
+      <span class="cl-m">Competitive &amp; Cooperative</span>
+      <span class="cl-xl">Depth</span>
       <span class="cl-m">No Rote</span>
+      <span class="cl-l cl-lime">Science</span>
+      <span class="cl-m">Concepts</span>
     </div>
   </section>
 
-  <!-- ═════════ SCHOOL ═════════ -->
-  <section class="school" id="school" data-depth="School">
-    <div class="school-grid">
-      <div class="school-art">
-        <!-- Drop problem-education.jpg into the repo and it takes over
-             from the worksheet wall automatically. -->
-        <div class="sheet-wall" aria-hidden="true"><div class="sheet-wall-inner" id="sheet-wall"></div></div>
-        <img id="school-photo" src="problem-education.jpg" alt="" style="display:none" loading="lazy" decoding="async"
-             onload="this.style.display='block'; var w=this.parentNode.querySelector('.sheet-wall'); if(w) w.style.display='none';"
-             onerror="this.remove();"/>
-        <div class="school-bars" aria-hidden="true"></div>
-        <div class="school-label">School</div>
+  <!-- ═════════ BROKEN: ENTERTAINMENT ═════════ -->
+  <section class="broken wrap" id="entertainment" data-depth="Their Fun">
+    <div class="broken-inner">
+      <div class="broken-art">
+        <img src="kids-screens-cut.webp" alt="Two children lit by their phone screens" width="1267" height="1100" loading="lazy" decoding="async"/>
       </div>
-      <div class="school-copy">
-        <span class="tag">Meanwhile, nine to three</span>
-        <h2>Tied To A Desk,<br/>Learning Things<br/>That Are <em>Wrong</em></h2>
-        <p>The textbook copied an older textbook. The worksheet copied the textbook. The app copied the worksheet. Somewhere back at the start one person simplified something until it broke, and <b>nobody has gone back to check since</b>.</p>
-        <p>So a child spends years being tested on sentences that aren't true, and learns the most damaging lesson of all: that curiosity is something you do <b>after</b> the syllabus.</p>
-        <ul>
-          <li>Wrong</li>
-          <li>Half-baked</li>
-          <li>Outdated</li>
-          <li>Built for the exam</li>
-          <li>Curiosity optional</li>
-        </ul>
+      <div class="broken-copy">
+        <span class="tag">Option one · after school</span>
+        <h2>What They Do<br/>For <em>Fun</em></h2>
+        <p>An infinite feed built by people whose only job is to keep a child scrolling. It is extremely good at that. It is good at <b>nothing else</b>.</p>
+        <p>And the "kids' content" is barely better — shallow by design, because it assumes a child cannot hold a real idea.</p>
+        <ul><li>Doom scrolling</li><li>Garbage content</li><li>Addictive</li><li>Mind-numbing</li></ul>
       </div>
     </div>
+  </section>
+
+  <!-- ═════════ BROKEN: SCHOOL ═════════ -->
+  <section class="broken wrap" id="school" data-depth="Their School">
+    <div class="broken-inner flip">
+      <div class="broken-art">
+        <div class="cage">
+          <!-- problem-education.jpg takes over the moment it exists -->
+          <div class="sheet-wall" aria-hidden="true"><div class="sheet-wall-inner" id="sheet-wall"></div></div>
+          <img id="school-photo" src="problem-education.jpg" alt="" style="display:none" loading="lazy" decoding="async"
+               onload="this.style.display='block'; var w=this.parentNode.querySelector('.sheet-wall'); if(w) w.style.display='none';"
+               onerror="this.remove();"/>
+          <div class="cage-bars" aria-hidden="true"></div>
+          <div class="cage-label">School</div>
+        </div>
+      </div>
+      <div class="broken-copy">
+        <span class="tag">Option two · nine to three</span>
+        <h2>Tied To A Desk,<br/>Learning Things<br/>That Are <em>Wrong</em></h2>
+        <p>The textbook copied an older textbook. The worksheet copied the textbook. The app copied the worksheet. One person simplified something until it broke, and <b>nobody has gone back to check since</b>.</p>
+        <p>So a child is tested for years on sentences that aren't true, and learns the worst lesson of all: that curiosity is what you do <b>after</b> the syllabus.</p>
+        <ul><li>Wrong</li><li>Half-baked</li><li>Outdated</li><li>Built for the exam</li><li>Curiosity optional</li></ul>
+      </div>
+    </div>
+    <p class="broken-verdict">Those are the two options.<br/><em>We didn't like either.</em></p>
   </section>
 
   <!-- ═════════ THE QUIZ ═════════ -->
@@ -736,56 +816,54 @@
       <p class="zone-lede rv rv2">Not a hundred topics an inch deep. Each product takes a single subject and goes all the way down — through the physics, the history, the arguments scientists are still having about it.</p>
     </div>
 
-    <div class="drill">
-      <article class="drill-card rv">
-        <div class="drill-art">
-          <span class="drill-status st-now">Shipping now</span>
-          <img src="gift-box-hero.webp" alt="The EscapeGravity board game box" width="900" height="900" loading="lazy" decoding="async"/>
-        </div>
-        <div class="drill-body">
-          <div class="topic">Gravity</div>
+    <div class="drill" id="drill">
+      <button type="button" class="panel open" data-panel="escapegravity" onclick="dkPanel(this)" aria-label="EscapeGravity">
+        <img src="gift-kids-hero.webp" alt="" width="1400" height="1045" loading="lazy" decoding="async"/>
+        <span class="panel-status st-now">Shipping now</span>
+        <span class="panel-spine"><span class="topic">Gravity</span></span>
+        <span class="panel-body">
+          <span class="topic">Gravity</span>
           <h3>EscapeGravity</h3>
-          <div class="kind">Boardgame · 2–6 players · ages 7+</div>
+          <span class="kind">Boardgame · 2–6 players · ages 7+</span>
           <p>13 forces, 11 layers from the Earth's core to the Lagrange points, 35+ physical challenges. Goes as far as curved spacetime and gravitational time dilation — ideas most books hold back until Class 11.</p>
-          <a class="drill-go" href="/order" onclick="dkProductClick('escapegravity')">₹4,999 &mdash; buy it &rarr;</a>
-        </div>
-      </article>
+          <a class="panel-go" href="/order" onclick="event.stopPropagation();dkProductClick('escapegravity')">₹4,999 — buy it →</a>
+        </span>
+      </button>
 
-      <article class="drill-card rv rv2">
-        <div class="drill-art">
-          <span class="drill-status st-soon">Launching soon</span>
-          <img src="more-sci-front.webp" alt="A SCI. scientist trading card" width="600" height="799" loading="lazy" decoding="async"/>
-        </div>
-        <div class="drill-body">
-          <div class="topic">The Scientists</div>
+      <button type="button" class="panel" data-panel="sci" onclick="dkPanel(this)" aria-label="SCI. Trading Cards">
+        <img src="more-sci-front.webp" alt="" width="600" height="799" loading="lazy" decoding="async"/>
+        <span class="panel-status st-soon">Launching soon</span>
+        <span class="panel-spine"><span class="topic">The Scientists</span></span>
+        <span class="panel-body">
+          <span class="topic">The Scientists</span>
           <h3>SCI. Trading Cards</h3>
-          <div class="kind">Card game · ages 7+</div>
-          <p>Every card carries a discovery, the fundamental truth sitting underneath it, and where you live that truth every day — with a deliberate bias toward the underdogs history skipped over.</p>
-          <a class="drill-go" href="/sci" onclick="dkProductClick('sci')">See the cards &rarr;</a>
-        </div>
-      </article>
+          <span class="kind">Card game · ages 7+</span>
+          <p>Every card carries a discovery, the fundamental truth sitting underneath it, and where you live that truth every day — with a deliberate bias toward the underdogs history skipped.</p>
+          <a class="panel-go" href="/sci" onclick="event.stopPropagation();dkProductClick('sci')">See the cards →</a>
+        </span>
+      </button>
 
-      <article class="drill-card rv rv3">
-        <div class="drill-art">
-          <span class="drill-status st-soon">In production</span>
-          <img src="more-evo-pin.webp" alt="Artwork from the Evolution picture book — an ancient ocean" width="1200" height="857" loading="lazy" decoding="async"/>
-        </div>
-        <div class="drill-body">
-          <div class="topic">Deep Time</div>
+      <button type="button" class="panel" data-panel="evolution" onclick="dkPanel(this)" aria-label="The Story Of Evolution">
+        <img src="more-evo-pin.webp" alt="" width="1200" height="857" loading="lazy" decoding="async"/>
+        <span class="panel-status st-soon">In production</span>
+        <span class="panel-spine"><span class="topic">Deep Time</span></span>
+        <span class="panel-body">
+          <span class="topic">Deep Time</span>
           <h3>The Story Of Evolution</h3>
-          <div class="kind">Picture book · kids &amp; adults</div>
+          <span class="kind">Picture book · kids &amp; adults</span>
           <p>Four billion years as one continuous story — the cell that taught a dying world to breathe, and the argument that thought came long before neurons. Every spread painted by hand.</p>
-          <a class="drill-go" href="/evolution" onclick="dkProductClick('evolution')">Read a spread &rarr;</a>
-        </div>
-      </article>
+          <a class="panel-go" href="/evolution" onclick="event.stopPropagation();dkProductClick('evolution')">Read a spread →</a>
+        </span>
+      </button>
     </div>
+    <p class="drill-hint">Tap a panel to open it</p>
   </section>
 
   <!-- ═════════ WHAT OUR GAMES ARE ═════════ -->
   <section class="zone wrap" data-depth="What They Are">
     <div class="zone-head">
       <span class="zone-kicker rv">DeepKids games</span>
-      <h2 class="rv">What You're Actually <em>Buying</em></h2>
+      <h2 class="rv">Why You Should <em>Buy One</em></h2>
     </div>
     <div class="tiles">
       <div class="tile rv"><b>Screen Free</b><span>Nothing to charge, nothing to download, no account. A box, a floor and people.</span></div>
@@ -903,6 +981,24 @@
     egGtag('event', 'product_click', { event_category: 'navigation', event_label: product, product: product });
     egFbq('trackCustom', 'ProductClick', { product: product });
   }
+  /* Product panels: one open at a time. Hover opens on a real pointer,
+     tap opens on touch — the click handler covers both. */
+  function dkPanel(el) {
+    if (el.classList.contains('open')) return;
+    [].forEach.call(el.parentNode.children, function(p){ p.classList.remove('open'); });
+    el.classList.add('open');
+    var which = el.getAttribute('data-panel') || 'unknown';
+    egGtag('event', 'panel_open', { event_category: 'engagement', event_label: which, product: which });
+    egFbq('trackCustom', 'PanelOpen', { product: which });
+  }
+  (function(){
+    var drill = document.getElementById('drill');
+    if (!drill || !window.matchMedia || !window.matchMedia('(hover: hover) and (min-width: 860px)').matches) return;
+    [].forEach.call(drill.children, function(p){
+      p.addEventListener('mouseenter', function(){ dkPanel(p); });
+    });
+  })();
+
   function dkToy(toy, detail) {
     egGtag('event', 'playground', { event_category: 'engagement', event_label: toy, toy: toy, detail: detail || '' });
     egFbq('trackCustom', 'Playground', { toy: toy, detail: detail || '' });
@@ -921,7 +1017,7 @@
       'We feel with our skin.',
       'There is no gravity in space.'
     ];
-    var n = window.innerWidth > 880 ? 60 : 48;
+    var n = window.innerWidth > 900 ? 54 : 40;
     var html = '';
     for (var i = 0; i < n; i++) {
       var rot = ((i * 37) % 7) - 3;                       // deterministic, not random
@@ -1062,6 +1158,33 @@
     egFbq('trackCustom', 'QuizComplete', { score: QZ.score });
   }
   dkQuizRender();
+
+  /* ── Hero parallax ────────────────────────────────────────
+     The artwork and the wordmark drift at different rates as you
+     leave the hero, so the kids sit in the room rather than on it.
+     Transform-only, driven off the same rAF as everything else, and
+     switched off entirely for reduced-motion. */
+  (function(){
+    var art = document.getElementById('hero-art');
+    var mark = document.querySelector('.wordmark');
+    var kinds = document.querySelector('.hero-kinds');
+    if (!art) return;
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var ticking = false;
+    function frame() {
+      ticking = false;
+      var y = window.pageYOffset;
+      var vh = window.innerHeight || 1;
+      if (y > vh * 1.2) return;                 // nothing to do once the hero is gone
+      var p = Math.min(y / vh, 1);
+      art.style.transform   = 'translate3d(0,' + (p * 74) + 'px,0) scale(' + (1 + p * 0.06) + ')';
+      if (mark)  mark.style.transform  = 'translate3d(0,' + (p * -46) + 'px,0)';
+      if (kinds) kinds.style.transform = 'translate3d(0,' + (p * -22) + 'px,0)';
+    }
+    function onScroll(){ if (!ticking) { ticking = true; requestAnimationFrame(frame); } }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    frame();
+  })();
 
   /* ── Descent rail + water ─────────────────────────────────*/
   (function(){
