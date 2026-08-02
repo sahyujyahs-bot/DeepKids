@@ -313,16 +313,34 @@
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:1.5px; font-size:12px;
       color:#fff; background:var(--purple); border-radius:999px; padding:2px 9px;
     }
-    /* The buy control is the site's D+K button (see /dkbtn.js); this only
-       places it. The shape is wider than its label, hence the centring. */
-    .card-buy { align-self:center; }
-    .card-buy .btn-svg { width:clamp(180px,17vw,230px); }
+    /* Both controls share one width and one centre line. The D+K button's
+       fins hang off the right of its shape, so its visual centre sits left
+       of its box — in a centred column that reads as three misaligned
+       cards. A pill has no such offset. */
+    .card-cta { width:min(100%,260px); margin:0 auto; }
+    .card-buy {
+      display:block; width:100%; cursor:pointer; border:0;
+      font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px; font-size:16px;
+      color:#fff; border-radius:999px; padding:12px;
+      background:linear-gradient(180deg,#cd9edf 0%,#aa59c8 48%,#8d3fae 100%);
+      box-shadow:0 6px 18px rgba(var(--purple-rgb),.32), inset 0 1px 0 rgba(255,255,255,.35);
+      transition:filter .2s ease, transform .15s ease, box-shadow .2s ease;
+    }
+    /* Pre-order is the deeper end of the same purple — a different
+       commitment, not a different brand. */
+    .card-buy.pre {
+      background:linear-gradient(180deg,#a25fc0 0%,#6f2a94 48%,#431760 100%);
+      box-shadow:0 6px 18px rgba(67,23,96,.5), inset 0 1px 0 rgba(255,255,255,.22);
+    }
+    .card-buy.pre:hover { box-shadow:0 10px 26px rgba(107,33,85,.55), inset 0 1px 0 rgba(255,255,255,.3); }
+    .card-buy:hover { filter:brightness(1.09); box-shadow:0 10px 26px rgba(var(--purple-rgb),.45), inset 0 1px 0 rgba(255,255,255,.4); }
+    .card-buy:active { transform:scale(.97); }
     /* "See the details" is now the only way through to a product page —
        the gallery used to be one big link, so a swipe or a stray tap took
        you off the shop. Given that, it reads as a control, not a footnote. */
     .card-more {
-      display:inline-flex; align-items:center; gap:7px; align-self:center;
-      margin-top:14px; padding:9px 20px; border-radius:999px;
+      display:flex; align-items:center; justify-content:center; gap:7px;
+      width:100%; margin-top:10px; padding:9px 18px; border-radius:999px;
       font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px;
       font-size:14px; color:var(--lilac); text-decoration:none;
       border:1px solid rgba(var(--purple-rgb),.55); background:rgba(var(--purple-rgb),.12);
@@ -895,7 +913,6 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/dkbtn.js"></script>
 <script src="/cart.js"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
@@ -1182,14 +1199,15 @@ function dkOrderDone(kind, paise, paymentId) {
         '<div class="card-price"><span class="now">' + dkRs(unit) + '</span>' +
           (p.preorder ? '<span class="was">' + dkRs(p.price) + '</span><span class="off">15% off</span>' : '') +
         '</div>' +
-        '<button type="button" class="card-buy" data-dk-size="sm" data-dk-btn="' +
-          (p.preorder ? 'Pre-Order' : 'Add To Cart') + '" data-add="' + p.sku + '"></button>' +
-        '<a class="card-more" href="' + p.href + '" target="_blank" rel="noopener" data-go="' + p.sku + '">' +
-          'See the details <span>&rarr;</span></a>' +
+        '<div class="card-cta">' +
+          '<button type="button" class="card-buy' + (p.preorder ? ' pre' : '') + '" data-add="' + p.sku + '">' +
+            (p.preorder ? 'Pre-order' : 'Add to cart') + '</button>' +
+          '<a class="card-more" href="' + p.href + '" target="_blank" rel="noopener" data-go="' + p.sku + '">' +
+            'See the details <span>&rarr;</span></a>' +
+        '</div>' +
       '</div>';
     g.appendChild(card);
   });
-  if (window.hydrateAllDkBtns) hydrateAllDkBtns();
   /* data-add and data-wish are handled once, in /cart.js. Handling them
      here too fired every click twice — two units added, a wishlist that
      toggled straight back off. */
