@@ -17,6 +17,12 @@
   function dkSnd(k) { if (window.dkSound) window.dkSound(k); }
   function egGtag() { if (window.egGtag) window.egGtag.apply(null, arguments); }
   function egFbq()  { if (window.egFbq)  window.egFbq.apply(null, arguments); }
+  function track(n, l, x) { if (window.dkTrack) window.dkTrack(n, l, x); }
+  function linesOf(rows) {
+    return rows.map(function (l) { var p = DK.find(l.sku);
+      return p ? { sku: p.sku, name: p.name, qty: l.qty || 1, paise: DK.unit(p) } : null;
+    }).filter(Boolean);
+  }
 
   var style = document.createElement('style');
   style.textContent = "    /* \u2500\u2500 Checkout, on this page \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*/\n    .co-back {\n      position:fixed; inset:0; z-index:4500; background:rgba(5,3,15,.82);\n      backdrop-filter:blur(6px); -webkit-backdrop-filter:blur(6px);\n      display:none; align-items:center; justify-content:center; padding:16px;\n    }\n    .co-back.on { display:flex; }\n    .co-box {\n      width:100%; max-width:480px;\n      max-height:calc(100vh - 32px); max-height:calc(100dvh - 32px);\n      overflow-y:auto; overscroll-behavior:contain;\n      background:linear-gradient(170deg,#1d1136,#140926 65%);\n      border:1px solid rgba(170,89,200,.5); border-radius:22px;\n      padding:clamp(20px,4vw,30px); position:relative;\n      box-shadow:0 30px 70px rgba(0,0,0,.75);\n    }\n    .co-box h3 { font-size:clamp(22px,4vw,30px); color:#fff; text-align:center; margin-bottom:4px; }\n    .co-sub { text-align:center; font-size:13.5px; color:rgba(255,255,255,.6); margin-bottom:16px; }\n    .co-x { position:absolute; top:10px; right:14px; background:none; border:0; color:rgba(255,255,255,.55);\n      font-size:26px; line-height:1; cursor:pointer; }\n    .co-list { border:1px solid rgba(255,255,255,.14); border-radius:14px; padding:4px 12px; margin-bottom:14px; }\n    .co-row { display:flex; align-items:center; gap:8px; padding:9px 0; border-bottom:1px solid rgba(255,255,255,.08); }\n    .co-row:last-child { border-bottom:0; }\n    .co-row .n { flex:1; font-size:13.5px; color:#fff; display:flex; align-items:center; flex-wrap:wrap; }\n    .co-row .n small { display:block; width:100%; color:rgba(255,255,255,.6); font-size:11.5px; }\n    .co-row .p { font-family:'Norwester',sans-serif; font-size:15px; color:#cd9edf; white-space:nowrap; }\n    .co-sum { display:flex; justify-content:space-between; align-items:baseline; margin:0 0 16px;\n      font-family:'Norwester',sans-serif; font-variant:small-caps; letter-spacing:1.5px; font-size:17px; color:#fff; }\n    .co-sum b { font-size:23px; color:#cd9edf; font-weight:normal; }\n    .co-f { margin-bottom:11px; }\n    .co-f label { display:block; font-size:11px; letter-spacing:2px; text-transform:uppercase; color:rgba(255,255,255,.6); margin-bottom:5px; }\n    .co-f input, .co-f textarea {\n      width:100%; padding:12px 14px; font-family:'Futura','Segoe UI',sans-serif; font-size:16px; color:#fff;\n      background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.2); border-radius:12px;\n      outline:none; resize:vertical;\n    }\n    .co-f input:focus, .co-f textarea:focus { border-color:#aa59c8; box-shadow:0 0 0 3px rgba(170,89,200,.2); }\n    .co-2 { display:grid; grid-template-columns:1fr 1fr; gap:10px; }\n    .co-phone { display:grid; grid-template-columns:86px 1fr; gap:9px; }\n    .co-pay { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin:14px 0; }\n    .co-pay button {\n      cursor:pointer; text-align:center; padding:12px 8px; border-radius:14px;\n      background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.2); color:#fff;\n      font-family:'Norwester',sans-serif; font-variant:small-caps; letter-spacing:1.5px; font-size:15px;\n      transition:background .2s ease, border-color .2s ease;\n    }\n    .co-pay button small { display:block; font-family:'Futura','Segoe UI',sans-serif; font-variant:normal;\n      letter-spacing:0; font-size:11px; color:rgba(255,255,255,.6); margin-top:2px; }\n    .co-pay button.on { background:rgba(170,89,200,.3); border-color:#aa59c8; }\n    .co-go {\n      width:100%; cursor:pointer; border:0; margin-top:4px;\n      font-family:'Norwester',sans-serif; font-variant:small-caps; letter-spacing:2px; font-size:17px;\n      color:#fff; background:linear-gradient(180deg,#cd9edf 0%,#aa59c8 45%,#793194 100%); border-radius:999px; padding:13px;\n      transition:filter .2s ease;\n    }\n    .co-go:hover { filter:brightness(1.08); }\n    .co-go[disabled] { opacity:.55; cursor:default; }\n    .co-msg { min-height:20px; text-align:center; font-size:13.5px; margin-top:10px; color:rgba(255,255,255,.84); }\n    .co-msg.err { color:#ff8a8a; }\n    .co-note { text-align:center; font-size:11.5px; color:rgba(255,255,255,.6); margin-top:9px; }\n    .co-done { text-align:center; padding:12px 0; }\n    .co-done .big { font-family:'Norwester',sans-serif; font-variant:small-caps; font-size:clamp(24px,4.4vw,32px); color:#fff; margin-bottom:8px; }\n    .co-done p { color:rgba(255,255,255,.84); font-size:14.5px; }\n\n";
@@ -48,6 +54,14 @@
     });
     list.innerHTML = html;
     document.getElementById('co-total').textContent = DK.rs(total);
+    var u = DK.user && DK.user();
+    if (u && !u.skipped) {
+      var nm = document.getElementById('co-name'), ph = document.getElementById('co-phone'),
+          cc = document.getElementById('co-cc');
+      if (nm && !nm.value) nm.value = u.name || '';
+      if (ph && !ph.value) ph.value = u.rawPhone || '';
+      if (cc && u.cc) cc.value = u.cc;
+    }
     document.getElementById('co-back').classList.add('on');
     document.getElementById('co-form-wrap').style.display = '';
     document.getElementById('co-done').style.display = 'none';
@@ -140,11 +154,9 @@
       : 'Payment received. We\'ll WhatsApp you the tracking details shortly.';
     dkSnd('checkout');
     var value = paise / 100;
-    egGtag('event', 'purchase', { transaction_id: paymentId || ('cod_' + Date.now()),
-      value: value, currency: 'INR',
-      items: items.map(function(l){ var p = DK.find(l.sku); return { item_id: l.sku, item_name: p ? p.name : l.sku, quantity: l.qty }; }) });
-    egFbq('track', 'Purchase', { content_ids: items.map(function(l){ return l.sku; }),
-      content_type: 'product', value: value, currency: 'INR' }, paymentId ? { eventID: paymentId } : undefined);
+    track('purchase', linesOf(items), {
+      transaction_id: paymentId || ('cod_' + Date.now()),
+      value: value, payment_type: kind, event_id: paymentId || undefined, pagetype: 'purchase' });
     DK.write([]);
   }
 

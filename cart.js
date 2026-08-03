@@ -37,8 +37,14 @@
   function rs(paise) { return '₹' + (paise / 100).toLocaleString('en-IN'); }
   function thumb(p) { return (p.shots && p.shots[0] && p.shots[0].src) || p.img || ''; }
   function sound(k) { if (window.dkSound) window.dkSound(k); }
-  function gtag() { if (window.egGtag) window.egGtag.apply(null, arguments); }
-  function fbq()  { if (window.egFbq)  window.egFbq.apply(null, arguments); }
+  function track(name, lines, extra) { if (window.dkTrack) window.dkTrack(name, lines, extra); }
+  /* [{sku,name,qty,paise}] — the shape /track.js wants. */
+  function linesOf(rows) {
+    return rows.map(function (l) {
+      var p = find(l.sku);
+      return p ? { sku: p.sku, name: p.name, qty: l.qty || 1, paise: unit(p) } : null;
+    }).filter(Boolean);
+  }
 
   function read()  { try { return JSON.parse(localStorage.getItem(CART_KEY) || '[]'); } catch (e) { return []; } }
   function write(c) { try { localStorage.setItem(CART_KEY, JSON.stringify(c)); } catch (e) {} paint(); }
@@ -107,6 +113,37 @@
     '.dkc-why{flex-shrink:0;width:16px;height:16px;margin-left:6px;border-radius:50%;cursor:pointer;',
       'border:1px solid rgba(205,158,223,.6);background:none;color:#cd9edf;font-size:10px;line-height:1;',
       'padding:0;font-family:"Futura","Segoe UI",sans-serif}',
+
+    /* Sign-up asked for at the wishlist, because that is the one moment
+       someone is telling us they want a thing they cannot have yet. */
+    '.dkc-gate{position:fixed;inset:0;z-index:5200;display:none;place-items:center;padding:18px;',
+      'background:rgba(4,2,12,.86);-webkit-backdrop-filter:blur(7px);backdrop-filter:blur(7px)}',
+    '.dkc-gate.on{display:grid}',
+    '.dkc-gate-box{width:min(400px,100%);background:rgba(16,10,34,.99);border-radius:20px;padding:24px 22px;',
+      'border:1px solid rgba(170,89,200,.5);box-shadow:0 26px 70px rgba(0,0,0,.7);position:relative}',
+    '.dkc-gate h4{font-family:"Norwester",sans-serif;font-variant:small-caps;letter-spacing:1.5px;',
+      'font-size:22px;color:#fff;margin:0 0 6px}',
+    '.dkc-gate p{font-family:"Futura","Segoe UI",sans-serif;font-size:13.5px;line-height:1.5;',
+      'color:rgba(255,255,255,.7);margin:0 0 16px}',
+    '.dkc-f{margin-bottom:12px}',
+    '.dkc-f label{display:block;font-family:"Futura","Segoe UI",sans-serif;font-size:11.5px;',
+      'letter-spacing:1.5px;text-transform:uppercase;color:rgba(255,255,255,.55);margin-bottom:5px}',
+    '.dkc-f input{width:100%;box-sizing:border-box;padding:11px 13px;border-radius:11px;',
+      'font-family:"Futura","Segoe UI",sans-serif;font-size:15px;color:#fff;',
+      'background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.2);outline:none}',
+    '.dkc-f input:focus{border-color:#aa59c8;background:rgba(170,89,200,.12)}',
+    '.dkc-phone{display:flex;gap:8px}',
+    '.dkc-phone input:first-child{width:72px;flex:0 0 72px;text-align:center}',
+    '.dkc-gate-go{display:block;width:100%;cursor:pointer;border:0;border-radius:999px;padding:12px;',
+      'font-family:"Norwester",sans-serif;font-variant:small-caps;letter-spacing:2px;font-size:16px;color:#fff;',
+      'background:linear-gradient(180deg,#cd9edf 0%,#aa59c8 45%,#793194 100%);transition:filter .2s ease}',
+    '.dkc-gate-go:hover{filter:brightness(1.08)}',
+    '.dkc-gate-go[disabled]{opacity:.55;cursor:default}',
+    '.dkc-gate-skip{display:block;width:100%;margin-top:10px;cursor:pointer;background:none;border:0;',
+      'font-family:"Futura","Segoe UI",sans-serif;font-size:12.5px;color:rgba(255,255,255,.45)}',
+    '.dkc-gate-skip:hover{color:#fff}',
+    '.dkc-gate-msg{font-family:"Futura","Segoe UI",sans-serif;font-size:12.5px;min-height:16px;',
+      'margin-top:8px;color:#ff8a8a;text-align:center}',
 
   ].join('');
 
@@ -243,6 +280,99 @@
     });
   }
 
+
+  /* ── Who is this ───────────────────────────────────────────────
+     Saving something you cannot buy yet is a promise to come back, so
+     it is the natural place to ask who to come back to. Asked once,
+     remembered after, and skippable — a gate that blocks the save would
+     cost more wishlists than the numbers are worth. */
+  var USER_KEY = 'dk-user';
+  function userRead() { try { return JSON.parse(localStorage.getItem(USER_KEY) || 'null'); } catch (e) { return null; } }
+  function userWrite(u) { try { localStorage.setItem(USER_KEY, JSON.stringify(u)); } catch (e) {} }
+
+  var gate = el('div', 'dkc-gate',
+    '<div class="dkc-gate-box">' +
+      '<h4>Save it to your list</h4>' +
+      '<p>Leave your name and WhatsApp number and we will tell you the moment it is printed &mdash; and keep your list for you.</p>' +
+      '<div class="dkc-f"><label for="dkc-name">Your name</label>' +
+        '<input id="dkc-name" type="text" autocomplete="name" placeholder="Commander Jane" maxlength="60"/></div>' +
+      '<div class="dkc-f"><label for="dkc-phone">WhatsApp number</label>' +
+        '<div class="dkc-phone">' +
+          '<input id="dkc-cc" type="text" inputmode="tel" value="+91" aria-label="Country code" maxlength="5"/>' +
+          '<input id="dkc-phone" type="tel" inputmode="tel" placeholder="98765 43210" maxlength="20"/>' +
+        '</div></div>' +
+      '<button type="button" class="dkc-gate-go" id="dkc-gate-go">Save &amp; Notify Me</button>' +
+      '<div class="dkc-gate-msg" id="dkc-gate-msg" role="status"></div>' +
+      '<button type="button" class="dkc-gate-skip" id="dkc-gate-skip">Just save it, skip this</button>' +
+    '</div>');
+  gate.id = 'dkc-gate';
+  gate.setAttribute('role', 'dialog');
+  gate.setAttribute('aria-modal', 'true');
+  document.body.appendChild(gate);
+
+  var pendingSku = null;
+  function gateOpen(sku) {
+    pendingSku = sku;
+    var u = userRead();
+    if (u) { document.getElementById('dkc-name').value = u.name || '';
+             document.getElementById('dkc-phone').value = u.rawPhone || ''; }
+    document.getElementById('dkc-gate-msg').textContent = '';
+    gate.classList.add('on');
+    setTimeout(function () { var n = document.getElementById('dkc-name'); if (n) n.focus(); }, 60);
+  }
+  function gateClose() { gate.classList.remove('on'); pendingSku = null; }
+  function commitWish(sku) {
+    var w = wishRead();
+    if (w.indexOf(sku) === -1) {
+      w.push(sku);
+      wishWrite(w);
+      var p = find(sku);
+      if (p) track('add_to_wishlist', [{ sku: sku, name: p.name, qty: 1, paise: unit(p) }]);
+    }
+    syncHearts();
+    sound('click');
+  }
+
+  document.getElementById('dkc-gate-skip').addEventListener('click', function () {
+    var sku = pendingSku;
+    try { localStorage.setItem(USER_KEY, JSON.stringify({ skipped: true })); } catch (e) {}
+    gateClose();
+    if (sku) commitWish(sku);
+  });
+
+  document.getElementById('dkc-gate-go').addEventListener('click', function () {
+    var btn = this;
+    var name = (document.getElementById('dkc-name').value || '').trim();
+    var cc = (document.getElementById('dkc-cc').value || '+91').trim();
+    var raw = (document.getElementById('dkc-phone').value || '').replace(/\D/g, '');
+    var msg = document.getElementById('dkc-gate-msg');
+    if (name.length < 2) { msg.textContent = 'A name, please.'; return; }
+    if (raw.length < 8)  { msg.textContent = 'That number looks short.'; return; }
+
+    var sku = pendingSku;
+    var user = { name: name, cc: cc, rawPhone: raw, phone: cc.replace(/\D/g, '') + raw };
+    userWrite(user);
+    btn.disabled = true; btn.textContent = 'Saving…';
+
+    /* The wishlist is saved whatever the network does — the sign-up is
+       the bonus, not the price of admission. */
+    gateClose();
+    if (sku) commitWish(sku);
+    track('sign_up', [], { value: 0 });
+
+    fetch('/api/save-draft', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ phone: user.phone, rawPhone: user.rawPhone, cc: user.cc,
+                             name: user.name, source: 'wishlist' })
+    }).catch(function () {});
+    setTimeout(function () { btn.disabled = false; btn.textContent = 'Save & Notify Me'; }, 400);
+  });
+
+  gate.addEventListener('click', function (e) { if (e.target === gate) gateClose(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && gate.classList.contains('on')) gateClose();
+  });
+
   /* ── Actions ────────────────────────────────────────────────── */
 
   function openCart(force) {
@@ -250,7 +380,7 @@
     cartPop.classList.toggle('open', open);
     wishPop.classList.remove('open');
     if (window.egCloseMenu) window.egCloseMenu();
-    if (open) sound('click');
+    if (open) { sound('click'); if (read().length) track('view_cart', linesOf(read()), { pagetype: 'cart' }); }
   }
   function openWish(force) {
     var open = (force === undefined) ? !wishPop.classList.contains('open') : !!force;
@@ -272,14 +402,13 @@
        the same thing twice and covered the drawer's own header. */
     openCart(true);
 
-    var value = unit(p) / 100;
-    gtag('event', 'add_to_cart', { event_category: 'ecommerce', currency: 'INR', value: value,
-      items: [{ item_id: sku, item_name: p.name, price: value, quantity: qty || 1 }] });
-    fbq('track', 'AddToCart', { content_ids: [sku], content_type: 'product',
-      content_name: p.name, currency: 'INR', value: value });
+    track('add_to_cart', [{ sku: sku, name: p.name, qty: qty || 1, paise: unit(p) }],
+          { pagetype: 'cart' });
   }
 
   function remove(sku) {
+    var p = find(sku), row = read().filter(function (l) { return l.sku === sku; })[0];
+    if (p && row) track('remove_from_cart', [{ sku: sku, name: p.name, qty: row.qty, paise: unit(p) }]);
     write(read().filter(function (l) { return l.sku !== sku; }));
     sound('click');
   }
@@ -298,11 +427,15 @@
 
   function wish(sku, elm) {
     var w = wishRead(), i = w.indexOf(sku);
-    if (i > -1) w.splice(i, 1); else w.push(sku);
-    wishWrite(w);
-    if (elm) elm.classList.toggle('on', w.indexOf(sku) > -1);
-    sound('click');
-    if (i === -1) gtag('event', 'add_to_wishlist', { event_category: 'ecommerce', event_label: sku });
+    if (i > -1) {                       // un-saving never asks for anything
+      w.splice(i, 1); wishWrite(w);
+      if (elm) elm.classList.remove('on');
+      sound('click');
+      return;
+    }
+    if (!userRead()) { gateOpen(sku); return; }
+    commitWish(sku);
+    if (elm) elm.classList.add('on');
   }
   function wishDrop(sku) {
     var w = wishRead(), i = w.indexOf(sku);
@@ -326,12 +459,7 @@
     if (why && window.dkWhy) { window.dkWhy(why.getAttribute('data-why'), why); return; }
     if (e.target.id === 'dkc-go') {
       sound('checkout');
-      var t = subtotal();
-      gtag('event', 'begin_checkout', { event_category: 'ecommerce', currency: 'INR', value: t / 100,
-        items: read().map(function (l) { var p = find(l.sku);
-          return { item_id: l.sku, item_name: p ? p.name : l.sku, quantity: l.qty }; }) });
-      fbq('track', 'InitiateCheckout', { content_ids: read().map(function (l) { return l.sku; }),
-        content_type: 'product', currency: 'INR', value: t / 100 });
+      track('begin_checkout', linesOf(read()), { pagetype: 'cart' });
       /* Pages that can take payment define dkCheckout. Everything else
          hands off to the shop rather than dead-ending. */
       if (typeof window.dkCheckout === 'function') window.dkCheckout();
@@ -376,6 +504,7 @@
     add: add, remove: remove, bump: bump, openCart: openCart, openWish: openWish,
     wish: wish, wishRead: wishRead, wishDrop: wishDrop, wishAdd: wishAdd,
     paint: paint, wishPaint: wishPaint, syncHearts: syncHearts,
+    user: userRead,
     /* What /api/create-order wants: SKUs and quantities, never prices. */
     items: function () { return read().map(function (l) { return { sku: l.sku, qty: l.qty }; }); }
   };
