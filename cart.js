@@ -479,7 +479,11 @@
     var w = e.target.closest('[data-wish]');
     if (w) { e.preventDefault(); wish(w.getAttribute('data-wish'), w); return; }
     var a = e.target.closest('[data-add]');
-    if (a) { e.preventDefault(); add(a.getAttribute('data-add')); return; }
+    if (a) {
+      e.preventDefault();
+      add(a.getAttribute('data-add'), parseInt(a.getAttribute('data-qty'), 10) || 1);
+      return;
+    }
     if (cartPop.contains(e.target) || cartBtn.contains(e.target)) return;
     if (wishPop.contains(e.target) || wishBtn.contains(e.target)) return;
     if (e.target.closest('#dkm') || e.target.closest('.dkm-btn')) return;

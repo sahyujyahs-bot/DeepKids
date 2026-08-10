@@ -3569,6 +3569,229 @@
   }
 </style>
 
+
+<style>
+  /* ═══ Buy block ══════════════════════════════════════════════
+     A real product page, as the second thing on the page. Everything
+     someone needs to decide — the photos, what it is, what it costs,
+     what arrives, and the button — before they have to scroll for it.
+     Reuses the shared cart, so this and /shop can never disagree. */
+  #s-buy { padding: clamp(40px,6vh,80px) 0 clamp(46px,7vh,90px);
+    /* Land the kicker just clear of the fixed nav, not under it. */
+    scroll-margin-top: calc(82px - clamp(40px,6vh,80px)); }
+  .buy-wrap { max-width: 1120px; margin: 0 auto; padding: 0 clamp(16px,4vw,40px);
+    display: grid; grid-template-columns: minmax(0,1fr); gap: clamp(22px,3.5vw,44px); align-items: start; }
+  @media (min-width: 900px) { .buy-wrap { grid-template-columns: minmax(0,1fr) minmax(0,1fr); } }
+  /* Grid items default to min-width:auto, so the thumbnail strip's six
+     tiles set the column width and push the whole block off a phone
+     screen. Let the column win; the strip already scrolls. */
+  .buy-gal, .buy-info { min-width: 0; }
+
+  /* ── Photos ── */
+  .buy-gal { position: sticky; top: 86px; }
+  @media (max-width: 899px) { .buy-gal { position: static; } }
+  .buy-stage {
+    position: relative; border-radius: 18px; overflow: hidden;
+    background: linear-gradient(170deg, rgba(170,89,200,.14), rgba(255,255,255,.02) 70%);
+    border: 1px solid rgba(170,89,200,.28); aspect-ratio: 4/3;
+    display: grid; place-items: center;
+  }
+  .buy-stage img { width: 100%; height: 100%; object-fit: contain; padding: 5%; box-sizing: border-box; }
+  .buy-badge {
+    position: absolute; left: 12px; top: 12px; z-index: 2;
+    font-family: 'Norwester',sans-serif; font-variant: small-caps; letter-spacing: 2px;
+    font-size: 11.5px; color: #fff; background: #aa59c8; border-radius: 999px; padding: 3px 12px;
+    box-shadow: 0 2px 12px rgba(170,89,200,.55);
+  }
+  .buy-thumbs { display: flex; gap: 9px; margin-top: 11px; overflow-x: auto;
+    scrollbar-width: none; -ms-overflow-style: none; padding-bottom: 2px; }
+  .buy-thumbs::-webkit-scrollbar { display: none; }
+  .buy-thumbs button {
+    flex: 0 0 auto; width: clamp(58px,15vw,76px); aspect-ratio: 1; padding: 4px; cursor: pointer;
+    border-radius: 11px; background: rgba(255,255,255,.04);
+    border: 1px solid rgba(255,255,255,.16); transition: border-color .2s ease, transform .2s ease;
+  }
+  .buy-thumbs button img { width: 100%; height: 100%; object-fit: contain; }
+  .buy-thumbs button.on { border-color: #aa59c8; transform: translateY(-2px); }
+
+  /* ── The pitch ── */
+  /* Block, so that when it has to take two lines on a phone the
+     browser splits it evenly instead of dropping one word alone. */
+  .buy-kind { display: block; font-family:'Futura',sans-serif; font-size: 12px; letter-spacing: 2.5px;
+    text-transform: uppercase; color: #cd9edf; text-wrap: balance; }
+  @media (max-width: 560px) { .buy-kind { font-size: 11px; letter-spacing: 1.6px; } }
+  .buy-title { font-family:'Norwester',sans-serif; font-variant: small-caps; letter-spacing: 1px;
+    font-size: clamp(30px,5vw,50px); color: #fff; line-height: 1.02; margin: 5px 0 8px; }
+  .buy-stars { display: flex; align-items: center; gap: 8px; font-family:'Futura',sans-serif;
+    font-size: 13px; color: rgba(255,255,255,.72); margin-bottom: 14px; }
+  .buy-stars b { color: #ffb300; letter-spacing: 2px; font-weight: normal; }
+  .buy-desc { font-family:'Futura',sans-serif; font-size: clamp(14.5px,1.9vw,16.5px);
+    line-height: 1.62; color: rgba(255,255,255,.84); }
+  .buy-desc b { color: #fff; font-weight: normal; }
+  .buy-points { list-style: none; margin: 16px 0 0; padding: 0; display: grid; gap: 9px; }
+  .buy-points li { display: flex; gap: 10px; align-items: flex-start;
+    font-family:'Futura',sans-serif; font-size: 14.5px; line-height: 1.5; color: rgba(255,255,255,.82); }
+  .buy-points span { flex: 0 0 auto; font-size: 15px; }
+
+  .buy-price-row { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap;
+    margin: clamp(18px,2.6vh,26px) 0 4px; }
+  .buy-price { font-family:'Norwester',sans-serif; font-size: clamp(32px,5.4vw,46px); color: #fff; letter-spacing: 1px; }
+  .buy-why { font-family:'Futura',sans-serif; font-size: 13.5px; color: #cd9edf;
+    background: none; border: 0; cursor: pointer; text-decoration: underline;
+    text-underline-offset: 3px; text-decoration-style: dashed; padding: 0; }
+  .buy-tax { font-family:'Futura',sans-serif; font-size: 12.5px; color: rgba(255,255,255,.5); }
+
+  .buy-actions { display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+    margin-top: clamp(16px,2.4vh,24px); }
+  .buy-qty { display: inline-flex; align-items: center; gap: 4px; border-radius: 999px;
+    border: 1px solid rgba(170,89,200,.45); background: rgba(170,89,200,.1); padding: 4px; }
+  .buy-qty button { width: 30px; height: 30px; border-radius: 50%; cursor: pointer; border: 0;
+    background: none; color: #cd9edf; font-size: 17px; line-height: 1; }
+  .buy-qty button:hover { background: rgba(170,89,200,.35); color: #fff; }
+  .buy-qty b { min-width: 22px; text-align: center; font-family:'Norwester',sans-serif;
+    font-weight: normal; font-size: 16px; color: #fff; }
+  .buy-heart { width: 44px; height: 44px; border-radius: 50%; cursor: pointer;
+    border: 1px solid rgba(255,255,255,.24); background: rgba(255,255,255,.04);
+    display: grid; place-items: center; transition: border-color .2s ease; }
+  .buy-heart svg { width: 20px; height: 20px; fill: none; stroke: #e85d75; stroke-width: 1.8; }
+  .buy-heart.on svg { fill: #e85d75; }
+  .buy-heart:hover { border-color: #e85d75; }
+  .buy-cta .btn-svg { width: 230px !important; }
+  .buy-cta { margin-left: 0 !important; }
+  /* The default label scales with the viewport, which on a fixed 230px
+     button runs the words out over the fins. Size it to the button. */
+  .buy-cta .btn-label { font-size: 17px !important; letter-spacing: 2px !important; }
+  /* The D-shape sits left of centre in the artwork; nudge so the whole
+     shape, fins included, is centred in the slot. */
+  .buy-cta-slot { display: flex; justify-content: center; transform: translateX(7px); }
+
+  /* On a phone the three controls will not sit in one row, and a lone
+     heart under the button reads as an orphan. Pair it with the
+     stepper and give the button its own full-width line. */
+  @media (max-width: 560px) {
+    .buy-actions { display: grid; grid-template-columns: auto auto 1fr; gap: 12px; align-items: center; }
+    .buy-qty   { grid-column: 1; grid-row: 1; }
+    .buy-heart { grid-column: 2; grid-row: 1; }
+    .buy-cta-slot { grid-column: 1 / -1; grid-row: 2; margin-top: 2px; }
+  }
+
+  .buy-trust { display: grid; grid-template-columns: repeat(auto-fit,minmax(180px,1fr));
+    gap: 10px; margin-top: clamp(18px,2.6vh,26px);
+    border-top: 1px solid rgba(255,255,255,.12); padding-top: clamp(14px,2vh,20px); }
+  .buy-trust div { display: flex; gap: 9px; align-items: flex-start;
+    font-family:'Futura',sans-serif; font-size: 13px; line-height: 1.45; color: rgba(255,255,255,.7); }
+  .buy-trust b { display: block; color: #fff; font-weight: normal; font-size: 13.5px; }
+</style>
+
+<!-- ═══════════════════════════════════════════════════ S-BUY ══ -->
+<section id="s-buy" class="eg-section">
+  <div class="buy-wrap">
+
+    <div class="buy-gal eg-fade-in">
+      <div class="buy-stage">
+        <span class="buy-badge">In stock</span>
+        <img id="buy-photo" src="eg-box-new.webp" width="1200" height="900" loading="lazy" decoding="async"
+             alt="The EscapeGravity box — a science board game and screen-free gift for children aged 7 to 13"/>
+      </div>
+      <div class="buy-thumbs" id="buy-thumbs" role="tablist" aria-label="Product photos"></div>
+    </div>
+
+    <div class="buy-info eg-fade-in">
+      <span class="buy-kind">Board game &middot; 2&ndash;6 players &middot; ages 7 to grandparents</span>
+      <h2 class="buy-title">EscapeGravity</h2>
+      <div class="buy-stars"><b>&#9733;&#9733;&#9733;&#9733;&#9733;</b> Loved by the families who playtested it</div>
+
+      <p class="buy-desc">A race to the International Space Station where <b>gravity is the opponent</b>. Win Force Cards by doing real physical challenges &mdash; balance something, blow a feather, drop two objects and watch &mdash; then spend them to climb out of the gravity wells on the board.</p>
+
+      <ul class="buy-points">
+        <li><span>&#127945;</span>35+ physical challenges. The science happens in their body, not on a worksheet.</li>
+        <li><span>&#127760;</span>13 forces and a spiral board running from the Earth&rsquo;s core to deep space.</li>
+        <li><span>&#127918;</span>11+ real play objects in the box &mdash; cars, clay, a frisbee, balls.</li>
+        <li><span>&#128075;</span>Zero screens, and different every game, so it gets played again.</li>
+      </ul>
+
+      <div class="buy-price-row">
+        <span class="buy-price" id="buy-price">&#8377;4,999</span>
+        <button type="button" class="buy-why" onclick="egLandOn(document.getElementById('s-worth'))">Why &#8377;4,999?</button>
+      </div>
+      <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
+
+      <div class="buy-actions">
+        <div class="buy-qty">
+          <button type="button" aria-label="One fewer" onclick="egBuyQty(-1)">&minus;</button>
+          <b id="buy-qty">1</b>
+          <button type="button" aria-label="One more" onclick="egBuyQty(1)">+</button>
+        </div>
+        <div class="buy-cta-slot">
+          <button type="button" class="buy-cta" data-dk-btn="Add To Cart" data-add="EG-001" data-qty="1"></button>
+        </div>
+        <button type="button" class="buy-heart" id="buy-heart" aria-label="Save to wishlist" data-wish="EG-001">
+          <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
+        </button>
+      </div>
+
+      <div class="buy-trust">
+        <div><span>&#128666;</span><span><b>Ships in 3 days</b>Anywhere in India</span></div>
+        <div><span>&#128176;</span><span><b>Cash on delivery</b>Or pay online</span></div>
+        <div><span>&#127981;</span><span><b>Made in small batches</b>In India, not on a line</span></div>
+        <div><span>&#127912;</span><span><b>Original artwork</b>Hand-drawn, nothing borrowed</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+/* ── Buy block ────────────────────────────────────────────────
+   Photos, quantity and the button. Adding goes through the shared
+   cart in /cart.js, so this block and /shop cannot disagree about
+   price, stock or what is in the basket. */
+(function () {
+  var SHOTS = [
+    { src: 'eg-box-new.webp',        alt: 'The EscapeGravity box — a science board game and screen-free gift for children aged 7 to 13' },
+    { src: 'gift-box-hero.webp',     alt: 'The EscapeGravity box seen from above, the spiral board printed across the lid' },
+    { src: 'full-board-tour.webp',   alt: 'The full spiral board, running from the Earth’s core out to deep space' },
+    { src: 'box-contents.webp',      alt: 'Everything in the box — board, force cards, challenge cards, tokens and play objects' },
+    { src: 'kit-items.webp',         alt: 'The real play objects packed in the box: toy cars, clay, a frisbee, balls and more' },
+    { src: 'review-kids-floor.webp', alt: 'Five children playing the EscapeGravity board game on the floor at home' }
+  ];
+  var stage = document.getElementById('buy-photo');
+  var strip = document.getElementById('buy-thumbs');
+  if (!stage || !strip) return;
+
+  SHOTS.forEach(function (sh, i) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = i ? '' : 'on';
+    b.setAttribute('aria-label', 'Show photo ' + (i + 1));
+    b.innerHTML = '<img src="' + sh.src + '" alt="" loading="lazy" decoding="async"/>';
+    b.addEventListener('click', function () {
+      stage.src = sh.src; stage.alt = sh.alt;
+      strip.querySelectorAll('button').forEach(function (x) { x.classList.remove('on'); });
+      b.classList.add('on');
+    });
+    strip.appendChild(b);
+  });
+
+  var qty = 1;
+  window.egBuyQty = function (step) {
+    qty = Math.min(Math.max(qty + step, 1), 10);
+    document.getElementById('buy-qty').textContent = qty;
+    var btn = document.querySelector('.buy-cta');
+    if (btn) btn.setAttribute('data-qty', qty);   /* read by /cart.js */
+  };
+
+  /* Keep the heart in step with the wishlist, however it was changed. */
+  function paintHeart() {
+    var h = document.getElementById('buy-heart');
+    if (h && window.DK) h.classList.toggle('on', DK.wishRead().indexOf('EG-001') > -1);
+  }
+  window.addEventListener('load', paintHeart);
+  document.addEventListener('click', function (e) {
+    if (e.target.closest('[data-wish]')) setTimeout(paintHeart, 60);
+  });
+})();
+</script>
+
 <!-- ═══════════════════════════════════════════════ S-GALLERY ══ -->
 <section id="s-gallery">
   <h2 class="page-h2 eg-fade-in">Kids Playing EscapeGravity</h2>
