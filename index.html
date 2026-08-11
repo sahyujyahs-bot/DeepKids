@@ -10772,7 +10772,7 @@
     .more-pin-overlay { opacity: 1; }
   }
   /* SCI. launch announcement banner */
-  .sci-announce {
+  .dk-announce {
     display: flex; flex-direction: column; align-items: center; gap: 4px;
     max-width: 540px; margin: clamp(22px, 4vw, 34px) auto clamp(38px, 7vw, 60px);
     padding: clamp(20px, 4vw, 26px) clamp(20px, 5vw, 34px); text-align: center; text-decoration: none;
@@ -10783,59 +10783,39 @@
     box-shadow: 0 14px 36px rgba(0,0,0,.4), 0 0 28px rgba(170,89,200,.16);
     transition: transform .2s ease, box-shadow .2s ease;
   }
-  .sci-announce-badge { font-family: 'Futura', sans-serif; font-size: 11.5px; letter-spacing: 2.5px; text-transform: uppercase; color: #ffb300; }
-  .sci-announce-main { font-family: 'Norwester', sans-serif; font-variant: small-caps; font-size: clamp(21px, 5vw, 30px); color: #fff; letter-spacing: .5px; line-height: 1.12; margin: 2px 0 4px; }
-  .sci-announce-main b { color: #cd9edf; font-weight: normal; }
-  .sci-announce-sub { font-family: 'Futura', sans-serif; font-size: clamp(13px, 3.4vw, 14.5px); color: rgba(255,255,255,.78); margin-bottom: 14px; max-width: 430px; }
-  .sci-announce-form { display: flex; flex-direction: column; align-items: center; gap: 12px; width: 100%; max-width: 320px; }
-  .sci-announce-form input {
-    width: 100%; padding: 12px 15px; font-family: 'Futura', sans-serif; font-size: 16px; color: #fff; text-align: center;
-    background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.24); border-radius: 12px; outline: none;
-    transition: border-color .2s ease, box-shadow .2s ease;
+  .dk-announce-badge { font-family: 'Futura', sans-serif; font-size: 11.5px; letter-spacing: 2.5px; text-transform: uppercase; color: #ffb300; }
+  .dk-announce-main { font-family: 'Norwester', sans-serif; font-variant: small-caps; font-size: clamp(21px, 5vw, 30px); color: #fff; letter-spacing: .5px; line-height: 1.12; margin: 2px 0 4px; }
+  .dk-announce-main b { color: #cd9edf; font-weight: normal; }
+  .dk-announce-sub { font-family: 'Futura', sans-serif; font-size: clamp(13px, 3.4vw, 14.5px); color: rgba(255,255,255,.78); margin-bottom: 14px; max-width: 430px; }
+  .dk-announce-go {
+    display: inline-block; margin-top: 4px; text-decoration: none;
+    font-family: 'Norwester', sans-serif; font-variant: small-caps; letter-spacing: 2px; font-size: 16px;
+    color: #fff; background: linear-gradient(180deg,#cd9edf 0%,#aa59c8 45%,#793194 100%);
+    border-radius: 999px; padding: 11px 28px; transition: filter .2s ease;
   }
-  .sci-announce-form input:focus { border-color: #cd9edf; box-shadow: 0 0 0 3px rgba(170,89,200,.2); }
-  .sci-announce .btn-wrap { margin: 0; background: none; border: none; padding: 0; font: inherit; }
-  .sci-announce .btn-svg { width: clamp(165px, 48vw, 205px); }
-  .sci-announce .btn-label { font-size: clamp(14px, 3.6vw, 16px); left: 38%; }
-  .sci-announce-msg { min-height: 0; font-family: 'Futura', sans-serif; font-size: 13px; color: rgba(255,255,255,.85); margin-top: 6px; }
-  .sci-announce-msg.err { color: #ff8a8a; }
-  .sci-announce-know { display: inline-block; margin-top: 12px; font-family: 'Futura', sans-serif; font-size: 13.5px; color: #cd9edf; text-decoration: none; border-bottom: 1px dashed rgba(205,158,223,.5); }
-  .sci-announce-know:hover { color: #fff; }
-  .sci-announce-done { font-family: 'Futura', sans-serif; color: #fff; font-size: 15px; line-height: 1.5; }
-  .sci-announce-done a { color: #cd9edf; }
+  .dk-announce-go:hover { filter: brightness(1.1); }
+  .dk-announce-price { font-family: 'Futura', sans-serif; font-size: 13px; color: rgba(255,255,255,.62); margin-top: 10px; }
+  .dk-announce-price s { color: rgba(255,255,255,.4); }
+  .dk-announce-price b { color: #cd9edf; font-weight: normal; }
+  .dk-announce-alt {
+    font-family: 'Futura', sans-serif; font-size: 13px; color: rgba(255,255,255,.72);
+    margin-top: 16px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,.14); width: 100%;
+  }
+  .dk-announce-alt b { color: #fff; font-weight: normal; }
+  .dk-announce-alt a { color: #cd9edf; text-decoration: none; border-bottom: 1px dashed rgba(205,158,223,.5); }
+  .dk-announce-alt a:hover { color: #fff; }
 </style>
 
 <section id="s-more" class="eg-section">
   <h2 class="page-h2 eg-fade-in">More Worlds From DeepKids</h2>
   <p class="more-intro eg-fade-in">EscapeGravity is just the beginning. We're building a universe of games, cards, and books that turn deep concepts into unforgettable experiences.</p>
-  <div class="sci-announce eg-fade-in">
-    <span class="sci-announce-badge">🎉 Launching Next</span>
-    <span class="sci-announce-main"><b>SCI.</b> — Scientist Trading Cards</span>
-    <span class="sci-announce-sub">Real scientists as collectible trading cards — hand-drawn, rare-to-legendary, and packed with the science they cracked.</span>
-    <div id="sci-bar-live">
-      <form class="sci-announce-form" id="sci-bar-form" novalidate>
-        <input type="tel" id="sci-bar-phone" inputmode="tel" autocomplete="tel" placeholder="Your WhatsApp number" aria-label="Your WhatsApp number">
-        <button type="submit" class="btn-wrap" id="sci-bar-btn" aria-label="Get launch discount">
-          <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="dkg-bar2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/></linearGradient>
-              <linearGradient id="dkh-bar2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/></linearGradient>
-            </defs>
-            <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-bar2)"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-bar2)"/>
-            <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-          </svg>
-          <span class="btn-label">Get Discount</span>
-        </button>
-      </form>
-      <div class="sci-announce-msg" id="sci-bar-msg" role="status"></div>
-      <a class="sci-announce-know" href="/sci">Know more about SCI. →</a>
-    </div>
-    <div class="sci-announce-done" id="sci-bar-done" style="display:none">🎉 You're on the list! Check WhatsApp — your discount code is on its way. <a href="/sci">See the cards →</a></div>
+  <div class="dk-announce eg-fade-in">
+    <span class="dk-announce-badge">🎉 Launching Next</span>
+    <span class="dk-announce-main"><b>The Story Of Evolution</b> &mdash; Picture Book</span>
+    <span class="dk-announce-sub">Four billion years as one continuous story, hand-painted across 51 spreads &mdash; from the silent infinite before time to what is happening under our noses right now.</span>
+    <a class="dk-announce-go" href="/evolution">See The Book</a>
+    <span class="dk-announce-price"><s>₹2,499</s> <b>₹2,124</b> on pre-order &middot; 15% off</span>
+    <p class="dk-announce-alt"><b>SCI. Scientist Trading Cards is out now.</b> <a href="/sci">See the cards →</a></p>
   </div>
 
   <div class="more-masonry">
@@ -12796,164 +12776,23 @@ if ('requestIdleCallback' in window) {
   })();
 </script>
 
-<!-- ═══ SCI. launch announcement (auto-popup, once per device) ═══ -->
-<style>
-  .sci-pop { position: fixed; inset: 0; z-index: 1000; display: flex; align-items: center; justify-content: center; padding: 20px; background: rgba(0,0,0,.62); animation: sci-pop-bg .3s ease; }
-  .sci-pop[hidden] { display: none; }
-  @keyframes sci-pop-bg { from { opacity: 0; } to { opacity: 1; } }
-  .sci-pop-card {
-    position: relative; width: min(400px, 92vw); text-align: center;
-    background:
-      radial-gradient(120% 130% at 50% -10%, rgba(255,179,0,.14), transparent 55%),
-      linear-gradient(165deg, rgba(24,12,44,.99), rgba(34,17,58,.99));
-    border: 1px solid rgba(205,158,223,.5); border-radius: 22px; padding: 30px 24px 26px;
-    box-shadow: 0 24px 70px rgba(0,0,0,.7), 0 0 32px rgba(170,89,200,.25);
-    animation: sci-pop-in .32s cubic-bezier(.2,.8,.2,1);
-  }
-  @keyframes sci-pop-in { from { opacity: 0; transform: translateY(22px) scale(.96); } to { opacity: 1; transform: none; } }
-  .sci-pop-close { position: absolute; top: 9px; right: 14px; background: none; border: none; color: rgba(255,255,255,.6); font-size: 26px; line-height: 1; cursor: pointer; }
-  .sci-pop-close:hover { color: #fff; }
-  .sci-pop-badge { font-family: 'Futura', sans-serif; font-size: 11.5px; letter-spacing: 2.5px; text-transform: uppercase; color: #ffb300; }
-  .sci-pop-title { font-family: 'Norwester', sans-serif; font-variant: small-caps; font-size: clamp(24px, 6vw, 30px); color: #fff; margin: 6px 0 6px; letter-spacing: .5px; }
-  .sci-pop-title b { color: #cd9edf; font-weight: normal; }
-  .sci-pop-sub { font-family: 'Futura', sans-serif; font-size: 14px; color: rgba(255,255,255,.8); margin-bottom: 16px; }
-  .sci-pop-form { display: flex; flex-direction: column; align-items: center; gap: 12px; }
-  .sci-pop-form input { width: 100%; max-width: 300px; padding: 12px 15px; font-family: 'Futura', sans-serif; font-size: 16px; color: #fff; text-align: center; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.24); border-radius: 12px; outline: none; }
-  .sci-pop-form input:focus { border-color: #cd9edf; box-shadow: 0 0 0 3px rgba(170,89,200,.2); }
-  .sci-pop .btn-wrap { margin: 0; background: none; border: none; padding: 0; font: inherit; }
-  .sci-pop .btn-svg { width: clamp(170px, 55vw, 210px); }
-  .sci-pop .btn-label { font-size: 16px; left: 38%; }
-  .sci-pop-msg { min-height: 0; font-family: 'Futura', sans-serif; font-size: 13px; color: rgba(255,255,255,.85); margin-top: 8px; }
-  .sci-pop-msg.err { color: #ff8a8a; }
-  .sci-pop-know { display: inline-block; margin-top: 12px; font-family: 'Futura', sans-serif; font-size: 13px; color: #cd9edf; text-decoration: none; border-bottom: 1px dashed rgba(205,158,223,.5); }
-  .sci-pop-know:hover { color: #fff; }
-  .sci-pop-done { font-family: 'Futura', sans-serif; color: #fff; font-size: 15px; line-height: 1.5; }
-</style>
-<div class="sci-pop" id="sci-pop" hidden>
-  <div class="sci-pop-card">
-    <button class="sci-pop-close" id="sci-pop-close" aria-label="Close">×</button>
-    <span class="sci-pop-badge">🎉 Launching Next</span>
-    <div class="sci-pop-title"><b>SCI.</b> — Scientist Trading Cards</div>
-    <p class="sci-pop-sub">Real scientists as collectible trading cards — hand-drawn, rare-to-legendary. Grab your launch discount.</p>
-    <div id="sci-pop-live">
-      <form class="sci-pop-form" id="sci-pop-form" novalidate>
-        <input type="tel" id="sci-pop-phone" inputmode="tel" autocomplete="tel" placeholder="Your WhatsApp number" aria-label="Your WhatsApp number">
-        <button type="submit" class="btn-wrap" id="sci-pop-btn" aria-label="Get launch discount">
-          <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="dkg-pop2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/></linearGradient>
-              <linearGradient id="dkh-pop2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/></linearGradient>
-            </defs>
-            <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-pop2)"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-            <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-pop2)"/>
-            <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-            <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-            <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-          </svg>
-          <span class="btn-label">Get Discount</span>
-        </button>
-      </form>
-      <div class="sci-pop-msg" id="sci-pop-msg" role="status"></div>
-      <a class="sci-pop-know" href="/sci">Know more about SCI. →</a>
-    </div>
-    <div class="sci-pop-done" id="sci-pop-done" style="display:none">🎉 You're on the list! Check WhatsApp — your discount code is on its way.</div>
-  </div>
-</div>
+<!-- ═══ Cross-sell nudge: the next title, once per device ═══ -->
 <script>
-  (function(){
-    /* Shared SCI. lead pipeline: emails you + logs to the Google Sheet */
-    function normNum(raw){ var d=(raw||'').replace(/\D/g,''); if(d.length<10) return null; if(d.length===10) return '+91'+d; return '+'+d; }
-    function withTO(p,ms){ return Promise.race([p, new Promise(function(r){ setTimeout(r,ms); })]); }
-    /* Sends the approved launch-code template. Fails silently — a WhatsApp
-       hiccup must never block the signup confirmation the user sees. These
-       forms only collect a number, so the name param falls back to 'there'. */
-    var SCI_COUPON = 'EG200', SCI_TEMPLATE = '200_off_for_sci_';
-    function sciWhatsApp(phone){
-      if(!phone) return Promise.resolve();
-      return fetch('/api/send-whatsapp',{
-        method:'POST', headers:{'Content-Type':'application/json'},
-        body: JSON.stringify({ phone: phone, template: SCI_TEMPLATE, bodyParams: ['there', SCI_COUPON] })
-      }).catch(function(){});
-    }
-    /* Server-side capture into our own D1 database — the only sink we
-       control. formsubmit.co and Google Forms both fail silently, so a lead
-       can vanish with no trace. This one cannot. */
-    function sciSaveServerSide(phone, source){
-      if(!phone) return Promise.resolve();
-      return fetch('/api/save-draft',{
-        method:'POST', headers:{'Content-Type':'application/json'}, keepalive:true,
-        body: JSON.stringify({ phone: phone, rawPhone: phone.replace(/\D/g,''), cc:'',
-          name: '[SCI launch signup — ' + source + ']',
-          address:'', city:'', pincode:'', state:'' })
-      }).catch(function(){});
-    }
-    function sciLead(phone, source){
-      var data=new FormData();
-      data.append('name','—'); data.append('whatsapp',phone); data.append('interest','SCI. Trading Cards'); data.append('source',source);
-      data.append('_subject','SCI. Launch Signup ('+source+'): '+phone); data.append('_template','table'); data.append('_captcha','false');
-      var e=fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com',{method:'POST',headers:{'Accept':'application/json'},body:data,keepalive:true}).catch(function(){});
-      var s; try{ s=fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse',{method:'POST',mode:'no-cors',keepalive:true,headers:{'Content-Type':'application/x-www-form-urlencoded'},body:'entry.1636497169='+encodeURIComponent('—')+'&entry.1301511467='+encodeURIComponent(phone)+'&entry.1152692251='+encodeURIComponent('SCI. Launch Signup ('+source+')')}).catch(function(){}); }catch(ex){ s=Promise.resolve(); }
-      return Promise.allSettled([e,s]);
-    }
-    function wire(formId, phoneId, msgId, baseCls, source, onDone){
-      var form=document.getElementById(formId); if(!form) return;
-      form.addEventListener('submit', function(e){
-        e.preventDefault();
-        var msg=document.getElementById(msgId);
-        var num=normNum(document.getElementById(phoneId).value);
-        if(!num){ if(msg){ msg.textContent='Please enter a valid WhatsApp number.'; msg.className=baseCls+' err'; } return; }
-        if(msg){ msg.textContent='Reserving your discount…'; msg.className=baseCls; }
-        egGtag('event','sci_signup',{event_category:'conversion',event_label:source});
-        egGtag('event','generate_lead',{event_category:'conversion',event_label:source});
-        egFbq('track','Lead',{content_name:'SCI. Trading Cards'});
-        withTO(Promise.allSettled([sciSaveServerSide(num,source), sciLead(num,source), sciWhatsApp(num)]),3500).then(onDone);
-      });
-    }
-    /* Homepage banner form */
-    wire('sci-bar-form','sci-bar-phone','sci-bar-msg','sci-announce-msg','Home bar', function(){
-      var l=document.getElementById('sci-bar-live'); if(l) l.style.display='none';
-      var d=document.getElementById('sci-bar-done'); if(d) d.style.display='block';
-    });
-
-    /* Auto-popup: fires once per device, after the reader scrolls past the
-       first few sections or lingers ~45s — and only when the WhatsApp cue
-       isn't currently on screen. */
-    var pop=document.getElementById('sci-pop');
-    var POP_KEY='eg-sci-pop-seen', seen=false;
-    try{ seen = localStorage.getItem(POP_KEY)==='1'; }catch(e){}
-    function markSeen(){ seen=true; try{ localStorage.setItem(POP_KEY,'1'); }catch(e){} }
-    function closePop(){ if(pop) pop.hidden=true; }
-    function openPop(){
-      if(seen || !pop || !pop.hidden) return;
-      var cueEl=document.getElementById('eg-wa-cue');
-      if(cueEl && cueEl.classList.contains('visible')){ setTimeout(openPop, 4000); return; }
-      if(cueEl) cueEl.classList.remove('visible');
-      markSeen();
-      pop.hidden=false;
-      egGtag('event','sci_announce_shown',{event_category:'engagement'});
-    }
-    if(pop){
-      wire('sci-pop-form','sci-pop-phone','sci-pop-msg','sci-pop-msg','Home popup', function(){
-        var l=document.getElementById('sci-pop-live'); if(l) l.style.display='none';
-        var d=document.getElementById('sci-pop-done'); if(d) d.style.display='block';
-      });
-      document.getElementById('sci-pop-close').addEventListener('click', closePop);
-      pop.addEventListener('click', function(e){ if(e.target===pop) closePop(); });
-      var knowLink=pop.querySelector('.sci-pop-know'); if(knowLink) knowLink.addEventListener('click', markSeen);
-      if(!seen){
-        setTimeout(function(){ openPop(); }, 45000);
-        window.addEventListener('scroll', function onPopScroll(){
-          if(seen){ window.removeEventListener('scroll', onPopScroll); return; }
-          if(window.scrollY > window.innerHeight * 3){ window.removeEventListener('scroll', onPopScroll); openPop(); }
-        }, { passive:true });
-      }
-    }
-  })();
+(window.dkNudgeQueue = window.dkNudgeQueue || []).push({
+  key:   "evo-from-home",
+  badge: "Launching next",
+  title: "The Story Of Evolution",
+  sub:   "Four billion years as one continuous story, hand-painted across 51 spreads &mdash; from the silent infinite before time to what is happening under our noses right now.",
+  img:   "more-evo-4.webp",
+  alt:   "A predatory dinosaur hunting in shallow water, hand-painted for The Story Of Evolution Of Life",
+  href:  "/evolution", cta: "See The Book",
+  note:  "<s>₹2,499</s> <b>₹2,124</b> on pre-order · 15% off",
+  alt2:  "<b>SCI. Scientist Trading Cards is out now.</b> <a href=\"/sci\">See the cards →</a>"
+});
 </script>
   <script src="/dkbtn.js" defer></script>
   <script src="/productblock.js" defer></script>
+  <script src="/nudge.js" defer></script>
   <script src="/track.js" defer></script>
   <script src="/cart.js" defer></script>
   <script src="/checkout.js" defer></script>

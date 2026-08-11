@@ -204,61 +204,6 @@
     .lede { max-width: 680px; margin: 0 auto; text-align: center; color: var(--ink); font-size: clamp(15px, 2vw, 17px); }
     .lede b { color: #fff; }
 
-    /* Signup */
-    .signup { }
-    .su-panel {
-      max-width: 540px; margin: 0 auto;
-      background: linear-gradient(170deg, rgba(var(--purple-rgb), .16), rgba(255,255,255,.03) 65%);
-      border: 1px solid rgba(var(--purple-rgb), .45); border-radius: 22px; padding: clamp(24px, 4vw, 36px);
-      box-shadow: 0 24px 60px rgba(0,0,0,.5), 0 0 40px rgba(var(--purple-rgb), .12);
-    }
-    .su-panel h2 { font-size: clamp(24px, 4.4vw, 36px); text-align: center; margin-bottom: 8px; }
-    .su-panel h2 em { font-style: normal; color: var(--lilac); }
-    .su-intro { text-align: center; color: var(--ink); font-size: 15px; margin-bottom: 22px; }
-    .su-perks { display: flex; flex-direction: column; gap: 9px; margin: 0 auto 22px; max-width: 380px; }
-    .su-perks li { list-style: none; display: flex; align-items: center; gap: 10px; font-size: 14.5px; color: rgba(255,255,255,.9); }
-    .su-perks li span { font-size: 18px; flex-shrink: 0; }
-    .su-field { margin-bottom: 13px; }
-    .su-field label { display: block; font-size: 12px; letter-spacing: 1.8px; text-transform: uppercase; color: var(--ink-dim); margin-bottom: 6px; }
-    .su-field input {
-      width: 100%; padding: 13px 15px; font-family: var(--font-body); font-size: 16px; color: #fff;
-      background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.2); border-radius: 12px; outline: none;
-      transition: border-color .2s ease, box-shadow .2s ease;
-    }
-    .su-field input:focus { border-color: var(--purple); box-shadow: 0 0 0 3px rgba(var(--purple-rgb), .2); }
-    .su-row { display: grid; grid-template-columns: 92px 1fr; gap: 10px; }
-    /* DeepKids button — same as the rest of the site */
-    .su-actions { text-align: center; margin-top: 18px; }
-    .btn-wrap {
-      position: relative; display: inline-block; cursor: pointer; text-decoration: none;
-      background: none; border: none; padding: 0; font: inherit;
-      animation: btn-bob 3.5s ease-in-out infinite;
-      filter: drop-shadow(0 0 14px rgba(var(--purple-rgb),.35)) drop-shadow(0 4px 12px rgba(0,0,0,.4));
-      transition: filter .3s ease, transform .3s ease;
-    }
-    .btn-wrap:hover { transform: translateY(-3px) scale(1.04); animation: none;
-      filter: drop-shadow(0 0 22px rgba(var(--purple-rgb),.6)) drop-shadow(0 6px 18px rgba(0,0,0,.5)) brightness(1.1); }
-    .btn-wrap:active { transform: scale(.97); animation: none; }
-    @keyframes btn-bob { 0%,100% { transform: scale(1) translateY(0); } 50% { transform: scale(1.03) translateY(-4px); } }
-    .btn-svg { display: block; width: clamp(210px, 62vw, 290px); height: auto; overflow: visible; }
-    .btn-label {
-      position: absolute; top: 50%; left: 38%; transform: translate(-50%,-50%);
-      font-family: var(--font-head); font-variant: small-caps; font-size: clamp(16px, 4.6vw, 22px);
-      letter-spacing: clamp(1px,.5vw,4px); color: #fff; text-shadow: 1px 1px 3px rgba(0,0,0,.7);
-      pointer-events: none; white-space: nowrap;
-    }
-    .su-msg { min-height: 20px; text-align: center; font-size: 14px; margin-top: 12px; color: var(--ink); }
-    .su-msg.err { color: #ff8a8a; }
-    .su-note { text-align: center; font-size: 12px; color: var(--ink-dim); margin-top: 12px; }
-    .su-done { text-align: center; padding: 10px 4px; }
-    .su-done .big { font-family: var(--font-head); font-variant: small-caps; font-size: clamp(24px, 4vw, 32px); color: #fff; margin-bottom: 8px; }
-    .su-done p { color: var(--ink); font-size: 15px; }
-    .su-done .wa-go {
-      display: inline-block; margin-top: 16px; text-decoration: none;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px; font-size: 16px; color: #fff;
-      background: #25D366; border-radius: 999px; padding: 11px 22px;
-    }
-
     footer { text-align: center; padding: 30px 16px 46px; font-size: 13px; color: rgba(255,255,255,.5); }
     footer a { margin: 0 8px; color: rgba(255,255,255,.65); }
 
@@ -518,62 +463,6 @@
     </div>
   </section>
 
-  <!-- ═══ SIGNUP ═══ -->
-  <section class="signup wrap" id="signup">
-    <div class="su-panel rv">
-      <div id="su-form-wrap">
-        <h2>Be First In <em>Line</em></h2>
-        <p class="su-intro">SCI. is out now. Sign up and we'll tell you first as new scientists join the deck.</p>
-        <ul class="su-perks">
-          <li><span>🏷️</span> The launch discount, while the first print run lasts</li>
-          <li><span>🎁</span> A little something special in your first pack</li>
-          <li><span>⚡</span> First dibs on every new set before it goes on sale</li>
-        </ul>
-        <form id="su-form" novalidate>
-          <div class="su-field">
-            <label for="su-name">Your name</label>
-            <input id="su-name" type="text" autocomplete="name" placeholder="e.g. Priya Sharma"/>
-          </div>
-          <div class="su-field">
-            <label for="su-phone">WhatsApp number</label>
-            <div class="su-row">
-              <input id="su-cc" type="text" inputmode="tel" value="+91" aria-label="Country code"/>
-              <input id="su-phone" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="98765 43210"/>
-            </div>
-          </div>
-          <div class="su-actions">
-            <button type="submit" class="btn-wrap" id="su-btn" aria-label="Get my launch discount">
-              <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-                <defs>
-                  <linearGradient id="dkg-su" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="0%" stop-color="#cd9edf"/><stop offset="45%" stop-color="#aa59c8"/><stop offset="100%" stop-color="#793194"/>
-                  </linearGradient>
-                  <linearGradient id="dkh-su" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-                  </linearGradient>
-                </defs>
-                <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dkg-su)"/>
-                <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-                <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-                <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dkh-su)"/>
-                <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-                <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-                <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-              </svg>
-              <span class="btn-label">Get Discount</span>
-            </button>
-          </div>
-          <div class="su-msg" id="su-msg" role="status"></div>
-          <p class="su-note">🔒 Just to hold your launch discount — no spam, and we'll only message you about SCI.</p>
-        </form>
-      </div>
-      <div class="su-done" id="su-done" style="display:none">
-        <div class="big">🎉 You're on the list!</div>
-        <p>Check WhatsApp — your discount code is on its way. We'll message you again the moment SCI. is ready.</p>
-        <a class="wa-go" id="su-wa" target="_blank" rel="noopener">Say hi on WhatsApp 💬</a>
-      </div>
-    </div>
-  </section>
 </main>
 
 
@@ -602,111 +491,6 @@
   /* ── Config ── */
   var EG_WA_NUMBER = '919739815506';
   var EG_WA_OFFER  = '₹200 off';
-  var SCI_COUPON   = 'EG200';            // code sent to signups on WhatsApp
-  var SCI_TEMPLATE = '200_off_for_sci_'; // approved Meta template name (must match exactly)
-
-  /* Sends the launch-code template. Fails silently — a WhatsApp hiccup must
-     never block the signup confirmation the user sees. */
-  function sciSendWhatsApp(name, phone) {
-    if (!phone) return Promise.resolve();
-    return fetch('/api/send-whatsapp', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        phone: phone,
-        template: SCI_TEMPLATE,
-        bodyParams: [name || 'there', SCI_COUPON]
-      })
-    }).catch(function(){});
-  }
-
-  /* Server-side capture into our own D1 database. This is the ONLY sink we
-     control — formsubmit.co and Google Forms both fail silently (no-cors +
-     swallowed errors), so a lead can vanish without any trace. This one
-     can't. */
-  function sciSaveServerSide(name, phone) {
-    if (!phone) return Promise.resolve();
-    return fetch('/api/save-draft', {
-      method: 'POST', headers: { 'Content-Type': 'application/json' }, keepalive: true,
-      body: JSON.stringify({
-        phone: phone,
-        rawPhone: phone.replace(/\D/g, ''),
-        cc: '',
-        name: (name || 'there') + ' [SCI launch signup]',
-        address: '', city: '', pincode: '', state: ''
-      })
-    }).catch(function(){});
-  }
-
-  /* ── Lead pipeline: same as the order flow — email to you + Google Sheet ── */
-  function sciSendLead(name, whatsapp, status) {
-    var data = new FormData();
-    data.append('name', name);
-    data.append('whatsapp', whatsapp);
-    data.append('interest', 'SCI. Trading Cards');
-    data.append('_subject', 'SCI. Launch Signup: ' + name + ' (' + whatsapp + ')');
-    data.append('_template', 'table');
-    data.append('_captcha', 'false');
-    var emailP = fetch('https://formsubmit.co/ajax/sahyujyahs@gmail.com', {
-      method: 'POST', headers: { 'Accept': 'application/json' }, body: data, keepalive: true
-    }).catch(function(){});
-    var sheetP;
-    try {
-      sheetP = fetch('https://docs.google.com/forms/d/e/1FAIpQLSd3biGQLvWYqNxXvwLJUqekETPWNx1-BnM1VH-UOX8meoOHcA/formResponse', {
-        method: 'POST', mode: 'no-cors', keepalive: true,
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: 'entry.1636497169=' + encodeURIComponent(name) +
-              '&entry.1301511467=' + encodeURIComponent(whatsapp) +
-              '&entry.1152692251=' + encodeURIComponent(status)
-      }).catch(function(){});
-    } catch(e) { sheetP = Promise.resolve(); }
-    return Promise.allSettled([emailP, sheetP]);
-  }
-  function sciTimeout(p, ms) { return Promise.race([p, new Promise(function(r){ setTimeout(r, ms); })]); }
-
-  (function(){
-    var form = document.getElementById('su-form');
-    var msg  = document.getElementById('su-msg');
-    var btn  = document.getElementById('su-btn');
-    var started = false;
-    function v(id){ return (document.getElementById(id) || {}).value || ''; }
-
-    form.addEventListener('input', function(){
-      if (!started) { started = true;
-        egGtag('event', 'sci_signup_started', { event_category: 'funnel' });
-        egFbq('trackCustom', 'SciSignupStarted');
-      }
-    });
-
-    form.addEventListener('submit', function(e){
-      e.preventDefault();
-      var name = v('su-name').trim();
-      var cc = v('su-cc').trim(), digits = v('su-phone').replace(/\D/g, '');
-      msg.textContent = ''; msg.className = 'su-msg';
-      if (!name) { msg.textContent = 'Please enter your name.'; msg.className = 'su-msg err'; return; }
-      if (!cc.match(/^\+?\d{1,4}$/)) { msg.textContent = 'Please enter a valid country code (e.g. +91).'; msg.className = 'su-msg err'; return; }
-      if (digits.length < 7 || digits.length > 15) { msg.textContent = 'Please enter a valid WhatsApp number.'; msg.className = 'su-msg err'; return; }
-      var fullNumber = (cc.indexOf('+') === 0 ? cc : '+' + cc) + digits;
-
-      btn.style.pointerEvents = 'none'; btn.style.opacity = '.6';
-      msg.textContent = 'Reserving your spot…';
-      egGtag('event', 'sci_signup', { event_category: 'conversion' });
-      egGtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'sci_launch' });
-      egFbq('track', 'Lead', { content_name: 'SCI. Trading Cards' });
-
-      sciTimeout(Promise.allSettled([
-        sciSaveServerSide(name, fullNumber),
-        sciSendLead(name, fullNumber, 'SCI. Launch Signup'),
-        sciSendWhatsApp(name, fullNumber)
-      ]), 4000).then(function(){
-        document.getElementById('su-form-wrap').style.display = 'none';
-        var done = document.getElementById('su-done'); done.style.display = 'block';
-        var wa = document.getElementById('su-wa');
-        if (wa) wa.href = 'https://wa.me/' + EG_WA_NUMBER + '?text=' +
-          encodeURIComponent("Hi! I just signed up for the SCI. trading cards launch 🙂");
-      });
-    });
-  })();
 
   /* ── Floating WhatsApp button + offer cue ── */
   (function(){
@@ -751,8 +535,23 @@
     document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
   }
 </script>
+
+<!-- ═══ Cross-sell nudge: the next title, once per device ═══ -->
+<script>
+(window.dkNudgeQueue = window.dkNudgeQueue || []).push({
+  key:   'evo-from-sci',
+  badge: 'Also from DeepKids',
+  title: 'The Story Of Evolution',
+  sub:   'Four billion years as one continuous story, hand-painted across 51 spreads &mdash; from the very first RNA to the species disappearing under our noses right now.',
+  img:   'more-evo-4.webp',
+  alt:   'A predatory dinosaur hunting in shallow water, hand-painted for The Story Of Evolution Of Life',
+  href:  '/evolution', cta: 'See The Book',
+  note:  '<s>₹2,499</s> <b>₹2,124</b> on pre-order · 15% off'
+});
+</script>
   <script src="/dkbtn.js" defer></script>
   <script src="/productblock.js" defer></script>
+  <script src="/nudge.js" defer></script>
   <script src="/track.js" defer></script>
   <script src="/cart.js" defer></script>
   <script src="/checkout.js" defer></script>
