@@ -1,16 +1,20 @@
 /* ══════════════════════════════════════════════════════════════
    The cross-sell nudge — one definition for every page.
 
-   A card that appears once per device, after someone has either
-   lingered a while or read a good way down, pointing them at the
-   next DeepKids title. The main page sends people to Evolution;
-   so does the SCI. page. One file, so the timing, the once-only
-   rule and the look cannot drift apart.
+   A card that appears once per visit to a page, after someone has
+   either lingered a while or read a good way down, pointing them at
+   the next DeepKids title. The main page sends people to SCI.; the
+   SCI. page sends them on to Evolution. One file, so the timing, the
+   once-only rule and the look cannot drift apart.
+
+   Once per visit, not once per device: nothing is written down, so
+   coming back to a page shows it again. Dismissing it silences it
+   for the rest of that page view and no longer.
 
    A page queues its own copy:
 
      (window.dkNudgeQueue = window.dkNudgeQueue || []).push({
-       key:   'evo-from-sci',        // localStorage key; unique per nudge
+       key:   'evo-from-sci',        // names it in the analytics
        badge: 'Launching next',
        title: 'The Story Of Evolution',
        sub:   'Four billion years as one continuous story.',
@@ -118,23 +122,21 @@
     if (window.egGtag) window.egGtag('event', name, { event_category: 'engagement', event_label: label });
   }
 
-  /* ?nudge on the URL forgets every card, so a nudge can be looked at
-     again without clearing the whole site's storage by hand. It is
-     once per device by design, which makes testing one awkward. */
+  /* Left over from when this was once per device. Cleared so nobody
+     carries a dead key around; safe to drop once it has been live a
+     while. */
   try {
-    if (new URLSearchParams(location.search).has('nudge')) {
-      Object.keys(localStorage).forEach(function (k) {
-        if (k.indexOf('dkn-') === 0) localStorage.removeItem(k);
-      });
-    }
+    Object.keys(localStorage).forEach(function (k) {
+      if (k.indexOf('dkn-') === 0) localStorage.removeItem(k);
+    });
   } catch (e) {}
 
   function build(c) {
     if (!c || !c.key) return;
 
+    /* Per page view, and nothing written down: this only stops the
+       same card opening twice in one visit. */
     var seen = false;
-    try { seen = localStorage.getItem('dkn-' + c.key) === '1'; } catch (e) {}
-    if (seen) return;
 
     var el = document.createElement('div');
     el.className = 'dkn';
@@ -157,10 +159,7 @@
       + '</div>';
     document.body.appendChild(el);
 
-    function markSeen() {
-      seen = true;
-      try { localStorage.setItem('dkn-' + c.key, '1'); } catch (e) {}
-    }
+    function markSeen() { seen = true; }
     function close() { el.hidden = true; }
     function open() {
       if (seen || !el.hidden) return;
