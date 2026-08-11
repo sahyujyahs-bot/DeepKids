@@ -3591,10 +3591,11 @@
      inside it. The kit shots are portrait, the challenge cards are
      landscape and the board is square — nothing may be cropped to
      make them agree, so they letterbox instead. */
+  /* No frame, no tint: the photographs sit straight on the page. The
+     stage is only a measured height for them to be contained in, and
+     overflow:hidden so the snap track clips. */
   .buy-stage {
-    position: relative; border-radius: 18px; overflow: hidden;
-    background: linear-gradient(170deg, rgba(170,89,200,.14), rgba(255,255,255,.02) 70%);
-    border: 1px solid rgba(170,89,200,.28);
+    position: relative; overflow: hidden;
     height: clamp(300px, 52vh, 440px);
   }
   .buy-track {
@@ -3645,13 +3646,17 @@
   .buy-thumbs { display: flex; gap: 9px; margin-top: 9px; overflow-x: auto;
     scrollbar-width: none; -ms-overflow-style: none; padding-bottom: 2px; }
   .buy-thumbs::-webkit-scrollbar { display: none; }
+  /* Bare thumbnails too. Without a tile to light up, the live one is
+     marked by being the only one at full strength, with a rule under
+     it — a state that reads without drawing a box back on. */
   .buy-thumbs button {
-    flex: 0 0 auto; width: clamp(56px,14vw,74px); aspect-ratio: 1; padding: 4px; cursor: pointer;
-    border-radius: 11px; background: rgba(255,255,255,.04);
-    border: 1px solid rgba(255,255,255,.16); transition: border-color .2s ease, transform .2s ease;
+    flex: 0 0 auto; width: clamp(56px,14vw,74px); aspect-ratio: 1; cursor: pointer;
+    padding: 0 0 6px; background: none; border: 0; border-bottom: 2px solid transparent;
+    opacity: .45; transition: opacity .2s ease, border-color .2s ease;
   }
   .buy-thumbs button img { width: 100%; height: 100%; object-fit: contain; }
-  .buy-thumbs button.on { border-color: #aa59c8; transform: translateY(-2px); }
+  .buy-thumbs button:hover { opacity: .8; }
+  .buy-thumbs button.on { opacity: 1; border-bottom-color: #aa59c8; }
 
   /* ── The pitch ── */
   .buy-info { display: flex; flex-direction: column; }
@@ -3724,7 +3729,7 @@
   @media (min-width: 1000px) {
     .buy-wrap { max-width: none; padding: 0; grid-template-columns: 50% minmax(0,1fr);
       gap: clamp(24px,3vw,52px); }
-    .buy-stage { height: min(76vh, 720px); border-radius: 0 26px 26px 0; border-left: 0; }
+    .buy-stage { height: min(76vh, 720px); }
     .buy-cap, .buy-thumbs { padding-left: clamp(18px,3vw,44px); }
     .buy-info { max-width: 660px; padding-right: clamp(20px,4vw,64px); }
   }
