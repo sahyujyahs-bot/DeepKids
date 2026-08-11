@@ -44,7 +44,11 @@
       'border: none; color: rgba(255,255,255,.8); font-size: 24px; line-height: 1; cursor: pointer;',
       'width: 32px; height: 32px; border-radius: 50%; }',
     '.dkn-x:hover { color: #fff; background: rgba(10,6,24,.85); }',
-    '.dkn-img { width: 100%; height: clamp(150px, 30vh, 210px); object-fit: cover; display: block;',
+    /* contain, not cover: a box render is portrait and a painted spread
+       is landscape, and cropping either to fit the other looks like a
+       mistake. They letterbox on the dark band instead. */
+    '.dkn-img { width: 100%; height: clamp(150px, 30vh, 210px); object-fit: contain; display: block;',
+      'background: rgba(0,0,0,.32); padding: 10px; box-sizing: border-box;',
       'border-bottom: 1px solid rgba(205,158,223,.28); }',
     '.dkn-body { padding: 20px 24px 0; }',
     '.dkn-badge { font-family: "Futura", sans-serif; font-size: 11.5px; letter-spacing: 2.5px;',
@@ -63,8 +67,40 @@
     '.dkn-note b { color: #cd9edf; font-weight: normal; }',
     '.dkn-alt { font-family: "Futura", sans-serif; font-size: 13px; color: rgba(255,255,255,.7);',
       'margin-top: 14px; padding-top: 13px; border-top: 1px solid rgba(255,255,255,.12); }',
+    '.dkn-alt b { color: #fff; font-weight: normal; }',
     '.dkn-alt a { color: #cd9edf; text-decoration: none; border-bottom: 1px dashed rgba(205,158,223,.5); }',
-    '.dkn-alt a:hover { color: #fff; }'
+    '.dkn-alt a:hover { color: #fff; }',
+
+    /* ── The same card, sitting in the page rather than over it ──
+       Written here and not in a page's own stylesheet so the strip on
+       the main page and the strip on /sci cannot drift apart. */
+    '.dkx { display: flex; flex-direction: column; align-items: center; gap: 4px;',
+      'max-width: 540px; margin: clamp(22px, 4vw, 34px) auto clamp(38px, 7vw, 60px);',
+      'padding: clamp(20px, 4vw, 26px) clamp(20px, 5vw, 34px); text-align: center;',
+      'background: radial-gradient(120% 140% at 50% -20%, rgba(255,179,0,.14), transparent 60%),',
+      'linear-gradient(165deg, rgba(170,89,200,.30), rgba(170,89,200,.10));',
+      'border: 1px solid rgba(205,158,223,.55); border-radius: 20px;',
+      'box-shadow: 0 14px 36px rgba(0,0,0,.4), 0 0 28px rgba(170,89,200,.16); }',
+    '.dkx-badge { font-family: "Futura", sans-serif; font-size: 11.5px; letter-spacing: 2.5px;',
+      'text-transform: uppercase; color: #ffb300; }',
+    '.dkx-title { font-family: "Norwester", sans-serif; font-variant: small-caps;',
+      'font-size: clamp(21px, 5vw, 30px); color: #fff; letter-spacing: .5px; line-height: 1.12; margin: 2px 0 4px; }',
+    '.dkx-title b { color: #cd9edf; font-weight: normal; }',
+    '.dkx-sub { font-family: "Futura", sans-serif; font-size: clamp(13px, 3.4vw, 14.5px);',
+      'color: rgba(255,255,255,.78); margin-bottom: 14px; max-width: 430px; }',
+    '.dkx-go { display: inline-block; margin-top: 4px; text-decoration: none;',
+      'font-family: "Norwester", sans-serif; font-variant: small-caps; letter-spacing: 2px; font-size: 16px;',
+      'color: #fff; background: linear-gradient(180deg,#cd9edf 0%,#aa59c8 45%,#793194 100%);',
+      'border-radius: 999px; padding: 11px 28px; transition: filter .2s ease; }',
+    '.dkx-go:hover { filter: brightness(1.1); }',
+    '.dkx-price { font-family: "Futura", sans-serif; font-size: 13px; color: rgba(255,255,255,.62); margin-top: 10px; }',
+    '.dkx-price s { color: rgba(255,255,255,.4); }',
+    '.dkx-price b { color: #cd9edf; font-weight: normal; }',
+    '.dkx-alt { font-family: "Futura", sans-serif; font-size: 13px; color: rgba(255,255,255,.72);',
+      'margin-top: 16px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,.14); width: 100%; }',
+    '.dkx-alt b { color: #fff; font-weight: normal; }',
+    '.dkx-alt a { color: #cd9edf; text-decoration: none; border-bottom: 1px dashed rgba(205,158,223,.5); }',
+    '.dkx-alt a:hover { color: #fff; }'
   ].join('');
 
   var style = document.createElement('style');
