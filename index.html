@@ -3716,11 +3716,13 @@
      shape, fins included, is centred in the slot. */
   .buy-cta-slot { display: flex; justify-content: center; transform: translateX(7px); }
 
-  /* Two even columns, not auto-fit: at this column width auto-fit lands
-     on three and leaves the fourth hanging alone on a row. */
-  .buy-trust { display: grid; grid-template-columns: repeat(2, minmax(0,1fr));
+  /* Three items, so a fixed count rather than auto-fit: two columns
+     would put the third alone on a row of its own. One row where
+     there is width for it, stacked where there is not. */
+  .buy-trust { display: grid; grid-template-columns: 1fr;
     gap: 10px 16px; margin-top: clamp(18px,2.6vh,26px);
     border-top: 1px solid rgba(255,255,255,.12); padding-top: clamp(14px,2vh,20px); }
+  @media (min-width: 700px) { .buy-trust { grid-template-columns: repeat(3, minmax(0,1fr)); } }
   .buy-trust div { display: flex; gap: 9px; align-items: flex-start;
     font-family:'Futura',sans-serif; font-size: 13px; line-height: 1.45; color: rgba(255,255,255,.7); }
   .buy-trust b { display: block; color: #fff; font-weight: normal; font-size: 13.5px; }
@@ -3865,7 +3867,6 @@
       <div class="buy-trust">
         <div><span>&#128666;</span><span><b>Ships in 3 days</b>Anywhere in India</span></div>
         <div><span>&#128176;</span><span><b>Cash on delivery</b>Or pay online</span></div>
-        <div><span>&#127981;</span><span><b>Made in small batches</b>In India, not on a line</span></div>
         <div><span>&#127912;</span><span><b>Original artwork</b>Hand-drawn, nothing borrowed</span></div>
       </div>
     </div>
