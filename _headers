@@ -40,6 +40,28 @@
 /cards.js
   Cache-Control: public, max-age=604800
 
+# The shared modules at the root are edited in place, are a few KB
+# each, and carry things that must never be stale — cart.js holds the
+# prices. Without a rule here they inherited a browser cache window,
+# and a deploy could leave someone on an old cart.js with new HTML.
+# Revalidating costs a 304.
+/cart.js
+  Cache-Control: public, max-age=0, must-revalidate
+/checkout.js
+  Cache-Control: public, max-age=0, must-revalidate
+/dkbtn.js
+  Cache-Control: public, max-age=0, must-revalidate
+/footer.js
+  Cache-Control: public, max-age=0, must-revalidate
+/menu.js
+  Cache-Control: public, max-age=0, must-revalidate
+/nudge.js
+  Cache-Control: public, max-age=0, must-revalidate
+/productblock.js
+  Cache-Control: public, max-age=0, must-revalidate
+/track.js
+  Cache-Control: public, max-age=0, must-revalidate
+
 # HTML must always revalidate so deploys show up immediately.
 /*.html
   Cache-Control: public, max-age=0, must-revalidate

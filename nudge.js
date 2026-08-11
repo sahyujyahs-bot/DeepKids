@@ -74,8 +74,11 @@
     /* ── The same card, sitting in the page rather than over it ──
        Written here and not in a page's own stylesheet so the strip on
        the main page and the strip on /sci cannot drift apart. */
+    /* min() rather than max-width, so it always keeps 16px off both
+       screen edges however narrow the phone or bare the section it
+       is dropped into. */
     '.dkx { display: flex; flex-direction: column; align-items: center; gap: 4px;',
-      'max-width: 540px; margin: clamp(22px, 4vw, 34px) auto clamp(38px, 7vw, 60px);',
+      'width: min(540px, 100% - 32px); margin: clamp(22px, 4vw, 34px) auto clamp(38px, 7vw, 60px);',
       'padding: clamp(20px, 4vw, 26px) clamp(20px, 5vw, 34px); text-align: center;',
       'background: radial-gradient(120% 140% at 50% -20%, rgba(255,179,0,.14), transparent 60%),',
       'linear-gradient(165deg, rgba(170,89,200,.30), rgba(170,89,200,.10));',
@@ -114,6 +117,17 @@
   function track(name, label) {
     if (window.egGtag) window.egGtag('event', name, { event_category: 'engagement', event_label: label });
   }
+
+  /* ?nudge on the URL forgets every card, so a nudge can be looked at
+     again without clearing the whole site's storage by hand. It is
+     once per device by design, which makes testing one awkward. */
+  try {
+    if (new URLSearchParams(location.search).has('nudge')) {
+      Object.keys(localStorage).forEach(function (k) {
+        if (k.indexOf('dkn-') === 0) localStorage.removeItem(k);
+      });
+    }
+  } catch (e) {}
 
   function build(c) {
     if (!c || !c.key) return;
