@@ -49,7 +49,7 @@
       var unit = DK.unit(p); total += unit * l.qty;
       html += '<div class="co-row"><span class="n">' + p.name + (l.qty > 1 ? ' ×' + l.qty : '') +
               (window.dkWhy ? '<button type="button" class="why-btn" aria-label="Why this price?" onclick="dkWhy(\'' + p.sku + '\', this)">?</button>' : '') +
-              '<small>' + (p.preorder ? 'Pre-order · 15% off applied' : 'Ships in 3 days') + '</small></span>' +
+              '<small>' + DK.terms(p) + '</small></span>' +
               '<span class="p">' + DK.rs(unit * l.qty) + '</span></div>';
     });
     list.innerHTML = html;

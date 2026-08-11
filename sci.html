@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SCI. — Scientist Trading Cards | DeepKids (Launching Soon)</title>
-  <meta name="description" content="SCI. is a new deck of scientist trading cards from DeepKids. Each card takes one scientist, the fundamental truth their work uncovered, and where you see it in everyday life — so science becomes identifiable and experiential. Sign up for a launch discount."/>
+  <title>SCI. — Scientist Trading Cards | DeepKids</title>
+  <meta name="description" content="SCI. is a deck of 42 hand-drawn scientist trading cards from DeepKids. Each card takes one scientist, the fundamental truth their work uncovered, and where you see it in everyday life — so science becomes identifiable and experiential. ₹1,019 with the launch offer, free delivery across India."/>
   <link rel="canonical" href="https://deepkids.in/sci"/>
-  <meta property="og:title" content="SCI. — Scientist Trading Cards (Launching Soon)"/>
-  <meta property="og:description" content="Not just who discovered what — the fundamental truth underneath, and where you live it every day. Sign up for a launch discount + something special."/>
-  <meta property="og:image" content="https://deepkids.in/sci-brahmagupta-front.webp"/>
+  <meta property="og:title" content="SCI. — Scientist Trading Cards"/>
+  <meta property="og:description" content="Not just who discovered what — the fundamental truth underneath, and where you live it every day. 42 hand-drawn cards, out now at ₹1,019."/>
+  <meta property="og:image" content="https://deepkids.in/sci-box-front.webp"/>
   <meta property="og:url" content="https://deepkids.in/sci"/>
   <meta property="og:type" content="website"/>
   <meta name="theme-color" content="#0a0618"/>
@@ -163,29 +163,6 @@
       font-size: clamp(20px, 4vw, 34px); color: #fff; letter-spacing: 1px; margin-top: 2px;
       text-shadow: 0 0 22px rgba(var(--purple-rgb), .45);
     }
-
-    /* ─── Pre-order (shared cart) ─────────────────────────────*/
-    .pre-cta { display:flex; flex-direction:column; align-items:center;
-      margin:clamp(24px,4vh,40px) auto 0; }
-    /* Same D+K button as the rest of the site. Its ink runs from x=9 to
-       the fin cap at x=327.5 of a 360-unit box, so the drawn mark is
-       11.75 units left of the box centre; the shift below puts the whole
-       button — pill and fins together — on the screen's centre line.
-       The pill alone then reads a little left of the price, which is the
-       shape's own asymmetry and not something a shift can remove. */
-    .pre-cta .pre-slot { display:flex; justify-content:center; transform:translateX(8px); }
-    .pre-cta .pre-btn { margin-left:0 !important; }
-    .pre-cta .pre-btn .btn-svg { width:248px !important; }
-    .pre-cta .pre-btn .btn-label { font-size:15px; letter-spacing:1.6px; }
-    /* Price on its own line, the shipping note under it — together they
-       wrapped mid-phrase on a phone. */
-    .pre-cta .pre-price { margin-top:12px; text-align:center; line-height:1.5; transform:translateX(-20px); }
-    .pre-cta .pre-price .amt { display:block; font-family:'Norwester',sans-serif;
-      font-size:clamp(21px,4.4vw,26px); letter-spacing:1px; color:#fff; }
-    .pre-cta .pre-price .amt s { font-size:.62em; color:rgba(255,255,255,.45); margin-right:8px; }
-    .pre-cta .pre-price .amt b { color:#cd9edf; font-weight:normal; }
-    .pre-cta .pre-price .ship { display:block; font-size:13px; color:rgba(255,255,255,.6); }
-    .hero-sub { font-size: clamp(15px, 2.1vw, 19px); color: var(--ink); max-width: 640px; margin: 18px auto 0; }
 
     /* Section shell — uniform vertical rhythm across every section */
     section { padding-block: clamp(40px, 6vh, 64px); }
@@ -347,26 +324,19 @@
 <main>
   <!-- ═══ HERO / ANNOUNCEMENT ═══ -->
   <section class="hero wrap">
-    <span class="kicker rv">✦&nbsp; New from DeepKids · Launching soon</span>
+    <span class="kicker rv">✦&nbsp; New from DeepKids · Out now</span>
     <div class="brand rv rv2">SCI<span class="brand-dot">.</span></div>
+    <!-- The name and nothing else. The pitch, the price and the button
+         were all here twice once the product block went in below, so
+         the hero hands straight over to it. -->
     <h2 class="sub-name rv rv2">Scientist Trading Cards</h2>
-    <p class="hero-sub rv rv3">Not just who discovered what. Each card takes one scientist, the <b>fundamental truth</b> their work uncovered, and shows you <b>where that truth is hiding in everyday life</b> — so science becomes something your child can spot, touch, and feel.</p>
-    <div class="pre-cta">
-      <div class="pre-slot">
-        <button type="button" class="pre-btn" data-dk-btn="Pre-Order" data-add="SCI-001"></button>
-      </div>
-      <span class="pre-price">
-        <span class="amt"><s>₹1,199</s><b>₹1,019</b></span>
-        <span class="ship">15% off while it is in production</span>
-      </span>
-    </div>
   </section>
 
   <!-- ═══ PRODUCT ═══ -->
   <style>
     /* The layout, the gallery and the zoom come from /productblock.js,
        the same file the EscapeGravity page uses. Only what is
-       particular to a pre-order is here. */
+       particular to this product is here. */
     #sci-buy { padding-block: clamp(28px, 4vh, 48px) clamp(40px, 6vh, 64px); scroll-margin-top: 80px; }
     #sci-buy .buy-price s { font-size: .52em; color: rgba(255,255,255,.42); margin-right: 10px; }
     #sci-buy .buy-price b { color: #cd9edf; font-weight: normal; }
@@ -384,11 +354,12 @@
       <div class="buy-gal rv" id="sci-gal"></div>
 
       <div class="buy-info rv">
+        <!-- No title, no strapline: the hero says both a line above,
+             and on a phone every extra row here is one more thing
+             between someone and the button. -->
         <ul class="buy-tags">
-          <li>Trading cards</li><li>42 cards</li><li>Ages 8 and up</li>
+          <li>42 cards</li><li>Ages 8 and up</li>
         </ul>
-        <h2 class="buy-title">SCI.</h2>
-        <div class="buy-stars"><b>&#10022;</b> Hand-drawn, deeply researched, launching soon</div>
 
         <p class="buy-desc">A collectible deck of <b>scientist trading cards</b>. Not just who discovered what &mdash; each card takes one scientist, the <b>fundamental truth</b> their work uncovered, and shows you <b>where that truth is hiding in everyday life</b>, so science becomes something your child can spot, touch and feel.</p>
 
@@ -405,7 +376,7 @@
 
         <div class="buy-price-row">
           <span class="buy-price"><s>&#8377;1,199</s><b>&#8377;1,019</b></span>
-          <span class="buy-off">15% off while it is in production</span>
+          <span class="buy-off">Launch offer &middot; 15% off</span>
         </div>
         <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
 
@@ -416,7 +387,7 @@
             <button type="button" aria-label="One more" data-qty-step="1">+</button>
           </div>
           <div class="buy-cta-slot">
-            <button type="button" class="buy-cta" data-dk-btn="Pre-Order" data-add="SCI-001" data-qty="1"></button>
+            <button type="button" class="buy-cta" data-dk-btn="Add To Cart" data-add="SCI-001" data-qty="1"></button>
           </div>
           <button type="button" class="buy-heart" aria-label="Save to wishlist" data-wish="SCI-001">
             <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
@@ -430,7 +401,7 @@
   /* The box, and both faces of the two cards the page already shows. */
   (window.dkProductQueue = window.dkProductQueue || []).push({
     mount: '#sci-gal',
-    badge: 'Pre-order',
+    badge: 'In stock',
     shots: [
       { src: 'sci-box-front.webp', cap: 'The box',
         alt: 'The SCI. scientist trading cards box — an educational card game and gift for children aged 8 to 13' },
@@ -552,11 +523,11 @@
     <div class="su-panel rv">
       <div id="su-form-wrap">
         <h2>Be First In <em>Line</em></h2>
-        <p class="su-intro">SCI. launches soon. Sign up now and we'll hold your spot.</p>
+        <p class="su-intro">SCI. is out now. Sign up and we'll tell you first as new scientists join the deck.</p>
         <ul class="su-perks">
-          <li><span>🏷️</span> A launch-day discount, reserved for early sign-ups</li>
+          <li><span>🏷️</span> The launch discount, while the first print run lasts</li>
           <li><span>🎁</span> A little something special in your first pack</li>
-          <li><span>⚡</span> First dibs before the first print run sells out</li>
+          <li><span>⚡</span> First dibs on every new set before it goes on sale</li>
         </ul>
         <form id="su-form" novalidate>
           <div class="su-field">

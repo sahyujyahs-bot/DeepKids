@@ -4,10 +4,10 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Shop — DeepKids Boardgames, Card Games &amp; Picture Books</title>
-  <meta name="description" content="Buy DeepKids games and books. EscapeGravity board game ₹4,999, SCI. scientist trading cards and The Story Of Evolution picture book on pre-order at 15% off. Ages 7+, screen-free, made in India."/>
+  <meta name="description" content="Buy DeepKids games and books. EscapeGravity board game ₹4,999, SCI. scientist trading cards ₹1,019 with the launch offer, and The Story Of Evolution picture book on pre-order at 15% off. Ages 7+, screen-free, made in India."/>
   <link rel="canonical" href="https://deepkids.in/shop"/>
   <meta property="og:title" content="Shop — DeepKids Boardgames, Card Games &amp; Picture Books"/>
-  <meta property="og:description" content="One subject each, taken all the way in. EscapeGravity shipping now; SCI. and Evolution on pre-order at 15% off."/>
+  <meta property="og:description" content="One subject each, taken all the way in. EscapeGravity and SCI. shipping now; Evolution on pre-order at 15% off."/>
   <meta property="og:image" content="https://deepkids.in/gift-kids-hero.webp"/>
   <meta property="og:url" content="https://deepkids.in/shop"/>
   <meta property="og:type" content="website"/>
@@ -715,7 +715,7 @@ function dkSound(kind) {
    here is shop-only: the gallery each product shows, and checkout.
    ══════════════════════════════════════════════════════════════ */
 var CATALOG = DK.CATALOG, PREORDER_OFF = DK.PREORDER_OFF;
-var dkFind = DK.find, dkUnit = DK.unit, dkRs = DK.rs, dkThumb = DK.thumb;
+var dkFind = DK.find, dkUnit = DK.unit, dkRs = DK.rs, dkThumb = DK.thumb, dkOff = DK.off;
 var dkAdd = DK.add, dkRemove = DK.remove, dkWish = DK.wish;
 var dkCartRead = DK.read, dkCartPaint = DK.paint, dkCartToggle = DK.openCart;
 
@@ -826,8 +826,11 @@ document.addEventListener('click', function(e){
         '<span class="card-kind">' + p.kind + '</span>' +
         '<h3>' + p.name + '</h3>' +
         '<p>' + p.blurb + '</p>' +
+        /* Keyed on the discount, not on pre-order: SCI. ships now and
+           still holds its 15%, so the two had to come apart. */
         '<div class="card-price"><span class="now">' + dkRs(unit) + '</span>' +
-          (p.preorder ? '<span class="was">' + dkRs(p.price) + '</span><span class="off">15% off</span>' : '') +
+          (dkOff(p) ? '<span class="was">' + dkRs(p.price) + '</span><span class="off">' +
+            Math.round(dkOff(p) * 100) + '% off</span>' : '') +
         '</div>' +
         '<div class="card-cta">' +
           '<div class="buy-slot"><button type="button" class="card-buy" data-dk-btn="' +

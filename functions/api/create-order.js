@@ -20,9 +20,13 @@ export async function onRequestPost(context) {
     // Price is computed server-side so the charged amount can never be
     // tampered with from the browser. The client's `amount` is ignored,
     // and so is any price it sends per line — only the SKU is trusted.
+    // `preorder` says whether it has shipped yet; `off` is the discount.
+    // They were one thing until SCI. launched, which would have jumped
+    // its price the moment it started shipping. Must stay identical to
+    // the CATALOG in /cart.js or the charge won't match the cart.
     const CATALOG = {
       'EG-001':  { name: 'EscapeGravity',           paise: 499900, preorder: false },
-      'SCI-001': { name: 'SCI. Trading Cards',      paise: 119900, preorder: true  },
+      'SCI-001': { name: 'SCI. Trading Cards',      paise: 119900, preorder: false, off: 0.15 },
       'EVO-001': { name: 'The Story Of Evolution',  paise: 249900, preorder: true  }
     };
     const PREORDER_OFF = 0.15;               // 15% off anything not yet shipping
@@ -46,9 +50,8 @@ export async function onRequestPost(context) {
         const qty = Math.min(Math.max(parseInt(raw.qty, 10) || 1, 1), 10);
         // Rounded to whole rupees so the charged total matches the cart
         // the visitor was shown, to the paisa.
-        const unit = item.preorder
-          ? Math.round(item.paise * (1 - PREORDER_OFF) / 100) * 100
-          : item.paise;
+        const off = item.off != null ? item.off : (item.preorder ? PREORDER_OFF : 0);
+        const unit = Math.round(item.paise * (1 - off) / 100) * 100;
         subtotal += unit * qty;
         lines.push({ sku, name: item.name, qty, paise: unit });
       }
