@@ -362,6 +362,92 @@
     </div>
   </section>
 
+  <!-- ═══ PRODUCT ═══ -->
+  <style>
+    /* The layout, the gallery and the zoom come from /productblock.js,
+       the same file the EscapeGravity page uses. Only what is
+       particular to a pre-order is here. */
+    #sci-buy { padding-block: clamp(28px, 4vh, 48px) clamp(40px, 6vh, 64px); scroll-margin-top: 80px; }
+    #sci-buy .buy-price s { font-size: .52em; color: rgba(255,255,255,.42); margin-right: 10px; }
+    #sci-buy .buy-price b { color: #cd9edf; font-weight: normal; }
+    #sci-buy .buy-off {
+      font-family: var(--font-body); font-size: 13px; color: var(--gold);
+      border: 1px solid rgba(var(--gold-rgb), .4); background: rgba(var(--gold-rgb), .1);
+      border-radius: 999px; padding: 3px 11px;
+    }
+    #sci-buy .buy-cta .btn-label { font-size: 16px !important; letter-spacing: 1.6px !important; }
+  </style>
+
+  <section id="sci-buy">
+    <div class="buy-wrap">
+
+      <div class="buy-gal rv" id="sci-gal"></div>
+
+      <div class="buy-info rv">
+        <ul class="buy-tags">
+          <li>Trading cards</li><li>42 cards</li><li>Ages 8 and up</li>
+        </ul>
+        <h2 class="buy-title">SCI.</h2>
+        <div class="buy-stars"><b>&#10022;</b> Hand-drawn, deeply researched, launching soon</div>
+
+        <p class="buy-desc">A collectible deck of <b>scientist trading cards</b>. Not just who discovered what &mdash; each card takes one scientist, the <b>fundamental truth</b> their work uncovered, and shows you <b>where that truth is hiding in everyday life</b>, so science becomes something your child can spot, touch and feel.</p>
+
+        <ul class="buy-points">
+          <li><span>&#128301;</span><span><b>42 cards</b> &mdash; 25 in the core set plus a 17-card Special Gravity Set, and a Mystery Pack.</span></li>
+          <li><span>&#128161;</span><span>Three layers on every card: <a href="#layers">the discovery, the fundamental truth, and where you live it</a>.</span></li>
+          <li><span>&#127756;</span><span>The cosmic body behind each portrait is its <b>rarity</b> &mdash; from a common Mercury to the rarest Black Hole.</span></li>
+          <li><span>&#127918;</span><span>Four ways to play: era, connections, best total score, best selected score.</span></li>
+          <li><span>&#127912;</span><span>100% hand-drawn. No AI, no stock art &mdash; every card is its own small painting.</span></li>
+          <li><span>&#129333;</span><span>Giants <b>and</b> underdogs: the sidelined, the uncredited, the written out of the textbook.</span></li>
+        </ul>
+
+        <p class="buy-glossary">Every fact, every fundamental truth and every real-life example is checked and re-checked, so what your child learns is genuinely right.</p>
+
+        <div class="buy-price-row">
+          <span class="buy-price"><s>&#8377;1,199</s><b>&#8377;1,019</b></span>
+          <span class="buy-off">15% off while it is in production</span>
+        </div>
+        <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
+
+        <div class="buy-actions">
+          <div class="buy-qty">
+            <button type="button" aria-label="One fewer" data-qty-step="-1">&minus;</button>
+            <b>1</b>
+            <button type="button" aria-label="One more" data-qty-step="1">+</button>
+          </div>
+          <div class="buy-cta-slot">
+            <button type="button" class="buy-cta" data-dk-btn="Pre-Order" data-add="SCI-001" data-qty="1"></button>
+          </div>
+          <button type="button" class="buy-heart" aria-label="Save to wishlist" data-wish="SCI-001">
+            <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+  /* The box, and both faces of the two cards the page already shows. */
+  (window.dkProductQueue = window.dkProductQueue || []).push({
+    mount: '#sci-gal',
+    badge: 'Pre-order',
+    shots: [
+      { src: 'sci-box-front.webp', cap: 'The box',
+        alt: 'The SCI. scientist trading cards box — an educational card game and gift for children aged 8 to 13' },
+      { src: 'sci-box-back.webp', cap: 'The box, back',
+        alt: 'The back of the SCI. box, showing what is on every card: the portrait, the rarity halo, the contribution, the fundamental truth and the scores to play with' },
+      { src: 'sci-brahmagupta-front.webp', cap: 'Brahmagupta, front',
+        alt: 'Brahmagupta scientist trading card, front — hand-drawn portrait of the Indian mathematician who gave zero its rules' },
+      { src: 'sci-brahmagupta-back.webp', cap: 'Brahmagupta, back',
+        alt: 'Back of the Brahmagupta card — his discovery, the truth underneath it, and where a child meets that truth in everyday life' },
+      { src: 'sci-noether-front.webp', cap: 'Emmy Noether, front',
+        alt: 'Emmy Noether scientist trading card, front — hand-drawn portrait of the mathematician behind symmetry and conservation laws' },
+      { src: 'sci-noether-back.webp', cap: 'Emmy Noether, back',
+        alt: 'Back of the Emmy Noether card — her discovery explained for children, and where the science shows up around them' }
+    ]
+  });
+  </script>
+
   <!-- ═══ COLLECTIBLE HOOK ═══ -->
   <section class="wrap">
     <span class="sec-kicker rv">A new kind of collectible</span>
@@ -370,7 +456,7 @@
   </section>
 
   <!-- ═══ THE CONCEPT ═══ -->
-  <section class="wrap">
+  <section class="wrap" id="layers">
     <span class="sec-kicker rv">What makes a SCI. card different</span>
     <h2 class="sec-h rv">Three Layers On <em>Every Card</em></h2>
     <div class="pillars">
@@ -695,6 +781,7 @@
   }
 </script>
   <script src="/dkbtn.js" defer></script>
+  <script src="/productblock.js" defer></script>
   <script src="/track.js" defer></script>
   <script src="/cart.js" defer></script>
   <script src="/checkout.js" defer></script>

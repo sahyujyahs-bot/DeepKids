@@ -3444,239 +3444,20 @@
      A real product page, as the second thing on the page. Everything
      someone needs to decide — the photos, what it is, what it costs,
      what arrives, and the button — before they have to scroll for it.
-     Reuses the shared cart, so this and /shop can never disagree. */
+
+     The layout, the gallery and the zoom live in /productblock.js so
+     that this and the SCI. page share one definition. Only what is
+     particular to this page is below. */
   #s-buy { padding: clamp(40px,6vh,80px) 0 clamp(46px,7vh,90px);
     /* Land the kicker just clear of the fixed nav, not under it. */
     scroll-margin-top: calc(82px - clamp(40px,6vh,80px)); }
-  .buy-wrap { max-width: 1120px; margin: 0 auto; padding: 0 clamp(16px,4vw,40px);
-    display: grid; grid-template-columns: minmax(0,1fr); gap: clamp(22px,3.5vw,44px); align-items: start; }
-  /* Grid items default to min-width:auto, so the thumbnail strip's tiles
-     would set the column width and push the whole block off a phone
-     screen. Let the column win; the strip already scrolls. */
-  .buy-gal, .buy-info { min-width: 0; }
-
-  /* ── Photos ────────────────────────────────────────────────
-     The stage has a height of its own and every photo is contained
-     inside it. The kit shots are portrait, the challenge cards are
-     landscape and the board is square — nothing may be cropped to
-     make them agree, so they letterbox instead. */
-  /* No frame, no tint: the photographs sit straight on the page. The
-     stage is only a measured height for them to be contained in, and
-     overflow:hidden so the snap track clips. */
-  .buy-stage {
-    position: relative; overflow: hidden;
-    height: clamp(300px, 52vh, 440px);
-  }
-  .buy-track {
-    display: flex; height: 100%; overflow-x: auto; overflow-y: hidden;
-    scroll-snap-type: x mandatory; scroll-behavior: smooth;
-    scrollbar-width: none; -ms-overflow-style: none;
-  }
-  .buy-track::-webkit-scrollbar { display: none; }
-  /* Deliberately a block, not a centring grid: an implicit grid row is
-     sized auto, which is indefinite, so the image's height:100% below
-     would fall back to auto and the tall photos would run past the
-     stage. object-fit centres the picture anyway. */
-  .buy-slide {
-    flex: 0 0 100%; height: 100%; margin: 0; scroll-snap-align: center;
-    padding: 4%; box-sizing: border-box; cursor: zoom-in;
-  }
-  /* object-fit:contain against a slide with a real height is the one
-     sizing that cannot crop, whatever shape the photo turns out to be —
-     the kit shots are portrait, the challenge cards landscape and the
-     board square, and they letterbox rather than agree. */
-  .buy-slide img { width: 100%; height: 100%; object-fit: contain; display: block; }
-  .buy-badge {
-    position: absolute; left: 12px; top: 12px; z-index: 3;
-    font-family: 'Norwester',sans-serif; font-variant: small-caps; letter-spacing: 2px;
-    font-size: 11.5px; color: #fff; background: #aa59c8; border-radius: 999px; padding: 3px 12px;
-    box-shadow: 0 2px 12px rgba(170,89,200,.55);
-  }
-  .buy-arrow {
-    position: absolute; top: 50%; transform: translateY(-50%); z-index: 3;
-    width: 40px; height: 40px; border-radius: 50%; cursor: pointer;
-    border: 1px solid rgba(255,255,255,.28); background: rgba(10,6,24,.62);
-    color: #fff; font-size: 20px; line-height: 1; display: grid; place-items: center;
-    backdrop-filter: blur(4px); transition: background .2s ease, border-color .2s ease, opacity .2s ease;
-  }
-  .buy-arrow:hover { background: rgba(170,89,200,.8); border-color: #cd9edf; }
-  .buy-arrow[disabled] { opacity: .28; cursor: default; }
-  .buy-prev { left: 10px; } .buy-next { right: 10px; }
-  .buy-zoom {
-    position: absolute; right: 10px; bottom: 10px; z-index: 3;
-    border-radius: 999px; cursor: pointer; padding: 5px 13px;
-    border: 1px solid rgba(255,255,255,.24); background: rgba(10,6,24,.62); color: #fff;
-    font-family:'Futura',sans-serif; font-size: 12px; letter-spacing: .5px;
-    backdrop-filter: blur(4px);
-  }
-  .buy-zoom:hover { border-color: #cd9edf; }
-  .buy-cap { font-family:'Futura',sans-serif; font-size: 12.5px; color: rgba(255,255,255,.62);
-    margin: 9px 2px 0; min-height: 1.2em; }
-  .buy-thumbs { display: flex; gap: 9px; margin-top: 9px; overflow-x: auto;
-    scrollbar-width: none; -ms-overflow-style: none; padding-bottom: 2px; }
-  .buy-thumbs::-webkit-scrollbar { display: none; }
-  /* Bare thumbnails too. Without a tile to light up, the live one is
-     marked by being the only one at full strength, with a rule under
-     it — a state that reads without drawing a box back on. */
-  .buy-thumbs button {
-    flex: 0 0 auto; width: clamp(56px,14vw,74px); aspect-ratio: 1; cursor: pointer;
-    padding: 0 0 6px; background: none; border: 0; border-bottom: 2px solid transparent;
-    opacity: .45; transition: opacity .2s ease, border-color .2s ease;
-  }
-  .buy-thumbs button img { width: 100%; height: 100%; object-fit: contain; }
-  .buy-thumbs button:hover { opacity: .8; }
-  .buy-thumbs button.on { opacity: 1; border-bottom-color: #aa59c8; }
-
-  /* ── The pitch ── */
-  .buy-info { display: flex; flex-direction: column; }
-  .buy-tags { list-style: none; display: flex; flex-wrap: wrap; gap: 7px; margin: 0 0 12px; padding: 0; }
-  .buy-tags li { font-family:'Futura',sans-serif; font-size: 11.5px; letter-spacing: 1.6px;
-    text-transform: uppercase; color: #cd9edf; border: 1px solid rgba(170,89,200,.4);
-    background: rgba(170,89,200,.12); border-radius: 999px; padding: 3px 11px; white-space: nowrap; }
-  .buy-title { font-family:'Norwester',sans-serif; font-variant: small-caps; letter-spacing: 1px;
-    font-size: clamp(30px,5vw,50px); color: #fff; line-height: 1.02; margin: 0 0 8px; }
-  .buy-stars { display: flex; align-items: center; gap: 8px; font-family:'Futura',sans-serif;
-    font-size: 13px; color: rgba(255,255,255,.72); margin-bottom: 14px; }
-  .buy-stars b { color: #ffb300; letter-spacing: 2px; font-weight: normal; }
-  .buy-desc { font-family:'Futura',sans-serif; font-size: clamp(14.5px,1.9vw,16.5px);
-    line-height: 1.62; color: rgba(255,255,255,.84); margin: 0; }
-  .buy-desc b { color: #fff; font-weight: normal; }
-  .buy-points { list-style: none; margin: 16px 0 0; padding: 0; display: grid; gap: 9px; }
-  .buy-points li { display: flex; gap: 10px; align-items: flex-start;
-    font-family:'Futura',sans-serif; font-size: 14.5px; line-height: 1.5; color: rgba(255,255,255,.82); }
-  .buy-points li > span:first-child { flex: 0 0 auto; font-size: 15px; }
-  .buy-points li > span + span     { flex: 1 1 auto; min-width: 0; }
-  .buy-points b { color: #fff; font-weight: normal; }
-  .buy-link, .buy-points a { color: #cd9edf; text-decoration: underline;
-    text-underline-offset: 3px; text-decoration-thickness: 1px; }
-  .buy-link:hover, .buy-points a:hover { color: #fff; }
-  .buy-glossary { font-family:'Futura',sans-serif; font-size: 13.5px; margin: 14px 0 0;
-    color: rgba(255,255,255,.66); }
-
-  .buy-price-row { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap;
-    margin: clamp(18px,2.6vh,26px) 0 4px; }
-  .buy-price { font-family:'Norwester',sans-serif; font-size: clamp(32px,5.4vw,46px); color: #fff; letter-spacing: 1px; }
-  .buy-why { font-family:'Futura',sans-serif; font-size: 13.5px; color: #cd9edf;
-    background: none; border: 0; cursor: pointer; text-decoration: underline;
-    text-underline-offset: 3px; text-decoration-style: dashed; padding: 0; }
-  .buy-tax { font-family:'Futura',sans-serif; font-size: 12.5px; color: rgba(255,255,255,.5); }
-
-  .buy-actions { display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
-    margin-top: clamp(16px,2.4vh,24px); }
-  .buy-qty { display: inline-flex; align-items: center; gap: 4px; border-radius: 999px;
-    border: 1px solid rgba(170,89,200,.45); background: rgba(170,89,200,.1); padding: 4px; }
-  .buy-qty button { width: 30px; height: 30px; border-radius: 50%; cursor: pointer; border: 0;
-    background: none; color: #cd9edf; font-size: 17px; line-height: 1; }
-  .buy-qty button:hover { background: rgba(170,89,200,.35); color: #fff; }
-  .buy-qty b { min-width: 22px; text-align: center; font-family:'Norwester',sans-serif;
-    font-weight: normal; font-size: 16px; color: #fff; }
-  .buy-heart { width: 44px; height: 44px; border-radius: 50%; cursor: pointer;
-    border: 1px solid rgba(255,255,255,.24); background: rgba(255,255,255,.04);
-    display: grid; place-items: center; transition: border-color .2s ease; }
-  .buy-heart svg { width: 20px; height: 20px; fill: none; stroke: #e85d75; stroke-width: 1.8; }
-  .buy-heart.on svg { fill: #e85d75; }
-  .buy-heart:hover { border-color: #e85d75; }
-  .buy-cta .btn-svg { width: 230px !important; }
-  .buy-cta { margin-left: 0 !important; }
-  /* The default label scales with the viewport, which on a fixed 230px
-     button runs the words out over the fins. Size it to the button. */
-  .buy-cta .btn-label { font-size: 17px !important; letter-spacing: 2px !important; }
-  /* The D-shape sits left of centre in the artwork; nudge so the whole
-     shape, fins included, is centred in the slot. */
-  .buy-cta-slot { display: flex; justify-content: center; transform: translateX(7px); }
-
-  /* ── Wide screens: the photo takes the whole left half ────── */
-  @media (min-width: 1000px) {
-    .buy-wrap { max-width: none; padding: 0; grid-template-columns: 50% minmax(0,1fr);
-      gap: clamp(24px,3vw,52px); }
-    .buy-stage { height: min(76vh, 720px); }
-    .buy-cap, .buy-thumbs { padding-left: clamp(18px,3vw,44px); }
-    .buy-info { max-width: 660px; padding-right: clamp(20px,4vw,64px); }
-  }
-  /* Past a point the capped measure leaves the far right of the screen
-     empty and the block reads lopsided. Centre the column instead. */
-  @media (min-width: 1600px) {
-    .buy-info { margin-inline: auto; padding-right: 0; }
-  }
-
-  /* ── Phones and tablets ────────────────────────────────────
-     Price and button come before the reading matter: someone who
-     already knows they want it should not have to scroll past the
-     pitch to buy. Everything shares one left edge, and the button
-     stretches to the column so nothing floats loose. */
-  @media (max-width: 999px) {
-    .buy-tags      { order: 1; }
-    .buy-title     { order: 2; }
-    .buy-stars     { order: 3; }
-    .buy-price-row { order: 4; margin-top: 4px; }
-    .buy-tax       { order: 5; }
-    .buy-actions   { order: 6; margin-bottom: clamp(20px,3vh,28px); }
-    .buy-desc      { order: 7; }
-    .buy-points    { order: 8; }
-    .buy-glossary  { order: 9; }
-
-    .buy-actions { flex-wrap: wrap; gap: 10px 12px; }
-    .buy-cta-slot { justify-content: flex-start; transform: none; }
-    .buy-heart { flex: 0 0 auto; }
-  }
-  /* On a phone the three controls will not share a row, so the stepper
-     takes one of its own and the button stretches to the column — its
-     left edge under the price, the heart's right edge under the text.
-     A grid rather than wrapping flex, because a flex-basis of 100% is
-     what puts the stepper on its own row and it also stretches it. */
-  @media (max-width: 600px) {
-    .buy-actions { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 12px; align-items: center; }
-    .buy-qty      { grid-column: 1 / -1; grid-row: 1; justify-self: start; }
-    .buy-cta-slot { grid-column: 1; grid-row: 2; }
-    .buy-heart    { grid-column: 2; grid-row: 2; }
-    .buy-cta .btn-svg   { width: 100% !important; max-width: 280px; }
-    .buy-cta .btn-label { font-size: 19px !important; }
-  }
-
-  /* ── Zoom ─────────────────────────────────────────────────── */
-  .buy-lb {
-    position: fixed; inset: 0; z-index: 12000; display: none;
-    background: rgba(5,2,14,.94); backdrop-filter: blur(6px);
-    touch-action: none; overscroll-behavior: contain;
-  }
-  .buy-lb.open { display: block; }
-  .buy-lb-img {
-    position: absolute; top: 50%; left: 50%; max-width: 94vw; max-height: 88vh;
-    transform-origin: center center; will-change: transform; cursor: grab;
-    user-select: none; -webkit-user-drag: none;
-  }
-  .buy-lb-img.grabbing { cursor: grabbing; }
-  .buy-lb-bar {
-    position: absolute; left: 0; right: 0; bottom: 0; z-index: 2;
-    display: flex; align-items: center; justify-content: center; gap: 10px;
-    padding: 14px 16px calc(14px + env(safe-area-inset-bottom));
-  }
-  .buy-lb-bar button, .buy-lb-x {
-    width: 42px; height: 42px; border-radius: 50%; cursor: pointer; color: #fff;
-    border: 1px solid rgba(255,255,255,.28); background: rgba(255,255,255,.08);
-    font-size: 19px; line-height: 1; display: grid; place-items: center;
-  }
-  .buy-lb-bar button:hover, .buy-lb-x:hover { background: rgba(170,89,200,.75); border-color: #cd9edf; }
-  .buy-lb-x { position: absolute; top: 14px; right: 14px; z-index: 2; }
-  .buy-lb-cap { position: absolute; top: 18px; left: 18px; right: 70px; z-index: 2;
-    font-family:'Futura',sans-serif; font-size: 13px; color: rgba(255,255,255,.72); }
 </style>
 
 <!-- ═══════════════════════════════════════════════════ S-BUY ══ -->
 <section id="s-buy" class="eg-section">
   <div class="buy-wrap">
 
-    <div class="buy-gal eg-fade-in">
-      <div class="buy-stage">
-        <div class="buy-track" id="buy-track" tabindex="0" role="group" aria-label="Product photos, swipe to browse"></div>
-        <span class="buy-badge">In stock</span>
-        <button type="button" class="buy-arrow buy-prev" id="buy-prev" aria-label="Previous photo">&#8249;</button>
-        <button type="button" class="buy-arrow buy-next" id="buy-next" aria-label="Next photo">&#8250;</button>
-        <button type="button" class="buy-zoom" id="buy-zoom">&#128269; Zoom</button>
-      </div>
-      <p class="buy-cap" id="buy-cap"></p>
-      <div class="buy-thumbs" id="buy-thumbs" aria-label="Choose a photo"></div>
-    </div>
+    <div class="buy-gal eg-fade-in" id="eg-gal"></div>
 
     <div class="buy-info eg-fade-in">
       <ul class="buy-tags">
@@ -3702,21 +3483,21 @@
       <p class="buy-glossary">The <a class="buy-link" href="#s-syllabus">Learning Glossary</a> lists everything your kids &mdash; and even you &mdash; would learn from the game.</p>
 
       <div class="buy-price-row">
-        <span class="buy-price" id="buy-price">&#8377;4,999</span>
+        <span class="buy-price">&#8377;4,999</span>
         <button type="button" class="buy-why" onclick="egLandOn(document.getElementById('s-worth'))">Why &#8377;4,999?</button>
       </div>
       <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
 
       <div class="buy-actions">
         <div class="buy-qty">
-          <button type="button" aria-label="One fewer" onclick="egBuyQty(-1)">&minus;</button>
-          <b id="buy-qty">1</b>
-          <button type="button" aria-label="One more" onclick="egBuyQty(1)">+</button>
+          <button type="button" aria-label="One fewer" data-qty-step="-1">&minus;</button>
+          <b>1</b>
+          <button type="button" aria-label="One more" data-qty-step="1">+</button>
         </div>
         <div class="buy-cta-slot">
           <button type="button" class="buy-cta" data-dk-btn="Add To Cart" data-add="EG-001" data-qty="1"></button>
         </div>
-        <button type="button" class="buy-heart" id="buy-heart" aria-label="Save to wishlist" data-wish="EG-001">
+        <button type="button" class="buy-heart" aria-label="Save to wishlist" data-wish="EG-001">
           <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
         </button>
       </div>
@@ -3724,33 +3505,14 @@
   </div>
 </section>
 
-<div class="buy-lb" id="buy-lb" role="dialog" aria-modal="true" aria-label="Photo, zoomed">
-  <p class="buy-lb-cap" id="buy-lb-cap"></p>
-  <button type="button" class="buy-lb-x" id="buy-lb-x" aria-label="Close">&times;</button>
-  <img class="buy-lb-img" id="buy-lb-img" alt=""/>
-  <div class="buy-lb-bar">
-    <button type="button" id="buy-lb-prev" aria-label="Previous photo">&#8249;</button>
-    <button type="button" id="buy-lb-out"  aria-label="Zoom out">&minus;</button>
-    <button type="button" id="buy-lb-in"   aria-label="Zoom in">+</button>
-    <button type="button" id="buy-lb-next" aria-label="Next photo">&#8250;</button>
-  </div>
-</div>
-
 <script>
-/* ── Buy block ────────────────────────────────────────────────
-   Photos, quantity and the button. Adding goes through the shared
-   cart in /cart.js, so this block and /shop cannot disagree about
-   price, stock or what is in the basket.
-
-   The gallery is a scroll-snap track rather than a swapped <img>:
-   a phone then gets native swiping for free, and the arrows, the
-   thumbnails and the zoom all drive the same one piece of state —
-   which slide the track is scrolled to. */
-(function () {
-  /* The box, the board, both faces of each card and the kit — this is
-     the whole of what arrives, which is why the separate "What's
-     Inside The Box" block further down the page is gone. */
-  var SHOTS = [
+/* The box, the board, both faces of each card and the kit — this is
+   the whole of what arrives, which is why the separate "What's Inside
+   The Box" block further down the page is gone. */
+(window.dkProductQueue = window.dkProductQueue || []).push({
+  mount: '#eg-gal',
+  badge: 'In stock',
+  shots: [
     { src: 'eg-box-new.webp', cap: 'The box',
       alt: 'The EscapeGravity box — a science board game and screen-free gift for children aged 7 to 13' },
     { src: 'board-prototype.webp', cap: 'The spiral board',
@@ -3765,194 +3527,8 @@
       alt: 'The back of an EscapeGravity Physical Challenge Card, with the science behind the challenge explained for 8 to 13 year olds' },
     { src: 'box-contents.webp', cap: 'The challenge kit',
       alt: 'The open EscapeGravity box packed with challenge kit items — balls, clay, rods, a frisbee, cotton and rubber bands' }
-  ];
-
-  var track = document.getElementById('buy-track');
-  var strip = document.getElementById('buy-thumbs');
-  var cap   = document.getElementById('buy-cap');
-  if (!track || !strip) return;
-
-  var at = 0, dragged = false;
-
-  SHOTS.forEach(function (sh, i) {
-    var fig = document.createElement('figure');
-    fig.className = 'buy-slide';
-    fig.innerHTML = '<img src="' + sh.src + '" alt="' + sh.alt + '" loading="' + (i ? 'lazy' : 'eager') + '" decoding="async"/>';
-    /* A swipe ends in a click too, so opening the zoom on any click
-       would mean every swipe on a phone lands in the lightbox. */
-    fig.addEventListener('click', function () { if (!dragged) openLb(i); });
-    track.appendChild(fig);
-
-    var b = document.createElement('button');
-    b.type = 'button';
-    b.className = i ? '' : 'on';
-    b.setAttribute('aria-label', sh.cap);
-    b.innerHTML = '<img src="' + sh.src + '" alt="" loading="lazy" decoding="async"/>';
-    b.addEventListener('click', function () { go(i); });
-    strip.appendChild(b);
-  });
-
-  function go(i) {
-    at = Math.max(0, Math.min(i, SHOTS.length - 1));
-    track.scrollTo({ left: at * track.clientWidth, behavior: 'smooth' });
-    paint();
-  }
-  function paint() {
-    cap.textContent = SHOTS[at].cap;
-    strip.querySelectorAll('button').forEach(function (b, i) { b.classList.toggle('on', i === at); });
-    /* Centre the live thumbnail in its own strip by hand. scrollIntoView
-       would also scroll the page to reach it, which on a phone yanks the
-       whole section about mid-swipe. */
-    var t = strip.children[at];
-    if (t) strip.scrollTo({ left: t.offsetLeft - (strip.clientWidth - t.offsetWidth) / 2, behavior: 'smooth' });
-    document.getElementById('buy-prev').disabled = at === 0;
-    document.getElementById('buy-next').disabled = at === SHOTS.length - 1;
-  }
-  /* The track is the source of truth: a swipe moves it, and this reads
-     back where it landed rather than trying to guess from the gesture. */
-  var settle;
-  track.addEventListener('scroll', function () {
-    clearTimeout(settle);
-    settle = setTimeout(function () {
-      var i = Math.round(track.scrollLeft / track.clientWidth);
-      if (i !== at) { at = i; paint(); }
-    }, 90);
-  }, { passive: true });
-
-  track.addEventListener('pointerdown', function (e) {
-    dragged = false;
-    var x0 = e.clientX, y0 = e.clientY;
-    function watch(ev) { if (Math.abs(ev.clientX - x0) + Math.abs(ev.clientY - y0) > 10) dragged = true; }
-    function done() {
-      track.removeEventListener('pointermove', watch);
-      track.removeEventListener('pointerup', done);
-      track.removeEventListener('pointercancel', done);
-    }
-    track.addEventListener('pointermove', watch);
-    track.addEventListener('pointerup', done);
-    track.addEventListener('pointercancel', done);
-  });
-
-  document.getElementById('buy-prev').addEventListener('click', function () { go(at - 1); });
-  document.getElementById('buy-next').addEventListener('click', function () { go(at + 1); });
-  document.getElementById('buy-zoom').addEventListener('click', function () { openLb(at); });
-  track.addEventListener('keydown', function (e) {
-    if (e.key === 'ArrowRight') { e.preventDefault(); go(at + 1); }
-    if (e.key === 'ArrowLeft')  { e.preventDefault(); go(at - 1); }
-  });
-  paint();
-
-  /* ── Zoom ──────────────────────────────────────────────────
-     Wheel or pinch to scale, drag to pan, double-tap to toggle.
-     Panning is clamped to nothing in particular on purpose: the
-     photo is allowed to leave the frame, because fighting a drag
-     is more annoying than an off-centre picture. */
-  var lb  = document.getElementById('buy-lb');
-  var img = document.getElementById('buy-lb-img');
-  var lbc = document.getElementById('buy-lb-cap');
-  var z = 1, tx = 0, ty = 0;
-
-  function draw() {
-    img.style.transform = 'translate(-50%,-50%) translate(' + tx + 'px,' + ty + 'px) scale(' + z + ')';
-  }
-  function show(i) {
-    at = Math.max(0, Math.min(i, SHOTS.length - 1));
-    img.src = SHOTS[at].src; img.alt = SHOTS[at].alt;
-    lbc.textContent = SHOTS[at].cap + '  ·  ' + (at + 1) + ' of ' + SHOTS.length;
-    z = 1; tx = 0; ty = 0; draw();
-  }
-  function openLb(i) {
-    show(i);
-    lb.classList.add('open');
-    document.body.style.overflow = 'hidden';
-  }
-  function closeLb() {
-    lb.classList.remove('open');
-    document.body.style.overflow = '';
-    go(at);   /* leave the strip on whatever they were looking at */
-  }
-  function zoom(mult) { z = Math.max(1, Math.min(z * mult, 6)); if (z === 1) { tx = 0; ty = 0; } draw(); }
-
-  document.getElementById('buy-lb-x').addEventListener('click', closeLb);
-  document.getElementById('buy-lb-in').addEventListener('click',  function () { zoom(1.4); });
-  document.getElementById('buy-lb-out').addEventListener('click', function () { zoom(1 / 1.4); });
-  document.getElementById('buy-lb-prev').addEventListener('click', function () { show(at - 1); });
-  document.getElementById('buy-lb-next').addEventListener('click', function () { show(at + 1); });
-  lb.addEventListener('click', function (e) { if (e.target === lb) closeLb(); });
-  document.addEventListener('keydown', function (e) {
-    if (!lb.classList.contains('open')) return;
-    if (e.key === 'Escape')     closeLb();
-    if (e.key === 'ArrowRight') show(at + 1);
-    if (e.key === 'ArrowLeft')  show(at - 1);
-    if (e.key === '+' || e.key === '=') zoom(1.4);
-    if (e.key === '-')                  zoom(1 / 1.4);
-  });
-  lb.addEventListener('wheel', function (e) { e.preventDefault(); zoom(e.deltaY < 0 ? 1.12 : 1 / 1.12); }, { passive: false });
-
-  var last = 0;
-  img.addEventListener('pointerdown', function (e) {
-    var now = Date.now();
-    /* Double click and double tap are the same gesture here, so this
-       is done by hand — a dblclick listener as well would toggle the
-       zoom twice on a desktop. */
-    if (now - last < 300) { if (z > 1) { z = 1; tx = 0; ty = 0; draw(); } else zoom(2.5); }
-    last = now;
-    if (z === 1) return;
-    e.preventDefault();
-    img.setPointerCapture(e.pointerId);
-    img.classList.add('grabbing');
-    var x0 = e.clientX - tx, y0 = e.clientY - ty;
-    function move(ev) {
-      if (Object.keys(pts).length > 1) return;   /* a pinch, not a drag */
-      tx = ev.clientX - x0; ty = ev.clientY - y0; draw();
-    }
-    function up() {
-      img.classList.remove('grabbing');
-      img.removeEventListener('pointermove', move);
-      img.removeEventListener('pointerup', up);
-      img.removeEventListener('pointercancel', up);
-    }
-    img.addEventListener('pointermove', move);
-    img.addEventListener('pointerup', up);
-    img.addEventListener('pointercancel', up);
-  });
-  /* Two-finger pinch. */
-  var pts = {}, span0 = 0, z0 = 1;
-  lb.addEventListener('pointerdown', function (e) { pts[e.pointerId] = e; });
-  lb.addEventListener('pointermove', function (e) {
-    if (!pts[e.pointerId]) return;
-    pts[e.pointerId] = e;
-    var ids = Object.keys(pts);
-    if (ids.length !== 2) return;
-    var a = pts[ids[0]], b = pts[ids[1]];
-    var span = Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY);
-    if (!span0) { span0 = span; z0 = z; return; }
-    z = Math.max(1, Math.min(z0 * span / span0, 6));
-    draw();
-  });
-  ['pointerup', 'pointercancel'].forEach(function (ev) {
-    lb.addEventListener(ev, function (e) { delete pts[e.pointerId]; span0 = 0; });
-  });
-
-  /* ── Quantity ── */
-  var qty = 1;
-  window.egBuyQty = function (step) {
-    qty = Math.min(Math.max(qty + step, 1), 10);
-    document.getElementById('buy-qty').textContent = qty;
-    var btn = document.querySelector('.buy-cta');
-    if (btn) btn.setAttribute('data-qty', qty);   /* read by /cart.js */
-  };
-
-  /* Keep the heart in step with the wishlist, however it was changed. */
-  function paintHeart() {
-    var h = document.getElementById('buy-heart');
-    if (h && window.DK) h.classList.toggle('on', DK.wishRead().indexOf('EG-001') > -1);
-  }
-  window.addEventListener('load', paintHeart);
-  document.addEventListener('click', function (e) {
-    if (e.target.closest('[data-wish]')) setTimeout(paintHeart, 60);
-  });
-})();
+  ]
+});
 </script>
 
 <!-- ═══════════════════════════════════════════════ S-GALLERY ══ -->
@@ -13377,6 +12953,7 @@ if ('requestIdleCallback' in window) {
   })();
 </script>
   <script src="/dkbtn.js" defer></script>
+  <script src="/productblock.js" defer></script>
   <script src="/track.js" defer></script>
   <script src="/cart.js" defer></script>
   <script src="/checkout.js" defer></script>
