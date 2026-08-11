@@ -3585,17 +3585,6 @@
      shape, fins included, is centred in the slot. */
   .buy-cta-slot { display: flex; justify-content: center; transform: translateX(7px); }
 
-  /* Three items, so a fixed count rather than auto-fit: two columns
-     would put the third alone on a row of its own. One row where
-     there is width for it, stacked where there is not. */
-  .buy-trust { display: grid; grid-template-columns: 1fr;
-    gap: 10px 16px; margin-top: clamp(18px,2.6vh,26px);
-    border-top: 1px solid rgba(255,255,255,.12); padding-top: clamp(14px,2vh,20px); }
-  @media (min-width: 700px) { .buy-trust { grid-template-columns: repeat(3, minmax(0,1fr)); } }
-  .buy-trust div { display: flex; gap: 9px; align-items: flex-start;
-    font-family:'Futura',sans-serif; font-size: 13px; line-height: 1.45; color: rgba(255,255,255,.7); }
-  .buy-trust b { display: block; color: #fff; font-weight: normal; font-size: 13.5px; }
-
   /* ── Wide screens: the photo takes the whole left half ────── */
   @media (min-width: 1000px) {
     .buy-wrap { max-width: none; padding: 0; grid-template-columns: 50% minmax(0,1fr);
@@ -3625,7 +3614,6 @@
     .buy-desc      { order: 7; }
     .buy-points    { order: 8; }
     .buy-glossary  { order: 9; }
-    .buy-trust     { order: 10; }
 
     .buy-actions { flex-wrap: wrap; gap: 10px 12px; }
     .buy-cta-slot { justify-content: flex-start; transform: none; }
@@ -3731,12 +3719,6 @@
         <button type="button" class="buy-heart" id="buy-heart" aria-label="Save to wishlist" data-wish="EG-001">
           <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
         </button>
-      </div>
-
-      <div class="buy-trust">
-        <div><span>&#128666;</span><span><b>Ships in 3 days</b>Anywhere in India</span></div>
-        <div><span>&#128176;</span><span><b>Cash on delivery</b>Or pay online</span></div>
-        <div><span>&#127912;</span><span><b>Original artwork</b>Hand-drawn, nothing borrowed</span></div>
       </div>
     </div>
   </div>
