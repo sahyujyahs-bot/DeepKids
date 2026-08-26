@@ -28,7 +28,7 @@
        Sections low on the page sit below a lot of lazily-loaded
        artwork. The browser computes a #hash jump against the document
        as it stands at click time, then that artwork finishes laying
-       out and pushes the target down — #s-worth slides about 700px —
+       out and pushes the target down — a long section slides hundreds of px —
        so the visitor lands looking at the section above the one they
        asked for. This re-checks for a couple of seconds and nudges it
        back, and bows out the instant the visitor scrolls themselves. */
@@ -672,39 +672,6 @@
       margin-right: clamp(22px, 3.4vw, 42px);
       margin-top: -2px;
     }
-    .hero-offer-badge {
-      margin-top: 10px;
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-      background: rgba(205,158,223,0.12);
-      border: 1.5px solid rgba(205,158,223,0.45);
-      border-radius: 999px;
-      padding: 5px 14px;
-      font-family: 'Futura', sans-serif;
-      font-size: clamp(12px, 1.2vw, 15px);
-      color: #cd9edf;
-      white-space: nowrap;
-    }
-    .hero-offer-mrp {
-      text-decoration: line-through;
-      text-decoration-color: #ff5c5c;
-      text-decoration-thickness: 2px;
-      color: #fff;
-      font-size: 1.15em;
-      font-weight: bold;
-    }
-    .hero-offer-price {
-      font-weight: bold;
-      color: #fff;
-      font-size: 1.15em;
-    }
-    .hero-offer-why {
-      color: #cd9edf;
-      text-decoration: none;
-      border-bottom: 1px dashed rgba(205,158,223,.55);
-    }
-    .hero-offer-why:hover { color: #fff; border-bottom-color: #fff; }
     .no-pay-tag {
       font-family: 'Futura', sans-serif;
       font-size: clamp(11px, 1.3vw, 15px);
@@ -2149,29 +2116,6 @@
       var msg = document.getElementById('po-coupon-msg'); if (msg) { msg.textContent = ''; msg.className = 'po-coupon-msg'; }
       var amtEl = document.getElementById('po-total-amt'); if (amtEl) amtEl.textContent = egBaseStr();
     }
-    function egToggleWhy(e) {
-      if (e) { e.preventDefault(); e.stopPropagation(); }
-      var pop = document.getElementById('po-why-pop');
-      if (!pop) return;
-      var showing = pop.hasAttribute('hidden');
-      if (showing) {
-        pop.removeAttribute('hidden');
-        egGtag('event', 'why_price_open', { event_category: 'engagement' });
-        setTimeout(function(){
-          document.addEventListener('click', egCloseWhyOutside, true);
-        }, 0);
-      } else {
-        pop.setAttribute('hidden', '');
-        document.removeEventListener('click', egCloseWhyOutside, true);
-      }
-    }
-    function egCloseWhyOutside(e) {
-      var pop = document.getElementById('po-why-pop');
-      if (pop && !pop.contains(e.target) && !(e.target.closest && e.target.closest('.po-why'))) {
-        pop.setAttribute('hidden', '');
-        document.removeEventListener('click', egCloseWhyOutside, true);
-      }
-    }
     function egResetPayChoice() {
       window._egPayType = '';
       var radios = document.querySelectorAll('#preorder-modal input[name="po-paytype"]');
@@ -2184,19 +2128,14 @@
       var addrForm = document.getElementById('po-address-form');
       if (mainForm) mainForm.style.display = '';
       if (addrForm) addrForm.style.display = 'none';
-      var why = document.getElementById('po-why-pop');
-      if (why) why.setAttribute('hidden', '');
       egResetCoupon();
     }
     /* Order Now adds the box to the basket and drops the cart open, so a
        second product can go in before checkout. Without /cart.js loaded
        it falls back to the form, which is the old behaviour exactly. */
-    /* Names what is being paid for. "Why ₹4,999?" explains the price of
-       the box specifically, so it only makes sense when the box is the
-       only thing in the basket. */
+    /* Names what is being paid for. */
     function egSyncOrderCopy() {
       var what = document.getElementById('po-what');
-      var why  = document.getElementById('po-why-btn');
       var c    = (window.DK && DK.read()) || [];
       if (what) {
         var names = c.map(function (l) { var p = DK.find(l.sku); return p ? p.name : null; })
@@ -2206,10 +2145,6 @@
                   : '<strong>' + names[0] + '</strong> and ' + (names.length - 1) +
                     ' more item' + (names.length > 2 ? 's' : '');
         what.innerHTML = 'Order ' + label + " today. We'll ship to your door!";
-      }
-      if (why) {
-        var onlyBox = c.length === 1 && c[0].sku === 'EG-001' && c[0].qty === 1;
-        why.style.display = (!c.length || onlyBox) ? '' : 'none';
       }
     }
 
@@ -2710,21 +2645,8 @@
       <p class="po-address-note">📦 That's all for now — you'll add your <strong>delivery address right after</strong> (takes 30 seconds).</p>
       <div class="po-checkout">
         <div class="po-checkout-total">
-          <span>Total <button type="button" class="po-why" id="po-why-btn" aria-label="Why ₹4,999?" onclick="egToggleWhy(event)">Why ₹4,999?</button></span>
+          <span>Total</span>
           <strong id="po-total-amt">₹4,999</strong>
-        </div>
-        <div class="po-why-pop" id="po-why-pop" hidden>
-          <button type="button" class="po-why-close" aria-label="Close" onclick="egToggleWhy(event)">×</button>
-          <div class="po-why-title">Why ₹4,999?</div>
-          <div class="po-why-lead">Here's exactly what your money goes into:</div>
-          <ul class="po-why-list">
-            <li><span>🏎️</span> 11+ real play items included</li>
-            <li><span>🛠️</span> Premium materials, built to last</li>
-            <li><span>🎨</span> Original hand-drawn artwork</li>
-            <li><span>🔬</span> Hundreds of hours of research</li>
-            <li><span>📦</span> Small-batch, not mass-produced</li>
-          </ul>
-          <a class="po-why-more" href="/#s-worth" onclick="closePreOrderModal()">See the full breakdown →</a>
         </div>
         <div class="po-coupon">
           <input type="text" id="po-coupon-input" placeholder="Coupon code" autocomplete="off" aria-label="Coupon code" onkeydown="if(event.key==='Enter'){event.preventDefault();egApplyCoupon();}">
@@ -3075,43 +2997,6 @@
 .po-coupon-msg.ok { color: #7ee08a; }
 .po-coupon-msg.err { color: #ff8a8a; }
 .po-checkout-total > span { display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-.po-why {
-  font-family: 'Futura', sans-serif; font-size: 11px; letter-spacing: .3px; text-transform: none;
-  color: #cd9edf; background: none; border: none; border-bottom: 1px dashed rgba(205,158,223,.6);
-  padding: 0 0 1px; cursor: pointer; line-height: 1.2;
-}
-.po-why:hover { color: #fff; border-bottom-color: #fff; }
-.po-why-pop {
-  position: fixed; left: 50%; top: 50%; transform: translate(-50%, -50%);
-  width: min(330px, 88vw); z-index: 100000;
-  background: rgba(20,10,38,.99); border: 1px solid rgba(205,158,223,.5);
-  border-radius: 16px; padding: 18px 18px 16px;
-  box-shadow: 0 20px 60px rgba(0,0,0,.7), 0 0 24px rgba(170,89,200,.22), 0 0 0 100vmax rgba(0,0,0,.55);
-  animation: po-why-in .18s ease;
-}
-@keyframes po-why-in { from { opacity: 0; transform: translate(-50%, -46%); } to { opacity: 1; transform: translate(-50%, -50%); } }
-.po-why-close {
-  position: absolute; top: 8px; right: 10px; background: none; border: none;
-  color: rgba(255,255,255,.6); font-size: 22px; line-height: 1; cursor: pointer;
-}
-.po-why-close:hover { color: #fff; }
-.po-why-title {
-  font-family: 'Norwester', sans-serif; font-variant: small-caps; letter-spacing: 1px;
-  font-size: 17px; color: #fff; margin-bottom: 4px;
-}
-.po-why-lead {
-  font-family: 'Futura', sans-serif; font-size: 12px; color: rgba(255,255,255,.62);
-  margin-bottom: 11px; line-height: 1.4;
-}
-.po-why-list { list-style: none; margin: 0; padding: 0; }
-.po-why-list li {
-  display: flex; align-items: center; gap: 9px; padding: 5px 0;
-  font-family: 'Futura', sans-serif; font-size: 13.5px; color: rgba(255,255,255,.9);
-}
-.po-why-list li span { font-size: 16px; flex-shrink: 0; }
-.po-why-more { display: inline-block; margin-top: 10px; font-family: 'Futura', sans-serif;
-  font-size: 12.5px; color: #cd9edf; text-decoration: none; border-bottom: 1px dashed rgba(205,158,223,.5); }
-.po-why-more:hover { color: #fff; }
 .po-pay-heading { display: block; text-align: center; font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 12px; }
 .po-city-row {
   display: flex;
@@ -3435,7 +3320,6 @@
 
       <div class="buy-price-row">
         <span class="buy-price">&#8377;4,999</span>
-        <button type="button" class="buy-why" onclick="egLandOn(document.getElementById('s-worth'))">Why &#8377;4,999?</button>
       </div>
       <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
 
@@ -5360,10 +5244,7 @@
 </style>
 
 
-<!-- ═══════════════════════════════════════════════ WHY ₹4,999 ══ -->
 <style>
-  #s-worth { padding: clamp(48px, 8vh, 84px) clamp(18px, 5vw, 40px); }
-
   /* Anchor landings. The nav is fixed (48px on mobile, 68px above
      769px) and every section carries a big top padding, so a plain
      #hash jump used to stop 76px above the section box — which meant
@@ -5371,48 +5252,8 @@
      section filling the screen. Subtracting each section's own top
      padding lands its heading ~82px down instead: just clear of the
      nav, whatever the viewport height. */
-  #s-worth { scroll-margin-top: calc(82px - clamp(48px, 8vh, 84px)); }
   #s2, #s4-science, #s-syllabus { scroll-margin-top: calc(82px - clamp(50px, 7vh, 90px)); }
-  .worth-wrap { max-width: 760px; margin: 0 auto; }
-  .worth-head { text-align: center; margin-bottom: clamp(10px, 2vh, 16px); }
-  .worth-sub { text-align: center; color: rgba(255,255,255,.7); font-family: 'Futura', sans-serif;
-    font-size: clamp(14px, 2vw, 17px); max-width: 560px; margin: 0 auto clamp(28px, 4.5vh, 40px); }
-  .worth-list { display: flex; flex-direction: column; gap: 14px; }
-  .worth-row {
-    display: flex; gap: 16px; align-items: flex-start;
-    padding: 18px 20px; border-radius: 16px;
-    background: linear-gradient(170deg, rgba(170,89,200,.12), rgba(255,255,255,.025) 65%);
-    border: 1px solid rgba(170,89,200,.3);
-    transition: transform .25s ease, border-color .25s ease;
-  }
-  .worth-row:hover { transform: translateY(-3px); border-color: rgba(170,89,200,.6); }
-  .worth-ico {
-    flex-shrink: 0; width: 46px; height: 46px; border-radius: 12px;
-    display: grid; place-items: center; font-size: 23px;
-    background: rgba(170,89,200,.16); border: 1px solid rgba(170,89,200,.35);
-  }
-  .worth-txt b { display: block; font-family: 'Norwester', sans-serif; font-weight: normal;
-    font-variant: small-caps; letter-spacing: .6px; font-size: clamp(16px, 2.4vw, 20px);
-    color: #fff; margin-bottom: 3px; }
-  .worth-txt span { font-family: 'Futura', sans-serif; font-size: clamp(13.5px, 1.9vw, 15.5px);
-    color: rgba(255,255,255,.78); line-height: 1.55; }
-  .worth-note { text-align: center; margin-top: clamp(22px, 3.5vh, 32px);
-    font-family: 'Futura', sans-serif; font-style: oblique; color: #cd9edf; font-size: clamp(14px, 2vw, 17px); }
 </style>
-<section id="s-worth" class="eg-section">
-  <div class="worth-wrap">
-    <h2 class="page-h2 eg-fade-in worth-head">Why <em style="color:#aa59c8;font-style:normal;">₹4,999</em>?</h2>
-    <p class="worth-sub eg-fade-in">It's a fair question, and here's the honest answer — exactly what goes into the box, and why this isn't another mass-made product.</p>
-    <div class="worth-list">
-      <div class="worth-row eg-fade-in"><div class="worth-ico">🏎️</div><div class="worth-txt"><b>Comes with 11+ real play objects</b><span>Toy cars, clay, a frisbee, balls &amp; more — every physical challenge ready to play, right out of the box.</span></div></div>
-      <div class="worth-row eg-fade-in"><div class="worth-ico">🛠️</div><div class="worth-txt"><b>Premium materials &amp; finish</b><span>Built to survive years of eager little hands — not a flimsy box that tears after a week.</span></div></div>
-      <div class="worth-row eg-fade-in"><div class="worth-ico">🎨</div><div class="worth-txt"><b>100% original hand-drawn artwork</b><span>Every illustration made only for this game. No clip-art, no templates, nothing borrowed.</span></div></div>
-      <div class="worth-row eg-fade-in"><div class="worth-ico">🔬</div><div class="worth-txt"><b>Hundreds of hours of research</b><span>Each concept checked, argued over, and refined — so what your child learns is genuinely right, not half-baked.</span></div></div>
-      <div class="worth-row eg-fade-in"><div class="worth-ico">📦</div><div class="worth-txt"><b>Made in small batches, not mass-produced</b><span>Real quality costs more per box, and we won't cut it. You're paying for care, not a factory line.</span></div></div>
-    </div>
-    <p class="worth-note eg-fade-in">Made with care, not on an assembly line.</p>
-  </div>
-</section>
 
 <!-- ═══════════════════════════════════════════════ S4c: THE SYLLABUS ══ -->
 <style>
@@ -12728,13 +12569,13 @@ if ('requestIdleCallback' in window) {
   alt2:  "<b>Launching next: The Story Of Evolution picture book.</b> <a href=\"/evolution\">See the book →</a>"
 });
 </script>
-  <script src="/dkbtn.js?v=5" defer></script>
-  <script src="/productblock.js?v=5" defer></script>
-  <script src="/nudge.js?v=5" defer></script>
-  <script src="/track.js?v=5" defer></script>
-  <script src="/cart.js?v=5" defer></script>
-  <script src="/checkout.js?v=5" defer></script>
-  <script src="/footer.js?v=5" defer></script>
-  <script src="/menu.js?v=5" defer></script>
+  <script src="/dkbtn.js?v=6" defer></script>
+  <script src="/productblock.js?v=6" defer></script>
+  <script src="/nudge.js?v=6" defer></script>
+  <script src="/track.js?v=6" defer></script>
+  <script src="/cart.js?v=6" defer></script>
+  <script src="/checkout.js?v=6" defer></script>
+  <script src="/footer.js?v=6" defer></script>
+  <script src="/menu.js?v=6" defer></script>
 </body>
 </html>

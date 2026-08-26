@@ -23,7 +23,6 @@
          rather than at the matching section on the main page — the row
          then highlights correctly when you are reading it. */
       { label: 'Learning Glossary', href: '/what-kids-learn#s-syllabus' },
-      { label: 'Why ₹4,999?',  href: '/what-kids-learn#s-worth'    },
       { label: 'The Science',       href: '/#s4-science'                },
       { label: 'The Game',          href: '/#s2'                        }
     ]},
