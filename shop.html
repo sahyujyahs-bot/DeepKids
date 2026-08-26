@@ -305,8 +305,10 @@
     .card-body { padding:clamp(14px,1.8vw,20px) clamp(6px,1vw,12px) 0; display:flex; flex-direction:column; flex:1; position:relative; z-index:1; text-align:center; }
     .card-kind { font-size:11px; letter-spacing:2px; text-transform:uppercase; color:var(--lilac); }
     .card-body h3 { font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:.5px; margin:4px 0 6px; }
-    .card-body p { font-size:13.5px; color:var(--ink-dim); flex:1; }
-    .card-price { display:flex; align-items:baseline; justify-content:center; gap:9px; margin:14px 0 12px; flex-wrap:wrap; }
+    /* The blurb used to be the flexible row that pushed the price and
+       button to the bottom of every card. With it gone the price takes
+       that job, so the buttons still line up across a row. */
+    .card-price { display:flex; align-items:baseline; justify-content:center; gap:9px; margin:auto 0 12px; padding-top:14px; flex-wrap:wrap; }
     .card-price .now { font-family:var(--font-head); font-size:clamp(22px,3vw,28px); color:#fff; letter-spacing:1px; }
     .card-price .was { font-size:14px; color:var(--ink-dim); text-decoration:line-through; }
     .card-price .off {
@@ -719,17 +721,14 @@ var dkFind = DK.find, dkUnit = DK.unit, dkRs = DK.rs, dkThumb = DK.thumb, dkOff 
 var dkAdd = DK.add, dkRemove = DK.remove, dkWish = DK.wish;
 var dkCartRead = DK.read, dkCartPaint = DK.paint, dkCartToggle = DK.openCart;
 
-/* Extra shots, kind and blurb — the catalog carries only what money
-   depends on, so presentation is attached here. */
-/* Copy the shop shows for each product. Lost when the catalog moved to
-   /cart.js — that file carries only what money depends on. */
+/* Extra shots and the kind line. The catalog in /cart.js carries only
+   what money depends on, so presentation is attached here. The cards
+   no longer carry a description — the photos, the name and the price
+   are the whole of it, and the details are a click away. */
 var COPY = {
-  'EG-001':  { kind:'Boardgame · 2–6 players · ages 7+',
-               blurb:'A race to the Space Station where gravity fights back. 35+ physical challenges, 13 forces, and a spiral board from the Earth\u2019s core to deep space.' },
-  'SCI-001': { kind:'Card game · ages 7+',
-               blurb:'Scientists as trading cards. Each one carries a discovery, the truth underneath it, and where you meet that truth in everyday life.' },
-  'EVO-001': { kind:'Picture book · kids & adults',
-               blurb:'Four billion years told once, properly — hand-painted, and accurate all the way through. For reading together.' }
+  'EG-001':  { kind:'Boardgame · 2–6 players · ages 7+' },
+  'SCI-001': { kind:'Card game · ages 7+' },
+  'EVO-001': { kind:'Picture book · kids & adults' }
 };
 var SHOTS = {
   'EG-001':  [{src:'eg-box-new.webp',      alt:'The EscapeGravity box, lid printed with the spiral board and a child reaching into a gravity well'},
@@ -749,7 +748,7 @@ var SHOTS = {
 CATALOG.forEach(function(p){
   p.shots = SHOTS[p.sku] || [{ src: p.img }];
   var c = COPY[p.sku] || {};
-  p.kind = c.kind || ''; p.blurb = c.blurb || '';
+  p.kind = c.kind || '';
 });
 
 
@@ -825,7 +824,6 @@ document.addEventListener('click', function(e){
       '<div class="card-body">' +
         '<span class="card-kind">' + p.kind + '</span>' +
         '<h3>' + p.name + '</h3>' +
-        '<p>' + p.blurb + '</p>' +
         /* Keyed on the discount, not on pre-order: SCI. ships now and
            still holds its 15%, so the two had to come apart. */
         '<div class="card-price"><span class="now">' + dkRs(unit) + '</span>' +
