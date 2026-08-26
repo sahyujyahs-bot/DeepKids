@@ -314,43 +314,41 @@
     .wish svg { width:18px; height:18px; fill:none; stroke:#fff; stroke-width:1.8; transition:fill .2s ease, stroke .2s ease; }
     .wish:hover { transform:scale(1.1); }
     .wish.on svg { fill:var(--rose); stroke:var(--rose); }
-    .card-body { padding:clamp(14px,1.8vw,20px) clamp(6px,1vw,12px) 0; display:flex; flex-direction:column; flex:1; position:relative; z-index:1; text-align:center; }
+    /* Name first, then the photographs, then the price and the button on
+       one line — so the eye gets what it is before what it costs, and
+       the two things a visitor acts on sit together at the bottom. */
+    .card-head { padding:0 clamp(6px,1vw,12px) clamp(10px,1.4vw,14px); text-align:center; }
     .card-kind { font-size:11px; letter-spacing:2px; text-transform:uppercase; color:var(--lilac); }
-    .card-body h3 { font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:.5px; margin:4px 0 6px; }
-    /* The blurb used to be the flexible row that pushed the price and
-       button to the bottom of every card. With it gone the price takes
-       that job, so the buttons still line up across a row. */
-    .card-price { display:flex; align-items:baseline; justify-content:center; gap:9px; margin:auto 0 12px; padding-top:14px; flex-wrap:wrap; }
-    .card-price .now { font-family:var(--font-head); font-size:clamp(22px,3vw,28px); color:#fff; letter-spacing:1px; }
-    .card-price .was { font-size:14px; color:var(--ink-dim); text-decoration:line-through; }
-    .card-price .off {
-      font-family:var(--font-head); font-variant:small-caps; letter-spacing:1.5px; font-size:12px;
-      color:#fff; background:var(--purple); border-radius:999px; padding:2px 9px;
+    .card-head h3 { font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:.5px; margin:4px 0 0; }
+    .card-head h3 a { color:inherit; text-decoration:none; }
+
+    /* margin-top:auto keeps this row on the bottom edge whatever the name
+       above it wrapped to, so the buttons line up across a row. */
+    .card-foot {
+      margin-top:auto; padding:clamp(12px,1.6vw,16px) clamp(6px,1vw,12px) 0;
+      display:flex; align-items:center; justify-content:space-between; gap:10px;
+      position:relative; z-index:1;
     }
-    /* Both controls share one centre line — but the D+K shape is not
-       centred inside its own box. Its filled body runs from x=9 to x=269
-       of a 360-unit viewBox, so the body's centre sits 41 units (11.4% of
-       the width) left of the box centre. Centre the box and the button
-       looks shoved left against the link below it; shift it by that 11.4%
-       and the shape itself lands on the column's centre line. */
-    .card-cta { width:min(100%,268px); margin:0 auto; }
-    .buy-slot { display:flex; justify-content:center; margin-bottom:12px; }
-    /* Width is pinned here rather than left to data-dk-size, whose rule
-       is more specific and was silently winning — which made the shift
-       below get computed against the wrong number. */
+    .card-price { display:flex; align-items:baseline; gap:7px; flex-wrap:wrap; min-width:0; }
+    .card-price .now { font-family:var(--font-head); font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:1px; }
+    .card-price .was { font-size:13px; color:var(--ink-dim); text-decoration:line-through; }
+    .card-price .off {
+      font-family:var(--font-head); font-variant:small-caps; letter-spacing:1.5px; font-size:11.5px;
+      color:#fff; background:var(--purple); border-radius:999px; padding:2px 8px;
+    }
+    /* Width pinned here rather than left to data-dk-size, whose rule is
+       more specific and would silently win. */
+    .buy-slot { flex:0 0 auto; display:flex; }
     .card-buy { margin-left:0 !important; }
-    .card-buy .btn-svg { width:248px !important; }
-    .card-buy .btn-label { font-size:15px; letter-spacing:1.6px; }
-    /* 3.26% of 248px. Not a percentage on the slot: that would resolve
-       against the column, not the button. */
-    .buy-slot { transform:translateX(8px); }
-    /* The whole card is the way through to a product page now, so it has
-       to look like it. The name is a real anchor inside it, which is what
-       a crawler and a middle-click follow. */
+    .card-buy .btn-svg { width:clamp(120px,13vw,158px) !important; }
+    .card-buy .btn-label { font-size:clamp(11px,1.1vw,13px); letter-spacing:1.2px; }
+
+    /* The whole card is the way through to a product page. The name is a
+       real anchor inside it, which is what a crawler and a middle-click
+       follow. */
     .card { cursor:pointer; }
-    .card-body h3 a { color:inherit; text-decoration:none; }
     .card:hover .gal { transform:translateY(-3px); }
-    .card:hover .card-body h3 a { color:var(--lilac); }
+    .card:hover .card-head h3 a { color:var(--lilac); }
     .gal { transition:transform .25s ease; }
     /* Everything the card click must not swallow. */
     .card .gal-nav, .card .wish, .card .buy-slot { cursor:default; }
@@ -574,10 +572,10 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/dkbtn.js?v=8"></script>
-<script src="/track.js?v=8"></script>
-<script src="/cart.js?v=8"></script>
-<script src="/checkout.js?v=8"></script>
+<script src="/dkbtn.js?v=9"></script>
+<script src="/track.js?v=9"></script>
+<script src="/cart.js?v=9"></script>
+<script src="/checkout.js?v=9"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
    Sound. Short Web Audio tones — no files to load, and nothing is
@@ -718,6 +716,10 @@ document.addEventListener('click', function(e){
     }).join('');
     var dots = p.shots.map(function(_, n){ return '<i' + (n ? '' : ' class="on"') + '></i>'; }).join('');
     card.innerHTML =
+      '<div class="card-head">' +
+        '<span class="card-kind">' + p.kind + '</span>' +
+        '<h3><a href="' + p.href + '" data-go="' + p.sku + '">' + p.name + '</a></h3>' +
+      '</div>' +
       '<div class="gal" data-gal="' + p.sku + '">' +
         '<div class="gal-strip">' + shots + '</div>' +
         '<button type="button" class="gal-nav gal-prev" aria-label="Previous image" data-step="-1">‹</button>' +
@@ -728,18 +730,14 @@ document.addEventListener('click', function(e){
           '<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-9.2A4.1 4.1 0 0 1 12 8a4.1 4.1 0 0 1 7 2.8C19 15.6 12 20 12 20z"/></svg>' +
         '</button>' +
       '</div>' +
-      '<div class="card-body">' +
-        '<span class="card-kind">' + p.kind + '</span>' +
-        '<h3><a href="' + p.href + '" data-go="' + p.sku + '">' + p.name + '</a></h3>' +
+      '<div class="card-foot">' +
         /* Keyed on the discount, not on pre-order: SCI. ships now and
            still holds its 15%, so the two had to come apart. */
         '<div class="card-price"><span class="now">' + dkRs(unit) + '</span>' +
           (dkOff(p) ? '<span class="was">' + dkRs(p.price) + '</span><span class="off">' +
             Math.round(dkOff(p) * 100) + '% off</span>' : '') +
         '</div>' +
-        '<div class="card-cta">' +
-          '<div class="buy-slot"><button type="button" class="card-buy" data-dk-btn="Add To Cart" data-add="' + p.sku + '"></button></div>' +
-        '</div>' +
+        '<div class="buy-slot"><button type="button" class="card-buy" data-dk-btn="Add To Cart" data-add="' + p.sku + '"></button></div>' +
       '</div>';
     g.appendChild(card);
   });
@@ -1028,7 +1026,7 @@ DK.wishPaint();
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
-  <script src="/footer.js?v=8" defer></script>
-  <script src="/menu.js?v=8" defer></script>
+  <script src="/footer.js?v=9" defer></script>
+  <script src="/menu.js?v=9" defer></script>
 </body>
 </html>
