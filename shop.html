@@ -419,25 +419,29 @@
       color:rgba(255,255,255,.5); font-size:17px; cursor:pointer; line-height:1; }
 
     /* ─── What our games are ──────────────────────────────────*/
-    .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: clamp(10px, 1.5vw, 16px); }
+    /* A word cloud: the titles alone, wrapped centre-out. Flex rather
+       than the old grid, so a short phrase takes a short pill instead of
+       a whole column, and the rows centre their own remainder. */
+    .tiles {
+      display: flex; flex-wrap: wrap; justify-content: center; align-items: center;
+      gap: clamp(8px, 1.2vw, 14px); max-width: 900px; margin: 0 auto;
+    }
     .tile {
-      padding: clamp(16px, 2vw, 22px) clamp(16px, 2vw, 20px); border-radius: 16px;
+      padding: clamp(9px, 1.1vw, 13px) clamp(15px, 1.8vw, 22px); border-radius: 999px;
       background: linear-gradient(170deg, rgba(var(--purple-rgb), .14), rgba(255,255,255,.02) 65%);
       border: 1px solid rgba(var(--purple-rgb), .3);
-      transition: transform .28s ease, border-color .28s ease;
+      font-family: var(--font-head); font-weight: normal; font-variant: small-caps;
+      letter-spacing: .5px; line-height: 1.15; color: #fff;
+      font-size: clamp(14px, 2.1vw, 19px);
+      transition: transform .28s ease, border-color .28s ease, background .28s ease;
     }
-    .tile:hover { transform: translateY(-4px); border-color: rgba(var(--purple-rgb), .65); }
+    .tile.t-lg { font-size: clamp(17px, 3vw, 27px); padding-inline: clamp(18px, 2.2vw, 28px); }
+    .tile:hover { transform: translateY(-3px); border-color: rgba(var(--purple-rgb), .65); }
     .tile.tile-not {
       background: linear-gradient(170deg, rgba(255,138,138,.1), rgba(255,255,255,.015) 65%);
-      border-color: rgba(255,138,138,.3);
+      border-color: rgba(255,138,138,.3); color: var(--rose);
     }
     .tile.tile-not:hover { border-color: rgba(255,138,138,.6); }
-    .tile b {
-      display: block; font-family: var(--font-head); font-weight: normal; font-variant: small-caps;
-      letter-spacing: .5px; font-size: clamp(17px, 2vw, 21px); color: #fff; line-height: 1.12; margin-bottom: 7px;
-    }
-    .tile.tile-not b { color: var(--rose); }
-    .tile span { font-size: 13.5px; line-height: 1.5; color: var(--ink-dim); }
 
     @media (prefers-reduced-motion:reduce){
       .rv { opacity:1; transform:none; transition:none; }
@@ -508,19 +512,19 @@
       <h2 class="rv">Why You Should <em>Buy One</em></h2>
     </div>
     <div class="tiles">
-      <div class="tile rv"><b>Screen Free</b><span>An offline game that gets kids playing, talking and experiencing the real world.</span></div>
-      <div class="tile rv"><b>Experiential</b><span>The concept arrives through the hands first — a throw, a balance, a jump — and is explained afterwards.</span></div>
-      <div class="tile rv"><b>Thought Through</b><span>Months of research and argument per box. Where the science is unsettled, the box says so.</span></div>
-      <div class="tile rv"><b>Out-Of-The-World Gameplay</b><span>A spiral board running from the Earth's core to deep space. Not a quiz with a board glued to it.</span></div>
-      <div class="tile rv"><b>Appropriately Challenging</b><span>Not the easiest game on the shelf, on purpose. Kids rise to it — they almost always do.</span></div>
-      <div class="tile rv"><b>Gets Kids Moving</b><span>35+ physical challenges. Somebody will be standing on one leg within ten minutes.</span></div>
-      <div class="tile rv"><b>Open-Ended Thinking</b><span>Questions with more than one good answer, and room to argue about which one is best.</span></div>
-      <div class="tile rv"><b>First Principles</b><span>Why things are the way they are, starting from the bottom — not a rule to apply and forget.</span></div>
-      <div class="tile rv"><b>Fundamentals</b><span>The load-bearing ideas, not the applications. Get these right and the rest follows on its own.</span></div>
-      <div class="tile rv"><b>Free Thinking</b><span>Permission to disagree with the box, with the textbook, and with you. That's the point.</span></div>
-      <div class="tile tile-not rv"><b>No Rote Memorisation</b><span>Nothing in here rewards remembering a list. You can't win by revising.</span></div>
-      <div class="tile tile-not rv"><b>Not Another STEM Kit</b><span>You don't build one gadget and shelve it. This is a game you come back to.</span></div>
-      <div class="tile tile-not rv"><b>Not Broken Content On Cards</b><span>Not the same copied, half-wrong facts printed on nicer cardboard. That's the whole reason we started.</span></div>
+      <span class="tile rv t-lg">Screen Free</span>
+      <span class="tile rv t-lg">Experiential</span>
+      <span class="tile rv">Thought Through</span>
+      <span class="tile rv t-lg">Out-Of-The-World Gameplay</span>
+      <span class="tile rv">Appropriately Challenging</span>
+      <span class="tile rv t-lg">Gets Kids Moving</span>
+      <span class="tile rv">Open-Ended Thinking</span>
+      <span class="tile rv t-lg">First Principles</span>
+      <span class="tile rv">Fundamentals</span>
+      <span class="tile rv">Free Thinking</span>
+      <span class="tile tile-not rv">No Rote Memorisation</span>
+      <span class="tile tile-not rv">Not Another STEM Kit</span>
+      <span class="tile tile-not rv">Not Broken Content On Cards</span>
     </div>
   </section>
 
@@ -570,10 +574,10 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/dkbtn.js?v=7"></script>
-<script src="/track.js?v=7"></script>
-<script src="/cart.js?v=7"></script>
-<script src="/checkout.js?v=7"></script>
+<script src="/dkbtn.js?v=8"></script>
+<script src="/track.js?v=8"></script>
+<script src="/cart.js?v=8"></script>
+<script src="/checkout.js?v=8"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
    Sound. Short Web Audio tones — no files to load, and nothing is
@@ -1024,7 +1028,7 @@ DK.wishPaint();
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
-  <script src="/footer.js?v=7" defer></script>
-  <script src="/menu.js?v=7" defer></script>
+  <script src="/footer.js?v=8" defer></script>
+  <script src="/menu.js?v=8" defer></script>
 </body>
 </html>
