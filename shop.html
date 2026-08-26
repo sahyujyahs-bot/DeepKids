@@ -240,11 +240,11 @@
     .card {
       position:relative; display:flex; flex-direction:column;
       padding:clamp(16px,2vw,22px) clamp(12px,1.4vw,18px) clamp(14px,1.8vw,20px);
-      border:1px solid rgba(var(--purple-rgb),.28); border-radius:20px;
-      background:linear-gradient(170deg, rgba(var(--purple-rgb),.10), rgba(255,255,255,.015) 62%);
-      transition:border-color .28s ease, background .28s ease;
+      border:1px solid rgba(var(--purple-rgb),.35); border-radius:20px;
+      background:none;
+      transition:border-color .28s ease;
     }
-    .card:hover { border-color:rgba(var(--purple-rgb),.6); background:linear-gradient(170deg, rgba(var(--purple-rgb),.16), rgba(255,255,255,.025) 62%); }
+    .card:hover { border-color:rgba(var(--purple-rgb),.7); }
 
     /* Gallery: a scroll-snap strip, arrows on desktop, dots under it. */
     .gal { position:relative; background:none; z-index:1; }
@@ -297,8 +297,11 @@
        so the browser was synthesising them by scaling capitals down —
        which is what made the letters look soft. Real capitals at a real
        size render on the pixel grid. */
+    /* The kind and the heart sit on the card's own top line now,
+       rather than floating over the photograph. */
+    .card-top { display:flex; align-items:center; justify-content:space-between; gap:10px;
+      margin-bottom:clamp(10px,1.4vw,14px); }
     .card-badge {
-      position:absolute; left:2px; top:2px; z-index:4;
       font-family:var(--font-head); text-transform:uppercase;
       letter-spacing:clamp(2px,.16vw,2.6px); font-size:clamp(11px,1.15vw,15px);
       padding:clamp(3px,.4vw,6px) clamp(11px,1vw,15px); border-radius:999px;
@@ -306,14 +309,13 @@
       -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
     }
     .wish {
-      position:absolute; right:2px; top:2px; z-index:4; width:36px; height:36px; border-radius:50%;
-      border:1px solid rgba(255,255,255,.28); background:rgba(10,6,24,.6); cursor:pointer;
+      flex:0 0 auto; width:36px; height:36px; border-radius:50%;
+      border:1px solid rgba(255,255,255,.28); background:none; cursor:pointer;
       display:grid; place-items:center; -webkit-tap-highlight-color:transparent;
-      backdrop-filter:blur(4px); -webkit-backdrop-filter:blur(4px);
-      transition:background .2s ease, transform .2s ease;
+      transition:border-color .2s ease, transform .2s ease;
     }
     .wish svg { width:18px; height:18px; fill:none; stroke:#fff; stroke-width:1.8; transition:fill .2s ease, stroke .2s ease; }
-    .wish:hover { transform:scale(1.1); }
+    .wish:hover { transform:scale(1.1); border-color:var(--rose); }
     .wish.on svg { fill:var(--rose); stroke:var(--rose); }
     /* Name first, then the photographs, then the price and the button on
        one line — so the eye gets what it is before what it costs, and
@@ -349,8 +351,8 @@
        more specific and would silently win. */
     .buy-slot { flex:0 0 auto; display:flex; }
     .card-buy { margin-left:0 !important; }
-    .card-buy .btn-svg { width:clamp(120px,13vw,158px) !important; }
-    .card-buy .btn-label { font-size:clamp(11px,1.1vw,13px); letter-spacing:1.2px; }
+    .card-buy .btn-svg { width:clamp(150px,16vw,196px) !important; }
+    .card-buy .btn-label { font-size:clamp(13px,1.35vw,16px); letter-spacing:1.5px; }
 
     /* The whole card is the way through to a product page. The name is a
        real anchor inside it, which is what a crawler and a middle-click
@@ -581,10 +583,10 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/dkbtn.js?v=10"></script>
-<script src="/track.js?v=10"></script>
-<script src="/cart.js?v=10"></script>
-<script src="/checkout.js?v=10"></script>
+<script src="/dkbtn.js?v=11"></script>
+<script src="/track.js?v=11"></script>
+<script src="/cart.js?v=11"></script>
+<script src="/checkout.js?v=11"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
    Sound. Short Web Audio tones — no files to load, and nothing is
@@ -725,6 +727,12 @@ document.addEventListener('click', function(e){
     }).join('');
     var dots = p.shots.map(function(_, n){ return '<i' + (n ? '' : ' class="on"') + '></i>'; }).join('');
     card.innerHTML =
+      '<div class="card-top">' +
+        '<span class="card-badge">' + p.tag + '</span>' +
+        '<button type="button" class="wish' + (wish.indexOf(p.sku) > -1 ? ' on' : '') + '" aria-label="Save ' + p.name + '" data-wish="' + p.sku + '">' +
+          '<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-9.2A4.1 4.1 0 0 1 12 8a4.1 4.1 0 0 1 7 2.8C19 15.6 12 20 12 20z"/></svg>' +
+        '</button>' +
+      '</div>' +
       '<div class="card-head">' +
         '<span class="card-kind">' + p.kind + '</span>' +
         '<h3><a href="' + p.href + '" data-go="' + p.sku + '">' + p.name + '</a></h3>' +
@@ -734,10 +742,6 @@ document.addEventListener('click', function(e){
         '<button type="button" class="gal-nav gal-prev" aria-label="Previous image" data-step="-1">‹</button>' +
         '<button type="button" class="gal-nav gal-next" aria-label="Next image" data-step="1">›</button>' +
         '<span class="gal-dots">' + dots + '</span>' +
-        '<span class="card-badge">' + p.tag + '</span>' +
-        '<button type="button" class="wish' + (wish.indexOf(p.sku) > -1 ? ' on' : '') + '" aria-label="Save ' + p.name + '" data-wish="' + p.sku + '">' +
-          '<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-9.2A4.1 4.1 0 0 1 12 8a4.1 4.1 0 0 1 7 2.8C19 15.6 12 20 12 20z"/></svg>' +
-        '</button>' +
       '</div>' +
       '<div class="card-foot">' +
         /* Keyed on the discount, not on pre-order: SCI. ships now and
@@ -1035,7 +1039,7 @@ DK.wishPaint();
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
-  <script src="/footer.js?v=10" defer></script>
-  <script src="/menu.js?v=10" defer></script>
+  <script src="/footer.js?v=11" defer></script>
+  <script src="/menu.js?v=11" defer></script>
 </body>
 </html>
