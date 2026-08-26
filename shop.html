@@ -4,7 +4,7 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Shop — DeepKids Board Games, Card Games &amp; Picture Books</title>
-  <meta name="description" content="Buy DeepKids games and books. EscapeGravity board game ₹4,999, SCI. scientist trading cards ₹1,019 with the launch offer, and The Story Of Evolution picture book ₹2,124 at 15% off. Free delivery across India. Ages 7+, screen-free, made in India."/>
+  <meta name="description" content="Buy DeepKids games and books. EscapeGravity board game ₹4,249 at 15% off, SCI. scientist trading cards ₹1,019 with the launch offer, and The Story Of Evolution picture book ₹2,124 at 15% off. Free delivery across India. Ages 7+, screen-free, made in India."/>
   <link rel="canonical" href="https://deepkids.in/shop"/>
   <meta property="og:title" content="Shop — DeepKids Board Games, Card Games &amp; Picture Books"/>
   <meta property="og:description" content="One subject each, taken all the way in. All three orderable now, with free delivery across India."/>
@@ -230,20 +230,21 @@
        pictures: each product gets a swipeable gallery you can browse
        without leaving the shop. */
     .shop-full { width:100%; }
-    .grid { display:grid; grid-template-columns:1fr; gap:clamp(20px,3vw,34px); }
-    @media (min-width:1000px){ .grid { grid-template-columns:repeat(3,1fr); } }
-    /* No panel, no border. The product floats on the page background
-       with its own shadow, the way it would on a table. */
-    .card { position:relative; display:flex; flex-direction:column; background:none; border:0; }
-    .card::after {
-      /* the pool of shadow the product sits in */
-      content:''; position:absolute; left:18%; right:18%; top:clamp(250px,54vw,330px); height:30px;
-      background:radial-gradient(50% 50% at 50% 50%, rgba(0,0,0,.62), rgba(0,0,0,0) 72%);
-      filter:blur(6px); pointer-events:none; z-index:0;
-      transition:transform .45s ease, opacity .45s ease;
+    /* Stacked on a phone, so the gap has to read as a gap between two
+       products rather than as padding inside one. */
+    .grid { display:grid; grid-template-columns:1fr; gap:40px; }
+    @media (min-width:1000px){ .grid { grid-template-columns:repeat(3,1fr); gap:clamp(20px,2.4vw,30px); } }
+    /* A panel after all. Without one, a card's button sat as close to
+       the next card's price as to its own, and which belonged to which
+       stopped being obvious. */
+    .card {
+      position:relative; display:flex; flex-direction:column;
+      padding:clamp(16px,2vw,22px) clamp(12px,1.4vw,18px) clamp(14px,1.8vw,20px);
+      border:1px solid rgba(var(--purple-rgb),.28); border-radius:20px;
+      background:linear-gradient(170deg, rgba(var(--purple-rgb),.10), rgba(255,255,255,.015) 62%);
+      transition:border-color .28s ease, background .28s ease;
     }
-    .card:hover::after { transform:scale(.92); opacity:.75; }
-    @media (min-width:1000px){ .card::after { top:clamp(315px,24vw,405px); } }
+    .card:hover { border-color:rgba(var(--purple-rgb),.6); background:linear-gradient(170deg, rgba(var(--purple-rgb),.16), rgba(255,255,255,.025) 62%); }
 
     /* Gallery: a scroll-snap strip, arrows on desktop, dots under it. */
     .gal { position:relative; background:none; z-index:1; }
@@ -317,19 +318,27 @@
     /* Name first, then the photographs, then the price and the button on
        one line — so the eye gets what it is before what it costs, and
        the two things a visitor acts on sit together at the bottom. */
-    .card-head { padding:0 clamp(6px,1vw,12px) clamp(10px,1.4vw,14px); text-align:center; }
+    .card-head { padding:0 0 clamp(10px,1.4vw,14px); text-align:center; }
     .card-kind { font-size:11px; letter-spacing:2px; text-transform:uppercase; color:var(--lilac); }
     .card-head h3 { font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:.5px; margin:4px 0 0; }
     .card-head h3 a { color:inherit; text-decoration:none; }
 
     /* margin-top:auto keeps this row on the bottom edge whatever the name
        above it wrapped to, so the buttons line up across a row. */
+    /* Capped and centred rather than pushed to the card's two edges:
+       at a full column width the price and the button ended up far
+       enough apart to read as belonging to different products. */
     .card-foot {
-      margin-top:auto; padding:clamp(12px,1.6vw,16px) clamp(6px,1vw,12px) 0;
+      margin-top:auto; padding:clamp(12px,1.6vw,16px) 0 0;
+      width:min(100%,330px); margin-inline:auto;
       display:flex; align-items:center; justify-content:space-between; gap:10px;
       position:relative; z-index:1;
     }
-    .card-price { display:flex; align-items:baseline; gap:7px; flex-wrap:wrap; min-width:0; }
+    /* Two lines, always: the price you pay on top, the struck list price
+   and the discount together beneath it. Left to wrap on its own it
+   put all three on separate lines at some widths. */
+    .card-price { display:flex; align-items:baseline; gap:3px 7px; flex-wrap:wrap; min-width:0; }
+    .card-price .now { flex:0 0 100%; }
     .card-price .now { font-family:var(--font-head); font-size:clamp(20px,2.6vw,26px); color:#fff; letter-spacing:1px; }
     .card-price .was { font-size:13px; color:var(--ink-dim); text-decoration:line-through; }
     .card-price .off {
@@ -572,10 +581,10 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/dkbtn.js?v=9"></script>
-<script src="/track.js?v=9"></script>
-<script src="/cart.js?v=9"></script>
-<script src="/checkout.js?v=9"></script>
+<script src="/dkbtn.js?v=10"></script>
+<script src="/track.js?v=10"></script>
+<script src="/cart.js?v=10"></script>
+<script src="/checkout.js?v=10"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
    Sound. Short Web Audio tones — no files to load, and nothing is
@@ -1026,7 +1035,7 @@ DK.wishPaint();
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
-  <script src="/footer.js?v=9" defer></script>
-  <script src="/menu.js?v=9" defer></script>
+  <script src="/footer.js?v=10" defer></script>
+  <script src="/menu.js?v=10" defer></script>
 </body>
 </html>

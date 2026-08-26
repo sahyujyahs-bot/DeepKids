@@ -33,7 +33,7 @@ export async function onRequestPost(context) {
       name: 'Purchase',
       id: razorpay_payment_id,
       phone: body.phone,
-      value: 4999
+      value: 4249
     }));
     return json({ verified: true });
   } catch (err) {

@@ -24,7 +24,7 @@ export async function onRequestPost(context) {
     // money. Must stay identical to the CATALOG in /cart.js or the
     // charge will not match the cart the visitor was shown.
     const CATALOG = {
-      'EG-001':  { name: 'EscapeGravity',           paise: 499900 },
+      'EG-001':  { name: 'EscapeGravity',           paise: 499900, off: 0.15 },
       'SCI-001': { name: 'SCI. Trading Cards',      paise: 119900, off: 0.15 },
       'EVO-001': { name: 'The Story Of Evolution',  paise: 249900, off: 0.15 }
     };
