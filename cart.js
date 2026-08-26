@@ -15,20 +15,20 @@
 (function () {
   'use strict';
 
-  var PREORDER_OFF = 0.15;
-
   /* Display prices only. /api/create-order re-prices every line from its
      SKU, so nothing charged can be edited from the browser.
 
-     `preorder` says whether it has shipped yet; `off` is the discount.
-     They started out as one thing, which meant a title could not launch
-     without its price jumping — SCI. is out now and keeps its 15%. */
+     `off` is the discount and `ships` is when it turns up. They used to
+     be one `preorder` flag, which meant a title could not go on sale
+     without its price jumping and could not be bought before it was
+     printed. All three are buyable now; only Evolution ships later. */
   var CATALOG = [
-    { sku: 'EG-001', name: 'EscapeGravity',          price: 499900, preorder: false,
+    { sku: 'EG-001', name: 'EscapeGravity',          price: 499900,
       href: '/',          img: 'eg-box-new.webp' },
-    { sku: 'SCI-001', name: 'SCI. Trading Cards',    price: 119900, preorder: false, off: 0.15,
+    { sku: 'SCI-001', name: 'SCI. Trading Cards',    price: 119900, off: 0.15,
       href: '/sci',       img: 'sci-box-front.webp' },
-    { sku: 'EVO-001', name: 'The Story Of Evolution', price: 249900, preorder: true,
+    { sku: 'EVO-001', name: 'The Story Of Evolution', price: 249900, off: 0.15,
+      ships: 'Ships as soon as it is printed',
       href: '/evolution', img: 'sp-23.webp' }
   ];
 
@@ -37,13 +37,12 @@
   function find(sku) { for (var i = 0; i < CATALOG.length; i++) if (CATALOG[i].sku === sku) return CATALOG[i]; return null; }
   /* Rounded to whole rupees, exactly as /api/create-order does it — the
      two must agree or the cart total won't match what Razorpay charges. */
-  function off(p)  { return p.off != null ? p.off : (p.preorder ? PREORDER_OFF : 0); }
+  function off(p)  { return p.off || 0; }
   function unit(p) { return Math.round(p.price * (1 - off(p)) / 100) * 100; }
   /* The line under a cart row: why this price, and when it turns up. */
   function terms(p) {
-    if (p.preorder) return 'Pre-order · ' + Math.round(off(p) * 100) + '% off applied';
-    if (off(p))     return 'Launch offer · ' + Math.round(off(p) * 100) + '% off applied';
-    return 'Ships in 3 days';
+    var when = p.ships || 'Ships in 3 days';
+    return off(p) ? Math.round(off(p) * 100) + '% off applied · ' + when : when;
   }
   function rs(paise) { return '₹' + (paise / 100).toLocaleString('en-IN'); }
   function thumb(p) { return (p.shots && p.shots[0] && p.shots[0].src) || p.img || ''; }
@@ -209,7 +208,7 @@
     '<h4>Your Cart</h4><div id="dkc-cart-lines"></div>' +
     '<div class="dkc-total" id="dkc-total-row" style="display:none"><span>Total</span><b id="dkc-total">₹0</b></div>' +
     '<button type="button" class="dkc-go" id="dkc-go" style="display:none">Checkout</button>' +
-    '<p class="dkc-note" id="dkc-note" style="display:none">Pre-order items ship as soon as they\'re printed.</p>');
+    '<p class="dkc-note" id="dkc-note" style="display:none"></p>');
   cartPop.id = 'dkc-cart-pop';
   cartPop.setAttribute('role', 'dialog');
   cartPop.setAttribute('aria-label', 'Your cart');
@@ -237,11 +236,11 @@
       document.getElementById('dkc-note').style.display = 'none';
       return;
     }
-    var total = 0, html = '', anyPre = false;
+    var total = 0, html = '', later = '';
     c.forEach(function (l) {
       var p = find(l.sku); if (!p) return;
       var u = unit(p); total += u * l.qty;
-      if (p.preorder) anyPre = true;
+      if (p.ships) later = p.ships + '.';   /* one line, whichever line it is */
       html += '<div class="dkc-line"><img src="' + thumb(p) + '" alt="" loading="lazy" decoding="async"/>' +
               '<span class="dkc-n">' + p.name +
               (window.dkWhy ? '<button type="button" class="dkc-why" aria-label="Why this price?" data-why="' + p.sku + '">?</button>' : '') +
@@ -258,7 +257,9 @@
     document.getElementById('dkc-total').textContent = rs(total);
     document.getElementById('dkc-total-row').style.display = 'flex';
     document.getElementById('dkc-go').style.display = 'block';
-    document.getElementById('dkc-note').style.display = anyPre ? 'block' : 'none';
+    var note = document.getElementById('dkc-note');
+    note.textContent = later;
+    note.style.display = later ? 'block' : 'none';
   }
 
   function wishPaint() {
@@ -274,9 +275,9 @@
       var p = find(sku); if (!p) return;
       html += '<div class="dkc-line"><img src="' + thumb(p) + '" alt="" loading="lazy" decoding="async"/>' +
               '<span class="dkc-n">' + p.name + '<small>' + rs(unit(p)) +
-              (p.preorder ? ' · pre-order' : '') + '</small></span>' +
+              '</small></span>' +
               '<button type="button" class="dkc-add" data-wadd="' + p.sku + '">' +
-              (p.preorder ? 'Pre-order' : 'Add') + '</button>' +
+              'Add' + '</button>' +
               '<button type="button" class="dkc-x" aria-label="Remove ' + p.name +
               ' from wishlist" data-wrm="' + p.sku + '">×</button></div>';
     });
@@ -513,7 +514,7 @@
   wishPaint();
 
   window.DK = {
-    CATALOG: CATALOG, PREORDER_OFF: PREORDER_OFF,
+    CATALOG: CATALOG,
     find: find, unit: unit, off: off, terms: terms, rs: rs, thumb: thumb,
     read: read, write: write, subtotal: subtotal, count: count,
     add: add, remove: remove, bump: bump, openCart: openCart, openWish: openWish,

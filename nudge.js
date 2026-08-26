@@ -20,7 +20,7 @@
        sub:   'Four billion years as one continuous story.',
        img:   'sp-23.webp', alt: '…',
        href:  '/evolution', cta: 'See the book',
-       note:  '₹2,499 · ₹2,124 on pre-order'
+       note:  '₹2,499 · ₹2,124, 15% off'
      });
 
    A queue rather than a direct call, because inline page scripts

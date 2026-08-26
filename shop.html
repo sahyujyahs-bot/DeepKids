@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Shop — DeepKids Boardgames, Card Games &amp; Picture Books</title>
-  <meta name="description" content="Buy DeepKids games and books. EscapeGravity board game ₹4,999, SCI. scientist trading cards ₹1,019 with the launch offer, and The Story Of Evolution picture book on pre-order at 15% off. Ages 7+, screen-free, made in India."/>
+  <title>Shop — DeepKids Board Games, Card Games &amp; Picture Books</title>
+  <meta name="description" content="Buy DeepKids games and books. EscapeGravity board game ₹4,999, SCI. scientist trading cards ₹1,019 with the launch offer, and The Story Of Evolution picture book ₹2,124 at 15% off. Ages 7+, screen-free, made in India."/>
   <link rel="canonical" href="https://deepkids.in/shop"/>
-  <meta property="og:title" content="Shop — DeepKids Boardgames, Card Games &amp; Picture Books"/>
-  <meta property="og:description" content="One subject each, taken all the way in. EscapeGravity and SCI. shipping now; Evolution on pre-order at 15% off."/>
+  <meta property="og:title" content="Shop — DeepKids Board Games, Card Games &amp; Picture Books"/>
+  <meta property="og:description" content="One subject each, taken all the way in. All three orderable now; Evolution ships as soon as it is printed."/>
   <meta property="og:image" content="https://deepkids.in/gift-kids-hero.webp"/>
   <meta property="og:url" content="https://deepkids.in/shop"/>
   <meta property="og:type" content="website"/>
@@ -59,6 +59,9 @@
   </script>
   <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1960497127528559&ev=PageView&noscript=1" alt=""/></noscript>
 
+  <!-- The hero art is the largest thing on the first screen, so it is
+       asked for in the head rather than discovered when the body parses. -->
+  <link rel="preload" href="hero-tall.webp" as="image" type="image/webp" fetchpriority="high"/>
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
   <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
 
@@ -285,13 +288,18 @@
       display:flex; justify-content:center; gap:6px; pointer-events:none; }
     .gal-dots i { width:6px; height:6px; border-radius:50%; background:rgba(255,255,255,.4); transition:background .2s ease, transform .2s ease; }
     .gal-dots i.on { background:#fff; transform:scale(1.35); }
+    /* Uppercase rather than small-caps: Norwester has no true small-caps,
+       so the browser was synthesising them by scaling capitals down —
+       which is what made the letters look soft. Real capitals at a real
+       size render on the pixel grid. */
     .card-badge {
       position:absolute; left:2px; top:2px; z-index:4;
-      font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px; font-size:11px;
-      padding:3px 11px; border-radius:999px;
+      font-family:var(--font-head); text-transform:uppercase;
+      letter-spacing:clamp(2px,.16vw,2.6px); font-size:clamp(11px,1.15vw,15px);
+      padding:clamp(3px,.4vw,6px) clamp(11px,1vw,15px); border-radius:999px;
+      color:#fff; background:var(--purple); box-shadow:0 2px 10px rgba(var(--purple-rgb),.5);
+      -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
     }
-    .b-now { color:#fff; background:var(--purple); box-shadow:0 2px 10px rgba(var(--purple-rgb),.5); }
-    .b-pre { color:var(--lilac); background:rgba(var(--purple-rgb),.18); border:1px solid rgba(var(--purple-rgb),.65); }
     .wish {
       position:absolute; right:2px; top:2px; z-index:4; width:36px; height:36px; border-radius:50%;
       border:1px solid rgba(255,255,255,.28); background:rgba(10,6,24,.6); cursor:pointer;
@@ -332,22 +340,16 @@
     /* 3.26% of 248px. Not a percentage on the slot: that would resolve
        against the column, not the button. */
     .buy-slot { transform:translateX(8px); }
-    /* "See the details" is now the only way through to a product page —
-       the gallery used to be one big link, so a swipe or a stray tap took
-       you off the shop. Given that, it reads as a control, not a footnote. */
-    .card-more {
-      display:flex; align-items:center; justify-content:center; gap:7px;
-      width:100%; padding:9px 18px; border-radius:999px;
-      font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px;
-      font-size:14px; color:var(--lilac); text-decoration:none;
-      border:1px solid rgba(var(--purple-rgb),.55); background:rgba(var(--purple-rgb),.12);
-      transition:background .2s ease, color .2s ease, border-color .2s ease;
-    }
-    .card-more span { transition:transform .2s ease; }
-    .card-more:hover {
-      color:#fff; background:rgba(var(--purple-rgb),.32); border-color:var(--purple);
-    }
-    .card-more:hover span { transform:translateX(3px); }
+    /* The whole card is the way through to a product page now, so it has
+       to look like it. The name is a real anchor inside it, which is what
+       a crawler and a middle-click follow. */
+    .card { cursor:pointer; }
+    .card-body h3 a { color:inherit; text-decoration:none; }
+    .card:hover .gal { transform:translateY(-3px); }
+    .card:hover .card-body h3 a { color:var(--lilac); }
+    .gal { transition:transform .25s ease; }
+    /* Everything the card click must not swallow. */
+    .card .gal-nav, .card .wish, .card .buy-slot { cursor:default; }
 
     /* ── Comics-style broken systems ──────────────────────────*/
     /* Exactly one screen: a one-line heading on top, a one-line punch at
@@ -533,18 +535,17 @@
 
 <main>
   <!-- ═══ HERO ═══ -->
-  <section class="hero">
+  <section class="hero art-fit">
     <div class="hero-top">
       <div class="wordmark" id="hero-mark">DeepKids</div>
-      <div class="hero-kinds" id="hero-kinds">Boardgames <i>·</i> Card Games <i>·</i> Picture Books</div>
+      <div class="hero-kinds" id="hero-kinds">Board Games <i>·</i> Card Games <i>·</i> Picture Books</div>
     </div>
     <div class="hero-scene">
-      <!-- Ships with the existing wide art. hero-wide / hero-tall are the
-           purpose-drawn pair (21:9 and 2:3) that stretch the full width of
-           their screen; the script below swaps whichever one matches, and
-           only after it has actually loaded — so a missing file leaves the
-           hero intact instead of breaking it. -->
-      <img id="hero-art" src="kids-playing-cut.webp" alt="Kids playing the EscapeGravity spiral board game, one of them balancing on one leg" width="1357" height="970" fetchpriority="high" decoding="async"/>
+      <!-- One drawing for every screen. It used to load the old wide art
+           first and then fetch a second, purpose-drawn one after window
+           load and swap it in — two hero downloads and a visible change
+           of picture. object-fit:contain handles the shape difference. -->
+      <img id="hero-art" src="hero-tall.webp" alt="A child mid-leap against the pull of gravity, drawn for DeepKids" width="1400" height="2030" fetchpriority="high" decoding="async"/>
     </div>
     <!-- The ticker is the hero's last row, not a section below it, so the
          whole first screen ends exactly where the hero ends. -->
@@ -556,9 +557,7 @@
   <!-- ═══ SHOP ═══ -->
   <section class="sec" id="shop" style="padding-inline:clamp(14px,3vw,32px)">
     <div class="sec-head">
-      <span class="sec-kicker rv">The shelf</span>
       <h2 class="rv">Shop <em>DeepKids</em></h2>
-      <p class="rv rv2">Three products, one subject each. Ages 7 and up, screen-free, made in small batches in India.</p>
     </div>
     <div class="grid" id="shop-grid"></div>
   </section>
@@ -667,10 +666,10 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/dkbtn.js?v=3"></script>
-<script src="/track.js?v=3"></script>
-<script src="/cart.js?v=3"></script>
-<script src="/checkout.js?v=3"></script>
+<script src="/dkbtn.js?v=4"></script>
+<script src="/track.js?v=4"></script>
+<script src="/cart.js?v=4"></script>
+<script src="/checkout.js?v=4"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
    Sound. Short Web Audio tones — no files to load, and nothing is
@@ -716,7 +715,7 @@ function dkSound(kind) {
    shop and the main page can never disagree about them. What stays
    here is shop-only: the gallery each product shows, and checkout.
    ══════════════════════════════════════════════════════════════ */
-var CATALOG = DK.CATALOG, PREORDER_OFF = DK.PREORDER_OFF;
+var CATALOG = DK.CATALOG;
 var dkFind = DK.find, dkUnit = DK.unit, dkRs = DK.rs, dkThumb = DK.thumb, dkOff = DK.off;
 var dkAdd = DK.add, dkRemove = DK.remove, dkWish = DK.wish;
 var dkCartRead = DK.read, dkCartPaint = DK.paint, dkCartToggle = DK.openCart;
@@ -726,9 +725,9 @@ var dkCartRead = DK.read, dkCartPaint = DK.paint, dkCartToggle = DK.openCart;
    no longer carry a description — the photos, the name and the price
    are the whole of it, and the details are a click away. */
 var COPY = {
-  'EG-001':  { kind:'Boardgame · 2–6 players · ages 7+' },
-  'SCI-001': { kind:'Card game · ages 7+' },
-  'EVO-001': { kind:'Picture book · kids & adults' }
+  'EG-001':  { tag:'Board game',   kind:'2–6 players · ages 7+' },
+  'SCI-001': { tag:'Card game',    kind:'42 cards · ages 8+' },
+  'EVO-001': { tag:'Picture book', kind:'51 spreads · kids & adults' }
 };
 var SHOTS = {
   'EG-001':  [{src:'eg-box-new.webp',      alt:'The EscapeGravity box, lid printed with the spiral board and a child reaching into a gravity well'},
@@ -748,7 +747,7 @@ var SHOTS = {
 CATALOG.forEach(function(p){
   p.shots = SHOTS[p.sku] || [{ src: p.img }];
   var c = COPY[p.sku] || {};
-  p.kind = c.kind || '';
+  p.kind = c.kind || ''; p.tag = c.tag || '';
 });
 
 
@@ -816,14 +815,14 @@ document.addEventListener('click', function(e){
         '<button type="button" class="gal-nav gal-prev" aria-label="Previous image" data-step="-1">‹</button>' +
         '<button type="button" class="gal-nav gal-next" aria-label="Next image" data-step="1">›</button>' +
         '<span class="gal-dots">' + dots + '</span>' +
-        '<span class="card-badge ' + (p.preorder ? 'b-pre">Pre-order' : 'b-now">Shipping now') + '</span>' +
+        '<span class="card-badge">' + p.tag + '</span>' +
         '<button type="button" class="wish' + (wish.indexOf(p.sku) > -1 ? ' on' : '') + '" aria-label="Save ' + p.name + '" data-wish="' + p.sku + '">' +
           '<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-9.2A4.1 4.1 0 0 1 12 8a4.1 4.1 0 0 1 7 2.8C19 15.6 12 20 12 20z"/></svg>' +
         '</button>' +
       '</div>' +
       '<div class="card-body">' +
         '<span class="card-kind">' + p.kind + '</span>' +
-        '<h3>' + p.name + '</h3>' +
+        '<h3><a href="' + p.href + '" data-go="' + p.sku + '">' + p.name + '</a></h3>' +
         /* Keyed on the discount, not on pre-order: SCI. ships now and
            still holds its 15%, so the two had to come apart. */
         '<div class="card-price"><span class="now">' + dkRs(unit) + '</span>' +
@@ -831,10 +830,7 @@ document.addEventListener('click', function(e){
             Math.round(dkOff(p) * 100) + '% off</span>' : '') +
         '</div>' +
         '<div class="card-cta">' +
-          '<div class="buy-slot"><button type="button" class="card-buy" data-dk-btn="' +
-            (p.preorder ? 'Pre-Order' : 'Add To Cart') + '" data-add="' + p.sku + '"></button></div>' +
-          '<a class="card-more" href="' + p.href + '" target="_blank" rel="noopener" data-go="' + p.sku + '">' +
-            'See the details <span>&rarr;</span></a>' +
+          '<div class="buy-slot"><button type="button" class="card-buy" data-dk-btn="Add To Cart" data-add="' + p.sku + '"></button></div>' +
         '</div>' +
       '</div>';
     g.appendChild(card);
@@ -843,16 +839,42 @@ document.addEventListener('click', function(e){
   /* data-add and data-wish are handled once, in /cart.js. Handling them
      here too fired every click twice — two units added, a wishlist that
      toggled straight back off. */
-  g.addEventListener('click', function(e){
-    var go = e.target.closest('[data-go]');
-    if (go) {
-      var sku = go.getAttribute('data-go');
-      dkSound('click');
-      egGtag('event', 'select_item', { event_category: 'ecommerce', event_label: sku, item_id: sku });
-      egFbq('trackCustom', 'ProductClick', { product: sku });
-      // Opens in a new tab (target=_blank), so this page — and the cart —
-      // is still sitting here when they come back.
+  /* ── The card is the link ──────────────────────────────────
+     Anywhere on it goes to the product page, except the controls
+     sitting on top of it: the gallery arrows, the wishlist heart and
+     Add To Cart. A swipe across the photos ends in a click too, so a
+     drag of more than a few pixels is not treated as one. */
+  var dragged = false;
+  g.addEventListener('pointerdown', function(e){
+    dragged = false;
+    var x0 = e.clientX, y0 = e.clientY;
+    function watch(ev){ if (Math.abs(ev.clientX - x0) + Math.abs(ev.clientY - y0) > 10) dragged = true; }
+    function done(){
+      g.removeEventListener('pointermove', watch);
+      g.removeEventListener('pointerup', done);
+      g.removeEventListener('pointercancel', done);
     }
+    g.addEventListener('pointermove', watch);
+    g.addEventListener('pointerup', done);
+    g.addEventListener('pointercancel', done);
+  });
+
+  g.addEventListener('click', function(e){
+    var card = e.target.closest('.card');
+    if (!card || dragged) return;
+    if (e.target.closest('.gal-nav, .wish, .buy-slot, [data-add], [data-wish], button')) return;
+
+    var link = card.querySelector('h3 a');
+    if (!link) return;
+    var sku = link.getAttribute('data-go');
+    dkSound('click');
+    egGtag('event', 'select_item', { event_category: 'ecommerce', event_label: sku, item_id: sku });
+    egFbq('trackCustom', 'ProductClick', { product: sku });
+    /* Let a real click on the anchor do its own thing — including
+       middle-click and cmd-click, which this must not steal. */
+    if (e.target.closest('h3 a')) return;
+    e.preventDefault();
+    location.href = link.getAttribute('href');
   });
   // Arrows step the strip; the dots follow whatever the strip is showing,
   // so swiping and clicking stay in sync.
@@ -1095,32 +1117,10 @@ if ('IntersectionObserver' in window) {
 
 DK.wishPaint();
 
-/* ══ Hero art: the right shape for the screen ══
-   A wide 21:9 drawing letterboxes badly on a phone and a tall 2:3 one
-   wastes a desktop, so there are two. Probed rather than declared with
-   <picture> so the page still renders the existing art if a file is
-   missing, and probed after load so it never delays the first paint. */
-window.addEventListener('load', function() {
-  var el = document.getElementById('hero-art');
-  if (!el) return;
-  var want = matchMedia('(min-width:769px)').matches
-    ? { src:'hero-wide.webp', w:3136, h:1344 }
-    : { src:'hero-tall.webp', w:1400, h:2030 };
-  var probe = new Image();
-  probe.onload = function() {
-    el.width = want.w; el.height = want.h; el.src = want.src;
-    /* Art drawn for this shape — the scene can fill its row now, and the
-       spread-the-space fallback above turns itself off. */
-    var hero = document.querySelector('.hero');
-    if (hero) hero.classList.add('art-fit');
-  };
-  probe.src = want.src;
-});
-
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
-  <script src="/footer.js?v=3" defer></script>
-  <script src="/menu.js?v=3" defer></script>
+  <script src="/footer.js?v=4" defer></script>
+  <script src="/menu.js?v=4" defer></script>
 </body>
 </html>
