@@ -18,17 +18,14 @@
   /* Display prices only. /api/create-order re-prices every line from its
      SKU, so nothing charged can be edited from the browser.
 
-     `off` is the discount and `ships` is when it turns up. They used to
-     be one `preorder` flag, which meant a title could not go on sale
-     without its price jumping and could not be bought before it was
-     printed. All three are buyable now; only Evolution ships later. */
+     `off` is the discount. Nothing here claims a delivery time any
+     more — that is answered from the visitor's own pincode, below. */
   var CATALOG = [
     { sku: 'EG-001', name: 'EscapeGravity',          price: 499900,
       href: '/',          img: 'eg-box-new.webp' },
     { sku: 'SCI-001', name: 'SCI. Trading Cards',    price: 119900, off: 0.15,
       href: '/sci',       img: 'sci-box-front.webp' },
     { sku: 'EVO-001', name: 'The Story Of Evolution', price: 249900, off: 0.15,
-      ships: 'Ships as soon as it is printed',
       href: '/evolution', img: 'sp-23.webp' }
   ];
 
@@ -39,11 +36,79 @@
      two must agree or the cart total won't match what Razorpay charges. */
   function off(p)  { return p.off || 0; }
   function unit(p) { return Math.round(p.price * (1 - off(p)) / 100) * 100; }
-  /* The line under a cart row: why this price, and when it turns up. */
+  /* The line under a cart row. Only the price story — when it arrives is
+     the pincode's answer, not a promise made to everyone alike. */
   function terms(p) {
-    var when = p.ships || 'Ships in 3 days';
-    return off(p) ? Math.round(off(p) * 100) + '% off applied · ' + when : when;
+    return off(p) ? Math.round(off(p) * 100) + '% off applied' : '';
   }
+  /* ── When it arrives ───────────────────────────────────────
+     Three days to pack and hand it over, then transit that depends on
+     how far out the pincode is. Nowhere on the site promises a
+     delivery time any more; this answers it per visitor instead.
+
+     Keyed on the first three digits, which is the sorting district —
+     as fine as this needs to be. Anything not listed is treated as the
+     furthest tier, so an unknown pincode is quoted long rather than
+     short. */
+  var DISPATCH = 3;
+  var TRANSIT = { metro: 3, tier2: 5, tier3: 7 };
+
+  var METRO = ('110 121 122 201 ' +                    /* Delhi NCR      */
+               '400 401 410 421 411 412 ' +            /* Mumbai, Pune   */
+               '700 711 ' +                            /* Kolkata        */
+               '600 ' +                                /* Chennai        */
+               '560 562 ' +                            /* Bengaluru      */
+               '500 501 ' +                            /* Hyderabad      */
+               '380 382').split(' ');                  /* Ahmedabad      */
+
+  var TIER2 = ('302 305 313 324 334 342 ' +                        /* Rajasthan    */
+               '226 208 282 221 211 250 243 244 202 273 284 281 247 251 ' +  /* UP     */
+               '440 422 431 413 416 444 414 ' +                    /* Maharashtra  */
+               '452 462 482 474 456 ' +                            /* MP           */
+               '390 391 395 360 361 364 388 ' +                    /* Gujarat      */
+               '641 625 620 636 638 632 605 ' +                    /* Tamil Nadu   */
+               '682 695 680 673 691 ' +                            /* Kerala       */
+               '520 530 522 517 524 506 ' +                        /* Andhra, Tel. */
+               '570 575 580 590 577 585 583 572 ' +                /* Karnataka    */
+               '751 753 769 ' +                                    /* Odisha       */
+               '800 823 812 842 ' +                                /* Bihar        */
+               '834 831 826 827 ' +                                /* Jharkhand    */
+               '492 490 495 ' +                                    /* Chhattisgarh */
+               '141 143 144 147 151 160 ' +                        /* Punjab, Chd. */
+               '124 125 131 132 134 135 ' +                        /* Haryana      */
+               '248 249 171 180 190 781 734 713 403').split(' ');   /* rest         */
+
+  function tierOf(pin) {
+    var p = String(pin).slice(0, 3);
+    if (METRO.indexOf(p) > -1) return 'metro';
+    if (TIER2.indexOf(p) > -1) return 'tier2';
+    return 'tier3';
+  }
+  /* Every Indian pincode is six digits and none start with 0 or 9. */
+  function validPin(pin) { return /^[1-8]\d{5}$/.test(String(pin || '').trim()); }
+
+  var DAY = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  var MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+  function eta(pin) {
+    if (!validPin(pin)) return null;
+    var tier = tierOf(pin);
+    var days = DISPATCH + TRANSIT[tier];
+    var d = new Date();
+    d.setDate(d.getDate() + days);
+    return {
+      pin: String(pin).trim(),
+      tier: tier,
+      days: days,
+      date: d,
+      text: DAY[d.getDay()] + ', ' + d.getDate() + ' ' + MON[d.getMonth()]
+    };
+  }
+
+  var PIN_KEY = 'dk-pin';
+  function pinRead()  { try { return localStorage.getItem(PIN_KEY) || ''; } catch (e) { return ''; } }
+  function pinWrite(v) { try { localStorage.setItem(PIN_KEY, v); } catch (e) {} }
+
   function rs(paise) { return '₹' + (paise / 100).toLocaleString('en-IN'); }
   function thumb(p) { return (p.shots && p.shots[0] && p.shots[0].src) || p.img || ''; }
   function sound(k) { if (window.dkSound) window.dkSound(k); }
@@ -115,7 +180,25 @@
       'border-radius:999px;padding:11px;transition:filter .2s ease}',
     '.dkc-go:hover{filter:brightness(1.08)}',
     '.dkc-empty{font-size:13.5px;color:rgba(255,255,255,.55);padding:6px 0 10px;font-family:"Futura","Segoe UI",sans-serif}',
-    '.dkc-note{font-size:11.5px;color:rgba(255,255,255,.55);text-align:center;margin:9px 0 0;font-family:"Futura","Segoe UI",sans-serif}',
+
+    /* ── Delivery estimate ── shared by the cart drawer, the checkout
+       popup and the product blocks, so all three answer alike. */
+    '.dk-eta{font-family:"Futura","Segoe UI",sans-serif;margin-top:12px}',
+    '.dk-eta-row{display:flex;gap:7px;align-items:center}',
+    '.dk-eta input{flex:1 1 auto;min-width:0;width:100%;padding:9px 12px;border-radius:10px;',
+      'background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.22);',
+      'color:#fff;font-family:inherit;font-size:14px;outline:none;',
+      'transition:border-color .2s ease,box-shadow .2s ease}',
+    '.dk-eta input::placeholder{color:rgba(255,255,255,.42)}',
+    '.dk-eta input:focus{border-color:#aa59c8;box-shadow:0 0 0 3px rgba(170,89,200,.2)}',
+    '.dk-eta button{flex:0 0 auto;cursor:pointer;border:1px solid rgba(205,158,223,.5);',
+      'background:rgba(170,89,200,.16);color:#cd9edf;border-radius:10px;padding:9px 14px;',
+      'font-family:"Norwester",sans-serif;font-variant:small-caps;letter-spacing:1.5px;font-size:13px;',
+      'transition:background .2s ease,color .2s ease}',
+    '.dk-eta button:hover{background:rgba(170,89,200,.38);color:#fff}',
+    '.dk-eta-out{font-size:12.5px;line-height:1.45;margin-top:7px;color:rgba(255,255,255,.6);min-height:1.2em}',
+    '.dk-eta-out b{color:#cd9edf;font-weight:normal}',
+    '.dk-eta-out.err{color:#ff9a9a}',
     '.dkc-add{flex-shrink:0;cursor:pointer;border:0;border-radius:999px;padding:6px 13px;',
       'font-family:"Norwester",sans-serif;font-variant:small-caps;letter-spacing:1.2px;font-size:13px;',
       'color:#fff;background:#aa59c8;transition:filter .2s ease}',
@@ -208,7 +291,7 @@
     '<h4>Your Cart</h4><div id="dkc-cart-lines"></div>' +
     '<div class="dkc-total" id="dkc-total-row" style="display:none"><span>Total</span><b id="dkc-total">₹0</b></div>' +
     '<button type="button" class="dkc-go" id="dkc-go" style="display:none">Checkout</button>' +
-    '<p class="dkc-note" id="dkc-note" style="display:none"></p>');
+    '<div id="dkc-eta" style="display:none"></div>');
   cartPop.id = 'dkc-cart-pop';
   cartPop.setAttribute('role', 'dialog');
   cartPop.setAttribute('aria-label', 'Your cart');
@@ -233,14 +316,13 @@
       lines.innerHTML = '<p class="dkc-empty">Nothing in here yet.</p>';
       document.getElementById('dkc-total-row').style.display = 'none';
       document.getElementById('dkc-go').style.display = 'none';
-      document.getElementById('dkc-note').style.display = 'none';
+      document.getElementById('dkc-eta').style.display = 'none';
       return;
     }
-    var total = 0, html = '', later = '';
+    var total = 0, html = '';
     c.forEach(function (l) {
       var p = find(l.sku); if (!p) return;
       var u = unit(p); total += u * l.qty;
-      if (p.ships) later = p.ships + '.';   /* one line, whichever line it is */
       html += '<div class="dkc-line"><img src="' + thumb(p) + '" alt="" loading="lazy" decoding="async"/>' +
               '<span class="dkc-n">' + p.name +
               (window.dkWhy ? '<button type="button" class="dkc-why" aria-label="Why this price?" data-why="' + p.sku + '">?</button>' : '') +
@@ -257,9 +339,62 @@
     document.getElementById('dkc-total').textContent = rs(total);
     document.getElementById('dkc-total-row').style.display = 'flex';
     document.getElementById('dkc-go').style.display = 'block';
-    var note = document.getElementById('dkc-note');
-    note.textContent = later;
-    note.style.display = later ? 'block' : 'none';
+    /* Built the first time the cart has something in it, not on every
+       repaint — a repaint would wipe what is being typed. */
+    var etaBox = document.getElementById('dkc-eta');
+    etaBox.style.display = 'block';
+    etaWidget(etaBox);
+  }
+
+  /* ── The pincode widget ────────────────────────────────────
+     Renders into any element and answers as you type. The pincode is
+     remembered, so checking it once in the cart fills it in on the
+     product page and in the checkout form too.
+
+     `opts.compact` drops the button and the label — for the checkout
+     form, where there is already a pincode field to read from. */
+  function etaWidget(mount, opts) {
+    var host = typeof mount === 'string' ? document.querySelector(mount) : mount;
+    if (!host || host.dataset.dkEta === '1') return;
+    host.dataset.dkEta = '1';
+    opts = opts || {};
+
+    host.classList.add('dk-eta');
+    host.innerHTML =
+        '<div class="dk-eta-row">'
+      +   '<input type="text" inputmode="numeric" maxlength="6" autocomplete="postal-code"'
+      +   ' aria-label="Pincode" placeholder="' + (opts.placeholder || 'Pincode for a delivery date') + '"/>'
+      +   '<button type="button">Check</button>'
+      + '</div>'
+      + '<p class="dk-eta-out" role="status"></p>';
+
+    var input = host.querySelector('input');
+    var out = host.querySelector('.dk-eta-out');
+
+    function show() {
+      var v = input.value.replace(/\D/g, '').slice(0, 6);
+      if (input.value !== v) input.value = v;
+      if (!v) { out.textContent = ''; out.className = 'dk-eta-out'; return; }
+      if (v.length < 6) { out.textContent = ''; out.className = 'dk-eta-out'; return; }
+      var e = eta(v);
+      if (!e) {
+        out.textContent = 'That does not look like an Indian pincode.';
+        out.className = 'dk-eta-out err';
+        return;
+      }
+      pinWrite(v);
+      out.innerHTML = 'Arrives by <b>' + e.text + '</b> &middot; ' + e.days + ' days';
+      out.className = 'dk-eta-out';
+      if (opts.onFound) opts.onFound(e);
+    }
+
+    input.addEventListener('input', show);
+    host.querySelector('button').addEventListener('click', show);
+    input.addEventListener('keydown', function (ev) { if (ev.key === 'Enter') { ev.preventDefault(); show(); } });
+
+    var saved = pinRead();
+    if (saved) { input.value = saved; show(); }
+    return { refresh: show, input: input };
   }
 
   function wishPaint() {
@@ -521,6 +656,7 @@
     wish: wish, wishRead: wishRead, wishDrop: wishDrop, wishAdd: wishAdd,
     paint: paint, wishPaint: wishPaint, syncHearts: syncHearts,
     user: userRead,
+    eta: eta, etaWidget: etaWidget, pin: pinRead,
     /* What /api/create-order wants: SKUs and quantities, never prices. */
     items: function () { return read().map(function (l) { return { sku: l.sku, qty: l.qty }; }); }
   };

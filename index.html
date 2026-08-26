@@ -267,7 +267,7 @@
       {
         "@type": "Question",
         "name": "How much does EscapeGravity cost?",
-        "acceptedAnswer": { "@type": "Answer", "text": "EscapeGravity is available to order at ₹4,999 — the full retail price. Delivered to your door within 3 days of ordering." }
+        "acceptedAnswer": { "@type": "Answer", "text": "EscapeGravity is available to order at ₹4,999 — the full retail price, with free delivery anywhere in India. Enter your pincode in the cart for the delivery date." }
       },
       {
         "@type": "Question",
@@ -1109,7 +1109,7 @@
   <a href="/" class="eg-nav-logo">EscapeGravity<span class="eg-nav-logo-by">by <b>DeepKids</b></span></a>
   <div class="eg-nav-right">
     <a href="/how-to-play" class="eg-nav-link">How To Play</a>
-<button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" data-add="EG-001"></button>
+<button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" data-goto="s-buy"></button>
     <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="eg-nav-menu" onclick="egToggleMenu()">
       <span></span><span></span><span></span>
     </button>
@@ -1153,58 +1153,9 @@
       </div>
       <p class="subtitle">Board Game <span class="sub-dot">&middot;</span> Physical Challenges <span class="sub-dot">&middot;</span> Science</p>
       <h1 class="title">EscapeGravity<sup class="hero-tm">by <b><span style="font-size:1.15em">D</span>eep<span style="font-size:1.15em">K</span>ids</b></sup></h1>
-      <div class="btn-wrap" data-add="EG-001">
-      <svg class="btn-svg" viewBox="0 0 360 108" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="dk-green-grad" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stop-color="#cd9edf"/>
-            <stop offset="45%" stop-color="#aa59c8"/>
-            <stop offset="100%" stop-color="#793194"/>
-          </linearGradient>
-          <linearGradient id="dk-highlight" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
-            <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-          </linearGradient>
-        </defs>
-        <!-- 1. K dark borders first — they go behind the D fill.
-             K fins end aligned with D top/bottom edges (y=17 and y=91 so round linecap
-             stroke extends to exactly y=7 and y=101 matching D path). -->
-        <line x1="268" y1="54" x2="324" y2="17"
-              stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-        <line x1="268" y1="54" x2="324" y2="91"
-              stroke="#6b2155" stroke-width="20" stroke-linecap="round"/>
-
-        <!-- 2. D border stroke — drawn over K dark borders -->
-        <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z"
-              fill="none" stroke="#6b2155" stroke-width="9"/>
-
-        <!-- 3. D green fill with gradient -->
-        <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z"
-              fill="url(#dk-green-grad)"/>
-
-        <!-- 4. K green fills on top -->
-        <line x1="268" y1="54" x2="321" y2="19"
-              stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-        <line x1="268" y1="54" x2="321" y2="89"
-              stroke="#aa59c8" stroke-width="13" stroke-linecap="round"/>
-
-        <!-- 5. 3D lighter green streak highlight on D top -->
-        <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z"
-              fill="url(#dk-highlight)"/>
-        <!-- Highlight on K top arm -->
-
-        <!-- 6. Thin purple inner outline — inside the D pill and
-             down the centre of each K fin -->
-        <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z"
-              fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
-        <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-        <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
-      </svg>
-      <span class="btn-label">Order Now</span>
-    </div>
-    <div class="hero-offer-badge eg-fade-in" style="margin-right: clamp(22px, 3.4vw, 42px);">
-      <span class="hero-offer-price">₹4,999</span>&nbsp;·&nbsp;<a href="#s-worth" class="hero-offer-why">Why ₹4,999?</a>
-    </div>
+      <!-- No button or price here: the product block on the very next
+           screen carries both, and having them twice on the way in
+           made the hero a second, weaker version of it. -->
   </div>
 
   <!-- Replay button — bottom right -->
@@ -10598,7 +10549,7 @@
         How much does EscapeGravity cost?
         <svg class="faq-arrow" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="#aa59c8" stroke-width="2" stroke-linecap="round"/></svg>
       </div>
-      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available to order at <em>₹4,999</em> — the full retail price. Delivered to your door within <em>3 days</em> of ordering. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
+      <div class="faq-a"><div class="faq-a-inner">EscapeGravity is available to order at <em>₹4,999</em> — the full retail price, with <em>free delivery</em> anywhere in India. Enter your pincode in the cart to see the date it arrives. Pay securely online via Razorpay (cards, UPI, netbanking, wallets) — your payment is confirmed instantly.</div></div>
     </div>
 
     <div class="faq-item eg-fade-in">
@@ -11391,7 +11342,7 @@ if ('requestIdleCallback' in window) {
   }
 </style>
 <div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
-  <button type="button" class="eg-mobile-preorder-btn" data-add="EG-001">
+  <button type="button" class="eg-mobile-preorder-btn" data-goto="s-buy">
     <svg class="btn-svg" viewBox="0 0 339 108" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
@@ -11424,8 +11375,11 @@ if ('requestIdleCallback' in window) {
   var navPt = document.querySelector('.eg-nav-playtest');
   var navCta = document.querySelector('.eg-nav-cta');
 
+  /* Two screens down, not one: the first is the hero and the second is
+     the product block itself, which already has its own button. The
+     floating one is for people who have read past both. */
   function toggle(){
-    var past = window.pageYOffset > window.innerHeight * 0.85;
+    var past = window.pageYOffset > window.innerHeight * 2;
     if (el) {
       el.classList.toggle('visible', past);
       el.setAttribute('aria-hidden', past ? 'false' : 'true');
@@ -11436,6 +11390,19 @@ if ('requestIdleCallback' in window) {
   window.addEventListener('scroll', toggle, {passive: true});
   window.addEventListener('resize', toggle);
   toggle();
+
+  /* Both floating buttons take you back to the product block rather than
+     adding blind. Everything needed to decide — photos, price, quantity,
+     the delivery date — is there, and the Add To Cart is right in it. */
+  document.addEventListener('click', function(e){
+    var g = e.target.closest && e.target.closest('[data-goto]');
+    if (!g) return;
+    e.preventDefault();
+    var target = document.getElementById(g.getAttribute('data-goto'));
+    if (!target) return;
+    if (window.egLandOn) window.egLandOn(target);
+    else target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
 })();
 </script>
 
@@ -12761,13 +12728,13 @@ if ('requestIdleCallback' in window) {
   alt2:  "<b>Launching next: The Story Of Evolution picture book.</b> <a href=\"/evolution\">See the book →</a>"
 });
 </script>
-  <script src="/dkbtn.js?v=4" defer></script>
-  <script src="/productblock.js?v=4" defer></script>
-  <script src="/nudge.js?v=4" defer></script>
-  <script src="/track.js?v=4" defer></script>
-  <script src="/cart.js?v=4" defer></script>
-  <script src="/checkout.js?v=4" defer></script>
-  <script src="/footer.js?v=4" defer></script>
-  <script src="/menu.js?v=4" defer></script>
+  <script src="/dkbtn.js?v=5" defer></script>
+  <script src="/productblock.js?v=5" defer></script>
+  <script src="/nudge.js?v=5" defer></script>
+  <script src="/track.js?v=5" defer></script>
+  <script src="/cart.js?v=5" defer></script>
+  <script src="/checkout.js?v=5" defer></script>
+  <script src="/footer.js?v=5" defer></script>
+  <script src="/menu.js?v=5" defer></script>
 </body>
 </html>
