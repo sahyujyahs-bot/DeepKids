@@ -1150,7 +1150,22 @@
       let W, H;
       const resize = () => { W = cv.width = innerWidth; H = cv.height = innerHeight; };
       resize();
-      addEventListener('resize', () => { resize(); rebuildWalls(); });
+      /* A phone's URL bar sliding away and back fires resize with a
+         height change of 50-120px and no width change. Rebuilding the
+         floor for that raised it above cards already at rest, which then
+         fell straight through it and kept falling — which is why the hero
+         looked half empty on the way back up the page. Ignore the jitter,
+         and after a real resize put back anything the new floor left
+         underneath it. */
+      let lastW = innerWidth, lastH = innerHeight;
+      addEventListener('resize', () => {
+        const dw = Math.abs(innerWidth - lastW), dh = Math.abs(innerHeight - lastH);
+        if (!dw && dh < 140) return;
+        lastW = innerWidth; lastH = innerHeight;
+        resize();
+        rebuildWalls();
+        rescueStrays(20);
+      });
 
       /* Rain cards are rendered as real DOM <img> elements (not
          canvas-drawn) so they stay pixel-sharp on high-DPR mobile
@@ -1267,6 +1282,7 @@
       const engine = Engine.create({ gravity: { x: 0, y: 4, scale: 0.001 } });
       const world  = engine.world;
       let walls    = [];
+      let mcRef    = null;   /* set once the mouse constraint exists */
 
       /* ── Hero rain sound — single swoosh file per falling element ─
          Plays the user-provided swoosh WAV once for each card the
@@ -1357,6 +1373,30 @@
             _start();
           }
         } catch(e){}
+      }
+
+      /* Anything that has left the world goes back on the pile. Bodies
+         get out two ways: a resize moves the floor up past them, and a
+         long spell in a background tab lets the physics catch up in one
+         enormous step, which tunnels them through it. Same cure either
+         way, so this is checked on resize and on a slow loop.
+
+         Cards still waiting for their release timer are static and above
+         the screen on purpose, and whatever is being dragged belongs to
+         the pointer — neither is a stray. */
+      function rescueStrays(margin) {
+        const held = (typeof mcRef !== 'undefined' && mcRef && mcRef.body) || null;
+        physEntries.forEach(en => {
+          const b = en.body, p = b.position;
+          if (b.isStatic || b === held) return;
+          if (p.y <= H + margin && p.y >= -H * 4 && p.x >= -400 && p.x <= W + 400) return;
+          Body.setPosition(b, {
+            x: Math.min(Math.max(p.x, en.dW / 2 + 8), Math.max(en.dW / 2 + 8, W - en.dW / 2 - 8)),
+            y: H - en.dH / 2 - 6
+          });
+          Body.setVelocity(b, { x: 0, y: 0 });
+          Body.setAngularVelocity(b, 0);
+        });
       }
 
       function rebuildWalls() {
@@ -1553,7 +1593,7 @@
         cv.removeEventListener('touchmove', mouse.mousemove);
         cv.removeEventListener('touchstart', mouse.mousedown);
 
-        const mc = MouseConstraint.create(engine, {
+        const mc = mcRef = MouseConstraint.create(engine, {
           mouse,
           constraint: {
             stiffness:        0.18,
@@ -1700,7 +1740,11 @@
           });
         });
 
-        Runner.run(Runner.create(), engine);
+        /* Fixed timestep: with the default variable one, coming back to
+           a tab that has been in the background hands Matter a single
+           enormous delta and the cards tunnel straight through the
+           floor. */
+        Runner.run(Runner.create({ isFixed: true }), engine);
         initFloaters();
         spawnRain();   /* ← first rain */
         loop();
@@ -1824,6 +1868,9 @@
       /* ── Render loop ────────────────────────────────────────── */
       function loop() {
         t++;
+        /* Twice a second is plenty to catch an escapee, and costs
+           nothing on the frames in between. */
+        if (t % 30 === 0) rescueStrays(300);
         initFloaters();
         drawBackground();
         drawPhysics();
@@ -12569,13 +12616,13 @@ if ('requestIdleCallback' in window) {
   alt2:  "<b>Launching next: The Story Of Evolution picture book.</b> <a href=\"/evolution\">See the book →</a>"
 });
 </script>
-  <script src="/dkbtn.js?v=6" defer></script>
-  <script src="/productblock.js?v=6" defer></script>
-  <script src="/nudge.js?v=6" defer></script>
-  <script src="/track.js?v=6" defer></script>
-  <script src="/cart.js?v=6" defer></script>
-  <script src="/checkout.js?v=6" defer></script>
-  <script src="/footer.js?v=6" defer></script>
-  <script src="/menu.js?v=6" defer></script>
+  <script src="/dkbtn.js?v=7" defer></script>
+  <script src="/productblock.js?v=7" defer></script>
+  <script src="/nudge.js?v=7" defer></script>
+  <script src="/track.js?v=7" defer></script>
+  <script src="/cart.js?v=7" defer></script>
+  <script src="/checkout.js?v=7" defer></script>
+  <script src="/footer.js?v=7" defer></script>
+  <script src="/menu.js?v=7" defer></script>
 </body>
 </html>

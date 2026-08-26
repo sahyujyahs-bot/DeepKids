@@ -191,6 +191,7 @@
       'transition:border-color .2s ease,box-shadow .2s ease}',
     '.dk-eta input::placeholder{color:rgba(255,255,255,.42)}',
     '.dk-eta input:focus{border-color:#aa59c8;box-shadow:0 0 0 3px rgba(170,89,200,.2)}',
+    '.dk-eta input.bad,.dk-eta input.bad:focus{border-color:#ff6b6b;box-shadow:0 0 0 3px rgba(255,107,107,.22)}',
     '.dk-eta button{flex:0 0 auto;cursor:pointer;border:1px solid rgba(205,158,223,.5);',
       'background:rgba(170,89,200,.16);color:#cd9edf;border-radius:10px;padding:9px 14px;',
       'font-family:"Norwester",sans-serif;font-variant:small-caps;letter-spacing:1.5px;font-size:13px;',
@@ -371,30 +372,45 @@
     var input = host.querySelector('input');
     var out = host.querySelector('.dk-eta-out');
 
-    function show() {
+    /* `settled` is true once they have finished — pressed Check, hit
+       Enter, or left the field. Half a pincode is only wrong once they
+       have stopped typing it, so the red waits for that; a full six
+       digits that are not an Indian pincode is wrong straight away. */
+    function show(settled) {
       var v = input.value.replace(/\D/g, '').slice(0, 6);
       if (input.value !== v) input.value = v;
-      if (!v) { out.textContent = ''; out.className = 'dk-eta-out'; return; }
-      if (v.length < 6) { out.textContent = ''; out.className = 'dk-eta-out'; return; }
-      var e = eta(v);
-      if (!e) {
-        out.textContent = 'That does not look like an Indian pincode.';
+      function bad(msg) {
+        input.classList.add('bad');
+        out.textContent = msg;
         out.className = 'dk-eta-out err';
+      }
+      input.classList.remove('bad');
+      if (!v) {
+        out.textContent = ''; out.className = 'dk-eta-out';
+        if (settled) input.classList.add('bad');
         return;
       }
+      if (v.length < 6) {
+        if (settled) bad('A pincode is six digits.');
+        else { out.textContent = ''; out.className = 'dk-eta-out'; }
+        return;
+      }
+      var e = eta(v);
+      if (!e) { bad('That does not look like an Indian pincode.'); return; }
       pinWrite(v);
       out.innerHTML = 'Arrives by <b>' + e.text + '</b> &middot; ' + e.days + ' days';
       out.className = 'dk-eta-out';
       if (opts.onFound) opts.onFound(e);
     }
 
-    input.addEventListener('input', show);
-    host.querySelector('button').addEventListener('click', show);
-    input.addEventListener('keydown', function (ev) { if (ev.key === 'Enter') { ev.preventDefault(); show(); } });
+    input.addEventListener('input', function () { show(false); });
+    input.addEventListener('blur',  function () { show(true); });
+    host.querySelector('button').addEventListener('click', function () { show(true); });
+    input.addEventListener('keydown', function (ev) { if (ev.key === 'Enter') { ev.preventDefault(); show(true); } });
 
     var saved = pinRead();
-    if (saved) { input.value = saved; show(); }
-    return { refresh: show, input: input };
+    if (saved) { input.value = saved; show(false); }
+    return { refresh: function () { show(false); }, input: input };
   }
 
   function wishPaint() {

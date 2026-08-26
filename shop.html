@@ -219,6 +219,10 @@
       font-size:clamp(10.5px,1.4vw,12.5px); letter-spacing:4px; color:var(--gold); margin-bottom:9px; }
     .sec-head h2 { font-size:clamp(28px,5.2vw,52px); color:#fff; text-shadow:0 0 30px rgba(var(--purple-rgb),.45); }
     .sec-head h2 em { font-style:normal; color:var(--lilac); }
+    /* One line at every width. The shop heading is the longest on the
+       page, so it is sized against its own length rather than the
+       shared clamp, which broke it in two on a phone. */
+    .shop-h2 { white-space:nowrap; font-size:clamp(17px,4.6vw,46px); }
     .sec-lede { max-width:640px; margin-top:14px; color:var(--ink); font-size:clamp(14.5px,1.9vw,17px); }
     .sec-head p { max-width:620px; margin:14px auto 0; color:var(--ink); font-size:clamp(14.5px,1.9vw,17px); }
 
@@ -350,71 +354,6 @@
     .gal { transition:transform .25s ease; }
     /* Everything the card click must not swallow. */
     .card .gal-nav, .card .wish, .card .buy-slot { cursor:default; }
-
-    /* ── Comics-style broken systems ──────────────────────────*/
-    /* Exactly one screen: a one-line heading on top, a one-line punch at
-       the bottom, and the pictures taking every pixel in between. Nothing
-       spills past the fold at any viewport. */
-    .comic {
-      height:100svh; display:grid; grid-template-rows:auto 1fr auto;
-      padding-block:clamp(62px,9svh,92px) clamp(12px,2.2svh,24px);
-      gap:clamp(10px,1.8svh,20px);
-    }
-    .comic .sec-head { margin-bottom:0; }
-    /* Sized off the viewport width and locked to a single line — the old
-       two-line heading was what pushed this section past the fold. */
-    .comic .sec-head h2 { white-space:nowrap; font-size:clamp(19px,5.2vw,50px); }
-    .comic-strip {
-      display:grid; grid-template-columns:1fr; grid-template-rows:1fr 1fr;
-      gap:clamp(10px,1.6vw,18px); min-height:0;
-    }
-    @media (min-width:900px){ .comic-strip { grid-template-columns:1fr 1fr; grid-template-rows:1fr; } }
-    .frame {
-      position:relative; overflow:hidden; border-radius:14px;
-      border:3px solid rgba(255,255,255,.9); background:#0d0722;
-      height:100%; min-height:0;
-      display:flex; align-items:flex-end;
-      box-shadow:0 20px 44px rgba(0,0,0,.6);
-    }
-    .frame > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center 22%; }
-    .frame::after {
-      content:''; position:absolute; inset:0;
-      background:linear-gradient(180deg,rgba(8,5,20,.25) 0%,rgba(8,5,20,.05) 30%,rgba(8,5,20,.86) 76%,rgba(8,5,20,.97) 100%);
-    }
-    /* One line of caption, sitting on the picture. The paragraph that used
-       to live here ate the frame; the picture is the argument. */
-    .frame-cap {
-      position:relative; z-index:2; padding:clamp(12px,2vw,22px); width:100%;
-    }
-    .frame-cap h3 {
-      font-size:clamp(15px,3vw,32px); line-height:1.15; color:#fff;
-      text-shadow:0 3px 14px rgba(0,0,0,.9);
-    }
-    .frame-cap h3 em { font-style:normal; color:var(--rose); }
-    /* Stand-in art for the school frame until problem-education.jpg lands */
-    .sheetwall { position:absolute; inset:0; overflow:hidden; }
-    .sheetwall-in {
-      position:absolute; inset:-14% -8%;
-      display:grid; grid-template-columns:repeat(auto-fill,minmax(70px,1fr)); gap:8px;
-      transform:rotate(-4deg) scale(1.12);
-    }
-    .sh { background:#eae6dd; border-radius:3px; padding:7px 6px; aspect-ratio:3/4; position:relative;
-      box-shadow:0 6px 16px rgba(0,0,0,.5); transform:rotate(var(--rot,0deg)); overflow:hidden; }
-    .sh b { display:block; font-family:var(--font-body); font-size:6px; line-height:1.3; color:#2a2233; font-weight:bold; margin-bottom:4px; }
-    .sh i { display:block; height:2px; border-radius:2px; background:#bdb6ab; margin-bottom:3px; width:var(--w,100%); }
-    .sh::after { content:'✕'; position:absolute; right:4px; bottom:2px; font-size:12px; line-height:1; color:rgba(214,48,48,.85); font-weight:bold; }
-    .bars {
-      position:absolute; inset:0; z-index:1; pointer-events:none;
-      background:
-        repeating-linear-gradient(90deg,rgba(226,222,212,.5) 0 4px,transparent 4px 58px),
-        linear-gradient(180deg,rgba(226,222,212,.5) 0 5px,transparent 5px);
-    }
-    .comic-punch {
-      text-align:center; margin:0; white-space:nowrap;
-      font-family:var(--font-head); font-variant:small-caps; letter-spacing:1px;
-      font-size:clamp(17px,4.2vw,38px); line-height:1.16; color:#fff;
-    }
-    .comic-punch em { font-style:normal; color:var(--lilac); }
 
     /* ── Quiz ─────────────────────────────────────────────────*/
     .quiz { max-width:720px; margin:0 auto; position:relative;
@@ -557,45 +496,32 @@
   <!-- ═══ SHOP ═══ -->
   <section class="sec" id="shop" style="padding-inline:clamp(14px,3vw,32px)">
     <div class="sec-head">
-      <h2 class="rv">Shop <em>DeepKids</em></h2>
+      <h2 class="rv shop-h2">Shop <em>DeepKids</em> Games &amp; Books</h2>
     </div>
     <div class="grid" id="shop-grid"></div>
   </section>
 
-  <!-- ═══ COMIC: THE TWO OPTIONS ═══ -->
-  <section class="comic wrap" id="why">
+  <!-- ═════════ WHAT OUR GAMES ARE ═════════ -->
+  <section class="sec wrap">
     <div class="sec-head">
-      <span class="sec-kicker rv">A child's day</span>
-      <h2 class="rv">Split Between <em>These Two</em></h2>
+      <span class="sec-kicker rv">DeepKids games</span>
+      <h2 class="rv">Why You Should <em>Buy One</em></h2>
     </div>
-    <div class="comic-strip">
-      <div class="frame rv">
-        <img src="kids-screens-cut.webp" alt="Two children lit by phone screens" width="1267" height="1100" loading="lazy" decoding="async"/>
-        <div class="frame-cap">
-          <h3>A feed <em>built</em> to hold them</h3>
-        </div>
-      </div>
-      <div class="frame rv rv2">
-        <div class="sheetwall" aria-hidden="true"><div class="sheetwall-in" id="sheetwall"></div></div>
-        <!-- Fades in over the stand-in wall once it loads. Note: opacity,
-             not display:none — a display:none image with loading="lazy"
-             is never fetched, so the photo would never have appeared. -->
-        <img id="school-photo" src="problem-education.jpg"
-             alt="Two schoolchildren chained to their desks inside a cage of rulers, buried under textbooks"
-             style="opacity:0;transition:opacity .5s ease" decoding="async"
-             onload="this.style.opacity=1; var f=this.parentNode; var w=f.querySelector('.sheetwall'); if(w) w.style.display='none'; var bb=f.querySelector('.bars'); if(bb) bb.style.display='none';"
-             onerror="this.remove();"/>
-        <div class="bars" aria-hidden="true"></div>
-        <div class="frame-cap">
-          <h3>A syllabus <em>copied</em>, and often wrong</h3>
-        </div>
-      </div>
+    <div class="tiles">
+      <div class="tile rv"><b>Screen Free</b><span>Nothing to charge, nothing to download, no account. A box, a floor and people.</span></div>
+      <div class="tile rv"><b>Experiential</b><span>The concept arrives through the hands first — a throw, a balance, a jump — and is explained afterwards.</span></div>
+      <div class="tile rv"><b>Thought Through</b><span>Months of research and argument per box. Where the science is unsettled, the box says so.</span></div>
+      <div class="tile rv"><b>Out-Of-The-World Gameplay</b><span>A spiral board running from the Earth's core to deep space. Not a quiz with a board glued to it.</span></div>
+      <div class="tile rv"><b>Appropriately Challenging</b><span>Not the easiest game on the shelf, on purpose. Kids rise to it — they almost always do.</span></div>
+      <div class="tile rv"><b>Gets Kids Moving</b><span>35+ physical challenges. Somebody will be standing on one leg within ten minutes.</span></div>
+      <div class="tile rv"><b>Open-Ended Thinking</b><span>Questions with more than one good answer, and room to argue about which one is best.</span></div>
+      <div class="tile rv"><b>First Principles</b><span>Why things are the way they are, starting from the bottom — not a rule to apply and forget.</span></div>
+      <div class="tile rv"><b>Fundamentals</b><span>The load-bearing ideas, not the applications. Get these right and the rest follows on its own.</span></div>
+      <div class="tile rv"><b>Free Thinking</b><span>Permission to disagree with the box, with the textbook, and with you. That's the point.</span></div>
+      <div class="tile tile-not rv"><b>No Rote Memorisation</b><span>Nothing in here rewards remembering a list. You can't win by revising.</span></div>
+      <div class="tile tile-not rv"><b>Not Another STEM Kit</b><span>You don't build one gadget and shelve it. This is a game you come back to.</span></div>
+      <div class="tile tile-not rv"><b>Not Broken Content On Cards</b><span>Not the same copied, half-wrong facts printed on nicer cardboard. That's the whole reason we started.</span></div>
     </div>
-    <!-- Deliberately not .rv: this line is pinned to the bottom edge of a
-         section that is exactly one screen tall, and the reveal observer
-         shrinks its root by 8% at the bottom — so a reveal here would
-         never fire and the line would stay invisible forever. -->
-    <p class="comic-punch">So we built a <em>third thing</em>.</p>
   </section>
 
   <!-- ═══ QUIZ ═══ -->
@@ -630,28 +556,6 @@
       </div>
     </div>
   </section>
-  <!-- ═════════ WHAT OUR GAMES ARE ═════════ -->
-  <section class="sec wrap">
-    <div class="sec-head">
-      <span class="sec-kicker rv">DeepKids games</span>
-      <h2 class="rv">Why You Should <em>Buy One</em></h2>
-    </div>
-    <div class="tiles">
-      <div class="tile rv"><b>Screen Free</b><span>Nothing to charge, nothing to download, no account. A box, a floor and people.</span></div>
-      <div class="tile rv"><b>Experiential</b><span>The concept arrives through the hands first — a throw, a balance, a jump — and is explained afterwards.</span></div>
-      <div class="tile rv"><b>Thought Through</b><span>Months of research and argument per box. Where the science is unsettled, the box says so.</span></div>
-      <div class="tile rv"><b>Out-Of-The-World Gameplay</b><span>A spiral board running from the Earth's core to deep space. Not a quiz with a board glued to it.</span></div>
-      <div class="tile rv"><b>Appropriately Challenging</b><span>Not the easiest game on the shelf, on purpose. Kids rise to it — they almost always do.</span></div>
-      <div class="tile rv"><b>Gets Kids Moving</b><span>35+ physical challenges. Somebody will be standing on one leg within ten minutes.</span></div>
-      <div class="tile rv"><b>Open-Ended Thinking</b><span>Questions with more than one good answer, and room to argue about which one is best.</span></div>
-      <div class="tile rv"><b>First Principles</b><span>Why things are the way they are, starting from the bottom — not a rule to apply and forget.</span></div>
-      <div class="tile rv"><b>Fundamentals</b><span>The load-bearing ideas, not the applications. Get these right and the rest follows on its own.</span></div>
-      <div class="tile rv"><b>Free Thinking</b><span>Permission to disagree with the box, with the textbook, and with you. That's the point.</span></div>
-      <div class="tile tile-not rv"><b>No Rote Memorisation</b><span>Nothing in here rewards remembering a list. You can't win by revising.</span></div>
-      <div class="tile tile-not rv"><b>Not Another STEM Kit</b><span>You don't build one gadget and shelve it. This is a game you come back to.</span></div>
-      <div class="tile tile-not rv"><b>Not Broken Content On Cards</b><span>Not the same copied, half-wrong facts printed on nicer cardboard. That's the whole reason we started.</span></div>
-    </div>
-  </section>
 
 </main>
 
@@ -666,10 +570,10 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/dkbtn.js?v=6"></script>
-<script src="/track.js?v=6"></script>
-<script src="/cart.js?v=6"></script>
-<script src="/checkout.js?v=6"></script>
+<script src="/dkbtn.js?v=7"></script>
+<script src="/track.js?v=7"></script>
+<script src="/cart.js?v=7"></script>
+<script src="/checkout.js?v=7"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
    Sound. Short Web Audio tones — no files to load, and nothing is
@@ -1120,7 +1024,7 @@ DK.wishPaint();
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
-  <script src="/footer.js?v=6" defer></script>
-  <script src="/menu.js?v=6" defer></script>
+  <script src="/footer.js?v=7" defer></script>
+  <script src="/menu.js?v=7" defer></script>
 </body>
 </html>
