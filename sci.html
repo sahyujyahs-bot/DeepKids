@@ -171,13 +171,16 @@
     .sec-h em { font-style: normal; color: var(--lilac); }
 
     /* Concept pillars */
-    .pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; }
+/* Flex, not a grid: with five cards an auto-fit grid leaves the fifth
+       alone at the left of its own row. Wrapping and centring puts the
+       remainder in the middle, whatever the count. */
+    .pillars { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; }
     .pillar {
+      flex: 1 1 260px; max-width: 340px;
       background: linear-gradient(170deg, rgba(var(--purple-rgb), .13), rgba(255,255,255,.025) 60%);
       border: 1px solid rgba(var(--purple-rgb), .32); border-radius: 18px; padding: 26px 22px;
     }
-    .pillar .step { font-family: var(--font-head); font-size: 13px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; }
-    .pillar .ico { font-size: 30px; margin: 8px 0 12px; }
+    .pillar .ico { font-size: 30px; margin: 0 0 12px; }
     .pillar h3 { font-size: 20px; color: #fff; margin-bottom: 8px; letter-spacing: .5px; }
     .pillar p { font-size: 14.5px; color: var(--ink-dim); }
 
@@ -202,6 +205,9 @@
     .card-cap small { display: block; font-family: var(--font-body); font-variant: normal; letter-spacing: 0; text-transform: none; color: var(--ink-dim); font-size: 13px; margin-top: 3px; }
 
     .lede { max-width: 680px; margin: 0 auto; text-align: center; color: var(--ink); font-size: clamp(15px, 2vw, 17px); }
+    .lede-line { display: block; }
+    .lede-line + .lede-line { margin-top: .3em; }
+    .lede-gap { margin-top: 1em !important; }
     .lede b { color: #fff; }
 
     footer { text-align: center; padding: 30px 16px 46px; font-size: 13px; color: rgba(255,255,255,.5); }
@@ -299,15 +305,25 @@
           <li>42 cards</li><li>Mystery Pack</li><li>Special Gravity Core</li><li>Ages 8 and up</li>
         </ul>
 
-        <p class="buy-desc">A collectible deck of <b>scientist trading cards</b>. Not just who discovered what &mdash; each card takes one scientist, the <b>fundamental truth</b> their work uncovered, and shows you <b>where that truth is hiding in everyday life</b>, so science becomes something your child can spot, touch and feel.</p>
+        <p class="buy-desc">
+          <span class="buy-desc-line">A collectible deck of <b>Scientist Trading Cards</b>.</span>
+          <span class="buy-desc-line">Each card, a scientist &mdash;</span>
+        </p>
+        <ul class="buy-desc-sub">
+          <li><span>The ideas they contributed</span></li>
+          <li><span>The fundamental truth their work points to</span></li>
+          <li><span>Where their idea can be found in everyday life</span></li>
+          <li><span>Their story, and more</span></li>
+        </ul>
 
         <ul class="buy-points">
-          <li><span>&#128301;</span><span><b>42 cards</b> &mdash; a 25-card <b>Mystery Pack</b>, mixed across fields, genders and rarities, and <b>17 Special Gravity Core</b> cards.</span></li>
-          <li><span>&#128161;</span><span>Three layers on every card: <a href="#layers">the discovery, the fundamental truth, and where you live it</a>.</span></li>
-          <li><span>&#127756;</span><span>The cosmic body behind each portrait is its <b>rarity</b> &mdash; from a common Mercury to the rarest Black Hole.</span></li>
-          <li><span>&#127918;</span><span>Four ways to play: era, connections, best total score, best selected score.</span></li>
-          <li><span>&#127912;</span><span>100% hand-drawn. No AI, no stock art &mdash; every card is its own small painting.</span></li>
-          <li><span>&#129333;</span><span>Giants <b>and</b> underdogs: the sidelined, the uncredited, the written out of the textbook.</span></li>
+          <li><span>&bull;</span><span>Famous scientists, forgotten scientists, female scientists, controversial scientists, the underdogs &mdash; all are covered.</span></li>
+          <li><span>&bull;</span><span><b>42 cards in a pack</b> &mdash; 25 <b>Mystery Cards</b>, mixed across fields, genders and rarities, and 17 <b>Special Gravity Core</b> cards.</span></li>
+          <li><span>&bull;</span><span>The cosmic body behind each portrait is its <b>rarity</b> &mdash; from a common Mercury to the rarest Black Hole.</span></li>
+          <li><span>&bull;</span><span>Stylised portrait and custom background art that codes information.</span></li>
+          <li><span>&bull;</span><span>Custom, original story art with a point of view.</span></li>
+          <li><span>&bull;</span><span><b>4+ ways to play</b>: era, connections, best total score, best selected score.</span></li>
+          <li><span>&bull;</span><span>Deeply researched.</span></li>
         </ul>
 
         <p class="buy-glossary">Every fact, every fundamental truth and every real-life example is checked and re-checked, so what your child learns is genuinely right.</p>
@@ -359,33 +375,44 @@
 
   <!-- ═══ COLLECTIBLE HOOK ═══ -->
   <section class="wrap">
-    <span class="sec-kicker rv">A new kind of collectible</span>
-    <h2 class="sec-h rv">Pokémon Has Cards. <em>Why Not Scientists?</em></h2>
-    <p class="lede rv">Kids collect Pokémon. They collect footballers, cricketers, superheroes. So why not the real people who cracked how the universe actually works? <b>SCI. is a collectible deck of scientist trading cards</b> — chase them, swap them, complete the set. Except every card is a real human who genuinely changed the world.</p>
+    <span class="sec-kicker rv">Collectible Scientists Trading Cards</span>
+    <h2 class="sec-h rv">Pokémon Have Cards. <em>Why Not Scientists?</em></h2>
+    <p class="lede rv">
+      <span class="lede-line">Kids collect Pokémon, footballers, cricketers, superheroes.</span>
+      <span class="lede-line">So why not those who have realised aspects of how the universe works?</span>
+      <span class="lede-line lede-gap"><b>SCI. is a collectible deck of Scientist Trading Cards</b> — chase them, swap them, complete the set.</span>
+    </p>
   </section>
 
   <!-- ═══ THE CONCEPT ═══ -->
   <section class="wrap" id="layers">
     <span class="sec-kicker rv">What makes a SCI. card different</span>
-    <h2 class="sec-h rv">Three Layers On <em>Every Card</em></h2>
+    <h2 class="sec-h rv">SCI. Cards Are A <em>Treasure Trove</em></h2>
     <div class="pillars">
       <div class="pillar rv">
-        <div class="step">Layer 01</div>
         <div class="ico">🔭</div>
         <h3>The Discovery</h3>
         <p>The breakthrough each scientist is remembered for — told like a story a kid actually remembers, not a date to memorise.</p>
       </div>
       <div class="pillar rv rv2">
-        <div class="step">Layer 02</div>
         <div class="ico">💡</div>
         <h3>The Fundamental Truth</h3>
         <p>The deeper law of nature underneath the discovery — the real <em>why</em> it matters, not a textbook definition.</p>
       </div>
       <div class="pillar rv rv3">
-        <div class="step">Layer 03</div>
         <div class="ico">🌍</div>
         <h3>Where You Live It</h3>
         <p>Where that truth shows up in everyday life — so your child starts spotting the science in the world around them, not just on the card.</p>
+      </div>
+      <div class="pillar rv">
+        <div class="ico">🎨</div>
+        <h3>Portrait &amp; Coded Background</h3>
+        <p>A stylised portrait of the scientist, on a custom background that codes their field, their era and the shape of their idea — the art carries information, not just atmosphere.</p>
+      </div>
+      <div class="pillar rv rv2">
+        <div class="ico">📖</div>
+        <h3>Story Art With A Point Of View</h3>
+        <p>Original art for the story on the back — drawn to say something about what happened and who it happened to, rather than to decorate the page.</p>
       </div>
     </div>
     <p class="lede rv" style="margin-top:28px;">That's the whole idea: <b>science you can identify and experience</b> — not facts you file away and forget.</p>
@@ -553,13 +580,13 @@
   note:  '<s>₹2,499</s> <b>₹2,124</b> · 15% off'
 });
 </script>
-  <script src="/dkbtn.js?v=12" defer></script>
-  <script src="/productblock.js?v=12" defer></script>
-  <script src="/nudge.js?v=12" defer></script>
-  <script src="/track.js?v=12" defer></script>
-  <script src="/cart.js?v=12" defer></script>
-  <script src="/checkout.js?v=12" defer></script>
-  <script src="/footer.js?v=12" defer></script>
-  <script src="/menu.js?v=12" defer></script>
+  <script src="/dkbtn.js?v=13" defer></script>
+  <script src="/productblock.js?v=13" defer></script>
+  <script src="/nudge.js?v=13" defer></script>
+  <script src="/track.js?v=13" defer></script>
+  <script src="/cart.js?v=13" defer></script>
+  <script src="/checkout.js?v=13" defer></script>
+  <script src="/footer.js?v=13" defer></script>
+  <script src="/menu.js?v=13" defer></script>
 </body>
 </html>
