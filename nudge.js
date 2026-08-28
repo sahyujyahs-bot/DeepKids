@@ -15,7 +15,7 @@
 
      (window.dkNudgeQueue = window.dkNudgeQueue || []).push({
        key:   'evo-from-sci',        // names it in the analytics
-       badge: 'Launching next',
+       badge: 'Out now',
        title: 'The Story Of Evolution',
        sub:   'Four billion years as one continuous story.',
        img:   'sp-23.webp', alt: '…',

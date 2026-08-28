@@ -61,7 +61,7 @@
 
   <!-- The hero art is the largest thing on the first screen, so it is
        asked for in the head rather than discovered when the body parses. -->
-  <link rel="preload" href="hero-tall.webp" as="image" type="image/webp" fetchpriority="high"/>
+  <link rel="preload" href="hero-play.webp" as="image" type="image/webp" fetchpriority="high"/>
   <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
   <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
 
@@ -364,43 +364,6 @@
     /* Everything the card click must not swallow. */
     .card .gal-nav, .card .wish, .card .buy-slot { cursor:default; }
 
-    /* ── Quiz ─────────────────────────────────────────────────*/
-    .quiz { max-width:720px; margin:0 auto; position:relative;
-      background:linear-gradient(170deg,rgba(255,255,255,.06),rgba(255,255,255,.016) 70%);
-      border:1px solid rgba(255,255,255,.16); border-radius:22px; padding:clamp(20px,3.2vw,34px);
-      box-shadow:0 26px 60px rgba(0,0,0,.5); }
-    .quiz-bar { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:16px; }
-    .quiz-step { font-family:var(--font-head); font-variant:small-caps; letter-spacing:2.5px; font-size:12.5px; color:var(--ink-dim); }
-    .quiz-score { font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px; font-size:12.5px; color:var(--gold); }
-    .quiz-arrow { width:34px; height:34px; border-radius:50%; cursor:pointer;
-      background:rgba(var(--purple-rgb),.2); border:1px solid rgba(var(--purple-rgb),.5);
-      color:#fff; font-size:15px; display:grid; place-items:center; }
-    .quiz-arrow[disabled]{ opacity:.3; cursor:default; }
-    .quiz-q { font-family:var(--font-head); font-variant:small-caps; font-size:clamp(19px,3.2vw,29px); color:#fff; line-height:1.15; margin-bottom:16px; }
-    .quiz-opts { display:flex; flex-direction:column; gap:10px; }
-    .quiz-opt { text-align:left; cursor:pointer; font:inherit; font-size:clamp(14.5px,1.9vw,16.5px); color:rgba(255,255,255,.92);
-      background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.2); border-radius:14px; padding:13px 17px;
-      transition:background .2s ease, border-color .2s ease, transform .2s ease; }
-    .quiz-opt:hover:not([disabled]) { background:rgba(var(--purple-rgb),.2); border-color:rgba(var(--purple-rgb),.6); transform:translateX(3px); }
-    .quiz-opt.picked-wrong { background:rgba(255,138,138,.16); border-color:rgba(255,138,138,.6); }
-    .quiz-opt.is-right { background:rgba(var(--ok-rgb),.16); border-color:rgba(var(--ok-rgb),.6); }
-    .quiz-verdict { display:none; margin-top:18px; padding-top:16px; border-top:1px dashed rgba(255,255,255,.2); }
-    .quiz-verdict.show { display:block; }
-    .quiz-verdict .line { font-family:var(--font-head); font-variant:small-caps; font-size:clamp(17px,2.8vw,25px); margin-bottom:12px; }
-    .quiz-verdict .line.bad { color:var(--rose); }
-    .quiz-verdict .line.good { color:var(--ok); }
-    .quiz-reveal, .quiz-next { font-family:var(--font-head); font-variant:small-caps; letter-spacing:2px; font-size:15px;
-      border-radius:999px; padding:9px 21px; cursor:pointer; }
-    .quiz-reveal { color:#fff; background:var(--purple); border:0; }
-    .quiz-next { display:none; margin-top:16px; color:#fff; background:rgba(var(--purple-rgb),.3); border:1px solid rgba(var(--purple-rgb),.6); }
-    .quiz-next.show { display:inline-block; }
-    .quiz-actual { display:none; margin-top:14px; font-size:clamp(14.5px,1.9vw,16.5px); color:var(--ink); }
-    .quiz-actual.show { display:block; }
-    .quiz-actual b { color:var(--ok); }
-    .quiz-done { text-align:center; }
-    .quiz-done .big { font-family:var(--font-head); font-variant:small-caps; font-size:clamp(23px,4.2vw,34px); color:#fff; margin-bottom:9px; }
-    .quiz-done p { color:var(--ink); max-width:520px; margin:0 auto; }
-
     /* ── "Why this price?" — answered in place, never a link away ──*/
     .why-btn {
       display:inline-flex; align-items:center; justify-content:center;
@@ -497,7 +460,7 @@
            first and then fetch a second, purpose-drawn one after window
            load and swap it in — two hero downloads and a visible change
            of picture. object-fit:contain handles the shape difference. -->
-      <img id="hero-art" src="hero-tall.webp" alt="A child mid-leap against the pull of gravity, drawn for DeepKids" width="1400" height="2030" fetchpriority="high" decoding="async"/>
+      <img id="hero-art" src="hero-play.webp" alt="Four children around a table playing EscapeGravity — one balancing on one leg, one holding a Force Card, a frisbee and the SCI. box on the table — drawn for DeepKids" width="1500" height="2100" fetchpriority="high" decoding="async"/>
     </div>
     <!-- The ticker is the hero's last row, not a section below it, so the
          whole first screen ends exactly where the hero ends. -->
@@ -537,35 +500,134 @@
     </div>
   </section>
 
-  <!-- ═══ QUIZ ═══ -->
-  <section class="sec wrap" id="quiz">
+  <!-- ═══ KIDS PLAYING ═══
+       Photographs on the left, playtest clips on the right. The videos
+       carry preload="none" and a poster, so the section costs one small
+       image each until somebody actually taps one. -->
+  <style>
+    .play-grid { display:grid; grid-template-columns:1fr 1fr; gap:clamp(12px,2vw,20px); }
+    @media (max-width:820px){ .play-grid { grid-template-columns:1fr; } }
+    .play-col { display:grid; grid-template-columns:1fr 1fr; gap:clamp(12px,2vw,20px); }
+    .play-item {
+      position:relative; border-radius:16px; overflow:hidden;
+      border:1px solid rgba(var(--purple-rgb),.3); background:rgba(255,255,255,.03);
+      aspect-ratio:1/1;
+    }
+    .play-item img, .play-item video { width:100%; height:100%; object-fit:cover; }
+    .play-vid { cursor:pointer; }
+    .play-play { position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
+      pointer-events:none; }
+    .play-play svg { width:clamp(44px,7vw,62px); height:auto; }
+  </style>
+  <section class="sec wrap" id="playing">
     <div class="sec-head">
-      <span class="sec-kicker rv">Six questions, two minutes</span>
-      <h2 class="rv">Try The Science <em>Yourself</em></h2>
-      <p class="rv rv2">Each of these is answered one way at school and another way by the evidence.</p>
+      <span class="sec-kicker rv">From our playtests</span>
+      <h2 class="rv">Kids Playing <em>DeepKids</em></h2>
+      <p class="rv rv2">Real kids. Real fun. Real science.</p>
     </div>
-    <div class="quiz rv">
-      <div class="quiz-bar" id="q-bar">
-        <span class="quiz-step" id="q-step"></span>
-        <span class="quiz-score" id="q-score"></span>
-        <span style="display:flex;gap:8px">
-          <button type="button" class="quiz-arrow" id="q-prev" aria-label="Previous" onclick="dkQuizGo(-1)">&#8249;</button>
-          <button type="button" class="quiz-arrow" id="q-fwd" aria-label="Next" onclick="dkQuizGo(1)">&#8250;</button>
-        </span>
+    <div class="play-grid rv">
+      <div class="play-col">
+        <div class="play-item"><img src="gallery-wa0000.webp" alt="Children at a DeepKids playtest, one taking their turn while the others watch" loading="lazy" decoding="async"></div>
+        <div class="play-item"><img src="gallery-wa0022.webp" alt="Paper boats folded by children floating in a puddle during a hands-on science challenge" loading="lazy" decoding="async"></div>
+        <div class="play-item"><img src="gallery-wa0023.webp" alt="Children and parents playing the EscapeGravity science board game together on the floor" loading="lazy" decoding="async"></div>
+        <div class="play-item"><img src="gallery-wa0031.webp" alt="A family playing EscapeGravity on a veranda table — a screen-free after-school activity" loading="lazy" decoding="async"></div>
       </div>
-      <div id="q-card">
-        <div class="quiz-q" id="q-text"></div>
-        <div class="quiz-opts" id="q-opts"></div>
-        <div class="quiz-verdict" id="q-verdict">
-          <div class="line" id="q-line"></div>
-          <button type="button" class="quiz-reveal" id="q-reveal" onclick="dkQuizReveal()">What's actually true &rarr;</button>
-          <div class="quiz-actual" id="q-actual"></div>
-          <button type="button" class="quiz-next" id="q-next" onclick="dkQuizGo(1)">Next &rarr;</button>
+      <div class="play-col">
+        <div class="play-item play-vid">
+          <video playsinline preload="none" poster="gallery-vid-0009.webp"><source src="VID-20260614-WA0009.mp4" type="video/mp4"></video>
+          <span class="play-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></span>
+        </div>
+        <div class="play-item play-vid">
+          <video playsinline preload="none" poster="gallery-vid-0010.webp"><source src="VID-20260614-WA0010.mp4" type="video/mp4"></video>
+          <span class="play-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></span>
+        </div>
+        <div class="play-item play-vid">
+          <video playsinline preload="none" poster="gallery-vid-0025.webp"><source src="VID-20260614-WA0025.mp4" type="video/mp4"></video>
+          <span class="play-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></span>
+        </div>
+        <div class="play-item play-vid">
+          <video playsinline preload="none" poster="gallery-vid-0027.webp"><source src="VID-20260614-WA0027.mp4" type="video/mp4"></video>
+          <span class="play-play"><svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="30" fill="rgba(0,0,0,.45)"/><polygon points="23,16 47,30 23,44" fill="#fff"/></svg></span>
         </div>
       </div>
-      <div class="quiz-done" id="q-done" style="display:none">
-        <div class="big" id="q-done-t"></div>
-        <p id="q-done-b"></p>
+    </div>
+  </section>
+  <script>
+  document.addEventListener('click', function (e) {
+    var item = e.target.closest('.play-vid');
+    if (!item) return;
+    var v = item.querySelector('video');
+    if (!v || v.controls) return;
+    v.controls = true;
+    item.classList.remove('play-vid');
+    var btn = item.querySelector('.play-play');
+    if (btn) btn.remove();
+    v.play();
+  });
+  </script>
+
+  <!-- ═══ WHAT PARENTS SAY ═══ -->
+  <style>
+    .pq-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+      gap:clamp(16px,2.4vw,26px); }
+    .pq-card { border:1px solid rgba(var(--purple-rgb),.3); border-radius:18px;
+      overflow:hidden; background:rgba(255,255,255,.03);
+      display:flex; flex-direction:column; }
+    .pq-photo { width:100%; height:clamp(150px,18vw,190px); object-fit:cover; }
+    .pq-body { padding:clamp(16px,2vw,22px); display:flex; flex-direction:column; gap:10px; flex:1; }
+    .pq-stars { color:var(--gold); letter-spacing:2px; font-size:14px; }
+    .pq-card p { color:var(--ink); font-size:clamp(14.5px,1.8vw,16.5px); flex:1; }
+    .pq-card p em { color:var(--lilac); font-style:italic; }
+    .pq-who { font-size:12.5px; letter-spacing:1.4px; text-transform:uppercase;
+      color:rgba(255,255,255,.45); }
+    .pq-founder { display:flex; gap:clamp(16px,2.4vw,26px); align-items:flex-start;
+      margin-top:clamp(24px,4vh,42px); padding:clamp(18px,2.4vw,26px);
+      border:1px solid rgba(var(--purple-rgb),.25); border-radius:18px; }
+    .pq-avatar { flex:0 0 auto; width:54px; height:54px; border-radius:50%;
+      display:flex; align-items:center; justify-content:center;
+      font-family:var(--font-head); font-size:24px; color:#fff;
+      background:rgba(var(--purple-rgb),.35); border:1px solid rgba(var(--purple-rgb),.5); }
+    .pq-founder-txt { color:var(--ink); font-size:clamp(14.5px,1.8vw,16.5px); }
+    .pq-founder-txt b { color:#fff; font-weight:normal; }
+    .pq-sign { display:block; margin-top:10px; font-size:12px; letter-spacing:2px;
+      text-transform:uppercase; color:var(--lilac); }
+    @media (max-width:560px){ .pq-founder { flex-direction:column; align-items:center; text-align:center; } }
+  </style>
+  <section class="sec wrap" id="parents">
+    <div class="sec-head">
+      <h2 class="rv">What Playtest <em>Parents Say</em></h2>
+    </div>
+    <div class="pq-grid">
+      <div class="pq-card rv">
+        <img class="pq-photo" src="gallery-wa0000.webp" alt="Children at a DeepKids playtest, one taking their turn while the others watch" loading="lazy" decoding="async">
+        <div class="pq-body">
+          <div class="pq-stars">★★★★★</div>
+          <p>“Such a fun game — the kids enjoy the physical challenges so much they don't even realise how much they're learning.”</p>
+          <span class="pq-who">Playtest parent · two kids, 7 &amp; 10</span>
+        </div>
+      </div>
+      <div class="pq-card rv rv2">
+        <img class="pq-photo" src="gallery-wa0023.webp" alt="Children and parents playing the EscapeGravity science board game together on the floor" loading="lazy" decoding="async">
+        <div class="pq-body">
+          <div class="pq-stars">★★★★★</div>
+          <p>“Finally, screen-free engagement that's actually enriching. My daughter now explains gravity and air resistance to <em>me</em>.”</p>
+          <span class="pq-who">Playtest parent · 9-year-old</span>
+        </div>
+      </div>
+      <div class="pq-card rv rv3">
+        <img class="pq-photo" src="review-kids-floor.webp" alt="Five children playing the EscapeGravity board game on the floor at home" loading="lazy" decoding="async" style="object-position:center 42%;">
+        <div class="pq-body">
+          <div class="pq-stars">★★★★★</div>
+          <p>“He knows so much now about forces, the Earth, its atmosphere… When school gets to these topics, I'm sure he'll ace them.”</p>
+          <span class="pq-who">Playtest parent · 8-year-old</span>
+        </div>
+      </div>
+    </div>
+    <div class="pq-founder rv">
+      <div class="pq-avatar" aria-hidden="true">S</div>
+      <div class="pq-founder-txt">
+        <b>Why I'm building this:</b> I fell in love with science as an adult — and realised how much of what we're taught as kids is half-baked, memorised, and forgotten. Every DeepKids game takes one topic and goes <b>deep</b> — many perspectives, real experiences, so kids <b>live</b> the science instead of mugging it up.
+        <span class="pq-sign">— Sahyujyah Shrinivas, Founder · <a href="/about">read the full story →</a></span>
       </div>
     </div>
   </section>
@@ -646,20 +708,29 @@ var COPY = {
   'SCI-001': { tag:'Card game',    kind:'42 cards · ages 8+' },
   'EVO-001': { tag:'Picture book', kind:'51 spreads · kids & adults' }
 };
+/* The photographs of the real thing come first on every card. The
+   drawn artwork still follows, but a shopper deciding whether to buy
+   wants to see the object before they see the illustration. The
+   EscapeGravity list is the same one the product page uses, so the
+   card and the page it opens show the same product. */
 var SHOTS = {
   'EG-001':  [{src:'eg-box-new.webp',      alt:'The EscapeGravity box, lid printed with the spiral board and a child reaching into a gravity well'},
-              {src:'gift-box-hero.webp',   alt:'The EscapeGravity box seen from above, showing the spiral board printed across the lid'},
-              {src:'full-board-tour.webp', alt:'The full spiral board laid open, running from the Earth\u2019s core out to deep space', framed:true},
+              {src:'board-prototype.webp', alt:'The EscapeGravity spiral board, running from the Earth\u2019s core out to deep space', framed:true},
+              {src:'IMG_5098.webp',        alt:'A Force Card from EscapeGravity, front \u2014 one of the 13 forces children learn to play', framed:true},
+              {src:'Lightest_Items_Wins.webp', alt:'A Physical Challenge Card from EscapeGravity \u2014 a hands-on experiment with everyday objects', framed:true},
               {src:'box-contents.webp',    alt:'Everything in the box laid out \u2014 board, force cards, challenge cards, tokens and play objects', framed:true}],
-  'SCI-001': [{src:'sci-brahmagupta-front.webp', alt:'The Brahmagupta card \u2014 hand-drawn portrait ringed by suns, eyes and orbits', framed:true},
+  'SCI-001': [{src:'sci-box-photo.webp',   alt:'The SCI. Scientists Trading Cards box, printed with a hand-drawn scientist at her globe'},
+              {src:'sci-box-cards.webp',   alt:'The SCI. box with the card layers called out \u2014 portrait, rarity halo, discovery and story'},
+              {src:'sci-brahmagupta-front.webp', alt:'The Brahmagupta card \u2014 hand-drawn portrait ringed by suns, eyes and orbits', framed:true},
               {src:'sci-noether-front.webp',     alt:'The Emmy Noether card \u2014 hand-drawn portrait against a field of symmetry patterns', framed:true},
               {src:'sci-brahmagupta-back.webp',  alt:'The back of the Brahmagupta card, giving the discovery and where you meet it in everyday life', framed:true},
               {src:'sci-noether-back.webp',      alt:'The back of the Emmy Noether card, giving the discovery and where you meet it in everyday life', framed:true}],
-  'EVO-001': [{src:'sp-23.webp', alt:'Thought Predates Neurons \u2014 a sphere of lit points wired into a network, alone in the dark', framed:true},
+  'EVO-001': [{src:'evo-cover.webp', alt:'The Story Of Evolution Of Life, the printed book resting on a table, its painted cover facing up'},
+              {src:'evo-open.webp',  alt:'The printed book held open, a hand-painted spread running across both pages'},
+              {src:'evo-flat.webp',  alt:'The Story Of Evolution Of Life lying flat, showing the full painted front cover'},
+              {src:'sp-23.webp', alt:'Thought Predates Neurons \u2014 a sphere of lit points wired into a network, alone in the dark', framed:true},
               {src:'sp-17.webp', alt:'Multicellularity And The First Plant \u2014 red and orange algae fanning out through a lit ocean', framed:true},
-              {src:'sp-22.webp', alt:'Comb Jellies \u2014 the first predators, drifting through a bloom of light', framed:true},
-              {src:'sp-36.webp', alt:'Octopus \u2014 patterned arms curling across the page in blues and greens', framed:true},
-              {src:'sp-32.webp', alt:'Trees, The Saint Giants \u2014 the first forest rising in a red landscape', framed:true}]
+              {src:'sp-36.webp', alt:'Octopus \u2014 patterned arms curling across the page in blues and greens', framed:true}]
 };
 CATALOG.forEach(function(p){
   p.shots = SHOTS[p.sku] || [{ src: p.img }];
@@ -848,95 +919,6 @@ document.addEventListener('click', function(e){
   }
   wall.innerHTML = html;
 })();
-
-/* ══ Quiz ══ */
-var QUIZ = [
-  { q:'What is holding you up right now?', opts:['Gravity.','Gravity pulls down; the ground pushes back.'], right:1,
-    actual:'Gravity is pulling you <b>towards the centre of the Earth</b>. What holds you up is the ground pushing back just as hard — the <b>Normal Force</b>. Two forces, not one.' },
-  { q:'Why does a feather fall slower than a cricket ball?', opts:['Gravity pulls harder on the ball.','Air slows the feather down.'], right:1,
-    actual:'Gravity pulls both at the same rate. Remove the air and they land together — <b>Apollo 15 dropped a hammer and a feather on the Moon</b> and filmed exactly that.' },
-  { q:'Why do astronauts float?', opts:['There is no gravity in space.','They are falling, and so is the station.'], right:1,
-    actual:'At the Space Station there is still about <b>90% of Earth’s gravity</b>. They float because everything around them is falling together. An orbit is falling sideways fast enough to keep missing the ground.' },
-  { q:'What happened to the dinosaurs?', opts:['They all died out.','One branch survived and is still here.'], right:1,
-    actual:'The ones that could already fly lived through it. They are <b>birds</b> — so there are dinosaurs in your garden right now.' },
-  { q:'Gravity is…', opts:['A pull between two masses.','The shape mass gives to space and time.'], right:1,
-    actual:'Einstein’s answer: <b>mass bends spacetime and things follow the bend</b>. Most books wait until Class 11 to say it. Seven-year-olds take it in fine.' },
-  { q:'Do all metals stick to a magnet?', opts:['Yes.','No — most do not.'], right:1,
-    actual:'Only a few: <b>iron, nickel and cobalt</b>. Aluminium, copper, gold and silver do nothing at all. Worth testing on a spoon and a coin tonight.' }
-];
-var QZ = { i:0, score:0, answered:[] };
-function dkQuizRender(){
-  var q = QUIZ[QZ.i];
-  document.getElementById('q-step').textContent = 'Question ' + (QZ.i+1) + ' of ' + QUIZ.length;
-  document.getElementById('q-score').textContent = QZ.score + ' right';
-  document.getElementById('q-text').textContent = q.q;
-  document.getElementById('q-prev').disabled = QZ.i === 0;
-  document.getElementById('q-fwd').disabled = QZ.i >= QUIZ.length - 1;
-  var opts = document.getElementById('q-opts'); opts.innerHTML = '';
-  var picked = QZ.answered[QZ.i];
-  q.opts.forEach(function(text, n){
-    var b = document.createElement('button');
-    b.type='button'; b.className='quiz-opt'; b.textContent = text;
-    if (picked != null) {
-      b.disabled = true;
-      if (n === q.right) b.classList.add('is-right');
-      else if (n === picked) b.classList.add('picked-wrong');
-    } else { b.onclick = function(){ dkQuizPick(n); }; }
-    opts.appendChild(b);
-  });
-  var v = document.getElementById('q-verdict');
-  if (picked == null) {
-    v.classList.remove('show');
-    document.getElementById('q-actual').classList.remove('show');
-    document.getElementById('q-next').classList.remove('show');
-    document.getElementById('q-reveal').style.display = '';
-  } else {
-    dkQuizVerdict(picked === q.right);
-    document.getElementById('q-actual').innerHTML = q.actual;
-  }
-}
-function dkQuizVerdict(ok){
-  var l = document.getElementById('q-line');
-  l.className = 'line ' + (ok ? 'good' : 'bad');
-  l.textContent = ok ? '✓ Correct — and most adults get this wrong.' : '✕ That is the version school teaches.';
-  document.getElementById('q-verdict').classList.add('show');
-}
-function dkQuizPick(n){
-  var q = QUIZ[QZ.i];
-  if (QZ.answered[QZ.i] != null) return;
-  QZ.answered[QZ.i] = n;
-  var ok = n === q.right;
-  if (ok) QZ.score++;
-  dkSound(ok ? 'right' : 'wrong');
-  document.getElementById('q-actual').innerHTML = q.actual;
-  dkQuizRender();
-  egGtag('event','quiz_answer',{ event_category:'engagement', event_label:'q'+(QZ.i+1)+(ok?'_right':'_wrong'), correct: ok });
-}
-function dkQuizReveal(){
-  document.getElementById('q-actual').classList.add('show');
-  document.getElementById('q-reveal').style.display = 'none';
-  document.getElementById('q-next').classList.add('show');
-  dkSound('click');
-}
-function dkQuizGo(step){
-  var next = QZ.i + step;
-  if (next < 0) return;
-  if (next >= QUIZ.length) { dkQuizFinish(); return; }
-  QZ.i = next; dkQuizRender(); dkSound('click');
-}
-function dkQuizFinish(){
-  if (QZ.answered.filter(function(a){ return a != null; }).length < QUIZ.length) { QZ.i = QUIZ.length-1; dkQuizRender(); return; }
-  document.getElementById('q-card').style.display='none';
-  document.getElementById('q-bar').style.display='none';
-  document.getElementById('q-done').style.display='block';
-  document.getElementById('q-done-t').textContent = QZ.score + ' out of 6.';
-  document.getElementById('q-done-b').innerHTML = QZ.score >= 4
-    ? 'You are ahead of most textbooks. Everything in that quiz is inside <a href="/">EscapeGravity</a> — earned by playing, not read off a card.'
-    : 'Every one of those was taught to you the other way round. Your child can start with the real version: <a href="#shop">see the shop &rarr;</a>';
-  dkSound('checkout');
-  egGtag('event','quiz_complete',{ event_category:'conversion', event_label: QZ.score + '_of_6', score: QZ.score });
-}
-dkQuizRender();
 
 /* ══ Hero parallax ══ */
 (function(){
