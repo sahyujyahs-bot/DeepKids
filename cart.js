@@ -626,7 +626,7 @@
       /* Pages that can take payment define dkCheckout. Everything else
          hands off to the shop rather than dead-ending. */
       if (typeof window.dkCheckout === 'function') window.dkCheckout();
-      else location.href = '/shop#checkout';
+      else location.href = '/#checkout';
     }
   });
 

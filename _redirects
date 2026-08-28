@@ -1,0 +1,10 @@
+# The shop is the home page now, and EscapeGravity has a route of its
+# own. Both old URLs are indexed and linked from elsewhere, so they are
+# kept alive as permanent redirects rather than dropped.
+/shop            /                        301
+/shop/*          /:splat                  301
+
+# EscapeGravity used to be the root, so its section anchors were shared
+# as deepkids.in/#s2 and the like. A hash never reaches the server, so
+# those cannot be redirected — but the named sections below can.
+/escapegravity/  /escapegravity           301

@@ -53,6 +53,8 @@
   Cache-Control: public, max-age=0, must-revalidate
 /footer.js
   Cache-Control: public, max-age=0, must-revalidate
+/header.js
+  Cache-Control: public, max-age=0, must-revalidate
 /menu.js
   Cache-Control: public, max-age=0, must-revalidate
 /nudge.js

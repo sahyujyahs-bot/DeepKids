@@ -16,15 +16,15 @@
   /* Only EscapeGravity has children today. Adding a submenu to SCI. or
      Evolution later means adding a `kids` array here and nothing else. */
   var ITEMS = [
-    { label: 'Shop', href: '/shop' },
-    { label: 'EscapeGravity', href: '/', kids: [
+    { label: 'Shop', href: '/' },
+    { label: 'EscapeGravity', href: '/escapegravity', kids: [
       { label: 'How To Play',       href: '/how-to-play'                },
       /* Both of these have a page of their own, so they point there
          rather than at the matching section on the main page — the row
          then highlights correctly when you are reading it. */
       { label: 'Learning Glossary', href: '/what-kids-learn#s-syllabus' },
-      { label: 'The Science',       href: '/#s4-science'                },
-      { label: 'The Game',          href: '/#s2'                        }
+      { label: 'The Science',       href: '/escapegravity#s4-science'    },
+      { label: 'The Game',          href: '/escapegravity#s2'           }
     ]},
     { label: 'SCI.',                   href: '/sci'       },
     { label: 'Evolution Picture Book', href: '/evolution' },
