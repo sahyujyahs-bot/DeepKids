@@ -296,16 +296,6 @@
        less so, or the painting reads straight through the words. */
     .zone-art .diff { background: linear-gradient(170deg, rgba(12,8,26,.82), rgba(8,5,20,.68) 70%); backdrop-filter: blur(3px); }
 
-    /* ─── The printed book ────────────────────────────────────*/
-    .shots { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: clamp(14px, 2.2vw, 24px); }
-    .shot { margin: 0; }
-    .shot img {
-      width: 100%; aspect-ratio: 3 / 2; object-fit: cover;
-      border-radius: 16px; border: 1px solid rgba(255,255,255,.16);
-      box-shadow: 0 22px 54px rgba(0,0,0,.6);
-    }
-    .shot figcaption { margin-top: 12px; font-size: 14px; color: var(--ink-dim); text-shadow: 0 2px 14px rgba(5,3,15,.9); }
-
     /* ─── Reach out ───────────────────────────────────────────*/
     .reach-ways { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 24px; }
     .reach-ways a {
@@ -551,22 +541,105 @@
     </div>
   </section>
 
-  <!-- ═══════════════ THE PRINTED BOOK ═══════════════ -->
-  <section class="zone zone-art" id="printed">
+  <!-- ═══════════════ PRODUCT ═══════════════ -->
+  <style>
+    /* The layout, the gallery, the zoom and the pincode check all come
+       from /productblock.js — the same file the EscapeGravity and SCI.
+       pages use. Only what is particular to this book is here. */
+    #evo-buy { padding-block: clamp(40px, 6vh, 72px) clamp(44px, 7vh, 84px); scroll-margin-top: 80px; }
+    #evo-buy .buy-cta .btn-label { font-size: 16px !important; letter-spacing: 1.6px !important; }
+    /* The block sets its own type; the zone rules would fight it. */
+    #evo-buy .buy-wrap { position: relative; z-index: 1; }
+    /* Denser reading matter than the other sections carry, so the
+       painting behind it is pulled back further than elsewhere. */
+    #evo-buy .zone-bg img { opacity: .34; }
+  </style>
+
+  <section class="zone-art" id="evo-buy">
     <div class="zone-bg" aria-hidden="true"><img src="sp-22.webp" alt="" width="1600" height="1143" loading="lazy" decoding="async"/></div>
-    <div class="wrap">
-      <div class="zone-head">
-        <span class="zone-kicker rv">Off the press</span>
-        <h2 class="rv">It Is Printed. <em>It Is Here.</em></h2>
-        <p class="zone-lede rv rv2">Hardbound, large format, and every page of it hand-painted &mdash; sitting in our Bengaluru workshop right now. Not a plan and not a pre-order: order it and it ships.</p>
-      </div>
-      <div class="shots">
-        <figure class="shot rv"><img src="evo-cover.webp" alt="The Story Of Evolution Of Life standing on a wooden table, its painted front cover facing out" width="1800" height="1368" loading="lazy" decoding="async"/><figcaption>The front cover is a painting, like every page behind it.</figcaption></figure>
-        <figure class="shot rv rv2"><img src="evo-open.webp" alt="The book stood open at an angle — the painted front cover on one side, the titled back cover on the other" width="1800" height="1051" loading="lazy" decoding="async"/><figcaption>The art wraps the whole case, front to back.</figcaption></figure>
-        <figure class="shot rv rv3"><img src="evo-flat.webp" alt="The hardbound book lying closed on a wooden table, its title panel and spine showing" width="1800" height="1342" loading="lazy" decoding="async"/><figcaption>Large format &mdash; the paintings get the room they were made for.</figcaption></figure>
+    <div class="buy-wrap">
+
+      <div class="buy-gal rv" id="evo-gal"></div>
+
+      <div class="buy-info rv">
+        <!-- No title and no strapline: the hero says both, one screen
+             up, and on a phone every extra row here is one more thing
+             between someone and the button. -->
+        <ul class="buy-tags">
+          <li>Hardbound</li><li>76 chapters</li><li>4 billion years</li><li>Kids &amp; adults</li>
+        </ul>
+
+        <p class="buy-desc">
+          <span class="buy-desc-line">A hand-painted picture book of <b>the whole story of life</b>.</span>
+          <span class="buy-desc-line">One continuous story, front to back &mdash;</span>
+        </p>
+        <ul class="buy-desc-sub">
+          <li><span>From the silent infinite, before there was time</span></li>
+          <li><span>Through the first RNA, our great-great-grandmother</span></li>
+          <li><span>To what four billion years of experimenting made of us</span></li>
+          <li><span>And what we are now doing to the thing that made us</span></li>
+        </ul>
+
+        <ul class="buy-points">
+          <li><span>&bull;</span><span><b>76 chapters</b> in order, each one the consequence of the one before it &mdash; not a list of facts by category.</span></li>
+          <li><span>&bull;</span><span><b>Every page an original painting</b>, made for this book and nothing else. No AI, no stock art.</span></li>
+          <li><span>&bull;</span><span>Every species gets the constraints it was up against and the openings it found &mdash; <b>the pressure first, the biology as the answer to it</b>.</span></li>
+          <li><span>&bull;</span><span><b>No human-supremacy bias.</b> RNA, plants and other animals are what they are: flourishing, intelligent, relentlessly adaptive life.</span></li>
+          <li><span>&bull;</span><span>Leaves the hard questions open &mdash; what we mean by god, and how genes, gender and behaviour are wired to each other.</span></li>
+          <li><span>&bull;</span><span><b>For kids and adults.</b> Read aloud at seven, read alone at forty.</span></li>
+        </ul>
+
+        <p class="buy-glossary">Printed and in stock in our Bengaluru workshop. Not a plan and not a pre-order &mdash; order it and it ships.</p>
+
+        <div class="buy-price-row">
+          <span class="buy-price"><s>&#8377;2,499</s><b>&#8377;2,124</b></span>
+          <span class="buy-off">Launch offer &middot; 15% off</span>
+        </div>
+        <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
+
+        <div class="buy-actions">
+          <div class="buy-qty">
+            <button type="button" aria-label="One fewer" data-qty-step="-1">&minus;</button>
+            <b>1</b>
+            <button type="button" aria-label="One more" data-qty-step="1">+</button>
+          </div>
+          <div class="buy-cta-slot">
+            <button type="button" class="buy-cta" data-dk-btn="Add To Cart" data-add="EVO-001" data-qty="1"></button>
+          </div>
+          <button type="button" class="buy-heart" aria-label="Save to wishlist" data-wish="EVO-001">
+            <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
+          </button>
+        </div>
       </div>
     </div>
   </section>
+
+  <script>
+  /* The object first — it is printed, and the photographs are the
+     proof — then pages from inside it. */
+  (window.dkProductQueue = window.dkProductQueue || []).push({
+    mount: '#evo-gal',
+    badge: 'In stock',
+    shots: [
+      { src: 'evo-cover.webp', cap: 'The book',
+        alt: 'The Story Of Evolution Of Life standing on a wooden table, its painted front cover facing out' },
+      { src: 'evo-open.webp', cap: 'Front and back',
+        alt: 'The book stood open at an angle — the painted front cover on one side, the titled back cover on the other' },
+      { src: 'evo-flat.webp', cap: 'Hardbound, large format',
+        alt: 'The hardbound book lying closed on a wooden table, its title panel and spine showing' },
+      { src: 'sp-04.webp', cap: 'Inside: The Birth Of The Earth',
+        alt: 'The Birth Of The Earth — a hand-painted spread from The Story Of Evolution Of Life, with the writing that runs alongside it' },
+      { src: 'sp-13.webp', cap: 'Inside: The Life Savers',
+        alt: 'The Life Savers — a hand-painted spread from The Story Of Evolution Of Life' },
+      { src: 'sp-22.webp', cap: 'Inside: Comb Jellies',
+        alt: 'Comb Jellies, the first predators — a hand-painted spread from The Story Of Evolution Of Life' },
+      { src: 'sp-32.webp', cap: 'Inside: Trees',
+        alt: 'Trees, the saint giants — a hand-painted spread from The Story Of Evolution Of Life' },
+      { src: 'sp-36.webp', cap: 'Inside: Octopus',
+        alt: 'Octopus — a hand-painted spread from The Story Of Evolution Of Life' }
+    ]
+  });
+  </script>
 
   <!-- ═══════════════ CHAPTERS ═══════════════ -->
   <section class="zone zone-art" id="chapters">
@@ -709,8 +782,7 @@
           <a href="https://wa.me/919739815506?text=Hi%20DeepKids%2C%20I%27d%20like%20to%20know%20more%20about%20The%20Story%20Of%20Evolution%20Of%20Life." target="_blank" rel="noopener">💬&nbsp; WhatsApp Us</a>
           <a href="mailto:sahyujyahs@gmail.com?subject=The%20Story%20Of%20Evolution%20Of%20Life">✉️&nbsp; Email Us</a>
         </div>
-        <p class="reach-note">Or just <a href="#top">buy it</a> &mdash; it is in stock and dispatches from Bengaluru.</p>
-        <p class="reach-note">Not sure this is the one? <a href="/">Check out our other products &rarr;</a></p>
+        <p class="reach-note">Or just <a href="#evo-buy">buy it</a> &mdash; it is in stock and dispatches from Bengaluru.</p>
       </div>
     </div>
   </section>
@@ -846,6 +918,7 @@
 </script>
   <script src="/header.js?v=14" defer></script>
   <script src="/dkbtn.js?v=13" defer></script>
+  <script src="/productblock.js?v=13" defer></script>
   <script src="/track.js?v=13" defer></script>
   <script src="/cart.js?v=13" defer></script>
   <script src="/checkout.js?v=13" defer></script>

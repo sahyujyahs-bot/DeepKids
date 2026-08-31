@@ -22,7 +22,7 @@
      more — that is answered from the visitor's own pincode, below. */
   var CATALOG = [
     { sku: 'EG-001', name: 'EscapeGravity',          price: 499900, off: 0.15,
-      href: '/',          img: 'eg-box-new.webp' },
+      href: '/escapegravity', img: 'eg-box-new.webp' },
     { sku: 'SCI-001', name: 'SCI. Trading Cards',    price: 119900, off: 0.15,
       href: '/sci',       img: 'sci-box-front.webp' },
     { sku: 'EVO-001', name: 'The Story Of Evolution', price: 249900, off: 0.15,
