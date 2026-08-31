@@ -283,30 +283,27 @@
        clean on it: the painting is atmosphere, not the subject. */
     .zone-art { position: relative; overflow: hidden; }
     .zone-bg { position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
-    .zone-bg img { position: sticky; top: 0; width: 100%; height: 100vh; object-fit: cover; opacity: .55; }
+    .zone-bg img { position: sticky; top: 0; width: 100%; height: 100vh; object-fit: cover; opacity: .8; }
+    /* Only the join to the sections above and below, plus enough of a
+       vignette that the corners do not fight the type. Fixed distances,
+       not percentages: on a section four screens tall a percentage fade
+       leaves the middle unscrimmed and the joins unfaded. */
     .zone-bg::after {
       content: ''; position: absolute; inset: 0;
       background:
-        radial-gradient(115% 75% at 50% 50%, rgba(5,3,15,.3) 0%, rgba(5,3,15,.78) 70%, rgba(5,3,15,.96) 100%),
-        linear-gradient(180deg, rgba(5,3,15,.97) 0%, rgba(5,3,15,.16) 200px, rgba(5,3,15,.16) calc(100% - 200px), rgba(5,3,15,.97) 100%);
+        radial-gradient(120% 88% at 50% 50%, rgba(5,3,15,0) 0%, rgba(5,3,15,.28) 62%, rgba(5,3,15,.72) 100%),
+        linear-gradient(180deg, rgba(5,3,15,.95) 0%, rgba(5,3,15,0) 180px, rgba(5,3,15,0) calc(100% - 180px), rgba(5,3,15,.95) 100%);
     }
     /* Type over a painting needs its own ground. */
-    .zone-art h2, .zone-art .zone-kicker, .zone-art .zone-lede { text-shadow: 0 2px 18px rgba(5,3,15,.95); }
+    /* The painting is doing more work now, so everything set over it
+       carries its own ground rather than relying on the scrim. */
+    .zone-art h2, .zone-art .zone-kicker, .zone-art .zone-lede,
+    .zone-art .flow-era h3, .zone-art .flow-era span, .zone-art .flow-step {
+      text-shadow: 0 1px 3px rgba(5,3,15,.95), 0 2px 16px rgba(5,3,15,.9);
+    }
     /* The cards are translucent by design; over art they need to be
        less so, or the painting reads straight through the words. */
     .zone-art .diff { background: linear-gradient(170deg, rgba(12,8,26,.82), rgba(8,5,20,.68) 70%); backdrop-filter: blur(3px); }
-
-    /* ─── Reach out ───────────────────────────────────────────*/
-    .reach-ways { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 24px; }
-    .reach-ways a {
-      display: inline-flex; align-items: center; gap: 9px; text-decoration: none;
-      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2px; font-size: 15px;
-      color: #fff; border: 1px solid rgba(var(--gold-rgb), .45); border-radius: 999px;
-      padding: 11px 22px; background: rgba(var(--gold-rgb), .1);
-      transition: background .25s ease, border-color .25s ease;
-    }
-    .reach-ways a:hover { background: rgba(var(--gold-rgb), .2); border-color: var(--gold); }
-    .reach-note { text-align: center; font-size: 13px; color: var(--ink-dim); margin-top: 18px; }
 
     /* ─── Excerpt: a real page from the book ──────────────────*/
     /* ─── Hero, one screen ────────────────────────────────────*/
@@ -322,19 +319,9 @@
       .hero-eyebrow { font-size: clamp(8px, 1.8vw, 11px); }
       .kw { padding-block: 7px; margin-top: 12px; }
       .kw-track span { font-size: clamp(12px, 1.8vw, 17px); }
-      .pre-cta { margin-top: 14px; }
-      .pre-cta .pre-btn .btn-svg { width: 210px !important; }
-      .pre-cta .pre-slot { transform: translateX(7px); }
-      .pre-cta .pre-price { transform: translateX(-17px); }
-      .pre-cta .pre-price .amt { font-size: clamp(18px, 3.4vw, 22px); }
-      .pre-cta .pre-price .ship { font-size: 11.5px; }
     }
     /* Button and price share one centre line and one width, so the price
        cannot sit off to the side of the button above it. */
-    .pre-cta { align-items: center; margin-top: clamp(16px, 2.6vh, 30px); }
-    .pre-cta .pre-price { width: min(100%, 320px); margin-inline: auto; transform: translateX(-20px); }
-    .pre-cta .pre-slot { display: flex; justify-content: center; transform: translateX(8px); }
-    .pre-cta .pre-price { display: block; }
     /* ─── Keyword ticker ──────────────────────────────────────*/
     .kw {
       margin-top: clamp(14px, 2.2vh, 26px);
@@ -406,6 +393,7 @@
       width: clamp(26px, 3.6vw, 34px); height: 20px; line-height: 20px; text-align: center;
       font-family: var(--font-head); font-size: 11px;
       color: var(--lilac); background: #0b0718;
+      box-shadow: 0 2px 10px rgba(5,3,15,.8);
       border: 1px solid rgba(var(--purple-rgb), .5); border-radius: 999px;
       transition: background .18s ease, color .18s ease, border-color .18s ease;
     }
@@ -422,41 +410,6 @@
     .diff h3 { font-size: 18.5px; color: #fff; letter-spacing: .5px; margin-bottom: 8px; }
     .diff p { font-size: 14.5px; color: var(--ink-dim); }
 
-
-    /* ─── Pre-order (shared cart) ─────────────────────────────*/
-    .pre-cta { display:flex; flex-direction:column; align-items:center;
-      margin:clamp(24px,4vh,40px) auto 0; }
-    /* Same D+K button as the rest of the site. Its ink runs from x=9 to
-       the fin cap at x=327.5 of a 360-unit box, so the drawn mark is
-       11.75 units left of the box centre; the shift below puts the whole
-       button — pill and fins together — on the screen's centre line.
-       The pill alone then reads a little left of the price, which is the
-       shape's own asymmetry and not something a shift can remove. */
-    .pre-cta .pre-btn { margin-left:0 !important; }
-    .pre-cta .pre-btn .btn-svg { width:248px !important; }
-    .pre-cta .pre-btn .btn-label { font-size:15px; letter-spacing:1.6px; }
-    /* Price on its own line, the shipping note under it — together they
-       wrapped mid-phrase on a phone. */
-    .pre-cta .pre-price { margin-top:12px; text-align:center; line-height:1.5; }
-    .pre-cta .pre-price .amt { display:block; font-family:'Norwester',sans-serif;
-      font-size:clamp(21px,4.4vw,26px); letter-spacing:1px; color:#fff; }
-    .pre-cta .pre-price .amt s { font-size:.62em; color:rgba(255,255,255,.45); margin-right:8px; }
-    .pre-cta .pre-price .amt b { color:#cd9edf; font-weight:normal; }
-    .pre-cta .pre-price .ship { display:block; font-size:13px; color:rgba(255,255,255,.6); }
-
-    /* ─── Reach-out panel ─────────────────────────────────────*/
-    .notify {
-      max-width: 560px; margin: 0 auto;
-      background: linear-gradient(170deg, rgba(var(--gold-rgb), .14), rgba(255,255,255,.03) 68%);
-      border: 1px solid rgba(var(--gold-rgb), .4); border-radius: 22px; padding: clamp(24px, 4vw, 38px);
-      box-shadow: 0 24px 60px rgba(0,0,0,.5);
-    }
-    .notify h2 { font-size: clamp(24px, 4.4vw, 36px); text-align: center; margin-bottom: 8px; }
-    .notify h2 em { font-style: normal; color: var(--gold); }
-    .n-intro { text-align: center; color: var(--ink); font-size: 15px; margin-bottom: 22px; }
-    .n-perks { display: flex; flex-direction: column; gap: 9px; margin: 0 auto 22px; max-width: 400px; }
-    .n-perks li { list-style: none; display: flex; align-items: flex-start; gap: 10px; font-size: 14.5px; color: rgba(255,255,255,.9); }
-    .n-perks li span { font-size: 17px; flex-shrink: 0; line-height: 1.5; }
 
     /* ─── DeepKids button ─────────────────────────────────────*/
     .btn-wrap {
@@ -525,16 +478,7 @@
     <div class="wrap hero-inner">
     <span class="hero-eyebrow">&#10022;&nbsp; Picture Book&nbsp;&middot;&nbsp;Available Now</span>
     <h1>The Story Of <span class="of-life">Evolution Of Life</span></h1>
-    <p class="hero-sub">A thoroughly researched picture book. It begins in the <b>silent infinite</b> &mdash; the consciousness that the universe and time were born out of &mdash; then the making of the planets, and of Earth. Then the very first RNA, <b>our great-great-grandmother</b>. And from her, four billion years of life experimenting its way to today: where species are dying under human hands, while evolution surges on under our noses, where we don&rsquo;t see it.</p>
-    <div class="pre-cta">
-      <div class="pre-slot">
-        <button type="button" class="pre-btn" data-dk-btn="Add To Cart" data-add="EVO-001"></button>
-      </div>
-      <span class="pre-price">
-        <span class="amt"><s>&#8377;2,499</s><b>&#8377;2,124</b></span>
-        <span class="ship">15% off &middot; printed and in stock</span>
-      </span>
-    </div>
+    <p class="hero-sub">In this deeply researched Evolution picture book, <b>Time narrates the evolution story</b> &mdash; starting with how the Universe began, how our Earth came to be, the birth of the moon, to the very first life: <b>the first RNA, all our great-great-great-grandmother</b>. Her story, her world, her sacrifices, and every species that came from her, until today.</p>
     <div class="kw" aria-label="What this book is">
       <div class="kw-track"><span>Kids &amp; Adults</span><span class="hi">Stunning Art</span><span>Deeply Researched Content</span><span class="hi">4 Billion Years</span><span>Unparalleled Breadth &amp; Depth</span><span>Kids &amp; Adults</span><span class="hi">Stunning Art</span><span>Deeply Researched Content</span><span class="hi">4 Billion Years</span><span>Unparalleled Breadth &amp; Depth</span></div>
     </div>
@@ -548,15 +492,9 @@
        pages use. Only what is particular to this book is here. */
     #evo-buy { padding-block: clamp(40px, 6vh, 72px) clamp(44px, 7vh, 84px); scroll-margin-top: 80px; }
     #evo-buy .buy-cta .btn-label { font-size: 16px !important; letter-spacing: 1.6px !important; }
-    /* The block sets its own type; the zone rules would fight it. */
-    #evo-buy .buy-wrap { position: relative; z-index: 1; }
-    /* Denser reading matter than the other sections carry, so the
-       painting behind it is pulled back further than elsewhere. */
-    #evo-buy .zone-bg img { opacity: .34; }
   </style>
 
-  <section class="zone-art" id="evo-buy">
-    <div class="zone-bg" aria-hidden="true"><img src="sp-22.webp" alt="" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+  <section id="evo-buy">
     <div class="buy-wrap">
 
       <div class="buy-gal rv" id="evo-gal"></div>
@@ -566,30 +504,24 @@
              up, and on a phone every extra row here is one more thing
              between someone and the button. -->
         <ul class="buy-tags">
-          <li>Hardbound</li><li>76 chapters</li><li>4 billion years</li><li>Kids &amp; adults</li>
+          <li>110 pages</li><li>Hardbound</li><li>4 billion years</li><li>Kids &amp; adults</li>
         </ul>
 
         <p class="buy-desc">
-          <span class="buy-desc-line">A hand-painted picture book of <b>the whole story of life</b>.</span>
-          <span class="buy-desc-line">One continuous story, front to back &mdash;</span>
+          <span class="buy-desc-line">The story of Evolution, <b>narrated by Time</b> &mdash; a poetic and scientific tale.</span>
+          <span class="buy-desc-line">Starting from right before our universe was born, to the birth of Earth and the moon, to the beginning of life with <b>the first RNA</b> and every species that came from her, till today.</span>
         </p>
-        <ul class="buy-desc-sub">
-          <li><span>From the silent infinite, before there was time</span></li>
-          <li><span>Through the first RNA, our great-great-grandmother</span></li>
-          <li><span>To what four billion years of experimenting made of us</span></li>
-          <li><span>And what we are now doing to the thing that made us</span></li>
-        </ul>
 
         <ul class="buy-points">
-          <li><span>&bull;</span><span><b>76 chapters</b> in order, each one the consequence of the one before it &mdash; not a list of facts by category.</span></li>
-          <li><span>&bull;</span><span><b>Every page an original painting</b>, made for this book and nothing else. No AI, no stock art.</span></li>
-          <li><span>&bull;</span><span>Every species gets the constraints it was up against and the openings it found &mdash; <b>the pressure first, the biology as the answer to it</b>.</span></li>
-          <li><span>&bull;</span><span><b>No human-supremacy bias.</b> RNA, plants and other animals are what they are: flourishing, intelligent, relentlessly adaptive life.</span></li>
-          <li><span>&bull;</span><span>Leaves the hard questions open &mdash; what we mean by god, and how genes, gender and behaviour are wired to each other.</span></li>
-          <li><span>&bull;</span><span><b>For kids and adults.</b> Read aloud at seven, read alone at forty.</span></li>
+          <li><span>&bull;</span><span><b>Deeply researched.</b></span></li>
+          <li><span>&bull;</span><span><b>Every page a species</b> &mdash; their story, the opportunities they had, the constraints they faced, and the biomechanical innovations each one brought on.</span></li>
+          <li><span>&bull;</span><span><b>Special pages</b> that delve into the deeper questions: god, gender, intelligence, the non-linearity of this grand experiment, and more such original, thought-provoking pages.</span></li>
+          <li><span>&bull;</span><span><b>Original artwork on every page</b>, playing its part in the storytelling.</span></li>
+          <li><span>&bull;</span><span><b>Many hidden elements</b> in the artwork, for extra surprise delights.</span></li>
+          <li><span>&bull;</span><span>Not an ordinary evolution book that stays shallow. <b>We dig deep</b>, we talk about the controversial aspects, and it is one of the few books that challenges the anthropomorphic perspective.</span></li>
+          <li><span>&bull;</span><span><b>For kids and adults.</b></span></li>
+          <li><span>&bull;</span><span><b>110 pages.</b></span></li>
         </ul>
-
-        <p class="buy-glossary">Printed and in stock in our Bengaluru workshop. Not a plan and not a pre-order &mdash; order it and it ships.</p>
 
         <div class="buy-price-row">
           <span class="buy-price"><s>&#8377;2,499</s><b>&#8377;2,124</b></span>
@@ -621,10 +553,10 @@
     mount: '#evo-gal',
     badge: 'In stock',
     shots: [
-      { src: 'evo-cover.webp', cap: 'The book',
+      { src: 'evo-open-nobg.webp', cap: 'The book',
+        alt: 'The Story Of Evolution Of Life picture book standing open — the hand-painted front cover on one side, the titled back cover on the other' },
+      { src: 'evo-cover.webp', cap: 'The painted cover',
         alt: 'The Story Of Evolution Of Life standing on a wooden table, its painted front cover facing out' },
-      { src: 'evo-open.webp', cap: 'Front and back',
-        alt: 'The book stood open at an angle — the painted front cover on one side, the titled back cover on the other' },
       { src: 'evo-flat.webp', cap: 'Hardbound, large format',
         alt: 'The hardbound book lying closed on a wooden table, its title panel and spine showing' },
       { src: 'sp-04.webp', cap: 'Inside: The Birth Of The Earth',
@@ -756,36 +688,16 @@
         <p class="zone-lede rv rv2">What is on each page is not the readily available paragraph about a species. It is every system it ran, every innovation it made, and the story of why it had to.</p>
       </div>
       <div class="diffs">
-        <div class="diff rv"><div class="ico">🧬</div><h3>Every Species, Properly</h3><p>Features, characteristics, and the behavioural innovations each one brought with it &mdash; alongside the constraints it was up against and the openings it found. The pressure comes first; the biology is the answer to it.</p></div>
+        <div class="diff rv"><div class="ico">🧬</div><h3>Every Species, Properly</h3><p>Features, characteristics, and the behavioural innovations they brought with them &mdash; alongside the constraints they were up against and the openings they found. The pressure comes first; the biology is the answer to it.</p></div>
         <div class="diff rv rv2"><div class="ico">🌱</div><h3>No Anthropocentric Bias</h3><p>Most books treat RNA, plants, even other animals as lifeless, mindless material. That could not be further from the truth. Here they are what they are: flourishing, intelligent, relentlessly adaptive life.</p></div>
         <div class="diff rv rv3"><div class="ico">🧠</div><h3>Intelligence Is Not Ours Alone</h3><p>A prokaryote sensed, decided and acted four billion years before there was a brain to do it with. If thinking is older than neurons, the question is not whether other life thinks &mdash; it is why we assumed it didn&rsquo;t.</p></div>
         <div class="diff rv"><div class="ico">❓</div><h3>The Questions It Leaves Open</h3><p>What do we mean by god. How genes, gender and behaviour are wired to each other. Whether humans have lost the capacity for biomechanical evolution. What it means that we are one outcome of all the intelligence that came before us.</p></div>
         <div class="diff rv rv2"><div class="ico">⚖️</div><h3>What We Are Doing To Selection</h3><p>Species are dying under human hands, and at the same time evolution is surging on under our noses, in places we do not look. Both are happening. The book says so.</p></div>
-        <div class="diff rv rv3"><div class="ico">🎨</div><h3>Painted, Not Assembled</h3><p>Every spread is original artwork made for this book and nothing else &mdash; the kind of thing a child stares at long after you have stopped reading aloud.</p></div>
+        <div class="diff rv rv3"><div class="ico">🎨</div><h3>Painted, Not Assembled</h3><p>Original artwork that plays its role in the storytelling &mdash; and hides some surprise details and information.</p></div>
       </div>
     </div>
   </section>
 
-  <!-- ═══════════════ REACH OUT ═══════════════ -->
-  <section class="zone zone-art" id="reach">
-    <div class="zone-bg" aria-hidden="true"><img src="sp-x18.webp" alt="" width="1600" height="1143" loading="lazy" decoding="async"/></div>
-    <div class="wrap">
-      <div class="notify rv">
-        <h2>Reach Out To <em>Know More</em></h2>
-        <p class="n-intro">The book is printed and ready to send. If there is something you want to know before you buy &mdash; a longer look inside, the reading age, copies for a school or a library &mdash; ask us and a person will answer.</p>
-        <ul class="n-perks">
-          <li><span>📖</span> More pages from inside the book, on request</li>
-          <li><span>🏫</span> School, library and bulk orders</li>
-          <li><span>📦</span> Anything about delivery, or the book itself</li>
-        </ul>
-        <div class="reach-ways">
-          <a href="https://wa.me/919739815506?text=Hi%20DeepKids%2C%20I%27d%20like%20to%20know%20more%20about%20The%20Story%20Of%20Evolution%20Of%20Life." target="_blank" rel="noopener">💬&nbsp; WhatsApp Us</a>
-          <a href="mailto:sahyujyahs@gmail.com?subject=The%20Story%20Of%20Evolution%20Of%20Life">✉️&nbsp; Email Us</a>
-        </div>
-        <p class="reach-note">Or just <a href="#evo-buy">buy it</a> &mdash; it is in stock and dispatches from Bengaluru.</p>
-      </div>
-    </div>
-  </section>
 </main>
 
 

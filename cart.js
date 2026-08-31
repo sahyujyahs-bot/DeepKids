@@ -26,7 +26,7 @@
     { sku: 'SCI-001', name: 'SCI. Trading Cards',    price: 119900, off: 0.15,
       href: '/sci',       img: 'sci-box-front.webp' },
     { sku: 'EVO-001', name: 'The Story Of Evolution', price: 249900, off: 0.15,
-      href: '/evolution', img: 'sp-23.webp' }
+      href: '/evolution', img: 'evo-open-nobg.webp' }
   ];
 
   var CART_KEY = 'dk-cart', WISH_KEY = 'dk-wish';
@@ -155,7 +155,11 @@
     '@media (min-width:769px){.dkc-pop{--dkc-top:72px}}',
     '.dkc-pop.open{opacity:1;transform:none;pointer-events:auto}',
     '.dkc-pop h4{font-family:"Norwester",sans-serif;font-variant:small-caps;letter-spacing:2px;',
-      'font-size:14px;color:#cd9edf;margin:0 0 10px}',
+      'font-size:14px;color:#cd9edf;margin:0 0 10px;padding-right:24px}',
+    '.dkc-shut{position:absolute;top:9px;right:10px;width:26px;height:26px;border:0;padding:0;',
+      'border-radius:50%;background:rgba(255,255,255,.07);color:rgba(255,255,255,.7);',
+      'font-size:17px;line-height:1;cursor:pointer;display:grid;place-items:center}',
+    '.dkc-shut:hover{background:rgba(170,89,200,.4);color:#fff}',
     '.dkc-line{display:flex;gap:10px;align-items:center;padding:9px 0;border-bottom:1px solid rgba(255,255,255,.1)}',
     '.dkc-line:last-of-type{border-bottom:0}',
     '.dkc-line img{width:44px;height:44px;object-fit:cover;border-radius:8px;flex-shrink:0}',
@@ -289,6 +293,7 @@
   }
 
   var cartPop = el('div', 'dkc-pop',
+    '<button type="button" class="dkc-shut" data-dkc-close aria-label="Close cart">&times;</button>' +
     '<h4>Your Cart</h4><div id="dkc-cart-lines"></div>' +
     '<div class="dkc-total" id="dkc-total-row" style="display:none"><span>Total</span><b id="dkc-total">₹0</b></div>' +
     '<button type="button" class="dkc-go" id="dkc-go" style="display:none">Checkout</button>' +
@@ -297,7 +302,9 @@
   cartPop.setAttribute('role', 'dialog');
   cartPop.setAttribute('aria-label', 'Your cart');
 
-  var wishPop = el('div', 'dkc-pop', '<h4>Saved For Later</h4><div id="dkc-wish-lines"></div>');
+  var wishPop = el('div', 'dkc-pop',
+    '<button type="button" class="dkc-shut" data-dkc-close aria-label="Close wishlist">&times;</button>' +
+    '<h4>Saved For Later</h4><div id="dkc-wish-lines"></div>');
   wishPop.id = 'dkc-wish-pop';
   wishPop.setAttribute('role', 'dialog');
   wishPop.setAttribute('aria-label', 'Your wishlist');
@@ -611,7 +618,15 @@
   wishBtn.addEventListener('click', function (e) { e.stopPropagation(); openWish(); });
   cartBtn.addEventListener('click', function (e) { e.stopPropagation(); openCart(); });
 
+  /* Every click inside the drawer stops here. Changing a quantity
+     repaints the lines, which detaches the button that was pressed —
+     so by the time the click reached the document the outside-click
+     test no longer recognised it as inside, and the drawer shut on
+     every step. It closes on the X, on Escape, and on a click that
+     genuinely lands outside it. */
   cartPop.addEventListener('click', function (e) {
+    e.stopPropagation();
+    if (e.target.closest('[data-dkc-close]')) { cartPop.classList.remove('open'); return; }
     var less = e.target.closest('[data-less]');
     if (less) { bump(less.getAttribute('data-less'), -1); return; }
     var more = e.target.closest('[data-more]');
@@ -631,6 +646,8 @@
   });
 
   wishPop.addEventListener('click', function (e) {
+    e.stopPropagation();
+    if (e.target.closest('[data-dkc-close]')) { wishPop.classList.remove('open'); return; }
     var a = e.target.closest('[data-wadd]');
     if (a) { wishAdd(a.getAttribute('data-wadd')); return; }
     var r = e.target.closest('[data-wrm]');

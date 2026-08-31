@@ -117,15 +117,14 @@
       .eg-nav { height:68px; padding:0 clamp(20px,4vw,56px); }
       .hero { padding-block:calc(68px + clamp(30px,5vh,60px)) 0; }
     }
-    /* The hero already says DeepKids in 132px type — repeating it in the bar
-       on top of it is noise. The wordmark appears once you scroll past. */
+    /* The corner reads DeepKids from the top of the page, the same as
+       every other page does. It used to wait for the hero to scroll
+       away, on the grounds that the hero says DeepKids in 132px type
+       right underneath it. */
     .eg-nav-logo {
       font-family:var(--font-head); font-size:clamp(18px,2.4vw,28px);
       color:var(--purple); text-decoration:none; letter-spacing:1px; white-space:nowrap;
-      opacity:0; pointer-events:none; transform:translateY(-4px);
-      transition:opacity .3s ease, transform .3s ease;
     }
-    .eg-nav-logo.show { opacity:1; pointer-events:auto; transform:none; }
     .eg-nav-logo b { color:#fff; font-weight:normal; }
     .eg-nav-right { display:flex; align-items:center; gap:clamp(8px,1.6vw,16px); }
     .eg-nav-menu-btn {
@@ -481,7 +480,7 @@
   <section class="sec wrap">
     <div class="sec-head">
       <span class="sec-kicker rv">DeepKids games</span>
-      <h2 class="rv">Why You Should <em>Buy One</em></h2>
+      <h2 class="rv">Why Should <em>You Buy</em></h2>
     </div>
     <div class="tiles">
       <span class="tile rv t-lg">Screen Free</span>
@@ -595,7 +594,7 @@
   </style>
   <section class="sec wrap" id="parents">
     <div class="sec-head">
-      <h2 class="rv">What Playtest <em>Parents Say</em></h2>
+      <h2 class="rv">What <em>Parents Say</em></h2>
     </div>
     <div class="pq-grid">
       <div class="pq-card rv">
@@ -726,8 +725,8 @@ var SHOTS = {
               {src:'sci-noether-front.webp',     alt:'The Emmy Noether card \u2014 hand-drawn portrait against a field of symmetry patterns', framed:true},
               {src:'sci-brahmagupta-back.webp',  alt:'The back of the Brahmagupta card, giving the discovery and where you meet it in everyday life', framed:true},
               {src:'sci-noether-back.webp',      alt:'The back of the Emmy Noether card, giving the discovery and where you meet it in everyday life', framed:true}],
-  'EVO-001': [{src:'evo-cover.webp', alt:'The Story Of Evolution Of Life, the printed book resting on a table, its painted cover facing up'},
-              {src:'evo-open.webp',  alt:'The printed book held open, a hand-painted spread running across both pages'},
+  'EVO-001': [{src:'evo-open-nobg.webp', alt:'The Story Of Evolution Of Life picture book standing open, its hand-painted front cover on one side and the titled back cover on the other'},
+              {src:'evo-cover.webp', alt:'The Story Of Evolution Of Life, the printed hardback resting on a wooden table, its painted front cover facing out'},
               {src:'evo-flat.webp',  alt:'The Story Of Evolution Of Life lying flat, showing the full painted front cover'},
               {src:'sp-23.webp', alt:'Thought Predates Neurons \u2014 a sphere of lit points wired into a network, alone in the dark', framed:true},
               {src:'sp-17.webp', alt:'Multicellularity And The First Plant \u2014 red and orange algae fanning out through a lit ocean', framed:true},
@@ -1002,20 +1001,6 @@ if ('IntersectionObserver' in window) {
 } else {
   document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
 }
-
-/* ══ The bar's wordmark only after the hero ══
-   On the hero the page already says DeepKids in 132px type; a second copy
-   in the bar directly above it is pure redundancy. It fades in once the
-   hero has scrolled away and the bar needs to identify the site again. */
-(function(){
-  var logo = document.getElementById('nav-logo');
-  var hero = document.querySelector('.hero');
-  if (!logo || !hero) return;
-  if (!('IntersectionObserver' in window)) { logo.classList.add('show'); return; }
-  new IntersectionObserver(function(es){
-    logo.classList.toggle('show', !es[0].isIntersecting);
-  }, { threshold: 0, rootMargin: '-45% 0px 0px 0px' }).observe(hero);
-})();
 
 /* ══ Old EscapeGravity deep links ══
    EscapeGravity used to be the root, so its sections were shared and

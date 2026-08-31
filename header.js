@@ -20,12 +20,19 @@
   var LOGO = 'Deep<b>Kids</b>';
 
   /* A bar the page built itself. Keep it, and keep its markup — those
-     pages write the wordmark the same way and style it themselves. The
-     one thing enforced here is where the corner goes. */
-  var own = document.querySelector('.eg-nav-logo, .mast-logo');
-  if (own) {
-    own.setAttribute('href', '/');
-    own.setAttribute('aria-label', 'DeepKids home');
+     pages write the wordmark the same way and style it themselves, and
+     their own scripts hang the cart and the order button off it. The
+     one thing enforced here is where the corner goes.
+
+     The test is the bar, not the wordmark: the SCI. page names its
+     logo .nav-logo, and looking only for a wordmark class meant its
+     whole nav was torn out and replaced. */
+  if (document.querySelector('.eg-nav, .mast')) {
+    var own = document.querySelector('.eg-nav-logo, .mast-logo, .nav-logo');
+    if (own) {
+      own.setAttribute('href', '/');
+      own.setAttribute('aria-label', 'DeepKids home');
+    }
     return;
   }
 
