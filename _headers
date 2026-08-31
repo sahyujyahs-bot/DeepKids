@@ -1,0 +1,71 @@
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Images change rarely and are safe to cache for a month; when one is
+# replaced it keeps the same URL, so avoid immutable/1-year here.
+/*.webp
+  Cache-Control: public, max-age=2592000
+/*.png
+  Cache-Control: public, max-age=2592000
+/*.jpg
+  Cache-Control: public, max-age=2592000
+/*.jpeg
+  Cache-Control: public, max-age=2592000
+/*.svg
+  Cache-Control: public, max-age=2592000
+
+# Audio/video assets
+/*.mp3
+  Cache-Control: public, max-age=2592000
+/*.mp4
+  Cache-Control: public, max-age=2592000
+
+# Fonts never change
+/*.ttf
+  Cache-Control: public, max-age=31536000, immutable
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+# Vendored libraries are versioned via ?v= query and never edited in
+# place, so they can cache long-term.
+/vendor/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# JS/CSS bundles are cache-busted via ?v= query params in the HTML,
+# but keep a shorter window so un-versioned edits still roll out.
+/assets/*
+  Cache-Control: public, max-age=604800
+/cards.js
+  Cache-Control: public, max-age=604800
+
+# The shared modules at the root are edited in place, are a few KB
+# each, and carry things that must never be stale — cart.js holds the
+# prices. Without a rule here they inherited a browser cache window,
+# and a deploy could leave someone on an old cart.js with new HTML.
+# Revalidating costs a 304.
+/cart.js
+  Cache-Control: public, max-age=0, must-revalidate
+/checkout.js
+  Cache-Control: public, max-age=0, must-revalidate
+/dkbtn.js
+  Cache-Control: public, max-age=0, must-revalidate
+/footer.js
+  Cache-Control: public, max-age=0, must-revalidate
+/header.js
+  Cache-Control: public, max-age=0, must-revalidate
+/menu.js
+  Cache-Control: public, max-age=0, must-revalidate
+/nudge.js
+  Cache-Control: public, max-age=0, must-revalidate
+/productblock.js
+  Cache-Control: public, max-age=0, must-revalidate
+/track.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+# HTML must always revalidate so deploys show up immediately.
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+/
+  Cache-Control: public, max-age=0, must-revalidate

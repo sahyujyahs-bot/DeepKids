@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Story Of Evolution Of Life &mdash; Evolution Picture Book For Kids | DeepKids</title>
+  <meta name="description" content="An evolution picture book for kids and adults: the story of evolution narrated by Time, from right before the universe was born to the birth of Earth and the moon, to the first RNA and every species that came from her. 110 pages, original artwork throughout. Free delivery across India."/>
+  <link rel="canonical" href="https://deepkids.in/evolution"/>
+  <meta property="og:title" content="The Story Of Evolution Of Life &mdash; A Hand-Painted Evolution Picture Book"/>
+  <meta property="og:description" content="The story of evolution narrated by Time. 110 pages, a species on every page, original artwork throughout, and the deeper questions most books leave out. For kids and adults."/>
+  <meta property="og:image" content="https://deepkids.in/evo-open-nobg.webp"/>
+  <meta property="og:url" content="https://deepkids.in/evolution"/>
+  <meta property="og:type" content="website"/>
+  <meta name="theme-color" content="#05030f"/>
+  <link rel="icon" href="/favicon.ico" sizes="any"/>
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+  <!-- Internal-traffic kill switch (same as the rest of the site): ?notrack / ?track -->
+  <script>
+    window._egNoTrack = (function(){
+      try {
+        var q = new URLSearchParams(location.search);
+        if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+        if (q.has('track')) localStorage.removeItem('eg-notrack');
+        return localStorage.getItem('eg-notrack') === '1';
+      } catch(e) { return false; }
+    })();
+    window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
+    window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
+  <script>
+    if (!window._egNoTrack) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GYJLZ0FVJE');
+      gtag('config', 'AW-18110551284');
+    }
+  </script>
+  <script>
+    if (!window._egNoTrack) (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window,document,"clarity","script","xc1qgqypu0");
+  </script>
+  <script>
+    if (!window._egNoTrack) {
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+    (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1960497127528559');
+    fbq('track', 'PageView');
+    fbq('trackCustom', 'EvolutionView');
+    }
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1960497127528559&ev=PageView&noscript=1" alt=""/></noscript>
+
+  <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
+  <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
+
+  <style>
+    @font-face {
+      font-family: 'Norwester';
+      src: url('norwester.ttf') format('truetype');
+      font-weight: normal; font-style: normal; font-display: swap;
+    }
+    @font-face {
+      font-family: 'Futura';
+      src: url('fonts/futura-book.otf') format('opentype');
+      font-weight: 400; font-style: normal; font-display: swap;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       DESIGN IDEA — "deep time"
+
+       The book's subject is one unbroken 4-billion-year story, so
+       the page is a single timeline you fall down. Each chapter
+       arrives as a full-bleed spread of the actual artwork with its
+       era stamped on it.
+       ══════════════════════════════════════════════════════════ */
+
+    :root {
+      --purple: #aa59c8; --purple-rgb: 170,89,200;
+      --lilac: #cd9edf;
+      --gold: #ffb300; --gold-rgb: 255,179,0;
+      --lime: #c0e638;
+      --cyan: #4fd8e8;
+      --rose: #ff8fb1;
+      --ink: rgba(255,255,255,.84); --ink-dim: rgba(255,255,255,.58);
+      --font-head: 'Norwester', sans-serif;
+      --font-body: 'Futura', 'Segoe UI', sans-serif;
+
+      --gap-section: clamp(60px, 10vh, 118px);
+      --gap-block: clamp(24px, 4vh, 42px);
+      --mast-h: 56px;
+    }
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: #05030f;
+      color: #fff; font-family: var(--font-body); line-height: 1.65; overflow-x: hidden;
+    }
+    img { max-width: 100%; height: auto; display: block; }
+    a { color: var(--lilac); }
+    h1, h2, h3 { font-family: var(--font-head); font-weight: normal; font-variant: small-caps; line-height: 1.05; }
+
+    .wrap {
+      max-width: 1040px; margin: 0 auto;
+      padding-inline: clamp(20px, 5vw, 40px);
+    }
+
+    /* ─── Deep-time backdrop ──────────────────────────────────*/
+    .eons { position: fixed; inset: 0; z-index: 0; pointer-events: none; }
+    .eon { position: absolute; inset: 0; opacity: 0; transition: opacity 1.1s ease; }
+    .eon.on { opacity: 1; }
+    .eon-void {
+      background:
+        radial-gradient(760px 560px at 50% 42%, rgba(255,122,61,.16), transparent 66%),
+        linear-gradient(180deg, #05030f 0%, #0a0518 60%, #05030f 100%);
+    }
+    .eon-forge {
+      background:
+        radial-gradient(900px 620px at 68% 26%, rgba(255,122,61,.24), transparent 68%),
+        radial-gradient(700px 520px at 22% 74%, rgba(255,179,0,.14), transparent 70%),
+        linear-gradient(180deg, #14060f 0%, #1d0913 55%, #0d0410 100%);
+    }
+    .eon-ocean {
+      background:
+        radial-gradient(1000px 640px at 30% 22%, rgba(79,216,232,.2), transparent 68%),
+        radial-gradient(820px 560px at 78% 72%, rgba(var(--purple-rgb), .22), transparent 70%),
+        linear-gradient(180deg, #04121e 0%, #071a2a 50%, #050d1c 100%);
+    }
+    .eon-life {
+      background:
+        radial-gradient(960px 620px at 24% 30%, rgba(var(--purple-rgb), .28), transparent 70%),
+        radial-gradient(780px 540px at 82% 70%, rgba(192,230,56,.12), transparent 70%),
+        linear-gradient(180deg, #0b0a24 0%, #12142e 55%, #080a1a 100%);
+    }
+    .eon-green {
+      background:
+        radial-gradient(980px 640px at 34% 34%, rgba(192,230,56,.16), transparent 68%),
+        radial-gradient(820px 560px at 76% 72%, rgba(var(--purple-rgb), .2), transparent 70%),
+        linear-gradient(180deg, #0a1410 0%, #121c14 55%, #070f0b 100%);
+    }
+    .dust { position: fixed; inset: 0; z-index: 0; pointer-events: none; opacity: .75;
+      background-image:
+        radial-gradient(1.7px 1.7px at 13% 19%, rgba(255,255,255,.7), transparent),
+        radial-gradient(1.4px 1.4px at 36% 8%,  rgba(255,255,255,.55), transparent),
+        radial-gradient(2px 2px   at 61% 25%, rgba(255,255,255,.65), transparent),
+        radial-gradient(1.4px 1.4px at 88% 15%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.7px 1.7px at 24% 59%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.4px 1.4px at 71% 51%, rgba(255,255,255,.55), transparent),
+        radial-gradient(2px 2px   at 44% 79%, rgba(255,255,255,.45), transparent),
+        radial-gradient(1.4px 1.4px at 93% 86%, rgba(255,255,255,.5), transparent);
+      animation: adrift 34s linear infinite;
+    }
+    @keyframes adrift { from { transform: translateY(0); } to { transform: translateY(-70px); } }
+
+    header, main, footer { position: relative; z-index: 2; }
+
+    @media (prefers-reduced-motion: reduce) { .dust { animation: none; } }
+
+    /* ─── Masthead ────────────────────────────────────────────*/
+    .mast {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 45;
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+      padding: 12px clamp(16px, 4vw, 34px);
+      background: rgba(5,3,15,.72);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(255,255,255,.07);
+    }
+    .mast-logo { font-family: var(--font-head); font-variant: small-caps; letter-spacing: .5px;
+      font-size: clamp(18px, 2.6vw, 23px); color: #fff; text-decoration: none; }
+    .mast-logo b { color: var(--purple); font-weight: normal; }
+    .eg-nav-right { display: flex; align-items: center; gap: clamp(6px, 1.4vw, 14px); }
+    .eg-nav-menu-btn {
+      display: flex; flex-direction: column; justify-content: center; gap: 5px;
+      width: 40px; height: 40px; padding: 8px; background: none; border: 0; cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .eg-nav-menu-btn span { display: block; height: 2px; width: 100%; border-radius: 2px;
+      background: #cd9edf; transition: transform .3s ease, opacity .2s ease; }
+    .eg-nav-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .eg-nav-menu-btn.open span:nth-child(2) { opacity: 0; }
+    .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    @media (max-width: 660px) { .mast nav a.hide-sm { display: none; } }
+
+    /* ─── Hero ────────────────────────────────────────────────*/
+    /* Full-bleed so the painting runs edge to edge. */
+    .hero {
+      position: relative; overflow: hidden;
+      min-height: 100vh; min-height: 100dvh;
+      display: flex; align-items: center;
+      padding-block: clamp(80px, 11vh, 118px) clamp(24px, 4vh, 46px);
+    }
+    .hero-inner {
+      container-type: inline-size; width: 100%; text-align: center; display: flex; flex-direction: column; }
+    /* It's a picture book — so the hero is a page from it, dropped
+       behind the title and scrimmed down until the type sits clean. */
+    .hero-art {
+      position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none;
+    }
+    .hero-art img {
+      width: 100%; height: 100%; object-fit: cover; opacity: .72;
+      transform: scale(1.04);
+      animation: breathe 26s ease-in-out infinite alternate;
+    }
+    @keyframes breathe { from { transform: scale(1.04); } to { transform: scale(1.14); } }
+    .hero-art::after {
+      content: ''; position: absolute; inset: 0;
+      background:
+        radial-gradient(105% 70% at 50% 48%, rgba(5,3,15,.2) 0%, rgba(5,3,15,.72) 62%, rgba(5,3,15,.96) 100%),
+        linear-gradient(180deg, rgba(5,3,15,.86) 0%, rgba(5,3,15,.12) 32%, rgba(5,3,15,.9) 100%);
+    }
+    @media (prefers-reduced-motion: reduce) { .hero-art img { animation: none; } }
+    .hero-eyebrow {
+      display: inline-flex; align-self: center; align-items: center; gap: 9px;
+      font-size: clamp(8px, 1.9vw, 12.5px); letter-spacing: clamp(1.6px, .5vw, 4px);
+      text-transform: uppercase; white-space: nowrap;
+      color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .42); border-radius: 999px;
+      padding: 6px 18px; margin-bottom: clamp(20px, 3.5vh, 34px);
+      background: rgba(var(--gold-rgb), .08);
+    }
+    .hero h1 {
+      /* One line at every width. Sized against the containing column
+         rather than the viewport, because past 1040px the column stops
+         growing and a vw-based size would overrun it. */
+      font-size: min(5.3cqw, 56px); line-height: 1.08; letter-spacing: .5px;
+      white-space: nowrap;
+      background: linear-gradient(180deg, #fff 0%, #ffe6b0 32%, var(--gold) 68%, #ff7a3d 100%);
+      -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
+      filter: drop-shadow(0 0 44px rgba(255,179,0,.4)) drop-shadow(0 4px 20px rgba(0,0,0,.85));
+    }
+    .hero .of-life { display: inline; }
+    .hero-sub {
+      font-size: clamp(12.5px, 3.4vw, 18px); color: var(--ink);
+      max-width: 620px; margin: clamp(20px, 3.2vh, 32px) auto 0;
+      text-shadow: 0 2px 14px rgba(0,0,0,.9);
+    }
+    .hero-sub b { color: #fff; }
+    .hero-facts { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: clamp(22px, 3.5vh, 34px); }
+    .hero-facts span {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 2.5px; font-size: clamp(12px, 1.6vw, 14.5px);
+      color: var(--lilac); border: 1px solid rgba(var(--purple-rgb), .4); border-radius: 999px;
+      padding: 5px 16px; background: rgba(var(--purple-rgb), .1);
+    }
+    .scroll-cue {
+      margin-top: clamp(26px, 4.5vh, 46px); align-self: center;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 4px; font-size: 12.5px;
+      color: rgba(255,255,255,.6); text-decoration: none;
+      display: inline-flex; flex-direction: column; align-items: center; gap: 8px;
+    }
+    .scroll-cue span { display: block; width: 1px; height: 44px;
+      background: linear-gradient(180deg, rgba(255,255,255,.7), transparent);
+      animation: fall 2.4s ease-in-out infinite; }
+    @keyframes fall { 0%,100% { transform: scaleY(.5); opacity: .4; transform-origin: top; } 50% { transform: scaleY(1); opacity: 1; transform-origin: top; } }
+
+    /* ─── Sections ────────────────────────────────────────────*/
+    .zone { padding-block: var(--gap-section); }
+    /* Sections whose content is artwork: no side padding of their own, so
+       a spread reaches both edges of the column — but still clear of the
+       deep-time rail, which is fixed over the left of the viewport. */
+    .zone-head { margin-bottom: var(--gap-block); }
+    .zone-kicker {
+      display: block; font-family: var(--font-head); font-variant: small-caps;
+      font-size: clamp(11px, 1.5vw, 13px); letter-spacing: 4px; color: var(--gold); margin-bottom: 8px;
+    }
+    .zone h2 { font-size: clamp(27px, 5.4vw, 48px); color: #fff; text-shadow: 0 0 30px rgba(var(--purple-rgb), .4); }
+    .zone h2 em { font-style: normal; color: var(--lilac); }
+    .zone-lede { max-width: 660px; margin-top: 16px; color: var(--ink); font-size: clamp(15px, 2vw, 17.5px); }
+    .zone-lede b { color: #fff; }
+
+    /* ─── Painted section backdrops ───────────────────────────
+       Full-bleed, so a spread reaches both edges of the screen —
+       which is why the section holds the art and an inner .wrap
+       holds the column of type. Scrimmed until white type sits
+       clean on it: the painting is atmosphere, not the subject. */
+    .zone-art { position: relative; overflow: hidden; }
+    .zone-bg { position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+    .zone-bg img { position: sticky; top: 0; width: 100%; height: 100vh; object-fit: cover; opacity: .8; }
+    /* Only the join to the sections above and below, plus enough of a
+       vignette that the corners do not fight the type. Fixed distances,
+       not percentages: on a section four screens tall a percentage fade
+       leaves the middle unscrimmed and the joins unfaded. */
+    .zone-bg::after {
+      content: ''; position: absolute; inset: 0;
+      background:
+        radial-gradient(120% 88% at 50% 50%, rgba(5,3,15,0) 0%, rgba(5,3,15,.28) 62%, rgba(5,3,15,.72) 100%),
+        linear-gradient(180deg, rgba(5,3,15,.95) 0%, rgba(5,3,15,0) 180px, rgba(5,3,15,0) calc(100% - 180px), rgba(5,3,15,.95) 100%);
+    }
+    /* Type over a painting needs its own ground. */
+    /* The painting is doing more work now, so everything set over it
+       carries its own ground rather than relying on the scrim. */
+    .zone-art h2, .zone-art .zone-kicker, .zone-art .zone-lede,
+    .zone-art .flow-era h3, .zone-art .flow-era span, .zone-art .flow-step {
+      text-shadow: 0 1px 3px rgba(5,3,15,.95), 0 2px 16px rgba(5,3,15,.9);
+    }
+    /* The cards are translucent by design; over art they need to be
+       less so, or the painting reads straight through the words. */
+    .zone-art .diff { background: linear-gradient(170deg, rgba(12,8,26,.82), rgba(8,5,20,.68) 70%); backdrop-filter: blur(3px); }
+
+    /* ─── Excerpt: a real page from the book ──────────────────*/
+    /* ─── Hero, one screen ────────────────────────────────────*/
+    .hero-facts { display: none; }          /* replaced by the ticker */
+    .hero-inner h1 { margin-bottom: clamp(8px, 1.3vh, 15px); }
+    .hero-sub { max-width: 62ch; }
+    /* Short screens: the hero still has to be one screen, so the type
+       steps down rather than the section growing past the fold. */
+    @media (max-height: 780px) {
+      .hero { padding-block: clamp(66px, 9vh, 92px) clamp(16px, 3vh, 30px); }
+      .hero-inner h1 { font-size: min(5.3cqw, 40px); }
+      .hero-sub { font-size: clamp(11.5px, 3vw, 15px); max-width: 58ch; }
+      .hero-eyebrow { font-size: clamp(8px, 1.8vw, 11px); }
+      .kw { padding-block: 7px; margin-top: 12px; }
+      .kw-track span { font-size: clamp(12px, 1.8vw, 17px); }
+    }
+    /* Button and price share one centre line and one width, so the price
+       cannot sit off to the side of the button above it. */
+    /* ─── Keyword ticker ──────────────────────────────────────*/
+    .kw {
+      margin-top: clamp(14px, 2.2vh, 26px);
+      padding-block: clamp(9px, 1.4vh, 14px);
+      border-block: 1px solid rgba(var(--purple-rgb), .22);
+      -webkit-mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
+      mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
+    }
+    .kw {
+      overflow-x: auto; scrollbar-width: none; -ms-overflow-style: none;
+      overscroll-behavior-x: contain; cursor: grab; -webkit-overflow-scrolling: touch;
+      touch-action: pan-x;
+    }
+    .kw::-webkit-scrollbar { display: none; }
+    .kw.dragging { cursor: grabbing; }
+    .kw-track { display: flex; width: max-content; gap: clamp(18px, 3vw, 36px); }
+    .kw-track span {
+      display: flex; align-items: center; gap: clamp(18px, 3vw, 36px); white-space: nowrap;
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: clamp(14px, 2.2vw, 24px); color: rgba(255,255,255,.62);
+    }
+    .kw-track span::after { content: '✦'; font-size: .5em; color: var(--purple); }
+    .kw-track span.hi { color: #fff; }
+
+    /* ─── The spreads ─────────────────────────────────────────*/
+
+    /* ─── Chapter flow ────────────────────────────────────────*/
+    /* Seventy-six chapters is a wall as a list. As a flow it reads as
+       what it is: one chain, where each link is the consequence of the
+       one before. Two columns on a wide screen, each carrying its own
+       spine — a single absolutely-positioned line cannot follow CSS
+       columns, so the second column had dots and no thread. */
+    .flow { counter-reset: flow; display: grid; grid-template-columns: 1fr; gap: clamp(24px, 4vw, 56px); }
+    @media (min-width: 820px) { .flow { grid-template-columns: 1fr 1fr; } }
+    .flow-col { position: relative; padding-left: clamp(34px, 4.4vw, 46px); }
+    .flow-col::before {
+      content: ''; position: absolute; left: clamp(13px, 1.8vw, 17px); top: 10px; bottom: 10px;
+      width: 2px; border-radius: 2px;
+      background: linear-gradient(180deg,
+        rgba(var(--purple-rgb), .12), rgba(var(--purple-rgb), .65) 8%,
+        rgba(var(--purple-rgb), .65) 92%, rgba(var(--purple-rgb), .12));
+    }
+    .flow-era { position: relative; margin: clamp(22px, 3.2vh, 34px) 0 10px; }
+    .flow-col > .flow-era:first-child { margin-top: 0; }
+    .flow-era::before {
+      content: ''; position: absolute;
+      left: calc(-1 * clamp(34px, 4.4vw, 46px) + clamp(8px, 1.2vw, 12px));
+      top: 6px; width: 12px; height: 12px; border-radius: 50%;
+      background: var(--gold); box-shadow: 0 0 0 4px #0b0718, 0 0 14px rgba(255,179,0,.65);
+    }
+    .flow-era h3 {
+      font-family: var(--font-head); font-variant: small-caps; letter-spacing: 3px;
+      font-size: clamp(14px, 2.1vw, 19px); color: #fff;
+    }
+    .flow-era span {
+      display: block; font-family: var(--font-head); font-variant: small-caps;
+      letter-spacing: 2px; font-size: clamp(10px, 1.3vw, 12px); color: var(--gold); opacity: .85;
+    }
+    /* The number is the node — one marker, not a number sitting behind a
+       dot where neither could be read. */
+    .flow-step {
+      position: relative; display: block; padding: 6px 0;
+      font-size: clamp(13.5px, 1.7vw, 15.5px); color: var(--ink);
+      transition: color .18s ease;
+    }
+    .flow-step::before {
+      counter-increment: flow; content: counter(flow);
+      position: absolute; left: calc(-1 * clamp(34px, 4.4vw, 46px)); top: 4px;
+      width: clamp(26px, 3.6vw, 34px); height: 20px; line-height: 20px; text-align: center;
+      font-family: var(--font-head); font-size: 11px;
+      color: var(--lilac); background: #0b0718;
+      box-shadow: 0 2px 10px rgba(5,3,15,.8);
+      border: 1px solid rgba(var(--purple-rgb), .5); border-radius: 999px;
+      transition: background .18s ease, color .18s ease, border-color .18s ease;
+    }
+    /* ─── Difference list ─────────────────────────────────────*/
+    .diffs { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: clamp(14px, 2vw, 20px); }
+    .diff {
+      padding: 26px 22px; border-radius: 18px;
+      background: linear-gradient(170deg, rgba(255,255,255,.06), rgba(255,255,255,.015) 70%);
+      border: 1px solid rgba(255,255,255,.14);
+      transition: transform .3s ease, border-color .3s ease;
+    }
+    .diff:hover { transform: translateY(-4px); border-color: rgba(var(--purple-rgb), .5); }
+    .diff .ico { font-size: 26px; margin-bottom: 12px; }
+    .diff h3 { font-size: 18.5px; color: #fff; letter-spacing: .5px; margin-bottom: 8px; }
+    .diff p { font-size: 14.5px; color: var(--ink-dim); }
+
+
+    /* ─── DeepKids button ─────────────────────────────────────*/
+    .btn-wrap {
+      position: relative; display: inline-block; cursor: pointer; text-decoration: none;
+      background: none; border: none; padding: 0; font: inherit;
+      animation: btn-bob 3.5s ease-in-out infinite;
+      filter: drop-shadow(0 0 16px rgba(var(--purple-rgb),.4)) drop-shadow(0 4px 12px rgba(0,0,0,.45));
+      transition: filter .3s ease, transform .3s ease;
+    }
+    .btn-wrap:hover { transform: translateY(-3px) scale(1.04); animation: none;
+      filter: drop-shadow(0 0 24px rgba(var(--purple-rgb),.65)) drop-shadow(0 6px 18px rgba(0,0,0,.5)) brightness(1.1); }
+    .btn-wrap:active { transform: scale(.97); animation: none; }
+    @keyframes btn-bob { 0%,100% { transform: scale(1) translateY(0); } 50% { transform: scale(1.03) translateY(-4px); } }
+    .btn-svg { display: block; width: clamp(200px, 58vw, 280px); height: auto; overflow: visible; }
+    .btn-label {
+      position: absolute; top: 50%; left: 38%; transform: translate(-50%,-50%);
+      font-family: var(--font-head); font-variant: small-caps; font-size: clamp(15px, 4.2vw, 21px);
+      letter-spacing: clamp(1px,.5vw,3px); color: #fff; text-shadow: 1px 1px 3px rgba(0,0,0,.7);
+      pointer-events: none; white-space: nowrap;
+    }
+
+    footer { text-align: center; padding: 38px 16px 52px; font-size: 13px; color: rgba(255,255,255,.5); }
+    footer .f-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 0; }
+    footer a { margin: 0 9px; color: rgba(255,255,255,.66); text-decoration: none; }
+    footer a:hover { color: #fff; }
+
+    /* ─── Reveal ──────────────────────────────────────────────*/
+    .rv { opacity: 0; transform: translateY(26px); transition: opacity .8s ease, transform .8s ease; }
+    .rv.in { opacity: 1; transform: none; }
+    .rv2 { transition-delay: .09s; } .rv3 { transition-delay: .18s; }
+    @media (prefers-reduced-motion: reduce) {
+      .rv { opacity: 1; transform: none; transition: none; }
+      .btn-wrap, .scroll-cue span { animation: none !important; }
+      html { scroll-behavior: auto; }
+    }
+  </style>
+  <meta name="keywords" content="evolution picture book, evolution for kids, picture books for kids, science books for kids, books for kids, science picture books, evolution book for children, biology for kids, gifts for kids, science books for 7 to 14 year olds, DeepKids"/>
+  <meta name="robots" content="index, follow"/>
+  <meta property="og:site_name" content="DeepKids"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="The Story Of Evolution Of Life &mdash; A Hand-Painted Evolution Picture Book"/>
+  <meta name="twitter:description" content="The story of evolution narrated by Time. 110 pages, a species on every page, original artwork throughout, and the deeper questions most books leave out. For kids and adults."/>
+  <meta name="twitter:image" content="https://deepkids.in/evo-open-nobg.webp"/>
+  <meta name="author" content="DeepKids"/>
+  <!-- Structured data: what this page is, for search engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "The Story Of Evolution Of Life",
+    "description": "An evolution picture book for kids and adults, narrated by Time: from right before the universe was born, to the birth of Earth and the moon, to the first RNA and every species that came from her. A species on every page, original artwork throughout, and pages on god, gender, intelligence and the non-linearity of the whole experiment.",
+    "image": "https://deepkids.in/evo-open-nobg.webp",
+    "bookFormat": "https://schema.org/Hardcover",
+    "numberOfPages": 110,
+    "inLanguage": "en",
+    "author": {
+      "@type": "Person",
+      "name": "Sahyujyah Shrinivas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "DeepKids"
+    },
+    "audience": {
+      "@type": "PeopleAudience",
+      "suggestedMinAge": 7,
+      "suggestedMaxAge": 14
+    },
+    "genre": "Children’s science picture book",
+    "keywords": "evolution picture book, evolution for kids, picture books for kids, science books for kids, science picture books",
+    "url": "https://deepkids.in/evolution",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://deepkids.in/evolution",
+      "priceCurrency": "INR",
+      "price": "2124",
+      "priceValidUntil": "2026-12-31",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "seller": {
+        "@type": "Organization",
+        "name": "DeepKids",
+        "url": "https://deepkids.in"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "0",
+          "currency": "INR"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "IN"
+        }
+      }
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Shop",
+        "item": "https://deepkids.in/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "The Story Of Evolution Of Life",
+        "item": "https://deepkids.in/evolution"
+      }
+    ]
+  }
+  </script>
+</head>
+<body data-dk-product="EVO-001">
+
+<div class="eons" aria-hidden="true">
+  <div class="eon eon-void on" data-eon="void"></div>
+  <div class="eon eon-forge" data-eon="forge"></div>
+  <div class="eon eon-ocean" data-eon="ocean"></div>
+  <div class="eon eon-life"  data-eon="life"></div>
+  <div class="eon eon-green" data-eon="green"></div>
+</div>
+<div class="dust" aria-hidden="true"></div>
+
+</div>
+
+<header class="mast eg-nav">
+  <a class="mast-logo" href="/"><b>Deep</b>Kids</a>
+  <div class="eg-nav-right">
+    <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main>
+  <!-- ═══════════════ HERO ═══════════════ -->
+  <section class="hero" id="top">
+    <div class="hero-art" aria-hidden="true">
+      <img src="sp-23.webp" alt="Thought Predates Neurons — a hand-painted spread from The Story Of Evolution Of Life" width="1600" height="1143" fetchpriority="high" decoding="async"/>
+    </div>
+    <div class="wrap hero-inner">
+    <span class="hero-eyebrow">&#10022;&nbsp; Picture Book&nbsp;&middot;&nbsp;Available Now</span>
+    <h1>The Story Of <span class="of-life">Evolution Of Life</span></h1>
+    <p class="hero-sub">In this deeply researched Evolution picture book, <b>Time narrates the evolution story</b> &mdash; starting with how the Universe began, how our Earth came to be, the birth of the moon, to the very first life: <b>the first RNA, all our great-great-great-grandmother</b>. Her story, her world, her sacrifices, and every species that came from her, until today.</p>
+    <div class="kw" aria-label="What this book is">
+      <div class="kw-track"><span>Kids &amp; Adults</span><span class="hi">Stunning Art</span><span>Deeply Researched Content</span><span class="hi">4 Billion Years</span><span>Unparalleled Breadth &amp; Depth</span><span>Kids &amp; Adults</span><span class="hi">Stunning Art</span><span>Deeply Researched Content</span><span class="hi">4 Billion Years</span><span>Unparalleled Breadth &amp; Depth</span></div>
+    </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ PRODUCT ═══════════════ -->
+  <style>
+    /* The layout, the gallery, the zoom and the pincode check all come
+       from /productblock.js — the same file the EscapeGravity and SCI.
+       pages use. Only what is particular to this book is here. */
+    #evo-buy { padding-block: clamp(40px, 6vh, 72px) clamp(44px, 7vh, 84px); scroll-margin-top: 80px; }
+    #evo-buy .buy-cta .btn-label { font-size: 16px !important; letter-spacing: 1.6px !important; }
+  </style>
+
+  <section id="evo-buy">
+    <div class="buy-wrap">
+
+      <div class="buy-gal rv" id="evo-gal"></div>
+
+      <div class="buy-info rv">
+        <!-- No title and no strapline: the hero says both, one screen
+             up, and on a phone every extra row here is one more thing
+             between someone and the button. -->
+        <ul class="buy-tags">
+          <li>110 pages</li><li>Hardbound</li><li>4 billion years</li><li>Kids &amp; adults</li>
+        </ul>
+
+        <p class="buy-desc">
+          <span class="buy-desc-line">The story of Evolution, <b>narrated by Time</b> &mdash; a poetic and scientific tale.</span>
+          <span class="buy-desc-line">Starting from right before our universe was born, to the birth of Earth and the moon, to the beginning of life with <b>the first RNA</b> and every species that came from her, till today.</span>
+        </p>
+
+        <ul class="buy-points">
+          <li><span>&bull;</span><span><b>Deeply researched.</b></span></li>
+          <li><span>&bull;</span><span><b>Every page a species</b> &mdash; their story, the opportunities they had, the constraints they faced, and the biomechanical innovations each one brought on.</span></li>
+          <li><span>&bull;</span><span><b>Special pages</b> that delve into the deeper questions: god, gender, intelligence, the non-linearity of this grand experiment, and more such original, thought-provoking pages.</span></li>
+          <li><span>&bull;</span><span><b>Original artwork on every page</b>, playing its part in the storytelling.</span></li>
+          <li><span>&bull;</span><span><b>Many hidden elements</b> in the artwork, for extra surprise delights.</span></li>
+          <li><span>&bull;</span><span>Not an ordinary evolution book that stays shallow. <b>We dig deep</b>, we talk about the controversial aspects, and it is one of the few books that challenges the anthropomorphic perspective.</span></li>
+          <li><span>&bull;</span><span><b>For kids and adults.</b></span></li>
+          <li><span>&bull;</span><span><b>110 pages.</b></span></li>
+        </ul>
+
+        <div class="buy-price-row">
+          <span class="buy-price"><s>&#8377;2,499</s><b>&#8377;2,124</b></span>
+          <span class="buy-off">Launch offer &middot; 15% off</span>
+        </div>
+        <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
+
+        <div class="buy-actions">
+          <div class="buy-qty">
+            <button type="button" aria-label="One fewer" data-qty-step="-1">&minus;</button>
+            <b>1</b>
+            <button type="button" aria-label="One more" data-qty-step="1">+</button>
+          </div>
+          <div class="buy-cta-slot">
+            <button type="button" class="buy-cta" data-dk-btn="Add To Cart" data-add="EVO-001" data-qty="1"></button>
+          </div>
+          <button type="button" class="buy-heart" aria-label="Save to wishlist" data-wish="EVO-001">
+            <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+  /* The object first — it is printed, and the photographs are the
+     proof — then pages from inside it. */
+  (window.dkProductQueue = window.dkProductQueue || []).push({
+    mount: '#evo-gal',
+    badge: 'In stock',
+    shots: [
+      { src: 'evo-open-nobg.webp', cap: 'The book',
+        alt: 'The Story Of Evolution Of Life picture book standing open — the hand-painted front cover on one side, the titled back cover on the other' },
+      { src: 'evo-cover.webp', cap: 'The painted cover',
+        alt: 'The Story Of Evolution Of Life standing on a wooden table, its painted front cover facing out' },
+      { src: 'evo-flat.webp', cap: 'Hardbound, large format',
+        alt: 'The hardbound book lying closed on a wooden table, its title panel and spine showing' },
+      { src: 'sp-04.webp', cap: 'Inside: The Birth Of The Earth',
+        alt: 'The Birth Of The Earth — a hand-painted spread from The Story Of Evolution Of Life, with the writing that runs alongside it' },
+      { src: 'sp-13.webp', cap: 'Inside: The Life Savers',
+        alt: 'The Life Savers — a hand-painted spread from The Story Of Evolution Of Life' },
+      { src: 'sp-22.webp', cap: 'Inside: Comb Jellies',
+        alt: 'Comb Jellies, the first predators — a hand-painted spread from The Story Of Evolution Of Life' },
+      { src: 'sp-32.webp', cap: 'Inside: Trees',
+        alt: 'Trees, the saint giants — a hand-painted spread from The Story Of Evolution Of Life' },
+      { src: 'sp-36.webp', cap: 'Inside: Octopus',
+        alt: 'Octopus — a hand-painted spread from The Story Of Evolution Of Life' }
+    ]
+  });
+  </script>
+
+  <!-- ═══════════════ CHAPTERS ═══════════════ -->
+  <section class="zone zone-art" id="chapters">
+    <div class="zone-bg"><img src="sp-x11.webp" alt="A glowing jellyfish-like creature lit up above a crowded reef in deep blue water — a hand-painted page from The Story Of Evolution Of Life" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+    <div class="wrap">
+      <div class="zone-head">
+        <span class="zone-kicker rv">The whole arc &middot; 76 chapters</span>
+        <h2 class="rv">One Continuous <em>Story</em></h2>
+        <p class="zone-lede rv rv2">Not a list of facts by category. Read it front to back and every chapter is the consequence of the one before it &mdash; from before there was time, to what happens after us.</p>
+      </div>
+      <div class="flow rv">
+        <div class="flow-col">
+        <div class="flow-era"><h3>Before time</h3></div>
+        <div class="flow-step">The Silent Infinite</div>
+        <div class="flow-step">The First Dance Of Creation</div>
+        <div class="flow-era"><h3>A world forms</h3><span>~4.5 – 4.2 billion years</span></div>
+        <div class="flow-step">Birth Of Earth</div>
+        <div class="flow-step">Early Earth</div>
+        <div class="flow-step">Moon Rise</div>
+        <div class="flow-step">Water, Water</div>
+        <div class="flow-step">The Question Of God</div>
+        <div class="flow-era"><h3>First life</h3><span>~3.8 – 2.5 billion years</span></div>
+        <div class="flow-step">OG Ancestor</div>
+        <div class="flow-step">Happy Fam</div>
+        <div class="flow-step">Alien Zombies</div>
+        <div class="flow-step">Life Savers</div>
+        <div class="flow-era"><h3>The long middle</h3><span>~2.1 – 1 billion years</span></div>
+        <div class="flow-step">The Great Alliances</div>
+        <div class="flow-step">Eukaryotes</div>
+        <div class="flow-step">The Arms Race Called Gender</div>
+        <div class="flow-step">First Plant</div>
+        <div class="flow-step">First Fungi</div>
+        <div class="flow-step">First Animal</div>
+        <div class="flow-step">Green Algae</div>
+        <div class="flow-era"><h3>Animals arrive</h3><span>~730 – 500 million years</span></div>
+        <div class="flow-step">Fungi On Land</div>
+        <div class="flow-step">Comb Jellies</div>
+        <div class="flow-step">Thought Predates Neurons</div>
+        <div class="flow-step">Cnidarians</div>
+        <div class="flow-step">Symmetry Born</div>
+        <div class="flow-step">Protostomes — Predators Of Their Time</div>
+        <div class="flow-step">Deuterostomes</div>
+        <div class="flow-step">Land Plants</div>
+        <div class="flow-step">Parasites</div>
+        <div class="flow-step">Euthycarcinoids</div>
+        <div class="flow-step">Vertebrates And Fishes</div>
+        <div class="flow-step">Scorpion</div>
+        </div>
+        <div class="flow-col">
+        <div class="flow-era"><h3>Onto land</h3><span>~515 – 360 million years</span></div>
+        <div class="flow-step">Plants Take Root</div>
+        <div class="flow-step">Woody Stems</div>
+        <div class="flow-step">Trees</div>
+        <div class="flow-step">Tiktaalik</div>
+        <div class="flow-step">Earliest Tetrapods</div>
+        <div class="flow-step">Insects</div>
+        <div class="flow-step">Crabs And Shrimps</div>
+        <div class="flow-step">Ferns</div>
+        <div class="flow-era"><h3>The age of reptiles</h3></div>
+        <div class="flow-step">Amphibians, Amniotes</div>
+        <div class="flow-step">Turtles</div>
+        <div class="flow-step">Reptiles — Sauropsids</div>
+        <div class="flow-step">Octopus</div>
+        <div class="flow-step">Crocodile — Sauropsids</div>
+        <div class="flow-step">Dinosaurs</div>
+        <div class="flow-step">Monotremes</div>
+        <div class="flow-step">Marsupials</div>
+        <div class="flow-step">Flowers</div>
+        <div class="flow-step">Birds</div>
+        <div class="flow-step">Tortoises</div>
+        <div class="flow-era"><h3>Mammals take over</h3></div>
+        <div class="flow-step">Snakes</div>
+        <div class="flow-step">Grass</div>
+        <div class="flow-step">Afrotheres</div>
+        <div class="flow-step">Wild Boar</div>
+        <div class="flow-step">Xenarthra</div>
+        <div class="flow-step">Rodents</div>
+        <div class="flow-step">Primates</div>
+        <div class="flow-step">Pigs & Camels</div>
+        <div class="flow-step">Bats, Shrews & Hedgehogs</div>
+        <div class="flow-step">Rhino — Odd-Toed</div>
+        <div class="flow-step">Whales & Dolphins</div>
+        <div class="flow-step">Horses</div>
+        <div class="flow-step">Carnivorous Mammals</div>
+        <div class="flow-era"><h3>Us</h3></div>
+        <div class="flow-step">Hominins</div>
+        <div class="flow-step">Homo Sapiens</div>
+        <div class="flow-era"><h3>And after</h3></div>
+        <div class="flow-step">World After Humans</div>
+        <div class="flow-step">Bananas</div>
+        <div class="flow-step">Need Drives Innovation</div>
+        <div class="flow-step">Internal Decay — External Replication</div>
+        <div class="flow-step">Ants</div>
+        <div class="flow-step">Dogs</div>
+        <div class="flow-step">Spider</div>
+        <div class="flow-step">Domestic Cats</div>
+        <div class="flow-step">Back &amp; Forth, Land To Water</div>
+        <div class="flow-step">Species No More</div>
+        <div class="flow-step">Owl</div>
+        <div class="flow-step">Sea Horse</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════ WHY IT'S DIFFERENT ═══════════════ -->
+  <section class="zone zone-art">
+    <div class="zone-bg"><img src="sp-x17.webp" alt="A whale breaching at sunset as a wave curls in the foreground — a hand-painted page from The Story Of Evolution Of Life" width="1600" height="1143" loading="lazy" decoding="async"/></div>
+    <div class="wrap">
+      <div class="zone-head">
+        <span class="zone-kicker rv">Why this one</span>
+        <h2 class="rv">There Are Plenty Of Evolution Books.<br/><em>None As Thoughtful As This One.</em></h2>
+        <p class="zone-lede rv rv2">None researched this deeply, and none free of the human supremacy bias that runs through almost all of them. <b>We are a class apart.</b></p>
+        <p class="zone-lede rv rv2">What is on each page is not the readily available paragraph about a species. It is every system it ran, every innovation it made, and the story of why it had to.</p>
+      </div>
+      <div class="diffs">
+        <div class="diff rv"><div class="ico">🧬</div><h3>Every Species, Properly</h3><p>Features, characteristics, and the behavioural innovations they brought with them &mdash; alongside the constraints they were up against and the openings they found. The pressure comes first; the biology is the answer to it.</p></div>
+        <div class="diff rv rv2"><div class="ico">🌱</div><h3>No Anthropocentric Bias</h3><p>Most books treat RNA, plants, even other animals as lifeless, mindless material. That could not be further from the truth. Here they are what they are: flourishing, intelligent, relentlessly adaptive life.</p></div>
+        <div class="diff rv rv3"><div class="ico">🧠</div><h3>Intelligence Is Not Ours Alone</h3><p>A prokaryote sensed, decided and acted four billion years before there was a brain to do it with. If thinking is older than neurons, the question is not whether other life thinks &mdash; it is why we assumed it didn&rsquo;t.</p></div>
+        <div class="diff rv"><div class="ico">❓</div><h3>The Questions It Leaves Open</h3><p>What do we mean by god. How genes, gender and behaviour are wired to each other. Whether humans have lost the capacity for biomechanical evolution. What it means that we are one outcome of all the intelligence that came before us.</p></div>
+        <div class="diff rv rv2"><div class="ico">⚖️</div><h3>What We Are Doing To Selection</h3><p>Species are dying under human hands, and at the same time evolution is surging on under our noses, in places we do not look. Both are happening. The book says so.</p></div>
+        <div class="diff rv rv3"><div class="ico">🎨</div><h3>Painted, Not Assembled</h3><p>Original artwork that plays its role in the storytelling &mdash; and hides some surprise details and information.</p></div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+
+
+
+
+<script>
+</script>
+<script>
+  /* ── Backgrounds by depth ─────────────────────────────────
+     The five painted layers cross-fade as you fall down the page.
+     This used to be a side-effect of the deep-time rail; the rail is
+     gone but the backgrounds are the point, so they keep their own
+     small driver. */
+  (function(){
+    var STOPS = [[0, 'void'], [0.14, 'forge'], [0.34, 'ocean'],
+                 [0.58, 'life'], [0.78, 'green']];
+    var eons = {};
+    document.querySelectorAll('.eon').forEach(function(el){
+      eons[el.getAttribute('data-eon')] = el;
+    });
+    if (!Object.keys(eons).length) return;
+    var ticking = false, last = 'void';
+
+    function paint() {
+      ticking = false;
+      var doc = document.documentElement;
+      var max = (doc.scrollHeight - window.innerHeight) || 1;
+      var t = Math.min(Math.max((window.scrollY || doc.scrollTop) / max, 0), 1);
+      var key = STOPS[0][1];
+      for (var i = 0; i < STOPS.length; i++) if (t >= STOPS[i][0]) key = STOPS[i][1];
+      if (key === last) return;
+      if (eons[last]) eons[last].classList.remove('on');
+      if (eons[key])  eons[key].classList.add('on');
+      last = key;
+    }
+    window.addEventListener('scroll', function(){
+      if (!ticking) { ticking = true; requestAnimationFrame(paint); }
+    }, { passive: true });
+    paint();
+  })();
+
+  /* ── Reveal on scroll ─────────────────────────────────────*/
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function(es){
+      es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+    document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
+  } else {
+    document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
+  }
+</script>
+
+<script>
+/* ── Keyword ticker ───────────────────────────────────────────
+   A real scroller, so it can be swiped on touch and dragged with a
+   mouse, in either direction. It drifts on its own and gives way the
+   moment you touch it, picking the drift back up shortly after you let
+   go. A CSS animation could only be paused, and it ate the gesture.
+
+   Note there is deliberately no 'scroll' listener: the drift writes
+   scrollLeft every frame, the scroll event that follows is asynchronous,
+   and pausing on it made the ticker stop itself dead. Pointer and touch
+   events tell us about the user; scroll events cannot. */
+(function () {
+  var rail = document.querySelector('.kw'), track = rail && rail.querySelector('.kw-track');
+  if (!rail || !track) return;
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  var SPEED = 0.35;                       // ~21px a second
+  /* The position is kept as a float here and written out each frame.
+     Adding a sub-pixel amount to scrollLeft directly does nothing — the
+     browser snaps the value back and the drift never accumulates. */
+  var pos = 0, idle = 0, held = false, half = 0;
+  function measure() { half = track.scrollWidth / 2; }
+  measure();
+  window.addEventListener('resize', measure);
+
+  (function tick() {
+    requestAnimationFrame(tick);
+    if (held) return;
+    if (idle > 0) { idle--; return; }
+    pos += SPEED;
+    /* The list is printed twice, so stepping back a copy is invisible. */
+    if (half && pos >= half) pos -= half;
+    rail.scrollLeft = pos;
+  })();
+
+  function pause(frames) { if (frames > idle) idle = frames; }
+  /* Pick the drift up from wherever the user left it. */
+  function wrap() {
+    pos = rail.scrollLeft;
+    if (!half) return;
+    if (pos >= half) pos -= half;
+    else if (pos < 0) pos += half;
+    rail.scrollLeft = pos;
+  }
+
+  rail.addEventListener('click', function () { pause(60); });          // a beat, then on
+  rail.addEventListener('wheel', function () { pause(90); setTimeout(wrap, 400); }, { passive: true });
+
+  /* Touch: let the browser do the scrolling it is good at, and just
+     stand out of the way while a finger is down. */
+  rail.addEventListener('touchstart', function () { held = true; }, { passive: true });
+  function touchEnd() { held = false; pause(60); wrap(); }
+  rail.addEventListener('touchend', touchEnd, { passive: true });
+  rail.addEventListener('touchcancel', touchEnd, { passive: true });
+
+  /* Mouse: drag to scrub. */
+  var dragging = false, startX = 0, startScroll = 0;
+  rail.addEventListener('pointerdown', function (e) {
+    if (e.pointerType !== 'mouse') return;
+    dragging = true; held = true; startX = e.clientX; startScroll = rail.scrollLeft;
+    rail.classList.add('dragging');
+    if (rail.setPointerCapture) { try { rail.setPointerCapture(e.pointerId); } catch (err) {} }
+  });
+  rail.addEventListener('pointermove', function (e) {
+    if (!dragging) return;
+    rail.scrollLeft = startScroll - (e.clientX - startX);
+  });
+  function release() {
+    if (!dragging) return;
+    dragging = false; held = false;
+    rail.classList.remove('dragging');
+    pause(45); wrap();
+  }
+  rail.addEventListener('pointerup', release);
+  rail.addEventListener('pointercancel', release);
+})();
+</script>
+  <script src="/header.js?v=15" defer></script>
+  <script src="/dkbtn.js?v=15" defer></script>
+  <script src="/productblock.js?v=15" defer></script>
+  <script src="/track.js?v=15" defer></script>
+  <script src="/cart.js?v=15" defer></script>
+  <script src="/checkout.js?v=15" defer></script>
+  <script src="/footer.js?v=15" defer></script>
+  <script src="/menu.js?v=15" defer></script>
+</body>
+</html>

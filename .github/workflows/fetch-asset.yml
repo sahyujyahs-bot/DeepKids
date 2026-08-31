@@ -1,0 +1,43 @@
+# Utility: fetch remote asset files (e.g. generated art on a CDN the
+# development sandbox cannot reach) and commit them to this branch.
+# Usage: edit .fetch-assets.json with {"assets":[{"url":...,"name":...}]}
+# and push — this workflow downloads each URL and commits the files.
+# The workflow's own commit doesn't touch .fetch-assets.json, so it
+# cannot retrigger itself (and push events from the default GITHUB_TOKEN
+# don't start new workflow runs anyway).
+name: Fetch assets
+on:
+  push:
+    branches:
+      - claude/continue-website-work-y7b62
+    paths:
+      - '.fetch-assets.json'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download assets listed in .fetch-assets.json
+        run: |
+          count=$(jq '.assets | length' .fetch-assets.json)
+          for i in $(seq 0 $((count - 1))); do
+            url=$(jq -r ".assets[$i].url" .fetch-assets.json)
+            name=$(jq -r ".assets[$i].name" .fetch-assets.json)
+            case "$name" in
+              */*|.*) echo "refusing path $name"; exit 1;;
+            esac
+            echo "fetching $name"
+            curl -fSL --max-filesize 26214400 -o "$name" "$url"
+          done
+          ls -la
+      - name: Commit fetched files
+        run: |
+          git config user.name "asset-fetch-bot"
+          git config user.email "noreply@deepkids.in"
+          git add -A ':!.fetch-assets.json'
+          git diff --cached --quiet || git commit -m "Fetch remote assets via workflow"
+          git push

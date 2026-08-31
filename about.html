@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About DeepKids &mdash; Science Games And Books For Kids 7&ndash;14</title>
+  <meta name="description" content="DeepKids makes screen-free science games and picture books for kids aged 7 to 14. Each one takes a single subject all the way in, so a child experiences the science rather than memorising it. Made in Bengaluru."/>
+  <link rel="canonical" href="https://deepkids.in/about"/>
+  <meta property="og:title" content="About DeepKids"/>
+  <meta property="og:description" content="Screen-free science games and picture books for kids aged 7 to 14, each taking one subject all the way in."/>
+  <meta property="og:image" content="https://deepkids.in/hero-play.webp"/>
+  <meta property="og:url" content="https://deepkids.in/about"/>
+  <meta name="theme-color" content="#0a0618"/>
+  <link rel="icon" href="/favicon.ico" sizes="any"/>
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+  <script>
+    window._egNoTrack = (function(){
+      try {
+        var q = new URLSearchParams(location.search);
+        if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+        if (q.has('track')) localStorage.removeItem('eg-notrack');
+        return localStorage.getItem('eg-notrack') === '1';
+      } catch(e) { return false; }
+    })();
+    window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
+    window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
+  <script>
+    if (!window._egNoTrack) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GYJLZ0FVJE');
+      gtag('config', 'AW-18110551284');
+    }
+  </script>
+
+  <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
+  <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
+
+  <style>
+    @font-face {
+      font-family: 'Norwester';
+      src: url('norwester.ttf') format('truetype');
+      font-weight: normal; font-style: normal; font-display: swap;
+    }
+    @font-face {
+      font-family: 'Futura';
+      src: url('fonts/futura-book.otf') format('opentype');
+      font-weight: 400; font-style: normal; font-display: swap;
+    }
+    :root {
+      --purple: #aa59c8; --purple-rgb: 170,89,200;
+      --lilac: #cd9edf; --gold: #ffb300;
+      --bg: #0a0618; --bg2: #120826;
+      --ink: rgba(255,255,255,.86); --ink-dim: rgba(255,255,255,.62);
+    }
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background:
+        radial-gradient(1000px 500px at 50% -80px, rgba(var(--purple-rgb), .15), transparent 65%),
+        linear-gradient(180deg, var(--bg) 0%, var(--bg2) 45%, var(--bg) 100%);
+      color: #fff; font-family: 'Futura', 'Segoe UI', sans-serif; line-height: 1.75;
+    }
+    .stars { position: fixed; inset: 0; pointer-events: none; z-index: 0;
+      background-image:
+        radial-gradient(1.6px 1.6px at 11% 16%, rgba(255,255,255,.6), transparent),
+        radial-gradient(2px 2px at 34% 7%,  rgba(255,255,255,.7), transparent),
+        radial-gradient(1.8px 1.8px at 63% 21%, rgba(255,255,255,.55), transparent),
+        radial-gradient(2px 2px at 85% 40%, rgba(255,255,255,.6), transparent),
+        radial-gradient(1.6px 1.6px at 21% 65%, rgba(255,255,255,.5), transparent),
+        radial-gradient(2px 2px at 76% 82%, rgba(255,255,255,.55), transparent);
+    }
+    nav, main, footer { position: relative; z-index: 1; }
+    .nav {
+      position: sticky; top: 0; z-index: 50;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 12px clamp(18px, 5vw, 40px);
+      background: rgba(10,6,24,.85); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(var(--purple-rgb), .22);
+    }
+    .nav a { color: #fff; text-decoration: none; }
+    .nav-logo { font-family: 'Norwester', sans-serif; font-variant: small-caps; font-size: 19px; letter-spacing: .5px; }
+    .nav-logo b { color: var(--purple); font-weight: normal; }
+    .nav-back { font-size: 14px; color: var(--lilac); }
+
+    main { max-width: 720px; margin: 0 auto; padding: clamp(40px, 8vh, 80px) clamp(20px, 5vw, 40px) 60px; }
+    h1 {
+      font-family: 'Norwester', sans-serif; font-weight: normal; font-variant: small-caps;
+      font-size: clamp(32px, 6.4vw, 52px); line-height: 1.1;
+      text-shadow: 0 0 30px rgba(var(--purple-rgb), .5);
+      margin-bottom: 8px;
+    }
+    h1 em { font-style: normal; color: var(--lilac); }
+    .lede { font-size: clamp(16px, 2.3vw, 19px); color: var(--ink); margin: 14px 0 36px; }
+    h2 {
+      font-family: 'Norwester', sans-serif; font-weight: normal; font-variant: small-caps;
+      font-size: clamp(21px, 3.4vw, 27px); color: #fff;
+      margin: 40px 0 12px; text-shadow: 0 0 20px rgba(var(--purple-rgb), .4);
+    }
+    p { color: var(--ink); font-size: 16px; margin-bottom: 16px; }
+    p b { color: #fff; }
+    .pull {
+      margin: 26px 0; padding: 18px 22px;
+      border-left: 3px solid var(--purple);
+      background: linear-gradient(90deg, rgba(var(--purple-rgb), .12), transparent 85%);
+      border-radius: 0 14px 14px 0;
+      font-style: oblique; font-size: 17px; color: rgba(255,255,255,.92);
+    }
+    .founder {
+      display: flex; gap: 18px; align-items: center;
+      margin: 44px 0 10px; padding: 22px;
+      background: rgba(255,255,255,.03);
+      border: 1px solid rgba(255,255,255,.14); border-radius: 18px;
+    }
+    .avatar {
+      flex-shrink: 0; width: 72px; height: 72px; border-radius: 50%;
+      display: grid; place-items: center;
+      font-family: 'Norwester', sans-serif; font-size: 30px; color: #fff;
+      background: linear-gradient(160deg, #cd9edf, #793194);
+      border: 2px solid rgba(255,255,255,.35);
+      box-shadow: 0 0 20px rgba(var(--purple-rgb), .45);
+    }
+    .founder .who b { display: block; color: #fff; font-size: 17px; }
+    .founder .who span { font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--lilac); }
+    .cta-row { text-align: center; margin-top: 44px; }
+    .cta {
+      display: inline-block;
+      font-family: 'Norwester', sans-serif; font-variant: small-caps; letter-spacing: 1.5px;
+      font-size: 16px; color: #fff; text-decoration: none;
+      background: linear-gradient(180deg, #c46be0, #8a3aa8);
+      border: 1px solid rgba(255,255,255,.35); border-radius: 999px;
+      padding: 13px 34px;
+      box-shadow: 0 0 22px rgba(var(--purple-rgb), .45), inset 0 1px 0 rgba(255,255,255,.35);
+      transition: transform .15s ease;
+    }
+    .cta:hover { transform: translateY(-2px); }
+    footer { text-align: center; padding: 26px 16px 44px; font-size: 13px; color: rgba(255,255,255,.5); }
+    footer a { color: rgba(255,255,255,.65); margin: 0 8px; }
+  </style>
+  <meta name="keywords" content="DeepKids, about DeepKids, science games for kids, educational games, board games for kids India"/>
+  <meta name="robots" content="index, follow"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:site_name" content="DeepKids"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="About DeepKids"/>
+  <meta name="twitter:description" content="Screen-free science games and picture books for kids aged 7 to 14, each taking one subject all the way in."/>
+  <meta name="twitter:image" content="https://deepkids.in/hero-play.webp"/>
+  <meta name="author" content="DeepKids"/>
+  <!-- Structured data: what this page is, for search engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Shop",
+        "item": "https://deepkids.in/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "About",
+        "item": "https://deepkids.in/about"
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+<div class="stars" aria-hidden="true"></div>
+
+
+<main>
+  <h1>Science Shouldn't Be<br/><em>Mugged Up</em></h1>
+  <p class="lede">DeepKids builds board games where kids don't read about science — they live it.</p>
+
+  <h2>How this started</h2>
+  <p>I fell in love with learning as an adult. Properly in love — the kind where one question about gravity keeps you up chasing ten more about orbits, atmospheres, and why anything falls at all. And inside that joy was a sting: <b>why didn't school ever feel like this?</b></p>
+  <p>The more I dug, the clearer the gap in our education system became. So much of what we hand children is half-baked — simplified until it's wrong, memorised for a test, forgotten by summer. A kid can recite "gravity pulls things down" and still believe an astronaut floats because there's "no gravity in space." That recitation isn't knowledge. It's noise that <i>sounds</i> like knowledge.</p>
+
+  <div class="pull">Kids don't need more facts to memorise. They need to stand on one leg, drop the feather and the ball, and <b>feel</b> what a force is.</div>
+
+  <h2>What we do differently</h2>
+  <p><b>One game, one topic, real depth.</b> Each DeepKids game takes a single subject — EscapeGravity takes gravity and its rival forces — and goes all the way in: many perspectives, real experiments, honest physics. Including the parts where scientists themselves still argue. No shallow trivia sprayed across a hundred topics.</p>
+  <p><b>Experience before explanation.</b> Our games are built around physical challenges — balancing, tossing, blowing, jumping — because a force you've fought with your own body needs no mugging up. The idea arrives through the hands and stays in the head.</p>
+  <p><b>Respect for how deep kids are.</b> A child's mind isn't fenced in by years of "that's just how it is." Hand it a genuine, first-principles question and it will turn the idea over in ways most adults have forgotten how to. We'd rather give a seven-year-old a real idea to wrestle with than a tidy lie. Kids rise to it. They always do.</p>
+
+  <h2>Where we are</h2>
+  <p>Our first game, <a href="/escapegravity">EscapeGravity</a>, is ready to order — a race to the International Space Station where gravity fights back, with 35+ physical challenges and 13 forces to master. It's been shaped by months of playtests with real families, refined every time a kid found a loophole or invented a better rule.</p>
+  <p>More worlds are coming: evolution, history, the sciences that deserve better than a paragraph in a textbook.</p>
+
+  <div class="founder">
+    <div class="avatar" aria-hidden="true">S</div>
+    <div class="who">
+      <b>Sahyujyah Shrinivas</b>
+      <span>Founder, DeepKids</span>
+    </div>
+  </div>
+
+  <div class="cta-row">
+    <a class="cta" href="/escapegravity">Order EscapeGravity →</a>
+  </div>
+</main>
+
+
+  <script src="/header.js?v=15" defer></script>
+  <script src="/track.js?v=15" defer></script>
+  <script src="/cart.js?v=15" defer></script>
+  <script src="/checkout.js?v=15" defer></script>
+  <script src="/footer.js?v=15" defer></script>
+  <script src="/menu.js?v=15" defer></script>
+</body>
+</html>
