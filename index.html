@@ -117,14 +117,17 @@
       .eg-nav { height:68px; padding:0 clamp(20px,4vw,56px); }
       .hero { padding-block:calc(68px + clamp(30px,5vh,60px)) 0; }
     }
-    /* The corner reads DeepKids from the top of the page, the same as
-       every other page does. It used to wait for the hero to scroll
-       away, on the grounds that the hero says DeepKids in 132px type
-       right underneath it. */
+    /* This one page waits: the hero underneath already says DeepKids in
+       132px type, so a second copy in the bar on top of it is noise. It
+       fades in once the hero has gone and the bar has to identify the
+       site on its own. Every other page shows it from the top. */
     .eg-nav-logo {
       font-family:var(--font-head); font-size:clamp(18px,2.4vw,28px);
       color:var(--purple); text-decoration:none; letter-spacing:1px; white-space:nowrap;
+      opacity:0; pointer-events:none; transform:translateY(-4px);
+      transition:opacity .3s ease, transform .3s ease;
     }
+    .eg-nav-logo.show { opacity:1; pointer-events:auto; transform:none; }
     .eg-nav-logo b { color:#fff; font-weight:normal; }
     .eg-nav-right { display:flex; align-items:center; gap:clamp(8px,1.6vw,16px); }
     .eg-nav-menu-btn {
@@ -710,11 +713,11 @@
 
 <!-- Defines DK, which the script below uses as it parses, so this one
      cannot be deferred. -->
-<script src="/header.js?v=14" defer></script>
-<script src="/dkbtn.js?v=13"></script>
-<script src="/track.js?v=13"></script>
-<script src="/cart.js?v=13"></script>
-<script src="/checkout.js?v=13"></script>
+<script src="/header.js?v=15" defer></script>
+<script src="/dkbtn.js?v=15"></script>
+<script src="/track.js?v=15"></script>
+<script src="/cart.js?v=15"></script>
+<script src="/checkout.js?v=15"></script>
 <script>
 /* ══════════════════════════════════════════════════════════════
    Sound. Short Web Audio tones — no files to load, and nothing is
@@ -1082,12 +1085,23 @@ if ('IntersectionObserver' in window) {
   location.replace('/escapegravity' + h);
 })();
 
+/* ══ The bar's wordmark, once the hero has gone ══ */
+(function(){
+  var logo = document.getElementById('nav-logo');
+  var hero = document.querySelector('.hero');
+  if (!logo || !hero) return;
+  if (!('IntersectionObserver' in window)) { logo.classList.add('show'); return; }
+  new IntersectionObserver(function(es){
+    logo.classList.toggle('show', !es[0].isIntersecting);
+  }, { threshold: 0, rootMargin: '-45% 0px 0px 0px' }).observe(hero);
+})();
+
 DK.wishPaint();
 
 /* Coming back from a product tab (or bfcache) should show a fresh cart. */
 window.addEventListener('pageshow', dkCartPaint);
 </script>
-  <script src="/footer.js?v=13" defer></script>
-  <script src="/menu.js?v=13" defer></script>
+  <script src="/footer.js?v=15" defer></script>
+  <script src="/menu.js?v=15" defer></script>
 </body>
 </html>
