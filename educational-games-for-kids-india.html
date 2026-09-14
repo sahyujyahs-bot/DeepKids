@@ -218,10 +218,12 @@
     .toc li { margin-bottom: 6px; font-size: 15px; }
     .toc a { color: rgba(255,255,255,0.7); text-decoration: none; }
     .toc a:hover { color: #c0e638; }
+    /* The table scrolls on its own rather than widening the page. */
+    .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 24px 0; }
     .comparison-table {
-      width: 100%;
+      width: 100%; min-width: 560px;
       border-collapse: collapse;
-      margin: 24px 0;
+      margin: 0;
       font-size: 14px;
     }
     .comparison-table th {
@@ -571,6 +573,7 @@
 
   <h2 id="verdict">Quick Comparison</h2>
 
+  <div class="table-scroll">
   <table class="comparison-table">
     <thead>
       <tr>
@@ -633,6 +636,7 @@
       </tr>
     </tbody>
   </table>
+  </div>
 
   <h2>Final Verdict</h2>
 

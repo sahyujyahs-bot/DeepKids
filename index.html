@@ -162,15 +162,25 @@
     /* The same subtitle treatment as the main page hero: Futura, uppercase,
        wide tracking. It used to be Norwester small-caps, which is the
        wordmark's own face — the two ran together as one block of type. */
+    /* This used to be one forced line, which worked until the line got
+       a word longer: the type stops shrinking at its floor, so on a
+       narrow phone the end simply ran off the screen and the hero's
+       overflow:hidden cut it. It wraps now — each phrase stays whole,
+       and the separator sits at the end of a line rather than being
+       carried to the start of the next one. */
     .hero-kinds {
-      display:flex; flex-wrap:nowrap; justify-content:center; align-items:center;
-      white-space:nowrap; gap:0 clamp(5px,1.2vw,12px); margin-top:clamp(8px,1.6vh,18px);
+      display:flex; flex-wrap:wrap; justify-content:center; align-items:baseline;
+      row-gap:clamp(2px,.6vh,6px); margin-top:clamp(8px,1.6vh,18px);
       font-family:var(--font-body); font-weight:400; text-transform:uppercase;
       letter-spacing:clamp(1.6px,.62vw,8px);
       font-size:clamp(9.5px,2.05vw,26px); color:var(--lilac); opacity:1;
       text-shadow:0 2px 14px rgba(0,0,0,.75), 0 0 22px rgba(10,6,24,.7);
     }
-    .hero-kinds i { font-style:normal; color:var(--purple); letter-spacing:0; }
+    .hero-kinds span { white-space:nowrap; }
+    .hero-kinds span:not(:last-child)::after {
+      content:'\00b7'; color:var(--purple); letter-spacing:0;
+      margin-inline:clamp(5px,1.2vw,12px);
+    }
     /* Full-width scene: the art spans the viewport, not a column. */
     .hero-scene { min-height:0; width:100%; display:block; }
     .hero-scene img {
@@ -521,7 +531,7 @@
   <section class="hero art-fit">
     <div class="hero-top">
       <h1 class="wordmark" id="hero-mark">DeepKids</h1>
-      <p class="hero-kinds" id="hero-kinds">Science Board Games <i>·</i> Card Games <i>·</i> Picture Books</p>
+      <p class="hero-kinds" id="hero-kinds"><span>Science Board Games</span><span>Card Games</span><span>Picture Books</span></p>
     </div>
     <div class="hero-scene">
       <!-- One drawing for every screen. It used to load the old wide art
