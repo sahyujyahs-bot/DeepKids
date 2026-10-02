@@ -53,6 +53,10 @@ Open the studio, pick a card, and arrange what stands up off it.
 - **Move them in space.** Select a layer and set X, Y and Z, or nudge
   with the arrow keys (PageUp/PageDown for height). Scale, turn and
   fade each one.
+- **Lean them.** *Lean back/forward* and *swing left/right* take a
+  layer out of the card's plane. Flat layers only slide against each
+  other; leant, they read as cut-outs standing on a stage, which is
+  what there is to see when the scene is turned round.
 - **Add text and put it where you want it.** Same controls — a block
   of text is just another thing in the scene, so it can float above
   the card, sit beside it, or lie flat on it.
@@ -79,6 +83,9 @@ Keep layers under about 0.3 — past that the parallax detaches from
 the card and the illusion goes. Text can go further, since it is
 meant to float.
 
+Lean and swing are in degrees and default to none, so a scene
+arranged before they existed comes through exactly as it was.
+
 ## What the scene is meant to be
 
 From the reference: the card stays as printed, and what AR adds is
@@ -92,6 +99,34 @@ everything that is **not** on it.
   artwork.
 - **Motes drift around it**, which is most of what sells the thing as
   standing in space rather than lying flat.
+
+- **It stays put in a shaking hand.** The artwork does not hang off
+  the tracker's anchor; it follows it, judging a shake from a real
+  move by how far the pose has *got* over the last few frames rather
+  than how far it jumped since the last one — a tremor comes back, a
+  card being turned over does not. About a third of the shake reaches
+  the picture, which at the size a card appears on a phone is under a
+  pixel, while a deliberate move is followed within about six.
+  `follower()` in `index.html` carries the reasoning, including why
+  the tracker's own filter cannot be tuned to do this.
+- **It does not blink.** A card in a hand goes unseen for a frame or
+  two constantly. Rather than snapping out and back with the anchor,
+  the artwork holds its place for about four tenths of a second and
+  then fades.
+
+### Look around it
+
+Walking round a card held in one hand is not really on, and tracking
+is the first thing to go at a steep angle. So **Look Around It** lifts
+the scene off the card and parks it in front of the camera, where a
+finger turns it and no tremor reaches it at all.
+
+Flat pictures swung far enough go edge-on and vanish, so as the scene
+turns each layer turns most of the way back towards the viewer while
+its *position* goes the whole way round. The depth between the layers
+is then what is on show, and the art never narrows to a line. The text
+panel stands down while this is happening — the same words are in the
+sheet at the bottom of the screen — so the picture gets the frame.
 
 Deliberately **not** done: lighting up the constellation. It is
 printed on the card already, so an AR copy landed a hair off the

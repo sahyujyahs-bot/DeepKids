@@ -116,6 +116,27 @@
       background:rgba(5,3,15,.72); border-radius:999px; padding:7px 16px;
     }
     body.found .aim { opacity:0; }
+    body.looking .aim { opacity:0; }
+
+    /* ── Look around it ──────────────────────────────────────
+       Lifts the scene off the card so it can be turned with a
+       finger. Only offered once the card has actually been found,
+       so it never reads as the way in. */
+    .look {
+      position:absolute; left:50%; bottom:calc(74px + env(safe-area-inset-bottom));
+      transform:translateX(-50%); z-index:25; cursor:pointer; white-space:nowrap;
+      border:1px solid rgba(var(--purple-rgb),.5); border-radius:999px;
+      background:rgba(5,3,15,.66); color:#fff;
+      backdrop-filter:blur(8px); -webkit-backdrop-filter:blur(8px);
+      padding:9px 20px; font-family:var(--head); font-variant:small-caps;
+      letter-spacing:1.6px; font-size:13.5px;
+      opacity:0; pointer-events:none; transition:opacity .3s ease;
+    }
+    body.found .look, body.looking .look { opacity:1; pointer-events:auto; }
+    body.looking .look { border-color:rgba(255,255,255,.55); }
+    /* Drag turns the scene, so the browser must not take the gesture
+       for a scroll or a pinch-zoom while it is doing that. */
+    body.looking #ar { touch-action:none; }
 
     /* ── The story sheet ─────────────────────────────────────
        Text, not 3D: a paragraph pinned in space is unreadable on a
@@ -199,6 +220,7 @@
     <button type="button" class="x" id="close" aria-label="Stop scanning">&times;</button>
   </div>
   <div class="aim" id="aim" data-say="Point at the back of the card"></div>
+  <button type="button" class="look" id="look">Look Around It</button>
 
   <div class="sheet" id="sheet" hidden>
     <button type="button" class="sheet-grab" id="grab">The Longer Story</button>
@@ -236,6 +258,7 @@ const $ = (id) => document.getElementById(id);
 const body = document.body;
 let CARDS = [];
 let mindar = null;
+let look = null;   /* the look-around controller for the scan in progress */
 
 /* ── Can this device do it at all? ──────────────────────────*/
 function unsupported(why, detail) {
@@ -394,17 +417,32 @@ function sceneFor(card) {
   const place = (m, it) => {
     m.position.set(it.x || 0, it.y || 0, it.z || 0);
     m.scale.setScalar(it.scale === undefined ? 1 : it.scale);
-    m.rotation.z = (it.rot || 0) * Math.PI / 180;
+    /* tilt leans a layer back out of the card's plane and yaw turns it
+       edge-on, which is what gives the stack a shape to walk around.
+       Stacked dead flat, the layers only slide against each other;
+       leant even a little they read as cut-outs standing on a stage.
+       Both default to nothing, so a scene arranged before they existed
+       comes through exactly as it did. */
+    m.rotation.set((it.tilt || 0) * Math.PI / 180,
+                   (it.yaw || 0) * Math.PI / 180,
+                   (it.rot || 0) * Math.PI / 180);
     m.material.transparent = true;
     m.material.opacity = it.opacity === undefined ? 1 : it.opacity;
     m.renderOrder = ++order;
+    /* Kept so the layers can be turned towards a viewer who has walked
+       round them, without losing the lean they were arranged with. */
+    m.userData.authored = m.rotation.clone();
+    m.userData.face = it.kind === 'text' ? 1 : 0.72;
     group.add(m);
   };
 
   (sc.layers || []).forEach((layer) => {
     const h = CARD_W * (layer.h || 1) / (layer.w || 1);
     const m = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h),
-      new THREE.MeshBasicMaterial({ transparent: true }));
+      /* Double-sided, because the whole point of leaning the layers is
+         that the scene can be looked at from the side, and a plane seen
+         from behind its normal is simply not drawn. */
+      new THREE.MeshBasicMaterial({ transparent: true, side: THREE.DoubleSide }));
     /* Hidden until its picture is actually there. A layer listed in
        cards.json whose file has not been committed yet would otherwise
        hang an untextured plane over the card. */
@@ -421,7 +459,8 @@ function sceneFor(card) {
     const { tex, aspect } = textTexture(t);
     const m = new THREE.Mesh(new THREE.PlaneGeometry(t.width, t.width * aspect),
       new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false }));
-    place(m, t);
+    m.userData.isText = true;
+    place(m, Object.assign({ kind: 'text' }, t));
   });
 
   /* The motes in the reference: embers hanging in the air around the
@@ -461,7 +500,232 @@ function sceneFor(card) {
     };
   }
 
+  /* Turning the scene to look at it from the side runs into what the
+     scene is made of: flat pictures. Swung far enough they go edge-on
+     and there is nothing left to see.
+
+     So when it is turned, each layer turns most of the way back
+     towards the viewer — it keeps its face — while its *position* goes
+     all the way round. The depth between the layers is then the thing
+     on show, which is what there is to show, and the art never
+     narrows to a line. Words turn back the whole way, since a page of
+     text read at an angle is no use to anybody.
+
+     Only used in look-around. On the card the scene stays exactly as
+     it was arranged. */
+  /* Lifted off the card, the panel is in the way: it swings out of
+     frame with everything else, and holding it in the bbox leaves the
+     artwork small in the middle of a lot of nothing. The same words
+     are in the sheet at the bottom of the screen anyway, so while the
+     scene is being turned the panel stands down and the picture gets
+     the whole frame. */
+  group.userData.showText = (on) => {
+    group.traverse((m) => { if (m.userData && m.userData.isText) m.visible = on; });
+  };
+
+  group.userData.face = (yaw, pitch) => {
+    group.traverse((m) => {
+      const a = m.userData && m.userData.authored;
+      if (!a) return;
+      const k = m.userData.face;
+      m.rotation.set(a.x - k * pitch, a.y - k * yaw, a.z);
+    });
+  };
+
   return group;
+}
+
+/* ── Standing still in a shaking hand ──────────────────────────
+   The tracker has a One-Euro filter of its own and it cannot settle
+   a hand-held card, for a reason worth writing down so nobody tunes
+   it again hoping for better.
+
+   It filters all sixteen elements of the model-view matrix together,
+   through one cutoff that opens with speed as
+   `minCutOff + beta * |velocity|`, and ships with beta at 1000. The
+   translation elements are in target pixels and run into the
+   hundreds, so a tremor of a couple of pixels a second already puts
+   the cutoff orders of magnitude past where any smoothing happens:
+   the position arrives raw. Winding beta down to catch that then
+   starves the rotation elements, which are of order one, and every
+   tilt of the card would drag behind. One number cannot serve both,
+   which is why the earlier attempt at beta made things worse rather
+   than better.
+
+   So the artwork does not hang off the tracking anchor. The anchor is
+   left holding the raw pose and nothing else, and the artwork follows
+   it from here — split into position, turn and size, each judged in a
+   unit that means something, so "a hand not being steady" and "a
+   child turning the card to look" can be told apart and need not
+   share a setting.
+
+   The same loop covers the blinking. A card in a hand goes unseen for
+   a frame or two constantly and the anchor blinks off with it; here
+   the artwork simply stays where it was for a moment, and fades if
+   the card is really gone instead of snapping out and back. */
+function follower(anchor, stage, onGone) {
+  const p = new THREE.Vector3(), q = new THREE.Quaternion(), s = new THREE.Vector3();
+  let started = false, seen = 0, fade = 0, last = 0;
+
+  /* Telling a shake from a move.
+     Not by how far the pose jumped since the last frame — a tremor
+     jumps as far as a slow deliberate move does, which is exactly why
+     the tracker's own filter cannot separate them. By how far it has
+     got over the last few frames: a tremor goes nowhere, because it
+     comes back, while a card being turned over keeps going. So the
+     raw pose is kept for a short window and judged on net progress
+     across it. */
+  const WINDOW = 8;    /* frames, about a sixth of a second */
+  const MOVE = 0.030;  /* card-widths of net travel across the window */
+  const TURN = 0.040;  /* radians of net turn likewise */
+  const CALM = 0.035;  /* of the remaining gap closed per frame at rest */
+  const KEEN = 0.85;   /* and when the card is plainly on the move */
+  const HOLD = 420;    /* ms the artwork holds its place after a dropout */
+  const FADE = 200;    /* ms to go, and to come back */
+
+  const past = [];     /* the window: [position, turn] per frame, newest last */
+
+  const tick = (now) => {
+    const dt = last ? Math.min(now - last, 100) : 16.7;
+    last = now;
+
+    if (anchor.group.visible) {
+      seen = now;
+      anchor.group.matrix.decompose(p, q, s);
+      if (!started) {
+        /* First sight: land on the pose rather than slide onto it
+           from wherever the stage happened to be. */
+        started = true;
+        stage.position.copy(p); stage.quaternion.copy(q); stage.scale.copy(s);
+      } else {
+        const was = past[0];
+        const went = was ? p.distanceTo(was[0]) / (s.x || 1) : 0;
+        const turned = was ? q.angleTo(was[1]) : 0;
+        /* Squared, so a tremor sits right down at the calm end rather
+           than nudging the filter open the way the tracker's beta did. */
+        const k = Math.min(1, Math.max(went / MOVE, turned / TURN));
+        const a = CALM + (KEEN - CALM) * k * k;
+        /* Same settling at 30fps as at 60. */
+        const e = 1 - Math.pow(1 - a, dt / 16.7);
+        stage.position.lerp(p, e);
+        stage.quaternion.slerp(q, e);
+        stage.scale.lerp(s, e);
+      }
+      past.push([p.clone(), q.clone()]);
+      while (past.length > WINDOW) past.shift();
+    }
+
+    const want = started && (anchor.group.visible || now - seen < HOLD) ? 1 : 0;
+    const step = dt / FADE;
+    fade = want > fade ? Math.min(1, fade + step) : Math.max(0, fade - step);
+    stage.visible = fade > 0.01;
+    if (stage.userData.setFade) stage.userData.setFade(fade);
+
+    if (started && !anchor.group.visible && fade === 0) {
+      started = false;
+      if (onGone) onGone();
+    }
+  };
+
+  /* Coming back from look-around, the stage is parked in front of the
+     camera at a size of its own. Without this it would crawl back to
+     the card over a second or so; forgetting the last pose makes it
+     land on the card the way it does on first sight. */
+  tick.reset = () => { started = false; last = 0; seen = 0; past.length = 0; };
+  return tick;
+}
+
+/* ── Looking around it ─────────────────────────────────────────
+   Walking round a card held in one hand is not really possible, and
+   tracking from a steep angle is the first thing to go anyway. So the
+   scene can also be lifted off the card and turned with a finger:
+   same arrangement, parked in front of the camera, where the depth
+   between the layers is the whole point and no tremor reaches it.
+
+   The camera sits at the origin looking down -z, and the card's own
+   +z faces it, so an unturned stage parked at -DIST is the view the
+   card gives — the drag only adds to it. */
+function lookAround(stage, surface, scene3d, camera) {
+  const face = scene3d.face, showText = scene3d.showText;
+  const ac = new AbortController();
+  const opt = { signal: ac.signal };
+  const DIST = 3.2;
+  const LIMIT = 70 * Math.PI / 180;
+  const e = new THREE.Euler(0, 0, 0, 'YXZ');
+  const centre = new THREE.Vector3(), size = new THREE.Vector3(), off = new THREE.Vector3();
+  let on = false, yaw = 0, pitch = 0, drag = null, fit = 1;
+
+  /* Where the scene actually is and how big it actually is, measured
+     from the artwork rather than assumed. It is arranged to sit over a
+     card, so its middle is nowhere near the anchor's origin — parked
+     without this it hangs off the side of the screen. The motes are
+     left out of the reckoning: they are deliberately spread much wider
+     than the picture and would shrink it to nothing. */
+  const measure = () => {
+    stage.position.set(0, 0, 0);
+    stage.quaternion.identity();
+    stage.scale.setScalar(1);
+    if (face) face(0, 0);
+    stage.updateMatrixWorld(true);
+    const b = new THREE.Box3();
+    stage.traverse((o) => { if (o.isMesh && o.visible) b.expandByObject(o); });
+    if (b.isEmpty()) { centre.set(0, 0, 0); size.set(1, CARD_H, 0.3); }
+    else { b.getCenter(centre); b.getSize(size); }
+
+    /* How much of the world is in frame at that distance, taken from
+       the projection itself — MindAR builds its own, so the camera's
+       fov field cannot be trusted to describe it. */
+    const m = camera.projectionMatrix.elements;
+    const w = 2 * DIST / (m[0] || 1), h = 2 * DIST / (m[5] || 1);
+    fit = Math.min(w / (size.x || 1), h / (size.y || 1)) * 0.92;
+  };
+
+  const apply = () => {
+    e.set(pitch, yaw, 0);
+    stage.quaternion.setFromEuler(e);
+    stage.scale.setScalar(fit);
+    /* Turn about the middle of the picture, not about the corner of
+       the card it happens to be arranged against. */
+    off.copy(centre).multiplyScalar(fit).applyQuaternion(stage.quaternion);
+    stage.position.set(0, 0, -DIST).sub(off);
+    if (face) face(yaw, pitch);
+  };
+
+  surface.addEventListener('pointerdown', (ev) => {
+    if (!on) return;
+    surface.setPointerCapture(ev.pointerId);
+    drag = { x: ev.clientX, y: ev.clientY, yaw, pitch };
+  }, opt);
+  surface.addEventListener('pointermove', (ev) => {
+    if (!on || !drag) return;
+    yaw = Math.max(-LIMIT, Math.min(LIMIT, drag.yaw + (ev.clientX - drag.x) * 0.006));
+    pitch = Math.max(-LIMIT, Math.min(LIMIT, drag.pitch + (ev.clientY - drag.y) * 0.006));
+    apply();
+  }, opt);
+  const end = () => { drag = null; };
+  surface.addEventListener('pointerup', end, opt);
+  surface.addEventListener('pointercancel', end, opt);
+
+  return {
+    get on() { return on; },
+    /* The container outlives a scan, so the listeners have to go with
+       the scan rather than pile up one set per card looked at. */
+    off() { ac.abort(); },
+    set(v) {
+      on = v;
+      drag = null;
+      if (showText) showText(!on);
+      if (on) {
+        yaw = -0.35; pitch = -0.12;
+        stage.visible = true;
+        if (stage.userData.setFade) stage.userData.setFade(1);
+        measure();
+        apply();
+      }
+      else if (face) face(0, 0);
+    },
+    tick() { if (on) apply(); }
+  };
 }
 
 /* Words into a texture. Kept identical to the studio's own version so
@@ -569,18 +833,18 @@ async function start(card) {
       container: $('ar'),
       imageTargetSrc: '/ar/targets/' + card.code + '.mind',
       uiLoading: 'no', uiScanning: 'no', uiError: 'no',
-      /* The smoothing is left at MindAR's own defaults. This once
-         passed filterBeta: 0.001 against a default of 1000, in the
-         belief it would steady a hand-held card. Beta is how fast the
-         filter is allowed to react as the card moves, so a millionth
-         of it meant maximum smoothing at all times: the overlay
-         crawled after the card and fell behind the moment a hand
-         moved at all.
-         missTolerance is raised, though — how many frames a target
-         may go unseen before it counts as gone. A card held in a
-         child's hand drops out for a frame or two constantly, and at
-         the default of 5 the overlay blinks out each time. */
-      missTolerance: 10
+      /* The tracker's own filter is left alone, on purpose. It cannot
+         settle a hand-held card at any setting — follower() explains
+         why, and does the steadying instead.
+         The tolerances are the two that do help here. missTolerance
+         is how many frames the card may go unseen before it counts as
+         gone: a card in a child's hand drops out constantly, and at
+         the default of 5 the pose blinks off each time. warmupTolerance
+         is how many good frames it takes to come back, lowered so that
+         moving round the card picks it up again quickly rather than
+         leaving a gap every time the angle gets steep. */
+      missTolerance: 10,
+      warmupTolerance: 3
     });
 
     const { renderer, scene, camera } = mindar;
@@ -592,17 +856,50 @@ async function start(card) {
        any tracking jitter read as a smeared flicker rather than as
        anything at all. It is off unless a card asks for it. */
     const con = card.constellation && card.constellation.show ? constellation(card) : null;
-    if (con) anchor.group.add(con);
     const live = sceneFor(card);
-    anchor.group.add(live);
+
+    /* Deliberately NOT anchor.group. The anchor carries the raw pose
+       and the stage follows it through follower(), which is where the
+       steadying happens — see the note there. Parenting the artwork
+       to the anchor instead would hand it the unfiltered translation. */
+    const stage = new THREE.Group();
+    if (con) stage.add(con);
+    stage.add(live);
+    stage.visible = false;
+    scene.add(stage);
+
+    /* Each material's authored opacity, kept so the stage can be faded
+       as a whole without losing what the studio set. */
+    const authored = [];
+    stage.traverse((o) => {
+      if (!o.material) return;
+      o.material.transparent = true;
+      authored.push([o.material, o.material.opacity]);
+    });
+    stage.userData.setFade = (f) => {
+      for (let i = 0; i < authored.length; i++) authored[i][0].opacity = authored[i][1] * f;
+    };
+
+    look = lookAround(stage, $('ar'), live.userData, camera);
+    const steady = follower(anchor, stage, () => {
+      if (look.on) return;
+      body.classList.remove('found');
+      $('sheet').classList.remove('open');
+    });
 
     anchor.onTargetFound = () => {
       body.classList.add('found');
       $('sheet').hidden = false;
     };
-    anchor.onTargetLost = () => {
-      body.classList.remove('found');
-      $('sheet').classList.remove('open');
+    /* Nothing on lost: a dropout of a few frames is normal in a hand,
+       and the follower decides when the card is really gone. */
+    anchor.onTargetLost = () => {};
+
+    $('look').onclick = () => {
+      look.set(!look.on);
+      if (!look.on) steady.reset();
+      body.classList.toggle('looking', look.on);
+      $('look').textContent = look.on ? 'Back To The Card' : 'Look Around It';
     };
 
     tellStory(card);
@@ -633,6 +930,8 @@ async function start(card) {
 
     renderer.setAnimationLoop(() => {
       const now = performance.now();
+      if (look.on) look.tick();
+      else steady(now);
       if (con && con.userData.tick) con.userData.tick(now);
       if (live.userData.tick) live.userData.tick(now);
       renderer.render(scene, camera);
@@ -660,6 +959,9 @@ function tellStory(card) {
 }
 
 async function stop() {
+  if (look) { look.off(); look = null; }
+  body.classList.remove('looking');
+  $('look').textContent = 'Look Around It';
   if (!mindar) return;
   try { mindar.renderer.setAnimationLoop(null); await mindar.stop(); } catch (e) {}
   try { mindar.renderer.dispose(); } catch (e) {}

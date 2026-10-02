@@ -107,6 +107,10 @@
       <input id="pscale" type="range" min="0.05" max="3" step="0.01"/>
       <label for="prot">Turn <span id="rotval"></span></label>
       <input id="prot" type="range" min="-180" max="180" step="1"/>
+      <label for="ptilt">Lean back/forward <span id="tiltval"></span></label>
+      <input id="ptilt" type="range" min="-80" max="80" step="1"/>
+      <label for="pyaw">Swing left/right <span id="yawval"></span></label>
+      <input id="pyaw" type="range" min="-80" max="80" step="1"/>
       <label for="popacity">Opacity <span id="opval"></span></label>
       <input id="popacity" type="range" min="0" max="1" step="0.02"/>
       <div class="row">
@@ -331,10 +335,10 @@ function build(item) {
   if (item.kind === 'text') {
     const { tex, aspect } = textTexture(item);
     mesh = new THREE.Mesh(new THREE.PlaneGeometry(item.width, item.width * aspect),
-      new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false }));
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false, side: THREE.DoubleSide }));
   } else {
     const h = CARD_W * (item.h || 1) / (item.w || 1);
-    const mat = new THREE.MeshBasicMaterial({ transparent: true });
+    const mat = new THREE.MeshBasicMaterial({ transparent: true, side: THREE.DoubleSide });
     mesh = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h), mat);
     const tex = new THREE.TextureLoader().load(
       item.url || item.src,
@@ -358,7 +362,9 @@ function apply(item) {
   if (!m) return;
   m.position.set(item.x, item.y, item.z);
   m.scale.setScalar(item.scale);
-  m.rotation.z = (item.rot || 0) * Math.PI / 180;
+  m.rotation.set((item.tilt || 0) * Math.PI / 180,
+                 (item.yaw || 0) * Math.PI / 180,
+                 (item.rot || 0) * Math.PI / 180);
   m.material.opacity = item.opacity === undefined ? 1 : item.opacity;
   m.material.transparent = true;
   m.renderOrder = items.indexOf(item) + 1;
@@ -405,6 +411,8 @@ function paintPanel() {
     $('px').value = it.x.toFixed(3); $('py').value = it.y.toFixed(3); $('pz').value = it.z.toFixed(3);
     $('pscale').value = it.scale; $('scaleval').textContent = (+it.scale).toFixed(2);
     $('prot').value = it.rot || 0; $('rotval').textContent = (it.rot || 0) + '°';
+    $('ptilt').value = it.tilt || 0; $('tiltval').textContent = (it.tilt || 0) + '°';
+    $('pyaw').value = it.yaw || 0; $('yawval').textContent = (it.yaw || 0) + '°';
     $('popacity').value = it.opacity === undefined ? 1 : it.opacity;
     $('opval').textContent = (it.opacity === undefined ? 1 : it.opacity).toFixed(2);
     if (it.kind === 'text') {
@@ -432,6 +440,8 @@ bind('py', (it, v) => it.y = +v);
 bind('pz', (it, v) => it.z = +v);
 bind('pscale', (it, v) => it.scale = +v);
 bind('prot', (it, v) => it.rot = +v);
+bind('ptilt', (it, v) => it.tilt = +v);
+bind('pyaw', (it, v) => it.yaw = +v);
 bind('popacity', (it, v) => it.opacity = +v);
 bind('tcontent', (it, v) => it.text = v);
 bind('tsize', (it, v) => it.size = +v);
@@ -550,6 +560,10 @@ function emit() {
   const clean = (it) => {
     const o = { x: +it.x.toFixed(3), y: +it.y.toFixed(3), z: +it.z.toFixed(3),
       scale: +(+it.scale).toFixed(3), rot: +(it.rot || 0), opacity: +(it.opacity === undefined ? 1 : it.opacity).toFixed(2) };
+    /* Only written when actually leant, so an arrangement that sits
+       flat on the card stays as short as it reads. */
+    if (it.tilt) o.tilt = +it.tilt;
+    if (it.yaw) o.yaw = +it.yaw;
     if (it.kind === 'text') {
       const t = Object.assign({ text: it.text, size: +it.size, width: +it.width, color: it.color, align: it.align || 'center' }, o);
       if (it.bg) t.bg = it.bg;

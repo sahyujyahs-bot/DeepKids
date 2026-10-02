@@ -72,8 +72,18 @@
 /ar/targets/*
   Cache-Control: public, max-age=2592000
 
+# The arrangement of each card's scene changes every time the studio
+# is used, and it is a few KB. Without a rule it fell through every
+# pattern here and inherited a browser cache window, which would leave
+# a phone scanning against yesterday's arrangement.
+/ar/cards.json
+  Cache-Control: public, max-age=0, must-revalidate
+
 # HTML must always revalidate so deploys show up immediately.
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
 /
+  Cache-Control: public, max-age=0, must-revalidate
+# Directory URLs serve index.html but do not match /*.html.
+/ar/
   Cache-Control: public, max-age=0, must-revalidate
