@@ -80,10 +80,15 @@
 
     /* ── Scanning ────────────────────────────────────────────*/
     #scan { position:fixed; inset:0; background:#000; }
-    #ar { position:absolute; inset:0; }
-    /* MindAR drops the camera feed and the canvas in here; both must
-       fill the screen rather than sit at their natural size. */
-    #ar video, #ar canvas { position:absolute; inset:0; width:100% !important; height:100% !important; object-fit:cover; }
+    #ar { position:absolute; inset:0; overflow:hidden; }
+    /* Nothing here sizes the camera feed or the canvas. MindAR places
+       both itself on every resize: the video is deliberately drawn
+       LARGER than the container and offset negatively, which is how it
+       crops to fill, and the canvas is set to the container exactly.
+       The camera projection is then computed to match that geometry —
+       so forcing either to 100% (as this once did) leaves the picture
+       and the projection disagreeing, and the overlay lands beside the
+       card instead of on it. */
 
     .bar {
       position:absolute; top:0; left:0; right:0; z-index:20;
@@ -264,7 +269,13 @@ fetch('/ar/cards.json')
    artwork sitting on a flat card, and a canvas gives the glow and
    the line-drawing for far less than a scene full of meshes. */
 function constellation(card) {
-  const W = 760, H = 1027;
+  /* Deliberately smaller than the card art. Every frame this canvas is
+     re-uploaded to the GPU as a texture, and at the card's own 760x1027
+     that is a 3MB upload per frame — enough to bring a phone to its
+     knees. At this size it is under 1.5MB and the glow is soft enough
+     that nothing looks lower-resolution for it. */
+  const W = 512, H = Math.round(512 * 1027 / 760);
+  const k = W / 760;                            /* keep the line weight */
   const cvs = document.createElement('canvas');
   cvs.width = W; cvs.height = H;
   const g = cvs.getContext('2d');
@@ -290,12 +301,35 @@ function constellation(card) {
   mesh.renderOrder = 10;
 
   const DRAW = 2.2, HOLD = 3.0, CYCLE = DRAW + HOLD;
-  let t0 = 0;
+  let t0 = 0, lastPaint = 0;
 
   mesh.userData.tick = (now) => {
     if (!t0) t0 = now;
+    /* The scene renders at whatever rate the device manages; the
+       texture only needs redrawing often enough to read as motion. */
+    if (now - lastPaint < 42) return;
+    lastPaint = now;
     const t = ((now - t0) / 1000) % CYCLE;
     g.clearRect(0, 0, W, H);
+
+    /* The card's own edge, traced. It says the card is live, and it is
+       the quickest way to see whether the overlay is sitting on the
+       card or beside it. */
+    g.save();
+    g.strokeStyle = 'rgba(205,158,223,.5)';
+    g.lineWidth = 3 * k;
+    g.shadowColor = 'rgba(170,89,200,.9)';
+    g.shadowBlur = 12 * k;
+    const pad = 10 * k, rr = 26 * k;
+    g.beginPath();
+    g.moveTo(pad + rr, pad);
+    g.arcTo(W - pad, pad, W - pad, H - pad, rr);
+    g.arcTo(W - pad, H - pad, pad, H - pad, rr);
+    g.arcTo(pad, H - pad, pad, pad, rr);
+    g.arcTo(pad, pad, W - pad, pad, rr);
+    g.closePath();
+    g.stroke();
+    g.restore();
 
     /* The lines draw themselves outward from the centre, one after
        another, then the whole figure sits lit for a beat. */
@@ -307,9 +341,9 @@ function constellation(card) {
       g.save();
       g.globalCompositeOperation = 'lighter';
       g.strokeStyle = 'rgba(205,158,223,.95)';
-      g.lineWidth = 3;
+      g.lineWidth = 3 * k;
       g.shadowColor = 'rgba(170,89,200,.9)';
-      g.shadowBlur = 14;
+      g.shadowBlur = 14 * k;
       g.beginPath();
       g.moveTo(ax, ay);
       g.lineTo(ax + (bx - ax) * p, ay + (by2 - ay) * p);
@@ -323,7 +357,7 @@ function constellation(card) {
       const lit = Math.max(0, Math.min(1, (t - delay) / 0.45));
       if (lit <= 0) return;
       const breathe = 0.78 + 0.22 * Math.sin((now / 1000) * 2.1 + i);
-      const r = (n === centre ? 30 : 20) * lit * breathe;
+      const r = (n === centre ? 30 : 20) * k * lit * breathe;
       const x = n.x * W, y = n.y * H;
       g.save();
       g.globalCompositeOperation = 'lighter';
@@ -426,7 +460,18 @@ async function start(card) {
       container: $('ar'),
       imageTargetSrc: '/ar/targets/' + card.code + '.mind',
       uiLoading: 'no', uiScanning: 'no', uiError: 'no',
-      filterMinCF: 0.0001, filterBeta: 0.001      /* steadier on a hand-held card */
+      /* The smoothing is left at MindAR's own defaults. This once
+         passed filterBeta: 0.001 against a default of 1000, in the
+         belief it would steady a hand-held card. Beta is how fast the
+         filter is allowed to react as the card moves, so a millionth
+         of it meant maximum smoothing at all times: the overlay
+         crawled after the card and fell behind the moment a hand
+         moved at all.
+         missTolerance is raised, though — how many frames a target
+         may go unseen before it counts as gone. A card held in a
+         child's hand drops out for a frame or two constantly, and at
+         the default of 5 the overlay blinks out each time. */
+      missTolerance: 10
     });
 
     const { renderer, scene, camera } = mindar;
