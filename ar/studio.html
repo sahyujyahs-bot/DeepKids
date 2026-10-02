@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AR Studio &mdash; DeepKids</title>
+  <meta name="robots" content="noindex, nofollow"/>
+  <style>
+    @font-face { font-family:'Norwester'; src:url('/norwester.ttf') format('truetype'); font-display:swap; }
+    :root { --purple:#aa59c8; --lilac:#cd9edf; --gold:#ffb300; --line:rgba(170,89,200,.3); }
+    *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
+    body { background:#0a0618; color:#fff; font:14px/1.5 'Segoe UI',system-ui,sans-serif; overflow:hidden; }
+    h1 { font-family:'Norwester',sans-serif; font-weight:normal; font-variant:small-caps; font-size:20px; letter-spacing:1px; }
+    h2 { font-family:'Norwester',sans-serif; font-weight:normal; font-variant:small-caps; font-size:14px;
+         letter-spacing:2px; color:var(--gold); margin:16px 0 7px; }
+    h2:first-of-type { margin-top:0; }
+
+    .app { display:grid; grid-template-columns:minmax(0,1fr) 400px; height:100vh; }
+    #view { position:relative; background:#05030f; }
+    #view canvas { display:block; }
+    .hud { position:absolute; left:12px; top:12px; display:flex; gap:8px; flex-wrap:wrap; z-index:5; }
+    .hint { position:absolute; left:12px; bottom:12px; font-size:12px; color:rgba(255,255,255,.5); z-index:5; }
+
+    .side { border-left:1px solid var(--line); padding:16px; overflow-y:auto; background:rgba(255,255,255,.02); }
+    label { display:block; font-size:11.5px; color:var(--lilac); margin:9px 0 3px; letter-spacing:.4px; }
+    input,select,textarea { width:100%; padding:7px 9px; font:inherit; color:#fff; border-radius:7px;
+      background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.2); }
+    textarea { min-height:80px; resize:vertical; }
+    input[type=range] { padding:0; background:none; border:0; }
+    button { font:inherit; cursor:pointer; color:#fff; border-radius:999px; padding:7px 14px;
+      background:rgba(170,89,200,.25); border:1px solid rgba(170,89,200,.55); }
+    button:hover { background:rgba(170,89,200,.45); }
+    button.on { background:var(--purple); border-color:var(--purple); }
+    button.sm { padding:4px 10px; font-size:12px; }
+    .row { display:flex; gap:7px; flex-wrap:wrap; align-items:center; margin-top:9px; }
+    .trio { display:grid; grid-template-columns:repeat(3,1fr); gap:7px; }
+    .drop { border:1.5px dashed var(--line); border-radius:12px; padding:18px 12px; text-align:center;
+      font-size:12.5px; color:rgba(255,255,255,.6); cursor:pointer; }
+    .drop.over { border-color:var(--gold); color:#fff; background:rgba(255,179,0,.08); }
+    ul { list-style:none; }
+    ul li { display:flex; justify-content:space-between; align-items:center; gap:7px;
+      padding:6px 8px; border-radius:7px; cursor:pointer; font-size:13px; }
+    ul li:hover { background:rgba(255,255,255,.07); }
+    ul li.sel { background:rgba(170,89,200,.32); }
+    ul li i { font-style:normal; font-size:11px; color:rgba(255,255,255,.45); }
+    .how { font-size:12px; color:rgba(255,255,255,.55); }
+    .ok { color:#8fe08f; font-size:12px; min-height:1.2em; margin-top:7px; }
+    .warn { color:#ffcf8f; font-size:12px; }
+    .files { font-family:ui-monospace,monospace; font-size:11.5px; color:var(--lilac);
+      background:rgba(0,0,0,.35); border-radius:8px; padding:8px; margin-top:7px; word-break:break-all; }
+  </style>
+</head>
+<body>
+
+<div class="app">
+  <div id="view">
+    <div class="hud">
+      <button type="button" id="phone" class="on sm">Phone view</button>
+      <button type="button" id="orbit" class="sm">Orbit</button>
+      <button type="button" id="showcard" class="on sm">Card</button>
+    </div>
+    <div class="hint" id="hint">Drag to orbit &middot; scroll to zoom &middot; click a layer to select it &middot; arrow keys nudge</div>
+  </div>
+
+  <div class="side">
+    <h1>AR Studio</h1>
+    <p class="how" style="margin:6px 0 14px">Arrange what appears over a card. Everything is measured in card-widths, so
+      <b>1.0 is the width of the card</b> and the card itself runs &plusmn;0.5 across and &plusmn;0.68 up.</p>
+
+    <h2>Card</h2>
+    <select id="card"></select>
+
+    <h2>Art layers</h2>
+    <div class="drop" id="drop">Drop the layer images here, or click to choose.<br/>
+      Transparent PNG or WebP, one per layer.</div>
+    <ul id="layers"></ul>
+    <p class="warn" id="saveas" hidden></p>
+
+    <h2>Text</h2>
+    <div class="row"><button type="button" id="addtext">Add a block of text</button></div>
+    <ul id="texts"></ul>
+
+    <h2 id="selh">Nothing selected</h2>
+    <div id="sel" hidden>
+      <div id="textonly" hidden>
+        <label for="tcontent">Words</label>
+        <textarea id="tcontent"></textarea>
+        <div class="trio">
+          <div><label for="tsize">Size</label><input id="tsize" type="number" step="0.01" min="0.01"/></div>
+          <div><label for="twidth">Wrap</label><input id="twidth" type="number" step="0.05" min="0.1"/></div>
+          <div><label for="tcolor">Colour</label><input id="tcolor" type="color"/></div>
+        </div>
+      </div>
+      <div class="trio">
+        <div><label for="px">X</label><input id="px" type="number" step="0.01"/></div>
+        <div><label for="py">Y</label><input id="py" type="number" step="0.01"/></div>
+        <div><label for="pz">Z &uarr;</label><input id="pz" type="number" step="0.01"/></div>
+      </div>
+      <label for="pscale">Scale <span id="scaleval"></span></label>
+      <input id="pscale" type="range" min="0.05" max="3" step="0.01"/>
+      <label for="prot">Turn <span id="rotval"></span></label>
+      <input id="prot" type="range" min="-180" max="180" step="1"/>
+      <label for="popacity">Opacity <span id="opval"></span></label>
+      <input id="popacity" type="range" min="0" max="1" step="0.02"/>
+      <div class="row">
+        <button type="button" class="sm" id="up">Bring forward</button>
+        <button type="button" class="sm" id="down">Send back</button>
+        <button type="button" class="sm" id="del">Delete</button>
+      </div>
+    </div>
+
+    <h2>Out</h2>
+    <div class="row">
+      <button type="button" id="copy">Copy this card&rsquo;s JSON</button>
+      <button type="button" class="sm" id="reset">Start over</button>
+    </div>
+    <p class="ok" id="said"></p>
+    <div class="files" id="filelist" hidden></div>
+  </div>
+</div>
+
+<script type="importmap">
+{ "imports": { "three": "/ar/vendor/three.module.min.js" } }
+</script>
+<script type="module">
+import * as THREE from 'three';
+
+const $ = (id) => document.getElementById(id);
+const CARD_W = 1, CARD_H = 1027 / 760;
+
+/* ── Scene ──────────────────────────────────────────────────*/
+const view = $('view');
+const scene = new THREE.Scene();
+const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+view.appendChild(renderer.domElement);
+const camera = new THREE.PerspectiveCamera(42, 1, 0.01, 100);
+
+/* The card, lying where MindAR would put it. */
+const cardMat = new THREE.MeshBasicMaterial({ transparent: true });
+const cardMesh = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, CARD_H), cardMat);
+scene.add(cardMesh);
+const edge = new THREE.LineSegments(
+  new THREE.EdgesGeometry(new THREE.PlaneGeometry(CARD_W, CARD_H)),
+  new THREE.LineBasicMaterial({ color: 0xaa59c8 }));
+scene.add(edge);
+/* A floor grid, so depth above the card is readable while orbiting. */
+const grid = new THREE.GridHelper(4, 16, 0x442a55, 0x241534);
+grid.rotation.x = Math.PI / 2;
+grid.position.z = -0.002;
+scene.add(grid);
+
+/* ── A small orbit camera, rather than another vendor file ──*/
+let yaw = 0, pitch = 0, dist = 2.1, phoneView = true;
+function placeCamera() {
+  if (phoneView) { yaw = 0; pitch = 0; }
+  const cp = Math.cos(pitch), sp = Math.sin(pitch);
+  camera.position.set(dist * cp * Math.sin(yaw), -dist * sp, dist * cp * Math.cos(yaw));
+  camera.up.set(0, 1, 0);
+  camera.lookAt(0, 0, 0);
+}
+let drag = null;
+renderer.domElement.addEventListener('pointerdown', (e) => {
+  drag = { x: e.clientX, y: e.clientY, moved: false };
+  renderer.domElement.setPointerCapture(e.pointerId);
+});
+renderer.domElement.addEventListener('pointermove', (e) => {
+  if (!drag) return;
+  const dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+  if (Math.abs(dx) + Math.abs(dy) > 3) drag.moved = true;
+  yaw += dx * 0.006;
+  pitch = Math.max(-1.2, Math.min(1.2, pitch + dy * 0.006));
+  drag.x = e.clientX; drag.y = e.clientY;
+  if (phoneView && drag.moved) setView(false);
+  placeCamera();
+});
+renderer.domElement.addEventListener('pointerup', (e) => {
+  if (drag && !drag.moved) pickAt(e);
+  drag = null;
+});
+renderer.domElement.addEventListener('wheel', (e) => {
+  e.preventDefault();
+  dist = Math.max(0.6, Math.min(6, dist + e.deltaY * 0.0016));
+  placeCamera();
+}, { passive: false });
+
+function setView(phone) {
+  phoneView = phone;
+  $('phone').classList.toggle('on', phone);
+  $('orbit').classList.toggle('on', !phone);
+  if (phone) { pitch = 0; yaw = 0; dist = 2.1; }
+  placeCamera();
+}
+$('phone').addEventListener('click', () => setView(true));
+$('orbit').addEventListener('click', () => { setView(false); pitch = 0.5; yaw = 0.6; placeCamera(); });
+$('showcard').addEventListener('click', (e) => {
+  cardMesh.visible = !cardMesh.visible;
+  e.target.classList.toggle('on', cardMesh.visible);
+});
+
+function resize() {
+  const w = view.clientWidth, h = view.clientHeight;
+  renderer.setSize(w, h);
+  renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+  camera.aspect = w / h;
+  camera.updateProjectionMatrix();
+}
+window.addEventListener('resize', resize);
+
+/* ── The things being arranged ──────────────────────────────*/
+let DATA = null, card = null, items = [], sel = -1;
+const group = new THREE.Group();
+scene.add(group);
+
+/* Text is drawn to a canvas and hung on a plane, which is the only
+   way to get a typeface into a WebGL scene without shipping a font
+   atlas — and it keeps the look identical to the rest of the site. */
+function textTexture(t) {
+  const PX = 1024, pad = 24;
+  const c = document.createElement('canvas');
+  const g = c.getContext('2d');
+  const fontPx = Math.max(10, Math.round(PX * (t.size / t.width) * 0.42));
+  const font = fontPx + "px 'Futura','Segoe UI',sans-serif";
+  g.font = font;
+  const words = String(t.text || '').split(/\s+/).filter(Boolean);
+  const maxW = PX - pad * 2;
+  const lines = [];
+  let line = '';
+  for (const w of words) {
+    const test = line ? line + ' ' + w : w;
+    if (g.measureText(test).width > maxW && line) { lines.push(line); line = w; } else line = test;
+  }
+  if (line) lines.push(line);
+  const lh = Math.round(fontPx * 1.32);
+  c.width = PX;
+  c.height = Math.max(lh + pad * 2, lines.length * lh + pad * 2);
+  const x = c.getContext('2d');
+  x.font = font;
+  x.textBaseline = 'top';
+  x.textAlign = t.align === 'left' ? 'left' : 'center';
+  x.shadowColor = 'rgba(0,0,0,.85)';
+  x.shadowBlur = Math.round(fontPx * 0.5);
+  x.fillStyle = t.color || '#ffffff';
+  lines.forEach((l, i) => x.fillText(l, t.align === 'left' ? pad : PX / 2, pad + i * lh));
+  const tex = new THREE.CanvasTexture(c);
+  tex.colorSpace = THREE.SRGBColorSpace;
+  return { tex, aspect: c.height / c.width };
+}
+
+function build(item) {
+  if (item.mesh) { group.remove(item.mesh); item.mesh.geometry.dispose(); }
+  let mesh;
+  if (item.kind === 'text') {
+    const { tex, aspect } = textTexture(item);
+    mesh = new THREE.Mesh(new THREE.PlaneGeometry(item.width, item.width * aspect),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false }));
+  } else {
+    const tex = new THREE.TextureLoader().load(item.url || item.src);
+    tex.colorSpace = THREE.SRGBColorSpace;
+    const h = CARD_W * (item.h || 1) / (item.w || 1);
+    mesh = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true }));
+  }
+  mesh.userData.item = item;
+  item.mesh = mesh;
+  group.add(mesh);
+  apply(item);
+}
+function apply(item) {
+  const m = item.mesh;
+  if (!m) return;
+  m.position.set(item.x, item.y, item.z);
+  m.scale.setScalar(item.scale);
+  m.rotation.z = (item.rot || 0) * Math.PI / 180;
+  m.material.opacity = item.opacity === undefined ? 1 : item.opacity;
+  m.material.transparent = true;
+  m.renderOrder = items.indexOf(item) + 1;
+}
+
+/* ── Selection ──────────────────────────────────────────────*/
+const ray = new THREE.Raycaster(), ndc = new THREE.Vector2();
+function pickAt(e) {
+  const r = renderer.domElement.getBoundingClientRect();
+  ndc.x = ((e.clientX - r.left) / r.width) * 2 - 1;
+  ndc.y = -((e.clientY - r.top) / r.height) * 2 + 1;
+  ray.setFromCamera(ndc, camera);
+  const hit = ray.intersectObjects(group.children, false)[0];
+  select(hit ? items.indexOf(hit.object.userData.item) : -1);
+}
+function select(i) { sel = i; paintPanel(); }
+
+/* ── Panel ──────────────────────────────────────────────────*/
+function paintLists() {
+  const li = (it, i) => '<li data-i="' + i + '" class="' + (i === sel ? 'sel' : '') + '">' +
+    '<span>' + (it.kind === 'text' ? '&ldquo;' + String(it.text || '').slice(0, 22) + '&rdquo;' : (it.file || it.src || 'layer')) + '</span>' +
+    '<i>z ' + it.z.toFixed(2) + '</i></li>';
+  $('layers').innerHTML = items.map((it, i) => it.kind === 'text' ? '' : li(it, i)).join('');
+  $('texts').innerHTML = items.map((it, i) => it.kind === 'text' ? li(it, i) : '').join('');
+  const need = items.filter(it => it.kind !== 'text' && it.file);
+  $('saveas').hidden = !need.length;
+  if (need.length) $('saveas').innerHTML = 'Save these into <b>/ar/layers/' + card.code + '/</b> in the repo, or the page will not find them.';
+  $('filelist').hidden = !need.length;
+  $('filelist').innerHTML = need.map(n => '/ar/layers/' + card.code + '/' + n.file).join('<br/>');
+}
+function paintPanel() {
+  const it = items[sel];
+  $('sel').hidden = !it;
+  $('selh').textContent = it ? (it.kind === 'text' ? 'Text block' : 'Layer: ' + (it.file || 'image')) : 'Nothing selected';
+  if (it) {
+    $('textonly').hidden = it.kind !== 'text';
+    $('px').value = it.x.toFixed(3); $('py').value = it.y.toFixed(3); $('pz').value = it.z.toFixed(3);
+    $('pscale').value = it.scale; $('scaleval').textContent = (+it.scale).toFixed(2);
+    $('prot').value = it.rot || 0; $('rotval').textContent = (it.rot || 0) + '°';
+    $('popacity').value = it.opacity === undefined ? 1 : it.opacity;
+    $('opval').textContent = (it.opacity === undefined ? 1 : it.opacity).toFixed(2);
+    if (it.kind === 'text') {
+      $('tcontent').value = it.text || '';
+      $('tsize').value = it.size; $('twidth').value = it.width; $('tcolor').value = it.color || '#ffffff';
+    }
+  }
+  paintLists();
+  emit();
+}
+['layers', 'texts'].forEach(id => $(id).addEventListener('click', (e) => {
+  const li = e.target.closest('[data-i]'); if (li) select(+li.dataset.i);
+}));
+
+const bind = (id, fn) => $(id).addEventListener('input', (e) => {
+  const it = items[sel]; if (!it) return;
+  fn(it, e.target.value);
+  if (it.kind === 'text' && ['tcontent', 'tsize', 'twidth', 'tcolor'].indexOf(id) > -1) build(it); else apply(it);
+  paintPanel();
+});
+bind('px', (it, v) => it.x = +v);
+bind('py', (it, v) => it.y = +v);
+bind('pz', (it, v) => it.z = +v);
+bind('pscale', (it, v) => it.scale = +v);
+bind('prot', (it, v) => it.rot = +v);
+bind('popacity', (it, v) => it.opacity = +v);
+bind('tcontent', (it, v) => it.text = v);
+bind('tsize', (it, v) => it.size = +v);
+bind('twidth', (it, v) => it.width = +v);
+bind('tcolor', (it, v) => it.color = v);
+
+$('up').addEventListener('click', () => move(1));
+$('down').addEventListener('click', () => move(-1));
+function move(d) {
+  if (sel < 0) return;
+  const j = sel + d;
+  if (j < 0 || j >= items.length) return;
+  [items[sel], items[j]] = [items[j], items[sel]];
+  sel = j; items.forEach(apply); paintPanel();
+}
+$('del').addEventListener('click', () => {
+  if (sel < 0) return;
+  group.remove(items[sel].mesh);
+  items.splice(sel, 1); sel = -1;
+  items.forEach(apply); paintPanel();
+});
+window.addEventListener('keydown', (e) => {
+  const it = items[sel];
+  if (!it || /INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)) return;
+  const step = e.shiftKey ? 0.001 : 0.01;
+  if (e.key === 'ArrowLeft')  it.x -= step; else if (e.key === 'ArrowRight') it.x += step;
+  else if (e.key === 'ArrowUp') it.y += step; else if (e.key === 'ArrowDown') it.y -= step;
+  else if (e.key === 'PageUp') it.z += step; else if (e.key === 'PageDown') it.z -= step;
+  else return;
+  e.preventDefault(); apply(it); paintPanel();
+});
+
+/* ── Adding things ──────────────────────────────────────────*/
+$('addtext').addEventListener('click', () => {
+  items.push({ kind: 'text', text: 'Type the story here.', x: 0, y: -0.85, z: 0.35,
+    scale: 1, rot: 0, opacity: 1, size: 0.075, width: 0.95, color: '#ffffff', align: 'center' });
+  build(items[items.length - 1]);
+  select(items.length - 1);
+});
+
+const drop = $('drop');
+const chooser = document.createElement('input');
+chooser.type = 'file'; chooser.accept = 'image/*'; chooser.multiple = true;
+chooser.style.display = 'none';
+document.body.appendChild(chooser);
+drop.addEventListener('click', () => chooser.click());
+chooser.addEventListener('change', (e) => addFiles(e.target.files));
+['dragenter', 'dragover'].forEach(n => drop.addEventListener(n, (e) => { e.preventDefault(); drop.classList.add('over'); }));
+['dragleave', 'drop'].forEach(n => drop.addEventListener(n, (e) => { e.preventDefault(); drop.classList.remove('over'); }));
+drop.addEventListener('drop', (e) => addFiles(e.dataTransfer.files));
+
+function addFiles(list) {
+  [...list].filter(f => /^image\//.test(f.type)).forEach((f) => {
+    const url = URL.createObjectURL(f);
+    const im = new Image();
+    im.onload = () => {
+      /* Stacked a little apart by default, so a new layer is visible
+         rather than hidden exactly behind the one before it. */
+      const n = items.filter(i => i.kind !== 'text').length;
+      const it = { kind: 'layer', file: f.name, src: '/ar/layers/' + card.code + '/' + f.name,
+        url, w: im.naturalWidth, h: im.naturalHeight,
+        x: 0, y: 0, z: +(0.03 * (n + 1)).toFixed(3), scale: 1, rot: 0, opacity: 1 };
+      items.push(it); build(it); select(items.length - 1);
+    };
+    im.src = url;
+  });
+}
+
+/* ── Cards ──────────────────────────────────────────────────*/
+fetch('/ar/cards.json').then(r => r.json()).then(d => {
+  DATA = d;
+  $('card').innerHTML = d.cards.map((c, i) => '<option value="' + i + '">' + c.name + ' (' + c.code + ')</option>').join('');
+  load(0);
+});
+$('card').addEventListener('change', (e) => load(+e.target.value));
+
+function load(i) {
+  card = JSON.parse(JSON.stringify(DATA.cards[i]));
+  new THREE.TextureLoader().load(card.back, (t) => {
+    t.colorSpace = THREE.SRGBColorSpace;
+    cardMat.map = t; cardMat.needsUpdate = true;
+  });
+  items.forEach(it => group.remove(it.mesh));
+  items = [];
+  const sc = card.scene || {};
+  (sc.layers || []).forEach(l => items.push(Object.assign({ kind: 'layer', scale: 1, rot: 0, opacity: 1 }, l)));
+  (sc.texts || []).forEach(t => items.push(Object.assign({ kind: 'text', scale: 1, rot: 0, opacity: 1,
+    size: 0.075, width: 0.95, color: '#ffffff', align: 'center' }, t)));
+  items.forEach(build);
+  sel = -1;
+  setView(true);
+  paintPanel();
+}
+$('reset').addEventListener('click', () => { items.forEach(it => group.remove(it.mesh)); items = []; sel = -1; paintPanel(); });
+
+/* ── Out ────────────────────────────────────────────────────*/
+function emit() {
+  if (!card) return;
+  const clean = (it) => {
+    const o = { x: +it.x.toFixed(3), y: +it.y.toFixed(3), z: +it.z.toFixed(3),
+      scale: +(+it.scale).toFixed(3), rot: +(it.rot || 0), opacity: +(it.opacity === undefined ? 1 : it.opacity).toFixed(2) };
+    if (it.kind === 'text') return Object.assign({ text: it.text, size: +it.size, width: +it.width, color: it.color, align: it.align || 'center' }, o);
+    return Object.assign({ src: it.src, w: it.w, h: it.h }, o);
+  };
+  card.scene = {
+    layers: items.filter(i => i.kind !== 'text').map(clean),
+    texts: items.filter(i => i.kind === 'text').map(clean)
+  };
+}
+$('copy').addEventListener('click', async () => {
+  emit();
+  const out = JSON.stringify(card, (k, v) => (k === 'mesh' || k === 'url' || k === 'kind' || k === 'file') ? undefined : v, 2);
+  try { await navigator.clipboard.writeText(out); $('said').textContent = 'Copied. Paste it over this card in /ar/cards.json.'; }
+  catch (e) { $('said').textContent = 'Could not reach the clipboard — the JSON is in the console.'; console.log(out); }
+});
+
+resize();
+placeCamera();
+renderer.setAnimationLoop(() => renderer.render(scene, camera));
+</script>
+</body>
+</html>

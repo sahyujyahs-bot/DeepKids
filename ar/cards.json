@@ -4,17 +4,18 @@
     "entry here and dropping its compiled target in /ar/targets/<code>.mind.",
     "",
     "constellation.nodes  x and y are fractions of the card back, 0-1 from",
-    "                     its top-left corner. Place them with /ar/calibrate.",
+    "                     its top-left corner. Place them in /ar/calibrate.",
     "constellation.links  extra line pairs by name. Every node already links",
     "                     to the centre, so only the cross-links go here.",
-    "story                the longer telling, which is NOT printed on the",
-    "                     card. Shown only once the card is recognised.",
-    "layers               the story artwork in parts, back to front. Each is",
-    "                     an image the width of the card's lower scene, drawn",
-    "                     at its own depth so it parallaxes as the phone",
-    "                     moves. Empty until the layered exports exist."
+    "story                the longer telling, shown as a sheet at the bottom",
+    "                     of the phone once the card is recognised.",
+    "scene                what stands up off the card in 3D: the story art",
+    "                     in layers, and text placed in space. Arranged in",
+    "                     /ar/studio.html — do not write this by hand.",
+    "",
+    "Scene units are card-widths. The card runs -0.5 to 0.5 across and",
+    "-0.68 to 0.68 up; z is height above the card, towards the reader."
   ],
-
   "cards": [
     {
       "code": "sci1001",
@@ -25,25 +26,83 @@
       "constellation": {
         "centre": "Brahmagupta",
         "nodes": [
-          { "name": "Dirac",        "x": 0.525, "y": 0.121, "note": "Took B&rsquo;s 0 from maths to physics" },
-          { "name": "Isaac Newton", "x": 0.633, "y": 0.156, "note": "Scaled up B&rsquo;s ideas" },
-          { "name": "Aryabhatta",   "x": 0.761, "y": 0.200, "note": "Rival" },
-          { "name": "Fibonacci",    "x": 0.388, "y": 0.207, "note": "Applied B&rsquo;s ideas to practical problems" },
-          { "name": "Euler",        "x": 0.178, "y": 0.228, "note": "Reinvented B&rsquo;s work, not knowing B had done it" },
-          { "name": "Brahmagupta",  "x": 0.531, "y": 0.258, "note": "" },
-          { "name": "Emmy Noether", "x": 0.779, "y": 0.287, "note": "Proved B&rsquo;s Theorem" },
-          { "name": "Al-Khwarizmi", "x": 0.289, "y": 0.319, "note": "Built on his work" }
+          {
+            "name": "Dirac",
+            "x": 0.525,
+            "y": 0.121,
+            "note": "Took B&rsquo;s 0 from maths to physics"
+          },
+          {
+            "name": "Isaac Newton",
+            "x": 0.633,
+            "y": 0.156,
+            "note": "Scaled up B&rsquo;s ideas"
+          },
+          {
+            "name": "Aryabhatta",
+            "x": 0.761,
+            "y": 0.2,
+            "note": "Rival"
+          },
+          {
+            "name": "Fibonacci",
+            "x": 0.388,
+            "y": 0.207,
+            "note": "Applied B&rsquo;s ideas to practical problems"
+          },
+          {
+            "name": "Euler",
+            "x": 0.178,
+            "y": 0.228,
+            "note": "Reinvented B&rsquo;s work, not knowing B had done it"
+          },
+          {
+            "name": "Brahmagupta",
+            "x": 0.531,
+            "y": 0.258,
+            "note": ""
+          },
+          {
+            "name": "Emmy Noether",
+            "x": 0.779,
+            "y": 0.287,
+            "note": "Proved B&rsquo;s Theorem"
+          },
+          {
+            "name": "Al-Khwarizmi",
+            "x": 0.289,
+            "y": 0.319,
+            "note": "Built on his work"
+          }
         ],
         "links": [
-          ["Dirac", "Isaac Newton"],
-          ["Isaac Newton", "Al-Khwarizmi"],
-          ["Euler", "Fibonacci"],
-          ["Aryabhatta", "Al-Khwarizmi"],
-          ["Emmy Noether", "Fibonacci"]
+          [
+            "Dirac",
+            "Isaac Newton"
+          ],
+          [
+            "Isaac Newton",
+            "Al-Khwarizmi"
+          ],
+          [
+            "Euler",
+            "Fibonacci"
+          ],
+          [
+            "Aryabhatta",
+            "Al-Khwarizmi"
+          ],
+          [
+            "Emmy Noether",
+            "Fibonacci"
+          ]
         ]
       },
       "story": "",
-      "layers": []
+      "scene": {
+        "layers": [],
+        "texts": []
+      }
     },
     {
       "code": "sci1002",
@@ -54,23 +113,73 @@
       "constellation": {
         "centre": "Emmy Noether",
         "nodes": [
-          { "name": "Isaac Newton",     "x": 0.633, "y": 0.156, "note": "All his laws are a consequence of Em&rsquo;s theorem" },
-          { "name": "Edu Ch&acirc;telet", "x": 0.761, "y": 0.200, "note": "Em uncovered her proof&rsquo;s underlying principle" },
-          { "name": "JL Lagrange",      "x": 0.382, "y": 0.209, "note": "L&rsquo;s framework is a foundation for Em&rsquo;s theorem" },
-          { "name": "David Hilbert",    "x": 0.178, "y": 0.228, "note": "Collaborated with" },
-          { "name": "Emmy Noether",     "x": 0.531, "y": 0.258, "note": "" },
-          { "name": "Brahmagupta",      "x": 0.779, "y": 0.287, "note": "Em proved B&rsquo;s Theorem" },
-          { "name": "Albert Einstein",  "x": 0.289, "y": 0.319, "note": "Collaborated with" }
+          {
+            "name": "Isaac Newton",
+            "x": 0.633,
+            "y": 0.156,
+            "note": "All his laws are a consequence of Em&rsquo;s theorem"
+          },
+          {
+            "name": "Edu Ch&acirc;telet",
+            "x": 0.761,
+            "y": 0.2,
+            "note": "Em uncovered her proof&rsquo;s underlying principle"
+          },
+          {
+            "name": "JL Lagrange",
+            "x": 0.382,
+            "y": 0.209,
+            "note": "L&rsquo;s framework is a foundation for Em&rsquo;s theorem"
+          },
+          {
+            "name": "David Hilbert",
+            "x": 0.178,
+            "y": 0.228,
+            "note": "Collaborated with"
+          },
+          {
+            "name": "Emmy Noether",
+            "x": 0.531,
+            "y": 0.258,
+            "note": ""
+          },
+          {
+            "name": "Brahmagupta",
+            "x": 0.779,
+            "y": 0.287,
+            "note": "Em proved B&rsquo;s Theorem"
+          },
+          {
+            "name": "Albert Einstein",
+            "x": 0.289,
+            "y": 0.319,
+            "note": "Collaborated with"
+          }
         ],
         "links": [
-          ["David Hilbert", "Isaac Newton"],
-          ["Albert Einstein", "Isaac Newton"],
-          ["JL Lagrange", "Brahmagupta"],
-          ["David Hilbert", "Edu Ch&acirc;telet"]
+          [
+            "David Hilbert",
+            "Isaac Newton"
+          ],
+          [
+            "Albert Einstein",
+            "Isaac Newton"
+          ],
+          [
+            "JL Lagrange",
+            "Brahmagupta"
+          ],
+          [
+            "David Hilbert",
+            "Edu Ch&acirc;telet"
+          ]
         ]
       },
       "story": "",
-      "layers": []
+      "scene": {
+        "layers": [],
+        "texts": []
+      }
     }
   ]
 }

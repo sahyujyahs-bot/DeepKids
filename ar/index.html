@@ -375,32 +375,82 @@ function constellation(card) {
   return mesh;
 }
 
-/* ── The story artwork, in its layers ───────────────────────
-   Each layer is a plane a little nearer the camera than the one
-   behind it, so moving the phone slides them against each other and
-   the painting gains depth. With no layers supplied there is simply
-   nothing here, and the constellation carries the scene on its own. */
-function layers(card) {
+/* ── Whatever the studio arranged over this card ────────────
+   Each layer sits a little nearer the reader than the one behind it,
+   so moving the phone slides them against each other and the painting
+   gains depth. With nothing arranged there is simply nothing here,
+   and the constellation carries the card on its own.
+
+   Both the artwork and the text are placed in /ar/studio.html and
+   come through in card.scene exactly as it left there — the same
+   units, the same meaning — so what was arranged on a desk is what
+   appears over the card. */
+function sceneFor(card) {
   const group = new THREE.Group();
-  const list = card.layers || [];
-  if (!list.length) return group;
+  const sc = card.scene || {};
   const loader = new THREE.TextureLoader();
-  list.forEach((layer, i) => {
+  let order = 0;
+
+  const place = (m, it) => {
+    m.position.set(it.x || 0, it.y || 0, it.z || 0);
+    m.scale.setScalar(it.scale === undefined ? 1 : it.scale);
+    m.rotation.z = (it.rot || 0) * Math.PI / 180;
+    m.material.transparent = true;
+    m.material.opacity = it.opacity === undefined ? 1 : it.opacity;
+    m.renderOrder = ++order;
+    group.add(m);
+  };
+
+  (sc.layers || []).forEach((layer) => {
     const tex = loader.load(layer.src);
     tex.colorSpace = THREE.SRGBColorSpace;
     const h = CARD_W * (layer.h || 1) / (layer.w || 1);
-    const m = new THREE.Mesh(
-      new THREE.PlaneGeometry(CARD_W, h),
-      new THREE.MeshBasicMaterial({ map: tex, transparent: true })
-    );
-    /* Depth in card-widths. Back layers sit on the card, front ones
-       lift towards the reader. */
-    m.position.z = (layer.depth !== undefined ? layer.depth : i * 0.035);
-    m.position.y = (layer.y !== undefined ? -(layer.y * CARD_H - CARD_H / 2) : 0);
-    m.renderOrder = i;
-    group.add(m);
+    place(new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true })), layer);
   });
+
+  (sc.texts || []).forEach((t) => {
+    const { tex, aspect } = textTexture(t);
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(t.width, t.width * aspect),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false }));
+    place(m, t);
+  });
+
   return group;
+}
+
+/* Words into a texture. Kept identical to the studio's own version so
+   a block of text wraps in the same places here as it did there. */
+function textTexture(t) {
+  const PX = 1024, pad = 24;
+  const c = document.createElement('canvas');
+  const probe = c.getContext('2d');
+  const fontPx = Math.max(10, Math.round(PX * (t.size / t.width) * 0.42));
+  const font = fontPx + "px 'Futura','Segoe UI',sans-serif";
+  probe.font = font;
+  const words = String(t.text || '').split(/\s+/).filter(Boolean);
+  const maxW = PX - pad * 2;
+  const lines = [];
+  let line = '';
+  for (const w of words) {
+    const test = line ? line + ' ' + w : w;
+    if (probe.measureText(test).width > maxW && line) { lines.push(line); line = w; } else line = test;
+  }
+  if (line) lines.push(line);
+  const lh = Math.round(fontPx * 1.32);
+  c.width = PX;
+  c.height = Math.max(lh + pad * 2, lines.length * lh + pad * 2);
+  const g = c.getContext('2d');
+  g.font = font;
+  g.textBaseline = 'top';
+  g.textAlign = t.align === 'left' ? 'left' : 'center';
+  g.shadowColor = 'rgba(0,0,0,.85)';
+  g.shadowBlur = Math.round(fontPx * 0.5);
+  g.fillStyle = t.color || '#ffffff';
+  lines.forEach((l, i) => g.fillText(l, t.align === 'left' ? pad : PX / 2, pad + i * lh));
+  const tex = new THREE.CanvasTexture(c);
+  tex.colorSpace = THREE.SRGBColorSpace;
+  return { tex, aspect: c.height / c.width };
 }
 
 /* ── What this device can actually do ───────────────────────
@@ -480,7 +530,7 @@ async function start(card) {
     const anchor = mindar.addAnchor(0);
     const con = constellation(card);
     anchor.group.add(con);
-    anchor.group.add(layers(card));
+    anchor.group.add(sceneFor(card));
 
     anchor.onTargetFound = () => {
       body.classList.add('found');

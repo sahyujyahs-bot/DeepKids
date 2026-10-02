@@ -42,23 +42,34 @@ and picking a face off a grid is friendlier than typing a code anyway.
 4. **Copy the JSON** it gives you over that card's entry in
    `cards.json`. Add a new entry first if the card is not listed yet.
 
-## The story artwork, in layers
+## The story artwork and the text: /ar/studio.html
 
-`layers` on a card is empty until the layered exports exist. Export
-each part of the lower scene from Procreate as its own transparent PNG
-at the same canvas size, then list them back to front:
+Open the studio, pick a card, and arrange what stands up off it.
 
-```json
-"layers": [
-  { "src": "/ar/layers/sci1001/sky.webp",       "w": 760, "h": 520, "depth": 0.00 },
-  { "src": "/ar/layers/sci1001/observatory.webp","w": 760, "h": 520, "depth": 0.04 },
-  { "src": "/ar/layers/sci1001/telescope.webp",  "w": 760, "h": 520, "depth": 0.09 }
-]
-```
+- **Drop the layer images in.** Export each part of the scene from
+  Procreate as its own transparent PNG or WebP at the same canvas
+  size, then drag them into the studio. They appear straight away.
+- **Move them in space.** Select a layer and set X, Y and Z, or nudge
+  with the arrow keys (PageUp/PageDown for height). Scale, turn and
+  fade each one.
+- **Add text and put it where you want it.** Same controls — a block
+  of text is just another thing in the scene, so it can float above
+  the card, sit beside it, or lie flat on it.
+- **Phone view** frames it as the camera will. **Orbit** swings round
+  so the depth between layers is visible. **Card** hides the card.
+- **Copy the JSON** and paste it over that card in `cards.json`.
 
-`depth` is in card-widths towards the reader. Keep the furthest at 0
-and the nearest under about 0.12 — past that the parallax detaches
-from the card and the illusion goes.
+Then save the images the studio lists into `/ar/layers/<code>/` in the
+repo. Until they are there the page has nothing to load — the studio
+is only holding them in the browser.
+
+### The units
+
+Everything is in card-widths. The card runs -0.5 to 0.5 across and
+-0.68 to 0.68 up; **z is height above the card, towards the reader**.
+Keep layers under about 0.3 — past that the parallax detaches from
+the card and the illusion goes. Text can go further, since it is
+meant to float.
 
 ## Before this goes live
 
