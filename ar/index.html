@@ -584,7 +584,15 @@ function sceneFor(card) {
    a frame or two constantly and the anchor blinks off with it; here
    the artwork simply stays where it was for a moment, and fades if
    the card is really gone instead of snapping out and back. */
-function follower(anchor, stage, onGone) {
+function follower(anchors, stage, onGone) {
+  /* A card can have been printed more than once, and the same .mind
+     can carry a target for each printing. Whichever one the tracker
+     recognises drives the artwork; they are the same card, so the
+     scene does not care which. */
+  const seenNow = () => {
+    for (let i = 0; i < anchors.length; i++) if (anchors[i].group.visible) return anchors[i];
+    return null;
+  };
   const p = new THREE.Vector3(), q = new THREE.Quaternion(), s = new THREE.Vector3();
   let started = false, seen = 0, fade = 0, last = 0, skipped = 0;
 
@@ -660,8 +668,9 @@ function follower(anchor, stage, onGone) {
     last = now;
 
     let good = false;
-    if (anchor.group.visible) {
-      anchor.group.matrix.decompose(p, q, s);
+    const a = seenNow();
+    if (a) {
+      a.group.matrix.decompose(p, q, s);
       good = sane();
       if (!good) skipped++;
     }
@@ -705,8 +714,12 @@ function follower(anchor, stage, onGone) {
     }
   };
 
-  tick.state = () => ({ started: started, fade: fade, skipped: skipped,
-                        anchor: !!anchor.group.visible, scale: stage.scale.x });
+  tick.state = () => {
+    let which = -1;
+    for (let i = 0; i < anchors.length; i++) if (anchors[i].group.visible) { which = i; break; }
+    return { started: started, fade: fade, skipped: skipped,
+             anchor: which >= 0, which: which, scale: stage.scale.x };
+  };
 
   /* Coming back from look-around, the stage is parked in front of the
      camera at a size of its own. Without this it would crawl back to
@@ -965,7 +978,11 @@ async function start(card) {
     const { renderer, scene, camera } = mindar;
     renderer.outputColorSpace = THREE.SRGBColorSpace;
 
-    const anchor = mindar.addAnchor(0);
+    /* One anchor per printing of this card. cards.json says how many
+       the .mind holds; a card compiled the usual way has one. */
+    const printings = Math.max(1, card.targets || 1);
+    const anchors = [];
+    for (let i = 0; i < printings; i++) anchors.push(mindar.addAnchor(i));
     /* The constellation is PRINTED on the card. Lighting it again in
        AR drew a second set of lines a hair off the first, which with
        any tracking jitter read as a smeared flicker rather than as
@@ -996,14 +1013,14 @@ async function start(card) {
     };
 
     look = lookAround(stage, $('ar'), live.userData, camera);
-    const steady = follower(anchor, stage, () => {
+    const steady = follower(anchors, stage, () => {
       if (look.on) return;
       body.classList.remove('found');
       $('sheet').classList.remove('open');
     });
 
     let hinted = false;
-    anchor.onTargetFound = () => {
+    const onFound = () => {
       body.classList.add('found');
       $('sheet').hidden = false;
       /* Said once, because "I can't see it from other sides" is what
@@ -1018,7 +1035,7 @@ async function start(card) {
     };
     /* Nothing on lost: a dropout of a few frames is normal in a hand,
        and the follower decides when the card is really gone. */
-    anchor.onTargetLost = () => {};
+    anchors.forEach((a) => { a.onTargetFound = onFound; a.onTargetLost = () => {}; });
 
     $('look').onclick = () => {
       look.set(!look.on);
@@ -1090,7 +1107,7 @@ async function start(card) {
           hud.textContent =
             'frames ' + frames + '  fps ' + Math.round(frames / (now / 1000)) + '\n' +
             'camera ' + (v && v.videoWidth ? v.videoWidth + 'x' + v.videoHeight : '?') + '\n' +
-            'anchor ' + (t.anchor ? 'SEEN' : '----') + '  showing ' + (t.started ? 'yes' : 'no') + '\n' +
+            'anchor ' + (t.anchor ? 'SEEN#' + t.which : '----') + '  showing ' + (t.started ? 'yes' : 'no') + '\n' +
             'fade   ' + t.fade.toFixed(2) + '  scale ' + (isFinite(t.scale) ? t.scale.toFixed(1) : String(t.scale)) + '\n' +
             'bad poses skipped ' + t.skipped + '\n' +
             'look   ' + (look.on ? 'on' : 'off') +

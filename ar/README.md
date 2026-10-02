@@ -21,9 +21,22 @@ No app, no QR code, nothing to reprint. It runs in the browser.
 
 ## Why one target file per card
 
-A `.mind` target is about 750KB. All 42 cards in one file would be a
-31MB download before anything could be recognised. So the kid says
-which card they have first, and only that card's target loads.
+A `.mind` target is about 750KB — 1.9MB for Noether, which carries two
+printings. All 42 cards in one file would be a 31MB download before
+anything could be recognised. So the kid says which card they have
+first, and only that card's target loads.
+
+### More than one printing of the same card
+
+A card that has been reprinted is, to a tracker, a different picture.
+Rather than pick a winner and leave the other one dead, a `.mind` can
+hold a target per printing and `cards.json` says how many with
+`targets`. The page adds an anchor for each and the artwork follows
+whichever is recognised; `/ar/?debug` shows which, as `SEEN#0` or
+`SEEN#1`. Noether is at 2: the artwork as it now stands, and the
+printing people are actually holding, which has a paragraph of body
+text the current artwork does not and different captions under the
+names.
 
 This is also why there is no QR code: the cards are already printed,
 and picking a face off a grid is friendlier than typing a code anyway.
@@ -61,9 +74,11 @@ is a different picture. `findcard.py` searches the whole repo for the
 artwork that *does* match, which is how we know it is not in here.
 
 The same goes for the story text. The text in `cards.json` for Noether
-is word for word what the new card has printed on it, so AR currently
-floats a copy of something the kid is already holding. The point was
-the part that is *not* on the card.
+is word for word what the printed card has on it, so AR floats a copy
+of something the kid is already holding. The point was the part that
+is *not* on the card. (The newer artwork drops that paragraph, which
+would make the AR text the only place it appears — worth deciding
+deliberately rather than by accident.)
 
 ## Adding a card
 
