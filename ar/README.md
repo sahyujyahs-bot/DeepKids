@@ -44,6 +44,22 @@ If the artwork is reprinted, **the target has to be recompiled**, or
 nothing above it works. `/ar/?debug` shows `anchor ----` with the card
 filling the frame when this is what is wrong.
 
+`scratchpad/ar/match.py` settles it in one run rather than by eye. It
+counts the features that survive a ratio test and a single consistent
+perspective fit — which is the thing a tracker has to do:
+
+```
+repo art  vs  repo art warped, blurred, brightened : 1537
+phone photo vs another phone photo of the same card: 965-3193
+repo art  vs  the card actually in someone's hand  :    1-5
+```
+
+The first line says the method works; the second says the photos are
+good enough to track from, so a low third line cannot be blamed on
+lighting or camera shake. Five matches is not a tracking problem, it
+is a different picture. `findcard.py` searches the whole repo for the
+artwork that *does* match, which is how we know it is not in here.
+
 The same goes for the story text. The text in `cards.json` for Noether
 is word for word what the new card has printed on it, so AR currently
 floats a copy of something the kid is already holding. The point was
@@ -187,4 +203,35 @@ or tap it to copy. There is no way to run the tracker anywhere but on
 a phone, so that readout is the whole of the evidence.
 
 The filter can be tried without a deploy: `?calm=`, `?keen=`, `?move=`,
-`?turn=`, `?win=` and `?hold=` override the constants in `follower()`.
+`?turn=`, `?win=` and `?hold=` override the constants in `follower()`,
+and `?res=` the camera width asked for.
+
+## Why this is harder than Artivive makes it look
+
+Artivive, Vuforia and the rest are **native apps**, and that is most of
+the answer. An app gets ARKit or ARCore, which means the phone's own
+image tracking, its gyroscope and accelerometer, and room-scale
+tracking — once the picture is found the content is pinned to the
+*room*, so it survives the tracker losing the image entirely. You can
+cover the card and the thing stays put.
+
+This runs in a browser with nothing to install, which was the point.
+That buys a link a kid can open and costs the IMU and the room
+tracking: every frame's pose is re-derived from the camera picture
+alone, so when detection drops there is nothing holding the scene up.
+
+Two things close part of the gap and are worth doing before anyone
+reaches for a paid SDK:
+
+1. **A target that is the card.** Nothing else matters while this is
+   wrong, and no SDK on the market would do better on five matches.
+2. **A camera stream worth tracking from.** MindAR asks for
+   `{ video: { facingMode } }` and nothing else; an unconstrained
+   request is usually answered at 640x480. `index.html` wraps
+   `getUserMedia` to ask for 1280 wide and continuous focus. The debug
+   readout prints what the camera actually gave.
+
+Beyond that, the honest options are a commercial WebAR SDK (8th Wall
+and Zappar both do browser image tracking far better than MindAR, and
+both are paid), or an app. Worth re-checking what they cost before
+committing, since that market moves.

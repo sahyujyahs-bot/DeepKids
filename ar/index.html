@@ -909,6 +909,34 @@ async function start(card) {
   $('sheet').hidden = true;
   body.classList.remove('found');
 
+  /* MindAR asks the browser for `{ video: { facingMode } }` and nothing
+     else, and an unconstrained request is usually answered with
+     640x480. The tracker then has a quarter of the detail the camera
+     could have given it, which for a busy card at arm's length in a
+     lit room is most of the difference between locking on and not.
+
+     Wrapping the call rather than patching the vendor bundle, so this
+     survives the next MindAR update. Only the request MindAR makes is
+     touched, and only to add ideals the browser is free to refuse. */
+  if (!navigator.mediaDevices.__dkWrapped) {
+    const real = navigator.mediaDevices.getUserMedia.bind(navigator.mediaDevices);
+    const want = (() => {
+      const m = /[?&]res=(\d+)/.exec(location.search);
+      return m ? parseInt(m[1], 10) : 1280;
+    })();
+    navigator.mediaDevices.getUserMedia = (c) => {
+      if (c && c.video && typeof c.video === 'object') {
+        c.video.width = { ideal: want };
+        c.video.height = { ideal: Math.round(want * 9 / 16) };
+        /* Cards get held close, and a camera hunting for focus is a
+           camera handing the tracker blurred frames. */
+        c.video.advanced = (c.video.advanced || []).concat([{ focusMode: 'continuous' }]);
+      }
+      return real(c);
+    };
+    navigator.mediaDevices.__dkWrapped = true;
+  }
+
   try {
     mindar = new MindARThree({
       container: $('ar'),
@@ -1058,8 +1086,10 @@ async function start(card) {
         if (hud && now - hudAt > 250) {
           hudAt = now;
           const t = steady.state();
+          const v = $('ar').querySelector('video');
           hud.textContent =
             'frames ' + frames + '  fps ' + Math.round(frames / (now / 1000)) + '\n' +
+            'camera ' + (v && v.videoWidth ? v.videoWidth + 'x' + v.videoHeight : '?') + '\n' +
             'anchor ' + (t.anchor ? 'SEEN' : '----') + '  showing ' + (t.started ? 'yes' : 'no') + '\n' +
             'fade   ' + t.fade.toFixed(2) + '  scale ' + (isFinite(t.scale) ? t.scale.toFixed(1) : String(t.scale)) + '\n' +
             'bad poses skipped ' + t.skipped + '\n' +
