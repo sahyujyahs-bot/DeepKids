@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"/>
+  <title>Scan Your SCI. Card &mdash; DeepKids AR</title>
+  <meta name="description" content="Point your phone at the back of a SCI. scientist trading card and watch the constellation come alive, the artwork lift off the page, and the longer story appear — the part that is not printed on the card."/>
+  <link rel="canonical" href="https://deepkids.in/ar"/>
+  <!-- Kept out of the index until it has been confirmed on real phones.
+       Flip to "index, follow" and add /ar to sitemap.xml to launch it. -->
+  <meta name="robots" content="noindex, follow"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://deepkids.in/ar"/>
+  <meta property="og:title" content="Scan Your SCI. Card"/>
+  <meta property="og:description" content="Point your phone at the back of a card and watch the constellation come alive."/>
+  <meta property="og:image" content="https://deepkids.in/sci-box-front.webp"/>
+  <meta property="og:site_name" content="DeepKids"/>
+  <meta name="theme-color" content="#0a0618"/>
+  <link rel="icon" href="/favicon.ico" sizes="any"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+  <style>
+    @font-face { font-family:'Norwester'; src:url('/norwester.ttf') format('truetype'); font-weight:normal; font-style:normal; font-display:swap; }
+    @font-face { font-family:'Futura'; src:url('/fonts/futura-book.otf') format('opentype'); font-weight:400; font-style:normal; font-display:swap; }
+    :root {
+      --purple:#aa59c8; --purple-rgb:170,89,200; --lilac:#cd9edf; --gold:#ffb300;
+      --ink:rgba(255,255,255,.86); --ink-dim:rgba(255,255,255,.6);
+      --head:'Norwester',sans-serif; --body:'Futura','Segoe UI',sans-serif;
+    }
+    *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
+    html,body { height:100%; }
+    body {
+      background:linear-gradient(180deg,#0a0618 0%,#120826 45%,#0a0618 100%);
+      color:#fff; font-family:var(--body); line-height:1.6;
+      overscroll-behavior:none;
+    }
+    img { display:block; max-width:100%; }
+
+    /* ── Screens ─────────────────────────────────────────────
+       One at a time, swapped by a class on <body>, so the camera
+       is only ever running on the screen that uses it. */
+    .screen { display:none; }
+    body[data-screen="pick"] #pick,
+    body[data-screen="scan"] #scan,
+    body[data-screen="sorry"] #sorry { display:block; }
+
+    /* ── Pick a card ─────────────────────────────────────────*/
+    #pick { max-width:760px; margin:0 auto; padding:clamp(22px,5vw,44px) clamp(16px,4vw,32px) 60px; }
+    .brand { font-family:var(--head); font-size:clamp(17px,2.4vw,21px); color:var(--purple); text-decoration:none; letter-spacing:1px; }
+    .brand b { color:#fff; font-weight:normal; }
+    h1 {
+      font-family:var(--head); font-weight:normal; font-variant:small-caps;
+      font-size:clamp(30px,8vw,46px); line-height:1.05; margin:clamp(20px,4vh,34px) 0 10px;
+      text-shadow:0 0 30px rgba(var(--purple-rgb),.5);
+    }
+    h1 em { font-style:normal; color:var(--lilac); }
+    .lede { color:var(--ink); font-size:clamp(15px,2vw,17px); margin-bottom:clamp(22px,4vh,34px); }
+    .steps { list-style:none; display:grid; gap:10px; margin-bottom:clamp(26px,5vh,40px); }
+    .steps li { display:flex; gap:12px; align-items:flex-start; font-size:15px; color:var(--ink); }
+    .steps li span:first-child {
+      flex:0 0 auto; width:24px; height:24px; border-radius:50%; display:grid; place-items:center;
+      font-family:var(--head); font-size:13px; color:#fff;
+      background:rgba(var(--purple-rgb),.3); border:1px solid rgba(var(--purple-rgb),.6);
+    }
+    .pick-h { font-family:var(--head); font-variant:small-caps; letter-spacing:3px; font-size:13px; color:var(--gold); margin-bottom:14px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(100%,150px),1fr)); gap:clamp(12px,3vw,20px); }
+    .card-btn {
+      display:block; width:100%; padding:0; cursor:pointer; text-align:left;
+      background:rgba(255,255,255,.03); border:1px solid rgba(var(--purple-rgb),.3);
+      border-radius:16px; overflow:hidden; color:inherit; font:inherit;
+      transition:border-color .2s ease, transform .2s ease;
+    }
+    .card-btn:hover, .card-btn:focus-visible { border-color:var(--purple); transform:translateY(-3px); outline:none; }
+    .card-btn img { width:100%; aspect-ratio:3/4; object-fit:cover; object-position:top; }
+    .card-btn .cap { padding:11px 13px 13px; }
+    .card-btn .cap b { display:block; font-family:var(--head); font-variant:small-caps; letter-spacing:1px; font-size:17px; color:#fff; font-weight:normal; }
+    .card-btn .cap span { font-size:11.5px; letter-spacing:1.5px; text-transform:uppercase; color:var(--lilac); }
+    .note { margin-top:clamp(26px,5vh,40px); font-size:13.5px; color:var(--ink-dim); }
+    .note a { color:var(--lilac); }
+
+    /* ── Scanning ────────────────────────────────────────────*/
+    #scan { position:fixed; inset:0; background:#000; }
+    #ar { position:absolute; inset:0; }
+    /* MindAR drops the camera feed and the canvas in here; both must
+       fill the screen rather than sit at their natural size. */
+    #ar video, #ar canvas { position:absolute; inset:0; width:100% !important; height:100% !important; object-fit:cover; }
+
+    .bar {
+      position:absolute; top:0; left:0; right:0; z-index:20;
+      display:flex; align-items:center; justify-content:space-between; gap:12px;
+      padding:calc(10px + env(safe-area-inset-top)) 14px 10px;
+      background:linear-gradient(180deg,rgba(5,3,15,.85),transparent);
+    }
+    .bar .who { font-family:var(--head); font-variant:small-caps; letter-spacing:1.5px; font-size:16px; }
+    .x {
+      width:38px; height:38px; flex:0 0 auto; border-radius:50%; cursor:pointer;
+      border:1px solid rgba(255,255,255,.3); background:rgba(0,0,0,.45); color:#fff;
+      font-size:20px; line-height:1; display:grid; place-items:center;
+    }
+
+    /* The reticle, shown until the card is found. */
+    .aim {
+      position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+      width:min(68vw,300px); aspect-ratio:760/1027; z-index:10; pointer-events:none;
+      border:2px dashed rgba(var(--purple-rgb),.75); border-radius:14px;
+      transition:opacity .35s ease;
+    }
+    .aim::after {
+      content:attr(data-say); position:absolute; left:50%; bottom:-46px; transform:translateX(-50%);
+      white-space:nowrap; font-size:13.5px; letter-spacing:.5px; color:#fff;
+      background:rgba(5,3,15,.72); border-radius:999px; padding:7px 16px;
+    }
+    body.found .aim { opacity:0; }
+
+    /* ── The story sheet ─────────────────────────────────────
+       Text, not 3D: a paragraph pinned in space is unreadable on a
+       phone that is being held up to a card. It rises when the card
+       is recognised and can be pushed back down. */
+    .sheet {
+      position:absolute; left:0; right:0; bottom:0; z-index:30;
+      max-height:72%; overflow-y:auto; -webkit-overflow-scrolling:touch;
+      padding:16px clamp(16px,5vw,28px) calc(22px + env(safe-area-inset-bottom));
+      background:linear-gradient(180deg,rgba(10,6,24,.92),rgba(10,6,24,.98));
+      backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px);
+      border-top:1px solid rgba(var(--purple-rgb),.45);
+      border-radius:20px 20px 0 0;
+      transform:translateY(calc(100% - 54px));
+      transition:transform .4s cubic-bezier(.22,1,.36,1);
+    }
+    .sheet.open { transform:none; }
+    .sheet-grab {
+      width:100%; background:none; border:0; cursor:pointer; color:#fff; font:inherit;
+      display:flex; align-items:center; justify-content:center; gap:10px;
+      padding:0 0 14px; font-family:var(--head); font-variant:small-caps; letter-spacing:2px; font-size:14px;
+    }
+    .sheet-grab::before { content:''; width:38px; height:4px; border-radius:2px; background:rgba(255,255,255,.3); position:absolute; top:7px; left:50%; transform:translateX(-50%); }
+    .sheet h2 { font-family:var(--head); font-weight:normal; font-variant:small-caps; font-size:22px; margin-bottom:6px; }
+    .sheet p { font-size:15px; color:var(--ink); margin-bottom:12px; }
+    .sheet .pending { font-size:14px; color:var(--ink-dim); font-style:oblique; }
+
+    /* ── No camera / unsupported ─────────────────────────────*/
+    #sorry { max-width:620px; margin:0 auto; padding:clamp(40px,10vh,90px) clamp(20px,5vw,32px); }
+    #sorry h1 { margin-top:0; }
+    .cta {
+      display:inline-block; margin-top:20px;
+      font-family:var(--head); font-variant:small-caps; letter-spacing:1.5px; font-size:16px;
+      color:#fff; text-decoration:none; background:linear-gradient(180deg,#c46be0,#8a3aa8);
+      border:1px solid rgba(255,255,255,.35); border-radius:999px; padding:12px 30px;
+    }
+    .err { color:#ff9a9a; font-size:14px; margin-top:14px; }
+
+    /* ── Loading ─────────────────────────────────────────────*/
+    #load {
+      position:fixed; inset:0; z-index:60; display:none; place-items:center;
+      background:rgba(5,3,15,.92); text-align:center; padding:24px;
+    }
+    body.loading #load { display:grid; }
+    #load .ring {
+      width:52px; height:52px; margin:0 auto 18px; border-radius:50%;
+      border:3px solid rgba(var(--purple-rgb),.25); border-top-color:var(--purple);
+      animation:spin 1s linear infinite;
+    }
+    @keyframes spin { to { transform:rotate(360deg); } }
+    #load p { font-size:14.5px; color:var(--ink); }
+    @media (prefers-reduced-motion:reduce) { #load .ring { animation-duration:3s; } }
+  </style>
+</head>
+<body data-screen="pick">
+
+<!-- ═══════════════ PICK A CARD ═══════════════ -->
+<section class="screen" id="pick">
+  <a class="brand" href="/">Deep<b>Kids</b></a>
+  <h1>Scan Your <em>SCI. Card</em></h1>
+  <p class="lede">Hold up the <b>back</b> of a card and the constellation wakes up, the painting lifts off the page, and you get the longer story &mdash; the part we could not fit on the card.</p>
+
+  <ol class="steps">
+    <li><span>1</span><span>Pick the scientist you are holding.</span></li>
+    <li><span>2</span><span>Let the camera turn on, and point it at the back of the card.</span></li>
+    <li><span>3</span><span>Hold steady. Good light helps.</span></li>
+  </ol>
+
+  <div class="pick-h">Which card have you got?</div>
+  <div class="grid" id="grid"></div>
+
+  <p class="note" id="note">Nothing to install. The camera never leaves your phone &mdash; no photo or video is sent anywhere.
+    Don&rsquo;t have the cards yet? <a href="/sci">Have a look at SCI.</a></p>
+</section>
+
+<!-- ═══════════════ SCANNING ═══════════════ -->
+<section class="screen" id="scan">
+  <div id="ar"></div>
+  <div class="bar">
+    <span class="who" id="who"></span>
+    <button type="button" class="x" id="close" aria-label="Stop scanning">&times;</button>
+  </div>
+  <div class="aim" id="aim" data-say="Point at the back of the card"></div>
+
+  <div class="sheet" id="sheet" hidden>
+    <button type="button" class="sheet-grab" id="grab">The Longer Story</button>
+    <div id="sheet-body"></div>
+  </div>
+</section>
+
+<!-- ═══════════════ NO CAMERA ═══════════════ -->
+<section class="screen" id="sorry">
+  <a class="brand" href="/">Deep<b>Kids</b></a>
+  <h1>This One Needs <em>A Phone</em></h1>
+  <p class="lede" id="sorry-why">Scanning a card needs a camera, so this works on a phone or a tablet rather than on a desktop. Open <b>deepkids.in/ar</b> on your phone and you are away.</p>
+  <a class="cta" href="/sci">See The Cards &rarr;</a>
+  <p class="err" id="sorry-err" hidden></p>
+</section>
+
+<div id="load"><div><div class="ring"></div><p id="load-say">Waking the camera&hellip;</p></div></div>
+
+<script type="importmap">
+{ "imports": {
+    "three": "/ar/vendor/three.module.min.js",
+    "three/addons/renderers/CSS3DRenderer.js": "/ar/vendor/CSS3DRenderer.js"
+} }
+</script>
+
+<script type="module">
+import * as THREE from 'three';
+import { MindARThree } from '/ar/vendor/mindar-image-three.prod.js';
+
+/* The card back, in MindAR's units: the target is one unit wide and
+   as many tall as its own proportions. */
+const CARD_W = 1, CARD_H = 1027 / 760;
+
+const $ = (id) => document.getElementById(id);
+const body = document.body;
+let CARDS = [];
+let mindar = null;
+
+/* ── Can this device do it at all? ──────────────────────────*/
+function unsupported(why, detail) {
+  $('sorry-why').innerHTML = why;
+  if (detail) { $('sorry-err').hidden = false; $('sorry-err').textContent = detail; }
+  body.classList.remove('loading');
+  body.dataset.screen = 'sorry';
+}
+
+/* ── The picker ─────────────────────────────────────────────*/
+fetch('/ar/cards.json')
+  .then(r => r.json())
+  .then(data => {
+    CARDS = data.cards || [];
+    $('grid').innerHTML = CARDS.map((c, i) =>
+      '<button type="button" class="card-btn" data-i="' + i + '">' +
+        '<img src="' + c.front + '" alt="The ' + c.name + ' card from the SCI. scientist trading cards" loading="lazy" decoding="async"/>' +
+        '<span class="cap"><b>' + c.name + '</b><span>' + (c.core || '') + '</span></span>' +
+      '</button>').join('');
+    $('grid').addEventListener('click', (e) => {
+      const b = e.target.closest('[data-i]');
+      if (b) start(CARDS[+b.dataset.i]);
+    });
+  })
+  .catch(() => {
+    $('grid').innerHTML = '<p class="note">The card list could not be loaded. Try again in a moment.</p>';
+  });
+
+/* ── The constellation, drawn on a canvas and hung over the card ──
+   A texture rather than real geometry: the whole thing is flat
+   artwork sitting on a flat card, and a canvas gives the glow and
+   the line-drawing for far less than a scene full of meshes. */
+function constellation(card) {
+  const W = 760, H = 1027;
+  const cvs = document.createElement('canvas');
+  cvs.width = W; cvs.height = H;
+  const g = cvs.getContext('2d');
+
+  const nodes = card.constellation.nodes;
+  const centre = nodes.find(n => n.name === card.constellation.centre) || nodes[0];
+  const by = (name) => nodes.find(n => n.name === name);
+
+  /* Every node reaches the centre; the card also draws a few links
+     between the others, and those come from the data. */
+  const edges = nodes.filter(n => n !== centre).map(n => [centre, n]);
+  (card.constellation.links || []).forEach(([a, b]) => {
+    const na = by(a), nb = by(b);
+    if (na && nb) edges.push([na, nb]);
+  });
+
+  const tex = new THREE.CanvasTexture(cvs);
+  tex.colorSpace = THREE.SRGBColorSpace;
+  const mesh = new THREE.Mesh(
+    new THREE.PlaneGeometry(CARD_W, CARD_H),
+    new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false })
+  );
+  mesh.renderOrder = 10;
+
+  const DRAW = 2.2, HOLD = 3.0, CYCLE = DRAW + HOLD;
+  let t0 = 0;
+
+  mesh.userData.tick = (now) => {
+    if (!t0) t0 = now;
+    const t = ((now - t0) / 1000) % CYCLE;
+    g.clearRect(0, 0, W, H);
+
+    /* The lines draw themselves outward from the centre, one after
+       another, then the whole figure sits lit for a beat. */
+    edges.forEach((e, i) => {
+      const delay = (i / edges.length) * (DRAW * 0.55);
+      const p = Math.max(0, Math.min(1, (t - delay) / (DRAW * 0.45)));
+      if (p <= 0) return;
+      const ax = e[0].x * W, ay = e[0].y * H, bx = e[1].x * W, by2 = e[1].y * H;
+      g.save();
+      g.globalCompositeOperation = 'lighter';
+      g.strokeStyle = 'rgba(205,158,223,.95)';
+      g.lineWidth = 3;
+      g.shadowColor = 'rgba(170,89,200,.9)';
+      g.shadowBlur = 14;
+      g.beginPath();
+      g.moveTo(ax, ay);
+      g.lineTo(ax + (bx - ax) * p, ay + (by2 - ay) * p);
+      g.stroke();
+      g.restore();
+    });
+
+    /* A node lights when its line arrives, then breathes. */
+    nodes.forEach((n, i) => {
+      const delay = (i / nodes.length) * (DRAW * 0.55);
+      const lit = Math.max(0, Math.min(1, (t - delay) / 0.45));
+      if (lit <= 0) return;
+      const breathe = 0.78 + 0.22 * Math.sin((now / 1000) * 2.1 + i);
+      const r = (n === centre ? 30 : 20) * lit * breathe;
+      const x = n.x * W, y = n.y * H;
+      g.save();
+      g.globalCompositeOperation = 'lighter';
+      const grd = g.createRadialGradient(x, y, 0, x, y, r);
+      grd.addColorStop(0, 'rgba(255,255,255,' + (0.95 * lit) + ')');
+      grd.addColorStop(0.35, 'rgba(205,158,223,' + (0.6 * lit) + ')');
+      grd.addColorStop(1, 'rgba(170,89,200,0)');
+      g.fillStyle = grd;
+      g.beginPath(); g.arc(x, y, r, 0, Math.PI * 2); g.fill();
+      g.restore();
+    });
+
+    tex.needsUpdate = true;
+  };
+  return mesh;
+}
+
+/* ── The story artwork, in its layers ───────────────────────
+   Each layer is a plane a little nearer the camera than the one
+   behind it, so moving the phone slides them against each other and
+   the painting gains depth. With no layers supplied there is simply
+   nothing here, and the constellation carries the scene on its own. */
+function layers(card) {
+  const group = new THREE.Group();
+  const list = card.layers || [];
+  if (!list.length) return group;
+  const loader = new THREE.TextureLoader();
+  list.forEach((layer, i) => {
+    const tex = loader.load(layer.src);
+    tex.colorSpace = THREE.SRGBColorSpace;
+    const h = CARD_W * (layer.h || 1) / (layer.w || 1);
+    const m = new THREE.Mesh(
+      new THREE.PlaneGeometry(CARD_W, h),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true })
+    );
+    /* Depth in card-widths. Back layers sit on the card, front ones
+       lift towards the reader. */
+    m.position.z = (layer.depth !== undefined ? layer.depth : i * 0.035);
+    m.position.y = (layer.y !== undefined ? -(layer.y * CARD_H - CARD_H / 2) : 0);
+    m.renderOrder = i;
+    group.add(m);
+  });
+  return group;
+}
+
+/* ── What this device can actually do ───────────────────────
+   The tracker runs on WebGL2 with float textures. Where that is
+   missing it does not fail politely — it throws from somewhere deep
+   inside itself, long after the camera is on — so the ground is
+   checked first and the answer is kept for the debug readout. */
+function capability() {
+  const c = document.createElement('canvas');
+  let gl = null;
+  try { gl = c.getContext('webgl2'); } catch (e) {}
+  const out = {
+    secure: window.isSecureContext,
+    camera: !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia),
+    webgl2: !!gl,
+    floatBuffer: !!(gl && gl.getExtension('EXT_color_buffer_float')),
+    renderer: ''
+  };
+  if (gl) {
+    const dbg = gl.getExtension('WEBGL_debug_renderer_info');
+    try { out.renderer = gl.getParameter(dbg ? dbg.UNMASKED_RENDERER_WEBGL : gl.RENDERER); } catch (e) {}
+  }
+  return out;
+}
+
+/* ?debug prints what the device reported, so a phone that cannot run
+   this can say why without anyone guessing. */
+if (location.search.indexOf('debug') > -1) {
+  const c = capability();
+  $('note').innerHTML = '<b>Device report</b><br/>' +
+    Object.keys(c).map(k => k + ': ' + c[k]).join('<br/>') +
+    '<br/>ua: ' + navigator.userAgent;
+}
+
+/* ── Start scanning for one card ────────────────────────────*/
+async function start(card) {
+  const can = capability();
+  if (!can.secure) {
+    return unsupported('A camera can only be opened over a secure connection. Open this page at <b>https://deepkids.in/ar</b>.');
+  }
+  if (!can.camera) {
+    return unsupported('This browser will not give a web page a camera. Safari on iPhone and Chrome on Android both will &mdash; try one of those.');
+  }
+  if (!can.webgl2 || !can.floatBuffer) {
+    return unsupported('This device&rsquo;s browser cannot run the tracking. It needs WebGL2 with float textures, which most phones from the last few years have &mdash; an older phone, or a browser with hardware acceleration switched off, will not.',
+      'webgl2: ' + can.webgl2 + ' · floatBuffer: ' + can.floatBuffer + ' · ' + can.renderer);
+  }
+
+  body.classList.add('loading');
+  $('load-say').textContent = 'Getting ' + card.name + ' ready…';
+  $('who').textContent = card.name;
+  $('sheet').hidden = true;
+  body.classList.remove('found');
+
+  try {
+    mindar = new MindARThree({
+      container: $('ar'),
+      imageTargetSrc: '/ar/targets/' + card.code + '.mind',
+      uiLoading: 'no', uiScanning: 'no', uiError: 'no',
+      filterMinCF: 0.0001, filterBeta: 0.001      /* steadier on a hand-held card */
+    });
+
+    const { renderer, scene, camera } = mindar;
+    renderer.outputColorSpace = THREE.SRGBColorSpace;
+
+    const anchor = mindar.addAnchor(0);
+    const con = constellation(card);
+    anchor.group.add(con);
+    anchor.group.add(layers(card));
+
+    anchor.onTargetFound = () => {
+      body.classList.add('found');
+      $('sheet').hidden = false;
+      requestAnimationFrame(() => $('sheet').classList.add('open'));
+    };
+    anchor.onTargetLost = () => {
+      body.classList.remove('found');
+      $('sheet').classList.remove('open');
+    };
+
+    tellStory(card);
+    body.dataset.screen = 'scan';
+
+    /* The tracker throws from inside its own callbacks rather than out
+       of start(), so a plain await would leave the spinner up for ever
+       on a device it cannot run on. Listen for the escape, and give up
+       on the clock as well in case it neither starts nor throws. */
+    await new Promise((resolve, reject) => {
+      let done = false;
+      const settle = (err) => {
+        if (done) return;
+        done = true;
+        window.removeEventListener('error', onErr);
+        window.removeEventListener('unhandledrejection', onRej);
+        clearTimeout(timer);
+        err ? reject(err) : resolve();
+      };
+      const onErr = (e) => settle(e.error || new Error(e.message || 'tracking failed'));
+      const onRej = (e) => settle(e.reason instanceof Error ? e.reason : new Error(String(e.reason)));
+      const timer = setTimeout(() => settle(new Error('The tracker did not start within 25 seconds.')), 25000);
+      window.addEventListener('error', onErr);
+      window.addEventListener('unhandledrejection', onRej);
+      mindar.start().then(() => settle(null), settle);
+    });
+    body.classList.remove('loading');
+
+    renderer.setAnimationLoop(() => {
+      const now = performance.now();
+      if (con.userData.tick) con.userData.tick(now);
+      renderer.render(scene, camera);
+    });
+  } catch (e) {
+    const msg = String((e && e.name) || '') + ' ' + String((e && e.message) || e);
+    const denied = /denied|NotAllowed|Permission/i.test(msg);
+    unsupported(denied
+      ? 'The camera was turned down. Allow camera access for deepkids.in in your browser settings and have another go.'
+      : 'The tracking could not start on this device. It needs a phone from the last few years with hardware acceleration on.',
+      msg + ' · ' + capability().renderer);
+    await stop();
+  }
+}
+
+function tellStory(card) {
+  const b = $('sheet-body');
+  const n = card.constellation.nodes.filter(x => x.name !== card.constellation.centre && x.note);
+  b.innerHTML =
+    '<h2>' + card.name + '</h2>' +
+    (card.story
+      ? card.story.split('\n').filter(Boolean).map(p => '<p>' + p + '</p>').join('')
+      : '<p class="pending">The longer story for this card is still being written. For now, the constellation above is live &mdash; every line is someone whose work runs into ' + card.name + '&rsquo;s.</p>') +
+    (n.length ? '<p>' + n.map(x => '<b>' + x.name + '</b> &mdash; ' + x.note).join('<br/>') + '</p>' : '');
+}
+
+async function stop() {
+  if (!mindar) return;
+  try { mindar.renderer.setAnimationLoop(null); await mindar.stop(); } catch (e) {}
+  try { mindar.renderer.dispose(); } catch (e) {}
+  $('ar').innerHTML = '';
+  mindar = null;
+}
+
+$('close').addEventListener('click', async () => {
+  await stop();
+  body.classList.remove('found', 'loading');
+  body.dataset.screen = 'pick';
+});
+$('grab').addEventListener('click', () => $('sheet').classList.toggle('open'));
+window.addEventListener('pagehide', stop);
+</script>
+
+<script src="/track.js?v=15" defer></script>
+</body>
+</html>

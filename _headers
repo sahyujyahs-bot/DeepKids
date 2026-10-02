@@ -64,6 +64,14 @@
 /track.js
   Cache-Control: public, max-age=0, must-revalidate
 
+# The AR tracker and its compiled card targets are large and only
+# change when a card’s artwork does, so they cache for a month like
+# the images rather than revalidating on every scan.
+/ar/vendor/*
+  Cache-Control: public, max-age=2592000
+/ar/targets/*
+  Cache-Control: public, max-age=2592000
+
 # HTML must always revalidate so deploys show up immediately.
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
