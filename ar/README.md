@@ -58,11 +58,18 @@ Open the studio, pick a card, and arrange what stands up off it.
   the card, sit beside it, or lie flat on it.
 - **Phone view** frames it as the camera will. **Orbit** swings round
   so the depth between layers is visible. **Card** hides the card.
-- **Copy the JSON** and paste it over that card in `cards.json`.
+- **Move things by dragging them.** Drag a layer to slide it around,
+  shift-drag to lift it towards the reader, drag the background to
+  swing the camera. Arrow keys nudge; PageUp/PageDown change height.
+- **Download cards.json** when it looks right and commit it. The
+  arrangement is also kept in your browser as you work, so a reload
+  does not lose it.
 
-Then save the images the studio lists into `/ar/layers/<code>/` in the
-repo. Until they are there the page has nothing to load — the studio
-is only holding them in the browser.
+The images themselves are a separate job: the studio can only hold
+them in the browser, so they have to be committed to the repo at the
+paths it lists, under `/ar/layers/<code>/`. A layer whose picture is
+not there yet comes back as a pink outline, so it is obvious what is
+still missing.
 
 ### The units
 

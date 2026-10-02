@@ -59,7 +59,7 @@
       <button type="button" id="orbit" class="sm">Orbit</button>
       <button type="button" id="showcard" class="on sm">Card</button>
     </div>
-    <div class="hint" id="hint">Drag to orbit &middot; scroll to zoom &middot; click a layer to select it &middot; arrow keys nudge</div>
+    <div class="hint" id="hint">Drag a layer to move it &middot; shift-drag to lift it towards you &middot; drag the background to swing round &middot; scroll to zoom &middot; arrow keys nudge</div>
   </div>
 
   <div class="side">
@@ -116,9 +116,13 @@
       </div>
     </div>
 
-    <h2>Out</h2>
+    <h2>Save</h2>
+    <p class="how">Your arrangement is kept in this browser as you work.
+      To put it live, download <b>cards.json</b> and commit it, and make sure
+      the layer images are in the repo at the paths below.</p>
     <div class="row">
-      <button type="button" id="copy">Copy this card&rsquo;s JSON</button>
+      <button type="button" id="download">Download cards.json</button>
+      <button type="button" class="sm" id="copy">Copy JSON</button>
       <button type="button" class="sm" id="reset">Start over</button>
     </div>
     <p class="ok" id="said"></p>
@@ -166,13 +170,63 @@ function placeCamera() {
   camera.up.set(0, 1, 0);
   camera.lookAt(0, 0, 0);
 }
+/* Press on a thing to take hold of it and drag it about; press on
+   empty space to swing the camera. Holding shift while dragging a
+   thing lifts it towards the reader instead of sliding it around. */
 let drag = null;
+const dragPlane = new THREE.Plane();
+const hitPoint = new THREE.Vector3();
+const grabOff = new THREE.Vector3();
+
+function rayTo(e) {
+  const r = renderer.domElement.getBoundingClientRect();
+  ndc.x = ((e.clientX - r.left) / r.width) * 2 - 1;
+  ndc.y = -((e.clientY - r.top) / r.height) * 2 + 1;
+  ray.setFromCamera(ndc, camera);
+  return ray;
+}
+function onPlaneAt(e, z) {
+  /* A plane facing the camera, through the thing being moved, so the
+     drag follows the pointer whatever angle we are looking from. */
+  const n = new THREE.Vector3();
+  camera.getWorldDirection(n);
+  dragPlane.setFromNormalAndCoplanarPoint(n, new THREE.Vector3(0, 0, z));
+  return rayTo(e).ray.intersectPlane(dragPlane, hitPoint) ? hitPoint.clone() : null;
+}
+
 renderer.domElement.addEventListener('pointerdown', (e) => {
-  drag = { x: e.clientX, y: e.clientY, moved: false };
   renderer.domElement.setPointerCapture(e.pointerId);
+  const hit = rayTo(e).intersectObjects(group.children, false)[0];
+  if (hit) {
+    const i = items.indexOf(hit.object.userData.item);
+    select(i);
+    const it = items[i];
+    const p = onPlaneAt(e, it.z);
+    drag = { kind: 'move', item: it, x: e.clientX, y: e.clientY, z0: it.z };
+    if (p) grabOff.set(p.x - it.x, p.y - it.y, 0);
+    renderer.domElement.style.cursor = 'grabbing';
+  } else {
+    drag = { kind: 'orbit', x: e.clientX, y: e.clientY, moved: false };
+  }
 });
+
 renderer.domElement.addEventListener('pointermove', (e) => {
-  if (!drag) return;
+  if (!drag) {
+    const over = rayTo(e).intersectObjects(group.children, false).length;
+    renderer.domElement.style.cursor = over ? 'grab' : 'default';
+    return;
+  }
+  if (drag.kind === 'move') {
+    const it = drag.item;
+    if (e.shiftKey) {
+      it.z = Math.max(-0.5, Math.min(2, drag.z0 - (e.clientY - drag.y) * 0.004));
+    } else {
+      const p = onPlaneAt(e, it.z);
+      if (p) { it.x = +(p.x - grabOff.x).toFixed(4); it.y = +(p.y - grabOff.y).toFixed(4); }
+    }
+    apply(it); paintPanel();
+    return;
+  }
   const dx = e.clientX - drag.x, dy = e.clientY - drag.y;
   if (Math.abs(dx) + Math.abs(dy) > 3) drag.moved = true;
   yaw += dx * 0.006;
@@ -181,9 +235,12 @@ renderer.domElement.addEventListener('pointermove', (e) => {
   if (phoneView && drag.moved) setView(false);
   placeCamera();
 });
+
 renderer.domElement.addEventListener('pointerup', (e) => {
-  if (drag && !drag.moved) pickAt(e);
+  if (drag && drag.kind === 'orbit' && !drag.moved) select(-1);
+  if (drag && drag.kind === 'move') save();
   drag = null;
+  renderer.domElement.style.cursor = 'default';
 });
 renderer.domElement.addEventListener('wheel', (e) => {
   e.preventDefault();
@@ -276,11 +333,20 @@ function build(item) {
     mesh = new THREE.Mesh(new THREE.PlaneGeometry(item.width, item.width * aspect),
       new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false }));
   } else {
-    const tex = new THREE.TextureLoader().load(item.url || item.src);
-    tex.colorSpace = THREE.SRGBColorSpace;
     const h = CARD_W * (item.h || 1) / (item.w || 1);
-    mesh = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h),
-      new THREE.MeshBasicMaterial({ map: tex, transparent: true }));
+    const mat = new THREE.MeshBasicMaterial({ transparent: true });
+    mesh = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h), mat);
+    const tex = new THREE.TextureLoader().load(
+      item.url || item.src,
+      () => { item.missing = false; mat.map = tex; mat.color.set(0xffffff);
+              mat.wireframe = false; mat.needsUpdate = true; paintLists(); },
+      undefined,
+      () => { /* The arrangement came back but the picture has not been
+                 put in the repo yet — show the space it will fill. */
+              item.missing = true; mat.map = null; mat.color.set(0xff5fa2);
+              mat.wireframe = true; mat.opacity = 0.8; mat.needsUpdate = true; paintLists(); }
+    );
+    tex.colorSpace = THREE.SRGBColorSpace;
   }
   mesh.userData.item = item;
   item.mesh = mesh;
@@ -313,16 +379,23 @@ function select(i) { sel = i; paintPanel(); }
 /* ── Panel ──────────────────────────────────────────────────*/
 function paintLists() {
   const li = (it, i) => '<li data-i="' + i + '" class="' + (i === sel ? 'sel' : '') + '">' +
-    '<span>' + (it.kind === 'text' ? '&ldquo;' + String(it.text || '').slice(0, 22) + '&rdquo;' : (it.file || it.src || 'layer')) + '</span>' +
+    '<span>' + (it.missing ? '&#9888; ' : '') +
+    (it.kind === 'text' ? '&ldquo;' + String(it.text || '').slice(0, 22) + '&rdquo;' : (it.file || (it.src || '').split('/').pop() || 'layer')) + '</span>' +
     '<i>z ' + it.z.toFixed(2) + '</i></li>';
   $('layers').innerHTML = items.map((it, i) => it.kind === 'text' ? '' : li(it, i)).join('');
   $('texts').innerHTML = items.map((it, i) => it.kind === 'text' ? li(it, i) : '').join('');
-  const need = items.filter(it => it.kind !== 'text' && it.file);
+  const gone = items.filter(it => it.missing);
+  const need = items.filter(it => it.kind !== 'text' && (it.file || it.missing));
   $('saveas').hidden = !need.length;
-  if (need.length) $('saveas').innerHTML = 'Save these into <b>/ar/layers/' + card.code + '/</b> in the repo, or the page will not find them.';
+  if (need.length) $('saveas').innerHTML = (gone.length
+    ? '<b>' + gone.length + ' layer image' + (gone.length > 1 ? 's are' : ' is') + ' not in the repo yet</b> &mdash; shown as a pink outline. Drop the file in again to see it, and commit it to the path below.<br/>'
+    : '') + 'These belong in <b>/ar/layers/' + card.code + '/</b>:';
   $('filelist').hidden = !need.length;
-  $('filelist').innerHTML = need.map(n => '/ar/layers/' + card.code + '/' + n.file).join('<br/>');
+  $('filelist').innerHTML = need.map(n => (n.missing ? '&#9888; ' : '') + (n.src || ('/ar/layers/' + card.code + '/' + n.file))).join('<br/>');
 }
+let saveTimer = null;
+function autosave() { clearTimeout(saveTimer); saveTimer = setTimeout(save, 600); }
+
 function paintPanel() {
   const it = items[sel];
   $('sel').hidden = !it;
@@ -342,6 +415,7 @@ function paintPanel() {
   }
   paintLists();
   emit();
+  autosave();
 }
 ['layers', 'texts'].forEach(id => $(id).addEventListener('click', (e) => {
   const li = e.target.closest('[data-i]'); if (li) select(+li.dataset.i);
@@ -455,6 +529,8 @@ function load(i) {
   });
   items.forEach(it => group.remove(it.mesh));
   items = [];
+  const kept = restore(card.code);
+  if (kept) card.scene = kept;
   const sc = card.scene || {};
   (sc.layers || []).forEach(l => items.push(Object.assign({ kind: 'layer', scale: 1, rot: 0, opacity: 1 }, l)));
   (sc.texts || []).forEach(t => items.push(Object.assign({ kind: 'text', scale: 1, rot: 0, opacity: 1,
@@ -487,6 +563,46 @@ function emit() {
   };
   if (particles) card.scene.particles = particles;
 }
+/* The arrangement is kept in this browser between visits. The images
+   themselves are not — they are files on your disk until they are in
+   the repo — so a layer whose picture has gone comes back as an
+   outline waiting for it to be dropped in again. */
+const KEY = 'dk-ar-studio';
+function save() {
+  if (!card) return;
+  emit();
+  try {
+    const all = JSON.parse(localStorage.getItem(KEY) || '{}');
+    all[card.code] = card.scene;
+    localStorage.setItem(KEY, JSON.stringify(all));
+    $('said').textContent = 'Saved in this browser \u00b7 ' + new Date().toLocaleTimeString();
+  } catch (e) { $('said').textContent = 'Could not save locally: ' + e.message; }
+}
+function restore(code) {
+  try {
+    const all = JSON.parse(localStorage.getItem(KEY) || '{}');
+    return all[code] || null;
+  } catch (e) { return null; }
+}
+
+function wholeFile() {
+  emit();
+  const out = JSON.parse(JSON.stringify(DATA));
+  const i = out.cards.findIndex(c => c.code === card.code);
+  if (i > -1) out.cards[i].scene = card.scene;
+  return JSON.stringify(out, null, 2) + '\n';
+}
+
+$('download').addEventListener('click', () => {
+  const blob = new Blob([wholeFile()], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'cards.json';
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+  $('said').textContent = 'Downloaded. Commit it to /ar/cards.json.';
+});
+
 $('copy').addEventListener('click', async () => {
   emit();
   const out = JSON.stringify(card, (k, v) => (k === 'mesh' || k === 'url' || k === 'kind' || k === 'file') ? undefined : v, 2);
