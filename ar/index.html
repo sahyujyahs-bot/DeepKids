@@ -138,6 +138,16 @@
        for a scroll or a pinch-zoom while it is doing that. */
     body.looking #ar { touch-action:none; }
 
+    /* Only with ?debug. There is no way to run the tracker anywhere
+       but on a phone, so when something goes wrong on one this is what
+       there is to go on. */
+    .hud {
+      position:absolute; left:8px; top:64px; z-index:40; pointer-events:none;
+      margin:0; padding:7px 9px; border-radius:8px;
+      background:rgba(0,0,0,.72); color:#8ef; font-size:11px; line-height:1.45;
+      font-family:ui-monospace,Menlo,Consolas,monospace; white-space:pre;
+    }
+
     /* ── The story sheet ─────────────────────────────────────
        Text, not 3D: a paragraph pinned in space is unreadable on a
        phone that is being held up to a card. It rises when the card
@@ -221,6 +231,7 @@
   </div>
   <div class="aim" id="aim" data-say="Point at the back of the card"></div>
   <button type="button" class="look" id="look">Look Around It</button>
+  <pre class="hud" id="hud" hidden></pre>
 
   <div class="sheet" id="sheet" hidden>
     <button type="button" class="sheet-grab" id="grab">The Longer Story</button>
@@ -565,7 +576,29 @@ function sceneFor(card) {
    the card is really gone instead of snapping out and back. */
 function follower(anchor, stage, onGone) {
   const p = new THREE.Vector3(), q = new THREE.Quaternion(), s = new THREE.Vector3();
-  let started = false, seen = 0, fade = 0, last = 0;
+  let started = false, seen = 0, fade = 0, last = 0, skipped = 0;
+
+  /* The tracker can hand out a pose that is not a number, while still
+     saying the target is in view, and this has to be caught here or it
+     is fatal rather than untidy.
+
+     Two ways it happens. Its own One-Euro filter divides by the gap
+     between two Date.now() readings, and that clock only counts whole
+     milliseconds, so two updates inside one millisecond divide by zero
+     and 0 * Infinity poisons the matrix. And on a loss it assigns a
+     matrix of all zeros, which decomposes by dividing by a zero scale.
+
+     While the artwork hung off the anchor this did not matter: a bad
+     matrix lasted one frame and the next update replaced it outright.
+     Following the pose means carrying it from frame to frame instead,
+     and lerp and slerp started from a NaN stay NaN for ever — the
+     artwork would vanish on the first bad frame and never return, no
+     matter how well the card tracked afterwards. So every pose is
+     checked before it is believed, and a bad one is simply treated as
+     a frame where the card was not seen. */
+  const ok3 = (v) => Number.isFinite(v.x) && Number.isFinite(v.y) && Number.isFinite(v.z);
+  const sane = () => ok3(p) && ok3(s) && Math.abs(s.x) > 1e-9 &&
+    Number.isFinite(q.x) && Number.isFinite(q.y) && Number.isFinite(q.z) && Number.isFinite(q.w);
 
   /* Telling a shake from a move.
      Not by how far the pose jumped since the last frame — a tremor
@@ -589,13 +622,21 @@ function follower(anchor, stage, onGone) {
     const dt = last ? Math.min(now - last, 100) : 16.7;
     last = now;
 
+    let good = false;
     if (anchor.group.visible) {
-      seen = now;
       anchor.group.matrix.decompose(p, q, s);
-      if (!started) {
-        /* First sight: land on the pose rather than slide onto it
-           from wherever the stage happened to be. */
+      good = sane();
+      if (!good) skipped++;
+    }
+
+    if (good) {
+      seen = now;
+      /* Re-snap rather than slide if the stage itself is not a number:
+         belt and braces, so nothing that slips past the check above can
+         leave the artwork gone for the rest of the scan. */
+      if (!started || !ok3(stage.position) || !Number.isFinite(stage.quaternion.w) || !ok3(stage.scale)) {
         started = true;
+        past.length = 0;
         stage.position.copy(p); stage.quaternion.copy(q); stage.scale.copy(s);
       } else {
         const was = past[0];
@@ -615,17 +656,20 @@ function follower(anchor, stage, onGone) {
       while (past.length > WINDOW) past.shift();
     }
 
-    const want = started && (anchor.group.visible || now - seen < HOLD) ? 1 : 0;
+    const want = started && (good || now - seen < HOLD) ? 1 : 0;
     const step = dt / FADE;
     fade = want > fade ? Math.min(1, fade + step) : Math.max(0, fade - step);
     stage.visible = fade > 0.01;
     if (stage.userData.setFade) stage.userData.setFade(fade);
 
-    if (started && !anchor.group.visible && fade === 0) {
+    if (started && !good && fade === 0) {
       started = false;
       if (onGone) onGone();
     }
   };
+
+  tick.state = () => ({ started: started, fade: fade, skipped: skipped,
+                        anchor: !!anchor.group.visible, scale: stage.scale.x });
 
   /* Coming back from look-around, the stage is parked in front of the
      camera at a size of its own. Without this it would crawl back to
@@ -928,13 +972,38 @@ async function start(card) {
     });
     body.classList.remove('loading');
 
+    const hud = location.search.indexOf('debug') > -1 ? $('hud') : null;
+    if (hud) hud.hidden = false;
+    let frames = 0, hudAt = 0, broke = null;
+
     renderer.setAnimationLoop(() => {
-      const now = performance.now();
-      if (look.on) look.tick();
-      else steady(now);
-      if (con && con.userData.tick) con.userData.tick(now);
-      if (live.userData.tick) live.userData.tick(now);
-      renderer.render(scene, camera);
+      /* three.js asks for the next frame only after this returns, so
+         anything thrown in here stops the loop for good and the canvas
+         freezes on whatever was last drawn. Nothing in a single frame
+         is worth that, so a bad one is noted and skipped. */
+      try {
+        const now = performance.now();
+        frames++;
+        if (look.on) look.tick();
+        else steady(now);
+        if (con && con.userData.tick) con.userData.tick(now);
+        if (live.userData.tick) live.userData.tick(now);
+        renderer.render(scene, camera);
+
+        if (hud && now - hudAt > 250) {
+          hudAt = now;
+          const t = steady.state();
+          hud.textContent =
+            'frames ' + frames + '  fps ' + Math.round(frames / (now / 1000)) + '\n' +
+            'anchor ' + (t.anchor ? 'SEEN' : '----') + '  showing ' + (t.started ? 'yes' : 'no') + '\n' +
+            'fade   ' + t.fade.toFixed(2) + '  scale ' + (isFinite(t.scale) ? t.scale.toFixed(1) : String(t.scale)) + '\n' +
+            'bad poses skipped ' + t.skipped + '\n' +
+            'look   ' + (look.on ? 'on' : 'off') +
+            (broke ? '\nERROR ' + broke : '');
+        }
+      } catch (e) {
+        if (!broke) broke = String((e && e.message) || e).slice(0, 120);
+      }
     });
   } catch (e) {
     const msg = String((e && e.name) || '') + ' ' + String((e && e.message) || e);
