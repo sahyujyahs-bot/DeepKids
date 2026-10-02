@@ -13,7 +13,8 @@ No app, no QR code, nothing to reprint. It runs in the browser.
 | | |
 |---|---|
 | `index.html` | the experience: pick a card, scan it, read the story |
-| `calibrate.html` | click-to-place tool for a card's constellation, and where the story text is written |
+| `calibrate.html` | click-to-place tool for a card's constellation |
+| `studio.html` | arrange the story artwork and text in 3D over a card |
 | `cards.json` | everything the page knows about each card |
 | `targets/<code>.mind` | the compiled tracking target for one card |
 | `vendor/` | MindAR 1.2.5 and three.js r160, self-hosted |
