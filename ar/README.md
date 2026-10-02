@@ -72,6 +72,26 @@ Keep layers under about 0.3 — past that the parallax detaches from
 the card and the illusion goes. Text can go further, since it is
 meant to float.
 
+## What the scene is meant to be
+
+From the reference: the card stays as printed, and what AR adds is
+everything that is **not** on it.
+
+- **The story art comes forward.** Cut the lower scene into its parts
+  — the figure, the blackboard, the audience — and bring them off the
+  card towards the reader, larger than they are printed, so the card
+  becomes a little stage.
+- **The text floats above the card** on a dark panel, not over the
+  artwork.
+- **Motes drift around it**, which is most of what sells the thing as
+  standing in space rather than lying flat.
+
+Deliberately **not** done: lighting up the constellation. It is
+printed on the card already, so an AR copy landed a hair off the
+original and, with any tracking jitter at all, read as a smeared
+flicker. `constellation.show` turns it back on per card if ever
+wanted.
+
 ## Before this goes live
 
 It is `noindex` and linked from nowhere on purpose: the tracking has
