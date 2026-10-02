@@ -57,6 +57,14 @@ Open the studio, pick a card, and arrange what stands up off it.
   layer out of the card's plane. Flat layers only slide against each
   other; leant, they read as cut-outs standing on a stage, which is
   what there is to see when the scene is turned round.
+
+  Go easy on both lean and height over the card. A layer at z 0.24
+  shifts about 5mm across a 6cm card when the phone tilts 20°, which
+  stops reading as depth and starts reading as the artwork coming
+  unstuck. Noether's layers sit at 0.03, 0.08 and 0.14 for that
+  reason. Depth is cheap in **Look Around It**, where the scene is
+  turned on purpose, and expensive on the card, where it is supposed
+  to look nailed down.
 - **Add text and put it where you want it.** Same controls — a block
   of text is just another thing in the scene, so it can float above
   the card, sit beside it, or lie flat on it.
@@ -100,15 +108,22 @@ everything that is **not** on it.
 - **Motes drift around it**, which is most of what sells the thing as
   standing in space rather than lying flat.
 
-- **It stays put in a shaking hand.** The artwork does not hang off
-  the tracker's anchor; it follows it, judging a shake from a real
-  move by how far the pose has *got* over the last few frames rather
-  than how far it jumped since the last one — a tremor comes back, a
-  card being turned over does not. About a third of the shake reaches
-  the picture, which at the size a card appears on a phone is under a
-  pixel, while a deliberate move is followed within about six.
-  `follower()` in `index.html` carries the reasoning, including why
-  the tracker's own filter cannot be tuned to do this.
+- **It stays on the card.** Worth being clear about what the job is,
+  because the obvious intuition is wrong and cost two rounds here. If
+  the phone shakes, the card in the picture shakes with it, so artwork
+  glued to the card shakes too and nobody sees anything amiss. What
+  reads as the artwork moving is it moving *differently* from the
+  card, and only the tracker's own frame-to-frame noise does that.
+  Everything else — hand tremor included — is to be followed exactly.
+
+  So the smoothing is light, and the numbers are measured rather than
+  guessed: against a noisy pose the artwork sits 0.0031 card-widths
+  and 0.20° from where the card really is, against 0.0036 and 0.26°
+  for using the pose raw. Smoothing harder makes it *worse* — 0.0047
+  at the setting this briefly shipped — because the lag costs more
+  than the noise it removes, and the artwork then swims on the card.
+  `scratchpad/ar/reg.cjs` is the measurement; `follower()` carries the
+  reasoning, including why the tracker's own filter cannot do this.
 - **It does not blink.** A card in a hand goes unseen for a frame or
   two constantly. Rather than snapping out and back with the anchor,
   the artwork holds its place for about four tenths of a second and
@@ -143,4 +158,12 @@ confirm it on a phone, then set `robots` to `index, follow` in
 
 `/ar/?debug` prints what the device reported — WebGL2, float textures,
 the renderer name and the user agent — which is what to send if a
-phone cannot run it.
+phone cannot run it. While scanning it also keeps a live readout over
+the camera: frames and fps, whether the anchor is seen, whether the
+artwork is showing, the fade, the pose scale, how many unusable poses
+have been skipped and any error the render loop caught. Screenshot it,
+or tap it to copy. There is no way to run the tracker anywhere but on
+a phone, so that readout is the whole of the evidence.
+
+The filter can be tried without a deploy: `?calm=`, `?keen=`, `?move=`,
+`?turn=`, `?win=` and `?hold=` override the constants in `follower()`.

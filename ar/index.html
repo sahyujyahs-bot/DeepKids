@@ -133,6 +133,16 @@
       opacity:0; pointer-events:none; transition:opacity .3s ease;
     }
     body.found .look, body.looking .look { opacity:1; pointer-events:auto; }
+    /* Said once, when the card is first recognised. */
+    .look.nudge::after {
+      content:'Turn it round and see it from any side';
+      position:absolute; left:50%; bottom:calc(100% + 9px); transform:translateX(-50%);
+      white-space:nowrap; font-family:var(--body); font-variant:normal; letter-spacing:0;
+      font-size:12.5px; color:#fff; background:rgba(var(--purple-rgb),.92);
+      border-radius:999px; padding:6px 14px;
+    }
+    .look.nudge { animation:pulse 1.6s ease-in-out 3; }
+    @keyframes pulse { 0%,100% { transform:translateX(-50%) scale(1); } 50% { transform:translateX(-50%) scale(1.06); } }
     body.looking .look { border-color:rgba(255,255,255,.55); }
     /* Drag turns the scene, so the browser must not take the gesture
        for a scroll or a pinch-zoom while it is doing that. */
@@ -142,7 +152,7 @@
        but on a phone, so when something goes wrong on one this is what
        there is to go on. */
     .hud {
-      position:absolute; left:8px; top:64px; z-index:40; pointer-events:none;
+      position:absolute; left:8px; top:64px; z-index:40; cursor:pointer;
       margin:0; padding:7px 9px; border-radius:8px;
       background:rgba(0,0,0,.72); color:#8ef; font-size:11px; line-height:1.45;
       font-family:ui-monospace,Menlo,Consolas,monospace; white-space:pre;
@@ -608,12 +618,34 @@ function follower(anchor, stage, onGone) {
      comes back, while a card being turned over keeps going. So the
      raw pose is kept for a short window and judged on net progress
      across it. */
-  const WINDOW = 8;    /* frames, about a sixth of a second */
-  const MOVE = 0.030;  /* card-widths of net travel across the window */
-  const TURN = 0.040;  /* radians of net turn likewise */
-  const CALM = 0.035;  /* of the remaining gap closed per frame at rest */
-  const KEEN = 0.85;   /* and when the card is plainly on the move */
-  const HOLD = 420;    /* ms the artwork holds its place after a dropout */
+  /* Overridable from the URL so these can be tried on an actual phone
+     without a deploy, which is the only place the tracker runs. */
+  const qs = (k, d) => {
+    const m = new RegExp('[?&]' + k + '=([^&]+)').exec(location.search);
+    const v = m ? parseFloat(m[1]) : NaN;
+    return Number.isFinite(v) ? v : d;
+  };
+  const WINDOW = qs('win', 8);    /* frames, about a sixth of a second */
+  const MOVE = qs('move', 0.030); /* card-widths of net travel across the window */
+  const TURN = qs('turn', 0.040); /* radians of net turn likewise */
+  /* Measured, not guessed. Against a tracker whose pose carries
+     per-frame noise, the artwork's distance from where the card really
+     is comes out at 0.0031 card-widths and 0.20 degrees here, against
+     0.0036 and 0.26 for passing the pose straight through. Smoothing
+     harder than this made it WORSE than doing nothing — 0.0047 at the
+     0.035 this once used — because the lag it buys costs more than the
+     noise it removes. The artwork then swims on the card, which is
+     exactly what heavy smoothing was supposed to stop.
+
+     Worth being clear why, since the obvious intuition is wrong: if
+     the phone shakes, the card in the picture shakes with it, so
+     artwork glued to the card shakes too and nobody sees anything
+     amiss. What reads as the artwork moving is it moving DIFFERENTLY
+     from the card. Only the tracker's own frame-to-frame noise does
+     that. Everything else — tremor included — is to be followed. */
+  const CALM = qs('calm', 0.45);  /* of the remaining gap closed per frame at rest */
+  const KEEN = qs('keen', 0.95);  /* and when the card is plainly on the move */
+  const HOLD = qs('hold', 420);   /* ms the artwork holds its place after a dropout */
   const FADE = 200;    /* ms to go, and to come back */
 
   const past = [];     /* the window: [position, turn] per frame, newest last */
@@ -931,9 +963,19 @@ async function start(card) {
       $('sheet').classList.remove('open');
     });
 
+    let hinted = false;
     anchor.onTargetFound = () => {
       body.classList.add('found');
       $('sheet').hidden = false;
+      /* Said once, because "I can't see it from other sides" is what
+         this button is the answer to and nothing else on screen says
+         so. Walking round a card held in one hand does not work: the
+         tracking gives out long before the angle gets interesting. */
+      if (!hinted) {
+        hinted = true;
+        $('look').classList.add('nudge');
+        setTimeout(() => $('look').classList.remove('nudge'), 6000);
+      }
     };
     /* Nothing on lost: a dropout of a few frames is normal in a hand,
        and the follower decides when the card is really gone. */
@@ -973,7 +1015,19 @@ async function start(card) {
     body.classList.remove('loading');
 
     const hud = location.search.indexOf('debug') > -1 ? $('hud') : null;
-    if (hud) hud.hidden = false;
+    if (hud) {
+      hud.hidden = false;
+      /* A phone cannot easily get this out of the page, and a
+         screenshot is the one thing that always works — but offer the
+         clipboard too, since it is one tap. */
+      hud.onclick = async () => {
+        try {
+          await navigator.clipboard.writeText(hud.textContent + '\n' + navigator.userAgent);
+          hud.style.color = '#7f7';
+          setTimeout(() => { hud.style.color = ''; }, 1200);
+        } catch (e) { /* screenshot it instead */ }
+      };
+    }
     let frames = 0, hudAt = 0, broke = null;
 
     renderer.setAnimationLoop(() => {
