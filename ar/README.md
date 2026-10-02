@@ -28,6 +28,27 @@ which card they have first, and only that card's target loads.
 This is also why there is no QR code: the cards are already printed,
 and picking a face off a grid is friendlier than typing a code anyway.
 
+## The target has to be the card that is actually printed
+
+Worth stating plainly, because it cost several rounds of chasing the
+wrong thing. `sci1002.mind` was compiled from `sci-noether-back.webp`,
+and the card now in print is a **different design**: Kepler added,
+Hilbert and Châtelet swapped sides, the blurb rewritten, the name in a
+white box, an orange border over bright blue rather than red over
+navy. The tracker was hunting for a card that no longer exists. It
+locked onto the parts that survived — the painting at the bottom, the
+Spotted! strip — so it would catch for a moment and lose it again, and
+every symptom downstream looked like a tracking or smoothing bug.
+
+If the artwork is reprinted, **the target has to be recompiled**, or
+nothing above it works. `/ar/?debug` shows `anchor ----` with the card
+filling the frame when this is what is wrong.
+
+The same goes for the story text. The text in `cards.json` for Noether
+is word for word what the new card has printed on it, so AR currently
+floats a copy of something the kid is already holding. The point was
+the part that is *not* on the card.
+
 ## Adding a card
 
 1. **Compile its target.** Open MindAR's compiler

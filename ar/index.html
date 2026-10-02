@@ -645,7 +645,12 @@ function follower(anchor, stage, onGone) {
      that. Everything else — tremor included — is to be followed. */
   const CALM = qs('calm', 0.45);  /* of the remaining gap closed per frame at rest */
   const KEEN = qs('keen', 0.95);  /* and when the card is plainly on the move */
-  const HOLD = qs('hold', 420);   /* ms the artwork holds its place after a dropout */
+  /* Short, and shorter than it was. Holding the last pose stops a
+     one-frame dropout blinking, but the pose is frozen in the camera's
+     space while the phone keeps moving, so every millisecond past the
+     real dropout is artwork visibly sliding off the card. At 420 that
+     ghost was long enough to read as the thing being broken. */
+  const HOLD = qs('hold', 140);   /* ms the artwork holds its place after a dropout */
   const FADE = 200;    /* ms to go, and to come back */
 
   const past = [];     /* the window: [position, turn] per frame, newest last */
@@ -919,7 +924,13 @@ async function start(card) {
          is how many good frames it takes to come back, lowered so that
          moving round the card picks it up again quickly rather than
          leaving a gap every time the angle gets steep. */
-      missTolerance: 10,
+      /* missTolerance is how many frames the tracker keeps reporting a
+         target it can no longer see, using the last transform it had.
+         Those frames are stale by definition, and at 10 they stack up
+         with the hold above into a long slide. warmupTolerance is
+         lowered instead, so re-acquiring is quick — which is the half
+         of this that actually helps. */
+      missTolerance: 5,
       warmupTolerance: 3
     });
 
