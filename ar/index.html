@@ -402,11 +402,19 @@ function sceneFor(card) {
   };
 
   (sc.layers || []).forEach((layer) => {
-    const tex = loader.load(layer.src);
-    tex.colorSpace = THREE.SRGBColorSpace;
     const h = CARD_W * (layer.h || 1) / (layer.w || 1);
-    place(new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h),
-      new THREE.MeshBasicMaterial({ map: tex, transparent: true })), layer);
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h),
+      new THREE.MeshBasicMaterial({ transparent: true }));
+    /* Hidden until its picture is actually there. A layer listed in
+       cards.json whose file has not been committed yet would otherwise
+       hang an untextured plane over the card. */
+    m.visible = false;
+    const tex = loader.load(layer.src,
+      () => { m.material.map = tex; m.material.needsUpdate = true; m.visible = true; },
+      undefined,
+      () => { m.visible = false; });
+    tex.colorSpace = THREE.SRGBColorSpace;
+    place(m, layer);
   });
 
   (sc.texts || []).forEach((t) => {

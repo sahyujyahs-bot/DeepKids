@@ -187,7 +187,52 @@
       },
       "story": "Barred from university enrolment for being a woman, Noether got her PhD anyway. Unable to hold a formal position or get paid, she taught under a male professor's name. Then the Nazis expelled her for being Jewish. She fled to the US & continued teaching. Died suddenly at 53 — but not before changing mathematics & physics forever.",
       "scene": {
-        "layers": [],
+        "layers": [
+          {
+            "src": "/ar/layers/sci1002/IMG_6193.png",
+            "w": 2388,
+            "h": 1668,
+            "x": -0.231,
+            "y": 0.059,
+            "z": 0.12,
+            "scale": 1,
+            "rot": 0,
+            "opacity": 1
+          },
+          {
+            "src": "/ar/layers/sci1002/IMG_6198.png",
+            "w": 2388,
+            "h": 1668,
+            "x": 0.189,
+            "y": 0.008,
+            "z": 0.09,
+            "scale": 1,
+            "rot": 0,
+            "opacity": 1
+          },
+          {
+            "src": "/ar/layers/sci1002/IMG_6196.png",
+            "w": 2388,
+            "h": 1668,
+            "x": -0.028,
+            "y": -0.193,
+            "z": 0.03,
+            "scale": 1,
+            "rot": 0,
+            "opacity": 1
+          },
+          {
+            "src": "/ar/layers/sci1002/IMG_6194.png",
+            "w": 2388,
+            "h": 1668,
+            "x": 0.005,
+            "y": -0.334,
+            "z": 0.06,
+            "scale": 1,
+            "rot": 0,
+            "opacity": 1
+          }
+        ],
         "texts": [
           {
             "text": "Barred from university enrolment for being a woman, Noether got her PhD anyway. Unable to hold a formal position or get paid, she taught under a male professor's name. Then the Nazis expelled her for being Jewish. She fled to the US & continued teaching. Died suddenly at 53 — but not before changing mathematics & physics forever.",
@@ -196,8 +241,8 @@
             "color": "#ffffff",
             "align": "left",
             "bg": "rgba(8,5,22,.82)",
-            "x": 0,
-            "y": 0.92,
+            "x": -0.043,
+            "y": 0.451,
             "z": 0.3,
             "scale": 1,
             "rot": 0,
