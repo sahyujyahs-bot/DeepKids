@@ -275,6 +275,10 @@ import { MindARThree } from '/ar/vendor/mindar-image-three.prod.js';
    as many tall as its own proportions. */
 const CARD_W = 1, CARD_H = 1027 / 760;
 
+/* Bump on EVERY change to any file in /ar/targets/. See targetUrl. */
+const TARGET_V = 2;
+let targetBytes = 0;
+
 const $ = (id) => document.getElementById(id);
 const body = document.body;
 let CARDS = [];
@@ -916,6 +920,18 @@ async function start(card) {
       'webgl2: ' + can.webgl2 + ' · floatBuffer: ' + can.floatBuffer + ' · ' + can.renderer);
   }
 
+  /* Targets are cached for a month, which is right — they are large
+     and they change rarely. But when one DOES change, every phone that
+     has scanned the card keeps the old one until the month is out, and
+     the card simply stops being recognised with no way to tell from
+     the outside. That is a month of a fix being invisible, and it
+     happened.
+
+     So the version is part of the URL. A new target means a new URL
+     means a new cache entry, and nothing has to expire for a phone to
+     pick it up. BUMP THIS WHENEVER A .mind CHANGES. */
+  const targetUrl = '/ar/targets/' + card.code + '.mind?v=' + TARGET_V;
+
   body.classList.add('loading');
   $('load-say').textContent = 'Getting ' + card.name + ' ready…';
   $('who').textContent = card.name;
@@ -953,7 +969,7 @@ async function start(card) {
   try {
     mindar = new MindARThree({
       container: $('ar'),
-      imageTargetSrc: '/ar/targets/' + card.code + '.mind',
+      imageTargetSrc: targetUrl,
       uiLoading: 'no', uiScanning: 'no', uiError: 'no',
       /* The tracker's own filter is left alone, on purpose. It cannot
          settle a hand-held card at any setting — follower() explains
@@ -974,6 +990,15 @@ async function start(card) {
       missTolerance: 5,
       warmupTolerance: 3
     });
+
+    /* Fetched here as well as by the tracker so the debug readout can
+       say which target actually arrived — the size tells old from new
+       at a glance, which a cached file otherwise will not. The second
+       request is served from the browser's cache. */
+    try {
+      const r = await fetch(targetUrl, { cache: 'force-cache' });
+      targetBytes = (await r.arrayBuffer()).byteLength;
+    } catch (e) { targetBytes = -1; }
 
     const { renderer, scene, camera } = mindar;
     renderer.outputColorSpace = THREE.SRGBColorSpace;
@@ -1106,7 +1131,8 @@ async function start(card) {
           const v = $('ar').querySelector('video');
           hud.textContent =
             'frames ' + frames + '  fps ' + Math.round(frames / (now / 1000)) + '\n' +
-            'camera ' + (v && v.videoWidth ? v.videoWidth + 'x' + v.videoHeight : '?') + '\n' +
+            'camera ' + (v && v.videoWidth ? v.videoWidth + 'x' + v.videoHeight : '?') +
+              '  target v' + TARGET_V + ' ' + (targetBytes > 0 ? Math.round(targetBytes / 1024) + 'k' : '?') + '\n' +
             'anchor ' + (t.anchor ? 'SEEN#' + t.which : '----') + '  showing ' + (t.started ? 'yes' : 'no') + '\n' +
             'fade   ' + t.fade.toFixed(2) + '  scale ' + (isFinite(t.scale) ? t.scale.toFixed(1) : String(t.scale)) + '\n' +
             'bad poses skipped ' + t.skipped + '\n' +

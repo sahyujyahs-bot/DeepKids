@@ -53,6 +53,16 @@ locked onto the parts that survived — the painting at the bottom, the
 Spotted! strip — so it would catch for a moment and lose it again, and
 every symptom downstream looked like a tracking or smoothing bug.
 
+Targets are asked for by a **versioned URL** — `sci1002.mind?v=2` —
+and `TARGET_V` in `index.html` is that number. **Bump it on any change
+under `/ar/targets/`.** Targets cache for a month, which is right for
+a file this size that changes rarely, but it means a replaced target
+is invisible to every phone that has already scanned the card until
+the month runs out: the card just quietly stops being recognised, with
+nothing to see from the outside. Two rounds of "scanned, nothing
+happening" were that and nothing else. The debug readout prints the
+version and the size, so old and new can be told apart at a glance.
+
 If the artwork is reprinted, **the target has to be recompiled**, or
 nothing above it works. `/ar/?debug` shows `anchor ----` with the card
 filling the frame when this is what is wrong.

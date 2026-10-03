@@ -67,6 +67,13 @@
 # The AR tracker and its compiled card targets are large and only
 # change when a card’s artwork does, so they cache for a month like
 # the images rather than revalidating on every scan.
+#
+# The month is only safe because the page now asks for targets by a
+# versioned URL (…/sci1002.mind?v=N). Without that, replacing a target
+# left every phone that had already scanned the card using the old one
+# for a month, with the card quietly refusing to be recognised and no
+# way to tell from the outside. Bump TARGET_V in ar/index.html on any
+# change under /ar/targets/.
 /ar/vendor/*
   Cache-Control: public, max-age=2592000
 /ar/targets/*
