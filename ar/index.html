@@ -123,7 +123,7 @@
        finger. Only offered once the card has actually been found,
        so it never reads as the way in. */
     .look {
-      position:absolute; left:50%; bottom:calc(74px + env(safe-area-inset-bottom));
+      position:absolute; left:50%; bottom:calc(26px + env(safe-area-inset-bottom));
       transform:translateX(-50%); z-index:25; cursor:pointer; white-space:nowrap;
       border:1px solid rgba(var(--purple-rgb),.5); border-radius:999px;
       background:rgba(5,3,15,.66); color:#fff;
@@ -158,31 +158,6 @@
       font-family:ui-monospace,Menlo,Consolas,monospace; white-space:pre;
     }
 
-    /* ── The story sheet ─────────────────────────────────────
-       Text, not 3D: a paragraph pinned in space is unreadable on a
-       phone that is being held up to a card. It rises when the card
-       is recognised and can be pushed back down. */
-    .sheet {
-      position:absolute; left:0; right:0; bottom:0; z-index:30;
-      max-height:46%; overflow-y:auto; -webkit-overflow-scrolling:touch;
-      padding:16px clamp(16px,5vw,28px) calc(22px + env(safe-area-inset-bottom));
-      background:linear-gradient(180deg,rgba(10,6,24,.92),rgba(10,6,24,.98));
-      backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px);
-      border-top:1px solid rgba(var(--purple-rgb),.45);
-      border-radius:20px 20px 0 0;
-      transform:translateY(calc(100% - 54px));
-      transition:transform .4s cubic-bezier(.22,1,.36,1);
-    }
-    .sheet.open { transform:none; }
-    .sheet-grab {
-      width:100%; background:none; border:0; cursor:pointer; color:#fff; font:inherit;
-      display:flex; align-items:center; justify-content:center; gap:10px;
-      padding:0 0 14px; font-family:var(--head); font-variant:small-caps; letter-spacing:2px; font-size:14px;
-    }
-    .sheet-grab::before { content:''; width:38px; height:4px; border-radius:2px; background:rgba(255,255,255,.3); position:absolute; top:7px; left:50%; transform:translateX(-50%); }
-    .sheet h2 { font-family:var(--head); font-weight:normal; font-variant:small-caps; font-size:22px; margin-bottom:6px; }
-    .sheet p { font-size:15px; color:var(--ink); margin-bottom:12px; }
-    .sheet .pending { font-size:14px; color:var(--ink-dim); font-style:oblique; }
 
     /* ── No camera / unsupported ─────────────────────────────*/
     #sorry { max-width:620px; margin:0 auto; padding:clamp(40px,10vh,90px) clamp(20px,5vw,32px); }
@@ -243,10 +218,6 @@
   <button type="button" class="look" id="look">Look Around It</button>
   <pre class="hud" id="hud" hidden></pre>
 
-  <div class="sheet" id="sheet" hidden>
-    <button type="button" class="sheet-grab" id="grab">The Longer Story</button>
-    <div id="sheet-body"></div>
-  </div>
 </section>
 
 <!-- ═══════════════ NO CAMERA ═══════════════ -->
@@ -433,12 +404,21 @@ function constellation(card) {
    come through in card.scene exactly as it left there — the same
    units, the same meaning — so what was arranged on a desk is what
    appears over the card. */
+/* Two groups, not one, and the reason is readability.
+   The artwork has to be glued to the card: it is part of the picture,
+   and any smoothing makes it swim against the card instead. The text
+   is not part of the picture — it floats in front of the card and
+   nobody can tell whether it is registered to a millimetre. So it gets
+   its own group and its own, much heavier filter, and holds still
+   enough to actually read while the artwork keeps up with the hand. */
 function sceneFor(card) {
-  const group = new THREE.Group();
+  const art = new THREE.Group();
+  const caption = new THREE.Group();
   const sc = card.scene || {};
   const loader = new THREE.TextureLoader();
   let order = 0;
 
+  let tick = null;
   const place = (m, it) => {
     m.position.set(it.x || 0, it.y || 0, it.z || 0);
     m.scale.setScalar(it.scale === undefined ? 1 : it.scale);
@@ -458,7 +438,7 @@ function sceneFor(card) {
        round them, without losing the lean they were arranged with. */
     m.userData.authored = m.rotation.clone();
     m.userData.face = it.kind === 'text' ? 1 : 0.72;
-    group.add(m);
+    (it.kind === 'text' ? caption : art).add(m);
   };
 
   (sc.layers || []).forEach((layer) => {
@@ -512,9 +492,9 @@ function sceneFor(card) {
       depthTest: false, sizeAttenuation: true
     }));
     pts.renderOrder = ++order;
-    group.add(pts);
+    art.add(pts);
     const base = pos.slice();
-    group.userData.tick = (now) => {
+    tick = (now) => {
       const t = now / 1000;
       for (let i = 0; i < n; i++) {
         pos[i * 3]     = base[i * 3]     + Math.sin(t * 0.5 + seed[i]) * 0.02;
@@ -540,24 +520,22 @@ function sceneFor(card) {
      it was arranged. */
   /* Lifted off the card, the panel is in the way: it swings out of
      frame with everything else, and holding it in the bbox leaves the
-     artwork small in the middle of a lot of nothing. The same words
-     are in the sheet at the bottom of the screen anyway, so while the
+     artwork small in the middle of a lot of nothing. So while the
      scene is being turned the panel stands down and the picture gets
      the whole frame. */
-  group.userData.showText = (on) => {
-    group.traverse((m) => { if (m.userData && m.userData.isText) m.visible = on; });
-  };
+  const showText = (on) => { caption.visible = on; };
 
-  group.userData.face = (yaw, pitch) => {
-    group.traverse((m) => {
+  const face = (yaw, pitch) => {
+    [art, caption].forEach((g) => g.traverse((m) => {
       const a = m.userData && m.userData.authored;
       if (!a) return;
       const k = m.userData.face;
       m.rotation.set(a.x - k * pitch, a.y - k * yaw, a.z);
-    });
+    }));
   };
 
-  return group;
+  return { art: art, caption: caption, face: face, showText: showText,
+           tick: (now) => { if (tick) tick(now); } };
 }
 
 /* ── Standing still in a shaking hand ──────────────────────────
@@ -588,7 +566,7 @@ function sceneFor(card) {
    a frame or two constantly and the anchor blinks off with it; here
    the artwork simply stays where it was for a moment, and fades if
    the card is really gone instead of snapping out and back. */
-function follower(anchors, stage, onGone) {
+function follower(anchors, stage, onGone, tuning) {
   /* A card can have been printed more than once, and the same .mind
      can carry a target for each printing. Whichever one the tracker
      recognises drives the artwork; they are the same card, so the
@@ -622,14 +600,22 @@ function follower(anchors, stage, onGone) {
   const sane = () => ok3(p) && ok3(s) && Math.abs(s.x) > 1e-9 &&
     Number.isFinite(q.x) && Number.isFinite(q.y) && Number.isFinite(q.z) && Number.isFinite(q.w);
 
-  /* Telling a shake from a move.
-     Not by how far the pose jumped since the last frame — a tremor
-     jumps as far as a slow deliberate move does, which is exactly why
-     the tracker's own filter cannot separate them. By how far it has
-     got over the last few frames: a tremor goes nowhere, because it
-     comes back, while a card being turned over keeps going. So the
-     raw pose is kept for a short window and judged on net progress
-     across it. */
+  /* Telling a shake from a move, properly this time.
+     This was a gate: how far the pose had travelled over the last
+     eight frames, squared, opening a lerp between two fixed rates.
+     Measured against a noisy pose it made the shiver slightly WORSE
+     than no smoothing at all (0.00180 against 0.00169 card-widths of
+     frame-to-frame wobble), because the travel it measured was mostly
+     the noise, so the noise itself kept prising the filter open.
+
+     What follows is a One-Euro filter — the thing MindAR's own filter
+     is, done in units that mean something. Speed is estimated from the
+     raw pose and smoothed in its own right, and the cutoff rises with
+     it: still card, low cutoff, heavy smoothing; moving card, high
+     cutoff, no lag. Position is in card-widths a second and rotation
+     in radians a second, so neither depends on the resolution the
+     target was compiled at, and each gets its own beta because a hand
+     shakes a card sideways far more readily than it twists it. */
   /* Overridable from the URL so these can be tried on an actual phone
      without a deploy, which is the only place the tracker runs. */
   const qs = (k, d) => {
@@ -637,26 +623,29 @@ function follower(anchors, stage, onGone) {
     const v = m ? parseFloat(m[1]) : NaN;
     return Number.isFinite(v) ? v : d;
   };
-  const WINDOW = qs('win', 8);    /* frames, about a sixth of a second */
-  const MOVE = qs('move', 0.030); /* card-widths of net travel across the window */
-  const TURN = qs('turn', 0.040); /* radians of net turn likewise */
-  /* Measured, not guessed. Against a tracker whose pose carries
-     per-frame noise, the artwork's distance from where the card really
-     is comes out at 0.0031 card-widths and 0.20 degrees here, against
-     0.0036 and 0.26 for passing the pose straight through. Smoothing
-     harder than this made it WORSE than doing nothing — 0.0047 at the
-     0.035 this once used — because the lag it buys costs more than the
-     noise it removes. The artwork then swims on the card, which is
-     exactly what heavy smoothing was supposed to stop.
-
-     Worth being clear why, since the obvious intuition is wrong: if
-     the phone shakes, the card in the picture shakes with it, so
-     artwork glued to the card shakes too and nobody sees anything
-     amiss. What reads as the artwork moving is it moving DIFFERENTLY
-     from the card. Only the tracker's own frame-to-frame noise does
-     that. Everything else — tremor included — is to be followed. */
-  const CALM = qs('calm', 0.45);  /* of the remaining gap closed per frame at rest */
-  const KEEN = qs('keen', 0.95);  /* and when the card is plainly on the move */
+  /* Worth being clear what is being removed and what is not, because
+     the obvious intuition is wrong: if the phone shakes, the card in
+     the picture shakes with it, so artwork glued to the card shakes
+     too and nobody sees anything amiss. What reads as the artwork
+     moving is it moving DIFFERENTLY from the card, and only the
+     tracker's own frame-to-frame noise does that. Hand tremor is to be
+     followed exactly; the noise is to be taken out. */
+  /* The artwork's defaults are measured: against a pose carrying both
+     real hand tremor and per-frame tracker noise, anything heavier
+     than this increases how much the artwork wobbles AGAINST the card,
+     because the tremor is real and has to be followed. 8Hz takes the
+     single-frame noise off and leaves everything else alone.
+     The caption passes its own, far heavier numbers. */
+  const t = tuning || {};
+  /* The two stages take separate URL keys so one can be tried without
+     disturbing the other: pmin/pbeta/rmin/rbeta for the artwork,
+     cpmin/cpbeta/crmin/crbeta for the caption. */
+  const k = t.key || '';
+  const PMIN = qs(k + 'pmin', t.pmin === undefined ? 8 : t.pmin);
+  const PBETA = qs(k + 'pbeta', t.pbeta === undefined ? 20 : t.pbeta);
+  const RMIN = qs(k + 'rmin', t.rmin === undefined ? 8 : t.rmin);
+  const RBETA = qs(k + 'rbeta', t.rbeta === undefined ? 6 : t.rbeta);
+  const DCUT = qs('dcut', 1.0);   /* Hz: smoothing on the speed estimate itself */
   /* Short, and shorter than it was. Holding the last pose stops a
      one-frame dropout blinking, but the pose is frozen in the camera's
      space while the phone keeps moving, so every millisecond past the
@@ -665,7 +654,14 @@ function follower(anchors, stage, onGone) {
   const HOLD = qs('hold', 140);   /* ms the artwork holds its place after a dropout */
   const FADE = 200;    /* ms to go, and to come back */
 
-  const past = [];     /* the window: [position, turn] per frame, newest last */
+  /* One-Euro's own two helpers. alpha is the usual exponential
+     smoothing constant for a given cutoff and timestep. */
+  const alphaOf = (cutoff, dtS) => {
+    const tau = 1 / (2 * Math.PI * Math.max(cutoff, 1e-4));
+    return 1 / (1 + tau / dtS);
+  };
+  const prevP = new THREE.Vector3(), prevQ = new THREE.Quaternion();
+  let speedP = 0, speedR = 0, primed = false;
 
   const tick = (now) => {
     const dt = last ? Math.min(now - last, 100) : 16.7;
@@ -686,24 +682,25 @@ function follower(anchors, stage, onGone) {
          leave the artwork gone for the rest of the scan. */
       if (!started || !ok3(stage.position) || !Number.isFinite(stage.quaternion.w) || !ok3(stage.scale)) {
         started = true;
-        past.length = 0;
+        primed = false;
+        speedP = speedR = 0;
         stage.position.copy(p); stage.quaternion.copy(q); stage.scale.copy(s);
       } else {
-        const was = past[0];
-        const went = was ? p.distanceTo(was[0]) / (s.x || 1) : 0;
-        const turned = was ? q.angleTo(was[1]) : 0;
-        /* Squared, so a tremor sits right down at the calm end rather
-           than nudging the filter open the way the tracker's beta did. */
-        const k = Math.min(1, Math.max(went / MOVE, turned / TURN));
-        const a = CALM + (KEEN - CALM) * k * k;
-        /* Same settling at 30fps as at 60. */
-        const e = 1 - Math.pow(1 - a, dt / 16.7);
-        stage.position.lerp(p, e);
-        stage.quaternion.slerp(q, e);
-        stage.scale.lerp(s, e);
+        const dtS = Math.max(dt, 1) / 1000;
+        const cw = Math.abs(s.x) || 1;
+        /* Speed of the RAW pose, which is what decides how much to
+           trust it — measured in card-widths and radians a second. */
+        const rawP = primed ? p.distanceTo(prevP) / cw / dtS : 0;
+        const rawR = primed ? prevQ.angleTo(q) / dtS : 0;
+        const ad = alphaOf(DCUT, dtS);
+        speedP += ad * (rawP - speedP);
+        speedR += ad * (rawR - speedR);
+
+        stage.position.lerp(p, alphaOf(PMIN + PBETA * speedP, dtS));
+        stage.scale.lerp(s, alphaOf(PMIN + PBETA * speedP, dtS));
+        stage.quaternion.slerp(q, alphaOf(RMIN + RBETA * speedR, dtS));
       }
-      past.push([p.clone(), q.clone()]);
-      while (past.length > WINDOW) past.shift();
+      prevP.copy(p); prevQ.copy(q); primed = true;
     }
 
     const want = started && (good || now - seen < HOLD) ? 1 : 0;
@@ -729,7 +726,7 @@ function follower(anchors, stage, onGone) {
      camera at a size of its own. Without this it would crawl back to
      the card over a second or so; forgetting the last pose makes it
      land on the card the way it does on first sight. */
-  tick.reset = () => { started = false; last = 0; seen = 0; past.length = 0; };
+  tick.reset = () => { started = false; last = 0; seen = 0; primed = false; speedP = speedR = 0; };
   return tick;
 }
 
@@ -935,7 +932,6 @@ async function start(card) {
   body.classList.add('loading');
   $('load-say').textContent = 'Getting ' + card.name + ' ready…';
   $('who').textContent = card.name;
-  $('sheet').hidden = true;
   body.classList.remove('found');
 
   /* MindAR asks the browser for `{ video: { facingMode } }` and nothing
@@ -1016,38 +1012,50 @@ async function start(card) {
     const live = sceneFor(card);
 
     /* Deliberately NOT anchor.group. The anchor carries the raw pose
-       and the stage follows it through follower(), which is where the
+       and the stages follow it through follower(), which is where the
        steadying happens — see the note there. Parenting the artwork
        to the anchor instead would hand it the unfiltered translation. */
     const stage = new THREE.Group();
     if (con) stage.add(con);
-    stage.add(live);
+    stage.add(live.art);
     stage.visible = false;
     scene.add(stage);
+
+    /* The words, on their own much steadier stage. */
+    const capStage = new THREE.Group();
+    capStage.add(live.caption);
+    capStage.visible = false;
+    scene.add(capStage);
 
     /* Each material's authored opacity, kept so the stage can be faded
        as a whole without losing what the studio set. */
     const authored = [];
-    stage.traverse((o) => {
+    [stage, capStage].forEach((g) => g.traverse((o) => {
       if (!o.material) return;
       o.material.transparent = true;
       authored.push([o.material, o.material.opacity]);
-    });
-    stage.userData.setFade = (f) => {
+    }));
+    const setFade = (f) => {
       for (let i = 0; i < authored.length; i++) authored[i][0].opacity = authored[i][1] * f;
     };
+    stage.userData.setFade = setFade;
+    capStage.userData.setFade = () => {};   /* one call is enough for both */
 
-    look = lookAround(stage, $('ar'), live.userData, camera);
+    look = lookAround(stage, $('ar'), live, camera);
     const steady = follower(anchors, stage, () => {
       if (look.on) return;
       body.classList.remove('found');
-      $('sheet').classList.remove('open');
     });
+    /* Far heavier, because a caption that holds still can be read and
+       one that keeps up with a shaking hand cannot. It floats in front
+       of the card rather than sitting on it, so the drift this buys is
+       not something anyone can see. */
+    const steadyCaption = follower(anchors, capStage, null,
+      { key: 'c', pmin: 0.25, pbeta: 0.6, rmin: 0.3, rbeta: 0.3 });
 
     let hinted = false;
     const onFound = () => {
       body.classList.add('found');
-      $('sheet').hidden = false;
       /* Said once, because "I can't see it from other sides" is what
          this button is the answer to and nothing else on screen says
          so. Walking round a card held in one hand does not work: the
@@ -1064,12 +1072,11 @@ async function start(card) {
 
     $('look').onclick = () => {
       look.set(!look.on);
-      if (!look.on) steady.reset();
+      if (!look.on) { steady.reset(); steadyCaption.reset(); }
       body.classList.toggle('looking', look.on);
       $('look').textContent = look.on ? 'Back To The Card' : 'Look Around It';
     };
 
-    tellStory(card);
     body.dataset.screen = 'scan';
 
     /* The tracker throws from inside its own callbacks rather than out
@@ -1120,9 +1127,9 @@ async function start(card) {
         const now = performance.now();
         frames++;
         if (look.on) look.tick();
-        else steady(now);
+        else { steady(now); steadyCaption(now); }
         if (con && con.userData.tick) con.userData.tick(now);
-        if (live.userData.tick) live.userData.tick(now);
+        live.tick(now);
         renderer.render(scene, camera);
 
         if (hud && now - hudAt > 250) {
@@ -1154,16 +1161,6 @@ async function start(card) {
   }
 }
 
-function tellStory(card) {
-  const b = $('sheet-body');
-  const n = card.constellation.nodes.filter(x => x.name !== card.constellation.centre && x.note);
-  b.innerHTML =
-    '<h2>' + card.name + '</h2>' +
-    (card.story
-      ? card.story.split('\n').filter(Boolean).map(p => '<p>' + p + '</p>').join('')
-      : '<p class="pending">The longer story for this card is still being written. For now, the constellation above is live &mdash; every line is someone whose work runs into ' + card.name + '&rsquo;s.</p>') +
-    (n.length ? '<p>' + n.map(x => '<b>' + x.name + '</b> &mdash; ' + x.note).join('<br/>') + '</p>' : '');
-}
 
 async function stop() {
   if (look) { look.off(); look = null; }
@@ -1181,7 +1178,6 @@ $('close').addEventListener('click', async () => {
   body.classList.remove('found', 'loading');
   body.dataset.screen = 'pick';
 });
-$('grab').addEventListener('click', () => $('sheet').classList.toggle('open'));
 window.addEventListener('pagehide', stop);
 </script>
 

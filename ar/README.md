@@ -12,7 +12,7 @@ No app, no QR code, nothing to reprint. It runs in the browser.
 
 | | |
 |---|---|
-| `index.html` | the experience: pick a card, scan it, read the story |
+| `index.html` | the experience: pick a card, scan it, watch it wake |
 | `calibrate.html` | click-to-place tool for a card's constellation |
 | `studio.html` | arrange the story artwork and text in 3D over a card |
 | `cards.json` | everything the page knows about each card |
@@ -170,6 +170,14 @@ everything that is **not** on it.
 - **Motes drift around it**, which is most of what sells the thing as
   standing in space rather than lying flat.
 
+- **The words hold still; the artwork does not have to.** Two stages,
+  two filters. The artwork is part of the picture, so it is glued: any
+  smoothing makes it swim against the card, measurably. The text is
+  not part of the picture — it floats in front of the card and nobody
+  can tell whether it is registered to a millimetre — so it gets a far
+  heavier filter and sits about two and a half times steadier on
+  screen, which is the difference between readable and not. Tune them
+  apart with `?pmin=`/`?pbeta=` and `?cpmin=`/`?cpbeta=`.
 - **It stays on the card.** Worth being clear about what the job is,
   because the obvious intuition is wrong and cost two rounds here. If
   the phone shakes, the card in the picture shakes with it, so artwork
@@ -179,13 +187,28 @@ everything that is **not** on it.
   Everything else — hand tremor included — is to be followed exactly.
 
   So the smoothing is light, and the numbers are measured rather than
-  guessed: against a noisy pose the artwork sits 0.0031 card-widths
-  and 0.20° from where the card really is, against 0.0036 and 0.26°
-  for using the pose raw. Smoothing harder makes it *worse* — 0.0047
-  at the setting this briefly shipped — because the lag costs more
-  than the noise it removes, and the artwork then swims on the card.
-  `scratchpad/ar/reg.cjs` is the measurement; `follower()` carries the
-  reasoning, including why the tracker's own filter cannot do this.
+  guessed. `reg.cjs` drives the page with three poses a frame — where
+  the card really is, what a noisy tracker reports, and where the
+  artwork ends up — and scores two faults apart, because they do not
+  look alike: a steady offset of a pixel is invisible, a pixel of
+  wobble is the thing that cannot be read. Every degree of smoothing
+  raises the wobble, monotonically, because the tremor in the pose is
+  *real* and filtering it is what makes the artwork move against the
+  card:
+
+  ```
+  no smoothing at all          0.00169 card-widths of frame-to-frame wobble
+  8Hz  (what ships)            0.00176
+  4Hz                          0.00191
+  0.6Hz (briefly shipped)      0.00262
+  ```
+
+  An earlier scheme gated a lerp on how far the pose had travelled
+  over eight frames. It scored *worse than no smoothing*, because what
+  it measured as travel was mostly the noise, so the noise kept prising
+  the filter open. `follower()` is a proper One-Euro filter now, in
+  units that mean something, and carries the reasoning — including why
+  the tracker's own filter cannot be tuned to do this.
 - **It does not blink.** A card in a hand goes unseen for a frame or
   two constantly. Rather than snapping out and back with the anchor,
   the artwork holds its place for about four tenths of a second and
