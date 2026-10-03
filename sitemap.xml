@@ -1,9 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Redirect stubs (/newhome, /order, /shop) and the pages that are
+       genuinely noindex (order-confirmed, inbox, 404) are deliberately
+       absent: listing a noindex or redirecting URL here is a
+       contradiction Search Console reports as an error. The policies
+       are indexed and listed — a shop is judged on having them. -->
   <url>
     <loc>https://deepkids.in/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://deepkids.in/hero-play.webp</image:loc>
+      <image:title>Kids playing EscapeGravity — the DeepKids shop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://deepkids.in/escapegravity</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://deepkids.in/spiral-board-display-transparent.png</image:loc>
+      <image:title>EscapeGravity spiral board</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://deepkids.in/evolution</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://deepkids.in/evo-open-nobg.webp</image:loc>
+      <image:title>The Story Of Evolution Of Life — an evolution picture book for kids</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://deepkids.in/sci</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://deepkids.in/sci-box-front.webp</image:loc>
+      <image:title>SCI. Scientist Trading Cards — a science card game for kids</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://deepkids.in/how-to-play</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/what-kids-learn</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/gift</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/blog</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/about</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/contact</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/best-gifts-for-7-to-10-year-olds-india</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/screen-free-gifts-for-kids</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/birthday-gift-ideas-for-8-year-old-india</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/best-science-board-games-for-kids-india</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/educational-games-for-kids-india</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/how-to-teach-kids-physics-at-home</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/gravity-experiments-for-kids-at-home</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/stem-toys-vs-board-games-for-kids</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/privacy-policy</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://deepkids.in/refund-policy</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>

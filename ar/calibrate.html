@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Constellation Calibrator &mdash; DeepKids AR</title>
+  <meta name="robots" content="noindex, nofollow"/>
+  <style>
+    @font-face { font-family:'Norwester'; src:url('/norwester.ttf') format('truetype'); font-display:swap; }
+    :root { --purple:#aa59c8; --lilac:#cd9edf; --gold:#ffb300; --ink:rgba(255,255,255,.86); }
+    *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
+    body { background:#0a0618; color:#fff; font-family:'Segoe UI',system-ui,sans-serif; font-size:14px; line-height:1.5; }
+    h1 { font-family:'Norwester',sans-serif; font-weight:normal; font-variant:small-caps; font-size:24px; letter-spacing:1px; }
+    .wrap { display:grid; grid-template-columns:minmax(0,1fr) 380px; gap:20px; padding:18px; align-items:start; }
+    @media (max-width:980px) { .wrap { grid-template-columns:1fr; } }
+
+    .stage { position:relative; display:inline-block; line-height:0; cursor:crosshair; user-select:none; }
+    .stage img { width:100%; max-width:760px; }
+    .dot {
+      position:absolute; width:26px; height:26px; margin:-13px 0 0 -13px;
+      border:2px solid var(--gold); border-radius:50%; cursor:grab;
+      box-shadow:0 0 8px rgba(255,179,0,.8); background:rgba(255,179,0,.12);
+    }
+    .dot.sel { border-color:#0f0; box-shadow:0 0 10px #0f0; }
+    .dot.centre { border-width:3px; }
+    .dot b {
+      position:absolute; left:30px; top:-2px; white-space:nowrap; font-size:12px;
+      color:#fff; background:rgba(0,0,0,.72); padding:2px 6px; border-radius:4px; font-weight:normal;
+    }
+    svg.links { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; }
+
+    .panel { background:rgba(255,255,255,.04); border:1px solid rgba(170,89,200,.3); border-radius:14px; padding:16px; position:sticky; top:18px; }
+    .panel h2 { font-family:'Norwester',sans-serif; font-weight:normal; font-variant:small-caps; font-size:16px; letter-spacing:2px; color:var(--gold); margin:18px 0 8px; }
+    .panel h2:first-of-type { margin-top:0; }
+    label { display:block; font-size:12px; color:var(--lilac); margin:10px 0 4px; letter-spacing:.5px; }
+    input, select, textarea {
+      width:100%; padding:8px 10px; font:inherit; color:#fff; border-radius:8px;
+      background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.2);
+    }
+    textarea { min-height:90px; resize:vertical; font-family:ui-monospace,monospace; font-size:12px; }
+    button {
+      font:inherit; cursor:pointer; color:#fff; border-radius:999px; padding:8px 16px;
+      background:rgba(170,89,200,.25); border:1px solid rgba(170,89,200,.6);
+    }
+    button:hover { background:rgba(170,89,200,.45); }
+    button.ghost { background:none; }
+    button.on { background:var(--purple); border-color:var(--purple); }
+    .row { display:flex; gap:8px; flex-wrap:wrap; margin-top:12px; }
+    .how { font-size:12.5px; color:rgba(255,255,255,.62); }
+    .how li { margin:4px 0 0 16px; }
+    ul.nodes { list-style:none; margin-top:8px; max-height:190px; overflow:auto; }
+    ul.nodes li { display:flex; justify-content:space-between; gap:8px; padding:5px 7px; border-radius:6px; cursor:pointer; font-size:13px; }
+    ul.nodes li:hover { background:rgba(255,255,255,.07); }
+    ul.nodes li.sel { background:rgba(170,89,200,.3); }
+    ul.nodes li i { color:rgba(255,255,255,.45); font-style:normal; font-size:11px; }
+    .ok { color:#8fe08f; font-size:12.5px; min-height:1.3em; }
+  </style>
+</head>
+<body>
+
+<div class="wrap">
+  <div>
+    <h1>Constellation Calibrator</h1>
+    <p class="how" style="margin:6px 0 14px">Click each star on the card back to drop a point, name it, and the AR page animates the lines between them. Nothing here is saved automatically &mdash; copy the JSON out when you are done.</p>
+    <div class="stage" id="stage">
+      <img id="shot" alt=""/>
+      <svg class="links" id="svg"></svg>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>Card</h2>
+    <select id="card"></select>
+
+    <h2>Points</h2>
+    <p class="how">Click the picture to add one. Drag a point to nudge it. The <b>centre</b> is the scientist the card is about.</p>
+    <ul class="nodes" id="list"></ul>
+
+    <label for="nm">Name</label>
+    <input id="nm" placeholder="e.g. Isaac Newton" autocomplete="off"/>
+    <label for="note">What the card says about them</label>
+    <input id="note" placeholder="e.g. Scaled up B&rsquo;s ideas" autocomplete="off"/>
+    <div class="row">
+      <button type="button" id="centre">Make this the centre</button>
+      <button type="button" class="ghost" id="del">Delete point</button>
+    </div>
+
+    <h2>Cross-links</h2>
+    <p class="how">Every point already joins the centre. Use this only for the extra lines drawn between two others.</p>
+    <div class="row">
+      <button type="button" id="linkmode">Draw a link</button>
+      <button type="button" class="ghost" id="clearlinks">Clear links</button>
+    </div>
+
+    <h2>The longer story</h2>
+    <p class="how">The telling that is <b>not</b> printed on the card. One paragraph per line.</p>
+    <textarea id="story" placeholder="Shown on the phone once the card is recognised&hellip;"></textarea>
+
+    <h2>Out</h2>
+    <div class="row">
+      <button type="button" id="copy">Copy this card&rsquo;s JSON</button>
+    </div>
+    <p class="ok" id="said"></p>
+    <textarea id="out" readonly style="margin-top:8px"></textarea>
+  </div>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+let DATA = null, card = null, sel = -1, linking = false, linkFrom = null, dragging = -1;
+
+fetch('/ar/cards.json').then(r => r.json()).then(d => {
+  DATA = d;
+  $('card').innerHTML = d.cards.map((c, i) => '<option value="' + i + '">' + c.name + ' (' + c.code + ')</option>').join('');
+  load(0);
+});
+$('card').addEventListener('change', e => load(+e.target.value));
+
+function load(i) {
+  card = JSON.parse(JSON.stringify(DATA.cards[i]));
+  card.constellation = card.constellation || { centre: '', nodes: [], links: [] };
+  card.constellation.nodes = card.constellation.nodes || [];
+  card.constellation.links = card.constellation.links || [];
+  $('shot').src = card.back;
+  $('shot').alt = 'The back of the ' + card.name + ' card';
+  $('story').value = card.story || '';
+  sel = -1; linkFrom = null;
+  paint();
+}
+
+const nodes = () => card.constellation.nodes;
+const isCentre = (n) => n.name === card.constellation.centre;
+
+function paint() {
+  const st = $('stage');
+  [...st.querySelectorAll('.dot')].forEach(d => d.remove());
+  const w = $('shot').clientWidth, h = $('shot').clientHeight;
+
+  nodes().forEach((n, i) => {
+    const d = document.createElement('div');
+    d.className = 'dot' + (i === sel ? ' sel' : '') + (isCentre(n) ? ' centre' : '');
+    d.style.left = (n.x * w) + 'px';
+    d.style.top = (n.y * h) + 'px';
+    d.innerHTML = '<b>' + (n.name || '?') + '</b>';
+    d.addEventListener('mousedown', (e) => { e.stopPropagation(); e.preventDefault(); pick(i); dragging = i; });
+    d.addEventListener('click', (e) => e.stopPropagation());
+    st.appendChild(d);
+  });
+
+  /* The lines, so the figure can be checked against the card. */
+  const c = nodes().find(isCentre);
+  const edges = c ? nodes().filter(n => n !== c).map(n => [c, n]) : [];
+  card.constellation.links.forEach(([a, b]) => {
+    const na = nodes().find(n => n.name === a), nb = nodes().find(n => n.name === b);
+    if (na && nb) edges.push([na, nb]);
+  });
+  $('svg').innerHTML = edges.map(([a, b]) =>
+    '<line x1="' + (a.x * w) + '" y1="' + (a.y * h) + '" x2="' + (b.x * w) + '" y2="' + (b.y * h) +
+    '" stroke="rgba(205,158,223,.85)" stroke-width="2"/>').join('');
+
+  $('list').innerHTML = nodes().map((n, i) =>
+    '<li data-i="' + i + '" class="' + (i === sel ? 'sel' : '') + '"><span>' + (isCentre(n) ? '&#9733; ' : '') +
+    (n.name || '<i>unnamed</i>') + '</span><i>' + n.x.toFixed(3) + ', ' + n.y.toFixed(3) + '</i></li>').join('');
+
+  const n = nodes()[sel];
+  $('nm').value = n ? (n.name || '') : '';
+  $('note').value = n ? (n.note || '') : '';
+  emit();
+}
+
+function pick(i) { sel = i; if (linking) link(i); paint(); }
+function link(i) {
+  if (linkFrom === null) { linkFrom = i; $('said').textContent = 'Now click the other end.'; return; }
+  const a = nodes()[linkFrom].name, b = nodes()[i].name;
+  if (a && b && a !== b) card.constellation.links.push([a, b]);
+  linkFrom = null; linking = false; $('linkmode').classList.remove('on');
+  $('said').textContent = 'Link added.';
+}
+
+$('stage').addEventListener('click', (e) => {
+  if (e.target.closest('.dot')) return;
+  const r = $('shot').getBoundingClientRect();
+  nodes().push({ name: '', x: +((e.clientX - r.left) / r.width).toFixed(4), y: +((e.clientY - r.top) / r.height).toFixed(4), note: '' });
+  sel = nodes().length - 1;
+  paint();
+  $('nm').focus();
+});
+
+window.addEventListener('mousemove', (e) => {
+  if (dragging < 0) return;
+  const r = $('shot').getBoundingClientRect();
+  nodes()[dragging].x = +Math.max(0, Math.min(1, (e.clientX - r.left) / r.width)).toFixed(4);
+  nodes()[dragging].y = +Math.max(0, Math.min(1, (e.clientY - r.top) / r.height)).toFixed(4);
+  paint();
+});
+window.addEventListener('mouseup', () => { dragging = -1; });
+
+$('list').addEventListener('click', (e) => { const li = e.target.closest('[data-i]'); if (li) pick(+li.dataset.i); });
+$('nm').addEventListener('input', (e) => { if (nodes()[sel]) { nodes()[sel].name = e.target.value; paint(); } });
+$('note').addEventListener('input', (e) => { if (nodes()[sel]) { nodes()[sel].note = e.target.value; emit(); } });
+$('centre').addEventListener('click', () => { if (nodes()[sel]) { card.constellation.centre = nodes()[sel].name; paint(); } });
+$('del').addEventListener('click', () => { if (sel >= 0) { nodes().splice(sel, 1); sel = -1; paint(); } });
+$('linkmode').addEventListener('click', (e) => {
+  linking = !linking; linkFrom = null;
+  e.target.classList.toggle('on', linking);
+  $('said').textContent = linking ? 'Click the first point.' : '';
+});
+$('clearlinks').addEventListener('click', () => { card.constellation.links = []; paint(); });
+$('story').addEventListener('input', (e) => { card.story = e.target.value; emit(); });
+window.addEventListener('resize', paint);
+$('shot').addEventListener('load', paint);
+
+function emit() { $('out').value = JSON.stringify(card, null, 2); }
+$('copy').addEventListener('click', async () => {
+  try { await navigator.clipboard.writeText($('out').value); $('said').textContent = 'Copied. Paste it over this card in /ar/cards.json.'; }
+  catch (e) { $('out').select(); $('said').textContent = 'Selected — press Ctrl/Cmd+C.'; }
+});
+</script>
+</body>
+</html>

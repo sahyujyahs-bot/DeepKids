@@ -1,0 +1,253 @@
+{
+  "_comment": [
+    "Everything the AR page knows about a card. Add a card by adding an",
+    "entry here and dropping its compiled target in /ar/targets/<code>.mind.",
+    "",
+    "constellation        placed in /ar/calibrate. 'show' is false because the",
+    "                     constellation is PRINTED on the card: lighting it",
+    "                     again in AR drew a second set of lines a hair off",
+    "                     the first and read as a smeared flicker.",
+    "story                the longer telling, also shown as a sheet at the",
+    "                     bottom of the phone for anyone who wants it flat.",
+    "scene                what stands up off the card: the story art in",
+    "                     layers, text placed in space, and drifting motes.",
+    "                     Arranged in /ar/studio.html — not written by hand.",
+    "",
+    "Scene units are card-widths. The card runs -0.5 to 0.5 across and",
+    "-0.68 to 0.68 up; z is height above the card, towards the reader."
+  ],
+  "cards": [
+    {
+      "code": "sci1001",
+      "name": "Brahmagupta",
+      "core": "G core",
+      "back": "/sci-brahmagupta-back.webp",
+      "front": "/sci-brahmagupta-front.webp",
+      "constellation": {
+        "centre": "Brahmagupta",
+        "nodes": [
+          {
+            "name": "Dirac",
+            "x": 0.525,
+            "y": 0.121,
+            "note": "Took B&rsquo;s 0 from maths to physics"
+          },
+          {
+            "name": "Isaac Newton",
+            "x": 0.633,
+            "y": 0.156,
+            "note": "Scaled up B&rsquo;s ideas"
+          },
+          {
+            "name": "Aryabhatta",
+            "x": 0.761,
+            "y": 0.2,
+            "note": "Rival"
+          },
+          {
+            "name": "Fibonacci",
+            "x": 0.388,
+            "y": 0.207,
+            "note": "Applied B&rsquo;s ideas to practical problems"
+          },
+          {
+            "name": "Euler",
+            "x": 0.178,
+            "y": 0.228,
+            "note": "Reinvented B&rsquo;s work, not knowing B had done it"
+          },
+          {
+            "name": "Brahmagupta",
+            "x": 0.531,
+            "y": 0.258,
+            "note": ""
+          },
+          {
+            "name": "Emmy Noether",
+            "x": 0.779,
+            "y": 0.287,
+            "note": "Proved B&rsquo;s Theorem"
+          },
+          {
+            "name": "Al-Khwarizmi",
+            "x": 0.289,
+            "y": 0.319,
+            "note": "Built on his work"
+          }
+        ],
+        "links": [
+          [
+            "Dirac",
+            "Isaac Newton"
+          ],
+          [
+            "Isaac Newton",
+            "Al-Khwarizmi"
+          ],
+          [
+            "Euler",
+            "Fibonacci"
+          ],
+          [
+            "Aryabhatta",
+            "Al-Khwarizmi"
+          ],
+          [
+            "Emmy Noether",
+            "Fibonacci"
+          ]
+        ],
+        "show": false
+      },
+      "story": "",
+      "scene": {
+        "layers": [],
+        "texts": [],
+        "particles": {
+          "count": 90,
+          "spread": 1.3,
+          "depth": 0.5,
+          "color": "#ff6a2a",
+          "size": 0.016,
+          "opacity": 0.9
+        }
+      }
+    },
+    {
+      "code": "sci1002",
+      "name": "Emmy Noether",
+      "core": "Phy core",
+      "back": "/sci-noether-back.webp",
+      "front": "/sci-noether-front.webp",
+      "constellation": {
+        "centre": "Emmy Noether",
+        "nodes": [
+          {
+            "name": "Isaac Newton",
+            "x": 0.633,
+            "y": 0.156,
+            "note": "All his laws are a consequence of Em&rsquo;s theorem"
+          },
+          {
+            "name": "Edu Ch&acirc;telet",
+            "x": 0.761,
+            "y": 0.2,
+            "note": "Em uncovered her proof&rsquo;s underlying principle"
+          },
+          {
+            "name": "JL Lagrange",
+            "x": 0.382,
+            "y": 0.209,
+            "note": "L&rsquo;s framework is a foundation for Em&rsquo;s theorem"
+          },
+          {
+            "name": "David Hilbert",
+            "x": 0.178,
+            "y": 0.228,
+            "note": "Collaborated with"
+          },
+          {
+            "name": "Emmy Noether",
+            "x": 0.531,
+            "y": 0.258,
+            "note": ""
+          },
+          {
+            "name": "Brahmagupta",
+            "x": 0.779,
+            "y": 0.287,
+            "note": "Em proved B&rsquo;s Theorem"
+          },
+          {
+            "name": "Albert Einstein",
+            "x": 0.289,
+            "y": 0.319,
+            "note": "Collaborated with"
+          }
+        ],
+        "links": [
+          [
+            "David Hilbert",
+            "Isaac Newton"
+          ],
+          [
+            "Albert Einstein",
+            "Isaac Newton"
+          ],
+          [
+            "JL Lagrange",
+            "Brahmagupta"
+          ],
+          [
+            "David Hilbert",
+            "Edu Ch&acirc;telet"
+          ]
+        ],
+        "show": false
+      },
+      "story": "Barred from university enrolment for being a woman, Noether got her PhD anyway. Unable to hold a formal position or get paid, she taught under a male professor's name. Then the Nazis expelled her for being Jewish. She fled to the US & continued teaching. Died suddenly at 53 — but not before changing mathematics & physics forever.",
+      "scene": {
+        "layers": [
+          {
+            "src": "/ar/layers/sci1002/board-and-men.webp",
+            "w": 2388,
+            "h": 1668,
+            "x": 0.0,
+            "y": -0.1519,
+            "z": 0.03,
+            "scale": 0.8775,
+            "rot": 0,
+            "opacity": 1
+          },
+          {
+            "src": "/ar/layers/sci1002/noether.webp",
+            "w": 2388,
+            "h": 1668,
+            "x": 0.0169,
+            "y": -0.2536,
+            "z": 0.08,
+            "scale": 0.7319,
+            "rot": 0,
+            "opacity": 1
+          },
+          {
+            "src": "/ar/layers/sci1002/audience.webp",
+            "w": 2388,
+            "h": 1668,
+            "x": 0.0,
+            "y": -0.22,
+            "z": 0.14,
+            "scale": 1.3,
+            "rot": 0,
+            "opacity": 1
+          }
+        ],
+        "texts": [
+          {
+            "text": "Barred from university enrolment for being a woman, Noether got her PhD anyway. Unable to hold a formal position or get paid, she taught under a male professor's name. Then the Nazis expelled her for being Jewish. She fled to the US & continued teaching. Died suddenly at 53 — but not before changing mathematics & physics forever.",
+            "size": 0.046,
+            "width": 0.9,
+            "color": "#ffffff",
+            "align": "left",
+            "bg": "rgba(8,5,22,.82)",
+            "x": 0.0,
+            "y": 0.82,
+            "z": 0.15,
+            "scale": 1,
+            "rot": 0,
+            "opacity": 1
+          }
+        ],
+        "particles": {
+          "count": 90,
+          "spread": 1.3,
+          "depth": 0.5,
+          "color": "#ff6a2a",
+          "size": 0.016,
+          "opacity": 0.9
+        }
+      },
+      "targets": 2
+    }
+  ]
+}

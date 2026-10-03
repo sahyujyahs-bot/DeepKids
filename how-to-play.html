@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <!-- Google Analytics (GA4) + Google Ads global site tag -->
+  <script>
+    window._egNoTrack = (function(){
+      try {
+        var q = new URLSearchParams(location.search);
+        if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+        if (q.has('track')) localStorage.removeItem('eg-notrack');
+        return localStorage.getItem('eg-notrack') === '1';
+      } catch(e) { return false; }
+    })();
+    window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
+  <script>
+    if (!window._egNoTrack) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GYJLZ0FVJE');
+      gtag('config', 'AW-18110551284');
+    }
+  </script>
+  <title>How To Play EscapeGravity &mdash; Science Board Game Rules | DeepKids</title>
+  <!-- Favicons -->
+  <link rel="icon" href="favicon.ico" sizes="any"/>
+  <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"/>
+  <link rel="icon" href="favicon-16.png" type="image/png" sizes="16x16"/>
+  <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+  <link rel="icon" href="favicon-192.png" type="image/png" sizes="192x192"/>
+  <meta name="description" content="How to play EscapeGravity, the science board game for kids aged 7 to 14: the spiral board, Force Cards, the physical challenges and the mission to the ISS. Interactive demo and walkthrough videos."/>
+  <link rel="canonical" href="https://deepkids.in/how-to-play"/>
+  <!-- Open Graph -->
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://deepkids.in/how-to-play"/>
+  <meta property="og:title" content="How To Play EscapeGravity"/>
+  <meta property="og:description" content="The rules, the Force Cards and the physical challenges — with an interactive demo and a full walkthrough."/>
+  <meta property="og:image" content="https://deepkids.in/spiral-board-display-transparent.png"/>
+  <meta property="og:site_name" content="DeepKids"/>
+  <meta name="theme-color" content="#0a0618"/>
+  <!-- Preload fonts to avoid FOUT -->
+  <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
+  <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
+  <link rel="preload" href="fonts/futura-book-oblique.otf" as="font" type="font/opentype" crossorigin/>
+  <!-- Shared site styles -->
+  <link rel="stylesheet" href="assets/css/main.min.css"/>
+
+  <!-- Page-specific styles: video walkthroughs -->
+  <style>
+    /* This section is first on the page, so drop it below the fixed 68px
+       nav (on the homepage it's mid-scroll, so it never needed this). */
+    #s3 { height: calc(100vh - 68px); margin-top: 68px; }
+
+    /* The homepage reveals the logo via a scroll-morph animation; this page
+       has no hero to morph from, so show the EG wordmark straight away. */
+    .eg-nav-logo { opacity: 1; }
+    /* ui.min.js bundles a scroll toggle that hides .eg-nav-cta near the top
+       of the page (it expects a tall hero). This page is short, so force the
+       Pre-Order button visible on desktop regardless of that toggle. It stays
+       hidden on mobile via main.css (display:none under 769px). */
+    @media (min-width: 769px) {
+      .eg-nav-cta { opacity: 1 !important; pointer-events: auto !important; }
+    }
+
+    /* ── Mobile hamburger menu ─────────────────────────────── */
+    .eg-nav-menu-btn {
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px; padding: 8px;
+      background: none; border: 0; cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .eg-nav-menu-btn span {
+      display: block; height: 2px; width: 100%;
+      border-radius: 2px; background: #cd9edf;
+      transition: transform .3s ease, opacity .2s ease;
+    }
+    .eg-nav-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .eg-nav-menu-btn.open span:nth-child(2) { opacity: 0; }
+    .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    .eg-nav-menu {
+      position: fixed; top: 48px; right: clamp(10px, 4vw, 24px);
+      z-index: 3000; width: min(240px, 78vw);
+      display: flex; flex-direction: column;
+      background: rgba(16,10,34,0.98);
+      backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+      border: 1px solid rgba(170,89,200,0.45); border-radius: 14px;
+      padding: 6px;
+      box-shadow: 0 18px 50px rgba(0,0,0,0.6);
+      opacity: 0; transform: translateY(-8px) scale(0.98);
+      transform-origin: top right; pointer-events: none;
+      transition: opacity .2s ease, transform .2s ease;
+    }
+    .eg-nav-menu.open { opacity: 1; transform: translateY(0) scale(1); pointer-events: auto; }
+    .eg-nav-menu a {
+      display: flex; align-items: center; justify-content: space-between;
+      font-family: 'Futura', sans-serif; font-size: 16px; letter-spacing: 0.5px;
+      color: #efe6ff; text-decoration: none; padding: 15px 16px;
+      border-radius: 10px; border-bottom: 1px solid rgba(170,89,200,0.16);
+      transition: background .18s ease, color .18s ease;
+    }
+    .eg-nav-menu a:last-child { border-bottom: 0; }
+    .eg-nav-menu a::after {
+      content: '\203A'; font-size: 20px; line-height: 1;
+      color: rgba(205,158,223,0.6); margin-left: 12px;
+    }
+    .eg-nav-menu a:hover, .eg-nav-menu a:active { background: rgba(170,89,200,0.22); color: #fff; }
+    .eg-nav-menu a.eg-nav-menu-cta {
+      color: #fff; font-weight: bold; margin-top: 4px;
+      background: linear-gradient(180deg, #aa59c8 0%, #793194 100%);
+    }
+    .eg-nav-menu a.eg-nav-menu-cta::after { color: rgba(255,255,255,0.8); }
+    @media (max-width: 768px) {
+      .eg-nav-menu-btn { display: flex; }
+    }
+
+    /* ── Video walkthroughs ─────────────────────────────────── */
+    #htp-videos {
+      padding: clamp(40px, 7vw, 90px) clamp(16px, 5vw, 60px) clamp(60px, 9vw, 110px);
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .htp-video-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: clamp(24px, 4vw, 48px);
+      margin-top: clamp(28px, 5vw, 56px);
+    }
+    .htp-video-card {
+      display: flex;
+      flex-direction: column;
+    }
+    .htp-video-frame {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      border-radius: 16px;
+      overflow: hidden;
+      background: #120a24;
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.45), 0 0 0 1px rgba(170, 89, 200, 0.25);
+    }
+    .htp-video-frame iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+      display: block;
+    }
+    .htp-video-caption {
+      margin-top: 18px;
+      text-align: center;
+    }
+    .htp-video-caption h3 {
+      font-family: 'Norwester', 'Futura', sans-serif;
+      font-size: clamp(18px, 2.4vw, 26px);
+      letter-spacing: 1px;
+      color: #fff;
+      margin: 0 0 6px;
+      text-transform: uppercase;
+    }
+    .htp-video-caption p {
+      font-family: 'Futura', sans-serif;
+      font-size: clamp(13px, 1.6vw, 16px);
+      line-height: 1.5;
+      color: rgba(255, 255, 255, 0.6);
+      margin: 0;
+    }
+  </style>
+  <meta name="keywords" content="how to play EscapeGravity, board game rules, science board game for kids, educational games, board games for kids, DeepKids"/>
+  <meta name="robots" content="index, follow"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="How To Play EscapeGravity"/>
+  <meta name="twitter:description" content="The rules, the Force Cards and the physical challenges — with an interactive demo and a full walkthrough."/>
+  <meta name="twitter:image" content="https://deepkids.in/spiral-board-display-transparent.png"/>
+  <meta name="author" content="DeepKids"/>
+  <!-- Structured data: what this page is, for search engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Shop",
+        "item": "https://deepkids.in/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "How to play EscapeGravity",
+        "item": "https://deepkids.in/how-to-play"
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════ STICKY NAV ══ -->
+<nav class="eg-nav">
+  <a href="/" class="eg-nav-logo">Deep<b>Kids</b></a>
+  <div class="eg-nav-right">
+    <button type="button" class="eg-nav-cta dk-btn-host" data-dk-size="sm" data-dk-btn="Order Now" onclick="location.href='/#preorder'"></button>
+    <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="eg-nav-menu" onclick="egToggleMenu()">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+<script>
+  function egToggleMenu() {
+    var m = document.getElementById('eg-nav-menu');
+    var b = document.querySelector('.eg-nav-menu-btn');
+    if (!m || !b) return;
+    var open = m.classList.toggle('open');
+    b.classList.toggle('open', open);
+    b.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+  function egCloseMenu() {
+    var m = document.getElementById('eg-nav-menu');
+    var b = document.querySelector('.eg-nav-menu-btn');
+    if (m) m.classList.remove('open');
+    if (b) { b.classList.remove('open'); b.setAttribute('aria-expanded', 'false'); }
+  }
+  document.addEventListener('click', function(e) {
+    var nav = document.querySelector('.eg-nav');
+    if (nav && !nav.contains(e.target)) egCloseMenu();
+  });
+</script>
+
+<!-- ═══════════════════════════════════════════════ HOW TO PLAY ══ -->
+<main style="display:contents">
+<section id="s3">
+  <!-- Row 1: Title -->
+  <div id="s2-title-row">
+    <h1 class="page-h2">How To Play</h1>
+    <p class="page-subh">An Example Interactive Experience</p>
+    <div class="s2-tabs">
+      <button class="s2-tab active" data-panel="physical">Step 1: Earning Force Card</button>
+      <span class="s2-tab-arrow">&#x279C;</span>
+      <button class="s2-tab" data-panel="boardgame">Step 2: Moving On The Board</button>
+      <span class="s2-tab-arrow">&#x279C;</span>
+      <button class="s2-tab locked" data-panel="science">Step 3: Resolving Gravity Wells</button>
+    </div>
+    <div class="s2-force-link show" id="s2-force-link">Earn a Force Card</div>
+  </div>
+
+  <!-- Row 2: Board -->
+  <!-- Tokens: direct children of #s3 so they can overflow board-row -->
+  <img id="s2-tok-blue" class="s2-tok" src="s2-token-blue.webp" alt="The blue astronaut playing piece from the EscapeGravity board game">
+  <img id="s2-tok-red"  class="s2-tok" src="s2-token-red.webp"  alt="The red rocket playing piece from the EscapeGravity board game">
+  <div id="s2-board-row">
+    <div class="s2-panel" id="s2-panel-boardgame">
+      <!-- Canvas: smooth zoom animation -->
+      <canvas id="s2-canvas"></canvas>
+
+      <!-- Zoom progress bar -->
+      <div id="s2-progress"></div>
+
+      <!-- Tile label -->
+      <div id="s2-label">✦ &nbsp;Tile 10 — Earth's Surface · Starting Point&nbsp; ✦</div>
+
+      <!-- Tokens — tall, extending above board edge -->
+
+      <!-- 3-D Dice at right edge -->
+      <div id="s2-dice-wrap">
+        <div id="s2-scene" onclick="s2Roll()">
+          <div id="s2-dice">
+            <div class="s2-face s2-ff"><div class="pip" style="grid-area:2/2"></div></div>
+            <div class="s2-face s2-fb">
+              <div class="pip" style="grid-area:1/1"></div><div class="pip" style="grid-area:1/3"></div>
+              <div class="pip" style="grid-area:2/1"></div><div class="pip" style="grid-area:2/3"></div>
+              <div class="pip" style="grid-area:3/1"></div><div class="pip" style="grid-area:3/3"></div>
+            </div>
+            <div class="s2-face s2-fr">
+              <div class="pip" style="grid-area:1/3"></div><div class="pip" style="grid-area:3/1"></div>
+            </div>
+            <div class="s2-face s2-fl">
+              <div class="pip" style="grid-area:1/1"></div><div class="pip" style="grid-area:1/3"></div>
+              <div class="pip" style="grid-area:2/2"></div>
+              <div class="pip" style="grid-area:3/1"></div><div class="pip" style="grid-area:3/3"></div>
+            </div>
+            <div class="s2-face s2-ft">
+              <div class="pip" style="grid-area:1/3"></div><div class="pip" style="grid-area:2/2"></div>
+              <div class="pip" style="grid-area:3/1"></div>
+            </div>
+            <div class="s2-face s2-fo">
+              <div class="pip" style="grid-area:1/1"></div><div class="pip" style="grid-area:1/3"></div>
+              <div class="pip" style="grid-area:3/1"></div><div class="pip" style="grid-area:3/3"></div>
+            </div>
+          </div>
+        </div>
+        <p id="s2-hint">Click to Roll!</p>
+      </div>
+
+      <!-- Result -->
+      <div id="s2-result"></div>
+
+      <!-- Comic speech bubble -->
+      <div id="s2-comic-bubble">
+        <div class="s2-bubble-box">
+          If you have an<br>
+          <span class="s2-bubble-highlight"><img class="s2-bubble-icon" src="IMG_4700.webp" alt="Earth"> Earth Force Card</span><br>
+          you can play it…<br>
+          or you <span class="s2-bubble-highlight">fall down!</span><br>
+          <a class="s2-bubble-link" id="s2-bubble-fc-link">Earn a Force Card</a>
+        </div>
+      </div>
+
+      <!-- Inline force card display (small, over the board) -->
+      <div id="s2-inline-fc" class="s2-inline-fc">
+        <div class="s2-inline-fc-text" id="s2-inline-fc-text">Force Card No Match — So Drop!</div>
+        <div class="s2-inline-fc-card">
+          <img id="s2-inline-fc-img" src="" alt="Force Card">
+        </div>
+      </div>
+    </div>
+
+    <div class="s2-panel active" id="s2-panel-physical">
+      <div class="s2-draw-prompt" id="s2-draw-prompt">Draw A Physical Challenge Card</div>
+      <div class="s2-card-fan" id="s2-card-fan">
+      </div>
+
+      <div class="s2-drop-scene" id="s2-drop-scene">
+        <div class="s2-drop-title" id="s2-drop-title">All Players Do The Challenge</div>
+        <img class="s2-drop-kids" id="s2-kids-holding" src="s2-kids-holding.webp" alt="Kids holding items">
+        <img class="s2-drop-kids" id="s2-kids-empty" src="s2-kids-empty.webp" alt="Kids dropped items" style="opacity:0">
+        <img class="s2-drop-item" id="s2-item-ball" src="s2-item-ball.webp" alt="Ball">
+        <img class="s2-drop-item" id="s2-item-feather" src="s2-item-feather.webp" alt="Feather">
+        <img class="s2-drop-item" id="s2-item-leaf" src="s2-item-leaf.webp" alt="Leaf">
+        <img class="s2-drop-item" id="s2-item-paper" src="s2-item-paper.webp" alt="Paper">
+      </div>
+    </div>
+
+
+
+    <div class="s2-panel" id="s2-panel-science">
+      <div style="display:flex;align-items:center;justify-content:center;height:100%;color:rgba(255,255,255,0.5);font-family:'Futura',sans-serif;font-size:clamp(14px,2vw,22px);letter-spacing:3px;text-transform:uppercase;">Scroll down to see the videos below</div>
+    </div>
+
+    <!-- Navigation arrows -->
+    <div id="s2-nav">
+      <button class="s2-arrow" id="s2-back" onclick="s2GoBack()" disabled title="Start over">
+        <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <button class="s2-arrow" id="s2-fwd" onclick="s2GoForward()" disabled title="Roll the dice">
+        <svg viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
+    </div>
+  </div>
+
+
+
+<div class="s2-force-overlay" id="s2-force-overlay">
+  <button class="s2-force-close" id="s2-force-close">&times;</button>
+  <div class="s2-force-title" id="s2-force-popup-title">You Earned a Force Card!</div>
+  <div class="s2-force-card-wrap" id="s2-force-card-wrap">
+    <div class="s2-force-card-inner">
+      <div class="s2-force-card-face">
+        <img src="s2-force-card-front.webp" alt="Force Card Front">
+      </div>
+      <div class="s2-force-card-face s2-force-card-back-face">
+        <img src="s2-force-card-back.webp" alt="Force Card Back">
+      </div>
+    </div>
+  </div>
+  <div class="s2-force-hint">Click card to flip</div>
+</div>
+
+</section>
+
+<!-- ═══════════════════════════════════════════════ VIDEOS ══ -->
+<section id="htp-videos">
+  <h2 class="page-h2">Watch It In Action</h2>
+  <p class="page-subh">See EscapeGravity played from start to finish</p>
+
+  <div class="htp-video-grid">
+    <div class="htp-video-card">
+      <div class="htp-video-frame">
+        <iframe src="https://www.youtube-nocookie.com/embed/uQL2luoyMlw?start=2"
+                title="How To Play EscapeGravity — Quick Guide"
+                loading="lazy"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+      <div class="htp-video-caption">
+        <h3>Quick How To Play</h3>
+        <p>A short guide to get you rolling in a couple of minutes.</p>
+      </div>
+    </div>
+
+    <div class="htp-video-card">
+      <div class="htp-video-frame">
+        <iframe src="https://www.youtube-nocookie.com/embed/b2mBZ8B5Lu0"
+                title="EscapeGravity — Full Game Walkthrough"
+                loading="lazy"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+      <div class="htp-video-caption">
+        <h3>Full Walkthrough</h3>
+        <p>Every aspect of the game explained in depth, end to end.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ FOOTER ══ -->
+</main>
+<footer class="eg-footer" id="eg-footer">
+  <div class="eg-footer-grid">
+    <div>
+      <div class="eg-footer-brand-name">EscapeGravity</div>
+      <div class="eg-footer-brand-tag">A board game that is all about Gravity. Science, strategy, and physical fun for the whole family.</div>
+      <div class="eg-footer-by">A <strong>DeepKids</strong> creation &mdash; games that turn learning into play.</div>
+    </div>
+    <div>
+      <h3>Quick Links</h3>
+      <ul class="eg-footer-links">
+        <li><a href="/#s1">Home</a></li>
+        <li><a href="/#s2">The Game</a></li>
+        <li><a href="/#s4-science">Science</a></li>
+        <li><a href="/how-to-play">How To Play</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/sci">SCI. Trading Cards</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Follow Us</h3>
+      <div class="eg-footer-socials">
+        <a href="https://www.instagram.com/deepkids.club" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="17.5" cy="6.5" r="1.2"/></svg></a>
+        <a href="https://www.facebook.com/people/DeepKids/61584787613315/" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24"><path d="M13.5 22v-8h2.7l.4-3.1h-3.1V8.9c0-.9.25-1.5 1.55-1.5H16.7V4.6c-.3-.04-1.34-.13-2.56-.13-2.53 0-4.27 1.55-4.27 4.39v2.45H7.15V14.4h2.72V22z" fill="currentColor"/></svg></a>
+        <a href="https://www.youtube.com/@Deepkidsclub" target="_blank" rel="noopener" aria-label="YouTube"><svg viewBox="0 0 24 24"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19.1c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z" fill="none" stroke="currentColor" stroke-width="1.5"/><polygon points="9.75,8.25 15.5,12 9.75,15.75" fill="currentColor" stroke="none"/></svg></a>
+      </div>
+    </div>
+  </div>
+  <div class="eg-footer-bottom">&copy; 2026 DeepKids. All rights reserved. <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="https://deepkids.in" style="color:#aa59c8;text-decoration:none;">deepkids.in</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/privacy-policy" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Privacy Policy</a> <span style="opacity:.5;">&nbsp;&middot;&nbsp;</span> <a href="/refund-policy" style="color:rgba(255,255,255,0.4);text-decoration:none;font-size:13px;">Refund Policy</a></div>
+</footer>
+
+<!-- ═══════════════════════════════════════════════ SCRIPTS ══ -->
+<!-- ═══════════════════════════════════════════════ MOBILE STICKY ORDER CTA ══ -->
+<style>
+  .eg-mobile-preorder {
+    display: none;
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    z-index: 998;
+    padding: 8px 0 calc(10px + env(safe-area-inset-bottom, 0px));
+    background: linear-gradient(180deg, rgba(10,6,24,0) 0%, rgba(10,6,24,0.85) 45%, rgba(10,6,24,0.95) 100%);
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity .3s ease, transform .3s ease;
+    overflow: hidden;
+  }
+  .eg-mobile-preorder.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+  /* Mobile sticky button: natural aspect ratio (viewBox 339:108).
+     Drifts across the strip Pac-Man style — exits off the left,
+     wraps back in from the right. */
+  button.eg-mobile-preorder-btn {
+    all: unset;
+    display: block;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    cursor: pointer;
+    line-height: 0;
+    filter: drop-shadow(0 0 14px rgba(170,89,200,0.35)) drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+    transition: filter .2s ease;
+    animation: eg-swim-across 14s linear infinite;
+    will-change: transform;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    outline: none;
+  }
+  button.eg-mobile-preorder-btn:focus,
+  button.eg-mobile-preorder-btn:focus-visible {
+    outline: none;
+  }
+  @keyframes eg-swim-across {
+    0%   { transform: translateX(100vw); }
+    100% { transform: translateX(-100%); }
+  }
+  /* Only animate while the strip is actually showing */
+  .eg-mobile-preorder:not(.visible) button.eg-mobile-preorder-btn {
+    animation-play-state: paused;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    button.eg-mobile-preorder-btn {
+      animation: none;
+      margin: 0 0 0 auto;
+      padding-right: 12px;
+    }
+  }
+  button.eg-mobile-preorder-btn:hover {
+    filter: drop-shadow(0 0 22px rgba(170,89,200,0.6)) drop-shadow(0 4px 12px rgba(0,0,0,0.5)) brightness(1.08);
+  }
+  button.eg-mobile-preorder-btn:active {
+    filter: drop-shadow(0 0 10px rgba(170,89,200,0.3)) brightness(0.95);
+  }
+  button.eg-mobile-preorder-btn .btn-svg {
+    width: auto !important;
+    height: 56px !important;
+    display: block;
+    overflow: visible;
+  }
+  /* Thin pink/purple outline — kept off so the lime pill reads
+     cleaner against the dark gradient. */
+  button.eg-mobile-preorder-btn .btn-svg path[stroke="#6b2155"][stroke-width="9"]  { stroke: none !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#6b2155"][stroke-width="20"] { stroke: none !important; }
+  button.eg-mobile-preorder-btn .btn-svg line[stroke="#aa59c8"]  { stroke-width: 8 !important; }
+  /* Label centred over the pill body (K chevron sits at the right) */
+  button.eg-mobile-preorder-btn .btn-label {
+    position: absolute;
+    top: 50%;
+    left: 38% !important;
+    transform: translate(-50%, -50%);
+    font-family: 'Norwester', sans-serif;
+    font-variant: small-caps;
+    font-weight: normal;
+    font-size: 17px;
+    letter-spacing: 2px;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0,0,0,.7);
+    pointer-events: none;
+    white-space: nowrap;
+  }
+  @media (max-width: 768px) {
+    .eg-mobile-preorder { display: block; }
+    body { padding-bottom: 76px; }
+  }
+</style>
+<div class="eg-mobile-preorder" id="eg-mobile-preorder" aria-hidden="true">
+  <button type="button" class="eg-mobile-preorder-btn" onclick="location.href='/#preorder'">
+    <svg class="btn-svg" viewBox="0 0 339 108" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="dk-mobile-grad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#cd9edf"/>
+          <stop offset="45%" stop-color="#aa59c8"/>
+          <stop offset="100%" stop-color="#793194"/>
+        </linearGradient>
+        <linearGradient id="dk-mobile-hi" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="rgba(255,255,255,0.45)"/>
+          <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+        </linearGradient>
+      </defs>
+      <line x1="268" y1="54" x2="324" y2="17" stroke="#6b2155" stroke-width="20" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="324" y2="91" stroke="#6b2155" stroke-width="20" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <path d="M 5,29 A 22,22 0 0,1 27,7 L 226,7 A 47,47 0 1,1 226,101 L 27,101 A 22,22 0 0,1 5,79 Z" fill="none" stroke="#6b2155" stroke-width="9" vector-effect="non-scaling-stroke"/>
+      <path d="M 9,29 A 18,18 0 0,1 27,11 L 226,11 A 43,43 0 1,1 226,97 L 27,97 A 18,18 0 0,1 9,79 Z" fill="url(#dk-mobile-grad)"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#aa59c8" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#aa59c8" stroke-width="13" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <path d="M 20,20 A 14,14 0 0,1 32,14 L 218,14 A 36,36 0 0,1 248,32 L 30,32 A 12,12 0 0,1 20,20 Z" fill="url(#dk-mobile-hi)"/>
+      <path d="M 13,29 A 14,14 0 0,1 27,15 L 226,15 A 39,39 0 1,1 226,93 L 27,93 A 14,14 0 0,1 13,79 Z" fill="none" stroke="#6b2155" stroke-width="1.5" stroke-linejoin="round"/>
+      <line x1="268" y1="54" x2="321" y2="19" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="268" y1="54" x2="321" y2="89" stroke="#6b2155" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <span class="btn-label">Order Now</span>
+  </button>
+</div>
+
+<script src="assets/js/core.min.js"></script>
+<script src="assets/js/howtoplay.min.js"></script>
+<script src="assets/js/ui.min.js"></script>
+
+  <script src="/header.js?v=15" defer></script>
+  <script src="/track.js?v=15" defer></script>
+  <script src="/cart.js?v=15" defer></script>
+  <script src="/checkout.js?v=15" defer></script>
+  <script src="/footer.js?v=15" defer></script>
+  <script src="/menu.js?v=15" defer></script>
+</body>
+</html>
