@@ -1,0 +1,1210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"/>
+  <title>Scan Your SCI. Card &mdash; DeepKids AR</title>
+  <meta name="description" content="Point your phone at the back of a SCI. scientist trading card and watch the constellation come alive, the artwork lift off the page, and the longer story appear — the part that is not printed on the card."/>
+  <link rel="canonical" href="https://deepkids.in/ar"/>
+  <!-- Kept out of the index until it has been confirmed on real phones.
+       Flip to "index, follow" and add /ar to sitemap.xml to launch it. -->
+  <meta name="robots" content="noindex, follow"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://deepkids.in/ar"/>
+  <meta property="og:title" content="Scan Your SCI. Card"/>
+  <meta property="og:description" content="Point your phone at the back of a card and watch the constellation come alive."/>
+  <meta property="og:image" content="https://deepkids.in/sci-box-front.webp"/>
+  <meta property="og:site_name" content="DeepKids"/>
+  <meta name="theme-color" content="#0a0618"/>
+  <link rel="icon" href="/favicon.ico" sizes="any"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+  <style>
+    @font-face { font-family:'Norwester'; src:url('/norwester.ttf') format('truetype'); font-weight:normal; font-style:normal; font-display:swap; }
+    @font-face { font-family:'Futura'; src:url('/fonts/futura-book.otf') format('opentype'); font-weight:400; font-style:normal; font-display:swap; }
+    :root {
+      --purple:#aa59c8; --purple-rgb:170,89,200; --lilac:#cd9edf; --gold:#ffb300;
+      --ink:rgba(255,255,255,.86); --ink-dim:rgba(255,255,255,.6);
+      --head:'Norwester',sans-serif; --body:'Futura','Segoe UI',sans-serif;
+    }
+    *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
+    html,body { height:100%; }
+    body {
+      background:linear-gradient(180deg,#0a0618 0%,#120826 45%,#0a0618 100%);
+      color:#fff; font-family:var(--body); line-height:1.6;
+      overscroll-behavior:none;
+    }
+    img { display:block; max-width:100%; }
+
+    /* ── Screens ─────────────────────────────────────────────
+       One at a time, swapped by a class on <body>, so the camera
+       is only ever running on the screen that uses it. */
+    .screen { display:none; }
+    body[data-screen="pick"] #pick,
+    body[data-screen="scan"] #scan,
+    body[data-screen="sorry"] #sorry { display:block; }
+
+    /* ── Pick a card ─────────────────────────────────────────*/
+    #pick { max-width:760px; margin:0 auto; padding:clamp(22px,5vw,44px) clamp(16px,4vw,32px) 60px; }
+    .brand { font-family:var(--head); font-size:clamp(17px,2.4vw,21px); color:var(--purple); text-decoration:none; letter-spacing:1px; }
+    .brand b { color:#fff; font-weight:normal; }
+    h1 {
+      font-family:var(--head); font-weight:normal; font-variant:small-caps;
+      font-size:clamp(30px,8vw,46px); line-height:1.05; margin:clamp(20px,4vh,34px) 0 10px;
+      text-shadow:0 0 30px rgba(var(--purple-rgb),.5);
+    }
+    h1 em { font-style:normal; color:var(--lilac); }
+    .lede { color:var(--ink); font-size:clamp(15px,2vw,17px); margin-bottom:clamp(22px,4vh,34px); }
+    .steps { list-style:none; display:grid; gap:10px; margin-bottom:clamp(26px,5vh,40px); }
+    .steps li { display:flex; gap:12px; align-items:flex-start; font-size:15px; color:var(--ink); }
+    .steps li span:first-child {
+      flex:0 0 auto; width:24px; height:24px; border-radius:50%; display:grid; place-items:center;
+      font-family:var(--head); font-size:13px; color:#fff;
+      background:rgba(var(--purple-rgb),.3); border:1px solid rgba(var(--purple-rgb),.6);
+    }
+    .pick-h { font-family:var(--head); font-variant:small-caps; letter-spacing:3px; font-size:13px; color:var(--gold); margin-bottom:14px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(100%,150px),1fr)); gap:clamp(12px,3vw,20px); }
+    .card-btn {
+      display:block; width:100%; padding:0; cursor:pointer; text-align:left;
+      background:rgba(255,255,255,.03); border:1px solid rgba(var(--purple-rgb),.3);
+      border-radius:16px; overflow:hidden; color:inherit; font:inherit;
+      transition:border-color .2s ease, transform .2s ease;
+    }
+    .card-btn:hover, .card-btn:focus-visible { border-color:var(--purple); transform:translateY(-3px); outline:none; }
+    .card-btn img { width:100%; aspect-ratio:3/4; object-fit:cover; object-position:top; }
+    .card-btn .cap { padding:11px 13px 13px; }
+    .card-btn .cap b { display:block; font-family:var(--head); font-variant:small-caps; letter-spacing:1px; font-size:17px; color:#fff; font-weight:normal; }
+    .card-btn .cap span { font-size:11.5px; letter-spacing:1.5px; text-transform:uppercase; color:var(--lilac); }
+    .note { margin-top:clamp(26px,5vh,40px); font-size:13.5px; color:var(--ink-dim); }
+    .note a { color:var(--lilac); }
+
+    /* ── Scanning ────────────────────────────────────────────*/
+    #scan { position:fixed; inset:0; background:#000; }
+    #ar { position:absolute; inset:0; overflow:hidden; }
+    /* Nothing here sizes the camera feed or the canvas. MindAR places
+       both itself on every resize: the video is deliberately drawn
+       LARGER than the container and offset negatively, which is how it
+       crops to fill, and the canvas is set to the container exactly.
+       The camera projection is then computed to match that geometry —
+       so forcing either to 100% (as this once did) leaves the picture
+       and the projection disagreeing, and the overlay lands beside the
+       card instead of on it. */
+
+    .bar {
+      position:absolute; top:0; left:0; right:0; z-index:20;
+      display:flex; align-items:center; justify-content:space-between; gap:12px;
+      padding:calc(10px + env(safe-area-inset-top)) 14px 10px;
+      background:linear-gradient(180deg,rgba(5,3,15,.85),transparent);
+    }
+    .bar .who { font-family:var(--head); font-variant:small-caps; letter-spacing:1.5px; font-size:16px; }
+    .x {
+      width:38px; height:38px; flex:0 0 auto; border-radius:50%; cursor:pointer;
+      border:1px solid rgba(255,255,255,.3); background:rgba(0,0,0,.45); color:#fff;
+      font-size:20px; line-height:1; display:grid; place-items:center;
+    }
+
+    /* The reticle, shown until the card is found. */
+    .aim {
+      position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+      width:min(68vw,300px); aspect-ratio:760/1027; z-index:10; pointer-events:none;
+      border:2px dashed rgba(var(--purple-rgb),.75); border-radius:14px;
+      transition:opacity .35s ease;
+    }
+    .aim::after {
+      content:attr(data-say); position:absolute; left:50%; bottom:-46px; transform:translateX(-50%);
+      white-space:nowrap; font-size:13.5px; letter-spacing:.5px; color:#fff;
+      background:rgba(5,3,15,.72); border-radius:999px; padding:7px 16px;
+    }
+    body.found .aim { opacity:0; }
+    body.looking .aim { opacity:0; }
+
+    /* ── Look around it ──────────────────────────────────────
+       Lifts the scene off the card so it can be turned with a
+       finger. Only offered once the card has actually been found,
+       so it never reads as the way in. */
+    .look {
+      position:absolute; left:50%; bottom:calc(26px + env(safe-area-inset-bottom));
+      transform:translateX(-50%); z-index:25; cursor:pointer; white-space:nowrap;
+      border:1px solid rgba(var(--purple-rgb),.5); border-radius:999px;
+      background:rgba(5,3,15,.66); color:#fff;
+      backdrop-filter:blur(8px); -webkit-backdrop-filter:blur(8px);
+      padding:9px 20px; font-family:var(--head); font-variant:small-caps;
+      letter-spacing:1.6px; font-size:13.5px;
+      opacity:0; pointer-events:none; transition:opacity .3s ease;
+    }
+    body.found .look, body.looking .look { opacity:1; pointer-events:auto; }
+    /* Said once, when the card is first recognised. */
+    .look.nudge::after {
+      content:'Turn it round and see it from any side';
+      position:absolute; left:50%; bottom:calc(100% + 9px); transform:translateX(-50%);
+      white-space:nowrap; font-family:var(--body); font-variant:normal; letter-spacing:0;
+      font-size:12.5px; color:#fff; background:rgba(var(--purple-rgb),.92);
+      border-radius:999px; padding:6px 14px;
+    }
+    .look.nudge { animation:pulse 1.6s ease-in-out 3; }
+    @keyframes pulse { 0%,100% { transform:translateX(-50%) scale(1); } 50% { transform:translateX(-50%) scale(1.06); } }
+    body.looking .look { border-color:rgba(255,255,255,.55); }
+    /* Drag turns the scene, so the browser must not take the gesture
+       for a scroll or a pinch-zoom while it is doing that. */
+    body.looking #ar { touch-action:none; }
+
+    /* Only with ?debug. There is no way to run the tracker anywhere
+       but on a phone, so when something goes wrong on one this is what
+       there is to go on. */
+    .hud {
+      position:absolute; left:8px; top:64px; z-index:40; cursor:pointer;
+      margin:0; padding:7px 9px; border-radius:8px;
+      background:rgba(0,0,0,.72); color:#8ef; font-size:11px; line-height:1.45;
+      font-family:ui-monospace,Menlo,Consolas,monospace; white-space:pre;
+    }
+
+
+    /* ── No camera / unsupported ─────────────────────────────*/
+    #sorry { max-width:620px; margin:0 auto; padding:clamp(40px,10vh,90px) clamp(20px,5vw,32px); }
+    #sorry h1 { margin-top:0; }
+    .cta {
+      display:inline-block; margin-top:20px;
+      font-family:var(--head); font-variant:small-caps; letter-spacing:1.5px; font-size:16px;
+      color:#fff; text-decoration:none; background:linear-gradient(180deg,#c46be0,#8a3aa8);
+      border:1px solid rgba(255,255,255,.35); border-radius:999px; padding:12px 30px;
+    }
+    .err { color:#ff9a9a; font-size:14px; margin-top:14px; }
+
+    /* ── Loading ─────────────────────────────────────────────*/
+    #load {
+      position:fixed; inset:0; z-index:60; display:none; place-items:center;
+      background:rgba(5,3,15,.92); text-align:center; padding:24px;
+    }
+    body.loading #load { display:grid; }
+    #load .ring {
+      width:52px; height:52px; margin:0 auto 18px; border-radius:50%;
+      border:3px solid rgba(var(--purple-rgb),.25); border-top-color:var(--purple);
+      animation:spin 1s linear infinite;
+    }
+    @keyframes spin { to { transform:rotate(360deg); } }
+    #load p { font-size:14.5px; color:var(--ink); }
+    @media (prefers-reduced-motion:reduce) { #load .ring { animation-duration:3s; } }
+  </style>
+</head>
+<body data-screen="pick">
+
+<!-- ═══════════════ PICK A CARD ═══════════════ -->
+<section class="screen" id="pick">
+  <a class="brand" href="/">Deep<b>Kids</b></a>
+  <h1>Scan Your <em>SCI. Card</em></h1>
+  <p class="lede">Hold up the <b>back</b> of a card and the constellation wakes up, the painting lifts off the page, and you get the longer story &mdash; the part we could not fit on the card.</p>
+
+  <ol class="steps">
+    <li><span>1</span><span>Pick the scientist you are holding.</span></li>
+    <li><span>2</span><span>Let the camera turn on, and point it at the back of the card.</span></li>
+    <li><span>3</span><span>Hold steady. Good light helps.</span></li>
+  </ol>
+
+  <div class="pick-h">Which card have you got?</div>
+  <div class="grid" id="grid"></div>
+
+  <p class="note" id="note">Nothing to install. The camera never leaves your phone &mdash; no photo or video is sent anywhere.
+    Don&rsquo;t have the cards yet? <a href="/sci">Have a look at SCI.</a></p>
+</section>
+
+<!-- ═══════════════ SCANNING ═══════════════ -->
+<section class="screen" id="scan">
+  <div id="ar"></div>
+  <div class="bar">
+    <span class="who" id="who"></span>
+    <button type="button" class="x" id="close" aria-label="Stop scanning">&times;</button>
+  </div>
+  <div class="aim" id="aim" data-say="Point at the back of the card"></div>
+  <button type="button" class="look" id="look">Look Around It</button>
+  <pre class="hud" id="hud" hidden></pre>
+
+</section>
+
+<!-- ═══════════════ NO CAMERA ═══════════════ -->
+<section class="screen" id="sorry">
+  <a class="brand" href="/">Deep<b>Kids</b></a>
+  <h1>This One Needs <em>A Phone</em></h1>
+  <p class="lede" id="sorry-why">Scanning a card needs a camera, so this works on a phone or a tablet rather than on a desktop. Open <b>deepkids.in/ar</b> on your phone and you are away.</p>
+  <a class="cta" href="/sci">See The Cards &rarr;</a>
+  <p class="err" id="sorry-err" hidden></p>
+</section>
+
+<div id="load"><div><div class="ring"></div><p id="load-say">Waking the camera&hellip;</p></div></div>
+
+<script type="importmap">
+{ "imports": {
+    "three": "/ar/vendor/three.module.min.js",
+    "three/addons/renderers/CSS3DRenderer.js": "/ar/vendor/CSS3DRenderer.js"
+} }
+</script>
+
+<script type="module">
+import * as THREE from 'three';
+import { MindARThree } from '/ar/vendor/mindar-image-three.prod.js';
+
+/* The card back, in MindAR's units: the target is one unit wide and
+   as many tall as its own proportions. */
+const CARD_W = 1, CARD_H = 1027 / 760;
+
+/* Bump on EVERY change to any file in /ar/targets/. See targetUrl. */
+const TARGET_V = 2;
+let targetBytes = 0;
+
+const $ = (id) => document.getElementById(id);
+const body = document.body;
+let CARDS = [];
+let mindar = null;
+let look = null;   /* the look-around controller for the scan in progress */
+
+/* ── Can this device do it at all? ──────────────────────────*/
+function unsupported(why, detail) {
+  $('sorry-why').innerHTML = why;
+  if (detail) { $('sorry-err').hidden = false; $('sorry-err').textContent = detail; }
+  body.classList.remove('loading');
+  body.dataset.screen = 'sorry';
+}
+
+/* ── The picker ─────────────────────────────────────────────*/
+fetch('/ar/cards.json')
+  .then(r => r.json())
+  .then(data => {
+    CARDS = data.cards || [];
+    $('grid').innerHTML = CARDS.map((c, i) =>
+      '<button type="button" class="card-btn" data-i="' + i + '">' +
+        '<img src="' + c.front + '" alt="The ' + c.name + ' card from the SCI. scientist trading cards" loading="lazy" decoding="async"/>' +
+        '<span class="cap"><b>' + c.name + '</b><span>' + (c.core || '') + '</span></span>' +
+      '</button>').join('');
+    $('grid').addEventListener('click', (e) => {
+      const b = e.target.closest('[data-i]');
+      if (b) start(CARDS[+b.dataset.i]);
+    });
+  })
+  .catch(() => {
+    $('grid').innerHTML = '<p class="note">The card list could not be loaded. Try again in a moment.</p>';
+  });
+
+/* ── The constellation, drawn on a canvas and hung over the card ──
+   A texture rather than real geometry: the whole thing is flat
+   artwork sitting on a flat card, and a canvas gives the glow and
+   the line-drawing for far less than a scene full of meshes. */
+function constellation(card) {
+  /* Deliberately smaller than the card art. Every frame this canvas is
+     re-uploaded to the GPU as a texture, and at the card's own 760x1027
+     that is a 3MB upload per frame — enough to bring a phone to its
+     knees. At this size it is under 1.5MB and the glow is soft enough
+     that nothing looks lower-resolution for it. */
+  const W = 512, H = Math.round(512 * 1027 / 760);
+  const k = W / 760;                            /* keep the line weight */
+  const cvs = document.createElement('canvas');
+  cvs.width = W; cvs.height = H;
+  const g = cvs.getContext('2d');
+
+  const nodes = card.constellation.nodes;
+  const centre = nodes.find(n => n.name === card.constellation.centre) || nodes[0];
+  const by = (name) => nodes.find(n => n.name === name);
+
+  /* Every node reaches the centre; the card also draws a few links
+     between the others, and those come from the data. */
+  const edges = nodes.filter(n => n !== centre).map(n => [centre, n]);
+  (card.constellation.links || []).forEach(([a, b]) => {
+    const na = by(a), nb = by(b);
+    if (na && nb) edges.push([na, nb]);
+  });
+
+  const tex = new THREE.CanvasTexture(cvs);
+  tex.colorSpace = THREE.SRGBColorSpace;
+  const mesh = new THREE.Mesh(
+    new THREE.PlaneGeometry(CARD_W, CARD_H),
+    new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false })
+  );
+  mesh.renderOrder = 10;
+
+  const DRAW = 2.2, HOLD = 3.0, CYCLE = DRAW + HOLD;
+  let t0 = 0, lastPaint = 0;
+
+  mesh.userData.tick = (now) => {
+    if (!t0) t0 = now;
+    /* The scene renders at whatever rate the device manages; the
+       texture only needs redrawing often enough to read as motion. */
+    if (now - lastPaint < 42) return;
+    lastPaint = now;
+    const t = ((now - t0) / 1000) % CYCLE;
+    g.clearRect(0, 0, W, H);
+
+    /* The card's own edge, traced. It says the card is live, and it is
+       the quickest way to see whether the overlay is sitting on the
+       card or beside it. */
+    g.save();
+    g.strokeStyle = 'rgba(205,158,223,.5)';
+    g.lineWidth = 3 * k;
+    g.shadowColor = 'rgba(170,89,200,.9)';
+    g.shadowBlur = 12 * k;
+    const pad = 10 * k, rr = 26 * k;
+    g.beginPath();
+    g.moveTo(pad + rr, pad);
+    g.arcTo(W - pad, pad, W - pad, H - pad, rr);
+    g.arcTo(W - pad, H - pad, pad, H - pad, rr);
+    g.arcTo(pad, H - pad, pad, pad, rr);
+    g.arcTo(pad, pad, W - pad, pad, rr);
+    g.closePath();
+    g.stroke();
+    g.restore();
+
+    /* The lines draw themselves outward from the centre, one after
+       another, then the whole figure sits lit for a beat. */
+    edges.forEach((e, i) => {
+      const delay = (i / edges.length) * (DRAW * 0.55);
+      const p = Math.max(0, Math.min(1, (t - delay) / (DRAW * 0.45)));
+      if (p <= 0) return;
+      const ax = e[0].x * W, ay = e[0].y * H, bx = e[1].x * W, by2 = e[1].y * H;
+      g.save();
+      g.globalCompositeOperation = 'lighter';
+      g.strokeStyle = 'rgba(205,158,223,.95)';
+      g.lineWidth = 3 * k;
+      g.shadowColor = 'rgba(170,89,200,.9)';
+      g.shadowBlur = 14 * k;
+      g.beginPath();
+      g.moveTo(ax, ay);
+      g.lineTo(ax + (bx - ax) * p, ay + (by2 - ay) * p);
+      g.stroke();
+      g.restore();
+    });
+
+    /* A node lights when its line arrives, then breathes. */
+    nodes.forEach((n, i) => {
+      const delay = (i / nodes.length) * (DRAW * 0.55);
+      const lit = Math.max(0, Math.min(1, (t - delay) / 0.45));
+      if (lit <= 0) return;
+      const breathe = 0.78 + 0.22 * Math.sin((now / 1000) * 2.1 + i);
+      const r = (n === centre ? 30 : 20) * k * lit * breathe;
+      const x = n.x * W, y = n.y * H;
+      g.save();
+      g.globalCompositeOperation = 'lighter';
+      const grd = g.createRadialGradient(x, y, 0, x, y, r);
+      grd.addColorStop(0, 'rgba(255,255,255,' + (0.95 * lit) + ')');
+      grd.addColorStop(0.35, 'rgba(205,158,223,' + (0.6 * lit) + ')');
+      grd.addColorStop(1, 'rgba(170,89,200,0)');
+      g.fillStyle = grd;
+      g.beginPath(); g.arc(x, y, r, 0, Math.PI * 2); g.fill();
+      g.restore();
+    });
+
+    tex.needsUpdate = true;
+  };
+  return mesh;
+}
+
+/* ── Whatever the studio arranged over this card ────────────
+   Each layer sits a little nearer the reader than the one behind it,
+   so moving the phone slides them against each other and the painting
+   gains depth. With nothing arranged there is simply nothing here,
+   and the constellation carries the card on its own.
+
+   Both the artwork and the text are placed in /ar/studio.html and
+   come through in card.scene exactly as it left there — the same
+   units, the same meaning — so what was arranged on a desk is what
+   appears over the card. */
+/* Two groups, not one, and the reason is readability.
+   The artwork has to be glued to the card: it is part of the picture,
+   and any smoothing makes it swim against the card instead. The text
+   is not part of the picture — it floats in front of the card and
+   nobody can tell whether it is registered to a millimetre. So it gets
+   its own group and its own, much heavier filter, and holds still
+   enough to actually read while the artwork keeps up with the hand. */
+function sceneFor(card) {
+  const art = new THREE.Group();
+  const caption = new THREE.Group();
+  const sc = card.scene || {};
+  const loader = new THREE.TextureLoader();
+  let order = 0;
+
+  let tick = null;
+  const place = (m, it) => {
+    m.position.set(it.x || 0, it.y || 0, it.z || 0);
+    m.scale.setScalar(it.scale === undefined ? 1 : it.scale);
+    /* tilt leans a layer back out of the card's plane and yaw turns it
+       edge-on, which is what gives the stack a shape to walk around.
+       Stacked dead flat, the layers only slide against each other;
+       leant even a little they read as cut-outs standing on a stage.
+       Both default to nothing, so a scene arranged before they existed
+       comes through exactly as it did. */
+    m.rotation.set((it.tilt || 0) * Math.PI / 180,
+                   (it.yaw || 0) * Math.PI / 180,
+                   (it.rot || 0) * Math.PI / 180);
+    m.material.transparent = true;
+    m.material.opacity = it.opacity === undefined ? 1 : it.opacity;
+    m.renderOrder = ++order;
+    /* Kept so the layers can be turned towards a viewer who has walked
+       round them, without losing the lean they were arranged with. */
+    m.userData.authored = m.rotation.clone();
+    m.userData.face = it.kind === 'text' ? 1 : 0.72;
+    (it.kind === 'text' ? caption : art).add(m);
+  };
+
+  (sc.layers || []).forEach((layer) => {
+    const h = CARD_W * (layer.h || 1) / (layer.w || 1);
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(CARD_W, h),
+      /* Double-sided, because the whole point of leaning the layers is
+         that the scene can be looked at from the side, and a plane seen
+         from behind its normal is simply not drawn. */
+      new THREE.MeshBasicMaterial({ transparent: true, side: THREE.DoubleSide }));
+    /* Hidden until its picture is actually there. A layer listed in
+       cards.json whose file has not been committed yet would otherwise
+       hang an untextured plane over the card. */
+    m.visible = false;
+    const tex = loader.load(layer.src,
+      () => { m.material.map = tex; m.material.needsUpdate = true; m.visible = true; },
+      undefined,
+      () => { m.visible = false; });
+    tex.colorSpace = THREE.SRGBColorSpace;
+    place(m, layer);
+  });
+
+  (sc.texts || []).forEach((t) => {
+    const { tex, aspect } = textTexture(t);
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(t.width, t.width * aspect),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthTest: false }));
+    m.userData.isText = true;
+    place(m, Object.assign({ kind: 'text' }, t));
+  });
+
+  /* The motes in the reference: embers hanging in the air around the
+     scene, which is most of what sells it as standing in space rather
+     than printed flat. */
+  if (sc.particles) {
+    const P = sc.particles;
+    const n = P.count || 90;
+    const pos = new Float32Array(n * 3);
+    const seed = new Float32Array(n);
+    const spread = P.spread || 1.3;
+    for (let i = 0; i < n; i++) {
+      pos[i * 3]     = (Math.random() - 0.5) * spread;
+      pos[i * 3 + 1] = (Math.random() - 0.5) * spread * CARD_H;
+      pos[i * 3 + 2] = Math.random() * (P.depth || 0.5);
+      seed[i] = Math.random() * Math.PI * 2;
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+    const pts = new THREE.Points(geo, new THREE.PointsMaterial({
+      color: new THREE.Color(P.color || '#ff6a2a'),
+      size: P.size || 0.016,
+      transparent: true, opacity: P.opacity === undefined ? 0.9 : P.opacity,
+      depthTest: false, sizeAttenuation: true
+    }));
+    pts.renderOrder = ++order;
+    art.add(pts);
+    const base = pos.slice();
+    tick = (now) => {
+      const t = now / 1000;
+      for (let i = 0; i < n; i++) {
+        pos[i * 3]     = base[i * 3]     + Math.sin(t * 0.5 + seed[i]) * 0.02;
+        pos[i * 3 + 1] = base[i * 3 + 1] + Math.sin(t * 0.33 + seed[i] * 1.7) * 0.03;
+        pos[i * 3 + 2] = base[i * 3 + 2] + Math.cos(t * 0.4 + seed[i]) * 0.02;
+      }
+      geo.attributes.position.needsUpdate = true;
+    };
+  }
+
+  /* Turning the scene to look at it from the side runs into what the
+     scene is made of: flat pictures. Swung far enough they go edge-on
+     and there is nothing left to see.
+
+     So when it is turned, each layer turns most of the way back
+     towards the viewer — it keeps its face — while its *position* goes
+     all the way round. The depth between the layers is then the thing
+     on show, which is what there is to show, and the art never
+     narrows to a line. Words turn back the whole way, since a page of
+     text read at an angle is no use to anybody.
+
+     Only used in look-around. On the card the scene stays exactly as
+     it was arranged. */
+  /* Lifted off the card, the panel is in the way: it swings out of
+     frame with everything else, and holding it in the bbox leaves the
+     artwork small in the middle of a lot of nothing. So while the
+     scene is being turned the panel stands down and the picture gets
+     the whole frame. */
+  const showText = (on) => { caption.visible = on; };
+
+  const face = (yaw, pitch) => {
+    [art, caption].forEach((g) => g.traverse((m) => {
+      const a = m.userData && m.userData.authored;
+      if (!a) return;
+      const k = m.userData.face;
+      m.rotation.set(a.x - k * pitch, a.y - k * yaw, a.z);
+    }));
+  };
+
+  return { art: art, caption: caption, face: face, showText: showText,
+           tick: (now) => { if (tick) tick(now); } };
+}
+
+/* ── Standing still in a shaking hand ──────────────────────────
+   The tracker has a One-Euro filter of its own and it cannot settle
+   a hand-held card, for a reason worth writing down so nobody tunes
+   it again hoping for better.
+
+   It filters all sixteen elements of the model-view matrix together,
+   through one cutoff that opens with speed as
+   `minCutOff + beta * |velocity|`, and ships with beta at 1000. The
+   translation elements are in target pixels and run into the
+   hundreds, so a tremor of a couple of pixels a second already puts
+   the cutoff orders of magnitude past where any smoothing happens:
+   the position arrives raw. Winding beta down to catch that then
+   starves the rotation elements, which are of order one, and every
+   tilt of the card would drag behind. One number cannot serve both,
+   which is why the earlier attempt at beta made things worse rather
+   than better.
+
+   So the artwork does not hang off the tracking anchor. The anchor is
+   left holding the raw pose and nothing else, and the artwork follows
+   it from here — split into position, turn and size, each judged in a
+   unit that means something, so "a hand not being steady" and "a
+   child turning the card to look" can be told apart and need not
+   share a setting.
+
+   The same loop covers the blinking. A card in a hand goes unseen for
+   a frame or two constantly and the anchor blinks off with it; here
+   the artwork simply stays where it was for a moment, and fades if
+   the card is really gone instead of snapping out and back. */
+function follower(anchors, stage, onGone, tuning) {
+  /* A card can have been printed more than once, and the same .mind
+     can carry a target for each printing. Whichever one the tracker
+     recognises drives the artwork; they are the same card, so the
+     scene does not care which. */
+  const seenNow = () => {
+    for (let i = 0; i < anchors.length; i++) if (anchors[i].group.visible) return anchors[i];
+    return null;
+  };
+  const p = new THREE.Vector3(), q = new THREE.Quaternion(), s = new THREE.Vector3();
+  let started = false, seen = 0, fade = 0, last = 0, skipped = 0;
+
+  /* The tracker can hand out a pose that is not a number, while still
+     saying the target is in view, and this has to be caught here or it
+     is fatal rather than untidy.
+
+     Two ways it happens. Its own One-Euro filter divides by the gap
+     between two Date.now() readings, and that clock only counts whole
+     milliseconds, so two updates inside one millisecond divide by zero
+     and 0 * Infinity poisons the matrix. And on a loss it assigns a
+     matrix of all zeros, which decomposes by dividing by a zero scale.
+
+     While the artwork hung off the anchor this did not matter: a bad
+     matrix lasted one frame and the next update replaced it outright.
+     Following the pose means carrying it from frame to frame instead,
+     and lerp and slerp started from a NaN stay NaN for ever — the
+     artwork would vanish on the first bad frame and never return, no
+     matter how well the card tracked afterwards. So every pose is
+     checked before it is believed, and a bad one is simply treated as
+     a frame where the card was not seen. */
+  const ok3 = (v) => Number.isFinite(v.x) && Number.isFinite(v.y) && Number.isFinite(v.z);
+  const sane = () => ok3(p) && ok3(s) && Math.abs(s.x) > 1e-9 &&
+    Number.isFinite(q.x) && Number.isFinite(q.y) && Number.isFinite(q.z) && Number.isFinite(q.w);
+
+  /* Telling a shake from a move, properly this time.
+     This was a gate: how far the pose had travelled over the last
+     eight frames, squared, opening a lerp between two fixed rates.
+     Measured against a noisy pose it made the shiver slightly WORSE
+     than no smoothing at all (0.00180 against 0.00169 card-widths of
+     frame-to-frame wobble), because the travel it measured was mostly
+     the noise, so the noise itself kept prising the filter open.
+
+     What follows is a One-Euro filter — the thing MindAR's own filter
+     is, done in units that mean something. Speed is estimated from the
+     raw pose and smoothed in its own right, and the cutoff rises with
+     it: still card, low cutoff, heavy smoothing; moving card, high
+     cutoff, no lag. Position is in card-widths a second and rotation
+     in radians a second, so neither depends on the resolution the
+     target was compiled at, and each gets its own beta because a hand
+     shakes a card sideways far more readily than it twists it. */
+  /* Overridable from the URL so these can be tried on an actual phone
+     without a deploy, which is the only place the tracker runs. */
+  const qs = (k, d) => {
+    const m = new RegExp('[?&]' + k + '=([^&]+)').exec(location.search);
+    const v = m ? parseFloat(m[1]) : NaN;
+    return Number.isFinite(v) ? v : d;
+  };
+  /* Worth being clear what is being removed and what is not, because
+     the obvious intuition is wrong: if the phone shakes, the card in
+     the picture shakes with it, so artwork glued to the card shakes
+     too and nobody sees anything amiss. What reads as the artwork
+     moving is it moving DIFFERENTLY from the card, and only the
+     tracker's own frame-to-frame noise does that. Hand tremor is to be
+     followed exactly; the noise is to be taken out. */
+  /* The artwork's defaults are measured: against a pose carrying both
+     real hand tremor and per-frame tracker noise, anything heavier
+     than this increases how much the artwork wobbles AGAINST the card,
+     because the tremor is real and has to be followed. 8Hz takes the
+     single-frame noise off and leaves everything else alone.
+     The caption passes its own, far heavier numbers. */
+  const t = tuning || {};
+  /* The two stages take separate URL keys so one can be tried without
+     disturbing the other: pmin/pbeta/rmin/rbeta for the artwork,
+     cpmin/cpbeta/crmin/crbeta for the caption. */
+  const k = t.key || '';
+  const PMIN = qs(k + 'pmin', t.pmin === undefined ? 8 : t.pmin);
+  const PBETA = qs(k + 'pbeta', t.pbeta === undefined ? 20 : t.pbeta);
+  const RMIN = qs(k + 'rmin', t.rmin === undefined ? 8 : t.rmin);
+  const RBETA = qs(k + 'rbeta', t.rbeta === undefined ? 6 : t.rbeta);
+  const DCUT = qs('dcut', 1.0);   /* Hz: smoothing on the speed estimate itself */
+  /* Short, and shorter than it was. Holding the last pose stops a
+     one-frame dropout blinking, but the pose is frozen in the camera's
+     space while the phone keeps moving, so every millisecond past the
+     real dropout is artwork visibly sliding off the card. At 420 that
+     ghost was long enough to read as the thing being broken. */
+  const HOLD = qs('hold', 140);   /* ms the artwork holds its place after a dropout */
+  const FADE = 200;    /* ms to go, and to come back */
+
+  /* One-Euro's own two helpers. alpha is the usual exponential
+     smoothing constant for a given cutoff and timestep. */
+  const alphaOf = (cutoff, dtS) => {
+    const tau = 1 / (2 * Math.PI * Math.max(cutoff, 1e-4));
+    return 1 / (1 + tau / dtS);
+  };
+  const prevP = new THREE.Vector3(), prevQ = new THREE.Quaternion();
+  let speedP = 0, speedR = 0, primed = false;
+  /* How far the RAW pose jumps between frames, in card-widths. Every
+     filter setting here has been chosen against a guess at this
+     number; the readout turns it into something measured on the phone
+     that actually has the problem. */
+  const jumps = [];
+
+  const tick = (now) => {
+    const dt = last ? Math.min(now - last, 100) : 16.7;
+    last = now;
+
+    let good = false;
+    const a = seenNow();
+    if (a) {
+      a.group.matrix.decompose(p, q, s);
+      good = sane();
+      if (!good) skipped++;
+    }
+
+    if (good) {
+      seen = now;
+      /* Re-snap rather than slide if the stage itself is not a number:
+         belt and braces, so nothing that slips past the check above can
+         leave the artwork gone for the rest of the scan. */
+      if (!started || !ok3(stage.position) || !Number.isFinite(stage.quaternion.w) || !ok3(stage.scale)) {
+        started = true;
+        primed = false;
+        speedP = speedR = 0;
+        stage.position.copy(p); stage.quaternion.copy(q); stage.scale.copy(s);
+      } else {
+        const dtS = Math.max(dt, 1) / 1000;
+        const cw = Math.abs(s.x) || 1;
+        /* Speed of the RAW pose, which is what decides how much to
+           trust it — measured in card-widths and radians a second. */
+        const jump = primed ? p.distanceTo(prevP) / cw : 0;
+        if (primed) { jumps.push(jump); if (jumps.length > 90) jumps.shift(); }
+        const rawP = jump / dtS;
+        const rawR = primed ? prevQ.angleTo(q) / dtS : 0;
+        const ad = alphaOf(DCUT, dtS);
+        speedP += ad * (rawP - speedP);
+        speedR += ad * (rawR - speedR);
+
+        stage.position.lerp(p, alphaOf(PMIN + PBETA * speedP, dtS));
+        stage.scale.lerp(s, alphaOf(PMIN + PBETA * speedP, dtS));
+        stage.quaternion.slerp(q, alphaOf(RMIN + RBETA * speedR, dtS));
+      }
+      prevP.copy(p); prevQ.copy(q); primed = true;
+    }
+
+    const want = started && (good || now - seen < HOLD) ? 1 : 0;
+    const step = dt / FADE;
+    fade = want > fade ? Math.min(1, fade + step) : Math.max(0, fade - step);
+    stage.visible = fade > 0.01;
+    if (stage.userData.setFade) stage.userData.setFade(fade);
+
+    if (started && !good && fade === 0) {
+      started = false;
+      if (onGone) onGone();
+    }
+  };
+
+  tick.state = () => {
+    let which = -1;
+    for (let i = 0; i < anchors.length; i++) if (anchors[i].group.visible) { which = i; break; }
+    let j = 0;
+    for (let i = 0; i < jumps.length; i++) j += jumps[i] * jumps[i];
+    j = jumps.length ? Math.sqrt(j / jumps.length) : 0;
+    return { started: started, fade: fade, skipped: skipped, jitter: j,
+             anchor: which >= 0, which: which, scale: stage.scale.x };
+  };
+
+  /* Coming back from look-around, the stage is parked in front of the
+     camera at a size of its own. Without this it would crawl back to
+     the card over a second or so; forgetting the last pose makes it
+     land on the card the way it does on first sight. */
+  tick.reset = () => { started = false; last = 0; seen = 0; primed = false; speedP = speedR = 0; };
+  return tick;
+}
+
+/* ── Looking around it ─────────────────────────────────────────
+   Walking round a card held in one hand is not really possible, and
+   tracking from a steep angle is the first thing to go anyway. So the
+   scene can also be lifted off the card and turned with a finger:
+   same arrangement, parked in front of the camera, where the depth
+   between the layers is the whole point and no tremor reaches it.
+
+   The camera sits at the origin looking down -z, and the card's own
+   +z faces it, so an unturned stage parked at -DIST is the view the
+   card gives — the drag only adds to it. */
+function lookAround(stage, surface, scene3d, camera) {
+  const face = scene3d.face, showText = scene3d.showText;
+  const ac = new AbortController();
+  const opt = { signal: ac.signal };
+  const DIST = 3.2;
+  const LIMIT = 70 * Math.PI / 180;
+  const e = new THREE.Euler(0, 0, 0, 'YXZ');
+  const centre = new THREE.Vector3(), size = new THREE.Vector3(), off = new THREE.Vector3();
+  let on = false, yaw = 0, pitch = 0, drag = null, fit = 1;
+
+  /* Where the scene actually is and how big it actually is, measured
+     from the artwork rather than assumed. It is arranged to sit over a
+     card, so its middle is nowhere near the anchor's origin — parked
+     without this it hangs off the side of the screen. The motes are
+     left out of the reckoning: they are deliberately spread much wider
+     than the picture and would shrink it to nothing. */
+  const measure = () => {
+    stage.position.set(0, 0, 0);
+    stage.quaternion.identity();
+    stage.scale.setScalar(1);
+    if (face) face(0, 0);
+    stage.updateMatrixWorld(true);
+    const b = new THREE.Box3();
+    stage.traverse((o) => { if (o.isMesh && o.visible) b.expandByObject(o); });
+    if (b.isEmpty()) { centre.set(0, 0, 0); size.set(1, CARD_H, 0.3); }
+    else { b.getCenter(centre); b.getSize(size); }
+
+    /* How much of the world is in frame at that distance, taken from
+       the projection itself — MindAR builds its own, so the camera's
+       fov field cannot be trusted to describe it. */
+    const m = camera.projectionMatrix.elements;
+    const w = 2 * DIST / (m[0] || 1), h = 2 * DIST / (m[5] || 1);
+    fit = Math.min(w / (size.x || 1), h / (size.y || 1)) * 0.92;
+  };
+
+  const apply = () => {
+    e.set(pitch, yaw, 0);
+    stage.quaternion.setFromEuler(e);
+    stage.scale.setScalar(fit);
+    /* Turn about the middle of the picture, not about the corner of
+       the card it happens to be arranged against. */
+    off.copy(centre).multiplyScalar(fit).applyQuaternion(stage.quaternion);
+    stage.position.set(0, 0, -DIST).sub(off);
+    if (face) face(yaw, pitch);
+  };
+
+  surface.addEventListener('pointerdown', (ev) => {
+    if (!on) return;
+    surface.setPointerCapture(ev.pointerId);
+    drag = { x: ev.clientX, y: ev.clientY, yaw, pitch };
+  }, opt);
+  surface.addEventListener('pointermove', (ev) => {
+    if (!on || !drag) return;
+    yaw = Math.max(-LIMIT, Math.min(LIMIT, drag.yaw + (ev.clientX - drag.x) * 0.006));
+    pitch = Math.max(-LIMIT, Math.min(LIMIT, drag.pitch + (ev.clientY - drag.y) * 0.006));
+    apply();
+  }, opt);
+  const end = () => { drag = null; };
+  surface.addEventListener('pointerup', end, opt);
+  surface.addEventListener('pointercancel', end, opt);
+
+  return {
+    get on() { return on; },
+    /* The container outlives a scan, so the listeners have to go with
+       the scan rather than pile up one set per card looked at. */
+    off() { ac.abort(); },
+    set(v) {
+      on = v;
+      drag = null;
+      if (showText) showText(!on);
+      if (on) {
+        yaw = -0.35; pitch = -0.12;
+        stage.visible = true;
+        if (stage.userData.setFade) stage.userData.setFade(1);
+        measure();
+        apply();
+      }
+      else if (face) face(0, 0);
+    },
+    tick() { if (on) apply(); }
+  };
+}
+
+/* Words into a texture. Kept identical to the studio's own version so
+   a block of text wraps in the same places here as it did there. */
+function textTexture(t) {
+  const PX = 1024, pad = 24;
+  const c = document.createElement('canvas');
+  const probe = c.getContext('2d');
+  const fontPx = Math.max(10, Math.round(PX * (t.size / t.width) * 0.42));
+  const font = fontPx + "px 'Futura','Segoe UI',sans-serif";
+  probe.font = font;
+  const words = String(t.text || '').split(/\s+/).filter(Boolean);
+  const maxW = PX - pad * 2;
+  const lines = [];
+  let line = '';
+  for (const w of words) {
+    const test = line ? line + ' ' + w : w;
+    if (probe.measureText(test).width > maxW && line) { lines.push(line); line = w; } else line = test;
+  }
+  if (line) lines.push(line);
+  const lh = Math.round(fontPx * 1.32);
+  c.width = PX;
+  c.height = Math.max(lh + pad * 2, lines.length * lh + pad * 2);
+  const g = c.getContext('2d');
+  /* A panel behind the words. White text alone disappears over a
+     busy painting; the reference floats it on a dark slab. */
+  if (t.bg) {
+    g.fillStyle = t.bg;
+    const r = Math.min(26, c.height / 3);
+    g.beginPath();
+    g.moveTo(r, 0);
+    g.arcTo(c.width, 0, c.width, c.height, r);
+    g.arcTo(c.width, c.height, 0, c.height, r);
+    g.arcTo(0, c.height, 0, 0, r);
+    g.arcTo(0, 0, c.width, 0, r);
+    g.closePath();
+    g.fill();
+  }
+  g.font = font;
+  g.textBaseline = 'top';
+  g.textAlign = t.align === 'left' ? 'left' : 'center';
+  g.shadowColor = 'rgba(0,0,0,.85)';
+  g.shadowBlur = Math.round(fontPx * 0.5);
+  g.fillStyle = t.color || '#ffffff';
+  lines.forEach((l, i) => g.fillText(l, t.align === 'left' ? pad : PX / 2, pad + i * lh));
+  const tex = new THREE.CanvasTexture(c);
+  tex.colorSpace = THREE.SRGBColorSpace;
+  return { tex, aspect: c.height / c.width };
+}
+
+/* ── What this device can actually do ───────────────────────
+   The tracker runs on WebGL2 with float textures. Where that is
+   missing it does not fail politely — it throws from somewhere deep
+   inside itself, long after the camera is on — so the ground is
+   checked first and the answer is kept for the debug readout. */
+function capability() {
+  const c = document.createElement('canvas');
+  let gl = null;
+  try { gl = c.getContext('webgl2'); } catch (e) {}
+  const out = {
+    secure: window.isSecureContext,
+    camera: !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia),
+    webgl2: !!gl,
+    floatBuffer: !!(gl && gl.getExtension('EXT_color_buffer_float')),
+    renderer: ''
+  };
+  if (gl) {
+    const dbg = gl.getExtension('WEBGL_debug_renderer_info');
+    try { out.renderer = gl.getParameter(dbg ? dbg.UNMASKED_RENDERER_WEBGL : gl.RENDERER); } catch (e) {}
+  }
+  return out;
+}
+
+/* ?debug prints what the device reported, so a phone that cannot run
+   this can say why without anyone guessing. */
+if (location.search.indexOf('debug') > -1) {
+  const c = capability();
+  $('note').innerHTML = '<b>Device report</b><br/>' +
+    Object.keys(c).map(k => k + ': ' + c[k]).join('<br/>') +
+    '<br/>ua: ' + navigator.userAgent;
+}
+
+/* ── Start scanning for one card ────────────────────────────*/
+async function start(card) {
+  const can = capability();
+  if (!can.secure) {
+    return unsupported('A camera can only be opened over a secure connection. Open this page at <b>https://deepkids.in/ar</b>.');
+  }
+  if (!can.camera) {
+    return unsupported('This browser will not give a web page a camera. Safari on iPhone and Chrome on Android both will &mdash; try one of those.');
+  }
+  if (!can.webgl2 || !can.floatBuffer) {
+    return unsupported('This device&rsquo;s browser cannot run the tracking. It needs WebGL2 with float textures, which most phones from the last few years have &mdash; an older phone, or a browser with hardware acceleration switched off, will not.',
+      'webgl2: ' + can.webgl2 + ' · floatBuffer: ' + can.floatBuffer + ' · ' + can.renderer);
+  }
+
+  /* Targets are cached for a month, which is right — they are large
+     and they change rarely. But when one DOES change, every phone that
+     has scanned the card keeps the old one until the month is out, and
+     the card simply stops being recognised with no way to tell from
+     the outside. That is a month of a fix being invisible, and it
+     happened.
+
+     So the version is part of the URL. A new target means a new URL
+     means a new cache entry, and nothing has to expire for a phone to
+     pick it up. BUMP THIS WHENEVER A .mind CHANGES. */
+  const targetUrl = '/ar/targets/' + card.code + '.mind?v=' + TARGET_V;
+
+  body.classList.add('loading');
+  $('load-say').textContent = 'Getting ' + card.name + ' ready…';
+  $('who').textContent = card.name;
+  body.classList.remove('found');
+
+  /* MindAR asks the browser for `{ video: { facingMode } }` and nothing
+     else, and an unconstrained request is usually answered with
+     640x480. The tracker then has a quarter of the detail the camera
+     could have given it, which for a busy card at arm's length in a
+     lit room is most of the difference between locking on and not.
+
+     Wrapping the call rather than patching the vendor bundle, so this
+     survives the next MindAR update. Only the request MindAR makes is
+     touched, and only to add ideals the browser is free to refuse. */
+  if (!navigator.mediaDevices.__dkWrapped) {
+    const real = navigator.mediaDevices.getUserMedia.bind(navigator.mediaDevices);
+    const want = (() => {
+      const m = /[?&]res=(\d+)/.exec(location.search);
+      return m ? parseInt(m[1], 10) : 1280;
+    })();
+    navigator.mediaDevices.getUserMedia = (c) => {
+      if (c && c.video && typeof c.video === 'object') {
+        c.video.width = { ideal: want };
+        c.video.height = { ideal: Math.round(want * 9 / 16) };
+        /* Cards get held close, and a camera hunting for focus is a
+           camera handing the tracker blurred frames. */
+        c.video.advanced = (c.video.advanced || []).concat([{ focusMode: 'continuous' }]);
+      }
+      return real(c);
+    };
+    navigator.mediaDevices.__dkWrapped = true;
+  }
+
+  try {
+    mindar = new MindARThree({
+      container: $('ar'),
+      imageTargetSrc: targetUrl,
+      uiLoading: 'no', uiScanning: 'no', uiError: 'no',
+      /* The tracker's own filter is left alone, on purpose. It cannot
+         settle a hand-held card at any setting — follower() explains
+         why, and does the steadying instead.
+         The tolerances are the two that do help here. missTolerance
+         is how many frames the card may go unseen before it counts as
+         gone: a card in a child's hand drops out constantly, and at
+         the default of 5 the pose blinks off each time. warmupTolerance
+         is how many good frames it takes to come back, lowered so that
+         moving round the card picks it up again quickly rather than
+         leaving a gap every time the angle gets steep. */
+      /* missTolerance is how many frames the tracker keeps reporting a
+         target it can no longer see, using the last transform it had.
+         Those frames are stale by definition, and at 10 they stack up
+         with the hold above into a long slide. warmupTolerance is
+         lowered instead, so re-acquiring is quick — which is the half
+         of this that actually helps. */
+      /* Back to 5 and 3, which is where measurement had put them. They
+         were moved to 8 and 2 on the reasoning that dropping the card
+         on a small movement is worse than a few stale frames — a guess
+         that contradicted what had already been observed here, which
+         is that the stale frames are the artwork visibly shearing off
+         the card while the phone keeps moving. It made things worse. */
+      missTolerance: 5,
+      warmupTolerance: 3
+    });
+
+    /* Fetched here as well as by the tracker so the debug readout can
+       say which target actually arrived — the size tells old from new
+       at a glance, which a cached file otherwise will not. The second
+       request is served from the browser's cache. */
+    try {
+      const r = await fetch(targetUrl, { cache: 'force-cache' });
+      targetBytes = (await r.arrayBuffer()).byteLength;
+    } catch (e) { targetBytes = -1; }
+
+    const { renderer, scene, camera } = mindar;
+    renderer.outputColorSpace = THREE.SRGBColorSpace;
+
+    /* One anchor per printing of this card. cards.json says how many
+       the .mind holds; a card compiled the usual way has one. */
+    const printings = Math.max(1, card.targets || 1);
+    const anchors = [];
+    for (let i = 0; i < printings; i++) anchors.push(mindar.addAnchor(i));
+    /* The constellation is PRINTED on the card. Lighting it again in
+       AR drew a second set of lines a hair off the first, which with
+       any tracking jitter read as a smeared flicker rather than as
+       anything at all. It is off unless a card asks for it. */
+    const con = card.constellation && card.constellation.show ? constellation(card) : null;
+    const live = sceneFor(card);
+
+    /* Deliberately NOT anchor.group. The anchor carries the raw pose
+       and the stages follow it through follower(), which is where the
+       steadying happens — see the note there. Parenting the artwork
+       to the anchor instead would hand it the unfiltered translation. */
+    const stage = new THREE.Group();
+    if (con) stage.add(con);
+    stage.add(live.art);
+    stage.visible = false;
+    scene.add(stage);
+
+    /* The words, on their own much steadier stage. */
+    const capStage = new THREE.Group();
+    capStage.add(live.caption);
+    capStage.visible = false;
+    scene.add(capStage);
+
+    /* Each material's authored opacity, kept so the stage can be faded
+       as a whole without losing what the studio set. */
+    const authored = [];
+    [stage, capStage].forEach((g) => g.traverse((o) => {
+      if (!o.material) return;
+      o.material.transparent = true;
+      authored.push([o.material, o.material.opacity]);
+    }));
+    const setFade = (f) => {
+      for (let i = 0; i < authored.length; i++) authored[i][0].opacity = authored[i][1] * f;
+    };
+    stage.userData.setFade = setFade;
+    capStage.userData.setFade = () => {};   /* one call is enough for both */
+
+    look = lookAround(stage, $('ar'), live, camera);
+    const steady = follower(anchors, stage, () => {
+      if (look.on) return;
+      body.classList.remove('found');
+    });
+    /* Far heavier, because a caption that holds still can be read and
+       one that keeps up with a shaking hand cannot. It floats in front
+       of the card rather than sitting on it, so the drift this buys is
+       not something anyone can see. */
+    const steadyCaption = follower(anchors, capStage, null,
+      /* 0.25Hz, not the 0.12 tried after it. A heavier filter does cut
+         the measured on-screen movement — 0.00192 against 0.00232 —
+         but the measurement cannot see what that buys: a 1.3 second
+         time constant, so the caption no longer shivers, it wanders,
+         sliding after the card whenever the phone moves at all. The
+         pose underneath is noisy enough that filtering it harder just
+         trades a fast fault for a slow one. */
+      { key: 'c', pmin: 0.25, pbeta: 0.6, rmin: 0.3, rbeta: 0.3 });
+
+    let hinted = false;
+    const onFound = () => {
+      body.classList.add('found');
+      /* Said once, because "I can't see it from other sides" is what
+         this button is the answer to and nothing else on screen says
+         so. Walking round a card held in one hand does not work: the
+         tracking gives out long before the angle gets interesting. */
+      if (!hinted) {
+        hinted = true;
+        $('look').classList.add('nudge');
+        setTimeout(() => $('look').classList.remove('nudge'), 6000);
+      }
+    };
+    /* Nothing on lost: a dropout of a few frames is normal in a hand,
+       and the follower decides when the card is really gone. */
+    anchors.forEach((a) => { a.onTargetFound = onFound; a.onTargetLost = () => {}; });
+
+    $('look').onclick = () => {
+      look.set(!look.on);
+      if (!look.on) { steady.reset(); steadyCaption.reset(); }
+      body.classList.toggle('looking', look.on);
+      $('look').textContent = look.on ? 'Back To The Card' : 'Look Around It';
+    };
+
+    body.dataset.screen = 'scan';
+
+    /* The tracker throws from inside its own callbacks rather than out
+       of start(), so a plain await would leave the spinner up for ever
+       on a device it cannot run on. Listen for the escape, and give up
+       on the clock as well in case it neither starts nor throws. */
+    await new Promise((resolve, reject) => {
+      let done = false;
+      const settle = (err) => {
+        if (done) return;
+        done = true;
+        window.removeEventListener('error', onErr);
+        window.removeEventListener('unhandledrejection', onRej);
+        clearTimeout(timer);
+        err ? reject(err) : resolve();
+      };
+      const onErr = (e) => settle(e.error || new Error(e.message || 'tracking failed'));
+      const onRej = (e) => settle(e.reason instanceof Error ? e.reason : new Error(String(e.reason)));
+      const timer = setTimeout(() => settle(new Error('The tracker did not start within 25 seconds.')), 25000);
+      window.addEventListener('error', onErr);
+      window.addEventListener('unhandledrejection', onRej);
+      mindar.start().then(() => settle(null), settle);
+    });
+    body.classList.remove('loading');
+
+    const hud = location.search.indexOf('debug') > -1 ? $('hud') : null;
+    if (hud) {
+      hud.hidden = false;
+      /* A phone cannot easily get this out of the page, and a
+         screenshot is the one thing that always works — but offer the
+         clipboard too, since it is one tap. */
+      hud.onclick = async () => {
+        try {
+          await navigator.clipboard.writeText(hud.textContent + '\n' + navigator.userAgent);
+          hud.style.color = '#7f7';
+          setTimeout(() => { hud.style.color = ''; }, 1200);
+        } catch (e) { /* screenshot it instead */ }
+      };
+    }
+    let frames = 0, hudAt = 0, broke = null;
+
+    renderer.setAnimationLoop(() => {
+      /* three.js asks for the next frame only after this returns, so
+         anything thrown in here stops the loop for good and the canvas
+         freezes on whatever was last drawn. Nothing in a single frame
+         is worth that, so a bad one is noted and skipped. */
+      try {
+        const now = performance.now();
+        frames++;
+        if (look.on) look.tick();
+        else { steady(now); steadyCaption(now); }
+        if (con && con.userData.tick) con.userData.tick(now);
+        live.tick(now);
+        renderer.render(scene, camera);
+
+        if (hud && now - hudAt > 250) {
+          hudAt = now;
+          const t = steady.state();
+          const v = $('ar').querySelector('video');
+          hud.textContent =
+            'frames ' + frames + '  fps ' + Math.round(frames / (now / 1000)) + '\n' +
+            'camera ' + (v && v.videoWidth ? v.videoWidth + 'x' + v.videoHeight : '?') +
+              '  target v' + TARGET_V + ' ' + (targetBytes > 0 ? Math.round(targetBytes / 1024) + 'k' : '?') + '\n' +
+            'anchor ' + (t.anchor ? 'SEEN#' + t.which : '----') + '  showing ' + (t.started ? 'yes' : 'no') + '\n' +
+            'fade   ' + t.fade.toFixed(2) + '  scale ' + (isFinite(t.scale) ? t.scale.toFixed(1) : String(t.scale)) + '\n' +
+            'jitter ' + (t.jitter * 1000).toFixed(1) + ' (per 1000 of card width)\n' +
+            'bad poses skipped ' + t.skipped + '\n' +
+            'look   ' + (look.on ? 'on' : 'off') +
+            (broke ? '\nERROR ' + broke : '');
+        }
+      } catch (e) {
+        if (!broke) broke = String((e && e.message) || e).slice(0, 120);
+      }
+    });
+  } catch (e) {
+    const msg = String((e && e.name) || '') + ' ' + String((e && e.message) || e);
+    const denied = /denied|NotAllowed|Permission/i.test(msg);
+    unsupported(denied
+      ? 'The camera was turned down. Allow camera access for deepkids.in in your browser settings and have another go.'
+      : 'The tracking could not start on this device. It needs a phone from the last few years with hardware acceleration on.',
+      msg + ' · ' + capability().renderer);
+    await stop();
+  }
+}
+
+
+async function stop() {
+  if (look) { look.off(); look = null; }
+  body.classList.remove('looking');
+  $('look').textContent = 'Look Around It';
+  if (!mindar) return;
+  try { mindar.renderer.setAnimationLoop(null); await mindar.stop(); } catch (e) {}
+  try { mindar.renderer.dispose(); } catch (e) {}
+  $('ar').innerHTML = '';
+  mindar = null;
+}
+
+$('close').addEventListener('click', async () => {
+  await stop();
+  body.classList.remove('found', 'loading');
+  body.dataset.screen = 'pick';
+});
+window.addEventListener('pagehide', stop);
+</script>
+
+<script src="/track.js?v=15" defer></script>
+</body>
+</html>

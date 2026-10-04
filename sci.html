@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SCI. Scientist Trading Cards &mdash; Science Card Game For Kids 7&ndash;14 | DeepKids</title>
+  <meta name="description" content="SCI. is a card game for kids aged 7 to 14: 42 hand-drawn scientist trading cards, each carrying the ideas a scientist contributed, the fundamental truth underneath, and where a child meets that truth in everyday life. Four ways to play. Free delivery across India."/>
+  <link rel="canonical" href="https://deepkids.in/sci"/>
+  <meta property="og:title" content="SCI. &mdash; Scientist Trading Cards, A Science Card Game For Kids"/>
+  <meta property="og:description" content="Pokémon have cards. Why not scientists? 42 hand-drawn cards, four ways to play, and real science on every one. Ages 7–14."/>
+  <meta property="og:image" content="https://deepkids.in/sci-box-front.webp"/>
+  <meta property="og:url" content="https://deepkids.in/sci"/>
+  <meta property="og:type" content="website"/>
+  <meta name="theme-color" content="#0a0618"/>
+  <link rel="icon" href="/favicon.ico" sizes="any"/>
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+  <!-- Internal-traffic kill switch (same as the rest of the site): ?notrack / ?track -->
+  <script>
+    window._egNoTrack = (function(){
+      try {
+        var q = new URLSearchParams(location.search);
+        if (q.has('notrack')) localStorage.setItem('eg-notrack', '1');
+        if (q.has('track')) localStorage.removeItem('eg-notrack');
+        return localStorage.getItem('eg-notrack') === '1';
+      } catch(e) { return false; }
+    })();
+    window.egGtag = function(){ if (typeof gtag === 'function') gtag.apply(null, arguments); };
+    window.egFbq  = function(){ if (typeof fbq  === 'function') fbq.apply(null, arguments); };
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYJLZ0FVJE"></script>
+  <script>
+    if (!window._egNoTrack) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GYJLZ0FVJE');
+      gtag('config', 'AW-18110551284');
+    }
+  </script>
+  <script>
+    if (!window._egNoTrack) (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window,document,"clarity","script","xc1qgqypu0");
+  </script>
+  <script>
+    if (!window._egNoTrack) {
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+    (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1960497127528559');
+    fbq('track', 'PageView');
+    fbq('trackCustom', 'SciLaunchView');
+    }
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1960497127528559&ev=PageView&noscript=1" alt=""/></noscript>
+
+  <link rel="preload" href="norwester.ttf" as="font" type="font/ttf" crossorigin/>
+  <link rel="preload" href="fonts/futura-book.otf" as="font" type="font/opentype" crossorigin/>
+
+  <style>
+    @font-face {
+      font-family: 'Norwester';
+      src: url('norwester.ttf') format('truetype');
+      font-weight: normal; font-style: normal; font-display: swap;
+    }
+    @font-face {
+      font-family: 'Futura';
+      src: url('fonts/futura-book.otf') format('opentype');
+      font-weight: 400; font-style: normal; font-display: swap;
+    }
+    :root {
+      --purple: #aa59c8; --purple-rgb: 170,89,200;
+      --lilac: #cd9edf; --plum: #6b2155;
+      --gold: #ffb300; --gold-rgb: 255,179,0;
+      --bg: #0a0618; --bg2: #120826;
+      --ink: rgba(255,255,255,.85); --ink-dim: rgba(255,255,255,.62);
+      --font-head: 'Norwester', sans-serif;
+      --font-body: 'Futura', 'Segoe UI', sans-serif;
+    }
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      background:
+        radial-gradient(1200px 600px at 50% -100px, rgba(var(--purple-rgb), .16), transparent 65%),
+        linear-gradient(180deg, var(--bg) 0%, var(--bg2) 40%, var(--bg) 100%);
+      color: #fff; font-family: var(--font-body); line-height: 1.65; overflow-x: hidden;
+    }
+    .stars, .stars::after { content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+    .stars {
+      background-image:
+        radial-gradient(1.6px 1.6px at 11% 16%, rgba(255,255,255,.7), transparent),
+        radial-gradient(1.4px 1.4px at 34% 7%,  rgba(255,255,255,.6), transparent),
+        radial-gradient(1.8px 1.8px at 63% 21%, rgba(255,255,255,.65), transparent),
+        radial-gradient(1.4px 1.4px at 85% 12%, rgba(255,255,255,.55), transparent),
+        radial-gradient(1.6px 1.6px at 21% 55%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.4px 1.4px at 76% 48%, rgba(255,255,255,.55), transparent),
+        radial-gradient(1.8px 1.8px at 47% 76%, rgba(255,255,255,.5), transparent),
+        radial-gradient(1.4px 1.4px at 90% 82%, rgba(255,255,255,.5), transparent);
+    }
+    .stars::after {
+      background-image:
+        radial-gradient(2.2px 2.2px at 27% 30%, rgba(255,255,255,.9), transparent),
+        radial-gradient(2px 2px at 71% 9%,  rgba(255,255,255,.85), transparent),
+        radial-gradient(2.4px 2.4px at 55% 44%, rgba(255,255,255,.8), transparent),
+        radial-gradient(2px 2px at 14% 71%, rgba(255,255,255,.8), transparent),
+        radial-gradient(2.2px 2.2px at 88% 64%, rgba(255,255,255,.85), transparent);
+      animation: twinkle 4.5s ease-in-out infinite;
+    }
+    @keyframes twinkle { 0%,100% { opacity: .95; } 50% { opacity: .35; } }
+
+    main, nav, footer { position: relative; z-index: 1; }
+    h1, h2, h3 { font-family: var(--font-head); font-weight: normal; font-variant: small-caps; line-height: 1.06; }
+    img { max-width: 100%; height: auto; display: block; }
+    a { color: var(--lilac); }
+    .wrap { max-width: 1060px; margin: 0 auto; padding-inline: clamp(20px, 5vw, 44px); }
+
+    /* Nav */
+    .nav {
+      position: sticky; top: 0; z-index: 50;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 10px clamp(18px, 5vw, 40px);
+      background: rgba(10,6,24,.82); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(var(--purple-rgb), .22);
+    }
+    .nav-logo { font-family: var(--font-head); font-variant: small-caps; font-size: clamp(17px, 2.4vw, 21px); color: #fff; text-decoration: none; letter-spacing: .5px; }
+    .nav-logo b { color: var(--purple); font-weight: normal; }
+    .nav-logo { display:inline-flex; }
+    .eg-nav-right { display: flex; align-items: center; gap: clamp(6px, 1.4vw, 14px); }
+    .eg-nav-menu-btn {
+      display: flex; flex-direction: column; justify-content: center; gap: 5px;
+      width: 40px; height: 40px; padding: 8px; background: none; border: 0; cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .eg-nav-menu-btn span { display: block; height: 2px; width: 100%; border-radius: 2px;
+      background: #cd9edf; transition: transform .3s ease, opacity .2s ease; }
+    .eg-nav-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .eg-nav-menu-btn.open span:nth-child(2) { opacity: 0; }
+    .eg-nav-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    /* Hero */
+    .hero { padding-block: clamp(40px, 7vh, 76px) clamp(28px, 4vh, 44px); text-align: center; }
+    .kicker {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-size: clamp(11px, 1.4vw, 13px); letter-spacing: 3px; text-transform: uppercase;
+      color: var(--gold); border: 1px solid rgba(var(--gold-rgb), .4); border-radius: 999px;
+      padding: 6px 16px; margin-bottom: 20px;
+      background: linear-gradient(180deg, rgba(var(--gold-rgb), .12), rgba(var(--gold-rgb), .03));
+    }
+    .brand {
+      font-size: clamp(64px, 15vw, 150px); line-height: .9; letter-spacing: 2px;
+      background: linear-gradient(180deg, #e9c6f7, var(--lilac) 55%, var(--purple));
+      -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 60px rgba(var(--purple-rgb), .4);
+    }
+    .brand-dot { color: var(--gold); -webkit-text-fill-color: var(--gold); }
+    /* A paragraph now, not an h2 — the SCI. wordmark above it is the
+       page h1 — so it asks for the heading face by name. */
+    .hero .sub-name {
+      font-family: var(--font-head); font-variant: small-caps;
+      font-size: clamp(17px, 3.1vw, 27px); color: #fff; letter-spacing: 1px; margin-top: 2px;
+      text-shadow: 0 0 22px rgba(var(--purple-rgb), .45);
+    }
+
+    /* Section shell — uniform vertical rhythm across every section */
+    section { padding-block: clamp(40px, 6vh, 64px); }
+    .sec-kicker { display: block; text-align: center; font-size: clamp(11px, 1.3vw, 12.5px); letter-spacing: 4px; text-transform: uppercase; color: var(--gold); margin-bottom: 10px; }
+    .sec-h { text-align: center; font-size: clamp(25px, 4.6vw, 40px); margin-bottom: clamp(24px, 4vh, 42px); text-shadow: 0 0 26px rgba(var(--purple-rgb), .45); }
+    .sec-h em { font-style: normal; color: var(--lilac); }
+
+    /* Concept pillars */
+/* Flex, not a grid: with five cards an auto-fit grid leaves the fifth
+       alone at the left of its own row. Wrapping and centring puts the
+       remainder in the middle, whatever the count. */
+    .pillars { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; }
+    .pillar {
+      flex: 1 1 260px; max-width: 340px;
+      background: linear-gradient(170deg, rgba(var(--purple-rgb), .13), rgba(255,255,255,.025) 60%);
+      border: 1px solid rgba(var(--purple-rgb), .32); border-radius: 18px; padding: 26px 22px;
+    }
+    .pillar .ico { font-size: 30px; margin: 0 0 12px; }
+    .pillar h3 { font-size: 20px; color: #fff; margin-bottom: 8px; letter-spacing: .5px; }
+    .pillar p { font-size: 14.5px; color: var(--ink-dim); }
+
+    /* Sample cards */
+    .cards-row { display: flex; gap: clamp(26px, 6vw, 40px); justify-content: center; flex-wrap: wrap; }
+    .card-fig { width: min(330px, 84vw); }
+    .flip { position: relative; aspect-ratio: 760 / 1027; perspective: 1400px; cursor: pointer; outline: none; }
+    .flip-inner { position: absolute; inset: 0; transform-style: preserve-3d; transition: transform .65s cubic-bezier(.2,.75,.2,1); }
+    .flip.flipped .flip-inner { transform: rotateY(180deg); }
+    .flip-face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border-radius: 15px; overflow: hidden; box-shadow: 0 22px 48px rgba(0,0,0,.55); }
+    .flip-back { transform: rotateY(180deg); }
+    .flip-face img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .flip:focus-visible { outline: 2px solid var(--lilac); outline-offset: 4px; border-radius: 15px; }
+    .flip-hint {
+      position: absolute; bottom: 9px; left: 50%; transform: translateX(-50%);
+      font-family: var(--font-body); font-size: 11px; letter-spacing: .3px; color: #fff;
+      background: rgba(0,0,0,.55); padding: 4px 11px; border-radius: 999px; pointer-events: none;
+      z-index: 2; transition: opacity .3s ease; white-space: nowrap;
+    }
+    .flip.flipped .flip-hint { opacity: .55; }
+    .card-cap { text-align: center; margin-top: 16px; font-family: var(--font-head); font-variant: small-caps; letter-spacing: 1px; color: #fff; font-size: 18px; }
+    .card-cap small { display: block; font-family: var(--font-body); font-variant: normal; letter-spacing: 0; text-transform: none; color: var(--ink-dim); font-size: 13px; margin-top: 3px; }
+
+    .lede { max-width: 680px; margin: 0 auto; text-align: center; color: var(--ink); font-size: clamp(15px, 2vw, 17px); }
+    .lede-line { display: block; }
+    .lede-line + .lede-line { margin-top: .3em; }
+    .lede-gap { margin-top: 1em !important; }
+    .lede b { color: #fff; }
+
+    footer { text-align: center; padding: 30px 16px 46px; font-size: 13px; color: rgba(255,255,255,.5); }
+    footer a { margin: 0 8px; color: rgba(255,255,255,.65); }
+
+    /* Scroll reveal */
+    .rv { opacity: 0; transform: translateY(22px); transition: opacity .7s ease, transform .7s ease; }
+    .rv.in { opacity: 1; transform: none; }
+    .rv2 { transition-delay: .1s; } .rv3 { transition-delay: .2s; }
+    @media (prefers-reduced-motion: reduce) {
+      .stars::after { animation: none !important; }
+      .rv { opacity: 1; transform: none; transition: none; }
+      html { scroll-behavior: auto; }
+    }
+
+    /* Floating WhatsApp + "get X off" cue */
+    .eg-wa {
+      position: fixed; right: 18px; bottom: 18px; z-index: 900;
+      width: 56px; height: 56px; border-radius: 50%;
+      display: none; align-items: center; justify-content: center; background: #25D366;
+      box-shadow: 0 6px 20px rgba(0,0,0,.45); animation: eg-wa-pulse 2.6s ease-out infinite; transition: transform .15s ease;
+    }
+    .eg-wa:hover { transform: scale(1.08); }
+    .eg-wa svg { width: 30px; height: 30px; display: block; }
+    @keyframes eg-wa-pulse {
+      0% { box-shadow: 0 6px 20px rgba(0,0,0,.45), 0 0 0 0 rgba(37,211,102,.45); }
+      70% { box-shadow: 0 6px 20px rgba(0,0,0,.45), 0 0 0 14px rgba(37,211,102,0); }
+      100% { box-shadow: 0 6px 20px rgba(0,0,0,.45), 0 0 0 0 rgba(37,211,102,0); }
+    }
+    .eg-wa-cue {
+      position: fixed; right: 84px; bottom: 30px; z-index: 900; cursor: pointer;
+      background: #fff; color: #0a0618; font-family: var(--font-body); font-size: 13px; font-weight: 600;
+      padding: 8px 13px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,.4); white-space: nowrap;
+      opacity: 0; transform: translateX(8px); pointer-events: none;
+      transition: opacity .4s ease, transform .4s ease;
+    }
+    .eg-wa-cue.visible { opacity: 1; transform: none; pointer-events: auto; animation: eg-cue-dance 3.6s ease-in-out .45s infinite; }
+    @keyframes eg-cue-dance {
+      0% { transform: rotate(0) scale(1); }
+      4% { transform: rotate(-6deg) scale(1.05); }
+      9% { transform: rotate(6deg) scale(1.05); }
+      14% { transform: rotate(-4deg) scale(1.02); }
+      19% { transform: rotate(4deg) scale(1.02); }
+      24% { transform: rotate(0) scale(1); }
+      100% { transform: rotate(0) scale(1); }
+    }
+    .eg-wa-cue::after { content: ''; position: absolute; right: -6px; top: 50%; transform: translateY(-50%); border: 6px solid transparent; border-left-color: #fff; border-right: 0; }
+    .eg-wa-cue b { color: var(--plum); }
+    @media (max-width: 760px) { .eg-wa { bottom: 20px; right: 14px; } .eg-wa-cue { bottom: 32px; right: 80px; } }
+    @media (prefers-reduced-motion: reduce) { .eg-wa, .eg-wa-cue.visible { animation: none; } }
+  </style>
+  <meta name="keywords" content="card games for kids, science card game, trading cards for kids, science games for kids, educational games, educational games for kids, scientist trading cards, science for kids 7 to 14, gifts for kids, SCI., DeepKids"/>
+  <meta name="robots" content="index, follow"/>
+  <meta property="og:site_name" content="DeepKids"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="SCI. &mdash; Scientist Trading Cards, A Science Card Game For Kids"/>
+  <meta name="twitter:description" content="Pokémon have cards. Why not scientists? 42 hand-drawn cards, four ways to play, and real science on every one. Ages 7–14."/>
+  <meta name="twitter:image" content="https://deepkids.in/sci-box-front.webp"/>
+  <meta name="author" content="DeepKids"/>
+  <!-- Structured data: what this page is, for search engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SCI. Scientist Trading Cards",
+    "description": "A card game for kids aged 7 to 14: 42 hand-drawn scientist trading cards, each carrying the ideas a scientist contributed, the fundamental truth their work points to, and where that truth is found in everyday life. Four ways to play.",
+    "image": "https://deepkids.in/sci-box-front.webp",
+    "brand": {
+      "@type": "Brand",
+      "name": "DeepKids"
+    },
+    "category": "Card games for kids",
+    "audience": {
+      "@type": "PeopleAudience",
+      "suggestedMinAge": 7,
+      "suggestedMaxAge": 14
+    },
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cards",
+        "value": "42"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Ways to play",
+        "value": "4"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Game Type",
+        "value": "Educational card game"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Subject",
+        "value": "Science, scientists, history of ideas"
+      }
+    ],
+    "keywords": "card games for kids, science card game, trading cards for kids, educational games, science games for kids",
+    "url": "https://deepkids.in/sci",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://deepkids.in/sci",
+      "priceCurrency": "INR",
+      "price": "1019",
+      "priceValidUntil": "2026-12-31",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "seller": {
+        "@type": "Organization",
+        "name": "DeepKids",
+        "url": "https://deepkids.in"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "0",
+          "currency": "INR"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "IN"
+        }
+      }
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Shop",
+        "item": "https://deepkids.in/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "SCI. Scientist Trading Cards",
+        "item": "https://deepkids.in/sci"
+      }
+    ]
+  }
+  </script>
+</head>
+<body data-dk-product="SCI-001">
+<div class="stars" aria-hidden="true"></div>
+
+<nav class="nav eg-nav">
+  <a class="nav-logo" href="/"><b>Deep</b>Kids</a>
+  <div class="eg-nav-right">
+    <button type="button" class="eg-nav-menu-btn" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<main>
+  <!-- ═══ HERO / ANNOUNCEMENT ═══ -->
+  <section class="hero wrap">
+    <h1 class="brand rv rv2">SCI<span class="brand-dot">.</span></h1>
+    <!-- The name and nothing else. The pitch, the price and the button
+         were all here twice once the product block went in below, so
+         the hero hands straight over to it. -->
+    <p class="sub-name rv rv2">Scientist Trading Cards &mdash; a science card game for kids 7&ndash;14</p>
+  </section>
+
+  <!-- ═══ PRODUCT ═══ -->
+  <style>
+    /* The layout, the gallery and the zoom come from /productblock.js,
+       the same file the EscapeGravity page uses. Only what is
+       particular to this product is here. */
+    #sci-buy { padding-block: clamp(28px, 4vh, 48px) clamp(40px, 6vh, 64px); scroll-margin-top: 80px; }
+    #sci-buy .buy-cta .btn-label { font-size: 16px !important; letter-spacing: 1.6px !important; }
+  </style>
+
+  <section id="sci-buy">
+    <div class="buy-wrap">
+
+      <div class="buy-gal rv" id="sci-gal"></div>
+
+      <div class="buy-info rv">
+        <!-- No title, no strapline: the hero says both a line above,
+             and on a phone every extra row here is one more thing
+             between someone and the button. -->
+        <ul class="buy-tags">
+          <li>42 cards</li><li>Mystery Pack</li><li>Special Gravity Core</li><li>Ages 8 and up</li>
+        </ul>
+
+        <p class="buy-desc">
+          <span class="buy-desc-line">A collectible deck of <b>Scientist Trading Cards</b>.</span>
+          <span class="buy-desc-line">Each card, a scientist &mdash;</span>
+        </p>
+        <ul class="buy-desc-sub">
+          <li><span>The ideas they contributed</span></li>
+          <li><span>The fundamental truth their work points to</span></li>
+          <li><span>Where their idea can be found in everyday life</span></li>
+          <li><span>Their story, and more</span></li>
+        </ul>
+
+        <ul class="buy-points">
+          <li><span>&bull;</span><span>Famous scientists, forgotten scientists, female scientists, controversial scientists, the underdogs &mdash; all are covered.</span></li>
+          <li><span>&bull;</span><span><b>42 cards in a pack</b> &mdash; 25 <b>Mystery Cards</b>, mixed across fields, genders and rarities, and 17 <b>Special Gravity Core</b> cards.</span></li>
+          <li><span>&bull;</span><span>The cosmic body behind each portrait is its <b>rarity</b> &mdash; from a common Mercury to the rarest Black Hole.</span></li>
+          <li><span>&bull;</span><span>Stylised portrait and custom background art that codes information.</span></li>
+          <li><span>&bull;</span><span>Custom, original story art with a point of view.</span></li>
+          <li><span>&bull;</span><span><b>4+ ways to play</b>: era, connections, best total score, best selected score.</span></li>
+          <li><span>&bull;</span><span>Deeply researched.</span></li>
+        </ul>
+
+        <p class="buy-glossary">Every fact, every fundamental truth and every real-life example is checked and re-checked, so what your child learns is genuinely right.</p>
+
+        <div class="buy-price-row">
+          <span class="buy-price"><s>&#8377;1,199</s><b>&#8377;1,019</b></span>
+          <span class="buy-off">Launch offer &middot; 15% off</span>
+        </div>
+        <div class="buy-tax">Inclusive of all taxes &middot; free delivery across India</div>
+
+        <div class="buy-actions">
+          <div class="buy-qty">
+            <button type="button" aria-label="One fewer" data-qty-step="-1">&minus;</button>
+            <b>1</b>
+            <button type="button" aria-label="One more" data-qty-step="1">+</button>
+          </div>
+          <div class="buy-cta-slot">
+            <button type="button" class="buy-cta" data-dk-btn="Add To Cart" data-add="SCI-001" data-qty="1"></button>
+          </div>
+          <button type="button" class="buy-heart" aria-label="Save to wishlist" data-wish="SCI-001">
+            <svg viewBox="0 0 24 24"><path d="M12 20.2 4.6 12.9a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+  /* The box, and both faces of the two cards the page already shows. */
+  (window.dkProductQueue = window.dkProductQueue || []).push({
+    mount: '#sci-gal',
+    badge: 'In stock',
+    shots: [
+      { src: 'sci-box-front.webp', cap: 'The box',
+        alt: 'The SCI. scientist trading cards box — an educational card game and gift for children aged 8 to 13' },
+      { src: 'sci-box-back.webp', cap: 'The box, back',
+        alt: 'The back of the SCI. box — 25 Mystery Pack cards plus 17 Special Gravity Core cards, and what sits on every card: the portrait, the rarity halo, the contribution, the fundamental truth and the scores to play with' },
+      { src: 'sci-brahmagupta-front.webp', cap: 'Brahmagupta, front',
+        alt: 'Brahmagupta scientist trading card, front — hand-drawn portrait of the Indian mathematician who gave zero its rules' },
+      { src: 'sci-brahmagupta-back.webp', cap: 'Brahmagupta, back',
+        alt: 'Back of the Brahmagupta card — his discovery, the truth underneath it, and where a child meets that truth in everyday life' },
+      { src: 'sci-noether-front.webp', cap: 'Emmy Noether, front',
+        alt: 'Emmy Noether scientist trading card, front — hand-drawn portrait of the mathematician behind symmetry and conservation laws' },
+      { src: 'sci-noether-back.webp', cap: 'Emmy Noether, back',
+        alt: 'Back of the Emmy Noether card — her discovery explained for children, and where the science shows up around them' }
+    ]
+  });
+  </script>
+
+  <!-- ═══ COLLECTIBLE HOOK ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">Collectible Scientists Trading Cards</span>
+    <h2 class="sec-h rv">Pokémon Have Cards. <em>Why Not Scientists?</em></h2>
+    <p class="lede rv">
+      <span class="lede-line">Kids collect Pokémon, footballers, cricketers, superheroes.</span>
+      <span class="lede-line">So why not those who have realised aspects of how the universe works?</span>
+      <span class="lede-line lede-gap"><b>SCI. is a collectible deck of Scientist Trading Cards</b> — chase them, swap them, complete the set.</span>
+    </p>
+  </section>
+
+  <!-- ═══ THE CONCEPT ═══ -->
+  <section class="wrap" id="layers">
+    <span class="sec-kicker rv">What makes a SCI. card different</span>
+    <h2 class="sec-h rv">SCI. Cards Are A <em>Treasure Trove</em></h2>
+    <div class="pillars">
+      <div class="pillar rv">
+        <div class="ico">🔭</div>
+        <h3>The Discovery</h3>
+        <p>The breakthrough each scientist is remembered for — told like a story a kid actually remembers, not a date to memorise.</p>
+      </div>
+      <div class="pillar rv rv2">
+        <div class="ico">💡</div>
+        <h3>The Fundamental Truth</h3>
+        <p>The deeper law of nature underneath the discovery — the real <em>why</em> it matters, not a textbook definition.</p>
+      </div>
+      <div class="pillar rv rv3">
+        <div class="ico">🌍</div>
+        <h3>Where You Live It</h3>
+        <p>Where that truth shows up in everyday life — so your child starts spotting the science in the world around them, not just on the card.</p>
+      </div>
+      <div class="pillar rv">
+        <div class="ico">🎨</div>
+        <h3>Portrait &amp; Coded Background</h3>
+        <p>A stylised portrait of the scientist, on a custom background that codes their field, their era and the shape of their idea — the art carries information, not just atmosphere.</p>
+      </div>
+      <div class="pillar rv rv2">
+        <div class="ico">📖</div>
+        <h3>Story Art With A Point Of View</h3>
+        <p>Original art for the story on the back — drawn to say something about what happened and who it happened to, rather than to decorate the page.</p>
+      </div>
+    </div>
+    <p class="lede rv" style="margin-top:28px;">That's the whole idea: <b>science you can identify and experience</b> — not facts you file away and forget.</p>
+  </section>
+
+  <!-- ═══ SAMPLE CARDS (tap to flip front ↔ back) ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">First from the deck</span>
+    <h2 class="sec-h rv">Meet The <em>First Two</em></h2>
+    <p class="lede rv" style="margin:-18px auto 30px; color: var(--ink-dim); font-size: 14px;">Tap a card to flip it — the back reveals the web of scientists it touches, and where you spot it in real life.</p>
+    <div class="cards-row">
+      <figure class="card-fig rv">
+        <div class="flip" tabindex="0" role="button" aria-label="Flip the Brahmagupta card to see its back"
+             data-card="Brahmagupta"
+             onclick="sciFlipCard(this)"
+             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();sciFlipCard(this);}">
+          <div class="flip-inner">
+            <div class="flip-face flip-front"><img src="sci-brahmagupta-front.webp" alt="Brahmagupta scientist trading card, front — hand-drawn portrait of the Indian mathematician who gave zero its rules" loading="lazy" width="760" height="1027"></div>
+            <div class="flip-face flip-back"><img src="sci-brahmagupta-back.webp" alt="Back of the Brahmagupta card — his discovery, the truth underneath it, and where a child meets that truth in everyday life" loading="lazy" width="760" height="1027"></div>
+          </div>
+          <span class="flip-hint">tap to flip ⟲</span>
+        </div>
+        <figcaption class="card-cap">Brahmagupta<small>Zero, negatives &amp; the rules that run all of maths</small></figcaption>
+      </figure>
+      <figure class="card-fig rv rv2">
+        <div class="flip" tabindex="0" role="button" aria-label="Flip the Emmy Noether card to see its back"
+             data-card="Emmy Noether"
+             onclick="sciFlipCard(this)"
+             onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();sciFlipCard(this);}">
+          <div class="flip-inner">
+            <div class="flip-face flip-front"><img src="sci-noether-front.webp" alt="Emmy Noether scientist trading card, front — hand-drawn portrait of the mathematician behind symmetry and conservation laws" loading="lazy" width="760" height="1027"></div>
+            <div class="flip-face flip-back"><img src="sci-noether-back.webp" alt="Back of the Emmy Noether card — her discovery explained for children, and where the science shows up around them" loading="lazy" width="760" height="1027"></div>
+          </div>
+          <span class="flip-hint">tap to flip ⟲</span>
+        </div>
+        <figcaption class="card-cap">Emmy Noether<small>Why symmetry is the reason energy is conserved</small></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ═══ RARITY ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">Common to legendary</span>
+    <h2 class="sec-h rv">Every Card Has A <em>Rarity</em></h2>
+    <p class="lede rv">See the glowing world behind each scientist — a distant planet, a blazing sun, a whole galaxy? That's not just art. <b>The cosmic body behind the portrait marks how rare the card is.</b> The brighter it burns, the harder it is to pull — and the more collectors will want it. Some scientists are common finds. A few are legendary.</p>
+  </section>
+
+  <!-- ═══ WAYS TO PLAY ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">Not just a collection</span>
+    <h2 class="sec-h rv">More Than One <em>Way To Play</em></h2>
+    <div class="pillars">
+      <div class="pillar rv"><div class="ico">⏳</div><h3>Era</h3><p>Line your scientists up across history — whose breakthrough came first, and who stood on whose shoulders?</p></div>
+      <div class="pillar rv rv2"><div class="ico">🔗</div><h3>Connections</h3><p>The back of every card is a web of who influenced whom. Link the scientists who inspired each other into a chain.</p></div>
+      <div class="pillar rv"><div class="ico">🏆</div><h3>Best Total Score</h3><p>Add up each card's stats — the highest combined score takes the round.</p></div>
+      <div class="pillar rv rv2"><div class="ico">🎯</div><h3>Best Selected Score</h3><p>Pick your strongest hand and go head-to-head on the stats you choose.</p></div>
+    </div>
+  </section>
+
+  <!-- ═══ ART & RESEARCH ═══ -->
+  <section class="wrap">
+    <span class="sec-kicker rv">Made by hand, backed by research</span>
+    <h2 class="sec-h rv">Hand-Drawn. <em>Deeply Researched.</em></h2>
+    <div class="pillars">
+      <div class="pillar rv"><div class="ico">🎨</div><h3>100% Hand-Drawn</h3><p>Every portrait and border is original hand-drawn art — no AI, no stock, no shortcuts. Each card is its own tiny painting.</p></div>
+      <div class="pillar rv rv2"><div class="ico">📚</div><h3>Deeply Researched</h3><p>Every fact, every fundamental truth, every real-life example is checked and re-checked — so what your child learns is genuinely right.</p></div>
+      <div class="pillar rv"><div class="ico">🫡</div><h3>Giants &amp; Underdogs</h3><p>The famous names <em>and</em> the forgotten ones — the sidelined, the uncredited, the written out of the textbook. Bias-free, across centuries, countries and genders.</p></div>
+    </div>
+  </section>
+
+  <!-- ═══ THE OTHER BOOK ═══ -->
+  <section>
+    <div class="dkx rv">
+      <span class="dkx-badge">🎉 Out Now</span>
+      <span class="dkx-title"><b>The Story Of Evolution</b> &mdash; Picture Book</span>
+      <span class="dkx-sub">Printed, in stock and ready to buy. Four billion years as one continuous story, hand-painted across 51 spreads &mdash; from the very first RNA to the species disappearing under our noses right now.</span>
+      <a class="dkx-go" href="/evolution">Buy The Book</a>
+      <span class="dkx-price"><s>₹2,499</s> <b>₹2,124</b> &middot; 15% off</span>
+    </div>
+  </section>
+
+</main>
+
+
+
+<!-- Floating WhatsApp + "get X off" cue -->
+<div class="eg-wa-cue" id="eg-wa-cue">Get <b>₹200 off</b> on WhatsApp</div>
+<a id="eg-wa" class="eg-wa" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">
+  <svg viewBox="0 0 32 32" fill="none"><path d="M16 3C9.4 3 4 8.3 4 14.9c0 2.3.7 4.5 1.9 6.4L4 29l7.9-1.8c1.8 1 3.9 1.5 6 1.5 6.6 0 12-5.3 12-11.9S22.6 3 16 3z" fill="#fff"/><path d="M12.6 9.5c-.3-.6-.6-.6-.8-.6h-.7c-.2 0-.6.1-.9.4-.3.3-1.2 1.1-1.2 2.8 0 1.6 1.2 3.2 1.4 3.4.2.2 2.4 3.8 5.9 5.2 2.9 1.2 3.5 1 4.2.9.6-.1 2-.8 2.3-1.6.3-.8.3-1.5.2-1.6-.1-.1-.3-.2-.6-.4l-2.3-1.1c-.3-.1-.5-.2-.8.2-.2.3-.9 1.1-1 1.3-.2.2-.4.3-.7.1-.3-.2-1.3-.5-2.5-1.6-.9-.8-1.6-1.9-1.7-2.2-.2-.3 0-.5.1-.6l.5-.6c.2-.2.2-.3.3-.6.1-.2.1-.4 0-.6l-1-2.4z" fill="#25D366"/></svg>
+</a>
+
+<script>
+  /* Flip a SCI card and report which card (and which side it landed on). */
+  function sciFlipCard(el) {
+    el.classList.toggle('flipped');
+    var card = el.getAttribute('data-card') || 'unknown';
+    var side = el.classList.contains('flipped') ? 'back' : 'front';
+    egGtag('event', 'card_flip', {
+      event_category: 'engagement',
+      event_label: card,        // visible in GA4 with no extra setup
+      card_name: card,
+      card_side: side
+    });
+    egFbq('trackCustom', 'CardFlip', { card_name: card, card_side: side });
+  }
+
+  /* ── Config ── */
+  var EG_WA_NUMBER = '919739815506';
+  var EG_WA_OFFER  = '₹200 off';
+
+  /* ── Floating WhatsApp button + offer cue ── */
+  (function(){
+    var btn = document.getElementById('eg-wa');
+    var cue = document.getElementById('eg-wa-cue');
+    if (!btn || !EG_WA_NUMBER) return;
+    btn.href = 'https://wa.me/' + EG_WA_NUMBER + '?text=' +
+      encodeURIComponent("Hi! I'd like my " + EG_WA_OFFER + " on the SCI. cards 🙂");
+    btn.style.display = 'flex';
+    btn.addEventListener('click', function(){
+      egGtag('event', 'whatsapp_click', { event_category: 'engagement', event_label: 'sci' });
+      egFbq('track', 'Contact');
+    });
+    if (!cue) return;
+    cue.innerHTML = 'Get <b>' + EG_WA_OFFER + '</b> on WhatsApp';
+    // Cue shows the FIRST time only after the user scrolls past the hero,
+    // then pulses on a show/hide cycle (later cycles may land on the hero too).
+    var SHOW_MS = 6000, HIDE_MS = 15000, started = false;
+    function show(){ cue.classList.add('visible'); setTimeout(hide, SHOW_MS); }
+    function hide(){ cue.classList.remove('visible'); setTimeout(show, HIDE_MS); }
+    function onScroll(){
+      if (!started && window.scrollY > window.innerHeight * 0.85) {
+        started = true; show(); window.removeEventListener('scroll', onScroll);
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    cue.addEventListener('click', function(){
+      egGtag('event', 'whatsapp_click', { event_category: 'engagement', event_label: 'sci_cue' });
+      egFbq('track', 'Contact');
+      window.open(btn.href, '_blank');
+      cue.classList.remove('visible');
+    });
+  })();
+
+  /* ── Scroll reveals ── */
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function(es){
+      es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+    document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
+  } else {
+    document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); });
+  }
+</script>
+
+<!-- ═══ Cross-sell nudge: the next title, once per device ═══ -->
+<script>
+(window.dkNudgeQueue = window.dkNudgeQueue || []).push({
+  key:   'evo-from-sci',
+  badge: 'Out now',
+  title: 'The Story Of Evolution',
+  sub:   'Printed, in stock and ready to buy. Four billion years as one continuous story, hand-painted across 51 spreads &mdash; from the very first RNA to the species disappearing under our noses right now.',
+  img:   'more-evo-4.webp',
+  alt:   'A predatory dinosaur hunting in shallow water, hand-painted for The Story Of Evolution Of Life',
+  href:  '/evolution', cta: 'Buy The Book',
+  note:  '<s>₹2,499</s> <b>₹2,124</b> · 15% off'
+});
+</script>
+  <script src="/header.js?v=15" defer></script>
+  <script src="/dkbtn.js?v=15" defer></script>
+  <script src="/productblock.js?v=15" defer></script>
+  <script src="/nudge.js?v=15" defer></script>
+  <script src="/track.js?v=15" defer></script>
+  <script src="/cart.js?v=15" defer></script>
+  <script src="/checkout.js?v=15" defer></script>
+  <script src="/footer.js?v=15" defer></script>
+  <script src="/menu.js?v=15" defer></script>
+</body>
+</html>
