@@ -241,6 +241,16 @@ not yet been run against a real card in a real hand. To launch it,
 confirm it on a phone, then set `robots` to `index, follow` in
 `index.html`, add `/ar` to `sitemap.xml`, and link it from `/sci`.
 
+### The jitter number
+
+Every filter setting here was chosen against a *guess* at how noisy the
+tracker's pose is. `/ar/?debug` now measures it instead: `jitter` is
+how far the raw pose jumps between frames, in thousandths of the card's
+width, averaged over the last 90 frames. Hold the card still and read
+it. Under about 2 is a good target; 5 and up is a target the tracker is
+struggling with, and no amount of filtering will make that feel solid —
+it wants a better source image, not a better filter.
+
 `/ar/?debug` prints what the device reported — WebGL2, float textures,
 the renderer name and the user agent — which is what to send if a
 phone cannot run it. While scanning it also keeps a live readout over

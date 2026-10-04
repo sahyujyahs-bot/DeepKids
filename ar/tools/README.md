@@ -34,8 +34,12 @@ npm install --ignore-scripts mind-ar@1.2.5 @tensorflow/tfjs @napi-rs/canvas
 ## Compiling
 
 ```
-node compile.mjs <card-back.png> ../targets/sci1002.mind
+node compile.mjs ../targets/sci1002.mind <card-back.png> [more-printings.png ...]
 ```
+
+Several sources become several targets in one file; `cards.json` says
+how many with `targets` and the page adds an anchor for each, so one
+card can be recognised in more than one printing.
 
 Takes about 25s for a 1140x1540 image. Feed it the **print artwork**
 where possible. A photo works — `sci1002.mind` is currently built from
@@ -47,6 +51,19 @@ it, `crop.py` trims to the orange border and squares up the
 proportions. Check the result by eye before compiling; both lean on
 colour thresholds and will happily hand you the glow around the card
 instead of the card.
+
+**The photo matters more than anything done to it afterwards.** Card
+flat on a plain surface, even light with no glare, camera straight
+above and the card filling the frame, tapped to focus. A frame grabbed
+off a video preview — which is what `sci1002`'s second target is built
+from — is soft at exactly the fine scales the tracker leans on when
+the angle changes, which is why it holds head-on and lets go as soon
+as the phone moves.
+
+Stacking several such frames does not rescue it: aligning them needs
+the detail that is missing, so the homographies come out of five or six
+points and the result is worse than any single frame. Tried, measured,
+not worth repeating. Take one good photo instead.
 
 ## Checking it before anyone has to hold a phone
 
