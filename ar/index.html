@@ -662,6 +662,11 @@ function follower(anchors, stage, onGone, tuning) {
   };
   const prevP = new THREE.Vector3(), prevQ = new THREE.Quaternion();
   let speedP = 0, speedR = 0, primed = false;
+  /* How far the RAW pose jumps between frames, in card-widths. Every
+     filter setting here has been chosen against a guess at this
+     number; the readout turns it into something measured on the phone
+     that actually has the problem. */
+  const jumps = [];
 
   const tick = (now) => {
     const dt = last ? Math.min(now - last, 100) : 16.7;
@@ -690,7 +695,9 @@ function follower(anchors, stage, onGone, tuning) {
         const cw = Math.abs(s.x) || 1;
         /* Speed of the RAW pose, which is what decides how much to
            trust it — measured in card-widths and radians a second. */
-        const rawP = primed ? p.distanceTo(prevP) / cw / dtS : 0;
+        const jump = primed ? p.distanceTo(prevP) / cw : 0;
+        if (primed) { jumps.push(jump); if (jumps.length > 90) jumps.shift(); }
+        const rawP = jump / dtS;
         const rawR = primed ? prevQ.angleTo(q) / dtS : 0;
         const ad = alphaOf(DCUT, dtS);
         speedP += ad * (rawP - speedP);
@@ -718,7 +725,10 @@ function follower(anchors, stage, onGone, tuning) {
   tick.state = () => {
     let which = -1;
     for (let i = 0; i < anchors.length; i++) if (anchors[i].group.visible) { which = i; break; }
-    return { started: started, fade: fade, skipped: skipped,
+    let j = 0;
+    for (let i = 0; i < jumps.length; i++) j += jumps[i] * jumps[i];
+    j = jumps.length ? Math.sqrt(j / jumps.length) : 0;
+    return { started: started, fade: fade, skipped: skipped, jitter: j,
              anchor: which >= 0, which: which, scale: stage.scale.x };
   };
 
@@ -983,8 +993,8 @@ async function start(card) {
          with the hold above into a long slide. warmupTolerance is
          lowered instead, so re-acquiring is quick — which is the half
          of this that actually helps. */
-      missTolerance: 5,
-      warmupTolerance: 3
+      missTolerance: 8,
+      warmupTolerance: 2
     });
 
     /* Fetched here as well as by the tracker so the debug readout can
@@ -1051,7 +1061,7 @@ async function start(card) {
        of the card rather than sitting on it, so the drift this buys is
        not something anyone can see. */
     const steadyCaption = follower(anchors, capStage, null,
-      { key: 'c', pmin: 0.25, pbeta: 0.6, rmin: 0.3, rbeta: 0.3 });
+      { key: 'c', pmin: 0.12, pbeta: 0.3, rmin: 0.15, rbeta: 0.15 });
 
     let hinted = false;
     const onFound = () => {
@@ -1142,6 +1152,7 @@ async function start(card) {
               '  target v' + TARGET_V + ' ' + (targetBytes > 0 ? Math.round(targetBytes / 1024) + 'k' : '?') + '\n' +
             'anchor ' + (t.anchor ? 'SEEN#' + t.which : '----') + '  showing ' + (t.started ? 'yes' : 'no') + '\n' +
             'fade   ' + t.fade.toFixed(2) + '  scale ' + (isFinite(t.scale) ? t.scale.toFixed(1) : String(t.scale)) + '\n' +
+            'jitter ' + (t.jitter * 1000).toFixed(1) + ' (per 1000 of card width)\n' +
             'bad poses skipped ' + t.skipped + '\n' +
             'look   ' + (look.on ? 'on' : 'off') +
             (broke ? '\nERROR ' + broke : '');
