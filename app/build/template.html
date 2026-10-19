@@ -133,6 +133,12 @@ dialog::backdrop{background:rgba(20,12,8,.45)}
 .lvl>.row{flex-wrap:nowrap;justify-content:flex-end}
 .lvl>.row select{flex:1 1 0;min-width:0}
 .lvl>.row select[data-hpd]{flex:0 0 auto}
+
+.joke a,.res a{color:var(--teal)}
+.dayplan{border-top:1px solid var(--line);padding-top:10px}
+.dayplan>summary{cursor:pointer;margin-bottom:8px}
+.step{background:var(--bg);border-radius:10px;padding:10px 12px}
+.step p{margin:4px 0 0}.step ul,.step ol{margin:6px 0 0;padding-left:18px}
 </style>
 
 <header id="hdr"><div class="wrap">
@@ -325,6 +331,44 @@ function sheetsBlock(u){const c=u.c,x=c.x,[title,cols,rows]=x.sheet;
    <div><b>Project: ${esc(c.proj[0])}</b><p style="margin:4px 0 0">${esc(c.proj[1])} <span class="muted">You end up with: ${esc(c.proj[2])}.</span></p></div>
    <div class="res"><b>Curated from leading programmes</b><ul>${x.cur.map(([w,src,url,how])=>`<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(w)}</a> <span class="muted small">· ${esc(src)}</span><br><span class="small">${esc(how)}</span></li>`).join("")}</ul></div></div></details>`}
 
+/* ---------- what to do on day n of a unit ---------- */
+const HINT={math:"Use real things for every problem (coins, beans, rotis, a ruler) before writing anything down.",
+  eng:"Read aloud together, collect new words in a notebook, and ask your child to retell the story in their own words.",
+  hin:"Read aloud in Hindi, collect new words with their meanings, and ask your child to retell it in Hindi.",
+  sci:"Look for the idea in your own home or street before reading about it."};
+function detailFor(u,name){const c=u.c,x=c.x,L=s=>`<ul>${s.map(i=>`<li>${esc(i)}</li>`).join("")}</ul>`;
+  if(/^Read/.test(name))return `<p>Read NCERT ${esc(u.book)}, ${chNo(u)} "${esc(u.title)}" together. Let your child read parts aloud. Stop and talk about:</p>${L([x.think[0]])}`;
+  if(/^What to learn/.test(name))return `<p>Talk through these ideas, using things around you:</p>${L(x.learn)}<p>Then discuss:</p>${L(x.think.slice(1))}<div class="oneness">${esc(x.oneness)}</div>`;
+  if(/^Worksheet/.test(name))return `<ol>${x.ws.map(([h,b])=>`<li><b>${esc(h)}.</b> ${esc(b)}</li>`).join("")}</ol><p class="small muted">Printable version: the Class 3 worksheet pack.</p>`;
+  if(/^Experiment/.test(name))return L(c.exp)+`<p class="small muted">Record it on the activity sheet "${esc(x.sheet[0])}".</p>`;
+  if(/^Activities/.test(name))return L(c.act);
+  if(/^Game/.test(name))return `<p>${esc(c.game[1])}</p>`;
+  if(/^Project/.test(name))return `<p>${esc(c.proj[1])}</p><p class="small muted">You end up with: ${esc(c.proj[2])}. It keeps going in Ongoing experiments until you finish it.</p>`;
+  return "";}
+function dayPlan(u,n,tot){
+  const cap=hpdOf(u.subj);
+  if(u.c?.x?.hours){ // split the chapter's sections into days of about `cap` hours
+    const days=[];let cur=[],left=cap;
+    u.c.x.hours.forEach(([name,h])=>{let rem=h,part=1,parts=Math.ceil(h/cap-1e-9);
+      while(rem>1e-9){const take=Math.min(rem,left);cur.push({name,take,part,parts:Math.max(parts,rem<h?part:1)});rem-=take;left-=take;part++;
+        if(left<1e-9){days.push(cur);cur=[];left=cap}}});
+    if(cur.length)days.push(cur);
+    const parts={};days.flat().forEach(s=>parts[s.name]=Math.max(parts[s.name]||0,s.part));
+    const today=days[Math.min(n,days.length)-1]||[];
+    return `<div class="stack">${today.map(s=>`<div class="step"><div class="row" style="justify-content:space-between"><b>${esc(s.name)}${parts[s.name]>1?` (part ${s.part} of ${parts[s.name]})`:""}</b><span class="chip">${fh(s.take*60)} min</span></div>${detailFor(u,s.name)}</div>`).join("")}</div>`}
+  if(u.board==="dk"){const t=u.topic,k=t.sub.length;
+    if(t.full)return `<p>Follow the full lesson <b>The King's Doubt</b> (cards and parent guide). Today: ${n===1?"the Proclamation, setting your rules, and the first guests":n===tot?"the Nakkeeran challenge, the Sabha verdicts and the treats":"the next investigation cards; check the lotus seeds and crystals"}.</p>`;
+    if(n===1)return `<div class="step"><b>Start with the story</b><p>${esc(t.summary)}</p></div><div class="oneness">${esc(t.oneness)}</div>`;
+    const i=Math.min(k-1,Math.floor((n-2)*k/Math.max(1,tot-1)));
+    return n===tot?`<div class="step"><b>Wrap up</b><p>Ask your child to teach the topic back to you in five minutes. Then talk about:</p><div class="oneness">${esc(t.oneness)}</div></div>`
+      :`<div class="step"><b>Explore</b><p>${esc(t.sub[i])}</p><p class="small muted">${esc(HINT.sci)}</p></div>`}
+  const where=`${esc(u.book)}${chNo(u)?", "+chNo(u):""}: "${esc(u.title)}"`;
+  const steps=n===1?[["Open the chapter",`Read the first part of ${where} together. Ask: what do you think this chapter is about? What do you already know?`],["Try it",HINT[u.subj]]]
+    :n===tot?[["Finish and review",`Do the last activities in ${where}.`],["Teach it back","Your child explains the chapter to you in five minutes, as if you were the student."],["Mark it","If it feels solid, mark the chapter Completed in Topics."]]
+    :[["Continue the chapter",`Carry on in ${where} from where you stopped. Do its activities and exercises together.`],["Hands-on",HINT[u.subj]],["Note what's hard","Write down anything that needs another go tomorrow."]];
+  return `<div class="stack">${steps.map(([h,b])=>`<div class="step"><b>${esc(h)}</b><p>${esc(b)}</p></div>`).join("")}<p class="small muted">A detailed day-by-day lesson for this chapter is being written; for now this is a general plan.</p></div>`;
+}
+
 /* ---------- main views ---------- */
 function viewToday(){
   let h=`<h2>${new Date().toLocaleDateString(undefined,{weekday:"long",day:"numeric",month:"long"})}</h2>`;
@@ -337,9 +381,10 @@ function viewToday(){
     if(!next){h+=`<div class="panel"><div class="small muted">${SUBJ[s]}</div><p style="margin:4px 0 0">Nothing to schedule for this syllabus and level yet.</p></div>`;return}
     if(next.date!==today){h+=`<div class="panel"><div class="small muted">${SUBJ[s]} · next on ${fmt(next.date)}</div><b>${esc(next.u.title)}</b></div>`;return}
     const u=next.u,t=u.topic;
-    h+=`<div class="panel today stack"><div class="small muted">${SUBJ[s]} · ${esc(u.book)}${chNo(u)?" · "+chNo(u):""} · session ${next.n} of ${next.tot}</div><h3>${esc(u.title)}</h3>
+    h+=`<div class="panel today stack"><div class="small muted">${SUBJ[s]} · ${esc(u.book)}${chNo(u)?" · "+chNo(u):""} · day ${next.n} of ${next.tot}</div><h3>${esc(u.title)}</h3>
+      <details class="dayplan" data-id="plan-${u.k}" open><summary><b>Today's plan</b> <span class="small muted">· about ${fh(hpdOf(s))} h</span></summary>${dayPlan(u,next.n,next.tot)}</details>
       ${t?`<p style="margin:0">${esc(t.summary.split(". ").slice(0,2).join(". "))}.</p><div class="oneness">${esc(t.oneness)}</div>${t.full?`<div><span class="badge">Full lesson and game ready</span> <span class="small muted">The King's Doubt</span></div>`:""}`:""}
-      ${u.c?.x?`<p class="small muted" style="margin:0">What to learn, where to find it and today's sheets are below.</p>`:""}
+      ${u.c?.x?`<p class="small muted" style="margin:0">The whole chapter (what to learn, worksheet, games, project) is below.</p>`:""}
       <div class="row"><button class="btn primary" data-act="did" data-k="${u.k}">We did it</button><button class="btn quiet" data-act="skip" data-s="${s}">Not today</button></div></div>`});
   h+=`<div class="row"><button class="btn" data-act="free">We explored something else</button></div></div>`;
   if(du){h+=`<h2>${du.when===today?"Today's science":"Science up next"}</h2>${learnBlock(du.u)}${sheetsBlock(du.u)}<h2>Daily games</h2><div class="stack">${wordGame(du.u)}${tfGame(du.u)}${oddGame(du.u)}</div>`}
