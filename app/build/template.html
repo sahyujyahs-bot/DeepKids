@@ -1,0 +1,284 @@
+<title>DeepKids Home Planner</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Outfit:wght@400;500;700&display=swap">
+<style>
+/* Layout: one column, sticky header with tabs; palm-leaf paper, temple vermilion, turmeric and peacock teal from the DeepKids game */
+:root{
+  --bg:#F6EEDA; --surface:#FFFBF1; --ink:#2A1A14; --muted:#6E5A4C; --line:#E2D3B1;
+  --red:#B8322A; --turmeric:#D99312; --teal:#0E6E6E; --indigo:#24305E;
+  --s-none:#D8CCB2; --s-learning:#D99312; --s-completed:#0E6E6E; --s-mastered:#24305E;
+  --display:"Young Serif",Georgia,serif; --body:"Outfit",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1B1512; --surface:#261E19; --ink:#F3E7CF; --muted:#BCA88F; --line:#3D3128;
+  --red:#E0604F; --turmeric:#F0B23A; --teal:#3FB3AE; --indigo:#8EA0E6;
+  --s-none:#4A3D33; --s-learning:#F0B23A; --s-completed:#3FB3AE; --s-mastered:#8EA0E6; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1B1512; --surface:#261E19; --ink:#F3E7CF; --muted:#BCA88F; --line:#3D3128;
+  --red:#E0604F; --turmeric:#F0B23A; --teal:#3FB3AE; --indigo:#8EA0E6;
+  --s-none:#4A3D33; --s-learning:#F0B23A; --s-completed:#3FB3AE; --s-mastered:#8EA0E6; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+header .wrap{padding-block:0}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.hrow{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:14px 8px}
+.brand{font-family:var(--display);font-size:22px;line-height:1}
+.brand small{display:block;font-family:var(--body);font-size:12px;color:var(--muted);margin-top:4px}
+.tabs{display:flex;gap:4px;overflow-x:auto;padding-bottom:8px;scrollbar-width:none}
+.tabs button{border:0;background:none;color:var(--muted);font:500 14px var(--body);padding:8px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--bg)}
+button{font-family:var(--body)}
+:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+h1,h2,h3{font-family:var(--display);font-weight:400;text-wrap:balance;margin:0}
+h2{font-size:22px;margin:24px 0 10px} h3{font-size:18px}
+.muted{color:var(--muted)} .small{font-size:13px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px}
+.today{border-left:6px solid var(--red)}
+.stack{display:grid;gap:12px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.btn{border:1px solid var(--ink);background:none;color:var(--ink);border-radius:10px;padding:8px 14px;font-weight:500;cursor:pointer}
+.btn.primary{background:var(--red);border-color:var(--red);color:#fff}
+.btn.quiet{border-color:var(--line)}
+.chip{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:500;padding:3px 9px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block;flex:none}
+.st-none{background:var(--s-none)} .st-learning{background:var(--s-learning)} .st-completed{background:var(--s-completed)} .st-mastered{background:var(--s-mastered)}
+.qhead{display:flex;align-items:baseline;gap:10px;margin:26px 0 10px}
+.qhead h2{margin:0}
+.topic{background:var(--surface);border:1px solid var(--line);border-radius:12px}
+.topic summary{list-style:none;cursor:pointer;padding:12px 14px;display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center}
+.topic summary::-webkit-details-marker{display:none}
+.tid{font:700 12px var(--body);color:var(--muted);min-width:28px}
+.tname{font-weight:500;min-width:0}
+.tbody{padding:0 14px 14px;display:grid;gap:12px;min-width:0}
+.tbody ul{margin:0;padding-left:18px} .tbody li{margin-bottom:3px}
+.oneness{font-family:var(--display);font-size:16px;border-left:3px solid var(--turmeric);padding-left:10px}
+.res a{color:var(--teal)}
+.badge{font-size:11px;font-weight:700;color:#fff;background:var(--teal);padding:2px 8px;border-radius:999px}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg button{border:1px solid var(--line);background:none;color:var(--ink);border-radius:999px;padding:5px 11px;font-size:13px;cursor:pointer}
+.seg button[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:var(--bg)}
+.week{display:grid;gap:6px}
+.wk-h{font:700 12px var(--body);color:var(--muted);letter-spacing:.04em;margin-top:14px}
+.sess{display:grid;grid-template-columns:92px 1fr;gap:10px;align-items:center;padding:8px 12px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+.sess .d{font-variant-numeric:tabular-nums;font-size:13px;color:var(--muted)}
+.sess.is-today{border-color:var(--red)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+.tablebox{overflow-x:auto}
+td,th{text-align:left;padding:8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;color:var(--muted);font-weight:500}
+.bar{height:10px;border-radius:999px;background:var(--s-none);overflow:hidden;display:flex}
+.bar span{display:block;height:100%}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px}
+.kpi b{font:400 28px var(--display);display:block;font-variant-numeric:tabular-nums}
+@media (max-width:560px){.kpis{grid-template-columns:repeat(2,1fr)}.sess{grid-template-columns:76px 1fr}}
+.exp{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:10px 0;border-top:1px dashed var(--line)}
+.exp:first-of-type{border-top:0}
+.field{display:grid;gap:4px;margin-bottom:12px} .field input,.field select{font:15px var(--body);padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+dialog{border:1px solid var(--line);border-radius:16px;background:var(--surface);color:var(--ink);max-width:min(520px,92vw);padding:20px}
+dialog::backdrop{background:rgba(20,12,8,.45)}
+.picker{display:grid;gap:6px;max-height:55vh;overflow:auto}
+.picker button{text-align:left;border:1px solid var(--line);background:none;color:var(--ink);border-radius:10px;padding:8px 10px;cursor:pointer}
+.sync{font-size:12px;color:var(--muted)}
+.note{font-size:13px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:10px 12px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<header><div class="wrap">
+  <div class="hrow">
+    <div class="brand">DeepKids<small id="who">Science · Level 1</small></div>
+    <button class="btn quiet" id="openSettings">Settings</button>
+  </div>
+  <nav class="tabs" role="tablist" id="tabs">
+    <button role="tab" data-tab="today" aria-selected="true">Today</button>
+    <button role="tab" data-tab="plan">Plan</button>
+    <button role="tab" data-tab="topics">Topics</button>
+    <button role="tab" data-tab="boards">Boards</button>
+    <button role="tab" data-tab="progress">Progress</button>
+  </nav>
+</div></header>
+
+<main class="wrap" id="main"></main>
+
+<dialog id="settings"><form method="dialog" id="setForm">
+  <h3 style="margin-bottom:14px">Settings</h3>
+  <div class="field"><label for="sName">Child's name</label><input id="sName" maxlength="40"></div>
+  <div class="field"><label for="sBoard">Board to track against</label><select id="sBoard"><option value="ncert">NCERT / CBSE</option><option value="cambridge">Cambridge Primary</option><option value="nios">NIOS (Open Basic Education)</option></select></div>
+  <div class="field"><label for="sStart">Plan starts on</label><input id="sStart" type="date"></div>
+  <div class="field"><span>Science days</span><div class="seg" id="sDays"></div></div>
+  <div class="row" style="justify-content:flex-end"><button class="btn primary" value="save">Save</button></div>
+  <p class="sync" id="syncNote" style="margin-top:10px"></p>
+</form></dialog>
+
+<dialog id="pick"><h3 style="margin-bottom:6px">What did you explore?</h3><p class="muted small" style="margin:0 0 10px">The plan updates itself around it.</p><div class="picker" id="pickList"></div><div class="row" style="justify-content:flex-end;margin-top:12px"><button class="btn quiet" id="pickClose">Cancel</button></div></dialog>
+
+<script>
+const DATA = /*DATA*/;
+const T = DATA.topics, TBY = Object.fromEntries(T.map(t=>[t.id,t]));
+const STATUS = {none:"Not started",learning:"Learning",completed:"Completed",mastered:"Mastered"};
+const DAYN=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+const PRESET_EXP = {A1:["Lotus seeds (Kamali): change water","Alum crystal (Fitkari): check growth","World in a Jar: look for droplets","Bread mould bag: look, never open"],A5:["Moong sprouts: light vs dark"],B5:["Moon diary: draw tonight's Moon"],B10:["Bury test: dig up after 3 weeks"]};
+const iso=d=>{const x=new Date(d);return x.getFullYear()+"-"+String(x.getMonth()+1).padStart(2,"0")+"-"+String(x.getDate()).padStart(2,"0")};
+const parse=s=>{const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)};
+const today=iso(new Date());
+const fmt=s=>parse(s).toLocaleDateString(undefined,{weekday:"short",day:"numeric",month:"short"});
+function monday(){const d=new Date();d.setDate(d.getDate()-((d.getDay()+6)%7));return iso(d)}
+const fresh=()=>({child:"",board:"ncert",start:monday(),days:[1,3,5],progress:{},log:[],exps:[],skips:{}});
+let S=fresh(), store=null, saving=Promise.resolve(), saveTimer=null, syncMode="device";
+
+/* ---------- persistence: private per-viewer doc in db, browser storage fallback ---------- */
+async function boot(){
+  try{const ls=localStorage.getItem("dk-state");if(ls)S={...fresh(),...JSON.parse(ls)}}catch(e){}
+  render();
+  try{
+    const [db,user]=await Promise.all([window.claude?.use?.("db"),window.claude?.use?.("user")]);
+    const id=db&&user?await user.id():null;
+    if(db&&id){
+      store=db.doc("data/users/"+id+"/planner");
+      const snap=await store.get();
+      if(snap.exists){S={...fresh(),...snap.data()}}else{await store.set(S)}
+      syncMode="account"; render();
+    }
+  }catch(e){store=null}
+}
+function save(){
+  try{localStorage.setItem("dk-state",JSON.stringify(S))}catch(e){}
+  if(!store)return;
+  clearTimeout(saveTimer);
+  saveTimer=setTimeout(()=>{const body=JSON.parse(JSON.stringify(S));saving=saving.then(()=>store.set(body)).catch(()=>{syncMode="device";render()})},700);
+}
+function commit(){save();render()}
+
+/* ---------- planning ---------- */
+const st=id=>S.progress[id]?.status||"none";
+const done=id=>S.progress[id]?.sessions||0;
+const total=id=>TBY[id].weeks*Math.max(1,S.days.length);
+function schedule(limitDays=380){
+  const queue=[];
+  T.forEach(t=>{if(["completed","mastered"].includes(st(t.id)))return;const left=Math.max(1,total(t.id)-done(t.id));for(let i=0;i<left;i++)queue.push({id:t.id,n:done(t.id)+i+1})});
+  // learning topics first, in order
+  queue.sort((a,b)=>(st(b.id)==="learning")-(st(a.id)==="learning"));
+  const out=[];let d=parse(S.start>today?S.start:today);
+  const doneToday=S.log.some(l=>l.date===today);
+  for(let k=0;k<limitDays&&queue.length;k++){
+    const s=iso(d);
+    if(S.days.includes(d.getDay())&&!S.skips[s]&&!(s===today&&doneToday)){const q=queue.shift();out.push({date:s,...q})}
+    d.setDate(d.getDate()+1);
+  }
+  return out;
+}
+function logSession(id,kind){
+  const p=S.progress[id]||{status:"none",sessions:0};
+  p.sessions=(p.sessions||0)+1; if(p.status==="none")p.status="learning"; p.updated=today;
+  S.progress[id]=p; S.log.unshift({date:today,topic:id,kind}); S.log=S.log.slice(0,300);
+  (PRESET_EXP[id]||[]).forEach(title=>{if(!S.exps.some(e=>e.title===title&&!e.closed))S.exps.push({id:Math.random().toString(36).slice(2,9),title,topic:id,start:today,checks:[],closed:false})});
+}
+function setStatus(id,s){const p=S.progress[id]||{sessions:0};p.status=s;p.updated=today;S.progress[id]=p;commit()}
+
+/* ---------- views ---------- */
+let tab="today";
+const el=(h)=>{const t=document.createElement("template");t.innerHTML=h.trim();return t.content};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const chip=id=>`<span class="chip"><span class="dot st-${st(id)}"></span>${STATUS[st(id)]}</span>`;
+function boardRefs(id){const B=DATA.boards[S.board];const r=[];B.books.forEach(b=>b.chapters.forEach(c=>{if(c.topics.includes(id))r.push({book:b.title,c})}));return r}
+
+function viewToday(){
+  const sch=schedule(60), t0=sch.find(s=>s.date===today), next=sch.find(s=>s.date>today);
+  const did=S.log.filter(l=>l.date===today);
+  let h=`<h2>${new Date().toLocaleDateString(undefined,{weekday:"long",day:"numeric",month:"long"})}</h2>`;
+  if(did.length){h+=`<div class="panel today stack"><div class="muted small">Done today</div>${did.map(l=>`<div><b>${esc(TBY[l.topic].name)}</b> <span class="chip">${l.kind==="free"?"Explored freely":"Planned session"}</span></div>`).join("")}<div class="row"><button class="btn quiet" data-act="free">Explore something else too</button></div></div>`}
+  else if(t0){const t=TBY[t0.id];
+    h+=`<div class="panel today stack"><div class="muted small">Today's science · session ${t0.n} of ${total(t0.id)}</div><h3>${esc(t.name)}</h3><p style="margin:0">${esc(t.summary.split(". ").slice(0,2).join(". "))}.</p>
+    <div class="oneness">${esc(t.oneness)}</div>${t.full?`<div><span class="badge">Full lesson and game ready</span> <span class="small muted">The King's Doubt</span></div>`:""}
+    <div class="row"><button class="btn primary" data-act="did" data-id="${t.id}">We did it</button><button class="btn" data-act="free">We explored something else</button><button class="btn quiet" data-act="skip">Not today</button></div></div>`}
+  else{h+=`<div class="panel today stack"><h3>No science planned today</h3><p class="muted" style="margin:0">${next?`Next: ${esc(TBY[next.id].name)} on ${fmt(next.date)}.`:"Every topic is done. Wonderful."}</p><div class="row"><button class="btn" data-act="free">We explored something anyway</button></div></div>`}
+  const open=S.exps.filter(e=>!e.closed);
+  h+=`<h2>Ongoing experiments</h2><div class="panel">${open.length?open.map(e=>{const day=Math.round((parse(today)-parse(e.start))/864e5)+1;const c=e.checks.includes(today);return `<div class="exp"><div><b>${esc(e.title)}</b><div class="small muted">Day ${day} · ${esc(TBY[e.topic]?.name||"")}</div></div><div class="row"><button class="btn ${c?"quiet":"primary"}" data-act="check" data-e="${e.id}">${c?"Checked today":"Check now"}</button><button class="btn quiet" data-act="close" data-e="${e.id}">Finish</button></div></div>`}).join(""):`<p class="muted" style="margin:0">Multi-day experiments (sprouting seeds, growing crystals, moon diaries) appear here when you start their topic, with a daily reminder until you finish them.</p>`}
+  <div class="row" style="margin-top:10px"><input id="newExp" class="btn quiet" style="flex:1;min-width:0;text-align:left;cursor:text" placeholder="Add your own (e.g. plant in a dark box)" maxlength="80"><button class="btn" data-act="addexp">Add</button></div></div>`;
+  return h;
+}
+function viewPlan(){
+  const sch=schedule(); const end=sch.length?sch[sch.length-1].date:null;
+  let h=`<h2>The plan</h2><p class="muted" style="margin-top:-4px">${sch.length} science sessions left on ${S.days.map(d=>DAYN[d]).join(", ")}${end?`, finishing around ${fmt(end)}`:""}. When your child explores off-plan or you skip a day, the plan moves itself.</p>`;
+  let wk=null; const shown=sch.slice(0,S.days.length*6);
+  shown.forEach(s=>{const d=parse(s.date);const m=new Date(d);m.setDate(d.getDate()-((d.getDay()+6)%7));const k=iso(m);
+    if(k!==wk){if(wk)h+=`</div>`;wk=k;h+=`<div class="wk-h">Week of ${fmt(k)}</div><div class="week">`}
+    h+=`<div class="sess ${s.date===today?"is-today":""}"><span class="d">${fmt(s.date)}</span><span><b>${esc(TBY[s.id].name)}</b> <span class="small muted">· session ${s.n} of ${total(s.id)}</span></span></div>`});
+  if(wk)h+=`</div>`;
+  const order=[];sch.forEach(s=>{if(!order.length||order[order.length-1].id!==s.id)order.push({id:s.id,from:s.date})});
+  h+=`<h2>The year at a glance</h2><div class="tablebox"><table><tr><th>Starts</th><th>Topic</th><th>Status</th></tr>${order.map(o=>`<tr><td class="small" style="white-space:nowrap">${fmt(o.from)}</td><td>${esc(TBY[o.id].name)}</td><td>${chip(o.id)}</td></tr>`).join("")}</table></div>`;
+  return h;
+}
+function topicCard(t){
+  const refs=boardRefs(t.id);
+  return `<details class="topic" data-id="${t.id}"><summary><span class="tid">${t.id}</span><span class="tname">${esc(t.name)} ${t.full?'<span class="badge">Full lesson</span>':""}</span>${chip(t.id)}</summary><div class="tbody">
+  <div class="seg" role="group" aria-label="Status">${Object.entries(STATUS).map(([k,v])=>`<button aria-pressed="${st(t.id)===k}" data-act="status" data-id="${t.id}" data-s="${k}">${v}</button>`).join("")}</div>
+  <div><b>Subtopics</b><ul>${t.sub.map(s=>`<li>${esc(s)}</li>`).join("")}</ul></div>
+  <div><b>The story we tell</b><p style="margin:4px 0 0">${esc(t.summary)}</p></div>
+  <div class="oneness">${esc(t.oneness)}</div>
+  <div><b>${esc(DATA.boards[S.board].name)} link</b>${refs.length?`<ul>${refs.map(r=>`<li>${esc(r.book)}: ${/^\d+$/.test(r.c.n)?"Ch "+r.c.n+", ":""}${esc(r.c.title)}</li>`).join("")}</ul>`:`<p class="muted small" style="margin:4px 0 0">Beyond this board's syllabus (DeepKids Plus).</p>`}</div>
+  ${t.res.length?`<div class="res"><b>Curated resources</b><ul>${t.res.map(r=>`<li><span class="chip">${esc(r.type)}</span> ${r.url?`<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`:esc(r.title)}</li>`).join("")}</ul></div>`:""}
+  <div class="row"><button class="btn" data-act="didtopic" data-id="${t.id}">Log a session today</button></div></div></details>`;
+}
+function viewTopics(){
+  const qs=[...new Set(T.map(t=>t.q))];
+  return `<h2>Science · Level 1 <span class="muted small" style="font-family:var(--body)">age 6–7 · ${T.length} topics</span></h2>`+qs.map(q=>`<div class="qhead"><h2>${esc(q)}</h2></div><div class="stack">${T.filter(t=>t.q===q).map(topicCard).join("")}</div>`).join("");
+}
+function chapterState(c){const s=c.topics.map(st);if(s.every(x=>x==="completed"||x==="mastered"))return "covered";if(s.some(x=>x!=="none"))return "started";return "none"}
+function viewBoards(){
+  const B=DATA.boards[S.board];
+  let h=`<h2>${esc(B.name)}</h2><div class="seg" role="group" aria-label="Board">${Object.entries(DATA.boards).map(([k,b])=>`<button aria-pressed="${k===S.board}" data-act="board" data-b="${k}">${esc(b.name)}</button>`).join("")}</div><p class="note">${esc(B.note)} Titles are being verified against the official books.</p>`;
+  B.books.forEach(b=>{const cs=b.chapters.map(chapterState);const cov=cs.filter(x=>x==="covered").length;
+    h+=`<h3 style="margin-top:20px">${esc(b.title)}</h3><p class="muted small" style="margin:4px 0 8px">${cov} of ${b.chapters.length} covered</p><div class="tablebox"><table><tr><th></th><th>Chapter</th><th>DeepKids topics</th></tr>${b.chapters.map((c,i)=>`<tr><td><span class="dot ${cs[i]==="covered"?"st-completed":cs[i]==="started"?"st-learning":"st-none"}"></span></td><td>${/^\d+$/.test(c.n)?c.n+". ":""}${esc(c.title)}</td><td class="small">${c.topics.map(id=>`<div>${id} ${esc(TBY[id].name)}</div>`).join("")}</td></tr>`).join("")}</table></div>`});
+  return h;
+}
+function viewProgress(){
+  const cnt={none:0,learning:0,completed:0,mastered:0};T.forEach(t=>cnt[st(t.id)]++);
+  let h=`<h2>${esc(S.child||"Your child")}'s progress</h2><div class="kpis">${Object.entries(STATUS).map(([k,v])=>`<div class="kpi"><span class="small muted"><span class="dot st-${k}"></span> ${v}</span><b>${cnt[k]}</b></div>`).join("")}</div>`;
+  const qs=[...new Set(T.map(t=>t.q))];
+  h+=`<h2>By big question</h2><div class="stack">${qs.map(q=>{const ts=T.filter(t=>t.q===q);const seg=k=>ts.filter(t=>st(t.id)===k).length/ts.length*100;return `<div><div class="row" style="justify-content:space-between"><span>${esc(q)}</span><span class="small muted">${ts.filter(t=>["completed","mastered"].includes(st(t.id))).length}/${ts.length}</span></div><div class="bar"><span class="st-mastered" style="width:${seg("mastered")}%"></span><span class="st-completed" style="width:${seg("completed")}%"></span><span class="st-learning" style="width:${seg("learning")}%"></span></div></div>`}).join("")}</div>`;
+  const B=DATA.boards[S.board];const all=B.books.flatMap(b=>b.chapters);const cov=all.filter(c=>chapterState(c)==="covered").length;
+  h+=`<h2>Against ${esc(B.name)}</h2><div class="panel"><div class="row" style="justify-content:space-between"><span>${cov} of ${all.length} chapters or strands covered</span><b>${Math.round(cov/all.length*100)}%</b></div><div class="bar" style="margin-top:8px"><span class="st-completed" style="width:${cov/all.length*100}%"></span></div></div>`;
+  h+=`<h2>Learning log</h2>${S.log.length?`<div class="tablebox"><table><tr><th>Date</th><th>Topic</th><th>How</th></tr>${S.log.slice(0,20).map(l=>`<tr><td class="small" style="white-space:nowrap">${fmt(l.date)}</td><td>${esc(TBY[l.topic].name)}</td><td class="small">${l.kind==="free"?"Explored freely":"Planned"}</td></tr>`).join("")}</table></div>`:`<p class="muted">Sessions you log on the Today tab show up here.</p>`}`;
+  return h;
+}
+function render(){
+  document.getElementById("who").textContent=(S.child?S.child+" · ":"")+"Science · Level 1 · "+DATA.boards[S.board].name;
+  const v={today:viewToday,plan:viewPlan,topics:viewTopics,boards:viewBoards,progress:viewProgress}[tab]();
+  const open=[...document.querySelectorAll("details[open]")].map(d=>d.dataset.id);
+  const m=document.getElementById("main");m.replaceChildren(el(v));
+  open.forEach(id=>{const d=m.querySelector(`details[data-id="${id}"]`);if(d)d.open=true});
+  document.querySelectorAll("#tabs button").forEach(b=>b.setAttribute("aria-selected",b.dataset.tab===tab));
+}
+
+/* ---------- events ---------- */
+document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;tab=b.dataset.tab;render();scrollTo(0,0)});
+document.getElementById("main").addEventListener("click",e=>{
+  const b=e.target.closest("[data-act]");if(!b)return;const a=b.dataset.act;
+  if(a==="did"){logSession(b.dataset.id,"plan");commit()}
+  else if(a==="didtopic"){logSession(b.dataset.id,"free");commit()}
+  else if(a==="skip"){S.skips[today]=true;commit()}
+  else if(a==="free"){openPicker()}
+  else if(a==="status"){setStatus(b.dataset.id,b.dataset.s)}
+  else if(a==="board"){S.board=b.dataset.b;commit()}
+  else if(a==="check"){const x=S.exps.find(x=>x.id===b.dataset.e);if(x&&!x.checks.includes(today)){x.checks.push(today);commit()}}
+  else if(a==="close"){const x=S.exps.find(x=>x.id===b.dataset.e);if(x){x.closed=true;x.end=today;commit()}}
+  else if(a==="addexp"){const i=document.getElementById("newExp");const v=i.value.trim();if(v){S.exps.push({id:Math.random().toString(36).slice(2,9),title:v,topic:S.log[0]?.topic||T[0].id,start:today,checks:[],closed:false});commit()}}
+});
+const pick=document.getElementById("pick");
+function openPicker(){document.getElementById("pickList").replaceChildren(el(T.map(t=>`<button data-id="${t.id}"><span class="tid">${t.id}</span> ${esc(t.name)}</button>`).join("")));pick.showModal()}
+document.getElementById("pickList").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;logSession(b.dataset.id,"free");pick.close();commit()});
+document.getElementById("pickClose").onclick=()=>pick.close();
+const dlg=document.getElementById("settings");
+document.getElementById("openSettings").onclick=()=>{
+  sName.value=S.child;sBoard.value=S.board;sStart.value=S.start;
+  sDays.replaceChildren(el([1,2,3,4,5,6,0].map(d=>`<button type="button" aria-pressed="${S.days.includes(d)}" data-d="${d}">${DAYN[d]}</button>`).join("")));
+  syncNote.textContent=syncMode==="account"?"Progress is saved to your claude.ai account, privately.":"Progress is saved in this browser only.";dlg.showModal()};
+sDays.addEventListener("click",e=>{const b=e.target.closest("button");if(b)b.setAttribute("aria-pressed",b.getAttribute("aria-pressed")!=="true")});
+setForm.addEventListener("submit",()=>{S.child=sName.value.trim();S.board=sBoard.value;if(sStart.value)S.start=sStart.value;
+  const ds=[...sDays.querySelectorAll('[aria-pressed="true"]')].map(b=>+b.dataset.d);if(ds.length)S.days=ds.sort();commit()});
+boot();
+</script>
