@@ -128,6 +128,11 @@ dialog::backdrop{background:rgba(20,12,8,.45)}
 .ok{color:var(--s-completed)} .no{color:var(--red)}
 .sess-d>summary{list-style:none;cursor:pointer}
 .sess-d>summary::-webkit-details-marker{display:none}
+
+.lvl{grid-template-columns:96px 1fr}
+.lvl>.row{flex-wrap:nowrap;justify-content:flex-end}
+.lvl>.row select{flex:1 1 0;min-width:0}
+.lvl>.row select[data-hpd]{flex:0 0 auto}
 </style>
 
 <header id="hdr"><div class="wrap">
@@ -172,7 +177,8 @@ const dayNo=Math.floor(parse(today)/864e5);
 const fmt=s=>parse(s).toLocaleDateString(undefined,{weekday:"short",day:"numeric",month:"short"});
 const monday=()=>{const d=new Date();d.setDate(d.getDate()-((d.getDay()+6)%7));return iso(d)};
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const fresh=()=>({setup:false,child:"",age:6,board:"ncert",plus:true,subjects:["math","eng","hin","sci"],levels:{math:1,eng:1,hin:1,sci:1},start:monday(),days:DEF_DAYS,progress:{},log:[],exps:[],skips:{},sess:{},games:{}});
+const DEF_HPD={math:1,eng:0.75,hin:0.5,sci:0.75};
+const fresh=()=>({setup:false,child:"",age:6,board:"ncert",plus:true,subjects:["math","eng","hin","sci"],levels:{math:1,eng:1,hin:1,sci:1},start:monday(),days:DEF_DAYS,hpd:DEF_HPD,progress:{},log:[],exps:[],skips:{},hrs:{},games:{}});
 let S=fresh(),store=null,saving=Promise.resolve(),saveTimer=null,syncMode="device",tab="today",ob=null,view={};
 
 /* ---------- persistence: one private document per viewer; browser storage as fallback ---------- */
@@ -223,14 +229,13 @@ function coverage(u){
   return st(u.k);
 }
 const daysOf=subj=>(S.days[subj]||DEF_DAYS[subj]);
-/* default sessions: DeepKids topics carry their own length in weeks; board units share a 36-week year equally */
-function defaultSessions(u){
-  const d=daysOf(u.subj).length||1;
-  if(u.board==="dk")return u.topic.weeks*d;
-  const n=plannedAt(u.subj,u.level).length||collateAt(u.subj,u.level).board.filter(i=>i.board===u.board).length||1;
-  return Math.max(1,Math.round(YEAR_WEEKS*d/n));
-}
-const sessionsFor=u=>S.sess[u.k]||defaultSessions(u);
+/* hours: Class 3 science chapters carry section-by-section estimates; everything else uses a starting estimate per unit type */
+const DEF_UNIT_H={ncert:{math:8,eng:5,hin:4,sci:8},cambridge:{math:30,eng:30,hin:30,sci:20},nios:{math:5,eng:5,hin:5,sci:5}};
+const hpdOf=s=>(S.hpd&&S.hpd[s])||DEF_HPD[s];
+const estHours=u=>u.c?.x?.hours?u.c.x.hours.reduce((a,h)=>a+h[1],0):u.board==="dk"?u.topic.weeks*2.25:DEF_UNIT_H[u.board][u.subj];
+const hoursFor=u=>S.hrs[u.k]??estHours(u);
+const spanDays=u=>u.c?.x?.hours?Math.max(...u.c.x.hours.map(h=>h[2])):null;
+const sessionsFor=u=>Math.max(1,Math.ceil(hoursFor(u)/hpdOf(u.subj)-1e-9));
 function schedule(subj,limitDays=420){
   const q=[];plannedUnits(subj).forEach(u=>{if(rank[coverage(u)]>=2)return;const tot=sessionsFor(u);for(let i=Math.min(done(u.k),tot-1);i<tot;i++)q.push({u,n:i+1,tot})});
   const cur=q.filter(x=>coverage(x.u)==="learning"),rest=q.filter(x=>coverage(x.u)!=="learning");const queue=[...cur,...rest];
@@ -251,10 +256,12 @@ const el=h=>{const t=document.createElement("template");t.innerHTML=h.trim();ret
 const chip=s=>`<span class="chip"><span class="dot st-${s}"></span>${STATUS[s]}</span>`;
 const lvlLabel=l=>{const x=DATA.levels[l];return `Level ${l} · Class ${x.cls} · age ${x.age}`};
 const chNo=u=>/^\d+$/.test(u.n)?"Ch "+u.n:"";
-const sessCtl=u=>`<div class="row small"><span class="muted">Planned for ${sessionsFor(u)} sessions${S.sess[u.k]?"":" (our estimate)"}</span><button class="btn quiet mini" data-act="sess" data-k="${u.k}" data-d="-1" aria-label="Fewer sessions">−</button><button class="btn quiet mini" data-act="sess" data-k="${u.k}" data-d="1" aria-label="More sessions">+</button></div>`;
+const fh=h=>(Math.round(h*4)/4).toString().replace(/\.0+$/,"");
+const sessCtl=u=>`<div class="row small"><span class="muted">About ${fh(hoursFor(u))} h of work${S.hrs[u.k]!==undefined?"":" (our estimate)"} → ${sessionsFor(u)} days at ${fh(hpdOf(u.subj))} h/day${spanDays(u)?`, with experiments and projects running over about ${spanDays(u)} days`:""}</span><button class="btn quiet mini" data-act="hrs" data-k="${u.k}" data-d="-0.5" aria-label="Less time">−</button><button class="btn quiet mini" data-act="hrs" data-k="${u.k}" data-d="0.5" aria-label="More time">+</button></div>`;
+const hoursTable=u=>{const hs=u.c.x.hours,tot=hs.reduce((a,h)=>a+h[1],0);return `<div><b>Time needed</b><div class="tablebox"><table><tr><th>Part</th><th>Hours</th><th>Spread over</th></tr>${hs.map(h=>`<tr><td>${esc(h[0])}</td><td>${fh(h[1])} h</td><td class="small">${h[2]} day${h[2]>1?"s":""}</td></tr>`).join("")}<tr><td><b>Total active time</b></td><td><b>${fh(tot)} h</b></td><td class="small">waiting time (sprouting, drying, logging) runs alongside other work</td></tr></table></div></div>`};
 
 /* ---------- onboarding ---------- */
-function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels}))};render()}
+function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD}))};render()}
 function viewOnboarding(){
   const d=ob.d,stepN=5;let h=`<div class="ob"><div class="steps">${Array.from({length:stepN},(_,i)=>`<i class="${i<=ob.step?"on":""}"></i>`).join("")}</div>`;
   if(ob.step===0){h+=`<h2>Who is learning?</h2><div class="field"><label for="obName">Child's name</label><input id="obName" maxlength="40" value="${esc(d.child)}" placeholder="e.g. Aarav"></div>
@@ -264,7 +271,7 @@ function viewOnboarding(){
     h+=`<h2>Which syllabus will you follow?</h2><div class="choices" id="obBoard">${opts.map(([k,n,s])=>`<button type="button" class="choice" aria-pressed="${d.board===k}" data-b="${k}"><b>${n}</b><span>${s}</span></button>`).join("")}</div>
     ${d.board!=="none"?`<label class="toggle"><input type="checkbox" id="obPlus" ${d.plus?"checked":""}><span><b>Add DeepKids Plus</b><br><span class="muted small">Big-question topics beyond the textbook (life, the universe, who am I), with full lessons, games and projects. Board chapters they cover get ticked off automatically.</span></span></label>`:`<p class="note" style="margin-top:14px">DeepKids Plus only: big-question topics with full lessons, games and projects, no board tracking.</p>`}`}
   if(ob.step===2){h+=`<h2>Which subjects?</h2><div class="choices" id="obSubj">${SUBJ_KEYS.map(k=>`<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}"><b>${SUBJ[k]}</b><span>${k==="sci"?"EVS in NCERT/NIOS, Science in Cambridge":k==="hin"?"Not offered by Cambridge":"&nbsp;"}</span></button>`).join("")}</div>`}
-  if(ob.step===3){h+=`<h2>Pick a starting level for each subject</h2><p class="muted">Children are often ahead in one subject and behind in another. They can always move up a level later.</p>${d.subjects.map(s=>`<div class="lvl"><b>${SUBJ[s]}</b><select data-s="${s}">${[1,2,3,4,5].map(l=>`<option value="${l}" ${d.levels[s]===l?"selected":""}>${lvlLabel(l)}</option>`).join("")}</select></div>`).join("")}`}
+  if(ob.step===3){h+=`<h2>Level and daily time for each subject</h2><p class="muted">Children are often ahead in one subject and behind in another, and can move up any time. Tell us roughly how long you'd like to spend on each subject on a day you do it; we'll build the year from that.</p>${d.subjects.map(s=>{const hp=(d.hpd||DEF_HPD)[s];return `<div class="lvl"><b>${SUBJ[s]}</b><span class="row"><select data-s="${s}" aria-label="${SUBJ[s]} level">${[1,2,3,4,5].map(l=>`<option value="${l}" ${d.levels[s]===l?"selected":""}>${lvlLabel(l)}</option>`).join("")}</select><select data-hpd="${s}" aria-label="${SUBJ[s]} hours per day">${[0.25,0.5,0.75,1,1.5,2,3].map(v=>`<option value="${v}" ${hp===v?"selected":""}>${v} h a day</option>`).join("")}</select></span></div>`}).join("")}`}
   if(ob.step===4){const keep=S;S={...S,...d};
     h+=`<h2>${esc(d.child||"Your child")}'s year</h2><p class="muted">Here's everything we've collected. You can change any of it later in Settings.</p><div class="stack">`;
     d.subjects.forEach(s=>{const c=collate(s);const books=[...new Set(c.board.map(u=>u.book))];
@@ -294,12 +301,12 @@ function wordGame(u){
   for(let r=0;r<6;r++){const w=g.g[r]||(r===g.g.length&&!over?(g.cur||""):"");
     rows.push(`<div class="wrow">${[0,1,2,3,4].map(i=>{const ch=w[i]||"";let cls="";if(g.g[r]){cls=ch===word[i]?"hit":word.includes(ch)?"near":"miss"}return `<span class="tile ${cls}">${esc(ch)}</span>`}).join("")}</div>`)}
   const keys=["QWERTYUIOP","ASDFGHJKL","ZXCVBNM"];
-  return `<div class="panel stack"><div class="row" style="justify-content:space-between"><b>Shabd: today's word</b><span class="small muted">5 letters · from "${esc(u.title)}"</span></div>
+  return `<div class="panel stack"><div class="row" style="justify-content:space-between"><b>Word of the Day</b><span class="small muted">5 letters · from "${esc(u.title)}"</span></div>
    <div class="wgrid">${rows.join("")}</div>
    ${over?`<p style="margin:0">${won?"Got it!":"Today's word was"} <b>${word}</b>. ${won?`In ${g.g.length} ${g.g.length===1?"try":"tries"}.`:""}</p>`:`<div class="kb">${keys.map((r,i)=>`<div>${i===2?`<button data-act="wk" data-key="ENTER" class="wide">Enter</button>`:""}${[...r].map(c=>`<button data-act="wk" data-key="${c}">${c}</button>`).join("")}${i===2?`<button data-act="wk" data-key="DEL" class="wide" aria-label="Delete">⌫</button>`:""}</div>`).join("")}</div><p class="small muted" style="margin:0">Green: right letter, right place. Yellow: in the word, wrong place.</p>`}</div>`;
 }
 function tfGame(u){const g=G();
-  return `<div class="panel stack"><b>Sach ya Jhooth? (true or false)</b>${u.c.x.quiz.map((q,i)=>{const a=g.tf[i];return `<div class="tf"><span>${esc(q[0])}</span>${a===undefined?`<span class="row"><button class="btn quiet mini" data-act="tf" data-i="${i}" data-v="1">True</button><button class="btn quiet mini" data-act="tf" data-i="${i}" data-v="0">False</button></span>`:`<span class="small ${(a===1)===q[1]?"ok":"no"}">${(a===1)===q[1]?"Right!":"Not quite."} ${q[1]?"True":"False"}: ${esc(q[2])}</span>`}</div>`}).join("")}</div>`}
+  return `<div class="panel stack"><b>True or false?</b>${u.c.x.quiz.map((q,i)=>{const a=g.tf[i];return `<div class="tf"><span>${esc(q[0])}</span>${a===undefined?`<span class="row"><button class="btn quiet mini" data-act="tf" data-i="${i}" data-v="1">True</button><button class="btn quiet mini" data-act="tf" data-i="${i}" data-v="0">False</button></span>`:`<span class="small ${(a===1)===q[1]?"ok":"no"}">${(a===1)===q[1]?"Right!":"Not quite."} ${q[1]?"True":"False"}: ${esc(q[2])}</span>`}</div>`}).join("")}</div>`}
 function oddGame(u){const g=G(),o=u.c.x.odd[dayNo%u.c.x.odd.length];
   return `<div class="panel stack"><b>Odd one out</b><div class="row">${o[0].map(w=>`<button class="btn ${g.odd===w?(w===o[1]?"primary":""):"quiet"}" data-act="odd" data-w="${esc(w)}" ${g.odd?"disabled":""}>${esc(w)}</button>`).join("")}</div>${g.odd?`<p style="margin:0">${g.odd===o[1]?"Yes!":"It's "+esc(o[1])+"."} ${esc(o[2])}</p>`:""}</div>`}
 function learnBlock(u){const c=u.c,x=c.x;
@@ -307,7 +314,7 @@ function learnBlock(u){const c=u.c,x=c.x;
    <div><b>What to learn</b><ul>${x.learn.map(l=>`<li>${esc(l)}</li>`).join("")}</ul></div>
    <div><b>Where</b><ul><li>NCERT ${esc(u.book)}, ${chNo(u)}: ${esc(u.title)}</li>${c.links.map(l=>`<li>${esc(l)}</li>`).join("")}${c.read.map(r=>`<li>Read: ${esc(r)}</li>`).join("")}</ul></div>
    <div><b>Think deeper</b><ul>${x.think.map(t=>`<li>${esc(t)}</li>`).join("")}</ul></div>
-   <div class="oneness">${esc(x.oneness)}</div></div>`}
+   <div class="oneness">${esc(x.oneness)}</div>${hoursTable(u)}</div>`}
 function sheetsBlock(u){const c=u.c,x=c.x,[title,cols,rows]=x.sheet;
   return `<details class="topic" data-id="ws-${u.k}"><summary><span class="tid">📝</span><span class="tname">Worksheet, activity sheet, experiments and project</span><span></span></summary><div class="tbody">
    <div><b>Worksheet</b><ol>${x.ws.map(([h,b])=>`<li><b>${esc(h)}.</b> ${esc(b)}</li>`).join("")}</ol></div>
@@ -315,13 +322,14 @@ function sheetsBlock(u){const c=u.c,x=c.x,[title,cols,rows]=x.sheet;
    <div><b>Experiments</b><ul>${c.exp.map(e=>`<li>${esc(e)}</li>`).join("")}</ul></div>
    <div><b>Activities</b><ul>${c.act.map(e=>`<li>${esc(e)}</li>`).join("")}</ul></div>
    <div><b>Game: ${esc(c.game[0])}</b><p style="margin:4px 0 0">${esc(c.game[1])}</p></div>
-   <div><b>Project: ${esc(c.proj[0])}</b><p style="margin:4px 0 0">${esc(c.proj[1])} <span class="muted">You end up with: ${esc(c.proj[2])}.</span></p></div></div></details>`}
+   <div><b>Project: ${esc(c.proj[0])}</b><p style="margin:4px 0 0">${esc(c.proj[1])} <span class="muted">You end up with: ${esc(c.proj[2])}.</span></p></div>
+   <div class="res"><b>Curated from leading programmes</b><ul>${x.cur.map(([w,src,url,how])=>`<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(w)}</a> <span class="muted small">· ${esc(src)}</span><br><span class="small">${esc(how)}</span></li>`).join("")}</ul></div></div></details>`}
 
 /* ---------- main views ---------- */
 function viewToday(){
   let h=`<h2>${new Date().toLocaleDateString(undefined,{weekday:"long",day:"numeric",month:"long"})}</h2>`;
   const du=dailyUnit();
-  if(du){const x=du.u.c.x;h+=`<div class="joke"><span class="small muted">Joke of the day</span><p>${esc(x.jokes[dayNo%x.jokes.length])}</p></div>`}
+  if(du){const x=du.u.c.x;h+=`<div class="joke"><span class="small muted">Joke of the day</span><p>${esc(x.jokes[dayNo%x.jokes.length])}</p><span class="small muted">More: <a href="${esc(DATA.jokebook[1])}" target="_blank" rel="noopener">${esc(DATA.jokebook[0])}</a></span></div>`}
   h+=`<div class="stack">`;
   S.subjects.forEach(s=>{
     const did=S.log.filter(l=>l.date===today&&l.subj===s);const next=schedule(s,30)[0];
@@ -345,10 +353,10 @@ function levelCtl(s,act){const l=S.levels[s];return `<span class="row"><button c
 function viewPlan(){
   const all=S.subjects.flatMap(s=>schedule(s));const byDay={};all.forEach(x=>(byDay[x.date]=byDay[x.date]||[]).push(x));
   const dates=Object.keys(byDay).sort().slice(0,14);
-  let h=`<h2>Levels</h2><p class="muted" style="margin-top:-4px">Move any subject up when your child is ready. When a level is finished, the plan carries straight on to the next one.</p><div class="stack">${S.subjects.map(s=>`<div class="lvl" style="padding:6px 0"><b>${SUBJ[s]}</b>${levelCtl(s,"lvl")}</div>`).join("")}</div>`;
-  h+=`<h2>The next two weeks</h2><p class="muted" style="margin-top:-4px">Each chapter gets an equal share of a 36-week year by default. Tap a session to change how many sessions it gets.</p>`;
+  let h=`<h2>Levels and time</h2><p class="muted" style="margin-top:-4px">Move any subject up when your child is ready; when a level is finished the plan carries on to the next. Set how many hours a day and which days each subject gets, and the whole year re-plans.</p><div class="stack">${S.subjects.map(s=>{const hp=hpdOf(s);return `<div class="panel stack" style="padding:12px"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b>${levelCtl(s,"lvl")}</div><div class="row"><select data-hpd="${s}" aria-label="${SUBJ[s]} hours per day">${[0.25,0.5,0.75,1,1.5,2,3].map(v=>`<option value="${v}" ${hp===v?"selected":""}>${v} h a day</option>`).join("")}</select><div class="seg">${[1,2,3,4,5,6,0].map(d=>`<button aria-pressed="${daysOf(s).includes(d)}" data-act="day" data-s="${s}" data-d="${d}">${DAYN[d]}</button>`).join("")}</div></div></div>`}).join("")}</div>`;
+  h+=`<h2>The next two weeks</h2><p class="muted" style="margin-top:-4px">Each chapter's hours are estimated from its content (Class 3 Science section by section; other chapters use a starting estimate). Tap a day to adjust a chapter's hours.</p>`;
   dates.forEach(d=>{h+=`<div class="dayh">${d===today?"Today · ":""}${fmt(d)}</div><div class="week">${byDay[d].map(x=>`<details class="sess-d"><summary class="sess ${d===today?"is-today":""}"><span class="d">${SUBJ[x.subj]}</span><span><b>${esc(x.u.title)}</b> <span class="small muted">· L${x.u.level} ${chNo(x.u)} · ${x.n}/${x.tot}</span></span></summary><div style="padding:6px 12px">${sessCtl(x.u)}</div></details>`).join("")}</div>`});
-  h+=`<h2>The year, subject by subject</h2><div class="tablebox"><table><tr><th>Subject</th><th>Now on</th><th>Days</th><th>Sessions left (to Level 5)</th><th>Current level done around</th></tr>${S.subjects.map(s=>{const sc=schedule(s);const cur=sc.filter(x=>x.u.level===S.levels[s]);const u=plannedAt(s,S.levels[s])[0];return `<tr><td>${SUBJ[s]}</td><td class="small">${u?esc(u.book):"—"}</td><td class="small">${daysOf(s).map(x=>DAYN[x]).join(" ")}</td><td>${sc.length}</td><td class="small">${cur.length?fmt(cur[cur.length-1].date):"—"}</td></tr>`}).join("")}</table></div>`;
+  h+=`<h2>The year, subject by subject</h2><div class="tablebox"><table><tr><th>Subject</th><th>Now on</th><th>Days</th><th>Hours this level</th><th>Days this level</th><th>Current level done around</th></tr>${S.subjects.map(s=>{const sc=schedule(s);const cur=sc.filter(x=>x.u.level===S.levels[s]);const u=plannedAt(s,S.levels[s])[0];const hrs=plannedAt(s,S.levels[s]).filter(x=>rank[coverage(x)]<2).reduce((a,x)=>a+hoursFor(x),0);return `<tr><td>${SUBJ[s]}</td><td class="small">${u?esc(u.book):"—"}</td><td class="small">${daysOf(s).map(x=>DAYN[x]).join(" ")} · ${fh(hpdOf(s))} h</td><td>${fh(hrs)} h</td><td>${cur.length}</td><td class="small">${cur.length?fmt(cur[cur.length-1].date):"—"}</td></tr>`}).join("")}</table></div>`;
   return h;
 }
 function dkCard(u){const t=u.topic,s=st(u.k);
@@ -396,7 +404,7 @@ function viewProgress(){
 }
 function render(){
   const m=document.getElementById("main"),tabs=document.getElementById("tabs");
-  if(!S.setup&&!ob)ob={step:0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels}))};
+  if(!S.setup&&!ob)ob={step:0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD}))};
   tabs.hidden=!!ob;document.getElementById("openSettings").hidden=!!ob;
   document.getElementById("who").textContent=ob?"Let's set up your year":(S.child?S.child+" · ":"")+(S.board==="none"?"DeepKids Plus":S.board==="combined"?"Combined boards":BOARDS[S.board])+(S.plus&&S.board!=="none"?" + Plus":"");
   const open=[...document.querySelectorAll("details[open]")].map(d=>d.dataset.id).filter(Boolean);
@@ -420,7 +428,8 @@ main.addEventListener("click",e=>{
   else if(a==="skip"){S.skips[today+"|"+b.dataset.s]=true;commit()}
   else if(a==="free")openPicker();
   else if(a==="status"){const p=S.progress[b.dataset.k]||{sessions:0};p.status=b.dataset.s;p.updated=today;S.progress[b.dataset.k]=p;commit()}
-  else if(a==="sess"){const u=unitBy(b.dataset.k);if(u){S.sess[u.k]=Math.max(1,sessionsFor(u)+(+b.dataset.d));commit()}}
+  else if(a==="hrs"){const u=unitBy(b.dataset.k);if(u){S.hrs[u.k]=Math.max(0.5,hoursFor(u)+(+b.dataset.d));commit()}}
+  else if(a==="day"){const s=b.dataset.s,d=+b.dataset.d;const cur=new Set(daysOf(s));cur.has(d)?cur.delete(d):cur.add(d);if(cur.size){S.days={...S.days,[s]:[...cur].sort()};commit()}}
   else if(a==="lvl"){const s=b.dataset.s;S.levels[s]=Math.min(5,Math.max(1,S.levels[s]+(+b.dataset.d)));view[s]=S.levels[s];commit()}
   else if(a==="view"){view[b.dataset.s]=+b.dataset.l;render()}
   else if(a==="setlvl"){S.levels[b.dataset.s]=+b.dataset.l;commit()}
@@ -434,6 +443,7 @@ main.addEventListener("click",e=>{
   else if(a==="odd"){const g=G();if(!g.odd){g.odd=b.dataset.w;commit()}}
 });
 main.addEventListener("change",e=>{
+  if(e.target.matches("select[data-hpd]")){const s=e.target.dataset.hpd,v=+e.target.value;if(ob){ob.d.hpd={...(ob.d.hpd||DEF_HPD),[s]:v}}else{S.hpd={...(S.hpd||DEF_HPD),[s]:v};commit()}return}
   if(ob&&e.target.matches("#obPlus")){ob.d.plus=e.target.checked;return}
   if(ob&&e.target.matches("select[data-s]")){ob.d.levels[e.target.dataset.s]=+e.target.value;return}
 });

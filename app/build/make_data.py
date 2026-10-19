@@ -6,6 +6,7 @@ from boards import RES, WEEKS
 from catalog import *
 from ncert_evs_content import C as EVS
 from c3_daily import X as C3X
+from c3_time_cur import H as C3H, CUR as C3CUR, JOKE_BOOK
 
 items = []  # every learnable unit: a board chapter/strand/theme, or a DeepKids topic
 def add(**k): items.append(k)
@@ -14,7 +15,7 @@ for (subj, lvl), (book, chs) in NCERT.items():
     for i, title in enumerate(chs, 1):
         add(k=f"ncert|{subj}|{lvl}|{i}", board="ncert", subj=subj, level=lvl, book=f"{book} · Class {lvl}", n=str(i), title=title,
             dk=NCERT_DK.get((lvl, i), []) if subj == "sci" else [],
-            c=({**{k: v for k, v in EVS[(lvl, i)].items() if k != "dk"}, **({"x": C3X[i]} if lvl == 3 and i in C3X else {})} if subj == "sci" and (lvl, i) in EVS else None))
+            c=({**{k: v for k, v in EVS[(lvl, i)].items() if k != "dk"}, **({"x": {**C3X[i], "hours": C3H[i], "cur": C3CUR[i]}} if lvl == 3 and i in C3X else {})} if subj == "sci" and (lvl, i) in EVS else None))
 for subj, (book, strands) in CAMBRIDGE.items():
     for lvl in LEVELS:
         for i, s in enumerate(strands, 1):
@@ -32,7 +33,7 @@ for t in T:
                    "summary": t["summary"], "oneness": t["oneness"], "weeks": WEEKS[t["id"]], "full": t["id"] == "A1",
                    "res": [{"type": a, "title": b, "url": c} for a, b, c in RES.get(t["id"], [])]})
 
-data = {"levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items, "topics": topics,
+data = {"jokebook": JOKE_BOOK, "levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items, "topics": topics,
         "notes": {"ncert": {f"{s}|{l}": n for (s, l), n in NCERT_NOTES.items()},
                   "nios": {s: f"NIOS Level A/B {n}: lesson list to be added from NIOS study material." for s, n in NIOS_PENDING.items()},
                   "cambridge": {"hin": "Cambridge Primary has no Hindi course. Pair with NCERT Hindi or DeepKids language plans."}}}

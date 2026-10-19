@@ -8,7 +8,7 @@ def ch(cls, n, **k): C[(cls, n)] = k
 
 # ---------------- Class 3 (Level 3, age 8) ----------------
 ch(3, 1, covers="Kinds of families, relatives and what we call them, roles and shared work at home, friends, generations then and now.",
-   game=("Rishte ki Rail", "A train leaves 'Me Station' and only correct relations can board. Take turns reading riddle cards ('Your father's sister's son is your…'). Answer in 10 seconds to add a coach to your train; a wrong answer derails it. Longest train wins. Bonus coach for saying the word in a third language."),
+   game=("Relation Railway", "A train leaves 'Me Station' and only correct relations can board. Take turns reading riddle cards ('Your father's sister's son is your…'). Answer in 10 seconds to add a coach to your train; a wrong answer derails it. Longest train wins. Bonus coach for saying the word in a third language."),
    exp=["Hand-span survey: measure the hand span and height of everyone in the family (and a neighbour family). Chart it: do children's hands grow toward their parents' sizes?"],
    act=["Then-and-Now interview with a grandparent: games, school, food, toys at age 8.", "Chore wheel: list every job at home, see who does it, rotate jobs for one week and talk about how it felt."],
    proj=("Family Museum Box", "Over 2 weeks collect 5 objects with family stories (an old photo, a utensil, a letter), label each, add a family tree and a recorded elder interview.", "A shoebox museum the child presents to the family"),
@@ -29,7 +29,7 @@ ch(3, 3, covers="Festivals across India, why they happen when they do (harvests,
    read=["Binny's Diwali, Thrity Umrigar", "Lights for Gita, Rachna Gilmore", "Amma, Tell Me About Diwali!, Bhakti Mathur"],
    links=["Veena Ch 9: प्रकृति पर्व – फूलदेई", "Maths Mela Ch 7: Raksha Bandhan", "Santoor Ch 11: Chanda Mama Counts the Stars"], dk=["B2", "B5"])
 ch(3, 4, covers="Kinds of plants (trees, shrubs, herbs, climbers), parts and their jobs, leaf shapes, seeds, what plants need, how we use plants.",
-   game=("Leaf Detective Bingo", "Bingo cards show leaf shapes, edges and vein patterns (heart, needle, toothed, compound, parallel veins). On a 20-minute walk, mark a square only when you hold a matching leaf. First line shouts 'Patta!'. Final round: 'Which part do we eat?' speed quiz with carrot, potato, spinach, cauliflower, rice."),
+   game=("Leaf Detective Bingo", "Bingo cards show leaf shapes, edges and vein patterns (heart, needle, toothed, compound, parallel veins). On a 20-minute walk, mark a square only when you hold a matching leaf. First line shouts 'Leaf!'. Final round: 'Which part do we eat?' speed quiz with carrot, potato, spinach, cauliflower, rice."),
    exp=["Coloured-water flower: put a white flower or celery stalk in water with food colour. Check after 6 and 24 hours. How did the colour climb?", "Seeds' needs: sow moong in four cups (water + light, no water, dark, cold fridge). Compare after 5 days."],
    act=["Leaf-rubbing book: 10 leaves, crayon rubbings, names in two languages.", "Adopt a tree: measure its trunk with string, sketch it, visit monthly."],
    proj=("Kitchen-Garden Pot", "Sow methi or dhaniya, water and measure daily, harvest at about 4 weeks, and cook something with it.", "A harvest, a growth chart and a dish"),
