@@ -18,7 +18,7 @@
   --bg:#1B1512; --surface:#261E19; --ink:#F3E7CF; --muted:#BCA88F; --line:#3D3128;
   --red:#E0604F; --turmeric:#F0B23A; --teal:#3FB3AE; --indigo:#8EA0E6;
   --s-none:#4A3D33; --s-learning:#F0B23A; --s-completed:#3FB3AE; --s-mastered:#8EA0E6; color-scheme:dark}
-*{box-sizing:border-box}
+*{box-sizing:border-box} [hidden]{display:none!important}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
 .wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
@@ -85,18 +85,39 @@ dialog::backdrop{background:rgba(20,12,8,.45)}
 .sync{font-size:12px;color:var(--muted)}
 .note{font-size:13px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:10px 12px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+.ob{max-width:620px;margin:0 auto;padding-block:20px}
+.steps{display:flex;gap:6px;margin:6px 0 18px}.steps i{flex:1;height:4px;border-radius:4px;background:var(--line)}.steps i.on{background:var(--red)}
+.choices{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(170px,1fr))}
+.choice{border:1.5px solid var(--line);background:var(--surface);color:var(--ink);border-radius:14px;padding:14px;text-align:left;cursor:pointer;display:grid;gap:4px}
+.choice b{font-family:var(--display);font-weight:400;font-size:17px}
+.choice[aria-pressed="true"]{border-color:var(--red);box-shadow:0 0 0 2px var(--red) inset}
+.choice span{font-size:13px;color:var(--muted)}
+.lvl{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+.lvl select{font:15px var(--body);padding:8px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.toggle{display:flex;gap:10px;align-items:flex-start;padding:14px;border:1.5px dashed var(--turmeric);border-radius:14px;margin-top:14px;cursor:pointer}
+.toggle input{width:20px;height:20px;margin-top:2px;accent-color:var(--red)}
+.unit{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;padding:9px 12px;border-bottom:1px solid var(--line)}
+.unit:last-child{border-bottom:0}
+.unit .n{font:700 12px var(--body);color:var(--muted);min-width:30px;font-variant-numeric:tabular-nums}
+.unit select{font:13px var(--body);border:1px solid var(--line);border-radius:999px;padding:3px 6px;background:var(--surface);color:var(--ink)}
+.book{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.book h3{font-size:16px;padding:12px 12px 6px}
+.links{font-size:12px;color:var(--muted)}
+.subj-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap;margin:26px 0 10px}
+.subj-h h2{margin:0}
+.dayh{font:700 13px var(--body);margin:16px 0 6px}
 </style>
 
-<header><div class="wrap">
+<header id="hdr"><div class="wrap">
   <div class="hrow">
-    <div class="brand">DeepKids<small id="who">Science · Level 1</small></div>
+    <div class="brand">DeepKids<small id="who">Home learning planner</small></div>
     <button class="btn quiet" id="openSettings">Settings</button>
   </div>
   <nav class="tabs" role="tablist" id="tabs">
     <button role="tab" data-tab="today" aria-selected="true">Today</button>
     <button role="tab" data-tab="plan">Plan</button>
     <button role="tab" data-tab="topics">Topics</button>
-    <button role="tab" data-tab="boards">Boards</button>
     <button role="tab" data-tab="progress">Progress</button>
   </nav>
 </div></header>
@@ -106,179 +127,236 @@ dialog::backdrop{background:rgba(20,12,8,.45)}
 <dialog id="settings"><form method="dialog" id="setForm">
   <h3 style="margin-bottom:14px">Settings</h3>
   <div class="field"><label for="sName">Child's name</label><input id="sName" maxlength="40"></div>
-  <div class="field"><label for="sBoard">Board to track against</label><select id="sBoard"><option value="ncert">NCERT / CBSE</option><option value="cambridge">Cambridge Primary</option><option value="nios">NIOS (Open Basic Education)</option></select></div>
   <div class="field"><label for="sStart">Plan starts on</label><input id="sStart" type="date"></div>
-  <div class="field"><span>Science days</span><div class="seg" id="sDays"></div></div>
-  <div class="row" style="justify-content:flex-end"><button class="btn primary" value="save">Save</button></div>
+  <div class="row" style="justify-content:space-between"><button class="btn" value="redo" id="redo">Change syllabus, subjects or levels</button><button class="btn primary" value="save">Save</button></div>
   <p class="sync" id="syncNote" style="margin-top:10px"></p>
 </form></dialog>
 
-<dialog id="pick"><h3 style="margin-bottom:6px">What did you explore?</h3><p class="muted small" style="margin:0 0 10px">The plan updates itself around it.</p><div class="picker" id="pickList"></div><div class="row" style="justify-content:flex-end;margin-top:12px"><button class="btn quiet" id="pickClose">Cancel</button></div></dialog>
+<dialog id="pick"><h3 style="margin-bottom:6px">What did you explore?</h3><p class="muted small" style="margin:0 0 10px">It counts towards progress, and the plan moves around it.</p><div class="picker" id="pickList"></div><div class="row" style="justify-content:flex-end;margin-top:12px"><button class="btn quiet" id="pickClose">Cancel</button></div></dialog>
 
 <script>
 const DATA = /*DATA*/;
-const T = DATA.topics, TBY = Object.fromEntries(T.map(t=>[t.id,t]));
+const TOP = Object.fromEntries(DATA.topics.map(t=>[t.id,t]));
+const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
+const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
 const STATUS = {none:"Not started",learning:"Learning",completed:"Completed",mastered:"Mastered"};
 const DAYN=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
-const PRESET_EXP = {A1:["Lotus seeds (Kamali): change water","Alum crystal (Fitkari): check growth","World in a Jar: look for droplets","Bread mould bag: look, never open"],A5:["Moong sprouts: light vs dark"],B5:["Moon diary: draw tonight's Moon"],B10:["Bury test: dig up after 3 weeks"]};
+const DEF_DAYS={math:[1,2,3,4,5],eng:[1,2,4,5],hin:[2,4],sci:[1,3,5]};
+const PRESET_EXP={A1:["Lotus seeds (Kamali): change water","Alum crystal (Fitkari): check growth","World in a Jar: look for droplets","Bread mould bag: look, never open"],A5:["Moong sprouts: light vs dark"],B5:["Moon diary: draw tonight's Moon"],B10:["Bury test: dig up after 3 weeks"]};
 const iso=d=>{const x=new Date(d);return x.getFullYear()+"-"+String(x.getMonth()+1).padStart(2,"0")+"-"+String(x.getDate()).padStart(2,"0")};
 const parse=s=>{const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)};
 const today=iso(new Date());
 const fmt=s=>parse(s).toLocaleDateString(undefined,{weekday:"short",day:"numeric",month:"short"});
-function monday(){const d=new Date();d.setDate(d.getDate()-((d.getDay()+6)%7));return iso(d)}
-const fresh=()=>({child:"",board:"ncert",start:monday(),days:[1,3,5],progress:{},log:[],exps:[],skips:{}});
-let S=fresh(), store=null, saving=Promise.resolve(), saveTimer=null, syncMode="device";
+const monday=()=>{const d=new Date();d.setDate(d.getDate()-((d.getDay()+6)%7));return iso(d)};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fresh=()=>({setup:false,child:"",age:6,board:"ncert",plus:true,subjects:["math","eng","hin","sci"],levels:{math:1,eng:1,hin:1,sci:1},start:monday(),days:DEF_DAYS,progress:{},log:[],exps:[],skips:{}});
+let S=fresh(),store=null,saving=Promise.resolve(),saveTimer=null,syncMode="device",tab="today",ob=null;
 
-/* ---------- persistence: private per-viewer doc in db, browser storage fallback ---------- */
+/* ---------- persistence: one private document per viewer; browser storage as fallback ---------- */
 async function boot(){
-  try{const ls=localStorage.getItem("dk-state");if(ls)S={...fresh(),...JSON.parse(ls)}}catch(e){}
+  try{const ls=localStorage.getItem("dk-state-v2");if(ls)S={...fresh(),...JSON.parse(ls)}}catch(e){}
   render();
   try{
     const [db,user]=await Promise.all([window.claude?.use?.("db"),window.claude?.use?.("user")]);
     const id=db&&user?await user.id():null;
-    if(db&&id){
-      store=db.doc("data/users/"+id+"/planner");
-      const snap=await store.get();
-      if(snap.exists){S={...fresh(),...snap.data()}}else{await store.set(S)}
-      syncMode="account"; render();
-    }
+    if(db&&id){store=db.doc("data/users/"+id+"/planner");const snap=await store.get();
+      if(snap.exists&&snap.data().setup!==undefined){S={...fresh(),...snap.data()}}else if(S.setup){await store.set(JSON.parse(JSON.stringify(S)))}
+      syncMode="account";render()}
   }catch(e){store=null}
 }
 function save(){
-  try{localStorage.setItem("dk-state",JSON.stringify(S))}catch(e){}
-  if(!store)return;
-  clearTimeout(saveTimer);
-  saveTimer=setTimeout(()=>{const body=JSON.parse(JSON.stringify(S));saving=saving.then(()=>store.set(body)).catch(()=>{syncMode="device";render()})},700);
+  try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}
+  if(!store)return;clearTimeout(saveTimer);
+  saveTimer=setTimeout(()=>{const body=JSON.parse(JSON.stringify(S));saving=saving.then(()=>store.set(body)).catch(()=>{syncMode="device"})},700);
 }
-function commit(){save();render()}
+const commit=()=>{save();render()};
 
-/* ---------- planning ---------- */
-const st=id=>S.progress[id]?.status||"none";
-const done=id=>S.progress[id]?.sessions||0;
-const total=id=>TBY[id].weeks*Math.max(1,S.days.length);
-function schedule(limitDays=380){
-  const queue=[];
-  T.forEach(t=>{if(["completed","mastered"].includes(st(t.id)))return;const left=Math.max(1,total(t.id)-done(t.id));for(let i=0;i<left;i++)queue.push({id:t.id,n:done(t.id)+i+1})});
-  // learning topics first, in order
-  queue.sort((a,b)=>(st(b.id)==="learning")-(st(a.id)==="learning"));
-  const out=[];let d=parse(S.start>today?S.start:today);
-  const doneToday=S.log.some(l=>l.date===today);
-  for(let k=0;k<limitDays&&queue.length;k++){
-    const s=iso(d);
-    if(S.days.includes(d.getDay())&&!S.skips[s]&&!(s===today&&doneToday)){const q=queue.shift();out.push({date:s,...q})}
-    d.setDate(d.getDate()+1);
-  }
+/* ---------- collating the syllabus ---------- */
+const boardsOn=()=>S.board==="combined"?["ncert","cambridge","nios"]:S.board==="none"?[]:[S.board];
+function dkUnits(subj){
+  if(!S.plus||subj!=="sci"||S.levels.sci!==1)return [];
+  return DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t}));
+}
+function collate(subj){
+  const lvl=S.levels[subj];
+  const board=DATA.items.filter(i=>i.subj===subj&&i.level===lvl&&boardsOn().includes(i.board));
+  return {board,dk:dkUnits(subj)};
+}
+function notesFor(subj){
+  const n=[],lvl=S.levels[subj];
+  boardsOn().forEach(b=>{const x=b==="ncert"?DATA.notes.ncert[subj+"|"+lvl]:DATA.notes[b]?.[subj];if(x)n.push(BOARDS[b]+": "+x)});
+  if(S.plus&&subj==="sci"&&lvl!==1)n.push("DeepKids Plus Science for Level "+lvl+" is being written. Level 1 is ready.");
+  if(S.plus&&subj!=="sci")n.push("DeepKids Plus "+SUBJ[subj]+" is being written.");
+  return n;
+}
+/* which list drives the calendar: DeepKids topics if present, else the first chosen board that has units */
+function plannedUnits(subj){
+  const c=collate(subj);if(c.dk.length)return c.dk;
+  for(const b of boardsOn()){const u=c.board.filter(i=>i.board===b);if(u.length)return u}
+  return [];
+}
+const allUnits=()=>S.subjects.flatMap(s=>{const c=collate(s);return [...c.dk,...c.board]});
+const unitBy=k=>allUnits().find(u=>u.k===k)||(k.startsWith("dk|")?dkUnits("sci").find(u=>u.k===k):null);
+const st=k=>S.progress[k]?.status||"none";
+const done=k=>S.progress[k]?.sessions||0;
+const rank={none:0,learning:1,completed:2,mastered:3};
+function coverage(u){ // board unit status, derived from linked DeepKids topics when Plus is on
+  if(u.board!=="dk"&&S.plus&&u.dk.length&&S.levels.sci===1){const s=u.dk.map(id=>st("dk|"+id));
+    const own=st(u.k);if(s.every(x=>rank[x]>=2))return rank[own]>2?own:"completed";if(s.some(x=>x!=="none")||own!=="none")return rank[own]>1?own:"learning";return own}
+  return st(u.k);
+}
+function sessionsFor(u,subj){
+  const days=(S.days[subj]||DEF_DAYS[subj]).length||1;
+  if(u.board==="dk")return u.topic.weeks*days;
+  const n=plannedUnits(subj).length||1;return Math.max(1,Math.round(36*days/n));
+}
+function schedule(subj,limitDays=380){
+  const units=plannedUnits(subj);const q=[];
+  units.forEach(u=>{if(rank[coverage(u)]>=2)return;const tot=sessionsFor(u,subj);for(let i=Math.min(done(u.k),tot-1);i<tot;i++)q.push({u,n:i+1,tot})});
+  q.sort((a,b)=>(coverage(b.u)==="learning")-(coverage(a.u)==="learning"));
+  const out=[];const days=S.days[subj]||DEF_DAYS[subj];let d=parse(S.start>today?S.start:today);
+  const doneToday=S.log.some(l=>l.date===today&&l.subj===subj);
+  for(let k=0;k<limitDays&&q.length;k++){const s=iso(d);
+    if(days.includes(d.getDay())&&!S.skips[s+"|"+subj]&&!(s===today&&doneToday))out.push({date:s,subj,...q.shift()});
+    d.setDate(d.getDate()+1)}
   return out;
 }
-function logSession(id,kind){
-  const p=S.progress[id]||{status:"none",sessions:0};
-  p.sessions=(p.sessions||0)+1; if(p.status==="none")p.status="learning"; p.updated=today;
-  S.progress[id]=p; S.log.unshift({date:today,topic:id,kind}); S.log=S.log.slice(0,300);
-  (PRESET_EXP[id]||[]).forEach(title=>{if(!S.exps.some(e=>e.title===title&&!e.closed))S.exps.push({id:Math.random().toString(36).slice(2,9),title,topic:id,start:today,checks:[],closed:false})});
+function logSession(u,kind){
+  const p=S.progress[u.k]||{status:"none",sessions:0};p.sessions=(p.sessions||0)+1;if(p.status==="none")p.status="learning";p.updated=today;S.progress[u.k]=p;
+  S.log.unshift({date:today,key:u.k,subj:u.subj,title:u.title,kind});S.log=S.log.slice(0,400);
+  if(u.board==="dk")(PRESET_EXP[u.n]||[]).forEach(title=>{if(!S.exps.some(e=>e.title===title&&!e.closed))S.exps.push({id:Math.random().toString(36).slice(2,9),title,topic:u.title,start:today,checks:[],closed:false})});
 }
-function setStatus(id,s){const p=S.progress[id]||{sessions:0};p.status=s;p.updated=today;S.progress[id]=p;commit()}
+const el=h=>{const t=document.createElement("template");t.innerHTML=h.trim();return t.content};
+const chip=s=>`<span class="chip"><span class="dot st-${s}"></span>${STATUS[s]}</span>`;
+const lvlLabel=l=>{const x=DATA.levels[l];return `Level ${l} · Class ${x.cls} · age ${x.age}`};
 
-/* ---------- views ---------- */
-let tab="today";
-const el=(h)=>{const t=document.createElement("template");t.innerHTML=h.trim();return t.content};
-const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const chip=id=>`<span class="chip"><span class="dot st-${st(id)}"></span>${STATUS[st(id)]}</span>`;
-function boardRefs(id){const B=DATA.boards[S.board];const r=[];B.books.forEach(b=>b.chapters.forEach(c=>{if(c.topics.includes(id))r.push({book:b.title,c})}));return r}
+/* ---------- onboarding ---------- */
+function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels}))};render()}
+function viewOnboarding(){
+  const d=ob.d,stepN=5;let h=`<div class="ob"><div class="steps">${Array.from({length:stepN},(_,i)=>`<i class="${i<=ob.step?"on":""}"></i>`).join("")}</div>`;
+  if(ob.step===0){h+=`<h2>Who is learning?</h2><div class="field"><label for="obName">Child's name</label><input id="obName" maxlength="40" value="${esc(d.child)}" placeholder="e.g. Aarav"></div>
+    <div class="field"><span>Age</span><div class="seg" id="obAge">${[6,7,8,9,10].map(a=>`<button type="button" aria-pressed="${d.age===a}" data-age="${a}">${a}</button>`).join("")}</div></div>
+    <p class="muted small">We'll suggest a level for each subject from this. You can change any of them.</p>`}
+  if(ob.step===1){const opts=[["ncert","NCERT / CBSE","India's national textbooks"],["cambridge","Cambridge Primary","Cambridge International, Stages 1–5"],["nios","NIOS","Open Basic Education, Levels A and B"],["combined","Combined","Track all three boards together"],["none","Only DeepKids Plus","No board; our own curriculum"]];
+    h+=`<h2>Which syllabus will you follow?</h2><div class="choices" id="obBoard">${opts.map(([k,n,s])=>`<button type="button" class="choice" aria-pressed="${d.board===k}" data-b="${k}"><b>${n}</b><span>${s}</span></button>`).join("")}</div>
+    ${d.board!=="none"?`<label class="toggle"><input type="checkbox" id="obPlus" ${d.plus?"checked":""}><span><b>Add DeepKids Plus</b><br><span class="muted small">Big-question topics beyond the textbook (life, the universe, who am I), with full lessons, games and projects. Board chapters they cover get ticked off automatically.</span></span></label>`:`<p class="note" style="margin-top:14px">DeepKids Plus only: big-question topics with full lessons, games and projects, no board tracking.</p>`}`}
+  if(ob.step===2){h+=`<h2>Which subjects?</h2><div class="choices" id="obSubj">${SUBJ_KEYS.map(k=>`<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}"><b>${SUBJ[k]}</b><span>${k==="sci"?"EVS in NCERT/NIOS, Science in Cambridge":k==="hin"?"Not offered by Cambridge":"&nbsp;"}</span></button>`).join("")}</div>`}
+  if(ob.step===3){h+=`<h2>Pick a level for each subject</h2><p class="muted">Children are often ahead in one subject and behind in another. That's fine.</p>${d.subjects.map(s=>`<div class="lvl"><b>${SUBJ[s]}</b><select data-s="${s}">${[1,2,3,4,5].map(l=>`<option value="${l}" ${d.levels[s]===l?"selected":""}>${lvlLabel(l)}</option>`).join("")}</select></div>`).join("")}`}
+  if(ob.step===4){const keep=S;S={...S,...d};
+    h+=`<h2>${esc(d.child||"Your child")}'s year</h2><p class="muted">Here's everything we've collected for ${esc(d.child||"your child")}. You can change any of it later in Settings.</p><div class="stack">`;
+    d.subjects.forEach(s=>{const c=collate(s);const books=[...new Set(c.board.map(u=>u.book))];
+      h+=`<div class="panel"><div class="row" style="justify-content:space-between"><h3>${SUBJ[s]}</h3><span class="small muted">${lvlLabel(d.levels[s])}</span></div><ul style="margin:8px 0 0;padding-left:18px">${books.map(b=>`<li>${esc(b)}: ${c.board.filter(u=>u.book===b).length} ${c.board.find(u=>u.book===b).n.match(/^\d+$/)?"chapters":c.board.find(u=>u.book===b).n==="Strand"?"strands":"themes"}</li>`).join("")}${c.dk.length?`<li>DeepKids Plus · Science Level 1: ${c.dk.length} topics</li>`:""}</ul>${notesFor(s).map(n=>`<p class="links" style="margin:6px 0 0">${esc(n)}</p>`).join("")}</div>`});
+    h+=`</div>`;S=keep}
+  h+=`<div class="row" style="justify-content:space-between;margin-top:20px">${ob.step>0?`<button class="btn quiet" data-ob="back">Back</button>`:"<span></span>"}<button class="btn primary" data-ob="next">${ob.step===4?"Build my plan":"Next"}</button></div></div>`;
+  return h;
+}
+function obNext(){
+  const d=ob.d;
+  if(ob.step===0){d.child=document.getElementById("obName").value.trim();SUBJ_KEYS.forEach(s=>d.levels[s]=Math.min(5,Math.max(1,d.age-5)))}
+  if(ob.step===2&&!d.subjects.length)return;
+  if(ob.step===4){Object.assign(S,d,{setup:true});ob=null;tab="today";commit();return}
+  ob.step++;render();
+}
 
+/* ---------- main views ---------- */
 function viewToday(){
-  const sch=schedule(60), t0=sch.find(s=>s.date===today), next=sch.find(s=>s.date>today);
-  const did=S.log.filter(l=>l.date===today);
-  let h=`<h2>${new Date().toLocaleDateString(undefined,{weekday:"long",day:"numeric",month:"long"})}</h2>`;
-  if(did.length){h+=`<div class="panel today stack"><div class="muted small">Done today</div>${did.map(l=>`<div><b>${esc(TBY[l.topic].name)}</b> <span class="chip">${l.kind==="free"?"Explored freely":"Planned session"}</span></div>`).join("")}<div class="row"><button class="btn quiet" data-act="free">Explore something else too</button></div></div>`}
-  else if(t0){const t=TBY[t0.id];
-    h+=`<div class="panel today stack"><div class="muted small">Today's science · session ${t0.n} of ${total(t0.id)}</div><h3>${esc(t.name)}</h3><p style="margin:0">${esc(t.summary.split(". ").slice(0,2).join(". "))}.</p>
-    <div class="oneness">${esc(t.oneness)}</div>${t.full?`<div><span class="badge">Full lesson and game ready</span> <span class="small muted">The King's Doubt</span></div>`:""}
-    <div class="row"><button class="btn primary" data-act="did" data-id="${t.id}">We did it</button><button class="btn" data-act="free">We explored something else</button><button class="btn quiet" data-act="skip">Not today</button></div></div>`}
-  else{h+=`<div class="panel today stack"><h3>No science planned today</h3><p class="muted" style="margin:0">${next?`Next: ${esc(TBY[next.id].name)} on ${fmt(next.date)}.`:"Every topic is done. Wonderful."}</p><div class="row"><button class="btn" data-act="free">We explored something anyway</button></div></div>`}
+  let h=`<h2>${new Date().toLocaleDateString(undefined,{weekday:"long",day:"numeric",month:"long"})}</h2><div class="stack">`;
+  S.subjects.forEach(s=>{
+    const did=S.log.filter(l=>l.date===today&&l.subj===s);const next=schedule(s,30)[0];
+    if(did.length){h+=`<div class="panel"><div class="small muted">${SUBJ[s]} · done today</div>${did.map(l=>`<div><b>${esc(l.title)}</b> <span class="chip">${l.kind==="free"?"Explored freely":"Planned"}</span></div>`).join("")}</div>`;return}
+    if(!next){h+=`<div class="panel"><div class="small muted">${SUBJ[s]}</div><p style="margin:4px 0 0">Nothing to schedule for this syllabus and level yet.</p></div>`;return}
+    if(next.date!==today){h+=`<div class="panel"><div class="small muted">${SUBJ[s]} · next on ${fmt(next.date)}</div><b>${esc(next.u.title)}</b></div>`;return}
+    const u=next.u,t=u.topic;
+    h+=`<div class="panel today stack"><div class="small muted">${SUBJ[s]} · ${esc(u.book)}${/^\d+$/.test(u.n)?" · Ch "+u.n:""} · session ${next.n} of ${next.tot}</div><h3>${esc(u.title)}</h3>
+      ${t?`<p style="margin:0">${esc(t.summary.split(". ").slice(0,2).join(". "))}.</p><div class="oneness">${esc(t.oneness)}</div>${t.full?`<div><span class="badge">Full lesson and game ready</span> <span class="small muted">The King's Doubt</span></div>`:""}`:""}
+      <div class="row"><button class="btn primary" data-act="did" data-k="${u.k}">We did it</button><button class="btn quiet" data-act="skip" data-s="${s}">Not today</button></div></div>`});
+  h+=`<div class="row"><button class="btn" data-act="free">We explored something else</button></div></div>`;
   const open=S.exps.filter(e=>!e.closed);
-  h+=`<h2>Ongoing experiments</h2><div class="panel">${open.length?open.map(e=>{const day=Math.round((parse(today)-parse(e.start))/864e5)+1;const c=e.checks.includes(today);return `<div class="exp"><div><b>${esc(e.title)}</b><div class="small muted">Day ${day} · ${esc(TBY[e.topic]?.name||"")}</div></div><div class="row"><button class="btn ${c?"quiet":"primary"}" data-act="check" data-e="${e.id}">${c?"Checked today":"Check now"}</button><button class="btn quiet" data-act="close" data-e="${e.id}">Finish</button></div></div>`}).join(""):`<p class="muted" style="margin:0">Multi-day experiments (sprouting seeds, growing crystals, moon diaries) appear here when you start their topic, with a daily reminder until you finish them.</p>`}
-  <div class="row" style="margin-top:10px"><input id="newExp" class="btn quiet" style="flex:1;min-width:0;text-align:left;cursor:text" placeholder="Add your own (e.g. plant in a dark box)" maxlength="80"><button class="btn" data-act="addexp">Add</button></div></div>`;
+  h+=`<h2>Ongoing experiments</h2><div class="panel">${open.length?open.map(e=>{const day=Math.round((parse(today)-parse(e.start))/864e5)+1;const c=e.checks.includes(today);return `<div class="exp"><div><b>${esc(e.title)}</b><div class="small muted">Day ${day} · ${esc(e.topic)}</div></div><div class="row"><button class="btn ${c?"quiet":"primary"}" data-act="check" data-e="${e.id}">${c?"Checked today":"Check now"}</button><button class="btn quiet" data-act="close" data-e="${e.id}">Finish</button></div></div>`}).join(""):`<p class="muted" style="margin:0">Multi-day experiments (sprouting seeds, growing crystals, moon diaries) appear here when you start their topic, with a daily reminder until you finish them.</p>`}
+    <div class="row" style="margin-top:10px"><input id="newExp" class="btn quiet" style="flex:1;min-width:0;text-align:left;cursor:text" placeholder="Add your own (e.g. plant in a dark box)" maxlength="80"><button class="btn" data-act="addexp">Add</button></div></div>`;
   return h;
 }
 function viewPlan(){
-  const sch=schedule(); const end=sch.length?sch[sch.length-1].date:null;
-  let h=`<h2>The plan</h2><p class="muted" style="margin-top:-4px">${sch.length} science sessions left on ${S.days.map(d=>DAYN[d]).join(", ")}${end?`, finishing around ${fmt(end)}`:""}. When your child explores off-plan or you skip a day, the plan moves itself.</p>`;
-  let wk=null; const shown=sch.slice(0,S.days.length*6);
-  shown.forEach(s=>{const d=parse(s.date);const m=new Date(d);m.setDate(d.getDate()-((d.getDay()+6)%7));const k=iso(m);
-    if(k!==wk){if(wk)h+=`</div>`;wk=k;h+=`<div class="wk-h">Week of ${fmt(k)}</div><div class="week">`}
-    h+=`<div class="sess ${s.date===today?"is-today":""}"><span class="d">${fmt(s.date)}</span><span><b>${esc(TBY[s.id].name)}</b> <span class="small muted">· session ${s.n} of ${total(s.id)}</span></span></div>`});
-  if(wk)h+=`</div>`;
-  const order=[];sch.forEach(s=>{if(!order.length||order[order.length-1].id!==s.id)order.push({id:s.id,from:s.date})});
-  h+=`<h2>The year at a glance</h2><div class="tablebox"><table><tr><th>Starts</th><th>Topic</th><th>Status</th></tr>${order.map(o=>`<tr><td class="small" style="white-space:nowrap">${fmt(o.from)}</td><td>${esc(TBY[o.id].name)}</td><td>${chip(o.id)}</td></tr>`).join("")}</table></div>`;
+  const all=S.subjects.flatMap(s=>schedule(s));const byDay={};all.forEach(x=>(byDay[x.date]=byDay[x.date]||[]).push(x));
+  const dates=Object.keys(byDay).sort().slice(0,14);
+  let h=`<h2>The next two weeks</h2><p class="muted" style="margin-top:-4px">The plan moves itself when you skip a day or explore off-plan.</p>`;
+  dates.forEach(d=>{h+=`<div class="dayh">${d===today?"Today · ":""}${fmt(d)}</div><div class="week">${byDay[d].map(x=>`<div class="sess ${d===today?"is-today":""}"><span class="d">${SUBJ[x.subj]}</span><span><b>${esc(x.u.title)}</b> <span class="small muted">· ${x.n}/${x.tot}</span></span></div>`).join("")}</div>`});
+  h+=`<h2>The year, subject by subject</h2><div class="tablebox"><table><tr><th>Subject</th><th>Planned from</th><th>Days</th><th>Sessions left</th><th>Finishes around</th></tr>${S.subjects.map(s=>{const sc=schedule(s);const u=plannedUnits(s)[0];return `<tr><td>${SUBJ[s]}</td><td class="small">${u?esc(u.book):"—"}</td><td class="small">${(S.days[s]||DEF_DAYS[s]).map(x=>DAYN[x]).join(" ")}</td><td>${sc.length}</td><td class="small">${sc.length?fmt(sc[sc.length-1].date):"—"}</td></tr>`}).join("")}</table></div>`;
   return h;
 }
-function topicCard(t){
-  const refs=boardRefs(t.id);
-  return `<details class="topic" data-id="${t.id}"><summary><span class="tid">${t.id}</span><span class="tname">${esc(t.name)} ${t.full?'<span class="badge">Full lesson</span>':""}</span>${chip(t.id)}</summary><div class="tbody">
-  <div class="seg" role="group" aria-label="Status">${Object.entries(STATUS).map(([k,v])=>`<button aria-pressed="${st(t.id)===k}" data-act="status" data-id="${t.id}" data-s="${k}">${v}</button>`).join("")}</div>
-  <div><b>Subtopics</b><ul>${t.sub.map(s=>`<li>${esc(s)}</li>`).join("")}</ul></div>
-  <div><b>The story we tell</b><p style="margin:4px 0 0">${esc(t.summary)}</p></div>
-  <div class="oneness">${esc(t.oneness)}</div>
-  <div><b>${esc(DATA.boards[S.board].name)} link</b>${refs.length?`<ul>${refs.map(r=>`<li>${esc(r.book)}: ${/^\d+$/.test(r.c.n)?"Ch "+r.c.n+", ":""}${esc(r.c.title)}</li>`).join("")}</ul>`:`<p class="muted small" style="margin:4px 0 0">Beyond this board's syllabus (DeepKids Plus).</p>`}</div>
+function dkCard(u){const t=u.topic,s=st(u.k);
+  return `<details class="topic" data-id="${u.k}"><summary><span class="tid">${t.id}</span><span class="tname">${esc(t.name)} ${t.full?'<span class="badge">Full lesson</span>':""}</span>${chip(s)}</summary><div class="tbody">
+  <div class="seg">${Object.entries(STATUS).map(([k,v])=>`<button aria-pressed="${s===k}" data-act="status" data-k="${u.k}" data-s="${k}">${v}</button>`).join("")}</div>
+  <div><b>Subtopics</b><ul>${t.sub.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+  <div><b>The story we tell</b><p style="margin:4px 0 0">${esc(t.summary)}</p></div><div class="oneness">${esc(t.oneness)}</div>
+  ${(()=>{const refs=DATA.items.filter(i=>i.dk.includes(t.id)&&boardsOn().includes(i.board));return refs.length?`<div><b>Board chapters this covers</b><ul>${refs.map(r=>`<li>${esc(r.book)}${/^\d+$/.test(r.n)?", Ch "+r.n:""}: ${esc(r.title)}</li>`).join("")}</ul></div>`:""})()}
   ${t.res.length?`<div class="res"><b>Curated resources</b><ul>${t.res.map(r=>`<li><span class="chip">${esc(r.type)}</span> ${r.url?`<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`:esc(r.title)}</li>`).join("")}</ul></div>`:""}
-  <div class="row"><button class="btn" data-act="didtopic" data-id="${t.id}">Log a session today</button></div></div></details>`;
-}
+  <div class="row"><button class="btn" data-act="logk" data-k="${u.k}">Log a session today</button></div></div></details>`}
 function viewTopics(){
-  const qs=[...new Set(T.map(t=>t.q))];
-  return `<h2>Science · Level 1 <span class="muted small" style="font-family:var(--body)">age 6–7 · ${T.length} topics</span></h2>`+qs.map(q=>`<div class="qhead"><h2>${esc(q)}</h2></div><div class="stack">${T.filter(t=>t.q===q).map(topicCard).join("")}</div>`).join("");
-}
-function chapterState(c){const s=c.topics.map(st);if(s.every(x=>x==="completed"||x==="mastered"))return "covered";if(s.some(x=>x!=="none"))return "started";return "none"}
-function viewBoards(){
-  const B=DATA.boards[S.board];
-  let h=`<h2>${esc(B.name)}</h2><div class="seg" role="group" aria-label="Board">${Object.entries(DATA.boards).map(([k,b])=>`<button aria-pressed="${k===S.board}" data-act="board" data-b="${k}">${esc(b.name)}</button>`).join("")}</div><p class="note">${esc(B.note)} Titles are being verified against the official books.</p>`;
-  B.books.forEach(b=>{const cs=b.chapters.map(chapterState);const cov=cs.filter(x=>x==="covered").length;
-    h+=`<h3 style="margin-top:20px">${esc(b.title)}</h3><p class="muted small" style="margin:4px 0 8px">${cov} of ${b.chapters.length} covered</p><div class="tablebox"><table><tr><th></th><th>Chapter</th><th>DeepKids topics</th></tr>${b.chapters.map((c,i)=>`<tr><td><span class="dot ${cs[i]==="covered"?"st-completed":cs[i]==="started"?"st-learning":"st-none"}"></span></td><td>${/^\d+$/.test(c.n)?c.n+". ":""}${esc(c.title)}</td><td class="small">${c.topics.map(id=>`<div>${id} ${esc(TBY[id].name)}</div>`).join("")}</td></tr>`).join("")}</table></div>`});
+  let h="";
+  S.subjects.forEach(s=>{const c=collate(s);
+    h+=`<div class="subj-h"><h2>${SUBJ[s]}</h2><span class="small muted">${lvlLabel(S.levels[s])}</span></div>`;
+    notesFor(s).forEach(n=>h+=`<p class="note">${esc(n)}</p>`);
+    if(c.dk.length){const qs=[...new Set(c.dk.map(u=>u.topic.q))];h+=qs.map(q=>`<h3 style="margin:16px 0 8px">${esc(q)}</h3><div class="stack">${c.dk.filter(u=>u.topic.q===q).map(dkCard).join("")}</div>`).join("")}
+    const books=[...new Set(c.board.map(u=>u.book))];
+    books.forEach(b=>{const us=c.board.filter(u=>u.book===b);const cov=us.filter(u=>rank[coverage(u)]>=2).length;
+      h+=`<div class="book" style="margin-top:12px"><h3>${esc(b)} <span class="small muted" style="font-family:var(--body)">${cov}/${us.length} covered</span></h3>${us.map(u=>{const cs=coverage(u);return `<div class="unit"><span class="n">${/^\d+$/.test(u.n)?"Ch "+u.n:""}</span><span style="min-width:0"><span class="dot st-${cs}"></span> ${esc(u.title)}${u.dk.length&&S.plus&&S.levels.sci===1?`<div class="links">Plus: ${u.dk.map(id=>esc(TOP[id].name)).join(" · ")}</div>`:""}</span><select data-act="ustatus" data-k="${u.k}" aria-label="Status">${Object.entries(STATUS).map(([k,v])=>`<option value="${k}" ${cs===k?"selected":""}>${v}</option>`).join("")}</select></div>`}).join("")}</div>`});
+    if(!c.dk.length&&!c.board.length)h+=`<p class="muted">Nothing collected for this combination yet.</p>`;
+  });
   return h;
 }
 function viewProgress(){
-  const cnt={none:0,learning:0,completed:0,mastered:0};T.forEach(t=>cnt[st(t.id)]++);
-  let h=`<h2>${esc(S.child||"Your child")}'s progress</h2><div class="kpis">${Object.entries(STATUS).map(([k,v])=>`<div class="kpi"><span class="small muted"><span class="dot st-${k}"></span> ${v}</span><b>${cnt[k]}</b></div>`).join("")}</div>`;
-  const qs=[...new Set(T.map(t=>t.q))];
-  h+=`<h2>By big question</h2><div class="stack">${qs.map(q=>{const ts=T.filter(t=>t.q===q);const seg=k=>ts.filter(t=>st(t.id)===k).length/ts.length*100;return `<div><div class="row" style="justify-content:space-between"><span>${esc(q)}</span><span class="small muted">${ts.filter(t=>["completed","mastered"].includes(st(t.id))).length}/${ts.length}</span></div><div class="bar"><span class="st-mastered" style="width:${seg("mastered")}%"></span><span class="st-completed" style="width:${seg("completed")}%"></span><span class="st-learning" style="width:${seg("learning")}%"></span></div></div>`}).join("")}</div>`;
-  const B=DATA.boards[S.board];const all=B.books.flatMap(b=>b.chapters);const cov=all.filter(c=>chapterState(c)==="covered").length;
-  h+=`<h2>Against ${esc(B.name)}</h2><div class="panel"><div class="row" style="justify-content:space-between"><span>${cov} of ${all.length} chapters or strands covered</span><b>${Math.round(cov/all.length*100)}%</b></div><div class="bar" style="margin-top:8px"><span class="st-completed" style="width:${cov/all.length*100}%"></span></div></div>`;
-  h+=`<h2>Learning log</h2>${S.log.length?`<div class="tablebox"><table><tr><th>Date</th><th>Topic</th><th>How</th></tr>${S.log.slice(0,20).map(l=>`<tr><td class="small" style="white-space:nowrap">${fmt(l.date)}</td><td>${esc(TBY[l.topic].name)}</td><td class="small">${l.kind==="free"?"Explored freely":"Planned"}</td></tr>`).join("")}</table></div>`:`<p class="muted">Sessions you log on the Today tab show up here.</p>`}`;
+  let h=`<h2>${esc(S.child||"Your child")}'s progress</h2><div class="stack">`;
+  S.subjects.forEach(s=>{const us=[...collate(s).dk,...collate(s).board];if(!us.length)return;const cnt=k=>us.filter(u=>coverage(u)===k).length;const pct=k=>cnt(k)/us.length*100;
+    h+=`<div class="panel"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="small muted">${cnt("completed")+cnt("mastered")} of ${us.length} done · ${cnt("learning")} learning</span></div><div class="bar" style="margin-top:8px"><span class="st-mastered" style="width:${pct("mastered")}%"></span><span class="st-completed" style="width:${pct("completed")}%"></span><span class="st-learning" style="width:${pct("learning")}%"></span></div></div>`});
+  h+=`</div>`;
+  const bs=boardsOn();if(bs.length){h+=`<h2>Against the boards</h2><div class="stack">${bs.map(b=>{const us=S.subjects.flatMap(s=>collate(s).board.filter(u=>u.board===b));if(!us.length)return"";const c=us.filter(u=>rank[coverage(u)]>=2).length;return `<div class="panel"><div class="row" style="justify-content:space-between"><span>${BOARDS[b]}: ${c} of ${us.length} chapters, strands or themes</span><b>${Math.round(c/us.length*100)}%</b></div><div class="bar" style="margin-top:8px"><span class="st-completed" style="width:${c/us.length*100}%"></span></div></div>`}).join("")}</div>`}
+  h+=`<h2>Learning log</h2>${S.log.length?`<div class="tablebox"><table><tr><th>Date</th><th>Subject</th><th>What</th><th>How</th></tr>${S.log.slice(0,25).map(l=>`<tr><td class="small" style="white-space:nowrap">${fmt(l.date)}</td><td class="small">${SUBJ[l.subj]||""}</td><td>${esc(l.title)}</td><td class="small">${l.kind==="free"?"Explored freely":"Planned"}</td></tr>`).join("")}</table></div>`:`<p class="muted">Sessions you log on the Today tab show up here.</p>`}`;
   return h;
 }
 function render(){
-  document.getElementById("who").textContent=(S.child?S.child+" · ":"")+"Science · Level 1 · "+DATA.boards[S.board].name;
-  const v={today:viewToday,plan:viewPlan,topics:viewTopics,boards:viewBoards,progress:viewProgress}[tab]();
+  const m=document.getElementById("main"),tabs=document.getElementById("tabs");
+  if(!S.setup&&!ob)ob={step:0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels}))};
+  tabs.hidden=!!ob;document.getElementById("openSettings").hidden=!!ob;
+  document.getElementById("who").textContent=ob?"Let's set up your year":(S.child?S.child+" · ":"")+(S.board==="none"?"DeepKids Plus":S.board==="combined"?"Combined boards":BOARDS[S.board])+(S.plus&&S.board!=="none"?" + Plus":"");
   const open=[...document.querySelectorAll("details[open]")].map(d=>d.dataset.id);
-  const m=document.getElementById("main");m.replaceChildren(el(v));
+  m.replaceChildren(el(ob?viewOnboarding():{today:viewToday,plan:viewPlan,topics:viewTopics,progress:viewProgress}[tab]()));
   open.forEach(id=>{const d=m.querySelector(`details[data-id="${id}"]`);if(d)d.open=true});
-  document.querySelectorAll("#tabs button").forEach(b=>b.setAttribute("aria-selected",b.dataset.tab===tab));
+  tabs.querySelectorAll("button").forEach(b=>b.setAttribute("aria-selected",b.dataset.tab===tab));
 }
 
 /* ---------- events ---------- */
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;tab=b.dataset.tab;render();scrollTo(0,0)});
-document.getElementById("main").addEventListener("click",e=>{
+const main=document.getElementById("main");
+main.addEventListener("click",e=>{
+  if(ob){const d=ob.d;const t=e.target.closest("[data-ob],[data-age],[data-b],[data-s]");if(!t)return;
+    if(t.dataset.ob==="next")return obNext();if(t.dataset.ob==="back"){ob.step--;return render()}
+    if(t.dataset.age){d.child=document.getElementById("obName").value;d.age=+t.dataset.age}
+    if(t.dataset.b){d.board=t.dataset.b;if(d.board==="none")d.plus=true}
+    if(t.dataset.s&&t.classList.contains("choice")){const s=t.dataset.s;d.subjects=d.subjects.includes(s)?d.subjects.filter(x=>x!==s):[...d.subjects,s].sort((a,b)=>SUBJ_KEYS.indexOf(a)-SUBJ_KEYS.indexOf(b))}
+    return render()}
   const b=e.target.closest("[data-act]");if(!b)return;const a=b.dataset.act;
-  if(a==="did"){logSession(b.dataset.id,"plan");commit()}
-  else if(a==="didtopic"){logSession(b.dataset.id,"free");commit()}
-  else if(a==="skip"){S.skips[today]=true;commit()}
-  else if(a==="free"){openPicker()}
-  else if(a==="status"){setStatus(b.dataset.id,b.dataset.s)}
-  else if(a==="board"){S.board=b.dataset.b;commit()}
+  if(a==="did"||a==="logk"){const u=unitBy(b.dataset.k);if(u){logSession(u,a==="did"?"plan":"free");commit()}}
+  else if(a==="skip"){S.skips[today+"|"+b.dataset.s]=true;commit()}
+  else if(a==="free")openPicker();
+  else if(a==="status"){const p=S.progress[b.dataset.k]||{sessions:0};p.status=b.dataset.s;p.updated=today;S.progress[b.dataset.k]=p;commit()}
   else if(a==="check"){const x=S.exps.find(x=>x.id===b.dataset.e);if(x&&!x.checks.includes(today)){x.checks.push(today);commit()}}
   else if(a==="close"){const x=S.exps.find(x=>x.id===b.dataset.e);if(x){x.closed=true;x.end=today;commit()}}
-  else if(a==="addexp"){const i=document.getElementById("newExp");const v=i.value.trim();if(v){S.exps.push({id:Math.random().toString(36).slice(2,9),title:v,topic:S.log[0]?.topic||T[0].id,start:today,checks:[],closed:false});commit()}}
+  else if(a==="addexp"){const v=document.getElementById("newExp").value.trim();if(v){S.exps.push({id:Math.random().toString(36).slice(2,9),title:v,topic:"Own experiment",start:today,checks:[],closed:false});commit()}}
+});
+main.addEventListener("change",e=>{
+  if(ob&&e.target.matches("#obPlus")){ob.d.plus=e.target.checked;return}
+  if(ob&&e.target.matches("select[data-s]")){ob.d.levels[e.target.dataset.s]=+e.target.value;return}
+  if(e.target.matches('select[data-act="ustatus"]')){const k=e.target.dataset.k;const p=S.progress[k]||{sessions:0};p.status=e.target.value;p.updated=today;S.progress[k]=p;commit()}
 });
 const pick=document.getElementById("pick");
-function openPicker(){document.getElementById("pickList").replaceChildren(el(T.map(t=>`<button data-id="${t.id}"><span class="tid">${t.id}</span> ${esc(t.name)}</button>`).join("")));pick.showModal()}
-document.getElementById("pickList").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;logSession(b.dataset.id,"free");pick.close();commit()});
+function openPicker(){const us=allUnits();document.getElementById("pickList").replaceChildren(el(us.map(u=>`<button data-k="${u.k}"><span class="tid">${SUBJ[u.subj]}</span> ${esc(u.title)}</button>`).join("")));pick.showModal()}
+document.getElementById("pickList").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const u=unitBy(b.dataset.k);if(u){logSession(u,"free");pick.close();commit()}});
 document.getElementById("pickClose").onclick=()=>pick.close();
 const dlg=document.getElementById("settings");
-document.getElementById("openSettings").onclick=()=>{
-  sName.value=S.child;sBoard.value=S.board;sStart.value=S.start;
-  sDays.replaceChildren(el([1,2,3,4,5,6,0].map(d=>`<button type="button" aria-pressed="${S.days.includes(d)}" data-d="${d}">${DAYN[d]}</button>`).join("")));
-  syncNote.textContent=syncMode==="account"?"Progress is saved to your claude.ai account, privately.":"Progress is saved in this browser only.";dlg.showModal()};
-sDays.addEventListener("click",e=>{const b=e.target.closest("button");if(b)b.setAttribute("aria-pressed",b.getAttribute("aria-pressed")!=="true")});
-setForm.addEventListener("submit",()=>{S.child=sName.value.trim();S.board=sBoard.value;if(sStart.value)S.start=sStart.value;
-  const ds=[...sDays.querySelectorAll('[aria-pressed="true"]')].map(b=>+b.dataset.d);if(ds.length)S.days=ds.sort();commit()});
+document.getElementById("openSettings").onclick=()=>{sName.value=S.child;sStart.value=S.start;
+  syncNote.textContent=syncMode==="account"?"Progress is saved privately to your claude.ai account.":"Progress is saved in this browser only.";dlg.showModal()};
+setForm.addEventListener("submit",e=>{S.child=sName.value.trim();if(sStart.value)S.start=sStart.value;
+  if(e.submitter&&e.submitter.value==="redo"){save();startOnboarding(1)}else commit()});
 boot();
 </script>
