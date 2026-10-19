@@ -5,6 +5,7 @@ from sci_l1_data import T
 from boards import RES, WEEKS
 from catalog import *
 from ncert_evs_content import C as EVS
+from c3_daily import X as C3X
 
 items = []  # every learnable unit: a board chapter/strand/theme, or a DeepKids topic
 def add(**k): items.append(k)
@@ -13,7 +14,7 @@ for (subj, lvl), (book, chs) in NCERT.items():
     for i, title in enumerate(chs, 1):
         add(k=f"ncert|{subj}|{lvl}|{i}", board="ncert", subj=subj, level=lvl, book=f"{book} · Class {lvl}", n=str(i), title=title,
             dk=NCERT_DK.get((lvl, i), []) if subj == "sci" else [],
-            c=({**{k: v for k, v in EVS[(lvl, i)].items() if k != "dk"}} if subj == "sci" and (lvl, i) in EVS else None))
+            c=({**{k: v for k, v in EVS[(lvl, i)].items() if k != "dk"}, **({"x": C3X[i]} if lvl == 3 and i in C3X else {})} if subj == "sci" and (lvl, i) in EVS else None))
 for subj, (book, strands) in CAMBRIDGE.items():
     for lvl in LEVELS:
         for i, s in enumerate(strands, 1):
