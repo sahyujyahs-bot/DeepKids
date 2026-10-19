@@ -4,6 +4,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 from sci_l1_data import T
 from boards import RES, WEEKS
 from catalog import *
+from ncert_evs_content import C as EVS
 
 items = []  # every learnable unit: a board chapter/strand/theme, or a DeepKids topic
 def add(**k): items.append(k)
@@ -11,7 +12,8 @@ def add(**k): items.append(k)
 for (subj, lvl), (book, chs) in NCERT.items():
     for i, title in enumerate(chs, 1):
         add(k=f"ncert|{subj}|{lvl}|{i}", board="ncert", subj=subj, level=lvl, book=f"{book} · Class {lvl}", n=str(i), title=title,
-            dk=NCERT_DK.get((lvl, i), []) if subj == "sci" else [])
+            dk=NCERT_DK.get((lvl, i), []) if subj == "sci" else [],
+            c=({**{k: v for k, v in EVS[(lvl, i)].items() if k != "dk"}} if subj == "sci" and (lvl, i) in EVS else None))
 for subj, (book, strands) in CAMBRIDGE.items():
     for lvl in LEVELS:
         for i, s in enumerate(strands, 1):
@@ -61,10 +63,14 @@ for (l, n), ids in NCERT_DK.items():
     for d in ids: rev.setdefault(d, []).append(f"Cl {l} Ch {n} {NCERT[('sci', l)][1][n-1]}")
 for t in T:
     ws2.append([t["id"], t["q"], t["topic"], 1, 1, 6, t["subtopics"].replace("• ", ""), "; ".join(rev.get(t["id"], [])) or "Beyond board syllabus"])
+ws4 = wb.create_sheet("NCERT EVS · games & projects")
+ws4.append(["Level", "Class", "Ch", "Chapter", "What it covers", "Game", "How to play", "Experiments", "Activities", "Project", "Project steps", "You end up with", "Extra reading", "Other NCERT books (same class)", "DeepKids Plus topics"])
+for (l, n), c in sorted(EVS.items()):
+    ws4.append([l, l, n, NCERT[("sci", l)][1][n-1], c["covers"], c["game"][0], c["game"][1], "\n".join(c["exp"]), "\n".join(c["act"]), c["proj"][0], c["proj"][1], c["proj"][2], "\n".join(c["read"]), "\n".join(c["links"]), "; ".join(f"{d} {TNAME[d]}" for d in c["dk"])])
 ws3 = wb.create_sheet("Level map")
 ws3.append(["DeepKids level", "NCERT class", "Cambridge stage", "NIOS OBE", "Age"])
 for l, (c, a) in LEVELS.items(): ws3.append([l, c, c, f"Prepares for Level {nios_level(l)}" + (" (≈Class 3)" if l <= 3 else " (≈Class 5)"), a])
-for w in (ws, ws2, ws3):
+for w in (ws, ws2, ws3, ws4):
     for cell in w[1]: cell.font = Font(name=F, bold=True, color="FFFFFF"); cell.fill = HDR; cell.alignment = Alignment(wrap_text=True)
     for r in w.iter_rows(min_row=2):
         for cell in r: cell.font = Font(name=F, size=10); cell.alignment = Alignment(wrap_text=True, vertical="top")
@@ -72,5 +78,6 @@ for w in (ws, ws2, ws3):
 for i, wdt in enumerate([14, 14, 9, 7, 6, 8, 34, 9, 40, 44, 26], 1): ws.column_dimensions[get_column_letter(i)].width = wdt
 for i, wdt in enumerate([8, 20, 32, 9, 7, 6, 70, 60], 1): ws2.column_dimensions[get_column_letter(i)].width = wdt
 for i, wdt in enumerate([12, 12, 14, 34, 8], 1): ws3.column_dimensions[get_column_letter(i)].width = wdt
+for i, wdt in enumerate([6, 6, 4, 22, 40, 18, 60, 50, 45, 20, 50, 26, 34, 34, 26], 1): ws4.column_dimensions[get_column_letter(i)].width = wdt
 out = os.path.join(HERE, "..", "DeepKids_Board_Topics_Collated.xlsx"); wb.save(out)
 print(len(items), "items;", len(topics), "DeepKids topics; xlsx:", os.path.abspath(out))
