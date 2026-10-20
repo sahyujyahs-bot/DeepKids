@@ -3,51 +3,53 @@
 import openpyxl, sys, os
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from boards import BOARDS
-from ncert_evs_content import C as NC
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'DeepKids_Science_Board_Topics_L1-5.xlsx')
 
-# Cambridge Primary Science 0097, Stages 1–5. Topic areas worded by us from the framework's sub-strands,
-# because cambridgeinternational.org was unreachable. Check against the framework PDF before relying on them.
-CAM = {
- 1: [
-  ('Biology', 'Structure and function', 'Parts of a plant: root, stem, leaf, flower'),
-  ('Biology', 'Structure and function', 'Outside parts of the human body and of animals'),
-  ('Biology', 'Structure and function', 'Five senses and their organs'),
-  ('Biology', 'Life processes', 'Living, once living and never alive'),
-  ('Biology', 'Life processes', 'What plants need: water and light'),
-  ('Biology', 'Life processes', 'What animals and humans need: food, water, air'),
-  ('Biology', 'Ecosystems', 'Local habitats: plants and animals around us'),
-  ('Chemistry', 'Materials and their properties', 'Everyday materials: wood, plastic, metal, glass, rock, paper, fabric'),
-  ('Chemistry', 'Materials and their properties', 'Sorting materials by property: hard/soft, rough/smooth, shiny/dull'),
-  ('Chemistry', 'Changes to materials', 'Changing shape: squash, bend, twist, stretch'),
-  ('Physics', 'Forces and energy', 'Pushes and pulls; starting, stopping, speeding up, turning'),
-  ('Physics', 'Light and sound', 'Sources of sound; hearing; sound gets fainter further away'),
-  ('Physics', 'Light and sound', 'Sources of light; dark is no light'),
-  ('Physics', 'Electricity and magnetism', 'Things that use electricity; electrical safety'),
-  ('Earth and space', 'Planet Earth', 'Land and water; rocks and soil'),
-  ('Earth and space', 'Earth in space', 'The Sun: light and heat, never look at it'),
-  ('Earth and space', 'Cycles on Earth', 'Day and night; daily weather'),
- ],
- 5: [
-  ('Biology', 'Structure and function', 'Flower parts; pollination and seed dispersal'),
-  ('Biology', 'Life processes', 'Plant life cycle and what plants need to make food'),
-  ('Biology', 'Life processes', 'Human life stages and changes'),
-  ('Biology', 'Ecosystems', 'Microorganisms: helpful and harmful'),
-  ('Chemistry', 'Materials and their structure', 'Mixtures and solutions; dissolving'),
-  ('Chemistry', 'Changes to materials', 'Evaporation and condensation; the water cycle'),
-  ('Chemistry', 'Changes to materials', 'Separating mixtures: sieving, filtering, evaporating'),
-  ('Physics', 'Forces and energy', 'Measuring forces in newtons; gravity, air and water resistance'),
-  ('Physics', 'Light and sound', 'Reflection; mirrors; how we see'),
-  ('Physics', 'Forces and energy', 'Energy: forms and transfers'),
-  ('Earth and space', 'Earth in space', 'The solar system; planets'),
-  ('Earth and space', 'Cycles on Earth', 'Earth\'s orbit and tilt: years and seasons; Moon phases'),
- ],
+# NCERT "Our Wondrous World" (Reprint 2026-27), from the uploaded chapter PDFs: unit, chapter, covers (from each unit's Note to the Teacher).
+NCERT = {
+ 3: [('Unit 1: Our Families and Communities', 'Family and Friends', 'Members of a family, how they are related, how they support each other, the joy of living together'),
+     ('Unit 1: Our Families and Communities', 'Going to the Mela', 'Near and far family at the mela: materials, people, activities; how families in a community help each other'),
+     ('Unit 1: Our Families and Communities', 'Celebrating Festivals', 'Food, dress and cultural practices at festivals; people of all ages celebrating together'),
+     ('Unit 2: Life Around Us', 'Getting to Know Plants', 'Variety of plants around us, their features, uses and importance; what a plant needs and how to care for it'),
+     ('Unit 2: Life Around Us', 'Plants and Animals Live Together', 'How plants and animals support each other; animals around us, their habits and habitats'),
+     ('Unit 2: Life Around Us', 'Living in Harmony', 'We are connected to plants and animals near and far; kindness to all living beings'),
+     ('Unit 3: Gifts of Nature', 'Water — A Precious Gift', 'Rain, storing and cleaning water, using it at home, problems of water quality and quantity, saving water'),
+     ('Unit 3: Gifts of Nature', 'Food We Eat', 'Why food matters for health; foods from many sources; nutrients; traditional knowledge of healthy eating'),
+     ('Unit 3: Gifts of Nature', 'Staying Healthy and Happy', 'Hygiene and cleanliness at home and around us; regular exercise and yoga; physical and emotional well-being'),
+     ('Unit 4: Things Around Us', 'This World of Things', 'What things are made of, where they come from, natural vs made by people, properties of materials'),
+     ('Unit 4: Things Around Us', 'Making Things', 'Materials and their uses; houses built from natural resources; new designs; safety rules'),
+     ('Unit 4: Things Around Us', 'Taking Charge of Waste', 'Throwing and sorting waste correctly; reuse and recycling; clean and safe homes and neighbourhoods')],
+ 4: [('Unit 1: Our Community', 'Living Together', 'Community as togetherness and interdependence; Van Mahotsav and caring for shared spaces; sharing in festivals'),
+     ('Unit 1: Our Community', 'Exploring Our Neighbourhood', 'Transport and communication then and now; community institutions; banks and money basics; drawing and reading maps, directions'),
+     ('Unit 2: Life Around Us', 'Nature Trail', 'Variety of plants and animals and their features; birds and leaves; the web of life; caring for nature'),
+     ('Unit 2: Life Around Us', 'Growing up with Nature', 'Nature and culture in daily life; unique trees and flowers; tribal art; medicinal plants; sustainable living'),
+     ('Unit 3: Health and Well-being', 'Food for Health', 'Food festival; balanced food: energy-giving, body-building, protective foods; traditional foods'),
+     ('Unit 3: Health and Well-being', 'Happy and Healthy Living', 'Journey of a grain and gratitude; not wasting food; mindful eating, exercise, rest; a safe environment'),
+     ('Unit 4: Things Around Us', 'How Things Work', 'Hands-on with toys and paper: spinning, floating and sinking; finding patterns in how things work'),
+     ('Unit 4: Things Around Us', 'How Things are Made', 'Making handmade paper from pulp; how paper is made; the 5Rs of waste'),
+     ('Unit 5: Our Environment', 'Different Lands, Different Lives', 'Plains, deserts, coasts and mountains: how land shapes food, clothes, houses, festivals, plants and animals'),
+     ('Unit 5: Our Environment', 'Our Sky', 'Sun, Moon and stars; sky-related festivals and practices; shadows at different times of day and why their length changes')],
+ 5: [('Unit 1: Life Around Us', 'Water — The Essence of Life', 'Forms and sources of water (fresh and salt); uses; the water cycle; water shaping land; freshwater habitats; conservation'),
+     ('Unit 1: Life Around Us', 'Journey of a River', 'The Godavari from source to delta: tributaries, river life, dams, pollution; rivers support ecosystems, people and culture'),
+     ('Unit 2: Health and Well-being', 'The Mystery of Food', 'How microbes spoil food; preservation methods and their culture; good microbes; storage and hygiene'),
+     ('Unit 2: Health and Well-being', 'Our School — A Happy Place', 'A green school: waste, water, trees; kindness, respect and positive behaviour'),
+     ('Unit 3: Incredible India', 'Our Vibrant Country', 'Republic Day, national symbols, currency, languages, clothing, dance and music; unity in diversity'),
+     ('Unit 3: Incredible India', 'Some Unique Places', 'Ecological regions of India; unique landscapes; rare and endemic species; traditional knowledge'),
+     ('Unit 4: Things Around Us', 'Energy — How Things Work', 'Energy in everyday life; forms of energy at home and in society; how energy makes things work; clean and efficient energy'),
+     ('Unit 4: Things Around Us', 'Clothes — How Things are Made', 'From birds weaving nests to spinning, weaving and stitching; handloom and embroidery; reuse and recycling'),
+     ('Unit 5: Our Amazing Planet', 'Rhythms of Nature', 'Day and night, seasons, and how plants, animals, people and places change; nature journaling'),
+     ('Unit 5: Our Amazing Planet', 'Earth — Our Shared Home', 'Earth as a connected living planet; sharing nature, knowledge and culture; Vasudhaiva Kutumbakam')],
 }
-# From the uploaded Learner's Books: unit -> (strands, topics). Stage 3 is the 1st edition (older framework).
+# From the uploaded Learner's Books: unit -> (strands, topics). Stages 1 and 3 are 1st editions (older framework).
 BOOK = {
+ 1: ("Cambridge Primary Science Learner's Book 1 (1st ed., older framework)", [
+  ('1 Being alive', 'Biology', ['Animals and plants alive!', 'Local environments', 'Animal babies', 'Healthy food and drink']),
+  ('2 Growing plants', 'Biology', ['Plant parts', 'Growing seeds', 'Plants and light']),
+  ('3 Ourselves', 'Biology', ['We are similar', 'We are different', 'Our bodies', 'Our fantastic senses']),
+  ('4 Materials in my world', 'Chemistry', ['What is it made of?', 'Using materials', 'Sorting materials']),
+  ('5 Pushes and pulls', 'Physics', ['In the playground', 'How toys work', 'Pushes and pulls around us', 'Changing movement']),
+  ('6 Hearing sounds', 'Physics', ['Where do sounds come from?', 'Our ears', 'Sounds move'])]),
  2: ("Cambridge Primary Science Learner's Book 2 (2nd ed.)", [
   ('1 Environments and habitats', 'Biology: structure and function, life processes', ['Habitats', 'Plants in different habitats', 'Animals in different habitats', 'Rocks and the environment', 'How can we care for our environment?']),
   ('2 Forces and movement', 'Physics: forces and energy', ['Forces around us', 'Changing shape', 'Changing speed', 'Changing direction']),
@@ -62,6 +64,13 @@ BOOK = {
   ('4 Our five senses', 'Biology', ['Hearing and touch', 'Taste and smell', 'Sight']),
   ('5 Investigating materials', 'Chemistry', ['Properties of materials', 'Sorting materials', 'Uses of materials', 'Testing materials', 'Magnetic materials']),
   ('6 Forces and movement', 'Physics', ['Push and pull', 'Changing shape', 'How big is that force?', 'Forcemeters', 'Friction'])]),
+5: ("Cambridge Primary Science Learner's Book 5 (2nd ed.)", [
+  ('1 Life cycles of flowering plants', 'Biology: structure and function, life processes', ['Flowering and non-flowering plants', 'Pollination, fruits and seeds', 'How seeds are spread', 'Seed germination']),
+  ('2 Sound', 'Physics: light and sound', ['How are sounds made?', 'Volume and pitch', 'Changing the volume of sound', 'Changing the pitch of sound']),
+  ('3 States and properties of matter', 'Chemistry: structure, properties, changes', ['Gases', 'Properties of water', 'Evaporation and condensation', 'Solutions']),
+  ('4 The digestive system', 'Biology: structure and function', ['Parts and functions of the digestive system', 'Balanced diets']),
+  ('5 Forces and magnetism', 'Physics: forces and energy, electricity and magnetism', ['Gravity, normal forces and applied forces', 'Gravity and satellites', 'Friction, air resistance, water resistance and upthrust', 'Multiple forces', 'Magnets and magnetic materials', 'Magnetic force']),
+  ('6 Seasons and adaptations of plants and animals', 'Earth and space: Earth in space; Biology: ecosystems', ['The Earth moves around the Sun', 'Seasonal changes', 'Plants and animals are adapted to different environments', 'Adaptations of predators and prey'])]),
  4: ("Cambridge Primary Science Learner's Book 4 (2nd ed.)", [
   ('1 Living things', 'Biology: structure and function, life processes', ['Bones and skeletons', 'Why we need a skeleton', 'Skeletons and movement', 'Different kinds of skeletons', 'Medicines and infectious diseases']),
   ('2 Energy', 'Physics: forces and energy; Biology: ecosystems', ['Energy around us', 'Energy transfers', 'Energy changes', 'Energy and living things']),
@@ -98,18 +107,14 @@ for lv in range(1, 6):
         ROWS.append([lv, lv, age, 'NCERT / CBSE', '(no EVS book)', '', 'No EVS book in Classes 1–2 (NCF 2023)',
                      'EVS ideas sit inside the English (Mridang), Hindi (Sarangi) and Maths (Joyful Mathematics) books', 'Confirmed'])
     else:
-        book = BOARDS['ncert']['books'][lv - 3]
-        for n, title, _ in book['chapters']:
-            ROWS.append([lv, lv, age, 'NCERT / CBSE', book['title'], 'Ch ' + n, title, NC.get((lv, int(n)), {}).get('covers', ''), 'Titles: verify vs PDF'])
-    if lv in BOOK:
-        title, units = BOOK[lv]
-        for u, strands, topics in units:
-            ROWS.append([lv, lv, age, 'Cambridge Primary', title, u, u.split(' ', 1)[1], '; '.join(topics) + '  [' + strands + ']', 'From the book'])
-    else:
-        for strand, sub, t in CAM[lv]:
-            ROWS.append([lv, lv, age, 'Cambridge Primary', f'Science 0097 · Stage {lv}', f'{strand}: {sub}', t, '', 'Verify: no book yet'])
+        for i, (unit, title, cov) in enumerate(NCERT[lv], 1):
+            ROWS.append([lv, lv, age, 'NCERT / CBSE', f'Our Wondrous World · Class {lv}', f'{unit} · Ch {i}', title, cov, 'From the book'])
+    title, units = BOOK[lv]
+    for u, strands, topics in units:
+        for i, t in enumerate(topics, 1):
+            ROWS.append([lv, lv, age, 'Cambridge Primary', title, f'Unit {u} · {u.split()[0]}.{i}', t, strands, 'From the book'])
     for strand, sub, t in CAM_ALL:
-        ROWS.append([lv, lv, age, 'Cambridge Primary', f'Science 0097 · Stage {lv}', strand, t, '', 'Runs through every stage'])
+        ROWS.append([lv, lv, age, 'Cambridge Primary', f'All stages', strand, t, '', 'Runs through every stage'])
     if lv == 3:
         for n, t, cov in NIOS_A:
             ROWS.append([lv, lv, age, 'NIOS OBE', 'Level A · Environmental Studies (A 102), ≈ Class 3', 'Lesson ' + n, t, cov, 'From the book'])
@@ -144,7 +149,7 @@ style(ws, [7, 7, 6, 16, 30, 32, 48, 60, 18], 0)
 ws = wb.create_sheet('Side by side')
 ws.append(['Level · Class · Age', 'NCERT / CBSE', 'Cambridge Primary', 'NIOS OBE'])
 for lv in range(1, 6):
-    col = {b: [r[6] if b != 'Cambridge Primary' else f'{r[6]}  ({r[5].split(":")[0]})' for r in ROWS if r[0] == lv and r[3] == b]
+    col = {b: [r[6] if b != 'Cambridge Primary' else f'{r[5].split(" · ")[-1]} {r[6]}' if r[8] == 'From the book' else r[6] for r in ROWS if r[0] == lv and r[3] == b]
            for b in ('NCERT / CBSE', 'Cambridge Primary', 'NIOS OBE')}
     if lv >= 3: col['NCERT / CBSE'] = [f'{i+1}. {t}' for i, t in enumerate(col['NCERT / CBSE'])]
     h = max(len(v) for v in col.values())
@@ -159,22 +164,21 @@ for row in ws.iter_rows(min_row=2):
     else: row[0].font = Font(bold=True)
 
 ws = wb.create_sheet('Counts')
-ws.append(['Level', 'Class', 'Age', 'NCERT chapters', 'Cambridge units / topic areas', 'NIOS lessons'])
+ws.append(['Level', 'Class', 'Age', 'NCERT chapters', 'Cambridge topics', 'NIOS lessons'])
 for lv in range(1, 6):
-    n = lambda b: sum(1 for r in ROWS if r[0] == lv and r[3] == b)
-    ws.append([lv, lv, lv + 5, 0 if lv <= 2 else n('NCERT / CBSE'), n('Cambridge Primary'), n('NIOS OBE')])
+    n = lambda b: sum(1 for r in ROWS if r[0] == lv and r[3] == b and r[8] == 'From the book' and r[4] != '(no level)')
+    ws.append([lv, lv, lv + 5, n('NCERT / CBSE'), n('Cambridge Primary'), n('NIOS OBE')])
 style(ws, [8, 8, 6, 16, 22, 14], 0)
 
 ws = wb.create_sheet('Notes')
 for line in [
  'Science / EVS topics of NCERT, Cambridge Primary and NIOS for DeepKids Levels 1–5 (Classes 1–5, ages about 6–10).',
- 'NCERT: "Our Wondrous World" Classes 3–5 (NCF 2023). Classes 1–2 have no EVS book. Chapter titles came from secondary listings; check against the NCERT PDFs.',
- 'Cambridge Stages 2 and 4: units and topics from the uploaded Learner\'s Books (2nd edition, current 0097 framework).',
- 'Cambridge Stage 3: from the uploaded Learner\'s Book 3, 1st edition, which follows the older framework; the 2nd edition may group topics differently.',
- 'Cambridge Stages 1 and 5: no book uploaded yet, so these rows are topic areas worded by us from the framework. Check them.',
+ 'NCERT: "Our Wondrous World" Classes 3–5 (NCF-SE 2023, Reprint 2026-27), from the uploaded chapter PDFs. "What it covers" summarises each unit\'s Note to the Teacher. Classes 1–2 have no EVS book.',
+ 'Cambridge: units and topics from the uploaded Learner\'s Books. Books 2, 4 and 5 are 2nd editions (current 0097 framework). Books 1 and 3 are 1st editions (older framework), so the 2nd editions may group topics differently.',
+ 'Book 5 prints the strand column of units 4–6 shifted; strands here are matched to the topics.',
  'Cambridge also runs two strands through every stage: Thinking and working scientifically, and Science in context.',
  'NIOS: Open Basic Education Level A (A 102) is "equivalent to Class 3" per the book, so its 12 lessons sit at Level 3. NIOS has nothing below Level A. Level B (≈ Class 5) book not uploaded yet.',
- 'Still to upload: NCERT Our Wondrous World 3–5, Cambridge Learner\'s Books 1 and 5 (and 3, 2nd edition), NIOS Level B EVS.',
+ 'Still to upload if wanted: Cambridge Learner\'s Books 1 and 3 (2nd edition), NIOS Level B Environmental Studies.',
 ]: ws.append([line])
 ws.column_dimensions['A'].width = 140
 for c in ws['A']: c.alignment = Alignment(wrap_text=True)
