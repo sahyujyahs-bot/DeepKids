@@ -390,6 +390,13 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 .libcard .ico{width:28px;height:28px}
 .chip .plain{display:inline-grid;place-items:center;margin-left:2px}.chip .plain .ico{width:14px;height:14px}
 
+/* v6: plan options, topic queue */
+.optcard{background:color-mix(in srgb,var(--c) 20%,var(--surface))}
+.optcard.chosen{box-shadow:0 0 0 3px var(--good),var(--lift)}
+.qrow{display:grid;grid-template-columns:30px 1fr auto;gap:10px;align-items:center;padding:10px 12px;border-radius:18px;background:color-mix(in srgb,var(--c) 18%,var(--surface))}
+.qn{font:700 18px var(--display);color:color-mix(in srgb,var(--c) 60%,var(--ink));text-align:center}
+.qrow .plain{text-align:left}
+
 </style>
 
 <header class="top"><div class="wrap">
@@ -416,6 +423,8 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
 
 
 
@@ -470,21 +479,33 @@ const commit=()=>{S.updatedAt=Date.now();save();render()};
 
 /* ---------- syllabus collation ---------- */
 const boardsOn=()=>S.board==="combined"?["ncert","cambridge","nios"]:S.board==="none"?[]:[S.board];
-function dkUnits(subj,lvl){if(!S.plus||subj!=="sci"||lvl!==1)return [];return DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t}))}
-function collateAt(subj,lvl){return {board:DATA.items.filter(i=>i.subj===subj&&i.level===lvl&&boardsOn().includes(i.board)),dk:dkUnits(subj,lvl)}}
+const modeOf=()=>S.mode||(S.board==="none"?"plus":S.plus?"booksplus":"books");const plusOn=()=>modeOf()!=="books";
+let SHARED={topics:[]};
+const genUnit=g=>({k:"gen|"+g.id,board:"gen",subj:g.subj,level:g.level||1,book:"DeepKids topic",n:"★",title:g.name,dk:[],gen:g});
+function genUnits(subj,lvl){const ex=(S.extra||{})[subj]||[];return SHARED.topics.filter(g=>g.subj===subj&&((g.level||1)===lvl||(lvl===S.levels[subj]&&(g.level||1)<lvl))&&ex.includes("gen|"+g.id)).map(genUnit)}
+function dkUnits(subj,lvl){if(!plusOn()||subj!=="sci"||lvl!==1)return [];return DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t}))}
+function collateAt(subj,lvl){return {board:DATA.items.filter(i=>i.subj===subj&&i.level===lvl&&boardsOn().includes(i.board)),dk:dkUnits(subj,lvl),gen:genUnits(subj,lvl)}}
 const collate=s=>collateAt(s,S.levels[s]);
 function notesFor(subj,lvl){const n=[];boardsOn().forEach(b=>{const x=b==="ncert"?DATA.notes.ncert[subj+"|"+lvl]:DATA.notes[b]?.[subj];if(x)n.push(BOARDS[b]+": "+x)});
   if(S.plus&&subj==="sci"&&lvl!==1)n.push("DeepKids Plus Science for Level "+lvl+" is being written. Level 1 is ready.");if(S.plus&&subj!=="sci")n.push("DeepKids Plus "+SUBJ[subj]+" is being written.");return n}
-function plannedAt(s,l){const c=collateAt(s,l);if(c.dk.length)return c.dk;for(const b of boardsOn()){const u=c.board.filter(i=>i.board===b);if(u.length)return u}return []}
+function plannedAt(s,l){const c=collateAt(s,l),m=modeOf();let base=[];for(const b of boardsOn()){const u=c.board.filter(i=>i.board===b);if(u.length){base=u;break}}
+  return orderUnits(s,base,m==="books"?c.gen:[...c.dk,...c.gen],m==="plus"?1:2)}
+function orderUnits(s,base,extra,every){const later=(S.later||{})[s]||[],nx=(S.next||{})[s]||[];
+  let b=(S.shuffle||{})[s]?smartShuffle(base,s):base;const out=[];
+  if(S.exam||!b.length||!extra.length)out.push(...b,...extra);else{let j=0;b.forEach((u,i)=>{out.push(u);if((i+1)%every===0&&j<extra.length)out.push(extra[j++])});out.push(...extra.slice(j))}
+  const front=nx.map(k=>out.find(u=>u.k===k)).filter(Boolean),back=out.filter(u=>later.includes(u.k)&&!nx.includes(u.k));
+  return [...front,...out.filter(u=>!nx.includes(u.k)&&!later.includes(u.k)),...back]}
+function smartShuffle(list,s){const R=rng(((S.seed||{})[s]||7)+list.length),left=[...list],out=[],placed=new Set(),inList=new Set(list.map(u=>u.k));
+  while(left.length){const ok=left.filter(u=>prereqOf(u).every(k=>placed.has(k)||!inList.has(k)||rank[st(k)]>=2));const pool=ok.length?ok:[left[0]],pick=pool[Math.floor(R()*pool.length)];out.push(pick);placed.add(pick.k);left.splice(left.indexOf(pick),1)}return out}
 function plannedUnits(s){const o=[];for(let l=S.levels[s];l<=5;l++)o.push(...plannedAt(s,l));return o}
-const everyUnit=()=>S.subjects.flatMap(s=>[1,2,3,4,5].flatMap(l=>{const c=collateAt(s,l);return [...c.dk,...c.board]}));
-const unitBy=k=>everyUnit().find(u=>u.k===k);
+const everyUnit=()=>S.subjects.flatMap(s=>[1,2,3,4,5].flatMap(l=>{const c=collateAt(s,l);return [...c.dk,...c.board,...c.gen]}));
+const unitBy=k=>everyUnit().find(u=>u.k===k)||allUnits().find(u=>u.k===k);
 const st=k=>S.progress[k]?.status||"none";const done=k=>S.progress[k]?.sessions||0;
 const rank={none:0,learning:1,completed:2,mastered:3};
 function coverage(u){if(u.board!=="dk"&&S.plus&&u.dk.length){const s=u.dk.map(id=>st("dk|"+id)),own=st(u.k);if(s.every(x=>rank[x]>=2))return rank[own]>2?own:"completed";if(s.some(x=>x!=="none")||own!=="none")return rank[own]>1?own:"learning";return own}return st(u.k)}
 const daysOf=s=>(S.days[s]||DEF_DAYS[s]);const hpdOf=s=>(S.hpd&&S.hpd[s])||DEF_HPD[s];
 const DEF_UNIT_H={ncert:{math:8,eng:5,hin:4,sci:8},cambridge:{math:30,eng:30,hin:30,sci:20},nios:{math:5,eng:5,hin:5,sci:5}};
-const estHours=u=>u.c?.x?.hours?u.c.x.hours.reduce((a,h)=>a+h[1],0):u.board==="dk"?u.topic.weeks*2.25:DEF_UNIT_H[u.board][u.subj];
+const estHours=u=>u.board==="gen"?(+u.gen.hours||3):u.c?.x?.hours?u.c.x.hours.reduce((a,h)=>a+h[1],0):u.board==="dk"?u.topic.weeks*2.25:DEF_UNIT_H[u.board][u.subj];
 const hoursFor=u=>S.hrs[u.k]??estHours(u);
 const sessionsFor=u=>Math.max(1,Math.ceil(hoursFor(u)/hpdOf(u.subj)-1e-9));
 function schedule(subj,limitDays=420,fromTomorrow=false){
@@ -544,11 +565,12 @@ function prepFor(u,n,tot){const kinds=new Set(daySteps(u,n,tot).map(s=>s.kind));
   return L.map((p,i)=>({id:`p|${u.k}|${n}|${i}`,kind:p[0],lead:p[1],task:p[2],where:p[3]}))}
 let _sess=null;
 function upcoming(){if(_sess)return _sess;const out=[];S.subjects.forEach(s=>schedule(s,12).forEach(x=>out.push(x)));return _sess=out.sort((a,b)=>a.date<b.date?-1:a.date>b.date?1:SUBJ_KEYS.indexOf(a.subj)-SUBJ_KEYS.indexOf(b.subj))}
+const LEARNK=new Set(["guide","read","learn"]);
 function prepBlock(date,when){const items=[];
   upcoming().forEach(x=>{if(x.date<date)return;prepFor(x.u,x.n,x.tot).forEach(p=>{const due=addDays(x.date,-p.lead);let ok=false;
     if(when==="am")ok=(p.lead===0&&x.date===date)||(p.lead>=2&&due===date)||(date===today&&due<date&&(!S.prep[p.id]||S.prep[p.id]===today));
     else ok=p.lead===1&&due===date;
-    if(ok)items.push({...p,x,early:p.lead>=2&&x.date!==date})})});
+    if(ok&&!LEARNK.has(p.kind))items.push({...p,x,early:p.lead>=2&&x.date!==date})})});
   return items}
 const prepMins=its=>Math.max(10,its.reduce((a,p)=>a+(p.kind==="guide"?3:6),0));
 function lessonsOn(date){const L=[];S.subjects.forEach(s=>{
@@ -561,12 +583,14 @@ function dayPlan(date){const d=Dd(date),items=[],ev=eventsOn(date),isT=date===to
   const lessons=lessonsOn(date);const fixed=[{a:hm(d.lunch),b:hm(d.lunch)+(+d.lunchMin)},...ev.filter(e=>e.who!=="you"||true).map(e=>({a:hm(e.start),b:hm(e.end)}))];
   let cur=hm(d.start);const place=dur=>{let moved=true;while(moved){moved=false;for(const f of fixed){if(cur<f.b&&cur+dur>f.a){cur=f.b;moved=true}}}const at=cur;cur+=dur;return at};
   if(lessons.length){items.push({id:"warm",at:place(15),dur:15,who:"both",kind:"warm",title:"Warm-up: jokes and Word of the Day",sub:"Start the day laughing",done:!!S.tl[date+"|warm"]||(isT&&(G().g.length>0))});
+    const rf=refresherFor(date);if(rf)items.push({id:"refresh",at:place(15),dur:15,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:"From "+rf.u.title,rf,done:!!S.tl[date+"|refresh"]});
     const open=S.exps.filter(e=>!e.closed&&e.start<=date);if(open.length)items.push({id:"exps",at:place(5),dur:5,who:"both",kind:"exps",title:"Check ongoing experiments",sub:open.map(e=>e.title).slice(0,2).join(" · ")+(open.length>2?` +${open.length-2}`:""),done:isT&&open.every(e=>e.checks.includes(today))});cur+=5}
-  lessons.forEach((l,i)=>{const dur=hpdOf(l.s)*60,lastEnd=cur;if(i>0)cur+=+d.brk;const at=place(dur);if(i>0&&+d.brk&&at===lastEnd+ +d.brk)items.push({id:"brk"+i,at:lastEnd,dur:+d.brk,who:"free",kind:"brk",title:"Break: water, snack, move"});items.push({id:"L-"+l.s+(l.bonus?"b":"")+i,at,dur,who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,bonus:!!l.bonus,title:(l.bonus?"Bonus · ":"")+SUBJ[l.s]+": "+l.u.title,sub:l.done?"Done ✓":`Day ${l.n} of ${l.tot}`+(l.u.c?.x?` · ${daySteps(l.u,l.n,l.tot).map(z=>z.label).join(", ")}`:""),done:!!l.done});
+  lessons.forEach((l,i)=>{const dur=lessonMins(l.s,date),lastEnd=cur;if(i>0)cur+=+d.brk;const at=place(dur);if(i>0&&+d.brk&&at===lastEnd+ +d.brk)items.push({id:"brk"+i,at:lastEnd,dur:+d.brk,who:"free",kind:"brk",title:"Break: water, snack, move"});items.push({id:"L-"+l.s+(l.bonus?"b":"")+i,at,dur,who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,bonus:!!l.bonus,title:(l.bonus?"Bonus · ":"")+SUBJ[l.s]+": "+l.u.title,sub:l.done?"Done ✓":`Day ${l.n} of ${l.tot}`+(l.u.c?.x?` · ${daySteps(l.u,l.n,l.tot).map(z=>z.label).join(", ")}`:""),done:!!l.done});
 });
   if(lessons.length)items.push({id:"lunch",at:hm(d.lunch),dur:+d.lunchMin,who:"free",kind:"brk",title:"Lunch"});
   ev.forEach(e=>items.push({id:"e-"+e.id,at:hm(e.start),dur:Math.max(15,hm(e.end)-hm(e.start)),who:e.kind==="outing"?"out":e.who,kind:"event",ev:e,title:e.title,sub:({class:"Class",online:"Online class",outing:"Outing",other:""}[e.kind])+(e.note?" · "+e.note:"")+(e.who==="kid"?" · you're free":""),done:!!S.tl[date+"|e-"+e.id]}));
   todosOn(date).forEach(td=>items.push({id:"t-"+td.id,at:24*60-1,dur:15,anytime:true,who:td.who||"you",kind:"todo",td,title:td.title,sub:(td.date<date?"Carried over from "+fmt(td.date):"Any time today")+(td.note?" · "+td.note:""),done:!!td.done&&td.doneOn===date}));
+  if(parse(date).getDay()===0)items.push({id:"weekplan",at:hm(d.eveAt)-20,dur:15,who:"you",kind:"plan",title:"Plan next week",sub:"Add classes, outings and family plans for the coming week",done:!!S.tl[date+"|weekplan"]});
   if(pm.length)items.push({id:"pm",at:hm(d.eveAt),dur:prepMins(pm),who:"you",kind:"prep",title:"Prep for tomorrow",sub:`${pm.length} things for ${fmt(addDays(date,1))}`,prep:pm,done:pm.every(p=>S.prep[p.id])});
   return items.sort((a,b)=>a.at-b.at||(a.kind==="prep"?-1:1))}
 /* ================= UI ================= */
@@ -614,6 +638,124 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+let DBH=null,UID=null,_all=null;
+function allUnits(){if(_all&&_all.n===SHARED.topics.length)return _all.u;const u=[...DATA.items,...DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t})),...SHARED.topics.map(genUnit)];_all={n:SHARED.topics.length,u};return u}
+const dayTypeOf=d=>((S.dayType||{})[d])||"full";
+const lessonMins=(s,date)=>dayTypeOf(date)==="busy"?Math.min(30,hpdOf(s)*60):hpdOf(s)*60;
+const MODES={books:["Syllabus books","Read the board's books, with a summary and curated resources for every chapter.","var(--sky)"],booksplus:["Books + DeepKids Plus","The books, plus our lesson plans, big questions, worksheets and games for each topic.","var(--tang)"],plus:["DeepKids Plus first","All syllabuses combined and more. Lesson plans lead; the books become suggested reading.","var(--gum)"]};
+
+/* ---------- lesson plan options: 3 for a full day, 3 for a busy day (placeholders until written) ---------- */
+function planOptions(u){const c=u.c,x=c?.x,g=u.gen,t=u.topic;
+  if(g?.plans)return {full:(g.plans.full||[]).slice(0,3).map((o,i)=>genOpt(o,"f"+(i+1))),busy:(g.plans.busy||[]).slice(0,3).map((o,i)=>genOpt(o,"b"+(i+1)))};
+  const game=c?.game?.[0]||"The topic game",gameHow=c?.game?.[1]||"Play a quick game about the topic.",act=c?.act?.[0]||t?.sub?.[0]||"A hands-on activity about the topic.",exp=c?.exp?.[0]||"A small experiment or observation.",bq=x?.deep?.[0]?.q||t?.oneness||"What do you already know about this, and how do you know it?";
+  const P=(kind,title,f,body)=>({kind,label:KL[kind]||"Step",title,f,body});
+  return {full:[
+    {id:"f1",name:x?"DeepKids plan":"Chapter day",idea:x?"Our full plan: read, think, worksheet, experiments, activities, game and project.":"Read the chapter together, talk about it, then try it with your hands.",real:true},
+    {id:"f2",name:"Story and play day",idea:"Start with a story, play the chapter game, end with something to make.",placeholder:true,parts:[P("read","Story time",.3,"Tell or read the story of this topic in your own words."),P("game",game,.4,gameHow),P("act","Make it real",.3,act)]},
+    {id:"f3",name:"Outdoor and make day",idea:"Take it outside: observe, collect, build.",placeholder:true,parts:[P("exp","Go and look",.4,exp),P("proj","Make something",.4,c?.proj?.[1]||"Build a small model or poster."),P("learn","Talk it over",.2,bq)]}],
+   busy:[
+    {id:"b1",name:"30-minute core",idea:"The one idea that matters most, then a quick check.",placeholder:true,parts:[P("read","The key idea",.5,x?.learn?.[0]||c?.covers||t?.summary||"Read the main part of the chapter."),P("learn","One big question",.3,bq),P("game","Quick check",.2,"Three quick questions, said aloud.")]},
+    {id:"b2",name:"Game-only day",idea:"Learn by playing. Nothing to write.",placeholder:true,parts:[P("game",game,.8,gameHow),P("learn","What did we learn?",.2,"Each of you says one thing the game taught.")]},
+    {id:"b3",name:"Talk and walk",idea:"A walk and a conversation. No screens, no books.",placeholder:true,parts:[P("act","Walk and spot",.6,"On a short walk, look for this topic around you."),P("learn","The big question",.4,bq)]}]}}
+function genOpt(o,id){const parts=(Array.isArray(o.steps)?o.steps:[]).slice(0,6).map(s=>({kind:KL[s.kind]?s.kind:"act",label:KL[s.kind]||"Step",title:String(s.title||"").slice(0,80),mins:Math.max(5,Math.min(90,+s.mins||10)),body:String(s.how||"").slice(0,600)}));return {id,name:String(o.name||"Plan").slice(0,40),idea:String(o.idea||"").slice(0,200),parts,gen:true}}
+const pickOf=(u,type)=>{const P=planOptions(u)[type]||[],id=((S.planPick||{})[u.k]||{})[type];return P.find(o=>o.id===id)||P[0]};
+function bookSteps(u,n,tot){const cap=hpdOf(u.subj),w=`${esc(u.book)}${chNo(u)?", "+chNo(u):""}`,res=u.c?.read?.[0];
+  const L=n===1?[["read","Read","Read the chapter",.6,`Read the first part of <b>${w}</b> together. Ask what your child thinks it's about.`],["act","Try it","Try it out",.4,esc(HINT[u.subj])]]
+   :n===tot?[["act","Finish","Finish the chapter",.5,`Do the last exercises in <b>${w}</b>.`],["learn","Review","Teach it back",.5,"Your child explains the chapter to you."]]
+   :[["read","Continue","Continue the chapter",.6,`Carry on in <b>${w}</b>.`],["act","Practice","Practice",.4,esc(HINT[u.subj])+(res?` More: ${esc(res)}.`:"")]];
+  return L.map(([kind,label,title,f,html])=>({kind,label,title,mins:cap*f,html,name:""}))}
+function optionSteps(u,n,tot,date){const type=dayTypeOf(date),o=pickOf(u,type);if(!o||(o.real&&type==="full"))return daySteps(u,n,tot);
+  if(o.real)return daySteps(u,n,tot);const total=lessonMins(u.subj,date);
+  return o.parts.map(p=>({kind:p.kind,label:p.label,title:p.title,mins:(p.mins||p.f*total)/60,html:`<p>${esc(p.body)}</p>${o.placeholder?`<p class="xs muted">Placeholder plan: “${esc(o.name)}”. The full version is being written.</p>`:""}`,name:"opt:"+o.id}))}
+function refresherFor(date){const keys=[...new Set(S.log.filter(l=>l.date<date).map(l=>l.key))];if(!keys.length)return null;const dn=Math.floor(parse(date)/864e5),u=unitBy(keys[dn%keys.length]);if(!u)return null;
+  const P=planOptions(u),pk=(S.planPick||{})[u.k]||{},GEN=/^(Quick check|What did we learn\?|Walk and spot|Make it real|Go and look|Make something|Story time|The key idea)$/,parts=[...P.full,...P.busy].filter(o=>o.parts&&o.id!==pk.full&&o.id!==pk.busy).flatMap(o=>o.parts).filter(p=>["game","exp","act","proj"].includes(p.kind)&&!GEN.test(p.title)),extra=[...(u.c?.exp||[]).map(e=>({title:e.split(":")[0].slice(0,50),body:e,kind:"exp"})),...(u.c?.act||[]).map(e=>({title:e.split(":")[0].slice(0,50),body:e,kind:"act"}))],pool=[...new Map([...parts,...extra].map(p=>[p.title,p])).values()],part=pool[dn%Math.max(1,pool.length)];
+  return part?{u,title:part.title,body:part.body,kind:part.kind}:{u,title:"Quick recall",body:"Ask three questions about "+u.title+"."}}
+
+/* ---------- topic level: tags, summaries, ideas, related ---------- */
+function tagsOf(u){const T=[];const tag=i=>({board:i.board,txt:`${BOARDS[i.board]?BOARDS[i.board].split(" ")[0]:"?"} · Class ${DATA.levels[i.level].cls} · ${i.book.replace(/ · Class \d+$/,"").replace(/ \(Class \d+\)$/,"")}${/^\d+$/.test(i.n)?" · Ch "+i.n:""}`,k:i.k,subj:i.subj});
+  if(u.board==="gen"){(u.gen.tags||[]).forEach(k=>{const i=DATA.items.find(z=>z.k===k);if(i)T.push(tag(i))})}
+  else if(u.board==="dk"){DATA.items.filter(i=>(i.dk||[]).includes(u.n)).forEach(i=>T.push(tag(i)))}
+  else{T.push(tag(u));const ids=u.dk||[];DATA.items.filter(i=>i.k!==u.k&&i.board!==u.board&&ids.some(d=>(i.dk||[]).includes(d))).slice(0,4).forEach(i=>T.push(tag(i)))}
+  return T}
+function subjectsOf(u){const s=new Set([u.subj]);if(u.board==="gen")(u.gen.subjects||[]).forEach(x=>SUBJ[x]&&s.add(x));tagsOf(u).forEach(t=>s.add(t.subj));return [...s]}
+function summaryOf(u){if(u.board==="gen")return u.gen.summary||"";if(u.board==="dk")return u.topic.summary;const T=tagsOf(u).map(t=>DATA.items.find(i=>i.k===t.k)).filter(Boolean);const s=T.map(i=>i.c?.covers).filter(Boolean);return s.length?[...new Set(s)].join(" "):"Summary coming soon. (Placeholder: we collate this from every book that covers the topic.)"}
+function ideasOf(u){if(u.board==="gen")return {sum:u.gen.plusSummary||"",ideas:(u.gen.ideas||[]).map(String)};const x=u.c?.x;if(x)return {sum:x.oneness,ideas:x.deep.map(d=>d.q)};if(u.board==="dk")return {sum:u.topic.oneness,ideas:u.topic.sub.slice(0,3)};return {sum:"",ideas:["Placeholder: challenging ideas for this topic are being written."]}}
+function relatedOf(u){const pool=allUnits(),ids=u.board==="dk"?[u.n]:u.dk||[],pre=prereqOf(u).map(k=>unitBy(k)).filter(Boolean).slice(-2);
+  let deeper=pool.filter(i=>i.k!==u.k&&i.subj===u.subj&&i.level>u.level&&ids.some(d=>(i.dk||[]).includes(d))).slice(0,3);
+  if(!deeper.length&&u.board!=="gen"&&u.board!=="dk"){const us=DATA.items.filter(i=>i.board===u.board&&i.subj===u.subj&&i.book===u.book),j=us.findIndex(i=>i.k===u.k);deeper=us.slice(j+1,j+2)}
+  const wider=[...(u.board==="dk"?[]:ids.map(d=>pool.find(i=>i.k==="dk|"+d)).filter(Boolean)),...pool.filter(i=>i.k!==u.k&&i.subj!==u.subj&&ids.some(d=>(i.dk||[]).includes(d)))].slice(0,4);
+  const names=u.board==="gen"?u.gen.related||{}:{};return {pre,deeper,wider,names}}
+const uchip=v=>`<button class="chip ${SC(v.subj)}" data-act="chapter" data-k="${v.k}"><span class="dotc"></span>${esc(v.title)}</button>`;
+function topicOverview(u){const m=modeOf(),T=tagsOf(u),I=ideasOf(u),R=relatedOf(u),sub=subjectsOf(u);
+  let h=`<section class="card"><span class="eyebrow">Where this topic sits</span><div class="row">${T.length?T.map(t=>`<span class="chip">${esc(t.txt)}</span>`).join(""):`<span class="chip">Not in a board syllabus · DeepKids topic</span>`}${sub.length>1?sub.map(s=>`<span class="chip ${SC(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join(""):""}</div>
+    <span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p></section>`;
+  h+=`<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum?`<p>${esc(I.sum)}</p>`:""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map(i=>`<li>${esc(i)}</li>`).join("")}</ul></section>`;
+  if(m==="books")h+=`<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for full and busy days, big questions, worksheets and games. Switch in Settings.</p></section>`;
+  if(u.board!=="gen"&&u.board!=="dk"&&m==="plus")h+=`<section class="card"><span class="eyebrow">Suggested reading</span><p class="sm">${esc(u.book)}${chNo(u)?", "+chNo(u):""}${(u.c?.read||[]).length?"; "+u.c.read.map(esc).join("; "):""}</p></section>`;
+  if(u.board==="gen"&&(u.gen.books||[]).length)h+=`<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:4px">Books to try</span>${u.gen.books.slice(0,5).map(b=>`<a class="res" href="${AZ((b.title||"")+" "+(b.author||""))}" target="_blank" rel="noopener"><b>${esc(b.title)} ↗</b><span class="xs muted">${esc(b.author||"")}${b.why?" · "+esc(b.why):""}</span></a>`).join("")}</section>`;
+  if(R.pre.length||R.deeper.length||R.wider.length||Object.keys(R.names).length)h+=`<section class="card"><span class="eyebrow">Related topics</span>${R.pre.length?`<div><span class="xs muted">Needs first</span><div class="row">${R.pre.map(uchip).join("")}</div></div>`:""}${R.deeper.length?`<div><span class="xs muted">Go deeper</span><div class="row">${R.deeper.map(uchip).join("")}</div></div>`:""}${R.wider.length?`<div><span class="xs muted">Go wider</span><div class="row">${R.wider.map(uchip).join("")}</div></div>`:""}${["prereq","deeper","wider"].filter(k=>(R.names[k]||[]).length).map(k=>`<div><span class="xs muted">${{prereq:"Needs first",deeper:"Go deeper",wider:"Go wider"}[k]}</span><div class="row">${R.names[k].slice(0,4).map(n=>`<button class="chip" data-act="tsearch" data-q="${esc(n)}">${esc(n)}</button>`).join("")}</div></div>`).join("")}</section>`;
+  return h}
+function plansTab(u){const ty=ui.ptype||"full",P=planOptions(u)[ty]||[],pk=((S.planPick||{})[u.k]||{})[ty]||P[0]?.id;
+  return `<div class="seg"><button aria-pressed="${ty==="full"}" data-act="ptype" data-t="full">Full day · 3 plans</button><button aria-pressed="${ty==="busy"}" data-act="ptype" data-t="busy">Busy day · 3 plans</button></div><p class="xs muted">Pick one for ${ty==="full"?"full":"busy"} days. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
+   ${P.map((o,i)=>`<section class="card optcard ${o.id===pk?"chosen":""}" style="--c:${PAL[(i+(ty==="busy"?3:0))%PAL.length]}"><div class="sech"><b style="font:600 18px var(--display)">${esc(o.name)}</b>${o.id===pk?`<span class="pill completed">Chosen</span>`:o.placeholder?`<span class="pill">Placeholder</span>`:o.gen?`<span class="pill learning">Claude draft</span>`:""}</div><p class="sm">${esc(o.idea)}</p>${o.parts?`<ol class="dsteps">${o.parts.map(p=>`<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins?p.mins+" min":Math.round(p.f*100)+"%"}</i></li>`).join("")}</ol>`:`<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id!==pk?`<button class="btn sm" data-act="ppick" data-k="${u.k}" data-t="${ty}" data-o="${o.id}" style="justify-self:start">Use this plan</button>`:""}</section>`).join("")}`}
+/* ---------- your learning: kept out of the way, opened on purpose ---------- */
+function learnItems(){const out=[],seen=new Set(),seenT=new Set();[today,tomorrow()].forEach(d=>lessonsOn(d).forEach(l=>{if(l.done||!l.n)return;prepFor(l.u,l.n,l.tot).filter(p=>LEARNK.has(p.kind)).forEach(p=>{const tk=l.u.k+"|"+p.task;if(!seen.has(p.id)&&!seenT.has(tk)){seen.add(p.id);seenT.add(tk);out.push({...p,u:l.u,s:l.s,date:d})}})}));return out}
+function learnView(){document.getElementById("sheetTitle").textContent="For you";const its=learnItems(),groups=[];its.forEach(p=>{let g=groups.find(g=>g.u.k===p.u.k);if(!g)groups.push(g={u:p.u,s:p.s,items:[]});g.items.push(p)});
+  const help=(S.parent?.help||[]).filter(s=>S.subjects.includes(s));
+  return `<section class="card r-you tint"><h2 style="font-size:22px">Your learning</h2><p class="sm muted">Guides and reading to help you teach today and tomorrow. Nothing here is required.</p></section>
+   ${groups.map(g=>{const guide=g.u.c?.x?.guide||(g.u.board!=="dk"&&g.u.board!=="gen"?DATA.prepgen.guide[g.u.subj]:summaryOf(g.u));return `<section class="card ${SC(g.s)}"><div class="row" style="gap:8px">${sblob(g.s,"happy","",'width="32" height="32"')}<b style="font:600 17px var(--display)">${esc(g.u.title)}</b></div>${guide?`<p class="sm">${esc(guide)}</p>`:""}${g.items.filter(p=>p.kind!=="guide").map(p=>`<div class="taskrow ${S.prep[p.id]?"done":""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Done: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">From: ${esc(p.where)}</p></div></div>`).join("")}<button class="btn soft sm" data-act="chapter" data-k="${g.u.k}" style="justify-self:start">Open the topic</button></section>`}).join("")||`<p class="note">Nothing to read for today or tomorrow.</p>`}
+   ${help.length?`<section class="card"><span class="eyebrow">Subjects you asked for help with</span>${help.map(s=>`<p class="sm"><b>${SUBJ[s]}:</b> ${esc(DATA.prepgen.guide[s])}</p>`).join("")}</section>`:""}`}
+
+/* ---------- topics: search, Claude-written topics saved for everyone ---------- */
+function topicHits(q){q=q.trim().toLowerCase();if(!q)return [];const words=q.split(/\s+/).filter(w=>w.length>2);return allUnits().map(u=>{const hay=(u.title+" "+(u.c?.covers||"")+" "+(u.topic?.summary||"")+" "+(u.gen?.summary||"")).toLowerCase();let sc=hay.includes(q)?5:0;words.forEach(w=>{if(hay.includes(w))sc++});if(u.title.toLowerCase().includes(q))sc+=5;return {u,sc}}).filter(x=>x.sc>0).sort((a,b)=>b.sc-a.sc).slice(0,12).map(x=>x.u)}
+function topicRow(u){const T=tagsOf(u)[0];return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n)?u.n:esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board==="gen"?"DeepKids topic"+(u.gen.reviewed?"":" · not yet reviewed"):u.board==="dk"?"DeepKids Plus":esc(T?.txt||u.book)}</span></span>${pillS(coverage(u))}</button></div>`}
+function topicsTab(){const q=ui.tq||"",hits=topicHits(q),gen=SHARED.topics.slice().sort((a,b)=>(b.createdAt||0)-(a.createdAt||0)).slice(0,8);
+  return `<section class="sec"><div class="card"><div class="row" style="flex-wrap:nowrap"><input class="inp" id="tq" placeholder="Search any topic: volcanoes, fractions, Akbar…" value="${esc(q)}" maxlength="80"><button class="btn sm" data-act="tfind">Search</button></div>
+    ${q?`<p class="xs muted">${hits.length} found in the syllabuses and DeepKids topics.</p>`:`<p class="xs muted">Every board chapter, every DeepKids Plus topic, and topics other parents have explored.</p>`}</div>
+    ${hits.map(topicRow).join("")}
+    ${q?`<section class="card r-out tint"><b style="font:600 17px var(--display)">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, 3 full-day and 3 busy-day lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE?`<button class="btn sm" data-act="tgen" style="justify-self:start" ${ui.tgen?"disabled":""}>${ui.tgen?"Writing the topic…":"Create this topic"}</button>`:`<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr?`<p class="sm" style="color:var(--bad)">${esc(ui.terr)}</p>`:""}</section>`:""}
+    ${gen.length&&!q?`<div class="sech"><h3 style="font-size:18px">Explored by families</h3></div>${gen.map(g=>topicRow(genUnit(g))).join("")}`:""}
+    ${!q?`<div class="sech"><h3 style="font-size:18px">DeepKids Plus topics</h3><span class="pill">${plusOn()?"In your plan":"Plus"}</span></div>${allUnits().filter(u=>u.board==="dk").slice(0,8).map(topicRow).join("")}`:""}</section>`}
+const slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,60)||"topic";
+async function genTopic(){const q=(ui.tq||"").trim();if(!q||!SAMPLE)return;ui.tgen=true;ui.terr="";render();
+  const list=DATA.items.filter(i=>i.board==="ncert"||i.level<=5).map(i=>`${i.k}: ${i.title}`).join("\n").slice(0,40000);
+  const prompt=`You write topics for DeepKids, a homeschool app for Indian families with children aged 6–10 (Levels 1–5 = Classes 1–5). A parent searched for: "${q.slice(0,80)}". The child is ${S.age}.
+Write one topic level for this, pitched at the right level. Keep substance; never dumb it down. Include Indian perspectives and, where they fit, Vedic, consciousness and oneness ideas, and at least one real scientific debate or contrarian view. Use only English.
+Tag it to any of these syllabus chapters that genuinely cover it (use the keys exactly; empty if none):
+${list}
+Reply with only JSON:
+{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}],"busy":[{"name":"","idea":"","steps":[{"kind":"","title":"","mins":10,"how":""}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
+Give exactly 3 full-day plans (about 60–90 minutes each) and 3 busy-day plans (about 30 minutes each). Only list books you are sure exist. No URLs.`;
+  try{const r=await SAMPLE.json(prompt,{modelTier:"default",cache:false});if(!r||!r.name)throw {code:"invalid_json"};
+    const g={id:slug(r.name),name:String(r.name).slice(0,80),subj:SUBJ[r.subj]?r.subj:"sci",subjects:(r.subjects||[]).filter(s=>SUBJ[s]),level:Math.min(5,Math.max(1,+r.level||S.levels[r.subj]||1)),hours:Math.min(20,Math.max(1,+r.hours||3)),tags:(r.tags||[]).filter(k=>DATA.items.some(i=>i.k===k)).slice(0,6),summary:String(r.summary||"").slice(0,1200),plusSummary:String(r.plusSummary||"").slice(0,400),ideas:(r.ideas||[]).slice(0,5).map(x=>String(x).slice(0,300)),plans:{full:(r.plans?.full||[]).slice(0,3),busy:(r.plans?.busy||[]).slice(0,3)},related:{prereq:(r.related?.prereq||[]).slice(0,4).map(String),deeper:(r.related?.deeper||[]).slice(0,4).map(String),wider:(r.related?.wider||[]).slice(0,4).map(String)},books:(r.books||[]).slice(0,5).map(b=>({title:String(b.title||"").slice(0,100),author:String(b.author||"").slice(0,80),why:String(b.why||"").slice(0,160)})),source:"search",query:q.slice(0,80),reviewed:false,createdAt:Date.now(),by:UID||""};
+    SHARED.topics=[...SHARED.topics.filter(x=>x.id!==g.id),g];_all=null;
+    if(DBH){try{await DBH.collection("topics").doc(g.id).set(g);await DBH.collection("searches").add({q:q.slice(0,80),topic:g.id,at:Date.now(),by:UID||""})}catch(e){ui.terr="Saved on this device only; the shared library couldn't be reached."}}
+    ui.tgen=false;sfx("win");render();openSheet({mode:"chapter",k:"gen|"+g.id})}
+  catch(e){ui.tgen=false;ui.terr=({not_granted:"Claude wasn't allowed for this page.",rate_limited:"Too many requests just now. Try again in a minute.",invalid_json:"The topic didn't come back in the right shape. Try again."})[e?.code]||"Something went wrong. Try again.";sfx("no");render()}}
+
+/* ---------- Up next: the topic queue ---------- */
+function queueCard(){const s=S.subjects.includes(ui.qs)?ui.qs:S.subjects[0];if(!s)return "";const L=plannedUnits(s).filter(u=>rank[coverage(u)]<2).slice(0,8),sh=!!(S.shuffle||{})[s],extra=(S.extra||{})[s]||[];
+  const radio=allUnits().filter(u=>u.subj===s&&(u.board==="gen"||(u.board==="dk"&&plusOn()))&&!plannedUnits(s).some(z=>z.k===u.k)).slice(0,4);
+  return `<section class="sec"><div class="sech"><h3>Up next</h3><span class="xs muted">${modeOf()==="books"?"Syllabus books":MODES[modeOf()][0]}</span></div>
+   <div class="seg">${S.subjects.map(x=>`<button aria-pressed="${x===s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>
+   <div class="row"><button class="btn ${sh?"":"soft"} sm" data-act="shuffle" data-s="${s}">${icon("spark")}Smart shuffle ${sh?"on":"off"}</button>${sh?`<button class="btn soft sm" data-act="reshuffle" data-s="${s}">Shuffle again</button>`:""}<button class="btn ${S.exam?"":"soft"} sm" data-act="exam">${S.exam?"Exam track on":"Exam track off"}</button></div>
+   <p class="xs muted">${sh?"Shuffle respects what each topic needs first, and never drops a syllabus chapter.":"Book order."} ${S.exam?"Exam track keeps every syllabus chapter first; extra topics come after.":"Extra topics are mixed in between syllabus chapters."}</p>
+   <div class="col" style="gap:8px">${L.map((u,i)=>{const T=tagsOf(u)[0];return `<div class="qrow ${SC(u.subj)}"><span class="qn">${i+1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b style="font:600 15.5px var(--display)">${esc(u.title)}</b><br><span class="xs muted">${u.board==="gen"?"DeepKids topic":u.board==="dk"?"DeepKids Plus":esc(T?.txt||u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i?`<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>`:`<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k)?`<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>`:""}</span></div>`}).join("")}</div>
+   ${radio.length?`<div class="sech"><h3 style="font-size:17px">More like this</h3><button class="link" data-act="lt2">Find topics</button></div><div class="row">${radio.map(u=>`<button class="chip ${SC(u.subj)}" data-act="qadd" data-s="${s}" data-k="${u.k}">${icon("plus")}${esc(u.title)}</button>`).join("")}</div>`:`<button class="link" data-act="lt2" style="justify-self:start">Find more topics →</button>`}</section>`}
+
+/* ---------- calendars ---------- */
+function parseICS(txt){const lines=txt.replace(/\r?\n[ \t]/g,"").split(/\r?\n/),ev=[];let cur=null;
+  for(const l of lines){if(l==="BEGIN:VEVENT")cur={};else if(l==="END:VEVENT"){if(cur)ev.push(cur);cur=null}else if(cur){const i=l.indexOf(":");if(i<0)continue;cur[l.slice(0,i).split(";")[0]]=l.slice(i+1)}}
+  const P=v=>{const m=(v||"").match(/^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2})?(Z)?)?/);if(!m)return null;return {d:m[4]?(m[7]?new Date(Date.UTC(+m[1],m[2]-1,+m[3],+m[4],+m[5])):new Date(+m[1],m[2]-1,+m[3],+m[4],+m[5])):new Date(+m[1],m[2]-1,+m[3]),allDay:!m[4]}};
+  const BY={SU:0,MO:1,TU:2,WE:3,TH:4,FR:5,SA:6},lim=addDays(today,90),hh=d=>String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0"),out=[];
+  ev.forEach(e=>{const s=P(e.DTSTART),en=P(e.DTEND);if(!s)return;const rr=e.RRULE||"",weekly=/FREQ=(WEEKLY|DAILY)/.test(rr),until=(rr.match(/UNTIL=(\d{8})/)||[])[1],ds=iso(s.d);
+    if(!weekly&&(ds<today||ds>lim))return;if(weekly&&until&&until<today.replace(/-/g,""))return;
+    let days=null;if(weekly){days=/DAILY/.test(rr)?[0,1,2,3,4,5,6]:((rr.match(/BYDAY=([A-Z0-9,+-]+)/)||[])[1]||"").split(",").map(x=>BY[x.replace(/[^A-Z]/g,"")]).filter(x=>x!==undefined);if(!days.length)days=[s.d.getDay()]}
+    const title=(e.SUMMARY||"Calendar event").replace(/\\,/g,",").replace(/\\n/g," ").replace(/\\;/g,";").slice(0,80);
+    out.push({type:"calendar",title,who:"you",date:weekly?null:ds,days,start:s.allDay?null:hh(s.d),end:en&&!en.allDay?hh(en.d):null,note:"From your calendar",keep:true})});
+  return out.slice(0,80)}
+function calendarCard(){return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)",14,"happy","",'width="46" height="46"')}<div><h3 style="font-size:19px">Bring in your calendars</h3><p class="xs muted">Export an .ics file and pick it here. Google Calendar on a computer: Settings → Import &amp; export → Export, then unzip. Apple Calendar on a Mac: File → Export. You choose what to keep.</p></div></div><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label><p class="xs muted">Live two-way sync needs a Google Calendar connector on your claude.ai account; none is connected yet.</p></section>`}
+
 const nowMin=()=>{const d=new Date();return d.getHours()*60+d.getMinutes()};
 const sid=x=>x.kind+"|"+x.title;
 let SAMPLE=null,ASSETS=null,IMGOK=false;
@@ -626,6 +768,8 @@ const thumbs=list=>list.length?`<div class="thumbs">${list.map(w=>`<figure><img 
 
 /* ---------- Today: greeting, then the day on the clock ---------- */
 function itemDetail(it,date){const isT=date===today;
+  if(it.kind==="refresh")return `<p class="sm" style="font-weight:700">${esc(it.rf.body)}</p><p class="xs muted">A quick return to ${esc(it.rf.u.title)}, so it stays fresh.</p><div class="row"><button class="btn soft sm" data-act="chapter" data-k="${it.rf.u.k}">Open the topic</button></div>`;
+  if(it.kind==="plan")return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn sm" data-act="quickplan">Open the Planner</button></div>`;
   if(it.kind==="lesson"){const st=stepState(it),prep=prepFor(it.u,it.n,it.tot).filter(p=>p.lead===0);return `<div class="sm muted" style="font-weight:700">${esc(it.u.book)}${chNo(it.u)?" · "+chNo(it.u):""} · day ${it.n} of ${it.tot}</div>
     <ol class="dsteps">${st.map(x=>`<li class="${x.ok?"ok":""}"><span>${esc(x.label)}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>
     ${prep.length?`<div class="sm"><b style="font-family:var(--display)">Have ready:</b> ${prep.map(p=>esc(p.task.replace(/^(Gather|Get) /,""))).join(" · ")}</div>`:""}
@@ -669,8 +813,8 @@ function parentView(){const p=S.parent||{},al=S.alarm||{on:false,time:"06:30"},d
    <button class="btn" data-act="psave">Save</button></section>`}
 
 /* ---------- smart topic swap ---------- */
-function prereqOf(u){if(u.board==="dk"){const g=DATA.topics.filter(t=>t.q===u.topic.q),first=g[0];return first.id===u.topic.id?[]:["dk|"+first.id]}
-  if(u.subj==="math"){const us=collateAt(u.subj,u.level).board.filter(x=>x.board===u.board&&x.book===u.book),i=us.findIndex(x=>x.k===u.k);return us.slice(0,i).map(x=>x.k)}return []}
+function prereqOf(u){if(u.board==="gen")return [];if(u.board==="dk"){const g=DATA.topics.filter(t=>t.q===u.topic.q),first=g[0];return first.id===u.topic.id?[]:["dk|"+first.id]}
+  if(u.subj==="math"){const us=DATA.items.filter(x=>x.board===u.board&&x.book===u.book&&x.subj==="math"),i=us.findIndex(x=>x.k===u.k);return us.slice(0,i).map(x=>x.k)}return []}
 function swapView(){const s=ui.sheet.s,cur=nextUp(s);document.getElementById("sheetTitle").textContent="Swap "+SUBJ[s]+" topic";
   const us=plannedUnits(s).filter(u=>u.level===S.levels[s]&&rank[coverage(u)]<2);
   const rows=us.map(u=>{const need=prereqOf(u).filter(k=>rank[coverage(unitBy(k)||{k})||"none"]<2&&rank[st(k)]<2);return {u,need}});
@@ -707,7 +851,8 @@ function dumpCard(){const D_=ui.dump||{};return `<section class="card dump"><div
    <details><summary class="link" style="cursor:pointer">Quick add by hand</summary><div style="margin-top:10px">${quickAdd(ui.pday||today)}</div></details></section>`}
 function parsedLine(it){if(it.type==="have")return "Library · "+(it.category||"other");const when=it.days&&it.days.length?"Every "+it.days.map(d=>DAYN[d]).join(", "):it.date?fmt(it.date):"Today";return [it.type,when,it.start?clock(hm(it.start))+(it.end?"–"+clock(hm(it.end)):""):"any time",it.note].filter(Boolean).join(" · ")}
 function viewPlanner(){const v=ui.pv||"week";
-  let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Planner</h1>${youBlob("","happy",'width="50" height="50"')}</div>${dumpCard()}</section>`;
+  let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Planner</h1>${youBlob("","happy",'width="50" height="50"')}</div>${dumpCard()}${calendarCard()}</section>`;
+  h+=queueCard();
   const Q=askList();if(Q.length)h+=`<section class="sec"><div class="sech"><h3>DeepKids asks</h3></div><div class="col" style="gap:8px">${Q.map(([q,a])=>`<button class="askq" data-act="askq" data-a="${esc(a)}">${blob("var(--sun)",8,"wow","",'width="34" height="34"')}<span>${q}</span>${icon("next")}</button>`).join("")}</div></section>`;
   h+=`<section class="sec"><div class="sech"><h3>The plan</h3></div><div class="seg">${Object.entries(PV).map(([k,n])=>`<button aria-pressed="${v===k}" data-act="pv" data-v="${k}">${n}</button>`).join("")}</div>${{year:yearOrbit,month:monthView,week:weekView,day:dayView}[v]()}</section>`;
   const evs=S.events||[],tds=(S.todos||[]).filter(x=>!x.done);
@@ -814,6 +959,10 @@ const PREP_KW=["magnifying glass","magnifier","magnet","kitchen scale","measurin
 function preppedTasks(){return Object.keys(S.prep||{}).map(id=>{const p=id.split("|"),i=+p[p.length-1],n=+p[p.length-2],u=unitBy(p.slice(1,-2).join("|"));if(!u)return "";const x=prepFor(u,n,sessionsFor(u))[i];return x?x.task:""}).filter(Boolean)}
 /* uploads, night inputs, alarm and the clock */
 document.addEventListener("change",async e=>{const t=e.target;
+  if(t.id==="obExam"&&ob){ob.d.exam=t.checked;return}
+  if(t.id==="sMode"){S.mode=t.value;S.plus=t.value!=="books";sfx("tick");commit();return}
+  if(t.id==="sExam"){S.exam=t.checked;sfx("tick");commit();return}
+  if(t.id==="icsFile"&&t.files?.[0]){let items=[];try{items=parseICS(await t.files[0].text())}catch(err){}ui.dump={items,questions:[],text:"",err:items.length?"":"No upcoming events found in that file."};sfx(items.length?"ok":"no");render();setTimeout(()=>document.querySelector(".dump")?.scrollIntoView({behavior:"smooth",block:"start"}),50);return}
   if(t.id==="dumpImg"){ui.dump=ui.dump||{};ui.dump.text=document.getElementById("dumpText")?.value||"";ui.dump.files=[...t.files].slice(0,4);render();return}
   if(t.dataset.upload&&t.files?.length){if(!ASSETS){toast("Photos can't be saved in this view");return}const k=t.dataset.upload,u=unitBy(k);toast("Saving photo…");
     try{for(const f of [...t.files].slice(0,4)){const r=await ASSETS.upload(f);S.work=[...(S.work||[]),{id:r.id,k,date:today,title:u?.title||""}]}sfx("ok");toast("Photo saved to the journey");commit()}catch(err){toast({too_large:"That photo is too big (20 MB limit)",unsupported_type:"Use a JPG, PNG or WebP photo",quota_or_state:"Photo storage is full"}[err?.code]||"Couldn't save the photo. Try again.")}return}
@@ -824,7 +973,7 @@ setInterval(()=>{const nm=nowMin();if(nm===lastMin)return;lastMin=nm;
   const al=S.alarm;if(al?.on&&clock24(nm)===al.time&&!rang[today]){rang[today]=1;let n=0;const ring=()=>{if(n++<6){sfx("win");setTimeout(ring,1600)}};ring();toast(greetWord()+(S.parent?.name?", "+S.parent.name:"")+"! Time to get up")}
   const busy=document.activeElement&&/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName);if(!busy&&!(ui.sheet&&sheet.open)&&(rollDay()||tab==="today"))render()},20000);
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&!(ui.sheet&&sheet.open)){rollDay();render()}});
-(async()=>{try{SAMPLE=await window.claude?.use?.("sample")||null;ASSETS=await window.claude?.use?.("assets")||null;if(SAMPLE){const l=await SAMPLE.limits().catch(()=>null);IMGOK=!!l?.images}}catch(e){}render()})();
+(async()=>{try{DBH=await window.claude?.use?.("db")||null;const us=await window.claude?.use?.("user");UID=us?await us.id().catch(()=>null):null;if(DBH){const sn=await DBH.collection("topics").limit(500).get().catch(()=>null);if(sn)SHARED.topics=sn.docs.map(d=>{const g=d.data()||{};return {...g,id:d.id,level:Math.min(5,Math.max(1,+g.level||1)),hours:+g.hours||3}}).filter(g=>g.name&&SUBJ[g.subj]);_all=null}}catch(e){}try{SAMPLE=await window.claude?.use?.("sample")||null;ASSETS=await window.claude?.use?.("assets")||null;if(SAMPLE){const l=await SAMPLE.limits().catch(()=>null);IMGOK=!!l?.images}}catch(e){}render()})();
 
 function rng(seed){let s=(seed*9973)%233280||7;return()=>(s=(s*9301+49297)%233280)/233280}
 function blobD(seed,cx=50,cy=56,r=37,n=7){const R=rng(seed),P=[...Array(n)].map((_,i)=>{const a=i/n*Math.PI*2-Math.PI/2,k=.86+R()*.26;return [cx+Math.cos(a)*r*k,cy+Math.sin(a)*r*k]});const f=v=>v.toFixed(1);
@@ -854,7 +1003,7 @@ function garden(items,now){const its=items.filter(i=>i.kind!=="brk"),n=its.lengt
    <g fill="var(--forest)" opacity=".9"><path d="M300 150c0-26 22-26 22 0z"/><rect x="309" y="148" width="4" height="12" rx="2" fill="#9A6B45"/><path d="M28 140c0-22 18-22 18 0z"/><rect x="35" y="138" width="4" height="10" rx="2" fill="#9A6B45"/></g>
    ${fl}${n?blob("var(--sky)",13,now?"happy":"wow","bob",`x="${kidX}" y="132" width="40" height="40"`):""}</svg>`}
 
-const KICO={lesson:"read",prep:"prep",warm:"warm",exps:"exps",event:"event",todo:"prep"};
+const KICO={lesson:"read",prep:"prep",warm:"warm",exps:"exps",event:"event",todo:"prep",refresh:"game",plan:"week"};
 
 function pathMap(units,covOf){const n=units.length;if(!n)return "";const step=118,top=56,H=top+n*step,xs=[50,78,50,22];const P=units.map((u,i)=>[xs[i%4],top+i*step]);
   let d=`M${P[0][0]} ${P[0][1]}`;for(let i=1;i<n;i++)d+=` C${P[i-1][0]} ${P[i-1][1]+step*.55} ${P[i][0]} ${P[i][1]-step*.55} ${P[i][0]} ${P[i][1]}`;
@@ -865,8 +1014,10 @@ function pathMap(units,covOf){const n=units.length;if(!n)return "";const step=11
 function crowd(){const B=[["var(--sun)",4,"sleepy",-10,70,130],["var(--gum)",7,"happy",80,40,150],["var(--aqua)",3,"wow",190,60,140],["var(--forest)",5,"happy",270,30,130],["var(--peri)",17,"calm",30,110,120],["var(--tang)",11,"happy",140,105,130],["var(--sky)",13,"happy",240,110,125]];
   return `<svg class="crowd" viewBox="0 0 380 230" aria-hidden="true">${B.map(([c,s,m,x,y,z],i)=>blob(c,s,m,i%2?"bob":"",`x="${x}" y="${y}" width="${z}" height="${z}" style="animation-delay:${i*.2}s"`)).join("")}</svg>`}
 /* ---------- Today ---------- */
-function stepState(it){const tk=new Set(S.steps[stepKey(it)]||[]);const carried=((S.carry||{})[it.u.k]||[]).filter(c=>c.forN===it.n).map(c=>({kind:c.kind,label:c.label,title:"From last time: "+c.title,mins:c.mins,html:it.u.c?.x&&c.name?stepBody(it.u,c.name):`<p>${esc(c.title)}</p>`,name:c.name,carried:true}));
-  const st=[...carried,...daySteps(it.u,it.n,it.tot)];return st.map((x,i)=>({...x,ok:tk.has(sid(x))||(!x.carried&&tk.has(i-carried.length))}))}
+function stepState(it){const tk=new Set(S.steps[stepKey(it)]||[]),u=it.u;
+  const carried=((S.carry||{})[u.k]||[]).filter(c=>c.forN===it.n).map(c=>({kind:c.kind,label:c.label,title:"From last time: "+c.title,mins:c.mins,html:u.c?.x&&c.name&&!c.name.startsWith("opt:")?stepBody(u,c.name):`<p>${esc(c.title)}</p>`,name:c.name,carried:true}));
+  const base=modeOf()==="books"&&u.board!=="gen"&&u.board!=="dk"?bookSteps(u,it.n,it.tot):optionSteps(u,it.n,it.tot,today);
+  return [...carried,...base].map((x,i)=>({...x,ok:tk.has(sid(x))}))}
 function focusCard(it){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who;let body="",acts="",title=it.title,mascot;
   const who=`<div class="who">${icon(it.kind==="lesson"?"read":it.kind)}<span>${it.kind==="lesson"?SUBJ[it.s]:ROLE[it.who]} · ${clock(it.at)} · ${mins(it.dur/60)}</span></div>`;
   if(it.kind==="lesson"){const st=stepState(it);title=it.u.title;mascot=sblob(it.s,"happy","mascot bob");body=`<div class="sm muted" style="font-weight:700">${esc(it.u.book)}${chNo(it.u)?" · "+chNo(it.u):""} · day ${it.n} of ${it.tot}</div><div class="steps-mini">${st.map(x=>`<span class="${x.ok?"ok":""}">${esc(x.label)} · ${mins(x.mins)}</span>`).join("")}</div>`;
@@ -887,7 +1038,7 @@ function viewToday(){const items=dayPlan(today),real=items.filter(i=>i.kind!=="b
   const ls=lessons.filter(i=>!i.done).length,yt=real.filter(i=>i.who==="you"&&!i.done).length;
   let h=`<section class="greet"><div><span class="eyebrow">${longDate()}</span><h1>${greetWord()}${S.parent?.name?", "+esc(S.parent.name):""}!</h1><p>${real.length?(f?`${ls?`${kidN} has ${ls} lesson${ls>1?"s":""} left today`:`${kidN}'s lessons are done`}${yt?`, and you have ${yt} thing${yt>1?"s":""} of your own.`:"."}`:"Everything for today is done."):"Nothing is planned today. Add plans in the Planner, or start a lesson below."}</p></div>${garden(items,f)}<div class="track" style="margin:0 4px"><span style="width:${pct}%"></span>${kidBlob("rider","happy",`style="left:${Math.max(4,pct)}%"`)}</div></section>`;
   if(S.setup&&!S.parent?.name)h+=`<section class="card r-you tint" style="margin-top:14px"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("","happy",'width="56" height="56"')}<div><h3 style="font-size:19px">This app is for you. Tell us a little about yourself</h3><p class="sm muted">Your name, when you wake up, and where you'd like more help.</p></div></div><button class="btn sm" data-act="parent" style="justify-self:start">Set up my profile</button></section>`;
-  h+=`<section class="sec"><div class="sech"><h3>Today</h3><button class="link" data-act="quick">+ Add to today</button></div>${timeline(today)}</section>`;
+  h+=`<section class="sec"><div class="sech"><h3>Today</h3><button class="link" data-act="quick">+ Add to today</button></div><div class="row" style="justify-content:space-between"><div class="whos"><button aria-pressed="${dayTypeOf(today)==="full"}" data-act="daytype" data-t="full">Full day</button><button aria-pressed="${dayTypeOf(today)==="busy"}" data-act="daytype" data-t="busy">Busy day</button></div>${learnItems().length?`<button class="link" data-act="learn">For you · ${learnItems().length} to read</button>`:""}</div>${timeline(today)}</section>`;
   if(lessonsDone||!lessons.length&&real.length===0)h+=`<section class="donecard">${blob("var(--sun)",4,"happy","mascot bob")}<span class="eyebrow">${lessons.length?"Lessons done":"Free day"}</span><h2>${lessons.length?"All of today's lessons are done. Want to keep going?":"Want to start something?"}</h2><p class="sm" style="font-weight:700">Start the next lesson now and the plan moves everything else along.</p>${offerList()}</section>`;
   const nd=nightItems(),tl=dayPlan(tomorrow()).filter(i=>i.kind==="lesson");
   if(nowMin()>=hm(D().eveAt)-120||lessonsDone)h+=`<section class="card night" style="margin-top:16px"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--peri)",17,"sleepy","",'width="56" height="56"')}<div><span class="eyebrow">Tonight</span><h3 style="font-size:20px">${(S.night||{})[today]?"Tomorrow is ready. Sleep well!":"Get ready for tomorrow"}</h3><p class="sm muted">${nd.length} thing${nd.length===1?"":"s"} to get ready · ${tl.length} lesson${tl.length===1?"":"s"} tomorrow</p></div></div><button class="btn ${(S.night||{})[today]?"soft":""} sm" data-act="night" style="justify-self:start">${(S.night||{})[today]?"See tomorrow":"Get tomorrow ready"}</button></section>`;
@@ -921,18 +1072,19 @@ function paintTimer(){const T=ui.timer,tt=document.getElementById("tt"),r=docume
   if(T.run&&left<=0){T.run=false;T.left=0;clearInterval(tick);sfx("win");toast("Time's up for this step");b.textContent="Done"}}
 
 /* ---------- chapter ---------- */
-function chapterView(){const u=unitBy(ui.sheet.k);if(!u)return "";const c=u.c,x=c?.x,cs=coverage(u);document.getElementById("sheetTitle").textContent=u.title;
-  const tabs=x?{overview:"Overview",questions:"Big questions",tasks:"Tasks",worksheet:"Worksheet",play:"Play",read:"Read more"}:c?{overview:"Overview",tasks:"Tasks",read:"Read more"}:{overview:"Overview"};
-  const t=tabs[ui.ctab[u.k]]?ui.ctab[u.k]:"overview";
-  let h=`<section class="chero ${SC(u.subj)}"><span class="n">${/^\d+$/.test(u.n)?u.n:esc(u.n)}</span><span class="eyebrow" style="color:#2B2340;opacity:.7">${esc(u.book)}</span><h1>${esc(u.title)}</h1><p>${fh(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fh(hpdOf(u.subj))} h a day</p>${sblob(u.subj,"happy","mascot sway")}</section>
+function chapterView(){const u=unitBy(ui.sheet.k);if(!u)return "";const c=u.c,x=c?.x,cs=coverage(u),m=modeOf();document.getElementById("sheetTitle").textContent=u.title;
+  const tabs=m==="books"?{overview:"Overview",...(c?{read:"Read more"}:{})}:x?{overview:"Overview",plans:"Lesson plans",questions:"Big questions",tasks:"Tasks",worksheet:"Worksheet",play:"Play",read:"Read more"}:c?{overview:"Overview",plans:"Lesson plans",tasks:"Tasks",read:"Read more"}:{overview:"Overview",plans:"Lesson plans"};
+  const t=tabs[ui.ctab[u.k]]?ui.ctab[u.k]:"overview",inPlan=everyUnit().some(z=>z.k===u.k)&&plannedUnits(u.subj).some(z=>z.k===u.k);
+  let h=`<section class="chero ${SC(u.subj)}"><span class="n">${/^\d+$/.test(u.n)?u.n:esc(u.n)}</span><span class="eyebrow" style="color:#2B2340;opacity:.7">${u.board==="gen"?"DeepKids topic · Level "+u.level:esc(u.book)}</span><h1>${esc(u.title)}</h1><p>${fh(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fh(hpdOf(u.subj))} h a day</p>${sblob(u.subj,"happy","mascot sway")}</section>
+   ${u.board==="gen"&&!u.gen.reviewed?`<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>`:""}
+   <div class="row">${inPlan?`<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`:S.subjects.includes(u.subj)&&(u.board==="gen"||(u.board==="dk"&&plusOn()))?`<button class="btn sm" data-act="qadd" data-s="${u.subj}" data-k="${u.k}">${icon("plus")}Add to the plan</button>`:""}</div>
    <div class="seg" role="group" aria-label="Status">${Object.entries(STATUS).map(([k,v])=>`<button aria-pressed="${cs===k}" data-act="status" data-k="${u.k}" data-s="${k}">${v}</button>`).join("")}</div>
    ${Object.keys(tabs).length>1?`<div class="seg" role="tablist">${Object.entries(tabs).map(([k,v])=>`<button aria-pressed="${t===k}" data-act="ctab" data-k="${u.k}" data-t="${k}">${v}</button>`).join("")}</div>`:""}`;
-  if(t==="overview"){
-    if(x)h+=`<section class="card ${SC(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l,i)=>`<div class="idea"><span class="k">${i+1}</span><p>${esc(l)}</p></div>`).join("")}</section><section class="oneness"><span class="eyebrow">Oneness</span><p>${esc(x.oneness)}</p></section>${x.guide?`<section class="card"><span class="eyebrow">For you: what this chapter is really about</span><p>${esc(x.guide)}</p></section>`:""}`;
-    else if(c)h+=`<section class="card"><p>${esc(c.covers)}</p></section>`;
-    else if(u.board==="dk"){const tp=u.topic;h+=`<section class="card"><p>${esc(tp.summary)}</p></section><section class="oneness"><span class="eyebrow">Wonder</span><p>${esc(tp.oneness)}</p></section><section class="card s-sci"><span class="eyebrow">Inside this topic</span>${tp.sub.map((s,i)=>`<div class="idea"><span class="k">${i+1}</span><p>${esc(s)}</p></div>`).join("")}</section>${tp.res.length?`<section class="card"><span class="eyebrow">Resources</span>${tp.res.map(r=>r.url?`<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><b>${esc(r.title)} ↗</b></a>`:`<div class="res"><b>${esc(r.title)}</b></div>`).join("")}</section>`:""}`}
-    else h+=`<p class="note">A detailed lesson for this chapter is being written. Today's plan gives a general day plan meanwhile.</p>`;
+  if(t==="overview"){h+=topicOverview(u);if(x&&m!=="books")h+=`<section class="card ${SC(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l,i)=>`<div class="idea"><span class="k">${i+1}</span><p>${esc(l)}</p></div>`).join("")}</section>`;
+    if(m==="books"&&c?.x?.cur)h+=`<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Curated resources</span>${c.x.cur.map(([w,src,url,how])=>`<a class="res" href="${esc(url)}" target="_blank" rel="noopener"><span class="xs muted">${esc(src)} ↗</span><b>${esc(w)}</b></a>`).join("")}</section>`;
+    if(u.board==="dk"&&u.topic.res.length)h+=`<section class="card"><span class="eyebrow">Resources</span>${u.topic.res.map(r=>r.url?`<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><b>${esc(r.title)} ↗</b></a>`:`<div class="res"><b>${esc(r.title)}</b></div>`).join("")}</section>`;
     h+=`<button class="btn line sm" data-act="logk" data-k="${u.k}" style="justify-self:start">Log a session today</button>`}
+  if(t==="plans")h+=plansTab(u);
   if(t==="questions"){const qi=Math.min(ui.qi[u.k]||0,x.deep.length-1),d=x.deep[qi],key="think"+qi;
     h+=`<section class="qcard"><span class="eyebrow">Big question ${qi+1} of ${x.deep.length}</span><h2>${esc(d.q)}</h2><p>${esc(d.why)}</p></section>
      <p class="sm muted">Ask your child first and really listen. Then read the voices together. Which is strongest? Which would you argue against?</p>
@@ -942,10 +1094,10 @@ function chapterView(){const u=unitBy(ui.sheet.k);if(!u)return "";const c=u.c,x=
      <div class="pager"><button class="btn line sm" data-act="qi" data-k="${u.k}" data-d="-1" ${qi===0?"disabled":""}>${icon("back")}Previous</button><span class="xs muted">${qi+1} / ${x.deep.length}</span><button class="btn sm" data-act="qi" data-k="${u.k}" data-d="1" ${qi===x.deep.length-1?"disabled":""}>Next${icon("next")}</button></div>`}
   if(t==="tasks"){const ts=x?chapterTasks(u):[["game","",c.game[0],c.game[1]],...c.exp.map((e,i)=>["exp"+i,"","Experiment "+(i+1),e]),...c.act.map((e,i)=>["act"+i,"","Activity "+(i+1),e]),["proj","",c.proj[0],c.proj[1]]];const dn=ts.filter(a=>taskDone(u.k,a[0])).length,H=x?.hours||[];
     const hh=id=>{const re={ws:/^Worksheet/,exp0:/^Experiment/,act0:/^Activit/,game:/^Game/,proj:/^Project/}[id];const r=re&&H.find(a=>re.test(a[0]));return r?`<span class="chip">${mins(r[1])}${r[2]>1?` over ${r[2]} days`:""}</span>`:""};
-    h+=`<section class="card ${SC(u.subj)}"><div class="sech"><h3>${dn} of ${ts.length} done</h3></div><div class="bar"><span style="width:${dn/ts.length*100}%;background:var(--c)"></span></div></section><section class="card" style="gap:0">${ts.map(([id,,ttl,desc])=>{const d=taskDone(u.k,id),kind=id.replace(/\d+$/,"");return `<div class="taskrow ${d?"done":""}"><button class="ckb" data-act="task" data-k="${u.k}" data-id="${id}" aria-label="${d?"Mark not done":"Mark done"}: ${esc(ttl)}">${icon("check")}</button><div><div class="row" style="gap:8px">${icon(kind)}<b>${esc(ttl)}</b></div><p class="sm" style="margin-top:4px">${esc(desc)}</p><div class="meta">${hh(id)}${kind==="ws"?`<button class="btn xs accent" data-act="ws" data-k="${u.k}">Open worksheet</button>`:""}${kind==="proj"?`<button class="btn xs soft" data-act="startexp" data-title="${esc(ttl)}" data-topic="${esc(u.title)}">Track it daily</button>`:""}</div></div></div>`}).join("")}</section>`}
-  if(t==="worksheet"){const q=x.wsd.reduce((a,s)=>a+s[1].length,0);h+=`<section class="card"><span class="eyebrow">Worksheet</span><h3 style="font-size:20px">${x.wsd.length} sections, ${q} questions</h3><div class="col" style="gap:6px">${x.wsd.map(([t2,its],i)=>`<div class="row" style="justify-content:space-between"><span>${esc(t2)}</span><span class="xs muted">${its.length} questions</span></div>`).join("")}</div><button class="btn accent" data-act="ws" data-k="${u.k}">${taskDone(u.k,"ws")?"Open again (finished)":"Start the worksheet"}</button><p class="xs muted">Answers save as you go. A printable copy is in the worksheet PDF.</p></section>`}
+    h+=`<section class="card ${SC(u.subj)}"><div class="sech"><h3>${dn} of ${ts.length} done</h3></div><div class="bar"><span style="width:${dn/ts.length*100}%;background:var(--c)"></span></div></section><section class="card" style="gap:0">${ts.map(([id,,ttl,desc])=>{const d=taskDone(u.k,id),kind=id.replace(/\d+$/,"");return `<div class="taskrow ${d?"done":""}"><button class="ckb" data-act="task" data-k="${u.k}" data-id="${id}" aria-label="${d?"Mark not done":"Mark done"}: ${esc(ttl)}">${icon("check")}</button><div><div class="row" style="gap:8px">${icon(kind)}<b>${esc(ttl)}</b></div><p class="sm" style="margin-top:4px">${esc(desc)}</p><div class="meta">${hh(id)}${kind==="ws"?`<button class="btn xs" data-act="ws" data-k="${u.k}">Open worksheet</button>`:""}${kind==="proj"?`<button class="btn xs soft" data-act="startexp" data-title="${esc(ttl)}" data-topic="${esc(u.title)}">Track it daily</button>`:""}${photoBtn(u.k,"Photo")}</div></div></div>`}).join("")}</section>`}
+  if(t==="worksheet"){const q=x.wsd.reduce((a,s)=>a+s[1].length,0);h+=`<section class="card"><span class="eyebrow">Worksheet</span><h3 style="font-size:20px">${x.wsd.length} sections, ${q} questions</h3><div class="col" style="gap:6px">${x.wsd.map(([t2,its])=>`<div class="row" style="justify-content:space-between"><span>${esc(t2)}</span><span class="xs muted">${its.length} questions</span></div>`).join("")}</div><button class="btn" data-act="ws" data-k="${u.k}">${taskDone(u.k,"ws")?"Open again (finished)":"Start the worksheet"}</button></section>`}
   if(t==="play")h+=`<section class="qcard" style="background:var(--gum)"><span class="eyebrow">Chapter game</span><h2>${esc(c.game[0])}</h2><p>${esc(c.game[1])}</p></section><section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Curated from around the world</span>${x.cur.map(([w,src,url,how])=>`<a class="res" href="${esc(url)}" target="_blank" rel="noopener"><span class="xs muted">${esc(src)} ↗</span><b>${esc(w)}</b><span class="sm muted">${esc(how)}</span></a>`).join("")}</section>`;
-  if(t==="read")h+=`<section class="card" style="gap:0">${[`NCERT ${u.book}, ${chNo(u)}`,...(c.links||[]),...c.read].map(r=>`<div class="res"><b>${esc(r)}</b></div>`).join("")}</section>`;
+  if(t==="read")h+=`<section class="card" style="gap:0">${[`${u.book}${chNo(u)?", "+chNo(u):""}`,...(c.links||[]),...c.read].map(r=>`<div class="res"><b>${esc(r)}</b></div>`).join("")}</section>`;
   return h}
 
 /* ---------- worksheet (one section per page) ---------- */
@@ -995,6 +1147,7 @@ function gamesView(){const u=dailyUnit();document.getElementById("sheetTitle").t
 function settingsView(){document.getElementById("sheetTitle").textContent="Settings";
   return `<section class="card r-you tint"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("","happy",'width="48" height="48"')}<div><b style="font:600 17px var(--display)">${S.parent?.name?esc(S.parent.name):"Your profile"}</b><p class="xs muted">Wake-up, prep times and where you'd like help</p></div></div><button class="btn soft sm" data-act="parent" style="justify-self:start">Edit my profile</button></section>
    <section class="card"><div class="field"><label for="sName">Child's name</label><input class="inp" id="sName" maxlength="40" value="${esc(S.child)}"></div><div class="field"><label for="sStart">Plan starts on</label><input class="inp" id="sStart" type="date" value="${S.start}"></div><button class="btn" data-act="saveset">Save</button></section>
+   <section class="card"><span class="eyebrow">How you learn</span><select class="inp" id="sMode">${Object.entries(MODES).map(([k,[n]])=>`<option value="${k}" ${modeOf()===k?"selected":""}>${n}</option>`).join("")}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam?"checked":""}><span><b style="font:600 16px var(--display)">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label></section>
    <section class="card"><span class="eyebrow">Syllabus</span><p>${S.board==="none"?"DeepKids Plus only":S.board==="combined"?"NCERT, Cambridge and NIOS":BOARDS[S.board]}${S.plus&&S.board!=="none"?" + DeepKids Plus":""} · ${S.subjects.map(s=>SUBJ[s]).join(", ")}</p><button class="btn line sm" data-act="redo" style="justify-self:start">Change syllabus or subjects</button></section>
    <p class="xs muted">${syncMode==="account"?"Progress is saved privately to your claude.ai account.":"Progress is saved in this browser only."}</p>`}
 /* ---------- Week ---------- */
@@ -1022,8 +1175,9 @@ function viewWeek(){const days=weekDays(),all=S.subjects.flatMap(s=>schedule(s))
 
 /* ---------- Library ---------- */
 function unitRow(u,cs){const ts=u.c?.x?chapterTasks(u):null,td=ts?ts.filter(a=>taskDone(u.k,a[0])).length:0;return `<button class="unit ${SC(u.subj)}" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n)?u.n:esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${ts?`Full chapter · ${td} of ${ts.length} tasks`:u.c?"Games and projects":u.board==="dk"?"DeepKids Plus":"Textbook chapter"} · ${fh(hoursFor(u))} h</span></span>${pillS(cs)}</button>`}
-function viewLibrary(){const t=ui.lt||"have",inv=S.inv||[];
-  let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)",7,"happy","",'width="50" height="50"')}</div><div class="seg">${[["have","What we have"],["suggest","Our picks"],["read","Read"],["watch","Watch"]].map(([k,n])=>`<button aria-pressed="${t===k}" data-act="lt" data-t="${k}">${n}</button>`).join("")}</div></section>`;
+function viewLibrary(){const t=ui.lt||"topics",inv=S.inv||[];
+  let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)",7,"happy","",'width="50" height="50"')}</div><div class="seg">${[["topics","Topics"],["have","What we have"],["suggest","Our picks"],["read","Read"],["watch","Watch"]].map(([k,n])=>`<button aria-pressed="${t===k}" data-act="lt" data-t="${k}">${n}</button>`).join("")}</div></section>`;
+  if(t==="topics")h+=topicsTab();
   if(t==="have"){const seen=new Set(inv.map(i=>i.name.toLowerCase())),kw=new Set(),doneTasks=preppedTasks();
     PREP_KW.forEach(k=>{if(doneTasks.some(x=>x.toLowerCase().includes(k.toLowerCase()))&&!seen.has(k.toLowerCase()))kw.add(k)});
     h+=`<section class="sec">${Object.keys(CATS).map(c=>{const L=inv.filter(i=>i.cat===c);return L.length?`<div class="card"><div class="sech"><h3 style="font-size:18px">${CATS[c]}</h3><span class="pill">${L.length}</span></div><div class="row">${L.map(i=>`<span class="chip">${esc(i.name)}<button class="plain" data-act="invdel" data-i="${i.id}" aria-label="Remove ${esc(i.name)}">${icon("close")}</button></span>`).join("")}</div></div>`:""}).join("")||`<p class="note">Tell us what you have: books, games, gadgets, tools. Add them here, or mention them in the Planner and we'll sort them in.</p>`}
@@ -1048,24 +1202,24 @@ function viewJourney(){const kid=esc(S.child||"Your child");
   h+=`<section class="sec"><div class="sech"><h3>Learning diary</h3></div><div class="card diary">${S.log.slice(0,20).map(l=>`<div class="dline ${SC(l.subj)}">${sblob(l.subj,"happy","",'width="34" height="34"')}<span><b style="font:600 16px var(--display)">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj]||""}${l.kind==="free"?" · explored freely":l.kind==="more"?" · extra lesson":""}</span></span></div>`).join("")||`<p class="sm muted">Finished lessons appear here.</p>`}</div></section>`;
   return h}
 /* ---------- onboarding ---------- */
-function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD}))};render()}
+function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD,mode:S.mode||(S.plus?"booksplus":"books"),exam:!!S.exam}))};render()}
 function viewOnboarding(){const d=ob.d;let h=`<div class="ob"><div class="obbar">${[0,1,2,3,4].map(i=>`<i class="${i<=ob.step?"on":""}"></i>`).join("")}</div>`;
   if(ob.step===0)h+=`${crowd()}<div><span class="eyebrow">Welcome to DeepKids</span><h1 style="margin-top:6px">Let's plan an amazing year of learning at home</h1></div><div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child)}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[6,7,8,9,10].map(a=>`<button type="button" aria-pressed="${d.age===a}" data-age="${a}">${a}</button>`).join("")}</div></div>`;
-  if(ob.step===1)h+=`<h1>Which syllabus?</h1><div class="choices">${[["ncert","NCERT / CBSE","India's national textbooks","var(--tang)"],["cambridge","Cambridge Primary","Stages 1–5","var(--sky)"],["nios","NIOS","Open Basic Education","var(--pist)"],["combined","Combined","All three boards, mapped together","var(--peri)"],["none","Only DeepKids Plus","Our own big-question curriculum","var(--gum)"]].map(([k,n,s,c],i)=>`<button type="button" class="choice" aria-pressed="${d.board===k}" data-b="${k}">${blob(c,20+i,d.board===k?"happy":"calm")}<span><b>${n}</b><span>${s}</span></span></button>`).join("")}</div>${d.board!=="none"?`<label class="toggle"><input type="checkbox" id="obPlus" ${d.plus?"checked":""}><span><b style="font:600 17px var(--display)">Add DeepKids Plus</b><br><span class="sm muted">Big-question topics beyond the textbook, with lessons, games and projects.</span></span></label>`:""}`;
+  if(ob.step===1)h+=`<h1>Which syllabus?</h1><div class="choices">${[["ncert","NCERT / CBSE","India's national textbooks","var(--tang)"],["cambridge","Cambridge Primary","Stages 1–5","var(--sky)"],["nios","NIOS","Open Basic Education","var(--pist)"],["combined","Combined","All three boards, mapped together","var(--peri)"],["none","Only DeepKids Plus","Our own big-question curriculum","var(--gum)"]].map(([k,n,s,c],i)=>`<button type="button" class="choice" aria-pressed="${d.board===k}" data-b="${k}">${blob(c,20+i,d.board===k?"happy":"calm")}<span><b>${n}</b><span>${s}</span></span></button>`).join("")}</div>${d.board!=="none"?`<h2 style="font-size:24px;margin-top:8px">How do you want to learn?</h2><div class="choices">${Object.entries(MODES).map(([k,[n,desc,c]],i)=>`<button type="button" class="choice" aria-pressed="${(d.mode||"booksplus")===k}" data-mode="${k}">${blob(c,40+i,(d.mode||"booksplus")===k?"happy":"calm")}<span><b>${n}</b><span>${desc}</span></span></button>`).join("")}</div><label class="toggle"><input type="checkbox" id="obExam" ${d.exam?"checked":""}><span><b style="font:600 17px var(--display)">Exam track</b><br><span class="sm muted">Planning for board or NIOS exams? Every syllabus chapter stays first.</span></span></label>`:`<p class="note">DeepKids Plus only: our own topics and lesson plans, drawing on every syllabus.</p>`}`;
   if(ob.step===2)h+=`<h1>Which subjects?</h1><div class="choices">${SUBJ_KEYS.map(k=>`<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k,d.subjects.includes(k)?"happy":"sleepy")}<span><b>${SUBJ[k]}</b><span>${k==="hin"?"Not part of Cambridge":"Tap to include or leave out"}</span></span></button>`).join("")}</div>`;
   if(ob.step===3)h+=`<h1>Level and time</h1><p class="muted">A starting level, and roughly how long each subject gets on the days you do it.</p>${d.subjects.map(s=>`<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s,"happy","",'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b></div><div class="fgrid"><select class="inp" id="obl-${s}" data-s="${s}" aria-label="${SUBJ[s]} level">${[1,2,3,4,5].map(l=>`<option value="${l}" ${d.levels[s]===l?"selected":""}>${lvlLabel(l)}</option>`).join("")}</select><select class="inp" id="obh-${s}" data-hpd="${s}" aria-label="${SUBJ[s]} hours a day">${[.25,.5,.75,1,1.5,2,3].map(v=>`<option value="${v}" ${(d.hpd||DEF_HPD)[s]===v?"selected":""}>${v} h a day</option>`).join("")}</select></div></div>`).join("")}`;
   if(ob.step===4){const keep=S;S={...S,...d};h+=`<h1>${esc(d.child||"Your child")}'s year</h1><div class="col">${d.subjects.map(s=>{const c=collate(s),books=[...new Set(c.board.map(u=>u.book))];return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s,"happy","",'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${books.map(b=>`<span class="sm">${esc(b)}: ${c.board.filter(u=>u.book===b).length} chapters</span>`).join("")}${c.dk.length?`<span class="sm">DeepKids Plus: ${c.dk.length} topics</span>`:""}${notesFor(s,d.levels[s]).map(n=>`<span class="xs muted">${esc(n)}</span>`).join("")}</div>`}).join("")}</div>`;S=keep}
   h+=`<div class="row" style="justify-content:space-between">${ob.step>0?`<button class="btn soft" data-ob="back">Back</button>`:"<span></span>"}<button class="btn" data-ob="next">${ob.step===4?"Build my plan":"Continue"}${icon("next")}</button></div></div>`;return h}
 
 function obNext(){const d=ob.d;if(ob.step===0){d.child=document.getElementById("obName").value.trim();SUBJ_KEYS.forEach(s=>d.levels[s]=Math.min(5,Math.max(1,d.age-5)))}if(ob.step===2&&!d.subjects.length){sfx("no");toast("Pick at least one subject");return}
-  if(ob.step===4){Object.assign(S,d,{setup:true});ob=null;tab="today";commit();sfx("win");confetti();return}ob.step++;render();scrollTo(0,0)}
+  if(ob.step===4){if(d.board==="none")d.mode="plus";d.mode=d.mode||"booksplus";d.plus=d.mode!=="books";Object.assign(S,d,{setup:true});ob=null;tab="today";commit();sfx("win");confetti();return}ob.step++;render();scrollTo(0,0)}
 
 /* ---------- sheet + render ---------- */
 const sheet=document.getElementById("sheet");
 function openSheet(o){if(ui.sheet?.mode==="player"&&o.mode!=="player")ui.back=ui.sheet;else ui.back=null;ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true)}
 function renderSheet(top){if(!ui.sheet)return;const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
-  const V={player:playerView,chapter:chapterView,ws:wsView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
+  const V={learn:learnView,player:playerView,chapter:chapterView,ws:wsView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   document.getElementById("sheetClose").innerHTML=ui.back?icon("back"):icon("close");document.getElementById("sheetClose").setAttribute("aria-label",ui.back?"Back to the lesson":"Close");
   b.replaceChildren(el(h));sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
@@ -1089,10 +1243,11 @@ document.getElementById("snd").onclick=()=>{soundOn=!soundOn;try{localStorage.se
 document.getElementById("me").onclick=()=>{sfx("tap");openSheet({mode:"settings"})};
 function playItem(it){openSheet({mode:"player",s:it.s,k:it.u.k,n:it.n,tot:it.tot,bonus:it.bonus,i:Math.max(0,stepState(it).findIndex(x=>!x.ok))});if(ui.sheet.i<0)ui.sheet.i=0}
 function onAct(e){
-  if(ob){const d=ob.d,t=e.target.closest("[data-ob],button[data-age],button[data-b],button.choice[data-s]");if(!t)return;sfx("tap");
+  if(ob){const d=ob.d,t=e.target.closest("[data-ob],button[data-age],button[data-b],button.choice[data-s],button[data-mode]");if(!t)return;sfx("tap");
     if(t.dataset.ob==="next")return obNext();if(t.dataset.ob==="back"){ob.step--;return render()}
     if(t.dataset.age){d.child=document.getElementById("obName").value;d.age=+t.dataset.age}
     if(t.dataset.b){d.board=t.dataset.b;if(d.board==="none")d.plus=true}
+    if(t.dataset.mode)d.mode=t.dataset.mode;
     if(t.dataset.s){const s=t.dataset.s;d.subjects=d.subjects.includes(s)?d.subjects.filter(x=>x!==s):[...d.subjects,s].sort((a,b)=>SUBJ_KEYS.indexOf(a)-SUBJ_KEYS.indexOf(b))}
     return render()}
   const b=e.target.closest("[data-act]");if(!b)return;const a=b.dataset.act,k=b.dataset.k;
@@ -1109,7 +1264,24 @@ function onAct(e){
    case "less":{ui.more[b.dataset.s]=false;sfx("flip");render();break}
    case "skip":{S.skips[today+"|"+b.dataset.s]=true;sfx("flip");toast("Moved to the next lesson day");commit();break}
    case "swap":{sfx("flip");openSheet({mode:"swap",s:b.dataset.s});break}
-   case "pin":{S.pin={...(S.pin||{}),[b.dataset.s]:k};sfx("ok");toast("That's up next");sheet.close();commit();break}
+   case "pin":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};sfx("ok");toast("That's up next");sheet.close();commit();break}
+   case "daytype":{S.dayType={...(S.dayType||{}),[today]:b.dataset.t};sfx("tick");toast(b.dataset.t==="busy"?"Busy day: shorter lessons":"Full day");commit();break}
+   case "learn":{sfx("flip");openSheet({mode:"learn"});break}
+   case "ptype":{ui.ptype=b.dataset.t;sfx("tap");renderSheet();break}
+   case "ppick":{S.planPick={...(S.planPick||{}),[k]:{...((S.planPick||{})[k]||{}),[b.dataset.t]:b.dataset.o}};sfx("ok");toast("Plan chosen");commit();break}
+   case "tfind":{ui.tq=document.getElementById("tq")?.value||"";ui.terr="";sfx("tap");render();break}
+   case "tsearch":{ui.tq=b.dataset.q;ui.lt="topics";tab="library";if(sheet.open)sheet.close();render();scrollTo(0,0);break}
+   case "tgen":{sfx("tap");genTopic();break}
+   case "qsub":{ui.qs=b.dataset.s;sfx("tap");render();break}
+   case "shuffle":{const s=b.dataset.s;S.shuffle={...(S.shuffle||{}),[s]:!(S.shuffle||{})[s]};S.seed={...(S.seed||{}),[s]:Math.floor(Math.random()*9999)};sfx("flip");commit();break}
+   case "reshuffle":{const s=b.dataset.s;S.seed={...(S.seed||{}),[s]:Math.floor(Math.random()*9999)};sfx("flip");commit();break}
+   case "exam":{S.exam=!S.exam;sfx("tick");toast(S.exam?"Exam track on: syllabus first":"Exam track off");commit();break}
+   case "qnext":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};S.later={...(S.later||{}),[s]:((S.later||{})[s]||[]).filter(x=>x!==k)};sfx("ok");toast("Up next");commit();break}
+   case "qlater":{const s=b.dataset.s;S.later={...(S.later||{}),[s]:[...((S.later||{})[s]||[]).filter(x=>x!==k),k]};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==k)};sfx("flip");toast("Moved to later");commit();break}
+   case "qrem":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:((S.extra||{})[s]||[]).filter(x=>x!==k)};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==k)};sfx("flip");commit();break}
+   case "qadd":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:[...new Set([...((S.extra||{})[s]||[]),k])]};sfx("ok");toast("Added to Up next");commit();break}
+   case "lt2":{ui.lt="topics";tab="library";render();scrollTo(0,0);break}
+   case "quickplan":{tab="week";render();scrollTo(0,0);break}
    case "free":{openPicker();break}
    case "chapter":{sfx("flip");if(b.dataset.t)ui.ctab[k]=b.dataset.t;openSheet({mode:"chapter",k});break}
    case "ctab":{ui.ctab[k]=b.dataset.t;sfx("tap");renderSheet(true);break}
