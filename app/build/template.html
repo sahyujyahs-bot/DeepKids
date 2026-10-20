@@ -398,6 +398,35 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 .qrow .plain{text-align:left}
 .hello{cursor:pointer;border-radius:16px}
 
+/* v7: calm screens */
+.greet.small svg.scene{height:104px}
+.greet.small h1{font-size:clamp(24px,6vw,29px)}
+.now{margin-top:16px;border-radius:var(--r-xl);padding:22px 20px 16px;display:grid;gap:10px;position:relative;background:color-mix(in srgb,var(--c) 28%,var(--surface));box-shadow:0 0 0 3px var(--c),var(--lift);animation:glow 2.6s ease-in-out infinite}
+.now .mascot{position:absolute;right:14px;top:-24px;width:76px;height:76px}
+.now h2{font-size:clamp(25px,6.6vw,32px);padding-right:64px}
+.now .sub{font-weight:700;color:var(--muted)}
+.now .eyebrow{color:color-mix(in srgb,var(--c) 50%,var(--ink))}
+.btn.big{height:58px;font-size:19px}
+.now .ck{width:58px;height:58px}
+.now .tdet{display:grid;gap:10px;border-top:2px dashed color-mix(in srgb,var(--c) 40%,transparent);padding-top:10px}
+.nudge{margin-top:12px;width:100%;display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;text-align:left;border:0;border-radius:18px;padding:8px 14px;background:color-mix(in srgb,var(--peri) 22%,var(--surface));font:600 15px var(--display);color:var(--ink)}
+.tt.compact{gap:8px}
+.tt.compact .tcard{padding:8px 10px;gap:10px}
+.tt.compact .tcard .ic{width:34px;height:34px}.tt.compact .tcard .ic .ico{width:18px;height:18px}
+.tt.compact .tcard .m b{font-size:15.5px}
+.tt.compact .ck{width:40px;height:40px;border-radius:13px}
+.morebtn,.menurow{width:100%;display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;text-align:left;border:0;border-radius:20px;padding:12px 16px;background:var(--surface);box-shadow:var(--lift);color:var(--ink);font:inherit}
+.morebtn{margin-top:24px;grid-template-columns:auto 1fr;row-gap:0}
+.morebtn span:first-of-type{font:600 17px var(--display)}
+.morebtn .xs{grid-column:2}
+.menurow b{font:600 17px var(--display)}
+.sec>.menurow+.menurow{margin-top:-2px}
+
+@keyframes glow{50%{box-shadow:0 0 0 7px color-mix(in srgb,var(--c) 45%,transparent),var(--lift)}}
+.nightbar{animation:glow 2.6s ease-in-out infinite;--c:var(--peri)}
+.tr.focus .tcard{animation:glow 2.6s ease-in-out infinite}
+.tt.compact .tag.miss{background:var(--sunk);color:var(--muted)}.tt.compact .tr.missed .tcard{background:var(--surface);box-shadow:inset 0 0 0 2px var(--line)}
+
 </style>
 
 <header class="top"><div class="wrap">
@@ -424,6 +453,19 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -652,6 +694,57 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* ---------- calm Today: one thing now, a short list, everything else behind More ---------- */
+function nowCard(it){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,missed=isMissed(it,today),a=`data-id="${it.id}" data-date="${today}"`,open=!!ui.open["now|"+it.id];
+  const label=missed?"Still to do":it.anytime?"Any time today":it.at<=nowMin()?"Now":"Up next";
+  const title=it.kind==="lesson"?it.u.title:it.title;
+  const sub=it.kind==="lesson"?`${SUBJ[it.s]} · ${mins(it.dur/60)} · day ${it.n} of ${it.tot}`:it.kind==="prep"?(n=>`${n} thing${n===1?"":"s"} to get ready · ${mins(it.dur/60)}`)(it.prep.filter(p=>!S.prep[p.id]).length):it.sub||ROLE[it.who];
+  const P={lesson:[`data-act="play" ${a}`,it.kind==="lesson"&&stepState(it).some(x=>x.ok)?"Keep going":"Start the lesson"],prep:it.id==="pm"?[`data-act="night"`,"Get tomorrow ready"]:[`data-act="tlopen" ${a}`,"Open the checklist"],warm:[`data-act="games"`,"Start the warm-up"],plan:[`data-act="quickplan"`,"Open the Planner"],exps:[`data-act="tlcheck" ${a}`,"Checked them all"]}[it.kind]||[`data-act="tlcheck" ${a}`,"Done"];
+  const mascot=it.kind==="lesson"?sblob(it.s,"happy","mascot bob"):it.who==="you"?youBlob("mascot bob","calm"):kidBlob("mascot bob");
+  return `<section class="now ${col}">${mascot}<span class="eyebrow">${label} · ${it.anytime?"any time":clock(it.at)}</span><h2>${esc(title)}</h2><p class="sub">${esc(sub)}</p>
+   <div class="row" style="flex-wrap:nowrap"><button class="btn wide big" ${P[0]}>${it.kind==="lesson"?icon("play"):""}${P[1]}</button>${P[0].includes("tlcheck")?"":`<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
+   <button class="link sm" data-act="nowmore" data-id="${it.id}" style="justify-self:start">${open?"Hide details":"Details"}</button>${open?`<div class="tdet">${itemDetail(it,today)}</div>`:""}</section>`}
+function moreView(){document.getElementById("sheetTitle").textContent="More for today";const du=dailyUnit(),open=S.exps.filter(e=>!e.closed),li=learnItems().length;
+  let h=`<section class="card"><span class="eyebrow">Today is a</span><div class="whos"><button aria-pressed="${dayTypeOf(today)==="full"}" data-act="daytype" data-t="full">Full day</button><button aria-pressed="${dayTypeOf(today)==="busy"}" data-act="daytype" data-t="busy">Busy day</button></div><p class="xs muted">Busy days use the short lesson plans.</p></section>`;
+  h+=`<button class="menurow" data-act="learn">${youBlob("","calm",'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li?li+" guides and readings for today and tomorrow":"Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
+  h+=`<button class="menurow" data-act="games">${blob("var(--gum)",21,"wow","",'width="40" height="40"')}<span><b>Jokes and games</b><br><span class="xs muted">Word of the Day, True or False, Odd One Out</span></span>${icon("next")}</button>`;
+  if(du)h+=`<div class="hs">${du.c.x.jokes.map((j,i)=>{const [q,a]=splitJoke(j),k=today+i;return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i+1}</span><span class="q">${esc(q)}</span>${ui.jokes[k]?`<span class="a">${esc(a)}</span>`:`<span class="tap">Tap for the answer</span>`}</button>`}).join("")}</div>`;
+  h+=`<section class="card"><b style="font:600 17px var(--display)">Growing and ongoing</b>${open.map(e=>{const day=Math.round((parse(today)-parse(e.start))/864e5)+1,c=e.checks.includes(today);return `<div class="expi ${c?"done":""}" style="box-shadow:none;padding:6px 0"><span class="daybadge"><span><small>DAY</small>${day}</span></span><span style="min-width:0"><b style="font:600 15px var(--display)">${esc(e.title)}</b><br><span class="xs muted"><button class="link xs" data-act="close" data-e="${e.id}">finish</button></span></span><button class="ck" data-act="check" data-e="${e.id}" aria-label="Checked today: ${esc(e.title)}">${icon("check")}</button></div>`}).join("")||`<p class="xs muted">Seeds, crystals and projects appear here with a daily check.</p>`}<div class="row" style="flex-wrap:nowrap"><input class="inp" id="newExp" placeholder="Add your own" maxlength="80"><button class="btn sm" data-act="addexp">Add</button></div></section>`;
+  h+=`<section class="card"><b style="font:600 17px var(--display)">Add to today</b>${quickAdd(today)}</section><button class="btn soft sm" data-act="free" style="justify-self:start">We explored something else</button>`;
+  return h}
+
+/* ---------- calm Planner: tell us, see the plan, the rest behind rows ---------- */
+const PL={queue:"Up next",events:"Classes, outings and to-dos",calendar:"Bring in your calendars",day:"Your day",pace:"Pace",asks:"DeepKids asks"};
+function plView(){const p=ui.sheet.p;document.getElementById("sheetTitle").textContent=PL[p]||"Planner";if(p==="queue")return queueCard();if(p==="calendar")return calendarCard();return plPart(p)||`<p class="note">Nothing here yet.</p>`}
+
+/* ---------- calm Journey: subjects first, the rest behind rows ---------- */
+const JR={high:"Highlights",board:"Against the board",beyond:"Beyond the board",diary:"Learning diary",numbers:"Numbers"};
+function jrView(){const p=ui.sheet.p;document.getElementById("sheetTitle").textContent=JR[p]||"Journey";return jPart(p)||`<p class="note">Nothing here yet. It fills up as ${esc(S.child||"your child")} learns.</p>`}
+
+function plPart(p){let h="";
+  if(p==="asks"){  const Q=askList();if(Q.length)h+=`<section class="sec"><div class="sech"><h3>DeepKids asks</h3></div><div class="col" style="gap:8px">${Q.map(([q,a])=>`<button class="askq" data-act="askq" data-a="${esc(a)}">${blob("var(--sun)",8,"wow","",'width="34" height="34"')}<span>${q}</span>${icon("next")}</button>`).join("")}</div></section>`;}
+  if(p==="events"){  const evs=S.events||[],tds=(S.todos||[]).filter(x=>!x.done);
+  h+=`<section class="sec"><div class="sech"><h3>Classes, outings and to-dos</h3></div>${evs.length||tds.length?`<div class="tt">${evs.map(e=>`<div class="tcard ${e.kind==="outing"?"r-out":"r-"+e.who}"><span class="ic">${icon("event")}</span><span class="m"><b>${esc(e.title)}</b><span>${clock(hm(e.start))} · ${e.rep==="weekly"?"every "+e.days.map(d=>DAYN[d]).join(", "):fmt(e.date)} · ${ROLE[e.kind==="outing"?"out":e.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="delev" data-e="${e.id}" aria-label="Remove ${esc(e.title)}">${icon("close")}</button></div>`).join("")}${tds.map(x=>`<div class="tcard r-${x.who}"><span class="ic">${icon("prep")}</span><span class="m"><b>${esc(x.title)}</b><span>${fmt(x.date)} · any time · ${ROLE[x.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="tododel" data-t="${x.id}" aria-label="Remove ${esc(x.title)}">${icon("close")}</button></div>`).join("")}</div>`:`<p class="note">Nothing yet. Tell DeepKids above, or add by hand.</p>`}</section>`;}
+  if(p==="day"){  const d=D();h+=`<section class="sec"><div class="sech"><h3>Your day</h3></div><div class="card"><div class="fgrid">
+    <div class="field"><label for="dPrep">Morning prep</label><input class="inp" id="dPrep" type="time" data-dayset="prepAt" value="${d.prepAt}"></div><div class="field"><label for="dStart">Lessons start</label><input class="inp" id="dStart" type="time" data-dayset="start" value="${d.start}"></div>
+    <div class="field"><label for="dBrk">Break between</label><select class="inp" id="dBrk" data-dayset="brk">${[0,10,15,20,30].map(x=>`<option value="${x}" ${+d.brk===x?"selected":""}>${x} min</option>`).join("")}</select></div>
+    <div class="field"><label for="dLunch">Lunch at</label><input class="inp" id="dLunch" type="time" data-dayset="lunch" value="${d.lunch}"></div><div class="field"><label for="dLunchM">Lunch length</label><select class="inp" id="dLunchM" data-dayset="lunchMin">${[30,45,60,90].map(x=>`<option value="${x}" ${+d.lunchMin===x?"selected":""}>${x} min</option>`).join("")}</select></div>
+    <div class="field"><label for="dEve">Evening prep</label><input class="inp" id="dEve" type="time" data-dayset="eveAt" value="${d.eveAt}"></div></div></div></section>`;}
+  if(p==="pace"){  h+=`<section class="sec"><div class="sech"><h3>Pace</h3><span class="xs muted">Change anything and the year re-plans</span></div>${S.subjects.map(s=>{const sc=schedule(s),cur=sc.filter(x=>x.u.level===S.levels[s]),l=S.levels[s];return `<div class="card ${SC(s)}"><div class="sech"><div class="row" style="gap:8px">${sblob(s,"happy","",'width="34" height="34"')}<h3>${SUBJ[s]}</h3></div><div class="stepper"><button data-act="lvl" data-s="${s}" data-d="-1" ${l<=1?"disabled":""} aria-label="Level down">−</button><span class="sm" style="min-width:64px;text-align:center">Level ${l}</span><button data-act="lvl" data-s="${s}" data-d="1" ${l>=5?"disabled":""} aria-label="Level up">+</button></div></div>
+     <div class="row"><select class="inp" style="width:auto;height:40px" id="hpd-${s}" data-hpd="${s}" aria-label="${SUBJ[s]} hours a day">${[.25,.5,.75,1,1.5,2,3].map(v=>`<option value="${v}" ${hpdOf(s)===v?"selected":""}>${v} h a day</option>`).join("")}</select><div class="dpick">${[1,2,3,4,5,6,0].map(dd=>`<button aria-pressed="${daysOf(s).includes(dd)}" data-act="day" data-s="${s}" data-d="${dd}">${DAYN[dd]}</button>`).join("")}</div></div>
+     <p class="xs muted">${lvlLabel(l)} · ${cur.length} lesson days left at this level${cur.length?`, finishing around ${fmt(cur[cur.length-1].date)}`:""}</p></div>`}).join("")}</section>`;}
+  return h}
+function jPart(p){const kid=esc(S.child||"Your child");let h="";
+  if(p==="numbers"){  const tasks=Object.values(S.tasks).reduce((a,t)=>a+Object.keys(t).length,0),gd=Object.values(S.games).filter(g=>g.g?.length||Object.keys(g.tf||{}).length||g.odd).length,hrs=S.log.reduce((a,l)=>a+hpdOf(l.subj),0);
+  h+=`<section class="sec"><div class="stack3">${[[S.log.length,"lessons","var(--sun)"],[fh(hrs),"hours learned","var(--pist)"],[tasks,"tasks done","var(--gum)"],[gd,"game days","var(--sky)"]].map(([n,l,c],i)=>`<div class="scard" style="--c:${c};min-height:104px"><span class="big num">${n}</span><span class="sm" style="font-weight:800">${l}</span>${blob("rgba(255,255,255,.6)",60+i,"happy")}</div>`).join("")}</div></section>`;}
+  if(p==="high"){  const Qs=quotes().slice(-3).reverse(),W=workOf().slice(-6).reverse();
+  if(Qs.length||W.length)h+=`<section class="sec"><div class="sech"><h3>Highlights</h3></div>${Qs.map(q=>`<div class="quote ${SC(q.u.subj)}"><span class="eyebrow">${esc(q.q||"")}</span><p>“${esc(q.a)}”</p><span class="xs muted">${esc(q.u.title)}</span></div>`).join("")}${thumbs(W)}</section>`;}
+  if(p==="board"){  const bs=boardsOn();if(bs.length)h+=`<section class="sec"><div class="sech"><h3>Against the board</h3><span class="xs muted">school year from ${fmt(AY0())}</span></div>${bs.map(b=>{const R=S.subjects.map(s=>({s,r:boardRows(s,b)})).filter(x=>x.r);if(!R.length)return "";return `<div class="card"><b style="font:600 17px var(--display)">${BOARDS[b]}</b>${R.map(({s,r})=>`<div class="col" style="gap:4px"><div class="sech"><span class="sm" style="font-weight:800">${SUBJ[s]}</span><span class="xs ${r.behind.length?"":"muted"}" style="${r.behind.length?"color:var(--bad);font-weight:800":""}">${r.behind.length?`${r.behind.length} behind`:r.done.length>=r.exp?"On track":""} · ${r.done.length} of ${r.us.length}</span></div><div class="bar ${SC(s)}"><span style="width:${r.done.length/r.us.length*100}%;background:var(--c)"></span></div></div>`).join("")}</div>`}).join("")}</section>`;}
+  if(p==="beyond"){  const beyond=S.log.filter(l=>l.key.startsWith("dk|")||l.kind==="free"),bk=[...new Set(beyond.map(l=>l.title))];
+  h+=`<section class="sec"><div class="sech"><h3>Beyond the board</h3></div><div class="card">${bk.length?`<div class="row">${bk.map(t=>`<span class="chip">${esc(t)}</span>`).join("")}</div>`:`<p class="sm muted">DeepKids Plus topics and things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter(e=>e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;}
+  if(p==="diary"){  h+=`<section class="sec"><div class="sech"><h3>Learning diary</h3></div><div class="card diary">${S.log.slice(0,20).map(l=>`<div class="dline ${SC(l.subj)}">${sblob(l.subj,"happy","",'width="34" height="34"')}<span><b style="font:600 16px var(--display)">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj]||""}${l.kind==="free"?" · explored freely":l.kind==="more"?" · extra lesson":""}</span></span></div>`).join("")||`<p class="sm muted">Finished lessons appear here.</p>`}</div></section>`;}
+  return h}
+
 let DBH=null,UID=null,_all=null,ACCT="";
 function keepInputs(root){const o={};root.querySelectorAll("input[id],textarea[id],select[id]").forEach(e=>{if(e.dataset.dirty&&e.type!=="file")o[e.id]=e.type==="checkbox"?e.checked:e.value});const a=document.activeElement;return {o,focus:a&&root.contains(a)&&a.id?a.id:null,sel:a&&typeof a.selectionStart==="number"?a.selectionStart:null}}
 function restoreInputs(root,k){Object.entries(k.o).forEach(([id,v])=>{const e=root.querySelector("#"+CSS.escape(id));if(!e)return;if(e.type==="checkbox")e.checked=v;else e.value=v;e.dataset.dirty="1"});if(k.focus){const e=root.querySelector("#"+CSS.escape(k.focus));if(e&&document.activeElement!==e){e.focus({preventScroll:true});try{if(k.sel!=null)e.setSelectionRange(k.sel,k.sel)}catch(x){}}}}
@@ -862,7 +955,7 @@ function weekView(){const by=sessMap(),m=parse(monday());m.setDate(m.getDate()+7
 function dayView(){const d=ui.pday||today;return `<div class="pager"><button class="iconbtn" data-act="pdd" data-d="-1" aria-label="Previous day">${icon("back")}</button><h3 style="font-size:20px">${d===today?"Today":fmt(d)}</h3><button class="iconbtn" data-act="pdd" data-d="1" aria-label="Next day">${icon("next")}</button></div>${timeline(d)}`}
 function askList(){const Q=[];if(!S.parent?.name)Q.push(["What should we call you?","parent"]);if(!(S.events||[]).some(e=>e.kind==="class"||e.kind==="online"))Q.push([`Does ${esc(S.child||"your child")} go to any classes or tuitions? Tell us the days and times.`,"say:Classes and tuitions: "]);
   if(!(S.alarm||{}).time)Q.push(["When do you usually wake up?","parent"]);Q.push(["Any holidays, trips or family events coming up this month?","say:Coming up this month: "]);if(boardsOn().includes("nios"))Q.push(["Are you planning to register for NIOS exams this year?","say:About exams: "]);Q.push([`What does ${esc(S.child||"your child")} love doing these days?`,"say:These days they love: "]);return Q.slice(0,3)}
-function dumpCard(){const D_=ui.dump||{};return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--aqua)",3,"wow","",'width="52" height="52"')}<div><h3 style="font-size:20px">Tell DeepKids anything</h3><p class="xs muted">Classes, tuitions, outings, chores, exams, what you own. Type it, speak it with your keyboard's mic, or add a photo or screenshot. We sort it into the plan.</p></div></div>
+function dumpCard(){const D_=ui.dump||{};return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--aqua)",3,"wow","",'width="52" height="52"')}<div><h3 style="font-size:20px">Tell DeepKids anything</h3><p class="xs muted">Type it, say it with your keyboard's mic, or add a photo. We sort it into your plan.</p></div></div>
    <textarea class="inp" id="dumpText" placeholder="Swimming every Tue and Thu 5 to 6. Tabla Saturday 10am. Dentist next Friday 4pm. We have a microscope and Ludo. Need to buy a geometry box.">${esc(D_.text||"")}</textarea>
    <div class="row">${IMGOK?`<label class="btn soft sm" style="cursor:pointer">${icon("plus")}Photo or screenshot<input type="file" id="dumpImg" accept="image/*" multiple hidden></label>`:""}<span class="xs muted" id="dumpImgN">${D_.files?.length?D_.files.length+" photo"+(D_.files.length>1?"s":"")+" added":""}</span><button class="btn sm" data-act="dump" style="margin-left:auto" ${D_.busy?"disabled":""}>${D_.busy?"Sorting…":"Sort it into my plan"}</button></div>
    ${SAMPLE?"":`<p class="xs muted">Sorting needs Claude, which isn't available in this view. Use quick add below instead.</p>`}
@@ -870,21 +963,11 @@ function dumpCard(){const D_=ui.dump||{};return `<section class="card dump"><div
    ${D_.items?`<div class="col" style="gap:8px">${D_.items.map((it,i)=>`<div class="parsed ${it.keep?"":"off"}"><button class="ck ${it.keep?"on":""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><b style="font:600 16px var(--display)">${esc(it.title)}</b><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type==="have"?"We have it":ROLE[it.who]||"For you"}</button></div>`).join("")}${D_.questions?.length?`<div class="ask"><span class="eyebrow">A few questions</span>${D_.questions.map(q=>`<div>${esc(q)}</div>`).join("")}<span class="xs muted">Answer in the box above and sort again.</span></div>`:""}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter(x=>x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>`:""}
    <details><summary class="link" style="cursor:pointer">Quick add by hand</summary><div style="margin-top:10px">${quickAdd(ui.pday||today)}</div></details></section>`}
 function parsedLine(it){if(it.type==="have")return "Library · "+(it.category||"other");const when=it.days&&it.days.length?"Every "+it.days.map(d=>DAYN[d]).join(", "):it.date?fmt(it.date):"Today";return [it.type,when,it.start?clock(hm(it.start))+(it.end?"–"+clock(hm(it.end)):""):"any time",it.note].filter(Boolean).join(" · ")}
-function viewPlanner(){const v=ui.pv||"week";
-  let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Planner</h1>${youBlob("","happy",'width="50" height="50"')}</div>${dumpCard()}${calendarCard()}</section>`;
-  h+=queueCard();
-  const Q=askList();if(Q.length)h+=`<section class="sec"><div class="sech"><h3>DeepKids asks</h3></div><div class="col" style="gap:8px">${Q.map(([q,a])=>`<button class="askq" data-act="askq" data-a="${esc(a)}">${blob("var(--sun)",8,"wow","",'width="34" height="34"')}<span>${q}</span>${icon("next")}</button>`).join("")}</div></section>`;
-  h+=`<section class="sec"><div class="sech"><h3>The plan</h3></div><div class="seg">${Object.entries(PV).map(([k,n])=>`<button aria-pressed="${v===k}" data-act="pv" data-v="${k}">${n}</button>`).join("")}</div>${{year:yearOrbit,month:monthView,week:weekView,day:dayView}[v]()}</section>`;
-  const evs=S.events||[],tds=(S.todos||[]).filter(x=>!x.done);
-  h+=`<section class="sec"><div class="sech"><h3>Classes, outings and to-dos</h3></div>${evs.length||tds.length?`<div class="tt">${evs.map(e=>`<div class="tcard ${e.kind==="outing"?"r-out":"r-"+e.who}"><span class="ic">${icon("event")}</span><span class="m"><b>${esc(e.title)}</b><span>${clock(hm(e.start))} · ${e.rep==="weekly"?"every "+e.days.map(d=>DAYN[d]).join(", "):fmt(e.date)} · ${ROLE[e.kind==="outing"?"out":e.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="delev" data-e="${e.id}" aria-label="Remove ${esc(e.title)}">${icon("close")}</button></div>`).join("")}${tds.map(x=>`<div class="tcard r-${x.who}"><span class="ic">${icon("prep")}</span><span class="m"><b>${esc(x.title)}</b><span>${fmt(x.date)} · any time · ${ROLE[x.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="tododel" data-t="${x.id}" aria-label="Remove ${esc(x.title)}">${icon("close")}</button></div>`).join("")}</div>`:`<p class="note">Nothing yet. Tell DeepKids above, or add by hand.</p>`}</section>`;
-  const d=D();h+=`<section class="sec"><div class="sech"><h3>Your day</h3></div><div class="card"><div class="fgrid">
-    <div class="field"><label for="dPrep">Morning prep</label><input class="inp" id="dPrep" type="time" data-dayset="prepAt" value="${d.prepAt}"></div><div class="field"><label for="dStart">Lessons start</label><input class="inp" id="dStart" type="time" data-dayset="start" value="${d.start}"></div>
-    <div class="field"><label for="dBrk">Break between</label><select class="inp" id="dBrk" data-dayset="brk">${[0,10,15,20,30].map(x=>`<option value="${x}" ${+d.brk===x?"selected":""}>${x} min</option>`).join("")}</select></div>
-    <div class="field"><label for="dLunch">Lunch at</label><input class="inp" id="dLunch" type="time" data-dayset="lunch" value="${d.lunch}"></div><div class="field"><label for="dLunchM">Lunch length</label><select class="inp" id="dLunchM" data-dayset="lunchMin">${[30,45,60,90].map(x=>`<option value="${x}" ${+d.lunchMin===x?"selected":""}>${x} min</option>`).join("")}</select></div>
-    <div class="field"><label for="dEve">Evening prep</label><input class="inp" id="dEve" type="time" data-dayset="eveAt" value="${d.eveAt}"></div></div></div></section>`;
-  h+=`<section class="sec"><div class="sech"><h3>Pace</h3><span class="xs muted">Change anything and the year re-plans</span></div>${S.subjects.map(s=>{const sc=schedule(s),cur=sc.filter(x=>x.u.level===S.levels[s]),l=S.levels[s];return `<div class="card ${SC(s)}"><div class="sech"><div class="row" style="gap:8px">${sblob(s,"happy","",'width="34" height="34"')}<h3>${SUBJ[s]}</h3></div><div class="stepper"><button data-act="lvl" data-s="${s}" data-d="-1" ${l<=1?"disabled":""} aria-label="Level down">−</button><span class="sm" style="min-width:64px;text-align:center">Level ${l}</span><button data-act="lvl" data-s="${s}" data-d="1" ${l>=5?"disabled":""} aria-label="Level up">+</button></div></div>
-     <div class="row"><select class="inp" style="width:auto;height:40px" id="hpd-${s}" data-hpd="${s}" aria-label="${SUBJ[s]} hours a day">${[.25,.5,.75,1,1.5,2,3].map(v=>`<option value="${v}" ${hpdOf(s)===v?"selected":""}>${v} h a day</option>`).join("")}</select><div class="dpick">${[1,2,3,4,5,6,0].map(dd=>`<button aria-pressed="${daysOf(s).includes(dd)}" data-act="day" data-s="${s}" data-d="${dd}">${DAYN[dd]}</button>`).join("")}</div></div>
-     <p class="xs muted">${lvlLabel(l)} · ${cur.length} lesson days left at this level${cur.length?`, finishing around ${fmt(cur[cur.length-1].date)}`:""}</p></div>`}).join("")}</section>`;
+function viewPlanner(){const v=ui.pv||"week",Q=askList(),n=(S.events||[]).length+(S.todos||[]).filter(x=>!x.done).length;
+  let h=`<section class="sec" style="margin-top:8px"><h1 style="font-size:30px">Planner</h1>${dumpCard()}</section>`;
+  h+=`<section class="sec"><div class="seg">${Object.entries(PV).map(([k,nm])=>`<button aria-pressed="${v===k}" data-act="pv" data-v="${k}">${nm}</button>`).join("")}</div>${{year:yearOrbit,month:monthView,week:weekView,day:dayView}[v]()}</section>`;
+  const rows=[["queue","Up next","What comes next in each subject",blob("var(--tang)",11,"happy","",'width="40" height="40"')],["events","Classes, outings and to-dos",n?n+" added":"None yet",blob("var(--gum)",7,"happy","",'width="40" height="40"')],["calendar","Bring in your calendars","From Google or Apple Calendar",blob("var(--sky)",14,"happy","",'width="40" height="40"')],["day","Your day","Prep, lesson and lunch times",youBlob("","calm",'width="40" height="40"')],["pace","Pace","Level, hours and days for each subject",blob("var(--pist)",9,"happy","",'width="40" height="40"')],...(Q.length?[["asks","DeepKids asks",Q.length+" quick questions",blob("var(--sun)",8,"wow","",'width="40" height="40"')]]:[])];
+  h+=`<section class="sec">${rows.map(([k,t,s,b])=>`<button class="menurow" data-act="plsheet" data-p="${k}">${b}<span><b>${t}</b><br><span class="xs muted">${s}</span></span>${icon("next")}</button>`).join("")}</section>`;
   return h}
 async function runDump(){const ta=document.getElementById("dumpText"),text=(ta?.value||"").trim(),D_=ui.dump=ui.dump||{};D_.text=text;if(!SAMPLE){D_.err="Sorting needs Claude, which isn't available in this view.";return render()}
   if(!text&&!D_.files?.length){D_.err="Type something or add a photo first.";sfx("no");return render()}
@@ -1053,18 +1136,15 @@ function agRow(it,now){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,[hh,ap]
   if(it.kind==="brk")return `<div class="tr brk"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur/60)}</span></div>`;
   const a=`data-id="${it.id}" data-date="${today}"`;
   return `<div class="tr ${col} ${it.done?"done":""} ${it===now?"now":""}"><span class="t num">${hh}<small>${ap}</small></span><div class="tcard"><span class="ic">${icon(KICO[it.kind])}</span><button class="m plain" data-act="tlopen" ${a}><b>${esc(it.kind==="lesson"?it.u.title:it.title)}</b><span>${it.kind==="lesson"?SUBJ[it.s]+" · ":""}${ROLE[it.who]} · ${mins(it.dur/60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done?"Done":"Mark done"}: ${esc(it.title)}">${icon("check")}</button></div></div>`}
-function viewToday(){const items=dayPlan(today),real=items.filter(i=>i.kind!=="brk"),dn=real.filter(i=>i.done).length,f=focusOf(items,today),du=dailyUnit(),pct=real.length?dn/real.length*100:0;
-  const lessons=real.filter(i=>i.kind==="lesson"),lessonsDone=lessons.length>0&&lessons.every(i=>i.done),kidN=esc(S.child||"your child");
-  const ls=lessons.filter(i=>!i.done).length,yt=real.filter(i=>i.who==="you"&&!i.done).length;
-  let h=`<section class="greet"><div><span class="eyebrow">${longDate()}</span><h1>${greetWord()}${pname()?", "+esc(pname()):""}!</h1><p>${real.length?(f?`${ls?`${kidN} has ${ls} lesson${ls>1?"s":""} left today`:`${kidN}'s lessons are done`}${yt?`, and you have ${yt} thing${yt>1?"s":""} of your own.`:"."}`:"Everything for today is done."):"Nothing is planned today. Add plans in the Planner, or start a lesson below."}</p></div>${garden(items,f)}<div class="track" style="margin:0 4px"><span style="width:${pct}%"></span>${kidBlob("rider","happy",`style="left:${Math.max(4,pct)}%"`)}</div></section>`;
-  if(S.setup&&!S.parent?.saved&&!S.parent?.name)h+=`<section class="card r-you tint" style="margin-top:14px"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("","happy",'width="56" height="56"')}<div><h3 style="font-size:19px">This app is for you. Tell us a little about yourself</h3><p class="sm muted">Your name, when you wake up, and where you'd like more help.</p></div></div><button class="btn sm" data-act="parent" style="justify-self:start">Set up my profile</button></section>`;
-  h+=`<section class="sec"><div class="sech"><h3>Today</h3><button class="link" data-act="quick">+ Add to today</button></div><div class="row" style="justify-content:space-between"><div class="whos"><button aria-pressed="${dayTypeOf(today)==="full"}" data-act="daytype" data-t="full">Full day</button><button aria-pressed="${dayTypeOf(today)==="busy"}" data-act="daytype" data-t="busy">Busy day</button></div>${learnItems().length?`<button class="link" data-act="learn">For you · ${learnItems().length} to read</button>`:""}</div>${timeline(today)}</section>`;
-  if(lessonsDone||!lessons.length&&real.length===0)h+=`<section class="donecard">${blob("var(--sun)",4,"happy","mascot bob")}<span class="eyebrow">${lessons.length?"Lessons done":"Free day"}</span><h2>${lessons.length?"All of today's lessons are done. Want to keep going?":"Want to start something?"}</h2><p class="sm" style="font-weight:700">Start the next lesson now and the plan moves everything else along.</p>${offerList()}</section>`;
-  const nd=nightItems(),tl=dayPlan(tomorrow()).filter(i=>i.kind==="lesson");
-  if(nowMin()>=hm(D().eveAt)-120||lessonsDone)h+=`<section class="card night" style="margin-top:16px"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--peri)",17,"sleepy","",'width="56" height="56"')}<div><span class="eyebrow">Tonight</span><h3 style="font-size:20px">${(S.night||{})[today]?"Tomorrow is ready. Sleep well!":"Get ready for tomorrow"}</h3><p class="sm muted">${nd.length} thing${nd.length===1?"":"s"} to get ready · ${tl.length} lesson${tl.length===1?"":"s"} tomorrow</p></div></div><button class="btn ${(S.night||{})[today]?"soft":""} sm" data-act="night" style="justify-self:start">${(S.night||{})[today]?"See tomorrow":"Get tomorrow ready"}</button></section>`;
-  if(du)h+=`<section class="sec"><div class="sech"><h3>Jokes of the day</h3><button class="link" data-act="games">Games →</button></div><div class="hs">${du.c.x.jokes.map((j,i)=>{const [q,a]=splitJoke(j),k=today+i;return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i+1}</span><span class="q">${esc(q)}</span>${ui.jokes[k]?`<span class="a">${esc(a)}</span>`:`<span class="tap">Tap for the answer</span>`}</button>`}).join("")}</div></section>`;
-  const open=S.exps.filter(e=>!e.closed);
-  h+=`<section class="sec" id="exps"><div class="sech"><h3>Growing and ongoing</h3></div>${open.map(e=>{const day=Math.round((parse(today)-parse(e.start))/864e5)+1,c=e.checks.includes(today);return `<div class="expi ${c?"done":""}"><span class="daybadge"><span><small>DAY</small>${day}</span></span><span style="min-width:0"><b style="font:600 16px var(--display)">${esc(e.title)}</b><br><span class="xs muted">${esc(e.topic)} · checked ${e.checks.length} times · <button class="link xs" data-act="close" data-e="${e.id}">finish</button></span></span><button class="ck" data-act="check" data-e="${e.id}" aria-label="Checked today: ${esc(e.title)}">${icon("check")}</button></div>`}).join("")||`<p class="note">Seeds, crystals, moon diaries and projects appear here with a daily check until you finish them.</p>`}<div class="row" style="flex-wrap:nowrap"><input class="inp" id="newExp" placeholder="Add your own experiment" maxlength="80"><button class="btn sm" data-act="addexp">Add</button></div></section>`;
+function viewToday(){const items=dayPlan(today),real=items.filter(i=>i.kind!=="brk"),dn=real.filter(i=>i.done).length,f=focusOf(items,today),pct=real.length?dn/real.length*100:0;
+  const lessons=real.filter(i=>i.kind==="lesson"),lessonsDone=lessons.length>0&&lessons.every(i=>i.done),left=real.filter(i=>!i.done&&i!==f),doneL=real.filter(i=>i.done);
+  let h=`<section class="greet small"><div><span class="eyebrow">${longDate()}</span><h1>${greetWord()}${pname()?", "+esc(pname()):""}!</h1><p>${real.length?(f?`${real.length-dn} thing${real.length-dn===1?"":"s"} left today`:"All done for today"):"Nothing planned today"}</p></div>${garden(items,f)}<div class="track" style="margin:0 4px"><span style="width:${pct}%"></span>${kidBlob("rider","happy",`style="left:${Math.max(4,pct)}%"`)}</div></section>`;
+  if(S.setup&&!S.parent?.saved&&!S.parent?.name)h+=`<button class="nudge" data-act="parent">${youBlob("","happy",'width="36" height="36"')}<span>Tell us your name and wake-up time</span>${icon("next")}</button>`;
+  if(f)h+=nowCard(f);
+  if(lessonsDone||!real.length)h+=`<section class="donecard">${blob("var(--sun)",4,"happy","mascot bob")}<h2>${lessons.length?"Lessons done! Keep going?":"Want to start something?"}</h2>${offerList()}</section>`;
+  if(left.length)h+=`<section class="sec"><div class="sech"><h3>Later today</h3><button class="link" data-act="quick">+ Add</button></div><div class="tt compact">${left.map(i=>tRow(i,today,null)).join("")}</div></section>`;
+  if(doneL.length)h+=`<section class="sec"><button class="link" data-act="showdone" style="justify-self:start">${ui.showDone?"Hide":"Show"} ${doneL.length} done</button>${ui.showDone?`<div class="tt compact">${doneL.map(i=>tRow(i,today,null)).join("")}</div>`:""}</section>`;
+  h+=`<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
   return h}
 /* ---------- lesson player ---------- */
 function findItem(id){return dayPlan(today).find(i=>i.id===id)}
@@ -1210,16 +1290,10 @@ function viewLibrary(){const t=ui.lt||"topics",inv=S.inv||[];
 
 /* ---------- Journey ---------- */
 const ring=(p,col)=>`<svg class="ring" viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" fill="none" stroke="var(--sunk)" stroke-width="5"/><circle cx="22" cy="22" r="18" fill="none" stroke="${col}" stroke-width="5" stroke-linecap="round" stroke-dasharray="${113*p} 113" transform="rotate(-90 22 22)"/><text x="22" y="26" text-anchor="middle" font-family="Fredoka,sans-serif" font-size="10" font-weight="600" fill="var(--ink)">${Math.round(p*100)}%</text></svg>`;
-function viewJourney(){const kid=esc(S.child||"Your child");
-  let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("","happy",'width="54" height="54"')}</div><div class="stack3">${S.subjects.map(s=>{const x=subjStats(s);return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]} · Level ${S.levels[s]}</span><span class="big num">${Math.round(x.pct*100)}%</span><span class="xs" style="font-weight:800">${x.completed} of ${x.us.length} done${x.learning?` · ${x.learning} in progress`:""}<br>${x.sessions} of ${x.total} lesson days</span>${sblob(s,"happy")}</button>`}).join("")}</div><p class="xs muted">Tap a subject for everything: what's done, how well, the path, and progress against the board.</p></section>`;
-  const tasks=Object.values(S.tasks).reduce((a,t)=>a+Object.keys(t).length,0),gd=Object.values(S.games).filter(g=>g.g?.length||Object.keys(g.tf||{}).length||g.odd).length,hrs=S.log.reduce((a,l)=>a+hpdOf(l.subj),0);
-  h+=`<section class="sec"><div class="stack3">${[[S.log.length,"lessons","var(--sun)"],[fh(hrs),"hours learned","var(--pist)"],[tasks,"tasks done","var(--gum)"],[gd,"game days","var(--sky)"]].map(([n,l,c],i)=>`<div class="scard" style="--c:${c};min-height:104px"><span class="big num">${n}</span><span class="sm" style="font-weight:800">${l}</span>${blob("rgba(255,255,255,.6)",60+i,"happy")}</div>`).join("")}</div></section>`;
-  const Qs=quotes().slice(-3).reverse(),W=workOf().slice(-6).reverse();
-  if(Qs.length||W.length)h+=`<section class="sec"><div class="sech"><h3>Highlights</h3></div>${Qs.map(q=>`<div class="quote ${SC(q.u.subj)}"><span class="eyebrow">${esc(q.q||"")}</span><p>“${esc(q.a)}”</p><span class="xs muted">${esc(q.u.title)}</span></div>`).join("")}${thumbs(W)}</section>`;
-  const bs=boardsOn();if(bs.length)h+=`<section class="sec"><div class="sech"><h3>Against the board</h3><span class="xs muted">school year from ${fmt(AY0())}</span></div>${bs.map(b=>{const R=S.subjects.map(s=>({s,r:boardRows(s,b)})).filter(x=>x.r);if(!R.length)return "";return `<div class="card"><b style="font:600 17px var(--display)">${BOARDS[b]}</b>${R.map(({s,r})=>`<div class="col" style="gap:4px"><div class="sech"><span class="sm" style="font-weight:800">${SUBJ[s]}</span><span class="xs ${r.behind.length?"":"muted"}" style="${r.behind.length?"color:var(--bad);font-weight:800":""}">${r.behind.length?`${r.behind.length} behind`:r.done.length>=r.exp?"On track":""} · ${r.done.length} of ${r.us.length}</span></div><div class="bar ${SC(s)}"><span style="width:${r.done.length/r.us.length*100}%;background:var(--c)"></span></div></div>`).join("")}</div>`}).join("")}</section>`;
-  const beyond=S.log.filter(l=>l.key.startsWith("dk|")||l.kind==="free"),bk=[...new Set(beyond.map(l=>l.title))];
-  h+=`<section class="sec"><div class="sech"><h3>Beyond the board</h3></div><div class="card">${bk.length?`<div class="row">${bk.map(t=>`<span class="chip">${esc(t)}</span>`).join("")}</div>`:`<p class="sm muted">DeepKids Plus topics and things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter(e=>e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
-  h+=`<section class="sec"><div class="sech"><h3>Learning diary</h3></div><div class="card diary">${S.log.slice(0,20).map(l=>`<div class="dline ${SC(l.subj)}">${sblob(l.subj,"happy","",'width="34" height="34"')}<span><b style="font:600 16px var(--display)">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj]||""}${l.kind==="free"?" · explored freely":l.kind==="more"?" · extra lesson":""}</span></span></div>`).join("")||`<p class="sm muted">Finished lessons appear here.</p>`}</div></section>`;
+function viewJourney(){const kid=esc(S.child||"Your child"),Qn=quotes().length,W=workOf().length,bs=boardsOn();
+  let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("","happy",'width="54" height="54"')}</div><div class="stack3">${S.subjects.map(s=>{const x=subjStats(s);return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${Math.round(x.pct*100)}%</span><span class="xs" style="font-weight:800">${x.completed} of ${x.us.length} chapters${x.learning?` · ${x.learning} in progress`:""}</span>${sblob(s,"happy")}</button>`}).join("")}</div></section>`;
+  const rows=[["high","Highlights",Qn||W?`${Qn} answers in ${kid}'s words · ${W} photos`:"Answers and photos of work",blob("var(--sun)",4,"wow","",'width="40" height="40"')],...(bs.length?[["board","Against the board","What's done and what's due",blob("var(--sky)",13,"calm","",'width="40" height="40"')]]:[]),["beyond","Beyond the board","Plus topics and free exploring",blob("var(--gum)",7,"happy","",'width="40" height="40"')],["diary","Learning diary",S.log.length+" lessons so far",blob("var(--pist)",9,"happy","",'width="40" height="40"')],["numbers","Numbers","Lessons, hours, tasks, games",blob("var(--tang)",11,"happy","",'width="40" height="40"')]];
+  h+=`<section class="sec">${rows.map(([k,t,s,b])=>`<button class="menurow" data-act="jrsheet" data-p="${k}">${b}<span><b>${t}</b><br><span class="xs muted">${s}</span></span>${icon("next")}</button>`).join("")}</section>`;
   return h}
 /* ---------- onboarding ---------- */
 function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD,mode:S.mode||(S.plus?"booksplus":"books"),exam:!!S.exam}))};render()}
@@ -1239,7 +1313,7 @@ const sheet=document.getElementById("sheet");
 function openSheet(o){if(ui.sheet?.mode==="player"&&o.mode!=="player")ui.back=ui.sheet;else ui.back=null;ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true)}
 function renderSheet(top){if(!ui.sheet)return;const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
-  const V={learn:learnView,player:playerView,chapter:chapterView,ws:wsView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
+  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   document.getElementById("sheetClose").innerHTML=ui.back?icon("back"):icon("close");document.getElementById("sheetClose").setAttribute("aria-label",ui.back?"Back to the lesson":"Close");
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
@@ -1285,6 +1359,11 @@ function onAct(e){
    case "skip":{S.skips[today+"|"+b.dataset.s]=true;sfx("flip");toast("Moved to the next lesson day");commit();break}
    case "swap":{sfx("flip");openSheet({mode:"swap",s:b.dataset.s});break}
    case "pin":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};sfx("ok");toast("That's up next");sheet.close();commit();break}
+   case "nowmore":{const k2="now|"+b.dataset.id;ui.open[k2]=!ui.open[k2];sfx("tap");render();break}
+   case "showdone":{ui.showDone=!ui.showDone;sfx("tap");render();break}
+   case "moresheet":{sfx("flip");openSheet({mode:"more"});break}
+   case "plsheet":{sfx("flip");openSheet({mode:"pl",p:b.dataset.p});break}
+   case "jrsheet":{sfx("flip");openSheet({mode:"jr",p:b.dataset.p});break}
    case "daytype":{S.dayType={...(S.dayType||{}),[today]:b.dataset.t};sfx("tick");toast(b.dataset.t==="busy"?"Busy day: shorter lessons":"Full day");commit();break}
    case "learn":{sfx("flip");openSheet({mode:"learn"});break}
    case "ptype":{ui.ptype=b.dataset.t;sfx("tap");renderSheet();break}
@@ -1350,7 +1429,7 @@ function onAct(e){
    case "dwho":{const it=ui.dump.items[+b.dataset.i];if(it.type!=="have"){it.who={you:"kid",kid:"both",both:"you"}[it.who]||"you";sfx("tap");render()}break}
    case "dadd":{addParsed();break}
    case "dclear":{ui.dump={};render();break}
-   case "askq":{const v=b.dataset.a;if(v==="parent")return openSheet({mode:"parent"});const ta=document.getElementById("dumpText");if(ta){ta.value=(ta.value?ta.value+"\n":"")+v.slice(4);ta.focus();ta.scrollIntoView({behavior:"smooth",block:"center"})}break}
+   case "askq":{const v=b.dataset.a;if(v==="parent")return openSheet({mode:"parent"});if(sheet.open)sheet.close();const ta=document.getElementById("dumpText");if(ta){ta.value=(ta.value?ta.value+"\n":"")+v.slice(4);ta.focus();ta.scrollIntoView({behavior:"smooth",block:"center"})}break}
    case "jsub":{sfx("flip");openSheet({mode:"jsub",s:b.dataset.s});break}
    case "jopen":{ui.jopen=ui.jopen===k?null:k;sfx("tap");renderSheet();break}
    case "lt":{ui.lt=b.dataset.t;sfx("tap");render();break}
@@ -1389,7 +1468,7 @@ function onAct(e){
 document.getElementById("main").addEventListener("click",onAct);
 document.getElementById("sheetBody").addEventListener("click",onAct);
 document.addEventListener("input",e=>{const t=e.target;if(!t.dataset.ans)return;const [k,id,sub]=t.dataset.ans.split("|");if(sub===undefined)setA(k,id,t.value);else if(sub.includes(".")){const v={...(A(k,id)||{})};v[sub]=t.value;setA(k,id,v)}else{const v=[...(A(k,id)||[])];v[+sub]=t.value;setA(k,id,v)}S.updatedAt=Date.now();save()});
-document.getElementById("main").addEventListener("change",e=>{const t=e.target;
+document.addEventListener("change",e=>{const t=e.target;
   if(t.dataset.dayset){S.day={...D(),[t.dataset.dayset]:t.type==="time"?t.value:+t.value};sfx("tap");commit();return}
   if(t.matches("select[data-hpd]")){const s=t.dataset.hpd,v=+t.value;sfx("tap");if(ob)ob.d.hpd={...(ob.d.hpd||DEF_HPD),[s]:v};else{S.hpd={...(S.hpd||DEF_HPD),[s]:v};commit()}return}
   if(ob&&t.matches("#obPlus")){ob.d.plus=t.checked;sfx("tap");return}if(ob&&t.matches("select[data-s]")){ob.d.levels[t.dataset.s]=+t.value;sfx("tap")}});
