@@ -1,0 +1,677 @@
+{
+  "key": "ncert|sci|3|4",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 4,
+  "title": "Getting to Know Plants",
+  "source": "NCERT Our Wondrous World, Class 3, Chapter 4 (pages 47–61), Reprint 2026-27",
+  "summary": "Gopu, Simmi and Raj notice the plants on their walk to school and sort them into trees, shrubs, herbs, grasses, climbers and creepers, mostly by looking at the stem. Your child makes friends with one plant, studies leaves by sight, touch and smell, learns the parts of a plant and what each does, and finds out that our dals and grains are seeds of these very plants.",
+  "goals": [
+    "By the end your child can sort plants they see into trees, shrubs, herbs, grasses, climbers and creepers, and say which feature of the stem told them.",
+    "By the end your child can name and point to the root, stem, leaf, flower, fruit and seed of a real plant and say the job of each.",
+    "By the end your child can describe a leaf by its colour, shape, size, edge, veins, texture and smell, and tell net veins from parallel veins.",
+    "By the end your child can say which part of a plant we eat in common Indian foods (dal and grains are seeds, potato is a stem, carrot is a root, spinach is a leaf).",
+    "By the end your child can run a fair test on seeds (only one thing changed per cup) and explain what a seedling needs to grow.",
+    "By the end your child can explain that scientists still argue about some plant ideas, such as trees sharing food through fungi, and say what evidence would settle it."
+  ],
+  "words": [
+    ["tree", "a big plant with one thick, hard, woody stem called a trunk, with branches higher up"],
+    ["trunk", "the single thick woody stem of a tree"],
+    ["bark", "the hard outer covering of a tree trunk that protects it, like our skin"],
+    ["shrub", "a medium-sized bushy plant with several woody stems growing from close to the ground, like tulsi, rose and hibiscus"],
+    ["herb", "a small plant with a soft, green stem that never becomes woody, like mint, coriander and tomato"],
+    ["grass", "a kind of herb with long, thin, flat leaves and a hollow stem; rice, wheat, ragi, sugarcane and bamboo are grasses"],
+    ["climber", "a plant with a thin, bendy stem that grows upward by holding on to a wall, stick or another plant, like money plant and jasmine"],
+    ["creeper", "a plant with a thin, bendy stem that spreads along the ground, like pumpkin and watermelon"],
+    ["woody", "hard and stiff like wood; a woody stem does not bend or squash easily"],
+    ["root", "the part, usually under the ground, that holds the plant in place and takes in water and minerals from the soil"],
+    ["stem", "the part that holds the plant up and carries water up from the roots and food from the leaves to the rest of the plant"],
+    ["vein", "the thin lines in a leaf that carry water in and food out; net veins look like a fishing net (mango), parallel veins run side by side (grass, banana)"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "So many kinds of plants",
+      "goal": "Spark curiosity about the plants on our own street, meet Gopu, Simmi and Raj, learn what makes a tree a tree, and start our seed experiment.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Window or doorstep plant count",
+          "mins": 5,
+          "do": "Stand with your child at a window, balcony or the front door. Ask: 'How many different plants can you see from here? Count them on your fingers.' Then ask: 'Which is the tallest? Which is the tiniest? Is any plant growing in a crack in the wall?' Good answers name or describe them: 'the big neem near the gate, the tulsi in the pot, the grass near the drain'. If they say 'just trees', point to a weed or grass blade and ask, 'Is this a plant too?' (Yes, it is.)"
+        },
+        {
+          "kind": "read",
+          "title": "The walk to school (pages 47–48)",
+          "mins": 8,
+          "do": "Read pages 47 and 48 aloud together, the story where Gopu, Simmi and Raj walk to school and talk about Raj's special jamun tree. Stop after Raj's line about the white flowers and ask: 'What colours did the jamun fruit turn, one after another?' (Green, then red, then purple.) After Simmi's line about cool shade, ask: 'Why is it cooler under a tree?' (The leaves block the sunlight.) Then read the box on page 48 aloud: trees have a big trunk of wood, many branches and roots that go deep into the soil."
+        },
+        {
+          "kind": "talk",
+          "title": "Tree picture names (pages 48–49)",
+          "mins": 7,
+          "do": "Look at the tree pictures on page 48: mango, khejri, coconut, banyan, amaltas, peepal, jackfruit, chinar. Do the task at the top of page 49: ask your child to say which they recognise and where they have seen it (temple, park, school road, a relative's village). Tell them a little about each: khejri grows in the Rajasthan desert, amaltas has hanging yellow flowers in summer, chinar grows in Kashmir and its leaves turn red in autumn, banyan sends down roots from its branches. Ask: 'What do all these have in common?' Listen for: one thick woody trunk, tall, branches high up."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the four-cup seed test",
+          "mins": 15,
+          "do": "Do Experiment e1 together. Line four small cups or katoris with cotton or tissue and put 5 dry moong seeds in each. Label them with your child: 'Water + light', 'No water', 'Dark' and 'Cold'. Wet the cotton in cups 1, 3 and 4 (not too soggy); keep cup 2 dry. Put cup 1 on a sunny windowsill, cup 3 inside a cupboard or under an upturned steel dabba, cup 4 in the fridge, cup 2 next to cup 1. Before you finish, ask your child to predict which cups will sprout and why, and write their guesses on a sheet stuck to the fridge. Ask: 'Why do we use the same seeds and the same number in every cup?' (So that only one thing is different, which makes it a fair test.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Tree of the day",
+          "mins": 5,
+          "do": "Ask your child to choose one tree they pass often (on the way to the market or the park) and describe it from memory: size, trunk, leaves, any flowers or fruit. Tell them they will visit it on Day 5 and may choose it as their 'plant friend'. End by asking: 'Raj had a special tree. If you had one, which would it be and why?' Write their answer in their notebook."
+        }
+      ],
+      "need": ["Textbook pages 47–49", "20 dry whole moong seeds", "4 small cups or katoris", "cotton wool or tissue", "a steel dabba or cupboard space", "paper and pencil for labels"],
+      "prep": [{"task": "Find 20 whole (not split) moong seeds and 4 small cups; clear a small space on a sunny windowsill and in the fridge", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "Shrubs and the dal in our kitchen",
+      "goal": "Learn what a shrub is, discover that some dals are seeds of shrubs, and start two growing projects that we will check over the next week.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the seed cups",
+          "mins": 3,
+          "do": "Look at the four moong cups from Experiment e1. Ask: 'Has anything changed? Are any seeds fatter, or has the skin split?' Seeds in the wet cups may have swollen and a tiny white tip (the first root) may show. Have your child draw what they see in each cup, with today's date. Add a few drops of water to cups 1, 3 and 4 if the cotton is drying.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Shrubs (pages 49–50)",
+          "mins": 8,
+          "do": "Read the 'Shrubs' part on page 49 aloud, where Gopu sees a plant with red flowers and Simmi says their tulsi is a shrub. Read the box: shrubs are medium-sized plants with several woody stems and branches growing close to the ground. Look at the pictures of hibiscus, rose, tulsi and curry leaf. Ask: 'How is a shrub different from a tree?' Good answer: 'A tree has one big trunk; a shrub has many woody stems starting near the ground, and it is shorter.' Then read the top of page 50 about toor, masoor, moong and urad, and answer the page 50 questions aloud, including the name of each shrub in your home language (for example tulsi is 'holy basil', curry leaf is 'kadi patta' in Hindi or 'karuveppilai' in Tamil)."
+        },
+        {
+          "kind": "do",
+          "title": "Dal detectives",
+          "mins": 7,
+          "do": "Put a spoonful each of toor, masoor, moong and urad dal (and whole moong if you have it) on four plates. Ask your child to match each plate to the pictures on page 50 and say its name. Show that split dal is a seed broken into two halves: put a whole moong next to a split moong and ask, 'How many halves make one seed?' (Two.) Tell them honestly: toor (arhar) really is a woody shrub that can grow taller than Papa. Moong, urad and masoor plants are small and soft-stemmed, more like herbs. Say, 'Let's watch our moong in the cups and decide for ourselves later.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the light-turning test",
+          "mins": 10,
+          "do": "Set up Experiment e4. Take a small potted plant (or a pot of moong or methi seedlings if you have one) and put it on a windowsill where light comes from one side only. Your child sticks a small paper flag on the pot rim facing the window and draws how the leaves and stem point today. Ask them to predict: 'In four days, will the plant lean towards the window, away from it, or stay straight?' Write the prediction down.",
+          "ref": "e4"
+        },
+        {
+          "kind": "act",
+          "title": "Sow the kitchen-garden pot",
+          "mins": 10,
+          "do": "Start Activity a4. Fill a pot or a cut plastic bottle (with holes punched in the bottom) with soil. Your child sprinkles a tablespoon of methi seeds evenly, covers them with a thin layer of soil, and waters gently with a spoon or a bottle cap with holes. Stick an ice-cream stick in the pot as a ruler and mark centimetres on it. Make a growth chart page: Day, Height in cm, What I see. Explain: 'Methi leaves are what we eat; this plant is a herb. We will cook it in about four weeks.'",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Shrub or tree?",
+          "mins": 2,
+          "do": "Quick quiz aloud: 'Rose? (shrub) Mango? (tree) Hibiscus or gudhal? (shrub) Neem? (tree) Curry leaf? (shrub, though old ones can grow into small trees).' Ask your child to give the reason each time: 'one trunk' or 'many woody stems from the ground'."
+        }
+      ],
+      "need": ["Textbook pages 49–50", "a spoon each of toor, masoor, moong, urad dal and a few whole moong", "4 small plates", "a small potted plant", "a pot or cut bottle, soil, 1 tablespoon methi seeds", "an ice-cream stick and marker", "paper for a small flag"],
+      "prep": [{"task": "Get soil and a pot or bottle for methi; soak nothing", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Herbs, grasses and the grains we eat",
+      "goal": "Learn that herbs have soft green stems, that grasses are herbs with thin flat leaves and hollow stems, and that our rice, wheat and millets are seeds of grasses.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed cups check-in",
+          "mins": 3,
+          "do": "Check Experiment e1. In cup 1 (water + light) the moong should now have white roots and perhaps a hooked shoot. Ask: 'Which cups have sprouted? Which haven't?' Your child draws all four and writes 'sprouted' or 'not yet' under each. Ask: 'Has the dark cup sprouted too? Is that what you guessed?' (Often it has, because seeds use food stored inside them to start, and do not need light to sprout.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Herbs and grasses (pages 50–52)",
+          "mins": 8,
+          "do": "Read from the bottom of page 50 to the top of page 52: Raj's mint and tomato plants, Gopu's grandmother's rule about tender stems, and Simmi's grasses. Read the box on page 51 aloud: herbs have soft stems that do not become woody; grasses are a type of herb with thin flat leaves and hollow stems. Look at the pictures of mint, tomato, coriander and mustard. Ask: 'Why is a tomato plant a herb and not a shrub, even though it can be quite big?' Good answer: 'Its stem stays soft and green; it never turns to wood.' Then read page 52: paddy, wheat, bajra, ragi and jowar are seeds of large grasses, and sugarcane and bamboo are tall grasses."
+        },
+        {
+          "kind": "do",
+          "title": "Hollow stem and grain hunt",
+          "mins": 10,
+          "do": "Go to the nearest patch of grass (or use a bunch of coriander and a stalk of lemongrass or spring onion from the kitchen). Pull one grass stalk and break it; show your child the hollow middle, like a tiny pipe. Then bring out small bowls of rice, wheat, ragi, bajra or jowar, whatever you have, and ask your child to name each and say: 'This is the seed of a ____ grass.' Show sugarcane if you have it, or a piece of bamboo (an old broom handle or agarbatti stick): 'These are grasses too.' Ask: 'Which seeds did we eat today?' (If you ate roti, rice or dosa, you ate grass seeds!)"
+        },
+        {
+          "kind": "think",
+          "title": "Janaki Ammal and the sweeter sugarcane",
+          "mins": 9,
+          "do": "Tell the story in Voice v2 in your own words: Janaki Ammal from Kerala, one of India's first women botanists, crossed sugarcane with wild grasses at Coimbatore to make sugarcane that grew well in India. Point to the sugarcane picture on page 52 and the fact box on page 59 ('sugar is produced from the sugarcane stem'). Ask: 'Which part of the sugarcane holds the sugar?' (The stem.) Then ask the voice question and let your child answer fully before you share your view.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Herbs I have seen",
+          "mins": 10,
+          "do": "Do the task at the bottom of page 52: your child writes the names of 4 herbs they have seen and where (for example: 'coriander - in the sabzi bag', 'tulsi - no, that's a shrub!', 'mint - in Nani's pot', 'grass - in the park'). Then sort aloud the plants from Days 1–3 into three columns in the notebook: Tree, Shrub, Herb/Grass. If they put tulsi under herbs, ask them to recall page 49 (Simmi called it a shrub because its older stems turn woody)."
+        }
+      ],
+      "need": ["Textbook pages 50–52", "a grass stalk or coriander/spring onion stalk", "small bowls of rice, wheat and any millet (ragi, bajra, jowar)", "sugarcane or a bamboo stick if available", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Climbers, creepers and a plant hunt",
+      "goal": "Learn that climbers and creepers have thin flexible stems, tell them apart, and go on the book's plant-spotting hunt.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed cups and light-turning check",
+          "mins": 4,
+          "do": "Check Experiment e1 cups and draw them. Then check the window plant from Experiment e4: has the stem or the leaves started to lean towards the window? Your child compares with Day 2's drawing and marks a small arrow in the notebook showing which way it leans. Do not turn the pot yet.",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Climbers and creepers (pages 52–54)",
+          "mins": 8,
+          "do": "Read from the bottom of page 52 to page 53: Raj sees a vine winding up a tree, Gopu talks about George's money plant climbing the wall, and Simmi explains that a money plant cannot stand up by itself. Read the box on page 53: climbers grow by climbing other plants for support; creepers grow by creeping along the ground; some climbers even take food from the plant they climb. Look at the pictures: money plant, jasmine and bottle gourd (climbers), watermelon and pumpkin (creepers). Ask: 'Why can't a money plant stand up by itself like a tulsi?' (Its stem is thin and bendy, not woody.) Tell your child that the plant that takes food from its host is real: amarbel (dodder, Cuscuta), the yellow threads you sometimes see draped over hedges, has no green leaves and sucks food from the plant it twines around."
+        },
+        {
+          "kind": "talk",
+          "title": "Guess and name (page 54)",
+          "mins": 6,
+          "do": "Do the 'Guess' box on page 54: is the snake gourd a creeper or a climber? Good answer: 'It is a climber when it has a pandal or a fence to hold, but it would creep if left on the ground.' Read the note to the teacher on page 54 aloud to your child: some plants can be either, depending on support. Then do the naming task: marigold (banthi in Telugu, genda in Hindi), neem (bevu in Kannada), ber (boroi in Manipuri). Your child writes its home-language name and whether it is a tree, shrub, climber or creeper (marigold: herb; neem: tree; ber: small tree or large shrub, both answers fine if they give a reason)."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 1: How many kinds can you spot?",
+          "mins": 18,
+          "do": "Do Activity 1 on page 54 in your building compound, park or lane. Stand next to one tree or shrub. Your child looks as far as they can see, and then down near their feet. In the notebook, make six columns: Tree, Shrub, Herb, Grass, Climber, Creeper, and tally every kind they spot. Help by asking about the stem each time: 'Is it woody or soft? One trunk or many stems? Is it holding on to something? Is it lying on the ground?' A good hunt finds at least one of each; climbers are often on gates and walls (money plant, bougainvillea, which is a woody climber), creepers in vacant plots (grass-like doob, pumpkin). Ask at the end: 'Which column has the most? Why do you think so?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Which part told you?",
+          "mins": 4,
+          "do": "Ask Question B2 from page 60 now, while the hunt is fresh: 'Which part of the plant helped you decide its type?' Good answer: 'The stem: how thick it is, whether it is woody or soft, and whether it stands, climbs or creeps.' Write it in the notebook in your child's words."
+        }
+      ],
+      "need": ["Textbook pages 52–54, 60", "notebook and pencil", "a place outdoors with mixed plants"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Make friends with a plant",
+      "goal": "Choose and name a plant friend, record its leaves, flowers and fruits in the book's table, and check what we know about plant types.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed cups check-in",
+          "mins": 3,
+          "do": "Check Experiment e1. Ask your child to measure the longest sprout in cup 1 and in cup 3 (dark) with a ruler. Ask: 'What colour are the leaves in the dark cup?' (Pale yellow or white, and the stems are long and thin.) 'And in the light cup?' (Green.) Write both colours down; we will explain them tomorrow.",
+          "ref": "e1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activities 2 and 3: My plant friend (pages 55–56)",
+          "mins": 20,
+          "do": "Read page 55 aloud. Go to the tree chosen on Day 1 (or a shrub with a thick stem near home). Your child gives it a name, like a pet ('Hara Bhai', 'Jamun Didi'). Start Activity a1. Fill in the time, date, month and weather at the bottom of page 55, then the table on page 56: for leaves, flowers and fruits write many / a few / none, colour, shape (draw it) and any other observation. Then measure round the trunk at the height of your child's chest using string, and mark the string with a knot. Ask the page 56 questions: 'Do you see new leaves? Are new leaves a different colour from old ones?' (New leaves of mango and peepal are often reddish or light green.) 'Are old brown leaves on the ground?' Give your plant friend a mug of water if the soil is dry.",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Kinds and parts",
+          "mins": 15,
+          "do": "Do Worksheet ws1 (core) sections A and B now; keep section C for Day 7 after the parts-of-a-plant lesson. Read each item aloud if needed. For the sort item, let your child explain any plant they are unsure about by describing its stem. Mark answers together; for each wrong answer, go back to the page in the book that shows it (trees p48, shrubs p49, herbs and grasses p51, climbers and creepers p53).",
+          "ref": "ws1"
+        },
+        {
+          "kind": "act",
+          "title": "Methi pot check",
+          "mins": 2,
+          "do": "Look at the methi pot from Activity a4. Small hooked shoots may be pushing up. Your child writes today's height (0 cm if nothing yet) on the growth chart and waters it with a few spoons of water.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 55–56", "a ruler", "a long string", "a mug of water", "printed or on-screen worksheet ws1", "notebook and pencil"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Leaves by eye, finger and nose",
+      "goal": "Observe leaves closely by shape, edge, veins, texture and smell, finish the seed test, and test how far away our nose can find a fruit.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed test results",
+          "mins": 7,
+          "do": "Finish Experiment e1. Lay out the four cups. Your child fills in a results table: cup, sprouted yes/no, colour, length of longest shoot. Typical results: water + light sprouts and turns green; no water does not sprout; dark sprouts but grows tall, thin and yellow; cold sprouts slowly or not at all. Ask: 'What did a seed need to START growing?' (Water and warmth.) 'What did the seedling need to turn GREEN and strong?' (Light.) Read the 'why' of e1 to explain: green leaves need light to make chlorophyll and food. Plant the healthy sprouts in the methi pot or a cup of soil to keep watching.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Leaves and smells (pages 56–57)",
+          "mins": 5,
+          "do": "Read the line on page 56, 'Leaves of different plants have different colours, shapes and sizes', and look at the peepal (heart with a long tail), mango (long and pointed), lotus (round, like a plate) and khejri (tiny leaflets) pictures. Then read page 57: Raj and Simmi on the smell of tulsi, coriander, curry leaves, mint, lemongrass and mango leaves, and Raj's brother, who cannot see but can smell a mango or jackfruit nearby. Ask: 'How does Raj's brother know which fruit is near?' (By its smell.)"
+        },
+        {
+          "kind": "game",
+          "title": "Leaf Detective Bingo and Book Activity 4",
+          "mins": 13,
+          "do": "Draw a 3×3 bingo grid with: heart-shaped, long and pointed, round, toothed edge, smooth edge, net veins, parallel veins, compound (many small leaflets on one stalk, like neem or curry leaf), and 'smells strong'. Walk around the house and compound collecting fallen leaves; your child marks a square only when holding a matching leaf. A full line wins: shout 'Leaf!'. Then do Activity 4 on page 57: pick 3 leaves and describe each to you aloud by colour, shape, size, texture (rough, smooth, waxy, hairy) and smell when rubbed. Show net veins (mango, hibiscus) against parallel veins (grass, banana, a maize husk). Ask the page 57 question: 'What statements can we make about leaves?' Good answers: 'Leaves are mostly green, but shapes differ a lot', 'Veins are either a net or parallel lines', 'Some leaves smell when crushed.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 5: How far can you smell a fruit?",
+          "mins": 10,
+          "do": "Do Experiment e3, based on Activity 5 on page 57. Blindfold your child with a dupatta. Start 3 big steps away holding a whole guava or orange, and move one step closer each time until they can name it. Mark the distance. Then repeat with the same fruit cut open, and with a second fruit (banana, mango or a slice of pineapple). Ask: 'Was the cut fruit easier to smell? Which fruit could you smell from farthest?' Explain: the smell is tiny invisible bits of the fruit floating in the air; cutting opens the fruit so many more of them escape.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Can a plant learn? (Monica Gagliano)",
+          "mins": 5,
+          "do": "If you can, show your child a chhui-mui (touch-me-not, Mimosa pudica) plant; many grow wild near parks and empty plots. Touch a leaf: the leaflets fold. Tell the story in Voice v4: a scientist dropped these plants again and again and they stopped folding. Ask the voice question and listen. A thoughtful answer: 'Maybe they just got tired; you would have to check that they still fold when shaken some other way.'",
+          "ref": "v4"
+        }
+      ],
+      "need": ["the 4 seed cups and a ruler", "fallen leaves (8–10 kinds)", "a dupatta for a blindfold", "2 fruits, for example guava and banana, and a knife (adult use)", "a touch-me-not plant if one grows nearby"],
+      "prep": [{"task": "Buy or keep aside 2 fruits for the smell test", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Parts of a plant and their jobs",
+      "goal": "Name the parts of a plant on a real plant, explain what each does, see the stem carry water, and hear J.C. Bose's story about plants responding.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Parts of a plant (page 58)",
+          "mins": 5,
+          "do": "Read page 58 aloud and look at the tomato plant picture. Your child points to and says each label: flower, leaf, stem, fruit, roots, seed. Ask: 'Where are the seeds?' (Inside the tomato fruit.) 'Which part is under the ground?' (Roots.) Ask Discuss questions A2 and A3 on page 60: 'How does the root help a plant grow?' (It holds the plant firmly and takes in water and minerals from the soil.) 'What is the role of the stem?' (It holds the plant up towards the light and carries water up and food to every part.)"
+        },
+        {
+          "kind": "do",
+          "title": "Pull up a whole weed",
+          "mins": 7,
+          "do": "Gently pull up a small weed or a moong seedling from the cups and wash the soil off its roots in a bowl of water. Lay it on white paper. Your child names each part they can see. Show the two root types: a single thick main root with thin side roots (a taproot, like a carrot or a mustard plant) or a bunch of thin roots all the same size (fibrous roots, like grass or rice). Ask: 'Which kind does your weed have?' Then ask: 'Does every plant have flowers?' (No; ferns and mosses never flower and make spores instead.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the coloured-water stem test",
+          "mins": 8,
+          "do": "Set up Experiment e2. Put a white flower (white chrysanthemum, sevanthi, or white rose) or a fresh celery/coriander bunch in a glass with water and 10 drops of food colour. Before you finish, ask your child to predict where the colour will go. You will check at bedtime (about 6 hours) and again tomorrow morning. If you can, split the stem of a second flower halfway up and put each half in a different colour.",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose: plants respond",
+          "mins": 7,
+          "do": "Tell the story in Voice v1. Then look at the window plant from Experiment e4: by now its stem should be bending towards the light. Ask: 'Your plant has no eyes. How did it know where the window was?' Then turn the pot so the plant leans away from the window and ask your child to predict what will happen over the next two days. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Which part do we eat?",
+          "mins": 13,
+          "do": "Do Worksheet ws2 (stretch). Bring a potato, carrot, onion or ginger, and a cauliflower floret if you have them, so your child can hold each one. For the potato, show the 'eyes': they are buds, and buds grow only on stems, which is why a potato is a stem and not a root. Also do section C of ws1 (the core labelling page) if time is left, or at bedtime.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 58 and 60", "a small weed or moong seedling", "a bowl of water and white paper", "a white flower or celery/coriander bunch, a glass, food colour", "a potato, carrot, ginger or onion", "worksheet ws2"],
+      "prep": [{"task": "Buy a white flower (or celery) and food colour", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Bark, tree cities and the wood-wide web",
+      "goal": "Make bark rubbings, see a tree as a home for many living things, check our stem and light experiments, and weigh a live scientific debate.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Coloured flower and window plant results",
+          "mins": 5,
+          "do": "Check Experiment e2: the petal tips or the celery leaves should now show the colour. Cut the stem across and show your child the coloured dots: these are the tiny tubes that carry water up. Your child draws the flower and the cut stem. Then check Experiment e4: the plant you turned yesterday should be starting to bend back towards the window. Ask: 'What does this tell us?' (The plant keeps sensing light and grows towards it.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 6: Get to know barks (page 59)",
+          "mins": 13,
+          "do": "Read Activity 6 on page 59 aloud. Do Activity a2: go to 3 different trees, including your plant friend. Your child touches and looks at each bark: smooth or rough, cracked into plates, peeling? Press a sheet of thin paper on the bark and rub a crayon sideways over it. Write the tree's name on the back. Also collect one fallen leaf from each tree for the leaf book. At home, shuffle the rubbings and see if your child (or a sibling) can guess which tree each came from. Answer the page 59 questions: 'Did you notice animals, birds or insects on the tree? What were they doing?' (Ants marching in a line, a squirrel, a lizard, lichen patches, a spider web.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Did you know? (page 59)",
+          "mins": 3,
+          "do": "Read the fact box on page 59: sugar comes from the sugarcane stem, bamboo is the tallest grass, and Rafflesia is the biggest flower, as big as an umbrella (it can be about a metre across). Ask: 'Which of these facts surprised you most?' and 'Which part of the plant is the sugar stored in?' (The stem.)"
+        },
+        {
+          "kind": "think",
+          "title": "Do trees share food underground?",
+          "mins": 7,
+          "do": "Ask: 'How many living things did you see on your tree today?' Count them together. Say: 'Under the ground there are even more: thin threads of fungi wrapped around the roots.' Tell the story of Voice v3 (Suzanne Simard and the 2023 critics). Make it clear that this is not settled: scientists are still arguing. Ask the voice question and let your child design an experiment in words.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing scientists' views. Your child can answer the write items aloud while you scribe, if writing slows them down. There is no single right answer for section C; praise reasons that use evidence ('because in my experiment...').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["the coloured-water flower and a knife (adult use)", "3 sheets of thin paper and wax crayons", "worksheet ws3", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Review the whole chapter, answer the book's reflection questions, make a leaf rangoli, check understanding, and have your child teach the chapter back to you.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "What if there were no plants? (page 60)",
+          "mins": 6,
+          "do": "Ask Discuss question A1 on page 60: 'What would happen if there were no plants?' Push for at least five answers, and for the reason behind each: no food (every dal, grain, vegetable and fruit comes from a plant, and animals that give milk eat plants too), no shade, no wood for furniture, no cotton clothes, no homes for birds and insects, no fresh air (leaves give out the oxygen we breathe). Then ask Write question B3: 'Describe your favourite plant and why it is your favourite.'"
+        },
+        {
+          "kind": "act",
+          "title": "Leaf rangoli (page 61)",
+          "mins": 10,
+          "do": "Do Activity a3, the 'Make a rangoli' task on page 61. Use the fallen leaves and flowers collected this week (never pluck living ones for this). Your child arranges them on the floor or a tray in a pattern, or makes an animal from the leaves (a peepal-leaf fish, a neem-leaflet caterpillar, a grass-blade tiger's whiskers, as in Arvind Gupta's 'Leaf Zoo'). While they work, ask them to name each leaf and say whether its veins are net or parallel. Take a photo.",
+          "ref": "a3"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, and let your child answer without the book. Tick the ones answered well. For any missed answer, open the page in the book and look at it together for one minute, then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 4 plant hunt and the Day 7 parts lesson next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is now the teacher and you (or a grandparent or sibling) are the student. They must teach you, in 5 minutes, using real things from the week: the 4 seed cups, the bark rubbings, the coloured flower and a leaf. They should cover: the six kinds of plants and how the stem tells you; the parts of a plant and their jobs; what a seed needs to grow. Ask them two 'student' questions such as 'Is a tomato plant a shrub?' and 'Why did your dark-cup moong go yellow?' End by planning the next step: keep watering the methi pot (Activity a4) and visit the plant friend once a week to fill a new row of the page 56 table."
+        },
+        {
+          "kind": "act",
+          "title": "Methi pot and plant friend",
+          "mins": 2,
+          "do": "Measure the methi seedlings from Activity a4 and add today's height to the growth chart. Put a reminder on the calendar for 4 weeks after sowing: 'Harvest methi and cook methi paratha or aloo methi together.'",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 60–61", "fallen leaves and flowers collected this week", "the seed cups, bark rubbings, coloured flower", "a phone to take a photo"],
+      "prep": [{"task": "Collect fallen leaves and flowers on a walk (or ask your child to)", "when": "2 days before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Kinds of plants and their parts",
+      "day": 5,
+      "sections": [
+        ["A. What kind of plant?", [
+          {"t": "sort", "p": "Sort these plants by type.", "items": ["Mango", "Banyan", "Tulsi", "Hibiscus", "Mint", "Coriander", "Wheat", "Bamboo", "Money plant", "Pumpkin", "Jasmine", "Watermelon"], "cats": ["Tree", "Shrub", "Herb", "Grass", "Climber", "Creeper"]},
+          {"t": "fill", "p": "A tree has one thick, woody stem called a ____.", "a": ["trunk"]},
+          {"t": "fill", "p": "Plants with soft, green stems that never become woody are called ____.", "a": ["herbs", "herb"]},
+          {"t": "mcq", "p": "Simmi says their tulsi plant is a shrub. Why?", "opts": ["It has one thick trunk", "It has several woody stems growing close to the ground", "It climbs up the wall", "It has a hollow stem"], "a": 1}
+        ]],
+        ["B. Food from plants", [
+          {"t": "mcq", "p": "Rice, wheat, ragi and jowar are the seeds of:", "opts": ["Trees", "Climbers", "Grasses", "Creepers"], "a": 2},
+          {"t": "fill", "p": "Toor, moong, masoor and urad dal are the ____ of plants.", "a": ["seeds", "seed"]},
+          {"t": "mcq", "p": "A money plant cannot stand up by itself because:", "opts": ["Its stem is thin and bendy", "It has no leaves", "Its roots are too long", "It is a tree"], "a": 0}
+        ]],
+        ["C. Parts and jobs", [
+          {"t": "draw", "p": "Draw a tomato plant like the one on page 58. Label: root, stem, leaf, flower, fruit, seed."},
+          {"t": "match", "p": "Match each part to its job.", "pairs": [["Root", "Holds the plant in the soil and takes in water"], ["Stem", "Holds the plant up and carries water up and food down"], ["Leaf", "Makes food using sunlight"], ["Flower", "Makes seeds"], ["Seed", "Grows into a new plant"]]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Which part do we eat? Leaves up close",
+      "day": 7,
+      "sections": [
+        ["A. Which part do we eat?", [
+          {"t": "sort", "p": "Sort these foods by the part of the plant we eat.", "items": ["Carrot", "Radish", "Potato", "Ginger", "Sugarcane", "Spinach (palak)", "Methi leaves", "Cauliflower", "Banana", "Mango", "Rice", "Moong"], "cats": ["Root", "Stem", "Leaf", "Flower", "Fruit", "Seed"]},
+          {"t": "mcq", "p": "A potato grows under the ground, but it is really a stem. What is the clue?", "opts": ["It is brown", "It has 'eyes' (buds) that sprout into new shoots", "It is round", "It is tasty"], "a": 1},
+          {"t": "mcq", "p": "Which one is the odd one out? Carrot, radish, beetroot, potato.", "opts": ["Carrot", "Radish", "Beetroot", "Potato"], "a": 3}
+        ]],
+        ["B. Leaf detective", [
+          {"t": "table", "p": "Collect five different leaves and fill in the table.", "cols": ["Plant", "Shape", "Edge (smooth / toothed)", "Veins (net / parallel)", "Smell when rubbed"], "rows": 5},
+          {"t": "match", "p": "Match the leaf to how its veins look.", "pairs": [["Mango", "Net veins"], ["Banana", "Parallel veins"], ["Grass", "Parallel veins"], ["Peepal", "Net veins"]]}
+        ]],
+        ["C. New plants, same rules", [
+          {"t": "mcq", "p": "Bougainvillea has a woody stem but it grows up a gate by leaning on it. It is best called a:", "opts": ["Herb", "Grass", "Climber", "Creeper"], "a": 2},
+          {"t": "write", "p": "A bottle gourd (lauki) plant has no pandal or fence to hold. What will it do, and what would you call it then?", "lines": 2},
+          {"t": "write", "p": "Our seeds sprouted in the dark cup but grew yellow. Write what this tells you about what a seedling needs.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Plant puzzles and scientists who disagree",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "mcq", "p": "Bamboo can grow taller than a house, yet it is called a grass. Why?", "opts": ["It is green", "Its stem is hollow with joints and its leaves are long and thin, like grass", "It grows in forests", "Pandas eat it"], "a": 1},
+          {"t": "write", "p": "Amarbel (dodder) has yellow threads and no green leaves, yet it stays alive wrapped around other plants. How does it get its food?", "lines": 2},
+          {"t": "fill", "p": "In a fair test, we change only ____ thing at a time.", "a": ["one", "1"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a tree's bark were peeled off all the way round the trunk? Think about the jobs of bark and stem. What would happen to the tree?", "lines": 3},
+          {"t": "write", "p": "What if the earth had no grasses at all? List what would be missing from your plate and from the animals' food.", "lines": 3},
+          {"t": "write", "p": "Your blindfolded friend smelled a cut mango from 5 steps away but a whole mango only from 1 step. Explain why.", "lines": 2}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Suzanne Simard says trees share food through fungus threads under the soil. Other scientists say the evidence is weaker than the stories. Write one experiment that could help decide who is right.", "lines": 4},
+          {"t": "mcq", "p": "Mimosa plants that were dropped many times stopped folding their leaves. Which check would best show they had not simply become too tired to fold?", "opts": ["Paint the leaves", "Shake them in a new way and see if they still fold", "Water them more", "Put them in a bigger pot"], "a": 1},
+          {"t": "write", "p": "J.C. Bose said plants respond to the world around them. Write two things you saw this week that support him.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "What do seeds need? The four-cup test",
+      "day": 1,
+      "question": "Does a moong seed need water, light and warmth to sprout and grow?",
+      "need": ["20 whole dry moong seeds", "4 small cups or katoris", "cotton wool or tissue", "water", "a sunny windowsill", "a cupboard or upturned dabba for darkness", "space in the fridge", "labels and a pencil"],
+      "steps": [
+        "Line each cup with cotton or tissue and place 5 moong seeds on top.",
+        "Label the cups: 1 'Water + light', 2 'No water', 3 'Dark', 4 'Cold'.",
+        "Wet the cotton in cups 1, 3 and 4 so it is damp but not flooded. Keep cup 2 dry.",
+        "Put cups 1 and 2 on a sunny windowsill, cup 3 in a dark cupboard or under an upturned dabba, and cup 4 in the fridge.",
+        "Every day, add a few drops of water to keep cups 1, 3 and 4 damp, and draw what you see in each cup with the date.",
+        "On Day 6, measure the longest shoot in each cup and note the colour of the leaves."
+      ],
+      "predict": "Ask your child to guess first: which cups will sprout? Will the dark cup's seedlings look the same as the light cup's? Write the guesses down and stick them on the fridge.",
+      "observe": "Record for each cup: sprouted or not, length of the longest shoot, and leaf colour. Usually: cup 1 sprouts and turns green; cup 2 stays a hard dry seed; cup 3 sprouts and grows long, thin and pale yellow; cup 4 sprouts very slowly or not at all.",
+      "why": "A dry seed is a resting baby plant with a packed lunch of stored food inside it (the two halves of the moong you see in split dal). Water wakes it up: the seed swells, the skin splits and the first root comes out. Warmth matters because the seed's living chemistry works very slowly in the cold. A seed does not need light to sprout, because it is living on its stored food. But once that food runs out, the seedling must make its own food in its leaves using sunlight. Without light it cannot make the green colour (chlorophyll), so it stays pale and stretches up tall and thin, as if searching for light.",
+      "safety": "Wash hands after handling the seeds. Do not eat seeds that have been sitting in water for several days.",
+      "time": "15 min to set up + 3 min check each day for 5 days"
+    },
+    {
+      "id": "e2",
+      "title": "The coloured-water flower",
+      "day": 7,
+      "question": "How does water travel from the root end of a stem up to the leaves and flowers?",
+      "need": ["a white flower (chrysanthemum, sevanthi or white rose) or a celery stalk with leaves", "a glass of water", "food colour (blue or red works best)", "a knife or scissors (adult use)"],
+      "steps": [
+        "Ask an adult to cut the bottom of the stem freshly at a slant.",
+        "Mix about 10 drops of food colour into half a glass of water.",
+        "Stand the flower or celery in the coloured water.",
+        "Check after about 6 hours and again the next morning. Draw the flower each time.",
+        "Next day, an adult cuts the stem across. Look at the cut end closely.",
+        "Bonus: split a second stem halfway up and stand each half in a different colour."
+      ],
+      "predict": "Ask your child to guess first: will the colour stay in the glass, colour just the stem, or reach the petals? How long will it take?",
+      "observe": "Look for coloured lines in the petals or celery leaves, starting at the edges and tips, and coloured dots on the cut end of the stem. With a split stem, half the flower turns one colour and half the other.",
+      "why": "A stem is full of very thin tubes (called xylem) that run from the roots to every leaf and petal, like tiny drinking straws. Water evaporates from the leaves and petals into the air, and this pulls more water up the tubes behind it, the way sucking on a straw pulls up juice. The food colour travels with the water, so it shows us the path. The coloured dots on the cut stem are the ends of these tubes. A split stem shows that each tube goes to its own part of the flower.",
+      "safety": "An adult should do all the cutting. Food colour can stain clothes and hands.",
+      "time": "8 min to set up + check after 6 hours and 24 hours"
+    },
+    {
+      "id": "e3",
+      "title": "How far can your nose find a fruit?",
+      "day": 6,
+      "question": "From how far can we recognise a fruit by smell alone, and is cut fruit easier to smell than whole fruit? (Book Activity 5, page 57)",
+      "need": ["a dupatta or cloth for a blindfold", "2 or 3 fruits, for example guava, banana, orange or mango", "a knife and plate (adult use)"],
+      "steps": [
+        "Blindfold your child. Stand 3 big steps away holding a whole fruit.",
+        "Move one step closer each time and ask, 'Can you smell it? What is it?'",
+        "Note the number of steps away at which they name it correctly.",
+        "Repeat with the same fruit cut open on a plate.",
+        "Repeat with a second fruit, whole and then cut.",
+        "Make a small table: fruit, whole (steps away), cut (steps away)."
+      ],
+      "predict": "Ask your child to guess first: which fruit will you smell from farthest away? Will cutting it make a difference?",
+      "observe": "Record the distance for each fruit, whole and cut. Most fruits are smelled from farther away when cut. Ripe guava, mango and jackfruit are usually easiest.",
+      "why": "Smell is made of tiny invisible bits of the fruit (molecules) that float off into the air and drift to our nose. A whole fruit's skin holds most of them in. Cutting it opens up the juicy inside, so far more escape and they reach the nose from farther away. Ripe fruits make strong smells on purpose: in nature the smell helps animals find the fruit, eat it and carry the seeds far away.",
+      "safety": "An adult should cut the fruit. Check for any fruit allergy before tasting.",
+      "time": "10 min"
+    },
+    {
+      "id": "e4",
+      "title": "Does a plant turn towards the light?",
+      "day": 2,
+      "question": "If light comes from one side only, which way will a plant grow?",
+      "need": ["a small potted plant or a pot of young seedlings", "a windowsill with light from one side", "a small paper flag and tape", "notebook for drawings"],
+      "steps": [
+        "Put the pot on the windowsill and tape a paper flag to the rim on the side facing the window.",
+        "Draw the plant from the side, showing which way the stem and leaves point.",
+        "Do not move or turn the pot for 4 or 5 days, but water it as usual.",
+        "Draw it again on Day 4 and on Day 7. Mark the direction of lean with an arrow.",
+        "On Day 7, turn the pot so the flag faces away from the window. Check again on Day 8."
+      ],
+      "predict": "Ask your child to guess first: will the plant lean towards the window, away from it, or stay straight? What will happen after you turn it around?",
+      "observe": "Look for the tip of the stem and the leaf faces bending towards the window. After turning, look for the stem curving back towards the light within a day or two. Seedlings bend fastest.",
+      "why": "The growing tip of a plant can sense where light comes from. It sends a growth chemical (auxin) to the shady side of the stem, so the shady side grows a little longer than the sunny side. A stem that grows longer on one side bends towards the other side, so it curves towards the light. Scientists call this phototropism. It helps leaves catch more sunlight to make food.",
+      "safety": "",
+      "time": "10 min to set up + 3 min checks on Days 4, 7 and 8"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Make friends with a plant (Book Activities 2 and 3, pages 55–56)",
+      "day": 5,
+      "mins": 20,
+      "need": ["a tree or thick-stemmed shrub near home", "notebook with the table from page 56 copied in", "a long string", "a ruler", "a mug of water"],
+      "steps": [
+        "Choose a tree or shrub you can visit often. Give it a name, like a pet.",
+        "Write the date, time, month and weather (page 55).",
+        "Fill in the page 56 table for leaves, flowers and fruits: many, a few or none; colour; shape (draw); any other observation.",
+        "Measure round the trunk at your chest height with string. Tie a knot at the length and keep the string in the notebook.",
+        "Look for new leaves, old fallen leaves, buds, flowers and fruits, and for animals using the plant.",
+        "Water it if the soil is dry. Visit once a week and add a new row; re-measure the trunk at the end of each season."
+      ],
+      "outcome": "A named plant friend, a dated observation table and a trunk-string that will show the tree growing over months. Like Saalumarada Thimmakka of Karnataka, who looked after the banyan trees she planted along a road as if they were her children, your child learns that caring for a plant means watching it closely over time."
+    },
+    {
+      "id": "a2",
+      "title": "Bark and leaf rubbing book (Book Activity 6, page 59)",
+      "day": 8,
+      "mins": 13,
+      "need": ["5–10 sheets of thin paper", "wax crayons with paper peeled off", "a stapler or thread", "fallen leaves"],
+      "steps": [
+        "Press a sheet of paper on a tree's bark and rub the side of a crayon over it until the pattern appears.",
+        "Write the tree's name on the back (in English and your home language), with where you found it.",
+        "Put a fallen leaf from the same tree under another sheet, veins facing up, and rub over it.",
+        "Do this for at least 3 trees today and add more on later walks, up to 10.",
+        "Shuffle the bark rubbings and play 'Guess the tree' with family members.",
+        "Staple or tie the pages into a small book with a cover: 'My Tree Book'."
+      ],
+      "outcome": "A home-made tree book of bark and leaf rubbings, named in two languages, that becomes a guessing game for the family."
+    },
+    {
+      "id": "a3",
+      "title": "Leaf rangoli and leaf zoo (page 61)",
+      "day": 9,
+      "mins": 10,
+      "need": ["fallen leaves, petals and flowers collected over the week", "a tray or a clean patch of floor", "a phone camera"],
+      "steps": [
+        "Sort the collected leaves and flowers by colour and shape.",
+        "Make a rangoli pattern: start with a flower in the centre and add rings of leaves outward.",
+        "Or make an animal: a peepal leaf for a fish, small neem leaflets for a caterpillar, grass blades for whiskers (ideas from Arvind Gupta's 'Leaf Zoo').",
+        "Name each leaf as you place it and say if its veins are net or parallel.",
+        "Photograph the rangoli. Afterwards put the leaves into a pot or garden bed to rot into soil."
+      ],
+      "outcome": "A photographed leaf rangoli or leaf animal, and a child who can name the leaves in it."
+    },
+    {
+      "id": "a4",
+      "title": "Kitchen-garden methi pot",
+      "day": 2,
+      "mins": 10,
+      "need": ["a pot or a cut plastic bottle with holes in the bottom", "soil", "1 tablespoon methi (fenugreek) seeds", "an ice-cream stick marked in centimetres", "a growth-chart page"],
+      "steps": [
+        "Fill the pot with soil to 2 cm below the rim.",
+        "Sprinkle the methi seeds evenly and cover with a thin layer of soil.",
+        "Water gently with a spoon so the seeds are not washed away; keep the soil damp, not soggy.",
+        "Push in the marked stick. Every two or three days, record the height of the tallest seedling.",
+        "After about 4 weeks, when the plants have many leaves, harvest by cutting above the soil.",
+        "Cook methi paratha or aloo methi together, and record the harvest on the growth chart."
+      ],
+      "outcome": "A pot of methi, a growth chart from seed to harvest, and a dish cooked from what your child grew."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Jagadish Chandra Bose (1858–1937), India",
+      "idea": "Bose, a physicist from Bengal working in Kolkata, built very sensitive instruments to show that plants respond to touch, light, heat, poisons and injury. His crescograph magnified a plant's growth thousands of times so that it could be seen moving. He showed that plants produce electrical signals when stimulated, a bit like the signals in our nerves, and wrote that plants and animals were more alike than people thought.",
+      "then": "Many scientists in Europe were doubtful. When he presented his work in London in the early 1900s, some leading physiologists objected that a physicist was stepping into their field and that plants could not have anything like nerves. Some of his larger ideas, such as plants having feelings, went further than his evidence.",
+      "now": "Plant scientists today accept that plants sense many things and send electrical and chemical signals through their bodies; for example the touch-me-not's folding and the Venus flytrap's snap are driven by electrical signals. Bose is honoured as a pioneer of this field. Most scientists do not accept that plants feel pain or have a nervous system like ours.",
+      "status": "accepted",
+      "ask": "Your window plant bent towards the light. Does that mean it 'saw' the light? What is the difference between responding to something and knowing about it?",
+      "day": 7
+    },
+    {
+      "id": "v2",
+      "who": "E. K. Janaki Ammal (1897–1984), India",
+      "idea": "Janaki Ammal, from Thalassery in Kerala, earned a doctorate in botany in the USA in 1931, one of the first Indian women to do so. At the Sugarcane Breeding Institute in Coimbatore in the 1930s she crossed sugarcane with related wild grasses and studied their chromosomes, helping create sugarcane varieties that grew well and stayed sweet in Indian conditions. She later wrote the 'Chromosome Atlas of Cultivated Plants' with C.D. Darlington (1945).",
+      "then": "As a woman scientist in the 1930s she faced unfair treatment from colleagues, and she moved to England, where she worked at the John Innes Centre and the Royal Horticultural Society. Her scientific work was respected abroad.",
+      "now": "Her sugarcane and chromosome work is accepted and still cited. She returned to India to rebuild the Botanical Survey of India, was awarded the Padma Shri in 1977, and in her later years spoke up to protect forests such as Silent Valley in Kerala.",
+      "status": "accepted",
+      "ask": "Janaki Ammal mixed sugarcane with wild grasses to make a better plant. Why might a wild grass have something useful that a farm plant has lost?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Suzanne Simard, Canada (key paper 1997), and her critics Justine Karst, Melanie Jones and Jason Hoeksema (2023)",
+      "idea": "Simard, a forest scientist, showed in a 1997 paper in the journal Nature that carbon (from the food trees make) could move from a birch tree to a fir tree through threads of fungi joining their roots underground. She and others built on this to suggest that big 'mother trees' share food with young trees and send warnings through this 'wood-wide web', and she wrote about it in her 2021 book 'Finding the Mother Tree'.",
+      "then": "The idea became hugely popular in books, films and news. Some scientists were excited; others warned early on that experiments in real forests are very hard to do and that some results could be explained in other ways.",
+      "now": "That fungi link the roots of many trees is accepted. But in 2023 Karst, Jones and Hoeksema reviewed the field studies in the journal Nature Ecology & Evolution and argued that the evidence that trees deliberately share food or warnings through these networks, or that mother trees favour their own young, is weak, and that popular accounts had overstated it. Simard and others disagree. This is a live debate.",
+      "status": "debated",
+      "ask": "If you wanted to prove that one tree gives food to another through fungi, what would you need to see? How could you make sure the food did not just travel through the soil instead?",
+      "day": 8
+    },
+    {
+      "id": "v4",
+      "who": "Monica Gagliano, Australia (key study 2014)",
+      "idea": "In a study published in 2014, Gagliano and her colleagues dropped potted touch-me-not plants (Mimosa pudica, chhui-mui) a short distance again and again. At first the leaves folded each time, but after many harmless drops they stopped folding. When shaken in a different way, they still folded, so they were not just tired. The plants seemed to 'remember' that dropping was harmless for weeks afterwards. She called this a form of learning.",
+      "then": "The study got a lot of attention. Many plant biologists agreed the result was interesting but objected to words like 'learning', 'memory' and 'intelligence', saying they suggest a mind that plants do not have.",
+      "now": "That plants can get used to a harmless repeated touch (scientists call this habituation) is widely accepted. Whether it should be called learning, and whether plants can be called intelligent, is still argued about, and some of her later experiments have been questioned and need repeating by other scientists.",
+      "status": "debated",
+      "ask": "If a chhui-mui stops folding after being dropped many times, is that learning, or just getting used to it? What test would help you tell the difference?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "How can you tell a tree from a shrub?", "a": "A tree has one thick woody trunk with branches higher up and is usually tall; a shrub is medium-sized with several woody stems growing from close to the ground."},
+    {"q": "What is a herb? Give two examples.", "a": "A small plant with a soft, green stem that does not become woody, such as mint, coriander, tomato or mustard."},
+    {"q": "Why do we say grasses are a kind of herb? Name two grasses we eat from.", "a": "They have soft stems that do not become woody (hollow inside) and long, thin, flat leaves. Rice, wheat, ragi, bajra, jowar and sugarcane are grasses."},
+    {"q": "What is the difference between a climber and a creeper?", "a": "Both have thin, bendy stems. A climber grows upward holding on to a support, like money plant or jasmine; a creeper spreads along the ground, like pumpkin or watermelon."},
+    {"q": "Name the parts of a plant and say the job of the root and the stem.", "a": "Root, stem, leaf, flower, fruit, seed. The root holds the plant in the soil and takes in water and minerals; the stem holds the plant up and carries water up and food to all parts."},
+    {"q": "In our seed test, the dark cup sprouted but the seedlings were yellow and thin. Why?", "a": "Seeds sprout using food stored inside them, so they do not need light to start. But a seedling needs light to turn green and make its own food, so without light it grows pale, tall and weak."},
+    {"q": "Which part of the plant do we eat in a potato, a carrot, palak and dal?", "a": "Potato is a stem (it has buds called eyes), carrot is a root, palak is a leaf, and dal is a seed."},
+    {"q": "Some scientists say trees share food through fungi under the ground. Is that proven?", "a": "Not fully. Fungi do connect tree roots, but scientists are still debating whether trees really share food or warnings this way; a 2023 review said the evidence is weaker than popular stories suggest."}
+  ]
+}

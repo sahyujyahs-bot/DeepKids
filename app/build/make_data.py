@@ -9,25 +9,43 @@ from c3_daily import X as C3X
 from c3_time_cur import H as C3H, CUR as C3CUR, JOKE_BOOK
 from c3_deep import THINK as C3T, WS as C3W
 from c3_prep import GUIDE as C3G, PREP as C3P, SUBJ_GUIDE, SUBJ_PREP
+from sci_books import NCERT as SCI_NCERT, BOOK as CAM_SCI, NIOS_A, NIOS_B
+import glob
+
+# chapter packs: day-by-day plans, worksheets, experiments, activities, voices (app/content/SPEC.md)
+PACKS = {}
+from validate_pack import check as check_pack
+for f in sorted(glob.glob(os.path.join(HERE, "..", "content", "*", "*.json"))):
+    if check_pack(f): print("skipping pack that fails validation:", os.path.relpath(f, HERE)); continue
+    p = json.load(open(f)); PACKS[p["key"]] = {k: v for k, v in p.items() if k not in ("key", "board", "subj", "level", "n")}
 
 items = []  # every learnable unit: a board chapter/strand/theme, or a DeepKids topic
 def add(**k): items.append(k)
 
 for (subj, lvl), (book, chs) in NCERT.items():
+    if subj == "sci": chs = [t for _, t, _ in SCI_NCERT[lvl]]  # titles as printed in the uploaded books
     for i, title in enumerate(chs, 1):
+        c = ({**{k: v for k, v in EVS[(lvl, i)].items() if k != "dk"}, **({"x": {**C3X[i], "hours": C3H[i], "cur": C3CUR[i], "deep": C3T[i], "wsd": C3W[i], "guide": C3G[i], "prep": C3P[i]}} if lvl == 3 and i in C3X else {})} if subj == "sci" and (lvl, i) in EVS else None)
+        if subj == "sci": c = {**(c or {}), "covers": SCI_NCERT[lvl][i - 1][2], "unit": SCI_NCERT[lvl][i - 1][0]}
         add(k=f"ncert|{subj}|{lvl}|{i}", board="ncert", subj=subj, level=lvl, book=f"{book} · Class {lvl}", n=str(i), title=title,
-            dk=NCERT_DK.get((lvl, i), []) if subj == "sci" else [],
-            c=({**{k: v for k, v in EVS[(lvl, i)].items() if k != "dk"}, **({"x": {**C3X[i], "hours": C3H[i], "cur": C3CUR[i], "deep": C3T[i], "wsd": C3W[i], "guide": C3G[i], "prep": C3P[i]}} if lvl == 3 and i in C3X else {})} if subj == "sci" and (lvl, i) in EVS else None))
+            dk=NCERT_DK.get((lvl, i), []) if subj == "sci" else [], c=c)
 for subj, (book, strands) in CAMBRIDGE.items():
     for lvl in LEVELS:
+        if subj == "sci":  # units from the uploaded Learner's Books
+            bk, units = CAM_SCI[lvl]
+            for i, (u, strand, tops) in enumerate(units, 1):
+                add(k=f"cam|sci|{lvl}|{i}", board="cambridge", subj="sci", level=lvl, book=bk.replace("Cambridge Primary Science ", ""), n=str(i), title=u.split(" ", 1)[1], dk=[],
+                    c={"covers": "; ".join(tops), "topics": tops, "strand": strand})
+            continue
         for i, s in enumerate(strands, 1):
-            add(k=f"cam|{subj}|{lvl}|{i}", board="cambridge", subj=subj, level=lvl, book=f"{book} · Stage {lvl}", n="Strand", title=s,
-                dk=CAMBRIDGE_DK.get(s, []) if subj == "sci" and lvl == 1 else [])
-for lvl in LEVELS:
-    book, themes = NIOS["sci"]
-    for i, th in enumerate(themes, 1):
-        add(k=f"nios|sci|{lvl}|{i}", board="nios", subj="sci", level=lvl, book=f"Level {nios_level(lvl)} · {book}", n="Theme", title=th,
-            dk=NIOS_DK.get(th, []) if lvl == 1 else [])
+            add(k=f"cam|{subj}|{lvl}|{i}", board="cambridge", subj=subj, level=lvl, book=f"{book} · Stage {lvl}", n="Strand", title=s, dk=[])
+for i, (n, t, cov) in enumerate(NIOS_A, 1):  # NIOS Level A is equivalent to Class 3
+    add(k=f"nios|sci|3|{i}", board="nios", subj="sci", level=3, book="Environmental Studies (A 102) · Level A", n=n, title=t, dk=[], c={"covers": cov})
+for i, (n, t, cov) in enumerate(NIOS_B, 1):  # NIOS Level B is equivalent to Class 5
+    add(k=f"nios|sci|5|{i}", board="nios", subj="sci", level=5, book="Environmental Studies · Level B", n=n, title=t, dk=[], c={"covers": cov})
+for it in items:  # attach chapter packs
+    pk = it["k"].replace("cam|", "cambridge|", 1)
+    if pk in PACKS: it["c"] = {**(it.get("c") or {}), "p": PACKS[pk]}
 
 topics = []
 for t in T:
@@ -37,7 +55,9 @@ for t in T:
 
 data = {"prepgen": {"guide": SUBJ_GUIDE, "prep": SUBJ_PREP}, "jokebook": JOKE_BOOK, "levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items, "topics": topics,
         "notes": {"ncert": {f"{s}|{l}": n for (s, l), n in NCERT_NOTES.items()},
-                  "nios": {s: f"NIOS Level A/B {n}: lesson list to be added from NIOS study material." for s, n in NIOS_PENDING.items()},
+                  "nios": {**{s: f"NIOS {n}: Level A and B books to be added." for s, n in NIOS_PENDING.items()},
+                           "sci|1": "NIOS starts at Level A, which is equivalent to Class 3.", "sci|2": "NIOS starts at Level A, which is equivalent to Class 3.",
+                           "sci|4": "NIOS has no level for Class 4: Level A is Class 3 and Level B is Class 5."},
                   "cambridge": {"hin": "Cambridge Primary has no Hindi course. Pair with NCERT Hindi or DeepKids language plans."}}}
 json.dump(data, open(os.path.join(HERE, "data.json"), "w"), ensure_ascii=False, separators=(",", ":"))
 
@@ -54,7 +74,7 @@ ws.append(cols)
 def row(it):
     c, a = LEVELS[it["level"]]
     return [BNAME[it["board"]], SUBJECTS[it["subj"]], it["level"], c, a, nios_level(it["level"]), it["book"], it["n"], it["title"],
-            "; ".join(f"{d} {TNAME[d]}" for d in it["dk"]), "Titles from secondary listings" if it["board"] == "ncert" else ("Unit names from Learner's Books to add" if it["board"] == "cambridge" else "Lesson list to add")]
+            "; ".join(f"{d} {TNAME[d]}" for d in it["dk"]), "From the uploaded book" if it["subj"] == "sci" else "Titles from secondary listings" if it["board"] == "ncert" else ("Unit names from Learner's Books to add" if it["board"] == "cambridge" else "Lesson list to add")]
 for it in sorted(items, key=lambda x: (x["board"], x["subj"], x["level"])): ws.append(row(it))
 for (s, l), note in NCERT_NOTES.items():
     c, a = LEVELS[l]; ws.append(["NCERT / CBSE", SUBJECTS[s], l, c, a, nios_level(l), "(no book)", "", note, "Use DeepKids Science Plus", ""])
