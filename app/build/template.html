@@ -14,17 +14,8 @@
   --display:"Fredoka","Baloo 2",system-ui,sans-serif; --body:"Nunito",system-ui,-apple-system,"Segoe UI",sans-serif;
   --r-xl:30px; --r-lg:24px; --r:18px;
   --lift:0 2px 0 rgba(43,35,64,.05),0 10px 24px -14px rgba(43,35,64,.25);
+  color-scheme:light;
 }
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#1C1730; --surface:#28213F; --sunk:#332A4F; --ink:#F6F0FF; --muted:#B8ADCB; --line:#3B3258;
-  --sun:#FFD65C; --tang:#FF9445; --gum:#FF95BC; --peri:#9EA5DB; --pist:#A9CF84; --forest:#62B884; --aqua:#56D4CB; --sky:#7DBDF6;
-  --tangD:#C65A12; --forestD:#3D7F57; --skyA:#2C3D55; --skyB:#2E3A3A; --hill1:#4E6E46; --hill2:#3F5F3C; --soil:#5A4636;
-  --lift:0 2px 0 rgba(0,0,0,.25),0 12px 28px -14px rgba(0,0,0,.7); color-scheme:dark}}
-:root[data-theme="dark"]{
-  --bg:#1C1730; --surface:#28213F; --sunk:#332A4F; --ink:#F6F0FF; --muted:#B8ADCB; --line:#3B3258;
-  --sun:#FFD65C; --tang:#FF9445; --gum:#FF95BC; --peri:#9EA5DB; --pist:#A9CF84; --forest:#62B884; --aqua:#56D4CB; --sky:#7DBDF6;
-  --tangD:#C65A12; --forestD:#3D7F57; --skyA:#2C3D55; --skyB:#2E3A3A; --hill1:#4E6E46; --hill2:#3F5F3C; --soil:#5A4636;
-  --lift:0 2px 0 rgba(0,0,0,.25),0 12px 28px -14px rgba(0,0,0,.7); color-scheme:dark}
 *{box-sizing:border-box}
 html,body{background:var(--bg)}
 body{color:var(--ink);font:600 16px/1.5 var(--body);-webkit-font-smoothing:antialiased}
@@ -453,6 +444,8 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
 
 
 
