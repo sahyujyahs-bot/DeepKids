@@ -417,7 +417,9 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 .nightbar{animation:glow 2.6s ease-in-out infinite;--c:var(--peri)}
 .tr.focus .tcard{animation:glow 2.6s ease-in-out infinite}
 .tt.compact .tag.miss{background:var(--sunk);color:var(--muted)}.tt.compact .tr.missed .tcard{background:var(--surface);box-shadow:inset 0 0 0 2px var(--line)}
+[hidden]{display:none!important}
 
+.daynav{display:flex;align-items:center;gap:8px}.iconbtn.sm{width:34px;height:34px;border-radius:12px}.iconbtn.sm .ico{width:18px;height:18px}
 </style>
 
 <header class="top"><div class="wrap">
@@ -444,6 +446,15 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -509,21 +520,39 @@ function confetti(){if(matchMedia("(prefers-reduced-motion: reduce)").matches)re
 function toast(m){document.querySelectorAll(".toast").forEach(t=>t.remove());const t=document.createElement("div");t.className="toast";t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),2200)}
 
 /* ---------- persistence: one private document per viewer; the newer copy wins ---------- */
+let ACC=null,DBR=null,UIDR=null,unsub=null;
+const LSK=()=>"dk-state-"+(ACC||"guest");
+const lsGet=k=>{try{return localStorage.getItem(k)}catch(e){return null}},lsSet=(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}},lsDel=k=>{try{localStorage.removeItem(k)}catch(e){}};
 async function boot(){
-  try{const ls=localStorage.getItem("dk-state-v2");if(ls)S={...fresh(),...JSON.parse(ls)}}catch(e){}
-  render();
-  try{const [db,user]=await Promise.all([window.claude?.use?.("db"),window.claude?.use?.("user")]);const id=db&&user?await user.id():null;
-    if(db&&id){store=db.doc("data/users/"+id+"/planner");const snap=await store.get();const remote=snap.exists?snap.data():null;
-      if(remote&&remote.setup!==undefined&&(remote.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...remote};try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}}else if(S.setup){await store.set(JSON.parse(JSON.stringify(S)))}
-      syncMode="account";lastSaved=Date.now();render();
-      // keep every open copy (phone, laptop, an older tab) on the newest data
-      store.onSnapshot(s=>{const r=s.exists?s.data():null;if(r&&r.setup!==undefined&&(r.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...r};try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}render()}},()=>{})}}catch(e){store=null}
-}
+  ACC=lsGet("dk-acct");if(ACC){try{const ls=lsGet(LSK());if(ls)S={...fresh(),...JSON.parse(ls)}}catch(e){}}if(!ACC||S.setup)render();
+  try{const [db,user]=await Promise.all([window.claude?.use?.("db"),window.claude?.use?.("user")]);UIDR=db&&user?await user.id():null;DBR=UIDR?db:null}catch(e){DBR=null}
+  if(DBR&&!ACC){try{const s=await DBR.doc("data/users/"+UIDR+"/session/current").get();if(s.exists&&s.data().acct){ACC=String(s.data().acct);lsSet("dk-acct",ACC)}}catch(e){}}
+  if(ACC)await openAccount(ACC);else render()}
+async function openAccount(acct,name){ACC=acct;lsSet("dk-acct",acct);if(unsub){try{unsub()}catch(e){}unsub=null}store=null;
+  let local=null;try{const ls=lsGet(LSK());if(ls)local=JSON.parse(ls)}catch(e){}
+  if(!local){const v2=lsGet("dk-state-v2");if(v2&&!lsGet("dk-v2-migrated")){try{local=JSON.parse(v2)}catch(e){}lsSet("dk-v2-migrated","1")}}
+  S={...fresh(),...(local||{})};ob=null;if(S.setup||!DBR)render();
+  if(DBR){try{store=DBR.doc("data/users/"+UIDR+"/accounts/"+acct);const snap=await store.get();let remote=snap.exists?snap.data():null;
+      if(!remote){const known=(await DBR.doc("data/users/"+UIDR+"/session/current").get().catch(()=>null))?.data?.()||{};
+        if(!known.migrated){const old=await DBR.doc("data/users/"+UIDR+"/planner").get().catch(()=>null);if(old&&old.exists){remote={...old.data(),updatedAt:Date.now()}}}}
+      if(remote&&remote.setup!==undefined&&(remote.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...remote};ob=null}
+      if(name&&!S.parent?.name)S.parent={...(S.parent||{}),name};
+      S.acct=acct;S.updatedAt=Math.max(S.updatedAt||0,1);await store.set(JSON.parse(JSON.stringify(S)));
+      await DBR.doc("data/users/"+UIDR+"/session/current").set({acct,at:Date.now(),migrated:true});
+      lsSet(LSK(),JSON.stringify(S));syncMode="account";lastSaved=Date.now();
+      unsub=store.onSnapshot(s=>{const r=s.exists?s.data():null;if(r&&r.setup!==undefined&&(r.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...r};lsSet(LSK(),JSON.stringify(S));render()}},()=>{})}
+    catch(e){store=null;syncMode="device"}}
+  else{if(name&&!S.parent?.name)S.parent={...(S.parent||{}),name};S.acct=acct;lsSet(LSK(),JSON.stringify(S))}
+  const k=JSON.parse(lsGet("dk-known")||"[]").filter(x=>x.acct!==acct);k.unshift({acct,name:S.parent?.name||name||"",child:S.child||""});lsSet("dk-known",JSON.stringify(k.slice(0,5)));
+  render()}
+async function logout(){if(store){clearTimeout(saveTimer);await writeNow().catch(()=>{})}if(unsub){try{unsub()}catch(e){}unsub=null}
+  if(DBR){try{await DBR.doc("data/users/"+UIDR+"/session/current").set({acct:null,at:Date.now(),migrated:true})}catch(e){}}
+  lsDel("dk-acct");ACC=null;store=null;S=fresh();ob=null;render()}
 let lastSaved=0;
 function writeNow(){const body=JSON.parse(JSON.stringify(S));const p=saving.then(()=>store.set(body)).then(()=>{syncMode="account";lastSaved=Date.now();return true},()=>{syncMode="device";return false});saving=p.then(()=>{});return p}
-function save(){try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}
+function save(){if(!ACC)return;lsSet(LSK(),JSON.stringify(S));
   if(!store)return;clearTimeout(saveTimer);saveTimer=setTimeout(writeNow,600)}
-async function saveNow(){try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}if(!store)return false;clearTimeout(saveTimer);return writeNow()}
+async function saveNow(){if(!ACC)return false;lsSet(LSK(),JSON.stringify(S));if(!store)return false;clearTimeout(saveTimer);return writeNow()}
 addEventListener("pagehide",()=>{if(store&&saveTimer){clearTimeout(saveTimer);writeNow()}});
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="hidden"&&store){clearTimeout(saveTimer);writeNow()}});
 const commit=()=>{S.updatedAt=Date.now();save();render()};
@@ -625,8 +654,8 @@ function prepBlock(date,when){const items=[];
   return items}
 const prepMins=its=>Math.max(10,its.reduce((a,p)=>a+(p.kind==="guide"?3:6),0));
 function lessonsOn(date){const L=[];S.subjects.forEach(s=>{
-    if(date===today){S.log.filter(l=>l.date===today&&l.subj===s&&l.kind!=="free").slice().reverse().forEach(l=>{const u=unitBy(l.key);if(u)L.push({s,u,done:true,title:l.title})});
-      if(ui.more[s]){const nx=nextUp(s);if(nx&&!(L.some(z=>z.s===s&&!z.done)))L.push({s,u:nx.u,n:nx.n,tot:nx.tot,bonus:true})}}
+    if(date<=today){S.log.filter(l=>l.date===date&&l.subj===s&&l.kind!=="free").slice().reverse().forEach(l=>{const u=unitBy(l.key);if(u)L.push({s,u,done:true,title:l.title})});
+      if(date===today&&ui.more[s]){const nx=nextUp(s);if(nx&&!(L.some(z=>z.s===s&&!z.done)))L.push({s,u:nx.u,n:nx.n,tot:nx.tot,bonus:true})}}
     const x=upcoming().find(z=>z.subj===s&&z.date===date);if(x&&!(date===today&&ui.more[s]))L.push({s,u:x.u,n:x.n,tot:x.tot})});return L}
 function dayPlan(date){const d=Dd(date),items=[],ev=eventsOn(date),isT=date===today;
   const am=prepBlock(date,"am"),pm=prepBlock(date,"pm");
@@ -689,6 +718,25 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+function loginView(){let known=[];try{known=JSON.parse(lsGet("dk-known")||"[]")}catch(e){}
+  return `<div class="ob">${crowd()}<div><span class="eyebrow">DeepKids</span><h1 style="margin-top:6px">Log in</h1><p class="muted" style="margin-top:6px">Testing mode, so no OTP yet. The same number always brings back the same family. You stay logged in until you log out.</p></div>
+   ${known.length?`<div class="col" style="gap:8px"><span class="eyebrow">Used on this phone</span>${known.map(k=>`<button class="menurow" data-act="loginas" data-a="${esc(k.acct)}">${youBlob("","happy",'width="40" height="40"')}<span><b>${esc(k.name||"Parent")}</b><br><span class="xs muted">+91 ${esc(String(k.acct).slice(2))}${k.child?" · "+esc(k.child)+"'s family":""}</span></span>${icon("next")}</button>`).join("")}</div><span class="eyebrow">Or a different number</span>`:""}
+   <div class="field"><label for="lgPhone">Phone number</label><div class="row" style="flex-wrap:nowrap"><span class="chip" style="height:50px;padding:0 14px;font-size:16px">+91</span><input class="inp" id="lgPhone" type="tel" inputmode="numeric" autocomplete="tel-national" maxlength="11" placeholder="98765 43210"></div></div>
+   <div class="field"><label for="lgName">Your name</label><input class="inp" id="lgName" maxlength="40" autocomplete="given-name" placeholder="Your name"></div>
+   <p class="sm" id="lgErr" style="color:var(--bad)" ${ui.lgErr?"":"hidden"}>${esc(ui.lgErr||"")}</p>
+   <button class="btn" data-act="login" ${ui.lgBusy?"disabled":""}>${ui.lgBusy?"Logging in…":"Log in"}${icon("next")}</button></div>`}
+function accountCard(){const ph=ACC?"+91 "+ACC.slice(2,7)+" "+ACC.slice(7):"";const d=ui.saved;
+  return `<section class="card"><div class="sech"><span><span class="eyebrow">Logged in</span><br><b style="font:600 17px var(--display)">${esc(ph)}</b></span><button class="btn soft sm" data-act="logout">Log out</button></div>
+   <button class="btn line sm" data-act="checksaved" style="justify-self:start">${ui.savedBusy?"Reading…":"Check what's saved"}</button>
+   ${d?d.err?`<p class="sm" style="color:var(--bad)">${esc(d.err)}</p>`:`<div class="kv"><span>Read from</span><b>the database, ${new Date(d.at).toLocaleTimeString([],{hour:"numeric",minute:"2-digit",second:"2-digit"})}</b><span>Your name</span><b>${esc(d.v.parent?.name||"(not set)")}</b><span>Wake-up</span><b>${esc((d.v.alarm||{}).time||"(not set)")}</b><span>Child</span><b>${esc(d.v.child||"")}, age ${esc(d.v.age||"")}</b><span>Subjects</span><b>${(d.v.subjects||[]).map(s=>SUBJ[s]||s).join(", ")}</b><span>Lessons done</span><b>${(d.v.log||[]).length}${(d.v.log||[])[0]?" · last: "+esc(d.v.log[0].title)+", "+fmt(d.v.log[0].date):""}</b><span>Classes and to-dos</span><b>${(d.v.events||[]).length+(d.v.todos||[]).length}</b><span>Last change</span><b>${d.v.updatedAt?new Date(d.v.updatedAt).toLocaleString([],{day:"numeric",month:"short",hour:"numeric",minute:"2-digit"}):"–"}</b></div>`:""}</section>`}
+const dayNavBtns=(lab)=>`<div class="daynav"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><span class="eyebrow">${lab}</span><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button></div>`;
+function otherDay(d){const items=dayPlan(d).filter(i=>i.kind!=="brk"),past=d<today,lab=parse(d).toLocaleDateString(undefined,{weekday:"long",day:"numeric",month:"long"});
+  const head=past?(d===addDays(today,-1)?"Yesterday":"Looking back"):(d===addDays(today,1)?"Tomorrow":"Coming up"),dn=items.filter(i=>i.done).length;
+  return `<section class="greet small"><div>${dayNavBtns(lab)}<h1>${head}</h1><p>${past?`${dn} of ${items.length} done that day`:`${items.length} thing${items.length===1?"":"s"} planned`}</p></div></section>
+   <button class="nudge" data-act="tday" data-d="0">${icon("back")}<span>Back to today</span><span></span></button>
+   ${items.length?`<section class="sec"><div class="tt compact">${items.map(i=>tRow(i,d,null)).join("")}</div></section>`:`<p class="note" style="margin-top:14px">${past?"Nothing was recorded that day.":"Nothing planned yet."}</p>`}
+   ${past?"":`<button class="btn soft sm" data-act="quickday" data-d="${d}" style="margin-top:14px">+ Add a plan for this day</button>`}`}
+
 /* ---------- calm Today: one thing now, a short list, everything else behind More ---------- */
 function nowCard(it){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,missed=isMissed(it,today),a=`data-id="${it.id}" data-date="${today}"`,open=!!ui.open["now|"+it.id];
   const label=missed?"Still to do":it.anytime?"Any time today":it.at<=nowMin()?"Now":"Up next";
@@ -1071,7 +1119,7 @@ setInterval(()=>{const nm=nowMin();if(nm===lastMin)return;lastMin=nm;
   const al=S.alarm;if(al?.on&&clock24(nm)===al.time&&!rang[today]){rang[today]=1;let n=0;const ring=()=>{if(n++<6){sfx("win");setTimeout(ring,1600)}};ring();toast(greetWord()+(pname()?", "+pname():"")+"! Time to get up")}
   const busy=document.activeElement&&/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName);if(!busy&&!(ui.sheet&&sheet.open)&&(rollDay()||tab==="today"))render()},20000);
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&!(ui.sheet&&sheet.open)){rollDay();render()}});
-document.getElementById("hello").onclick=()=>{if(!ob&&S.setup){sfx("flip");openSheet({mode:"parent"})}};(async()=>{try{DBH=await window.claude?.use?.("db")||null;const us=await window.claude?.use?.("user");UID=us?await us.id().catch(()=>null):null;if(us){const me=await us.me().catch(()=>null);ACCT=String(me?.name||"").trim().split(/\s+/)[0]||"";ACCT=ACCT?ACCT[0].toUpperCase()+ACCT.slice(1):"";render()}if(DBH){const sn=await DBH.collection("topics").limit(500).get().catch(()=>null);if(sn)SHARED.topics=sn.docs.map(d=>{const g=d.data()||{};return {...g,id:d.id,level:Math.min(5,Math.max(1,+g.level||1)),hours:+g.hours||3}}).filter(g=>g.name&&SUBJ[g.subj]);_all=null}}catch(e){}try{SAMPLE=await window.claude?.use?.("sample")||null;ASSETS=await window.claude?.use?.("assets")||null;if(SAMPLE){const l=await SAMPLE.limits().catch(()=>null);IMGOK=!!l?.images}}catch(e){}render()})();
+document.getElementById("hello").onclick=()=>{if(ACC&&!ob&&S.setup){sfx("flip");openSheet({mode:"parent"})}};(async()=>{try{DBH=await window.claude?.use?.("db")||null;const us=await window.claude?.use?.("user");UID=us?await us.id().catch(()=>null):null;if(us){const me=await us.me().catch(()=>null);ACCT=String(me?.name||"").trim().split(/\s+/)[0]||"";ACCT=ACCT?ACCT[0].toUpperCase()+ACCT.slice(1):"";render()}if(DBH){const sn=await DBH.collection("topics").limit(500).get().catch(()=>null);if(sn)SHARED.topics=sn.docs.map(d=>{const g=d.data()||{};return {...g,id:d.id,level:Math.min(5,Math.max(1,+g.level||1)),hours:+g.hours||3}}).filter(g=>g.name&&SUBJ[g.subj]);_all=null}}catch(e){}try{SAMPLE=await window.claude?.use?.("sample")||null;ASSETS=await window.claude?.use?.("assets")||null;if(SAMPLE){const l=await SAMPLE.limits().catch(()=>null);IMGOK=!!l?.images}}catch(e){}render()})();
 
 function rng(seed){let s=(seed*9973)%233280||7;return()=>(s=(s*9301+49297)%233280)/233280}
 function blobD(seed,cx=50,cy=56,r=37,n=7){const R=rng(seed),P=[...Array(n)].map((_,i)=>{const a=i/n*Math.PI*2-Math.PI/2,k=.86+R()*.26;return [cx+Math.cos(a)*r*k,cy+Math.sin(a)*r*k]});const f=v=>v.toFixed(1);
@@ -1131,9 +1179,9 @@ function agRow(it,now){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,[hh,ap]
   if(it.kind==="brk")return `<div class="tr brk"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur/60)}</span></div>`;
   const a=`data-id="${it.id}" data-date="${today}"`;
   return `<div class="tr ${col} ${it.done?"done":""} ${it===now?"now":""}"><span class="t num">${hh}<small>${ap}</small></span><div class="tcard"><span class="ic">${icon(KICO[it.kind])}</span><button class="m plain" data-act="tlopen" ${a}><b>${esc(it.kind==="lesson"?it.u.title:it.title)}</b><span>${it.kind==="lesson"?SUBJ[it.s]+" · ":""}${ROLE[it.who]} · ${mins(it.dur/60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done?"Done":"Mark done"}: ${esc(it.title)}">${icon("check")}</button></div></div>`}
-function viewToday(){const items=dayPlan(today),real=items.filter(i=>i.kind!=="brk"),dn=real.filter(i=>i.done).length,f=focusOf(items,today),pct=real.length?dn/real.length*100:0;
+function viewToday(){if(ui.tday&&ui.tday!==today)return otherDay(ui.tday);const items=dayPlan(today),real=items.filter(i=>i.kind!=="brk"),dn=real.filter(i=>i.done).length,f=focusOf(items,today),pct=real.length?dn/real.length*100:0;
   const lessons=real.filter(i=>i.kind==="lesson"),lessonsDone=lessons.length>0&&lessons.every(i=>i.done),left=real.filter(i=>!i.done&&i!==f),doneL=real.filter(i=>i.done);
-  let h=`<section class="greet small"><div><span class="eyebrow">${longDate()}</span><h1>${greetWord()}${pname()?", "+esc(pname()):""}!</h1><p>${real.length?(f?`${real.length-dn} thing${real.length-dn===1?"":"s"} left today`:"All done for today"):"Nothing planned today"}</p></div>${garden(items,f)}<div class="track" style="margin:0 4px"><span style="width:${pct}%"></span>${kidBlob("rider","happy",`style="left:${Math.max(4,pct)}%"`)}</div></section>`;
+  let h=`<section class="greet small"><div>${dayNavBtns(longDate())}<h1>${greetWord()}${pname()?", "+esc(pname()):""}!</h1><p>${real.length?(f?`${real.length-dn} thing${real.length-dn===1?"":"s"} left today`:"All done for today"):"Nothing planned today"}</p></div>${garden(items,f)}<div class="track" style="margin:0 4px"><span style="width:${pct}%"></span>${kidBlob("rider","happy",`style="left:${Math.max(4,pct)}%"`)}</div></section>`;
   if(S.setup&&!S.parent?.saved&&!S.parent?.name)h+=`<button class="nudge" data-act="parent">${youBlob("","happy",'width="36" height="36"')}<span>${pname()?"Set your wake-up and prep times":"Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if(f)h+=nowCard(f);
   if(lessonsDone||!real.length)h+=`<section class="donecard">${blob("var(--sun)",4,"happy","mascot bob")}<h2>${lessons.length?"Lessons done! Keep going?":"Want to start something?"}</h2>${offerList()}</section>`;
@@ -1240,7 +1288,7 @@ function gamesView(){const u=dailyUnit();document.getElementById("sheetTitle").t
 
 /* ---------- settings ---------- */
 function settingsView(){document.getElementById("sheetTitle").textContent="Settings";
-  return `<section class="card r-you tint"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("","happy",'width="48" height="48"')}<div><b style="font:600 17px var(--display)">${pname()?esc(pname()):"Your profile"}</b><p class="xs muted">${S.parent?.saved||S.parent?.name?`Wakes ${clock(hm((S.alarm||{}).time||"06:30"))} · prep ${clock(hm(D().prepAt))} and ${clock(hm(D().eveAt))}${(S.parent.help||[]).length?" · help with "+S.parent.help.map(x=>SUBJ[x]).join(", "):""}${S.parent.langs?" · "+esc(S.parent.langs):""}`:"Not set up yet"}</p></div></div><button class="btn soft sm" data-act="parent" style="justify-self:start">Edit my profile</button></section>
+  return `${accountCard()}<section class="card r-you tint"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("","happy",'width="48" height="48"')}<div><b style="font:600 17px var(--display)">${pname()?esc(pname()):"Your profile"}</b><p class="xs muted">${S.parent?.saved||S.parent?.name?`Wakes ${clock(hm((S.alarm||{}).time||"06:30"))} · prep ${clock(hm(D().prepAt))} and ${clock(hm(D().eveAt))}${(S.parent.help||[]).length?" · help with "+S.parent.help.map(x=>SUBJ[x]).join(", "):""}${S.parent.langs?" · "+esc(S.parent.langs):""}`:"Not set up yet"}</p></div></div><button class="btn soft sm" data-act="parent" style="justify-self:start">Edit my profile</button></section>
    <section class="card"><div class="field"><label for="sName">Child's name</label><input class="inp" id="sName" maxlength="40" value="${esc(S.child)}"></div><div class="field"><label for="sStart">Plan starts on</label><input class="inp" id="sStart" type="date" value="${S.start}"></div><button class="btn" data-act="saveset">Save</button></section>
    <section class="card"><span class="eyebrow">How you learn</span><select class="inp" id="sMode">${Object.entries(MODES).map(([k,[n]])=>`<option value="${k}" ${modeOf()===k?"selected":""}>${n}</option>`).join("")}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam?"checked":""}><span><b style="font:600 16px var(--display)">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label></section>
    <section class="card"><span class="eyebrow">Syllabus</span><p>${S.board==="none"?"DeepKids Plus only":S.board==="combined"?"NCERT, Cambridge and NIOS":BOARDS[S.board]}${S.plus&&S.board!=="none"?" + DeepKids Plus":""} · ${S.subjects.map(s=>SUBJ[s]).join(", ")}</p><button class="btn line sm" data-act="redo" style="justify-self:start">Change syllabus or subjects</button></section>
@@ -1316,6 +1364,8 @@ document.getElementById("sheetClose").onclick=()=>{sfx("tap");if(ui.back){ui.she
 sheet.addEventListener("close",()=>{ui.phelp=null;sheet.className="sheet";ui.sheet=null;ui.back=null;clearInterval(tick);render()});
 const NAV=[["today","Today"],["week","Planner"],["journey","Journey"],["library","Library"]];
 function render(){rollDay();_sess=null;const m=document.getElementById("main"),nav=document.getElementById("nav");
+  if(!ACC){nav.hidden=true;document.getElementById("me").hidden=true;document.getElementById("snd").hidden=true;document.getElementById("hello").innerHTML=`${youBlob("bl bob")}<div><b>Welcome</b><span>DeepKids home planner</span></div>`;m.replaceChildren(el(`<div class="wrap">${loginView()}</div>`));if(sheet.open)sheet.close();return}
+  document.getElementById("snd").hidden=false;
   if(!S.setup&&!ob)return startOnboarding(0);
   nav.hidden=!!ob;document.getElementById("me").hidden=!!ob;document.getElementById("snd").innerHTML=icon(soundOn?"sound":"mute");document.getElementById("snd").setAttribute("aria-label",soundOn?"Turn sound off":"Turn sound on");
   document.getElementById("me").innerHTML=icon("grid");
@@ -1354,6 +1404,12 @@ function onAct(e){
    case "skip":{S.skips[today+"|"+b.dataset.s]=true;sfx("flip");toast("Moved to the next lesson day");commit();break}
    case "swap":{sfx("flip");openSheet({mode:"swap",s:b.dataset.s});break}
    case "pin":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};sfx("ok");toast("That's up next");sheet.close();commit();break}
+   case "tday":{const d=b.dataset.d;ui.tday=d==="0"?null:addDays(ui.tday||today,+d);if(ui.tday===today)ui.tday=null;sfx("tap");render();scrollTo(0,0);break}
+   case "quickday":{ui.pday=b.dataset.d;ui.pv="day";tab="week";render();scrollTo(0,0);break}
+   case "login":{const ph=(document.getElementById("lgPhone").value||"").replace(/\D/g,"").replace(/^(91|0)(?=\d{10}$)/,""),nm=(document.getElementById("lgName").value||"").trim();if(ph.length!==10){ui.lgErr="Enter a 10-digit phone number.";sfx("no");render();return}ui.lgErr="";ui.lgBusy=true;render();openAccount("91"+ph,nm).then(()=>{ui.lgBusy=false;tab="today";ui.tday=null;sfx("win");toast(S.setup?"Welcome back"+(pname()?", "+pname():"")+"!":"Logged in. Let's set up your year.");render()});break}
+   case "loginas":{ui.lgBusy=true;openAccount(b.dataset.a).then(()=>{ui.lgBusy=false;tab="today";ui.tday=null;sfx("win");toast("Welcome back"+(pname()?", "+pname():"")+"!");render()});break}
+   case "logout":{sheet.close();logout().then(()=>{ui.saved=null;toast("Logged out")});break}
+   case "checksaved":{if(!store){ui.saved={err:"This view isn't connected to your account, so data is only on this device."};renderSheet();break}ui.savedBusy=true;renderSheet();store.get().then(sn=>{ui.saved=sn.exists?{v:sn.data(),at:Date.now()}:{err:"Nothing saved yet for this number."}}).catch(()=>{ui.saved={err:"Couldn't read the database just now. Try again."}}).finally(()=>{ui.savedBusy=false;renderSheet()});break}
    case "nowmore":{const k2="now|"+b.dataset.id;ui.open[k2]=!ui.open[k2];sfx("tap");render();break}
    case "showdone":{ui.showDone=!ui.showDone;sfx("tap");render();break}
    case "moresheet":{sfx("flip");openSheet({mode:"more"});break}
