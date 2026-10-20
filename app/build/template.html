@@ -434,6 +434,9 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 
 
 
+
+
+
 const DATA = /*DATA*/;
 const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
 const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
@@ -474,11 +477,18 @@ async function boot(){
   render();
   try{const [db,user]=await Promise.all([window.claude?.use?.("db"),window.claude?.use?.("user")]);const id=db&&user?await user.id():null;
     if(db&&id){store=db.doc("data/users/"+id+"/planner");const snap=await store.get();const remote=snap.exists?snap.data():null;
-      if(remote&&remote.setup!==undefined&&(remote.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...remote}}else if(S.setup){await store.set(JSON.parse(JSON.stringify(S)))}
-      syncMode="account";render()}}catch(e){store=null}
+      if(remote&&remote.setup!==undefined&&(remote.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...remote};try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}}else if(S.setup){await store.set(JSON.parse(JSON.stringify(S)))}
+      syncMode="account";lastSaved=Date.now();render();
+      // keep every open copy (phone, laptop, an older tab) on the newest data
+      store.onSnapshot(s=>{const r=s.exists?s.data():null;if(r&&r.setup!==undefined&&(r.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...r};try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}render()}},()=>{})}}catch(e){store=null}
 }
+let lastSaved=0;
+function writeNow(){const body=JSON.parse(JSON.stringify(S));const p=saving.then(()=>store.set(body)).then(()=>{syncMode="account";lastSaved=Date.now();return true},()=>{syncMode="device";return false});saving=p.then(()=>{});return p}
 function save(){try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}
-  if(!store)return;clearTimeout(saveTimer);saveTimer=setTimeout(()=>{const body=JSON.parse(JSON.stringify(S));saving=saving.then(()=>store.set(body)).catch(()=>{syncMode="device"})},700)}
+  if(!store)return;clearTimeout(saveTimer);saveTimer=setTimeout(writeNow,600)}
+async function saveNow(){try{localStorage.setItem("dk-state-v2",JSON.stringify(S))}catch(e){}if(!store)return false;clearTimeout(saveTimer);return writeNow()}
+addEventListener("pagehide",()=>{if(store&&saveTimer){clearTimeout(saveTimer);writeNow()}});
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="hidden"&&store){clearTimeout(saveTimer);writeNow()}});
 const commit=()=>{S.updatedAt=Date.now();save();render()};
 
 /* ---------- syllabus collation ---------- */
@@ -643,6 +653,11 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
 let DBH=null,UID=null,_all=null,ACCT="";
+function keepInputs(root){const o={};root.querySelectorAll("input[id],textarea[id],select[id]").forEach(e=>{if(e.dataset.dirty&&e.type!=="file")o[e.id]=e.type==="checkbox"?e.checked:e.value});const a=document.activeElement;return {o,focus:a&&root.contains(a)&&a.id?a.id:null,sel:a&&typeof a.selectionStart==="number"?a.selectionStart:null}}
+function restoreInputs(root,k){Object.entries(k.o).forEach(([id,v])=>{const e=root.querySelector("#"+CSS.escape(id));if(!e)return;if(e.type==="checkbox")e.checked=v;else e.value=v;e.dataset.dirty="1"});if(k.focus){const e=root.querySelector("#"+CSS.escape(k.focus));if(e&&document.activeElement!==e){e.focus({preventScroll:true});try{if(k.sel!=null)e.setSelectionRange(k.sel,k.sel)}catch(x){}}}}
+function clearIn(id){document.querySelectorAll("#"+CSS.escape(id)).forEach(e=>{e.value="";delete e.dataset.dirty})}
+document.addEventListener("input",e=>{if(e.target.id)e.target.dataset.dirty="1"},true);
+document.addEventListener("change",e=>{if(e.target.id)e.target.dataset.dirty="1"},true);
 const pname=()=>(S.parent&&S.parent.name)||ACCT;
 function allUnits(){if(_all&&_all.n===SHARED.topics.length)return _all.u;const u=[...DATA.items,...DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t})),...SHARED.topics.map(genUnit)];_all={n:SHARED.topics.length,u};return u}
 const dayTypeOf=d=>((S.dayType||{})[d])||"full";
@@ -813,7 +828,7 @@ function parentView(){const p=S.parent||{},al=S.alarm||{on:false,time:"06:30"},d
    <section class="card"><div class="field"><label for="pName">What should we call you?</label><input class="inp" id="pName" maxlength="40" value="${esc(p.name||pname())}" placeholder="Your name"></div>
    <div class="fgrid"><div class="field"><label for="pWake">You usually wake up at</label><input class="inp" id="pWake" type="time" value="${al.time}"></div><div class="field"><label for="pPrep">Morning prep time</label><input class="inp" id="pPrep" type="time" value="${d.prepAt}"></div><div class="field"><label for="pStart">Learning starts at</label><input class="inp" id="pStart" type="time" value="${d.start}"></div><div class="field"><label for="pEve">Evening prep time</label><input class="inp" id="pEve" type="time" value="${d.eveAt}"></div></div>
    <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="pAlarm" ${al.on?"checked":""}><span><b style="font:600 16px var(--display)">Wake-up alarm</b><br><span class="xs muted">Rings only while the app is open on this phone.</span></span></label>
-   <div class="field"><span>Subjects you'd like more help teaching</span><div class="whos">${S.subjects.map(s=>`<button type="button" aria-pressed="${(p.help||[]).includes(s)}" data-act="phelp" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></div>
+   <div class="field"><span>Subjects you'd like more help teaching</span><div class="whos">${S.subjects.map(s=>`<button type="button" aria-pressed="${ui.phelp?ui.phelp.has(s):(p.help||[]).includes(s)}" data-act="phelp" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></div>
    <div class="field"><label for="pLang">Languages spoken at home</label><input class="inp" id="pLang" maxlength="80" value="${esc(p.langs||"")}" placeholder="Tamil, English"></div>
    <button class="btn" data-act="psave">Save</button></section>`}
 
@@ -883,7 +898,7 @@ Message:
   try{const opt={modelTier:"default",cache:false};if(D_.files?.length)opt.images=D_.files;const r=await SAMPLE.json(prompt,opt);D_.items=(Array.isArray(r?.items)?r.items:[]).filter(x=>x&&x.title).map(x=>({...x,who:["you","kid","both"].includes(x.who)?x.who:"you",keep:true}));D_.questions=Array.isArray(r?.questions)?r.questions.filter(q=>typeof q==="string").slice(0,4):[];if(!D_.items.length)D_.err="We couldn't find plans in that. Try adding days and times.";sfx(D_.items.length?"ok":"no")}
   catch(e){D_.err=({not_granted:"Claude wasn't allowed for this page, so we can't sort it. Use quick add below.",rate_limited:"Too many requests just now. Try again in a minute.",image_rejected:"That photo couldn't be read. Try a different one.",invalid_json:"We couldn't read the answer. Try again.",images_unavailable:"Photos can't be sent from this view. Type it instead."})[e?.code]||"Something went wrong. Try again.";sfx("no")}
   D_.busy=false;render()}
-function addParsed(){const D_=ui.dump;if(!D_?.items)return;let n=0;D_.items.filter(x=>x.keep).forEach(x=>{n++;const id=Math.random().toString(36).slice(2,9);
+function addParsed(){clearIn("dumpText");const D_=ui.dump;if(!D_?.items)return;let n=0;D_.items.filter(x=>x.keep).forEach(x=>{n++;const id=Math.random().toString(36).slice(2,9);
   if(x.type==="have"){S.inv=[...(S.inv||[]),{id,name:x.title,cat:x.category||"other",note:x.note||"",from:"told"}];return}
   if(x.type==="note"){S.notes=[...(S.notes||[]),{id,text:x.title+(x.note?": "+x.note:""),date:today}];return}
   if(x.start){const kind={class:"class",tuition:"class",online:"online",outing:"outing"}[x.type]||"other",end=x.end&&hm(x.end)>hm(x.start)?x.end:clock24(hm(x.start)+60);
@@ -1154,7 +1169,7 @@ function settingsView(){document.getElementById("sheetTitle").textContent="Setti
    <section class="card"><div class="field"><label for="sName">Child's name</label><input class="inp" id="sName" maxlength="40" value="${esc(S.child)}"></div><div class="field"><label for="sStart">Plan starts on</label><input class="inp" id="sStart" type="date" value="${S.start}"></div><button class="btn" data-act="saveset">Save</button></section>
    <section class="card"><span class="eyebrow">How you learn</span><select class="inp" id="sMode">${Object.entries(MODES).map(([k,[n]])=>`<option value="${k}" ${modeOf()===k?"selected":""}>${n}</option>`).join("")}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam?"checked":""}><span><b style="font:600 16px var(--display)">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label></section>
    <section class="card"><span class="eyebrow">Syllabus</span><p>${S.board==="none"?"DeepKids Plus only":S.board==="combined"?"NCERT, Cambridge and NIOS":BOARDS[S.board]}${S.plus&&S.board!=="none"?" + DeepKids Plus":""} · ${S.subjects.map(s=>SUBJ[s]).join(", ")}</p><button class="btn line sm" data-act="redo" style="justify-self:start">Change syllabus or subjects</button></section>
-   <p class="xs muted">${syncMode==="account"?"Progress is saved privately to your claude.ai account.":"Progress is saved in this browser only."}</p>`}
+   <p class="xs muted">${syncMode==="account"?`Everything is saved privately to your claude.ai account${lastSaved?" · last saved "+new Date(lastSaved).toLocaleTimeString([],{hour:"numeric",minute:"2-digit"}):""}. It follows you to any device where you're signed in.`:store?"Couldn't reach your account just now. Saved on this device; it will retry.":"Saved in this browser only."}</p>`}
 /* ---------- Week ---------- */
 function weekDays(){const m=parse(monday());m.setDate(m.getDate()+7*(ui.week||0));return [...Array(7)].map((_,i)=>{const d=new Date(m);d.setDate(d.getDate()+i);return iso(d)})}
 function lanes(date){const items=dayPlan(date),d=D();if(!items.length)return `<p class="note">Nothing on the clock this day.</p>`;const t0=Math.floor((Math.min(hm(d.prepAt),...items.map(i=>i.at))-20)/60)*60,t1=Math.ceil((Math.max(...items.map(i=>i.at+i.dur))+20)/60)*60,ppm=1.2;
@@ -1227,9 +1242,9 @@ function renderSheet(top){if(!ui.sheet)return;const b=document.getElementById("s
   const V={learn:learnView,player:playerView,chapter:chapterView,ws:wsView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   document.getElementById("sheetClose").innerHTML=ui.back?icon("back"):icon("close");document.getElementById("sheetClose").setAttribute("aria-label",ui.back?"Back to the lesson":"Close");
-  b.replaceChildren(el(h));sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
+  const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
 document.getElementById("sheetClose").onclick=()=>{sfx("tap");if(ui.back){ui.sheet=ui.back;ui.back=null;renderSheet(true)}else sheet.close()};
-sheet.addEventListener("close",()=>{sheet.className="sheet";ui.sheet=null;ui.back=null;clearInterval(tick);render()});
+sheet.addEventListener("close",()=>{ui.phelp=null;sheet.className="sheet";ui.sheet=null;ui.back=null;clearInterval(tick);render()});
 const NAV=[["today","Today"],["week","Planner"],["journey","Journey"],["library","Library"]];
 function render(){rollDay();_sess=null;const m=document.getElementById("main"),nav=document.getElementById("nav");
   if(!S.setup&&!ob)return startOnboarding(0);
@@ -1239,8 +1254,8 @@ function render(){rollDay();_sess=null;const m=document.getElementById("main"),n
   nav.innerHTML=NAV.map(([k,n])=>`<button data-tab="${k}" ${tab===k?'aria-current="page"':""}>${icon(k)}<span>${n}</span></button>`).join("");
   const sx=[...m.querySelectorAll(".hs")].map(x=>x.scrollLeft);
   const banner=!ob&&nightDue()?`<button class="nightbar" data-act="night">${blob("var(--peri)",17,"sleepy","",'width="34" height="34"')}<span><b>Tomorrow isn't ready yet</b><br><span class="xs">${nightItems().filter(p=>!S.prep[p.id]).length} things to get ready · tap to finish</span></span>${icon("next")}</button>`:"";
-  m.replaceChildren(el(`<div class="wrap">${banner}${ob?viewOnboarding():{today:viewToday,week:viewPlanner,library:viewLibrary,journey:viewJourney}[tab]()}</div>`));
-  m.querySelectorAll(".hs").forEach((x,i)=>{if(sx[i])x.scrollLeft=sx[i]});
+  const vk=ob?"ob"+ob.step:tab,kept=ui.lastView===vk?keepInputs(m):null;ui.lastView=vk;m.replaceChildren(el(`<div class="wrap">${banner}${ob?viewOnboarding():{today:viewToday,week:viewPlanner,library:viewLibrary,journey:viewJourney}[tab]()}</div>`));
+  if(kept)restoreInputs(m,kept);m.querySelectorAll(".hs").forEach((x,i)=>{if(sx[i])x.scrollLeft=sx[i]});
   if(ui.sheet&&sheet.open)renderSheet()}
 /* ---------- events ---------- */
 document.getElementById("nav").addEventListener("click",e=>{const b=e.target.closest("button[data-tab]");if(!b)return;tab=b.dataset.tab;sfx("tap");render();scrollTo(0,0)});
@@ -1298,12 +1313,12 @@ function onAct(e){
    case "night":{sfx("flip");openSheet({mode:"night"});break}
    case "nightdone":{S.night={...(S.night||{}),[today]:1};sfx("win");toast("All set. Sleep well!");sheet.close();commit();break}
    case "parent":{sfx("flip");openSheet({mode:"parent"});break}
-   case "phelp":{b.setAttribute("aria-pressed",b.getAttribute("aria-pressed")!=="true");sfx("tap");break}
-   case "psave":{const g=id=>document.getElementById(id).value;S.parent={...(S.parent||{}),name:g("pName").trim(),langs:g("pLang").trim(),help:[...document.querySelectorAll('#sheetBody [data-act="phelp"][aria-pressed="true"]')].map(x=>x.dataset.s),saved:Date.now()};S.alarm={on:document.getElementById("pAlarm").checked,time:g("pWake")||"06:30"};S.day={...D(),prepAt:g("pPrep")||D().prepAt,start:g("pStart")||D().start,eveAt:g("pEve")||D().eveAt};sfx("win");toast(S.parent.name?"Thanks, "+S.parent.name+"!":"Saved");sheet.close();commit();break}
+   case "phelp":{ui.phelp=ui.phelp||new Set((S.parent||{}).help||[]);ui.phelp.has(b.dataset.s)?ui.phelp.delete(b.dataset.s):ui.phelp.add(b.dataset.s);b.setAttribute("aria-pressed",ui.phelp.has(b.dataset.s));sfx("tap");break}
+   case "psave":{const g=id=>document.getElementById(id).value;S.parent={...(S.parent||{}),name:g("pName").trim(),langs:g("pLang").trim(),help:[...(ui.phelp||new Set((S.parent||{}).help||[]))],saved:Date.now()};ui.phelp=null;S.alarm={on:document.getElementById("pAlarm").checked,time:g("pWake")||"06:30"};S.day={...D(),prepAt:g("pPrep")||D().prepAt,start:g("pStart")||D().start,eveAt:g("pEve")||D().eveAt};sfx("win");S.updatedAt=Date.now();sheet.close();render();saveNow().then(ok=>toast(ok?(S.parent.name?"Saved. Hi, "+S.parent.name+"!":"Saved to your account"):store?"Couldn't reach your account. Saved on this phone; it will retry.":"Saved"));break}
    case "quick":{sfx("flip");ui.pday=today;tab="week";ui.pv="day";render();setTimeout(()=>document.getElementById("dumpText")?.focus(),100);break}
    case "qwho":{ui.qwho=b.dataset.w;b.parentElement.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));sfx("tap");break}
    case "qadd":{const root=b.closest("#sheetBody")||document.getElementById("main"),t=root.querySelector("#qa-t").value.trim(),s=root.querySelector("#qa-s").value,d=root.querySelector("#qa-d").value||today,w=ui.qwho||"you";if(!t){sfx("no");toast("Type what the plan is");return}const id=Math.random().toString(36).slice(2,9);
-     if(s)S.events=[...(S.events||[]),{id,title:t,kind:"other",who:w,start:s,end:clock24(hm(s)+60),rep:"once",date:d,days:[],from:today,note:""}];else S.todos=[...(S.todos||[]),{id,title:t,who:w,date:d,note:"",done:false}];sfx("ok");toast("Added for "+fmt(d));commit();break}
+     if(s)S.events=[...(S.events||[]),{id,title:t,kind:"other",who:w,start:s,end:clock24(hm(s)+60),rep:"once",date:d,days:[],from:today,note:""}];else S.todos=[...(S.todos||[]),{id,title:t,who:w,date:d,note:"",done:false}];sfx("ok");toast("Added for "+fmt(d));commit();clearIn("qa-t");break}
    case "todomove":{const x=(S.todos||[]).find(z=>z.id===b.dataset.t);if(x){x.date=tomorrow();sfx("flip");toast("Moved to tomorrow");commit()}break}
    case "tododel":{S.todos=(S.todos||[]).filter(z=>z.id!==b.dataset.t);sfx("flip");commit();break}
    case "goto":{const t=document.getElementById(b.dataset.to);if(t)t.scrollIntoView({behavior:"smooth",block:"start"});break}
@@ -1340,7 +1355,7 @@ function onAct(e){
    case "jopen":{ui.jopen=ui.jopen===k?null:k;sfx("tap");renderSheet();break}
    case "lt":{ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}
-   case "invnew":{const n=document.getElementById("invName").value.trim();if(!n)return;S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:n,cat:document.getElementById("invCat").value}];sfx("ok");commit();break}
+   case "invnew":{const n=document.getElementById("invName").value.trim();if(!n)return;S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:n,cat:document.getElementById("invCat").value}];sfx("ok");commit();clearIn("invName");break}
    case "invdel":{S.inv=(S.inv||[]).filter(i=>i.id!==b.dataset.i);sfx("flip");commit();break}
    case "lvl":{const s=b.dataset.s;S.levels[s]=Math.min(5,Math.max(1,S.levels[s]+(+b.dataset.d)));ui.view[s]=S.levels[s];sfx("tick");commit();break}
    case "day":{const s=b.dataset.s,d=+b.dataset.d,cur=new Set(daysOf(s));cur.has(d)?cur.delete(d):cur.add(d);if(cur.size){S.days={...S.days,[s]:[...cur].sort()};sfx("tap");commit()}break}
@@ -1349,7 +1364,7 @@ function onAct(e){
    case "setlvl":{S.levels[b.dataset.s]=+b.dataset.l;sfx("tick");commit();break}
    case "check":{const x=S.exps.find(x=>x.id===b.dataset.e);if(x&&!x.checks.includes(today)){x.checks.push(today);sfx("ok");commit()}break}
    case "close":{const x=S.exps.find(x=>x.id===b.dataset.e);if(x){x.closed=true;x.end=today;sfx("win");confetti();toast("Finished: "+x.title);commit()}break}
-   case "addexp":{const v=document.getElementById("newExp").value.trim();if(v){addExp(v,"Our own experiment");sfx("ok");commit()}break}
+   case "addexp":{const v=document.getElementById("newExp").value.trim();if(v){addExp(v,"Our own experiment");sfx("ok");commit();clearIn("newExp")}break}
    case "joke":{ui.jokes[b.dataset.j]=!ui.jokes[b.dataset.j];sfx(ui.jokes[b.dataset.j]?"ok":"flip");sheet.open?renderSheet():render();break}
    case "gtab":{ui.game=b.dataset.g;sfx("tap");renderSheet();break}
    case "wk":{const u=dailyUnit();if(!u)return;const word=u.c.x.words[dayNo%u.c.x.words.length],g=G();g.cur=g.cur||"";const key=b.dataset.key;if(g.g.includes(word)||g.g.length>=6)return;
@@ -1368,7 +1383,7 @@ function onAct(e){
    case "mright":{const l=ui.sel[k+b.dataset.id];if(!l){sfx("no");toast("Tap a word on the left first");return}const v={...(A(k,b.dataset.id)||{})};Object.keys(v).forEach(x=>{if(v[x]===b.dataset.x)delete v[x]});v[l]=b.dataset.x;setA(k,b.dataset.id,v);ui.sel[k+b.dataset.id]=undefined;const [si,ii]=b.dataset.id.split("-").map(Number),it=unitBy(k).c.x.wsd[si][1][ii];sfx(it.pairs.some(p=>p[0]===l&&p[1]===b.dataset.x)?"ok":"tick");commit();break}
    case "mreset":{setA(k,b.dataset.id,{});sfx("flip");commit();break}
    case "clearpad":{const c=document.querySelector(`canvas[data-pad="${CSS.escape(b.dataset.pad)}"]`);if(c)c.getContext("2d").clearRect(0,0,c.width,c.height);sfx("flip");break}
-   case "saveset":{S.child=document.getElementById("sName").value.trim();const v=document.getElementById("sStart").value;if(v)S.start=v;sfx("ok");toast("Saved");commit();break}
+   case "saveset":{S.child=document.getElementById("sName").value.trim();const v=document.getElementById("sStart").value;if(v)S.start=v;sfx("ok");S.updatedAt=Date.now();render();saveNow().then(ok=>toast(ok||!store?"Saved":"Couldn't reach your account. Saved on this phone; it will retry."));break}
    case "redo":{sheet.close();startOnboarding(1);break}
   }}
 document.getElementById("main").addEventListener("click",onAct);
