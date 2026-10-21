@@ -1,0 +1,738 @@
+{
+  "key": "ncert|sci|4|10",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 10,
+  "title": "Our Sky",
+  "source": "NCERT Our Wondrous World, Class 4, Unit 5 'Our Environment', Chapter 10 (pages 152–163), Reprint 2026-27",
+  "summary": "Your child watches how the sky, the Sun and the behaviour of plants, animals and people change from morning to night, follows the Sun's apparent path from east to west, and discovers how shadows change in length and direction because of it, using a torch, a stick and a home-made sundial. At night they look for star patterns, keep a Moon diary to see its shapes change from Amavasya to Poornima, connect these shapes to calendars and festivals, and learn about India's Chandrayaan landing on the Moon.",
+  "goals": [
+    "By the end your child can describe how the sky, the Sun's colour and the activities of birds, animals, plants and people change from morning to afternoon to night.",
+    "By the end your child can explain that the Sun appears to rise in the east, climb highest around noon and set in the west, and that this is because the Earth spins, not because the Sun goes round us.",
+    "By the end your child can predict how a shadow changes when the light source moves closer, farther or to another side, and explain why shadows are long in the morning and evening, shortest at noon, and point in opposite directions.",
+    "By the end your child can make and use a simple sundial and explain how Jantar Mantar's Samrat Yantra tells time.",
+    "By the end your child can record the Moon's shapes over many nights, name Poornima and Amavasya, explain the phases with a ball and a lamp, and link them to festivals and calendars.",
+    "By the end your child can find at least one star pattern such as the Saptarishi, and say what India's Chandrayaan missions have found out about the Moon."
+  ],
+  "words": [
+    ["sunrise", "the time in the morning when the Sun appears above the horizon in the east"],
+    ["sunset", "the time in the evening when the Sun goes down below the horizon in the west"],
+    ["horizon", "the line far away where the land or sea seems to meet the sky"],
+    ["shadow", "a dark shape made where an object blocks light; light travels in straight lines, so it cannot bend round the object"],
+    ["light source", "something that gives out its own light, like the Sun, a torch or a candle"],
+    ["sundial", "a device that tells the time from the position of a shadow cast by the Sun"],
+    ["star pattern", "a group of stars that seem to make a shape, like the Saptarishi (Seven Sages); astronomers call these constellations"],
+    ["phases of the Moon", "the changing shapes of the bright part of the Moon that we see over about a month"],
+    ["Poornima", "full Moon, when the whole round face of the Moon is lit and visible"],
+    ["Amavasya", "new Moon, when the Moon cannot be seen in the sky"],
+    ["rotate", "to spin around an imaginary line through the middle; the Earth rotates once a day"],
+    ["lander", "a spacecraft that lands gently on a moon or planet, like India's Vikram lander"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "The sky changes all day",
+      "goal": "Begin by looking up: draw and describe the sky at different times, start a sky log and a Moon diary that will run through the whole chapter, and meet the brightest object in the sky.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Look up!",
+          "mins": 7,
+          "do": "Go to a window, balcony or terrace with your child. Ask: 'What can you see in the sky right now? What colour is it? Are there clouds? Birds? An aeroplane? Can you see the Moon?' (The Moon is often visible in the daytime too.) Then ask: 'Is the sky the same colour all day? What colour is it at bedtime?' Remind them firmly: 'We never look straight at the Sun, not even for a second, and never through glasses, binoculars or a camera; it can damage our eyes for ever.'"
+        },
+        {
+          "kind": "read",
+          "title": "Have you ever looked up? (pages 152–153)",
+          "mins": 8,
+          "do": "Read the opening paragraph on page 152 aloud: the sky looks different at different times; its colour and the Sun's colour change; the Moon's size and shape seem to change; the activities of birds, animals, trees and humans vary during the day. Then read the bottom of page 153: the Sun is the brightest object in the sky, so bright that other stars cannot be seen when it is present; it gives us light and heat. Ask: 'The Sun is a star. If the other stars are still there in the daytime, why can't we see them?' Good answer: 'The Sun's light is so bright it lights up the whole sky, and the faint stars are lost in it, like a candle in a bright room.'"
+        },
+        {
+          "kind": "act",
+          "title": "Pictures and table of the sky (pages 152–153)",
+          "mins": 15,
+          "do": "Start Activity a1. Your child draws the sky as it looks now in the right box on page 152 (Morning, Afternoon or Night Sky). Then copy the page 153 table into the notebook (Morning Sky, Afternoon Sky, Night Sky) with the book's examples: morning, orange colour of the sky, orange Sun; afternoon, sunlight is strong; night, Moon and stars. Your child adds two of their own points for now. Plan with them: tomorrow morning, this afternoon and tonight they will look again and complete the other two pictures and add to each column (colour of sky, where the Sun is, how warm it feels, clouds, birds, sounds). Stick the table on the fridge."
+          ,"ref": "a1"
+        },
+        {
+          "kind": "act",
+          "title": "Start the Moon diary",
+          "mins": 10,
+          "do": "Start Activity a2 now, because the Moon's shapes take a month to see. Look up today's Moon phase in a calendar or panchang (many Indian calendars mark Poornima and Amavasya) or a free Moon app, and tell your child roughly where and when to look tonight. Make a diary page with columns: Date, Time, Where in the sky (east, overhead, west; above which building or tree), Draw the shape, Notes (clouds, colour). Your child fills in the first entry tonight with you. If the Moon is not up at bedtime, look before school the next morning; a waning Moon is visible in the morning sky."
+          ,"ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Day and night animals",
+          "mins": 5,
+          "do": "Read the question on page 153: 'Have you observed any change in the activities and behaviour of animals and plants at different times of a day?' Make a list together: crows and sparrows busy in the morning; dogs sleeping in the hot afternoon; bats and owls come out after dark; mosquitoes bite most at dusk; crickets chirp at night; lotus flowers open in the day; touch-me-not and tamarind leaves fold at night; raat ki rani (night jasmine) smells strongest at night. Tell your child to add to the list over the next days."
+        }
+      ],
+      "need": ["Textbook pages 152–153", "notebook, pencil and colour pencils", "a calendar or panchang showing Poornima and Amavasya, or a Moon app"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Sunrise, sunset and the coloured sky",
+      "goal": "Watch a sunrise or sunset, record what changes in the sky, among birds and animals and at home, and find out why the sky is blue by day and orange at sunrise and sunset.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Watch a sunrise or sunset",
+          "mins": 15,
+          "do": "Plan this step for sunrise (or sunset if mornings are hard); check the time on the phone's weather app and be outside 10 minutes before. Stand where you can see the horizon or at least the eastern (or western) sky. Your child notes in Activity a1 what happens minute by minute: the sky's colours (grey, pink, orange, yellow, then pale blue), the clouds lighting up, the birds (crows calling, sparrows chirping, flocks flying out to feed in the morning or back to roost in the evening), and sounds and lights at home and in the street (milk delivery, temple bells, azaan, lights going on at dusk). Remind them not to stare at the Sun once it is up. Note which direction the Sun rose or set: that side is the East (or West). Mark it with chalk on the balcony floor or wall.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "When the Sun rises, when it sets (page 154)",
+          "mins": 8,
+          "do": "Read page 154 aloud: the Sun appears to rise in the morning, seems to move up till it is high overhead, then moves down on the other side of the sky until it disappears. Answer the six questions on page 154 using what your child just saw. When the Sun rises: 1. How does the sky look? (Pink and orange, then lighter.) 2. What do birds and animals do? (Wake up, call, fly out to find food.) 3. What changes at home? (People wake up, light lamps for pooja, start cooking, switch off lights.) When the Sun sets: 1. Orange and red, then darker blue, then the first stars. 2. Birds fly home to roost in big noisy flocks; cows return; bats come out. 3. Lights go on, people come home, dinner is cooked, a diya may be lit."
+        },
+        {
+          "kind": "exp",
+          "title": "Why is the sky blue, and the sunset orange?",
+          "mins": 15,
+          "do": "Do Experiment e1 in a dark room. Fill a tall clear glass or a transparent water bottle with water and stir in half a teaspoon of milk. Shine a torch through it from one side. Ask your child to predict what colour the water will look. Look at the glass from the side: it looks faintly bluish-white. Now look into the beam from the far end, through the glass towards the torch (do not look into the torch directly; put a white paper behind the glass instead and look at the spot of light): it looks yellow-orange. Add a little more milk and look again: the end spot gets more orange-red. Read the 'why' of e1. Ask: 'At sunset, does sunlight pass through more air or less air to reach us?' (More, because it comes in low and slanting.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Sky log and Moon diary",
+          "mins": 7,
+          "do": "Add today's points to the Activity a1 table, and complete the second sky picture on page 152. Then fill in the Moon diary from Activity a2 for last night, with the date, time, position and shape. Ask: 'Was the Moon in the same place in the sky at the same time as yesterday?' (Usually it is noticeably farther east, and rises about 50 minutes later each day.)",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 152–154", "chalk", "a tall clear glass or bottle, water, milk, a spoon", "a torch", "white paper", "the sky log and Moon diary"],
+      "prep": [{"task": "Check tomorrow's sunrise or sunset time and find a spot with a view of the eastern or western sky", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Shadows: play and test",
+      "goal": "Play with your own shadow, then use a torch and a stick to find out how distance and direction of light change a shadow.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "My shadow (page 155)",
+          "mins": 10,
+          "do": "Read the first paragraph on page 155 aloud. Go outside in the sun. Your child runs, jumps, waves and makes different poses while watching their shadow. Ask: 'Can you run away from your shadow? Can you make it touch mine without us touching? Can you stand so you have no shadow at all?' (Only by standing in the shade.) 'Which side of you is the shadow on: towards the Sun or away from it?' (Always away from the Sun.) Play shadow tag: you are 'out' if someone steps on your shadow."
+        },
+        {
+          "kind": "read",
+          "title": "Morning, noon and evening shadows (page 155)",
+          "mins": 5,
+          "do": "Look at the three pictures on page 155 (early morning, noon and evening shadow) and read the paragraph: morning shadows are long, noon shadows are short, and evening shadows are long again but point in the opposite direction. Read the four children's questions in the speech bubbles: 'Does this happen to all objects? How does my shadow change? Are shadows formed only in sunlight? I wonder why these changes occur?' Ask your child which question they want to answer first; today's experiment will answer two of them."
+        },
+        {
+          "kind": "exp",
+          "title": "Torch and stick (page 156)",
+          "mins": 20,
+          "do": "Do Experiment e2, the activity on page 156. Make the room dark. Stand a pencil or stick upright in a lump of atta dough or clay on a sheet of white paper. Your child shines a torch at it. First predict, then test: (a) Move the stick nearer to the torch and farther away, keeping the torch still. (b) Keep the stick still and move the torch high above it, then low down to the side, then to the other side. Draw the shadow each time on the paper with a pencil line. Then answer the two page 156 questions. 'If we change the distance of the light from the object, how does the shadow change?' (Closer to the light makes a bigger shadow; farther away makes it smaller.) 'If we change the direction of the torch, how does the shadow change?' (The shadow always falls on the side opposite the torch; a low torch makes a long shadow, a high torch overhead makes a short one.) Read the paragraph below the questions together.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "So why do morning and evening shadows differ?",
+          "mins": 10,
+          "do": "Ask: 'In our experiment, the torch low on one side made a long shadow on the other side. Now think of the Sun as a giant torch. Where is the Sun in the morning?' (Low in the east.) 'So where does your shadow point, and how long is it?' (Long, towards the west.) 'At noon?' (The Sun is high, so the shadow is short.) 'In the evening?' (The Sun is low in the west, so the shadow is long and points east.) Ask the speech-bubble question: 'Are shadows formed only in sunlight?' (No, any light source makes them: a torch, a tube light, a candle, the full Moon.) Write the answer in the notebook. Update the Moon diary from Activity a2 tonight.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 155–156", "a sunny outdoor space", "a torch", "a pencil or stick and a lump of dough or clay", "white paper and pencil", "a room that can be made dark"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "A day of shadows",
+      "goal": "Measure the shadow of a stick through a whole day, find when it is shortest and which way it points, draw the Sun's positions, and learn how Aryabhata explained the Sun's daily journey.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Set up the shadow stick",
+          "mins": 10,
+          "do": "Do Experiment e3. Choose a holiday or weekend, since this runs through the day. At about 9 am, fix a straight stick about 30 cm long upright in a pot of soil or in a lump of clay on a big sheet of chart paper weighted with stones, on a sunny terrace or courtyard. Check it is upright using a thread with a small weight (a plumb line). Mark the north, south, east and west on the paper using the chalk mark from Day 2 for east. Your child marks the tip of the shadow with a dot and writes the time, and measures the shadow length with a ruler. Ask them to predict: 'When will the shadow be shortest? Which way will it point at 4 pm?' Write the guesses on the paper.",
+          "ref": "e3"
+        },
+        {
+          "kind": "exp",
+          "title": "Hourly checks",
+          "mins": 10,
+          "do": "Every hour from 10 am to 4 pm (or as often as you can), your child goes out for one minute, marks the shadow's tip, writes the time and measures the length. Add up the minutes; together they make about 10 minutes across the day. Remind them not to move the stick or the paper. At the end, join the dots. Ask: 'When was it shortest? Was it exactly at 12:00?' (Often a little before or after 12, because clock time is the same across India but the Sun's highest point comes earlier in the east of India and later in the west.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "do",
+          "title": "Draw the Sun and its shadows (pages 157–158)",
+          "mins": 10,
+          "do": "Do the drawing task on page 157: for the morning, noon and evening pictures, your child draws where the Sun is and the shadow that matches, using their shadow-stick results. Then read the paragraph on page 157: the Sun appears to move from the East, up to overhead at noon, then towards the West; the direction of the shadow changes because of this. Compare their drawing with the pictures at the top of page 158 ('Shadow formation by the Sun'). Tell your child that in most of India the noon Sun is high in the southern sky rather than exactly overhead, which is why the noon shadow is short but not zero; only places in the tropics see the Sun exactly overhead on a few days of the year."
+        },
+        {
+          "kind": "think",
+          "title": "Is the Sun moving, or are we?",
+          "mins": 10,
+          "do": "Ask: 'The book says the Sun appears to move. Why does it say appears?' Let your child think. Then do a quick demonstration: your child stands in the middle of the room and slowly turns round on the spot, keeping their eyes straight ahead. Ask: 'What did the room seem to do?' (It seemed to move the other way.) Say: 'The Earth spins once a day, from west to east, carrying us with it. So the Sun seems to move from east to west.' Tell the story in Voice v1: Aryabhata wrote about 1,500 years ago that the Earth spins, and compared it to a person in a moving boat who sees the trees on the bank moving backwards. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Moon diary",
+          "mins": 5,
+          "do": "Tonight, fill in the Activity a2 Moon diary. Ask: 'Is the bright part of the Moon getting bigger or smaller since Day 1? Which side is lit, left or right?' Write the answer under the drawing.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 157–158", "a straight stick about 30 cm long", "a pot of soil or a lump of clay", "a big sheet of chart paper and stones", "a thread with a small weight", "a ruler, pencil and chalk", "a watch"],
+      "prep": [{"task": "Choose a sunny holiday or weekend day when someone can step out every hour from 9 am to 4 pm", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Telling time by shadows",
+      "goal": "Turn the shadow-stick results into a sundial, learn about Jantar Mantar's giant Samrat Yantra, and think about why Jai Singh built such big instruments.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Reading the shadow-stick results",
+          "mins": 7,
+          "do": "Lay out the chart paper from Experiment e3. Ask your child to answer from their own data: 'At what time was the shadow shortest? Longest? In which direction did it point in the morning? In the afternoon? How far did the shadow tip move in one hour?' Ask: 'If I showed you only the shadow, without a clock, could you tell me the time?' (Roughly, yes: that is what a sundial does.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Sundials and Jantar Mantar (page 158)",
+          "mins": 6,
+          "do": "Read the 'Do you know?' box on page 158: we can tell the time by looking at shadows; ancient people made sundials; Raja Jai Singh of Jaipur built Jantar Mantars in Jaipur, Ujjain, Delhi, Varanasi and Mathura; the Samrat Yantra there tells time accurately from its shadow. Show a photo of the Jaipur Samrat Yantra on the phone: a huge triangular wall like a staircase, with curved quarter-circle walls on either side marked with hours and minutes. Explain: the shadow of the long sloping edge falls on the curved scale and moves along it as the Sun moves; reading where it falls gives the local time."
+        },
+        {
+          "kind": "act",
+          "title": "Make a sundial",
+          "mins": 20,
+          "do": "Do Activity a3. Cut a circle of thick card about 25 cm across. Push a pencil or straight stick upright through the centre and fix it with clay underneath. On a sunny morning, put it on a flat, sunny spot that gets sun all day (a terrace wall or the floor of a courtyard), and mark the spot and the way it faces with chalk so you can put it back exactly the same way each day. Every hour, on the hour (you can use the times from the shadow-stick day), your child draws a line along the shadow and writes the hour. Next sunny day, put it back in the same place facing the same way and test it: read the time from the shadow, then check the clock. Ask: 'How close was it? Why might it be a few minutes off?' (Thick shadow edges, card not quite flat, and over weeks the Sun's path changes with the seasons, so a simple sundial drifts.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Why did Jai Singh build so big?",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: Maharaja Sawai Jai Singh II built very large stone instruments in the early 1700s, believing that bigger instruments give finer, more accurate readings. The Jaipur Samrat Yantra is one of the largest sundials in the world, and its scale is so big that the shadow moves visibly. Ask the voice question. Then update the Activity a2 Moon diary tonight.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Moon diary",
+          "mins": 4,
+          "do": "Fill in tonight's Activity a2 Moon diary entry. Ask your child: 'If our sundial needs the Sun, could you tell the time on a full-Moon night with it?' (Yes, roughly; a bright full Moon does cast shadows, but the Moon's position changes differently from the Sun's, so the reading would be wrong unless corrected.)",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook page 158", "the chart paper from the shadow-stick day", "a photo of Jantar Mantar's Samrat Yantra (phone)", "a circle of thick card, a pencil or stick, clay", "chalk, ruler, marker", "a watch"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Play with shadows",
+      "goal": "Make hand shadows and a shadow puppet show, link it to India's old shadow-puppet traditions, and check the main ideas so far with the core worksheet.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Hand shadows (page 158)",
+          "mins": 8,
+          "do": "Look at the shadow shapes on page 158 ('Play with Shadows'). In a dark room, shine a torch or a lamp on a plain wall from about 2 metres away. Together, make a dog, a bird, a rabbit, a deer and an elephant with your hands. Ask: 'How can you make your bird bigger without changing your hands?' (Move your hands closer to the torch.) 'How can you make it sharper?' (Move your hands closer to the wall.) This uses Day 3's torch-and-stick results."
+        },
+        {
+          "kind": "act",
+          "title": "Shadow puppet show (pages 158–159)",
+          "mins": 20,
+          "do": "Do Activity a4. Read the line at the top of page 159: shadow puppetry has been practised in India for a long time. Tell your child about Tholu Bommalata of Andhra Pradesh and Togalu Gombeyaata of Karnataka, where puppets of thin, coloured leather are pressed against a white cloth screen lit from behind, and Ravanachhaya of Odisha, which uses leather puppets that cast only black shadows. Then your child cuts out 2 or 3 characters from thick card (for example a crow, a fox and a piece of cheese, or the Sun and the Moon having an argument), tapes each to an ice-cream stick, and makes a screen: a white bedsheet or dupatta stretched across a doorway, with a lamp or torch behind it. They perform a 3-minute story for the family. Ask afterwards: 'Why did the audience see the shadows but not you?' (You were behind the screen, and your puppets blocked the light.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Sky, Sun and shadows",
+          "mins": 15,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark answers together; for each wrong answer, open the matching pages: the sky at different times pages 152–154, shadows pages 155–158. Keep the Moon items for after Day 8 if your child has not met them yet.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "act",
+          "title": "Moon diary",
+          "mins": 2,
+          "do": "Fill in tonight's Activity a2 Moon diary entry with the date, time, position and shape.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 158–159", "a torch or lamp and a plain wall", "thick card, scissors, ice-cream sticks, tape", "a white bedsheet or dupatta", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "The night sky and its patterns",
+      "goal": "Go star-watching, draw a star pattern, find the Saptarishi and the Pole Star, and play Constellation Connect.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Night Sky (page 159)",
+          "mins": 5,
+          "do": "Read the 'Night Sky' section on page 159: after sunset the sky dazzles with thousands of twinkling stars and we see patterns in them. Tell your child that each star is a sun, many of them bigger than ours, but so far away that they look like tiny dots. Explain why we may see only a few dozen stars in a city: street lights, dust and smoke brighten the sky and hide faint stars, so the darker the place, the more stars you see."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Star-watching",
+          "mins": 20,
+          "do": "Go to the darkest spot you can reach, a terrace with lights off or an open ground, about an hour after sunset. Wait 10 minutes for your eyes to get used to the dark (no phone screens; cover a torch with red paper if you need light). First, your child draws any pattern they notice in the box on page 159. The note on page 159 says it is fine if it is not a 'known' pattern; the aim is to watch. Then look for the Saptarishi (Seven Sages), which looks like a big ladle or question mark, in the northern sky; it is easiest to see in the evenings from about February to June. Follow the two stars at the end of the 'cup' away from the handle: they point to Dhruva Tara, the Pole Star, which stays almost still in the north all night. In winter evenings, look for Kalpurush (Orion) with three bright stars in a row as its belt. Ask: 'Which stars are brightest? Do any look a different colour?' (Some look reddish, some bluish-white.) A free star-map app can help you check names. Also fill in tonight's Moon diary (Activity a2) if the Moon is up.",
+          "ref": "a2"
+        },
+        {
+          "kind": "game",
+          "title": "Constellation Connect",
+          "mins": 15,
+          "do": "Before the session, draw dot cards for 4 patterns on postcards: Saptarishi (Ursa Major's Big Dipper, 7 stars), Kalpurush (Orion), Vrishchik (Scorpius, a curved scorpion's tail) and Mriga or another your family knows; also a card with the Saptarishi and Dhruva together. Turn the cards face down. Each player turns one over, joins the dots with a pencil as fast as they can, and names it. Then read its story card aloud: for example, the Saptarishi are seven wise sages; Dhruva was a boy whose steadfast devotion won him a place as the unmoving star. A bonus point if you have actually seen it in the sky. Afterwards ask: 'Are the stars in a pattern really close to each other in space?' (Not necessarily; some are much farther away than others, and they only look close from Earth.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Share and compare",
+          "mins": 5,
+          "do": "Do the page 159 task: share your child's star-pattern drawing with a friend or cousin on the phone and compare with theirs. Ask: 'Did you both see the same patterns? Why might they differ?' (Different places have different amounts of light; people see different shapes; they looked at different times.)"
+        }
+      ],
+      "need": ["Textbook page 159", "a dark terrace or open ground", "a torch covered with red paper", "a star-map app (optional)", "4–5 postcards with star dot patterns", "pencil"],
+      "prep": [{"task": "Check the weather for a clear evening and draw the star dot cards for the game", "when": "morning"}]
+    },
+    {
+      "n": 8,
+      "title": "The changing Moon and our festivals",
+      "goal": "Read the Moon diary, explain the Moon's phases with a ball and a lamp, test whether the Moon really grows bigger near the horizon, and connect the Moon and Sun to festivals and calendars.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "What does our Moon diary show? (page 160)",
+          "mins": 6,
+          "do": "Lay out the Activity a2 Moon diary so far and read page 160: the Moon appears to be the biggest object in the night sky. Your child copies their drawings into the boxes on page 160. Ask the two page 160 questions: 'Is there a pattern to the way the shape of the Moon changes?' (Yes: it grows from a thin curve to a half to a full circle, then shrinks back, over about a month.) 'Are there days when the Moon is not visible?' (Yes, at Amavasya, and some days it is only up in the daytime or early morning.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Moon phases with a ball and a lamp",
+          "mins": 14,
+          "do": "Do Experiment e4. In a dark room, put a lamp without its shade (or a bright torch on a table) at one side of the room: this is the Sun. Your child holds a white ball (or an orange) stuck on a pencil at arm's length, slightly above their head: this is the Moon, and their head is the Earth. Facing the lamp, with the ball in front of the lamp, they see the dark side: Amavasya. Then they turn slowly to their left, keeping the ball at arm's length, and watch the lit part grow: a thin crescent, then half, then full when their back is to the lamp (keep the ball just above the shadow of their head). Keep turning: it shrinks back to half and a crescent. Ask: 'Did the ball itself change shape?' (No, only how much of its lit half we could see.) Read the 'why' of e4. Then read page 160–161: Poornima is the full Moon; the Moon can look like the letter 'C' or cut down the middle; Amavasya is the new Moon; ancient peoples used the Moon's shapes to count days, which gave rise to the earliest calendars.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Is the rising Moon really bigger?",
+          "mins": 10,
+          "do": "Ask: 'Have you ever seen a huge, round Moon just rising behind the buildings?' Tell your child about Voice v3: almost everyone sees the Moon look much bigger near the horizon than high in the sky, but it is not really bigger. Plan the test from Experiment e5: on the next evening close to Poornima, when the Moon is just rising, your child holds a ₹1 coin or a pea at arm's length (arm straight) and sees how much of the Moon it covers; two or three hours later, when the Moon is high, they do the same with the same coin and the same straight arm. Ask the voice question now, and fill in the result when you have it.",
+          "ref": "v3"
+        },
+        {
+          "kind": "read",
+          "title": "Festivals of the Sun and the Moon (pages 161–162)",
+          "mins": 10,
+          "do": "Read the festival paragraph on page 161 and look at the pictures: Diwali is on Amavasya, when there is no Moon; Raksha Bandhan, Guru Poornima and Buddha Poornima are on full-Moon days; Eid is on the day after the new Moon when the thin crescent is first seen. Also in the pictures: Chhath Puja (offerings to the setting and rising Sun, standing in a river or pond), Karva Chauth (the fast is broken after seeing the Moon rise, about four days after Poornima), and Pongal (a harvest festival thanking the Sun, around 14–15 January, when the Sun begins its journey northwards in the sky, also called Makar Sankranti). Ask the question at the top of page 162: 'Do you celebrate any festivals in your family or community related to the Sun or the Moon? What do you call them in your language?' Ask: 'Why do you think Diwali, Eid and Holi fall on different dates every year in the ordinary calendar?' (They follow the Moon's month of about 29½ days, which does not fit neatly into our 365-day Sun calendar.)"
+        },
+        {
+          "kind": "act",
+          "title": "Moon diary",
+          "mins": 5,
+          "do": "Fill in tonight's Activity a2 Moon diary. Using the ball-and-lamp model, your child predicts what shape the Moon will be in one week and writes the prediction under today's entry. Check it in a week.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 160–162", "the Moon diary", "a lamp without a shade or a bright torch", "a white ball or an orange and a pencil", "a ₹1 coin", "a dark room"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Chandrayaan and the book's questions",
+      "goal": "Learn about India's Chandrayaan missions and what they found, answer the end-of-chapter questions on day and night and shadows, and apply ideas to new cases.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "India's Chandrayaan Mission (page 162)",
+          "mins": 7,
+          "do": "Read the box on page 162: on 23 August 2023, India's Vikram lander successfully landed on the Moon and collected data about its surface. Add the details: this was Chandrayaan-3, built by ISRO (the Indian Space Research Organisation); it landed near the Moon's south pole, where no spacecraft had landed before; Vikram carried a small six-wheeled rover called Pragyan, which drove about 100 metres and tested the soil. India became the fourth country to land softly on the Moon, after the USSR, the USA and China. Ask: 'Why did it need to land gently?' (A crash would break the instruments; there is no air on the Moon for a parachute, so it used rockets to slow down.) Watch a short ISRO video of the landing if you can."
+        },
+        {
+          "kind": "think",
+          "title": "Is there water on the Moon?",
+          "mins": 8,
+          "do": "Tell the story in Voice v4: for many years after the Apollo astronauts, scientists thought the Moon was bone dry; then India's Chandrayaan-1 (2008), carrying a NASA instrument, found signs of water, and later studies found ice in craters near the poles that never see sunlight. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "talk",
+          "title": "Differences and questions (page 162, Questions 1 and 2)",
+          "mins": 10,
+          "do": "Ask Question 1 on page 162: give two differences between (a) day and night (Sun up or not; light and warm or dark and cooler; stars hidden or visible); (b) the sky in the morning and in the evening (both orange-red near the horizon, but the Sun is in the east in the morning and in the west in the evening; the morning sky gets lighter and the evening sky darker; shadows point west in the morning and east in the evening); (c) our activities during day and night (school, work, play / sleep, rest, dinner together); (d) animals' activities during day and night (crows, cows and butterflies active by day; owls, bats, moths and crickets at night). Then Question 2: Meera's teacher says the Sun appears to move from east to west. Your child writes at least two questions Meera could ask, for example: 'Is the Sun really moving or are we?', 'Why does the Sun rise at different times in summer and winter?', 'Does it rise exactly in the east every day?', 'Is it the same in other countries?'. Answer the first using the spinning demonstration from Day 4."
+        },
+        {
+          "kind": "talk",
+          "title": "Figure it out (page 163, Question 3)",
+          "mins": 5,
+          "do": "Read Question 3 on page 163: you stand at the same spot in the morning and the afternoon, and your shadow points in different directions. Why? Would its length be the same? Good answer: 'In the morning the Sun is in the east, so my shadow points west; in the afternoon the Sun is in the west, so my shadow points east. The length depends on how high the Sun is: at 9 am and 3 pm it could be about the same; nearer noon it is shorter, and near sunrise or sunset it is much longer.' Ask them to show it with the torch and stick from Day 3."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Sky in new situations",
+          "mins": 15,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to apply what they found with the shadow stick, sundial, Moon diary and ball-and-lamp model to new situations. Let them use the torch and ball to test any answer before writing it.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 162–163", "a phone to watch an ISRO video (optional)", "a torch, a stick and clay", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Sky poems, riddles and harder thinking",
+      "goal": "Write a sky poem and finish the shadow riddle, test the Moon-size result, and try the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Get creative with words (page 163, Question 4)",
+          "mins": 15,
+          "do": "Do Question 4 on page 163. (a) Your child writes their own poem inspired by the beauty of the sky, using at least three things they really saw this chapter (the orange sunrise, the birds flying home, the crescent Moon, the Saptarishi, their long evening shadow). It need not rhyme. (b) Complete the riddle: 'Only one colour, but not one size / Appears with light, looks very nice'. Help them add two lines that give more clues, for example: 'Follows you wherever you go / Long in the evening, at noon so low', and answer it: a shadow. Ask: 'Why is a shadow only one colour?' (It is just a place where light is blocked, so it is dark.) Read the poem aloud to the family."
+        },
+        {
+          "kind": "exp",
+          "title": "Moon-size results",
+          "mins": 7,
+          "do": "Complete Experiment e5 if you have both measurements: did the coin at arm's length cover the same amount of the Moon near the horizon and high in the sky? (Yes, almost exactly the same.) If you could not measure yet, do it at the next full Moon and use a photo instead: take a photo of the rising Moon and one of the high Moon with the same phone zoom and compare the size of the Moon in the two photos. Ask: 'If the Moon was the same size, why did it look so much bigger?' Discuss the ideas in Voice v3.",
+          "ref": "e5"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 18,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views. Your child can answer the write items aloud while you scribe. There is no single right answer for section C; praise reasons that use evidence ('because in my Moon diary...').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "act",
+          "title": "Moon diary check",
+          "mins": 5,
+          "do": "Fill in tonight's Activity a2 Moon diary. Check the prediction your child wrote on Day 8: was the shape what they predicted? If not, use the ball and lamp to work out why.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook page 163", "a ₹1 coin or a phone camera", "worksheet ws3", "the Moon diary", "a ball and a lamp"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Check and teach it back",
+      "goal": "Review the sky log, Moon diary and shadow results, answer the check questions, and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Our sky records",
+          "mins": 10,
+          "do": "Lay out everything: the page 152 sky pictures and page 153 table (Activity a1), the shadow-stick chart, the sundial, the Moon diary (Activity a2) and the star drawing. Ask your child to tell you three things they found out that they did not know before the chapter, each with the record that shows it. Good examples: 'The shadow was shortest around 12:20, not 12:00'; 'The Moon rose later each night'; 'The bright side of the Moon grew from the right in the evening sky.' Keep the Moon diary going until you have one full month from Amavasya to Amavasya.",
+          "ref": "a1"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 15,
+          "do": "Ask the 8 check questions aloud, one at a time, and let your child answer without the book; keep a torch, a stick and a ball nearby so they can show as well as tell. Tick the ones answered well. For any missed answer, open the matching pages for a minute (sky and Sun pages 152–154, shadows pages 155–158, night sky and Moon pages 159–162) and redo the quick demonstration, then ask again in different words. Most children get 6 or more right; fewer than 5 means redo the Day 3 torch test and the Day 8 ball-and-lamp model next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 20,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. Using the torch, stick, ball and lamp, the shadow chart and the Moon diary, they teach in 5–7 minutes: why the Sun seems to cross the sky; why shadows are long in the morning and evening, short at noon, and point opposite ways; how a sundial tells time; and why the Moon's shape changes over a month. As the student, ask two tricky questions: 'If the Moon has no light of its own, why does it shine?' (It reflects sunlight, like a mirror or a white wall.) and 'Why can't we see stars in the afternoon?' (The Sun's light brightens the whole sky and hides them.) End by going out together tonight to fill one more Moon diary entry and find the Saptarishi if it is up."
+        }
+      ],
+      "need": ["the sky log, shadow chart, sundial, Moon diary and star drawing", "a torch, a stick, a ball and a lamp"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Sky, Sun and shadows",
+      "day": 6,
+      "sections": [
+        ["A. The sky and the Sun", [
+          {"t": "fill", "p": "The brightest object in the sky is the ____.", "a": ["Sun", "sun"]},
+          {"t": "mcq", "p": "In which direction does the Sun appear to rise?", "opts": ["North", "South", "East", "West"], "a": 2},
+          {"t": "sort", "p": "Sort these by when they usually happen.", "items": ["Owls hunting", "Crows calling and flying out to feed", "Birds flying back to roost", "Crickets chirping", "Lotus flowers open", "Diyas lit at home"], "cats": ["Morning", "Evening or night", "Daytime"]}
+        ]],
+        ["B. Shadows", [
+          {"t": "mcq", "p": "When is your shadow shortest on a sunny day?", "opts": ["Early morning", "Around noon", "Evening", "It is always the same"], "a": 1},
+          {"t": "mcq", "p": "In the torch experiment, what happened when the stick moved closer to the torch?", "opts": ["The shadow got bigger", "The shadow got smaller", "The shadow disappeared", "Nothing changed"], "a": 0},
+          {"t": "fill", "p": "A shadow always falls on the side ____ from the light source.", "a": ["away", "opposite"]},
+          {"t": "draw", "p": "Draw a tree in the evening, with the Sun in the west and the tree's shadow in the right place."}
+        ]],
+        ["C. Telling time", [
+          {"t": "fill", "p": "A device that tells time from a shadow is called a ____.", "a": ["sundial"]},
+          {"t": "write", "p": "Name the giant sundial at Jantar Mantar and the king who built it.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "The sky in new situations",
+      "day": 9,
+      "sections": [
+        ["A. Shadows and the Sun", [
+          {"t": "table", "p": "Copy three readings from your shadow-stick day.", "cols": ["Time", "Shadow length (cm)", "Direction the shadow pointed"], "rows": 3},
+          {"t": "write", "p": "Your friend in Kolkata and your cousin in Mumbai both measure a stick's shadow at exactly 12:00 by the clock. Whose shadow is more likely to be already past its shortest? Why? (Hint: the Sun rises earlier in the east of India.)", "lines": 3},
+          {"t": "mcq", "p": "A cricket match is played under four floodlights at night. Each player will have:", "opts": ["No shadow", "One shadow", "Up to four shadows, pointing different ways", "A shadow only on the side facing the pitch"], "a": 2}
+        ]],
+        ["B. The Moon", [
+          {"t": "mcq", "p": "Why does the Moon shine?", "opts": ["It burns like the Sun", "It reflects sunlight", "It is full of electric lights", "It glows in the dark like a toy"], "a": 1},
+          {"t": "fill", "p": "The night when the Moon cannot be seen is called ____.", "a": ["Amavasya", "new Moon", "new moon"]},
+          {"t": "write", "p": "Today the Moon is a half. In about 7 days will it be full or not visible? How could you find out using your Moon diary and the ball-and-lamp model?", "lines": 3}
+        ]],
+        ["C. Festivals and calendars", [
+          {"t": "match", "p": "Match each festival to the Sky event it follows.", "pairs": [["Diwali", "No Moon (Amavasya)"], ["Buddha Poornima", "Full Moon"], ["Eid", "First thin crescent after the new Moon"], ["Pongal", "The Sun's journey northward in mid-January"], ["Chhath Puja", "Offerings to the setting and rising Sun"]]},
+          {"t": "write", "p": "Why does Diwali come on a different date in the ordinary calendar every year?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Sky puzzles and scientists who disagreed",
+      "day": 10,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "In the ball-and-lamp model, the ball looked full when your back was to the lamp. Why don't we have an eclipse every full Moon? (Hint: remember you held the ball a little above your head.)", "lines": 3},
+          {"t": "write", "p": "Your sundial was right last week but is a few minutes off now. Give two possible reasons.", "lines": 3},
+          {"t": "mcq", "p": "You see the Saptarishi at 8 pm. At 11 pm it has moved. What has really moved?", "opts": ["The stars", "The Earth, by spinning", "The Moon", "Nothing, it is an illusion of tiredness"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if the Earth stopped spinning? What would happen to day and night and to shadows in your town?", "lines": 3},
+          {"t": "write", "p": "What if the Moon gave out its own light like the Sun? Would we still see phases? Explain.", "lines": 2},
+          {"t": "write", "p": "What if you lived on the Moon, where there is no air? Would the sky be blue in the daytime? Use the milk-in-water experiment to explain.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Aryabhata said the Earth spins; many later astronomers said the Earth stands still and the sky turns. Both explain sunrise. What observation could tell them apart?", "lines": 3},
+          {"t": "write", "p": "Scientists still argue about why the Moon looks bigger near the horizon. Your coin test showed it is the same size. Write one idea that might explain it and a test for your idea.", "lines": 3},
+          {"t": "write", "p": "Some scientists hope astronauts can use ice from the Moon's dark craters for water. Others say we do not yet know how much is there. What should the next Moon mission measure?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Why is the sky blue and the sunset orange?",
+      "day": 2,
+      "question": "Why does the sky look blue in the day and orange-red at sunrise and sunset?",
+      "need": ["a tall clear glass or transparent bottle", "water", "milk", "a spoon", "a torch", "white paper", "a dark room"],
+      "steps": [
+        "Fill the glass with water and stir in half a teaspoon of milk.",
+        "In a dark room, shine the torch through the glass from one side.",
+        "Look at the glass from the side and note its colour.",
+        "Hold white paper on the far side of the glass and look at the spot of light that comes through.",
+        "Add a little more milk and look at both again.",
+        "Draw what you see."
+      ],
+      "predict": "Ask your child to guess first: what colour will the milky water look from the side, and what colour will the light be after it has gone right through?",
+      "observe": "From the side the water looks faintly bluish-white. The light that comes out the far end looks yellow-orange, and turns more orange-red when more milk is added.",
+      "why": "Sunlight is a mixture of all the rainbow colours. The air is full of tiny particles (gas molecules) that bounce, or scatter, blue light much more than red light. During the day, blue light is scattered all over the sky and reaches our eyes from every direction, so the sky looks blue. At sunrise and sunset, sunlight comes in low and must pass through much more air to reach us. Most of the blue is scattered away on the long journey, so the light that reaches us directly is mainly orange and red. The milk particles in our glass scatter light in a similar way: blue from the side, orange straight through. Dust and smoke in the air can make sunsets even redder.",
+      "safety": "Never look directly into the torch beam or at the Sun.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "Torch and stick shadows (page 156)",
+      "day": 3,
+      "question": "How does a shadow change when the light source moves closer, farther, or to a different side?",
+      "need": ["a torch", "a pencil or stick", "a lump of dough or clay", "white paper and pencil", "a dark room"],
+      "steps": [
+        "Stand the stick upright in the clay on the white paper.",
+        "Darken the room and shine the torch on the stick from one side.",
+        "Move the stick closer to and farther from the torch; draw the shadow each time.",
+        "Keep the stick still. Move the torch to high above, low on one side, and low on the other side; draw the shadow each time.",
+        "Measure each shadow's length with a ruler."
+      ],
+      "predict": "Ask your child to guess first: will the shadow get bigger or smaller as the stick moves closer to the torch? What will happen to the shadow when the torch is held low, and then high overhead?",
+      "observe": "The shadow is always on the side opposite the torch. It grows bigger as the stick moves closer to the torch. With the torch low down, the shadow is long; with the torch high above, it is short.",
+      "why": "Light travels in straight lines. Where the stick blocks the light, a dark patch, the shadow, is left behind it. When the light is low and to the side, the blocked rays travel a long way across the paper before they reach it, making a long shadow; when the light is high above, the blocked rays hit the paper close to the stick, making a short shadow. When the stick is close to the torch, it blocks a wider spread of rays, so the shadow is bigger. The Sun acts the same way: low in the east in the morning (long shadow pointing west), high at noon (short shadow), and low in the west in the evening (long shadow pointing east).",
+      "safety": "Do not shine the torch into anyone's eyes.",
+      "time": "20 min"
+    },
+    {
+      "id": "e3",
+      "title": "A day of shadows: the shadow stick",
+      "day": 4,
+      "question": "How do the length and direction of a stick's shadow change from morning to evening, and when is it shortest?",
+      "need": ["a straight stick about 30 cm long", "a pot of soil or a lump of clay", "a big sheet of chart paper and stones to hold it down", "a thread with a small weight", "a ruler and pencil", "a watch"],
+      "steps": [
+        "At about 9 am, fix the stick upright on the chart paper in full sun; check it is upright with the weighted thread.",
+        "Mark east (from your sunrise chalk mark) and the other directions on the paper.",
+        "Mark the tip of the shadow with a dot, write the time and measure the length.",
+        "Repeat every hour until about 4 pm. Do not move the stick or the paper.",
+        "Join the dots and find the shortest shadow.",
+        "Write which way the shadow pointed in the morning and in the afternoon."
+      ],
+      "predict": "Ask your child to guess first: at what time will the shadow be shortest? Which way will it point at 9 am and at 4 pm?",
+      "observe": "The shadow is long and points west in the morning, gets shorter towards midday, is shortest around local noon (often a little before or after 12:00 by the clock), then grows longer again pointing east. Across most of India, the noon shadow points roughly north.",
+      "why": "The Earth spins once a day from west to east, so the Sun appears to rise in the east, climb highest at local noon and set in the west. When the Sun is low, its light comes in at a slant and the shadow is long; when it is high, the shadow is short. Because the shadow is always on the side away from the Sun, it swings from west through north to east during the day. Indian Standard Time is the same clock time across the whole country, but the Sun reaches its highest point earlier in the east (Kolkata) than in the west (Mumbai), so the shortest shadow does not happen at exactly 12:00 everywhere. Most of India is north of the Tropic of Cancer, so the noon Sun is high in the southern sky rather than exactly overhead.",
+      "safety": "Do not look at the Sun while checking. Wear a cap and drink water if it is hot.",
+      "time": "10 min to set up + 1-minute checks every hour from 9 am to 4 pm"
+    },
+    {
+      "id": "e4",
+      "title": "Moon phases with a ball and a lamp",
+      "day": 8,
+      "question": "Why does the Moon seem to change shape over a month when it is always a round ball?",
+      "need": ["a lamp without a shade or a bright torch", "a white ball or an orange", "a pencil to push into it", "a dark room"],
+      "steps": [
+        "Put the lamp at one side of the darkened room; it is the Sun.",
+        "Stick the ball on the pencil. Hold it at arm's length, a little above your head; your head is the Earth.",
+        "Face the lamp with the ball in front of it: you see the dark side (new Moon, Amavasya).",
+        "Turn slowly to your left on the spot, keeping your arm straight. Watch the lit part grow: crescent, half, nearly full.",
+        "With your back to the lamp (ball just above your head's shadow), you see the full lit face (Poornima).",
+        "Keep turning: watch it shrink to half, crescent and dark again."
+      ],
+      "predict": "Ask your child to guess first: will the lit part of the ball change as you turn? When will you see it fully lit?",
+      "observe": "The lamp always lights exactly half of the ball. As you turn, you see different amounts of that lit half: none, a thin curve, half, all, then less again.",
+      "why": "The Moon has no light of its own; it shines because sunlight falls on it, and the Sun always lights one half of it. The Moon travels round the Earth once in about 29½ days. When it is between the Earth and the Sun, its lit half faces away from us and we see nothing: Amavasya. As it moves round, we see more and more of the lit half (waxing, shukla paksha) until it is on the far side of the Earth from the Sun and we see the whole lit face: Poornima. Then we see less and less (waning, krishna paksha). The Moon's shape never changes; only our view of its sunlit half does. Because this cycle repeats so regularly, people used it to make the first calendars, and many Indian calendars still count months from one Amavasya or Poornima to the next.",
+      "safety": "Do not touch a hot bulb.",
+      "time": "14 min"
+    },
+    {
+      "id": "e5",
+      "title": "Is the rising Moon really bigger?",
+      "day": 10,
+      "question": "Is the Moon really bigger near the horizon than when it is high in the sky?",
+      "need": ["a ₹1 coin or a pea", "a clear evening near full Moon", "a phone camera (optional)"],
+      "steps": [
+        "When the Moon has just risen, hold the coin at arm's length with your arm fully straight.",
+        "Close one eye and note how much of the Moon the coin covers (just covers it, covers half of it, etc.).",
+        "Two or three hours later, when the Moon is high, repeat with the same coin and a straight arm.",
+        "Optional: take a photo of the Moon at both times with the same zoom and compare its size in the photos.",
+        "Write down what you found."
+      ],
+      "predict": "Ask your child to guess first: will the coin cover less of the big rising Moon than of the high Moon?",
+      "observe": "The coin covers the same amount of the Moon both times, and the photos show it the same size, even though the rising Moon looks much bigger to the eye.",
+      "why": "The Moon is almost the same distance from us all night, so its size in the sky does not really change; it is even very slightly farther away when it is on the horizon. The 'Moon illusion' happens inside our brain, not in the sky. Scientists have offered several explanations: near the horizon we see the Moon next to trees and buildings and the brain may judge it to be very far away and therefore huge; or the brain treats the sky overhead as nearer than the horizon. None of these explanations has been fully agreed on, which is why it is still studied.",
+      "safety": "Only do this with the Moon, never with the Sun.",
+      "time": "5 min at moonrise + 5 min a few hours later"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Sky pictures and sky log (pages 152–154)",
+      "day": 1,
+      "mins": 15,
+      "need": ["Textbook pages 152–154", "notebook", "colour pencils"],
+      "steps": [
+        "Draw the sky in the morning, afternoon and night boxes on page 152, each at its real time.",
+        "Copy the page 153 table and add your observations: sky colour, where the Sun or Moon is, clouds, how warm it feels, birds and sounds.",
+        "Watch one sunrise or sunset and note the changes in the sky, among animals and at home (page 154).",
+        "Add any changes you notice in animals and plants at different times of day.",
+        "Compare your log with a friend's or cousin's."
+      ],
+      "outcome": "Three sky drawings and a filled observation table showing how the sky and living things change through the day."
+    },
+    {
+      "id": "a2",
+      "title": "One-month Moon diary (pages 160–161)",
+      "day": 1,
+      "mins": 10,
+      "need": ["a notebook page with columns: Date, Time, Where in the sky, Shape, Notes", "a calendar or panchang showing Poornima and Amavasya"],
+      "steps": [
+        "Look for the Moon at about the same time each evening, or in the morning when it is waning.",
+        "Note where it is: low in the east, high, or low in the west, and above which landmark.",
+        "Draw its shape, shading the dark part.",
+        "Write any notes: cloudy, not visible, colour, a halo.",
+        "After a week, predict the next week's shapes and check.",
+        "Keep going until you have a whole month from one Amavasya to the next, and copy your drawings into page 160."
+      ],
+      "outcome": "A month of Moon drawings showing the full cycle of phases, made from your child's own observations."
+    },
+    {
+      "id": "a3",
+      "title": "Make a sundial (page 158)",
+      "day": 5,
+      "mins": 20,
+      "need": ["a circle of thick card about 25 cm across", "a pencil or straight stick", "clay", "chalk, ruler and marker", "a sunny flat spot that gets sun all day", "a watch"],
+      "steps": [
+        "Push the stick upright through the centre of the card and fix it with clay.",
+        "Place it on a sunny flat spot and mark the spot and which way it faces with chalk.",
+        "Every hour, on the hour, draw a line along the shadow and write the time.",
+        "Next sunny day, put it back in exactly the same place and direction.",
+        "Read the time from the shadow and compare with a clock.",
+        "Note how close it was and why it might be off."
+      ],
+      "outcome": "A working home-made sundial and a sense of how the Samrat Yantra at Jantar Mantar tells time."
+    },
+    {
+      "id": "a4",
+      "title": "Shadow puppet show (pages 158–159)",
+      "day": 6,
+      "mins": 20,
+      "need": ["thick card", "scissors", "ice-cream sticks and tape", "a white bedsheet or dupatta", "a lamp or torch"],
+      "steps": [
+        "Choose a short story with 2 or 3 characters.",
+        "Draw and cut out the characters from card; cut eye holes for detail.",
+        "Tape each puppet to an ice-cream stick.",
+        "Hang the sheet across a doorway and put the lamp behind it.",
+        "Hold the puppets close to the sheet for sharp shadows; move them nearer the lamp to make them grow.",
+        "Perform the story for the family."
+      ],
+      "outcome": "A short shadow puppet show, linking the science of shadows to India's old puppet traditions."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Aryabhata (born 476 CE), India",
+      "idea": "Aryabhata, an astronomer and mathematician who worked near Pataliputra (today's Patna), wrote the Aryabhatiya in 499 CE, when he was 23. In it he said that the Earth spins on its axis, and that this is why the stars seem to move across the sky from east to west, just as a person in a boat moving forward sees the trees on the shore moving backwards. He also explained that the Moon shines by reflecting sunlight, and that eclipses happen when the shadow of the Earth falls on the Moon or the Moon blocks the Sun, not because of the demons Rahu and Ketu swallowing them.",
+      "then": "Many later Indian astronomers, including the great Brahmagupta, rejected the idea that the Earth spins; some later copyists even changed his verses so they said the opposite. Most astronomers around the world at that time believed that the Earth stood still and the heavens turned around it.",
+      "now": "It is accepted that the Earth rotates once a day from west to east, making the Sun, Moon and stars appear to move from east to west. His explanations of moonlight and eclipses are also accepted. India's first satellite, launched in 1975, was named Aryabhata in his honour.",
+      "status": "accepted",
+      "ask": "When you turned round on the spot, the room seemed to move. From the ground, how could you tell whether the Earth is spinning or the whole sky is turning around us? What would you need to observe?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Maharaja Sawai Jai Singh II (1688–1743), Jaipur, India",
+      "idea": "Jai Singh, the ruler who founded the city of Jaipur, was deeply interested in astronomy. In the early 1700s he built five observatories, the Jantar Mantars, at Delhi, Jaipur, Ujjain, Varanasi and Mathura. He believed that very large instruments, built of stone and plaster, would give more accurate readings than small brass ones. The Samrat Yantra at Jaipur, a sundial about 27 metres tall, has a scale so large that its shadow moves visibly, and it can tell local time to within a few seconds.",
+      "then": "His instruments were admired and used to make new star tables. But in Europe, astronomers were already using telescopes, which could see far more detail than any naked-eye instrument, however big. Jai Singh knew of telescopes but chose to rely mainly on his large masonry instruments.",
+      "now": "The Jaipur Jantar Mantar is a UNESCO World Heritage Site and its instruments still work. Historians agree that they are remarkable for their size and accuracy for naked-eye astronomy, but that telescopes, and later modern instruments, soon overtook them for discovering new things in the sky.",
+      "status": "accepted",
+      "ask": "Jai Singh thought that a bigger instrument is a more accurate one. Is bigger always better? What else, besides size, decides how accurate a sundial is?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "The Moon illusion: from Ptolemy (about 150 CE) to scientists today",
+      "idea": "For thousands of years people have noticed that the Moon (and the Sun) looks much bigger near the horizon than high in the sky. The Greek astronomer Ptolemy and, later, the Arab scientist Ibn al-Haytham (about 965–1040) argued that this happens in our minds, not in the sky: the brain judges the horizon Moon to be farther away, because we see it across houses and trees, and so sees it as bigger.",
+      "then": "For a long time many people believed the air near the horizon magnified the Moon, like a lens. Measurements showed this is not the case: the Moon's size in the sky is the same, or even very slightly smaller, near the horizon.",
+      "now": "Scientists agree it is an illusion created by the brain. But why the brain does this is still argued about: some favour Ibn al-Haytham's 'apparent distance' idea; others say the brain compares the Moon with nearby objects like trees and buildings, or that the angle at which we tilt our eyes matters. No single explanation has won.",
+      "status": "debated",
+      "ask": "Your coin test showed the Moon is the same size. What test could you do to check whether the trees and buildings near the horizon make it look bigger? (Hint: what if you looked at the rising Moon through a rolled-up paper tube, or upside down between your legs?)",
+      "day": 8
+    },
+    {
+      "id": "v4",
+      "who": "ISRO's Chandrayaan-1 (2008) and Chandrayaan-3 (2023) missions, India, and the question of water on the Moon",
+      "idea": "After the Apollo astronauts brought back Moon rocks (1969–1972), most scientists believed the Moon was completely dry. In 2008 India's first Moon mission, Chandrayaan-1, carried a NASA instrument called the Moon Mineralogy Mapper, which in 2009 found signs of water and related molecules spread thinly across the Moon's surface. Later studies, using its data, reported water ice inside deep craters near the poles that never see sunlight. In 2023 Chandrayaan-3's Vikram lander touched down near the south pole, and its Pragyan rover tested the soil there, confirming sulphur and other elements.",
+      "then": "The 2009 finding surprised many scientists, and at first some suspected the signal might be a mistake. It was soon backed up by other spacecraft.",
+      "now": "That there is water on the Moon, mostly locked in rocks and soil, and ice in permanently shadowed polar craters, is accepted. How much ice there is, how deep it lies, and whether astronauts could ever use it for drinking, growing food or making rocket fuel are still open questions, which is one reason so many countries are now sending missions to the Moon's south pole.",
+      "status": "debated",
+      "ask": "Scientists once thought the Moon was bone dry because the first rock samples looked dry. What does this tell us about drawing conclusions from just a few samples? Where would you send the next rover to find out how much ice there is?",
+      "day": 9
+    }
+  ],
+  "check": [
+    {"q": "How does the sky change from morning to afternoon to night?", "a": "Morning: orange-pink sky and an orange Sun low in the east. Afternoon: bright blue sky, strong sunlight, Sun high. Evening: orange-red sky in the west, then dark. Night: Moon and stars visible."},
+    {"q": "Why can't we see stars in the daytime?", "a": "The Sun is so bright that its light fills the whole sky and hides the much fainter stars. The stars are still there."},
+    {"q": "Does the Sun really move across the sky from east to west?", "a": "It only appears to. The Earth spins once a day from west to east, so the Sun seems to rise in the east, climb highest at noon and set in the west."},
+    {"q": "Why are shadows long in the morning and evening and short at noon? Why do morning and evening shadows point opposite ways?", "a": "When the Sun is low, light comes in at a slant and makes long shadows; when it is high at noon, shadows are short. Shadows fall away from the Sun, so they point west in the morning (Sun in the east) and east in the evening (Sun in the west)."},
+    {"q": "In the torch and stick test, how did the shadow change when the stick moved closer to the torch, and when the torch moved?", "a": "Closer to the torch, the shadow got bigger. When the torch moved, the shadow moved to the opposite side; a low torch made a long shadow, a high torch a short one."},
+    {"q": "How does a sundial tell time? Name a famous one in India.", "a": "A stick or edge casts a shadow that moves as the Sun moves across the sky; marks show where the shadow falls at each hour. The Samrat Yantra at Jantar Mantar, Jaipur, built by Raja Jai Singh."},
+    {"q": "Why does the Moon seem to change shape? What are Poornima and Amavasya?", "a": "The Moon shines by reflected sunlight and the Sun always lights half of it; as the Moon goes round the Earth in about a month, we see different amounts of that lit half. Poornima is full Moon (all of the lit face visible); Amavasya is new Moon (none visible)."},
+    {"q": "Name a festival linked to the Moon and one linked to the Sun, and say what Chandrayaan-3 did.", "a": "Moon: Diwali (Amavasya), Raksha Bandhan or Buddha Poornima (full Moon), Eid (first crescent), Karva Chauth. Sun: Pongal, Makar Sankranti, Chhath Puja. Chandrayaan-3's Vikram lander landed near the Moon's south pole on 23 August 2023 and its Pragyan rover studied the soil."}
+  ]
+}

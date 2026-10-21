@@ -1,0 +1,787 @@
+{
+  "key": "cambridge|sci|3|6",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 3,
+  "n": 6,
+  "title": "Forces and movement",
+  "source": "Cambridge Primary Science Learner's Book 3 (Board and Cross, 1st edition, 2014), Unit 6 'Forces and movement' (pages 58–69)",
+  "summary": "Your child learns that pushes and pulls are forces, and that forces can start and stop things moving, make them speed up or slow down, change their direction and change their shape. They compare small and big forces, make and use a forcemeter to measure forces in newtons, and investigate friction, the force that acts when two surfaces rub together, by pulling a toy across different surfaces at home.",
+  "goals": [
+    "By the end your child can say that a force is a push or a pull, and give examples of forces starting, stopping, speeding up, slowing down and changing the direction of moving things.",
+    "By the end your child can describe how forces change the shape of materials, and carry out a fair test dropping a ball or clay from different heights, explaining the pattern.",
+    "By the end your child can compare small, medium and large forces and put everyday forces in order of size.",
+    "By the end your child can explain what a forcemeter is, read one, and say that force is measured in newtons (N), named after Isaac Newton.",
+    "By the end your child can explain that friction acts when two surfaces rub together, that rough surfaces usually make more friction than smooth ones, and plan and carry out a fair friction test."
+  ],
+  "words": [
+    ["force", "a push or a pull"],
+    ["push", "a force that moves something away from you"],
+    ["pull", "a force that moves something towards you"],
+    ["direction", "the way something is moving or facing, such as left, right, up or down"],
+    ["speed up", "go faster (the book says 'get faster')"],
+    ["slow down", "go slower"],
+    ["effect", "what happens because of something; the effect of a force can be a change in movement or shape"],
+    ["observe", "to look carefully and notice what happens"],
+    ["forcemeter", "a tool with a spring and a scale that measures the size of a pull"],
+    ["newton", "the unit we measure force in, written N; an apple about 100 g pulls down with about 1 N"],
+    ["friction", "a force that acts when two surfaces rub together; it slows things down and helps things grip"],
+    ["grip", "to hold on without slipping, like shoes on a floor"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Pushes and pulls everywhere",
+      "goal": "Find out that a force is a push or a pull, read the book's tug of war, play a safe tug of war, and hunt for pushes and pulls at home.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Push or pull?",
+          "mins": 5,
+          "do": "Ask your child to do these and say after each whether it was a push or a pull: open the fridge door (pull), close it (push), switch on the fan (push), open a drawer (pull), squeeze toothpaste (push), pick up a school bag (pull), kick a ball (push). Say: 'Every push and every pull is called a force. You have used forces all morning without knowing the word.'"
+        },
+        {
+          "kind": "read",
+          "title": "Push and pull (page 58)",
+          "mins": 8,
+          "do": "Open the Learner's Book at page 58, Topic 6.1, and read the Words to learn (push, pull, force, start, get faster, slow down, direction). Read: 'Every day you push and pull many things. Push and pull are examples of a force.' Look at the tug of war picture and read the labels: 'Each team pulls hard. They pull with their hands.' 'Each team pushes with their feet.' Ask the book's questions: 'How are the children using pushing forces and pulling forces?' (Hands pull the rope; feet push against the ground so they are not dragged forward.) 'What could they do so that they don't get hurt?' (Play on soft grass, wear shoes with grip, not wrap the rope round hands, let go together, have an adult start and stop it.) Read the photo caption about the 'great tug of war' in Naha, Okinawa, Japan, with ropes of rice straw 2 m thick and over 300 m long. Ask: 'How many children would fit along a rope 300 m long?'"
+        },
+        {
+          "kind": "game",
+          "title": "Safe tug of war",
+          "mins": 10,
+          "do": "Use a thick rope, or two old dupattas or sarees twisted together, on grass, a durrie or a mat. Mark the middle with a ribbon and draw a line on the ground. Your child plays against you (you pull gently) or against a sibling or cousin. Play three rounds. Afterwards ask: 'Where did you feel the pull? Where did you feel the push?' (Pull in the arms and hands, push in the legs and feet against the ground.) 'When both teams pulled equally hard, what happened to the ribbon?' (It did not move.) Explain: 'When two forces are the same size and pull opposite ways, nothing moves. When one is bigger, the rope moves that way.'"
+        },
+        {
+          "kind": "do",
+          "title": "Push and pull hunt",
+          "mins": 12,
+          "do": "Your child draws two columns in the notebook, Push and Pull, and walks round the home for 10 minutes finding things that need a push or a pull to work. Expect: door handle (pull), light switch (push), tap (turn: a push on one side and a pull on the other), zip (pull), mixer button (push), curtains (pull), rolling a chapati with a belan (push), drawing water from a bucket rope (pull), pram or trolley (push), opening a dabba lid (pull). They write at least 6 in each column."
+        },
+        {
+          "kind": "talk",
+          "title": "What forces do",
+          "mins": 5,
+          "do": "Read the bottom of page 58: 'Forces can start and stop things moving. They can also make things get faster, slow down or change direction.' For each, ask your child for an example from cricket: start (the bowler throws the ball), stop (the fielder catches it), get faster (the batsman hits a slow ball hard), slow down (the grass on the field), change direction (the bat sends the ball the other way). Tell them that tomorrow they will try all of these with their own hands."
+        }
+      ],
+      "need": [
+        "Learner's Book page 58",
+        "a thick rope or two old dupattas twisted together",
+        "a ribbon, a soft space outdoors or a mat",
+        "notebook and pencil"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Forces start and stop things moving",
+      "goal": "Do the book's Activity 6.1 with a ball, a balloon, water, a chair and a pencil, answer the questions, and think about magnets and forces.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 6.1: Forces start and stop things moving (page 59)",
+          "mins": 18,
+          "do": "Do Activity a1. Read Activity 6.1 on page 59. Gather the book's objects: a ball, some water in a bowl, a balloon, a chair and a pencil. Part 1: 'Find ways to start each of your objects moving. See if you can feel the push or pull you are using.' (Roll the ball, blow on the water or stir it, tap the balloon, drag the chair, flick the pencil.) Part 2: 'Now find ways to stop each of the objects from moving.' (Trap the ball with a foot, hold the spoon still in the water, catch the balloon, hold the chair, put a finger in front of the pencil.) Part 3: 'Find ways to change the direction in which each object moves.' (Kick the rolling ball sideways, tap the floating balloon upwards, swirl the water the other way.) Your child records each in a table: Object, How I started it, How I stopped it, How I changed its direction, Push or pull?",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 (page 59)",
+          "mins": 8,
+          "do": "Ask Question 1: 'Make a list of forces you have used so far today.' (Pushing the bathroom door, pulling up socks, pushing the toothbrush, pulling the chair to the table, pushing food into the mouth with a spoon.) Question 2: 'List five things you move with a pulling force.' (A drawer, a zip, a fridge door, a school bag, a kite string, a bucket from a well, a dog on a lead.) Question 3: 'Name a game in which you change the direction of a ball.' (Cricket, football, badminton with a shuttle, tennis, kabaddi does not use a ball, but hockey and volleyball do.)"
+        },
+        {
+          "kind": "do",
+          "title": "Talk about it: What have magnets got to do with forces? (page 59)",
+          "mins": 10,
+          "do": "Look at the photo on page 59 of a magnet picking up pins: 'Magnets can be used to pick up magnetic objects.' Read the Talk about it question. Use the magnet from Unit 5. Put a steel paper clip on the table and bring the magnet slowly closer: the clip jumps to the magnet without being touched. Ask: 'Is that a push or a pull?' (A pull.) Take two magnets and turn one round: they push each other apart. Explain: 'A magnet's force can pull or push without touching. So can the Earth: when you drop a ball, the Earth pulls it down without touching it. That pull is called gravity.' Drop a ball and ask: 'What started it moving?' (Gravity, a pull.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Read what we learnt",
+          "mins": 4,
+          "do": "Read the 'What you have learnt' box on page 59: push and pull are examples of a force; we can use forces to start things moving, stop things moving and change their direction. Your child writes the three ideas in the notebook with a small drawing for each, using their own examples from today."
+        }
+      ],
+      "need": [
+        "Learner's Book page 59",
+        "a ball, water in a bowl, a balloon, a chair, a pencil",
+        "a magnet (from Unit 5) or two, steel paper clips"
+      ],
+      "prep": [
+        {
+          "task": "Blow up a balloon and fill a large bowl with water",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "How hard did you push? The rolling ball challenge",
+      "goal": "Plan and do the book's Challenge: how does the size of a push affect how far a ball moves? Then find out how people's ideas about pushing and moving changed from Aristotle to Newton.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Plan the Challenge (page 59)",
+          "mins": 8,
+          "do": "Read the Challenge on page 59: 'How could you investigate how the size of the push or pull you give to a ball affects how far it moves?' Ask your child to plan before you show them anything: 'How can we make the push the same each time, or bigger in steps?' A good plan: use a ramp (a tray, a board or a big book propped on other books) and let the ball roll down from different heights; a higher start gives a bigger push from gravity. Or pull back a rubber band catapult by 2 cm, 4 cm, 6 cm. Keep the same ball, the same floor and the same ramp. Measure how far it rolls with a measuring tape."
+        },
+        {
+          "kind": "exp",
+          "title": "Run the ramp test",
+          "mins": 17,
+          "do": "Do Experiment e1. Prop one end of a tray or board on one book, then two, then three, then four, to make the ramp higher each time. Your child lets a tennis ball or small rubber ball roll from the top (let go, do not push). Measure from the bottom of the ramp to where the ball stops, using a measuring tape. Do each height 3 times and record all three in a table: Number of books, Distance 1, Distance 2, Distance 3. Ask: 'Why do we do each height three times?' (Because results vary a bit; three tries show the usual result and we can spot a mistake.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Aristotle, Newton and the ball that keeps rolling",
+          "mins": 15,
+          "do": "Tell the story in Voice v1 in your own words. Ask first: 'Why did the ball stop rolling in the end? Did it get tired?' Let your child answer. Then explain that a famous Greek thinker, Aristotle, taught that moving things naturally stop unless something keeps pushing them, and people believed this for nearly two thousand years. Isaac Newton, whom the unit of force is named after, said the opposite: a moving thing keeps moving unless a force, such as rubbing on the floor or air pushing against it, slows it down. Roll the ball on a smooth tiled floor and then on a durrie or carpet: 'On which does it go further? What is slowing it down?' (The rough durrie rubs more.) Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 59",
+        "a tray or a board, 4 thick books",
+        "a tennis ball or small rubber ball",
+        "a measuring tape, a durrie or carpet"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Forces change the shape of things",
+      "goal": "Learn that forces can change the shape of materials, see how potters, bakers and carpenters use forces, and do the book's clay drop investigation from different heights.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Ramp test conclusion",
+          "mins": 4,
+          "do": "Look at yesterday's Experiment e1 table. Your child finds the usual distance for each height and writes a conclusion: 'The bigger the push (the higher the ramp), the further the ball rolled.' Ask: 'Did any of the three tries look wrong? Why might that be?' (The ball hit something, or was pushed by mistake.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Changing shape (page 60)",
+          "mins": 7,
+          "do": "Read page 60, Topic 6.2, and the Words to learn (observe, effect). Read: 'Forces can change the shape of things.' Look at the three photos: 'This potter is using a force to create a clay pot.' 'A baker uses a force when making bread.' 'This carpenter is using a force to carve the wood.' Ask: 'Which forces are they using, push or pull?' (The potter pushes the clay with hands on the wheel and pulls it upwards; the baker pushes and stretches dough; the carpenter pushes the chisel.) Talk about Indian examples: the kumhar making diyas and matkas, a roti being rolled with a belan, the carpenter making a door, the goldsmith hammering a bangle."
+        },
+        {
+          "kind": "do",
+          "title": "Shape the dough",
+          "mins": 7,
+          "do": "Give your child a ball of atta dough (or play dough). Ask them to change its shape using only forces: squash (push) it flat into a roti, roll it into a long snake (push and roll), stretch (pull) it, twist it, and press a thumb into it to make a little diya. Ask after each: 'Which force did you use? Does the dough stay in its new shape?' (Yes, dough stays changed.) Then squeeze a sponge or a rubber ball and let go: 'Does it stay squashed?' (No, it springs back.) Explain: some materials keep their new shape (dough, clay), some spring back (sponge, rubber band), and some break (a biscuit)."
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 6.2a: Investigating forces with a ball of clay (page 60)",
+          "mins": 18,
+          "do": "Do Experiment e2. Read Activity 6.2a on page 60: 'Drop a ball of clay from a height of 5 cm. Observe what happens to the ball of clay. Write down your observations or draw what the clay looks like. Shape the clay into a ball again. Drop the ball from a height of 10 cm. What is the effect on the ball of clay? Drop the ball of clay from three more different heights.' Use modelling clay, play dough or a ball of atta dough about the size of a lemon. Stand a ruler on the floor and drop the ball from 5 cm, 10 cm, 20 cm, 40 cm and 80 cm onto a tile or a steel plate. After each drop your child measures the width of the flat bottom with a ruler, draws it, and reshapes the ball the same size. Then do the book's last task: 'Use ideas about forces to explain the pattern.'",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Explain the pattern",
+          "mins": 4,
+          "do": "Ask: 'What happened as the height got bigger?' (The flat part got wider; the ball was more squashed.) 'Why?' Good answer: 'From higher up, gravity speeds the ball up more, so it hits the floor faster and the floor pushes back on it harder. A bigger force makes a bigger change of shape.' Write the pattern as one sentence: 'The higher the drop, the more squashed the clay.'"
+        }
+      ],
+      "need": [
+        "Learner's Book page 60",
+        "a ball of modelling clay, play dough or atta dough",
+        "a ruler, a tile floor or steel plate",
+        "a sponge or rubber ball"
+      ],
+      "prep": [
+        {
+          "task": "Knead a fist-sized ball of atta dough and keep it covered (or buy modelling clay)",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Dropping a ball onto objects, and forces that shape the land",
+      "goal": "Do the book's dropping test on different foods and materials fairly, answer the questions on changing shape, discuss how nature's forces shape the land, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Activity 6.2b: Dropping a ball onto objects (page 61)",
+          "mins": 15,
+          "do": "Do Experiment e3. Read Activity 6.2b on page 61. First: 'Try using your hands to change the shape of the objects in front of you. Which were easy to change?' Set out the book's objects: a biscuit, a lump of clay or dough, a raw vegetable (a slice of raw potato or carrot), a cooked vegetable (a piece of boiled potato) and a stone. Then make a tall tube by rolling a chart paper or newspaper into a tube about 40 cm tall and wide enough for the ball. Stand it on each object in turn on a steel plate, and drop the same heavy ball (a cricket ball in a sock, or a big steel marble) from the top. Copy the book's table: Object, Prediction, Result; the book's example row is biscuit: predicted 'break', result 'broke into 5 pieces'. Ask: 'How will you make it a fair test?' (Same ball, same tube, same height, same size pieces.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 61)",
+          "mins": 6,
+          "do": "Ask Question 1: 'Do all materials change shape when they are pulled or pushed by hand?' (No; the stone did not change, the dough did, the biscuit broke, a sponge changes and springs back. Some materials need a much bigger force.) Question 2: 'List some workers who have to change the shape of materials.' (Potter/kumhar, baker, roti-maker, carpenter, blacksmith, goldsmith, tailor cutting cloth, sculptor carving stone, cobbler, a mason cutting bricks.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: How do forces in nature change the shape of the land? (page 61)",
+          "mins": 7,
+          "do": "Read the Talk about it question. Help your child think of nature's pushes and pulls: rivers push sand and stones along and cut valleys (the Ganga carries silt down to the delta in Bengal); sea waves push against cliffs and beaches (the coasts of Kerala and Odisha change shape); wind pushes sand into dunes in the Thar desert; rain washes soil down hills, causing landslides in the monsoon; glaciers push rocks in the Himalayas; and over millions of years the land carrying India pushed slowly into Asia and crumpled the rock up into the Himalayas. Ask: 'Which of these is fast and which is very slow?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Your child does Worksheet ws1 (core). Read questions aloud if needed but let them answer alone. Check together and go back to pages 58–61 for any wrong answers.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 61",
+        "a biscuit, a lump of dough, a slice of raw potato or carrot, a piece of boiled potato, a stone",
+        "a chart paper or newspaper rolled into a 40 cm tube, sticky tape",
+        "a heavy ball (cricket ball in a sock or a big marble), a steel plate"
+      ],
+      "prep": [
+        {
+          "task": "Boil one small potato and let it cool",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Small forces and big forces",
+      "goal": "Compare small and large forces, read Omar's elastic toys, investigate with a balloon how much force it takes to move different objects, and put forces in order.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How big is that force? (page 62)",
+          "mins": 8,
+          "do": "Read page 62, Topic 6.3: 'There are small forces and big forces.' Look at Omar pulling his toys with elastic bands. Ask the book's questions: 'He is pulling with more force on some toys. How can you tell that this is the case?' (The elastic is stretched longer.) 'What toy do you think needs the biggest force?' (The one with the most stretched elastic, usually the heaviest.) Then the photos: 'It takes a bigger force to pull this vehicle.' 'This girl is using a small force to pull on the empty sledge.' 'A volcano has so much force it can blast large rocks high in the air.' Tell your child India has one active volcano, on Barren Island in the Andaman Sea."
+        },
+        {
+          "kind": "do",
+          "title": "Omar's elastic pull",
+          "mins": 8,
+          "do": "Copy Omar's idea. Tie a rubber band to a small toy car, a steel tiffin box, a school bag and a book. Your child pulls each along the floor by the rubber band, slowly and steadily, while you hold a ruler beside the band to see how long it stretches. Record: Object, Length of stretched band (cm). Ask: 'Which needed the biggest pull? How do you know?' (The band stretched most.) 'So a rubber band can show us how big a force is.' Keep this idea for Day 7."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 6.3: Investigating how much force (page 63)",
+          "mins": 14,
+          "do": "Do Activity a2. Read Activity 6.3 on page 63: 'Push against different objects with a balloon until they move. The bigger the force you need to move the object, the more squashed the balloon will be. Choose five objects to push against. Record your results. Say whether you used a very small force, a medium force or a large force.' Blow up a balloon (not too full). Your child pushes, through the balloon, against: a plastic cup, a book, a chair, a full bucket of water, and the wall. Watch how squashed the balloon gets. Record: Object, How squashed?, Very small / medium / large force. Ask: 'Did the wall move? Was there still a force?' (Yes, there was a large push even though the wall did not move.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 63)",
+          "mins": 7,
+          "do": "Ask Question 1: 'Put these in order from the biggest force to the smallest force: a horse pulling a cart, a girl lifting a book, a train pulling wagons, a bird picking up a leaf.' (Train pulling wagons, horse pulling a cart, girl lifting a book, bird picking up a leaf.) Ask why for each. Question 2: 'Saida stretches an elastic band. Is this a pulling force or a pushing force?' (Pulling.) Look at the photo on page 63: 'All sorts of large things can be moved with a large force' (a whole house on a truck!)."
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: How could you measure the size of a force? (page 63)",
+          "mins": 3,
+          "do": "Read the Talk about it question. Let your child suggest ideas: 'how far a rubber band stretches', 'how squashed a balloon or a sponge gets', 'a weighing scale'. Say: 'Tomorrow we will build a real force-measuring tool from a rubber band.'"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 62–63",
+        "rubber bands, a toy car, a steel tiffin, a school bag, a book, a ruler",
+        "a balloon, a plastic cup, a chair, a bucket of water"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Build a forcemeter",
+      "goal": "Make a rubber band forcemeter, mark a scale on it with known pulls, and meet Robert Hooke, who found the rule that makes spring forcemeters work.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Make a rubber band forcemeter",
+          "mins": 20,
+          "do": "Do Activity a3. Tape a 30 cm ruler, or a strip of card 30 cm long, upright to the side of a table or a door frame. Hang a rubber band from a drawing pin or a hook at the top of the strip. Unbend a paper clip into an S-hook and hang it from the bottom of the band. Make a small 'bucket' from a polythene bag with handles. Mark where the bottom of the band is with nothing in the bag: write '0'. Put one 100 g packet (of salt, dal or tea) in the bag: mark the new position '1 N'. Add a second 100 g packet: mark '2 N'. Keep going to 5 N. Explain: 'Something with a mass of 100 grams pulls down with a force of about 1 newton. So our marks are in newtons.' Ask: 'Are the gaps between marks about the same?' (Roughly, for a rubber band; a real spring gives very even gaps.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "do",
+          "title": "Test the forcemeter",
+          "mins": 8,
+          "do": "Take the bag off and hang different objects from the hook: an apple, a steel spoon, a pencil box, a small water bottle. Your child reads the scale and writes each force in newtons. Then check: 'An apple of about 100 g should read about 1 N. Did it?' If you have a kitchen scale, weigh each object in grams and divide by 100 to compare."
+        },
+        {
+          "kind": "think",
+          "title": "Robert Hooke and the stretching spring",
+          "mins": 12,
+          "do": "Tell the story in Voice v2: in 1678 an English scientist, Robert Hooke, published his finding that a spring stretches in proportion to the force pulling it: double the pull and you get double the stretch. Ask your child to test it on their forcemeter: 'Did 2 N stretch the band about twice as far as 1 N?' Rubber bands follow the rule only roughly; metal springs follow it closely until they are overstretched. Show the spring inside a ballpoint pen or a luggage scale if you have one. Ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "a 30 cm ruler or card strip, sticky tape, a drawing pin or hook",
+        "2–3 strong rubber bands, a paper clip, a small polythene bag with handles",
+        "five 100 g packets (salt, dal or tea), a marker",
+        "an apple, a spoon, a pencil box, a small water bottle; a kitchen scale if you have one",
+        "a spring from a ballpoint pen, or a luggage spring scale"
+      ],
+      "prep": [
+        {
+          "task": "Collect five sealed 100 g packets (or weigh 100 g of dal into five small bags)",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Forcemeters and newtons",
+      "goal": "Read about forcemeters and the newton, then do the book's Activity 6.4: predict and measure different pulling forces at home, record them in a table and draw a bar chart.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Forcemeters (page 64)",
+          "mins": 8,
+          "do": "Read page 64, Topic 6.4, and the Words to learn (forcemeter, newton). Read: 'If you push on a door with foam you can see the size of the push. Aleksy and Peng both push on a piece of foam. We can see how hard they push.' Ask: 'Who pushed harder? How can you tell?' (The foam is more squashed.) Then: 'A forcemeter is a piece of equipment that measures the size of a force. Forcemeters measure the size of pulls. The unit of force is the newton (N). The unit is named after the famous scientist Isaac Newton, who did a lot of work on forces.' Look at the forcemeter picture and point out the spring inside, the hook and the scale. Compare with your homemade one."
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 6.4: Measuring forces (page 65)",
+          "mins": 22,
+          "do": "Do Experiment e4. Read Activity 6.4: 'Use a forcemeter to measure different pulling forces around your school. Before you measure, predict which object will need the biggest force to pull it.' Do it around your home with the rubber band forcemeter (or a luggage spring scale, where 1 kg on the scale is about 10 N). Choose 6 pulls: opening the fridge door, opening a drawer, pulling a chair along the floor, lifting a school bag, opening a cupboard, pulling a slipper along the floor. Hook the forcemeter on (tie a loop of string to handles), pull slowly and steadily until the object just starts to move, and read the biggest number. Your child predicts the order first, then measures each 2 times and records in a table: Pull, Prediction (order), Force in N. Then they draw a bar chart: pulls along the bottom, newtons up the side.",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Compare predictions",
+          "mins": 10,
+          "do": "Do the book's last task: 'Compare your predictions with what you found out.' Ask: 'Which pull was biggest? Was that what you predicted? Which surprised you?' (The fridge door often surprises children because of the magnet strip in its seal pulling it shut.) Ask: 'Why should we pull slowly and steadily?' (A sudden jerk gives a bigger reading for a moment, so the test would not be fair.) 'Why did we measure twice?' (To check the reading.)"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 64–65",
+        "the homemade forcemeter or a luggage spring scale",
+        "string for loops",
+        "squared paper and coloured pencils for the bar chart"
+      ],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Forces in sport, and measuring pushes",
+      "goal": "Look at forces in sport, answer the questions on newtons and sports equipment, find a way to measure pushes, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Forces in sport and nature (page 65)",
+          "mins": 7,
+          "do": "Look at the four photos on page 65 and read each caption: 'Tennis players use forces of different sizes to control the ball.' 'The forces in the ropes will be different for different climbers.' 'A cycle helmet must be strong enough to protect the cyclist if their head gets hurt by a force.' 'The wind creates a force on the sail which moves the boat through the water.' For each, ask: 'Is it a push or a pull? What does the force do: start, stop, speed up, slow down, change direction or change shape?' (Tennis: push, changes direction and speed; rope: pull, holds the climber up; helmet: takes the push of a crash and spreads it out; sail: wind pushes, starts and speeds up the boat.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 65)",
+          "mins": 6,
+          "do": "Ask Question 1: 'What is the unit of measurement of force: a newton, a forcemeter or a pull?' (A newton. A forcemeter is the tool; a pull is a kind of force.) Question 2: 'Why is it important for equipment for sport to be strong?' (So it does not break when big forces act on it; a broken bat, rope or helmet could hurt someone. A cricket bat must take the push of a fast ball; a climbing rope must hold a climber's pull.)"
+        },
+        {
+          "kind": "do",
+          "title": "Talk about it: What could you use to measure pushing forces? (page 65)",
+          "mins": 12,
+          "do": "Read the Talk about it question. Bring out a bathroom weighing scale (if you have one) or a kitchen scale. Ask: 'When you stand on a bathroom scale, are you pushing or pulling it?' (Pushing it down.) 'So a bathroom scale measures a push.' Your child pushes down on the bathroom scale with one hand, then two hands, then as hard as they can, and reads the number each time. Explain that the scale shows kilograms, and each kilogram of push is about 10 newtons, so a 20 kg push is about 200 N. Ask them to measure: pressing with one finger, pressing with a whole palm, sitting on it. Record the pushes and convert them to newtons together."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Your child does Worksheet ws2 (stretch), using forces and forcemeters in new situations. Talk through any answer they are unsure of by asking 'Is it a push or a pull? What is the force doing? How big is it?'",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 65",
+        "a bathroom scale or kitchen scale"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Friction: the rubbing force",
+      "goal": "Learn what friction is, feel it, find where it helps and where it is a nuisance, and meet the long story of who discovered the rules of friction.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Friction (page 66)",
+          "mins": 9,
+          "do": "Read page 66, Topic 6.5, and the Words to learn (friction, grip, smooth, rough). Read: 'Friction is a force that acts when two surfaces rub together. Some materials cause more friction than others.' Do the book's task: 'Rub your hands together. Feel them rubbing and getting warm.' Then read each caption: 'You can go very fast down a slide. There will be friction between your clothes and the surface of the slide.' 'Friction can start and stop things moving. You need the friction between the floor and your shoes to help you start walking.' 'There is friction between the bottom of your shoes and the floor which helps your shoes to grip the floor surface. This stops you from sliding.' 'Ice is slippery. There is little friction between the puck and the ice and so the puck slides easily.' 'If you roll something across a surface, friction will cause it to slow down. It will stop at some point. Friction also helps things to change direction.' 'The friction between the ball and the bat helps the ball to change direction.'"
+        },
+        {
+          "kind": "do",
+          "title": "Feel friction",
+          "mins": 10,
+          "do": "Try four quick tests. (1) Rub dry hands together fast for 10 seconds, then rub soapy hands: 'Which felt warmer? Which slid more easily?' (Dry: more friction, more heat; soap makes it slippery.) (2) Walk in socks on a tiled floor, then in rubber chappals (carefully!): 'Which grips better?' (3) Look at the bottom of a sports shoe and a school shoe: the bumpy rubber pattern (tread) gives more grip. (4) Push a heavy book across a smooth table, then across a towel: 'Which is harder?' Each time ask: 'Is friction helping or getting in the way here?'"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Friction helpers and nuisances",
+          "mins": 9,
+          "do": "Walk round the home or the building and make two lists. Friction helps: shoes on the floor, brakes on a cycle (rubber pads squeeze the wheel), tyres gripping the road, a matchstick lighting when struck, holding a pencil, a rope not slipping in your hands, chalk on a board. Friction is a nuisance: a squeaky door hinge (we oil it), a stiff drawer, a cycle chain that needs oil, shoes wearing out, a heavy almirah hard to slide. Ask: 'How do people make friction less?' (Oil, grease, wheels, ball bearings, smooth surfaces, soap.) 'And more?' (Rough soles, sand on slippery paths, grip tape on cricket bat handles.)"
+        },
+        {
+          "kind": "think",
+          "title": "Leonardo da Vinci's lost notes on friction",
+          "mins": 12,
+          "do": "Tell the story in Voice v3: around 500 years ago, Leonardo da Vinci, the Italian artist and inventor, measured friction by pulling blocks across tables and wrote down rules for it in his notebooks. But his notebooks were not published, and about 200 years later a French scientist, Guillaume Amontons, discovered the same rules again. Try one of Leonardo's tests: pull a matchbox or a brick-shaped box along the table with the homemade forcemeter, once lying flat on its big side and once standing on its narrow side. Ask your child to predict which needs more force. (Usually about the same, which is what Leonardo found: friction depends on how hard the surfaces press together, not on how much of the surface touches.) Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 66",
+        "soap and water, socks and rubber chappals, a sports shoe and a school shoe",
+        "a heavy book, a towel",
+        "a matchbox or small box, the homemade forcemeter"
+      ],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Forces and friction: a fair test",
+      "goal": "Plan and carry out the book's friction investigation, pulling a toy across different surfaces with a forcemeter, answer the questions, and think about why ice is slippery.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Activity 6.5: Forces and friction (page 67)",
+          "mins": 20,
+          "do": "Do Experiment e5. Read Activity 6.5 on page 67: 'You can use a forcemeter to find out about friction. If there is more friction, you will need a bigger force to make something move. Plan an investigation. You will pull a trolley across different surfaces with a forcemeter. Predict which surface will produce the most friction. Try using a very smooth surface and a rough surface. How will you measure this? How will you record your results?' Let your child plan first: what to change (the surface), what to keep the same (the same toy, the same load, pulling slowly and steadily, reading the force just as it starts to move). Use a toy car or a small box with a 200 g packet inside, tied to the homemade forcemeter. Test 5 surfaces: a smooth tile floor, a steel thali, a towel or durrie, a sheet of sandpaper or a gravel path, and a wooden table. Measure each 3 times. Record: Surface, Prediction, Force 1, Force 2, Force 3. Then: 'When you have done the test, decide what your conclusion is.'",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 67)",
+          "mins": 6,
+          "do": "Ask Question 1: 'When does friction act?' (When two surfaces rub together, or try to slide over each other.) Question 2: 'Faye loves her garden slide. She finds that when she wears cotton clothes she goes faster than when she wears woollen clothes. Explain why.' (Cotton is smoother than wool, so there is less friction between cotton and the slide; wool is rough and fluffy, so it rubs more and slows her down.) Read the What you have learnt box: friction acts when two surfaces rub together; the size of the friction force depends on the two surfaces."
+        },
+        {
+          "kind": "think",
+          "title": "Talk about it: Why are some shoes safer to wear on ice than others? And why is ice slippery? (page 67)",
+          "mins": 14,
+          "do": "Read the Talk about it question. Good answers: shoes with rough, bumpy rubber soles and deep treads grip better and give more friction; smooth leather or plastic soles slip; people in snowy places such as Ladakh or Kashmir use boots with deep treads or even spikes. Then ask: 'But why is ice so slippery in the first place?' Let your child guess. Tell the story in Voice v4: scientists have argued about this for about 170 years and still do not completely agree. Put an ice cube on a plate and push it with a finger, then push a steel spoon across the same plate: 'The ice slides much more easily. What is different about it?' Ask the voice question.",
+          "ref": "v4"
+        }
+      ],
+      "need": [
+        "Learner's Book page 67",
+        "a toy car or small box, a 200 g packet, string, the homemade forcemeter",
+        "test surfaces: tile floor, steel thali, towel or durrie, sandpaper or gravel, wooden table",
+        "an ice cube, a plate, a steel spoon"
+      ],
+      "prep": [
+        {
+          "task": "Make ice cubes; find sandpaper (from a hardware shop) or a gravel patch",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress questions, check understanding, do the challenge worksheet, and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 68–69)",
+          "mins": 9,
+          "do": "Do the Check your progress questions on pages 68–69 together. Question 1: a ball is bouncing towards Kamili. (a) How can she stop it? (Catch it, or put her foot or hand in its way: a push against its movement.) (b) How can she change the ball's direction? (Hit or kick it at an angle, or bat it away.) Question 2: which of the three forcemeters, reading 5 N, 10 N and 20 N, is measuring the greatest force? (C, 20 N; its spring is stretched furthest.) Question 3: read Alex's bar chart of the force needed to pull his skateboard over different surfaces: (a) the hardest surface to pull on has the tallest bar; (b) the easiest has the shortest bar. Question 4: which surface creates the most friction with a skateboard, wood, grass or stone? Explain. (Use the chart; grass is usually the roughest and bumpiest for small wheels, so it gives the most friction.)"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, look at the right page together for a minute and ask it again differently. 5 or more is good; fewer than 4 means repeat the forcemeter day (Day 8) and the friction test (Day 11) next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 11,
+          "do": "Your child does Worksheet ws3 (challenge): puzzles about forces, a 'what if' about friction, and comparing scientists' ideas. Let them think aloud; praise reasons that use evidence from their own tests.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher and you or a grandparent are the student. Using the real things from this unit (the rope, the ramp and ball, the squashed clay, the balloon, the homemade forcemeter, the friction table), they teach for 5 minutes: what a force is; what forces can do (start, stop, speed up, slow down, change direction, change shape); small and big forces; how a forcemeter works and what a newton is; and what friction is, when it helps and when it is a nuisance. Ask two student questions: 'Why does a rolling ball stop?' and 'Why do cricket shoes have spikes?' Praise any answer that uses their own measurements."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 68–69",
+        "the rope, ramp, ball, clay, balloon, forcemeter and results tables from this unit"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Pushes, pulls and changing shape",
+      "day": 5,
+      "sections": [
+        ["A. Push or pull?", [
+          {"t": "sort", "p": "Is each one a push or a pull?", "items": ["opening a drawer", "kicking a football", "switching on a light", "flying a kite on its string", "squeezing toothpaste", "lifting a school bag", "rolling a chapati", "opening the fridge"], "cats": ["Push", "Pull"]},
+          {"t": "fill", "p": "A push or a pull is called a ____.", "a": ["force"]}
+        ]],
+        ["B. What forces do", [
+          {"t": "match", "p": "Match each cricket moment to what the force does.", "pairs": [["The bowler throws the ball", "Starts it moving"], ["The fielder catches the ball", "Stops it moving"], ["The batsman hits the ball back", "Changes its direction"], ["The grass rubs on the rolling ball", "Slows it down"]]},
+          {"t": "mcq", "p": "In a tug of war, the feet of each team:", "opts": ["Pull on the rope", "Push against the ground", "Do nothing", "Pull the other team"], "a": 1}
+        ]],
+        ["C. Changing shape", [
+          {"t": "mcq", "p": "When the clay ball was dropped from higher up, it:", "opts": ["Stayed round", "Got more squashed", "Bounced higher", "Got bigger"], "a": 1},
+          {"t": "sort", "p": "What happens when you squeeze each one hard and let go?", "items": ["atta dough", "sponge", "biscuit", "rubber ball", "clay", "stone"], "cats": ["Keeps new shape", "Springs back", "Breaks", "No change"]},
+          {"t": "write", "p": "Name a worker who changes the shape of a material and say which force they use.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Measuring forces in new situations",
+      "day": 9,
+      "sections": [
+        ["A. Sizes of force", [
+          {"t": "write", "p": "Put these in order from smallest force to biggest: an ant carrying a grain of rice, an auto-rickshaw pulling away, a child pulling a toy car, an elephant pushing a log.", "lines": 2},
+          {"t": "write", "p": "Ravi pushes a balloon against a pillow and then against the almirah. Which squashes the balloon more? What does that tell you?", "lines": 2}
+        ]],
+        ["B. Forcemeters", [
+          {"t": "fill", "p": "Force is measured in ____ (N).", "a": ["newtons", "newton"]},
+          {"t": "mcq", "p": "A 100 g packet of salt hangs on a forcemeter. The reading is about:", "opts": ["100 N", "10 N", "1 N", "0 N"], "a": 2},
+          {"t": "table", "p": "Write four pulls you measured on Day 8 and their sizes.", "cols": ["Pull", "Force (N)"], "rows": 4},
+          {"t": "write", "p": "Why should you pull the forcemeter slowly and steadily, not with a jerk?", "lines": 2}
+        ]],
+        ["C. Forces around us", [
+          {"t": "match", "p": "Match each picture idea to the force.", "pairs": [["Wind on a sail", "A push that moves the boat"], ["A climbing rope", "A pull that holds the climber"], ["A magnet and a pin", "A pull without touching"], ["A dropped ball", "Gravity pulling it down"]]},
+          {"t": "write", "p": "A bathroom scale measures a push. Explain how you could use it to find out who in your family can push the hardest with one hand.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Friction puzzles and big ideas",
+      "day": 12,
+      "sections": [
+        ["A. Friction puzzles", [
+          {"t": "write", "p": "Your friction test results: the toy needed 1 N on tiles, 2 N on wood and 4 N on the towel. Write a conclusion and give a reason for the pattern.", "lines": 3},
+          {"t": "write", "p": "Anil tested friction but put a heavy packet in the toy for the towel test and an empty toy for the tile test. Why is his test unfair?", "lines": 2},
+          {"t": "mcq", "p": "Why do cycle brakes have rubber pads?", "opts": ["To make the cycle lighter", "To make lots of friction on the wheel and slow it down", "To keep the wheel clean", "To make the bell ring"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if there were suddenly no friction at all? Describe three things that would happen when you tried to walk, eat dinner and ride a cycle.", "lines": 4},
+          {"t": "write", "p": "Newton said a moving ball keeps moving unless a force acts on it. Where could a ball keep moving for a very, very long time? Why there?", "lines": 3}
+        ]],
+        ["C. Comparing ideas", [
+          {"t": "match", "p": "Match each person to their idea.", "pairs": [["Aristotle", "Moving things stop by themselves unless pushed"], ["Isaac Newton", "Moving things keep moving unless a force acts"], ["Robert Hooke", "A spring stretches in proportion to the pull"], ["Leonardo da Vinci", "Friction does not depend on how much surface touches"]]},
+          {"t": "write", "p": "Aristotle's idea seemed to fit everyday life, because things around us do stop. Why do you think it took so long for people to see that friction was stopping them?", "lines": 3},
+          {"t": "write", "p": "Scientists still argue about exactly why ice is slippery. Does that mean we know nothing about it? What do they agree on?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Does a bigger push make a ball go further? (Challenge, page 59)",
+      "day": 3,
+      "question": "How does the size of the push given to a ball affect how far it rolls?",
+      "need": ["a tray or board for a ramp", "4 thick books", "a tennis ball or small rubber ball", "a measuring tape", "a results table"],
+      "steps": [
+        "Make a ramp by resting one end of the tray on one book, on a smooth floor with plenty of space.",
+        "Hold the ball at the top of the ramp and let go without pushing.",
+        "Measure from the bottom of the ramp to where the ball stops.",
+        "Repeat 3 times at this height and record all three distances.",
+        "Raise the ramp to 2, 3 and then 4 books and repeat.",
+        "Find the usual distance for each height and look for a pattern."
+      ],
+      "predict": "Ask your child to guess first: will the ball go further from a higher ramp? Twice as far from twice as many books?",
+      "observe": "The higher the ramp, the further the ball rolls. The three tries at each height are close but not exactly the same.",
+      "why": "Gravity pulls the ball down the ramp. From a higher start, the ball is pulled down a longer, steeper slope, so it is moving faster at the bottom; a bigger push has made it go faster. Once on the floor, friction between the ball and the floor and the push of the air slow it down until it stops. A faster ball takes longer to be slowed to a stop, so it travels further. Doing each height three times helps because small differences (a slight wobble, a bump in the floor) change each try a little.",
+      "safety": "Use a clear space away from stairs and glass.",
+      "time": "17 min"
+    },
+    {
+      "id": "e2",
+      "title": "Investigating forces with a ball of clay (Activity 6.2a)",
+      "day": 4,
+      "question": "What is the effect on a ball of clay of dropping it from higher and higher?",
+      "need": ["a lemon-sized ball of modelling clay, play dough or atta dough", "a ruler (and a measuring tape for bigger heights)", "a tile floor or steel plate", "a results table"],
+      "steps": [
+        "Roll the clay into a smooth ball. Measure its width.",
+        "Hold it so its bottom is 5 cm above the floor and let it drop.",
+        "Observe the clay: measure the width of the flattened bottom and draw it.",
+        "Reshape it into the same size ball.",
+        "Repeat from 10 cm, 20 cm, 40 cm and 80 cm.",
+        "Record the height and the width of the flat part each time, and explain the pattern using ideas about forces."
+      ],
+      "predict": "Ask your child to guess first: what will happen to the clay from 5 cm? From 80 cm? Will the flat part get bigger, smaller, or stay the same?",
+      "observe": "From 5 cm the ball has only a tiny flat spot. As the height increases, the flat part gets wider and the ball looks more squashed.",
+      "why": "Gravity pulls the clay down, and the further it falls, the faster it is going when it hits the floor. To stop it, the floor has to push back on it, and stopping something faster needs a bigger push. That push squashes the clay. Clay is a material that keeps its new shape instead of springing back, so we can see and measure how big the push was: a bigger force makes a bigger change of shape.",
+      "safety": "Drop the clay away from feet; wash hands afterwards.",
+      "time": "18 min"
+    },
+    {
+      "id": "e3",
+      "title": "Dropping a ball onto objects (Activity 6.2b)",
+      "day": 5,
+      "question": "What happens to the shape of different materials when the same heavy ball is dropped on them?",
+      "need": ["a biscuit", "a lump of clay or dough", "a slice of raw potato or carrot", "a piece of boiled potato", "a stone", "a chart paper rolled into a 40 cm tube", "a heavy ball (cricket ball in a sock, or a big steel marble)", "a steel plate", "a results table"],
+      "steps": [
+        "Try changing the shape of each object with your hands and note which were easy.",
+        "Copy the table from page 61: Object, Prediction, Result.",
+        "Write a prediction for each object.",
+        "Stand the paper tube upright on the first object on a steel plate.",
+        "Drop the ball from the top of the tube. Lift the tube and look.",
+        "Repeat for each object with the same ball and tube, and record the results."
+      ],
+      "predict": "Ask your child to guess first: which objects will break, which will squash, which will not change at all?",
+      "observe": "The biscuit breaks into pieces. The dough and boiled potato squash and stay squashed. The raw potato or carrot may dent or crack a little. The stone does not change.",
+      "why": "The ball hits each object with the same force, because it is the same ball falling the same distance. What happens depends on the material. Brittle materials like biscuit cannot bend, so they crack and break. Soft materials like dough and cooked potato are easily squashed and keep their new shape; cooking breaks down the stiff walls of the potato's cells, which is why boiled potato is soft and raw potato is hard. Stone is hard and rigid, and the force is far too small to change it. The tube makes the test fair by making the ball fall from the same height and land in the same spot each time.",
+      "safety": "Keep fingers out of the tube while dropping. Do not eat the tested food.",
+      "time": "15 min"
+    },
+    {
+      "id": "e4",
+      "title": "Measuring forces (Activity 6.4)",
+      "day": 8,
+      "question": "How big are the pulling forces needed for everyday jobs at home?",
+      "need": ["the homemade rubber band forcemeter or a luggage spring scale", "string for loops", "a results table", "squared paper for a bar chart"],
+      "steps": [
+        "Choose 6 pulls: the fridge door, a drawer, a chair along the floor, a school bag lifted, a cupboard door, a slipper along the floor.",
+        "Predict the order from biggest to smallest force.",
+        "Tie a loop of string to each handle and hook the forcemeter on.",
+        "Pull slowly and steadily until the object just starts to move, and read the biggest number.",
+        "Measure each pull twice and record the force in newtons.",
+        "Draw a bar chart and compare it with your prediction."
+      ],
+      "predict": "Ask your child to guess first: which will need the biggest pull? Which the smallest?",
+      "observe": "Readings vary from less than 1 N (a slipper) to many newtons (a full school bag, the fridge door). Pulling slowly gives steady readings; jerking gives a sudden high reading.",
+      "why": "A forcemeter contains a spring (or our rubber band) that stretches more when it is pulled harder. Marking it with known pulls (100 g pulls down with about 1 N) lets us read any pull in newtons. To start an object moving you have to pull hard enough to overcome friction, the stiffness of hinges, magnetic door seals, or, when lifting, the pull of gravity on the object (its weight). Heavier objects and those with more friction need bigger forces. Pulling slowly matters because a sudden jerk also speeds the object up, which needs an extra force, so the reading would not be a fair comparison.",
+      "safety": "Do not pull heavy furniture that could tip over; an adult should hold the fridge and cupboard steady.",
+      "time": "22 min"
+    },
+    {
+      "id": "e5",
+      "title": "Forces and friction (Activity 6.5)",
+      "day": 11,
+      "question": "Which surface produces the most friction with a toy being pulled across it?",
+      "need": ["a toy car or small box", "a 200 g packet", "string", "the homemade forcemeter or a spring scale", "surfaces: smooth tile floor, steel thali, towel or durrie, sandpaper or gravel, wooden table", "a results table"],
+      "steps": [
+        "Put the 200 g packet in or on the toy so the load is the same every time.",
+        "Tie the toy to the forcemeter with string.",
+        "Place it on the first surface and pull slowly and steadily, keeping the forcemeter level with the surface.",
+        "Read the force just as the toy starts to move.",
+        "Do 3 pulls on each surface and record all of them.",
+        "Repeat on all five surfaces, then write a conclusion."
+      ],
+      "predict": "Ask your child to guess first: which surface will need the biggest pull? Which the smallest? Why?",
+      "observe": "Smooth surfaces such as tiles and the steel thali need the smallest force. Rough or soft surfaces such as sandpaper, gravel, a towel or a durrie need the biggest force. Wood is usually in between.",
+      "why": "Friction is the force that acts when two surfaces rub or try to slide over each other. Even surfaces that look smooth have tiny bumps and dips; when they touch, the bumps catch on each other, and on rough surfaces the bumps are bigger and catch more. Soft materials like towels also squash around the toy and grip it. To make the toy move, your pull has to be bigger than the friction, so a bigger forcemeter reading means more friction. Keeping the same toy and load is important, because pressing the surfaces together harder (a heavier load) also increases friction.",
+      "safety": "Keep the floor test area clear so nobody trips over the string.",
+      "time": "20 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Forces start and stop things moving (Activity 6.1)",
+      "day": 2,
+      "mins": 18,
+      "need": ["a ball", "some water in a bowl", "a balloon", "a chair", "a pencil", "a spoon", "a results table"],
+      "steps": [
+        "Find a way to start each object moving and feel the push or pull you use.",
+        "Find a way to stop each object while it is moving.",
+        "Find a way to change the direction each object moves in.",
+        "Record each in a table: Object, Start, Stop, Change direction, Push or pull."
+      ],
+      "outcome": "A table showing how forces start, stop and change the direction of five different objects."
+    },
+    {
+      "id": "a2",
+      "title": "Investigating how much force (Activity 6.3)",
+      "day": 6,
+      "mins": 14,
+      "need": ["a balloon, not too full", "five objects to push against: a plastic cup, a book, a chair, a bucket of water, the wall"],
+      "steps": [
+        "Hold the balloon between your hands and the object.",
+        "Push through the balloon until the object moves (or as hard as you safely can for the wall).",
+        "Watch how squashed the balloon gets.",
+        "Record: Object, How squashed?, Very small / medium / large force.",
+        "Put the five objects in order of force needed."
+      ],
+      "outcome": "A table of five objects ranked by the size of the push needed, judged by how squashed the balloon became."
+    },
+    {
+      "id": "a3",
+      "title": "Make a rubber band forcemeter",
+      "day": 7,
+      "mins": 20,
+      "need": ["a 30 cm ruler or card strip", "sticky tape", "a drawing pin or hook", "2–3 strong rubber bands", "a paper clip", "a small polythene bag with handles", "five 100 g packets", "a marker"],
+      "steps": [
+        "Tape the ruler or card strip upright to the side of a table or door frame.",
+        "Hang a rubber band from a pin at the top, and an S-hook made from a paper clip from the bottom of the band.",
+        "Hang the empty polythene bag on the hook and mark the bottom of the band '0'.",
+        "Add one 100 g packet and mark '1 N'. Add packets one at a time and mark 2 N, 3 N, 4 N, 5 N.",
+        "Take the bag off and use the hook to measure pulls in newtons.",
+        "Check it with an object of known mass, such as a 100 g apple."
+      ],
+      "outcome": "A working homemade forcemeter marked in newtons, used for the rest of the unit."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Aristotle (384–322 BCE), Greece, and Isaac Newton (1643–1727), England",
+      "idea": "Aristotle taught that the natural state of things on Earth is to be at rest, and that a moving object keeps moving only while something keeps pushing it; take the push away and it stops. In 1687 Isaac Newton published his book known as the Principia, which set out his laws of motion. His first law says the opposite of Aristotle: an object at rest stays at rest, and a moving object keeps moving in a straight line at the same speed, unless a force acts on it.",
+      "then": "Aristotle's view was taught for nearly two thousand years, because it seems to match everyday life: carts stop when the ox stops pulling. Before Newton, thinkers such as Galileo Galilei had already argued, from experiments with balls rolling on slopes, that a ball on a perfectly smooth level surface would keep rolling, and that friction is what stops things.",
+      "now": "Newton's laws of motion are accepted and are used to design everything from cricket bowling machines to rockets; Aristotle's idea that moving things need a constant push is rejected. Things around us stop because of forces like friction and air resistance. A space probe far from planets keeps moving for years with its engines off, just as Newton's first law says. (For things moving close to the speed of light, Einstein's ideas refine Newton's, but Newton's laws work perfectly well for everyday life.)",
+      "status": "rejected",
+      "ask": "Aristotle's idea fitted what everyone saw every day, but it was wrong. What experiment could you do to show that a ball stops because of friction, and not because it 'wants' to stop?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Robert Hooke (1635–1703), England",
+      "idea": "Hooke, a scientist and inventor in London, studied springs. In 1678 he published the rule now called Hooke's law: the amount a spring stretches is proportional to the force pulling it, so double the force gives double the stretch. He first published it in 1676 as a scrambled-letter puzzle (an anagram) and gave the answer two years later, in Latin: 'ut tensio, sic vis', meaning 'as the extension, so the force'.",
+      "then": "Hooke was one of the busiest scientists of his time; he also coined the word 'cell' after seeing cork under a microscope. He quarrelled with Isaac Newton over who had first had some ideas about gravity, and for a long time he was remembered less than Newton.",
+      "now": "Hooke's law is accepted for springs and many materials as long as they are not stretched too far; beyond that limit, a spring stays permanently stretched and the rule no longer works. It is why the scale on a spring forcemeter has evenly spaced marks. Rubber bands follow it only roughly, which is why the marks on our homemade forcemeter were not perfectly even.",
+      "status": "accepted",
+      "ask": "Hooke hid his discovery in a puzzle for two years so nobody could steal it. Is it better for scientists to share ideas at once, or to protect them? What could go wrong each way?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Leonardo da Vinci (1452–1519), Italy, and Guillaume Amontons (1663–1705), France",
+      "idea": "Leonardo, famous as the painter of the Mona Lisa, also experimented on friction. His notebooks show drawings of blocks being pulled across surfaces by weights on strings, and notes that friction depends on how heavy the block is (how hard it presses down) but not on how much of its surface is touching. In 1699 Amontons, a French scientist, published the same rules from his own experiments, without knowing Leonardo's work. The rules were later developed further by Charles-Augustin de Coulomb in the 1780s.",
+      "then": "Leonardo's notebooks were not published in his lifetime and were scattered after his death, so his friction rules stayed unknown for centuries. When Amontons announced that friction does not depend on contact area, many scientists of his time found it surprising and hard to believe.",
+      "now": "These rules, often called Amontons' laws of friction, are accepted as good approximations for many everyday dry surfaces, and engineers use them. Scientists now explain them with the idea that surfaces only really touch at tiny bumps, whose total real contact area grows with how hard they are pressed together. The rules do not hold for every situation, such as very soft materials like rubber, or very smooth, clean surfaces.",
+      "status": "accepted",
+      "ask": "Leonardo found the rules first, but almost nobody knew. Does a discovery count if it is never shared? Who should get the credit, Leonardo or Amontons?",
+      "day": 10
+    },
+    {
+      "id": "v4",
+      "who": "Why is ice slippery? From Michael Faraday (1850) to scientists today",
+      "idea": "In 1850 the English scientist Michael Faraday suggested that ice always has a very thin, water-like layer on its surface, even below freezing. Around the same time an explanation based on the work of James Thomson became popular: the pressure of a skate blade melts the ice under it, making a slippery water layer. A third idea is that rubbing creates heat that melts a thin film of water. Recent research suggests the water molecules at the very surface of ice are loosely held and can roll and move, making it slippery.",
+      "then": "For over a century, the pressure-melting idea was taught in many schools as the answer. Calculations later showed that a skater's weight is far too small to melt ice by pressure except when the ice is only just below freezing.",
+      "now": "Most scientists now reject pressure melting as the main reason. They agree that the surface of ice is unusual and that a thin, loose surface layer, together with heating from friction, is important. But exactly how these work together, and at which temperatures each matters most, is still being researched and argued about. It is a live question.",
+      "status": "debated",
+      "ask": "For over 100 years schools taught that pressure melts ice under skates, until scientists did the sums. How can doing calculations or measurements show that a popular explanation is wrong? What would you measure to test it?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "What is a force? Give an example of a push and a pull.", "a": "A push or a pull. Push: kicking a ball, closing a door. Pull: opening a drawer, lifting a bag."},
+    {"q": "Name four things a force can do to a moving object.", "a": "Start it, stop it, make it speed up or slow down, change its direction (and forces can also change its shape)."},
+    {"q": "When we dropped clay from higher up, what happened and why?", "a": "It squashed more, because it was falling faster and needed a bigger force from the floor to stop it; a bigger force makes a bigger change of shape."},
+    {"q": "Put in order from biggest to smallest force: a bird picking up a leaf, a train pulling wagons, a girl lifting a book.", "a": "Train pulling wagons, girl lifting a book, bird picking up a leaf."},
+    {"q": "What is a forcemeter and what unit does it measure in?", "a": "A tool with a spring that stretches to measure the size of a pull; it measures in newtons (N), named after Isaac Newton."},
+    {"q": "What is friction, and give one way it helps us and one way it is a nuisance.", "a": "A force that acts when two surfaces rub together. Helps: shoes grip the floor, brakes stop a cycle. Nuisance: squeaky hinges, stiff drawers, wearing out shoes."},
+    {"q": "In our friction test, which surfaces needed the biggest pull and how did we make the test fair?", "a": "Rough or soft surfaces like sandpaper, gravel or a towel; we used the same toy with the same load, pulled slowly and steadily, and measured three times on each surface."}
+  ]
+}
