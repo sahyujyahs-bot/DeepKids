@@ -1,0 +1,798 @@
+{
+  "key": "cambridge|sci|5|6",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 5,
+  "n": 6,
+  "title": "Seasons and adaptations of plants and animals",
+  "source": "Cambridge Primary Science Learner's Book 5 (2nd edition), Unit 6 'Seasons and adaptations of plants and animals' (contents pages 142–173; the printed page numbers in this copy run 136–167): 6.1 The Earth moves around the sun (printed pages 136–141), 6.2 Seasonal changes (pages 142–148), 6.3 Plants and animals are adapted to different environments (pages 149–154), 6.4 Adaptations of predators and prey (pages 155–164), Project: Animals at risk (page 165), Check your progress (pages 166–167)",
+  "summary": "Your child models the Earth's orbit and tilted axis with a torch and a ball to find out why we have seasons, and why it is summer in Australia when it is winter in Kashmir. They calculate the length of day from sunrise and sunset times, collect their own sunrise and sunset data and draw line graphs, and learn how trees, hibernating animals and migrating birds deal with the seasons. Then they explore how cacti and camels, lotuses and fish, firs and bears are adapted to hot, wet and cold places, and how predators and prey are adapted to catch or escape, ending with a project on an Indian animal at risk.",
+  "goals": [
+    "By the end your child can describe the Earth's orbit around the Sun (a slight ellipse, 365¼ days, anticlockwise) and say why we add a leap day every four years.",
+    "By the end your child can explain that seasons are caused by the Earth's tilted axis as it orbits the Sun, not by its distance from the Sun, and say why the two hemispheres have opposite seasons.",
+    "By the end your child can calculate length of day from sunrise and sunset times, draw a line graph, and describe and explain the pattern through the year.",
+    "By the end your child can explain how deciduous trees, hibernating animals and migrating animals are adapted to seasonal change, with Indian examples.",
+    "By the end your child can describe adaptations of plants and animals to hot and dry, wet, and cold environments.",
+    "By the end your child can list adaptations of predators and of prey, group animals by them, and explain how human actions put an Indian animal at risk."
+  ],
+  "words": [
+    ["orbit", "the path a body takes as it moves around another body; the Earth's orbit around the Sun takes 365¼ days"],
+    ["revolve / rotate", "revolve means to travel round something (the Earth revolves round the Sun in a year); rotate means to spin on an axis (the Earth rotates once in a day)"],
+    ["slight ellipse", "a shape like a slightly squashed circle; the Earth's orbit is very nearly a circle"],
+    ["axis and tilt", "the imaginary line through the North and South Poles that the Earth spins around; it is tilted (leaning) by about 23.5 degrees"],
+    ["hemisphere", "half of the Earth; the northern hemisphere is north of the Equator (India is here) and the southern hemisphere is south of it"],
+    ["season", "a part of the year with its own weather and length of day, caused by the tilt of the Earth as it orbits the Sun"],
+    ["chlorophyll", "the green substance in leaves that helps the plant make food using sunlight"],
+    ["dormant", "resting or 'sleeping', like a leafless tree in winter, alive but not growing"],
+    ["hibernate", "to go into a deep sleep through a cold season, with slow heartbeat and breathing and a lower body temperature"],
+    ["migrate", "to travel a long way every year to a place with more food or better weather, and back again"],
+    ["adaptation", "a feature that helps a plant or animal survive in its environment, such as a camel's wide feet or a lotus's floating leaves"],
+    ["predator / prey / camouflage", "a predator hunts and eats other animals; prey are the animals it eats; camouflage is colouring that lets an animal blend in with its surroundings"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Day, night and a year around the Sun",
+      "goal": "Remember why we have day and night, and model the Earth's year-long orbit around the Sun.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Our seasons in India",
+          "mins": 7,
+          "do": "Ask your child: 'What are the seasons where we live? What do you wear, eat and do in each?' Help them name India's main seasons: summer (March to May: mangoes, aam panna, holidays), monsoon (June to September: rain, chai and pakoras, umbrellas), the post-monsoon (October–November: Diwali, clear skies) and winter (December to February: sweaters, gajar halwa, foggy mornings in the north). Ask: 'Is winter the same in Chennai as in Delhi or Srinagar?' (No; Chennai hardly gets cold, Srinagar gets snow.) Write the question at the top of a page: 'Why do we have seasons?' and your child's first answer. Many children say 'because the Earth goes nearer and further from the Sun'. Keep it; you will test this idea."
+        },
+        {
+          "kind": "talk",
+          "title": "Getting started: the globe (page 136)",
+          "mins": 7,
+          "do": "Open the unit opener on page 136 (autumn trees, Srinagar). Read the 'We are going to' box. Do 'Getting started' with a globe if you have one (or a ball with a knitting needle or pencil pushed through). 1: The model is called a globe. 2: The stick through it represents the Earth's axis, the imaginary line between the North and South Poles. 3: Day and night are caused by the Earth rotating (spinning) on its axis once every 24 hours; the half facing the Sun has day. Show it: in a dark room, shine a torch on the globe and slowly spin it anticlockwise (seen from above the North Pole); India moves into the light (sunrise) and out of it (sunset)."
+        },
+        {
+          "kind": "read",
+          "title": "Earth's orbit (page 137)",
+          "mins": 8,
+          "do": "Read 'Earth's orbit' on page 137. As well as rotating on its axis, the Earth revolves, or moves around, the Sun; its path is called an orbit. The orbit is shaped a bit like an egg, an ellipse, but it is not a perfect ellipse, so scientists call it a slight ellipse. So the Earth is sometimes closer to the Sun and sometimes further away; the average distance is 150 million km. The Earth moves around the Sun anticlockwise. It takes 365¼ days or 1 year, travelling about 940 million km. The Sun is bigger than the Earth, so it exerts a bigger gravitational force on the Earth. Ask: 'How far is 150 million km? If you could drive a car at 100 km an hour without stopping, how long would it take?' (About 170 years!)"
+        },
+        {
+          "kind": "act",
+          "title": "Walk the orbit",
+          "mins": 13,
+          "do": "Do Activity a1. Put a lamp or a torch standing upright on a stool in the middle of a room or the terrace: the Sun. Your child holds the globe or ball (the Earth) and walks slowly anticlockwise round the 'Sun' in a big circle, while spinning the ball anticlockwise at the same time. Count: one full spin is one day; one full trip around is one year, 365 spins. Mark 4 places on the floor with chalk or paper: March, June, September, December, following the positions in the diagram on page 138. Keep the chalk marks for Day 2.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "A model of Earth's orbit (Think like a scientist, pages 137–138)",
+          "mins": 10,
+          "do": "Answer Think like a scientist on pages 137–138. 1: The diagram is a good model because it shows the Sun in the middle, the Earth's path, its direction and the tilted axis. 2: It is not a good model because the sizes and distances are wrong (the Sun is about 109 times wider than the Earth, and much further away), and the orbit looks more stretched than it really is. 3: 'Slight ellipse' because it is almost a circle, only a tiny bit squashed. 4: Gravity keeps the Earth in its orbit. 5: The Earth is also rotating on its axis. 6: Research the ¼ day: every four years we add an extra day, 29 February, to make a leap year, so the calendar keeps up with the Earth. Ask: 'When is the next leap year?' (2028.)"
+        }
+      ],
+      "need": ["Learner's Book pages 136–138", "a globe, or a ball with a pencil or knitting needle through it", "a torch or a lamp without its shade", "a stool", "chalk or paper markers"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "The tilt that makes the seasons",
+      "goal": "Find out how the Earth's tilted axis causes the seasons and why the northern and southern hemispheres have opposite seasons.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The seasons (pages 138–139)",
+          "mins": 9,
+          "do": "Read 'The seasons' on pages 138–139. The seasons are caused by the Earth orbiting the Sun once a year and the tilt of the Earth's axis; each season happens when the Earth is at a particular position. Look at the hemisphere drawing: countries between the Equator and the North Pole are in the northern hemisphere (India is here), and those between the Equator and the South Pole are in the southern hemisphere (Australia, South Africa, Argentina). When the northern hemisphere has summer, the southern has winter, because the northern hemisphere is tilted towards the Sun, with long days and short nights. At the Equator there are no distinct seasons. Then read the top of page 139: in June the northern hemisphere is tilted towards the Sun (summer), the southern away (winter). In March the whole Earth faces the Sun evenly, and both hemispheres have equal day and night."
+        },
+        {
+          "kind": "exp",
+          "title": "Torch and globe: why tilt matters",
+          "mins": 18,
+          "do": "Do Experiment e1. Go back to the chalk marks from Day 1 with the lamp as the Sun. The rule: keep the axis tilted by the same amount and always pointing towards the same wall of the room (the 'North Star' wall), all the way round. Stick a small paper flag on India and one on Australia. At the June mark, ask: 'Which hemisphere leans towards the Sun? Which flag gets more direct light?' Spin the globe slowly: India stays in the light longer than in the dark. Move to December: now Australia leans towards the Sun. Then do the 'spreading light' test: shine a torch straight down on squared paper from 30 cm and draw round the bright patch; then tilt the torch at a slant from the same distance and draw again. Count the squares. Ask: 'Which patch is brighter and warmer? Why?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Find information on a diagram (Activity 1, page 139)",
+          "mins": 8,
+          "do": "Do Activity 1 on page 139, using the orbit diagram on page 138. December position: 4: the southern hemisphere is tilted towards the Sun; 5: so the southern hemisphere is having summer, because it gets more direct sunlight and longer days. September position: 6: neither is tilted towards the Sun; 7: the northern hemisphere is having autumn; 8: the southern hemisphere is having spring. 9: The two factors that cause the seasons are the Earth's orbit around the Sun and the tilt of its axis. Ask: 'If your cousin lives in Sydney, what will she be wearing on Christmas Day?' (Summer clothes; Christmas is in summer there.)"
+        },
+        {
+          "kind": "think",
+          "title": "Nearer the Sun, hotter? Testing an idea",
+          "mins": 10,
+          "do": "Go back to your child's first answer from Day 1. Tell them a surprising fact: the Earth is actually CLOSEST to the Sun in early January (about 147 million km) and furthest in early July (about 152 million km). Ask: 'If distance caused the seasons, what season would India have in January?' (Summer, but it is winter!) 'And how could both hemispheres have opposite seasons at the same moment if distance were the cause?' (They are the same distance from the Sun.) So the distance idea is rejected by the evidence, and tilt is the real reason. Then tell the story in Voice v1 about Aryabhata, who said 1,500 years ago that the Earth spins. Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Learner's Book pages 138–139", "the globe and the lamp", "the chalk marks from Day 1", "2 paper flags and tape", "a torch, squared paper, a ruler"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Midnight sun and seasons around the world",
+      "goal": "Use a diagram to find day length in different places, explain the midnight sun and the Equator, and meet the astronomer who put the Sun at the centre.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Different seasons in different parts of the world (page 140)",
+          "mins": 7,
+          "do": "Read page 140 with the diagram of the Earth in its December position. Notice: the side facing the Sun is having day; the side facing away is having night; the tilted axis makes the southern hemisphere tilt towards the Sun; the region around the South Pole is having continuous daylight! Point to points A, B and C on the diagram with your child and trace the line each would travel in one day as the Earth spins: how much of each circle is in the light?"
+        },
+        {
+          "kind": "talk",
+          "title": "Use a diagram (Activity 2, page 140)",
+          "mins": 10,
+          "do": "Do Activity 2 on page 140. 1: The southern hemisphere is having summer, because it is tilted towards the Sun. 2: The area around the North Pole is having 24 hours of darkness. 3: Day length: point A (in the south, near the South Pole circle) has the longest day, nearly all day light; B (near the Equator) about 12 hours; C (in the north) a short day, more night than day. 4: On the Equator there are no real hot-and-cold seasons, because the Sun is high all year and days are about 12 hours long all year; but there can be wet and dry seasons. 5: The midnight-sun photo on page 141 was taken in December, so it must be near the South Pole, such as Antarctica. Tell your child that India has research stations in Antarctica, Maitri and Bharati, where scientists live through months of daylight and darkness."
+        },
+        {
+          "kind": "do",
+          "title": "Seasons world map",
+          "mins": 13,
+          "do": "On a world map (in an atlas or a printout), your child finds and labels: India, the Equator, Sri Lanka (near the Equator), Singapore (almost on the Equator), Australia, South Africa (Cape Town), Norway, and Antarctica. Make a table: Place, Hemisphere, Season in December, Season in June, Day length in December (long/medium/short). Ask: 'Why is Singapore's weather nearly the same all year?' (It is almost on the Equator.) 'Why does Ladakh have much colder winters than Kerala?' (It is further north, and also very high up.) Explain that height above sea level also makes places colder, which is why Shimla is cooler than Delhi in summer."
+        },
+        {
+          "kind": "think",
+          "title": "Copernicus moves the Sun to the middle",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: for most of history people believed the Sun went around the Earth. Copernicus suggested the opposite, and it took more than a century, telescopes and much argument before it was accepted. Ask the voice question. Remind your child that the book's diagrams all show the Sun in the middle; that was once a shocking idea.",
+          "ref": "v2"
+        },
+        {
+          "kind": "review",
+          "title": "Look what I can do (page 141)",
+          "mins": 7,
+          "do": "Read the 'Look what I can do' list on page 141 and ask your child to explain one item aloud for each tick: the orbit, the tilt and the seasons, why a diagram is a model, and one thing they found out from the internet or a book (the leap year). Then answer the reflection on page 140: 'Do the diagrams help you understand how seasons occur?' and ask which helped more, the diagram or walking round the lamp with the globe."
+        }
+      ],
+      "need": ["Learner's Book pages 140–141", "the globe and lamp", "a world map or atlas", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Sunrise, sunset and length of day",
+      "goal": "Calculate length of day from sunrise and sunset times, describe the pattern for Cape Town, and start collecting our own sunrise and sunset data.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: the sunrise (page 142)",
+          "mins": 7,
+          "do": "Read the 'We are going to' box on page 142. Ask the 'Getting started' questions. 1: The Sun appears to rise in the east. 2: During the day it appears to move across the sky (high in the south at midday, for us in India). 3: In the evening it appears to set in the west. 4: The Sun does not really move across the sky; the Earth rotates, so it looks as if the Sun moves. 5: Our summer months are about March to June. 6: When summer turns to the monsoon or autumn, days get shorter, evenings cooler, and some trees drop leaves. Find east and west from your home: which window gets the morning Sun?"
+        },
+        {
+          "kind": "do",
+          "title": "Record and present length of day data (Think like a scientist, pages 143–144)",
+          "mins": 20,
+          "do": "Do Think like a scientist on pages 143–144 with the Cape Town table on page 143. First teach the calculation: length of day = sunset time minus sunrise time. For 1 February, 19:51 − 06:08: from 06:08 to 19:08 is 13 hours, and from 19:08 to 19:51 is 43 minutes, so 13 h 43 min, as in the table. Your child checks two more rows. Then answer: 1: 3 to 7 February the day got shorter by 7 minutes (13 h 40 min to 13 h 33 min); 16 to 20 March by 9 minutes (12 h 17 min to 12 h 08 min); the days are getting shorter. 2a: Cape Town is in the southern hemisphere, so February is late summer; 2b: March is autumn. 3a: In April the days will keep getting shorter; 3b: test it by looking up Cape Town's April times on a weather website. 4: The days shorten because the southern hemisphere is beginning to tilt away from the Sun."
+        },
+        {
+          "kind": "act",
+          "title": "Start our own sunrise and sunset record",
+          "mins": 10,
+          "do": "Start Activity a2 (questions 5–8 on page 144). Your child copies a table: Date, Sunrise, Sunset, Length of day. Each day for the next week, they look up your city's sunrise and sunset times in the newspaper weather box or a phone weather app, and write them in. If possible, on one morning watch the actual sunrise from the terrace and note the time, and check it against the app. Fill in today's row now and calculate the length of day.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Why do days get shorter and longer?",
+          "mins": 8,
+          "do": "Use the globe and lamp again for 3 minutes: at the June position, spin the globe and count how much of India's circle is in the light (more than half: long day); at December (less than half: short day). Then ask your child to predict: 'In our city, is the day longer in June or in December? By about how much?' Write the prediction; you will check with real data on Day 5. Tell them: in Delhi the longest day (around 21 June) is about 14 hours and the shortest (around 22 December) about 10 hours; in Chennai, closer to the Equator, the difference is much smaller, only about 1½ to 2 hours."
+        }
+      ],
+      "need": ["Learner's Book pages 142–144", "the globe and lamp", "a newspaper weather box or a phone weather app", "notebook and a ruler"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Line graphs of day length, and trees through the seasons",
+      "goal": "Draw a line graph of day length, compare it with Cape Town, and learn how deciduous trees are adapted to the seasons.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Draw line graphs (page 144, questions 6–8)",
+          "mins": 18,
+          "do": "Continue Activity a2. Your child already has a few rows of local data. To see a whole year, also look up your city's sunrise and sunset on the 21st of each month on a website such as timeanddate.com (you help), and calculate the day length for each month. Draw a line graph on squared paper: months along the bottom, length of day in hours up the side (from 9 to 15 hours, in half hours), a dot for each month joined with straight lines. Then answer 7: compare with Cape Town: our days get LONGER in February and March while Cape Town's get shorter, because we are in the opposite hemisphere. 8: Write a conclusion: 'In the northern hemisphere the days are longest in June and shortest in December, because of the tilt of the Earth.' Check yesterday's prediction.",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "How plants are adapted to the seasons (pages 144–145)",
+          "mins": 8,
+          "do": "Read page 144 (from 'As humans, we wear different clothes...') and the top of page 145. We adapt to the weather with clothes and heating; plants and animals are adapted too. Look again at the Srinagar photo on page 136, taken in autumn: leaves turn from green to yellow and red. Leaves are green because of chlorophyll, which helps produce food; in autumn days are shorter with less sunlight, so the leaves can no longer produce food. The chlorophyll breaks down, leaving the leaves yellow and red and then brown, and after a few weeks they fall. In winter the tree is dormant. In spring new buds appear, and by summer the tree is green again. Look at the three tree drawings on page 145."
+        },
+        {
+          "kind": "talk",
+          "title": "How plants are adapted to the seasons (Activity 1, page 145)",
+          "mins": 10,
+          "do": "Do Activity 1 on page 145. 1: The photo shows autumn because the leaves are orange and red and many have fallen. 2: In the next season, winter, the trees will lose all their leaves. 3: 'During autumn, days become shorter. Leaves are no longer able to produce food because there is not enough sunlight. The chlorophyll breaks down, the leaves change colour and then fall off.' 4: In the USA autumn is called 'fall' because the leaves fall. 5: Indian trees that change colour: the chinar of Kashmir (the tree in the photo, which turns red and gold), and in the plains many trees drop leaves in the dry season instead of the cold, such as teak, palash, semal and the Indian coral tree, and the peepal sheds its leaves and grows pink-red new leaves in spring. Tell your child: in much of India, it is the dry season, not the cold, that makes trees go leafless, because water is scarce."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Tree check",
+          "mins": 9,
+          "do": "Go out to the nearest trees and look for signs of the season: new leaves (light green or reddish), old yellow leaves, bare branches, flowers, fruits, seeds. Your child chooses one deciduous tree (one that drops its leaves) and one evergreen tree, draws a leaf from each and writes the date. Ask: 'Why might it be useful for a tree to drop its leaves in the dry season?' (Leaves lose water through tiny holes; with no leaves, the tree saves water.)"
+        }
+      ],
+      "need": ["Learner's Book pages 144–145", "your sunrise and sunset table", "a phone or computer to look up monthly sunrise and sunset times", "squared paper, ruler"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Sleep through it or fly away: hibernation and migration",
+      "goal": "Learn how animals survive hard seasons by hibernating or migrating, read the grey whale story, and research a bird that migrates to India.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Hibernation (page 146)",
+          "mins": 7,
+          "do": "Read 'How animals are adapted to the seasons' and 'Hibernation' on page 146. Some animals cannot find food in winter, so they stay and hibernate, or migrate. In hibernation the body goes into a deep sleep for a long time; heart rate and breathing slow down and body temperature drops. Bears eat a lot in autumn for an extra layer of fat; mice and other animals collect nuts and seeds and go to sleep in an underground home; they wake in spring. Look at the dormouse photo. Indian examples: the Himalayan brown bear and Asiatic black bear in the high Himalayas sleep through the winter in dens; some marmots of Ladakh hibernate for months. Frogs and some snakes in north India go into a winter rest, and many frogs in hot, dry places bury themselves in mud and rest through the dry season until the monsoon (this summer rest is called aestivation)."
+        },
+        {
+          "kind": "read",
+          "title": "Migration (page 147)",
+          "mins": 7,
+          "do": "Read 'Migration' on page 147. When seasons change and there is not enough food, some animals migrate. Wildebeest in Africa walk 3,000 km a year following the rains and new grass. Many birds eat more in late summer for strength, then fly long distances. The book says Siberian cranes migrate from Russia to India: tell your child honestly that they used to come every winter to Keoladeo National Park in Bharatpur, Rajasthan, but that flock has not been seen since about 2002 and is thought to be lost, and that the species is now critically endangered. Other birds still come in huge numbers: demoiselle cranes to Khichan village in Rajasthan, bar-headed geese, flamingos, ducks and Amur falcons in Nagaland on their way from China and Siberia to Africa."
+        },
+        {
+          "kind": "talk",
+          "title": "How animals are adapted to changes in seasons (Activity 2, pages 147–148)",
+          "mins": 8,
+          "do": "Do Activity 2 on pages 147–148. 1a: Hibernation is a long deep sleep through winter with slowed heartbeat and breathing and a cooler body. 1b: An Indian animal that hibernates: the Himalayan brown bear or the Himalayan marmot. 2: Read the grey whale story aloud. a: They migrate to the Arctic Ocean because in summer there is plenty of food; they put on about a third more weight. b: They leave in winter because the water freezes. c: They go to the warm Pacific Ocean off Mexico to have their babies in warm water. d: They return to the Arctic in spring, to feed through the summer. Ask: 'Why do whales need to put on so much weight first?' (They eat very little on the long journey and in the breeding waters.)"
+        },
+        {
+          "kind": "act",
+          "title": "Research a bird that migrates to India (question 3, page 148)",
+          "mins": 15,
+          "do": "Do Activity a3. Your child chooses a bird that migrates to India, for example the Amur falcon, the bar-headed goose, the demoiselle crane, the greater flamingo or the rosy starling. With your help, using a bird book or a trusted website, they find: its name, pictures, where it breeds, where it spends the winter, the route and distance, the dangers on the way, and when it arrives and leaves. They make a small poster with a map and an arrow showing the journey, and present it to the family in two minutes.",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali and the rings on birds' legs",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: Salim Ali, India's 'birdman', and the Bombay Natural History Society put small numbered rings on the legs of thousands of birds, so that when a bird was caught again far away, they could prove where it had travelled. Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": ["Learner's Book pages 146–148", "a bird book or trusted website", "a world map", "A4 paper, coloured pens"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Camels and cacti: life in hot, dry places",
+      "goal": "Learn what an adaptation is, describe the adaptations of plants and animals to hot, dry environments, and test how a waxy coat and a small surface save water.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: two photographs (page 149)",
+          "mins": 6,
+          "do": "Read the 'We are going to' box on page 149. Do 'Getting started' with photos A and B. 1: A shows a hot, wet environment: thick green forest, a river, tall trees, bright sunshine. 2: B shows a cold environment: snow on the hills, short plants, few trees. 3 and 4: In A, monkeys, birds, frogs, snakes, insects, eating fruit, leaves and insects; in B, mountain goats, hares, foxes, birds of prey, eating grass, small plants and small animals. Link to India: A is like the forests of the Western Ghats or the north-east; B is like the high Himalayas of Ladakh and Spiti."
+        },
+        {
+          "kind": "read",
+          "title": "Hot, dry environments (pages 150–151)",
+          "mins": 8,
+          "do": "Read page 150 and look at the labelled cactus and camel. Adaptations are features that help plants and animals live in their environments. In a hot, dry place there is very little water and what rain there is dries quickly. Cactus: thorns instead of leaves to lose less water; waxy coating stops water escaping; fat stem stores water; deep roots find water. Camel: long eyelashes keep sand out of eyes; thick lips eat thorny plants; can survive a week or more without water and months without food; humps store fat for energy; wide tough feet walk on hot sand. Read the last paragraph: rats and lizards dig burrows and come out at night when it is cooler. Indian examples: the Thar Desert of Rajasthan, the camel (the one-humped dromedary there; the two-humped Bactrian camel in the photo lives in Ladakh's Nubra Valley), the khejri tree with very deep roots, the desert fox and the spiny-tailed lizard in burrows."
+        },
+        {
+          "kind": "exp",
+          "title": "Waxy coats and fat stems: the water-saving test",
+          "mins": 18,
+          "do": "Do Experiment e2. Cut three equal strips of wet kitchen sponge or three equal pieces of cloth soaked in water and squeezed the same amount. Leave one flat and open (a thin leaf). Roll one tightly into a fat cylinder held with a rubber band (a cactus stem). Roll the third the same way and wrap it in cling film or rub it with a little Vaseline, leaving the ends open (a waxy cactus). Weigh each on a kitchen scale and write the weights. Put all three in the sun or under a fan for two to three hours, then weigh again. Your child predicts first. Then calculate how much water each lost. Ask: 'Which shape kept its water best? Which feature of the cactus did each model show?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Activity 1 (page 151)",
+          "mins": 8,
+          "do": "Do Activity 1 on page 151. 5: your child completes the sentences: a plants have thorns (spines) instead of leaves; b roots go deep under the surface to find water; c plants store water in fat stems; d plants have waxy coatings to prevent water loss; e plant-eating animals must be able to eat thorny plants; f small animals dig burrows to keep cool during the hot days; g animals must be able to survive without much water. 6: other animals of hot, dry places: the blackbuck and the chinkara (Indian gazelle) of Rajasthan, the Indian desert jird, scorpions, the great Indian bustard. Then check the e2 sponges if the time is up."
+        },
+        {
+          "kind": "do",
+          "title": "Adaptation spotting at home",
+          "mins": 5,
+          "do": "Look at any aloe vera, money plant, cactus or succulent pot in your home or neighbourhood. Your child feels the thick, waxy leaf of aloe and breaks a small piece to see the water-storing gel inside. Ask: 'Which desert adaptations does the aloe have?' (Thick fleshy leaves that store water, a waxy skin, spines along the edge.)"
+        }
+      ],
+      "need": ["Learner's Book pages 149–151", "a kitchen sponge or 3 cloth pieces, scissors", "rubber bands, cling film or Vaseline", "a kitchen scale", "a sunny spot or a fan", "an aloe vera or succulent plant if available"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Lotuses, ducks and fish: life in wet places",
+      "goal": "Describe the adaptations of plants and animals in wet environments, investigate a lotus leaf, and research an Indian wetland plant and animal.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Water-saving test results",
+          "mins": 5,
+          "do": "Finish Experiment e2: weigh the three sponge models again and calculate how many grams of water each lost. Usually the flat open strip loses most, the rolled one less, and the wrapped 'waxy' roll least. Your child writes a conclusion: 'A fat shape and a waxy coat help a cactus keep its water.'",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Wet environments (page 152)",
+          "mins": 8,
+          "do": "Read page 152. Water lilies and lotus plants have large flat leaves that float, big air spaces in leaves and stems so they float and the leaves can catch sunlight at the surface, weak stems because the water supports the plant, and small roots because they do not need to be anchored hard in soil. Fish have gills to absorb oxygen from water and fins to move. Ducks and geese have webbed feet like flippers. Seabirds have waterproof feathers and special glands to get rid of the salt they take in when they drink seawater. Flamingos have long, thin legs to walk through water and long flexible necks to reach food below the surface. Look at the lotus and flamingo photos. Tell your child flamingos come in huge flocks to the Rann of Kutch in Gujarat, and to Sewri mudflats in Mumbai."
+        },
+        {
+          "kind": "do",
+          "title": "The lotus leaf test",
+          "mins": 12,
+          "do": "If you can get a lotus leaf (flower sellers near temples often have them, or use a colocasia/arbi or taro leaf, which behaves the same way), put drops of water on it and tilt it. Watch the drops roll off as round beads, carrying dust with them. Then put drops on a paper towel and a steel plate to compare. Ask: 'Why is it useful to a lotus leaf to stay dry on top?' (The upper surface has the tiny openings for air; staying clean and dry keeps them open and lets light reach the leaf.) Cut across a lotus stem (kamal kakdi, sold as a vegetable) and look at the big air holes. Float it in a bowl of water: it floats. That is the 'big air spaces' adaptation from page 152."
+        },
+        {
+          "kind": "act",
+          "title": "Research a wet-environment plant and animal (Think like a scientist, page 153)",
+          "mins": 15,
+          "do": "Do Think like a scientist on page 153. Your child chooses a plant and an animal that live in a wet environment in India, for example the mangroves and the fishing cat of the Sundarbans; the lotus and the bronze-winged jacana (which walks on lily leaves with very long toes) of a village pond; the Gangetic river dolphin (nearly blind, finds food by echolocation) and the gharial (thin snout for catching fish) of the Ganga and Chambal rivers; or the water hyacinth and the Indian pond heron. They name them, find pictures, describe the environment, and list all the adaptations. Then they present it to you, as the book asks."
+        },
+        {
+          "kind": "talk",
+          "title": "Seabirds and salt",
+          "mins": 5,
+          "do": "Ask: 'Why can't we drink seawater, but seabirds can?' Explain: our kidneys cannot remove that much salt, so drinking seawater makes us more thirsty. Seabirds like gulls and terns have salt glands above their eyes that remove extra salt from their blood; the salty liquid drips out of their nostrils. This is an adaptation to a salty wet environment."
+        }
+      ],
+      "need": ["Learner's Book pages 152–153", "the e2 sponges and kitchen scale", "a lotus leaf or arbi (colocasia) leaf, a paper towel, a steel plate", "a piece of kamal kakdi (lotus stem) and a bowl of water", "a book or website for research"],
+      "prep": [{"task": "Buy a piece of lotus stem (kamal kakdi) and find a lotus or arbi leaf", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Fur, fat and firs: life in cold places",
+      "goal": "Describe adaptations of plants and animals in cold environments, match the fir tree's adaptations, and test how fur and fat keep animals warm.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Cold environments (page 153)",
+          "mins": 6,
+          "do": "Read 'Adaptations of plants and animals in cold environments' on page 153. Very cold environments in the far north and south have long summer days and very long dark winters, little rain but a lot of snow. Some animals have thick fur; in winter, when there is no food, some hibernate or migrate. The soil freezes in winter and only the top few centimetres thaw in summer. Trees have resin on their bark, a sticky substance that keeps the tree warm and stops it losing moisture. Indian examples: the snow leopard of Ladakh with thick fur and a long bushy tail it wraps around its face; the yak with long shaggy hair; the chir pine and deodar of the Himalayas, which ooze sticky resin from their bark."
+        },
+        {
+          "kind": "exp",
+          "title": "Blubber glove and fur test",
+          "mins": 18,
+          "do": "Do Experiment e3. Fill a big bowl with water and lots of ice. Fill a zip-lock bag with about 4 tablespoons of ghee or vegetable shortening (vanaspati), put a second zip-lock bag inside it, and squish the fat so it lines the space between the bags evenly: a 'blubber glove'. Your child puts one hand inside the inner bag and the other hand in an empty bag, and dips both into the ice water at the same time. Time how long they can keep each hand in (stop at 2 minutes at most). Then do a fur test: wrap one cup of warm water in an old woollen sock or shawl and leave another cup bare, and measure both temperatures with a thermometer after 15 minutes. Your child predicts first.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Cold, dry environment (Activity 2, page 154)",
+          "mins": 10,
+          "do": "Do Activity 2 on page 154 with the brown bear, moose, squirrel and fir tree. 1: Match the fir tree's adaptations to their reasons: shallow roots → D, the tree grows in soil that will not be frozen in summer (only the top layer thaws); needles with a waxy surface → B, prevents too much water loss; sloping branches → A, snow can slide off the branches (so they don't break); thick bark and resin → C, keeps the trunk warm and prevents water loss. 2: The brown bear hibernates (squirrels in very cold places also spend much of winter resting in nests and living on stored food). 3: The moose may move to lower, sheltered areas in winter; tell your child that birds are the best migrators in cold places. Look at a deodar or pine branch if you can get one (or a photo) and find the needle leaves."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Seasons and environments",
+          "mins": 11,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For any wrong answer go back to the page: orbit page 137, seasons pages 138–139, trees page 144, hibernation and migration pages 146–147, hot and dry pages 150–151, wet page 152, cold pages 153–154. Let your child correct their own answer in a different colour.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 153–154", "a big bowl, ice and water", "4 zip-lock bags, about 4 tablespoons of ghee or vanaspati", "a timer", "2 cups of warm water, an old woollen sock or shawl, a thermometer", "worksheet ws1"],
+      "prep": [{"task": "Make a lot of ice", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "Hunters: adaptations of predators",
+      "goal": "Match predators with prey, describe the adaptations of predators, and group predators by their adaptations.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: match predators and prey (page 155)",
+          "mins": 6,
+          "do": "Read the 'We are going to' box on page 155. Do 'Getting started': match the predators with their prey in the pictures. Good pairs: the hawk with the lizard (or salamander); the spider with the fly; the cheetah with the antelope; the polar bear with the seal. Ask: 'In each pair, which is the predator and which the prey? Can an animal be both?' (Yes: a lizard eats flies but is eaten by hawks.)"
+        },
+        {
+          "kind": "read",
+          "title": "Predators and prey; adaptations of predators (pages 156–158)",
+          "mins": 10,
+          "do": "Read pages 156–158. The cheetah runs at 112 km/h, more than four times faster than a human, with a streamlined shape; its eyes are in the front of its head to judge distance; crouched low it is camouflaged, its colours blending in with dry grass. The springbok's main defence is staying in large groups; the one left behind is often caught. Read the list of predator adaptations: speed, streamlined shape, camouflage, venom, trapping, very good eyesight, a good sense of smell, sharp powerful teeth, sharp claws, teamwork, a good sense of hearing. Then page 157: the chameleon's long fast tongue and camouflage; the cobra's venom (tell your child the snake in the photo is a spitting cobra from Africa; India's spectacled cobra does not spit, it bites). Page 158: eagles can spot prey from 3 km away and have sharp talons; wild dogs hunt in packs and have a very good sense of smell. India has its own pack-hunting wild dog, the dhole."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–5 (pages 157–159)",
+          "mins": 7,
+          "do": "Ask questions 1–5. 1: A spider uses trapping (its web) and venom. 2: The cobra also has a hood to look bigger and frightening, and a flicking tongue to smell. 3: The eagle has a sharp hooked beak to tear meat, strong wings and forward-facing eyes. 4: The wild dogs have big ears for hearing, long legs for running far, and sharp teeth. 5: The crocodile has sharp teeth, strong jaws, eyes and nostrils on top of its head so it can hide almost completely under water, and camouflage colours. Tell your child India has three crocodilians: the mugger, the saltwater crocodile of Bhitarkanika and the Sundarbans, and the fish-eating gharial."
+        },
+        {
+          "kind": "act",
+          "title": "Group predators by their adaptations (Think like a scientist, pages 159–160)",
+          "mins": 15,
+          "do": "Do Activity a4. Your child copies the table on page 160 with the eight predators across the top (shark, falcon, spider, dolphin, scorpion, polar bear, alligator, lion) and the adaptations down the side (teamwork, streamlined shape, eyes in front of head, trapping, sharp teeth, good eyesight, camouflage, venom, good sense of smell). They tick each box that applies, talking about each with you. Then answer: 'Which enquiry skill did you practise?' (Identifying and classifying.) Finally they choose a predator not in the book, for example the tiger, the Indian grey wolf, the king cobra or the shikra (a small Indian hawk), and list all its adaptations.",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Eyes in front or at the side?",
+          "mins": 7,
+          "do": "Make a quick test of the 'eyes in front' adaptation. Your child closes one eye and tries to touch the tips of two pencils together, one in each hand, at arm's length; then tries with both eyes open. With one eye it is much harder. Explain: two forward-facing eyes see the same thing from slightly different angles, which lets the brain judge distance; that is why predators like cats, owls and eagles have eyes at the front. Tomorrow you will see why many prey animals have eyes at the sides."
+        }
+      ],
+      "need": ["Learner's Book pages 155–160", "2 pencils", "notebook with the page 160 table", "a book or website for the predator research"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Hide, run or fight back: adaptations of prey",
+      "goal": "Learn the defences and attacks prey animals use, play a camouflage game, and hear how a naturalist discovered animals that copy each other.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Adaptations of prey (pages 161–163)",
+          "mins": 10,
+          "do": "Read pages 161–163. Prey must defend themselves or attack the predator. Hiding: the chameleon, the moth and the fish use camouflage to blend in. Staying in a group: zebras, antelopes and wildebeest stay in herds, some on 'look-out duty' warning the others; fish such as sardines stay in big shoals; bees give off a special alarm smell and others join the guard bees to defend the hive. Protection: tortoises and turtles pull their heads into a hard shell. Seeing sideways: many prey animals have eyes at the sides of the head to see predators on both sides: lizards, antelopes, fish. Getting away fast: antelopes run; an octopus shoots out a cloud of ink and swims off. Attack: bees and wasps sting, some ants spray acid, rhinos and buffalos use their horns, a porcupine rattles and stabs with its quills. Indian examples: the chital (spotted deer) gives alarm calls with langur monkeys watching from the trees; the Indian rhino in Kaziranga; the Indian crested porcupine."
+        },
+        {
+          "kind": "game",
+          "title": "Camouflage hunt",
+          "mins": 13,
+          "do": "Do Activity a5. Cut 20 small worms (2 cm strips) from coloured paper or wool: 5 green, 5 brown, 5 bright red and 5 yellow. While your child is out of the room, scatter them on a patch of grass or soil (or on a patterned bedsheet indoors). Your child is the 'bird' and has 30 seconds to pick up as many as they can. Count which colours were caught and which survived. Swap roles once. Ask: 'Which colour worms survived best? Why? What would happen over many generations if birds kept eating the bright ones?' (More of the camouflaged colours would survive to have young, so the population would become better camouflaged.)",
+          "ref": "a5"
+        },
+        {
+          "kind": "talk",
+          "title": "Adaptations of prey activity (page 164)",
+          "mins": 9,
+          "do": "Do the Activity on page 164 with the pictures (tortoise, wasp, buffalo, hedgehog, octopus, lizard, rabbit, antelope, jellyfish). 6: Defence: tortoise (hard shell), octopus (ink and speed), lizard (camouflage, eyes at the side, running), rabbit (eyes at the side, long ears, running fast), antelope (speed, herd, eyes at the side), hedgehog (rolls into a spiky ball). 7: Attack: wasp (sting), jellyfish (stinging tentacles). 8: A combination: the buffalo stays in a herd (defence) and charges with its horns (attack); the porcupine and hedgehog also do both. 9: Your child chooses another prey, for example the Indian star tortoise, the chital or the honeybee, and finds its adaptations."
+        },
+        {
+          "kind": "think",
+          "title": "Henry Bates and the copycat butterflies",
+          "mins": 8,
+          "do": "Tell the story in Voice v4: Henry Walter Bates noticed in the Amazon that some harmless butterflies look almost exactly like poisonous ones, and explained it in 1862 as a kind of disguise. Tell your child India has examples too: the female common mormon butterfly can look like the poisonous common rose. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Adaptations in new places",
+          "mins": 5,
+          "do": "Do section A of Worksheet ws2 (stretch) now, and sections B and C tomorrow. Remind your child to say WHY each feature helps, not just name it.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book pages 161–164", "coloured paper or wool (green, brown, red, yellow), scissors", "a patch of grass or soil, or a patterned bedsheet", "a timer", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Project: Animals at risk",
+      "goal": "Research an Indian animal that is at risk because of human actions, and prepare a three-minute presentation using science to support the points made.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Read the project brief (page 165)",
+          "mins": 5,
+          "do": "Read 'Project: Animals at risk' on page 165. Many animals are at risk because human behaviour is harming their environment: plastic pollution kills seabirds, dolphins and fish; rapid growth of cities takes away the places where animals live; deforestation destroys forests. Read the list of questions your child must answer. Help them choose one Indian animal: the great Indian bustard (fewer than about 150 left in the wild, killed by colliding with power lines in Rajasthan and Gujarat), the Gangetic river dolphin, the olive ridley turtle of Odisha's beaches, the red panda, the lion-tailed macaque of the Western Ghats, the Asian elephant, the pangolin (hunted for its scales), the vulture (poisoned by a cattle painkiller, diclofenac), or the gharial."
+        },
+        {
+          "kind": "act",
+          "title": "Research the animal",
+          "mins": 25,
+          "do": "Do Activity a6. Using a library book, a children's encyclopaedia or trusted websites (such as WWF-India or the Bombay Natural History Society) with you, your child writes answers to the book's questions: its natural environment; is it a predator and what does it eat; is it prey and what eats it; what people are doing that puts it at risk; how it is at risk; and how people could change their behaviour to make it safe. For each point, they write one piece of evidence or a number (for example: 'Indian vulture numbers fell by more than 95% between the 1990s and the mid-2000s; scientists found that the painkiller diclofenac given to cattle poisoned vultures that ate their dead bodies; India banned it for animals in 2006.')",
+          "ref": "a6"
+        },
+        {
+          "kind": "do",
+          "title": "Prepare the three-minute talk",
+          "mins": 15,
+          "do": "Your child makes a poster or 4–5 cards for a three-minute presentation: picture and name; where it lives and its adaptations; predators and prey; the danger; what can be done. Practise once with a timer. Help them use science to support each point, as the book's code 5SIC.03 asks: not just 'pollution is bad' but 'plastic bags look like jellyfish to turtles, which swallow them and cannot digest them'. They will present on the last day."
+        }
+      ],
+      "need": ["Learner's Book page 165", "a library book, encyclopaedia or trusted websites", "chart paper or cards, coloured pens", "a timer"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress, finish the stretch and challenge sheets, present the project and teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 166–167)",
+          "mins": 12,
+          "do": "Work through Check your progress on pages 166–167. 1a: The Earth rotates on its axis and revolves around the Sun. 1b: One rotation takes 24 hours (a day); one revolution takes 365¼ days (a year). 1c: The orbit around the Sun and the tilt of the axis. 2: Kingston, Jamaica: a day lengths: 1 Jan 11 h 05 min, 4 Jan 11 h 06 min, 8 Jan 11 h 07 min, 12 Jan 11 h 09 min, 16 Jan 11 h 10 min, 20 Jan 11 h 13 min; b the days are slowly getting longer; c winter (Jamaica is in the northern hemisphere, and the days are short but getting longer after the shortest day in December); d summer in six months, in July, because the northern hemisphere will be tilted towards the Sun. 3: pygmy slow loris: a a hot, wet forest; b long grasping hands for hanging in trees, big eyes; c it smacks prey with its hands; d big eyes to see at night; e snakes, eagles and orang-utans; f venom from glands under its elbows, licked onto its teeth; g it sleeps with a slowed body; h in autumn and winter; i because the forest winter is not very long or cold, so it can still find some food."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch and challenge worksheets",
+          "mins": 9,
+          "do": "Finish Worksheet ws2 (stretch) sections B and C, then do section A of Worksheet ws3 (challenge); save sections B and C of ws3 for the weekend. Read the challenge questions aloud and talk them through first. For the distance question, listen for: 'The Earth is closest to the Sun in January, which is our winter, so distance cannot cause the seasons.'",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 7,
+          "do": "Ask the 8 check questions aloud without the book. Tick each one answered well. For any missed answer open the right page (orbit page 137, seasons pages 138–140, day length page 143, trees page 144, hibernation and migration pages 146–147, environments pages 150–153, predators and prey pages 156–163) and look together for a minute, then ask again in different words. Six or more is good; fewer than five means repeat Days 2 and 7 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Present the project and teach it back",
+          "mins": 17,
+          "do": "First your child gives their three-minute 'Animals at risk' presentation from Activity a6 to the family, and answers one question from each listener. Then they become the teacher: with the globe and lamp, they show in 5 minutes why India has summer when Australia has winter, and then explain one adaptation each of a desert, a wetland and a mountain animal, and one predator and one prey adaptation. Ask two 'student' questions: 'Is it summer because we are closer to the Sun?' and 'Why do chinar leaves turn red in autumn?'",
+          "ref": "a6"
+        }
+      ],
+      "need": ["Learner's Book pages 166–167", "worksheets ws2 and ws3", "the globe and lamp", "the project poster or cards"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Seasons and environments",
+      "day": 9,
+      "sections": [
+        ["A. The Earth and the Sun", [
+          {"t": "match", "p": "Match each movement to how long it takes.", "pairs": [["The Earth rotates once on its axis", "24 hours (one day)"], ["The Earth revolves once around the Sun", "365¼ days (one year)"]]},
+          {"t": "fill", "p": "The path of the Earth around the Sun is called its ____.", "a": ["orbit"]},
+          {"t": "mcq", "p": "Seasons are caused by:", "opts": ["The Earth getting closer to and further from the Sun", "The tilt of the Earth's axis as it orbits the Sun", "Clouds blocking the Sun", "The Moon"], "a": 1},
+          {"t": "mcq", "p": "When it is summer in India, in Australia it is:", "opts": ["Summer", "Winter", "Always spring", "There are no seasons"], "a": 1}
+        ]],
+        ["B. Seasonal changes", [
+          {"t": "fill", "p": "Leaves are green because they contain ____.", "a": ["chlorophyll"]},
+          {"t": "match", "p": "Match each word to its meaning.", "pairs": [["Hibernate", "Sleep deeply through a cold season"], ["Migrate", "Travel far each year to find food or warmth"], ["Dormant", "Resting, alive but not growing"]]},
+          {"t": "write", "p": "Sunrise is 06:10 and sunset is 18:40. What is the length of the day? Show how you worked it out.", "lines": 2}
+        ]],
+        ["C. Environments", [
+          {"t": "sort", "p": "Which environment is each adaptation for?", "items": ["Thorns instead of leaves", "Large floating leaves", "Thick fur", "Wide feet for sand", "Webbed feet", "Resin on the bark", "Gills", "Burrowing in the day"], "cats": ["Hot and dry", "Wet", "Cold"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Adaptations in new places",
+      "day": 11,
+      "sections": [
+        ["A. Predators and prey", [
+          {"t": "sort", "p": "Is each a predator adaptation or a prey adaptation?", "items": ["Eyes at the sides of the head", "Eyes facing forward", "Sharp talons", "A hard shell", "Ink cloud", "A web", "Living in a herd", "Hunting in a pack"], "cats": ["Mostly predator", "Mostly prey"]},
+          {"t": "write", "p": "A tiger has orange and black stripes. How can such bright colours be camouflage in the long grass of Ranthambore?", "lines": 3}
+        ]],
+        ["B. Explain it", [
+          {"t": "write", "p": "Why do many trees in central India lose their leaves in April and May rather than in winter?", "lines": 3},
+          {"t": "write", "p": "Amur falcons fly from China to southern Africa, stopping in Nagaland. Why do you think they fly so far instead of staying in one place?", "lines": 3},
+          {"t": "mcq", "p": "A lotus stem has big air spaces so that:", "opts": ["The plant is heavier", "The plant floats and its leaves reach the light", "Fish can live inside", "It stores salt"], "a": 1}
+        ]],
+        ["C. Day length data", [
+          {"t": "table", "p": "Copy your own city's data for one week.", "cols": ["Date", "Sunrise", "Sunset", "Length of day"], "rows": 7},
+          {"t": "write", "p": "Describe the pattern in your data and explain it using the tilt of the Earth.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a naturalist",
+      "day": 13,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "The Earth is closest to the Sun in early January. Use this fact to argue that distance from the Sun does NOT cause the seasons.", "lines": 4},
+          {"t": "write", "p": "What would the seasons be like if the Earth's axis were not tilted at all? Explain.", "lines": 3},
+          {"t": "mcq", "p": "Where in the world would you find the smallest change in day length through the year?", "opts": ["Norway", "At the Equator, such as Singapore", "Kashmir", "Antarctica"], "a": 1}
+        ]],
+        ["B. Design an animal", [
+          {"t": "draw", "p": "Invent an animal that lives in the cold desert of Ladakh: very cold, very dry, windy, with little food in winter. Label at least five adaptations."},
+          {"t": "write", "p": "Your animal is prey. Describe two ways it avoids predators and say why each would work.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Copernicus said the Earth goes round the Sun. Many people refused to believe it for a long time because they could not feel the Earth moving. What evidence would you use today to convince them?", "lines": 4},
+          {"t": "write", "p": "A new highway would help farmers reach markets but cut through a forest where elephants travel. Suggest a plan that helps both people and elephants.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Torch and globe: why tilt makes seasons",
+      "day": 2,
+      "question": "How does the tilt of the Earth's axis cause the seasons?",
+      "need": ["a globe, or a ball with a pencil through it", "a lamp without a shade (the Sun)", "2 small paper flags and tape", "a torch", "squared paper and a pencil", "the chalk marks from Day 1"],
+      "steps": [
+        "Stick one flag on India and one on Australia.",
+        "Place the globe at the June mark, axis tilted, with the North Pole leaning towards the 'North Star' wall.",
+        "Spin the globe slowly. Notice which flag spends longer in the light and which hemisphere leans towards the lamp.",
+        "Carry the globe round to the December mark, keeping the axis pointing at the same wall. Spin and observe again.",
+        "Spreading-light test: hold the torch 30 cm above squared paper pointing straight down and draw round the bright patch.",
+        "Tilt the torch at a slant from the same distance and draw round the new patch. Count the squares in each."
+      ],
+      "predict": "Ask your child to guess first: if the axis always points the same way, will the same hemisphere always lean towards the Sun? Which torch patch will be brighter: the straight one or the slanting one?",
+      "observe": "At the June mark, the northern hemisphere leans towards the lamp and India stays lit for more of each spin; at December, the southern hemisphere does. The slanting torch makes a bigger but dimmer patch covering more squares.",
+      "why": "The Earth's axis is tilted by about 23.5 degrees and keeps pointing the same way in space all year. So in June the northern half leans towards the Sun and in December it leans away. When your half leans towards the Sun, two things happen. First, the Sun climbs higher in the sky, so its rays hit the ground more directly, and the same sunlight is concentrated on a smaller area, like the straight torch, which heats the ground more. Second, more of each spin is spent in daylight, so days are longer and there is more time to warm up. Both together make summer. Six months later the opposite is true, giving winter. The distance from the Sun changes only a little (about 3%), and the Earth is actually closest in January, so distance is not the cause.",
+      "safety": "Do not look straight into the torch or lamp. Keep the lamp's cable where no one will trip.",
+      "time": "18 min"
+    },
+    {
+      "id": "e2",
+      "title": "Cactus models: how a desert plant saves water",
+      "day": 7,
+      "question": "Does a fat shape and a waxy coat help a plant keep its water?",
+      "need": ["a kitchen sponge cut into 3 equal strips (or 3 equal pieces of cloth)", "water", "2 rubber bands", "cling film or Vaseline", "a kitchen scale", "a sunny spot or a fan"],
+      "steps": [
+        "Soak the three strips in water and squeeze each the same way so they hold similar amounts.",
+        "Leave strip 1 flat and open: a thin leaf.",
+        "Roll strip 2 tightly and hold it with a rubber band: a fat cactus stem.",
+        "Roll strip 3 the same way, then wrap its sides in cling film (or rub with Vaseline), leaving the ends open: a waxy cactus.",
+        "Weigh each and record the weights.",
+        "Put all three in the same sunny or breezy place for 2–3 hours.",
+        "Weigh again and work out how many grams of water each lost."
+      ],
+      "predict": "Ask your child to guess first: which model will lose the most water? Which the least?",
+      "observe": "The flat strip loses the most weight (water), the rolled strip less, and the wrapped 'waxy' roll the least.",
+      "why": "Water evaporates from surfaces that are exposed to warm, moving air. A flat, thin shape has a lot of surface for its size, so it dries fast; that is why thin, broad leaves lose a lot of water. A fat, rounded shape like a cactus stem has much less surface for the same amount of water, so it loses water more slowly. The cling film acts like the waxy coat on a cactus, sealing most of the surface so water vapour cannot escape. Cacti also swapped their leaves for spines, removing big water-losing surfaces altogether, and they open their tiny breathing holes mainly at night when it is cooler. Treating all three models the same apart from shape and covering makes it a fair test.",
+      "safety": "Weigh the strips on a plate to keep the scale dry.",
+      "time": "18 min + 5 min after 2–3 hours"
+    },
+    {
+      "id": "e3",
+      "title": "Blubber glove and fur test",
+      "day": 9,
+      "question": "How do fat and fur keep animals warm in cold places?",
+      "need": ["a big bowl of ice water", "4 zip-lock bags", "about 4 tablespoons of ghee or vanaspati", "a timer", "2 cups of warm water", "an old woollen sock or shawl", "a thermometer"],
+      "steps": [
+        "Spoon the ghee into one zip-lock bag. Put a second bag inside it and squish the ghee so it lines the space evenly. Tape the tops together.",
+        "Make an 'empty glove' from the other two bags with nothing between them.",
+        "Your child puts one hand in each glove and dips both into the ice water at the same time.",
+        "Time how long each hand can comfortably stay in (stop at 2 minutes).",
+        "Fill two cups with the same warm water and measure the temperature.",
+        "Wrap one cup in the woollen sock or shawl; leave the other bare. After 15 minutes measure both temperatures again."
+      ],
+      "predict": "Ask your child to guess first: which hand will get cold first? Which cup will stay warmer?",
+      "observe": "The hand in the fat glove stays comfortable much longer; the bare-bag hand gets painfully cold quickly. The wrapped cup is several degrees warmer after 15 minutes than the bare cup.",
+      "why": "Heat always flows from a warmer thing to a colder thing. Fat is a poor conductor of heat, so a thick layer of fat (blubber) slows the flow of heat out of a seal's or polar bear's body into icy water, just as the ghee slowed the heat leaving your hand. Fur and wool work in a different way: they trap a thick layer of still air between the hairs, and still air is an excellent insulator, so heat escapes much more slowly. That is why snow leopards and yaks have thick, long fur, why birds fluff up their feathers in winter, and why our woollen sweaters keep us warm. Neither fur nor fat makes heat; they keep in the heat the body already makes.",
+      "safety": "Stop at once if the hand hurts; never keep a hand in ice water for more than 2 minutes. Wash the ghee off afterwards.",
+      "time": "18 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Walk the Earth's orbit",
+      "day": 1,
+      "mins": 13,
+      "need": ["a lamp or upright torch on a stool", "a globe or ball on a pencil", "chalk or paper markers"],
+      "steps": [
+        "Put the lamp in the middle of the room as the Sun.",
+        "Walk anticlockwise round it in a big, slightly oval path, holding the globe.",
+        "Spin the globe anticlockwise as you walk: one spin is one day.",
+        "Mark four places on the floor for March, June, September and December, as in the page 138 diagram.",
+        "Count how many spins it would take to go all the way round (365¼).",
+        "Keep the marks for the seasons experiment."
+      ],
+      "outcome": "A full-size floor model of the Earth's year, showing that the Earth spins (day and night) while it travels round the Sun (a year), with season positions marked for Day 2."
+    },
+    {
+      "id": "a2",
+      "title": "Our own length-of-day graph (Think like a scientist, page 144, questions 5–8)",
+      "day": 4,
+      "mins": 10,
+      "need": ["a newspaper weather box or phone weather app", "a table in the notebook", "squared paper and a ruler"],
+      "steps": [
+        "Each day for a week, write your city's sunrise and sunset times.",
+        "Calculate the length of day by subtracting sunrise from sunset.",
+        "Also look up the times for the 21st of each month of the year.",
+        "Draw a line graph of length of day against month.",
+        "Compare the pattern with Cape Town's data on page 143.",
+        "Write a conclusion about how day length changes through the year and why."
+      ],
+      "outcome": "A table and a line graph of your own city's day length through the year, showing the longest day in June and the shortest in December, and a written comparison with Cape Town's opposite pattern."
+    },
+    {
+      "id": "a3",
+      "title": "Migrating bird poster (Activity 2, question 3, page 148)",
+      "day": 6,
+      "mins": 15,
+      "need": ["a bird book or trusted website", "a world map outline", "A4 paper, coloured pens"],
+      "steps": [
+        "Choose a bird that migrates to India (Amur falcon, bar-headed goose, demoiselle crane, flamingo, rosy starling).",
+        "Find out where it breeds and where it spends the winter.",
+        "Draw the route on a map outline with an arrow and the distance.",
+        "Add a picture of the bird and its adaptations for long flight.",
+        "List the dangers on its journey.",
+        "Present the poster to the family in two minutes."
+      ],
+      "outcome": "A poster showing a real migratory bird's journey to India, the reasons it migrates and the dangers it faces."
+    },
+    {
+      "id": "a4",
+      "title": "Predator adaptations table (Think like a scientist, pages 159–160)",
+      "day": 10,
+      "mins": 15,
+      "need": ["the table on page 160 copied into the notebook", "a book or website for extra research"],
+      "steps": [
+        "Copy the table: eight predators across, nine adaptations down.",
+        "For each predator, tick every adaptation it has, discussing each one.",
+        "Count which adaptation is most common.",
+        "Name the enquiry skill used (identifying and classifying).",
+        "Research one more predator (tiger, grey wolf, king cobra or shikra) and list its adaptations.",
+        "Add it as a new column."
+      ],
+      "outcome": "A completed classification table of predator adaptations, with one extra Indian predator researched and added."
+    },
+    {
+      "id": "a5",
+      "title": "Camouflage worm hunt",
+      "day": 11,
+      "mins": 13,
+      "need": ["20 paper or wool 'worms' (5 each of green, brown, red, yellow)", "a patch of grass or soil, or a patterned bedsheet", "a timer"],
+      "steps": [
+        "Scatter the worms on the grass while the 'bird' is not looking.",
+        "The bird has 30 seconds to collect as many as possible.",
+        "Count the worms caught of each colour and how many survived.",
+        "Swap roles and repeat.",
+        "Make a bar chart of survivors by colour.",
+        "Discuss what would happen over many generations."
+      ],
+      "outcome": "A bar chart showing that camouflaged colours survive better, and the idea that camouflage is an adaptation that helps prey avoid being eaten."
+    },
+    {
+      "id": "a6",
+      "title": "Animals at risk presentation (Project, page 165)",
+      "day": 12,
+      "mins": 25,
+      "need": ["a library book, encyclopaedia or trusted websites", "chart paper or cards, coloured pens", "a timer"],
+      "steps": [
+        "Choose an Indian animal at risk.",
+        "Describe its natural environment and adaptations.",
+        "Find out its predators and prey.",
+        "Find out what people are doing that puts it at risk, with at least one number or fact as evidence.",
+        "Suggest how people can change their behaviour to keep it safe.",
+        "Prepare a three-minute talk and present it."
+      ],
+      "outcome": "A three-minute, evidence-based presentation about an Indian animal at risk and what people can do to protect it."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Aryabhata (476–c. 550 CE), India",
+      "idea": "In his book the Aryabhatiya, written in 499 CE when he was 23, Aryabhata stated that the Earth rotates on its axis, and that the stars only seem to move westward because the Earth turns eastward, like a person in a moving boat who sees the riverbank moving backwards. He calculated the length of the year and the time of one rotation with remarkable accuracy, and explained eclipses as shadows of the Earth and the Moon rather than the work of demons.",
+      "then": "Many later Indian astronomers, including the famous Brahmagupta, rejected his idea that the Earth spins, arguing that if it did, birds would not be able to return to their nests and things would fly off. Some commentators even changed his words to fit the older view.",
+      "now": "His idea that the Earth rotates is accepted and correct. (His overall model still had the Sun and planets going round the Earth.) India's first satellite, launched in 1975, was named Aryabhata in his honour.",
+      "status": "accepted",
+      "ask": "People said birds could not find their nests if the Earth spun. Why is that argument wrong? How do we know today that the Earth spins?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Nicolaus Copernicus (1473–1543), Poland, and the long argument about the Sun",
+      "idea": "In his book 'On the Revolutions of the Heavenly Spheres', published in 1543 just before he died, Copernicus argued that the Sun, not the Earth, is near the centre, and that the Earth both spins on its axis and travels around the Sun once a year. (Aristarchus of Samos had suggested a Sun-centred idea around 250 BCE, but it was not accepted.)",
+      "then": "Most scholars and religious authorities rejected it for decades: it seemed to go against common sense and religious teaching, and Copernicus's model did not at first predict planet positions much better than the old one. When Galileo supported it with telescope observations, he was put on trial in 1633 and kept under house arrest.",
+      "now": "Improved by Johannes Kepler, who showed that orbits are ellipses (1609), and explained by Isaac Newton's law of gravity (1687), the Sun-centred model is fully accepted. It is the model shown in every diagram in this unit.",
+      "status": "accepted",
+      "ask": "You cannot feel the Earth moving. What would you need to see to believe the Earth goes round the Sun, and not the other way round?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Salim Ali (1896–1987), India",
+      "idea": "Salim Ali spent his life studying Indian birds and wrote books such as 'The Book of Indian Birds' (1941) and, with S. Dillon Ripley, the ten-volume 'Handbook of the Birds of India and Pakistan'. Working with the Bombay Natural History Society, he led large bird-ringing programmes from the 1960s: catching migrant birds, fitting each with a light numbered metal ring and releasing it. When a ringed bird was found again in another country, it proved the route and distance it had travelled.",
+      "then": "In his early years, bird study in India was mostly about collecting dead specimens; Salim Ali pushed for careful study of living birds in the field, their behaviour and ecology. His work was widely respected; he received the Padma Bhushan (1958) and the Padma Vibhushan (1976).",
+      "now": "His findings are accepted, and ringing is still used, now alongside tiny satellite tags. In 2012 scientists in Nagaland fitted Amur falcons with satellite tags and tracked their flights of thousands of kilometres to southern Africa and back. He also campaigned to protect places like Keoladeo (Bharatpur) and Silent Valley.",
+      "status": "accepted",
+      "ask": "Before rings and satellite tags, people saw birds arrive in winter but could not be sure where they came from. Why is a numbered ring better evidence than just seeing a bird arrive?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "Henry Walter Bates (1825–1892), England",
+      "idea": "Bates spent eleven years collecting insects in the Amazon rainforest. He noticed that some harmless butterflies looked almost exactly like other butterflies that taste horrible to birds. In 1862 he explained that birds learn to avoid the bad-tasting kind, so harmless butterflies that happened to look like them were eaten less, survived better and passed on their looks. This is now called Batesian mimicry.",
+      "then": "Charles Darwin praised the paper warmly as strong support for his theory of natural selection, which was only three years old and still fiercely argued about. Many others remained sceptical of natural selection for years.",
+      "now": "Mimicry is accepted and has been tested in many experiments in which birds are offered real and look-alike prey. India has clear examples: some females of the common mormon butterfly mimic the poisonous common rose, and the harmless common wolf snake looks rather like the venomous common krait.",
+      "status": "accepted",
+      "ask": "How could you test whether birds really avoid a look-alike butterfly because of its colours? What would you need to keep the same?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "What are the two movements of the Earth and how long does each take?", "a": "It rotates on its axis once every 24 hours (a day) and revolves around the Sun once every 365¼ days (a year)."},
+    {"q": "What causes the seasons?", "a": "The Earth orbiting the Sun with its axis tilted: when our hemisphere is tilted towards the Sun we get more direct sunlight and longer days (summer); when it is tilted away we get winter. It is not the distance from the Sun."},
+    {"q": "Why is it summer in Australia when it is winter in India?", "a": "Australia is in the southern hemisphere. In December the southern hemisphere is tilted towards the Sun while the northern hemisphere, where India is, is tilted away."},
+    {"q": "How do you work out the length of a day? In our city, when are days longest?", "a": "Subtract the sunrise time from the sunset time. Days are longest around June (21 June) and shortest around December (22 December)."},
+    {"q": "Why do the leaves of trees like the chinar change colour and fall in autumn?", "a": "Days get shorter with less sunlight, so the leaves cannot make enough food; the green chlorophyll breaks down, leaving yellow and red colours, and the leaves fall. The tree stays dormant through winter."},
+    {"q": "What is the difference between hibernation and migration? Give an example of each.", "a": "Hibernation is staying in one place in a deep sleep through winter, like the Himalayan brown bear; migration is travelling far to a place with food or warmth, like Amur falcons or bar-headed geese coming through India."},
+    {"q": "Give two adaptations of a cactus and two of a camel for hot, dry places.", "a": "Cactus: spines instead of leaves, a waxy coat, a fat water-storing stem, deep roots. Camel: humps storing fat, long eyelashes, wide feet for sand, thick lips for thorny plants, surviving a long time without water."},
+    {"q": "Name two adaptations of predators and two of prey, with an example animal for each.", "a": "Predators: speed (cheetah), eyes at the front (eagle), venom (cobra), teamwork (dhole), traps (spider). Prey: camouflage (moth), living in a herd (chital), a hard shell (tortoise), eyes at the side (antelope), quills (porcupine)."}
+  ]
+}
