@@ -13,7 +13,7 @@ function scienceTab(){const R=DATA.resources||[],C=DATA.rconcepts||[],cn=ui.rc||
   return `<section class="sec"><p class="sm muted">${R.length} free and low-cost science resources (simulations, experiments, worksheets, videos and more) from trusted sites, each tagged to the ideas and chapters it fits.</p>
    <div class="field"><label for="rcSel">Idea</label><select class="inp" id="rcSel"><option value="">All ideas</option>${C.filter(c=>counts[c.id]).map(c=>`<option value="${esc(c.id)}" ${cn===c.id?"selected":""}>${esc(c.concept)} (${counts[c.id]})</option>`).join("")}</select></div>
    <div class="row" style="flex-wrap:wrap;gap:6px">${[["all","All"],...Object.entries(RTYPE)].filter(([k])=>k==="all"||R.some(r=>r.type===k)).map(([k,n])=>`<button class="chip" aria-pressed="${ty===k}" data-act="rt" data-t="${k}">${n}</button>`).join("")}</div>
-   ${S.age?`<button class="chip" aria-pressed="${fit}" data-act="rfit">Suits age ${S.age}</button>`:""}
+   ${S.age?`<button class="chip" aria-pressed="${fit}" data-act="rfit" style="justify-self:start">Suits age ${S.age}</button>`:""}
    <p class="xs muted">${L.length} shown</p><div class="grid2">${resSort(L).slice(0,ui.rmore||40).map(resCard).join("")}</div>${L.length>(ui.rmore||40)?`<button class="btn line sm" data-act="rmore">Show more</button>`:""}</section>`}
 document.addEventListener("change",e=>{if(e.target.id==="rcSel"){ui.rc=e.target.value;ui.rmore=40;delete e.target.dataset.dirty;render()}});
 const greetBar=sub=>`<section class="greetbar"><b>${greetWord()}${pname()?", "+esc(pname()):""}!</b><span class="xs muted">${sub}</span></section>`;

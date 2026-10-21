@@ -1,0 +1,23 @@
+// Library: syllabus browser, What we have sorter (mock Claude, with photo), resource chapter tags, lesson extras.
+const { chromium } = require('/opt/node-tools/node_modules/playwright');
+(async()=>{const SP=process.argv[2];const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const ctx=await b.newContext({viewport:{width:400,height:860}});await ctx.clock.install({time:new Date('2026-10-21T10:20:00')});
+await ctx.addInitScript(()=>{window.__prompts=[];window.claude={use:async n=>n==='sample'?{limits:async()=>({images:true}),json:async(p,o)=>{window.__prompts.push({p,imgs:(o.images||[]).length});
+  return {items:[{name:"The Blue Umbrella",cat:"book",by:"Ruskin Bond",kind:"chapter book",ages:"8–12",note:"A short novel set in the hills",chapters:["ncert|eng|4|1"],concepts:[]},{name:"Magnifying glass",cat:"tool",by:"",kind:"",ages:"",note:"For looking closely at leaves and insects",chapters:["ncert|sci|3|4","bogus|key"],concepts:["plants"]},{name:"Snakes and Ladders",cat:"game",by:"",kind:"board game",ages:"5+",note:"Counting practice",chapters:[],concepts:["nope"]}]}}}:null}});
+const p=await ctx.newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));const shot=n=>p.screenshot({path:SP+'/s11_'+n+'.png'});
+await p.goto('file://'+SP+'/app_prev.html');await p.waitForTimeout(500);await p.fill('#lgPhone','98765 43210');await p.fill('#lgName','S');await p.click('[data-act="login"]');await p.waitForTimeout(500);
+await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="ncert"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(400);
+await p.click('#nav [data-tab="library"]');await p.waitForTimeout(200);
+console.log('1. syllabus default:',await p.textContent('#main .xs.muted:below(.sech)').catch(()=>''),'| rows:',await p.$$eval('.topic',x=>x.length));
+await p.click('[data-act="bb"][data-b="cambridge"]');await p.click('[data-act="bl"][data-l="5"]').catch(()=>{});await p.waitForTimeout(200);console.log('2. cambridge stage 5 rows:',await p.$$eval('.topic b',x=>x.map(e=>e.textContent)));await shot('syll');
+await p.click('[data-act="bb"][data-b="ncert"]');await p.click('[data-act="bs"][data-s="math"]');await p.waitForTimeout(200);console.log('3. ncert maths rows:',await p.$$eval('.topic',x=>x.length));
+await p.click('[data-act="lt"][data-t="have"]');await p.waitForTimeout(200);
+await p.fill('#invText','Blue Umbrella, a magnifying glass, snakes and ladders');
+await p.setInputFiles('#invImg',{name:'shelf.png',mimeType:'image/png',buffer:Buffer.from('89504e470d0a1a0a','hex')});await p.waitForTimeout(200);
+console.log('4. text kept after photo:',await p.inputValue('#invText'));
+await p.click('[data-act="isort"]');await p.waitForTimeout(400);console.log('5. parsed:',await p.$$eval('.parsed b',x=>x.map(e=>e.textContent)),'| images sent:',await p.evaluate(()=>window.__prompts[0].imgs),'| prompt has chapters:',await p.evaluate(()=>window.__prompts[0].p.includes('ncert|sci|3|4 =')));
+await p.click('[data-act="iadd"]');await p.waitForTimeout(300);console.log('6. saved inv:',JSON.stringify(await p.evaluate(()=>S.inv.map(i=>[i.name,i.cat,i.chapters,i.concepts]))));await shot('have');
+await p.click('[data-act="lt"][data-t="science"]');await p.waitForTimeout(200);console.log('7. first resource fits:',await p.$$eval('.rescard',x=>x[0]?.querySelector('.chips')?.textContent));await shot('res');
+await p.evaluate(()=>openSheet({mode:'chapter',k:'ncert|sci|3|4'}));await p.waitForTimeout(200);console.log('8. chapter shelf:',(await p.textContent('#sheetBody')).includes('From your shelf'));await p.evaluate(()=>sheet.close());
+const u=await p.evaluate(()=>{const it={kind:"lesson",u:unitByK('ncert|sci|3|4'),n:1,tot:9,id:'x',s:'sci'};return itemDetail(it,today).includes('Good extras')&&itemDetail(it,today).includes('From your shelf')});console.log('9. lesson extras + shelf:',u);
+console.log('errors:',JSON.stringify(errs));await b.close()})();
