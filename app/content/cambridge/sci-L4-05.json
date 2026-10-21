@@ -1,0 +1,865 @@
+{
+  "key": "cambridge|sci|4|5",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 4,
+  "n": 5,
+  "title": "Light",
+  "source": "Cambridge Primary Science Learner's Book 4 (2nd edition, 2021), Unit 5 'Light' (pages 96–123)",
+  "summary": "Your child discovers that we see objects that are not light sources because light from a source reflects off them into our eyes, proves that light travels in straight lines called rays and draws ray diagrams, and tests how well different surfaces reflect light. They then move out into space: the Sun as our star and light source, the eight planets, moons, asteroids and comets, how the Earth's spin on its axis causes day and night, and how shadow lengths change through the day because of the Sun's apparent movement, ending with research into an astronomer such as Aryabhata or Galileo.",
+  "goals": [
+    "By the end your child can explain, with a ray diagram, how we see an object that is not a light source: light travels from the source to the object and reflects off it into our eyes.",
+    "By the end your child can give evidence that light travels in straight lines and draw ray diagrams with arriving and reflected rays and arrowheads.",
+    "By the end your child can rank surfaces by how well they reflect light, describe the pattern (smooth, shiny surfaces reflect best; rough, dull ones absorb more) and explain how mirrors help people.",
+    "By the end your child can name the eight planets in order from the Sun, describe stars, planets, moons, asteroids and comets, and explain that planets and moons shine by reflecting the Sun's light.",
+    "By the end your child can use a globe and a torch to show that the Earth spinning on its axis once every 24 hours causes day and night and the Sun's apparent movement.",
+    "By the end your child can measure shadow lengths through the day, describe the pattern (long in the morning and evening, shortest around midday, changing direction) and explain why repeated measurements are more reliable."
+  ],
+  "words": [
+    ["source of light", "something that gives out its own light, like the Sun, a bulb, a diya flame or a firefly"],
+    ["reflect", "when light bounces off a surface; we see most things because light reflects off them into our eyes"],
+    ["absorb", "when a surface takes in light and does not bounce it back"],
+    ["ray", "a narrow beam of light travelling in a straight line"],
+    ["ray diagram", "a drawing with straight lines and arrowheads that shows the path light travels"],
+    ["proof", "scientific evidence that shows something is true"],
+    ["image", "the picture of something you see in a mirror or shiny surface"],
+    ["solar system", "the Sun and everything that orbits it: eight planets, their moons, asteroids and comets"],
+    ["orbit", "to travel round and round another body in space; the Earth orbits the Sun once a year"],
+    ["asteroid", "a rocky lump much smaller than a planet that orbits the Sun, mostly between Mars and Jupiter"],
+    ["comet", "a lump of ice and dust in a long orbit round the Sun that grows a glowing tail when it comes near the Sun"],
+    ["axis", "an imaginary line through the Earth from the North Pole to the South Pole that the Earth spins around"],
+    ["anticlockwise", "turning the opposite way to the hands of a clock; seen from above the North Pole, the Earth spins anticlockwise"],
+    ["apparent movement", "the way the Sun seems to move across the sky, although it is really the Earth that is spinning"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "How do we see things?",
+      "goal": "Find sources of light, wonder how we see things that do not shine, and do the coin-in-the-box investigation from pages 96–98.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The dark room",
+          "mins": 6,
+          "do": "Take your child into a room you can make completely dark (bathroom at night, or a room with curtains drawn and a towel under the door). Hold up a steel spoon. Ask: 'Can you see the spoon?' (No.) 'Your eyes are open and the spoon is still here. So what is missing?' (Light.) Switch on the light: 'Now you can see it. Did the spoon start shining?' (No.) Ask: 'So how does light help you see a spoon that doesn't make light?' Write their idea down to check later."
+        },
+        {
+          "kind": "talk",
+          "title": "Getting started: sources of light (page 96)",
+          "mins": 6,
+          "do": "Look at the pictures on page 96 and ask the Getting started questions. 1 Identify the sources of light: where does the light come from? 2 What is the source of light in this room? (Tubelight, bulb, window: really the Sun.) 3 How do you think you can see me? Then your child lists 8 sources of light from life: the Sun, stars, a diya, a candle, a tubelight, a phone screen, a torch, a firefly (jugnu), lightning, a gas flame. Ask: 'Is the Moon a source of light?' (No, it reflects the Sun's light; you'll find out on Day 6.) 'Is a mirror?' (No.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate how we see an object (pages 97–98)",
+          "mins": 18,
+          "do": "Do Experiment e1, the 'Investigate how we see an object' investigation on page 97. Use a shoe box with a lid. YOU cut the two holes in the lid with a craft knife (read the safety note on page 97): one the size of your torch head, one the size of an eye. Put a ₹5 coin in the bottom and close the lid. Your child covers the torch hole with a hand, predicts whether they will see the coin, then looks. Then shine the torch through its hole: predict, then look. Ask Questions 1 and 2 on page 98: can you see the coin without the torch? (No, or only very dimly.) With it? (Yes.) For Question 3, your child copies and completes the conclusion: 'Light travels from the light source (the flashlight) to the object (the coin). The light bounces or reflects off the coin into our eyes. This is how I can see the object.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Do our eyes send out rays?",
+          "mins": 10,
+          "do": "Read Voice v1 about the old idea that eyes send out rays, and Ibn al-Haytham's evidence against it. Ask the voice question. Then ask: 'Which result in our coin box is hard to explain if your eyes send out rays?' (With the torch hole covered, we couldn't see the coin, even though our eyes were open and looking. So the light must come from outside, from a source, not from our eyes.)",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (page 98)",
+          "mins": 5,
+          "do": "Do the 'How am I doing?' table on page 98: how well can I make a prediction, test a prediction, make a conclusion? Your child rates each Very well, Quite well or I need help. Then compare with their warm-up idea from the dark room: did they change their mind?"
+        }
+      ],
+      "need": ["Learner's Book pages 96–98", "a shoe box with a lid", "a craft knife (adult only)", "a torch", "a ₹5 coin", "a room you can make dark", "a steel spoon"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Light travels in straight lines",
+      "goal": "Explain how the person sees the car (page 98), and prove with a bendy tube that light travels in straight lines (pages 99–100).",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "How can the person see the car? (page 98)",
+          "mins": 8,
+          "do": "Do the Activity on page 98 using the picture. 1 Identify the source of light. (The Sun.) 2 Identify the object. (The car.) 3 Write a sentence: 'Light travels from the Sun to the car, reflects off the car and goes into the person's eyes.' 4 Discuss: 'How could the person see the car at night?' (Street lamps or the car's own lights or a torch act as the light source; with no light at all, they could not see it.) Then read the 'Look what I can do!' list on page 98 and tick."
+        },
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 99)",
+          "mins": 6,
+          "do": "Look at the photographs on pages 99–100 (sunbeams and a film projector) and ask the Getting started questions. 1 Name the source of light. (The Sun; the projector bulb.) 2 Does the light travel in curved or straight lines? (Straight: the beams are straight.) 3 'Can light travel round corners?' Let your child think aloud. Ask: 'Can you see me if I hide behind the door? Can you hear me?' (You can hear but not see, so sound goes round corners but light doesn't.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Prove that light travels in straight lines (page 100)",
+          "mins": 15,
+          "do": "Do Experiment e2, 'Prove that light travels in straight lines' on page 100. Use about a metre of bendy plastic pipe (a garden hose or a washing-machine drain pipe) or a rolled paper tube. Read page 100 first: as scientists we need proof, evidence that shows something is true. Hold the pipe straight. Your child predicts whether you will see the light at the far end, then shines the torch in while you look (never shine it straight into an eye from close; look from a little distance at the end of the pipe). Then bend the pipe into a U, predict and test again. Ask: 'What do you conclude about how light travels?' (In straight lines: it can't follow the bend.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Three cards test",
+          "mins": 12,
+          "do": "Do Experiment e3 as a second proof. Punch a hole with a pencil in the same place in three postcards or cardboard pieces (stack them and punch together). Stand them upright 15 cm apart with clay or clips, holes lined up, and a torch or candle at one end (adult lights a candle). Your child looks through the holes from the other end: they see the light. Now slide the middle card 2 cm sideways. Ask them to predict first, then look: the light disappears. Ask: 'Why?' (Light can only get through if all the holes are in a straight line.) Tell them this is the same reason we can see a friend through a straight pipe but not through a bent one.",
+          "ref": "e3"
+        },
+        {
+          "kind": "do",
+          "title": "One-line proof",
+          "mins": 4,
+          "do": "Your child writes in the notebook: 'Proof that light travels in straight lines: 1 ... 2 ...' using today's two experiments, and draws a sunbeam coming through a window gap like the photo on page 99."
+        }
+      ],
+      "need": ["Learner's Book pages 98–100", "about 1 metre of bendy plastic pipe or a paper tube", "a torch", "3 postcards or card pieces, a pencil, clay or clips", "a candle and matches (adult) or a second torch"],
+      "prep": [{"task": "Find a length of bendy plastic pipe (old hose or drain pipe) and three postcards", "when": "2 days before"}]
+    },
+    {
+      "n": 3,
+      "title": "Rays and ray diagrams",
+      "goal": "Learn from pages 101–102 what rays are, how to draw arriving and reflected rays, and practise ray diagrams for real situations.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Light rays and ray diagrams (page 101)",
+          "mins": 10,
+          "do": "Read page 101 aloud. Each narrow beam of light is a ray; rays travel from a source in all directions until they hit something; in a ray diagram we draw straight lines for rays with arrowheads to show direction; the ray from the lamp to the book is the arriving ray; the one bouncing off the book is the reflected ray; if it enters our eyes, we see the book. Make it real: in a dim room, shine a torch through a cloud of talcum powder sprinkled in the air (or the steam from a kettle, kept at a safe distance). The beam shows up as a straight line."
+        },
+        {
+          "kind": "do",
+          "title": "Practise drawing ray diagrams (page 102)",
+          "mins": 15,
+          "do": "Do the Activity on page 102. 1 In the coin-in-the-box diagram, which is the reflected ray, A or B? (The one going from the coin up to the eye.) 2 In the car diagram, identify the arriving ray and the reflected ray labelled 1 and 2 (the arriving ray goes from the Sun to the car; the reflected ray goes from the car to the eye). 3 Your child draws a ray diagram to show how they see you sitting next to them: the light source (window or tubelight), an arriving ray to you, and a reflected ray from you to their eye. Check: lines drawn with a ruler, arrowheads pointing the right way (from the source, never from the eye)."
+        },
+        {
+          "kind": "game",
+          "title": "Ray diagram challenge cards",
+          "mins": 12,
+          "do": "Write four situations on cards and your child draws a ray diagram for each: 'Dadi reading the newspaper by the tubelight'; 'You seeing a cricket ball in sunlight'; 'A cat seeing a mouse under a street lamp'; 'You seeing a stars' light at night' (only one ray: from the star straight to the eye, because a star is a source). Ask after each: 'Which ray is arriving and which is reflected?' Most children draw arrows from the eye at first; if they do, ask 'Does light come out of your eye?' and redraw."
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (page 102)",
+          "mins": 8,
+          "do": "Do the 'How am I doing?' table on page 102 (identify arriving and reflected rays; draw a ray diagram). Then read the 'Look what I can do!' list and tick. Ask your child to explain, in their own words: 'Why can't you see round a corner, but you can hear round one?' (Light travels in straight lines; it does not bend round the wall.)"
+        }
+      ],
+      "need": ["Learner's Book pages 101–102", "a torch and a little talcum powder", "ruler, pencil and 4 cards"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Mirrors",
+      "goal": "Learn from pages 103–104 why mirrors reflect light so well, discuss how people use mirrors, and build a periscope.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 103)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 103. 1 'Why can't we see things in a completely dark room?' (No light to reflect off them into our eyes.) 2 'How can you see the person next to you?' (Light from a source reflects off them into my eyes.) Then read the top of page 103: some surfaces, the top layer next to the air, reflect light much better than others."
+        },
+        {
+          "kind": "read",
+          "title": "Mirrors (pages 103–104)",
+          "mins": 7,
+          "do": "Read 'Mirrors' on page 103: a mirror has a smooth, shiny surface that is very good at reflecting light; your face in a mirror is light from your face reflecting off it; this reflection is called your image. Stand together in front of a mirror. Ask your child to raise their right hand: 'Which hand does your image raise?' (It looks like the left.) Write their name on paper and hold it to the mirror: the letters appear reversed. Then ask the questions on page 104: 'Where are mirrors at home? What do you use them for?' (Dressing table, bathroom, scooter or car mirrors, the steel almirah door, a decorative mirror-work cushion.)"
+        },
+        {
+          "kind": "talk",
+          "title": "How people use mirrors (page 104, Activity)",
+          "mins": 8,
+          "do": "Look at the pictures on page 104 and discuss the three Activity questions. 1 Riding the bike, describe how light travels when you see a bike behind in the rear-view mirror. (Light from the Sun reflects off the bike behind, travels to the mirror, reflects off the mirror into my eyes.) 2 How does the shop mirror help the manager? (A curved mirror high in a corner lets them see the whole shop and spot customers needing help or anyone stealing.) 3 How does the dentist's mirror help? (It reflects light on to the back of the teeth and lets the dentist see surfaces they can't look at directly.) Add an Indian example: the convex mirrors on sharp turns of hill roads in the ghats, so drivers can see vehicles coming round the bend."
+        },
+        {
+          "kind": "act",
+          "title": "Build a periscope",
+          "mins": 20,
+          "do": "Do Activity a1. Use two clean, rectangular juice or milk cartons (or one long one) and two small mirrors (cheap make-up or toy mirrors, about 5 cm wide). YOU cut the openings. Cut a square window near the top on one side and near the bottom on the opposite side (for a 'Z' periscope) or the same side. Fix each mirror at a 45° slant behind each window with tape and clay, facing each other. Your child tests it by looking over a table or a wall, or round the door frame. Ask them to draw a ray diagram: light from the object → top mirror → bottom mirror → eye. Ask: 'Light travels in straight lines, so how did we see over the wall?' (The mirrors changed its direction twice.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "do",
+          "title": "Mirror writing",
+          "mins": 5,
+          "do": "Your child writes AMBULANCE in mirror writing (reversed) on paper, then checks it in the mirror. Ask: 'Why do you think ambulances in India have this reversed word on the front?' (So a driver ahead sees it the right way round in the rear-view mirror and moves aside.)"
+        }
+      ],
+      "need": ["Learner's Book pages 103–104", "a mirror", "2 juice or milk cartons and 2 small mirrors", "scissors or craft knife (adult), tape and clay", "paper and pen"],
+      "prep": [{"task": "Wash and dry two juice or milk cartons and buy two small flat mirrors", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Which surfaces reflect best?",
+      "goal": "Learn from page 105 why some surfaces absorb light, investigate how well different surfaces reflect (pages 106–107), and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Do some surfaces reflect better? (page 105)",
+          "mins": 7,
+          "do": "Read page 105 aloud: Arun sees himself in the mirror but Marcus can't in the wooden chopping board, because the wood absorbs light; all objects reflect or absorb light; paper looks smooth, but under a microscope it is full of bumps, so it absorbs more light than it reflects; if you can see your reflection, the surface reflects very well. Look at the microscope picture of paper. If you have a magnifying glass, look at a sheet of paper and a piece of cloth: your child will see fibres and bumps."
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate how well surfaces reflect (page 106)",
+          "mins": 18,
+          "do": "Do Experiment e4, 'Investigate how well different surfaces reflect light' on page 106. Lay out at least eight surfaces: a mirror, a new steel plate, a scratched old steel plate, aluminium foil (smooth), the same foil crumpled and flattened, a CD or a shiny spoon, a wooden chopping board, a cotton towel, a sheet of paper, black chart paper, and a bowl of water. Your child first lists them in the order they predict, best reflector first. Then for each they ask 'How well can I see my reflection?' and score it using the book's scale: 3 perfect, 2 fairly good, 1 poor, 0 none. Record in a table: Surface, Smooth or rough, Shiny or dull, Score.",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–4 (page 106)",
+          "mins": 7,
+          "do": "Ask Questions 1–4 on page 106. 1 How well did the results support your predictions? 2 What pattern did you notice? (Smooth, shiny surfaces reflected best; rough or dull surfaces like wood, towel and paper scored 0 or 1; crumpled foil was worse than smooth foil, even though it is the same material.) 3 Conclusion: 'The smoother and shinier a surface is, the better it reflects light.' 4 Which type of enquiry? (Pattern seeking; also identifying and classifying.) Then do 'How am I doing?' on page 107 and ask: 'Have you improved since the first assessment on page 98?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 13,
+          "do": "Give your child Worksheet ws1 on seeing, rays and reflection. They work alone first; check together. For any wrong ray diagram, use the torch and a mirror to show the real path again.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 105–107", "a mirror, new and old steel plates, aluminium foil, a CD or shiny spoon, wooden board, towel, white paper, black chart paper, a bowl of water", "a magnifying glass", "Worksheet ws1"],
+      "prep": [{"task": "Print or copy Worksheet ws1 and gather the surfaces", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "The Sun, our light source",
+      "goal": "Learn from pages 108–109 that the Sun is a star, that planets and moons reflect its light, and act out the orbits of the Earth and Moon.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 108)",
+          "mins": 6,
+          "do": "Look at the photo on page 108 and ask the Getting started questions. 1 Which is the Sun, the Earth and the Moon? 2 Which is a star and which is a planet? (The Sun is a star; the Earth is a planet.) 3 'What is the difference between a star and a planet?' (A star makes its own light and heat; a planet does not, it orbits a star and reflects its light.)"
+        },
+        {
+          "kind": "read",
+          "title": "The Sun is our source of light (page 109)",
+          "mins": 9,
+          "do": "Read page 109 aloud. The spacecraft Galileo photographed the Earth and Moon surrounded by black space; the Sun lights up the half of each that faces it; the Earth and Moon reflect the Sun's light; the Moon orbits the Earth in about a month and the Earth orbits the Sun in 365¼ days; other stars give out light and may have planets of their own. Ask: 'Why does a calendar have a leap year with 29 February every four years?' (Four quarter-days add up to one extra day.) Ask: 'Why does the Moon shine at night if it has no light of its own?' (Sunlight reflects off it to our eyes.)"
+        },
+        {
+          "kind": "act",
+          "title": "Sun, Earth and Moon dance",
+          "mins": 15,
+          "do": "Do Activity a2. In the courtyard or a big room: one person holds a lamp or stands still with a yellow cloth as the Sun. Your child is the Earth and walks slowly in a big circle around the Sun. A sibling or you is the Moon, walking in a small circle around the Earth while the Earth keeps going round the Sun. Count Moon circles: about 12 for each Earth circle (12 months in a year). Ask: 'Who has the bigger orbit? Who takes longer?' Then in a dark room, with a torch as the Sun and a steel ball or orange as the Moon on a stick, show your child that only the side facing the torch is lit, just like the photo on page 109.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Moon watching",
+          "mins": 10,
+          "do": "Ask: 'Have you noticed the Moon changes shape over a month?' Look at a calendar with Purnima (full moon) and Amavasya (new moon) marked; many Indian festivals follow the Moon, like Diwali on an Amavasya and Raksha Bandhan on a Purnima. Explain: the Moon is always half lit by the Sun, but as it orbits us we see different amounts of the lit half. Your child starts a Moon diary tonight: each clear night for two weeks, draw the Moon's shape and write the date. Remind them: never look at the Sun directly."
+        },
+        {
+          "kind": "do",
+          "title": "Ray diagram from space",
+          "mins": 5,
+          "do": "Your child draws a ray diagram showing how they see the Moon at night: Sun → arriving ray → Moon → reflected ray → Earth → their eye. Ask: 'Which is the source, which is the object?'"
+        }
+      ],
+      "need": ["Learner's Book pages 108–109", "a lamp or yellow cloth for the Sun", "a torch and an orange or ball on a stick", "a calendar with Purnima and Amavasya marked", "notebook for a Moon diary"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Our solar system",
+      "goal": "Learn from pages 110–111 the eight planets and their order, answer the orbit questions, walk a scale model of the solar system, and discuss Pluto.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Our solar system (page 110)",
+          "mins": 8,
+          "do": "Read page 110 aloud with the diagram. The solar system is the Sun and the planets, moons, comets and asteroids that move round it; the diagram is a model with sizes and distances made much smaller; the Sun is at the centre; there are eight planets; planets closer to the Sun have smaller orbits and take less than an Earth year; those further away take longer. Teach a memory sentence for the order: 'My Very Educated Mother Just Served Us Noodles' (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune). Let your child invent their own Indian one, such as 'My Very Energetic Mausi Just Sold Ugly Nimbus'."
+        },
+        {
+          "kind": "talk",
+          "title": "Planets in our solar system (page 111, Activity)",
+          "mins": 8,
+          "do": "Do the Activity on page 111. 1 What is at the centre and why is it important? (The Sun: it gives us light and heat, without which there would be no plants, food or life.) 2 List the planets in order from closest to furthest. 3 Planet A takes 88 Earth days and planet B 29.5 Earth years. 3a Which is Saturn? (B, because Saturn is far from the Sun, so its orbit is big and takes many years.) 3b Which is Mercury? (A, because it is closest, with the smallest orbit.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Solar system walk",
+          "mins": 17,
+          "do": "Do Activity a3 on a long road, colony lane or park path. Put a football or a big yellow ball at the start as the Sun. Then take steps (one big step is about 1 metre) and drop a labelled paper slip at each planet: Mercury 1 step, Venus 2, Earth 2.5, Mars 4, Jupiter 13, Saturn 24, Uranus 49, Neptune 77. At Earth, place a peppercorn (Earth is that tiny on this scale). Ask: 'What did you notice?' (The inner planets are bunched close; the outer planets are hugely far apart.) Look back at the 'Sun' from Neptune. Tell them that even on this scale the nearest other star would be thousands of kilometres away.",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Is Pluto a planet?",
+          "mins": 12,
+          "do": "Read Voice v2 about Pluto and the 2006 decision. Ask the voice question. Have a family vote: should Pluto be called a planet? Each person must give one reason. Ask your child: 'If scientists vote on a name, does that change Pluto itself?' (No, Pluto is the same; only our way of grouping it changes. Classifying is a human decision based on rules.)",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Learner's Book pages 110–111", "a football or big ball", "8 labelled paper slips and a peppercorn", "a long path or lane (about 80 big steps)"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Asteroids, moons and comets",
+      "goal": "Learn from pages 111–112 about asteroids, moons and comets, answer the questions, and research the solar system including India's space missions.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Asteroids and moons (page 111)",
+          "mins": 7,
+          "do": "Read 'Asteroids' and 'Moons' on page 111: asteroids are rocky masses that orbit the Sun, much smaller than planets, mostly in the belt between Mars and Jupiter; the book's number (781,692) keeps growing as telescopes find more, and today well over a million are known; moons orbit planets and even some asteroids; Earth has one moon, Mars has two; Titania is the largest moon of Uranus. Ask: 'Why is half of Titania dark in the photo?' (Only the half facing the Sun is lit.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–6 (page 112)",
+          "mins": 10,
+          "do": "Ask Questions 1–5 on page 112. 1 What is an asteroid? 2 Where are most of them? 3 What is a moon? (A body that orbits a planet or an asteroid.) 4 Why is half of Titania dark? 5 Your child draws Titania orbiting Uranus: a big circle for Uranus, a small circle for Titania on a dotted circular path with an arrow. For Question 6, look it up together on a trusted site such as NASA's: Jupiter has dozens of known moons, and the number grows as new small ones are found; tell your child the exact number you find and the date, because it changes. The four big ones (Io, Europa, Ganymede and Callisto) were discovered by Galileo in 1610."
+        },
+        {
+          "kind": "read",
+          "title": "Comets (page 112)",
+          "mins": 5,
+          "do": "Read 'Comets' on page 112: lumps of ice and dirt in large orbits round the Sun, many beyond the planets, with long tails. Explain why the tail appears: as the comet comes near the Sun, the heat turns some ice to gas, which streams away with dust and glows in sunlight; the tail always points away from the Sun. Tell them that Halley's comet comes back about every 76 years and was last seen in 1986; it will return around 2061. Ask: 'How old will you be?'"
+        },
+        {
+          "kind": "do",
+          "title": "Find out what is in our solar system (page 112)",
+          "mins": 15,
+          "do": "Do 'Think like a scientist: Find out what is in our solar system' on page 112, using a reference book or a trusted website together. 1 What other bodies orbit a star besides planets? (Asteroids, comets, dwarf planets.) 2 Name two types of body a moon can orbit. (A planet and an asteroid.) 3 Draw a ray diagram of the Sun's rays travelling to Earth. 4a How many moons does Saturn have? (Look it up; it is well over a hundred and still rising, so write the number and the date you found it.) 4b Saturn's largest moon? (Titan.) 5 The biggest asteroid? (Ceres, which is now also called a dwarf planet.) Then add India's missions to their notes: Chandrayaan-3 landed near the Moon's south pole in August 2023; Mangalyaan (the Mars Orbiter Mission) reached Mars orbit in 2014; Aditya-L1, launched in 2023, studies the Sun."
+        },
+        {
+          "kind": "review",
+          "title": "Look what I can do (page 112)",
+          "mins": 8,
+          "do": "Read the 'Look what I can do!' list on page 112 and ask your child to prove each: point to the Sun on the page 110 diagram; name all eight planets in order; say what stars, planets, asteroids and comets are; show the orbit drawing; say one thing they found from research. Tick them. Check the Moon diary from Day 6."
+        }
+      ],
+      "need": ["Learner's Book pages 110–112", "a reference book or a trusted website (with an adult)", "notebook, compass or round lid for drawing circles", "the Moon diary"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Day and night",
+      "goal": "Learn from pages 113–114 that the tilted Earth spins on its axis once every 24 hours, and use a globe and torch to show how this causes day and night.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 113)",
+          "mins": 6,
+          "do": "Ask the Getting started questions on page 113. 1 Where does the Sun rise? (In the east.) 2 Where does it set? (In the west.) 3 'The Sun appears to move across the sky. Does it really move?' Let them argue it. Then ask: 'When you sit in a train leaving the station, why does the platform seem to move backwards?' (Because we are moving; the platform is still.) Keep the idea for the model."
+        },
+        {
+          "kind": "read",
+          "title": "A model of the Earth (pages 113–114)",
+          "mins": 8,
+          "do": "Read pages 113–114 aloud. A globe is a model of the Earth with a stick through it from North Pole to South Pole, the axis; the Earth is tilted; it spins once every 24 hours; seen from above the North Pole it spins anticlockwise. Stick a small piece of tape on India on the globe and spin it anticlockwise (seen from the top). The book compares the spin with driving at 120 mph; in India we use km/h: at the equator the Earth's surface moves at about 1,670 km/h, much faster than a plane, yet we don't feel it because everything moves with us, smoothly."
+        },
+        {
+          "kind": "exp",
+          "title": "Use a model to show day and night (pages 114–115)",
+          "mins": 15,
+          "do": "Do Experiment e5, 'Use a model to show day and night' on pages 114–115, in a darkened room. If you have no globe, push a knitting needle or a long pencil through an orange or a ball as the axis. Shine the torch (the Sun) on the globe from about 1 metre away and ask: 'Can the whole Earth be lit at once?' (No, only half.) Put a sticker on India. Your child spins the globe slowly anticlockwise and says 'day' when the sticker is lit and 'night' when it is dark. Ask them to say 'sunrise' and 'sunset' at the moments the sticker crosses from dark to light and light to dark. Ask: 'Which side of India gets sunrise first, the east or the west?' (The east: Arunachal Pradesh sees the Sun well before Gujarat.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "think",
+          "title": "Aryabhata and the spinning Earth",
+          "mins": 12,
+          "do": "Read Voice v3 about Aryabhata. Ask the voice question. Then use the train example from the warm-up: 'Aryabhata used a boat. What is the same about the boat, the train and the Earth?' (When you move smoothly, still things seem to move the other way.) Ask: 'Varahamihira argued that if the Earth spun, birds could not find their nests again. How would you answer him?' (Birds, air and everything on Earth spin with it, just as a fly inside a moving train doesn't hit the back wall.)",
+          "ref": "v3"
+        },
+        {
+          "kind": "do",
+          "title": "Complete the sentence (page 115, Question 1)",
+          "mins": 4,
+          "do": "Your child copies and completes Question 1 on page 115: 'The Earth spins on its axis once every 24 hours. This movement causes day and night.' Then they write a second sentence: 'The Sun only seems to move across the sky because ...'"
+        }
+      ],
+      "need": ["Learner's Book pages 113–115", "a globe, or an orange or ball with a knitting needle or pencil through it", "a torch", "a small sticker or tape", "a room you can darken"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Day and night around the world",
+      "goal": "Answer the page 115 questions on the day–night diagram, time differences and a faster spin, explain night and day to someone younger, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Colour the diagram (page 115, Question 2)",
+          "mins": 7,
+          "do": "Your child copies the diagram from page 115 showing the Sun's rays arriving from one side, then colours the half of the Earth facing the rays yellow (day) and the far half black (night). Ask them to mark where sunrise and sunset are happening on the line between the halves, and draw the direction of spin."
+        },
+        {
+          "kind": "talk",
+          "title": "Ali and Farouk, and a 10-hour day (page 115, Questions 3–4)",
+          "mins": 10,
+          "do": "Ask Question 3: Ali in Malaysia wants to phone Farouk in Spain. Why phone in the Malaysian evening, not at lunchtime? (Spain is far to the west, so its day starts later; when it is lunchtime in Malaysia it is very early morning, before sunrise, in Spain, and Farouk is asleep.) Make it personal: if you have family in the USA, UK or the Gulf, find their time now on a phone and ask why the time differs. Explain India uses one time, Indian Standard Time, across the whole country. Question 4: 'What if the Earth spun once every 10 hours?' (Days and nights would each be only about 5 hours; we would have to sleep through only part of a night or change our routines; there would be more than two sunrises in a 24-hour day.)"
+        },
+        {
+          "kind": "act",
+          "title": "Explain it to someone younger (page 115, How am I doing?)",
+          "mins": 10,
+          "do": "Do the 'How am I doing?' on page 115. Your child plans and gives an explanation of day and night to a younger sibling, cousin or neighbour using objects at home: a diya or torch for the Sun and a ladoo, orange or ball with a toothpick for the Earth. They must show the spin, say 'day' and 'night', and explain why the Sun seems to move. You listen and give one star for something clear and one wish for something to improve."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Give your child Worksheet ws2. It applies light and space ideas to new situations. Let them work for 12 minutes, then go through the answers, asking 'How do you know?' for each.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "do",
+          "title": "Prepare for shadow day",
+          "mins": 3,
+          "do": "Check the weather forecast for a sunny day in the next few days. Find a flat, sunny spot that gets sun from 9:00 to 15:00 (terrace, courtyard or garden) and agree on who will mark the shadow every hour. Keep the Moon diary going."
+        }
+      ],
+      "need": ["Learner's Book page 115", "colour pencils", "a phone with world clock (optional)", "a torch or diya and an orange or ball", "Worksheet ws2"],
+      "prep": [{"task": "Print or copy Worksheet ws2", "when": "night before"}]
+    },
+    {
+      "n": 11,
+      "title": "Shadows through the day",
+      "goal": "Answer the shadow questions on pages 116–117 and set up the shadow stick investigation (pages 117–118), marking the shadow every hour.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 116)",
+          "mins": 5,
+          "do": "Look at the picture on page 116 and ask the Getting started questions. 1 What is the source of light? 2 What is blocking the light? 3 What results from blocking it? (A shadow.) Ask: 'Why does a shadow form at all? Use the words straight lines.' (Light travels in straight lines and can't bend round the object, so there is a dark area behind it where no light reaches.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Shadow lengths (page 117, Questions 1–4)",
+          "mins": 7,
+          "do": "Look at the two golf flag pictures on page 117 and ask Questions 1–4. 1 What causes the shadows? (The flag blocks sunlight.) 2 Difference? (One is short, one is long.) 3 Which was midday and which late afternoon? (Short at midday, when the Sun is high; long in late afternoon, when the Sun is low.) 4 Why are they different? (The Sun's position in the sky changes through the day because the Earth spins, so light hits the flag at a different angle.) Shine a torch on a pencil standing on the table, first from high above and then from low at the side, to show it."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the shadow stick (pages 117–118)",
+          "mins": 20,
+          "do": "Do Experiment e6, 'Investigate the changing length and position of a shadow' on pages 117–118, starting at 09:00. Push a 20 cm stick (a pencil or straight twig) upright into a lump of clay in the middle of a large white sheet of paper (two A4 sheets taped together, or chart paper), on a flat spot in full sun. Hold the paper down with four stones and mark its corners on the ground with chalk so you can put it back in the same place if it moves. Your child marks the tip of the shadow with a dot and writes '09:00' beside it. Before you go in, ask them to predict where the shadow will be at 12:00 and at 15:00 and mark their guesses in pencil. Read the warning on page 117 aloud: never look directly at the Sun. Then come back every hour (10:00, 11:00, 12:00, 13:00, 14:00, 15:00) to mark the new dot and time; each mark takes 2 minutes. Each time, note where the Sun is in the sky without looking at it (point to it with your back to it, or look at its direction through shadows).",
+          "ref": "e6"
+        },
+        {
+          "kind": "think",
+          "title": "Zero shadow day",
+          "mins": 8,
+          "do": "Tell your child that in places in India south of the Tropic of Cancer, for example Bengaluru, Chennai, Hyderabad and Mumbai, there are two days each year when the Sun is exactly overhead at noon and an upright stick has almost no shadow. This is called Zero Shadow Day; in Bengaluru it happens in late April and mid-August. Ask: 'Why can't this happen in Delhi or Srinagar?' (They are north of the Tropic of Cancer, so the Sun is never exactly overhead there.) Ask: 'Where is the Sun in the sky when the shadow is shortest?' (Highest.)"
+        },
+        {
+          "kind": "do",
+          "title": "Apparent movement note",
+          "mins": 5,
+          "do": "Read the bullet on page 118 about the Sun appearing to move. Ask your child to write: 'The Sun seems to move from the east in the morning to the west in the evening. This is its apparent movement. Really, the Earth is spinning on its axis.' Remind them of the Day 9 globe and sticker."
+        }
+      ],
+      "need": ["Learner's Book pages 116–118", "a sunny day", "a 20 cm stick or pencil and a lump of clay", "a large sheet of white paper", "4 stones, chalk, a marker pen and a ruler", "a torch and a pencil"],
+      "prep": [{"task": "Check the forecast and plan this day for a sunny day when someone is home to mark the shadow every hour from 09:00 to 15:00", "when": "2 days before"}]
+    },
+    {
+      "n": 12,
+      "title": "Shadow patterns and reliable results",
+      "goal": "Measure the shadow lines, record them in a table, describe the patterns (page 119), and repeat the experiment for more reliable data.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Measure the shadow lines (page 118)",
+          "mins": 12,
+          "do": "Do the last bullets on page 118 with yesterday's paper. Your child joins each dot to the hole where the stick stood with a ruler: these are the shadow lines. They measure each in centimetres and record a table: Time, Shadow length (cm), Direction (towards which wall or landmark). Compare with Aleisha's paper on page 118. Ask: 'Did your 12:00 and 15:00 predictions come true?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–6 (page 119)",
+          "mins": 13,
+          "do": "Ask Questions 1–6 on page 119. 1 Your child draws the fan of shadows with times. 2a Was the Sun low or high? How did it affect length? (Low in the morning and afternoon, so long shadows; high around midday, so short shadows.) 2b Did the Sun appear to move from one side to the other, and how did this affect the shadow's position? (It seemed to move from east to west, so the shadow swung round from pointing west in the morning to pointing east in the afternoon.) 3 Pattern of length: shadows got shorter until about midday, then longer. 4 Pattern of position: the shadow always pointed away from the Sun and moved round steadily. 5 On different days, could you see shadows you couldn't on others? Why? (Clouds can hide the Sun at some times.) 6 Explain the apparent movement: the Earth spins on its axis, so the Sun seems to move across the sky. Do 'How am I doing?' on page 119."
+        },
+        {
+          "kind": "exp",
+          "title": "Repeat for reliability",
+          "mins": 10,
+          "do": "Set up Experiment e6 again on a fresh sheet of paper at the same spot and the same time, as the page 118 bullet suggests. Mark at 09:00 now and ask an adult at home to help with the later marks. Ask: 'Why repeat it?' (If the second day gives about the same lengths at the same times, our results are reliable; if a cloud hid the Sun on one day, the other day fills the gap.) Compare the two papers tomorrow.",
+          "ref": "e6"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Shadow tag",
+          "mins": 10,
+          "do": "Go outside in the late afternoon. Play shadow tag: you are 'out' if someone steps on your shadow. Then stand still while your child measures your shadow with a measuring tape and compare with your real height. Ask: 'Would this game be harder or easier at midday? Why?' (Harder, because shadows are short when the Sun is high.) Do the reflection questions on page 119: what did you learn, what was easy, what was difficult?"
+        }
+      ],
+      "need": ["Learner's Book pages 118–119", "yesterday's shadow paper", "a ruler, marker, a fresh sheet of paper, the stick and clay", "a measuring tape"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Project: an astronomer's life",
+      "goal": "Read 'How scientists discovered the solar system' (page 120), research one astronomer under the book's headings, and present a short talk.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How scientists discovered the solar system (page 120)",
+          "mins": 10,
+          "do": "Read page 120 aloud. Add two honest corrections as you go. First, the book says that two thousand years ago people believed the Earth was flat; in fact, Greek thinkers had shown it was round more than 2,300 years ago (for example from the round shadow of the Earth on the Moon during an eclipse), and Ptolemy himself wrote that the Earth is a sphere; his mistake was putting the Earth at the centre. Second, Aryabhata (born 476 CE) came before Brahmagupta (born 598 CE), and both Varahamihira and Brahmagupta actually argued AGAINST Aryabhata's idea that the Earth spins. Ask: 'What changed the most between Ptolemy and Galileo?' (The idea of what is at the centre, and the invention of the telescope.)"
+        },
+        {
+          "kind": "think",
+          "title": "Copernicus, Galileo and the phases of Venus",
+          "mins": 10,
+          "do": "Read Voice v4 about Copernicus and Galileo. Ask the voice question. Then link to the Moon diary: 'Your Moon changed shape because we see different amounts of its lit half. Galileo saw Venus change shape the same way, and also change size. Why did that prove Venus goes round the Sun?' (Venus showed a full set of phases, which can only happen if it travels round the far side of the Sun as well as the near side.)",
+          "ref": "v4"
+        },
+        {
+          "kind": "act",
+          "title": "Research an astronomer (page 120)",
+          "mins": 20,
+          "do": "Do Activity a4, the project on page 120. Your child chooses one astronomer: Aryabhata, Brahmagupta, Varahamihira, Ptolemy, Copernicus or Galileo, or another, such as Meghnad Saha or Subrahmanyan Chandrasekhar of India. Using library books or a trusted website with you, they fill in the book's headings on one page: name; dates of birth and death; nationality; what they discovered; what equipment they used (for older astronomers: eyes, sticks for shadows, sundials, a water clock; for Galileo: a telescope); how they changed ideas about the solar system. Then they prepare a 2-minute presentation with a picture.",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Present it",
+          "mins": 5,
+          "do": "Your child gives the presentation to the family. Each listener asks one question. Compare the comparison of Aryabhata (Voice v3) with Galileo: both had ideas that others resisted."
+        }
+      ],
+      "need": ["Learner's Book page 120", "library books or a trusted website (with an adult)", "paper and colour pens", "the Moon diary and the second shadow paper"],
+      "prep": []
+    },
+    {
+      "n": 14,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer 'Check your progress' on pages 121–123, do the challenge worksheet, check understanding and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 121–123)",
+          "mins": 13,
+          "do": "Do the questions on pages 121–123 aloud. Q1 (the book's letter list has a printing mistake, with 'Ray' and 'Comet' repeated, so just match the words): 1 ray, 2 comet, 3 proof, 4 spin, 5 reflect, 6 anticlockwise, 7 asteroids. Q2: the mirror and clear still water reflect well; muddy water and wood absorb more light. Q3a: label the numbered features on the diagram using the solar system and day–night diagrams in the unit; 3b the Earth spins on its axis; 3c Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune. Q4 Rachel and her cat: a the light source in the picture, b the cat, c a ray diagram from the source to the cat and from the cat to Rachel's eye. Q5: a shorter, b longer, c longest, d shortest, e the Earth spins on its axis. Q6: at first there was no light source in the tunnel, and light from the end could not reach them because the tunnel curved or was too far, and light travels in straight lines; when the end came into a straight line with their eyes, its light could reach them."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Give your child Worksheet ws3. It has puzzles, 'what if' questions and comparisons of the voices. Encourage ray diagrams wherever they help.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, without the book. Tick each answered well. For any missed answer, look back at the matching pages (seeing 96–98, rays 99–102, reflection 103–107, solar system 108–112, day and night 113–115, shadows 116–119) and ask again in different words."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher. Using the coin box, the periscope, the globe and torch, the shadow papers and the Moon diary, they teach you in 6 minutes: how we see things; how we know light travels in straight lines; which surfaces reflect best; the planets in order; why we have day and night; and why shadows change during the day. Ask two 'student' questions: 'If the Moon makes no light, why is it so bright?' and 'Why is your shadow long when you walk to the park at 6 in the evening?'"
+        }
+      ],
+      "need": ["Learner's Book pages 121–123", "Worksheet ws3", "the coin box, periscope, globe, torch, shadow papers and Moon diary"],
+      "prep": [{"task": "Print or copy Worksheet ws3", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Seeing, rays and reflection",
+      "day": 5,
+      "sections": [
+        ["A. Sources and seeing", [
+          {"t": "sort", "p": "Sort these.", "items": ["Sun", "Moon", "Diya flame", "Mirror", "Firefly", "Steel plate", "Tubelight", "Book"], "cats": ["Source of light", "Not a source of light"]},
+          {"t": "fill", "p": "We see an object when light ____ off it into our eyes.", "a": ["reflects", "bounces"]},
+          {"t": "mcq", "p": "In the coin box, why could you not see the coin with the torch hole covered?", "opts": ["The coin was too small", "No light reached the coin to reflect into your eyes", "Your eyes were closed", "The box was too big"], "a": 1}
+        ]],
+        ["B. Rays", [
+          {"t": "fill", "p": "Light travels in ____ lines.", "a": ["straight"]},
+          {"t": "draw", "p": "Draw a ray diagram to show how you see a cup on a table lit by a lamp. Label the arriving ray and the reflected ray. Use a ruler and arrowheads."},
+          {"t": "write", "p": "Describe the test with the bendy tube. What did it prove?", "lines": 3}
+        ]],
+        ["C. Reflection", [
+          {"t": "mcq", "p": "Which surface reflects light best?", "opts": ["Wooden board", "Cotton towel", "Smooth mirror", "Crumpled paper"], "a": 2},
+          {"t": "fill", "p": "A surface that takes in light and does not reflect it is said to ____ light.", "a": ["absorb"]},
+          {"t": "write", "p": "How does a mirror on a sharp hill-road bend help drivers?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Light and space: new cases",
+      "day": 10,
+      "sections": [
+        ["A. Light puzzles", [
+          {"t": "write", "p": "Kavya says 'A cat can see in total darkness.' Using what you know about how we see, is she right? What does a cat actually need?", "lines": 3},
+          {"t": "mcq", "p": "Smooth aluminium foil reflects well but crumpled foil does not. This shows that reflection depends on:", "opts": ["The colour of the material", "How smooth the surface is", "How heavy it is", "How old it is"], "a": 1},
+          {"t": "draw", "p": "Draw a ray diagram showing how a periscope lets you see over a wall. Show both mirrors."}
+        ]],
+        ["B. Solar system", [
+          {"t": "table", "p": "Fill in the table.", "cols": ["Body", "Makes its own light? (yes/no)", "What it orbits"], "rows": 5, "prefill": ["Sun", "Earth", "Moon", "Asteroid", "Comet"]},
+          {"t": "mcq", "p": "Mars is further from the Sun than Earth. Its year is:", "opts": ["Shorter than an Earth year", "Longer than an Earth year", "Exactly one Earth year", "It has no year"], "a": 1}
+        ]],
+        ["C. Day and night", [
+          {"t": "write", "p": "When it is 8 pm in Mumbai, your cousin in London is having an afternoon snack. Explain why, using the spinning Earth.", "lines": 3},
+          {"t": "fill", "p": "The Earth spins once on its ____ every 24 hours.", "a": ["axis"]},
+          {"t": "write", "p": "If the Earth stopped spinning but still orbited the Sun, what would happen to day and night in India?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Light and space puzzles, and comparing ideas",
+      "day": 14,
+      "sections": [
+        ["A. Shadow puzzles", [
+          {"t": "table", "p": "Predict the shadow length of a 20 cm stick.", "cols": ["Time", "Sun high or low?", "Predicted shadow (short, medium, long)"], "rows": 4, "prefill": ["08:00", "12:00", "15:00", "17:30"]},
+          {"t": "write", "p": "On Zero Shadow Day in Bengaluru, a stick has almost no shadow at noon. Where must the Sun be? Why does this never happen in Delhi?", "lines": 3},
+          {"t": "mcq", "p": "In the morning your shadow points west. Where is the Sun?", "opts": ["In the west", "In the east", "Directly overhead", "In the north"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if light could bend round corners like sound? Name two things that would be different in daily life.", "lines": 3},
+          {"t": "write", "p": "What if the Moon gave out its own light? Would we still see Purnima and Amavasya? Explain.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Aryabhata said the Earth spins; Brahmagupta and Varahamihira disagreed. Galileo said the Earth goes round the Sun; many people disagreed. What kind of evidence finally settled these arguments?", "lines": 4},
+          {"t": "write", "p": "Pluto was called a planet for 76 years and then reclassified as a dwarf planet. Is it a problem for science that names and groups change? Explain.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The coin in the box (Book 'Think like a scientist', page 97)",
+      "day": 1,
+      "question": "How do we see things that are not sources of light?",
+      "need": ["a shoe box with a lid", "a craft knife (adult only)", "a torch", "a coin"],
+      "steps": [
+        "The adult cuts two holes in the lid: one to fit the torch head and one to look through.",
+        "Put the coin in the bottom of the box and close the lid.",
+        "Cover the torch hole with your hand. Predict whether you will see the coin, then look.",
+        "Shine the torch through its hole. Predict again, then look.",
+        "Complete the conclusion sentences on page 98."
+      ],
+      "predict": "Ask your child to guess first: with the torch hole covered, will you see the coin? And with the torch on?",
+      "observe": "With the hole covered, the inside is dark and the coin cannot be seen (perhaps a faint shape if light leaks in). With the torch shining in, the coin is clearly visible.",
+      "why": "The coin does not make its own light. We can only see it if light from a source (the torch) travels to the coin, reflects off its surface and travels on into our eyes. Inside the eye, the light makes a tiny picture on the back (the retina), and the brain turns the signal into what we see. With no source, there is no light to reflect, so nothing reaches our eyes, however hard we look. This is evidence that our eyes receive light; they do not send it out.",
+      "safety": "Only an adult uses the craft knife. Do not shine the torch directly into anyone's eyes.",
+      "time": "18 min"
+    },
+    {
+      "id": "e2",
+      "title": "The bendy tube (Book 'Think like a scientist', page 100)",
+      "day": 2,
+      "question": "Can light travel round a bend?",
+      "need": ["about 1 metre of bendy plastic pipe or a paper tube", "a torch"],
+      "steps": [
+        "Hold the pipe straight. Predict whether your partner will see the light at the far end.",
+        "Shine the torch into one end while your partner looks at the other end from a short distance.",
+        "Bend the pipe into a U shape. Predict again.",
+        "Shine the torch in again and ask whether the light can be seen.",
+        "Write a conclusion about how light travels."
+      ],
+      "predict": "Ask your child to guess first: will the light come out of the straight tube? Of the bent tube?",
+      "observe": "Light shines out of the far end of the straight pipe. When the pipe is bent, the far end stays dark, or only a faint glow is seen.",
+      "why": "Light travels in straight lines. In the straight pipe, there is a straight path from the torch to the eye. In the bent pipe, the light travels straight until it hits the pipe wall; the dull inside of the pipe absorbs most of it, so it cannot follow the curve. (If the inside were a very shiny mirror, light could bounce along it: that is how optical fibres carry internet signals, by reflecting light again and again along a thin glass thread.)",
+      "safety": "Do not shine the torch into anyone's eye from close up.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Three cards in a line",
+      "day": 2,
+      "question": "Does light need a straight path to reach our eyes?",
+      "need": ["3 postcards or card pieces", "a pencil to punch holes", "clay or clips to stand the cards", "a torch, or a candle and matches (adult)"],
+      "steps": [
+        "Stack the three cards and punch one hole through all of them in the same place.",
+        "Stand the cards upright about 15 cm apart with the holes in a straight line.",
+        "Put the torch or lit candle at one end and look through the holes from the other end.",
+        "Predict what will happen if the middle card is moved 2 cm sideways.",
+        "Move it and look again."
+      ],
+      "predict": "Ask your child to guess first: if only the middle card is moved a little, will you still see the light?",
+      "observe": "With the holes in line, the light is clearly seen. With the middle card moved, the light disappears.",
+      "why": "Light from the source can only reach the eye along a straight line. When all three holes are in a line, there is a straight path through them. Moving one card blocks that path, and light cannot curve round to find the moved hole. This is also why shadows form: an object blocks the straight paths of light, leaving a dark area behind it.",
+      "safety": "An adult lights the candle; keep paper cards well away from the flame.",
+      "time": "12 min"
+    },
+    {
+      "id": "e4",
+      "title": "Reflection scores (Book 'Think like a scientist', page 106)",
+      "day": 5,
+      "question": "How well do different surfaces reflect light?",
+      "need": ["a mirror", "new and old steel plates", "aluminium foil, smooth and crumpled", "a CD or shiny spoon", "a wooden board", "a cotton towel", "white paper", "black chart paper", "a bowl of water"],
+      "steps": [
+        "Lay out at least eight surfaces in good light.",
+        "List them in the order you predict, best reflector first.",
+        "For each one ask: how well can I see my reflection?",
+        "Score each: 3 perfect, 2 fairly good, 1 poor, 0 none.",
+        "Record smooth or rough, shiny or dull, and the score in a table.",
+        "Compare the results with your prediction and look for a pattern."
+      ],
+      "predict": "Ask your child to guess first: which three surfaces will reflect best and which will not reflect at all?",
+      "observe": "The mirror scores 3; the new steel plate and smooth foil 2 or 3; the CD, spoon and still water about 2; the scratched plate and crumpled foil 1; wood, towel, white paper and black paper 0 (white paper looks bright but shows no reflection).",
+      "why": "All surfaces reflect some light, otherwise we could not see them. On a very smooth, shiny surface the light rays all bounce off in an orderly way, keeping their pattern, so we see a clear image. On a rough surface, the tiny bumps send the rays off in all directions (scattering), so the pattern is lost and there is no image, and some light is absorbed. Dark surfaces absorb most of the light that falls on them, which is why black paper looks dark. White paper scatters a lot of light, so it looks bright, but it gives no image because it is bumpy.",
+      "safety": "Handle the mirror carefully; do not use a cracked one.",
+      "time": "18 min"
+    },
+    {
+      "id": "e5",
+      "title": "Globe and torch: day and night (Book 'Think like a scientist', page 114)",
+      "day": 9,
+      "question": "How does the Earth's spinning cause day and night?",
+      "need": ["a globe, or an orange or ball with a knitting needle or pencil as an axis", "a torch", "a small sticker", "a darkened room"],
+      "steps": [
+        "Shine the torch (the Sun) on the globe from about 1 metre away.",
+        "Look at which part of the globe is lit. Can the whole globe be lit at once?",
+        "Stick a sticker on India.",
+        "Spin the globe slowly anticlockwise (seen from above the North Pole).",
+        "Say 'day' when the sticker is lit, 'night' when it is dark, and 'sunrise' and 'sunset' at the edges."
+      ],
+      "predict": "Ask your child to guess first: will India be lit all the time as the globe spins? How many times will it pass from light to dark in one full turn?",
+      "observe": "Only half the globe is lit at any moment. As the globe turns, India moves into the light (day), across it, and into the dark (night), once for each full turn. Places to the east of India enter the light first.",
+      "why": "The Sun lights only the half of the Earth facing it. The Earth spins on its axis once every 24 hours, carrying every place on it through the lit half (day) and the dark half (night). Sunrise is the moment your place turns into the light; sunset is when it turns away. The Sun does not go round the Earth; it only seems to move across the sky from east to west because we are being carried the other way, from west to east, by the spinning Earth, just as a platform seems to slide backwards from a moving train.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e6",
+      "title": "Shadow stick through the day (Book 'Think like a scientist', pages 117–118)",
+      "day": 11,
+      "question": "How do the length and direction of a shadow change during the day?",
+      "need": ["a sunny day", "a 20 cm stick and a lump of clay", "a large sheet of white paper", "4 stones", "chalk", "a marker pen", "a ruler"],
+      "steps": [
+        "At 09:00 stand the stick upright in clay in the middle of the paper in full sun. Weigh the paper down with stones and chalk round its corners.",
+        "Mark the tip of the shadow with a dot and write the time.",
+        "Predict where the shadow will be at 12:00 and 15:00.",
+        "Mark the shadow tip and time every hour until 15:00, noting where the Sun is (without looking at it).",
+        "Bring the paper in, join each dot to the stick's hole and measure each shadow line.",
+        "Repeat on another sunny day on fresh paper and compare."
+      ],
+      "predict": "Ask your child to guess first: when will the shadow be shortest? Which way will it point in the morning and in the afternoon?",
+      "observe": "In the morning the shadow is long and points roughly west. It gets shorter towards midday, when it is shortest (and in most of India for most of the year points roughly north), then it grows longer again in the afternoon, pointing roughly east. The dots make a curved fan. The second day gives very similar lengths at the same times.",
+      "why": "A shadow forms because the stick blocks light travelling in straight lines. As the Earth spins, the Sun appears to rise in the east, climb highest around midday and sink in the west. When the Sun is low, its light comes in at a shallow angle and the shadow is long; when it is high, light comes down steeply and the shadow is short. The shadow always points away from the Sun, so it swings round from west to east as the Sun appears to move from east to west. Repeating on another day checks that the pattern is reliable and fills in any times when clouds hid the Sun.",
+      "safety": "Never look directly at the Sun; it can damage your eyes. Use a hat and water if it is hot.",
+      "time": "20 min to set up + 2 min every hour + 12 min to measure"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Carton periscope",
+      "day": 4,
+      "mins": 20,
+      "need": ["2 clean juice or milk cartons (or one long one)", "2 small flat mirrors about 5 cm wide", "scissors or craft knife (adult)", "tape and clay"],
+      "steps": [
+        "Join the cartons end to end with tape to make a tall box.",
+        "The adult cuts a square window near the top on the front and near the bottom on the back (or the same side).",
+        "Fix one mirror behind each window at a 45° slant, the two mirrors facing each other.",
+        "Look into the bottom window and adjust the mirrors until you see out of the top one.",
+        "Use it to look over a table or round a door frame.",
+        "Draw a ray diagram of the light's path."
+      ],
+      "outcome": "A working periscope and a ray diagram showing how two mirrors change the direction of light so you can see over obstacles."
+    },
+    {
+      "id": "a2",
+      "title": "Sun, Earth and Moon dance",
+      "day": 6,
+      "mins": 15,
+      "need": ["open space", "a lamp or yellow cloth for the Sun", "3 people (or 2 and a chair as the Sun)", "a torch and an orange or ball on a stick"],
+      "steps": [
+        "The Sun stands still in the middle.",
+        "The Earth walks a big slow circle round the Sun.",
+        "The Moon walks small circles round the Earth while the Earth keeps moving.",
+        "Count about 12 Moon circles for each Earth circle.",
+        "In a dark room, shine a torch on the orange 'Moon' and see that only half is lit."
+      ],
+      "outcome": "A moving model of orbits: the Moon orbits the Earth about once a month while the Earth orbits the Sun once a year, and only the half facing the Sun is lit."
+    },
+    {
+      "id": "a3",
+      "title": "Solar system walk",
+      "day": 7,
+      "mins": 17,
+      "need": ["a football or big ball for the Sun", "8 labelled paper slips", "a peppercorn for Earth", "a long lane or path"],
+      "steps": [
+        "Put the ball at the start as the Sun.",
+        "Walk big steps and drop slips: Mercury 1, Venus 2, Earth 2.5, Mars 4, Jupiter 13, Saturn 24, Uranus 49, Neptune 77.",
+        "Place the peppercorn at Earth to show its size on this scale.",
+        "Stand at Neptune and look back at the Sun.",
+        "Discuss what the walk shows about distances in space."
+      ],
+      "outcome": "A life-sized feeling for how far apart the planets are compared with their sizes, and the order of the planets from the Sun."
+    },
+    {
+      "id": "a4",
+      "title": "Astronomer research (Book project, page 120)",
+      "day": 13,
+      "mins": 20,
+      "need": ["library books or a trusted website (with an adult)", "paper and colour pens"],
+      "steps": [
+        "Choose an astronomer (Aryabhata, Brahmagupta, Varahamihira, Ptolemy, Copernicus, Galileo or another).",
+        "Find: name, dates, nationality, discoveries, equipment used, how they changed ideas.",
+        "Write the information under the book's headings on one page.",
+        "Add a picture or drawing.",
+        "Give a 2-minute presentation and answer questions."
+      ],
+      "outcome": "A one-page fact sheet and short talk about a real astronomer and how their work changed what people knew about the solar system."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Ptolemy and Euclid (ancient Greece and Alexandria) and Ibn al-Haytham (about 965–1040), Basra and Cairo",
+      "idea": "For many centuries, important thinkers including the Greek mathematician Euclid and the astronomer Ptolemy taught that we see because our eyes send out rays that travel to objects, like invisible feelers. Others thought objects send out tiny copies of themselves into the eye. Around 1011 to 1021, Ibn al-Haytham, working in Cairo, wrote the 'Book of Optics'. Using careful experiments with dark rooms, small holes and lamps, he argued that light travels in straight lines from sources, reflects off objects, and enters the eye; the eye receives light rather than sending it out.",
+      "then": "His book was translated into Latin and studied in Europe for centuries. The eye-ray idea took a long time to fade completely.",
+      "now": "The idea that eyes send out rays has been rejected. We know that light from a source reflects off objects into our eyes, which is exactly what the coin-in-the-box test on page 97 shows. Ibn al-Haytham is honoured as a pioneer of experiments in science.",
+      "status": "rejected",
+      "ask": "If our eyes sent out rays, we should be able to see in a totally dark room. What simple test could you do to decide between the two ideas?",
+      "day": 1
+    },
+    {
+      "id": "v2",
+      "who": "Pluto and the International Astronomical Union vote (2006), and scientists who disagree, such as Alan Stern",
+      "idea": "Pluto was discovered by Clyde Tombaugh in 1930 and was called the ninth planet for 76 years. But astronomers then found many other icy bodies beyond Neptune, including Eris, which is about the same size as Pluto. In 2006 the International Astronomical Union (IAU) agreed a definition: a planet must orbit the Sun, be big enough to be round, and have cleared its path of other objects. Pluto shares its path with many icy objects, so it was reclassified as a 'dwarf planet'. That is why the book says there are eight planets.",
+      "then": "Many people were upset. Some astronomers, including Alan Stern, who later led NASA's New Horizons mission that flew past Pluto in 2015, said the definition was poorly written and that any round body orbiting the Sun should count as a planet.",
+      "now": "The IAU definition is still the official one, and most textbooks list eight planets. But some planetary scientists still argue that Pluto, with its mountains, glaciers and thin air seen by New Horizons, should be called a planet. This is a live debate about how to classify, not about what Pluto is like.",
+      "status": "debated",
+      "ask": "Pluto didn't change in 2006; only the rule did. What makes a good rule for sorting things into groups? Would you keep Pluto as a planet, and what rule would you use?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Aryabhata (476–about 550 CE), India",
+      "idea": "In his book the 'Aryabhatiya', written in 499 CE near Pataliputra (today's Patna), Aryabhata stated that the Earth spins on its axis, and that the stars only seem to move westwards because the Earth turns eastwards. He compared it to a person in a boat moving forward who sees the trees on the bank moving backwards. He also explained that eclipses happen when the shadow of the Earth falls on the Moon or the Moon blocks the Sun, not because of demons, and he gave a very accurate value for the length of the year.",
+      "then": "Many later Indian astronomers respected his calculations but rejected his spinning Earth. Varahamihira argued that if the Earth spun, birds flying off would not be able to return to their nests, and Brahmagupta also disagreed. Some later writers even changed the meaning of his words to say that the stars move instead.",
+      "now": "Aryabhata was right that the Earth spins on its axis once a day; this is now proven by many kinds of evidence, including the swing of a Foucault pendulum and photos from space. India's first satellite, launched in 1975, was named Aryabhata in his honour.",
+      "status": "accepted",
+      "ask": "Varahamihira's bird argument sounds sensible. What is wrong with it? How does a fly inside a moving train help you answer him?",
+      "day": 9
+    },
+    {
+      "id": "v4",
+      "who": "Nicolaus Copernicus (1473–1543), Poland, and Galileo Galilei (1564–1642), Italy",
+      "idea": "In 1543 Copernicus published a book arguing that the Sun, not the Earth, is at the centre, and that the Earth and planets move round it. In 1610 Galileo, using one of the first telescopes, saw four moons orbiting Jupiter, showing that not everything goes round the Earth, and saw that Venus goes through a full set of phases like our Moon. This can only happen if Venus orbits the Sun.",
+      "then": "Most scholars and church authorities of the time held to the Earth-centred system of Ptolemy. In 1633 Galileo was put on trial by the Roman Inquisition, forced to take back his views, and kept under house arrest for the rest of his life.",
+      "now": "The Sun-centred solar system is accepted and has been confirmed by a huge range of observations, including spacecraft travelling to every planet. In 1992 the Catholic Church formally said that Galileo had been treated wrongly.",
+      "status": "accepted",
+      "ask": "Galileo's evidence came from a new tool, the telescope. Why might people refuse to look through a new instrument or trust what it shows? How can scientists check that a new tool is telling the truth?",
+      "day": 13
+    }
+  ],
+  "check": [
+    {"q": "How do we see an object that is not a source of light? Draw or describe a ray diagram.", "a": "Light travels from a source, such as the Sun or a bulb, to the object, reflects off it and travels into our eyes. Ray diagram: a straight arrow from the source to the object (arriving ray) and a straight arrow from the object to the eye (reflected ray)."},
+    {"q": "What evidence shows that light travels in straight lines?", "a": "Light comes through a straight tube but not a bent one; light passes through holes in three cards only when they are in a straight line; sunbeams and projector beams look straight; shadows form because light can't bend round objects."},
+    {"q": "Which surfaces reflect light best, and why?", "a": "Smooth, shiny surfaces such as mirrors, polished steel and smooth foil, because they bounce light back in an orderly way and make an image. Rough or dull surfaces like wood, paper and cloth scatter or absorb the light."},
+    {"q": "Name the eight planets in order from the Sun. What is the difference between a star and a planet?", "a": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. A star, like the Sun, makes its own light; a planet does not, it orbits a star and reflects its light."},
+    {"q": "What are an asteroid, a moon and a comet?", "a": "An asteroid is a rocky body smaller than a planet orbiting the Sun, mostly between Mars and Jupiter. A moon orbits a planet or an asteroid. A comet is a lump of ice and dirt in a long orbit round the Sun that grows a tail near the Sun."},
+    {"q": "What causes day and night, and why does the Sun seem to move across the sky?", "a": "The Earth spins on its tilted axis once every 24 hours. The half facing the Sun has day and the other half has night. As the Earth spins from west to east, the Sun appears to move from east to west; this is its apparent movement."},
+    {"q": "How does a shadow change from morning to evening? Why?", "a": "It is long in the morning, gets shorter until it is shortest around midday, then gets longer again in the afternoon, and it swings from pointing west to pointing east. This is because the Earth's spin makes the Sun appear to rise, climb high and sink, and the shadow always points away from the Sun."}
+  ]
+}
