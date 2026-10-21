@@ -1,0 +1,599 @@
+{
+  "key": "ncert|sci|3|12",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 12,
+  "title": "Taking Charge of Waste",
+  "source": "NCERT Our Wondrous World, Class 3, Chapter 12 (pages 149–162), Unit 4 'Things Around Us', Reprint 2026-27",
+  "summary": "Starting from a picture of children cleaning a park on National Cleanliness Day, your child finds out how our everyday activities create waste, what harm garbage piles, burning plastic and dirty water do to people and animals, and how we can take charge: reduce, reuse and recycle. They keep and sort a day's home waste, make a newspaper bag and a gift from waste, read about clean places like Silluk, Indore and Mysuru, sort waste into green and blue bins, watch peels rot in a bury test and a compost pot, and make recycled paper by hand.",
+  "goals": [
+    "By the end your child can explain how waste is created by everyday activities at home and school, and give examples (packaging, peels, old clothes, wrappers, pencil shavings, batteries).",
+    "By the end your child can describe the harm done by garbage piles, plastic eaten by animals, burning plastic and dirty standing water.",
+    "By the end your child can explain and practise the three ways to manage waste: reduce, reuse and recycle, in that order of importance.",
+    "By the end your child can sort household waste into the green bin (things that rot) and the blue bin (paper, plastic, metal, glass), keep hazardous things like batteries and sharp glass separate, and say why sorting matters.",
+    "By the end your child can show, from their own bury test and compost pot, that peels and leaves rot into soil while plastic does not.",
+    "By the end your child can name places in India known for managing waste well and describe the people, from citizens to waste pickers, who keep places clean."
+  ],
+  "words": [
+    ["waste", "things we have used or do not want any more and throw away, like peels, wrappers, old clothes and bottles"],
+    ["garbage pile", "a heap of mixed waste dumped on a roadside or open ground instead of being collected and managed"],
+    ["dispose", "to get rid of something, such as putting waste in a dustbin"],
+    ["reduce", "to make less waste in the first place, for example by carrying a cloth bag instead of taking a plastic one"],
+    ["reuse", "to use something again, for the same job or a new one, instead of throwing it away"],
+    ["recycle", "to turn used paper, plastic, metal or glass into raw material to make new things"],
+    ["segregate", "to separate waste into different kinds, such as wet waste and dry waste, before throwing it"],
+    ["rot", "to break down slowly and become part of the soil, as peels and dead leaves do; also called decompose"],
+    ["biodegradable", "able to be broken down by tiny living things such as bacteria and fungi, like food waste, paper and cotton"],
+    ["compost", "dark, crumbly soil-like stuff made when vegetable peels and leaves rot; it is food for plants"],
+    ["kabadiwala", "a person who buys old newspapers, bottles, metal and plastic from homes and sells them on for recycling"],
+    ["sanitation worker", "a person whose job is to collect waste and keep streets, drains and toilets clean"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Where does all this waste come from?",
+      "goal": "Talk about the National Cleanliness Day picture, find out how our own day creates waste, start keeping one day's waste, and set up the bury test that needs a week.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The dustbin mystery",
+          "mins": 4,
+          "do": "Before opening the book, take your child to the kitchen dustbin (with gloves or a stick, not bare hands). Ask: 'Without tipping it out, can you guess five things inside?' Then peek together. Ask: 'Who put these things here? When? Where will they go after the garbage van takes them?' Listen to the answers without correcting; say: 'This week we will find out where \"away\" really is.'"
+        },
+        {
+          "kind": "read",
+          "title": "National Cleanliness Day (pages 149–150)",
+          "mins": 8,
+          "do": "Look at the big picture on page 149 together and ask the four questions on page 150: 'What are the children and the teacher doing?' (Cleaning a park: picking up litter, sweeping, putting it into bins.) 'Why are they cleaning the park?' (Because people threw waste there; to make it safe and pleasant for everyone and for the animals.) 'Have you seen piles of waste near our home or school? Where?' 'Have you ever thought about how this waste is made?' Then tell your child that National Cleanliness Day is on 30 January, as page 160 says, the day India remembers Mahatma Gandhi, who believed cleanliness was everyone's work."
+        },
+        {
+          "kind": "talk",
+          "title": "Book Activity 1: How does my day make waste? (page 150)",
+          "mins": 8,
+          "do": "Do Activity 1 on page 150. Your child goes through their day and the elders' day, step by step, and says what waste each activity makes: brushing (an empty toothpaste tube, later an old brush), breakfast (milk packet, peels, egg shells, a bread wrapper), school (pencil shavings, sweet wrappers, a juice box), the shopping (plastic bags, packaging boxes), cooking (vegetable peels, onion skins, tea leaves), cleaning (dust, old cloth), a festival or party (decorations, paper plates, gift wrap). Write the list in the notebook in two columns: Activity, Waste. Then ask the book's last question: 'Finally, what do we do with the waste?' (It goes into the dustbin, then to the garbage van, or to the kabadiwala, or sometimes it is thrown on the road.)"
+        },
+        {
+          "kind": "act",
+          "title": "Start the one-day waste collection",
+          "mins": 6,
+          "do": "Start Activity a1. From now until the same time tomorrow, nothing from home goes out to the garbage. Put two clean buckets or big bags by the kitchen: one for wet waste (peels, leftover food, tea leaves) and one for everything else. Tell everyone in the family. Your child makes a sign for each bucket. Before starting, ask them to guess: 'How heavy will our family's waste for one day be?' Write the guess. Tomorrow we will weigh and sort it.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the bury test",
+          "mins": 14,
+          "do": "Set up Experiment e1. Fill a large pot or a deep tub with garden soil, or choose a small patch of garden. Your child buries 4 things, each about 10 cm deep and a hand's width apart: a piece of banana peel, a piece of newspaper, a small piece of old cotton cloth, and a piece of plastic bag. Stick a labelled ice-cream stick above each one. Water the soil until it is damp. Ask your child to predict: 'After a week, what will each one look like? Which will have disappeared? Which will be the same?' Write the predictions. Keep the soil damp every day or two. We will dig them up on Day 8.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Textbook pages 149–150", "gloves or a stick for the dustbin peek", "2 clean buckets or large bags and paper for signs", "a large pot or tub of soil (or a garden patch)", "a banana peel, newspaper, a cotton cloth scrap, a piece of plastic bag", "4 ice-cream sticks and a marker", "water"],
+      "prep": [{"task": "Find a large pot or tub and enough garden soil for the bury test", "when": "2 days before"}]
+    },
+    {
+      "n": 2,
+      "title": "What happens to waste we do not manage?",
+      "goal": "Weigh and sort a day's waste, read about how waste is created and the harm garbage does, and observe and map our surroundings.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Weigh and sort one day's waste",
+          "mins": 12,
+          "do": "Finish Activity a1. Put on gloves. Weigh each bucket using a luggage scale or bathroom scale (weigh yourself holding the bucket, then without it, and subtract). Then tip the 'everything else' bucket onto old newspaper and your child sorts it into heaps: paper and cardboard, plastic, metal, glass, cloth, and 'other'. Count or weigh each heap. Ask: 'Was your guess close? Which heap is biggest?' (Often plastic packaging by number and wet waste by weight.) 'Which things could we have avoided?' Write the results in a table in the notebook. Wash hands well afterwards.",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "How is waste created? (page 151)",
+          "mins": 6,
+          "do": "Read 'How is waste created?' and 'Managing waste' on page 151 aloud. Ask: 'Which of the things in the book's list did we find in our buckets?' (Peels, wrappers, paper, bottles, pencil shavings; perhaps old batteries.) Then ask the book's questions: 'How do you feel about the garbage piles you see around?' and 'Do you think we can do something about it?' Read the last lines: managing waste is in our own hands, and we can learn from people and places that manage it well."
+        },
+        {
+          "kind": "read",
+          "title": "Ways to manage waste: the harm (page 152)",
+          "mins": 7,
+          "do": "Read 'Ways to manage waste' on page 152 aloud. Stop after each harm and ask why it happens. Cows and other animals can die by eating plastic mixed with food: 'Why would a cow eat plastic?' (It smells the food inside the bag and swallows the bag with it; the plastic cannot be digested and blocks its stomach.) Burning plastic releases harmful gases: 'Have you seen anyone burning garbage? What did the smoke smell like?' (The smoke has poisonous gases that harm our lungs.) Puddles and waste water on roads increase mosquitoes: 'Why?' (Mosquitoes lay eggs in still water, and some mosquitoes spread dengue and malaria.) Waste water can carry germs that cause other diseases. Then ask: 'So what is the first thing we should never do with plastic?' (Never burn it and never throw it with food on the road.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 2: Observe and map (pages 152–153)",
+          "mins": 15,
+          "do": "Do Activity a4, based on Activity 2 on pages 152–153. Walk around your building, lane or the outside of the school with your child for 8 minutes and ask the book's questions: 'How clean is it? Is there waste lying around?' Look for garbage piles, overflowing bins, blocked drains, standing water, and any smoke from burning. Do not touch anything. At home, your child draws a map of the area (or prints one from a phone map) and circles in red every place with garbage, waste water or smoke. Next to each circle, write a guess: 'How did the waste get here?' (No dustbin nearby, the bin is full, people throw it from vehicles, the drain is blocked by plastic, the garbage van did not come.) Finally ask: 'If our area manages waste well, how is it done?' and ask an elder or the building watchman.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 151–153", "the two waste buckets from yesterday", "gloves, old newspapers", "a luggage scale or bathroom scale", "notebook and a red pencil", "paper for the map"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Reduce: the first rule",
+      "goal": "Learn that the best waste is the waste we never make, find ways to reduce it at home, share old toys and books, start a compost pot, and hear a live debate about recycling.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Reduce (pages 153–154)",
+          "mins": 6,
+          "do": "Read 'Reduce' on page 153 and the top of page 154 aloud. Ask: 'What do people do to reduce waste?' (Avoid food and drinks in wrappers and plastic bottles; use cloth bags instead of plastic bags.) Ask the book's question: 'Have you ever tried doing this?' Then read the part on page 154: the more things we buy, the more we throw away; buy what we need and use things until they cannot be used any more. Ask: 'Why do you think REDUCE comes first, before reuse and recycle?' (Because waste that is never made needs no bin, no truck and no factory to deal with it.)"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 3: Our reduce plan (page 153)",
+          "mins": 9,
+          "do": "Do Activity 3 on page 153: 'How can you help in reducing waste?' Use the waste table from Day 2. For each big heap, your child thinks of a way to make less of it next time. Ideas: keep a cloth bag in the school bag and the scooter dicky; buy dal, rice and sugar loose in your own containers from the kirana shop; carry a steel water bottle; choose fruit instead of packaged snacks; say 'no straw, please'; take only as much food as you can eat; mend a torn shirt instead of buying a new one. Choose three ideas the family will actually do this week and write them on a 'Reduce Pledge' card on the fridge, signed by everyone."
+        },
+        {
+          "kind": "do",
+          "title": "Share old toys and books (page 154)",
+          "mins": 6,
+          "do": "Read the 'Cleanliness Drive' line on page 154: share old toys and books with those who need them but cannot buy them. Go through your child's shelf together. Your child chooses at least three toys or books they no longer use but which are still in good condition, cleans them, and puts them in a bag to give to a neighbour's younger child, a building helper's family, a school, a library or an NGO collection point. Ask the book's question: 'In what other ways can you help?' (Pass on clothes that are too small, give old school books to a junior, share a newspaper with a neighbour.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Start a compost pot",
+          "mins": 12,
+          "do": "Start Experiment e2. Take an old earthen pot or a plastic bucket with a few holes drilled in the sides and bottom (an adult does the drilling), and stand it on a few bricks on the balcony or in the garden. Your child puts in layers: a layer of dry leaves or shredded newspaper, then a layer of chopped vegetable and fruit peels from today's cooking (no oil, meat, dairy or cooked food), then a handful of garden soil, then dry leaves again. Sprinkle with water so it is as damp as a squeezed sponge, and cover with a lid or a jute sack. Ask your child to predict: 'What will happen to the peels? Will it smell? Will it get warm?' Each day, add peels and an equal amount of dry leaves, and stir every few days. We will check it on Days 5 and 8.",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Is recycling enough?",
+          "mins": 7,
+          "do": "Tell the story in Voice v3 (the 2017 study of all the plastic ever made, and the debate about recycling). Draw 100 small squares on paper to stand for all plastic waste, and let your child colour 9 green (recycled), 12 grey (burned) and 79 brown (dumped or left in nature). Ask: 'Looking at this, what should we do first: recycle more, or make less?' Then ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": ["Textbook pages 153–154", "the waste table from Day 2", "card for a Reduce Pledge", "a bag for old toys and books", "an old earthen pot or bucket with holes, 2–3 bricks", "dry leaves or shredded newspaper, vegetable peels, garden soil, a lid or jute sack", "paper and colours for the 100-square drawing"],
+      "prep": [{"task": "Collect a bag of dry leaves and keep today's vegetable peels for the compost pot", "when": "morning"}]
+    },
+    {
+      "n": 4,
+      "title": "Reuse: give things a second life",
+      "goal": "Learn how our grandparents reused things, find reuse ideas at home, fold a newspaper bag with no scissors or glue, and check our main ideas so far.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Reuse (pages 154–155)",
+          "mins": 6,
+          "do": "Read 'Reuse' on pages 154 and 155 aloud. Ask: 'What did our grandparents do with old clothes?' (Made quilts from old sarees, bags from old clothes, and gave clothes to people who needed them.) Then phone or ask a grandparent: 'What did you reuse when you were young?' Common answers: old sarees became godhadi or kantha quilts, old dhotis became dusters, glass jars stored pickles and spices, newspaper lined shelves, tins became pencil boxes. Read the gift-wrap line: newspapers or old cloth for wrapping gifts. Ask: 'Why is gift-wrap paper a waste, even when it is pretty?' (It is used for a few minutes and then thrown away.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Book Activity 4: Reuse ideas (page 155)",
+          "mins": 6,
+          "do": "Do the first part of Activity 4 on page 155: 'How can you reuse things to reduce waste?' Read the book's ideas: use paper written on one side for rough work; refill a steel or copper bottle instead of buying water. Your child walks round the house and finds five things that are about to be thrown away and says how each could be reused: a shoebox becomes a toy house or a storage box, a glass jar becomes a pen stand, an old T-shirt becomes a duster or a cloth bag, a plastic bottle becomes a planter, old calendar pages become notebook covers. Write the list. Ask: 'Is there anything we should NOT reuse?' (Plastic bottles meant for one use should not be refilled with hot drinks or used for years for drinking water; food containers with cracks; medicine bottles.)"
+        },
+        {
+          "kind": "act",
+          "title": "Fold a newspaper bag (page 155)",
+          "mins": 15,
+          "do": "Do Activity a2, the newspaper bag on page 155. Follow the step pictures in the book carefully, with no scissors and no glue, just paper. Use one large double sheet of newspaper. Go one step at a time: your child folds, then you check before going to the next picture. Press each fold sharply with a thumbnail. If the bag comes out lopsided, unfold and try again: it usually works on the second or third try. Test it: how many potatoes or small books can it carry before it tears? Make a second bag and give it to the vegetable seller or the kirana shop to use. Look at Arvind Gupta's website, mentioned in the teacher's note on page 155, for more toys made from waste.",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 13,
+          "do": "Do Worksheet ws1 (core). It covers how waste is made, the harm it does, and reduce and reuse. Sections on the bins will be easy after Day 6, but try them now: your child may already know. Read aloud if needed and mark it together; for any mistake, go back to the page (harm p152, reduce p153–154, reuse p154–155).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 154–155", "a phone to call a grandparent", "large double sheets of newspaper", "a few potatoes or small books to test the bag", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "A gift from waste, and places of pride",
+      "goal": "Make a gift from waste for someone who keeps our area clean, read about Silluk, Chhota Narena, Indore and Mysuru, find out about the Swachh Bharat Mission, and meet the woman who took India's waste problem to the Supreme Court.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Compost and bury test check",
+          "mins": 3,
+          "do": "Check Experiment e2: lift the lid of the compost pot. Is it damp? Does it smell earthy or bad? (A bad, rotten smell means it is too wet: add more dry leaves.) Put your hand just above the pile or touch the middle with a stick and feel: is it a little warm? Add today's peels with dry leaves. Water the bury-test pot from Experiment e1 if the soil is dry; do not dig yet.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 5: A gift from waste (page 156)",
+          "mins": 14,
+          "do": "Do Activity a3, which is Activity 5 on page 156. Your child makes a gift from waste for a person who helps keep your home or locality clean: the person who collects your garbage, the building sweeper, the safai karamchari on your road, or a house helper. Ideas: a pen stand from a tin covered in old calendar paper; a cloth bag from an old T-shirt (cut off the sleeves and sew or tie the bottom); a decorated jar planter with a small plant from your methi pot; a greeting card from an old cardboard box. When you give it, your child says, as the book suggests: 'I made this from waste so that we make less waste and your work is lighter. Thank you!' Ask afterwards: 'How did the person feel? How did you feel?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "A place of pride (pages 156–157)",
+          "mins": 8,
+          "do": "Read 'A Place of Pride' on pages 156 and 157 aloud: the village of Silluk in Arunachal Pradesh, with clean, tree-lined roads and an award as a 'zero waste village'; Chhota Narena, one of the first villages to become waste-free; and clean cities like Indore and Mysuru. Ask the book's question: 'How did the people of these places change their surroundings?' Good answers: everyone sorted their waste at home, nobody threw it on the road, waste was collected every day, wet waste was composted, and people kept reminding each other. Tell your child that Indore has been ranked India's cleanest city in the national cleanliness survey (Swachh Survekshan) year after year since 2017. Then do the tasks on page 157: ask your elders which clean place they know, and find out about the Swachh Bharat Mission (Clean India Mission), started on 2 October 2014, Gandhi Jayanti, to build toilets and clean up streets and villages across India."
+        },
+        {
+          "kind": "think",
+          "title": "Almitra Patel goes to court",
+          "mins": 8,
+          "do": "Tell the story in Voice v1. Ask: 'Almitra Patel was one person. How did one person's complaint change the rules for the whole country?' Then ask the voice question. Link to your Day 2 map: 'Who is responsible for the red circles on our map: the city, the people, or both?'",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Our place of pride",
+          "mins": 7,
+          "do": "Ask your child: 'What would our building or lane need to do to become a place of pride, like Silluk?' Write a plan of three steps, for example: 1. Two bins in every home and a compost pit in the compound. 2. A rule that nobody burns leaves or plastic. 3. A monthly clean-up morning. Ask: 'Who would we need to talk to?' (The society secretary, the neighbours, the ward office.) Your child can show the plan to a neighbour or the building WhatsApp group with your help."
+        }
+      ],
+      "need": ["Textbook pages 156–157", "the compost pot and bury-test pot", "waste for the gift: a tin, a jar, an old T-shirt or a cardboard box", "old calendar paper, colours, tape or thread and needle", "notebook"],
+      "prep": [{"task": "Decide with your child who will receive the gift from waste, and collect the materials", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Separate your waste: green bin, blue bin",
+      "goal": "Learn what goes into the green and blue dustbins and why, sort the book's list and our own waste, keep dangerous things separate, play Bin Blitz, meet the waste pickers who recycle India's waste, and start making recycled paper.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Separate different types of waste (pages 158–159)",
+          "mins": 7,
+          "do": "Read 'Separate different types of waste' on pages 158 and 159 aloud. Ask: 'Where have you seen dustbins of two colours?' (Schools, markets, parks, railway stations, malls.) 'What goes in the green dustbin?' (Things that rot easily and mix with the soil: dried leaves, fruit peels, vegetable waste, egg shells.) 'What happens to it?' (It can become compost, food for plants and for tiny soil animals.) 'What goes in the blue dustbin?' (Metal, glass, plastic and paper.) 'What happens to it?' (It can be recycled: made into new things.) Ask: 'Why do some villages keep separate bins for each material?' (So it is easy to send each one to a different recycling place.)"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 6: Separate your waste (page 159)",
+          "mins": 8,
+          "do": "Do Activity 6 on page 159: your child writes each item in the right dustbin. Green: leaves, onion peels, rotten fruit, eggshells. Blue: plastic bottles, paper, used plastic milk packets (rinsed and dried), cloth, light bulbs. Talk about the tricky ones: 'Why must the milk packet be rinsed?' (Milk left inside goes sour, smells and spoils the paper and other things in the blue bin.) 'A light bulb is glass and metal; is it safe to throw loosely?' Read the teacher's note on page 159: sharp or harmful things like broken glass and needles must be wrapped in cloth or paper so sanitation workers are not hurt. Tell your child that some things should not go in either bin: old batteries, tube lights and CFL bulbs (they contain a little mercury, a poison) and medicines should be kept in a separate box for hazardous waste."
+        },
+        {
+          "kind": "game",
+          "title": "Bin Blitz",
+          "mins": 8,
+          "do": "Play the DeepKids game Bin Blitz. Make 24 picture cards of waste items, including trick cards: a used tea bag (green, but some tea bags have plastic in them), a tetra-pak juice box (blue, it is paper, plastic and foil stuck together), a battery (hazardous), a broken glass bangle (wrap it, then blue), a pizza box with cheese stuck on it (the clean part blue, the greasy part green), a coconut shell (green, but it rots slowly), a diaper (a separate sanitary waste bag). Draw three 'bins' on paper: green, blue and red (hazardous). Set a 60-second timer: your child flips cards and slaps each onto the right bin. Score 1 for each correct card and 2 for each trick card. Check together, then play again to beat the score."
+        },
+        {
+          "kind": "think",
+          "title": "The waste pickers of Pune",
+          "mins": 7,
+          "do": "Tell the story in Voice v2. Ask: 'When you put a bottle in the blue bin, who do you think actually takes it to be recycled?' Then ask the voice question. If a kabadiwala comes to your area, ask him this week: 'What can you sell, and what can you not?' (Usually newspaper, cardboard, metal, many hard plastics and glass bottles can be sold; thin plastic wrappers and chip packets cannot, which is why they end up in garbage piles.)",
+          "ref": "v2"
+        },
+        {
+          "kind": "exp",
+          "title": "Make recycled paper (part 1)",
+          "mins": 10,
+          "do": "Start Experiment e3. Your child tears two sheets of newspaper or used notebook paper into small pieces, about the size of a stamp, and puts them in a bowl of warm water to soak. After 10 minutes (or later this evening), an adult blends the soaked paper with plenty of water in the mixer for a few seconds until it becomes a grey pulp, like thin porridge. Pour the pulp into a wide tub of water and stir. Dip a frame (an old photo frame with a piece of mosquito net or a fine steel sieve) into the tub and lift it out flat, so a thin, even layer of pulp sits on the net. Let it drip, then turn it out onto a cotton cloth, cover with another cloth and press with a rolling pin to squeeze out water. Leave it to dry flat until tomorrow.",
+          "ref": "e3"
+        }
+      ],
+      "need": ["Textbook pages 158–159", "card paper for 24 Bin Blitz cards and green, blue and red paper 'bins'", "a 60-second timer", "2 sheets of newspaper or used paper, a bowl of warm water", "a mixer (adult use), a wide tub", "an old photo frame with mosquito net or a fine sieve, 2 cotton cloths, a rolling pin"],
+      "prep": [{"task": "Make the Bin Blitz cards; stretch a piece of mosquito net over an old photo frame and tape it", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Keeping our surroundings clean",
+      "goal": "List what we can do to keep home and classroom clean, look closely at the tools cleaners use, take the cleanliness pledge, finish our recycled paper, and stretch our thinking.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Recycled paper (part 2)",
+          "mins": 6,
+          "do": "Finish Experiment e3. Gently peel the dry sheet of recycled paper from the cloth. Your child feels it and compares it with the newspaper it came from: rougher, thicker, greyish, with fibres you can see. Ask: 'Can you write on it? Draw on it?' Try with a crayon and a pen. Ask: 'What did we do that a paper recycling factory also does?' (Soak and pulp the old paper, spread the fibres thin, press and dry them.) Use this sheet for the cleanliness pledge below.",
+          "ref": "e3"
+        },
+        {
+          "kind": "do",
+          "title": "Keep home and classroom clean (page 160)",
+          "mins": 7,
+          "do": "Do the first task on page 160: list the things you can do to keep your home and classroom clean. Start with the book's example, 'I can keep my room tidy', and add at least four: put wrappers in the dustbin, not under the desk; keep a small bin by my study table; wipe up what I spill; put my shoes on the rack; never write on walls; flush and wash hands after using the toilet. Then do one of them right now for 3 minutes: tidy the study table together and empty its rubbish into the right bins."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Cleaning tools (page 160)",
+          "mins": 7,
+          "do": "Do the cleaning-tools tasks on page 160. First, list the tools used for cleaning at home: jhadu (broom of grass or coconut-leaf stems), pocha (mop cloth), duster, bucket, dustpan, toilet brush, scrubber, a phool-jhadu for cobwebs. Then step outside and look at tools used in the neighbourhood or school: long-handled brooms, garbage carts, wheelbarrows, the garbage van, gloves, masks, boots. Your child draws three tools in the box on page 160. Ask: 'What is each made of? Which ones are made of natural materials?' (Many brooms are grass or coconut-leaf stems; mops are cotton.) 'Why do sanitation workers need gloves, masks and boots?' (To protect them from germs, sharp things and dirty water, which is why we wrap broken glass.)"
+        },
+        {
+          "kind": "talk",
+          "title": "The cleanliness pledge (page 160)",
+          "mins": 5,
+          "do": "Read 'Keeping our Surroundings Clean' on page 160 aloud, including the aim 'Want not, Waste not.' Ask: 'What do you think it means?' (If we do not want more than we need, we will not waste things.) Your child writes a short pledge on the recycled paper from e3, in their own words, for example: 'I will make less waste, sort my waste into the green and blue bins, never litter or burn plastic, and help keep my home and neighbourhood clean.' Everyone in the family signs it, and it goes on the wall."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Let your child use the waste table from Day 2 and the Bin Blitz cards to help.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 7,
+          "do": "Start Worksheet ws3 (challenge): do section A now and sections B and C at bedtime or tomorrow morning. Your child can answer aloud while you write. For section C there is no single right answer; praise reasons that use evidence ('the plastic in our bury test did not change at all, so…').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook page 160", "the drying recycled paper", "a pen and crayons", "notebook and colours", "worksheets ws2 and ws3"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Dig it up! Reflect, check and teach it back",
+      "goal": "Dig up the bury test and check the compost, answer the book's reflection questions, plan a zero-waste birthday party, check understanding and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Dig up the bury test",
+          "mins": 8,
+          "do": "Finish Experiment e1. With gloves and a spoon or trowel, your child carefully digs up each of the four buried things and lays them on newspaper next to the labels. Compare with the predictions written on Day 1. After about a week, usually: the banana peel is dark, soft, slimy or mouldy and partly broken down; the newspaper is soft and may be torn or have holes; the cotton cloth looks a little weaker or stained; the plastic is exactly the same. Ask: 'Which things were being eaten by tiny living things in the soil?' (The peel, the paper and the cotton, which came from plants.) 'Why not the plastic?' (Soil bacteria and fungi cannot break plastic down.) Then check the compost pot from Experiment e2: are the oldest peels darker and harder to recognise? Rebury the peel, paper and cloth to check again in a month.",
+          "ref": "e1"
+        },
+        {
+          "kind": "review",
+          "title": "Let us reflect: Discuss and Write (page 161)",
+          "mins": 8,
+          "do": "Ask Discuss questions A1 and A2 on page 161: 'How is waste created?' (By everyday activities: packaging, food, buying new things, throwing away old things.) 'How can we manage waste?' (Reduce first, reuse, then recycle; sort it into green and blue bins; compost wet waste; never litter or burn it.) Then do Write question B2: three things for the green dustbin and three for the blue, from your own home and school. Do Write question B1 together: list plastic things in your home (bags, bottles, straws, lunch boxes, cling film, toothbrush) and write what could replace each (cloth bag, steel bottle, no straw or a steel straw, steel tiffin, a plate as a lid, a bamboo toothbrush)."
+        },
+        {
+          "kind": "talk",
+          "title": "Think, Reflect and Share (page 162)",
+          "mins": 6,
+          "do": "Ask Think question E1 on page 162: 'Plan a zero-waste birthday party.' First list the waste a party usually makes: plastic plates and cups, balloons, wrapping paper, return-gift packaging, leftover food, cake boxes, decorations. Then your child plans a swap for each: steel plates or banana leaves, newspaper or cloth gift wrap, paper or cloth decorations that can be kept, homemade lemonade in a jug, food cooked in the right amount, return gifts like seed packets or books. Then ask E2: 'Have you seen waste in nature? What happens to animal droppings and dried leaves in a forest?' (They rot and become soil; insects, worms, fungi and bacteria eat them, so in a forest nothing is really wasted, just like our compost pot.)"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For each one missed, look at the right page for one minute (harm p152, reduce p153–154, reuse p154–155, places of pride p156–157, bins p158–159) and ask again in different words. Six or more right is good; fewer than five means play Bin Blitz and look at the bury test again next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: clean town, dirty town",
+          "mins": 10,
+          "do": "First do Enact question D on page 162 in pairs: your child is a clean town and you are a dirty town (then swap). Each talks for one minute about how they feel being the way they are ('I feel proud; my children play outside and my cows are healthy' / 'I feel sick; my drains are blocked and mosquitoes bite everyone'). Then your child becomes the teacher and, using the bury-test results, the compost pot, the newspaper bag and the recycled paper, teaches the family in 5 minutes: how waste is made, why it is harmful, the three Rs in order, and what goes in the green and blue bins. Ask two 'student' questions: 'Can I burn plastic to get rid of it?' and 'Where does a banana peel go if I bury it?' Finally, do Draw question C1 at bedtime or another day: a poster of a village or town that manages its waste well, with a title."
+        }
+      ],
+      "need": ["Textbook pages 161–162", "gloves, a spoon or trowel and newspaper", "the bury-test pot and compost pot", "the newspaper bag and recycled paper", "notebook and colours for the poster"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Waste: where it comes from and what we can do",
+      "day": 4,
+      "sections": [
+        ["A. How waste is made and the harm it does", [
+          {"t": "write", "p": "Write three things you did yesterday and the waste each one made.", "lines": 3},
+          {"t": "match", "p": "Match each problem to the harm it causes.", "pairs": [["Plastic thrown with food on the road", "Cows and other animals can eat it and die"], ["Burning plastic", "Harmful gases that hurt our lungs"], ["Puddles of waste water", "More mosquitoes, which spread disease"], ["Garbage piles near homes", "People fall ill from germs"]]},
+          {"t": "mcq", "p": "Why should we never burn plastic?", "opts": ["It makes too much light", "It releases harmful gases", "It makes the plastic grow", "It is too heavy"], "a": 1}
+        ]],
+        ["B. Reduce and reuse", [
+          {"t": "fill", "p": "The first rule of managing waste is to ____ the amount of waste we create.", "a": ["reduce"]},
+          {"t": "sort", "p": "Is each one a way to reduce or a way to reuse?", "items": ["Carry a cloth bag to the market", "Make a quilt from old sarees", "Say no to a plastic straw", "Write rough work on the back of used paper", "Refill a steel water bottle", "Buy only what you need"], "cats": ["Reduce", "Reuse"]},
+          {"t": "write", "p": "Name one old thing at home and write how you could reuse it.", "lines": 2}
+        ]],
+        ["C. Green bin or blue bin?", [
+          {"t": "sort", "p": "Sort the waste from page 159.", "items": ["Plastic bottle", "Leaves", "Onion peels", "Paper", "Rotten fruit", "Eggshells", "Used milk packet", "Cloth"], "cats": ["Green dustbin", "Blue dustbin"]},
+          {"t": "fill", "p": "Making new things from old metal, glass, plastic or paper is called ____.", "a": ["recycling", "recycle"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Waste detective",
+      "day": 7,
+      "sections": [
+        ["A. Our home's waste", [
+          {"t": "table", "p": "Write what you found when you sorted one day's waste.", "cols": ["Kind of waste", "How much (weight or number)", "How could we make less?"], "rows": 6, "prefill": ["Wet waste (peels, food)", "Paper and cardboard", "Plastic", "Metal", "Glass", "Cloth and other"]},
+          {"t": "write", "p": "Which kind of waste was biggest? Write two changes your family could make to reduce it.", "lines": 3}
+        ]],
+        ["B. Tricky sorting", [
+          {"t": "sort", "p": "Where should each go?", "items": ["Used tea leaves", "Old battery", "Rinsed juice tetra-pak", "Broken glass bangle (wrapped)", "Old medicines", "Coconut shell", "Newspaper"], "cats": ["Green bin", "Blue bin", "Keep separate (hazardous)"]},
+          {"t": "mcq", "p": "Why should broken glass be wrapped in paper or cloth before you throw it?", "opts": ["To keep it warm", "So sanitation workers do not get cut", "To make it heavier", "So it rots faster"], "a": 1},
+          {"t": "mcq", "p": "A kabadiwala will buy newspapers and metal but not chip packets. What usually happens to chip packets?", "opts": ["They are recycled into new chips", "They often end up in garbage piles, drains or landfills", "They turn into compost", "They disappear by themselves"], "a": 1}
+        ]],
+        ["C. Experiments", [
+          {"t": "table", "p": "Write what happened in your bury test.", "cols": ["Thing buried", "What I guessed", "What it looked like after a week"], "rows": 4, "prefill": ["Banana peel", "Newspaper", "Cotton cloth", "Plastic bag"]},
+          {"t": "write", "p": "Your compost pot started to smell bad. What would you add, and why?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Where is 'away'? Waste puzzles and big questions",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "We say we throw things 'away'. But where is 'away'? Follow a plastic bottle from your dustbin: write every place it might go.", "lines": 3},
+          {"t": "write", "p": "In a forest, nobody collects the garbage, yet the forest floor does not fill up with dead leaves and animal droppings for ever. Why not?", "lines": 3},
+          {"t": "mcq", "p": "Which of these saves the most waste?", "opts": ["Buying a plastic bottle of water and recycling it", "Buying a plastic bottle and throwing it in the green bin", "Carrying your own steel bottle and refilling it", "Buying a plastic bottle and burning it"], "a": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if the garbage van did not come to your area for one month? Write four things that would happen.", "lines": 3},
+          {"t": "write", "p": "If each family in a building of 40 families makes 1 kg of wet waste a day, how much wet waste is that in a week? What could the building do with it instead of sending it to a landfill?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "A study found that only about 9 out of every 100 pieces of plastic waste ever made have been recycled. Some people say 'recycle more'; others say 'make and use less plastic'. Which do you think matters more? Give your reason.", "lines": 3},
+          {"t": "write", "p": "Waste pickers collect and sort a lot of India's recyclable waste, but people often look down on them. Write why their work matters and one way we can make it safer for them.", "lines": 3},
+          {"t": "write", "p": "Who should be responsible for keeping a city clean: the city government, the companies that make packaging, or every family? Write what each could do.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The bury test: what rots and what doesn't?",
+      "day": 1,
+      "question": "What happens to a banana peel, newspaper, cotton cloth and plastic when they are buried in damp soil?",
+      "need": ["a large pot or deep tub of garden soil, or a small garden patch", "a piece of banana peel", "a piece of newspaper", "a small piece of old cotton cloth", "a piece of a plastic bag", "4 ice-cream sticks and a marker", "water", "gloves and a trowel or spoon"],
+      "steps": [
+        "Bury each of the four things about 10 cm deep, a hand's width apart.",
+        "Push a labelled ice-cream stick into the soil above each one.",
+        "Water the soil until it is damp, and keep it damp every day or two.",
+        "Write your predictions for each thing.",
+        "After about a week (Day 8), wear gloves and dig each one up carefully.",
+        "Lay them on newspaper beside their labels and compare with your predictions.",
+        "Rebury the peel, paper and cloth and check again after a month."
+      ],
+      "predict": "Ask your child to guess first: after a week, which will have changed the most? Will any disappear completely? Will the plastic change?",
+      "observe": "After about a week, the banana peel is dark brown or black, soft and slimy, may have white or green mould, and has started to break up. The newspaper is soft, stained and may have holes or tear easily. The cotton cloth is stained and slightly weaker. The plastic looks exactly the same. After a month or more the peel is mostly gone and the paper is in fragments.",
+      "why": "Soil is full of tiny living things: bacteria, fungi, worms and small insects. They feed on things that were once alive, like banana peel (a plant), newspaper (made from wood) and cotton (from the cotton plant), and break them down into simpler substances that become part of the soil. This is called rotting, or decomposing, and things that can be broken down this way are biodegradable. The juicier and softer the material, the faster it rots, which is why the peel goes first. Most plastics are made from petroleum in a factory, and soil creatures do not have the right tools to break them down, so plastic can stay in the soil for hundreds of years, only breaking into smaller and smaller pieces called microplastics. This is why plastic must never be mixed with wet waste.",
+      "safety": "Wear gloves when digging up the items, and wash hands with soap afterwards. Do not smell the mouldy peel closely.",
+      "time": "14 min to set up + 8 min to dig up after about a week"
+    },
+    {
+      "id": "e2",
+      "title": "The compost pot",
+      "day": 3,
+      "question": "Can kitchen peels and dry leaves turn into soil for plants, and what do they need to do it?",
+      "need": ["an old earthen pot or a bucket with holes in the sides and bottom (adult drills them)", "2–3 bricks to stand it on", "dry leaves or shredded newspaper", "raw vegetable and fruit peels (no oil, meat, dairy or cooked food)", "a few handfuls of garden soil", "water", "a lid or a jute sack", "a stick for stirring"],
+      "steps": [
+        "Stand the pot on bricks so air can get in underneath.",
+        "Put a layer of dry leaves or shredded newspaper at the bottom.",
+        "Add a layer of chopped peels, then a handful of soil, then dry leaves again.",
+        "Sprinkle water until it is as damp as a squeezed sponge. Cover it.",
+        "Every day, add that day's peels and an equal amount of dry leaves.",
+        "Stir it every 3–4 days. Check the smell and feel for warmth.",
+        "After 6–8 weeks, the bottom layer becomes dark, crumbly compost. Use it for your plants."
+      ],
+      "predict": "Ask your child to guess first: what will happen to the peels? Will the pot smell? Will it get warm or stay cool?",
+      "observe": "Within a few days the peels soften and darken. The middle of the pile may feel slightly warm. A good pot smells earthy, like wet soil after rain; if it smells rotten, it is too wet. You may see tiny insects, white fungus threads or earthworms. Over weeks, the pile sinks, and the oldest material turns into dark, crumbly compost.",
+      "why": "Bacteria and fungi in the soil eat the peels and leaves. They need four things: food (peels give them nitrogen-rich 'green' food, leaves and paper give carbon-rich 'brown' food), water, air and time. As millions of them feed and grow, they give off heat, which is why the middle can feel warm. If there is too much wet food and too little air, different germs take over that make bad smells, so we add more dry leaves and stir to let air in. What is left at the end is compost, full of the nutrients plants need. This is how a forest floor works: nothing is wasted. Composting at home also means less waste goes to landfills, where food rotting without air makes methane, a gas that warms the planet.",
+      "safety": "Do not add meat, fish, dairy, oil or cooked food, which attract rats and smell. Wash hands after handling the compost.",
+      "time": "12 min to set up + 3 min check on Day 5 and Day 8, then keep going for 6–8 weeks"
+    },
+    {
+      "id": "e3",
+      "title": "Make recycled paper",
+      "day": 6,
+      "question": "How can old paper be turned into new paper?",
+      "need": ["2 sheets of newspaper or used notebook paper", "a bowl of warm water", "a mixer (adult use)", "a wide tub of water", "an old photo frame with mosquito net stretched across it, or a fine steel sieve", "2 cotton cloths or old hankies", "a rolling pin", "a flat place to dry"],
+      "steps": [
+        "Tear the paper into stamp-sized pieces and soak them in warm water for at least 10 minutes.",
+        "An adult blends the soaked paper with plenty of water for a few seconds to make pulp.",
+        "Pour the pulp into the wide tub of water and stir it.",
+        "Dip the frame into the tub and lift it out flat, so a thin, even layer of pulp sits on the net.",
+        "Let it drip, then turn the pulp out onto a cotton cloth. Cover it with the second cloth.",
+        "Press with a rolling pin to squeeze out water.",
+        "Leave it flat to dry overnight, then peel it off the cloth."
+      ],
+      "predict": "Ask your child to guess first: will the pulp turn back into paper? Will it look the same as newspaper? Will the printed words still be readable?",
+      "observe": "The newspaper becomes a grey mush, and the words disappear. The dried sheet is thicker, rougher and greyish, with fibres you can see, but it is real paper that you can draw and write on.",
+      "why": "Paper is made of millions of tiny fibres from plants, mostly wood. When paper is soaked and blended, the fibres separate and float in the water. When we lift them out on a net and press and dry them, the fibres tangle and stick together again where they touch, forming a new sheet. A paper recycling factory does the same thing on a giant scale, and also removes the ink and cleans the pulp. Recycling paper saves trees, water and energy. But each time paper is recycled the fibres get shorter and weaker, so paper can only be recycled a few times, which is another reason to reduce and reuse first.",
+      "safety": "Only an adult should use the mixer. Wipe up spilled water to avoid slipping.",
+      "time": "10 min on Day 6 + 6 min on Day 7"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "One day's waste: collect, weigh and sort (Book Activity 1, page 150)",
+      "day": 1,
+      "mins": 18,
+      "need": ["2 clean buckets or large bags", "paper for signs", "gloves", "old newspapers", "a luggage scale or bathroom scale", "notebook"],
+      "steps": [
+        "Label two buckets: 'Wet waste' and 'Everything else'. Tell the whole family.",
+        "For 24 hours, all home waste goes into these buckets, nothing goes out.",
+        "Guess how much the family's waste will weigh.",
+        "Next day, wear gloves and weigh each bucket.",
+        "Tip the 'everything else' bucket onto newspaper and sort it: paper, plastic, metal, glass, cloth, other.",
+        "Count or weigh each heap and write a table.",
+        "Circle the biggest heap and write two ways to make less of it.",
+        "Put everything into the right bins and wash hands well."
+      ],
+      "outcome": "A real measurement of one day's family waste, sorted by kind, and two changes the family chooses based on its own data."
+    },
+    {
+      "id": "a2",
+      "title": "Newspaper bag (Book Activity 4, page 155)",
+      "day": 4,
+      "mins": 15,
+      "need": ["large double sheets of newspaper", "the step pictures on page 155", "a few potatoes or small books for testing"],
+      "steps": [
+        "Open one large double sheet of newspaper flat on the floor.",
+        "Follow the step pictures on page 155 one at a time. No scissors, no glue.",
+        "Press each fold sharply with a thumbnail before going on.",
+        "If it goes wrong, unfold and try again.",
+        "Test the bag: how many potatoes or small books can it hold before it tears?",
+        "Make a second bag and give it to a vegetable seller or kirana shop to use."
+      ],
+      "outcome": "A working paper bag made from yesterday's newspaper, a strength-test score, and a second bag shared with a local shop."
+    },
+    {
+      "id": "a3",
+      "title": "A gift from waste (Book Activity 5, page 156)",
+      "day": 5,
+      "mins": 14,
+      "need": ["waste to work with: a tin, a glass jar, an old T-shirt or a cardboard box", "old calendar paper or newspaper", "colours", "tape, thread and a needle (with an adult)"],
+      "steps": [
+        "Choose the person who will get the gift: someone who keeps your home or locality clean.",
+        "Choose what to make: a pen stand, a cloth bag, a jar planter or a greeting card.",
+        "Make it using only waste materials and a little tape or thread.",
+        "Decorate it with patterns.",
+        "Give it and say: 'I made this from waste so that we make less waste and your work is lighter. Thank you!'"
+      ],
+      "outcome": "A handmade gift from waste and a thank-you to a person whose work keeps our surroundings clean."
+    },
+    {
+      "id": "a4",
+      "title": "Map our surroundings (Book Activity 2, pages 152–153)",
+      "day": 2,
+      "mins": 15,
+      "need": ["notebook", "a red pencil", "paper for a map or a printed phone map", "an adult to walk with"],
+      "steps": [
+        "Walk around your building, lane or school for about 8 minutes.",
+        "Look for waste on the ground, garbage piles, overflowing bins, blocked drains, standing water and smoke. Do not touch anything.",
+        "At home, draw a map of the area or use a printed map.",
+        "Circle in red every place with garbage, waste water or smoke.",
+        "Next to each circle, write how you think the waste got there.",
+        "Ask an elder or the watchman how waste is managed in your area and write the answer."
+      ],
+      "outcome": "A map of the waste problems around your home with your child's own explanations of how each one happened, used later to plan a 'place of pride'."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Almitra Patel, engineer and campaigner, Bengaluru, India (Supreme Court case filed in 1996)",
+      "idea": "Almitra Patel was disturbed to see Indian towns dumping and burning mixed garbage on open land outside the city, where it polluted the air, soil and water and harmed the people living nearby. She travelled to many towns to see how they handled waste and argued that cities must collect waste every day, separate it, compost wet waste and stop open dumping. In 1996 she filed a public-interest case in the Supreme Court of India asking that cities be made to manage their waste properly.",
+      "then": "At the time, very few cities sorted their waste, and many officials thought garbage was simply something to be taken out of town and dumped. Her ideas about segregation and composting were seen by many as impractical for India.",
+      "now": "Her case led the Supreme Court to set up a committee, and its work led to India's first national rules on city waste, the Municipal Solid Waste Rules of 2000. These were updated as the Solid Waste Management Rules of 2016, which say every home must separate its waste into wet, dry and hazardous. Many cities still do not follow the rules fully, but separating waste at source is now the official goal across India, and the cleanest cities, such as Indore, are the ones that do it best.",
+      "status": "accepted",
+      "ask": "Almitra Patel's ideas were called impractical, but today they are the law. What evidence would you collect to convince a city that sorting waste at home really works?",
+      "day": 5
+    },
+    {
+      "id": "v2",
+      "who": "The waste pickers of Pune and their union, the Kagad Kach Patra Kashtakari Panchayat (formed 1993), India",
+      "idea": "In Indian cities, hundreds of thousands of waste pickers, many of them women, walk the streets and dumps collecting paper, plastic, glass and metal that others threw away, sort it by hand and sell it to recyclers. In Pune, waste pickers formed a union in 1993, the Kagad Kach Patra Kashtakari Panchayat ('union of workers who collect paper, glass and metal'), and argued that their work was a service to the city and should be respected and paid. Later they formed a cooperative called SWaCH that collects waste door to door from homes in Pune.",
+      "then": "Waste pickers were often treated as dirty or as thieves, chased away from dumps and bins, and not counted as workers at all. Few people thought about who really did the recycling.",
+      "now": "Pune's municipal corporation began working with the waste pickers' cooperative for door-to-door collection, and India's 2016 waste rules say that waste pickers should be recognised and included in city waste systems. Studies in Indian cities have found that waste pickers and kabadiwalas recover a large share of the recyclable paper, plastic and metal, saving cities money. Their work is still often unsafe and poorly paid, and improving their conditions is an ongoing effort.",
+      "status": "accepted",
+      "ask": "Who do you think does more to recycle a plastic bottle: the person who drops it in a bin, or the person who picks it out and sells it? How could you find out?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Roland Geyer, Jenna Jambeck and Kara Lavender Law (2017 study, USA), and today's debate on recycling",
+      "idea": "In 2017 these three scientists published the first worldwide estimate of all the plastic ever made. They calculated that by 2015, humans had made about 8,300 million tonnes of plastic. Of all the plastic that had become waste, they estimated that only about 9 percent had been recycled, about 12 percent burned, and about 79 percent was in landfills or scattered in the environment, including rivers and the sea.",
+      "then": "For years many people had believed that putting plastic in a recycling bin solved the problem. The study surprised many readers and was widely reported.",
+      "now": "Scientists generally accept that only a small share of plastic is recycled, but what to do about it is a live debate. Some, including many companies, argue that the answer is better recycling: more collection, better sorting and new recycling technologies. Others, including many environmental groups, argue that recycling cannot keep up and that we must make and use much less plastic, especially single-use plastic, and design things to be reused. Many countries, including India, have banned some single-use plastic items, and since 2022 countries at the United Nations have been negotiating a global plastics treaty, still arguing over whether it should limit how much plastic is made.",
+      "status": "debated",
+      "ask": "If 79 out of every 100 pieces of plastic waste end up in dumps or nature, should we try harder to recycle, or try harder to use less? What would you need to know to decide?",
+      "day": 3
+    }
+  ],
+  "check": [
+    {"q": "How is waste created? Give three examples from your own day.", "a": "By our everyday activities: for example a milk packet and peels at breakfast, wrappers and pencil shavings at school, plastic bags and boxes from shopping, old clothes, bottles and batteries."},
+    {"q": "Name two kinds of harm caused by waste that is not managed.", "a": "Any two: cows and other animals can die from eating plastic with food; burning plastic releases harmful gases; standing waste water breeds mosquitoes that spread disease; germs in garbage and waste water make people ill."},
+    {"q": "What are the three ways to manage waste, and which comes first?", "a": "Reduce, reuse and recycle. Reduce comes first, because waste that is never made does not need to be handled at all."},
+    {"q": "Give one way to reduce waste and one way to reuse something.", "a": "Reduce: carry a cloth bag, refuse plastic straws, buy only what you need. Reuse: make a quilt from old sarees, write on the back of used paper, refill a steel bottle, use newspaper to wrap gifts."},
+    {"q": "What goes in the green dustbin and what goes in the blue dustbin?", "a": "Green: things that rot easily, like leaves, peels, rotten fruit and eggshells, which can become compost. Blue: metal, glass, plastic and paper, which can be recycled."},
+    {"q": "What should you do with broken glass and old batteries?", "a": "Wrap broken glass in paper or cloth so sanitation workers are not hurt; keep batteries, tube lights, CFLs and medicines separately as hazardous waste."},
+    {"q": "In our bury test, what happened to the banana peel and the plastic? Why?", "a": "The peel turned dark and soft and began to break down, because tiny living things in the soil ate it. The plastic did not change, because soil creatures cannot break it down."},
+    {"q": "Name one place in India known for managing waste well, and say what its people do.", "a": "Silluk village in Arunachal Pradesh, Chhota Narena, Indore or Mysuru. People separate waste at home, do not litter, compost wet waste and have waste collected regularly."}
+  ]
+}

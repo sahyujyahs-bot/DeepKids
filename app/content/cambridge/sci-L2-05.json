@@ -1,0 +1,620 @@
+{
+  "key": "cambridge|sci|2|5",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 2,
+  "n": 5,
+  "title": "Light",
+  "source": "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 5 'Light' (pages 123–145)",
+  "summary": "Your child learns that light sources make light, while other things like the Moon, mirrors and foil only reflect it, and that without light it is dark and we cannot see. They test which torch is brightest, explore darkness with a dark box, and track how the Sun appears to move across the sky during the day, drawing diagrams and finding patterns. Along the way they meet scientists from India, the Islamic world and Europe who worked out what light is and why the Sun seems to move.",
+  "goals": [
+    "By the end your child can name light sources (the Sun, flames, electric lights, screens), say which are powered by electricity, and explain that the Moon, mirrors and shiny things reflect light but do not make it.",
+    "By the end your child can sort objects into 'light source' and 'not a light source' and record observations in a table.",
+    "By the end your child can test which torch is brightest by counting sheets of paper, and explain what the result means.",
+    "By the end your child can explain that with little or no light there is darkness, that we need light to see, and that light-coloured objects are easier to see in dim light.",
+    "By the end your child can describe how the Sun appears to move across the sky (low in the morning, highest at midday, low in the evening), draw a labelled diagram of it, and explain that it is really the Earth that turns.",
+    "By the end your child can always remember the safety rule: never look straight at the Sun or very bright lights."
+  ],
+  "words": [
+    ["light source", "something that makes its own light, like the Sun, a flame, a bulb or a screen"],
+    ["shine", "to give out light onto things"],
+    ["reflect", "to bounce light back; mirrors, foil and the Moon reflect light but do not make it"],
+    ["bright", "giving out or reflecting a lot of light"],
+    ["Moon", "the ball of rock that goes round the Earth; it shines only because it reflects sunlight"],
+    ["flashlight (torch)", "a small electric light you can carry, powered by batteries"],
+    ["dark", "when there is little or no light"],
+    ["night time", "when our side of the Earth faces away from the Sun, so we get no sunlight"],
+    ["star", "a huge, very hot ball of glowing gas; the Sun is our nearest star"],
+    ["daylight", "the hours when the Sun gives us light"],
+    ["position", "where something is, such as low in the sky or high in the sky"],
+    ["sundial", "a tool that tells the time from the shadow made by the Sun"]
+  ],
+  "day_mins": 35,
+  "days": [
+    {
+      "n": 1,
+      "title": "What makes light?",
+      "goal": "Learn that a light source makes its own light, find light sources at home, and learn the most important rule: never look at the Sun.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Diwali lights (page 123 Getting started)",
+          "mins": 7,
+          "do": "Look at the fireworks photo on page 123 and read the 'Getting started' box: fireworks burn very brightly; they are a light source. Ask your child to remember Diwali or a wedding: 'What things made light that night?' (diyas, candles, fairy lights, sparklers, fireworks, the moon, street lights.) Ask the box's last question: 'Think of a light source that gives us light during the day.' (the Sun.)"
+        },
+        {
+          "kind": "read",
+          "title": "Light sources (page 124)",
+          "mins": 8,
+          "do": "Read page 124 aloud: a light source makes light; at night street lights give us light; in the day time we get most of our light from the Sun. Read the red line twice and make your child repeat it: 'Never look at the Sun as it will hurt your eyes.' Read on: light sources can be flames, electric lights, TVs and computer screens; the light from a light source shines onto things which we can then see. Ask: 'Can you see a book in a totally dark room?' (No, because no light is shining onto it.)"
+        },
+        {
+          "kind": "do",
+          "title": "Light source hunt at home",
+          "mins": 15,
+          "do": "Walk round your home with your child and a notebook. In each room they look for things that make their own light: tube light, LED bulb, the TV, a phone screen, the green light on the Wi-Fi box, the gas stove flame, the red light on the TV remote's receiver, a diya in the pooja corner, a torch, the fridge light (open the door and watch). They draw each one and write 'electric' or 'flame'. Ask: 'Which one gives the most light? Which one gives the least?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Is the Sun a light source?",
+          "mins": 5,
+          "do": "Ask: 'Is the Sun a light source? How do you know?' (Yes, it makes its own light; everything is bright in the day even when no lights are on.) 'Where does a solar lamp's light come from at night?' (Its battery was charged by sunlight in the day, then it turns that into light.) Remind them again: 'We never look straight at the Sun, not even with sunglasses.'"
+        }
+      ],
+      "need": ["Learner's Book pages 123–124", "a notebook and pencil", "a torch"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Making light or reflecting it?",
+      "goal": "Learn that some things reflect light but do not make it, including the Moon, and find out how we really see things.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Things that reflect (pages 124–125)",
+          "mins": 8,
+          "do": "Read the rest of page 124: some materials reflect light; they do not make light; they reflect light from a light source such as a flashlight; the things in these pictures are not light sources; the Moon reflects light from the Sun. Look at the photos: glass reflects light (the shiny building); materials which reflect a lot of light look bright (the cyclist's yellow jacket). Turn to page 125: the sea reflects light. Ask question 1 on page 125: 'Make a list of all the different light sources in this picture.' (street lights, the car's headlights, the torch the woman holds, lights in the windows, the bonfire, the cycle light.) Ask: 'Which shiny things in the picture are NOT light sources?' (the car's windows, the cyclist's reflective strips.)"
+        },
+        {
+          "kind": "do",
+          "title": "Dark room test: source or reflector?",
+          "mins": 10,
+          "do": "Take a steel plate, a mirror, a piece of foil, a reflective strip from a school bag or a road-safety jacket, and a torch into a room you can make dark (close curtains, switch off lights). Ask: 'Can you see the steel plate shining now?' (No, or only very dimly.) Now switch on the torch and point it at each object: they suddenly look bright. Ask: 'So does the plate make its own light?' (No, it only reflects the torch's light.) Then switch the torch off and on while looking at the torch bulb (not straight into it): the torch makes light by itself. Say: 'The Moon is like the steel plate; the Sun is like the torch.'"
+        },
+        {
+          "kind": "think",
+          "title": "Do our eyes send out rays?",
+          "mins": 10,
+          "do": "Tell the story in Voice v1. Long ago, some famous Greek thinkers believed our eyes send out invisible rays that touch things, and that is how we see. About a thousand years ago, Ibn al-Haytham, a scientist working in Cairo, argued the opposite: light comes from a source, bounces off objects and travels into our eyes. Ask: 'If our eyes sent out rays, could we see in a totally dark room?' (Yes, but we can't, so his idea fits better.) 'Why does a very bright light hurt our eyes?' (Too much light is going in.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Is it a light source? (page 126, Activity 1)",
+          "mins": 7,
+          "do": "Do Activity a1, the book's Activity 1 on page 126. Look at the four photos: crumpled foil, a tablet showing an application form, a lit candle and a car mirror. Your child draws two big circles labelled 'light sources' and 'not light sources' and writes or draws each object in the right one, then adds three objects of their own from home. (Light sources: the tablet screen, the candle. Not light sources: the foil and the mirror, which only reflect.) Ask: 'Why do the foil and mirror look so bright in the photos?' (They reflect a lot of light.)",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Learner's Book pages 124–126", "a steel plate, a small mirror, foil, a reflective strip", "a torch", "a room you can darken", "paper and pencils"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "So many light sources",
+      "goal": "Record objects in a table as light sources or not, find which are powered by electricity, and compare how bright light sources are.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "So many light sources (page 127, Activity 2)",
+          "mins": 15,
+          "do": "Do Activity a2, the book's Activity 2 on page 127, around your home and building instead of a school. Copy the table: object | Is it a light source? yes | no. The book's first row is: door, no. Your child walks round and adds at least ten objects: window, tube light, TV, steel almirah, mirror, phone, staircase light, lift button light, diya, matchbox, the doorbell button light. Then they put a star next to every light source powered by electricity. Ask the book's questions: 'Are most light sources in our home powered by electricity? Why is this?' (Yes; electric lights are bright, safe, don't smoke, and switch on and off instantly.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Which is brightest? (page 127, question 2)",
+          "mins": 7,
+          "do": "Look at the three light sources on page 127: a candle, a set of small lights, and a big light bulb. Ask question 2: 'Which is brightest? Which is least bright?' (The bulb is brightest; the candle is least bright.) Then compare at home in the evening with the lights off: a diya, a phone torch and a tube light. Ask your child to put them in order from least bright to brightest."
+        },
+        {
+          "kind": "do",
+          "title": "Electric or not? (page 129, How am I doing?)",
+          "mins": 13,
+          "do": "Do the 'How am I doing?' task on page 129. Your child folds a paper in half. On one side they draw a light source not powered by electricity (a diya, a candle, a campfire, a lantern, the Sun, a firefly). On the other side they draw one that is powered by electricity (a bulb, a torch, a TV, a traffic light). You do the same. Then each of you shows one picture and the other says: 'Is it powered by electricity or not?' Read the green box on page 129: 'When you record your results, how does this help you learn?' (We can look back at them, compare, and spot patterns.)"
+        }
+      ],
+      "need": ["Learner's Book pages 127 and 129", "paper for a table", "a diya and matches (adult only), a phone torch"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Which torch is brightest?",
+      "goal": "Test the brightness of different torches by counting how many sheets of paper stop their light, and explain the result.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Which flashlight is brighter? (page 128, Think like a scientist)",
+          "mins": 22,
+          "do": "Do Experiment e1, following page 128. Collect three different torches: a big torch, a small keychain torch, and a phone torch (or a bicycle light). Read the red line first: 'Remember, never look at very bright lights. They can hurt your eyes.' In a dim room, your child holds one sheet of plain A4 paper in front of the first torch, close to it, while you switch it on. Add sheets one at a time until no light can be seen coming through. Count the sheets. Repeat for each torch, using the same paper and the same distance. Record in a table like page 128's: Flashlight | Number of sheets needed to stop the light (the book's example: small red flashlight, 4).",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "What did we find?",
+          "mins": 8,
+          "do": "Ask the page 128 questions: 'Which flashlight was the brightest?' (the one that needed the most sheets.) 'Why are some flashlights brighter than others?' (bigger or more powerful bulbs or LEDs, fresh or bigger batteries, a shiny reflector behind the bulb that sends more light forward.) Unscrew the front of a torch carefully and show your child the shiny curved reflector. Ask: 'Why is it shiny?' (It reflects the light forwards.) Then do the first part of the 'How am I doing?': your child shows another family member what they did and explains it."
+        },
+        {
+          "kind": "review",
+          "title": "Tick list (page 129)",
+          "mins": 5,
+          "do": "Read the 'Look what I can do!' list on page 129 and tick each item: talk about light sources including the Sun, record observations on a table, sort objects into groups, find light sources powered by electricity. Ask your child for one example of each."
+        }
+      ],
+      "need": ["Learner's Book pages 128–129", "3 different torches (or a phone torch)", "15–20 sheets of plain A4 paper", "a dim room"],
+      "prep": [{"task": "Check that the torches have working batteries", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Darkness",
+      "goal": "Learn that without light it is dark and we cannot see, and find dark, darker and darkest places at home.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "The cave (page 130 Getting started)",
+          "mins": 6,
+          "do": "Look at the cave photo on page 130 with people in a boat. Ask the 'Getting started' questions: 'Why is there light in this cave?' (People have brought lights; maybe a little light comes in from the entrance.) 'What would it be like without the light?' (pitch dark, you couldn't see anything.) 'What is the darkest place you have ever been? What was it like?' Your child writes three words to describe it (for example: 'black, scary, quiet'). Tell them about India's caves, like the Borra Caves in Andhra Pradesh, which have lights put in so visitors can see."
+        },
+        {
+          "kind": "read",
+          "title": "Hafeez at night (pages 131–132)",
+          "mins": 9,
+          "do": "Read page 131: Hafeez is in his bedroom; it is night time; it is dark in his room but there is some light. Look at the picture: he says 'I can see in the dark!' Ask question 1: 'Where is the light getting in?' (through the gap in the curtains.) Question 2: 'Where is the light coming from?' (a street light or the Moon outside.) Read: if there is no light from a light source, it will be too dark to see; we need some light to see things; at night we don't have sunlight, so we use light sources to make light. Look at the children making a dark place in their classroom and ask questions 3–6 on page 132: 'What are the four objects they have put in the dark?' (a teddy, a toy car, a cup, a ball.) 'Can you see the white object? Can you see the coloured objects? Are some colours easier to see in the dark?' (The white teddy is easiest to see.)"
+        },
+        {
+          "kind": "act",
+          "title": "Dark, darker, darkest (page 132, Activity 1)",
+          "mins": 15,
+          "do": "Do Activity a3, the book's 'Darkness in our classroom' on page 132, at home. Your child looks for dark places: behind and inside a cupboard or almirah, under a table, under the bed, inside a school bag, in a bathroom with the door shut and the light off. In each place ask: 'Is it dark here? Is it darker than the last place?' Then they draw three dark places and label them 'dark', 'darker' and 'darkest'. Ask: 'Why is the inside of the closed almirah the darkest?' (No light can get in at all.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Can cats see in total darkness?",
+          "mins": 5,
+          "do": "Ask: 'Hafeez said I can see in the dark. Could he see if there was no light at all?' (No.) 'Can cats or owls see in total darkness?' (No: they can see in very dim light much better than we can, but they also need some light.) Explain: 'Nobody, not people or animals, can see with no light at all.'"
+        }
+      ],
+      "need": ["Learner's Book pages 130–132", "paper and pencils", "access to cupboards, an almirah, a bathroom"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "The dark box and working in the dark",
+      "goal": "Use a dark box to test how easy it is to see dark and light coloured objects, and learn how people who work in the dark stay safe.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Make a dark box",
+          "mins": 8,
+          "do": "Make the box for Activity a4 and Experiment e2 together. Take a shoebox with a lid. Cut a small eye-hole (about 1 cm) in one short end. Cut a flap in the lid about 5 cm square, hinged on one side, that you can open and close. Tape any gaps around the lid edges so no light leaks in. Your child can decorate the outside.",
+          "ref": "a4"
+        },
+        {
+          "kind": "exp",
+          "title": "Using a dark box (page 133, Activity 2)",
+          "mins": 12,
+          "do": "Do the page 133 activity 'Using a dark box' as the first part of Experiment e2. With the flap closed, put a dark-coloured object (a black sock, a dark blue pen) inside, put the lid on and let your child look through the hole. Ask: 'Can you see the object?' Your child finishes the book's sentence: 'It is hard to see the ____ in the box because ____.' (…black sock… there is not enough light and it is dark coloured.) Now try with a light-coloured object (a white hanky, a yellow ball). Ask: 'Are the results the same?' (No: the light object is a little easier to see.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Working in the dark (page 134)",
+          "mins": 8,
+          "do": "Look at the photo of miners underground on page 134. Read: some people work underground; they have bright lights so they can see; they have clothes which reflect light so they can be seen. Some people work at night; they also need bright lights and clothes which reflect light. Ask: 'Who in our town works at night or in the dark?' (traffic police, night-shift nurses, watchmen, railway track workers, sanitation workers, truck drivers.) Show your child a reflective strip on a school bag or a road sign: shine a torch at it in a dim room and see how it glows back. Ask: 'Why do cyclists wear reflective jackets at night?' (So car headlights reflect off them and drivers can see them.)"
+        },
+        {
+          "kind": "do",
+          "title": "Reflective safety tag",
+          "mins": 7,
+          "do": "Your child makes a safety tag for their school bag: cut a card shape, cover it with silver foil or a piece of reflective tape, punch a hole and tie a string. Test it in a dark room with a torch from across the room. Ask: 'Is the tag a light source?' (No, it only reflects the torch light.)"
+        }
+      ],
+      "need": ["Learner's Book pages 133–134", "a shoebox with a lid", "scissors and tape (adult helps)", "dark and light coloured small objects", "card, foil or reflective tape, string", "a torch"],
+      "prep": [{"task": "Find a shoebox with a lid and small objects in black, white and bright colours", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "How much light do I need to see?",
+      "goal": "Use the dark box with the flap closed, a little open and wide open to find a pattern between light and seeing colours.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "How much light do I need? (pages 134–135, Think like a scientist)",
+          "mins": 22,
+          "do": "Do the second part of Experiment e2, following pages 134–135. Copy the page 135 table: object | colour | lid closed | lid open a little | lid wide open. The book's example: brick, red, hard to see, I can see, easy to see the brick. Put one object at a time in the box: a white ball or hanky, a red toy, a yellow pencil, a dark blue sock, a black hair band. For each, your child predicts whether it will be easy or hard to see, then looks through the hole three times: with the flap closed, open a little (a finger's width), and wide open. Fill in each row.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Patterns in our results (page 135)",
+          "mins": 8,
+          "do": "Ask the page 135 questions. 'Which colours are easier to see?' (white, yellow, light colours.) 'Why are they easier to see?' (They reflect more of the light that comes in, so more light reaches our eyes.) 'Were your predictions right? Is there a pattern in the results?' (The more light we let in, the easier it is to see everything; light colours are easier to see in dim light than dark ones.) Ask: 'So what colour should a school raincoat or a traffic policeman's jacket be?' (bright or light colours, with reflective strips.)"
+        },
+        {
+          "kind": "review",
+          "title": "Dark places in the day (page 136)",
+          "mins": 5,
+          "do": "Do the 'How am I doing?' on page 136: 'During the daytime, where would you find a dark place? Put one finger up for every place you can say.' (inside a cupboard, under the bed, a cave, deep in a forest, inside a closed box, under a thick blanket.) Read the green box: 'When you learn science at school, do you think about it after school?' Ask where they noticed light or darkness this week outside lessons. Tick the 'Look what I can do!' list on page 136."
+        }
+      ],
+      "need": ["Learner's Book pages 134–136", "the dark box from Day 6", "5 small objects of different colours", "paper for a table"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "The Sun appears to move",
+      "goal": "Learn that the Sun is our nearest star and that its position in the sky seems to change during the day, and start tracking it with a shadow stick.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "End of the day and the three children (pages 137–138)",
+          "mins": 8,
+          "do": "Look at the evening photo on page 137 and ask: 'It is the end of the day. Can you describe what this will look like in an hour?' (dark, the sky black, maybe stars and the Moon, lights on in the house.) Read page 138: three children say 'The Sun appears to move', 'The position of the Sun changes during the day' and 'Early today the Sun appeared low down.' Read: our nearest star is the Sun; it is very bright and hot; during the hours of daylight the Sun gives us light; the Sun is a very big light source; the Sun looks as though it moves across the sky. Ask question 1: 'Do you agree with these children?' and question 2: 'Can you describe the way the Sun appears to move each day?' (It rises low in the east in the morning, is high in the sky at midday, and sets low in the west in the evening.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the shadow stick",
+          "mins": 12,
+          "do": "Start Experiment e3 on a sunny morning. Choose a spot on a terrace, balcony or open ground that gets sun all day. Stand a pencil or a straight stick upright in a lump of clay on a big sheet of paper (weigh the corners with stones). Your child traces the shadow with a pencil and writes the time next to it. Remind them: 'Never look at the Sun; we only look at the shadow.' Ask them to predict: 'Where will the shadow be in one hour? Will it be longer or shorter?' Repeat every hour for as many hours as you can today (you can do the later marks yourself if your child is busy, and they look at the paper later).",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Aryabhata: is it the Sun or the Earth that moves?",
+          "mins": 10,
+          "do": "Tell the story in Voice v2. About 1,500 years ago the Indian astronomer Aryabhata wrote that the Earth spins round once a day, and that the stars only seem to move, just as a person in a moving boat sees the trees on the bank moving backwards. He also wrote that the Moon shines with light from the Sun. Act it out: your child sits on a spinning chair (or turns slowly on the spot) holding a ball out in front, while you hold a torch still as the 'Sun'. Ask: 'Did the torch move? Why did it seem to go past you?' Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Sun safety",
+          "mins": 5,
+          "do": "Read the red line on page 139 together: 'Never look at the Sun, it will damage your eyes.' Ask: 'How can we find where the Sun is without looking at it?' (Look at shadows; feel which side of your face is warm; look at which side of the building is bright.) Tell them that the Sun's light is so strong that looking at it can permanently damage the back of the eye, even if it doesn't hurt at once."
+        }
+      ],
+      "need": ["Learner's Book pages 137–139", "a pencil or straight stick and a lump of clay", "a big sheet of paper and 4 stones", "a clock or phone", "a torch and a ball", "a swivel chair (optional)"],
+      "prep": [{"task": "Pick a sunny spot that gets sun from morning to afternoon, and check the weather forecast for a clear day", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Looking at patterns in the sky",
+      "goal": "Read the book's Sun diagram, observe the Sun's position safely at different times, and draw our own labelled diagram.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Sun's path diagram (page 139)",
+          "mins": 7,
+          "do": "Look at the diagram on page 139 showing the Sun at 8 o'clock in the morning, 10 o'clock, midday, 2 o'clock and 4 o'clock in the afternoon, in an arch over a tree. Read: this diagram shows the Sun at 4 o'clock in the afternoon; look at how the Sun's position in the sky has changed during the day. Ask your child to do the book's task: 'Point to the place that the Sun would appear at 3 o'clock in the afternoon.' (between 2 o'clock and 4 o'clock.) Ask: 'When is the Sun highest?' (midday.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Looking at patterns (pages 139–140 Activity)",
+          "mins": 15,
+          "do": "Do Activity a5, the book's 'Looking at patterns' on pages 139–140. On a clear day, go outside at three or four times (for example 9 am, 11 am, 12 noon and 3 pm). At each time, stand in the same spot with your back to a building or tree you can use as a landmark. Without looking straight at the Sun, your child points towards where the bright Sun is (you can check by looking at the shadow direction: the Sun is exactly opposite the shadow). They draw a diagram like page 140's: a house (your building or the tree) at the bottom and a yellow circle for the Sun at each time, joined by arrows, with the time written next to each. Also look at the e3 shadow stick paper from Day 8.",
+          "ref": "a5"
+        },
+        {
+          "kind": "talk",
+          "title": "What pattern did we find? (page 140)",
+          "mins": 8,
+          "do": "Ask the page 140 questions: 'Look for a pattern in what you recorded. Does the Sun's position appear to change? How? When is the Sun highest in the sky?' (It starts low, climbs higher until about midday, then goes lower.) Compare with the e3 shadow paper: 'When was the shadow shortest?' (around midday, when the Sun was highest.) Read: 'A diagram is better than a picture because a diagram has extra information' (the times and the arrows). Ask: 'What does our diagram show that a photo of the sky would not?'",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Jantar Mantar",
+          "mins": 5,
+          "do": "Show your child a picture of the Samrat Yantra at Jantar Mantar in Jaipur, a giant sundial built in the early 1700s by Maharaja Sawai Jai Singh II. Explain: the shadow of its huge triangular wall moves across a curved scale as the Sun appears to move, and people could read the time from it. Ask: 'Why did people make sundials before clocks?' (The Sun's apparent movement is regular, so its shadow can tell the time.)"
+        }
+      ],
+      "need": ["Learner's Book pages 139–140", "paper and a yellow crayon", "a clock or phone", "the e3 shadow stick paper", "a picture of Jantar Mantar (book or internet)"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "A magnet model of the Sun's path",
+      "goal": "Make a moving model showing how the Sun appears to move across the sky, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Showing the way the Sun appears to move (page 141)",
+          "mins": 18,
+          "do": "Do Activity a6, the book's 'Think like a scientist' on page 141. On a sheet of thin card, your child draws and colours a skyline along the bottom: your building, trees, hills, maybe a temple or a water tank. Cut a small Sun from yellow paper and tape it to a steel paper clip. Hold the card upright; put the paper-clip Sun on the front and a magnet behind the card. Moving the magnet slowly makes the Sun move. Your child shows the Sun rising low on the left (east), climbing to the highest point at midday, and setting low on the right (west). Ask the book's question: 'Can you show how the Sun appears to move in the sky?' Then they draw dotted lines and write the times along the path, like the page 139 diagram.",
+          "ref": "a6"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Do worksheet ws1 together. Read each question aloud if needed and let your child answer before you help.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "review",
+          "title": "Diagram and tick list (page 142)",
+          "mins": 5,
+          "do": "Read the green box on page 142: 'In this topic we use pictures and a diagram. A diagram has extra information on it. How does this help us to learn science?' Look at the sunset photo on page 142 and ask: 'Is this the morning or the evening Sun? How could you tell from a diagram?' Tick the 'Look what I can do!' list on page 142."
+        }
+      ],
+      "need": ["Learner's Book pages 139–142", "thin card", "yellow paper", "a steel paper clip", "a magnet (fridge magnets are often too weak; a toy horseshoe magnet works best)", "sticky tape and crayons", "printed or on-screen ws1"],
+      "prep": [{"task": "Find a strong magnet and test that it can pull a paper clip through thin card", "when": "night before"}]
+    },
+    {
+      "n": 11,
+      "title": "My book of light",
+      "goal": "Learn how Isaac Newton studied light, and make a small book about everything we learned in this unit.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Isaac Newton and light (page 143)",
+          "mins": 6,
+          "do": "Read the Project box on page 143: long ago people did not understand light; some thought it was a kind of air; just over 300 years ago, Isaac Newton wrote a book about light and asked questions such as 'What is light?'; we still use some of his ideas, but now we understand much more about light; Isaac Newton and other people did experiments to find out about light. Look at the picture of Newton with a beam of light in a dark room."
+        },
+        {
+          "kind": "think",
+          "title": "Newton's rainbow",
+          "mins": 10,
+          "do": "Tell the story in Voice v3. Fill a clear glass with water and stand it on a sunny windowsill on a white paper (or shine a bright torch through it in a dark room), or use an old CD. Move the paper until you see a little rainbow band. Explain: Newton found that white sunlight is really a mixture of all the colours of the rainbow, and a glass prism spreads them out. Ask: 'Where do we see this in nature?' (a rainbow after rain, when sunlight passes through raindrops.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "My book of light (page 143)",
+          "mins": 19,
+          "do": "Start Activity a7, the page 143 project. Fold three A4 sheets in half and staple to make an 8-page book. Your child writes and draws about the things the book lists: Isaac Newton ('don't forget that his ideas were new at the time'), light sources, things that are not light sources, darkness, ways we use light, and some of the activities in this topic (the torch test, the dark box, the shadow stick). Today, do the cover and the first four pages. Encourage one fact and one drawing on each page.",
+          "ref": "a7"
+        }
+      ],
+      "need": ["Learner's Book page 143", "a clear glass of water or an old CD", "white paper", "sunlight or a bright torch", "3 sheets of A4, a stapler, colours"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Finish the book and stretch",
+      "goal": "Finish the book of light and apply the ideas to new situations.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Finish my book of light",
+          "mins": 15,
+          "do": "Your child finishes the last pages of the a7 book: darkness (the dark box results), ways we use light (reading, traffic lights, lighthouses, cameras, diyas at Diwali), and one activity they enjoyed, with their results. On the back cover they write 'Never look at the Sun!' Then they read the whole book aloud to you.",
+          "ref": "a7"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Do worksheet ws2. These questions use new examples. Let your child think aloud. If they are stuck on a reflection question, ask: 'Does it make its own light, or does it need light shone on it?'",
+          "ref": "ws2"
+        },
+        {
+          "kind": "talk",
+          "title": "Moon detective",
+          "mins": 5,
+          "do": "Ask: 'If the Moon has no light of its own, why can we see it at night?' (Sunlight is shining on it and it reflects that light to us.) 'Why is it sometimes a thin crescent?' (We only see the part that is lit by the Sun; tell them they will learn more about this later.) If the Moon is up tonight, look at it together."
+        }
+      ],
+      "need": ["the a7 book and colours", "printed or on-screen ws2"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the book's progress questions, try the challenge worksheet, and teach the unit back.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Check your progress (pages 144–145)",
+          "mins": 10,
+          "do": "Do 'Check your progress' on pages 144–145 aloud. 1. 'Which of these is a light source?' A the Moon, B a mirror, C a candle, D the Sun, E a cupcake. (C and D. The Moon and mirror only reflect light.) 2. 'Drisha has lost her ball. Why can't she find it? What could she use to help find the ball?' (It is too dark; there is not enough light for her to see; she could use a torch.) 3. 'Which light sources are powered by electricity?' A fireworks, B a torch, C a candle, D a tablet (B and D.) 4. 'Where would the Sun appear to be at 1 pm?' (A little lower than at 12 noon and further along to the right, starting to come down.) Then ask this pack's check questions."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do worksheet ws3. These are harder 'what if' and puzzle questions. Accept any answer your child can back up with a good reason.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child becomes the teacher. Using their book of light, the dark box, the shadow stick paper and the magnet Sun model, they explain to a family member: what a light source is, with three examples; why the Moon is not a light source; how they tested which torch is brightest; why we can't see in total darkness and why light colours are easier to see in dim light; and how the Sun appears to move during the day and why. The listener asks two 'why' questions. End with: 'What is the one safety rule about the Sun?'"
+        }
+      ],
+      "need": ["Learner's Book pages 144–145", "printed or on-screen ws3", "the book of light, dark box, shadow paper and Sun model"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Light sources, darkness and the Sun",
+      "day": 10,
+      "sections": [
+        ["A. Light source or not?", [
+          {"t": "sort", "p": "Is it a light source?", "items": ["the Sun", "a mirror", "a candle", "the Moon", "a TV screen", "foil", "a torch", "a steel plate"], "cats": ["Light source", "Not a light source"]},
+          {"t": "fill", "p": "The Moon does not make light. It ____ light from the Sun.", "a": ["reflects", "reflect"]},
+          {"t": "mcq", "p": "Which light source is NOT powered by electricity?", "opts": ["a diya", "a tube light", "a phone screen", "a torch"], "a": 0}
+        ]],
+        ["B. Darkness", [
+          {"t": "mcq", "p": "Why can't we see anything in a totally dark room?", "opts": ["There is no light to shine on things and reach our eyes", "Our eyes are closed", "Things disappear in the dark", "It is too cold"], "a": 0},
+          {"t": "mcq", "p": "In the dark box, which object is easiest to see when the flap is open a little?", "opts": ["a white hanky", "a black sock", "a dark blue pen", "a brown stone"], "a": 0},
+          {"t": "draw", "p": "Draw three dark places in your home and label them dark, darker and darkest."}
+        ]],
+        ["C. The Sun", [
+          {"t": "fill", "p": "Our nearest star is the ____.", "a": ["Sun", "sun"]},
+          {"t": "mcq", "p": "When is the Sun highest in the sky?", "opts": ["around midday", "early morning", "late evening", "at night"], "a": 0},
+          {"t": "write", "p": "Write the safety rule about the Sun.", "lines": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Light in new places",
+      "day": 12,
+      "sections": [
+        ["A. Source or reflector?", [
+          {"t": "mcq", "p": "A road sign glows brightly when car headlights shine on it at night. The sign is:", "opts": ["reflecting the headlights' light", "a light source", "powered by electricity", "on fire"], "a": 0},
+          {"t": "mcq", "p": "A firefly (jugnu) glows in the dark. It is:", "opts": ["a light source that is not powered by electricity", "reflecting moonlight", "a mirror", "not a light source"], "a": 0},
+          {"t": "write", "p": "Your cousin says 'The Moon is a light source because it shines at night.' What would you tell her?", "lines": 3}
+        ]],
+        ["B. Fair tests", [
+          {"t": "table", "p": "Raju tested torches with sheets of paper. Fill in which is brightest.", "cols": ["Torch", "Sheets to stop the light", "Brightest?"], "rows": 3, "prefill": ["Big torch: 9", "Keychain torch: 3", "Phone torch: 6"]},
+          {"t": "mcq", "p": "To make the torch test fair, Raju should:", "opts": ["use the same kind of paper and the same distance for every torch", "use thicker paper for the brightest torch", "test one torch outdoors and one indoors", "change the batteries halfway"], "a": 0}
+        ]],
+        ["C. The Sun's path", [
+          {"t": "match", "p": "Match each time to where the Sun appears.", "pairs": [["8 o'clock in the morning", "low in the sky on one side"], ["12 noon", "highest in the sky"], ["5 o'clock in the evening", "low in the sky on the other side"]]},
+          {"t": "fill", "p": "At midday, when the Sun is highest, a stick's shadow is ____.", "a": ["shortest", "short", "the shortest"]},
+          {"t": "draw", "p": "Draw a diagram of the Sun's path over your home, with the Sun at 9 am, 12 noon and 3 pm. Label each time and add arrows."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking harder about light",
+      "day": 13,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if the Sun stopped shining? Write three things that would happen on Earth.", "lines": 4},
+          {"t": "write", "p": "What if you were inside a cave with no light at all, but you had a white ball and a black ball? Could you tell them apart? Why?", "lines": 3}
+        ]],
+        ["B. Puzzles", [
+          {"t": "mcq", "p": "The Sun seems to move across the sky each day. What is really happening?", "opts": ["The Earth is spinning", "The Sun is going round the Earth every day", "The clouds push the Sun", "The Sun gets smaller"], "a": 0},
+          {"t": "write", "p": "Your shadow stick shadow pointed one way in the morning and the other way in the afternoon. Explain why.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some ancient thinkers said our eyes send out rays to see. Ibn al-Haytham said light comes from sources into our eyes. Describe one test that helps decide who was right.", "lines": 4},
+          {"t": "write", "p": "Aryabhata said the Earth spins, but many astronomers after him disagreed because they could not feel it moving. Why can't we feel the Earth spinning? What would convince you that it does?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Which flashlight is brighter?",
+      "day": 4,
+      "question": "Which of our torches gives the most light?",
+      "need": ["3 different torches (or a phone torch)", "15–20 sheets of the same plain A4 paper", "a dim room", "a results table"],
+      "steps": [
+        "Darken the room a little.",
+        "Hold one sheet of paper close in front of the first torch and switch it on.",
+        "Add sheets one at a time, keeping them the same distance from the torch.",
+        "Stop when no light can be seen coming through; count the sheets.",
+        "Repeat with each torch using the same paper and distance.",
+        "Record each result in the table."
+      ],
+      "predict": "Ask your child to guess first: which torch will need the most sheets of paper to stop its light? Which the fewest?",
+      "observe": "The brightest torch needs the most sheets before its light stops showing through; a small keychain torch needs only a few.",
+      "why": "Paper lets some light through and stops some. Each extra sheet stops a bit more. A bright torch sends out much more light, so more sheets are needed before so little gets through that we can't see it. Torches differ in brightness because of the power of their bulb or LED, the strength of their batteries, and how well the shiny curved reflector behind the bulb gathers light and sends it forward. Keeping the paper and distance the same makes this a fair test.",
+      "safety": "Never look straight into a bright torch, and never shine it into anyone's eyes.",
+      "time": "22 min"
+    },
+    {
+      "id": "e2",
+      "title": "The dark box: how much light do I need to see?",
+      "day": 6,
+      "question": "How does the amount of light change what we can see, and are some colours easier to see?",
+      "need": ["a shoebox with a lid, an eye-hole in one end and a flap in the lid", "small objects: white, yellow, red, dark blue, black", "a results table"],
+      "steps": [
+        "Put one object inside the box and close the lid and the flap.",
+        "Predict whether it will be easy or hard to see.",
+        "Look through the eye-hole and record what you see with the flap closed.",
+        "Open the flap a little (a finger's width) and look again.",
+        "Open the flap wide and look again.",
+        "Repeat with each coloured object and fill in the table."
+      ],
+      "predict": "Ask your child to guess first: with the flap closed, will you see anything? Which colour will be easiest to see when only a little light gets in?",
+      "observe": "With the flap closed it is dark and objects are very hard or impossible to see. Opening the flap a little makes light objects visible first; dark objects stay hard to see. With the flap wide open, all objects are easy to see.",
+      "why": "We see an object when light from a light source bounces off it and enters our eyes. With the flap closed, almost no light gets into the box, so there is almost nothing to bounce off the object into our eyes. White and light-coloured things reflect most of the light that hits them, so even a little light makes them visible. Dark things soak up (absorb) most of the light, so very little bounces back. The pattern is: the more light, the easier it is to see, and light colours show up best in dim light.",
+      "safety": "An adult cuts the holes in the box.",
+      "time": "12 min on Day 6 + 22 min on Day 7"
+    },
+    {
+      "id": "e3",
+      "title": "Shadow stick tracking",
+      "day": 8,
+      "question": "How does the Sun's position appear to change during the day, as shown by a shadow?",
+      "need": ["a pencil or straight stick", "a lump of clay", "a big sheet of paper", "4 stones", "a clock", "a sunny spot that gets sun all day"],
+      "steps": [
+        "Stand the stick upright in the clay in the middle of the paper and weigh the paper's corners down.",
+        "Mark which way the paper faces (for example, draw an arrow towards your building) so it can be put back the same way if moved.",
+        "Trace the shadow and write the time at its tip.",
+        "Repeat every hour from morning to afternoon.",
+        "Compare the lengths and directions of the shadows."
+      ],
+      "predict": "Ask your child to guess first: where will the shadow point in an hour? Will it get longer or shorter by midday?",
+      "observe": "In the morning the shadow is long and points away from where the Sun is rising. It gets shorter towards midday and swings round, then gets longer again in the afternoon, pointing the other way.",
+      "why": "A shadow forms on the side of an object away from the light, because the object blocks the light. In the morning the Sun is low, so the shadow is long. As the Sun climbs higher, the shadow gets shorter, and it is shortest around midday when the Sun is highest. In the afternoon the Sun is low on the other side, so the shadow is long again and points the other way. The Sun is not really moving across the sky: the Earth spins once every day, carrying us round, so the Sun seems to rise, cross the sky and set. This regular movement is why sundials can tell the time.",
+      "safety": "Never look at the Sun. Look only at the shadow. Wear a cap and drink water if you stay outside.",
+      "time": "12 min set-up + 2 min each hour + 8 min to compare on Day 9"
+    }
+  ],
+  "activities": [
+    {"id": "a1", "title": "Is it a light source? sort", "day": 2, "mins": 7, "need": ["paper and pencils"], "steps": ["Draw two big circles labelled 'light sources' and 'not light sources'.", "Put the four objects from page 126 in the right circles.", "Add three objects from home.", "Say why the foil and mirror look bright."], "outcome": "A sorting diagram of light sources and objects that only reflect light."},
+    {"id": "a2", "title": "So many light sources table", "day": 3, "mins": 15, "need": ["paper for a table", "pencil"], "steps": ["Copy the table: object, light source yes, no.", "Add at least ten objects from your home and building.", "Star every light source powered by electricity.", "Answer: are most light sources at home electric? Why?"], "outcome": "A table of household objects showing which are light sources and which use electricity."},
+    {"id": "a3", "title": "Dark, darker, darkest", "day": 5, "mins": 15, "need": ["paper and pencils"], "steps": ["Find dark places at home: inside a cupboard, under a table, under the bed, in a closed bathroom.", "Compare how dark each is.", "Draw three places.", "Label them dark, darker and darkest."], "outcome": "Three labelled drawings showing places with less and less light."},
+    {"id": "a4", "title": "Make a dark box", "day": 6, "mins": 8, "need": ["a shoebox with a lid", "scissors (adult)", "tape", "colours"], "steps": ["Cut a 1 cm eye-hole in one short end.", "Cut a hinged flap about 5 cm square in the lid.", "Tape gaps so no light leaks in.", "Decorate the outside."], "outcome": "A dark box for testing how much light we need to see."},
+    {"id": "a5", "title": "Sun position diagram", "day": 9, "mins": 15, "need": ["paper", "yellow crayon", "a clock"], "steps": ["Stand in the same spot at three or four times of day.", "Without looking at the Sun, point to where it is (use the shadow to help).", "Draw your building or a tree at the bottom.", "Draw the Sun at each time, write the time and join with arrows."], "outcome": "A labelled diagram showing how the Sun appeared to move during one day."},
+    {"id": "a6", "title": "Magnet Sun model", "day": 10, "mins": 18, "need": ["thin card", "yellow paper", "a steel paper clip", "a strong magnet", "tape and crayons"], "steps": ["Draw a skyline along the bottom of the card.", "Tape a paper Sun to a paper clip.", "Hold the magnet behind the card to move the Sun.", "Show it rising, reaching its highest point at midday and setting.", "Draw the path with times."], "outcome": "A working model of the Sun's apparent path across the sky."},
+    {"id": "a7", "title": "My book of light", "day": 11, "mins": 34, "need": ["3 sheets of A4", "a stapler", "colours"], "steps": ["Make an 8-page book.", "Write about Isaac Newton, light sources, things that are not light sources, darkness and ways we use light.", "Add results from one activity.", "Write 'Never look at the Sun!' on the back.", "Read it aloud."], "outcome": "A small illustrated book summarising the unit."}
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Ibn al-Haytham (about 965–1040), Basra and Cairo",
+      "idea": "Some ancient Greek thinkers, including Euclid and Ptolemy, taught that we see because our eyes send out rays that reach objects. In his 'Book of Optics', written in Cairo in the early 1000s, Ibn al-Haytham argued instead that light travels in straight lines from light sources, bounces off objects, and enters our eyes, and that this is how we see. He backed his ideas with experiments using dark rooms with small holes (camera obscura) and careful observations.",
+      "then": "His work was translated into Latin about two centuries later and was studied by European scholars for hundreds of years. It changed how people thought about vision and about using experiments to test ideas.",
+      "now": "The eye-ray idea is rejected. Scientists agree that we see when light from a source, or light reflected from an object, enters our eyes. That is why we cannot see in total darkness, and why bright light can hurt our eyes. Ibn al-Haytham is often honoured as one of the first to insist on testing ideas about nature with experiments.",
+      "status": "rejected",
+      "ask": "If our eyes sent out rays, what would happen in a totally dark room? What did your dark box test show? Which idea does it support?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Aryabhata (476–about 550), Kusumapura (near present-day Patna), India",
+      "idea": "In his book the 'Aryabhatiya', written in 499 CE, Aryabhata stated that the Earth spins on its axis, and that the stars only appear to move westward, just as a person in a moving boat sees the trees on the bank moving backwards. He also wrote that the Moon and planets shine by reflecting sunlight, and explained eclipses as shadows: of the Moon falling on the Earth, or of the Earth falling on the Moon.",
+      "then": "Many later Indian astronomers, including some who greatly respected his mathematics, did not accept that the Earth spins; it seemed impossible that we would not feel it or that birds would not be left behind. Some later commentators even changed his words to make the stars move instead. His explanation of eclipses was more widely accepted.",
+      "now": "His ideas that the Earth spins once a day, that the Moon shines by reflected sunlight, and that eclipses are caused by shadows are all accepted today. India's first satellite, launched in 1975, was named Aryabhata in his honour.",
+      "status": "accepted",
+      "ask": "We can't feel the Earth spinning. Aryabhata used the example of a smoothly moving boat. Have you ever been on a train where you could not tell if your train or the one next to it was moving? What clue would tell you?",
+      "day": 8
+    },
+    {
+      "id": "v3",
+      "who": "Isaac Newton (1643–1727), England",
+      "idea": "In the 1660s Newton made a small hole in his window shutter so a thin beam of sunlight entered his dark room, and passed it through a glass prism. The white light spread out into a band of rainbow colours. With a second prism he showed that one colour could not be split further, and that the colours could be mixed back into white. He concluded that white light is a mixture of all the colours. He described this and much more in his book 'Opticks' (1704). He also thought light was made of tiny particles.",
+      "then": "His colour experiments caused arguments at first; some scientists, including Robert Hooke, disagreed with his explanation. Other scientists, such as Christiaan Huygens, thought light was a kind of wave rather than particles, and this argument went on for more than a hundred years.",
+      "now": "Newton's discovery that white light is a mixture of colours is accepted, and explains rainbows. The particle-or-wave argument turned out to have a surprising answer: scientists now say light behaves like a wave in some experiments and like tiny packets (called photons) in others. As page 143 says, we still use some of his ideas, but understand much more.",
+      "status": "accepted",
+      "ask": "Newton used a second prism to check his idea that the colours were already in the white light and were not made by the glass. Why was that second test important? What would you have concluded from only the first prism?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "What is a light source? Give three examples.", "a": "Something that makes its own light, such as the Sun, a candle or diya flame, a bulb, a torch or a TV screen."},
+    {"q": "Is the Moon a light source? Explain.", "a": "No. It reflects light from the Sun; it does not make its own light."},
+    {"q": "How did we find out which torch was brightest?", "a": "We counted how many sheets of paper were needed to stop its light; the brightest needed the most sheets."},
+    {"q": "Why can't we see anything in a completely dark room?", "a": "There is no light to shine on things and bounce into our eyes; we need light to see."},
+    {"q": "Which colours are easiest to see in dim light, and why?", "a": "White and light colours, because they reflect more light into our eyes."},
+    {"q": "Why do people who work at night wear clothes with reflective strips?", "a": "So that lights such as car headlights reflect off them and others can see them."},
+    {"q": "Describe how the Sun appears to move during the day.", "a": "It appears low in the morning, rises highest around midday, and is low again in the evening before it sets."},
+    {"q": "Why does the Sun seem to move across the sky?", "a": "Because the Earth spins round once a day; the Sun itself is not going round us."}
+  ]
+}
