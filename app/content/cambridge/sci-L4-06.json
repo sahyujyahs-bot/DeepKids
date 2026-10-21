@@ -1,0 +1,829 @@
+{
+  "key": "cambridge|sci|4|6",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 4,
+  "n": 6,
+  "title": "Electricity",
+  "source": "Cambridge Primary Science Learner's Book 4 (2nd edition, 2021), Unit 6 'Electricity' (pages 124–147)",
+  "summary": "Your child builds a simple circuit tester with a cell, wires and a lamp and uses it in a fair test to sort materials into conductors and insulators, then sees that pure water hardly conducts but salty water (like the water in our bodies) does. They learn why appliances on 230 V mains electricity use metal conductors inside and plastic insulators outside, how to stay safe from electric shocks, how to make and use a switch to open and close a circuit, and how adding lamps makes them dimmer while adding cells makes them brighter. A project traces the story of the battery from Galvani's frog legs to Volta's pile.",
+  "goals": [
+    "By the end your child can name the parts of a simple circuit (cell, wires, lamp, lamp holder) and explain that a lamp lights only when there is a complete circuit with no break.",
+    "By the end your child can use a fair test with a circuit tester to sort materials into conductors (metals, graphite) and insulators (plastic, wood, rubber, glass, cloth), describe the pattern and make a conclusion.",
+    "By the end your child can explain why pure water conducts very poorly but salty water and the human body conduct, and use this to explain safety rules about wet hands and bare wires.",
+    "By the end your child can explain the difference between a 1.5 V cell and 230 V mains electricity, identify conductors and insulators in plugs, cords and appliances, and spot unsafe uses of electricity at home.",
+    "By the end your child can make a switch from conductors and insulators, use it to open and close a circuit, and draw the circuit.",
+    "By the end your child can predict and test how adding lamps or cells changes the brightness of lamps, state the pattern, and tell the story of how batteries were discovered."
+  ],
+  "words": [
+    ["circuit", "a complete loop of wires and components that electricity can flow all the way round"],
+    ["cell", "a small store of chemical energy that pushes electricity round a circuit, like a 1.5 V AA cell"],
+    ["battery", "two or more cells joined together, like the two AA cells in a TV remote"],
+    ["component", "one part of a circuit, such as a cell, lamp, wire or switch"],
+    ["conductor", "a material that lets electricity pass through it, such as copper, iron, steel and aluminium"],
+    ["insulator", "a material that does not let electricity pass through it, such as plastic, rubber, wood and glass"],
+    ["volt (V)", "the unit used to measure the strength (voltage) of an electricity supply: a cell is 1.5 V, mains in India is 230 V"],
+    ["mains electricity", "the electricity from wall sockets, which is strong enough to kill; in India it is 230 volts"],
+    ["electric shock", "when electricity flows through the body; mains electricity can cause burns and stop the heart"],
+    ["plug, cord and socket", "the plug has metal pins in a plastic cover; the cord has copper wires inside plastic; the wall socket is where mains electricity comes out"],
+    ["switch", "a component that opens (breaks) or closes (completes) a circuit, so we can turn things on and off"],
+    ["distilled water", "pure water made by boiling water and cooling the steam back into liquid, leaving the salts behind"],
+    ["brightness", "how much light a lamp gives; a lamp glows brightly or dimly"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is inside a torch?",
+      "goal": "Take apart a torch to find a real circuit, name circuit components (page 124), and light a bulb with a single cell.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Electricity hunt",
+          "mins": 6,
+          "do": "Ask your child: 'Name everything in our home that needs electricity.' List them in two columns: plugged into the wall (fan, fridge, mixer, TV, geyser, phone charger) and running on cells or batteries (TV remote, wall clock, torch, toy car, phone). Ask: 'Which column would be safe for you to experiment with?' (Only the cells and batteries; wall sockets are never for experiments.) Make this the first rule of the unit and write it at the top of the notebook."
+        },
+        {
+          "kind": "do",
+          "title": "Take apart a torch",
+          "mins": 10,
+          "do": "Give your child an old torch that uses AA or D cells. Together, unscrew it and lay out the parts: the cells, the bulb (or LED), the shiny reflector, the spring, the metal strips, the switch and the plastic case. Ask: 'Which parts are metal? Which are plastic? Why do you think the case is plastic but the strips are metal?' (Electricity flows through the metal; the plastic keeps it inside and keeps our hands safe.) Put it back together and switch it on and off, and ask your child to trace with a finger the path the electricity takes in a loop."
+        },
+        {
+          "kind": "read",
+          "title": "Getting started (page 124)",
+          "mins": 7,
+          "do": "Look at the circuit picture on page 124 and ask the Getting started questions. 1 Name the components numbered 1–4. (1 wire, 2 lamp or bulb, 3 lamp holder, 4 cell.) 2 What is the function of component 4? (The cell stores energy and pushes electricity round the circuit.) 3 Why does the lamp light up? (There is a complete circuit: electricity flows from the cell, through the wire, through the lamp and back to the cell.) Point out the + and − ends of the cell in the picture, and find them on a real AA cell."
+        },
+        {
+          "kind": "exp",
+          "title": "Light a bulb with one cell",
+          "mins": 15,
+          "do": "Do Experiment e1. Give your child one 1.5 V AA cell, one torch bulb (1.5 V or 2.5 V) and one 15 cm piece of wire with the ends stripped (from an electrical shop; ask for 'single-core wire', or use a strip of aluminium foil folded lengthwise). Challenge: 'Can you make the bulb light with just these three things?' Let them try for a few minutes before helping. Draw each attempt in the notebook with a tick if it lit and a cross if not. The trick: the bulb's tip must touch one end of the cell and the wire must join the bulb's metal side to the other end. Ask them to predict first which drawings will work.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Why did only some ways work?",
+          "mins": 7,
+          "do": "Look at the ticks and crosses together. Ask: 'What do all the ticked drawings have in common?' (A complete loop: cell end → bulb side → through the filament → bulb tip → other cell end.) Look closely at the bulb: show the tiny coil of wire inside (the filament) and the two contacts at the bottom (the tip and the side). Explain that a circuit must be an unbroken loop of conductors; if there is a gap anywhere, electricity stops. Ask: 'What happens if the wire touches both ends of the cell without the bulb?' (Tell them not to do this: the wire gets hot and the cell runs down quickly. This is called a short circuit.)"
+        }
+      ],
+      "need": ["Learner's Book page 124", "an old torch with cells", "2 AA cells (1.5 V)", "2 torch bulbs (1.5 V or 2.5 V)", "15 cm of single-core wire with ends stripped, or aluminium foil", "notebook and pencil"],
+      "prep": [{"task": "Buy from an electrical or hobby shop: 3 AA cells, 3 battery holders, 3 torch bulbs (2.5 V) with 3 bulb holders, about 2 metres of thin wire, and 4 crocodile clips (many shops sell these as a school 'circuit kit')", "when": "1 week before"}]
+    },
+    {
+      "n": 2,
+      "title": "Build a conductor tester",
+      "goal": "Learn the words conductor and insulator (page 125), discuss the safety rules, build the testing circuit from pages 125–126, and meet Stephen Gray.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Conductors and insulators (page 125)",
+          "mins": 6,
+          "do": "Read the top of page 125 aloud: a material that lets electricity pass through is a conductor; one that does not is an insulator. Ask: 'From the torch yesterday, name one conductor and one insulator.' (Metal strip or spring: conductor; plastic case: insulator.) Add both words to the notebook."
+        },
+        {
+          "kind": "talk",
+          "title": "Safety rules (page 125, Questions 1–3)",
+          "mins": 7,
+          "do": "Read the safety rules on page 125 and ask Questions 1–3. 1 'Why is it important to cut away from you?' (If the blade slips it goes away from your body, not into it.) 2 'How can you strip the plastic off safely?' (Use a wire stripper, or let an adult do it; grip the wire in one hand and pull the plastic away from you.) 3 'Why must you not touch bare wires when the circuit is complete?' (Electricity could pass through you; with small cells it is not dangerous, but it is a good habit because with mains electricity it could kill.) At home, YOU strip all the wire ends today."
+        },
+        {
+          "kind": "act",
+          "title": "Build the tester (pages 125–126, Steps 1–2)",
+          "mins": 18,
+          "do": "Do Activity a1, following Steps 1 and 2 on pages 125–126. Put one AA cell in a cell holder. Join one cell-holder wire to one side of the bulb holder, tightening the little screw with a small screwdriver after winding the bare wire round it. Attach a separate wire to the other side of the bulb holder. Put crocodile clips on the two free ends (or wrap each free end round a large paper clip). Your child tests it: holding the clips only by their plastic covers, touch them together. The bulb should light. Separate them: it goes out. If it doesn't light, check each connection one by one, as the book says: a loose screw or a bulb not screwed fully in is the usual reason. This is now your testing equipment for the whole unit.",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "Stephen Gray's long thread",
+          "mins": 9,
+          "do": "Read Voice v1 about Stephen Gray. Ask the voice question. Then ask: 'Gray's electricity travelled along damp thread but not along silk. What did that tell him about thread and silk?' (Damp hemp thread is a conductor; silk is an insulator.)",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Prediction table (page 126)",
+          "mins": 5,
+          "do": "Your child copies the prediction table from page 126 into the notebook with columns Material, Prediction: conductor, Prediction: insulator, Result: conductor, Result: insulator. List 12 objects to test tomorrow: steel spoon, plastic spoon, wooden ice-cream stick, aluminium foil, rubber eraser, ₹1 coin, glass bangle, paper clip, cotton thread, pencil lead (graphite, from a sharpened pencil with both ends exposed or a broken lead), key, chalk. They tick a prediction for each now."
+        }
+      ],
+      "need": ["Learner's Book pages 125–126", "1 AA cell in a cell holder, 1 bulb in a bulb holder", "2 wires with crocodile clips (or paper clips)", "a small screwdriver", "wire stripper or scissors (adult)"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Test which materials conduct",
+      "goal": "Do the fair test on pages 126–127 to sort materials into conductors and insulators, find the pattern and answer Questions 4–10.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Test the materials (page 126, Step 3)",
+          "mins": 20,
+          "do": "Do Experiment e2, Step 3 on page 126. First check the tester works by touching the clips together. Then for each of the 12 objects, your child clips one crocodile clip to one end of the object and the other clip to the other end (or presses them on). If the bulb lights, it is a conductor; if not, try again to make sure, pressing firmly. Record a tick in the Result columns. Two surprises to look out for: pencil lead (graphite) conducts, though the bulb may glow dimly; and a painted or varnished metal object may not light the bulb until you scratch off a tiny spot of paint, because paint is an insulator.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 4–9 (page 127)",
+          "mins": 12,
+          "do": "Ask Questions 4–9 on page 127. 4 How well did the results support the predictions? 5 How did you make it fair? (Same tester, same cell and bulb, clips touching the object the same way each time, only the material changed.) 6 Pattern? (Metals are conductors; plastic, wood, rubber, glass, cloth and paper are insulators.) 7 Did any not fit? (Pencil lead, graphite, is not a metal but conducts; painted metal seemed not to conduct because of the paint.) 8 Conclusion: 'Metals and graphite conduct electricity; plastic, wood, rubber, glass and cloth are insulators.' 9 Which two types of enquiry? (Fair testing, and identifying and classifying.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Lightning conductors (page 127, Question 10)",
+          "mins": 7,
+          "do": "Ask Question 10: 'Why are lightning conductors made from copper?' (Copper is an excellent conductor, so it carries the huge electricity from a lightning strike safely down into the ground instead of through the building.) If there is a tall building, temple or water tank nearby, go and look for the thin metal rod at the top and the metal strip running down the side. Tell them that India's lightning-safety advice is to go indoors during a thunderstorm and not stand under a lone tree."
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (page 127)",
+          "mins": 6,
+          "do": "Do the 'How am I doing?' on page 127: your child gives themselves 1, 2 or 3 stars for 'Can I identify and describe a pattern in results?' and 'Can I make a conclusion that answers the question?' Then ask: 'What have you learnt about working safely with electricity?' Read and tick the 'Look what I can do!' list on page 127."
+        }
+      ],
+      "need": ["Learner's Book pages 126–127", "the tester from Day 2", "the 12 objects listed on Day 2", "the prediction table"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Does water conduct electricity?",
+      "goal": "Learn from page 128 that tap water is not pure, demonstrate the pure and salty water test (pages 129–130), and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 128)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 128. 1 'If we put salt into water and stir it, what happens?' (It dissolves and seems to disappear, but the water tastes salty, so it is still there.) 2 'How can we test whether a material conducts?' (Put it in the gap in our tester circuit and see if the lamp lights.)"
+        },
+        {
+          "kind": "read",
+          "title": "Is water pure? (page 128)",
+          "mins": 6,
+          "do": "Read 'Is water pure?' on page 128: river and tap water have salts dissolved in them; distilled water is pure, made by boiling water and cooling the steam back to liquid, leaving the salts behind; our bodies are about 65% water with salts dissolved in it. Show a bottle of distilled water (sold at chemists and battery shops for car batteries and steam irons). Ask: 'Why do you think steam irons say to use distilled water?' (Tap water leaves salt deposits, scale, inside them.) Show the white scale inside your kettle or on a tap if you have some."
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate whether water conducts (pages 129–130)",
+          "mins": 17,
+          "do": "Do Experiment e3, the page 129 investigation. As the book says, the adult does this as a demonstration. Use two AA cells in a holder (3 V), a bulb in a holder and two wires ending in folded strips of aluminium foil. Test the circuit by touching the foil strips together. Pour 250 ml of distilled water into a glass. Your child predicts, then you dip the two foil strips in, about 2 cm apart, not touching. Observe. Take them out, stir in two teaspoons of salt, predict again, and dip in. If your bulb does not glow at all with salt water (filament bulbs need quite a lot of current), swap it for a small LED (long leg to the + side) or look closely at the foil strips: tiny bubbles forming on them show electricity is passing through the salty water. Ask Questions 1–3 on page 130: did results support the predictions; compare pure and salty water; conclusion. (Pure water barely conducts; salty water conducts much better.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Your body, wires and storms (page 130, Questions 4–6)",
+          "mins": 5,
+          "do": "Ask Questions 4–6 on page 130. 4 'Is your body a good or bad conductor?' (A conductor, because it is mostly water with salts.) 5 'So why must you not touch bare wires in a closed circuit?' (Electricity could pass through your body; with mains it could kill.) 6 'Why is it dangerous to swim in the sea in a thunderstorm?' (Sea water is salty and conducts; lightning hitting the water can travel through it to you, and a swimmer's head sticks up above the flat sea.) Ask the reflection questions on page 131: were you surprised that your body is a conductor?"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Give your child Worksheet ws1 on circuits, conductors and insulators. They work alone; then check together using the tester to settle any disagreements about materials.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 128–131", "250 ml distilled water and a glass", "2 teaspoons of salt", "2 AA cells in a holder, a bulb in a holder, 2 wires", "aluminium foil", "a small LED (optional)", "Worksheet ws1"],
+      "prep": [{"task": "Buy a bottle of distilled water from a chemist or battery shop; print or copy Worksheet ws1", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Mains electricity and appliances",
+      "goal": "Learn from pages 132–134 how mains electricity differs from cells, how appliances use conductors and insulators, and survey the appliances at home on a dot plot.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 132)",
+          "mins": 5,
+          "do": "Look at the pictures on page 132 and ask the Getting started questions. 1 Identify the appliances. (1 television, 2 microwave oven, 3 electric drill, 4 electric iron.) 2 Where in your home do you use the most appliances? (Usually the kitchen.) 3 'Do these use the same electricity as our circuit?' (No: they use mains electricity from the wall, which is far stronger.)"
+        },
+        {
+          "kind": "read",
+          "title": "Mains electricity (page 133)",
+          "mins": 10,
+          "do": "Read page 133 aloud. A volt (V) measures the strength of electricity; our 1.5 V and 3 V cells are safe; pylons carry electricity at many thousands of volts; appliances use mains electricity, which is 110 V in some countries and over 200 V in others. Tell them that in India mains electricity is 230 V, more than 150 times stronger than one AA cell. Look together (adult holding, switched off) at a plug: the metal pins are conductors to carry electricity from the socket; the plastic or rubber cover is an insulator so we can hold it safely. Read the last line on page 133 aloud: never touch a bare electric wire, especially with damp or sweaty fingers."
+        },
+        {
+          "kind": "talk",
+          "title": "Activity 1, Questions 1–5 (page 134)",
+          "mins": 12,
+          "do": "Look at the picture of electric wire on page 134 and ask Questions 1 and 2. 1 Why is the wire covered in plastic? (Plastic is an insulator, so the electricity stays in the copper and can't pass into us or into other wires.) 2 Why is it made of copper? (Copper is a very good conductor and bends easily.) If you have an old, unplugged, cut-off cord, cut it open with your child to see the copper strands inside the plastic. Then do Questions 3–5: name three appliances at home; find the voltage on each one's label or rating sticker (it will say something like '220–240 V'); your child draws one, such as the electric kettle or iron, and labels its materials: metal heating parts and plug pins (conductors), plastic handle, body and cord cover (insulators)."
+        },
+        {
+          "kind": "act",
+          "title": "Appliance dot plot (page 134, Question 6)",
+          "mins": 18,
+          "do": "Do Activity a2, Question 6 on page 134. Your child walks round each room with a notebook and lists every electrical appliance, room by room: kitchen, living room, bedrooms, bathroom, balcony. Then they draw a dot plot: room names along the bottom, one dot per appliance stacked above each room. Use the Skills section at the back of the Learner's Book to check how to draw it. Ask: 'Which room has the most? Why?' (The kitchen, for cooking and keeping food cold.) 'Which room do you think uses the most electricity?' (Not always the room with the most appliances: an AC or geyser uses far more than many small things.)",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Learner's Book pages 132–134 and the Skills section", "a plug and appliance labels to look at (adult handles, switched off)", "an old cut-off cord (optional)", "notebook and squared paper"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Staying safe from electric shocks",
+      "goal": "Learn the dangers on pages 134–135, predict safe and unsafe uses of appliances, do a home safety check, and meet Jagadish Chandra Bose.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Electric shocks (pages 134–135)",
+          "mins": 8,
+          "do": "Read 'Electric shocks' on pages 134–135 aloud. Mains electricity through your body can burn badly and stop the heart; damaged wiring is a main cause of accidents; worn plastic leaves copper bare; never put a wire under a carpet or dari; never pull a plug out by its cord: switch off and grip the plug; don't overload one socket with many plugs, as it can give a shock or start a fire. Add Indian-home rules: never touch a switch with wet hands after washing; never fly a kite near overhead power lines or try to free a kite stuck on them; keep away from fallen wires after a storm; don't touch a geyser or water pump switch while standing in water."
+        },
+        {
+          "kind": "talk",
+          "title": "Predict safe or unsafe use (page 135, Activity 2)",
+          "mins": 8,
+          "do": "Do Activity 2 on page 135. 1 Predict what could happen to the man in the picture. (He could get a deadly electric shock.) 2 Your child copies and completes: 'He is pushing a metal screwdriver into the holes of the socket when the power is on. The electricity could flow from the wires in the wall to the screwdriver in his hand. The wires and screwdriver are made of metal, which is a conductor of electricity.' 3 'Why should Mrs Mbatha dry her hands before handling the toaster?' (Water on the skin, with its salts, conducts electricity, making a shock more likely.)"
+        },
+        {
+          "kind": "act",
+          "title": "Home electrical safety check",
+          "mins": 14,
+          "do": "Do Activity a3. Walk round the home with your child as 'safety inspectors', looking but not touching anything electrical. Check: any cords with cracked or worn plastic or bare copper showing; plugs that are loose or blackened; multi-plug adaptors with too many plugs; wires under rugs or dari; appliances near water (a phone charging next to the bathroom); switches with broken covers; whether sockets have shutters or covers if there are toddlers. Your child records each problem in a table: Where, Problem, Why it is dangerous, What to do. Then the adult fixes or reports the problems. Ask: 'What is the one thing to do first before fixing any appliance?' (Switch off at the socket and pull out the plug, holding the plug.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose and the crystal detector",
+          "mins": 10,
+          "do": "Read Voice v2 about Jagadish Chandra Bose and his work with radio waves and crystals. Ask the voice question. Then ask: 'Galena is neither a good conductor like copper nor a good insulator like plastic. Where would you put it in our two groups?' (In between; today such materials are called semiconductors, and they are what computer chips are made of.)",
+          "ref": "v2"
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (pages 135–136)",
+          "mins": 5,
+          "do": "Do the 'How am I doing?' on page 135: your child explains to a family member the difference between a 1.5 V cell and mains electricity (one AA cell is 1.5 V and safe to handle; mains in India is 230 V and can kill; never experiment with sockets). Then ask the page 136 questions: 'What did you learn about using electricity safely at home? Will it be useful?' Read and tick the 'Look what I can do!' list on page 136."
+        }
+      ],
+      "need": ["Learner's Book pages 134–136", "notebook for the safety check table"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Make a switch",
+      "goal": "Learn from pages 137–138 what a switch does, and make a switch from drawing pins, a paper clip and wood, choosing conductors and insulators for each part.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 137)",
+          "mins": 5,
+          "do": "Look at the picture on page 137 and ask the Getting started questions. 1 What happens when Sofia turns the switch on? (The light comes on.) 2 And off? (It goes off.) Then click a wall switch on and off (adult supervising) and ask: 'What do you think happens inside the switch?' Let them guess: two metal pieces touch to complete the circuit, and move apart to break it."
+        },
+        {
+          "kind": "read",
+          "title": "Putting a switch in a circuit (page 138)",
+          "mins": 6,
+          "do": "Read the top of page 138 aloud: a switch turns the current on or off, like a tap; so far, to break the circuit we disconnected a wire; a switch lets us turn the lamp on and off without breaking wires. Ask: 'How is a switch like a tap and how is it different?' (Like a tap it starts and stops the flow; but water flows out of a tap, while electricity must flow round a complete loop and doesn't leak out of a switch.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make a switch (page 138, Think like a scientist 1)",
+          "mins": 18,
+          "do": "Do Activity a4, 'Make a switch' on page 138. Use a small block of wood or a piece of thick cardboard, two metal drawing pins (thumb tacks) and a plain metal paper clip (not plastic-coated). YOU strip the ends of two short wires. Wind one bare wire end round each drawing pin, then push the pins into the wood about 3 cm apart, with the paper clip trapped under one pin so it can swing round. Your child connects it into the tester circuit in place of the crocodile-clip gap. Using a wooden or plastic chopstick (not fingers), they swing the paper clip to touch the other pin: the lamp lights. Lift it off: the lamp goes out. Ask: 'Why use a chopstick?' (It is an insulator, and it is a good habit never to touch parts of a circuit that carry electricity.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–4 (page 138)",
+          "mins": 9,
+          "do": "Ask Questions 1–4 on page 138. 1 Why a metal paper clip? (It must conduct to complete the circuit.) 2 Why metal drawing pins? (They also must conduct, joining the wires to the clip.) 3 Why is the base wood? (Wood is an insulator, so electricity can only go through the clip when it touches the pin, not through the base.) 4 Other suitable materials? (Conducting parts: aluminium foil strips, a steel safety pin, brass split pins; base: plastic, cork, thick cardboard.) Ask: 'What would happen if the base were made of aluminium?' (The circuit would always be complete; the switch could never turn off.)"
+        },
+        {
+          "kind": "do",
+          "title": "Other switches",
+          "mins": 7,
+          "do": "Your child makes a second, different switch: two strips of aluminium foil glued on a piece of cardboard folded in half, so that when you press the card closed the foil strips touch (a pressure switch, like a doorbell button). Test it in the circuit. Ask: 'Where at home is there a switch you press and that springs back?' (Doorbell, mixer pulse button, TV remote buttons.)"
+        }
+      ],
+      "need": ["Learner's Book pages 137–138", "a small block of wood or thick card", "2 metal drawing pins", "a plain metal paper clip", "2 short wires with stripped ends", "a wooden or plastic chopstick", "the tester circuit", "aluminium foil, cardboard and glue"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "A circuit with a switch",
+      "goal": "Build a complete circuit with a switch (page 139), draw and label it, find faults, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Make a circuit with a switch (page 139)",
+          "mins": 15,
+          "do": "Do Experiment e4, 'Think like a scientist 2' on page 139. Your child builds a circuit with one cell in its holder, one lamp in its holder, the switch from Day 7 and short wires joining them in a loop, doing all the connections themselves this time. Before closing the switch, they predict what will happen. Close it with the chopstick and observe. If the lamp doesn't light, they check every connection one by one, as the book says: the cell the right way in its holder, the bulb screwed in fully, every bare wire end tightly wound and touching metal.",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–5 (page 139)",
+          "mins": 8,
+          "do": "Ask Questions 1–5 on page 139. 1 Why does the lamp light when the switch is closed? (The clip completes the loop, so electricity can flow all the way round.) 2 What must you do to break the circuit? (Open the switch: lift the clip off the pin.) 3 Your child draws the circuit and labels the cell, wire, switch and lamp. Show them the standard symbols if they are ready: a long and a short line for a cell, a circle with a cross for a lamp, and a line with a gap and a hinged line for a switch. 4 Why check connections if the lamp didn't light? (A single gap or loose wire breaks the circuit.) 5 Which safety rules did you follow? (Used a chopstick, didn't touch bare wires, an adult stripped the wires, only used cells.)"
+        },
+        {
+          "kind": "game",
+          "title": "Fault finder",
+          "mins": 7,
+          "do": "While your child looks away, you secretly make one fault in their circuit: unscrew the bulb a little, turn the cell round in a holder that only works one way, loosen a wire, or put a piece of plastic tape on the drawing pin. Your child must find the fault using the tester or by checking each part, then fix it. Do three rounds. Then swap: they make a fault for you to find. Do the 'How am I doing?' on page 139 by talking about how confidently each of you connected and switched the circuit."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Give your child Worksheet ws2. It asks them to apply ideas about conductors, switches and safety to new situations. Let them work for 12 minutes, then go through the answers, asking for reasons.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book page 139", "1 cell in a holder, 1 lamp in a holder, the home-made switch, short wires", "a chopstick", "plastic tape", "Worksheet ws2"],
+      "prep": [{"task": "Print or copy Worksheet ws2", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "More lamps, dimmer lamps?",
+      "goal": "Learn about cells and batteries (page 140), then build circuits 1–3 from page 141 to see what happens to brightness when lamps are added or removed.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 140)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 140. 1 What components have you used? (Cell, wires, lamp, lamp holder, switch.) 2 'Where is the electricity in the circuit?' (In all the wires and components, all round the loop, when the switch is closed.) 3 What pushes it round? (The cell.) 4 What opens and closes the circuit? (The switch.)"
+        },
+        {
+          "kind": "read",
+          "title": "Cells and batteries (page 140)",
+          "mins": 7,
+          "do": "Read 'Cells and batteries' on page 140: each cell stores 1.5 V; two or more cells together make a battery; a car battery is 12 V; the stored energy pushes electricity round the circuit. Look inside a TV remote or toy and count the cells. Ask: 'Two 1.5 V cells together make how many volts?' (3 V.) 'Three?' (4.5 V.) Show how cells must be joined + to −, as in the remote; if one is turned round, nothing works. Tell them the chemicals in a cell react to supply the energy, linking to chemical reactions in Unit 3."
+        },
+        {
+          "kind": "exp",
+          "title": "Circuits 1–3 (pages 141–142)",
+          "mins": 25,
+          "do": "Do Experiment e5, the first part of 'What happens when we change the number of components in a circuit?' on pages 141–142. Your child copies the results table from page 141. Circuit 1: join two cell holders in a line (+ next to −) to make a 3 V battery, then connect three lamps in holders one after another in a single loop with the switch. Predict, close the switch, observe and record the brightness (bright, medium, dim, very dim, off). Open the switch and observe (all off). Circuit 2: remove one lamp and holder, rejoin the gap with a wire, predict, test, record. Circuit 3: remove another lamp so only one is left; predict, test, record. For a fair comparison, look at the lamps from the same distance in the same light each time, and if you can, photograph each one with a phone held at the same place.",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "What did you notice?",
+          "mins": 8,
+          "do": "Ask: 'What happened to the brightness as you took lamps away?' (They got brighter: one lamp was brightest, three were dimmest.) Ask Question 3 on page 142: 'Why do you think this happened?' (The same 3 V push has to share its energy between more lamps; each lamp also makes it harder for electricity to flow, so less flows.) Ask: 'In circuit 1 with three lamps, if one bulb is unscrewed, what happens to the other two?' Test it. (They all go out, because the single loop is broken.)"
+        }
+      ],
+      "need": ["Learner's Book pages 140–142", "3 AA cells in holders, 3 bulbs (2.5 V) in holders, the switch, short wires", "a TV remote or toy with cells", "a phone camera (optional)"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "More cells, brighter lamps",
+      "goal": "Build circuits 4 and 5 (page 142), answer Questions 1–8 on pages 142–143, and state the patterns in a conclusion.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Circuits 4 and 5 (page 142)",
+          "mins": 15,
+          "do": "Continue Experiment e5 with circuits 4 and 5 on page 142. Circuit 4: three cells (4.5 V) and three lamps in a loop with the switch. Predict, close the switch, observe and record. Open it. Circuit 5: your child decides on a change and asks their own question, for example 'What happens if we take away one cell so there are two cells and three lamps?' Predict and test. Then, carefully, try Question 4's set-up: three cells and only one lamp. Warn your child that the lamp will be very bright and may burn out if it is a 1.5 V bulb; with a 2.5 V or 3.5 V bulb, switch on only for a few seconds. Record all results.",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–8 (pages 142–143)",
+          "mins": 15,
+          "do": "Ask Questions 1–8. 1 Two risks? (A bulb could get hot or burn out; cutting and stripping wire; a short circuit making a wire hot.) 2 How to stay safe? (Adult strips the wire, don't touch bulbs after use, switch off between tests, never join a wire straight across a cell.) 3 Removing a lamp made the others brighter, because the energy was shared by fewer lamps. 4 One lamp with three cells was very bright, because a big push of 4.5 V went through just one lamp. 5 Removing a cell made the lamps dimmer, because there was less push. 6 Pattern: 'The lamps shine less brightly when you add more lamps. The lamps shine more brightly when you add more cells.' 7 Conclusion: 'Changing the number of lamps or cells in a circuit can make a lamp brighter or dimmer.' 8 Which enquiry? (Fair testing and pattern seeking.)"
+        },
+        {
+          "kind": "think",
+          "title": "Why don't our house lights get dimmer?",
+          "mins": 8,
+          "do": "Ask: 'When we switch on more lights at home, do the others go dimmer, like our three-lamp circuit?' (No.) Explain simply: in our experiment the lamps were in one single loop, one after another, so they shared the push. House lights are wired differently, each on its own separate loop from the mains, called a parallel circuit, so each gets the full 230 V and switching one off does not turn the others off. You can show this by building two single-lamp loops from the same battery. Ask: 'Why is that better for a house?' (Every light is bright, and if one bulb fuses, the rest stay on.)"
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (page 143)",
+          "mins": 7,
+          "do": "Do the 'How am I doing?' on page 143: discuss how confidently your child added and took away components and reconnected the circuit, and how well they recorded results. Then read and tick the 'Look what I can do!' list on page 143. Pack the kit away carefully and take the cells out of the holders so they don't run down."
+        }
+      ],
+      "need": ["Learner's Book pages 142–143", "3 AA cells in holders, 3 bulbs in holders, the switch, short wires", "the results table from Day 9"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Project: frog legs and the first battery",
+      "goal": "Read the battery history on page 144, discuss Galvani and Volta's argument, and make a lemon battery.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Galvani's discovery and the voltaic pile (page 144)",
+          "mins": 7,
+          "do": "Read the Project introduction and the sections 'Galvani's discovery' and 'The voltaic pile' on page 144 aloud (leave 'The Baghdad battery' for tomorrow). Batteries contain chemicals that react and supply energy; Galvani saw a frog's leg twitch when it hung on copper hooks on an iron railing and thought the electricity came from the frog ('animal electricity'); Volta repeated the experiments with different materials and concluded the electricity came from the two different metals, and the frog's leg only showed it was there; in 1800 he built the 'voltaic pile'."
+        },
+        {
+          "kind": "think",
+          "title": "Who was right, Galvani or Volta?",
+          "mins": 10,
+          "do": "Read Voice v3 about Galvani and Volta. Ask the voice question. Then ask: 'Is it possible for two scientists who disagree to both be partly right?' (Yes: Volta was right about where the electricity in the frog-leg experiment came from; Galvani was right that living nerves and muscles use electricity.) Ask: 'Which part of your own body uses electrical signals?' (Nerves, the brain, and the heart, which is why a doctor can record an ECG.)",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Lemon battery",
+          "mins": 23,
+          "do": "Do Experiment e6. Roll 4 lemons on the table to make them juicy. Into each, push a galvanised (zinc-coated) nail and a 5 cm piece of thick copper wire (stripped electrical wire) about 2 cm apart, not touching. Join them in a chain with short wires: the copper of lemon 1 to the zinc nail of lemon 2, and so on. Connect the free copper and free nail to a small red LED (long leg to the copper end). Your child predicts first whether one lemon will be enough. Test with one, two, three, then four lemons. The LED usually needs three or four lemons and glows faintly, so darken the room. Ask: 'What did adding lemons do?' (Like adding cells: more push.) If the LED doesn't glow, check the leg direction and connections, or try fresh lemons.",
+          "ref": "e6"
+        },
+        {
+          "kind": "do",
+          "title": "Connect it to Volta",
+          "mins": 5,
+          "do": "Ask your child to draw the lemon battery and label: two different metals (copper and zinc), juice (an acid, the 'wet' part), the wires and the LED. Tell them that Volta's pile was just like this: a stack of zinc and copper (or silver) discs with cardboard or cloth soaked in salt water between them. Ask: 'Which part of Volta's pile was like the lemon juice?' (The salty wet cloth.)"
+        }
+      ],
+      "need": ["Learner's Book page 144", "4 lemons", "4 galvanised nails", "4 pieces of thick copper wire, 5 cm each", "short connecting wires with crocodile clips", "a small red LED", "a room you can darken"],
+      "prep": [{"task": "Buy 4 galvanised (zinc-coated) nails from a hardware shop and a small red LED from an electrical shop", "when": "2 days before"}]
+    },
+    {
+      "n": 12,
+      "title": "The Baghdad battery and Volta's story",
+      "goal": "Read about the 'Baghdad battery' (page 144) and weigh the evidence for it, then research and make an information sheet on Volta's battery (page 145).",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Baghdad battery (page 144)",
+          "mins": 6,
+          "do": "Read 'The Baghdad battery' on page 144 aloud: a clay jar with an iron rod inside a copper tube was found near Baghdad; copies filled with vinegar produce about 1.5 to 2 volts; the book says archaeologists think people 2,000 years ago could have used batteries like this. Ask your child: 'What would you want to know before you believed that?'"
+        },
+        {
+          "kind": "think",
+          "title": "Weighing the evidence",
+          "mins": 10,
+          "do": "Read Voice v4 about the Baghdad battery debate. Ask the voice question. Then make two columns in the notebook: 'Evidence it was a battery' (copies can make a small voltage; it has two different metals) and 'Evidence it was not' (no wires or anything electric found with it; similar jars held rolled-up scrolls; no ancient writings mention electricity; making a voltage in a copy does not prove the people who made it used it that way). Ask: 'So what is the most honest thing to say?' (It could make a small voltage, but most experts think it was probably a storage jar; we don't know for certain.)",
+          "ref": "v4"
+        },
+        {
+          "kind": "act",
+          "title": "Continue the story: Volta's pile (page 145)",
+          "mins": 20,
+          "do": "Do Activity a5, 'Continue the story' on page 145. Using a reference book or a trusted website with you, your child finds out: what Volta's pile looked like (a tall stack of alternating zinc and copper or silver discs separated by cardboard or cloth soaked in salt water); how it worked (the chemical reaction between the two metals and the salty liquid pushed a steady flow of electricity); when (announced in 1800); and why it mattered (the first source of steady electric current, which let scientists study electricity properly; the unit 'volt' is named after him). They put the information on one sheet of paper with a labelled diagram of the pile and a drawing of today's AA cell to compare.",
+          "ref": "a5"
+        },
+        {
+          "kind": "do",
+          "title": "Mini voltaic pile (optional demonstration)",
+          "mins": 9,
+          "do": "If you have them, stack 5 layers of: a ₹1 or ₹2 coin (stainless steel), a small square of kitchen tissue soaked in salt water, and a square of aluminium foil, pressed firmly. Touch an LED's legs to the top and bottom of the stack (try both ways round). It may glow very faintly or not at all; that is normal with these metals. Ask: 'What could make it stronger?' (More layers, better metals like copper and zinc, saltier liquid.) Wash and dry the coins afterwards."
+        }
+      ],
+      "need": ["Learner's Book pages 144–145", "reference book or trusted website (with an adult)", "paper and colour pens", "optional: 5 coins, aluminium foil, kitchen tissue, salt water, an LED"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer 'Check your progress' on pages 146–147, do the challenge worksheet, check understanding and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 146–147)",
+          "mins": 12,
+          "do": "Do the questions on pages 146–147 aloud. Q1: a switch, b lamp holder, c cell (or battery). Q2: cork and plastic are insulators; gold and aluminium are metals and conductors. Q3: a component A is a switch that opens and closes the circuit (point to it on the diagram); b open the switch; c more dimly; d more brightly. Q4: Arun forgot to switch off and unplug the iron before trying to fix it. Q5: C switch the electricity off, B wait for the lamp to cool down, A unscrew the old lamp, D screw in the new lamp. Ask: 'Why wait for it to cool?' (Bulbs get very hot and can burn your fingers.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Give your child Worksheet ws3. It has circuit puzzles, 'what if' questions and questions comparing the voices. Let them use the circuit kit to test any puzzle they are unsure about (cells only, never the mains).",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, without the book. Tick each answered well. For any missed answer, look back at the matching pages (conductors 124–127, water 128–131, appliances and safety 132–136, switches 137–139, cells and lamps 140–143) and ask again in different words."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher. Using the tester, the home-made switch, the three-lamp circuit and the lemon battery drawing, they teach you in 6 minutes: what a complete circuit is; conductors and insulators with examples; why wet hands and bare wires are dangerous; how a switch works; and what happens when you add lamps or cells. Ask two 'student' questions: 'Why is the outside of a plug plastic but the pins metal?' and 'If I want my toy's bulb to be brighter, what should I add?' End by putting the cells away and storing the kit safely."
+        }
+      ],
+      "need": ["Learner's Book pages 146–147", "Worksheet ws3", "the circuit kit, switch and drawings from earlier days"],
+      "prep": [{"task": "Print or copy Worksheet ws3", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Circuits, conductors and insulators",
+      "day": 4,
+      "sections": [
+        ["A. Circuits", [
+          {"t": "draw", "p": "Draw a circuit with a cell, two wires and a lamp in a lamp holder that would make the lamp light. Label each part."},
+          {"t": "mcq", "p": "Why does the lamp go out when you separate the crocodile clips?", "opts": ["The cell is used up", "There is a break in the circuit", "The lamp is broken", "The wires get cold"], "a": 1},
+          {"t": "fill", "p": "The part of a circuit that pushes electricity around it is the ____.", "a": ["cell", "battery"]}
+        ]],
+        ["B. Conductors and insulators", [
+          {"t": "sort", "p": "Sort these materials.", "items": ["Steel spoon", "Plastic ruler", "Aluminium foil", "Wooden stick", "Copper wire", "Rubber eraser", "Iron key", "Glass bangle", "Cotton thread", "Pencil lead (graphite)"], "cats": ["Conductor", "Insulator"]},
+          {"t": "fill", "p": "A material that does not let electricity pass through it is called an ____.", "a": ["insulator"]},
+          {"t": "write", "p": "Describe the pattern you found: which kind of materials conduct electricity?", "lines": 2}
+        ]],
+        ["C. Water", [
+          {"t": "mcq", "p": "Which conducts electricity best?", "opts": ["Distilled water", "Salty water", "Cooking oil", "Air"], "a": 1},
+          {"t": "write", "p": "Why is it dangerous to touch a switch with wet hands?", "lines": 2},
+          {"t": "fill", "p": "Our bodies are about 65% ____ with salts dissolved in it, so our bodies conduct electricity.", "a": ["water"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Switches, safety and new cases",
+      "day": 8,
+      "sections": [
+        ["A. Switch design", [
+          {"t": "mcq", "p": "Riya makes a switch with a steel base, two drawing pins and a paper clip. The lamp stays on all the time. Why?", "opts": ["The paper clip is too short", "The steel base conducts, so the circuit is always complete", "The cell is too strong", "The pins are plastic"], "a": 1},
+          {"t": "table", "p": "Choose a material for each part of a switch and give a reason.", "cols": ["Part", "Material", "Conductor or insulator", "Why"], "rows": 3, "prefill": ["Base", "Moving part", "Contacts"]}
+        ]],
+        ["B. Safe or unsafe?", [
+          {"t": "sort", "p": "Sort these actions.", "items": ["Pulling a plug out by its cord", "Switching off before unplugging", "Drying hands before using the mixer", "Charging a phone next to the bathroom bucket", "Plugging six appliances into one adaptor", "Holding the plastic part of a plug", "Flying a kite near power lines", "Asking an adult to replace a worn cord"], "cats": ["Safe", "Unsafe"]},
+          {"t": "write", "p": "Choose one unsafe action. Explain, using the words conductor or insulator, why it is dangerous.", "lines": 3}
+        ]],
+        ["C. Mains and cells", [
+          {"t": "fill", "p": "Mains electricity in India is about ____ volts.", "a": ["230", "220", "240"]},
+          {"t": "mcq", "p": "One AA cell is 1.5 V. How many AA cells in a line would it take to equal 3 V?", "opts": ["1", "2", "3", "6"], "a": 1},
+          {"t": "write", "p": "The plastic cover on a copper wire has worn away. Give two dangers this could cause.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Circuit puzzles and comparing ideas",
+      "day": 13,
+      "sections": [
+        ["A. Brightness puzzles", [
+          {"t": "table", "p": "Predict the brightness (bright, medium, dim) of each lamp. All cells are 1.5 V, all lamps the same.", "cols": ["Circuit", "Prediction", "Reason"], "rows": 4, "prefill": ["1 cell, 1 lamp", "1 cell, 3 lamps", "3 cells, 1 lamp", "3 cells, 3 lamps"]},
+          {"t": "write", "p": "In a single loop with three lamps, one lamp is unscrewed. What happens to the other two? Why?", "lines": 2},
+          {"t": "write", "p": "In your house, switching off the kitchen light does not turn off the bedroom light. What does this tell you about how house lights are wired?", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all metals became insulators tomorrow? Describe three things that would stop working and why.", "lines": 4},
+          {"t": "write", "p": "What if plastic became a conductor? Why would using a phone charger become dangerous?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Galvani said the electricity came from the frog; Volta said it came from the two metals. Explain how each was partly right.", "lines": 4},
+          {"t": "write", "p": "A copy of the 'Baghdad battery' makes about 1.5 volts. Does this prove ancient people used batteries? What extra evidence would you need?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "One cell, one bulb, one wire",
+      "day": 1,
+      "question": "How must a cell, a bulb and a wire be joined to make the bulb light?",
+      "need": ["1 AA cell (1.5 V)", "1 torch bulb (1.5 V or 2.5 V)", "15 cm wire with bare ends, or a folded strip of aluminium foil", "notebook"],
+      "steps": [
+        "Try to make the bulb light using only the cell, the bulb and the wire.",
+        "Draw each arrangement you try, with a tick if it lights and a cross if not.",
+        "Predict which of your drawings will work before testing new ones.",
+        "When you succeed, trace the path the electricity takes with your finger.",
+        "Compare all the ticked drawings and find what they have in common."
+      ],
+      "predict": "Ask your child to guess first: will the bulb light if you just put it on top of the cell? What else might be needed?",
+      "observe": "The bulb lights only when its tip touches one end of the cell and the wire joins the metal side of the bulb to the other end of the cell. Other arrangements leave it dark.",
+      "why": "Electricity flows only round a complete loop of conductors. Inside the bulb, a thin coiled wire called the filament joins the bulb's tip contact to its side contact. For the bulb to light, electricity must leave one end of the cell, pass in through one contact, along the filament and out through the other contact, and return to the other end of the cell. The thin filament gets so hot that it glows. If any part of the loop is missing, nothing flows. Joining a wire straight across the cell without the bulb is a short circuit: lots of electricity flows, the wire gets hot and the cell runs down fast, so avoid it.",
+      "safety": "Use only 1.5 V cells. Don't hold a wire across both ends of the cell for more than a moment; it can get hot.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "Conductor or insulator? (Book 'Think like a scientist', pages 125–127)",
+      "day": 3,
+      "question": "Which materials let electricity pass through them?",
+      "need": ["the tester circuit (cell, lamp in holder, wires with crocodile clips)", "12 objects: steel spoon, plastic spoon, wooden stick, aluminium foil, rubber eraser, coin, glass bangle, paper clip, cotton thread, pencil lead, key, chalk"],
+      "steps": [
+        "Check the tester: touch the clips together and see the lamp light.",
+        "Predict for each object whether it is a conductor or an insulator.",
+        "Clip or press one clip on one end of the object and the other clip on the other end.",
+        "If the lamp does not light, try again, pressing firmly.",
+        "Record the result for each object.",
+        "Look for a pattern and write a conclusion."
+      ],
+      "predict": "Ask your child to guess first: which objects will light the lamp? Is there any object you are unsure about?",
+      "observe": "The lamp lights for the steel spoon, foil, coin, paper clip, key and (often dimly) pencil lead. It stays dark for plastic, wood, rubber, glass, cotton thread and chalk. Painted metal may not light it until a tiny spot of paint is scratched off.",
+      "why": "In metals, some of the tiny charged particles called electrons are free to move through the material, so when a cell pushes them they flow easily: metals are conductors. In plastic, rubber, wood and glass, the electrons are held tightly and can't flow, so these are insulators. Graphite, the 'lead' in pencils, is a form of carbon that also has free-moving electrons, so it conducts even though it is not a metal. Paint and varnish are insulators, which is why a painted object can seem not to conduct. Because we used the same tester and changed only the material, it was a fair test.",
+      "safety": "Use only cells, never mains electricity. Hold the clips by their plastic covers.",
+      "time": "20 min"
+    },
+    {
+      "id": "e3",
+      "title": "Pure water and salty water (Book 'Think like a scientist', pages 129–130)",
+      "day": 4,
+      "question": "Does water conduct electricity, and does salt make a difference?",
+      "need": ["2 AA cells in a holder (3 V)", "a bulb in a holder, or a small LED", "2 wires ending in folded aluminium foil strips", "250 ml distilled water in a glass", "2 teaspoons of salt", "a spoon"],
+      "steps": [
+        "The adult connects the circuit and checks the lamp lights when the foil strips touch.",
+        "Dip the foil strips into the distilled water, about 2 cm apart, not touching. Predict, then observe.",
+        "Take the strips out and stir two teaspoons of salt into the water.",
+        "Predict, then dip the strips in again and observe the lamp and the foil.",
+        "If using a bulb and it does not glow, try an LED or look for tiny bubbles on the foil."
+      ],
+      "predict": "Ask your child to guess first: will the lamp light in pure water? In salty water?",
+      "observe": "In distilled water the lamp does not light and nothing happens. In salty water an LED glows, or a filament bulb glows faintly or not at all, but tiny bubbles appear on the foil strips, showing that electricity is passing.",
+      "why": "Pure water has almost no charged particles to carry electricity, so it conducts very poorly. When salt dissolves, it splits into charged particles called ions, which can move through the water and carry electricity from one foil strip to the other. The bubbles are gases made as the electricity splits some of the water, a chemical change. Tap water, sea water, sweat and the water in our bodies all contain dissolved salts, so they conduct. This is why wet hands, swimming in storms and touching bare wires are dangerous.",
+      "safety": "An adult does this demonstration. Use only cells, never mains. Do not drink the water afterwards.",
+      "time": "17 min"
+    },
+    {
+      "id": "e4",
+      "title": "Circuit with a switch (Book 'Think like a scientist 2', page 139)",
+      "day": 8,
+      "question": "Can a switch turn a lamp on and off by opening and closing the circuit?",
+      "need": ["1 cell in a holder", "1 lamp in a holder", "the home-made switch", "short wires", "a chopstick"],
+      "steps": [
+        "Connect the cell, lamp and switch in one loop with short wires.",
+        "Predict what will happen when the switch is closed.",
+        "Close the switch with a chopstick and observe.",
+        "If the lamp does not light, check every connection one at a time.",
+        "Open the switch and observe.",
+        "Draw and label the circuit."
+      ],
+      "predict": "Ask your child to guess first: will the lamp light when you close the switch? What will happen when you open it?",
+      "observe": "The lamp lights when the paper clip touches the second drawing pin and goes out when it is lifted. A loose connection anywhere stops it lighting.",
+      "why": "Closing the switch puts a conductor (the metal paper clip) across the gap, completing the loop, so electricity can flow all the way round and the lamp lights. Opening the switch makes a gap of air, which is an insulator, so the flow stops everywhere in the circuit at once. Wall switches at home work the same way: two metal contacts are pressed together or pulled apart inside a plastic insulating case.",
+      "safety": "Use only cells. Move the switch with a chopstick.",
+      "time": "15 min"
+    },
+    {
+      "id": "e5",
+      "title": "Changing the number of lamps and cells (Book 'Think like a scientist', pages 141–143)",
+      "day": 9,
+      "question": "How does changing the number of lamps or cells change how brightly the lamps shine?",
+      "need": ["3 AA cells in holders", "3 bulbs (2.5 V or 3.5 V) in holders", "the switch", "short wires", "a results table"],
+      "steps": [
+        "Circuit 1: 3 V battery (two cells, + to −), three lamps and a switch in one loop. Predict, close, observe, record.",
+        "Circuit 2: remove one lamp. Predict, test, record.",
+        "Circuit 3: remove another lamp. Predict, test, record.",
+        "Circuit 4: 4.5 V (three cells) with three lamps. Predict, test, record.",
+        "Circuit 5: make your own change, ask your own question, predict and test.",
+        "Find the patterns and write a conclusion."
+      ],
+      "predict": "Ask your child to guess first: will three lamps be brighter or dimmer than one lamp on the same battery? Will adding a cell make them brighter or dimmer?",
+      "observe": "With the same battery, three lamps glow dimly, two more brightly and one brightest. With the same lamps, three cells make them brighter than two cells. Three cells and one lamp give a very bright lamp that may burn out.",
+      "why": "Each cell gives a push (voltage) to the electricity. More cells in a line add their pushes together, so more electricity flows and lamps are brighter. Each lamp's thin filament makes it harder for electricity to flow (it has resistance), and in a single loop the electricity has to go through every lamp in turn, so more lamps mean less flow and the battery's energy is shared between them, so each is dimmer. Too much push for one small lamp makes its filament so hot that it melts, and the lamp 'blows'.",
+      "safety": "Switch off between tests. Bulbs get hot; don't touch them just after use. With three cells and one lamp, switch on only for a few seconds.",
+      "time": "25 min + 15 min the next day"
+    },
+    {
+      "id": "e6",
+      "title": "Lemon battery",
+      "day": 11,
+      "question": "Can two different metals and lemon juice make electricity, like Volta's battery?",
+      "need": ["4 lemons", "4 galvanised (zinc-coated) nails", "4 pieces of thick copper wire, 5 cm each", "short connecting wires with crocodile clips", "a small red LED"],
+      "steps": [
+        "Roll each lemon firmly on the table to make it juicy inside.",
+        "Push a nail and a copper wire into each lemon, about 2 cm apart, not touching.",
+        "Connect the LED's long leg to the copper and short leg to the nail of one lemon. Observe.",
+        "Join a second lemon: copper of lemon 1 to nail of lemon 2. Connect the LED to the free ends.",
+        "Add a third and fourth lemon in the same chain, testing each time in a darkened room."
+      ],
+      "predict": "Ask your child to guess first: will one lemon light the LED? How many will you need?",
+      "observe": "One lemon usually does not light the LED. With three or four lemons joined in a chain, the LED glows faintly, best seen in the dark. If it does not, the LED is often the wrong way round.",
+      "why": "Zinc and copper react differently with the acid in lemon juice. Zinc gives up tiny charged particles (electrons) more easily than copper, so when the two metals are joined by a wire outside the lemon, electrons flow through the wire from the zinc to the copper. This is a chemical reaction turning stored chemical energy into electrical energy, just as in an AA cell. One lemon gives only about 1 volt and very little current; joining lemons in a chain adds their voltages, like adding cells. A red LED needs nearly 2 volts to glow, which is why several lemons are needed.",
+      "safety": "Do not eat the lemons afterwards; throw them away. Wash hands after handling the nails.",
+      "time": "23 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Conductor tester (Book 'Think like a scientist', pages 125–126)",
+      "day": 2,
+      "mins": 18,
+      "need": ["1 AA cell in a cell holder", "1 bulb in a bulb holder", "2 wires with crocodile clips (or paper clips)", "a small screwdriver", "wire stripper (adult)"],
+      "steps": [
+        "The adult strips the ends of the wires.",
+        "Join one wire from the cell holder to one side of the bulb holder; wind the bare end round the screw and tighten it.",
+        "Attach a separate wire to the other side of the bulb holder.",
+        "Fix crocodile clips to the two free ends.",
+        "Hold the clips by their plastic covers and touch them together: the bulb lights.",
+        "Separate them: the bulb goes out. If it does not light, check each connection."
+      ],
+      "outcome": "A working circuit tester with a gap that can be closed by any material, used throughout the unit to test conductors and insulators."
+    },
+    {
+      "id": "a2",
+      "title": "Appliance survey and dot plot (Book Activity 1, page 134)",
+      "day": 5,
+      "mins": 18,
+      "need": ["notebook", "squared paper", "the Skills section of the Learner's Book"],
+      "steps": [
+        "Walk round each room and list every electrical appliance.",
+        "Count the appliances in each room.",
+        "Draw a dot plot with room names along the bottom and one dot per appliance above each room.",
+        "Find the room with the most and the fewest appliances.",
+        "Discuss which room probably uses the most electricity and why."
+      ],
+      "outcome": "A dot plot of the household's appliances by room, and a discussion of why the number of appliances is not the same as the amount of electricity used."
+    },
+    {
+      "id": "a3",
+      "title": "Home electrical safety check",
+      "day": 6,
+      "mins": 14,
+      "need": ["notebook", "an adult to lead and to fix problems"],
+      "steps": [
+        "Walk round the home looking (not touching) at cords, plugs, sockets and adaptors.",
+        "Look for worn or cracked plastic, bare copper, loose or blackened plugs, overloaded adaptors, wires under rugs and appliances near water.",
+        "Record each problem in a table: Where, Problem, Why dangerous, What to do.",
+        "The adult fixes or arranges repairs for each problem.",
+        "Make a short list of family electricity safety rules and stick it near the main switchboard."
+      ],
+      "outcome": "A home safety report, problems fixed by an adult, and a family list of electricity safety rules."
+    },
+    {
+      "id": "a4",
+      "title": "Paper clip switch (Book 'Think like a scientist 1', page 138)",
+      "day": 7,
+      "mins": 18,
+      "need": ["a small block of wood or thick card", "2 metal drawing pins", "a plain metal paper clip", "2 short wires with stripped ends", "a chopstick"],
+      "steps": [
+        "The adult strips the wire ends.",
+        "Wind one bare end round each drawing pin.",
+        "Push the pins into the wood about 3 cm apart, trapping one end of the paper clip under one pin.",
+        "Connect the switch into the tester circuit.",
+        "Use a chopstick to swing the clip on to the other pin (lamp on) and off it (lamp off)."
+      ],
+      "outcome": "A working switch made from conductors (pins, clip) on an insulating base, and an understanding of why each material was chosen."
+    },
+    {
+      "id": "a5",
+      "title": "Volta's pile information sheet (Book project, page 145)",
+      "day": 12,
+      "mins": 20,
+      "need": ["a reference book or trusted website (with an adult)", "paper and colour pens"],
+      "steps": [
+        "Find out what Volta's pile looked like and what it was made of.",
+        "Find out how it worked and when it was announced.",
+        "Find out why it was important and what unit is named after Volta.",
+        "Draw a labelled diagram of the pile and of a modern AA cell.",
+        "Put everything on one sheet of paper and present it to the family."
+      ],
+      "outcome": "An illustrated information sheet that continues the book's battery story from Galvani to Volta and links it to the cells we use today."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Stephen Gray (1666–1736), England",
+      "idea": "Gray was a cloth dyer and amateur scientist. In 1729 he rubbed a glass tube to charge it with static electricity and found that the electricity could travel along a long damp hemp thread to an ivory ball far away, making it attract bits of feather and paper. He sent electricity along threads hundreds of feet long. When he hung the thread on silk loops, the electricity reached the end; when he hung it on brass wire, the electricity leaked away. He had discovered that some materials carry electricity and others do not, the idea later named conductors and insulators.",
+      "then": "As a poor tradesman with little formal education, Gray was not part of the scientific establishment, and for much of his life he struggled for recognition and money. But his experiments were reported to the Royal Society in London, which awarded him its very first Copley Medal in 1731 and another in 1732.",
+      "now": "The difference between conductors and insulators is a basic, accepted fact of science, and every electric cable, with copper inside plastic, uses it. Gray is remembered as one of the founders of the study of electricity.",
+      "status": "accepted",
+      "ask": "Gray found that silk stopped electricity leaking away but brass let it escape. If you were Gray, how would you test lots of materials fairly to find out which ones carry electricity?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Jagadish Chandra Bose (1858–1937), India",
+      "idea": "Before his famous work on plants, Bose was a physicist at Presidency College in Calcutta (Kolkata). In the 1890s he made and detected very short radio waves (microwaves) and is said to have shown in Calcutta in 1895 that these invisible waves could travel through walls and set off a bell some distance away. To detect the waves he used a crystal of galena, a mineral that is neither a good conductor nor a good insulator, with a fine metal point touching it. He received a US patent for this detector in 1904.",
+      "then": "Bose chose not to seek money from most of his inventions and shared his ideas openly. Guglielmo Marconi became famous for sending radio messages over long distances, and Bose's work was largely forgotten outside India for many years.",
+      "now": "Scientists today recognise Bose as a pioneer of microwave and radio research. Materials like galena are now called semiconductors; they are the basis of the chips in phones and computers. In 2012 the IEEE, a worldwide engineering society, honoured his millimetre-wave work with a milestone plaque in Kolkata.",
+      "status": "accepted",
+      "ask": "Bose found a material that is 'in between' a conductor and an insulator. Why is it useful in science to notice things that don't fit neatly into our groups?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Luigi Galvani (1737–1798) and Alessandro Volta (1745–1827), Italy",
+      "idea": "Galvani, a doctor in Bologna, saw dissected frog legs twitch when they were touched with two different metals, for example hung on copper hooks against an iron railing. In 1791 he published his view that the electricity came from inside the frog, a special 'animal electricity'. Volta, a physics professor in Pavia, repeated the experiments and argued that the electricity came from the two different metals touching through the wet frog tissue, and that the leg only showed the electricity was there. To prove it, in 1800 he built the voltaic pile, which made electricity with no frog at all.",
+      "then": "The two men and their supporters argued for years. Volta's pile was a sensation and seemed to settle the matter in his favour, and many people decided Galvani had simply been wrong.",
+      "now": "Both were partly right. Volta was right that two different metals and a salty liquid make an electric current, which is how batteries work. But Galvani was also right that living things use electricity: our nerves and muscles, including the heart, work by electrical signals. This is the science behind an ECG test at a doctor's clinic. The words 'galvanised' and 'volt' come from their names.",
+      "status": "accepted",
+      "ask": "Volta's pile proved metals can make electricity. Did that prove frogs have no electricity of their own? What experiment would you need to test Galvani's idea separately?",
+      "day": 11
+    },
+    {
+      "id": "v4",
+      "who": "The 'Baghdad battery' (clay jar found in Iraq in the 1930s) and the archaeologists who doubt it",
+      "idea": "In the 1930s a clay jar about 13 cm tall was found near Baghdad, containing a copper tube with an iron rod inside. The German museum worker Wilhelm König suggested in 1938 that it might be an ancient battery, perhaps used to coat objects with a thin layer of gold or silver. Modern copies filled with vinegar or grape juice can produce a small voltage, as the book says on page 144.",
+      "then": "The idea became very popular in books and on television, and some people claimed ancient people had electric lights or advanced technology.",
+      "now": "Most archaeologists today doubt that it was a battery. No wires, conductors or other electrical equipment were found with it; similar jars from the same region held rolled-up scrolls; there is no ancient writing about electricity; and the iron rod and copper tube do not seem to have been connected in a way that would make a useful circuit. Making a small voltage in a modern copy shows it COULD work, not that anyone used it that way. Experts also disagree about its age; many date it to the Sasanian period, less than 2,000 years ago. Claims about ancient electric lights are rejected. Whether it was ever used to make electricity is not known, and most experts think it was not.",
+      "status": "minority",
+      "ask": "A copy of the jar can make 1.5 volts. Is 'it could have worked' the same as 'it was used'? What would you need to find to be convinced?",
+      "day": 12
+    }
+  ],
+  "check": [
+    {"q": "What do you need to make a lamp light, and why does it go out if there is a gap?", "a": "A complete circuit: a cell (or battery) to push the electricity, wires, and the lamp in an unbroken loop. A gap breaks the circuit, so electricity cannot flow all the way round and the lamp goes out."},
+    {"q": "What are conductors and insulators? Give two examples of each.", "a": "Conductors let electricity pass through, such as copper, steel, aluminium, iron and graphite. Insulators do not, such as plastic, rubber, wood, glass and cloth."},
+    {"q": "Does water conduct electricity? Explain the difference between distilled and salty water.", "a": "Pure distilled water conducts very poorly because it has no salts. Salty water conducts much better because the dissolved salt carries electricity. Tap water, sea water and the water in our bodies contain salts, so they conduct."},
+    {"q": "Why is the plug of an appliance made of metal and plastic?", "a": "The metal pins are conductors that carry electricity from the socket into the appliance. The plastic cover is an insulator so we can hold the plug without getting a shock."},
+    {"q": "Give three rules for using mains electricity safely at home.", "a": "Any three of: never touch switches or appliances with wet hands; never put anything into a socket; switch off and hold the plug, not the cord, to unplug; don't overload sockets; never use damaged cords; switch off and unplug before cleaning or fixing an appliance; keep away from overhead and fallen power lines."},
+    {"q": "How does a switch work? Which parts must be conductors and which insulators?", "a": "A switch opens and closes the circuit. When closed, a conductor (such as a metal paper clip) bridges the gap so electricity flows; when open, the gap stops the flow. The moving part and contacts must be conductors; the base and the handle or stick must be insulators."},
+    {"q": "What happens to the brightness of lamps if you add more lamps? More cells?", "a": "Adding more lamps in the same loop makes each lamp dimmer, because the energy is shared and less electricity flows. Adding more cells makes the lamps brighter, because there is a bigger push."}
+  ]
+}
