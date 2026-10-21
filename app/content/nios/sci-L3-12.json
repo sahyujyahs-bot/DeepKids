@@ -1,0 +1,468 @@
+{
+  "key": "nios|sci|3|12",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 12,
+  "title": "Our Social and Economic Environment",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 12 (pages 152–165), 2016",
+  "summary": "The world is now closely connected by trade, travel and communication: this is globalization. India has also made laws that give ordinary people real rights: the Right to Education Act (free schooling for every child aged 6 to 14), the Right to Information Act (any citizen can ask the government how public money is spent), and MGNREGA (up to 100 days of paid work a year for rural households). Your child surveys where things at home were made, finds the tax on a shop bill, writes a practice RTI application, checks a pretend muster roll for cheating, and meets the people who fought for these rights.",
+  "goals": [
+    "By the end your child can explain globalization with examples from their own home, and give one good effect and one worry about it.",
+    "By the end your child can list the main promises of the Right to Education Act (free and compulsory schooling up to class 8 for ages 6–14, free books and mid-day meals in government schools, 25% seats in private schools, no admission tests or donations).",
+    "By the end your child can explain why citizens have a right to know how tax money is spent, find the tax on a shop bill, and describe how to apply under the Right to Information Act and how long the government has to reply.",
+    "By the end your child can explain what MGNREGA promises rural families (up to 100 days of work, job card, wages in a bank account within 15 days, equal pay for women and men, facilities at the work site).",
+    "By the end your child can check a record against real evidence, as in a social audit, and explain why openness (transparency) helps stop cheating.",
+    "By the end your child can discuss people who fought for these rights and an honest debate about how well such schemes work."
+  ],
+  "words": [
+    ["globalization", "the whole world becoming connected through trade, travel, jobs, the internet and ideas"],
+    ["import", "something brought into our country from another country to sell"],
+    ["export", "something made in our country and sold to another country"],
+    ["Act", "a law passed by Parliament"],
+    ["right", "something every person is allowed to have or do, which the law protects, like the right to go to school"],
+    ["compulsory", "something that must be done; under RTE, every child aged 6 to 14 must be helped to go to school"],
+    ["tax", "money people pay to the government, for example GST on things we buy, which pays for roads, schools and hospitals"],
+    ["transparency", "being open, so that anyone can see how decisions are made and money is spent"],
+    ["Public Information Officer", "the officer in each government office whose job is to answer RTI applications"],
+    ["Gram Panchayat", "the elected council of a village that looks after local work and registers people for MGNREGA"],
+    ["job card", "a card given to a rural household under MGNREGA, with photos of members who want work and a record of days worked and wages"],
+    ["muster roll", "the attendance list of workers at a work site, showing who worked on which days"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "A connected world",
+      "goal": "Find out how connected our own home is to the rest of the world, learn what globalization means, and think about its good and difficult sides, with Gandhiji's very different idea.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Who did we talk to, and what did we use?",
+          "mins": 5,
+          "do": "Ask: 'Name someone in our family or among our friends who lives in another city or another country. How do we keep in touch?' (Video call, WhatsApp, phone.) 'Name a food we eat that first came from another country.' Good answers: tomato, potato, chilli and maize (all first came from the Americas, centuries ago), noodles, pizza, chocolate. Then: 'Name an Indian thing that people in other countries love.' (Tea, basmati rice, yoga, cricket, Indian films, IT services.)"
+        },
+        {
+          "kind": "read",
+          "title": "Lesson opening and 12.1 Globalization (pages 152–154)",
+          "mins": 8,
+          "do": "Read the opening on page 152 and section 12.1 aloud, to 'trade, sports, games, etc.' Ask: 'How did people send messages long ago?' (On foot or with messengers.) 'What connects the world now?' (Aeroplanes, TV, telephones, mobiles, the internet, trade.) 'What is globalization?' (The whole world becoming connected and integrated.) 'What does the book say globalization has changed in our lives?' (Lifestyle, food habits, culture, customs and values; new facilities in our homes; more knowledge and awareness of our rights.) Remind them they read about transport and communication in Lesson 10: those are the 'roads' of globalization."
+        },
+        {
+          "kind": "exp",
+          "title": "Made where? Home survey",
+          "mins": 13,
+          "do": "Do Experiment e1. Your child checks 20 things at home for a 'Made in' or 'Country of origin' label: the phone, TV, fan, toys, shoes, clothes, a packet of biscuits, a bottle of oil, pens, a torch, a watch. They record each in a table: Thing, Country. Ask them to guess first: 'How many of the 20 will be made in India?' Then count and make a tally: India, China, other countries, no label. Mark the countries on a world map or globe. Ask: 'Which country appeared most after India? Why do you think so many things come from far away?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Let's see 12.1 and both sides (page 154)",
+          "mins": 6,
+          "do": "Do 'Let's see, what you have learnt 12.1' on page 154 aloud: television; important; aware; facilities (answers on page 163). Then go further than the book, which shows only the good side. Ask: 'If a shop in our town sells cheap toys from far away, what might happen to the toy-maker in our town?' (He might sell less and lose work.) 'What is good about it?' (Cheaper things, more choice, new jobs in factories that sell abroad.) Tell them that thoughtful people disagree about how much the world should trade, and that is today's voice."
+        },
+        {
+          "kind": "think",
+          "title": "Gandhiji, swadeshi and the spinning wheel",
+          "mins": 8,
+          "do": "Tell the story in Voice v1: Gandhiji asked Indians to spin and wear khadi, buy swadeshi (things made in our own country), and make villages able to meet their own needs, because British-made mill cloth had ruined many Indian weavers. Show your child a khadi or handloom cloth if you have one, and a factory-made shirt. Ask: 'Which one did more people's hands make? Which costs less?' Then ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Textbook pages 152–154 and 163", "20 household things with labels", "a notebook for the survey", "a world map or globe (printed or on a phone)", "a khadi or handloom cloth if you have one"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Every child's right to go to school",
+      "goal": "Learn why so many children could not go to school, what the Right to Education Act promises, and the story of the woman who opened a school for girls when people threw dung at her.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What if you couldn't learn to read?",
+          "mins": 5,
+          "do": "Hand your child a page written in a script they cannot read (for example a newspaper in another Indian language, or a medicine leaflet in very small print) and ask them to find the bus timing or the price on it. Ask: 'How did it feel not to understand?' Then ask: 'What things in daily life would be hard if you could never read?' (Bus boards, medicine labels, bills, letters, signs, forms, a phone message.)"
+        },
+        {
+          "kind": "read",
+          "title": "12.2 Right to Education (pages 154–155)",
+          "mins": 8,
+          "do": "Read section 12.2 aloud, from 'Millions of children of our country' to 'w.e.f. 1 April, 2010', and the 'Some main points' list on page 155. Ask: 'Why do some children not go to school?' (Poverty; they have to work to earn money for their family.) 'What is the full name of the Act?' (The Right of Children to Free and Compulsory Education Act, 2009.) 'From when did it apply?' (1 April 2010.) 'Up to which class is education free, and for which ages?' (Up to class 8, ages 6 to 14.) Add one fact: education is a Fundamental Right in our Constitution (Article 21A, added in 2002), which is why the Act is so strong."
+        },
+        {
+          "kind": "game",
+          "title": "Is the school allowed to do this?",
+          "mins": 8,
+          "do": "Say each situation; your child says 'allowed' or 'not allowed' and gives the RTE rule from page 155. 'A school asks a 6-year-old to pass a test before admission.' (Not allowed.) 'A school asks parents for a donation to give a seat.' (Not allowed.) 'A government school gives free books, uniform and a mid-day meal.' (Allowed; that is the rule.) 'A school refuses a child who has no birth certificate.' (Not allowed.) 'A private school keeps 25% of its first-year seats for children from poor families.' (Allowed; required.) 'Someone runs a school with no government recognition.' (Not allowed; fine up to ₹1 lakh.) 'A child with a disability studies free until 18.' (Allowed.)"
+        },
+        {
+          "kind": "think",
+          "title": "Savitribai Phule, India's first woman teacher",
+          "mins": 10,
+          "do": "Tell the story in Voice v2: in 1848, in Pune, Savitribai Phule and her husband Jyotirao opened one of the first schools for girls run by Indians; on her way to teach, people threw mud and dung at her, so she carried a spare sari to change into at school. Ask: 'Why do you think people were so angry about girls learning to read?' Then ask the voice question. Ask your child to draw Savitribai walking to school with her spare sari.",
+          "ref": "v2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Neighbourhood school watch",
+          "mins": 9,
+          "do": "On a walk or at the market, look around with your child at a time when schools are open. Do you see any children of school age working, for example at a tea stall, a dhaba, a mechanic's shop or selling things at a signal? Do not stare or question the children; just notice and count quietly. At home, explain: in India, children under 14 must not be employed in work, except helping in a family business after school hours, and under RTE every one of them has a right to a free school place. Ask: 'What could stop that child from going to school?' (The family needs money, no one told them about free schools, no documents.) Then do 'Let's see 12.2' on page 155 aloud (answers on page 164)."
+        }
+      ],
+      "need": ["Textbook pages 154–155 and 164", "a page in a script your child cannot read", "paper and crayons"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Our tax money and the right to know",
+      "goal": "Find out that everyone pays taxes, see how tax money pays for public services, learn what the Right to Information Act allows, and hear how villagers in Rajasthan started the movement for it.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Tax detective: read a shop bill",
+          "mins": 10,
+          "do": "Do Activity a1. Take a printed bill from a grocery shop, a restaurant or an online order. Your child finds the word GST (Goods and Services Tax) and the tax amount on it. If it shows CGST and SGST separately, add them together. Then work out together: 'Out of the total we paid, how many rupees went to the government as tax?' Read the book's line on page 155: even the poorest person pays tax when buying something worth ₹2. Ask: 'So whose money does the government spend?' (Everyone's, including ours.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "12.3 Right to Information (pages 155–156)",
+          "mins": 7,
+          "do": "Read section 12.3 aloud from 'We pay many taxes' to the end of the list 'What rights are available under RTI 2005'. Ask: 'What does the government do with tax money?' (Roads, bridges, sewers, hospitals, schools, defence and welfare schemes.) 'Why do people have a right to know how it is spent?' (It is the people's money; and some dishonest officials take bribes or steal from schemes.) 'What can a citizen do under RTI?' (Inspect files and documents, take copies, take samples of materials used in government work, see the muster roll and list of beneficiaries.) Make one date exact: the Act came fully into force on 12 October 2005 (the book says the 13th)."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Spot the public money",
+          "mins": 10,
+          "do": "Walk around your area with your child and list everything that was paid for with public (tax) money: the road, streetlights, the footpath, the drain, a public park, a government school or hospital, a bus stop, the post office, a water tank. Look for a project board at any construction site; many government works display a board with the work's name, cost, start date and the contractor. Your child copies one board. Ask: 'If this road gets broken again after one month, what would you want to know?' (How much was spent, what materials were used, who built it.) 'Under RTI, could you find out?' (Yes.)"
+        },
+        {
+          "kind": "think",
+          "title": "Aruna Roy and the public hearings",
+          "mins": 9,
+          "do": "Tell the story in Voice v3: in Rajasthan in the 1990s, village workers were not being paid properly and roads and schools were being 'built' only on paper. A group called the MKSS, with Aruna Roy, Nikhil Dey and Shankar Singh, got copies of the official records and read them aloud at village meetings, where workers stood up and said, 'I never got this money,' or 'That building was never made.' Their slogan was 'Hamara paisa, hamara hisaab' (our money, our accounts). Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "talk",
+          "title": "Why is openness powerful?",
+          "mins": 4,
+          "do": "Ask: 'If you knew that anyone could check your homework copy any time, would you be more careful?' Then: 'How is that like RTI for government officers?' (When people can check, it is harder to cheat or be careless.) Teach the word transparency: being open so others can see."
+        }
+      ],
+      "need": ["Textbook pages 155–156", "a printed shop or restaurant bill showing GST", "a notebook to copy a project board"],
+      "prep": [{"task": "Keep aside a printed bill from a shop or restaurant that shows GST", "when": "2 days before"}]
+    },
+    {
+      "n": 4,
+      "title": "How to ask: writing an RTI application",
+      "goal": "Learn how to apply under RTI, the fees and time limits and what cannot be asked, write a practice application about a real local question, and check the main ideas with the core worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Method, fees and rules (pages 157–158)",
+          "mins": 8,
+          "do": "Read 'Method of application', 'Application fees', 'Rules for providing information' and 'Which information cannot be disclosed' on pages 157–158 aloud. Ask: 'Do you have to give a reason for asking?' (No.) 'To whom do you send it?' (The Public Information Officer of that department.) 'In which language?' (Hindi, English or the local language, on plain paper.) 'How much is the fee?' (₹10; free for families below the poverty line.) 'How long does the officer have?' (30 days; 48 hours if it concerns someone's life or liberty.) 'What if the officer delays?' (Appeal; the officer can be fined ₹250 a day, up to ₹25,000.) 'What can't be asked?' (Things that would harm the country's security, that a court has forbidden, or that would endanger someone's life.) Tell them that fees for copies and inspection differ a little between central and state rules."
+        },
+        {
+          "kind": "act",
+          "title": "Write a practice RTI application",
+          "mins": 14,
+          "do": "Do Activity a2. Choose a real local question with your child, for example: 'How much money was spent on repairing the road outside our school last year, and which contractor did it?' or 'How many children got free seats under RTE at the private school in our ward this year?' Help your child write it on plain paper following the book's format: To the Public Information Officer, [department name and address]; Subject: Application under the Right to Information Act, 2005; the questions, numbered and clear; the applicant's name, address and date (the parent's details, since you would be the applicant); 'Fee of ₹10 enclosed'. Read it together and ask: 'Is every question clear enough that the officer cannot misunderstand it?' Decide together whether you, the parent, will actually send it; for central government offices it can be filed online at rtionline.gov.in.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Let's see 12.3 (page 159)",
+          "mins": 4,
+          "do": "Ask the four 'Let's see, what you have learnt 12.3' questions on page 158 aloud. Answers (page 164): to get information and make government open and honest; to the Public Information Officer of the department; ₹2 per page for copies; a penalty of ₹250 per day of delay (up to ₹25,000)."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 14,
+          "do": "Do Worksheet ws1 (core). It covers globalization, RTE and RTI. Read items aloud if needed. For any wrong answer, open the page (globalization 153–154, RTE 155, RTI 156–158) and read the line together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 157–158 and 164", "plain paper and a pen", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Work in the village: MGNREGA",
+      "goal": "Learn what MGNREGA promises rural families and how to get work, make a pretend job card and muster roll and audit it for cheating, and weigh up the debate about how well the scheme works.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "12.4 MGNREGA (pages 159–161)",
+          "mins": 9,
+          "do": "Read section 12.4 aloud. Ask: 'Why do people leave villages for cities?' (No work in the village.) 'What does the Act promise?' (Up to 100 days of paid work in a year for each rural household whose adults want to do unskilled manual work.) 'Where do you apply?' (The Gram Panchayat; no fee; it gives a dated receipt.) 'What if no work is given in 15 days?' (An unemployment allowance must be paid.) 'How are wages paid?' (Into a bank or post office account within 15 days; equal pay for women and men.) 'What must be at the work site?' (Drinking water, shade, a crèche for small children, first aid; free treatment if injured.) Two exact points: the Act was passed in 2005 as NREGA and renamed after Mahatma Gandhi in 2009; work is a legal right under this Act, not a Fundamental Right in the Constitution like education. Rules of schemes can change, so check the current rules on the government's NREGA website."
+        },
+        {
+          "kind": "act",
+          "title": "Job card and muster roll: a social audit",
+          "mins": 13,
+          "do": "Do Activity a3. Make a pretend job card for 'Kamla Devi, Village Rampur', with columns: Date, Work, Days worked, Wage paid. Then make a pretend muster roll (attendance list) for a pond-digging work with 6 names and 5 days. Before showing it to your child, secretly add two mistakes: a worker marked present on all 5 days who 'was away at a wedding' (write that note on a separate 'villagers say' slip), and a name that is not on any job card (a fake worker). Your child is the auditor: they compare the muster roll with the job cards and the 'villagers say' slips, and find the mistakes. Ask: 'Who gets the money for a fake worker?' (Someone dishonest.) 'How did you catch it?' (By comparing the record with what people say, just like the MKSS public hearings.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "do",
+          "title": "100-day maths",
+          "mins": 6,
+          "do": "Tell your child that MGNREGA daily wages are set separately for each state and change every year; look up your state's current wage together on the NREGA website, or use ₹250 as a round practice number. Ask: 'If a family gets all 100 days at ₹250, how much do they earn in a year?' (₹25,000.) 'If two members share the 100 days, does the family get more days?' (No, 100 days is per household.) 'If wages are paid 30 days late instead of 15, what problems would the family face?' (No money for food or school fees; they might borrow at high interest.) Then ask Let's see 12.4 on page 161: full form; Gram Panchayat; ₹25,000 compensation (answers on page 164)."
+        },
+        {
+          "kind": "think",
+          "title": "Does MGNREGA work? A live debate",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: the economist Jean Drèze helped draft the law and argues it gives poor families a lifeline; other economists say a lot of money is wasted or stolen and the work created is not always useful; researchers have tested reforms, such as paying wages by smart card, and found they reduced stealing. Ask the voice question. Make it clear that serious people disagree, and that evidence like the audit we just did helps settle such arguments.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet, part 1",
+          "mins": 5,
+          "do": "Do section A of Worksheet ws2 (stretch) aloud: which right or law would help in each situation? Keep sections B and C for tomorrow's start.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 159–161 and 164", "paper, ruler and pencil for the job card and muster roll", "a phone to look up your state's NREGA wage", "worksheet ws2"],
+      "prep": [{"task": "Prepare the pretend muster roll and 'villagers say' slips with two hidden mistakes", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Let's revise, check and teach it back",
+      "goal": "Finish the stretch worksheet, review the lesson with the book's revision and exercise, adapt the 'Let's do and learn' tasks for a child, do the challenge worksheet, check understanding and teach it back.",
+      "steps": [
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet, part 2",
+          "mins": 6,
+          "do": "Do sections B and C of Worksheet ws2 (stretch). Let your child answer aloud while you scribe if writing slows them down.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (pages 161–163)",
+          "mins": 8,
+          "do": "Read the 'Let's Revise' list on page 161 aloud. Then do the Exercise. Q1: (c) connectivity with the whole world; (b) every child; (d) information beneficial for people at large; (c) 100 days. Q2: your child answers in their own words (changes in lifestyle, food and facilities; free books, uniform, mid-day meal, no fees; ₹250 per day of delay, up to ₹25,000). Q3: globalization has made fast changes in our life; every child has right to free education; every citizen has right to information; every labourer will get a job card. Q4: right; wrong (RTE also applies to private schools, which must keep 25% seats); right; wrong (apply to the Gram Panchayat)."
+        },
+        {
+          "kind": "talk",
+          "title": "Let's do and learn, for a child (page 163)",
+          "mins": 5,
+          "do": "Read the two tasks on page 163. For task 1, look again at the practice RTI from Day 4 and decide together whether you (the parent) will send it; if you do, your child keeps a calendar of the 30 days. For task 2, ask: 'Do you know any child near us who does not go to school?' If so, the parent (not the child) can kindly tell the family about free admission under RTE, the 25% seats in private schools and the mid-day meal, and offer to help with the form."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge). Section C asks your child to weigh views; there is no single right answer, so praise reasons that use evidence.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 6,
+          "do": "Ask the 7 check questions aloud without the book. Tick the ones answered well. For any miss, turn to the page (globalization 153–154, RTE 155, RTI 156–158, MGNREGA 159–161) and read together, then ask again in different words. Most children get 5 or more; fewer than 4 means redo Day 3 and Day 5 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: the rights helpline",
+          "mins": 7,
+          "do": "Play 'helpline'. Your child is the helpline worker and you are callers with problems: 'The school wants a ₹20,000 donation for admission.' 'I want to know why our street light has not been fixed for 6 months.' 'I worked 12 days on the village pond but got paid for only 8.' 'My son wants to know why his shoes say Made in Vietnam.' For each, your child explains which law or idea helps and exactly what to do. Ask one last question: 'Which of these rights do you think matters most, and why?'"
+        }
+      ],
+      "need": ["Textbook pages 161–164", "worksheets ws2 and ws3", "the practice RTI application from Day 4"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Our rights and our connected world",
+      "day": 4,
+      "sections": [
+        ["A. Globalization", [
+          {"t": "mcq", "p": "Globalization means:", "opts": ["Flatness of land", "The whole world becoming connected", "Shortage of land", "Greenness of land"], "a": 1},
+          {"t": "write", "p": "Write two things in your home that were made in another country, and two Indian things that are sold in other countries.", "lines": 3},
+          {"t": "fill", "p": "Sitting at home, we can watch news from all over the world on ____.", "a": ["television", "TV", "the television"]}
+        ]],
+        ["B. Right to Education", [
+          {"t": "fill", "p": "Under RTE, education is free and compulsory for children aged 6 to ____.", "a": ["14", "fourteen"]},
+          {"t": "fill", "p": "Private schools must keep ____% of seats for children from poor and disadvantaged families.", "a": ["25"]},
+          {"t": "sort", "p": "Under RTE, is the school allowed to do this?", "items": ["Give free books in a government school", "Ask for a donation for admission", "Test a 6-year-old before admission", "Give a mid-day meal", "Refuse a child with no birth certificate", "Give a free uniform in a government school"], "cats": ["Allowed", "Not allowed"]}
+        ]],
+        ["C. Right to Information", [
+          {"t": "mcq", "p": "Why do citizens have a right to know how the government spends money?", "opts": ["Because it is the people's tax money", "Because officers are bored", "Because it is a game", "Because only rich people pay tax"], "a": 0},
+          {"t": "match", "p": "Match the RTI rule.", "pairs": [["Application fee", "₹10 (free for BPL families)"], ["Time to reply", "30 days"], ["If about someone's life or liberty", "48 hours"], ["Penalty for delay", "₹250 per day, up to ₹25,000"]]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Which right helps?",
+      "day": 5,
+      "sections": [
+        ["A. Situations", [
+          {"t": "match", "p": "Match each problem to the law that helps.", "pairs": [["A 9-year-old girl is kept home to work", "Right to Education Act"], ["A village wants to know how the money for its road was spent", "Right to Information Act"], ["A farm worker has no work in the dry months", "MGNREGA"], ["A school refuses a child for having no transfer certificate", "Right to Education Act"]]},
+          {"t": "write", "p": "Ramu applied for work at the Gram Panchayat 20 days ago and has not got any work. What does MGNREGA say should happen?", "lines": 2}
+        ]],
+        ["B. Money and records", [
+          {"t": "write", "p": "A bill for ₹500 of groceries shows ₹25 GST. How much was the price before tax? Who gets the ₹25, and what might it pay for?", "lines": 3},
+          {"t": "table", "p": "Fill in a job card for 3 weeks of work. Use your state's daily wage or ₹250.", "cols": ["Week", "Days worked", "Wage per day (₹)", "Total (₹)"], "rows": 3, "prefill": ["Week 1", "Week 2", "Week 3"]}
+        ]],
+        ["C. Globalization in my life", [
+          {"t": "write", "p": "Look at your survey from Day 1. Write one good thing and one problem that came from so many things being made in other countries.", "lines": 3},
+          {"t": "mcq", "p": "Under MGNREGA, if work is more than 5 km from the village:", "opts": ["The worker gets nothing", "Extra wages must be paid for travel", "The worker must walk anyway", "Only men can go"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking about fairness and evidence",
+      "day": 6,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Why do you think RTI says you do not have to give a reason for asking for information? What might go wrong if officers could ask 'Why do you want to know?'", "lines": 3},
+          {"t": "mcq", "p": "In our social audit, a worker was marked present on a day the villagers said she was at a wedding. The best next step is to:", "opts": ["Ignore it", "Check other evidence, like the wedding guests and the bank account, before deciding", "Punish her at once", "Tear up the muster roll"], "a": 1},
+          {"t": "fill", "p": "Being open so that anyone can see how money is spent is called ____.", "a": ["transparency"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if there were no RTE Act and schools could charge any fee and test any child? Which children would lose out most?", "lines": 3},
+          {"t": "write", "p": "What if India stopped buying anything from other countries for one year? Think of your survey: what would be missing at home, and which Indian makers might gain?", "lines": 4}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Gandhiji wanted villages to make what they need. Today's world trades everything. Write one strong point for each side.", "lines": 4},
+          {"t": "write", "p": "Some economists say MGNREGA wastes money; others say it saves poor families from hunger. What evidence would help you decide?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Made where? A home globalization survey",
+      "day": 1,
+      "question": "How many of the things in our home were made in other countries?",
+      "need": ["20 household things with labels (electronics, toys, clothes, shoes, packets)", "a notebook", "a world map or globe"],
+      "steps": [
+        "Make a table: Thing, Made in (country).",
+        "Before looking, guess how many of the 20 things will be made in India.",
+        "Find the 'Made in' or 'Country of origin' label on each thing and write it down. If there is none, write 'no label'.",
+        "Count the totals: India, each other country, no label.",
+        "Draw a bar chart of the totals.",
+        "Mark each country on the map and draw a line from it to your home town."
+      ],
+      "predict": "Ask your child to guess first: out of 20 things, how many will be made in India? Which other country will appear most?",
+      "observe": "Record the totals and look at the map. Food, clothes and many daily things are usually Indian; phones, electronics and toys often come from China or other Asian countries. Some things are 'assembled in India' from parts made elsewhere.",
+      "why": "Countries tend to make and sell the things they can make most cheaply or best, and buy other things from abroad. Ships, aeroplanes, containers and the internet make this trade fast and cheap, so a toy made thousands of kilometres away can cost less than one made nearby. Many products are now made in steps across many countries: the design in one, the parts in another, the assembly in a third. This web of trade is one of the biggest parts of globalization. It can bring cheaper goods and new jobs, but it can also put local makers out of work, and long-distance shipping uses a lot of fuel.",
+      "safety": "Do not take apart electrical things to look for labels; read only the outside or the box.",
+      "time": "13 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Tax detective",
+      "day": 3,
+      "mins": 10,
+      "need": ["a printed bill showing GST", "a pencil and paper"],
+      "steps": [
+        "Find the words GST, CGST, SGST or IGST on the bill.",
+        "Write down the tax amount (add CGST and SGST together if they are separate).",
+        "Write down the total amount paid.",
+        "Work out the price before tax: total minus tax.",
+        "List three things in your town that tax money pays for."
+      ],
+      "outcome": "A child who knows that everyone pays tax on what they buy, and so has a right to know how it is spent."
+    },
+    {
+      "id": "a2",
+      "title": "Practice RTI application",
+      "day": 4,
+      "mins": 14,
+      "need": ["plain paper", "a pen", "the name and address of the right government office"],
+      "steps": [
+        "Choose one clear local question about public money or a public service.",
+        "Write 'To the Public Information Officer' with the department's name and address.",
+        "Write the subject: 'Application under the Right to Information Act, 2005'.",
+        "Write the questions, numbered, short and clear.",
+        "Add the applicant's (parent's) name, address, phone number and the date, and note the ₹10 fee.",
+        "Decide together whether to send it, and if you do, mark 30 days on a calendar."
+      ],
+      "outcome": "A correctly written RTI application about a real local question, which the parent may choose to send."
+    },
+    {
+      "id": "a3",
+      "title": "Job card, muster roll and social audit",
+      "day": 5,
+      "mins": 13,
+      "need": ["paper, ruler and pencil", "a pretend muster roll with two hidden mistakes, prepared by the parent", "'villagers say' slips"],
+      "steps": [
+        "Make a pretend job card for one worker with columns for date, work, days and wages.",
+        "Read the pretend muster roll for a pond-digging work: 6 names, 5 days.",
+        "Compare every name with the job cards. Is anyone not on a job card?",
+        "Compare the attendance with the 'villagers say' slips. Does anything not match?",
+        "Write an audit report: what is wrong, and what should be checked next.",
+        "Explain how reading records aloud in a village meeting helps catch mistakes."
+      ],
+      "outcome": "A child who has done a small social audit and understands why open records stop cheating."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Mahatma Gandhi (1869–1948), India",
+      "idea": "In his book 'Hind Swaraj' (1909) and later writings, Gandhi argued that machine-made goods from British mills had destroyed India's village spinners and weavers, and that India should aim for swadeshi (using goods made close to home) and self-reliant villages. From the 1920s he urged everyone to spin on the charkha and wear khadi, and led campaigns to boycott foreign cloth.",
+      "then": "Many freedom fighters joined the khadi movement, and it became a symbol of the struggle. But other leaders, including Jawaharlal Nehru, believed India needed large modern industries and science to end poverty, and after independence India followed a mix of both.",
+      "now": "This is still debated. Since 1991 India has opened up much more to world trade, and many economists credit this with faster growth and less poverty. Others argue, in Gandhi's spirit, that local crafts, small farms and village jobs need protection and that long supply chains harm the environment. Khadi and handloom are still promoted by the government today.",
+      "status": "debated",
+      "ask": "Is it better to buy a cheaper thing from far away, or a costlier one made by someone in your own town? What would you want to know before deciding?",
+      "day": 1
+    },
+    {
+      "id": "v2",
+      "who": "Savitribai Phule (1831–1897), Maharashtra, India",
+      "idea": "Savitribai learned to read and write from her husband, the reformer Jyotirao Phule, at a time when most girls, and almost all girls from 'lower' castes, were kept out of school. In 1848 in Pune, the couple opened one of the first schools for girls run by Indians, and Savitribai became its teacher. They went on to open more schools, including for children of castes then treated as 'untouchable'.",
+      "then": "Many people in Pune were furious; people threw mud and dung at Savitribai on her way to school, and she carried a second sari to change into. The Phules were also forced to leave their family home for a time because of their work.",
+      "now": "Her work is now honoured across India: she is remembered as one of India's first women teachers, her birthday (3 January) is celebrated in Maharashtra, and the University of Pune was renamed Savitribai Phule Pune University in 2014. The idea she fought for, that every child, girl or boy, of any caste, should go to school, is now the law under RTE.",
+      "status": "accepted",
+      "ask": "People who threw dung at Savitribai thought they were protecting their traditions. How can we tell when a tradition is unfair? What evidence did the Phules' students give?",
+      "day": 2
+    },
+    {
+      "id": "v3",
+      "who": "Aruna Roy (born 1946) and the Mazdoor Kisan Shakti Sangathan (MKSS), Rajasthan, India",
+      "idea": "Aruna Roy left the Indian Administrative Service in the 1970s to work with rural poor people. In 1990 she, Nikhil Dey and Shankar Singh helped found the MKSS in Rajasthan. In the 1990s they obtained copies of government records of village works and wages and read them aloud at public hearings (jan sunwai), where villagers exposed fake names, unpaid wages and works that existed only on paper. Their campaign, 'Hamara paisa, hamara hisaab' (our money, our accounts), grew into a national movement for a right to information.",
+      "then": "Officials often refused to show records, saying they were secret. Some officials and local leaders whose cheating was exposed were angry, but the hearings drew huge crowds and media attention.",
+      "now": "Rajasthan passed a state right to information law in 2000, and the national Right to Information Act followed in 2005. Aruna Roy received the Ramon Magsaysay Award in 2000. Millions of RTI applications are now filed each year; campaigners continue to debate later changes to the law and the safety of RTI users.",
+      "status": "accepted",
+      "ask": "Why was reading the records aloud in front of the whole village so much more powerful than one person complaining? What makes evidence convincing?",
+      "day": 3
+    },
+    {
+      "id": "v4",
+      "who": "Jean Drèze (born 1959) and the debate over MGNREGA",
+      "idea": "Drèze, a Belgian-born economist who became an Indian citizen, worked with campaigners and helped draft the employment guarantee law passed in 2005. He and others argue that a legal right to work protects poor rural families from hunger in bad seasons, gives women their own wages, and builds useful village works like ponds and roads.",
+      "then": "Some economists and officials argued the scheme was too costly, that money leaked to corrupt middlemen and fake workers, and that much of the work created little lasting value.",
+      "now": "Studies have found evidence on both sides. Leakage and late wage payments have been real problems. A large study in Andhra Pradesh by Karthik Muralidharan, Paul Niehaus and Sandip Sukhtankar (published in 2016) found that paying wages through biometric smart cards made payments faster and reduced leakage. How much the scheme reduces poverty, and how best to run it, is still debated.",
+      "status": "debated",
+      "ask": "If some money in a scheme is stolen, should we stop the scheme or fix how it is run? What evidence would help you choose?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is globalization? Give an example from your home.", "a": "The whole world becoming connected through trade, travel, jobs and communication; for example a phone or toy made in another country, or Indian tea sold abroad."},
+    {"q": "What does the Right to Education Act promise?", "a": "Free and compulsory education up to class 8 for every child aged 6 to 14 (up to 18 for children with disabilities), free books, uniform and mid-day meal in government schools, 25% seats in private schools for poor children, no admission tests, no donations, no refusal for missing documents."},
+    {"q": "Why do citizens have a right to know how the government spends money?", "a": "Because it is the people's money: everyone pays tax, even on small things. Knowing how it is spent helps stop cheating and makes the government open and accountable."},
+    {"q": "How do you apply under RTI, and how soon must the answer come?", "a": "Write on plain paper to the Public Information Officer of the department, with ₹10 fee (free for BPL families), no reason needed. The answer must come in 30 days, or 48 hours if it concerns someone's life or liberty; delay can bring a ₹250-a-day penalty, up to ₹25,000."},
+    {"q": "What does MGNREGA promise, and where do you apply?", "a": "Up to 100 days of paid manual work a year to each rural household that wants it, applied for at the Gram Panchayat. Job card free; work within 15 days or an allowance; wages into a bank or post office account within 15 days; equal pay for women and men."},
+    {"q": "What facilities must be at an MGNREGA work site?", "a": "Drinking water, shade, a crèche for small children, and free treatment if a worker is injured."},
+    {"q": "How did our social audit catch cheating, and who started public hearings like this?", "a": "By comparing the muster roll with job cards and what villagers said, we found a fake name and a wrong attendance. The MKSS with Aruna Roy in Rajasthan read official records aloud at village hearings, which led to the RTI movement."}
+  ]
+}

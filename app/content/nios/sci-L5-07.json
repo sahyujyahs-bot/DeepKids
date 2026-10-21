@@ -1,0 +1,857 @@
+{
+  "key": "nios|sci|5|7",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 7,
+  "title": "Life of Plants and Animals",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 7 (lesson pages 112–122)",
+  "summary": "Plants and animals depend on each other: green plants make food by photosynthesis and keep oxygen and carbon dioxide in balance; they give animals shelter; and animals pollinate flowers and carry seeds far away. Your child learns food chains and food webs (the book calls them 'food traps'), herbivores, carnivores, omnivores, scavengers and decomposers, how nature stays balanced and what happens when people upset it by hunting or cutting forests, and how communities like the Bishnois and the Chipko women, and laws, national parks and sanctuaries, protect forests and wildlife.",
+  "goals": [
+    "By the end your child can explain photosynthesis (what goes in, what comes out, and why light is needed) and how plants and animals together keep the air's oxygen and carbon dioxide balanced.",
+    "By the end your child can describe three ways animals help plants (pollination, carrying seeds, enriching soil) and two ways plants help animals (food, shelter).",
+    "By the end your child can build food chains and a food web from real Indian animals, and sort animals into herbivores, carnivores, omnivores and scavengers, adding decomposers.",
+    "By the end your child can explain what natural balance is and predict what happens when a predator is removed or a forest is cut, using real examples.",
+    "By the end your child can name ways to protect forests and animals, and tell the stories of the Bishnois of Khejarli and the Chipko movement.",
+    "By the end your child can design and run a fair test, such as the floating leaf test, and record the results."
+  ],
+  "words": [
+    [
+      "photosynthesis",
+      "the way green plants make their own food (sugar) from carbon dioxide and water using sunlight, giving out oxygen"
+    ],
+    [
+      "chlorophyll",
+      "the green substance in leaves that captures sunlight for photosynthesis"
+    ],
+    [
+      "respiration",
+      "the way living things, plants included, use oxygen to release energy from food, giving out carbon dioxide"
+    ],
+    [
+      "pollination",
+      "carrying pollen from one flower to another (or within a flower) so that seeds can form"
+    ],
+    [
+      "seed dispersal",
+      "the spreading of seeds away from the parent plant by animals, wind or water"
+    ],
+    [
+      "food chain",
+      "a line showing who eats whom, always starting with a green plant, such as grass → deer → tiger"
+    ],
+    [
+      "food web",
+      "many food chains joined together like a net; the book calls it a 'food trap'"
+    ],
+    [
+      "herbivore / carnivore / omnivore",
+      "an animal that eats only plants / only other animals / both"
+    ],
+    [
+      "scavenger",
+      "an animal that eats dead animals, such as a vulture or hyena"
+    ],
+    [
+      "decomposer",
+      "a tiny living thing (bacteria, fungi) that breaks down dead plants and animals into the soil"
+    ],
+    [
+      "natural balance",
+      "the way the numbers of plants, plant-eaters and meat-eaters stay roughly steady in nature"
+    ],
+    [
+      "wildlife sanctuary / national park",
+      "protected areas where wild animals and plants are kept safe from hunting and tree-cutting"
+    ]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Plants make the food, and the air",
+      "goal": "Discover how much animals depend on plants, learn photosynthesis, and test whether leaves really make oxygen in light.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Who lives in this tree?",
+          "mins": 8,
+          "do": "Go to a big tree near home (neem, peepal, banyan, mango or gulmohar). Spend 5 minutes quietly watching with your child. List every animal you see using it: squirrels, crows, mynas, parrots, ants, spiders, caterpillars, bees, a lizard, bats at dusk, people in its shade. For each, ask: 'What is it using the tree for: food, home, shade, or a place to hunt?' Then ask the book's opening question: 'Can you think of any place in nature with plants but no animals, or animals but no plants?' (Almost nowhere: they are always found together.)"
+        },
+        {
+          "kind": "read",
+          "title": "Plants and animals need each other (lesson pages 112–113)",
+          "mins": 9,
+          "do": "Read the lesson opening and section 7.1 up to 'Photosynthesis'. Draw the photosynthesis equation in words with arrows: carbon dioxide (from the air) + water (from the roots) + sunlight (caught by green chlorophyll) → food (sugar) + oxygen. Then the reverse: all living things, including plants, breathe (respire) all day and night, taking in oxygen and giving out carbon dioxide. Ask the book's question: 'Animals breathe all day and night, so why doesn't the air run out of oxygen?' (Plants, on land and the tiny algae in the sea, make more oxygen by day than all living things use.) Add: roughly half of the world's oxygen is made by tiny floating algae in the oceans."
+        },
+        {
+          "kind": "exp",
+          "title": "The floating leaf test",
+          "mins": 18,
+          "do": "Do Experiment e1. Punch leaf discs from a spinach or palak leaf with a straw, sink them in baking-soda water using a syringe, and put one cup in bright light and one in the dark. Ask for a prediction before you start. Watch for 10–15 minutes as the discs in light begin to float. While you wait, read Voice v1.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Ingenhousz and the candle",
+          "mins": 6,
+          "do": "Discuss Voice v1. Ask the 'ask' question. Then ask: 'Our light cup and dark cup were the same in everything except light. Why did that matter?' (So we know light, and nothing else, made the difference: a fair test.)",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "Say it back",
+          "mins": 4,
+          "do": "Ask your child to explain photosynthesis to you using the floating discs as evidence: what went in, what came out, and why the dark discs stayed down."
+        }
+      ],
+      "need": [
+        "Lesson pages 112–113",
+        "a fresh spinach (palak) leaf",
+        "a drinking straw",
+        "a plastic syringe without needle (5 or 10 ml, from a chemist)",
+        "half a teaspoon of baking soda",
+        "one drop of dishwashing liquid",
+        "2 clear cups or glasses",
+        "a bright lamp or sunny window, and a dark cupboard"
+      ],
+      "prep": [
+        {
+          "task": "Buy a 10 ml syringe (no needle) from a chemist and fresh spinach",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Homes, flowers and travelling seeds",
+      "goal": "Learn how plants shelter animals and how animals pollinate flowers and spread seeds, and start two experiments that need waiting.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Shelter, pollination and seeds (lesson page 114)",
+          "mins": 8,
+          "do": "Read the rest of section 7.1. Ask: 'What did we see living in our tree yesterday?' Then read about pollination: insects and birds visit flowers to drink nectar; pollen sticks to their legs, wings and face and rubs off on the next flower. Explain why it matters: a flower that gets pollen can make seeds and fruit. Many of our foods, such as mango, apple, cucumber, pumpkin, cardamom and almond, need animal pollinators, mostly bees. Then read how birds and animals carry seeds: in their droppings after eating fruit, and stuck to their fur."
+        },
+        {
+          "kind": "do",
+          "title": "Look inside a flower",
+          "mins": 10,
+          "do": "Take a large flower (hibiscus/gudhal is best; lily or a big rose also works). Show your child the petals (bright colours and scent to attract insects), the long tube in the middle with yellow powdery tips (stamens, carrying pollen), and the sticky tips at the very top (stigma, which receives pollen). Your child touches the stamen with a cotton bud, sees the yellow pollen, then dabs it on the sticky stigma: 'You have just done what a bee does.' Ask: 'Why are so many flowers bright and sweet-smelling, but grass flowers small and green?' (Bright flowers attract insects; grass is pollinated by wind, so it doesn't need to.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Sock walk: do we carry seeds too?",
+          "mins": 13,
+          "do": "Start Experiment e2. Your child pulls an old fuzzy sock over one shoe and walks slowly through a patch of weeds, long grass or a vacant plot for 5 minutes. Look at the sock: how many seeds and burrs are stuck to it? Then 'plant' the sock: lay it in a tray of damp soil, cover lightly with soil, and water. Ask for a prediction: 'Will anything grow?' Check it every couple of days.",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the rotting test",
+          "mins": 8,
+          "do": "Start Experiment e3. In a pot or tub of garden soil, bury four things in a row, each marked with an ice-cream stick: a banana peel, a dry leaf, a piece of newspaper and a small plastic wrapper. Keep the soil damp. Ask your child to predict which will disappear first and which will not change at all. You will dig them up on Day 4 and Day 6.",
+          "ref": "e3"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 7.1 (lesson page 114)",
+          "mins": 6,
+          "do": "Do 'Let's see, what you have learnt 7.1' aloud: leaves make food from carbon dioxide, water and sunlight (the book's key lists water and carbon dioxide); in breathing we take in oxygen and give out carbon dioxide; carrying pollen from flower to flower is pollination."
+        }
+      ],
+      "need": [
+        "Lesson page 114",
+        "a large flower (hibiscus)",
+        "a cotton bud",
+        "an old fuzzy sock",
+        "2 trays or pots of garden soil",
+        "a banana peel, a dry leaf, a piece of newspaper, a small plastic wrapper",
+        "4 ice-cream sticks"
+      ],
+      "prep": [
+        {
+          "task": "Find a weedy patch or vacant plot nearby for the sock walk",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Who eats whom? Food chains and webs",
+      "goal": "Build food chains and a food web, and sort animals by what they eat.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Food chains (lesson pages 114–115)",
+          "mins": 8,
+          "do": "Read section 7.2 to the end of the food chain picture. Write the book's chain with arrows meaning 'is eaten by': grass → deer → lion. Explain that the arrow shows which way the food's energy goes. Ask your child to make three more chains from Indian places: a field (wheat → mouse → snake → eagle), a pond (algae → small fish → kingfisher), a garden (leaf → caterpillar → myna). Ask: 'Why does every food chain start with a green plant?' (Only green plants can make food from sunlight; everything else eats plants or eats animals that ate plants.)"
+        },
+        {
+          "kind": "act",
+          "title": "Yarn food web",
+          "mins": 15,
+          "do": "Do Activity a1. Make a food web with name cards and a ball of string or wool. Then pull the 'frog' card out and see how many strings go slack. Read the book's line on food webs (page 115) and tell your child the correct name: the book's 'food trap' is usually called a food web.",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "Plant-eaters, meat-eaters and cleaners (lesson page 115)",
+          "mins": 8,
+          "do": "Read about herbivores, carnivores, omnivores and scavengers. Add the fifth group the book only mentions on page 117: decomposers (bacteria and fungi, such as mushrooms and mould), which break down dead things into soil. Ask: 'What would the forest look like if nothing ever rotted?' (Piled with dead leaves and bodies; and the soil would run out of food for new plants.) Tell your child about India's vultures: in the 1990s and 2000s their numbers crashed by more than 95%, because they ate dead cattle treated with a painkiller called diclofenac, which poisoned them. It was banned for veterinary use in 2006, and vultures are now slowly being bred and protected."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 7.2 (lesson page 116)",
+          "mins": 10,
+          "do": "Do 'Let's see, what you have learnt 7.2'. I: plants; a food web (food trap); carnivores; scavengers. II: your child sorts the 16 animals: herbivores – horse, buffalo, elephant, deer; carnivores – tiger, leopard, lion, frog (it eats insects), cat (cats need meat; the book's key wrongly puts cat with omnivores); omnivores – man, mouse, dog (dogs eat many foods), fox (foxes also eat fruit); scavengers – kite, vulture, jackal (jackals also hunt). Point out that some animals fit two groups: nature doesn't always fit our boxes."
+        },
+        {
+          "kind": "exp",
+          "title": "Check the sock tray",
+          "mins": 4,
+          "do": "Look at the sock tray from Experiment e2. Water it if dry. Anything yet? (Usually not yet; seeds may take a week or more.) Your child writes the date and 'nothing yet' or what they see.",
+          "ref": "e2"
+        }
+      ],
+      "need": [
+        "Lesson pages 114–116",
+        "a ball of string or wool",
+        "12 cards with animal and plant names",
+        "the sock tray"
+      ],
+      "prep": [
+        {
+          "task": "Write 12 cards: sun, grass, grain, leaves, grasshopper, caterpillar, mouse, rabbit, frog, snake, sparrow, eagle",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Natural balance and what upsets it",
+      "goal": "Understand natural balance, see decomposers at work, and learn what happens when predators are removed.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Natural balance and bacteria (lesson pages 116–117)",
+          "mins": 7,
+          "do": "Read 7.3. Draw a circle on paper: plants → herbivores → carnivores → (when they die) scavengers and bacteria → soil → plants again. Explain that it is a cycle: nutrients go round and round. Bacteria are too small to see without a microscope; if you have a phone with a good zoom, look at mould on old bread together (don't touch or sniff it) and say, 'This is a fungus, another decomposer.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Dig up the rotting test",
+          "mins": 7,
+          "do": "Carefully dig up the four items from Experiment e3 with a spoon. Compare with the prediction. The banana peel is usually brown, soft and partly eaten away, the leaf a little softer, the newspaper soggy and starting to break, the plastic unchanged. Explain the 'why'. Rebury them in the same places for a final check on Day 6.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "When balance breaks (lesson pages 117–118)",
+          "mins": 8,
+          "do": "Read 7.4. Ask your child to retell the chain of events if carnivores disappear: more herbivores → plants over-eaten → herbivores starve → everyone suffers. Read why prey animals have many young: a rabbit has 6–8 babies at a time, a lion only 1–2 cubs (actually lionesses often have 2–4). Ask: 'Why would an animal that is eaten a lot need to have many babies?' (So enough survive to keep the population going.) Then read what happens when forests are cut: animals lose homes and food; less water vapour rises from leaves, so less rain; rain rushes off bare land, causing floods and soil loss, then drought; more carbon dioxide in the air."
+        },
+        {
+          "kind": "talk",
+          "title": "Remove one animal: two real experiments",
+          "mins": 12,
+          "do": "Read Voice v2 (Robert Paine's starfish) and Voice v3 (Yellowstone's wolves). After each, ask your child to draw the food chain on paper and cross out the predator, then predict what changes, before you tell them the result. Ask the 'ask' question of v3. Compare with India: since Project Tiger began in 1973, tiger reserves have protected not just tigers but whole forests, because a tiger needs a big, healthy forest full of deer and plants.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 7.3 and core worksheet",
+          "mins": 8,
+          "do": "Do 'Let's see, what you have learnt 7.3' aloud: herbivores (vegetarians); bacteria; trees (plants), slowly; numbers (they have more young). Then your child does core worksheet ws1.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "think",
+          "title": "Wolves: what really caused it?",
+          "mins": 3,
+          "do": "Come back to Voice v3, the Yellowstone wolves debate. Ask its 'ask' question and let your child suggest a fair comparison, for example two similar valleys, one with wolves and one without, measured over the same years.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Lesson pages 116–118",
+        "the rotting-test pot and a spoon",
+        "old mouldy bread in a sealed bag (optional)",
+        "paper and pencil",
+        "worksheet ws1"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Protecting forests and animals",
+      "goal": "Learn how people and laws protect forests and wildlife, from the Bishnois and Chipko to national parks, and survey trees near home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Bishnois (lesson page 118)",
+          "mins": 8,
+          "do": "Read 7.5 and the Bishnoi story. Add the history: the Bishnois are a community of western Rajasthan who follow 29 rules set by Guru Jambheshwar in the 15th century, including not cutting green trees and protecting animals. In 1730, at Khejarli village near Jodhpur, the Maharaja's men came to cut khejri trees for wood. According to Bishnoi tradition, a woman named Amrita Devi hugged a tree, saying 'A chopped head is cheaper than a felled tree', and she, her three daughters and 363 Bishnois in all were killed before the Maharaja stopped the cutting and forbade it in Bishnoi villages. Parent note: tell it as a story of courage without dwelling on the killing. Ask the book's question: 'Why did the Bishnois not allow the trees to be cut?' (The khejri gave shade, fodder, food and firewood in the desert, and their faith taught them to protect living things.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Chipko: hugging the trees",
+          "mins": 8,
+          "do": "Read Voice v4 about the Chipko movement and Gaura Devi. Ask the 'ask' question. Point out the link: Chipko took inspiration partly from the Bishnoi story.",
+          "ref": "v4"
+        },
+        {
+          "kind": "read",
+          "title": "Protecting animals (lesson pages 118–119)",
+          "mins": 7,
+          "do": "Read the end of 7.5: stop hunting, don't use articles made from animal skin, make protected areas. Add the laws: the Wildlife (Protection) Act of 1972 bans hunting of protected animals; Project Tiger began in 1973 and Project Elephant in 1992. The 2022 tiger count found at least 3,167 tigers in India, about three-quarters of the world's wild tigers. Explain the difference: a wildlife sanctuary protects animals but may allow some local use such as grazing; a national park has stricter protection. Ask: 'Name a national park from Lesson 1.' (Corbett, Kaziranga, Dudhwa, Kanha.)"
+        },
+        {
+          "kind": "act",
+          "title": "Tree survey",
+          "mins": 14,
+          "do": "Do Activity a2. Walk around your building, street or colony for 10 minutes. Your child counts every tree, identifies as many as possible (ask neighbours or use a plant app), and marks any recently cut stumps. Back home, they work out: how many trees per house or building? Which tree is commonest? Which gives most shade and food to animals?",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 7.4 and sock check",
+          "mins": 8,
+          "do": "Do 'Let's see, what you have learnt 7.4' aloud. I: stop cutting trees without permission; plant more trees (and replant where trees are cut). II: the Bishnois are known for protecting trees and animals. III: protected forests where wild animals are specially kept safe. Then check the sock tray (Experiment e2): water it and note any seedlings. Your child starts stretch worksheet ws2, Section A.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Lesson pages 118–119",
+        "a notebook for the tree survey",
+        "a phone with a plant identification app (optional)",
+        "worksheet ws2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Revise, check and teach it back",
+      "goal": "Finish the experiments, review the lesson with the book's exercise and the worksheets, check understanding and teach it back.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Final checks",
+          "mins": 6,
+          "do": "Dig up the Experiment e3 items one last time and record what is left. Look at the Experiment e2 sock tray: count the seedlings, if any, and say how many different kinds there seem to be. If nothing has come up yet, keep watering for another week. Ask: 'Who planted these?' (Animals and people that carried seeds, just like us on the sock walk.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (lesson pages 119–121)",
+          "mins": 10,
+          "do": "Read 'Let's Revise' together. Then do the Exercise aloud. I: plant → rabbit → fox (or lion, or eagle); grain → mouse → snake → eagle (the book's answer is cat or dog); plants → insects → frog → snake → kite. II: herbivores (cow, buffalo), carnivores (tiger, leopard), omnivores (human, bear), scavengers (vulture, hyena). III: less rain, and more floods and droughts; animals lose homes; more carbon dioxide. IV: stop hunting, don't buy animal-skin goods, make national parks and sanctuaries. V: explain photosynthesis and pollination in their own words."
+        },
+        {
+          "kind": "ws",
+          "title": "Finish stretch, try challenge",
+          "mins": 11,
+          "do": "Your child finishes stretch worksheet ws2, then does challenge worksheet ws3 with you. Praise answers that use the experiments as evidence.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick good answers. For any miss, go back to the right experiment or page and ask again. Six or more right is good."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back and slogans",
+          "mins": 10,
+          "do": "Your child is the teacher. Using the floating-disc results, the yarn web cards, the rotting-test items and the sock tray, they teach you in five minutes how plants and animals depend on each other, what a food web is, and why balance matters. Ask two 'student' questions: 'If we kill all the snakes, won't the village be safer?' (No: rats would multiply and eat the crops.) and 'Why do plants need animals?' Then do Activity a3, the book's 'Come, let's see' task: make two slogans for protecting animals and forests.",
+          "ref": "a3"
+        }
+      ],
+      "need": [
+        "Lesson pages 119–121",
+        "the rotting-test pot and sock tray",
+        "the yarn web cards",
+        "worksheets ws2 and ws3",
+        "chart paper and colours for slogans"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Plants, animals and food chains",
+      "day": 4,
+      "sections": [
+        [
+          "A. Photosynthesis and pollination",
+          [
+            {
+              "t": "fill",
+              "p": "Green leaves make food from carbon dioxide, water and ____.",
+              "a": [
+                "sunlight",
+                "sun light",
+                "light"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "During photosynthesis, plants give out the gas ____.",
+              "a": [
+                "oxygen"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Carrying pollen from one flower to another is called ____.",
+              "a": [
+                "pollination"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "How do the seeds of plants with hooks and burrs travel?",
+              "opts": [
+                "They stick to animals' fur and fall off far away",
+                "They are blown only by wind",
+                "They float on water only",
+                "They never travel"
+              ],
+              "a": 0
+            }
+          ]
+        ],
+        [
+          "B. Food chains",
+          [
+            {
+              "t": "write",
+              "p": "Complete the chain: grass → ____ → tiger.",
+              "lines": 1
+            },
+            {
+              "t": "write",
+              "p": "Write a food chain of four living things from a pond, a field or a garden.",
+              "lines": 1
+            },
+            {
+              "t": "mcq",
+              "p": "Every food chain starts with:",
+              "opts": [
+                "a lion",
+                "a green plant",
+                "a scavenger",
+                "bacteria"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "C. Who eats what?",
+          [
+            {
+              "t": "sort",
+              "p": "Sort these animals.",
+              "items": [
+                "Cow",
+                "Deer",
+                "Tiger",
+                "Leopard",
+                "Human",
+                "Bear",
+                "Vulture",
+                "Hyena"
+              ],
+              "cats": [
+                "Herbivore",
+                "Carnivore",
+                "Omnivore",
+                "Scavenger"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Tiny living things that break down dead plants and animals into the soil, such as bacteria and fungi, are called ____.",
+              "a": [
+                "decomposers",
+                "decomposer"
+              ]
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Balance and protection",
+      "day": 5,
+      "sections": [
+        [
+          "A. Predict",
+          [
+            {
+              "t": "write",
+              "p": "Farmers in a village kill all the snakes. What will happen to the number of rats, and then to the crops? Explain with a food chain.",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "A forest on a hill is cut down. Write three things that will change for the animals, the rain and the river below.",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "Why do rabbits have many babies but lions only a few?",
+              "opts": [
+                "Rabbits are bigger",
+                "Rabbits are eaten a lot, so many young help enough survive",
+                "Lions don't like children",
+                "Rabbits live longer"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Your experiments",
+          [
+            {
+              "t": "table",
+              "p": "Your rotting test results.",
+              "cols": [
+                "Item",
+                "Day 4",
+                "Day 6",
+                "Rots? (yes/slowly/no)"
+              ],
+              "rows": 4,
+              "prefill": [
+                "Banana peel",
+                "Dry leaf",
+                "Newspaper",
+                "Plastic wrapper"
+              ]
+            },
+            {
+              "t": "write",
+              "p": "In the floating leaf test, why did the discs in light float but not the discs in the dark?",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "C. Protecting nature",
+          [
+            {
+              "t": "match",
+              "p": "Match each to what it is.",
+              "pairs": [
+                [
+                  "Bishnois",
+                  "Rajasthan community that protects trees and animals"
+                ],
+                [
+                  "Chipko",
+                  "1970s movement in the Himalaya to hug trees and stop felling"
+                ],
+                [
+                  "Project Tiger",
+                  "Begun in 1973 to protect tigers and their forests"
+                ],
+                [
+                  "Wildlife Protection Act",
+                  "1972 law banning hunting of protected animals"
+                ]
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Your tree survey: how many trees did you count, and which was commonest? Suggest one tree your colony could plant and why.",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like an ecologist",
+      "day": 6,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "write",
+              "p": "A plant both breathes (takes in oxygen, gives out carbon dioxide) and photosynthesises (takes in carbon dioxide, gives out oxygen). How can it be giving out oxygen overall during the day? What happens at night?",
+              "lines": 4
+            },
+            {
+              "t": "mcq",
+              "p": "India's vultures almost disappeared after eating cattle treated with a painkiller. Which problem would you expect to grow?",
+              "opts": [
+                "More dead animals left rotting, and more stray dogs and rats feeding on them",
+                "More rain",
+                "Fewer cattle",
+                "More tigers"
+              ],
+              "a": 0
+            }
+          ]
+        ],
+        [
+          "B. Weigh the evidence",
+          [
+            {
+              "t": "write",
+              "p": "Scientists argue about how much Yellowstone's wolves alone helped the trees grow back, since other things changed too. What other things might have helped? How could you test whether wolves were the main cause?",
+              "lines": 4
+            },
+            {
+              "t": "write",
+              "p": "Design a fair test: does a leaf make more oxygen in bright sunlight or under a dim bulb? Say what you will change, what you will keep the same, and what you will measure.",
+              "lines": 4
+            }
+          ]
+        ],
+        [
+          "C. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if all the bees in India disappeared? Name three foods that would become scarce, and explain why.",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The floating leaf test: do leaves make oxygen in light?",
+      "day": 1,
+      "question": "Do leaf pieces make gas (oxygen) when they have light, and not in the dark?",
+      "need": [
+        "a fresh spinach leaf",
+        "a drinking straw",
+        "a 5 or 10 ml plastic syringe without needle",
+        "half a teaspoon of baking soda",
+        "1 drop of dishwashing liquid",
+        "a glass of water",
+        "2 clear cups",
+        "a bright lamp or sunny window",
+        "a dark cupboard or a box",
+        "a timer"
+      ],
+      "steps": [
+        "Dissolve the baking soda in the glass of water and add 1 drop of dish soap. Pour half into each clear cup. (Baking soda gives the water extra carbon dioxide.)",
+        "Press the straw into the leaf to punch out 20 small discs, avoiding the big veins.",
+        "Take the plunger out of the syringe, drop in 10 discs, put the plunger back and suck up a little baking-soda water.",
+        "Point the syringe up, push out the air, then put a finger over the tip and pull the plunger back hard for a few seconds. This pulls air out of the discs. Repeat 2–3 times until the discs sink.",
+        "Empty the sunk discs into cup 1. Do the same with the other 10 discs for cup 2.",
+        "Put cup 1 under a bright lamp or in sunlight, and cup 2 in a dark cupboard. Every 2 minutes for 16 minutes, count how many discs are floating in cup 1; check cup 2 at the end."
+      ],
+      "predict": "Ask your child to guess first: will the discs float again? In which cup? How long will it take?",
+      "observe": "Record the number of floating discs every 2 minutes. In the light cup, discs usually start to rise after 5–10 minutes and most float within 15–20 minutes. In the dark cup, most stay at the bottom.",
+      "why": "Leaves have tiny air spaces inside. Pulling with the syringe sucks out that air and fills the spaces with water, so the discs sink. In light, the green chlorophyll in the leaf captures energy, and the leaf uses carbon dioxide (from the baking soda) and water to make sugar, giving out oxygen gas. The oxygen fills the air spaces again, and like tiny life jackets the bubbles make the discs float. In the dark there is no light energy, so no photosynthesis, no oxygen, and the discs stay down. The leaf cells are still breathing (respiring) in the dark, but that uses oxygen rather than making extra. Changing only the light, and keeping everything else the same, makes this a fair test.",
+      "safety": "Use a syringe without a needle. Don't drink the baking-soda water.",
+      "time": "18 min"
+    },
+    {
+      "id": "e2",
+      "title": "The sock walk: do animals and people carry seeds?",
+      "day": 2,
+      "question": "When animals (or people) walk through plants, do they carry seeds away? Will those seeds grow?",
+      "need": [
+        "an old fuzzy sock that fits over a shoe",
+        "a weedy patch, long grass or vacant plot",
+        "a tray or wide pot of garden soil",
+        "water",
+        "a magnifying glass (optional)"
+      ],
+      "steps": [
+        "Pull the sock over your child's shoe.",
+        "Walk slowly through the weedy patch for 5 minutes, brushing through the plants.",
+        "Take the sock off carefully and look at it with a magnifying glass. Count and draw the different seeds and burrs stuck to it.",
+        "Lay the sock flat on damp soil in the tray, sprinkle a thin layer of soil over it and water it gently.",
+        "Keep it in a sunny spot and keep it damp. Check every two days for 1–2 weeks and record what grows."
+      ],
+      "predict": "Ask your child to guess first: how many seeds will stick to the sock? Will any grow when planted?",
+      "observe": "Many small seeds and spiky burrs (from plants like puncture vine, beggar's ticks or grasses) cling to the sock. After about a week to two weeks, several small seedlings, often of different kinds, sprout from the sock.",
+      "why": "Plants cannot walk, so they have ways of sending their seeds away from the parent, where the young plants won't have to compete with it for light and water. Some seeds have hooks, spines or sticky coats that catch on animals' fur, birds' feathers, or people's clothes and socks; they drop off later, often far away. Others are inside tasty fruits: animals eat the fruit and the seeds pass out in their droppings, sometimes ready to sprout. The sock is acting like an animal's furry leg, showing just how many seeds one walk can carry.",
+      "safety": "Avoid patches with thorns, broken glass or snakes. Wash hands after handling soil and seeds.",
+      "time": "13 min to start + 1 min checks over 1–2 weeks"
+    },
+    {
+      "id": "e3",
+      "title": "What rots, and what doesn't?",
+      "day": 2,
+      "question": "Which things are broken down by decomposers in the soil, and how fast?",
+      "need": [
+        "a pot or tub of garden soil (not sterile potting mix)",
+        "a banana peel piece",
+        "a dry leaf",
+        "a piece of newspaper",
+        "a small plastic wrapper",
+        "4 ice-cream sticks as markers",
+        "water",
+        "a spoon"
+      ],
+      "steps": [
+        "Bury the four items in a row, about 3 cm deep, each with a labelled stick beside it.",
+        "Keep the soil damp (not soaked) and the pot in the shade.",
+        "On Day 4, gently dig up each item with a spoon, look closely and draw it, then rebury it.",
+        "On Day 6, dig up and look again.",
+        "Make a table of what changed for each item."
+      ],
+      "predict": "Ask your child to guess first: which item will change most? Which will not change at all?",
+      "observe": "The banana peel turns brown and soft, may have white or green fuzz (fungus) and starts to fall apart. The leaf softens slowly. The newspaper gets soggy and may begin to break up. The plastic looks exactly the same.",
+      "why": "Soil is full of decomposers: bacteria and fungi too small to see one by one, plus earthworms and tiny insects. They feed on dead plant and animal material, breaking it down into simpler substances that become part of the soil and feed new plants. This is how nature recycles. Soft, wet, sugary things like a banana peel are easy to eat and rot fast; dry leaves and paper (made of tough plant fibre) rot more slowly. Plastic is made from petroleum, and almost no decomposers can eat it, so it stays for hundreds of years. That is why plastic litter builds up, while a fallen leaf disappears.",
+      "safety": "Wash hands after handling soil and rotting items. Don't sniff or touch mould closely.",
+      "time": "8 min to set up + 7 min check on Day 4 + 6 min check on Day 6"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Yarn food web",
+      "day": 3,
+      "mins": 15,
+      "need": [
+        "12 cards: sun, grass, grain, leaves, grasshopper, caterpillar, mouse, rabbit, frog, snake, sparrow, eagle",
+        "a ball of string or wool",
+        "a few family members, or stick the cards to cushions in a circle"
+      ],
+      "steps": [
+        "Place the cards in a circle on the floor (or give one to each person).",
+        "Start at 'sun' and pass the string to 'grass', saying 'The sun gives energy to the grass.'",
+        "Keep passing it from food to eater: grass → grasshopper, grasshopper → frog, frog → snake, snake → eagle; grain → mouse, mouse → snake, mouse → eagle; leaves → caterpillar, caterpillar → sparrow, sparrow → eagle; grass → rabbit, rabbit → eagle; grasshopper → sparrow.",
+        "Look at the tangle: this is a food web.",
+        "Now 'remove' the frog: take its card away. Which strings go slack? Who loses food? Who might increase?",
+        "Discuss: which card, if removed, would collapse the whole web? (The plants, or the sun.)"
+      ],
+      "outcome": "A physical food web that shows how living things are linked, and how removing one can affect many others."
+    },
+    {
+      "id": "a2",
+      "title": "Tree survey of our colony",
+      "day": 5,
+      "mins": 14,
+      "need": [
+        "a notebook",
+        "a pencil",
+        "a phone plant app or a knowledgeable neighbour (optional)"
+      ],
+      "steps": [
+        "Walk around your building, street or colony for 10 minutes.",
+        "Count every tree. Write each kind you can name (neem, peepal, mango, coconut, ashoka, gulmohar, jamun).",
+        "Mark any recently cut stumps.",
+        "Note animals you see using the trees.",
+        "Back home, make a tally chart: which tree is commonest? How many trees per building or house?",
+        "Suggest one place where a new tree could be planted."
+      ],
+      "outcome": "A count and map of local trees, with evidence of how many animals depend on them and a plan for one new tree."
+    },
+    {
+      "id": "a3",
+      "title": "Save the forest slogans",
+      "day": 6,
+      "mins": 10,
+      "need": [
+        "chart paper",
+        "colours"
+      ],
+      "steps": [
+        "Do the book's 'Come, let's see' task: think of two short slogans for protecting animals and forests.",
+        "Make them catchy and true, for example 'No trees, no bees, no food on our plates' or 'Hug a tree, it gives you air for free'.",
+        "Draw a picture for each slogan.",
+        "Put the poster up at home or on the building notice board."
+      ],
+      "outcome": "A poster with two slogans that share the lesson's message with neighbours."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Joseph Priestley (1733–1804), England, and Jan Ingenhousz (1730–1799), Dutch physician working in England",
+      "idea": "In 1771 Priestley found that a candle burning in a closed glass jar soon went out, and a mouse in the jar soon could not breathe; but if a sprig of mint was put in the jar, after some days the candle could burn again. He said plants 'restore' the air. In 1779 Ingenhousz did over 500 experiments and showed that plants do this only in light, and only with their green parts: in the dark, plants, like animals, use up the good air.",
+      "then": "Priestley's results were exciting, but other scientists sometimes could not repeat them, because nobody yet knew that light mattered: some had done their experiments in dim rooms. Ingenhousz's careful tests explained the puzzle. The gas they made was later named oxygen.",
+      "now": "Their findings are the foundation of what we now call photosynthesis. We now know plants use carbon dioxide, water and light to make sugar, and that the oxygen given off comes from splitting water. All of this is accepted science.",
+      "status": "accepted",
+      "ask": "Some scientists could not repeat Priestley's results because they didn't know light mattered. What does that tell us about why it's important to record everything about how an experiment was done?",
+      "day": 1
+    },
+    {
+      "id": "v2",
+      "who": "Robert Paine (1933–2016), ecologist, USA, the starfish experiment (from 1963, published 1966)",
+      "idea": "On the rocky seashore of Washington State, Paine kept removing a purple starfish (Pisaster), a predator that eats mussels, from one stretch of shore, year after year, while leaving another stretch alone for comparison.",
+      "then": "Many ecologists thought top predators made little difference. Paine's results surprised them: without the starfish, mussels took over the rocks and crowded out other animals and seaweeds, and the number of kinds of living things on that stretch fell from 15 to 8 within a few years, then further.",
+      "now": "Paine coined the term 'keystone species' (1969) for a species, like the starfish, whose removal changes a whole community, like removing the keystone of an arch. The idea is accepted and widely used in conservation; tigers, elephants and sea otters are often given as examples.",
+      "status": "accepted",
+      "ask": "Paine compared a stretch of shore with starfish removed to one where he left them. Why did he need the second stretch? What would his result mean without it?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "The Yellowstone wolves debate: William Ripple and Robert Beschta, and their critics including Arthur Middleton and Matthew Kauffman",
+      "idea": "Wolves were wiped out in Yellowstone National Park (USA) by the 1920s, and elk (large deer) increased and ate young willow and aspen trees along rivers. Wolves were brought back in 1995–96. Ripple and Beschta argued that wolves reduced elk and made them avoid open riverbanks, so trees grew back, birds and beavers returned and riverbanks became stronger, a 'trophic cascade' (a chain of effects down the food web).",
+      "then": "The story became famous through a viral video. Other scientists, such as Kauffman's team in 2010, measured aspen in places with high and low wolf risk and found that elk did not avoid risky places enough to explain the recovery.",
+      "now": "Scientists agree wolves are back and elk numbers fell. But they still argue about how much the trees' recovery is due to wolves, compared with drought, human hunting of elk, bears, cougars and returning beavers. This is a live debate.",
+      "status": "debated",
+      "ask": "Many things changed in Yellowstone at the same time as the wolves came back. How could scientists find out how much was due to wolves alone? What would a fair comparison look like?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Gaura Devi (about 1925–1991) and the women of Reni village; Chandi Prasad Bhatt and Sunderlal Bahuguna, Chipko movement, Uttarakhand (1970s)",
+      "idea": "In the Himalaya, forests were being auctioned to contractors for felling, while local villagers were refused wood and fodder; cut slopes led to landslides and floods, such as the Alaknanda flood of 1970. In 1973 villagers led by Chandi Prasad Bhatt in Mandal said they would hug ('chipko') the trees to stop the axes. On 26 March 1974, at Reni, while the men were away, Gaura Devi and about 27 women stood before the loggers and refused to let them pass, saying the forest was like their mother's home.",
+      "then": "Officials and contractors first dismissed the villagers. But the protests spread across the hills, and Sunderlal Bahuguna walked thousands of kilometres to spread the message.",
+      "now": "In 1980 the government banned green-tree felling above 1,000 m in the Himalayan forests of Uttar Pradesh (now Uttarakhand) for 15 years. Chipko became famous worldwide as an example of ordinary people, especially women, protecting forests. Ecologists accept that forest cover on steep slopes reduces landslides and floods, as the villagers said.",
+      "status": "accepted",
+      "ask": "The women of Reni said cutting the forest would bring floods. What evidence from your own experiments in Lesson 1 or this lesson supports them? Why might local people notice such dangers before officials far away?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {
+      "q": "What is photosynthesis, and why can't the air run out of oxygen?",
+      "a": "Green plants make food from carbon dioxide and water using sunlight, giving out oxygen. Plants (and ocean algae) make more oxygen by day than living things use in breathing, and they take in the carbon dioxide animals breathe out."
+    },
+    {
+      "q": "Give two ways animals help plants, and two ways plants help animals.",
+      "a": "Animals: pollinate flowers, carry seeds far away (on fur or in droppings), add dung to soil. Plants: give food, oxygen and shelter (homes and hiding places)."
+    },
+    {
+      "q": "What is a food chain? Give an example with four links.",
+      "a": "A line showing who eats whom, starting with a green plant. Example: grain → mouse → snake → eagle."
+    },
+    {
+      "q": "What is a food web, and what does the book call it?",
+      "a": "Many food chains joined together like a net. The book calls it a 'food trap'."
+    },
+    {
+      "q": "What are herbivores, carnivores, omnivores, scavengers and decomposers? Give an example of each.",
+      "a": "Herbivores eat plants (cow, deer); carnivores eat animals (tiger, leopard); omnivores eat both (human, bear); scavengers eat dead animals (vulture, hyena); decomposers break down dead things into soil (bacteria, fungi)."
+    },
+    {
+      "q": "What would happen if all the carnivores in a forest were killed?",
+      "a": "Herbivores would increase, eat too many plants, then starve; the forest and all its animals would suffer. Natural balance would be lost."
+    },
+    {
+      "q": "Give three bad effects of cutting forests.",
+      "a": "Animals lose homes and food; less rainfall; rain runs off quickly causing floods, soil loss and later drought; more carbon dioxide and pollution in the air."
+    },
+    {
+      "q": "Who are the Bishnois, what was Chipko, and name two other ways we protect wildlife.",
+      "a": "The Bishnois of Rajasthan protect trees and animals; in 1730 at Khejarli many gave their lives to save khejri trees. Chipko was a 1970s movement in the Himalaya where villagers, led by women like Gaura Devi, hugged trees to stop felling. Others: banning hunting (Wildlife Protection Act 1972), national parks and sanctuaries, Project Tiger, not buying animal-skin goods, planting trees."
+    }
+  ]
+}
