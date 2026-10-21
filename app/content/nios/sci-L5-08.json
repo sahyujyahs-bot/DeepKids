@@ -1,0 +1,504 @@
+{
+  "key": "nios|sci|5|8",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 8,
+  "title": "Soil and Crops",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 8 (lesson pages 123–136)",
+  "summary": "Soil is priceless: its fertile top layer, rich in humus, is the farmer's wealth. Your child tests soil themselves, learns the four soil types in the book (clay, sandy, alluvial and acidic) and which crops suit each, and follows a crop from start to finish: preparing the field at the right moisture, sowing on time, treating seeds, weeding and hoeing, irrigating, feeding the soil with compost and fertiliser after a soil test, protecting the crop, and harvesting and sorting. They learn the three crop seasons (rabi, kharif and zaid), sow their own seed bed as the book asks, start a compost, and weigh debates about the Green Revolution and organic farming, alongside the farmers' proverbs of Ghagh.",
+  "goals": [
+    "By the end your child can explain why topsoil and humus matter, and separate a soil sample into its parts with a jar test.",
+    "By the end your child can describe clay, sandy, alluvial and acidic soil, test which holds water best, and match crops to soils.",
+    "By the end your child can list in order the main jobs of growing a crop (prepare, sow, treat seeds, weed and hoe, irrigate, manure, protect, harvest and sort) and say why timing matters for each.",
+    "By the end your child can explain why soil should be tested before fertiliser is added, and the difference between chemical fertilisers and organic manure such as compost and vermicompost.",
+    "By the end your child can sort common crops into rabi, kharif and zaid, with their sowing and harvest months.",
+    "By the end your child can run a germination test, record how many seeds sprout, and suggest reasons for differences."
+  ],
+  "words": [
+    ["topsoil", "the upper, darkest layer of soil, richest in humus and plant food; the book calls it the farmer's wealth"],
+    ["humus", "dark, rotted plant and animal matter in soil that makes it soft, fertile and able to hold water"],
+    ["clay soil", "heavy soil of very fine particles that holds water a long time but lets little air in"],
+    ["sandy soil", "light soil with large particles and big gaps that drains quickly and dries out fast"],
+    ["alluvial soil", "soil laid down by rivers, between sandy and clay, good for most crops; also, a mixed soil like this is called loam"],
+    ["acidic soil", "soil made sour when heavy rain washes calcium and magnesium deep down; lime is added to correct it"],
+    ["tilling / ploughing", "breaking and turning the soil to loosen it, let air in and remove weeds"],
+    ["germination", "a seed waking up and sprouting its first root and shoot"],
+    ["weeding and hoeing", "removing unwanted plants and loosening the soil around crops"],
+    ["irrigation", "giving water to crops by canals, wells, pipes or drips instead of waiting for rain"],
+    ["compost / fertiliser", "compost is manure made from rotted plant waste and dung; fertiliser here means factory-made plant food such as urea"],
+    ["rabi / kharif / zaid", "winter crops / monsoon crops / short summer crops grown between rabi and kharif"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Soil is priceless",
+      "goal": "Feel and look closely at soil, learn why the topsoil is the farmer's wealth, and start a jar test to separate soil into its parts.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Three soils in your hand",
+          "mins": 8,
+          "do": "Collect three small handfuls: soil from a garden or flower pot, sand (from a construction site or the beach), and sticky soil from a pond edge, a riverbank or a potter's shop (clay). Your child rubs a pinch of each, slightly wet, between finger and thumb. Ask: 'Which feels gritty? Which feels smooth and sticky? Which can you roll into a long sausage?' (Sand is gritty and falls apart; clay is smooth, sticky and rolls into a long sausage; garden soil is in between.) Ask: 'What would we have to eat if there were no soil?' (Almost nothing: grains, dals, vegetables, fruits, cotton and the grass our milk animals eat all grow in soil.)"
+        },
+        {
+          "kind": "read",
+          "title": "Soil is priceless (lesson pages 123–124)",
+          "mins": 7,
+          "do": "Read the lesson opening and section 8.1 up to the experiment. The book says our body is made of five elements (the 'panch tattva': earth, water, fire, air, space), one of which is earth, a traditional idea. Then explain a scientific fact: it can take hundreds of years for nature to make a few centimetres of topsoil from rock, but heavy rain can wash it away in a few monsoons if the land is bare. Ask: 'Why does the book call the top layer the farmer's wealth?' (It has the most humus and plant food; without it crops grow poorly.)"
+        },
+        {
+          "kind": "exp",
+          "title": "The jar test (book's experiment, lesson page 124)",
+          "mins": 15,
+          "do": "Do Experiment e1, the book's own experiment made more exact. Put garden soil and water in a tall clear jar, add a pinch of salt, shake hard for 2 minutes, and stand it still. Ask your child to predict what will happen, then watch for 10 minutes: bits of leaf and straw float (humus and plant matter), and sand settles at the bottom within a minute. Leave the jar undisturbed until tomorrow, when the finer layers will have settled.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Four soil types (lesson pages 124–125)",
+          "mins": 10,
+          "do": "Read about the four soil types. Clay: very fine particles, few gaps, holds water long; good for rice, cotton, sugarcane and gram. (The book says clay is 'also called fuller's earth'; fuller's earth, or multani mitti, is one special kind of clay.) Sandy: 60% or more sand, big gaps, water drains fast, light and easy to dig; good for watermelon, muskmelon, potato, sweet potato and groundnut. Alluvial: brought by rivers, between the two, good for most crops, like the great plains in Lesson 5. Acidic: heavy rain washes calcium and magnesium deep down, leaving the topsoil sour; farmers mix in lime to correct it. One correction: gypsum is mainly used for the opposite problem, salty or alkaline (usar) soils. Add that Indian scientists also classify soils by colour and origin: alluvial, black (regur, from Deccan lava), red, laterite, desert and mountain soils."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 8.1 (lesson page 125)",
+          "mins": 5,
+          "do": "Do 'Let's see, what you have learnt 8.1' aloud. I: the top layer of soil. II: clay soil holds water the most. III: sandy soil gives the best groundnut. IV: by mixing in lime (the book also says gypsum). Ask your child to point to which of this morning's three handfuls matches each soil."
+        }
+      ],
+      "need": ["Lesson pages 123–125", "small handfuls of garden soil, sand and clay", "a tall clear jar or bottle with lid", "water and a pinch of salt", "a ruler"],
+      "prep": [{"task": "Collect garden soil, sand and some clay (pond edge, riverbank or potter's shop)", "when": "2 days before"}]
+    },
+    {
+      "n": 2,
+      "title": "Which soil holds water? Preparing the field and sowing",
+      "goal": "Read the jar layers, test which soil holds water best, learn how farmers prepare a field at the right moisture, and sow your own seed bed.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Read the jar layers",
+          "mins": 5,
+          "do": "Look at the Experiment e1 jar without shaking it. Your child measures each layer with a ruler: sand (bottom, coarse), silt (middle, fine), clay (top layer, very fine; may still be making the water cloudy), and the floating humus. Work out roughly what fraction each layer is of the total soil height.",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "The water-holding test",
+          "mins": 13,
+          "do": "Do Experiment e2. Set up three cut-bottle funnels with sand, garden soil and clay, pour the same amount of water into each, and measure how much runs through in 5 minutes. Ask your child to predict first. Link the result to the book: sandy soil 'soaks a lot of water but the capacity to retain it is less'; clay holds it longest.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Sowing on time and preparing the field (lesson pages 126–127)",
+          "mins": 8,
+          "do": "Read 8.2, 8.2.1 and 8.2.2. Compare a crop to our bodies: crops need water, air, sunlight, nutrients and care. Sowing too early or late means poor germination, weak roots and more pests. Then preparing the field: ploughing, hoeing and levelling make the soil crumbly, let air in, help water soak in, and kill weeds and insects. Read the saying of Ghagh, a farmer-poet whose sayings are known in villages across north India: 'Kacha khet na jote koi, nahi beej na ankur hoi' (Don't plough a raw field; it will hold neither seed nor sprout). Explain 'oat' (often said 'watar' or 'ot'): the right moisture for ploughing, not too wet and not too dry. Note: the book's answer key says 'because of frost', which is a mistake; it means this moisture."
+        },
+        {
+          "kind": "act",
+          "title": "The moisture-ball test",
+          "mins": 5,
+          "do": "Do Activity a1, the book's test on page 127. Take three lumps of soil: one soaked, one just damp, one bone dry. Your child squeezes each and then presses it with a thumb. Soaked: sticky mud that smears (too wet; ploughing makes hard clods). Dry: hard, won't hold together (too dry). Just damp: holds in a ball and crumbles when pressed (perfect 'oat', ready to plough).",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Sow the seed bed (book's 'Come, let's do', lesson page 135)",
+          "mins": 14,
+          "do": "Start Experiment e3, the book's own activity. Prepare a bed or a large tray of garden soil: break clods, remove stones, mix in a handful of compost, and check the moisture with the ball test. Make six rows and sow 10 seeds each of rice (unpolished paddy if you can get it; otherwise skip), wheat, peas (matar), maize (makka), sunflower and watermelon, each at a depth of about twice the seed's size. Label each row. Ask your child to predict which will come up first and which will grow best in this season.",
+          "ref": "e3"
+        }
+      ],
+      "need": ["Lesson pages 126–127 and 135", "the Day 1 jar and a ruler", "3 plastic bottles cut into funnels, cotton wool, 3 cups", "sand, garden soil, clay", "a measuring cup and water", "a timer", "a garden bed or large tray of soil and some compost", "10 seeds each of wheat, peas, maize, sunflower, watermelon (and rice paddy if available)", "6 labels"],
+      "prep": [{"task": "Buy seeds (a seed shop or kirana: wheat grains, dried peas, maize kernels, sunflower and watermelon seeds)", "when": "2 days before"}]
+    },
+    {
+      "n": 3,
+      "title": "Seeds, weeds, water and compost",
+      "goal": "Learn seed treatment, weeding and hoeing, irrigation, and how compost and earthworms feed the soil, and start a compost pot.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the seed bed",
+          "mins": 3,
+          "do": "Look at the Experiment e3 seed bed. Water gently if the top is dry. Record any sprouts with today's date (maize and peas often show first, in 4–7 days).",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Seed treatment and weeding (lesson page 127)",
+          "mins": 8,
+          "do": "Read 8.2.3 and 8.2.4. Seed treatment means coating seeds before sowing to protect them from diseases carried in seed or soil. The book names fungicides (carbendazim, thiram, captan) and biofertilisers: Rhizobium (bacteria that live in little lumps, called nodules, on the roots of dal plants and take nitrogen from the air to feed the plant), PSB (bacteria that make phosphorus in the soil available to plants) and Trichoderma (a helpful fungus that fights harmful fungi). Parent note: treated seeds and pesticides are poisonous; children must never handle or eat them. Then weeding and hoeing: weeds steal water, manure and light and grow faster than crops; hoeing loosens soil so air reaches roots and moisture stays longer. Ask: 'Why do weeds often win against crops?' (They are wild plants suited to the place and grow fast.)"
+        },
+        {
+          "kind": "read",
+          "title": "Irrigation (lesson page 128)",
+          "mins": 5,
+          "do": "Read 8.2.5. Each crop needs a different amount of water, and too much is harmful (roots rot, and in some soils salt rises to the surface). Ask: 'Rice or bajra: which needs more water?' (Rice.) Tell your child about drip irrigation: water dripped through pipes right at the roots can save a large share of the water compared with flooding the field, and is widely used for sugarcane, bananas and vegetables in Maharashtra and other states."
+        },
+        {
+          "kind": "talk",
+          "title": "Worms that make soil",
+          "mins": 7,
+          "do": "Read Voice v4 about Charles Darwin and earthworms. If you can, dig a spadeful of moist garden soil and look for earthworms; count them and put them back gently. Ask the 'ask' question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "act",
+          "title": "Start a compost pot",
+          "mins": 14,
+          "do": "Do Activity a2. Make a small compost pot or bucket with holes, layering kitchen peels (no oil, dairy or meat), dry leaves, and a handful of garden soil (which brings decomposers), and keep it damp. Read 8.2.6's list of organic manures: nadep compost (made in a brick tank), vermicompost (made by earthworms), oil-cake compost such as neem khali, and green manure (a crop like dhaincha or sunn hemp ploughed back into the soil).",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Albert Howard and the Indore method",
+          "mins": 8,
+          "do": "Read Voice v1 about the compost scientists of Indore. Read two of Ghagh's manure sayings on page 128 aloud: 'Khad pade to khet, nahi to kooda ret' (with manure it's a field, without it, a heap of sand) and 'Gobar, maila, neem ki khali, inse kheti doni phali' (dung, waste and neem cake give a double harvest). Ask the 'ask' question.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Lesson pages 127–129", "the seed bed", "a spade or trowel", "a bucket or old pot with holes punched in the bottom", "kitchen peels, dry leaves, a handful of garden soil", "water"],
+      "prep": [{"task": "Save vegetable and fruit peels for a day (no oil, dairy or meat) and collect dry leaves", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Fertiliser, protecting crops and harvesting",
+      "goal": "Learn why soil must be tested before adding fertiliser, how crops are protected, and when and how to harvest; weigh the Green Revolution and organic farming debates.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Test the soil first (lesson page 128)",
+          "mins": 8,
+          "do": "Read 8.2.6. Using too much fertiliser harms both crops and land, so soil should be tested first to see which nutrients are present and which are missing. Explain the three main nutrients on any fertiliser bag: N (nitrogen, for green leaves; urea), P (phosphorus, for roots and seeds; DAP) and K (potassium, for strong stems and fruits). Tell your child that since 2015 the government's Soil Health Card scheme has tested farmers' soil and given each a card saying how much of each nutrient to add. Ask: 'Why not just add lots of every fertiliser to be safe?' (It wastes money, can burn crops, and extra nitrogen washes into wells, rivers and lakes and pollutes them.)"
+        },
+        {
+          "kind": "talk",
+          "title": "The Green Revolution",
+          "mins": 9,
+          "do": "Read Voice v2 about M.S. Swaminathan and the Green Revolution. Ask the 'ask' question. Make a two-column list with your child: 'Gains' (more wheat and rice, no more famine, India feeds itself) and 'Costs' (groundwater falling in Punjab and Haryana, soil losing humus, fewer crop varieties, stubble burning smoke).",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Organic or chemical?",
+          "mins": 8,
+          "do": "Read Voice v3. The book says, 'as far as possible, use organic manure.' Ask the 'ask' question. Help your child see that most experts suggest a balance, called integrated nutrient management: compost and other organic manure to keep the soil healthy, plus measured fertiliser where the soil test shows a shortage.",
+          "ref": "v3"
+        },
+        {
+          "kind": "read",
+          "title": "Protecting crops and harvesting (lesson pages 129–130)",
+          "mins": 8,
+          "do": "Read 8.2.7 and 8.2.8. Crops face pests, diseases and animals such as nilgai, monkeys, birds and wild boar. Blind use of pesticides is harmful; safer methods include neem-based sprays, sticky traps, fencing, scarecrows and growing a mix of crops. Then harvesting: too early and the grain spoils; too late and ripe grain drops and is lost. Sorting (threshing and cleaning) must be done when the crop is dry and crisp, and grain must be sun-dried before storing, or it gets mouldy and attracts insects. Ask: 'Why do we keep neem leaves in our grain dabba?' (Neem helps keep insects away.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 8.2 and core worksheet",
+          "mins": 12,
+          "do": "Do 'Let's see, what you have learnt 8.2' aloud. I: the harvest (yield) will be smaller. II: when the soil has the right moisture ('oat'), neither too wet nor too dry (the book's key says 'frost', a slip). III: pests, diseases, nilgai, monkeys, birds and other animals. IV: ripe grains fall on the ground and are lost. Then your child does core worksheet ws1, and checks the seed bed (Experiment e3) and the compost pot.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 128–130", "a fertiliser bag or its photo (optional)", "neem leaves (optional)", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Which crop in which season?",
+      "goal": "Learn the rabi, kharif and zaid seasons, make a crop calendar, and see how the season is affecting your own seed bed.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Count the sprouts",
+          "mins": 7,
+          "do": "Count the seedlings in each row of Experiment e3 and write the germination for each crop as 'number up out of 10'. Ask: 'Which crop came up best? Which hasn't come up at all? Is it the season, the soil, the water, or the seed?' Keep weeding and watering the bed; the book asks you to look after it and keep observing for some weeks.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Weather and crops (lesson pages 130–131)",
+          "mins": 10,
+          "do": "Read 8.3. Every crop needs a certain temperature to sprout, grow and ripen. Rabi (winter crops): wheat, barley, oats, gram (chana), peas, linseed (alsi), mustard, potato; sown as winter begins, about October to December, and harvested when it turns hot, March to April; they sprout in mild cold, grow in cold and ripen in warmth. Kharif (monsoon crops): rice, maize, jowar, bajra, moong, urad, sugarcane, cotton, jute, tobacco; sown when the monsoon arrives (the book says July–August; in many parts June–July) and harvested as winter begins, about September to November. Zaid (short summer crops between rabi and kharif): watermelon, muskmelon, cucumber, bottle gourd, pumpkin, bhindi, brinjal, ridge gourd, sunflower; sown March–April, harvested before the rains. Ask: 'Which season is it right now? Which of our seed-bed crops should grow best now?'"
+        },
+        {
+          "kind": "act",
+          "title": "Crop calendar",
+          "mins": 13,
+          "do": "Do Activity a3. Your child draws a 12-month circle like a clock and colours three bands: rabi (October–April) in blue, kharif (June–November) in green, zaid (March–June) in yellow, noticing the overlaps. They draw the crops of each season in their band and mark three harvest festivals: Baisakhi (April, rabi wheat harvest in Punjab), Onam (August–September, Kerala) and Pongal or Makar Sankranti (January, after the kharif rice harvest in the south).",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 8.3 and stretch worksheet",
+          "mins": 15,
+          "do": "Do 'Let's see, what you have learnt 8.3' aloud. I: November–December (the start of winter; October in many places). II: rice, maize, jowar, bajra, moong, urad, sugarcane, cotton, tobacco, jute. III: zaid season, March–April. Then your child does stretch worksheet ws2. Check it together.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Lesson pages 130–132", "the seed bed and a notebook", "a large sheet of paper, a plate to trace a circle, colours", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Revise, check and teach it back",
+      "goal": "Review the lesson with the book's exercise and proverbs, try the challenge worksheet, check understanding and teach it back with your seed bed and soil tests.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (lesson pages 132–135)",
+          "mins": 12,
+          "do": "Read 'Let's Revise' together. Then read the Exercise's saying from Tulsidas's Ramcharitmanas: 'Ka barsa jab krishi sukhane, samay chuke puni ka pachhitane' (What use is rain when the crop has dried? Once the moment is missed, regret is useless). Answer I: seeds sown late germinate poorly; weeds will crush the crop; crops will dry up; a good farmer does every job on time. II: sandy soil; dry and crisp; rabi; March–April. III: rabi – gram, wheat, peas, rye, linseed, potato; kharif – millet, rice, maize, jowar, cotton, jute, tobacco, urad; zaid – sunflower, watermelon, cucumber. IV: fertile; cultivation; time; moisture ('oat'); yield (fruit). V: match the five Ghagh proverbs to their meanings. VI: weeding and hoeing remove weeds that steal food and water, let air into soil, keep moisture longer and help roots grow."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 11,
+          "do": "Do challenge worksheet ws3 together. Praise answers that use your own test results and see both sides of the debates.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 9,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick good answers. For any miss, go back to the right test or page together and ask again. Six or more right is good."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back in the garden",
+          "mins": 13,
+          "do": "Your child is the farmer-teacher. Standing by the seed bed with the jar, the water-test bottles, the compost pot and the crop calendar, they teach you in five minutes: what soil is made of, which soil holds water, the steps of growing a crop in order, the three crop seasons, and why compost matters. Ask two 'student' questions: 'Why did some of your seeds not come up?' and 'Why not just pour lots of urea on everything?' End by agreeing who will water the seed bed and turn the compost each day, and check the compost in two weeks.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Lesson pages 132–135", "worksheet ws3", "the seed bed, soil jar, water-test bottles, compost pot and crop calendar"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Soils and growing a crop",
+      "day": 4,
+      "sections": [
+        ["A. Soil", [
+          {"t": "fill", "p": "The rotted plant and animal matter that makes soil soft and fertile is called ____.", "a": ["humus"]},
+          {"t": "fill", "p": "The top layer of soil is called the farmer's ____.", "a": ["wealth"]},
+          {"t": "match", "p": "Match each soil to its description.", "pairs": [["Clay soil", "Fine particles, holds water a long time"], ["Sandy soil", "Large particles, water drains fast"], ["Alluvial soil", "Laid by rivers, good for most crops"], ["Acidic soil", "Sour soil, corrected by adding lime"]]},
+          {"t": "mcq", "p": "Which soil is best for groundnut and watermelon?", "opts": ["Clay", "Sandy", "Acidic", "Rocky"], "a": 1}
+        ]],
+        ["B. Steps of farming", [
+          {"t": "table", "p": "Put the jobs of growing a crop in order and write why each matters.", "cols": ["Step", "Why it matters"], "rows": 7, "prefill": ["Preparing the field", "Sowing on time", "Seed treatment", "Weeding and hoeing", "Irrigation", "Manure and fertiliser", "Harvesting and sorting"]},
+          {"t": "mcq", "p": "When is a field ready to plough, according to the book?", "opts": ["When it is flooded", "When it is bone dry", "When a squeezed lump holds together but crumbles when pressed", "Only in winter"], "a": 2}
+        ]],
+        ["C. Feeding and protecting", [
+          {"t": "write", "p": "Why should a farmer test the soil before adding fertiliser?", "lines": 2},
+          {"t": "sort", "p": "Sort into organic manure and chemical fertiliser.", "items": ["Vermicompost", "Urea", "Cow-dung manure", "DAP", "Neem cake", "Green manure"], "cats": ["Organic manure", "Chemical fertiliser"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Seasons and your tests",
+      "day": 5,
+      "sections": [
+        ["A. Seasons", [
+          {"t": "sort", "p": "Sort these crops by season.", "items": ["Wheat", "Rice", "Watermelon", "Gram", "Cotton", "Cucumber", "Mustard", "Maize", "Bhindi"], "cats": ["Rabi", "Kharif", "Zaid"]},
+          {"t": "write", "p": "Why is wheat sown in winter and not in the monsoon? Use the temperatures it needs to sprout, grow and ripen.", "lines": 3}
+        ]],
+        ["B. Your experiments", [
+          {"t": "table", "p": "Water-holding test results.", "cols": ["Soil", "Water poured (ml)", "Water through in 5 min (ml)", "Water held (ml)"], "rows": 3, "prefill": ["Sand", "Garden soil", "Clay"]},
+          {"t": "table", "p": "Seed bed germination.", "cols": ["Crop", "Season it belongs to", "Seeds up out of 10", "My reason"], "rows": 5, "prefill": ["Wheat", "Peas", "Maize", "Sunflower", "Watermelon"]}
+        ]],
+        ["C. Apply it", [
+          {"t": "write", "p": "A farmer in Meghalaya, where it rains a lot, finds crops grow poorly. Which soil problem might she have, and what could she add?", "lines": 2},
+          {"t": "write", "p": "A farmer harvests his wheat two weeks late. What will he lose, and why?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a soil scientist",
+      "day": 6,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Clay holds the most water, so why isn't pure clay the best soil for most crops? Use the words 'air' and 'roots'.", "lines": 3},
+          {"t": "mcq", "p": "A farmer keeps flooding his field even when the crop doesn't need it. Which is a likely result?", "opts": ["Bigger harvest every time", "Roots get too little air and may rot, and water and fertiliser are wasted", "The soil becomes sandy", "Weeds disappear"], "a": 1}
+        ]],
+        ["B. Weigh the evidence", [
+          {"t": "write", "p": "The Green Revolution fed crores of people but used lots of water and fertiliser. Write one gain and one cost, and suggest one way to keep the gain while reducing the cost.", "lines": 4},
+          {"t": "write", "p": "Studies show organic farms often give smaller harvests but healthier soil. If you were India's farm minister, would you ask all farmers to go organic at once? Give reasons, and mention what happened in Sri Lanka in 2021.", "lines": 5}
+        ]],
+        ["C. Design a test", [
+          {"t": "write", "p": "Design a fair test to find out whether compost helps methi seeds grow taller. Say what you will change, what you will keep the same, how many seeds, and what you will measure.", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The jar test: what is soil made of?",
+      "day": 1,
+      "question": "If we mix soil with water and let it settle, what parts will separate out, and in what order?",
+      "need": ["a tall clear jar or bottle with a lid", "garden soil (enough to fill one-third of the jar)", "water", "a pinch of salt (helps clay settle)", "a ruler", "a marker"],
+      "steps": [
+        "Fill the jar one-third with garden soil, breaking up lumps and removing stones.",
+        "Add water until the jar is nearly full. Add a pinch of salt.",
+        "Close the lid and shake hard for 2 minutes.",
+        "Stand the jar on a table and do not move it. Watch for 10 minutes and note what floats and what sinks first. Mark the top of the bottom layer after 1 minute.",
+        "Leave it until the next day. Mark and measure each layer with the ruler."
+      ],
+      "predict": "Ask your child to guess first: will the soil all sink together, or separate? What will float?",
+      "observe": "Bits of leaf, roots and straw float on top (organic matter, which the book calls humus). Within a minute the coarse sand settles at the bottom. Over the next hours a finer layer of silt settles on top of the sand, and finally a very fine layer of clay; the water may stay cloudy for a day because clay particles are so tiny.",
+      "why": "Soil is a mixture of rock particles of different sizes, plus humus, water and air. Sand particles are the biggest (you can see each grain), silt particles are much smaller, and clay particles are the tiniest, too small to see even with a magnifying glass. In water, heavier, bigger particles sink fastest, so the soil sorts itself into layers: sand at the bottom, silt in the middle, clay on top. Light organic matter floats. The thickness of each layer tells you the soil's texture: lots of sand means sandy soil; lots of clay means clay soil; a good mix of all three with some humus is loam, which farmers prize. Rivers sort soil in the same way, dropping sand where they flow fast and fine silt and clay where they slow down, which is how alluvial plains are built.",
+      "safety": "Wash hands after handling soil.",
+      "time": "15 min + 5 min reading the layers the next day"
+    },
+    {
+      "id": "e2",
+      "title": "Which soil holds water best?",
+      "day": 2,
+      "question": "If we pour the same amount of water on sand, garden soil and clay, which lets most water through and which holds most?",
+      "need": ["3 plastic bottles, tops cut off and turned upside down as funnels", "cotton wool or a piece of cloth for each neck", "3 cups or glasses to stand them in", "equal cups of sand, garden soil and crumbled dry clay", "a measuring cup", "water", "a timer"],
+      "steps": [
+        "Plug the neck of each funnel loosely with cotton wool and stand each in a cup.",
+        "Put one cup of sand in funnel 1, garden soil in funnel 2, clay in funnel 3. Label them.",
+        "Measure 200 ml of water for each.",
+        "Pour the water into all three at the same time.",
+        "After 5 minutes, measure the water that has dripped into each cup.",
+        "Work out how much each soil held: 200 ml minus the water that came through."
+      ],
+      "predict": "Ask your child to guess first: through which soil will water rush fastest? Which will hold the most?",
+      "observe": "Water pours through the sand quickly, so most of it collects in the cup. Garden soil lets some through, more slowly. Clay lets very little through in 5 minutes; water may sit on top of it.",
+      "why": "Water flows through the gaps between soil particles. Sand has big particles with big gaps, so water drains quickly and little is held: sandy soil dries out fast and needs frequent watering, but its air spaces suit root crops like groundnut and potato. Clay has tiny particles packed close together with tiny gaps; water moves through slowly and clings to the huge total surface of the particles, so clay holds water for a long time, which suits rice. But a clay soil can become waterlogged, with too little air for roots, and it cracks when dry. Garden soil with humus is in between: humus acts like a sponge, holding water while keeping the soil crumbly and airy. That is why adding compost improves both sandy and clay soils.",
+      "safety": "Cut the bottles for your child; cut plastic edges can be sharp.",
+      "time": "13 min"
+    },
+    {
+      "id": "e3",
+      "title": "The seed bed: which crops grow in this season? (Book's 'Come, let's do')",
+      "day": 2,
+      "question": "If we sow 10 seeds each of six crops at the same time, how many of each will sprout and grow well, and why?",
+      "need": ["a garden bed about 1 m by 1 m or a large tray or crate of soil", "compost", "10 seeds each of wheat, peas, maize, sunflower, watermelon, and rice paddy if available", "6 labels or ice-cream sticks", "a watering can or a bottle with holes in the cap", "a notebook"],
+      "steps": [
+        "Prepare the bed: break clods, remove stones and weeds, mix in compost, and check moisture with the ball test.",
+        "Make six straight rows. Sow 10 seeds of one crop in each row, at a depth about twice the size of the seed, and label the row.",
+        "Water gently. Keep the soil damp but not soggy.",
+        "From Day 3, check every day or two and record the number of seedlings in each row.",
+        "On Day 5, write germination as 'number up out of 10' for each crop.",
+        "Keep weeding, hoeing gently and watering for some weeks, and note which plants grow strongly and which wilt or die."
+      ],
+      "predict": "Ask your child to guess first: which crop will sprout first? Will all six grow well in the current season? Write the guesses down.",
+      "observe": "Maize and peas often sprout within about 4–7 days, wheat within about a week, sunflower and watermelon within about a week to ten days in warm weather. Some rows may show few or no seedlings. Over the following weeks, crops suited to the current season (for example wheat and peas in winter, watermelon and sunflower in hot weather) usually grow strongest.",
+      "why": "A seed needs water, air (oxygen) and the right temperature to germinate; light comes later, once the leaves open. Each crop has its own best range: wheat and peas are rabi crops whose seeds sprout and grow well in cool weather and struggle in heat; watermelon, maize and sunflower are warm-weather crops that sprout slowly or rot in cold, wet soil. Seeds also fail if they are old, damaged, sown too deep (the shoot runs out of stored food before reaching light) or too shallow (they dry out), or if the soil is waterlogged (no air) or too dry. Comparing rows sown on the same day, in the same soil, with the same water, lets you see the effect of the crop and the season, which is exactly why the book says to sow each crop in its own season.",
+      "safety": "Use untreated seeds from a kitchen or seed shop; never use pink, blue or green-coated treated seeds, which are poisonous. Wash hands after gardening.",
+      "time": "14 min to sow + 3–7 min checks over 1–3 weeks"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "The moisture-ball ('oat') test",
+      "day": 2,
+      "mins": 5,
+      "need": ["3 lumps of garden soil", "water"],
+      "steps": [
+        "Soak one lump with water, dampen the second lightly, and leave the third dry.",
+        "Squeeze each in your fist, then open your hand.",
+        "Press each ball gently with your thumb.",
+        "Decide: too wet (sticky and smears), too dry (won't hold together), or just right (holds as a ball and crumbles when pressed).",
+        "Use the 'just right' test before sowing your seed bed."
+      ],
+      "outcome": "Your child can judge, as farmers do, when soil has the right moisture to be ploughed and sown."
+    },
+    {
+      "id": "a2",
+      "title": "Make a compost pot",
+      "day": 3,
+      "mins": 14,
+      "need": ["an old bucket or large pot with holes punched in the bottom and sides", "a tray to stand it on", "vegetable and fruit peels (no oil, dairy or meat)", "dry leaves or shredded newspaper", "2 handfuls of garden soil", "water", "a stick for stirring"],
+      "steps": [
+        "Put a layer of dry leaves at the bottom.",
+        "Add a layer of peels, then a handful of garden soil.",
+        "Repeat: dry leaves, peels, soil, until the pot is about three-quarters full.",
+        "Sprinkle with water until it is as damp as a squeezed-out sponge.",
+        "Cover loosely. Every 3–4 days, stir it, add more peels and dry leaves, and keep it damp.",
+        "In 6–10 weeks it should become dark, crumbly and smell earthy. Use it on your seed bed."
+      ],
+      "outcome": "A working compost pot that turns kitchen waste into manure, showing how decomposers and humus feed the soil."
+    },
+    {
+      "id": "a3",
+      "title": "Crop calendar wheel",
+      "day": 5,
+      "mins": 13,
+      "need": ["a large sheet of paper", "a big plate to trace a circle", "blue, green and yellow colours"],
+      "steps": [
+        "Draw a big circle and divide it into 12 months like a clock, starting with January at the top.",
+        "Colour the rabi band (October to April) blue, the kharif band (June to November) green, and the zaid band (March to June) yellow, in three rings so overlaps show.",
+        "Draw 3–4 crops in each band.",
+        "Mark three harvest festivals: Baisakhi (April), Onam (August–September), Pongal or Makar Sankranti (January).",
+        "Mark today's month with a star, and the crops in your seed bed."
+      ],
+      "outcome": "A year-round crop calendar showing when India's main crops are sown and harvested, linked to festivals your child knows."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Albert Howard (1873–1947) and Gabrielle Howard (1876–1930), plant scientists at Pusa (Bihar) and Indore, India",
+      "idea": "Working in India from 1905, the Howards watched Indian farmers carefully and studied how they returned dung and crop waste to the soil. At the Institute of Plant Industry in Indore, Albert Howard developed the 'Indore method' (published in 1931): layering plant waste, dung, urine-soaked earth and water in pits and turning them, to make rich compost. In 'An Agricultural Testament' (1940) he argued that healthy soil, full of humus, makes healthy crops, animals and people.",
+      "then": "Many agricultural scientists of the time believed crops needed only the right chemicals (nitrogen, phosphorus, potassium) and thought humus mattered little. Some dismissed Howard as old-fashioned.",
+      "now": "Soil scientists accept that organic matter is vital: it holds water, feeds soil life, keeps soil crumbly and stores nutrients. Howard is seen as a founder of the organic farming movement. Some of his broader claims, such as that chemical fertilisers always make crops less healthy, go beyond what the evidence shows.",
+      "status": "accepted",
+      "ask": "Howard learned from Indian farmers' traditions and then tested them like a scientist. Ghagh's sayings also praise manure. How is a proverb different from a tested result? Can both be right?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "M.S. Swaminathan (1925–2023), agricultural scientist, India, and Norman Borlaug (1914–2009), USA: the Green Revolution",
+      "idea": "In the 1960s India faced severe food shortages and imported wheat. Swaminathan brought Borlaug's short, high-yielding wheat varieties from Mexico to India in 1963 and, with Indian breeders, adapted them to Indian conditions. Grown with irrigation and fertiliser, they produced far more grain. India's wheat harvest rose from about 1.2 crore tonnes in 1964–65 to about 2 crore tonnes by 1970, and new rice varieties followed. Borlaug won the Nobel Peace Prize in 1970.",
+      "then": "Some officials feared the new seeds were risky and that farmers wouldn't adopt them. They were wrong: farmers in Punjab, Haryana and western Uttar Pradesh took them up quickly, and India stopped needing food aid.",
+      "now": "That the Green Revolution prevented famine and made India self-sufficient in grain is accepted. But its costs are seriously debated: heavy fertiliser use, falling groundwater in Punjab and Haryana from paddy irrigation, soil losing organic matter, loss of traditional crop varieties, and benefits going mainly to irrigated regions. Critics such as Vandana Shiva argue the costs outweigh the gains; most experts call for a more sustainable 'evergreen revolution', a phrase Swaminathan himself used.",
+      "status": "debated",
+      "ask": "The Green Revolution fed crores of hungry people but used up groundwater. How should we judge a solution that fixes one big problem but creates another? What would you want to measure?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "The organic farming debate: Verena Seufert, Navin Ramankutty and Jonathan Foley (2012 study), Sikkim's organic mission and Sri Lanka's 2021 fertiliser ban",
+      "idea": "Supporters of organic farming argue it keeps soil and water healthier, avoids harmful chemicals and can feed people well. In 2016 Sikkim became India's first fully organic state, after phasing out chemical fertilisers and pesticides over about a decade, with training for farmers.",
+      "then": "Critics worry that organic farming gives lower harvests, so more land would be needed to grow the same food.",
+      "now": "A 2012 analysis of 66 studies by Seufert and colleagues found organic yields were on average about 25% lower than conventional ones, but the gap varied widely: small for some crops like legumes and with good management, large for others like cereals. In 2021 Sri Lanka banned chemical fertilisers almost overnight, and rice and tea harvests fell sharply, so the ban was reversed within months. Most experts conclude that organic methods have real benefits, that sudden switches are risky, and that mixing organic manure with carefully measured fertiliser may work best. The debate continues.",
+      "status": "debated",
+      "ask": "Sikkim changed slowly over about ten years; Sri Lanka changed almost overnight. Why might the speed of change matter as much as the idea itself?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Charles Darwin (1809–1882), England, 'The Formation of Vegetable Mould through the Action of Worms' (1881)",
+      "idea": "In his last book, Darwin reported decades of experiments showing that earthworms swallow soil and dead leaves and leave fine, fertile castings on the surface, slowly burying stones and old ruins, mixing and airing the soil, and helping make the topsoil. He estimated that worms could bring many tonnes of soil per acre to the surface each year.",
+      "then": "Many people thought earthworms were pests or too small to matter, and some scientists found the topic trivial compared with his work on evolution. Yet the book sold very well.",
+      "now": "Soil scientists accept that earthworms are 'ecosystem engineers' that improve soil structure, drainage and fertility, and vermicompost made by worms is used by farmers across India. Some of his exact numbers have been revised, but his main conclusion stands.",
+      "status": "accepted",
+      "ask": "Darwin studied worms patiently for about 40 years. What could he find out by watching for years that he couldn't learn in a week? How many worms did you find in your spadeful of soil?",
+      "day": 3
+    }
+  ],
+  "check": [
+    {"q": "What is humus, and why is the top layer of soil called the farmer's wealth?", "a": "Humus is rotted plant and animal matter that makes soil soft, fertile and able to hold water. The top layer has the most humus and plant food, so crops depend on it."},
+    {"q": "Name the four soil types in the book and one crop that suits each.", "a": "Clay soil (rice, cotton, sugarcane, gram); sandy soil (groundnut, watermelon, potato); alluvial soil (most crops, such as wheat); acidic soil (needs lime first)."},
+    {"q": "In your water test, which soil held the most water and which the least? Why?", "a": "Clay held the most because its tiny particles have tiny gaps; sand held the least because its big particles have big gaps."},
+    {"q": "List the main jobs of growing a crop in order.", "a": "Prepare the field (plough at the right moisture), sow on time, treat seeds, weed and hoe, irrigate, add compost or fertiliser, protect the crop, harvest on time, then sort, dry and store."},
+    {"q": "Why should soil be tested before adding fertiliser?", "a": "To know which nutrients are missing, so the right amount is added; too much fertiliser wastes money, harms crops and soil, and pollutes water."},
+    {"q": "Name three kinds of organic manure.", "a": "Cow-dung manure, compost (nadep), vermicompost, neem cake (oil-cake compost), green manure."},
+    {"q": "What are rabi, kharif and zaid crops? Give two examples of each with their sowing months.", "a": "Rabi: sown in winter (October–December), e.g. wheat, gram, mustard, peas. Kharif: sown with the monsoon (June–August), e.g. rice, maize, cotton, jowar. Zaid: sown in March–April between the two, e.g. watermelon, cucumber, sunflower."},
+    {"q": "What does the saying 'Kacha khet na jote koi' teach, and why does timing matter in farming?", "a": "Don't plough a field that is too wet (raw); it won't hold seed or sprout. Sowing, weeding, watering and harvesting must all be done at the right time or the crop is lost, as Tulsidas's saying about late rain also teaches."}
+  ]
+}

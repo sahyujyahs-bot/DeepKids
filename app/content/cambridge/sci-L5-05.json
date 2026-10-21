@@ -1,0 +1,876 @@
+{
+  "key": "cambridge|sci|5|5",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 5,
+  "n": 5,
+  "title": "Forces and magnetism",
+  "source": "Cambridge Primary Science Learner's Book 5 (2nd edition), Unit 5 'Forces and magnetism' (contents pages 110–141; the printed page numbers in this copy run 104–135): 5.1 Gravity, normal forces and applied forces (printed pages 104–107), 5.2 Gravity and satellites (pages 108–112), 5.3 Friction, air resistance, water resistance and upthrust (pages 112–117), 5.4 Multiple forces (pages 118–122), 5.5 Magnets and magnetic materials (pages 123–127), 5.6 Magnetic force (pages 128–132), Project: How people use forces in my area (page 133), Check your progress (pages 134–135)",
+  "summary": "Your child learns to name the forces acting on everyday things (gravity, normal force, applied force, friction, air resistance, water resistance, upthrust and thrust) and to draw force diagrams with arrows showing direction and size. They whirl a 'moon' on a string to see how gravity keeps satellites in orbit, test friction on a ramp, race clay shapes through water, time parachutes, fly paper aeroplanes, sort metals with a magnet and measure the strength of magnets using repeated readings and a mean. Along the way they meet ISRO's founder, a rocket pioneer the newspapers mocked, and the open question of how birds sense the Earth's magnetism.",
+  "goals": [
+    "By the end your child can name gravity, normal force, applied force, friction, air resistance, water resistance, upthrust and thrust, and give an everyday example of each.",
+    "By the end your child can draw a force diagram with labelled arrows that show the name, direction and relative size of each force, for objects at rest and moving.",
+    "By the end your child can explain that a satellite orbits a larger body because gravity pulls it towards the centre while it keeps moving, and give uses of artificial satellites including India's.",
+    "By the end your child can carry out fair tests on friction and parachutes, repeat measurements, calculate a mean and explain the results using forces.",
+    "By the end your child can sort materials into magnetic and non-magnetic, explain the difference between a magnet and a magnetic material, and say that iron and steel are magnetic but many other metals are not.",
+    "By the end your child can show that magnetic forces act over a distance and compare the strength of magnets with a fair test and a bar graph."
+  ],
+  "words": [
+    ["force", "a push or a pull; forces can start things moving, stop them, speed them up, slow them down or change their shape; measured in newtons (N)"],
+    ["gravity", "the pulling force that attracts all objects towards each other; on Earth it pulls everything towards the centre of the Earth"],
+    ["normal force", "the supporting push of a surface on an object resting on it, like a table pushing up on a book"],
+    ["applied force", "a push or pull applied to an object by a person, an animal or a machine"],
+    ["force diagram", "a drawing that shows each force on an object as an arrow pointing in its direction; a bigger force gets a longer arrow"],
+    ["satellite", "a body in space that orbits a larger body; the Moon is a natural satellite of the Earth, and INSAT is an artificial one"],
+    ["friction", "the force between two surfaces that slide or try to slide past each other; it acts against the movement"],
+    ["air resistance / water resistance", "kinds of friction that slow things moving through air or water; together they are called drag"],
+    ["upthrust", "the upward push of water (or air) on an object in it, which makes things float"],
+    ["thrust", "the forward force that pushes something along, like pedalling a cycle or a jet engine"],
+    ["magnetic material", "a material attracted to a magnet, such as iron, steel, nickel and cobalt; it does not have its own magnetic field"],
+    ["alloy", "a mixture of metals, such as steel (mostly iron), stainless steel (steel with chromium) and brass (copper and zinc)"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Forces in a game of gully cricket",
+      "goal": "Spot the pushes and pulls in a game, meet gravity and the normal force, and draw our first force diagram.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Push or pull?",
+          "mins": 7,
+          "do": "Play 30 seconds of catch with a soft ball, or bat a few balls in the compound. Then ask your child to name every push and pull: 'I pushed the ball when I threw it', 'the bat pushed it', 'the ball fell down', 'my hands pulled it in when I caught it', 'it rolled and slowed down'. Ask: 'Why did the ball come back down after I threw it up?' (Something pulled it down.) 'Why did the rolling ball stop?' (Something slowed it.) Write the list; you will name all these forces this week."
+        },
+        {
+          "kind": "talk",
+          "title": "Getting started (unit opener)",
+          "mins": 7,
+          "do": "Open the first page of Unit 5 (the boys playing football; this copy prints the page number wrongly as 110) and read the 'We are going to' box. Do 'Getting started'. 1: Is gravity a push or a pull? (A pull: it pulls things down, for example a mango falling from the tree.) 2: What do we use to measure force? (A forcemeter or spring balance, in newtons. Show your child the spring balance at a vegetable cart or the luggage scale at home if you have one.) 3: What forces can you see in the football photo? (The kick, a push; gravity pulling the ball and the boys down; the ground pushing up on their feet; friction between feet and ground.)"
+        },
+        {
+          "kind": "read",
+          "title": "Gravity and normal forces, force diagrams (page 105)",
+          "mins": 10,
+          "do": "Read page 105 aloud. Without gravity we would fly off the Earth, and a kicked ball would fly off forever. Gravity works on objects at rest and moving: it is the force which attracts or pulls all objects towards the Earth. A normal force is a support force between objects in contact. Look at the book-on-a-table drawing: the book exerts a downward force on the table (gravity pulling it), but it does not fall, so something must be pushing it up: the normal force. Forces act in pairs; when they are equal the arrows are the same size and point in opposite directions. Your child copies the force diagram into the notebook: a rectangle for the book, a down arrow labelled 'gravity' and an equal up arrow labelled 'normal force'."
+        },
+        {
+          "kind": "do",
+          "title": "See the normal force",
+          "mins": 12,
+          "do": "Make a bridge: lay a thin plastic 30 cm ruler or a strip of cardboard between two piles of books. Put a small steel katori on the middle: the ruler bends a little and stops. Add a few coins or marbles to the katori one at a time: the ruler bends more and pushes up harder each time. Ask: 'Where is the normal force?' (The bent ruler pushing up.) 'Why does it get bigger?' (The weight gets bigger, and the ruler bends until its push matches it.) Then press a hand down on a table and ask your child to feel the table pushing back. Explain that even a hard table bends a tiny amount, too small to see."
+        },
+        {
+          "kind": "do",
+          "title": "Using force diagrams (Think like a scientist, page 106)",
+          "mins": 9,
+          "do": "Do Think like a scientist on page 106. 1: We show forces as arrows. 2: The arrow points in the direction of the force. 3: The length of the arrow shows the size of the force. 4: In the drawing of the person on a chair, arrow A is gravity pulling the person down and arrow B is the normal force of the chair pushing up. 5: 'When you stand still, why don't you sink into the ground?' Your child draws themselves standing, with a down arrow labelled gravity and an equal up arrow labelled normal force, and writes: 'The ground pushes up on me with a normal force as big as the pull of gravity.' Ask: 'What happens if you stand on soft mud or wet sand?' (You sink a little until the ground can push back hard enough.)"
+        }
+      ],
+      "need": ["the unit opener and pages 105–106", "a soft ball", "a 30 cm plastic ruler or cardboard strip, books", "a small katori, coins or marbles", "a spring balance or luggage scale if you have one", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Applied forces and measuring them",
+      "goal": "Identify applied pushes and pulls in daily life and make a simple forcemeter to measure them.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "What are applied forces? (page 106)",
+          "mins": 6,
+          "do": "Read 'What are applied forces?' on page 106. Kicking the ball is an applied force; Marcus pushing the table is an applied force; Zara pulling the door towards her is an applied force. An applied force happens when an object is pushed or pulled by another object, a person, a machine or a machine part. Ask your child for five applied forces at home: rolling a chapati, pulling the bucket up from a well or tank, pushing a trolley in the shop, squeezing toothpaste, lifting a school bag, opening the fridge."
+        },
+        {
+          "kind": "talk",
+          "title": "Identify applied forces (Activity, page 107)",
+          "mins": 9,
+          "do": "Do the Activity on page 107. 6: For pictures A, B and C: a) A, kicking a ball, is a push; B, a girl pointing or pushing, is a push; C, a woman rolling dough, is a push and a pull as she rolls the belan back and forth. b) They are applied forces because a person is pushing or pulling an object. 7: Your child copies and completes: 'Zara pushes down on the bike's pedals. This is an applied force. This movement pulls the chain, which is another applied force. This moves the bike's wheels.' 8: 'Describe how you use an applied force to get up off your chair.' (I push down on the seat or the floor with my hands and legs; the floor pushes back and I rise.) Then tick the 'Look what I can do' list on page 107."
+        },
+        {
+          "kind": "act",
+          "title": "Make a rubber-band forcemeter",
+          "mins": 20,
+          "do": "Do Activity a1. Make a hole in the side of a paper or plastic cup near the rim on two opposite sides and tie a string handle through them. Hang the cup from a long rubber band, and fix the top of the rubber band to a pencil taped across the top of a tall box or the edge of a shelf. Stick a strip of paper behind it as a scale. Mark where the bottom of the rubber band hangs with an empty cup as '0'. Put in coins one at a time (₹1 coins are about the same size and weight), marking the new level each time: 1, 2, 3... Now your child can measure: hang a small object (an eraser, a key bunch, an apple) instead and read how many 'coins' of pull it makes. Explain: a real forcemeter uses a spring and is marked in newtons; a 100 g apple pulls down with about 1 newton.",
+          "ref": "a1"
+        },
+        {
+          "kind": "do",
+          "title": "Weigh and pull",
+          "mins": 10,
+          "do": "Use the forcemeter (or a real spring balance or luggage scale) to compare forces: the pull needed to lift a steel tumbler; the pull needed to drag the same tumbler slowly across the table on its side (hook the cup string to it); the pull to drag it across a towel. Your child records each in a table. Ask: 'Which needed the biggest pull? Why do you think dragging over the towel was harder?' Tell them that this hidden force will be our topic on Day 5: friction."
+        }
+      ],
+      "need": ["Learner's Book pages 106–107", "a paper or plastic cup, string, a long rubber band", "a pencil, tape, a tall box or shelf, a paper strip", "10 one-rupee coins", "small objects to weigh: eraser, keys, apple, steel tumbler", "a towel"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "What keeps the Moon up there?",
+      "goal": "Learn that gravity depends on size and distance, understand how gravity keeps the Moon in orbit, and model it with a ball on a string.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: the cyclone photo (page 108)",
+          "mins": 6,
+          "do": "Read the 'We are going to' box on page 108 and look at the tropical cyclone photo, taken by a satellite. Ask the 'Getting started' questions. 1: What is a satellite? (An object in space that goes round, or orbits, a larger object.) 2: Why is the Moon a natural satellite? (It orbits the Earth and nobody made it.) Tell your child that Indian weather satellites take photos like this of cyclones over the Bay of Bengal, so people on the Odisha and Andhra coasts can be warned days ahead."
+        },
+        {
+          "kind": "read",
+          "title": "How much gravity? and Satellites (page 109)",
+          "mins": 9,
+          "do": "Read page 109. All objects exert gravity on each other. The larger the object, the greater its gravity; and the closer the objects are, the stronger the pull. The Moon and the Earth attract each other; the Earth is larger, so it exerts the greater force (the book's arrows show this). Do the book's pointing tasks: point to the Earth, the Moon, the Moon's orbit. Find the green arrow (the Moon's pull on the Earth) and the red arrow (the Earth's pull on the Moon). Find the dotted line: the path the Moon would take if there were no gravity, straight off into space. Tell your child: the Moon's gravity is strong enough to pull the sea, which is why there are high and low tides at Mumbai and Chennai beaches twice a day."
+        },
+        {
+          "kind": "exp",
+          "title": "A moon on a string",
+          "mins": 15,
+          "do": "Do Experiment e1 OUTSIDE or in a clear room. Tie a small soft ball or a sock rolled up tightly to a 1 metre string. Your child holds the end and whirls it round above their head in a steady circle. Ask: 'What is your hand doing through the string?' (Pulling the ball in towards the centre: like gravity.) 'What would happen if you let go?' Predict, then let go at a safe moment, aiming at a cushion: the ball flies off in a straight line in the direction it was moving at that moment, not outwards from the centre. Then whirl it slower: does it still go round? (Only just; it droops.) Faster: you must pull harder. Explain: a satellite is always 'falling' towards the Earth, but it moves sideways so fast that it keeps missing.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Use a model (Think like a scientist, page 110)",
+          "mins": 8,
+          "do": "Answer Think like a scientist on page 110. 1: The pull of the Earth on the Moon is greater. 2: The red arrow is longer than the green one. 3: The Earth is much larger than the Moon (about 80 times its mass), so its gravity is stronger. 4: Without gravity, the Moon would move off in a straight line into space. 5: Ways the diagram is a good model: it shows both pulls with arrows, their directions and relative sizes, the orbit, and what would happen without gravity. Ask: 'What does the diagram NOT show?' (The real sizes and distances: the Moon is about 30 Earth-widths away.)"
+        },
+        {
+          "kind": "think",
+          "title": "Vikram Sarabhai's dream",
+          "mins": 7,
+          "do": "Tell the story in Voice v1: Vikram Sarabhai started India's space programme in the 1960s, launching the first rocket from a fishing village church in Kerala, because he believed satellites could help ordinary Indians with weather, farming and education. Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Learner's Book pages 108–110", "a soft ball or rolled-up sock", "1 metre of strong string", "a clear open space and a cushion"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Artificial satellites and rockets",
+      "goal": "Learn what artificial satellites do for us and how rockets launch them, test thrust with a balloon rocket, and meet a rocket pioneer who was laughed at.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Artificial satellites (pages 110–111)",
+          "mins": 8,
+          "do": "Read 'Artificial satellites' on page 110 and 'How does an artificial satellite get into space?' on page 111. People have built satellites using what we know about natural ones: some take photos to help weather predictions; others carry TV signals and GPS for ships, aeroplanes and cars. The International Space Station has scientists living on it. A satellite is launched by powerful rockets at enormous speed to overcome gravity, and then, at a certain distance above the Earth, it keeps moving at the same speed in an orbit while gravity pulls it towards the centre of the Earth. Trace the circle diagram on page 111: the speed arrow points along the orbit, the gravity arrow points to the Earth."
+        },
+        {
+          "kind": "exp",
+          "title": "Balloon rocket",
+          "mins": 15,
+          "do": "Do Experiment e2. Thread a 4-metre piece of string through a drinking straw and tie the string tight between two chair backs or door handles. Blow up a long balloon, hold the neck closed (do not tie it) and tape it under the straw. Your child predicts which way it will go when released, then lets go. Measure how far it travelled. Repeat with the balloon blown up half as much. Ask: 'Which way did the air go and which way did the balloon go?' (Opposite ways.) 'Was there a force pushing it forward? What is it called?' (Thrust.) Real rockets throw hot gas out backwards at huge speed in the same way.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Artificial satellites activity (page 111)",
+          "mins": 9,
+          "do": "Do the Activity on page 111. 1: An artificial satellite is a machine made by people that orbits the Earth (or another body). 2: It is carried into space by powerful rockets at enormous speed. 3: Gravity pulls it towards the Earth's centre while it keeps moving at the same speed. 4: In the photo of the ISS, the large solar panels (the flat wings) give it power from sunlight. 5: Seeing cyclone photos lets scientists track where a storm is going and warn people to move to safety. 6: Research together: satellites photograph forest fires, floods, melting glaciers, crop health, ships at sea, city lights at night. India's satellites (such as the INSAT and Cartosat series) do many of these."
+        },
+        {
+          "kind": "think",
+          "title": "Robert Goddard and the newspaper",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: in 1920 a famous newspaper mocked Robert Goddard, saying a rocket could never work in empty space because it would have nothing to push against. Use the balloon rocket to discuss: did the balloon push against the air in the room, or against the air coming out of itself? Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "review",
+          "title": "Have I changed my ideas? (page 111)",
+          "mins": 5,
+          "do": "Ask the reflection question at the bottom of page 111: 'Have I changed any ideas I used to have about satellites?' Many children used to think satellites float because there is no gravity in space. Ask: 'Is there gravity up where the satellites are?' (Yes, nearly as strong as on the ground; they stay up only because they move sideways so fast.) Your child ticks the 'Look what I can do' list on page 112."
+        }
+      ],
+      "need": ["Learner's Book pages 110–112", "4 m of string, a drinking straw, 2 chairs", "long balloons, sticky tape", "a measuring tape"],
+      "prep": [{"task": "Buy a packet of long balloons", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Friction: the force that grips",
+      "goal": "Learn what friction is and which way it acts, and test how different surfaces change friction on a ramp.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: Marcus on his bike (page 113)",
+          "mins": 6,
+          "do": "Read the 'We are going to' box on page 112. Do 'Getting started' on page 113. 1: The two surfaces are the tyres and the gravel path. 2: The force between them is friction. 3: It slows Marcus down (but also lets his tyres grip so he can move and brake). 4: Is there friction in water when you swim? (Yes, water resistance, a kind of friction.) Ask your child: 'Why do cycle brakes squeal? Why do new chappals have patterns underneath?'"
+        },
+        {
+          "kind": "read",
+          "title": "What is friction? (page 113)",
+          "mins": 6,
+          "do": "Read 'What is friction?' on page 113. Friction is the force between two surfaces that are trying to slide past each other. Friction always works in the direction opposite to the direction the object is moving, so it slows the moving object. Water resistance and air resistance are types of friction; together they are sometimes called drag. Rub your palms together fast: they get warm. Then rub them with a drop of oil or soap: they slide easily. Ask: 'Why?' (The oil or soap makes the surfaces slippery and reduces friction.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Friction ramp test",
+          "mins": 25,
+          "do": "Do Experiment e3. Prop one end of a flat board (a chopping board, a tray or a thick piece of cardboard) on a pile of 3 books to make a ramp. Let a toy car roll down from a starting line marked at the top, with no push. Measure in centimetres how far it rolls along each floor surface from the bottom of the ramp: smooth tiles, a cotton bedsheet, a rough doormat or carpet, and newspaper. Before each, your child predicts. Roll three times on each surface and calculate the mean. Ask: 'What did we change? (Surface.) What did we measure? (Distance.) What did we keep the same? (Car, ramp height, starting line, no push.)' Then draw a force diagram for the car rolling on the mat: friction arrow pointing backwards against the motion.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Useful and annoying friction",
+          "mins": 8,
+          "do": "Make two lists with your child. Friction we NEED: shoes gripping the floor, cycle brakes, matchsticks lighting, writing with a pencil, holding a glass, tyres on a wet road. Friction we DON'T want: a squeaky door (oil it), rubbing parts of a cycle chain (oil it), a heavy almirah that won't slide (put it on a cloth or rollers), shoes wearing out. Ask: 'Why do people sprinkle sand on a slippery wet road, and why do carrom players sprinkle powder on the board?' (Sand increases friction; powder reduces it.)"
+        }
+      ],
+      "need": ["Learner's Book pages 112–113", "a flat board or tray, 3 books", "a toy car", "a measuring tape", "4 floor surfaces: tiles, bedsheet, doormat or carpet, newspaper", "a drop of oil or soap"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Upthrust and water resistance",
+      "goal": "Feel upthrust, identify the forces on a boat, and test which shape moves fastest through water.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Forces in water (page 114)",
+          "mins": 6,
+          "do": "Read 'Forces in water' on page 114. A beach ball pushed under water will not stay down; it floats, because water pushes things up: upthrust. Any object that moves through water is slowed by water resistance (drag). A sleek, streamlined shape, like a fish, disturbs the water less and has less drag; swimmers copy the streamlined shape of fish. Look at the three drawings: which swimmer has the least drag? (The one stretched out flat.)"
+        },
+        {
+          "kind": "do",
+          "title": "Feel the upthrust",
+          "mins": 8,
+          "do": "Fill a bucket with water. Your child pushes an empty closed plastic bottle straight down into it and feels it push back; then lets go and watches it shoot up. Then hang a stone or a small steel katori full of sand from your rubber-band forcemeter (Activity a1): read the pull in air, then lower it into the bucket of water and read again. Ask: 'Why does it pull less in water?' (The water pushes up on it: upthrust.) That is why a heavy bucket feels lighter while still under the water in a well."
+        },
+        {
+          "kind": "talk",
+          "title": "Identify upthrust, gravity and water resistance (Activity, page 114)",
+          "mins": 8,
+          "do": "Do the Activity on page 114 with the boat picture. 1: Upthrust pushes the boat up. 2: Gravity pulls the boat down. 3: Water resistance acts when the boat moves through the water. 4: Your child draws the boat with three labelled arrows: up (upthrust), down (gravity, the same length because it floats steadily), and backwards (water resistance, opposite to its movement). 5: Fish move quickly because their streamlined shape and smooth, slimy skin reduce drag. 6: Swimming caps are smooth and tight so the water slides over the head with less drag."
+        },
+        {
+          "kind": "exp",
+          "title": "Shape race through water",
+          "mins": 20,
+          "do": "Do Experiment e4. Fill a tall clear bottle or jar (a 2-litre bottle with the top cut off) with water. Divide a lump of plasticine or atta dough into three equal pieces (check they are equal on the forcemeter). Shape one as a ball, one as a flat pancake, and one as a pointed fish or torpedo shape. Drop each from just at the surface and time how long it takes to reach the bottom, three times each (scoop it out with a spoon tied to a stick). Your child predicts first, records the times, and calculates the mean for each shape. Ask: 'Which shape was fastest? Why?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "do",
+          "title": "Streamlined in India",
+          "mins": 3,
+          "do": "Show your child a photo of the Vande Bharat train's pointed nose, a racing kayak or a kingfisher diving into a pond. Ask: 'What do these shapes have in common, and why?' (They are pointed and smooth to cut through air or water with less drag.)"
+        }
+      ],
+      "need": ["Learner's Book page 114", "a bucket of water, an empty plastic bottle with lid", "the rubber-band forcemeter, a stone", "a tall clear bottle or jar of water", "plasticine or a ball of atta dough", "a stopwatch, a spoon tied to a stick"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Air resistance and parachutes",
+      "goal": "Learn how air resistance slows falling objects, build two parachutes and compare their fall times with repeated readings.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Air resistance (page 115)",
+          "mins": 6,
+          "do": "Read 'Air resistance' on page 115. Air resistance pushes against a moving object and slows it down; the larger the surface area, the more air resistance. It also slows falling objects. Hot-air balloons: the balloon is filled with gas lighter than air and floats, and air resistance helps keep it up. A parachute is very light with a very big surface area; it catches lots of air as it falls, creating a lot of air resistance, so the person lands slowly and safely. Drop a flat sheet of paper and a crumpled ball of the same paper at the same moment: which lands first? Ask why."
+        },
+        {
+          "kind": "exp",
+          "title": "Compare two parachutes (Think like a scientist, pages 115–117)",
+          "mins": 25,
+          "do": "Do Experiment e5. Make the two parachutes as on page 115: cut squares of 10 × 10 cm and 20 × 20 cm from a thin plastic bag, trim the corners to make eight-sided shapes, make a small hole near the edge of each side, tie a 25 cm thread through each hole (all threads the same length), join the eight ends in a knot and tape on a weight (a small plastic toy or a lump of plasticine; the same for both). Test as on page 116: stand on a chair (you hold it), raise your arm to the same height each time, and drop, do not throw. You time with a stopwatch. Drop the small one three times and record. Then your child predicts whether the larger one will fall faster or slower, and tests it three times. Decide whether more repeats are needed if the times are very different.",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–7 (page 116)",
+          "mins": 8,
+          "do": "Answer questions 1–7 on page 116. 1: Gravity and air resistance. 2: Force diagram: a long down arrow labelled gravity and an up arrow labelled air resistance (almost as long once it is falling steadily). 3 and 4: calculate the mean: add the three times and divide by 3. 5: The large parachute took longer; its bigger surface caught more air, so more air resistance. 6: To fall more slowly: make it bigger, use lighter material, or add a small hole in the top so it falls steadily without swinging. 7: Conclusion: 'The bigger the parachute, the more air resistance and the more slowly it falls.'"
+        },
+        {
+          "kind": "think",
+          "title": "Do heavy things fall faster?",
+          "mins": 6,
+          "do": "Tell the story in Voice v3: for nearly 2,000 years people followed Aristotle's idea that heavier things fall faster, until people like Galileo tested it, and an astronaut on the Moon finally dropped a hammer and a feather. Drop a steel spoon and a plastic spoon of similar shape together from the same height: they land together. Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": ["Learner's Book pages 115–117", "a thin plastic bag, scissors, a ruler, sticky tape", "thread (16 pieces of 25 cm)", "2 identical small weights (plastic toys or plasticine)", "a chair (adult holds it), a stopwatch", "paper, a steel spoon and a plastic spoon"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Many forces at once",
+      "goal": "Learn that objects have several forces acting on them at once, identify all the forces on a rolling ball and a cyclist, and check our core understanding.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: name that force (page 118)",
+          "mins": 6,
+          "do": "Read the 'We are going to' box on page 118. Do 'Getting started': 1: a force that pushes things up: upthrust (or normal force); 2: a force that drags you back when swimming: water resistance; 3: a force that wears away the tread on tyres: friction; 4: a force that pulls you towards the centre of the Earth: gravity; 5: two forces that slow a car on a motorway (expressway): air resistance and friction. Look at the cycle racers photo and ask how they are dressed and crouched, and why."
+        },
+        {
+          "kind": "read",
+          "title": "Many forces act together and riding a bicycle (page 119)",
+          "mins": 7,
+          "do": "Read page 119. All objects are affected by several forces at once; the strongest force causes the change, which might be in shape, position or speed. Sofia rolling a ball: applied force as she pushes; gravity pulling it down; air resistance and friction with the floor slowing it once it moves. Marcus on his bicycle: gravity pulls him down; friction between tyres and road and air resistance pull him back; to overcome these, he pushes on the pedals: thrust, an applied force. Read the last paragraph about racing cycles made of strong, light materials. Ask: 'If Marcus stops pedalling, which forces win? What happens?' (Friction and air resistance; he slows down.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Forces at work when you cycle (Activity, page 120)",
+          "mins": 15,
+          "do": "Do the Activity on page 120 with your child's own cycle in the compound (helmet on). After a short ride, answer: 1: four forces when you ride: gravity, normal force (road pushing up), friction, air resistance, thrust. 2: The applied force is the push on the pedals. 3: The racers in the photo overcome air resistance by crouching low, wearing tight smooth clothes and helmets, and riding in a line close behind each other. 4: Cycling into the wind is hard because air resistance is much bigger. 5: Smooth tyres on smooth roads have less friction. 6: Your child draws the ball Sofia rolled with four arrows: applied force (forwards, only while her hand touches it), gravity (down), normal force (up, from the floor), friction and air resistance (backwards). Ask them to ride once sitting upright and once crouched low on a windy day and feel the difference."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Naming and drawing forces",
+          "mins": 17,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For any wrong answer go back to the page: gravity and normal force page 105, applied forces page 106, satellites page 109, friction and drag page 113, upthrust page 114. Let your child correct their own answers in a different colour.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 118–120", "your child's cycle and helmet", "a ball", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Paper aeroplanes and the four forces of flight",
+      "goal": "Make and test a paper aeroplane, identify the four forces on it, and improve the design to stay up longer.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Forces acting on aeroplanes (page 120)",
+          "mins": 5,
+          "do": "Read 'Forces acting on aeroplanes' on page 120. Air resistance and gravity act on anything lifted from the Earth and moved through the air. To overcome them we create thrust and lift. An aeroplane uses its wings and engines to lift it off the ground and thrust it forward. Draw the four arrows on a simple aeroplane sketch: lift up, gravity (weight) down, thrust forward, drag (air resistance) backwards."
+        },
+        {
+          "kind": "exp",
+          "title": "Make and test a paper aeroplane (Think like a scientist, pages 120–121)",
+          "mins": 22,
+          "do": "Do Experiment e6. Fold the aeroplane exactly as steps 1–6 on page 120 show, from one sheet of A4 paper. Then answer the questions on page 121 as you test. 1: At rest on the table: gravity and the normal force. 2: Predict what will happen when you throw it. 3: Throw it upwards and outwards: gravity and air resistance act on it. 4: Your throw gave it thrust, and its wings create lift. 5: Copy the diagram and name the four arrows: lift (up), gravity (down), thrust (forward), air resistance or drag (back). 6: What happened? Was it as predicted? 7: It crashed because thrust ran out, air resistance slowed it, and once it slowed the wings made less lift, so gravity won. Measure the distance of three throws, and the mean.",
+          "ref": "e6"
+        },
+        {
+          "kind": "do",
+          "title": "Improve the design (questions 8–10, page 121)",
+          "mins": 13,
+          "do": "Question 8: your child suggests and tests changes to make it stay up longer, changing only ONE thing at a time: bigger wings, folding the wing tips up slightly, adding a paper clip to the nose, using lighter paper. Each new design gets three throws, measured from the same line, and the mean is compared with the first design. Question 9: discuss how a pilot keeps a real plane from falling: engines keep giving thrust, and the wing shape and angle keep giving lift. Question 10: your child writes a conclusion: 'An aeroplane flies when its thrust is bigger than air resistance and its lift is as big as gravity.'"
+        },
+        {
+          "kind": "review",
+          "title": "Multiple forces round-up",
+          "mins": 5,
+          "do": "Tick the 'Look what I can do' list on page 122. Then a quick quiz: point to things around you and ask your child to name every force: the ceiling fan (gravity, the hook's pull up, the motor's applied force, air resistance on the blades); a flower pot on the windowsill (gravity, normal force); a crow gliding (gravity, lift, air resistance)."
+        }
+      ],
+      "need": ["Learner's Book pages 120–122", "several sheets of A4 paper", "paper clips", "a measuring tape", "a long corridor or open space"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Which metals stick? Magnetic materials",
+      "goal": "Revise magnetic poles, learn which metals and alloys are magnetic, and test real objects from the house in a fair test.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: poles (page 123)",
+          "mins": 7,
+          "do": "Read the 'We are going to' box on page 123 and do 'Getting started' with two bar magnets (or two fridge magnets if you have no bar magnets). 1: The pictures show bar magnets. 2: N and S show the north and south poles. 3: 'When two like poles come close the magnets repel each other. When two unlike poles come close the magnets attract each other.' Let your child feel the push and the pull. 4: Which material is magnetic: wood, iron, glass, plastic, copper? (Only iron.)"
+        },
+        {
+          "kind": "read",
+          "title": "What are magnetic materials? Which metals are magnetic? (page 124)",
+          "mins": 8,
+          "do": "Read page 124. Magnetic materials are attracted to a magnet; fridge magnets stick because the fridge door is made from a magnetic material. Plastic and wood are not attracted. Gold, silver and platinum are not magnetic. Common everyday metals are iron, steel, aluminium, copper and chromium. An alloy is a mixture of metals: steel is mainly iron; stainless steel has chromium mixed in so it does not rust; brass is copper and zinc, used for door handles and ornaments (and many puja lamps and lotas). Read the last paragraph: if an object is made from an alloy, you are testing more than one metal at the same time."
+        },
+        {
+          "kind": "exp",
+          "title": "Test metals and alloys (Think like a scientist, page 125)",
+          "mins": 22,
+          "do": "Do Experiment e7. Collect 10–12 objects: an iron nail or bolt, a steel safety pin, a steel paper clip, a stainless-steel spoon and a steel tumbler or thali, a brass diya or lota, copper wire (from an old cable) or a copper vessel, aluminium foil or an aluminium pressure-cooker lid, coins (₹1, ₹2, ₹5, ₹10), a cast-iron tawa or kadhai, a gold or silver earring if available, steel wool (the scrubber). Your child copies the table on page 125 (object, metal or alloy, prediction, result) and fills in the first three columns. Make it fair: use the same magnet, touch each object with the same end of the magnet, and count it as magnetic only if it sticks or clearly pulls. Then test and tick.",
+          "ref": "e7"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–6 (page 125)",
+          "mins": 8,
+          "do": "Answer questions 1–6 on page 125. 1: How well did results match predictions? 2: Pattern: things made of iron or ordinary steel are magnetic; aluminium, copper, brass, gold and silver are not. Surprise: many stainless-steel kitchen utensils do NOT stick, or only weakly, while some coins and spoons do. Explain: there are different kinds of stainless steel; the kind with nickel added, common for kitchen vessels, is mostly non-magnetic. 3: Conclusion: 'Iron, steel, nickel and cobalt are magnetic; most other metals are not.' 4: Fair because we used the same magnet and the same pole and tested each object the same way. 5: Types of enquiry: classifying and fair testing. 6: Two magnetic objects (say two nails) held together do not attract each other, because neither is a magnet."
+        }
+      ],
+      "need": ["Learner's Book pages 123–125", "2 bar magnets (stationery shop) or strong fridge magnets", "10–12 objects: iron nail, safety pin, paper clip, stainless-steel spoon and tumbler, brass diya, copper wire, aluminium foil, coins, cast-iron tawa, steel wool", "notebook with the page 125 table"],
+      "prep": [{"task": "Buy a pair of bar magnets and gather metal objects from the kitchen and toolbox", "when": "2 days before"}]
+    },
+    {
+      "n": 11,
+      "title": "Magnet or magnetic material? Compasses and birds",
+      "goal": "Understand the difference between a magnet and a magnetic material, see how magnets help recycling, make a compass, and weigh a debate about how birds sense magnetism.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Magnet or magnetic material? (page 126)",
+          "mins": 7,
+          "do": "Read 'What is the difference between a magnet and a magnetic material?' on page 126. A magnet has an area around it where magnetic force is active; we cannot see this area. In it, the magnet can attract or repel other magnets and attract a magnetic material. A magnetic material does not have this area, so it cannot attract another magnetic material. Look at the scrap heap photo: a very strong magnet lifts the steel parts of crushed cars and leaves plastic and glass behind. Show the invisible area: lay a sheet of paper over a bar magnet and sprinkle iron filings (or the fine black dust you collect by dragging a magnet in a plastic bag through sand or soil) on the paper; tap it gently and watch the pattern of lines appear."
+        },
+        {
+          "kind": "talk",
+          "title": "Magnets and magnetic materials (Activity, pages 126–127)",
+          "mins": 8,
+          "do": "Do the Activity on pages 126–127. 1a: two magnetic metals: iron and nickel (or steel); 1b: bring a magnet close: they are attracted. 2a: two non-magnetic metals: copper and aluminium; 2b: a magnet does not pull them; 2c: they do not attract each other, because neither is magnetic. 3: A non-magnetic alloy: brass. 4d–f: find three metal objects at home, name the metal, test with a fridge magnet and record (you did much of this yesterday; add three new ones, such as the gas stove grate, a key and a tiffin box). 5: Sorting cans: pass a strong magnet over a pile; the steel cans stick and are lifted out, the aluminium cans stay. Indian kabadiwalas and scrapyards use exactly this."
+        },
+        {
+          "kind": "act",
+          "title": "Make a floating compass",
+          "mins": 15,
+          "do": "Do Activity a2. Stroke a steel sewing needle 30 times from the eye to the point with ONE end (pole) of a bar magnet, always in the same direction and lifting the magnet away at the end of each stroke. Test it: it now picks up a pin, so it has become a magnet. Push it through a small piece of cork or lay it on a small leaf or a piece of thermocol and float it in a bowl of water away from any metal. It slowly turns to point north–south. Check with a compass app on the phone. Ask: 'Why does it turn?' (The Earth itself is like a giant magnet, and the needle lines up with its magnetic field.) Tell them sailors have used compasses to navigate for about a thousand years.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "How do birds find their way?",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: experiments show that some migrating birds use the Earth's magnetism like your floating needle, but scientists still argue about HOW they sense it. Mention that thousands of birds such as bar-headed geese and many ducks fly into India every winter, some from Siberia and Central Asia. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Forces and magnets in new places",
+          "mins": 8,
+          "do": "Do sections A and B of Worksheet ws2 (stretch) now and section C after tomorrow's magnet-strength test. Encourage your child to draw force arrows whenever a question is about forces.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book pages 126–127", "a bar magnet, paper, iron filings (or black magnetic sand)", "a steel sewing needle, a pin", "a cork, leaf or thermocol piece, a bowl of water", "a phone with a compass app", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "How strong is a magnet?",
+      "goal": "See that magnetic forces act over a distance, and carry out the book's fair test of magnet strength with three readings, a mean and a bar graph.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started (page 128)",
+          "mins": 5,
+          "do": "Read the 'We are going to' box on page 128 and complete the 'Getting started' sentences: 'A magnet is a material that has an area around it where magnetic force is active. In this area a magnet can attract or repel other magnets and it can attract a magnetic material. A magnetic material does not have an area around it where magnetic force is active. So a magnetic material cannot attract another magnetic material.' Look at the Maglev train photo on page 128."
+        },
+        {
+          "kind": "read",
+          "title": "Forces between magnets and strength of magnets (page 129)",
+          "mins": 6,
+          "do": "Read page 129. Arun holds two magnets on threads so they can swing: with unlike poles facing, they are attracted even when still apart, showing that the force acts over a distance. The stronger the magnets, the bigger the area and the greater the distance. Magnets can be extremely strong: the Maglev train floats above its track on powerful magnets. Do Arun's test with your two magnets hung from threads tied to a pencil: bring them closer until one swings towards the other."
+        },
+        {
+          "kind": "exp",
+          "title": "Test the strength of magnets (Think like a scientist, pages 130–132)",
+          "mins": 25,
+          "do": "Do Experiment e8. Draw the results table on page 130. Lay a 30 cm plastic or wooden ruler on the table and tape it down. Put a steel paper clip at the 0 end. Place the north pole of Magnet 1 at the far end and slowly slide it towards the paper clip along the ruler; stop the moment the clip jumps to the magnet, and read the distance in millimetres. Put the clip back at 0 and repeat for a second and third reading. Do the same for the south pole of Magnet 1, and both poles of Magnet 2 (for example a fridge magnet or a horseshoe magnet). Calculate the mean of each set of three, as the book shows (add the three and divide by 3). Draw a bar graph of the means, using 1 cm to represent 5 mm, with a suitable heading.",
+          "ref": "e8"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–11 (pages 131–132)",
+          "mins": 9,
+          "do": "Answer questions 1–11 on pages 131–132. 1: A steel ruler would itself be attracted and spoil the test. 2: A steel clip is magnetic. 3: The clip moved to the magnet before touching it. 4: The three readings were not exactly the same. 5: Repeating gives more reliable results and shows up mistakes. 6: Were north and south poles different? (Usually nearly the same.) 7 and 8: Fair: the same ruler, clip, starting position and slow speed; control variable: the paper clip and method; independent variable: the magnet (and pole); dependent variable: the distance at which the clip moves. 9: That magnet is stronger, so its magnetic area is bigger. 10: Magnets can have different strengths. 11: Fair testing, and measuring. Complete ws2 section C now.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book pages 128–132", "2 different magnets (bar, horseshoe or fridge magnet)", "a 30 cm plastic or wooden ruler, tape", "a steel paper clip without plastic coating", "2 threads and a pencil", "squared paper"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Project: How people use forces in my area",
+      "goal": "Visit a local workplace that uses machines, interview someone about the forces involved, and present it with a force diagram.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Plan the visit (page 133)",
+          "mins": 7,
+          "do": "Read 'Project: How people use forces in my area' on page 133. Choose a business near you that uses a machine: an atta chakki (flour mill), a cycle repair shop, a tailor with a sewing machine, a kabadiwala or scrap dealer with a magnet, a sugarcane juice machine, a farm with a pump or tractor, a lift in your building, the auto-rickshaw stand. Ask permission beforehand. Your child writes a questionnaire using the book's questions: What machines do you use? How does it work, with electricity or fuel? What slows it down: is there friction with air or water, or between surfaces? How do you overcome the friction? Add one more: 'Which part wears out fastest?'"
+        },
+        {
+          "kind": "outdoor",
+          "title": "The visit",
+          "mins": 25,
+          "do": "Do Activity a3. Go with your child (as the book says, with an adult). They ask the questions, note the answers and take photos only after asking permission, or make drawings. Help them spot forces: in a chakki, the motor turns the stones (applied force), the stones grind the grain (friction), the belt grips the wheel (friction is useful here); the miller oils the bearings to cut unwanted friction. At a cycle shop: the pump pushes air into the tyre, the spanner turns the nut, grease reduces friction in the chain. Thank the person at the end.",
+          "ref": "a3"
+        },
+        {
+          "kind": "do",
+          "title": "Force diagram and A4 sheet",
+          "mins": 13,
+          "do": "Back home, your child draws a simple force diagram of the machine they saw, with labelled arrows: applied force from the motor or person, friction, gravity, normal force. They arrange their notes, drawings or printed photos and the diagram on one A4 sheet and give it a heading, for example 'Forces in Sharma ji's Atta Chakki'. Ask: 'Which forces does the worker want to be big, and which small?'"
+        }
+      ],
+      "need": ["Learner's Book page 133", "a questionnaire, pencil and notebook", "a phone camera (ask permission)", "an A4 sheet, glue, coloured pens"],
+      "prep": [{"task": "Ask a local shopkeeper, miller, mechanic or farmer if your child may visit and ask questions", "when": "1 week before"}]
+    },
+    {
+      "n": 14,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress, try the challenge sheet and have your child teach forces and magnets back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 134–135)",
+          "mins": 13,
+          "do": "Work through Check your progress on pages 134–135. 1: gravity D, magnetic material C, applied force E, alloy A, satellite B. 2: The two children standing: gravity pulls them down and the normal force of the ground pushes them up. 3: Magnetic: steel, iron. Non-magnetic: wood, copper, plastic, aluminium. 4: Submarine: b four forces: upthrust (up), gravity (down), thrust (forward, from the propeller), water resistance (back); c at rest: gravity and upthrust; d the propeller causes the thrust; e it is long, smooth and rounded with a pointed shape: streamlined; f so it has less water resistance. 5: Arun and Marcus: a a steel pin is magnetic; b a plastic ruler is not magnetic and will not interfere; c control: the same pin, ruler and method; d dependent: the distance at which the pin moves; e independent: the magnet; f the magnet that pulls the pin from furthest away is strongest."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Thinking about forces",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). Read each question aloud and talk it through first. Good answers include a force diagram. For the astronaut question listen for: 'The ISS is falling towards the Earth all the time, and so is everything inside it, so they float relative to it.'",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud without the book. Tick each one answered well. For any missed answer open the right page (gravity page 105, satellites page 109, friction page 113, upthrust page 114, parachutes page 115, magnets pages 124 and 126) and look together for a minute, then ask again in different words. Six or more is good; fewer than five means repeat Days 7 and 10 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 14,
+          "do": "Your child is the teacher. Using the moon on a string, the parachutes, the paper aeroplane, the floating compass and the bar graph, they teach you in 7 minutes: the names of the forces with an example of each, how to draw a force diagram, why the Moon does not fly away or fall down, and the difference between a magnet and a magnetic material. Then they present the project sheet. Ask two 'student' questions: 'Why does a big parachute fall slowly?' and 'Will a magnet pick up a brass diya?'"
+        }
+      ],
+      "need": ["Learner's Book pages 134–135", "worksheet ws3", "the models and results from the unit", "the project sheet"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Naming and drawing forces",
+      "day": 8,
+      "sections": [
+        ["A. Which force?", [
+          {"t": "match", "p": "Match each force to its description.", "pairs": [["Gravity", "Pulls everything towards the centre of the Earth"], ["Normal force", "A surface pushing up on an object resting on it"], ["Friction", "Acts between surfaces sliding past each other"], ["Upthrust", "Water pushing up on a floating boat"], ["Air resistance", "Slows a parachute as it falls"], ["Thrust", "Pushes a cycle forwards when you pedal"]]},
+          {"t": "mcq", "p": "Friction always acts:", "opts": ["In the same direction as the movement", "Opposite to the direction of movement", "Upwards", "Only in water"], "a": 1},
+          {"t": "fill", "p": "Forces are measured in ____.", "a": ["newtons", "newton", "N"]}
+        ]],
+        ["B. Force diagrams", [
+          {"t": "draw", "p": "Draw a force diagram of a steel lota resting on a table. Label both forces."},
+          {"t": "draw", "p": "Draw a force diagram of a parachute falling. Label both forces."},
+          {"t": "write", "p": "In a force diagram, what do the direction and the length of an arrow show?", "lines": 2}
+        ]],
+        ["C. Satellites", [
+          {"t": "fill", "p": "The Moon is a ____ satellite of the Earth.", "a": ["natural"]},
+          {"t": "mcq", "p": "What keeps a satellite in orbit around the Earth?", "opts": ["There is no gravity in space", "Gravity pulls it towards the Earth while it keeps moving sideways fast", "Its solar panels hold it up", "Air pushes it up"], "a": 1},
+          {"t": "write", "p": "Give two ways artificial satellites help people in India.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Forces and magnets in new places",
+      "day": 11,
+      "sections": [
+        ["A. Forces in action", [
+          {"t": "write", "p": "Priya pushes a heavy almirah across the floor but it will not move. Then she puts an old bedsheet under it and it slides. Explain why, using the word friction.", "lines": 3},
+          {"t": "draw", "p": "Draw a fishing boat moving on the sea with four labelled forces."},
+          {"t": "mcq", "p": "Which shape of clay would sink fastest through water?", "opts": ["A flat pancake", "A pointed torpedo", "A cube with a hole", "A wide bowl"], "a": 1}
+        ]],
+        ["B. Magnetic or not?", [
+          {"t": "sort", "p": "Sort these objects.", "items": ["Iron nail", "Brass diya", "Copper wire", "Steel safety pin", "Aluminium foil", "Gold ring", "Cast-iron tawa", "Plastic comb"], "cats": ["Magnetic", "Not magnetic"]},
+          {"t": "write", "p": "Ravi says, 'All metals stick to magnets.' Is he right? Give two examples as evidence.", "lines": 2},
+          {"t": "write", "p": "How could a recycling centre use a magnet to sort steel and aluminium cans?", "lines": 2}
+        ]],
+        ["C. Magnet strength results", [
+          {"t": "table", "p": "Copy your magnet results.", "cols": ["Magnet and pole", "Reading 1 (mm)", "Reading 2 (mm)", "Reading 3 (mm)", "Mean (mm)"], "rows": 4, "prefill": ["Magnet 1 N", "Magnet 1 S", "Magnet 2 N", "Magnet 2 S"]},
+          {"t": "fill", "p": "Readings of 24 mm, 27 mm and 30 mm have a mean of ____ mm.", "a": ["27"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking about forces",
+      "day": 14,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Astronauts float inside the International Space Station, although gravity up there is nearly as strong as on the ground. How can that be?", "lines": 4},
+          {"t": "write", "p": "A skydiver jumps from a plane and falls faster and faster, then reaches a steady speed even before opening the parachute. Explain using two forces.", "lines": 4},
+          {"t": "mcq", "p": "On the Moon there is no air. If you dropped a feather and a hammer together, they would:", "opts": ["Not fall at all", "Land at the same time", "The hammer would land first", "The feather would land first"], "a": 1}
+        ]],
+        ["B. Design it", [
+          {"t": "write", "p": "Design a fair test to find out whether a cycle tyre grips better on a dry or a wet road surface (you can use a toy car and a tile). List what you change, measure and keep the same.", "lines": 5},
+          {"t": "draw", "p": "Design a parachute to drop a medicine packet safely from a drone to a village cut off by floods. Label how it creates air resistance."}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "In 1920 a newspaper said rockets could not work in space because there is no air to push against. Use your balloon rocket to explain why they were wrong.", "lines": 4},
+          {"t": "write", "p": "Some scientists think birds sense magnetism with special chemicals in their eyes; others looked for tiny iron crystals in their beaks. What kind of experiment could help decide?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "A moon on a string",
+      "day": 3,
+      "question": "How can a pull towards the centre keep something moving in a circle?",
+      "need": ["a small soft ball or a tightly rolled sock", "1 metre of strong string", "an open space", "a cushion as a target"],
+      "steps": [
+        "Tie the ball firmly to one end of the string.",
+        "Stand in a clear space. Your child holds the free end and whirls the ball in a steady horizontal circle above their head.",
+        "Feel the pull in the string. Notice that the hand has to pull inwards all the time.",
+        "Predict which way the ball will go when you let go: outwards, inwards, or straight on.",
+        "Let go when the ball is moving towards the cushion, and watch its path.",
+        "Whirl it slowly, then quickly, and feel how hard you must pull."
+      ],
+      "predict": "Ask your child to guess first: when you let go, will the ball fly straight out away from you, curve round, or go straight in the direction it was moving?",
+      "observe": "While whirling, the string pulls inward all the time. When released, the ball flies off in a straight line in the direction it was moving at that moment (along the edge of the circle). Faster whirling needs a harder pull.",
+      "why": "A moving object keeps going in a straight line unless a force changes its direction. The string's pull always points to the centre, so it keeps bending the ball's path into a circle. Gravity does the same job for the Moon: the Earth's pull towards its centre bends the Moon's straight-line motion into an orbit. If the string breaks (or gravity vanished), the ball (or Moon) carries straight on. A satellite in orbit is always falling towards the Earth, but it is moving sideways so fast (about 7–8 km every second in a low orbit) that the Earth's curved surface falls away beneath it as fast as it falls, so it keeps going round.",
+      "safety": "Whirl only in a clear space away from people, windows, fans and lights. Use a soft ball.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "Balloon rocket",
+      "day": 4,
+      "question": "What pushes a rocket forwards?",
+      "need": ["4 m of string", "a drinking straw", "2 chairs or door handles", "long balloons", "sticky tape", "a measuring tape"],
+      "steps": [
+        "Thread the string through the straw and tie it tightly between two chairs.",
+        "Blow up a balloon fully and hold the neck closed. Do not tie it.",
+        "Tape the balloon to the straw with its neck pointing towards one end.",
+        "Pull it back to the start, predict which way it will go, and let go of the neck.",
+        "Measure how far it travelled.",
+        "Repeat with the balloon blown up halfway. Compare the distances."
+      ],
+      "predict": "Ask your child to guess first: which way will the balloon go? Will a half-full balloon go as far?",
+      "observe": "Air rushes out of the neck backwards and the balloon shoots forwards along the string. The fully blown balloon travels further than the half-full one.",
+      "why": "The stretched balloon squeezes the air inside and pushes it out backwards through the neck. When the balloon pushes the air backwards, the air pushes the balloon forwards with an equal force: this forward push is thrust. It does not need anything outside to push against; the push is between the balloon and the air it throws out. A fuller balloon has more air to throw out for longer, so it gives thrust for longer and travels further. Rockets burn fuel to make huge amounts of hot gas and blast it out backwards at enormous speed, which is how ISRO's rockets carry satellites into orbit, even in space where there is no air.",
+      "safety": "Do not let young children put balloons or balloon pieces in their mouths.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Friction ramp test",
+      "day": 5,
+      "question": "Which surface has the most friction?",
+      "need": ["a flat board or tray", "3 books", "a toy car", "a measuring tape", "4 surfaces: tiles, bedsheet, doormat or carpet, newspaper"],
+      "steps": [
+        "Make a ramp: one end of the board on 3 books. Mark a start line near the top.",
+        "Put the first surface flat on the floor at the bottom of the ramp.",
+        "Place the car's front wheels on the start line and let go without pushing.",
+        "Measure the distance from the bottom of the ramp to where the car stops.",
+        "Do three runs on each surface and calculate the mean.",
+        "Record in a table and draw a bar chart of the means."
+      ],
+      "predict": "Ask your child to guess first: on which surface will the car roll furthest? Shortest? Why?",
+      "observe": "The car rolls furthest on smooth tiles and least on the rough doormat or carpet; newspaper and bedsheet are in between.",
+      "why": "Even surfaces that feel smooth have tiny bumps. As the wheels roll, bumps on the wheels and the floor catch on each other and the wheels squash into soft surfaces, and this friction pushes backwards against the movement. Rough, soft surfaces like a doormat have more and bigger bumps and squash more, so the friction is larger and the car stops sooner. Smooth, hard tiles give little friction. The ramp height, the car and the start line were kept the same so that only the surface was changed, which makes it a fair test; three runs and a mean make the result more reliable.",
+      "safety": "Keep the ramp low and the floor clear so no one trips.",
+      "time": "25 min"
+    },
+    {
+      "id": "e4",
+      "title": "Shape race through water",
+      "day": 6,
+      "question": "Which shape moves fastest through water?",
+      "need": ["a tall clear bottle (2 litres, top cut off) full of water", "plasticine or atta dough", "the rubber-band forcemeter or a kitchen scale", "a stopwatch", "a spoon tied to a stick"],
+      "steps": [
+        "Divide the plasticine into three equal pieces and check they weigh the same.",
+        "Shape them into a ball, a flat pancake and a pointed torpedo.",
+        "Hold one shape just at the water surface and let go; start the stopwatch.",
+        "Stop it when the shape touches the bottom. Record the time.",
+        "Scoop it out, reshape if needed, and repeat three times for each shape.",
+        "Calculate the mean time for each."
+      ],
+      "predict": "Ask your child to guess first: which shape will sink fastest? Which slowest?",
+      "observe": "The pointed torpedo usually sinks fastest, the ball next, and the flat pancake slowest, often wobbling side to side.",
+      "why": "All three pieces have the same weight, so gravity pulls them down equally hard. What differs is the water resistance. A flat pancake has to push a lot of water out of its way and makes swirling eddies behind it, so the drag is large. A pointed, smooth torpedo lets the water slide round it with little disturbance: it is streamlined, so the drag is small and it falls fastest. Fish, dolphins, boats and submarines are streamlined for the same reason.",
+      "safety": "Wipe up spilled water. Do not use glass bottles.",
+      "time": "20 min"
+    },
+    {
+      "id": "e5",
+      "title": "Compare two parachutes (Think like a scientist, pages 115–117)",
+      "day": 7,
+      "question": "Does a larger parachute fall more slowly than a smaller one?",
+      "need": ["a thin plastic bag", "scissors, ruler", "16 pieces of thread, each 25 cm", "sticky tape", "2 identical small weights", "a chair (an adult holds it)", "a stopwatch"],
+      "steps": [
+        "Cut two squares from the plastic: 10 × 10 cm and 20 × 20 cm.",
+        "Trim the corners of each to make an eight-sided shape.",
+        "Make a small hole with a pencil near the edge of each side.",
+        "Tie a 25 cm thread through each hole; all threads the same length.",
+        "Join the eight ends of each parachute in a knot and tape on a weight.",
+        "Stand on the chair and drop the small parachute from the same raised-arm height (drop, do not throw). Time it to the floor. Repeat three times.",
+        "Predict, then test the large parachute three times.",
+        "Calculate the mean time for each and record in a table."
+      ],
+      "predict": "Ask your child to guess first: will the larger parachute fall faster or slower than the small one? By how much?",
+      "observe": "Fall times for each drop and the mean. The large parachute usually takes clearly longer (for example 2.5 s against 1.5 s from about 2 m), and may sway more.",
+      "why": "Both parachutes are pulled down by the same gravity, because they carry the same weight. As a parachute falls it pushes against air, and the air pushes back: air resistance. The bigger the surface catching the air, the bigger the air resistance at any speed, so the large parachute reaches a balance between gravity and air resistance at a lower speed, and falls more slowly. Repeating each drop three times and taking the mean evens out small differences in how it was released or how quickly the stopwatch was pressed.",
+      "safety": "The adult holds the chair. Drop the parachutes only, never jump.",
+      "time": "25 min"
+    },
+    {
+      "id": "e6",
+      "title": "Make and test a paper aeroplane (Think like a scientist, pages 120–121)",
+      "day": 9,
+      "question": "What forces act on a paper aeroplane, and which changes make it fly further?",
+      "need": ["A4 paper", "paper clips", "a measuring tape", "a long corridor or open space"],
+      "steps": [
+        "Fold the aeroplane following steps 1–6 on page 120.",
+        "Mark a throwing line. Throw it the same way three times and measure each distance.",
+        "Calculate the mean distance.",
+        "Change ONE thing (wing size, a paper clip on the nose, folded-up wing tips).",
+        "Throw the new design three times and calculate the mean.",
+        "Compare and decide which change helped."
+      ],
+      "predict": "Ask your child to guess first: how far will it fly? Will adding a paper clip to the nose make it fly further or shorter?",
+      "observe": "Distances and means for each design. A small weight on the nose often makes it glide more steadily and further; too much weight makes it dive.",
+      "why": "Four forces act on a flying plane. Your throw gives thrust (forward). Air resistance (drag) acts backwards. Gravity pulls it down. As the wings move through the air, air is pushed downwards by the tilted wings and pushes the wings up: lift. A paper plane has thrust only at the start, so drag slowly slows it, its lift falls, and gravity wins. A small nose weight moves its balance point forwards so it flies nose-first and steadily instead of stalling and flipping. Changing one thing at a time and measuring three throws each is what makes it a fair test.",
+      "safety": "Never aim a paper aeroplane at anyone's face.",
+      "time": "22 min + 13 min improving"
+    },
+    {
+      "id": "e7",
+      "title": "Test metals and alloys (Think like a scientist, page 125)",
+      "day": 10,
+      "question": "Which metals and alloys in our home are magnetic?",
+      "need": ["a bar magnet", "10–12 metal objects: iron nail, safety pin, steel paper clip, stainless-steel spoon and tumbler, brass diya, copper wire, aluminium foil, coins, cast-iron tawa, steel wool, gold or silver jewellery if available", "a results table"],
+      "steps": [
+        "List each object and the metal or alloy it is made from.",
+        "Write a prediction for each: magnetic or not.",
+        "Touch each object with the same pole of the same magnet.",
+        "Tick 'magnetic' only if the object sticks or is clearly pulled.",
+        "Note any object that is only weakly attracted.",
+        "Look for a pattern and anything that does not fit."
+      ],
+      "predict": "Ask your child to guess first: will all the metals stick? Will the shiny steel tumbler stick? Will the coins?",
+      "observe": "Iron nail, safety pin, paper clip, cast-iron tawa and steel wool stick strongly. Brass, copper, aluminium, gold and silver do not. Stainless-steel utensils vary: many do not stick or stick only weakly; some coins and some spoons do stick.",
+      "why": "Only a few metals are strongly magnetic: iron, nickel and cobalt, and alloys containing enough of them in the right arrangement, such as ordinary steel. Inside these metals, the atoms act like tiny magnets that can line up together when a magnet is near, so the metal is pulled. In copper, aluminium, brass, gold and silver the atoms do not behave this way. Stainless steel is a surprise because there are several kinds: those with chromium and nickel arranged in a particular way (common for kitchen vessels) are almost non-magnetic even though they contain iron, while other kinds are magnetic. This is why 'contains iron' does not always mean 'sticks to a magnet', and why testing beats guessing.",
+      "safety": "Keep strong magnets away from phones, cards and the TV. Handle the nail and pins carefully.",
+      "time": "22 min"
+    },
+    {
+      "id": "e8",
+      "title": "Test the strength of magnets (Think like a scientist, pages 130–132)",
+      "day": 12,
+      "question": "Do different magnets, and their north and south poles, have different strengths?",
+      "need": ["2 different magnets", "a 30 cm plastic or wooden ruler", "a steel paper clip without plastic coating", "tape", "a results table", "squared paper"],
+      "steps": [
+        "Draw the results table from page 130.",
+        "Tape the ruler to the table. Place the paper clip at the 0 end.",
+        "Place the north pole of Magnet 1 at the far end and slide it slowly towards the clip.",
+        "Stop as soon as the clip jumps to the magnet. Read the distance in millimetres.",
+        "Put the clip back at 0 and repeat for second and third readings.",
+        "Repeat for the south pole of Magnet 1 and both poles of Magnet 2.",
+        "Calculate the mean of each set of three.",
+        "Draw a bar graph of the means using 1 cm for 5 mm."
+      ],
+      "predict": "Ask your child to guess first: which magnet is stronger? Will the north and south poles be equally strong?",
+      "observe": "Three readings in mm for each pole and the mean. The stronger magnet pulls the clip from further away (for example 25 mm against 10 mm). The two poles of the same magnet usually give similar means.",
+      "why": "Every magnet has an invisible area around it, its magnetic field, where its force acts. The force gets weaker with distance. A stronger magnet has a field that stays strong enough to pull the clip from further away, so the distance measures the strength. The paper clip is pulled once the magnetic pull is bigger than the friction holding it on the table. Readings differ a little because of how slowly we slide and where we read the ruler, so we take three readings and use the mean, which is more reliable than any single reading. A plastic ruler is used because steel would itself be pulled and spoil the test.",
+      "safety": "Keep the magnets away from phones and bank cards.",
+      "time": "25 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Rubber-band forcemeter",
+      "day": 2,
+      "mins": 20,
+      "need": ["a paper or plastic cup", "string", "a long rubber band", "a pencil and tape", "a tall box or shelf edge", "a strip of paper", "10 one-rupee coins"],
+      "steps": [
+        "Make two holes near the rim of the cup and tie a string handle.",
+        "Hang the cup from the rubber band; tie the top of the band to a pencil taped across a tall box.",
+        "Stick a paper strip behind the band and mark the empty-cup level as 0.",
+        "Add coins one at a time and mark the level each time: 1, 2, 3...",
+        "Hang other objects from the band and read their pull on your scale.",
+        "Use it to compare the pull to lift and to drag a steel tumbler."
+      ],
+      "outcome": "A working homemade forcemeter with a scale, and a table comparing the forces needed to lift and drag objects, which your child can reuse to measure upthrust on Day 6."
+    },
+    {
+      "id": "a2",
+      "title": "Floating needle compass",
+      "day": 11,
+      "mins": 15,
+      "need": ["a steel sewing needle", "a bar magnet", "a pin", "a small cork, leaf or thermocol piece", "a bowl of water", "a phone compass app"],
+      "steps": [
+        "Stroke the needle 30 times from eye to point with one pole of the magnet, always the same way, lifting the magnet clear after each stroke.",
+        "Test it by picking up a pin.",
+        "Push the needle through a slice of cork, or lay it on a leaf or thermocol.",
+        "Float it in a bowl of water away from metal objects.",
+        "Wait for it to settle, then check its direction with a compass app.",
+        "Turn the bowl gently; watch the needle swing back to north–south."
+      ],
+      "outcome": "A working compass and the understanding that a magnetic material (a steel needle) can be made into a magnet, and that the Earth itself has a magnetic field."
+    },
+    {
+      "id": "a3",
+      "title": "Forces in my area visit (Project, page 133)",
+      "day": 13,
+      "mins": 25,
+      "need": ["a questionnaire", "pencil and notebook", "a phone camera (with permission)", "an A4 sheet"],
+      "steps": [
+        "Choose a workplace with a machine: atta chakki, cycle shop, tailor, scrap dealer, juice machine, farm pump, building lift.",
+        "Ask permission to visit in advance.",
+        "Write questions: machines used, power source, what slows the machine, how friction is overcome.",
+        "Visit with an adult, ask the questions and take notes, photos or drawings.",
+        "Draw a force diagram of the machine.",
+        "Arrange everything on an A4 sheet with a heading."
+      ],
+      "outcome": "An A4 project sheet about a real local machine, with interview notes, pictures and a labelled force diagram showing useful and unwanted forces."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Vikram Sarabhai (1919–1971), India",
+      "idea": "Sarabhai, a physicist from Ahmedabad who studied cosmic rays, argued that a developing country like India needed space technology not for prestige but to solve real problems: weather forecasting, communication, mapping resources and education. In 1962 he set up India's space research committee, and in 1963 the first sounding rocket was launched from Thumba, a fishing village near Thiruvananthapuram, using a local church as an office. The committee became ISRO in 1969.",
+      "then": "Many people questioned why a poor country should spend money on rockets. Sarabhai answered that India must use advanced technology to meet the problems of ordinary people.",
+      "now": "Sarabhai died in 1971, before India's first satellite, Aryabhata, was launched in 1975. Today India's weather satellites track cyclones, its satellites carry TV and help fishermen and farmers, and ISRO's Chandrayaan-3 landed near the Moon's south pole in 2023. He is called the father of India's space programme.",
+      "status": "accepted",
+      "ask": "Some people say money for space should be spent on food and schools instead. Sarabhai said satellites help with exactly those things. What evidence would help you decide who is right?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Robert Goddard (1882–1945), USA",
+      "idea": "Goddard, a physics professor, worked out that rockets could reach very high altitudes and even travel in space, and wrote about it in 1919. In 1926 he launched the world's first liquid-fuelled rocket in Massachusetts.",
+      "then": "In January 1920 The New York Times published an editorial mocking him, saying a rocket could not work in empty space because it would have nothing to push against, and that he seemed to lack 'the knowledge ladled out daily in high schools'. Goddard became shy of publicity and worked mostly in private.",
+      "now": "He was right: a rocket pushes on the gas it throws out, not on the air around it. In July 1969, as Apollo 11 was flying to the Moon, the same newspaper printed a correction admitting that a rocket can work in a vacuum. Goddard is honoured as a founder of modern rocketry.",
+      "status": "accepted",
+      "ask": "The newspaper was sure it was right but had not done any experiment. What experiment could Goddard have shown them to prove a rocket does not need air to push on?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Aristotle (384–322 BCE), Greece, and Galileo Galilei (1564–1642), Italy",
+      "idea": "Aristotle taught that heavier objects fall faster than lighter ones, in proportion to their weight, which matches what we see when a stone and a feather fall in air. Galileo argued against this with careful reasoning and with experiments rolling balls down slopes, concluding that without air resistance all objects would fall at the same rate. (The story that he dropped balls from the Leaning Tower of Pisa may not be true.)",
+      "then": "Aristotle's idea was accepted for nearly 2,000 years, partly because air resistance really does make light, spread-out things fall slowly. Galileo's ideas met strong resistance from teachers of the time.",
+      "now": "Aristotle's idea is rejected. In 1971, on the Moon, where there is no air, astronaut David Scott of Apollo 15 dropped a hammer and a falcon feather together, and they landed at the same moment. Objects fall at different speeds on Earth only because of air resistance, which is exactly what your parachutes showed.",
+      "status": "rejected",
+      "ask": "Aristotle's idea seemed to fit everyday life. Why can an idea that 'looks right' still be wrong? What did people need to do to find out?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "Wolfgang and Roswitha Wiltschko, Germany (1970s onwards), and today's researchers on bird magnetoreception",
+      "idea": "In experiments from the late 1960s and 1970s, the Wiltschkos kept European robins in cages during their migration season and found that the birds tried to fly in the right direction, and changed direction when the magnetic field around the cage was changed with coils. This showed that robins have a magnetic compass sense.",
+      "then": "Many biologists were at first doubtful that animals could sense magnetism at all, but the experiments were repeated by other groups and the idea became accepted.",
+      "now": "That many birds, as well as turtles and some fish, can sense the Earth's magnetic field is accepted. HOW they do it is debated. One idea is that light-sensitive proteins called cryptochromes in the eye react to the magnetic field; another proposed tiny iron-containing crystals in the beak, but in 2012 researchers showed that the iron-rich cells found in pigeon beaks were immune cells, not sensors. The question is still open.",
+      "status": "debated",
+      "ask": "If you wanted to find out whether a bird senses magnetism with its eyes, what experiment could you design without harming the bird?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "A book rests on a table. Which two forces act on it and how would you draw them?", "a": "Gravity pulling it down and the normal force of the table pushing it up; two arrows of equal length pointing in opposite directions."},
+    {"q": "What is an applied force? Give two examples from home.", "a": "A push or pull by a person, animal or machine on an object; for example rolling a chapati, pushing a trolley, pulling a door, pedalling a cycle."},
+    {"q": "Why doesn't the Moon fly off into space or crash into the Earth?", "a": "The Earth's gravity pulls it towards the Earth's centre while it keeps moving sideways, so its path bends into an orbit."},
+    {"q": "What is friction and which way does it act? Give one useful and one unwanted example.", "a": "The force between surfaces sliding past each other; it acts opposite to the movement. Useful: brakes or shoes gripping. Unwanted: a squeaky hinge or a worn-out cycle chain."},
+    {"q": "Why does a large parachute fall more slowly than a small one?", "a": "Its larger surface catches more air, so there is more air resistance pushing up against gravity."},
+    {"q": "Name the forces on a boat moving through water.", "a": "Gravity (down), upthrust (up), thrust from the engine or oars (forward), and water resistance (backwards)."},
+    {"q": "Which metals are magnetic? Is a brass diya magnetic?", "a": "Iron, nickel, cobalt and most ordinary steel. Brass is copper and zinc, so a brass diya is not magnetic."},
+    {"q": "What is the difference between a magnet and a magnetic material?", "a": "A magnet has an area around it where magnetic force acts, so it can attract or repel other magnets and attract magnetic materials; a magnetic material is only attracted to a magnet and cannot attract another magnetic material."}
+  ]
+}
