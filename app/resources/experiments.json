@@ -1,0 +1,868 @@
+[
+  {
+    "title": "Blind Spot",
+    "url": "https://www.exploratorium.edu/snacks/blind-spot",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "With one eye closed, the child stares at a cross on a card and moves it toward their face until a dot disappears, finding the eye's blind spot where the optic nerve leaves the retina.",
+    "how": "Needs only a card and a ruler; a quick 10-minute surprise to start a lesson on the eye.",
+    "concepts": [
+      "senses",
+      "light-seeing-and-shadows"
+    ]
+  },
+  {
+    "title": "Sound Sandwich",
+    "url": "https://www.exploratorium.edu/snacks/sound-sandwich",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child builds a harmonica-like noisemaker from two craft sticks, a rubber band and bits of straw, then blows through it and hears the pitch change as the straws are moved closer together.",
+    "how": "Ice-cream sticks and rubber bands work fine; let children predict how the sound will change before moving the straws.",
+    "concepts": [
+      "sound"
+    ]
+  },
+  {
+    "title": "Bee Hummer",
+    "url": "https://www.exploratorium.edu/snacks/bee-hummer",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child makes a spinning toy from a popsicle stick, string and a wide rubber band; whirled around overhead, it buzzes like a swarm of bees as the band vibrates.",
+    "how": "Do it outdoors with space to swing; ask why the buzz changes with speed.",
+    "concepts": [
+      "sound"
+    ]
+  },
+  {
+    "title": "Holding Charge",
+    "url": "https://www.exploratorium.edu/snacks/holding-charge",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child rubs a plastic straw with its paper wrapper until it is charged, then sticks it to a wall or hand, makes two charged straws push apart and uses one to lift bits of paper or salt.",
+    "how": "Works best on a dry day, so it suits winter more than the monsoon.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it",
+      "forces-and-movement"
+    ]
+  },
+  {
+    "title": "Flying Tinsel",
+    "url": "https://www.exploratorium.edu/snacks/flying-tinsel",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Using a pie pan charged with static electricity, the child makes a loop of tinsel float in the air, pushed away by electrostatic repulsion.",
+    "how": "A follow-on to the straw or balloon static activities once the child knows charges can attract and repel.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it",
+      "forces-and-movement"
+    ]
+  },
+  {
+    "title": "Charge and Carry",
+    "url": "https://www.exploratorium.edu/snacks/charge-carry",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child rubs a foam plate with wool to build up static charge and carries it to make a small, safe spark, then can check the charge with an electroscope.",
+    "how": "Good for talking about lightning and why static sparks are small but real electricity.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it"
+    ]
+  },
+  {
+    "title": "Electroscope",
+    "url": "https://www.exploratorium.edu/snacks/electroscope",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child builds a simple electroscope from drinking straws and uses it to detect whether objects carry an electric charge.",
+    "how": "Pair with Holding Charge or Charge and Carry to test which rubbed materials get charged.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it"
+    ]
+  },
+  {
+    "title": "Pinhole Magnifier",
+    "url": "https://www.exploratorium.edu/snacks/pinhole-magnifier",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child looks at tiny print through a pinhole in a card and sees it look bigger, discovering that a smaller hole gives a sharper but dimmer image.",
+    "how": "Needs only card and a pin; try holes of different sizes.",
+    "concepts": [
+      "light-seeing-and-shadows",
+      "senses"
+    ]
+  },
+  {
+    "title": "Poking Fun at Light Rays",
+    "url": "https://www.exploratorium.edu/snacks/poking-fun-at-light-rays",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child builds a simple pinhole viewer and sees an upside-down image of a bright object, learning that light travels in straight lines through the hole.",
+    "how": "Use a bright window or a bulb in a dim room; ask why the image is upside down.",
+    "concepts": [
+      "light-seeing-and-shadows"
+    ]
+  },
+  {
+    "title": "Fog Chamber",
+    "url": "https://www.exploratorium.edu/snacks/fog-chamber",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "In a jar sealed with a glove, the child pulls the glove outward to expand and cool the air and watches fog form on smoke particles, a cloud in a jar.",
+    "how": "An adult must handle the lit match used to add smoke.",
+    "concepts": [
+      "gases-evaporation-condensation-solutions",
+      "water"
+    ]
+  },
+  {
+    "title": "Pop Bottle",
+    "url": "https://www.exploratorium.edu/snacks/pop-bottle",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child twists a capped plastic water bottle tight, then pops the cap off and sees a small cloud of mist appear at the mouth as the air expands and cools.",
+    "how": "Uses an empty water bottle; links neatly to how clouds form in the water cycle.",
+    "concepts": [
+      "gases-evaporation-condensation-solutions",
+      "water"
+    ]
+  },
+  {
+    "title": "Seed Germinator",
+    "url": "https://www.exploratorium.edu/snacks/seed-germinator",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child lines a clear case with damp paper towel, places seeds along a line, stands it upright in water and checks daily as roots and then shoots emerge, measuring their growth.",
+    "how": "Moong, chana or rajma seeds work well; keep a daily drawing or measurement log.",
+    "concepts": [
+      "seeds-plant-growth-and-plant-life-cycles",
+      "plants"
+    ]
+  },
+  {
+    "title": "See Inside a Seed",
+    "url": "https://www.exploratorium.edu/snacks/see-inside-seed",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child soaks beans, peels off the seed coat and splits them open to find the tiny root (radicle) and the cotyledons that feed the young plant.",
+    "how": "Soak rajma or chana overnight; pairs well with Seed Germinator.",
+    "concepts": [
+      "seeds-plant-growth-and-plant-life-cycles",
+      "plants"
+    ]
+  },
+  {
+    "title": "Vegetable Revival",
+    "url": "https://www.exploratorium.edu/snacks/vegetable-revival",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child regrows new plants from leftover vegetable scraps and watches fresh shoots appear.",
+    "how": "Kitchen scraps such as spring onion or coriander roots are ideal.",
+    "concepts": [
+      "plants",
+      "waste"
+    ]
+  },
+  {
+    "title": "Magnetic Lines of Force",
+    "url": "https://www.exploratorium.edu/snacks/magnetic-lines-of-force",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child holds a magnet against a sealed bottle of iron filings and sees the filings line up to show the magnet's field in three dimensions, without any mess.",
+    "how": "Keep the bottle sealed with tape so filings stay inside.",
+    "concepts": [
+      "magnets"
+    ]
+  },
+  {
+    "title": "Magnetic Shielding",
+    "url": "https://www.exploratorium.edu/snacks/magnetic-shielding",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Paper clips hang from a magnet through layers of cardboard; when the child slides a pair of steel scissors between the layers and closes them, the clips drop off.",
+    "how": "Ask which materials block the magnet and which let it through.",
+    "concepts": [
+      "magnets",
+      "materials-and-their-properties"
+    ]
+  },
+  {
+    "title": "Where's North?",
+    "url": "https://www.exploratorium.edu/snacks/wheres-north",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child hangs ring magnets on a thread and watches them line up with Earth's magnetic field, and sees like poles repel and unlike poles attract.",
+    "concepts": [
+      "magnets",
+      "planet-earth"
+    ]
+  },
+  {
+    "title": "Eclipse in a Cup",
+    "url": "https://www.exploratorium.edu/eclipse/snacks/eclipse-in-a-cup",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Using cups and a clay Moon, the child models the Moon's tilted orbit around Earth to see why eclipses do not happen every month.",
+    "how": "Use before or after a solar or lunar eclipse visible from India.",
+    "concepts": [
+      "the-universe-sun-moon-stars-and-planets"
+    ]
+  },
+  {
+    "title": "Ocean Acidification in a Cup",
+    "url": "https://www.exploratorium.edu/snacks/ocean-acidification-in-cup",
+    "source": "Exploratorium Science Snacks",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child makes a purple red-cabbage indicator, then lets carbon dioxide from baking soda and vinegar dissolve into it and watches the surface turn pink as it becomes more acidic.",
+    "how": "Red cabbage, baking soda and vinegar are easy to find; an adult should handle the hot water.",
+    "concepts": [
+      "changing-materials",
+      "gases-evaporation-condensation-solutions",
+      "caring-for-the-environment"
+    ]
+  },
+  {
+    "title": "Time to Spring Clean…Your Water!",
+    "url": "https://www.sciencebuddies.org/stem-activities/time-to-spring-cleanyour-water",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child makes muddy water and builds filters from plastic bottles, coffee filters and uncooked rice or beans, comparing how clean each makes the water.",
+    "how": "Stress that filtered water may look clean but is not safe to drink.",
+    "concepts": [
+      "water"
+    ]
+  },
+  {
+    "title": "How Do We Breathe? (Model Lung)",
+    "url": "https://www.sciencebuddies.org/stem-activities/lung-model",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child builds a model lung from a plastic bottle and two balloons, then pulls and pushes the bottom 'diaphragm' balloon to make the inner 'lung' balloon fill and empty.",
+    "how": "An adult should cut the bottle; takes 30–45 minutes.",
+    "concepts": [
+      "body-parts-and-skeleton",
+      "basic-needs"
+    ]
+  },
+  {
+    "title": "Explore How Lung Infection Influences Breathing",
+    "url": "https://www.sciencebuddies.org/stem-activities/infected-lung",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child builds two model lungs and adds a gelatin and corn-syrup 'mucus' to one, then compares how a healthy and an 'infected' lung move air.",
+    "how": "Do the basic model lung first; takes 2–3 hours including setting time.",
+    "concepts": [
+      "health-hygiene-exercise-and-illness",
+      "body-parts-and-skeleton"
+    ]
+  },
+  {
+    "title": "Single-Celled Science: Yeasty Beasties",
+    "url": "https://www.sciencebuddies.org/stem-activities/singlecelled-science-yeasty-beasties",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child puts yeast with warm water, sugar or salt into bottles topped with balloons and watches the sugar bottle's balloon inflate with gas made by living yeast.",
+    "how": "Use baker's yeast from the market; links to why idli batter and bread rise.",
+    "concepts": [
+      "microorganisms",
+      "living-and-non-living-signs-of-life"
+    ]
+  },
+  {
+    "title": "Yeasty Beasties (science project)",
+    "url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas/MicroBio_p011/microbiology/yeast-activity-balloons",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A fuller project: the child feeds yeast different additives such as sugar, salt, baking soda or vinegar in balloon-capped bottles and measures the gas produced by water displacement.",
+    "how": "For an older child ready to record and compare measurements.",
+    "concepts": [
+      "microorganisms"
+    ]
+  },
+  {
+    "title": "Do-It-Yourself DNA",
+    "url": "https://www.sciencebuddies.org/stem-activities/strawberry-dna-extraction",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child mashes strawberries with salt, water and dish soap, filters the mix and layers cold rubbing alcohol on top to see whitish strands of DNA they can spool on a toothpick.",
+    "how": "An adult should handle the rubbing alcohol; banana works if strawberries are out of season.",
+    "concepts": [
+      "genes-and-inheriting-features"
+    ]
+  },
+  {
+    "title": "Make Your Own Stethoscope",
+    "url": "https://www.sciencebuddies.org/stem-activities/make-stethoscope",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child makes a stethoscope from a funnel and a cardboard tube, listens to a heartbeat and counts heart rate at rest and after exercise.",
+    "how": "Takes 20–30 minutes; have the child skip or run on the spot between counts.",
+    "concepts": [
+      "health-hygiene-exercise-and-illness",
+      "sound",
+      "body-parts-and-skeleton"
+    ]
+  },
+  {
+    "title": "How Well Do You Wash Your Hands?",
+    "url": "https://www.sciencebuddies.org/stem-activities/hand-washing",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child coats their hands in washable paint as pretend germs, then rinses and washes in different ways to see how much is left and learns a step-by-step scrub.",
+    "how": "Under 10 minutes; a good way to make the handwashing habit stick.",
+    "concepts": [
+      "health-hygiene-exercise-and-illness",
+      "microorganisms"
+    ]
+  },
+  {
+    "title": "Make a Homemade Compass",
+    "url": "https://www.sciencebuddies.org/stem-activities/magnetic-compass",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child magnetises a sewing needle by stroking it with a magnet, pushes it through a cork disc and floats it in water to watch it point north–south.",
+    "how": "Supervise with the needle; a leaf can replace the cork.",
+    "concepts": [
+      "magnets",
+      "planet-earth"
+    ]
+  },
+  {
+    "title": "Generate Electricity with a Lemon Battery",
+    "url": "https://www.sciencebuddies.org/stem-activities/lemon-battery",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child makes a battery from lemons, copper coins and aluminium foil strips, and links two in series to feel a faint tingle from the current.",
+    "how": "Copper coins are rare in India; a piece of bare copper wire works as the copper electrode.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it",
+      "energy"
+    ]
+  },
+  {
+    "title": "Which Materials Conduct Electricity?",
+    "url": "https://www.sciencebuddies.org/stem-activities/which-materials-conduct-electricity",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child turns a torch's parts into a tester and checks household objects such as foil, paper clips, wood, plastic and rubber; the bulb lights for conductors and stays dark for insulators.",
+    "how": "Uses only torch batteries, so it is a safe way to explain why wires are covered in plastic.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it",
+      "materials-and-their-properties"
+    ]
+  },
+  {
+    "title": "Make a Paper Circuit",
+    "url": "https://www.sciencebuddies.org/stem-activities/paper-circuit",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child lays copper tape on paper with a coin-cell battery and an LED to make a light-up card, seeing that a closed loop lights the LED and a break stops it.",
+    "how": "Keep coin cells away from younger siblings, as they are dangerous if swallowed.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it"
+    ]
+  },
+  {
+    "title": "Squishy Circuits",
+    "url": "https://www.sciencebuddies.org/stem-activities/squishy-circuits",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child makes conductive and insulating play dough and builds dough sculptures that light up LEDs, learning which dough lets electricity flow.",
+    "how": "The doughs are made from flour, salt and sugar in the kitchen.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it",
+      "materials-and-their-properties"
+    ]
+  },
+  {
+    "title": "Model the Rock Cycle with Crayons",
+    "url": "https://www.sciencebuddies.org/stem-activities/crayon-rock-cycle",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child shaves old crayons, presses the shavings into a layered 'sedimentary rock', then heats and cools them to model metamorphic and igneous rocks.",
+    "how": "An adult should handle the heating; takes 20–30 minutes.",
+    "concepts": [
+      "rocks-and-soil",
+      "changing-materials"
+    ]
+  },
+  {
+    "title": "Soil Science: Winogradsky Columns",
+    "url": "https://www.sciencebuddies.org/stem-activities/winogradsky-columns",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child packs mud into a clear plastic bottle to make a Winogradsky column and watches over weeks as coloured layers of soil microbes grow.",
+    "how": "A long-running project; place it near a window and keep a weekly log.",
+    "concepts": [
+      "microorganisms",
+      "rocks-and-soil"
+    ]
+  },
+  {
+    "title": "Clean Water and Aquifer Science",
+    "url": "https://www.sciencebuddies.org/blog/aquifier-science",
+    "source": "Science Buddies",
+    "type": "activity",
+    "ages": [
+      6,
+      10
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child uses popcorn kernels, cornmeal and cornstarch as different kinds of soil to model an aquifer and see how soil layers filter water.",
+    "how": "Good for younger children before the bottle water-filter activity.",
+    "concepts": [
+      "water",
+      "rocks-and-soil"
+    ]
+  },
+  {
+    "title": "Bird-Spotting Science: Predicting a Bird's Lifestyle from its Feet",
+    "url": "https://www.sciencebuddies.org/stem-activities/birdspotting-science-predicting-a-birds-lifestyle-based-on-its-feet",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child looks closely at bird feet and tests whether foot type predicts how a bird lives, with an extension comparing beaks and what birds eat.",
+    "how": "Try it with local birds such as pigeons, mynas, ducks and crows.",
+    "concepts": [
+      "the-world-of-birds",
+      "habitats-and-adaptation"
+    ]
+  },
+  {
+    "title": "Build a Bird Feeder to Study Birds",
+    "url": "https://www.sciencebuddies.org/stem-activities/build-bird-feeder",
+    "source": "Science Buddies",
+    "type": "activity",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child builds a bird feeder and uses it to watch and study the birds that visit.",
+    "how": "Hang it on a balcony and keep a list of visitors through the week.",
+    "concepts": [
+      "the-world-of-birds"
+    ]
+  },
+  {
+    "title": "Can You Hide in Plain Sight?",
+    "url": "https://www.sciencebuddies.org/stem-activities/natural-selection-camouflage",
+    "source": "Science Buddies",
+    "type": "activity",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Using a pincer-grip 'beak', volunteers hunt coloured prey on different backgrounds, showing how camouflage helps some prey survive.",
+    "how": "Works best with two or more players, such as siblings or a parent.",
+    "concepts": [
+      "habitats-and-adaptation",
+      "living-in-harmony"
+    ]
+  },
+  {
+    "title": "What Are You Blubbering About?",
+    "url": "https://www.sciencebuddies.org/stem-activities/what-are-you-blubbering-about",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child coats a finger in shortening as pretend blubber and times how long it stays comfortable in ice water compared with a bare finger.",
+    "how": "Ghee or vanaspati can stand in for shortening; links to animals of cold places.",
+    "concepts": [
+      "habitats-and-adaptation"
+    ]
+  },
+  {
+    "title": "How Do Arctic Animals Stay Warm?",
+    "url": "https://www.sciencebuddies.org/stem-activities/how-do-arctic-animals-stay-warm",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child compares bags of fat, feathers and plain air in cold water to feel which insulates best, finding that feathers work by trapping air.",
+    "concepts": [
+      "habitats-and-adaptation",
+      "the-world-of-birds"
+    ]
+  },
+  {
+    "title": "Suck It Up! How Water Moves Through Plants",
+    "url": "https://www.sciencebuddies.org/stem-activities/dyed-flowers-capillary-action",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child stands white flowers in coloured water and checks them over two days as the dye travels up the stem and colours the petals.",
+    "how": "White chrysanthemums or tuberose work if carnations are hard to find.",
+    "concepts": [
+      "plants",
+      "water"
+    ]
+  },
+  {
+    "title": "Water Transport in Plants",
+    "url": "https://www.sciencebuddies.org/teacher-resources/lesson-plans/plant-water-transport",
+    "source": "Science Buddies",
+    "type": "lesson",
+    "ages": [
+      7,
+      9
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A lesson for Class 2–3: the child puts a white flower and a leafy celery stalk in dyed water, watches the colour rise, then cuts the celery to see the coloured tubes that carry water.",
+    "how": "Follow the lesson as written; it includes the discussion questions.",
+    "concepts": [
+      "plants"
+    ]
+  },
+  {
+    "title": "Iron-Rich Foods: How to Get the Most Out of Them",
+    "url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas/HumBio_p043/human-biology-health/iron-rich-foods",
+    "source": "Science Buddies",
+    "type": "experiment",
+    "ages": [
+      11,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child uses diluted and full-strength vinegar as models of a full and an empty stomach and compares how fast iron dissolves in each.",
+    "how": "A science-fair-level project for an older child; read the procedure together first.",
+    "concepts": [
+      "digestion",
+      "food-and-a-balanced-diet"
+    ]
+  },
+  {
+    "title": "Fun with Static",
+    "url": "https://fi.edu/en/science-and-education/science-recipes/fun-static",
+    "source": "The Franklin Institute",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The child rubs a balloon on their hair, makes it stick to a wall or shirt, and uses it to roll an empty can or move a ping-pong ball without touching it.",
+    "how": "A five-minute starter with a balloon; best on a dry day.",
+    "concepts": [
+      "electricity-and-staying-safe-with-it",
+      "forces-and-movement"
+    ]
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "title": "Your Digestive System",
+    "url": "https://kidshealth.org/en/kids/digestive-system.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Follows a child's lunch through the body, from smelling food and chewing it with saliva, down the oesophagus, through the stomach and intestines. It ends with tips on water and fibre for a healthy gut.",
+    "concepts": [
+      "digestion"
+    ],
+    "how": "Read it together just after a meal, pointing on your own body to where the food is now.",
+    "chapters": []
+  },
+  {
+    "title": "How Does the Digestive System Work? (Video)",
+    "url": "https://kidshealth.org/en/kids/dsmovie.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "video",
+    "ages": [
+      6,
+      10
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A short animated movie from the How the Body Works series, in which the characters Chloe and Nurb show what happens to food on its trip through the body.",
+    "concepts": [
+      "digestion"
+    ],
+    "how": "Watch it before reading the Digestive System article.",
+    "chapters": []
+  },
+  {
+    "title": "Quiz: Digestive System",
+    "url": "https://kidshealth.org/en/kids/dsquiz.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "activity",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A short online quiz for kids that checks what they learned about the digestive system from the KidsHealth article and video.",
+    "concepts": [
+      "digestion"
+    ],
+    "how": "Use it after the video and article to see what stuck.",
+    "chapters": []
+  },
+  {
+    "title": "Your Brain & Nervous System",
+    "url": "https://kidshealth.org/en/kids/brain.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Explains the main parts of the brain (cerebrum for thinking, cerebellum for balance, brain stem, pituitary, hypothalamus, amygdala for emotion) and how nerves and the spinal cord carry messages. Ends with tips to keep your brain healthy.",
+    "concepts": [
+      "thinking-and-memory",
+      "body-parts-and-skeleton"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "How Does the Brain & Nervous System Work? (Video)",
+    "url": "https://kidshealth.org/en/kids/nsmovie.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "video",
+    "ages": [
+      6,
+      10
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A short animated How the Body Works video showing how the brain and nerves send messages around the body.",
+    "concepts": [
+      "thinking-and-memory",
+      "body-parts-and-skeleton"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Teacher's Guide: The Five Senses (PreK to Grade 2)",
+    "url": "https://kidshealth.org/classroom/prekto2/body/functions/senses.pdf",
+    "source": "KidsHealth (Nemours)",
+    "type": "lesson",
+    "ages": [
+      6,
+      7
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A printable lesson guide on seeing, hearing, smelling, tasting and touching, with activities that link to KidsHealth's kids articles and videos on the eyes, ears, nose and tongue.",
+    "concepts": [
+      "senses"
+    ],
+    "how": "Pick one sense a day and use the guide's activities at home.",
+    "chapters": []
+  },
+  {
+    "title": "Your Nose",
+    "url": "https://kidshealth.org/en/kids/nose.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Explains how the nose's millions of tiny odour receptors send signals that the brain combines to tell thousands of different smells apart.",
+    "concepts": [
+      "senses"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Your Eyes",
+    "url": "https://kidshealth.org/en/kids/eyes.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      7,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A question-and-answer article about the eye, which is about the size of a ping-pong ball: the white sclera, the retina with its rods and cones, how an upside-down image is flipped by the brain, and why we make tears.",
+    "concepts": [
+      "senses",
+      "light-seeing-and-shadows"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "What are Germs?",
+    "url": "https://kidshealth.org/en/kids/germs.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Explains that germs are tiny living things such as bacteria and viruses, that some bacteria help us digest food, and why handwashing at the right times is the best way to fight germs.",
+    "concepts": [
+      "microorganisms",
+      "health-hygiene-exercise-and-illness"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "How Does the Skeletal System (Bones) Work? (Video)",
+    "url": "https://kidshealth.org/en/kids/ssmovie.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "video",
+    "ages": [
+      6,
+      10
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A short animated introduction to bones: what bones do and how the skeleton gives the body its shape.",
+    "concepts": [
+      "body-parts-and-skeleton"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Your Bones",
+    "url": "https://kidshealth.org/en/kids/bones.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A kids' article on how bones give the body its shape and protect the organs inside.",
+    "concepts": [
+      "body-parts-and-skeleton"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "How Do the Joints Work? (Video)",
+    "url": "https://kidshealth.org/en/kids/how-joints-work.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "video",
+    "ages": [
+      6,
+      10
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A short animated video showing how joints let the skeleton bend and move.",
+    "concepts": [
+      "body-parts-and-skeleton",
+      "forces-and-movement"
+    ],
+    "how": "Have the child find and bend their own joints while watching.",
+    "chapters": []
+  },
+  {
+    "title": "How the Heart and Circulatory System Work (Video)",
+    "url": "https://kidshealth.org/en/kids/csmovie.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "video",
+    "ages": [
+      6,
+      10
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A short animated movie showing how the heart pumps blood and how the circulatory system carries it around the body.",
+    "concepts": [
+      "body-parts-and-skeleton"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Your Heart & Circulatory System",
+    "url": "https://kidshealth.org/en/kids/heart.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Explains how the right side of the heart sends blood to the lungs and the left side pumps oxygen-rich blood to the body, and what makes the 'lub-dub' sound of a heartbeat.",
+    "concepts": [
+      "body-parts-and-skeleton"
+    ],
+    "how": "Let the child listen to a heartbeat with an ear on your chest after reading.",
+    "chapters": []
+  },
+  {
+    "title": "How the Body Works",
+    "url": "https://kidshealth.org/en/kids/htbw",
+    "source": "KidsHealth (Nemours)",
+    "type": "video",
+    "ages": [
+      6,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A hub of short videos, articles and activities about body systems and senses, hosted by the cartoon characters Chloe and Nurb.",
+    "concepts": [
+      "body-parts-and-skeleton",
+      "senses",
+      "digestion"
+    ],
+    "how": "Use it as a menu: one body system per week.",
+    "chapters": []
+  },
+  {
+    "title": "How to Make Healthy Food Choices",
+    "url": "https://kidshealth.org/en/kids/pyramid.html",
+    "source": "KidsHealth (Nemours)",
+    "type": "reading",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A kids' article on choosing healthy foods and building balanced meals.",
+    "concepts": [
+      "food-and-a-balanced-diet"
+    ],
+    "how": "Note the food guide is American; compare its groups with a typical Indian thali.",
+    "chapters": []
+  },
+  {
+    "title": "Basic Genetics",
+    "url": "https://learn.genetics.utah.edu/content/basics/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "lesson",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "An animated, step-by-step tour of DNA, genes, chromosomes, proteins, traits and heredity, where the learner picks which sections to explore.",
+    "concepts": [
+      "genes-and-inheriting-features"
+    ],
+    "how": "Best for older children; sit with them for the first sections.",
+    "chapters": []
+  },
+  {
+    "title": "What are Traits?",
+    "url": "https://learn.genetics.utah.edu/content/basics/traits/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "reading",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Explains what traits are and that both DNA and environment shape them, for example why identical twins share all their DNA but are not exactly alike.",
+    "concepts": [
+      "genes-and-inheriting-features",
+      "me-and-others"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Introduction to Heredity and Traits",
+    "url": "https://teach.genetics.utah.edu/content/heredity/",
+    "source": "Teach.Genetics, University of Utah",
+    "type": "activity",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Five hands-on activities on inherited traits plus three take-home family activities. In 'An Inventory of My Traits' children list their own visible traits, compare them with others and graph the most and least common ones.",
+    "concepts": [
+      "genes-and-inheriting-features",
+      "me-and-others",
+      "family"
+    ],
+    "how": "Do the trait inventory with siblings, cousins and grandparents.",
+    "chapters": []
+  },
+  {
+    "title": "Generations of Traits",
+    "url": "https://teach.genetics.utah.edu/content/heredity/files/Generations-of-Traits_TG.pdf",
+    "source": "Teach.Genetics, University of Utah",
+    "type": "activity",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Children follow coloured pom-poms, standing for genes, through three generations of gingerbread people to see how traits pass from parents to children.",
+    "concepts": [
+      "genes-and-inheriting-features",
+      "family"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "A Recipe for Traits",
+    "url": "https://teach.genetics.utah.edu/content/heredity/files/A-Recipe-for-Traits_TG.pdf",
+    "source": "Teach.Genetics, University of Utah",
+    "type": "activity",
+    "ages": [
+      8,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Children pick paper strips that stand for pieces of DNA, decode them and draw the dog they describe, seeing that different DNA leads to different traits.",
+    "concepts": [
+      "genes-and-inheriting-features"
+    ],
+    "how": "Print the strips; each child's dog comes out different, which starts a good discussion.",
+    "chapters": []
+  },
+  {
+    "title": "Pigeon Breeding: Genetics at Work",
+    "url": "https://learn.genetics.utah.edu/content/pigeons/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "game",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "In the Pigeonetics game children breed pigeons for wanted traits, solving 26 puzzles while learning the basic rules of inheritance.",
+    "concepts": [
+      "genes-and-inheriting-features",
+      "the-world-of-birds"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Build-a-Bird: The Pigeon Gene Shuffle",
+    "url": "https://teach.genetics.utah.edu/content/pigeons/build-a-bird.pdf",
+    "source": "Teach.Genetics, University of Utah",
+    "type": "activity",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A paper model with scissors, tape and coloured pencils: children shuffle parent pigeon chromosomes, pick two gametes, decode the alleles and draw the baby pigeon, seeing how one pair of parents can have very different chicks.",
+    "concepts": [
+      "genes-and-inheriting-features",
+      "the-world-of-birds",
+      "growing-up-and-having-young"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Mutt Mixer Modeling",
+    "url": "https://teach.genetics.utah.edu/content/change/pdfs/mutt%20mixer%20modeling.pdf",
+    "source": "Teach.Genetics, University of Utah",
+    "type": "worksheet",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A printable modelling worksheet in which random shuffling of two parent dogs' alleles produces puppies with different traits.",
+    "concepts": [
+      "genes-and-inheriting-features",
+      "growing-up-and-having-young"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Cell Size and Scale",
+    "url": "https://learn.genetics.utah.edu/content/cells/scale/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "sim",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "An interactive scale ladder that steps down from metres to picometres, letting children compare how big cells are next to everyday objects, molecules and atoms.",
+    "concepts": [
+      "microorganisms",
+      "matter-and-particles",
+      "living-and-non-living-signs-of-life"
+    ],
+    "how": "Start with a grain of rice and keep zooming.",
+    "chapters": []
+  },
+  {
+    "title": "Memory, Attention, and Distraction",
+    "url": "https://learn.genetics.utah.edu/content/memory/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "lesson",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A set of pages and interactives on how memory and attention work, with memory demos, the 'Seven Sins of Memory' mystery activity and the Distractown interactive.",
+    "concepts": [
+      "thinking-and-memory"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Memory Demos",
+    "url": "https://learn.genetics.utah.edu/content/memory/demos/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "experiment",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Children try a change-blindness test (spot the difference after a quick flash), a Stroop test (say the ink colour of colour words) and an inattentional blindness demo, and learn why their brain misses things.",
+    "concepts": [
+      "thinking-and-memory"
+    ],
+    "how": "Do the Stroop test as a family race using the printable word lists.",
+    "chapters": []
+  },
+  {
+    "title": "Types of Memory",
+    "url": "https://learn.genetics.utah.edu/content/memory/types/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "reading",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Click through sensory, short-term and long-term memory to see how each type works and which parts of the brain it uses.",
+    "concepts": [
+      "thinking-and-memory"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Basic Neuroscience",
+    "url": "https://learn.genetics.utah.edu/content/neuroscience/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "lesson",
+    "ages": [
+      11,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Shows how neurons send signals in the brain, with interactives such as Neurobuilder and an animated tutorial on how neurons talk to each other.",
+    "concepts": [
+      "thinking-and-memory",
+      "body-parts-and-skeleton"
+    ],
+    "how": "For older children who enjoyed the KidsHealth brain pages.",
+    "chapters": []
+  },
+  {
+    "title": "Sensory Systems: The Neuroscience of Our Senses",
+    "url": "https://learn.genetics.utah.edu/content/senses/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "lesson",
+    "ages": [
+      10,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A set of pages and interactives on how our senses detect the world and how the brain combines them.",
+    "concepts": [
+      "senses"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Taste & Smell",
+    "url": "https://learn.genetics.utah.edu/content/senses/smellandtaste/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "sim",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "An interactive showing how the nose and tongue sense chemicals and why taste and flavour are different; it also explains why children often taste things more strongly than adults.",
+    "concepts": [
+      "senses"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Sensory Systems: Companion Activities",
+    "url": "https://learn.genetics.utah.edu/content/senses/companion/",
+    "source": "Learn.Genetics, University of Utah",
+    "type": "experiment",
+    "ages": [
+      6,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Low-cost experiments: chew a jellybean with your nose pinched and then open to feel smell make flavour, test mint and cinnamon sweets on the tongue's cold and heat sensors, and measure your own smell threshold.",
+    "concepts": [
+      "senses"
+    ],
+    "how": "Any sweet or a little saunf or elaichi works in place of a jellybean.",
+    "chapters": []
+  },
+  {
+    "title": "KS1 Hand Hygiene",
+    "url": "https://www.e-bug.eu/ks1-hand-hygiene",
+    "source": "e-Bug (UK Health Security Agency)",
+    "type": "experiment",
+    "ages": [
+      6,
+      8
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "In a pepper-and-water experiment children see that soap or sanitiser clears 'microbes' from hands, and that soap and water works better than water alone. Includes hand-washing flashcards and a fill-in-the-blanks sheet.",
+    "concepts": [
+      "health-hygiene-exercise-and-illness",
+      "microorganisms"
+    ],
+    "how": "Takes five minutes with a plate, water, pepper and soap.",
+    "chapters": []
+  },
+  {
+    "title": "Key Stage 1 Teaching Resources",
+    "url": "https://www.e-bug.eu/ks1-teaching-resources",
+    "source": "e-Bug (UK Health Security Agency)",
+    "type": "lesson",
+    "ages": [
+      6,
+      7
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Four free 50-minute lessons for young children: Introduction to Microbes, Hand Hygiene, Respiratory Hygiene (recreating a sneeze to see how germs spread) and Oral Hygiene (how plaque forms and sugar harms teeth).",
+    "concepts": [
+      "microorganisms",
+      "health-hygiene-exercise-and-illness"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "KS1 Introduction to Microbes",
+    "url": "https://www.e-bug.eu/ks1-intro-to-microbes",
+    "source": "e-Bug (UK Health Security Agency)",
+    "type": "lesson",
+    "ages": [
+      6,
+      7
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "Children watch the Microbe Mania video about bacteria, viruses and fungi, then make a microbe of their own, with worksheets to follow.",
+    "concepts": [
+      "microorganisms"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "KS2 Introduction to Microbes",
+    "url": "https://www.e-bug.eu/ks2-intro-to-microbes",
+    "source": "e-Bug (UK Health Security Agency)",
+    "type": "lesson",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "A 50-minute lesson on bacteria, viruses and fungi and where microbes are found, with a Design-a-Bug activity.",
+    "concepts": [
+      "microorganisms"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "KS2 Useful Microbes",
+    "url": "https://www.e-bug.eu/ks2-useful-microbes",
+    "source": "e-Bug (UK Health Security Agency)",
+    "type": "experiment",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "In a yeast racing competition children see a fungus make bread dough rise, and learn that bread, yoghurt, cheese and vinegar are made with the help of microbes.",
+    "concepts": [
+      "microorganisms",
+      "changing-materials"
+    ],
+    "how": "Link it to making idli or dosa batter and curd at home.",
+    "chapters": []
+  },
+  {
+    "title": "Key Stage 2 Teaching Resources",
+    "url": "https://www.e-bug.eu/ks2-teaching-resources",
+    "source": "e-Bug (UK Health Security Agency)",
+    "type": "lesson",
+    "ages": [
+      7,
+      11
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The full set of free e-Bug lessons for ages 7–11 on microbes, useful and harmful microbes, hygiene and the spread of infection, each with activities and worksheets.",
+    "concepts": [
+      "microorganisms",
+      "health-hygiene-exercise-and-illness"
+    ],
+    "chapters": []
+  },
+  {
+    "title": "Smithsonian Human Origins",
+    "url": "https://humanorigins.si.edu/",
+    "source": "Smithsonian National Museum of Natural History",
+    "type": "sim",
+    "ages": [
+      9,
+      12
+    ],
+    "access": "free",
+    "lang": [
+      "en"
+    ],
+    "desc": "The Smithsonian's human evolution site, with a Human Evolution Timeline interactive, a Fossil Forensics interactive, an Adventures in the Rift Valley interactive on climate and early humans, and fun facts.",
+    "concepts": [
+      "where-humans-came-from"
+    ],
+    "how": "Start with the timeline and let the child find when our own species appears.",
+    "chapters": []
+  }
+]

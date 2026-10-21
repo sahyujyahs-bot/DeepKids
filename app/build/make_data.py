@@ -47,13 +47,25 @@ for it in items:  # attach chapter packs
     pk = it["k"].replace("cam|", "cambridge|", 1)
     if pk in PACKS: it["c"] = {**(it.get("c") or {}), "p": PACKS[pk]}
 
+# science resource library (app/resources/SPEC.md): only files that pass the check
+from validate_resources import check as check_res
+RES_DIR = os.path.join(HERE, "..", "resources"); RESOURCES = []; _seen = {}
+for f in sorted(glob.glob(os.path.join(RES_DIR, "*.json"))):
+    if f.endswith("concepts.json"): continue
+    if check_res(f, dict(_seen)): print("skipping resource file that fails validation:", os.path.basename(f)); continue
+    for r in json.load(open(f)):
+        u = r["url"].rstrip("/").lower()
+        if u in _seen: continue
+        _seen[u] = 1; RESOURCES.append({k: r[k] for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc", "concepts") } | ({"how": r["how"]} if r.get("how") else {}) | ({"chapters": r["chapters"]} if r.get("chapters") else {}))
+RCONCEPTS = [{k: c[k] for k in ("id", "concept", "chapters")} for c in json.load(open(os.path.join(RES_DIR, "concepts.json")))]
+
 topics = []
 for t in T:
     topics.append({"id": t["id"], "q": t["q"], "name": t["topic"], "sub": [s.strip("• ").strip() for s in t["subtopics"].split("\n") if s.strip()],
                    "summary": t["summary"], "oneness": t["oneness"], "weeks": WEEKS[t["id"]], "full": t["id"] == "A1",
                    "res": [{"type": a, "title": b, "url": c} for a, b, c in RES.get(t["id"], [])]})
 
-data = {"prepgen": {"guide": SUBJ_GUIDE, "prep": SUBJ_PREP}, "jokebook": JOKE_BOOK, "levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items, "topics": topics,
+data = {"resources": RESOURCES, "rconcepts": RCONCEPTS, "prepgen": {"guide": SUBJ_GUIDE, "prep": SUBJ_PREP}, "jokebook": JOKE_BOOK, "levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items, "topics": topics,
         "notes": {"ncert": {f"{s}|{l}": n for (s, l), n in NCERT_NOTES.items()},
                   "nios": {**{s: f"NIOS {n}: Level A and B books to be added." for s, n in NIOS_PENDING.items()},
                            "sci|1": "NIOS starts at Level A, which is equivalent to Class 3.", "sci|2": "NIOS starts at Level A, which is equivalent to Class 3.",

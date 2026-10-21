@@ -1,0 +1,957 @@
+[
+ {
+  "id": "living-and-non-living-signs-of-life",
+  "concept": "Living and non-living; signs of life",
+  "plus": [
+   "A1"
+  ],
+  "levels": [
+   1,
+   3
+  ],
+  "chapters": [
+   "cam|sci|1|1",
+   "cam|sci|3|3",
+   "nios|sci|3|4"
+  ],
+  "topics": [
+   "L1 1.1 Animals and plants alive!",
+   "L3 3.1 Living and non-living",
+   "L3 3.2 Growth and nutrition",
+   "L3 3.3 Movement and reproduction",
+   "L3 Lesson 4 The Environment"
+  ]
+ },
+ {
+  "id": "growing-up-and-having-young",
+  "concept": "Growing up and having young",
+  "plus": [
+   "A1"
+  ],
+  "levels": [
+   1,
+   2
+  ],
+  "chapters": [
+   "cam|sci|1|1",
+   "cam|sci|2|4"
+  ],
+  "topics": [
+   "L1 1.3 Animal babies",
+   "L2 4.2 Growing"
+  ]
+ },
+ {
+  "id": "how-life-began",
+  "concept": "How life began",
+  "plus": [
+   "A2"
+  ],
+  "levels": [],
+  "chapters": [],
+  "topics": []
+ },
+ {
+  "id": "matter-and-particles",
+  "concept": "Matter and particles: what everything is made of",
+  "plus": [
+   "A3"
+  ],
+  "levels": [
+   4
+  ],
+  "chapters": [
+   "cam|sci|4|3"
+  ],
+  "topics": [
+   "L4 3.1 Materials, substances and particles"
+  ]
+ },
+ {
+  "id": "changing-materials",
+  "concept": "Changing materials: heating, melting, reactions",
+  "plus": [
+   "A3"
+  ],
+  "levels": [
+   2,
+   4
+  ],
+  "chapters": [
+   "cam|sci|2|3",
+   "cam|sci|4|3"
+  ],
+  "topics": [
+   "L2 3.5 Changing materials",
+   "L4 3.2 How do solids and liquids behave?",
+   "L4 3.3 Melting and solidifying",
+   "L4 3.4 Chemical reactions"
+  ]
+ },
+ {
+  "id": "materials-and-their-properties",
+  "concept": "Materials and their properties",
+  "plus": [
+   "A4"
+  ],
+  "levels": [
+   1,
+   2,
+   3
+  ],
+  "chapters": [
+   "cam|sci|1|4",
+   "cam|sci|2|3",
+   "cam|sci|3|5",
+   "ncert|sci|3|10"
+  ],
+  "topics": [
+   "L3 Ch 10 This World of Things",
+   "L1 4.1 What is it made of?",
+   "L1 4.2 Using materials",
+   "L1 4.3 Sorting materials",
+   "L2 3.1 Natural and made materials",
+   "L2 3.2 Properties of materials",
+   "L2 3.3 Using the right material",
+   "L2 3.4 Testing materials",
+   "L3 5.1 Properties of materials",
+   "L3 5.2 Sorting materials",
+   "L3 5.3 Uses of materials",
+   "L3 5.4 Testing materials"
+  ]
+ },
+ {
+  "id": "making-things",
+  "concept": "Making things: houses, paper, cloth",
+  "plus": [
+   "A4"
+  ],
+  "levels": [
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "ncert|sci|3|11",
+   "ncert|sci|4|8",
+   "ncert|sci|5|8"
+  ],
+  "topics": [
+   "L3 Ch 11 Making Things",
+   "L4 Ch 8 How Things are Made",
+   "L5 Ch 8 Clothes — How Things are Made"
+  ]
+ },
+ {
+  "id": "rocks-and-soil",
+  "concept": "Rocks and soil",
+  "plus": [
+   "A4"
+  ],
+  "levels": [
+   2,
+   5
+  ],
+  "chapters": [
+   "cam|sci|2|1",
+   "nios|sci|5|8"
+  ],
+  "topics": [
+   "L2 1.4 Rocks and the environment",
+   "L5 Lesson 8 Soil and Crops"
+  ]
+ },
+ {
+  "id": "gases-evaporation-condensation-solutions",
+  "concept": "Gases, evaporation, condensation, solutions",
+  "plus": [
+   "A4",
+   "B5"
+  ],
+  "levels": [
+   5
+  ],
+  "chapters": [
+   "cam|sci|5|3"
+  ],
+  "topics": [
+   "L5 3.1 Gases",
+   "L5 3.2 Properties of water",
+   "L5 3.3 Evaporation and condensation",
+   "L5 3.4 Solutions"
+  ]
+ },
+ {
+  "id": "plants",
+  "concept": "Plants: parts and what they need",
+  "plus": [
+   "A5"
+  ],
+  "levels": [
+   1,
+   3
+  ],
+  "chapters": [
+   "cam|sci|1|2",
+   "cam|sci|3|1",
+   "ncert|sci|3|4"
+  ],
+  "topics": [
+   "L3 Ch 4 Getting to Know Plants",
+   "L1 2.1 Plant parts",
+   "L1 2.3 Plants and light",
+   "L3 1.1 Plants and their parts",
+   "L3 1.2 Plants need light and water",
+   "L3 1.3 Transporting water"
+  ]
+ },
+ {
+  "id": "seeds-plant-growth-and-plant-life-cycles",
+  "concept": "Seeds, plant growth and plant life cycles",
+  "plus": [
+   "A5"
+  ],
+  "levels": [
+   1,
+   3,
+   5
+  ],
+  "chapters": [
+   "cam|sci|1|2",
+   "cam|sci|3|1",
+   "cam|sci|5|1"
+  ],
+  "topics": [
+   "L1 2.2 Growing seeds",
+   "L3 1.4 Plant growth and temperature",
+   "L5 1.1 Flowering and non-flowering plants",
+   "L5 1.2 Pollination, fruits and seeds",
+   "L5 1.3 How seeds are spread",
+   "L5 1.4 Seed germination"
+  ]
+ },
+ {
+  "id": "kinds-of-living-things-and-sorting-them",
+  "concept": "Kinds of living things and sorting them",
+  "plus": [
+   "A5"
+  ],
+  "levels": [
+   2,
+   3,
+   4
+  ],
+  "chapters": [
+   "cam|sci|2|4",
+   "cam|sci|3|3",
+   "ncert|sci|4|3"
+  ],
+  "topics": [
+   "L4 Ch 3 Nature Trail",
+   "L2 4.1 Comparing animals",
+   "L3 3.5 Sorting living things"
+  ]
+ },
+ {
+  "id": "habitats-and-adaptation",
+  "concept": "Habitats and adaptation",
+  "plus": [
+   "A5",
+   "B4"
+  ],
+  "levels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|1|1",
+   "cam|sci|2|1",
+   "cam|sci|4|4",
+   "cam|sci|5|6",
+   "ncert|sci|3|5",
+   "ncert|sci|4|9",
+   "ncert|sci|5|6"
+  ],
+  "topics": [
+   "L3 Ch 5 Plants and Animals Live Together",
+   "L4 Ch 9 Different Lands, Different Lives",
+   "L5 Ch 6 Some Unique Places",
+   "L1 1.2 Local environments",
+   "L2 1.1 Habitats",
+   "L2 1.2 Plants in different habitats",
+   "L2 1.3 Animals in different habitats",
+   "L4 4.4 Different habitats",
+   "L5 6.3 Plants and animals are adapted to different environments",
+   "L5 6.4 Adaptations of predators and prey"
+  ]
+ },
+ {
+  "id": "living-in-harmony",
+  "concept": "Living in harmony: food chains and the web of life",
+  "plus": [
+   "C4",
+   "C12"
+  ],
+  "levels": [
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|4|2",
+   "ncert|sci|3|6",
+   "ncert|sci|4|4",
+   "nios|sci|5|7"
+  ],
+  "topics": [
+   "L3 Ch 6 Living in Harmony",
+   "L4 Ch 4 Growing up with Nature",
+   "L4 2.4 Energy and living things",
+   "L5 Lesson 7 Life of Plants and Animals"
+  ]
+ },
+ {
+  "id": "the-universe-sun-moon-stars-and-planets",
+  "concept": "The universe, Sun, Moon, stars and planets",
+  "plus": [
+   "B1"
+  ],
+  "levels": [
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|4|5",
+   "ncert|sci|4|10",
+   "nios|sci|3|6",
+   "nios|sci|5|11"
+  ],
+  "topics": [
+   "L4 Ch 10 Our Sky",
+   "L4 5.4 Light in the solar system",
+   "L3 Lesson 6 Sun-Moon-Stars, Day-Night and Seasons",
+   "L5 Lesson 11 Solar System and Earth"
+  ]
+ },
+ {
+  "id": "gravity",
+  "concept": "Gravity",
+  "plus": [
+   "B1",
+   "B6"
+  ],
+  "levels": [
+   5
+  ],
+  "chapters": [
+   "cam|sci|5|5"
+  ],
+  "topics": [
+   "L5 5.1 Gravity, normal forces and applied forces",
+   "L5 5.2 Gravity and satellites"
+  ]
+ },
+ {
+  "id": "planet-earth",
+  "concept": "Planet Earth: inside, land, water and rivers",
+  "plus": [
+   "B1"
+  ],
+  "levels": [
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|4|4",
+   "ncert|sci|5|2",
+   "nios|sci|5|5"
+  ],
+  "topics": [
+   "L5 Ch 2 Journey of a River",
+   "L4 4.1 The structure of the Earth",
+   "L5 Lesson 5 The States of India and their Physical Features"
+  ]
+ },
+ {
+  "id": "day-night-seasons-and-rhythms-of-nature",
+  "concept": "Day, night, seasons and rhythms of nature",
+  "plus": [
+   "B5"
+  ],
+  "levels": [
+   2,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|2|5",
+   "cam|sci|4|5",
+   "cam|sci|5|6",
+   "ncert|sci|5|9"
+  ],
+  "topics": [
+   "L5 Ch 9 Rhythms of Nature",
+   "L2 5.3 The Sun appears to move!",
+   "L4 5.5 Day and night",
+   "L5 6.1 The Earth moves around the Sun",
+   "L5 6.2 Seasonal changes"
+  ]
+ },
+ {
+  "id": "water",
+  "concept": "Water: sources, water cycle and saving it",
+  "plus": [
+   "B5",
+   "B8"
+  ],
+  "levels": [
+   3,
+   5
+  ],
+  "chapters": [
+   "ncert|sci|3|7",
+   "ncert|sci|5|1"
+  ],
+  "topics": [
+   "L3 Ch 7 Water — A Precious Gift",
+   "L5 Ch 1 Water — The Essence of Life"
+  ]
+ },
+ {
+  "id": "nature-s-events",
+  "concept": "Nature's events: volcanoes, earthquakes, floods",
+  "plus": [
+   "B8"
+  ],
+  "levels": [
+   4
+  ],
+  "chapters": [
+   "cam|sci|4|4"
+  ],
+  "topics": [
+   "L4 4.2 Volcanoes",
+   "L4 4.3 Earthquakes"
+  ]
+ },
+ {
+  "id": "society-community-culture-and-festivals",
+  "concept": "Society, community, culture and festivals",
+  "plus": [
+   "B2"
+  ],
+  "levels": [
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "ncert|sci|3|2",
+   "ncert|sci|3|3",
+   "ncert|sci|4|1",
+   "ncert|sci|4|2",
+   "ncert|sci|5|5",
+   "nios|sci|3|11",
+   "nios|sci|3|12",
+   "nios|sci|3|2",
+   "nios|sci|3|3",
+   "nios|sci|5|1",
+   "nios|sci|5|2",
+   "nios|sci|5|3",
+   "nios|sci|5|4",
+   "nios|sci|5|6"
+  ],
+  "topics": [
+   "L3 Ch 2 Going to the Mela",
+   "L3 Ch 3 Celebrating Festivals",
+   "L4 Ch 1 Living Together",
+   "L4 Ch 2 Exploring Our Neighbourhood",
+   "L5 Ch 5 Our Vibrant Country",
+   "L3 Lesson 2 Our Social Environment",
+   "L3 Lesson 3 Our Festivals",
+   "L3 Lesson 11 National Identity",
+   "L3 Lesson 12 Our Social and Economic Environment",
+   "L5 Lesson 1 India's Cultural and Natural Heritage: Its Conservation and Honour",
+   "L5 Lesson 2 Peace, Unity and Harmony in Indian Society",
+   "L5 Lesson 3 Our Social Issues",
+   "L5 Lesson 4 Our Freedom Struggle",
+   "L5 Lesson 6 Our Community and Public Administration"
+  ]
+ },
+ {
+  "id": "transport-and-communication",
+  "concept": "Transport and communication",
+  "plus": [
+   "B2"
+  ],
+  "levels": [
+   3
+  ],
+  "chapters": [
+   "nios|sci|3|10"
+  ],
+  "topics": [
+   "L3 Lesson 10 Transport and Communication"
+  ]
+ },
+ {
+  "id": "microorganisms",
+  "concept": "Microorganisms",
+  "plus": [
+   "B3",
+   "C1"
+  ],
+  "levels": [
+   5
+  ],
+  "chapters": [
+   "ncert|sci|5|3"
+  ],
+  "topics": [
+   "L5 Ch 3 The Mystery of Food"
+  ]
+ },
+ {
+  "id": "the-world-of-birds",
+  "concept": "The world of birds",
+  "plus": [
+   "B4"
+  ],
+  "levels": [],
+  "chapters": [],
+  "topics": []
+ },
+ {
+  "id": "forces-and-movement",
+  "concept": "Forces and movement",
+  "plus": [
+   "B6"
+  ],
+  "levels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|1|5",
+   "cam|sci|2|2",
+   "cam|sci|3|6",
+   "cam|sci|5|5",
+   "ncert|sci|4|7"
+  ],
+  "topics": [
+   "L4 Ch 7 How Things Work",
+   "L1 5.1 In the playground",
+   "L1 5.2 How toys work",
+   "L1 5.3 Pushes and pulls around us",
+   "L1 5.4 Changing movement",
+   "L2 2.1 Forces around us",
+   "L2 2.2 Changing shape",
+   "L2 2.3 Changing speed",
+   "L2 2.4 Changing direction",
+   "L3 6.1 Push and pull",
+   "L3 6.2 Changing shape",
+   "L3 6.3 How big is that force?",
+   "L3 6.4 Forcemeters",
+   "L3 6.5 Friction",
+   "L5 5.3 Friction, air resistance, water resistance and upthrust",
+   "L5 5.4 Multiple forces"
+  ]
+ },
+ {
+  "id": "magnets",
+  "concept": "Magnets",
+  "plus": [
+   "B6"
+  ],
+  "levels": [
+   3,
+   5
+  ],
+  "chapters": [
+   "cam|sci|3|5",
+   "cam|sci|5|5"
+  ],
+  "topics": [
+   "L3 5.5 Magnetic materials",
+   "L5 5.5 Magnets and magnetic materials",
+   "L5 5.6 Magnetic force"
+  ]
+ },
+ {
+  "id": "sound",
+  "concept": "Sound",
+  "plus": [
+   "B6"
+  ],
+  "levels": [
+   1,
+   5
+  ],
+  "chapters": [
+   "cam|sci|1|6",
+   "cam|sci|5|2"
+  ],
+  "topics": [
+   "L1 6.1 Where do sounds come from?",
+   "L1 6.3 Sounds move",
+   "L5 2.1 How are sounds made?",
+   "L5 2.2 Volume and pitch",
+   "L5 2.3 Changing the volume of sound",
+   "L5 2.4 Changing the pitch of sound"
+  ]
+ },
+ {
+  "id": "light-seeing-and-shadows",
+  "concept": "Light, seeing and shadows",
+  "plus": [
+   "B7"
+  ],
+  "levels": [
+   2,
+   4
+  ],
+  "chapters": [
+   "cam|sci|2|5",
+   "cam|sci|4|5"
+  ],
+  "topics": [
+   "L2 5.1 Light sources",
+   "L2 5.2 Darkness",
+   "L4 5.1 How we see things",
+   "L4 5.2 Light travels in straight lines",
+   "L4 5.3 Light reflects off different surfaces",
+   "L4 5.6 Investigating shadow lengths"
+  ]
+ },
+ {
+  "id": "caring-for-the-environment",
+  "concept": "Caring for the environment",
+  "plus": [
+   "B9"
+  ],
+  "levels": [
+   2,
+   3,
+   5
+  ],
+  "chapters": [
+   "cam|sci|2|1",
+   "ncert|sci|5|10",
+   "ncert|sci|5|4",
+   "nios|sci|3|5",
+   "nios|sci|5|9"
+  ],
+  "topics": [
+   "L5 Ch 4 Our School — A Happy Place",
+   "L5 Ch 10 Earth — Our Shared Home",
+   "L2 1.5 How can we care for our environment?",
+   "L3 Lesson 5 Conservation of Environment",
+   "L5 Lesson 9 Conservation of Soil and Forests"
+  ]
+ },
+ {
+  "id": "waste",
+  "concept": "Waste: reduce, reuse, recycle",
+  "plus": [
+   "B10"
+  ],
+  "levels": [
+   3,
+   5
+  ],
+  "chapters": [
+   "ncert|sci|3|12",
+   "nios|sci|5|15"
+  ],
+  "topics": [
+   "L3 Ch 12 Taking Charge of Waste",
+   "L5 Lesson 15 Garbage and Waste Disposal"
+  ]
+ },
+ {
+  "id": "genes-and-inheriting-features",
+  "concept": "Genes and inheriting features",
+  "plus": [
+   "C2"
+  ],
+  "levels": [
+   2
+  ],
+  "chapters": [
+   "cam|sci|2|4"
+  ],
+  "topics": [
+   "L2 4.3 Inheriting characteristics"
+  ]
+ },
+ {
+  "id": "where-humans-came-from",
+  "concept": "Where humans came from",
+  "plus": [
+   "C3"
+  ],
+  "levels": [],
+  "chapters": [],
+  "topics": []
+ },
+ {
+  "id": "me-and-others",
+  "concept": "Me and others: alike and different",
+  "plus": [
+   "C4",
+   "C5"
+  ],
+  "levels": [
+   1,
+   3
+  ],
+  "chapters": [
+   "cam|sci|1|3",
+   "cam|sci|3|3"
+  ],
+  "topics": [
+   "L1 3.1 We are similar",
+   "L1 3.2 We are different",
+   "L3 3.4 Sorting humans"
+  ]
+ },
+ {
+  "id": "our-closest-cousins",
+  "concept": "Our closest cousins",
+  "plus": [
+   "C5"
+  ],
+  "levels": [],
+  "chapters": [],
+  "topics": []
+ },
+ {
+  "id": "family",
+  "concept": "Family",
+  "plus": [
+   "C6"
+  ],
+  "levels": [
+   3
+  ],
+  "chapters": [
+   "ncert|sci|3|1",
+   "nios|sci|3|1"
+  ],
+  "topics": [
+   "L3 Ch 1 Family and Friends",
+   "L3 Lesson 1 Concept of Family and Interpersonal Relations"
+  ]
+ },
+ {
+  "id": "body-parts-and-skeleton",
+  "concept": "Body parts and skeleton",
+  "plus": [
+   "C7"
+  ],
+  "levels": [
+   1,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|1|3",
+   "cam|sci|4|1",
+   "nios|sci|5|13"
+  ],
+  "topics": [
+   "L1 3.3 Our bodies",
+   "L4 1.1 Bones and skeletons",
+   "L4 1.2 Why we need a skeleton",
+   "L4 1.3 Skeletons and movement",
+   "L4 1.4 Different kinds of skeletons",
+   "L5 Lesson 13 Internal Organs of the Human Body"
+  ]
+ },
+ {
+  "id": "senses",
+  "concept": "Senses",
+  "plus": [
+   "C8"
+  ],
+  "levels": [
+   1,
+   3
+  ],
+  "chapters": [
+   "cam|sci|1|3",
+   "cam|sci|1|6",
+   "cam|sci|3|4"
+  ],
+  "topics": [
+   "L1 3.4 Our fantastic senses",
+   "L1 6.2 Our ears",
+   "L3 4.1 Hearing and touch",
+   "L3 4.2 Taste and smell",
+   "L3 4.3 Sight"
+  ]
+ },
+ {
+  "id": "thinking-and-memory",
+  "concept": "Thinking and memory",
+  "plus": [
+   "C9"
+  ],
+  "levels": [],
+  "chapters": [],
+  "topics": []
+ },
+ {
+  "id": "health-hygiene-exercise-and-illness",
+  "concept": "Health, hygiene, exercise and illness",
+  "plus": [
+   "C10"
+  ],
+  "levels": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|2|4",
+   "cam|sci|3|2",
+   "cam|sci|4|1",
+   "ncert|sci|3|9",
+   "ncert|sci|4|6",
+   "nios|sci|3|9",
+   "nios|sci|5|14"
+  ],
+  "topics": [
+   "L3 Ch 9 Staying Healthy and Happy",
+   "L4 Ch 6 Happy and Healthy Living",
+   "L2 4.4 Keeping healthy",
+   "L2 4.5 Teeth",
+   "L3 2.4 Exercise and sleep",
+   "L4 1.5 Medicines and infectious diseases",
+   "L3 Lesson 9 Care and cleanliness of external organs",
+   "L5 Lesson 14 Common Diseases: their Reasons, Prevention and Protection"
+  ]
+ },
+ {
+  "id": "electricity-and-staying-safe-with-it",
+  "concept": "Electricity and staying safe with it",
+  "plus": [
+   "C10"
+  ],
+  "levels": [
+   2,
+   4
+  ],
+  "chapters": [
+   "cam|sci|2|6",
+   "cam|sci|4|6"
+  ],
+  "topics": [
+   "L2 6.1 Where do we use electricity?",
+   "L2 6.2 Keep safe with electricity",
+   "L2 6.3 Making circuits",
+   "L4 6.1 Which materials conduct electricity?",
+   "L4 6.2 Does water conduct electricity?",
+   "L4 6.3 Using conductors and insulators in electrical appliances",
+   "L4 6.4 Switches",
+   "L4 6.5 Changing the number of components in a circuit"
+  ]
+ },
+ {
+  "id": "food-and-a-balanced-diet",
+  "concept": "Food and a balanced diet",
+  "plus": [
+   "C11"
+  ],
+  "levels": [
+   1,
+   3,
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|1|1",
+   "cam|sci|3|2",
+   "cam|sci|5|4",
+   "ncert|sci|3|8",
+   "ncert|sci|4|5",
+   "nios|sci|3|8",
+   "nios|sci|5|12"
+  ],
+  "topics": [
+   "L3 Ch 8 Food We Eat",
+   "L4 Ch 5 Food for Health",
+   "L1 1.4 Healthy food and drink",
+   "L3 2.1 Food groups",
+   "L3 2.2 A healthy diet",
+   "L3 2.3 An unhealthy diet",
+   "L5 4.2 Balanced diets",
+   "L3 Lesson 8 Food",
+   "L5 Lesson 12 Food and Health"
+  ]
+ },
+ {
+  "id": "digestion",
+  "concept": "Digestion: how the body uses food",
+  "plus": [
+   "C11"
+  ],
+  "levels": [
+   5
+  ],
+  "chapters": [
+   "cam|sci|5|4"
+  ],
+  "topics": [
+   "L5 4.1 Parts and functions of the digestive system"
+  ]
+ },
+ {
+  "id": "basic-needs",
+  "concept": "Basic needs: air, water, food, clothing, shelter",
+  "plus": [
+   "C11",
+   "C12"
+  ],
+  "levels": [
+   3
+  ],
+  "chapters": [
+   "nios|sci|3|7"
+  ],
+  "topics": [
+   "L3 Lesson 7 Our Basic Needs"
+  ]
+ },
+ {
+  "id": "energy",
+  "concept": "Energy",
+  "plus": [
+   "C12"
+  ],
+  "levels": [
+   4,
+   5
+  ],
+  "chapters": [
+   "cam|sci|4|2",
+   "ncert|sci|5|7",
+   "nios|sci|5|10"
+  ],
+  "topics": [
+   "L5 Ch 7 Energy — How Things Work",
+   "L4 2.1 Energy around us",
+   "L4 2.2 Energy transfers",
+   "L4 2.3 Energy changes",
+   "L5 Lesson 10 Sources of Energy and their Importance"
+  ]
+ }
+]
