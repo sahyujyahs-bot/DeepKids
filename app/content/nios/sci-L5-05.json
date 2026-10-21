@@ -1,0 +1,578 @@
+{
+  "key": "nios|sci|5|5",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 5,
+  "title": "The States of India and their Physical Features",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 5 (lesson pages 68–93)",
+  "summary": "Your child learns India's place on the globe and among its neighbours, its states, union territories and capitals, and its six physical divisions: the Himalaya, the northern plains, the peninsular plateau, the Thar desert, the coastal plains and the islands. They find out what shapes India's climate (latitude, the sea, height, mountains and winds), where the main crops grow and why, and how rainfall decides the type of forest, while testing ideas with models, a globe made from an orange and a sand-and-water heating test.",
+  "goals": [
+    "By the end your child can locate India on a globe using the equator, the Tropic of Cancer and lines of latitude and longitude, and name its neighbours and the seas around it.",
+    "By the end your child can find at least 20 states and union territories and their capitals on a map, and knows the current count (28 states and 8 union territories) and why it has changed.",
+    "By the end your child can name and describe India's six physical divisions, with key mountains, rivers, passes and hill stations, and explain how the Himalaya formed when India crashed into Asia.",
+    "By the end your child can explain five factors that shape India's climate, including why coastal cities are milder than inland ones, using their own sand-and-water test.",
+    "By the end your child can sort India's crops into food, cash, plantation and horticulture crops, tell kharif from rabi, and say where rice, wheat, millets and pulses grow.",
+    "By the end your child can match the five forest types to rainfall and place and name trees found in each."
+  ],
+  "words": [
+    ["state / union territory", "a state has its own elected government; a union territory is governed more directly by the central government"],
+    ["capital", "the city where a state's or country's government works"],
+    ["equator", "the imaginary line around the middle of the Earth, dividing it into the northern and southern hemispheres"],
+    ["Tropic of Cancer", "the imaginary line at about 23½° north of the equator; it passes through the middle of India"],
+    ["latitude and longitude", "imaginary lines on a globe: latitudes run east–west and tell how far north or south a place is; longitudes run north–south and tell how far east or west"],
+    ["plateau", "a large area of high, fairly flat land"],
+    ["pass (la)", "a low gap through high mountains that people can cross, such as Nathu La"],
+    ["delta", "the flat, fan-shaped land a river builds with its soil where it meets the sea"],
+    ["climate / weather", "weather is the condition of the air today; climate is the usual pattern of weather in a place over 30 years or more"],
+    ["monsoon", "the seasonal winds that blow from the sea to the land in summer, bringing most of India's rain"],
+    ["kharif / rabi", "kharif crops are sown with the monsoon and harvested in autumn (rice, millets); rabi crops are sown in winter and harvested in spring (wheat, mustard, gram)"],
+    ["deciduous / evergreen", "deciduous trees shed their leaves once a year; evergreen trees keep green leaves all year"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "India and its states",
+      "goal": "Find India's size, neighbours and seas, and learn its states, union territories and capitals on a map.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Where in India are you?",
+          "mins": 6,
+          "do": "Ask your child: 'What is the name of our town, district and state? What is our state's capital?' Then ask them to name every state they or a relative has visited, and one thing they remember from each (food, language, weather). Note how many states the family has seen. Say: 'Today we'll see how all these pieces fit together.'"
+        },
+        {
+          "kind": "read",
+          "title": "India's size and neighbours (lesson page 68)",
+          "mins": 8,
+          "do": "Read the lesson opening aloud. India is the seventh largest country by area; neighbours: Nepal, China and Bhutan to the north, Bangladesh and Myanmar to the east, Pakistan and Afghanistan to the west; Sri Lanka and the Maldives lie across the sea to the south. Seas: Bay of Bengal (east), Arabian Sea (west), Indian Ocean (south), meeting at Kanyakumari. India measures about 3,214 km north to south and 2,933 km east to west. Correct the book's area: it is about 32.87 lakh square kilometres (square kilometres, not kilometres). Ask: 'If you travelled 500 km a day by train, how many days to go from Kashmir to Kanyakumari?' (About 6 to 7.)"
+        },
+        {
+          "kind": "read",
+          "title": "States and union territories (lesson pages 68–71)",
+          "mins": 10,
+          "do": "Read section 5.1 and the tables of states and union territories, using the political map on page 70. Then give the update, because maps change: India has 28 states and 8 union territories today. In 2019 Jammu and Kashmir became two union territories, Jammu and Kashmir, and Ladakh (capital Leh); in 2020 Dadra and Nagar Haveli and Daman and Diu were joined into one union territory. Andhra Pradesh's capital is being built at Amaravati; Hyderabad is Telangana's capital. The book says about 600 princely states joined India; historians usually say more than 560. Ask: 'Which city is the capital of two states?' (Chandigarh: Punjab and Haryana, and it is a union territory itself.)"
+        },
+        {
+          "kind": "act",
+          "title": "State and capital map",
+          "mins": 15,
+          "do": "Do Activity a1. Your child colours an outline map of India, writing each state's name and marking its capital with a star, region by region: north (J&K, Ladakh, Himachal, Punjab, Haryana, Uttarakhand, UP, Delhi), west (Rajasthan, Gujarat, Maharashtra, Goa), south (Karnataka, Kerala, Tamil Nadu, Andhra, Telangana), east (Bihar, Jharkhand, Odisha, West Bengal), centre (MP, Chhattisgarh) and the north-east (Sikkim and the 'seven sisters': Assam, Arunachal, Nagaland, Manipur, Mizoram, Tripura, Meghalaya). Finish any remaining region tomorrow.",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 5.1 (lesson page 71)",
+          "mins": 6,
+          "do": "Do 'Let's see, what you have learnt 5.1' aloud. I: north – Nepal, China, Bhutan; the three seas – Bay of Bengal, Arabian Sea, Indian Ocean; they meet at Kanyakumari, Tamil Nadu; 28 states and 8 union territories (the book's older figure is 29 and 7); capital – New Delhi. II: the blank asks for neighbours, use 'Nepal and China'; Bhopal; Imphal; Kerala; about 32.87 lakh square km."
+        }
+      ],
+      "need": ["Lesson pages 68–71", "an outline map of India", "colour pencils"],
+      "prep": [{"task": "Print two outline maps of India (one political, one blank for the physical map)", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "India on the globe",
+      "goal": "Understand the equator, hemispheres, tropics, latitude and longitude, and find India's place on the globe.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Make an orange globe",
+          "mins": 14,
+          "do": "Do Activity a2. Your child uses a marker on an orange to draw the equator round the middle, the North and South Poles at the top and bottom, the Tropic of Cancer a little above the equator and the Tropic of Capricorn the same distance below. Then draw a few more lines of latitude parallel to the equator and lines of longitude from pole to pole. Cut the orange in half along the equator: two equal hemispheres. Ask: 'Which half are we in?' (Northern.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Lines on the globe (lesson pages 72–73)",
+          "mins": 10,
+          "do": "Read section 5.2 aloud, with a real globe or a world map from an atlas. Point to each line as the book names it. Explain degrees: the equator is 0°, the poles are 90°; the Tropic of Cancer is about 23½° N. Mainland India lies between about 8° N (Kanyakumari) and about 37° N (northern Ladakh), and between about 68° E and 97° E. The time used all over India, Indian Standard Time, is set by the 82½° E line, which passes near Prayagraj (Allahabad). Ask: 'If you know a place's latitude and longitude, why can you find it exactly?' (The two lines cross at only one point, like a row and column in a table.)"
+        },
+        {
+          "kind": "do",
+          "title": "Latitude–longitude treasure hunt",
+          "mins": 10,
+          "do": "Using an atlas map with a grid, call out rough coordinates and let your child find the city: about 28.6° N, 77.2° E (Delhi); 19° N, 73° E (Mumbai); 13° N, 80° E (Chennai); 22.5° N, 88.3° E (Kolkata); 8° N, 77.5° E (Kanyakumari). Then ask them to find which states the Tropic of Cancer crosses: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. If you have a phone, open its map, press and hold on your home, and read its latitude and longitude."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 5.2 (lesson page 73)",
+          "mins": 6,
+          "do": "Do 'Let's see, what you have learnt 5.2' aloud: equator; northern hemisphere; Tropic of Cancer; North Pole and South Pole; Himalaya mountains. Then finish any regions left on the Activity a1 map.",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Explain with the orange",
+          "mins": 5,
+          "do": "Hand your child the orange halves. They explain to you: equator, hemispheres, tropics, latitude and longitude, and where India is. Then share and eat the orange."
+        }
+      ],
+      "need": ["Lesson pages 72–73", "an orange", "a fine marker", "a knife (parent)", "a globe or atlas world map with latitude and longitude", "phone map (optional)"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "The mighty Himalaya",
+      "goal": "Learn the six physical divisions, explore the Himalaya, and model how it formed.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Six divisions (lesson pages 73–74)",
+          "mins": 6,
+          "do": "Read section 5.3 and look at the physical map on page 74. Name the six divisions with your child pointing to each: northern mountains, northern plains, peninsular plateau, Thar desert, coastal plains, islands. Ask: 'Which colours on the map show high land and which show low land?' (Brown and dark colours for high; green for low.) Your child starts Activity a3 by drawing the six regions lightly on the second blank map.",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "The northern mountains (lesson page 75)",
+          "mins": 10,
+          "do": "Read 5.3.1. The Himalaya runs about 2,400 km from Jammu and Kashmir to Arunachal Pradesh, with the highest range averaging about 6,000 m. It is called the watchman of India. Mount Everest (8,848 m; a 2020 survey by Nepal and China gave 8,848.86 m) is on the border of Nepal and China (Tibet). Add: the highest peak in India is Kanchenjunga (8,586 m) in Sikkim. Read the passes (Shipki La, Nathu La, Bomdi La; 'la' means pass in Tibetan), the hill stations and the rivers. Ask: 'Why do people on slopes make step fields (terraces)?' (Flat steps stop water and soil running off the slope, so crops can grow.)"
+        },
+        {
+          "kind": "exp",
+          "title": "How mountains are made",
+          "mins": 10,
+          "do": "Do Experiment e1. Lay 3–4 towels or different-coloured cloths flat in a stack on a table. Your child pushes slowly from one end while you hold the other end firm. Ask them to predict first what will happen. Watch the folds rise. Explain that the stack is like rock layers, and the pushing hand is India's plate moving north into Asia.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Who measured Everest?",
+          "mins": 10,
+          "do": "Read Voice v1 about Radhanath Sikdar and the Great Trigonometrical Survey. Then do a mini version of their method: stand 10 big steps from a tree or pole, hold a ruler at arm's length and see how many centimetres the tree covers; then go 20 steps away and measure again. Ask: 'Why does the tree look half as tall from twice as far?' Explain that surveyors used angles and distances to work out heights without climbing, just as Sikdar did for Peak XV. Ask the 'ask' question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "Himalaya quiz",
+          "mins": 9,
+          "do": "Ask: 'Name two peaks above 8,000 m.' (Everest, Kanchenjunga, Makalu, Dhaulagiri, Nanga Parbat.) 'Name two passes.' (Shipki La, Nathu La, Bomdi La, Baralacha La.) 'Name three hill stations.' (Shimla, Manali, Mussoorie, Nainital, Darjeeling, Gangtok.) 'Name four rivers that start in the Himalaya.' (Jhelum, Ravi, Sutlej, Beas, Ganga, Yamuna, Ghaghara, Gandak, Kosi, Brahmaputra.) Mark the peaks, passes and two rivers on the Activity a3 map.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Lesson pages 73–75", "3–4 towels or cloths", "a ruler", "the blank map for the physical map", "colour pencils"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Plains and plateaus",
+      "goal": "Learn the northern plains and the peninsular plateau, why the plateau is called Gondwana land, and how the Deccan formed from volcanoes.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The vast northern plains (lesson page 75)",
+          "mins": 8,
+          "do": "Read 5.3.2. The plains, about 2,400 km long, are built from soil (alluvium) carried down by the Indus, Ganga and Brahmaputra and their tributaries. They are among the most fertile plains in the world, growing wheat, rice, maize, sugarcane, pulses, oilseeds and jute, and the Harappan civilisation grew up in the Indus plains. Ask: 'Where did all this soil come from?' (Rivers wore it off the Himalaya and dropped it on the flat land.) Look at the river map on page 76 and trace the Ganga from Gangotri to the Bay of Bengal."
+        },
+        {
+          "kind": "read",
+          "title": "The peninsular plateau (lesson pages 77–78)",
+          "mins": 10,
+          "do": "Read 5.3.3 and 5.3.4. The plateau is a raised triangle of very old, hard rock. Central Highlands: the Aravalli (among the oldest mountains in the world, highest peak Guru Shikhar near Mount Abu), the Malwa plateau (rivers Chambal, Betwa, Ken), the Chota Nagpur plateau (in Jharkhand, rich in minerals); the Narmada flows west between the Vindhya and Satpura ranges. Deccan plateau: formed from lava, with black soil good for cotton; bordered by the Western Ghats (peaks Anamudi, the highest in south India at 2,695 m, Doddabetta, Mukurthi; passes Palghat, Thalghat, Bhorghat) and the Eastern Ghats (highest peak usually given as Arma Konda or Jindhagada in Andhra Pradesh; the book names Mahendragiri in Odisha). Ask: 'Why do Godavari, Krishna and Kaveri flow east, but Narmada and Tapi flow west?' (The plateau tilts down towards the east; the Narmada and Tapi run in long cracks in the rock, called rift valleys, that slope west.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Gondwana and Wegener",
+          "mins": 9,
+          "do": "Read Voice v2 about Alfred Wegener. Do a quick test: cut a world map roughly along the coastlines of South America and Africa and see how they fit. Then place India next to Madagascar and Africa. Ask the 'ask' question. Link back to yesterday's towels: India drifted north and crashed into Asia to raise the Himalaya.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Did the Deccan lava kill the dinosaurs?",
+          "mins": 8,
+          "do": "Read Voice v3. Show your child that the Deccan's black soil (regur) comes from that ancient lava, which is why Maharashtra grows so much cotton. Ask the 'ask' question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 10,
+          "do": "Your child does core worksheet ws1. Check it together, looking at the maps in the book for any wrong answer.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 75–78", "an old world map you can cut (or a printout)", "scissors", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Desert, coasts, islands, and what makes climate",
+      "goal": "Finish the physical divisions and learn the factors that control India's climate, testing why coasts are milder.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Start the sand and water test",
+          "mins": 6,
+          "do": "Set up Experiment e2: one bowl of dry sand or soil and one of water, the same size, side by side in the sun, with a thermometer or by touch. Ask your child to predict which will warm up faster and which will stay warm longer after sunset. Take the first readings now.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Thar, coasts and islands (lesson pages 78–79)",
+          "mins": 10,
+          "do": "Read 5.3.5 to 5.3.7. Thar: west of the Aravalli, with thorny bushes and the Luni, a river that flows only in the rains. Coasts: the western coastal plain is narrow (Konkan from Mumbai to Goa, Karnataka or Kanara coast, Malabar coast from Mangalore to Kanyakumari); the eastern plain is wider (Northern Circars and Coromandel coast), with deltas of the Mahanadi, Godavari, Krishna and Kaveri; rice, coconut, black pepper and fishing. Note the book's 'Let's Revise' swaps the two widths; the east coast plain is the wider one. Islands: the Andaman and Nicobar Islands in the Bay of Bengal (official count today about 570 islands, many tiny) and Lakshadweep in the Arabian Sea (36 islands, about 32 sq km, capital Kavaratti). Your child adds all three to the Activity a3 map.",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "What makes climate (lesson pages 79–80)",
+          "mins": 10,
+          "do": "Read 5.4 and its six parts. Make a table: 1. Location (latitude): places nearer the equator get more direct sunlight and are hotter. 2. Distance from the sea: coastal cities (Chennai, Mumbai, Kolkata, Thiruvananthapuram) are humid and mild; inland cities (Delhi, Jaipur, Patna) have very hot summers and cold winters. 3. Height: it gets about 6.5 °C cooler for every 1,000 m you climb, so Shimla and Darjeeling are cool. 4. Mountains: the Himalaya stops the monsoon winds and makes them rain on the plains, and blocks freezing winds from Central Asia; the Western Ghats get heavy rain on their sea-facing side. 5. Surface winds: in summer, moist winds blow from sea to land (the monsoon); in winter, dry winds blow from land to sea. 6. Upper-air winds: the book's 'jet winds' carry storms called western disturbances from the Mediterranean region, bringing winter rain and snow to north-west India."
+        },
+        {
+          "kind": "exp",
+          "title": "Check the sand and water",
+          "mins": 6,
+          "do": "Take the second readings for Experiment e2 (at least 30 minutes after setting up), then a final reading after shade or sunset if you can. Explain the 'why' and link it to point 2 and to the monsoon.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Anna Mani, weather scientist",
+          "mins": 7,
+          "do": "Read Voice v4 about Anna Mani. Ask the 'ask' question. Then do 'Let's see, what you have learnt 5.3' I aloud: Mount Everest; Brahmaputra; triangular; volcanic; desert (Thar is one of the world's large deserts; the book's ranking of 'ninth biggest' varies by source).",
+          "ref": "v4"
+        },
+        {
+          "kind": "review",
+          "title": "Book check 5.3 II",
+          "mins": 6,
+          "do": "Answer 'Let's see, what you have learnt 5.3' part II aloud: two peaks (Kanchenjunga, Dhaulagiri); three Himalayan tourist places (Shimla, Kullu, Darjeeling); two plateau rivers (Godavari, Krishna); capital of Lakshadweep (Kavaratti); two summer holiday places (Shimla, Ooty, Darjeeling); two coastal cities (Mumbai, Chennai)."
+        }
+      ],
+      "need": ["Lesson pages 78–81", "2 equal bowls, dry sand or soil, water", "a thermometer (kitchen, aquarium or digital) if you have one", "the physical map"],
+      "prep": [{"task": "Find a sunny spot and a thermometer if possible", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Crops of India",
+      "goal": "Learn the kinds of crops, kharif and rabi seasons, and where rice, wheat, millets and pulses grow and why.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Kinds of crops (lesson page 81)",
+          "mins": 7,
+          "do": "Read 5.5 and 5.5.1. The book says 70% of people depend on farming; tell your child that today about 45% of India's workers work in agriculture, still the biggest single group. Read the four kinds: food crops (rice, wheat, maize, millets, pulses), cash crops (cotton, jute, sugarcane, tobacco, oilseeds), plantation crops (tea, coffee, coconut, rubber) and horticulture (fruits and vegetables). Ask: 'What is the difference between a food crop and a cash crop?' (Food crops are grown mainly to eat; cash crops are grown mainly to sell, often to factories.)"
+        },
+        {
+          "kind": "read",
+          "title": "Rice, wheat, millets, pulses (lesson pages 81–84)",
+          "mins": 12,
+          "do": "Read about rice and wheat, looking at the maps on pages 82 and 83. Make a comparison table aloud: Rice – kharif (sown with the monsoon), needs about 24 °C or more and lots of water (over 100 cm of rain, or irrigation as in Punjab and Haryana), clayey or loamy soil; staple food of more than half of India; straw for fodder and husk for brick kilns. Wheat – rabi (sown in winter), cool when sown (10–15 °C) and warm when ripening (21–26 °C), moderate water, loamy soil; Uttar Pradesh, Punjab, Haryana, Madhya Pradesh. Millets (jowar, bajra, ragi) – kharif, hot and fairly dry, sandy or shallow black soil; Rajasthan, Maharashtra, Karnataka and more (the book's 'oats' is a slip; India grows few oats). Add: the United Nations declared 2023 the International Year of Millets, at India's request, because millets need little water and are very nutritious. Pulses: toor (arhar), masoor, urad, moong, chana, peas, rajma; mainly Madhya Pradesh, Rajasthan, Maharashtra, UP."
+        },
+        {
+          "kind": "act",
+          "title": "Where does our food come from?",
+          "mins": 15,
+          "do": "Do Activity a4. Your child takes out packets and jars from your kitchen (rice, atta, dal, tea, coffee, sugar, oil, spices, a coconut) and reads the label or asks you where each was grown. They draw a small picture of each on the Activity a1 map in the right state, for example basmati in Punjab or Haryana, tea in Assam or Darjeeling, coffee in Karnataka (Kodagu), coconut in Kerala, cotton (their clothes) in Gujarat or Maharashtra, sugar in UP or Maharashtra. Ask: 'Which division of India feeds our family the most?'",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Kharif or rabi?",
+          "mins": 7,
+          "do": "Write on slips: rice, wheat, jowar, bajra, maize, cotton, mustard, chana (gram), barley, groundnut, peas, soybean. Your child sorts them into kharif (sown June–July with the monsoon, harvested September–October: rice, jowar, bajra, maize, cotton, groundnut, soybean) and rabi (sown October–November, harvested March–April: wheat, mustard, chana, barley, peas). Ask: 'Which festival comes at the rabi harvest in Punjab?' (Baisakhi.) 'And at the kharif harvest in Kerala?' (Onam.)"
+        },
+        {
+          "kind": "review",
+          "title": "Why that crop there?",
+          "mins": 4,
+          "do": "Ask: 'Why does rice grow well in West Bengal and Assam, but bajra in Rajasthan?' (Bengal and Assam get heavy rain and have clayey soil; Rajasthan is hot and dry with sandy soil, which suits millets.) 'Why does Punjab grow lots of rice with little rain?' (Canals and tube wells for irrigation.)"
+        }
+      ],
+      "need": ["Lesson pages 81–84", "packets and jars from the kitchen", "the political map from Day 1", "12 paper slips"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Forests of India",
+      "goal": "Learn why forests matter and match the five forest types to their rainfall, places and trees.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Why vegetation matters (lesson page 84)",
+          "mins": 6,
+          "do": "Read 5.5.2's opening: forests give wood, shelter for people and animals, oxygen to breathe, protection from floods and strong winds, and turpentine, gum, medicines and paper. Ask your child to find three things at home made from forest products (a wooden chair, paper, a notebook, honey, a cane basket, gum, a bamboo broom)."
+        },
+        {
+          "kind": "read",
+          "title": "Five types of forest (lesson pages 85–86)",
+          "mins": 12,
+          "do": "Read about each forest. As you read, your child fills a table with columns Forest, Rainfall, Places, Trees: Evergreen – over 200 cm, Western Ghats, north-east, Andaman and Nicobar; ebony, mahogany, rosewood, rubber, bamboo; tall trees up to 60 m. Moist deciduous – 100–200 cm; Himalayan foothills, Jharkhand, Odisha, Chhattisgarh, parts of the Western Ghats; teak, sal, sheesham, sandalwood, mahua, arjun, jamun. Dry deciduous – 75–100 cm; much of the Deccan, MP, UP, Bihar; teak, peepal, neem. Thorn – under 75 cm; Rajasthan, Gujarat, dry parts of the Deccan; babool, acacia, khair, cactus, date palm. Mangrove – river deltas and coasts where land is flooded by salt water; the Sundarbans (named after the sundari tree), Mahanadi, Godavari, Krishna deltas, Andamans; sundari, keora. Himalayan – changing with height: sal and bamboo low down; oak and chestnut around 1,000–2,000 m; pine, deodar, spruce, fir higher; birch near the tree line. Ask: 'What decides which forest grows where, more than anything?' (Rainfall, and in the mountains, height.)"
+        },
+        {
+          "kind": "do",
+          "title": "Leaf detective",
+          "mins": 10,
+          "do": "Go outdoors or look at houseplants and nearby trees. Collect three fallen leaves. For each, feel the thickness and look for a waxy shine. Explain: thick, waxy leaves (like mango, jamun or a mangrove's) help a tree keep water and stay green; thin leaves that drop in the dry season (like teak, peepal in some places, or a gulmohar) save water by shedding. Thorns and tiny leaves (babool) lose the least water. Ask your child to guess which forest type each tree would fit best and why."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 5.4 and stretch worksheet",
+          "mins": 17,
+          "do": "Do 'Let's see, what you have learnt 5.4' aloud: loamy and clayey; rabi (the book's answer key says food grain; both are true); kharif (the book's key says 'hot'); breathe; rainfall. Then your child does stretch worksheet ws2. Check it together.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Lesson pages 84–86", "3 fallen leaves", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Revise, check and teach it back",
+      "goal": "Review the lesson with the book's exercise and challenge worksheet, check understanding and teach India's geography back with the maps.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (lesson pages 86–91)",
+          "mins": 12,
+          "do": "Read 'Let's Revise' quickly, letting your child finish points. Then do the Exercise aloud. I: India (western parts of north India); colder; direct (straight); more (heavy); about one-third (rice covers a large share of farmland). II: J&K – Srinagar; Karnataka – Bengaluru; Goa – Panaji; Maharashtra – Mumbai; Assam – Dispur; Manipur – Imphal; Meghalaya – Shillong; Gujarat – Gandhinagar; Andhra Pradesh – Hyderabad in the book (now Amaravati); Jharkhand – Ranchi. III: Nepal (the book's key wrongly says Pakistan, which is to the west); Raipur; Mount Everest; thorny bushes; bamboo and teak (both grow in deciduous forests). IV: answer from the maps; Chandigarh is the capital of two states."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do challenge worksheet ws3 together. Praise reasoning that uses the maps and the experiments.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 9,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick good answers. For any miss, look at the right map in the book together and ask again. Six or more right is good."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back with the maps",
+          "mins": 12,
+          "do": "Your child is the tour guide. Using the state map, the physical map (Activity a3) and the towels, they take you on a 5-minute 'journey' from Ladakh to Kanyakumari and from Gujarat to Arunachal, naming each division, a river, a crop and a forest on the way, and explaining how the Himalaya formed and why Mumbai is milder than Delhi. Ask two 'student' questions: 'Why is it cold in Shimla but hot in Delhi in May?' and 'Why does wheat grow in Punjab in winter but rice in summer?'",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Lesson pages 86–91", "worksheet ws3", "both maps", "the towels"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "States, globe and land",
+      "day": 4,
+      "sections": [
+        ["A. States and capitals", [
+          {"t": "match", "p": "Match each state to its capital.", "pairs": [["Madhya Pradesh", "Bhopal"], ["Manipur", "Imphal"], ["Karnataka", "Bengaluru"], ["Odisha", "Bhubaneswar"], ["Chhattisgarh", "Raipur"], ["Meghalaya", "Shillong"]]},
+          {"t": "fill", "p": "The city that is the capital of both Punjab and Haryana is ____.", "a": ["Chandigarh"]},
+          {"t": "fill", "p": "Today India has ____ states and 8 union territories.", "a": ["28", "twenty-eight"]}
+        ]],
+        ["B. Globe", [
+          {"t": "fill", "p": "The line that divides the Earth into northern and southern hemispheres is the ____.", "a": ["equator"]},
+          {"t": "mcq", "p": "Which line passes through the middle of India?", "opts": ["Equator", "Tropic of Capricorn", "Tropic of Cancer", "Arctic Circle"], "a": 2},
+          {"t": "mcq", "p": "India lies in the:", "opts": ["southern hemisphere", "northern hemisphere", "western hemisphere only", "south polar region"], "a": 1}
+        ]],
+        ["C. Physical divisions", [
+          {"t": "sort", "p": "Sort these into the physical division they belong to.", "items": ["Mount Everest", "Nathu La", "Ganga plain", "Aravalli", "Deccan black soil", "Luni river", "Konkan coast", "Kavaratti"], "cats": ["Northern mountains", "Northern plains", "Peninsular plateau", "Thar desert", "Coastal plains", "Islands"]},
+          {"t": "fill", "p": "The Deccan plateau was formed by ____ eruptions.", "a": ["volcanic", "volcano", "volcanoes"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Climate, crops and forests",
+      "day": 7,
+      "sections": [
+        ["A. Climate", [
+          {"t": "write", "p": "Mumbai and Pune are close together, but Pune is about 560 m higher. Which is usually cooler, and why?", "lines": 2},
+          {"t": "write", "p": "Your sand-and-water test: which warmed faster, and which stayed warm longer? Use this to explain why Chennai has milder winters than Delhi.", "lines": 4},
+          {"t": "mcq", "p": "What brings winter rain and snow to north-west India?", "opts": ["The summer monsoon from the Bay of Bengal", "Western disturbances carried by high-level westerly winds", "Cold winds from the Indian Ocean", "Snow from Antarctica"], "a": 1}
+        ]],
+        ["B. Crops", [
+          {"t": "sort", "p": "Sort these crops.", "items": ["Rice", "Wheat", "Cotton", "Jute", "Tea", "Coffee", "Mango", "Bajra"], "cats": ["Food crop", "Cash crop", "Plantation crop", "Horticulture crop"]},
+          {"t": "table", "p": "Compare rice and wheat.", "cols": ["Crop", "Season (kharif/rabi)", "Water needed", "Two states"], "rows": 2, "prefill": ["Rice", "Wheat"]}
+        ]],
+        ["C. Forests", [
+          {"t": "match", "p": "Match each forest type to its rainfall or place.", "pairs": [["Evergreen", "More than 200 cm of rain"], ["Moist deciduous", "100–200 cm of rain"], ["Thorn", "Less than 75 cm of rain"], ["Mangrove", "Salty river deltas like the Sundarbans"], ["Himalayan", "Changes with height on the mountains"]]},
+          {"t": "write", "p": "Why do many deciduous trees drop their leaves in the dry season?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Geography puzzles",
+      "day": 8,
+      "sections": [
+        ["A. Explain it", [
+          {"t": "write", "p": "Fossils of the same ancient plant, Glossopteris, are found in India, Africa, South America, Australia and Antarctica. How does Wegener's idea explain this? What else might someone have suggested before his idea?", "lines": 4},
+          {"t": "write", "p": "Kanchenjunga is in India, but Everest is not. Yet Everest was first measured from India. How was it possible to measure a mountain without climbing it?", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if there were no Himalaya? Give two things that would be different about India's climate and rivers.", "lines": 4},
+          {"t": "mcq", "p": "The Western Ghats get very heavy rain on their western side but much less on their eastern side (for example, Mumbai versus Pune). Why?", "opts": ["The east side is closer to the sea", "Moist sea winds rise up the western slopes, cool and drop their rain; the air reaching the other side is drier", "The east side has more trees", "It is colder on the east side"], "a": 1}
+        ]],
+        ["C. Weigh the evidence", [
+          {"t": "write", "p": "Some scientists say the asteroid killed the dinosaurs; others say the Deccan volcanoes did; many say both played a part. What kind of evidence would help decide? Write two ideas.", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "How the Himalaya was folded up",
+      "day": 3,
+      "question": "What happens to flat layers of rock when two huge pieces of land push into each other?",
+      "need": ["3–4 bath towels or cloths, ideally of different colours", "a table", "a helper"],
+      "steps": [
+        "Lay the towels flat in a neat stack on the table. These are layers of rock and sea-floor mud.",
+        "The helper holds one end firmly: this is Asia.",
+        "Your child pushes the other end slowly and steadily towards the helper: this is India moving north.",
+        "Watch the middle. Stop when the stack has risen into folds.",
+        "Push a little more and see whether the folds get higher or topple over each other."
+      ],
+      "predict": "Ask your child to guess first: when you push, will the towels slide flat, pile up in one heap, or rise into wavy folds?",
+      "observe": "The towels crumple into ridges and valleys, with the highest folds near where the two sides meet. With more push, some folds lean and slide over others.",
+      "why": "The Earth's outer shell is broken into huge slabs called plates that move a few centimetres a year. About 50 million years ago, the plate carrying India, which had broken away from the ancient southern landmass called Gondwana and drifted north, crashed into the Asian plate. Neither could sink easily, so the rock layers between them, including mud from an old sea floor, were squeezed, folded and pushed up, just like the towels. That is why fossils of sea animals are found high in the Himalaya. India is still pushing north by about 4–5 cm a year, which is why the Himalaya is still rising slowly and why the region has earthquakes.",
+      "safety": "",
+      "time": "10 min"
+    },
+    {
+      "id": "e2",
+      "title": "Land or water: which heats up faster?",
+      "day": 5,
+      "question": "Does land (sand or soil) heat up and cool down faster than water? What does this mean for India's climate?",
+      "need": ["2 identical bowls or cups", "dry sand or soil to fill one", "water to fill the other (left out overnight so both start at room temperature)", "a thermometer if possible (kitchen, aquarium or digital); otherwise your fingers", "a sunny spot", "a notebook"],
+      "steps": [
+        "Fill one bowl with sand or soil and the other with water, to the same level.",
+        "Take the starting temperature of each (push the thermometer about 1 cm into the sand; dip it 1 cm into the water). Without a thermometer, touch each and rate it 1 (cool) to 5 (hot).",
+        "Put both in full sun side by side for at least 30 minutes.",
+        "Take the temperatures again.",
+        "Move both into the shade (or wait until after sunset) and take the temperatures after 30 more minutes."
+      ],
+      "predict": "Ask your child to guess first: after 30 minutes in the sun, which will be hotter? After 30 minutes in the shade, which will have cooled down more?",
+      "observe": "The sand usually gets several degrees hotter than the water in the sun, and then cools faster in the shade. The water changes temperature more slowly both ways.",
+      "why": "Water needs much more heat energy to warm up by one degree than sand or soil does (it has a high 'specific heat'). Sunlight also heats only the top layer of land, while in water the heat is spread deeper as the water mixes. So land heats up fast and cools down fast, and the sea heats and cools slowly. Coastal cities like Mumbai and Chennai are beside a huge body of water that stays at a fairly steady temperature, so they don't get as hot in summer or as cold in winter as inland Delhi or Jaipur. On a much bigger scale, in summer the Indian landmass heats up far more than the ocean; the hot air over land rises, and moist air from the sea flows in to replace it, bringing the monsoon rain. In winter it reverses: cooler, dry winds blow from land to sea.",
+      "safety": "Sand in full sun can get very hot; touch it carefully. Don't leave glass bowls where they could fall.",
+      "time": "6 min to set up + 6 min for readings after 30–60 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "States and capitals map",
+      "day": 1,
+      "mins": 15,
+      "need": ["an outline political map of India", "colour pencils", "the book's map on page 70 or an atlas"],
+      "steps": [
+        "Colour each region a different colour family: north, west, south, east, centre, north-east.",
+        "Write each state's name and mark its capital with a star.",
+        "Mark the 8 union territories with a square: Delhi, Chandigarh, Jammu and Kashmir, Ladakh, Puducherry, Lakshadweep, Andaman and Nicobar, and Dadra and Nagar Haveli and Daman and Diu.",
+        "Mark your own home with a heart.",
+        "Day 6: add small drawings of crops from your kitchen in the states they come from."
+      ],
+      "outcome": "A complete, current map of India's states, union territories and capitals, which later becomes a map of where your food comes from."
+    },
+    {
+      "id": "a2",
+      "title": "Orange globe",
+      "day": 2,
+      "mins": 14,
+      "need": ["an orange", "a fine permanent marker", "a knife (parent)"],
+      "steps": [
+        "Mark the North Pole at the top (stalk end) and the South Pole at the bottom.",
+        "Draw the equator round the middle.",
+        "Draw the Tropic of Cancer about a quarter of the way from the equator to the North Pole, and the Tropic of Capricorn the same distance south.",
+        "Draw 3–4 more east–west latitude lines and 6–8 longitude lines from pole to pole.",
+        "Draw a tiny India just above the equator, cut by the Tropic of Cancer.",
+        "Parent cuts the orange along the equator to show two equal hemispheres."
+      ],
+      "outcome": "A hand-made globe that shows the equator, hemispheres, tropics, latitude, longitude and India's place, and a snack."
+    },
+    {
+      "id": "a3",
+      "title": "Physical map of India",
+      "day": 3,
+      "mins": 15,
+      "need": ["a blank outline map of India", "brown, dark green, light green, yellow, blue pencils", "the book's maps on pages 74 and 76"],
+      "steps": [
+        "Day 3: lightly draw and colour the six divisions: brown for mountains, light green for the northern plains, orange for the plateau, yellow for the Thar, dark green for coastal plains, and circles for islands.",
+        "Mark Everest (just outside India, in Nepal), Kanchenjunga, two passes and four Himalayan rivers.",
+        "Day 4: draw the Ganga, Narmada, Godavari, Krishna and Kaveri in blue, and the Aravalli, Vindhya, Satpura, Western and Eastern Ghats in brown.",
+        "Day 5: add the Luni, the Konkan, Malabar and Coromandel coasts, the Andaman and Nicobar Islands and Lakshadweep.",
+        "Add a key."
+      ],
+      "outcome": "Your child's own physical map of India, built over three days, showing every feature named in the lesson."
+    },
+    {
+      "id": "a4",
+      "title": "Where does our food come from?",
+      "day": 6,
+      "mins": 15,
+      "need": ["packets and jars from the kitchen", "the Activity a1 map", "small sticky notes or a pencil"],
+      "steps": [
+        "Collect 8–10 food items: rice, atta, two dals, tea, coffee, sugar, oil, a spice, a coconut or fruit.",
+        "Read labels for where each was grown or packed, or ask an elder or the shopkeeper.",
+        "Draw a small picture of each on the map in the state where it grows.",
+        "Write next to each: food crop, cash crop, plantation crop or horticulture crop.",
+        "Count how many came from your own state and how many from far away."
+      ],
+      "outcome": "A food map showing that your family's daily meals depend on farmers across many states and physical regions of India."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Radhanath Sikdar (1813–1870), mathematician of the Great Trigonometrical Survey of India, Kolkata",
+      "idea": "The Great Trigonometrical Survey measured India using triangles: by measuring one baseline very exactly and then the angles to distant points, surveyors could calculate distances and heights without going there. Sikdar, a brilliant 'computer' (a person who did the calculations), worked out from observations taken in the plains that the peak then called 'Peak XV' was the highest in the world. Its height was announced in 1856 as 29,002 feet (about 8,840 m).",
+      "then": "The survey's head, Andrew Waugh, checked the results for years before announcing them, and named the peak after his predecessor, George Everest, although Everest himself objected that local names should be used. Sikdar's role was not widely credited at the time.",
+      "now": "The measurement was remarkably close: modern GPS surveys give 8,848.86 m (2020). Historians now credit Sikdar's calculations, and India Post issued a stamp in his honour in 2004. The peak is known locally as Sagarmatha (Nepal) and Chomolungma (Tibet).",
+      "status": "accepted",
+      "ask": "Sikdar's team measured the world's highest mountain from more than 150 km away. Why would they check the numbers for years before announcing them? What could make such a measurement wrong?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Alfred Wegener (1880–1930), Germany, 'The Origin of Continents and Oceans' (1915)",
+      "idea": "Wegener noticed that the coasts of South America and Africa fit like jigsaw pieces, and that the same fossils (such as the fern-like plant Glossopteris and the reptile Mesosaurus) and the same rocks are found on continents now separated by oceans, including India. He proposed that the continents were once joined in a supercontinent (Pangaea, whose southern part is called Gondwana) and have drifted apart.",
+      "then": "Most geologists rejected it for decades, mainly because Wegener could not explain what force could move whole continents. Some mocked the idea. He died on an expedition in Greenland in 1930, long before he was proved right.",
+      "now": "In the 1950s and 1960s, maps of the ocean floor and of magnetism frozen in rocks showed that the sea floor spreads and the Earth's surface is made of moving plates. This theory of plate tectonics confirmed that continents move, though by a different mechanism than Wegener guessed. India's journey north from Gondwana and its collision with Asia, which raised the Himalaya, is now well established.",
+      "status": "accepted",
+      "ask": "Wegener had good clues but no explanation of how continents could move. Were the other scientists wrong to doubt him? What should a scientist do when the evidence points one way but nobody knows the cause?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "The Deccan Traps and the dinosaurs: Luis and Walter Alvarez (asteroid idea, 1980) and Gerta Keller (volcano idea)",
+      "idea": "About 66 million years ago, huge lava flows poured out over western and central India, building the Deccan plateau, layer upon layer (called 'traps', from a Swedish word for stairs). At about the same time, the dinosaurs (other than birds) and many other living things died out. Some scientists, especially Gerta Keller of Princeton University, argue that the gases from the Deccan eruptions changed the climate enough to cause the extinction.",
+      "then": "In 1980 Luis and Walter Alvarez and colleagues found a thin layer rich in iridium, a metal common in asteroids, in rocks of exactly that age around the world, and proposed that a giant asteroid impact caused the extinction. The crater was later found at Chicxulub in Mexico. Debate between the two camps has been fierce.",
+      "now": "Most scientists think the asteroid was the main cause, but many now think the Deccan eruptions also played a part by stressing life on Earth before and after the impact. Exactly how much each mattered is still actively debated, using ever more precise dating of the lava layers.",
+      "status": "debated",
+      "ask": "Two big events happened at about the same time as the extinction. How could scientists work out which one caused it, or whether both did? Why does exact dating matter so much?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Anna Mani (1918–2001), physicist and meteorologist, Kerala and Pune",
+      "idea": "Anna Mani worked with C.V. Raman in Bangalore on the light given off by diamonds and rubies, then joined the India Meteorological Department in 1948. She led the work of designing and making weather instruments in India (for rain, wind, sunlight and ozone) so that India no longer had to import them, and set up stations to measure solar radiation and wind energy across the country.",
+      "then": "Although she wrote research papers and a thesis, the University of Madras did not award her a PhD, saying she lacked a master's degree. As a woman scientist in the 1940s and 1950s she often worked in a field dominated by men.",
+      "now": "Her instruments and measuring networks became the backbone of Indian weather science, and her wind and solar surveys helped later planning for renewable energy. She rose to be Deputy Director General of the India Meteorological Department and is honoured as one of India's pioneering women scientists.",
+      "status": "accepted",
+      "ask": "Anna Mani said good weather forecasts depend on good measurements. Why would it matter if India's rain gauges or thermometers gave slightly wrong numbers? How did you make sure your own sand-and-water test was fair?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "Name India's neighbours to the north, east and west, and the three seas around it.", "a": "North: Nepal, China, Bhutan. East: Bangladesh, Myanmar. West: Pakistan, Afghanistan. Seas: Bay of Bengal (east), Arabian Sea (west), Indian Ocean (south)."},
+    {"q": "How many states and union territories does India have today, and name the capitals of five states.", "a": "28 states and 8 union territories. For example: Bihar – Patna, Gujarat – Gandhinagar, Kerala – Thiruvananthapuram, Assam – Dispur, Rajasthan – Jaipur."},
+    {"q": "What is the Tropic of Cancer, and where is India on the globe?", "a": "An imaginary line at about 23½° N of the equator; it passes through the middle of India. India is in the northern hemisphere."},
+    {"q": "Name the six physical divisions of India.", "a": "Northern mountains (Himalaya), northern plains, peninsular plateau, Thar desert, coastal plains, islands."},
+    {"q": "How was the Himalaya formed?", "a": "The plate carrying India drifted north from Gondwana and crashed into Asia about 50 million years ago, squeezing and folding the rock layers upwards; it is still rising slowly."},
+    {"q": "Give three factors that affect India's climate, with an example.", "a": "Latitude (places nearer the equator are hotter); distance from the sea (Mumbai milder than Delhi); height (Shimla cooler); mountains (Himalaya blocks cold winds and makes the monsoon rain fall); winds (summer monsoon from the sea)."},
+    {"q": "What is the difference between kharif and rabi crops? Give an example of each.", "a": "Kharif crops are sown with the monsoon and harvested in autumn (rice, bajra, cotton). Rabi crops are sown in winter and harvested in spring (wheat, mustard, gram)."},
+    {"q": "Which forest grows where there is more than 200 cm of rain, and which where there is less than 75 cm? Name a tree of each.", "a": "Evergreen forests (ebony, mahogany, rubber) with over 200 cm; thorn forests (babool, khair, cactus, date palm) with under 75 cm."}
+  ]
+}

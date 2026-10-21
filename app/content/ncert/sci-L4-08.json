@@ -1,0 +1,645 @@
+{
+  "key": "ncert|sci|4|8",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 8,
+  "title": "How Things are Made",
+  "source": "NCERT Our Wondrous World, Class 4, Unit 4 'Things Around Us', Chapter 8 (pages 117–127), Reprint 2026-27",
+  "summary": "Pihu notices that recycling paper can save trees and learns from her mother that paper is made from trees. Your child makes recycled paper from old newspaper and methi seeds, colours it with natural dyes in a fair test, makes a greeting card, compares different kinds of paper and their uses, learns about palm-leaf manuscripts and Braille, and practises the 5Rs of waste management: Refuse, Reduce, Reuse, Repurpose and Recycle.",
+  "goals": [
+    "By the end your child can explain that most paper is made from plant fibres, usually wood pulp, and describe the steps of making paper by hand and in a mill.",
+    "By the end your child can make a sheet of recycled paper from newspaper and say what each step (tearing, soaking, mashing, spreading, drying) does.",
+    "By the end your child can run a fair test with natural dyes, keeping paper size and amount of dye the same, and record colour and brightness.",
+    "By the end your child can match types of paper (tissue, newspaper, writing paper, art paper, cardboard) to their uses and explain the match using properties like thickness, softness and how well they soak up water.",
+    "By the end your child can name the 5Rs, sort everyday actions into them, and plan one real step for each at home.",
+    "By the end your child can tell how people wrote before paper (palm leaves, birch bark, cloth) and how Braille lets blind people read by touch."
+  ],
+  "words": [
+    ["fibre", "a very thin thread; paper is a flat mat of millions of tiny plant fibres stuck together"],
+    ["pulp", "a soft, wet mush of fibres made by soaking and mashing wood or old paper"],
+    ["recycle", "to break down a used thing into its material and make something new from it, like old newspaper into new paper"],
+    ["binding material", "something sticky that helps fibres hold together; in our paper, soaked methi seeds do this"],
+    ["dye", "a colouring substance that soaks into a material; natural dyes come from plants, artificial dyes are made in factories"],
+    ["absorb", "to soak up a liquid, the way tissue paper soaks up spilt water"],
+    ["talapatra", "dried palm leaves that people in India wrote on before paper became common"],
+    ["Braille", "a system of raised dots that blind people read by touching them with their fingertips"],
+    ["refuse", "to say no to things that create waste, like a single-use paper cup"],
+    ["reduce", "to use less, for example by writing on both sides of a page"],
+    ["reuse", "to use the same thing again, like a gift bag"],
+    ["repurpose", "to use an old thing in a new way, like an old bottle as a flower vase"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Paper is made from trees",
+      "goal": "Hunt for paper at home, read Pihu's story, feel the difference between ordinary and recycled paper, and set newspaper and methi soaking for tomorrow.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Paper hunt",
+          "mins": 8,
+          "do": "Give your child 4 minutes to collect every different kind of paper they can find at home and lay them on the floor: a newspaper, a notebook page, a paper napkin or tissue, a cardboard box, a sweet-box, a paper bag, a calendar page, a currency note (just to look, then put it back), an envelope, a toilet roll tube. Ask: 'How many kinds did you find? Which is the thinnest? The thickest? The softest? Which one would tear first?' Then ask: 'What do you think all of these are made from?' Write down their answer without correcting it."
+        },
+        {
+          "kind": "read",
+          "title": "Pihu and the newspaper (pages 117–118)",
+          "mins": 10,
+          "do": "Read page 117 aloud: we learnt in Grade 3 that things are made of different materials; Pihu is painting on a Sunday when she sees a picture of trees on the newspaper's front page. Then read the conversation on page 118 together; your child can read Pihu's lines and you read Maa's. Stop after 'Paper is made from trees, Pihu' and ask: 'Was your guess from the paper hunt right?' After Maa lists drawing books, newspapers, paper napkins and chart paper, ask: 'Which of our paper-hunt things are made from trees?' (All of them.) Then read the last part about the pot that feels rough because it is made from recycled paper. Ask: 'How could saving paper save trees?' Good answer: 'If we use old paper to make new paper, fewer trees need to be cut.'"
+        },
+        {
+          "kind": "do",
+          "title": "Look closely at paper",
+          "mins": 10,
+          "do": "Tear a strip of newspaper slowly and hold the torn edge up to a window or under a magnifying glass. Ask: 'What do you see along the edge?' (Tiny hairs or threads sticking out.) Say: 'These are plant fibres. Paper is a flat mat of millions of tiny fibres from wood, pressed and dried together.' Tear a tissue and a piece of cardboard too and compare the edges. If you have an egg tray, a paper pulp pot, or brown recycled packaging, let your child feel it next to a notebook page and say how it is different, like Pihu on page 118 (rough, thicker, uneven, greyish)."
+        },
+        {
+          "kind": "exp",
+          "title": "Set the pulp soaking",
+          "mins": 12,
+          "do": "Start Experiment e1, following steps 1 and 2 on page 119. Your child tears 4 double sheets of old newspaper into small pieces, about the size of a ₹10 note or smaller (tearing is better than cutting, because it opens up the fibres). Put them in a bucket or large steel vessel and cover with water. Add 2 teaspoons of methi seeds, as page 119 says; methi is the binding material. Ask your child to predict: 'What will the paper and the methi seeds look and feel like tomorrow morning?' Write the guess on a slip and stick it on the bucket. Leave it overnight.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Where else do fibres come from?",
+          "mins": 5,
+          "do": "Ask: 'If paper is a mat of plant fibres, which other plants might give fibres?' Show a cotton ball, a piece of jute (a gunny bag or jute rope) and a coconut husk if you have them. Tell your child that page 122 will tell us that paper can also be made from banana fibre, and that some Indian paper mills use bagasse, the dry crushed stalks left after juice is squeezed from sugarcane. Ask: 'Why might that be good for trees?'"
+        }
+      ],
+      "need": ["Textbook pages 117–119", "different kinds of paper from around the house", "a magnifying glass if available", "an egg tray or recycled-paper packaging if available", "4 double sheets of old newspaper", "a bucket or large steel vessel", "2 teaspoons methi (fenugreek) seeds", "a cotton ball, jute rope or gunny bag"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Make recycled paper",
+      "goal": "Turn the soaked newspaper into pulp and spread it into sheets, understand what each step does, and hear how paper was first made in China.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What changed overnight?",
+          "mins": 4,
+          "do": "Look into the bucket from Experiment e1. Your child pokes and squeezes a piece of soaked paper and a few methi seeds. Ask: 'Was your guess right? How does the paper feel now?' (Soft, floppy, it falls apart easily.) 'And the methi?' (Swollen, and the water feels slippery and slimy.) Say: 'That slime is the glue that will help the fibres hold together.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Pulp, spread and press (page 119)",
+          "mins": 25,
+          "do": "Continue Experiment e1 with steps 3 to 5 on page 119. An adult blends the soaked paper, methi and some of its water in a mixie in small batches (use an old jar or wash it well afterwards) until it looks like thick porridge; or your child mashes it by hand and with a potato masher for 10 minutes. Pour it into a wide tub with more water and stir. Make a frame: stretch an old piece of mosquito net or a dupatta tightly over a photo frame or a rectangle of four rulers, or use a steel jali (a grill-pan rack or sieve). Your child slides the frame under the water, lifts it out flat, and lets the water drain, leaving an even layer of pulp. Turn it out onto an old cotton cloth, cover with another cloth, and press hard with a rolling pin to squeeze out water, as page 119 says ('roll out'). Make 4–6 sheets. Ask after each: 'Why do we squeeze out the water?' (So the fibres press close together and dry faster.) Lay the sheets in a shady, airy place to dry; they will take 1–2 days. Keep about a cup of leftover pulp in a closed box in the fridge for Day 8.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Who made the first paper?",
+          "mins": 8,
+          "do": "Tell the story in Voice v1 in your own words: Cai Lun, an official at the court of the Chinese emperor, reported a way of making paper from tree bark, old rags and fishing nets in the year 105 CE. Then tell the twist: archaeologists have found older pieces of paper in China, so he probably improved paper rather than inventing it. Ask: 'Cai Lun made paper from rags and old fishing nets. How is that like what we did today?' (We also used old, waste material to make new paper.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "The steps in order",
+          "mins": 8,
+          "do": "Without the book, your child tells you the five steps of making recycled paper in order, using their hands to show each one: collect, tear and soak with methi, mash into pulp, spread and roll out, dry. For each step, ask 'Why?' Good answers: 'Tearing and soaking loosen the fibres', 'Mashing separates them into a mush', 'Methi slime helps them stick', 'Spreading on the net lets the water run out and leaves a thin even layer', 'Drying lets the fibres stick tightly to each other.' Write the five steps on a card with a small drawing beside each."
+        }
+      ],
+      "need": ["Textbook page 119", "the soaked newspaper and methi from Day 1", "a mixie or a potato masher", "a wide tub", "a frame: photo frame or rulers with mosquito net or an old dupatta, or a steel jali", "2 old cotton cloths or towels", "a rolling pin", "a closed box for leftover pulp"],
+      "prep": [{"task": "Make the netting frame and find two old cloths", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Colours from plants",
+      "goal": "Colour pieces of our own paper with turmeric, spinach, beetroot and henna in a fair test, see turmeric change colour, and learn about natural and artificial dyes.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Is our paper dry?",
+          "mins": 5,
+          "do": "Check the sheets from Experiment e1. If they are dry, peel one gently off the cloth. Ask your child to compare it with a notebook page: 'Which is thicker? Rougher? Which is easier to tear? Can you see bits of print in it?' (Ours is thicker, rougher and lumpier, often grey with tiny bits of ink.) If the sheets are still damp, do this check on Day 4 and use thick cartridge or chart paper for today's colour test.",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Natural Colour Experiment (page 120)",
+          "mins": 22,
+          "do": "Do Experiment e2. Cut 5 pieces of the recycled paper all the same size (about 5 cm × 5 cm). Make four dye pastes, each from exactly 1 teaspoon of ingredient with 2 teaspoons of water: turmeric powder; spinach (crushed leaves); beetroot (grated and squeezed); henna (mehndi) powder. Keep one piece undyed to compare. Your child predicts each colour and whether it will be bright or dull. Then paint each piece with 2 brush strokes of its paste, or dip each for the same count of 10. Leave them to dry, then paste a sample in the page 120 table and fill in 'Colour and brightness (dull/bright)'. The book's example: turmeric, yellow, dull. Ask: 'Why did we use the same size of paper and the same amount of each ingredient?' (So only the dye is different and the test is fair.) Bonus: dab a little baking soda solution on the turmeric piece and watch it turn reddish-brown.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Natural and artificial dyes (page 121)",
+          "mins": 8,
+          "do": "Read the paragraph at the top of page 121 aloud: paper can be painted with natural and artificial dyes; natural dyes are made from parts of a plant like the leaf, flower, root, seed and stem, and are used to colour clothes and pots. Ask: 'Which plant part did each of our dyes come from?' (Turmeric: root-like underground stem called a rhizome; spinach: leaf; beetroot: root; henna: leaf.) Then add an honest note: the book says natural dyes are safe; most of these kitchen ones are, but 'natural' does not always mean safe. Some plants are poisonous, and the 'black henna' sold for tattoos often has a chemical added that can burn the skin. Ask: 'So how should we decide if a dye is safe?' (Check what is really in it and how it has been tested.)"
+        },
+        {
+          "kind": "do",
+          "title": "Colour detectives at home",
+          "mins": 10,
+          "do": "Look for natural colours already in your home: a turmeric stain on a kitchen cloth, haldi in dal, the red of beetroot in a raita, henna on a relative's hands, a block-printed cotton dupatta or bedsheet (some use natural dyes such as indigo, a blue dye from the leaves of the indigo plant). Ask: 'Which colour from our test lasted best when you rubbed it with a wet finger?' Test each dried paper piece with one wet finger rub and add a column to the table: 'Rubs off? yes/no'. Put the strongest-coloured paper on a sunny windowsill and keep one in a drawer, to check on Day 8 which fades."
+        }
+      ],
+      "need": ["Textbook pages 120–121", "the dry recycled paper (or thick chart paper)", "scissors and ruler", "1 teaspoon each of turmeric, crushed spinach, grated beetroot, henna powder", "a pinch of baking soda in water", "4 small bowls and a paintbrush", "glue for pasting samples"],
+      "prep": [{"task": "Buy a little henna powder, a beetroot and a few spinach leaves", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "A special gift, and paper from the mill",
+      "goal": "Make a greeting card from our paper, learn how book paper is made from wood pulp, find out what people wrote on before paper, and start a paper-waste audit.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Book Activity 3: A special gift (page 121)",
+          "mins": 15,
+          "do": "Read the 'A Special Gift' story on page 121: Pihu gives her mother a greeting card made from recycled paper. Do Activity a1: your child makes a greeting card, a bookmark or a small paper mask from their recycled paper, decorated with the natural colours from Day 3, pressed flowers or leaves, and a message inside. Ask them to choose who it is for and why. Let them present it this evening."
+          ,"ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "Paper from wood pulp (page 122)",
+          "mins": 8,
+          "do": "Read page 122 aloud: book paper looks different from recycled paper because it is made from wood pulp; many trees are cut; the steps are similar to ours, but making paper needs many trees and a lot of water and energy, so we should use paper responsibly. Explain the mill steps: logs have their bark stripped, are cut into chips, cooked with chemicals or ground to free the fibres, washed and often bleached white, spread on a long moving wire mesh, pressed between rollers and dried on hot rollers into giant rolls. Ask: 'Which of these steps did we also do?' (Soak, mash, spread on a mesh, press, dry.) 'Which did we skip?' (Cutting trees, cooking with chemicals, bleaching.) 'Why is book paper smoother and whiter?' (Finer fibres, bleaching, heavy pressing, and a coating.)"
+        },
+        {
+          "kind": "game",
+          "title": "Factory Line: put the steps in order",
+          "mins": 8,
+          "do": "Write these steps on separate slips and shuffle them: tree is grown; tree is cut; bark is removed; logs are chipped; chips are cooked into pulp; pulp is washed and bleached; pulp is spread on a wire mesh; water is pressed out; paper is dried on hot rollers; paper is cut and sent to the printer; book reaches you. Make a second set for recycled paper: old newspaper collected; torn; soaked with methi; mashed into pulp; spread on a net; pressed; dried; made into a card. Time your child putting each line in order; then you try. Ask: 'Which line uses fewer trees and less water? Which line needs old paper to be collected first?'"
+        },
+        {
+          "kind": "think",
+          "title": "Before paper: palm leaves and birch bark",
+          "mins": 9,
+          "do": "Read the 'Do you know?' box on page 122: people used cloth, leaves and wooden boards to write on, and in India, palm leaves called talapatra. If you have a temple calendar, a dried palm leaf or a bhojpatra (birch bark) sold at puja shops, show it. Tell the story in Voice v3: the Bakhshali manuscript, a maths book on birch bark found in 1881 in a village called Bakhshali, now in Pakistan, which uses a dot for zero, and the argument about how old it is. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Start the paper-waste audit (page 122)",
+          "mins": 5,
+          "do": "Ask the first page 122 question: 'Do you think that we waste paper?' Write your child's guess. Start Activity a2: put an empty cardboard box by the dustbin labelled 'Paper waste'. For the next five days, every piece of paper the family throws away goes into it instead: bills, wrappers, tissues, one-side-used pages, packaging. On Day 8 your child will sort and count it.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 121–122", "the recycled paper sheets and dyed samples", "glue, pressed flowers or leaves, sketch pens", "slips of paper for the Factory Line game", "a dried palm leaf or bhojpatra if available", "an empty cardboard box"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Different papers for different jobs",
+      "goal": "Collect types of paper and their uses, then test which soak up water best and which are strongest, to explain why each paper suits its job.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Book Activity 4: Types of paper and their uses (page 123)",
+          "mins": 10,
+          "do": "Do Activity 4 on page 123. Your child pastes small pieces of five kinds of paper in the 'Paste here' boxes: writing paper, newspaper, art (chart) paper, cardboard and tissue paper; and writes a use beside each. Good uses: writing paper for notebooks and letters; newspaper for printing news and for wrapping; art paper for drawing and projects; cardboard for boxes and files; tissue for wiping and cleaning. Then ask: 'For each, what about the paper makes it good for that job?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Which paper soaks up most water?",
+          "mins": 13,
+          "do": "Do Experiment e3. Cut a strip 2 cm wide and 15 cm long from each type of paper (tissue, newspaper, writing paper, art paper, our recycled paper and a thin layer peeled from cardboard). Ask your child to predict the order, from most to least soaking. Mark a pencil line 1 cm from the bottom of each. Tape the tops to a ruler laid across two glasses, so the bottom of each strip just dips into a tray of water with a few drops of food colour or ink. After 5 minutes, measure how high the colour has climbed on each strip. Then drop 5 drops of water on a square of each paper and time how quickly they disappear.",
+          "ref": "e3"
+        },
+        {
+          "kind": "exp",
+          "title": "Which paper is strongest?",
+          "mins": 12,
+          "do": "Do Experiment e4. Cut a strip 3 cm wide and 20 cm long of each paper. Tape one end of a strip to the edge of a table, so it hangs down, and tape a small polythene bag to the bottom end (or make a hook from a paper clip). Add ₹1 coins one at a time until the strip tears. Record the number of coins for each paper. Then tear newspaper in two directions, top-to-bottom and side-to-side: one tear is usually straighter, because the mill lines most of the fibres up in one direction. Ask: 'Which paper held the most? Which tore first? Was our recycled paper stronger or weaker than newspaper?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Why tissue and cardboard? (page 124)",
+          "mins": 7,
+          "do": "Read the paragraph at the top of page 124 aloud: tissue paper is used for cleaning because it is very thin, soft and absorbs water; cardboard is thick and hard, so it is used for boxes. Ask: 'Did our tests agree with the book?' Then ask two 'what if' questions: 'What if a notebook were made of tissue paper?' (The ink would spread and it would tear.) 'What if a shoebox were made of newspaper?' (It would collapse.) Look at a piece of corrugated cardboard edge-on and show the wavy middle layer: 'The waves make it stiff and light at the same time, like a bridge.'"
+        }
+      ],
+      "need": ["Textbook pages 123–124", "writing paper, newspaper, art paper, cardboard, tissue paper, our recycled paper", "glue and scissors", "a ruler, tape, 2 glasses and a tray", "food colour or ink", "a small polythene bag or paper clip", "20 one-rupee coins", "a phone timer"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Reading with fingertips",
+      "goal": "Learn how Braille works, write your name in Braille, hear Louis Braille's story, and check the main ideas with the core worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Braille (page 124)",
+          "mins": 5,
+          "do": "Read the 'Do you know?' box on page 124: the Braille system helps visually challenged people read and write by feeling patterns of tiny bumps; the patterns stand for numbers, letters and punctuation. Ask: 'Why must Braille paper be thick and strong?' (So the bumps keep their shape and do not flatten or tear when pressed and touched again and again.) If you have Braille on a lift button, a medicine strip or a currency note, find it and let your child feel it with eyes closed. (Indian currency notes have raised marks to help blind people know the value.)"
+        },
+        {
+          "kind": "act",
+          "title": "My name in Braille",
+          "mins": 15,
+          "do": "Do Activity a3. Draw a Braille cell: 6 dots in 2 columns of 3, numbered 1, 2, 3 down the left and 4, 5, 6 down the right. Use the Braille alphabet in the activity steps to write your child's name. Put a piece of thick paper (our recycled paper or a cereal-box card) on a folded towel. Since the bumps come out on the other side, write the name from right to left and with left and right columns swapped (a mirror image), then press each dot firmly with the blunt end of a pencil or a ballpoint refill that has run out. Turn the card over and feel the bumps. Ask your child to close their eyes and read a letter you make. Ask: 'How long would it take to read a whole book this way?' Blind readers practise until they can read very fast.",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Louis Braille, the boy who was not believed",
+          "mins": 8,
+          "do": "Tell the story in Voice v2 in your own words: Louis Braille lost his sight at 3 after an accident with a sharp tool in his father's workshop, invented his dot system at about 15, and saw his own school refuse to use it officially until two years after he died. Ask: 'Why do you think the sighted teachers preferred raised normal letters?' Then ask the voice question. Tell your child that India uses Bharati Braille, which uses the same six-dot cells for Indian languages such as Hindi, Tamil and Bengali.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Making paper",
+          "mins": 17,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark answers together; for each wrong answer, look back at the book page: paper from trees pages 117–118, making recycled paper page 119, dyes pages 120–121, wood pulp page 122, types of paper pages 123–124.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook page 124", "thick paper or our recycled paper", "a folded towel", "a blunt pencil or empty ballpoint refill", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "The 5Rs: making responsible choices",
+      "goal": "Learn the 5Rs of waste management, sort real situations into them, and repurpose old newspaper into something useful.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The 5Rs (pages 124–126)",
+          "mins": 10,
+          "do": "Read 'Making Responsible Choices' from page 124 to the top of page 126. For each R, your child does an action and gives one home example of their own. Refuse (hand up like 'stop'): saying no to things that make waste, like single-use paper cups; home example: saying no to a plastic bag at the sabzi shop. Reduce (hands squeezing together): using things carefully, like both sides of a page; home example: printing only what is needed. Reuse (hands turning a circle): a gift bag used again; home example: reusing an envelope. Repurpose (hands changing shape): toys or decorations from old newspaper; home example: an old shirt as a dusting cloth. Recycle (both hands circling): old newspaper made into handmade paper, like ours; home example: giving newspapers to the raddiwala. Read the line on page 126: small changes help the environment, save resources and reduce pollution. Ask: 'Which R comes first and saves the most?' Good answer: 'Refuse and reduce, because then the waste is never made.'"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 5: Which R is it? (page 125)",
+          "mins": 12,
+          "do": "Do Activity a4, the table on page 125. Read each situation and your child writes the R. Listen for: cloth bags brought to the grocery store: Reuse (the book's example). Maya does not use a plastic straw: Refuse. Rohan uses blank pages of old notebooks: Reduce (he cuts down paper waste; Reuse is also a fair answer if they explain). Sara gives old books to younger students: Reuse. Kabir paints an old bottle as a flower vase: Repurpose. Priya cuts old clothes into a book bag: Repurpose. A shopkeeper turns old newspapers into envelopes: Repurpose (not Recycle, because the paper is not broken down into pulp). Ask: 'What is the difference between repurpose and recycle?' Good answer: 'Repurposing uses the thing as it is in a new way; recycling breaks it down into material and makes something new.'",
+          "ref": "a4"
+        },
+        {
+          "kind": "act",
+          "title": "Newspaper bag and envelope (page 126)",
+          "mins": 18,
+          "do": "Look at the creative ideas on page 126 for toys and decorations made from old newspapers. Then do Activity a5, like the shopkeeper in Activity 5: make a strong newspaper bag that can carry a small packet of dal, and an envelope. Follow the activity steps; your child does the folding and gluing. Test the bag by putting in a 250 g packet and lifting it by the handles. Ask: 'Where did it start to tear? How could we make it stronger?' (Double the paper at the bottom, add a cardboard base, glue the handles over a wider area.) Give the bags to the family's sabzi shopping or to the neighbourhood kirana shop.",
+          "ref": "a5"
+        },
+        {
+          "kind": "talk",
+          "title": "Paper-waste box check",
+          "mins": 5,
+          "do": "Look in the Activity a2 paper-waste box. Ask: 'What is in it so far? Which pieces could have been refused, reduced or reused?' Take out any paper that is clean on one side and put it in a 'rough paper' pile by the study table. Keep collecting until Day 8.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 124–126", "6–8 sheets of old newspaper", "glue (or flour-and-water paste), scissors, ruler", "a strip of cardboard", "a 250 g packet of dal", "the paper-waste box"],
+      "prep": [{"task": "Make flour paste (2 spoons atta in half a cup of water, heated and stirred until thick) or keep glue ready", "when": "morning"}]
+    },
+    {
+      "n": 8,
+      "title": "Paper pulp creations and our own 5R plan",
+      "goal": "Make a pulp bowl from the leftover pulp, sort the paper-waste box, answer the book's end questions, and apply ideas to new cases.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Pulp bowl (page 127, Question 1)",
+          "mins": 12,
+          "do": "Read Question 1 on page 127: 'What are some objects that you can make using paper pulp?' List ideas with your child: bowls, pen stands, masks, egg trays, lamps, toys, Ganesh idols that dissolve safely in water (many families now use paper-pulp idols to avoid plaster of Paris). Ask an elder on the phone for one more idea. Then do Activity a6: take the leftover pulp from Day 2, squeeze out the water, mix in 2 spoons of flour paste, and press it in a layer about 1 cm thick over the outside of a small steel katori covered with cling film or a damp cloth. Leave it to dry for 2–3 days, then pop it off and paint it with the natural colours.",
+          "ref": "a6"
+        },
+        {
+          "kind": "act",
+          "title": "Sort the paper-waste box",
+          "mins": 10,
+          "do": "Finish Activity a2. Tip out the paper-waste box. Your child sorts it into piles: 'Could have refused' (flyers, extra bills), 'Could have reduced' (pages used on one side), 'Could reuse' (envelopes, gift wrap, boxes), 'Repurpose or recycle' (newspaper, cardboard), 'Cannot recycle' (used tissues, oily food wrappers). Count the pieces in each pile and make a quick bar chart. Answer the second page 122 question: 'How can we reduce wastage of paper?' using the biggest pile. Also check the dyed paper from Day 3: did the sunny-window piece fade more than the drawer piece? (Beetroot and spinach colours usually fade quickly in sunlight.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "do",
+          "title": "Our 5R plan (page 127, Questions 2 and 3)",
+          "mins": 8,
+          "do": "Fill in Question 2 on page 127: one step your child will take for each R, in the five boxes. Then Question 3: the changes in daily life to avoid wasting paper, in the table. Make them real and checkable, for example: Refuse: 'Say no to paper napkins at home; use a cloth one.' Reduce: 'Write on both sides of rough pages.' Reuse: 'Keep gift bags in the cupboard for the next birthday.' Repurpose: 'Make bookmarks from old greeting cards.' Recycle: 'Give newspapers and cardboard to the raddiwala every month.' Stick the plan on the fridge."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Paper in new places",
+          "mins": 15,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to use what they found in the soaking and strength tests and the 5Rs on new situations. Let them check any answer with a quick test if they want, for example tearing a paper napkin or dripping water on a paper cup.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 122 and 127", "the leftover pulp from Day 2", "flour paste", "a small steel katori and cling film or a damp cloth", "the paper-waste box", "the dyed paper samples from the window and the drawer", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Harder thinking, check and teach it back",
+      "goal": "Try the challenge worksheet, check understanding of the whole chapter, and have your child teach how paper is made, back to you.",
+      "steps": [
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 15,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views. Your child can answer the write items aloud while you scribe. There is no single right answer for section C; praise reasons that use evidence ('because our recycled paper held fewer coins...')."
+          ,"ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 13,
+          "do": "Ask the 8 check questions aloud, one at a time, and let your child answer without the book. Tick the ones answered well. For any missed answer, open the matching page for a minute (paper making page 119, dyes pages 120–121, wood pulp page 122, types of paper pages 123–124, 5Rs pages 124–125) and ask again in different words. Most children get 6 or more right; fewer than 5 means redo the Day 7 5R sort and retell the Day 2 paper steps next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 17,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. In 5–7 minutes, using the real things they made (a sheet of recycled paper, the dye samples, the greeting card, the Braille name card, the newspaper bag and the pulp bowl), they must teach: what paper is made of and how we made it; how a paper mill does it differently; why different papers suit different jobs; and the 5Rs, with one example each. As the student, ask two tricky questions: 'If recycling paper is good, why is refusing even better?' (Recycling still uses water, energy and collecting; refusing means no waste at all.) and 'Why is our paper rougher than a notebook?' (Shorter, mixed fibres from old paper, no bleaching, less pressing.) End by giving the Pihu-style greeting card to its chosen person."
+        }
+      ],
+      "need": ["worksheet ws3", "recycled paper, dye samples, greeting card, Braille card, newspaper bag, pulp bowl"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Making paper",
+      "day": 6,
+      "sections": [
+        ["A. From tree to paper", [
+          {"t": "fill", "p": "Most paper is made from ____ pulp.", "a": ["wood"]},
+          {"t": "fill", "p": "In our recycled paper, the methi seeds worked as a ____ material.", "a": ["binding"]},
+          {"t": "sort", "p": "Which steps did we do at home, and which happen only in a big paper mill?", "items": ["Tearing old newspaper", "Cutting down trees", "Soaking with methi", "Bleaching the pulp white", "Mashing into pulp", "Drying on hot rollers", "Spreading on a net and pressing"], "cats": ["Our home paper", "Only in the mill"]}
+        ]],
+        ["B. Colours and kinds of paper", [
+          {"t": "match", "p": "Match each natural dye to the plant part it comes from.", "pairs": [["Spinach", "Leaf"], ["Beetroot", "Root"], ["Henna", "Leaf"], ["Turmeric", "Underground stem (rhizome)"]]},
+          {"t": "mcq", "p": "In the colour test, why did we use paper pieces of the same size and the same amount of each ingredient?", "opts": ["To save paper", "So that only the dye is different and the test is fair", "Because the book is small", "To make it quicker"], "a": 1},
+          {"t": "match", "p": "Match each paper to its best use.", "pairs": [["Tissue paper", "Wiping spills"], ["Cardboard", "Packing boxes"], ["Newspaper", "Printing the news"], ["Art paper", "Drawing and projects"], ["Braille paper", "Reading by touch"]]}
+        ]],
+        ["C. The 5Rs", [
+          {"t": "match", "p": "Match each action to its R.", "pairs": [["Saying no to a paper cup", "Refuse"], ["Writing on both sides of a page", "Reduce"], ["Using a gift bag again", "Reuse"], ["Making a vase from an old bottle", "Repurpose"], ["Turning old newspaper into handmade paper", "Recycle"]]},
+          {"t": "write", "p": "Before paper was common, what did people in India write on? Name two things.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Paper in new places",
+      "day": 8,
+      "sections": [
+        ["A. Use your test results", [
+          {"t": "table", "p": "Copy your results from the soaking and strength tests.", "cols": ["Paper", "Height water climbed (cm)", "Coins held before tearing"], "rows": 6, "prefill": ["Tissue", "Newspaper", "Writing paper", "Art paper", "Cardboard layer", "Our recycled paper"]},
+          {"t": "write", "p": "A paper cup holds hot tea without going soggy. What do you think has been done to its paper? Why?", "lines": 2},
+          {"t": "mcq", "p": "Which paper would be best for a kitchen towel roll?", "opts": ["Shiny magazine paper", "Thick, soft paper that soaks up water fast", "Thin writing paper", "Cardboard"], "a": 1}
+        ]],
+        ["B. Which R?", [
+          {"t": "sort", "p": "Sort these actions into the 5Rs.", "items": ["Asking the shop not to give a bill printout", "Using an old calendar's back for drawing", "Wrapping a gift in last year's gift paper", "Making a pen stand from a toilet-roll tube", "Selling newspapers to the raddiwala for recycling"], "cats": ["Refuse", "Reduce", "Reuse", "Repurpose", "Recycle"]},
+          {"t": "write", "p": "The shopkeeper on page 125 turns old newspapers into envelopes. Why is this repurpose and not recycle?", "lines": 2}
+        ]],
+        ["C. Think it through", [
+          {"t": "write", "p": "Our recycled paper was rougher and weaker than a notebook page. Give two reasons.", "lines": 3},
+          {"t": "mcq", "p": "Some Indian paper mills use bagasse. What is it?", "opts": ["A kind of tree", "The crushed stalks left after sugarcane juice is squeezed out", "A chemical for bleaching", "Old cloth"], "a": 1},
+          {"t": "write", "p": "Which of our natural dyes faded most in sunlight? What would you use to colour a card that has to stay on a sunny window?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Paper puzzles and arguments about history",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Paper fibres get shorter every time paper is recycled. What do you think happens if the same paper is recycled again and again? Why must some new fibre be added?", "lines": 3},
+          {"t": "write", "p": "When you tore newspaper in two directions, one tear was straighter. What does this tell you about how the fibres lie in mill paper?", "lines": 2},
+          {"t": "mcq", "p": "To write the letter 'a' (dot 1) so it can be felt on the front, where do you press on the back of the card?", "opts": ["Top left", "Top right", "Bottom left", "Middle"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all paper suddenly disappeared tomorrow? List five things in your home or school that would change.", "lines": 3},
+          {"t": "write", "p": "What if we had used no methi seeds in our pulp? Plan a fair test to find out whether the methi really helps.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Cai Lun is often called the inventor of paper, but older paper has been found. Was he an inventor or an improver? Give your reason.", "lines": 3},
+          {"t": "write", "p": "Scientists dated three parts of the Bakhshali manuscript and got very different ages. Some experts say the whole book was written by one person at one time. How could both be true? What would you check?", "lines": 3},
+          {"t": "write", "p": "Louis Braille's school refused his dot system for years. Why do you think good ideas are sometimes rejected? What finally made people change their minds?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Make recycled paper (page 119)",
+      "day": 1,
+      "question": "Can we make new paper from old newspaper, and what does each step do?",
+      "need": ["4 double sheets of old newspaper", "2 teaspoons methi seeds", "a bucket and water", "a mixie (adult) or potato masher", "a wide tub", "a frame with mosquito net or an old dupatta stretched over it, or a steel jali", "2 old cotton cloths", "a rolling pin"],
+      "steps": [
+        "Tear the newspaper into small pieces and soak in water with the methi seeds overnight.",
+        "Next day, blend (adult) or mash the soaked paper, methi and some water into a thick porridge-like pulp.",
+        "Pour the pulp into a wide tub of water and stir.",
+        "Slide the netted frame under the water and lift it out flat, so an even layer of pulp stays on the net.",
+        "Turn the pulp out onto a cloth, cover with another cloth and roll hard to squeeze out water.",
+        "Dry the sheets in a shady, airy place for 1–2 days; peel off gently.",
+        "Keep a cup of leftover pulp in the fridge for the pulp bowl."
+      ],
+      "predict": "Ask your child to guess first: what will the soaked paper and methi feel like tomorrow? Will the new paper be smoother or rougher, thicker or thinner, than the newspaper?",
+      "observe": "Overnight the paper turns soft and floppy and the methi water becomes slippery. The dried sheets are thicker, rougher and greyer than newspaper, with flecks of print, and tear more easily than a notebook page.",
+      "why": "Paper is a mat of tiny plant fibres made of a substance called cellulose. Soaking lets water get between the fibres and loosen them, and mashing separates them into a soupy pulp. When the pulp is spread on a net, water drains away and the fibres settle criss-cross on top of each other. As the sheet is pressed and dries, the fibres come very close together and stick to each other, so the sheet holds together. The slimy methi water (a gum called mucilage) acts as extra glue. Each time paper is recycled the fibres get shorter and more broken, so recycled paper is rougher and weaker than paper from fresh wood pulp.",
+      "safety": "An adult runs the mixie, in small batches with plenty of water. Wash the jar well afterwards.",
+      "time": "12 min to soak + 25 min to make sheets the next day + 1–2 days drying"
+    },
+    {
+      "id": "e2",
+      "title": "Natural Colour Experiment (page 120)",
+      "day": 3,
+      "question": "Which kitchen plants give the brightest colour to paper, when we test them fairly?",
+      "need": ["5 equal pieces of recycled paper (5 cm × 5 cm)", "1 teaspoon each of turmeric powder, crushed spinach, grated beetroot, henna powder", "water and 4 small bowls", "a paintbrush", "baking soda", "glue"],
+      "steps": [
+        "Mix each ingredient with exactly 2 teaspoons of water.",
+        "Keep one paper piece undyed to compare.",
+        "Paint each piece with the same number of strokes (or dip for the same count).",
+        "Let them dry; paste samples in the page 120 table and write colour and brightness.",
+        "Rub each with a wet finger to see if the colour comes off.",
+        "Dab baking soda water on the turmeric piece and watch.",
+        "Put one set on a sunny windowsill and one in a drawer; compare after 4–5 days."
+      ],
+      "predict": "Ask your child to guess first: what colour will each make? Which will be brightest? Which will fade in the sun?",
+      "observe": "Turmeric: yellow (the book says dull yellow); spinach: pale or dull green; beetroot: bright pink-red; henna: orange-brown, which darkens over a day. Turmeric turns reddish-brown with baking soda. Beetroot and spinach fade fastest in sunlight.",
+      "why": "Plants contain coloured substances called pigments: curcumin in turmeric, chlorophyll in spinach, betanin in beetroot and lawsone in henna. When the paste soaks into the paper, the pigment sticks to the fibres. Some pigments hold on tightly (henna's lawsone bonds strongly, which is why it stains skin and hair), and others wash or rub off more easily. Sunlight breaks some pigments down, so they fade. Curcumin changes colour depending on whether its surroundings are acidic or alkaline: baking soda is alkaline, so it turns turmeric red-brown. Keeping paper size and amount of dye the same makes this a fair test, so the dye is the only thing that changes.",
+      "safety": "Turmeric and henna stain clothes and hands. Use plain henna powder, never 'black henna', which may contain a chemical that burns skin.",
+      "time": "22 min + checks on Day 8"
+    },
+    {
+      "id": "e3",
+      "title": "Which paper soaks up most water?",
+      "day": 5,
+      "question": "Do different types of paper soak up water differently, and does that explain how we use them?",
+      "need": ["strips 2 cm × 15 cm of tissue, newspaper, writing paper, art paper, recycled paper and a cardboard layer", "a ruler, tape, 2 glasses", "a tray of water with a few drops of food colour or ink", "a dropper or spoon", "a phone timer"],
+      "steps": [
+        "Mark a pencil line 1 cm from the bottom of each strip.",
+        "Tape the tops of all strips to a ruler laid across two glasses.",
+        "Lower the tray so all strips dip just to the line at the same moment.",
+        "After 5 minutes, measure how high the colour has climbed on each.",
+        "Put 5 drops of water on a square of each paper and time how long until they soak in.",
+        "Write the order from most to least absorbent."
+      ],
+      "predict": "Ask your child to guess first: put the papers in order from 'soaks up most' to 'soaks up least'.",
+      "observe": "Tissue and our recycled paper usually soak up water fastest and highest; newspaper next; writing and art paper slower; glossy or coated paper hardly at all.",
+      "why": "Paper is full of tiny gaps between its fibres, like a sponge. Water creeps into these narrow gaps and climbs upwards by itself, a pull called capillary action, the same way water climbs up a tea-dunked biscuit or a cotton wick. Tissue is loosely packed with many gaps, so it soaks quickly. Writing paper is made with a 'size', a coating that blocks the gaps so ink does not spread; that is why it soaks slowly. This is why tissue is used for wiping and writing paper for writing.",
+      "safety": "Food colour and ink stain; cover the table with newspaper.",
+      "time": "13 min"
+    },
+    {
+      "id": "e4",
+      "title": "Which paper is strongest?",
+      "day": 5,
+      "question": "How much weight can a strip of each type of paper hold before it tears?",
+      "need": ["strips 3 cm × 20 cm of each type of paper", "tape", "a small polythene bag or a paper-clip hook", "20 one-rupee coins", "a table edge"],
+      "steps": [
+        "Tape one end of a strip firmly to the table edge so it hangs down.",
+        "Tape the bag to the bottom end.",
+        "Add coins one at a time, gently, until the strip tears.",
+        "Record the number of coins.",
+        "Repeat for each paper, using the same width, length and tape each time.",
+        "Tear a newspaper sheet top-to-bottom and side-to-side and compare the tears."
+      ],
+      "predict": "Ask your child to guess first: which paper will hold the most coins? Will our recycled paper be stronger or weaker than newspaper?",
+      "observe": "Cardboard and art paper usually hold the most; writing paper next; newspaper less; tissue tears with very few coins. Our recycled paper is often weaker than newspaper. Newspaper tears more neatly in one direction than the other.",
+      "why": "A paper's strength depends on how long its fibres are, how tightly they are pressed together, and how thick the sheet is. Long fibres overlap a lot and grip each other along their length, so they are hard to pull apart. Thick, tightly pressed paper has more fibres holding on. Tissue is thin and loose, so it tears easily. Recycled paper has shorter, broken fibres, so it is weaker. In a paper mill the pulp flows along a moving wire, so most fibres line up in that direction (the 'grain'); paper tears straight along the grain and raggedly across it.",
+      "safety": "Keep feet clear of falling coins.",
+      "time": "12 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "A special gift: recycled-paper card (Book Activity 3, page 121)",
+      "day": 4,
+      "mins": 15,
+      "need": ["a sheet of our recycled paper", "dyed paper samples", "pressed flowers or leaves", "glue and sketch pens"],
+      "steps": [
+        "Fold the recycled sheet in half to make a card (or cut a mask or bookmark shape).",
+        "Decorate the front with natural-dyed paper shapes, pressed leaves or flowers.",
+        "Write a message inside, and on the back write 'Made from recycled newspaper by ___'.",
+        "Choose the person it is for and give it to them, as Pihu did."
+      ],
+      "outcome": "A handmade greeting card from your child's own recycled paper, given to someone special."
+    },
+    {
+      "id": "a2",
+      "title": "Five-day paper-waste audit (page 122)",
+      "day": 4,
+      "mins": 10,
+      "need": ["an empty cardboard box labelled 'Paper waste'", "paper for a bar chart"],
+      "steps": [
+        "Put the box next to the dustbin; for five days all thrown-away paper goes in it.",
+        "On Day 8, tip it out and sort into: could have refused, could have reduced, could reuse, repurpose or recycle, cannot recycle.",
+        "Count each pile and draw a bar chart.",
+        "Choose one family rule to shrink the biggest pile."
+      ],
+      "outcome": "A bar chart of the family's paper waste and one new family rule to reduce it."
+    },
+    {
+      "id": "a3",
+      "title": "My name in Braille",
+      "day": 6,
+      "mins": 15,
+      "need": ["thick paper or card", "a folded towel", "a blunt pencil or empty ballpoint refill", "the Braille alphabet below"],
+      "steps": [
+        "A Braille cell has 6 dots: 1, 2, 3 down the left column and 4, 5, 6 down the right.",
+        "Letters: a 1; b 1-2; c 1-4; d 1-4-5; e 1-5; f 1-2-4; g 1-2-4-5; h 1-2-5; i 2-4; j 2-4-5; k 1-3; l 1-2-3; m 1-3-4; n 1-3-4-5; o 1-3-5; p 1-2-3-4; q 1-2-3-4-5; r 1-2-3-5; s 2-3-4; t 2-3-4-5; u 1-3-6; v 1-2-3-6; w 2-4-5-6; x 1-3-4-6; y 1-3-4-5-6; z 1-3-5-6.",
+        "Plan your name in pencil on scrap paper.",
+        "On the back of the card, write it as a mirror image: right to left, with left and right columns swapped.",
+        "Press each dot firmly into the card on the towel.",
+        "Turn over, close your eyes and read it with a fingertip."
+      ],
+      "outcome": "A name card in raised Braille dots, and a real feeling for how blind readers read by touch."
+    },
+    {
+      "id": "a4",
+      "title": "Which R is it? (Book Activity 5, page 125)",
+      "day": 7,
+      "mins": 12,
+      "need": ["Textbook page 125", "pencil"],
+      "steps": [
+        "Read each situation in the page 125 table aloud.",
+        "Decide which of the 5Rs it belongs to and write it.",
+        "Explain your reason, especially for the tricky ones (Rohan's pages, the shopkeeper's envelopes).",
+        "Add two situations from your own home and label them."
+      ],
+      "outcome": "A completed 5R table and a clear sense of the difference between reuse, repurpose and recycle."
+    },
+    {
+      "id": "a5",
+      "title": "Newspaper bag and envelope (page 126)",
+      "day": 7,
+      "mins": 18,
+      "need": ["old newspaper", "glue or flour paste", "scissors and ruler", "a strip of cardboard", "string or paper strips for handles"],
+      "steps": [
+        "Bag: fold a double sheet of newspaper in half, then fold the long edges in by 2 cm and glue them so you have a tube.",
+        "Fold up the bottom 5 cm, open it into a flat diamond, fold the top and bottom points to the middle and glue, to make a flat base.",
+        "Glue a strip of cardboard inside the base to make it stronger.",
+        "Fold the top edge over twice and glue handles of twisted paper strips or string under the fold.",
+        "Envelope: fold a rectangle of newspaper into three, fold in the side edges, glue them, and leave the top as a flap.",
+        "Test the bag with a 250 g packet and improve where it tears."
+      ],
+      "outcome": "A tested newspaper bag and envelope, repurposed from old paper, ready to use or give to a local shop."
+    },
+    {
+      "id": "a6",
+      "title": "Paper pulp bowl (page 127, Question 1)",
+      "day": 8,
+      "mins": 12,
+      "need": ["about 1 cup leftover pulp from Day 2", "2 spoons flour paste", "a small steel katori", "cling film or a damp cloth", "natural colours for painting"],
+      "steps": [
+        "Squeeze as much water as possible out of the pulp.",
+        "Mix in the flour paste.",
+        "Cover the outside of an upside-down katori with cling film or a damp cloth.",
+        "Press the pulp over it in an even layer about 1 cm thick.",
+        "Leave it to dry for 2–3 days; then lift it off.",
+        "Paint it with turmeric, beetroot or henna paint and use it to hold pencils or keys."
+      ],
+      "outcome": "A small bowl made from waste newspaper, showing how pulp can be moulded into objects."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Cai Lun (died 121 CE), China",
+      "idea": "Cai Lun was an official at the court of the Eastern Han emperor in China. In 105 CE he presented the emperor with a method of making paper from the inner bark of trees, hemp, old rags and worn-out fishing nets, beaten into pulp, spread on a screen and dried. For centuries, Chinese and later world histories called him the inventor of paper.",
+      "then": "His paper was praised at court and the method spread across China. Paper-making slowly travelled west over many centuries, reaching the Islamic world around the 700s and Europe much later; in India, paper became common later still, with palm leaves and birch bark used for a long time.",
+      "now": "Archaeologists have since found pieces of paper in north-western China that are older than Cai Lun, some by about 200 years or more. So most historians now say he did not invent paper but greatly improved and standardised it, using cheap waste materials. That he made paper-making practical is accepted; that he was the very first is not.",
+      "status": "accepted",
+      "ask": "Old books said Cai Lun invented paper. Then older paper was dug up. What kind of evidence changed the story? Should we still remember him? Why?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Louis Braille (1809–1852), France",
+      "idea": "Louis Braille hurt his eye with a sharp tool in his father's workshop at age 3 and became fully blind. At the Royal Institute for Blind Youth in Paris, the only books for blind students had large raised ordinary letters, which were slow to feel and very heavy. Building on a 12-dot 'night writing' code made by an army captain, Charles Barbier, he created a simpler code of 6 raised dots by about age 15 (1824) and published it in 1829. It could be read quickly with one fingertip and, importantly, blind people could write it themselves.",
+      "then": "Many sighted teachers and officials preferred raised ordinary letters, which they could read too. For years his system was not officially adopted, and at one point a director of the school banned it, though students kept using it in secret. The school officially adopted Braille in 1854, two years after Louis Braille died.",
+      "now": "Braille is used around the world, in nearly every language. India uses Bharati Braille for Indian languages. You find it on lift buttons, medicine packs and many signs, and World Braille Day is marked on his birthday, 4 January.",
+      "status": "accepted",
+      "ask": "The blind students loved Braille long before the sighted teachers accepted it. Whose opinion should matter most when deciding if a tool for blind people works? How would you test which system reads faster?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "The Bakhshali manuscript (found 1881 near Peshawar, now in the Bodleian Library, Oxford) and the debate over its age",
+      "idea": "The Bakhshali manuscript is an ancient Indian mathematics text written on about 70 leaves of birch bark (bhurja patra), found by a farmer in 1881 near the village of Bakhshali, now in Pakistan. It uses a dot to stand for zero inside numbers. In 2017, scientists at Oxford used radiocarbon dating on three samples of the bark and reported very different ages, the oldest from roughly the 3rd or 4th century CE, which would make it one of the oldest known uses of a zero symbol.",
+      "then": "Before 2017, most scholars believed, from its language, handwriting and mathematics, that it was written around the 8th to 12th centuries CE.",
+      "now": "Several historians of Indian mathematics have questioned the 2017 result, arguing that the manuscript looks like the work of one scribe at one time, so samples centuries apart are puzzling, and that old bark might have been stored for a long time before being written on. Others accept the early date for at least part of it. This is a live debate, and it shows how scientists and historians check each other's evidence. The use of zero in India is not in doubt; how early this particular manuscript is, is.",
+      "status": "debated",
+      "ask": "Radiocarbon dating tells us when the birch tree was alive, not when someone wrote on the bark. Why does that matter? What other clues could help tell when it was written?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "What is paper made from, and what is it made of if you look very closely?", "a": "Most paper is made from wood pulp from trees (and some from old paper, bagasse, banana fibre or cotton rags). Close up, it is a flat mat of millions of tiny plant fibres stuck together."},
+    {"q": "Tell the steps of making recycled paper and why we added methi.", "a": "Tear old newspaper, soak it overnight with methi seeds, mash it into pulp, spread it in a thin layer on a net or flat base and roll out the water, then dry it. The methi makes a slimy gum that helps bind the fibres."},
+    {"q": "Why does recycled paper feel rougher than a drawing book page?", "a": "It is made from old paper whose fibres are shorter and mixed, it is not bleached or pressed as hard, and it has no smooth coating."},
+    {"q": "In the natural colour test, what did you keep the same, and why?", "a": "The size of the paper pieces and the amount of each ingredient, so that only the dye was different and the test was fair."},
+    {"q": "Why is tissue paper used for wiping and cardboard for boxes?", "a": "Tissue is thin, soft and soaks up water quickly. Cardboard is thick, stiff and strong, so it protects things inside a box."},
+    {"q": "What did people in India write on before paper? How do blind people read?", "a": "Palm leaves (talapatra), birch bark, cloth and wooden boards. Blind people read Braille, patterns of raised dots felt with the fingertips."},
+    {"q": "Name the 5Rs and give one example of each.", "a": "Refuse (say no to a paper cup), Reduce (write on both sides), Reuse (use a gift bag again), Repurpose (make a vase from an old bottle), Recycle (turn old newspaper into new paper)."},
+    {"q": "Is the age of the Bakhshali manuscript settled? Why or why not?", "a": "No. A 2017 radiocarbon test gave some leaves a very early date, but other experts argue the manuscript was written at one time and the bark may be older than the writing, so it is still debated."}
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "key": "nios|sci|3|5",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 5,
+  "title": "Conservation of Environment",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 5 (pages 61–80), 2016",
+  "summary": "Animals and plants give us food, work, wool, medicine, wood and the oxygen we breathe, so we must care for them. Your child learns how living things are joined in food chains and food webs, why removing one link upsets the balance of nature, how pollution harms air, water and soil, and how to protect soil, forests and water at home, with experiments on erosion, rotting, leaves and water use.",
+  "goals": [
+    "By the end your child can name at least eight useful animals and what we get from each, and say how to care for pets, farm animals and wild animals.",
+    "By the end your child can name the main parts of a plant and their jobs, explain why leaves are called the plant's 'kitchen', and list things we get from plants.",
+    "By the end your child can build a food chain of four or five links from their surroundings, explain a food web, and predict what happens if one link disappears.",
+    "By the end your child can explain, from an experiment, how plant cover protects soil from being washed away.",
+    "By the end your child can name causes of air, water and soil pollution and describe at least four ways to save water and protect forests at home.",
+    "By the end your child can explain how Rachel Carson and the women of the Chipko movement stood up for the environment when many people disagreed."
+  ],
+  "words": [
+    ["conservation", "protecting and using something carefully so that it lasts, like soil, water and forests"],
+    ["domestic animal", "an animal that people keep and care for, like a cow, goat, dog or hen"],
+    ["wild animal", "an animal that lives on its own in nature, like a deer, tiger or squirrel"],
+    ["rabies", "a deadly disease spread by the bite of an infected dog, cat or other animal; a vaccine prevents it"],
+    ["pollination", "carrying pollen from one flower to another so that fruits and seeds can form; bees and butterflies do this"],
+    ["oxygen", "the gas in air that all living things need to breathe; green plants give it out when they make food"],
+    ["carbon dioxide", "the gas we breathe out; green plants take it in to make food"],
+    ["food chain", "the order in which one living thing is eaten by another, like grass, then grasshopper, then frog, then snake"],
+    ["food web", "many food chains joined together, because most animals eat, and are eaten by, more than one kind of living thing"],
+    ["scavenger", "an animal that eats dead animals, like a vulture, crab or ant"],
+    ["decomposer", "a tiny living thing, like bacteria or fungi, that breaks down dead plants and animals into soil"],
+    ["erosion", "the washing or blowing away of the top layer of soil by water or wind"],
+    ["compost", "rich manure made when kitchen and garden waste rots"],
+    ["rainwater harvesting", "collecting rain from roofs or land and storing it in tanks, ponds or the ground for later use"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "What do animals give us?",
+      "goal": "Start from what animals gave our family today, read how people have used animals since farming began, and set up a rotting test that we will check all week.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Animal gifts at breakfast",
+          "mins": 5,
+          "do": "Ask your child: 'What did animals give us today?' Look around the kitchen and wardrobe together. Good answers: milk, curd, ghee and paneer from cows or buffaloes, eggs from hens, honey from bees, a woollen sweater from sheep, a silk sari from silkworms, leather chappals or a belt. Ask: 'And which animals help us without giving us anything to eat?' (A dog guarding the house, earthworms in the soil, bees and butterflies at flowers.)"
+        },
+        {
+          "kind": "read",
+          "title": "Useful animals (pages 61–63)",
+          "mins": 9,
+          "do": "Read the opening of the lesson on page 61 and section 5.1 on pages 61–63 aloud, with the pictures of the camel, bullock cart, ploughing bullocks, donkey, yak and horse. Ask: 'Before farming, how did people use animals?' (They hunted them for meat.) 'After farming began, how did animals help?' (Ploughing, pulling carts, carrying loads, travel, milk.) 'Why were people with more animals called rich?' (Animals gave milk, work, dung and wool: they were wealth.) Then read the table on pages 62–63. Tell your child that some uses in it, such as cow urine in Ayurveda, are traditional practices that scientists have not shown to work as medicine, while others, like cow dung as manure and fuel, are clearly useful."
+        },
+        {
+          "kind": "game",
+          "title": "Animal gift sort",
+          "mins": 9,
+          "do": "Write these on small slips: honey, wool, silk, eggs, milk, ploughing, carrying loads, guarding the house, making soil fertile, pollination, eating rats. Your child picks a slip and names the animal from the book's table that gives it: honeybee, sheep or yak, silkworm, hen, cow or buffalo or goat, bullock, donkey or elephant or camel, dog, earthworm, butterfly or bee, snake. Ask after each: 'What would happen if this animal disappeared?' For the snake, explain that most Indian snakes are not venomous and they help farmers by eating rats."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the rotting test",
+          "mins": 17,
+          "do": "Set up Experiment e2, which also prepares us for compost (Let's do and learn ii, page 78). Fill a big cut plastic bottle or a pot with garden soil. Your child buries, in different places near the side, so you can see them, a banana peel, a fallen leaf, a piece of newspaper, a piece of plastic bag, a vegetable peel and a steel or aluminium bottle cap. Wet the soil until it is like a squeezed sponge. Ask them to guess first: 'Which of these will rot and become soil in a week, which will take longer, and which will never rot?' Write the guesses in a table. If you can find two or three earthworms in garden soil, add them. Keep it in the shade and cover with a cloth.",
+          "ref": "e2"
+        }
+      ],
+      "need": ["NIOS EVS Level A book, pages 61–63", "paper slips and a pen", "a cut plastic bottle or a pot, garden soil, water", "a banana peel, a dry leaf, newspaper, a piece of plastic bag, vegetable peel, a metal bottle cap", "earthworms from garden soil if possible"],
+      "prep": [{"task": "Cut a big plastic bottle in half (adult) or find a pot, and collect garden soil", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Looking after animals",
+      "goal": "Learn how to care for domestic and wild animals, why cruelty and caging are wrong, and make a water bowl for birds.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Rotting test check",
+          "mins": 3,
+          "do": "Gently scrape the soil aside at the side of the bottle from Experiment e2 so your child can see each object. Ask: 'Has anything changed colour or gone soft?' Draw and date it. Cover again and keep the soil damp.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Looking after animals (pages 63–64)",
+          "mins": 9,
+          "do": "Read section 5.2 on pages 63–64 aloud. Ask: 'How should domestic animals be kept?' (In a clean, airy place, kept clean, given nutritious food and treatment when sick.) 'Which disease must pet dogs and cats be vaccinated against?' (Rabies.) Explain clearly: 'If any dog, cat or monkey bites or scratches you, tell me at once and we wash it with soap and running water for 15 minutes and go to the doctor the same day, because rabies can be prevented by injections.' Ask: 'Why has the government banned bears, monkeys and lions in circus shows?' (They are trained by cruel methods.) 'Who do we tell if we see it?' (The police or forest department.) Look at the animal pictures on page 64 and sort them aloud into wild and pet."
+        },
+        {
+          "kind": "talk",
+          "title": "Should birds be kept in cages?",
+          "mins": 6,
+          "do": "Read again the line on page 64: 'It is also wrong to keep birds in cages.' Explain the law: catching and selling India's wild birds, such as parakeets (tota) and munias, is banned under the Wildlife (Protection) Act of 1972. Ask your child: 'How is a parrot's life in a cage different from its life in a tree?' Good answers: it cannot fly far, find its own food, choose a mate or be with its flock. Ask: 'Is a pet dog different?' (Dogs have lived with people for thousands of years and need people; a wild bird does not.) Accept their reasoning."
+        },
+        {
+          "kind": "act",
+          "title": "Make a bird water bowl",
+          "mins": 14,
+          "do": "Do Activity a1. Take a wide shallow clay dish (a flowerpot saucer is ideal) or cut the bottom off a plastic bottle so it is about 3 cm deep. Your child places a flat stone in the middle so small birds and insects can stand and not drown. Fill it with clean water and place it on a balcony ledge, terrace or window sill in partial shade, away from where cats can jump. Make a bird-visit chart: Date, Time, Bird, What it did (drank, bathed). Agree on the rule: wash and refill it every day, because still water left for more than two or three days lets mosquitoes breed.",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see what you have learnt 5.1 (page 65)",
+          "mins": 8,
+          "do": "Do the three questions on page 65 aloud and let your child write the answers. 1: goat, milk and meat; elephant, carries heavy loads; earthworm, makes soil fertile; honeybee, honey and beeswax; fish, food; hen, eggs and meat. 2: keep them in a clean airy place, give good food, treat them when ill, vaccinate pets against rabies. 3: never kill or hurt them without reason, do not tease them or put them in cages, give birds water, and tell the forest department about cruelty."
+        }
+      ],
+      "need": ["NIOS EVS book pages 63–65", "a shallow clay dish or a cut plastic bottle", "a flat stone", "paper for a bird-visit chart"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Plants: their parts and their gifts",
+      "goal": "Learn the parts of a plant and their jobs, see a leaf giving out gas in sunlight, and hunt our kitchen for things that come from plants.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Parts of plants and their uses (pages 65–66)",
+          "mins": 8,
+          "do": "Read section 5.3 on pages 65–66 aloud with the plant picture. Your child points to each part on a real potted plant or a weed you pull up: root, stem, branch, leaf, bud, flower, fruit, seed. Ask: 'Why are leaves called the kitchen of the plant?' (They make food from carbon dioxide from the air and water, in sunlight.) 'What gas do leaves give out when they make food?' (Oxygen, which all living things need to breathe.) Make the book's important point clear: plants also breathe, all day and night, taking in oxygen like us; but in sunlight they make much more oxygen than they use."
+        },
+        {
+          "kind": "exp",
+          "title": "Bubbles from a leaf",
+          "mins": 8,
+          "do": "Set up Experiment e3. Pick two fresh green leaves (spinach, tulsi, or any soft leaf). Put each in a clear glass filled to the top with water (add a pinch of baking soda to each, which gives the leaf extra carbon dioxide). Put one glass in bright sunlight and the other inside a cupboard. Ask your child to guess first: 'Will anything appear on the leaves?' Check after one to two hours, during the next steps or after lunch: look closely, with a magnifying glass if you have one, for tiny silver bubbles on the leaf in sunlight.",
+          "ref": "e3"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Kitchen plant hunt (pages 66–68)",
+          "mins": 13,
+          "do": "Read the table of things we get from plants on pages 66–68 aloud. Then your child hunts the kitchen and home with a table: Thing, Plant, Part of the plant. Aim for 12: wheat atta (seed of wheat), rice (seed), moong dal (seed), mustard or groundnut oil (seed), haldi (underground stem), elaichi (fruit and seeds), laung or clove (flower bud), dalchini (bark), tej patta (leaf), potato (stem), carrot (root), banana (fruit), tea (leaf), cotton towel (fibres around cotton seeds), wooden chair (stem wood). Correct one thing in the book gently: jute comes from the jute plant, not from hemp."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Animals and plants",
+          "mins": 8,
+          "do": "Do Worksheet ws1 (core) sections A and B now; keep section C for Day 7. Read each item aloud if needed and mark together. For each mistake, reopen the page: animals pages 62–63, plant parts pages 65–66.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "exp",
+          "title": "Leaf result and Let's see 5.2",
+          "mins": 3,
+          "do": "Look at both glasses from Experiment e3. The leaf in sunlight should have tiny bubbles on its surface; the one in the dark has few or none. Then do 'Let's see what you have learnt 5.2' on page 68 aloud: four parts (root, stem, leaves, flowers); ginger, spice and medicine; cotton, cloth; deodar, wood for houses and furniture; tulsi, medicine.",
+          "ref": "e3"
+        }
+      ],
+      "need": ["NIOS EVS book pages 65–68", "a potted plant or a small weed", "2 fresh soft leaves, 2 clear glasses, water, baking soda", "a magnifying glass if you have one", "kitchen items for the hunt", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Who eats whom? Food chains and food webs",
+      "goal": "Learn what a food chain and a food web are, build a living food web with string, and hear how one starfish showed that removing one animal can change a whole shore.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Rotting test check",
+          "mins": 3,
+          "do": "Check Experiment e2: scrape the soil aside and look at each object. The banana peel and vegetable peel should be dark and soft, perhaps with white fungus threads; the plastic and metal cap look the same. Draw and date it.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Food chain and food web (pages 69–70)",
+          "mins": 9,
+          "do": "Read section 5.4 on pages 69–70 aloud. Draw the book's first chain with arrows: grass, grasshopper, rat, snake, eagle. Explain that the arrow means 'is eaten by', so energy goes along it. Ask: 'Where does the grass get its energy?' (From sunlight, by making food.) 'Why does almost every food chain start with a plant?' (Only green plants make their own food.) Read about scavengers and about bacteria and fungi breaking down what is left. Ask: 'Who did that job in our rotting bottle?' (Bacteria and fungi, and the earthworms.) Then ask your child to make a food chain from your own surroundings, for example neem leaves, caterpillar, myna, cat."
+        },
+        {
+          "kind": "game",
+          "title": "Build a string food web",
+          "mins": 15,
+          "do": "Do Activity a2. Write these on cards: Sun, grass, neem tree, grasshopper, caterpillar, rat, frog, sparrow, snake, mongoose, eagle, bacteria and fungi. Lay them in a big circle on the floor. Your child joins each eater to its food with a long piece of wool or string, saying 'The frog eats the grasshopper.' Connect bacteria and fungi to everything, because they break down all dead things. When the web is done, ask: 'Count the strings going into the snake. How many foods does it have?' Then pick up the frog card and pull: 'Which other cards move?' (Everything joined to it.) Leave the web on the floor if you can, for the next step.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Robert Paine and the starfish",
+          "mins": 8,
+          "do": "Tell the story in Voice v1: on a rocky sea-shore in the USA, a scientist removed one kind of starfish from some rocks again and again for years. The mussels it used to eat took over the rocks, and many other kinds of seaweed, snails and limpets disappeared. Point to the string web: 'If we take away the snake, what happens to the rats?' Ask the voice question and let your child explain using the strings.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "What if the frogs vanish? (pages 70–71)",
+          "mins": 5,
+          "do": "Read the pond example on pages 70–71: insects, frogs, snakes, eagles and mongooses. Ask the book's question: 'If all the frogs vanish, what happens to the insects and the snakes?' (Mosquitoes and other insects increase, crops are harmed and malaria can spread; snakes must look for rats and small birds instead; eagles also get less food.) Then read the paragraph about lions and tigers: 'If tigers disappear, why might elephants and deer come into fields?' (Grass-eaters increase, eat up the forest and then look for food in fields.)"
+        }
+      ],
+      "need": ["NIOS EVS book pages 69–71", "12 cards and a marker", "a long ball of wool or string", "the rotting bottle"],
+      "prep": [{"task": "Write the 12 food-web cards", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "Balance in nature",
+      "goal": "Understand how predators and prey keep each other in balance, play a deer-and-tiger counting game, and weigh a live debate about wolves in Yellowstone.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Balance in nature (page 71)",
+          "mins": 7,
+          "do": "Read section 5.5 on page 71 aloud. Ask: 'If there are too many flesh-eating animals, what happens?' (They eat most of the plant-eaters, then run short of food themselves, and many starve, so their numbers fall again.) 'What happens if there are fewer plants?' (Plant-eating animals get less food and their numbers fall.) Then read the last paragraph: growing population, more crops, fertilisers and pesticides that pollute soil, water and air and kill useful worms. Ask: 'How can the need for more food upset the balance?'"
+        },
+        {
+          "kind": "game",
+          "title": "Deer and tiger counting game",
+          "mins": 10,
+          "do": "Play a simple balance game with dried rajma or chana as deer and a few coins as tigers. Round 1: start with 20 deer and 2 tigers. Each tiger 'eats' 3 deer per round (remove them). Then deer increase: add 1 new deer for every 2 deer left. Any tiger that could not eat 3 deer is removed; if there are lots of deer left (more than 20), add one new tiger. Play 6 rounds and write the numbers in a table. Your child will see the numbers rise and fall. Ask: 'What happened when there were too many tigers? When there were none?' (Too many tigers ate up the deer and then went hungry; with no tigers the deer would keep increasing until they ate up all the grass.)"
+        },
+        {
+          "kind": "think",
+          "title": "Did wolves change Yellowstone's rivers?",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: in 1995 wolves were brought back to Yellowstone National Park in the USA after about 70 years. A famous story says the wolves made elk (a large deer) eat less of the young trees by the rivers, so trees grew back, beavers returned and even the rivers changed. Some scientists say the evidence supports this; others say it is too simple, because there were also more bears, hunting by people and dry years. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see what you have learnt 5.3 (pages 71–72)",
+          "mins": 5,
+          "do": "Do the three questions on pages 71–72 aloud. 1: plants and trees make their own food. 2: squirrel, grains, nuts and fruits; rat, grains and almost anything people eat; rabbit, grass and leaves; snake, rats and frogs; deer, grass and leaves; spider, small insects; lion, flesh of other animals. 3: plant leaves, insects, frog, snake, mongoose, kite (the book's answer joins both mongoose and kite as eaters at the end; a kite or eagle can also eat a snake directly)."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Webs and balance",
+          "mins": 7,
+          "do": "Do sections A and B of Worksheet ws2 (stretch) now; keep section C for Day 7. Read the items aloud. Let your child use the string web on the floor to help with the 'what if' items.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "exp",
+          "title": "Rotting test check",
+          "mins": 3,
+          "do": "Check Experiment e2 again and add a drawing to the table. Ask your child to say which objects are clearly rotting, which are changing slowly (the leaf and newspaper), and which have not changed at all (plastic and metal).",
+          "ref": "e2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 71–72", "a bowl of dried rajma or chana and a few coins", "notebook for the game table", "the string web from Day 4", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Pollution and saving our soil",
+      "goal": "Learn what environmental pollution is and how it harms us, test how plant cover protects soil from rain, and meet Rachel Carson, who warned the world about pesticides.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Conservation of environment (pages 72–73)",
+          "mins": 7,
+          "do": "Read section 5.6 on pages 72–73 aloud, with the pictures of waste water in a river and factory smoke. Ask: 'What is environmental pollution?' (A harmful change in air, water or soil that is not suitable for life.) Make three columns in the notebook: Air, Water, Soil, and your child writes one cause under each from the book (smoke from factories and vehicles; dirty water from factories; chemical fertilisers and pesticides) and one of their own (burning garbage; washing clothes in a pond; plastic thrown on land). Ask: 'Which pollution can you see from our home?'"
+        },
+        {
+          "kind": "think",
+          "title": "Rachel Carson's Silent Spring",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: in 1962 Rachel Carson wrote a book called 'Silent Spring', showing that a pesticide called DDT, sprayed to kill insects, was also killing birds, fish and other animals, and building up as it went along food chains. Chemical companies attacked her and called her hysterical. Draw a chain on paper: sprayed plants, insects, small fish, big fish, fish-eating bird, and add more dots of 'poison' at each step to show how it collects. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "read",
+          "title": "Soil conservation (page 73)",
+          "mins": 5,
+          "do": "Read 'Soil Conservation' on page 73 aloud. Ask: 'How long did our soil take to form?' (Crores of years, as the book says: rock breaks down very slowly.) 'What protects the fertile top layer?' (Grasses and forests.) 'What harms it?' (Cutting forests and overgrazing, after which wind and water carry the soil away.) Tell your child that this washing away is called erosion, and we will test it now."
+        },
+        {
+          "kind": "exp",
+          "title": "Soil erosion test",
+          "mins": 15,
+          "do": "Do Experiment e1 outdoors or in a bathroom. Fill two identical trays or shoe-box lids lined with plastic with the same soil, pressed down. In tray A leave the soil bare. In tray B cover the soil thickly with grass clumps, moss or a thick layer of fallen leaves pressed in. Prop both up at the same slope on a brick, with a steel bowl at the lower end of each. Ask your child to guess first: 'When it rains, which tray will lose more soil?' Then pour the same amount of water (2 mugs) slowly from the same height over each, using a mug with holes poked in its bottom or a watering can. Compare the water in the two bowls: how muddy, how much soil settles at the bottom.",
+          "ref": "e1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet section C (match the pollution)",
+          "mins": 5,
+          "do": "Do section C of Worksheet ws1 (pollution and soil). Then do 'Let's see what you have learnt 5.4' question 4 on page 76 aloud: smoke from factories, air; liquid waste from industries, water; chemical fertilisers, soil.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["NIOS EVS book pages 72–73, 76", "two trays or shoe-box lids, plastic sheet", "soil, grass clumps or a thick layer of fallen leaves", "a brick, two steel bowls, a mug with holes or a watering can", "worksheet ws1 section C"],
+      "prep": [{"task": "Collect soil and some grass clumps or a bag of fallen leaves for the erosion test", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Saving forests and water",
+      "goal": "Learn why forests matter and how the Chipko women protected them, measure how much water we can save when brushing, plan rainwater harvesting, and finish the rotting test.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Conservation of forests (pages 73–74)",
+          "mins": 7,
+          "do": "Read section 5.7 on pages 73–74 aloud. Ask: 'Name five things we get from forests.' (Oxygen, fodder, fuel, wood, medicines, honey, lac, wax, gum, rubber, fruits.) 'How do trees prevent floods and droughts?' (Fallen leaves and roots soak up rain and let it seep slowly into the soil, so water does not rush off; the stored water stays available for a long time.) Note that the book says cutting trees is banned: in fact, in many places cutting a tree needs government permission. Read the list of practices and ask your child to choose one your family will do this month."
+        },
+        {
+          "kind": "think",
+          "title": "Chipko: the women who hugged trees",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: in 1974 in Reni village in the Himalayas (now Uttarakhand), the men were away when contractors came to cut the forest. Gaura Devi and the village women went to the forest and stood in front of the trees, refusing to move. The cutters went away. Ask: 'Why would these women care so much about the trees?' (The forest gave them fodder, firewood and water, and stopped landslides.) Link back to the erosion test. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "read",
+          "title": "Conservation of water (pages 74–75)",
+          "mins": 6,
+          "do": "Read section 5.8 on pages 74–75 aloud. Ask: 'Why can't we drink sea water?' (It is salty: saline.) 'What were baolis and stepwells for?' (Collecting rainwater; rich and poor built them together.) Tell your child about Anupam Mishra, an Indian writer whose book 'Aaj Bhi Khare Hain Talaab' (The Ponds Are Still Relevant, 1993) showed how villages across India built and cared for their own ponds. Then read the rooftop rainwater harvesting steps and ask: 'Why is there a mesh at the pipe's mouth?' (To stop leaves and dirt getting into the tank.)"
+        },
+        {
+          "kind": "exp",
+          "title": "How much water does brushing take?",
+          "mins": 10,
+          "do": "Do Experiment e4. Ask your child to guess first: 'How many litres does brushing with the tap running use? How many with a mug?' Put a bucket under the tap. Your child brushes for 2 minutes with the tap left running into the bucket (catch all of it). Measure the water with a 1-litre bottle or measuring jug. Then brush again with the tap closed, using one mug of water to wet and rinse. Measure the mug. Work out the difference and multiply by 2 (twice a day) and then by the number of people at home, and by 365 for a year. Use the bucket water for the plants or for mopping.",
+          "ref": "e4"
+        },
+        {
+          "kind": "exp",
+          "title": "Rotting test results",
+          "mins": 6,
+          "do": "Finish Experiment e2. Empty the bottle onto newspaper and find each object. Fill in the results table: rotted fully, rotting slowly, not changed. Ask: 'Which of these can go in a compost pit and become manure?' (Peels and leaves; paper slowly.) 'What should never go in it?' (Plastic and metal: they last for many years.) Then do 'Let's do and learn ii' on page 78: decide on a compost pot or pit for your kitchen peels, and put the rotted soil back in a plant pot.",
+          "ref": "e2"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet section C",
+          "mins": 4,
+          "do": "Do section C of Worksheet ws2 (saving water and forests). Use the numbers from today's brushing test.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 73–75, 78", "a bucket, a mug, a 1-litre bottle or measuring jug", "a toothbrush and toothpaste", "the rotting bottle and newspaper", "worksheet ws2 section C"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Let's revise and teach it back",
+      "goal": "Revise the lesson with the book's exercises, try the challenge worksheet, check understanding, and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercises (pages 76–77)",
+          "mins": 10,
+          "do": "Read the 'Let's Revise' points on page 76 aloud. Then do the Exercises on pages 76–77 aloud. Exercise 2: dogs and cats. Exercise 3: wrong, right, wrong, right. Exercise 5: oxygen. Exercise 6: fruit, plants, water (and minerals), seeds. Exercise 7: clean air and oxygen, shade, rain soaking into the soil, less erosion, food and homes for animals. Exercise 9: use a mug for brushing and bathing, water plants with used water, fix leaking taps, harvest rainwater. Ask Question 5.4 on page 76 too: 'Where do we get oxygen from?' (From green plants and trees.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Thinking about balance",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge): puzzles, 'what if' questions and comparing views. Your child can answer aloud while you write. In section C, there is no single right answer; praise reasons that use evidence from this week, such as the erosion trays or the deer and tiger game.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page (animals 62–64, plants 65–68, food chains 69–71, pollution and soil 72–73, forests and water 73–75), look for one minute, then ask again in different words. Most children get 6 or more right."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is now the teacher. Using the string food web, the erosion trays (or a drawing of them), the rotting test table and the brushing numbers, they teach you (or a grandparent) in 5 minutes: what animals and plants give us, food chains and webs, why balance matters, and how to save soil, forests and water. Ask two 'student' questions: 'Why are leaves called the plant's kitchen?' and 'What happens if all the frogs disappear?' End by agreeing on two habits for the family: refill the bird bowl daily and brush with a mug."
+        }
+      ],
+      "need": ["NIOS EVS book pages 76–78", "worksheet ws3", "the food web, erosion results, rotting table and water numbers from this week"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Animals, plants and pollution",
+      "day": 3,
+      "sections": [
+        ["A. Useful animals", [
+          {"t": "match", "p": "Match the animal to what it gives or does.", "pairs": [["Honeybee", "Honey and beeswax"], ["Sheep", "Wool"], ["Silkworm", "Silk"], ["Earthworm", "Makes soil fertile"], ["Bullock", "Ploughs fields"], ["Dog", "Guards the house"]]},
+          {"t": "fill", "p": "Pet dogs and cats must be vaccinated against ____.", "a": ["rabies"]},
+          {"t": "mcq", "p": "What should you do if you see bears made to dance on the road?", "opts": ["Pay to watch", "Tell the police or forest department", "Feed the bear sweets", "Take a photo and go home"], "a": 1}
+        ]],
+        ["B. Plants", [
+          {"t": "match", "p": "Match the part of the plant to its job.", "pairs": [["Root", "Takes in water and minerals from the soil"], ["Stem", "Carries water to all parts"], ["Leaf", "Makes food in sunlight"], ["Bud", "Grows into a flower"], ["Seed", "Grows into a new plant"]]},
+          {"t": "fill", "p": "Leaves are called the ____ of the plant because they make its food.", "a": ["kitchen"]},
+          {"t": "mcq", "p": "When leaves make food in sunlight, which gas do they give out?", "opts": ["Carbon dioxide", "Oxygen", "Smoke", "Steam"], "a": 1}
+        ]],
+        ["C. Pollution and soil", [
+          {"t": "match", "p": "Match each cause to what it pollutes.", "pairs": [["Smoke from factories", "Air"], ["Liquid waste from industries", "Water"], ["Chemical fertilisers", "Soil"]]},
+          {"t": "write", "p": "In our erosion test, which tray lost more soil? Why?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Webs, balance and saving",
+      "day": 5,
+      "sections": [
+        ["A. Make the chains", [
+          {"t": "write", "p": "Put these in order to make a food chain: snake, grass, eagle, grasshopper, frog.", "lines": 1},
+          {"t": "write", "p": "Make a food chain of four links from what you can see near your home.", "lines": 2},
+          {"t": "mcq", "p": "Why does almost every food chain start with a green plant?", "opts": ["Plants are the biggest", "Only green plants make their own food from sunlight", "Animals like the taste", "Plants live longest"], "a": 1}
+        ]],
+        ["B. What happens next?", [
+          {"t": "write", "p": "In a village, people kill all the snakes because they are afraid. What may happen to the rats and to the farmers' grain?", "lines": 3},
+          {"t": "mcq", "p": "In the deer and tiger game, what happened when there were too many tigers?", "opts": ["The deer increased", "The tigers ate most deer, then went hungry and their numbers fell", "Nothing changed", "The grass disappeared"], "a": 1}
+        ]],
+        ["C. Saving water and forests", [
+          {"t": "table", "p": "Fill in from our brushing test.", "cols": ["Way of brushing", "Litres each time", "Litres a day for our family", "Litres in a year"], "rows": 2, "prefill": ["Tap running", "With a mug"]},
+          {"t": "sort", "p": "Sort these into saving water and wasting water.", "items": ["Watering plants with used vegetable water", "Leaving the tap running while soaping", "Collecting rain from the roof", "Washing the car with a pipe every day", "Fixing a leaking tap", "Throwing garbage in the pond"], "cats": ["Saving water", "Wasting or spoiling water"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking about balance",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "fill", "p": "A leaking tap wastes one drop each second. If 20 drops make 1 ml, in one hour (3,600 seconds) it wastes ____ ml.", "a": ["180", "180 ml"]},
+          {"t": "write", "p": "Vultures eat dead animals. In India, vulture numbers fell steeply after the 1990s. What do you think happened to dead animals left in the open, and to stray dogs?", "lines": 3},
+          {"t": "mcq", "p": "In our rotting test, which object would last the longest in soil?", "opts": ["Banana peel", "Dry leaf", "Newspaper", "Plastic bag"], "a": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if there were no bacteria and fungi anywhere? What would the world look like after a few years?", "lines": 3},
+          {"t": "write", "p": "What if all the bees disappeared? Think about pollination and the fruits and vegetables we eat.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some scientists say wolves brought back Yellowstone's trees; others say bears, people and dry years mattered too. What would you need to measure to decide?", "lines": 4},
+          {"t": "write", "p": "Farmers use pesticides to save their crops; Rachel Carson showed some pesticides harm birds and fish. How could a farmer protect crops and the food chain too?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Soil erosion: bare soil or covered soil?",
+      "day": 6,
+      "question": "When rain falls on a slope, does plant cover stop the soil from washing away?",
+      "need": ["2 identical trays or shoe-box lids lined with plastic", "soil", "grass clumps, moss or a thick layer of fallen leaves", "a brick to prop the trays", "2 steel bowls", "a mug with holes in its bottom or a watering can", "2 mugs of water"],
+      "steps": [
+        "Fill both trays with the same amount of soil and press it down.",
+        "Leave tray A bare. Cover tray B with grass clumps or a thick layer of leaves pressed into the soil.",
+        "Prop both trays on the brick at the same slope with a bowl at the lower end of each.",
+        "Pour 2 mugs of water slowly over each tray from the same height through the holed mug, like rain.",
+        "Compare the colour of the water in each bowl.",
+        "Let the bowls stand for 10 minutes and compare how much soil settles at the bottom."
+      ],
+      "predict": "Ask your child to guess first: which tray will lose more soil when it 'rains'? Will the water in the bowls look different?",
+      "observe": "The bowl below the bare tray fills with brown, muddy water and a layer of soil settles at the bottom; the bowl below the covered tray has clearer water and much less soil. The bare tray may show little channels cut by the water.",
+      "why": "Raindrops hit bare soil hard, knocking loose its tiny particles, and the water running downhill carries them away. Leaves and grass break the fall of the drops, slow down the running water and let more of it soak in, and roots hold the soil together like a net. The top layer of soil is the richest, full of decayed leaves and minerals, and it takes hundreds of years to form just a few centimetres. Once washed into rivers it is gone. That is why the book says cutting forests and overgrazing harm soil, and why planting trees and grasses on slopes and keeping fields covered protects it.",
+      "safety": "Do it outdoors or in a bathroom; wash hands after handling soil.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "What rots? The rotting bottle",
+      "day": 1,
+      "question": "Which kinds of waste break down in soil into compost, and which do not?",
+      "need": ["a big cut plastic bottle or pot", "garden soil", "water", "a banana peel, a vegetable peel, a dry leaf, a piece of newspaper, a piece of plastic bag, a metal bottle cap", "a cloth cover", "earthworms if possible"],
+      "steps": [
+        "Fill the bottle with damp soil.",
+        "Bury each object near the side of the bottle so it can be seen, about 3 cm deep.",
+        "Wet the soil until it feels like a squeezed sponge, and cover the top with a cloth.",
+        "Keep it in the shade. Check on Days 2, 4, 5 and 7: scrape the soil aside, look, draw and cover again.",
+        "On Day 7, empty the bottle and fill in a results table: rotted, rotting slowly, not changed.",
+        "Put the rotted soil into a plant pot."
+      ],
+      "predict": "Ask your child to guess first: which objects will rot within a week, which will take longer, and which will not rot at all?",
+      "observe": "Record the change in each object every check. Fruit and vegetable peels go dark, soft and fuzzy with fungus and begin to crumble; the leaf and paper soften slowly; plastic and metal do not change.",
+      "why": "Peels, leaves and paper were once part of living plants. Bacteria and fungi, too small to see one by one, and earthworms feed on them and break them into tiny pieces that become dark, rich soil called compost; this is the decomposers' job at the end of every food chain. They need dampness, air and warmth to work. Plastic is made in factories from petroleum, and decomposers cannot digest it, so it stays in soil and water for hundreds of years, breaking only into smaller and smaller pieces. Metal rusts slowly but does not become food for anything. This is why wet kitchen waste can be composted at home, while plastic must be kept separate and reduced.",
+      "safety": "Wash hands after touching the soil and rotting waste. Do not add meat, fish or cooked food, which smell and attract rats.",
+      "time": "17 min to set up + 3 min checks on Days 2, 4 and 5 + 6 min on Day 7"
+    },
+    {
+      "id": "e3",
+      "title": "Bubbles from a leaf in sunlight",
+      "day": 3,
+      "question": "Do green leaves give out a gas when they are in sunlight?",
+      "need": ["2 fresh soft green leaves (spinach or tulsi)", "2 clear glasses", "water", "a pinch of baking soda for each glass", "a sunny place and a dark cupboard", "a magnifying glass (optional)"],
+      "steps": [
+        "Fill both glasses to the top with water and stir a pinch of baking soda into each.",
+        "Push one leaf under the water in each glass.",
+        "Put one glass in bright sunlight and the other in a dark cupboard.",
+        "After one to two hours, look closely at both leaves.",
+        "Count or describe the bubbles on each leaf."
+      ],
+      "predict": "Ask your child to guess first: will anything appear on the leaves? Will the sunny leaf and the dark leaf look the same?",
+      "observe": "Tiny silvery bubbles collect on the surface and edges of the leaf in sunlight; the leaf in the dark has few or none. The bubbles are small, so look closely.",
+      "why": "In sunlight, a green leaf makes food from carbon dioxide and water; the baking soda adds extra carbon dioxide to the water. While making food, the leaf gives out oxygen, which forms the tiny bubbles. Scientists call this photosynthesis, which means 'putting together with light'. In the dark the leaf cannot make food, so it gives out almost no oxygen. Leaves also breathe all the time, using a little oxygen like us, but in sunlight they make far more oxygen than they use. That is why the book says plants make our air fit to breathe, and why leaves are the plant's kitchen.",
+      "safety": "Do not drink the water. Wash the glasses afterwards.",
+      "time": "8 min to set up + 3 min check after 1–2 hours"
+    },
+    {
+      "id": "e4",
+      "title": "How much water does brushing take?",
+      "day": 7,
+      "question": "How much water can we save by brushing with a mug instead of a running tap?",
+      "need": ["a bucket", "a mug", "a 1-litre bottle or measuring jug", "a toothbrush and toothpaste", "a timer"],
+      "steps": [
+        "Put the bucket under the tap.",
+        "Brush for 2 minutes with the tap running into the bucket the whole time.",
+        "Measure the water in the bucket using the 1-litre bottle.",
+        "Brush again for 2 minutes with the tap closed, using one mug of water to wet the brush and rinse.",
+        "Measure the mug's water.",
+        "Work out the difference for one brushing, then for twice a day, for the whole family, and for a year."
+      ],
+      "predict": "Ask your child to guess first: how many litres will run out of the tap in 2 minutes? How much does one mug hold?",
+      "observe": "Record litres with the tap running and with the mug. A running tap often fills 6 litres or more in 2 minutes, while a mug holds about a quarter to half a litre.",
+      "why": "A tap left open runs at a steady rate, whether or not we are using the water, so most of it goes straight down the drain. Measuring it turns a vague idea ('save water') into a number we can see and multiply. Small savings each day add up: a family of four saving 5 litres each, twice a day, saves 40 litres a day and more than 14,000 litres a year, enough to fill many big drums. In much of India the water in our taps comes from rivers, lakes or underground water that rain fills up only slowly, so saving it at home leaves more for crops, animals and other families in dry months.",
+      "safety": "Use the collected water for plants or mopping so none of it is wasted.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Bird water bowl and visit chart",
+      "day": 2,
+      "mins": 14,
+      "need": ["a shallow clay dish or the cut bottom of a plastic bottle", "a flat stone", "clean water", "paper for a chart"],
+      "steps": [
+        "Choose a shallow dish about 3 cm deep.",
+        "Put a flat stone in the middle for small birds and insects to stand on.",
+        "Fill with clean water and place it in partial shade on a ledge or terrace, out of cats' reach.",
+        "Make a chart: Date, Time, Bird, What it did.",
+        "Wash and refill the bowl every day so mosquitoes cannot breed.",
+        "Watch for 10 minutes each morning and fill in the chart."
+      ],
+      "outcome": "A daily bird water bowl and a chart of which birds visit, showing care for the wild animals living around us (page 64)."
+    },
+    {
+      "id": "a2",
+      "title": "String food web",
+      "day": 4,
+      "mins": 15,
+      "need": ["12 cards: Sun, grass, neem tree, grasshopper, caterpillar, rat, frog, sparrow, snake, mongoose, eagle, bacteria and fungi", "a long ball of wool or string", "scissors"],
+      "steps": [
+        "Lay the cards in a big circle on the floor.",
+        "Join the Sun to the grass and the neem tree with string.",
+        "Join each eater to each of its foods, saying 'The ___ eats the ___.'",
+        "Join bacteria and fungi to every living card.",
+        "Count the strings going into each animal.",
+        "Pick up one card and see which others move; talk about what would happen if that living thing disappeared."
+      ],
+      "outcome": "A floor-sized food web that shows how many food chains are joined, and how losing one link affects the others."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Robert Paine (1933–2016), USA",
+      "idea": "Starting in 1963 on the rocky shore of Makah Bay in Washington State, Paine pulled a purple starfish (Pisaster) off one stretch of rocks again and again for years, and left a nearby stretch alone. Without the starfish, which ate mussels, the mussels spread over the rocks and crowded out many other kinds of seaweed, barnacles, limpets and snails; the number of different species there dropped sharply. In 1969 he called an animal like this, which holds a whole community together, a 'keystone species', after the stone at the top of an arch.",
+      "then": "Many ecologists of the time thought that plants and the amount of food at the bottom of the chain mostly decided what lived in a place. The idea that one predator at the top could shape everything below was new and was argued about.",
+      "now": "The keystone species idea is accepted and used in conservation, for example to explain why sea otters protect kelp forests and why protecting tigers protects whole Indian forests. Scientists also agree that not every predator is a keystone; it has to be tested in each place.",
+      "status": "accepted",
+      "ask": "Paine had a stretch of shore where he took the starfish away and a stretch where he did not. Why was the second stretch so important for believing his result?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Wolves in Yellowstone: William Ripple and Robert Beschta, and their critics",
+      "idea": "Wolves were brought back to Yellowstone National Park in the USA in 1995–96, about 70 years after they had been killed off there. Scientists including William Ripple and Robert Beschta argued that the wolves made elk eat fewer young willow and aspen trees along rivers, so the trees grew back, and this helped beavers and birds return. A popular video even claimed the wolves 'changed the rivers'. This kind of chain effect from the top of a food web down is called a trophic cascade.",
+      "then": "The story spread widely and was welcomed by many as proof that bringing back predators heals nature.",
+      "now": "That wolves reduced elk numbers is accepted. How much they caused the trees to recover is debated. Other scientists point out that bears and cougars also increased, people hunted elk, and dry years changed the plants; some studies found tree recovery patchy, and measurements were taken in different ways. This is a live debate.",
+      "status": "debated",
+      "ask": "If you wanted to know whether the wolves, and not the bears or the weather, made the trees grow back, what would you need to measure, and where?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Rachel Carson (1907–1964), USA",
+      "idea": "Carson, a marine biologist and writer, published 'Silent Spring' in 1962. She showed that pesticides such as DDT, sprayed widely on farms and towns, were killing birds, fish and other wildlife, not just pests, and that the poison built up as it passed along food chains, so birds of prey that ate fish got the biggest doses. She warned that a spring without birdsong could be the result.",
+      "then": "Chemical companies attacked her fiercely, calling her emotional and unscientific, and some said her ideas would lead to hunger and disease. But a US government science panel in 1963 largely supported her findings.",
+      "now": "Her main findings are accepted. DDT thinned the eggshells of birds such as eagles and falcons. The US banned most uses of DDT in 1972, and many countries followed; under a 2001 international treaty its use is now limited mainly to controlling malaria mosquitoes. 'Silent Spring' is credited with starting the modern environmental movement.",
+      "status": "accepted",
+      "ask": "The company scientists and Rachel Carson disagreed. What evidence from birds, fish or eggs would help you decide who was right?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "Gaura Devi (about 1925–1991) and the women of the Chipko movement, India",
+      "idea": "In March 1974, in Reni village in the Chamoli district of the Himalayas (now in Uttarakhand), contractors came to cut down the forest while the village men were away. Gaura Devi led the village women into the forest; they stood in front of the trees and refused to leave, saying the forest was like their mother's home. The cutters went away. 'Chipko' means 'to cling' or 'to hug'. The movement had begun the year before with Chandi Prasad Bhatt's village group, and Sunderlal Bahuguna later carried its message across India.",
+      "then": "Officials and contractors saw the forests mainly as timber to be sold, and many people thought poor village women had no say in how forests were used.",
+      "now": "Their protest worked: in 1980 the government stopped commercial tree felling in the Himalayan forests of Uttar Pradesh for 15 years. Scientists now agree that forests on hill slopes prevent landslides and soil erosion, protect springs and give villagers fodder and fuel, exactly what the women argued. Chipko is studied around the world as an example of people protecting their environment.",
+      "status": "accepted",
+      "ask": "The women knew the forest from living in it every day. The contractors had maps and plans. Whose knowledge should count when deciding about a forest, and why?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "Name four useful animals and what each gives or does for us.", "a": "For example: cow or buffalo, milk and dung manure; honeybee, honey and wax; sheep, wool; silkworm, silk; bullock, ploughing; earthworm, makes soil fertile; dog, guards the house."},
+    {"q": "How should we care for domestic and wild animals?", "a": "Keep domestic animals in a clean, airy place with good food and treatment when ill, and vaccinate pets against rabies. Do not tease, hurt, cage or kill wild animals, and give birds water."},
+    {"q": "Why are leaves called the kitchen of the plant?", "a": "Because leaves make the plant's food from carbon dioxide and water using sunlight, and give out oxygen while doing it."},
+    {"q": "What is a food chain? Give an example. What is a food web?", "a": "The order in which one living thing is eaten by another, starting with a green plant, such as grass, grasshopper, frog, snake, eagle. A food web is many food chains joined together."},
+    {"q": "What would happen if all the frogs disappeared from a pond area?", "a": "Insects and mosquitoes would increase, harming crops and spreading malaria; snakes and eagles would have less food and would have to look for rats and small birds; the whole food web would be disturbed."},
+    {"q": "What did our erosion test show?", "a": "Bare soil washed away and made muddy water, while soil covered by grass or leaves lost much less. Plant cover and roots protect the fertile top soil."},
+    {"q": "Name one cause each of air, water and soil pollution.", "a": "Air: smoke from factories, vehicles or burning garbage. Water: dirty water from factories, garbage in ponds. Soil: chemical fertilisers and pesticides, plastic."},
+    {"q": "Give three ways to save water at home.", "a": "Brush and bathe with a mug, water plants with used water (without soap), fix leaking taps, collect rainwater from the roof, never throw garbage into ponds."}
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "key": "ncert|sci|5|9",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 9,
+  "title": "Rhythms of Nature",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 5 'Our Amazing Planet', Chapter 9 (pages 145–160), Reprint 2026-27",
+  "summary": "Saba and Aparna meet after a year and notice how much has changed. Your child learns that change happens on many time scales, from seconds to years, and that some changes repeat in rhythms. They model day and night with a globe and torch to see that the Earth spins while the Sun stays put, track a shadow through the day, build a family seasons chart, learn India's six seasons (ritus), find out why winter in Kerala differs from Kashmir and why the monsoon differs in Assam and Rajasthan, and connect seasons to crops, festivals, birds and our own body clocks.",
+  "goals": [
+    "By the end your child can sort changes by how long they take (seconds, days, years) and say which ones repeat in a rhythm.",
+    "By the end your child can show with a globe and torch that day and night happen because the Earth rotates, and say why the Sun only seems to move from east to west.",
+    "By the end your child can name India's six seasons (Vasanta, Grishma, Varsha, Sharad, Hemant, Shishir), roughly when they come in their region, and their local names.",
+    "By the end your child can explain, using a torch experiment, why sunlight falling straight down heats more than slanting sunlight, and use it to explain hot and cold seasons.",
+    "By the end your child can explain why winter in Kerala differs from Kashmir and the monsoon in Assam from Rajasthan, and link seasons to crops, festivals and animal behaviour.",
+    "By the end your child can weigh evidence about rhythms, such as whether plants keep time in the dark and whether the monsoon is changing."
+  ],
+  "words": [
+    ["rhythm", "a pattern that repeats again and again, like day and night or the seasons"],
+    ["rotate", "spin around on its own middle; the Earth rotates once about every 24 hours"],
+    ["axis", "the imaginary line through the North and South Poles that the Earth spins around; it is tilted"],
+    ["globe", "a ball-shaped model of the Earth showing land, seas and oceans"],
+    ["ocean", "a huge, open body of salt water, like the Indian Ocean; oceans and seas cover about three-fourths of the Earth"],
+    ["sea", "a body of salt water, smaller than an ocean and partly enclosed by land, like the Arabian Sea"],
+    ["season", "a part of the year with its own weather and changes in nature, which comes back every year"],
+    ["ritu", "the Sanskrit word for season; the traditional Indian calendar has six ritus"],
+    ["monsoon", "the season of heavy rain brought by moist winds from the sea, in India mostly from June to September"],
+    ["migration", "a long journey that animals make at the same time every year, such as birds flying to India for the winter"],
+    ["body clock", "the timekeeper inside living things that makes us sleepy at night and alert in the day, even without a clock"],
+    ["kharif and rabi", "kharif crops are sown with the monsoon rains and harvested in autumn (like rice); rabi crops are sown after the rains and harvested in spring (like wheat)"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Changes in me and around me",
+      "goal": "Notice how much we and our surroundings change, sort changes by how long they take, and start a body-clock record.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Then and now photos",
+          "mins": 7,
+          "do": "Find two photos of your child, one from about two years ago (Grade 3) and one recent. Put them side by side and ask: 'What has changed about you?' Good answers: taller, longer or shorter hair, lost and new teeth, bigger feet, new skills (riding a cycle, reading chapter books). Mark their height on a door frame with today's date if you have never done it. Ask: 'Did you notice yourself growing each day?' (No; it happens too slowly to see day to day.)"
+        },
+        {
+          "kind": "read",
+          "title": "Saba and Aparna meet again (pages 147–148)",
+          "mins": 6,
+          "do": "Read page 147 aloud: Saba and Aparna meet after a year; Aparna is taller with short hair, Saba is learning the guitar, and there are new trees by the school gate. Ask: 'Which of these changes are in their bodies, which in their skills, and which in the place?' (Taller and hair: body; guitar: skill; trees: surroundings.) Then read page 148, which says changes happen all the time; some take years, some only days or minutes."
+        },
+        {
+          "kind": "act",
+          "title": "My Grades 3, 4 and 5 table (pages 147–148)",
+          "mins": 12,
+          "do": "Do Activity a1, the Write task on pages 147–148. Copy the table with columns Grade 3, Grade 4, Grade 5 and rows 'Yourself and your friends', 'School' (or home learning space for homeschoolers), 'Surrounding area'. Your child fills each box with one or two changes. Help them remember: 'Which friend did you play with in Grade 3? What did our street look like? Was the building next door built yet? What were you scared of then?' Encourage changes in the area too: a new shop, a tree cut or planted, a new road or metro line.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Fast changes, slow changes (pages 148–149)",
+          "mins": 10,
+          "do": "Do the four Write questions on pages 148–149 aloud and write one answer to each. 1: Something that takes a really long time, over many years (a tree growing tall, a hill wearing down, a child becoming an adult, a river changing its course). 2: Something that changes in a few years (a puppy becoming a dog, a sapling becoming a small tree, a new building). 3: Changes that happen every year again and again (seasons, mango flowering, birthdays, festivals, monsoon). 4: Something that changes in minutes or seconds (milk boiling over, ice melting, lightning, a soap bubble bursting, the sky at sunset). Then ask: 'Which of these repeat in a rhythm, and which happen only once?' Circle the repeating ones in a colour. Tell your child: 'Repeating changes are the rhythms of nature. That is this chapter.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the body-clock record",
+          "mins": 10,
+          "do": "Start Experiment e2. Make a chart for 3 days with times down the side (7 am, 9 am, 11 am, 1 pm, 3 pm, 5 pm, 7 pm, 9 pm) and two columns: 'Energy (1 to 5)' and 'Hungry? Sleepy?'. Explain the scale: 1 = very tired, 5 = full of energy. Your child rates themselves now and sets a phone reminder or asks you to remind them. Ask them to guess first: 'When in the day do you think you will feel sharpest? When sleepiest?' Write the guess at the top. If you have a four o'clock plant (gulbas or Mirabilis) nearby, also note when its flowers open.",
+          "ref": "e2"
+        }
+      ],
+      "need": [
+        "Textbook pages 147–149",
+        "two photos of your child (from about two years ago and recent)",
+        "a pencil to mark height on a door frame",
+        "notebook and a coloured pen",
+        "a phone or clock for reminders"
+      ],
+      "prep": [
+        {"task": "Find a photo of your child from Grade 3 and a recent one", "when": "night before"}
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Day and night: is the Sun moving?",
+      "goal": "Act out and model with a globe and torch that day and night happen because the Earth spins, and meet Aryabhata, who said so 1,500 years ago.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Is the Sun moving? (page 149)",
+          "mins": 5,
+          "do": "Read the part on page 149, 'Changes Around Us in a Day (Day and Night)'. Ask the book's questions: 'What causes day and night?' and 'The Sun seems to rise in the east, move across the sky and set in the west. So, is the Sun moving?' Let your child give their own answer and reasons before you say anything. Read the fun fact: Dong in Arunachal Pradesh is the first place in India where the Sun's rays touch each morning. Find Dong on the map: far in the east. Ask: 'Why would the east see the Sun first?' (Keep their answer; we will test it.)"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 1: the Sun and Earth game (page 150)",
+          "mins": 8,
+          "do": "Do Activity 1 on page 150 at home. You stand still in the middle of the room as the 'Sun' (hold a lit torch or lamp pointing at your child). Your child stands a few steps away as the 'Earth' and slowly turns round on the spot, looking straight ahead. While they can see the 'Sun', they say 'day… day… day'; when the Sun is behind them they say 'night… night… night'. Ask: 'Did the Sun move? Then why did it seem to come and go?' (Because I was turning.) Ask: 'When you turned, did the Sun seem to move the other way?' (Yes, just like trees seem to move backwards from a train window.)"
+        },
+        {
+          "kind": "do",
+          "title": "Globe and torch demonstration (page 150)",
+          "mins": 12,
+          "do": "Do the demonstration on page 150. Use a globe (or a ball or orange with India marked with a sticker and a toothpick through it for the axis). Darken the room, shine a torch steadily at the globe from a metre away. Step 1: 'Which side has day? Which has night?' Step 2: Rotate the globe slowly, anticlockwise when you look down from the North Pole (from west to east). Step 3: Watch the India sticker. Ask: 'When India first comes into the light, is that sunrise or sunset?' (Sunrise.) 'Which part of India gets light first?' (The east, Arunachal Pradesh, because the Earth turns from west to east, so the east side turns into the light first; this is why the Sun seems to rise in the east.) Count: one full turn = one day and night, about 24 hours."
+        },
+        {
+          "kind": "think",
+          "title": "Aryabhata and the spinning Earth",
+          "mins": 10,
+          "do": "Share Voice v1 in your own words: around 1,500 years ago, the mathematician-astronomer Aryabhata, working near today's Patna, wrote that it is the Earth that spins, and that the stars only seem to move, like the trees on the shore seem to move backwards to someone sitting in a moving boat. Many later scholars did not accept it. Try his boat idea: next time you are on a bus or train, watch the poles 'move'. Ask the voice question and let your child answer fully.",
+          "ref": "v1"
+        },
+        {
+          "kind": "exp",
+          "title": "Body-clock check and pattern",
+          "mins": 5,
+          "do": "Look at today's ratings in Experiment e2 so far. Ask: 'Is any pattern showing yet? When did you feel most awake?' Remind your child to keep rating every 2 hours. Ask: 'Do you think your body would still know when to sleep if we had no clocks and no windows?' Write the answer; we will come back to it on Day 3.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Explain it to Dadi",
+          "mins": 5,
+          "do": "Your child explains day and night to a grandparent or sibling in their own words using the globe, in 2 minutes. Listen for: 'The Earth spins; the half facing the Sun has day; the other half has night; the Sun doesn't go round us.' If they say 'the Sun goes behind the Earth', ask them to show it with the torch and globe again."
+        }
+      ],
+      "need": [
+        "Textbook pages 149–150",
+        "a globe, or a ball or orange with a sticker for India and a toothpick or knitting needle as the axis",
+        "a torch or table lamp",
+        "a room you can darken",
+        "a map of India"
+      ],
+      "prep": [
+        {"task": "Borrow a globe or prepare a ball with India marked; check the torch batteries", "when": "night before"}
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The globe, the oceans and the shadow clock",
+      "goal": "Read the globe for land and water, find which countries have night when India has day, track a shadow through the day, and find out whether plants have their own clocks.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Reading the globe (page 151)",
+          "mins": 6,
+          "do": "Read the globe box on page 151: a globe is a ball-shaped model of the Earth; blue is seas and oceans, which cover about three-fourths of the Earth; seas are smaller and partly enclosed by land, oceans are vast and open. On the globe, your child finds the Indian Ocean, the Arabian Sea and the Bay of Bengal. Ask: 'Which is an ocean and which are seas?' Then cover the globe with four equal hands: 'If three hands' worth is water, how much is land?' (One-fourth.)"
+        },
+        {
+          "kind": "do",
+          "title": "Who is asleep when we are awake? (page 151 Find out)",
+          "mins": 8,
+          "do": "Do the 'Find out' task on page 151. Shine the torch on India on the globe. Your child turns the globe slowly and lists countries on the dark side when India is in full light: the USA, Canada, Mexico, Brazil and most of South and North America. Ask: 'If it is 12 noon here, what might children in the USA be doing?' (Sleeping, since it is around midnight or late night there.) If you have a relative abroad, call them or check the time on a phone's world clock to confirm. Ask: 'Which countries get morning before India?' (Japan, Australia, China, which are to the east.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the shadow clock",
+          "mins": 10,
+          "do": "Set up Experiment e1. On a sunny balcony, terrace or courtyard, stand a pencil or stick upright in a lump of clay on a sheet of chart paper, and weigh down the corners. Mark the paper 'N' (ask which way the Sun rose this morning; that is east). Ask your child to guess first: 'Will the shadow stay in one place, get longer or shorter, move left or right?' Mark the tip of the shadow now with a dot and write the time. You will add a dot every hour today (or as many as you can), so set reminders. The paper must not move.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Do plants keep time in the dark?",
+          "mins": 10,
+          "do": "Share Voice v2 in your own words: in 1729 a French scientist, Jean-Jacques d'Ortous de Mairan, put a plant whose leaves open in the day and fold at night (a Mimosa, a relative of our chhui-mui) into a dark cupboard, and found the leaves still opened and closed at about the right times without seeing any sunlight. In 2017 three American scientists won the Nobel Prize for finding the genes that make up this inner clock in living things, including us. Ask the voice question. Then look at your child's Experiment e2 answer from Day 2: 'Would your body know when to sleep without clocks?'",
+          "ref": "v2"
+        },
+        {
+          "kind": "exp",
+          "title": "Body-clock check",
+          "mins": 4,
+          "do": "Add today's ratings to Experiment e2. Ask: 'Is it the same pattern as yesterday?' Many children notice a dip after lunch and a burst of energy in the late afternoon. Ask: 'When do you usually get sleepy at night, and is it about the same time every day?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Shadow dots through the day",
+          "mins": 7,
+          "do": "Return to the shadow clock from Experiment e1 as each hour comes (this step's minutes are spread over the day; do the first two or three checks now if the lesson is in the morning). Mark the shadow tip and time each hour. In the evening, join the dots and look together: the shadow was long in the morning pointing west, shortest around midday, and long again in the evening pointing east. Ask: 'Did the stick move? Then what does the shadow tell us?' Read the 'why' from e1.",
+          "ref": "e1"
+        }
+      ],
+      "need": [
+        "Textbook page 151",
+        "the globe and torch",
+        "a pencil or stick, a lump of clay, chart paper, 4 stones or tape, a marker",
+        "a sunny spot that gets sun for several hours",
+        "a phone world clock (optional)"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Our seasons' journal and family seasons chart",
+      "goal": "Bring together a year of observations, from memory, photos and family, into a seasons chart with five themes and four time periods, like Saba and Aparna's classroom chart.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Saba and Aparna's seasons' journal (pages 151–152)",
+          "mins": 5,
+          "do": "Read the 'Seasons' Journal' part on pages 151–152: Saba and Aparna sit in the school garden with their seasons' journal, and the book invites you to record your own observations. Read the fun fact on page 151: in Odisha, when the koel sings, farmers know the rains are coming and start planting. Ask: 'Have you heard the koel? When?' (Its loud 'koo-oo' is mostly heard in the hot months before the monsoon, which is its breeding season.) Ask: 'Why would a bird's call help a farmer?' (It comes back at the same time each year, so it works like a natural calendar.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book activity: build the seasons chart (pages 152–154)",
+          "mins": 25,
+          "do": "Do Activity a2, the 'Seasons' Chart' on pages 152–154, as a family chart. On chart paper draw the template from page 153: columns April–June, July–September, October–December, January–March; rows Plant life, Birds and animals, Air, heat and light, Water and water bodies, Human activities. Homeschoolers don't have a class, so the 'class' is the family: your child interviews at least two family members, asking one question per box, for example 'What do trees near us look like in April–June?' (Gulmohar and amaltas flowering, mangoes ripening, dry leaves.) 'What do we see in July–September?' (Puddles, frogs croaking, green everywhere, mosquitoes, earthworms.) 'October–December?' (Clear skies, cooler mornings, Diwali, paddy harvest.) 'January–March?' (Cold mornings, fog in north India, migratory ducks at lakes, mustard fields yellow, Holi.) Use old phone photos to jog memories. Write at least one observation in each of the 20 boxes.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Read the chart for patterns (page 154 Step 3)",
+          "mins": 10,
+          "do": "Do Step 3 on page 154 at home. Your child picks one theme row (say 'Water and water bodies') and reads it across the year aloud: 'In April–June the lake was low, July–September it was full and the roads flooded, October–December the water was clear, January–March it started drying.' Ask: 'Does this happen every year?' Do the same for one more row. Then your child draws a small poster of that one theme across four time periods, as the book suggests for groups."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Meet our season tree",
+          "mins": 5,
+          "do": "Start Activity a3. Walk to one tree near your home (neem, mango, peepal, gulmohar, jamun or any). Your child writes the date and records: leaves (new, green, yellow, falling), flowers (none, buds, full, falling), fruit, and any visitors (birds, ants, squirrels, bees). Take a photo from the same spot. Tell them they will visit it once a week for at least four weeks to see the rhythm for themselves.",
+          "ref": "a3"
+        }
+      ],
+      "need": [
+        "Textbook pages 151–154",
+        "a large chart paper, ruler, sketch pens",
+        "phone photos from the past year",
+        "family members to interview",
+        "a notebook for the tree record"
+      ],
+      "prep": [
+        {"task": "Ask two family members to give 15 minutes to be interviewed about each season; look through phone photos from the past year", "when": "night before"}
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Discovering seasons and the six ritus",
+      "goal": "See that the year's changes form a repeating pattern called seasons, learn India's six ritus, write a season story, and find out with a torch why summer sunlight is hotter.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Discovering seasons (page 155)",
+          "mins": 5,
+          "do": "Read 'Discovering Seasons' on page 155: the weather warms, gets hot, then it rains, then it cools before warming again; the same happened last year and will happen next year; this repeating pattern is called seasons. Ask: 'What are the seasons called in your region?' Write their answer. Read the fun fact on page 155: India has both the wettest inhabited place, Mawsynram in Meghalaya, and one of the driest, the Thar Desert."
+        },
+        {
+          "kind": "talk",
+          "title": "India's six seasons (page 156)",
+          "mins": 8,
+          "do": "Copy the table on page 156: Seasons, Months of the year (for your region). Fill it with your child, using these approximate times from the traditional calendar, and adjust for your region: Vasanta (spring), about mid-March to mid-May; Grishma (summer), mid-May to mid-July; Varsha (monsoon), mid-July to mid-September; Sharad (autumn), mid-September to mid-November; Hemant (pre-winter), mid-November to mid-January; Shishir (winter), mid-January to mid-March. Tell them each ritu is two months of the traditional lunar calendar (for example Vasanta is Chaitra and Vaishakha). Ask: 'Does the monsoon in our city really start in mid-July? When does it start here?' (In Kerala it usually arrives around 1 June; in Delhi around the end of June.) Ask the page 157 question: 'Would you like one season all year? Why or why not?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Why is summer hot? The slanting torch test",
+          "mins": 14,
+          "do": "Do Experiment e3. Tape a sheet of squared paper (or draw a grid of 1 cm squares) on the table. Ask your child to guess first: 'If I shine the torch straight down, or at a slant from the same distance, which patch will be brighter? Which will cover more squares?' Hold a torch 20 cm above the paper pointing straight down; your child traces the bright patch and counts the squares. Then tilt the torch at a steep slant, keeping the same distance; trace and count again. The slanting patch is bigger and dimmer. Explain the 'why' from e3: the same light is spread over more ground, so each bit gets less heat. Then tilt the globe's axis and walk it round the torch to show that in June the north half (with India) leans towards the Sun, so the noon Sun is high and days are long; in December it leans away.",
+          "ref": "e3"
+        },
+        {
+          "kind": "act",
+          "title": "A story of one time period (page 155 Step 4)",
+          "mins": 12,
+          "do": "Do Step 4 on page 155 at home. Your child picks one time period column from the Day 4 seasons chart, for example January–March, and writes a short story (8–10 sentences) linking all five themes to people's lives. Example start: 'On a foggy January morning, Ravi wrapped his scarf tight as he walked past the mustard fields. Nani was making til laddoos for Sankranti…' The story must mention at least one plant, one animal, the weather, water, and something people do. Your child reads it aloud to the family.",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Body-clock results",
+          "mins": 6,
+          "do": "Finish Experiment e2. Your child draws a simple line graph of the 3 days: time along the bottom, energy 1–5 up the side. Ask: 'When were you sharpest? Was it the same each day? Did it match your guess?' Ask: 'What could change your pattern?' (A late night, a big lunch, a holiday, illness, screens at bedtime.) Use what you learned: plan the hardest learning for their sharpest time.",
+          "ref": "e2"
+        }
+      ],
+      "need": [
+        "Textbook pages 155–157",
+        "squared paper or a 1 cm grid, a torch, a ruler, a pencil",
+        "the globe with a tilted axis",
+        "the seasons chart from Day 4",
+        "the body-clock chart"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Winter in Kerala and Kashmir, monsoon in Assam and Rajasthan",
+      "goal": "Find out why the same season feels different in different parts of India, read nature's weather signs, and look at what scientists are finding about a changing monsoon.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Why so different? (page 157 Discuss)",
+          "mins": 12,
+          "do": "Ask the Discuss question on page 157: 'Winter in Kerala is different from winter in Kashmir valley. Monsoon in Assam is different from Rajasthan. Why?' Use the map and globe. Kerala vs Kashmir: Kerala is far south, close to the equator, where the noon Sun stays high all year, and it is beside the sea, which keeps it mild; Kashmir is far north and high up in the mountains, where the winter Sun is low and the air is thin and cold, so it snows. Assam vs Rajasthan: moist monsoon winds from the Bay of Bengal reach Assam and the hills of Meghalaya, rise, cool and pour down rain; by the time winds reach western Rajasthan they have dropped most of their moisture, and the Aravalli hills run in the same direction as the winds, so they do not force them up. Ask: 'Where would you go to feel winter in December? Where would you go to escape the monsoon?'"
+        },
+        {
+          "kind": "read",
+          "title": "Nature's weather signs (pages 151, 156–157)",
+          "mins": 7,
+          "do": "Read the fun facts on page 156 (Nag Panchami: snakes come out of flooded burrows in the monsoon, and people show respect to reptiles) and page 157 (ants carrying eggs to higher ground is a sign rain is coming). Add the koel from page 151. Ask: 'Why would ants move their eggs before rain?' (Their nests are underground and could flood; they may sense the damp air or falling air pressure.) Ask: 'Are these signs always right?' Help your child see that a sign is a clue, not a promise: ants might move for other reasons too. Ask: 'How could we test whether the ant sign works?' (Watch ants for many days and write down each time they move eggs and whether it rained in the next day.)"
+        },
+        {
+          "kind": "think",
+          "title": "Is the monsoon changing?",
+          "mins": 10,
+          "do": "Share Voice v3 in your own words: Roxy Mathew Koll, a scientist at the Indian Institute of Tropical Meteorology in Pune, and his colleagues studied rainfall records from 1950 to 2015 and found that days of very heavy, widespread rain over central India had become about three times more common, even while some regions had fewer rainy days overall. Ask Let us reflect question 2 from page 159 now: phone a grandparent and ask, 'Were the seasons different when you were young? Was the monsoon or the winter different?' Write their answer. Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Give Worksheet ws1 (core). Your child reads each question aloud and answers. Point to the page if they are stuck: page 150 for day and night, page 151 for the globe, page 156 for the six seasons. Check it together and redo any wrong answers aloud.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Season tree, week 2",
+          "mins": 4,
+          "do": "If a week has passed, visit the tree from Activity a3 and add a new row. Otherwise, your child looks out of the window for 3 minutes and writes one sign of the current season (sky, temperature, clothes people wear, a bird, a flower).",
+          "ref": "a3"
+        }
+      ],
+      "need": [
+        "Textbook pages 151, 156–157, 159",
+        "a map of India and the globe",
+        "a phone to call a grandparent",
+        "Worksheet ws1"
+      ],
+      "prep": [
+        {"task": "Tell a grandparent or elder you will call to ask how seasons were when they were young", "when": "2 days before"}
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Celebrating seasons: songs, crops, festivals and travelling birds",
+      "goal": "Connect seasons to songs, crops and festivals, play Nature's Clock, and meet the Amur falcons that fly through Nagaland every autumn.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Season songs and crops (page 157)",
+          "mins": 9,
+          "do": "Read 'Celebrating Seasons' on page 157. Ask: 'Do you know any songs about seasons?' Sing or play one together, for example a monsoon song like 'Rimjhim gire saawan' or a children's rain rhyme in your home language, or a Bihu song from Assam. Then do the Write task: copy two columns, Winter crops and Summer crops, and fill them with help from elders. Typical: winter (rabi) crops sown after the monsoon and harvested in spring: wheat, mustard, gram (chana), peas, barley; monsoon (kharif) crops sown with the rains and harvested in autumn: rice, maize, jowar, bajra, cotton, soybean, groundnut; summer (zaid) crops grown in the hot months with irrigation: watermelon, muskmelon, cucumber, moong. Ask: 'Why is rice planted when the rains come?' (Paddy fields need standing water.)"
+        },
+        {
+          "kind": "do",
+          "title": "Festival and season match (page 158)",
+          "mins": 7,
+          "do": "Do the matching task on page 158. Answers: 1 Pongal, Makar Sankranti → (d) Winter (mid-January, marking the Sun's move northward and the winter harvest); 2 Holi → (a) Spring, when flowers bloom; 3 Diwali → (b) Autumn, after crops are harvested; 4 Baisakhi, Gudi Padwa, Vishu, Rongali Bihu → (c) New year and harvest festival (April, when the rabi wheat is harvested in the north). Ask: 'What do people eat or do at each that connects to the season?' (Til and jaggery at Sankranti to stay warm; new rice in Pongal; colours of spring flowers at Holi.)"
+        },
+        {
+          "kind": "think",
+          "title": "The Amur falcons of Nagaland",
+          "mins": 9,
+          "do": "Share Voice v4 in your own words: every October–November, huge flocks of small Amur falcons stop in Nagaland on their journey from Siberia and China to southern Africa. In 2012 it was found that tens of thousands were being trapped there for food each year. Villagers of Pangti and nearby areas, with conservationists and the government, agreed to stop, and since then the falcons have been protected; scientists fitted some with satellite tags to follow their journey across the Arabian Sea. Ask the voice question. Show the route on a globe: northeast Asia → Nagaland → over the Arabian Sea → Africa.",
+          "ref": "v4"
+        },
+        {
+          "kind": "game",
+          "title": "Nature's Clock",
+          "mins": 12,
+          "do": "Play the Nature's Clock game. Draw two big circles on paper: a day wheel (sunrise, noon, sunset, midnight) and a year wheel (the 12 months). Make event cards: the koel calls (pre-monsoon, Grishma); mango trees flower (Vasanta, around February–March); monsoon arrives in Kerala (early June); Amur falcons pass through Nagaland (October–November); owls hunt (night); four o'clock flowers open (late afternoon); fog in Delhi (December–January); paddy is transplanted (July); the rooster crows (dawn); bats fly out (dusk); Diwali (October–November); wheat harvest (April). Take turns drawing a card, placing it on the right wheel and spot, and explaining why it happens then. One point for the right place, one more for a good reason."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Give Worksheet ws2 (stretch). Your child works alone for 6 minutes, then you check it together. Ask them to explain the Kerala-Kashmir question aloud.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Textbook pages 157–158",
+        "a phone to play a season song (optional)",
+        "chart paper for two wheels, 12 small event cards",
+        "the globe",
+        "Worksheet ws2"
+      ],
+      "prep": [
+        {"task": "Write the 12 Nature's Clock event cards", "when": "night before"}
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, find local season names, make the season table and drawing, check understanding and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Local names and the season table (pages 159–160)",
+          "mins": 12,
+          "do": "Do Let us reflect questions 3 and 4 on pages 159–160. Question 3: with an elder, write the local names of the six seasons in your language. For example in Hindi: Basant, Garmi, Barsaat, Sharad, Hemant, Sardi (or Jaada); in Tamil: Ilavenil, Mudhuvenil, Kaar, Koothir, Munpani, Pinpani; in Bengali: Basanta, Grishmo, Borsha, Shorot, Hemonto, Sheet. Question 4: copy the table with columns Season, Food you eat, Clothes you wear, Festivals you celebrate, Nature around you, and fill all six rows from your family's real life (for example Grishma: aam panna, mangoes, curd rice; cotton clothes; Eid or Buddha Purnima if it falls then; dry heat, gulmohar flowers). Then question 1: your child narrates their own experience of a season changing, like the first rain."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, use the globe and torch or open the page for a minute (page 150 for day and night, page 155 for seasons, page 156 for the six ritus, page 157 for Kerala and Kashmir), then ask again in different words. Six or more right is good; fewer than five means repeat the Day 2 globe demonstration and Day 5 torch test next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge), Sections A and B, together. These are puzzles and 'what if' questions; talk each one through before your child writes. Keep Section C for a free afternoon.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back and start the Year Wheel",
+          "mins": 15,
+          "do": "Your child teaches the chapter to you or a grandparent in 5 minutes using the globe, torch, seasons chart and shadow drawing: why we have day and night, how the shadow moved, India's six seasons, why summer sunlight is hotter, why Kerala and Kashmir have different winters, and one festival and crop for each season. Ask two 'student' questions such as 'If the Sun is not moving, why does it rise in the east?' and 'Why is rice sown in the monsoon?' Then do question 6 on page 160: a comparative drawing of summer, monsoon and winter in three boxes. End by starting Activity a4, the Year Wheel poster, which your child will add to as they keep visiting the season tree from Activity a3 every week.",
+          "ref": "a4"
+        }
+      ],
+      "need": [
+        "Textbook pages 159–160",
+        "an elder who knows the local season names",
+        "the globe, torch, seasons chart and shadow drawing",
+        "Worksheet ws3",
+        "a large circle of chart paper for the Year Wheel, colours"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Day, night and seasons",
+      "day": 6,
+      "sections": [
+        ["A. Day and night", [
+          {"t": "mcq", "p": "Day and night happen because:", "opts": ["The Sun goes round the Earth", "The Earth rotates (spins)", "Clouds cover the Sun", "The Moon blocks the Sun"], "a": 1},
+          {"t": "fill", "p": "The Sun seems to rise in the ____ and set in the west.", "a": ["east"]},
+          {"t": "fill", "p": "The first village in India to see the sunrise is Dong in ____.", "a": ["Arunachal Pradesh"]},
+          {"t": "mcq", "p": "Seas and oceans cover about how much of the Earth?", "opts": ["One-fourth", "Half", "Three-fourths", "All of it"], "a": 2}
+        ]],
+        ["B. Changes", [
+          {"t": "sort", "p": "Sort these changes by how long they take.", "items": ["Milk boiling over", "A sapling becoming a big tree", "Day turning to night", "A child growing up", "Ice melting in a glass", "The seasons repeating", "A puppy becoming a dog", "Lightning flashing"], "cats": ["Seconds or minutes", "Hours to a year", "Many years"]},
+          {"t": "write", "p": "Name one change that repeats every year and one that happens only once.", "lines": 2}
+        ]],
+        ["C. Seasons of India", [
+          {"t": "match", "p": "Match the ritu to its English name.", "pairs": [["Vasanta", "Spring"], ["Grishma", "Summer"], ["Varsha", "Monsoon"], ["Sharad", "Autumn"], ["Hemant", "Pre-winter"], ["Shishir", "Winter"]]},
+          {"t": "match", "p": "Match the festival to its season.", "pairs": [["Holi", "Spring, when flowers bloom"], ["Diwali", "Autumn, after the harvest"], ["Pongal, Makar Sankranti", "Winter"], ["Baisakhi, Vishu, Rongali Bihu", "New year and harvest"]]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Explaining rhythms",
+      "day": 7,
+      "sections": [
+        ["A. Shadows and sunlight", [
+          {"t": "mcq", "p": "In our shadow clock, when was the stick's shadow shortest?", "opts": ["Early morning", "Around midday", "Evening", "It never changed"], "a": 1},
+          {"t": "write", "p": "In the morning the shadow pointed west. Why? (Hint: where was the Sun?)", "lines": 2},
+          {"t": "write", "p": "In the torch test, the slanting light made a bigger, dimmer patch. Use this to explain why noon in summer is hotter than noon in winter.", "lines": 3}
+        ]],
+        ["B. Different places, different seasons", [
+          {"t": "write", "p": "Give two reasons why winter in Kashmir is much colder than winter in Kerala.", "lines": 3},
+          {"t": "mcq", "p": "Why does Assam get much more monsoon rain than western Rajasthan?", "opts": ["Assam is closer to the Moon", "Moist winds from the Bay of Bengal hit Assam's hills and drop their rain", "Rajasthan has more rivers", "It never rains in Rajasthan"], "a": 1},
+          {"t": "fill", "p": "When it is noon in India, it is night in the ____ (name a country).", "a": ["USA", "United States", "America", "Canada", "Mexico", "Brazil"]}
+        ]],
+        ["C. Crops and creatures", [
+          {"t": "sort", "p": "Sort these crops.", "items": ["Wheat", "Rice", "Mustard", "Maize", "Gram (chana)", "Cotton"], "cats": ["Winter (rabi) crop", "Monsoon (kharif) crop"]},
+          {"t": "write", "p": "The koel's call tells Odisha farmers the rains are coming. Name another sign in nature that tells people about a season or the weather.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Clocks, puzzles and what ifs",
+      "day": 8,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if the Earth stopped spinning but still went round the Sun? How long would one 'day' and 'night' be in India?", "lines": 3},
+          {"t": "write", "p": "What if the Earth's axis was not tilted at all? Would we still have hot and cold seasons? Explain.", "lines": 3},
+          {"t": "mcq", "p": "In Australia, south of the equator, December is:", "opts": ["Winter, like India", "Summer, the opposite of India", "Always the monsoon", "The same temperature all year"], "a": 1}
+        ]],
+        ["B. Weighing evidence", [
+          {"t": "write", "p": "De Mairan's plant opened and closed its leaves even in a dark cupboard. Someone says, 'Maybe it felt the warmth of the day through the cupboard.' How could you change the experiment to test this?", "lines": 3},
+          {"t": "write", "p": "Your grandmother says the summers are hotter now than when she was young. What records would you need to check if she is right?", "lines": 3}
+        ]],
+        ["C. Make it", [
+          {"t": "draw", "p": "Draw a 'year wheel' for your city with the 12 months around the edge. Add at least 8 nature events in the right places (a flower, a bird, a fruit, the first rain, a festival, a crop)."},
+          {"t": "table", "p": "Plan a test of the 'ants carry eggs before rain' sign.", "cols": ["Date", "Did ants carry eggs?", "Did it rain within a day?"], "rows": 5}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The shadow clock",
+      "day": 3,
+      "question": "How does a stick's shadow change through the day, and what does it tell us about the Sun and the Earth?",
+      "need": ["a pencil or straight stick", "a lump of clay or dough", "a sheet of chart paper", "4 stones or tape", "a marker", "a sunny spot that gets sun for several hours", "a clock"],
+      "steps": [
+        "Place the chart paper flat in a sunny spot and weigh down the corners so it cannot move.",
+        "Stand the stick upright in the clay in the middle of the paper.",
+        "Mark east (where the Sun rose) and west on the paper.",
+        "Mark the tip of the shadow with a dot and write the time beside it.",
+        "Repeat every hour for as many hours as you can.",
+        "At the end of the day, join the dots and measure each shadow's length with a ruler."
+      ],
+      "predict": "Ask your child to guess first: will the shadow stay still, move, grow or shrink? Which way will it point in the morning and in the evening? When will it be shortest?",
+      "observe": "Record the time and length of each shadow. The morning shadow is long and points west; it shortens and swings round until it is shortest around midday (in most of India it points roughly north then); in the afternoon it lengthens again and points east.",
+      "why": "A shadow always points away from the Sun. As the Earth spins from west to east, the Sun appears to travel across the sky from east to west, so the shadow swings the opposite way, from west to east. When the Sun is low in the morning and evening, its light comes in at a slant and makes long shadows; when it is highest, around midday, the shadow is shortest. People used this for thousands of years to tell the time with sundials; the giant sundial at Jantar Mantar in Jaipur, built in the 1700s for Maharaja Sawai Jai Singh II, tells local time to within a few seconds.",
+      "safety": "Never look straight at the Sun.",
+      "time": "10 min to set up + 1 min every hour"
+    },
+    {
+      "id": "e2",
+      "title": "My body clock",
+      "day": 1,
+      "question": "Does my energy rise and fall in a pattern through the day, and is the pattern the same each day?",
+      "need": ["a chart for 3 days with times every 2 hours", "a pencil", "a phone or clock reminder", "optional: a four o'clock plant (gulbas, Mirabilis jalapa)"],
+      "steps": [
+        "Make the chart: times 7 am, 9 am, 11 am, 1 pm, 3 pm, 5 pm, 7 pm, 9 pm, with columns for Energy (1–5) and Hungry/Sleepy.",
+        "Every 2 hours, your child rates their energy honestly and notes if they feel hungry or sleepy.",
+        "Also write what time they woke up and went to sleep each day.",
+        "Keep it up for 3 days.",
+        "Draw a line graph with time along the bottom and energy up the side, one line per day.",
+        "If you have a four o'clock plant, note the time its flowers open each day."
+      ],
+      "predict": "Ask your child to guess first: when in the day will you feel sharpest? When sleepiest? Will the pattern be the same every day?",
+      "observe": "Look for the same ups and downs on each day. Many children feel alert mid-morning, dip after lunch, rise again in the late afternoon and get sleepy at about the same time each night. Four o'clock flowers open at roughly the same time each late afternoon.",
+      "why": "Almost every living thing has an inner clock that runs on a cycle of about 24 hours, called a circadian rhythm (from Latin words meaning 'about a day'). In us, a tiny part of the brain acts as the master clock and is reset each day mainly by morning light reaching our eyes. It controls when we feel sleepy, when our body temperature rises and falls, and even when we feel hungry. Plants have clocks too, which is why the four o'clock flower opens at about the same hour each day. Bright screens late at night can confuse the clock and make it harder to sleep, which is why a regular bedtime helps.",
+      "safety": "",
+      "time": "10 min to set up + 1 min every 2 hours for 3 days"
+    },
+    {
+      "id": "e3",
+      "title": "The slanting torch test: why summer is hotter",
+      "day": 5,
+      "question": "Does sunlight that falls straight down heat the ground more than sunlight that comes in at a slant?",
+      "need": ["squared paper or a 1 cm grid drawn on paper", "a torch", "a ruler", "a pencil", "tape", "the globe with a tilted axis"],
+      "steps": [
+        "Tape the squared paper to the table in a darkened room.",
+        "Hold the torch 20 cm above the paper, pointing straight down. Your child traces round the bright patch.",
+        "Count the squares inside the patch.",
+        "Keep the torch 20 cm from the paper but tilt it to a steep slant. Trace and count again.",
+        "Compare how bright each patch looks.",
+        "Then carry the tilted globe round the torch, keeping the axis pointing the same way, and see when India gets the most direct light."
+      ],
+      "predict": "Ask your child to guess first: which patch will be brighter? Which will cover more squares? Which would warm the ground more?",
+      "observe": "The straight-down patch is a small, bright circle; the slanted patch is a long, larger oval and looks dimmer. On the globe, India gets more direct light when the North Pole end leans towards the torch.",
+      "why": "The torch gives out the same amount of light both times. When it shines straight down, all that light lands on a small patch, so each square gets a lot. When it shines at a slant, the same light is spread over many more squares, so each square gets less light and less heat. The Earth's axis is tilted (by about 23.5 degrees), and it keeps pointing the same way as the Earth travels round the Sun over a year. Around June, the northern half of the Earth, where India is, leans towards the Sun: the noon Sun is high, its light falls more directly, and days are longer, so it is hotter. Around December it leans away: the Sun is lower, light slants and days are shorter, so it is cooler. It is not because the Earth is closer to the Sun in summer; in fact the Earth is closest to the Sun in early January.",
+      "safety": "",
+      "time": "14 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "My Grades 3, 4 and 5 changes table (pages 147–148)",
+      "day": 1,
+      "mins": 12,
+      "need": ["notebook", "pencil", "old photos (optional)"],
+      "steps": [
+        "Copy the table from page 148 with columns Grade 3, Grade 4, Grade 5.",
+        "Rows: Yourself and your friends; School (or home learning space); Surrounding area.",
+        "Fill each box with one or two changes you remember.",
+        "Ask a parent or sibling to add one change you forgot.",
+        "Circle the change that surprised you most."
+      ],
+      "outcome": "A table of real changes in your child's own life over three years, showing that changes happen all the time, some fast and some slow."
+    },
+    {
+      "id": "a2",
+      "title": "Family seasons chart and season story (pages 152–155)",
+      "day": 4,
+      "mins": 25,
+      "need": ["large chart paper", "ruler", "sketch pens", "family members to interview", "phone photos from the past year"],
+      "steps": [
+        "Draw the page 153 template: 4 time periods across, 5 themes down.",
+        "Interview family members for each box, using phone photos to jog memory.",
+        "Write at least one observation in each of the 20 boxes.",
+        "Read one theme row across the year and describe the pattern.",
+        "Make a small poster of one theme through the year.",
+        "Later (Day 5), write a short story about one time period that links all five themes to people's lives."
+      ],
+      "outcome": "A wall chart of your family's year in nature, a theme poster and a season story, showing that nature changes in a pattern that repeats every year."
+    },
+    {
+      "id": "a3",
+      "title": "The season tree",
+      "day": 4,
+      "mins": 5,
+      "need": ["a tree near home", "notebook", "a phone camera"],
+      "steps": [
+        "Choose one tree you can visit every week.",
+        "Each visit, write the date, the weather, and the state of leaves, flowers and fruit.",
+        "Note visitors: birds, insects, squirrels, bats.",
+        "Take a photo from the same spot each time.",
+        "Keep it up for at least four weeks, and longer if you can."
+      ],
+      "outcome": "A dated record and photo series of one tree, showing your child the rhythm of the seasons in a single living thing."
+    },
+    {
+      "id": "a4",
+      "title": "Year Wheel poster",
+      "day": 8,
+      "mins": 15,
+      "need": ["a large circle of chart paper", "a pencil and colours", "the seasons chart, season tree record and Nature's Clock cards"],
+      "steps": [
+        "Divide the circle into 12 slices for the months, and colour bands for the six ritus.",
+        "Add festivals, crops, flowers, fruits, birds and weather events in the right months.",
+        "Add the season tree observations as you collect them.",
+        "Mark your child's birthday and family events too.",
+        "Hang it up and add to it each month for a year."
+      ],
+      "outcome": "A year-wheel poster of local nature and family life that grows over the year, showing how all of life moves in cycles."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Aryabhata (born 476 CE), India",
+      "idea": "Aryabhata was a mathematician and astronomer who worked at Kusumapura, near today's Patna in Bihar. In his book the Aryabhatiya, written in 499 CE when he was 23, he said that the stars do not move round the Earth each day; instead the Earth spins on its own axis. He explained it with a picture: just as a man in a boat moving forward sees the trees on the shore moving backwards, people on the spinning Earth see the stars moving westward. He also gave a correct explanation of eclipses as shadows of the Earth and Moon.",
+      "then": "Many later Indian astronomers, including the famous Brahmagupta, did not accept a spinning Earth, and some later copies of his work were even changed to say the stars moved instead. Most astronomers around the world in that age believed the Earth stood still.",
+      "now": "We now know for certain that the Earth rotates once about every 24 hours; this has been shown in many ways, such as with Foucault's swinging pendulum in 1851 and photos from space. Aryabhata is honoured as one of the great scientists of ancient India, and India's first satellite, launched in 1975, was named after him.",
+      "status": "accepted",
+      "ask": "When you sit in a train at a station and the train next to you moves, sometimes you feel that YOUR train is moving. How could you tell which one is really moving? How does this help explain why people found Aryabhata's idea hard to believe?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Jean-Jacques d'Ortous de Mairan (1678–1771), France, and the Nobel Prize-winning clock scientists Jeffrey Hall, Michael Rosbash and Michael Young (2017)",
+      "idea": "De Mairan was an astronomer who wondered why some plants open their leaves in the day and fold them at night. In 1729 he put such a plant (a Mimosa, related to our touch-me-not) in a dark place and found that its leaves still opened and closed on a daily rhythm without any sunlight. This suggested that living things have their own inner clock. Much later, Hall, Rosbash and Young, working with fruit flies, found the genes and proteins that make this clock tick, and won the Nobel Prize in 2017.",
+      "then": "De Mairan himself did not claim to know the cause, and for a long time scientists argued about whether plants were secretly sensing something from outside, such as changes in temperature or other daily signals, rather than keeping their own time. Later scientists repeated his test while keeping temperature steady too.",
+      "now": "It is now firmly accepted that nearly all living things, from bacteria to plants to people, have inner circadian clocks of about 24 hours, reset each day mainly by light. Doctors study them to help with sleep problems, jet lag and the timing of medicines.",
+      "status": "accepted",
+      "ask": "De Mairan's plant kept time in the dark. But maybe it felt the warmth of the day through the cupboard. How would you design a better experiment to rule that out?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Roxy Mathew Koll and colleagues, Indian Institute of Tropical Meteorology, Pune (key study 2017)",
+      "idea": "Roxy and his team studied daily rainfall records over central India from 1950 to 2015. In a 2017 paper in the journal Nature Communications they reported that widespread extreme rain events, days when very heavy rain falls over large areas at once, had become about three times more common. They linked this to the Arabian Sea becoming warmer and sending more moisture in sudden bursts.",
+      "then": "Their findings fitted with earlier studies that had also seen a rise in heavy rain over India. Other scientists welcomed the work, and some asked how much of the change was natural ups and downs and how much was caused by global warming.",
+      "now": "Most climate scientists agree that very heavy rain events over India have increased and that warming oceans are an important reason; this is why flood warnings are getting more attention. Whether the total amount of monsoon rain, and its timing, will rise or fall in the coming decades is still debated, because different studies and computer models give different answers.",
+      "status": "debated",
+      "ask": "Your grandparent might say 'the rains are not like before.' Scientists use 65 years of records. Why are records from many years more reliable than one person's memory? When might a grandparent's memory still be useful to scientists?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "The villagers of Pangti and Nagaland's Amur falcon protectors (from 2012)",
+      "idea": "Amur falcons are small birds of prey, a little bigger than a pigeon, that breed in eastern Russia and northern China and fly to southern Africa for the winter, one of the longest migrations of any bird of prey. Every October–November huge numbers rest for a few weeks around the Doyang reservoir in Wokha district, Nagaland, to feed on flying termites. In 2012, conservationists filmed and reported that tens of thousands were being netted there for food each year.",
+      "then": "Hunting the birds had been a source of food and money for local families, and many people thought it would be impossible to stop. Instead, village councils in Pangti and nearby villages, church groups, the Nagaland Forest Department and conservation organisations worked together; the councils banned hunting and former hunters became guards and guides.",
+      "now": "Since 2013 the falcons have been largely protected in Nagaland, and the area now calls itself a falcon capital and welcomes birdwatchers. Scientists fitted some falcons with satellite tags and found they fly non-stop across the Arabian Sea between India and Africa, a sea crossing of several thousand kilometres.",
+      "status": "accepted",
+      "ask": "The falcons come back to Nagaland at the same time every year, like the seasons. Why might a bird's yearly rhythm make it easy to protect, and also easy to hunt?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What causes day and night?", "a": "The Earth rotates (spins) on its axis about once every 24 hours. The half facing the Sun has day and the other half has night."},
+    {"q": "If the Sun is not moving across the sky, why does it seem to rise in the east and set in the west?", "a": "Because the Earth spins from west to east, so places turn towards the Sun from the east side; the Sun seems to move the opposite way, like trees seem to move backwards from a moving train."},
+    {"q": "How did the stick's shadow change through the day?", "a": "Long and pointing west in the morning, shortest around midday, long and pointing east in the evening, because a shadow always points away from the Sun."},
+    {"q": "What are seasons?", "a": "A pattern of changes in weather and nature that repeats every year, such as hot, rainy and cool times."},
+    {"q": "Name India's six seasons.", "a": "Vasanta (spring), Grishma (summer), Varsha (monsoon), Sharad (autumn), Hemant (pre-winter), Shishir (winter)."},
+    {"q": "Why is it hotter in summer than in winter in India?", "a": "In summer our half of the tilted Earth leans towards the Sun, so the Sun is higher and its light falls more directly, concentrating its heat, and days are longer. In winter the light slants and spreads out and days are shorter."},
+    {"q": "Why is winter in Kerala so different from winter in Kashmir?", "a": "Kerala is far south near the equator and beside the sea, so it stays warm; Kashmir is far north and high in the mountains, where the winter Sun is low and the air is cold, so it snows."},
+    {"q": "Give one example each of a crop and a festival linked to a season.", "a": "For example: rice is sown in the monsoon (kharif) and wheat in winter (rabi); Holi in spring, Diwali in autumn after the harvest, Pongal or Makar Sankranti in winter, Baisakhi or Vishu as the new year and harvest."}
+  ]
+}

@@ -1,0 +1,1017 @@
+{
+  "key": "nios|sci|3|10",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 10,
+  "title": "Transport and Communication",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 10 (pages 124–141), 2016",
+  "summary": "Transport moves people and goods; communication moves messages and ideas. Your child follows how both grew: from footpaths, boats and the wheel to roads, railways, ships, aeroplanes and pipelines; and from drums, smoke, messengers and pigeons to printing, the post, telegraph, telephone, radio, television and the internet. They learn road signs and traffic lights, gestures, symbols, language and how animals communicate, testing ideas with rollers, a string telephone, foil boats and an ant trail, and correcting a few mistakes in the book along the way.",
+  "goals": [
+    "By the end your child can explain how the invention of the wheel changed transport, and show with rollers why rolling is easier than dragging.",
+    "By the end your child can name the means of road, rail, water and air transport and pipelines, give one fact about each in India, and say what each is best for.",
+    "By the end your child can read common road signs and traffic lights and explain how they prevent accidents.",
+    "By the end your child can explain what communication is and put the main means in order, from drums and messengers to the post, telegraph, telephone, radio, TV and internet.",
+    "By the end your child can show how sound travels along a string telephone and describe communication by gestures, symbols, language and among animals.",
+    "By the end your child can check a claim in a book against other evidence, and discuss inventors whose credit is still argued about."
+  ],
+  "words": [
+    [
+      "transport",
+      "moving people and goods from one place to another, by road, rail, water, air or pipeline"
+    ],
+    [
+      "pagdandi",
+      "a narrow footpath made by people and animals walking the same way again and again"
+    ],
+    [
+      "wheel",
+      "a round frame that turns on an axle; rolling on wheels needs much less push than dragging"
+    ],
+    [
+      "gauge",
+      "the distance between the two rails of a railway track; India has broad, metre and narrow gauge"
+    ],
+    [
+      "pipeline",
+      "a long pipe that carries water, oil, petrol, cooking gas or CNG over long distances"
+    ],
+    [
+      "traffic signal",
+      "lights that control traffic: red means stop, yellow means get ready to stop or wait, green means go"
+    ],
+    [
+      "communication",
+      "sharing feelings, ideas and information with other people"
+    ],
+    [
+      "telegraph",
+      "a machine that sent messages as electric pulses along a wire, using a code of short and long signals"
+    ],
+    [
+      "satellite",
+      "a machine sent up to circle the Earth; communication satellites pass on phone, TV and internet signals"
+    ],
+    [
+      "PIN code",
+      "Postal Index Number: the 6-digit number in an Indian address that tells the post office where to deliver a letter"
+    ],
+    [
+      "gesture",
+      "a movement of the hands, face or head that gives a message, like Namaste or a nod"
+    ],
+    [
+      "symbol",
+      "a picture or sign that stands for a message, like a red triangle for danger"
+    ]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "How did it get here? Paths, rivers and the wheel",
+      "goal": "Discover how much of our home arrived by transport, learn how transport began with footpaths and rivers, and test why the wheel changed the world.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Where did breakfast come from?",
+          "mins": 7,
+          "do": "Look at what is in your kitchen with your child: tea, rice, atta, a coconut, apples, a salt packet, a soap. For each, ask: 'Where do you think this came from? How did it get to our house?' Read the packets for clues (tea from Assam or Darjeeling, salt from Gujarat, apples from Himachal or Kashmir). Your child marks each on an India map if you have one, or writes the list. Good answers mention trucks, trains, ships and the shopkeeper's tempo or the delivery scooter. Ask: 'What would we have at home if nothing could be carried from far away?'"
+        },
+        {
+          "kind": "read",
+          "title": "10.1 Transport system and its development (pages 124–126)",
+          "mins": 8,
+          "do": "Read section 10.1 and 10.1.1 aloud, from 'The dependency on the means of transport' to 'resulted in the development of transport'. Stop after the list of foods and things that travel (pizza in Delhi, chhole-bhature in London, Aligarh locks in Darjeeling, Assam tea everywhere) and ask: 'Can you add one more like this from our kitchen?' After 10.1.1 ask: 'What was a pagdandi?' (A narrow footpath made by people and animals walking the same way.) 'Why did people live near rivers?' (For water, and they carried goods and travelled by boat.) 'Which is older, carrying goods on water or on roads?' (Water.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Drag or roll? The wheel test",
+          "mins": 13,
+          "do": "Do Experiment e1. Fill a shoebox with a few heavy books. Tie a rubber band to its front and hook a string to it. Your child pulls it slowly across the floor and you both watch how far the rubber band stretches; measure the stretch with a ruler. Ask them to guess first: 'If we put round pencils under the box, will the band stretch more, less or the same?' Then lay 6 round pencils or a few steel tumblers on their sides under the box and pull again; measure. Finally try a toy car or a skateboard carrying the box. Read the 'why' of e1. Ask: 'Why does the book say the wheel changed the whole world?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Find the pagdandi",
+          "mins": 6,
+          "do": "Ask: 'Have you seen a path across a park or an empty plot where grass doesn't grow because everyone walks there?' If there is one near you, go and see it later. Draw one together: two buildings with a short worn path cutting across the grass between them. Ask: 'Who decided to make this path?' (No one; it formed because people kept taking the shortest way, like the book's first footpaths.) Then ask: 'How did these paths become roads?' (As more people and carts used them, people widened and paved them.)"
+        },
+        {
+          "kind": "act",
+          "title": "Start the transport time-line",
+          "mins": 6,
+          "do": "Start Activity a1. Tape together sheets of paper to make a long strip. On the left your child draws 'walking on a pagdandi' and 'a boat on a river'; then 'the wheel'. Tell them each day you will add the new kinds of transport and communication you learn about, in order, ending with today's metro, aeroplane, mobile phone and internet. Stick it along a wall.",
+          "ref": "a1"
+        }
+      ],
+      "need": [
+        "Textbook pages 124–126",
+        "kitchen packets and an India map if you have one",
+        "a shoebox, some heavy books, a rubber band, string, a ruler",
+        "6 round pencils or steel tumblers, a toy car or skateboard",
+        "sheets of paper and tape for the time-line"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Roads and road signs",
+      "goal": "Learn about road transport, the Grand Trunk Road and village roads, read road signs and traffic lights, and start a test of the dust that traffic leaves in the air.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.1.2 Road transport (page 126)",
+          "mins": 7,
+          "do": "Read section 10.1.2 aloud. Ask your child to list every means of road transport they have ridden in (cycle, rickshaw, auto, bus, car, scooter, maybe a bullock cart or tonga). Ask: 'Why does a village change when a road is built?' (Farmers can sell crops in the mandi, children can reach school, doctors and ambulances can come, shops get goods.) Make two facts exact. Sher Shah Suri, who ruled from 1540 to 1545, rebuilt and extended a very old route across north India; the British later called it the Grand Trunk Road. It is famous and very old, but it is not India's longest road today: that is National Highway 44, from Srinagar to Kanyakumari. The book's line about 'flying cars' is about test models; they are not on our roads yet."
+        },
+        {
+          "kind": "read",
+          "title": "10.1.3 Signs and symbols of road transport (pages 126–127)",
+          "mins": 6,
+          "do": "Read section 10.1.3 aloud and look at the picture of traffic symbols. Ask: 'What are the two kinds of signs?' (Signs that tell about the road ahead, like bridge, narrow road, U-turn, school, hospital; and signs that control traffic, like traffic lights.) 'What does red mean?' (Stop before the stop-line.) 'Yellow?' (Get ready to stop; wait and look.) 'Green?' (Go, carefully.) Then do 'Let's see, what you have learnt 10.1' on page 127 aloud. Answers on page 140: footpath; G.T. Road; Peshawar to Kolkata; wheel; stop; go."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Road-sign hunt and traffic-light game",
+          "mins": 15,
+          "do": "Walk to the nearest main road with your child, holding hands. Your child draws every road sign they see and guesses its meaning: school ahead, speed limit, no parking, no horn, hospital, zebra crossing, U-turn. Most warning signs are red triangles, most 'must' or 'must not' signs are red circles, and information signs are blue rectangles. At a signal, watch one full cycle of the lights and count the seconds of red and green. Practise the safe way to cross: at a zebra crossing, stop, look right, look left, look right again, and walk (do not run) when the road is clear. At home, play 'traffic lights': you call 'red', 'yellow', 'green' and your child stops, walks on the spot, or walks around the room.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the dust catchers",
+          "mins": 8,
+          "do": "Set up Experiment e2. Smear a thin layer of Vaseline or coconut oil on 3 white cards. Your child labels them 'near the road', 'balcony or window', 'inside a cupboard'. Tape the 'near the road' card where it is safe and will not be disturbed (a gate post or a window facing the road), one on a balcony or window facing away from the road, and one inside a cupboard. Ask your child to guess: 'In 2 days, which card will be dirtiest?' Write the guesses. You will check on Day 4. Then add 'roads, bus, truck, car, G.T. Road' to the time-line (Activity a1).",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Road safety rules",
+          "mins": 4,
+          "do": "Ask your child to tell you three road rules they saw being followed or broken on the walk: helmets on two-wheelers, seat belts, stopping at the red light, using the footpath, not using a phone while driving. Ask: 'The book says following the signs prevents accidents. Which rule would you most want every driver to follow, and why?'"
+        }
+      ],
+      "need": [
+        "Textbook pages 126–127 and 140",
+        "notebook and pencil for the sign hunt",
+        "3 white cards, Vaseline or coconut oil, tape, a marker"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Railways",
+      "goal": "Learn about Indian railways and the three gauges, check two of the book's facts, mark out real gauges on the floor, and read a real train timetable.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.1.4 Rail transport (pages 127–128)",
+          "mins": 8,
+          "do": "Read section 10.1.4 aloud. Ask: 'What are the three kinds of railway track in India called?' (Broad gauge, metre gauge and narrow gauge.) 'What does gauge mean?' (The distance between the two rails.) 'When and where did India's first train run?' (16 April 1853, about 34 km from Bombay, now Mumbai, to Thane.) 'Where did India's first underground metro run?' (Kolkata, in 1984.) Three honest corrections to tell your child: the first train was pulled by steam engines, not horses; India's railway network is one of the biggest in the world, but by length of track China's is bigger in Asia, and India's is about fourth in the world; the Mumbai monorail runs on a single concrete beam, not on magnets."
+        },
+        {
+          "kind": "do",
+          "title": "Mark the gauges on the floor",
+          "mins": 9,
+          "do": "Using a measuring tape and masking tape (or chalk outside), your child marks three pairs of 'rails' on the floor: broad gauge 1676 mm apart (about 1.7 m), metre gauge 1000 mm (1 m), and narrow gauge 762 mm (about 76 cm; some hill lines, like the Darjeeling toy train, are even narrower at 610 mm). They lie down between the broad-gauge rails to feel how wide it is. Ask: 'Why is a wider track better for fast, heavy trains?' (The train is steadier and can be wider and carry more.) 'Why might a narrow track be used in the hills?' (It is cheaper and can go round tight bends.) Ask: 'What problem happens if two lines have different gauges?' (Trains cannot pass from one to the other; people and goods must change trains. That is why the book says metre gauge is being changed to broad gauge.)"
+        },
+        {
+          "kind": "act",
+          "title": "Plan a train journey",
+          "mins": 12,
+          "do": "Do Activity a2. On a phone or computer, open the Indian Railways enquiry website or app (or a printed timetable). Choose a journey your family might take, for example from your city to a grandparent's town. Your child finds: the train's name and number, departure and arrival times, how long the journey takes, and the number of stations it stops at. Help them work out the hours. Ask: 'How long would this take by bus? By car? By plane?' Then add 'steam train 1853, Kolkata Metro 1984, Delhi Metro' to the time-line (Activity a1).",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Let's see 10.2 (page 128)",
+          "mins": 7,
+          "do": "Ask the five 'Let's see, what you have learnt 10.2' questions on page 128 aloud. Use the book's answers (page 140) but add today's corrections: (i) the book says train; in fact most of the world's goods by weight travel by ship across the seas, while in India trains carry a big share of goods; (ii) three types of track; (iii) 1853, Mumbai to Thane; (iv) Kolkata; (v) the Metro. Ask: 'Why is it important to check a fact even if it is printed in a book?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Railways reach the hills",
+          "mins": 4,
+          "do": "Read the last paragraph of 10.1.4 about trains reaching beyond Jammu into Kashmir and to Tripura. Ask: 'Why is it hard to build a railway in the mountains?' (Steep slopes, rivers and gorges, landslides and snow; engineers must build tunnels and bridges.) Tell them India has built some very high and long railway bridges and tunnels in Jammu and Kashmir to do this."
+        }
+      ],
+      "need": [
+        "Textbook pages 127–128 and 140",
+        "a measuring tape and masking tape or chalk",
+        "a phone or computer with the Indian Railways enquiry site, or a printed timetable"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Water, air and pipelines, and what transport does to the air",
+      "goal": "Learn about ships, aeroplanes and pipelines, test how a boat carries cargo, check the dust catchers, hear how a scientist proved petrol was poisoning the air, and check the main ideas with the core worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.1.5–10.1.7 Water, air, pipelines (pages 129–130)",
+          "mins": 6,
+          "do": "Read sections 10.1.5, 10.1.6 and 10.1.7 aloud. Ask: 'What were boats first used for?' (Catching fish.) 'Which Indian rivers carry goods and people?' (Hooghly, Brahmaputra, Ganga.) 'What travels in pipelines?' (Water, oil, petrol, natural gas, CNG and cooking gas.) Correct one mistake: the Wright brothers did not fly in a balloon. On 17 December 1903 they made the first flight in an aeroplane with an engine, in the USA. People had flown in hot-air balloons much earlier, in France in 1783. Then do 'Let's see 10.3' on page 130 aloud (water; war; fighter planes; aeroplane and helicopter; liquids and gases)."
+        },
+        {
+          "kind": "exp",
+          "title": "Foil boat cargo test",
+          "mins": 10,
+          "do": "Do Experiment e3. Give your child two equal squares of aluminium foil (about 15 cm). They squeeze one into a tight ball and fold the other into a wide, flat boat with sides. Ask first: 'Which will float? Which can carry more coins?' Put both in a bucket or tub of water: the ball sinks or floats low; the boat floats. Then they load one-rupee coins into the boat, one by one, spreading them out, until it sinks. Count. Let them reshape the boat to carry more. Read the 'why' of e3. Ask: 'Why are big cargo ships so wide and flat-bottomed?'",
+          "ref": "e3"
+        },
+        {
+          "kind": "exp",
+          "title": "Dust catcher results",
+          "mins": 6,
+          "do": "Collect the three cards from Experiment e2. Your child lays them side by side on white paper and looks with a magnifying glass. Usually the road card is darkest, with black specks of soot and grey dust. Ask: 'Was your guess right? Where does the black soot come from?' (Mostly from vehicle exhausts, especially diesel trucks and buses, and from tyres and brakes wearing down and dust stirred up by traffic.) 'Who breathes this air?' (Everyone near the road, including children walking to school.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Clair Patterson and the lead in petrol",
+          "mins": 8,
+          "do": "Tell the story in Voice v1: for about 50 years, lead was added to petrol to make engines run smoothly; a scientist named Clair Patterson found that lead from car exhaust had spread across the whole planet and fought for years to stop it. India stopped selling leaded petrol in 2000. Look at a petrol pump's sign or a car's fuel lid that says 'unleaded'. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: transport",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core). Read items aloud if needed. For each wrong answer, open the right section of the book (road 10.1.2, signs 10.1.3, rail 10.1.4, water, air and pipelines 10.1.5–10.1.7) and read it together. Add 'ships, aeroplane 1903, pipelines' to the time-line (Activity a1).",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Textbook pages 129–130",
+        "aluminium foil, a bucket or tub of water, 20 one-rupee coins",
+        "the 3 dust catcher cards, white paper, a magnifying glass",
+        "worksheet ws1"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Messages long ago: drums, pigeons, printing and the post",
+      "goal": "Learn what communication is and how it began, try old ways of signalling, print with a potato block, and write and post a real postcard.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.2–10.2.2 What is communication? (pages 130–132)",
+          "mins": 8,
+          "do": "Read section 10.2, 10.2.1 and 10.2.2 aloud. Ask: 'What is communication?' (Sharing our feelings, views and information with others.) 'How did people send messages before writing?' (Drums, trumpets, fire, torches and smoke.) 'How did kings send messages?' (By trusted messengers on fast horses and camels.) 'How were invitation cards sent long ago?' (Through the barber or a messenger.) About pigeons: they really did carry army messages in both World Wars, and the French army still keeps a pigeon loft. In India, the Odisha Police ran a pigeon post for many years, until about 2008. The book's other pigeon dates could not be confirmed, so treat them as the book's answers only."
+        },
+        {
+          "kind": "game",
+          "title": "Signal without words",
+          "mins": 7,
+          "do": "Go to opposite ends of a corridor, building compound or two rooms. Agree on a code first: 1 drum beat (on a steel plate) = 'come', 2 beats = 'stop', 3 beats = 'food is ready'. Send messages and see if your child gets them right. Then try a mirror flash on a sunny day (catch sunlight with a small mirror and flash it on a wall near the other person, never into eyes), as the book says people in mountains still do. Ask: 'What was hard about these signals?' (You can only send messages you agreed on before; they don't work far away or when it rains or is noisy.)"
+        },
+        {
+          "kind": "act",
+          "title": "Potato block printing",
+          "mins": 10,
+          "do": "Read the printing part of 10.2.2 on page 132: China first printed books with carved blocks; then came letter press, phototypesetting and today's computer typesetting. Do Activity a3. An adult cuts a potato in half. Your child draws a simple shape on the cut face with a pencil (a star, a fish, or a big letter); the adult cuts away the potato around it so the shape stands up. Your child dips it in poster paint and stamps it many times on paper. Now try a letter, like 'S'. Ask: 'Why did your letter come out backwards?' (A block prints a mirror image, so printers had to carve letters backwards.) Tell them the oldest printed book with a date that still exists is a Buddhist text from China, the Diamond Sutra, printed in 868 CE.",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "10.2.3 Communication in India (page 132)",
+          "mins": 5,
+          "do": "Read section 10.2.3 aloud. Your child writes the dates on the time-line (Activity a1): post office service 1837; first postage stamp 1852; postal department 1854; first Doordarshan programme 15 September 1959; PIN code 1972. Correct one date: the world's first public radio broadcasts were around 1920, but in India regular radio broadcasting began a little later, in 1923 in Bombay (Mumbai) and Calcutta (Kolkata). Ask: 'What is our PIN code? What does it help the postman do?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "act",
+          "title": "Write and post a postcard",
+          "mins": 10,
+          "do": "Do Activity a4. Using a postcard from the post office (an ordinary postcard costs 50 paise), your child writes a short letter to a grandparent or cousin: what they learned this week about transport and one question for them. They write the full address with the PIN code. Walk to the post box together (or post it on your next trip) and ask the grandparent to phone when it arrives. Your child records the date posted. Ask: 'Which transport will carry this postcard?' (Probably a postman's bike, a van, perhaps a train or even an aeroplane.)",
+          "ref": "a4"
+        }
+      ],
+      "need": [
+        "Textbook pages 130–132",
+        "a steel plate and spoon, a small mirror",
+        "a potato, a knife (adult), poster paint, paper",
+        "a postcard and a pen"
+      ],
+      "prep": [
+        {
+          "task": "Buy a postcard from the post office and find a grandparent's or cousin's full address with PIN code",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Wires and waves: telegraph, telephone, radio and TV",
+      "goal": "Learn how messages became electric, send Morse code, build a string telephone, and weigh up two stories about who should get credit for inventions.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.2.4–10.2.9 Telegraph to television (pages 132–134)",
+          "mins": 8,
+          "do": "Read sections 10.2.4 to 10.2.9 aloud. Ask: 'What made the telegraph faster than a letter?' (Messages travelled as electric current along a wire.) 'Who invented the telephone, and when?' (The book says 'Alexander Graham'; his full name is Alexander Graham Bell, and he got the patent in 1876.) 'What does a teleprinter do?' (Prints messages sent from far away, by itself.) 'Who discovered radio waves?' (The book writes 'Henry Hurtz'; the scientist was Heinrich Hertz of Germany, around 1887.) 'How is TV different from radio?' (On TV we can see pictures too.) Ask: 'Why did a whole village sit around one radio during the war?' (Few people had radios, and everyone wanted the latest news.)"
+        },
+        {
+          "kind": "game",
+          "title": "Tap a Morse message",
+          "mins": 7,
+          "do": "Write a small Morse code chart: S = dot dot dot, O = dash dash dash, H = dot dot dot dot, I = dot dot, E = dot, T = dash, A = dot dash. A dot is a quick tap on the table and a dash is a long scrape or a 'taaap'. Tap 'SOS' and 'HI' to your child and let them decode; then they tap a word to you. Tell them telegraph operators sent messages like this along wires; in India the first telegraph line was tested near Calcutta (Kolkata) in 1851, and the last telegram was sent in 2013 when the service closed."
+        },
+        {
+          "kind": "exp",
+          "title": "String telephone",
+          "mins": 10,
+          "do": "Do Experiment e4. Make two small holes in the bottoms of two paper cups. Thread a 5-metre string through and tie a knot (or a matchstick) inside each cup. Each of you takes a cup to opposite ends of a room, pulls the string tight and takes turns speaking softly into the cup while the other listens. Ask first: 'Will it work if the string is loose? If someone pinches the string in the middle?' Try both. Read the 'why' of e4 aloud.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Who invented the telephone?",
+          "mins": 7,
+          "do": "Tell the story in Voice v2: Alexander Graham Bell got the patent in 1876, but an Italian inventor in New York, Antonio Meucci, had built talking machines years earlier and could not afford to keep his patent notice going, and another inventor, Elisha Gray, filed papers on the same day as Bell. Ask the voice question. Your child adds 'telegraph, telephone 1876, radio, TV' to the time-line (Activity a1).",
+          "ref": "v2"
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose and the invisible waves",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: in the 1890s in Kolkata, Jagadish Chandra Bose sent invisible radio waves across a room and built new detectors for them, before radio became famous; he did not try to patent most of his work. Ask: 'A mobile phone and a TV remote both send invisible waves. How do we know waves are there if we cannot see them?' (Something at the other end reacts: the TV changes channel, the phone rings.) Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Textbook pages 132–134",
+        "paper and pencil for a Morse chart",
+        "2 paper cups, 5 metres of thin string, 2 matchsticks, a pin to make holes"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Computers, fairs, gestures, signs and animal talk",
+      "goal": "Learn about the internet and older ways of sharing news like haats and fairs, communicate with gestures and symbols, watch ants send messages, and hear how satellites brought TV to Indian villages.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.2.10–10.2.11 Computer, internet and fairs (pages 134–135)",
+          "mins": 7,
+          "do": "Read sections 10.2.10 and 10.2.11 aloud. Ask: 'How can the internet help a farmer?' (Learn about new seeds and crop diseases and check prices in mandis across the country.) 'What happens at a weekly haat or a mela besides shopping?' (People meet relatives, share news, send invitations and even fix marriages.) Ask your child about a mela or a weekly market they have been to. Then do 'Let's see 10.4' on pages 135–136 aloud, using the answers on pages 140–141; for (vi) and (vii), say 'telephone patent 1876' and 'radio waves found by Hertz around 1887'."
+        },
+        {
+          "kind": "exp",
+          "title": "Ant trail messages",
+          "mins": 8,
+          "do": "Do Experiment e5. Put a few grains of sugar or a drop of honey on a piece of paper near a place where you have seen ants (the kitchen step, a garden wall). Ask your child to guess first: 'Will lots of ants find it? Will they come in a crowd or in a line?' Check after 10 minutes while you do the next step, then check again. When a line forms, your child gently wipes a finger across the line once, right through it. Watch: the ants coming to that spot get confused and wander. Read the 'why' of e5. Ask: 'What does this show about how ants send messages?' (By smell, as the book says on page 137.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "game",
+          "title": "Gestures and symbols (pages 136–137)",
+          "mins": 8,
+          "do": "Read sections 10.2.12 and 10.2.13. Play a quick game of dumb charades: take turns giving messages without words: 'Come here', 'I'm hungry', 'Namaste, welcome', 'yes', 'no', 'be quiet'. Ask: 'Which were easy? Which were hard?' Tell them that people who are deaf use full sign languages, with their own grammar; India has Indian Sign Language. Then look at signs at home and outside: the danger sign on an electric meter, the green dot (vegetarian) and brown dot (non-vegetarian) on food packets, the recycle symbol. Ask: 'Why do signs use pictures and not only words?' (Anyone can understand them quickly, whatever language they read, or even if they cannot read.)"
+        },
+        {
+          "kind": "think",
+          "title": "Vikram Sarabhai and TV from the sky",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: in 1975–76 India borrowed an American satellite and beamed educational TV programmes on farming, health and schooling to TV sets in about 2,400 villages, an idea planned under Vikram Sarabhai. Read section 10.2.14 on language and 10.2.15 on animals (page 137) quickly first, then ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Check the ant trail again first. Then do Worksheet ws2 (stretch). It asks your child to choose the best transport and communication for new situations. Let them answer the write items aloud while you scribe. Your child adds 'computer, internet, mobile, satellite TV' to the end of the time-line (Activity a1).",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Textbook pages 134–137 and 140–141",
+        "a few grains of sugar or a drop of honey, a piece of paper",
+        "packets with the green or brown food dot",
+        "worksheet ws2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Signs, exercise, check and teach it back",
+      "goal": "Answer the book's sign questions and exercise, do the challenge worksheet, check understanding, and teach the lesson back with the time-line.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's see 10.5 and the Exercise (pages 137–140)",
+          "mins": 10,
+          "do": "Do 'Let's see 10.5' on page 137 (the signs mean danger, hospital ahead and railway crossing; answers on page 141). Then go through the Exercise on pages 138–140 aloud. Q1: news; barber or messenger; internet; views or feelings and information; horses and camels; England; pigeon force; pigeon mail service; wire; wire. Q2: China; letters were set using photography; by computer typesetting; alphabets let people read, write and print books. Q3: to carry heavy goods; Baghdad (the book's answer); Sher Shah Suri (who rebuilt an older route); three lights, red, yellow, green; the book says India (we found that China's network is larger). Q4: right, wrong, right, wrong. Q5: Mumbai, Kolkata, pipe."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). Section C compares views on inventors and on fixing facts in books; there is no single right answer, so praise reasons that use evidence. Your child can answer aloud while you write.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, without the book. Tick the ones answered well. For any miss, find it on the time-line or in the book and look together for a minute, then ask again in different words. Most children get 6 or more; fewer than 5 means redo the Day 2 sign hunt and the Day 6 string telephone next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back with the time-line",
+          "mins": 12,
+          "do": "Your child is the guide and you (or a grandparent or sibling) are the visitor. Walking along the time-line from Activity a1, they explain how transport grew from the pagdandi and the boat to the metro and the aeroplane, and how messages grew from drums and pigeons to the internet, using the rollers, the foil boat and the string telephone to show how things work. Ask two 'visitor' questions: 'Did the first Indian train have horses?' and 'How do ants talk to each other?' Ask whether the postcard from Day 5 has arrived yet.",
+          "ref": "a1"
+        }
+      ],
+      "need": [
+        "Textbook pages 137–141",
+        "the time-line, the rollers box, the foil boat and the string telephone",
+        "worksheet ws3"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Ways to travel and carry",
+      "day": 4,
+      "sections": [
+        [
+          "A. Kinds of transport",
+          [
+            {
+              "t": "sort",
+              "p": "Sort these means of transport.",
+              "items": [
+                "Bus",
+                "Bullock cart",
+                "Ship",
+                "Metro train",
+                "Aeroplane",
+                "Boat",
+                "Helicopter",
+                "Tonga",
+                "Goods train",
+                "Cycle-rickshaw"
+              ],
+              "cats": [
+                "Road",
+                "Rail",
+                "Water",
+                "Air"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "The invention of the ____ changed transport, because rolling is much easier than dragging.",
+              "a": [
+                "wheel"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "Water, petrol and cooking gas can travel long distances through:",
+              "opts": [
+                "Aeroplanes",
+                "Pipelines",
+                "Rickshaws",
+                "Boats only"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Facts from the lesson",
+          [
+            {
+              "t": "fill",
+              "p": "India's first train ran in 1853 from Mumbai to ____.",
+              "a": [
+                "Thane"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "India's first underground metro train ran in ____.",
+              "a": [
+                "Kolkata",
+                "Calcutta"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "The three kinds of railway track in India are broad, metre and narrow ____.",
+              "opts": [
+                "road",
+                "gauge",
+                "bridge",
+                "station"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "In 1903 the Wright brothers made the first flight in:",
+              "opts": [
+                "A balloon",
+                "An aeroplane with an engine",
+                "A helicopter",
+                "A glider pulled by horses"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "C. Signs and lights",
+          [
+            {
+              "t": "match",
+              "p": "Match the traffic light to what it means.",
+              "pairs": [
+                [
+                  "Red",
+                  "Stop before the stop-line"
+                ],
+                [
+                  "Yellow",
+                  "Get ready to stop; wait and look"
+                ],
+                [
+                  "Green",
+                  "Go, carefully"
+                ]
+              ]
+            },
+            {
+              "t": "draw",
+              "p": "Draw two road signs you saw on your walk and write what each means."
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Choose the best way",
+      "day": 7,
+      "sections": [
+        [
+          "A. Best transport",
+          [
+            {
+              "t": "match",
+              "p": "Match each job to the best transport.",
+              "pairs": [
+                [
+                  "Sending 1,000 tonnes of coal from Jharkhand to Punjab",
+                  "Goods train"
+                ],
+                [
+                  "Taking an injured person from a remote hill village quickly",
+                  "Helicopter"
+                ],
+                [
+                  "Carrying cars from India to Africa",
+                  "Cargo ship"
+                ],
+                [
+                  "Bringing cooking gas to flats in a city",
+                  "Pipeline"
+                ],
+                [
+                  "Going to the vegetable market 1 km away",
+                  "Cycle or walking"
+                ]
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Your family wants to go from Delhi to Chennai. Write one good thing and one problem about going by train and by aeroplane.",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "B. Best way to send the message",
+          [
+            {
+              "t": "mcq",
+              "p": "You want to tell everyone in your whole state about a cyclone coming tomorrow. The best way is:",
+              "opts": [
+                "A pigeon",
+                "A postcard",
+                "Radio, TV and mobile alerts",
+                "A drum"
+              ],
+              "a": 2
+            },
+            {
+              "t": "mcq",
+              "p": "In our string telephone, the sound stopped when someone pinched the string because:",
+              "opts": [
+                "The string got tired",
+                "The string could no longer shake (vibrate) all the way along",
+                "The cup was too small",
+                "The voice was too loud"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "A child who is deaf wants to tell you 'I am thirsty'. Write or draw two ways you could understand each other.",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "C. Signs and symbols",
+          [
+            {
+              "t": "match",
+              "p": "Match the symbol to its meaning.",
+              "pairs": [
+                [
+                  "Green dot in a square on a food packet",
+                  "Vegetarian food"
+                ],
+                [
+                  "Red triangle with a person walking",
+                  "Pedestrian crossing or school ahead"
+                ],
+                [
+                  "Skull and bones on an electric box",
+                  "Danger"
+                ],
+                [
+                  "Red circle with a horn crossed out",
+                  "Do not honk"
+                ]
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Design a new sign for your street (for example 'children playing' or 'stray dogs, go slow'). Draw it and say why you chose that shape and colour.",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking about transport and messages",
+      "day": 8,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "write",
+              "p": "A ball of foil sinks but the same foil made into a boat floats. Explain why using the word 'push' or 'space'.",
+              "lines": 3
+            },
+            {
+              "t": "fill",
+              "p": "In a block print, letters come out as a ____ image, so printers had to carve them backwards.",
+              "a": [
+                "mirror",
+                "reversed",
+                "backwards"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "Two railway lines have different gauges. What problem does this cause?",
+              "opts": [
+                "Trains go faster",
+                "A train cannot run from one line onto the other",
+                "The trains become longer",
+                "No problem at all"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if there were no traffic lights or road signs in your city for one day? Write three things that might happen.",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "What if the internet and mobile network stopped for a week? How would your family get news and talk to relatives? Which old ways from this lesson could help?",
+              "lines": 4
+            }
+          ]
+        ],
+        [
+          "C. Comparing views",
+          [
+            {
+              "t": "write",
+              "p": "Bell got the telephone patent, but Meucci and Gray had worked on similar ideas. Should the credit go to the first person with the idea, the first to make it work, or the first to get a patent? Give your reason.",
+              "lines": 4
+            },
+            {
+              "t": "write",
+              "p": "Our book said the first Indian train was pulled by horses, but other sources say steam engines. How would you find out which is right? Name two kinds of evidence.",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Drag or roll? Why the wheel matters",
+      "day": 1,
+      "question": "Is it easier to move a heavy load by dragging it, rolling it on rollers or carrying it on wheels?",
+      "need": [
+        "a shoebox",
+        "a few heavy books",
+        "a thick rubber band and string",
+        "a ruler",
+        "6 round pencils or 3–4 steel tumblers laid on their sides",
+        "a toy car, trolley or skateboard"
+      ],
+      "steps": [
+        "Put the books in the box. Hook the rubber band to the front of the box and tie the string to the band.",
+        "Pull the string slowly and steadily across a smooth floor. Measure how long the rubber band stretches while the box moves.",
+        "Lay the pencils or tumblers under the box as rollers and pull again. Measure the stretch.",
+        "Put the box on the toy car or skateboard and pull again. Measure the stretch.",
+        "Make a table: Way of moving, Stretch of band (cm)."
+      ],
+      "predict": "Ask your child to guess first: which way will need the least pull? Will rollers be as good as wheels?",
+      "observe": "The band stretches the most when dragging, much less on rollers, and least on wheels. With rollers, you have to keep moving the back roller to the front.",
+      "why": "When you drag a box, its whole bottom rubs against the floor; this rubbing force, called friction, pushes back against you. A rolling roller or wheel does not rub along the ground; it just touches at one small place at a time and turns, so there is much less friction. Rollers work, but they get left behind. A wheel fixed on an axle goes with the load, so it never needs to be moved to the front. That is why the wheel made carts, then bicycles, cars and trains possible.",
+      "safety": "Pull slowly; do not stand where the box can roll onto feet.",
+      "time": "13 min"
+    },
+    {
+      "id": "e2",
+      "title": "Dust catchers: what's in the air near the road?",
+      "day": 2,
+      "question": "Is there more dust and soot in the air near a road than away from it?",
+      "need": [
+        "3 white cards",
+        "Vaseline or coconut oil",
+        "tape and a marker",
+        "a magnifying glass",
+        "white paper"
+      ],
+      "steps": [
+        "Smear a thin, even layer of Vaseline or oil on one side of each card.",
+        "Label the cards: near the road, window or balcony away from the road, inside a cupboard.",
+        "Tape them in place, sticky side out, where they will not be touched.",
+        "Leave them for 2 days.",
+        "Collect them, lay them on white paper and compare with a magnifying glass."
+      ],
+      "predict": "Ask your child to guess first: which card will be dirtiest after 2 days? Will the cupboard card catch anything?",
+      "observe": "Look at the number and colour of specks. Usually the road card is greyest, with many black specks; the away-from-road card has fewer; the cupboard card is nearly clean.",
+      "why": "Vehicles put tiny bits into the air: soot from burning diesel and petrol, rubber from tyres, dust from brakes and road dust thrown up by wheels. The smallest bits float for a long time and can be breathed deep into the lungs, which is why doctors worry about air near busy roads. The sticky layer traps whatever lands on it, so the card shows how much falls in each place. Cleaner fuels like CNG, electric vehicles, trees along roads and fewer traffic jams can reduce this pollution.",
+      "safety": "Fix the road card where your child does not need to stand in traffic; an adult should place it.",
+      "time": "8 min to set up + 2 days + 6 min to check"
+    },
+    {
+      "id": "e3",
+      "title": "Foil boat cargo test",
+      "day": 4,
+      "question": "Why does a heavy ship float, and how can a boat carry the most cargo?",
+      "need": [
+        "2 equal squares of aluminium foil, about 15 cm each",
+        "a bucket or tub of water",
+        "20 one-rupee coins (or marbles)"
+      ],
+      "steps": [
+        "Squeeze one foil square into a tight ball.",
+        "Fold the other into a wide, flat boat with low walls.",
+        "Put both in the water and watch.",
+        "Add coins to the boat one at a time, spreading them out, until it sinks. Count them.",
+        "Reshape the boat (wider, taller walls) and test again. Which shape carries most?"
+      ],
+      "predict": "Ask your child to guess first: will the ball and the boat both float? How many coins will the boat carry?",
+      "observe": "The ball sinks or sits low; the boat floats. A wide boat with walls carries more coins than a narrow one. Coins piled in one corner tip it over sooner.",
+      "why": "Water pushes up on anything placed in it. The more water an object pushes aside, the bigger the upward push. A foil ball pushes aside only a tiny bit of water, so the push is too small. The same foil spread into a boat holds a lot of air inside its walls and pushes aside much more water, so the upward push is enough to hold it and its cargo up. A boat sinks when its load makes it push aside more water than it can before water spills in. Huge steel cargo ships float for the same reason: they are shaped to push aside a very large amount of water.",
+      "safety": "Mop up spills so no one slips.",
+      "time": "10 min"
+    },
+    {
+      "id": "e4",
+      "title": "String telephone",
+      "day": 6,
+      "question": "Can sound travel along a string? What stops it?",
+      "need": [
+        "2 paper or plastic cups",
+        "about 5 metres of thin string or fishing line",
+        "2 matchsticks or paper clips",
+        "a pin (adult use)"
+      ],
+      "steps": [
+        "Make a small hole in the bottom of each cup.",
+        "Thread the string through each hole and tie it to a matchstick inside so it cannot slip out.",
+        "Each person takes a cup and walks apart until the string is tight.",
+        "One speaks softly into the cup; the other holds their cup to their ear.",
+        "Try again with the string loose, then with someone pinching the string in the middle, then with the string touching a wall."
+      ],
+      "predict": "Ask your child to guess first: will you hear better through the string than through the air? What will happen when the string is loose or pinched?",
+      "observe": "With a tight string the voice is clear, even when whispering. With a loose string, a pinched string or a string touching something, the sound fades or stops.",
+      "why": "Sound is a shaking (vibration). When you speak, the bottom of the cup shakes, and it makes the tight string shake too. The shaking travels along the string to the other cup, which shakes the air inside it and reaches the listener's ear. A tight string passes the vibration well. A loose or pinched string cannot carry the shaking along, so the sound stops. Early telephones changed sound vibrations into a changing electric current in a wire; today's mobile phones change them into radio waves.",
+      "safety": "An adult makes the holes with the pin. Don't pull the string near anyone's face or neck.",
+      "time": "10 min"
+    },
+    {
+      "id": "e5",
+      "title": "How do ants send messages?",
+      "day": 7,
+      "question": "How do ants tell each other where food is? (book page 137)",
+      "need": [
+        "a few grains of sugar or a drop of honey",
+        "a small piece of paper",
+        "a place where ants are often seen"
+      ],
+      "steps": [
+        "Put the sugar on the paper near where ants usually walk.",
+        "Check after 10 minutes and after 30 minutes. Draw what you see.",
+        "When a line of ants has formed, wipe a finger once across the line, through the path.",
+        "Watch what the ants do when they reach the wiped place.",
+        "After a few minutes, see if the line forms again."
+      ],
+      "predict": "Ask your child to guess first: will ants find the sugar? Will they come one by one, in a crowd, or in a line? What will happen when you wipe the path?",
+      "observe": "At first one or two ants find the sugar; later many come in a line. At the wiped place the ants stop, wander and search, until the line is joined again.",
+      "why": "An ant that finds food lays a trail of a special smelly chemical (a pheromone) from its body on the way back to the nest. Other ants smell the trail and follow it to the food, and they add more smell on their way back, so a strong trail forms. Wiping your finger removes the smell, so the ants lose the 'message' until they find it again. This is communication by smell, as the book says, like dogs finding things by smell.",
+      "safety": "Some ants bite; watch, don't touch. Clean up the sugar afterwards so ants do not move into the kitchen.",
+      "time": "8 min + checks after 10 and 30 minutes"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Transport and communication time-line",
+      "day": 1,
+      "mins": 6,
+      "need": [
+        "several sheets of paper taped into a long strip",
+        "crayons and markers",
+        "tape for the wall"
+      ],
+      "steps": [
+        "Draw a long line along the strip, with 'Long ago' on the left and 'Today' on the right.",
+        "Above the line draw transport: pagdandi, boat, wheel, cart, road, steam train 1853, aeroplane 1903, metro 1984 and today.",
+        "Below the line draw communication: drum, smoke, messenger, pigeon, printing, post 1837, stamp 1852, telegraph, telephone 1876, radio, TV 1959, PIN code 1972, computer and internet.",
+        "Add each day's new items in order.",
+        "On the last day, use it to teach the whole lesson back."
+      ],
+      "outcome": "A wall time-line of how transport and communication grew, made by your child over the week."
+    },
+    {
+      "id": "a2",
+      "title": "Plan a train journey",
+      "day": 3,
+      "mins": 12,
+      "need": [
+        "the Indian Railways enquiry website or app, or a printed timetable",
+        "notebook and pencil"
+      ],
+      "steps": [
+        "Choose a real journey from your city.",
+        "Find a train that goes there: its name and number.",
+        "Write the departure and arrival times and the date.",
+        "Work out how many hours it takes.",
+        "Count the stops on the way.",
+        "Compare with travelling by bus or plane."
+      ],
+      "outcome": "A child who can read a real train timetable and work out journey times."
+    },
+    {
+      "id": "a3",
+      "title": "Potato block printing",
+      "day": 5,
+      "mins": 10,
+      "need": [
+        "a potato",
+        "a knife (adult)",
+        "poster paint on a plate",
+        "paper"
+      ],
+      "steps": [
+        "An adult cuts the potato in half.",
+        "Draw a simple shape on the cut face.",
+        "The adult cuts away the potato around the shape, about 1 cm deep.",
+        "Dip it in paint and stamp it on paper again and again.",
+        "Try a letter and see that it comes out backwards; carve one the right way by drawing it backwards first."
+      ],
+      "outcome": "A printed pattern and an understanding of how the first block-printed books were made."
+    },
+    {
+      "id": "a4",
+      "title": "Write and post a postcard",
+      "day": 5,
+      "mins": 10,
+      "need": [
+        "a postcard",
+        "a pen",
+        "a relative's full address with PIN code"
+      ],
+      "steps": [
+        "Write a short message to a grandparent or cousin.",
+        "Write the full address with the 6-digit PIN code.",
+        "Post it in a post box or at the post office.",
+        "Write down the date you posted it.",
+        "Ask the relative to phone or message when it arrives, and count the days."
+      ],
+      "outcome": "A real letter sent by post, and a measured answer to 'how long does the post take?'"
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Clair Patterson (1922–1995), USA",
+      "idea": "Patterson, a geochemist, measured the age of the Earth (about 4.5 billion years) in 1956. To do it he had to measure tiny amounts of lead, and found lead contamination everywhere. He showed that the lead in the air, oceans and people's bodies had shot up in modern times, mainly from the lead added to petrol since the 1920s, and argued it was harming people's health.",
+      "then": "Oil and lead companies, and scientists working with them, said the lead was natural and harmless. Patterson lost some research funding and was kept off a 1971 national committee on lead pollution.",
+      "now": "He was right. Evidence grew that lead harms children's brains even in small amounts. The USA began phasing out leaded petrol in the 1970s; India stopped selling it nationwide in 2000; the last country stopped in 2021. Lead levels in people's blood have fallen sharply.",
+      "status": "accepted",
+      "ask": "Patterson found lead in ancient ice and in modern ice. Why was comparing old and new samples such strong evidence that cars were the cause?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Antonio Meucci (1808–1889), Elisha Gray (1835–1901) and Alexander Graham Bell (1847–1922)",
+      "idea": "Bell was granted the US patent for the telephone in 1876. On the same day his lawyer filed his application, Elisha Gray filed a notice about a similar invention. Years earlier, Antonio Meucci, an Italian living in New York, had built voice-carrying devices and in 1871 filed a notice of his invention, but he was poor and could not pay to renew it.",
+      "then": "Bell's patent was challenged in many court cases, including one about Meucci, but Bell's company won, and Bell became famous as the inventor.",
+      "now": "Historians still argue about how much credit each deserves. In 2002 the US House of Representatives passed a resolution honouring Meucci's work on the telephone. Most agree Bell was the first to patent and develop a practical telephone, while others had important earlier ideas.",
+      "status": "debated",
+      "ask": "Who should be called the inventor: the person who had the idea first, the one who made it work well, or the one who got the patent? What evidence would you look for?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Jagadish Chandra Bose (1858–1937), India",
+      "idea": "Working at Presidency College in Calcutta (Kolkata) in the 1890s, Bose made and studied very short radio waves, called millimetre waves, sending them across rooms and through walls, and built new kinds of detectors for them. He chose not to patent most of his inventions, saying knowledge should be shared.",
+      "then": "His papers were published by the Royal Society in London and he was praised by scientists there, but radio became famous through Guglielmo Marconi, who sent signals across the Atlantic in 1901 and shared the 1909 Nobel Prize in Physics.",
+      "now": "Bose's pioneering work on millimetre waves is accepted; in 2012 the IEEE, the world's largest engineering society, honoured it with a 'Milestone' plaque. Whether a detector Marconi used in 1901 was based on Bose's design is still argued about by historians.",
+      "status": "debated",
+      "ask": "Bose shared his ideas freely instead of patenting them. Is that better for the world? What did it mean for how famous he became?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "Vikram Sarabhai (1919–1971) and the Satellite Instructional Television Experiment (SITE), India",
+      "idea": "Sarabhai, the founder of India's space programme, argued that a poor country needed space technology most of all, to reach villages with education. He planned for a satellite to carry TV lessons to villages that had no TV signal.",
+      "then": "Some people asked whether India could afford space projects when so many people were poor. Sarabhai died in 1971, before the experiment began.",
+      "now": "In 1975–76, using a borrowed American satellite (ATS-6), SITE broadcast programmes on farming, health, family planning and schooling to TV sets in about 2,400 villages in six states. It is widely seen as a success that led to India's own INSAT satellites for TV, weather and communication.",
+      "status": "accepted",
+      "ask": "If you had only a little money, would you spend it on a satellite or on more schools? What would you need to know to decide?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {
+      "q": "Why did the wheel change the world? What did our roller test show?",
+      "a": "Rolling has much less friction than dragging, so heavy loads can be moved easily. The rubber band stretched most when dragging, less on rollers and least on wheels."
+    },
+    {
+      "q": "Name the five kinds of transport in the lesson with one example of each.",
+      "a": "Road (bus, truck, cycle, bullock cart), rail (train, metro), water (boat, ship), air (aeroplane, helicopter), pipeline (water, petrol, cooking gas)."
+    },
+    {
+      "q": "What do red, yellow and green traffic lights mean, and why do we need road signs?",
+      "a": "Red: stop before the line; yellow: get ready to stop, wait and look; green: go carefully. Signs warn about the road ahead and control traffic so accidents are prevented."
+    },
+    {
+      "q": "When and where did India's first train run, and what pulled it?",
+      "a": "In 1853, from Mumbai (Bombay) to Thane, about 34 km. It was pulled by steam engines (the book says horses, but that is not correct)."
+    },
+    {
+      "q": "What is communication? Name three old ways and three new ways.",
+      "a": "Sharing feelings, views and information with others. Old: drums, smoke or fire, messengers on horses, pigeons, letters. New: telephone, radio, TV, internet, email, mobile phones."
+    },
+    {
+      "q": "How did our string telephone work, and why did it stop when the string was pinched?",
+      "a": "Speaking makes the cup shake; the shaking (vibration) travels along the tight string to the other cup and ear. Pinching the string stops the vibration from passing."
+    },
+    {
+      "q": "How do ants and dogs communicate or find things?",
+      "a": "By smell. Ants lay a smelly trail from food to the nest for others to follow; dogs find things by sniffing."
+    },
+    {
+      "q": "Our book had some mistakes, like 'the Wright brothers flew in a balloon'. What is true, and how can we check a fact?",
+      "a": "In 1903 the Wright brothers flew the first engine-powered aeroplane. We can check facts in other trusted books, encyclopaedias, museums or official sources, and see if they agree."
+    }
+  ]
+}

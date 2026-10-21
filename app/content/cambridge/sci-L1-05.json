@@ -1,0 +1,942 @@
+{
+  "key": "cambridge|sci|1|5",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 1,
+  "n": 5,
+  "title": "Pushes and pulls",
+  "source": "Cambridge Primary Science Learner's Book 1 (Cambridge University Press, 2014), Unit 5 'Pushes and pulls' (pages 42–51)",
+  "summary": "Your child explores the many ways we move (swinging, running, jumping, turning), finds out that a push or a pull makes things move, and makes a push or pull toy. They spot pushes and pulls in machines and around the home, find out why some things do not move when pushed, and learn that pushes and pulls can make things go faster, go slower, change direction and stop. Simple tests with ramps, a balloon rocket and a rubber-band 'pull meter' show the ideas in action.",
+  "goals": [
+    "By the end your child can name and show different ways of moving: swinging, running, jumping, turning, sliding, rolling.",
+    "By the end your child can say whether a push or a pull is used to move a toy, open a door, ride a bicycle or move a cart.",
+    "By the end your child can show that a bigger push makes something move faster and further, and explain why a heavy thing needs a bigger push.",
+    "By the end your child can use pushes and pulls to make a ball go faster, slower, a different way, and stop.",
+    "By the end your child can explain that rough surfaces slow things down, and plan a fair test with a toy car or a ramp."
+  ],
+  "words": [
+    [
+      "moving",
+      "changing place; going from one spot to another"
+    ],
+    [
+      "swing",
+      "to move backwards and forwards, hanging from something, like a jhoola"
+    ],
+    [
+      "run / jump / turn",
+      "ways our body moves: running is fast stepping, jumping is pushing off the ground into the air, turning is changing the way we face"
+    ],
+    [
+      "push",
+      "to press something away from you, like pushing a door open or a pram along"
+    ],
+    [
+      "pull",
+      "to bring something towards you, like pulling a drawer open or a kite string"
+    ],
+    [
+      "force",
+      "the scientists' word for a push or a pull"
+    ],
+    [
+      "faster / slower",
+      "moving with more speed / with less speed"
+    ],
+    [
+      "stop",
+      "to stop moving; a push or pull against the movement can stop something"
+    ],
+    [
+      "direction",
+      "the way something is going, like left, right, up or down"
+    ],
+    [
+      "friction",
+      "the rubbing push between two surfaces that slows moving things down; rough surfaces have more friction"
+    ],
+    [
+      "machine",
+      "something people make to help push or pull, like a bulldozer, crane, tractor or bicycle"
+    ]
+  ],
+  "day_mins": 30,
+  "days": [
+    {
+      "n": 1,
+      "title": "How do we move?",
+      "goal": "Look at the playground on page 42 and find different ways of moving in a real park, as in Activity 5.1.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Move like…",
+          "mins": 5,
+          "do": "Call out and let your child act: 'Move like a snake! (slide) A kangaroo! (jump) A ceiling fan! (turn round and round) A cheetah! (run) A jhoola! (swing your arms back and forth).' Ask: 'Which one was the fastest? Which one stayed in one place?' (Turning on the spot.)"
+        },
+        {
+          "kind": "read",
+          "title": "In the playground (page 42)",
+          "mins": 7,
+          "do": "Open page 42 and read: 'How are these children moving?' Your child points to each child and says how they move: swinging on the swing (and the mother pushing it), sliding down the slide, climbing the frame, riding a bicycle (pedalling), pulling a toy car on a string, running, turning the roundabout, jumping for joy, carrying and about to kick or throw a ball. Ask: 'Who is pushing? Who is pulling?' (The mother is pushing the swing; the boy is pulling the toy car; the girl is pushing the roundabout round.) Read the 'Words to learn': moving, run, turn, swing, jump."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Activity 5.1: Moving around (page 43)",
+          "mins": 15,
+          "do": "Do Activity a1. Read Activity 5.1 on page 43: 'Go to a playground. Find different ways to move.' Look at the four pictures: I can swing, I can run, I can jump, I can turn. At the park or society play area, your child tries each one and at least three more: slide, climb, hop on one foot, roll down a grassy slope, skip. After each, read the line 'Tell your friends how you are moving' and ask them to say it in a sentence: 'I am swinging. Mumma pushes me and I go back and forth.' Ask on the swing: 'How can you make the swing go higher without anyone pushing you?' (Kick legs forward and lean back at the right time.) Take a photo of each move for the notebook.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "What made you move?",
+          "mins": 3,
+          "do": "On the way home ask: 'When you jumped, what did your legs do to the ground?' (They pushed down on it, and we went up.) 'When you climbed, did your arms push or pull?' (Pull.) Say: 'Every way of moving needs a push or a pull. This week we find out how.' Read 'What you have learnt' on page 43."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 42–43",
+        "a park or play area",
+        "a phone camera (optional)"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Moving in space",
+      "goal": "Think about how the astronaut on page 43 moves, meet Kalpana Chawla, and see a push from air make a balloon rocket move.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Moving in space (page 43)",
+          "mins": 5,
+          "do": "Look at the photo of the astronaut at the bottom of page 43 and read: 'Moving in space can be hard. How is the astronaut moving?' Good answers: 'She is floating; she can't walk because she doesn't stay on the floor; she pushes on the wall or pulls on a handle to move.' Explain: 'In a spaceship going round the Earth, things don't fall to the floor, so they float. To move, astronauts push off a wall with their hands or feet, and they keep drifting until they grab something to stop.'"
+        },
+        {
+          "kind": "think",
+          "title": "Kalpana Chawla",
+          "mins": 9,
+          "do": "Tell your child about Voice v1, Kalpana Chawla, who grew up in Karnal in Haryana and became the first woman born in India to go into space. Ask: 'If you were floating in a spaceship and wanted to go to the window, what would you do?' (Push off the opposite wall towards the window.) 'How would you stop?' (Grab a handle: a pull.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "exp",
+          "title": "Balloon rocket",
+          "mins": 16,
+          "do": "Do Experiment e4. Thread a long string (3–4 metres) through a drinking straw and tie the string tightly between two chair backs or door handles across the room. Blow up a balloon, pinch the neck (don't tie it), and tape it under the straw with the neck pointing towards one chair. Ask your child to guess first: 'When I let go, which way will the balloon go?' Let go and watch it zoom. Do it three times: with a small amount of air, a medium amount and a big balloon. Mark where it stops each time with a clothes peg and measure. Ask: 'Why did it move?' (The air rushed out backwards and pushed the balloon forwards.) 'Which went furthest?' (The biggest balloon, because it pushed for longer.)",
+          "ref": "e4"
+        }
+      ],
+      "need": [
+        "Learner's Book page 43",
+        "3–4 metres of string",
+        "a drinking straw",
+        "2 balloons",
+        "sticky tape",
+        "2 chairs",
+        "clothes pegs and a tape measure"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "How toys work",
+      "goal": "Learn that a push or a pull can make things move, using the toys on page 44 and our own toys, and start making a pull toy.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How toys work (page 44)",
+          "mins": 6,
+          "do": "Open page 44 and read: 'How do these toys work?' Look at the four toys: a push-along truck with a handle, a toy train, a bicycle, and a giraffe on wheels with a string. Read: 'A push or a pull can make things move. Which toys do you pull? Which toys do you push?' Good answers: the giraffe and the train are pulled with strings; the truck is pushed with its handle; the bicycle is pushed by your feet on the pedals and you push or pull the handlebars to steer. Read the 'Words to learn': push, pull."
+        },
+        {
+          "kind": "game",
+          "title": "Toy box sort",
+          "mins": 7,
+          "do": "Bring out your child's toys (a ball, a toy car, a spinning top or lattu, a kite, a yo-yo, a skipping rope, blocks, a doll's pram). Your child moves each one and says 'push' or 'pull' or 'both'. Make two piles plus a 'both' pile. Discuss tricky ones: a lattu is pulled by the string to make it spin; a yo-yo is pulled up by the string and pulled down by its own weight; a kite is pulled by the string and pushed by the wind; a ball can be pushed (kicked or thrown) or pulled (rolled back with your hand)."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 5.2: A moving toy, part 1 (page 45)",
+          "mins": 17,
+          "do": "Start Activity a2, the book's Activity 5.2. Read page 45: 'Make a push or pull toy like these. Ahmed has made this toy. It moves when you pull it. Anita has made this toy. It moves when you push it.' Your child chooses to make a pull toy like Ahmed's or a push toy like Anita's. Build the body today: a small cardboard box (a toothpaste carton or juice tetrapack works well). Push two plastic straws through the sides near the bottom (a grown-up makes holes with a pencil tip). These are the axle tubes. Make 4 wheels from bottle caps with a hole poked in the middle (grown-up job), and push a wooden skewer or ice-cream stick through each straw. Fix a cap on each end with a blob of clay or tape. Test that the wheels turn. Tomorrow we add the string or the push stick and test it.",
+          "ref": "a2"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 44–45",
+        "toys from home",
+        "a small cardboard box or tetrapack",
+        "2 plastic straws",
+        "4 bottle caps",
+        "2 wooden skewers (ends blunted) or ice-cream sticks",
+        "clay or tape",
+        "a pencil (to make holes)"
+      ],
+      "prep": [
+        {
+          "task": "Collect a small box, 4 bottle caps, 2 straws and 2 skewers; make holes in the bottle caps with a heated nail or a sharp tool",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Big push, small push",
+      "goal": "Finish and test the push or pull toy, and test whether a bigger push makes a toy car go further.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 5.2: A moving toy, part 2 (page 45)",
+          "mins": 10,
+          "do": "Finish Activity a2. For a pull toy, tie a 50 cm string to the front. For a push toy, tape a short bamboo stick, ruler or a rolled-paper pole to the back, like Anita's. Your child decorates it (a bus, a tempo, an auto-rickshaw). Read the last line of the activity: 'Talk about how you make your toy move.' Ask your child to say it: 'I pull the string and the car comes towards me. If I pull harder, it goes faster.' Ask: 'Can you push a pull toy with its string?' (No, the string goes floppy: strings can only pull.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "The ramp test",
+          "mins": 20,
+          "do": "Do Experiment e1. Make a ramp from a tray or a board leaning on 3 books, with a long clear floor in front. Your child holds a toy car at the top and, instead of just letting it go, gives it three different pushes: a tiny push, a medium push, a big push. Ask your child to guess first: 'Which push will make it go the furthest?' For each push, mark where the car stops with a sticky note or a coin, and measure from the bottom of the ramp with a tape or by counting footsteps. Then try without any push from the same place: does it still move? (Yes, the Earth pulls it down the slope.) Then try a ramp of 1 book and 5 books. Record results in a table. Ask: 'What did a bigger push do?' (It made the car go faster and further.) 'Why should we use the same car and the same floor every time?' (To keep it fair.)",
+          "ref": "e1"
+        }
+      ],
+      "need": [
+        "the toy from Day 3",
+        "string, a short stick or ruler, tape, crayons",
+        "a tray or board and 5 books for the ramp",
+        "a toy car",
+        "sticky notes or coins",
+        "a tape measure"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Pushes and pulls around us",
+      "goal": "Find machines that push and pull (page 46) and label pushes and pulls around the home with sticky notes (Activity 5.3).",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "This bulldozer is pushing (page 46)",
+          "mins": 6,
+          "do": "Open page 46 and read: 'This bulldozer is pushing. What other machines push or pull to make things?' Point to the big blade at the front pushing the earth and rocks. Ask your child to name machines they have seen in India: a JCB digger scooping and pushing soil at a building site; a tractor pulling a trolley full of sugarcane; a crane pulling heavy beams up with a hook and cable; a lift pulled up by cables; a road roller pushing the tar flat; a train engine pulling the coaches; a bullock cart pulled by bullocks; a hand cart (thela) pushed by a vegetable seller. Ask: 'Push or pull?' for each."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 5.3: Push or pull? (page 47)",
+          "mins": 14,
+          "do": "Do Activity a3, the book's Activity 5.3, around your home. Read: 'Look around your classroom. Can you see things you can push or pull?' Look at the picture on page 47: the door says 'pull', the drawer says 'pull', the keyboard says 'push'. Give your child sticky notes (or small paper squares and tape) with PUSH, PULL or BOTH written on them. Before touching each thing they guess and write a note; then, as the book says, 'Try to push or pull them. Were you right? Label the things that you find.' Ideas: the main door (push to open from one side, pull from the other), almirah door (pull), drawers (pull open, push shut), light switch (push), fridge door (pull), tap (turn: a push on one side and a pull on the other), curtain (pull), mixer button (push), zip (pull), pressure-cooker lid (push down and turn). Count how many of each.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core). Read each item aloud; your child answers by pointing, matching or saying the answer, and you write it if needed.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 46–47",
+        "sticky notes or paper squares and tape",
+        "a marker",
+        "Worksheet ws1"
+      ],
+      "prep": [
+        {
+          "task": "Write 10 sticky notes each of PUSH, PULL and BOTH",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Why don't some things move?",
+      "goal": "Answer the boulder question on page 47, feel how heavy things need a bigger push, and play tug of war.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The boulder (page 47)",
+          "mins": 5,
+          "do": "Look at the photo of the huge boulder at the bottom of page 47 and read: 'Why do some things not move when you push them?' Let your child try pushing a wall: 'Is it moving?' (No.) Good answers: 'The boulder is too heavy; my push is too small; it is stuck in the ground; the rough ground holds it.' Say: 'To move something, your push must be bigger than whatever is holding it back.' Read 'What you have learnt' on page 47: 'We have to push and pull to make things work.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Empty box, full box",
+          "mins": 13,
+          "do": "Do Experiment e3. Use a cardboard box or a plastic crate on the floor. First it is empty: your child pushes it across the room. Then add 5 books and push again. Then 15 books, or ask a sibling to sit in it. Ask your child to guess first: 'Which will be hardest to start moving? Which will stop fastest when you let go?' After each push ask: 'Was it easy or hard? Did you need to push harder?' Then try pulling the full box with a dupatta tied to it. Ask: 'Is it easier to push or pull?' Then put the full box on a towel and pull the towel instead: often easier. Explain: 'Heavier things need a bigger push or pull to start moving, and they press harder on the floor, so the floor rubs against them more.'",
+          "ref": "e3"
+        },
+        {
+          "kind": "game",
+          "title": "Tug of war",
+          "mins": 7,
+          "do": "Play tug of war with a dupatta or a thick rope: you against your child (pull gently, then let them win), then your child and a sibling against you. Ask: 'When we both pulled the same amount, what happened?' (Nobody moved: the pulls were balanced.) 'When you pulled harder, what happened?' (The rope moved your way.) 'What if two people pull together on one side?' (A bigger pull, so they win.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Pushes that help us",
+          "mins": 5,
+          "do": "Ask: 'How do people move very heavy things, like a stuck car or a fridge?' (More people push together; use a machine like a crane or a jack; put rollers or wheels under it.) Tell them that people long ago moved huge stones for temples and forts by putting logs underneath as rollers and pulling with ropes, elephants or many people together. Ask: 'Why do wheels make pushing easier?' (Things roll instead of rubbing along the ground.)"
+        }
+      ],
+      "need": [
+        "Learner's Book page 47",
+        "a cardboard box or plastic crate",
+        "15 books",
+        "a dupatta or rope",
+        "a towel"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Changing movement",
+      "goal": "Read about Adjo on page 48 and play the ball game in Activity 5.4 to make a ball go faster, slower, a different way, and stop.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Adjo is being pulled along (page 48)",
+          "mins": 5,
+          "do": "Open page 48, 'Changing movement'. Read: 'Adjo is being pulled along. What is going to happen?' Look at the picture: Adjo is on roller skates holding his friend's hand while the friend runs. Good answers: 'He will go faster and faster; if his friend lets go he will keep rolling, then slow down and might fall; he might crash into the fence.' Read: 'How can Adjo turn?' (His friend pulls him to one side; or he leans and pushes with one skate sideways.) Read the 'Words to learn': faster, slower, stop."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Activity 5.4: How can balls move? (page 49)",
+          "mins": 15,
+          "do": "Do Activity a4, the book's Activity 5.4, in a park or open courtyard with a ball. Read the four questions on page 49 and try each one: 'How can you make a ball go faster?' (Kick or hit it harder, like a cricket shot; roll it down a slope.) 'How can you make a ball go slower?' (Push against it gently with your foot; roll it onto grass or sand.) 'How can you make a ball go a different way?' (Kick it from the side; bounce it off a wall; head it, like the girl in the picture.) 'How can you make a ball stop?' (Catch it, trap it under your foot, or let it hit a wall.) Look at the four pictures at the bottom of page 49 and say what each child is doing: kicking (push to go faster), heading (push to change direction), catching (push against it to stop), throwing (push to go). Read 'What you have learnt' on page 49.",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "Galileo and the rolling ball",
+          "mins": 10,
+          "do": "Tell your child about Voice v2. 'Long ago people believed that a moving thing stops by itself unless something keeps pushing it. Galileo rolled balls down slopes and found that the smoother he made the surface, the further the balls rolled. He said a ball would keep rolling for ever if nothing rubbed against it or pushed it back.' Roll a marble on a smooth tile floor and then on a carpet or mat. Ask: 'Where did it roll further? What stopped it?' Then ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 48–49",
+        "a ball",
+        "a park or courtyard",
+        "a marble",
+        "a smooth floor and a carpet or mat"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "What slows things down?",
+      "goal": "Test how different surfaces slow things down using a rubber-band pull meter, and hear how friction was discovered.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The rubber-band pull meter",
+          "mins": 15,
+          "do": "Do Experiment e2. Fill a small steel tiffin or a pencil box with a few coins so it is heavy, and loop a rubber band through its handle or tape it to one end. Put the box on a smooth tile floor. Your child pulls the free end of the rubber band slowly with a ruler next to it and reads how long the rubber band stretches just before the box starts to slide. Ask your child to guess first: 'On which surface will the rubber band stretch most?' Repeat on a towel, a doormat or carpet, and a sheet of sandpaper or a jute mat, and on a sheet of newspaper sprinkled with a little talcum powder. Record the stretch in centimetres. Ask: 'Where did you need the biggest pull?' (On the rough doormat.) 'Where was it easiest?' (On the smooth or powdered surface.) Say: 'The push from the floor that stops things sliding is called friction. Rough surfaces have more of it.'",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Leonardo da Vinci and Guillaume Amontons on friction",
+          "mins": 7,
+          "do": "Tell your child about Voice v3. Then test one of their surprising ideas: put the same pencil box flat and then on its narrow side and pull with the rubber band on the same floor. Ask your child to guess first whether the big flat side or the narrow side needs a bigger pull. (Usually about the same!) Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Read each item aloud; your child answers aloud or by drawing and you write their words.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "a small steel tiffin or pencil box with a few coins",
+        "a rubber band and tape",
+        "a ruler",
+        "a towel, doormat, sandpaper or jute mat, newspaper and talcum powder",
+        "Worksheet ws2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Check your progress",
+      "goal": "Do the book's Check your progress on pages 50–51 and the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Questions 1 and 2 (page 50)",
+          "mins": 5,
+          "do": "Question 1: 'Is she pulling or pushing?' (Pushing the pram: her hands press it away from her.) Question 2: 'How is the boy moving?' (He is swinging, backwards and forwards. The man is pushing the swing to make him go.) Ask: 'What would happen if the man stopped pushing?' (The swing would slowly go less high and stop.)"
+        },
+        {
+          "kind": "review",
+          "title": "Questions 3 and 4 (page 51)",
+          "mins": 10,
+          "do": "Question 3: look at the four photos: a Rajasthani dancer spinning in her wide skirt, a horse pulling a tonga (carriage), a person on a zip line or rope swing in the snow, and a wheelchair racer. Read: 'How are these people moving? Can you find turning, swinging, pushing and pulling?' Good answers: the dancer is turning; the horse is pulling the tonga; the person on the rope is swinging (sliding along a rope); the wheelchair racer is pushing the wheels with his hands. Question 4: Vishni and Chipo are riding bicycles. 'How can Chipo go faster?' (Push harder and faster on the pedals.) 'How can Vishni slow down?' (Squeeze the brakes so they rub on the wheels, or stop pedalling.) 'How can they turn?' (Push one side of the handlebars and pull the other.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 15,
+          "do": "Do Worksheet ws3 (challenge) together. Ask 'How could we test that?' after each 'what if' answer.",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 50–51",
+        "Worksheet ws3"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Unit check and teach it back",
+      "goal": "Check understanding and have your child teach the unit back using the toys and tests of the week.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed one, act it out with a ball or the toy, then ask again in different words. Fewer than 4 right means repeat the ball game and the ramp test next week."
+        },
+        {
+          "kind": "game",
+          "title": "Push-pull charades",
+          "mins": 7,
+          "do": "Take turns acting a push or pull action without words; the other guesses the action and says 'push' or 'pull': drawing water from a well with a rope (pull), closing the fridge (push), flying a kite (pull), pushing a cycle uphill (push), rowing a boat (pull the oars), kneading atta (push), opening an umbrella (push), skipping (both)."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is the teacher. Using their push or pull toy, the ramp and a ball, they teach you (or a grandparent) in 5 minutes: ways of moving; push and pull; how a bigger push makes things go faster and further; how pushes and pulls make things slow down, turn and stop; and why rough surfaces slow things down. Ask two 'student' questions: 'Why can't I move the almirah on my own?' and 'How does a cricket fielder stop the ball?' Then they set up the balloon rocket again and explain it."
+        }
+      ],
+      "need": [
+        "the push or pull toy, ramp, toy car, ball and balloon rocket"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Moving, pushing and pulling",
+      "day": 5,
+      "sections": [
+        [
+          "A. Ways of moving",
+          [
+            {
+              "t": "match",
+              "p": "Match the picture word to the movement.",
+              "pairs": [
+                [
+                  "Jhoola",
+                  "Swing"
+                ],
+                [
+                  "Lattu",
+                  "Turn"
+                ],
+                [
+                  "Race",
+                  "Run"
+                ],
+                [
+                  "Skipping rope",
+                  "Jump"
+                ]
+              ]
+            },
+            {
+              "t": "draw",
+              "p": "Draw yourself moving in your favourite way. Write the word."
+            }
+          ]
+        ],
+        [
+          "B. Push or pull?",
+          [
+            {
+              "t": "sort",
+              "p": "Is it a push or a pull?",
+              "items": [
+                "Opening a drawer",
+                "Kicking a ball",
+                "Flying a kite",
+                "Closing a door",
+                "Pressing a switch",
+                "Drawing water from a well"
+              ],
+              "cats": [
+                "Push",
+                "Pull"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "A toy giraffe on wheels with a string is:",
+              "opts": [
+                "Pushed",
+                "Pulled",
+                "Neither"
+              ],
+              "a": 1
+            },
+            {
+              "t": "fill",
+              "p": "A push or a ____ can make things move.",
+              "a": [
+                "pull"
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Machines",
+          [
+            {
+              "t": "match",
+              "p": "What does each machine do?",
+              "pairs": [
+                [
+                  "Bulldozer",
+                  "Pushes soil and rocks"
+                ],
+                [
+                  "Tractor",
+                  "Pulls a trolley"
+                ],
+                [
+                  "Crane",
+                  "Pulls heavy things up"
+                ],
+                [
+                  "Road roller",
+                  "Pushes the road flat"
+                ]
+              ]
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Changing movement",
+      "day": 8,
+      "sections": [
+        [
+          "A. Faster, slower, turn, stop",
+          [
+            {
+              "t": "match",
+              "p": "What does the push or pull do?",
+              "pairs": [
+                [
+                  "Kicking a rolling ball harder",
+                  "Faster"
+                ],
+                [
+                  "Catching a ball",
+                  "Stop"
+                ],
+                [
+                  "Hitting the ball from the side",
+                  "Change direction"
+                ],
+                [
+                  "Squeezing cycle brakes",
+                  "Slower"
+                ]
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "A marble rolls furthest on:",
+              "opts": [
+                "A doormat",
+                "A smooth tile floor",
+                "Sand"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Our tests",
+          [
+            {
+              "t": "table",
+              "p": "Write your ramp test results.",
+              "cols": [
+                "Push",
+                "How far the car went"
+              ],
+              "rows": 3,
+              "prefill": [
+                "Tiny push",
+                "Medium push",
+                "Big push"
+              ]
+            },
+            {
+              "t": "write",
+              "p": "What did a bigger push do to the car?",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "The full box was harder to push than the empty box because:",
+              "opts": [
+                "It was heavier",
+                "It was a different colour",
+                "It was smaller"
+              ],
+              "a": 0
+            }
+          ]
+        ],
+        [
+          "C. Explain",
+          [
+            {
+              "t": "write",
+              "p": "A vegetable seller pushes a heavy thela. Why does it have wheels?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "Why do kabaddi players get pushed out of the court more easily on a slippery floor?",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Push and pull puzzles",
+      "day": 9,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "mcq",
+              "p": "In tug of war, both teams pull equally hard. What happens?",
+              "opts": [
+                "The rope moves to the left",
+                "The rope does not move",
+                "The rope breaks"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "An astronaut floating in a spaceship pushes off a wall. What happens next?",
+              "opts": [
+                "She stops at once",
+                "She keeps drifting until something stops her",
+                "She falls to the floor"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "The balloon rocket moved forwards when the air came out backwards. Where else have you seen something pushed one way by pushing the other way?",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "B. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if there was no friction at all? Could you walk? Could a car stop? Explain.",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "What if your cycle brakes did not work? How else could you stop safely?",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "C. Old ideas and new",
+          [
+            {
+              "t": "mcq",
+              "p": "Aristotle thought a moving thing stops because nothing is pushing it. Galileo thought:",
+              "opts": [
+                "It stops because of friction and things in its way",
+                "It stops because it gets tired",
+                "It never moves"
+              ],
+              "a": 0
+            },
+            {
+              "t": "write",
+              "p": "Plan a fair test to find out whether a toy car rolls further on a towel or on newspaper. What will you keep the same?",
+              "lines": 4
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The ramp test: does a bigger push make it go further?",
+      "day": 4,
+      "question": "Does a bigger push make a toy car go faster and further?",
+      "need": [
+        "a tray or board",
+        "5 books",
+        "a toy car",
+        "sticky notes or coins as markers",
+        "a tape measure",
+        "a long clear floor"
+      ],
+      "steps": [
+        "Lean the tray on 3 books to make a ramp.",
+        "Hold the car at the top. Give it a tiny push. Mark where it stops and measure from the bottom of the ramp.",
+        "Repeat from the same place with a medium push and a big push.",
+        "Let it go with no push at all and measure.",
+        "Change the ramp to 1 book and then 5 books, letting the car go with no push each time.",
+        "Record all results in a table."
+      ],
+      "predict": "Ask your child to guess first: 'Which push will make the car go furthest? Will the car move at all if you don't push it? What will a steeper ramp do?'",
+      "observe": "Distances for each push and each ramp height. A bigger push and a steeper ramp make the car go faster and further. With no push the car still rolls down the ramp.",
+      "why": "A push is a force, and a bigger force makes a thing speed up more, so it moves faster. A faster car takes longer for the floor's rubbing (friction) to slow it to a stop, so it travels further. Even without our push, the car rolls because the Earth pulls everything down (gravity), and on a slope part of that pull points along the ramp. A steeper ramp means more of that pull is along the slope, so the car gets faster. Using the same car, the same floor and the same starting point keeps the test fair.",
+      "safety": "Keep the floor clear so nobody trips over the ramp.",
+      "time": "20 min"
+    },
+    {
+      "id": "e2",
+      "title": "The rubber-band pull meter: which surface slows things most?",
+      "day": 8,
+      "question": "On which surface is it hardest to start something sliding?",
+      "need": [
+        "a small steel tiffin or pencil box with some coins inside",
+        "a rubber band",
+        "tape",
+        "a ruler",
+        "tile floor, towel, doormat or carpet, sandpaper or jute mat, newspaper with talcum powder"
+      ],
+      "steps": [
+        "Loop or tape the rubber band to one end of the box.",
+        "Lay a ruler beside the rubber band on the tile floor.",
+        "Pull the rubber band slowly and note how far it stretches just before the box starts to move.",
+        "Repeat three times and take the middle value.",
+        "Repeat on each surface with the same box and the same rubber band.",
+        "Record the stretch for each surface."
+      ],
+      "predict": "Ask your child to guess first: 'On which surface will the rubber band stretch most before the box moves?'",
+      "observe": "The stretch in cm on each surface. Rough surfaces (doormat, sandpaper, jute) need the most stretch; smooth tile and powdered newspaper need the least.",
+      "why": "The more a rubber band stretches, the harder it is pulling, so the stretch measures the size of our pull. Friction is a force between two surfaces that pushes against sliding. Rough surfaces have more and bigger bumps that catch on each other and grip, so you need a bigger pull to start the box moving. Smooth or powdered surfaces have fewer grips, so a small pull is enough. Friction is useful: it lets our feet and tyres grip the ground and lets brakes stop a cycle.",
+      "safety": "Do not stretch the rubber band near anyone's face; it can snap.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Empty box, full box",
+      "day": 6,
+      "question": "Do heavy things need a bigger push to move?",
+      "need": [
+        "a cardboard box or plastic crate",
+        "15 books",
+        "a dupatta or rope",
+        "a towel"
+      ],
+      "steps": [
+        "Push the empty box across the floor and notice how hard it is.",
+        "Put 5 books inside and push again.",
+        "Put 15 books inside (or a sibling) and push again.",
+        "Tie a dupatta to the full box and pull it.",
+        "Put the full box on a towel and pull the towel."
+      ],
+      "predict": "Ask your child to guess first: 'Which box will be hardest to start moving? Which will stop fastest when you stop pushing?'",
+      "observe": "How hard each push felt, and how quickly the box stopped. The heavier the box, the harder it is to start and the faster it stops on the floor. Pulling on a towel can be easier.",
+      "why": "A heavier object needs a bigger force to get it moving. A heavier box also presses down harder on the floor, so friction (the floor's rubbing against it) is bigger, and that slows and stops it sooner. Putting it on a towel moves the sliding to between towel and smooth floor, which can grip less. This is why the boulder on page 47 does not move when you push it: your push is much smaller than what holds it back.",
+      "safety": "Bend your knees and push with your legs; don't lift heavy boxes. A grown-up should supervise if a child sits in the box.",
+      "time": "13 min"
+    },
+    {
+      "id": "e4",
+      "title": "Balloon rocket",
+      "day": 2,
+      "question": "Can air push something along?",
+      "need": [
+        "3–4 m of string",
+        "a drinking straw",
+        "balloons",
+        "sticky tape",
+        "2 chairs",
+        "clothes pegs",
+        "a tape measure"
+      ],
+      "steps": [
+        "Thread the string through the straw and tie it tightly between two chairs.",
+        "Blow up a balloon, pinch the neck shut and tape it under the straw.",
+        "Slide it to one end with the neck pointing at that chair.",
+        "Let go and watch. Mark where it stops with a peg.",
+        "Repeat with a little air, some air and a lot of air. Measure each distance."
+      ],
+      "predict": "Ask your child to guess first: 'Which way will the balloon go when I let go? Will more air make it go further?'",
+      "observe": "The balloon shoots along the string in the direction opposite to where the air rushes out. More air usually makes it go further.",
+      "why": "The stretched rubber of the balloon squeezes the air inside and pushes it out of the neck. When the balloon pushes air backwards, the air pushes the balloon forwards just as hard. Every push has an equal push back the other way. Rockets that take astronauts into space work the same way: they push hot gas down very fast, and the gas pushes the rocket up. A bigger balloon pushes air out for longer, so it keeps speeding up for longer and goes further.",
+      "safety": "Balloons can be a choking risk for small children; throw away burst pieces at once.",
+      "time": "16 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Moving around (book Activity 5.1)",
+      "day": 1,
+      "mins": 15,
+      "need": [
+        "a park or play area",
+        "a phone camera (optional)"
+      ],
+      "steps": [
+        "Try the four moves in the book: swing, run, jump, turn.",
+        "Try three more: slide, climb, hop, roll or skip.",
+        "After each, say a sentence about how you moved.",
+        "Take a photo of each move for the notebook."
+      ],
+      "outcome": "Photos and sentences about at least seven ways of moving."
+    },
+    {
+      "id": "a2",
+      "title": "A moving toy (book Activity 5.2)",
+      "day": 3,
+      "mins": 27,
+      "need": [
+        "a small cardboard box or tetrapack",
+        "2 plastic straws",
+        "4 bottle caps with holes",
+        "2 blunted wooden skewers or ice-cream sticks",
+        "clay or tape",
+        "string or a short stick",
+        "crayons"
+      ],
+      "steps": [
+        "Push two straws through the bottom of the box as axle tubes (a grown-up makes the holes).",
+        "Push a skewer through each straw.",
+        "Fix a bottle-cap wheel on each end with clay or tape.",
+        "Test that the wheels spin.",
+        "Add a pull string at the front or a push stick at the back.",
+        "Decorate it and test it on the floor."
+      ],
+      "outcome": "A home-made push or pull toy that rolls, and a child who can explain how they make it move."
+    },
+    {
+      "id": "a3",
+      "title": "Push or pull labels (book Activity 5.3)",
+      "day": 5,
+      "mins": 14,
+      "need": [
+        "sticky notes or paper squares with PUSH, PULL and BOTH",
+        "tape"
+      ],
+      "steps": [
+        "Walk around the home.",
+        "Before touching each thing, guess and stick a label on it.",
+        "Try to push or pull it. Were you right? Change the label if not.",
+        "Count the labels of each kind."
+      ],
+      "outcome": "A home full of push and pull labels, and a count of each."
+    },
+    {
+      "id": "a4",
+      "title": "How can balls move? (book Activity 5.4)",
+      "day": 7,
+      "mins": 15,
+      "need": [
+        "a ball",
+        "an open space and a wall"
+      ],
+      "steps": [
+        "Make the ball go faster: kick or hit it harder.",
+        "Make it go slower: push gently against it, or roll it onto grass.",
+        "Make it go a different way: kick it from the side or bounce it off a wall.",
+        "Make it stop: catch it or trap it under your foot.",
+        "Say each time whether you used a push or a pull."
+      ],
+      "outcome": "A child who can show four ways a push or pull changes a ball's movement."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Kalpana Chawla (1962–2003), India and USA",
+      "idea": "Kalpana Chawla grew up in Karnal, Haryana, studied aeronautical engineering at Punjab Engineering College in Chandigarh, and earned a PhD in aerospace engineering in the USA. She became a NASA astronaut and in 1997 flew on the space shuttle Columbia, becoming the first woman born in India to go to space. In orbit everything floats, so astronauts move by pushing off walls and pulling on handles, and once moving they keep drifting until something stops them.",
+      "then": "As a girl she wanted to study aircraft engineering at a time when very few Indian women did. She kept going and became an engineer who studied how air flows around flying machines.",
+      "now": "She flew again on Columbia in 2003. On 1 February 2003 the shuttle broke apart as it came back to Earth, and all seven astronauts died. She is remembered in India and around the world; scholarships and the government medical college in Karnal are named after her.",
+      "status": "accepted",
+      "ask": "In space, if you push off a wall you keep floating until you hit something. On Earth, if you push a toy car it stops. What is different on Earth that stops the car?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Galileo Galilei (1564–1642), Italy, against the old idea of Aristotle",
+      "idea": "For almost 2,000 years, many people followed the Greek thinker Aristotle, who taught that a moving object naturally comes to rest and only keeps moving while something keeps pushing it. Galileo rolled balls down sloping wooden tracks and up the other side. He noticed that the smoother the track, the nearer the ball came to rolling back up to its starting height, and the further it rolled on a flat track. He argued that a ball on a perfectly smooth flat surface would keep rolling for ever; it stops only because of rubbing and things in its way.",
+      "then": "Many scholars of his time defended Aristotle's views, and Galileo got into serious trouble with the Church for other ideas, about the Earth moving around the Sun.",
+      "now": "Galileo's idea is accepted. Isaac Newton made it his First Law of Motion in 1687: a moving object keeps moving in a straight line at the same speed unless a force (a push or pull, like friction) changes it. Spacecraft drifting through space for years show it plainly. Aristotle's idea that objects need a constant push to keep moving has been rejected.",
+      "status": "accepted",
+      "ask": "Aristotle saw that things stop when you stop pushing them, and that seemed obvious. Galileo found something hidden. What did he change in his tests to find it? What would you use to make a marble roll as far as possible?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Leonardo da Vinci (1452–1519), Italy, and Guillaume Amontons (1663–1705), France",
+      "idea": "Leonardo studied friction in his notebooks around 1500, by pulling blocks along with weights. He noticed that the force needed to slide a block did not depend on which face of the block was on the table, big or small. His notebooks were not published in his lifetime. In 1699 Amontons independently found the same laws and presented them to the French Academy of Sciences: friction depends on how hard the surfaces press together, not on how much area is touching.",
+      "then": "Many scientists at the Academy found it hard to believe that a wide face and a narrow face could need the same pull, but other experimenters checked it and found it worked. Amontons and others explained it by tiny bumps catching on each other.",
+      "now": "Amontons' laws are accepted as a very good rule for everyday objects. Today scientists know surfaces actually touch only at the tips of tiny bumps, and that sticking between atoms at those points matters more than bumps catching. Exactly how friction works at the scale of atoms is still being researched.",
+      "status": "accepted",
+      "ask": "We pulled the pencil box on its big side and on its narrow side. Did the rubber band stretch the same? If you got a different result from Amontons, what could you check before saying he was wrong?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {
+      "q": "Tell me four ways you can move.",
+      "a": "Swing, run, jump, turn (also slide, climb, hop, roll, skip)."
+    },
+    {
+      "q": "Is opening a drawer a push or a pull? Closing it?",
+      "a": "Opening is a pull; closing is a push."
+    },
+    {
+      "q": "What does a bulldozer do?",
+      "a": "It pushes soil and rocks with its big blade."
+    },
+    {
+      "q": "What happened to the toy car when you gave it a bigger push?",
+      "a": "It went faster and further."
+    },
+    {
+      "q": "Why doesn't a huge boulder move when you push it?",
+      "a": "It is very heavy and my push is too small; the ground holds it back."
+    },
+    {
+      "q": "How can you make a ball stop? Go a different way?",
+      "a": "Stop: catch it or trap it with your foot. Different way: kick or hit it from the side, or bounce it off a wall."
+    },
+    {
+      "q": "Why does a marble roll further on a smooth floor than on a mat?",
+      "a": "The mat is rough and has more friction, which slows the marble down."
+    }
+  ]
+}

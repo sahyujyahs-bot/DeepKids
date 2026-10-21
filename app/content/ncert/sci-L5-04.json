@@ -1,0 +1,706 @@
+{
+  "key": "ncert|sci|5|4",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 4,
+  "title": "Our School — A Happy Place",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 2 'Health and Well-being', Chapter 4 (pages 55–72), Reprint 2026-27",
+  "summary": "Aasha and Mohit want to turn their school into a green school, a place that manages its waste, saves water and electricity, keeps cool and grows trees, and is safe and kind for everyone. Your child becomes a 'School Explorer' of their own learning place (home, building, colony, or a school you visit): they map it, audit water, electricity, waste, greenery and traffic, test why white roofs and tree shade keep places cool, measure how much a dripping tap wastes, practise fire and road safety, and think about how kindness and respect make a place happy for everyone.",
+  "goals": [
+    "By the end your child can explain what a green school is and audit their own learning place for water, electricity, waste, greenery and safety, recording what they find.",
+    "By the end your child can sort waste into wet, dry and items for recyclers, say which bin colour is which, and explain what happens to wet waste and why separating matters.",
+    "By the end your child can explain, from their own test, why white surfaces stay cooler than black ones and why water in tree shade stays cooler than water in the sun.",
+    "By the end your child can calculate how much water a dripping tap wastes in a day and suggest ways to save and harvest water.",
+    "By the end your child can state at least three traffic rules and the steps of a safe fire drill, and design a clear safety sign.",
+    "By the end your child can describe a day from another person's point of view (a wheelchair user, a child with a different mother tongue, a sanitation worker) and suggest changes that make a place fair and happy for all."
+  ],
+  "words": [
+    ["green school", "a school that manages its waste, saves water and electricity, and plants and cares for trees, so it is healthy for people and nature"],
+    ["audit", "a careful check of a place, looking for what is working well and what needs fixing, and writing it down"],
+    ["wet waste", "kitchen and garden waste that rots, such as peels, leftover food, tea leaves and flowers; it goes in the green bin"],
+    ["dry waste", "waste that does not rot quickly, such as paper, plastic, glass, metal and cloth; it goes in the blue bin"],
+    ["segregation", "separating waste into different kinds at the place where it is thrown, so each kind can be handled properly"],
+    ["recycle", "to turn used things like paper, glass and metal into raw material to make new things"],
+    ["compost", "dark, crumbly soil-like stuff made when wet waste rots with the help of microbes and small creatures; it feeds plants"],
+    ["absorb", "to take in; a black surface absorbs most of the sunlight that falls on it and gets hot"],
+    ["reflect", "to bounce back; a white surface reflects most of the sunlight, so it stays cooler"],
+    ["pedestrian crossing", "the striped part of a road (zebra crossing) where people on foot should cross and drivers must stop for them"],
+    ["assembly point", "the safe open place where everyone gathers after leaving a building in a fire or emergency, so staff can check no one is missing"],
+    ["dignity of labour", "the idea that every honest job, such as cleaning, collecting waste or recycling, deserves equal respect"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What makes a place happy?",
+      "goal": "Meet Aasha and Mohit, find out what a green school is, think about what makes our own learning place happy, and draw its map.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "My happy places",
+          "mins": 6,
+          "do": "Ask your child: 'Name three places where you feel happy and safe. What is it about each place that makes you feel that way?' Listen for people ('Nani is there'), things to do ('I can play'), how it looks or feels ('it is quiet, it has trees, it is clean') and how people treat each other ('no one shouts at me'). Write their answers in a new notebook titled 'School Explorer'. Ask: 'Is our home learning corner one of them? Why or why not?' Accept an honest answer."
+        },
+        {
+          "kind": "read",
+          "title": "Aasha, Mohit and the green school (pages 55–56)",
+          "mins": 8,
+          "do": "Read pages 55–56 aloud. Stop and ask: 'Why does Mohit call school his happy place?' (He sees friends, plays and learns new things every day.) 'What is a green school, according to Aasha's brother?' (One that manages its waste, saves water, uses electricity carefully and makes the campus green by planting and caring for trees.) 'How does Aasha suggest they begin?' (By taking a closer look at the school and deciding what to do.) Read the 'Do you know?' box about Swachh Bharat Swachh Vidyalaya: clean toilets, safe drinking water, proper waste management and hygiene for every school, because every child has the right to study in a clean, safe place. Read the caption on page 57: Mawlynnong in Meghalaya is celebrated as Asia's cleanest village."
+        },
+        {
+          "kind": "talk",
+          "title": "Write: three questions about my learning place (page 57)",
+          "mins": 8,
+          "do": "Do the Write box on page 57, using your child's own learning place (your home and building, or their school if they attend one). 1: 'What do I really like about my learning place?' 2: 'How can I make it greener?' (for example a pot of tulsi on the window, a compost pot, a bird bath on the balcony). 3: 'In case there is any difficulty, whom do I talk to or inform?' Make sure your child names at least two trusted adults and knows they can always tell them if anyone makes them feel unsafe or uncomfortable. Write the answers in the notebook."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 1: make a map (page 56)",
+          "mins": 20,
+          "do": "Do Activity a1, the book's Activity 1. If your child goes to school, map the school. If you homeschool, map your home and the building or colony around it, or a nearby school, temple or community centre you can walk around. Walk around first with the notebook. Then draw from above on a big sheet: main building or rooms, the play area or park, any garden or trees, water tanks (overhead and underground), the gate and the paths joining everything. Add a key (symbols for tree, tap, dustbin, light switch, fire extinguisher). Ask: 'Where is the entrance? Where would you go first if you needed water? Where is the nearest dustbin?' Keep the map; we will mark our explorer findings on it this week.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "A friend's view",
+          "mins": 3,
+          "do": "Plan a short phone or in-person chat this week with a friend or cousin who goes to a school. Your child will ask: 'What makes your school happy? What is hard? What would you change?' Write the three questions in the notebook now."
+        }
+      ],
+      "need": ["Textbook pages 55–57", "a notebook titled 'School Explorer'", "a big sheet of paper, pencil, coloured pens", "a walk around your home, building or a nearby school"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Be a School Explorer",
+      "goal": "Audit our learning place like the book's explorer teams: water, electricity, greenery, waste and traffic, and start measuring light and noise.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Explorer teams (pages 57–58)",
+          "mins": 6,
+          "do": "Read 'Be a School Explorer!' on page 57 and the five checklists on page 58: Electricity Savers, Green Guardians, Water Watchers, Traffic Trackers and Waste Warriors. Ask your child to choose a team name for each family member (even a grandparent can be a Green Guardian). Read the caption on page 58: in many villages floors are cleaned with cow dung and mud to keep insects away and the house cool. Ask: 'Why do you think that keeps a house cool?' (Mud floors and walls do not heat up as fast as cement and they let moisture evaporate.)"
+        },
+        {
+          "kind": "act",
+          "title": "The explorer audit",
+          "mins": 25,
+          "do": "Do Activity a2. Go through your home and building (or school) with the five checklists from page 58, one team at a time, about 5 minutes each. Electricity Savers: count lights and fans on in empty rooms; which rooms use daylight; which room is hottest at noon. Green Guardians: count trees and plants; who looks after them; where we could plant more; any birds or butterflies; is there a compost pit? Water Watchers: test every tap for drips; any overflow from the tank; are tanks covered; any standing water (flower-pot trays, coolers, old tyres) where mosquitoes could breed. Traffic Trackers: stand at the building gate or nearest road for 5 minutes; is there a zebra crossing; do vehicles slow down? Waste Warriors: where is litter; how many bins; are wet and dry kept separate? Your child marks every finding on the Day 1 map with a symbol: red for a problem, green for something good.",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Light and sound check: morning reading",
+          "mins": 8,
+          "do": "Start Experiment e4. Sit in the place where your child usually studies. Use a free light meter and sound meter app on a phone, or rate both by sense on a scale of 1 (very dark or very quiet) to 5 (very bright or very noisy). Your child writes the time, the light reading and the sound reading in a table, and what they could hear (traffic, pressure cooker whistle, TV, birds). Before writing, ask them to guess: 'Will this corner be brighter or noisier at noon? In the evening?' You will take two more readings later today.",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss our findings (page 59)",
+          "mins": 6,
+          "do": "Ask the four questions on page 59: 1 'What did you find?' 2 'Was there anything that made you feel concerned?' (for example a dripping tap, an uncovered water drum, fans on in an empty room) 3 'Did anything surprise you?' 4 'What made you feel proud?' Your child writes one line for each. Choose the top three problems together and write 'Our Fix-It List' at the bottom of the map."
+        }
+      ],
+      "need": ["Textbook pages 57–59", "the Day 1 map", "red and green pens", "a phone with a light and sound meter app (optional)", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Waste warriors",
+      "goal": "Sort waste into wet, dry and items for recyclers, find out who collects what in our area, play the segregation game, and start a compost pot.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Light and sound check: results",
+          "mins": 4,
+          "do": "Finish Experiment e4 with the noon and evening readings you took yesterday. Your child looks at the three rows and says when the corner was best for reading (bright enough and quiet enough). Ask: 'What could we change to make it better: move the table nearer the window, close a window at the noisy hour, add a lamp?' Write one change to try.",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Waste management (pages 59–60)",
+          "mins": 7,
+          "do": "Read 'Waste Management' on page 59: we reduce waste by using only what we need, reusing things and not throwing away useful items, and by separating dry and wet waste. Do the Write box: 'Can you name the colour of the bin used for dry waste and wet waste?' (Dry: blue. Wet: green.) Read the paragraph about old newspapers being kept aside for traditional recyclers. Ask: 'What are the recyclers in our area called?' (Raddiwala or kabadiwala for paper, bottles and metal; bhangarwala in Maharashtra; the waste picker who collects plastic; the person who buys old clothes for steel vessels.) Read the caption about the man in Assam who planted a forest by himself; say we will hear his story on Day 7."
+        },
+        {
+          "kind": "talk",
+          "title": "Write: what goes to the recycler? (page 60)",
+          "mins": 6,
+          "do": "Do the Write box on page 60 with home in place of school. 1: 'What things does our home give to recyclers?' 2: Ask your parents (you!) what is set aside right now. Open the cupboard or corner where you keep raddi, empty bottles, old cartons, broken metal or e-waste, and let your child list them with who buys each and roughly for how many rupees per kilogram if you know. Ask: 'Where do you think the newspapers go after the raddiwala?' (To a bigger dealer and then a paper mill, where they are pulped and made into new paper or cardboard.)"
+        },
+        {
+          "kind": "game",
+          "title": "Activity 2: the segregation game (page 61)",
+          "mins": 15,
+          "do": "Play Activity a3, the book's segregation game. Make 30 chits with names or drawings: banana peel, tea leaves, eggshells, leftover rice, flowers from puja, chips packet, milk pouch, newspaper, glass bottle, steel spoon (broken), old notebook, cardboard box, plastic bottle, broken toy, used tissue, onion skin, coconut shell, dry leaves, aluminium foil, toothpaste tube, old torn kurta, battery, bulb, sanitary pad or diaper, medicine strip, and so on. Label three boxes: green 'Wet waste', blue 'Dry waste', and 'Items for recycler'. Your child picks a chit and puts it in a box. At the end, open one box at a time and check together. Discuss tricky ones: a used tissue is dry but dirty and cannot be recycled; batteries, bulbs and medicines are hazardous and need special collection; a milk pouch should be rinsed so it can be recycled.",
+          "ref": "a3"
+        },
+        {
+          "kind": "act",
+          "title": "Start a compost pot",
+          "mins": 13,
+          "do": "Start Activity a4. Take an old bucket, matka or a big plastic bottle with holes punched in the sides and bottom (adult does the holes). Put a layer of dry leaves or torn newspaper at the bottom, then a layer of today's wet waste (vegetable peels, tea leaves after rinsing off sugar, fruit skins, eggshells crushed), then a handful of garden soil, then more dry leaves. Sprinkle a little water so it feels like a squeezed sponge. Cover with a cloth. Your child writes a Compost Log page: Day, What we added, Smell, Feel (warm?), What we see. Tell them: 'The microbes from Chapter 3 will now do the work for us.' Avoid meat, oil, dairy and cooked food in it, as they smell and attract rats.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 59–61", "30 paper chits, 3 boxes, green and blue paper for labels", "an old bucket, matka or big plastic bottle", "dry leaves or newspaper, a handful of garden soil, today's peels", "a cloth to cover"],
+      "prep": [{"task": "Collect dry leaves and a cup of garden soil; keep the day's vegetable peels aside", "when": "morning"}]
+    },
+    {
+      "n": 4,
+      "title": "Wet waste and the people who handle our waste",
+      "goal": "Find out how wet waste is managed, think about why separation matters, and meet and respect the people who clean and recycle for us.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Compost check",
+          "mins": 4,
+          "do": "Look at the compost pot from Activity a4. Your child adds today's peels with a layer of dry leaves on top, feels whether the middle is a little warm, and smells it: it should smell earthy, not rotten. If it smells bad, add more dry leaves or newspaper; if it is very dry, sprinkle water. Write in the Compost Log.",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "How is wet waste managed? (page 62)",
+          "mins": 8,
+          "do": "Do the questions at the top of page 62: 'How is wet waste managed in your school? In your home?' Find out together where your wet waste really goes: a municipal green-bin van, a building compost pit, a cow that eats peels, an open dump. Then do Discuss question 1: 'What happens if we do not separate our waste?' Good answers: wet waste makes dry waste dirty and smelly, so paper and plastic can no longer be recycled; mixed waste goes to huge landfills where it rots, smells, and gives off methane gas, which can catch fire; rats, flies and dogs spread disease; waste pickers have to sort it by hand from dirty heaps."
+        },
+        {
+          "kind": "talk",
+          "title": "Meet a sanitation worker or recycler (pages 60 and 62)",
+          "mins": 15,
+          "do": "Do the 'Find out' on page 60 and Discuss question 2 on page 62. With your help, your child talks politely for 10 minutes with the person who collects waste from your building, your building's sweeper or housekeeping staff, or your raddiwala. Prepare questions first: 'What do you do in a day? What is the hardest part? What happens to the things you collect? What could families do to make your work easier and safer?' Listen for answers such as: separate wet and dry waste, wrap broken glass and blades in paper and mark them, do not put sanitary waste or diapers loose, rinse milk pouches, be on time. Thank them by name. Afterwards, read the 'Note to the Teacher' on page 60 to your child and talk about dignity of labour: 'Without them, what would our street look like in one week?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: green school basics",
+          "mins": 14,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark it together; for each wrong answer go back to the page: green school page 55, explorer teams page 58, bins and recyclers pages 59–61.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "talk",
+          "title": "One thing we will change",
+          "mins": 4,
+          "do": "Ask your child to choose one waste rule for your family based on what the worker said (for example 'We wrap broken glass in newspaper and write GLASS on it'). Write it on the Fix-It List on the map and put a date next to it."
+        }
+      ],
+      "need": ["Textbook pages 60–62", "the compost pot and today's peels", "a few questions written in the notebook", "worksheet ws1"],
+      "prep": [{"task": "Ask your waste collector, building cleaner or raddiwala if they can spare 10 minutes to talk to your child", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Let us be cool!",
+      "goal": "Find out why some rooms are hotter than others, test black and white surfaces in the sun, and hear how cool roofs are being used in Indian cities.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Hot rooms and cool rooms",
+          "mins": 6,
+          "do": "Look at the 'hottest and coolest place' finding from the Day 2 audit. Ask: 'Which room in our home is hottest in the afternoon? Which is coolest? Why do you think so?' Listen for: the top floor is hottest because the roof is in the sun, rooms with windows facing west get the afternoon sun, rooms with a cross-breeze or a tree outside are cooler. Read the 'Let Us be Cool!' paragraph on page 62: shade trees, windows that let the breeze in, and white roofs that reflect the Sun's heat keep rooms cool; black surfaces absorb heat."
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 3: black tile, white tile (page 62)",
+          "mins": 15,
+          "do": "Do Experiment e1, the book's Activity 3. Take two similar tiles, stones or steel plates. Paint one black (or cover it with black paper or charcoal powder) and one white (white paint, white paper or chalk powder). Ask your child to guess first: 'After 20 minutes in the sun, which will feel hotter? How much?' Put them side by side in full sun. After 20 minutes, your child touches each quickly with the back of the hand (carefully: the black one can get very hot). Better still, put an ice cube on each and time how long it takes to melt, or measure with a thermometer if you have one. Ask the book's question: 'Which one felt cooler?' (The white one.) Ask: 'Why do we wear white or light clothes in summer?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "White roofs for hot cities (Art Rosenfeld and Ahmedabad)",
+          "mins": 9,
+          "do": "Tell the story in Voice v1: a physicist in the USA, Art Rosenfeld, spent years telling people that simply making roofs white could keep homes cooler and save electricity; and Ahmedabad, after a deadly heat wave in 2010, made India's first heat action plan, which includes painting the roofs of poor families' homes white. Ask the voice question. A thoughtful answer: 'Measure the temperature inside many houses with white roofs and many with dark roofs on the same days.'",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Write and Discuss (pages 63)",
+          "mins": 8,
+          "do": "Do the Write box on page 63: 'If you have to paint the roof of your school or home white, what would happen?' Good answer: 'The roof would reflect more sunlight, absorb less heat, so the room below would be cooler, fans and coolers would need less electricity, and people would feel better in summer.' Then the Discuss box on page 62–63: 'If your area is getting warmer, what actions can be taken to keep it cool?' Good answers: plant shade trees along roads and in compounds, keep parks and lakes, use light-coloured roofs and walls, put curtains or bamboo chiks on sunny windows, make cross-ventilation, use less cement in open spaces. Read the caption on page 63 about the matka: it cools water without electricity."
+        },
+        {
+          "kind": "do",
+          "title": "Cool-down plan for one room",
+          "mins": 7,
+          "do": "Choose the hottest room from the audit. Your child draws it and marks three changes you could actually make this week (for example: hang a light-coloured bedsheet or chik outside the west window in the afternoon, keep a matka of water, open the two windows opposite each other in the early morning and close them at noon, keep potted plants on the sunny sill). Try one change today and check tomorrow whether the room feels cooler at 3 pm."
+        }
+      ],
+      "need": ["Textbook pages 62–63", "2 similar tiles, flat stones or steel plates", "black and white paint, paper or powder", "2 ice cubes, a thermometer if available", "a sunny spot", "notebook"],
+      "prep": [{"task": "Paint one tile black and one white so the paint is dry", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Drop by drop",
+      "goal": "Measure how much water a dripping tap wastes, plan ways to save and catch water, and hear how ice stupas store winter water in Ladakh.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Compost check",
+          "mins": 3,
+          "do": "Add peels and dry leaves to the compost pot from Activity a4 and stir gently with a stick. Ask: 'Can you still see the peels from Day 3? Are they softer, darker or smaller?' Write in the Compost Log.",
+          "ref": "a4"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 4: the dripping tap (pages 63–64)",
+          "mins": 16,
+          "do": "Do Experiment e2, the book's Activity 4. Read the 'Dripping Water' paragraph on page 63. Use a tap that drips (from the audit), or poke a small hole with a pin in the bottom of a filled plastic bottle and stand it on a glass. Ask your child to guess first: 'If this tap drips all day, how many glasses of water will be lost? 1? 10? 100?' Write the guess. Put a 200 ml glass under the drip and time how long it takes to fill (or time how long it takes to collect 50 ml and multiply by 4). Then calculate together: minutes in a day are 24 × 60 = 1,440; glasses per day = 1,440 ÷ minutes per glass. Then litres per day (5 glasses make about 1 litre) and per year (× 365). For example, if a glass fills in 20 minutes, that is 72 glasses, about 14 litres a day and over 5,000 litres a year. Compare with the guess.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss: saving and catching water (page 64)",
+          "mins": 7,
+          "do": "Do the two Discuss questions on page 64. 1: 'What easy things can we do to prevent wastage of water?' Good answers: fix or report leaks the same day, turn off taps tightly, use a mug and bucket instead of a running tap, put a small bottle of water in the toilet cistern to use less per flush (ask an adult), reuse water used for washing vegetables or dal on plants, collect AC and RO-reject water for mopping. 2: 'How can you collect and use rainwater at home or school?' (A drum under the roof downpipe, a rooftop harvesting system with a filter, a soak pit, as in our Chapter 1 model.) Read the 'Do you know?' box about the Jal Shakti Abhiyan."
+        },
+        {
+          "kind": "think",
+          "title": "Ice stupas of Ladakh (Sonam Wangchuk)",
+          "mins": 10,
+          "do": "Read the caption on page 65: in Ladakh, students help make ice stupas, tall ice towers that slowly melt in summer to water school gardens. Tell the story in Voice v2: the engineer Sonam Wangchuk noticed that farmers in Ladakh have plenty of stream water in winter, when it is too cold to grow anything, and too little in spring, when they plant. He made winter water freeze into tall cones that melt slowly into spring. Ask: 'Why a tall cone and not a flat sheet of ice?' (A cone has less surface facing the sun for the same amount of ice, so it melts more slowly.) Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "do",
+          "title": "Fix it, really",
+          "mins": 9,
+          "do": "Go back to the drip from Experiment e2. If it is a home tap, look together at how it could be fixed (often a worn-out rubber washer inside, costing a few rupees) and decide who will fix it or call the plumber this week. If it is in your building, your child writes a polite note to the building secretary or caretaker, with the measured result: 'The tap near the stairs drips 14 litres a day, over 5,000 litres a year. Please could it be fixed?' Tick it off the Fix-It List when done."
+        }
+      ],
+      "need": ["Textbook pages 63–65", "a dripping tap or a plastic bottle with a pinhole", "a 200 ml glass, a measuring cup, a timer", "paper for a note", "the compost pot"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Greenery around us",
+      "goal": "Find out what trees do for a place, test how shade keeps water cool, plant for butterflies, and hear about the man who grew a forest.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Write: trees and visitors (page 65)",
+          "mins": 10,
+          "do": "Read 'Greenery Around Us' on page 65: trees are home to many living beings, keep the air clean, give shade and food, and keep the surroundings cool. Walk around your building, colony or a park for 8 minutes and do the Write box. 1: Name the trees near you (ask a gardener, watchman or elder for names you do not know: neem, peepal, gulmohar, ashoka, jamun, coconut, mango). 2: Which birds and insects did you see near them? (Crows, mynas, sparrows, pigeons, parakeets, bulbuls, ants, bees, butterflies.) Your child adds the trees to the map with tree symbols."
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 5: water under a tree and in the sun (page 66)",
+          "mins": 12,
+          "do": "Do Experiment e3, the book's Activity 5. Fill two identical steel glasses with the same tap water. Measure the starting temperature of each with a thermometer, or note how they feel to a finger. Ask your child to guess first: 'After one hour, which will be warmer, and by how much?' Put one under a shady tree (or in the shade of a wall or balcony if there is no tree) and the other in full sun. Copy the book's table: Water/Temperature, At Start, One Hour Later, Under the tree, Under the Sun. While waiting, do the next two steps. After one hour, measure again and fill the table. Ask the book's question: 'What do these readings tell us?' (Shade keeps things much cooler; trees protect from the Sun's heat.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "The Forest Man of Assam (Jadav Payeng)",
+          "mins": 9,
+          "do": "Go back to the caption on page 59: in Assam, a man planted a forest by himself, and it is now home to elephants, deer and birds. Tell the story in Voice v3 of Jadav Payeng, who began planting bamboo and trees on a bare sandbank of the Brahmaputra as a teenager in 1979 and kept going for decades. Ask the voice question. Ask: 'Why did the forest need one person to start it, but then grow by itself?' (Once some trees grew, birds and animals brought seeds and the soil got richer.)",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: explorer cases",
+          "mins": 10,
+          "do": "Do Worksheet ws2 (stretch) while the water glasses wait. It asks your child to use this chapter's ideas in new places: a hot classroom, a leaking school tank, a new compost pit. Let them answer write items aloud while you scribe if writing slows them down.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "do",
+          "title": "Plant for butterflies (page 66)",
+          "mins": 4,
+          "do": "Do Activity 5 question 3 on page 66 in a small way: plant one pot for butterflies on a sunny window or balcony. Good choices that grow easily in India: marigold (genda), lantana (in a pot only, as it spreads), periwinkle (sadabahar), ixora, tulsi left to flower, or curry leaf, which lemon butterfly caterpillars eat. Your child labels the pot and waters it. Ask them to watch it each day and note any visitors in the notebook."
+        }
+      ],
+      "need": ["Textbook pages 59, 65–66", "2 identical steel glasses, a thermometer (a kitchen or aquarium thermometer is best)", "a shady tree or wall and a sunny spot", "a pot, soil and a marigold, periwinkle or tulsi plant or seeds", "worksheet ws2"],
+      "prep": [{"task": "Buy a small flowering plant or a packet of marigold seeds and some potting soil", "when": "2 days before"}]
+    },
+    {
+      "n": 8,
+      "title": "Safe roads and fire safety",
+      "goal": "Observe traffic at a gate, learn traffic rules, design a safety sign, and practise a fire drill at home.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Traffic at the gate (pages 66–67)",
+          "mins": 10,
+          "do": "Read pages 66–67: Thomas saw a road accident, and Mohit says people do not follow traffic rules. Ask: 'What do you think about what Mohit said?' Then stand with your child at a safe spot near your building gate, a school gate at dismissal time, or a busy crossing, for 6 minutes. Do the Write question 2 on page 67: your child writes what they see: are vehicles slowing down, are two-wheeler riders wearing helmets, do people use the zebra crossing, are vehicles parked on the footpath, is anyone on a phone while driving? Hold your child's hand and stay well back from the road."
+        },
+        {
+          "kind": "talk",
+          "title": "Write: three traffic rules (page 67)",
+          "mins": 6,
+          "do": "Do Write question 1 on page 67: your child writes at least three traffic rules. Good answers: cross only at a zebra crossing or with the green man signal, after looking right, left and right again; walk on the footpath, or facing the traffic where there is none; red means stop, amber means get ready to stop, green means go; always wear a helmet on a two-wheeler and a seat belt in a car; never cross from between parked vehicles; children under a certain age should sit in the back seat. Ask: 'Which of these did you see someone break at the gate?'"
+        },
+        {
+          "kind": "act",
+          "title": "Design a gate signboard (pages 67–68)",
+          "mins": 10,
+          "do": "Do the signboard task on pages 67–68. Your child designs a sign for your building or school gate on an A4 sheet, with a clear short message and a picture or symbol, for example 'SLOW! Children crossing' with two children and a zebra crossing, or 'Helmet on, then engine on'. Remind them good signs use few words, big letters, strong colours (red for danger, blue for information) and can be read from a distance. Then do the Discuss on page 68: 'Besides signboards, what else can we do?' (Speed breakers, a traffic warden or volunteer at school time, a drop-off zone away from the gate, walking or cycling groups.)"
+        },
+        {
+          "kind": "read",
+          "title": "Fire safety (pages 68–69)",
+          "mins": 7,
+          "do": "Read 'Fire Safety' on page 68. Do the three Write questions for your home or building: 1 'Where is the fire extinguisher kept?' (go and look; many buildings have one on each floor, check the date on its label), 2 'Where is the assembly point?' (agree one with your child: for example, the open ground near the building gate), 3 'What should you do if there is a fire or you smell smoke?' (Shout 'Fire!' to warn others, leave at once by the nearest safe exit, do not stop for things, do not use the lift, call 101 for the fire brigade or 112 once outside.) Read the six steps of the fire drill on page 69."
+        },
+        {
+          "kind": "do",
+          "title": "Let us practise: home fire drill (page 69)",
+          "mins": 12,
+          "do": "Practise the book's fire drill at home. Choose a 'fire' room. Say 'Fire drill!' Your child moves quickly and calmly (no running) to the nearest exit, crawls low for the last few metres as if under smoke with a cloth over the mouth, does not hide in a cupboard or bathroom, and goes down the stairs (not the lift) to the assembly point you chose. At the assembly point they count family members and tell you if anyone is 'missing'. Then practise 'stop, drop and roll' if clothes catch fire: stop, drop to the ground, cover the face with the hands and roll. Time the drill, and do it once more to beat the time calmly."
+        }
+      ],
+      "need": ["Textbook pages 66–69", "A4 sheet, thick sketch pens", "a cloth or handkerchief for the drill", "a timer"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "What we do matters",
+      "goal": "Think through real situations of unkind or careless behaviour, see the day from someone else's point of view, and design a fair dream school.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Activity 6: what would you do? (pages 70–71)",
+          "mins": 12,
+          "do": "Read 'What We do Matters!' on page 70. Then do Activity 6 with your child, taking all five situations one by one: pushing and skipping the line at the water tap; scribbling on a bench while another child watches; a wrapper thrown in the playground and copied by a younger child; someone teasing and making fun of another student; noise in a park disturbing a yoga group. For each, ask the book's two questions: 'If you saw this, what would you do?' and 'What steps can we take to prevent it?' Push for answers that are both kind and safe: speak up calmly, offer the teased child your company, tell a trusted adult if it continues, pick up the wrapper yourself and show the younger child the bin. Read the paragraph on pages 70–71 about respect and kindness."
+        },
+        {
+          "kind": "act",
+          "title": "Let us reflect 5: a day in someone else's shoes (page 71)",
+          "mins": 12,
+          "do": "Do Let us reflect question 5 on page 71. Your child chooses one: a student who uses a wheelchair, a student who speaks a different mother tongue, or a sanitation worker at school. Before writing, look at your Day 1 map through their eyes: 'Where would a wheelchair get stuck? Stairs with no ramp, a narrow toilet door, a high tap?' 'What would a new child who speaks only Malayalam or Bengali find hard in a Hindi-medium class? What would make them smile?' 'What did the sanitation worker we met tell us?' Then your child writes a diary entry of 8–10 lines in that person's voice: what was easy, what was hard, what made them smile or worry."
+        },
+        {
+          "kind": "game",
+          "title": "Dream School Draft",
+          "mins": 11,
+          "do": "Play Activity a5. Make 12 feature cards, each with a cost: library (₹3), garden and compost pit (₹2), ramps and a lift (₹3), sign-language teacher (₹2), sports ground (₹3), kitchen serving hot lunch (₹3), rainwater harvesting (₹2), white cool roof (₹1), clean separate toilets for girls and boys (₹2), counsellor to talk to (₹2), science lab (₹3), shaded bicycle stand (₹1). Each player has ₹12. Take turns picking a card; each pick must be justified aloud: 'Who does it help?' Once per game, the other player may veto a pick if they argue it helps fewer people. At the end compare your schools and ask: 'Whose school would be happiest for the most children, including the ones in your diary entry?'",
+          "ref": "a5"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and comparing views. There is no single right answer in section C; praise reasons that use evidence from our tests (the tiles, the shaded water, the dripping tap).",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 70–71", "the Day 1 map", "12 cards for Dream School Draft", "worksheet ws3"],
+      "prep": [{"task": "Write the 12 Dream School feature cards with their costs", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Make a happiness tree, write a learning-space charter, check understanding, and have your child teach the green-school ideas back.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Happiness tree and our charter (pages 71–72)",
+          "mins": 13,
+          "do": "Do Let us reflect question 2 on page 71: on chart paper, draw a big tree with many branches. Each family member adds paper 'leaves', each with one small action that makes your home learning place happier (greeting each other in the morning, switching off the fan when leaving, putting books back, helping a sibling, using the green and blue bins). Then do Activity a6: together write a short 'Learning Place Charter' of 5–6 rules for your home school or study group, drawn from the Fix-It List, the waste rule, the fire drill and the kindness talk, and everyone signs it. Do question 6 too: 'As principal for a day, what three changes would you make?' and add them to the charter as goals.",
+          "ref": "a6"
+        },
+        {
+          "kind": "act",
+          "title": "Compost and survey wrap-up",
+          "mins": 5,
+          "do": "Look at the compost pot from Activity a4: peels should be darker and breaking down. It will take about 6–8 weeks to become crumbly compost; put a date on the calendar to check and to add it to the butterfly pot. Then share the results of the friend chat from Day 1 and Let us reflect question 9 (page 72): ask 5 people (cousins, friends, neighbours' children) and 1 teacher or tutor the three survey questions by phone this week, and record the answers in a table.",
+          "ref": "a4"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any miss, open the page for a minute and ask again in different words (green school page 55, waste pages 59–62, keeping cool pages 62–63, water pages 63–64, trees pages 65–66, traffic pages 67–68, fire pages 68–69). Most children get 6 or more right; fewer than 5 means repeat the segregation game and the tile test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: my one-minute speech",
+          "mins": 15,
+          "do": "Do Let us reflect question 8 on page 72. Your child writes and gives a one-minute speech on 'My Dream School' to the family, standing up as at a morning assembly. It must mention what makes it special (green, safe, kind), who helps keep it that way (sanitation workers, teachers, students), and what every student can do. After the speech, your child is the teacher for 5 more minutes: using the map, the tiles and the drip calculation, they explain three things: why we separate waste, why white roofs and trees cool a place, and how much a dripping tap wastes. Ask two 'student' questions: 'Is a used tissue dry waste for recycling?' and 'Where do we go if there is a fire?' End with applause."
+        }
+      ],
+      "need": ["Textbook pages 71–72", "chart paper, coloured paper for leaves, glue or tape", "the map, the tiles and the drip calculation", "a sheet for the charter"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Green school basics",
+      "day": 4,
+      "sections": [
+        ["A. What is a green school?", [
+          {"t": "write", "p": "Write four things a green school does.", "lines": 3},
+          {"t": "match", "p": "Match the explorer team to what it checks.", "pairs": [["Water watchers", "Leaking taps and uncovered tanks"], ["Electricity savers", "Lights and fans left on in empty rooms"], ["Waste warriors", "Litter and separate bins"], ["Green guardians", "Trees, plants and a compost pit"], ["Traffic trackers", "Speeding vehicles and zebra crossings"]]}
+        ]],
+        ["B. Sort the waste", [
+          {"t": "sort", "p": "Sort these items.", "items": ["Banana peel", "Tea leaves", "Old newspaper", "Glass bottle", "Eggshells", "Chips packet", "Puja flowers", "Cardboard box", "Broken steel vessel"], "cats": ["Wet waste (green bin)", "Dry waste (blue bin)", "Items for recycler"]},
+          {"t": "fill", "p": "Wet waste goes in the ____ bin.", "a": ["green"]},
+          {"t": "fill", "p": "Dry waste goes in the ____ bin.", "a": ["blue"]}
+        ]],
+        ["C. Why it matters", [
+          {"t": "mcq", "p": "What happens if we do not separate our waste?", "opts": ["Nothing changes", "Wet waste makes dry waste dirty so it cannot be recycled, and mixed waste smells and spreads disease", "The bins get lighter", "Recyclers earn more"], "a": 1},
+          {"t": "mcq", "p": "Why should water tanks and coolers be kept covered and dry when not in use?", "opts": ["To look nice", "So mosquitoes cannot breed in them", "To make the water warm", "So birds can drink"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Explorer cases",
+      "day": 7,
+      "sections": [
+        ["A. Cool it", [
+          {"t": "mcq", "p": "Class 5B is on the top floor with a black tarred roof and gets very hot. Which change would help most and cost least?", "opts": ["Paint the roof white", "Buy more fans", "Close all windows all day", "Paint the walls black"], "a": 0},
+          {"t": "write", "p": "In our test, water in the sun got warmer than water under the tree. Give two reasons why a tree's shade is cooler than open ground.", "lines": 3}
+        ]],
+        ["B. Water sums", [
+          {"t": "fill", "p": "A tap fills a 200 ml glass in 10 minutes. In one day (1,440 minutes) it fills ____ glasses.", "a": ["144"]},
+          {"t": "fill", "p": "144 glasses of 200 ml is about ____ litres.", "a": ["28.8", "29", "about 29"]},
+          {"t": "write", "p": "A school has 10 dripping taps like this. How much water is lost in a week? Show your working.", "lines": 3}
+        ]],
+        ["C. Plan it", [
+          {"t": "table", "p": "Plan a compost pit for a school canteen.", "cols": ["Question", "My answer"], "rows": 4, "prefill": ["What can go in?", "What must not go in?", "What do we add to stop bad smells?", "Where will the compost be used?"]},
+          {"t": "write", "p": "A new student uses a wheelchair. Walk through your Day 1 map in your mind. Write three places that would be hard and one fix for each.", "lines": 4}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles and different views",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "A black car and a white car are parked in the sun. Which is hotter inside after an hour? Explain using the words absorb and reflect.", "lines": 3},
+          {"t": "mcq", "p": "Why does an ice stupa melt more slowly than the same amount of ice spread flat on a field?", "opts": ["It is colder inside a stupa", "A tall cone has less surface facing the sun for the same amount of ice", "It is made of salt water", "People cover it at night"], "a": 1},
+          {"t": "write", "p": "A matka keeps water cool without electricity. Use what you learnt in Chapters 1 and 3 to explain how.", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if every roof in your city were painted white? Write two good effects and one question you would want scientists to check.", "lines": 3},
+          {"t": "write", "p": "What if there were no sanitation workers for one month in your city? What would happen, week by week?", "lines": 4}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "One person says: 'One person cannot make a difference to the environment.' Use Jadav Payeng's story to answer, and also say what he could NOT have done alone.", "lines": 4},
+          {"t": "mcq", "p": "A town says its white-roof scheme made homes cooler. Which evidence is strongest?", "opts": ["The roofs look nice", "Indoor temperatures measured in many white-roof and dark-roof homes on the same hot days", "One family said they felt better", "A poster about it"], "a": 1}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Black tile, white tile (Book Activity 3, page 62)",
+      "day": 5,
+      "question": "Does a black surface get hotter in the sun than a white one?",
+      "need": ["2 similar tiles, flat stones or steel plates", "black and white paint (or black and white paper, or charcoal and chalk powder)", "a sunny spot", "2 ice cubes", "a thermometer or a timer"],
+      "steps": [
+        "Paint or cover one tile black and the other white. Let them dry.",
+        "Place both side by side in full sun for 20 minutes.",
+        "Touch each quickly with the back of your hand.",
+        "Put one ice cube on each tile at the same moment and time how long each takes to melt.",
+        "If you have a thermometer, hold its tip on each tile for one minute and note the reading."
+      ],
+      "predict": "Ask your child to guess first: which tile will feel hotter? Which ice cube will melt first?",
+      "observe": "The black tile feels clearly hotter, often too hot to keep a hand on. The ice cube on the black tile melts much faster than on the white tile.",
+      "why": "Sunlight carries energy. A black surface absorbs almost all the light that falls on it and turns it into heat, so it warms up fast. A white surface reflects most of the light back, so much less turns into heat. This is why a white or light-coloured roof keeps the room below cooler, why white clothes feel cooler in summer, and why dark tar roads and roofs make cities hotter than the countryside, which scientists call the urban heat island effect.",
+      "safety": "The black tile can get very hot: touch it quickly with the back of the hand only. Do not touch metal plates left long in the sun.",
+      "time": "15 min (with 20 min waiting in the sun during other steps)"
+    },
+    {
+      "id": "e2",
+      "title": "How much does a dripping tap waste? (Book Activity 4, page 64)",
+      "day": 6,
+      "question": "How much water can a slow drip waste in a day and in a year?",
+      "need": ["a dripping tap, or a plastic bottle of water with a pinhole in the bottom", "a 200 ml glass", "a measuring cup", "a timer", "paper and pencil"],
+      "steps": [
+        "Put the glass under the drip and start the timer.",
+        "Stop when the glass is full (or measure how long to collect 50 ml and multiply by 4).",
+        "Work out glasses per day: 1,440 minutes ÷ minutes to fill one glass.",
+        "Work out litres per day: glasses × 200 ml ÷ 1,000.",
+        "Work out litres per year: litres per day × 365.",
+        "Compare with how many buckets (about 15 litres each) that would fill."
+      ],
+      "predict": "Ask your child to guess first: how many glasses of water would one dripping tap waste in a whole day?",
+      "observe": "Record the minutes to fill a glass and the totals. A slow drip often fills a glass in 15–40 minutes, which is tens of glasses and several litres a day and thousands of litres a year.",
+      "why": "Each drop is tiny (around 0.05 ml), so a drip seems harmless. But a drip never stops: it goes on for every one of the 1,440 minutes in a day and the 525,600 minutes in a year. Multiplying something small by a very large number gives a large answer. This is why fixing a worn tap washer, which costs a few rupees, can save more water in a year than a family drinks.",
+      "safety": "Use the pinhole bottle on a tray to avoid a wet floor.",
+      "time": "16 min"
+    },
+    {
+      "id": "e3",
+      "title": "Water under a tree, water in the sun (Book Activity 5, page 66)",
+      "day": 7,
+      "question": "How much cooler does water stay in a tree's shade than in direct sun?",
+      "need": ["2 identical steel glasses", "tap water", "a thermometer (a kitchen or aquarium thermometer is best; a fever thermometer only reads up to about 42 °C)", "a shady tree (or wall) and a sunny spot", "a timer"],
+      "steps": [
+        "Fill both glasses with the same tap water.",
+        "Measure and record the temperature of each.",
+        "Put one under a shady tree and one in full sun at the same time.",
+        "After one hour, measure each again.",
+        "Fill in the book's table and work out the change in each glass."
+      ],
+      "predict": "Ask your child to guess first: which glass will be warmer after an hour, and by about how many degrees?",
+      "observe": "On a sunny day, the glass in the sun is usually several degrees warmer than the glass under the tree; in strong summer sun the difference can be large. Note the weather too.",
+      "why": "In direct sun, the glass and water absorb the Sun's energy and warm up. Under a tree, the leaves block most of the sunlight before it reaches the glass, so much less energy arrives. Trees also cool the air around them in another way: their leaves give off water vapour (transpiration), and turning water into vapour takes heat away, just as sweat cools our skin. That is why a tree-lined street feels cooler than an open car park, and why the book calls trees air coolers.",
+      "safety": "",
+      "time": "12 min + 1 hour waiting"
+    },
+    {
+      "id": "e4",
+      "title": "Light and sound check of our learning corner",
+      "day": 2,
+      "question": "How bright and how noisy is our study place at different times of day?",
+      "need": ["a phone with a free light-meter and sound-meter app, or a 1–5 rating scale", "a table in the notebook", "a clock"],
+      "steps": [
+        "Sit where your child usually studies.",
+        "Record the time, the light level and the sound level, and what you can hear.",
+        "Repeat at noon and in the evening (with the lights you usually use).",
+        "Compare the three readings.",
+        "Choose one change (move the table, add a lamp, close a window at the noisy hour) and test it."
+      ],
+      "predict": "Ask your child to guess first: at what time of day will the corner be brightest? Noisiest?",
+      "observe": "Record numbers or ratings in the table. Daylight is usually brightest around midday near a window; noise often peaks at traffic and cooking times.",
+      "why": "Our eyes and brain work better with enough even light, and reading in dim light makes us tired faster. Background noise above a quiet conversation makes it harder to concentrate and to hear. Measuring, instead of guessing, shows which time and which spot are best, and lets us check whether a change really helped. Sound meters measure loudness in decibels; light meters measure brightness in lux.",
+      "safety": "",
+      "time": "8 min + 2 short readings later in the day"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Map of my learning place (Book Activity 1, page 56)",
+      "day": 1,
+      "mins": 20,
+      "need": ["a big sheet of paper", "pencil and coloured pens", "a walk around home, building or a school"],
+      "steps": [
+        "Walk around and note the main features.",
+        "Draw the place from above: rooms or buildings, play area, garden or trees, water tanks, gate, paths.",
+        "Make a key of symbols.",
+        "During the week, mark audit findings: red for problems, green for good things.",
+        "Write a 'Fix-It List' at the bottom and tick items as they are done."
+      ],
+      "outcome": "A labelled map of your learning place that grows during the chapter into a record of what you found and fixed."
+    },
+    {
+      "id": "a2",
+      "title": "The explorer audit (pages 57–58)",
+      "day": 2,
+      "mins": 25,
+      "need": ["the five checklists on page 58", "the map", "red and green pens", "notebook"],
+      "steps": [
+        "Assign a team name to each family member.",
+        "Spend about 5 minutes on each team's checklist: electricity, greenery, water, traffic, waste.",
+        "Record every finding in the notebook.",
+        "Mark each finding on the map.",
+        "Discuss the four questions on page 59 and choose the top three problems."
+      ],
+      "outcome": "A written audit of your home or school and a short Fix-It List of real problems to solve."
+    },
+    {
+      "id": "a3",
+      "title": "Segregation game (Book Activity 2, page 61)",
+      "day": 3,
+      "mins": 15,
+      "need": ["30–40 paper chits", "3 boxes", "green and blue paper for labels"],
+      "steps": [
+        "Write or draw one waste item on each chit, including items from your own home.",
+        "Label the boxes green 'Wet waste', blue 'Dry waste' and 'Items for recycler'.",
+        "Pick chits one by one and drop each in a box.",
+        "Open each box and check together.",
+        "Make a separate pile for hazardous items (batteries, bulbs, medicines) and talk about where they go."
+      ],
+      "outcome": "A child who can sort everyday waste correctly and explain the tricky items."
+    },
+    {
+      "id": "a4",
+      "title": "Compost pot",
+      "day": 3,
+      "mins": 13,
+      "need": ["an old bucket, matka or big plastic bottle with holes (adult makes them)", "dry leaves or torn newspaper", "a handful of garden soil", "vegetable and fruit peels", "a cloth", "a stick for stirring"],
+      "steps": [
+        "Put a layer of dry leaves at the bottom.",
+        "Add a layer of peels, then a handful of soil, then dry leaves.",
+        "Sprinkle water so it feels like a squeezed sponge, and cover.",
+        "Every 2–3 days, add peels with a layer of dry leaves and stir.",
+        "Keep a Compost Log: what was added, smell, warmth, what you see.",
+        "After 6–8 weeks, use the dark crumbly compost in the butterfly pot."
+      ],
+      "outcome": "Home-made compost and a log showing how microbes turn kitchen waste back into soil."
+    },
+    {
+      "id": "a5",
+      "title": "Dream School Draft",
+      "day": 9,
+      "mins": 11,
+      "need": ["12 feature cards with costs", "₹12 of play budget per player (written on paper)"],
+      "steps": [
+        "Lay out the 12 feature cards with their costs.",
+        "Take turns picking a card, paying its cost from your ₹12.",
+        "Justify each pick aloud: who does it help?",
+        "Each player may veto one of the other's picks once, with a reason.",
+        "Compare the two schools and decide whose is happiest for the most children."
+      ],
+      "outcome": "A child who can weigh choices with a limited budget and argue for features by who they help."
+    },
+    {
+      "id": "a6",
+      "title": "Learning Place Charter and happiness tree",
+      "day": 10,
+      "mins": 13,
+      "need": ["chart paper", "coloured paper leaves", "glue or tape", "pens"],
+      "steps": [
+        "Draw a big tree with branches on chart paper.",
+        "Each person adds leaves with one small action that makes the place happier.",
+        "Write 5–6 charter rules for your learning place from the week's findings.",
+        "Add three 'principal for a day' goals.",
+        "Everyone signs it. Put it up near the learning corner and review it in a month."
+      ],
+      "outcome": "A happiness tree and a signed charter for your home learning group, with a rearranged, cooler, brighter study corner."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Arthur Rosenfeld (1926–2017), USA, and Ahmedabad's Heat Action Plan (2013), India",
+      "idea": "Art Rosenfeld, a physicist at the Lawrence Berkeley National Laboratory in California, became one of the best-known champions of saving energy. From the 1980s onward he and his colleagues argued that one of the cheapest ways to cool buildings and cities was simply to make roofs and roads light-coloured, so that they reflect sunlight instead of absorbing it. In India, Ahmedabad was hit by a deadly heat wave in 2010. In 2013 the city launched the first heat action plan in South Asia, with early warnings, cool shelters and water points, and later cool-roof work that painted the tin and concrete roofs of homes in poor neighbourhoods with white reflective paint.",
+      "then": "For a long time, roofs were chosen for cost and looks, and many engineers thought insulation and air conditioners mattered far more than colour. Measurements of real buildings, showing cooler rooms and lower electricity bills under white roofs, gradually convinced building codes in places such as California to include cool roofs.",
+      "now": "That white or reflective roofs keep the rooms under them cooler on sunny days is accepted and easy to measure. Many Indian cities and states now encourage cool roofs. Scientists still study how much cool roofs cool a whole city, and some computer studies suggest that painting very large areas white could change local winds or rain, which is still argued about.",
+      "status": "accepted",
+      "ask": "A family says their room felt cooler after they painted the roof white. What else might have changed that month? How would you design a fair test?",
+      "day": 5
+    },
+    {
+      "id": "v2",
+      "who": "Sonam Wangchuk (born 1966), Ladakh, India",
+      "idea": "Sonam Wangchuk, an engineer and education reformer from Ladakh, noticed that in this cold desert, streams flow in winter when nothing can grow, but villages run short of water in spring when farmers need it to plant, especially as glaciers shrink. In the winter of 2013–14 he and students built a prototype 'ice stupa' near Phyang village: stream water was piped down from higher up, using only gravity, and sprayed into the freezing night air, where it froze into a tall cone of ice. Because a cone exposes less surface to the sun than flat ice, it melted slowly into the spring and gave water for planting.",
+      "then": "Many people were doubtful that such a simple, low-cost idea would work at a useful scale. The first prototype lasted well into spring, and the idea won international awards, which encouraged villages to try it.",
+      "now": "Ice stupas have since been built in many Ladakhi villages and tried in other cold mountain regions. They are accepted as a useful local way to store water. Experts point out that they depend on cold enough winters and a steady water source, and that they are a help for villages, not a fix for shrinking glaciers.",
+      "status": "accepted",
+      "ask": "If you wanted to prove that a cone of ice melts slower than the same amount of ice spread flat, how would you test it at home with a freezer and two trays?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Jadav Payeng (born around 1963), Assam, India",
+      "idea": "In 1979, as a teenager, Jadav Payeng saw snakes that had died of heat on a bare sandbank (a chapori) in the Brahmaputra near Majuli, after floods left it with no shade. He began planting bamboo there, and then many kinds of trees, carrying water to them and continuing for decades. The forest grew to cover hundreds of hectares and is now known as the Molai forest, after his nickname. Wild elephants, deer, rhinos and many birds use it.",
+      "then": "For years almost no one outside his area knew. Forest officials have said they only realised how large the forest was around 2008, when a herd of wild elephants went into it. Journalists and a documentary later made him famous as the 'Forest Man of India', and he received the Padma Shri in 2015.",
+      "now": "The forest is real and has been visited and studied. Ecologists agree that once a few trees take hold, birds, animals, wind and water bring in more seeds and the soil gets richer, so a forest can begin to grow on its own. They also note that the Brahmaputra's floods and erosion keep threatening such islands, and that big forests need protection by many people and by law, not just one person.",
+      "status": "accepted",
+      "ask": "Payeng planted the first trees, but the forest now has many he never planted. How could you find out which trees he planted and which came by themselves?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What is a green school?", "a": "A school that manages its waste, saves water, uses electricity carefully, and plants and cares for trees, so it is clean, healthy and safe."},
+    {"q": "Which bin is for wet waste and which for dry waste? Give two examples of each.", "a": "Green for wet waste (peels, tea leaves, leftover food); blue for dry waste (paper, plastic, glass, metal)."},
+    {"q": "Why should we separate waste, and who helps us handle it?", "a": "So wet waste can be composted and dry waste recycled, and to avoid smelly, disease-spreading dumps. Sanitation workers, waste pickers and recyclers like raddiwalas help, and their work deserves respect."},
+    {"q": "Why does a white roof keep a room cooler than a black roof?", "a": "White reflects most of the sunlight; black absorbs it and turns it into heat."},
+    {"q": "In our test, which glass of water stayed cooler and why?", "a": "The glass under the tree, because the leaves blocked the sunlight, and trees also cool the air by giving off water vapour."},
+    {"q": "Why is a dripping tap a big problem even though each drop is tiny?", "a": "It drips all day and night; small drops multiplied by 1,440 minutes a day add up to many litres a day and thousands of litres a year."},
+    {"q": "Name three traffic rules.", "a": "For example: cross at the zebra crossing after looking right, left and right again; wear a helmet on a two-wheeler and a seat belt in a car; stop at red and go only at green; walk on the footpath."},
+    {"q": "What should you do in a fire?", "a": "Shout to warn others, leave calmly and quickly by the nearest exit, crawl low under smoke with the mouth covered, do not hide or use the lift, never go back inside, go to the assembly point and tell an adult if anyone is missing."}
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "key": "nios|sci|5|14",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 14,
+  "title": "Common Diseases: their Reasons, Prevention and Protection",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 14 (lesson pages 206–223)",
+  "summary": "Some diseases spread from person to person (infectious) and some do not (non-infectious). Your child learns how cholera, typhoid and diarrhoea spread through dirty water and food, how mosquitoes carry malaria, dengue and elephantiasis, how TB, colds, flu and pneumonia travel through the air, and, in a calm and age-appropriate way, how HIV does and does not spread. They then learn about heart attack, stroke, diabetes and cancer, which are linked to lifestyle, age and family history, and the everyday protections in the book: handwashing, clean water and food, clean surroundings, vaccination and avoiding tobacco and alcohol. Home tests with bread, glitter and a spray bottle make germs visible, and the stories of John Snow, Ronald Ross, Ignaz Semmelweis and Linus Pauling show how science found out what works, and corrected itself.",
+  "goals": [
+    "By the end your child can explain the difference between infectious and non-infectious diseases and sort common diseases into the two groups.",
+    "By the end your child can explain how diseases spread through dirty water and food, through mosquitoes, through the air and through blood, with examples of each.",
+    "By the end your child can name the key signs of dehydration and help make oral rehydration solution (ORS), and knows when a fever or cough needs a doctor and a test.",
+    "By the end your child can explain that HIV does not spread through touching, hugging, sharing food or mosquito bites, and that people with HIV deserve respect and care.",
+    "By the end your child can explain how lifestyle (food, exercise, tobacco, alcohol) affects heart disease, stroke, diabetes and cancer, and recognise the warning signs of a stroke.",
+    "By the end your child can list and practise the main ways to protect against disease: handwashing with soap, clean water and food, clean surroundings, no stagnant water, vaccination and avoiding smoke."
+  ],
+  "words": [
+    ["infectious disease", "a disease caused by a germ that can pass from one person to another, through air, water, food, insects, blood or touch"],
+    ["non-infectious disease", "a disease that does not pass from person to person, such as diabetes, heart disease, cancer, asthma or cataract"],
+    ["germ", "a tiny living thing, too small to see without a microscope, that can cause disease; germs include bacteria, viruses, parasites and fungi"],
+    ["bacteria", "tiny one-celled living things; most are harmless or helpful, but some cause diseases like cholera, typhoid and TB and can be treated with antibiotics"],
+    ["virus", "an even tinier germ that can only multiply inside living cells; viruses cause colds, flu, dengue, measles and HIV, and antibiotics do not work on them"],
+    ["parasite", "a living thing that lives on or in another and harms it; malaria is caused by a tiny parasite carried by mosquitoes"],
+    ["epidemic", "when a disease spreads to many people in an area at the same time"],
+    ["dehydration", "when the body loses too much water and salts, for example through diarrhoea or vomiting; it can be dangerous, especially for small children"],
+    ["ORS", "oral rehydration solution: clean water with the right amounts of salt and sugar, which replaces the water and salts lost in diarrhoea"],
+    ["vaccine", "a medicine, usually an injection or drops, that trains the body's defence system to fight a germ before it ever meets it"],
+    ["immunity", "the body's power to fight off a disease"],
+    ["lifestyle disease", "a non-infectious disease made more likely by how we live: what we eat, how active we are, and whether we smoke or drink alcohol, such as type 2 diabetes and heart disease"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Do all diseases spread?",
+      "goal": "Start from Seema and Rinku's flu, learn the two groups of diseases, sort the book's list, and set up a test that shows germs from our own hands.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "When I was ill",
+          "mins": 5,
+          "do": "Parent note: this lesson names many serious diseases. Keep your tone calm. The message for your child is: 'Most of these diseases can be prevented, and most can be treated if caught early. Knowing about them keeps our family safe.' Ask your child: 'When were you last ill? What did it feel like? Did anyone else at home get it after you, or before you?' Then ask: 'Can you catch a broken leg from a friend?' (No.) 'Can you catch a cold?' (Yes.) 'So what is the difference?'"
+        },
+        {
+          "kind": "read",
+          "title": "Seema's flu and the two kinds of disease (lesson pages 206–207)",
+          "mins": 8,
+          "do": "Read the opening story on lesson page 206 aloud: Seema caught flu from her daughter Rinku. Then read parts (a) and (b) on lesson pages 206–207 about infectious and non-infectious diseases. Ask: 'How can infectious diseases spread?' (Through air, infected food and water, mosquitoes and flies, touch, blood.) 'What is a non-infectious disease?' (One that does not pass from person to person.) Correct one line kindly: the book says some diseases are spread by bacteria and virus as if they were the same. Explain: 'Bacteria and viruses are both germs, but different. Antibiotic medicines kill some bacteria; they do nothing against viruses like colds and flu.'"
+        },
+        {
+          "kind": "game",
+          "title": "Sort the book's disease list (lesson page 207)",
+          "mins": 9,
+          "do": "Write these on paper slips: tuberculosis, tetanus, polio, cholera, flu, measles, malaria, dengue, typhoid, mumps, scabies, diabetes, heart attack, epilepsy, cancer, cataract, asthma, anaemia, goitre. Your child sorts them into 'Can spread' and 'Does not spread', using the table on lesson page 207. Two corrections to the book's table: eczema is not infectious (it is a skin condition, often linked to allergy); scabies is the itchy skin disease that spreads by touch. And many stomach ulcers are now known to be caused by a germ (remember Marshall and Warren from Lesson 13), though ulcers do not spread easily the way flu does. Tell them that smallpox, in the book's list, has been wiped out of the whole world since 1980, thanks to vaccination. Do 'Let's see 14.1' on lesson pages 207–208 aloud."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the bread-and-hands test",
+          "mins": 15,
+          "do": "Do Experiment e1. Take 4 slices of plain bread (no preservatives if possible) and 4 zip-bags labelled 'Untouched', 'Dirty hands', 'Washed with water', 'Washed with soap'. Using a clean spoon, put slice 1 straight in its bag without touching it. Before washing, after your child has played outside or touched door handles and a phone, they rub both hands all over slice 2 and bag it. Then they rinse hands with water only, dry on a clean towel, and touch slice 3. Then they wash properly with soap for 20 seconds, dry, and touch slice 4. Sprinkle each with a few drops of clean water and seal. Keep all four in a dark cupboard. Ask your child to predict which will grow the most mould and germ spots, and write the guesses down.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "How do germs travel?",
+          "mins": 8,
+          "do": "Draw four boxes in the notebook titled 'Water and food', 'Insects', 'Air', 'Blood and touch'. Ask your child to put one disease they already know in each box. Good first answers: diarrhoea in water and food; malaria in insects; cold in air; a cut that gets infected in touch. Say: 'Each day this week we will fill one box properly and learn how to block that road.'"
+        }
+      ],
+      "need": ["NIOS Environmental Studies Level B, Lesson 14 (lesson pages 206–208)", "paper slips and a pen", "4 slices of plain bread, 4 zip-bags, labels, a clean spoon", "soap, water and a clean towel", "a dark cupboard", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Dirty water and food: cholera and diarrhoea",
+      "goal": "Learn how cholera and diarrhoea spread and how to protect against them, make ORS correctly, and meet John Snow and his water pump.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "14.1.1 Cholera (lesson page 208)",
+          "mins": 8,
+          "do": "Read 14.1.1 on lesson page 208 aloud. Ask: 'What are the signs of cholera?' (Many loose, watery stools, vomiting, sometimes mild fever.) 'Why can it kill?' (The body loses so much water that it dries out: dehydration.) Explain the cause more exactly than the book: cholera is caused by a bacterium that lives in water or food dirtied with the stool of an infected person. Flies can carry it from stool to food, but the main road is dirty drinking water. Ask: 'Which of the book's protections block the water road?' (Drinking clean or boiled water.) 'Which block the fly road?' (Covering food, not eating food sold open.) 'Which block the hands road?' (Washing hands with soap after caring for the patient.)"
+        },
+        {
+          "kind": "read",
+          "title": "14.1.5 Diarrhoea and dysentery (lesson pages 210–211)",
+          "mins": 6,
+          "do": "Read 14.1.5 on lesson pages 210–211 aloud. Ask: 'What is the difference between diarrhoea and dysentery?' (Diarrhoea is watery stool; dysentery has mucus and blood in it.) 'Why is it so dangerous for small, weak children?' (They dry out fast.) Add what the book leaves out: the most important home treatment is ORS, given sip by sip; children with diarrhoea should keep eating and breastfeeding; doctors also give zinc tablets to children. Danger signs to see a doctor at once: blood in stool, a child who will not drink, very sleepy or floppy, sunken eyes, no urine for many hours, or high fever."
+        },
+        {
+          "kind": "act",
+          "title": "Make ORS the right way",
+          "mins": 12,
+          "do": "Do Activity a1. Show your child an ORS packet from the medicine box or a chemist if you have one, and read the instructions together: one packet in exactly one litre of clean drinking water. Then make home ORS together using the WHO recipe: 1 litre of boiled and cooled water, 6 level teaspoons of sugar and half a level teaspoon of salt, stirred until dissolved. Your child tastes a sip: it should taste no saltier than tears. Ask: 'Why must we measure exactly?' (Too much salt can harm a child; too little does not work.) Explain why it works: 'The sugar helps the gut take in the salt, and water follows the salt into the body.' Use it as a drink today or throw it away after 24 hours.",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "John Snow and the Broad Street pump",
+          "mins": 11,
+          "do": "Tell your child Voice v1: in 1854 cholera killed hundreds of people in one area of London. Most doctors then thought cholera spread through bad-smelling air. Dr John Snow marked every death on a map and found they crowded round one water pump on Broad Street. He persuaded officials to take off the pump's handle. Draw a quick map in the notebook: a cross for the pump and dots for houses. Ask: 'If bad air caused cholera, would the deaths cluster round one pump?' Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "exp",
+          "title": "Look at the bread bags",
+          "mins": 8,
+          "do": "Look at the four bags from Experiment e1 without opening them, against the light. Your child draws each slice and marks any spots. It is usually too early for much; ask: 'Which do you think will change first?' Then put all four back in the dark cupboard. Finish by asking: 'How could germs from someone's stool end up in a village well?' (If people defecate near the water source, or dirty water seeps in; the book on lesson page 217 says never defecate or throw garbage near drinking water.)",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 208, 210–211 and 217", "an ORS packet if available", "1 litre boiled and cooled water, sugar, salt, level measuring teaspoons, a clean jug and spoon", "the bread bags", "notebook"],
+      "prep": [{"task": "Boil 1 litre of water and let it cool, covered, for the ORS", "when": "morning"}]
+    },
+    {
+      "n": 3,
+      "title": "Mosquitoes: malaria, dengue and elephantiasis",
+      "goal": "Learn how mosquitoes carry disease, meet Ronald Ross who proved it in India, and hunt for mosquito breeding spots around our home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "14.1.2 Malaria, dengue, elephantiasis (lesson page 209)",
+          "mins": 8,
+          "do": "Read 14.1.2 on lesson page 209 aloud. Correct and add: the book says mosquitoes carry bacteria. In fact, malaria is caused by a tiny parasite called Plasmodium, carried by the female Anopheles mosquito, which bites mostly at night. Dengue is caused by a virus carried by the Aedes mosquito, which has black and white stripes on its legs, bites mostly in the daytime and breeds in clean still water in coolers, pots, tyres and flower vases. Elephantiasis (filariasis) is caused by tiny worms carried by the Culex mosquito, which breeds in dirty drains. Ask: 'What signs does the book give for malaria?' (Fever with cold and shivering, headache, fever that may come and go on alternate days.) 'What should you do if you have fever?' (Get a blood test; do not wait.)"
+        },
+        {
+          "kind": "think",
+          "title": "Ronald Ross in Secunderabad",
+          "mins": 9,
+          "do": "Tell your child Voice v2: in 1897, in a small hot laboratory in Secunderabad (now part of Hyderabad), a British army doctor named Ronald Ross dissected mosquitoes that had bitten a malaria patient, and found the malaria parasite growing in the stomach of one kind of mosquito. 20 August is still remembered as World Mosquito Day. Ask: 'People used to think malaria came from bad marsh air: \"mal aria\" means \"bad air\" in Italian. Why does living near marshes fit both ideas?' (Marshes have bad smells and also lots of mosquitoes.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Mosquito breeding-spot hunt",
+          "mins": 18,
+          "do": "Do Activity a2. With a torch and a notebook, check every place where water can collect in and around your home: the desert cooler tray, flower-pot saucers, buckets, the fridge drip tray, old tyres, coconut shells, broken pots, the overhead tank lid, plant vases, bird water bowls, a blocked roof drain. In each, look for 'wrigglers', tiny moving larvae that hang just below the surface. Your child records each place, whether water was there, and whether larvae were seen. You empty and scrub every container that does not need water, and cover the rest. Ask: 'How many days does it take for larvae to become mosquitoes?' (About a week, so empty water at least once a week.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Our anti-mosquito plan",
+          "mins": 10,
+          "do": "Read the book's protection points on lesson page 209 again: avoid bites, cooperate with the malaria control workers, get blood tested for fever, do not let water stand. Together, write a family plan in the notebook: one day a week as 'dry day' when all containers are emptied and scrubbed; nets or screens at night; full sleeves in the evening; repellent if needed. Ask: 'Why do we need to protect ourselves in the daytime too?' (Dengue mosquitoes bite in the day.) Ask: 'Why does it help if the whole street does this, not just us?' (Mosquitoes fly from house to house.)"
+        }
+      ],
+      "need": ["Lesson page 209", "a torch, notebook and pencil", "gloves and a scrubbing brush for emptying containers"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Typhoid, TB, colds, flu and pneumonia",
+      "goal": "Learn how typhoid spreads through food and how TB, colds, flu and pneumonia spread through the air, test how far a sneeze travels, and weigh the evidence about vitamin C.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "14.1.3 Typhoid and 14.1.4 TB (lesson pages 209–210)",
+          "mins": 8,
+          "do": "Read 14.1.3 and 14.1.4 on lesson pages 209–210 aloud. Typhoid: caused by a bacterium in dirty food and water, with slowly rising high fever, headache, vomiting and diarrhoea; protected by clean food and water, boiled water during outbreaks, and there is also a typhoid vaccine. TB: caused by a bacterium that spreads through the air when a person with TB of the lungs coughs. Ask: 'When should someone get checked for TB?' (Cough for more than two weeks, weight loss, fever, difficulty breathing.) Explain: TB is checked with a sputum (phlegm) test or chest X-ray. Treatment takes many months and must not be stopped early, even when the person feels better, or the germs come back stronger. In India TB tests and medicines are free at government health centres. Children get the BCG vaccine against TB at birth."
+        },
+        {
+          "kind": "read",
+          "title": "14.1.6 Cold and flu, 14.1.7 Pneumonia (lesson pages 211–212)",
+          "mins": 7,
+          "do": "Read 14.1.6 and 14.1.7 on lesson pages 211–212 aloud. Correct one point: colds and flu are caused by viruses, not bacteria, so antibiotics do not help them. Ask the book's myth question: 'Does getting wet in the rain give you a cold?' (No; a virus does. Being wet and cold can make you feel worse if you already have one.) Pneumonia: an infection deep in the lungs, dangerous for babies and old people; signs are fast breathing, chest pain, high fever and coughing up yellow or green phlegm. Add: babies in India now get vaccines that protect against some causes of pneumonia."
+        },
+        {
+          "kind": "exp",
+          "title": "How far does a sneeze go?",
+          "mins": 12,
+          "do": "Do Experiment e2. Tape a long strip of newspaper or chart paper (2 metres) on the floor. Fill a spray bottle with water and a few drops of food colour. Your child holds the bottle at mouth height at one end and gives one quick 'sneeze' spray along the paper. Mark how far the furthest drops landed. Then repeat three ways: spray into a cupped hand, into a tissue, and into the crook of the elbow (an old sleeve over the bottle). Ask them to predict first: 'Which cover will stop the most?' Ask afterwards: 'Why is the elbow better than the hand?' (Hands then touch door handles and food; the elbow does not.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Linus Pauling and vitamin C",
+          "mins": 10,
+          "do": "Read the line on lesson page 211 that oranges, tomatoes and vitamin C fruits are useful against colds. Then tell your child Voice v3: a very famous scientist who won two Nobel Prizes, Linus Pauling, wrote in 1970 that taking large doses of vitamin C every day would prevent colds. Many people believed him because he was so famous. But when many careful trials were done, vitamin C pills did not stop most people from catching colds, though they may shorten a cold a little. Fruits are still good for you for many other reasons. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 14.2 (lesson page 213)",
+          "mins": 8,
+          "do": "Ask 'Let's see, what you have learnt 14.2' on lesson page 213 aloud. Good answers: vomiting and watery stools is cholera; shivering and fever is malaria; mild cough and continuous fever is TB. Two cholera protections: drink clean water; keep food covered. Right or wrong: flies spread dengue and malaria (wrong: mosquitoes do); no blood test is needed with high fever (wrong); children should be vaccinated against TB (right); cover your mouth when coughing and sneezing (right). Then check the bread bags (Experiment e1) and draw them.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 209–213", "a spray bottle, water, food colour", "2 metres of newspaper or chart paper, tape, a measuring tape", "a tissue and an old sleeve", "the bread bags"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "HIV and AIDS, and the heart and brain",
+      "goal": "Learn in a calm, age-appropriate way how HIV does and does not spread and why people with HIV deserve respect, then start the non-infectious diseases with heart attack and stroke.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Parent note before HIV",
+          "mins": 4,
+          "do": "Parent note: lesson pages 212–213 are written for adults and talk about sexual relations and condoms. For a 10-year-old, focus on three things: HIV spreads only through certain body fluids, mainly blood, from a mother to her baby, and through sexual contact between grown-ups; it does NOT spread through everyday contact; and people living with HIV should be treated with kindness. If your child asks about 'physical relations', you can say: 'That means the close physical relationship grown-ups can have, which is how babies are made. We can talk more about it as you grow older.' Then ask your child: 'Have you heard of HIV or AIDS? What have you heard?' Listen first, then correct any fears."
+        },
+        {
+          "kind": "read",
+          "title": "14.1.8 HIV/AIDS (lesson pages 212–213)",
+          "mins": 8,
+          "do": "Read the first part of 14.1.8 on lesson page 212 aloud: AIDS is not a disease by itself; the body loses its power to fight other diseases; it is caused by a virus called HIV (Human Immunodeficiency Virus). Read the four ways it spreads, and explain the needle point: never touch used needles or blades, and tell an adult if you find one. Then correct the book: it says no medicine or treatment helps. That was true years ago, but now there are medicines (called ART) that keep HIV under control so people can live long, healthy lives, go to school and work, and have healthy babies. There is still no cure, so prevention matters. In India HIV tests and medicines are free at government centres, and test results are kept private, as the book says."
+        },
+        {
+          "kind": "game",
+          "title": "Can HIV spread this way?",
+          "mins": 7,
+          "do": "Read these one by one and your child says 'Yes' or 'No': hugging a friend with HIV (no); sharing a tiffin or a glass of water (no); shaking hands or playing together (no); sitting on the same chair or using the same toilet (no); a mosquito bite (no; the virus cannot live and grow in mosquitoes); sharing a used injection needle (yes); blood that has not been tested given in hospital (yes, which is why all blood for transfusion is tested); from a mother to her baby (yes, but medicines can prevent it in most cases). Ask: 'If a classmate had HIV, how should we treat them?' (Like anyone else, with kindness; keeping it private.)"
+        },
+        {
+          "kind": "read",
+          "title": "14.2 Non-infectious diseases and 14.2.1 'Heart stroke' (lesson pages 213–214)",
+          "mins": 8,
+          "do": "Read the opening of 14.2 on lesson page 213 (some diseases are hereditary, some linked to lifestyle and food, some to age) and 14.2.1 on lesson page 214. Correct the book's mixed-up name: it describes a 'heart stroke', but there are two different emergencies. A heart attack is when a blood vessel feeding the heart muscle gets blocked, often by fatty deposits; signs are chest pain spreading to the left arm, jaw or back, sweating and breathlessness. A stroke is when a blood vessel in the brain is blocked or bursts. Teach the stroke signs with the word FAST: Face drooping on one side, Arm weakness, Speech slurred, Time to call an ambulance (108 in most of India). Ask: 'What makes both more likely?' (Fatty, oily food, smoking, high blood pressure, not exercising, stress, diabetes.)"
+        },
+        {
+          "kind": "do",
+          "title": "How much oil and salt?",
+          "mins": 10,
+          "do": "Look at the nutrition labels of three packets at home (namkeen, biscuits, instant noodles or chips) and find 'Total fat' and 'Sodium' per serving or per 100 g. Your child writes the numbers and ranks the packets. Then measure out on a plate one tablespoon of oil and one teaspoon of salt and talk about how much oil and salt your family uses in a day. Ask: 'What small changes could our family make for our hearts?' (Less fried food, less salt and pickles, more walking and play, no smoking.) Write two changes on the fridge."
+        },
+        {
+          "kind": "check",
+          "title": "Bread bag check",
+          "mins": 8,
+          "do": "Check Experiment e1 again. By now some slices may show spots. Ask: 'Which slice has the most? The fewest? Is that what you guessed?' Draw all four with the date. Then ask your child to fill the 'Blood and touch' box in the notebook from Day 1 with HIV, tetanus (from deep dirty wounds; prevented by vaccine) and scabies.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 212–214", "3 food packets with nutrition labels", "a tablespoon of oil and a teaspoon of salt on a plate", "the bread bags", "notebook"],
+      "prep": [{"task": "Read lesson pages 212–213 yourself first and decide how to answer questions about 'physical relations' simply and calmly", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Diabetes and cancer",
+      "goal": "Learn what diabetes is, its two main types and signs, how much sugar is hiding in drinks, and how tobacco raises the risk of cancer, then do the core worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "14.2.2 Diabetes (lesson pages 214–215)",
+          "mins": 8,
+          "do": "Read 14.2.2 on lesson pages 214–215 aloud. Explain what is happening: after we eat, sugar from food goes into the blood; a hormone called insulin, made by the pancreas (an organ behind the stomach), helps the sugar enter the body's cells to give energy. In diabetes, the body does not make enough insulin or cannot use it well, so sugar stays high in the blood. Add a point the book misses: there are two main types. Type 1 usually starts in children or young people, is not caused by eating sweets, and is treated with insulin injections. Type 2 is more common, usually in adults, and is linked to being overweight, inactivity and family history. Ask: 'What signs does the book give?' (Wounds heal slowly, a lot of urine, thirst, blurred eyes, weight change.) Tell them: ancient Indian doctors called it madhumeha, 'honey urine', because ants were drawn to the patient's sweet urine, the same sign the book mentions."
+        },
+        {
+          "kind": "do",
+          "title": "Sugar in a bottle",
+          "mins": 10,
+          "do": "Bring a bottle or can of cold drink, a packet of fruit juice, and a flavoured milk if you have them (or use the labels from a shop). Your child finds 'Total sugars' in grams per bottle. Divide by 4 to find teaspoons of sugar (1 level teaspoon is about 4 g). They spoon that many teaspoons of sugar onto a plate next to each bottle. Ask: 'Did you expect this much?' Tell them that health experts advise children to keep added sugar to only a few teaspoons a day in all. Ask: 'What could we drink instead?' (Water, buttermilk/chaas, nimbu-paani with little sugar, plain milk, coconut water.)"
+        },
+        {
+          "kind": "read",
+          "title": "14.2.3 Cancer (lesson page 215)",
+          "mins": 7,
+          "do": "Read 14.2.3 on lesson page 215 aloud. Explain gently: 'Our bodies are made of tiny cells that grow and divide in an orderly way. In cancer, some cells start growing out of control and can form a lump. Cancer does not spread from person to person.' Ask: 'What does the book say increases the risk?' (Smoking bidis and cigarettes: lung and lip cancer; chewing tobacco, gutkha and paan masala: mouth cancer, very common in India.) Add: many cancers can be treated, especially if found early, so any lump, a sore in the mouth that does not heal, or unusual bleeding should be shown to a doctor. If someone in your family has had cancer, let your child ask questions and reassure them that it is not their fault and not catching."
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 14.3 (lesson page 215)",
+          "mins": 6,
+          "do": "Ask 'Let's see, what you have learnt 14.3' on lesson page 215 aloud. Good answers: reasons for non-infectious diseases include lifestyle and food habits, growing age, and heredity; diabetes is a lifestyle-linked disease (type 2); there is pain in the chest in a heart attack; a diabetic patient's wound takes a long time to heal; cancer can be caused by chewing tobacco."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 9,
+          "do": "Your child does Worksheet ws1 (core) on their own. Check it together and, for each mistake, find the right lesson page (infectious diseases pages 208–213, non-infectious pages 213–215) and read the part again.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "exp",
+          "title": "Bread bag check",
+          "mins": 5,
+          "do": "Check and draw the bread slices from Experiment e1. If the 'dirty hands' slice has clear spots and the 'soap' slice has few, the test is ready to finish tomorrow; otherwise leave it one more day.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 214–215", "a cold drink, juice packet or flavoured milk (or their labels)", "sugar, a teaspoon, plates", "Worksheet ws1", "the bread bags"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Protection: clean hands, clean food, clean surroundings, vaccines",
+      "goal": "Learn and practise the book's protections, prove why soap matters, check our vaccination card, understand the harm of tobacco and alcohol, and meet Semmelweis, the doctor who said 'wash your hands'.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Open the bread bags",
+          "mins": 7,
+          "do": "Finish Experiment e1. Lay the four sealed bags side by side; do not open them. Your child counts the mould and germ spots on each and fills a table. Usually 'dirty hands' has the most, 'water only' has fewer, 'soap' has the fewest, close to 'untouched'. Ask: 'What does this prove about soap?' Then throw the sealed bags in the dustbin and wash hands with soap.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "14.3 Protection from diseases (lesson pages 216–217)",
+          "mins": 8,
+          "do": "Read 14.3 parts (a) to (d) on lesson pages 216–217 aloud: personal cleanliness, clean food and drink, clean surroundings, contact with a patient. After each part, your child names one thing your family already does and one thing to improve. One gentle correction: the book says keep children away from domestic animals. Pets can be good friends; the real rules are: wash hands after touching animals, keep pets vaccinated, and if any animal bites or scratches you, wash the wound with soap and running water for 15 minutes and go to a doctor the same day for the rabies vaccine."
+        },
+        {
+          "kind": "exp",
+          "title": "Glitter germs: how to wash hands",
+          "mins": 10,
+          "do": "Do Experiment e3. Rub a little coconut oil on your child's hands and sprinkle on glitter or a pinch of turmeric as 'germs'. They shake your hand, touch a door handle and a cup. Ask: 'Where did the germs go?' Then they rinse with plain water for 5 seconds: much stays. Then they wash with soap using the six steps: palms, backs of hands, between fingers, backs of fingers, thumbs, fingertips and nails, for 20 seconds (sing 'Happy Birthday' twice). Ask: 'When must we wash hands with soap?' (Before eating and cooking, after the toilet, after coughing or sneezing into hands, after touching animals or rubbish, after coming home from outside.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Ignaz Semmelweis: wash your hands",
+          "mins": 9,
+          "do": "Tell your child Voice v4: in a hospital in Vienna in 1847, many new mothers were dying of fever in the ward where doctors worked, but far fewer in the ward run by midwives. Dr Semmelweis noticed that doctors came straight from cutting open dead bodies to deliver babies. He made them wash their hands in a chlorine solution, and deaths fell sharply. But many doctors were offended and refused to believe him. Ask: 'Why might the doctors not want to believe they were spreading disease?' Then ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "do",
+          "title": "Our vaccination card and the harm of tobacco and alcohol",
+          "mins": 11,
+          "do": "Read parts (e) to (g) on lesson pages 217–218 aloud. Then take out your child's vaccination card (or the MCP card from the health centre or hospital). Together, find the names: BCG (TB), polio drops, DPT (diphtheria, whooping cough, tetanus), measles-rubella, hepatitis B and others. Tell them that because of polio drops given to every child, India was declared polio-free in 2014. Check if any booster is due and note it for the doctor. Then talk about tobacco and alcohol: smoke harms everyone nearby, especially children (more pneumonia and asthma); chewing tobacco causes mouth cancer; alcohol damages the liver and can harm the whole family. Point out the book's last point: money spent on tobacco and alcohol could buy nutritious food. Ask: 'What would you say if a friend offered you a cigarette or gutkha?'"
+        }
+      ],
+      "need": ["Lesson pages 216–218", "the bread bags", "coconut oil, glitter or turmeric, soap, a door handle and a cup", "your child's vaccination card"],
+      "prep": [{"task": "Find your child's vaccination card", "when": "2 days before"}]
+    },
+    {
+      "n": 8,
+      "title": "Let us revise, check and teach it back",
+      "goal": "Review the whole lesson with the book's revision and exercises, try the stretch and challenge worksheets, check understanding and have your child teach the family how to stay healthy.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Let's see 14.4 (lesson pages 218–220)",
+          "mins": 7,
+          "do": "Read 'Let's Revise' on lesson pages 219–220 together. After each point, your child names the day's test or activity that matched it (bread bags, ORS, mosquito hunt, sneeze spray, glitter hands). Then ask 'Let's see 14.4' on lesson pages 218–219 aloud: two personal cleanliness habits; germs reach the air when people cough or sneeze; three diseases from dirty water (typhoid, cholera, diarrhoea, also jaundice caused by hepatitis A and polio); vaccines children get; two harms of smoking."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 9,
+          "do": "Your child does Worksheet ws2 (stretch), which gives new situations to solve. Go over it together, asking 'Which road is the germ using, and how do we block it?' for each.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws3 (challenge) together. Let your child think and write; you ask only 'What is the evidence?'. The last section compares the four voices: Snow, Ross, Semmelweis and Pauling.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud one at a time, without the book. Tick each one answered well. For a missed one, open the matching lesson page (infectious diseases pages 206–213, non-infectious pages 213–215, protection pages 216–218), read the part together for a minute, and ask again in other words. Six or more right is good; fewer than five means repeat the four 'roads' chart and the Day 7 protections next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: the family health talk",
+          "mins": 12,
+          "do": "Your child gives a 'health worker talk' to the family, like the ASHA didi or ANM in a village. Using the four-roads chart, the ORS recipe, the sneeze paper and the mosquito-hunt list, they explain in 5–7 minutes: two diseases on each road and how to block them; how to make ORS; FAST for stroke; and why vaccines matter. The 'family' asks: 'My cold has lasted 3 days, should I take an antibiotic?' (No; colds are viral; see a doctor if it is severe or long.) and 'Can I catch diabetes from my friend?' (No; it is non-infectious.) End by doing the book's 'Come on, let us practise' task on lesson page 221: your child asks one grandparent or neighbour which illness they have had and what they did to protect themselves, and writes it down."
+        }
+      ],
+      "need": ["Lesson pages 218–221", "Worksheets ws2 and ws3", "the four-roads chart, ORS recipe, sneeze paper and mosquito-hunt list"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Infectious and non-infectious diseases",
+      "day": 6,
+      "sections": [
+        ["A. Two kinds of disease", [
+          {"t": "sort", "p": "Sort these diseases.", "items": ["Tetanus", "Cancer", "Diabetes", "Flu", "Malaria", "HIV/AIDS", "Heart attack", "Anaemia", "Glaucoma", "Cholera", "Tuberculosis", "Asthma"], "cats": ["Infectious", "Non-infectious"]},
+          {"t": "write", "p": "What is an infectious disease?", "lines": 2}
+        ]],
+        ["B. How they spread", [
+          {"t": "match", "p": "Match each disease to how it spreads.", "pairs": [
+            ["Cholera", "Dirty water and food"],
+            ["Malaria", "Bite of an Anopheles mosquito"],
+            ["Dengue", "Bite of a daytime Aedes mosquito"],
+            ["Tuberculosis", "Air, when a patient coughs"],
+            ["HIV", "Blood, mother to baby, and sexual contact between adults"]
+          ]},
+          {"t": "fill", "p": "Passing many watery stools can cause loss of water from the body, called ____.", "a": ["dehydration"]},
+          {"t": "mcq", "p": "Which of these does NOT spread HIV?", "opts": ["Sharing a used injection needle", "Hugging a friend", "Untested blood", "Mother to baby without medicine"], "a": 1},
+          {"t": "mcq", "p": "A cough that lasts more than two weeks should be:", "opts": ["Ignored", "Treated with sweets", "Checked by a doctor for TB", "Treated with cold water"], "a": 2}
+        ]],
+        ["C. Non-infectious diseases", [
+          {"t": "fill", "p": "In diabetes the level of ____ in the blood is too high.", "a": ["sugar", "glucose"]},
+          {"t": "fill", "p": "Chewing tobacco increases the danger of ____ in the mouth.", "a": ["cancer"]},
+          {"t": "write", "p": "Write two things that make a heart attack more likely.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Block the germ's road",
+      "day": 8,
+      "sections": [
+        ["A. What would you do?", [
+          {"t": "write", "p": "Your little cousin has had watery diarrhoea since morning. What should the family do at once, and what danger signs mean going to the doctor?", "lines": 4},
+          {"t": "write", "p": "During the monsoon, three neighbours get dengue. Suggest three things your building should do.", "lines": 3},
+          {"t": "mcq", "p": "A street stall sells cut fruit uncovered, with flies on it. Which disease could you risk?", "opts": ["Typhoid or diarrhoea", "Diabetes", "Cataract", "Asthma"], "a": 0},
+          {"t": "mcq", "p": "Dadi suddenly cannot lift one arm and her speech is slurred. What should you do?", "opts": ["Let her sleep it off", "Call an ambulance (108) at once: these are signs of a stroke", "Give her a cold drink", "Wait until tomorrow"], "a": 1}
+        ]],
+        ["B. Correct the mistake", [
+          {"t": "write", "p": "Raju says: 'I got wet in the rain, so I caught a cold. I'll take antibiotics.' Correct both of his mistakes.", "lines": 3},
+          {"t": "write", "p": "Priya says: 'Don't sit next to Arjun, his uncle has HIV, you'll catch it.' What would you tell her?", "lines": 3},
+          {"t": "table", "p": "Our bread test results.", "cols": ["Slice", "Number of spots", "What it shows"], "rows": 4, "prefill": ["Untouched", "Dirty hands", "Washed with water", "Washed with soap"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a disease detective",
+      "day": 8,
+      "sections": [
+        ["A. Detective puzzles", [
+          {"t": "write", "p": "In one colony, ten families get diarrhoea in the same week. Six of them are on one water pipeline. What would you check first, and why?", "lines": 4},
+          {"t": "write", "p": "Why must TB patients keep taking medicine for months even after they feel well?", "lines": 3},
+          {"t": "write", "p": "Smallpox has been wiped out of the world, but malaria and dengue have not. Why might a disease carried by mosquitoes be much harder to wipe out?", "lines": 4}
+        ]],
+        ["B. Weighing the voices", [
+          {"t": "match", "p": "Match each person to what they showed.", "pairs": [
+            ["John Snow", "Cholera spread through one water pump"],
+            ["Ronald Ross", "Mosquitoes carry the malaria parasite"],
+            ["Ignaz Semmelweis", "Handwashing saved mothers' lives"],
+            ["Linus Pauling", "Claimed vitamin C pills prevent colds; trials did not support it"]
+          ]},
+          {"t": "write", "p": "Semmelweis was right but ignored; Pauling was famous but wrong about colds. What does this teach us about believing an idea because of who says it?", "lines": 4},
+          {"t": "mcq", "p": "Which is the best way to find out whether a medicine really prevents colds?", "opts": ["Ask a famous scientist", "Give it to one person", "Compare many people who take it with many who take a dummy pill, without them knowing which", "Read the advertisement"], "a": 2}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Bread and hands",
+      "day": 1,
+      "question": "Do our hands carry germs, and does washing with soap remove them better than water alone?",
+      "need": ["4 slices of plain bread (preservative-free if possible)", "4 zip-bags and labels", "a clean spoon", "soap, water and a clean towel", "a dark cupboard"],
+      "steps": [
+        "Label the bags: 'Untouched', 'Dirty hands', 'Washed with water', 'Washed with soap'.",
+        "Use a clean spoon to put slice 1 into its bag without touching it.",
+        "After playing outside and touching door handles and a phone, the child rubs both hands over slice 2 and bags it.",
+        "The child rinses hands with water only, dries on a clean towel and touches slice 3.",
+        "The child washes properly with soap for 20 seconds, dries and touches slice 4.",
+        "Add a few drops of clean water to each, seal, and keep them in a dark cupboard. Look every day or two without opening. Throw away sealed after about a week."
+      ],
+      "predict": "Ask your child to guess first: which slice will grow the most spots? Will water alone be as good as soap?",
+      "observe": "Record the number, size and colour of spots on each slice every day or two. Usually the 'dirty hands' slice grows the most mould and bacteria spots, 'water only' fewer, and 'soap' the fewest, close to 'untouched'.",
+      "why": "Our hands pick up millions of microbes from everything we touch: door handles, phones, money, soil. Most are harmless, but some cause diarrhoea, typhoid, colds and flu. On damp bread in the dark, the microbes from our hands grow into colonies big enough to see. Water alone rinses off some, but germs stick in the natural oils on our skin. Soap molecules have one end that grabs oil and one end that grabs water, so they lift the oily dirt and germs off the skin and wash them away. That is why the book says to wash hands with soap before meals and after the toilet.",
+      "safety": "Never open the bags once spots appear; mould spores and bacteria can make people ill, especially anyone with asthma. Throw the bags away sealed and wash hands afterwards.",
+      "time": "15 min to set up + short checks over 6 days"
+    },
+    {
+      "id": "e2",
+      "title": "How far does a sneeze go?",
+      "day": 4,
+      "question": "How far do droplets from a sneeze travel, and which way of covering the mouth stops them best?",
+      "need": ["a spray bottle", "water with a few drops of food colour", "a 2-metre strip of newspaper or chart paper", "tape and a measuring tape", "a tissue", "an old sleeve or cloth"],
+      "steps": [
+        "Tape the paper strip on the floor.",
+        "Hold the spray bottle at mouth height at one end and give one quick spray along the paper. Mark the furthest drop.",
+        "Spray again into a cupped hand held in front of the nozzle. Mark the furthest drop.",
+        "Spray into a tissue held in front. Mark it.",
+        "Spray into the crook of an elbow covered with an old sleeve. Mark it.",
+        "Measure and compare."
+      ],
+      "predict": "Ask your child to guess first: how far will an uncovered 'sneeze' go? Which cover will work best?",
+      "observe": "Record the distance for each. The uncovered spray usually reaches far along the paper; the hand, tissue and elbow stop most drops, but the hand gets covered in coloured water.",
+      "why": "A real sneeze or cough throws out thousands of tiny droplets of mucus and saliva at high speed; the biggest fall within a metre or two, the smallest float in the air for a while. If the person has a cold, flu, TB or pneumonia, the germs ride on these droplets to others who breathe them in. Covering the mouth and nose stops most droplets. A tissue (thrown away straight after) or the elbow is best, because hands then touch door handles, food and other people and spread germs onward. This is why the book asks patients to cover their mouth and not spit in public.",
+      "safety": "Use only water and food colour. Do it on a washable floor and wipe up afterwards. Do not spray at anyone's face.",
+      "time": "12 min"
+    },
+    {
+      "id": "e3",
+      "title": "Glitter germs",
+      "day": 7,
+      "question": "How easily do germs spread from hands, and how long does it take to wash them off properly?",
+      "need": ["a little coconut oil", "glitter or a pinch of turmeric", "soap", "water", "a door handle and a cup", "a timer"],
+      "steps": [
+        "Rub a little oil on your child's hands and sprinkle glitter or turmeric on them as 'germs'.",
+        "Your child shakes your hand, touches a door handle and holds a cup.",
+        "Look at where the 'germs' have spread.",
+        "Rinse hands with plain water for 5 seconds and look again.",
+        "Wash with soap for 20 seconds using all six steps (palms, backs, between fingers, backs of fingers, thumbs, fingertips and nails) and look again.",
+        "Wipe the door handle and cup clean."
+      ],
+      "predict": "Ask your child to guess first: how many things will the 'germs' reach? Will water alone wash them off?",
+      "observe": "The glitter or turmeric spreads to your hand, the handle and the cup. Plain water leaves much of it behind, especially between fingers, under nails and on thumbs. Soap and 20 seconds removes nearly all.",
+      "why": "Germs, like the glitter, stick to the oils on our skin and travel to everything we touch, and from there to the next person's hands, mouth, nose and eyes. Water slides over the oil; soap breaks the oil up so it can be rinsed off. The places most often missed are the thumbs, fingertips, nails and between the fingers, which is why the six steps and 20 seconds matter. Semmelweis's discovery in 1847 was exactly this: hands carry disease, and proper washing stops it.",
+      "safety": "Turmeric can stain clothes; use an old shirt. Keep glitter away from eyes.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Making ORS",
+      "day": 2,
+      "mins": 12,
+      "need": ["an ORS packet if available", "1 litre of boiled and cooled drinking water", "sugar and salt", "level measuring teaspoons", "a clean jug and a clean spoon"],
+      "steps": [
+        "Wash hands with soap.",
+        "If using a packet, read and follow its instructions exactly: usually one packet in one litre of clean water.",
+        "For home ORS, pour exactly 1 litre of boiled and cooled water into the clean jug.",
+        "Add 6 level teaspoons of sugar and half a level teaspoon of salt.",
+        "Stir until dissolved. Taste a sip: it should be no saltier than tears.",
+        "Give it in small sips with a spoon or cup. Make fresh ORS every 24 hours."
+      ],
+      "outcome": "Your child knows how to make and give ORS, the simple drink that has saved millions of children with diarrhoea, and why the amounts must be exact."
+    },
+    {
+      "id": "a2",
+      "title": "Mosquito breeding-spot hunt",
+      "day": 3,
+      "mins": 18,
+      "need": ["a torch", "a notebook with columns: Place, Water? (yes/no), Larvae seen? (yes/no), What we did", "gloves and a scrubbing brush"],
+      "steps": [
+        "List every place in and around your home where water can collect.",
+        "Check each with the torch: is there water? Are there tiny wriggling larvae?",
+        "Record what you find.",
+        "The parent empties and scrubs any container that does not need water and turns it upside down.",
+        "Cover water tanks and drums tightly; change water in vases and bird bowls.",
+        "Choose one day a week as 'dry day' and repeat the hunt."
+      ],
+      "outcome": "A checklist of your home's breeding spots, fewer mosquitoes, and a weekly family habit that protects against malaria and dengue."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "John Snow (1813–1858), England",
+      "idea": "Snow, a London doctor, argued that cholera spread through water dirtied with the waste of sick people, not through bad-smelling air. During an outbreak in Soho in 1854, he marked each death on a street map and found they clustered around a public water pump on Broad Street. Families who drank from other sources, such as workers at a nearby brewery who drank beer, mostly escaped. He convinced local officials to remove the pump's handle.",
+      "then": "Most doctors and officials believed in 'miasma', disease from foul air, and many rejected his water theory. A report soon after the outbreak did not accept his explanation.",
+      "now": "It is accepted that cholera is caused by a bacterium, Vibrio cholerae, spread mainly through contaminated water and food. Snow is honoured as a founder of epidemiology, the science of tracking how diseases spread. Clean water supply and sewers, which followed in many cities, are among the greatest life-savers in history.",
+      "status": "accepted",
+      "ask": "Snow's map showed deaths around one pump. A map shows a pattern, but is it proof? What else would you want to know to be sure the water caused the cholera?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Ronald Ross (1857–1932), British doctor working in India",
+      "idea": "Ross, born in Almora in the Himalayas and working in the Indian Medical Service, set out to test the idea that mosquitoes carried malaria. On 20 August 1897 in Secunderabad, after many failures, he found malaria parasites growing in the stomach wall of a mosquito of the kind now called Anopheles that had fed on a malaria patient. In Kolkata in 1898, using bird malaria, he showed the whole cycle: parasites travel to the mosquito's salivary glands and pass into a new host when it bites.",
+      "then": "Many people still believed malaria came from bad air near marshes. Others, such as Patrick Manson, had suggested the mosquito idea, and Italian scientists including Giovanni Battista Grassi worked out the human cycle at about the same time, which led to a bitter argument over credit.",
+      "now": "That Anopheles mosquitoes carry the malaria parasite is fully accepted. Ross won the Nobel Prize in Medicine in 1902, and 20 August is marked as World Mosquito Day. Nets, removing breeding sites and quick testing and treatment, as the book advises, are based on his work.",
+      "status": "accepted",
+      "ask": "Ross found the parasite inside a mosquito. Why was that stronger evidence than just noticing that malaria and mosquitoes are both common near marshes?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Linus Pauling (1901–1994), USA",
+      "idea": "Pauling, a chemist who won the Nobel Prize in Chemistry (1954) and the Nobel Peace Prize (1962), wrote a popular book in 1970, 'Vitamin C and the Common Cold', claiming that taking large daily doses of vitamin C, far more than food gives, would prevent most colds.",
+      "then": "Millions of people began taking vitamin C pills because of his fame. Many doctors and scientists doubted the claim and began careful trials, comparing people who took vitamin C with people who took a dummy pill.",
+      "now": "Large reviews of these trials have found that regular vitamin C pills do not reduce how often most people catch colds, although they may shorten colds slightly. His big claim is not supported by the evidence. Vitamin C is still essential (lack of it causes scurvy, with bleeding gums), and fruits and vegetables are still important, as the book says.",
+      "status": "rejected",
+      "ask": "Pauling was one of the greatest scientists of his time, yet wrong about this. What should matter more when deciding if a claim is true: who says it, or what the tests show?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Ignaz Semmelweis (1818–1865), Hungary, working in Vienna",
+      "idea": "In 1847 at the Vienna General Hospital, Semmelweis noticed that far more mothers died of childbed fever in the clinic run by doctors and medical students than in the clinic run by midwives. The doctors often came straight from dissecting dead bodies. After a colleague died from a cut during a dissection with similar symptoms, he concluded that 'particles' from the bodies were carried on the doctors' hands. He made everyone wash their hands in a chlorine solution, and deaths in his clinic fell sharply.",
+      "then": "Many senior doctors were offended at the idea that they were causing deaths, and his explanation did not fit the ideas of the time. He did not publish his full results until 1861, lost his job in Vienna, and his ideas were widely rejected during his life.",
+      "now": "Germ theory, developed by Louis Pasteur, Joseph Lister and Robert Koch in the decades after his death, explained why he was right. Handwashing is now accepted as one of the most important ways to prevent infection in hospitals and homes, and Semmelweis is honoured as a pioneer.",
+      "status": "accepted",
+      "ask": "Semmelweis had numbers showing deaths fell, but no explanation that others accepted. Is a result enough even without an explanation? What would have helped convince the other doctors?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What is the difference between infectious and non-infectious diseases? Give two examples of each.", "a": "Infectious diseases pass from person to person through air, water, food, insects or blood, like cholera and flu. Non-infectious ones do not spread, like diabetes and cancer."},
+    {"q": "How does cholera spread, and why is it dangerous?", "a": "Through water and food dirtied with germs from an infected person's stool (flies can carry it too). It causes huge loss of water through watery stools and vomiting, called dehydration, which can kill."},
+    {"q": "How do you make home ORS?", "a": "1 litre of clean boiled and cooled water, 6 level teaspoons of sugar and half a level teaspoon of salt, stirred well, given in small sips; or an ORS packet as the instructions say."},
+    {"q": "Which mosquitoes carry malaria and dengue, and how can we stop them?", "a": "Anopheles mosquitoes carry malaria (bite at night); Aedes mosquitoes carry dengue (bite by day). Empty standing water every week, cover tanks, use nets and screens, wear full sleeves, and get a blood test for fever."},
+    {"q": "How do TB, colds and flu spread, and what can patients do to protect others?", "a": "Through the air in droplets when patients cough or sneeze. They should cover their mouth and nose with a tissue or elbow, not spit in public, and get treated."},
+    {"q": "Name two ways HIV spreads and two ways it does not.", "a": "It spreads through infected blood or shared needles, from mother to baby, and through sexual contact between adults. It does not spread through hugging, touching, sharing food or mosquito bites."},
+    {"q": "What are the warning signs of a stroke?", "a": "FAST: Face drooping on one side, Arm weakness, Speech slurred, Time to call an ambulance at once."},
+    {"q": "Name five ways to protect ourselves from disease.", "a": "Any five: wash hands with soap before eating and after the toilet, drink clean water, keep food covered and eat fresh well-cooked food, keep surroundings clean and use a toilet, do not let water stand, get vaccinated, cover coughs and sneezes, eat nutritious food, avoid tobacco and alcohol."}
+  ]
+}

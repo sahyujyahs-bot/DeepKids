@@ -1,0 +1,644 @@
+{
+  "key": "ncert|sci|3|10",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 10,
+  "title": "This World of Things",
+  "source": "NCERT Our Wondrous World, Class 3, Chapter 10 (pages 123–134), Unit 4 'Things Around Us' (unit pages 121–122), Reprint 2026-27",
+  "summary": "Khushi draws her sunny classroom and wonders where everything in it came from and what it is made of. Your child follows her questions: they spot wood, metals, glass and plastic around the home, sort materials into transparent, translucent and opaque, look at the world through coloured plastic, test materials by touch, sound, bending and water, group things into solids, liquids and gases, and tell natural things from artificial ones.",
+  "goals": [
+    "By the end your child can name the material that common objects are made of (wood, metal, glass, plastic, cloth, clay, rubber) and say where each material comes from (trees, ores in rocks, sand, cotton plants, petroleum).",
+    "By the end your child can sort materials into transparent, translucent and opaque by testing them with a torch, and describe how coloured see-through materials change the colours we see.",
+    "By the end your child can describe materials by their properties: smooth or rough, shiny or dull, feels cold, hard and rigid or soft and flexible, waterproof or not, the sound it makes when tapped, and whether a magnet sticks to it.",
+    "By the end your child can explain why an object is made of a particular material, and why some 'odd pairs' (a paper umbrella, a wooden shirt) would not work.",
+    "By the end your child can classify things as solid, liquid or gas, show that air takes up space, and explain why sand, sponge and clay are confusing cases.",
+    "By the end your child can tell natural things (living and non-living) from artificial things made by people, and say how scientists in India and abroad found out surprising facts about everyday materials."
+  ],
+  "words": [
+    ["material", "the stuff an object is made of, like wood, metal, glass, plastic, cloth or clay"],
+    ["metal", "a hard, usually shiny material such as iron, copper, aluminium, gold or silver that comes from rocks dug out of the earth"],
+    ["ore", "rock or soil dug from inside the earth that has a metal in it; the metal is taken out by heating and other careful steps"],
+    ["alloy", "a mixture of metals (sometimes with a little of something else), like steel, brass and bronze"],
+    ["transparent", "you can see through it clearly, like window glass or clean water"],
+    ["translucent", "light comes through but you cannot see clearly through it, like butter paper, a thin kurta cloth or a frosted bathroom window"],
+    ["opaque", "no light comes through and you cannot see through it at all, like wood, a steel plate or cardboard"],
+    ["rigid", "stiff and hard; it does not bend easily, like a wooden table"],
+    ["flexible", "it bends easily without breaking, like cloth, rubber or a plastic ruler"],
+    ["solid", "keeps its own shape, like a stone, a spoon or ice"],
+    ["liquid", "flows and takes the shape of its container, but stays in it, like water, ink or honey"],
+    ["gas", "flows and spreads out to fill any space, and does not stay in an open cup, like air, steam or smoke"],
+    ["natural", "found in nature, not made by people; it can be living (a tree, a bird) or non-living (a rock, water, air)"],
+    ["artificial", "made by people, like clothes, shoes, tables and plastic"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Let's take a look around us",
+      "goal": "Meet Khushi and her classroom drawing, name the things around us, draw and label our own room, and start asking what things are made of and where they come from.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Eyes-closed room memory",
+          "mins": 5,
+          "do": "Sit with your child in the room where they study. Ask them to look around for 30 seconds, then close their eyes. Ask: 'How many things in this room can you name with your eyes closed?' Count together. Then ask: 'Pick one of them. What is it made of? Where do you think that stuff came from?' A good answer: 'The almirah is metal; metal comes from... the shop?' Do not correct yet; say: 'Let's find out where things really come from this week.'"
+        },
+        {
+          "kind": "read",
+          "title": "Khushi's classroom (page 123)",
+          "mins": 8,
+          "do": "Read the unit opening on page 121 and the eco-friendly gift-wrap box on page 122 aloud (newspaper or old cloth instead of new wrapping paper). Then read 'Let's take a look around us!' on page 123: Khushi reached school early and drew her sunlit classroom. Do the book's task: your child names every thing in Khushi's drawing and writes the names in the boxes (for example blackboard, table, chair, window, door, fan, bulb, switch, mat, books, dustbin, plant). Then ask the question at the bottom of page 123: 'Can you see through the window glass? Why or why not?' Good answer: 'Yes, because glass lets light pass straight through it.'"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: Draw my room (page 124)",
+          "mins": 13,
+          "do": "Do Activity a1, which is Activity 1 on page 124, at home. If your child studies at home, 'my classroom' is the room where they study. Your child draws the room in the notebook as Khushi did, with at least 12 things in it, and labels each one. Then, next to each label, they write in pencil what they think it is made of: W for wood, M for metal, G for glass, P for plastic, C for cloth, or '?' if they are not sure. Ask: 'Which letter did you use most?' Keep this drawing: we will check the '?' items during the week.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Khushi's three questions (page 124)",
+          "mins": 9,
+          "do": "Read the top of page 124: Khushi wonders, 'Where have all these things come from? Who has made them? What are they all made of?' Then read the next two lines: the table and chair are made of wood, and the hinges, nails and latches of the door are made of metals. Ask the book's question: 'Where do we get wood from?' (From trees: the trunk and big branches are cut and sawn into planks.) Then take your child to a door and look at the hinges, the latch and the screws. Ask: 'Who made this door?' (A carpenter shaped the wood; a factory made the hinges and screws; a person fixed it in place.) Ask: 'How many different people might have worked on just this one door?' Count them: the tree-grower, the woodcutter, the truck driver, the timber shop, the carpenter, the hinge factory, the painter."
+        },
+        {
+          "kind": "talk",
+          "title": "Where does it come from? first guesses",
+          "mins": 5,
+          "do": "Ask your child to choose three things from their room drawing and guess, without help, where the material came from. Write their guesses on a sticky note: for example 'plastic bottle comes from ___', 'glass comes from ___', 'my cotton shirt comes from ___'. Stick the note inside the notebook cover. On Day 5 we will check these guesses against page 128."
+        }
+      ],
+      "need": ["Textbook pages 121–124", "notebook, pencil and colours", "a sticky note"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Spot the metals",
+      "goal": "Learn that metals come from ores dug from the earth and that alloys are mixtures of metals, hunt for metals at home, and test which ones a magnet picks up.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Metals from the earth (page 124)",
+          "mins": 6,
+          "do": "Read the box on page 124 aloud: 'Metals are carefully extracted from certain rock and sediment (called ore) dug up from inside the earth.' Explain: iron comes from a reddish-brown rock called iron ore, mined in places like Odisha, Chhattisgarh, Jharkhand and Karnataka; aluminium comes from a reddish clay-like ore called bauxite; copper from copper ore. The ore is heated in huge furnaces until the metal melts out. Then follow the teacher's note on page 124: show your child as many metals as you have at home: an iron nail or tawa (iron), a copper lota or wire (copper), an aluminium pressure-cooker lid or foil (aluminium), a gold or silver ring or payal (gold, silver), and the alloys: steel plates (iron with a little carbon, and for stainless steel also chromium), a brass diya (copper and zinc), a bronze idol or bell (copper and tin)."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 2: Spot the metals (page 125)",
+          "mins": 10,
+          "do": "Do Activity 2 on page 125. Your child walks through the whole home with a notebook and finds as many things, or parts of things, made of metal as they can in 8 minutes: the gas stove, the tap, keys, the gate, the fan blades, electric wires (the copper inside), the zip on a bag, a pressure cooker, coins, spectacle frames, scissors, safety pins. Next to each, write which metal it is, or ask an elder if they do not know. Then ask the page 125 question: 'What are other things, such as mats, bulbs and electric switches, made of?' (Mats: jute, coir, cotton or plastic; bulbs: glass with a metal base; switches: plastic outside, metal inside.) Ask: 'Why do you think the switch is plastic on the outside but metal inside?' (Metal carries electricity; plastic does not, so it keeps our fingers safe.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Are all metals magnetic?",
+          "mins": 13,
+          "do": "Do Experiment e4. Take a fridge magnet (or any magnet) and collect a pile of metal things from the hunt: an iron nail, a safety pin, a steel spoon, a steel plate, aluminium foil, a copper lota or wire, a brass diya, a few coins, keys, a paper clip, and some non-metals (a pencil, an eraser, a plastic lid). Before testing, your child sorts them into two piles: 'I think the magnet will stick' and 'I think it won't'. Then test each one and move it to the right pile. Ask: 'Does the magnet stick to every metal?' (No: it sticks to iron and some steels, but not to aluminium, copper, brass, gold or silver.) Ask: 'Did all the steel things behave the same?' (Often not: some steel spoons stick and some do not, because there are different recipes of stainless steel.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "The iron pillar that does not rust",
+          "mins": 8,
+          "do": "Tell the story in Voice v2 (the Iron Pillar of Delhi and R. Balasubramaniam). If you can, show a photo of the pillar on the phone. Then show your child an old rusty nail or a rusty gate hinge and ask: 'What happens to iron left out in the rain?' (It rusts: turns reddish-brown and flaky.) Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Update the room drawing",
+          "mins": 3,
+          "do": "Open the room drawing from Day 1 (Activity a1). Your child checks every 'M' and adds the metal's name if they now know it (iron, steel, aluminium, copper, brass). Change any '?' that turned out to be metal.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 124–125", "metal things from around the home: iron nail, steel spoon and plate, aluminium foil, copper wire or lota, brass diya, coins, keys, safety pin", "a fridge magnet", "a few non-metal things (pencil, eraser, plastic lid)", "a rusty nail if available", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "See-through materials",
+      "goal": "Find out which materials let light through clearly, partly or not at all, and learn the words transparent, translucent and opaque.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Khushi touches the glass (page 125)",
+          "mins": 6,
+          "do": "Read 'See-through materials!' on page 125 aloud: Khushi reaches out to touch the flowers on the tree and her hand touches the windowpane instead. Ask: 'Why didn't Khushi notice the glass at first?' (Because it is clear; light from the tree comes straight through it, so she saw the tree as if nothing was in between.) Then go to a window and ask the book's three questions: 'Does our window have a glass pane? Can you see through it? What do you see?' If the window has a mesh or grill, ask: 'Can you see through the mesh? Why?' (Light comes through the holes.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 3: Seeing through things (page 126)",
+          "mins": 16,
+          "do": "Do Experiment e1, which is Activity 3 on page 126. First read the 'Take care!' box on page 126 aloud: never look at the sun, directly or through anything. Collect 10 things: a clear glass, a clear plastic bottle, a steel plate, a sheet of notebook paper, butter paper or tracing paper, a thin cotton dupatta, a thick towel, a polythene bag, a wooden ruler, cardboard, wax paper or a tiffin's frosted plastic lid. Switch on a torch or a bulb (or light a candle, with an adult). Your child holds each thing in front of the light, about a hand's length from the eye, and decides: 'see through clearly', 'see through partially' or 'cannot see through at all'. They write each one in the right column of the table on page 126. Ask: 'Which surprised you?' (Many children are surprised that a thin dupatta or a wet paper lets light through.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Transparent, translucent, opaque (pages 126–127)",
+          "mins": 7,
+          "do": "Read the bottom of page 126 and the top of page 127 aloud. Write three words big on a sheet: TRANSPARENT (see through clearly), TRANSLUCENT (some light, but blurry), OPAQUE (no light, cannot see through). Your child relabels the three columns of their table with these words. Answer the book's questions: 'Name one more material that is transparent.' (Clean water, clear plastic, cellophane, air.) 'Find some materials that are translucent.' (Butter paper, a frosted bathroom window, a thin kurta, oily paper from a samosa, a plastic bucket held to the light, the skin of an onion.) Then try the trick: rub a drop of cooking oil on a piece of notebook paper and hold it to the light. Ask: 'What happened?' (The oily spot became translucent.)"
+        },
+        {
+          "kind": "do",
+          "title": "Why each one?",
+          "mins": 8,
+          "do": "Ask your child to think about why things in the home are made of the material they are, using today's words. 'Why are windows transparent?' (So light comes in and we can see out.) 'Why is the bathroom window often frosted, translucent glass?' (Light comes in but people outside cannot see in.) 'Why is a curtain or a door opaque?' (For privacy and to block light.) 'Why is the lampshade on page 134 made of translucent paper?' (It lets light through softly without the glare of the bare bulb.) Then let your child pick three things in the house and say whether each is transparent, translucent or opaque and why that is useful. Update the room drawing (Activity a1) by writing T, TL or O next to each window, curtain and door.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Quick quiz",
+          "mins": 3,
+          "do": "Call out things fast and your child shouts 'transparent', 'translucent' or 'opaque': spectacle glass (transparent), a brick (opaque), a polythene bag (transparent or translucent, depending how thick and clean it is; either is fine with a reason), milk in a glass (opaque), a lassi glass held to the light (translucent at the edges), a CD (opaque), a kite made of thin paper (translucent)."
+        }
+      ],
+      "need": ["Textbook pages 125–127", "a torch or table lamp (or a candle with adult help)", "10 things: clear glass, clear bottle, steel plate, notebook paper, butter paper, thin dupatta, towel, polythene bag, wooden ruler, cardboard", "a little cooking oil", "a sheet of paper and marker"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Let us colour the world!",
+      "goal": "Look at the world through coloured transparent materials, discover how colours change, hear how C.V. Raman studied the colour of the sea, and check our learning so far.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Book Activity 4: Coloured viewers (page 127)",
+          "mins": 14,
+          "do": "Do Experiment e2, which is Activity 4 on page 127. Collect two or three see-through coloured things: coloured cellophane or plastic folders, coloured glass or plastic bottles, a thin coloured dupatta, or the coloured plastic from a sweet box. Your child looks at a sheet of white paper through each one and answers the page 127 questions: 'Does the colour of the paper seem to change?' (Yes, it looks the colour of the plastic.) 'Does white paper look different through blue plastic and through yellow plastic?' (Blue through blue, yellow through yellow.) Then colour a large picture with red, blue, yellow and green crayons and look at it through each viewer. Ask: 'How does a blue object look through yellow plastic?' (Dark, greenish or almost black, depending on the plastic.) 'Which colour almost disappears when you look through red plastic?' (Red marks on white paper seem to vanish.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Coloured-glass memories (page 127)",
+          "mins": 5,
+          "do": "Ask the last question on page 127: 'Have you looked through coloured transparent things before? Try to remember.' Help with examples: sunglasses, the coloured glass windows of an old haveli, gurdwara or church, a coloured bottle of hair oil, Holi water in a clear bottle, a red traffic light, the coloured paper of a kandil (diya lantern) at Diwali. Ask: 'Why does a red kandil make the room glow red?' (The coloured paper lets mostly red light through and blocks the other colours.)"
+        },
+        {
+          "kind": "think",
+          "title": "C.V. Raman and the colour of the sea",
+          "mins": 8,
+          "do": "Tell the story in Voice v1. Fill a white bucket with water and look down into it, then look at water in a clear glass. Ask: 'Does the water look the same colour in the glass and in the deep bucket?' (A deep bucket of clean water can look very slightly blue-green; a glass looks colourless.) Then ask the voice question. Tell your child that 28 February, the day Raman discovered the Raman effect in 1928, is celebrated as National Science Day in India.",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 13,
+          "do": "Do Worksheet ws1 (core). It covers materials and sources, metals and the magnet test, and transparent, translucent and opaque. Read aloud if needed and mark it together. For any mistake, go back to the page (metals p124–125, see-through p126–127).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook page 127", "2–3 coloured cellophane sheets, plastic folders or coloured bottles", "white paper and crayons", "a white bucket of water and a clear glass", "worksheet ws1"],
+      "prep": [{"task": "Find or buy 2–3 sheets of coloured cellophane (red, blue, yellow) from a stationery shop", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "What is it made of, and where does it come from?",
+      "goal": "Play Khushi's chain game to match objects, materials and sources, learn that glass is made of sand, talk to grandparents about old and new materials, and describe materials by touch.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The chain game (page 128)",
+          "mins": 12,
+          "do": "Read 'What is it made of?' on page 128 aloud. Look at Khushi's table: table, chair and door are wood; hinges and nails are metal; windowpanes and the light bulb are glass; electric switches are plastic. Your child fills the third column with things from your own home made of each material (for wood: pencil, rolling pin (belan), cricket bat; metal: tawa, keys, spoon; glass: mirror, spectacles, tumbler; plastic: bucket, toothbrush, pen). Then add the rows the book asks for: clay (matka, diya, kulhad, flowerpot) and rubber (eraser, slipper sole, balloon, rubber band). Then answer: 'Where do these materials come from?' Wood: trees. Metals: ores in rocks dug from the earth. Glass: mostly sand (the box on page 128), melted at a very high temperature with soda ash and limestone. Cloth: cotton from the cotton plant, silk from silkworms, wool from sheep, and polyester from petroleum. Clay: soil. Rubber: the milky sap (latex) of the rubber tree, grown in Kerala, or made from petroleum. Plastic: petroleum, a liquid found deep underground. Then check the Day 1 sticky-note guesses: 'Which of your guesses were right?'"
+        },
+        {
+          "kind": "act",
+          "title": "Start the Material Museum",
+          "mins": 10,
+          "do": "Start Activity a3. Give your child a shoebox or a tray with 8 sections drawn on paper: Wood, Metal, Glass (only safe, unbreakable glass objects like a marble or a small bottle with an adult's permission), Plastic, Cloth, Clay, Rubber, Paper. They collect one small sample for each from around the house (a wooden ice-cream stick, a coin, a marble, a bottle cap, a cloth scrap, a broken bit of terracotta, an eraser, a paper strip). For each, they make a label card: name of material, where it comes from, and two words that describe it. We will add more properties to these labels on Days 6 and 7.",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk to your grandparents (page 129)",
+          "mins": 8,
+          "do": "Do the 'Talk to your grandparents' task at the top of page 129. Phone or visit a grandparent and your child asks the three questions: 'In your childhood, were these things made of the same materials? Are there new materials now that you had not seen before? Were there materials then that are not used now? Why?' Common answers: buckets and mugs were brass, iron or aluminium, not plastic; plates were bronze (kansa), brass or leaf (pattal); toys were wood, clay or cloth; bags were cloth or jute; there was no plastic packaging, no mobile phones and no polyester. Your child writes two answers in the notebook and one reason why things changed (plastic is cheaper, lighter and does not break, but it makes lots of waste)."
+        },
+        {
+          "kind": "game",
+          "title": "Eyes closed: guess the material (page 129)",
+          "mins": 10,
+          "do": "Read the bottom of page 129: 'Would you be able to recognise some material even with your eyes closed?' Blindfold your child with a dupatta and put things in their hand one by one: a steel spoon, a wooden spoon, a plastic spoon, a clay diya, a piece of cloth, a rubber eraser, a glass marble. They must say the material and how they knew. Then ask the page 129 questions about the steel spoon: 'Is it smooth or rough? Shiny or dull? Does it feel cold to the touch?' (Smooth, shiny, feels cold.) Ask: 'The wooden and steel spoons were in the same room, at the same temperature. Why did the steel one feel colder?' (Metal pulls heat away from our hand faster than wood does, so it feels colder.)"
+        }
+      ],
+      "need": ["Textbook pages 128–129", "a shoebox or tray with 8 sections", "small samples: wooden stick, coin, marble, bottle cap, cloth scrap, terracotta piece, eraser, paper", "card and pen for labels", "a phone to call a grandparent", "a dupatta for a blindfold", "steel, wooden and plastic spoons, a clay diya"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Knock on it! Does it bend? Does it keep water out?",
+      "goal": "Compare materials by sound, by bending and by whether they let water through, and use this to explain why things are made of what they are.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Book Activity 5: Kitchen orchestra (page 130)",
+          "mins": 10,
+          "do": "Do Activity a2, which is Activity 5 on page 130. Line up at least five objects of different materials: a steel plate or katori, a wooden chopping board, a plastic box, a folded cloth, a glass tumbler (tap the glass very gently) and a clay pot. Your child gently taps each with a metal spoon and invents a word for its sound: 'ting-ting' for steel, 'thak-thak' for wood, 'tuk-tuk' for plastic, 'dub-dub' for cloth, 'tinnn' for glass, 'thok' for clay. Ask: 'Which sound rang on the longest? Which was dull and short?' (Metal and glass ring; cloth hardly makes a sound.) Then they compose a beat, like the book's 'Ting, Ting, Thak, Thak, Ting, Thak, Ting, Thak!', and play it for the family. Add the sound word to each Material Museum label.",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Does it bend? (page 130)",
+          "mins": 6,
+          "do": "Read 'Does it bend?' on page 130 aloud. Ask the book's questions: 'What else is used to make tables?' (Metal, plastic, glass on a metal frame, marble, bamboo.) 'Can we use cloth or rubber to make a table? Why not?' (They are soft and flexible; the table would sag and things would fall off.) Then do a bend test: your child tries to gently bend a wooden ruler, a plastic ruler, a steel spoon handle, a strip of cloth, a rubber band and a pencil. Sort them: rigid or flexible. Ask: 'Imagine if clothes were made of wood! What would happen when you sat down?' Enjoy the silly answers, then ask why flexible cloth is right for clothes and curtains."
+        },
+        {
+          "kind": "exp",
+          "title": "Raincoat test: which keeps water out?",
+          "mins": 12,
+          "do": "Do Experiment e3. Cut 6 squares (about 10 cm) of different materials: newspaper, cotton cloth, a polythene bag, aluminium foil, woollen cloth (an old sweater sleeve) and a piece of an old raincoat or umbrella cloth. Put a dry tissue on a plate and lay one square over it. Your child drips 10 spoonfuls of water slowly onto the middle, waits one minute, then lifts the square: is the tissue dry, damp or soaking? Repeat for each, with a fresh tissue each time. Before starting, they predict which ones will keep the tissue dry. Ask: 'Which would make a good umbrella?' (Polythene, foil, raincoat cloth.) 'Which would be the worst?' (Newspaper: it gets soggy and tears.) Add 'waterproof' or 'not waterproof' to the museum labels (Activity a3).",
+          "ref": "e3"
+        },
+        {
+          "kind": "do",
+          "title": "Odd Pairs (pages 130–131)",
+          "mins": 12,
+          "do": "Do the 'Odd Pairs' task on pages 130–131. Look at the example together: an umbrella made of paper won't work, because paper tears when it gets wet in the rain (which your raincoat test just showed). Your child fills in four more rows: an object, a material that would not suit it, and the reason. Help with ideas if they are stuck: a cooking pot made of plastic (it would melt on the flame), a window made of wood (no light would come in; wood is opaque), a pillow made of stone (rigid and hard), a kite made of steel (too heavy to fly), a hammer made of rubber (too soft to push a nail in), a mirror made of cloth (it does not shine). Ask your child to read their funniest odd pair aloud and explain it."
+        }
+      ],
+      "need": ["Textbook pages 130–131", "a steel plate, wooden board, plastic box, folded cloth, glass tumbler, clay pot and a metal spoon", "wooden ruler, plastic ruler, steel spoon, cloth strip, rubber band, pencil", "10 cm squares of newspaper, cotton cloth, polythene, aluminium foil, wool and raincoat or umbrella cloth", "6 tissues, a plate, a spoon and water", "the Material Museum box"],
+      "prep": [{"task": "Cut the six 10 cm squares of different materials for the raincoat test", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Does it flow? Solids, liquids and gases",
+      "goal": "Learn that things can be grouped as solids, liquids and gases, prove that air takes up space, sort the book's objects, and think hard about confusing cases like sand, sponge and glass.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Walls can't be made of water (page 131)",
+          "mins": 7,
+          "do": "Read 'Does it flow?' on page 131 aloud. Khushi playfully wrote, 'Walls can't be made of water.' Ask: 'Why not? What else could happen with water walls?' (They would fall and flow away, soak the floor, and you could walk through them.) Then read the explanation: solids keep their shape; water is a liquid, it flows and stays in a cup; air flows too, but does not stay in a cup, because it is a gas. Show it: put a stone in a bowl and a plate (it keeps its shape); pour water from a glass into a bowl and a plate (it changes shape to fit each one); then spray a little perfume or light an agarbatti in one corner and ask your child to stand in the other corner and say when they can smell it. (The gas spreads out to fill the whole room.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Does air take up space?",
+          "mins": 10,
+          "do": "Do Experiment e5. Stuff a dry tissue firmly into the bottom of a clear glass so it does not fall out. Fill a bucket or a big vessel with water. Ask your child to predict: 'If I push this glass straight down, upside down, into the water, will the tissue get wet?' Push the glass straight down to the bottom, hold it for 5 seconds, and lift it straight up. Your child feels the tissue: dry! Then do it again but tilt the glass under water: bubbles escape and water rushes in. Ask: 'What were the bubbles?' (The air that was in the glass.) 'Why did the tissue stay dry the first time?' (The glass was full of air, and air takes up space, so the water could not get in.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 6: Tray, bottle, balloon (page 132)",
+          "mins": 10,
+          "do": "Do Activity 6 on page 132. Your child writes each object in the right picture: tray for solids (stone, ice, spoon, bottle, bag), bottle for liquids (ink, honey, water), balloon for gases (smoke, steam). Talk about the tricky ones: 'Ice and steam are both water. How can they be in different places?' (The same stuff can be a solid, a liquid or a gas, depending on how hot or cold it is.) 'Honey flows very slowly. Is it still a liquid?' (Yes; it takes the shape of its container, just slowly.) Then they add three objects of their own to each picture. Then the confusing ones the book asks about: pour sand from one cup to another (it flows like a liquid, but each grain is a tiny solid that keeps its shape); squeeze a sponge (a solid full of holes with air in them); squash clay (a solid that changes shape only when you push it, and then keeps the new shape). Your child writes at least three such confusing objects (sand, sponge, clay, atta, sugar, toothpaste, jelly, foam)."
+        },
+        {
+          "kind": "think",
+          "title": "Is glass a slow liquid?",
+          "mins": 6,
+          "do": "Tell the story in Voice v3 (the myth that old window glass flows). Ask your child to hold a glass tumbler: 'Does it keep its shape? Then what is it?' Ask the voice question and listen for a test they could do.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet (part 1)",
+          "mins": 7,
+          "do": "Start Worksheet ws2 (stretch): do sections A and B now. Finish section C at bedtime or tomorrow morning. Let your child use the Material Museum labels to help.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 131–132", "a stone, a bowl, a plate and a glass of water", "an agarbatti or perfume", "a clear glass, a tissue, a bucket of water", "a cup of sand, a sponge, a lump of clay or atta dough", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Natural and artificial",
+      "goal": "Sort things into natural and artificial, learn that natural things can be living or non-living, solve the mango-season puzzle, and think harder with the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Khushi's mango tree (page 133)",
+          "mins": 7,
+          "do": "Read 'Natural — Artificial' on page 133 aloud: Khushi drew a mango tree with a mango and a bird. Ask: 'Who made the tree, the mango and the bird?' (Nobody; they occur in nature.) Read on: natural things may be alive, like plants and animals, or not alive, like rocks, water and air; things made by people are artificial, like clothes, shoes and tables. Ask your child to give two natural living things, two natural non-living things and two artificial things from where they are sitting."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Natural or artificial walk",
+          "mins": 10,
+          "do": "Go out to the balcony, the building compound or the lane. In 6 minutes your child lists five natural things and five artificial things, as page 133 asks. Natural: a neem tree, a crow, a stone, soil, the sky's clouds, an ant, sunlight, rainwater. Artificial: a scooter, a lamp post, the road, a gate, a shop sign, a plastic bag. Then ask the harder questions: 'Is the cement road natural or artificial?' (Artificial, but made from limestone and sand, which are natural.) 'A potted plant?' (The plant is natural; the pot is artificial.) 'A wooden chair?' (Artificial, made by people from a natural material, wood.) Write two of these tricky ones and your child's reason."
+        },
+        {
+          "kind": "talk",
+          "title": "When did Khushi draw her picture? (page 133)",
+          "mins": 6,
+          "do": "Read the last paragraph of page 133 and ask: 'Was Khushi's picture drawn around January or around June?' Ask your child what they know: 'When do we eat ripe mangoes?' (In summer, from about April to June or July.) 'When does the mango tree flower?' (In late winter, around January to March, with tiny pale flowers called mango blossom, or 'baur' or 'manjari'.) So a tree with mangoes growing on it is more likely seen around June. Ask: 'If Khushi's tree had only flowers and no mangoes, which month might it be?' (Around January to March.) Then read the teacher's note on page 132: bees make wax for their honeycomb, but very similar wax can be made from petroleum. Show a candle and ask: 'Is this candle wax natural or artificial?' (Most candles are paraffin wax made from petroleum; beeswax candles are made from natural wax.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do Worksheet ws3 (challenge), and finish section C of ws2 if it was not done. In ws3, your child can answer the write items aloud while you write. In section C there is no single right answer; praise reasons that use evidence ('the magnet stuck to the nail but not to the brass diya, so…').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "act",
+          "title": "Museum: natural or artificial labels",
+          "mins": 5,
+          "do": "Add one more line to every label in the Material Museum (Activity a3): 'natural' or 'made by people from ___'. For example: 'Cotton cloth: made by people from a natural plant fibre'; 'Plastic cap: made by people from petroleum'; 'Wood: natural, from a tree'. Ask: 'Is there any material in the museum that did not start in nature?' (No: every material, even plastic, starts from something in nature; people change it.)",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 132–133", "notebook", "a candle", "the Material Museum box and labels", "worksheets ws2 and ws3"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, solve the shiny-spoon mystery, check understanding and have your child give a guided tour of their Material Museum.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Write, Draw and Match (page 134)",
+          "mins": 9,
+          "do": "Do the 'Let us reflect' tasks on page 134. A. Write: your child writes the names of three materials we commonly see around us (for example wood, metal, plastic, glass, cloth). C. Draw: three natural things and three artificial things. D. Do it: match the pairs: transparent matches the glass used in spectacles; translucent matches a lampshade made of paper; opaque matches a plate. Ask your child to explain each match using the torch from Day 3 if needed."
+        },
+        {
+          "kind": "think",
+          "title": "Discuss: the shiny spoon mystery (page 134)",
+          "mins": 7,
+          "do": "Do Discuss question B on page 134: 'Suppose you find a shining spoon. You do not know if it is metal or some other material painted with shiny paint. How would you find out?' Let your child plan tests using everything they learned this week, then try them on a steel spoon and a shiny plastic spoon (or a silver-painted plastic toy). Good tests: tap it and listen (metal rings 'ting'); feel if it is cold to the touch (metal feels colder); feel how heavy it is; try a magnet (if it sticks it is certainly metal, but if not, it could still be aluminium or brass); look at a scratch on the back (paint peels off and shows a different colour underneath); try bending it gently (plastic bends and springs back). Ask: 'Which single test would you trust most? Why?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page (metals p124–125, see-through p126–127, chain game p128, bend p130, solids p131–132, natural p133) for one minute and ask again in different words. Six or more right is good; fewer than five means repeat the seeing-through test and the tray, bottle, balloon sort next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: Museum tour",
+          "mins": 14,
+          "do": "Your child is the museum guide and the family are visitors. Using the Material Museum box (Activity a3), they take you through each material: what it is, where it comes from, whether it is natural or made by people, and its properties (transparent or opaque, rigid or flexible, waterproof or not, magnetic or not, its tapping sound). They must also show one experiment: the dry tissue in the upside-down glass, or the magnet test. Ask two 'visitor' questions: 'Why is a cooking pot made of metal and not plastic?' and 'Is honey a solid or a liquid?' End by playing one round of Material Top Trumps if time allows: each person picks an object card and a property (hardest, bendiest, most waterproof) and you test any argument for real.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook page 134", "a steel spoon and a shiny plastic spoon", "a magnet and a torch", "the Material Museum box", "notebook and crayons"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Materials, metals and see-through things",
+      "day": 4,
+      "sections": [
+        ["A. What is it made of?", [
+          {"t": "match", "p": "Match each object to the material it is usually made of.", "pairs": [["Door hinge", "Metal"], ["Windowpane", "Glass"], ["Electric switch", "Plastic"], ["Matka", "Clay"], ["Eraser", "Rubber"], ["Chair", "Wood"]]},
+          {"t": "match", "p": "Match each material to where it comes from.", "pairs": [["Wood", "Trees"], ["Metal", "Ores dug from the earth"], ["Glass", "Mostly sand"], ["Cotton cloth", "Cotton plant"], ["Plastic", "Petroleum from under the ground"]]},
+          {"t": "fill", "p": "A mixture of metals, like steel, brass or bronze, is called an ____.", "a": ["alloy"]}
+        ]],
+        ["B. Metals and magnets", [
+          {"t": "sort", "p": "Sort these by what happened in your magnet test (or what you think would happen).", "items": ["Iron nail", "Safety pin", "Aluminium foil", "Copper wire", "Brass diya", "Gold ring", "Paper clip"], "cats": ["Magnet sticks", "Magnet does not stick"]},
+          {"t": "mcq", "p": "Why is an electric switch plastic on the outside but metal inside?", "opts": ["Plastic is shinier", "Metal carries electricity; plastic does not, so it keeps our fingers safe", "Metal is cheaper", "Plastic makes the light brighter"], "a": 1}
+        ]],
+        ["C. Can you see through it?", [
+          {"t": "sort", "p": "Sort these materials.", "items": ["Window glass", "Clean water", "Butter paper", "Frosted bathroom glass", "Thin dupatta", "Wooden door", "Steel plate", "Cardboard"], "cats": ["Transparent", "Translucent", "Opaque"]},
+          {"t": "fill", "p": "Materials we cannot see through at all are called ____.", "a": ["opaque"]},
+          {"t": "mcq", "p": "What is the safety rule on page 126?", "opts": ["Always look at the sun through glass", "Never look at the sun, directly or through any object", "Look at the sun only in the morning", "Look at the sun through coloured plastic"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Choose the right material",
+      "day": 7,
+      "sections": [
+        ["A. Properties", [
+          {"t": "table", "p": "Fill in what you found for each material.", "cols": ["Material", "Rigid or flexible", "Waterproof?", "Sound when tapped", "Magnet sticks?"], "rows": 5, "prefill": ["Steel", "Wood", "Plastic", "Cotton cloth", "Glass"]},
+          {"t": "mcq", "p": "A steel spoon and a wooden spoon have been on the same table all day. The steel one feels colder. Why?", "opts": ["The steel spoon is really colder", "Metal takes heat away from our hand faster than wood, so it feels colder", "Wood is warm inside", "The steel spoon was in the fridge"], "a": 1}
+        ]],
+        ["B. Odd pairs and good pairs", [
+          {"t": "write", "p": "A cooking kadhai is made of iron. Write two reasons why plastic would be a bad choice.", "lines": 2},
+          {"t": "write", "p": "Why are raincoats made of plastic or rubber-coated cloth and not cotton? Use your raincoat test.", "lines": 2},
+          {"t": "mcq", "p": "A bathroom window should let light in, but people outside should not see in. Which glass is best?", "opts": ["Transparent glass", "Translucent (frosted) glass", "Opaque wood", "No window"], "a": 1}
+        ]],
+        ["C. Solid, liquid or gas?", [
+          {"t": "sort", "p": "Sort these.", "items": ["Ice", "Steam", "Honey", "Coconut oil on a hot day", "Smoke from an agarbatti", "A brick", "Milk", "Air in a balloon"], "cats": ["Solid", "Liquid", "Gas"]},
+          {"t": "write", "p": "Sand can be poured like water. Is it a liquid? Explain your answer.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Material puzzles and surprising science",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Coconut oil is solid on a cold winter morning and liquid in summer. Is it a solid or a liquid? What does this tell you about solids and liquids?", "lines": 3},
+          {"t": "write", "p": "Your tissue stayed dry inside the upside-down glass pushed into water. Explain why, and say what would happen if you made a small hole in the bottom of the glass.", "lines": 3},
+          {"t": "mcq", "p": "A blue flower is looked at through red cellophane. It will probably look:", "opts": ["Bright blue", "Bright yellow", "Dark, almost black", "White"], "a": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all glass in the world disappeared tonight? Name four things in your home that would change, and what you would use instead.", "lines": 3},
+          {"t": "write", "p": "What if plastic had never been invented? Redesign a water bottle, a raincoat and a toothbrush using other materials.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Lord Rayleigh thought the sea is blue mainly because it reflects the blue sky. C.V. Raman showed that water itself makes light blue. Write one observation that supports Raman.", "lines": 3},
+          {"t": "write", "p": "For many years people said glass is a liquid that flows very slowly, because old windows are thicker at the bottom. What other explanation is there? How would you test it?", "lines": 3},
+          {"t": "write", "p": "A wooden chair is made by people from a tree. Is it natural or artificial? Some people say everything is really natural, because all materials come from the earth. Do you agree? Give your reason.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Seeing through things (Book Activity 3, page 126)",
+      "day": 3,
+      "question": "Which materials let light pass through clearly, partly or not at all?",
+      "need": ["a torch, table lamp or a candle (with an adult)", "a clear glass", "a clear plastic bottle", "a steel plate", "notebook paper", "butter paper or tracing paper", "a thin cotton dupatta", "a thick towel", "a polythene bag", "a wooden ruler", "cardboard", "a drop of cooking oil"],
+      "steps": [
+        "Switch on the torch or lamp in a slightly dark room. Never use the sun.",
+        "Hold each object a hand's length in front of your eye, between you and the light.",
+        "Decide: can you see the light clearly, see it only as a blur or glow, or not see it at all?",
+        "Write each object in one of the three columns on page 126.",
+        "Rub a drop of oil on a piece of notebook paper and test it again.",
+        "Label the three columns: transparent, translucent, opaque."
+      ],
+      "predict": "Ask your child to guess first: which objects will let you see the light clearly? Will a thin dupatta let any light through? Will paper change if it gets oily?",
+      "observe": "Clear glass, the clear bottle and a clean polythene bag let you see the light clearly. Butter paper, the dupatta and plain paper let a glow through but no clear picture. The steel plate, towel, ruler and cardboard block it completely. The oily spot on paper glows more than the dry paper.",
+      "why": "We see an object when light from it travels straight into our eyes. In a transparent material like glass, light passes straight through without being scattered, so the picture stays sharp. In a translucent material like paper or thin cloth, light gets through but bounces about in many directions inside the fibres, so we see only a blurred glow. An opaque material either soaks up the light or bounces it back, so none comes through. Paper is made of tiny fibres with air between them; oil fills those air gaps, so light is scattered less and more passes through, making the paper more translucent.",
+      "safety": "Never look at the sun, directly or through any object; it can damage the eyes permanently. An adult must handle a candle.",
+      "time": "16 min"
+    },
+    {
+      "id": "e2",
+      "title": "Coloured viewers (Book Activity 4, page 127)",
+      "day": 4,
+      "question": "How do coloured see-through materials change the colours we see?",
+      "need": ["2–3 coloured cellophane sheets, plastic folders or coloured bottles (red, blue, yellow)", "white paper", "red, blue, yellow and green crayons"],
+      "steps": [
+        "Look at a plain white sheet of paper through each coloured sheet. Write the colour you see.",
+        "Draw four big blobs on white paper in red, blue, yellow and green.",
+        "Look at the blobs through red cellophane. Write how each one looks.",
+        "Repeat with blue and with yellow cellophane.",
+        "Try holding two sheets together, such as blue and yellow, and look at the white paper."
+      ],
+      "predict": "Ask your child to guess first: what colour will white paper look through blue plastic? What will a blue blob look like through yellow plastic? Will a red blob be easy or hard to see through red plastic?",
+      "observe": "White paper takes the colour of the sheet. Through red cellophane, red marks almost disappear into the background and blue or green marks look dark. Through yellow, blue marks look dark or greenish. Blue and yellow sheets held together often look greenish or dark.",
+      "why": "White light, like sunlight or a bulb's light, is really a mix of all the colours of the rainbow. A coloured see-through sheet lets mostly its own colour through and soaks up (absorbs) the others. White paper reflects all colours, so through red cellophane only the red part reaches your eye and the paper looks red. A red blob also reflects red, so it looks the same as the background and seems to vanish. A blue blob reflects mostly blue, but the red sheet blocks blue, so very little light from it reaches your eye and it looks dark. Two sheets together let through only the colours both of them allow, which is why the view gets darker.",
+      "safety": "Never look at the sun through cellophane or coloured glass; they do not protect the eyes.",
+      "time": "14 min"
+    },
+    {
+      "id": "e3",
+      "title": "Raincoat test: which material keeps water out?",
+      "day": 6,
+      "question": "Which materials are waterproof, and which would make a good umbrella or raincoat?",
+      "need": ["10 cm squares of newspaper, cotton cloth, polythene, aluminium foil, woollen cloth and raincoat or umbrella cloth", "6 dry tissues", "a plate", "a spoon and a cup of water", "a clock"],
+      "steps": [
+        "Put a dry tissue on the plate and lay the first square over it.",
+        "Drip 10 spoonfuls of water slowly onto the middle of the square.",
+        "Wait one minute.",
+        "Lift the square and feel the tissue: dry, damp or soaking?",
+        "Repeat with each material, using a fresh tissue every time.",
+        "Record the results in a table and rank the materials from best to worst at keeping water out."
+      ],
+      "predict": "Ask your child to guess first: which materials will keep the tissue completely dry? Which will let the most water through? What will happen to the newspaper?",
+      "observe": "Polythene, foil and raincoat cloth keep the tissue dry. Cotton lets water soak through quickly. Wool may hold drops on top for a short time, then soak through. Newspaper becomes soggy, the tissue gets wet, and the paper may tear when lifted.",
+      "why": "Cotton, wool and paper are made of tiny fibres with gaps between them, and many of these fibres soak up water, so water creeps through the gaps. Wool has a little natural oil, so drops sit on top at first. Polythene and foil are smooth sheets with no gaps, so water cannot pass through: they are waterproof. A raincoat cloth is usually woven cloth coated with plastic or rubber to fill its gaps. This is why the book's example 'umbrella made of paper' is an odd pair: paper is not waterproof and becomes weak when wet.",
+      "safety": "",
+      "time": "12 min"
+    },
+    {
+      "id": "e4",
+      "title": "Are all metals magnetic?",
+      "day": 2,
+      "question": "Does a magnet stick to every metal, and can it help us tell metals apart?",
+      "need": ["a fridge magnet or any magnet", "an iron nail", "a safety pin", "a paper clip", "a steel spoon and a steel plate", "aluminium foil", "copper wire or a copper lota", "a brass diya", "a few coins", "keys", "a pencil, an eraser and a plastic lid"],
+      "steps": [
+        "Put all the objects on a table.",
+        "Your child sorts them into two piles: 'magnet will stick' and 'magnet won't stick'.",
+        "Touch the magnet to each object, one by one.",
+        "Move each object to the correct pile: 'stuck' or 'did not stick'.",
+        "Compare the final piles with the guesses.",
+        "Test two or three different steel spoons or vessels and see if they all behave the same."
+      ],
+      "predict": "Ask your child to guess first: will the magnet stick to every metal thing? To any non-metal? Will all steel things behave the same?",
+      "observe": "The magnet sticks to the iron nail, safety pin, paper clip and many keys. It does not stick to aluminium foil, copper, brass, gold, silver, or to the pencil, eraser and plastic. Some steel spoons and some coins stick and others do not.",
+      "why": "Only a few metals are strongly attracted to a magnet: mainly iron, and also nickel and cobalt. Steel is mostly iron, so ordinary steel sticks. Stainless steel is iron mixed with chromium and sometimes nickel; some recipes of stainless steel are magnetic and some are not, because of how the tiny particles of the metal are arranged inside. Aluminium, copper, brass, gold and silver have no iron and are not attracted. So a magnet can prove that something contains iron, but if it does not stick, the object could still be a metal like aluminium or brass. Scrap dealers (kabadiwalas) use magnets in just this way to sort iron from other metals.",
+      "safety": "Keep magnets away from phones, cards with a magnetic strip and small children who might swallow small magnets.",
+      "time": "13 min"
+    },
+    {
+      "id": "e5",
+      "title": "Does air take up space?",
+      "day": 7,
+      "question": "Air is invisible. Can we show that it is real and takes up space?",
+      "need": ["a clear glass tumbler", "a dry tissue", "a bucket or deep vessel full of water"],
+      "steps": [
+        "Stuff a dry tissue firmly into the bottom of the glass so it stays when the glass is turned upside down.",
+        "Turn the glass upside down and push it straight down into the water until it is fully under.",
+        "Hold it still for 5 seconds. Look at the water level inside the glass.",
+        "Lift it straight up out of the water without tilting. Feel the tissue.",
+        "Now push it down again and tilt it under water. Watch for bubbles.",
+        "Lift it out and feel the tissue again."
+      ],
+      "predict": "Ask your child to guess first: when we push the glass straight down, will the tissue get wet? What will happen when we tilt it?",
+      "observe": "When the glass goes straight down, water rises only a little way inside it and the tissue stays dry. When it is tilted, big bubbles escape upwards and water rushes in, and the tissue gets wet.",
+      "why": "The 'empty' glass was really full of air. Air is a gas: we cannot see it, but it is made of real stuff and takes up space. When the glass is pushed straight down, the trapped air has nowhere to go, so it keeps the water out (it squashes a little, which is why the water rises a tiny bit). When the glass is tilted, the air escapes as bubbles, which rise because air is much lighter than water, and water fills the space it leaves. This is how the book's idea on page 131 works: air flows and spreads, but it is still matter, just like solids and liquids.",
+      "safety": "Mop up spilled water so nobody slips.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Understand my room (Book Activity 1, page 124)",
+      "day": 1,
+      "mins": 13,
+      "need": ["notebook", "pencil and colours"],
+      "steps": [
+        "Draw the room where you study, as Khushi drew her classroom.",
+        "Draw at least 12 things in it and label each.",
+        "Next to each label, write a letter for its material: W wood, M metal, G glass, P plastic, C cloth, or ? if unsure.",
+        "On Day 2, add the names of metals you have found out.",
+        "On Day 3, add T, TL or O (transparent, translucent, opaque) for windows, curtains and doors.",
+        "By the end of the week, change every ? to the right material."
+      ],
+      "outcome": "A labelled drawing of your child's own room that shows what each thing is made of and how light passes through it, built up over the week."
+    },
+    {
+      "id": "a2",
+      "title": "Kitchen orchestra (Book Activity 5, page 130)",
+      "day": 6,
+      "mins": 10,
+      "need": ["a metal spoon", "a steel plate or katori", "a wooden board", "a plastic box", "a folded cloth", "a glass tumbler", "a clay pot"],
+      "steps": [
+        "Line up the objects in a row.",
+        "Tap each gently with the metal spoon and listen.",
+        "Invent a word for each sound: ting-ting, thak-thak, tuk-tuk, dub-dub.",
+        "Note which sounds ring on and which stop quickly.",
+        "Compose a beat using the sound words, like 'Ting, Ting, Thak, Thak'.",
+        "Perform it for the family, and let someone else try to copy it."
+      ],
+      "outcome": "A home-made orchestra and a beat your child composed, plus a sound word for each material to add to the Material Museum labels."
+    },
+    {
+      "id": "a3",
+      "title": "Material Museum",
+      "day": 5,
+      "mins": 10,
+      "need": ["a shoebox or tray divided into 8 sections", "small samples of wood, metal, safe glass (a marble), plastic, cloth, clay, rubber and paper", "card and pen for labels", "glue or tape"],
+      "steps": [
+        "Collect one small sample of each material from around the home.",
+        "Place each in its own section of the box.",
+        "Make a label: name of the material, where it comes from, two describing words.",
+        "Add its sound when tapped (Day 6) and whether it is waterproof (Day 6).",
+        "Add whether a magnet sticks and whether it is transparent, translucent or opaque.",
+        "Add 'natural' or 'made by people from ___' (Day 8).",
+        "On the last day, give a guided tour to the family."
+      ],
+      "outcome": "A labelled home museum of eight materials, with their sources and tested properties, which your child guides visitors through."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "C.V. Raman (1888–1970), physicist, India",
+      "idea": "In 1921, sailing to Europe, Raman looked at the deep blue Mediterranean Sea and doubted the popular explanation, given by the famous British scientist Lord Rayleigh, that the sea is blue mainly because it reflects the blue sky. Using a simple prism device on the ship to cut out the reflected skylight, he still saw the water glowing blue. He argued that water itself scatters light and makes it blue, as air does for the sky. Back in Kolkata, his study of how light scatters in transparent liquids led in 1928, with his student K.S. Krishnan, to the discovery of the Raman effect: a tiny part of the scattered light changes colour, in a way that reveals the molecules it hit.",
+      "then": "His sea-colour paper was a bold challenge to a respected scientist, but it was published and taken seriously. The Raman effect was quickly confirmed by scientists in other countries, and in 1930 Raman received the Nobel Prize in Physics, the first Asian to win a Nobel Prize in science.",
+      "now": "Raman was right that the sea is not blue only because of reflected sky. Today scientists explain that the main reason is that water absorbs a little red light, so after light travels through deep water, more blue is left; scattering also plays a part. The Raman effect is used every day in laboratories, hospitals and even to check medicines and gemstones. India celebrates 28 February as National Science Day in honour of his discovery.",
+      "status": "accepted",
+      "ask": "A famous scientist had already explained why the sea is blue, and Raman doubted him. What did Raman do to test the idea himself? What could you do to check whether water, and not the sky, makes the colour?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "The Iron Pillar of Delhi (about 1,600 years old) and R. Balasubramaniam (IIT Kanpur), India",
+      "idea": "In the Qutb complex in Mehrauli, Delhi, stands an iron pillar more than 7 metres tall and weighing about 6 tonnes. Its inscription names a king Chandra, usually identified as the Gupta emperor Chandragupta II, so it was made around 400 CE by Indian ironworkers who hammered and welded together lumps of hot iron. Although it has stood in the open for about 1,600 years, it has hardly rusted.",
+      "then": "For a long time people offered many explanations: Delhi's dry air, the iron being very pure, or even mystery and magic. None fully explained it.",
+      "now": "In studies published around 2000, the metallurgist R. Balasubramaniam of IIT Kanpur showed that the pillar's iron contains a lot of phosphorus, left over from the old way of making iron. With wetting and drying in the weather, this helps form a thin, tight protective layer on the surface that slows down rusting, instead of the flaky rust that keeps eating into ordinary iron. Scientists accept this explanation, and the pillar is admired as evidence of the high skill of ancient Indian metalworkers.",
+      "status": "accepted",
+      "ask": "People once said the pillar did not rust because of 'magic'. What kind of evidence did a scientist need to collect to find the real reason? Why is 'magic' not a useful answer in science?",
+      "day": 2
+    },
+    {
+      "id": "v3",
+      "who": "The myth that 'glass is a slow liquid', and scientists who tested it, such as Edgar Zanotto (Brazil, 1998)",
+      "idea": "A popular idea, repeated in books and even by teachers, said that glass is really a liquid that flows extremely slowly. The 'proof' given was that the old window panes of some European churches, hundreds of years old, are thicker at the bottom than at the top, as if the glass had slowly sagged downwards.",
+      "then": "Because it was a surprising and fun fact, it spread widely and was rarely checked. Some people noticed early that many old panes were actually thicker at the top or the side, which did not fit the story.",
+      "now": "The idea is rejected. Old window glass was made by spinning or blowing molten glass, which gave panes of uneven thickness, and builders often fitted the thick edge at the bottom. In 1998 the Brazilian glass scientist Edgar Zanotto calculated that at room temperature, church glass would take far longer than the age of the universe to sag noticeably. Glass is a solid, though an unusual one: its tiny particles are jumbled up like those of a liquid instead of being lined up neatly as in a crystal, but they are stuck in place. That is why scientists call glass an 'amorphous solid'.",
+      "status": "rejected",
+      "ask": "Old windows were thicker at the bottom, and people said this proved glass flows. What other explanation could there be? What would you look for in old windows to decide between the two ideas?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "Name four materials things around us are made of, and say where each comes from.", "a": "For example: wood from trees, metal from ores dug from the earth, glass mostly from sand, cotton cloth from the cotton plant, clay from soil, rubber from rubber-tree sap (or petroleum), plastic from petroleum."},
+    {"q": "Does a magnet stick to all metals? Give examples.", "a": "No. It sticks to iron and many kinds of steel (nails, safety pins, paper clips), but not to aluminium, copper, brass, gold or silver."},
+    {"q": "What do transparent, translucent and opaque mean? Give an example of each.", "a": "Transparent: you can see through clearly (window glass, spectacle glass, clean water). Translucent: some light comes through but not a clear picture (butter paper, paper lampshade, frosted glass). Opaque: you cannot see through at all (wood, a plate, cardboard)."},
+    {"q": "What happens to the colour of white paper when you look at it through blue plastic? Why?", "a": "It looks blue, because the blue plastic lets mostly blue light through and blocks the other colours."},
+    {"q": "Why are tables made of wood or metal and clothes made of cloth?", "a": "Wood and metal are hard and rigid, so a table keeps its shape and holds things; cloth is soft and flexible, so clothes bend and move with our body."},
+    {"q": "Why can't an umbrella be made of paper? Which materials kept the water out in our test?", "a": "Paper soaks up water, becomes soggy and tears. Polythene, foil and raincoat or umbrella cloth kept the tissue dry; they are waterproof."},
+    {"q": "What is the difference between a solid, a liquid and a gas? Put ice, honey and steam in the right group.", "a": "A solid keeps its shape; a liquid flows and takes the shape of its container but stays in it; a gas flows and spreads out to fill any space. Ice is a solid, honey is a liquid, steam is a gas."},
+    {"q": "What is the difference between natural and artificial things? Give two examples of each.", "a": "Natural things are found in nature, living (tree, bird) or non-living (rock, water, air). Artificial things are made by people (clothes, shoes, table, plastic bottle)."}
+  ]
+}

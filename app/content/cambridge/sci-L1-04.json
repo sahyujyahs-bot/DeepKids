@@ -1,0 +1,941 @@
+{
+  "key": "cambridge|sci|1|4",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 1,
+  "n": 4,
+  "title": "Materials in my world",
+  "source": "Cambridge Primary Science Learner's Book 1 (Cambridge University Press, 2014), Unit 4 'Materials in my world' (pages 34–41)",
+  "summary": "Your child learns that everything around us is made of materials such as wood, metal, plastic, glass, rock, rubber, fabric, paper and concrete, and that each material has properties: strong or weak, flexible or stiff, soft or hard, rough or smooth, see-through or not. They find out why each material is chosen for its job, look closely at the fibres in fabrics, sort materials into groups, invent simple tests, and learn which materials can be recycled.",
+  "goals": [
+    "By the end your child can name the material of common objects at home (steel tumbler, wooden chair, glass window, plastic bucket, cotton kurta, rubber chappal, concrete floor).",
+    "By the end your child can describe a material using property words: strong, flexible, soft, hard, rough, smooth, shiny, see-through, waterproof.",
+    "By the end your child can explain why a material was chosen for a job, for example glass for a window because it is see-through, rubber for tyres because it grips.",
+    "By the end your child can sort materials into groups using a question and design a simple fair test of a property.",
+    "By the end your child can say which household materials can be recycled and why recycling and reusing help the environment."
+  ],
+  "words": [
+    [
+      "material",
+      "what a thing is made of, like wood, metal, plastic, glass or fabric"
+    ],
+    [
+      "metal",
+      "a hard, usually shiny material such as steel, iron, aluminium, copper or gold"
+    ],
+    [
+      "plastic",
+      "a light material made in factories, mostly from oil; it can be shaped into buckets, bottles and toys"
+    ],
+    [
+      "fabric",
+      "cloth, made by weaving or knitting threads, like cotton, silk, wool or polyester"
+    ],
+    [
+      "fibres",
+      "very thin threads; fabrics are made of many fibres twisted and woven together"
+    ],
+    [
+      "concrete",
+      "a hard, strong building material made from cement, sand, small stones and water, which sets like rock"
+    ],
+    [
+      "properties",
+      "what a material is like: strong, flexible, soft, rough, shiny, see-through and so on"
+    ],
+    [
+      "flexible",
+      "able to bend without breaking, like a rubber band or a cotton dupatta"
+    ],
+    [
+      "strong",
+      "hard to break or tear"
+    ],
+    [
+      "rough / smooth",
+      "rough feels bumpy and scratchy, like jute; smooth feels even and slippery, like silk or glass"
+    ],
+    [
+      "recycle",
+      "to collect used materials and make them into new things, like old paper into new paper"
+    ],
+    [
+      "test",
+      "a way of finding out about something by trying it carefully, the same way for each thing"
+    ]
+  ],
+  "day_mins": 30,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is it made of?",
+      "goal": "Notice that everything is made of materials, find them in the playground picture on page 34, and start a materials hunt at home.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What is your tiffin made of?",
+          "mins": 4,
+          "do": "Put your child's tiffin box, a steel tumbler, a wooden spoon and a cotton hanky on the table. Ask: 'What is each of these made of?' Good answers: steel (a metal), wood, plastic, cotton (a fabric). Ask: 'Why don't we make a tumbler out of paper?' (It would go soggy and leak.) Say: 'What something is made of is called its material. This week we are material detectives.'"
+        },
+        {
+          "kind": "read",
+          "title": "The school playground (page 34)",
+          "mins": 8,
+          "do": "Open page 34, 'What is it made of?'. Read: 'There are lots of materials in the world around you. The children are looking at materials. Can you find metal, plastic, wood, rock, fabric and rubber?' Your child points: metal (the swing frame, the basketball hoop, the fence), plastic (the skipping rope handles, the water bottle), wood (the bench, the door), rock (the stones on the grass), fabric (the children's clothes), rubber (the old tyre used as a swing, shoe soles). Ask: 'What other materials can you see?' (Glass in the windows, concrete or tarmac on the ground, brick or stone in the walls, paper on the bench.) Read the 'Words to learn' together."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 4.1: Materials we find (page 35)",
+          "mins": 15,
+          "do": "Do Activity a1, the book's Activity 4.1, at home instead of a classroom. Read: 'Look for things made from metals, paper, glass, fabrics and concrete. Write down which materials you see.' Make a table on a sheet clipped to a board: Material | Things I found. Walk room to room: kitchen (steel kadhai, glass jar, plastic dabba, wooden belan, ceramic plate), bedroom (cotton bedsheet, wooden cot, metal almirah), bathroom (plastic bucket and mug, rubber slippers, glass mirror), the walls and floor (concrete, brick, tiles, marble or stone). Your child draws or writes at least three things for each material. Ask the book's questions as you go: 'What do they look like? What do they feel like?' (Steel: shiny, cold, hard. Cotton: soft, bendy, warm.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "A car is made of many materials (page 35)",
+          "mins": 3,
+          "do": "Look at the car factory photo on page 35 and read: 'A car is made from many different materials. Metal is used for the car body. Rubber is used for the tyres. Fabric is used for the seat covers.' Ask: 'What is used for the windows?' (Glass.) 'Our auto-rickshaw or scooter: what materials does it use?' (Metal body, rubber tyres, plastic or fabric seat, glass mirror or windscreen.)"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 34–35",
+        "a tiffin box, steel tumbler, wooden spoon, cotton hanky",
+        "a clipboard or a notebook on a plate, pencil"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Looking closely",
+      "goal": "Look at materials through a magnifying glass to find their small parts, and meet the iron pillar in Delhi that has hardly rusted in 1,600 years.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Can you see small parts of the material? (page 35)",
+          "mins": 12,
+          "do": "Read the last part of Activity 4.1 on page 35: 'Look closely at some materials. Can you see small parts of the material?' With a magnifying glass (or a phone camera zoomed in), your child looks at: a piece of cotton cloth (threads crossing over and under), a sheet of newspaper torn across (tiny hairy fibres along the torn edge), a piece of wood (lines called grain), a piece of brick or concrete (sand grains and little stones), a glass tumbler (smooth, no parts to see), a plastic bag (smooth). Your child draws what each looks like close up in a circle, like a magnifying glass view. Ask: 'Which ones are made of lots of small pieces stuck or woven together?' (Cloth, paper, concrete, wood.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Where do materials come from?",
+          "mins": 8,
+          "do": "Ask: 'Which of today's materials came from plants or animals? Which from rocks under the ground? Which were made in a factory?' Help them sort: wood, cotton, paper and jute from plants; wool and silk from animals (sheep and silkworms); metals, stone and sand from the ground (iron is dug out as rock and heated to get the metal); glass is made by melting sand; plastic is made in factories mostly from oil; concrete is made from cement, sand, stones and water. Tell them that a newspaper was once a tree."
+        },
+        {
+          "kind": "think",
+          "title": "The iron pillar of Delhi",
+          "mins": 10,
+          "do": "Tell your child about Voice v1. Show a photo of the Iron Pillar in the Qutb Minar complex in Delhi if you can find one. 'It is made of iron and has stood out in the sun and rain for about 1,600 years, but it has hardly rusted. Most iron goes rusty and crumbly in a few years.' Show something rusty at home (an old nail, a gate hinge). Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 35",
+        "a magnifying glass or phone camera",
+        "a scrap of cotton cloth, newspaper, a piece of wood, a piece of brick, a glass, a plastic bag",
+        "a rusty nail or hinge if you have one"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Using materials: why this one?",
+      "goal": "Learn the word 'properties' from the house on page 36, explain why each material was chosen, and test which fabric would make the best umbrella.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Using materials (page 36)",
+          "mins": 8,
+          "do": "Open page 36, 'Using materials'. Read the questions: 'What materials can you see? Are they strong? Are they flexible? Are they warm or soft to the touch? Can you see through them?' Look at the rooms of the house together. For each thing your child points at, ask 'What is it made of?' and 'Why was that material chosen?' Good answers: glass windows because you can see through them; a soft fabric sofa and cushions because they are comfortable; a metal tap because it is strong and waterproof; a wooden table because wood is strong; a fabric towel because it soaks up water; a china (ceramic) toilet and bath because they are waterproof and easy to clean. Read: 'Strong, flexible and soft are different properties of materials.' Read the 'Words to learn'."
+        },
+        {
+          "kind": "exp",
+          "title": "Which material makes the best umbrella?",
+          "mins": 16,
+          "do": "Do Experiment e1. Collect five squares (about 10 cm) of different materials: cotton cloth, a piece of plastic bag, newspaper, aluminium foil and a paper towel or tissue. Stretch each over the top of a steel tumbler and hold it with a rubber band. Ask your child to guess first: 'Which ones will keep the water out? Which will let it through?' Write the guesses. Your child drips exactly 10 spoonfuls of water onto each square, one spoon at a time, then lifts each square and looks into the tumbler. Record: dry, a little water, very wet. Ask: 'Which property does an umbrella need?' (Waterproof: does not let water through.) 'Which material would you choose?' (Plastic or foil; real umbrellas use a waterproof fabric such as nylon or polyester with a coating.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Silly materials",
+          "mins": 6,
+          "do": "Play a quick silly-material game. Ask: 'What would happen if…' a window was made of wood? (You couldn't see out.) A cooking pot was made of plastic? (It would melt on the gas.) A raincoat was made of paper? (It would get soggy and tear.) A chappal was made of glass? (It would break and cut your feet.) A bed pillow was made of concrete? (Too hard.) Your child invents one silly material of their own and explains what goes wrong."
+        }
+      ],
+      "need": [
+        "Learner's Book page 36",
+        "5 steel tumblers or glasses",
+        "10 cm squares of cotton, plastic bag, newspaper, foil and paper towel",
+        "5 rubber bands",
+        "a spoon and a jug of water",
+        "a tray to catch spills"
+      ],
+      "prep": [
+        {
+          "task": "Cut the five 10 cm material squares",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Rough and soft fabrics",
+      "goal": "Do Activity 4.2: feel and look at fabrics, put them in order from smoothest to roughest, and learn that fabrics are made of fibres.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 4.2: Rough and soft fabrics (page 37)",
+          "mins": 15,
+          "do": "Do Activity a2, the book's Activity 4.2. Read: 'Some fabrics are soft, some are rough, some are smooth.' Collect five fabrics from home: a piece of jute (a gunny bag or a jute shopping bag), a woollen sweater or shawl, a cotton kurta or hanky, a silk or satin dupatta or saree corner, and a polyester or denim piece. Ask the book's question first: 'Which fabric do you think will be the smoothest?' Write the guess. Then your child looks at each with the magnifying glass and feels it with fingertips and the inside of the wrist. They put them in a line from smoothest to roughest. Ask: 'Were you right?' Then ask another family member to put them in order without seeing your child's line, and compare, as the book asks: 'Have your friends put the fabrics in the same order?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Fibres (page 37)",
+          "mins": 5,
+          "do": "Look at the close-up photo of the rough fabric on page 37 and read: 'A fabric has many small threads called fibres. The way in which these fibres are woven together makes the fabric feel rough or smooth.' Pull one thread from the edge of the jute and one from the cotton, then untwist each to show the even thinner fibres inside. Ask: 'Which fibres are thicker? Which fabric felt rougher?' (Jute: thick, stiff fibres woven loosely.) Read 'What you have learnt' on page 37."
+        },
+        {
+          "kind": "think",
+          "title": "Stephanie Kwolek's super-strong fibre",
+          "mins": 10,
+          "do": "Tell your child about Voice v2: a scientist called Stephanie Kwolek made a new runny, cloudy liquid that her colleagues nearly threw away. When it was spun into fibres, they were far stronger than steel fibres of the same weight. Fabric made from them, called Kevlar, is now used in police and army safety vests, helmets and gloves. Ask: 'Why is it important that she tested it instead of throwing it away?' Then ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 37",
+        "5 fabrics: jute, wool, cotton, silk or satin, polyester or denim",
+        "a magnifying glass"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Strong, flexible and stretchy",
+      "goal": "Test which paper-like material is strongest, and learn how rubber was made strong and useful for tyres.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The coin bridge test",
+          "mins": 15,
+          "do": "Do Experiment e2. Make two stacks of books 15 cm apart. Lay a strip (5 cm by 25 cm) of newspaper across the gap like a bridge. Your child puts 1-rupee coins one at a time in the middle of the bridge until it sags to the table. Count the coins. Repeat with the same-size strip of notebook paper, card from a cereal or shoe box, aluminium foil and a plastic file folder. Ask your child to guess first: 'Which will hold the most coins?' Ask: 'Why must every strip be the same size and the gap the same?' (So it is a fair test; only the material changes.) Record the counts in a table and find the strongest.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Stretch and bounce back",
+          "mins": 5,
+          "do": "Give your child a rubber band, a strip of plastic bag, a piece of cotton thread and a strip of paper. Ask them to pull each gently and say what happens. Good answers: 'The rubber band stretches and goes back to its shape; the plastic bag stretches but stays long; the paper tears; the thread doesn't stretch much.' Say: 'Rubber is elastic: it stretches and springs back. That is why it is used for hair bands, balloons and tyres.'"
+        },
+        {
+          "kind": "think",
+          "title": "Charles Goodyear and the rubber tyre",
+          "mins": 10,
+          "do": "Tell your child about Voice v3: early rubber turned soft and sticky in hot weather and hard and cracked in the cold, so things made of it didn't last. Charles Goodyear spent years trying to fix it. In 1839 he found that heating rubber with sulfur made it strong and springy in heat and cold. Show the rubber sole of a chappal: 'This rubber is made the way he discovered.' Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "8 to 10 books",
+        "1-rupee coins (about 30)",
+        "5 cm by 25 cm strips of newspaper, notebook paper, card, foil and plastic folder",
+        "a rubber band, a strip of plastic bag, cotton thread, a paper strip",
+        "a rubber chappal"
+      ],
+      "prep": [
+        {
+          "task": "Cut the five strips the same size",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Sorting materials",
+      "goal": "Read about recycling and grouping on page 38, and sort a set of materials into groups using questions, as in Activity 4.3a.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sorting materials (page 38)",
+          "mins": 7,
+          "do": "Open page 38. Read: 'You can recycle materials. This is good for the environment.' Read each speech bubble: 'Which of these materials could be used again?' 'This plastic bottle can be recycled. It could be made into another bottle.' 'The fabric of the clothes can be used to make new clothes.' 'The paper can be recycled to make new paper.' Then read: 'The children put similar materials together in a group. What groups would you make?' Let your child look at the things on the table (cereal box, bottles, cans, coat, glass bottle, plastic bags, paper) and suggest groups: paper and card, glass, metal cans, plastic, fabric. Read the 'Words to learn': recycle, group, sort, shiny, test."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 4.3a: Grouping materials (page 39)",
+          "mins": 15,
+          "do": "Do Activity a3, the book's Activity 4.3a. Collect 12 clean things: a steel spoon, an aluminium can, a glass jar, a plastic bottle, a plastic toy, a wooden block or ice-cream stick, a cotton sock, a woollen glove, a newspaper sheet, a cardboard piece, a stone and a rubber band. Read: 'Use a question to put the materials into groups. For example: Is it metal?' Your child sorts everything into two piles: yes and no. Then: 'Pick the materials up and feel them.' Sort again by a property: 'Is it warm? Is it shiny?' Help them say why, for example: 'The spoon and the can feel cold and shiny; the sock feels warm and is not shiny.' Ask them to invent one more question of their own to sort with, such as 'Is it soft?' or 'Does it come from a plant?' Write each question and its two groups in the notebook.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws1 (core). Read each item aloud; your child answers by pointing, matching or saying the answer, and you write it if needed.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 38–39",
+        "12 clean objects of different materials (see step)",
+        "notebook",
+        "Worksheet ws1"
+      ],
+      "prep": [
+        {
+          "task": "Collect and wash the 12 objects for sorting",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Inventing tests",
+      "goal": "Do Activity 4.3b: think of simple tests for properties (see-through, bouncy, magnetic) and use the results to make new groups.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Activity 4.3b: Testing materials (page 39)",
+          "mins": 3,
+          "do": "Read Activity 4.3b on page 39: 'What other properties do your materials have? Think about a simple test that you could use to find out. Is it flexible? Is it strong? Is it bouncy? Is it see-through? Use what you find out to make new groups. Can you think of other tests?' Ask your child to suggest a test for 'see-through' before you show them one."
+        },
+        {
+          "kind": "exp",
+          "title": "The torch test: is it see-through?",
+          "mins": 8,
+          "do": "Do Experiment e4. In a dim room, shine a torch through each material onto a white wall: a glass tumbler, a plastic bag, tracing or butter paper, newspaper, a cotton hanky, foil, a wooden block. Ask your child to guess first which will let light through. Sort into three groups: lets all the light through and you can see clearly (transparent, like glass); lets some light through but blurry (like butter paper or a thin hanky); lets no light through (foil, wood).",
+          "ref": "e4"
+        },
+        {
+          "kind": "exp",
+          "title": "Is it metal? The magnet test",
+          "mins": 10,
+          "do": "Do Experiment e3. Give your child a fridge magnet. Ask them to guess first: 'Will the magnet stick to all the metal things?' Test: a steel spoon, an iron nail or safety pin, a steel tiffin, a 1-rupee coin, aluminium foil, an aluminium can, a copper or brass diya, a plastic toy, a wooden block. Record yes or no. Ask: 'Did it stick to every metal?' (No. It sticks to iron and most steel, but not to aluminium, copper or brass.) Say: 'So the magnet test tells us if something has iron in it, not whether it is metal. A good scientist checks whether their test really answers their question.'",
+          "ref": "e3"
+        },
+        {
+          "kind": "game",
+          "title": "The bounce test",
+          "mins": 9,
+          "do": "Make a bounce test: drop each of these from the same height (your child's shoulder) onto the same floor: a rubber ball, a ball of crumpled paper, a ball of play dough or atta dough, a plastic bottle cap, a wooden block. Ask your child to guess first which will bounce highest. You kneel and watch against the wall to see how high each bounces. Ask: 'Why must we drop them from the same height?' (To keep it fair.) Rubber bounces highest because it squashes and springs back. Make new groups: bouncy and not bouncy. Then ask the book's last question: 'Can you think of other tests?' (Does it float? Does it soak up water? Does it tear?)"
+        }
+      ],
+      "need": [
+        "Learner's Book page 39",
+        "a torch and a white wall",
+        "glass tumbler, plastic bag, butter paper, newspaper, hanky, foil, wooden block",
+        "a fridge magnet",
+        "steel spoon, iron nail or safety pin, coin, aluminium can, copper or brass item, plastic toy",
+        "a rubber ball, paper ball, dough ball, bottle cap"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Recycling: does it really help?",
+      "goal": "Sort household waste for recycling as a kabadiwala would, make something new from waste, and think about a live debate on recycling plastic.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Kabadiwala sort and make",
+          "mins": 13,
+          "do": "Do Activity a4. Collect a bag of clean, dry waste from the week: newspapers, a milk packet (rinsed), a glass bottle, an aluminium can, a cardboard box, plastic bottles, an old cloth. Your child sorts them into bags or boxes labelled Paper and card, Plastic, Glass, Metal, Fabric, as the children on page 38 did. Tell them that in India the kabadiwala buys newspapers, bottles, metal and cardboard by weight and sells them to factories that recycle them. Then make one new thing from waste: a pen stand from a tin can covered with old paper, or a plant pot from a cut plastic bottle with holes punched in the bottom.",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "A live debate: is recycling plastic enough?",
+          "mins": 9,
+          "do": "Tell your child about Voice v4. 'Paper, glass and metal are recycled a lot. But scientists who studied the whole world found that only a small part of all plastic ever thrown away has been recycled; most is buried, burnt or ends up in rivers and the sea.' Ask: 'What could we do instead of recycling?' (Use less: carry a cloth bag, a steel bottle; reuse jars.) Then ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Read each question aloud; your child answers aloud or by drawing and you write their words.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "a bag of clean, dry household waste",
+        "5 boxes or bags with labels",
+        "a tin can or plastic bottle, old paper, glue, scissors",
+        "Worksheet ws2"
+      ],
+      "prep": [
+        {
+          "task": "Keep clean, dry waste (paper, rinsed packets, bottles, cans, cardboard) aside all week",
+          "when": "1 week before"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Check your progress",
+      "goal": "Do the book's Check your progress on pages 40–41 and the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Questions 1 and 2 (page 40)",
+          "mins": 8,
+          "do": "Question 1: 'What materials are used to make these objects? Use these words: plastic, wood, glass, metal.' The margarine tub is plastic, the key is metal, the bottle is glass, the table is wood. Question 2: look at the car, the plastic cup, the window and the door. Ask: 'Why are these objects made from these materials? Choose one of these reasons.' Good answers: the car is made of metal because metal is very strong; the cup is plastic because plastic is light; the window is glass because glass is see-through; the door is wood because wood is strong. Ask: 'Can you give a second reason for any of them?' (A plastic cup is also waterproof and doesn't break when dropped.)"
+        },
+        {
+          "kind": "review",
+          "title": "Questions 3 and 4 (page 41)",
+          "mins": 9,
+          "do": "Question 3: 'Do you agree with the children?' Read each speech bubble about the tricycle tyres and ask 'Yes or no, and why?' 'Because it grips well': yes, rubber grips the road so the wheels don't slip. 'Because it is slippery': no, rubber is the opposite of slippery. 'Because rubber is black': no, the colour doesn't make it work; tyres are black because of a carbon powder mixed in to make them stronger. 'Because it can't hurt you': partly; rubber is soft and squashy, so it is gentler, but that isn't the main reason. Question 4: 'How could you sort these objects? Is there more than one way to sort them?' (glass bottles, spoon, can, newspaper, cup, fizzy drink can, plate). Your child sorts them by material (glass, metal, paper, plastic), then a second way, for example 'used for drinks / not for drinks' or 'shiny / not shiny'."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Do Worksheet ws3 (challenge) together. These are harder 'what if' and test-design questions; ask 'How could we check?' after each.",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 40–41",
+        "Worksheet ws3"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Unit check and teach it back",
+      "goal": "Check understanding of the unit and have your child teach it back using the week's tests.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed one, look at the page or repeat the test for a minute, then ask again in different words. Fewer than 4 right means repeat the sorting game and the umbrella test next week."
+        },
+        {
+          "kind": "game",
+          "title": "Mystery material",
+          "mins": 7,
+          "do": "Hide one object behind your back and give three clues using property words: 'It is hard, shiny and cold. A magnet sticks to it. We eat with it.' (A steel spoon.) Your child guesses, then gives you clues for an object they choose. Insist on property words, not names."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is the teacher. Using the umbrella tumblers, the fabric line, the coin bridge and the recycling boxes, they teach you (or a grandparent) in 5 minutes: what materials are; property words; why a material is chosen for a job; how to make a test fair; and why recycling helps. Ask two 'student' questions: 'Why don't we make a kadhai out of plastic?' and 'Does a magnet stick to every metal?' Finish by deciding together one change your family will make this month, such as carrying a cloth bag to the market."
+        }
+      ],
+      "need": [
+        "the umbrella tumblers, fabrics, coin bridge strips and recycling boxes",
+        "a few objects for the mystery game"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Materials and their properties",
+      "day": 6,
+      "sections": [
+        [
+          "A. What is it made of?",
+          [
+            {
+              "t": "match",
+              "p": "Match the object to its material.",
+              "pairs": [
+                [
+                  "Window",
+                  "Glass"
+                ],
+                [
+                  "Kadhai",
+                  "Metal"
+                ],
+                [
+                  "Bucket",
+                  "Plastic"
+                ],
+                [
+                  "Chair",
+                  "Wood"
+                ],
+                [
+                  "Kurta",
+                  "Fabric"
+                ],
+                [
+                  "Chappal sole",
+                  "Rubber"
+                ]
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "What something is made of is called its ____.",
+              "a": [
+                "material"
+              ]
+            }
+          ]
+        ],
+        [
+          "B. Properties",
+          [
+            {
+              "t": "mcq",
+              "p": "Glass is used for windows because it is:",
+              "opts": [
+                "Soft",
+                "See-through",
+                "Bouncy"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "A rubber band stretches and goes back. It is:",
+              "opts": [
+                "Flexible and stretchy",
+                "Hard and stiff",
+                "See-through"
+              ],
+              "a": 0
+            },
+            {
+              "t": "sort",
+              "p": "Sort these fabrics.",
+              "items": [
+                "Silk",
+                "Jute",
+                "Satin",
+                "Gunny bag"
+              ],
+              "cats": [
+                "Smooth",
+                "Rough"
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Recycling",
+          [
+            {
+              "t": "sort",
+              "p": "Put each thing in the right recycling box.",
+              "items": [
+                "Newspaper",
+                "Glass jar",
+                "Cola can",
+                "Plastic bottle",
+                "Cardboard box",
+                "Steel spoon"
+              ],
+              "cats": [
+                "Paper",
+                "Glass",
+                "Metal",
+                "Plastic"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Making used materials into new things is called ____.",
+              "a": [
+                "recycling",
+                "recycle"
+              ]
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Choosing the right material",
+      "day": 8,
+      "sections": [
+        [
+          "A. Choose and explain",
+          [
+            {
+              "t": "mcq",
+              "p": "Which material is best for a raincoat?",
+              "opts": [
+                "Paper",
+                "Cotton",
+                "Plastic",
+                "Wool"
+              ],
+              "a": 2
+            },
+            {
+              "t": "mcq",
+              "p": "Which material is best for a cooking pot?",
+              "opts": [
+                "Metal",
+                "Plastic",
+                "Glass",
+                "Fabric"
+              ],
+              "a": 0
+            },
+            {
+              "t": "write",
+              "p": "Why is a towel made of cotton and not plastic?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "Why is a bridge made of concrete and steel and not wood?",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "B. Test results",
+          [
+            {
+              "t": "table",
+              "p": "Write your umbrella test results.",
+              "cols": [
+                "Material",
+                "Dry, a little wet or very wet?"
+              ],
+              "rows": 5,
+              "prefill": [
+                "Cotton",
+                "Plastic bag",
+                "Newspaper",
+                "Foil",
+                "Paper towel"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "A magnet sticks to a steel spoon but not to an aluminium can. This shows that:",
+              "opts": [
+                "The can is not metal",
+                "Magnets stick only to some metals",
+                "The spoon is plastic"
+              ],
+              "a": 1
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Material puzzles",
+      "day": 9,
+      "sections": [
+        [
+          "A. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if a cricket bat was made of glass? Say two things that would go wrong.",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "What if all the rubber in the world disappeared? What would we have to change?",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "Most iron rusts, but the Delhi Iron Pillar hardly has. What did scientists find?",
+              "opts": [
+                "It is painted every year",
+                "A thin protective layer formed on its surface",
+                "It is not really iron"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Design a test",
+          [
+            {
+              "t": "write",
+              "p": "Meera wants to know which paper soaks up spilt water best: newspaper, a paper towel or notebook paper. Write how she could test it fairly.",
+              "lines": 4
+            },
+            {
+              "t": "mcq",
+              "p": "In the coin bridge test, Kabir used a long newspaper strip and a short card strip. Is it fair?",
+              "opts": [
+                "Yes",
+                "No, the strips must be the same size",
+                "Yes, if he uses new coins"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "C. Weigh the views",
+          [
+            {
+              "t": "write",
+              "p": "Ravi says, 'Recycling plastic solves the plastic problem.' Anu says, 'Using less plastic is better.' What do you think, and why?",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The umbrella test: which material is waterproof?",
+      "day": 3,
+      "question": "Which material keeps water out best?",
+      "need": [
+        "5 steel tumblers or glasses",
+        "10 cm squares of cotton, plastic bag, newspaper, aluminium foil and paper towel",
+        "5 rubber bands",
+        "a spoon and water",
+        "a tray"
+      ],
+      "steps": [
+        "Stretch one square over the top of each tumbler and hold it tight with a rubber band.",
+        "Stand all five on a tray.",
+        "Drip 10 spoonfuls of water onto the middle of each square, one spoon at a time.",
+        "Wait one minute, then lift each square and look into the tumbler.",
+        "Record: dry, a little water, or very wet."
+      ],
+      "predict": "Ask your child to guess first: 'Which squares will keep the tumbler dry? Which will let water through?'",
+      "observe": "Which tumblers stay dry. Usually the plastic and foil keep the water out; the cotton, newspaper and paper towel let water through or soak it up and drip.",
+      "why": "Cotton, paper and paper towel are made of fibres with tiny gaps between them, and the fibres soak up water and let it pass through. Plastic and foil are smooth sheets with no gaps, so water cannot get through; we say they are waterproof. An umbrella needs a material that is waterproof and also flexible and light, so it can fold. That is why umbrellas use nylon or polyester fabric with a waterproof coating, not plain cotton.",
+      "safety": "Wipe up spills so no one slips.",
+      "time": "16 min"
+    },
+    {
+      "id": "e2",
+      "title": "The coin bridge test: which material is strongest?",
+      "day": 5,
+      "question": "Which strip of material can hold the most coins before it sags?",
+      "need": [
+        "8–10 books in two equal stacks",
+        "about 30 one-rupee coins",
+        "5 cm by 25 cm strips of newspaper, notebook paper, thin card, foil and a plastic folder",
+        "a ruler"
+      ],
+      "steps": [
+        "Make two equal stacks of books 15 cm apart.",
+        "Lay the newspaper strip across the gap like a bridge.",
+        "Put coins one at a time in the middle of the strip.",
+        "Stop when the strip sags enough to touch the table, and count the coins.",
+        "Repeat with each strip, keeping the gap and the coin position the same.",
+        "Record the number of coins for each material."
+      ],
+      "predict": "Ask your child to guess first: 'Which strip will hold the most coins? Which the fewest?'",
+      "observe": "The number of coins each strip held. Usually card and the plastic folder hold the most, newspaper and foil the fewest.",
+      "why": "How stiff and strong a strip is depends on its material and its thickness. Card is made of many layers of fibres pressed tightly together, so it resists bending. Newspaper is thin, with fewer fibres, so it bends easily. Foil is metal, but so thin that it bends under a few coins; a thick sheet of the same metal would be very strong. This shows that how a material is used (thick or thin, flat or folded) matters as well as the material. Try folding the newspaper strip into a zigzag and testing again: it gets much stronger.",
+      "safety": "Keep coins away from toddlers.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Is it metal? The magnet test",
+      "day": 7,
+      "question": "Does a magnet stick to all metals?",
+      "need": [
+        "a fridge magnet",
+        "a steel spoon, iron nail or safety pin, steel tiffin",
+        "1-rupee coin, aluminium foil or can, copper or brass diya or vessel",
+        "a plastic toy, wooden block"
+      ],
+      "steps": [
+        "Lay all the objects on the table.",
+        "Your child sorts them into 'metal' and 'not metal' by looking and feeling.",
+        "Touch the magnet to each object and see if it sticks.",
+        "Record yes or no for each."
+      ],
+      "predict": "Ask your child to guess first: 'Will the magnet stick to every metal thing?'",
+      "observe": "The magnet sticks to things containing iron, such as the nail, safety pin and most steel. It does not stick to aluminium, copper or brass, and not to plastic or wood. Some steel spoons and coins may or may not stick, depending on what is mixed into the steel.",
+      "why": "Only a few metals are attracted by a magnet; the common one is iron, and steel is mostly iron. Aluminium, copper, brass, gold and silver are metals but are not attracted. So 'Does a magnet stick?' is a test for iron, not a test for all metals. Some stainless steel is not magnetic because of the other metals (such as nickel) mixed into it. Scientists must always check that a test really measures what they want to know.",
+      "safety": "Keep small magnets away from young children, who might swallow them, and away from phones.",
+      "time": "10 min"
+    },
+    {
+      "id": "e4",
+      "title": "The torch test: is it see-through?",
+      "day": 7,
+      "question": "Which materials let light through?",
+      "need": [
+        "a torch",
+        "a white wall in a dim room",
+        "a glass tumbler, plastic bag, butter or tracing paper, newspaper, cotton hanky, foil, wooden block"
+      ],
+      "steps": [
+        "Darken the room and stand 1 metre from the white wall.",
+        "Shine the torch at the wall and hold each material in front of it in turn.",
+        "Look at the wall: bright, dim or dark?",
+        "Sort into three groups."
+      ],
+      "predict": "Ask your child to guess first: 'Which of these will let the torch light through?'",
+      "observe": "Glass and a clear plastic bag let most light through and you can see clearly through them; butter paper, a thin hanky and newspaper let some light through but blurry; foil and wood let none through and make a shadow.",
+      "why": "Light travels in straight lines. In clear materials like glass, light passes straight through, so we can see through them; these are called transparent. In materials like butter paper, the light gets through but is scattered in all directions by the fibres, so things look blurry; these are translucent. Foil and wood block all the light; they are opaque, and they make a shadow. That's why windows are glass and curtains are thick fabric.",
+      "safety": "Never shine the torch into anyone's eyes.",
+      "time": "8 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Materials hunt at home (book Activity 4.1)",
+      "day": 1,
+      "mins": 15,
+      "need": [
+        "a clipboard or notebook on a plate",
+        "a pencil",
+        "a magnifying glass (optional)"
+      ],
+      "steps": [
+        "Make a table: Material | Things I found.",
+        "Write the materials: metal, paper, glass, fabric, concrete, wood, plastic, rubber.",
+        "Walk through every room and find at least three things for each.",
+        "For each, say what it looks like and feels like."
+      ],
+      "outcome": "A table of materials found in your home."
+    },
+    {
+      "id": "a2",
+      "title": "Smoothest to roughest (book Activity 4.2)",
+      "day": 4,
+      "mins": 15,
+      "need": [
+        "5 fabrics: jute, wool, cotton, silk or satin, polyester or denim",
+        "a magnifying glass"
+      ],
+      "steps": [
+        "Guess which fabric is smoothest.",
+        "Look at each through the magnifying glass.",
+        "Feel each with fingertips and the inside of the wrist.",
+        "Line them up from smoothest to roughest.",
+        "Ask another family member to do the same and compare the orders."
+      ],
+      "outcome": "A line of fabrics in order and a comparison of two people's orders."
+    },
+    {
+      "id": "a3",
+      "title": "Grouping materials (book Activity 4.3a)",
+      "day": 6,
+      "mins": 15,
+      "need": [
+        "12 clean objects of different materials",
+        "notebook"
+      ],
+      "steps": [
+        "Sort by a question: 'Is it metal?' into yes and no.",
+        "Pick each up and feel it.",
+        "Sort again by a property: 'Is it warm? Is it shiny?'",
+        "Invent a new sorting question and sort again.",
+        "Write each question and its groups."
+      ],
+      "outcome": "At least three different ways of grouping the same set of materials."
+    },
+    {
+      "id": "a4",
+      "title": "Kabadiwala sort and a new thing from waste",
+      "day": 8,
+      "mins": 13,
+      "need": [
+        "a bag of clean, dry waste",
+        "5 labelled boxes or bags",
+        "a tin can or plastic bottle",
+        "old paper, glue, scissors"
+      ],
+      "steps": [
+        "Sort the waste into Paper and card, Plastic, Glass, Metal and Fabric.",
+        "Talk about what each can be recycled into.",
+        "Make a pen stand from a tin covered with paper, or a plant pot from a cut bottle (a grown-up cuts and punches holes).",
+        "Give the sorted waste to the kabadiwala or a recycling collector."
+      ],
+      "outcome": "Sorted recycling and one useful thing made from waste."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "The Iron Pillar of Delhi (about 1,600 years old) and metallurgist R. Balasubramaniam, India",
+      "idea": "The Iron Pillar in the Qutb Minar complex in Delhi is about 7 metres tall and is made of iron. An inscription on it is in the style of the Gupta period, about 1,600 years ago. Although it has stood in the open air through hundreds of monsoons, it has hardly rusted. It shows that ancient Indian ironworkers could make very large, high-quality pieces of iron.",
+      "then": "For a long time people offered many explanations, some of them fanciful. Scientists suggested Delhi's fairly dry air, or a special mix in the iron, but there was no agreed answer.",
+      "now": "Studies by the metallurgist R. Balasubramaniam of IIT Kanpur, published in the early 2000s, showed that the iron contains a lot of phosphorus, left over from the way it was made, and very little sulfur. Over time a thin, tight, protective layer formed on the surface, which slows further rusting. Most scientists accept this explanation, together with the help of the dry climate.",
+      "status": "accepted",
+      "ask": "A rusty nail and the Iron Pillar are both iron. Why might one rust and the other not? What could you test at home to find out what makes iron rust faster?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Stephanie Kwolek (1923–2014), USA",
+      "idea": "Kwolek was a chemist at the DuPont company looking for a strong, light fibre for car tyres. In 1964–65 she made a solution that was thin and cloudy, unlike the thick clear liquids that usually made good fibres. She persuaded a reluctant colleague to spin it into fibres anyway. The fibres turned out to be, weight for weight, about five times stronger than steel. This material became Kevlar.",
+      "then": "Colleagues at first thought the cloudy liquid was probably useless. Once the tests showed how strong the fibres were, the company developed it, and Kevlar went on sale in the 1970s.",
+      "now": "Kevlar is used in bulletproof vests, helmets, cut-proof gloves, ropes and racing tyres. Kwolek received many awards, and her story is often told to show why scientists should test surprising results rather than throwing them away.",
+      "status": "accepted",
+      "ask": "Everyone thought the cloudy liquid would be useless. Kwolek tested it anyway. When is it worth testing something even when you think it won't work?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Charles Goodyear (1800–1860), USA",
+      "idea": "Natural rubber comes from the milky sap (latex) of the rubber tree, which also grows in Kerala. Early rubber goods went soft and sticky in summer and stiff and cracked in winter. Goodyear tried mixing rubber with many things for years. In 1839 he found that heating rubber with sulfur made it stay strong, springy and elastic in both heat and cold. This process is called vulcanisation.",
+      "then": "Many people thought he was wasting his life. He was very poor, borrowed money and was put in prison for debt more than once. After his discovery, others copied the method, and in England Thomas Hancock patented a similar process; Goodyear spent years in legal fights.",
+      "now": "Vulcanised rubber is used everywhere: tyres, chappal soles, pipes, balls and erasers. His method is accepted and still the basis of how rubber is made tough. He died in debt, and the Goodyear tyre company, named in his honour, was started by other people decades after his death.",
+      "status": "accepted",
+      "ask": "Goodyear tried many mixtures that failed before one worked. Is a failed test wasted? What did each failure teach him?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "A live debate: recycling plastic versus using less (studies by Roland Geyer, Jenna Jambeck and Kara Lavender Law, 2017, and the OECD, 2022)",
+      "idea": "A 2017 study by Geyer, Jambeck and Law estimated how much plastic has ever been made and found that only about 9% of plastic waste had been recycled; most was buried in landfills, left in the environment or burnt. A 2022 report by the OECD (a group of countries that studies the world economy) also found that only about 9% of the world's plastic waste is recycled.",
+      "then": "For years many people believed that putting plastic in the recycling bin solved the problem. Many companies printed recycling symbols on all kinds of plastic, even ones that are hard to recycle.",
+      "now": "Scientists agree that paper, glass and metals such as aluminium are recycled well, and that much plastic is not. They debate what to do: some say better recycling and new 'chemical recycling' can fix it; others say the most important step is to make and use much less plastic, and to reuse things. In India, kabadiwalas and waste pickers collect a lot of the plastic that does get recycled.",
+      "status": "debated",
+      "ask": "If only a small part of plastic gets recycled, is recycling still worth doing? What else could your family do with plastic, and how would you check whether it really helps?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {
+      "q": "Name four materials and something at home made from each.",
+      "a": "For example: metal (kadhai), wood (chair), glass (window), plastic (bucket), fabric (kurta), rubber (chappal sole), paper (book), concrete (floor)."
+    },
+    {
+      "q": "What does 'flexible' mean? Give an example.",
+      "a": "It can bend without breaking, like a rubber band, a cotton cloth or a plastic ruler."
+    },
+    {
+      "q": "Why are windows made of glass?",
+      "a": "Glass is see-through, so light comes in and we can see out; it is also waterproof."
+    },
+    {
+      "q": "Why are tyres made of rubber?",
+      "a": "Rubber grips the road well, is strong and flexible, and squashes to give a smooth ride."
+    },
+    {
+      "q": "What are fabrics made of?",
+      "a": "Many small threads called fibres, woven or knitted together. The weave makes them feel rough or smooth."
+    },
+    {
+      "q": "Does a magnet stick to all metals?",
+      "a": "No. It sticks to iron and most steel but not to aluminium, copper or brass."
+    },
+    {
+      "q": "Why is recycling good for the environment?",
+      "a": "Used materials are made into new things, so less is thrown away and fewer new trees, rock or oil are needed."
+    }
+  ]
+}

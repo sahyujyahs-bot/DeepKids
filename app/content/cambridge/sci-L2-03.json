@@ -1,0 +1,741 @@
+{
+  "key": "cambridge|sci|2|3",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 2,
+  "n": 3,
+  "title": "Getting materials right",
+  "source": "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 3 'Getting materials right' (pages 59–87)",
+  "summary": "Everything around us is made of materials. Your child sorts natural materials (wood, sand, rock, water, rubber, oil, cotton) from materials people make from them (paper, glass, plastic), learns words for properties such as rigid, flexible, waterproof, absorbent, strong, weak, shiny and dull, and tests materials fairly to choose the right one for a job. Finally they see how heating and air can change materials, sometimes into new materials that cannot be changed back, and think about how our use of materials affects the Earth.",
+  "goals": [
+    "By the end your child can name natural materials and made materials and say which natural material paper, glass and plastic are made from.",
+    "By the end your child can describe materials using property words (rigid, flexible, waterproof, absorbent, strong, weak, smooth, rough, shiny, dull, transparent) and knows one material can have many properties.",
+    "By the end your child can sort objects with a Venn diagram using two properties, and explain why some objects go in both circles.",
+    "By the end your child can explain why a material is sensible or silly for an object, and test materials fairly (umbrella fabric, paper bag strength, cushion softness), measuring with bricks or counters and drawing a block graph.",
+    "By the end your child can tell a change that can be undone (melting chocolate, melting ice) from one that makes a new material (cooking egg, toasting bread, burning wood, fruit going brown).",
+    "By the end your child can draw a labelled diagram and say how it is different from a picture, and suggest ways to use materials that harm the Earth less."
+  ],
+  "words": [
+    ["material", "what an object is made of, such as wood, metal, plastic or cotton"],
+    ["natural", "comes from the world around us: plants, animals, rocks or the ground"],
+    ["made material", "a material that people make from natural materials, like paper from wood or glass from sand"],
+    ["property (characteristic)", "what a material is like, for example hard, bendy, shiny or waterproof"],
+    ["rigid", "stiff; does not bend easily, like rock or a steel plate"],
+    ["flexible", "bends easily without breaking, like rubber or cloth"],
+    ["waterproof", "does not let water soak in or pass through"],
+    ["absorbent", "soaks up water, like a towel or a sponge"],
+    ["transparent", "you can see clearly through it, like window glass"],
+    ["Venn diagram", "two overlapping circles used to sort things; things with both properties go in the middle"],
+    ["block graph", "a chart where each block stands for one counter or brick, so we can compare results"],
+    ["melt", "to change from a solid to a liquid by heating, like ice or chocolate"],
+    ["mixture", "two or more materials mixed together"]
+  ],
+  "day_mins": 35,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is it made of?",
+      "goal": "Start noticing materials everywhere, and learn that many materials are natural and come from the world around us.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The tiffin and the dustbin (page 59 Getting started)",
+          "mins": 7,
+          "do": "Put your child's tiffin box, a steel spoon, a cloth napkin, a paper bag and a plastic bottle on the table. For each one ask: 'What is it made of?' (steel/metal, cotton cloth, paper, plastic). Then look at the big rubbish photo on page 59 and read the 'Getting started' questions. 'Do you know what paper is made from?' (wood, from trees.) 'What other materials can you see in this picture?' (banana peel, glass, plastic bottles, a metal can, egg box card, foil.) 'Do all materials have to be made?' Let them guess; tell them you will find out today."
+        },
+        {
+          "kind": "read",
+          "title": "Natural materials (page 60)",
+          "mins": 10,
+          "do": "Read page 60 aloud: there are many natural materials; they come from the world around us. Go through each photo: wood is natural (from trees), sand is natural, rock is natural, water is natural, this woman is getting rubber from a rubber tree, rubber is natural, oil is natural and comes from underground. Tell your child that in Kerala, many families tap rubber trees: they cut a thin slanting line in the bark and a milky white liquid called latex drips into a cup tied to the tree. Ask: 'Which of these come from living things?' (wood, rubber.) 'Which come from the ground?' (sand, rock, oil.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Natural material collection",
+          "mins": 13,
+          "do": "Go outside with a cloth bag or a tray. Your child collects small samples of natural materials: a twig (wood), a pebble (rock), a pinch of sand or soil in a paper twist, a fallen leaf, a feather, a seed or pod, a bit of coconut husk (coir) if you have one. At home also add a cotton ball, a woollen thread, a lump of jaggery or salt. Lay them out and label each with a small paper tag naming the material and where it came from (tree, ground, sheep, cotton plant)."
+        },
+        {
+          "kind": "talk",
+          "title": "Rock and rubber questions (page 61, questions 1–4)",
+          "mins": 5,
+          "do": "Ask questions 1–4 from page 61. 1. 'Where does wood come from?' (trees.) 2. 'Is rock a natural material or a made material?' (natural.) 3. 'Name a type of rock.' (granite, marble, slate, chalk, sandstone, from Unit 1.) 4. 'What else can we use rubber for?' (tyres, rubber bands, erasers, chappals, balloons, gloves, the seal in a pressure cooker lid.)"
+        }
+      ],
+      "need": ["Learner's Book pages 59–61", "a tiffin box, a steel spoon, a cloth napkin, a paper bag, a plastic bottle", "a cloth bag or tray", "a cotton ball, wool, salt or jaggery", "small paper tags and a pencil"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Materials people make",
+      "goal": "Learn that people make paper from wood, glass from sand and plastic from oil, and sort materials in our home into natural and made.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Paper, glass and plastic (page 61)",
+          "mins": 7,
+          "do": "Read the top of page 61: other materials have to be made by people; paper is made from wood; glass is made from sand; plastic is made from oil. Look at the three factory photos. Ask: 'Can you see wood in a sheet of paper?' (Not easily; the wood is chopped, mashed into a pulp with water and pressed thin.) Tear a piece of newspaper slowly and look at the torn edge with a magnifying glass: tiny hair-like fibres show; those came from wood. Tell them glass is made by heating sand until it melts, and that in Firozabad in Uttar Pradesh thousands of people make glass bangles this way."
+        },
+        {
+          "kind": "act",
+          "title": "Natural or made? (page 61 Activity)",
+          "mins": 18,
+          "do": "Do Activity a1, the book's 'Natural or made materials?' on page 61, around your home instead of a school. Your child goes room to room and finds at least ten materials: the wooden door, the glass window, the steel almirah, the cotton bedsheet, the plastic bucket, the clay matka, the marble or granite floor, the jute doormat, the paper calendar, the woollen shawl, the rubber chappal. For each one ask the book's questions: 'Where does it come from? Is it natural or made?' They draw and label each object in two columns on a big sheet, 'Natural' and 'Made', with an arrow from each made one to the natural material it came from (glass from sand, paper from wood, plastic from oil, steel from iron ore, a rock).",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Am I right? (page 61, How am I doing?)",
+          "mins": 10,
+          "do": "Do the 'How am I doing?' task: you play the 'friend' and show your own (deliberately wrong) list, for example 'glass – natural', 'cotton – made', 'clay pot – made from plastic'. Your child must tell you whether you are right or wrong, and why. Talk through tricky ones: a clay matka is made by people but from a natural material (clay); a cotton T-shirt is made in a factory from a natural material (cotton). Explain: 'The material cotton is natural, even though the shirt was made.'"
+        }
+      ],
+      "need": ["Learner's Book page 61", "a piece of newspaper", "a magnifying glass", "a big sheet of paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Where does cotton come from?",
+      "goal": "Use a book, video or the internet to find out how a natural material becomes something we use, and meet India's ancient expertise with metals.",
+      "steps": [
+        {
+          "kind": "watch",
+          "title": "From plant to T-shirt (page 62, Think like a scientist)",
+          "mins": 12,
+          "do": "Read 'Finding out where materials come from' on page 62 and look at the book-within-the-book: cotton is a natural material; it grows on a plant; it is picked and made into fabric in a factory; the fabric is used to make T-shirts and other clothes. Then together watch a short video (search 'how cotton is made from field to fabric' or 'cotton farming in India') or read a children's library book. Tell your child that India is one of the biggest cotton growers in the world, with fields in Gujarat, Maharashtra and Telangana, and that people in the Indus Valley were spinning and weaving cotton thousands of years ago. If you have a raw cotton ball from a pooja shop, pull it into a thread by twisting it between your fingers."
+        },
+        {
+          "kind": "act",
+          "title": "Material journey chain",
+          "mins": 13,
+          "do": "Do Activity a2. Copy the drawing at the bottom of page 62 for cotton: 'Cotton grows on a plant' → 'It is made into fabric in a factory' → 'It is used to make clothes'. Then your child chooses one more material from page 62 (rubber, plastic, glass or oil) and draws its own three-step chain, for example 'Latex drips from a rubber tree in Kerala' → 'It is cleaned and made into sheets in a factory' → 'It is made into tyres and chappals'. Help them look up any step they do not know.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Wootz: India's famous steel",
+          "mins": 10,
+          "do": "Tell the story in Voice v1: long ago, metalworkers in South India made a very special steel called wootz by heating iron with plant material in small sealed clay pots. Swords made from it, later called Damascus swords, were famous for being both hard and bendy. Hold up a steel spoon: 'Steel is made from iron, which comes from rock in the ground. Is steel natural or made?' (Made, from a natural material.) Then ask the voice question. Finish with the green box on page 63: 'Think of a different way to find the answer to this question: Is cotton fabric waterproof?' (Test it: drip water on it and watch.) Tell them you will do that test on Day 9.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Learner's Book pages 62–63", "a phone, tablet or library book about cotton", "a raw cotton ball (optional)", "paper and colours", "a steel spoon"],
+      "prep": [{"task": "Find a short child-friendly video or library book about how cotton becomes cloth", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Properties of materials",
+      "goal": "Learn the words that describe what materials are like, and see that one material has many properties.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "How many properties? (page 64 Getting started)",
+          "mins": 6,
+          "do": "Read the 'Getting started' box on page 64: 'How many different properties of materials can you think of? Make a list. Try to name a material that has each property.' Give a hint by touching things: 'This steel plate is…' (hard, shiny, cold). 'This towel is…' (soft, fluffy, absorbent). Write the list together: hard, soft, shiny, dull, bendy, stiff, rough, smooth, strong, weak, heavy, light, see-through. Next to each, write one material."
+        },
+        {
+          "kind": "read",
+          "title": "Rigid, flexible, waterproof, absorbent, strong (pages 65–66)",
+          "mins": 10,
+          "do": "Read pages 65–66 aloud and act out each picture. Rock is rigid but rubber can be flexible: your child tries to bend a stone (impossible) and then bends a rubber pipe or a rubber band. Water cannot get through plastic, plastic is waterproof: fill a plastic mug with water and see no leak. Water soaks into most fabric, most fabric is absorbent: dip a corner of a cotton hanky. Read: the properties of materials tell us what a material is like; they are also called the characteristics of the material; materials have many different characteristics. On page 66, metal is strong but it has other characteristics. Ask question 1: 'Is metal waterproof or absorbent?' (waterproof) and question 2: 'What other characteristics does metal have?' (shiny, hard, rigid, cold to touch, heavy, makes a ringing sound when you tap it, can be sharp.)"
+        },
+        {
+          "kind": "do",
+          "title": "Feely bag",
+          "mins": 12,
+          "do": "Put six objects in a cloth bag without your child seeing: a steel spoon, a wooden ladle, a rubber band, a cotton sock, a plastic comb, a pebble. Your child puts a hand in, holds one object and describes it with at least two property words before guessing what it is, for example 'It's hard, smooth, cold and rigid... it's the steel spoon!' Then they take it out and check. Swap turns so you describe and they guess. Keep a tally: who used the most property words?"
+        },
+        {
+          "kind": "talk",
+          "title": "One material, many properties",
+          "mins": 7,
+          "do": "Hold up a plastic bottle. Ask your child to say as many properties as they can (waterproof, light, smooth, shiny, flexible, transparent, can be squashed). Then a wooden spoon (hard, rough or smooth, light, dull, absorbent, does not get hot). Ask: 'Why would a wooden spoon be better than a steel spoon for stirring hot dal?' (Wood does not get hot quickly, so it will not burn your hand.)"
+        }
+      ],
+      "need": ["Learner's Book pages 64–66", "a stone, a rubber band or rubber pipe", "a plastic mug and water", "a cotton hanky", "a cloth bag", "a steel spoon, a wooden ladle, a cotton sock, a plastic comb, a pebble", "a plastic bottle and a wooden spoon"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Asking questions about materials",
+      "goal": "Ask our own questions about materials and answer them by testing or observing, recording results in a table.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Is paper strong or weak? (pages 66–67, Think like a scientist 1)",
+          "mins": 6,
+          "do": "Read 'Questions about materials' on pages 66–67: here is a question about a material: is paper strong or weak? You can find the answer by testing paper; paper is weak. Another question: is paper smooth or rough? You can find the answer by observing: does it look smooth or rough? How does it feel? Read the red line on page 67: some materials may be sharp when broken; do not touch sharp edges."
+        },
+        {
+          "kind": "exp",
+          "title": "Test and observe (page 67 table)",
+          "mins": 22,
+          "do": "Do Experiment e1. Collect six objects each made of one material: a sheet of paper, a piece of cotton cloth, a plastic bag, a piece of aluminium foil, a wooden ice-cream stick and a rubber band. Copy the table on page 67 with three question columns: 'Is it strong or weak?', 'Is it smooth or rough?' and a third question your child chooses, such as 'Is it waterproof?', 'Is it shiny or dull?' or 'Is it flexible or rigid?'. For each question decide whether you will find out by testing (pulling gently, bending, dripping water) or by observing (looking and touching). Before each test your child predicts. Fill in the table, like the book's example row: paper, weak, smooth.",
+          "ref": "e1"
+        },
+        {
+          "kind": "review",
+          "title": "Compare answers (page 67, How am I doing?)",
+          "mins": 7,
+          "do": "Do the 'How am I doing?' task on page 67: you fill in the same table yourself without looking. Then compare. 'Do you have the same answers? If not, test or observe the materials again.' Often you will disagree on 'strong or weak' for foil or the plastic bag. Ask: 'How could we make our test fairer, so we both get the same answer?' (Pull the same way, with the same strength, on the same-sized pieces.)"
+        }
+      ],
+      "need": ["Learner's Book pages 66–67", "a sheet of paper, a cotton cloth piece, a plastic bag, aluminium foil, an ice-cream stick, a rubber band", "a cup of water and a spoon", "paper for a table"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Sorting with a Venn diagram",
+      "goal": "Use two properties and a Venn diagram to sort objects, and understand the overlap.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sofia and Arun's Venn diagram (pages 67–68)",
+          "mins": 8,
+          "do": "Read 'Using a Venn diagram for sorting' on pages 67–68 and look at the picture of Sofia and Arun with two overlapping circles labelled 'shiny' and 'flexible'. Read: the metal key is shiny but not flexible, so it goes in the 'shiny' circle; the writing paper is dull and flexible, so it goes in the 'flexible' circle; the plastic bottle is shiny and flexible, so it goes in both circles. Ask the book's question: 'Where should the glass bottle go?' (In 'shiny' only, because glass is rigid, not flexible.) Then ask: 'Where would a stone go?' (Outside both circles: it is dull and not flexible.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make a floor Venn diagram (page 68)",
+          "mins": 17,
+          "do": "Do Activity a3. Make two big overlapping circles on the floor with two dupattas, two skipping ropes or chalk. Your child chooses two properties from Day 4, for example 'waterproof' and 'flexible', or 'hard' and 'shiny', and writes a label card for each circle. Gather twelve objects from around the house: a steel katori, a rubber chappal, a plastic bag, a glass, a towel, a wooden block, a raincoat, a pencil, a sponge, a coin, a newspaper, a balloon. They place each object in a circle, in the overlap, or outside, and say why. Then change the labels and sort again.",
+          "ref": "a3"
+        },
+        {
+          "kind": "review",
+          "title": "Check the circles (pages 68–69)",
+          "mins": 10,
+          "do": "Do the 'How am I doing?' task on page 68: you secretly move two objects into the wrong place. Your child looks at the Venn diagram and finds what is wrong and says why. Then read the green box on page 69: 'How is using a Venn diagram more useful than sorting things into two different groups?' (It has a place for things that have both properties, and for things that have neither.) Your child draws their final Venn diagram in the notebook. Tick the 'Look what I can do!' list on page 69."
+        }
+      ],
+      "need": ["Learner's Book pages 67–69", "2 dupattas, skipping ropes or chalk", "card for labels", "about 12 household objects of different materials", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Sensible and silly materials",
+      "goal": "Learn that a material's properties make it good for some objects but not others.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Why are windows made of glass? (page 70)",
+          "mins": 8,
+          "do": "Read the 'Getting started' box on page 70: 'Why are windows made of glass? Could a window be made of a different material?' Let your child answer, then read: every material has properties or characteristics; they make a material good for making some objects but not others; glass is good for a window because it is transparent, meaning we can see through it. Ask: 'What other properties of glass help a window?' (Waterproof, rigid, keeps out wind and dust.) 'What could you use instead?' (Clear plastic, as in some bus windows; old homes in Gujarat and Rajasthan sometimes had wooden shutters or carved stone jali screens that let air and some light in.)"
+        },
+        {
+          "kind": "read",
+          "title": "Wood, plastic, metal; a rubber bike (page 71)",
+          "mins": 7,
+          "do": "Read the three boxes on page 71: wood is hard and strong, we make it into chairs and tables; plastic is waterproof and comes in many colours, we make it into cups and bottles; metal is strong and can be sharp, we make it into knives, forks and spoons. Read: metal is a sensible material for a bike because of its properties; rubber is a silly material for a bike. Look at the funny picture and ask question 1: 'What would happen if a bike was made of rubber?' (It would bend and flop when you sat on it; it could not hold your weight.) Question 2: 'What would happen to a table made of chocolate?' (It would melt in the sun and break; ants would eat it!) Ask: 'Which part of a real bike IS made of rubber, and why?' (The tyres and handle grips: flexible, grippy and they cushion bumps.)"
+        },
+        {
+          "kind": "act",
+          "title": "Sensible and silly materials (page 71, Activity 1)",
+          "mins": 20,
+          "do": "Do Activity a4, the book's 'Sensible and silly materials' on page 71. Your child chooses an object, such as a kadhai, an umbrella, a pair of chappals or a school bag. On the left half of a page they draw it made of a silly material (a paper kadhai, a cotton umbrella, glass chappals, a jelly school bag) and on the right half the same object made of a sensible material (an iron kadhai, a nylon or plastic umbrella, rubber chappals, a canvas bag). They add labels showing the properties that make each silly or sensible, for example 'paper burns, absorbent, weak' and 'iron is strong, does not burn, holds heat'. Ask them to explain both drawings to you.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Learner's Book pages 70–71", "drawing paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Why is that material useful?",
+      "goal": "Explain which properties make a material useful for an object, spot a property that does not matter, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Why is that material useful? (page 72, Activity 2)",
+          "mins": 15,
+          "do": "Do Activity a5, the book's Activity 2 on page 72. Your child finds five objects at home made of only one material: a plastic chair, a steel glass, a wooden rolling pin (belan), a glass bottle, a cotton towel. Copy the page 72 table: Object; Material; Useful properties of that material. Look at the book's example: chair, plastic, 'Strong so does not break. Flexible to make it comfortable. Light so it is easy to move.' Help your child write two or three useful properties for each of their objects, for example 'towel, cotton, absorbent so it dries you, soft so it is gentle on skin'.",
+          "ref": "a5"
+        },
+        {
+          "kind": "talk",
+          "title": "Sam's idea (page 72)",
+          "mins": 5,
+          "do": "Read Sam's speech bubble on page 72: 'Plastic is good for a chair because it is waterproof.' Ask: 'Do you think Sam is right?' Read on: Sam is not right; plastic is waterproof, but we do not need a waterproof material to make an indoor chair. Then do the 'How am I doing?' task: look at the properties in your own table and ask, 'Are they all needed to make the object?' Cross out any that do not matter (a steel glass being shiny is nice but not needed). Ask: 'When would a waterproof chair matter?' (For a chair kept outside in the rain.) Tick the 'Look what I can do!' list on page 72."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 15,
+          "do": "Do worksheet ws1 together. Read each question aloud if needed. For every answer ask your child to say the property that helped them decide.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book page 72", "a plastic chair, a steel glass, a belan, a glass bottle, a cotton towel", "printed or on-screen ws1"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Testing fabrics and cushions",
+      "goal": "Test fabrics to find the best one for an umbrella, and read a block graph of cushion softness.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "We can test things (pages 73–74)",
+          "mins": 5,
+          "do": "Read the 'Getting started' box on page 73: 'How do you know if a fabric is waterproof? Look at the fabric of your clothes. Is the fabric waterproof? What could you do to find out?' Then read the top of page 74: we can test things to find out their properties; we can try to bend materials to find out if they are flexible; we can test fabrics to find out if they are waterproof or absorbent. Ask: 'Is this umbrella waterproof or absorbent?' (waterproof.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Which fabric is best for an umbrella? (page 75, Think like a scientist 1)",
+          "mins": 17,
+          "do": "Do Experiment e2. Collect five fabrics: a cotton hanky, a piece of an old raincoat or umbrella, a woollen sock, a polyester or nylon dupatta, and a piece of plastic sheet or a plastic bag. Your child predicts which fabric will be most waterproof, as page 75 asks. Then they put one small drop of water from a dropper or straw onto each fabric and watch for a minute. 'If the water stays on top the fabric is waterproof. If the water is absorbed the fabric is absorbent.' Sort the fabrics into the page 75 table with two columns, Waterproof and Absorbent. Ask: 'Were your predictions correct?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Testing cushions and the block graph (page 74)",
+          "mins": 13,
+          "do": "Read 'Testing cushions' on page 74: Zara and Marcus want to know which cushion is the softest; they put a rock on each cushion to see how far it goes down; they use a ruler and some bricks to measure; they make a block graph. Do Experiment e3 with three cushions or pillows at home (a sofa cushion, a bed pillow, a floor gaddi). Put the same heavy object (a steel lota of water or a big stone) in the middle of each. Lay a ruler across the top of the cushion and stack Lego bricks or coins in the dip under the ruler until they touch it. Count the bricks. Draw a block graph like the one on page 74: one column per cushion, one square per brick. Answer questions 1 and 2 on page 74: 'Which cushion is the softest?' (the one with the most bricks) and 'Which is the hardest?' (the fewest).",
+          "ref": "e3"
+        }
+      ],
+      "need": ["Learner's Book pages 73–75", "5 fabric pieces (cotton, raincoat, wool, nylon, plastic)", "a dropper or straw and water", "3 cushions or pillows", "a heavy object such as a steel lota of water", "a ruler", "Lego bricks or coins", "squared paper"],
+      "prep": [{"task": "Cut small squares from old fabrics: cotton, wool, nylon, raincoat and plastic", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "Which paper makes the strongest bag?",
+      "goal": "Test the strength of different papers fairly, measure with bricks, make a block graph and decide which paper makes the best bag.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Paper strength test (page 76, Think like a scientist 2)",
+          "mins": 22,
+          "do": "Do Experiment e4, following the pictures on page 76. Cut strips of four kinds of paper the same size (about 3 cm by 10 cm): newspaper, notebook paper, a brown paper bag, and thin card from a cereal or sweet box. Make a small hole near one end of each strip. Hook a rubber band through the hole with a paperclip. Hold the other end of the strip down on a pencil laid across the table edge (you hold the pencil steady), and your child pulls the rubber band slowly downwards until the paper tears. At the moment it tears, you hold a stack of Lego bricks next to the stretched band and count how many bricks long it is. Before testing, your child predicts which paper is strongest. Read the red line first: do not stretch the rubber bands too much; they could break and hurt people.",
+          "ref": "e4"
+        },
+        {
+          "kind": "do",
+          "title": "Block graph and decision",
+          "mins": 8,
+          "do": "Your child draws a block graph of the results on squared paper, one column per paper, one square per brick, and colours each column. Ask the page 76 questions: 'Were your predictions correct? Which paper would make the strongest bag?' Tell them that sabziwalas and shops in India now often use paper or cloth bags instead of thin plastic ones. Ask: 'Which of our papers would hold 1 kg of potatoes?'"
+        },
+        {
+          "kind": "review",
+          "title": "Is my measurement correct? (page 77)",
+          "mins": 5,
+          "do": "Do the 'How am I doing?' on page 76: compare your results with another family member who tries one paper again. If they are not the same, test again. Read the green box on page 77: 'Sometimes it can be difficult to measure correctly. What can you do if you are not sure your measurement is correct?' (Do the test again two or three times and see which answer comes up most; make sure the band is pulled the same way each time.) Tick the 'Look what I can do!' list on page 77."
+        }
+      ],
+      "need": ["Learner's Book pages 76–77", "strips of newspaper, notebook paper, a brown paper bag and thin card, all the same size", "a paperclip", "a rubber band", "a pencil", "Lego bricks or counters", "squared paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Changing materials with heat",
+      "goal": "See that heating can change a material in a way that can be undone (melting chocolate) or make a new material (cooking egg).",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Burning wood and melting ice (page 78)",
+          "mins": 6,
+          "do": "Read the 'Getting started' box on page 78 and look at the burning matchstick and the melting ice. Ask: 'How is this wood being changed?' (It is burning; it turns black and into ash and smoke.) 'How can ice be changed?' (Heat it and it melts into water; freeze the water and it becomes ice again.) Ask your child to think of a way to change a material so it has different properties (cook rice so it goes soft, dry clothes in the sun, freeze water into ice, knead atta into dough) and draw one idea."
+        },
+        {
+          "kind": "read",
+          "title": "Arun makes a cake (pages 79–80)",
+          "mins": 9,
+          "do": "Read 'Making a cake' on pages 79–80. Arun has solid materials: flour, sugar, butter and chocolate; he breaks some eggs, which are a liquid. First he makes a mixture of sugar, butter and eggs. Next he melts the chocolate by making it hot: solid changes into liquid. He adds the liquid chocolate and flour. He heats the mixture in the oven: the heat makes the liquid egg change into a new solid material that holds the other materials together. Ask question 1: 'Which material changed from a solid to a liquid when it was heated?' (chocolate, and butter) and question 2: 'Which changed from a liquid to a solid when heated?' (egg). Read the last lines on page 80: when we heat liquid egg we make a new material that cannot be changed back; heating solid chocolate only changes its properties, and liquid chocolate can be made solid again by making it cold."
+        },
+        {
+          "kind": "exp",
+          "title": "Chocolate and egg (or ghee and egg)",
+          "mins": 20,
+          "do": "Do Experiment e5 in the kitchen, with you handling the stove. Put two squares of chocolate (or a spoon of solid ghee or coconut oil in winter) in a small steel katori and stand it in a bowl of hot water. Your child watches it turn liquid. Pour half onto a plate and put it in the fridge. Meanwhile, crack an egg into a small pan and cook it gently on the stove: watch the clear runny part turn white and solid. After 10 minutes take the chocolate out of the fridge: it is solid again. Ask: 'Can we turn the cooked egg back into runny egg by putting it in the fridge?' Try it with a small piece to check. (No.) Your child draws a two-row diagram: chocolate (solid → liquid → solid again) and egg (liquid → solid, cannot go back).",
+          "ref": "e5"
+        }
+      ],
+      "need": ["Learner's Book pages 78–80", "2 squares of chocolate or a spoon of solid ghee or coconut oil", "a steel katori and a bowl of hot water", "a plate", "1 egg and a small pan", "the stove (adult use only)"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Toast, diagrams and brown fruit",
+      "goal": "Observe bread before and after toasting, draw labelled diagrams, and plan our own test on stopping cut fruit going brown.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Set up the brown fruit test (pages 82–83, Think like a scientist 2)",
+          "mins": 10,
+          "do": "Start Experiment e7 first, so you can look at it at the end today and again tomorrow. Read 'Can you stop peeled fruit going brown?' on page 82: when you peel an apple or a banana it starts to turn brown; air makes the material of the apple change into a new material. Read Jun's question: 'Will water stop my apple from going brown?' Help your child ask their own question, as page 83 says: 'Will ____ stop my fruit from going brown?' (lemon juice, water, salt water, sugar water, milk). Cut an apple (or a banana) into five equal slices and put each on a labelled plate: nothing, water, lemon juice, salt water, and one wrapped tightly in cling film. Dip each slice in its liquid for one minute. Your child draws a diagram of the plan with labels, as page 83 asks, and predicts which will stay pale.",
+          "ref": "e7"
+        },
+        {
+          "kind": "exp",
+          "title": "Observing toast (pages 81–82, Think like a scientist 1)",
+          "mins": 17,
+          "do": "Do Experiment e6. Read page 81: 'This is a picture of some bread. This is a diagram of some bread. A diagram is like a picture but it only shows the important information. A diagram has labels.' Point out that the diagram leaves out the knife and the board. Give your child a slice of bread and a magnifying glass. Ask: 'Is it flexible or rigid?' (flexible: bend it.) They draw a diagram of the slice and label it: crust, yellow crumbs, brown crumbs, small holes. Ask: 'What do you predict will happen if we heat the bread?' Then you toast it on a tawa or in a toaster (read the red line: do not touch the toaster or grill; they get very hot). Toast one slice lightly and one until dark brown. Let them cool. Your child observes with the magnifying glass and draws a second diagram. Read page 82: the bread has changed into a new material; it is a different colour, harder and more rigid, and tastes different too. Let them taste a light piece.",
+          "ref": "e6"
+        },
+        {
+          "kind": "review",
+          "title": "First look at the fruit (page 83)",
+          "mins": 8,
+          "do": "Look at the five fruit slices from e7. Some may already be going brown. Your child draws a quick diagram of the results so far with labels. Read the green box on page 83: 'Why is a diagram often more useful than a picture? How does a diagram help you to learn?' (It shows only the important parts with labels, so it is clearer and easier to compare.) Leave the slices on the counter, covered loosely from flies, until tomorrow.",
+          "ref": "e7"
+        }
+      ],
+      "need": ["Learner's Book pages 81–83", "2 slices of bread", "a toaster or tawa (adult use only)", "a magnifying glass", "an apple or banana", "5 small plates", "water, lemon juice, salt, cling film", "paper for diagrams"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Burning, and materials that damage the Earth",
+      "goal": "Finish the fruit test, learn how scientists explained burning, and make a poster about saving the Earth.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Fruit test results (page 83)",
+          "mins": 6,
+          "do": "Look at the e7 fruit slices after one day. Your child draws a labelled diagram of the result next to yesterday's plan, as page 83 asks. Ask: 'Which slice is brownest? Which stayed palest? Did your investigation answer your question?' Usually the plain slice is brownest and the lemon juice slice and the tightly wrapped slice are palest. Do the 'How am I doing?' task: you look at their question and diagram and say whether it answered the question. Throw the fruit away; do not eat it.",
+          "ref": "e7"
+        },
+        {
+          "kind": "think",
+          "title": "Phlogiston: an idea about burning that was wrong",
+          "mins": 9,
+          "do": "Tell the story in Voice v2. Light a candle (adult only) and ask: 'What is the wax turning into?' Then explain that for about a hundred years, scientists believed burning things gave out an invisible substance called phlogiston. Then Antoine Lavoisier in France weighed things carefully and found that some metals got heavier when burned, because they were joining with a gas from the air: oxygen. Turn a glass jar over the candle (on a plate) and watch the flame go out. Ask: 'Why did the flame go out?' (It used up the oxygen it needs in the jar.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "read",
+          "title": "Project: Materials can damage the Earth (pages 84–85)",
+          "mins": 6,
+          "do": "Read page 84 aloud while looking at the photo of a cleared forest: paper is made from wood, trees are cut down to make paper, which is bad for forests and the animals and plants living there, but we can recycle used paper to make new paper, which saves trees. Plastic is made from oil; getting the oil out causes pollution; used plastic is often dropped as litter, and there is now lots of plastic pollution in rivers and the sea; but we can recycle used plastic to make new plastic, which means less pollution. Read page 85: science teaches us we are damaging our world, and that we should use recycled paper and plastic and not drop litter."
+        },
+        {
+          "kind": "act",
+          "title": "I can help Earth poster (page 85)",
+          "mins": 14,
+          "do": "Start Activity a6. Look at the example poster on page 85 with a globe in the middle saying 'I CAN HELP EARTH' and sections round it: grow plants, save animals, don't cut down trees, do not litter, save water, ride a bike, stop pollution, recycle plastic. Your child makes their own poster on a big sheet. It must tell people how they can save trees, how they can make less pollution and why they should not drop litter, as page 85 asks. Add Indian ideas: carry a cloth thaila to the market, give old newspapers to the kabadiwala, use a steel bottle instead of buying plastic ones, use both sides of notebook pages.",
+          "ref": "a6"
+        }
+      ],
+      "need": ["Learner's Book pages 83–85", "the e7 fruit slices", "a candle, matches (adult only), a glass jar and a plate", "a big sheet of paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 14,
+      "title": "Should we just recycle plastic?",
+      "goal": "Weigh up a live debate about plastic, finish the poster and apply ideas to new cases with the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "think",
+          "title": "Recycle, or use less?",
+          "mins": 10,
+          "do": "Tell your child about Voice v3: the book says we can recycle plastic to make new plastic. Scientists who added up all the plastic ever made found that only a small part of it has been recycled. Some people say the answer is better recycling; others say we must mostly use less plastic in the first place. Look at the plastic in your kitchen together and sort it into 'we really need this' and 'we could do without this'. Ask the voice question and let your child give a full answer.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Finish and present the poster",
+          "mins": 10,
+          "do": "Your child finishes the a6 poster, adding one idea from today's talk about using less plastic. Then they present it to the family, like an advertisement, explaining each section in one sentence. Stick it on the fridge or the front door so the whole family sees it.",
+          "ref": "a6"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Do worksheet ws2. These questions use new objects and new situations. Let your child think aloud and give reasons using property words.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["plastic items from the kitchen", "the a6 poster and colours", "printed or on-screen ws2"],
+      "prep": []
+    },
+    {
+      "n": 15,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the book's progress questions, try the challenge worksheet and teach the unit back.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Check your progress (pages 86–87)",
+          "mins": 10,
+          "do": "Do 'Check your progress' on pages 86–87 aloud. 1. 'Which materials are natural and which have been made?' (Natural: rock, wood, cotton. Made: paper, plastic, glass.) 'What natural materials have they been made from?' (paper from wood, plastic from oil, glass from sand.) 2. 'Name two characteristics of these materials.' The book does plastic: smooth and shiny. Your child does metal (strong, shiny), glass (transparent, rigid), paper (flexible, absorbent), rock (hard, rigid). 3. Put the objects in the Venn diagram with circles 'flexible' and 'hard': cotton T-shirt in flexible only; wooden pencil and stone in hard only; metal paperclip and plastic ruler in the middle (both hard and a little bendy). Accept reasoned answers. 4. 'Which change makes a new material: burning wood or melting chocolate?' (burning wood.) 5. 'What happens to these materials when we heat them? egg, ice, bread' (egg turns from liquid to a new solid; ice melts to water; bread turns to toast, a new harder, browner material.) Then ask this pack's check questions."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do worksheet ws3. These are harder 'what if' and puzzle questions. Some have more than one good answer; ask for reasons.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child becomes the teacher. Using their natural/made chart, the Venn diagram, the fabric and paper results, the block graph and the toast diagrams, they teach a family member: the difference between natural and made materials with three examples; five property words with a material for each; how they tested which fabric is waterproof and which paper is strongest; and one change that can be undone and one that makes a new material. The listener asks two 'why' questions. End by asking your child: 'What material would you choose for a new school bag, and why?'"
+        }
+      ],
+      "need": ["Learner's Book pages 86–87", "printed or on-screen ws3", "charts, graphs and diagrams from earlier days"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Natural, made and properties",
+      "day": 8,
+      "sections": [
+        ["A. Natural or made?", [
+          {"t": "sort", "p": "Sort these materials.", "items": ["wood", "glass", "sand", "plastic", "rubber from a tree", "paper", "cotton", "rock"], "cats": ["Natural", "Made by people"]},
+          {"t": "match", "p": "Match each made material to the natural material it comes from.", "pairs": [["Paper", "wood"], ["Glass", "sand"], ["Plastic", "oil"]]}
+        ]],
+        ["B. Property words", [
+          {"t": "fill", "p": "A towel soaks up water. It is ____.", "a": ["absorbent"]},
+          {"t": "fill", "p": "We can see through window glass. It is ____.", "a": ["transparent"]},
+          {"t": "mcq", "p": "Rock does not bend. Rock is:", "opts": ["rigid", "flexible", "absorbent", "transparent"], "a": 0},
+          {"t": "mcq", "p": "Which material is waterproof?", "opts": ["plastic", "cotton cloth", "paper towel", "sponge"], "a": 0}
+        ]],
+        ["C. The right material", [
+          {"t": "mcq", "p": "Why is metal a sensible material for a bicycle frame?", "opts": ["It is strong and rigid", "It is soft and floppy", "It is absorbent", "It melts easily"], "a": 0},
+          {"t": "write", "p": "What would happen if a table was made of chocolate?", "lines": 2},
+          {"t": "draw", "p": "Draw a Venn diagram with circles 'shiny' and 'flexible'. Put in: a metal key, writing paper, a plastic bottle, a glass bottle."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Testing and choosing materials",
+      "day": 14,
+      "sections": [
+        ["A. Fair tests", [
+          {"t": "mcq", "p": "Meera tests fabrics for a raincoat. Which test is fair?", "opts": ["One drop of water on each fabric, same size pieces", "A bucket of water on one, a drop on another", "Only testing the fabric she likes", "Testing in the dark"], "a": 0},
+          {"t": "table", "p": "Kabir pulled paper strips until they tore. Make a block graph from his results (in bricks) and say which is strongest.", "cols": ["Paper", "Bricks long", "Strongest?"], "rows": 3, "prefill": ["Newspaper: 3", "Brown paper bag: 6", "Notebook paper: 4"]},
+          {"t": "write", "p": "Kabir's friend got different numbers. What should they do?", "lines": 2}
+        ]],
+        ["B. Choose the material", [
+          {"t": "match", "p": "Match each object to the best material.", "pairs": [["Kadhai for cooking", "iron or steel"], ["Bath towel", "cotton"], ["Raincoat", "plastic or nylon"], ["Window", "glass"], ["Cricket bat", "wood"]]},
+          {"t": "write", "p": "Clay matkas keep water cool in summer because water seeps slowly through the clay. Is clay waterproof or a little absorbent? Explain how you know.", "lines": 3}
+        ]],
+        ["C. Changes", [
+          {"t": "sort", "p": "Can the change be undone, or is it a new material?", "items": ["melting ghee", "cooking an egg", "freezing water", "toasting bread", "burning paper", "melting chocolate"], "cats": ["Can be changed back", "New material"]},
+          {"t": "mcq", "p": "Why did the apple slice dipped in lemon juice stay paler?", "opts": ["The lemon juice slowed the change that air causes", "Lemon juice is brown", "The apple was cooked", "It had more air"], "a": 0}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking harder about materials",
+      "day": 15,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if glass were not transparent? Name two things in your home that would have to change, and what you might use instead.", "lines": 3},
+          {"t": "write", "p": "A plastic bottle is flexible, waterproof, light and shiny. Which of these properties matter for a water bottle, and which do not? Explain like Sam's chair on page 72.", "lines": 4}
+        ]],
+        ["B. Puzzles", [
+          {"t": "mcq", "p": "A cotton T-shirt is made in a factory. Is the material natural or made?", "opts": ["Natural: cotton grows on a plant", "Made: it came from a factory", "Neither", "It is a kind of plastic"], "a": 0},
+          {"t": "write", "p": "Design a test to find out which cloth bag can carry the most potatoes. What will you change, what will you keep the same, and what will you measure?", "lines": 4}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Scientists once said burning wood gives out phlogiston. Lavoisier showed burning joins things with oxygen from the air. What did he do that the phlogiston believers had not done carefully?", "lines": 3},
+          {"t": "write", "p": "Ravi says 'Plastic is fine as long as we recycle it.' Anjali says 'We should mostly use less plastic.' Who do you agree with more? Give a reason.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Questions about materials: test or observe",
+      "day": 5,
+      "question": "Are these materials strong or weak, smooth or rough, and how can we find out?",
+      "need": ["a sheet of paper", "a piece of cotton cloth", "a plastic bag", "aluminium foil", "a wooden ice-cream stick", "a rubber band", "a cup of water and a spoon", "a results table"],
+      "steps": [
+        "Copy the page 67 table: Material; Is it strong or weak?; Is it smooth or rough?; plus one question of your own.",
+        "For each question decide: will we find out by testing or by observing?",
+        "Predict the answer for each material.",
+        "Strong or weak: pull each piece gently with both hands; does it tear or stretch easily?",
+        "Smooth or rough: look closely with a magnifying glass and stroke it with a finger.",
+        "Your own question: test it, for example drip one spoon of water to check waterproof.",
+        "Record each answer in the table."
+      ],
+      "predict": "Ask your child to guess first, for each material and each question, and write the guesses in pencil before testing.",
+      "observe": "Paper tears easily (weak) and feels smooth; cotton is fairly strong and a little rough; the plastic bag stretches before tearing; foil tears easily and is smooth and shiny; the wooden stick is strong and rigid; the rubber band stretches a long way.",
+      "why": "Some properties can be seen or felt just by observing, such as smooth, rough, shiny or dull. Others only show up when you do something to the material, such as pulling it to see if it is strong, bending it to see if it is flexible, or dripping water to see if it is waterproof. A material's properties come from what it is made of and how its tiny parts are joined: paper is a thin mat of short wood fibres that pull apart easily, while cotton cloth is woven from long twisted threads, so it is much harder to tear.",
+      "safety": "Torn foil can have sharp edges; do not run your finger along them.",
+      "time": "22 min"
+    },
+    {
+      "id": "e2",
+      "title": "Which fabric is best for an umbrella?",
+      "day": 9,
+      "question": "Which fabrics are waterproof and which are absorbent?",
+      "need": ["5 small squares of fabric: cotton, raincoat or umbrella cloth, wool, nylon or polyester, plastic", "a dropper or a straw", "a cup of water", "a results table with columns Waterproof and Absorbent"],
+      "steps": [
+        "Lay the fabric squares flat on a plate or tray.",
+        "Predict which will be the most waterproof.",
+        "Put one small drop of water on each fabric using the dropper or straw.",
+        "Watch each drop for one minute.",
+        "If the drop stays on top as a bead, put the fabric in the Waterproof column; if it soaks in, put it in Absorbent.",
+        "Turn each fabric over and check if any water came through underneath."
+      ],
+      "predict": "Ask your child to guess first: which fabric will be best for an umbrella? Which will soak up the water fastest?",
+      "observe": "On cotton and wool the drop soon soaks in and spreads into a dark patch. On the raincoat, umbrella cloth and plastic it sits as a round bead. Nylon may hold the drop for a while and then slowly soak, depending on whether it has a coating.",
+      "why": "Cotton and wool are made of fibres that love water: water creeps along the tiny gaps between and inside the fibres, which is why towels are cotton. Plastic sheet has no gaps at all, so water cannot get in. Raincoat and umbrella fabrics are usually woven from plastic-like fibres such as nylon or polyester and given a waterproof coating that seals the gaps and makes water roll off as beads. That is why an umbrella made of cotton would be a silly choice.",
+      "safety": "",
+      "time": "17 min"
+    },
+    {
+      "id": "e3",
+      "title": "Which cushion is softest?",
+      "day": 9,
+      "question": "How can we measure and compare how soft cushions are?",
+      "need": ["3 different cushions or pillows", "a heavy object, the same for every cushion", "a ruler", "Lego bricks or coins", "squared paper"],
+      "steps": [
+        "Put the heavy object in the middle of the first cushion.",
+        "Lay a ruler across the cushion so it rests on the high edges.",
+        "Remove the object and stack bricks or coins in the dip until they just touch the ruler.",
+        "Count and record the number of bricks.",
+        "Repeat with the other cushions using the same object.",
+        "Draw a block graph: one column per cushion, one square per brick."
+      ],
+      "predict": "Ask your child to guess first: which cushion will sink the most? Squeeze them with your hand to help you decide.",
+      "observe": "The softest cushion makes the deepest dip and needs the most bricks; the firmest needs the fewest.",
+      "why": "A soft cushion is filled with something that squashes easily, like fluffy cotton, foam with lots of air bubbles, or feathers. The weight of the object pushes down, the air spaces get squeezed, and the cushion sinks. A firm cushion has a denser filling with fewer air spaces, so it pushes back harder and sinks less. Measuring with bricks turns 'soft' into a number we can compare, and the block graph lets us see the answer at a glance.",
+      "safety": "Use a heavy object that cannot spill; a closed steel lota is best.",
+      "time": "13 min"
+    },
+    {
+      "id": "e4",
+      "title": "Which paper makes the strongest bag?",
+      "day": 10,
+      "question": "Which kind of paper needs the biggest pull to tear?",
+      "need": ["strips of 4 kinds of paper, all the same size (newspaper, notebook paper, brown paper bag, thin card)", "a paperclip", "a rubber band", "a pencil", "Lego bricks or counters", "squared paper"],
+      "steps": [
+        "Cut each paper into a strip the same size and make a small hole near one end.",
+        "Hook the rubber band through the hole with a paperclip.",
+        "Wrap the other end of the strip around a pencil held firmly on the table.",
+        "Pull the rubber band slowly and steadily downwards.",
+        "At the moment the paper tears, measure the length of the stretched band with a stack of bricks.",
+        "Repeat with each paper, then draw a block graph."
+      ],
+      "predict": "Ask your child to guess first: which paper is the strongest? Which is the weakest? Put the papers in order.",
+      "observe": "Newspaper usually tears with only a short stretch; notebook paper takes a bit more; brown paper bag and thin card stretch the band much further before tearing.",
+      "why": "The rubber band stretches more when you pull harder, so the length of the band when the paper tears tells us how big a pull the paper could hold. Paper is a mat of wood fibres pressed together. Brown paper bags are made with long, strong fibres, packed thickly, so many fibres must break before it tears. Newspaper is thin and made from shorter, weaker recycled fibres. Keeping the strips the same size and pulling the same way makes the test fair, so the only thing that changes is the kind of paper.",
+      "safety": "Do not stretch the rubber band too far; it could snap and hurt someone. Keep faces away.",
+      "time": "22 min"
+    },
+    {
+      "id": "e5",
+      "title": "Chocolate and egg: can we change them back?",
+      "day": 11,
+      "question": "When we heat chocolate and egg, can we change them back again?",
+      "need": ["2 squares of chocolate (or solid ghee or coconut oil)", "a small steel katori", "a bowl of hot water", "a plate", "1 egg", "a small pan and the stove (adult use)", "a fridge"],
+      "steps": [
+        "Put the chocolate in the katori and stand it in the bowl of hot water.",
+        "Watch it change from solid to liquid.",
+        "Pour the liquid onto a plate and put it in the fridge for 10 minutes.",
+        "Meanwhile the adult cooks the egg gently in a pan; watch the clear part turn white and solid.",
+        "Take out the chocolate and check if it is solid again.",
+        "Put a small piece of cooked egg in the fridge too and see if it turns back into runny egg.",
+        "Draw a diagram of both changes."
+      ],
+      "predict": "Ask your child to guess first: if we cool the melted chocolate, will it go hard again? If we cool the cooked egg, will it go runny again?",
+      "observe": "The chocolate melts into a liquid and becomes solid again in the fridge, though its shape changes. The egg goes from runny and clear to firm and white, and stays firm when cooled.",
+      "why": "Heating chocolate gives its tiny particles enough energy to slide past each other, so it flows as a liquid. Cooling takes that energy away and it becomes solid again: it is still chocolate, only its properties changed. Egg white is full of long, folded-up particles called proteins. Heat makes them unfold and tangle together into a solid web, like knotted wool. Cooling cannot untangle them, so cooked egg is a new material that cannot be changed back.",
+      "safety": "An adult handles the stove, hot water and hot pan. Wash hands after touching raw egg.",
+      "time": "20 min"
+    },
+    {
+      "id": "e6",
+      "title": "Observing toast",
+      "day": 12,
+      "question": "How does heating change bread, and can it be changed back?",
+      "need": ["2 slices of bread", "a toaster or tawa (adult use)", "a magnifying glass", "paper and pencil for diagrams"],
+      "steps": [
+        "Look at a slice of bread with the magnifying glass; bend it gently to check if it is flexible.",
+        "Draw a labelled diagram: crust, crumbs, small holes.",
+        "Predict what will happen when the bread is heated.",
+        "The adult toasts one slice lightly and one until dark brown.",
+        "When cool, look again with the magnifying glass and bend each slice.",
+        "Draw a second labelled diagram and compare."
+      ],
+      "predict": "Ask your child to guess first: what will heat do to the colour, softness and taste of the bread? Will it go back to soft bread when it cools?",
+      "observe": "The toasted bread is brown, harder, rigid and crunchy, and snaps instead of bending. The dark slice is darker still and may be black at the edges. It tastes and smells different, and stays toast when cool.",
+      "why": "Heat dries out the water in the bread, which makes it rigid and crunchy. The heat also makes the sugars and proteins in the bread join together into new brown substances with new tastes and smells; cooks and scientists call this browning. If heated too long, the bread burns and turns into black carbon. These are new materials, so toast cannot be turned back into bread.",
+      "safety": "Do not touch the toaster, tawa or grill; they get very hot. Only the adult handles hot bread until it has cooled.",
+      "time": "17 min"
+    },
+    {
+      "id": "e7",
+      "title": "Can you stop peeled fruit going brown?",
+      "day": 12,
+      "question": "Will water, lemon juice, salt water or a wrapping stop a cut apple going brown?",
+      "need": ["an apple or a banana", "a knife (adult use)", "5 small plates and labels", "water, lemon juice, salt", "cling film"],
+      "steps": [
+        "Write your question: 'Will ____ stop my fruit from going brown?'",
+        "The adult cuts the fruit into five equal slices.",
+        "Label five plates: nothing, water, lemon juice, salt water, wrapped.",
+        "Dip each slice in its liquid for one minute (leave one plain; wrap one tightly in cling film).",
+        "Draw a labelled diagram of what you have done.",
+        "Look after 30 minutes and after one day, and draw the results."
+      ],
+      "predict": "Ask your child to guess first: which slice will go brown fastest, and which will stay pale the longest?",
+      "observe": "The plain slice browns first and most. Water slows browning a little. Lemon juice, salt water and the tightly wrapped slice stay paler for longer.",
+      "why": "When you cut an apple, you break open its tiny cells. Chemicals inside them mix and react with oxygen from the air, making new brown substances. This is a change into a new material, like page 82 says. Wrapping the slice keeps air away, so less oxygen reaches it. Lemon juice contains acid and vitamin C, which slow the reaction. Salt water also slows it. That is why cooks squeeze lemon on cut apples and why people keep cut potatoes in water.",
+      "safety": "An adult does the cutting. Throw the fruit away after the test; do not eat it.",
+      "time": "10 min set-up + 8 min check at the end + 6 min next day"
+    }
+  ],
+  "activities": [
+    {"id": "a1", "title": "Natural or made? home hunt", "day": 2, "mins": 18, "need": ["a big sheet of paper divided into 'Natural' and 'Made'", "colours"], "steps": ["Go room to room and find at least ten materials.", "Ask: where does it come from? Is it natural or made?", "Draw and label each in the right column.", "Draw an arrow from each made material to the natural material it came from."], "outcome": "A chart of ten or more household materials sorted into natural and made, showing where made materials come from."},
+    {"id": "a2", "title": "Material journey chain", "day": 3, "mins": 13, "need": ["paper and colours", "a book, video or website"], "steps": ["Copy the cotton chain from page 62: plant, factory, clothes.", "Choose rubber, plastic, glass or oil.", "Find out the three steps from where it comes from to what it becomes.", "Draw each step in a box with arrows between them and a label."], "outcome": "Two labelled picture chains showing how natural materials become things we use."},
+    {"id": "a3", "title": "Floor Venn diagram", "day": 6, "mins": 17, "need": ["2 dupattas or ropes", "label cards", "about 12 household objects"], "steps": ["Make two overlapping circles on the floor.", "Choose two properties and label the circles.", "Place each object in one circle, the overlap or outside, and say why.", "Change the labels and sort again.", "Draw the final diagram in your notebook."], "outcome": "A Venn diagram sorting household objects by two properties."},
+    {"id": "a4", "title": "Sensible and silly materials", "day": 7, "mins": 20, "need": ["drawing paper", "colours"], "steps": ["Choose an everyday object.", "Draw it made of a silly material on the left.", "Draw it made of a sensible material on the right.", "Label the properties that make each material silly or sensible.", "Explain both drawings aloud."], "outcome": "A labelled pair of drawings showing why material choice matters."},
+    {"id": "a5", "title": "Why is that material useful? table", "day": 8, "mins": 15, "need": ["five objects each made of one material", "paper for a table"], "steps": ["Copy the table: Object, Material, Useful properties.", "Fill in a row for each object.", "Write two or three useful properties for each.", "Cross out any property that is not really needed for that object."], "outcome": "A table explaining why each object is made of its material."},
+    {"id": "a6", "title": "I can help Earth poster", "day": 13, "mins": 24, "need": ["a big sheet of paper", "colours"], "steps": ["Draw the Earth in the middle with the words 'I can help Earth'.", "Divide the space around it into sections.", "In each section draw and write one way to help: save trees, make less pollution, do not litter, recycle, use less plastic.", "Add Indian ideas such as cloth thailas and the kabadiwala.", "Present the poster to your family and put it up."], "outcome": "A poster telling people how to save trees, reduce pollution and stop littering."}
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Wootz steel makers of ancient South India",
+      "idea": "Metalworkers in South India (and Sri Lanka) made a special high-carbon steel, later called wootz, by sealing iron together with plant material in small clay pots (crucibles) and heating them for a long time in a furnace. Archaeologists have found remains of crucible steel making at several old sites in South India, some thought to be around 2,000 years old. Wootz was traded far away and was used to make the famous 'Damascus' swords of the Middle East, which had a wavy watery pattern and were known for being both very hard and able to bend without snapping.",
+      "then": "European scientists in the 1700s and 1800s were puzzled by wootz and tried to copy it. Around 1819–1820 the scientist Michael Faraday in London studied samples, trying to understand what made the steel so good. For a long time nobody in Europe could make blades of the same quality.",
+      "now": "It is accepted that wootz was a high-carbon crucible steel and that its special pattern and properties came from the way it was made, forged and cooled. The traditional method was lost in the 1800s, and modern metallurgists have rebuilt versions of it through careful experiments. It is a reminder that steel is a made material whose properties depend on how people make it.",
+      "status": "accepted",
+      "ask": "Swords need to be hard (to keep a sharp edge) and also flexible (so they do not snap). These sound like opposite properties. How could you test a metal spoon or a ruler to see if it is both?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "The phlogiston theory (1700s) and Antoine Lavoisier (1743–1794), France",
+      "idea": "In the 1700s many chemists, following the German scientist Georg Ernst Stahl, believed that things that can burn contain an invisible substance called phlogiston, and that burning releases it into the air. Wood became ash because the phlogiston had left it. A flame in a closed jar went out because the air was 'full' of phlogiston and could take no more.",
+      "then": "The idea explained a lot, so most chemists accepted it. But careful weighing caused trouble: some metals, when heated in air, became heavier, not lighter, which is odd if something had left them. In the 1770s and 1780s Lavoisier did careful experiments in closed containers, weighing everything before and after, and showed that burning is a substance joining with a gas from the air, which he named oxygen.",
+      "now": "The phlogiston theory is rejected. Scientists agree that burning is a reaction with oxygen that makes new materials, such as ash, smoke, carbon dioxide and water vapour. This is why burning wood makes a new material that cannot be changed back. The story is a good example of how measuring carefully can overturn an idea that most experts believed.",
+      "status": "rejected",
+      "ask": "The phlogiston idea seemed to explain burning, until someone weighed things very carefully. Can you think of a time a careful measurement showed you that your first idea was wrong?",
+      "day": 13
+    },
+    {
+      "id": "v3",
+      "who": "The plastic recycling debate today (study by Roland Geyer, Jenna Jambeck and Kara Lavender Law, 2017)",
+      "idea": "In 2017, Geyer, Jambeck and Law published a study in the journal Science Advances adding up all the plastic made in the world since the 1950s. They estimated that only about 9% of all plastic waste ever made had been recycled; most of the rest had been buried in landfills or had ended up in the environment, and some had been burned.",
+      "then": "The study was widely reported and started a big argument. Some people, including many in the plastics industry, say the answer is to build better collection and recycling systems. Others, including many environmental scientists, point out that most plastic can only be recycled a few times before its quality drops, and argue that the main answer must be to make and use much less plastic, especially plastic used only once.",
+      "now": "Scientists agree that plastic pollution in rivers and seas is a serious problem and that recycling helps. How much we should rely on recycling compared with cutting plastic use, and which plastics should be banned, is still debated. India banned a list of single-use plastic items, such as plastic straws, cutlery and earbuds with plastic sticks, from July 2022.",
+      "status": "debated",
+      "ask": "The book says 'we can recycle plastic to make new plastic.' If you learned that most plastic is not recycled, would you change what you do? What evidence would you want to see before deciding whether recycling or using less is better?",
+      "day": 14
+    }
+  ],
+  "check": [
+    {"q": "Name three natural materials and three made materials.", "a": "Natural: for example wood, sand, rock, water, rubber, cotton, oil. Made: for example paper, glass, plastic."},
+    {"q": "What are paper, glass and plastic made from?", "a": "Paper from wood, glass from sand, plastic from oil."},
+    {"q": "What is the difference between waterproof and absorbent?", "a": "Waterproof materials do not let water soak in or through; absorbent materials soak up water."},
+    {"q": "Why is glass good for a window?", "a": "It is transparent so we can see through it; it is also waterproof and rigid."},
+    {"q": "In a Venn diagram with 'shiny' and 'flexible', where does a plastic bottle go and why?", "a": "In the middle overlap, because it is both shiny and flexible."},
+    {"q": "How did we make the paper strength test fair?", "a": "Same-sized strips, the same rubber band, pulled the same way; only the kind of paper changed."},
+    {"q": "Which change makes a new material: melting chocolate or cooking an egg? How do you know?", "a": "Cooking an egg; it cannot be changed back to runny egg, but melted chocolate becomes solid again when cooled."},
+    {"q": "How is a diagram different from a picture?", "a": "A diagram shows only the important information, with labels; a picture shows everything."}
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "key": "ncert|sci|3|5",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 5,
+  "title": "Plants and Animals Live Together",
+  "source": "NCERT Our Wondrous World, Class 3, Unit 2, Chapter 5 (pages 62–71), Reprint 2026-27",
+  "summary": "Wherever there are plants there are animals: living on them, around them and under them in the soil. Your child goes back to their plant friend from Chapter 4 to feel, smell and examine the soil, discovers what soil is made of and who lives in it, spots animals using plants for food, shelter, nesting and rest, and learns to listen for and copy bird sounds. Along the way they grow hidden seeds out of plain soil, separate soil into layers in a jar, test whether cupped ears really help, and meet scientists who showed how worms build soil, how birds choose their nests and why the birds went quiet.",
+  "goals": [
+    "By the end your child can describe soil by its colour, feel and smell, compare soil from near a plant with soil far from plants, and say how soil changes after rain.",
+    "By the end your child can explain that soil is made of broken-up rock, old leaves, roots, stems and living and dead creatures, and show it with a jar test.",
+    "By the end your child can name creatures that live in and on the soil (ants, termites, beetles, earthworms, millipedes) and explain why many appear only after rain.",
+    "By the end your child can give examples of animals using plants for food, shelter, nesting and rest, such as tailorbirds stitching leaves, sunbirds drinking nectar and owls in tree hollows.",
+    "By the end your child can recognise and imitate a few bird sounds, keep a bird-sound record, and say when birds are heard most and why.",
+    "By the end your child can put the stages of a butterfly's life in order and say what evidence would show that noise or chemicals affect birds."
+  ],
+  "words": [
+    ["soil", "the topmost layer of the Earth's surface, made of rocks broken into tiny pieces mixed with old leaves, roots, stems and living and dead creatures"],
+    ["texture", "how something feels when you touch it: rough, smooth, grainy, sticky, hard or soft"],
+    ["humus", "the dark, soft part of soil made from rotted leaves, roots and dead creatures; it holds water and feeds plants"],
+    ["shelter", "a safe place to rest, hide or live, away from rain, sun and enemies"],
+    ["hollow", "an empty space inside a tree trunk or branch where birds and squirrels can nest"],
+    ["nest", "a home that a bird or animal makes to lay eggs or bring up its young"],
+    ["nectar", "the sweet juice inside flowers that sunbirds, bees and butterflies drink"],
+    ["caterpillar", "the young, worm-like stage of a butterfly or moth that eats leaves"],
+    ["pupa", "the resting stage when a caterpillar changes into a butterfly; a butterfly's pupa is called a chrysalis and a moth's is often wrapped in a silk cocoon"],
+    ["habitat", "the place where a plant or animal lives and finds food, water and shelter"],
+    ["decomposer", "a living thing, like an earthworm, a fungus or tiny bacteria, that breaks down dead plants and animals into soil"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Who lives with plants?",
+      "goal": "Discover that where there are plants there are animals, recognise animals in the book's pictures, and start growing seeds hidden in plain soil.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Look under one leaf",
+          "mins": 5,
+          "do": "Take your child to any plant: a pot on the balcony, a hedge, a tree in the compound. Ask them to look carefully on top of the leaves, under the leaves, on the stem and on the soil around it, without touching. Ask: 'Did you find any animal at all? Even a tiny one?' Good finds: ants walking up the stem, a spider web, tiny white insects under a leaf, chewed holes, bird droppings. If they find nothing, ask: 'Do you see any clue that an animal visited?' (Holes in leaves, a web, a trail of ants.)"
+        },
+        {
+          "kind": "read",
+          "title": "Animals live with plants (pages 62–63)",
+          "mins": 8,
+          "do": "Read page 62 aloud: in Chapter 4 we saw lots of plants; where there are plants, there are animals too, living on, around and underneath them. Then look at the pictures on page 63 together and read the three questions. Your child points to each and names it: elephants feeding on grass, a moth resting on a leaf, a caterpillar chewing a leaf, earthworms on leaves and soil, a tailorbird singing, a woodpecker on a trunk, ants building a nest with leaves, a colourful stink bug, a frog on a leaf, a butterfly on a leaf, squirrels in tree hollows and a barbet nesting in a hollow. Ask: 'Which of these live under the ground?' (Earthworms, and ants partly.) 'Which use the plant for food? For a home? To rest?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Show me how big (page 64)",
+          "mins": 7,
+          "do": "Do the task at the top of page 64. For each animal from page 63 your child has seen, they describe where and how they saw it, and show its size with fingers, hands or arms: an ant between two fingertips, a butterfly with two hands, a squirrel with the forearm, an elephant with both arms wide and then 'even bigger!'. Then ask the page 64 question: 'Why do these animals choose to live near plants?' Good answers: plants give them food (leaves, fruit, nectar, seeds), shelter from sun and rain, places to hide from enemies, and material for nests."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the hidden-seed tray",
+          "mins": 15,
+          "do": "Do Experiment e1. With a spoon or small trowel, collect two cups of soil from a patch of ground where nothing is growing now (a bare corner of the compound, the edge of a path or under a hedge). Spread it 3 cm deep in a tray or an old ice-cream box with holes in the bottom. Fill a second tray with soil that you first bake in a pressure cooker or steam for 20 minutes (adult job) and let cool. Water both and put them side by side near a window. Ask your child to predict: 'Will anything grow from soil where we planted nothing?' Write the guess down.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Visit your plant friend",
+          "mins": 5,
+          "do": "Remind your child of the plant friend they chose in Chapter 4 (or choose one now: a tree or shrub you can visit often). Tell them this week they will study the animals and soil around it. Ask them to guess and write in the notebook: 'How many different kinds of animals do you think live on and around your plant friend?' We will check on Day 4."
+        }
+      ],
+      "need": ["Textbook pages 62–64", "2 trays or old ice-cream boxes with holes in the bottom", "4 cups of soil from bare ground", "a spoon or trowel", "a pressure cooker or steamer (adult use)", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Life in the soil: look, feel and smell",
+      "goal": "Examine soil near our plant friend and far from plants with our hands and nose, and find out what soil is made of with a jar test.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 1: Feel the soil (page 64)",
+          "mins": 12,
+          "do": "Go to your plant friend. Read 'Life in the Soil' on page 64. If your child is comfortable, they stand barefoot on the soil next to the plant. Ask: 'What colour is the soil under your feet?' Then do Activity 1: they pick up a little soil near the plant and you ask each question in the book: 'How does it look and feel? Is it dry, damp, rough, smooth, hard or grainy? Did you find leaves or insects in it?' Then: 'Smell it and remember the smell.' Tick the boxes on page 64 (rough, smooth, hard, grainy; nothing, leaves, small stones, insects). Collect a small cup of this soil and take it home."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Soil far from plants (page 65)",
+          "mins": 6,
+          "do": "Do the next task on page 65: pick up a little soil from a place far from any plants (a bare playground, a construction heap, a path). Ask: 'Is it different from the soil near your plant friend? In what ways?' Good answers: 'paler', 'harder', 'more sandy', 'no leaves', 'doesn't smell of anything'. Collect a small cup of it too. Write the date and month in the notebook and plan to repeat Activity 1 on the day after it next rains, from the same spot, as page 65 asks."
+        },
+        {
+          "kind": "read",
+          "title": "What is soil? (page 65)",
+          "mins": 5,
+          "do": "Read the box on page 65 aloud: soil is the topmost layer of the Earth's surface, made from rocks broken into tiny pieces, as well as old leaves, roots, stems and living and dead animals like insects. Ask: 'Where did the broken rock come from?' (Big rocks are cracked by heat and cold, rain, roots and rivers over a very long time.) 'Which soil cup do you think has more old leaves and roots in it?' (The one from near the plant.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Soil jar test",
+          "mins": 17,
+          "do": "Do Experiment e2 with both cups of soil. Put each into its own clear jar or bottle, fill with water two-thirds of the way, close tightly and let your child shake each hard for one minute. Before shaking, ask them to predict what will happen when it settles. Watch for 10 minutes: stones and coarse sand drop first, then finer sand, then silt; bits of leaves and twigs float. Your child draws both jars and labels the layers. Leave them overnight and look again tomorrow. Explain the 'why' of e2.",
+          "ref": "e2"
+        }
+      ],
+      "need": ["Textbook pages 64–65", "2 small cups for soil samples", "2 clear jars or plastic bottles with lids", "water", "notebook and pencil"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Who lives in the soil?",
+      "goal": "Find the creatures living in soil and leaf litter, learn why many appear after rain, and hear how Charles Darwin showed that earthworms make soil.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Jar and seed-tray check",
+          "mins": 4,
+          "do": "Look at the Experiment e2 jars from yesterday: the water above is now clearer, a thin layer of very fine clay may sit on top of the silt, and the floating bits may have sunk. Your child adds the new layer to the drawing. Then check the Experiment e1 trays: water if the soil is drying and look for any tiny green tips.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Creatures in the soil (pages 65–66)",
+          "mins": 6,
+          "do": "Read the bottom of page 65 and the top of page 66: on top of the soil and between grass and leaves live ants, termites, small beetles and grasshoppers; when it rains and the soil is wet, earthworms and millipedes appear, and more grasses and plants grow. Ask the page 66 question: 'In the monsoons you may find many more plants and animals around. Where did they come from? Why could you not see them earlier?' Read the Note to the Teacher on page 66 aloud: some insects wait in the soil for the rains to come out, and seeds can stay in the soil for a long time and sprout when it rains or they are watered. Ask: 'Which of our experiments is testing this?' (The hidden-seed tray, e1.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Minibeast hunt",
+          "mins": 15,
+          "do": "Do Activity a1. Lift a flowerpot, a flat stone, a brick or a pile of fallen leaves in a shady spot and look underneath, one at a time. Your child records in the Minibeast Hunt table: where, what they found, how many, what it was doing. Look for ants, woodlice (tiny grey armoured creatures that roll into a ball), millipedes (many legs, slow, curl up), centipedes (fast, flat; do not touch, they can nip), earthworms, beetles, spiders and snail shells. Use a magnifying glass if you have one. Put every stone and pot back exactly as it was, gently, so the creatures' home is not destroyed. Ask: 'Why were they all hiding in dark, damp places?' (To keep from drying out and to hide from birds.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "Darwin and the earthworms",
+          "mins": 10,
+          "do": "If you found an earthworm, place it on a damp leaf on your child's palm for a few seconds and watch it move, then put it back on the soil. Tell the story in Voice v1: Charles Darwin, a famous scientist, spent many years studying earthworms in his garden and fields and showed that they turn dead leaves into soil and slowly bury stones, when many farmers thought worms were just pests. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Who cleans up the dead leaves?",
+          "mins": 5,
+          "do": "Ask: 'Every year a big tree drops thousands of leaves. Why isn't the ground buried under a mountain of old leaves?' Let your child think. Good answer: 'Worms, termites, woodlice, fungi and tiny germs eat them and turn them into soil.' Tell them these clean-up creatures are called decomposers, and the dark, soft soil they make is called humus. Ask: 'Which of today's creatures were decomposers?' (Earthworms, woodlice, millipedes, termites.)"
+        }
+      ],
+      "need": ["Textbook pages 65–66", "a magnifying glass if available", "a flowerpot, stone or brick and a pile of leaves in a shady spot", "the Minibeast Hunt table in the notebook"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Animals around my plant friend",
+      "goal": "Spot and describe every animal on and around our plant friend, fill in the book's table, and check our understanding so far.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Hidden-seed check",
+          "mins": 3,
+          "do": "Check Experiment e1. Count any seedlings in each tray and write the numbers. Ask: 'Did we plant any seeds? Then where did these come from?' Let your child think; we will explain fully on Day 7.",
+          "ref": "e1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 2: Animal spotting (page 66)",
+          "mins": 20,
+          "do": "Do Activity 2 on page 66. Stand near your plant friend for 15 minutes, first looking at the plant and then all around it, near and far, high and low. Your child fills in the table in the book: 'I saw… (describe)', 'It was on…', 'What was it doing?', just as the example rows show ('a small hopping insect – the grass – jumping around'). Use the pictures on page 66 (red bugs on a rotting fruit, a blue flying insect, ants on leaves, a butterfly on lantana flowers, a garden lizard on a rock) as ideas of what to look for. Ask: 'How many different kinds did you find? Was it more or less than your Day 1 guess?' Point out that describing carefully is a scientist's skill: 'a black bird with a long forked tail on the wire' is better than 'a bird'."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Soil and its creatures",
+          "mins": 15,
+          "do": "Do Worksheet ws1 (core). Read the items aloud if needed. For the soil items, let your child look at the jars from e2. Mark answers together; for any mistake, open the page that shows it (soil p65, soil creatures p65–66, animals and plants p63 and p67).",
+          "ref": "ws1"
+        },
+        {
+          "kind": "exp",
+          "title": "Seed tray water",
+          "mins": 2,
+          "do": "Water both Experiment e1 trays with the same amount, a few spoons each, so the only difference between them stays the heating of the soil.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Textbook page 66", "notebook or the book's table", "a magnifying glass if available", "worksheet ws1", "the e1 trays and e2 jars"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Food, shelter and nests",
+      "goal": "Learn how animals use different parts of plants for food, shelter, nesting and rest, try to build a nest like a bird, and meet Salim Ali, India's birdman.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How animals use plants (pages 67–68)",
+          "mins": 8,
+          "do": "Read pages 67 and the top of page 68 together and look at each picture: camels eat leaves; owls bring up their young in tree hollows; squirrels and crows use twigs to build nests; monkeys eat fruits; sunbirds and butterflies drink nectar; tailorbirds stitch leaves to build nests; bats and leopards rest on branches; caterpillars munch leaves. Make three columns in the notebook: Food, Shelter or nest, Resting. Your child sorts each example into a column (some go in two). Ask the page 68 question: 'How many of these animals have you seen?'"
+        },
+        {
+          "kind": "do",
+          "title": "Build a nest with a 'beak'",
+          "mins": 14,
+          "do": "Collect a handful of thin twigs, dry grass, a few leaves and some thread or cotton. Your child must build a small cup-shaped nest that can hold an egg-sized ball of clay or a small lemon, using only two fingers as a 'beak' (thumb and forefinger of one hand) and the other hand tucked behind their back. Give 8 minutes. Then try the tailorbird way: take a large leaf, poke holes along two edges with a toothpick, and 'stitch' the edges together into a cone with thread. Ask: 'How hard was it? How many trips would a bird make to carry all this?' (Many hundreds.) Tell them a tailorbird really pierces holes in a leaf with its sharp beak and pulls plant fibre or spider silk through to stitch it."
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali and the baya weaver",
+          "mins": 10,
+          "do": "Tell the story in Voice v2: Salim Ali, India's 'Birdman', spent long hours watching baya weavers and found that the male weaves the hanging grass nest and the female inspects it and chooses. If you can, show a photo of baya nests hanging from a palm or babul tree over water. Ask: 'Why might a baya hang its nest over water from a thin branch?' (Snakes, cats and monkeys find it hard to reach.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Who is eating what?",
+          "mins": 8,
+          "do": "Go out for 8 minutes and look for signs of animals using plants: chewed leaves, a half-eaten fruit under a tree, droppings, a nest in a tree, a hole in a trunk, ants on flowers, a squirrel carrying something. Your child adds each sign to the Food, Shelter or Resting columns. Ask: 'Is the plant getting anything back from these animals?' (Yes, sometimes: bees and butterflies carry pollen, birds and monkeys drop seeds far away, ants and earthworms loosen the soil.)"
+        }
+      ],
+      "need": ["Textbook pages 67–68", "thin twigs, dry grass, leaves, cotton or thread", "a small lemon or a ball of clay", "a large leaf, a toothpick", "a photo of a baya nest (phone) if possible"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Sounds of birds",
+      "goal": "Listen for and identify bird sounds, test whether cupping our ears really helps, and record which birds we hear and when.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 3: Close your eyes and listen (page 68)",
+          "mins": 7,
+          "do": "Do Activity 3 on page 68, ideally in the early morning on a balcony, terrace or in a park. Your child closes their eyes and listens for 2 minutes. Ask: 'Do you hear any bird sounds? How many different ones? Can you tell which birds?' Common birds and their sounds: pigeon 'gutru-gu', crow 'kaa-kaa', myna many whistles and chatters, koel 'ku-oo' rising (the male, mostly in spring and summer), rose-ringed parakeet a sharp 'kreee', red-vented bulbul a cheerful 'be-quick-quick', house sparrow 'chirp-chirp', coppersmith barbet 'tuk-tuk-tuk' like a tapping hammer. Then they cup their ears as the picture shows and turn towards a sound: 'Can you hear it more clearly?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Do cupped ears really help?",
+          "mins": 13,
+          "do": "Do Experiment e3 to test the page 68 question properly. Put a phone playing a soft ticking or a recorded bird call at one end of a corridor or room. Your child starts close, walks backwards slowly and stops where they can just barely hear it, first with hands down, then with ears cupped facing the sound, and then with ears cupped facing away. Measure each distance in steps or with a tape. Before testing, ask them to predict. Explain the 'why' of e3.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Different birds, different sounds (page 69)",
+          "mins": 10,
+          "do": "Do the page 69 tasks. First your child copies the sounds of birds they have heard, and you guess the bird; then swap. Then they fill in the table: Name of the bird and Sound made, starting with the book's example 'Pigeon – Gutru Gu'. Aim for at least five birds. If you have a phone, play a recording of a bird they could not name and listen together. Ask: 'Why do birds call at all?' (To tell others where they are, to warn of danger like a cat or a hawk, to call a mate, to keep others out of their area, and babies call to be fed.)"
+        },
+        {
+          "kind": "act",
+          "title": "Start the bird-sound diary",
+          "mins": 10,
+          "do": "Start Activity a2 to answer the last question on page 69: 'Do you hear more bird sounds in the early morning, the afternoon or the evening?' Today and for the next three days, your child listens for 3 minutes at the same spot at three times: early morning (around sunrise), afternoon (around 2 pm) and evening (around sunset). They count the number of different bird sounds and tally the total calls in the diary table. Do the afternoon or evening count now, whichever is closer.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 68–69", "a phone with a ticking sound or a bird-call recording", "a measuring tape or a long corridor", "the bird-sound diary table"],
+      "prep": [{"task": "Plan to be on the balcony, terrace or in a park around sunrise for the first bird count", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Where did the seeds come from? Why do birds go quiet?",
+      "goal": "Finish our hidden-seed test, think about why we might not hear birds, and weigh what scientists have found about chemicals and noise.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Hidden-seed results",
+          "mins": 8,
+          "do": "Finish Experiment e1. Count the seedlings in each tray and draw a few. Usually the plain soil tray has several kinds of tiny seedlings (grasses, small weeds) and the heated tray has few or none. Ask: 'We planted no seeds. Where did these come from?' (Seeds were already hiding in the soil, waiting for water.) 'Why did the heated tray grow so little?' (Heating killed the hidden seeds.) Read the 'why' of e1 and the Note to the Teacher on page 66 again. Ask: 'Now can you explain why so many new plants appear in the monsoon?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Bird diary: what pattern?",
+          "mins": 4,
+          "do": "Add today's counts to the Activity a2 diary. Look at the table so far: 'Which time had the most bird sounds?' Usually early morning, then evening. Ask why: birds sing most at dawn, when the air is still and cool so sound carries far, and before it is light enough to search for food well; they call again as they gather to roost at sunset.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "If you hear no birds (page 69)",
+          "mins": 4,
+          "do": "Ask the page 69 question: 'If you do not hear any sounds of birds, what do you think is the reason?' Collect several reasons: too much traffic noise; no trees for nesting; it is the hot afternoon and birds are resting; it is raining; there is no food or water nearby; chemicals sprayed on plants killed the insects birds eat. Write them down; we will look at two of them with real scientists."
+        },
+        {
+          "kind": "think",
+          "title": "Rachel Carson and the silent spring",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: an American scientist noticed that sprays used to kill insects were also killing birds, and wrote a book called 'Silent Spring' imagining a spring with no birdsong; chemical companies attacked her, but she was right. Ask: 'Why would a spray for insects harm a bird?' (Birds eat the poisoned insects, and the poison builds up in their bodies.) Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "think",
+          "title": "Do city birds sing differently?",
+          "mins": 6,
+          "do": "Tell the story in Voice v4: scientists found that some birds in noisy cities sing higher or louder songs than birds in quiet forests, but they still argue about why. Ask the voice question. Then ask: 'When there is a loud mixer-grinder in the kitchen, how do you change your voice so Mummy can hear?' (Speak louder, higher or wait till it stops.) 'Could birds do the same?'",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws2 (stretch). It applies what we learnt to new animals and places. Let your child use the Day 5 Food-Shelter-Resting columns and the bird diary for help.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["the e1 trays", "the bird-sound diary", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Let us reflect",
+      "goal": "Answer the book's reflection questions, draw our plant friend with all its animal visitors, put a butterfly's life in order, and play Web of Life.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect A and B (page 70)",
+          "mins": 9,
+          "do": "Ask the five Discuss questions on page 70. A1: colour, texture and smell of the two soil samples and the month you picked them (use your Day 2 notes). A2: in which month did fresh new leaves appear on your plant friend? (If you have not seen any yet, keep watching and write the month when you do.) A3: which animals, birds and insects did you notice around plants? A4: how do animals, birds and insects rely on plants, and which was your favourite example? A5: what is soil made of? (Broken rock, old leaves, roots, stems, and living and dead creatures.) Then do B on page 70: your child writes the names of two animals they observed, their shape, size and colours, why they think the animals were near those plants, and one other interesting thing."
+        },
+        {
+          "kind": "act",
+          "title": "Draw my plant friend with its visitors (page 71)",
+          "mins": 9,
+          "do": "Do Activity C on page 71: your child draws their plant friend and uses small coloured dots to show where they spotted animals, birds or insects: for example red dots for ants, blue for birds, green for caterpillars, brown for creatures in the soil. Add a key. Ask: 'Which part of the plant had the most visitors? The flowers, the leaves, the trunk or the soil?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Suma's caterpillar: put in order (page 71)",
+          "mins": 7,
+          "do": "Read Activity D on page 71 aloud: Suma found a caterpillar on a tagar plant eating tender leaves, and her mother guided her to watch it each day. Ask an elder at home, as the book says, and put the changes in order. Answer: 1. One day it stopped eating. 2. The caterpillar formed a cocoon. 3. It came out of the cocoon. 4. Now it was a butterfly. 5. It flew away gently. Tell your child one more exact fact: a butterfly caterpillar makes a hard case called a chrysalis, while many moth caterpillars spin a soft silk cocoon around themselves; both are the resting stage, the pupa, in which the body is rebuilt. Ask: 'Why did the caterpillar eat so much first?' (It needs a store of food for the change, when it does not eat at all.)"
+        },
+        {
+          "kind": "game",
+          "title": "Web of Life",
+          "mins": 15,
+          "do": "Play Web of Life. Write 12 cards and lay them in a circle on the floor: neem tree, grass, mango tree, sunbird, myna, honeybee, caterpillar, earthworm, frog, snake, cow and child. Take turns picking two cards, joining them with a piece of string or a wool strand, and saying how one depends on the other ('The earthworm makes soil for the grass', 'The sunbird drinks nectar from the mango flower and carries its pollen'). When there are at least 15 strings, draw a 'Gone!' card for one living thing (for example honeybee): lift that card and every string tied to it. Ask: 'Who has lost something? What happens to them now?' Then make a rescue plan: how could we help bees come back? (Grow flowering plants, stop spraying poisons, keep water.)"
+        }
+      ],
+      "need": ["Textbook pages 70–71", "your Day 2 soil notes", "colour pencils", "12 cards and a ball of wool or string"],
+      "prep": [{"task": "Write the 12 Web of Life cards on scrap paper and find a ball of wool or string", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Check, challenge and teach it back",
+      "goal": "Do the challenge worksheet, check understanding, teach the chapter back, and set up a wildlife-friendly corner.",
+      "steps": [
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing what scientists found. Your child can answer write items aloud while you scribe. For section C there is no single right answer; praise reasons that use evidence from this week ('in our seed tray…', 'in my bird diary…').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed answer, open the page that shows it, look together for a minute, and ask again in different words. Most children get 5 or more; fewer than 4 means repeat the Day 3 minibeast hunt and the Day 5 sorting of food, shelter and resting next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is now the teacher and you are the student. Using the soil jars, the seed trays, the minibeast table, the plant-friend drawing and the bird diary, they teach you in 5 minutes: what soil is made of and who lives in it; three ways animals use plants; why many plants and animals appear in the monsoon; when birds sing most and why. Ask two 'student' questions: 'Why did plants grow in a tray where we planted nothing?' and 'Why is the soil near a plant darker than soil on a bare path?'"
+        },
+        {
+          "kind": "act",
+          "title": "Set up a wildlife-friendly corner",
+          "mins": 8,
+          "do": "Start Activity a3. On a balcony, window ledge or garden corner, set a shallow bowl of clean water with a stone in it (so insects can land), a few grains of bajra or broken rice on a plate, and a potted flowering plant if you have one. Your child makes a visitor log page and, for the next three weeks, writes down every visitor, the time and what it did.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["worksheet ws3", "the soil jars, seed trays, minibeast table, plant-friend drawing and bird diary", "a shallow clay or steel bowl, a stone, a little bajra or broken rice", "a potted flowering plant if possible"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Soil and the creatures that live with plants",
+      "day": 4,
+      "sections": [
+        ["A. What is soil?", [
+          {"t": "fill", "p": "Soil is the topmost layer of the Earth's ____.", "a": ["surface"]},
+          {"t": "mcq", "p": "Soil is made of:", "opts": ["Only sand", "Broken-up rock, old leaves, roots, stems and living and dead creatures", "Only water and air", "Plastic and stones"], "a": 1},
+          {"t": "mcq", "p": "In our jar test, which settled at the bottom first?", "opts": ["Floating leaf bits", "Small stones and coarse sand", "Fine clay", "Nothing settled"], "a": 1}
+        ]],
+        ["B. Who lives in the soil?", [
+          {"t": "sort", "p": "Sort these creatures: are they usually seen any time, or mostly after rain?", "items": ["Ants", "Earthworms", "Termites", "Millipedes", "Small beetles", "Grasshoppers"], "cats": ["Any time", "Mostly after rain"]},
+          {"t": "write", "p": "Why did the creatures in our minibeast hunt hide under stones and pots?", "lines": 2}
+        ]],
+        ["C. Animals and plants", [
+          {"t": "match", "p": "Match the animal to how it uses the plant.", "pairs": [["Tailorbird", "Stitches leaves to make a nest"], ["Sunbird", "Drinks nectar from flowers"], ["Owl", "Brings up its young in a tree hollow"], ["Camel", "Eats leaves"], ["Bat", "Rests on branches"]]},
+          {"t": "draw", "p": "Draw one animal you saw near your plant friend and show what it was doing."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New places, same ideas",
+      "day": 7,
+      "sections": [
+        ["A. Food, shelter or rest?", [
+          {"t": "sort", "p": "Sort how each animal is using the plant.", "items": ["A parakeet eating a guava", "A baya weaver hanging its nest from a palm", "A leopard sleeping on a branch", "A bee in a sunflower", "A squirrel carrying twigs", "A cow grazing"], "cats": ["Food", "Shelter or nest", "Resting"]},
+          {"t": "mcq", "p": "A tree has a big hollow in its trunk. Which animal is most likely to use it?", "opts": ["A fish", "A barbet or an owl", "A camel", "An earthworm"], "a": 1}
+        ]],
+        ["B. Soil detective", [
+          {"t": "table", "p": "Compare your two soil samples.", "cols": ["Where", "Colour", "Feel", "Smell", "Things in it"], "rows": 2, "prefill": ["Near my plant friend", "Far from plants"]},
+          {"t": "write", "p": "Soil near a plant is often darker and smells earthy. Give a reason, using what decomposers do.", "lines": 3}
+        ]],
+        ["C. Birds", [
+          {"t": "fill", "p": "The book writes the pigeon's sound as '____'.", "a": ["gutru gu", "Gutru Gu"]},
+          {"t": "write", "p": "In my bird diary, the most bird sounds were heard in the ____. Write a reason why.", "lines": 2},
+          {"t": "write", "p": "In our seed tray, plants grew where we planted nothing. Use this to explain why a bare plot turns green in the monsoon.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles, what-ifs and scientists who noticed",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "A tree drops 10,000 leaves every year, but the ground under it is never covered a metre deep. Where do the leaves go?", "lines": 2},
+          {"t": "mcq", "p": "Put a butterfly's life in order: which comes straight after 'caterpillar eats and grows'?", "opts": ["Egg", "Pupa (chrysalis)", "Butterfly flies away", "Caterpillar hatches"], "a": 1},
+          {"t": "write", "p": "Why did the heated soil tray grow almost nothing?", "lines": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all the earthworms and decomposers in a garden disappeared? What would happen to the dead leaves and to the plants?", "lines": 3},
+          {"t": "write", "p": "What if all the big old trees with hollows in your area were cut down? Which animals would lose their homes?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Many farmers once thought earthworms were pests. Darwin showed they make soil. What did he do to find out, instead of just guessing?", "lines": 3},
+          {"t": "mcq", "p": "Some birds in noisy cities sing higher songs. Which question are scientists still arguing about?", "opts": ["Whether birds sing at all", "Whether the higher song is a real change to be heard over noise, or just a side effect of singing louder", "Whether cities have birds", "Whether birds have ears"], "a": 1},
+          {"t": "write", "p": "Rachel Carson said insect sprays were killing birds. The companies that made them said she was wrong. What evidence would you collect to decide who was right?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Seeds hiding in the soil",
+      "day": 1,
+      "question": "If we plant nothing, will anything grow from plain soil? Are there seeds hiding in it?",
+      "need": ["2 trays or old ice-cream boxes with holes punched in the bottom", "4 cups of soil from bare ground", "a pressure cooker or steamer (adult use)", "water and a spoon", "labels"],
+      "steps": [
+        "Collect about 4 cups of soil from a patch of ground where nothing is growing now.",
+        "Put half the soil in a steel bowl and steam it in a pressure cooker or steamer for 20 minutes (adult job). Let it cool completely.",
+        "Fill one tray with plain soil and label it 'Plain'. Fill the other with the steamed soil and label it 'Heated'.",
+        "Water both with the same number of spoons and place them side by side near a window.",
+        "Every two days, water both equally and count any seedlings in each tray.",
+        "On Day 7, count and draw the seedlings in each tray."
+      ],
+      "predict": "Ask your child to guess first: will anything grow in either tray, even though we planted no seeds? Will the two trays be different?",
+      "observe": "Record the number and kinds of seedlings in each tray. Usually the plain tray grows several tiny seedlings, often grasses and small weeds with different leaf shapes; the heated tray grows few or none.",
+      "why": "Soil is full of seeds that we cannot see: tiny seeds blown by wind, dropped by birds, carried by ants or fallen from plants long ago. Many can rest for months or even years, waiting for water and warmth. Scientists call this store the soil seed bank. When we watered the soil, the seeds woke up and grew. Steaming the soil heated the seeds so much that they died, which is why the heated tray stayed bare and shows that the plants really came from seeds already in the soil. This is exactly why a bare plot turns green soon after the first monsoon rain.",
+      "safety": "An adult must handle the pressure cooker and hot soil. Wash hands after handling soil.",
+      "time": "15 min to set up + 2–3 min checks every two days + 8 min on Day 7"
+    },
+    {
+      "id": "e2",
+      "title": "Soil jar test: what is soil made of?",
+      "day": 2,
+      "question": "What is inside soil, and is soil from near a plant different from soil far from plants?",
+      "need": ["2 clear jars or plastic bottles with tight lids", "a cup of soil from near your plant friend", "a cup of soil from far from plants", "water", "a marker"],
+      "steps": [
+        "Label the jars 'Near plant' and 'Far from plants'.",
+        "Put one cup of each soil into its jar.",
+        "Fill each jar about two-thirds with water and close the lid tightly.",
+        "Shake each jar hard for one minute.",
+        "Put the jars down side by side and watch for 10 minutes. Draw what you see.",
+        "Look again the next day, when the water has cleared, and draw the layers again."
+      ],
+      "predict": "Ask your child to guess first: when the shaken soil settles, will it all fall together or in layers? Will anything float? Which jar will have more floating bits?",
+      "observe": "Look for layers from the bottom up: small stones and coarse sand, then finer sand, then silt, and sometimes a thin layer of very fine clay on top that settles last. Bits of dead leaves, roots and twigs float on top. Usually the soil from near a plant has more floating bits and a darker colour.",
+      "why": "Soil is a mixture. Its broken rock comes in different sizes: stones and sand are big and heavy, so they sink fastest; silt is finer; clay is so fine that it can stay floating in the water for hours and makes the water cloudy. The floating bits are the remains of plants and animals. As they rot, decomposers like earthworms, fungi and bacteria turn them into dark humus, which holds water and food for plants. Soil near plants gets dead leaves and roots all the time, so it usually has more of these remains, which is why it is darker and smells earthy.",
+      "safety": "Make sure the lids are tight before shaking. Wash hands after handling soil.",
+      "time": "17 min + 2 min look the next day"
+    },
+    {
+      "id": "e3",
+      "title": "Do cupped ears really help?",
+      "day": 6,
+      "question": "Can we hear a faint sound from farther away when we cup our hands behind our ears, as the book shows on page 68?",
+      "need": ["a phone playing a soft ticking sound or a bird call on repeat", "a long corridor, room or terrace", "a measuring tape or counting steps", "notebook"],
+      "steps": [
+        "Put the phone at one end of the corridor at a low, steady volume.",
+        "Your child stands next to it, then walks backwards slowly, facing it, with hands down, and stops where they can only just hear it. Mark and measure the distance.",
+        "Repeat, this time with both hands cupped behind the ears, palms facing forward towards the sound.",
+        "Repeat with hands cupped but facing backward, away from the sound.",
+        "Do each one twice and write all the distances in a table.",
+        "Swap: you try while your child controls the phone."
+      ],
+      "predict": "Ask your child to guess first: will cupped ears let you hear from farther away? What if your hands face the wrong way?",
+      "observe": "Record the distance for each way. Most people can hear the sound from farther away with hands cupped facing the sound, and from a shorter distance when the hands face backward.",
+      "why": "Sound travels through the air as tiny waves of pushing and pulling. The outer part of our ear is shaped like a little dish to catch these waves and send them into the ear hole. Cupping a hand behind the ear makes this dish bigger, so more of the sound coming from the front is caught and sent in, and sound from behind is blocked. Hands facing backwards catch sound from behind and block the sound in front. Many animals, like deer, cats and some bats, have big ears they can turn towards a sound for the same reason.",
+      "safety": "Keep the volume low; never put a phone or anything else close against the ear at high volume.",
+      "time": "13 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Minibeast hunt",
+      "day": 3,
+      "mins": 15,
+      "need": ["a flowerpot, flat stone, brick and a pile of leaves in a shady spot", "a magnifying glass if available", "a table in the notebook: Where I looked, What I found, How many, What it was doing, Drawing"],
+      "steps": [
+        "Choose four hiding places: under a pot, under a stone, in a pile of leaves, and on or under tree bark.",
+        "Lift each one slowly and gently. Look before you touch.",
+        "Count and record what you find, and what each creature does when the light hits it.",
+        "Look closely with a magnifier: count legs, see the colour and how it moves.",
+        "Do not pick up centipedes, scorpions or hairy caterpillars; just watch.",
+        "Put every stone, pot and leaf back exactly as you found it, gently."
+      ],
+      "outcome": "A filled minibeast table with drawings, and a child who knows that dark, damp places under stones and leaves are full of life."
+    },
+    {
+      "id": "a2",
+      "title": "Bird-sound diary: morning, afternoon, evening",
+      "day": 6,
+      "mins": 10,
+      "need": ["a table in the notebook: Date, Time of day, Number of different bird sounds, Total calls counted, Birds I could name", "a watch or phone timer"],
+      "steps": [
+        "Choose one listening spot: a balcony, window, terrace or park bench.",
+        "Listen for exactly 3 minutes in the early morning, the afternoon and the evening.",
+        "Count how many different kinds of bird sounds you hear, and make a tally mark for every call.",
+        "Write any bird you can name and copy its sound in letters.",
+        "Do this for 3 or 4 days.",
+        "Add up each time of day and circle the busiest one."
+      ],
+      "outcome": "A three-to-four-day bird-sound diary that answers the page 69 question with real numbers."
+    },
+    {
+      "id": "a3",
+      "title": "Wildlife-friendly corner (three-week project)",
+      "day": 9,
+      "mins": 8,
+      "need": ["a shallow clay or steel bowl and a stone", "clean water", "a little bajra or broken rice", "a potted flowering plant (marigold, tulsi, periwinkle or ixora)", "a visitor log page"],
+      "steps": [
+        "Choose a quiet, safe spot on a balcony, ledge or garden corner, out of reach of cats.",
+        "Put the bowl of water with a stone in it, so insects and small birds can land.",
+        "Put a few grains on a plate a little away from the water.",
+        "Add the flowering plant if you have one.",
+        "Change the water every day and wash the bowl every two days so mosquitoes cannot breed.",
+        "Record every visitor in the log for three weeks: what it was, the time, and what it did."
+      ],
+      "outcome": "A working mini habitat and a three-week visitor log showing which animals came for water, food or flowers."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Charles Darwin (1809–1882), England",
+      "idea": "Darwin is best known for his ideas about how living things change over time, but his last book, published in 1881, was about earthworms. Over about 40 years he watched and measured them in his garden and fields. He showed that worms drag dead leaves into the ground, eat soil and leave it on the surface as castings, and so slowly mix and build the topsoil. He measured stones and old ruins slowly sinking as worm castings piled up on top of them, and estimated that worms bring up many tonnes of soil on each acre of land every year.",
+      "then": "Many gardeners and farmers thought worms were pests that harmed plants. Some readers found it odd that a great scientist would study such humble animals, but his book sold very well.",
+      "now": "Accepted. Soil scientists agree that earthworms are among the most important builders of fertile soil: their tunnels let air and water in, and their castings are rich in plant food. Some of Darwin's exact numbers have been refined, but his main idea stands.",
+      "status": "accepted",
+      "ask": "Darwin did not just guess; he measured for years. If you wanted to find out whether worms really make soil better for plants, what test could you set up with two pots?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Salim Ali (1896–1987), India",
+      "idea": "Salim Ali, born in Bombay (Mumbai), is called the 'Birdman of India'. He travelled across India to record its birds and wrote 'The Book of Indian Birds' (first published in 1941) and, with S. Dillon Ripley, a ten-volume handbook of the birds of India and Pakistan. In a famous study in the early 1930s, he watched baya weavers for long hours and showed that the male weaves the hanging grass nest, the female inspects half-built nests and chooses one, and a male may build several nests and have more than one mate.",
+      "then": "In his time, most bird study in India meant shooting birds and describing dead specimens. Salim Ali also watched live birds and how they behave, which was less common, and his careful field notes earned great respect.",
+      "now": "Accepted. His work at the Bombay Natural History Society shaped bird science and conservation in India, and he helped protect places such as the Bharatpur bird sanctuary (now Keoladeo National Park). He was awarded the Padma Vibhushan in 1976. His findings on the baya are still the basis of what we know about it.",
+      "status": "accepted",
+      "ask": "Salim Ali learned about the baya by watching quietly for hours, not by catching it. What can you learn about a bird by watching that you could never learn from a picture?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Rachel Carson (1907–1964), USA",
+      "idea": "Rachel Carson, a marine biologist and writer, collected evidence that strong insect-killing sprays, especially DDT, were not just killing pests but also fish and birds. Birds ate poisoned insects and worms, and the poison built up in their bodies. In 1962 she published 'Silent Spring', which begins by imagining a spring with no birdsong.",
+      "then": "Chemical companies and some scientists attacked her, calling her emotional and unscientific. But in 1963 a scientific committee advising the US President supported her main warnings.",
+      "now": "Accepted. Later research showed that DDT made the eggshells of birds like eagles, pelicans and falcons so thin that they broke, and these birds recovered after the United States banned most uses of DDT in 1972. Many countries banned it for farming. A few, including India, still allow it in small amounts for spraying inside homes to fight malaria mosquitoes, which is still argued about.",
+      "status": "accepted",
+      "ask": "A spray kills the caterpillars eating your vegetables. How could it end up harming a bird that never touched the spray? What would you need to measure to prove it?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "Hans Slabbekoorn and Margriet Peet, Netherlands (2003), and their critics",
+      "idea": "In 2003 Slabbekoorn and Peet recorded great tits (small songbirds) across the city of Leiden and found that birds in noisier places sang songs with higher-pitched notes. City traffic noise is mostly low-pitched, so they suggested the birds were changing their song to be heard above the rumble. Other studies have since found similar changes in many birds in cities.",
+      "then": "The finding was widely reported. Some scientists welcomed it as an example of animals adjusting quickly to human noise.",
+      "now": "It is accepted that many city birds sing differently from forest birds. But scientists still debate why. Some, such as Erwin Nemeth and Henrik Brumm, argued that birds sing higher partly as a side effect of singing louder, and that a higher pitch may not help much on its own. Whether the change is learned by each bird, inherited, or both, is also still being studied.",
+      "status": "debated",
+      "ask": "If a bird sings higher in a noisy street, how could you test whether it is doing it to be heard over the noise? What would you change and what would you keep the same?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What is soil made of?", "a": "Rocks broken into tiny pieces (stones, sand, silt, clay), mixed with old leaves, roots and stems and living and dead creatures; rotted remains make dark humus."},
+    {"q": "How was the soil near your plant friend different from soil far from plants?", "a": "Usually darker, softer, damper and earthy-smelling, with leaves, roots and small creatures; soil far from plants was often paler, harder or sandier with fewer living things."},
+    {"q": "Name four creatures that live in or on the soil. Which ones appear mostly after rain?", "a": "Ants, termites, small beetles, grasshoppers, earthworms, millipedes, woodlice. Earthworms and millipedes appear mostly when the soil is wet after rain."},
+    {"q": "Where do the new plants that appear in the monsoon come from?", "a": "From seeds that were already resting in the soil, waiting for water; our plain-soil tray grew plants even though we planted nothing."},
+    {"q": "Give three examples of animals using plants, one each for food, nest and rest.", "a": "Food: monkeys eat fruit, sunbirds drink nectar, camels eat leaves, caterpillars munch leaves. Nest: tailorbirds stitch leaves, owls use tree hollows, squirrels and crows use twigs. Rest: bats and leopards rest on branches."},
+    {"q": "When do we hear the most bird sounds, and why might we hear none?", "a": "Usually in the early morning, and again in the evening. We might hear none because of traffic noise, no trees or food, hot afternoon rest, rain, or chemicals that killed the insects birds eat."},
+    {"q": "Put Suma's caterpillar in order.", "a": "It stopped eating, it formed a cocoon (for a butterfly, a chrysalis), it came out of the cocoon, now it was a butterfly, it flew away gently."}
+  ]
+}

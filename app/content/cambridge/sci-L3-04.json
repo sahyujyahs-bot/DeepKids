@@ -1,0 +1,642 @@
+{
+  "key": "cambridge|sci|3|4",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 3,
+  "n": 4,
+  "title": "Our five senses",
+  "source": "Cambridge Primary Science Learner's Book 3 (Board and Cross, 1st edition, 2014), Unit 4 'Our five senses' (pages 38–45)",
+  "summary": "Your child learns that a sense is a way of finding out about the world, and investigates all five: hearing (finding where a sound comes from), touch (feeling hot, cold, rough, smooth, wet and dry with the skin), taste and smell (and how they work together, tested by holding the nose), and sight (making and using an eye test chart). They compare human senses with animals that hear, smell or see better than we do, and find out that some old ideas about the senses, like the 'tongue map', were wrong.",
+  "goals": [
+    "By the end your child can name the five senses and the body part used for each, and explain that the senses work together.",
+    "By the end your child can describe a test for finding the direction of a sound and explain why two ears help.",
+    "By the end your child can describe objects by touch alone (hot, cold, rough, smooth, wet, dry) and explain that all of our skin can feel.",
+    "By the end your child can name the basic tastes, explain that taste and smell work together, and show it with a nose-held taste test.",
+    "By the end your child can make and use a simple eye test chart, compare the results for each eye and for different people, and say when we need to see close up and far away.",
+    "By the end your child can give examples of animals with very good hearing, smell or eyesight and explain why each needs it."
+  ],
+  "words": [
+    ["sense", "a way of finding out about the world around you; we have five: sight, hearing, touch, taste and smell"],
+    ["hearing", "the sense that lets us detect sounds, using our ears"],
+    ["touch", "the sense that lets our skin feel pressure, heat, cold, pain, roughness, smoothness, wetness and dryness"],
+    ["tongue", "the muscle in the mouth that is covered with taste buds and helps us taste, chew and speak"],
+    ["taste buds", "tiny groups of cells, mostly on the tongue, that sense tastes"],
+    ["sweet", "the taste of sugar, gur, honey and ripe mango"],
+    ["sour", "the sharp taste of lemon, tamarind (imli), raw mango and curd"],
+    ["bitter", "the taste of karela, neem leaves and black coffee"],
+    ["eyesight", "how well your eyes can see, close up and far away"],
+    ["blindfold", "a cloth tied over the eyes so a person cannot see"],
+    ["conclude", "to decide what your results show"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Our senses, and hearing",
+      "goal": "Find out what a sense is, name the five senses, listen closely to the sounds around us, and test how well we can tell where a sound comes from.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The mango test",
+          "mins": 6,
+          "do": "Give your child a ripe mango, a banana or an orange. Ask: 'How many different ways can you find out about this fruit?' Let them use every sense: look at the colour and spots (sight), feel if it is soft or hard and smooth or rough (touch), smell the top near the stalk (smell), tap it or hear it squelch when pressed (hearing), and finally taste a slice (taste). Count on fingers: five ways. Say: 'Each of these ways is called a sense.'"
+        },
+        {
+          "kind": "read",
+          "title": "Hearing and touch: Hearing (page 38)",
+          "mins": 7,
+          "do": "Open the Learner's Book at page 38, Topic 4.1. Read: 'A sense is a way of finding out about the world around you. The senses are touch, sight, hearing, smell and taste.' Then: 'Your ears are hearing all the time.' Look at the four photos: a radio, a pin dropping, a man shouting with hands round his mouth, a racing motorbike. Ask the book's question: 'Which of these makes the loudest sound? Which is the quietest?' (Loudest: the motorbike; quietest: the pin dropping.) Ask: 'Why does the man put his hands round his mouth?' (To send the sound forward in one direction so it carries further.)"
+        },
+        {
+          "kind": "do",
+          "title": "One-minute sound hunt",
+          "mins": 7,
+          "do": "Sit with your child by an open window or on the balcony. Set a one-minute timer. Both close your eyes and stay silent, then each write or draw every sound you heard: a pressure cooker whistle, a scooter horn, a crow, a fan, the sabziwala calling, a neighbour's TV. Compare lists. Ask: 'Which was loudest? Which was the quietest you could just hear? Which were near and which were far? How could you tell?' Then ask: 'Even when you are asleep, are your ears working?' (Yes, they hear all the time, as the book says; that is why an alarm wakes you.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 4.1a: Pointing at sounds (page 38)",
+          "mins": 15,
+          "do": "Do Experiment e1. Read Activity 4.1a: 'Blindfold a friend. Make a sound. Ask your friend to point to the source of the sound. What can you conclude from their action?' Blindfold your child with a dupatta and sit them on a stool in the middle of the room. Ring a small bell or tap two steel spoons together from 8 different places (front, behind, left, right, above the head, low near the floor). They point each time; you record 'right' or 'wrong' in a table. Then repeat the 8 sounds from the same places with one ear blocked by a cupped hand. Swap roles and test a parent too. Ask: 'When was pointing easiest? Which places were hardest?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Animals with big ears",
+          "mins": 5,
+          "do": "Ask: 'Why do you think a rabbit, a donkey or an elephant has such big ears? Why does a dog or a cow turn its ears?' Good ideas: big ears collect more sound, like a funnel, so they can hear quiet sounds like a hunter creeping up; turning the ears helps find the direction. Your child cups their hands behind their ears and listens to the fan or a radio: 'Does it sound louder?' (Yes, the hands catch more sound.) Write one sentence: 'Two ears help us to find where a sound is coming from.'"
+        }
+      ],
+      "need": [
+        "Learner's Book page 38",
+        "a ripe mango, banana or orange",
+        "a dupatta or cloth for a blindfold",
+        "a small bell or two steel spoons",
+        "notebook and pencil, a timer"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Touch: what our skin can feel",
+      "goal": "Learn that all of our skin can feel hot and cold, rough and smooth, dry and wet, and test touch with a blindfold and a two-point test.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Pointing at sounds: what did we conclude?",
+          "mins": 4,
+          "do": "Look at yesterday's table from Experiment e1 with your child. Ask the book's question: 'What can you conclude?' Good conclusion: 'We can tell where a sound comes from with our eyes shut, especially from the left and right. It is harder with one ear blocked, so two ears help.' Ask: 'Which places were hardest?' (Often straight in front and straight behind, because the sound reaches both ears at the same moment.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Touch (page 39)",
+          "mins": 5,
+          "do": "Read the top of page 39: 'We have all hurt ourselves. All of your skin can feel things touching it: hot and cold, rough and smooth, dry and wet.' Look at the cartoon of the man who has hit his thumb with a hammer. Ask: 'Why is it useful to feel pain?' (It warns us to stop and protects us; it makes us pull our hand away from a hot tawa before it burns badly.)"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 4.1b: Touch test (page 39)",
+          "mins": 13,
+          "do": "Do Activity a1, the book's Activity 4.1b. Blindfold your child. Hand them each item in turn: a wet tissue, a dry tissue, an ice cube on a steel plate, a piece of sandpaper (or a pumice stone), a wooden spoon, a plastic box, a steel tumbler, and some Indian extras: a piece of coconut shell, a silk dupatta, a jute bag. Ask them to describe each with touch words before guessing: 'rough, smooth, hard, soft, cold, warm, wet, dry, bumpy, heavy'. Like the boy on page 39: 'It's rough, it's very rough, it's sandpaper!' Record in a table: Item, Words I used, What I guessed, Right? Ask: 'Why do the steel tumbler and the wooden spoon feel different in warmth, even though they are in the same room?' (Metal takes heat from your fingers quickly, so it feels cold.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Where is touch sharpest? The two-point test",
+          "mins": 12,
+          "do": "Do Experiment e2. Bend a paper clip into a U so its two ends are 1 cm apart (or use two toothpicks held together). With your child's eyes shut, gently touch their skin with either one point or both points, in random order, and ask 'one or two?' Test the fingertip, the palm, the back of the hand, the forearm, the lips (gently) and the back of the neck. Record right or wrong for each place. Your child predicts first: 'Where will you feel two points best?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 (page 39)",
+          "mins": 6,
+          "do": "Ask Question 1: 'How many senses do you have?' (Five: hearing, touch, taste, smell and sight.) Question 2a: 'Give an example of a very quiet sound.' (A pin dropping, a whisper, a leaf falling, a clock ticking.) 2b: 'A very loud sound.' (A firecracker at Diwali, a train horn, thunder, a band at a baraat.) Question 3: 'Where on your body is your sense of touch?' (In all of your skin, but it is sharpest in the fingertips, lips and tongue.) Read the 'What you have learnt' box on page 39."
+        }
+      ],
+      "need": [
+        "Learner's Book page 39",
+        "a blindfold",
+        "wet and dry tissues, ice cubes, a steel plate",
+        "sandpaper or pumice, a wooden spoon, a plastic box, a steel tumbler",
+        "optional: coconut shell, silk cloth, jute bag",
+        "a paper clip or two toothpicks"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "If you were blind, and how we taste",
+      "goal": "Think about how people who are blind use their other senses, then start Topic 4.2: look at our taste buds and test the old 'tongue map' idea for ourselves.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Talk about it: If you were blind, how important would your other senses be? (page 39)",
+          "mins": 9,
+          "do": "Read the Talk about it question on page 39. Blindfold your child and ask them to walk slowly from their bed to the kitchen, with you right beside them for safety. Ask: 'Which senses did you use?' (Touch: feeling walls and the floor with feet; hearing: the fridge hum and sounds from the kitchen; smell: the dal cooking.) Talk about how people who are blind use touch to read Braille (raised dots), a white cane to feel the path ahead, and hearing to cross roads. Tell them: Louis Braille, who went blind as a small child in France, invented his dot alphabet when he was a teenager, and Indian Braille is used for Hindi, Tamil and other languages. Many Indian banknotes have raised marks so they can be identified by touch."
+        },
+        {
+          "kind": "read",
+          "title": "Taste and smell (page 40)",
+          "mins": 7,
+          "do": "Read page 40, Topic 4.2, and the Words to learn (tongue, sweet, bitter, sour). Read: 'A tongue has taste buds which sense tastes like salt and sweet, bitter and sour. Taste works with smell to stop us from eating food that would make us ill. If something smells bad it generally tastes bad too. If your nose is blocked you cannot taste very well.' Look at the picture of the boy holding his nose and a smelly fish. Ask: 'Why would a bad-smelling fish be dangerous to eat?' (It may be rotten, full of germs that make us sick.) 'When you have a cold, does food taste the same?' (No, it tastes dull.)"
+        },
+        {
+          "kind": "do",
+          "title": "Look at your tongue",
+          "mins": 6,
+          "do": "Give your child a mirror and a torch. They stick out their tongue and look closely. Show the tiny bumps all over the top: 'The taste buds are tucked into the sides of these bumps; they are too small to see, but each bump holds some of them.' Put a drop of water with food colouring (or a little haldi water) on the tip of the tongue with a cotton bud; the bumps show up more clearly as small pale dots. Explain: an adult has a few thousand taste buds, and each one lasts only about one to two weeks before being replaced by a new one."
+        },
+        {
+          "kind": "think",
+          "title": "The tongue map: test it yourself",
+          "mins": 18,
+          "do": "Tell your child about Voice v1: many old school books showed a 'tongue map', with sweet tasted only at the tip, bitter only at the back, and sour and salty on the sides. Now test it. Make four small cups: sugar water (sweet), salt water (salty), lemon or tamarind water (sour), and karela juice or a crushed neem leaf in water (bitter). Your child rinses with plain water, then you dab each liquid with a fresh cotton bud on the tip, then the side, then the back of their tongue, in turn, rinsing between each. They say what they taste and how strongly (a lot, a little, nothing). Record in a table: Taste, Tip, Side, Back. Ask: 'Did you taste sweet at the back? Bitter at the tip?' (Usually yes.) Then ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 39–40",
+        "a blindfold",
+        "a mirror, a torch, cotton buds, food colouring or haldi water",
+        "sugar, salt, a lemon or tamarind, karela or a neem leaf, 5 small cups, water"
+      ],
+      "prep": [
+        {
+          "task": "Make a little karela juice (grate a piece and squeeze) or wash a few neem leaves; buy cotton buds",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Taste and smell work together",
+      "goal": "Do the book's blindfold taste test with and without smell, play a spice smell game, and think about why some animals have a very good sense of smell.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Animals and smell (pages 40–41)",
+          "mins": 7,
+          "do": "Read the bottom of page 40: 'Some animals have small noses. Others have big noses.' Look at the eight animals (a boy, a bear, a mouse, a butterfly, a monkey, a goat, a lion, an elephant) and ask the book's question: 'Which of these animals do you think can smell things the best?' Let your child guess, then read page 41: 'Bears have a very good sense of smell. Bears can smell food far away.' 'Snakes smell with their tongues.' 'Animals which find their food on the ground have a good sense of smell.' Add: elephants are thought to have one of the best senses of smell of any animal, and their trunk is their nose. Butterflies smell with their feelers (antennae). Ask: 'Why does a snake keep flicking its tongue?' (It collects smells from the air and passes them to a special smelling organ in the roof of its mouth.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 4.2: Do you like or dislike this food? (page 41)",
+          "mins": 15,
+          "do": "Do Experiment e3. Read Activity 4.2: 'Blindfold a friend. Ask them to taste each sample of food and say whether they like it or not. Repeat the test but, this time, ask your friend to hold their nose so that they cannot smell the food. Does this affect how they taste the food?' Put 5 small samples on separate plates with clean spoons: a piece of apple, a piece of raw potato or cucumber, a piece of onion, a small piece of banana and a little mango pickle or mint chutney. Blindfold your child and, first with the nose held, give each sample and ask: 'What is it? Do you like it?' Record. Then repeat in a different order with the nose open. Many children cannot tell apple from potato with the nose held.",
+          "ref": "e3"
+        },
+        {
+          "kind": "game",
+          "title": "Spice box smell game",
+          "mins": 8,
+          "do": "Do Activity a2. Put a pinch each of 6 things from the masala dabba and kitchen into small covered katoris or steel boxes: jeera (cumin), elaichi (cardamom), laung (clove), hing (asafoetida), a slice of ginger, a few mint or curry leaves. Blindfold your child. They lift each lid, sniff gently by wafting the air towards the nose with a hand (never sniff hard), and name it. Score one point for each correct name. Then swap and let your child test you. Ask: 'Which smell was strongest? Which was hardest?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 and Talk about it (page 41)",
+          "mins": 5,
+          "do": "Ask Question 1: 'What part of our body do we use to taste things?' (Tongue.) Question 2: 'What part of our body do we use to smell things?' (Nose.) Question 3: 'Why do we need to smell and taste foods?' (To enjoy food, and to warn us about food that is rotten or poisonous, like sour-smelling milk.) Then Talk about it: 'Why do some animals have a very good sense of smell?' (To find food far away or under the ground, to smell enemies coming, to find their family or a mate, and to find their way; dogs help police and rescuers because of it.)"
+        },
+        {
+          "kind": "think",
+          "title": "Are humans really bad smellers?",
+          "mins": 5,
+          "do": "Tell your child about Voice v3: for over a hundred years people said humans have a weak sense of smell compared with dogs. In 2017 a scientist, John McGann, argued that this is partly a myth. Ask: 'In the spice game, how many smells did you get right? Does that sound like a bad nose?' Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 40–41",
+        "a blindfold",
+        "5 food samples on separate plates (apple, raw potato or cucumber, onion, banana, pickle or chutney), clean spoons",
+        "6 small covered boxes or katoris with jeera, elaichi, laung, hing, ginger and mint or curry leaves"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "More tastes: umami, chilli and the six rasas",
+      "goal": "Find out that there is a fifth basic taste, discover that chilli 'heat' is felt by pain nerves not taste buds, compare with India's traditional six tastes, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Taste and smell results",
+          "mins": 5,
+          "do": "Look again at yesterday's Experiment e3 table. Ask: 'Which foods could you name with your nose held? Which could you not?' Help your child write a conclusion: 'Taste and smell work together. When I could not smell, foods tasted less strong and I mixed up apple and potato.' Explain: when you chew, smells from the food float up the back of your mouth into your nose; much of what we call 'flavour' is really smell.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Kikunae Ikeda and the fifth taste",
+          "mins": 10,
+          "do": "Tell the story in Voice v2. Give your child a sip of warm clear tomato soup or dal water (the pani from boiled dal), or a tiny piece of cheese or a mushroom. Ask: 'Is this sweet, sour, salty or bitter?' Most say 'none, it is just tasty'. Explain that a Japanese scientist named this savoury taste 'umami' in 1908, and it took the rest of the world almost a hundred years to agree it is a real basic taste. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "do",
+          "title": "Is chilli a taste?",
+          "mins": 8,
+          "do": "Put the tiniest piece of green chilli (a grain-sized bit) on the tip of your child's tongue for a second, with a glass of milk or a spoon of curd ready. Ask: 'What do you feel?' (Burning, hot.) Explain: chilli's 'heat' is not picked up by taste buds at all. A chemical in chilli (capsaicin) switches on the same nerves that feel heat and pain, which is why it feels 'hot' and makes your eyes water; it is really your sense of touch and pain. Milk and curd help because the chemical dissolves in fat. Ask: 'Why does touching your eye after cutting chillies sting?' (The same nerves are in your eyes.)"
+        },
+        {
+          "kind": "talk",
+          "title": "India's six tastes",
+          "mins": 5,
+          "do": "Tell your child that Ayurveda, the old Indian system of medicine, describes six tastes (rasas): madhura (sweet), amla (sour), lavana (salty), katu (pungent, like chilli and ginger), tikta (bitter) and kashaya (astringent, the dry puckery feeling of raw banana, unripe guava or strong tea). Ask: 'Which of these does a scientist today count as tastes sensed by taste buds?' (Sweet, sour, salty, bitter; plus umami.) 'Which are really felt by touch and pain nerves?' (Pungent, and astringent, which is a dry feeling on the tongue.) Point out that traditional cooks noticed real differences, even if science explains them in a different way."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Your child does Worksheet ws1 (core). Read questions aloud if needed but let them answer alone. Check together, and for any wrong answer go back to pages 38–41.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 38–41",
+        "warm clear tomato soup or dal water, or a small piece of cheese",
+        "a green chilli, a glass of milk or a spoon of curd"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Sight: our fantastic eyes",
+      "goal": "Look at eye colours, compare animals' eyesight, and do experiments on our own eyes: the pupil changing in light and dark, and finding the blind spot.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sight (page 42)",
+          "mins": 8,
+          "do": "Read page 42, Topic 4.3 'Sight', and the Word to learn (eyesight). Ask the book's question: 'What colour eyes do you and your friends have?' (Most Indians have dark brown or brown eyes; Unit 3 data may help.) Read: 'Your eyes are fantastic. They can see things close to you and much further away. Some animals have very good eyesight and some animals do not.' Look at the tiger and owl: 'These animals use their very good eyesight for hunting prey.' Look at the mole: 'This mole does not have very good eyesight. Instead, the mole uses his nose to find his way around.' Look at the galaxy photo: 'Centaurus A, a galaxy that can be seen with naked eyes. It is around 12 million light years from Earth.' Ask: 'What is the furthest thing you have ever seen?' (The Moon, the Sun, stars.) Explain that light from that galaxy left it millions of years before there were any people."
+        },
+        {
+          "kind": "exp",
+          "title": "Watch the pupil change",
+          "mins": 12,
+          "do": "Do Experiment e4. Your child looks into a mirror in a bright room and you name the parts: the white of the eye, the coloured ring (iris) and the black hole in the middle (pupil). Ask them to predict: 'What will the black hole do if you sit in the dark?' Then they sit in a dark room or with hands cupped over the eyes for 30 seconds, and look at the mirror the moment the lights come on (or look at your eyes as you come from the dark). The pupil is big at first and shrinks within a second or two. Ask: 'Why?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "do",
+          "title": "Find your blind spot",
+          "mins": 10,
+          "do": "On a card, draw a cross on the left and a dot about 8 cm to the right of it. Your child holds the card at arm's length, covers the left eye, and stares at the cross with the right eye. Slowly bring the card closer while still staring at the cross. At about 25–30 cm away, the dot vanishes! Move closer and it comes back. Explain: at the back of each eye, there is one place where the nerve to the brain leaves the eye and there are no light-sensing cells, so we cannot see anything there. We do not notice because our two eyes cover for each other and the brain fills in the gap. Ask: 'Why don't we notice this hole when both eyes are open?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Why two eyes?",
+          "mins": 10,
+          "do": "Ask your child to close one eye and try to touch the tips of two pencils together, held at arm's length, one in each hand. Then try with both eyes open. (Much easier with two eyes.) Explain: each eye sees from a slightly different place, and the brain uses the difference to judge how far away things are. Compare animals: a tiger, an owl and we have eyes at the front, good for judging distance when catching things; a cow, a goat or a pigeon has eyes on the sides of the head, so it can see almost all the way around to watch for danger. Ask: 'Why is it useful for a goat to see behind itself?' (To spot a hunter sneaking up.)"
+        }
+      ],
+      "need": [
+        "Learner's Book page 42",
+        "a mirror, a dark room or cupped hands",
+        "a white card and a pen",
+        "two pencils"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Make and use an eye test",
+      "goal": "Do the book's eye test activity, compare both eyes and other people, answer the questions on sight, and meet the Indian doctor who brought sight back to millions.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 4.3: Make and use an eye test (page 43)",
+          "mins": 16,
+          "do": "Do Activity a3. Read Activity 4.3 on page 43 and look at the picture of the girl reading the chart 3 m away. On a large sheet of paper, your child writes letters in rows getting smaller, like the book's chart: one big letter 8 cm tall on the top row, then rows of 4, 5, 6, 7 letters each smaller (6 cm, 4 cm, 2 cm, 1 cm, 0.5 cm). Use a ruler to measure each size. Stick the chart on a wall in good light. Measure 3 m from the wall with a metre ruler or measuring tape and mark it with tape. Your child stands on the mark, covers one eye with a hand or a spoon, and reads the rows aloud; you tick each letter read correctly. Then the other eye. Test at least three other people (grandparents too) and record in a table: Name, Smallest row read (right eye), Smallest row read (left eye).",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about the results",
+          "mins": 4,
+          "do": "Ask the book's questions: 'How far down the chart could you read the letters? Was the result the same for both eyes? Did other people have the same result?' Discuss: eyes can be different from each other; some people see far things well but not close (often older people who need reading glasses), others see close things well but not far away (they wear glasses for the board). Say clearly: 'Our chart is a fun test, not a real one. If anyone struggled to read the middle rows, they should see an eye doctor.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 and Talk about it (page 43)",
+          "mins": 8,
+          "do": "Ask Question 1: 'Why do some animals have good eyesight?' (To hunt prey, like the tiger, owl and eagle; or to spot danger and escape.) Question 2: 'Give an example of where a human needs to see things (a) close up (threading a needle, reading a book, picking stones out of rice) and (b) at some distance away (reading a bus number, crossing a road, catching a cricket ball, seeing the board).' Then Talk about it: 'How do animals who do not have good eyesight find out about their world?' (They use other senses: the mole uses smell and touch; bats use echoes of their own squeaks to 'hear' where things are; earthworms feel vibrations; snakes smell with their tongues.)"
+        },
+        {
+          "kind": "think",
+          "title": "Dr G. Venkataswamy and the gift of sight",
+          "mins": 12,
+          "do": "Tell the story in Voice v4: Dr Govindappa Venkataswamy, an eye doctor from Tamil Nadu, started a tiny eye hospital with just 11 beds in Madurai in 1976, after he had retired, to cure people of cataract, a clouding of the lens inside the eye that makes people blind. Explain cataract with a steamed-up glass: 'Look through it; everything is blurry. A cataract is like that inside the eye, and an operation can replace the cloudy lens with a clear plastic one.' Ask the voice question and let your child think about it properly.",
+          "ref": "v4"
+        }
+      ],
+      "need": [
+        "Learner's Book page 43",
+        "a large sheet of paper, a thick marker, a ruler",
+        "a metre ruler or measuring tape, tape for a floor mark",
+        "a steel spoon or card to cover one eye",
+        "a glass steamed up with breath"
+      ],
+      "prep": [
+        {
+          "task": "Find a wall in good light with 3 m of clear floor in front of it",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress questions, try the stretch and challenge worksheets, and have your child teach the five senses back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 44–45)",
+          "mins": 8,
+          "do": "Do the Check your progress questions on pages 44–45 together. Question 1: the animals pictured have a good sense of smell; give two reasons why they need it (to find food, to smell danger or enemies, to find their young or a mate). Question 2: read Alex's bar chart of eye colours (grey, brown, blue): which is the most common and which is the least common? (Read the tallest and shortest bars.) Question 3: read Amal's table of who likes and dislikes apples and biscuits; which food is most popular, and why might children like apples and biscuits? (Sweet, crunchy.) Question 4: describe how you would carry out a taste test (blindfold, clean spoons, separate plates, same small amount of each food), and how you could investigate whether taste and smell are linked (repeat with the nose held and compare)."
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, look at the right page together for a minute and ask it again differently. 5 or more is good; fewer than 4 means repeat the taste-and-smell test (Day 4) and the eye test (Day 7) next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Your child does Worksheet ws2 (stretch), using the five senses in new cases. Talk through any answer they are unsure of by asking 'Which sense? Which body part? What would happen without it?'",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Your child does Worksheet ws3 (challenge): fair tests on the senses, 'what if' puzzles and comparing scientists' ideas. Let them think aloud; praise answers that use evidence from this week's tests.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 8,
+          "do": "Your child is the teacher and you or a grandparent are the student. Using real things from the unit (the bell, the blindfold, the spice boxes, the tongue table, the eye chart), they teach for 5 minutes: the five senses and their body parts, how two ears find a sound, what skin can feel, how taste and smell work together, and how to test eyesight. Ask two student questions: 'Why can't you taste food properly with a cold?' and 'Is it true that you taste sweet only on the tip of your tongue?' Praise any answer that uses their own results."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 44–45",
+        "the bell, blindfold, spice boxes, tongue table and eye chart from this unit"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "The five senses",
+      "day": 5,
+      "sections": [
+        ["A. Senses and body parts", [
+          {"t": "match", "p": "Match each sense to the body part we use.", "pairs": [["Sight", "Eyes"], ["Hearing", "Ears"], ["Smell", "Nose"], ["Taste", "Tongue"], ["Touch", "Skin"]]},
+          {"t": "fill", "p": "A sense is a way of finding out about the ____ around you.", "a": ["world"]},
+          {"t": "mcq", "p": "Which of these makes the quietest sound?", "opts": ["A motorbike", "A man shouting", "A pin dropping", "A radio"], "a": 2}
+        ]],
+        ["B. Hearing and touch", [
+          {"t": "mcq", "p": "In the pointing test, finding the sound was harder with one ear blocked. This shows that:", "opts": ["Two ears help us find where a sound comes from", "We cannot hear with one ear", "Sounds are quieter at night", "The bell was broken"], "a": 0},
+          {"t": "sort", "p": "Sort the touch words.", "items": ["ice cube", "sandpaper", "silk dupatta", "wet tissue", "steel plate", "dry tissue"], "cats": ["Cold", "Rough", "Smooth", "Wet", "Dry"]},
+          {"t": "fill", "p": "Our sense of touch is in all of our ____.", "a": ["skin"]}
+        ]],
+        ["C. Taste and smell", [
+          {"t": "match", "p": "Match each food to its taste.", "pairs": [["Gur", "Sweet"], ["Imli", "Sour"], ["Karela", "Bitter"], ["Salted peanuts", "Salty"]]},
+          {"t": "mcq", "p": "When Ravi had a blocked nose, his dosa tasted of almost nothing. Why?", "opts": ["The dosa was cold", "Taste and smell work together, and he could not smell", "His tongue was asleep", "Dosas have no taste"], "a": 1},
+          {"t": "write", "p": "Why is it useful that rotten food smells bad?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Senses in new situations",
+      "day": 8,
+      "sections": [
+        ["A. Which senses?", [
+          {"t": "table", "p": "Which senses do you use in each situation?", "cols": ["Situation", "Senses used"], "rows": 4, "prefill": ["Crossing a busy road", "Choosing a ripe mango at the market", "Finding the light switch in the dark", "Knowing the milk on the stove is boiling over"]},
+          {"t": "write", "p": "A cow has eyes on the sides of its head; a tiger has eyes at the front. Explain how each helps the animal.", "lines": 3}
+        ]],
+        ["B. Animals", [
+          {"t": "sort", "p": "Which sense does each animal rely on most to find food or stay safe?", "items": ["owl hunting a mouse at night", "mole digging underground", "bear finding food far away", "snake flicking its tongue", "eagle spotting a fish from the sky", "rabbit with big ears"], "cats": ["Sight", "Smell", "Hearing"]},
+          {"t": "write", "p": "Police dogs at airports can find things hidden in bags. Which sense do they use, and why are dogs good at it?", "lines": 2}
+        ]],
+        ["C. Eyes", [
+          {"t": "mcq", "p": "When you come out of a dark room into the sun, your pupils:", "opts": ["Get bigger", "Get smaller", "Stay the same", "Change colour"], "a": 1},
+          {"t": "write", "p": "Nani can read the bus number from far away but needs glasses to read the newspaper. What does this tell you about her eyes?", "lines": 2},
+          {"t": "fill", "p": "On our eye test chart, we stood ____ metres away from the wall.", "a": ["3", "three"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Testing senses and testing ideas",
+      "day": 8,
+      "sections": [
+        ["A. Fair tests", [
+          {"t": "write", "p": "Kiran tests her brother's taste with his nose held, using a big spoon of apple and a tiny crumb of potato. Is this fair? What should she change?", "lines": 3},
+          {"t": "write", "p": "Plan a test to find out whether children or grandparents can hear quieter sounds. What will you change, what will you keep the same, and what will you measure?", "lines": 4}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if you could not feel pain at all? Would that be good or dangerous? Give two reasons.", "lines": 3},
+          {"t": "write", "p": "Chilli feels 'hot' but it is not sensed by taste buds. How could you test whether a person can 'taste' chilli with their nose held?", "lines": 3}
+        ]],
+        ["C. Comparing ideas", [
+          {"t": "match", "p": "Match each idea to what scientists think now.", "pairs": [["The tongue map (sweet only at the tip)", "Rejected: all tastes are sensed all over the tongue"], ["Umami is a basic taste (Ikeda, 1908)", "Accepted: taste buds have umami sensors"], ["Humans have a very poor sense of smell", "Debated: humans may smell better than once thought"]]},
+          {"t": "write", "p": "The tongue map was printed in school books for many years. Your own test on Day 3 showed it was wrong. Why do you think nobody checked it for so long?", "lines": 3},
+          {"t": "write", "p": "Dr Venkataswamy's hospital does many operations at low cost by using a very organised system. Do you think the best science is only discoveries, or also finding ways to help many people? Explain.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Pointing at sounds (Activity 4.1a)",
+      "day": 1,
+      "question": "Can we tell where a sound is coming from without looking? Do we need both ears to do it?",
+      "need": ["a blindfold", "a small bell or two steel spoons", "a stool in the middle of a room", "a results table"],
+      "steps": [
+        "Blindfold the listener and sit them on a stool in the middle of the room.",
+        "Ring the bell or tap the spoons once from one of 8 places: front, behind, left, right, above the head, low near the floor, front-left, back-right.",
+        "The listener points to where they think the sound came from. Record right or wrong.",
+        "Do all 8 places in a mixed-up order, at the same loudness each time.",
+        "Repeat all 8 with the listener blocking one ear with a cupped hand.",
+        "Swap roles and test another person."
+      ],
+      "predict": "Ask your child to guess first: will you be able to point to the sound with your eyes shut? Will it be easier with two ears or one? Which direction will be hardest?",
+      "observe": "Count how many of the 8 were right with two ears and with one ear. Usually sounds from the left or right are found easily, sounds from straight in front, behind or above are harder, and with one ear blocked there are more mistakes.",
+      "why": "Sound travels as vibrations through the air. A sound from your left reaches your left ear a tiny fraction of a second sooner than your right ear, and it is a little louder in the left ear because your head is in the way of the right one. Your brain compares the two ears and works out the direction. When a sound comes from straight in front or behind, it reaches both ears at the same time and loudness, so the brain gets less help, which is why those are hardest. With one ear blocked, the brain cannot compare, so pointing gets worse. The shape of the outer ear also changes sounds slightly depending on where they come from, which helps with above and below.",
+      "safety": "Keep the bell or spoons away from the listener's ears; never make loud sounds right next to someone's ear. Clear the room so the blindfolded person cannot trip.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "Where is touch sharpest? The two-point test",
+      "day": 2,
+      "question": "Are some parts of our skin better at feeling small details than others?",
+      "need": ["a paper clip bent into a U with ends 1 cm apart (or two toothpicks)", "a results table"],
+      "steps": [
+        "Bend a paper clip so its two ends are about 1 cm apart.",
+        "The person being tested closes their eyes.",
+        "Gently touch the skin with either one end or both ends at the same moment, in a mixed-up order, and ask 'one or two?'",
+        "Test 5 times each on the fingertip, palm, back of the hand, forearm, lips and back of the neck.",
+        "Record how many of the 5 were right for each place.",
+        "Optional: widen the ends to 3 cm and test the forearm and back again."
+      ],
+      "predict": "Ask your child to guess first: where will you feel two points most easily? Where will two points feel like one?",
+      "observe": "On the fingertips and lips two points 1 cm apart are easily felt as two. On the forearm, back of the hand and back of the neck they often feel like one point.",
+      "why": "Skin contains many tiny nerve endings that sense touch, and they send messages to the brain. Fingertips, lips and the tongue have very many of these touch sensors packed close together, so two points even a few millimetres apart touch two different sensors and the brain feels two. On the back or forearm the sensors are spread far apart, so both points may land in the area of just one sensor and feel like one. A much bigger part of the brain also deals with messages from the fingers and lips. That is why we feel things with our fingertips and why people read Braille with them.",
+      "safety": "Press gently; do not use sharp points.",
+      "time": "12 min"
+    },
+    {
+      "id": "e3",
+      "title": "Do you like or dislike this food? Taste with and without smell (Activity 4.2)",
+      "day": 4,
+      "question": "Does smell help us taste? Can we name foods when we cannot smell them?",
+      "need": ["a blindfold", "5 food samples cut into same-sized pieces on separate plates: apple, raw potato or cucumber, onion, banana, a little pickle or chutney", "clean spoons", "a glass of water for rinsing", "a results table"],
+      "steps": [
+        "Cut each food into small pieces of the same size.",
+        "Blindfold the taster. They hold their nose firmly.",
+        "Give one sample at a time. The taster chews, says what they think it is and whether they like it. Record.",
+        "Rinse the mouth with water between samples.",
+        "Repeat with the nose open, giving the samples in a different order.",
+        "Compare the two sets of answers."
+      ],
+      "predict": "Ask your child to guess first: will you be able to name the foods with your nose held? Which will be hardest? Will you like the same foods both times?",
+      "observe": "With the nose held, many foods taste weak and some get mixed up, especially apple, potato and cucumber, which feel similar when chewed. With the nose open, foods are named easily and taste stronger. Onion and pickle may still be noticed with the nose held because of their strong taste and sting.",
+      "why": "Taste buds on the tongue can only sense a few basic tastes: sweet, sour, salty, bitter and savoury (umami). The rich 'flavour' that tells apart an apple from a potato comes mainly from smell. When you chew, tiny smell particles float from the back of your mouth up into your nose, where smell sensors detect them. Holding your nose stops air moving through it, so these particles cannot reach the sensors. Then only the basic tastes and the feel of the food are left, and apple and potato are both crunchy and slightly sweet. This is why food tastes dull when you have a cold. Taste and smell together help us enjoy food and warn us about food that is rotten.",
+      "safety": "Check for food allergies first. Use clean spoons for each sample and wash hands.",
+      "time": "15 min"
+    },
+    {
+      "id": "e4",
+      "title": "Watch the pupil change",
+      "day": 6,
+      "question": "What does the black hole in the middle of the eye (the pupil) do in bright light and in the dark?",
+      "need": ["a mirror", "a room that can be made dark, or cupped hands", "a bright light"],
+      "steps": [
+        "In a bright room, look at the pupil (the black centre) in the mirror and draw its size inside the coloured iris.",
+        "Sit in the dark, or cup hands over both eyes, for 30 seconds.",
+        "Switch on the light or take your hands away and look in the mirror at once.",
+        "Watch the pupil for a few seconds and draw it again.",
+        "Try it on a parent and watch their pupils, which is easier to see."
+      ],
+      "predict": "Ask your child to guess first: will the pupil be bigger or smaller after the dark? What will it do when the light comes back?",
+      "observe": "After the dark, the pupil is big. In the light it shrinks within one or two seconds. It is easiest to see in a parent's eyes, especially if their iris is light brown.",
+      "why": "The pupil is a hole that lets light into the eye; light passes through it to the back of the eye, where light-sensing cells send messages to the brain. The coloured iris around it is a ring of muscle. In dim light the iris opens the pupil wide to let in as much light as possible, so we can see. In bright light it closes the pupil to a small dot, to stop too much light dazzling or harming the eye. This happens automatically, without you deciding, which is called a reflex. Owls and cats can open their pupils very wide, which helps them see at night.",
+      "safety": "Never look at the Sun or shine a torch straight into anyone's eyes.",
+      "time": "12 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Touch test (Activity 4.1b)",
+      "day": 2,
+      "mins": 13,
+      "need": ["a blindfold", "wet and dry tissues", "ice cubes on a steel plate", "sandpaper or pumice", "a wooden spoon", "a plastic box", "a steel tumbler", "optional: coconut shell, silk cloth, jute bag"],
+      "steps": [
+        "Blindfold your partner.",
+        "Give them each item in turn, in any order.",
+        "They describe how it feels using touch words before guessing what it is.",
+        "Record: item, words used, guess, right or wrong.",
+        "Swap roles."
+      ],
+      "outcome": "A table of touch descriptions and guesses, and a child who can describe objects by hot, cold, rough, smooth, wet and dry."
+    },
+    {
+      "id": "a2",
+      "title": "Spice box smell game",
+      "day": 4,
+      "mins": 8,
+      "need": ["6 small covered boxes or katoris", "jeera, elaichi, laung, hing, a slice of ginger, mint or curry leaves", "a blindfold", "a score sheet"],
+      "steps": [
+        "Put a pinch of each spice into a separate covered box.",
+        "Blindfold the player.",
+        "They lift each lid and waft the air towards their nose with a hand, without sniffing hard.",
+        "They name the smell; score one point for each correct answer.",
+        "Swap roles and compare scores."
+      ],
+      "outcome": "A smell score for each family member and practice naming kitchen smells without seeing them."
+    },
+    {
+      "id": "a3",
+      "title": "Make and use an eye test (Activity 4.3)",
+      "day": 7,
+      "mins": 16,
+      "need": ["a large sheet of paper", "a thick marker", "a ruler", "a metre ruler or measuring tape", "tape", "a spoon or card to cover one eye"],
+      "steps": [
+        "Write rows of letters on the paper, getting smaller: 1 letter 8 cm tall, then rows at 6 cm, 4 cm, 2 cm, 1 cm and 0.5 cm.",
+        "Stick the chart on a wall in good light.",
+        "Measure 3 m from the wall and mark the spot on the floor.",
+        "Stand on the mark, cover one eye, and read the letters aloud; tick each one read correctly.",
+        "Test the other eye.",
+        "Test at least three other people and record the smallest row each eye could read."
+      ],
+      "outcome": "A home-made eye chart and a table comparing both eyes of several people (a fun test, not a medical one)."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "The 'tongue map': David Hänig (Germany, 1901) and Edwin Boring (USA, 1942)",
+      "idea": "In 1901 the German scientist David Hänig dabbed tastes on different parts of people's tongues and reported that some edges were very slightly more sensitive to some tastes than others. In 1942 the American psychologist Edwin Boring redrew Hänig's results as a graph in a famous book, and others turned it into a 'tongue map' showing sweet only at the tip, bitter only at the back, and sour and salty only on the sides.",
+      "then": "The map was copied into school textbooks around the world for decades and taught as fact. Few people tested it, even though anyone could check it at home with a little sugar and salt.",
+      "now": "The tongue map is rejected. Every area of the tongue that has taste buds can sense all the basic tastes; the small differences Hänig measured were tiny. Scientists later found that each taste bud contains cells for different tastes. The middle of the top of the tongue has few taste buds, which is the only real 'blank' area.",
+      "status": "rejected",
+      "ask": "Your own test with cotton buds disagreed with the map in old books. When your evidence disagrees with a book, what should you do? How would you make sure your test was fair before you said the book was wrong?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Kikunae Ikeda (1864–1936), Japan",
+      "idea": "Ikeda, a chemistry professor in Tokyo, noticed that dashi, a soup made from kombu seaweed, had a savoury taste that was not sweet, sour, salty or bitter. In 1908 he extracted the substance responsible, glutamate, and named the taste 'umami', meaning roughly 'delicious taste'. He said it was a basic taste of its own.",
+      "then": "Scientists outside Japan were not convinced for most of the twentieth century. Many thought umami was just a mixture of the other tastes, or a matter of smell.",
+      "now": "Umami is accepted as the fifth basic taste. Around 2000 scientists found receptors on taste buds that respond to glutamate, which gave the physical evidence. Umami is strong in tomatoes, mushrooms, cheese, meat and fish broths, and in some fermented foods.",
+      "status": "accepted",
+      "ask": "For almost a hundred years many scientists did not accept umami until they found the sensor for it on the tongue. Was it fair to wait for that evidence, or should people's own tasting have been enough?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "John McGann, Rutgers University, USA (review published 2017)",
+      "idea": "In a 2017 article in the journal Science, the neuroscientist John McGann argued that the common belief that humans have a poor sense of smell is largely a myth. He traced it partly to the 19th-century French scientist Paul Broca, who noted that the smell area of the human brain is small compared with the rest of our brain, and assumed our sense of smell must be weak. McGann pointed out that the human smell area has a similar number of nerve cells to that of many other mammals, and that people can detect and tell apart a huge number of smells, sometimes as well as dogs or rodents for particular smells.",
+      "then": "For over a century, scientists and textbooks commonly described humans as having a weak sense of smell compared with dogs, rats and most other mammals.",
+      "now": "Many scientists agree that human smell is better than the old view suggested. But dogs are still far better at many smell tasks, such as following a trail, and they have many more types of smell receptor than we do. How good human smell really is, compared with other animals, is still debated, and estimates of how many smells humans can tell apart vary widely between studies.",
+      "status": "debated",
+      "ask": "A dog can follow a person's trail across a city; you can name six spices with your eyes shut. What test would you need to do to decide fairly who has the better nose, a dog or a human?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Dr Govindappa Venkataswamy (1918–2006), India",
+      "idea": "Dr Venkataswamy, known as Dr V, was an eye surgeon from Tamil Nadu. In 1976, after retiring from government service, he founded the Aravind Eye Hospital in Madurai with just 11 beds, to cure cataract blindness, which is caused by the lens inside the eye going cloudy and can be fixed by a short operation. His idea was to make operations so well organised and efficient that the hospital could treat poor patients free or at very low cost, paid for by patients who could afford to pay.",
+      "then": "Many people doubted a hospital could give high-quality operations to so many people at such low cost. He himself had rheumatoid arthritis that badly affected his fingers, yet he still performed many surgeries.",
+      "now": "Aravind grew into one of the largest eye-care groups in the world and has done millions of eye operations, with results studied and copied by hospitals in other countries. Its model is widely praised. He was awarded the Padma Shri in 1973.",
+      "status": "accepted",
+      "ask": "Dr V did not discover a new operation; he found a way to do it for millions of people. Is that as important as making a discovery? Why or why not?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What are the five senses, and which body part do we use for each?", "a": "Sight (eyes), hearing (ears), smell (nose), taste (tongue), touch (skin)."},
+    {"q": "Why is it easier to tell where a sound comes from with two ears than one?", "a": "The sound reaches one ear slightly sooner and louder than the other, and the brain compares the two ears to work out the direction."},
+    {"q": "Where on your body is your sense of touch, and what can it feel?", "a": "In all of your skin; it feels hot and cold, rough and smooth, wet and dry, pressure and pain. It is sharpest on the fingertips and lips."},
+    {"q": "Name four tastes the tongue can sense, with a food for each.", "a": "Sweet (gur), sour (lemon), salty (salt), bitter (karela); the fifth is umami (tomato, cheese)."},
+    {"q": "Why can't you taste food well when your nose is blocked?", "a": "Taste and smell work together; much of a food's flavour is smell from the food reaching the nose, so without smell only the basic tastes are left."},
+    {"q": "How did we test our eyesight, and how did we make it fair?", "a": "With a chart of letters getting smaller, read from 3 m away, one eye at a time; everyone stood at the same distance, in the same light, with the same chart."},
+    {"q": "Why do tigers and owls have very good eyesight, and how does a mole find its way?", "a": "Tigers and owls need it to hunt prey; a mole has poor eyesight and uses its nose (smell) and touch instead."}
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "key": "nios|sci|3|4",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 4,
+  "title": "The Environment",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 4 (pages 45–57), 2016",
+  "summary": "Everything around us, people, plants, animals, air, water, soil, buildings and roads, makes up our environment, and it differs from village to city, desert to mountain. Your child learns to split it into physical and biological parts, tests what makes something living with seeds, yeast and a growing crystal, sorts non-living things into natural and human-made, and learns to identify common plants and animals by their features.",
+  "goals": [
+    "By the end your child can explain what 'environment' means and describe how the environment of a desert, mountain, forest, sea-shore, village and city differ, with plants and animals for each.",
+    "By the end your child can sort things into physical environment and biological environment, and give reasons.",
+    "By the end your child can list the signs of life (eat or make food, breathe, grow, reproduce, respond, die) and use them to decide whether something is living, including tricky cases like a seed, a crystal and a plant.",
+    "By the end your child can explain, from experiments, that plants and tiny yeast cells are alive: they grow, use food and give off gas or water.",
+    "By the end your child can sort non-living things into natural and human-made.",
+    "By the end your child can identify at least ten common plants and animals around home by their leaves, flowers, body coverings, legs or wings and the way they move."
+  ],
+  "words": [
+    ["environment", "everything around us, living and non-living, that we can see or feel and that affects us"],
+    ["physical environment", "the non-living part of our surroundings: air, water, soil, temperature, sun, buildings, roads"],
+    ["biological environment", "the living part of our surroundings: plants, animals, insects, fungi and people"],
+    ["living thing", "something that has life: it uses food, breathes, grows, makes young like itself, responds and one day dies"],
+    ["non-living thing", "something that has no life, such as a stone, a chair or water"],
+    ["natural", "made by nature, not by people, like a river, a rock or a cloud"],
+    ["human-made", "made by people using their skill and work, like a road, a chair or a mobile phone (the book says 'man-made')"],
+    ["humidity", "how much water vapour, invisible water, there is in the air; Mumbai in the monsoon is very humid"],
+    ["reproduce", "to make babies or young ones of the same kind, as a seed grows into a plant like its parent"],
+    ["respond", "to react to something, like a touch-me-not folding when touched or a cat running from a dog"],
+    ["yeast", "a tiny living thing, a fungus too small to see one by one, used to make dough and idli batter rise"],
+    ["crystal", "a solid with a neat repeating shape, like a grain of salt or sugar; it can grow but is not alive"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is all around us?",
+      "goal": "Start from what your child can see from home, learn what 'environment' means, and compare the environments of different places.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "One-minute window list",
+          "mins": 5,
+          "do": "Stand at a window or the door with your child. Set a one-minute timer and ask them to call out everything they can see, hear or feel while you write: 'neem tree, auto-rickshaw, crow, electric pole, clouds, wind on my face, someone's pressure-cooker whistle'. Count the list. Ask: 'Which of these are alive?' Just let them guess for now; we will test it later this week."
+        },
+        {
+          "kind": "read",
+          "title": "Meaning of environment (pages 45–46)",
+          "mins": 6,
+          "do": "Read the opening of the lesson on page 45 and section 4.1 on pages 45–46 aloud. Ask: 'The book says everything you can see or feel around you is your environment. Is the air part of it, even though you cannot see it?' (Yes: you can feel it as wind and you breathe it.) 'Is your family part of your environment?' (Yes: people are part of it too.) Ask your child to point at your window list and say: 'All of this is my environment.'"
+        },
+        {
+          "kind": "read",
+          "title": "Environments of different places (pages 46–47)",
+          "mins": 8,
+          "do": "Read section 4.2 on page 46 and look at the six pictures on pages 46–47: village, city, mountains, desert, forest and sea-shore. For each, ask: 'What do you see? Which plants and animals live there? Is it hot or cold, wet or dry?' Good answers from the book: desert, sand dunes, kikar, babool, palms, thorny bushes, camels; mountains, tall rocks, pine, deodar, chinar, sheep and yak. Add your own: sea-shore, coconut palms, crabs, fishing boats; forest, tall trees close together, deer, tigers, monkeys. Ask: 'Why does a camel live in the desert and a yak in the mountains?' (A camel can go days without water and walks easily on sand; a yak has long thick hair for the cold.)"
+        },
+        {
+          "kind": "act",
+          "title": "Six environments poster",
+          "mins": 15,
+          "do": "Do Activity a1. Fold a chart paper into six boxes and label them Desert, Mountain, Forest, Sea-shore, Village, City. Your child draws or sticks pictures (from old magazines or newspapers) of one plant, one animal, one non-living natural thing and one human-made thing in each box: for example Desert, khejri tree, camel, sand dune, a well. Mark with a star the box most like where you live, and with a heart a place your family has visited, such as Nani's village or a trip to the hills. Ask: 'Which environment would be hardest for you to live in? Why?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see what you have learnt 4.1 (page 47)",
+          "mins": 6,
+          "do": "Ask the three questions on page 47 aloud and let your child write the answers. 1: What do you mean by environment? (Everything around us that we can see or feel.) 2: Five things you see in your environment: use the window list. 3: Three desert plants: kikar, babool, palm, thorny bushes (khejri and cactus are also right)."
+        }
+      ],
+      "need": ["NIOS EVS Level A book, pages 45–47", "a timer", "chart paper, crayons, glue and old magazines or newspapers", "notebook and pencil"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Physical or biological? Living or non-living?",
+      "goal": "Split the environment into physical and biological parts, compare a cat with a bicycle to find the signs of life, and start a seed test to see whether a seed is alive.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Physical and biological environment (pages 47–48)",
+          "mins": 6,
+          "do": "Read the part 'Physical and Biological Environment' on pages 47–48 aloud. Draw the book's chart in the notebook: Environment at the top, with two branches, Physical and Biological. Ask: 'Which side does temperature go on?' (Physical.) 'Mushrooms?' (Biological: they are alive.) 'Roads and vehicles?' (Physical: they are not alive, even though people made them.) Explain 'humidity': the invisible water in the air, which is why clothes take longer to dry in the monsoon."
+        },
+        {
+          "kind": "game",
+          "title": "Two-basket sort (Let's see what you have learnt 4.2, page 48)",
+          "mins": 7,
+          "do": "Put two dupattas or towels on the floor labelled Physical and Biological. Call out the book's list on page 48 one at a time: house, lake, neem tree, train, cat, school, school children, pigeon, boat, butterfly. Your child jumps to the right towel and says why. Then add your own from around the house: a tulsi plant, a steel glass, an ant, a cloud, the fan, a cockroach. Answers: physical, house, lake, train, school, boat; biological, neem tree, cat, school children, pigeon, butterfly. Your child writes the two lists in the notebook."
+        },
+        {
+          "kind": "read",
+          "title": "The cat and the bicycle (pages 48–49)",
+          "mins": 8,
+          "do": "Read 'Difference between Living and Non-Living' on pages 48–49 and look at the cat and bicycle pictures. Ask the book's six questions one at a time and let your child answer 'cat' or 'bicycle': Who gets hungry? Who breathes? Who can move at its own will? Who can feel hot and cold? Who can produce babies like itself? Who is sure to die one day? (The cat each time.) Then ask the tricky one: 'A bicycle moves. Does that make it living?' (No: it moves only when someone pedals it; it does not eat, breathe, grow or have babies.) Write the six signs of life on a card and keep it out for the week."
+        },
+        {
+          "kind": "exp",
+          "title": "Is a seed alive? Set up the test",
+          "mins": 12,
+          "do": "Set up Experiment e1. An adult boils 10 moong seeds for 5 minutes and lets them cool. Put 10 raw moong seeds and the 10 boiled seeds on wet cotton in two separate katoris and label them 'Raw' and 'Boiled'. Ask your child to guess first: 'A dry seed does not eat, breathe or move. Is it living or non-living? Will both katoris sprout?' Write the guesses down. Keep both katoris in the same place and keep the cotton damp.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Living, non-living, or once living?",
+          "mins": 7,
+          "do": "Bring out five things: a dry leaf, a stone, a wooden spoon, an apple and a feather. Ask your child to sort them into three groups: living now, never living, once living. Good answers: stone, never living; dry leaf, wooden spoon and feather, once living (they came from a tree or a bird but are not alive now); apple, a tricky one: it is part of a plant and its seeds inside are still alive and could grow. Explain that the book's two groups are a start, but scientists also use 'dead' or 'once living' for things like wood and leather."
+        }
+      ],
+      "need": ["NIOS EVS book pages 47–49", "two dupattas or towels and paper labels", "20 whole moong seeds, a small pan (adult use), 2 katoris, cotton", "a dry leaf, a stone, a wooden spoon, an apple, a feather", "a card for the signs of life"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Plants are living too, and so are tiny yeast",
+      "goal": "Read why plants are living things, prove that tiny yeast cells eat and breathe, start growing a crystal to test whether growing alone means living, and hear the live debate about viruses.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed check",
+          "mins": 2,
+          "do": "Look at the two katoris from Experiment e1. Ask: 'Have the raw seeds swollen or split? What about the boiled ones?' Your child draws both katoris with today's date. Add a few drops of water if the cotton is drying.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Living things: plants and animals (pages 49–50)",
+          "mins": 7,
+          "do": "Read section 4.3 on pages 49–50 aloud. Ask: 'The book says plants eat. How, if they have no mouth?' (They make their own food in their green leaves.) Add one fact the book leaves out: plants make food from air, water and sunlight; without light they cannot do it. 'Where do they store the food they make?' (In grains, fruits, vegetables, roots and stems: that is our food.) 'Do plants move?' (Yes, a little: flowers open and close, leaves turn to the light, roots grow towards water.) Then do 'Let's see what you have learnt 4.3' question 3 on page 50 aloud: elephant L, telephone NL, spider L, mango tree L, snake L, grass L, pot NL, car NL, frog L, water NL."
+        },
+        {
+          "kind": "exp",
+          "title": "The yeast balloon test",
+          "mins": 13,
+          "do": "Do Experiment e2. Take two empty plastic bottles. In bottle A put 1 teaspoon dry yeast (from a bakery shop or supermarket), 1 teaspoon sugar and half a cup of warm water (as warm as a bath, not hot). In bottle B put the same yeast and warm water but no sugar. Stretch a balloon over each mouth. Ask your child to guess first: 'Yeast is a dry powder. Will anything happen? Which balloon will blow up more?' Swirl both and leave them in a warm place. Check after 20–30 minutes (do the next steps while you wait). Bottle A's balloon slowly fills up; bottle B's hardly does. Explain using the 'why' of e2: yeast is made of tiny living cells that eat sugar and give out a gas, the same carbon dioxide we breathe out, and that gas makes idli batter and bread dough rise.",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Start a salt crystal",
+          "mins": 8,
+          "do": "Set up Experiment e3. An adult heats a cup of water and your child stirs in salt, a spoon at a time, until no more will dissolve. Pour the clear liquid into a glass jar. Tie a thread to a pencil, lay the pencil across the jar so the thread hangs in the water without touching the bottom. Ask your child to guess: 'Will anything grow on the thread? If it grows, is it alive?' Put the jar where it will not be disturbed. Then check the yeast balloons from e2 and let your child feel how tight balloon A is getting.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Are viruses alive?",
+          "mins": 10,
+          "do": "Tell the story in Voice v2: the germs that cause colds, flu and COVID-19 are viruses, far smaller than yeast. In 1935 a scientist named Wendell Stanley made a virus into crystals, like the salt crystal we are growing, yet when those crystals were put on a plant, they multiplied and made it sick. Read out the signs of life card and go through it for a virus: Does it eat? (No.) Breathe? (No.) Grow by itself? (No.) Make copies of itself? (Yes, but only inside a living cell.) Ask the voice question and let your child decide and give a reason. Tell them scientists still disagree, so any well-reasoned answer is a good answer.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 49–50", "2 teaspoons dry yeast, 1 teaspoon sugar, warm water", "2 empty plastic bottles and 2 balloons", "salt, a cup of hot water (adult use), a glass jar, thread and a pencil", "the signs of life card"],
+      "prep": [{"task": "Buy dry yeast (instant or active) and two balloons", "when": "2 days before"}]
+    },
+    {
+      "n": 4,
+      "title": "Plants breathe out water; natural and human-made things",
+      "goal": "See that a plant gives off water, hear how J.C. Bose showed that plants respond, finish the seed test, and sort non-living things into natural and human-made.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bag a leafy branch",
+          "mins": 5,
+          "do": "In the morning, do Experiment e4. Choose a leafy branch of a plant in sunlight (a hibiscus, money plant or any potted plant). Your child slips a clear plastic bag over a few leaves and ties it gently around the stem with a thread. Tie an empty bag of the same kind on a stick next to it as a check. Ask them to guess first: 'Will anything appear inside the bag?' Leave both for 3–4 hours.",
+          "ref": "e4"
+        },
+        {
+          "kind": "exp",
+          "title": "Seed test results",
+          "mins": 6,
+          "do": "Finish Experiment e1. Lay out both katoris. The raw moong should have white roots, perhaps small shoots; the boiled moong has not sprouted and may smell sour. Ask: 'So was the dry raw seed alive?' (Yes: it was alive but resting, waiting for water. When it got water it grew, which is a sign of life.) 'What did boiling do?' (It killed the baby plant inside, so it cannot grow.) Your child writes: 'A seed is a living thing that is resting.' Plant the sprouted seeds in a pot of soil.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose: plants respond",
+          "mins": 7,
+          "do": "Tell the story in Voice v1. If a touch-me-not (chhui-mui) grows near you, go and touch one of its leaves gently and watch the leaflets fold, then wait and watch them open again. If not, show the sprouted moong roots, which bend downwards whichever way the seed lay. Ask: 'The book says plants show movement when flowers open and close. Is a plant that folds its leaves when touched responding?' (Yes, and responding is one of the signs of life.) Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "read",
+          "title": "Natural and human-made things (pages 51–52)",
+          "mins": 7,
+          "do": "Read section 4.4 on pages 51–52 aloud and look at the table of natural and human-made things: mountains and buildings, waterfalls and the hand pump, desert and bus, ocean and train, moon and stars and the aeroplane. Ask: 'Who made the river?' (Nature.) 'Who made the dam on the river?' (People.) 'Is a clay pot natural or human-made?' (Human-made, though the clay is natural: people shaped and baked it.) Then do 'Let's see what you have learnt 4.4' on pages 52–53 aloud: human-made, electric pole, roads, chair, mobile phone; natural, forest, river, rocks, clouds, wheat. Talk about wheat: it grows naturally, but farmers sow and grow it."
+        },
+        {
+          "kind": "game",
+          "title": "Natural or human-made house hunt",
+          "mins": 9,
+          "do": "Give your child 5 minutes to collect 10 small things from around the house (or to write them if they cannot be carried): for example a stone, a leaf, a spoon, a cotton handkerchief, a pencil, a seashell, a coin, a feather, a plastic bottle cap, a lemon. Then they sort them on the floor into Natural and Human-made. For tricky ones, ask: 'What was it made from? Did a person change it?' A cotton hanky is human-made from natural cotton; a pencil is human-made from wood and graphite. Count each group and write the lists."
+        },
+        {
+          "kind": "exp",
+          "title": "Look inside the bags",
+          "mins": 6,
+          "do": "After 3–4 hours, look at the bags from Experiment e4. The bag on the plant should be misty with tiny water drops inside; the empty bag stays dry. Ask: 'Where did the water come from?' (From the leaves: the plant took it up from the soil through its roots and gave it out through tiny holes in the leaves.) Your child draws both bags. Remove the bag from the plant.",
+          "ref": "e4"
+        }
+      ],
+      "need": ["NIOS EVS book pages 51–53", "2 clear plastic bags, thread, a stick", "a leafy plant in sunlight", "the seed katoris and a pot of soil", "a touch-me-not plant if one grows nearby", "10 small household objects"],
+      "prep": [{"task": "Find a sunny leafy plant where a bag can be tied for 3–4 hours", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "Who is who? Identifying plants and animals",
+      "goal": "Learn to identify common plants and animals by their features, go on an identification walk, check the crystal, and meet Salim Ali, the 'Birdman of India'.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Crystal check",
+          "mins": 4,
+          "do": "Look at the jar from Experiment e3. Small cubes of salt should be growing on the thread and on the sides of the jar. Let your child look with a magnifying glass if you have one: the crystals are tiny cubes. Ask: 'It grew. Is it alive?' Go through the signs-of-life card: Does it eat? Breathe? Make babies of its own? Feel? Die? (No to all; it grew only because salt came out of the water as the water dried. So growing alone does not mean living.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Identification of common plants and animals (pages 53–54)",
+          "mins": 8,
+          "do": "Read section 4.5 on pages 53–54 aloud. For the plant list, ask which ones your child has seen: amla, mango, sahjan (drumstick), kathal (jackfruit), khejri, babool, harsingar (night jasmine, whose orange-stalked white flowers fall in the early morning), amaltas, jamun, mehendi, hibiscus, jasmine, champa, marigold, lily, nagphani (cactus), dhatura. Ask: 'How can we tell plants apart?' (By size, shape, leaves, flowers and fruits.) Then read the animal part. Ask: 'Name an animal that lives in water, one that flies, one that lives on trees and one that lives in a burrow.' (Fish or tortoise; crow or parrot; monkey or squirrel; rabbit, rat or snake.) Ask: 'How can we tell animals apart?' (Wings, scales, number of legs, how they move.) Tell your child that dhatura is poisonous: never eat its seeds or fruit."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Identification walk",
+          "mins": 15,
+          "do": "Do Activity a2. Walk around your colony, park or fields for 15 minutes with a notebook table: Name, Plant or animal, How I knew it (one feature), Where it lives. Aim for at least 5 plants and 5 animals, birds or insects. Help with features: 'Look at the leaf: is it big, small, divided into many leaflets like neem?' 'Count the legs on that insect: six legs means an insect, eight legs means a spider.' 'Does the bird have a forked tail?' (A black drongo does.) Common finds: neem, peepal, tulsi, hibiscus; crow, myna, pigeon, house sparrow, squirrel, ant, butterfly, lizard. If you do not know a name, describe and draw it and look it up together at home.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali and the yellow-throated sparrow",
+          "mins": 6,
+          "do": "Tell the story in Voice v3: as a boy in Mumbai, Salim Ali shot a sparrow with a yellow patch on its throat with his toy air gun and took it to the Bombay Natural History Society, where an expert showed him it was a different bird, the yellow-throated sparrow. That curiosity grew into a life of studying and protecting India's birds. Ask: 'In your walk, which bird or insect did you look at most carefully? What feature told you its name?' Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: New things, same rules",
+          "mins": 7,
+          "do": "Do sections A and B of Worksheet ws2 (stretch) now; keep section C for Day 6. Read the items aloud. For each tricky item, let your child use the signs-of-life card to decide.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 53–54", "the crystal jar and a magnifying glass if you have one", "notebook with the identification table", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Let's revise and teach it back",
+      "goal": "Review the lesson with the book's revision list and exercises, try the core and challenge worksheets, check understanding, and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercises (pages 55–56)",
+          "mins": 7,
+          "do": "Read the 'Let's Revise' points on page 55 aloud and ask your child to show you one thing from this week for each (for example 'All plants are living things': the sprouted moong). Then do the Exercises on pages 55–56. Exercise 2 answers: 1 true; 2 false (a car moves only when driven and does not eat, grow or reproduce); 3 false (a peepal tree lives very long but does die one day); 4 true; 5 true."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Our environment",
+          "mins": 9,
+          "do": "Do Worksheet ws1 (core). It checks the main ideas: environment, physical and biological, living and non-living, natural and human-made. Read each item aloud if needed and mark together. For each mistake, open the page it comes from (pages 45–47 for environments, 47–50 for living and non-living, 51–52 for natural and human-made) and look again.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet and stretch section C",
+          "mins": 8,
+          "do": "Do section C of Worksheet ws2, then Worksheet ws3 (challenge): puzzles, 'what if' questions and comparing views. Your child can answer aloud while you write. In ws3 section C there is no single right answer; praise reasons that use evidence from the seed, yeast and crystal tests.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 7,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page and look for one minute, then ask again in different words. Most children get 5 or more right; fewer than 4 means repeat the Day 2 sort game and the Day 3 yeast test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 9,
+          "do": "Your child is now the teacher. Using the six environments poster, the sprouted moong, the yeast bottle (make it again if needed), the salt crystal and the identification table, they teach you (or a grandparent) in 5 minutes: what the environment is, physical and biological parts, the signs of life, and natural and human-made things. Ask two 'student' questions: 'The salt crystal grew. Why isn't it alive?' and 'Is a dry seed living?' End by sticking the poster on the wall and choosing one plant from the walk to visit again next week."
+        }
+      ],
+      "need": ["NIOS EVS book pages 55–56", "worksheets ws1, ws2 section C and ws3", "the poster, sprouts, crystal jar and identification table from this week"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Our environment",
+      "day": 6,
+      "sections": [
+        ["A. Environment and places", [
+          {"t": "fill", "p": "Everything around us that we can see or feel is our ____.", "a": ["environment"]},
+          {"t": "match", "p": "Match each place to something found there.", "pairs": [["Desert", "Camel and babool"], ["Mountains", "Yak and deodar"], ["Sea-shore", "Crabs and coconut palms"], ["City", "Tall buildings and buses"]]}
+        ]],
+        ["B. Physical or biological, living or non-living", [
+          {"t": "sort", "p": "Sort into physical and biological environment.", "items": ["Air", "Neem tree", "Soil", "Pigeon", "Mushroom", "Road", "Butterfly", "Sun"], "cats": ["Physical", "Biological"]},
+          {"t": "mcq", "p": "Which of these is a sign of life?", "opts": ["Moving when pushed", "Being shiny", "Growing and making young like itself", "Making a noise"], "a": 2},
+          {"t": "fill", "p": "Plants make their own food from air, water and ____.", "a": ["sunlight", "light", "sun"]},
+          {"t": "mcq", "p": "A car moves. Is it a living thing?", "opts": ["Yes, because it moves", "No, because it does not eat, breathe, grow or have babies", "Yes, because it needs petrol", "No, because it is red"], "a": 1}
+        ]],
+        ["C. Natural or human-made", [
+          {"t": "sort", "p": "Sort these non-living things.", "items": ["River", "Chair", "Rocks", "Mobile phone", "Clouds", "Electric pole", "Waterfall", "Bus"], "cats": ["Natural", "Human-made"]},
+          {"t": "write", "p": "Name two things you found on your walk and the feature that told you what they were.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New things, same rules",
+      "day": 5,
+      "sections": [
+        ["A. Tricky cases", [
+          {"t": "sort", "p": "Sort these into living now, once living, and never living.", "items": ["Dry wooden table", "Earthworm", "Stone", "Cotton shirt", "Moong seed", "Glass", "Leather belt", "Grass"], "cats": ["Living now", "Once living", "Never living"]},
+          {"t": "mcq", "p": "Fire grows, moves and needs air. Why is it not a living thing?", "opts": ["It is too hot", "It does not make young like itself from its own body, and has no cells", "It is orange", "It can be put out with water"], "a": 1},
+          {"t": "write", "p": "In our yeast test, the balloon on the bottle with sugar filled up. What does this tell you about yeast?", "lines": 2}
+        ]],
+        ["B. Plants are alive", [
+          {"t": "write", "p": "The bag on the plant became misty. Where did the water come from, and which sign of life does it show?", "lines": 3},
+          {"t": "mcq", "p": "Raw moong sprouted but boiled moong did not. This shows that:", "opts": ["Boiled seeds need more water", "A raw seed is alive and resting, but boiling killed it", "Seeds are non-living", "Cotton is alive"], "a": 1}
+        ]],
+        ["C. Identify it", [
+          {"t": "table", "p": "Fill in from your walk.", "cols": ["Name", "Plant or animal", "Feature that told me", "Where it lives"], "rows": 5},
+          {"t": "match", "p": "Match the animal to where it lives.", "pairs": [["Fish", "Water"], ["Squirrel", "Trees"], ["Rabbit", "Burrow"], ["Eagle", "Flies in the air"]]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a scientist",
+      "day": 6,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "fill", "p": "An animal with six legs and three body parts is an ____.", "a": ["insect"]},
+          {"t": "write", "p": "A salt crystal grows, but is not alive. A seed does not seem to do anything, but is alive. Write how you could test whether a new thing you found is alive.", "lines": 4},
+          {"t": "mcq", "p": "Which test best shows that yeast eats sugar?", "opts": ["Smell the yeast", "Compare a bottle with sugar and one without, keeping everything else the same", "Put yeast in the fridge", "Add more water"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a city had no trees, birds or insects at all, only buildings and roads? What would be different for the people?", "lines": 3},
+          {"t": "write", "p": "What if a camel and a yak swapped homes? What problems would each have?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some scientists say viruses are alive because they make copies of themselves; others say they are not, because they cannot eat, breathe or grow outside a living cell. Which side do you agree with, and why?", "lines": 4},
+          {"t": "write", "p": "J.C. Bose said plants respond to touch, light and injury. Write two things you saw this week that support him.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Is a seed alive? Raw versus boiled moong",
+      "day": 2,
+      "question": "A dry seed does not eat, move or breathe that we can see. Is it living, and what happens if we boil it?",
+      "need": ["20 whole moong seeds", "a small pan of water (adult use)", "2 katoris", "cotton wool", "labels and a pencil"],
+      "steps": [
+        "An adult boils 10 moong seeds for 5 minutes and lets them cool.",
+        "Line two katoris with wet cotton and label them 'Raw' and 'Boiled'.",
+        "Put 10 raw seeds in one and the 10 boiled seeds in the other.",
+        "Keep both in the same place and keep the cotton damp.",
+        "Draw both katoris each day for two days.",
+        "On Day 4, count how many seeds sprouted in each."
+      ],
+      "predict": "Ask your child to guess first: is a dry seed living or non-living? Will the boiled seeds sprout too?",
+      "observe": "Record how many seeds sprouted in each katori and the length of the longest root. Usually most raw seeds sprout; no boiled seeds sprout, and they may go soft and smell sour.",
+      "why": "A seed holds a tiny baby plant and a store of food. When it is dry, the baby plant is alive but resting, using almost no energy, like an animal in deep sleep. Water wakes it up: the seed swells, and the baby plant starts using its stored food to grow a root and shoot. Growing is a sign of life. Boiling heats the seed so much that its living cells are destroyed, so it can never grow again: it has become non-living, like a once-living dry leaf. This is why a seed counts as a living thing even though it looks like a little stone.",
+      "safety": "An adult handles the boiling water. Throw away the boiled seeds afterwards; do not eat seeds that have been sitting in water for days.",
+      "time": "12 min to set up + 2 min check on Day 3 + 6 min on Day 4"
+    },
+    {
+      "id": "e2",
+      "title": "The yeast balloon test",
+      "day": 3,
+      "question": "Is dry yeast powder alive? Does it need food?",
+      "need": ["2 teaspoons dry yeast", "1 teaspoon sugar", "warm water (bath-warm, not hot)", "2 empty plastic bottles", "2 balloons", "a measuring cup and spoon"],
+      "steps": [
+        "Label bottle A 'yeast + sugar' and bottle B 'yeast only'.",
+        "Put 1 teaspoon yeast in each, and 1 teaspoon sugar in bottle A only.",
+        "Add half a cup of warm water to each and swirl.",
+        "Stretch a balloon over the mouth of each bottle.",
+        "Leave them side by side in a warm place for 20–30 minutes.",
+        "Compare the balloons; smell bottle A when you remove its balloon."
+      ],
+      "predict": "Ask your child to guess first: will anything happen to the balloons? Will one blow up more than the other?",
+      "observe": "Bottle A froths and its balloon slowly fills and stands up; bottle B shows little or no change. Bottle A smells like bread dough or idli batter.",
+      "why": "Yeast is a fungus made of single living cells, each far too small to see without a microscope. Dry yeast is alive but resting. Warm water wakes it, and sugar is its food. As the yeast cells use the sugar for energy, they give out carbon dioxide gas, the same gas we breathe out, and this gas fills the balloon. Without sugar there is almost nothing to eat, so very little gas is made. Using food and giving out gas are signs of life. The same thing happens when idli or dosa batter rises overnight, and when bread dough puffs up: tiny living things are feeding in it.",
+      "safety": "Use warm, not hot, water. Do not drink the mixture.",
+      "time": "13 min to set up + check after 20–30 min"
+    },
+    {
+      "id": "e3",
+      "title": "Grow a salt crystal: does growing mean living?",
+      "day": 3,
+      "question": "Can something non-living grow? Is growing alone enough to call something alive?",
+      "need": ["salt", "a cup of hot water (adult use)", "a glass jar", "cotton thread", "a pencil", "a magnifying glass (optional)"],
+      "steps": [
+        "An adult pours hot water into the jar.",
+        "Stir in salt one spoon at a time until no more dissolves and a little stays at the bottom.",
+        "Tie a thread to a pencil and rest the pencil across the jar so the thread hangs in the water.",
+        "Put the jar in a quiet place where no one will move it.",
+        "Check after two days and look at the thread with a magnifying glass.",
+        "Go through the signs of life card for the crystal."
+      ],
+      "predict": "Ask your child to guess first: will anything appear on the thread? If something grows, does that make it alive?",
+      "observe": "After a day or two, tiny cube-shaped salt crystals grow on the thread and the jar's sides, getting bigger as the water dries.",
+      "why": "Hot water can hold more dissolved salt than cool water. As the water cools and slowly evaporates, there is not enough water to hold all the salt, so the salt comes out as a solid. Salt particles always stack in a neat cube pattern, so the crystals are tiny cubes, and they grow as more salt sticks on. But nothing inside the crystal is using food, breathing, responding or making young ones; it grows only by adding material from outside. A living thing grows from inside by using food. So we need all the signs of life together, not just one, to call something living.",
+      "safety": "An adult handles the hot water. Do not eat the crystals once they have been on the thread.",
+      "time": "8 min to set up + 4 min check after 2 days"
+    },
+    {
+      "id": "e4",
+      "title": "Do plants give out water? The bag test",
+      "day": 4,
+      "question": "Do the leaves of a living plant give out water into the air?",
+      "need": ["2 clear plastic bags", "thread", "a stick", "a leafy plant in sunlight"],
+      "steps": [
+        "In the morning, put a clear plastic bag over a few leaves of a plant in sunlight.",
+        "Tie the bag gently around the stem with thread; do not crush the stem.",
+        "Tie the second, empty bag on a stick next to the plant, as a check.",
+        "Leave both for 3–4 hours.",
+        "Look for mist or drops inside each bag and draw what you see.",
+        "Remove the bag from the plant."
+      ],
+      "predict": "Ask your child to guess first: will anything appear inside the bag on the plant? In the empty bag?",
+      "observe": "The bag on the plant becomes misty, with small water drops that may run down; the empty bag stays dry. Bigger, leafier branches in bright sun give more water.",
+      "why": "Roots take up water from the soil, and the stem carries it up to the leaves. Leaves have thousands of tiny holes, called stomata, mostly underneath, through which water escapes into the air as invisible vapour. Inside the bag the vapour cannot get away, so it touches the cooler plastic and turns back into drops. Scientists call this transpiration. It pulls more water up from the roots, and it is one way plants keep cool. The empty bag shows the water did not come from the air or the plastic. Taking in and giving out water and gases is part of being alive.",
+      "safety": "Use the bag only for a few hours and remove it afterwards so the leaves do not overheat. Keep plastic bags away from small children's faces.",
+      "time": "5 min to set up + 6 min check after 3–4 hours"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Six environments poster",
+      "day": 1,
+      "mins": 15,
+      "need": ["chart paper", "crayons or sketch pens", "old magazines or newspapers", "glue and scissors"],
+      "steps": [
+        "Fold the chart into six boxes: Desert, Mountain, Forest, Sea-shore, Village, City.",
+        "In each box draw or stick one plant, one animal, one natural non-living thing and one human-made thing.",
+        "Write the names under each picture.",
+        "Star the box most like where you live, and put a heart on a place you have visited.",
+        "Write one sentence under each box: 'It is hot/cold, wet/dry here.'",
+        "Stick the poster on the wall."
+      ],
+      "outcome": "A poster comparing six environments with their plants, animals and features, made from the book's pictures on pages 46–47."
+    },
+    {
+      "id": "a2",
+      "title": "Identification walk",
+      "day": 5,
+      "mins": 15,
+      "need": ["a notebook with a four-column table", "a pencil", "a magnifying glass (optional)"],
+      "steps": [
+        "Draw a table: Name, Plant or animal, How I knew it, Where it lives.",
+        "Walk slowly round your colony, park or fields for 15 minutes.",
+        "Find at least 5 plants and 5 animals, birds or insects.",
+        "For each, write one feature you used: leaf shape, flower, legs, wings, tail, the way it moves.",
+        "Draw anything you cannot name, and look it up together at home.",
+        "Count how many plants and how many animals you found."
+      ],
+      "outcome": "A filled identification table of at least ten living things near home, each with the feature that identified it."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Jagadish Chandra Bose (1858–1937), India",
+      "idea": "Bose, a physicist working in Kolkata, built very sensitive instruments to show that plants respond to touch, light, heat, poisons and injury. His crescograph magnified a plant's growth thousands of times so that it could be seen. He showed that plants produce electrical signals when stimulated, a bit like signals in our nerves, and argued that plants and animals are more alike than people thought.",
+      "then": "Many scientists in Europe were doubtful. When he presented his work in London in the early 1900s, some leading physiologists objected that a physicist was stepping into their field and that plants could not have anything like nerves. Some of his bigger ideas, such as plants having feelings, went further than his evidence.",
+      "now": "Plant scientists today accept that plants sense many things and send electrical and chemical signals through their bodies; the touch-me-not's folding is driven by such signals. Bose is honoured as a pioneer. Most scientists do not accept that plants feel pain or emotions like ours.",
+      "status": "accepted",
+      "ask": "The book says living things 'feel love, anger, hot and cold'. A touch-me-not folds when touched. Does that mean it feels? What would you need to see to decide?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Wendell Stanley (1904–1971), USA, and the live debate: are viruses alive?",
+      "idea": "In 1935 Stanley purified tobacco mosaic virus, which causes spots on tobacco leaves, and made it into needle-like crystals, like a chemical. Yet when the crystals were dissolved and rubbed on a healthy plant, the virus multiplied and the plant fell sick. This showed that a virus is something in between: it has the instructions to make copies of itself, but it can do so only inside a living cell.",
+      "then": "Many scientists were astonished that something that could be crystallised like salt could also multiply like a germ. Stanley shared the 1946 Nobel Prize in Chemistry for this work.",
+      "now": "That viruses are made of genetic material inside a protein coat, and can only multiply inside living cells, is accepted. Whether to call them living is still argued: some scientists say no, because outside a cell they do nothing at all; others say yes, because they reproduce and evolve, and some giant viruses discovered since 2003 have surprisingly many genes. There is no single agreed definition of life that settles it.",
+      "status": "debated",
+      "ask": "Go through the signs of life card for a virus. Which signs does it have, and which does it not? How many signs should something need before we call it alive?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Salim Ali (1896–1987), India",
+      "idea": "As a boy in Bombay, Salim Ali shot a sparrow with a yellow patch on its throat and took it to the Bombay Natural History Society, where its secretary, W.S. Millard, showed him it was a different species, the yellow-throated sparrow, and let him study the society's bird collection. He went on to carry out careful bird surveys across India, recording where each bird lives, what it eats and how it behaves, and wrote 'The Book of Indian Birds' (1941) and, with S. Dillon Ripley, the ten-volume 'Handbook of the Birds of India and Pakistan'.",
+      "then": "He did not finish a regular science degree, and early on he could not get a job as an ornithologist. He paid for many of his early surveys himself. Some people of his time thought watching birds in the field was less serious than studying dead specimens in museums.",
+      "now": "He is called the 'Birdman of India'. His field surveys are still used, he was awarded the Padma Vibhushan in 1976, and he helped save places such as Bharatpur (now Keoladeo National Park) for birds. Careful field observation of living animals is now a central part of biology.",
+      "status": "accepted",
+      "ask": "Salim Ali could tell two sparrows apart by one yellow patch. On your walk, what feature would you need to see to be sure two birds are different kinds, not just a male and a female of the same kind?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is the environment? Give two physical and two biological examples.", "a": "Everything around us that we can see or feel. Physical: air, water, soil, sun, roads, buildings. Biological: plants, animals, birds, insects, mushrooms, people."},
+    {"q": "How are the desert and mountain environments different?", "a": "Deserts have sand dunes, heat and little water, with kikar, babool, palms, thorny bushes and camels. Mountains are tall and rocky and cold, with pine, deodar and chinar, and sheep and yaks."},
+    {"q": "Name five signs that tell us something is living.", "a": "It uses food (eats or makes its own), breathes, grows, makes young like itself, responds or moves by itself, and dies one day."},
+    {"q": "Why is a plant a living thing even though it does not walk?", "a": "It makes and stores food, breathes, gives out water, grows, makes seeds that grow into plants like itself, responds (flowers open and close, it bends to light), and dies."},
+    {"q": "What did the yeast balloon test show?", "a": "Yeast is made of tiny living cells: with sugar as food, they gave out gas that filled the balloon. Without sugar, little gas was made."},
+    {"q": "The salt crystal grew. Why is it not alive?", "a": "It grew only because salt came out of the water and stuck on; it does not use food, breathe, respond or make young ones. Growing alone is not enough to be living."},
+    {"q": "Sort these into natural and human-made: river, chair, clouds, mobile phone, rocks, road.", "a": "Natural: river, clouds, rocks. Human-made: chair, mobile phone, road."}
+  ]
+}

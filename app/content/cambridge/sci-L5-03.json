@@ -1,0 +1,826 @@
+{
+  "key": "cambridge|sci|5|3",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 5,
+  "n": 3,
+  "title": "States and properties of matter",
+  "source": "Cambridge Primary Science Learner's Book 5 (2nd edition), Unit 3 'States and properties of matter' (contents pages 58–93; the printed page numbers in this copy run 57–87): 3.1 Gases (printed pages 57–63), 3.2 Properties of water (pages 64–70), 3.3 Evaporation and condensation (pages 71–77), 3.4 Solutions (pages 78–84), Project: How do people use evaporation? (page 85), Check your progress (pages 86–87)",
+  "summary": "Your child finds the invisible air all around them, makes a gas in a jar, and uses the particle model to explain why solids keep their shape, liquids flow and gases spread out and can be squashed. They measure water melting and boiling with a thermometer and draw line graphs, watch water expand as it freezes, investigate evaporation and condensation and build a working model of the water cycle. Finally they dissolve solids to make solutions, learn the words solute and solvent, think about hidden water pollution and get salt back out of salty water, just as India's salt pans do.",
+  "goals": [
+    "By the end your child can name gases around us (air, the carbon dioxide in fizzy drinks, water vapour) and say what air is made of.",
+    "By the end your child can draw and explain the particle model for solids, liquids and gases, and use it to explain why gases can be squashed but solids cannot.",
+    "By the end your child can use a thermometer, record temperatures every two minutes in a table, draw a line graph, and state the melting point of ice (0 °C) and boiling point of pure water (100 °C).",
+    "By the end your child can explain evaporation and condensation with the particle model, say why they are reverse processes, and describe the water cycle.",
+    "By the end your child can explain dissolving, name the solute and solvent in a solution, sort solids into soluble and insoluble, and separate salt from salt water by evaporation.",
+    "By the end your child can name causes of air and water pollution in India and identify variables and safety risks in an investigation."
+  ],
+  "words": [
+    ["gas", "a state of matter with no fixed shape or size; it spreads out to fill any container, like air or steam"],
+    ["particle model", "the idea that all solids, liquids and gases are made of tiny moving particles; how close they are and how they move explains how each state behaves"],
+    ["compress", "to squash something into a smaller space; gases can be compressed because their particles are far apart"],
+    ["atmosphere", "the layer of air that surrounds the Earth"],
+    ["pollution", "harmful substances such as smoke, dust and gases (in air) or chemicals and waste (in water) that make the environment dirty and unsafe"],
+    ["melting point", "the temperature at which a solid turns into a liquid; for ice it is 0 °C"],
+    ["boiling point", "the temperature at which a liquid boils and turns into a gas all through; for pure water at sea level it is 100 °C"],
+    ["expand", "to get bigger and take up more space; most things expand when heated, but water also expands when it freezes"],
+    ["evaporation", "a liquid changing into a gas at its surface, like a puddle drying up"],
+    ["condensation", "a gas cooling and turning back into a liquid, like the drops on a cold glass of nimbu pani; the reverse of evaporation"],
+    ["solution", "a mixture made when a solid dissolves in a liquid and spreads evenly through it, like sugar in chai"],
+    ["solute / solvent", "the solute is the substance that dissolves (sugar, salt); the solvent is the liquid it dissolves in (water, tea)"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Is the empty bottle really empty?",
+      "goal": "Sort the things around us into solids, liquids and gases, and prove that invisible air is really there.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Kitchen states hunt",
+          "mins": 8,
+          "do": "Stand in the kitchen with your child and make three columns in the notebook: Solid, Liquid, Gas. Your child names as many things as they can and puts each in a column: steel tumbler, rice, atta, ghee (solid in winter, liquid in summer: ask about it!), oil, milk, water, the steam from the cooker, the LPG in the cylinder (a gas squashed so much it becomes liquid inside), the bubbles in a soda bottle, the smell of tadka. Ask: 'Which column was hardest to fill? Why?' (Gases, because most are invisible.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Getting started: Zara's party (unit opener)",
+          "mins": 10,
+          "do": "Open the first page of Unit 3, with the hot-air balloons and the 'We are going to' box, and read the box aloud. Then do 'Getting started' with the picture of Zara's birthday party. 1a and b: your child finds all the solids (cake, table, cups, candles), liquids (cold drinks, juice) and gases (air inside the balloons, the fizz in the drinks, the smoke or hot air from the candles) and writes three lists. 2: 'How did you decide?' Good answers: 'A solid keeps its own shape; a liquid flows and takes the shape of its container; a gas spreads out everywhere and you usually cannot see it.' Ask: 'Which of these does a hot-air balloon need?' (Hot air, a gas.)"
+        },
+        {
+          "kind": "read",
+          "title": "Gases around us (the page after the opener, numbered 57)",
+          "mins": 5,
+          "do": "Read 'Gases around us' aloud: gases are all around us, for example air; there are gases in fizzy drinks and inside bicycle and car tyres; we cannot see most gases because they are invisible, and we cannot smell or taste many of them. Ask: 'If we can't see air, how do we know it is there?' Let your child give ideas: wind moves leaves, a fan blows on us, a cycle tyre gets hard when pumped, a balloon swells."
+        },
+        {
+          "kind": "exp",
+          "title": "Where is the air? (Activity, page 57)",
+          "mins": 15,
+          "do": "Do the 'Where is the air?' activity. 1a: Hold up an empty plastic bottle with the lid off and ask, 'Is this bottle really empty? Is there anything inside?' 1b: Your child pushes it, mouth first, straight down into a bucket or big patila of water, then tilts it slowly. Watch the big bubbles glug out. Ask: 'What came out? Why could the water not get in until the bubbles left?' (Air was in the bottle, taking up space.) 2a: Blow into a paper bag or balloon. 2b: 'What is inside? How do you know?' (Air from our lungs; it takes up space and pushes the sides out.) Extra: stuff a dry tissue tightly into the bottom of a steel glass, turn it upside down and push it straight down into the water, then lift it straight out. Your child feels the tissue: still dry, because the trapped air kept the water out."
+        },
+        {
+          "kind": "talk",
+          "title": "What we learned about air (question 3)",
+          "mins": 7,
+          "do": "Do question 3: 'Talk about what you have learned about air from this activity.' Help your child make three sentences and write them: 'Air is all around us even when we cannot see it.' 'Air takes up space.' 'Air can be squashed into a balloon or a tyre, and it pushes back.' Then ask: 'Can you squash water into a smaller space? Try with a syringe or a plastic bottle full to the top with the lid on.' (Hardly at all.) 'And air?' (Yes, easily.) Tell them: 'Over the next days we will find out WHY, using particles.'"
+        }
+      ],
+      "need": ["the unit opener and the 'Gases around us' page", "an empty plastic bottle", "a bucket or big patila of water", "a balloon or paper bag", "a steel glass and a dry tissue", "a medical syringe without needle, if you have one", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Making a gas and the particle model",
+      "goal": "Make carbon dioxide gas by mixing vinegar and baking soda, and use the particle model to explain solids, liquids and gases.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Make a gas (Think like a scientist 1, page 58)",
+          "mins": 13,
+          "do": "Do Experiment e1. Pour about half a cup of vinegar (sirka) into a wide-mouthed jar. Your child adds one teaspoon of baking soda (meetha soda, sodium bicarbonate) and watches. Then do it a second time in a plastic bottle with a balloon stretched over the mouth: put the baking soda inside the balloon first with a funnel, fit the balloon on the bottle, then lift the balloon so the powder falls into the vinegar. Answer questions 1 and 2: vinegar is a liquid; bicarbonate of soda is a solid; the new substance that forms is a gas (carbon dioxide). Your child draws the jar, labels the liquid and the gas bubbles, and writes a sentence about what happened.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "The particle model of matter (page 59)",
+          "mins": 8,
+          "do": "Read page 59 aloud and look at the three particle pictures. Solids: particles very close together in a regular pattern; they cannot move freely, only vibrate in a fixed position; that is why bricks have a fixed shape and cannot be compressed. Liquids: particles close but further apart than in solids, not in a fixed pattern, so they can slide past one another; that is why water flows and takes the shape of its container. Gases: particles very far apart with big spaces, moving very fast in all directions; that is why air has no shape of its own. After each part, ask: 'So what can a solid NOT do? What can a liquid do that a solid cannot?'"
+        },
+        {
+          "kind": "act",
+          "title": "Be the particles",
+          "mins": 10,
+          "do": "Do Activity a1. Your child and two or three family members (or a pile of marbles or chana on a thali) act out each state. Solid: stand shoulder to shoulder in rows, arms linked, and only jiggle on the spot. Liquid: stay touching but unlink arms and slide around each other, and pour yourselves through a doorway. Gas: let go completely and move fast all over the room, bumping and bouncing off walls. Then say 'cool down!' and the 'gas' slows and huddles together into a 'liquid'. Ask: 'Which state had the most empty space? So which could be squashed into a box?' (The gas.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "do",
+          "title": "Describe solids, liquids and gases (Think like a scientist 2, page 60)",
+          "mins": 8,
+          "do": "Do Think like a scientist 2 on page 60. 1: your child draws the particle model for water, water vapour and ice in three boxes (ice: neat rows touching; water: touching but jumbled; water vapour: a few dots far apart with arrows). 2: in which state are the particles a) very close together (solid), b) very far apart (gas), c) moving fast in all directions (gas), d) close together but not in a fixed pattern (liquid)? 3: the particle model tells us how the particles are arranged and how they move in each state. 4: 'Why can we squash a gas but not a solid?' Good answer: 'In a gas there are big spaces between the particles, so they can be pushed closer; in a solid the particles are already touching.'"
+        },
+        {
+          "kind": "think",
+          "title": "Boltzmann and the particles no one could see",
+          "mins": 6,
+          "do": "Tell the story in Voice v1: about 120 years ago many leading scientists still refused to believe in particles too small to see, and Ludwig Boltzmann, who used them to explain how gases behave, had to argue for his ideas for years until experiments finally showed particles were real. Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Learner's Book pages 58–60", "vinegar, baking soda (meetha soda)", "a wide-mouthed jar, a plastic bottle, a balloon, a small funnel", "a teaspoon", "a thali of chana or marbles (optional)", "notebook"],
+      "prep": [{"task": "Buy a bottle of white vinegar and baking soda", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "The air we breathe, and how dirty it is",
+      "goal": "Learn what air is made of, understand air pollution in Indian cities and homes, and set up a three-day test to catch pollution.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Air (page 60)",
+          "mins": 7,
+          "do": "Read 'Air' on page 60 with the globe picture. Air is a mixture of gases: nitrogen makes up about four-fifths; oxygen, which we need to live; carbon dioxide, which we breathe out; and water vapour. The layer of air around the Earth is the atmosphere. Some gases, such as hydrogen and helium, are not found in air in any real amount (helium is the gas in floating party balloons). Draw a circle and colour four-fifths of it for nitrogen and nearly all the rest for oxygen; the carbon dioxide is a tiny sliver (less than one part in two thousand). Ask: 'If we need oxygen, why is most of the air nitrogen?' Accept ideas; tell them our bodies simply do not use the nitrogen and breathe it out again."
+        },
+        {
+          "kind": "read",
+          "title": "Air pollution (page 61)",
+          "mins": 8,
+          "do": "Read 'Air pollution' on page 61 and look at the smoggy city photo. People put smoke, dust and gases from factories, power stations, cars, trucks and aeroplanes into the air; this is pollution. Indoors too: cigarette smoke, cooking smoke, spray cans and paints. Polluted air can cause coughing, dizziness and headaches, and cigarette smoke can cause serious lung diseases. Make it Indian and real: show your child today's Air Quality Index (AQI) for your city on a phone weather app. Talk about Delhi's winter smog, crop-stubble burning, Diwali smoke, construction dust, and smoke from chulhas burning wood or dung, which harms many women and children in villages and is one reason the government gives LPG connections."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up: measure air pollution (Think like a scientist 3, page 62)",
+          "mins": 20,
+          "do": "Set up Experiment e2. Cut five pieces of clear plastic (from a plastic folder or a clean food box lid). On one side of each, mark a rectangle 4 cm long and 2 cm wide with a marker and a ruler, and label them A to E. Cover the marked area with a thin layer of petroleum jelly (Vaseline). Tape them up in five places: for example, next to the kitchen stove, inside a bedroom, on the balcony facing the road, on the compound wall near the gate, and near the society parking or a tree in the park. Your child predicts which will collect the most pollution and gives a reason. Fill in the 'Place it was put' column of the book's table on page 62 now. Leave them for three days.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Who makes our air dirty?",
+          "mins": 10,
+          "do": "Make a mind map called 'Air pollution near us'. Your child adds every source they can think of in your area, and next to each an idea to reduce it: auto-rickshaws and buses (CNG instead of diesel, electric vehicles), burning garbage (segregate and compost), construction dust (covering sites, sprinkling water), mosquito coils and agarbatti indoors (open a window), firecrackers (fewer, greener ones). Ask: 'Which of these could OUR family change this week?' Write one promise on the fridge."
+        }
+      ],
+      "need": ["Learner's Book pages 60–62", "5 pieces of clear plastic (old folder or box lid)", "petroleum jelly (Vaseline)", "marker, ruler, scissors, tape", "a phone with an AQI or weather app", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Water changes state: melting ice",
+      "goal": "Learn how water changes state when heated, and measure the temperature of water as ice melts in it, drawing a line graph.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: the kettle (page 64)",
+          "mins": 6,
+          "do": "Read the 'We are going to' box on page 64 and ask the 'Getting started' questions. 1: 'Have you boiled water for tea or to cook rice? What makes the water boil?' (Heat from the gas flame or induction.) 2: 'How do we know it is boiling?' (Big bubbles all through it, and steam.) 3: 'What is steam made from? Point to it in the picture.' (Water as a gas. Tell your child that true steam is invisible; the white cloud we see is tiny drops of water that have already cooled. Look closely at a kettle spout: there is a clear gap just above the spout before the white cloud.) 4: your child draws and labels water boiling in a pan: flame, bubbles, steam."
+        },
+        {
+          "kind": "read",
+          "title": "Water changes state, melting and boiling points (page 65)",
+          "mins": 7,
+          "do": "Read page 65 aloud. Water exists in all three states: ice (solid), the water we drink (liquid) and water vapour (gas). When solids like ice are heated, their particles gain energy, move more quickly and pull further apart, and the solid melts: solid + heat → liquid. If we heat water enough it boils, forming bubbles of steam, all through the liquid: liquid + heat → gas. Different substances melt and boil at different temperatures. We measure temperature with a thermometer, in degrees centigrade (°C, also called Celsius). Show your child your thermometer and how to read it at eye level."
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate ice melting (Think like a scientist 1, page 66)",
+          "mins": 25,
+          "do": "Do Experiment e3. You need a thermometer that reads from below 0 °C (a kitchen or aquarium thermometer, or a digital cooking probe; a fever thermometer will NOT work). Put the thermometer in a cup of tap water for two minutes and record the temperature at '0 minutes' in a table like the one on page 66. Take it out, add four or five ice cubes, stir with a spoon, put the thermometer back and record the temperature every two minutes until all the ice has melted. Your child reads the thermometer each time; you check. While waiting, ask them to predict what the temperature will do. Then draw a line graph: time in minutes along the bottom, temperature in °C up the side, a dot for each reading, joined with a ruler.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–5 (page 66)",
+          "mins": 7,
+          "do": "Ask questions 1–5 on page 66. 1a: The temperature dropped quickly and then stayed close to 0 °C while ice was still there. 1b: The ice took heat from the water to melt, and as long as ice is melting the mixture stays near 0 °C. 2a and b: from your table. 3: If the water were heated, the ice would melt faster. 4: 'Ice melts at the same temperature at which water freezes. Why?' (It is the same change, just going the other way, at 0 °C.) 5: The type of enquiry is observing over time (and pattern seeking). Read the speech bubble on page 67: water freezes at 0 °C, so the melting point of ice is the same as the freezing point of water."
+        }
+      ],
+      "need": ["Learner's Book pages 64–67", "a thermometer that reads below 0 °C (kitchen, aquarium or digital probe)", "a cup of water, 4–5 ice cubes, a spoon", "a timer", "squared paper, ruler, pencil"],
+      "prep": [{"task": "Make a tray of ice cubes and get a thermometer that reads below 0 °C", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Boiling point, and can we change it?",
+      "goal": "Measure the boiling point of water safely, find out why water does not always boil at 100 °C, and test whether salt changes the melting of ice.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Investigate the boiling point of water (Think like a scientist 3, page 68)",
+          "mins": 22,
+          "do": "Do Experiment e4. YOU heat the water; your child reads and records. Before starting, ask: 'What are the safety risks?' Good answers: burns from the flame, the hot pan or steam; spills; the thermometer touching the hot bottom. Agree on rules: your child stands back at arm's length, handles are turned inwards, only the adult holds the thermometer, using tongs or a clip. Put a small saucepan of room-temperature water on the stove, measure its temperature after two minutes, then heat it and record every two minutes until it boils, and for four more minutes after. Draw a line graph. Ask questions 1–4 on page 68: how long did it take; would less water boil faster (yes, less water needs less heat) but at the same temperature (yes); what are the bubbles (water vapour, a gas, forming inside the liquid); did we measure exactly 100 °C?",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Why doesn't water always boil at 100 °C? (page 69)",
+          "mins": 7,
+          "do": "Read the top of page 69 with the two thermometer drawings: pure water freezes at 0 °C and boils at 100 °C, but most of our water has small amounts of other substances mixed in, which makes it boil at a slightly different temperature; water also boils at a lower temperature higher above sea level. Read the speech bubble. Give Indian examples: in Leh, about 3,500 metres up, water boils at around 88 °C, so dal takes much longer to cook. A pressure cooker does the opposite: by trapping steam it raises the pressure, so the water boils at about 120 °C, and food cooks faster. Ask: 'Why do trekkers in the Himalayas carry pressure cookers?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Is the melting point of ice always the same? (Think like a scientist 2, page 67)",
+          "mins": 12,
+          "do": "Do Think like a scientist 2 on page 67 as a quick investigation and some research. Put an ice cube on each of two saucers. Sprinkle a teaspoon of salt on one. Watch for 10 minutes: which melts faster? Put the thermometer into the salty slush: it often reads below 0 °C. Then lay a piece of thread on an ice cube, sprinkle salt on top, wait one minute and lift the thread: the ice cube comes up with it, because salt melted the ice under the thread and it refroze. Explain: dissolved substances change the melting point; salty water freezes below 0 °C. That is why the sea freezes at a lower temperature than lakes, and why salt is spread on icy roads in cold countries and in places like Manali and Kashmir.",
+          "ref": "e3"
+        },
+        {
+          "kind": "exp",
+          "title": "Pollution cards: halfway look",
+          "mins": 4,
+          "do": "Visit the five pollution cards from Experiment e2 without touching the jelly. Ask: 'Can you already see specks on any of them? Which one?' Your child notes it in the notebook. Leave them one more day.",
+          "ref": "e2"
+        }
+      ],
+      "need": ["Learner's Book pages 67–69", "the thermometer, a small saucepan, the stove (adult only)", "tongs or a clip", "a timer, squared paper", "2 ice cubes, 2 saucers, salt, a thread"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Water expands when it freezes",
+      "goal": "Learn that substances expand when heated and contract when cooled, discover water's odd behaviour when it freezes, and read our pollution results.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Read the pollution cards (page 62–63)",
+          "mins": 13,
+          "do": "Finish Experiment e2. Carefully take down the five plastic pieces, put them in a box without touching the jelly, and look at each marked area with a hand lens or phone camera. Your child draws each one to show the amount of dirt, numbers them 1 (least) to 5 (most) and fills in the last column of the table on page 62. Then they draw a dot plot (as on page 63): the five places along the bottom and one dot for each 'level' of pollution, or for each speck counted in one square centimetre. Ask: 'Was your prediction correct? Which place had the most pollution? Which had least, and why?' (Often the road-facing balcony or the kitchen; a closed bedroom has least.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Water expands (page 69)",
+          "mins": 7,
+          "do": "Read 'Water expands' on page 69 and look at the two particle drawings. When a substance gains heat its particles move faster and spread out, so it takes up more space: it expands. When it cools, its particles slow down and move closer together, so it takes up less space: it contracts. Show it: fit a balloon over the mouth of an empty glass bottle, then stand the bottle in a bowl of hot water from the tap and watch the balloon lift; move it to cold water and watch it sag. Ask: 'What happened to the air particles in the bottle?' (They moved faster and spread out, pushing the balloon up.) Tell them that on hot days railway tracks expand, which is why small gaps are left between the rails."
+        },
+        {
+          "kind": "act",
+          "title": "Observe changes when water freezes (Activity, page 70)",
+          "mins": 7,
+          "do": "Start Activity a4. Half fill a plastic bottle with water and close the lid. Mark the water level with a marker. Your child predicts: 'Will the water expand or contract when it freezes?' Most children say contract, because the particle model says cold things shrink. Put it in the freezer overnight. Also fill a small plastic cup right to the brim with water and put it in the freezer next to it. Tomorrow you will look.",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "Mpemba's ice cream puzzle",
+          "mins": 7,
+          "do": "Tell the story in Voice v2: Erasto Mpemba, a schoolboy in Tanzania, noticed that his hot ice-cream mix froze before his classmates' cool mix, and his teacher laughed at him. Ask the voice question. Tell your child scientists still disagree about this today, and that they could test it themselves (with an adult's help) using two identical cups.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Solids, liquids, gases and water",
+          "mins": 11,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For any wrong answer go back to the page: particle model page 59, air page 60, melting and boiling pages 65–69. Let your child correct their own answer in a different colour.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 62–63 and 69–70", "the 5 pollution cards and a box", "hand lens or phone camera", "an empty glass bottle, a balloon, bowls of hot and cold tap water", "a plastic bottle with a lid and a small plastic cup", "a freezer", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Where does a puddle go? Evaporation",
+      "goal": "See that frozen water has expanded, learn what evaporation is, and set up a two-day test of evaporation in warm and cool places.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Frozen bottle results (page 70)",
+          "mins": 7,
+          "do": "Take the bottle and cup from Activity a4 out of the freezer. Ask: 'Is the ice above or below the line you drew? What happened to the cup that was full to the brim?' (The ice is above the line and bulges; the cup's ice has risen above the rim like a little dome.) Read the paragraph on page 70: water does not always behave like other substances; when it freezes it does not contract but expands, and this also allows ice to float. Drop an ice cube in a glass of water to show it floating. Explain: in ice the particles lock into an open pattern with gaps, taking about one-tenth more space than in liquid water. That is why water pipes in very cold places burst in winter, and why you should never freeze a full glass bottle.",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Getting started: the wet spot (page 71)",
+          "mins": 7,
+          "do": "Read the 'We are going to' box on page 71. Do 'Getting started': your child dips a finger in water and makes a wet spot on a paper towel or a piece of newspaper, then leaves it for a few minutes (put it near the window or under the fan). Answer the questions. 1: Is the paper wet or dry now? 2: What did we do to help get rid of the water? (Left it in warm or moving air.) 3: Where did the water go? (Into the air as water vapour.) 4: How is this useful to people? (Drying clothes, papad, pickles in the sun, salt pans, our sweat cooling us down.)"
+        },
+        {
+          "kind": "read",
+          "title": "Evaporation (page 72)",
+          "mins": 7,
+          "do": "Read 'Evaporation' on page 72 with the bowl drawing. When water or other liquids become warm enough they change into a gas; water changes into water vapour. When particles on the surface of a liquid change into a gas, we say the liquid evaporates. This happens all around us, like a puddle drying up or washing getting dry. Some particles in the liquid gain heat energy, move faster and further apart, and escape from the surface into the air: liquid + heat → gas. Point out the difference from boiling (Day 4): evaporation happens only at the surface and at any temperature; boiling happens all through the liquid at the boiling point."
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate evaporation (Think like a scientist 1, page 72)",
+          "mins": 14,
+          "do": "Set up Experiment e5. Measure exactly 100 ml of water into each of two identical glasses with a measuring cup. Mark the level on each with a permanent marker. Put one in a warm place (a sunny windowsill or the balcony) and the other in a cool place (a shady corner of a room, away from the fan). Your child predicts what the levels will be after two days and gives a reason. Ask: 'What must stay the same to make this fair?' (Same glasses, same amount of water, same starting day and time.) 'What are we changing?' (Warm or cool place.) 'What will we measure?' (How much water is left.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "do",
+          "title": "Why does a matka keep water cool?",
+          "mins": 10,
+          "do": "Feel the outside of a clay matka or surahi if you have one; it is slightly damp and cool. Explain: water seeps through tiny holes in the clay and evaporates from the outside. The fastest particles escape, taking heat energy with them, so the water left inside gets cooler. Test it: wrap a wet hanky round one steel glass of water and leave another glass dry, both under the fan, for 10 minutes, then compare with your thermometer. Ask: 'Why do we feel cold when we come out of a bath under a fan?' (The water on our skin is evaporating and taking heat from us.) This is why sweating cools us in summer."
+        }
+      ],
+      "need": ["Learner's Book pages 70–72", "the frozen bottle and cup from yesterday", "a paper towel or newspaper", "2 identical glasses, a measuring cup, a permanent marker", "a clay matka if you have one, 2 steel glasses, a hanky, the thermometer"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Condensation: water from thin air",
+      "goal": "Learn that condensation is the reverse of evaporation, investigate drops on a cold glass, finish the evaporation test and make a flow chart of changes of state.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Evaporation results (page 73, questions 1–4)",
+          "mins": 10,
+          "do": "Finish Experiment e5. Mark the new water levels on both glasses, then pour each back into the measuring cup to see exactly how much is left. Answer the questions on page 73. 1: Not the same. 2a: The cool glass had the most water, the warm glass the least. 2b: In the warm place more particles gained enough energy to escape from the surface. 3: To improve it: measure the water left with a measuring cup instead of just looking at the line, or repeat with more glasses, or record the temperature of each place. 4: Washing dries faster on a hot day because the water particles get more heat energy and evaporate faster (wind helps too).",
+          "ref": "e5"
+        },
+        {
+          "kind": "do",
+          "title": "Breathing out (Activity 1, page 73)",
+          "mins": 6,
+          "do": "Do Activity 1 on page 73. 1: Your child breathes onto their hand: warm or cold? (Warm.) 2a: Breathe onto a mirror or window: what do you see? (A misty patch that disappears.) 2b: Why? Read the paragraph beside the cold can: the air we breathe out is warm and contains water vapour; when it touches a cooler surface it cools down and the vapour changes to drops of liquid water. This is condensation, the reverse of evaporation. The particles lose energy, slow down and move closer together to become a liquid."
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate condensation (Think like a scientist 2, page 74)",
+          "mins": 15,
+          "do": "Do Think like a scientist 2 on page 74. Take two identical steel or glass tumblers. Fill one with tap water and the other with ice and water. Wipe the outside of both with a dry cloth. Leave them for 15 minutes and look. Your child makes labelled drawings. (The ice glass is covered in drops; you can even run a finger down and collect a drip.) Answer the questions: 1a: we observed whether drops formed (dependent variable); 1b: we kept the same glasses, amount of water, place and time (control variables); 1c: we changed the temperature of the glass (independent variable); 1d: yes, fair, because only one thing changed. 2: Water vapour in the air touched the cold glass, lost energy, slowed down and turned back to liquid. 3: Condensation is the reverse of evaporation because one turns liquid to gas by gaining heat and the other turns gas to liquid by losing heat. Ask: 'Did the water leak through the glass?' (No. The plain-water glass stayed dry, and if you add food colour to the ice water, the drops outside are still clear, so they came from the air.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "do",
+          "title": "Flow chart of changes of state (Activity 2, page 75)",
+          "mins": 9,
+          "do": "Do Activity 2 on page 75. Your child draws three boxes in a triangle: SOLID, LIQUID, GAS, and draws arrows between them labelled with the words in the box: melting (solid → liquid), freezing (liquid → solid), evaporation (liquid → gas), condensation (gas → liquid). Then for each of the four, they write 'heating' or 'cooling' on the arrow in red or blue: melting and evaporation need heating; freezing and condensation happen on cooling. Add an Indian example on each arrow: ghee melting in a hot pan, kulfi freezing, clothes drying, drops on the lid of the dal pot."
+        },
+        {
+          "kind": "talk",
+          "title": "Condensation hunt",
+          "mins": 5,
+          "do": "Ask your child to name three places at home where condensation happens: the inside of the lid when rice is cooking, the bathroom mirror after a hot bath, a cold bottle taken out of the fridge, the AC pipe dripping water outside, dew on grass on winter mornings. For each, ask: 'Where did the water vapour come from, and what cooled it?'"
+        }
+      ],
+      "need": ["Learner's Book pages 73–75", "the two evaporation glasses and the measuring cup", "a mirror", "2 identical tumblers, ice, water, a dry cloth", "notebook and coloured pens"],
+      "prep": [{"task": "Make plenty of ice", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "The water cycle, in a bowl and over India",
+      "goal": "Explain the water cycle using evaporation and condensation, build a working model of it in the sun, and hear about Anna Mani, who measured India's weather.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The water cycle (pages 75–76)",
+          "mins": 8,
+          "do": "Read 'The water cycle' on pages 75–76 with the big picture. Water keeps going round: from land and sea into the air and back again, mainly because of evaporation and condensation; freezing and melting can happen too. Rain, snow and hail that fall from clouds are called precipitation. Trace the cycle in the picture with your finger: the sun heats the sea, water evaporates, the vapour rises and cools, it condenses into tiny drops that make clouds, the drops join and fall as rain or as snow on the mountains, the snow melts and the rivers carry the water back to the sea. Link to India: the monsoon winds carry water vapour from the Arabian Sea and the Bay of Bengal, and the clouds drop rain when they rise over the Western Ghats and the Himalayas; Himalayan snow and glaciers melt to feed the Ganga and the Brahmaputra."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–7 (page 76)",
+          "mins": 8,
+          "do": "Ask questions 1–7 on page 76. 1a: the heat comes from the Sun; 1b: evaporation also happens from lakes, wet land, puddles and plant leaves. 2: Evaporated water goes up into the air as water vapour. 3a: When water vapour condenses it turns into tiny water drops; 3b: in the clouds. 4: As precipitation: rain, snow, hail. 5a: freezing happens high up in cold clouds and on mountain tops; 5b: melting happens when snow and ice on mountains warm up in spring. 6: your child fills the sentences: 'Water on the Earth's surface evaporates and moves up into the air as water vapour. The water vapour cools and condenses as it rises into the air. Rain, snow and hail are forms of precipitation that bring water back to the Earth's surface.' 7: The water cycle gives us fresh water to drink, grow food and live; without it, rain would never fall again."
+        },
+        {
+          "kind": "act",
+          "title": "Make a model of the water cycle (Think like a scientist 3, pages 76–77)",
+          "mins": 15,
+          "do": "Do Activity a2, based on Think like a scientist 3. Put a small steel katori in the middle of a big glass or clear plastic bowl. Pour water (with a pinch of salt and a drop of food colour to stand for the 'sea') into the bowl around the katori, about 1 cm deep, without splashing any into the katori. Cover the bowl tightly with cling film and seal it with a rubber band. Put a small stone on the cling film directly above the katori. Leave it in a warm, sunny place for a few hours (start this in the morning so you can see it by afternoon). Before leaving it, your child predicts what will happen.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Anna Mani, India's weather woman",
+          "mins": 7,
+          "do": "Tell the story in Voice v3: Anna Mani from Kerala worked with C.V. Raman and then at the India Meteorological Department, building instruments to measure rain, wind, sunshine and ozone all over India. Ask the voice question. Look at today's rainfall or weather forecast on a phone together and talk about who measured it and how.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Changes of state in daily life",
+          "mins": 7,
+          "do": "Do Worksheet ws2 (stretch) sections A and B now; do section C after looking at the water cycle model this afternoon. Encourage answers that use the words particles, energy, heating and cooling.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book pages 75–77", "a large glass or clear plastic bowl, a small katori", "cling film and a rubber band, a small stone", "water, salt, food colour", "a sunny place", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Where does the sugar go? Dissolving",
+      "goal": "Check the water cycle model, learn about dissolving, solutes and solvents, think about hidden water pollution, and decide which mixtures are solutions.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Water cycle model results",
+          "mins": 6,
+          "do": "Look at the Activity a2 bowl (from yesterday afternoon or this morning). Answer the questions on page 77. 1a: Drops formed on the underside of the cling film, ran down to the lowest point under the stone and dripped into the katori. 1b: The sun warmed the water, it evaporated, the vapour touched the cooler film and condensed into drops, which fell. Let your child taste a drop from the katori (it is clean water from the bowl): is it salty? (No; the salt stays behind.) 2: The salty water is the sea, the sun is the sun, the film is the cold upper air where clouds form, the drips are rain, the katori is a lake or a well.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Getting started: separating mixtures (page 78)",
+          "mins": 6,
+          "do": "Read the 'We are going to' box on page 78 and discuss 'Getting started': how could you separate each mixture? a) peanuts and raisins: pick them out by hand; b) sand and water: pour through a cloth or filter, or let the sand settle; c) rice and flour: shake through a sieve (chalni); d) tea leaves and water: pour through a tea strainer, as we do every morning; e) iron filings and rice: pull the iron out with a magnet. Ask: 'Now how would you separate the sugar from your chai?' Leave it as a puzzle."
+        },
+        {
+          "kind": "read",
+          "title": "Dissolving and solutions (page 79)",
+          "mins": 8,
+          "do": "Read 'Dissolving and solutions' on page 79 aloud. When you stir sugar into tea, it seems to disappear but you can still taste it: it has dissolved, meaning its particles have spread out into the spaces between the tea particles. Solids that dissolve are soluble; those that don't are insoluble. The mixture is a solution; the dissolved solid is the solute (sugar) and the liquid is the solvent (tea). Sea water is a solution: salt is the solute, water the solvent. Water is called the universal solvent because so many substances dissolve in it. Then read 'Water pollution' on pages 79–80: dissolved chemicals from factories, fertilisers and pesticides can pollute rivers, lakes and the sea, and we cannot see them; insoluble things like body waste, oil and plastics also pollute water. Talk about the Ganga and Yamuna clean-up efforts and the foam seen on the Yamuna in Delhi."
+        },
+        {
+          "kind": "exp",
+          "title": "Make a solution (Think like a scientist 1, page 81)",
+          "mins": 14,
+          "do": "Do Experiment e6. You handle the crystals. Use 2–3 crystals of potassium permanganate (sold at chemists as 'lal dawa' for washing fruit), or, as a safer swap, a few crystals of coloured rock sugar (mishri with food colour) or a spoonful of coloured jelly crystals. Measure 100 ml of water into a glass jar. Drop the crystals in without stirring and watch: purple streams fall and spread. Your child draws what they see at once, then after five minutes: can you still see the solid crystals? Then stir. Ask: 'Which is the solute? Which is the solvent?' (Crystals; water.) 'Which type of enquiry was this?' (Observing over time.) Read page 81: the solute particles move between the solvent particles and spread evenly, so a solution has a uniform appearance, the same throughout. Look at the particle picture of salt dissolving.",
+          "ref": "e6"
+        },
+        {
+          "kind": "talk",
+          "title": "Is it a solution? (Activity, page 82) and questions (page 80)",
+          "mins": 11,
+          "do": "Do the 'Is it a solution?' activity on page 82 with real cups: coffee in hot water, sand in water, flour (atta) in water, and Rasna or Tang powder in water. Stir each and let them stand for 3 minutes. 1: Coffee and the cold-drink powder are solutions (clear, same colour throughout, nothing settles); sand settles at the bottom and atta makes the water cloudy and slowly sinks, so they are not solutions. 2: Water is the solvent. 3: Coffee and cold-drink powder are soluble; sand and flour are insoluble. 4: Other solutions: nimbu pani, ORS, salt water for gargling, sharbat. Then ask questions 1–8 on page 80 quickly aloud: 6, 'Why can't we always see water pollution?' (Dissolved chemicals are invisible.)"
+        }
+      ],
+      "need": ["Learner's Book pages 77–82", "the water cycle model", "a glass jar, a measuring cup", "2–3 potassium permanganate crystals (or coloured mishri or jelly crystals)", "4 glasses: coffee powder, sand, atta, a cold-drink powder", "spoons"],
+      "prep": [{"task": "Buy a small packet of potassium permanganate from a chemist, or use coloured jelly crystals", "when": "2 days before"}]
+    },
+    {
+      "n": 11,
+      "title": "Getting the salt back, and evaporation at work",
+      "goal": "Plan and carry out a way to get solid salt back from salt water, ask our own dissolving question, and survey how people use evaporation.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Separating a solution (pages 83–84)",
+          "mins": 5,
+          "do": "Read 'Separating a solution' on page 83: a solution is a mixture of solute and solvent, and we can separate most mixtures because the particles are not chemically joined. Read the top of page 84: we can separate the dissolved solute by evaporation, so dissolving is a reversible process. Tell your child: most of the salt we eat comes from sea water. In Gujarat's Little Rann of Kutch, families of salt farmers called Agariyas pump salty underground water into flat pans and let the sun evaporate it for months, and in Tamil Nadu (around Thoothukudi) sea water is used. Gandhiji's Salt March to Dandi in 1930 was about the right of Indians to make salt this way."
+        },
+        {
+          "kind": "exp",
+          "title": "How can we get back the salt? (Think like a scientist 2, page 83)",
+          "mins": 15,
+          "do": "Do Experiment e7, based on Think like a scientist 2. First your child plans, answering the book's questions: What materials will you need? (Salt, water, a shallow dark plate or steel thali, a spoon.) Which type of enquiry? (Observing over time.) What will you do? Where will you set it up? (A sunny, safe spot.) How long must you leave it? (A day or two in sun.) Then: dissolve two teaspoons of salt in half a cup of warm water until it disappears; pour a thin layer into the plate and put it in the sun. To get quicker results (question 3), an adult can also heat a few spoons of the solution in a steel ladle over a low flame until white salt crusts appear. Your child draws the set-up today and the results when the water has gone.",
+          "ref": "e7"
+        },
+        {
+          "kind": "do",
+          "title": "Ask and investigate a question (Think like a scientist 3, page 84)",
+          "mins": 12,
+          "do": "Do Think like a scientist 3 on page 84. Your child thinks of a question about dissolving, decides the type of enquiry, and finds the answer. A good fair-test question: 'Does sugar dissolve faster in hot water or cold water?' Use two identical glasses, 100 ml each of cold water from the matka and warm (not boiling) water, and one teaspoon of sugar in each, stirred the same number of times; time how long until no crystals are seen. Other questions: 'Does stirring make salt dissolve faster?' 'How many spoons of sugar can 100 ml of water dissolve?' 'Does oil dissolve in water?' (Research or test: no, it floats.) Your child presents the answer to the family in one minute."
+        },
+        {
+          "kind": "act",
+          "title": "Project: How do people use evaporation? (page 85)",
+          "mins": 13,
+          "do": "Start Activity a3. Step 1 and 2: brainstorm ways people use evaporation: drying washing, drying papad, vadi and mango pickle in the sun, drying red chillies and turmeric, salt pans, the matka and desert cooler, drying hair, sweat, drying wet floors after mopping, drying grain after harvest. Step 3: make a data sheet like the one on page 85 ('Do you use evaporation in any of these ways? Yes / No') with 5–8 rows and ask ten people of different ages, women and men (family, neighbours, relatives by phone); add new uses they mention. Finish Steps 4 and 5 (a bar chart and a short report with Aim, Method, Results, Conclusion, Evaluation) before the last day.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Learner's Book pages 83–85", "salt, warm water, a shallow dark plate or thali, spoons", "a steel ladle and the stove (adult only), optional", "2 identical glasses, sugar, cold and warm water, a timer", "paper for the data sheet"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Check your progress and teach it back",
+      "goal": "See the salt we recovered, review the unit with the book's Check your progress, try the challenge sheet and teach the unit back.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The salt is back",
+          "mins": 5,
+          "do": "Look at the plate from Experiment e7. The water has gone and white salt crystals are left. Your child scrapes some together with a spoon, looks at the crystal shapes with a hand lens (tiny cubes), and finishes questions 1 and 2 on page 83: 'A solution is a mixture because we got the salt back; it was not destroyed.' 'I found out that it was possible to separate a solid from a liquid by evaporation.' Ask: 'Where did the water go?' (Into the air as water vapour.)",
+          "ref": "e7"
+        },
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 86–87)",
+          "mins": 12,
+          "do": "Work through Check your progress on pages 86–87. 1: the diagram is a gas, because the particles are far apart with big spaces. 2a: ice, water, water vapour (steam); 2b: 100 °C; 2c: 0 °C. 3: a evaporation, b condensation, c melting, d freezing, e boiling. 4: Sofia's bathroom: a the mist was tiny drops of water (condensed vapour); b the drops on the mirror were liquid water; c condensation; d warm, wet air from the hot bath touched the cold mirror, cooled and turned back to liquid. 5: jelly: a the jelly powder is the solute; b the hot water is the solvent; c it is a mixture of two substances that are not chemically joined; d the powder has dissolved and its particles have spread evenly through the water; e a drawing with two kinds of dots evenly mixed."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Thinking with particles",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). Read each question aloud and talk it through before writing. The best answers use the particle model. For the steel tumbler question listen for: 'Run hot water over the outer tumbler; it expands more than the cold inner one and loosens.'",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 7,
+          "do": "Ask the 8 check questions aloud without the book. Tick each one answered well. For any missed answer open the right page (particle model page 59, melting and boiling pages 65–69, evaporation and condensation pages 72–74, water cycle page 75, solutions page 79) and look together for a minute, then ask again in different words. Six or more is good; fewer than five means repeat Days 2 and 8 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 11,
+          "do": "Your child is the teacher. Using the flow chart of changes of state, the line graphs, the water cycle bowl and the recovered salt, they teach you in 6 minutes: the particle model for solids, liquids and gases; what happens to particles when water melts, boils, evaporates and condenses; and what a solution is and how to get the solute back. Then they present the evaporation survey and bar chart from Activity a3. Ask two 'student' questions: 'Why does a cold bottle get wet outside?' and 'Has the sugar in my chai disappeared?'",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Learner's Book pages 83 and 86–87", "the salt plate, a hand lens", "worksheet ws3", "the flow chart, graphs, water cycle model and project from the unit"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Solids, liquids, gases and water",
+      "day": 6,
+      "sections": [
+        ["A. States and particles", [
+          {"t": "match", "p": "Match each state to its particles.", "pairs": [["Solid", "Packed close in a regular pattern, only vibrate in place"], ["Liquid", "Close together but can slide past each other"], ["Gas", "Far apart, moving fast in all directions"]]},
+          {"t": "sort", "p": "Sort these.", "items": ["Ice", "Steam", "Ghee on a cold day", "Milk", "Air in a cycle tyre", "Brick", "Coconut oil in summer", "Bubbles in soda"], "cats": ["Solid", "Liquid", "Gas"]},
+          {"t": "mcq", "p": "We can squash air into a tyre but not a brick because:", "opts": ["Air is lighter", "Air particles have big spaces between them", "Bricks are hot", "Air has no particles"], "a": 1}
+        ]],
+        ["B. Air", [
+          {"t": "fill", "p": "About four-fifths of the air is a gas called ____.", "a": ["nitrogen"]},
+          {"t": "fill", "p": "The layer of air around the Earth is called the ____.", "a": ["atmosphere"]},
+          {"t": "write", "p": "Name two causes of air pollution in Indian cities and one way to reduce each.", "lines": 3}
+        ]],
+        ["C. Water and temperature", [
+          {"t": "fill", "p": "The melting point of ice is ____ °C.", "a": ["0", "zero"]},
+          {"t": "fill", "p": "Pure water at sea level boils at ____ °C.", "a": ["100"]},
+          {"t": "mcq", "p": "When water freezes it:", "opts": ["Contracts", "Expands", "Stays exactly the same size", "Turns into a gas"], "a": 1},
+          {"t": "table", "p": "Copy your ice-melting results.", "cols": ["Time in minutes", "Water temperature in °C"], "rows": 6, "prefill": ["0", "2", "4", "6", "8", "10"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Changes of state in daily life",
+      "day": 9,
+      "sections": [
+        ["A. Name the change", [
+          {"t": "match", "p": "Match each event to the change of state.", "pairs": [["Kulfi set in the freezer", "Freezing"], ["Papad drying in the sun", "Evaporation"], ["Drops inside the lid of the rice pot", "Condensation"], ["Ghee going runny in a hot kadhai", "Melting"], ["Bubbles all through a pan of water at 100 °C", "Boiling"]]},
+          {"t": "sort", "p": "Does each change need heating or cooling?", "items": ["Melting", "Freezing", "Evaporation", "Condensation", "Boiling"], "cats": ["Heating", "Cooling"]}
+        ]],
+        ["B. Explain it", [
+          {"t": "write", "p": "Meena's dal takes much longer to cook in Leh than in Chennai. Explain why, and how a pressure cooker helps.", "lines": 4},
+          {"t": "write", "p": "Why does the outside of a matka feel cool and slightly wet?", "lines": 3},
+          {"t": "mcq", "p": "Which clothes line will dry clothes fastest?", "opts": ["Indoors, no fan, humid day", "Outdoors, sunny and windy", "Outdoors, cloudy and still", "In a cupboard"], "a": 1}
+        ]],
+        ["C. The water cycle model", [
+          {"t": "draw", "p": "Draw your water cycle bowl. Label: sea, sun's heat, evaporation, condensation, rain, lake. Add arrows."},
+          {"t": "write", "p": "Why was the water in the katori not salty?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking with particles",
+      "day": 12,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Two steel tumblers are stuck one inside the other. Using what you know about expanding and contracting, how could you get them apart without breaking them?", "lines": 4},
+          {"t": "write", "p": "In the ice-melting test, the temperature stayed near 0 °C for several minutes even though the room was warm. Where was the heat from the room going?", "lines": 3},
+          {"t": "mcq", "p": "A lake in Kashmir freezes in winter. The fish survive because:", "opts": ["Ice sinks and fills the lake", "Ice floats and forms a lid, leaving liquid water below", "Fish can live inside ice", "Water never freezes"], "a": 1}
+        ]],
+        ["B. Plan it", [
+          {"t": "write", "p": "Plan a fair test to find out whether salt dissolves faster in hot or cold water. Write what you change, what you measure, what you keep the same, and one safety rule.", "lines": 5},
+          {"t": "write", "p": "River water looks clear but a factory is upstream. Why might it still be unsafe to drink? How could scientists find out?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Mpemba said hot ice-cream mix froze faster than cool mix. Some careful experiments found it does; others found it does not. Why might different scientists get different results? What would you need to keep the same?", "lines": 4},
+          {"t": "write", "p": "Boltzmann believed in particles before anyone could see them. Is it good science to believe in something invisible? What made it reasonable in his case?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Make a gas (Think like a scientist 1, page 58)",
+      "day": 2,
+      "question": "What happens when vinegar and baking soda are mixed, and is the new substance a solid, liquid or gas?",
+      "need": ["white vinegar (about 1 cup)", "baking soda (meetha soda)", "a wide-mouthed jar", "a plastic bottle and a balloon", "a small funnel", "a teaspoon", "a tray to catch spills"],
+      "steps": [
+        "Stand the jar on a tray. Pour about half a cup of vinegar into it.",
+        "Add one teaspoon of baking soda and watch closely.",
+        "Hold a lit match or agarbatti stick (adult only) just inside the top of the jar after the fizzing; watch whether the flame goes out.",
+        "For the balloon test: pour half a cup of vinegar into the plastic bottle.",
+        "Using the funnel, put two teaspoons of baking soda inside the balloon.",
+        "Stretch the balloon over the bottle's mouth without letting the powder fall in, then lift the balloon so the powder drops into the vinegar.",
+        "Watch the balloon and draw what happens."
+      ],
+      "predict": "Ask your child to guess first: what will happen when the powder meets the vinegar? Will anything new be made? Will the balloon change?",
+      "observe": "Lots of fizzing and bubbles that rise and pop; the jar gets slightly cold; a flame held in the jar goes out; the balloon slowly blows up.",
+      "why": "Vinegar contains an acid (acetic acid), and baking soda is sodium bicarbonate. When they meet they react, which means their particles rearrange to make new substances, one of which is carbon dioxide gas. The gas forms as bubbles in the liquid, escapes from the surface, and fills the jar or the balloon, pushing the rubber outwards because gas particles move fast and push on every wall. Carbon dioxide is heavier than air and does not let things burn, so it pushes the air out of the jar and puts out the flame. The same gas makes idli and dhokla batter rise (dhokla often uses soda and lemon or 'fruit salt'), and makes the fizz in soda drinks.",
+      "safety": "Vinegar stings eyes: keep faces back and wash hands after. Only an adult lights and holds the match; keep it away from hair and clothes.",
+      "time": "13 min"
+    },
+    {
+      "id": "e2",
+      "title": "Measure air pollution (Think like a scientist 3, pages 62–63)",
+      "day": 3,
+      "question": "Which places around our home have the most dust and dirt in the air?",
+      "need": ["5 pieces of clear or white plastic (about 8 cm × 6 cm)", "petroleum jelly", "a marker, ruler, scissors and tape", "a box", "a hand lens or phone camera"],
+      "steps": [
+        "On one side of each plastic piece, draw a rectangle 4 cm long and 2 cm wide. Label the pieces A to E.",
+        "Spread a thin layer of petroleum jelly over the rectangle.",
+        "Tape the pieces in five different places, for example: near the kitchen stove, in a closed bedroom, on a road-facing balcony, on the compound wall near the gate, near trees in a park.",
+        "Write a prediction of which place will have the most pollution and why.",
+        "Leave them for three days. Do not touch the jelly.",
+        "Collect them carefully in a box, look at each with a lens and draw what you see.",
+        "Number them 1 (least pollution) to 5 (most) and record in the table, then draw a dot plot."
+      ],
+      "predict": "Ask your child to guess first: which card will be dirtiest? Which will be cleanest? Why?",
+      "observe": "The number and colour of specks stuck in each rectangle. Road-facing and kitchen cards usually have the most black or grey specks; closed indoor rooms have least.",
+      "why": "Air carries tiny solid bits called particulate matter: soot from vehicles, chulhas and burning garbage, dust from roads and building sites, ash, pollen. They are so small that they float in the air for a long time, and the sticky jelly traps those that land on it. Places near traffic, cooking smoke or dusty roads have more of these bits in the air. The smallest ones, under 2.5 thousandths of a millimetre across (called PM2.5), are too small to see even on our cards, but they are the most harmful because they get deep into our lungs. That is what the AQI number on the phone mostly measures.",
+      "safety": "Place cards only where your child can reach safely; do not lean over balcony edges. Wash hands after handling the jelly.",
+      "time": "20 min to set up + 13 min to read after 3 days"
+    },
+    {
+      "id": "e3",
+      "title": "Investigate ice melting (Think like a scientist 1, page 66)",
+      "day": 4,
+      "question": "What happens to the temperature of water while ice melts in it?",
+      "need": ["a thermometer that reads below 0 °C", "a cup of tap water", "4–5 ice cubes", "a spoon", "a timer", "squared paper, ruler", "for the extra test: 2 more ice cubes, 2 saucers, salt, thread"],
+      "steps": [
+        "Put the thermometer in the cup of water. Wait two minutes.",
+        "Read the temperature at eye level and record it at 0 minutes in a table (Time in minutes / Water temperature in °C).",
+        "Take out the thermometer, add the ice cubes and stir.",
+        "Put the thermometer back and record the temperature every two minutes until all the ice has melted.",
+        "Draw a line graph of the results.",
+        "Extra (Day 5): put an ice cube on each of two saucers, sprinkle salt on one, and compare how fast they melt; measure the temperature of the salty slush."
+      ],
+      "predict": "Ask your child to guess first: will the temperature keep falling, stay the same, or rise while the ice melts? What will it be when all the ice has gone?",
+      "observe": "The temperature drops quickly to near 0 °C (often 1–3 °C with a home thermometer), stays there while ice remains, and only begins to rise after all the ice has melted. The salted ice melts faster, and the salty slush can read below 0 °C.",
+      "why": "To melt, ice must take in heat energy, which shakes its particles free from their fixed pattern. The ice takes this heat from the water around it, which cools the water. While ice is melting, all the heat that arrives is used for breaking the ice's pattern, not for warming up, so the mixture stays near 0 °C, the melting point. Only when all the ice has gone can the water warm up towards room temperature. Salt dissolving in the thin film of water on the ice gets in the way of water particles locking back into ice, so salty water needs to be colder than 0 °C to freeze. That is why salted ice melts faster, and why sea water freezes at about −2 °C.",
+      "safety": "Use a thermometer without mercury (red alcohol or digital). Do not taste the salty slush after handling.",
+      "time": "25 min, plus 12 min salt test on Day 5"
+    },
+    {
+      "id": "e4",
+      "title": "Investigate the boiling point of water (Think like a scientist 3, page 68)",
+      "day": 5,
+      "question": "At what temperature does water boil, and what happens to the temperature after it starts boiling?",
+      "need": ["a thermometer that reads to at least 110 °C (a cooking or candy thermometer)", "a small steel saucepan", "water at room temperature", "a stove (adult only)", "tongs or a clip", "a timer", "squared paper"],
+      "steps": [
+        "Talk about the safety risks first and agree rules: the child stands back; handles turned in; only the adult touches the pan and thermometer.",
+        "Put water in the saucepan and measure its temperature after two minutes. Record it.",
+        "The adult heats the pan. Hold the thermometer in the water with the clip so it does not touch the bottom.",
+        "Record the temperature every two minutes until the water boils.",
+        "Keep recording every two minutes for four more minutes after boiling starts.",
+        "Turn off the heat. Draw a line graph of the results."
+      ],
+      "predict": "Ask your child to guess first: what temperature will boiling water reach? If we keep heating after it boils, will the temperature keep going up?",
+      "observe": "The temperature rises steadily, then big bubbles form all through the water at close to 100 °C (often 97–100 °C at home), and it then stays at about that temperature, even though the flame is still on.",
+      "why": "As the water heats, its particles move faster. At the boiling point, particles throughout the liquid have enough energy to break away from each other and form bubbles of water vapour inside the liquid. From then on, the extra heat from the flame is used to turn liquid into gas, not to make the water hotter, so the temperature stays flat on the graph. The bubbles are water vapour, not air. Tap water with dissolved salts boils very slightly above 100 °C; at high places like Leh, the air pressing down on the water is less, so particles escape more easily and water boils lower, around 88 °C. Inside a pressure cooker the trapped steam pushes harder on the water, so it boils near 120 °C.",
+      "safety": "Only an adult handles the pan, flame and thermometer. Keep the child at arm's length. Steam burns as badly as boiling water.",
+      "time": "22 min"
+    },
+    {
+      "id": "e5",
+      "title": "Evaporation and condensation tests (Think like a scientist 1 and 2, pages 72–74)",
+      "day": 7,
+      "question": "Does water evaporate faster in a warm place than a cool place? And what makes drops appear on a cold glass?",
+      "need": ["2 identical glasses", "a measuring cup", "a permanent marker", "a warm sunny spot and a cool shady spot", "for condensation: 2 identical tumblers, ice, water, a dry cloth"],
+      "steps": [
+        "Pour exactly 100 ml of water into each glass and mark the level.",
+        "Put one glass in a warm place and the other in a cool place. Predict and write down what will happen.",
+        "After two days, mark the new levels and pour each back into the measuring cup to measure what is left.",
+        "For condensation: fill one tumbler with tap water and the other with ice and water.",
+        "Wipe the outsides dry with a cloth and leave both for 15 minutes.",
+        "Draw and label what you see on each."
+      ],
+      "predict": "Ask your child to guess first: which glass will lose more water? Will drops appear on both tumblers or just one? Where will the drops come from?",
+      "observe": "The warm glass loses more water than the cool glass (how much depends on the weather; in a hot Indian summer it can be 10–20 ml in two days). Drops form only on the ice tumbler, starting within a few minutes.",
+      "why": "In a liquid, particles are always moving at different speeds. The fastest ones at the surface can escape into the air as vapour: that is evaporation. Warmth gives more particles enough energy to escape, so the warm glass loses water faster; wind and dry air also help by carrying the vapour away. Air always holds some invisible water vapour. When it touches the very cold surface of the ice tumbler, the vapour particles lose energy, slow down and come close together, turning back into liquid drops: condensation. Evaporation needs heat and turns liquid to gas; condensation gives out heat and turns gas to liquid, so they are reverse processes.",
+      "safety": "Wipe up any drips so no one slips.",
+      "time": "14 min to set up + 10 min after 2 days; condensation 15 min"
+    },
+    {
+      "id": "e6",
+      "title": "Make a solution (Think like a scientist 1, page 81)",
+      "day": 10,
+      "question": "What happens to solid crystals when they are put into water?",
+      "need": ["a clear glass jar", "a measuring cup and water", "2–3 crystals of potassium permanganate, or coloured mishri or jelly crystals", "tweezers or a folded paper to drop them", "a teaspoon", "a watch"],
+      "steps": [
+        "Measure 100 ml of water into the jar and let it become still.",
+        "The adult drops 2–3 crystals in with tweezers. Do not stir.",
+        "Watch for one minute and describe the water around the crystals.",
+        "Draw and label what you see.",
+        "Wait five minutes. Can you still see solid crystals?",
+        "Stir gently and look again. Is the colour the same all through?",
+        "Name the solute and the solvent."
+      ],
+      "predict": "Ask your child to guess first: will the crystals stay as they are, sink and disappear, or float? Will the colour stay in one place?",
+      "observe": "Coloured streams fall and spread from the crystals; after a few minutes the crystals have gone and the colour spreads through the water. After stirring, the colour is even all through: a uniform appearance.",
+      "why": "Water particles are always moving and bumping. They pull particles off the surface of the crystal one by one, and those particles move off into the spaces between the water particles. Gradually every bit of the crystal is pulled apart this way, so the solid seems to vanish, but its particles are still there, spread among the water particles, which is why we still see the colour (and taste sugar in chai). Stirring speeds up the spreading. A solution looks the same throughout because the solute particles are spread evenly and are far too small to see. A tiny amount of potassium permanganate colours a lot of water, showing how many particles even one crystal contains.",
+      "safety": "Potassium permanganate stains skin and clothes and is harmful if swallowed: only an adult handles the crystals, and nobody tastes the solution. Pour it away down the sink afterwards with plenty of water.",
+      "time": "14 min"
+    },
+    {
+      "id": "e7",
+      "title": "How can we get back the salt? (Think like a scientist 2, page 83)",
+      "day": 11,
+      "question": "Can we separate dissolved salt from water?",
+      "need": ["2 teaspoons of salt", "half a cup of warm water", "a spoon", "a shallow dark plate or steel thali", "a sunny place", "optional: a steel ladle and the stove (adult only)", "a hand lens"],
+      "steps": [
+        "Plan the investigation using the questions on page 83: materials, type of enquiry, steps, place, time.",
+        "Stir the salt into the warm water until no crystals can be seen.",
+        "Pour a thin layer of the salt water into the plate.",
+        "Put the plate in a sunny, safe place and leave it for a day or two.",
+        "Optional, faster: an adult heats 3–4 spoonfuls in a steel ladle over a low flame until white crusts appear.",
+        "When the water has gone, look at what is left with a hand lens and draw it."
+      ],
+      "predict": "Ask your child to guess first: when the water is gone, will the salt be gone too, or will it be left behind? Where will the water go?",
+      "observe": "A white crust of salt crystals on the plate, often in tiny cube shapes, once all the water has evaporated.",
+      "why": "Dissolving did not destroy the salt; its particles were only spread among the water particles. Evaporation takes the water particles away into the air as vapour, but salt particles cannot evaporate at these temperatures, so they are left behind and join up again into crystals. This shows that a solution is a mixture and dissolving is a reversible change. Salt pans in Gujarat and Tamil Nadu do exactly this on a giant scale, using the sun's heat over weeks.",
+      "safety": "Only an adult uses the stove and hot ladle; hot salt can spit. Do not eat salt from the experiment plate.",
+      "time": "15 min + 1–2 days in the sun"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Be the particles",
+      "day": 2,
+      "mins": 10,
+      "need": ["2–4 people, or a thali of chana or marbles", "an open space in the room"],
+      "steps": [
+        "Solid: stand shoulder to shoulder in rows with arms linked and only jiggle on the spot.",
+        "Try to push the 'solid' smaller: it cannot squash.",
+        "Liquid: unlink arms but stay touching; slide around each other and 'pour' through a doorway.",
+        "Gas: let go and move fast all over the room, bouncing off walls.",
+        "Call 'cool down!': the gas slows and huddles into a liquid; 'freeze!': it locks into a solid.",
+        "With chana on a thali: pack them tight (solid), tilt and let them slide (liquid), shake hard so they bounce everywhere (gas)."
+      ],
+      "outcome": "Your child can show with their body how particles are arranged and move in each state, and why only gases can be squashed."
+    },
+    {
+      "id": "a2",
+      "title": "Water cycle in a bowl (Think like a scientist 3, pages 76–77)",
+      "day": 9,
+      "mins": 15,
+      "need": ["a large glass or clear plastic bowl", "a small steel katori", "cling film and a rubber band", "a small stone", "water with a pinch of salt and food colour"],
+      "steps": [
+        "Put the katori in the middle of the bowl.",
+        "Pour coloured, slightly salty water into the bowl around it, about 1 cm deep, without splashing into the katori.",
+        "Cover tightly with cling film and seal with the rubber band.",
+        "Put the stone on the film right above the katori.",
+        "Leave in a warm, sunny place for a few hours.",
+        "Observe the drops on the film and in the katori; taste a drop from the katori."
+      ],
+      "outcome": "A working model in which water evaporates, condenses on the 'sky' and 'rains' clean, unsalted water into the katori, showing evaporation, condensation and precipitation."
+    },
+    {
+      "id": "a3",
+      "title": "How do people use evaporation? (Project, page 85)",
+      "day": 11,
+      "mins": 13,
+      "need": ["paper for a data sheet", "a pencil", "ten people of different ages to ask", "squared paper for a bar chart", "a phone camera (optional)"],
+      "steps": [
+        "Brainstorm ways people use evaporation and list them.",
+        "Make a data sheet with 5–8 uses and Yes/No columns, like page 85.",
+        "Ask ten people of different ages, women and men; add uses they mention.",
+        "Take photos of evaporation in use (washing line, papad drying, matka) if you can.",
+        "Draw a bar chart of how many people use evaporation in each way.",
+        "Write a report with the headings Aim, Method, Results, Conclusion, Evaluation."
+      ],
+      "outcome": "A short report with a data sheet and bar chart showing how families around you use evaporation, and one idea for improving the survey."
+    },
+    {
+      "id": "a4",
+      "title": "Observe changes when water freezes (Activity, page 70)",
+      "day": 6,
+      "mins": 7,
+      "need": ["a plastic bottle with a lid", "a small plastic cup", "water", "a marker", "a freezer"],
+      "steps": [
+        "Half fill the bottle with water, close the lid and mark the water level.",
+        "Fill the plastic cup right to the brim.",
+        "Predict: will the water expand or contract when it freezes? Why?",
+        "Put both in the freezer overnight.",
+        "Next day, compare the ice level with the mark and look at the cup.",
+        "Drop an ice cube in water and see whether it floats."
+      ],
+      "outcome": "Evidence that water expands when it freezes (ice above the mark, a dome on the cup) and that ice floats, which surprises most children who expect cold things to shrink."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Ludwig Boltzmann (1844–1906), Austria",
+      "idea": "Boltzmann explained the behaviour of gases, such as their pressure and temperature, by imagining them as huge numbers of tiny particles (atoms and molecules) rushing about and colliding, and used mathematics to link the particles' motion to what we measure. This is the 'gases' part of the particle model in your book.",
+      "then": "Around 1900 several powerful scientists, including the physicist Ernst Mach and the chemist Wilhelm Ostwald, argued that atoms were only a useful story, because no one could see them, and they strongly opposed Boltzmann's approach. The long arguments troubled him greatly.",
+      "now": "In 1905 Albert Einstein explained the jiggling of tiny grains in water (Brownian motion) as being caused by invisible water particles hitting them, and in 1908 Jean Perrin's experiments confirmed it and measured how big the particles must be. After that, nearly all scientists accepted that atoms and molecules are real. Today we can even make images of single atoms. Boltzmann's ideas are a foundation of physics and chemistry.",
+      "status": "accepted",
+      "ask": "No one in 1900 could see a particle. What kind of evidence could convince you that something too small to see is real?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Erasto Mpemba (1950–2023), Tanzania, and the 'Mpemba effect'",
+      "idea": "In 1963, as a schoolboy, Mpemba noticed that his hot ice-cream mix, put into the freezer before it had cooled, froze before his classmates' cooler mix. He kept testing it and asked a visiting physicist, Denis Osborne, who tried it in his lab; they published a paper together in 1969 saying that under some conditions hot water can freeze faster than cold.",
+      "then": "His teacher and classmates laughed at him and said it was impossible. After the 1969 paper, many scientists became interested and tried to repeat it, with mixed results. Some noted that Aristotle and Francis Bacon had described something similar centuries earlier.",
+      "now": "Still debated. Some experiments report the effect, with suggested causes such as faster evaporation from hot water, dissolved gases, or how the container sits in the freezer. Other carefully controlled studies, such as one in 2016, found no real effect once everything else was kept the same. Scientists agree the result depends strongly on the exact conditions.",
+      "status": "debated",
+      "ask": "If you wanted to test Mpemba's claim at home, what would you need to keep exactly the same in the two cups? Why might two families get different answers?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Anna Mani (1918–2001), India",
+      "idea": "Anna Mani, from Kerala, did research on the light given off by diamonds and rubies under C.V. Raman in Bengaluru, then trained in weather instruments in England. At the India Meteorological Department from 1948 she led work to design and make weather instruments in India instead of importing them, for measuring rainfall, wind, temperature and sunshine, and she built an instrument (an ozonesonde) to measure the ozone layer high in the atmosphere. She later surveyed wind and solar energy across India.",
+      "then": "Although her research for a PhD was done, she was not awarded the degree, reportedly because she lacked a formal master's degree. As a woman in Indian science in the 1940s and 1950s she worked in a field almost entirely made up of men.",
+      "now": "Her instruments and the weather network she helped build are part of how India measures the monsoon and the water cycle. She rose to become a Deputy Director General of the department and is now widely honoured as a pioneer of Indian meteorology.",
+      "status": "accepted",
+      "ask": "Weather forecasts depend on thousands of measurements. Why do you think Anna Mani wanted India to make its own instruments? What could go wrong if the instruments were not accurate?",
+      "day": 9
+    }
+  ],
+  "check": [
+    {"q": "How are the particles arranged in a solid, a liquid and a gas?", "a": "Solid: very close together in a regular pattern, only vibrating in place. Liquid: close together but not in a fixed pattern, able to slide past each other. Gas: far apart with big spaces, moving fast in all directions."},
+    {"q": "Why can you squash the air in a syringe but not a block of wood?", "a": "Gas particles have big spaces between them, so they can be pushed closer together; the particles in a solid are already touching."},
+    {"q": "What is air made of?", "a": "A mixture of gases: about four-fifths nitrogen, most of the rest oxygen, and small amounts of carbon dioxide, water vapour and other gases."},
+    {"q": "What are the melting point of ice and the boiling point of pure water? Why might water boil at a different temperature?", "a": "0 °C and 100 °C. Water with substances dissolved in it boils at a slightly different temperature, and water boils at a lower temperature high above sea level, such as in Leh."},
+    {"q": "Why does a puddle dry up faster on a hot day?", "a": "The heat gives water particles at the surface more energy, so more of them escape into the air as water vapour: evaporation is faster."},
+    {"q": "Why do drops form on a cold glass of water on a hot day?", "a": "Water vapour in the air touches the cold glass, loses energy, slows down and turns back into liquid: condensation, the reverse of evaporation."},
+    {"q": "Describe the water cycle in four steps.", "a": "The Sun heats the sea and land and water evaporates; the water vapour rises, cools and condenses into clouds; water falls as precipitation (rain, snow, hail); it flows back to the sea in rivers and the cycle repeats."},
+    {"q": "In salty water, which is the solute and which is the solvent? How can you get the salt back?", "a": "Salt is the solute and water is the solvent. Leave the salty water in the sun (or heat it) so the water evaporates and the salt is left behind; dissolving is reversible."}
+  ]
+}

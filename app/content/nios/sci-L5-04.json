@@ -1,0 +1,510 @@
+{
+  "key": "nios|sci|5|4",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 4,
+  "title": "Our Freedom Struggle",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 4 (lesson pages 57–67)",
+  "summary": "India's riches in spices and cloth drew European traders by sea; the English East India Company won out, took Bengal after Plassey in 1757 and spread its rule, harming farmers, weavers and rulers. Your child follows the story through the great revolt of 1857, the founding of the Indian National Congress in 1885, Gandhiji's non-violent movements (Champaran, Non-Cooperation, the Salt March, Quit India), the revolutionaries and the Azad Hind Fauj, to Independence on 15 August 1947, and thinks about why freedom must be protected. They make salt from salt water, build a timeline to scale and weigh historians' debates.",
+  "goals": [
+    "By the end your child can explain why Europeans came to India (spices, cloth, trade) and how the East India Company went from trader to ruler, naming Plassey (1757).",
+    "By the end your child can describe how British rule harmed Indian farmers, weavers and rulers, with examples such as forced indigo growing and the taking of Jhansi and Awadh.",
+    "By the end your child can tell the story of 1857: its causes, its leaders, why it failed, and what changed afterwards, and explain why historians argue about what to call it.",
+    "By the end your child can explain Gandhiji's ideas of ahimsa and satyagraha and name his main movements in order: Champaran (1917), Non-Cooperation (1920), the Salt March (1930) and Quit India (1942).",
+    "By the end your child can name at least eight freedom fighters from different regions, faiths and paths (moderate, radical, non-violent, revolutionary), and place key events on a timeline.",
+    "By the end your child can say what Independence on 15 August 1947 meant, that it came with the pain of Partition, and why citizens must protect freedom."
+  ],
+  "words": [
+    ["trade monopoly", "being the only one allowed to buy and sell something, so no one else can compete"],
+    ["East India Company", "a company of English traders set up in 1600 to trade with Asia, which later ruled large parts of India"],
+    ["factory (trading post)", "in Company times, a fortified warehouse and office where traders lived and stored goods"],
+    ["annex", "to take over another ruler's land and add it to your own"],
+    ["revolt", "a rising up of people against their rulers"],
+    ["sepoy", "an Indian soldier in the Company's or British army (from the Persian 'sipahi', soldier)"],
+    ["moderates and radicals", "two groups in the early Congress: moderates asked for reforms politely; radicals (often called extremists) demanded swaraj boldly, using boycott and protest"],
+    ["swaraj / Purna Swaraj", "self-rule / complete independence"],
+    ["ahimsa", "non-violence: not harming others in thought, word or deed"],
+    ["satyagraha", "Gandhiji's method of 'holding on to truth': peacefully refusing to obey unjust laws and accepting the punishment"],
+    ["civil disobedience", "openly and peacefully breaking an unjust law to protest against it"],
+    ["Partition", "the division of British India in 1947 into India and Pakistan"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "The golden bird: why traders came",
+      "goal": "Find out why India's riches drew traders from far away, and trace their sea routes on a map.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Smell the treasure",
+          "mins": 7,
+          "do": "Put a few black peppercorns, two green cardamoms, a stick of cinnamon, some cloves and a piece of cotton cloth on a plate. Your child smells each and names it. Tell them: 'Five hundred years ago, people in Europe paid huge prices for these. Black pepper was sometimes called black gold. This plate would have made you rich in Lisbon or London.' Ask: 'Why would pepper be so costly in Europe?' (It does not grow there; it had to travel thousands of kilometres, passing through many traders' hands.)"
+        },
+        {
+          "kind": "read",
+          "title": "India, the golden bird (lesson page 57)",
+          "mins": 10,
+          "do": "Read the lesson opening aloud: India was called the golden bird ('sone ki chidiya'); its spices and cloth were wanted across half the world; the trade passed through Arab traders; the Portuguese sailor Vasco da Gama reached Calicut (Kozhikode, in Kerala) after a long voyage. Add the date: he arrived in May 1498, after sailing round the southern tip of Africa. Then read how the Portuguese bought cheap and sold dear and grew rich, so the Dutch, French and English wanted to trade too, and how after Aurangzeb's death in 1707 the Mughal Empire weakened and many small kingdoms rose. Ask: 'Why would a weak, divided India make it easier for outsiders to gain power?' (Rulers fought each other and some sought European help, so the Europeans could take sides.)"
+        },
+        {
+          "kind": "act",
+          "title": "Map the sea route",
+          "mins": 15,
+          "do": "Start Activity a1. On a world map (an atlas page or a printout), your child draws Vasco da Gama's route in red: Lisbon in Portugal, down the west coast of Africa, round the Cape of Good Hope, up the east coast of Africa to Malindi (in Kenya), then across the Arabian Sea to Calicut. Then draw in green the older route by which spices reached Europe: from Indian ports by sea to Arabia and the Red Sea or the Gulf, then overland to the Mediterranean. Ask: 'Why did the Portuguese want a route that went all the way round Africa?' (So they could buy directly and not pay Arab and Venetian middlemen.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "What did India sell, and what did it buy?",
+          "mins": 8,
+          "do": "Make two lists with your child. India sold: pepper, cardamom, ginger, cinnamon (much of it from Sri Lanka), fine cotton cloth such as muslin from Bengal and printed calico (named after Calicut), indigo dye, silk and saltpetre. Europe paid mostly in silver and gold. Ask: 'If India sold so much and bought little, which way did the gold flow?' (Into India: that is part of why it was called the golden bird.) Ask your child to find one thing in your kitchen or wardrobe that came from far away, and say from where."
+        },
+        {
+          "kind": "review",
+          "title": "Three facts",
+          "mins": 5,
+          "do": "Ask: 'Who was the first European to reach India by sea, and where did he land?' (Vasco da Gama, Calicut, 1498.) 'Which spices were most wanted?' (Black pepper and cardamom.) 'What happened to the Mughal Empire after 1707?' (It became weak and broke into smaller kingdoms.)"
+        }
+      ],
+      "need": ["Lesson page 57", "peppercorns, cardamom, cinnamon, cloves, a cotton cloth", "a world map (atlas or printout)", "red and green pencils"],
+      "prep": [{"task": "Print or find a world map showing Europe, Africa and India", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "From traders to rulers",
+      "goal": "Learn how the East India Company took power after Plassey, how its rule hurt Indians, and how Mysore resisted.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The East India Company (lesson page 58)",
+          "mins": 9,
+          "do": "Read section 4.1 aloud up to the Battle of Plassey. Explain: English traders set up the East India Company in 1600. It built trading posts (called factories) at Surat, Madras (Chennai), Bombay (Mumbai) and Calcutta (Kolkata), armed them with cannons and hired soldiers. European companies fought each other for a trade monopoly, and the English won. Ask: 'Why would a trading company need cannons and soldiers?' (To protect its goods and fight rivals, and later, to rule.) Then read about Nawab Siraj-ud-daulah of Bengal and the Battle of Plassey in 1757. Tell your child the Company won partly because Mir Jafar, the Nawab's army commander, made a secret deal with Robert Clive and held back his troops. After another battle at Buxar in 1764, the Company got the right in 1765 to collect taxes in Bengal, Bihar and Orissa."
+        },
+        {
+          "kind": "read",
+          "title": "Harm to the people; Haider Ali and Tipu (lesson pages 58–59)",
+          "mins": 9,
+          "do": "Read about the hardships: farmers forced to grow indigo, opium and cotton instead of food crops; laws that stopped Indians setting up factories and doing free business. Then read about Haider Ali of Mysore, who beat the British, and his son Tipu Sultan. Correct one detail: Tipu fought the British in several wars and was killed defending his capital Srirangapatna in 1799. Add: Mysore's soldiers used iron-cased rockets that alarmed the British; captured Mysore rockets were studied in Britain and helped William Congreve develop British war rockets. Then read about the taking of Jhansi and Awadh: under the 'Doctrine of Lapse', the Company took a kingdom if the ruler died without a son born to him, refusing adopted heirs (Jhansi, 1854), and it took Awadh in 1856 claiming it was badly governed."
+        },
+        {
+          "kind": "talk",
+          "title": "Dadabhai Naoroji's 'drain'",
+          "mins": 10,
+          "do": "Read Voice v3 about Dadabhai Naoroji's drain theory. Do a quick demonstration: fill a bucket with water (India's wealth) and make a small hole at the bottom with a nail, letting it drip into a second bucket labelled 'Britain'. Pour a mug in each 'year' from the top (Indians' work). Ask: 'Even if Indians keep working hard, what happens to the first bucket if water keeps draining out?' Then ask the 'ask' question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Start the timeline",
+          "mins": 12,
+          "do": "Start Activity a2. On a long strip of paper (tape A4 sheets together, 46 cm long), draw a line with 1 cm for every 10 years from 1490 to 1950. Mark today's events: 1498 Vasco da Gama; 1600 East India Company; 1707 death of Aurangzeb; 1757 Plassey; 1799 death of Tipu Sultan; 1854 Jhansi taken; 1856 Awadh taken. Ask: 'How many years passed between the Company being set up and its winning at Plassey?' (157 years: it was a trader for a long time before it became a ruler.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 4.1 (lesson page 59)",
+          "mins": 5,
+          "do": "Do 'Let's see, what you have learnt 4.1' aloud, with your child saying correct or incorrect and why: i correct; ii incorrect (the empire became weak after 1707); iii incorrect (English traders formed the East India Company); iv correct; v correct."
+        }
+      ],
+      "need": ["Lesson pages 58–59", "2 buckets, a nail, water, a mug (outdoors or in the bathroom)", "A4 sheets and tape for the timeline", "a ruler"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "1857: the great revolt",
+      "goal": "Learn the causes, leaders, spread, failure and results of the 1857 revolt, and weigh how historians name it.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How the revolt began (lesson page 59)",
+          "mins": 9,
+          "do": "Read section 4.2 aloud. Explain the anger: farmers, weavers, workers, nawabs and kings had all lost out, and Indian sepoys were paid less and treated worse than British soldiers. The spark was the new Enfield rifle: its cartridges, which soldiers bit open, were rumoured to be greased with cow and pig fat, offending both Hindus and Muslims. Correct the book's dates: Mangal Pandey of the 34th Bengal Native Infantry attacked British officers at Barrackpore near Calcutta on 29 March 1857 and was hanged in April. The big uprising began at Meerut on 10 May 1857, when sepoys freed their jailed comrades, marched to Delhi the next day and declared the old Mughal king Bahadur Shah Zafar emperor of Hindustan. Ask: 'Why did the sepoys choose Bahadur Shah, an old king with almost no power?' (He was a symbol that could unite Hindus and Muslims and people from many regions.)"
+        },
+        {
+          "kind": "act",
+          "title": "Map the revolt",
+          "mins": 10,
+          "do": "Continue Activity a1 on an outline map of India. Your child marks the centres of 1857 and the leader of each: Meerut and Delhi (sepoys, Bahadur Shah Zafar), Kanpur (Nana Sahib, the adopted son of the last Peshwa), Jhansi (Rani Lakshmibai), Lucknow (Begum Hazrat Mahal), Bihar (Kunwar Singh, at about 80 years old), central India (Tantia Tope). Then ask: 'Look at the map. Which parts of India saw little fighting?' (Most of the south, Punjab, Bengal's countryside, Rajputana's big states.) 'What does that tell you?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "Why it failed and what changed (lesson page 60)",
+          "mins": 8,
+          "do": "Read the rest of 4.2. The book says the revolt failed because the British had modern weapons. Add the other reasons historians give: the rebels had no single leader or plan; many Indian rulers and soldiers, such as the Sikh regiments and the rulers of Hyderabad and Gwalior, sided with the British; and the British controlled the telegraph and railways and brought troops from elsewhere. Then the results: in 1858 the British Crown (Queen Victoria) took over and the Company's rule ended; a Viceroy ruled for the British government. Read the part on Maharaja Ranjit Singh and correct the timing: he ruled Punjab from 1801 to his death in 1839 (before 1857), signed the Treaty of Amritsar with the British in 1809, and took Multan, Kashmir and Peshawar. The British annexed Punjab in 1849, ten years after his death."
+        },
+        {
+          "kind": "talk",
+          "title": "Mutiny or war of independence?",
+          "mins": 10,
+          "do": "Read Voice v1 about how historians argue over what to call 1857. Make a two-column list with your child: 'Evidence it was a soldiers' mutiny' (it began among sepoys; many regions stayed quiet) and 'Evidence it was a people's war for freedom' (kings, farmers and soldiers fought together; Hindus and Muslims united behind Bahadur Shah). Ask the 'ask' question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 4.2 and timeline (lesson page 60)",
+          "mins": 8,
+          "do": "Do 'Let's see, what you have learnt 4.2' aloud: important; greased cartridges; Bahadur Shah Zafar; Victoria. Then add to the timeline (Activity a2): 1799 Tipu killed (if not done), 1801 Ranjit Singh becomes Maharaja, 1839 his death, 1849 Punjab annexed, 1857 revolt, 1858 Crown rule begins.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Lesson pages 59–60", "an outline map of India", "the timeline strip"],
+      "prep": [{"task": "Print or trace an outline map of India", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "The Congress and Gandhiji",
+      "goal": "Learn how the Indian National Congress grew, the difference between moderates and radicals, and how Gandhiji's ideas and his first satyagrahas changed the struggle.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Congress is born (lesson page 61)",
+          "mins": 10,
+          "do": "Read section 4.3 up to Gandhiji. The Congress was founded in 1885 with the help of A.O. Hume, a retired British official, together with Indian leaders; its first meeting was in Bombay with W.C. Bonnerjee as president. Leaders such as Dadabhai Naoroji and Gopal Krishna Gokhale, the moderates, asked the British for reforms through petitions and speeches. Others, the radicals, such as Bal Gangadhar Tilak ('Swaraj is my birthright and I shall have it'), Lala Lajpat Rai of Punjab, Bipin Chandra Pal of Bengal (the trio 'Lal-Bal-Pal') and Aurobindo Ghosh, wanted bolder action: boycott of British goods and swadeshi (using Indian-made things). The two groups split at Surat in 1907. Ask: 'Lal, Bal and Pal came from Punjab, Maharashtra and Bengal. What does that show?' (The movement was spreading across all of India.)"
+        },
+        {
+          "kind": "read",
+          "title": "Gandhiji's path (lesson pages 61–62)",
+          "mins": 10,
+          "do": "Read about Mohandas Karamchand Gandhi: a lawyer who lived in South Africa for about 21 years (1893–1914), where he was thrown off a train for sitting in a 'whites only' compartment and first developed satyagraha. He came back to India in 1915. Read how he worked against untouchability and for the respect of women, and lived simply. Read the Champaran Satyagraha of 1917 in Bihar, where indigo farmers were forced to grow indigo for British planters: Gandhiji's peaceful inquiry and protest won them relief. Ask: 'Why did Gandhiji think India's own social evils, like untouchability, had to be fought at the same time as the British?' (A people divided against itself cannot be strong; freedom should be for everyone.)"
+        },
+        {
+          "kind": "act",
+          "title": "Spin like Gandhiji",
+          "mins": 12,
+          "do": "Do Activity a3. Make a simple drop spindle from a pencil pushed through a potato slice or a CD with a cork, and twist a little cotton wool into thread. Explain that Gandhiji asked Indians to spin and wear khadi so that money stayed with Indian spinners and weavers instead of British mills. Ask: 'How long did it take you to make 10 cm of thread? Why were British machine-made clothes so cheap?' (Machines in Manchester spun thousands of times faster.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 10,
+          "do": "Your child does core worksheet ws1 in writing. Check it together, opening the book to the right page for any wrong answer.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "review",
+          "title": "Moderate or radical?",
+          "mins": 3,
+          "do": "Quick quiz: 'Gokhale?' (Moderate.) 'Tilak?' (Radical.) 'Naoroji?' (Moderate.) 'Lajpat Rai?' (Radical.) 'Which did Gandhiji's way most resemble?' (Neither exactly: he was peaceful like the moderates but demanded much more, and brought crores of ordinary people into the struggle.)"
+        }
+      ],
+      "need": ["Lesson pages 61–62", "a pencil, a potato slice or an old CD with a cork, cotton wool", "worksheet ws1", "the timeline strip"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Jallianwala Bagh, revolutionaries and the Salt March",
+      "goal": "Learn about Jallianwala Bagh, the revolutionaries, Non-Cooperation, Purna Swaraj and the Salt March, and make salt from salt water as Gandhiji did at Dandi.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Start the salt experiment",
+          "mins": 8,
+          "do": "Set up Experiment e1 first, so the water can evaporate while you read. Make 'sea water' by stirring 2 teaspoons of salt into a cup of warm water. Your child tastes a drop, then pours a thin layer into a wide steel plate and puts it in the sun (or near a warm place), and a second spoonful into a steel spoon to heat gently over a candle with you. Ask them to predict what will be left.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Jallianwala Bagh and the revolutionaries (lesson page 63)",
+          "mins": 10,
+          "do": "Read about the Rowlatt Act (1919), which let the government jail people without trial, and the gathering in Jallianwala Bagh, Amritsar, on 13 April 1919 (Baisakhi day). Parent note: tell it calmly without graphic detail: 'General Dyer brought soldiers, blocked the narrow way out and ordered them to fire on the unarmed crowd. Hundreds of people were killed: the British count was 379, and Indian leaders believed it was many more.' Tell them Rabindranath Tagore gave back his knighthood in protest. Then read the names of revolutionaries: Chandrashekhar Azad, Bhagat Singh, Ram Prasad Bismil, Ashfaqulla Khan, Batukeshwar Dutt, Rajguru and Sukhdev. Point out that Bismil (a Hindu) and Ashfaqulla (a Muslim) were close friends, executed for the Kakori train action of 1925. Ask: 'Gandhiji and Bhagat Singh both wanted freedom, but chose different ways. What were they?'"
+        },
+        {
+          "kind": "read",
+          "title": "Non-Cooperation, Purna Swaraj and Dandi (lesson page 63)",
+          "mins": 9,
+          "do": "Put the events in the right order (the book mixes them): Non-Cooperation Movement 1920 (boycott of British schools, courts, cloth and titles); Chauri Chaura, February 1922, when a crowd set fire to a police station and 22 policemen died, so Gandhiji called the movement off because it had turned violent; December 1929, Lahore Congress under Jawaharlal Nehru demands Purna Swaraj, and 26 January 1930 is celebrated as Independence Day (which is why our Constitution came into force on 26 January 1950); Salt March: Gandhiji walked with 78 followers from Sabarmati Ashram to Dandi, about 385 km in 24 days, and on 6 April 1930 picked up salt to break the salt law. Ask: 'Why salt? Why not something bigger?' (Everyone, rich or poor, needs salt; a tax on it hurt the poorest; anyone could break the law by making salt.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Check the salt",
+          "mins": 6,
+          "do": "Look at the spoon from Experiment e1 and the plate (the plate may need until evening or the next day). Your child scrapes the white crystals with a toothpick and looks with a magnifying glass if you have one. Explain the 'why'. Ask: 'Why could the British not stop people making salt, even with a law?' (The sun and the sea are free; all you need is a shallow pan.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Does non-violence work?",
+          "mins": 12,
+          "do": "Read Voice v2 about Erica Chenoweth's study of non-violent movements. Ask the 'ask' question. Then add to the timeline: 1885 Congress; 1907 Surat split; 1915 Gandhiji returns; 1917 Champaran; 1919 Jallianwala Bagh; 1920 Non-Cooperation; 1922 Chauri Chaura; 1929 Purna Swaraj; 1930 Salt March.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Lesson page 63", "salt, warm water, a cup", "a wide steel plate", "a steel spoon, a candle and matches (parent only)", "a toothpick, a magnifying glass if you have one", "the timeline strip"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Quit India and freedom at last",
+      "goal": "Learn about Quit India, the Azad Hind Fauj and Independence with Partition, and measure how long the Dandi march would take you.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Quit India and the Azad Hind Fauj (lesson pages 63–64)",
+          "mins": 9,
+          "do": "Read about the Quit India Movement. On 8 August 1942 in Bombay, Gandhiji gave the call 'Do or die': we will either free India or die trying. Almost all Congress leaders were arrested the next morning, and ordinary people, students and women led the protests; Aruna Asaf Ali raised the Congress flag at Gowalia Tank maidan in Bombay. Then the Azad Hind Fauj (Indian National Army): it was first formed in 1942 from Indian soldiers taken prisoner by Japan, and Subhash Chandra Bose rebuilt and led it from 1943, with the slogan 'Delhi chalo' and a women's regiment named after Rani Lakshmibai, led by Captain Lakshmi Sahgal. Ask: 'Bose chose to fight with an army, Gandhiji with non-violence. Both are honoured today. Why?'"
+        },
+        {
+          "kind": "read",
+          "title": "15 August 1947 (lesson page 64)",
+          "mins": 9,
+          "do": "Read the last part of 4.3. India became independent at midnight between 14 and 15 August 1947, when Jawaharlal Nehru, the first Prime Minister, gave his 'Tryst with Destiny' speech. Nehru raised the tricolour at the Red Fort on 16 August 1947, and since then the Prime Minister does so every 15 August. Tell your child honestly that freedom came with Partition: British India was divided into India and Pakistan, and about 1.5 crore people had to leave their homes and many lakhs died in terrible violence. Gandhiji spent Independence Day in Calcutta, trying to stop the riots. Ask: 'Why do you think he didn't go to the celebrations in Delhi?' Ask your child to read the book's line: 'We gained this freedom after a lot of struggle. We should protect it.'"
+        },
+        {
+          "kind": "exp",
+          "title": "How long to Dandi?",
+          "mins": 12,
+          "do": "Do Experiment e2. Walk a measured distance with your child (for example 500 metres around your colony, measured by a phone map, or 10 rounds of a 50-metre corridor) at a steady walking pace and time it. Back home, calculate how long 385 km would take at that speed, and how many hours a day Gandhiji, aged 60, walked if he covered it in 24 days.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Ask an elder",
+          "mins": 7,
+          "do": "Call a grandparent or older relative and ask: 'What did your parents or grandparents tell you about 1947, or about the freedom struggle? Did anyone in our family take part, or move because of Partition?' Your child writes down one story in three sentences. Parent note: if the family story involves loss, let your child just listen; there is no need for details."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 4.3 (lesson page 64)",
+          "mins": 8,
+          "do": "Do 'Let's see, what you have learnt 4.3' aloud: 1857; 1929; Mangal Pandey; Subhash Chandra Bose. Finish the timeline with 1942 Quit India, 1943 Bose leads the INA, 1947 Independence and Partition. Then your child starts stretch worksheet ws2, Section A.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Lesson pages 63–64", "a phone with a map or timer", "comfortable shoes", "a phone to call an elder", "the timeline strip", "worksheet ws2"],
+      "prep": [{"task": "Plan a safe, measured 500 m walking route (use a phone map)", "when": "morning"}]
+    },
+    {
+      "n": 7,
+      "title": "Revise, check and teach it back",
+      "goal": "Review the whole story with the book's exercise and the worksheets, check understanding and teach the freedom struggle back using the timeline.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (lesson pages 64–67)",
+          "mins": 10,
+          "do": "Read 'Let's Revise' together, with your child finishing each point. Then do the Exercise aloud. I: correct (it was the first big all-India rising); incorrect (A.O. Hume helped found it, with Indian leaders); correct; incorrect (revolutionaries played a big role); incorrect (15 August 1947). II: Jhansi – Rani Lakshmibai; Congress – 1885; Mangal Pandey – the 1857 revolt (the book pairs it with Meerut cantonment, though he acted at Barrackpore); Jallianwala Bagh – Amritsar; Independence Day – 15 August 1947. III: golden bird; 1707; non-cooperation; A.O. Hume; fought the British (led by Subhash Chandra Bose). IV–X: answer aloud; for VIII ask for five sentences on Gandhiji (ahimsa, satyagraha, Champaran, Non-Cooperation, Salt March, Quit India, fight against untouchability)."
+        },
+        {
+          "kind": "ws",
+          "title": "Finish stretch, try challenge",
+          "mins": 12,
+          "do": "Your child finishes stretch worksheet ws2, then tries challenge worksheet ws3 with you. For ws3, praise answers that use evidence and see more than one side.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 10,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick good answers; for any miss, find the event on the timeline and the page in the book together, then ask again. Six or more right is good; fewer than five, retell the story using the timeline next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back with the timeline",
+          "mins": 13,
+          "do": "Unroll the timeline strip (Activity a2). Your child walks along it and tells the whole story from 1498 to 1947 in five minutes, using the salt crystals, the spun thread and the maps as props. Ask two 'student' questions: 'If the British had better guns, how did India win in the end?' and 'Why do we have Independence Day on 15 August but Republic Day on 26 January?' (26 January 1930 was the first Purna Swaraj day, so the Constitution began on 26 January 1950.)",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Lesson pages 64–67", "worksheets ws2 and ws3", "the timeline, maps, salt and thread"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "From traders to the freedom struggle",
+      "day": 4,
+      "sections": [
+        ["A. Traders become rulers", [
+          {"t": "fill", "p": "In ancient times India was called the ____ bird.", "a": ["golden"]},
+          {"t": "fill", "p": "Vasco da Gama reached the port of ____ in 1498.", "a": ["Calicut", "Kozhikode"]},
+          {"t": "mcq", "p": "After which battle did the East India Company take control of Bengal?", "opts": ["Panipat", "Plassey", "Haldighati", "Talikota"], "a": 1},
+          {"t": "mcq", "p": "Under British rule, many farmers were forced to grow:", "opts": ["only wheat and rice", "indigo, opium and cotton", "only fruits", "tea for themselves"], "a": 1}
+        ]],
+        ["B. 1857", [
+          {"t": "match", "p": "Match the leader of 1857 to the place.", "pairs": [["Rani Lakshmibai", "Jhansi"], ["Begum Hazrat Mahal", "Lucknow"], ["Nana Sahib", "Kanpur"], ["Kunwar Singh", "Bihar"], ["Bahadur Shah Zafar", "Delhi"]]},
+          {"t": "fill", "p": "After 1857, Queen ____ of England took over the government of India.", "a": ["Victoria"]}
+        ]],
+        ["C. Congress and Gandhiji", [
+          {"t": "fill", "p": "The Indian National Congress was founded in the year ____.", "a": ["1885"]},
+          {"t": "sort", "p": "Sort these early Congress leaders.", "items": ["Gopal Krishna Gokhale", "Dadabhai Naoroji", "Bal Gangadhar Tilak", "Lala Lajpat Rai", "Bipin Chandra Pal"], "cats": ["Moderate", "Radical"]},
+          {"t": "write", "p": "What was the Champaran Satyagraha of 1917 about, and how did Gandhiji fight it?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Order, causes and choices",
+      "day": 6,
+      "sections": [
+        ["A. Put it in order", [
+          {"t": "table", "p": "Write the year of each event, then number them 1 to 8 in order.", "cols": ["Event", "Year", "Order"], "rows": 8, "prefill": ["Salt March", "Battle of Plassey", "Quit India", "Revolt at Meerut", "Congress founded", "Jallianwala Bagh", "Vasco da Gama reaches Calicut", "Independence"]}
+        ]],
+        ["B. Causes and effects", [
+          {"t": "write", "p": "Give two reasons why the 1857 revolt failed, apart from weapons.", "lines": 3},
+          {"t": "mcq", "p": "Why did Gandhiji call off the Non-Cooperation Movement in 1922?", "opts": ["The British agreed to leave", "Violence broke out at Chauri Chaura, and he insisted the movement stay non-violent", "He fell ill", "Everybody stopped protesting"], "a": 1},
+          {"t": "write", "p": "Why did Gandhiji choose salt to break the law? Give two reasons.", "lines": 3}
+        ]],
+        ["C. Your experiments", [
+          {"t": "write", "p": "Your salt test: where did the water go, and why was the salt left behind?", "lines": 2},
+          {"t": "write", "p": "Your Dandi walk: at your speed, how many days would it take you to walk 385 km if you walked 6 hours a day? Show your working.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a historian",
+      "day": 7,
+      "sections": [
+        ["A. Different views", [
+          {"t": "write", "p": "A British officer in 1858 called 1857 'the Sepoy Mutiny'. Savarkar in 1909 called it 'the Indian War of Independence'. Why might each have chosen that name? Which evidence from the lesson supports each?", "lines": 5},
+          {"t": "write", "p": "Gandhiji believed in non-violence; Bhagat Singh and Subhash Chandra Bose believed force was sometimes needed. Write one argument for each view, and say what you think and why.", "lines": 5}
+        ]],
+        ["B. Puzzles", [
+          {"t": "mcq", "p": "The East India Company was a trader for 157 years before Plassey. Which explains best how a company could become a ruler?", "opts": ["The Mughal emperor gave India away", "It had its own army, took sides in quarrels between weakened Indian rulers, and won the right to collect taxes", "Indians asked it to rule", "Queen Victoria sent it to conquer India"], "a": 1},
+          {"t": "write", "p": "What if the rulers of the Marathas, the Nizam and Ranjit Singh had united against the British? Write what might have been different.", "lines": 3}
+        ]],
+        ["C. Protecting freedom", [
+          {"t": "write", "p": "The book says we must protect our freedom. Name three ways a 10-year-old can help protect India's freedom and democracy today.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Make salt like the Dandi marchers",
+      "day": 5,
+      "question": "How can we get salt out of salt water, as people did at Dandi in 1930?",
+      "need": ["2 teaspoons of salt", "1 cup of warm water", "a spoon for stirring", "a wide steel plate", "a steel tablespoon", "a candle and matches (parent only) or a sunny windowsill", "a toothpick", "a magnifying glass (optional)"],
+      "steps": [
+        "Stir 2 teaspoons of salt into the warm water until it disappears completely. Taste one drop: it is salty, but you can't see the salt.",
+        "Pour a thin layer (about half the cup) into the wide steel plate and leave it in the sun or another warm, airy place.",
+        "Parent: hold a steel spoon of the salt water over a candle flame with a cloth around the handle until the water has boiled away.",
+        "Look at the spoon: what is left? Scrape it with a toothpick.",
+        "Check the plate after a few hours or the next day. Compare the crystals from the slow plate with those from the quick spoon."
+      ],
+      "predict": "Ask your child to guess first: when all the water goes, will anything be left? If so, how much, and what will it look like?",
+      "observe": "A white crust or white crystals remain on the spoon. On the plate, which dries slowly, the crystals are usually bigger and cube-shaped (look with the magnifying glass). The amount left looks like the salt you put in.",
+      "why": "Salt dissolves in water: its tiny particles spread out among the water particles, so you cannot see it, but you can still taste it. When water is heated by a flame or the sun, it evaporates: it turns into water vapour and goes into the air. Salt does not evaporate at these temperatures, so it is left behind. Slow evaporation gives the salt particles time to line up into larger, neat cube-shaped crystals; fast boiling gives tiny crystals. Salt-makers along the coasts of Gujarat and Tamil Nadu still let sea water evaporate in big shallow pans in the sun. In 1930 the British government had a monopoly on salt and taxed it; by picking up and making natural salt at Dandi, Gandhiji and lakhs of Indians after him broke this law in a way anyone could copy.",
+      "safety": "Only an adult holds the spoon over the flame, with a cloth round the handle; the spoon gets very hot. Keep hair and dupattas away from the candle.",
+      "time": "8 min to set up + 6 min check; plate dries in a few hours or overnight"
+    },
+    {
+      "id": "e2",
+      "title": "How long would the Dandi march take you?",
+      "day": 6,
+      "question": "How fast do we walk, and how long would it take us to walk the 385 km Gandhiji walked from Sabarmati to Dandi?",
+      "need": ["a measured route of 500 m (checked on a phone map) or a corridor of known length", "a phone timer", "paper and pencil"],
+      "steps": [
+        "Walk the 500 m route with your child at a steady, comfortable pace and time it in minutes.",
+        "Work out the speed: if 500 m took 7 minutes, then 1 km takes 14 minutes, and in 60 minutes you would walk about 4.3 km.",
+        "Work out the total time for 385 km: 385 ÷ (km per hour) = hours.",
+        "Gandhiji's march took 24 days (12 March to 6 April 1930). Work out how many km he walked per day on average (385 ÷ 24 = about 16 km).",
+        "At your speed, how many hours would 16 km take you each day?"
+      ],
+      "predict": "Ask your child to guess first: how many hours a day did a 60-year-old Gandhiji walk? 1 hour, 4 hours, or 10 hours?",
+      "observe": "Most people walk about 4–5 km an hour, so 16 km a day is roughly 3.5–4 hours of walking, every day for 24 days, in the hot Gujarat spring, stopping in villages to speak to crowds.",
+      "why": "Speed is distance divided by time. Once you know your speed, you can work out how long any distance will take (time = distance ÷ speed). Measuring like this turns a fact in a book (385 km in 24 days) into something you can feel. It also shows why the march worked as a protest: it was slow on purpose. Walking village to village for over three weeks gave newspapers around the world time to report it and gave people along the way time to join, so a small group of 78 marchers became a movement of lakhs.",
+      "safety": "Walk in daylight on a safe footpath with an adult. Carry water.",
+      "time": "12 min (walk + calculation)"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Maps of trade and revolt",
+      "day": 1,
+      "mins": 15,
+      "need": ["a world map", "an outline map of India", "red, green and blue pencils"],
+      "steps": [
+        "Day 1, world map: draw Vasco da Gama's 1498 route from Lisbon round Africa to Calicut in red, and the older spice route through Arabia in green.",
+        "Day 3, India map: mark the centres of the 1857 revolt (Meerut, Delhi, Kanpur, Lucknow, Jhansi, Bihar, Barrackpore) with each leader's name.",
+        "Day 5 (optional): draw the Dandi route in blue from Ahmedabad (Sabarmati) south to Dandi on the Gujarat coast.",
+        "Add a key to each map."
+      ],
+      "outcome": "Two maps that show where the story happened: how the Europeans came, where Indians rose in 1857 and where Gandhiji marched."
+    },
+    {
+      "id": "a2",
+      "title": "Freedom struggle timeline to scale",
+      "day": 2,
+      "mins": 12,
+      "need": ["5 A4 sheets taped end to end (or a roll of paper)", "a ruler", "colour pens"],
+      "steps": [
+        "Draw a long line, 46 cm, and mark it every 1 cm: each cm is 10 years, from 1490 to 1950.",
+        "Day 2: add 1498, 1600, 1707, 1757, 1799, 1854, 1856.",
+        "Day 3: add 1801, 1839, 1849, 1857, 1858.",
+        "Day 5: add 1885, 1907, 1915, 1917, 1919, 1920, 1922, 1929, 1930.",
+        "Day 6: add 1942, 1943, 1947.",
+        "Use one colour for 'European power grows' and another for 'Indians resist'. Look at where events crowd together."
+      ],
+      "outcome": "A to-scale timeline showing that European trade and rule built up over 250 years, while the freedom movement's biggest steps came close together in the last 30 years."
+    },
+    {
+      "id": "a3",
+      "title": "Spin a thread",
+      "day": 4,
+      "mins": 12,
+      "need": ["a pencil", "a slice of raw potato about 1 cm thick (or an old CD with a cork in the hole)", "a ball of cotton wool", "a ruler"],
+      "steps": [
+        "Push the pencil through the middle of the potato slice so it sits about 3 cm from the pencil's bottom. This is your spindle and its weight (whorl).",
+        "Pull a thin wisp from the cotton wool and twist its end firmly round the top of the pencil.",
+        "Hold the cotton in one hand and spin the pencil with the other, letting it hang and twirl. The twist runs up into the wisp and turns it into thread.",
+        "Slowly pull more cotton out as it twists. Wind the made thread around the pencil and repeat.",
+        "Measure how much thread you made in 5 minutes."
+      ],
+      "outcome": "A short length of hand-spun thread and an understanding of why Gandhiji's charkha and khadi were a symbol of self-reliance against cheap British mill cloth."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "The 1857 naming debate: V.D. Savarkar ('The Indian War of Independence of 1857', 1909) and historians R.C. Majumdar and S.N. Sen (both 1957)",
+      "idea": "British writers of the time mostly called 1857 the 'Sepoy Mutiny', a soldiers' rebellion. In 1909 Vinayak Damodar Savarkar wrote a book calling it India's first war of independence, a planned national rising, and the British banned the book.",
+      "then": "In 1957, on its hundredth anniversary, two leading Indian historians looked at the evidence again. R.C. Majumdar argued it was not a national war of independence, since large parts of India stayed out and many leaders fought for their own lost kingdoms. S.N. Sen, in a book commissioned by the government, said it began as a mutiny but in places became a struggle that went far beyond the army.",
+      "now": "Historians agree that it was much more than a mutiny: peasants, artisans and rulers joined in many regions, and it shook British rule. They still disagree on whether it was a national or freedom war, since the idea of an Indian nation was only beginning. Many now simply call it 'the Revolt of 1857' or 'the Great Rebellion'. The book uses 'first war of independence', a name widely used in India.",
+      "status": "debated",
+      "ask": "What would you need to find out to decide whether 1857 was a soldiers' mutiny or a people's war for freedom? Does the name we choose change how we feel about it?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Erica Chenoweth and Maria Stephan, political scientists, USA, 'Why Civil Resistance Works' (2011)",
+      "idea": "Gandhiji believed that non-violent mass resistance (satyagraha) could defeat a powerful empire. Chenoweth and Stephan tested a version of this with data: they studied 323 major campaigns against governments or occupiers between 1900 and 2006 and found that non-violent campaigns succeeded about 53% of the time, compared with about 26% for violent ones, mainly because they drew many more ordinary people to take part.",
+      "then": "Many experts had assumed that only armed force could topple strong governments. Gandhiji's own critics in India, including some revolutionaries, argued that the British would never leave without force, and historians still debate how much the Second World War, the INA trials and the 1946 naval mutiny pushed Britain to go.",
+      "now": "The study is widely cited and the main finding has held up in follow-up work, though researchers note that non-violent campaigns have succeeded less often since about 2010, and critics argue about how campaigns were counted and whether it is the non-violence itself, or the large numbers it attracts, that matters. It is an active field of research.",
+      "status": "debated",
+      "ask": "Why might a crowd of crores of peaceful people be harder for a government to defeat than a small armed group? What evidence would convince you that non-violence, and not something else, made the difference?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Dadabhai Naoroji (1825–1917), Bombay; 'Poverty and Un-British Rule in India' (1901)",
+      "idea": "Naoroji, called the 'Grand Old Man of India', collected figures on India's income and argued that Britain was draining India's wealth: through salaries and pensions of British officials paid by India, profits sent home, and payments called 'Home Charges', money flowed out of India every year without return. He calculated India's income per person to show how poor Indians had become. In 1892 he became the first Indian elected to the British Parliament.",
+      "then": "Many British officials and writers rejected his figures and argued that British rule brought India railways, peace and law. Even some Indians thought his estimates too high.",
+      "now": "Economic historians accept that a large transfer of wealth from India to Britain took place and that India's share of world manufacturing fell sharply under British rule. How large the drain was is still argued: some recent estimates, such as Utsa Patnaik's, are very large and are disputed by other economists. Naoroji's method of using numbers to argue for India's case inspired later leaders.",
+      "status": "accepted",
+      "ask": "Naoroji used numbers to argue that India was being made poor. Why would numbers convince people more than just saying 'the British are unfair'? How could someone argue back against his numbers?",
+      "day": 2
+    }
+  ],
+  "check": [
+    {"q": "Why did European traders want to come to India, and who first reached India by sea from Europe?", "a": "For India's spices (especially pepper and cardamom), fine cotton cloth, indigo and silk, which sold for high prices in Europe. Vasco da Gama of Portugal reached Calicut in 1498."},
+    {"q": "How did the East India Company become a ruler?", "a": "It set up armed trading posts, defeated other European companies, took sides among weakened Indian rulers, won the Battle of Plassey in 1757 and then got the right to collect taxes in Bengal, Bihar and Orissa, and kept taking more kingdoms."},
+    {"q": "Name two ways British rule harmed Indians.", "a": "Farmers were forced to grow indigo, opium and cotton instead of food; Indians were not free to set up industries or trade; kingdoms like Jhansi and Awadh were taken; wealth was drained to Britain."},
+    {"q": "What sparked the revolt of 1857, and name three of its leaders.", "a": "Anger at unfair treatment and losses, sparked by cartridges rumoured to be greased with cow and pig fat. Leaders: Mangal Pandey, Rani Lakshmibai, Nana Sahib, Tantia Tope, Begum Hazrat Mahal, Kunwar Singh, Bahadur Shah Zafar."},
+    {"q": "What changed after 1857?", "a": "The East India Company's rule ended and the British Crown (Queen Victoria) took over, ruling through a Viceroy."},
+    {"q": "What were ahimsa and satyagraha, and name Gandhiji's movements in order.", "a": "Ahimsa is non-violence; satyagraha is peacefully refusing to obey unjust laws and accepting punishment. Champaran (1917), Non-Cooperation (1920), Salt March / Civil Disobedience (1930), Quit India (1942)."},
+    {"q": "Why did Gandhiji march to Dandi and what did he do there?", "a": "To protest the British salt law and tax, which hurt everyone, especially the poor. He walked about 385 km and on 6 April 1930 picked up salt, breaking the law; lakhs followed by making salt."},
+    {"q": "When did India become free, and what sad event came with it?", "a": "On 15 August 1947. Freedom came with Partition into India and Pakistan, which forced crores to leave their homes and caused terrible violence."}
+  ]
+}

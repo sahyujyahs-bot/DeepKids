@@ -1,0 +1,606 @@
+{
+  "key": "ncert|sci|4|4",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 4,
+  "title": "Growing up with Nature",
+  "source": "NCERT Our Wondrous World, Class 4, Chapter 4 (pages 57–68), Reprint 2026-27",
+  "summary": "Reena and Amit visit their village near a forest for a harvest festival on the day it becomes fully solar-powered. They see palash trees in bloom, houses built of clay, hay and cow dung, wall paintings in rice-flour paste, cloth painted with natural dyes, grain kept safe with neem leaves, a neem-oil mosquito repellent, and sacred groves protected by the community. Your child makes a natural dye, tests why clay pots and mud walls keep things cool, records the medicinal plants their family uses, learns how scientists test traditional remedies, and plans ways to protect nature.",
+  "goals": [
+    "By the end your child can name colourful flowers of their area with local names and explain why palash is called the 'flame of the forest'.",
+    "By the end your child can explain how houses of clay, hay and cow dung and earthen pots keep cool, and how sunlight can be turned into heat and electricity.",
+    "By the end your child can make a natural dye from plant parts and explain why some colours stay in cloth better than others.",
+    "By the end your child can describe traditional ways of storing grain (neem leaves, cow-dung coated baskets, the tumri) and name plants used at home for health, with their parts and uses.",
+    "By the end your child can explain what a sacred grove is and name festivals connected with plants and animals, and list ways to avoid overusing water, soil, wood and sea products.",
+    "By the end your child can explain how a traditional remedy is tested by scientists, using the stories of Tu Youyou, the turmeric patent and the curcumin debate."
+  ],
+  "words": [
+    ["palash", "a tree (Butea monosperma) whose bright orange-red flowers make a forest look on fire, so it is called the 'flame of the forest'; Kesuda in Gujarat, tesu in Hindi"],
+    ["solar power", "electricity or heat made from sunlight; solar panels turn sunlight straight into electricity"],
+    ["natural material", "something taken from nature with little change, like clay, hay, bamboo, wood, cow dung and leaves"],
+    ["dye", "a coloured liquid that soaks into cloth or paper and colours it; natural dyes come from flowers, leaves, bark, roots and coloured stones"],
+    ["Gond art", "a painting style of the Gond tribal community of central India, showing trees, animals, birds and people, traditionally in natural colours"],
+    ["preserve", "to keep food from going bad or being eaten by insects for a long time"],
+    ["pest", "an insect or animal that damages crops or stored food, like the weevils that bore into rice and dal"],
+    ["repellent", "something that keeps insects such as mosquitoes away"],
+    ["first aid", "the first help given to an injured or sick person before a doctor comes"],
+    ["medicinal plant", "a plant whose parts are used to treat illness, like tulsi leaves or ajwain seeds"],
+    ["sacred grove", "a patch of forest protected by a local community for worship, where trees are not cut and animals are not hunted"],
+    ["overuse", "using a natural resource faster than nature can replace it, so it runs out"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "The flame of the forest and a solar village",
+      "goal": "Start from the natural things in our own home, meet Reena and Amit, learn about palash and other colourful flowers, and test how sunlight carries energy.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What in this room came from nature?",
+          "mins": 6,
+          "do": "Sit in the kitchen or living room with your child. Ask: 'Point to ten things here and tell me: did it come from a plant, an animal, the ground, or was it made in a factory from oil?' Help them dig deeper: the cotton kurta (cotton plant), the wooden chair (tree), the steel plate (iron ore from the ground), the clay diya (soil), the jute mat (jute plant), the wool shawl (sheep), the honey (bees), the plastic bucket (oil from under the ground, made in a factory). Ask: 'Is anything here not from nature at all?' (Everything starts from nature; plastic is just changed a lot more.)"
+        },
+        {
+          "kind": "read",
+          "title": "A journey through a forest (pages 57–58)",
+          "mins": 7,
+          "do": "Read page 57 aloud: Reena and Amit go to their village near a forest for a harvest festival, on the day the village becomes fully solar-powered. Then read page 58: trees full of orange-red flowers, and father explains that palash is called the 'flame of the forest'. Ask: 'Why is it called the flame of the forest?' (When it blooms, the whole forest looks reddish-orange, as if it were on fire.) Tell your child that palash flowers come in early spring, around February to April, often when the tree has dropped its leaves, and that its flowers were traditionally soaked to make orange Holi colour."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 1: Colourful flowers and their local names (page 58)",
+          "mins": 10,
+          "do": "Copy the Activity 1 table from page 58: Name of the flower, Local name. The book's example: palash is called Kesuda in Gujarat. Your child writes five colourful flowers of your area. Ask family members for the names in your home language: marigold (genda in Hindi, zendu in Marathi, chendumalli in Tamil), hibiscus (gudhal, jaswand, sembaruthi), jasmine (mogra, malli), lotus (kamal, tamarai), bougainvillea, champa, harsingar or parijat (night-flowering jasmine). Then your child draws and colours one flower in the space on page 58."
+        },
+        {
+          "kind": "exp",
+          "title": "Sun-power test",
+          "mins": 15,
+          "do": "Do Experiment e3. Take two identical steel glasses or plastic bottles and fill them with the same amount of tap water. Wrap one in black paper or a black cloth and the other in white paper. Ask your child to guess first which will be warmer after an hour in the sun. Put both in direct sun. While you wait, read the Note to the Teacher on page 58 and explain solar panels: the shiny dark-blue panels on roofs turn sunlight straight into electricity, which can run fans and bulbs, and extra electricity can be stored in batteries for the night. After an hour (or at the end of the day's lesson), your child dips a finger in each glass, or uses a thermometer if you have one, and records the result.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Why would a village go solar?",
+          "mins": 7,
+          "do": "Ask: 'Why would a village near a forest want to run on solar power?' Build the answer together: sunlight is free and does not run out; a village far from the city may get poor power from the main grid; solar panels make no smoke, unlike diesel generators or burning wood; and fewer trees need to be cut for fuel. Then ask a fair question: 'What is one problem with solar power?' (It makes no electricity at night or much less on cloudy monsoon days, so batteries are needed.) Tell your child that India is among the top countries in the world for solar power, and that Modhera in Gujarat, a village near the old Sun Temple, was declared India's first village to run on solar power round the clock in 2022."
+        }
+      ],
+      "need": ["Textbook pages 57–58", "2 identical steel glasses or plastic bottles", "black paper or cloth and white paper, rubber bands", "a sunny spot", "a thermometer if you have one", "crayons or colour pencils"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Houses of clay and walls that tell stories",
+      "goal": "Find out how houses of clay, hay and cow dung keep people comfortable, test how an earthen pot cools water, and start a model house from natural materials.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Welcome to the village (page 59)",
+          "mins": 6,
+          "do": "Read page 59 aloud: Amit notices that the village houses look different from city houses, and Mother explains that they are made of clay, hay, cow dung and other natural materials, and that Grandmother painted the wall with a dye of rice flour and water. Look at the picture. Ask: 'Why would people build with clay and hay?' (They are found nearby, cost little, can be repaired easily, keep the house cool in summer and warm in winter, and go back into the soil when the house is pulled down.) Tell your child that white rice-paste wall painting is also used in Warli art of Maharashtra, aripan of Bihar and mandana of Rajasthan."
+        },
+        {
+          "kind": "exp",
+          "title": "Matka or steel: which keeps water cooler?",
+          "mins": 12,
+          "do": "Set up Experiment e2. Fill an earthen pot (matka or a small clay pot or kulhad) and a steel vessel of a similar size with the same tap water at the same time. Feel both, or measure with a thermometer. Put them side by side in the shade where air moves (near a window or under a fan). Ask your child to guess first which will be cooler after three hours, and why. Your child touches the outside of the matka now and again later: it feels damp. You will check at the end of today and again tomorrow.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: Start a model house from nature (page 60)",
+          "mins": 18,
+          "do": "Start Activity a1, Activity 2 on page 60. Mix garden soil or clay with water and a handful of dry grass or hay cut into short pieces until it is like thick dough. On a cardboard base, build four low walls about 8 cm high around a frame of twigs or ice-cream sticks. Leave a gap for a door and a small window. Your child presses the clay mixture onto the frame with wet hands. Ask: 'Why do we mix in the grass?' (The grass fibres hold the clay together so it does not crack as it dries, just as hay does in real mud walls.) Leave it in the shade to dry; the roof comes on Day 4."
+        },
+        {
+          "kind": "talk",
+          "title": "Gond art (page 60)",
+          "mins": 6,
+          "do": "Read the 'Do you know?' box on page 60 about Gond art. If you can, show your child a few Gond paintings online or in a book: trees, deer, peacocks and fish filled with patterns of dots, dashes and lines. Tell them that the Gond community lives mostly in Madhya Pradesh and nearby states, and that the artist Jangarh Singh Shyam made Gond painting famous around the world. Ask: 'What do you notice about the patterns? Why might Gond artists paint so many animals and trees?' (Their lives and stories are closely tied to the forest.) Your child chooses one animal to paint in Gond style on Day 3."
+        },
+        {
+          "kind": "exp",
+          "title": "Matka check",
+          "mins": 3,
+          "do": "Check Experiment e2 at the end of the lesson. Your child puts one hand in each vessel. Ask: 'Which feels cooler already?' Write the time and the result. Leave them for the full three hours and check again before dinner.",
+          "ref": "e2"
+        }
+      ],
+      "need": ["Textbook pages 59–60", "a matka, small clay pot or kulhad and a steel vessel of similar size", "a thermometer if you have one", "garden soil or clay, water, dry grass or hay", "twigs or ice-cream sticks", "a cardboard base", "pictures of Gond art (phone or book)"],
+      "prep": [{"task": "Collect a bucket of garden soil or potter's clay, a handful of dry grass or hay and some twigs; borrow a small clay pot", "when": "2 days before"}]
+    },
+    {
+      "n": 3,
+      "title": "Grandmother's colours: making a natural dye",
+      "goal": "Make natural dyes from plant parts as Grandmother did, dye a cloth to soak overnight, and paint a Gond-style picture with natural colours.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Matka results",
+          "mins": 4,
+          "do": "Finish Experiment e2. Compare the water in the matka and the steel vessel by touch or thermometer. Ask: 'Which was cooler? Was the outside of the matka wet?' Read the 'why' of e2 to your child and connect it to mud houses: thick walls of clay are slow to heat up in the afternoon sun, so the inside stays cooler.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Painting on cloth (page 60)",
+          "mins": 4,
+          "do": "Read the middle of page 60: Grandmother paints on cloth with paints made of natural extracts of flowers, leaves and powdered coloured stones. Then read the three steps of Activity 3. Ask: 'Which plant parts does the book suggest?' (Flowers, leaves, bark and roots, such as beetroot, hibiscus and marigold.) Ask: 'What colours do you think each will give?' Write the guesses down."
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 3: Make natural dyes (page 60)",
+          "mins": 25,
+          "do": "Do Experiment e1 with an adult at the stove. Make three small dyes in three pans, each with about 2 cups of water (a smaller batch than the book's 1–2 litres is fine): one with a chopped beetroot, one with 2 spoons of haldi (turmeric), one with the dry outer skins of 6–8 onions or a big handful of marigold petals. Cover and simmer for 30 minutes, as the book says. While they simmer, your child cuts three strips from an old white cotton handkerchief or vest and writes a number on each corner with a permanent marker. Strain each dye into a bowl. Put one cloth strip in each bowl. Add a spoon of salt to each bowl and stir. Leave to soak overnight. Your child records the colour of each liquid.",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Gond-style painting with natural colours",
+          "mins": 12,
+          "do": "Start Activity a2. Keep a few spoons of each dye aside in small cups before soaking the cloths. Your child draws the outline of their chosen animal or tree in pencil on thick paper, then fills it with Gond-style patterns of dots and lines, painting with a cotton bud or brush dipped in the beetroot, haldi and onion dyes. Add white with a paste of rice flour and water, like Grandmother's wall painting. Ask: 'Which colour is brightest on paper? Which is faintest?' Leave it to dry.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook page 60", "1 beetroot, 2 spoons haldi, dry skins of 6–8 onions or a handful of marigold petals", "3 pans with lids, a strainer, 3 bowls, salt", "an old white cotton handkerchief or vest", "a permanent marker", "thick paper, cotton buds or a brush, a spoon of rice flour"],
+      "prep": [{"task": "Save dry onion skins for a few days and buy a beetroot; find an old white cotton cloth", "when": "1 week before"}]
+    },
+    {
+      "n": 4,
+      "title": "Keeping grain safe and the honey gatherers",
+      "goal": "See our dye results, learn how villages store grain safely with neem, cow dung and gourds, hear about the Jenu Kurubas, and finish the model house.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Natural dye results and wash test",
+          "mins": 10,
+          "do": "Finish Experiment e1. Squeeze each cloth strip and hang it to dry in the shade, as the book says. Once dry, cut each strip in half. Wash one half of each in a bowl of soapy water, rub it 20 times, rinse and dry. Your child sticks the unwashed and washed halves side by side in the notebook. Ask: 'Which colour stayed best after washing? Which washed out?' (Haldi and onion skin usually hold best; beetroot often fades a lot.) Read the 'why' of e1.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Grain stores and the Jenu Kurubas (pages 61–62)",
+          "mins": 8,
+          "do": "Read page 61 aloud: the children see tools for farming and for collecting honey, earthen pots lined inside with neem leaves, and bamboo baskets coated with cow dung on the outside, which keep grain safe from insects and pests. Ask: 'Why neem leaves?' (Neem leaves contain bitter chemicals, such as azadirachtin, that many insects avoid or that stop them feeding and breeding.) Read the 'Do you know?' box on page 62: the Jenu Kurubas of Karnataka, whose name comes from 'jenu', honey, sing songs to apologise to the bees when they collect honey. Ask: 'Why might honey collectors want to show respect to bees?' (Without bees there is no honey, and bees also pollinate the forest's flowers; taking only some honey and leaving the colony alive means there will be honey next year.)"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 4: Traditional ways to store food (page 62)",
+          "mins": 10,
+          "do": "Copy the Activity 4 table from page 62: Name, Commonly used in which state, Details of the container. The book's example is the tumri of Uttarakhand, made from a dried bottle gourd. Phone a grandparent or ask an elder at home and your child adds at least three: mud bins for grain (kothi or kuthla in Bihar and Uttar Pradesh), dried neem leaves or a few dry red chillies kept in rice or dal tins, mixing ash with pulses, sun-dried vegetables and vadis, pickles in a clay barni with oil and salt, papads dried on the terrace. Look in your own kitchen too: is there a tin with neem leaves, bay leaves or cloves in the rice? Ask: 'What do salt, oil, drying and neem all do?' (They stop germs or insects from growing.)"
+        },
+        {
+          "kind": "act",
+          "title": "Finish the model house",
+          "mins": 8,
+          "do": "Finish Activity a1. The clay walls from Day 2 should now be dry. Make a sloping roof from a piece of card covered with dry grass or hay glued in overlapping rows (like a thatched roof), or flat twigs laid side by side. Your child decorates the walls with white rice-flour paste patterns, as Grandmother did, and coats a small part of the floor with a thin smear of mud. Ask: 'Why do thatched roofs slope?' (So that rainwater runs off instead of soaking in.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Nature in the village",
+          "mins": 9,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark it together; for any wrong answer, go back to the page it comes from (page 58 for palash, pages 59–60 for houses and dyes, pages 61–62 for storing grain).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["the dyed cloth strips", "a bowl of soapy water", "glue and the notebook", "Textbook pages 61–62", "the model house, card, dry grass or hay, glue, rice-flour paste", "a phone to call a grandparent", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Plants that heal and the first-aid box",
+      "goal": "Learn about neem oil, medicinal plants and first aid, record the plants our family uses for health, and hear how a scientist turned an old herbal recipe into a medicine that saves millions.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Neem oil and the first-aid box (page 63)",
+          "mins": 6,
+          "do": "Read the top of page 63: Dada ji rubs a neem-oil mixture on hands and feet to keep mosquitoes away, and Reena says she has prepared a first-aid box with medicines and mosquito repellent cream bought from the market. Ask: 'What is the same about Dada ji's oil and Reena's cream?' (Both keep mosquitoes away.) 'What is different?' (One is made at home from a plant; the other is made in a factory.) Tell your child honestly that tests have found neem oil does repel mosquitoes for a few hours, but usually for less time than the best factory repellents, so it should be put on again."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 5: Plants for health (page 63)",
+          "mins": 10,
+          "do": "Copy the Activity 5 table from page 63: Name of the plant, Parts of the plant, Use(s). The book starts with tulsi (leaves) and ajwain (carom seeds). Your child asks the elders at home and fills in the uses and at least four more rows, for example: tulsi - leaves - in kadha or tea for a cough and cold; ajwain - seeds - for a stomach ache or gas; haldi - underground stem - in haldi doodh and on small cuts; neem - leaves, twigs - in bath water, as a datun to clean teeth; ginger - underground stem - for cold and nausea; aloe vera - leaf gel - on minor burns and dry skin; pudina - leaves - for a cool drink in summer. Tell your child: 'These are what our family believes helps. Scientists test such beliefs carefully; we will see how.'"
+        },
+        {
+          "kind": "act",
+          "title": "Make a family first-aid box (page 63 questions)",
+          "mins": 12,
+          "do": "Ask the two questions at the bottom of page 63. 'What should be kept in a first-aid box?' (Clean cotton and gauze, adhesive bandages, a roll bandage, an antiseptic liquid or cream, a thermometer, small scissors, tweezers for splinters, ORS packets, a paracetamol syrup or tablets chosen by a doctor, a mosquito repellent, and a card with emergency numbers such as 112 and 108 and the family doctor's number.) 'Why is first aid important?' (It stops bleeding, keeps a wound clean so it does not get infected, and keeps a person safe until a doctor comes.) Make Activity a3: your child collects these things into a box and labels it. Practise one skill: washing a small 'cut' (a red pen mark) with clean water and covering it with a bandage.",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Tu Youyou and the old recipe",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words: a Chinese scientist read a 1,600-year-old book of herbal recipes, noticed a clue about soaking sweet wormwood in cold water, and found artemisinin, a medicine that now cures malaria. Ask: 'Malaria is spread by mosquitoes. Which is better: a repellent like Dada ji's neem oil, or a medicine like artemisinin?' (They do different jobs: one stops bites, the other cures someone already ill; we need both.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "think",
+          "title": "Whose idea is haldi? The turmeric patent",
+          "mins": 7,
+          "do": "Tell the story in Voice v2: in 1995 an American patent office gave two researchers a patent for using turmeric to heal wounds, and Indian scientists led by R.A. Mashelkar got it cancelled by showing old Indian texts. Ask: 'Why was it unfair to give someone a patent for using haldi on a wound?' (Indian families had used it for centuries; a patent should be for a new invention.) Ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Textbook page 63", "notebook", "a shoebox or tin, cotton, gauze, bandages, antiseptic, scissors, tweezers, ORS, a thermometer, a card for emergency numbers", "a red pen and a clean bowl of water"],
+      "prep": [{"task": "Check what first-aid things you already have and buy any missing bandages or antiseptic", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Does it really work? Lights, dances and testing a remedy",
+      "goal": "Learn how scientists test whether a traditional remedy really works, read about the festival lights and dances, and imagine two days without electricity.",
+      "steps": [
+        {
+          "kind": "think",
+          "title": "Is haldi a medicine? A live debate",
+          "mins": 10,
+          "do": "Tell the story in Voice v4: thousands of studies have been done on curcumin, the yellow substance in haldi, but in 2017 a team of chemists led by Kathryn Nelson looked at them closely and argued that curcumin is a poor medicine because the body absorbs very little of it and it gives misleading results in laboratory tests. Other scientists still study it. Ask your child: 'Our family uses haldi doodh for a cold. How could we find out whether it really helps, or whether the cold just goes away by itself in a week?' Guide them to a fair test: many people with colds, half given haldi milk and half plain milk that looks and tastes the same, nobody told which they got, then compare how fast they recover. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "read",
+          "title": "Sparkling light, happy life (pages 64–65)",
+          "mins": 6,
+          "do": "Read page 64 aloud: in the evening the solar-powered village is lit with colourful lights, everyone gathers in a big field in traditional clothes, prayers are offered to God and mother nature, and the dhol and nagada play while people dance. Ask: 'Where did the electricity for these lights come from?' (Sunlight collected by the solar panels during the day, stored in batteries.) Ask: 'What are the dhol and nagada made from?' (Wood or metal shells with animal skin or plastic stretched across; you hit the skin to make it vibrate.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Book Activity 6: Dances and songs of our region (page 65)",
+          "mins": 9,
+          "do": "Do Activity 6 on page 65 at home. Ask a grandparent about a traditional dance or song of your region and its season or festival: garba (Gujarat, Navratri), bihu (Assam, spring harvest), lavani (Maharashtra), bhangra (Punjab, harvest), kolattam (Tamil Nadu and Andhra), ghoomar (Rajasthan), karma (Jharkhand and Chhattisgarh). Watch a short video of it together and learn four steps. Ask: 'Why are so many of these dances done at harvest time?' (To celebrate and give thanks for the crops that nature and hard work gave.) Your child performs the steps for the family."
+        },
+        {
+          "kind": "talk",
+          "title": "Two days with no electricity (page 65)",
+          "mins": 8,
+          "do": "Do the question on page 65: 'Imagine there is no electricity in your area for two days. What changes will you see in your life?' Your child lists at least eight changes, room by room: no fan or cooler, the fridge warms and milk goes sour, no water if a pump fills the tank, phones go dead, no TV, no lights after sunset so homework by candle, the mixer and induction stove stop, lifts stop in tall buildings. Then ask: 'Which of these would not trouble Reena's village grandmother at all?' (The matka keeps water cool, clay walls keep the house cool, grain is stored without a fridge, food is cooked on a chulha.) 'How would a solar panel help?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Nature at home, new cases",
+          "mins": 12,
+          "do": "Do Worksheet ws2 (stretch). It applies the chapter's ideas to new situations. Let your child explain each answer aloud before writing. For the fair-test item, praise answers that change only one thing.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 64–65", "a phone to watch a short dance video", "notebook", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Sacred groves and festivals of nature",
+      "goal": "Find out what sacred groves are and why ecologists value them, record festivals linked to plants and animals, and start caring for birds near home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sacred groves (page 65)",
+          "mins": 6,
+          "do": "Read the end of page 65: Reena and Amit are amazed at the village's connection with nature and wonder how they could thank nature. Read the 'Do you know?' box about sacred groves: small patches of forest protected by local communities, where trees and wildlife are preserved, and where people gather to worship and celebrate. Tell your child that India has many thousands of sacred groves, with different names: devrai in Maharashtra, kavu in Kerala, orans in Rajasthan, law kyntang in Meghalaya, such as the famous Mawphlang grove near Shillong. Ask: 'Why might a forest last longer if people believe it is sacred?' (Nobody dares to cut it or hunt in it, generation after generation.)"
+        },
+        {
+          "kind": "think",
+          "title": "Madhav Gadgil and the sacred groves",
+          "mins": 9,
+          "do": "Tell the story in Voice v3: the ecologist Madhav Gadgil and the botanist V.D. Vartak walked through the villages of the Western Ghats in the 1970s and found that sacred groves held rare plants that had disappeared from the land around them. Ask: 'What could a scientist learn from a forest that has not been cut for hundreds of years?' (What the original forest was like, which plants and animals lived there, and seeds of rare plants to bring back elsewhere.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 7: Festivals of plants and animals (page 66)",
+          "mins": 12,
+          "do": "Copy the Activity 7 table from page 66: Name of the festival, Plants/Animals associated, Activity. The book's examples: Vat Purnima - banyan tree - worshipping; Hari Jiroti - fruit-bearing trees - plantation; Kaziranga Elephant Festival - elephant - awareness drive. Your child talks to elders and adds at least three festivals celebrated in your family or locality, for example: Nag Panchami (snakes), Pola (bullocks, Maharashtra), Tulsi Vivah (tulsi plant), Sarhul (sal tree, Jharkhand), Chhath (the Sun and the river), Pongal and Mattu Pongal (the harvest and the cattle), Bihu (the harvest). Read the paragraph below the table: worshipping plants and animals shows our tradition of respecting and protecting nature."
+        },
+        {
+          "kind": "act",
+          "title": "Water and grain for birds (pages 66–67)",
+          "mins": 12,
+          "do": "Read the list of ways to care for plants and animals on pages 66–67: reduce paper waste, say no to plastic, spread awareness, keep food and water for birds, plant trees, organise a clean-up drive. Then do Activity a4: make a bird bath from a wide, shallow clay saucer (the kind placed under flowerpots) or a cut plastic bottle base no deeper than 5 cm. Put a flat stone in it so small birds can stand. Fill it with clean water and place it on the balcony or terrace, in shade, where cats cannot reach. Put a small pinch of broken rice or bajra on a separate plate. Your child makes a chart to note the birds that come each morning for a week.",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Our family nature promise",
+          "mins": 6,
+          "do": "Ask your child to choose three actions from pages 66–67 that the family will really do this month, and write them as a promise on a card for the fridge, with one person in charge of each: for example, 'Papa: carry a cloth bag to the market', 'Me: refill the bird bath every morning', 'Didi: use both sides of paper'. Ask: 'How will we check whether we kept the promise?' (Tick it every day on the card.)"
+        }
+      ],
+      "need": ["Textbook pages 65–67", "a wide shallow clay saucer or the base of a plastic bottle, a flat stone", "a pinch of broken rice or bajra and a small plate", "a card for the fridge", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Let us reflect: herbal garden, check and teach it back",
+      "goal": "List what we take from nature, think about what happens when we overuse it, design a herbal garden, check understanding and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "What we take from nature (page 67)",
+          "mins": 8,
+          "do": "Do question 1 on page 67. Copy the table: Activities (eating, clothing, healthcare, any other) and what we collect from nature for each; the book's examples are fruits, cotton and neem. Your child adds at least three to each row (eating: rice, dal, milk, honey, fish; clothing: cotton, silk, wool, jute; healthcare: tulsi, haldi, ginger, aloe vera; other: wood, bamboo, clay, sand, water). Then do question 2: 'What challenges arise when we overuse natural resources?' The book's example is wood: forests deplete. Your child writes one for water (wells and rivers dry up), soil (it loses its goodness or is washed away when trees are cut), sea products (fish become scarce when too many are caught, including the young ones) and one more, such as sand (riverbeds are dug out and riverbanks collapse)."
+        },
+        {
+          "kind": "act",
+          "title": "Design a herbal garden (page 68)",
+          "mins": 9,
+          "do": "Do question 4 on page 68: in the box, your child draws a plan of a small herbal garden, with each herb in its own bed and its name: tulsi, pudina, ajwain plant, lemongrass, aloe vera, curry leaf, haldi, ginger. Ask them to also draw a herb they like less (perhaps bitter neem or strong-smelling ajwain) and say why. Then answer question 3 on page 68, 'How can we protect the natural environment?', with one action each for home, school, parks and our locality. If you can, plant one real herb: a pudina cutting in a glass of water, or a tulsi seedling in a pot, and add it to the bird-bath balcony."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page with your child for one minute, then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 4 grain-storage lesson and the Day 5 medicinal plants table next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views. Your child can answer the write items aloud while you scribe. There is no single right answer in section C; praise reasons that use evidence ('in our matka test...', 'a fair test would...').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 10,
+          "do": "Your child is the teacher, and you (or a grandparent or sibling) are the student. In 5 minutes they teach, using real things from the week: the model house, the dyed cloth strips, the Gond painting, the first-aid box and the bird bath. They should cover: why village houses of clay and hay stay cool; how a natural dye is made; how grain is kept safe with neem; which plants we use for health and how scientists test them; and what sacred groves are. Ask two 'student' questions: 'Why did the matka water get cooler?' and 'If haldi works for wounds, why do we still need doctors to test it?' Show the bird chart from Activity a4 and keep filling it for the rest of the week.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 67–68", "the model house, dyed cloths, Gond painting, first-aid box and bird chart", "a pudina cutting or tulsi seedling and a pot (optional)", "worksheet ws3"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Nature in Reena and Amit's village",
+      "day": 4,
+      "sections": [
+        ["A. Flowers, houses and colours", [
+          {"t": "fill", "p": "Palash is called the 'flame of the ____' because its orange-red flowers make the forest look on fire.", "a": ["forest"]},
+          {"t": "sort", "p": "Sort these building materials.", "items": ["Clay", "Hay", "Cow dung", "Bamboo", "Cement", "Plastic sheet", "Steel rods", "Wooden sticks"], "cats": ["Natural material", "Made in a factory"]},
+          {"t": "mcq", "p": "What did Grandmother use to paint the wall?", "opts": ["Oil paint from the market", "A dye of rice flour and water", "Coloured chalk", "Plastic paint"], "a": 1}
+        ]],
+        ["B. Making a dye", [
+          {"t": "write", "p": "Write the three steps for making a natural dye, as given on page 60.", "lines": 4},
+          {"t": "mcq", "p": "Which of these could give a natural yellow dye?", "opts": ["Haldi", "Salt", "Sugar", "Rice"], "a": 0}
+        ]],
+        ["C. Keeping food and people safe", [
+          {"t": "match", "p": "Match each traditional method to what it does.", "pairs": [["Neem leaves in an earthen grain pot", "Keep insects and pests away from the grain"], ["Cow dung coating on a bamboo basket", "Protects stored grain from insects"], ["Tumri", "A container made from a dried bottle gourd (Uttarakhand)"], ["Neem-oil mixture on hands and feet", "Keeps mosquitoes away"]]},
+          {"t": "fill", "p": "The Jenu Kurubas of Karnataka collect ____ and sing songs to apologise to the bees.", "a": ["honey"]},
+          {"t": "write", "p": "Name four things you would keep in a first-aid box.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Nature at home: new cases",
+      "day": 6,
+      "sections": [
+        ["A. Cool and warm", [
+          {"t": "mcq", "p": "On a hot afternoon, which house will stay coolest inside?", "opts": ["A tin-roofed hut", "A house with thick clay walls and a thatched roof", "A glass cabin", "A tent of plastic sheet"], "a": 1},
+          {"t": "write", "p": "Why does water in a matka stay cooler than water in a steel pot? Use the word 'evaporate'.", "lines": 3},
+          {"t": "mcq", "p": "A solar water heater on a roof has black pipes. Why black?", "opts": ["Black looks nice", "Black takes in more sunlight and gets hotter", "Black stops rain", "Black is cheaper"], "a": 1}
+        ]],
+        ["B. Plants and their uses", [
+          {"t": "table", "p": "Fill in the plant part and one use.", "cols": ["Plant", "Part used", "One use"], "rows": 4, "prefill": ["Tulsi", "Ajwain", "Haldi", "Neem"]},
+          {"t": "sort", "p": "Which part of the plant do we use?", "items": ["Tulsi for kadha", "Ajwain", "Ginger", "Neem datun", "Haldi", "Aloe vera gel"], "cats": ["Leaf", "Seed", "Underground stem", "Twig"]}
+        ]],
+        ["C. Fair tests", [
+          {"t": "write", "p": "Riya says onion skin dye stays in cloth better than beetroot dye. Describe a fair test to check. What must you keep the same?", "lines": 3},
+          {"t": "write", "p": "Your cousin says neem oil keeps mosquitoes away all night. How could you test this at home safely?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles, what ifs and scientists who test traditions",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Neem leaves protect stored grain, but we can still eat the rice after taking the leaves out. Why don't the neem leaves harm us the way they bother insects?", "lines": 3},
+          {"t": "mcq", "p": "A sacred grove has rare plants that are not found in the fields around it. What is the best explanation?", "opts": ["Rare plants like temples", "The grove has not been cut or grazed for a very long time, so plants that need old, undisturbed forest survived there", "Someone planted them last year", "It rains only on the grove"], "a": 1},
+          {"t": "write", "p": "The solar village has lights at night even though there is no sun. How?", "lines": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if everyone in a village cut one tree from the sacred grove every year for firewood? What would the grove look like after 20 years? What would be lost?", "lines": 3},
+          {"t": "write", "p": "What if fishermen used nets with very small holes that catch even baby fish? What would happen to the catch after a few years?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Tu Youyou used a clue from a very old herbal book, then tested it carefully in the lab. Why do you think she needed both the old book and the tests?", "lines": 3},
+          {"t": "mcq", "p": "Many people say curcumin from haldi cures many illnesses. Some chemists say the evidence is weak. Which evidence would convince you most?", "opts": ["An advertisement", "Your aunt's story", "A large fair test in which people did not know if they got curcumin or a dummy pill, and those with curcumin got better faster", "A video with many likes"], "a": 2},
+          {"t": "write", "p": "Indian scientists got the American turmeric patent cancelled. What evidence did they use, and why did it work?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Make natural dyes and test which colour stays (Book Activity 3, page 60)",
+      "day": 3,
+      "question": "Which plant parts make the strongest natural dyes, and which colours stay in cloth after washing?",
+      "need": ["1 beetroot", "2 spoons haldi (turmeric powder)", "dry outer skins of 6–8 onions, or a large handful of marigold petals", "3 pans with lids, water, a stove (adult only)", "a strainer and 3 bowls", "3 spoons of salt", "an old white cotton handkerchief or vest cut into 3 strips", "a permanent marker", "a bowl of soapy water"],
+      "steps": [
+        "An adult chops the beetroot. Put each plant material into its own pan with about 2 cups of water.",
+        "Cover with a plate or lid and simmer for 30 minutes (the book says 30 minutes to an hour). Note the colour of each liquid.",
+        "Let it cool a little and strain each into its own bowl. Keep a few spoons of each aside for painting.",
+        "Mark each cloth strip with a number. Put one strip in each bowl, add a spoon of salt and stir.",
+        "Leave to soak overnight. Next morning, squeeze each strip and dry it in the shade.",
+        "Cut each dry strip in half. Wash one half of each in soapy water, rubbing 20 times, then rinse and dry. Stick washed and unwashed halves side by side and compare."
+      ],
+      "predict": "Ask your child to guess first: which plant will give the darkest colour? Which colour will stay best after washing? Will the beetroot cloth be red, pink or something else?",
+      "observe": "Record the colour of each liquid, each dried cloth and each washed cloth. Usually haldi gives bright yellow and onion skins give gold to orange-brown, and both stay fairly well; beetroot gives a strong pink liquid but fades a lot on cloth and after washing.",
+      "why": "Plants make coloured chemicals called pigments: the yellow curcumin in haldi, the red-purple betalains in beetroot, and the yellow-brown pigments in onion skins. Hot water draws these out of the plant into the water. A pigment works as a dye only if it sticks to the threads of the cloth. Some, like the pigments in onion skins and haldi, cling to cotton fairly well; others, like beetroot's, mostly sit on the surface and wash out, and also fade in light. Dyers have long used a helper called a mordant (such as alum, a mineral salt) that acts like glue between the pigment and the fibre and makes colours last. Salt helps a little. Grandmother's 'powdered coloured stones' are mineral colours such as red and yellow ochre, which are coloured earths.",
+      "safety": "An adult must do all the chopping, boiling and straining. Haldi and beetroot stain hands, clothes and counters; wear old clothes and cover the table with newspaper.",
+      "time": "25 min + overnight soak + 10 min next day"
+    },
+    {
+      "id": "e2",
+      "title": "Matka or steel: which keeps water cooler?",
+      "day": 2,
+      "question": "Why do earthen pots, like the ones in Reena and Amit's village, keep water cool without a fridge?",
+      "need": ["an earthen pot (matka, small clay pot or kulhad)", "a steel vessel of similar size", "tap water", "a thermometer if you have one", "a shady place where air moves"],
+      "steps": [
+        "Fill both vessels with the same amount of the same tap water at the same time.",
+        "Feel both, or measure the temperature, and write it down.",
+        "Put them side by side in the shade, where air moves (near a window or under a fan).",
+        "Touch the outside of the matka and the steel vessel. Note whether they are dry or damp.",
+        "After 3 hours, feel or measure the water in each again.",
+        "Repeat the next day if the weather is very humid or rainy and compare."
+      ],
+      "predict": "Ask your child to guess first: after three hours, will the matka water be cooler, warmer or the same as the steel pot water? Why?",
+      "observe": "The outside of the matka becomes damp, and its water ends up noticeably cooler than the water in the steel vessel, often by a few degrees. The effect is strongest on dry, breezy days and weakest on humid, rainy days.",
+      "why": "Baked clay is full of tiny holes, so a little water slowly seeps through the wall of the matka and spreads over its outside surface. There it evaporates, turning from liquid water into water vapour in the air. To evaporate, water needs heat, and it takes that heat from the pot and the water inside it, so the water cools down. This is the same reason you feel cold when you come out of a bath and stand under a fan. Dry, moving air makes evaporation faster, so the matka works best in the dry summer. Steel has no holes, so no water seeps out and there is no cooling. Thick clay walls in village houses also stay cool because clay takes a long time to heat up in the afternoon sun.",
+      "safety": "Use a clean pot. Handle clay pots gently; they break easily.",
+      "time": "12 min to set up + 3 min checks after 3 hours"
+    },
+    {
+      "id": "e3",
+      "title": "Sun-power test: black or white?",
+      "day": 1,
+      "question": "Does sunlight carry energy, and which colour collects more of it? (Links to the solar-powered village, pages 57–58.)",
+      "need": ["2 identical steel glasses or plastic bottles", "tap water", "black paper or black cloth and white paper", "rubber bands or tape", "a sunny spot", "a thermometer if you have one"],
+      "steps": [
+        "Fill both glasses with the same amount of the same tap water.",
+        "Wrap one glass in black paper or cloth and the other in white paper, and fix them with rubber bands.",
+        "Feel both or measure the temperature at the start.",
+        "Put both in direct sunlight, side by side.",
+        "After about an hour, feel the water in each with a finger or measure it.",
+        "Also feel the outside of each wrapping."
+      ],
+      "predict": "Ask your child to guess first: after an hour in the sun, will the water in both glasses be the same? If not, which will be warmer?",
+      "observe": "Both glasses get warmer than when they started, but the black-wrapped glass becomes clearly warmer than the white one, and its wrapping feels hot to touch.",
+      "why": "Sunlight carries energy. When light falls on something and is soaked up (absorbed), its energy turns into heat. A black surface absorbs almost all the light that falls on it, so it gets hot; a white surface reflects most of the light away, so it stays cooler. That is why we feel hotter in a black T-shirt in summer, and why solar water heaters have black pipes. Solar panels work in a different way: they are made of a material called silicon that turns the energy of light directly into electricity, without heating water first. That electricity can run lights, fans and pumps, and can be stored in batteries for the night, which is how Reena and Amit's village can be lit up for the evening celebrations.",
+      "safety": "Do not leave plastic bottles in the sun for many hours, and do not drink the water used in the test.",
+      "time": "15 min to set up + 3 min check after 1 hour"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Model house from natural materials (Book Activity 2, page 60)",
+      "day": 2,
+      "mins": 18,
+      "need": ["garden soil or potter's clay", "water", "a handful of dry grass or hay cut short", "twigs or ice-cream sticks", "a cardboard base", "card for the roof, glue", "rice flour mixed with water as white paint"],
+      "steps": [
+        "Mix the soil or clay with water and the chopped grass until it is like thick dough.",
+        "Stand twigs or ice-cream sticks upright on the cardboard base in a square to make a frame, about 8 cm high.",
+        "Press the clay mixture onto the frame to make four walls, leaving a door and a small window.",
+        "Let the walls dry in the shade for a day or two.",
+        "Make a sloping roof of card covered with overlapping rows of dry grass, or flat twigs laid side by side.",
+        "Decorate the walls with white rice-flour paste patterns, like Grandmother's wall painting or Warli art."
+      ],
+      "outcome": "A small model village house of clay, grass and twigs, decorated with rice-paste art, that shows how natural materials can be used to build."
+    },
+    {
+      "id": "a2",
+      "title": "Gond-style painting in natural colours",
+      "day": 3,
+      "mins": 12,
+      "need": ["a few spoons each of the beetroot, haldi and onion-skin dyes", "a paste of rice flour and water", "thick paper", "a pencil, cotton buds or a thin brush"],
+      "steps": [
+        "Draw the outline of an animal or tree in pencil, large enough to fill the paper.",
+        "Divide the inside of the outline into sections.",
+        "Fill each section with a different pattern of dots, dashes, wavy lines or tiny fish-scale shapes, as Gond artists do.",
+        "Paint the patterns with the natural dyes using cotton buds or a brush.",
+        "Add white highlights with the rice-flour paste.",
+        "Dry it flat and write the name of the plant used for each colour on the back."
+      ],
+      "outcome": "A Gond-style painting made entirely with home-made natural colours, and a record of which plant gave which colour."
+    },
+    {
+      "id": "a3",
+      "title": "Family first-aid box (page 63)",
+      "day": 5,
+      "mins": 12,
+      "need": ["a clean shoebox or tin with a lid", "cotton wool, gauze, adhesive bandages, a roll bandage", "antiseptic liquid or cream", "small scissors and tweezers", "ORS packets", "a thermometer", "a mosquito repellent", "a card and a pen"],
+      "steps": [
+        "Write FIRST AID in big letters on the lid and draw a red cross.",
+        "Collect each item and say aloud what it is for as you put it in.",
+        "Write a card with emergency numbers (112 for all emergencies, 108 for ambulance in most states), the family doctor's number and a neighbour's number, and tape it inside the lid.",
+        "Practise one skill: wash a 'cut' with clean water, dab it dry and cover it with a bandage.",
+        "Keep the box on a high shelf everyone knows, away from small children.",
+        "Check it every three months and replace anything used or out of date."
+      ],
+      "outcome": "A labelled family first-aid box that your child helped make and knows how to use for small injuries."
+    },
+    {
+      "id": "a4",
+      "title": "Bird bath and bird chart (pages 66–67)",
+      "day": 7,
+      "mins": 12,
+      "need": ["a wide, shallow clay saucer or the cut base of a plastic bottle (not deeper than 5 cm)", "a flat stone", "clean water", "a pinch of broken rice or bajra on a small plate", "a chart for 7 days"],
+      "steps": [
+        "Put the flat stone in the saucer so small birds can stand on it.",
+        "Fill it with clean water and place it on a balcony, terrace or wall in the shade, out of reach of cats.",
+        "Put a small pinch of grain on a separate plate nearby.",
+        "Every morning, empty, rinse and refill the water so mosquitoes cannot breed in it.",
+        "Watch for 5 minutes each morning and record the birds that come, the time and what they do.",
+        "After a week, count which bird came most often."
+      ],
+      "outcome": "A bird bath that helps birds through the hot season, and a week's chart of the birds that visit."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Tu Youyou (born 1930), China",
+      "idea": "In 1969 Tu Youyou, a pharmaceutical chemist in Beijing, was put in charge of a team searching traditional Chinese herbal remedies for a new cure for malaria, because the malaria parasite had become resistant to the old medicines. Her team tested hundreds of remedies. A recipe in a book written about 1,600 years ago by Ge Hong told people to soak sweet wormwood (qinghao) in cold water and drink the juice. This gave her the idea that heat might destroy the medicine, so she extracted it at a low temperature. In 1971 her team got an extract that cleared the parasite from infected mice and monkeys, and its active substance, artemisinin, was then identified.",
+      "then": "Her work was done in secret during a difficult time in China, and for many years few scientists outside China knew about it. She had no doctorate and had not trained abroad, and she was sometimes overlooked for honours in her own country.",
+      "now": "Artemisinin-based medicines are now the main treatment for malaria recommended by the World Health Organization and have saved millions of lives, including in India. In 2015 Tu Youyou shared the Nobel Prize in Physiology or Medicine. Her story shows that old remedies can give useful clues, but only careful testing shows whether, how and how well they work.",
+      "status": "accepted",
+      "ask": "Tu Youyou's team tested hundreds of remedies and most did not work. Why is it important to test many remedies carefully instead of trusting the oldest or the most famous one?",
+      "day": 5
+    },
+    {
+      "id": "v2",
+      "who": "R.A. Mashelkar (born 1943) and India's CSIR, and the turmeric patent (1995–1997)",
+      "idea": "A patent gives an inventor the right to stop others from using a new invention for many years. In 1995 the United States patent office gave two researchers at the University of Mississippi Medical Center a patent for using turmeric powder to heal wounds. India's Council of Scientific and Industrial Research (CSIR), led by the chemical engineer R.A. Mashelkar, challenged it. They showed old texts, including writings in Sanskrit and a 1953 paper in the Journal of the Indian Medical Association, proving that turmeric had long been used on wounds in India.",
+      "then": "Many people thought a developing country could not win such a case. But a patent can be given only for something new, and the evidence showed that this use was already known.",
+      "now": "In 1997 the US patent office cancelled the patent. In a similar case, a European patent on a neem-based fungicide was revoked in 2000 after a challenge supported by Vandana Shiva and others. India then built the Traditional Knowledge Digital Library, a searchable record of traditional remedies, so that patent offices can check it. Note that winning the patent case proved the use was old, not that turmeric is a proven medicine; that is a separate question (see the curcumin debate).",
+      "status": "accepted",
+      "ask": "The patent was cancelled because the idea was old, not because it was wrong. What is the difference between proving that people have used haldi on wounds for centuries and proving that haldi actually heals wounds faster?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Madhav Gadgil (born 1942) and V.D. Vartak, India (sacred grove surveys, 1970s)",
+      "idea": "The ecologist Madhav Gadgil and the botanist V.D. Vartak surveyed the devrais (sacred groves) of the Western Ghats in Maharashtra in the 1970s. They found that these small patches of forest, protected for centuries by religious belief, held old trees, rare plants and climbers that had vanished from the cut and grazed land around them. They argued that sacred groves are living records of the original forest and that village traditions of protecting them are a real form of conservation.",
+      "then": "At that time, conservation in India was mostly seen as the job of the forest department, and village customs were often dismissed as superstition. Their work helped scientists take local traditions seriously.",
+      "now": "Scientists accept that many sacred groves are important stores of plant and animal life and sources of springs and streams. Thousands have been recorded across India. Many groves have also shrunk or been damaged as beliefs weaken and land is needed, and ecologists now work with communities to protect them. Gadgil later led the Western Ghats Ecology Expert Panel, whose 2011 report on protecting the Ghats is still debated by governments.",
+      "status": "accepted",
+      "ask": "A grove is protected because people believe it is sacred, not because of a science rule. Does the reason matter, if the trees are saved? What might happen to the grove if the belief fades?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "Kathryn Nelson, Michael Walters and colleagues (USA, 2017), and the curcumin debate",
+      "idea": "Curcumin, the yellow substance in haldi, has been studied in many thousands of scientific papers and is sold as a pill for everything from joint pain to cancer. In 2017 a team of medicinal chemists led by Kathryn Nelson and Michael Walters reviewed the research in the Journal of Medicinal Chemistry. They argued that curcumin is a poor candidate for a medicine: the body absorbs very little of it from food, it breaks down quickly, and in laboratory tests it reacts with many things and can make experiments look more successful than they are.",
+      "then": "Their paper surprised many people who believed curcumin was a proven cure. Some researchers disagreed, pointing to small human studies that seemed to show benefits, for example for joint pain.",
+      "now": "No large, well-designed trial has yet shown that curcumin cures any disease, though some small trials suggest it may help a little with some conditions, and research continues on forms the body can absorb better. Haldi is a safe and valued spice in food. Whether curcumin pills work as medicine is still debated.",
+      "status": "debated",
+      "ask": "Thousands of papers say curcumin might work, but no big fair test has proved it. Is it the number of papers that matters, or how good the tests are? How would you design a fair test?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Why is palash called the 'flame of the forest'?", "a": "When its bright orange-red flowers bloom, the whole forest looks reddish-orange from a distance, as if it were on fire."},
+    {"q": "What were the village houses made of, and why are such houses good to live in?", "a": "Clay, hay, cow dung and other natural materials. They are cheap and found nearby, easy to repair, keep cool in summer and warm in winter, and go back into the soil."},
+    {"q": "How do you make a natural dye?", "a": "Collect plant parts with colour (beetroot, hibiscus, marigold, haldi, onion skins), boil them in water for 30 minutes to an hour with a cover, then strain out the plant material. Soak cloth in the dye overnight, squeeze and dry it."},
+    {"q": "How did the village keep stored grain safe from insects?", "a": "Earthen pots were lined inside with neem leaves, and bamboo baskets were coated with cow dung on the outside. Other ways include the tumri (a dried bottle gourd) and mud bins."},
+    {"q": "Name two plants used for health, the part used and the use.", "a": "For example: tulsi leaves for coughs and colds; ajwain seeds for stomach ache; neem leaves and oil to keep insects away; haldi on small cuts; ginger for colds."},
+    {"q": "Why does water in a matka stay cool?", "a": "Water seeps through tiny holes in the clay and evaporates from the outside of the pot. Evaporation takes heat from the pot and the water, so the water cools."},
+    {"q": "What is a sacred grove, and why is it important?", "a": "A patch of forest protected by a local community for worship, where trees are not cut and animals are not hunted. It keeps old trees, rare plants and animals and water sources safe, and is a place for the community to gather."},
+    {"q": "How did Tu Youyou use an old herbal book, and why was testing still needed?", "a": "A 1,600-year-old Chinese book said to soak sweet wormwood in cold water, which gave her the idea to extract it without heat. She found artemisinin, which cures malaria. Testing was needed to show which remedy really worked and how well; most remedies tested did not work."}
+  ]
+}

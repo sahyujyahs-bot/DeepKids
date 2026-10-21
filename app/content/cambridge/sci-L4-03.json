@@ -1,0 +1,827 @@
+{
+  "key": "cambridge|sci|4|3",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 4,
+  "n": 3,
+  "title": "Materials",
+  "source": "Cambridge Primary Science Learner's Book 4 (2nd edition, 2021), Unit 3 'Materials' (pages 49–69)",
+  "summary": "Your child learns the difference between materials, substances and particles, and uses the particle model to explain why solids keep their shape while liquids flow and take the shape of their container, and why powders like atta and salt can be poured. They watch melting and solidifying as changes of state, a physical process that does not make a new substance, and compare them with chemical reactions such as burning, setting concrete and rusting, which make new substances that usually cannot be turned back.",
+  "goals": [
+    "By the end your child can explain the difference between a material (glass, wood), a substance (pure water, salt, oxygen) and a particle, with home examples.",
+    "By the end your child can describe the particle model for solids (tightly packed in a regular pattern, vibrating in place) and liquids (close but not in a pattern, sliding past each other), and use it to explain shape and flow.",
+    "By the end your child can explain why powders such as atta, sugar and sand can be poured, time how fast they flow, draw a bar graph, describe a pattern and say how to make results reliable.",
+    "By the end your child can describe melting and solidifying, explain them with the particle model and say why change of state is a physical process.",
+    "By the end your child can recognise a chemical reaction by the new substance it makes (ash and gases from burning, rust, concrete, bubbles of gas), and say what iron needs to rust and how rusting can be prevented.",
+    "By the end your child can plan a fair test, naming what to change, keep the same and measure, and write a conclusion from observations made over time."
+  ],
+  "words": [
+    ["matter", "everything around us that takes up space: solids, liquids and gases"],
+    ["material", "a type of matter that things are made from, like wood, plastic, steel or glass; most materials are mixtures"],
+    ["substance", "a pure type of solid, liquid or gas that is not a mixture, like salt, pure water or oxygen"],
+    ["particle", "a very small bit of something; most particles of matter are far too small to see"],
+    ["particle model", "scientists' picture of matter as tiny moving particles with spaces between them, used to explain solids, liquids and gases"],
+    ["property", "what a material or substance is like or how it behaves, such as hard, runny, rough or see-through"],
+    ["powder", "a solid made of many tiny grains with air between them, so it can be poured, like atta, salt or sand"],
+    ["reliable", "results are reliable when you get the same or very similar answer each time you repeat a test"],
+    ["change of state", "when a substance changes between solid, liquid and gas because it is heated or cooled"],
+    ["melting", "a solid changing into a liquid when it is heated, like ghee melting in a warm kadhai"],
+    ["solidifying", "a liquid changing into a solid when it loses heat; for water we call it freezing"],
+    ["physical process", "a change in form only, such as melting; no new substance is made and it can usually be reversed"],
+    ["chemical reaction", "a change in which substances react to make a new substance, like burning or rusting; usually it cannot be reversed"],
+    ["rust", "the reddish-brown, flaky new substance that forms when iron reacts with water and oxygen from the air"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Materials and substances",
+      "goal": "Hunt for solids, liquids and gases at home, read pages 49–51, and learn how a material differs from a substance.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Kitchen state hunt (page 49)",
+          "mins": 10,
+          "do": "Do the Getting started task on page 49 in your kitchen instead of a classroom. Your child makes three columns in the notebook: Solid, Liquid, Gas, and finds at least 15 things: steel plate, wooden belan, glass jar, rice, salt, water, oil, milk, vinegar, LPG (a gas, stored squashed in the cylinder), air in an empty bottle, steam from the kettle. Then ask the three questions: 1 Which are solids? 2 Are there liquids or gases? 3 'How did you decide?' Good answers: solids keep their shape and you can hold them; liquids pour and take the shape of the container; gases spread out to fill a space and are often invisible. If they say rice is a liquid because it pours, say: 'Good thinking! We will find out on Day 5 why some solids can pour.'"
+        },
+        {
+          "kind": "read",
+          "title": "Materials, substances and particles (page 50)",
+          "mins": 10,
+          "do": "Read page 50 aloud: objects are made of materials; plastic, wood, rubber and glass are materials; all materials are made of matter; most materials are mixtures of substances; a substance is a pure solid, liquid or gas, like salt, pure water or oxygen. Look at the glass-making picture and follow it with your finger: sand, soda ash and limestone are heated, they form liquid glass, it is shaped and goes hard as it cools. Ask: 'Where in our house is there glass?' (Windows, bottles, bangles, the TV screen.) Tell them that Firozabad in Uttar Pradesh is famous for making glass bangles this way."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 4–7 (page 51)",
+          "mins": 10,
+          "do": "Read the top of page 51 (all matter is made of particles; dust particles are big enough to see, most are far too small). Then ask Questions 4–7. 4 'What is matter?' (Everything around us.) 5 'Difference between a material and a substance?' (A material is the stuff things are made of and is usually a mixture; a substance is one pure kind of matter.) 6 'Is glass a material or a substance? Why?' (A material, because it is made by mixing sand, soda ash and limestone.) 7a 'How are sand and pure water similar?' (Both are matter, both made of particles, both can be poured.) 7b 'How are they different?' (Sand is a solid made of grains and a mixture; pure water is a liquid substance.)"
+        },
+        {
+          "kind": "game",
+          "title": "Material or substance?",
+          "mins": 10,
+          "do": "Call out things and your child says 'material' (a mixture used to make things) or 'substance' (pure). Salt (substance). Steel (material: a mixture of iron with a little carbon and sometimes other metals). Distilled water from the battery shop (substance). Tap water (a mixture: water with dissolved minerals). Sugar (substance). Wood (material). Air (a mixture of gases, mainly nitrogen and oxygen). Oxygen (substance). Gold in a coin (nearly pure substance; jewellery gold of 22 carat is a mixture with a little copper or silver). Ask them to explain each choice."
+        },
+        {
+          "kind": "do",
+          "title": "Word list",
+          "mins": 5,
+          "do": "Your child writes the unit's key words in the notebook: matter, material, substance, particle, and adds a one-line meaning and a home example for each, in their own words. Check the examples make sense, for example 'material: wood, my desk is made of it'."
+        }
+      ],
+      "need": ["Learner's Book pages 49–51", "kitchen items to look at", "science notebook and pencil"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Particles are always moving",
+      "goal": "Learn the particle model from page 51 and do the food colouring investigation to show that particles in liquids move all the time.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The particle model of matter (page 51)",
+          "mins": 7,
+          "do": "Read 'The particle model of matter' on page 51 aloud: most particles are too small to see, so scientists use a model; the particles have spaces between them; the particles are always moving, even when we can't see it; the amount of movement decides whether something is a solid, liquid or gas. Ask: 'What is a model? Remember the skeleton model in Unit 1.' (Something that helps us understand what we cannot easily see.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Demonstrate that liquid particles move (pages 51–52)",
+          "mins": 15,
+          "do": "Do Experiment e1, the 'Demonstrate that particles of liquids move' investigation on pages 51–52, and add a hot-water glass to make it a comparison. Measure 100 ml of cold water into one glass and 100 ml of hot tap or kettle water (adult pours) into an identical glass. Let them stand still for one minute. Your child predicts what will happen, then you each gently add 2 drops of food colouring (or a few drops of strong haldi water) to the middle of each glass at the same moment. Do not stir or touch the glasses. Watch for 5 minutes.",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "Record it (page 52)",
+          "mins": 8,
+          "do": "Follow the bullets at the top of page 52. Your child draws each glass at 0, 1 and 5 minutes, labels 'glass', 'water' and 'food dye', and writes a sentence: 'The colour spread through the water by itself, faster in hot water, so the water particles must be moving and bumping the colour particles around.' Then ask the last bullet: 'Which type of scientific enquiry did we use?' (Observing over time, and comparing hot and cold made it a fair test.) Leave the glasses for 1 hour and look again: the colour will be even all through."
+        },
+        {
+          "kind": "think",
+          "title": "Kanada, Democritus and tiny bits",
+          "mins": 10,
+          "do": "Read Voice v1 to your child. Ask: 'Kanada and Democritus never saw a particle. How did they decide matter was made of them?' (By reasoning: if you keep cutting something in half, you must reach a piece too small to cut.) Ask the voice question. Ask: 'Is reasoning enough, or do we need an experiment?' Link to today's colour test: it is a piece of evidence they did not have.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Smell travels too",
+          "mins": 5,
+          "do": "Light an agarbatti or open a jar of hing in one corner of the room while your child stands in the far corner. Ask them to raise a hand when they smell it. Ask: 'How did the smell reach you without anyone carrying it?' (Particles of the smell moved through the air, bumping and spreading, just like the colour in water.) Ask: 'Would it be faster or slower on a cold day?' (Slower, because particles move more slowly when cold.)"
+        }
+      ],
+      "need": ["Learner's Book pages 51–52", "2 identical clear glasses", "a measuring cup", "cold and hot water (adult pours hot)", "food colouring or strong haldi water", "an agarbatti or a jar of hing"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Particles in solids and liquids",
+      "goal": "Learn from page 52 how particles are arranged in solids and liquids, and play the particle game from pages 52–53 with the family.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Solids and liquids in the model (page 52)",
+          "mins": 8,
+          "do": "Read the middle of page 52 and look at the two particle drawings. Solids: particles packed tightly in a regular pattern, with very small spaces, so they cannot move around and stay in fixed positions (they only jiggle in place). Liquids: particles close together but not in a regular pattern, with bigger spaces, so they can slide past one another and change places. Use 20 marbles, chickpeas (chana) or rajma in a small square tray: packed in neat rows = solid; tilt the tray so they jumble and roll over each other = liquid."
+        },
+        {
+          "kind": "game",
+          "title": "Play the particle game (pages 52–53)",
+          "mins": 15,
+          "do": "Do Activity a1, the 'Play the particle game' on pages 52–53, with 4 or 5 family members (or your child plus soft toys moved by hand). First be a SOLID: stand shoulder to shoulder in neat rows, arms linked. Try each bullet on page 53: shake side to side (you can only jiggle in place); move closer or further apart (you can't); change the group's shape (you can't without letting go). Then be a LIQUID: stand close but not in rows, hands just touching, and try the same three things (you can slide past each other, change places and the group's shape changes easily). Swap roles and repeat.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–4 (page 53)",
+          "mins": 8,
+          "do": "Ask Questions 1–4 on page 53. 1 Compare shaking as solids and liquids. (As solids we could only jiggle in place; as liquids we could move around.) 2 Compare moving closer or apart. (Solids: no; liquids: a little, and we could slip past each other, but we stayed close.) 3 Compare changing shape. (Solids kept their shape; liquids changed shape easily.) 4 'How does the game show the particle model?' (People were the particles; linked arms were the strong pull between particles in a solid; looser hands showed how liquid particles slide.) Ask: 'How is the game different from real particles?' (People are huge, can think and stop; real particles never stop moving.)"
+        },
+        {
+          "kind": "think",
+          "title": "The scientist who believed in atoms",
+          "mins": 9,
+          "do": "Read Voice v2 about Ludwig Boltzmann and how the dancing of pollen grains finally proved that particles are real. Ask the voice question. If you have a microscope or a strong magnifier, look at a drop of milk diluted in water; tiny fat droplets jiggle even when the drop is still, which is the same kind of movement.",
+          "ref": "v2"
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (page 53)",
+          "mins": 5,
+          "do": "Ask the three 'How am I doing?' questions on page 53, and your child answers Very well, Quite well or I need help for each. Then ask them to draw the particle pictures for a steel spoon (solid) and for milk (liquid) from memory. Read and tick the 'Look what I can do!' list on page 53."
+        }
+      ],
+      "need": ["Learner's Book pages 52–53", "20 marbles, chana or rajma and a small tray", "4–5 family members for the game", "a magnifier (optional)"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Properties of solids and liquids",
+      "goal": "Learn about properties from pages 54–55 and plan and carry out Sofia and Zara's investigation into changing the shape of water.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "True or false (page 54)",
+          "mins": 6,
+          "do": "Read the five Getting started statements on page 54 and your child says true or false with a reason. 1 All substances are made from particles (true). 2 Materials are not made from particles (false, everything is). 3 Particles in solids cannot move (false: they vibrate in place, they just can't move around). 4 Particles in liquids can slide past one another (true). 5 There are always spaces between particles (true)."
+        },
+        {
+          "kind": "read",
+          "title": "Properties, solids and liquids (pages 54–55)",
+          "mins": 8,
+          "do": "Read 'Properties of solids and liquids' on page 54 and 'Solids' and 'Liquids' on page 55. A property describes what something is like or how it behaves. Your child tries to squeeze a steel tumbler, a pencil and a wooden spoon: they keep their shape. Then they squash a ball of atta dough and a sponge: some solids change shape if you push hard enough, but they don't change by themselves. Ask: 'What shape is the water in a glass?' (The shape of the glass.) 'Predict what happens if you pour water on a flat plate.' (It spreads out into a thin puddle.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Sofia and Zara: can water change shape? (page 55)",
+          "mins": 20,
+          "do": "Do Experiment e2, 'Think like a scientist 1' on page 55. Read the speech bubbles: Sofia says she can make water change its shape; Zara says she can't. Your child writes a question, for example 'Does water change shape when we pour it into different containers?' They plan: pour the same 100 ml of water (measured) into a tall glass, a katori, a flat thali, a plastic bottle and a zip-lock bag. Lay out these and other kitchen containers and let them choose. They carry it out, draw the water in each container, and write a conclusion. Finally ask: 'Did the amount of water change?' (No: pour it back into the measuring cup to check; it is still 100 ml.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Explain with the particle model",
+          "mins": 7,
+          "do": "Read the last paragraph on page 55: liquid particles are further apart than solid particles, so they can move around, flow and take the shape of the container. Ask: 'So who was right, Sofia or Zara?' (Sofia: water takes the shape of whatever it is in, but its amount stays the same.) Ask: 'Why can't you pour a steel spoon?' (Its particles are held tightly in fixed places.) Ask your child to write the explanation in two sentences under their drawings."
+        },
+        {
+          "kind": "do",
+          "title": "Property words",
+          "mins": 4,
+          "do": "Your child lists five properties of honey (sticky, golden, runny, sweet, flows slowly) and five of a steel spoon (hard, shiny, smooth, keeps its shape, cold to touch). Ask: 'Which properties tell you that honey is a liquid?' (It flows and takes the shape of its container, even though slowly.)"
+        }
+      ],
+      "need": ["Learner's Book pages 54–55", "a measuring cup", "a tall glass, katori, thali, plastic bottle and zip-lock bag", "a ball of atta dough and a sponge", "a little honey"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Solids that flow",
+      "goal": "Learn from page 56 why powders can be poured, and investigate how fast salt, sugar, atta and sand flow through a funnel.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Can solids behave like liquids? (page 56)",
+          "mins": 7,
+          "do": "Read the top of page 56 aloud: most solids cannot be poured; some, such as sand, flour, salt and sugar, can be poured and take the shape of the container; these are powders made of tiny grains with air between them, so the grains can flow past one another; but each grain is still a solid made of millions of particles. Pour rice into a katori and then into a glass. Ask: 'Did the rice take the shape of the glass?' (Yes, roughly.) 'Did each grain of rice change shape?' (No. That is the difference from a real liquid.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate solids that can flow (pages 56–57)",
+          "mins": 25,
+          "do": "Do Experiment e3, 'Think like a scientist 2' on page 56. Put a spoonful each of salt, sugar, atta (or maida) and dry sand on four pieces of paper. Your child feels each (rough or smooth?) and looks with a magnifying glass (big or small grains?). Then measure 100 ml of one solid, hold the funnel over a jar, pour it in and time how many seconds it takes to flow through. Repeat for each solid, and do each one twice, recording both times in a table: Solid, Grain size, Time 1 (s), Time 2 (s). Atta often clogs; record 'did not flow freely' and how you had to tap it. If you have no funnel, cut the top off a plastic bottle and use it upside down, without the cap.",
+          "ref": "e3"
+        },
+        {
+          "kind": "do",
+          "title": "Draw the graph",
+          "mins": 13,
+          "do": "Do the last bullet on page 56: your child draws a bar graph with the four solids along the bottom and time in seconds up the side, using the average of the two times for each. Show how to choose a scale (for example each square = 2 seconds) and label both axes. Keep the graph for tomorrow's questions."
+        }
+      ],
+      "need": ["Learner's Book pages 56–57", "100 ml each of salt, sugar, atta and dry sand", "a funnel (or a cut plastic bottle top)", "a measuring cup and a jar", "a magnifying glass", "a timer", "graph paper or squared notebook"],
+      "prep": [{"task": "Collect a cup of clean dry sand (from a building site or playground, sieved and dried in the sun) and a funnel", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Patterns, reliable results, and a strange solid",
+      "goal": "Answer the page 57 questions about patterns and reliable results, do the core worksheet, and play with a mixture that behaves like a solid and a liquid.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Questions 1–7 (page 57)",
+          "mins": 12,
+          "do": "Use yesterday's table and graph to ask Questions 1–7 on page 57. 1 Fastest? 2 Slowest? (Often salt or sugar is fastest and atta slowest.) 3 Differences between them? (Fast ones have bigger, smooth, round or cube-shaped grains; the slow one has very fine grains that stick together and clump.) 4 Pattern? (Bigger, smoother, drier grains flow faster.) 5 How to predict another powder? (Look at its grain size: rava has medium grains, so it should flow fairly fast; besan is fine, so slowly. Test one to check!) 6 Reliable? (If our two times for each solid were close, yes; to find out, repeat again or ask someone else to do it.) 7 Units? (Seconds, a standard unit, so anyone anywhere can compare with ours.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Test the prediction",
+          "mins": 6,
+          "do": "Your child predicts the time for rava (sooji) using the pattern from Question 5, writes it down, then times 100 ml of rava through the funnel. Ask: 'Did the pattern help you predict? How close were you?' This is how scientists use a pattern to make new predictions.",
+          "ref": "e3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 15,
+          "do": "Give your child Worksheet ws1. They work alone first; read the questions aloud if needed. Check together; for any wrong particle-model answer, use the chana tray from Day 3 to show it again.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "act",
+          "title": "Cornflour slime: solid or liquid?",
+          "mins": 12,
+          "do": "Do Activity a2. In a bowl, mix half a cup of cornflour with about a quarter cup of water, a little at a time, until it is thick. Your child punches it fast (it feels hard), then lets their fingers sink in slowly (it flows like a liquid). Pick up a handful and squeeze it into a ball, then open the hand: it runs away. Ask: 'Is it a solid or a liquid?' Explain that it is neither neatly: it is a mixture of tiny cornflour grains in water; when pushed fast, the grains jam together and act like a solid; when moved slowly, the water lets them slide like a liquid. This shows that the solid-liquid idea is a model and some things don't fit it perfectly.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Learner's Book page 57", "the Day 5 table and graph", "100 ml rava and the funnel", "Worksheet ws1", "half a cup of cornflour, water and a bowl"],
+      "prep": [{"task": "Print or copy Worksheet ws1; buy cornflour", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Melting and solidifying",
+      "goal": "Learn from pages 58–59 what change of state, melting and solidifying are, investigate an ice cube in the hand, and set kulfi to freeze.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 58)",
+          "mins": 6,
+          "do": "Ask the Getting started questions on page 58. 1 'What different properties do solids and liquids have?' (Solids keep their shape; liquids flow and take the shape of the container.) 2 'Can a solid become a liquid? Example?' (Ice melts to water; ghee melts in a hot pan; candle wax melts.) 3 'Can a liquid become a solid? Example?' (Water freezes in the freezer; melted ghee goes solid in winter; molten wax hardens.)"
+        },
+        {
+          "kind": "read",
+          "title": "Change of state (pages 58–59)",
+          "mins": 7,
+          "do": "Read 'Change of state' on pages 58–59 aloud: solids, liquids and gases are states of matter; heating or cooling can change the state; Sabera's ice-cream melted in the Sun (solid → liquid = melting); solidifying is the opposite (liquid → solid), and for water it is called freezing because water must be very cold. Ask your child to write both arrows from the page in the notebook: solid → (heating causes melting) → liquid, and liquid → (cooling causes solidifying) → solid."
+        },
+        {
+          "kind": "exp",
+          "title": "What happens to ice when it is heated? (page 59)",
+          "mins": 12,
+          "do": "Do Experiment e4, 'Think like a scientist 1' on page 59. Put an ice cube on a saucer. Ask: 'Is it solid or liquid? How do you know?' (Solid; it keeps its shape.) Your child touches it (cold) and then holds it in their palm over the saucer, while you time it. First they predict what will happen and how long it will take. Watch it shrink and drip. Ask the page 59 questions: 1 What made the ice change state? (Heat from my hand.) 2 Did the ice change into another substance? (No, it is still water, just liquid; you could drink it or freeze it again.) 3a How to change it back? (Put it in the freezer.) 3b What is that process called? (Solidifying or freezing.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "A physical process (page 59)",
+          "mins": 5,
+          "do": "Read the last box on page 59: change of state is a physical process because the substance only changes its form, not into a different substance. Ask: 'When ghee melts in the kadhai and goes solid again in the jar in winter, is it still ghee?' (Yes, a physical process.) 'When you melt a candle and it hardens again, is it still wax?' (Yes.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make kulfi to freeze",
+          "mins": 15,
+          "do": "Start Activity a3. Warm 2 cups of milk with 3 tablespoons of sugar and a pinch of elaichi powder (adult at the stove). Let it cool, then your child pours it into 4 small steel tumblers, kulfi moulds or paper cups with an ice-cream stick in each. Before putting them in the freezer, they draw one cup and write 'liquid' and the time. Ask: 'Predict how long the kulfi will take to become solid. What must the freezer take away from the milk?' (Heat energy.) Check one cup after 1 hour and 2 hours by pushing the stick: soft, slushy or solid? Eat them tomorrow!",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Learner's Book pages 58–59", "ice cubes and a saucer", "a timer", "2 cups milk, sugar, elaichi powder", "4 small cups or kulfi moulds and ice-cream sticks", "freezer space"],
+      "prep": [{"task": "Make a tray of ice cubes", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Change of state and particles",
+      "goal": "Explain melting and solidifying with the particle model (page 60), and run the fair melting race of ice, chocolate and butter (page 61).",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Change of state and the particle model (page 60)",
+          "mins": 8,
+          "do": "Read page 60 aloud and look at both drawings. Heating gives particles energy; some heat energy changes to movement energy, so particles move faster; with enough energy they break free of their fixed places and the solid melts. Cooling takes energy away; particles slow down and move closer; with enough energy lost, the liquid becomes solid. Act it out with the family from the Day 3 game: start linked as a solid, then 'heat' (you clap faster and faster) and everyone jiggles harder until they unlink and slide around as a liquid; then 'cool' (slow claps) and they slow and link up again."
+        },
+        {
+          "kind": "exp",
+          "title": "Compare melting in different solids (page 61)",
+          "mins": 20,
+          "do": "Do Experiment e5, 'Think like a scientist 2' on page 61. Put an ice cube, a square of chocolate and a cube of butter (all about the same size) on three identical saucers in the same sunny spot. Your child predicts which will melt first and writes it down. Observe every 5 minutes for 15 minutes and record in a table: Time, Ice, Chocolate, Butter (solid, soft, partly melted, melted). While waiting, eat the kulfi from Day 7 and ask: 'What happened to the milk? Is it still milk?' (It froze; it solidified; still the same milk, a physical process.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–7 (page 61)",
+          "mins": 10,
+          "do": "Ask the page 61 questions. 1 Why a warm place? (To give the solids heat energy to melt.) 2 Which melted first? Was your prediction correct? 3 Which took longest? (Results depend on the day; in Indian sun, butter and ice often go first and chocolate softens but keeps its shape longer.) 4 Use the particle model: in each solid, particles gained heat energy, moved faster and broke out of their fixed places to slide past each other. 5 'Was this a fair test?' (Partly: same saucers, same place, same time; but the pieces may not have been exactly the same size or shape, and they are different colours, which soak up sunlight differently.) 6 Write a conclusion. 7 'What happens if you keep heating the melted ice?' (It gets hotter and then boils and turns to steam, a gas.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Melting metals (page 62)",
+          "mins": 7,
+          "do": "Read page 62: metals like gold and silver melt if heated to very high temperatures, and solidify again when cooled. Tell them that a goldsmith (sunar) melts old gold jewellery in a small clay pot with a very hot flame and pours it into a mould to make new jewellery; it is still gold, a physical process. Iron melts at about 1,500 °C, far hotter than any kitchen flame. Ask the reflection questions on page 62: what did you learn, what was difficult, what was easy? Tick the 'Look what I can do!' list on page 62."
+        }
+      ],
+      "need": ["Learner's Book pages 60–62", "an ice cube, a square of chocolate and a cube of butter of similar size", "3 identical saucers", "a sunny windowsill and a timer", "the kulfi from Day 7"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Chemical reactions make new substances",
+      "goal": "Learn from pages 63–64 that chemical reactions make new substances that usually cannot be turned back, see a reaction in the kitchen, meet Lavoisier, and start the rust investigation.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started: chocolate (page 63)",
+          "mins": 7,
+          "do": "Melt a small piece of chocolate in a steel spoon over a cup of hot water. Ask the Getting started questions on page 63. 1 What happens when you heat chocolate? (It melts.) 2 Does it change in any other way? (No, still chocolate, a physical change.) 3 Can you change it back? (Yes, cool it in the fridge.) 4a If you mix in nuts, does it become a new substance? (No, it is a mixture; the nuts and chocolate are each unchanged.) 4b Can you take the nuts out? (Yes, pick them out, or melt the chocolate and lift them out.)"
+        },
+        {
+          "kind": "read",
+          "title": "Making new substances (page 64)",
+          "mins": 8,
+          "do": "Read page 64 aloud: some substances change when mixed and form a new substance, a chemical reaction; cement, sand, water and stone make concrete, which cannot be turned back; burning wood reacts with air to make ash and gases; old tin cans and cars left outside go reddish-brown with rust, another chemical reaction. Ask: 'Name a chemical reaction in our kitchen.' Help them find: a roti browning on the tawa, a burnt chapati (black is a new substance), the gas flame burning, curd forming from milk, an apple slice turning brown."
+        },
+        {
+          "kind": "exp",
+          "title": "Fizz: lemon and baking soda",
+          "mins": 8,
+          "do": "Do Experiment e6. Put a teaspoon of baking soda (meetha soda) in a glass. Your child predicts what will happen when you add lemon juice, then squeezes in half a lemon. It fizzes. Hold a lit matchstick (adult) just inside the top of the glass: it goes out. Ask: 'Is this a new substance? How do you know?' (Yes: bubbles of a gas that wasn't there before, which puts out a flame; it is carbon dioxide.) 'Can you turn it back into lemon and soda?' (No.) Tell them this same reaction makes dhokla and some cakes light and fluffy.",
+          "ref": "e6"
+        },
+        {
+          "kind": "think",
+          "title": "Lavoisier and the end of phlogiston",
+          "mins": 9,
+          "do": "Read Voice v3 about the phlogiston theory and Antoine Lavoisier. Ask the voice question. Then ask: 'When wood burns, the ash is much lighter than the wood. Does that mean something was lost, or did something go into the air?' (Gases went into the air; if you could catch them, the total would weigh more than the wood, because oxygen from the air joined in.)",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the rust jars (page 65)",
+          "mins": 13,
+          "do": "Start Experiment e7, 'Which substances react to form rust?' on page 65. Use three pieces of steel wool (the kind for scrubbing pans, without soap) or three plain iron nails. Number three glass jars 1, 2 and 3. Jar 1: pour in water to cover only part of the wool and leave it open. Jar 2: cover the wool completely with water that you have boiled and cooled (boiling drives out air), and close the lid. Jar 3: leave it dry and open. For an even drier jar, add a spoonful of uncooked rice or salt at the bottom to soak up damp. Your child predicts what will happen in each jar and writes it down. Put them on a shelf and look again in two days.",
+          "ref": "e7"
+        }
+      ],
+      "need": ["Learner's Book pages 63–65", "a square of chocolate, a spoon and a cup of hot water", "1 teaspoon baking soda, half a lemon, a glass, matches (adult)", "3 pieces of steel wool without soap, or 3 iron nails", "3 glass jars, one with a lid", "boiled and cooled water", "a marker"],
+      "prep": [{"task": "Boil a cup of water and let it cool in a covered vessel for the rust jar", "when": "morning"}]
+    },
+    {
+      "n": 10,
+      "title": "Rust and how to stop it",
+      "goal": "Observe the rust jars and answer the page 65 questions, research ways to prevent rusting (page 66), learn about Delhi's Iron Pillar, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Observe the rust jars (page 65)",
+          "mins": 10,
+          "do": "Look at Experiment e7 after two days. Your child draws each jar. Ask Questions 1 and 2 on page 65. 1a Which jar rusted? (Usually jar 1 most, especially where the wool meets the water line; jar 2 under boiled water with a lid, little or none; jar 3 dry, little or none.) 1b Was your prediction correct? 2a 'Why wait two days?' (Rusting is a slow reaction.) 2b 'What will change in two more days?' (More rust in jar 1; perhaps a little in the others.) 3 Conclusion: 'Iron needs both water and air (oxygen) to rust.' 4 'Which type of enquiry?' (Observing over time, as a fair test.) Leave the jars for one more check on Day 11.",
+          "ref": "e7"
+        },
+        {
+          "kind": "act",
+          "title": "How can we prevent rusting? (page 66)",
+          "mins": 13,
+          "do": "Do Activity a4, the research activity on page 66. Walk round the house and building and find metal things. For each, your child notes whether it is rusty and how it has been protected: window grills (painted), the steel almirah (painted or coated), bicycle chain (oiled), galvanised water tank or bucket (coated with zinc, dull silver), stainless steel utensils (iron mixed with chromium, which makes a thin protective layer), plastic-coated wire. Ask: 'What do all these protections do?' (Keep water and air away from the iron.) Then ask the page 66 question: 'How can preventing rust help the environment?' (Things last longer, so less new iron needs mining and making, which saves energy and causes less pollution; rusty bridges and pipes can break or leak.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "The pillar that hasn't rusted",
+          "mins": 8,
+          "do": "Read Voice v4 about the Iron Pillar in the Qutub Minar complex in Delhi. Show a photo of it on the phone. Ask the voice question. Then ask: 'If you wanted to prove that Delhi's dry air was not the only reason, what could you do?' (Put a piece of modern iron next to it for some years and compare, or test a copy of the pillar's iron in damp air.)",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 14,
+          "do": "Give your child Worksheet ws2. It asks them to sort physical and chemical changes they have not seen before, plan a fair test and explain with particles. Let them work for 10 minutes, then go through it, asking 'How do you know?' for each sorting answer.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book pages 65–66", "the rust jars from Day 9", "a phone to show a photo of the Delhi Iron Pillar", "Worksheet ws2"],
+      "prep": [{"task": "Print or copy Worksheet ws2", "when": "night before"}]
+    },
+    {
+      "n": 11,
+      "title": "Project: frozen foods",
+      "goal": "Do the page 67 project: find out why and how people freeze foods, and run a fair test on how long different liquids take to freeze.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Part 1: why freeze foods? (page 67)",
+          "mins": 10,
+          "do": "Do Part 1 of the project on page 67. Interview family members and, if possible, the owner of a local kirana or dairy shop. Questions: Why do people freeze foods? (So they don't go bad; germs grow very slowly when frozen.) Which foods are often frozen? (Peas, ice cream, kulfi, paneer, meat, fish, ready parathas.) How are they prepared for eating? (Thawed in the fridge, or cooked straight from frozen.) Your child writes the answers. Look at a frozen peas packet together and read the storage instructions."
+        },
+        {
+          "kind": "act",
+          "title": "Part 2: which liquid freezes quickest?",
+          "mins": 22,
+          "do": "Do Activity a5, the Part 2 investigation on page 67. Your child chooses a question, for example 'Which liquids freeze quickest?', and five liquids: plain water, salt water (1 teaspoon salt in 100 ml), sugar water or juice, milk, and thin dal or buttermilk. Plan the fair test with them using the bullets on page 67: same amount (50 ml each), same type of cup, same shelf of the freezer, same starting temperature (all at room temperature), put in at the same time. How will you test if frozen? (Push a toothpick in: if it won't go in, it is frozen.) How often to check? (Every 30 minutes.) Set them in the freezer now, record the time, and make a results table: Liquid, 30 min, 60 min, 90 min, 120 min, ... Then check every 30 minutes for the rest of the day.",
+          "ref": "a5"
+        },
+        {
+          "kind": "exp",
+          "title": "Last rust check",
+          "mins": 5,
+          "do": "Look at the rust jars from Experiment e7 one last time. Ask: 'Has the rust in jar 1 grown? Has any appeared in jars 2 or 3?' Your child adds a final drawing. Rub a little rust off on to white paper: it is a powdery reddish-brown new substance, not iron. Then hold a magnet near the wool and near the rust powder if you have one: iron is pulled strongly, rust much less. Throw the wool away wrapped in paper and wash hands.",
+          "ref": "e7"
+        },
+        {
+          "kind": "do",
+          "title": "Prepare the results page",
+          "mins": 8,
+          "do": "Help your child set up a graph page for tonight: liquids along the bottom and 'time to freeze (minutes)' up the side. Explain that they will fill it in when the last liquid freezes. Ask them to predict now which will be slowest. (Salt water usually freezes slowest or not at all in a home freezer, because salt lowers the freezing point; this is why salt is sprinkled on icy roads in cold countries.)"
+        }
+      ],
+      "need": ["Learner's Book page 67", "a frozen food packet", "5 identical small cups", "50 ml each of water, salt water, sugar water or juice, milk, thin dal or buttermilk", "toothpicks", "freezer space and a clock", "the rust jars"],
+      "prep": [{"task": "Clear one freezer shelf for 5 cups and keep all the liquids at room temperature", "when": "morning"}]
+    },
+    {
+      "n": 12,
+      "title": "Check your progress and teach it back",
+      "goal": "Finish the frozen foods project, answer 'Check your progress' on pages 68–69, do the challenge worksheet, check understanding and teach the unit back.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Project Part 3: present it (page 67)",
+          "mins": 7,
+          "do": "Your child completes the bar graph from yesterday's freezing results and writes a conclusion that answers their question, for example 'Plain water froze first; salt water took longest.' Then, for Part 3 on page 67, they present Parts 1 and 2 to the family in 3 minutes, using the graph and the table."
+        },
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 68–69)",
+          "mins": 12,
+          "do": "Do the questions on pages 68–69 aloud. Q1: a both, b solid, c liquid, d solid (very small spaces), e both, f solid, g both (water can be a liquid, or a solid as ice). Q2: look at the drawing and decide solid or liquid with two reasons (regular pattern and tightly packed means solid; no pattern with bigger spaces means liquid). Q3 Mrs Pather's flour: a solid; b 'Flour is made of tiny grains with air between them, so the grains have space to move and can flow past each other like a liquid.' Q4a: the fair actions are iii and v. Q4b: draw particles in rows becoming jumbled as they gain heat. Q5: a rust; b iron, water and oxygen from the air; c it makes metal weak and can damage cars, bridges and buildings; d a chemical reaction."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Give your child Worksheet ws3. It has puzzles, 'what if' questions and questions comparing the voices. Encourage them to use the particle model in every answer.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 6,
+          "do": "Ask the 7 check questions aloud, without the book. Tick each answered well. For any missed answer, look again at the matching pages (particles 49–53, solids and liquids 54–57, melting 58–62, reactions 63–66) for one minute and ask again in different words."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 8,
+          "do": "Your child is the teacher. Using the chana tray, a glass of water, a spoon of salt, an ice cube and a rusty nail or the steel wool drawings, they teach you in 5 minutes: material vs substance; particles in solids and liquids; why salt can be poured; melting and solidifying as physical processes; and a chemical reaction with its new substance. Ask two 'student' questions: 'If I melt an ice cube, have I made a new substance?' and 'Why does a cycle chain need oil?'"
+        }
+      ],
+      "need": ["Learner's Book pages 67–69", "the frozen foods results", "Worksheet ws3", "the chana tray, salt, an ice cube and the rust drawings"],
+      "prep": [{"task": "Print or copy Worksheet ws3", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Materials, particles, solids and liquids",
+      "day": 6,
+      "sections": [
+        ["A. Materials and substances", [
+          {"t": "sort", "p": "Sort these.", "items": ["Salt", "Glass", "Wood", "Pure water", "Oxygen", "Steel", "Sugar", "Air"], "cats": ["Substance (pure)", "Material or mixture"]},
+          {"t": "fill", "p": "A very small bit of something is called a ____.", "a": ["particle"]},
+          {"t": "mcq", "p": "Glass is made by heating sand with soda ash and limestone. So glass is:", "opts": ["A substance", "A material", "A gas", "A particle"], "a": 1}
+        ]],
+        ["B. The particle model", [
+          {"t": "draw", "p": "Draw boxes showing the particles in a solid and in a liquid. Label 'regular pattern', 'small spaces' and 'can slide past each other' in the right places."},
+          {"t": "mcq", "p": "Why did the food colouring spread through the water without stirring?", "opts": ["The glass was shaking", "The water particles are always moving", "Colour is lighter than water", "Someone blew on it"], "a": 1},
+          {"t": "fill", "p": "Particles in a solid cannot move around because they are packed ____ together.", "a": ["tightly", "closely"]}
+        ]],
+        ["C. How solids and liquids behave", [
+          {"t": "match", "p": "Match each to its property.", "pairs": [["Steel spoon", "Keeps its shape"], ["Water", "Takes the shape of its container"], ["Atta", "A solid that can be poured"]]},
+          {"t": "write", "p": "Explain why we can pour sugar even though it is a solid. Use the words grains, air and flow.", "lines": 3},
+          {"t": "mcq", "p": "Results are reliable when:", "opts": ["We do a test only once", "We get the same or similar answers when we repeat the test", "We use our hands to measure", "The answer matches our guess"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Physical or chemical? New cases",
+      "day": 10,
+      "sections": [
+        ["A. Sort the changes", [
+          {"t": "sort", "p": "Is each change a physical process or a chemical reaction?", "items": ["Ghee melting in a kadhai", "A matchstick burning", "Water freezing into ice", "An iron gate going rusty", "Chocolate going hard in the fridge", "Milk turning into curd", "Wax melting from a candle", "A roti burning black on the tawa"], "cats": ["Physical process", "Chemical reaction"]},
+          {"t": "write", "p": "Choose one chemical reaction above. What is the new substance, and how do you know it is new?", "lines": 2}
+        ]],
+        ["B. Explain with particles", [
+          {"t": "write", "p": "Use the particle model to explain what happens when a block of jaggery (gur) is heated in a pan until it becomes runny.", "lines": 3},
+          {"t": "mcq", "p": "When melted ghee cools in a jar in winter, its particles:", "opts": ["Speed up and spread apart", "Slow down and move closer together", "Disappear", "Change into new particles"], "a": 1}
+        ]],
+        ["C. Plan a fair test", [
+          {"t": "write", "p": "Meera wants to find out whether ice melts faster on a steel plate or a plastic plate. Write her question.", "lines": 1},
+          {"t": "table", "p": "Plan her fair test.", "cols": ["What she changes", "What she keeps the same", "What she measures"], "rows": 1},
+          {"t": "write", "p": "How can Meera make her results reliable?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Particle puzzles and comparing ideas",
+      "day": 12,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Honey and water are both liquids, but honey flows much more slowly. Suggest a reason using the particle model.", "lines": 3},
+          {"t": "write", "p": "Cornflour slime felt hard when punched and runny when touched slowly. Is it a solid or a liquid? Explain why it does not fit the simple model.", "lines": 3},
+          {"t": "mcq", "p": "A steel nail is kept in a sealed jar of cooking oil. Will it rust quickly?", "opts": ["Yes, oil makes iron rust", "No, the oil keeps water and air away from the iron", "Yes, because it is in a jar", "Only if the jar is in the sun"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if the particles in solids stopped moving altogether? Could the solid ever melt? Explain.", "lines": 3},
+          {"t": "write", "p": "What if rusting could be turned back as easily as melting? How would that change how we look after bridges and cars?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Kanada and Democritus said matter is made of tiny particles but had no experiment. Boltzmann used maths. Einstein and Perrin used pollen and measurement. Which kind of evidence convinces you most, and why?", "lines": 4},
+          {"t": "write", "p": "The phlogiston idea said burning things lose something. Lavoisier showed burning metals gain weight. Why was weighing so important for settling the argument?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Colour on the move (Book activity, pages 51–52, with hot and cold water)",
+      "day": 2,
+      "question": "Do the particles in a liquid move all the time, and do they move faster when hot?",
+      "need": ["2 identical clear glasses", "a measuring cup", "100 ml cold water and 100 ml hot water (adult pours)", "food colouring or strong haldi water"],
+      "steps": [
+        "Measure 100 ml of cold water into one glass and 100 ml of hot water into the other.",
+        "Let both stand still for a minute so the water stops swirling.",
+        "At the same time, gently add 2 drops of colour to the middle of each glass.",
+        "Do not stir or move the glasses. Watch for 5 minutes.",
+        "Draw both glasses at 0, 1 and 5 minutes, and look again after 1 hour."
+      ],
+      "predict": "Ask your child to guess first: will the colour stay as a blob, sink to the bottom, or spread out by itself? Which glass will spread faster?",
+      "observe": "The colour slowly curls and spreads through the cold water, and spreads much faster in the hot water. After an hour both glasses are evenly coloured.",
+      "why": "Water is made of tiny particles that are always moving and bumping into each other, even when the water looks perfectly still. They knock the particles of colour around in all directions until the colour is spread evenly; scientists call this spreading diffusion. Hot water has more energy, so its particles move faster and the colour spreads faster. This is evidence for the particle model: we cannot see the particles, but we can see what their movement does.",
+      "safety": "An adult pours the hot water. Food colouring stains; put newspaper under the glasses.",
+      "time": "15 min + a look after 1 hour"
+    },
+    {
+      "id": "e2",
+      "title": "Can water change its shape? (Book 'Think like a scientist 1', page 55)",
+      "day": 4,
+      "question": "Does water change shape when it is poured into different containers, and does the amount change?",
+      "need": ["a measuring cup", "100 ml water", "a tall glass, katori, flat thali, plastic bottle and zip-lock bag", "a towel"],
+      "steps": [
+        "Write the question you will investigate.",
+        "Measure exactly 100 ml of water.",
+        "Pour it into the first container and draw its shape.",
+        "Pour it back into the measuring cup and check it is still 100 ml.",
+        "Repeat with each container.",
+        "Write a conclusion and explain it with the particle model."
+      ],
+      "predict": "Ask your child to guess first: will the water look the same in every container? Will we still have 100 ml at the end?",
+      "observe": "The water takes the shape of each container: tall and thin in the glass, a wide shallow puddle on the thali, a floppy shape in the bag. Each time it is poured back, it measures about 100 ml (a little is left as drops on the sides).",
+      "why": "In a liquid the particles are close together but not fixed in a pattern, so they can slide past each other. Gravity pulls them down, and they flow until they fill the bottom of whatever container they are in. That is why a liquid takes the shape of its container. But the particles stay close together, so the amount (volume) of liquid stays the same whatever shape it takes. Sofia was right that water changes shape, but its amount did not change.",
+      "safety": "",
+      "time": "20 min"
+    },
+    {
+      "id": "e3",
+      "title": "Solids that flow (Book 'Think like a scientist 2', page 56)",
+      "day": 5,
+      "question": "Which powder flows fastest through a funnel, and is there a pattern with grain size?",
+      "need": ["100 ml each of salt, sugar, atta and dry sand (and rava to test a prediction)", "a funnel", "a measuring cup", "a jar", "a magnifying glass", "a timer", "paper"],
+      "steps": [
+        "Put a little of each solid on paper. Feel it and look at it through the magnifying glass. Record rough or smooth and big or small grains.",
+        "Measure 100 ml of the first solid.",
+        "Hold the funnel over the jar and pour in the solid all at once. Time how long until it has all flowed through.",
+        "Repeat for each solid, then do each one a second time.",
+        "Record in a table and draw a bar graph of the average times.",
+        "Use the pattern to predict the time for rava, then test it."
+      ],
+      "predict": "Ask your child to guess first: which solid will flow fastest and which slowest? Why?",
+      "observe": "Salt and sugar (bigger, smooth grains) usually flow quickly and steadily. Sand flows well if very dry. Atta (tiny grains) flows slowly or clogs the funnel and needs tapping. Repeat times should be close to each other.",
+      "why": "A powder is a solid broken into many tiny grains with air between them. The air gives the grains room to move, so they can slide over each other and flow like a liquid. Large, smooth, dry grains roll past each other easily. Very fine grains like atta have far more surface touching their neighbours, catch tiny amounts of moisture, and stick together in clumps, so they flow badly. Each single grain, though, keeps its own shape because inside it the particles are packed tightly like any solid.",
+      "safety": "Do not breathe in the atta dust; pour gently.",
+      "time": "25 min + 6 min the next day"
+    },
+    {
+      "id": "e4",
+      "title": "Ice in the hand (Book 'Think like a scientist 1', page 59)",
+      "day": 7,
+      "question": "What happens to ice when it is heated by our hand?",
+      "need": ["an ice cube", "a saucer", "a timer"],
+      "steps": [
+        "Put an ice cube on the saucer and decide whether it is a solid or liquid.",
+        "Touch it and say whether it feels hot or cold.",
+        "Predict what will happen if you hold it in your hand.",
+        "Hold it in your palm over the saucer and time how long it takes to melt.",
+        "Compare with your prediction."
+      ],
+      "predict": "Ask your child to guess first: what will happen to the ice, and how many minutes will it take?",
+      "observe": "The ice gets wet and shiny, shrinks and drips into the saucer. The hand feels very cold. A small cube may take 3 to 8 minutes. The water in the saucer is clear and still water.",
+      "why": "Our hand is much warmer than ice, so heat energy is transferred from the hand to the ice (that is why the hand feels cold: it is losing heat). The ice particles gain energy and vibrate faster until they break out of their fixed places and slide past each other; the solid melts into liquid water. No new substance forms: it is still water, so melting is a physical process, and putting the water back in the freezer would solidify it again.",
+      "safety": "If the hand gets too cold or painful, pass the ice to the other hand or put it down.",
+      "time": "12 min"
+    },
+    {
+      "id": "e5",
+      "title": "The melting race (Book 'Think like a scientist 2', page 61)",
+      "day": 8,
+      "question": "Which melts first in the same warm place: ice, chocolate or butter?",
+      "need": ["an ice cube, a square of chocolate and a cube of butter of similar size", "3 identical saucers", "a sunny windowsill", "a timer"],
+      "steps": [
+        "Put each solid on its own saucer.",
+        "Place all three saucers side by side in the same sunny spot at the same time.",
+        "Predict which will melt first.",
+        "Observe every 5 minutes for 15 minutes and record solid, soft, partly melted or melted.",
+        "Decide if the test was fair and write a conclusion."
+      ],
+      "predict": "Ask your child to guess first: which will melt first and which last? Why?",
+      "observe": "All three soften. In strong sun, butter and ice often melt first; chocolate gets soft and shiny but may keep its shape for a while. Results depend on the size of the pieces and how hot the sun is.",
+      "why": "Every solid melts at its own temperature, called its melting point: ice at 0 °C, butter at roughly 30 to 35 °C, and chocolate at a little over 30 °C. A substance has to be heated to its melting point and then given extra heat energy to free its particles. How quickly each piece melts depends on its melting point, how much heat it absorbs (darker things soak up more sunlight), its size and shape. That is why a fair test needs pieces of the same size, in the same place, at the same time. In each case the particles gain energy, move faster and slide out of their fixed positions.",
+      "safety": "Don't eat the chocolate or butter after they have been in the sun on the windowsill.",
+      "time": "20 min"
+    },
+    {
+      "id": "e6",
+      "title": "Lemon and baking soda fizz",
+      "day": 9,
+      "question": "When lemon juice and baking soda are mixed, is a new substance made?",
+      "need": ["1 teaspoon baking soda", "half a lemon", "a glass", "matches (adult only)"],
+      "steps": [
+        "Put the baking soda in the glass.",
+        "Predict what will happen when lemon juice is added.",
+        "Squeeze the lemon juice in and watch.",
+        "After the fizzing slows, the adult holds a lit matchstick just inside the top of the glass.",
+        "Decide whether a new substance has formed and whether it can be turned back."
+      ],
+      "predict": "Ask your child to guess first: will anything happen? Will it get hot, change colour, bubble?",
+      "observe": "Lots of fizzing and bubbles, and the mixture may froth up. The match flame goes out inside the glass. Nothing is left that looks like the original white powder.",
+      "why": "Lemon juice contains citric acid. Baking soda is a substance called sodium bicarbonate. When they mix, they react to make new substances, including the gas carbon dioxide, which makes the bubbles. Carbon dioxide does not let things burn, so it puts out the match. The new substances cannot be turned back into lemon and soda, which is a sign of a chemical reaction. The same gas makes dhokla and cakes rise.",
+      "safety": "Only an adult uses the matches. Keep hair and clothes away from the flame.",
+      "time": "8 min"
+    },
+    {
+      "id": "e7",
+      "title": "Which substances react to form rust? (Book 'Think like a scientist', page 65)",
+      "day": 9,
+      "question": "Does iron need water, air or both to rust?",
+      "need": ["3 pieces of steel wool without soap (or 3 plain iron nails)", "3 glass jars, one with a lid", "water, including some boiled and cooled", "a marker", "a spoon of uncooked rice or salt (optional)"],
+      "steps": [
+        "Number the jars 1, 2 and 3 and put a piece of steel wool in each.",
+        "Jar 1: add water to cover only part of the wool. Leave the jar open.",
+        "Jar 2: cover the wool completely with boiled and cooled water and close the lid.",
+        "Jar 3: leave it dry and open (add rice or salt to soak up damp if you like).",
+        "Predict what will happen in each jar.",
+        "Observe and draw the jars after 2 days and again after 4 days."
+      ],
+      "predict": "Ask your child to guess first: which jar or jars will go rusty? Which will rust most?",
+      "observe": "Jar 1 rusts most, with orange-brown rust especially near the water line where the wool touches both water and air. Jar 2 shows little or no rust. Jar 3 shows little or none (a little may appear on very humid days because air contains water vapour).",
+      "why": "Rust is a new substance made when iron reacts with oxygen from the air and with water. Jar 1 has plenty of both, so it rusts. In jar 2, boiling removed most of the air dissolved in the water and the lid stops more getting in, so there is very little oxygen. In jar 3 there is oxygen but little water. Rust is weak and flaky and cannot easily be turned back into iron, so rusting is a chemical reaction. Painting, oiling, coating with zinc or mixing iron with chromium to make stainless steel all stop rust by keeping water and air away from the iron.",
+      "safety": "Steel wool has sharp strands; handle it with an old cloth or gloves and wash hands afterwards.",
+      "time": "13 min to set up + checks after 2 and 4 days"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "The particle game (Book activity, pages 52–53)",
+      "day": 3,
+      "mins": 15,
+      "need": ["4–5 family members (or soft toys moved by hand)", "some open floor space"],
+      "steps": [
+        "As a solid: stand shoulder to shoulder in neat rows with arms linked.",
+        "Try to shake side to side, move closer or further apart, and change the group's shape. Notice what happens.",
+        "As a liquid: stand close but not in rows, hands just touching.",
+        "Try the same three things and notice the difference.",
+        "Change roles and do it again.",
+        "Answer the four questions on page 53."
+      ],
+      "outcome": "Your child has felt the difference between particles in a solid (fixed, only jiggling) and in a liquid (close but sliding past each other), and can explain how the game is like and unlike real particles."
+    },
+    {
+      "id": "a2",
+      "title": "Cornflour slime: a solid that flows",
+      "day": 6,
+      "mins": 12,
+      "need": ["half a cup of cornflour", "about a quarter cup of water", "a bowl and spoon", "newspaper"],
+      "steps": [
+        "Put the cornflour in the bowl and add water a little at a time, stirring, until it is thick like honey when stirred slowly.",
+        "Tap or punch the surface quickly and feel what happens.",
+        "Let your fingers sink in slowly.",
+        "Squeeze a handful into a ball, then open your hand.",
+        "Discuss whether it is a solid, a liquid or something in between."
+      ],
+      "outcome": "A strange mixture that feels solid when pushed fast and flows like a liquid when moved slowly, showing that the solid-liquid model is useful but some materials do not fit it neatly."
+    },
+    {
+      "id": "a3",
+      "title": "Freeze your own kulfi",
+      "day": 7,
+      "mins": 15,
+      "need": ["2 cups milk", "3 tablespoons sugar", "a pinch of elaichi powder", "4 small cups or kulfi moulds", "ice-cream sticks", "freezer"],
+      "steps": [
+        "An adult warms the milk with sugar and elaichi until the sugar dissolves.",
+        "Let it cool, then pour into the cups and put a stick in each.",
+        "Draw one cup and write 'liquid' and the time.",
+        "Predict how long it will take to become solid.",
+        "Check after 1 hour and 2 hours by pushing the stick.",
+        "Eat it on Day 8 and discuss whether it is still milk."
+      ],
+      "outcome": "Home-made kulfi, and first-hand evidence that taking heat away from a liquid makes it solidify without becoming a new substance."
+    },
+    {
+      "id": "a4",
+      "title": "How can we prevent rusting? (Book activity, page 66)",
+      "day": 10,
+      "mins": 13,
+      "need": ["notebook", "a walk around the house and building"],
+      "steps": [
+        "Find at least eight metal objects at home and in your building.",
+        "For each, note whether it is rusty, and how it is protected (paint, oil, grease, zinc coating, plastic coating, stainless steel).",
+        "Find out from an adult or a hardware shop one more way people stop rust.",
+        "Write how preventing rust helps the environment.",
+        "Present your findings to the family."
+      ],
+      "outcome": "A list of rust-prevention methods seen in real life, and the understanding that every method works by keeping water and air away from iron."
+    },
+    {
+      "id": "a5",
+      "title": "Frozen foods project (Book project, page 67)",
+      "day": 11,
+      "mins": 22,
+      "need": ["5 identical small cups", "50 ml each of 5 liquids (water, salt water, sugar water or juice, milk, thin dal or buttermilk)", "toothpicks", "a freezer", "a clock", "notebook and graph paper"],
+      "steps": [
+        "Part 1: interview family and a shopkeeper about why and how foods are frozen.",
+        "Part 2: choose a question, such as 'Which liquids freeze quickest?'",
+        "Plan a fair test: same amount, same cups, same shelf, same starting temperature, same time in.",
+        "Check every 30 minutes with a toothpick and record the results.",
+        "Draw a bar graph and write a conclusion.",
+        "Part 3: present your findings to the family."
+      ],
+      "outcome": "Interview notes, a results table and bar graph of freezing times, a conclusion, and a short family presentation."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Kanada (ancient India, Vaisheshika school) and Democritus (Greece, about 460–370 BCE)",
+      "idea": "More than two thousand years ago, thinkers in India and Greece separately argued that matter is made of tiny pieces too small to see. In India, the Vaisheshika school of philosophy, traditionally started by the sage Kanada, taught that everything is made of 'paramanu', the smallest particles, which cannot be divided further and combine in pairs and groups to form the things we see. In Greece, Democritus taught that the world is made of tiny, uncuttable 'atomos' (atoms) moving in empty space.",
+      "then": "These were ideas from reasoning, not from experiments. Many other thinkers disagreed: the Greek philosopher Aristotle, who was very influential for centuries, taught that matter is smooth and continuous with no gaps, and atom ideas were not widely accepted for a very long time.",
+      "now": "Modern science, from the 1800s onwards, found strong evidence that matter is made of tiny particles, and the word 'atom' comes from Democritus. But we now know atoms themselves can be split into even smaller parts, so they are not truly uncuttable. Kanada and Democritus are honoured as early thinkers who guessed something important, even though they had no way to test it. Kanada's exact dates are not known for certain.",
+      "status": "accepted",
+      "ask": "Kanada and Democritus got a big idea partly right just by thinking. Why do scientists today still insist on experiments, not only clever reasoning?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Ludwig Boltzmann (1844–1906), Austria, and the proof by Albert Einstein (1905) and Jean Perrin (1908)",
+      "idea": "Boltzmann used mathematics to show that heat, temperature and the behaviour of gases could all be explained if matter is made of huge numbers of tiny moving particles, the same particle model as page 51.",
+      "then": "Many important scientists in the late 1800s, such as the physicist Ernst Mach and the chemist Wilhelm Ostwald, argued that atoms were just a useful story and should not be believed in because no one could see them. Boltzmann had to defend his ideas for years in tiring arguments. He died in 1906.",
+      "now": "In 1827 the botanist Robert Brown had seen tiny grains from inside pollen jiggling non-stop in water under a microscope. In 1905 Albert Einstein worked out that this jiggling would be caused by water particles bumping into the grains, and predicted exactly how far they should move. In 1908 the French scientist Jean Perrin measured the jiggling carefully and found Einstein was right. Even Ostwald then agreed that atoms are real. The particle model is now accepted everywhere, and Perrin received the Nobel Prize in 1926.",
+      "status": "accepted",
+      "ask": "No one could see atoms in Boltzmann's time. Is it reasonable to believe in something you cannot see? What kind of evidence would convince you?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "The phlogiston theory (Georg Stahl and others, early 1700s) and Antoine Lavoisier (1743–1794), France",
+      "idea": "For much of the 1700s most chemists believed that things that can burn contain an invisible substance called 'phlogiston', which escapes into the air when they burn. Ash was thought to be what was left after the phlogiston had gone. Rusting was also explained as a metal slowly losing phlogiston.",
+      "then": "The idea explained a lot, so it was very popular. But there was a puzzle: when some metals are heated in air and turn into a powder, the powder weighs MORE than the metal did. Supporters tried to explain this away. In the 1770s and 1780s, the French chemist Antoine Lavoisier weighed everything very carefully in closed containers and showed that burning and rusting are substances joining with a gas from the air, which he named oxygen. He also showed that in a chemical reaction, the total mass stays the same.",
+      "now": "The phlogiston theory has been rejected. Burning and rusting are understood as chemical reactions with oxygen that make new substances. Lavoisier is often called the father of modern chemistry.",
+      "status": "rejected",
+      "ask": "The phlogiston idea seemed to explain burning. What single measurement showed it was wrong? Why is it important to weigh things in a chemical reaction?",
+      "day": 9
+    },
+    {
+      "id": "v4",
+      "who": "The Iron Pillar of Delhi (about 1,600 years old) and R. Balasubramaniam (IIT Kanpur)",
+      "idea": "In the Qutub Minar complex in Delhi stands an iron pillar more than 7 metres tall, made in the Gupta period about 1,600 years ago. It has stood in the open air all this time and has very little rust, which has puzzled people for centuries. Some people claimed it must be made of a mysterious lost metal, or even that it came from space.",
+      "then": "Scientists studied it for many years. Some said Delhi's fairly dry climate was the main reason. In the late 1990s and early 2000s the metallurgist R. Balasubramaniam of IIT Kanpur studied the pillar's iron in detail and published his findings.",
+      "now": "His explanation, now widely accepted, is that the ancient smiths' iron contained an unusually high amount of phosphorus and very little sulphur. Over time this helped a thin, tight protective layer to form on the surface, which slows further rusting, a bit like the protective layer on stainless steel. The dry climate helps too. There is no mystery metal; it is skilled ancient Indian metalwork. Fanciful claims about it being from space are rejected.",
+      "status": "accepted",
+      "ask": "People used to say the pillar was magical or from space. What kind of evidence did scientists need before they could explain it properly? Why is 'we don't know yet' better than making up an answer?",
+      "day": 10
+    }
+  ],
+  "check": [
+    {"q": "What is the difference between a material and a substance? Give an example of each.", "a": "A material is a type of matter things are made from and is usually a mixture, like glass, wood or steel. A substance is a pure solid, liquid or gas that is not a mixture, like salt, pure water or oxygen."},
+    {"q": "Describe the particles in a solid and in a liquid.", "a": "In a solid the particles are packed tightly in a regular pattern with very small spaces, so they stay in fixed positions and only vibrate. In a liquid they are close but not in a pattern, with bigger spaces, so they can slide past each other."},
+    {"q": "Why does water take the shape of its container but a steel spoon does not?", "a": "Water particles can slide past one another, so water flows and fills the shape of the container. Particles in the steel spoon are held tightly in fixed places, so it keeps its shape."},
+    {"q": "Atta is a solid. Why can we pour it?", "a": "Atta is a powder of tiny grains with air between them. The air gives the grains space to move, so they can flow past each other like a liquid, although each grain is still a solid."},
+    {"q": "What is melting and what is solidifying? Explain one using particles.", "a": "Melting is a solid changing to a liquid when heated; solidifying is a liquid changing to a solid when it loses heat. When heated, particles gain energy, move faster and break free of their fixed places, so the solid melts; when cooled they slow down and move closer until they are fixed again."},
+    {"q": "Why is melting a physical process but burning a chemical reaction?", "a": "Melting only changes the form of the substance (melted ice is still water and can be frozen again). Burning makes new substances, like ash and gases, which cannot be turned back."},
+    {"q": "What three things are needed for rust to form, and how can we stop it?", "a": "Iron, water and oxygen from the air. We can stop it by keeping water and air away: painting, oiling or greasing, coating with zinc or plastic, or using stainless steel."}
+  ]
+}

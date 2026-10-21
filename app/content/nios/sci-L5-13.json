@@ -1,0 +1,592 @@
+{
+  "key": "nios|sci|5|13",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 13,
+  "title": "Internal Organs of the Human Body",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 13 (lesson pages 190–205)",
+  "summary": "Our body is like a machine with many hidden parts. Your child explores the skeleton, joints and muscles, follows food through the digestive system, air through the lungs, blood through the heart, waste through the kidneys, and learns how the brain controls almost everything. The lesson ends with the reproductive organs, taught with correct names and a calm, age-appropriate parent note. Home models (a vinegar bone, a bottle lung, a funnel stethoscope, a kidney filter and a life-size body map) make each organ real, and the stories of Sushruta, William Harvey and the doctors who drank their own germs show how we came to know what is inside us.",
+  "goals": [
+    "By the end your child can explain what the skeleton does, name its main parts, and tell movable joints from fixed ones.",
+    "By the end your child can explain how muscles move bones and tell voluntary from involuntary muscles with examples.",
+    "By the end your child can trace food from the mouth to the anus, saying what happens in each part and what the liver does.",
+    "By the end your child can trace air from the nose to the alveoli and blood through the four chambers of the heart, and explain how oxygen and carbon dioxide are exchanged.",
+    "By the end your child can explain how the kidneys clean the blood and make urine, and how different parts of the brain control the body.",
+    "By the end your child can name the main male and female reproductive organs correctly, say in simple words how a baby starts from an egg and a sperm, and knows the family's body-safety rules."
+  ],
+  "words": [
+    ["organ", "a part of the body that does a special job, such as the heart, lungs, stomach, kidneys or brain"],
+    ["skeleton", "the frame of 206 bones (in an adult) that gives the body shape and strength and protects soft organs"],
+    ["joint", "a place where two bones meet; movable joints like the knee and elbow bend, fixed joints like those in the skull do not move"],
+    ["voluntary muscle", "a muscle we move when we choose to, like the muscles of the arms, legs and fingers"],
+    ["involuntary muscle", "a muscle that works on its own without our choosing, like the heart and the muscles of the stomach and intestines"],
+    ["digestion", "breaking food down into tiny pieces and simple substances small enough to pass into the blood"],
+    ["saliva", "the watery juice made in the mouth that softens food and begins digesting starch"],
+    ["small intestine", "a long, narrow, coiled tube, about 6–7 metres in an adult, where most food is digested and taken into the blood"],
+    ["alveoli", "millions of tiny air sacs in the lungs, wrapped in fine blood vessels, where oxygen enters the blood and carbon dioxide leaves it"],
+    ["atrium and ventricle", "the heart's chambers: two upper atria receive blood and two lower ventricles pump it out"],
+    ["kidney", "one of two bean-shaped organs near the back of the waist that filter waste and extra water from the blood to make urine"],
+    ["reproductive organs", "the body parts that make it possible to have babies: in males the testes and penis, in females the ovaries, fallopian tubes, uterus and vagina"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is inside me? Bones",
+      "goal": "Start from our own body, feel the bones under the skin, learn why we have a skeleton, start the vinegar-bone test and begin a life-size body map.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What is hidden inside?",
+          "mins": 5,
+          "do": "Ask your child to press their fingers on their knee, wrist, ribs, skull and the back of their neck. Ask: 'What do you feel that is hard?' (Bones.) 'What do you feel that is soft?' (Muscle, fat, skin.) Then put a hand on their chest and ask: 'What is working in here right now, even though you are not telling it to?' (The heart, the lungs.) Ask them to name every inside part of the body they already know, and write the list in the notebook. Tell them: 'This week we will learn what each one does, and maybe add some you have never heard of.'"
+        },
+        {
+          "kind": "read",
+          "title": "Opening and 13.1 the skeleton (lesson pages 190–191)",
+          "mins": 8,
+          "do": "Read the opening of Lesson 13 on lesson page 190 and 13.1 'Bones and Muscles' up to 'Main functions of the Skeleton' on lesson page 191 aloud. Ask the book's question: 'What would the body be like with no bones?' (Floppy like a jellyfish; it could not stand or keep its shape.) 'How many bones does an adult have?' (206.) Add: a newborn baby has about 300 smaller bones and cartilage pieces, and many join together as we grow. 'Which is the longest bone?' (The thigh bone, the femur.) 'Which is the smallest?' (The stirrup bone, the stapes, in the middle ear, just behind the eardrum; it is about the size of a grain of rice.) 'Name the three jobs of the skeleton.' (Shape and strength, protecting soft parts, and with muscles, movement.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the rubber-bone test",
+          "mins": 12,
+          "do": "Do Experiment e1. Clean a chicken leg bone (drumstick) from a cooked meal by scrubbing off all meat, and let it dry. If your family is vegetarian, use a whole raw egg in its shell instead, or a stick of white chalk. First your child tries to bend the bone gently: it is hard and stiff. Then put it in a glass or jar and cover it completely with white vinegar; put a lid or plate on top. Ask your child to predict: 'What will vinegar do to the bone in 4–5 days?' Write the guess with the date. Explain: 'Bones are hard because they contain calcium, the same mineral we get from milk and ragi. We are going to find out what a bone is like without it.' Watch for tiny bubbles on the bone in the next few minutes.",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Draw the life-size body map",
+          "mins": 15,
+          "do": "Start Activity a1. Tape together large sheets of old newspaper or chart paper on the floor, longer than your child. They lie on it on their back, arms slightly out, and you trace round their whole body with a marker. Then, using the skeleton picture on lesson page 191, they draw the main bones inside the outline with a dark crayon: the skull, the spine down the middle of the back, the ribcage, the shoulder and hip bones, the arm and leg bones. They label each one. Keep the map: over the next days you will add the organs onto it.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Bones are alive",
+          "mins": 5,
+          "do": "Ask: 'Do you think bones are alive like skin, or dead like a stone?' Explain: 'Bones are living. They have blood vessels and cells, they grow, and when you break one, it repairs itself, which is why a plaster cast can let it heal.' Ask: 'What helps bones stay strong?' (Calcium from milk, curd, ragi and sesame; vitamin D from sunlight, as we learnt in Lesson 12; and running and jumping.) Your child writes one bone-care rule in the notebook."
+        }
+      ],
+      "need": ["NIOS Environmental Studies Level B, Lesson 13 (lesson pages 190–191)", "a clean cooked chicken leg bone, or a raw egg in its shell, or a stick of chalk", "a glass jar with a lid, white vinegar", "large sheets of newspaper or chart paper, tape, markers and crayons", "notebook"],
+      "prep": [{"task": "Save and scrub clean a chicken leg bone from a meal and let it dry (or keep an egg or chalk ready)", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Skull, spine, ribs, joints and muscles",
+      "goal": "Learn the main parts of the skeleton and what they protect, test our movable joints, and find out how muscles pull bones.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Main parts of the skeleton (lesson page 191)",
+          "mins": 8,
+          "do": "Read 'Main Parts of the Skeleton' on lesson page 191 aloud: head, spine, ribs, shoulder and hip bones, arm and leg bones. Ask: 'What does the skull protect?' (The brain.) 'What runs inside the spine?' (The spinal cord, which carries messages between the brain and the body.) 'What does the ribcage protect?' (The heart and lungs.) Correct one detail gently: the book says ten ribs on each side are attached to the spine. In fact, all 12 pairs of ribs join the spine at the back; at the front, the top ten pairs join the breastbone (the top seven directly, the next three through bendy cartilage), and the last two pairs are 'floating ribs' that do not reach the front. Your child counts their own ribs gently from the side."
+        },
+        {
+          "kind": "do",
+          "title": "Joint test: tape the thumb",
+          "mins": 10,
+          "do": "Read 'Joints' on lesson page 191 aloud. Then your child finds and moves movable joints: shoulder (moves all round, a ball-and-socket joint), elbow and knee (bend one way, like a door hinge), wrist, neck and fingers. Now tape their thumb to the side of their hand with soft tape (not tight) so it cannot move. Ask them to try: pick up a pencil, button a shirt, open a bottle cap, write their name. Ask: 'What was hard? Why?' (The thumb joint lets the thumb meet the fingers to grip.) Remove the tape. Explain fixed joints: the bones of the skull are joined by tight, zig-zag joints that do not move in grown-ups, to protect the brain."
+        },
+        {
+          "kind": "read",
+          "title": "Muscles (lesson page 192)",
+          "mins": 7,
+          "do": "Read 'Muscles' and the two types on lesson page 192 aloud and look at the pictures. Correct one point: the book says muscles join bones to one another. More exactly, bones are joined to each other at joints by strong bands called ligaments, and muscles are joined to bones by tough cords called tendons; muscles move the bones by pulling on them. Ask: 'Can a muscle push?' (No, it can only pull by getting shorter and tighter; that is why muscles work in pairs.) 'Which muscles work on their own?' (Heart, stomach and intestines: involuntary.) 'Which do you control?' (Hands, legs, fingers, face: voluntary.)"
+        },
+        {
+          "kind": "do",
+          "title": "Feel the muscle pair",
+          "mins": 10,
+          "do": "Your child puts their left hand on the front of their right upper arm (the biceps) and slowly bends the right elbow, lifting a water bottle. Ask: 'What does the front muscle do?' (It gets shorter, fatter and harder.) Then they put the hand on the back of the arm (the triceps) and straighten the arm. Ask: 'Which muscle is working now?' (The back one.) Explain: 'One pulls to bend, the other pulls to straighten; a pair of muscles is needed to move a joint both ways.' Then find the Achilles tendon at the back of the ankle and feel it move as they point their toes. Add the biceps and triceps in red to the body map (Activity a1).",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 13.1 (lesson page 192) and the bone jar",
+          "mins": 10,
+          "do": "Ask the four questions in 'Let's see, what you have learnt 13.1' on lesson page 192 aloud. Good answers: bones and muscles help movement; two types of muscles, voluntary and involuntary; knee and elbow (or wrist, shoulder, fingers) are movable joints; the brain is safe in the skull. Then look at the vinegar jar from Experiment e1: are there bubbles? Has the eggshell or chalk started to look different? Write a note with the date.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 191–192", "soft tape", "a pencil, a shirt with buttons, a bottle with a cap", "a water bottle", "the body map and a red crayon", "the vinegar jar"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "The journey of food",
+      "goal": "Follow food through the digestive system, find out what saliva does, measure how long the small intestine is, and meet two doctors who proved a germ causes stomach ulcers.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "The two-minute roti chew",
+          "mins": 6,
+          "do": "Give your child a small piece of plain roti or a few grains of plain cooked rice (no salt or sugar). They chew it slowly without swallowing for 1–2 minutes. Ask: 'Does the taste change?' Many children notice it starts to taste slightly sweet. Explain: 'Saliva has a substance called an enzyme that begins breaking starch into sugar. Digestion starts in your mouth.' Then they swallow."
+        },
+        {
+          "kind": "read",
+          "title": "13.2 Digestive system (lesson page 193)",
+          "mins": 9,
+          "do": "Read 13.2 on lesson page 193 aloud and look at the digestive system picture. After each part, ask: 'What happens here?' Mouth: teeth cut and grind, saliva softens, tongue pushes the food back (an adult has 32 teeth; a child of 10 has a mix of milk and adult teeth). Food pipe: muscles squeeze food down, even if you are upside down. Stomach: a muscular bag that churns food with strong acid juices that digest proteins and kill many germs. Small intestine: most digestion happens here, with juices and bile; its finger-like folds, called villi, take the digested food into the blood. Large intestine: takes back water. Rectum and anus: store and push out the waste as faeces. Liver: the biggest gland, on the right side under the ribs, makes bile (stored in a small bag called the gall bladder) to help digest fats, and does hundreds of other jobs, such as storing food and removing poisons."
+        },
+        {
+          "kind": "act",
+          "title": "How long is the gut?",
+          "mins": 10,
+          "do": "Do Activity a2. Measure out about 6–7 metres of string or wool (about 7 big adult arm-spans) for an adult small intestine and 1.5 metres in a different colour for the large intestine. Your child stretches it along the corridor or terrace. Ask: 'How can this fit inside a tummy?' Then they coil it loosely and fit it inside the tummy area of the body map (Activity a1) to see how it folds. Draw the mouth, food pipe, stomach, liver, small and large intestine on the map in one colour. Ask: 'Why might a long intestine be useful?' (More surface and more time to take in the food.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Marshall and Warren: the germ in the stomach",
+          "mins": 10,
+          "do": "Tell your child Voice v1: for many years doctors believed stomach ulcers (painful sores in the stomach) were caused by stress and spicy food. In Australia in the early 1980s, Robin Warren saw curved bacteria in the stomachs of ulcer patients, and Barry Marshall grew them in the lab. Few believed them, so in 1984 Marshall drank a culture of the bacteria himself and fell ill with stomach inflammation. Ask: 'Why do you think Marshall did something so risky?' Then ask the voice question. Make clear: we never test germs on ourselves; doctors today do such tests with strict safety rules.",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 13.2 (lesson page 194) and bone check",
+          "mins": 10,
+          "do": "Ask 'Let's see, what you have learnt 13.2' on lesson page 194 aloud. True or false: digestion is the job of the digestive system (true); a mouth has 42 teeth (false, an adult has 32); most food is digested in the stomach (false, most is digested in the small intestine); liver is the biggest gland (true); the stomach is like a bag (true). Your child names the parts in order: mouth, food pipe, stomach, small intestine, large intestine, rectum, anus. Main job of the liver: making bile (and many more). Then check the vinegar jar (Experiment e1) and note what you see.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 193–194", "a small piece of plain roti or plain rice", "7 metres of string or wool and 1.5 metres in another colour", "a measuring tape", "the body map and crayons", "the vinegar jar"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Breathing and the lungs",
+      "goal": "Trace air from the nose to the alveoli, build a bottle-and-balloon lung, count our breathing, and learn why smoking harms the lungs.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "13.3 Lungs (lesson pages 194–195)",
+          "mins": 9,
+          "do": "Read 13.3 on lesson pages 194–195 aloud and look at the lungs picture. Trace the path of air on your child's own body, touching each place: nose (hairs and sticky mucus trap dust), throat, larynx or voice box (feel it buzz when they hum), trachea or windpipe (the ridged tube in the front of the neck), two bronchi (one to each lung), smaller and smaller tubes, and finally the alveoli, millions of tiny air sacs. Ask: 'What happens in the alveoli?' (Oxygen passes into the fine blood vessels around them; carbon dioxide passes out of the blood into the air sacs to be breathed out.) 'Why does the body need oxygen?' (The cells use it to release energy from food, and carbon dioxide is the waste made.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Build a bottle lung",
+          "mins": 15,
+          "do": "Do Experiment e2. You cut the bottom off a 1-litre plastic bottle. Your child pushes a balloon into the neck of the bottle and stretches its mouth over the rim. Tie a knot in a second balloon, cut off its top half, and stretch the rest over the open bottom of the bottle as the 'diaphragm'. Ask them to predict: 'If I pull the bottom balloon down, what will the inside balloon do?' Then they pull the knot down gently and let it go, again and again. Ask: 'When did the inside balloon fill? When did it empty?' Explain: the bottle is the chest, the inside balloon a lung, the stretched balloon the diaphragm, a dome-shaped muscle under the lungs.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Count your breaths",
+          "mins": 9,
+          "do": "Your child sits still for one minute while you count their breaths (watch the chest or tummy rise; one rise and fall is one breath). Then they skip or jump for one minute and you count again. Read the line on lesson page 195: an adult breathes 16–18 times a minute; children breathe a little faster, often about 18–25 times. Ask: 'Why do we breathe faster after exercise?' (The muscles are using more energy and need more oxygen, and make more carbon dioxide to get rid of.) Then breathe out onto a cold steel plate or mirror: the mist shows that breathed-out air carries water vapour too."
+        },
+        {
+          "kind": "talk",
+          "title": "Smoke and lungs",
+          "mins": 7,
+          "do": "Read the last point of 13.3 on lesson page 195 about bidi and cigarettes. Explain: tobacco smoke has tar and many poisons that coat and damage the airways and alveoli, so people who smoke get coughs, breathing diseases and cancers, and even breathing other people's smoke harms you. Air pollution, dust and smoke from burning garbage or chulhas also harm lungs. Ask: 'What can our family do to protect our lungs?' (Keep the home smoke-free, use exhaust fans while cooking, not burn rubbish, wear a mask on very polluted days.) Then do 'Let's see 13.3' on lesson page 195 aloud: air enters through the nose; the trachea divides into two; the alveoli are inside the lungs."
+        },
+        {
+          "kind": "act",
+          "title": "Lungs on the body map",
+          "mins": 5,
+          "do": "Your child draws the windpipe, two bronchi and two lungs on the body map (Activity a1) inside the ribcage. Point out that the left lung is a little smaller than the right, to make room for the heart, which we draw tomorrow.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 194–195", "a 1-litre plastic bottle, scissors (parent), 2 balloons, tape", "a timer", "a cold steel plate or mirror", "the body map and crayons"],
+      "prep": [{"task": "Cut the bottom off a 1-litre plastic bottle and smooth the edge with tape", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "The heart: a pump for life",
+      "goal": "Learn how the heart's four chambers pump blood to the lungs and the body, listen to a heartbeat with a home stethoscope, and meet the doctors who discovered that blood goes round in a circle.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "13.4 Heart (lesson page 196)",
+          "mins": 9,
+          "do": "Read 13.4 on lesson page 196 aloud and look at the heart picture. Your child makes a fist: 'Your heart is about this size.' Ask: 'Where is it?' (In the ribcage between the lungs, a little to the left of the middle.) 'How many chambers?' (Four: two atria on top, two ventricles below.) Trace the path with a finger on the book's picture: blood low in oxygen comes from the body into the right side; the right side pumps it to the lungs; there it picks up oxygen and drops carbon dioxide; it returns to the left side; the left side pumps it to the whole body. Ask: 'Why must the left and right sides never mix?' (So that oxygen-rich blood is not mixed with oxygen-poor blood.) Add: valves in the heart are like one-way doors; their closing makes the 'lub-dub' sound."
+        },
+        {
+          "kind": "exp",
+          "title": "Make a stethoscope and count the beats",
+          "mins": 14,
+          "do": "Do Experiment e3. Push a small kitchen funnel into one end of a rubber or plastic tube about 50 cm long (or roll a sheet of paper into a tube). Your child holds the open end to their ear (not inside it) and places the funnel on your chest, a little left of the middle. Ask: 'Can you hear lub-dub?' Then switch. Next, they find their wrist pulse and count for 30 seconds while sitting, and double it. Then they run on the spot for one minute and count again; then rest two minutes and count again. Ask them to predict first. Read the line on lesson page 196: a healthy adult's heart beats about 60–80 times a minute (doctors accept 60–100). Children's hearts beat a bit faster, often 70–110.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Ibn al-Nafis, William Harvey and the circle of blood",
+          "mins": 10,
+          "do": "Tell your child Voice v2: for about 1,400 years many doctors followed the Greek doctor Galen, who taught that blood was made fresh in the liver and soaked into the body, and that it passed through tiny holes in the wall between the two sides of the heart. In the 1200s in Cairo, Ibn al-Nafis wrote that there were no such holes and that blood went through the lungs. In 1628 in England, William Harvey showed that the same blood goes round and round, pumped by the heart. Ask: 'If the heart pumps about 70 times a minute, could the liver really make that much new blood every day?' Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: bones, digestion, lungs and heart",
+          "mins": 9,
+          "do": "Your child does Worksheet ws1 (core) on their own. Check it together and, for any wrong answer, find the matching part on lesson pages 191–196. Then they draw the heart between the lungs on the body map (Activity a1), with a red arrow to the body and a blue arrow coming back.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 13.4 (lesson pages 196–197)",
+          "mins": 3,
+          "do": "Ask the four questions in 'Let's see, what you have learnt 13.4' aloud: four chambers; impure blood comes to the right side; the heart sends it to the lungs; a healthy heart beats about 60–80 times a minute."
+        }
+      ],
+      "need": ["Lesson pages 196–197", "a small kitchen funnel and about 50 cm of rubber or plastic tube (or a paper tube)", "a timer", "Worksheet ws1", "the body map, red and blue crayons"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Kidneys and the brain",
+      "goal": "Learn how kidneys filter the blood and make urine, test a model filter, learn the three main parts of the brain with a reaction test, finish the vinegar bone, and meet Sushruta.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "13.5 Kidney (lesson page 197)",
+          "mins": 7,
+          "do": "Read 13.5 on lesson page 197 aloud and look at the kidney picture. Your child puts their hands on their back just above the waist, on either side of the spine: 'Your two kidneys are about here, each about the size of your fist and shaped like a rajma bean.' Ask: 'What do the kidneys do?' (Filter waste and extra water and salts out of the blood, keeping the right balance.) 'Where does urine go?' (Down two tubes called ureters into the bladder, a stretchy bag that stores it until we go to the toilet.) Add: each kidney has about a million tiny filters called nephrons, the book's 'lakhs of small sieves'. Drinking enough water helps the kidneys do their work."
+        },
+        {
+          "kind": "exp",
+          "title": "A model kidney filter",
+          "mins": 10,
+          "do": "Do Experiment e4. Mix in a glass: water, a spoon of salt, a spoon of sand or soil and a few dried leaves or rice grains. Your child tastes a drop of the salty water first from a clean spoon (salty). Then pour the mixture through a coffee filter or a folded clean handkerchief into another glass. Ask them to predict first: 'What will the filter keep back, and what will get through?' Look at what stayed in the filter (sand, leaves) and taste a drop of the clear water that came through (still salty). Ask: 'So does a simple sieve clean everything out?' Explain how a real kidney is cleverer.",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "13.6 The brain (lesson page 198) and a reaction test",
+          "mins": 10,
+          "do": "Read 13.6 on lesson page 198 aloud. Explain the three parts with their real names: the small part at the back below, called the cerebellum, controls balance and smooth movement of muscles; the lowest part, the brain stem, joins the spinal cord and controls automatic work like heartbeat and breathing; the biggest part, the cerebrum, handles thinking, speaking, seeing, hearing, smelling, feeling and remembering. Then do the ruler-drop test: you hold a 30 cm ruler hanging down; your child holds thumb and finger open around the 0 mark without touching. Drop it without warning; they catch it. Read the cm mark where they caught it. Do 5 tries and see if they get faster. Ask: 'What path did the message take?' (Eyes see, brain decides, message down the spinal cord and nerves to the hand muscles.)"
+        },
+        {
+          "kind": "think",
+          "title": "Sushruta: looking inside the body",
+          "mins": 9,
+          "do": "Tell your child Voice v3: the Sushruta Samhita, an ancient Indian book of medicine and surgery named after the surgeon Sushruta, describes operations, more than a hundred surgical tools, and a way to repair a damaged nose with skin from the cheek. It also said a surgeon must study the inside of a dead body carefully to understand the organs. Ask: 'Why would a surgeon need to see inside a real body, not just read about it?' Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Take out the vinegar bone",
+          "mins": 9,
+          "do": "Finish Experiment e1. Take the bone (or egg) out of the vinegar with a spoon and rinse it in water. Your child tries to bend the bone gently: it should now be rubbery and bendy, perhaps enough to tie in a loose knot if it soaked long enough. (An egg will have lost its shell and feel soft and bouncy under a thin skin; chalk will have crumbled or dissolved.) Ask: 'What did the vinegar take away?' (The calcium.) 'What is left?' (The soft, stretchy part of the bone, mostly a protein called collagen.) Then add the kidneys, bladder and brain to the body map (Activity a1).",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 197–198", "2 glasses, water, salt, sand or soil, a few dried leaves or rice grains, a coffee filter or clean handkerchief, a clean spoon", "a 30 cm ruler", "the vinegar jar", "the body map and crayons"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "How babies begin: reproductive organs",
+      "goal": "Learn the correct names and jobs of the male and female reproductive organs, understand in simple words how a baby starts from an egg and a sperm, and agree our family's body-safety rules.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Parent note and opening talk",
+          "mins": 5,
+          "do": "Parent note: this part of the book (lesson pages 199–201) explains the reproductive organs. Children of 9–10 are curious and will soon start puberty, so calm, correct information from a parent protects them. Use the real names (penis, testes, vagina, uterus, ovaries) in a matter-of-fact voice, the way you would say 'kidney'. Answer what they ask, simply and truthfully; you can say 'Good question, I will tell you more when you are a bit older' about details you prefer to leave for later. Start by asking: 'Every living thing makes young ones. Why is that needed?' (So the kind of animal or plant does not die out: 'to maintain the species', as the book says.) 'Where do puppies, chicks and mango seedlings come from?' (From parents of their own kind.)"
+        },
+        {
+          "kind": "read",
+          "title": "13.7 Male and female reproductive organs (lesson pages 199–200)",
+          "mins": 12,
+          "do": "Read the start of 13.7 and 13.7.1 on lesson page 199, and 13.7.2 on lesson pages 199–200 aloud, looking at the diagrams. Explain in your own words: a man's body has two testes in a pouch outside the body, where sperm are made, and a penis. A woman's body has, inside the lower tummy and protected by the hip bones, two ovaries that hold many tiny egg cells, two fallopian tubes, the uterus (womb), where a baby grows, and the vagina, the passage from the uterus to the outside. Then explain: 'A baby starts when one sperm from the father joins one egg from the mother inside her fallopian tube. This is called fertilisation. The fertilised egg moves to the uterus, sticks to its wall, and grows for about nine months into a baby.' Ask: 'Which cell comes from the mother? From the father?' (Egg; sperm.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Growing up and periods",
+          "mins": 8,
+          "do": "Read the last point on lesson page 200 about the monthly cycle. Explain: 'When girls grow up, usually somewhere between about 9 and 15 years old, their body starts a monthly cycle. Each month the lining of the uterus gets thicker, ready in case a baby starts. When no baby starts, the lining comes out through the vagina as a little blood over a few days. This is called a period or menstruation. It is normal and healthy, not dirty and not an illness.' Tell both boys and girls this, so that everyone understands and no one teases. Mention: boys' bodies also change as they grow, for example their voice gets deeper. Ask: 'What can a girl use during her period?' (Sanitary pads or other period products, changed regularly, with handwashing.) Remind them of Lesson 12: girls need extra iron after periods begin."
+        },
+        {
+          "kind": "talk",
+          "title": "Our body-safety rules",
+          "mins": 8,
+          "do": "Agree on these rules together and write them in the notebook: 'My body belongs to me. The parts covered by my underwear are private. No one should touch them, look at them or take photos of them, except a parent helping me wash or a doctor checking me with a parent present. If anyone does, or asks me to touch theirs, or tells me to keep it a secret, I say NO, get away, and tell a trusted adult, even if the person is someone I know. It is never my fault.' Ask your child to name three trusted adults. Tell them that in India the CHILDLINE number 1098 is free to call at any time. Ask: 'What is the difference between a surprise and a secret?' (A surprise like a birthday gift is told soon and makes people happy; a secret that makes you feel bad should be told.)"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 13.7 and the stretch worksheet",
+          "mins": 12,
+          "do": "Ask 'Let's see, what you have learnt 13.7' on lesson pages 200–201 aloud: reproduction keeps the species going; male and female organs differ; eggs are formed in the ovaries; sperm in the testes; the fertilised egg sticks to the wall of the uterus; semen is sperm mixed with a fluid. Then your child does Worksheet ws2 (stretch), which is about all the organs. Go over it together.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Lesson pages 199–201", "notebook", "Worksheet ws2"],
+      "prep": [{"task": "Read lesson pages 199–201 yourself first and decide how much detail you are comfortable giving; keep answers calm and correct", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Let us revise, check and teach it back",
+      "goal": "Review the whole lesson with the book's revision and exercises, finish the body map, try the challenge worksheet, check understanding and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and the exercise match (lesson pages 201–203)",
+          "mins": 7,
+          "do": "Read 'Let's Revise' on lesson page 201 together. After each point, your child points to that organ on the body map. Then do Exercise II, the matching question on lesson page 202, aloud: heart with sending blood; lungs with breathing; head (brain) with thinking; kidney with removing waste; skeleton with shape and structure; digestion with digesting food. Note: the book's answer key on lesson page 205 has slips: bile is formed in the liver (it prints 'lever'), and air passes through the larynx to the trachea (it prints 'cardia')."
+        },
+        {
+          "kind": "act",
+          "title": "Finish the body map",
+          "mins": 6,
+          "do": "Complete Activity a1. Your child checks that the map has: skeleton, a muscle pair, the digestive tract with liver, windpipe and lungs, heart with arrows, kidneys and bladder, and the brain with spinal cord. Each organ gets a label and one line about its job. Stick it on a wall.",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws3 (challenge) together. Let your child think and write; you ask only 'How do you know?' and 'What is the evidence?'. The last section brings back the voices of Marshall and Warren, Harvey and Sushruta.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 9,
+          "do": "Ask the 8 check questions aloud one at a time, without the book. Tick each one answered well. For a missed one, point to the organ on the body map and read the matching part of the lesson (bones pages 190–192, digestion page 193, lungs pages 194–195, heart page 196, kidneys page 197, brain page 198) for a minute, then ask again in other words. Six or more right is good; fewer than five means repeat the bottle lung and stethoscope days next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 14,
+          "do": "Your child is a doctor giving a 'tour of the body' to the family, using the body map, the rubbery bone, the bottle lung and the stethoscope. In 5–7 minutes they must follow a bite of roti from mouth to anus, a breath of air from nose to alveoli, and a drop of blood from the right side of the heart to the lungs and round the body, and say what the kidneys and brain do. The 'patients' ask: 'Why do I breathe faster when I run?' and 'Why does a bone need calcium?'. End by asking your child to choose one health habit from the week for the family: for example, drink enough water, play outside every day, or keep the home smoke-free."
+        }
+      ],
+      "need": ["Lesson pages 201–205", "the body map, the rubbery bone, the bottle lung and the stethoscope", "Worksheet ws3"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Bones, digestion, lungs and heart",
+      "day": 5,
+      "sections": [
+        ["A. Bones and muscles", [
+          {"t": "fill", "p": "An adult human has ____ bones.", "a": ["206"]},
+          {"t": "fill", "p": "The place where two bones meet is called a ____.", "a": ["joint"]},
+          {"t": "sort", "p": "Sort these muscles.", "items": ["Arm muscle", "Heart muscle", "Leg muscle", "Stomach muscle", "Finger muscle", "Intestine muscle"], "cats": ["Voluntary", "Involuntary"]},
+          {"t": "match", "p": "Match the bone to what it protects.", "pairs": [
+            ["Skull", "Brain"],
+            ["Ribcage", "Heart and lungs"],
+            ["Spine", "Spinal cord"],
+            ["Hip bones", "Uterus and bladder"]
+          ]}
+        ]],
+        ["B. Food, air and blood", [
+          {"t": "write", "p": "Write the parts of the digestive system in order, starting with the mouth.", "lines": 2},
+          {"t": "mcq", "p": "Most food is digested in the:", "opts": ["Mouth", "Stomach", "Small intestine", "Large intestine"], "a": 2},
+          {"t": "fill", "p": "Bile is made in the ____.", "a": ["liver"]},
+          {"t": "mcq", "p": "Oxygen enters the blood in the:", "opts": ["Nose", "Trachea", "Alveoli", "Stomach"], "a": 2},
+          {"t": "fill", "p": "The heart has ____ chambers.", "a": ["four", "4"]},
+          {"t": "draw", "p": "Draw the path of air from the nose to the lungs and label: nose, larynx, trachea, bronchi, lungs."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "All the organs at work",
+      "day": 7,
+      "sections": [
+        ["A. Which organ?", [
+          {"t": "match", "p": "Match each organ to its job.", "pairs": [
+            ["Kidney", "Filters waste from blood to make urine"],
+            ["Bladder", "Stores urine"],
+            ["Brain stem", "Controls heartbeat and breathing"],
+            ["Cerebellum", "Controls balance and smooth movement"],
+            ["Ovary", "Holds egg cells"],
+            ["Uterus", "Where a baby grows"],
+            ["Testes", "Make sperm"]
+          ]},
+          {"t": "mcq", "p": "The tube that carries urine from the kidney to the bladder is the:", "opts": ["Trachea", "Ureter", "Food pipe", "Bronchus"], "a": 1}
+        ]],
+        ["B. Apply it", [
+          {"t": "write", "p": "Kabir runs a race. Explain what happens to his breathing and heartbeat, and why.", "lines": 3},
+          {"t": "write", "p": "Ammi says 'Drink water, it helps your kidneys.' Explain why.", "lines": 2},
+          {"t": "write", "p": "Our ruler-drop test got faster with practice. Which part of the body got better, and how might it have done so?", "lines": 3},
+          {"t": "write", "p": "Your vinegar bone became bendy. What does this tell you about why children need calcium?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a doctor",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Why must blood from the left and right sides of the heart never mix? What would happen to the body if it did?", "lines": 3},
+          {"t": "write", "p": "Our sieve kept back sand but let salt through. A real kidney gets rid of extra salt but keeps sugar in the blood. How might the kidney be different from a simple sieve?", "lines": 4},
+          {"t": "write", "p": "The small intestine is about 6–7 metres long and full of finger-like villi. Why would a short, smooth tube be worse at taking in food?", "lines": 3},
+          {"t": "mcq", "p": "You eat a meal and then stand on your head. Does the food still go down to your stomach?", "opts": ["No, it falls back to the mouth", "Yes, because the muscles of the food pipe squeeze it along", "Only if you drink water", "Only liquid food does"], "a": 1}
+        ]],
+        ["B. Weighing the voices", [
+          {"t": "write", "p": "Marshall and Warren were laughed at, but they were right. What evidence finally convinced other doctors?", "lines": 3},
+          {"t": "write", "p": "Doctors followed Galen for over a thousand years. Why do you think nobody checked his ideas for so long?", "lines": 3},
+          {"t": "write", "p": "Sushruta said surgeons must study real bodies. Is it better to learn from books or from looking? Give one reason for each.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The rubber bone",
+      "day": 1,
+      "question": "What makes bones hard?",
+      "need": ["a clean cooked chicken leg bone (or a raw egg in its shell, or a stick of white chalk for vegetarian families)", "a glass jar with a lid or plate", "white vinegar to cover it", "a spoon and water for rinsing"],
+      "steps": [
+        "Scrub all meat off the bone and let it dry. Try to bend it gently: it is stiff.",
+        "Put it in the jar and cover it completely with vinegar. Cover the jar.",
+        "Watch for tiny bubbles on the surface in the first few minutes.",
+        "Check every day or two and note any changes.",
+        "After 4–5 days, take it out with a spoon, rinse it and try to bend it again."
+      ],
+      "predict": "Ask your child to guess first: after 4–5 days in vinegar, will the bone be harder, softer, or the same? What will an eggshell or chalk do?",
+      "observe": "Record bubbles, colour and how bendy the bone is each time. After 4–5 days the bone usually bends easily like rubber. An egg loses its shell and is held only by a thin, bouncy skin; chalk crumbles or dissolves.",
+      "why": "Bone is made of two main things: a hard mineral containing calcium and phosphate, and a stretchy protein called collagen. The mineral makes bone hard and strong; the collagen makes it a little flexible so it does not snap like glass. Vinegar is a weak acid that slowly dissolves the calcium mineral (the bubbles are carbon dioxide gas, given off as acid reacts with calcium carbonate in eggshell and chalk). With the mineral gone, only the bendy collagen is left. This shows why children need calcium from milk, curd, ragi and sesame, and vitamin D from sunlight, to build hard bones.",
+      "safety": "Use a cooked bone that has been scrubbed clean, and wash hands after handling it. Do not drink the vinegar afterwards; throw it away. If using an egg, handle the soft egg over a bowl and throw it away; do not eat it.",
+      "time": "12 min to set up + short checks + 9 min after 4–5 days"
+    },
+    {
+      "id": "e2",
+      "title": "Bottle and balloon lung",
+      "day": 4,
+      "question": "How does the diaphragm make air go in and out of the lungs?",
+      "need": ["a 1-litre plastic bottle with the bottom cut off (parent cuts it)", "2 balloons", "tape", "scissors (parent)"],
+      "steps": [
+        "Push one balloon into the bottle through the neck and stretch its mouth over the rim of the neck.",
+        "Knot the second balloon, cut off its top half, and stretch the knotted part over the open bottom of the bottle.",
+        "Tape round the edge so it is airtight.",
+        "Pull the knot of the bottom balloon down gently and watch the inside balloon.",
+        "Push it up gently and watch again. Repeat several times."
+      ],
+      "predict": "Ask your child to guess first: when the bottom balloon is pulled down, will the inside balloon get bigger, smaller or stay the same?",
+      "observe": "When the bottom sheet is pulled down, the inside balloon fills with air. When it is pushed up or let go, the inside balloon empties.",
+      "why": "The bottle is the chest, the inside balloon is a lung, the neck is the windpipe and the stretched balloon at the bottom is the diaphragm, a dome-shaped sheet of muscle under the lungs. When we breathe in, the diaphragm tightens and moves down, and the rib muscles lift the ribs. This makes more space in the chest, so the pressure inside drops and air rushes in through the nose and windpipe to fill the lungs. When the diaphragm relaxes and moves up, the space gets smaller and air is pushed out. The lungs themselves have no muscles to suck air in; they are filled and emptied by these movements.",
+      "safety": "Only the parent uses scissors on the bottle. Tape any sharp edge. Do not put balloons in the mouth; small children can choke on burst balloon pieces.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Funnel stethoscope and pulse count",
+      "day": 5,
+      "question": "How fast does the heart beat, and what changes it?",
+      "need": ["a small kitchen funnel", "about 50 cm of rubber or plastic tube (or a rolled paper tube)", "a timer or clock with seconds"],
+      "steps": [
+        "Push the funnel into one end of the tube.",
+        "Hold the open end near the ear (never inside it) and place the funnel on the chest a little left of the middle in a quiet room.",
+        "Listen for the 'lub-dub' sound; take turns.",
+        "Find the pulse on the inside of the wrist with two fingers. Count for 30 seconds while sitting, and double it.",
+        "Run on the spot for one minute and count again straight away.",
+        "Rest for two minutes and count again. Write all three numbers."
+      ],
+      "predict": "Ask your child to guess first: will the heart beat faster, slower or the same after running? How long will it take to come back down?",
+      "observe": "You should hear a soft 'lub-dub'. The resting pulse of a 10-year-old is often about 70–110 beats a minute; after running it is clearly higher; after resting it falls back towards the starting number.",
+      "why": "Each 'lub-dub' is one heartbeat: the 'lub' is the sound of valves closing between the upper and lower chambers, the 'dub' of valves closing where blood leaves the heart. The pulse in the wrist is the push of blood in an artery each time the left ventricle squeezes. When we run, the muscles need more oxygen and food and make more carbon dioxide, so the brain makes the heart beat faster and harder and the lungs breathe faster. When we rest, they slow down again. Regular exercise makes the heart muscle stronger.",
+      "safety": "Never put anything inside the ear. Stop running if your child feels dizzy or unwell.",
+      "time": "14 min"
+    },
+    {
+      "id": "e4",
+      "title": "A model kidney filter",
+      "day": 6,
+      "question": "Can a simple filter clean blood the way a kidney does?",
+      "need": ["2 glasses", "water", "a spoon of salt", "a spoon of sand or soil", "a few dried leaves or rice grains", "a coffee filter or a folded clean handkerchief", "a clean spoon"],
+      "steps": [
+        "Mix water, salt, sand and the leaves or rice in one glass. This is the 'dirty blood'.",
+        "Taste one drop of salty water from a clean spoon before adding the sand.",
+        "Hold the filter over the empty glass and pour the mixture through.",
+        "Look at what stays in the filter and what comes through.",
+        "Taste a drop of the clear water from a clean spoon."
+      ],
+      "predict": "Ask your child to guess first: what will the filter keep back, and what will get through?",
+      "observe": "The sand and leaves stay in the filter. The water that comes through looks clear but still tastes salty.",
+      "why": "A filter acts like a sieve: it stops things bigger than its holes and lets smaller things through. In a kidney, each of the million or so nephrons first squeezes blood through a tiny sieve, which lets water, salt, sugar and wastes like urea through but keeps blood cells and large proteins in the blood. Then a long tube takes back into the blood almost all the water, all the sugar and the salt the body still needs. What is left, extra water, extra salt and wastes, becomes urine. So a kidney is a sieve plus a careful sorting machine. Our simple filter could not separate the salt, which is why the water stayed salty.",
+      "safety": "Taste only a tiny drop of the clean salt water from a clean spoon, never the water with sand or soil in it.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Life-size body map",
+      "day": 1,
+      "mins": 15,
+      "need": ["large sheets of newspaper or chart paper taped together", "tape", "a thick marker", "crayons in several colours", "the pictures in Lesson 13"],
+      "steps": [
+        "Your child lies on the paper on their back; trace round the body.",
+        "Day 1: draw and label the skeleton (skull, spine, ribs, shoulder and hip bones, arm and leg bones).",
+        "Day 2: add a muscle pair in the upper arm.",
+        "Day 3: add the digestive system and liver; Day 4: windpipe and lungs.",
+        "Day 5: add the heart with red and blue arrows; Day 6: kidneys, bladder, brain and spinal cord.",
+        "Day 8: label each organ with one line about its job and stick the map on a wall."
+      ],
+      "outcome": "A life-size map of your child's own body with every organ from the lesson in the right place, used for the teach-back and as a wall chart for revision."
+    },
+    {
+      "id": "a2",
+      "title": "How long is the gut?",
+      "day": 3,
+      "mins": 10,
+      "need": ["about 7 metres of string or wool", "1.5 metres of string in another colour", "a measuring tape", "the body map"],
+      "steps": [
+        "Measure 6–7 metres of string for an adult small intestine and 1.5 metres for the large intestine.",
+        "Stretch them out along a corridor or terrace and walk their length.",
+        "Coil them loosely and place them inside the tummy on the body map.",
+        "Talk about how such a long tube fits, and why its length and folds help."
+      ],
+      "outcome": "Your child sees and feels how long the intestines are and how tightly they are coiled inside the abdomen."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Barry Marshall (born 1951) and Robin Warren (1937–2024), Australia",
+      "idea": "In 1979–1982 in Perth, the pathologist Robin Warren saw curved bacteria, later named Helicobacter pylori, in stomach samples from patients with stomach inflammation. With the young doctor Barry Marshall he showed these bacteria were found in most people with stomach and duodenal ulcers, and argued that the bacteria, not stress or spicy food, were the main cause of ulcers.",
+      "then": "Most doctors were sure that nothing could live in the acid of the stomach and that ulcers came from stress and too much acid. Their idea was widely doubted. In 1984 Marshall drank a culture of the bacteria himself, became ill with stomach inflammation within days, and then cured it with medicine.",
+      "now": "It is now accepted that H. pylori causes most stomach ulcers, and they are cured with antibiotics instead of years of medicine or surgery. Marshall and Warren won the Nobel Prize in Physiology or Medicine in 2005. Stress and spicy food can make symptoms worse, but are not the main cause.",
+      "status": "accepted",
+      "ask": "Marshall used himself as the test. Was one person getting sick enough evidence? What kind of tests on many patients would make the case stronger?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Ibn al-Nafis (about 1213–1288), Egypt and Syria, and William Harvey (1578–1657), England",
+      "idea": "For centuries doctors followed the Greek physician Galen (2nd century), who taught that blood was made in the liver and used up by the body, and that it seeped from the right side of the heart to the left through invisible holes in the wall between them. In the 13th century Ibn al-Nafis, a physician in Cairo, wrote that the wall had no holes and that blood must pass from the right side of the heart through the lungs to the left side. In 1628 William Harvey published a book showing, by experiments and by calculating how much blood the heart pumps, that blood travels round the body in a closed circle, pumped by the heart.",
+      "then": "Ibn al-Nafis's writing was little known in Europe for centuries. Harvey was attacked and mocked by many doctors who trusted Galen, and he is said to have lost patients because of it. He could not see how blood got from arteries to veins.",
+      "now": "Circulation is fully accepted. In 1661, after Harvey's death, Marcello Malpighi saw with a microscope the tiny capillaries joining arteries to veins, the missing piece. Ibn al-Nafis is now recognised as the first known person to describe the blood's path through the lungs.",
+      "status": "accepted",
+      "ask": "Harvey worked out that the heart pumps far more blood in an hour than a person could eat or drink. Why is a calculation like that strong evidence against Galen's idea?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Sushruta and the Sushruta Samhita, ancient India",
+      "idea": "The Sushruta Samhita is an ancient Sanskrit text on medicine and surgery, named after the surgeon Sushruta. Historians think it was written and added to over several centuries, with its oldest parts more than 2,000 years old; exact dates are uncertain. It describes over a hundred surgical instruments, many operations, a method of rebuilding a damaged nose using a flap of skin from the cheek, and the treatment of broken bones. It says that a surgeon should learn the body's structure by careful study of a dead body, soaked in a stream and then gently brushed away layer by layer.",
+      "then": "Its methods were used and taught in India for centuries. In 1794 a magazine in London published an account of an Indian nose-repair operation seen near Pune, which interested European surgeons.",
+      "now": "Historians and surgeons accept it as one of the earliest detailed surgical texts in the world, and Sushruta is often called a father of surgery, especially plastic surgery. Some of its explanations of how the body works, based on doshas, differ from modern science, but its insistence on studying the real body was sound.",
+      "status": "accepted",
+      "ask": "Sushruta's book gives some explanations modern doctors agree with and some they do not. How can we use an old book wisely: keep what has been tested and checked, and question the rest?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "What are the three main jobs of the skeleton?", "a": "It gives the body shape and strength, protects soft organs (skull protects the brain, ribs protect the heart and lungs), and with muscles lets us move."},
+    {"q": "What is the difference between voluntary and involuntary muscles?", "a": "Voluntary muscles move when we choose, like arm and leg muscles. Involuntary muscles work on their own, like the heart and the muscles of the stomach and intestines."},
+    {"q": "Trace a piece of food through the digestive system.", "a": "Mouth (chewed, mixed with saliva), food pipe, stomach (churned with acid juices), small intestine (most digestion; food taken into the blood), large intestine (water taken back), rectum, anus (waste leaves as faeces). The liver makes bile to help digest fat."},
+    {"q": "Where does oxygen enter the blood, and what gas leaves it?", "a": "In the alveoli, the tiny air sacs in the lungs; carbon dioxide leaves the blood and is breathed out."},
+    {"q": "Describe the path of blood through the heart.", "a": "Oxygen-poor blood from the body enters the right side and is pumped to the lungs; oxygen-rich blood returns to the left side and is pumped to the whole body. The four chambers are two atria and two ventricles."},
+    {"q": "What do the kidneys do?", "a": "They filter waste, extra water and salts from the blood through about a million tiny filters, making urine, which goes down the ureters to the bladder."},
+    {"q": "Name the three parts of the brain the book describes and what each controls.", "a": "A small part (cerebellum) controls muscles, balance and movement; the lowest part (brain stem) controls automatic work like heartbeat and breathing; the largest part (cerebrum) handles thinking, speaking, senses and memory."},
+    {"q": "How does a baby begin?", "a": "One sperm from the father joins one egg from the mother in her fallopian tube (fertilisation); the fertilised egg sticks to the wall of the uterus and grows for about nine months."}
+  ]
+}

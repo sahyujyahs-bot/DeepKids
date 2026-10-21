@@ -1,0 +1,787 @@
+{
+  "key": "cambridge|sci|3|3",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 3,
+  "n": 3,
+  "title": "Living things",
+  "source": "Cambridge Primary Science Learner's Book 3 (Board and Cross, 1st edition, 2014), Unit 3 'Living things' (pages 26–37)",
+  "summary": "Your child learns the seven life processes (breathing, feeding, moving, sensing, producing young, growing and excreting) and uses them to decide what is alive. They follow how humans, animals and plants grow in stages, how animals get food while plants make their own using sunlight, how living things move and reproduce, how people are similar and different (including fingerprints), and how scientists sort living things into groups using questions.",
+  "goals": [
+    "By the end your child can list the seven life processes and use them to decide whether something is living, non-living or was once alive, explaining tricky cases like fire, a seed or a toy kite.",
+    "By the end your child can describe the stages of growth of a human (baby, toddler, child, teenager, adult), name the young of common animals, and describe how a seed grows into a flowering plant.",
+    "By the end your child can explain that animals get food from plants and other animals while plants make their own food (sugars) using sunlight, air and water.",
+    "By the end your child can give examples of how animals and plants move and how different animals reproduce and care, or do not care, for their young.",
+    "By the end your child can collect data about people (hair colour, eye colour, height), record it in a tally chart, and identify loop, whorl and arch fingerprints.",
+    "By the end your child can sort animals and leaves into groups using yes/no questions, and explain why scientists group living things."
+  ],
+  "words": [
+    ["life processes", "the seven things all living things do: breathe, feed (need water and food), move, sense, produce young, grow and excrete"],
+    ["breathe", "to take in air (for animals) so the body can get the oxygen it needs; plants also take in and give out gases"],
+    ["excrete", "to get rid of waste the body has made, for example in urine, sweat or the carbon dioxide we breathe out"],
+    ["young", "the babies of a living thing, such as a kitten, a cub, a tadpole or a seedling"],
+    ["adult", "a living thing that is fully grown"],
+    ["reproduce", "to make new living things of the same kind, by having babies, laying eggs or making seeds"],
+    ["offspring", "the young that a living thing produces"],
+    ["similar", "nearly the same, but not exactly"],
+    ["fingerprint", "the pattern of tiny ridges on the tip of your finger; loops, whorls and arches; no two people's are the same"],
+    ["data", "facts and numbers we collect, such as everyone's height or eye colour"],
+    ["tally", "a quick way of counting by drawing lines in groups of five (four lines and a fifth across them)"],
+    ["group", "to put things together because they share something, such as 'animals with feathers'"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Is it alive? The seven life processes",
+      "goal": "Argue about what makes something alive, learn the seven life processes, and start a seed test that asks whether a dry seed is alive.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Ant or toy car?",
+          "mins": 5,
+          "do": "Put a wind-up or battery toy car on the floor and, if you can, watch an ant on the kitchen floor or balcony (or show a pet or a sparrow outside). Ask: 'Both of these move. Is the car alive? Is the ant alive? How do you know?' Let your child argue. Good ideas: the ant eats, grows, has babies, can feel things and run away; the car only moves when you wind it or put in batteries and it never grows. Write down every reason they give; you will compare them with the book."
+        },
+        {
+          "kind": "read",
+          "title": "Living and non-living (page 26)",
+          "mins": 10,
+          "do": "Open the Learner's Book at page 26, Topic 3.1. Read the Words to learn (breathe, young, grow, excrete, life processes, sort). Read the four speech bubbles: 'The plant pot is alive because it has a plant in it.' 'The bee is alive because it's flying.' 'The plant is alive because it's green.' 'The bee and plant are alive because they both need air.' Ask the book's question for each: 'Do you agree?' Good thinking: the pot is not alive, only the plant in it; flying is not enough (a kite or a plane flies); green is not enough (a green bottle is not alive, and a brown mushroom is alive); needing air is closer, but a fire needs air too, so we need more than one clue. Then look at the eight photos: a burning match, a parrot, a stone statue, a flowering tree, a rocket, a jellyfish, a butterfly, a computer. Your child says alive or not alive for each and why. (Alive: parrot, tree, jellyfish, butterfly.)"
+        },
+        {
+          "kind": "talk",
+          "title": "The seven life processes (page 27)",
+          "mins": 12,
+          "do": "Read the list on page 27: things that are alive need air to breathe, need water and food, can move, have senses, can produce young, grow, and produce waste products (excrete). Teach the memory word MRS GREN: Movement, Respiration (breathing), Sensitivity (senses), Growth, Reproduction (young), Excretion, Nutrition (food and water). Check each one against your child: 'Do you breathe? Show me. Do you eat? Do you move? Which senses do you have? Have you grown? (show a baby photo) Do you make waste? (urine, sweat, breathing out).' Then check a tulsi plant: breathe (it takes in gases through tiny holes in leaves), food (it makes its own), moves (leaves turn to light slowly), senses (it can sense light and touch), grows, makes seeds, gets rid of waste gases. Ask: 'Must a living thing do all seven, or just some?' (All seven, at some time in its life.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Is a dry seed alive? Start the seed jar",
+          "mins": 11,
+          "do": "Set up Experiment e1. Hold up a dry rajma or moong seed and ask: 'Is this alive? It does not move, eat or breathe that we can see. Is it like a stone?' Let your child decide and give a reason. Then line a glass jar with wet tissue or blotting paper and push 6 seeds between the paper and the glass so you can see them. Put 2 cm of water at the bottom so the paper stays wet. Put 6 more dry seeds in a dry jar and 3 small pebbles in another wet jar as comparisons. Your child draws Day 1 of each jar and writes a prediction.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Back to the ant and the car",
+          "mins": 2,
+          "do": "Look at the reasons you wrote in the warm-up. Ask your child which life processes they already used without knowing the words, and tick them. Ask: 'Which life process does the toy car fail first?' (It cannot grow or produce young; it does not eat or sense.)"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 26–27",
+        "a toy car, a pet, ants or birds to watch",
+        "a baby photo of your child",
+        "18 dry rajma or moong seeds, 3 small pebbles",
+        "3 glass jars, tissue or blotting paper, water"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Sorting living and non-living, and the yeast balloon",
+      "goal": "Do the book's sorting activity, answer the tricky questions about a horse and a kite, and test whether yeast is alive using the life processes.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jar check",
+          "mins": 3,
+          "do": "Look at the three jars in Experiment e1. Ask: 'Have the seeds in the wet jar changed? Are they fatter? Has the skin wrinkled or split? What about the dry jar and the pebbles?' Your child draws and dates what they see.",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 3.1: Living or non-living? (page 27)",
+          "mins": 14,
+          "do": "Do Activity a1. On a large sheet draw two columns: Living and Non-living. Your child cuts out or draws about 16 pictures from old magazines or newspapers, or writes word cards: cow, crow, mango tree, mushroom, earthworm, baby, scooter, river, sun, cloud, fire, robot, wooden chair, leather shoe, dry leaf, apple. They place each card and say which life processes helped. Ask the book's question: 'Were there any that you found difficult to place? If so, explain why.' Discuss the hard ones: fire and the sun (they grow and need air, or move, but do not reproduce or have senses; not alive); wooden chair, leather shoe, dry leaf (made from things that were once alive; now dead, so a third pile 'once alive' is a good idea); river and cloud move but are not alive; robots can move and 'sense' but do not grow or reproduce.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 (page 27)",
+          "mins": 6,
+          "do": "Ask Question 1: 'List the seven life processes.' (Breathing, needing water and food, moving, having senses, producing young, growing, producing waste.) Question 2: 'A horse can run, eat, drink and see. Is it alive?' Good answer: 'Yes, and it also breathes, grows, has foals and makes waste, so it does all seven.' Point out that running, eating and seeing alone are only four clues. Question 3: 'A toy kite moves and flies in the air. Is it alive?' (No; it moves only because of the wind, and it cannot eat, grow, sense or reproduce.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Is yeast alive? The balloon test",
+          "mins": 14,
+          "do": "Do Experiment e2. Show your child the dry yeast powder (used for pav and pizza dough): 'It looks like sand. Is it alive?' Fill two small plastic bottles with half a cup of warm water each (warm like a bath, not hot). Add 1 teaspoon of sugar and 1 teaspoon of yeast to one bottle; add 1 teaspoon of sugar only to the other. Swirl, stretch a balloon over each neck, and put them in a warm place. Your child predicts what will happen to each balloon. Check after 20–30 minutes (you can come back to it before bed). The yeast balloon slowly fills. Ask: 'Which life processes is the yeast showing?' (Feeding on sugar, breathing and giving out a waste gas, carbon dioxide, which fills the balloon; and it grows and multiplies.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: How do you know if something is living? (page 27)",
+          "mins": 3,
+          "do": "Read the Talk about it question. Ask your child to answer in one or two sentences using today's evidence. Good answer: 'I check the seven life processes. Something living does all of them at some time, like the yeast that ate sugar and made gas, but a kite or a fire does not.'"
+        }
+      ],
+      "need": [
+        "Learner's Book page 27",
+        "a large sheet of paper, old magazines or word cards, scissors, glue",
+        "1 sachet of dry yeast, sugar, warm water",
+        "2 small plastic bottles, 2 balloons"
+      ],
+      "prep": [
+        {
+          "task": "Buy a small packet of dried yeast (from a bakery-supplies shop or supermarket) and 2 balloons",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Is a virus alive? And growth in stages",
+      "goal": "Weigh up a real scientific argument about what counts as alive, then learn the stages of human growth and name the young of animals.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jar and yeast check",
+          "mins": 4,
+          "do": "Look at Experiment e1. Has a white root come out of any seed in the wet jar? Your child draws it. Ask: 'Did the pebbles change? Did the dry seeds?' (No.) 'So was the dry seed alive all along?' (Yes, resting or asleep; scientists say 'dormant'. It needed water to start growing.) Look at the yeast balloon from yesterday: is it still full?",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "The virus puzzle",
+          "mins": 10,
+          "do": "Tell the story in Voice v1. Ask: 'When you had a cold, what made you ill?' (A virus or germ.) Explain: a virus is far too small to see even with an ordinary microscope. It cannot eat, grow or make copies of itself on its own; it can only make copies after it gets inside a living cell, like one of our cells, and uses the cell's machinery. Outside a cell it does nothing, like a seed in a dry jar, but it never grows like a seed. Ask the voice question and let your child decide, with reasons, using the seven life processes.",
+          "ref": "v1"
+        },
+        {
+          "kind": "read",
+          "title": "Growth (page 28)",
+          "mins": 8,
+          "do": "Read page 28, Topic 3.2 'Growth and nutrition', and the Words to learn (adult, feed). Look at the circle of pictures: baby, toddler, child, teenager, adult. Read: 'All living things have young. The young grow. An adult is fully grown.' Ask the book's question: 'Where are you now in the cycle?' (Child.) 'Where are Dada and Dadi?' (Adults, older adults.) Then 'Name the young for each of these animals': bear (cub), cat (kitten), frog (tadpole, then froglet). Add some Indian animals: cow (calf), goat (kid), hen (chick), dog (puppy), elephant (calf), tiger (cub), duck (duckling), butterfly (caterpillar)."
+        },
+        {
+          "kind": "do",
+          "title": "My growth timeline",
+          "mins": 12,
+          "do": "Find 4–5 family photos of your child from baby to now, and if possible the baby's birth weight and length from the hospital card or ask a grandparent. Your child sticks or lays them in order on a long strip of paper and labels each stage: baby, toddler, child. Measure your child's height against a wall with a ruler and a book flat on the head; mark it with today's date. Compare with the length at birth (often about 50 cm). Ask: 'How many centimetres have you grown? What else has changed besides height?' (Teeth, hair, can walk and talk, bigger feet.) Ask: 'Will you grow forever?' (No, people stop growing taller as adults, usually by their late teens or early twenties.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Plants grow in stages (page 28)",
+          "mins": 6,
+          "do": "Look at the four pictures at the bottom of page 28: a seed; the seed begins to grow; a young plant develops; the young plant becomes a fully grown flowering plant. Ask: 'Which stage are the seeds in our wet jar at?' (Stage 2, beginning to grow.) Your child draws the four stages and writes the matching human stage under each (seed = baby? Discuss: it is more like an egg, or a baby before it is born)."
+        }
+      ],
+      "need": [
+        "Learner's Book page 28",
+        "4–5 photos of your child at different ages, the birth card if you have it",
+        "a long strip of paper, a ruler or measuring tape, a flat book, pencil"
+      ],
+      "prep": [
+        {
+          "task": "Find photos of your child as a baby, toddler and younger child",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Nutrition: where food comes from, and a bird feeder",
+      "goal": "Learn that animals get food from plants and other animals, that plants make their own sugars using sunlight, and make a bird feeder and water bowl for the balcony.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jar check",
+          "mins": 3,
+          "do": "Look at Experiment e1. Which way is the root growing? (Down.) Is there a shoot yet, and which way does it grow? (Up.) Your child draws and dates the jar.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Nutrition (page 29)",
+          "mins": 8,
+          "do": "Read page 29: 'Animal food comes from plants and other animals. Some animals feed their young.' Then read the box next to the leaf photo: 'Plants make their own food. Plants use the light from the Sun and carbon dioxide from the air to make sugars. They make sugar in the green parts of the plant and release oxygen as a waste product.' Ask: 'Which life processes does this box show?' (Nutrition and excretion.) 'What gas do plants give out that we breathe in?' (Oxygen.) Tell them plants also need water from the roots to make sugar; the book's Unit 1 showed that."
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: What food is eaten by animals that you know? (page 29)",
+          "mins": 9,
+          "do": "Read the Talk about it question. Make a table in the notebook: Animal, What it eats, Plant or animal or both? Fill it with animals your child knows: cow (grass, hay, plants), goat (leaves, grass), cat (milk, fish, mice: animals), crow (almost anything: both), sparrow (grains and insects: both), lizard on the wall (insects: animals), honeybee (nectar and pollen from flowers: plants), and us. Then ask: 'Trace your lunch back. The dal came from a plant. The curd came from a cow, and the cow ate grass. Where does all food come from in the end?' (Plants, which use sunlight. So all our food really starts with the Sun's light.)"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 3.2: Make a bird feeder (page 29), Indian style",
+          "mins": 17,
+          "do": "Read the book's method on page 29 (a plastic container, string, a hole punch, fat and bird seed). In much of India the fat would melt and go bad in the heat, so do Activity a2, our version: cut a window in the side of a 1-litre plastic bottle 5 cm above the bottom, punch two holes near the neck, push a pencil or ice-cream stick through holes under the window as a perch, and fill the bottom with bird seed (bajra, broken rice or kangni). Thread string through the top holes and hang it from a balcony or a tree branch. Put a shallow clay dish of clean water nearby, especially in summer. Your child makes a bird-watching chart: Date, Time, Bird seen, What it did. Ask: 'Which birds do you think will come?' (Sparrows, pigeons, mynas, bulbuls, perhaps parakeets.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 2 and 3 (page 29)",
+          "mins": 3,
+          "do": "Ask Question 2: 'How do plants make their food?' (Using light from the Sun, carbon dioxide from the air and water, in their green parts, to make sugars, giving out oxygen.) Question 3: 'Where does human food come from?' (From plants, like rice, dal and vegetables, and from animals, like milk, eggs, fish and meat; and the animals ate plants.) Question 1 was answered yesterday with the growth timeline."
+        }
+      ],
+      "need": [
+        "Learner's Book page 29",
+        "a 1-litre plastic bottle, scissors (adult), string, a pencil or ice-cream stick",
+        "a cup of bird seed (bajra, broken rice or kangni)",
+        "a shallow clay dish for water"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Movement: how animals and plants move",
+      "goal": "Look at how people and animals move, make a jointed body model, and start an experiment showing that plants move towards light, then meet Charles Darwin's plant experiments.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Movement (page 30)",
+          "mins": 7,
+          "do": "Read page 30, Topic 3.3 'Movement and reproduction', the Words to learn (reproduce, offspring), and 'All animals and plants move.' Look at the playground picture and ask your child to say how each child is moving: batting, running, jumping over a hurdle, swimming, skipping, playing. Read the text on the right: 'Plants move slightly towards the light. They can also spread across areas as their root systems grow. Their seeds can also move.' Ask: 'How do seeds move if they have no legs?' Good answers: blown by wind (cotton, the fluffy aak seeds, the spinning seeds of the mahogany tree), carried by animals (birds eat fruit and drop seeds; burrs stick to clothes), floating on water (coconut), popping out of pods (balsam/gul mehendi)."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 3.3: Make a model of the moving parts of your body (page 30)",
+          "mins": 14,
+          "do": "Do Activity a3. Draw on card (or trace around a doll) the parts of a body like the picture on page 30: a head and body piece, two upper arms, two lower arms, two upper legs, two lower legs, hands and feet. Cut them out and join them with split pins (paper fasteners) at the shoulders, elbows, hips and knees. Your child moves the model and then their own body to match. Ask: 'Where do you bend? What are these bending places called?' (Joints.) 'Can your elbow bend backwards?' (No, it works like a door hinge, one way only.) 'Can your shoulder turn in a circle?' (Yes, it is a ball-and-socket joint.) Feel the muscles in the upper arm tighten when they bend their elbow: 'Muscles pull on bones to move them.'",
+          "ref": "a3"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the light-seeking shoot test",
+          "mins": 9,
+          "do": "Set up Experiment e3. Take a shoebox and cut a hole about 3 cm wide in one short end. Put a cup of 2–3 moong seedlings (or plant some sprouted seeds from the e1 jar in a cup of soil) at the far end of the box, put the lid on, and stand the box with the hole facing a bright window. Put a second cup of seedlings outside the box on the same windowsill. Your child draws both today and predicts: 'What will the plants in the box do?'",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Charles Darwin and the bending shoots",
+          "mins": 10,
+          "do": "Tell the story in Voice v2: Charles Darwin, famous for his ideas on evolution, also spent years with his son Francis studying how plants move. They grew grass seedlings near a window and found they bent towards the light, but if they put a tiny cap over just the tip, the seedling did not bend. Ask your child: 'What does that tell you about which part of the shoot senses the light?' (The tip.) Ask the voice question. Link to MRS GREN: 'Plants have senses too: they sense light.'",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 30",
+        "card, scissors, 10 split pins (paper fasteners), pencil",
+        "a shoebox with lid, 2 small cups of moong seedlings",
+        "a bright windowsill"
+      ],
+      "prep": [
+        {
+          "task": "Buy split pins (paper fasteners) from a stationery shop; sow 2 cups of moong if you have no seedlings (or plant sprouted seeds from the jar)",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Reproduction: eggs, babies, nests and pouches",
+      "goal": "Learn that living things reproduce, how some animals make homes for and care for their young while others leave them, and find signs of reproduction near home.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Light-box check",
+          "mins": 3,
+          "do": "Open the lid of the Experiment e3 box quickly and look at the seedlings. Are they leaning? Which way? Close it again quickly. Your child draws them. Water both cups the same amount.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Reproduction (page 31)",
+          "mins": 8,
+          "do": "Read page 31: 'Living things reproduce so that new animals and plants can grow to become adults. Plants make seeds. Animals and birds lay eggs or have babies. When animals reproduce they often make a special home for the young or the eggs. Some animals carry their young. Some animals do not prepare a home. The offspring have to look after themselves. Fish swim off into the sea without parents. Caterpillars are left to look after themselves.' Look at the photos: two polar bear cubs with their mother at their den; a bird bringing material to make a nest; a baby kangaroo in its mother's pouch. Ask: 'Which animals in these pictures look after their young?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 and Talk about it (page 31)",
+          "mins": 9,
+          "do": "Ask Question 1: 'Name an animal and the shelter it makes for its eggs or young.' Indian examples: the baya weaver bird weaves a hanging nest of grass; sparrows nest in gaps in walls and behind AC units; tailorbirds stitch leaves together; rats and squirrels make nests; a tiger has a den; ants and termites build mounds. Question 2: 'Why are young caterpillars left to look after themselves?' Good answer: the butterfly lays its eggs on the right food plant, so the caterpillar hatches on its food and can eat at once; butterflies lay many eggs, so even if many are eaten, some survive. Then the Talk about it question: 'Why do some parents make a safe place for their eggs or young?' (To protect them from enemies, rain, heat and cold, and to keep them close to food while they are small and weak.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Signs of new life hunt",
+          "mins": 10,
+          "do": "Go round the building, garden or a park for 10 minutes. Your child looks for signs of reproduction and writes them down: a bird's nest (look but never touch), a pigeon on eggs on a ledge, ant eggs being carried, a spider's egg sac (a little white silk ball), seeds and pods on plants, flowers, baby plants growing near a big one, a mother cat or dog with young. Ask for each: 'Does this parent look after its young or not?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 10,
+          "do": "Your child does Worksheet ws1 (core) on the life processes, growth, nutrition, movement and reproduction. Check it together and, for any wrong answer, go back to the page (27 for life processes, 28–29 for growth and food, 30–31 for movement and young).",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 31",
+        "notebook and pencil for the hunt"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Sorting humans: similar and different, and fingerprints",
+      "goal": "Notice how people are similar and different, take and identify our own fingerprints, and learn how two Indian police officers helped make fingerprints a tool used all over the world.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sorting humans (page 32)",
+          "mins": 7,
+          "do": "Read page 32, Topic 3.4, and the Words to learn (similar, different, fingerprint, identify, data, tally). Read: 'Look at other people. They are all similar to you but also different. Our eyes are different colours.' Look at the picture of the six children with bats, balls and rackets. Ask the book's question: 'What two things are similar? What two things are different?' Good answers: similar: two arms, two legs, two eyes, a nose, a mouth, the same body parts; different: height, hair colour and style, skin colour, eye colour, clothes, what sport they like."
+        },
+        {
+          "kind": "do",
+          "title": "Similar and different in our family",
+          "mins": 8,
+          "do": "Stand with your child in front of a mirror, with a sibling or another family member if possible. Your child lists 3 things that are similar and 3 that are different between them. Then look at ear lobes (some are attached to the side of the head, some hang free), whether each person can roll their tongue into a tube, and which hand each person writes with. Ask: 'Did you choose your eye colour? Did you choose your favourite food?' This sets up the Talk about it question on Day 8."
+        },
+        {
+          "kind": "act",
+          "title": "Take and identify fingerprints (page 32)",
+          "mins": 14,
+          "do": "Do Activity a4. Look at the three fingerprint photos on page 32: loop, arch, whorl. Your child rubs a soft pencil (a 2B or darker) hard on a scrap of paper to make a dark patch, rubs one fingertip on it, then presses a piece of clear sticky tape onto the fingertip, peels it off and sticks it on white paper. Do all ten fingers and label them. Look with a magnifying glass if possible. Ask: 'Which type is each one: loop (lines come in from one side, curve round and go back out the same side), whorl (circles or a spiral in the middle) or arch (lines go from one side to the other with a hump)?' Then take a print of the same finger from a family member and compare: 'Are any two exactly the same?' (No; even identical twins have different fingerprints.) Loops are the most common type in most groups of people.",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "Azizul Haque, Hem Chandra Bose and the fingerprint system",
+          "mins": 11,
+          "do": "Tell the story in Voice v3 in your own words. In Kolkata in the 1890s, two Indian police officers working for the Bengal police worked out how to sort thousands of fingerprint cards into groups so that one card could be found quickly; it is still called the 'Henry system' after their British boss. Show your child their own ten prints: 'Imagine finding a match among a million cards. How would you sort them first?' (By pattern type on each finger, which is the start of their idea.) Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 32",
+        "a mirror",
+        "a soft dark pencil, scrap paper, clear sticky tape, white paper",
+        "a magnifying glass if you have one"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Collecting data about people",
+      "goal": "Do the book's data activity with family, neighbours or friends, tally the results, and talk about the differences we are born with.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Light-box check",
+          "mins": 3,
+          "do": "Peek into the Experiment e3 box quickly. Are the seedlings bending towards the hole? Compare them with the cup outside the box. Your child draws them. Water both the same.",
+          "ref": "e3"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 3.4: Collecting data (page 33)",
+          "mins": 17,
+          "do": "Read Activity 3.4 on page 33: 'Collect data about your classmates.' At home, collect data from at least 8 people: family members, neighbours, children in the building, cousins on a video call. Your child copies the book's chart (Name, Hair colour, Eye colour, Height in m) and fills a row for each person, like the book's example row (Sunita, black, brown, 1.21). Measure heights against the wall with a measuring tape, in metres and centimetres (1 m 21 cm = 1.21 m). Then copy the tally chart and tally hair colour (black, dark brown, brown, grey or white, other) and eye colour (dark brown, brown, light brown or hazel, other). Show how to draw tallies in groups of five, with the fifth line across, and count the totals.",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 (page 33)",
+          "mins": 7,
+          "do": "Ask Question 1: 'What are the common eye colours in human beings?' (Brown is by far the most common in the world and in India; others are blue, green, grey and hazel.) Question 2: 'In what ways are we the same as other people?' (Same body parts, same life processes, all need food, water and air.) Question 3: 'How are we different from one another?' (Height, hair colour and type, eye colour, skin colour, fingerprints, what we like.) Ask: 'In your data, which was the most common hair colour? Who was tallest? Is the tallest person always the oldest?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: What differences are we born with? (page 33)",
+          "mins": 3,
+          "do": "Read the Talk about it question. Help your child sort differences into 'born with' (eye colour, fingerprints, natural hair colour, blood group, whether ear lobes hang free) and 'can change or learn' (hair length, languages spoken, favourite food, how fast you can run). Ask: 'Is height born with or changed?' (Both: the family you come from matters, but good food and sleep matter too.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Your child does Worksheet ws2 (stretch), using what they have learnt in new cases. Discuss any answer they are unsure of by asking 'Which life process is that? What is your evidence?'",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 33",
+        "a measuring tape, paper, a clipboard or hard book, pencil",
+        "8 or more people to ask"
+      ],
+      "prep": [
+        {
+          "task": "Ask family and neighbours if your child may measure them and ask about eye and hair colour",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Sorting living things: groups and questions",
+      "goal": "Learn why scientists group living things, help the zookeeper sort animals by feathers, fur and scales, and use yes/no questions to sort small animals.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sorting living things (page 34)",
+          "mins": 8,
+          "do": "Read page 34, Topic 3.5, and the Words to learn (group, question). Read: 'Scientists who study living things need to be able to group them.' Look at the zookeeper picture with three enclosures: animals with feathers, animals with fur, animals with scales. Your child sorts the animals in her thought bubbles: feathers: pelican, swan, eagle; fur: mouse, panda, lion; scales: lizard, crocodile. Ask: 'Is there an animal that does not fit any group?' (Many do: a frog has smooth skin, a butterfly has none of these.)"
+        },
+        {
+          "kind": "do",
+          "title": "Sort the picture cards (page 34)",
+          "mins": 10,
+          "do": "Look at the twelve pictures at the bottom of page 34: butterfly, bear, flowering plant, ant, red flower, fish, monkey, fish, scorpion, fish, goat, yellow flowering plant. The book says 'Talk to a friend about how you could sort these living things.' Ask your child to sort them first into two groups, then sort each group again. Good first sorts: plants and animals; or animals with legs and without. Then: animals with six legs (butterfly, ant), eight legs (scorpion), four legs (bear, monkey, goat), no legs (fish). Ask the book's question: 'Describe the things that are similar about the things in your groups.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Juma's small animals (page 35)",
+          "mins": 7,
+          "do": "Look at Juma's small animals at the top of page 35: earthworm, fly, millipede, spider, snail, ladybird, moth. Juma says 'Some have wings. Some have no legs.' Ask: 'Suggest groups he can put them in.' (Wings: fly, ladybird, moth; no wings: worm, millipede, spider, snail. No legs: worm, snail; six legs: fly, ladybird, moth; eight legs: spider; many legs: millipede.) Then: 'Suggest a question that he could use to sort the animals.' Good questions have yes or no answers you can check by looking: 'Does it have wings?', 'Does it have legs?', 'Does it have more than six legs?', 'Does it have a shell?'. A poor question is 'Is it nice?' because people would answer differently."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Minibeast hunt and sorting key",
+          "mins": 15,
+          "do": "Go to a garden, a park or even the balcony pots. Your child looks under pots, stones and leaves and on walls for small animals: ants, earthworms, snails, spiders, beetles, woodlice, house lizards, moths, mosquitoes, millipedes. Do not pick them up; just look closely and draw each one. Back at home, make a simple yes/no sorting tree on paper: first question 'Does it have legs?', then on the 'yes' side 'Does it have more than six legs?', on the 'no' side 'Does it have a shell?'. Your child puts each animal they found at the end of a branch."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 34–35",
+        "a magnifying glass if you have one",
+        "paper and pencil"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Sorting leaves and the tree of life",
+      "goal": "Do the book's leaf-sorting activity in more than one way, answer the questions about groups, finish the light experiment, and meet a scientist who found a whole new group of life.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Results of the light-box test",
+          "mins": 7,
+          "do": "Finish Experiment e3. Open the box and take out the seedlings. Compare with the cup that grew outside the box. Ask: 'Which way are the shoots pointing? Why?' The box seedlings are bent sharply towards the hole, and may be pale and long; the outside seedlings lean a little towards the window. Ask: 'Did the plant move? Which life processes have you seen it do?' (It moved by growing; it sensed the light.) Your child writes a conclusion: 'Plants grow towards light because …'",
+          "ref": "e3"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 3.5: Sorting leaves (page 35)",
+          "mins": 13,
+          "do": "Do Activity a5. Collect 12–15 different fallen leaves (neem, peepal, mango, tulsi, ashoka, bougainvillea, grass, a coconut frond piece, money plant). Make two or three rings from string or bangles, or draw circles on newspaper, as the book's hoops. Your child sorts the leaves into groups and writes a label for each ring (for example 'smooth edge', 'jagged edge', 'leaf made of many small leaflets'). Then ask the book's question: 'Could you have sorted the leaves in a different way?' Make them sort again by a different feature: size, shape, colour, veins (net or parallel), smell, feel. Finish with a Venn diagram: two overlapping rings, such as 'longer than my hand' and 'jagged edge', and ask where a leaf goes if it is both.",
+          "ref": "a5"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 and Talk about it (page 35)",
+          "mins": 8,
+          "do": "Ask Question 1: 'How many groups of animals and plants do you know? What are they?' (Animals: mammals, birds, fish, reptiles, amphibians, insects, spiders; plants: flowering plants, trees, grasses, ferns, mosses.) Question 2: 'Why do scientists need to group animals?' (There are millions of kinds; grouping helps us find, name, study and compare them, and shows which are related.) Question 3: 'Why might you group a lion and a wolf together?' (Both have fur, feed their babies milk, have four legs, and hunt and eat meat with sharp teeth.) Then Talk about it: 'What groups do animals and plants around your home belong to?' (Crows and sparrows: birds; house lizard: reptile; cat and rat: mammals; mosquito and ant: insects; tulsi and neem: flowering plants.)"
+        },
+        {
+          "kind": "think",
+          "title": "Carl Woese finds a new branch of life",
+          "mins": 12,
+          "do": "Tell the story in Voice v4 in your own words. Remind your child that scientists group things by what they share. For a long time, everyone sorted tiny one-celled living things simply into 'germs' (bacteria). In 1977 Carl Woese said some of these tiny things, which live in places like hot springs and the mud of rice fields, were so different inside that they needed a whole new top group of their own. Many scientists laughed at him; today it is in textbooks. Ask the voice question.",
+          "ref": "v4"
+        }
+      ],
+      "need": [
+        "Learner's Book page 35",
+        "12–15 different fallen leaves",
+        "string, bangles or a marker and newspaper for rings, small paper labels"
+      ],
+      "prep": [
+        {
+          "task": "Collect 12–15 different fallen leaves on a walk (or ask your child to)",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress questions, check understanding, do the challenge worksheet, and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 36–37)",
+          "mins": 10,
+          "do": "Do the Check your progress questions on pages 36–37 together. Question 1: help Magda say which pictured things are alive and which are not, giving a life process as the reason. Question 2: copy and complete each life-stage line using the words frog spawn, chick, plant, horse, baby: frog spawn → tadpole → frog; egg → chick → hen; seed → seedling → plant; foal → horse; baby → child → adult. Question 3: why is the snail moving? Discuss the three suggestions (towards the light, looking for a friend, it looks hungry) and that each links to a life process (sensing, reproducing, feeding). Question 4: Sally's table: which animals can have the most young? (Fish, thousands of eggs.) Why do some animals have many young? (Most eggs and babies get eaten or die, so having many means some survive.) Question 5: answer true or false questions about the pictured plant by looking carefully."
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page and look together for a minute, then ask again differently. 5 or more is good; fewer than 4 means repeat the living/non-living sort (Day 2) and the sorting questions (Day 9) next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Your child does Worksheet ws3 (challenge). It has puzzle cases about what is alive, a sorting key to build, and questions comparing scientists' ideas. For open questions, praise any reason that uses evidence.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher and you or a grandparent are the student. Using real things from the unit (the seed jar, the yeast bottle, the body model, the fingerprints, the tally chart, the sorted leaves, the bent seedlings), they teach for 5 minutes: MRS GREN; how living things grow and get food; how they move and reproduce; how people are similar and different; how to sort living things with questions. Ask two student questions: 'Is a dry seed alive?' and 'Why did your seedlings bend?' End by checking the bird feeder chart: which birds came this week?"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 36–37",
+        "the seed jar, yeast bottle, body model, fingerprints, tally chart, leaves and seedlings from this unit"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Life processes, growth, food and young",
+      "day": 6,
+      "sections": [
+        ["A. Is it alive?", [
+          {"t": "write", "p": "Write the seven life processes (use MRS GREN to help).", "lines": 3},
+          {"t": "sort", "p": "Sort these things.", "items": ["sparrow", "neem tree", "earthworm", "bicycle", "cloud", "wooden table", "mushroom", "fire", "cotton shirt", "yeast"], "cats": ["Living", "Never alive", "Once alive"]},
+          {"t": "mcq", "p": "A toy kite moves and flies. It is not alive because:", "opts": ["It is not green", "It cannot grow, feed, sense or reproduce", "It is too light", "It does not have legs"], "a": 1}
+        ]],
+        ["B. Growth and food", [
+          {"t": "fill", "p": "The stages of human growth are baby, toddler, child, ____ and adult.", "a": ["teenager"]},
+          {"t": "match", "p": "Match each animal to its young.", "pairs": [["Cat", "Kitten"], ["Frog", "Tadpole"], ["Bear", "Cub"], ["Hen", "Chick"], ["Cow", "Calf"]]},
+          {"t": "fill", "p": "Plants make their own food using light from the ____.", "a": ["Sun", "sun"]}
+        ]],
+        ["C. Moving and young", [
+          {"t": "mcq", "p": "How does a plant move?", "opts": ["It walks to water", "It grows slowly towards the light", "It cannot move at all", "It flies"], "a": 1},
+          {"t": "mcq", "p": "Which animal carries its young in a pouch?", "opts": ["Fish", "Kangaroo", "Butterfly", "Sparrow"], "a": 1},
+          {"t": "write", "p": "Name an animal that makes a home for its eggs or young, and describe the home.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Living things in new cases",
+      "day": 8,
+      "sections": [
+        ["A. Tricky cases", [
+          {"t": "write", "p": "A dry moong seed sits in a jar for a year and does nothing. Then Meena plants it and it grows. Was it alive all year? Explain using the life processes.", "lines": 3},
+          {"t": "write", "p": "A robot vacuum cleaner moves round the room, senses walls and 'eats' dust. Is it alive? Which life processes is it missing?", "lines": 3}
+        ]],
+        ["B. Food and life cycles", [
+          {"t": "write", "p": "Trace this food back to the Sun: a glass of milk. Write each step.", "lines": 2},
+          {"t": "table", "p": "Draw or write the life stages of these living things.", "cols": ["Living thing", "Stage 1", "Stage 2", "Stage 3"], "rows": 3, "prefill": ["Frog", "Butterfly", "Mango tree"]}
+        ]],
+        ["C. Data", [
+          {"t": "table", "p": "Use your Activity 3.4 data. Make a tally chart of eye colours.", "cols": ["Eye colour", "Tally", "Total"], "rows": 4},
+          {"t": "fill", "p": "In a tally, the fifth line is drawn ____ the first four.", "a": ["across", "through"]},
+          {"t": "mcq", "p": "Which fingerprint type has lines that come in from one side, curve round and go back out the same side?", "opts": ["Whorl", "Arch", "Loop", "Spiral"], "a": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles, keys and big ideas",
+      "day": 11,
+      "sections": [
+        ["A. Make a sorting key", [
+          {"t": "write", "p": "Write yes/no questions that would sort these six animals into six separate boxes: crow, house lizard, goat, ant, spider, fish.", "lines": 5},
+          {"t": "write", "p": "Why is 'Is it big?' a poor sorting question, and 'Does it have more than six legs?' a good one?", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a fish looked after every one of its thousands of eggs, like a bird does? Could it? Explain why fish lay so many eggs instead.", "lines": 3},
+          {"t": "write", "p": "In Darwin's experiment, a cap over the tip of a seedling stopped it bending to the light. Predict what would happen if the cap was put on the stem instead, below the tip. Why?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some scientists say viruses are alive; others say they are not. Give one reason for each side, then say what you think and why.", "lines": 4},
+          {"t": "mcq", "p": "Carl Woese's new group of life was laughed at in 1977 but accepted later. What changed people's minds?", "opts": ["He shouted louder", "More scientists checked the evidence and found the same thing", "The tiny living things changed", "A king ordered it"], "a": 1},
+          {"t": "write", "p": "The fingerprint sorting system is named after Edward Henry, but Azizul Haque and Hem Chandra Bose did much of the work. Why does it matter who gets the credit in science?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Is a dry seed alive? The seed jar",
+      "day": 1,
+      "question": "Is a dry seed alive, even though it seems to do nothing? What does it need to start growing?",
+      "need": ["18 dry rajma or moong seeds", "3 small pebbles", "3 glass jars", "tissue or blotting paper", "water"],
+      "steps": [
+        "Line two jars with tissue or blotting paper pressed against the glass.",
+        "Pour 2 cm of water into those two jars so the paper soaks it up and stays wet.",
+        "In jar 1, push 6 seeds between the wet paper and the glass. In jar 2, push 3 pebbles the same way.",
+        "In jar 3, put 6 seeds on dry paper with no water. (The other 6 seeds are spares.)",
+        "Keep the jars side by side in a warm, bright place. Add water to jars 1 and 2 when the paper dries.",
+        "Every day, draw what you see in each jar and date it. Watch for the root, then the shoot, then the first leaves."
+      ],
+      "predict": "Ask your child to guess first: is the dry seed alive or like a pebble? What will happen to the seeds and pebbles in the wet jars? What about the dry seeds?",
+      "observe": "Within a day the wet seeds swell and the skin wrinkles. In 2–3 days a white root comes out and grows downwards; then a shoot grows upwards and the first leaves open. The pebbles and the dry seeds do not change.",
+      "why": "A dry seed is a baby plant in a resting state (scientists call it dormant), packed with stored food and wrapped in a tough coat. It is alive but its life processes are working extremely slowly, so it seems to do nothing, a bit like a frog sleeping through the dry season in mud. When it takes in water, its cells wake up, it starts to breathe faster and uses its stored food to grow. That is something a pebble can never do, however much water it gets. The root grows down and the shoot up because the seedling can sense gravity, which shows another life process: sensitivity.",
+      "safety": "Rajma is poisonous raw; do not eat the seeds. Wash hands after handling.",
+      "time": "11 min to set up + 3 min daily checks for a week"
+    },
+    {
+      "id": "e2",
+      "title": "Is yeast alive? The balloon test",
+      "day": 2,
+      "question": "Dry yeast looks like sand. Does it do any of the life processes?",
+      "need": ["1 sachet (about 2 teaspoons) of dried yeast", "2 teaspoons of sugar", "warm water", "2 small plastic bottles", "2 balloons", "a funnel or rolled paper"],
+      "steps": [
+        "Pour half a cup of warm water (bath-warm, not hot) into each bottle.",
+        "Add 1 teaspoon of sugar to each bottle.",
+        "Add 1 teaspoon of yeast to bottle 1 only. Swirl both bottles.",
+        "Stretch a balloon over the neck of each bottle.",
+        "Put both in a warm place and look every 10 minutes for 30 minutes, then again later.",
+        "Optional: add a third bottle with yeast but no sugar, to see if the yeast needs food."
+      ],
+      "predict": "Ask your child to guess first: will either balloon change? Why would sand-like powder do anything?",
+      "observe": "After 10–20 minutes the yeast bottle becomes frothy and its balloon starts to stand up and slowly fill with gas. The sugar-only bottle's balloon stays flat. A yeast bottle with no sugar makes very little gas.",
+      "why": "Yeast is a living thing: millions of tiny one-celled fungi, each too small to see. Dried yeast is resting, like a dry seed. In warm water with sugar it wakes up, feeds on the sugar (nutrition) and breaks it down for energy, giving out carbon dioxide gas as waste (respiration and excretion), which fills the balloon. It also grows and makes new yeast cells by budding (growth and reproduction). This is exactly why bakers add yeast to pav and bread dough: the gas makes bubbles that make the bread rise. The sugar-only bottle has nothing alive to use the sugar, so nothing happens.",
+      "safety": "Use warm, not hot, water; very hot water kills yeast and can scald. Do not drink the mixture.",
+      "time": "14 min to set up + check after 30 minutes"
+    },
+    {
+      "id": "e3",
+      "title": "Do plants move towards light? The shoebox test",
+      "day": 5,
+      "question": "Can a plant move? Which way will seedlings grow if light comes in through one small hole?",
+      "need": ["a shoebox with lid", "scissors (adult)", "2 small cups of moong seedlings of similar size", "a bright window", "water"],
+      "steps": [
+        "Cut a hole about 3 cm wide in one short end of the shoebox.",
+        "Put one cup of seedlings at the far end of the box, away from the hole, and close the lid.",
+        "Stand the box with the hole facing a bright window. Put the second cup on the same windowsill outside the box.",
+        "Water both cups with the same amount every two days, opening the lid only for a moment.",
+        "Draw both cups every two days for 5–6 days.",
+        "On the last day take the box cup out and compare the direction of the shoots."
+      ],
+      "predict": "Ask your child to guess first: will the seedlings in the box grow straight up, towards the hole, or away from it? What about the cup outside?",
+      "observe": "The box seedlings bend sharply towards the hole, and may be paler and longer. The outside seedlings lean a little towards the window.",
+      "why": "Plants cannot walk, but they move by growing. The tip of the shoot senses which side the light is coming from. A growth substance (called auxin) then collects on the shaded side of the stem, making the cells on that side grow longer than the cells on the lit side, so the stem bends towards the light. Scientists call this phototropism ('turning to light'). It helps the leaves catch as much light as possible to make food. This is the life process of sensitivity and movement in a plant.",
+      "safety": "An adult cuts the hole.",
+      "time": "9 min to set up + 3 min checks + 7 min results after 5–6 days"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Living or non-living? (Activity 3.1)",
+      "day": 2,
+      "mins": 14,
+      "need": ["a large sheet of paper", "pens", "about 16 pictures from magazines or word cards"],
+      "steps": [
+        "Draw two columns on the sheet: Living and Non-living (add a third, Once alive, if needed).",
+        "Cut out or draw about 16 pictures or word cards.",
+        "Place each card and say which life processes helped you decide.",
+        "Circle any you found difficult and write why.",
+        "Stick the cards down to make a poster."
+      ],
+      "outcome": "A sorting poster of living, non-living and once-living things, with the hard cases explained."
+    },
+    {
+      "id": "a2",
+      "title": "Bird feeder and water bowl (Activity 3.2, Indian version)",
+      "day": 4,
+      "mins": 17,
+      "need": ["a 1-litre plastic bottle", "scissors (adult)", "string", "a pencil or ice-cream stick", "a cup of bird seed (bajra, broken rice or kangni)", "a shallow clay dish"],
+      "steps": [
+        "An adult cuts a window about 5 cm by 5 cm in the side of the bottle, 5 cm above the bottom.",
+        "Make two small holes under the window and push a pencil or stick through as a perch.",
+        "Punch two holes near the neck and thread string through for hanging.",
+        "Pour bird seed into the bottom up to just below the window.",
+        "Hang it from a balcony grill or a tree branch out of reach of cats, and put a shallow dish of clean water nearby.",
+        "Refill seed and change the water every day or two. Record birds seen on a chart."
+      ],
+      "outcome": "A working bird feeder and water bowl, and a chart of the birds that visit and what they eat."
+    },
+    {
+      "id": "a3",
+      "title": "Model of the moving parts of your body (Activity 3.3)",
+      "day": 5,
+      "mins": 14,
+      "need": ["card", "scissors", "about 10 split pins (paper fasteners)", "pencil and crayons"],
+      "steps": [
+        "Draw a head-and-body piece, two upper arms, two lower arms with hands, two upper legs and two lower legs with feet on card.",
+        "Cut them out and colour them.",
+        "Make holes at the shoulders, elbows, hips and knees.",
+        "Join the parts with split pins.",
+        "Move the model and your own body to compare the joints."
+      ],
+      "outcome": "A jointed body model showing where we bend, used to explain joints and muscles."
+    },
+    {
+      "id": "a4",
+      "title": "Fingerprints and people data (Activity 3.4)",
+      "day": 7,
+      "mins": 17,
+      "need": ["a soft dark pencil", "clear sticky tape", "white paper", "a measuring tape", "a clipboard or hard book"],
+      "steps": [
+        "Make a pencil-graphite patch, rub a fingertip on it, press clear tape on the fingertip and stick the print on paper. Do all ten fingers.",
+        "Label each print loop, whorl or arch.",
+        "Compare with family members' prints.",
+        "On Day 8, collect name, hair colour, eye colour and height from at least 8 people in a chart.",
+        "Make tally charts for hair colour and eye colour and count the totals."
+      ],
+      "outcome": "A card of your child's ten fingerprints labelled by type, a data chart of 8 or more people, and tally charts."
+    },
+    {
+      "id": "a5",
+      "title": "Sorting leaves (Activity 3.5)",
+      "day": 10,
+      "mins": 13,
+      "need": ["12–15 different fallen leaves", "string, bangles or drawn circles as hoops", "small paper labels"],
+      "steps": [
+        "Look closely at each leaf: size, shape, edge, colour, veins, smell, feel.",
+        "Sort the leaves into groups and put each group into a hoop.",
+        "Label each hoop with what the leaves share.",
+        "Sort them again a different way.",
+        "Make a Venn diagram with two overlapping hoops and place the leaves."
+      ],
+      "outcome": "Leaves sorted at least two different ways with labelled groups and one Venn diagram."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "The virus debate: are viruses alive? (a live question among scientists)",
+      "idea": "Viruses are tiny particles, much smaller than bacteria, made of genetic material (the instructions for making more virus) wrapped in a coat of protein. They cause illnesses such as colds, flu, measles and COVID-19. A virus cannot feed, grow or make copies of itself on its own; it can only be copied after it gets inside a living cell and takes over the cell's machinery. Outside a cell it does nothing at all.",
+      "then": "When viruses were first discovered around 1900, scientists did not know what they were. In 1935 the American scientist Wendell Stanley managed to turn the tobacco mosaic virus into crystals, like salt or sugar crystals, which made many people doubt that something alive could do that.",
+      "now": "Scientists still disagree. Many say viruses are not alive because they do not do most of the life processes by themselves. Others say they are a kind of life, because they reproduce (with help) and change over time by evolution, and some very large viruses discovered since the 2000s have surprisingly many genes. There is no agreed answer: it depends partly on how you define 'alive'.",
+      "status": "debated",
+      "ask": "A virus can only make copies inside a living cell. A baby cannot survive without a parent either. Is that the same? Which of the seven life processes would a virus need to do on its own for you to call it alive?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Charles Darwin (1809–1882) and his son Francis Darwin (1848–1925), England",
+      "idea": "In their book 'The Power of Movement in Plants' (1880), the Darwins described many experiments on how plants move as they grow. They grew grass seedlings (canary grass) with light coming from one side and saw them bend towards it. When they covered just the very tip of a seedling with a tiny cap, it did not bend; when they covered the lower part and left the tip uncovered, it still bent. They concluded that the tip senses the light and that 'some influence' travels down from the tip and makes the lower part bend.",
+      "then": "Some botanists were doubtful, and a leading German plant scientist, Julius Sachs, criticised their experiments as careless. The Darwins could not say what the 'influence' was.",
+      "now": "Their conclusion is accepted. In the 1920s the Dutch scientist Frits Went showed that the 'influence' is a chemical, later named auxin, which moves to the shaded side of the shoot and makes it grow faster there, so the shoot bends towards the light.",
+      "status": "accepted",
+      "ask": "Darwin could not see or name the 'influence' moving down the stem, but he was sure it was there. Is it scientific to believe in something you cannot see? What evidence made his idea convincing?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Azizul Haque (1872–1935) and Hem Chandra Bose (1867–1949), Bengal Police, India",
+      "idea": "In the 1890s, working at the Bengal police's bureau in Calcutta (Kolkata) under the Inspector General Edward Henry, these two Indian officers worked out a method of sorting fingerprint cards into groups using the patterns (loops, whorls, arches) on each of the ten fingers, so that one set of prints could be found quickly among many thousands. Haque worked out much of the mathematics of the classification. British India began using fingerprints to identify criminals in 1897, and the method spread around the world as the 'Henry system'.",
+      "then": "Edward Henry got the fame and the system was named after him; he took it to Scotland Yard in London in 1901. Haque and Bose's part was little known outside India for a long time, although the government later gave both men honours and money in recognition of their work.",
+      "now": "Historians now agree that Haque and Bose made key contributions to the Henry system, and their story is increasingly told. That every person's fingerprints are different, even in identical twins, is accepted and is the basis of fingerprint identification, including on Aadhaar.",
+      "status": "accepted",
+      "ask": "The system is called after the boss, not the people who did much of the work. How could we find out today who really did what, more than a hundred years ago? What kind of evidence would you look for?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "Carl Woese (1928–2012), USA",
+      "idea": "Woese compared a particular molecule found inside the cells of many different microbes, a bit like comparing fingerprints. In 1977, with George Fox, he reported that some microbes that looked just like bacteria (including ones that make methane gas, found in places like marshes and rice paddies, and others found in hot springs) were completely different inside. He said they were a separate, third main group of life, now called archaea, as different from bacteria as bacteria are from us. In 1990 he proposed dividing all life into three 'domains': bacteria, archaea, and eukarya (plants, animals, fungi and others).",
+      "then": "Many scientists rejected the idea at first, and some, including the famous biologist Ernst Mayr, argued against it for years. Woese said he felt like an outsider whom many did not take seriously.",
+      "now": "The three domains are now accepted and appear in biology textbooks, and archaea turn out to live almost everywhere, including in our own gut. Scientists still argue about exactly how the three domains are related to each other, but the existence of archaea as a separate group is not in doubt.",
+      "status": "accepted",
+      "ask": "Woese grouped microbes by what was inside them, not by what they looked like. Why might two things that look alike belong in different groups? Can you think of an animal that looks like a fish but is not one?",
+      "day": 10
+    }
+  ],
+  "check": [
+    {"q": "List the seven life processes.", "a": "Movement, breathing (respiration), senses (sensitivity), growth, producing young (reproduction), getting rid of waste (excretion), and needing food and water (nutrition)."},
+    {"q": "Is a fire alive? Explain.", "a": "No. It needs air, grows and moves, but it cannot sense, does not produce young like living things do, and is not made of living cells."},
+    {"q": "What are the stages of growth of a human being?", "a": "Baby, toddler, child, teenager, adult."},
+    {"q": "How do plants get their food, and how do animals get theirs?", "a": "Plants make their own sugars using sunlight, carbon dioxide from the air and water, giving out oxygen. Animals eat plants or other animals."},
+    {"q": "How do plants move? What did our shoebox test show?", "a": "They move slowly by growing, for example towards the light; their seeds also move. Our seedlings bent towards the hole where the light came in."},
+    {"q": "Give one animal that cares for its young and one that does not.", "a": "Cares: kangaroo (pouch), bird (nest), polar bear (den). Does not: most fish, butterflies (caterpillars look after themselves)."},
+    {"q": "Name the three types of fingerprint, and say why we sort living things into groups using questions.", "a": "Loop, whorl and arch. Grouping helps scientists find, name and study the millions of kinds of living things; yes/no questions about features you can see make the sorting clear and repeatable."}
+  ]
+}

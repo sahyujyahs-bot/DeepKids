@@ -1,0 +1,581 @@
+{
+  "key": "ncert|sci|3|6",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 6,
+  "title": "Living in Harmony",
+  "source": "NCERT Our Wondrous World, Class 3, Unit 2, Chapter 6 (pages 72–83), Reprint 2026-27",
+  "summary": "We share our homes and surroundings with many animals and plants: some we invite and care for, some just move in. Through Shambhu and the mango tree, your child learns how animals and plants help each other (a monkey drops a mango seed, a squirrel buries nuts) and how we depend on plants for food, medicine, fibre, wood, shade and fresh air, and on animals for milk and company. They get to know one animal closely, test which food ants like best, talk to their plant friend, count legs from two to eight, and hear the true story of Valparai's children welcoming the Grey Wagtails. Along the way they meet people and scientists who found ways for humans, trees and wild animals to live together.",
+  "goals": [
+    "By the end your child can name animals and plants that live in or visit their home, sort them into those we care for and uninvited guests, and say why uninvited ones come (food, water, shelter).",
+    "By the end your child can explain how animals help plants by dispersing seeds and making soil fertile, using the mango and squirrel examples and their own sock-seed test.",
+    "By the end your child can list at least seven uses of plants (fruit, vegetables, medicine, fibre, wood, shade, shelter for animals, fresh air) and find plant products in their own home.",
+    "By the end your child can observe one animal over several days and describe its looks, movements, sounds, food and friends.",
+    "By the end your child can run the ant food test with a prediction first and explain the result.",
+    "By the end your child can describe ways people protect trees and wild animals, such as the Chipko movement and the Valparai wagtail welcome, and weigh what works."
+  ],
+  "words": [
+    ["harmony", "living together peacefully, each caring for the others and sharing space and food fairly"],
+    ["depend", "to need something or someone; we depend on plants for food"],
+    ["shelter", "a safe place to live, rest or hide"],
+    ["uninvited", "not asked to come; lizards, ants and mosquitoes are uninvited guests in our homes"],
+    ["disperse", "to spread things far and wide; animals disperse seeds by carrying, eating or burying them"],
+    ["fertile", "rich in plant food, so plants grow well; animal waste and rotted leaves make soil fertile"],
+    ["fibre", "a long, thin thread from a plant or animal, such as cotton, jute or wool, used to make cloth and rope"],
+    ["compassion", "feeling for others when they are hurt or need help, and wanting to help them"],
+    ["migrate", "to travel a long way at the same time each year to a place with better weather or food, like the Grey Wagtail"],
+    ["scatter-hoard", "to hide food in many small hidden stores, as squirrels do with nuts and seeds"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Who else lives in our home?",
+      "goal": "Find all the animals and plants that share our home, hear elders' stories of the animals they kept, and choose one animal to get to know.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Home census",
+          "mins": 6,
+          "do": "Ask: 'Who lives in our home? Count the people. Now count everyone else!' Walk room to room with your child for 5 minutes and look in corners, on walls, the balcony, under the sink and at the windows. Good finds: a house lizard (chhipkali) on the wall, ants in the kitchen, a spider in a corner, a pigeon on the AC, a pot of tulsi or money plant, a pet, mosquitoes, a cockroach, mould on old bread. Your child writes every one in the notebook. Ask: 'Did you think so many lived with us?'"
+        },
+        {
+          "kind": "read",
+          "title": "The picture and questions (pages 72–73)",
+          "mins": 8,
+          "do": "Look at the big picture on page 72 together. Your child names every animal, bird, insect and plant they can find. Then ask the two questions at the top of page 73: 'Do any of these live with you in your house? Do you and your family take care of them?' Then the third question: 'Are there animals, birds or insects you have spotted that are not in the picture?' Fill in the page 73 table, Name of the animal and Place where you have seen them, starting from the example 'Monkey – Tree'. Aim for five rows, for example 'House lizard – kitchen wall', 'Myna – balcony railing', 'Squirrel – neem tree'."
+        },
+        {
+          "kind": "read",
+          "title": "Sharing our home (page 73)",
+          "mins": 4,
+          "do": "Read the paragraph on page 73: we bring some animals and plants into our homes; some just start living there; sometimes we share happily, and sometimes we do not like them in our home. Ask your child to make two lists from this morning's census: 'We brought them in' (tulsi, money plant, a pet, fish) and 'They came by themselves' (lizards, ants, pigeons, spiders)."
+        },
+        {
+          "kind": "talk",
+          "title": "Elders' animal stories (page 73)",
+          "mins": 10,
+          "do": "Do the task on page 73: your child asks an elder, 'Which animals and plants did you keep at home when you were young? Tell me a story about one.' Listen for: a cow or buffalo for milk, hens, a dog that guarded the house, a parrot that copied words, a tulsi in the courtyard, a neem or mango tree they climbed. Your child writes one sentence of the story. Ask the elder: 'Why did you keep it? Who looked after it?' Compare: 'Do we keep the same animals and plants today? Why or why not?' (Smaller homes in cities, no space for a cow, more people buy milk in packets.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: Choose an animal to get to know (page 78)",
+          "mins": 12,
+          "do": "Start Activity a1, based on page 78. Your child chooses one animal they see often: a crow, pigeon, sparrow, myna, a street dog, a cat, a goat or a cow. Put a shallow bowl of water and a few grains (or a roti piece for a dog) where it comes, as the book suggests. Today, watch it for 10 minutes and start the observation page: name and description (size, colours, beak or nose, tail), when and where you first saw it, alone or with friends. Each day for the next five days, add a few minutes of watching.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 72–73, 78", "notebook and pencil", "a shallow bowl of water and a few grains", "a phone to call an elder if needed"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Uninvited guests and clever ants",
+      "goal": "Talk about the uninvited animals in our homes and why they come, learn not to hurt them, and test which food ants like best.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Discuss in pairs (page 74)",
+          "mins": 9,
+          "do": "Do 'Discuss in Pairs' on page 74 with your child (you are the pair). Ask each question and let them answer first: 'Which uninvited animals, birds and insects visit your home?' 'Why do you think they come?' (For food crumbs and sugar, water in the sink, warmth, dark corners to hide, insects to eat.) 'How do you feel about them?' 'Which do you like?' 'What do you do when you don't like them?' Then read the line on page 74: we take care of some animals and plants by giving them water, food and shelter. Read the Note to the Teacher aloud: we should not hurt animals even if we do not like or are scared of them; animals generally do not hurt others unless they feel threatened."
+        },
+        {
+          "kind": "talk",
+          "title": "The lizard on the wall",
+          "mins": 5,
+          "do": "Ask: 'Is the house lizard our enemy or our helper?' Tell your child: a house lizard (gecko) eats mosquitoes, moths, flies and cockroach babies, so it is a free pest controller; it is not poisonous, and it can drop its tail to escape and grow a new one. Ask: 'If we want fewer ants and cockroaches without killing them, what can we do?' (Keep food covered, wipe crumbs and sugar, fix leaking taps, close cracks.) Say: 'Removing what they come for is kinder than chasing them.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 2: Busy, clever ants (page 79)",
+          "mins": 22,
+          "do": "Do Experiment e1, the ant test from page 79. Put three small pieces of food in a straight line on the floor (or near your plant friend), about one foot apart: something sweet (a pinch of sugar or jaggery), something fried (a bit of papad or murukku) and something boiled or cooked (a piece of chapati, idli or rice). Before you start, your child answers the 'Make a Guess' questions on page 79 and writes the answers: who will come, which food first, how many ants, where they will come from, will they all look the same, what will they do with the food. Then watch and check every 5 minutes for 20 minutes, counting ants at each food. Explain the 'why' of e1.",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Animal watch",
+          "mins": 4,
+          "do": "Spend 4 minutes watching your chosen animal from Activity a1. Your child adds to the page: 'Describe its movement' (hops, walks, flies straight or in circles, how it lands). Refill the water bowl.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 74, 79", "a pinch of sugar or jaggery, a bit of papad or murukku, a piece of chapati, idli or rice", "a phone timer", "notebook", "the water bowl"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "The mango tree and the monkey's seed",
+      "goal": "Read Shambhu's story, learn how animals disperse seeds, and set up a test to catch seeds that hitch a ride on us.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Mango Tree (pages 75–76)",
+          "mins": 8,
+          "do": "Read pages 75–76 aloud. Ask: 'Who lived in the huge mango tree?' (Birds, squirrels, monkeys and many other animals.) 'What did the monkey do?' (Ate a mango and threw out the seed.) 'What did Shambhu's father say would happen to the seed?' (A new plant would grow from it; this is how animals and plants help each other.) 'What else do we get from plants, says Shambhu?' (Fruits, vegetables, medicines, fibre for clothes and wood for houses.) Look at the 'Uses of Plants' diagram on page 76 and read all seven labels: shade, shelter for animals, wood, medicine, fibre, fruit, fresh air."
+        },
+        {
+          "kind": "talk",
+          "title": "How do seeds travel?",
+          "mins": 8,
+          "do": "Ask: 'A mango tree cannot walk. How do its babies get to new places?' Explain the ways seeds are dispersed (spread). By animals: monkeys, bats and birds eat fruit and drop or spit the seed, or pass it in their droppings far away (that is how peepal and banyan trees sprout on walls and roofs: birds ate the figs); squirrels bury nuts; some seeds have hooks that stick to fur. By wind: light fluffy or winged seeds like semal cotton, madar (aak) fluff and the winged seeds of the sal tree. By water: coconuts float. By bursting: some pods pop open, like balsam and bean pods. If you have them at home, show a coconut, a tuft of cotton, and a dried pea or bean pod."
+        },
+        {
+          "kind": "exp",
+          "title": "Sock seed hitchhikers",
+          "mins": 17,
+          "do": "Do Experiment e2. Your child pulls an old, fuzzy sock over one shoe and walks slowly through a patch of grass or weeds for 5 minutes (a park edge or empty plot). Come home, look at the sock with a magnifier and count any seeds or burrs stuck to it. Then lay the sock flat in a tray, cover it with a thin layer of soil, water it and put it near a window. Before you finish, ask your child to predict: 'Will anything grow from the sock?' Write the guess down. Ask: 'Which animal's fur is the sock pretending to be?' (A goat's, a dog's or a cow's.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Animal watch",
+          "mins": 7,
+          "do": "Watch your chosen animal from Activity a1 for 5 minutes. Your child adds: 'What sounds did it make?' (Write them in letters: 'kaa-kaa', 'gutru-gu', 'woof') and 'Was it alone or with friends?' Refill the water bowl. Ask: 'Have you seen your animal eating any fruit or seeds? Could it be carrying seeds to new places?'",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 75–76", "an old fuzzy sock", "a tray, soil and water", "a magnifying glass if available", "a coconut, cotton and a bean pod if you have them"],
+      "prep": [{"task": "Find an old sock you can throw away later and a patch of grass or weeds nearby", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "What plants give us",
+      "goal": "Answer the book's questions about how we depend on plants and animals, hunt for plant products in our home, and check what we have learnt.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Who depends on whom? (page 77)",
+          "mins": 8,
+          "do": "Ask the five questions at the top of page 77, one by one. 'How are we dependent on plants and animals?' (Food, milk, clothes, medicine, wood, fresh air, company.) 'How do plants help animals?' (Food, shade, homes, nesting material.) 'How do animals help plants?' (Carry pollen, disperse seeds, their dung and dead bodies make soil fertile.) 'How do you look after plants and animals around you?' 'How do animals and plants depend on us?' (Pets and cows need us for food and care; garden plants need watering; wild ones need us not to cut forests and dirty rivers.) Let your child draw arrows between three pictures, Me, Plant and Animal, writing one thing on each arrow."
+        },
+        {
+          "kind": "act",
+          "title": "Plant-product treasure hunt",
+          "mins": 14,
+          "do": "Do Activity a2. Give your child 10 minutes to find things in the house that come from plants, and sort them into the page 76 labels: food (rice, dal, spices, tea, sugar), medicine (haldi, tulsi, ajwain, neem, clove for toothache), fibre (cotton clothes, a jute bag, a coir doormat, a rope), wood (a chair, a door, a pencil, a rolling pin), and others (paper, rubber from rubber trees, coconut oil, a broom of grass or coconut leaf). Lay them on a bedsheet in groups and take a photo. Ask: 'Which room had the most plant products?' Usually the kitchen. 'Name one thing in the house that does NOT come from a plant.' (Steel, glass, plastic, though plastic is made from oil, which formed from ancient living things.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Living together",
+          "mins": 14,
+          "do": "Do Worksheet ws1 (core). Read items aloud if needed. Mark answers together; for any mistake, open the page that shows it (uses of plants p76, we need each other p77, uninvited guests p74).",
+          "ref": "ws1"
+        },
+        {
+          "kind": "act",
+          "title": "Animal watch",
+          "mins": 4,
+          "do": "Watch your chosen animal from Activity a1 for 4 minutes. Your child adds: 'Did you see it eating, sleeping, talking to friends or fighting?' Water the sock tray from e2 with a few spoons.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 76–77", "a bedsheet to lay things on", "a phone camera", "worksheet ws1", "the sock tray"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Do squirrels forget?",
+      "goal": "Read how squirrels plant trees by burying nuts, play a hide-and-find game to test our own memory, and hear what scientists found about squirrel memory.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Squirrels and trees (page 77)",
+          "mins": 5,
+          "do": "Read the box on page 77: thousands of trees are accidentally planted by squirrels; they bury nuts and then forget where they hid them; like this, many animals and plants maintain harmony and balance. Ask: 'Why does a squirrel bury nuts?' (To save food for later, when food is scarce.) 'What happens to a nut that is never dug up?' (It can sprout into a tree.) Then ask: 'Do you think squirrels really forget, or might they remember most of them?' Let your child guess."
+        },
+        {
+          "kind": "exp",
+          "title": "Be a squirrel: the hide-and-find test",
+          "mins": 18,
+          "do": "Do Experiment e3. Your child hides 12 peanuts (or 12 small pebbles) one at a time in different spots: in plant pots, under cushions, behind books, in a tray of sand. They must hide them alone, without writing anything down. Do not look for them today. Tomorrow you will see how many they can find in 3 minutes. Before hiding, ask: 'How many will you find tomorrow?' Write the guess. While hiding, ask: 'Are you choosing spots you'll remember? How?' (Near a landmark, in a pattern.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "What scientists found about squirrel memory",
+          "mins": 10,
+          "do": "Tell the story in Voice v2: a scientist tested squirrels and found that they find their own buried nuts much better than nuts buried by other squirrels, so they remember far more than people think. Yet trees still grow from the nuts they never dig up, because a squirrel hides more than it needs or is caught by a hawk. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Squirrel watch",
+          "mins": 7,
+          "do": "Go to a tree, park or compound where the striped palm squirrels (gilahri) live, and watch for 6 minutes. Your child notes what the squirrel does: does it carry food in its mouth, dig, hide something, sit up and look around, chase another squirrel, or make a loud 'chip-chip' call (often a warning of a cat or hawk)? If your Activity a1 animal is a squirrel, add this to its page. Ask: 'What tells you the squirrel is watching out for danger?' (Stops, sits up, flicks its tail, calls.)"
+        }
+      ],
+      "need": ["Textbook page 77", "12 peanuts in shells or 12 small pebbles", "a tray of sand or a few plant pots", "a tree or park with squirrels"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "We need each other",
+      "goal": "Find out how many squirrel-nuts we remembered, understand 'dispersing' and 'fertile', see what we get from animals, and hear how the women of Chipko protected their trees.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Find the nuts",
+          "mins": 8,
+          "do": "Finish Experiment e3. Give your child exactly 3 minutes to find the 12 peanuts or pebbles hidden yesterday. Count how many were found and compare with the guess. Then you try to find the ones they missed, without help. Ask: 'Which hiding places did you remember best? Why?' Read the 'why' of e3. Ask: 'If those leftover peanuts were in soil outside, what might happen to them?' (They could sprout into peanut plants.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "We Need Each Other (page 77)",
+          "mins": 7,
+          "do": "Read 'We Need Each Other' on page 77 aloud. Ask: 'What do we get from cows, buffaloes and goats?' (Milk and loving company.) 'How should we treat them?' (With kindness, care and compassion.) 'How do animals help plants?' (By dispersing seeds and making the soil fertile through their waste.) Explain the two words as the Note to the Teacher asks: 'dispersing' means spreading things far and wide; 'fertile' soil is soil full of plant food so plants grow well. Tell your child that in many Indian villages cow dung is mixed into fields as manure and used in compost pits, for exactly this reason."
+        },
+        {
+          "kind": "exp",
+          "title": "Sock seed check",
+          "mins": 3,
+          "do": "Check the sock tray from Experiment e2. Look for tiny green shoots poking through the soil. Your child counts them and draws one. Water the tray.",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Gaura Devi and the Chipko women",
+          "mins": 12,
+          "do": "Tell the story in Voice v1 in your own words: in 1974, in the village of Reni in the Himalayas, workers came to cut the forest while the men were away; Gaura Devi and the women of the village stood between the axes and the trees and said the forest was like their mother's home. The trees were saved. Tell them the word 'chipko' means 'to stick to' or 'to hug'. Ask: 'Why would the women care so much about the forest?' (It gave them firewood, fodder for animals, water from springs and held the hillside together.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Animal watch: the surprise",
+          "mins": 10,
+          "do": "Watch your chosen animal from Activity a1 for 8 minutes. Your child adds the last answer on page 78: 'Did it do anything that surprised you or made you laugh?' Then they write the whole description as a short story of 5–6 sentences and read it aloud to the family, as page 78 asks them to share it with classmates.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 77–78", "the hidden peanuts or pebbles", "a phone timer", "the sock tray", "the animal observation page"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "My plant friend, my feelings, and sharing with wild animals",
+      "goal": "Talk to our plant friend about our feelings, play Guess Who I Am, and think about how farmers and elephants can share land.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Visiting your plant friend (pages 79–80)",
+          "mins": 8,
+          "do": "Read 'Visiting your plant friend' on pages 79–80 aloud: when you feel sad, upset or angry, you can go to your plant friend and talk about how you are feeling, and you can talk to it when you are happy too. Go to the plant friend from Chapter 4. Let your child sit by it, touch the bark or leaves, and tell it quietly about something from this week. Give them privacy; you need not listen. Afterwards ask the book's question: 'How did you feel after sharing your feelings with the plant?' Read the last lines on page 80: plants need our care and support, so do animals; we can all help each other. Give the plant friend some water."
+        },
+        {
+          "kind": "game",
+          "title": "Book Activity 3: Guess Who I Am? (page 80)",
+          "mins": 10,
+          "do": "Play Activity 3 on page 80 with family members. One person whispers the name of an animal, bird, insect or tree into a partner's ear; the partner acts and moves like it without speaking, and the others guess. Try the book's two examples first: what would Gopa do for 'Frog'? (Squat, hop, puff out cheeks, flick out a tongue.) What would Sukhiya do for 'Peepal tree'? (Stand tall, arms out as branches, wave hands like fluttering leaves, maybe hang an arm down like a hanging root.) Then take turns with your own: crow, elephant, ant, snake, banyan, peacock, squirrel burying a nut. After each, ask: 'Which body part did you use most to show it?'"
+        },
+        {
+          "kind": "think",
+          "title": "Elephants, farmers and beehive fences",
+          "mins": 9,
+          "do": "Ask: 'What happens when elephants walk into a village field and eat the crop?' (The farmer loses months of work and food; people may get hurt; angry people may hurt elephants.) 'Whose fault is it?' Let your child think: the elephants are following food and their old paths; their forests have shrunk. Tell the story in Voice v3: a scientist found that elephants are scared of bees, and tested fences made of beehives to keep them out of fields. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 13,
+          "do": "Do Worksheet ws2 (stretch). It applies the chapter's ideas to new animals and places. Let your child use the Day 4 plant-product photo and the Day 2 ant results for help.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 79–80", "a mug of water for the plant friend", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "A true story from Valparai and counting legs",
+      "goal": "Read how the children of Valparai welcome the Grey Wagtails, find out why they are called wagtails, meet the scientists who work there, and sort animals by their number of legs.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "A True Story! (page 83)",
+          "mins": 7,
+          "do": "Read page 83 aloud. Ask: 'Where is Valparai?' (A small town in Tamil Nadu, in the hills.) 'What do the children and teachers do all school year?' (Look for and record birds that come to their town.) 'Which bird do they welcome, and when?' (The Grey Wagtail, Vaalatti kuruvi in Tamil, just after the rains and in the winter months.) 'How do they welcome it?' (Welcome posters and sweets for everyone.) Then the two questions: 'Why are they called wagtails?' (They constantly wag or bob their long tail up and down as they walk.) 'Give the story a title.' Your child writes their title. Show them a picture of a Grey Wagtail on a phone: grey back, yellow underneath, long tail, often by streams."
+        },
+        {
+          "kind": "think",
+          "title": "Scientists in the tea gardens of Valparai",
+          "mins": 8,
+          "do": "Tell the story in Voice v4: in Valparai, tea gardens and the town sit right next to rainforest, and scientists there help people, trees and animals such as the rare lion-tailed macaque share the land. Ask the voice question. Then ask: 'The Grey Wagtail travels from the mountains in the north to the warmer south for the winter. Why might it do that?' (In winter the mountains are freezing and insects are hard to find; the south is warmer with plenty of insects.)",
+          "ref": "v4"
+        },
+        {
+          "kind": "act",
+          "title": "Welcome poster for a bird",
+          "mins": 8,
+          "do": "Like the Valparai children, your child makes a welcome poster for a bird that visits your area at a certain time of year, or for a bird they see every day (a koel in summer, a migrating wagtail, a flock of rosy starlings, or simply the crow from Activity a1). The poster should show the bird, its name in English and your home language, when it comes and one fact about it. Stick it on the window facing out."
+        },
+        {
+          "kind": "do",
+          "title": "Two, four, six or eight legs (page 82)",
+          "mins": 9,
+          "do": "Do Activity C on page 82: your child names and draws animals with two legs (all birds, people), four legs (cow, dog, cat, lizard, frog), six legs (all insects: ants, bees, butterflies, cockroaches) and eight legs (spiders, scorpions, ticks). Give the rule to remember: every insect has 6 legs; every spider has 8. Ask: 'An ant and a spider are both small and crawl. How can you tell them apart?' (Count the legs: ant 6, spider 8; an ant's body has three parts, a spider's two.) Bonus: 'What about a millipede or an earthworm?' (Many legs; no legs.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views. Your child may answer write items aloud while you scribe. Praise answers that give reasons and evidence.",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 82–83", "a phone for pictures of a Grey Wagtail", "chart paper and colours", "worksheet ws3"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, see what grew from our sock, check understanding, and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Sock seed results",
+          "mins": 5,
+          "do": "Finish Experiment e2. Count the seedlings that grew from the sock and compare with the guess. Ask: 'Where did these come from?' (Seeds that hooked onto the sock as we walked, just as they hook onto animals' fur.) 'Would they have reached our home without us?' (No; we dispersed them.) Read the 'why' of e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "review",
+          "title": "Let us reflect A and B (page 81)",
+          "mins": 12,
+          "do": "Ask the three Discuss questions on page 81: how are we dependent on plants and animals; how should we care for plants and animals in our environment (water bowls in summer, not plucking leaves for fun, not teasing animals, keeping food waste away from plastic, not cutting trees); how do plants and animals depend on us. Then do the Write section: your child completes the four sentences in B1 (for example 'I like looking at squirrels because they hold food in their hands'), answers B2 a and b about their favourite, and for B2c writes the names of all the animals, birds and insects they have seen this week from the smallest to the largest (for example ant, mosquito, spider, lizard, sparrow, crow, cat, dog, goat, cow, elephant)."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed answer, open the page that shows it, look for a minute, then ask again in other words. Most children get 5 or more; fewer than 4 means repeat the Day 3 seed-dispersal talk and the Day 4 plant-product hunt next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child is the teacher and you are the student. Using the animal story from Activity a1, the ant results, the sock tray, the plant-product photo and the welcome poster, they teach you in 5 minutes: who shares our home and why they come; how animals help plants (seeds, soil); what plants give us; how people protect trees and animals. Ask two 'student' questions: 'Why did the ants go to the sugar first?' and 'Do squirrels really forget their nuts?' End with a family pact: choose one thing to do for two weeks for animals and plants near home (a daily water bowl, a covered dustbin, watering the plant friend) and write it on the fridge."
+        }
+      ],
+      "need": ["Textbook page 81", "the sock tray, animal story, ant results, plant-product photo and welcome poster", "paper for the family pact"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Living together",
+      "day": 4,
+      "sections": [
+        ["A. Our home", [
+          {"t": "sort", "p": "Sort these: did we bring them into our home, or did they come by themselves?", "items": ["Tulsi plant", "House lizard", "Pet dog", "Ants", "Money plant", "Spider", "Goldfish", "Mosquito"], "cats": ["We brought them", "They came by themselves"]},
+          {"t": "mcq", "p": "Why do ants come into our kitchen?", "opts": ["To play", "To find food like sugar and crumbs", "Because they like the light", "To sleep"], "a": 1},
+          {"t": "write", "p": "Why should we not hurt an animal even if we are scared of it?", "lines": 2}
+        ]],
+        ["B. Shambhu and the mango tree", [
+          {"t": "fill", "p": "The monkey ate a mango and threw out the ____. A new plant can grow from it.", "a": ["seed"]},
+          {"t": "fill", "p": "Squirrels bury ____ and some of them grow into trees.", "a": ["nuts", "seeds"]},
+          {"t": "match", "p": "Match the plant product to its use.", "pairs": [["Cotton", "Fibre for clothes"], ["Teak or sheesham", "Wood for houses and furniture"], ["Tulsi and haldi", "Medicine"], ["Mango", "Fruit"], ["A big tree", "Shade and shelter for animals"]]}
+        ]],
+        ["C. We need each other", [
+          {"t": "mcq", "p": "Animals make the soil fertile through their:", "opts": ["Songs", "Waste (dung)", "Feathers only", "Footprints"], "a": 1},
+          {"t": "draw", "p": "Draw yourself, a plant and an animal. Draw arrows and write one thing each gives the other."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New animals, same ideas",
+      "day": 7,
+      "sections": [
+        ["A. How seeds travel", [
+          {"t": "match", "p": "Match the seed to how it is dispersed.", "pairs": [["Coconut", "Floats on water"], ["Semal cotton", "Blown by wind"], ["Peepal fig", "Eaten by birds and dropped in droppings"], ["Burr with hooks", "Sticks to animal fur"], ["Acorn or peanut", "Buried by squirrels"]]},
+          {"t": "write", "p": "A peepal tree is growing out of a crack high on an old wall. How did its seed get there?", "lines": 2}
+        ]],
+        ["B. The ant test", [
+          {"t": "table", "p": "Write your ant test results.", "cols": ["Food", "Ants after 5 min", "Ants after 20 min", "What they did"], "rows": 3, "prefill": ["Sweet", "Fried", "Boiled"]},
+          {"t": "mcq", "p": "Your ants went to the sugar first. Which is the best next test to check if they like sugar or are just going to the nearest food?", "opts": ["Use more sugar", "Swap the positions of the foods and test again", "Test at night only", "Use bigger pieces of papad"], "a": 1}
+        ]],
+        ["C. Legs and lives", [
+          {"t": "sort", "p": "Sort by number of legs.", "items": ["Crow", "Cow", "Ant", "Spider", "Butterfly", "Lizard", "Scorpion", "Person"], "cats": ["Two", "Four", "Six", "Eight"]},
+          {"t": "write", "p": "A cow gives milk and the farmer gives it food and shelter. Write one more pair like this: what each gives the other.", "lines": 2},
+          {"t": "write", "p": "Grey Wagtails come to Valparai in winter. Name a bird or animal near you that comes only in a certain season.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Harmony puzzles and different views",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "In our squirrel test, a child hid 12 peanuts and found 9. What fraction were left behind? If 100 squirrels each left the same fraction of 12 nuts, how many nuts could sprout?", "lines": 3},
+          {"t": "write", "p": "An ant and a spider are on the wall. Without touching them, give two ways to tell which is which.", "lines": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all the squirrels, birds and monkeys near a forest disappeared? What would happen to the forest's trees in 50 years?", "lines": 3},
+          {"t": "write", "p": "What if everyone in your building kept food covered and wiped all crumbs for a month? What would happen to the ants and cockroaches, and to the lizards?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "The book says squirrels forget where they hide nuts. Scientists found squirrels remember many of them. Can both be partly true? How?", "lines": 3},
+          {"t": "mcq", "p": "Beehive fences kept elephants away from many farms, but not every time. What is the most scientific way to decide if they work?", "opts": ["Ask one farmer", "Compare many farms with and without the fences over the same seasons", "Watch one elephant once", "Read a story about it"], "a": 1},
+          {"t": "write", "p": "The Chipko women hugged trees to stop them being cut. A timber worker needed the job to feed his family. How could both be helped?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Busy, clever ants: which food do they like best? (Book Activity 2, page 79)",
+      "day": 2,
+      "question": "When we put out sweet, fried and boiled food, which will ants come to first, and how many will come?",
+      "need": ["a pinch of sugar or jaggery", "a bit of papad or murukku", "a piece of chapati, idli, rice or bread", "a place on the floor or near the plant friend where ants are often seen", "a ruler or a foot-long scale", "a phone timer", "a magnifying glass if available"],
+      "steps": [
+        "Write your answers to the 'Make a Guess' questions on page 79.",
+        "Put the three foods in a straight line, one foot apart.",
+        "Every 5 minutes for 20 minutes, count the ants at each food.",
+        "Watch what they do: eat on the spot, carry bits away, or go back and forth in a line.",
+        "Look closely: are all the ants the same size and colour?",
+        "Follow the ant line back as far as you can to find where they come from. At the end, clean the floor well with water."
+      ],
+      "predict": "Ask your child to guess first, using the page 79 questions: who will come, which food first, how many ants, where will they come from, will they all look the same, and what will they do with the food?",
+      "observe": "Record the count at each food every 5 minutes. Usually ants find the sweet food first and in the biggest numbers; some kinds of ants also come to the fried food for its oil. Look for a line of ants forming between the food and a crack or hole, and ants carrying bits back.",
+      "why": "Ants live in big families called colonies, with a queen who lays eggs and many workers who look for food. Sugar is quick energy, so most ants love it; fats and oils and protein are also needed by some kinds of ants, especially to feed young ones. When a worker ant finds good food, it walks back to the nest leaving a trail of a smelly chemical on the ground. Other ants follow the smell, and each one that also finds food adds more to the trail, so the line gets stronger. That is why at first only one or two ants come, and soon there is a long line. The ants carry food back to share with the colony.",
+      "safety": "Some ants, like red ants, bite or sting: watch, don't touch. Clean the floor well afterwards so ants don't keep coming.",
+      "time": "22 min"
+    },
+    {
+      "id": "e2",
+      "title": "Sock seed hitchhikers",
+      "day": 3,
+      "question": "Do seeds hitch a ride on animals' fur (and on us) and grow in a new place?",
+      "need": ["an old, fuzzy sock", "a patch of grass or weeds", "a magnifying glass if available", "a tray, soil and water"],
+      "steps": [
+        "Pull the old sock over one shoe.",
+        "Walk slowly through a patch of grass or weeds for 5 minutes, brushing against the plants.",
+        "At home, look at the sock closely and count any seeds or burrs stuck to it.",
+        "Lay the sock flat in a tray and cover it with a thin layer of soil.",
+        "Water it and keep it damp, near a window.",
+        "Check on Day 6 and Day 9 and count the seedlings."
+      ],
+      "predict": "Ask your child to guess first: will anything grow from the sock? How many seedlings?",
+      "observe": "Record the seeds and burrs you can see on the sock, and later the number and kinds of seedlings. Often several grass or weed seedlings appear in a week or so.",
+      "why": "Plants cannot walk, so many use animals to carry their seeds to new places. Some seeds have tiny hooks, spikes or sticky coats, like the burrs of the chirchita (Achyranthes) plant or the spiky seeds of grasses that stick to clothes, which catch on fur, feathers or clothes. The animal walks away and the seeds fall off later, far from the parent plant, where they have more space and light. Our sock acted like a goat's fur. Seeds that sprouted from the sock prove that the sock carried living seeds to a new place: we dispersed them.",
+      "safety": "Avoid walking through thorny bushes or tall grass where snakes may hide. Wash hands after handling soil.",
+      "time": "17 min to set up + 3 min checks on Days 6 and 9"
+    },
+    {
+      "id": "e3",
+      "title": "Be a squirrel: the hide-and-find test",
+      "day": 5,
+      "question": "If we hide nuts in many places like a squirrel, how many can we find again the next day?",
+      "need": ["12 peanuts in shells or 12 small pebbles", "hiding places such as plant pots, cushions, books, a tray of sand", "a phone timer", "notebook"],
+      "steps": [
+        "Write your guess: how many of the 12 will you find tomorrow?",
+        "Hide the 12 peanuts one at a time, alone, in 12 different places. Do not write anything down.",
+        "Leave them overnight.",
+        "Next day, find as many as you can in exactly 3 minutes. Count them.",
+        "Let another person who did not see you hide them search for 3 minutes too.",
+        "Talk about which hiding places were easiest to remember."
+      ],
+      "predict": "Ask your child to guess first: how many of the 12 will you find? Will someone who didn't see you hide them find as many?",
+      "observe": "Record how many the hider found and how many the other person found. Usually the hider finds most but not all, and the other person finds far fewer. Note which spots were forgotten.",
+      "why": "Squirrels hide nuts in many small stores so that if a thief finds one, they don't lose them all; scientists call this scatter-hoarding. Like you, a squirrel remembers its stores using landmarks, such as 'near the big stone', and finds its own stores much better than a stranger would. But it hides more nuts than it eats, and some squirrels are caught by hawks or cats before they come back. The nuts that are left in the soil can sprout. So trees get planted not because squirrels forget everything, but because they hide more than they need and some are never collected.",
+      "safety": "Check for peanut allergy before handling peanuts; use pebbles if anyone is allergic. Collect all the peanuts afterwards so they don't attract ants or rats.",
+      "time": "18 min to hide + 8 min to find the next day"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Get to know an animal (Book Activity 1, page 78)",
+      "day": 1,
+      "mins": 12,
+      "need": ["one animal you see often (crow, pigeon, sparrow, myna, street dog, cat, goat, cow)", "a shallow bowl of water and a few grains", "an observation page in the notebook"],
+      "steps": [
+        "Choose the animal and give it a name if you like.",
+        "Keep a bowl of water and some grains where it comes; refresh the water every day.",
+        "Day 1: name and describe it (size, colours, beak or nose, tail) and write when and where you first saw it, and whether it was alone or with friends.",
+        "Day 2: describe how it moves.",
+        "Day 3: write what sounds it makes.",
+        "Day 4: write whether you saw it eating, sleeping, talking to friends or fighting.",
+        "Day 6: write anything that surprised you or made you laugh, then write the whole story and read it to the family."
+      ],
+      "outcome": "A six-day observation diary of one animal, written up as a short true story your child shares with the family."
+    },
+    {
+      "id": "a2",
+      "title": "Plant-product treasure hunt",
+      "day": 4,
+      "mins": 14,
+      "need": ["a bedsheet", "labels: Food, Medicine, Fibre, Wood, Others", "a phone camera"],
+      "steps": [
+        "Lay the bedsheet on the floor and place the five labels on it.",
+        "In 10 minutes, find as many things in the house as you can that come from plants.",
+        "Place each one under the right label and say which plant it came from.",
+        "Count the things in each group.",
+        "Photograph the whole sheet.",
+        "Put everything back where it belongs."
+      ],
+      "outcome": "A photographed display of plant products from your own home, sorted by use, matching the book's 'Uses of Plants' diagram."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Gaura Devi (about 1925–1991) and the women of Reni village, Uttarakhand, India (the Chipko movement)",
+      "idea": "In the early 1970s, villagers in the hills of what is now Uttarakhand protested against forests being sold to outside companies for cutting. On 26 March 1974, when the men of Reni village were away, loggers arrived to fell trees. Gaura Devi, the head of the village women's group, led about 27 women and girls to stand in front of the trees and refused to move, saying the forest was like their mother's home that gave them food, fodder, firewood and water. The loggers left. 'Chipko' means 'to stick to' or 'to hug'. Leaders like Chandi Prasad Bhatt and Sunderlal Bahuguna helped spread the movement.",
+      "then": "Many officials saw the forests mainly as timber to be sold. But the protests drew attention across India and the world, and in 1980 the government stopped the felling of green trees in the Uttarakhand Himalayas for 15 years.",
+      "now": "Chipko is remembered as one of the most important people's movements for forests in the world, and as an example of village women protecting the land they depend on. Scientists now agree that Himalayan forests protect springs and hold soil on steep slopes, preventing landslides. Long before Chipko, the Bishnoi community of Rajasthan had the same idea: their tradition tells of Amrita Devi and many others who gave their lives to save khejri trees.",
+      "status": "accepted",
+      "ask": "The women knew the forest kept their springs flowing and their hillside safe. How could you find out if cutting a forest really dries up springs? What would you compare?",
+      "day": 6
+    },
+    {
+      "id": "v2",
+      "who": "Lucia Jacobs, USA (squirrel memory studies, from the 1990s)",
+      "idea": "The book says squirrels forget where they bury their nuts. Lucia Jacobs, a scientist who studies animal memory, tested this with grey squirrels. In a 1991 study with Emily Liman, squirrels buried nuts and were later let back in; they found far more of their own nuts than nuts buried by other squirrels in the same area, showing that they really remember where they hid them, not just sniff any nut out.",
+      "then": "Before such tests, many people believed squirrels found nuts mainly by smell or by luck, and that they forgot most of them.",
+      "now": "It is accepted that squirrels have a good memory for their stores and use landmarks to find them, and that smell helps too. It is also accepted that squirrels and other nut-hiding animals plant many trees, because they hide more than they need and some of the hiders are eaten by predators or die before they come back. So the book is right that squirrels plant trees, but 'forgetting' is only a small part of the story.",
+      "status": "accepted",
+      "ask": "How could you tell whether a squirrel found a nut by remembering, by smelling or by luck? What test would separate them?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Lucy King, Kenya and UK (beehive fence research, from 2007)",
+      "idea": "Elephants raiding farms is a serious problem in Africa and in India. Lucy King and her colleagues working in Kenya noticed that elephants avoid trees with beehives, because bees can sting them around the eyes and inside the trunk. In 2007 they showed that elephants walked away from the recorded sound of angry bees. They then tested fences made of beehives hung on wires around farms: when an elephant pushes the wire, the hives swing and the bees come out.",
+      "then": "The idea seemed strange at first, but early trials in Kenya showed far fewer elephant raids on farms with beehive fences, and farmers could also sell the honey.",
+      "now": "Beehive fences have been tried in many countries in Africa and Asia, including some places in India. They work well in many trials, but not everywhere: in droughts the bees can leave the hives, fences need care, and very hungry elephants sometimes break through. Scientists are still studying where and how well they work, and combining them with other ideas.",
+      "status": "debated",
+      "ask": "If a village puts up beehive fences and has fewer elephant raids that year, can we be sure the fences did it? What else might have changed?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "Divya Mudappa and T. R. Shankar Raman, Nature Conservation Foundation, Valparai, Tamil Nadu, India",
+      "idea": "Valparai, the town in the book's true story, sits on the Anamalai hills among tea and coffee gardens, next to rainforest. Since the early 2000s, ecologists Divya Mudappa and T. R. Shankar Raman of the Nature Conservation Foundation have worked with tea companies and local people to replant native rainforest trees in damaged patches of forest, and to help wild animals such as the endangered lion-tailed macaque live alongside people, for example by helping them cross busy roads more safely. Their education work with Valparai's schools includes watching and welcoming birds like the Grey Wagtail.",
+      "then": "Many people thought that once a forest had been broken up by plantations and roads, its rare animals were bound to disappear and the forest patches were not worth saving.",
+      "now": "Their long-term studies have shown that even small, cared-for forest patches among plantations can keep many rare birds and animals alive, and that the replanted patches are growing back. The work is widely respected, though how well wildlife and people can share such crowded hills, especially with elephants and leopards also living there, remains a hard question.",
+      "status": "accepted",
+      "ask": "Can a town and a rainforest share the same hills? What would you need to count, year after year, to know whether the lion-tailed macaques are doing well?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {"q": "Name two animals or plants we bring into our homes and two that come by themselves. Why do the uninvited ones come?", "a": "Brought in: tulsi, money plant, a pet dog, fish. Came by themselves: lizards, ants, spiders, pigeons, mosquitoes. They come for food, water, warmth and shelter."},
+    {"q": "How do animals help plants? Give two ways.", "a": "They disperse seeds (a monkey throws out a mango seed, birds drop seeds in droppings, squirrels bury nuts, burrs stick to fur) and make the soil fertile with their waste; bees and butterflies also carry pollen."},
+    {"q": "Name five uses of plants from the book.", "a": "Fruit, vegetables, medicine, fibre for clothes, wood for houses, shade, shelter for animals and fresh air."},
+    {"q": "In the ant test, which food did the ants go to first, and why did a line of ants form?", "a": "Usually the sweet food (sugar or jaggery). A worker ant that finds food leaves a smell trail back to the nest; others follow it and add to it, so a line forms."},
+    {"q": "Do squirrels forget where they bury nuts? How do they plant trees?", "a": "They remember many of their stores, but they hide more than they eat and some are never collected (the squirrel may be caught by a predator), so leftover nuts sprout into trees."},
+    {"q": "How many legs do a bird, a cow, an ant and a spider have?", "a": "Bird 2, cow 4, ant 6 (all insects have 6), spider 8."},
+    {"q": "Who are the Grey Wagtails of Valparai, and why are they called wagtails?", "a": "Birds that come to Valparai in Tamil Nadu from the mountains for the winter months, welcomed by the children with posters and sweets. They are called wagtails because they keep wagging their long tails up and down."}
+  ]
+}
