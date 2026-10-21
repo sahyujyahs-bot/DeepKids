@@ -1,0 +1,1023 @@
+{
+  "key": "cambridge|sci|1|3",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 1,
+  "n": 3,
+  "title": "Ourselves",
+  "source": "Cambridge Primary Science Learner's Book 1 (Cambridge University Press, 2014), Unit 3 'Ourselves' (pages 24–33)",
+  "summary": "Your child finds out how people are similar (we all eat, play, grow and have the same body parts) and how each of us is a little different (hair, skin, height, eyes, fingerprints, likes and dislikes). They learn to name the main parts of the body, and discover the five senses (seeing, hearing, smelling, tasting and touching) and the body part used for each, and how animals use their senses too. They collect data about the family in a tally chart and test their own senses.",
+  "goals": [
+    "By the end your child can say at least four ways in which people are similar and four ways in which they are different.",
+    "By the end your child can sort family members into groups by one feature and read a simple tally chart to find the most common.",
+    "By the end your child can name and point to the head, hair, eyes, ears, nose, mouth, shoulders, arms, hands, fingers, legs, knees, feet and toes.",
+    "By the end your child can name the five senses and the body part for each, and say what we can still sense with our eyes closed.",
+    "By the end your child can explain how an animal such as a cat, bee or owl uses its senses to find food and stay safe."
+  ],
+  "words": [
+    [
+      "similar",
+      "alike in some way; you and your cousin are similar because you both have two eyes and love mangoes"
+    ],
+    [
+      "different",
+      "not the same; your hair may be curly and your brother's straight"
+    ],
+    [
+      "body",
+      "the whole of a person or animal, from head to toes"
+    ],
+    [
+      "shoulder",
+      "the part where your arm joins the top of your body"
+    ],
+    [
+      "knee",
+      "the joint in the middle of your leg that lets it bend"
+    ],
+    [
+      "senses",
+      "the ways our body finds out about the world: seeing, hearing, smelling, tasting and touching"
+    ],
+    [
+      "see",
+      "to find out about things using our eyes"
+    ],
+    [
+      "hear",
+      "to find out about sounds using our ears"
+    ],
+    [
+      "smell",
+      "to find out about things in the air using our nose"
+    ],
+    [
+      "taste",
+      "to find out about food using our tongue"
+    ],
+    [
+      "touch / feel",
+      "to find out about things using our skin, for example whether they are hot, cold, rough or smooth"
+    ],
+    [
+      "tongue",
+      "the soft, strong part inside our mouth that we taste with"
+    ]
+  ],
+  "day_mins": 30,
+  "days": [
+    {
+      "n": 1,
+      "title": "How are we similar?",
+      "goal": "Start from our own family to see how people are alike, read page 24, and do the mirror activity 3.1a.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Family photo game",
+          "mins": 5,
+          "do": "Show your child a family photo (a wedding, a festival like Diwali or Eid, or a birthday). Ask: 'What is the same about everyone in this photo?' Good answers: 'Everyone has a head, two eyes, a nose, a mouth, two arms; everyone is smiling; everyone is wearing clothes.' Then ask: 'Is anyone exactly the same as someone else?' (No, not even twins.) Say: 'This week we are scientists studying the most interesting living things of all: people.'"
+        },
+        {
+          "kind": "read",
+          "title": "We are similar (page 24)",
+          "mins": 7,
+          "do": "Open page 24, 'We are similar'. Read: 'Look at the children.' Read the speech bubbles: 'We all love to play.' 'We all need to eat.' Read: 'The children are talking about why they are similar. That means ways in which they are like each other.' Ask the book's question: 'In what other ways are the children similar?' Good answers: 'They all have arms and legs, hair, two eyes; they all drink water; they are all children; they all wear shoes; they are all having fun outside.' Read the 'Words to learn': similar. Ask your child to use it: 'Dadi and I are similar because…'"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 3.1a: How are we similar? (page 25)",
+          "mins": 14,
+          "do": "Do Activity a1, the book's Activity 3.1a. Your child stands in front of a mirror with you, a sibling or a cousin. Read the steps on page 25: 'Look at yourself. Look at your clothes. Look at your faces. Look at your bodies.' Ask them to find five ways you are similar: two eyes, two ears, one nose, ten fingers, hair, eyebrows, eyelashes, teeth. Then look closer: 'Do we both have a dimple? The same shape of ears? The same eye colour?' Children in a family are often similar to their parents because they get their features from both of them. Your child makes a drawing of the two of you side by side and circles the parts that are similar.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "What do all people need?",
+          "mins": 4,
+          "do": "Ask: 'What do all people need to stay alive, wherever they live, in Kerala or Kashmir or Kenya?' Good answers: food, water, air to breathe, sleep, a home and clothes to stay warm or cool, people who love and care for them. Say: 'In these important ways, every person in the world is similar.'"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 24–25",
+        "a family photo",
+        "a mirror",
+        "paper and crayons"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Things we like, and a body that matches",
+      "goal": "Do Activity 3.1b about likes, and test a surprising way all our bodies are similar: our arm span and our height.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 3.1b: Things we like (page 25)",
+          "mins": 10,
+          "do": "Do Activity a2, the book's Activity 3.1b. Read the speech bubbles on page 25: 'I like playing tennis.' 'So do I!' Phone or video-call a cousin or friend, or ask two family members, and ask: favourite food, favourite game, favourite colour, favourite festival, favourite animal. Your child draws the things that they and the other person both like inside one big circle, and things only one of you likes outside it. Ask the book's question: 'Do you like similar things?' Good answer: 'Some things are the same, like we both love gol gappe and cricket; some are different, like I like pink and Aryan likes blue.'",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Is your arm span the same as your height?",
+          "mins": 16,
+          "do": "Do Experiment e1. Ask your child to guess first: 'If you stretch your arms out wide, from fingertip to fingertip, will that be longer than you are tall, shorter, or the same?' Write their guess. Then measure: your child stands against a wall with heels touching it; mark the top of their head with a pencil or a sticky note and measure from the floor with a tape measure (or a length of string, cut to size). Then they stretch their arms out flat along the wall and you measure fingertip to fingertip. Do the same for two or three family members. Fill in the table. Ask: 'What did you notice?' (Arm span and height are almost the same for each person, even though the people are different sizes.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Similar but not the same",
+          "mins": 4,
+          "do": "Read 'What you have learnt' on page 25: 'We are similar in lots of ways.' Ask: 'Papa is tall and you are short. How were your measurements similar?' (For both of us, arm span was about the same as height.) Say: 'Scientists look for patterns that are true for everyone, even when people look different.'"
+        }
+      ],
+      "need": [
+        "Learner's Book page 25",
+        "a phone to call a cousin (optional)",
+        "paper and crayons",
+        "a tape measure or string and a ruler",
+        "a pencil or sticky notes"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "We are different",
+      "goal": "Read pages 26–27, talk about how people differ, and sort the family into groups as in Activity 3.2.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "We are different (page 26)",
+          "mins": 7,
+          "do": "Open page 26. Read: 'The picture shows learners at school. They are all similar.' Ask the book's question: 'Talk about why they are similar.' (They are all children, all wear grey school uniform, all sit for a class photo.) Read: 'The learners are not all the same. They are all a little different.' Ask: 'Talk about why they are different.' Good answers: different hair (straight, curly, long, short, black, brown, blonde), different skin colours, one wears glasses, one uses a wheelchair, one has a bow in her hair, different heights. Read the 'Words to learn': different. Say: 'Being different is normal and good. A boy in a wheelchair still loves to play, learn and laugh, like everyone else.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Look at these children (page 27)",
+          "mins": 6,
+          "do": "Look at the four photos at the bottom of page 27 and ask the book's questions: 'Which child has dark hair? Which children have brown eyes? Which children are girls?' Let your child point and explain each answer ('She has long hair tied up, and a pink dress' is a guess; remind them gently that we can't always tell from clothes, so we look and ask). Ask: 'What is one thing that is the same about all four?' (They are all young children; they all have two eyes; they are all smiling or playing.)"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 3.2: Our differences (page 27)",
+          "mins": 17,
+          "do": "Do Activity a3, the book's Activity 3.2. Read: 'Talk about hair, skin, height, clothes, glasses, games you like, things you do not like. See if you can sort yourselves into groups.' Use your family, or photos of family and cousins if fewer people are at home. Your child chooses one feature at a time and sorts people into groups: curly hair / straight hair; wears glasses / no glasses; taller than Mumma / shorter than Mumma; likes karela / does not like karela. Use slips of paper with each person's name and two bowls for the groups. Then make a tally chart for one feature, for example eye colour (dark brown, light brown, black, other), with one tick per person. Ask: 'Which group has the most people?' Keep the chart for Day 10.",
+          "ref": "a3"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 26–27",
+        "slips of paper with family names",
+        "2 bowls",
+        "a sheet for a tally chart"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Fingerprints: no two the same",
+      "goal": "Make and compare fingerprints to find a difference that every person has, and meet the two Indian men who helped make fingerprints a science.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Fingerprint detectives",
+          "mins": 18,
+          "do": "Do Experiment e2. Ask your child to guess first: 'Will Papa's thumbprint look the same as yours? Will your own two thumbs be the same?' Then make prints: rub a soft pencil (2B or darker) hard on a scrap of paper to make a dark patch, rub the thumb on it, press a strip of clear sticky tape on the thumb, peel it off and stick it on white paper. (Or press thumbs on a washable ink pad, as for a voter ID or bank form.) Make prints of both thumbs for each family member and label them. Look with a magnifying glass. Teach the three patterns: loops (lines come in from one side, curve and go back out), whorls (circles or spirals like a tiny jalebi), and arches (lines go up in a hill and out the other side). Your child sorts each print into loop, whorl or arch. Ask: 'Were any two prints exactly the same?' (No, never.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Azizul Haque and Hem Chandra Bose",
+          "mins": 9,
+          "do": "Tell your child about Voice v2: in Kolkata in the 1890s, two Indian police officers, Azizul Haque and Hem Chandra Bose, helped work out a way to sort and file fingerprints so that one print could be found among thousands. For many years it was named only after their English boss, Edward Henry. Ask: 'Why is it useful that everyone's fingerprints are different?' (To tell people apart, to unlock phones, to catch thieves who touch things.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Where else do we use fingerprints?",
+          "mins": 3,
+          "do": "Ask your child where they have seen fingerprints used: the phone lock, Aadhaar card registration, the office attendance machine. Say: 'These machines work because every person's fingerprint is different, even identical twins.'"
+        }
+      ],
+      "need": [
+        "a soft pencil (2B or darker) or a washable ink pad",
+        "clear sticky tape",
+        "white paper",
+        "a magnifying glass"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Do we all see the same colours?",
+      "goal": "Find out that people can even sense the world a little differently, through John Dalton's story, and test eye colour and colour naming in the family.",
+      "steps": [
+        {
+          "kind": "think",
+          "title": "John Dalton's strange colours",
+          "mins": 10,
+          "do": "Tell your child about Voice v1: John Dalton, a scientist in England, found that he could not tell some colours apart that other people could: a pink flower looked blue to him in daylight. He guessed that the jelly inside his eyes was tinted blue and asked for his eyes to be checked after he died. It wasn't blue. Much later, scientists tested a bit of his eye and found that he was missing one of the three kinds of colour-sensing cells. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Colour-sorting test",
+          "mins": 12,
+          "do": "Lay out 15 things of similar colours from your home: red, green, brown, orange and pink items (bindis, beads, buttons, crayons, cloth scraps, vegetable pieces like tomato, capsicum and chikoo skin). Ask your child to sort them by colour, then ask each family member to sort them too. Compare: 'Did everyone put them in the same groups?' Most people will agree; if one person mixes up reds and greens, explain kindly that some people, more often men and boys, are colour blind, which means some colours look alike to them. It is a difference, not something wrong with them. Among people of European background, about 1 in 12 men and about 1 in 200 women have red-green colour blindness."
+        },
+        {
+          "kind": "talk",
+          "title": "Eye colour chart",
+          "mins": 8,
+          "do": "Look closely, with a torch at the side of the face (never shine it straight into the eye), at each family member's eyes. Ask: 'What colour is the coloured ring (the iris)? Is it the same in both eyes?' Most people in India have dark brown eyes; some have light brown, hazel or grey-green. Add an eye colour row to the Day 3 tally chart. Ask: 'Which colour is most common in our family?'"
+        }
+      ],
+      "need": [
+        "15 small red, green, brown, orange and pink things",
+        "a torch",
+        "the Day 3 tally chart"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Our bodies",
+      "goal": "Name the main parts of the body on page 28 and count body parts as on page 29.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Our bodies (page 28)",
+          "mins": 8,
+          "do": "Open page 28 and read: 'Look at the main parts of the body.' Point to each label on the boy and ask your child to touch the same part on themselves: head, hair, eye, ear, nose, mouth, shoulder, arm, hand, fingers, knee, leg, foot, toes. Read the 'Words to learn' box. Then ask the book's question: 'Which other parts of the body can you name?' Good answers: elbow, wrist, neck, chin, eyebrow, cheek, tummy (stomach), back, heel, ankle, thumb, nails, teeth, tongue. For each new word, your child points to it."
+        },
+        {
+          "kind": "game",
+          "title": "Head, shoulders, knees and toes, and 'Simon says'",
+          "mins": 6,
+          "do": "Sing 'Head, shoulders, knees and toes' together, getting faster each time. Then play 'Simon says' (or 'Dadi says'): 'Dadi says touch your elbow. Dadi says touch your ankle. Touch your ear.' (No 'Dadi says', so don't move!) Use at least ten body words, including the new ones like wrist, heel and chin."
+        },
+        {
+          "kind": "talk",
+          "title": "Count your body parts (page 29)",
+          "mins": 6,
+          "do": "Read the questions at the top of page 29 and let your child count on themselves: 'How many legs do you have?' (2) 'How many fingers?' (10, or 8 fingers and 2 thumbs) 'How many mouths?' (1). Add: 'How many ears? Toes? Elbows? Teeth?' (Children aged 6 have about 20 milk teeth; ask them to count with a mirror.) Look at the three hands in the picture on page 29 and ask: 'How are they similar? How are they different?' (All have five fingers; they are different sizes and colours.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core). Read each item aloud; your child answers by pointing, matching, drawing or saying the word, and you write it if needed.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 28–29",
+        "a mirror",
+        "Worksheet ws1"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Label a body, and Sushruta's study of the body",
+      "goal": "Do Activity 3.3: make and label a life-size body, think about the most important body parts, and hear how Sushruta studied the human body.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 3.3: Parts of the body (page 29)",
+          "mins": 15,
+          "do": "Do Activity a4, the book's Activity 3.3, life-size. Tape old newspapers together into a sheet as long as your child. They lie on it with arms and legs slightly apart and you draw around them with a marker. They colour in the face, hair and clothes. Then they write or stick labels (prepared on slips) for every word in the box on page 29: head, hair, ear, mouth, shoulder, arm, leg, knee, foot, hand, and add eye, nose, fingers and toes. (If you prefer, cut a picture of a person from a newspaper or magazine and label that, as the book says.) Ask the book's questions: 'What are the main body parts?' (Head, body, arms, legs.) 'What are the most important body parts?' There is no single right answer; push for reasons: 'The head, because the brain inside it controls everything', 'The heart, because it pumps blood', 'Legs, so I can run.' Ask: 'Could a person live without a leg? Without a heart?' (Yes, people live full lives without a leg; no one can live without a heart working.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "Sushruta, the ancient Indian surgeon",
+          "mins": 10,
+          "do": "Tell your child about Voice v3: long ago in India, the surgeon Sushruta taught that to be a good doctor you must learn every part of the body by looking at it carefully yourself, not only by reading. The book of his teachings describes operations, including a way to make a new nose using skin from the cheek. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "talk",
+          "title": "Inside parts we can't see",
+          "mins": 5,
+          "do": "Point to your child's chest and ask them to put their hand there and feel their heartbeat after jumping 20 times. Tell them that inside the body there are parts we cannot see: the brain in the head, the heart and lungs in the chest, the stomach in the tummy, and bones everywhere. Ask: 'How do doctors see inside without cutting?' (X-rays; a stethoscope to hear the heart.) Add the heart, lungs and brain to your body poster."
+        }
+      ],
+      "need": [
+        "Learner's Book page 29",
+        "old newspapers and tape (or a picture of a person from a magazine and scissors)",
+        "a marker and crayons",
+        "label slips with body words"
+      ],
+      "prep": [
+        {
+          "task": "Write label slips: head, hair, ear, eye, nose, mouth, shoulder, arm, hand, fingers, leg, knee, foot, toes",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Our fantastic senses",
+      "goal": "Learn the five senses on page 30, play a blindfold game, and test how smell helps taste.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Our fantastic senses (page 30)",
+          "mins": 6,
+          "do": "Open page 30. Read: 'Our senses help us know what is around us. The girl is blindfolded. Each eye is covered. She cannot see. She is playing a game to pin the tail on the horse. She can touch, smell, taste and hear.' Ask: 'What can she hear?' (Her friends giggling.) 'What can she feel?' (The paper and the tail in her hand.) 'Which sense is she missing?' (Sight.) Read the 'Words to learn': senses, see, touch, smell, taste, hear, feel, tongue. Tell your child the five senses and act them out: point to eyes (see), ears (hear), nose (smell), tongue (taste), skin (touch)."
+        },
+        {
+          "kind": "game",
+          "title": "Blindfold game",
+          "mins": 8,
+          "do": "Play 'pin the tail' as on page 30: draw a cow or an elephant on paper, stick it on the wall, and make a paper tail with tape. Blindfold your child with a dupatta, turn them around once gently, and let them try. Then let them blindfold you. Afterwards ask: 'What did you use when you could not see?' (Touch to feel the wall, hearing to follow voices telling me 'left, right'.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Can you taste with your nose pinched?",
+          "mins": 16,
+          "do": "Do Experiment e3. Cut small cubes of apple, raw potato, pear or cucumber, and boiled sweet potato (shakarkandi), all the same size. Ask your child to guess first: 'If you can't see or smell, will you still know which is which by taste?' Blindfold them and have them pinch their nose. Put one cube on their tongue; they chew and say what they think it is, still pinching. Then let go of the nose and chew again. Record each answer. Most children find it hard to tell apple from raw potato with the nose pinched, and easy once they let go. Explain: 'Much of what we call taste is really smell, which goes up from the back of your mouth into your nose.'",
+          "ref": "e3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 30",
+        "a dupatta for a blindfold",
+        "paper, crayons and tape for the game",
+        "small cubes of apple, raw potato, cucumber and boiled sweet potato",
+        "a knife (for the parent)"
+      ],
+      "prep": [
+        {
+          "task": "Boil one sweet potato; cut all the cubes the same size",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Touch and feel, and animal senses",
+      "goal": "Play the feely bag game from Activity 3.4, test how sensitive our skin is, and see how animals use their senses on page 31.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 3.4: Touch and feel game (page 31)",
+          "mins": 9,
+          "do": "Do Activity a5, the book's Activity 3.4. Read the steps on page 31: 'Put objects in the bag. Ask your friend to feel the objects. Can they say how the objects feel? Can they tell others about the objects?' Put 8 things into a cloth bag or pillowcase without your child seeing: a key, a banana, a spoon, a coin, an eraser, sunglasses (as in the picture), a cotton ball and a walnut or a comb. Your child feels one at a time without looking and must describe it with feeling words before guessing: smooth, rough, soft, hard, cold, bumpy, sharp, heavy, light. Then swap roles.",
+          "ref": "a5"
+        },
+        {
+          "kind": "exp",
+          "title": "One point or two?",
+          "mins": 9,
+          "do": "Do Experiment e4. Tape two toothpicks together so their points are about 1 cm apart. With your child's eyes closed, gently touch either one point or both points on their fingertip and ask: 'One or two?' Do it 5 times. Then do the same on the back of their hand, their arm and the back of their neck. Ask your child to guess first which place will be best at feeling two points. Record correct answers. Most children feel two points easily on the fingertip but think it is one on the arm or back. Explain: 'Your fingertips have many more touch-sensing nerve endings packed close together than your arm does. That is why we feel with our fingertips.'",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Animals have senses too (page 31)",
+          "mins": 7,
+          "do": "Read the middle of page 31: 'We use our ears to hear, our eyes to see, our nose to smell, our skin to touch, and our tongue to taste. Animals have senses too.' Look at the four photos: a bee on a flower, an owl, elephants, and a wolf sniffing. Ask the book's questions: 'How can they do these things? Why do they need senses? What can they find out using their senses?' Good answers: the bee sees colours and smells the flower to find nectar; the owl's huge eyes see in the dark and its ears hear a mouse rustling, so it can hunt at night; the elephant smells with its long trunk and can smell water far away; the wolf follows the smell of its prey. Ask: 'Which of our street dog's senses is strongest?' (Smell: dogs can smell far better than people.) Read 'What you have learnt' on page 31."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 5,
+          "do": "Do Worksheet ws2 (stretch). Read the questions aloud and help your child write or say the answers.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 31",
+        "a cloth bag or pillowcase",
+        "8 objects: key, banana, spoon, coin, eraser, sunglasses, cotton ball, walnut or comb",
+        "2 toothpicks and tape",
+        "Worksheet ws2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "How many senses do we have? And our chart",
+      "goal": "Think about a live debate on how many senses we have, read the hair-colour chart on page 32, and do the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "think",
+          "title": "Only five senses?",
+          "mins": 9,
+          "do": "Tell your child about Voice v4. 'Long ago a Greek thinker, Aristotle, wrote that people have five senses, and the book teaches those five. But try this: close your eyes and touch your nose. How did your hand know where your nose was, without seeing?' (We can feel where our body parts are.) 'Stand on one leg with eyes closed. What is helping you balance?' (A balance sense inside our ears.) 'How do you know you are hungry?' Then ask the voice question. Tell them honestly that scientists do not agree on the exact number of senses.",
+          "ref": "v4"
+        },
+        {
+          "kind": "review",
+          "title": "Check your progress, questions 1 and 2 (page 32)",
+          "mins": 8,
+          "do": "Question 1 on page 32: look at the three hands. 'How are the hands the same?' (Five fingers each, nails, they can grip.) 'How are they different?' (Different sizes and skin colours.) Question 2: read 'Ten children all have hair. They are similar. They have different colours of hair. Their hair colours were written in a chart.' Count the ticks with your child in each row of the chart: dark hair has 5 ticks; the other two rows have 1 and 4. Ask your child which face has red hair and how many ticks are next to it, and 'Which colour is most common?' (Dark hair, with 5.) Check that the ticks add up: 5 + 1 + 4 = 10 children. Compare with your own Day 3 tally chart."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Do Worksheet ws3 (challenge) together. Many questions have more than one good answer; ask 'How do you know?' or 'What would you test?' after each.",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 32",
+        "the Day 3 tally chart",
+        "Worksheet ws3"
+      ],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Check your progress and teach it back",
+      "goal": "Finish the book's Check your progress on page 33, answer the unit check and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress, questions 3 to 5 (page 33)",
+          "mins": 8,
+          "do": "Question 3: your child points to these parts of the child on the swing: head, eyes, hair, shoulders, nose, toes, arms, hands. Question 4: 'Lina has her eyes closed. She cannot see.' Ask each question: 'Can she hear? Can she taste? Can she smell? Can she touch?' (Yes to all four; only seeing is blocked.) Question 5: 'Can the cat see? Can the bird hear? How do the senses help the cat? How do the senses help the bird?' Good answers: the cat sees and hears the bird and creeps up quietly to catch it; the bird hears the cat's movement or sees it and flies away to stay safe."
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 7,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed one, look at the page again together for a minute, then ask again in different words. Fewer than 4 right means repeat the body poster labels and the feely bag game next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher; you and another family member are the students. Using the body poster, the fingerprint page and the feely bag, they teach you in 5 minutes: how people are similar, how we are different, the main body parts, and the five senses with the body part for each. Ask two 'student' questions: 'If I hold my nose, can I still taste a mango properly?' and 'Why do we feel things best with our fingertips?' Then they blindfold you and test you with the feely bag."
+        },
+        {
+          "kind": "talk",
+          "title": "Kind to everyone",
+          "mins": 3,
+          "do": "End with a short talk: 'We found that we are all similar in many ways and all a little different. How should we treat someone who looks different, speaks differently or uses a wheelchair or glasses?' Good answer: 'Kindly, like anyone else; they also like to play and learn.'"
+        }
+      ],
+      "need": [
+        "Learner's Book page 33",
+        "the body poster, fingerprint page and feely bag"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Similar, different and our bodies",
+      "day": 6,
+      "sections": [
+        [
+          "A. Similar or different?",
+          [
+            {
+              "t": "sort",
+              "p": "Are these ways people are similar or different?",
+              "items": [
+                "We all need to eat",
+                "Hair colour",
+                "We all have a nose",
+                "Height",
+                "Fingerprints",
+                "We all need sleep",
+                "Favourite food",
+                "We all have two eyes"
+              ],
+              "cats": [
+                "Similar for everyone",
+                "Different for each person"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Ways in which people are alike are called ways they are ____.",
+              "a": [
+                "similar"
+              ]
+            }
+          ]
+        ],
+        [
+          "B. Parts of the body",
+          [
+            {
+              "t": "draw",
+              "p": "Draw yourself. Label head, hair, eye, ear, nose, mouth, shoulder, arm, hand, leg, knee, foot."
+            },
+            {
+              "t": "fill",
+              "p": "I have ____ fingers and ____ toes.",
+              "a": [
+                "10, 10",
+                "ten, ten",
+                "10 and 10"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "Which part helps your leg bend in the middle?",
+              "opts": [
+                "Elbow",
+                "Knee",
+                "Shoulder"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "C. Our senses",
+          [
+            {
+              "t": "match",
+              "p": "Match the sense to the body part.",
+              "pairs": [
+                [
+                  "See",
+                  "Eyes"
+                ],
+                [
+                  "Hear",
+                  "Ears"
+                ],
+                [
+                  "Smell",
+                  "Nose"
+                ],
+                [
+                  "Taste",
+                  "Tongue"
+                ],
+                [
+                  "Touch",
+                  "Skin"
+                ]
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "Lina closes her eyes. Which sense can she NOT use?",
+              "opts": [
+                "Hearing",
+                "Seeing",
+                "Smelling"
+              ],
+              "a": 1
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Senses at work",
+      "day": 9,
+      "sections": [
+        [
+          "A. Which sense?",
+          [
+            {
+              "t": "match",
+              "p": "Which sense tells you this?",
+              "pairs": [
+                [
+                  "The pressure cooker whistle has gone",
+                  "Hearing"
+                ],
+                [
+                  "The milk has gone sour",
+                  "Smell or taste"
+                ],
+                [
+                  "The tawa is hot",
+                  "Touch"
+                ],
+                [
+                  "The traffic light is red",
+                  "Sight"
+                ],
+                [
+                  "The mango is sweet",
+                  "Taste"
+                ]
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "With your nose pinched, apple and raw potato taste almost the same. Why?",
+              "opts": [
+                "Your tongue stops working",
+                "Much of the flavour comes from smell",
+                "Apples are potatoes"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Animals and their senses",
+          [
+            {
+              "t": "match",
+              "p": "Match the animal to the sense it uses most to find food.",
+              "pairs": [
+                [
+                  "Owl hunting at night",
+                  "Hearing and sight in the dark"
+                ],
+                [
+                  "Street dog finding food",
+                  "Smell"
+                ],
+                [
+                  "Bee finding a flower",
+                  "Sight and smell"
+                ],
+                [
+                  "Elephant finding water far away",
+                  "Smell"
+                ]
+              ]
+            },
+            {
+              "t": "write",
+              "p": "How do its senses help a crow stay safe when a cat comes near?",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "C. Our family chart",
+          [
+            {
+              "t": "table",
+              "p": "Make a tally chart of one feature in your family (hair type, eye colour or glasses).",
+              "cols": [
+                "Group",
+                "Tally",
+                "Number"
+              ],
+              "rows": 3
+            },
+            {
+              "t": "write",
+              "p": "Which group had the most people? How do you know?",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking harder about ourselves",
+      "day": 10,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "mcq",
+              "p": "Identical twins Riya and Diya look the same. What is still different?",
+              "opts": [
+                "The number of fingers",
+                "Their fingerprints",
+                "The number of eyes"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "John Dalton thought his eyes had blue jelly in them. How did scientists find out he was wrong?",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "You can touch your nose with your eyes shut. Which sense helps?",
+              "opts": [
+                "Sight",
+                "A sense of where your body parts are",
+                "Taste"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if you could not feel pain? Why might that be dangerous?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "What if everyone in the world looked exactly the same? Give one problem it would cause.",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "Which body part do you think is the most important? Give your reason, and one reason someone might disagree.",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "C. Fair testing",
+          [
+            {
+              "t": "mcq",
+              "p": "In the two-toothpick test, why must your eyes be closed?",
+              "opts": [
+                "So you can't see how many points touch you",
+                "So you can sleep",
+                "So it hurts less"
+              ],
+              "a": 0
+            },
+            {
+              "t": "write",
+              "p": "Aarav says, 'Tall people have longer arm spans.' How would you test it?",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Arm span and height",
+      "day": 2,
+      "question": "Is the distance from fingertip to fingertip the same as your height?",
+      "need": [
+        "a tape measure, or string and a ruler",
+        "a pencil or sticky notes",
+        "a wall",
+        "2–4 family members",
+        "a table to record results"
+      ],
+      "steps": [
+        "Stand with heels against the wall. A helper marks the top of the head and measures from the floor.",
+        "Stretch both arms out flat along the wall, level with the shoulders. Measure from one middle fingertip to the other.",
+        "Write both numbers in a table: Name, Height, Arm span.",
+        "Repeat for every family member.",
+        "Compare the two numbers for each person."
+      ],
+      "predict": "Ask your child to guess first: 'Will your arm span be longer, shorter or the same as your height? Will it be the same pattern for Papa?'",
+      "observe": "For each person, height and arm span are close, usually within a few centimetres, even though people are very different sizes.",
+      "why": "As our bodies grow, the bones in our arms and legs grow in step with each other, so the proportions of the body stay roughly the same. This is one of the ways human bodies are similar. It is not exact: some people's arm span is a little longer than their height and some a little shorter, which is one of the ways we are different. Scientists say 'about the same', not 'exactly the same'. Artists such as Leonardo da Vinci noticed this pattern more than 500 years ago.",
+      "safety": "",
+      "time": "16 min"
+    },
+    {
+      "id": "e2",
+      "title": "Fingerprint detectives",
+      "day": 4,
+      "question": "Are any two fingerprints the same?",
+      "need": [
+        "a soft 2B pencil or a washable ink pad",
+        "scrap paper",
+        "clear sticky tape",
+        "white paper",
+        "a magnifying glass"
+      ],
+      "steps": [
+        "Scribble hard with the pencil on scrap paper to make a dark patch.",
+        "Rub the tip of the thumb on the patch until it is grey.",
+        "Press a piece of clear tape on the thumb, peel it off and stick it on white paper. Label it.",
+        "Make prints of both thumbs for each family member.",
+        "Look at each with the magnifying glass and sort them into loops, whorls and arches.",
+        "Compare: are any two exactly the same?"
+      ],
+      "predict": "Ask your child to guess first: 'Will your right and left thumbprints match? Will yours match Mumma's?'",
+      "observe": "The pattern type of each print (loop, whorl or arch) and its little details: where lines split or end. Two people may both have loops, but the details are always different; even a person's two thumbs differ.",
+      "why": "The ridges on our fingertips form before we are born, while a baby is growing inside its mother. Tiny differences in how the skin grows and presses in the womb make every pattern unique, even for identical twins who share the same genes. The ridges help us grip and feel. Because they don't change as we grow up, fingerprints can be used to tell people apart, for example on Aadhaar records and phone locks.",
+      "safety": "Use washable ink and wash hands afterwards.",
+      "time": "18 min"
+    },
+    {
+      "id": "e3",
+      "title": "Taste with a pinched nose",
+      "day": 8,
+      "question": "Do we taste with our tongue only, or does smell help?",
+      "need": [
+        "small same-sized cubes of apple, raw potato, cucumber and boiled sweet potato",
+        "a blindfold",
+        "a plate",
+        "paper to record"
+      ],
+      "steps": [
+        "Cut all the foods into cubes of the same size so they feel similar.",
+        "Blindfold your child and ask them to pinch their nose.",
+        "Put one cube on their tongue. They chew and guess, still pinching.",
+        "Then they let go of their nose, chew again and guess again.",
+        "Record both guesses for each food. Repeat with each food in a mixed-up order."
+      ],
+      "predict": "Ask your child to guess first: 'With your nose pinched, will you still be able to tell apple from potato?'",
+      "observe": "How many foods were guessed correctly with the nose pinched and with it open. Usually far fewer are right with the nose pinched, and the answer comes suddenly when the nose is released.",
+      "why": "The tongue can sense only a few basic tastes, such as sweet, salty, sour, bitter and savoury. The rich flavour of an apple or a mango comes mostly from smells that rise from the back of the mouth into the nose as we chew. Pinching the nose stops that air moving, so the flavour almost disappears. That is why food tastes dull when you have a blocked nose from a cold. Our senses work together.",
+      "safety": "Check for food allergies. Use only small pieces and supervise chewing. Wash all food first.",
+      "time": "16 min"
+    },
+    {
+      "id": "e4",
+      "title": "One point or two?",
+      "day": 9,
+      "question": "Is some skin better at feeling touch than other skin?",
+      "need": [
+        "2 toothpicks",
+        "tape",
+        "paper to record"
+      ],
+      "steps": [
+        "Tape two toothpicks together so the points are about 1 cm apart.",
+        "Your child closes their eyes.",
+        "Gently touch the fingertip with either one point or both points. Ask 'One or two?'",
+        "Do it 5 times, mixing one and two. Count correct answers.",
+        "Repeat on the back of the hand, the forearm and the back of the neck."
+      ],
+      "predict": "Ask your child to guess first: 'Which part of your body will be best at telling one point from two?'",
+      "observe": "The number of correct answers out of 5 for each place. Usually nearly all correct on the fingertip, and many mistakes on the arm and neck, where two points feel like one.",
+      "why": "Skin has tiny nerve endings that sense touch, and each one sends messages to the brain. On the fingertips, lips and tongue, they are packed very close together, so two points 1 cm apart touch two different nerve endings and the brain feels two. On the arm or back the nerve endings are far apart, so both points may land on the area of one nerve ending, and the brain feels only one. This is why we read Braille and feel textures with our fingertips.",
+      "safety": "Touch gently; never press hard with the points. Not near the eyes.",
+      "time": "9 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "How are we similar? (book Activity 3.1a)",
+      "day": 1,
+      "mins": 14,
+      "need": [
+        "a mirror",
+        "a family member",
+        "paper and crayons"
+      ],
+      "steps": [
+        "Stand in front of a mirror together.",
+        "Look at clothes, faces and bodies, as the book says.",
+        "Find five ways you are similar, then look for smaller ones such as ear shape or dimples.",
+        "Draw both of you side by side and circle what is similar."
+      ],
+      "outcome": "A drawing showing how your child and a family member are similar."
+    },
+    {
+      "id": "a2",
+      "title": "Things we like (book Activity 3.1b)",
+      "day": 2,
+      "mins": 10,
+      "need": [
+        "paper and crayons",
+        "a cousin, friend or family members to ask"
+      ],
+      "steps": [
+        "Ask another person five questions: favourite food, game, colour, festival and animal.",
+        "Draw a big circle on paper.",
+        "Draw things you both like inside the circle and things only one of you likes outside it.",
+        "Say how many things you share."
+      ],
+      "outcome": "A 'things we like' drawing that shows likes that are similar and different."
+    },
+    {
+      "id": "a3",
+      "title": "Our differences: sorting the family (book Activity 3.2)",
+      "day": 3,
+      "mins": 17,
+      "need": [
+        "slips of paper with each family member's name",
+        "2 bowls",
+        "a sheet for a tally chart"
+      ],
+      "steps": [
+        "Choose one feature, such as curly or straight hair.",
+        "Put each name slip into one of two bowls.",
+        "Repeat with three more features: glasses, height, a food they like or don't like.",
+        "Make a tally chart for one feature with one tick per person.",
+        "Say which group has the most people."
+      ],
+      "outcome": "Sorted groups and a tally chart of the family, kept for Day 10."
+    },
+    {
+      "id": "a4",
+      "title": "Life-size body poster (book Activity 3.3)",
+      "day": 7,
+      "mins": 15,
+      "need": [
+        "old newspapers and tape",
+        "a marker",
+        "crayons",
+        "label slips with body words"
+      ],
+      "steps": [
+        "Tape newspapers into a sheet as long as your child.",
+        "Your child lies down; draw around them.",
+        "They colour the face, hair and clothes.",
+        "Stick on labels: head, hair, ear, eye, nose, mouth, shoulder, arm, hand, fingers, leg, knee, foot, toes.",
+        "Add the heart, lungs and brain later in the right places."
+      ],
+      "outcome": "A life-size labelled body poster for the wall."
+    },
+    {
+      "id": "a5",
+      "title": "Feely bag (book Activity 3.4)",
+      "day": 9,
+      "mins": 9,
+      "need": [
+        "a cloth bag or pillowcase",
+        "8 objects of different textures"
+      ],
+      "steps": [
+        "Put the objects in the bag without your child seeing.",
+        "Your child feels one object and describes it with feeling words before guessing.",
+        "Take it out and check.",
+        "Swap roles so your child fills the bag for you."
+      ],
+      "outcome": "A child who can describe objects by touch using words like rough, smooth, soft and hard."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "John Dalton (1766–1844), England",
+      "idea": "Dalton, a chemist best known for his ideas about atoms, noticed that he saw some colours differently from other people. In 1794 he published one of the first scientific descriptions of colour blindness, using himself and his brother as examples. He guessed that the clear jelly inside his eyes must be tinted blue, filtering out some colours, and he asked for his eyes to be examined after his death.",
+      "then": "His careful description was taken seriously, and for a long time colour blindness was called 'Daltonism'. When his eyes were examined after he died in 1844, the jelly was found to be clear, not blue, so his explanation was wrong.",
+      "now": "Today we know that colour vision depends on three kinds of colour-sensing cells at the back of the eye, and many colour-blind people lack one kind or have one that works differently. In 1995 scientists tested DNA from Dalton's preserved eye and found that he lacked the gene for the cells most sensitive to green. His description was right; his blue-jelly explanation was rejected.",
+      "status": "rejected",
+      "ask": "Dalton made a guess and asked for a test after he died. The test showed his guess was wrong. Was his idea still useful? Why is it good for a scientist to say how their idea could be checked?",
+      "day": 5
+    },
+    {
+      "id": "v2",
+      "who": "Azizul Haque (1872–1935) and Hem Chandra Bose (1867–1949), India",
+      "idea": "In the 1890s, at the police Anthropometric Bureau in Calcutta (now Kolkata), Azizul Haque worked out a mathematical way to sort fingerprints into groups by their patterns of loops, whorls and arches, so that one person's prints could be found quickly among many thousands of records. Hem Chandra Bose added a way to sub-divide and code prints. They worked under the British police officer Edward Henry.",
+      "then": "The system was adopted in British India in 1897 and then in Britain and many other countries, but it was named the 'Henry Classification System' after their boss, and for many years their part was hardly mentioned.",
+      "now": "Their contribution is now recognised. Later in life the British government gave both men honours and money for their work, and Henry himself wrote that Haque had contributed greatly. Fingerprint identification is accepted worldwide, and the Henry system, with changes, was used for about a century until computers took over.",
+      "status": "accepted",
+      "ask": "Haque and Bose did much of the work, but the system was named after someone else. Why does it matter who gets the credit in science? How could we find out who really did the work?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Sushruta, ancient India (the 'Sushruta Samhita'; historians date the text to between about the 6th century BCE and the early centuries CE)",
+      "idea": "The 'Sushruta Samhita', a Sanskrit book of medicine and surgery named after the teacher Sushruta, says that a surgeon must learn the body by looking at its parts carefully with their own eyes, not only by reading. It describes many surgical tools and operations, including a way to rebuild a damaged nose using a flap of skin from the cheek.",
+      "then": "Its methods were used and taught in India for many centuries. In 1794 a magazine in London printed a report of an Indian nose operation of this kind, done near Pune, and some European surgeons learnt the method.",
+      "now": "Historians agree that the Sushruta Samhita is one of the oldest detailed records of surgery in the world, though they argue about exactly when it was written and by whom. Modern plastic surgeons still use flaps of skin to rebuild noses and call one version the 'Indian method'. Some old ideas in the book about how the body works have been replaced by modern science.",
+      "status": "accepted",
+      "ask": "Sushruta said a doctor must look at the body with their own eyes, not just read about it. Why might seeing for yourself be better than reading? Is there anything you learnt this week by looking that you didn't know from the book?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "A live debate: Aristotle's five senses (Greece, 4th century BCE) and scientists today",
+      "idea": "Aristotle, a Greek thinker who lived about 2,400 years ago, wrote that humans have five senses: sight, hearing, smell, taste and touch. This list has been taught for centuries and is in our book.",
+      "then": "For a very long time almost everyone accepted the list of five.",
+      "now": "Scientists today agree we have more than five. We have a sense of balance (from parts inside the inner ear), a sense of where our arms and legs are without looking, and separate senses for heat and cold, pain, hunger and thirst. But scientists do not agree on the exact number; depending on how you count, lists range from about nine to more than twenty. The five senses are still the main ones that use the eyes, ears, nose, tongue and skin.",
+      "status": "debated",
+      "ask": "Is feeling hot a part of 'touch', or a sense of its own? What would you need to know to decide? Why might two scientists count the senses differently?",
+      "day": 10
+    }
+  ],
+  "check": [
+    {
+      "q": "Tell me three ways all people are similar.",
+      "a": "We all need food, water, air and sleep; we all have the same main body parts (head, arms, legs, eyes, ears); we all like to play."
+    },
+    {
+      "q": "Tell me three ways people are different.",
+      "a": "Hair, skin colour, height, eye colour, fingerprints, what we like and do not like, whether we wear glasses."
+    },
+    {
+      "q": "Point to your shoulder, knee, elbow and toes.",
+      "a": "Child points correctly to each."
+    },
+    {
+      "q": "Name the five senses and the body part for each.",
+      "a": "Seeing with eyes, hearing with ears, smelling with nose, tasting with tongue, touching with skin."
+    },
+    {
+      "q": "Lina has her eyes closed. Which senses can she still use?",
+      "a": "Hearing, smelling, tasting and touching."
+    },
+    {
+      "q": "Why can't you tell apple from potato with your nose pinched?",
+      "a": "Much of the flavour of food comes from smell, and pinching the nose blocks it."
+    },
+    {
+      "q": "How do its senses help an owl?",
+      "a": "Its big eyes see in the dark and its ears hear small animals moving, so it can hunt at night."
+    }
+  ]
+}
