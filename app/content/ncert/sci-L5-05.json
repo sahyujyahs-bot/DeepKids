@@ -1,0 +1,700 @@
+{
+  "key": "ncert|sci|5|5",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 5,
+  "title": "Our Vibrant Country",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 3 'Incredible India', Chapter 5 (pages 75–93), Reprint 2026-27",
+  "summary": "Starting from a Republic Day celebration at school, your child explores what makes India one country with many colours: the flag, the anthem and the Constitution, the national emblem and symbols, the languages, monuments and hidden features on our currency notes, and the variety of headgear, drums, music and dance across the states. The book compares India to a forest, which is stronger because it is diverse, and ends with a cultural fair. Alongside, your child tests real science behind the chapter: how banknote security features work, why a tight drum sounds higher, and whether a wild patch really holds more kinds of life than a neat garden.",
+  "goals": [
+    "By the end your child can explain what the colours and the chakra of the flag stand for, why we celebrate Republic Day on 26 January and Independence Day on 15 August, and what a constitution is.",
+    "By the end your child can read an Indian currency note closely: its value, languages, monument and state, symbols, and at least three hidden security features, and explain why they exist.",
+    "By the end your child can name the national emblem, animal and bird and their own state's symbols, and explain how the Asiatic lion was saved and why scientists argue about giving it a second home.",
+    "By the end your child can say a common word in at least five Indian languages, notice which languages sound alike, and explain why counting India's languages is not simple.",
+    "By the end your child can explain, from a real count, why a forest is more diverse than a garden, and how diversity can make a living community stronger.",
+    "By the end your child can match major dance forms and drums to their states, make a simple drum and explain how tightness and size change its sound."
+  ],
+  "words": [
+    ["Republic Day", "26 January, the day in 1950 when India began to follow its own Constitution and became a republic"],
+    ["Independence Day", "15 August, the day in 1947 when India became free from British rule"],
+    ["constitution", "the main book of rules for a country; it says how the country is run and lists the rights and duties of its people"],
+    ["republic", "a country where the head of state is chosen, not born into the job like a king or queen"],
+    ["tableau", "a large decorated float in a parade showing a scene from a state's culture or history (plural: tableaux)"],
+    ["national emblem", "the official symbol of India: the three lions on a round platform with the Ashoka Chakra, taken from the Lion Capital of Ashoka at Sarnath"],
+    ["currency", "the money used in a country; India's currency is the rupee, written with the symbol ₹"],
+    ["watermark", "a faint picture inside the paper of a banknote that you can see only when you hold it up to light"],
+    ["diversity", "having many different kinds, for example of plants in a forest or of languages and foods in a country"],
+    ["heritage", "the traditions, buildings, arts and knowledge passed down to us from the past"],
+    ["pitch", "how high or low a sound is; a tight drum skin gives a higher pitch"],
+    ["endemic", "found naturally in only one place in the world, like the Asiatic lion today in the Gir area of Gujarat"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "A special day in school",
+      "goal": "Remember a Republic Day celebration, learn what the flag's colours mean, find the rivers and mountains in the National Anthem, and design a state tableau.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Flags around us",
+          "mins": 5,
+          "do": "Ask your child: 'Where have you seen our national flag?' (On a school building, a government office, a car on Republic Day, in a cricket stadium, on TV during the parade.) Then ask them to draw it from memory in the notebook, with colours, before they look at the book. Count the spokes later: the Ashoka Chakra has 24."
+        },
+        {
+          "kind": "read",
+          "title": "Flag hoisting at school (page 75)",
+          "mins": 7,
+          "do": "Read page 75 aloud: children gather at the flagpole on 26 January, the head teacher pulls the rope, the flag unfurls with drums and claps, and everyone sings the National Anthem. Read the 'Do you know?' box: saffron for strength and courage, white for peace and truth, the blue Ashoka Chakra for duty (dharma), green for growth and prosperity. Compare with your child's drawing: 'Did you get the order right? How many spokes did you draw?' Tell them the chakra has 24 spokes and the flag is always made 3 units long for every 2 units high."
+        },
+        {
+          "kind": "talk",
+          "title": "Write: Republic Day and the anthem (pages 76–78)",
+          "mins": 13,
+          "do": "Do the four Write questions on pages 76–78. 1: 'What happens at your school (or in your building) on Republic Day?' (Flag hoisting, songs, sweets, a speech, a fancy-dress or drawing competition.) 2: Sing or recite 'Jana Gana Mana' slowly together and fill the table: rivers named are Yamuna (Jamuna) and Ganga; mountain ranges are the Vindhyas and the Himalayas (Himachal). Also point out the regions named: Punjab, Sindh, Gujarat, Maratha, Dravida, Utkala (Odisha), Banga (Bengal), and the waves of the ocean. Tell them it was written by Rabindranath Tagore. Ask: 'Why would an anthem name rivers and mountains?' (They join the whole land together in one song.) 3: 'Which Republic Day activity would you like to take part in?' 4: 'Have you watched the parade from Delhi on TV? What did you like most?' Show 3 minutes of last year's parade on a phone if you can."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 1: our state's tableau (page 78)",
+          "mins": 17,
+          "do": "Do Activity a1, the book's Activity 1. Ask your child: 'If our state sent one float to the Republic Day parade, what would be on it?' List items together: a famous monument, a festival, a dance, a crop, an animal or bird, a craft, a great person from the state. Then your child draws the tableau on chart paper as a long truck-shaped float with everything on it, or builds a small model on a shoebox lid with clay and paper cut-outs. They label each item and write one line saying why it was chosen. Keep it for the cultural fair on Day 10.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Who marches in the parade? (page 78)",
+          "mins": 3,
+          "do": "Read the paragraph on page 78 about the parade: fighter jets, state tableaux, cultural programmes, and the Army, Navy, Air Force and paramilitary forces. Ask: 'Why do you think the parade shows both soldiers and dancers?' (It shows that India is protected by its forces and also proud of its many cultures.)"
+        }
+      ],
+      "need": ["Textbook pages 75–78", "notebook and colour pencils", "chart paper, or a shoebox lid with clay and paper", "a phone to watch part of the parade (optional)"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Rules for a free country",
+      "goal": "Understand why a free country still needs rules, what the Constitution is, and why we celebrate 15 August and 26 January.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Priya's question (page 79)",
+          "mins": 7,
+          "do": "Read page 79 aloud, Priya's question and the teacher's answer: 'We celebrate Independence Day joyfully; does this mean everyone can do whatever they want?' The teacher explains that a country needs rules to run smoothly and keep everyone safe, so on 26 January 1950 India began to follow its special book of rules, the Constitution. Read the 'Do you know?' box: India became independent on 15 August 1947. Ask: 'What is the difference between 15 August and 26 January?' Good answer: 'On 15 August 1947 India became free; on 26 January 1950 it started following its own Constitution and became a republic.' Tell your child the Constitution was written by an assembly of Indian leaders, with Dr B.R. Ambedkar leading the drafting committee, and finished on 26 November 1949; 26 January was chosen because on that date in 1930 Indian leaders had declared that they wanted complete independence (Purna Swaraj)."
+        },
+        {
+          "kind": "talk",
+          "title": "Imagine no rules",
+          "mins": 8,
+          "do": "Play a quick thought game with your child: 'Imagine a road with no traffic rules. A cricket match with no rules. A home with no rules about bedtime or sharing the TV.' Ask what would happen in each. Then ask: 'Do rules take away freedom or protect it?' Help them see both sides: rules limit what each person can do, but they protect everyone's safety and rights, so people can actually enjoy their freedom. Read the caption on page 91 together: India's Constitution is the longest written constitution of any country. Tell them it also lists Fundamental Rights, such as equality before law and the right of every child aged 6–14 to free education."
+        },
+        {
+          "kind": "talk",
+          "title": "Write: Independence Day (page 79)",
+          "mins": 6,
+          "do": "Do the Write box on page 79: 'What events take place at your school or in your colony on Independence Day?' (Flag hoisting, patriotic songs, kite flying in many cities, the Prime Minister's speech from the Red Fort.) Then tell one short true story of a freedom fighter, as the Note to the Teacher on page 81 suggests: for example the Salt March of 1930, when Mahatma Gandhi and his companions walked about 385 km from Sabarmati to Dandi to make salt from sea water, breaking an unfair British salt law. Ask: 'Why was making salt such a powerful protest?' (Everyone needs salt, so everyone, rich or poor, could join in.)"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 2: rules and one new rule (page 79)",
+          "mins": 14,
+          "do": "Do Activity 2 on page 79 for your home school (or your child's school). Your child writes five rules that are followed (for example: wash hands before eating, put books back after use, no screens during lessons, speak politely, switch off fans when leaving). Next to each, they write why the rule exists and who it protects. Then ask: 'If you could make one new rule, what would it be, and why?' Discuss it like a small assembly: you may ask one question about it, and your child must answer before it is 'passed'. Write the new rule on a card and put it up."
+        },
+        {
+          "kind": "read",
+          "title": "India facts (pages 79, 89, 90)",
+          "mins": 10,
+          "do": "Read the small fact captions on pages 79, 89 and 90 together: India runs the world's largest postal network; India is the world's largest democracy; India has the world's second largest road network. For each, ask a thinking question. Postal network: 'Why would a country need so many post offices?' (To reach every village, including remote mountains and islands.) Democracy: 'What makes a country a democracy?' (People choose their leaders by voting; every adult citizen aged 18 and over can vote.) Roads: 'Is the largest always the best? What else matters?' (Safety, how many people they reach, how they are looked after.)"
+        }
+      ],
+      "need": ["Textbook pages 79, 81, 89–91", "notebook", "a card for the new rule"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Finding India in currency notes",
+      "goal": "Read a currency note like a detective, uncover its hidden security features, and fill the monuments table.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Activity 3: observe a currency note (page 80)",
+          "mins": 12,
+          "do": "Do Activity 3 on page 80. Give your child a real note (a ₹10, ₹20, ₹50 or ₹100 note of the new smaller series). Copy the page 80 table into the notebook and fill it together: value; colour (₹10 chocolate brown, ₹20 greenish yellow, ₹50 fluorescent blue, ₹100 lavender, ₹200 bright yellow, ₹500 stone grey); number of languages (on the front: Hindi and English; on the back, a panel of 15 more languages, so 17 in all); the order of the panel (Assamese, Bengali, Gujarati, Kannada, Kashmiri, Konkani, Malayalam, Marathi, Nepali, Odia, Punjabi, Sanskrit, Tamil, Telugu, Urdu: alphabetical in English); the monument on the back; symbols (Ashoka emblem, ₹ symbol, Swachh Bharat spectacles); any message (the Governor's promise 'I promise to pay the bearer…'). Ask your child to read the amount written in a language they do not know, using the number as a clue."
+        },
+        {
+          "kind": "exp",
+          "title": "Hidden features of a banknote",
+          "mins": 13,
+          "do": "Do Experiment e1. First read the teacher's question on page 81: 'Do you know there are actually two images of Gandhi ji on each note? Hold the note up to the light.' Ask your child to guess first what else might be hidden. Then test: hold the note up to a window or a torch and find the watermark portrait of Gandhi ji and the number beside it. Find the security thread (a line running through the note; on many notes it shows 'भारत' and 'RBI'). Tilt a ₹200 or ₹500 note if you have one and watch the number at the bottom right change colour. With eyes closed, feel the Gandhi portrait and the emblem on a ₹100 or bigger note: the ink is raised. Use a magnifying glass to find tiny letters 'RBI' and 'भारत' near the portrait. Ask: 'Why would the Reserve Bank hide all this?' (To make notes very hard to copy, so people can trust them.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Spectacles and touch-marks (page 81)",
+          "mins": 6,
+          "do": "Read page 81: the tiny round spectacles are the symbol of the Swachh Bharat Abhiyan, based on Gandhi ji's spectacles, because he insisted on cleanliness and the people in his ashram followed strict rules of cleaning. Read the 'Do you know?' box: some notes have raised prints and symbols to help people with visual impairment, and the MANI app helps them identify notes by sound and vibration. Ask: 'Why is it fair that money can be read by touch too?' (Everyone uses money, including people who cannot see.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Let us reflect 2, 3 and 4: monuments, ₹ and animals (pages 91–92)",
+          "mins": 14,
+          "do": "Do Let us reflect questions 2–4. 2: Fill the monuments table on page 91 using real notes or pictures of the new series: ₹10 Sun Temple of Konark (Odisha); ₹20 Ellora Caves (Maharashtra); ₹50 Hampi with the stone chariot (Karnataka); ₹100 Rani ki Vav stepwell (Gujarat); ₹200 Sanchi Stupa (Madhya Pradesh); ₹500 Red Fort (Delhi). Ask: 'Which of these have you visited, or would like to visit?' Note that Rani ki Vav is a stepwell, like the water systems in Chapter 1. 3: The ₹ symbol: it was chosen in 2010 from a public design competition and designed by D. Udaya Kumar; it combines the Devanagari 'र' and the Roman 'R'. Your child may also know $ (US dollar), £ (pound) or € (euro). 4: Animals on the ₹10 note: older ₹10 notes show a tiger, an elephant and a rhinoceros; look closely at the new brown note too and say what you find. Then do section A of Worksheet ws1 (core) on currency and symbols; keep the rest for tomorrow.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 80–81 and 91–92", "real currency notes, as many denominations as you can (₹10, ₹20, ₹50, ₹100, ₹200, ₹500)", "a torch, a magnifying glass", "notebook", "worksheet ws1"],
+      "prep": [{"task": "Collect one note of each denomination you have (and an old ₹10 note if possible)", "when": "morning"}]
+    },
+    {
+      "n": 4,
+      "title": "Symbols that speak",
+      "goal": "Learn about the national emblem and the comeback of the Asiatic lion, weigh a live debate about the lions' future, design an emblem, and find our state's symbols.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Three lions (page 82)",
+          "mins": 6,
+          "do": "Read page 82: the National Emblem shows three lions standing on a round platform, representing strength, courage and confidence, with the Ashoka Chakra below. Find it on a currency note, a passport, a coin or an Aadhaar card. Tell your child the emblem comes from the Lion Capital that Emperor Ashoka put on a pillar at Sarnath, near Varanasi, over 2,200 years ago; the real one has four lions back to back, but we can only see three from the front. Under the emblem is the motto 'Satyameva Jayate', meaning 'Truth alone triumphs'. Read the 'Do you know?' box: lions once roamed large parts of India, fell to a few dozen about 150 years ago, and now number several hundred, only in and around the Gir forests of Gujarat."
+        },
+        {
+          "kind": "think",
+          "title": "One home or two? The Gir lions debate",
+          "mins": 10,
+          "do": "Tell the story in Voice v1: Asiatic lions were saved from near extinction in Gir by protection, and the 2020 count found 674 of them. But scientists such as Ravi Chellam warned that all the wild Asiatic lions in the world living in one area is risky: one disease or disaster could hit them all. In 2013 the Supreme Court ordered some lions to be moved to Kuno in Madhya Pradesh; Gujarat did not want to give them up, and it still has not happened. In 2018 a virus killed more than 20 Gir lions. Ask the voice question and let your child argue it out. Link it to the idea of 'endemic' in the word list.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 4 and Draw: an emblem for our school (pages 82–84)",
+          "mins": 13,
+          "do": "Do Activity a2, the book's Activity 4 and the Draw box on page 84. Your child first spots a tree, bird, animal, flower or object near your home or school (a neem tree, a pigeon on the balcony, the family's old cycle, a tulsi plant) and chooses it as the symbol, writing one line on why. Then they design an emblem for their home school (or school) on paper: a shape (circle, shield), the chosen symbol in the centre, two or three colours with a meaning for each (like the flag), and a short motto. Ask: 'What message does your emblem give? What does each colour stand for?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Riddles, a national fruit and state symbols (page 83)",
+          "mins": 7,
+          "do": "Read the two riddles on page 83 aloud and let your child guess: the tiger (national animal) and the peacock (national bird). Then the Discuss box: 'If we had to choose a national fruit, which would you suggest and why?' Many government lists already name the mango, but let your child argue for their own choice with reasons (grows across India, loved by everyone, has a long history, healthy). Then the Find out box: look up your state's animal, bird, tree and flower together on a phone and write them in. For example, Maharashtra: Indian giant squirrel (shekru), yellow-footed green pigeon (harial), mango tree, Jarul flower; Tamil Nadu: Nilgiri tahr, emerald dove, palmyra palm, gloriosa lily."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: rest of ws1",
+          "mins": 9,
+          "do": "Finish sections B and C of Worksheet ws1 (core). Mark it together; for each wrong answer open the page: flag page 75, Republic Day page 79, currency pages 80–81, emblem and symbols pages 82–83.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 82–84", "a coin, note or document with the emblem", "paper, colours", "a phone to look up state symbols", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "How is it said? Our many languages",
+      "goal": "Collect words from many Indian languages, discover which ones sound alike and why, and find out why scientists disagree about how many languages India has.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Our vibrant culture (page 84)",
+          "mins": 5,
+          "do": "Read 'Our Vibrant Culture' on page 84: a simple currency note shows that India speaks many languages, each rich with its own history, songs and stories, and more than a thousand languages are spoken across the country. Ask: 'How many languages do people in our family speak? Our building? Our street?' Count them together. Read the caption on page 92: India is one of the most multilingual countries in the world."
+        },
+        {
+          "kind": "talk",
+          "title": "Activity 5: mango in many languages (pages 84–85)",
+          "mins": 10,
+          "do": "Do Activity 5. 1: List the languages spoken by your child's friends, cousins and neighbours. 2: Fill the 'How is it Said?' table on page 85 for 'mango'. The book gives Tamil 'māmpalam'. Find the others by asking family and neighbours, or a phone: Hindi 'aam', Marathi 'aamba', Bengali 'aam', Telugu 'mamidi pandu', Kannada 'maavina hannu', Malayalam 'maanga', Gujarati 'keri', Odia 'amba', Punjabi 'amb'. Ask: 'Which words sound alike?' Notice the 'aam / amba / amb' group and the 'māmpalam / maanga / mamidi / maavina' group."
+        },
+        {
+          "kind": "exp",
+          "title": "Language families: a sound test",
+          "mins": 15,
+          "do": "Do Experiment e4. Ask your child to guess first: 'If we collect the words for water, mother, three and fish in eight languages, will they all be different, or will some groups be alike?' Then collect them from family, neighbours or by phone calls (each person records a short voice note), and write a table with languages down the side and the four words across. Example rows: Hindi paani, maa, teen, machhli; Bengali jol, maa, tin, maachh; Marathi paani, aai, teen, maasa; Tamil thanneer, amma, moondru, meen; Telugu neellu, amma, moodu, chepa; Kannada neeru, amma, mooru, meenu; Malayalam vellam, amma, moonnu, meen. Colour similar words the same colour. Ask: 'Which languages keep matching?' Explain the 'why' of e4: Hindi, Bengali, Marathi, Gujarati, Punjabi and Odia belong to one big family (Indo-Aryan), and Tamil, Telugu, Kannada and Malayalam to another (Dravidian), each family having grown from an older shared language.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "How many languages does India have? (G.N. Devy and the census)",
+          "mins": 10,
+          "do": "Tell the story in Voice v2: the 2011 Census listed 121 languages, but people had named nearly 20,000 different 'mother tongues' on the forms. A survey led by G.N. Devy counted about 780 languages and warned that many are in danger of disappearing. The book says 'more than a thousand'. Ask: 'Why might different people get different counts?' (Is a dialect a language? Who decides? Some languages have very few speakers left.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Translation apps and one new language (pages 85 and 91)",
+          "mins": 5,
+          "do": "Read the 'Do you know?' box on page 85 about translation apps. Try translating 'Thank you, see you tomorrow' into two languages on a phone and ask a speaker if it sounds right; often it is close but not quite natural. Then ask Let us reflect question 1 (page 91): 'If you could learn one more Indian language, which and why?' Your child learns to say 'hello' and 'thank you' in that language today and uses it at dinner."
+        }
+      ],
+      "need": ["Textbook pages 84–85, 91–92", "a phone for calls, voice notes and translation", "notebook and coloured pens"],
+      "prep": [{"task": "Message 4–6 friends or relatives who speak different languages, asking them to send voice notes of the words for water, mother, three and fish", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "A garden and a forest; diversity in headgear",
+      "goal": "Test the book's garden-and-forest idea with a real count, weigh the science of whether diversity makes nature stronger, and explore India's headgear.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Garden and forest (page 86)",
+          "mins": 5,
+          "do": "Read the top of page 86: many gardens have few kinds of plants and need constant care; a forest has many kinds of plants, animals, birds and insects, is more diverse, and helps look after itself. 'As in a forest, diversity makes our country stronger.' Ask: 'Do you agree that a forest looks after itself? Who waters a forest?' (Rain; and fallen leaves feed the soil.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Neat lawn or wild patch? A count",
+          "mins": 15,
+          "do": "Do Experiment e3. Find two patches outdoors: a neat, mowed lawn or a clean flowerbed in a park, and a wild, unmown corner, a hedge base, or an empty plot edge. Ask your child to guess first: 'In which patch will we find more kinds of plants and small creatures?' Mark a square of about 1 metre by 1 metre in each with four sticks and a string (or a dupatta laid out). Spend 6 minutes on each: count how many different kinds of plants you see (you do not need names; 'small round leaf', 'grass with hairy stem' is fine) and how many kinds of small creatures (ants, beetles, spiders, snails, butterflies, worms under a stone). Fill a table. Ask: 'Which patch had more kinds? Which one needs people to water it?'",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Does diversity make nature stronger? (Tilman and May)",
+          "mins": 9,
+          "do": "Tell the story in Voice v3: in the 1970s a scientist, Robert May, did calculations that seemed to show that more complicated communities could be less stable, not more. Then David Tilman ran a long experiment in grass plots in the USA and found that plots with more kinds of plants survived a bad drought better. Ask the voice question. Bring it back to our count: 'If a disease hit the one kind of grass in the lawn, what would be left? And in the wild patch?'",
+          "ref": "v3"
+        },
+        {
+          "kind": "read",
+          "title": "Diversity everywhere: headgear (pages 86–87)",
+          "mins": 5,
+          "do": "Read 'Diversity Everywhere' on pages 86–87: the colourful saafa or pagri of Rajasthan, the topi of Himachal Pradesh; headgear can show where someone is from, what they believe or what they do, and is worn at weddings and formal occasions. Ask the question on page 87: 'How many headgears can you name?' Help with: Mysore peta, Assamese japi (a bamboo hat), Gandhi topi, Kashmiri karakul cap, Sikh turban (dastar), Naga headgear with feathers, the Manipuri pheiga, a farmer's gamchha tied on the head, a nun's or priest's head covering. Read the 'Do you know?' box on helmets for soldiers, construction workers, miners and riders, compulsory on two-wheelers."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 6: make a headgear (page 87)",
+          "mins": 11,
+          "do": "Do Activity a4, the book's Activity 6. Take a dupatta or long scarf and help each other tie a simple pagri or saafa (wrap around the head several times, tucking the end in at the back), or a Kerala-style head wrap. Then your child makes a cap or crown from waste materials: an old cereal box, newspaper, bottle caps, leftover gift paper. Take a photo of each family member in a headgear and write under it which state's style it is and what it is for (celebration, sun, cold, protection).",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 86–87", "4 sticks and a string or a dupatta to mark squares", "a notebook, pencil, a magnifying glass if available", "dupattas or scarves", "waste cardboard, newspaper, bottle caps, glue, tape"],
+      "prep": [{"task": "Find a neat lawn or flowerbed and a wild, unmown patch near home that you can both visit", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Drums of India",
+      "goal": "Listen to drums from different regions, make a drum, and find out how size and tightness change the sound.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Indian drums (page 88)",
+          "mins": 6,
+          "do": "Read page 88: music and dance are ways of celebrating, praying, sharing stories and bringing people together; even a drum looks and sounds different across India, shaped by local culture and materials. Look at the drum pictures: pakhawaj, khanjira, dhol, mridangam, dholak, thavil, idakka, khol, nagara and tabla. Tell your child where some are played: mridangam in Carnatic music in the south; tabla and pakhawaj in Hindustani music; thavil with the nadaswaram at South Indian temples and weddings; idakka in Kerala temples; khol in kirtans of Bengal, Assam and Odisha; dhol at Punjabi bhangra and many weddings; nagara, a big kettle drum, in Rajasthan and north India; khanjira, a small frame drum with jingles."
+        },
+        {
+          "kind": "watch",
+          "title": "Listen and guess",
+          "mins": 8,
+          "do": "As the Note to the Teacher on page 88 suggests, play short clips (30 seconds each) of 4–5 drums on a phone: a tabla solo, a mridangam, a dhol at a bhangra, a thavil with nadaswaram, an idakka. Before each, your child closes their eyes and guesses which picture on page 88 it is. Ask after each: 'High or low? Fast or slow? Does it sound like one note or many?' Notice that the tabla has two drums, one high (dayan) and one low (bayan)."
+        },
+        {
+          "kind": "exp",
+          "title": "Make a drum: tight or loose, big or small?",
+          "mins": 18,
+          "do": "Do Experiment e2. Stretch a balloon (cut off the neck) or a piece of a plastic bag tightly over a steel dabba, a tin or a plastic tumbler, and hold it with a rubber band. Make two: one stretched very tight and one loose, on the same size container. Ask your child to guess first: 'Which will sound higher when tapped?' Tap each with a finger or a pencil with an eraser end. Then make one more on a much bigger container (a big steel dabba or a bucket) stretched as tight as the first. Ask: 'Big or small, which is deeper?' Sprinkle a few grains of rice or sugar on top and tap: watch them jump. Read the 'why' of e2 together and explain that real drummers tune the mridangam and tabla by tightening the leather straps with small wooden blocks or by tapping a hammer on the rim.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Write: instruments I know (page 89)",
+          "mins": 8,
+          "do": "Do the Write box on page 89. 1: 'What traditional Indian instruments do you know?' Make a list in three groups: drums (tabla, dholak, mridangam), strings (sitar, veena, sarod, ektara, santoor, violin in Carnatic music), wind (bansuri flute, shehnai, nadaswaram, harmonium). Read the line on page 89: mridangam in Carnatic music, sitar and shehnai in Hindustani music. 2: 'Make a musical instrument from local materials.' Your drum counts! Add one more: a shaker from a bottle with dal inside, or a 'jaltarang' of 6 steel glasses filled with different amounts of water, tapped with a spoon (more water gives a lower note)."
+        },
+        {
+          "kind": "do",
+          "title": "Family rhythm",
+          "mins": 5,
+          "do": "Play a simple rhythm together on your home-made drums: 'dha dhin dhin dha' (four even beats, the first one loud), as in the basic tabla theka. You start; your child copies; then they make a new rhythm and you copy."
+        }
+      ],
+      "need": ["Textbook pages 88–89", "a phone with internet for drum clips", "balloons or plastic bags, rubber bands", "2 same-size steel dabbas or tins and 1 bigger container", "a few grains of rice", "6 steel glasses and a spoon (optional)"],
+      "prep": [{"task": "Find 5 short videos of tabla, mridangam, dhol, thavil and idakka", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Dances of India and the spirit of togetherness",
+      "goal": "Map India's dance forms to their states, see how old and new India fit together, and play India Quartets.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 7: map the dances (page 89)",
+          "mins": 14,
+          "do": "Do Activity a5, the book's Activity 7. Use the dance pictures on page 89 and a blank or printed map of India. With your child, mark where each dance form comes from. Classical forms: Bharatanatyam (Tamil Nadu), Kathakali and Mohiniyattam (Kerala), Kuchipudi (Andhra Pradesh), Odissi (Odisha), Manipuri (Manipur), Kathak (north India, especially Uttar Pradesh), Sattriya (Assam). Folk forms: Bhangra (Punjab), Garba (Gujarat), Ghoomar (Rajasthan), Bihu (Assam), Lavani (Maharashtra), Yakshagana (Karnataka). Your child draws a tiny figure or writes the name on each state. Watch 30 seconds of two dances and ask: 'What story do the hands and face tell?' (Classical dances use hand gestures called mudras and expressions to tell stories.)",
+          "ref": "a5"
+        },
+        {
+          "kind": "read",
+          "title": "Spirit of togetherness (pages 90–91)",
+          "mins": 7,
+          "do": "Read 'Spirit of Togetherness' on pages 90–91: many languages, religions, clothing and traditions; each region a thread woven into one strong fabric; ayurveda, yoga and meditation; and scientists launching rockets, farmers using technology, faster trains and digital payments. Ask: 'What does the book mean by threads woven into one fabric?' (Each region is different, but together they make one country, stronger than any single thread.) Ask: 'Do new things like UPI replace old traditions, or add to them?' Read the captions on pages 81 and 88 about Aadhaar and UPI, and on page 85 about the large stadium."
+        },
+        {
+          "kind": "game",
+          "title": "India Quartets",
+          "mins": 14,
+          "do": "Play Activity a3. Make 32 cards for 8 states, 4 cards each: language, dance, food, monument. For example: Kerala (Malayalam, Kathakali, appam and stew, Padmanabhaswamy Temple); Punjab (Punjabi, Bhangra, makki di roti and sarson ka saag, Golden Temple); Assam (Assamese, Bihu, masor tenga, Kamakhya Temple); Tamil Nadu (Tamil, Bharatanatyam, pongal, Meenakshi Temple); Gujarat (Gujarati, Garba, dhokla, Rani ki Vav); Rajasthan (Rajasthani, Ghoomar, dal baati churma, Hawa Mahal); Odisha (Odia, Odissi, pakhala, Konark Sun Temple); Maharashtra (Marathi, Lavani, puran poli, Ellora Caves). Shuffle and deal. Players ask each other: 'Do you have Assam's dance?' If yes, the card is handed over and you ask again; if no, the turn passes. Lay down each full quartet. Most quartets wins. The winner must say one thing all 8 states share.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: diversity in new cases",
+          "mins": 10,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to apply the chapter to new cases: a new note, a new language puzzle, drums and dances. Let them answer write items aloud while you scribe if that helps.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 89–91", "a printed or hand-drawn outline map of India", "32 small cards and pens for India Quartets", "a phone for two short dance clips", "worksheet ws2"],
+      "prep": [{"task": "Write the 32 India Quartets cards (or ask your child to help write them the evening before)", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Great people and our cultural fair plan",
+      "goal": "Learn about great Indians from the pictures and from our own state, cook a dish from another state, and prepare our cultural fair booth.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Let us reflect 5 and 6: great people (page 92)",
+          "mins": 12,
+          "do": "Do Let us reflect question 5 on page 92: look at the pictures of great men and women and identify as many as you can, writing two or three lines about each one's contribution (for example Dr B.R. Ambedkar led the drafting of the Constitution; Sarojini Naidu, poet and freedom fighter; Dr A.P.J. Abdul Kalam, rocket scientist and President). If you cannot identify someone, say so and look it up together rather than guessing. Then question 6: phone an elder and ask, 'Who from our town or state contributed to the nation?' Your child writes about one person, such as a freedom fighter, scientist, sports star, social reformer or artist from your state, and why they are remembered."
+        },
+        {
+          "kind": "act",
+          "title": "Cook a dish from another state",
+          "mins": 15,
+          "do": "Choose one simple dish from a state your family has never visited, from the India Quartets cards: for example pakhala (Odisha: cooked rice soaked in water overnight with curd, salt and a tempering), poha (Madhya Pradesh), sundal (Tamil Nadu: boiled chana with coconut and curry leaves) or kosambari (Karnataka: soaked moong with cucumber and lemon). Your child reads the recipe aloud, measures the ingredients and does the safe steps (washing, mixing, garnishing); an adult does any cutting and the stove. While you cook, ask: 'Which ingredients are the same as ours? Which are new? Why might this dish suit that state?' (Pakhala cools you in hot, humid Odisha; it is a fermented rice dish, like those in Chapter 3.)"
+        },
+        {
+          "kind": "act",
+          "title": "Plan our cultural fair booth (pages 92–93)",
+          "mins": 8,
+          "do": "Start Activity a6, the book's Project 7. Your child chooses one state (not your own) for a booth at a home cultural fair tomorrow. Make a checklist from page 92: traditional dress, popular food, festivals, languages, dance or music. Find one fact for each using the book, the India Quartets cards and a phone. Gather props: the tableau poster from Day 1, the headgear from Day 6, the drum from Day 7, the dish from today. Invite family members or a few friends to visit the fair.",
+          "ref": "a6"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and comparing views on the lions and on counting languages. There is no single right answer in section C; praise reasons that use evidence.",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 92–93", "ingredients for one simple dish from another state", "a phone to call an elder and to look up facts", "chart paper, props from earlier days", "worksheet ws3"],
+      "prep": [{"task": "Choose the dish and buy its ingredients (for pakhala, cook the rice and soak it the night before)", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "Cultural fair, check and teach it back",
+      "goal": "Hold a home cultural fair, find the common values across states, check understanding, and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "The home cultural fair (pages 92–93)",
+          "mins": 15,
+          "do": "Finish Activity a6. Set up your child's booth on a table: a sign with the state's name, the poster, props and food. Your child presents for 5 minutes to the family or visiting friends: dress, food, festivals, language (with a greeting in that language), dance or music (play a clip or show a step). If a sibling or friend has made a booth for another state, visit it too. Then sit in a circle and discuss the book's two questions on page 93: 'What unique features did you find?' and 'What similarities or common values did you find?' (Harvest festivals in every state, like Pongal, Bihu, Baisakhi and Onam; respect for elders; rice or wheat as the main food; music at every celebration; the same flag and anthem.)",
+          "ref": "a6"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any miss, open the page for a minute and ask again in different words (flag page 75, Republic Day page 79, currency pages 80–81, emblem and lions page 82, languages pages 84–85, garden and forest page 86, drums and dances pages 88–89). Most children get 6 or more right; fewer than 5 means replay India Quartets and redo the currency table next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is the teacher and you (or a grandparent) are the student. In 7 minutes, using a currency note, the drum, the language table and the dance map, they must teach: what the flag and the two national days mean; three secrets hidden in a banknote and why; how the lions were saved and the argument about their second home; why Hindi and Bengali share words but Tamil sounds different; and why a forest (and a country) can be stronger because it is diverse. Ask two 'student' questions: 'If we already became free in 1947, why do we need another national day in 1950?' and 'Why does a tight drum sound higher?' End with the National Anthem together, standing."
+        },
+        {
+          "kind": "talk",
+          "title": "My corner of India",
+          "mins": 3,
+          "do": "Ask your child to finish this sentence in the notebook: 'My place is a special part of India because…' with three reasons (a language, a food, a festival, a tree or animal, a person). This answers the Note to the Teacher's idea of seeing their own home as a unique part of India."
+        }
+      ],
+      "need": ["Textbook pages 92–93", "the booth props, poster, drum, headgear and dish", "a currency note, the language table, the dance map"],
+      "prep": [{"task": "Invite family or friends to the home cultural fair and clear a table for the booth", "when": "2 days before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Flag, national days, currency and symbols",
+      "day": 3,
+      "sections": [
+        ["A. Currency notes", [
+          {"t": "match", "p": "Match each note to the monument on its back.", "pairs": [["₹10", "Sun Temple, Konark"], ["₹20", "Ellora Caves"], ["₹50", "Hampi chariot"], ["₹100", "Rani ki Vav"], ["₹200", "Sanchi Stupa"], ["₹500", "Red Fort"]]},
+          {"t": "mcq", "p": "The small round spectacles on our notes are the symbol of:", "opts": ["The Reserve Bank", "Swachh Bharat Abhiyan (Clean India Mission)", "An eye hospital", "The Election Commission"], "a": 1},
+          {"t": "fill", "p": "When you hold a note up to the light, you can see a faint picture called a ____.", "a": ["watermark"]}
+        ]],
+        ["B. Flag and national days", [
+          {"t": "match", "p": "Match each part of the flag to what it stands for.", "pairs": [["Saffron", "Strength and courage"], ["White", "Peace and truth"], ["Ashoka Chakra", "Duty (dharma)"], ["Green", "Growth and prosperity"]]},
+          {"t": "fill", "p": "India became independent on 15 August ____.", "a": ["1947"]},
+          {"t": "mcq", "p": "Why do we celebrate 26 January as Republic Day?", "opts": ["India won a war that day", "India began to follow its Constitution on 26 January 1950", "It is Gandhi ji's birthday", "The flag was invented that day"], "a": 1}
+        ]],
+        ["C. National symbols", [
+          {"t": "match", "p": "Match the national symbol.", "pairs": [["National animal", "Tiger"], ["National bird", "Peacock"], ["National emblem", "Three lions with the Ashoka Chakra"]]},
+          {"t": "fill", "p": "Today, wild Asiatic lions are found only in the ____ forests of Gujarat.", "a": ["Gir"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Diversity in new cases",
+      "day": 8,
+      "sections": [
+        ["A. Language detective", [
+          {"t": "write", "p": "The word for 'fish' is 'meen' in Tamil and Malayalam and 'meenu' in Kannada, but 'machhli' in Hindi. What does this tell you about which languages are related?", "lines": 3},
+          {"t": "sort", "p": "Sort these languages into their families.", "items": ["Hindi", "Tamil", "Bengali", "Telugu", "Marathi", "Kannada", "Gujarati", "Malayalam"], "cats": ["Indo-Aryan family", "Dravidian family"]}
+        ]],
+        ["B. Sound science", [
+          {"t": "mcq", "p": "A tabla player taps the side of the drum with a small hammer to make the note higher. What is she doing?", "opts": ["Making the skin looser", "Making the skin tighter", "Making the drum bigger", "Cleaning the drum"], "a": 1},
+          {"t": "mcq", "p": "Which drum gives the deepest sound?", "opts": ["A small khanjira", "The small dayan of the tabla", "A big nagara", "A tight balloon on a cup"], "a": 2},
+          {"t": "write", "p": "Rice grains jumped on our drum when we tapped it. What does this show about how sound is made?", "lines": 2}
+        ]],
+        ["C. Match and map", [
+          {"t": "match", "p": "Match the dance to its state.", "pairs": [["Bharatanatyam", "Tamil Nadu"], ["Kathakali", "Kerala"], ["Bihu", "Assam"], ["Garba", "Gujarat"], ["Bhangra", "Punjab"], ["Odissi", "Odisha"]]},
+          {"t": "write", "p": "In our patch count, the wild patch had more kinds of plants than the lawn. Write two reasons why.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles and hard questions",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Why does a banknote have so many hidden features, like a watermark, a security thread and raised ink? What would happen to people's trust in money without them?", "lines": 3},
+          {"t": "mcq", "p": "The national emblem shows three lions, but the Lion Capital at Sarnath has more. How many lions does it really have?", "opts": ["Three", "Four, standing back to back", "Five", "Two"], "a": 1},
+          {"t": "fill", "p": "The ₹ symbol combines the Devanagari letter 'र' and the Roman letter ____.", "a": ["R"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if everyone in India spoke only one language? Write one thing that might become easier and two things that would be lost.", "lines": 4},
+          {"t": "write", "p": "What if a farmer grew only one kind of crop on all his land for many years, and a new pest arrived? Use the garden-and-forest idea to explain the risk.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Gujarat says the lions are safe in Gir and well looked after. Scientists say all the lions in one place is risky. Write the strongest point on each side, and what you would decide.", "lines": 4},
+          {"t": "write", "p": "One count says India has 121 languages, another about 780, and the book says more than a thousand. Explain how they can all be honest counts.", "lines": 3},
+          {"t": "mcq", "p": "To test whether diverse grassland survives drought better, which experiment is fairest?", "opts": ["Look at one field after a drought", "Plant many plots with different numbers of plant kinds on the same soil, give them the same drought, and compare", "Ask farmers what they think", "Count trees in a city"], "a": 1}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Hidden features of a banknote",
+      "day": 3,
+      "question": "What features are hidden in our currency notes, and how can we find them?",
+      "need": ["real currency notes (₹10, ₹20, ₹50, ₹100, and ₹200 or ₹500 if available)", "a window or a torch", "a magnifying glass"],
+      "steps": [
+        "Look at the note in normal light and draw what you see on both sides.",
+        "Hold it up to the light. Find the watermark portrait and the number beside it.",
+        "Look for the security thread running through the note and read the letters on it.",
+        "Tilt a ₹200 or ₹500 note and watch the number at the bottom right.",
+        "Close your eyes and feel the portrait, the emblem and the edges of a ₹100 or bigger note.",
+        "Use the magnifying glass to find tiny writing near the portrait."
+      ],
+      "predict": "Ask your child to guess first: what might you see if you hold a note up to the light? Can a note be 'read' with your fingers?",
+      "observe": "A faint portrait of Gandhi ji and the note's value appear in the light. A thread shows letters such as 'भारत' and 'RBI'. On ₹200 and ₹500 notes the number changes colour (green to blue) when tilted. The portrait and emblem feel raised. Tiny letters 'RBI' and 'भारत' appear under the magnifier.",
+      "why": "A watermark is made while the paper itself is being formed: the paper is made slightly thicker or thinner in the shape of the picture, so more or less light passes through it. The security thread is woven inside the paper. Colour-shifting ink contains tiny flakes that reflect different colours at different angles. Raised (intaglio) printing presses ink so thickly that you can feel it, which also helps people who cannot see. Micro-lettering is too small for most copiers to print sharply. Each feature is hard to copy, and together they make a fake note easy to catch, so people can trust money.",
+      "safety": "Handle notes with clean, dry hands and give them back; do not write on or fold them.",
+      "time": "13 min"
+    },
+    {
+      "id": "e2",
+      "title": "Make a drum: tight or loose, big or small?",
+      "day": 7,
+      "question": "How do the tightness of the skin and the size of the drum change its sound?",
+      "need": ["balloons (necks cut off) or pieces of a plastic bag", "strong rubber bands", "2 steel dabbas or tins of the same size and 1 much bigger container", "a pencil with an eraser end", "a few grains of rice"],
+      "steps": [
+        "Stretch a balloon very tightly over one small container and fix it with a rubber band.",
+        "Stretch another loosely over the second small container.",
+        "Tap each in the middle with the eraser end and compare the sounds.",
+        "Stretch a balloon tightly over the big container and tap it.",
+        "Put a few grains of rice on a drum and tap: watch the grains.",
+        "Try pressing the skin with one finger while tapping with the other hand."
+      ],
+      "predict": "Ask your child to guess first: will the tight or the loose drum sound higher? Will the big or the small drum sound deeper?",
+      "observe": "The tight skin gives a higher, sharper sound; the loose one a lower, duller thud. The big container gives a deeper, louder, longer sound. The rice grains jump when the skin is tapped. Pressing the skin while tapping raises the pitch, as tabla players do with the heel of the hand.",
+      "why": "Sound is made by vibration: tapping makes the skin move up and down very fast, pushing the air around it into waves that reach our ears. The rice jumping shows the skin is vibrating. A tighter skin springs back faster, so it vibrates more times each second, and more vibrations per second (a higher frequency) sound higher. A bigger drum has a bigger skin and more air inside, which vibrate more slowly, so it sounds deeper. This is why the big nagara booms and the small khanjira rings, and why drummers tune the mridangam and tabla by tightening their straps.",
+      "safety": "Snap rubber bands carefully away from eyes. Do not let small children put balloon pieces in their mouth.",
+      "time": "18 min"
+    },
+    {
+      "id": "e3",
+      "title": "Neat lawn or wild patch? A diversity count",
+      "day": 6,
+      "question": "Does a wild patch of ground hold more kinds of plants and small animals than a neat garden lawn?",
+      "need": ["4 sticks and a string, or a dupatta, to mark a 1 m square", "a notebook and pencil", "a magnifying glass if available", "a timer"],
+      "steps": [
+        "Mark a 1 m by 1 m square on a neat lawn or flowerbed.",
+        "For 6 minutes, count how many different kinds of plants you see, and how many kinds of small creatures (look under a leaf or stone and put it back).",
+        "Mark a square of the same size on a wild, unmown patch.",
+        "Count for 6 minutes in the same way.",
+        "Write the totals in a table and compare."
+      ],
+      "predict": "Ask your child to guess first: which square will have more kinds of plants? More kinds of creatures?",
+      "observe": "Usually the wild patch has many more kinds of plants (different grasses, small flowering weeds, creepers) and more kinds of insects, spiders, snails and worms. The lawn may have one or two kinds of grass and few creatures.",
+      "why": "A lawn is kept as one kind of grass by mowing, weeding and watering, so most other plants are removed, and with them the insects that eat or live on them. A wild patch lets many plants grow, each with different roots, leaves, flowers and seeds, which feed and shelter many kinds of animals. Scientists call the number of different kinds 'species richness'. Experiments suggest that communities with more kinds are often better at surviving droughts and pests, because if one kind fails, others can take over its job. Counting kinds in a fixed square (scientists call it a quadrat) makes the comparison fair.",
+      "safety": "Do not touch creatures with bare hands, and watch for ants, thorns and nettles. Wash hands afterwards. Put stones back where they were.",
+      "time": "15 min"
+    },
+    {
+      "id": "e4",
+      "title": "Language families: a sound test",
+      "day": 5,
+      "question": "Do some Indian languages share words, and does that show that they are related?",
+      "need": ["voice notes or calls from speakers of 6–8 languages", "a table in the notebook", "coloured pens"],
+      "steps": [
+        "Choose four everyday words: water, mother, three, fish.",
+        "Collect each word in 6–8 languages from family, friends or neighbours.",
+        "Write them in a table: languages down the side, words across.",
+        "Colour words that sound alike in the same colour.",
+        "Group the languages that keep matching."
+      ],
+      "predict": "Ask your child to guess first: will each language have completely different words, or will some languages sound alike?",
+      "observe": "Some words match in groups. 'Teen / tin' (three) and 'paani' (water) link Hindi, Marathi and Bengali; 'meen' (fish), 'moondru / moodu / mooru / moonnu' (three) and 'amma' link Tamil, Telugu, Kannada and Malayalam. A few words, like 'amma' or 'maa', are shared even across groups.",
+      "why": "Languages change slowly over hundreds of years, like a family tree. Languages that grew from the same older language keep many similar everyday words, especially numbers and family words. Hindi, Bengali, Marathi, Gujarati, Punjabi and Odia are Indo-Aryan languages that grew from forms of old Indo-Aryan (related to Sanskrit). Tamil, Telugu, Kannada and Malayalam are Dravidian languages that grew from an older Dravidian language. Languages also borrow words from neighbours, which is why some words cross families. India also has languages from other families, such as Santali and Khasi (Austroasiatic) and many Tibeto-Burman languages in the Northeast. Linguists compare hundreds of words, not four, before deciding how languages are related.",
+      "safety": "",
+      "time": "15 min (plus collecting voice notes beforehand)"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Our state's tableau (Book Activity 1, page 78)",
+      "day": 1,
+      "mins": 17,
+      "need": ["chart paper and colours, or a shoebox lid, clay, paper cut-outs"],
+      "steps": [
+        "List what makes your state special: a monument, festival, dance, crop, animal, craft and a great person.",
+        "Choose 5–7 items for the float.",
+        "Draw or build a long float with all of them.",
+        "Label each item and write why it was chosen.",
+        "Keep it for the cultural fair."
+      ],
+      "outcome": "A poster or model of your state's Republic Day tableau."
+    },
+    {
+      "id": "a2",
+      "title": "Design an emblem (Book Activity 4 and Draw, pages 82–84)",
+      "day": 4,
+      "mins": 13,
+      "need": ["paper, pencil and colours"],
+      "steps": [
+        "Spot a tree, bird, animal, flower or object near home or school and choose it as your symbol.",
+        "Write one line on why it is a good symbol.",
+        "Choose a shape for the emblem.",
+        "Add the symbol, two or three colours with meanings, and a short motto.",
+        "Explain the emblem's message to the family."
+      ],
+      "outcome": "An emblem for your home school or school, with a symbol, colours and motto that each carry a meaning."
+    },
+    {
+      "id": "a3",
+      "title": "India Quartets",
+      "day": 8,
+      "mins": 14,
+      "need": ["32 small cards", "pens"],
+      "steps": [
+        "Make 4 cards for each of 8 states: language, dance, food, monument.",
+        "Shuffle and deal all cards.",
+        "Take turns asking another player for a specific card ('Do you have Kerala's food?').",
+        "If they have it they must hand it over and you ask again; if not, your turn ends.",
+        "Lay down every full set of four. Most sets wins.",
+        "The winner says one thing all the states share."
+      ],
+      "outcome": "A home-made card game and a child who can link languages, dances, foods and monuments to their states."
+    },
+    {
+      "id": "a4",
+      "title": "Headgear of India (Book Activity 6, page 87)",
+      "day": 6,
+      "mins": 11,
+      "need": ["dupattas or long scarves", "waste cardboard, newspaper, bottle caps, glue and tape"],
+      "steps": [
+        "Tie a simple pagri or saafa with a dupatta.",
+        "Make a cap or crown from waste materials.",
+        "Photograph each family member in a headgear.",
+        "Write which region's style it is and what it is for: celebration, sun, cold or protection."
+      ],
+      "outcome": "A set of home-made headgears and a photo page of India's headgear styles."
+    },
+    {
+      "id": "a5",
+      "title": "Dance map of India (Book Activity 7, page 89)",
+      "day": 8,
+      "mins": 14,
+      "need": ["an outline map of India", "pencils", "the dance pictures on page 89", "a phone for short clips"],
+      "steps": [
+        "Find each dance's state.",
+        "Write the name or draw a tiny dancer on that state.",
+        "Use one colour for classical and another for folk dances.",
+        "Watch short clips of two dances and compare their movements and music."
+      ],
+      "outcome": "A dance map of India showing classical and folk dances by state."
+    },
+    {
+      "id": "a6",
+      "title": "Home cultural fair (Project 7, pages 92–93)",
+      "day": 9,
+      "mins": 15,
+      "need": ["chart paper and pens", "props from the week (tableau, headgear, drum)", "a dish from the chosen state", "a table for the booth"],
+      "steps": [
+        "Choose a state other than your own.",
+        "Find one fact each about its dress, food, festivals, languages and dance or music.",
+        "Make a booth sign and a poster.",
+        "Set up the booth with props and food.",
+        "Present for 5 minutes to visitors, including a greeting in the state's language.",
+        "Discuss unique features and common values afterwards."
+      ],
+      "outcome": "A cultural fair booth and a 5-minute presentation on one state, ending in a discussion of what unites India."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Ravi Chellam and the Gir lion debate (Supreme Court order 2013), India",
+      "idea": "Asiatic lions once lived across much of northern and western India, but hunting and the loss of their land left only a small group in the Gir forest of Gujarat by the late 1800s. The Nawab of Junagadh and, after independence, the Gujarat Forest Department protected them, and the 2020 count found 674 lions in and around Gir. Wildlife biologists such as Ravi Chellam, who studied the Gir lions for many years, argued that having every wild Asiatic lion in the world in one area is dangerous: a single disease, fire or flood could wipe them out. They proposed starting a second population at Kuno in Madhya Pradesh, which was prepared for lions from the 1990s.",
+      "then": "In April 2013 the Supreme Court of India ordered that some lions be moved to Kuno. Gujarat opposed giving away its lions, arguing that they were well protected and had already spread to new areas outside Gir. The lions were not moved. In 2018 more than 20 Gir lions died, many from canine distemper virus, which made the risk feel real. In 2022, cheetahs brought from Namibia were released at Kuno instead.",
+      "now": "Most conservation scientists agree that a species living in only one population is at risk, and the Gir lions' recovery is a real success. Whether and when some lions should be moved to a second home is still argued about, by scientists, courts and governments.",
+      "status": "debated",
+      "ask": "If you were the judge, what evidence would you want before deciding whether to move some lions? What could go wrong if you move them, and what could go wrong if you do not?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Ganesh N. Devy (born 1950) and the People's Linguistic Survey of India, with the Census of India 2011",
+      "idea": "In the 2011 Census, people wrote down nearly 20,000 different names for their mother tongues. After grouping and sorting, the Census listed 1,369 'rationalised' mother tongues and grouped them into 121 languages (each spoken by at least 10,000 people). G.N. Devy, a literary scholar, led a large volunteer survey, the People's Linguistic Survey of India, which reported in the early 2010s that about 780 languages are spoken in India, and estimated that around 220 languages had disappeared in the previous 50 years.",
+      "then": "Counts differ because experts disagree about where a 'dialect' ends and a 'language' begins, because the Census leaves out tongues with fewer than 10,000 speakers from its language list, and because the same language can be reported under many names. Some linguists questioned the survey's methods; others welcomed it for recording small languages that official lists ignore.",
+      "now": "Everyone agrees India is one of the most multilingual countries on Earth and that many small languages, especially of Adivasi communities and the Himalayas and Northeast, are endangered. The exact number of languages is still argued about, and there may never be one right answer, because it depends on how you define a language.",
+      "status": "debated",
+      "ask": "Your grandmother's way of speaking is a little different from the way people speak in the next district. Is it a different language or the same one? What rule would you use to decide, and would everyone agree with your rule?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Robert May (1936–2020) and David Tilman (born 1949): does diversity make nature stronger?",
+      "idea": "Many ecologists in the 1950s and 60s believed that communities with many kinds of living things were more stable. In the early 1970s Robert May, a physicist turned ecologist, used mathematical models to show that this was not automatically true: in his models, adding more species and more links could make a community less stable. Then David Tilman ran a long experiment at Cedar Creek in Minnesota, USA, with many grassland plots planted with different numbers of plant kinds. When a severe drought struck in 1987–88, the plots with more kinds of plants lost less of their growth and recovered better; he and John Downing published this in 1994.",
+      "then": "May's work started a long and lively argument called the 'diversity–stability debate'. Some critics said Tilman's results could be explained by other differences between the plots, such as which particular plants they happened to contain, and he and others ran further experiments to answer this.",
+      "now": "After many experiments around the world, most ecologists accept that, on average, more diverse communities of plants keep producing more steadily through droughts and other stresses, especially over long times. They also agree with May's point that diversity alone does not guarantee stability; it depends on how the species interact. So both scientists helped: May made people test the idea carefully, and Tilman tested it.",
+      "status": "accepted",
+      "ask": "The book says a diverse forest is stronger than a garden. What would you need to measure, and for how long, to be sure that is true and not just a nice idea?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "What do the colours and the chakra on our flag stand for?", "a": "Saffron for strength and courage, white for peace and truth, green for growth and prosperity, and the blue 24-spoked Ashoka Chakra for duty (dharma)."},
+    {"q": "What is the difference between Independence Day and Republic Day?", "a": "On 15 August 1947 India became free from British rule. On 26 January 1950 India began following its own Constitution and became a republic."},
+    {"q": "Name three things you can find on a currency note and one hidden security feature.", "a": "For example: the value in Hindi and English plus 15 more languages, a monument (like Konark on ₹10), Gandhi ji's portrait, the emblem, the ₹ symbol, the Swachh Bharat spectacles. Hidden features: watermark, security thread, raised print, colour-changing number, micro-lettering."},
+    {"q": "What is the National Emblem and where does it come from?", "a": "Three lions on a round platform with the Ashoka Chakra and the motto 'Satyameva Jayate', taken from Emperor Ashoka's Lion Capital at Sarnath."},
+    {"q": "Why do scientists want some Gir lions moved to a second home?", "a": "All the world's wild Asiatic lions live in one area, so one disease or disaster could kill them all; a second population would make them safer. Gujarat has opposed it, so it is still debated."},
+    {"q": "Why do Hindi and Bengali share many words while Tamil sounds different?", "a": "Hindi and Bengali belong to the Indo-Aryan family; Tamil belongs to the Dravidian family. Languages from the same family grew from the same older language."},
+    {"q": "Why does the book say a forest is stronger than a garden?", "a": "A forest has many kinds of plants and animals that support each other and it looks after itself; a garden has few kinds and needs constant care. Experiments show diverse communities often survive droughts and pests better."},
+    {"q": "Name two dance forms and their states, and say how you can make a drum sound higher.", "a": "For example Bharatanatyam (Tamil Nadu), Kathakali (Kerala), Bihu (Assam), Bhangra (Punjab), Garba (Gujarat). Tightening the skin, or using a smaller drum, makes it sound higher."}
+  ]
+}

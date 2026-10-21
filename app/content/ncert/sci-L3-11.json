@@ -1,0 +1,637 @@
+{
+  "key": "ncert|sci|3|11",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 11,
+  "title": "Making Things",
+  "source": "NCERT Our Wondrous World, Class 3, Chapter 11 (pages 135–148), Unit 4 'Things Around Us', Reprint 2026-27",
+  "summary": "Starting from the matka, gullak and kulhad at home, your child follows Mini's potter family in Kerala as clay is wetted, kneaded, shaped on the wheel, dried and baked in a kiln, and then makes their own clay from soil. They find repeating patterns in leaves, animals and Indian pottery, learn how bricks are shaped in moulds and baked, watch Rohan's father build a wall brick by brick, compare houses made of mud, grass, wood, stone and brick, test which way of stacking bricks makes a stronger wall, and learn why builders follow safety rules.",
+  "goals": [
+    "By the end your child can describe the steps of pot making in order (collect and clean clay, wet and knead it, shape it on the wheel, dry it, bake it in a kiln, decorate it) and say why a pot is baked.",
+    "By the end your child can make usable clay from soil by sieving and settling, shape two objects from it, and explain why baked clay does not turn back into mud.",
+    "By the end your child can find and draw repeating patterns in plants, animals and objects, and use them to decorate a pot.",
+    "By the end your child can explain how bricks are shaped in moulds and hardened in a kiln, and show with a model why staggered bricks make a stronger wall than bricks stacked straight on top of each other.",
+    "By the end your child can name different kinds of houses and what they are made of, and give reasons why houses differ from place to place, including why mud houses keep cool.",
+    "By the end your child can explain why construction workers wear helmets, vests and sturdy shoes, and name safety rules at home and school."
+  ],
+  "words": [
+    ["clay", "a very fine, sticky kind of soil that can be shaped when wet and becomes hard when dried and baked"],
+    ["potter", "a person who makes pots and other things from clay"],
+    ["knead", "to press, fold and squeeze clay or dough again and again until it is smooth and even"],
+    ["consistency", "how thick or runny something is; good clay is neither too watery nor too dry"],
+    ["potter's wheel", "a heavy round wheel that spins fast; the potter shapes wet clay on it with wet hands"],
+    ["kiln", "a potter's oven: a very hot fire inside a closed chamber that bakes clay pots and bricks hard"],
+    ["terracotta", "baked clay, usually reddish-brown, used for pots, kulhads, diyas, tiles and statues; the word means 'baked earth'"],
+    ["pattern", "shapes, lines or colours that repeat in a regular way, like the stripes on a squirrel or the spots on a leopard"],
+    ["mould", "a hollow shape that soft material is pressed or poured into to give it that shape, like an idli mould or a brick mould"],
+    ["brick", "a block of clay or mud shaped in a mould, dried and usually baked in a kiln, used to build walls"],
+    ["construction", "the work of building houses, schools, bridges and roads"],
+    ["sturdy", "strong and steady; hard to knock down or break"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Who made the matka? Mini's potter family",
+      "goal": "Look closely at clay things at home, read the story of Mini's potter family, and start making our own clay from soil, which needs a few days to settle.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Clay hunt at home (page 135)",
+          "mins": 6,
+          "do": "Before opening the book, ask your child to find every clay thing in the home in 3 minutes: the matka, a kulhad, diyas, a flower pot, a gullak (piggy bank), a tawa-shaped clay pan, a clay idol. Line them up. Then read page 135 aloud and ask the book's two questions: 'What are these things made of?' (Clay, also called mitti.) 'Who has made them and how?' Let your child guess; write their guess down so you can check it later this week. Ask: 'What is the same about all of them?' (Reddish or brown colour, rough surface, they break if dropped.)"
+        },
+        {
+          "kind": "read",
+          "title": "A potter's family (pages 136–137)",
+          "mins": 10,
+          "do": "Read 'A potter's family' on pages 136 and 137 aloud: Mini watches her Appooppan (grandfather, in Malayalam) wet the clay, pound it, knead it like dough until it is neither too watery nor too dry, and shape it on a spinning stone wheel; Ammu (mother) bakes the dried pots in a kiln, and the family paint patterns on them. Pause after 'neither too watery nor too dry' and ask: 'What would happen if the clay was too watery?' (It would flop and lose its shape.) 'Too dry?' (It would crack and crumble.) Then ask the three questions on page 137: 'What are pots used for?' (Storing water, cooking, keeping grain, curd and pickles, growing plants.) 'What else do potters make?' (Kulhads, diyas, gullaks, flower pots, roof tiles, idols, toys, birdbaths.) 'Why is the pot baked in a kiln?' Let your child guess; say 'We will test this ourselves.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 2: Start making clay (page 138)",
+          "mins": 18,
+          "do": "Start Experiment e1, which is Activity 2 on page 138 (do it with an adult, as the book says). Go out with a small bucket and a trowel or old spoon and collect soil from a wet or muddy place: the edge of a garden bed, a pond bank, or under a dripping tap. At home, your child pushes the soil through a sieve or an old net (a mosquito net or a steel chalni) to remove pebbles, stones, leaves and roots. Put the sieved soil into a wide, flat vessel such as a big steel plate or a tub, and pour in water to cover it well. Stir with a stick. Ask your child to predict: 'If we leave this for a few days, what will happen to the mud and the water?' Draw the vessel now. Put it somewhere it will not be disturbed. We will look at it again on Days 2 and 3.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Helping like Mini (page 138)",
+          "mins": 6,
+          "do": "Read the top of page 138: Mini was too young to use the wheel, but she helped her grandfather make patterns and colour the pots, and her favourite clay thing was her piggy bank. Ask the book's question: 'In what ways do you help your parents and grandparents?' Make a list together: watering plants, folding clothes, setting plates, shelling peas, carrying shopping bags. Ask: 'Which job did you learn by watching someone, the way Mini learned by watching Appooppan?' Then ask your child to choose a gullak or other clay item and look closely at it: 'Can you see any marks left by the potter's fingers or the wheel?' (Often faint rings go round the pot, made as it spun.)"
+        }
+      ],
+      "need": ["Textbook pages 135–138", "clay things from home (matka, kulhad, diyas, gullak)", "a small bucket and a trowel or old spoon", "a sieve, steel chalni or piece of old net", "a wide flat vessel or tub", "water and a stirring stick", "notebook"],
+      "prep": [{"task": "Find a spot with damp, muddy soil (a garden bed, a pond bank or a park corner) where you are allowed to dig a little", "when": "2 days before"}]
+    },
+    {
+      "n": 2,
+      "title": "Visiting a potter",
+      "goal": "Watch a real potter at work on the wheel, find out how clay takes shape as it spins, and draw what we see.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Clay tub check",
+          "mins": 3,
+          "do": "Look at the clay tub from Experiment e1 without stirring it. Ask: 'What has happened?' Usually the water on top is clearer, and layers have formed at the bottom: coarse, gritty bits underneath and fine, smooth mud on top of them. Your child draws the layers. Do not pour off the water yet.",
+          "ref": "e1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 1: Visit a potter (page 137)",
+          "mins": 28,
+          "do": "Do Activity a1, which is Activity 1 on page 137. With an adult, visit a potter's workshop (kumhar) near you: there is usually one near a market, a temple or on the edge of town, and many sell diyas before Diwali. If you cannot visit, watch a video of a potter at work on the wheel together. Before you go, your child writes three questions to ask, for example: 'Where do you get your clay? How long does a pot take to make? How hot is your kiln? Who taught you?' At the workshop, watch how the potter throws a lump of wet clay on the centre of the spinning wheel, presses it into a smooth hump, pushes his thumbs in to open it and pulls the walls up with wet hands. Ask the book's question: 'How does clay take a beautiful shape on a spinning wheel?' Look at the drying pots, the kiln and the finished pots. If the potter allows it, your child can touch the wet clay or try shaping it. Buy one kulhad or small diya if you can; we will use it on Day 5. Say a big thank you.",
+          "ref": "a1"
+        },
+        {
+          "kind": "do",
+          "title": "Draw the potter's products (page 137)",
+          "mins": 9,
+          "do": "At home, your child draws in the box on page 137 the things they saw at the potter's place, and writes their names. Then ask the book's question: 'Which of the potter's products do you use at home?' Tick them. Ask your child to explain to you in their own words how the clay took shape on the wheel. Good answer: 'The wheel spins the clay round and round, so when the potter holds his hand still, his hand touches every part of the clay evenly. That makes the pot perfectly round.' Write down the answers the potter gave to your questions."
+        }
+      ],
+      "need": ["Textbook page 137", "an adult to go with, and travel to a local potter's workshop (or a video of a potter's wheel)", "a list of 3 questions", "a little money to buy a kulhad or diya", "notebook and colours"],
+      "prep": [{"task": "Find a local potter (kumhar) and check that you may visit and watch, or find a good video of a potter at the wheel", "when": "1 week before"}]
+    },
+    {
+      "n": 3,
+      "title": "Our own clay, and the order of pot making",
+      "goal": "Finish making our own clay, shape two objects and start a drying test, and put the steps of pot making in order.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Pour off the water and make dough",
+          "mins": 12,
+          "do": "Finish Experiment e1 (Activity 2, page 138). Gently tip the clay tub and pour away the clear water on top, as the book says. Feel the layers with your child: the top layer of mud is smooth and sticky (this is the clay), the bottom is gritty (sand and silt). Scoop off the smooth top layer onto newspaper. Leave it to dry a little in the shade for an hour or two if it is too runny, then knead it like atta until you can roll it into a ball that does not crack or stick to your hands, just as Appooppan did. Ask: 'Why did the sand sink to the bottom first?' (Sand grains are bigger and heavier, so they sink quickly; fine clay particles take much longer to settle.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Make two things and start the drying test",
+          "mins": 12,
+          "do": "As the book asks on page 138, your child makes any two things from their clay: a small pot or diya, a bead, a coin, a small animal. Then start Experiment e2: make two extra identical small balls of clay (about the size of a gooseberry, amla). Put one clay object and one ball in the sun and the other ball in the shade. Ask your child to predict: 'Which will dry first? Which might crack?' Check them on Day 5. If your own clay did not work well, use clay from a craft shop or a potter.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 3: Put it in order (page 139)",
+          "mins": 10,
+          "do": "Do Activity 3 at the top of page 139: number the six pictures from 1 to 6 in the correct order. Use Mini's story on pages 136–137 and what you saw at the potter's place to decide. Ask your child to say the reason for each number: 'Why must the pot dry before it goes into the kiln?' (If a wet pot goes into a very hot fire, the water inside turns to steam suddenly and the pot can crack or burst.) 'Why is the clay kneaded before it goes on the wheel?' (To make it smooth and even, without air bubbles or lumps.) Then your child writes the full process in the notebook, which also answers question A1 on page 147."
+        },
+        {
+          "kind": "talk",
+          "title": "Check our Day 1 guess",
+          "mins": 6,
+          "do": "Read your child's Day 1 guess about how a matka is made. Ask: 'What did you get right? What did you not know before?' Then ask: 'Who really made the matka?' Lead your child to see that many helped: the river or field that gave the clay, the water that softened it, the potter's hands and skill, the wheel, the sun that dried it and the fire that baked it."
+        }
+      ],
+      "need": ["Textbook pages 138–139", "the clay tub", "newspaper", "a sunny place and a shady place", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Patterns in nature and in Indian pottery",
+      "goal": "Find repeating patterns on plants, animals and things, learn why patterns in nature form, decorate objects with patterns, and look at pottery from across India.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Patterns in nature (page 139)",
+          "mins": 5,
+          "do": "Read 'Patterns in Nature' on page 139 aloud. Ask: 'What is a pattern?' (Something that repeats: shapes, lines or colours, again and again in a regular way.) Point to the examples: spots on a leopard, stripes on a squirrel, the leaves along a neem branch. Ask: 'Why do you think artists who paint pots get ideas from nature?' (Nature is full of beautiful, repeating shapes.) Then look at the patterns with repeating shapes and lines at the top of page 140 and ask your child to say what repeats in each one."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 4: Pattern hunt (page 140)",
+          "mins": 13,
+          "do": "Start Activity a2, which is Activity 4 on page 140. Go out to the balcony, garden or park with the book and a pencil. Your child looks for patterns on plants (the paired leaflets on a neem or curry-leaf stem, the spiral of seeds in a sunflower, veins in a leaf, rings on a cut tree stump, the scales of a pineapple), on animals (stripes on a squirrel, spots on a ladybird, the eyes on a peacock feather, scales on a fish, wing patterns on a butterfly, a snail shell's spiral) and on things (floor tiles, a grill, a saree border, a basket weave, the tread of a tyre). They draw a leaf pattern, an animal with a pattern and a pattern on a thing in the three boxes on page 140. Ask: 'Which pattern repeats in a line? Which goes round in a circle or a spiral?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Why does a leopard have spots? Alan Turing",
+          "mins": 7,
+          "do": "Tell the story in Voice v3. If you can, show photos of a leopard, a zebra and a pufferfish or angelfish on the phone. Draw a row of dots on paper, then show how dots that 'stop their neighbours from growing' end up spaced out evenly, like spots. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "do",
+          "title": "Decorate the pots and Indian pottery (page 141)",
+          "mins": 8,
+          "do": "Do the 'Decorate the given objects with patterns' task at the top of page 141: your child decorates each outline using a pattern they found today, repeating it at least four times. Then look at 'Patterns in Indian Pottery' on page 141 and tick the pots that have patterns, as the book asks. Tell your child that India has many famous pottery traditions, for example blue pottery of Jaipur, black Longpi pottery from Manipur, black pottery of Nizamabad in Uttar Pradesh, and the terracotta horses of Bankura in West Bengal. Ask: 'Which pot would you like to own? Why?' Finally, your child paints or scratches a pattern onto one of their own dried clay objects from Day 3 (Activity a2).",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 7,
+          "do": "Do Worksheet ws1 (core) sections A and B now; keep section C on bricks and houses for Day 6. Read aloud if needed, and mark it together. For any mistake, look back at the right page (pot making p136–138, patterns p139–141).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 139–141", "pencil and colours", "a phone for photos of patterned animals", "the dried clay objects from Day 3 and poster paint or a toothpick", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Brick by brick",
+      "goal": "Learn how bricks are shaped in moulds and baked in a kiln, find out why baked clay is so strong, follow Rohan watching a wall go up, and meet the brick-makers of the Indus cities.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Drying test and why we bake clay",
+          "mins": 10,
+          "do": "Check Experiment e2. Compare the sun-dried and shade-dried clay balls: which is drier and harder? Did either crack? Then answer the Day 1 question, 'Why is the pot baked in a kiln?', with a test. Take the sun-dried clay ball and the kulhad (or a broken piece of a clay pot or diya), which has been baked. Put each in a separate glass of water. Ask your child to predict what will happen. Wait 10 minutes, stirring once. The dried clay ball softens and starts to turn back into mud; the baked kulhad stays hard. Explain: the great heat of the kiln changes the clay for ever, so it can no longer go back to mud.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Brick by Brick (page 142)",
+          "mins": 6,
+          "do": "Read 'Brick by Brick' on page 142 aloud. Ask the book's questions: 'Where have you seen bricks?' (Walls, buildings being built, a brick kiln with a tall chimney on the highway, a garden edge.) 'Have you ever seen how bricks are made?' Read on: bricks are made of mud, like pots, and shaped in moulds, like idli, cake, dhokla or kulfi moulds. Bring an idli stand or kulfi mould from the kitchen and ask: 'Why does every idli come out the same shape?' (Because the mould shapes the batter.) 'Why does every brick come out the same size?' (The brick maker presses mud into the same wooden mould every time.) Ask: 'Why are bricks baked in a kiln, like pots?' (So they become hard and do not melt in the rain.)"
+        },
+        {
+          "kind": "do",
+          "title": "Make mini bricks",
+          "mins": 10,
+          "do": "Make bricks for Day 7's wall. Use an empty matchbox drawer (the inner tray) as a mould. Your child presses clay (or stiff atta dough, if you have no more clay) firmly into the tray, scrapes the top flat with a ruler, and taps it out onto a plate, just as a brick maker does with a wooden mould. Make at least 20 bricks. Dry them in the sun until Day 7. Ask: 'Are all your bricks the same size? Why does that matter when you build a wall?' (Bricks of the same size fit together in neat, level rows.)"
+        },
+        {
+          "kind": "read",
+          "title": "Rohan watches a wall (page 143)",
+          "mins": 5,
+          "do": "Read page 143 aloud: Rohan lives in Jaipur and loves watching his father and co-workers build. Look at the pictures of the wall growing day by day. Ask: 'What do the workers put between the bricks?' (Mortar, a wet paste of cement, sand and water, or in old buildings lime or mud, which hardens and glues the bricks.) 'How did one wall become a big building?' (Brick by brick, day after day, over months.) Ask: 'What does the saying \"brick by brick\" mean when we use it for other things, like learning to read?' (Small steps, one at a time, build something big.)"
+        },
+        {
+          "kind": "think",
+          "title": "The brick cities of the Indus Valley",
+          "mins": 9,
+          "do": "Tell the story in Voice v2. Measure one of your matchbox bricks with a ruler: thickness, width, length. Ask: 'Is your brick's length about twice its width? Is its width about twice its thickness?' Compare with the Harappan 1:2:4 brick. Then measure a real brick if you can find one near a building site or a garden edge. Ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Textbook pages 142–143", "the dried clay balls", "the kulhad from the potter (or a piece of broken clay pot) and 2 glasses of water", "an idli stand or kulfi mould", "5–6 empty matchboxes", "clay or stiff atta dough", "a ruler and a plate", "a real brick if available"],
+      "prep": [{"task": "Collect 5–6 empty matchboxes for brick moulds", "when": "1 week before"}]
+    },
+    {
+      "n": 6,
+      "title": "Houses of many kinds",
+      "goal": "Find out that houses are made of many materials, understand why mud houses keep cool, name different types of houses in India, and survey the houses in our neighbourhood.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Are all houses made of bricks? (page 144)",
+          "mins": 7,
+          "do": "Read page 144 aloud. Ask the questions at the top: 'Are all houses made of bricks?' (No.) 'What other materials are used to build houses?' (Mud, stone, wood, bamboo, grass and straw, cement and concrete, steel, glass, tin sheets, cloth for tents.) Read the paragraph on mud houses: in some warm areas people make mud houses that stay cool inside, use grass and wood, and plaster walls and floors with cow dung instead of cement. Ask: 'Why would thick mud walls keep a house cool?' (Mud takes a long time to heat up, so the heat of the day takes many hours to get through; by then it is night.) Tell your child honestly that the book says cow dung keeps out heat and insects; that is what many families who use it have found, though scientists have not tested the insect part very much."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 5: Name the house (page 145)",
+          "mins": 8,
+          "do": "Do Activity 5 on page 145. Look at each house picture and your child fills in the table: what this type of house is called and what it is made of. Help with names and materials such as: a kutcha mud house with a thatched roof (mud, cow dung, straw or grass); a houseboat (wood, as on the Dal Lake in Srinagar or the kettuvallam boats of Kerala); a stilt house raised on bamboo poles (bamboo, wood, grass), common in Assam and the North-East where rivers flood; an igloo (blocks of snow, built by Inuit people in the Arctic); a tent (cloth and poles, used by people who move with their animals); a pucca brick or concrete house or a tall apartment building (bricks, cement, steel, glass); a stone house in the hills (stone, wood, slate). Ask for each: 'Why do you think people there build this way?' (They use what is found nearby, and build for the weather: rain, floods, heat, snow.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Neighbourhood house survey (page 144)",
+          "mins": 12,
+          "do": "Start Activity a3, which answers question 2 on page 144: 'Look around at the houses in your neighbourhood. What are they made of?' Walk down your lane or around your building with your child for 10 minutes. For each building they record: type (house, flat, shop, school, temple), walls (brick, concrete, stone, mud, tin), roof (concrete slab, tiles, tin sheet, thatch), and anything special (a jaali screen, a sloping roof, a courtyard). Look for a building under construction from a safe distance: what can you see inside the walls? (Steel rods, bricks, cement.) At home, count: 'Which material did we see most?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Mud or concrete?",
+          "mins": 7,
+          "do": "Tell the story in Voice v4 (the debate about earth buildings and concrete). Then answer question 1 on page 144 in writing: 'Why do you think mud houses are better for the environment?' Good answers: mud is found locally and needs no factory; it does not need to be baked or burned like cement and bricks, so less fuel is burned and less smoke is made; an old mud house can melt back into the soil. Then ask the other side: 'What could be a problem with a mud house?' (It needs repairs after heavy rain and can be damaged in a flood.) Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: section C",
+          "mins": 6,
+          "do": "Finish Worksheet ws1 (core) section C on bricks and houses. Let your child use the house survey to answer the last item.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 144–145", "notebook and pencil for the survey", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Make a wall, and safety first",
+      "goal": "Build two model walls to test which arrangement of bricks is sturdier, hear how Laurie Baker built clever brick houses, learn why builders wear safety gear, and test how shape makes paper strong.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Book Activity 6: Make a wall (page 146)",
+          "mins": 12,
+          "do": "Do Experiment e3, which is Activity 6 on page 146. Use the dried matchbox bricks from Day 5 (or matchboxes stuffed with paper, or small paper boxes). Look at the two drawings in the book: in one, bricks are stacked straight on top of each other in columns; in the other, each row is shifted by half a brick, so every brick sits across two bricks below it. Your child builds both walls, each 4 bricks long and 5 rows high, side by side. Ask them to predict, as the book does: 'Which one is sturdier? Which one falls more easily when pushed?' Push each wall gently with one finger at the top, in the middle, with the same small push. Then answer the two questions in the book. Usually the stacked wall breaks into separate columns and falls easily; the staggered wall moves as one piece and is much harder to knock down.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Laurie Baker and the rat-trap wall",
+          "mins": 7,
+          "do": "Tell the story in Voice v1. Using four of your matchbox bricks, show how a rat-trap bond places bricks on their edge with a hollow space in the middle. Ask: 'What is inside the hollow?' (Air.) 'How could air inside a wall keep a house cooler?' (Air slows down heat passing through, like a blanket of air.) Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "read",
+          "title": "Safety first (page 146)",
+          "mins": 7,
+          "do": "Read 'Safety First' at the bottom of page 146 aloud: Rohan's father always wears a helmet with a strap, a safety vest and sturdy footwear. Ask why each one matters. Helmet: protects the head if a brick or tool falls from above; the strap keeps it on. Vest: bright colours and shiny strips so drivers and crane operators can see the worker. Sturdy shoes: protect feet from nails, falling bricks and sharp rods, and stop slipping. Then answer the book's questions: 'Are there safety rules at home?' (Do not touch switches with wet hands; keep away from the gas stove; do not climb on the balcony railing; keep medicines out of reach.) 'At school?' (Walk on stairs, do not push in a line, wear the helmet on a cycle, follow fire-drill rules.) Your child writes three home safety rules and sticks them on the fridge."
+        },
+        {
+          "kind": "game",
+          "title": "Inventor's Workshop: the paper bridge",
+          "mins": 9,
+          "do": "Play the DeepKids game Inventor's Workshop with Experiment e4 as the challenge card: 'Build a bridge from 2 sheets of paper between two books 15 cm apart that holds as many coins as possible.' Set a 7-minute timer. Your child first tests a flat sheet, then tries folding it into a zig-zag (like a fan), rolling it into tubes, or folding up the edges. Count how many one-rupee coins each design holds before it sags to the table. Record each try: what you changed and how many coins it held. Ask: 'It was the same paper every time. What made it stronger?' (Its shape.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet (part 1)",
+          "mins": 5,
+          "do": "Start Worksheet ws2 (stretch): do section A now while the wall test is fresh. Finish sections B and C at bedtime or tomorrow morning.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook page 146", "20 dried matchbox bricks, or matchboxes stuffed with paper", "a flat table", "4 sheets of A4 paper, 2 thick books, a ruler, 20 one-rupee coins", "a timer", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Meet a maker and the statues of our town",
+      "goal": "Interview a local craftsperson or toy maker, find out how everyday things like pencils are made, think about what statues are made of, and stretch our thinking with the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Interview a maker (page 147)",
+          "mins": 15,
+          "do": "Do Activity a4, based on Interview question D1 on page 147. Visit or phone someone near you who makes things by hand: a carpenter, a tailor, a basket maker, a cobbler, a goldsmith, a toy maker, a rangoli or mehndi artist, or a cook who makes papads. Your child prepares and asks: 'What do you make? What materials do you use and where do they come from? What tools do you use? How did you learn? What is the hardest part? How long does one piece take?' Your child writes or draws the answers and the tools. Ask afterwards: 'How is this person's work like the potter's work?' (They start with a natural material, use skill and tools, and make it into something useful and beautiful.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "How is a pencil made? (page 147)",
+          "mins": 6,
+          "do": "Do Interview question D2 on page 147: ask your elders how pencils, erasers, pens and notebooks are made, and then explain together. Break a pencil in half (an old one) and look inside: the 'lead' is not lead at all but graphite, a soft black mineral, mixed with clay and baked hard, and then glued between two strips of wood. The eraser is rubber, from the sap of rubber trees or made from petroleum. The notebook is paper, made by pulping wood or old paper with water, pressing it into thin sheets and drying it. Your child writes the steps for one object, as question A5 asks, in as much detail as possible. If you like, watch a short video together of a pencil or paper factory."
+        },
+        {
+          "kind": "talk",
+          "title": "Statues in our town (page 148)",
+          "mins": 7,
+          "do": "Look at the statues on page 148 and ask the book's questions: 'Have you seen statues in your town or city?' 'Are they made of the same clay that is used for pots and bricks?' Think of examples: Ganesh idols at Ganesh Chaturthi (often river clay called shaadu, or plaster of Paris), the terracotta horses of Bankura, bronze statues of leaders in a city square, carved stone statues in temples, marble statues. Ask: 'Why are idols for immersion better made of natural clay than plaster of Paris?' (Natural clay dissolves back into mud in water; plaster of Paris does not dissolve well and harms the water.) Link to the Day 5 test: 'Would a baked terracotta statue dissolve in water?' (No, because it has been baked.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do Worksheet ws3 (challenge), and finish sections B and C of ws2 if they were not done. In ws3, your child can answer the write items aloud while you write. In section C there is no single right answer; praise reasons that use evidence ('my staggered wall did not fall', 'the dried clay ball turned to mud').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 147–148", "a local craftsperson to visit or phone", "an old pencil to break", "notebook", "worksheets ws2 and ws3"],
+      "prep": [{"task": "Ask a local carpenter, tailor, toy maker or other craftsperson if your child may visit or call them with a few questions", "when": "2 days before"}]
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, draw three kinds of houses, check understanding, and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect: Write and Draw (page 147)",
+          "mins": 10,
+          "do": "Do Write questions A1–A4 on page 147 aloud, then your child writes short answers. A1: 'What is the process of pot making?' (Collect and clean clay, add water, pound and knead it, shape it on the wheel, dry it, bake it in a kiln, decorate it.) A2: 'How do artists get ideas for their art?' (From patterns in nature: leaves, flowers, animals, and from things around them.) A3: 'What is a kiln?' (A potter's oven with a very hot fire, used to bake pots and bricks hard.) A4: 'What are houses made of?' (Mud, bricks, stone, wood, bamboo, grass, cement, steel, glass, snow, cloth.) Then do Draw question B: three different kinds of houses, coloured."
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss (page 147)",
+          "mins": 6,
+          "do": "Ask Discuss questions C1–C3 on page 147. C1: 'Why do we have different kinds of houses?' (Different weather: rain, heat, snow and floods; different materials found nearby; different needs and money.) C2: 'Why do people wear helmets at construction sites?' (To protect their heads from falling bricks and tools.) C3: 'What would happen if there were no patterns in nature?' Let your child imagine: artists would have fewer ideas; some animals that hide using stripes and spots would be easy to see and catch; we would find it harder to recognise plants and animals."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page (pot making p136–138, patterns p139–141, bricks p142–143, houses p144–145, wall and safety p146) for one minute and ask again in different words. Six or more right is good; fewer than five means repeat the clay-in-water test and the wall test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 14,
+          "do": "Your child is the teacher; you, a sibling or a grandparent are the students. Using their own clay objects, the kulhad, the matchbox bricks and their drawings, they teach in 5–7 minutes: how clay is made into a pot (in order), why we bake clay, how bricks are made, why staggered bricks make a stronger wall, two kinds of houses and why they are built that way, and one safety rule for builders. They should rebuild the two walls and let the 'students' push them. Ask two 'student' questions: 'Why can't we put a wet pot straight into the kiln?' and 'Why do people in Assam build houses on stilts?' End by displaying their clay objects and the patterned pot on a shelf as a mini exhibition."
+        }
+      ],
+      "need": ["Textbook page 147", "the clay objects, kulhad, matchbox bricks and drawings from this week", "notebook and colours"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Pots, patterns, bricks and houses",
+      "day": 4,
+      "sections": [
+        ["A. Making a pot", [
+          {"t": "fill", "p": "The potter's oven, where pots are baked in a very hot fire, is called a ____.", "a": ["kiln"]},
+          {"t": "mcq", "p": "Appooppan made sure the clay was:", "opts": ["Very watery", "Very dry and crumbly", "Neither too watery nor too dry", "Full of stones"], "a": 2},
+          {"t": "write", "p": "Write the steps of making a clay pot in the correct order.", "lines": 4},
+          {"t": "mcq", "p": "Why is a pot baked in a kiln?", "opts": ["To change its colour only", "So it becomes hard and does not turn back into mud in water", "To make it lighter", "To make it smell nice"], "a": 1}
+        ]],
+        ["B. Patterns", [
+          {"t": "match", "p": "Match each animal to its pattern.", "pairs": [["Leopard", "Spots"], ["Squirrel", "Stripes on the back"], ["Peacock", "'Eyes' on its tail feathers"], ["Fish", "Overlapping scales"]]},
+          {"t": "draw", "p": "Draw a pot and decorate it with a pattern from a leaf or an animal. Repeat the pattern at least four times."}
+        ]],
+        ["C. Bricks and houses", [
+          {"t": "fill", "p": "Bricks are shaped in ____, just like idlis and kulfi.", "a": ["moulds", "mould", "molds", "mold"]},
+          {"t": "sort", "p": "Sort these things by what they are made of.", "items": ["Matka", "Brick", "Kulhad", "Bamboo stilt house", "Thatched roof", "Houseboat"], "cats": ["Clay or mud", "Bamboo, wood or grass"]},
+          {"t": "write", "p": "Write what most houses in your neighbourhood are made of.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Builders and makers",
+      "day": 7,
+      "sections": [
+        ["A. Wall test", [
+          {"t": "draw", "p": "Draw the two walls you built: bricks stacked straight on top of each other, and bricks shifted by half a brick in each row. Mark which one was sturdier."},
+          {"t": "write", "p": "Explain why the staggered wall is harder to push over. Use the words 'joins' and 'rows'.", "lines": 3},
+          {"t": "mcq", "p": "In the paper bridge test, the same sheet of paper held more coins after you folded it into a zig-zag. What made it stronger?", "opts": ["The paper got thicker", "Its shape", "The coins were lighter", "The books moved closer"], "a": 1}
+        ]],
+        ["B. The right house for the place", [
+          {"t": "match", "p": "Match each place to a house that suits it.", "pairs": [["A river valley in Assam that floods", "House on bamboo stilts"], ["A hot, dry village in Rajasthan", "Thick mud walls and a thatched roof"], ["The snowy Arctic", "Igloo of snow blocks"], ["People who move with their animals", "Tent"]]},
+          {"t": "write", "p": "Why might a family in a hill town build with stone rather than mud?", "lines": 2}
+        ]],
+        ["C. Clay science", [
+          {"t": "table", "p": "Write what happened in your clay tests.", "cols": ["Test", "What I guessed", "What happened"], "rows": 3, "prefill": ["Clay ball dried in sun vs shade", "Sun-dried clay ball in water", "Baked kulhad in water"]},
+          {"t": "write", "p": "When you left muddy water to settle, which layer was at the bottom and which was on top? Why?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Maker's puzzles and builders who thought differently",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "A potter puts a pot that is still damp into the hot kiln, and it cracks. Explain why.", "lines": 2},
+          {"t": "write", "p": "The Harappans made bricks in the ratio 1 : 2 : 4. If a brick is 7 cm thick, how wide and how long is it? Why might it help builders if every brick had the same ratio?", "lines": 3},
+          {"t": "mcq", "p": "Which wall uses fewer bricks for the same size and keeps a house cooler?", "opts": ["A solid wall of bricks laid flat", "A rat-trap bond wall with bricks on their edges and air gaps inside", "A wall of bricks stacked straight up", "A wall of glass"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if clay did not harden when baked? Name three things in your home that could not exist.", "lines": 3},
+          {"t": "write", "p": "What if all builders stopped wearing helmets? Write what could happen and what rule you would make.", "lines": 2}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some people say mud houses are best because they are cool and kind to the environment. Others say concrete houses are best because they are strong and need fewer repairs. Write one good point for each side and say which you would choose for a hot, dry village.", "lines": 4},
+          {"t": "write", "p": "Alan Turing said spots and stripes could form by themselves from simple chemical rules. Biologists ignored this for many years. What evidence do you think finally made them take it seriously?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Make your own clay (Book Activity 2, page 138)",
+      "day": 1,
+      "question": "How can we get smooth clay out of ordinary muddy soil?",
+      "need": ["a small bucket of soil from a wet or muddy place", "a trowel or old spoon", "a sieve, steel chalni or old net", "a wide flat vessel or tub", "water", "a stirring stick", "newspaper"],
+      "steps": [
+        "With an adult, collect soil from a wet or muddy place.",
+        "Push it through a sieve or net to remove pebbles, stones, sand grains, leaves and roots.",
+        "Put the sieved soil in the flat vessel and cover it well with water. Stir.",
+        "Leave it undisturbed for 2–3 days. Look at it each day and draw the layers.",
+        "Gently pour away the clear water on top.",
+        "Scoop off the smooth top layer of mud onto newspaper and let it dry until it is like stiff dough.",
+        "Knead it into a ball and shape two things from it. Dry them in the sun."
+      ],
+      "predict": "Ask your child to guess first: if we leave muddy water for a few days, will it stay muddy? Where will the mud go? Will all the mud be the same at the bottom?",
+      "observe": "The water slowly clears from the top. Layers form: gritty sand and silt at the bottom, and a smooth, sticky, fine layer of clay on top of them. The clay layer feels slippery between the fingers; the bottom layer feels rough.",
+      "why": "Soil is a mixture of particles of many sizes: pebbles, sand, silt and clay. Clay particles are the smallest of all, far too small to see one by one. In water, big heavy grains sink fast, so sand settles first at the bottom; the tiny clay particles sink very slowly and settle last, on top. This sorting by size is called settling. Clay is sticky and can be shaped because its tiny, flat particles slide over each other when wet, held together by the thin film of water between them, like wet glass slides sticking together. When it dries, the water goes and the particles lock together, so the shape holds.",
+      "safety": "Collect soil only where you are allowed, away from drains and garbage. Wear old clothes and wash hands well after handling soil.",
+      "time": "18 min to set up + checks over 2–3 days + 12 min to make the dough"
+    },
+    {
+      "id": "e2",
+      "title": "Why do we bake clay?",
+      "day": 3,
+      "question": "How does drying change clay, and why does a baked kulhad stay hard in water when dried clay does not?",
+      "need": ["3 small balls of clay of the same size", "a sunny spot and a shady spot", "a baked clay kulhad or a piece of broken clay pot or diya", "2 glasses of water"],
+      "steps": [
+        "Make two clay balls of the same size. Put one in the sun and one in the shade.",
+        "On Day 5, compare them: which is drier and harder? Did either crack?",
+        "Put the sun-dried clay ball in one glass of water.",
+        "Put the baked kulhad or a piece of baked pot in the other glass.",
+        "Wait 10 minutes, stirring each once. Then take them out and feel them."
+      ],
+      "predict": "Ask your child to guess first: which ball will dry faster? Will the dry clay ball stay hard in water? Will the kulhad?",
+      "observe": "The ball in the sun dries faster and may crack, especially on the outside. In water, the sun-dried clay ball softens, gets slimy on the outside and starts falling apart into mud. The baked kulhad stays hard and keeps its shape; it may get darker as it soaks up a little water.",
+      "why": "Drying only removes water from between the clay particles. If you add water back, the particles slip apart again and the clay goes back to mud. In the sun, the outside dries and shrinks faster than the inside, which can make cracks; potters dry pots slowly in the shade first to stop this. A kiln heats clay to many hundreds of degrees, far hotter than any cooking fire at home. At these temperatures (above about 600 °C) the clay particles change chemically and partly fuse together into a new hard material called ceramic, or terracotta ('baked earth'). This change cannot be undone, which is why a kulhad or a brick never turns back into mud, even after years of rain.",
+      "safety": "",
+      "time": "12 min to set up on Day 3 + 10 min test on Day 5"
+    },
+    {
+      "id": "e3",
+      "title": "Make a wall (Book Activity 6, page 146)",
+      "day": 7,
+      "question": "Which way of arranging bricks makes a sturdier wall: stacked straight up, or staggered by half a brick in each row?",
+      "need": ["about 20 dried matchbox clay bricks, matchboxes stuffed with paper, or small paper boxes", "a flat table"],
+      "steps": [
+        "Wall 1: build 4 columns of bricks, 5 bricks high, with every brick directly on top of the one below.",
+        "Wall 2: lay a row of 4 bricks. In the next row, shift every brick by half, so each sits across the join of two bricks below. Use half bricks at the ends if needed. Build 5 rows.",
+        "Push the top of each wall gently in the middle with one finger, using the same small push.",
+        "Push harder little by little and note when each wall falls and how it falls.",
+        "Repeat twice to be sure."
+      ],
+      "predict": "Ask your child to guess first, as page 146 asks: which wall is sturdier? Which one will fall more easily when pushed? Will it fall all at once or in pieces?",
+      "observe": "The straight-stacked wall splits into separate columns and topples easily. The staggered wall moves as one piece, needs a bigger push to fall, and often slides rather than breaks apart.",
+      "why": "In the stacked wall, the joins between bricks line up in straight lines from top to bottom, so the wall is really just separate thin towers standing side by side; each tower can fall on its own. In the staggered wall (builders call this a bond), every brick rests on two bricks below and holds two bricks above, so the joins never line up. A push on one brick is shared with its neighbours and spread across the whole wall, so the wall behaves like one strong block. This is why real brick walls are always built with staggered joins, and why the mortar between them makes them even stronger.",
+      "safety": "Build on a low table so falling bricks do not land on toes.",
+      "time": "12 min"
+    },
+    {
+      "id": "e4",
+      "title": "Paper bridge: does shape make things strong?",
+      "day": 7,
+      "question": "Can the same sheet of paper hold more weight if we change its shape?",
+      "need": ["4 sheets of A4 paper", "2 thick books of the same height", "a ruler", "20 one-rupee coins", "a timer"],
+      "steps": [
+        "Place the two books 15 cm apart.",
+        "Lay a flat sheet of paper across the gap. Add coins one at a time to the middle until it sags to the table. Count.",
+        "Fold a new sheet into a zig-zag like a hand fan and lay it across. Add coins and count.",
+        "Roll another sheet into a tight tube, or several thin tubes taped side by side. Test it.",
+        "Try your own design with the last sheet, such as folding up the two long edges.",
+        "Record each design and how many coins it held."
+      ],
+      "predict": "Ask your child to guess first: how many coins will a flat sheet hold? Will folding it make any difference?",
+      "observe": "A flat sheet sags with just one or two coins. A zig-zag sheet or rolled tubes can hold many more coins, often 10 or more, using exactly the same paper.",
+      "why": "A flat sheet is very thin, so it bends easily. When you fold it into a zig-zag or roll it into a tube, much of the paper stands up on its edge, and paper is far harder to bend along its edge than across its flat face. The folds also stop the sheet from bending in the middle. Engineers use the same idea: corrugated tin roofs, cardboard boxes with a wavy middle layer, steel rods in buildings and the hollow tubes of a bicycle frame are all strong because of their shape, not just because of their material.",
+      "safety": "",
+      "time": "9 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Visit a potter (Book Activity 1, page 137)",
+      "day": 2,
+      "mins": 28,
+      "need": ["an adult to go with", "a list of 3 questions", "notebook and pencil", "a little money to buy a kulhad or diya"],
+      "steps": [
+        "Find a potter's workshop near you and ask if you may watch.",
+        "Write three questions to ask the potter before you go.",
+        "Watch the potter centre a lump of clay on the spinning wheel, open it with the thumbs and pull up the walls.",
+        "Look at the drying pots, the kiln and the finished products.",
+        "Ask your questions and write down the answers.",
+        "If allowed, touch the wet clay or try shaping it.",
+        "Buy one kulhad or diya, and say thank you.",
+        "At home, draw the products you saw in the box on page 137."
+      ],
+      "outcome": "A first-hand look at a potter's work, answers from a real craftsperson, a drawing of the potter's products and a kulhad to use in our baking test."
+    },
+    {
+      "id": "a2",
+      "title": "Pattern hunt and patterned pot (Book Activity 4, page 140)",
+      "day": 4,
+      "mins": 21,
+      "need": ["the textbook page 140", "pencil and colours", "a dried clay object from Day 3", "poster paint and a thin brush, or a toothpick for scratching"],
+      "steps": [
+        "Go outside and look for patterns on plants, animals and things.",
+        "Draw one leaf pattern, one animal with a pattern and one pattern on a thing in the boxes on page 140.",
+        "Say whether each pattern repeats in a line, a grid, a circle or a spiral.",
+        "Decorate the outline objects on page 141 using your patterns.",
+        "Paint or scratch your favourite pattern around your own clay object, repeating it all the way round."
+      ],
+      "outcome": "Three drawn patterns from nature and the home, decorated outlines on page 141, and your child's own clay object decorated with a pattern, like Mini's piggy bank."
+    },
+    {
+      "id": "a3",
+      "title": "Neighbourhood house survey (page 144)",
+      "day": 6,
+      "mins": 12,
+      "need": ["notebook", "pencil", "an adult to walk with"],
+      "steps": [
+        "Make a table: Building, Type, Walls made of, Roof made of, Something special.",
+        "Walk along your lane or around your building for 10 minutes.",
+        "Fill in a row for each building you pass.",
+        "Look from a safe distance at any building under construction and note what you can see inside the walls.",
+        "At home, count which wall and roof materials you saw most often.",
+        "Write one sentence: 'Most houses near us are made of ____ because ____.'"
+      ],
+      "outcome": "A small survey of the buildings near home and a reasoned answer to the book's question 'What are the houses made of?'"
+    },
+    {
+      "id": "a4",
+      "title": "Interview a maker (page 147)",
+      "day": 8,
+      "mins": 15,
+      "need": ["a local craftsperson or toy maker to visit or phone", "a list of questions", "notebook and pencil"],
+      "steps": [
+        "Choose someone who makes things by hand: carpenter, tailor, basket maker, cobbler, goldsmith, toy maker.",
+        "Prepare questions: what they make, which materials and where from, which tools, how they learned, the hardest part, how long one piece takes.",
+        "Ask the questions politely and write or draw the answers.",
+        "Draw two of their tools and write what each tool does.",
+        "Compare their work with the potter's work: what is the same, what is different?",
+        "Share what you learned with the family at dinner."
+      ],
+      "outcome": "A written and drawn interview with a real local maker, and an understanding that every handmade thing starts with a natural material, tools and skill."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Laurie Baker (1917–2007), architect, born in England, lived and worked in Kerala, India",
+      "idea": "Laurie Baker came to India in 1945 and spent most of his life building in Kerala. He believed good homes could be built cheaply using local materials like brick, laterite stone, lime and tiles, without covering everything in cement and plaster. He used the 'rat-trap bond', in which bricks are laid on their edge so that the wall has hollow air spaces inside. This uses fewer bricks and less mortar, and the air inside the wall keeps the house cooler. He also used jaali walls of bricks with gaps to let breezes through.",
+      "then": "Many builders and officials thought his exposed brick walls looked unfinished and that houses with fewer bricks and less cement must be weak or only for poor people. He kept building schools, homes, churches and offices, which stood strong for decades.",
+      "now": "His ideas are widely respected. The rat-trap bond is now taught and studied in engineering and architecture colleges in India and used in many buildings because it saves bricks and money and keeps houses cooler. He became an Indian citizen in 1989, received the Padma Shri in 1990, and is often remembered as a pioneer of low-cost, climate-friendly building in India.",
+      "status": "accepted",
+      "ask": "People thought a wall with holes inside must be weaker. How could you test whether a rat-trap wall is strong enough? What would you measure?",
+      "day": 7
+    },
+    {
+      "id": "v2",
+      "who": "The brick-makers of the Harappan (Indus Valley) cities, about 4,500 years ago, India and Pakistan",
+      "idea": "In cities such as Harappa and Mohenjo-daro (now in Pakistan) and Lothal and Kalibangan (now in India), builders used huge numbers of bricks, both sun-dried and baked in kilns. Archaeologists measuring them found that many Harappan bricks have the same proportions, about 1 : 2 : 4 for thickness, width and length, across cities hundreds of kilometres apart. They built houses, wells, city walls, the Great Bath of Mohenjo-daro and covered drains along the streets with them.",
+      "then": "These cities were forgotten for thousands of years. When archaeologists dug them up in the 1920s, they were amazed by the planned streets, the drains and the standard bricks, which showed that people had shared measuring systems.",
+      "now": "Archaeologists accept that the Harappans used standard brick proportions and baked bricks on a large scale. The 1 : 2 : 4 ratio is clever: two bricks laid side by side are as wide as one brick is long, so bricks can be laid crossways and lengthways and still fit neatly, which makes strong, staggered walls easy to build. Some of their brick drains and walls still stand today.",
+      "status": "accepted",
+      "ask": "Bricks from cities hundreds of kilometres apart had the same proportions. What does that tell us about how people in those cities shared ideas? How could they have agreed on the same size without phones or rulers like ours?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Alan Turing (1912–1954), mathematician, England",
+      "idea": "Turing is famous for his ideas about computers, but in 1952 he also wrote a paper about how patterns like spots and stripes form on animals. He showed with mathematics that if two chemicals spread through a growing skin at different speeds, and one switches colour 'on' while the other switches it 'off', spots or stripes can appear all by themselves, evenly spaced, without anyone drawing them.",
+      "then": "For decades most biologists paid little attention to the idea. It was mainly mathematics, and there were no experiments on real animals to back it up. Turing died in 1954, only two years after publishing it.",
+      "now": "From the 1990s onwards, experiments began to support Turing's idea. In 1995 the Japanese scientists Shigeru Kondo and Rihito Asai showed that the stripes of an angelfish change as it grows in the way Turing's mathematics predicts, and later studies found Turing-type patterning in zebrafish stripes and in how fingers form in mice. Scientists now accept that Turing-type mechanisms make many natural patterns, though they still study which patterns work this way and which form in other ways.",
+      "status": "accepted",
+      "ask": "Turing's idea was right, but it took about 40 years for experiments to support it. Why do you think scientists wanted experiments with real animals, and not just mathematics, before they believed it?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Today's debate: earth buildings or concrete? (for example the Auroville Earth Institute, Tamil Nadu, and engineers who prefer concrete)",
+      "idea": "Some architects and builders in India argue that we should build much more with earth: mud, rammed earth, and compressed earth blocks, which are pressed in a machine with a little cement or lime added to make them stronger. The Auroville Earth Institute near Puducherry has spent decades building with and teaching about such blocks. They say earth is found locally, keeps houses cool, and does not need much burning like cement and fired bricks. Making cement releases a large amount of the world's carbon dioxide, a gas that warms the planet.",
+      "then": "In the last 60 years, concrete became the sign of a 'pucca', modern house in India. Many families, banks and building rules trust it more than mud, which is often seen as a material only for the poor.",
+      "now": "This is a live debate. Supporters show that well-designed earth buildings can be strong and long-lasting, and stay much cooler in summer. Engineers who prefer concrete point out that ordinary mud walls can be damaged by heavy rain and floods, need regular repairs, and must be specially designed to survive earthquakes, and that concrete is easy to build tall with. Many experts now suggest mixing the two: earth or stabilised blocks for walls, with strong foundations and roofs that protect them from rain.",
+      "status": "debated",
+      "ask": "If you were building a school in a hot, dry village that sometimes gets heavy rain, what would you build it from? What would you want to test before you decided?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "What are the steps of making a clay pot?", "a": "Collect clay and remove stones and leaves; add water and pound and knead it until it is neither too watery nor too dry; shape it on the potter's wheel; dry it; bake it in a kiln; decorate it with patterns."},
+    {"q": "What is a kiln, and why is a pot baked in it?", "a": "A potter's oven with a very hot fire. Baking changes the clay into hard terracotta, so it does not turn back into mud in water."},
+    {"q": "How did we make clay from soil?", "a": "We sieved the soil to remove stones and leaves, left it in water for a few days so the sand settled at the bottom and the fine clay on top, poured off the water and used the smooth top layer."},
+    {"q": "What is a pattern? Give one example from a plant and one from an animal.", "a": "Shapes, lines or colours that repeat in a regular way. For example, leaflets in pairs on a neem stem, veins on a leaf; stripes on a squirrel, spots on a leopard, eyes on a peacock's feathers."},
+    {"q": "How are bricks made?", "a": "Mud or clay is pressed into a mould to give it its shape, dried, and baked in a kiln so it becomes hard."},
+    {"q": "In our wall test, which wall was sturdier and why?", "a": "The staggered wall, where each brick sits across two bricks below. The joins do not line up, so the bricks hold each other and the whole wall acts as one piece."},
+    {"q": "Name three kinds of houses and what they are made of. Why are houses different in different places?", "a": "For example: mud house (mud, cow dung, grass), stilt house (bamboo and wood), houseboat (wood), igloo (snow), brick or concrete house (bricks, cement, steel). They differ because of the weather and the materials found nearby."},
+    {"q": "Why do construction workers wear helmets, safety vests and sturdy shoes?", "a": "Helmets protect the head from falling bricks and tools; bright vests help others see them; sturdy shoes protect the feet from nails, rods and falling objects and stop slipping."}
+  ]
+}

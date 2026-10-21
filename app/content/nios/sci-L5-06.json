@@ -1,0 +1,531 @@
+{
+  "key": "nios|sci|5|6",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 6,
+  "title": "Our Community and Public Administration",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 6 (lesson pages 94–109)",
+  "summary": "India is a democracy: government of the people, by the people and for the people, resting on every adult's vote. Your child learns how the Constitution divides power between the legislature (Parliament: Lok Sabha and Rajya Sabha), the executive (President, Prime Minister, ministers and officials) and the judiciary (the Supreme Court and other courts); how power is shared between the Centre and the states; and how villages (gram sabha, gram panchayat, block and district panchayats) and towns (councils, municipalities and corporations) govern themselves. They run family votes and a mock gram sabha, play a shared-resource game, and find out who their own representatives are.",
+  "goals": [
+    "By the end your child can explain what democracy means, why every vote matters, and who can vote in India and how.",
+    "By the end your child can name the three organs of government and say what each does, with an example from real life.",
+    "By the end your child can describe the Lok Sabha and Rajya Sabha (how members are chosen, how many, for how long) and explain how a Prime Minister and a coalition government are formed.",
+    "By the end your child can explain federalism: what the Centre and states each do, and the roles of the President, Governor, Prime Minister and Chief Minister.",
+    "By the end your child can describe the three levels of panchayat and the gram sabha, and list what a panchayat does for a village.",
+    "By the end your child can name the local body that runs their own town or village, find their ward or panchayat and their representatives, and suggest how a citizen can get a local problem solved."
+  ],
+  "words": [
+    ["democracy", "government of the people, by the people, for the people, where citizens choose their rulers by voting"],
+    ["constitution", "the basic book of rules for how a country is governed; India's came into force on 26 January 1950"],
+    ["franchise", "the right to vote"],
+    ["legislature", "the body that makes laws; at the Centre it is Parliament (Lok Sabha and Rajya Sabha)"],
+    ["executive", "the part of government that carries out laws and runs the country: the President, Prime Minister, ministers and officials"],
+    ["judiciary", "the courts, which settle disputes, explain the laws and protect the Constitution and citizens' rights"],
+    ["coalition", "a government formed by several parties together when no single party has a majority"],
+    ["federal", "a system where power is shared between a central government and state governments"],
+    ["local self-government", "local people running their own village or town through elected bodies such as panchayats and municipalities"],
+    ["gram sabha", "the meeting of all adult voters of a village panchayat area"],
+    ["ward", "one part of a town or city that elects one member to the local council"],
+    ["quorum", "the smallest number of members who must be present for a meeting's decisions to count"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Who runs things? Democracy and the vote",
+      "goal": "Discover that our daily services are run by elected governments, learn what democracy means, and test how voting rules change results.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Who fixes the streetlight?",
+          "mins": 7,
+          "do": "Walk to your gate or window with your child. Ask them to point to five things someone in government is responsible for: the street light, the road, the water tap or pipeline, the drain, the garbage collection, the school, the bus, the post box. For each, ask: 'If it breaks, who should fix it? Who pays for it?' Accept guesses, then say: 'This week we'll find out exactly who, and how we choose those people.'"
+        },
+        {
+          "kind": "read",
+          "title": "Three parts and many levels (lesson pages 94–95)",
+          "mins": 9,
+          "do": "Read the lesson opening and section 6.1 up to the Indian Voter's Day line. Draw three boxes: Legislature (makes laws), Executive (runs the administration), Judiciary (protects the Constitution and laws). Then the levels: Centre (Parliament), states (assemblies), villages (three levels of panchayat), towns (councils, municipalities, corporations). Explain 'of the people, by the people, for the people' (words made famous by Abraham Lincoln in 1863). Ask: 'Why is 26 January our Republic Day but 15 August our Independence Day?' (15 August 1947 we became free; on 26 January 1950 our own Constitution came into force and India became a republic with an elected head of state.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Family vote: does the rule change the winner?",
+          "mins": 15,
+          "do": "Do Experiment e1. Hold a family vote on Sunday's dinner with three or four choices, first by 'most votes wins' and then by a run-off between the top two, and see whether the winner changes. Ask your child to predict first.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Every adult votes",
+          "mins": 9,
+          "do": "Read the book's paragraph about people not using their vote. Correct two facts: National Voters' Day is 25 January (since 2011), not 1 January; and turnout is not 'very low': about two-thirds of voters (around 66–67%) voted in the 2019 and 2024 Lok Sabha elections, though some cities have much lower turnout. Then tell the story of Voice v1, India's first election and universal adult franchise. Show your child a party symbol on a poster or online and ask why symbols were used. Ask the 'ask' question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "Single citizenship",
+          "mins": 5,
+          "do": "Read the paragraph on states and single citizenship. Ask: 'If your cousin moves from Bihar to Karnataka, does she need a new citizenship?' (No; we are all citizens of India, with the same rights in every state.) Then ask your child to repeat the meaning of democracy in their own words."
+        }
+      ],
+      "need": ["Lesson pages 94–95", "paper slips for voting", "a box or bowl as a ballot box", "a party symbol on a poster or online (optional)"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Parliament: Lok Sabha and Rajya Sabha",
+      "goal": "Learn how Parliament is made up, how laws are passed and how a Prime Minister and government are formed.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Lok Sabha (lesson pages 95–96)",
+          "mins": 10,
+          "do": "Read 6.1.1 and the Lok Sabha part. Explain: Lok Sabha means 'House of the People'. Its members (MPs) are elected directly by all registered voters aged 18 and over, one from each constituency, in elections run by the Election Commission of India; its term is five years. Update the number: there are 543 elected seats today (the book's 545 included 2 nominated Anglo-Indian members, a provision that ended in 2020). Laws must be passed by both houses and signed by the President. Ask: 'Why shouldn't more than six months pass between two sessions?' (So the government always has to answer to the people's representatives.)"
+        },
+        {
+          "kind": "do",
+          "title": "The magic number",
+          "mins": 9,
+          "do": "Do the majority maths with your child. 'If there are 543 seats, how many does a party need for a majority, more than half?' (543 ÷ 2 = 271.5, so 272.) Use 54 buttons or beans as a mini Lok Sabha (1 bean = 10 seats). Make three 'parties': A gets 24 beans, B gets 18, C gets 12. Ask: 'Does any party have more than half (more than 27)?' (No.) 'Which two could join to form a coalition?' (A + B = 42, A + C = 36, or B + C = 30: all are over 27.) Read the book's part on coalition governments, the ruling party and the opposition. Ask: 'Why is a strong opposition good for democracy?' (It questions the government and offers voters a choice.)"
+        },
+        {
+          "kind": "read",
+          "title": "The Rajya Sabha (lesson page 96)",
+          "mins": 7,
+          "do": "Read the Rajya Sabha part. 'Council of States': its members are elected by the members of state legislative assemblies, so the people choose them indirectly. States with more people get more seats (Uttar Pradesh has 31; small states such as Goa have 1). It can have up to 250 members, 12 of them nominated by the President for their work in art, literature, science or social service; at present it has 245. It is never dissolved: one-third of members retire every two years, and each serves six years. Ask: 'Why have a house that never ends all at once?' (It keeps experience and continuity, and gives the states a voice.)"
+        },
+        {
+          "kind": "act",
+          "title": "Draw the government chart",
+          "mins": 14,
+          "do": "Start Activity a2. On chart paper, your child draws a big tree: the trunk is 'The Constitution'; three big branches are Legislature, Executive and Judiciary. Under Legislature: Parliament (Lok Sabha, 543 elected, 5 years; Rajya Sabha, up to 250, 6 years) and, at state level, the Vidhan Sabha. Leave space for the executive and judiciary tomorrow, and for local bodies on Days 4–6. Use the real names: the current President, Prime Minister, your state's Chief Minister and Governor, which you can look up together.",
+          "ref": "a2"
+        },
+        {
+          "kind": "review",
+          "title": "Lok or Rajya?",
+          "mins": 5,
+          "do": "Quick quiz: 'Elected directly by people?' (Lok.) 'Elected by MLAs?' (Rajya.) 'Five-year term for the whole house?' (Lok.) 'Never dissolved?' (Rajya.) 'Has 12 nominated members?' (Rajya.) 'The party with a majority here forms the government?' (Lok.)"
+        }
+      ],
+      "need": ["Lesson pages 95–96", "54 beans or buttons", "chart paper and sketch pens", "phone or newspaper to look up current office-holders"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "The executive, the judiciary and the states",
+      "goal": "Learn who runs the country and who protects the Constitution, and how power is shared between the Centre and the states.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The executive (lesson page 96)",
+          "mins": 8,
+          "do": "Read 6.1.2. The President is the constitutional head: the government works in the President's name, but real power is used by the Prime Minister and the Council of Ministers. Add: the President is elected for five years by MPs and MLAs, and government employees (from the clerk in the post office to the district collector) are also part of the executive. Ask: 'If the President signs everything, why do we say the Prime Minister has the real power?' (The President acts on the advice of the Prime Minister and the cabinet, who answer to the elected Lok Sabha.)"
+        },
+        {
+          "kind": "read",
+          "title": "The judiciary (lesson page 97)",
+          "mins": 8,
+          "do": "Read 6.1.3. The Supreme Court in New Delhi is the highest court; it has a Chief Justice and other judges appointed by the President; its rulings bind all courts; it protects citizens' fundamental rights. Below it are the High Courts in the states and district courts. Ask: 'Why should judges be independent of the government?' (So they can rule fairly even when the government itself is wrong.) Link to Lesson 1: the Supreme Court's 1996 Taj Mahal judgment ordered factories to change fuel."
+        },
+        {
+          "kind": "read",
+          "title": "Federal governance (lesson page 97)",
+          "mins": 9,
+          "do": "Read 6.1.4. Make a two-column chart: Centre – President, Prime Minister, Parliament, Supreme Court; State – Governor, Chief Minister, Legislative Assembly (Vidhan Sabha), High Court. Only six states also have a Legislative Council (Vidhan Parishad), such as Maharashtra, Karnataka, Bihar and Uttar Pradesh. Explain the three lists in the Constitution: things only the Centre handles (defence, railways, currency, foreign affairs), things only states handle (police, state roads, local government, public health), and things both handle (education, forests). If both make clashing laws on a shared subject, the Centre's law wins. One correction: the book says High Courts have the same powers as the Supreme Court; they have similar powers within their states, but the Supreme Court is above them. Ask: 'Who runs our police: the Centre or our state?' (The state.)"
+        },
+        {
+          "kind": "act",
+          "title": "Finish the top of the chart",
+          "mins": 6,
+          "do": "Add the executive and judiciary branches and a 'State' level to the Activity a2 chart, with the real names you looked up.",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 6.1 and core worksheet",
+          "mins": 14,
+          "do": "Do 'Let's see, what you have learnt 6.1' aloud. I: the book's 7 union territories (today 28 states and 8 UTs); 15 August 1947; republic; Prime Minister; divided. II: Legislature – Parliament; single – citizenship; Rajya Sabha – 6 years; Supreme Court – judiciary; 5 years – Lok Sabha. III: laws; council; executive; democracy; 5 years. Then your child does core worksheet ws1.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 96–98", "the government chart", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Village self-government: the gram sabha and panchayat",
+      "goal": "Learn how villages govern themselves through the gram sabha and gram panchayat, and hold a mock gram sabha at home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Rural public administration (lesson pages 98–99)",
+          "mins": 8,
+          "do": "Read 6.2.1 and 6.2.2. Local self-government means local people running their own affairs. India has about 2.5 lakh gram panchayats. Three levels: gram panchayat (village), panchayat samiti (block), zila parishad (district). A gram panchayat may cover one large village or several small ones. Tell your child that panchayats got a firm place in the Constitution through the 73rd Amendment of 1992, and that rules such as population limits differ from state to state; the book gives one state's example."
+        },
+        {
+          "kind": "read",
+          "title": "Gram sabha, panches and sarpanch (lesson pages 99–100)",
+          "mins": 10,
+          "do": "Read about the gram sabha: every adult voter of the village is a member; at least four meetings a year, on 26 January, 1 May, 15 August and 2 October; a quorum of 10% of members; decisions by majority; it hears the accounts, audit report, budget and development plans. Then the panchayat committee: panches and the sarpanch (village head) are elected by all voters for five years; a candidate must be at least 21; 9 to 15 panches depending on population; one-third of seats (half in many states) reserved for women, and seats for SC and ST members by population; the panches elect a deputy head. A sarpanch can be removed by a two-thirds 'no-confidence motion', but not within a year of the election. Ask: 'Why have a gram sabha of everyone, not just the elected panches?' (So ordinary villagers can question the panchayat and check how money is spent.)"
+        },
+        {
+          "kind": "act",
+          "title": "Mock gram sabha",
+          "mins": 17,
+          "do": "Do Activity a1. Hold a 'gram sabha' of your household (and perhaps a neighbour's family). Your child is the sarpanch. Check the quorum, read the agenda, present a small 'budget' of ₹500 of pretend money, take questions, and pass a resolution by majority vote on one real household or building issue (for example, how to reduce plastic, or where to put a plant pot).",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Gandhi and Ambedkar on the village",
+          "mins": 10,
+          "do": "Read Voice v2 about the debate between Gandhiji's 'gram swaraj' and Dr Ambedkar's worries about village rule. Ask the 'ask' question. Link it to your mock gram sabha: 'Did everyone get a fair say in ours? Who spoke most?'",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Lesson pages 98–100", "a notebook for minutes", "pretend money (paper notes)", "family members or neighbours"],
+      "prep": [{"task": "Ask family members (and a neighbour, if possible) to attend a 15-minute mock gram sabha", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "What panchayats do, and sharing common land",
+      "goal": "Learn the work of the panchayat and the block and district panchayats, and test how a community can share a common resource without using it up.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Duties of the gram panchayat (lesson pages 100–101)",
+          "mins": 7,
+          "do": "Read 6.2.3 aloud. Group the 13 duties with your child: Health and cleanliness (lights and cleanliness, clean drinking water, health services, biogas and smokeless chulhas); Records and welfare (registering births and deaths, pensions for widows, the old and the helpless, fair price shops); Land and nature (removing illegal occupation of public land, forests and tree planting, barren land and pastures, land for new houses); Livelihood and fun (village and cottage industries, fairs and festivals). Ask: 'Which of these does our municipality or panchayat do for us?'"
+        },
+        {
+          "kind": "exp",
+          "title": "The village pasture game",
+          "mins": 14,
+          "do": "Do Experiment e2. Play two rounds of the shared-pasture game with 3–4 players and a bowl of beans, first with no rules and then with rules the players agree on, and compare what happens to the pasture. Ask for predictions first.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Elinor Ostrom and the commons",
+          "mins": 7,
+          "do": "Read Voice v3 about Garrett Hardin and Elinor Ostrom. Ask the 'ask' question. Connect: the panchayat's duty to develop 'barren land and pastures for grazing' and forests is exactly the kind of shared resource Ostrom studied.",
+          "ref": "v3"
+        },
+        {
+          "kind": "read",
+          "title": "Block and district panchayats (lesson pages 101–102)",
+          "mins": 7,
+          "do": "Read 6.2.4 and 6.2.5. Many village panchayats make a block (panchayat samiti); its members are elected from parts of the block, plus sarpanches, MPs and MLAs of the area, and they choose a block head. Every district has a district panchayat (zila parishad), which plans development for the whole district; its elected members choose a chairperson (the book says 'Block President', a slip). All have five-year terms. Add these to the Activity a2 chart as the 'local' level.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "When women lead the panchayat",
+          "mins": 5,
+          "do": "Read Voice v4 about the study of women sarpanches. Ask the 'ask' question."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 6.2 (lesson page 102)",
+          "mins": 5,
+          "do": "Do 'Let's see, what you have learnt 6.2' aloud. I: gram sabha; ten; 21; the panchayat committee; meeting. II: correct; wrong (at least four meetings a year, not every month); correct; wrong (registering births and deaths is a panchayat duty); correct (panchayats can collect some taxes and fees and also get grants).",
+          "ref": "v4"
+        }
+      ],
+      "need": ["Lesson pages 100–102", "a bowl and about 60 beans or chickpeas", "3–4 players", "the government chart"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Town and city government, and our own representatives",
+      "goal": "Learn how towns and cities govern themselves, find out your own ward and representatives, and write to them about a real problem.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Urban public administration (lesson pages 102–103)",
+          "mins": 10,
+          "do": "Read 6.3. Smaller towns have a nagar panchayat or town council; middle-sized towns have a municipal council (nagar palika); big cities have a municipal corporation (nagar nigam). The book gives one set of population limits and member numbers; tell your child these differ from state to state, as set by the 74th Amendment (1992) and state laws. Each town is divided into wards and each ward elects one councillor. The head of a corporation is the Mayor; in some states voters elect the Mayor directly, and the Mayor's term varies (one year in some cities, two and a half or five in others). The real day-to-day running is often done by an appointed Municipal Commissioner. Local bodies collect property tax, water charges and other fees, and get grants from the state. Ask: 'Which kind of body runs our town or city?'"
+        },
+        {
+          "kind": "act",
+          "title": "Who represents us?",
+          "mins": 14,
+          "do": "Do Activity a3. With your child, look at a family voter ID card or electricity or property tax bill and search the State Election Commission or your municipality's website, or ask a neighbour, to find: your ward or panchayat name and number, your councillor or sarpanch, your MLA and constituency, your MP and Lok Sabha constituency. Write all of them on the Activity a2 chart, so the chart now goes from the Constitution all the way down to your own street.",
+          "ref": "a3"
+        },
+        {
+          "kind": "act",
+          "title": "Write to the councillor",
+          "mins": 11,
+          "do": "Do Activity a4, the book's 'Come, let's do' task in a home-friendly form. Your child chooses one real problem from Day 1's walk (a broken streetlight, an overflowing drain, a garbage spot), takes a photo, and writes a polite letter or email to the councillor or sarpanch: what the problem is, where exactly, since when, and what they request. You help send it (by email, the municipal app or helpline, or by hand at the ward office). Keep a copy to check for a reply.",
+          "ref": "a4"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 6.3 and stretch worksheet",
+          "mins": 10,
+          "do": "Do 'Let's see, what you have learnt 6.3' aloud. I: self-government (self-rule); reserved; elects; grant; five (in many cities, but it varies). II: city council member – 5 years; ward – voter; grant – money; drains – clean; presided – over meetings. III: one member; 18 years; Mayor; 25 years (as in the book's example); from taxes. Then your child starts stretch worksheet ws2.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Lesson pages 102–104", "a voter ID card, or a municipal tax or electricity bill", "phone or computer", "paper or email for the letter", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Revise, check and teach it back",
+      "goal": "Review the lesson with the book's exercise, finish the worksheets, check understanding and teach how India is governed using the chart.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (lesson pages 104–107)",
+          "mins": 10,
+          "do": "Read 'Let's Revise', updating 545 to 543 and noting the Rajya Sabha now has 245 of its maximum 250. Exercise aloud. I: correct; wrong (independence was 15 August 1947; 26 January 1950 is when the Constitution began); correct; wrong (the executive runs the administration); correct. II: 15 August – independence; Rajya Sabha – 6 years; 545 members – Lok Sabha; Governor – 5 years; 2 lakh – panchayats. III: basis; three; Rajya Sabha; chief (head); people (citizens). IV: legislature makes laws, executive carries them out, judiciary interprets them and protects the Constitution. V: right to vote; 18 years; the book says low, but discuss: about two-thirds vote; important. VII: 18 years; it was 21 until the 61st Amendment of 1988. VIII: 26 January, 1 May, 15 August, 2 October."
+        },
+        {
+          "kind": "ws",
+          "title": "Finish stretch, try challenge",
+          "mins": 12,
+          "do": "Your child finishes stretch worksheet ws2, then does challenge worksheet ws3 with you. Praise answers that consider fairness and more than one view.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 10,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick good answers. For any miss, point to the right part of the government chart and ask again. Six or more right is good."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back with the chart",
+          "mins": 13,
+          "do": "Your child is the teacher. Using the government chart from Activity a2, the bean Lok Sabha and the letter they wrote, they explain in five minutes how a law is made, how a Prime Minister is chosen, what courts do, and how our street's problem can reach the right person. Ask two 'student' questions: 'If I don't vote, does it matter?' and 'Who should I complain to about a pothole on my street: the Prime Minister?' (No, the local councillor or municipality.)",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Lesson pages 104–107", "worksheets ws2 and ws3", "the government chart", "the bean Lok Sabha", "a copy of the letter"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "How India is governed",
+      "day": 3,
+      "sections": [
+        ["A. Democracy and voting", [
+          {"t": "fill", "p": "Democracy is government of the people, by the people and ____ the people.", "a": ["for"]},
+          {"t": "fill", "p": "In India, every citizen aged ____ or above whose name is on the voters' list can vote.", "a": ["18", "eighteen"]},
+          {"t": "mcq", "p": "India's Constitution came into force on:", "opts": ["15 August 1947", "26 January 1950", "2 October 1869", "1 May 1960"], "a": 1}
+        ]],
+        ["B. Three organs", [
+          {"t": "match", "p": "Match each organ to its job.", "pairs": [["Legislature", "Makes laws"], ["Executive", "Carries out laws and runs the country"], ["Judiciary", "Explains laws and protects the Constitution"]]},
+          {"t": "sort", "p": "Sort these into the organ they belong to.", "items": ["Lok Sabha", "Rajya Sabha", "Prime Minister", "District collector", "Supreme Court", "High Court"], "cats": ["Legislature", "Executive", "Judiciary"]}
+        ]],
+        ["C. Parliament and states", [
+          {"t": "match", "p": "Match each to its term.", "pairs": [["Lok Sabha", "5 years"], ["Rajya Sabha member", "6 years"], ["Governor (usually)", "5 years"]]},
+          {"t": "mcq", "p": "Members of the Rajya Sabha are elected by:", "opts": ["all voters directly", "members of the state legislative assemblies", "the Prime Minister", "the Supreme Court"], "a": 1},
+          {"t": "fill", "p": "In a state, the head of the government who leads the ministers is the Chief ____.", "a": ["Minister"]},
+          {"t": "fill", "p": "If no party has a majority, several parties may form a ____ government.", "a": ["coalition"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Local government in action",
+      "day": 6,
+      "sections": [
+        ["A. Who does what?", [
+          {"t": "sort", "p": "Who would you contact first for each problem?", "items": ["A broken streetlight in a city", "A village hand-pump not working", "A new national law on the internet", "Police not taking a complaint", "Registering a baby's birth in a village", "Garbage not collected in a town"], "cats": ["Municipality or councillor", "Gram panchayat", "Parliament or MP", "State government"]},
+          {"t": "mcq", "p": "A gram sabha has 600 members. With a quorum of 10%, at least how many must attend for its decisions to count?", "opts": ["6", "60", "100", "300"], "a": 1}
+        ]],
+        ["B. Numbers", [
+          {"t": "write", "p": "The Lok Sabha has 543 elected seats. Party P wins 240 and Party Q wins 60 who agree to support P. Can they form a government? Show your working.", "lines": 3},
+          {"t": "table", "p": "Fill in your own representatives.", "cols": ["Level", "Body", "Name of my representative"], "rows": 4, "prefill": ["Local (ward or panchayat)", "State", "Centre (Lok Sabha)", "Head of state government"]}
+        ]],
+        ["C. Explain", [
+          {"t": "write", "p": "Your family vote: did the winner change when you used a run-off? What does this tell you about voting rules?", "lines": 3},
+          {"t": "write", "p": "In the pasture game, what happened without rules, and what changed with rules? Which panchayat duty is like this game?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking about democracy",
+      "day": 7,
+      "sections": [
+        ["A. Different views", [
+          {"t": "write", "p": "Gandhiji wanted villages to govern themselves; Dr Ambedkar worried that powerful groups in a village could treat others unfairly. Write one point for each, and say how the reservation of panchayat seats tries to answer Ambedkar's worry.", "lines": 5},
+          {"t": "write", "p": "In 1951 some people said India's adults could not vote wisely because most could not read. Using the lesson, write how India answered this, and whether you think they were right.", "lines": 4}
+        ]],
+        ["B. Puzzles", [
+          {"t": "mcq", "p": "In a ward election, A gets 400 votes, B gets 350 and C gets 300. A wins. Which is true?", "opts": ["A won more than half of all votes", "A won, though most voters chose someone else", "B should win", "There was no winner"], "a": 1},
+          {"t": "write", "p": "Why do you think the Constitution says the President is elected but acts on the advice of the Prime Minister and cabinet? What could go wrong if the President could do anything alone?", "lines": 3}
+        ]],
+        ["C. Your view", [
+          {"t": "write", "p": "Should the voting age be lowered to 16? Give one argument for and one against, then your view.", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Does the voting rule change the winner?",
+      "day": 1,
+      "question": "With the same voters and the same choices, can different voting rules give different winners?",
+      "need": ["paper slips", "a box or bowl (ballot box)", "at least 5 voters (family, neighbours, or let soft toys 'vote' using cards you pre-write)", "a pencil and paper"],
+      "steps": [
+        "Agree on 3 or 4 choices for Sunday dinner, for example dosa, rajma-chawal, pulao, pav bhaji.",
+        "Round 1, 'most votes wins': each voter secretly writes one choice and drops it in the box. Your child counts aloud and records the votes.",
+        "Is the winner supported by more than half the voters? Note it.",
+        "Round 2, 'run-off': take the top two from Round 1 and vote again between just those two.",
+        "Compare the two winners. If you have only a few voters, also try adding pre-written 'voter cards' for imaginary relatives with their first and second choices, to see a bigger effect."
+      ],
+      "predict": "Ask your child to guess first: will the same dish win under both rules?",
+      "observe": "Often the same dish wins both times; but sometimes the Round 1 winner had fewer than half the votes, and in the run-off the voters whose favourite was knocked out switch to the other dish, so a different dish wins.",
+      "why": "When there are more than two choices, the 'most votes wins' rule (first-past-the-post, which India uses for Lok Sabha and assembly elections) can choose a winner whom most voters did not pick first, because the other voters' support is split. A run-off makes the winner show majority support, but takes more effort. Neither rule is perfect: mathematicians have shown that every voting method has some weakness. That is why the rules of an election are written in the Constitution and laws, decided in advance, and the same for everyone. India's Rajya Sabha and President are elected with a different method (the single transferable vote), where voters rank candidates.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "The village pasture game",
+      "day": 5,
+      "question": "When a shared resource (a pasture, a pond, a forest) belongs to everyone, does it get used up? Do rules made by the users themselves help?",
+      "need": ["a bowl", "about 60 beans, chickpeas or buttons", "3–4 players", "paper to record"],
+      "steps": [
+        "Put 20 beans in the bowl: this is the village pasture. Each bean is grass for one cow for a season.",
+        "Rules of nature: after each round, the grass left in the bowl grows back: add as many beans as are left (it doubles), up to a maximum of 20.",
+        "Round set 1 (no rules): each player secretly decides how many beans to take (0–5) and grabs them at the same time. Each bean taken is worth ₹10 of milk. Do 5 rounds or until the pasture is empty, recording what is left each time.",
+        "Reset to 20. Round set 2 (village rules): players first talk and agree a rule, for example each takes at most 2 a round, and choose one player as the watcher who checks. Play 5 rounds again.",
+        "Compare total beans (milk money) earned by everyone in set 1 and set 2, and how much pasture is left."
+      ],
+      "predict": "Ask your child to guess first: in which round set will the village earn more in total, and in which will the pasture survive?",
+      "observe": "Without rules, players often grab a lot early, the pasture shrinks and soon hits zero, so it stops regrowing and everyone loses. With agreed limits, the pasture stays near full and regrows each round, and the total earned over five rounds is usually higher.",
+      "why": "A resource that everyone can use but no one owns, such as a village pasture, groundwater, a fishing pond or a forest, is called a 'commons'. If each person takes as much as they can, it is good for them in the short run, but together they can destroy it; this was called 'the tragedy of the commons'. Because grass, fish and trees grow back only from what is left, over-use ruins the future. When users talk, agree fair limits, watch each other and have a way to settle disputes, the resource can last for generations. This is why panchayats have duties to protect pastures and forests, and why village forest committees and water user groups exist in many parts of India.",
+      "safety": "Don't eat the beans; wash hands after the game.",
+      "time": "14 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Mock gram sabha",
+      "day": 4,
+      "mins": 17,
+      "need": ["family members (and a neighbour's family if possible)", "a notebook for minutes", "₹500 of paper 'money'", "a written agenda"],
+      "steps": [
+        "Your child is sarpanch; another person is secretary (writes minutes).",
+        "Count members present. Is the quorum met? (Agree it must be at least half, since your group is small.)",
+        "Agenda item 1: the sarpanch presents last month's 'accounts': how the ₹500 was planned to be spent (for example on plants, a dustbin, a first-aid box).",
+        "Agenda item 2: members ask questions and make suggestions on one real issue, such as reducing plastic use or a cleaner stairwell.",
+        "Agenda item 3: pass a resolution by majority vote, and write it down with the date.",
+        "Close with a plan: who will do what by when."
+      ],
+      "outcome": "A written resolution with minutes, and first-hand experience of how a gram sabha lets ordinary people question leaders and decide together."
+    },
+    {
+      "id": "a2",
+      "title": "From the Constitution to our street: government chart",
+      "day": 2,
+      "mins": 14,
+      "need": ["large chart paper", "sketch pens", "phone or newspaper to look up names"],
+      "steps": [
+        "Draw a tree with 'The Constitution' as the trunk.",
+        "Day 2: legislature branch: Lok Sabha and Rajya Sabha, with numbers and terms; your state's Vidhan Sabha.",
+        "Day 3: executive branch (President, Prime Minister and ministers; Governor, Chief Minister) and judiciary branch (Supreme Court, High Court, district courts), with current names.",
+        "Day 5: local roots: gram panchayat, panchayat samiti, zila parishad, and nagar panchayat, municipal council, municipal corporation.",
+        "Day 6: add your own ward or panchayat, councillor or sarpanch, MLA and MP."
+      ],
+      "outcome": "One chart showing the whole system of government from the Constitution to your own street, with real names, to use for teach-back."
+    },
+    {
+      "id": "a3",
+      "title": "Who represents us?",
+      "day": 6,
+      "mins": 14,
+      "need": ["a family voter ID card, property tax or electricity bill", "the State Election Commission or municipal website, or an elder or neighbour"],
+      "steps": [
+        "Find your polling station and assembly and Lok Sabha constituency (printed on or linked from the voter ID).",
+        "Find your ward or panchayat name and number.",
+        "Look up the names of your councillor or sarpanch, MLA and MP.",
+        "Find the office address or helpline for complaints in your town or village.",
+        "Write all of it on the government chart."
+      ],
+      "outcome": "Your child knows who their elected representatives are at every level and how to reach them."
+    },
+    {
+      "id": "a4",
+      "title": "Letter to our councillor or sarpanch",
+      "day": 6,
+      "mins": 11,
+      "need": ["a photo of a local problem", "paper or email", "the representative's contact from Activity a3"],
+      "steps": [
+        "Choose one real local problem from the Day 1 walk.",
+        "Write: Dear (name), I live in (ward or village). The (problem) at (exact place) has been (broken or blocked) since (date).",
+        "Explain why it matters (safety, health, cleanliness) and request specific action.",
+        "End politely with your name and address; a parent adds their phone number.",
+        "Send it with the photo by email, municipal app, helpline or in person. Note the date and check for a reply after two weeks."
+      ],
+      "outcome": "A real letter sent to a real representative, so your child sees that citizens, even children, can take part in democracy between elections."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Universal adult franchise and India's first general election (1951–52): the Constituent Assembly and Sukumar Sen (1898–1963), first Chief Election Commissioner",
+      "idea": "The Constitution gave every adult citizen (then aged 21 and over) the right to vote, whether rich or poor, man or woman, able to read or not, from the very first election. Sukumar Sen organised the 1951–52 election for about 17 crore voters, most of whom could not read. Parties were given picture symbols, each candidate had a separate ballot box, and voters' fingers were marked with ink that does not wash off quickly, to stop anyone voting twice.",
+      "then": "Many people inside and outside India doubted it. Some said it was unwise to let people who could not read choose a government, and some foreign observers predicted it would fail. Even in many Western countries, women had won the vote only a few decades earlier.",
+      "now": "The elections were held successfully over several months, with about 45% turnout, and India has held regular elections ever since. With nearly 97 crore registered voters in 2024, India runs the largest elections in the world, and its indelible ink and Election Commission methods have been studied by other countries. Universal adult franchise is now accepted as a foundation of Indian democracy.",
+      "status": "accepted",
+      "ask": "People who doubted universal voting said voters must be able to read to choose wisely. What evidence from India's elections since 1951 would you use to answer them? What does a voter really need to know to vote well?",
+      "day": 1
+    },
+    {
+      "id": "v2",
+      "who": "Mahatma Gandhi (1869–1948) and Dr B.R. Ambedkar (1891–1956) on village self-rule",
+      "idea": "Gandhiji believed that India lives in its villages and that real freedom, 'gram swaraj', meant each village running its own affairs, as a small self-reliant republic, with power flowing up from the village and not down from Delhi.",
+      "then": "In the Constituent Assembly on 4 November 1948, Dr Ambedkar disagreed sharply. He called the village 'a sink of localism, a den of ignorance, narrow-mindedness and communalism', because in many villages powerful castes and landlords dominated and Dalits were oppressed. He preferred to make the individual citizen, with rights protected by the Constitution, the basic unit. As a compromise, panchayats were only put among the Directive Principles (Article 40), which guide the government but cannot be enforced in court.",
+      "now": "In 1992 the 73rd Amendment made panchayats compulsory, with regular elections and reserved seats for women, Scheduled Castes and Scheduled Tribes, which partly answered Ambedkar's worry. Researchers and activists still debate how much real power and money panchayats have, and whether powerful local groups still control them in some places.",
+      "status": "debated",
+      "ask": "Gandhiji trusted the village; Ambedkar feared that the strong would rule the weak there. In your mock gram sabha, who spoke most? What rules could make sure everyone, including the quietest, gets a fair say?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Garrett Hardin (1915–2003), 'The Tragedy of the Commons' (1968), and Elinor Ostrom (1933–2012), Nobel Prize in Economics 2009",
+      "idea": "Hardin argued that any resource shared by everyone, like a common pasture, will always be over-used and ruined, because each person gains by taking more. He concluded that only government control or dividing it into private property could save it.",
+      "then": "Many economists and governments accepted Hardin's view. Ostrom, an American political scientist, disagreed. She studied real communities, including irrigation systems and forests in Nepal and India, fisheries, and Swiss mountain pastures, many managed well for centuries by their own users.",
+      "now": "Ostrom showed that communities can manage commons successfully when they set clear boundaries, make their own rules, watch each other, punish rule-breakers fairly and have ways to settle disputes. In 2009 she became the first woman to win the Nobel Prize in Economics. Most scholars now accept that Hardin's 'tragedy' is not inevitable, although commons do fail when these conditions are missing.",
+      "status": "accepted",
+      "ask": "In the pasture game, what made the second round work better? Which of Ostrom's conditions did your rules include? What would happen if one player secretly broke the rule?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "Raghabendra Chattopadhyay and Esther Duflo, study of women-led panchayats (published 2004)",
+      "idea": "Because some panchayat sarpanch posts are reserved for women and chosen by lottery, researchers could fairly compare villages with women leaders and those without, almost like an experiment. In districts of West Bengal and Rajasthan, they found that women-led panchayats invested more in things women had asked for, especially drinking water.",
+      "then": "Some people had expected women leaders to be 'proxies', only fronts for their husbands or male relatives, so that reservation would change nothing.",
+      "now": "The finding that leaders' gender changes which public goods get built has been supported by other studies in India. Researchers also find that 'sarpanch-pati' (husbands acting for their wives) still happens in some places, and that women leaders' influence grows with experience. Esther Duflo shared the Nobel Prize in Economics in 2019 with Abhijit Banerjee and Michael Kremer for experiments like this on fighting poverty.",
+      "status": "accepted",
+      "ask": "Why did choosing reserved villages by lottery make the comparison fair? What might go wrong if researchers had compared villages that chose to elect women with villages that didn't?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is democracy, and who can vote in India?", "a": "Government of the people, by the people, for the people. Every Indian citizen aged 18 or over whose name is on the voters' list."},
+    {"q": "Name the three organs of government and what each does.", "a": "Legislature makes laws; executive carries them out and runs the administration; judiciary explains laws, settles disputes and protects the Constitution and rights."},
+    {"q": "How are the Lok Sabha and Rajya Sabha different?", "a": "Lok Sabha: elected directly by voters, 543 elected seats, 5-year term, the majority there forms the government. Rajya Sabha: elected by state MLAs, up to 250 members including 12 nominated, never dissolved, each member serves 6 years."},
+    {"q": "How does someone become Prime Minister, and what is a coalition government?", "a": "The leader of the party or group with a majority (at least 272 of 543) in the Lok Sabha becomes Prime Minister. When no party has a majority, several parties join to form a coalition government."},
+    {"q": "Who is the head of a state's government, and who represents the President in a state?", "a": "The Chief Minister heads the state government; the Governor, appointed by the President, is the constitutional head of the state."},
+    {"q": "What is a gram sabha, and when must it meet?", "a": "The meeting of all adult voters of a panchayat area; it must meet at least four times a year, on 26 January, 1 May, 15 August and 2 October."},
+    {"q": "Name the three levels of panchayat and three duties of a village panchayat.", "a": "Gram panchayat (village), panchayat samiti (block), zila parishad (district). Duties: clean drinking water, street lights and cleanliness, registering births and deaths, pensions, fair price shops, tree planting, pastures."},
+    {"q": "Which bodies run towns and cities, and how do they get money?", "a": "Nagar panchayats or town councils, municipal councils and municipal corporations (headed by a Mayor). They collect taxes and fees, such as property tax, and get grants from the state government."}
+  ]
+}

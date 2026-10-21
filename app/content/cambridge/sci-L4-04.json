@@ -1,0 +1,817 @@
+{
+  "key": "cambridge|sci|4|4",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 4,
+  "n": 4,
+  "title": "Earth and its habitats",
+  "source": "Cambridge Primary Science Learner's Book 4 (2nd edition, 2021), Unit 4 'Earth and its habitats' (pages 70–95)",
+  "summary": "Your child uses a fruit model to explore the inside of the Earth (crust, mantle, outer and inner core) and thinks about why no model is a perfect copy. They learn how volcanoes form where magma rises through cracks in the crust, name the parts of a volcano, find the Pacific Ring of Fire on a map, and weigh up the good and bad effects of eruptions. They model how sudden movements of rock cause earthquakes and tsunamis, study real cases from Nepal, Japan and Chile (and India's Bhuj and 2004 tsunami), and finally see how animals such as fish, birds and tigers are suited to their habitats, watching real birds and recording beak types on a dot plot.",
+  "goals": [
+    "By the end your child can name and describe the crust, mantle, outer core and inner core (thickness, material, temperature, solid or liquid) and say how a fruit model is like and unlike the real Earth.",
+    "By the end your child can label a volcano (magma, vent, crater, lava, ash cloud, secondary cone), explain how a volcano forms at a crack in the crust, and tell a composite volcano from a volcanic plateau.",
+    "By the end your child can use a world map to explain why volcanoes and earthquakes happen mostly along the Pacific Ring of Fire and other breaks in the crust, and list positive and negative effects of volcanoes.",
+    "By the end your child can explain how sudden movement of rocks releases energy as waves that cause an earthquake, name the focus and epicentre, and explain how an undersea earthquake causes a tsunami.",
+    "By the end your child can describe how fish, birds and tigers are suited to their habitats, match beak shapes to foods, and explain how plants and animals survive outside their natural habitat.",
+    "By the end your child can observe birds on different days, explain why repeating observations gives more reliable data, and present results on a dot plot."
+  ],
+  "words": [
+    ["crust", "the thin, rocky outer layer of the Earth that we live on: about 5 km thick under oceans and about 70 km under some land"],
+    ["mantle", "the very thick layer below the crust, about 3000 km deep, of extremely hot rock that can flow very slowly"],
+    ["core", "the centre of the Earth, made of iron and nickel: a liquid outer core and a solid inner core"],
+    ["internal structure", "the parts that make up the inside of something; external structure is the outside"],
+    ["magma", "melted rock under the ground"],
+    ["lava", "magma that has come out on to the Earth's surface"],
+    ["vent and crater", "the vent is the pipe magma travels up inside a volcano; the crater is the hole at the top where it erupts"],
+    ["erupt", "to burst or shoot out, as magma, ash and gases do from a volcano"],
+    ["volcanic plateau", "a wide, flat area of land made from many layers of lava that flowed, cooled and hardened, like the Deccan in India"],
+    ["earthquake", "a shaking of the ground caused by sudden movement of huge pieces of rock in the Earth's crust"],
+    ["focus and epicentre", "the focus is where an earthquake starts deep in the crust; the epicentre is the point on the surface right above it, where damage is usually worst"],
+    ["tsunami", "a huge sea wave caused by an earthquake or volcano under the sea, which grows taller as it reaches shallow water near the coast"],
+    ["habitat", "the place where a plant or animal lives and finds food, water and shelter"],
+    ["gills", "the parts of a fish that take in oxygen from water so it can breathe underwater"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is inside the Earth?",
+      "goal": "Look at the Earth from space, ask what lies beneath our feet, and use a fruit to learn the words external and internal structure (pages 70–71).",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "How deep is the deepest hole?",
+          "mins": 6,
+          "do": "Ask your child: 'If you dug straight down under our house, what would you find after 1 metre? 10 metres? 100 metres? Would you ever come out in America?' Write their guesses. Tell them the deepest hole people have ever drilled, in Russia, is about 12 km deep, and the Earth is about 6,400 km from the surface to the centre, so even that hole only scratched the skin. Ask: 'So how do scientists know what's inside?' Keep the question for this week."
+        },
+        {
+          "kind": "read",
+          "title": "Getting started: Earth from space (page 70)",
+          "mins": 10,
+          "do": "Look at the photograph of Earth on page 70 and ask the Getting started questions. 1 What shape is the Earth? (A sphere, like a ball.) 2 What does the surface consist of? (Land, which is rock and soil, and oceans of water; mostly ocean, with ice at the poles.) 3 What might be underneath? (Accept any idea: rock, hot rock, fire, metal.) 4 Use the particle model to describe how the white ice becomes water. (Heat makes the ice particles vibrate faster until they break out of fixed places and slide past each other; this is melting, from Unit 3.) 5 What provides the energy? (The Sun.)"
+        },
+        {
+          "kind": "read",
+          "title": "External and internal structure (page 71)",
+          "mins": 7,
+          "do": "Read page 71 aloud: the outside of the Earth (rocks and sea water) is its external structure; the inside is its internal structure; scientists can't cut the Earth open, so they use a model; our model is like cutting a peach. Ask: 'Remember the skeleton model in Unit 1? What does a model help us do?' (See something we can't see in real life.)"
+        },
+        {
+          "kind": "do",
+          "title": "Cut the fruit (page 71 questions)",
+          "mins": 12,
+          "do": "Use a peach, an aloo bukhara (plum), or a small mango. Let your child look at and feel the whole fruit, then you cut it in half through the stone (or as close as you can). Ask the page 71 questions. 1 Describe the external structure. (A thin, soft, fuzzy or smooth skin, round shape, a colour.) 2 Does the cut fruit show the external or internal structure? (Internal.) 3 Name the two layers inside. (The soft, juicy flesh and the hard stone; inside the stone there is a seed.) Your child draws the cut fruit and labels skin, flesh, stone, seed."
+        },
+        {
+          "kind": "talk",
+          "title": "How can we know what we can't see?",
+          "mins": 10,
+          "do": "Give your child two closed steel dabbas, one holding a few spoons and one holding cotton or rice, without saying which. Ask them to find out what is inside each without opening it. They will shake, tap, weigh in their hands and listen. Ask: 'How did you decide?' (By the sound and the weight.) Tell them that scientists do the same with the Earth: they 'listen' to the waves that earthquakes send through it, and the way the waves bend, speed up or stop tells them which layers are solid, liquid, rock or metal. You will meet the scientist who discovered the inner core this way tomorrow. Eat the fruit!"
+        }
+      ],
+      "need": ["Learner's Book pages 70–71", "a peach, aloo bukhara or small mango", "a knife (adult) and a plate", "2 steel dabbas with lids, a few spoons and some cotton or rice"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Crust, mantle and core",
+      "goal": "Learn the layers of the Earth from page 72, fill in the summary table on page 73, and meet Inge Lehmann who found the inner core.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The layers of the Earth (page 72)",
+          "mins": 12,
+          "do": "Read page 72 aloud with the diagram in front of you. Crust: thin outer layer of rocks where we live, about 5 km under oceans and about 70 km under land, getting hotter from 20 °C at the surface to about 400 °C at the bottom. Mantle: about 3000 km deep. Core: about 3400 km thick, made of iron and nickel; the outer core is liquid metal; the inner core is solid because of the huge pressure of all the layers on top; scientists measured in a laboratory that iron under such pressure melts at about 6000 °C, as hot as the surface of the Sun. Then add this honest note about the mantle: the book says the mantle rocks are melted into magma. Scientists today know that most of the mantle is actually solid, extremely hot rock that can flow very, very slowly, like thick toffee over millions of years; it melts into runny magma only in some places, such as under volcanoes. To give a sense of 3000 km: that is roughly the distance from Delhi to Kanyakumari."
+        },
+        {
+          "kind": "do",
+          "title": "Summarise the structure (page 73 activity)",
+          "mins": 12,
+          "do": "Do the 'Summarise the structure of the Earth' activity on page 73. Your child copies the table with rows for Crust, Mantle, Outer core, Inner core and columns Thickness, Material, Temperature, Solid or liquid, and fills it in from page 72. Good answers: Crust: 5–70 km, rock, 20–400 °C, solid. Mantle: about 3000 km, very hot rock (with magma in places), up to about 1000 °C in the book (scientists measure even hotter deep down), mostly solid but flows slowly. Outer core: iron and nickel, liquid. Inner core: iron and nickel, about 5000–6000 °C, solid. For 'How am I doing?', check the table together against page 72."
+        },
+        {
+          "kind": "think",
+          "title": "Inge Lehmann's hidden core",
+          "mins": 10,
+          "do": "Read Voice v1 about Inge Lehmann. Ask the voice question. Then ask: 'Lehmann never saw the inner core. What did she use instead of eyes?' (Measurements of earthquake waves recorded at many stations, and careful reasoning.) Remind them of yesterday's dabba game: she was 'listening' to the Earth.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Egg model of the Earth",
+          "mins": 11,
+          "do": "Hard-boil an egg (done in the morning), cool it, and let your child gently crack and peel just a little of the shell: the thin shell is like the crust, and it cracks into pieces, just like the Earth's crust is broken into huge plates. Then you cut the egg in half. The white is like the mantle and the yolk like the core. Ask: 'Is the shell thicker or thinner than the white? Is that true of the Earth too?' (Thinner, yes: the crust is very thin compared to the mantle.) Ask: 'What is wrong with this model?' (The yolk isn't hot or made of metal, it has no outer and inner core, and the layers are not to scale: the real crust is even thinner compared with the rest.)"
+        }
+      ],
+      "need": ["Learner's Book pages 72–73", "a hard-boiled egg and a knife (adult)", "notebook, ruler and pencil"],
+      "prep": [{"task": "Hard-boil one egg and let it cool (or use a round fruit with a stone if you do not eat eggs)", "when": "morning"}]
+    },
+    {
+      "n": 3,
+      "title": "Is the peach a good model?",
+      "goal": "Discuss Sofia's peach model questions on page 73, build a layered clay Earth to scale, and explain the Earth to someone younger.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Sofia's peach model (page 73, Questions 1–3)",
+          "mins": 10,
+          "do": "Read 'Think like a scientist: Use a model to explain the structure of the Earth' on page 73. Ask Questions 1–3. 1 'Is the whole peach a good model of the whole Earth?' (Good: round, has a thin skin and layers inside. Bad: it is fuzzy, soft and small, not rock and water; it has no oceans.) 2 'Which parts represent the crust, mantle and inner core?' (Skin = crust, flesh = mantle, stone = core.) 3 'How is the cut peach a good or bad model of the inside?' (Good: thin outer layer, thick middle, hard centre. Bad: no outer liquid core, the stone is not metal or hot, the layers are not in the right proportions.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 4 and 5 (page 73)",
+          "mins": 7,
+          "do": "Ask Question 4: 'Find an example of how information about the Earth's structure changes over time.' (On page 72: scientists thought the inner core was about 5000 °C, then new laboratory measurements suggested about 6000 °C; also Lehmann's discovery in 1936 that there is a solid inner core at all.) Ask Question 5: 'Why is it very hot working in a deep mine?' (The crust gets hotter the deeper you go.) Tell them about the Kolar Gold Fields in Karnataka, where mines went down more than 3 km and the rock was hot enough that miners needed cooling."
+        },
+        {
+          "kind": "act",
+          "title": "Make a clay Earth",
+          "mins": 20,
+          "do": "Do Activity a1. Use clay, plasticine or coloured atta dough. Your child makes a small ball of yellow for the inner core, wraps it in a layer of orange for the outer core, then a thick layer of red for the mantle, and finally a very thin layer of brown or green-and-blue for the crust. You cut it in half with a thread or a knife. Ask them to compare the thickness of each layer with the numbers in their table: the mantle and core should be thick, and the crust as thin as they can make it. Label the layers with flags made from toothpicks and paper.",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Teach a younger child (page 73, How am I doing?)",
+          "mins": 8,
+          "do": "Do the 'How am I doing?' on page 73: your child explains the inside of the Earth to a younger sibling, cousin or neighbour (or a grandparent), using the clay model or a round fruit. They must name all four layers and say one fact about each. Then read and tick the 'Look what I can do!' list on page 74."
+        }
+      ],
+      "need": ["Learner's Book pages 73–74", "clay, plasticine or atta dough in 4 colours (use food colour)", "a knife or thread", "toothpicks and small paper flags"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "How volcanoes happen",
+      "goal": "Learn from pages 75–77 how magma rises through cracks to make volcanoes, name the parts of a volcano, and draw a labelled diagram.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 75)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 75. 1 What is the layer below the crust? (The mantle.) 2 What does it consist of? (Very hot rock, with melted rock called magma in places.) 3 Describe this material. (Extremely hot, around 1000 °C; magma can flow like a thick liquid.)"
+        },
+        {
+          "kind": "read",
+          "title": "How volcanoes happen (pages 75–76)",
+          "mins": 10,
+          "do": "Read pages 75 and 76 aloud. A crack develops in the crust; magma travels up and erupts; on the surface it is called lava; very hot lava flows fast and then cools and hardens into rock; Hawaii is made of layers of lava forming a volcanic plateau; volcanoes also send out rocks, ash and gases up a central vent, which widens into a crater; a composite volcano has layers of ash and lava and builds a cone; secondary cones form from magma pushing through cracks in the sides. One correction: the book calls ash 'burnt lava'. Volcanic ash is really tiny broken bits of rock and natural glass, made when gas in the magma blasts it into a fine powder. Tell them India's Deccan region in Maharashtra and nearby states is a giant volcanic plateau formed from lava flows about 66 million years ago, and India's only active volcano is Barren Island in the Andaman Sea."
+        },
+        {
+          "kind": "talk",
+          "title": "Pictures and Activity 1 (pages 76–77)",
+          "mins": 12,
+          "do": "Look at the lava photo on page 76 and ask Questions 1 and 2: point to the glowing, flowing lava (orange and red) and the cooled, hardened lava (dark grey or black rock). Question 3: compare the diagram and the photograph and name what you see in both. Then do Activity 1 on page 77. 1a The path magma takes up (vent or pipe). 1b The hole where magma erupts (crater). 1c A small hill on the side (secondary cone). 1d Liquid rock that comes out (lava). 2 Which can you see on the photograph? (Usually the cone, crater, ash cloud and lava, but not the vent or magma, because they are inside.) 3 'How does the model help?' (It shows the inside, which we can never see in a photo.)"
+        },
+        {
+          "kind": "do",
+          "title": "Draw a diagram of a volcano (page 77)",
+          "mins": 13,
+          "do": "Do 'Think like a scientist: Draw a diagram of a volcano' on page 77. Your child looks at the photograph and draws the volcano as a cut-open diagram, adding the hidden inside: magma chamber in the crust, vent, crater, lava flows, ash cloud, layers of ash and lava, and a secondary cone. They label every part with a ruler line. Then ask the 'How am I doing?' questions on page 77 and 'How did you decide what to include?' (I added what is underneath because a diagram can show inside.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Black soil",
+          "mins": 5,
+          "do": "If you have access to black cotton soil (regur), from a farm, nursery or a trip to Maharashtra, Gujarat or Madhya Pradesh, show it. Tell them it formed over millions of years from the weathered lava rock of the Deccan, and that it holds water well and is excellent for growing cotton. Ask: 'So can a volcano be good for farmers, even millions of years later?' Keep this for Day 6."
+        }
+      ],
+      "need": ["Learner's Book pages 75–77", "plain paper, pencil, ruler and colour pencils", "a little black soil (optional)"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Where volcanoes erupt",
+      "goal": "Use the world map on pages 78–79 to find the Pacific Ring of Fire, explain why volcanoes cluster along cracks in the crust, and meet Alfred Wegener's moving continents.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Which parts of the world have volcanoes? (page 78)",
+          "mins": 5,
+          "do": "Read the top of page 78 aloud: some areas have a high risk of eruptions because there are many cracks in the crust; magma can move up these cracks; areas with no cracks have a low risk. Ask: 'Do you think India has a high or low risk?' (Mainland India has a low risk of volcanoes; the Andaman and Nicobar Islands are near a crack.)"
+        },
+        {
+          "kind": "do",
+          "title": "Describe where volcanoes erupt (pages 78–79, Activity 2)",
+          "mins": 14,
+          "do": "Do Activity 2 using the map on page 78, with a globe or atlas beside it if you have one. 1 Around which ocean are there many volcanoes? (The Pacific.) 2 Trace with your finger round the Pacific and name the countries: Chile, Mexico, the USA, Japan, the Philippines, Indonesia, New Zealand. 3 Why is it called the Pacific Ring of Fire? (A ring of volcanoes around the Pacific.) 4 Find areas unlikely to have volcanoes and say why. (Most of Australia, much of Africa and northern Europe, because there are no big cracks in the crust there.) 5 Read about Indonesia. Why are Indonesia, the Philippines and Japan at high risk? (They sit on the Ring of Fire where the crust is cracked and moving.) Note: the book gives 1812 for Mount Tambora; most history books say April 1815."
+        },
+        {
+          "kind": "think",
+          "title": "Alfred Wegener's jigsaw",
+          "mins": 10,
+          "do": "Read Voice v2 about Alfred Wegener. Ask the voice question. Then ask: 'Wegener was right that continents move, but he couldn't explain how. Was it fair for other scientists to doubt him?' Let them argue both sides: doubting is part of science, but evidence should be taken seriously. Tell them the Indian plate is still moving north into Asia by about 4 to 5 cm a year, which is pushing up the Himalayas.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Continent jigsaw",
+          "mins": 12,
+          "do": "Do Activity a2. Print or trace a world map, and your child cuts out South America, Africa, India, Antarctica and Australia. They try to fit them together on the table like a jigsaw, especially the bulge of South America into the hollow of West Africa. Ask: 'Do they fit? What else would you want to check before believing they were once joined?' (Matching rocks and fossils on both sides.) Tell them fossils of the same ancient fern, Glossopteris, are found in India, Africa, South America, Australia and Antarctica.",
+          "ref": "a2"
+        },
+        {
+          "kind": "review",
+          "title": "Reflection (page 79)",
+          "mins": 4,
+          "do": "Ask the questions on page 79: 'Did you enjoy finding places on a map? Did the map help you to see where most of the world's volcanoes are?' Ask your child to point to India on the map and say how far it is from the Ring of Fire."
+        }
+      ],
+      "need": ["Learner's Book pages 78–79", "a globe or atlas (optional)", "a printed or traced world map", "scissors"],
+      "prep": [{"task": "Print a simple outline world map for cutting out the continents", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Volcanoes and people",
+      "goal": "Sort the good and bad effects of volcanoes (page 80), compare Mount Etna and Goma (page 81), and erupt a model volcano.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "How do volcanoes affect people? (page 80)",
+          "mins": 10,
+          "do": "Read the seven captions on the drawing on page 80, then ask the question: which are positive and which are negative effects? Your child makes two columns. Negative: people injured or killed by ash and lava lumps; lava burns and buries crops and buildings; ash covers buildings and crops and people get ill from ash and poisonous gases. Positive: hot springs are tourist attractions; tourists coming to watch eruptions gives people jobs; underground hot water heats homes and makes electricity; lava and ash make good soil so crops grow well. Ask: 'Why do millions of people live near volcanoes even though they know the risks?' (Rich soil, jobs, it is their home, eruptions are rare.) Link to the Deccan black soil from Day 4."
+        },
+        {
+          "kind": "read",
+          "title": "Etna and Goma (page 81, Activity 3)",
+          "mins": 10,
+          "do": "Read both volcano reports on page 81 and ask Questions 1–4. 1 Which is a composite volcano? (A, Mount Etna: ash clouds from a crater and lava from a mountain cone.) 2 Which is a volcanic plateau? (B, Goma: lava poured out of a long crack and spread in a huge flat layer.) 3 List the damage. (Etna: buildings and power lines destroyed, thousands left home. Goma: lake water poisoned, 45 people died from gas, 500,000 lost their homes, lava half-way up houses.) 4 Why does Sicily often erupt? (Find it on the page 78 map: it is on a break in the crust.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Model volcano eruption",
+          "mins": 18,
+          "do": "Do Experiment e1. On a tray outside, your child builds a cone of damp sand or soil around a small plastic bottle. Inside the bottle: 2 tablespoons baking soda, a squirt of dish soap and a few drops of red food colour. Before pouring, ask them to predict what will happen. Then pour in half a cup of vinegar. Ask them to point out the vent (the bottle), the crater (the top), the lava flow, and to notice where the 'lava' goes. Then discuss honestly: 'Is this how a real volcano works?' (No. Real volcanoes are pushed by hot gas escaping from molten rock deep underground; our model uses a chemical reaction from Unit 3 that makes carbon dioxide gas. It is good for showing the parts and the flow, but not the cause.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "review",
+          "title": "Look what I can do (page 81)",
+          "mins": 7,
+          "do": "Read the 'Look what I can do!' list on page 81. For each item, your child proves it: describe three features of a volcano; say how the model helped; show the Day 4 diagram; use the map to say where volcanoes happen. Tick the ones they can do."
+        }
+      ],
+      "need": ["Learner's Book pages 80–81", "a tray, damp sand or soil", "a small plastic bottle", "2 tablespoons baking soda, dish soap, red food colour", "half a cup of vinegar"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "How earthquakes happen",
+      "goal": "Learn from pages 82–83 that sudden movements of rock in the crust cause earthquakes, model the 'stick and slip', learn focus and epicentre, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Rub your hands (page 82)",
+          "mins": 4,
+          "do": "Do the Getting started on page 82. Your child rubs their hands together hard. 1 What movement are you making? (Rubbing, sliding.) 2 'The movement creates energy. How do you feel it?' (Heat, the hands get warm, and sound, a swishing.) Then press palms together very hard and try to slide them: they stick, then suddenly jerk. Say: 'Remember that jerk. That is an earthquake in your hands.'"
+        },
+        {
+          "kind": "read",
+          "title": "Earthquakes (pages 82–83)",
+          "mins": 10,
+          "do": "Read pages 82 and 83 aloud. 'Quake' means shaking; the 2015 Nepal earthquake killed more than 9000 people; there are about 500,000 earthquakes a year, but only about 100 are strong enough to cause damage, including landslides. Earthquakes happen when huge pieces of flat rock in the crust rub together and suddenly move; the energy transfers into waves that travel to the surface. Look at the diagram: the focus is where it begins inside the crust; the epicentre is the point on the surface right above it, where damage is worst. Earthquakes happen in the same places as volcanoes, mostly around the Pacific Ring of Fire. Tell them India also has earthquakes, especially along the Himalayas and in Kutch, Gujarat, where the Bhuj earthquake on 26 January 2001 killed many thousands of people."
+        },
+        {
+          "kind": "exp",
+          "title": "Stick and slip",
+          "mins": 14,
+          "do": "Do Experiment e2. Tie a rubber band to a brick or a heavy book and lay it on a rough mat or sandpaper. Your child pulls the free end of the rubber band very slowly and steadily. Ask them to predict first whether the book will slide smoothly. It won't: the band stretches and stretches, then the book jumps suddenly. Put a few stacked dominoes or a tower of matchboxes on the book and repeat: the jerk topples them. Ask: 'Where was the energy stored before the jump?' (In the stretched rubber band, just as energy builds up in rocks that are stuck.) 'What is the jump like?' (The sudden slip of rocks at a fault, which sends out earthquake waves.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Focus and epicentre in a tray",
+          "mins": 5,
+          "do": "Fill a steel thali with water. Your child taps the underside of the thali once with a spoon handle from below, in the middle. Ripples spread out from the point above the tap. Ask: 'Where is the focus? Where is the epicentre?' (The tap underneath is the focus; the point on the water's surface directly above is the epicentre, and the ripples are strongest there and get weaker as they spread.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Give your child Worksheet ws1 on the Earth's layers, volcanoes and earthquakes. They work alone first; then check together using the clay model and the volcano diagram for any mistakes.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 82–83", "a brick or heavy book, a long rubber band, a rough mat or sandpaper", "dominoes or matchboxes", "a steel thali, water and a spoon", "Worksheet ws1"],
+      "prep": [{"task": "Print or copy Worksheet ws1", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Earthquake damage and tsunamis",
+      "goal": "Read the Nepal and Mexico photos (page 84), learn how tsunamis form and grow, model one in a tray, and weigh up whether earthquakes can be predicted.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Find information (page 84, Activity 1)",
+          "mins": 10,
+          "do": "Do Activity 1 on page 84, looking at the photographs on page 82. 1 Describe the Nepal damage. (Collapsed buildings, piles of bricks, broken walls.) 2 Epicentre or focus? (Near the epicentre, because that is on the surface, where damage is worst; the focus is deep underground.) 3 Why did so many die? (Buildings of brick and stone collapsed on people; it hit mountain villages that were hard to reach; landslides.) 4 What happened to the Mexico railway? (The rails were bent and twisted.) 5 Which country is in the Ring of Fire? (Mexico; Nepal is in the Himalayas, on the line where the Indian plate pushes into Asia.) 6 What are the rocks doing? (Huge pieces of crust are pushing and rubbing against each other and suddenly slipping.) Do the 'How am I doing?' self-rating."
+        },
+        {
+          "kind": "read",
+          "title": "Tsunamis (page 84)",
+          "mins": 7,
+          "do": "Read 'Tsunamis' on page 84 aloud: a tsunami is a huge sea wave caused by an earthquake or eruption under the sea; the energy transfers to the water; waves grow taller in shallow water and can reach 50 metres, flooding coasts. Look at the Japan 2011 photograph and ask Questions 1–4. 3 'Why did it grow taller at the coast?' (The water gets shallower, so the wave's energy is squeezed into less depth and the water piles up.) 4 'How did the boat get on top of the building?' (The huge wave carried it inland and dropped it as the water went back.) Tell them about 26 December 2004, when an undersea earthquake near Sumatra sent a tsunami across the Indian Ocean that struck the coasts of Tamil Nadu, Andhra Pradesh, Kerala and the Andaman and Nicobar Islands."
+        },
+        {
+          "kind": "exp",
+          "title": "Tsunami in a tray",
+          "mins": 13,
+          "do": "Do Experiment e3. In a long plastic storage box or baking tray, pile sand or a sloping chopping board at one end to make a 'beach', and pour water to about 3 cm deep. Put small blocks or Lego houses on the beach. Your child predicts what will happen to the wave as it reaches the beach. Then you push down quickly on a flat ruler or lid lying on the bottom at the deep end (the undersea earthquake). Watch the wave grow as it reaches the shallow slope and knock the houses. Repeat with a gentle push. Ask: 'Which had more energy? Which did more damage?'",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Can we predict earthquakes?",
+          "mins": 10,
+          "do": "Read Voice v3 about the Haicheng and Tangshan earthquakes and the debate about prediction. Ask the voice question. Then ask: 'If we cannot yet predict exactly when an earthquake will come, what can we do instead?' (Build strong buildings, teach Drop, Cover and Hold On, have tsunami warning systems. India set up a tsunami warning centre in Hyderabad after 2004.)",
+          "ref": "v3"
+        },
+        {
+          "kind": "do",
+          "title": "Drop, Cover, Hold On",
+          "mins": 5,
+          "do": "Practise the earthquake drill at home. Say 'Earthquake!' and your child must DROP to their knees, take COVER under a strong table, and HOLD ON to its leg until you say 'Stop' after 30 seconds. Talk about staying away from windows and almirahs that could fall, and not using the lift. Ask: 'If you are outside, what should you do?' (Move to an open space away from buildings, trees and electric poles.)"
+        }
+      ],
+      "need": ["Learner's Book pages 82–84", "a long plastic box or deep baking tray", "sand or a chopping board for a slope", "water, a flat ruler or lid", "small blocks or Lego"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Case study: Chile 2010",
+      "goal": "Use everything learnt to answer the Chile case study questions (pages 85–86), test earthquake-proof towers, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Chile earthquake (pages 85–86)",
+          "mins": 12,
+          "do": "Read the case study on page 85 together and look at the map. Then ask Questions 1–9 on page 86. 1a What is an epicentre? (The point on the surface above the focus.) 1b Where was it? (Just off the coast of central Chile, near Concepción.) 2 What is the focus? (Where the earthquake starts inside the crust.) 3 Why does Chile have high risk? (It is on the Ring of Fire.) 4 Two types of damage? (Collapsed buildings, destroyed towns, broken roads.) 5 Why so many deaths? (Strong shaking for three minutes, buildings falling, the tsunami.) 6 Why blackouts? (Power lines and stations were damaged.) 7 Why felt in Peru? (The waves of energy travel long distances through the crust.) 8 Why a tsunami? (The epicentre was under the sea, so energy transferred to the water.) 9 Why felt in California and Japan? (The tsunami wave travelled right across the Pacific Ocean.)"
+        },
+        {
+          "kind": "act",
+          "title": "Earthquake-proof tower challenge",
+          "mins": 18,
+          "do": "Do Activity a3. Make a 'shake table': a tray resting on 4 marbles or round pencils on the floor. Your child builds two towers 30 cm tall: one of loosely stacked matchboxes or blocks, and one of ice-cream sticks or straws joined with tape or clay in triangles, with a wide base. Shake the tray side to side for 10 seconds, gently at first, then harder. Ask them to predict which will survive. Ask: 'What made the stronger tower strong?' (A wide base, triangles, parts tied together so they move as one.) Tell them engineers in Japan and in India's earthquake zones build with steel bars inside concrete for the same reason.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Give your child Worksheet ws2. It applies the unit to new places and situations, such as reading a map and comparing earthquakes. Let them work for 12 minutes, then discuss, asking for reasons.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book pages 85–86", "a tray and 4 marbles or round pencils", "matchboxes or blocks, ice-cream sticks or straws, tape or clay", "Worksheet ws2"],
+      "prep": [{"task": "Print or copy Worksheet ws2; collect 20 ice-cream sticks or straws", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "Animals suited to their habitats",
+      "goal": "Compare two habitats (page 87), learn how fish and birds are suited to theirs (pages 88–90), and test beak shapes with kitchen tools.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 87)",
+          "mins": 6,
+          "do": "Look at the two habitat pictures A and B on page 87 and ask Questions 1 and 2. Your child describes each using the words hot, cold, dry, wet, lots of plants, few plants, and says which has more animals and plants and why (the wetter, warmer one with lots of plants, because there is more food, water and shelter). Then ask: 'Describe our own habitat outside the door in the same words.'"
+        },
+        {
+          "kind": "read",
+          "title": "Fish and their habitat (page 88)",
+          "mins": 8,
+          "do": "Read 'Animals are suited to their habitat' on page 88 and ask Questions 1–4. 1 Fish breathe with gills. 2 Why move fast? (To escape predators or catch food; they use fins and tail.) 3 How do fish survive in a home tank? (People give them clean water, food, a pump for air, the right temperature.) 4 Why keep a new fish in its bag of water first? (So the water temperature can change slowly; fish can survive small changes if they happen slowly, as the page says.) If you have a fish bowl or can visit a fish shop or aquarium, watch the gills open and close."
+        },
+        {
+          "kind": "read",
+          "title": "Birds and beaks (pages 88–89)",
+          "mins": 8,
+          "do": "Read 'How are birds suited to their habitat?' on pages 88–89: pigeons have small pointed beaks to crack seeds; starlings (in India, our common myna is a kind of starling) have longer pointed beaks to dig for insects and worms; kingfishers have large sharp beaks to catch fish; flamingos have long flat beaks that strain tiny plants and animals from water. Tell them that huge flocks of flamingos visit the Rann of Kutch and Mumbai's Thane creek. Then fill in the Activity 1 table on page 90: pigeon small and pointed, cracks open seeds; kingfisher large with a sharp point, catches fish; starling long and pointed, digs for worms; flamingo long and flat, strains plants and animals from water."
+        },
+        {
+          "kind": "exp",
+          "title": "Beak tools test",
+          "mins": 15,
+          "do": "Do Experiment e4. Set out 'beaks': a pair of tweezers, a clothes peg, kitchen tongs, a tea strainer and a straw. Set out 'foods': rajma or chana seeds on a plate, rubber bands or cooked noodles hidden in a tray of soil (worms), small pieces of sponge floating in a bowl of water (fish), rice grains floating in water (tiny water food), and juice in a narrow bottle (nectar). Your child predicts which beak works best for each food, then tries each beak for 30 seconds and counts how many food items they pick up. Record in a table. Ask: 'Did one beak work best for everything?' (No: each beak is best at one kind of food, which is why birds sharing a park don't all compete for the same food.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali, the birdman of India",
+          "mins": 8,
+          "do": "Read Voice v4 about Salim Ali. Ask the voice question. Then ask: 'Salim Ali watched weaver birds for months. Why did he need to watch for so long, not just one afternoon?' (Behaviour changes with seasons and individuals; repeating observations gives reliable data.) Tell them that tomorrow they will watch birds like he did.",
+          "ref": "v4"
+        }
+      ],
+      "need": ["Learner's Book pages 87–90", "tweezers, a clothes peg, kitchen tongs, a tea strainer and a straw", "rajma or chana, rubber bands or noodles, a tray of soil, sponge pieces, rice, bowls of water, juice in a narrow bottle", "a timer"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Bird watching",
+      "goal": "Answer Activity 1 questions 2–3 (page 90), then do the bird watching investigation on pages 90–91, classifying birds by beak and food.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Sharing a habitat (page 90, Questions 2–3)",
+          "mins": 5,
+          "do": "Ask Activity 1 Questions 2 and 3 on page 90. 2 'Many birds share a town habitat. How do they all survive?' (They eat different foods, so they don't all compete: pigeons eat grain, mynas eat insects and scraps, sunbirds drink nectar, crows eat almost anything, kingfishers catch fish in a pond.) 3 'Seagulls can survive inland. What might they eat?' (Scraps from rubbish, worms in fields, fish from lakes.) Note that in India you might see black kites and crows doing the same in cities."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Bird watching (pages 90–91)",
+          "mins": 30,
+          "do": "Do Activity a4, 'Think like a scientist: Bird watching' on pages 90–91. Go early morning or late afternoon to a park, garden, terrace, lake or field. Sit still and quiet for 20 minutes. Your child tries to observe at least three kinds of bird (common ones: house sparrow, rock pigeon, common myna, house crow, rose-ringed parakeet, red-vented bulbul, purple sunbird, white-throated kingfisher, pond heron, black kite). For each, they note: shape of the beak; what it is eating; a quick drawing of the beak; the habitat (trees, water, grass, flowers; hot or cold, dry or wet); and its group: seed eater, fruit eater, worm and insect eater, fish eater, or water plant and animal eater. Count how many of each type they see. Use a bird book, the Merlin Bird ID phone app or a knowledgeable neighbour to identify them. Take photos if you can, without disturbing them.",
+          "ref": "a4"
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (page 91)",
+          "mins": 10,
+          "do": "Back home, ask the 'How am I doing?' questions on page 91: 'Were you patient enough? Did you keep still and quiet? How could you observe better?' (Binoculars, going earlier, sitting hidden.) Then ask: 'Do you think one visit tells us all the birds that live here?' (No.) Plan two more short watches at the same place and time on the next two days, to make the data more reliable, and copy the tally table so they are ready."
+        }
+      ],
+      "need": ["Learner's Book pages 90–91", "a park, garden, terrace or lake", "notebook and pencil", "binoculars and a phone camera (optional)", "a bird book or bird ID app"],
+      "prep": [{"task": "Choose a quiet bird-watching spot and check the best time (early morning is best)", "when": "night before"}]
+    },
+    {
+      "n": 12,
+      "title": "Tigers, plants and the dot plot",
+      "goal": "Repeat the bird watch and draw a dot plot (page 91), learn how tigers are suited to forests (pages 91–92), and how plants survive outside their natural habitat (page 92).",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Repeat bird watch",
+          "mins": 12,
+          "do": "Go back to the same spot at the same time as yesterday for 10 minutes. Your child adds tally marks for each type of bird (seed eater, fruit eater, worm and insect eater, fish eater, water plant and animal eater). Ask: 'Did you see the same birds as yesterday? Any new ones? Which types are most common here?' Explain that repeating observations on different days gives more reliable data, as the page 91 bullet says.",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Draw the dot plot (page 91)",
+          "mins": 10,
+          "do": "Your child draws a dot plot of the total numbers: along the bottom (x axis) the bird types (seed eater, fruit eater, worm and insect eater, fish eater, water eater); above each, one dot for every bird seen, stacked neatly in a column. See the Skills section at the back of the Learner's Book for how to draw one. Ask: 'What does the dot plot tell you about the food in this habitat?' (For example, lots of seed eaters means plenty of grain and grass seeds.)"
+        },
+        {
+          "kind": "read",
+          "title": "How are tigers suited? (pages 91–92, Activity 2)",
+          "mins": 12,
+          "do": "Read the tiger information on page 91 and ask the questions on page 92. 1 Describe the habitat. (Forests in parts of Asia, with patches of sunlight and shade, not much light.) 2 Two ways the coat helps. (Stripes blend with sunlight and shadow on the forest floor; stripes break up its body shape so prey can't see it.) 3 Another way? (Very good hearing in the dim forest; also sharp claws and teeth, padded paws to walk silently, and in the Sundarbans tigers swim well.) 4 How do zoo tigers survive? (Keepers give food, water, shade and shelter.) Tell them India has around three-quarters of the world's wild tigers, in places like Kanha, Ranthambore, Corbett and the Sundarbans."
+        },
+        {
+          "kind": "talk",
+          "title": "Plants out of their habitat (page 92)",
+          "mins": 11,
+          "do": "Read 'Plants can also survive in places that are not their normal habitat' on page 92 and ask the three questions. 1 How do orchids survive in pots? (People water them, keep them warm and give them indirect light, like their hot, wet forest.) 2 How does bamboo survive in gardens around the world? (It is watered and planted where it is warm enough; in India it grows naturally in the north-east and Western Ghats.) 3 Walk round your plants: money plant (from tropical forests of South-East Asia, survives indoors in a bottle of water), tomato and chilli (originally from the Americas), tulsi, aloe vera (from dry places, so it needs little water). For each, your child says what the family does to help it survive."
+        }
+      ],
+      "need": ["Learner's Book pages 91–92 and the Skills section at the back", "the bird tally table", "graph paper or squared notebook", "house plants to look at"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Project: hot springs and volcanoes in our country",
+      "goal": "Do the page 93 project on how people use a hot spring or volcano in India, and finish the bird watch with a third observation.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Project introduction (page 93)",
+          "mins": 6,
+          "do": "Read page 93 aloud: the crust gets hotter as you go deeper; we see this in volcanoes and in hot springs where water from deep in the crust reaches the surface; people use hot water in homes and as tourist attractions; many live on volcano slopes because the soil is rich. Ask: 'Why is spring water hot if no one heats it?' (It has travelled deep down through cracks into hot rock and come back up.)"
+        },
+        {
+          "kind": "act",
+          "title": "Hot spring poster",
+          "mins": 26,
+          "do": "Do Activity a5. Choose one Indian hot spring or volcano to research with you on the phone or in an atlas. Choices: Manikaran in Himachal Pradesh, where hot water from the ground is used to cook rice and dal in the gurudwara's langar; Rajgir in Bihar, with its hot spring pools; Yumthang in Sikkim; Tattapani in Chhattisgarh; Vashisht near Manali; or Barren Island volcano in the Andamans. Your child finds: name and where it is (draws an outline map of India and marks it); how people use it (bathing, temples, cooking, tourism, plans for geothermal electricity such as at Puga in Ladakh); and one risk or problem. They make a poster with a heading, a map, drawings or printed pictures, and bright colours, as the page 93 bullets say.",
+          "ref": "a5"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Third bird watch",
+          "mins": 10,
+          "do": "Do the third short bird watch at the same spot and time. Add the tallies and update the dot plot. Ask: 'After three days, are you more sure which bird type is most common? Why?' (Yes, because one day could be unusual; three days that agree are more reliable.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Present the poster",
+          "mins": 3,
+          "do": "Your child presents the poster to the family in 2 minutes and answers one question from each listener. Stick it on the wall next to the clay Earth model."
+        }
+      ],
+      "need": ["Learner's Book page 93", "a phone or atlas for research (with an adult)", "chart paper, colour pens, glue, printed or magazine pictures", "the bird tally table"],
+      "prep": [{"task": "Look up two or three Indian hot springs together so your child can choose one", "when": "night before"}]
+    },
+    {
+      "n": 14,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer 'Check your progress' on pages 94–95, do the challenge worksheet, check understanding and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 94–95)",
+          "mins": 12,
+          "do": "Do the questions on pages 94–95 aloud. Q1 matching: 1 crust D, 2 crater C, 3 internal structure H, 4 earthquake A, 5 habitat B, 6 core G, 7 tsunami E, 8 mantle F. Q2 diagram: a a volcano (cut open to show its inside); b label each number by following its line on the drawing: magma at the bottom, the Earth's crust, the layers of ash and lava in the cone, the crater at the top, the vent running up the middle, and the ash cloud above. Q3 a the point on the surface directly above the focus; b sudden movement of huge pieces of rock in the crust releasing energy as waves. Q4 sunbird: a long, thin, curved, pointed beak; b it reaches deep inside flowers to drink nectar; c it could drink from other flowers or feeders, or eat small insects (sunbirds do); d people water them and plant them in sandy soil in a sunny spot. Point out that India has its own sunbirds, like the purple sunbird, that feed the same way."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Give your child Worksheet ws3. It has puzzles, 'what if' questions and questions comparing the voices. Encourage them to reason aloud and use evidence in every answer.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, without the book. Tick each answered well. For a missed answer, look at the matching pages (Earth's layers 70–74, volcanoes 75–81, earthquakes 82–86, habitats 87–92) for one minute and ask again in different words."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher. Using the clay Earth, the volcano diagram, the rubber-band brick, the tsunami tray (or a drawing) and the bird dot plot, they teach you in 6 minutes: the four layers of the Earth; how a volcano forms and its parts; why earthquakes happen and how a tsunami forms; and how beaks suit birds to their habitats. Ask two 'student' questions: 'Why doesn't Delhi have volcanoes but the Andaman Islands do?' and 'Why does a kingfisher not eat seeds like a pigeon?'"
+        }
+      ],
+      "need": ["Learner's Book pages 94–95", "Worksheet ws3", "the clay Earth, volcano diagram, brick and rubber band, and bird dot plot"],
+      "prep": [{"task": "Print or copy Worksheet ws3", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Inside the Earth, volcanoes and earthquakes",
+      "day": 7,
+      "sections": [
+        ["A. Layers of the Earth", [
+          {"t": "draw", "p": "Draw a cut-open Earth and label the crust, mantle, outer core and inner core."},
+          {"t": "match", "p": "Match each layer to its description.", "pairs": [["Crust", "Thin rocky outer layer where we live"], ["Mantle", "About 3000 km of very hot rock that flows slowly"], ["Outer core", "Liquid iron and nickel"], ["Inner core", "Solid iron and nickel, about 6000 °C"]]},
+          {"t": "fill", "p": "The core is made of the metals iron and ____.", "a": ["nickel"]}
+        ]],
+        ["B. Volcanoes", [
+          {"t": "fill", "p": "Melted rock under the ground is called magma. When it comes out on the surface it is called ____.", "a": ["lava"]},
+          {"t": "match", "p": "Match the volcano part to its meaning.", "pairs": [["Vent", "The pipe magma travels up"], ["Crater", "The hole at the top where material erupts"], ["Secondary cone", "A small volcano on the side of the main one"]]},
+          {"t": "mcq", "p": "Around which ocean are most of the world's volcanoes?", "opts": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"], "a": 2}
+        ]],
+        ["C. Earthquakes", [
+          {"t": "mcq", "p": "An earthquake happens when:", "opts": ["It rains heavily", "Rocks in the crust suddenly move", "The Moon pulls the sea", "A volcano gets cold"], "a": 1},
+          {"t": "fill", "p": "The point on the surface right above where an earthquake starts is called the ____.", "a": ["epicentre", "epicenter"]},
+          {"t": "write", "p": "Write one good effect and one bad effect of volcanoes on people.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New places, new problems",
+      "day": 9,
+      "sections": [
+        ["A. Using the map", [
+          {"t": "sort", "p": "Using the map on page 78, sort these places by their risk of volcanoes and earthquakes.", "items": ["Japan", "Chile", "Indonesia", "Most of Australia", "Northern Europe", "Philippines", "Mexico", "Central Africa away from the DRC"], "cats": ["High risk", "Low risk"]},
+          {"t": "write", "p": "Nepal is far from the Pacific Ring of Fire but has big earthquakes. Using what you know about the Indian plate, explain why.", "lines": 3}
+        ]],
+        ["B. Tsunami thinking", [
+          {"t": "mcq", "p": "A tsunami wave far out in the deep ocean is often only about 1 metre high. Near the coast it can be many metres high. Why?", "opts": ["The wind blows it higher", "As the water gets shallower, the wave's energy piles the water up", "It gets more energy from the beach", "Fish push it up"], "a": 1},
+          {"t": "write", "p": "An earthquake happens on land, far from the sea. Will it cause a tsunami? Explain.", "lines": 2},
+          {"t": "write", "p": "Suggest two ways a coastal village in Tamil Nadu can keep people safer from tsunamis.", "lines": 3}
+        ]],
+        ["C. Habitats and beaks", [
+          {"t": "match", "p": "Match the Indian bird to its beak and food.", "pairs": [["Purple sunbird", "Long, thin, curved: sips nectar"], ["House sparrow", "Short, thick, cone-shaped: cracks seeds"], ["Pied kingfisher", "Long, sharp, dagger-like: catches fish"], ["Greater flamingo", "Bent, sieve-like: strains tiny food from water"]]},
+          {"t": "write", "p": "A parakeet has a strong, hooked beak. Guess what it eats and explain how the beak helps.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Earth puzzles and comparing ideas",
+      "day": 14,
+      "sections": [
+        ["A. Models and evidence", [
+          {"t": "write", "p": "The egg, the peach and the clay ball were all models of the Earth. Which was the best model, and what does even the best one get wrong?", "lines": 4},
+          {"t": "write", "p": "Scientists have never drilled through the crust. Name one kind of evidence they use to know about the core.", "lines": 2},
+          {"t": "mcq", "p": "Earthquake waves of one kind cannot travel through liquids. They do not pass through the outer core. What does this tell us?", "opts": ["The outer core is solid", "The outer core is liquid", "The outer core is empty", "The waves are too weak"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if the Earth's crust were not broken into pieces at all? Would there still be volcanoes and earthquakes? Explain.", "lines": 3},
+          {"t": "write", "p": "What if all the flowers in a sunbird's habitat disappeared? Describe two things that might happen to the sunbirds.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Wegener was right that continents move, but he was laughed at for years. Lehmann's inner core was accepted within a few years. Why do you think one idea was accepted faster than the other?", "lines": 4},
+          {"t": "write", "p": "Some people say animals can sense earthquakes before they happen. What would you need to record, and for how long, to test this fairly?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Model volcano eruption",
+      "day": 6,
+      "question": "Can we model how lava comes up a vent, out of a crater and flows down the sides of a volcano?",
+      "need": ["a tray (outdoors)", "damp sand or soil", "a small plastic bottle", "2 tablespoons baking soda", "a squirt of dish soap", "red food colour", "half a cup of vinegar"],
+      "steps": [
+        "Stand the bottle in the middle of the tray and build a cone of damp sand around it up to its neck, leaving the mouth open.",
+        "Put baking soda, dish soap and food colour into the bottle.",
+        "Predict what will happen when vinegar is poured in.",
+        "Pour in the vinegar and step back.",
+        "Point out the vent, crater, lava flow and where the 'lava' collects.",
+        "Discuss how the model is like and unlike a real volcano."
+      ],
+      "predict": "Ask your child to guess first: will the 'lava' shoot high, bubble out slowly, or stay inside? Which way will it flow?",
+      "observe": "Red foam rises up the bottle (the vent), spills out of the top (the crater) and flows down the sides of the cone, collecting in low places and making channels in the sand.",
+      "why": "The bubbles come from a chemical reaction between baking soda and vinegar that makes carbon dioxide gas (as in Unit 3); the soap traps the gas into foam. The gas pushes the foam up and out through the only way available, the bottle neck, just as pressure pushes magma up a volcano's vent. In a real volcano, though, the push comes from gases such as water vapour and carbon dioxide dissolved in molten rock deep underground, which expand as the magma rises, like the fizz in a shaken soda bottle. So the model shows the parts and the flow well, but not the real cause or the enormous heat.",
+      "safety": "Do it outdoors on a tray. Vinegar stings eyes; stand back and don't lean over the bottle.",
+      "time": "18 min"
+    },
+    {
+      "id": "e2",
+      "title": "Stick and slip: a model earthquake",
+      "day": 7,
+      "question": "Why do rocks in the crust move in sudden jerks instead of smoothly?",
+      "need": ["a brick or heavy book", "a long rubber band", "a rough mat, doormat or sandpaper", "dominoes or matchboxes"],
+      "steps": [
+        "Tie or loop the rubber band to the brick or book and lay it on the rough surface.",
+        "Pull the free end of the band very slowly and steadily along the ground.",
+        "Watch the band and the brick carefully and note when the brick moves.",
+        "Stand a few dominoes or matchboxes on the brick and repeat.",
+        "Try on a smooth floor and compare."
+      ],
+      "predict": "Ask your child to guess first: if you pull slowly and steadily, will the brick slide slowly and steadily too?",
+      "observe": "On the rough surface the brick stays stuck while the band stretches longer and longer, then suddenly jumps forward and stops; this repeats. The dominoes fall at the jump. On a smooth floor it slides more evenly.",
+      "why": "Rubbing (friction) between the brick and the rough surface holds it in place. As you pull, energy is stored in the stretching rubber band. When the pull becomes greater than the friction, the brick suddenly slips, and the stored energy is released all at once as movement. The Earth's crust is broken into huge pieces that are slowly pushed by movements in the mantle, a few centimetres a year. Where two pieces meet at a fault, friction locks them, and energy builds up in the bent rocks for years. When the rocks finally slip, the energy is released as waves that shake the ground: an earthquake.",
+      "safety": "Keep feet clear of the brick.",
+      "time": "14 min"
+    },
+    {
+      "id": "e3",
+      "title": "Tsunami in a tray",
+      "day": 8,
+      "question": "Why does a tsunami wave grow taller as it reaches the coast?",
+      "need": ["a long plastic storage box or deep baking tray", "sand or a chopping board to make a slope", "water", "a flat ruler or plastic lid", "small blocks or Lego houses"],
+      "steps": [
+        "Make a sloping 'beach' at one end with sand or a propped chopping board.",
+        "Pour water to about 3 cm deep at the other end.",
+        "Place small blocks on the beach as houses.",
+        "Lay the ruler or lid flat on the bottom at the deep end and push it down or forward sharply once.",
+        "Watch the wave as it reaches the slope. Repeat with a gentle push and compare."
+      ],
+      "predict": "Ask your child to guess first: will the wave get bigger, smaller or stay the same as it reaches the beach? Will a gentle push knock over the houses?",
+      "observe": "The wave is low in the deep part but rises taller as it runs up the slope, then rushes up the beach and knocks over or carries the blocks. A sharp push makes a bigger wave and more damage than a gentle one.",
+      "why": "An undersea earthquake suddenly lifts or drops the sea floor, transferring a huge amount of energy to the whole depth of water above it. In deep ocean this energy is spread through kilometres of water, so the wave is low but very fast and long. As it reaches shallow water near the coast, the front of the wave slows down, the back catches up, and the same energy is squeezed into less depth, so the water piles up into a towering wave that floods the land. More energy in (a sharper push) means a bigger wave.",
+      "safety": "Mop up spills so no one slips.",
+      "time": "13 min"
+    },
+    {
+      "id": "e4",
+      "title": "Beak tools test",
+      "day": 10,
+      "question": "Which beak shape is best for which kind of food?",
+      "need": ["tweezers (long thin beak)", "a clothes peg (short strong beak)", "kitchen tongs (big beak)", "a tea strainer (straining beak)", "a straw (nectar beak)", "rajma or chana on a plate (seeds)", "rubber bands or cooked noodles hidden in soil (worms)", "sponge pieces floating in water (fish)", "rice grains in water (tiny water food)", "juice in a narrow bottle (nectar)", "a timer and a results table"],
+      "steps": [
+        "Set out the five 'foods' in separate containers.",
+        "Predict which beak will be best for each food and write it down.",
+        "Use each beak on each food for 30 seconds and count the items picked up (or the amount of juice sipped).",
+        "Record the numbers in a table with beaks across the top and foods down the side.",
+        "Find the best beak for each food and compare with your predictions."
+      ],
+      "predict": "Ask your child to guess first: which beak will win for seeds, worms, fish, tiny water food and nectar? Will any beak be best at everything?",
+      "observe": "The peg or tweezers pick up seeds well; tweezers dig out hidden 'worms' best; tongs grab 'fish'; the strainer collects many rice grains at once; only the straw can get the juice from the narrow bottle. No single beak is best at everything.",
+      "why": "Over a very long time, birds that had beaks a little better suited to the food in their habitat got more food, survived better and had more young, so their beak shapes were passed on. This is why beak shape matches diet: strong cone-shaped beaks crack seeds, long thin probing beaks dig for worms and insects, sharp dagger beaks catch fish, sieve-like beaks strain tiny food from water, and long thin tube-like beaks reach nectar. Because different birds eat different foods, many kinds can share one habitat without running out of food.",
+      "safety": "Do not let the child drink the juice from a shared straw after testing; use a fresh glass.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Clay Earth model",
+      "day": 3,
+      "mins": 20,
+      "need": ["clay, plasticine or coloured atta dough in yellow, orange, red and brown or green-blue", "a knife or thread", "toothpicks and paper flags"],
+      "steps": [
+        "Roll a small yellow ball for the inner core.",
+        "Wrap it in a layer of orange for the outer core.",
+        "Add a thick layer of red for the mantle.",
+        "Add a very thin skin of brown, or green and blue, for the crust.",
+        "The adult cuts the ball in half.",
+        "Label the four layers with toothpick flags and compare thicknesses with page 72."
+      ],
+      "outcome": "A cut-open model Earth showing the four layers, and a list of ways the model is and is not like the real Earth."
+    },
+    {
+      "id": "a2",
+      "title": "Continent jigsaw",
+      "day": 5,
+      "mins": 12,
+      "need": ["a printed or traced world map", "scissors", "glue (optional)"],
+      "steps": [
+        "Cut out South America, Africa, India, Antarctica and Australia.",
+        "Try to fit them together like a jigsaw, starting with South America and Africa.",
+        "Fit India against the east of Africa and Antarctica.",
+        "Note which edges fit well and which do not.",
+        "Discuss what other evidence (rocks, fossils) would be needed to be sure they were once joined."
+      ],
+      "outcome": "A jigsaw of the southern continents that shows the fit Wegener noticed, and an understanding that a good fit is a clue, not proof."
+    },
+    {
+      "id": "a3",
+      "title": "Earthquake-proof tower challenge",
+      "day": 9,
+      "mins": 18,
+      "need": ["a tray on 4 marbles or round pencils (a shake table)", "matchboxes or blocks", "ice-cream sticks or straws", "tape or clay"],
+      "steps": [
+        "Build tower 1, 30 cm tall, from loosely stacked matchboxes or blocks.",
+        "Build tower 2, 30 cm tall, from sticks or straws joined in triangles with a wide base.",
+        "Predict which will survive shaking.",
+        "Shake the tray side to side for 10 seconds, gently, then harder.",
+        "Improve the weaker tower and test again."
+      ],
+      "outcome": "Two tested towers and a list of features that make a building stand up to shaking: a wide base, triangles, and parts tied firmly together."
+    },
+    {
+      "id": "a4",
+      "title": "Bird watch and dot plot (Book 'Think like a scientist', pages 90–91)",
+      "day": 11,
+      "mins": 30,
+      "need": ["a park, garden, terrace or lake", "notebook and pencil", "binoculars or phone camera (optional)", "a bird book or bird ID app", "squared paper"],
+      "steps": [
+        "Sit still and quiet for 20 minutes and observe at least three kinds of bird.",
+        "For each, record beak shape, what it is eating, the habitat, and a beak drawing.",
+        "Classify each as seed, fruit, worm and insect, fish, or water plant and animal eater.",
+        "Tally how many of each type you see.",
+        "Repeat at the same place and time on two more days.",
+        "Draw a dot plot of the totals and say what it shows about the habitat."
+      ],
+      "outcome": "Three days of bird observations, a dot plot of bird types, and first-hand understanding of why repeated observations are more reliable."
+    },
+    {
+      "id": "a5",
+      "title": "Hot spring or volcano poster (Book project, page 93)",
+      "day": 13,
+      "mins": 26,
+      "need": ["phone or atlas for research with an adult", "chart paper", "colour pens", "glue and printed or magazine pictures"],
+      "steps": [
+        "Choose an Indian hot spring or volcano (for example Manikaran, Rajgir, Yumthang, Tattapani or Barren Island).",
+        "Find out where it is and draw it on an outline map of India.",
+        "Find out how people use it and one risk or problem.",
+        "Make an eye-catching poster with a heading, map, pictures and short labels.",
+        "Present it to the family."
+      ],
+      "outcome": "A poster about a real Indian hot spring or volcano showing how heat from inside the Earth is used by people."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Inge Lehmann (1888–1993), Denmark",
+      "idea": "Lehmann studied the records of earthquake waves collected at stations all over the world. Scientists already thought the Earth had a liquid core, which bends some waves and blocks others. But Lehmann noticed faint waves arriving in places where, if the whole core were liquid, there should have been none. In 1936 she published a paper, famously titled just 'P′', arguing that there must be a solid inner core inside the liquid outer core, bouncing these waves.",
+      "then": "She worked in a time when very few women were scientists, and much of her careful work was done at home, sorting earthquake records on cards in cardboard boxes. Other leading earthquake scientists, such as Beno Gutenberg and Charles Richter, soon checked her idea against more records and agreed with it.",
+      "now": "The solid inner core is accepted by all Earth scientists and appears in every diagram like the one on page 72. Lehmann kept working into her old age and received many honours. She lived to be 104.",
+      "status": "accepted",
+      "ask": "Lehmann noticed a few faint waves that 'should not' have been there. Why is it important for scientists to pay attention to small results that don't fit, instead of ignoring them?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Alfred Wegener (1880–1930), Germany",
+      "idea": "Wegener noticed that the coasts of South America and Africa fit together like jigsaw pieces. He gathered more evidence: matching rocks and mountain chains on both sides of the Atlantic, and the same fossils, such as the ancient fern Glossopteris, found in India, Africa, South America, Australia and Antarctica. In 1912, and in his book of 1915, he proposed that all the continents were once joined in one giant land, which he called Pangaea, and had slowly drifted apart.",
+      "then": "Most geologists rejected his idea and some mocked it, mainly because he could not explain what force could push whole continents through solid rock. Wegener died in 1930 on an expedition across the Greenland ice, before his idea was accepted.",
+      "now": "In the 1950s and 1960s, maps of the ocean floor and of magnetism in its rocks showed that the sea floor is spreading and the crust is broken into moving plates. The theory of plate tectonics, which grew from Wegener's idea, is now accepted and explains where volcanoes and earthquakes happen. It also explains why India, once joined to Africa and Antarctica, moved north and crashed into Asia, pushing up the Himalayas, and is still moving north.",
+      "status": "accepted",
+      "ask": "Wegener had good evidence that continents moved, but no explanation of how. Should scientists accept an idea before anyone knows how it works? What would you have needed to see?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Can earthquakes be predicted? Haicheng (1975), Tangshan (1976) and today's earthquake scientists",
+      "idea": "Some people believe earthquakes can be predicted days or hours ahead from warning signs such as many small earthquakes (foreshocks), changes in well water, gas from the ground or strange animal behaviour. In February 1975 officials in Haicheng, China, noticed many small shocks and other signs and ordered people out of buildings; a large earthquake struck the next day and many lives are thought to have been saved.",
+      "then": "This success raised great hopes. But in July 1976 a huge earthquake struck the city of Tangshan, China, with no warning at all, and hundreds of thousands of people died. Many later attempts at prediction around the world have also failed.",
+      "now": "Most earthquake scientists today say that no method can reliably predict the exact day, place and size of an earthquake. Many earthquakes have no foreshocks, and the Haicheng foreshocks were unusual. What scientists can do is forecast which areas are likely to have strong earthquakes over many years, and give a few seconds of warning after a quake starts. A minority of researchers continue to study possible warning signs, including animal behaviour, but the evidence so far is not strong enough. Because of this, the best protection is strong buildings and practised drills.",
+      "status": "minority",
+      "ask": "Haicheng's prediction worked once and Tangshan had no warning. If a method works once, does that prove it works? How many times would you need to test it?",
+      "day": 8
+    },
+    {
+      "id": "v4",
+      "who": "Salim Ali (1896–1987), India",
+      "idea": "Salim Ali, often called the 'birdman of India', spent his life watching and recording Indian birds in their habitats. Instead of only collecting dead specimens, as most bird scientists of his time did, he watched how living birds behaved. His careful study of the baya weaver bird in the 1930s showed how males build nests and females choose among them. He carried out bird surveys across India and wrote 'The Book of Indian Birds' (first published in 1941) and, with S. Dillon Ripley, the ten-volume 'Handbook of the Birds of India and Pakistan'.",
+      "then": "Field study of living birds was not always valued as highly as museum work at the time, and as a young man without a degree in zoology he struggled to find a job. His detailed observations soon won him respect, and he worked for many years with the Bombay Natural History Society.",
+      "now": "His work is accepted and still used. He helped protect habitats such as Keoladeo (Bharatpur) bird sanctuary and the Silent Valley forest in Kerala. He was awarded the Padma Vibhushan in 1976. Indian bird lovers still use books built on his work to identify the birds in their gardens.",
+      "status": "accepted",
+      "ask": "Salim Ali learned the most by watching living birds patiently over many seasons. What can you learn about a bird by watching it for a week that you could not learn by looking at a picture?",
+      "day": 10
+    }
+  ],
+  "check": [
+    {"q": "Name the four layers of the Earth from the outside in, and say one fact about each.", "a": "Crust: thin rocky outer layer, 5–70 km thick, where we live. Mantle: about 3000 km of very hot rock that can flow slowly, with magma in places. Outer core: liquid iron and nickel. Inner core: solid iron and nickel, about 5000–6000 °C, solid because of the huge pressure."},
+    {"q": "Why can a fruit be a good model of the Earth, and why can it never be a perfect one?", "a": "It is round with a thin skin, a thick middle and a hard centre, like crust, mantle and core. But it is not made of rock and metal, it is not hot, it has no liquid outer core, and its layers are not in the right proportions. No model is ever a true copy of the real thing."},
+    {"q": "How does a volcano form? Name three of its parts.", "a": "Magma from deep underground rises up a crack in the crust and erupts on the surface, where it is called lava. Parts include the vent (the pipe), the crater (the hole at the top), the cone of ash and lava layers, secondary cones and the ash cloud."},
+    {"q": "Why are most volcanoes and earthquakes found around the Pacific Ring of Fire?", "a": "There the Earth's crust is broken into pieces that are moving. Magma can rise up the cracks to make volcanoes, and sudden movements of the rocks cause earthquakes."},
+    {"q": "What causes an earthquake? What are the focus and the epicentre?", "a": "Huge pieces of rock in the crust that rub together get stuck, then suddenly slip, releasing energy as waves. The focus is where it starts inside the crust; the epicentre is the point on the surface directly above, where damage is usually worst."},
+    {"q": "How does a tsunami form, and why does it get taller at the coast?", "a": "An earthquake or eruption under the sea transfers energy to the water, making a huge wave. As it reaches shallow water near the coast, the water piles up, so the wave grows taller and floods the land."},
+    {"q": "Give two examples of how an animal is suited to its habitat.", "a": "For example: fish have gills to breathe underwater and fins to swim; a kingfisher's sharp beak catches fish; a pigeon's small beak cracks seeds; a flamingo's flat beak strains food from water; a tiger's stripes hide it in the forest and its good hearing helps in dim light."}
+  ]
+}

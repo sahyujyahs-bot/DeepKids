@@ -1,0 +1,794 @@
+{
+  "key": "cambridge|sci|2|4",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 2,
+  "n": 4,
+  "title": "Humans and animals grow",
+  "source": "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 4 'Humans and animals grow' (pages 88–122)",
+  "summary": "Your child compares animals and finds out what makes a mammal or a bird, counts the legs of small animals, and learns how young animals and humans change as they grow into adults. They discover that we inherit characteristics from both parents, study their own fingerprints, and learn how to keep healthy through a balanced diet, exercise, washing away germs and caring for their three kinds of teeth.",
+  "goals": [
+    "By the end your child can compare animals, say how they look similar and different, and explain that mammals have hair or fur and birds have feathers.",
+    "By the end your child can ask their own questions about animals and find answers by observing or by using a book, video or the internet.",
+    "By the end your child can describe how young animals and humans change as they grow, measure height with bottles, and draw and read block graphs and pictograms.",
+    "By the end your child can explain that young animals inherit characteristics from both parents, so they look similar but not identical, and can sort people by characteristics such as fingerprint type.",
+    "By the end your child can describe three ways to keep healthy (a balanced diet, exercise, keeping clean) and explain how germs can make us ill and how handwashing stops them.",
+    "By the end your child can name incisors, canines and molars and their jobs, and say how to look after teeth."
+  ],
+  "words": [
+    ["mammal", "an animal with hair or fur that feeds its babies on milk, like a cow, a dog, an elephant or a human"],
+    ["bird", "an animal with feathers, two legs, wings and a beak, which lays eggs"],
+    ["young", "the babies of an animal, such as a calf, a chick or a cub"],
+    ["adult", "a fully grown animal or person"],
+    ["growth", "the changes as a young animal grows older and bigger"],
+    ["pictogram", "a graph that uses small pictures instead of blocks"],
+    ["inherit", "to get characteristics from your parents, such as eye colour or hair type"],
+    ["identical", "exactly the same; identical twins look the same because they have the same characteristics from their parents"],
+    ["fingerprint", "the pattern of tiny ridges on the tip of each finger; every person's is different"],
+    ["diet", "all the food we usually eat"],
+    ["germs", "living things too small to see; some can make us ill"],
+    ["exercise", "using our muscles to move our bodies, such as running, swimming or skipping"],
+    ["incisors, canines, molars", "front cutting teeth, pointed tearing teeth, and wide bumpy grinding teeth at the back"]
+  ],
+  "day_mins": 35,
+  "days": [
+    {
+      "n": 1,
+      "title": "How are animals similar and different?",
+      "goal": "Compare animals by how they look, and learn that mammals have hair or fur, birds have feathers, and humans are mammals.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Street animal compare",
+          "mins": 6,
+          "do": "Ask your child to think of two animals they see near home, such as a street dog and a crow, or a cow and a pigeon. Ask: 'How are they different?' (The dog has four legs and fur; the crow has two legs, feathers, wings and a beak.) 'How are they similar?' (Both have eyes, a mouth, a tail, both eat, breathe and have babies.) Tell them: 'Scientists compare animals to put them into groups. Today you will do the same.'"
+        },
+        {
+          "kind": "read",
+          "title": "Getting started and the giraffe and zebra (pages 88–89)",
+          "mins": 12,
+          "do": "Look at the five animals in 'Getting started' on page 88: a wolf, parrots (macaws), a butterfly, and two kinds of ape. Ask: 'How are they different? How are they similar?' Then read page 89: the giraffe looks different from the zebra because it has a longer neck; it looks similar because both have four legs and a tail; giraffes and zebras both have fur, and fur is similar to hair; animals that have hair or fur are called mammals; people are a special kind of mammal, we are called humans. Look at the three close-up photos of zebra fur, giraffe fur and human hair. Gently stroke your child's arm: 'Can you feel the tiny hairs? That is one reason you are a mammal.' Tell them that mammal mothers also feed their babies on milk, like a cow and her calf, or a mother and her baby."
+        },
+        {
+          "kind": "read",
+          "title": "Birds and feathers (page 90)",
+          "mins": 7,
+          "do": "Read page 90: birds look different to mammals; they do not have fur or hair; birds have feathers; a bird looks different from a human in many other ways; a bird looks similar to a human because they both have two legs. Look at the feather and the four parrots. If you can, find a pigeon or crow feather (wash hands after). Ask questions 1–3 on page 90. 1. 'Find another way the giraffe looks different from the zebra.' (spots not stripes; much taller; small horns on its head.) 2. 'Find two other ways the giraffe and zebra look similar.' (both have hooves, both have a mane, long faces, eyes on the sides of the head.) 3. 'How does a bird look different from a human? Think of as many ways as you can.' (feathers, wings, beak, no teeth, claws, tail feathers, scaly legs.)"
+        },
+        {
+          "kind": "game",
+          "title": "Mammal or bird?",
+          "mins": 10,
+          "do": "Call out animals quickly; your child shows one finger for mammal and two for bird, and says the clue: cow (mammal, hair), peacock (bird, feathers), bat (mammal: it flies but has fur and feeds its babies milk!), hen, elephant, sparrow, dolphin (mammal: very few hairs, but it breathes air and feeds its babies on milk), ostrich (bird: it cannot fly but has feathers), monkey, owl, human. Ask: 'Which surprised you?' Explain that we decide the group by things like fur or feathers, not by whether an animal flies or swims."
+        }
+      ],
+      "need": ["Learner's Book pages 88–90", "a feather if you can find one (optional)", "soap for handwashing"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Asking questions about animals",
+      "goal": "Ask our own questions about animals and find answers using a book, video or the internet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Do elephants have hair? (page 91, Think like a scientist 1)",
+          "mins": 7,
+          "do": "Read 'Asking questions about animals' on page 91. Marcus asks 'Do elephants have hair?' He does not have a real elephant to observe, so he uses a book, a video or the internet. He finds out that elephants do have hair; elephants are mammals like humans. Search together for a close-up photo of an elephant's skin or a baby elephant: show your child the bristly hairs on its head, chin and the tuft at the end of its tail."
+        },
+        {
+          "kind": "act",
+          "title": "My animal questions",
+          "mins": 20,
+          "do": "Do Activity a1. Your child writes three of their own questions about animals, such as 'How long does a tiger sleep?', 'Do snakes have ears?', 'How many babies does a dog have?', 'Why do peacocks have long tails?'. For each question, decide together: 'Can we find the answer by observing a real animal near us, or do we need a book, a video or the internet?' Then find the answers: use a children's animal book, a short video, or a trusted website such as a national park or zoo site. Your child writes each answer in one sentence and draws a small picture. If an answer is hard to find, praise the question: 'Good scientists often ask questions nobody has answered yet.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Sofia's question (page 91)",
+          "mins": 8,
+          "do": "Read 'Observing small animals' at the bottom of page 91: Sofia asks 'How many legs do very small animals have?' Ask: 'How could Sofia find out the answer?' (Look closely at real small animals with a magnifying glass, or look in a book.) 'Which way is better for very small animals near us?' (Observing real ones, because they are easy to find.) Ask your child to guess how many legs an ant, a spider, a snail, an earthworm and a woodlouse have, and write the guesses. Tell them you will check tomorrow outside."
+        }
+      ],
+      "need": ["Learner's Book page 91", "a children's animal book or a phone/tablet with internet", "paper and pencils"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "How many legs?",
+      "goal": "Observe small animals outdoors with a magnifying glass, count their legs and make a block graph.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sofia's block graph (page 92)",
+          "mins": 7,
+          "do": "Look at page 92: Sofia looks for very small animals (a snail, a ladybird, a spider, a beetle, woodlice) and observes them, then makes a block graph to show her results. Look at the block graph picture with columns for 0 legs, 6 legs, 8 legs and so on. Ask questions 4–6 on page 92 using the picture: 'How many animals did Sofia find with no legs? With 6 legs? How many did she find in total?' Count the coloured squares together carefully; if the picture is hard to read, show how each square is one animal."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Small animal leg count (pages 92–93, Think like a scientist 2)",
+          "mins": 18,
+          "do": "Do Experiment e1. Go to a garden, park or the plants in your building. Read the red line on page 93 first: do not touch animals that can sting or bite. Look under flowerpots and stones, on leaves and on walls. With the magnifying glass your child counts the legs of each small animal they find: ants (6), a spider (8), a snail or earthworm (0), a woodlouse (14), a caterpillar (6 true legs at the front plus stumpy 'prolegs' behind), a beetle or ladybird (6), a millipede or centipede (many). Keep a tally on a clipboard: '0 legs', '6 legs', '8 legs', 'more than 8'. Put stones back as you found them.",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "Make our block graph (page 93)",
+          "mins": 10,
+          "do": "At home your child makes a block graph like Sofia's on squared paper: columns '0 legs', '6 legs', '8 legs', 'more than 8', one coloured square for each animal found. Ask: 'Which number of legs was most common?' (Usually 6, because insects such as ants are everywhere.) Do 'How am I doing?' on page 93: if you and your child counted a different number of legs on the same animal, count again. Read the green box: Sofia asks 'Are there any animals with 5 legs?' Talk about it: starfish have five arms. Tick the 'Look what I can do!' list on page 93."
+        }
+      ],
+      "need": ["Learner's Book pages 92–93", "a magnifying glass", "a clipboard or notebook", "squared paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Babies and adults",
+      "goal": "Learn that animals have young that change as they grow into adults, and that some young look like their parents and some do not.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "At the zoo (page 94 Getting started)",
+          "mins": 7,
+          "do": "Look at the zoo picture on page 94. Ask the 'Getting started' questions: 'How many types of baby animal can you see?' (bear cub, baby elephant, goat kids, seal pups, ducklings, a penguin chick, and a human baby in the pram.) 'Do the babies look similar to their parents? Which look similar? Which look different?' Talk about animals near you: a calf and a cow, a puppy and a dog, chicks and a hen, a kitten and a cat."
+        },
+        {
+          "kind": "read",
+          "title": "Adults and babies (pages 95–96)",
+          "mins": 8,
+          "do": "Read page 95: all animals make babies; the babies are called the animals' young; the young change as they grow older, which is called growth; when they are fully grown we call them adults; the young of many animals look similar to the adults, but some look different; a young elephant is called a calf, and when it gets older it will grow bigger. Read page 96: a young penguin is called a chick; when it gets older it will grow different coloured feathers. Ask question 1: 'The calf looks very similar to the adult elephant. How is it different?' (smaller, no tusks yet, hairier, shorter trunk.) Question 2: 'The chick looks very different from the adults. How is it similar?' (same shape of beak, feet and body, stands the same way, has feathers too, though brown and fluffy.)"
+        },
+        {
+          "kind": "act",
+          "title": "How do baby animals change? (page 96, Activity 1)",
+          "mins": 15,
+          "do": "Do Activity a2, the book's Activity 1 on page 96. Look at Marcus's picture of an adult bear and a bear cub with the note 'The bear cub grows bigger, gets stronger.' Your child chooses an animal and its young, for example a frog and a tadpole, a butterfly and a caterpillar, a hen and a chick, or a cow and a calf. They draw or paste pictures of the young and the adult side by side and add notes with arrows showing how the young changes as it grows: 'gets bigger', 'grows horns', 'loses its tail', 'grows wings', 'feathers change colour'. Encourage at least one animal whose young looks very different (a frog or butterfly).",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Baby names",
+          "mins": 5,
+          "do": "Quick quiz: 'A young cow is a… (calf). A young dog? (puppy) A young cat? (kitten) A young hen? (chick) A young goat? (kid) A young tiger or lion? (cub) A young frog? (tadpole) A young butterfly? (caterpillar).' Ask: 'Which one changes the most as it grows?' (The caterpillar or tadpole: they change their whole body shape.)"
+        }
+      ],
+      "need": ["Learner's Book pages 94–96", "paper, colours, and pictures of animals (optional)"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "How humans grow",
+      "goal": "Compare our younger self with now, learn the stages of a human life, and read a pictogram.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "A younger you (page 97, Activity 2)",
+          "mins": 13,
+          "do": "Do Activity a3, the book's 'A younger you' on page 97. Find two or three photos of your child as a baby and a toddler (family albums or your phone). Look at the human baby photo on page 97 first. Ask: 'What did you look like then? How old are you now? This is called your age.' Compare: height, hair length, teeth (none as a baby!), how they moved (lying, crawling, walking), what they ate (milk, then mashed dal-rice, now everything). Your child pastes or draws 'Me as a baby' and 'Me now' side by side and labels three changes. If a grandparent is near, ask them to share one memory of the child as a baby.",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "How humans grow (page 98)",
+          "mins": 7,
+          "do": "Read 'How humans grow' on page 98 and look at the row of people: baby, toddler, child, teenager, adult, old age. Ask question 4: 'Which picture shows people the same age as you?' (child.) Then ask your child to name a family member at each stage: a baby cousin, a toddler neighbour, themselves, an older cousin who is a teenager, Mummy or Papa, Dadi or Nana. Ask: 'Do people keep getting taller forever?' (No: we stop growing taller in our late teens or early twenties, and some old people become a little shorter.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Sofia's bottle pictogram (pages 98–99)",
+          "mins": 10,
+          "do": "Read the bottom of page 98 and page 99: Sofia uses bottles to measure the height of people of different ages; she makes a pictogram; a pictogram is like a block graph but uses pictures instead of blocks. Look at her pictogram: toddler aged 5 is 4 bottles tall, child aged 10 is 6 bottles, adult aged 30 is 7 bottles. Ask question 5: 'How many bottles tall was the child aged 10?' (6.) Question 6: 'The adult aged 30?' (7.) Question 7: 'Describe the pattern.' (Older people were taller, but the height grew a lot between 5 and 10 and only a little between 10 and 30, because adults stop growing.)"
+        },
+        {
+          "kind": "talk",
+          "title": "What else grows?",
+          "mins": 5,
+          "do": "Ask: 'Apart from getting taller, what else changes as you grow?' (feet get bigger so we need new chappals, baby teeth fall out and adult teeth grow, we can do more things: talk, read, ride a cycle.) Measure your child's foot against yours on a sheet of paper and draw both outlines."
+        }
+      ],
+      "need": ["Learner's Book pages 97–99", "2–3 baby and toddler photos of your child", "paper, glue, colours"],
+      "prep": [{"task": "Find baby and toddler photos of your child (print or keep them ready on the phone)", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Measuring height with bottles",
+      "goal": "Measure ourselves, a younger child and an adult using bottles, make a block graph and find the pattern.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Measuring height (page 100, Think like a scientist)",
+          "mins": 20,
+          "do": "Do Experiment e2, following page 100. You need two identical plastic bottles (1-litre water bottles), a younger child (a sibling, cousin or neighbour's child) and an adult. Each person lies flat on the floor with their feet against a wall. Your child places one bottle on its side against the wall at the feet, then the second bottle end to end, then moves the first bottle to the front of the second, and so on, counting 1, 2, 3… until they reach the top of the head (exactly like the picture on page 100). Record each person's age and number of bottles. If the last bottle sticks out past the head, record 'about half' and talk about it. Measure each person twice.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Block graph and pattern",
+          "mins": 10,
+          "do": "Your child draws a block graph on squared paper (or a pictogram with little bottle pictures, like Sofia's): one column for each person, labelled with name and age, one square for each bottle. Ask: 'Who is tallest? Who is shortest? What is the pattern?' (Older children are taller than younger ones; the adult is tallest.) 'Would a 60-year-old grandparent be taller than Papa?' (Not necessarily: adults stop growing.)"
+        },
+        {
+          "kind": "review",
+          "title": "Check the measuring (page 100, How am I doing?)",
+          "mins": 5,
+          "do": "Do 'How am I doing?' on page 100: you measure one person again yourself while your child watches and checks: 'Have you counted the right number of bottles? Did the bottles touch end to end without gaps?' Ask: 'What would happen if we left gaps?' (The person would seem taller than they are.) Tick the 'Look what I can do!' list on page 100."
+        }
+      ],
+      "need": ["Learner's Book page 100", "two identical 1-litre plastic bottles", "a younger child and an adult to measure", "squared paper and colours"],
+      "prep": [{"task": "Ask a younger child (sibling, cousin or neighbour) and an adult to be measured", "when": "morning"}]
+    },
+    {
+      "n": 7,
+      "title": "Why do young animals look like their parents?",
+      "goal": "Learn that animals inherit characteristics from both parents, so they look similar but not identical, and meet the monk who first worked out how inheritance follows patterns.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "All these sheep (page 101 Getting started)",
+          "mins": 5,
+          "do": "Look at the sheep photo on page 101. Read: 'These animals are all sheep. They all look different. Why do you think they look different?' Let your child give ideas before reading on. Ask: 'Do you look exactly like Mummy? Like Papa? Which parts of you look like whom?' (maybe 'my curly hair is like Papa's', 'my eyes are like Mummy's')."
+        },
+        {
+          "kind": "read",
+          "title": "Inherit, identical, stripes and twins (pages 102–103)",
+          "mins": 10,
+          "do": "Read page 102: the sheep look different because they have different characteristics: some have long wool, some short; some black faces, some white; different colours; they have different parents; all animals get some characteristics from their parents; we say animals inherit characteristics from their parents. Animals look similar to their parents but not the same; they are not identical, because an animal inherits some characteristics from one parent and some from the other. Every tiger has a different pattern of stripes; a cub's stripes are similar to but not the same as its parents'. Tell your child that forest officers in Indian tiger reserves such as Ranthambore and Corbett recognise each tiger from photos by its unique stripes. Read page 103 to the twins: fingerprints are different for every person; ours are not the same as our parents' but similar; identical twins look the same because they have inherited the same characteristics from their parents."
+        },
+        {
+          "kind": "think",
+          "title": "Gregor Mendel and his pea plants",
+          "mins": 12,
+          "do": "Tell the story in Voice v1. Gregor Mendel was a monk who grew thousands of pea plants in his monastery garden and counted their characteristics, such as tall or short plants and smooth or wrinkly peas. Show a pea pod or a handful of matar: 'He counted peas like these, thousands of them!' He found patterns: a characteristic could disappear in the children and come back in the grandchildren. Ask: 'Have you ever heard someone say a baby has Dadaji's nose but not Papa's?' (That is a characteristic skipping a generation.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Family likeness chart",
+          "mins": 8,
+          "do": "Make a quick chart with three columns: 'Me', 'Mummy', 'Papa' (or any two relatives). Rows: hair (straight/wavy/curly), hair colour, eye colour, dimples (yes/no), and height (short/medium/tall for their age). Fill it in together using a mirror and family photos. Ask: 'Which characteristics did you inherit from one parent, and which from the other? Is anything different from both?' This shows the page 102 idea: some from one parent and some from the other."
+        }
+      ],
+      "need": ["Learner's Book pages 101–103", "a pea pod or a handful of green peas", "a mirror", "family photos (optional)"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "How are you different? Fingerprints",
+      "goal": "Compare our own characteristics with other people's, find out that some 'inherited' textbook examples are more complicated than they look, and look closely at our fingerprints.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "How are you different? (pages 103–104 Activity)",
+          "mins": 10,
+          "do": "Do the activity on pages 103–104 with as many family members as are home. With a mirror, each person checks the five characteristics in the page 103 chart: freckles (yes/no), earlobes free or fixed (does the bottom of the ear hang loose or join straight to the cheek?), left-handed or right-handed, tongue rolling (can you roll your tongue into a tube?), straight or curly hair. Make a table with one row per person. Then make groups, as page 104 asks: 'all the people who can roll their tongue', 'all the people with free earlobes'. Ask: 'Does anyone have all the same characteristics as you?'"
+        },
+        {
+          "kind": "think",
+          "title": "Is tongue rolling really inherited?",
+          "mins": 7,
+          "do": "Tell the story in Voice v2: about 80 years ago a scientist said tongue rolling was passed from parents to children in a very simple way, and it got into school books. Later, scientists found identical twins where one could roll their tongue and the other couldn't, and some people learn to do it with practice. Ask: 'Identical twins inherit the same characteristics. If one twin can do it and the other can't, what does that tell us?' (It can't be only about what you inherit.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "exp",
+          "title": "Balloon fingerprints (pages 104–105, Think like a scientist)",
+          "mins": 18,
+          "do": "Do Experiment e3, the book's 'Sorting fingerprints' on pages 104–105. Your child scribbles hard with a washable marker on a small patch of paper (or uses a stamp pad), presses one fingertip on it, then presses that inky fingertip firmly onto an un-blown balloon. Then blow up the balloon: the fingerprint grows big enough to see easily, like the picture on page 104. Compare it with the three types on page 105: loop, whorl, arch. Ask: 'Which type do you have?' Take prints of every family member's same finger on paper and sort them into loops, whorls and arches. Do 'How am I doing?': check each other's sorting.",
+          "ref": "e3"
+        }
+      ],
+      "need": ["Learner's Book pages 103–105", "a mirror", "2–3 balloons", "a washable marker or a stamp pad", "paper", "wet wipes or soap"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Fingerprint detectives of Bengal",
+      "goal": "Learn how two Indian police officers helped create the world's first fingerprint sorting system, start a long tooth experiment and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "think",
+          "title": "Azizul Haque and Hem Chandra Bose",
+          "mins": 10,
+          "do": "Tell the story in Voice v3: in Kolkata in the 1890s, two Indian police officers, Azizul Haque and Hem Chandra Bose, worked out a clever way of sorting fingerprints into groups so that one card could be found quickly among thousands. Their boss, Edward Henry, got most of the credit at first. Lay out yesterday's family fingerprints and ask: 'If we had a thousand prints, how could we find one person's quickly?' (Sort into loops, whorls, arches first, then into smaller groups.) Read the green box on page 105: 'Can you think of a different way of looking at fingerprints? What could you use to make fingerprints look larger?' (a magnifying glass, a phone camera zoom, a photocopier enlarging the print.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the egg shell and sugar test (page 114)",
+          "mins": 10,
+          "do": "Start Experiment e5 today because it needs about seven days; you will study teeth later. Read 'What does sugar do to teeth?' on page 114: teeth are made of a similar material to egg shells, so we can investigate what sugar does to egg shells. Rinse two halves of an egg shell (from breakfast) and put one in each of two clear glasses. Label them 'water' and 'sugary drink'. Fill one with water and the other with a cola or a sugary packaged drink. Before you leave them, your child draws a diagram of their prediction, as page 114 asks. Put the glasses somewhere safe and cover them with a saucer.",
+          "ref": "e5"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 15,
+          "do": "Do worksheet ws1 together. Read each question aloud if needed and let your child answer first. For the block graph, they count the squares carefully. Tick the 'Look what I can do!' list on page 105.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 105 and 114", "yesterday's fingerprints and a magnifying glass", "2 halves of a clean egg shell", "2 clear glasses and 2 saucers", "a cup of cola or another sugary drink", "printed or on-screen ws1"],
+      "prep": [{"task": "Save and rinse an egg shell, broken into two halves; buy a small bottle of cola or a sugary drink", "when": "morning"}]
+    },
+    {
+      "n": 10,
+      "title": "Healthy eating",
+      "goal": "Learn that a healthy diet has lots of different foods, read the food triangle and sort real Indian foods into 'eat lots', 'eat some' and 'eat a little'.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "What should Bimla eat? (page 106 Getting started)",
+          "mins": 6,
+          "do": "Look at page 106: Bimla wants to eat food that is good for her. Read the five speech bubbles: 'Eat chocolate. Sugar gives you energy.' 'Eat food that tastes good.' 'Drink milk. It makes you strong.' 'Fruit and vegetables are good for you.' Ask your child: 'Which friends give good advice? Which are only partly right?' (Sugar does give energy, but too much is bad for teeth and the body. Tasty food is not always healthy. Milk and fruit and vegetables are good advice.)"
+        },
+        {
+          "kind": "read",
+          "title": "The food triangle (page 107)",
+          "mins": 8,
+          "do": "Read 'Healthy eating' on page 107: food that is good for us is called healthy food; humans need to eat lots of different foods to stay healthy; the food we eat is called our diet. Look at the food triangle: at the bottom, 'eat lots' of fruit and vegetables; above them, 'eat lots' of bread, rice, potatoes, pasta, oats; higher up, 'eat some' meat, fish, eggs, beans, nuts, milk and cheese; at the top, 'eat a little' sweets, chocolate, cake and butter. Read: if we do not have a healthy diet, our bodies might not get what they need; this is one way we can become ill. Ask your child to name an Indian food for each layer: sabzi and fruit; roti, rice, poha; dal, paneer, eggs, curd, fish; and jalebi, ladoo, chips."
+        },
+        {
+          "kind": "act",
+          "title": "Sorting food (page 108 Activity)",
+          "mins": 15,
+          "do": "Do Activity a4, the book's 'Sorting food' on page 108. Make three labels: 'Eat lots', 'Eat some', 'Eat a little', like Marcus and Zara's. Collect real foods or packets from your kitchen: a banana, an onion, a tomato, a roti or bread, a bowl of rice, a packet of dal, an egg, a glass of milk or curd, a biscuit packet, a packet of chips, a ladoo or mithai, a bottle of cold drink. Your child places each under the right label using the food triangle on page 107, and says why. Then they plan a healthy lunch thali on a paper plate drawing, with something from each 'eat lots' and 'eat some' group.",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Yesterday's food",
+          "mins": 6,
+          "do": "Ask your child to list everything they ate yesterday. Put a tick next to each 'eat lots' food, and a star next to each 'eat a little' food. Ask: 'Was it a healthy day? What could you add or change tomorrow?' Be kind; the aim is noticing, not blaming."
+        }
+      ],
+      "need": ["Learner's Book pages 106–108", "real foods or packets from the kitchen", "3 label cards", "a paper plate and colours"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Germs and being ill",
+      "goal": "Learn that germs are tiny living things that can make us ill, how to stop them spreading, and the doctor who was ignored for saying 'wash your hands'.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Being ill (pages 108–109)",
+          "mins": 8,
+          "do": "Read 'Being ill' on pages 108–109: nobody feels good all the time; when we feel sick or have a headache we say we are ill or have an illness. Germs are living things that are too small to see; some germs can make us ill when they get inside us and our bodies cannot kill them. Do these things to stop germs getting into your body: wash your hands after going to the toilet; wash your hands before eating; do not eat dirty food or drink dirty water (look at the picture with flies on the food). Sometimes germs make us cough or sneeze; cover your mouth when you cough or sneeze; this can stop germs getting to other people. Healthy people become ill less often; their bodies are better at killing germs. Ask question 1 on page 109: 'Have you had an illness? How did you feel?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Glitter germs",
+          "mins": 12,
+          "do": "Do Experiment e4. Rub a little cooking oil on your child's hands and sprinkle on a pinch of glitter (or turmeric powder, haldi). Say: 'These are pretend germs.' Your child shakes your hand, touches a door handle, a toy and a cup. Look how the 'germs' have spread. Then they try to wash them off: first with only cold water for 5 seconds, then with soap and water, rubbing palms, backs, between fingers, thumbs and nails for 20 seconds (sing 'Happy Birthday' twice). Ask them to predict first which will work better. Look at the hands after each wash.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Ignaz Semmelweis: the handwashing doctor",
+          "mins": 10,
+          "do": "Tell the story in Voice v4: about 175 years ago in a big hospital in Vienna, many new mothers were dying of a fever. Dr Ignaz Semmelweis noticed that doctors were going straight from cutting up dead bodies to helping mothers give birth, without washing their hands. He made them wash their hands in a special cleaning liquid, and far fewer mothers died. But many doctors refused to believe him. Ask: 'Nobody could see germs then. Why do you think doctors did not believe him?' (They couldn't see anything on their hands; they did not like being told they were causing harm.) Then ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "do",
+          "title": "Sneeze into your elbow",
+          "mins": 5,
+          "do": "Fill a spray bottle with water (or use a wet hand) and gently mist towards a mirror from arm's length to show how far a sneeze can spray. Then practise: sneeze or cough into the elbow, not the hand, and into a tissue, then put the tissue in the bin and wash hands. Ask: 'Why the elbow and not the hand?' (We touch things with our hands, so germs on hands spread; we don't touch things with our elbows.)"
+        }
+      ],
+      "need": ["Learner's Book pages 108–109", "a little cooking oil", "glitter or haldi powder", "soap and water", "a spray bottle (optional)", "tissues"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Exercise and keeping clean",
+      "goal": "Find out what exercise does to our heart, breathing and skin, and why keeping clean keeps us healthy.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Exercise and keeping clean (page 110)",
+          "mins": 8,
+          "do": "Read page 110: we can make our bodies healthy by doing exercise; exercise is when we use our muscles to move our bodies; it makes our muscles stronger; humans should do some exercise most days; your heart is a muscle; exercise is good for your heart; exercising makes us sweat; we need to wash after exercising to keep clean; keeping clean is another way to keep your body healthy. Look at the heart picture. Make a fist: 'Your heart is about the size of your fist. It squeezes like this all day and night to push blood round your body.' Ask question 2: 'Which of these is exercise: running, reading, swimming, playing football, sleeping?' (running, swimming, playing football.) Question 3: 'Which parts of the body get stronger when you exercise?' (muscles in legs and arms, the heart, the lungs work better.) Question 4: 'Why is it good to wash your hands before eating?' (To wash off germs so they don't go into your mouth with the food.)"
+        },
+        {
+          "kind": "exp",
+          "title": "What happens when we exercise? (page 111, Think like a scientist)",
+          "mins": 20,
+          "do": "Do Experiment e6, following the three pictures on page 111: at rest, do some exercise, after exercise. First your child sits still for two minutes. Ask them to predict what will happen to their heart, breathing and skin after exercise. Then 'at rest': put their hand flat on the left side of the chest to feel the heartbeat (or you find the pulse on the inside of the wrist below the thumb) and count beats for 15 seconds with a timer; count breaths in 15 seconds by watching the chest rise; feel the forehead: cool or warm? Write all three. Now they do 2 minutes of exercise: jumping jacks, skipping, running on the spot or climbing stairs. Immediately measure again. Ask the page 111 questions: 'Were your predictions correct? Did you observe any other changes?' (red face, sweaty, thirsty, tired legs.)",
+          "ref": "e6"
+        },
+        {
+          "kind": "review",
+          "title": "Three ways to keep healthy (page 111)",
+          "mins": 7,
+          "do": "Ask your child to tell you three ways to keep healthy, from this week: eat a healthy diet with lots of different foods; exercise most days; keep clean (wash hands, bathe, brush teeth). Ask: 'Why do Indian doctors say to drink clean, boiled or filtered water?' (So we don't drink germs.) Tick the 'Look what I can do!' list on page 111. Check on the e5 egg shells: any change yet?",
+          "ref": "e5"
+        }
+      ],
+      "need": ["Learner's Book pages 110–111", "a timer or phone stopwatch", "paper for results", "space to exercise", "a glass of water"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Looking after our teeth",
+      "goal": "Learn how to keep teeth healthy: a healthy diet with calcium, little sugar, brushing twice a day with fluoride toothpaste and visiting the dentist.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Draw your teeth (page 112 Getting started)",
+          "mins": 6,
+          "do": "Do the 'Getting started' task on page 112: your child draws some teeth and adds labels to show what they already know (sharp front teeth, flat back teeth, gums, a wobbly tooth, a gap where a tooth fell out). Look at the photo of the smiling girl with a gap. Ask: 'Have you lost any teeth yet? What grew in its place?'"
+        },
+        {
+          "kind": "read",
+          "title": "Looking after teeth (pages 113–114)",
+          "mins": 10,
+          "do": "Read 'Looking after teeth' on page 113: we use teeth to eat and to talk; keep teeth healthy by eating a healthy diet; calcium is a material that helps to make teeth strong; milk and other dairy foods, some beans and some fish have calcium; food with lots of sugar is bad for teeth; brush your teeth twice every day for two minutes; use toothpaste with fluoride in it, fluoride helps make your teeth strong; do not use too much toothpaste; go to the dentist twice a year. Look at the toothbrush picture showing how much toothpaste to use (a small pea-sized blob). Ask questions 1–3 on page 114: 'What three things can you do to look after your teeth?' (eat healthy food with little sugar, brush twice a day with fluoride toothpaste, visit the dentist.) 'How much toothpaste should you use?' (a pea-sized blob.) 'What do calcium and fluoride do?' (help make teeth strong.) Find foods with calcium in your kitchen: milk, curd, paneer, ragi, rajma, til (sesame)."
+        },
+        {
+          "kind": "do",
+          "title": "Two-minute brushing practice",
+          "mins": 12,
+          "do": "Take your child to the bathroom with a timer. Put a pea-sized blob of fluoride toothpaste on their brush. Show them how to brush: small circles on the outsides of the teeth, the insides, and back and forth on the chewing tops of the back teeth, top and bottom, and gently along the gums. Set the timer for 2 minutes; most children find this is longer than they usually brush. Afterwards ask: 'Did you reach the very back teeth?' Tell them not to swallow toothpaste and to spit it out. If you have disclosing tablets from a chemist, chew one before brushing to see the plaque in pink."
+        },
+        {
+          "kind": "exp",
+          "title": "Peek at the egg shells",
+          "mins": 7,
+          "do": "Look at the e5 glasses without taking the shells out. Ask: 'What do you see on the shell in the sugary drink? Is it different from the one in water?' The shell in cola may look stained brown and have tiny bubbles on it. Your child draws today's diagram. Tell them you will take the shells out after seven days.",
+          "ref": "e5"
+        }
+      ],
+      "need": ["Learner's Book pages 112–114", "paper and pencil", "your child's toothbrush and fluoride toothpaste", "a timer", "the e5 glasses"],
+      "prep": []
+    },
+    {
+      "n": 14,
+      "title": "Incisors, canines and molars",
+      "goal": "Learn the three main types of teeth and their jobs, and make a model of our own teeth.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Types of teeth (page 115)",
+          "mins": 8,
+          "do": "Read 'Types of teeth' on page 115 and look at the mouth diagram with labels: molars, canine, incisors, gum. Humans have three main types of teeth: incisors, canines and molars; teeth have roots to fix them to your gums. Incisors are for biting food; they are straight at the top and sharp. Canines are for gripping and tearing food; they are pointed. Molars are for chewing and grinding food; they are wide and bumpy. Children have 20 baby teeth; as you grow older these fall out because larger adult teeth are growing in your gums; adults have 32 teeth. Ask: 'Why do adults have more teeth than children?' (Their jaws are bigger, so there is room for more molars at the back.)"
+        },
+        {
+          "kind": "do",
+          "title": "Bite, tear, grind test",
+          "mins": 8,
+          "do": "Give your child a slice of apple or carrot, a piece of roti, and a few roasted chana or peanuts. Ask them to notice which teeth they use: biting the apple (front incisors), tearing the roti (pointed canines at the corners), chewing chana (back molars). Ask: 'Could you grind chana with your front teeth?' Let them try and notice it is hard. Look at a cat's or dog's teeth in a photo: they have long canines for tearing meat. A cow has wide flat molars for grinding grass."
+        },
+        {
+          "kind": "act",
+          "title": "Making model teeth (page 116, Think like a scientist 2)",
+          "mins": 16,
+          "do": "Do Activity a5, the book's 'Making model teeth' on page 116. Read the red lines first: wash your hands before and after you touch your teeth; do not touch other people's teeth. Using a mirror, your child looks at their own teeth and counts them, top and bottom, touching each kind to feel the sharp edges and bumps. Then they make a model with white clay or atta dough on a red or pink clay gum, like Marcus's: flat sharp incisors at the front, pointed canines at the corners, wide bumpy molars at the back. Add any gaps where teeth have fallen out. Label each type on paper flags. Read the green box: 'Scientists often make and use models. What did you learn from making your model teeth?'",
+          "ref": "a5"
+        },
+        {
+          "kind": "review",
+          "title": "Tick list (page 117)",
+          "mins": 3,
+          "do": "Read the 'Look what I can do!' list on page 117 and tick each one your child can do: describe the three types of teeth and what they do, explain how to look after teeth, say if predictions were correct, make model teeth, stay safe in an investigation."
+        }
+      ],
+      "need": ["Learner's Book pages 115–117", "a mirror", "apple or carrot slices, a piece of roti, roasted chana or peanuts", "white and pink/red clay or atta dough (add a little haldi or beetroot juice for colour)", "paper for labels", "soap"],
+      "prep": []
+    },
+    {
+      "n": 15,
+      "title": "Egg shell results and people who use science",
+      "goal": "Find out what the sugary drink did to the egg shell, and learn about jobs where people use science.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Egg shell results (page 114)",
+          "mins": 12,
+          "do": "Finish Experiment e5 (at least seven days after you started; if not yet, do this step on the next day). Lift out each shell with a spoon onto a tissue. Compare: colour, smoothness and strength (press gently with a fingertip). Ask the page 114 questions: 'What did you find out at the end? Explain what too much sugar can do to teeth.' Do 'How am I doing?': look at the prediction diagram from Day 9 and say which predictions were correct and which were not. Explain the 'why' from e5.",
+          "ref": "e5"
+        },
+        {
+          "kind": "read",
+          "title": "Project: People who use science (pages 117–119)",
+          "mins": 6,
+          "do": "Read the project on pages 117–119: there are lots of people who use science in their jobs: a dentist uses science to look after teeth; a sports coach uses science to plan the best exercises; the police use science to catch people who have done things that are wrong (link back to fingerprints and Azizul Haque); a zoologist uses science to learn about animals. Ask: 'Which grown-ups you know use science in their work?' (a doctor, nurse, pharmacist, farmer, cook, electrician, vet, teacher.)"
+        },
+        {
+          "kind": "act",
+          "title": "Job poster (page 119)",
+          "mins": 17,
+          "do": "Do Activity a6. Your child makes a poster about a job that uses science, as page 119 asks, like the girl's 'Zoologist' poster: a heading with the job's name, a drawing of the person at work, and a list 'Uses science to…'. They may choose a job from the book or someone they know, for example 'Our family doctor uses science to find out why we are ill and which medicine will help.' If possible, phone or visit that person and ask them one question: 'How do you use science in your job?' and write the answer on the poster.",
+          "ref": "a6"
+        }
+      ],
+      "need": ["Learner's Book pages 114 and 117–119", "the e5 glasses", "a spoon and tissues", "a big sheet of paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 16,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the book's progress questions, try the stretch and challenge worksheets, and teach the unit back.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Check your progress (pages 120–122)",
+          "mins": 8,
+          "do": "Do 'Check your progress' on pages 120–122 aloud. 1. 'How do this newt and this fish look similar? How do they look different?' (Similar: both have a tail, eyes, live in water, long bodies. Different: the newt has four legs, the fish has fins; the fish is bigger and pointed.) 2. 'Find the adult animals and their young.' (hen and chick, cheetah and cubs, frog and tadpoles, goat and kid.) 3. 'Which of these foods are healthy?' (pineapple, fruit, fish, rice, vegetables, milk; not cola, sugar, jam, chips, burger or too much cream.) 4. 'Which of these is exercise?' (cycling, skipping, running; not lying on the grass or reading.) 5. 'What three things can Zara do to look after her teeth?' (brush twice a day for two minutes with fluoride toothpaste, eat little sugar and plenty of calcium, visit the dentist.) Then ask this pack's check questions."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Do worksheet ws2. These questions apply the ideas to new animals and new situations. Let your child think aloud.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do worksheet ws3, the harder 'what if' and thinking questions. Accept any answer your child can back up with a good reason.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 9,
+          "do": "Your child becomes the teacher. Using the leg-count block graph, the height pictogram, the balloon fingerprint, the food sorting and the model teeth, they explain to a family member: what makes a mammal and a bird; how a young animal changes as it grows; why children look like their parents but not exactly; three ways to keep healthy; and the three kinds of teeth and their jobs. The listener asks two 'why' questions. End by asking: 'What is one healthy thing you will do every day from now on?'"
+        }
+      ],
+      "need": ["Learner's Book pages 120–122", "printed or on-screen ws2 and ws3", "graphs, fingerprints and the model teeth from earlier days"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Animals, growing and inheriting",
+      "day": 9,
+      "sections": [
+        ["A. Comparing animals", [
+          {"t": "sort", "p": "Mammal or bird?", "items": ["cow", "peacock", "elephant", "sparrow", "human", "hen", "dog", "parrot"], "cats": ["Mammal (hair or fur)", "Bird (feathers)"]},
+          {"t": "fill", "p": "Animals that have hair or fur are called ____.", "a": ["mammals", "mammal"]},
+          {"t": "mcq", "p": "How does a bird look similar to a human?", "opts": ["Both have two legs", "Both have feathers", "Both have fur", "Both have beaks"], "a": 0}
+        ]],
+        ["B. Growing", [
+          {"t": "match", "p": "Match each adult to its young.", "pairs": [["cow", "calf"], ["hen", "chick"], ["tiger", "cub"], ["goat", "kid"], ["frog", "tadpole"]]},
+          {"t": "table", "p": "Sofia measured people with bottles. Fill in her results from page 99.", "cols": ["Person", "Number of bottles tall"], "rows": 3, "prefill": ["Toddler aged 5", "Child aged 10", "Adult aged 30"]},
+          {"t": "mcq", "p": "What is the pattern in Sofia's results?", "opts": ["Older people were taller", "Younger people were taller", "Everyone was the same height", "There is no pattern"], "a": 0}
+        ]],
+        ["C. Inheriting", [
+          {"t": "fill", "p": "Young animals get characteristics from their parents. We say they ____ them.", "a": ["inherit"]},
+          {"t": "mcq", "p": "Why does a tiger cub look similar to its parents but not identical?", "opts": ["It inherits some characteristics from each parent", "It copies its parents", "It eats the same food", "All tigers are identical"], "a": 0},
+          {"t": "draw", "p": "Draw your own fingerprint and write whether it is a loop, a whorl or an arch."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Healthy bodies and new animals",
+      "day": 16,
+      "sections": [
+        ["A. New animals", [
+          {"t": "mcq", "p": "A bat flies like a bird, but it has fur and feeds its babies on milk. A bat is a:", "opts": ["mammal", "bird", "insect", "fish"], "a": 0},
+          {"t": "write", "p": "A caterpillar and a butterfly look very different. How do you know they are the same kind of animal at different ages?", "lines": 3}
+        ]],
+        ["B. Keeping healthy", [
+          {"t": "sort", "p": "Sort these foods using the food triangle.", "items": ["spinach", "roti", "dal", "jalebi", "banana", "paneer", "chips", "rice"], "cats": ["Eat lots", "Eat some", "Eat a little"]},
+          {"t": "write", "p": "Arjun says 'I don't need to wash my hands. They look clean.' What would you tell him?", "lines": 3},
+          {"t": "table", "p": "Write what happened in your exercise test.", "cols": ["", "At rest", "After exercise"], "rows": 3, "prefill": ["Heartbeats in 15 seconds", "Breaths in 15 seconds", "Skin: cool or warm?"]}
+        ]],
+        ["C. Teeth", [
+          {"t": "match", "p": "Match each tooth to its job.", "pairs": [["Incisors", "biting food"], ["Canines", "gripping and tearing food"], ["Molars", "chewing and grinding food"]]},
+          {"t": "fill", "p": "Children have ____ baby teeth and adults have 32 teeth.", "a": ["20", "twenty"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a scientist",
+      "day": 16,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if humans had only molars and no incisors? What foods would be hard to eat? How would we have to change the way we eat?", "lines": 3},
+          {"t": "write", "p": "Identical twins have the same fingerprints pattern type but their fingerprints are still not exactly the same. What does that tell you about whether everything about us is inherited?", "lines": 3}
+        ]],
+        ["B. Puzzles", [
+          {"t": "mcq", "p": "In Sofia's leg survey, most small animals had 6 legs. What is the best reason?", "opts": ["Insects such as ants are the most common small animals", "All small animals have 6 legs", "She counted wrongly", "Snails have 6 legs"], "a": 0},
+          {"t": "write", "p": "In the egg shell test, why did we put one shell in plain water as well as one in the sugary drink?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Many doctors laughed at Semmelweis for saying doctors should wash their hands. What evidence did he have? Why do you think people still did not believe him?", "lines": 4},
+          {"t": "write", "p": "Your book says some people can roll their tongues and some cannot. Scientists once said this was simply inherited, but then found identical twins who were different. What would you need to see to believe a characteristic is inherited?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "How many legs do small animals have?",
+      "day": 3,
+      "question": "How many legs do the small animals near our home have, and which number is most common?",
+      "need": ["a magnifying glass", "a clipboard or notebook", "squared paper and colours"],
+      "steps": [
+        "Choose an outdoor habitat: a garden, park or flowerpots.",
+        "Look under stones and pots, on leaves and walls.",
+        "Observe each small animal with the magnifying glass without touching it.",
+        "Count its legs and make a tally mark under '0 legs', '6 legs', '8 legs' or 'more than 8'.",
+        "If you are not sure, count again or ask a partner to count.",
+        "Put stones back and make a block graph of the results."
+      ],
+      "predict": "Ask your child to guess first: how many legs do an ant, a spider, a snail and a woodlouse have? Which number of legs will we find most often?",
+      "observe": "Ants, beetles, ladybirds and other insects have 6 legs; spiders have 8; snails, slugs and earthworms have none; woodlice have 14; millipedes and centipedes have many. Usually 6-legged animals are the most common.",
+      "why": "Small animals without backbones come in groups that share body plans. All adult insects (ants, flies, beetles, butterflies) have 6 legs and three body parts. Spiders belong to a different group with 8 legs and two body parts. Woodlice are related to crabs and have 14 legs. Snails and worms move without legs, by sliding on a muscly foot or squeezing their body. Counting legs is one of the quickest ways scientists sort small animals into groups. Insects are the biggest group of animals on Earth, which is why you find so many 6-legged animals.",
+      "safety": "Do not touch animals that can sting or bite, such as bees, wasps, scorpions, centipedes or hairy caterpillars. Wash hands after the hunt.",
+      "time": "18 min outdoors + 10 min graph"
+    },
+    {
+      "id": "e2",
+      "title": "Measuring height with bottles",
+      "day": 6,
+      "question": "How tall are people of different ages, and is there a pattern?",
+      "need": ["two identical 1-litre plastic bottles", "a younger child, your child and an adult", "squared paper"],
+      "steps": [
+        "Each person lies flat on the floor with their feet touching a wall.",
+        "Put the first bottle on its side against the wall at their feet.",
+        "Put the second bottle end to end with the first.",
+        "Move the first bottle to the front of the second; count each bottle as you go.",
+        "Stop at the top of the head; record the number of bottles (and 'half' if needed).",
+        "Measure each person twice and record their age.",
+        "Make a block graph or pictogram of the results."
+      ],
+      "predict": "Ask your child to guess first: how many bottles tall will you be? The younger child? The adult?",
+      "observe": "Older children are more bottles tall than younger children, and the adult is tallest. The gap between a 5-year-old and a 10-year-old is usually bigger than between a 10-year-old and an adult in bottles per year.",
+      "why": "Children grow because their bones get longer, especially the leg bones, which have growing zones near their ends. This growth is fastest as a baby, steady through childhood, fast again in the teenage years, and then stops in the late teens or early twenties when the growing zones close. That is why height and age show a pattern in children but adults of very different ages can be the same height. Using the same two bottles each time is a fair way to measure, as long as there are no gaps.",
+      "safety": "",
+      "time": "20 min + 10 min graph"
+    },
+    {
+      "id": "e3",
+      "title": "Balloon fingerprints",
+      "day": 8,
+      "question": "What type of fingerprint do I have, and are everyone's the same?",
+      "need": ["un-blown balloons", "a washable marker or a stamp pad", "paper", "wet wipes"],
+      "steps": [
+        "Scribble hard with the marker to make an ink patch on paper, or use a stamp pad.",
+        "Press one fingertip on the ink patch, then press it firmly onto an un-blown balloon.",
+        "Blow up the balloon slowly and tie it.",
+        "Look at the enlarged print and compare it with the loop, whorl and arch on page 105.",
+        "Take prints of the same finger of each family member on paper.",
+        "Sort the prints into loops, whorls and arches."
+      ],
+      "predict": "Ask your child to guess first: will your fingerprint be the same as Mummy's or Papa's? Will your two thumbs be the same?",
+      "observe": "The balloon makes the ridges big enough to see clearly. Most people have mainly loops, some have whorls, and arches are least common. Family members may share a type, but no two prints are exactly the same, even your own two thumbs.",
+      "why": "Your fingertips are covered in tiny ridges of skin that help you grip. They form before you are born, while you are still growing inside your mother. The overall type (loop, whorl or arch) tends to run in families, so it is partly inherited. But the exact pattern of every ridge is also shaped by tiny differences in how you grew in the womb, so even identical twins have different fingerprints. That is why fingerprints can identify one person among millions.",
+      "safety": "Do not let young children put balloons in their mouths unsupervised; pick up burst balloon pieces at once.",
+      "time": "18 min"
+    },
+    {
+      "id": "e4",
+      "title": "Glitter germs",
+      "day": 11,
+      "question": "How easily do germs spread, and what is the best way to wash them off?",
+      "need": ["a little cooking oil", "glitter or haldi (turmeric) powder", "soap", "water"],
+      "steps": [
+        "Rub a few drops of oil on your child's hands and sprinkle on glitter or haldi: these are pretend germs.",
+        "Your child shakes hands with you and touches a door handle, a toy and a cup.",
+        "Look where the 'germs' have spread.",
+        "Wash with cold water only for 5 seconds and look.",
+        "Wash with soap, rubbing palms, backs, between fingers, thumbs and nails for 20 seconds, and look again.",
+        "Wipe the handle, toy and cup clean."
+      ],
+      "predict": "Ask your child to guess first: will water alone wash off the 'germs'? How much will soap help?",
+      "observe": "The glitter spreads to everything touched. A quick water rinse leaves most of it, especially between fingers and under nails. A 20-second soap wash removes nearly all of it.",
+      "why": "Real germs are far too small to see, but they spread the same way, from hands to things to other hands, and into our mouths and noses. Many germs stick to the oils on our skin. Water alone runs off oily skin without lifting much away. Soap's particles have one end that grabs oil and dirt and another end that grabs water, so they lift the oil and the germs off the skin and let water carry them away. Rubbing for 20 seconds gives soap time to work on every part of the hand.",
+      "safety": "Keep glitter and haldi away from eyes. Haldi can stain clothes yellow.",
+      "time": "12 min"
+    },
+    {
+      "id": "e5",
+      "title": "What does a sugary drink do to egg shell?",
+      "day": 9,
+      "question": "What happens to egg shell, which is similar to teeth, when it sits in a sugary drink?",
+      "need": ["2 halves of a clean egg shell", "2 clear glasses and 2 saucers", "water", "cola or another sugary fizzy drink", "a spoon and tissues"],
+      "steps": [
+        "Rinse the egg shell halves and put one in each glass.",
+        "Label the glasses 'water' and 'sugary drink'.",
+        "Fill one with water and the other with cola or a sugary drink, covering the shells.",
+        "Draw a diagram of your prediction.",
+        "Cover with saucers and leave for seven days, peeking now and then.",
+        "Lift out the shells with a spoon and compare colour, smoothness and strength."
+      ],
+      "predict": "Ask your child to guess first: what will happen to the shell in water, and the shell in the sugary drink, after a week? Draw it.",
+      "observe": "The shell in water looks almost the same. The shell in cola is usually stained brown, and it may feel rougher, thinner or softer and break more easily when pressed.",
+      "why": "Egg shell is made mostly of calcium carbonate. Tooth enamel is a different calcium mineral, but both are hard calcium materials that are attacked by acids. Sugary drinks harm teeth in two ways. First, many sweet drinks such as cola and fruit juices are themselves acidic, and the acid slowly dissolves the hard outer layer; in this test, it is mainly the drink's acid that eats into the shell. Second, germs (bacteria) living in our mouths feed on sugar and make acid, which attacks enamel and causes holes called cavities. Dark drinks also stain. Fluoride in toothpaste helps make enamel harder to dissolve, and brushing removes the bacteria and sugar.",
+      "safety": "Do not drink the drink after the test, and wash hands after handling the shells.",
+      "time": "10 min set-up + short peeks + 12 min after 7 days"
+    },
+    {
+      "id": "e6",
+      "title": "What happens when we exercise?",
+      "day": 12,
+      "question": "How do our heart, breathing and skin change when we exercise?",
+      "need": ["a timer or phone stopwatch", "paper and pencil", "space to exercise", "a glass of water"],
+      "steps": [
+        "Sit still for two minutes.",
+        "Count heartbeats for 15 seconds with a hand on the chest or a finger on the wrist pulse.",
+        "Count breaths for 15 seconds.",
+        "Feel your forehead: cool or warm?",
+        "Exercise for 2 minutes: jumping jacks, skipping or running on the spot.",
+        "Measure all three again straight away, then after 3 minutes of rest.",
+        "Drink some water."
+      ],
+      "predict": "Ask your child to guess first: after exercise, will your heart beat faster or slower? Will you breathe faster or slower? Will your skin be cooler or warmer?",
+      "observe": "After exercise the heartbeat count and the breath count go up a lot, the skin feels warm and may be sweaty and red. After a few minutes of rest they start coming back down.",
+      "why": "When you exercise, your muscles work hard and need more oxygen and food from your blood. Your heart, which is a muscle, beats faster to pump blood round your body more quickly, and you breathe faster and deeper to get more oxygen into your blood. Working muscles also make heat, so you get warm. Your body cools itself by sweating: as sweat dries on your skin it takes heat away. Exercising most days makes your heart and muscles stronger, so they can do this more easily.",
+      "safety": "Stop if your child feels dizzy or has chest pain. Children with asthma or heart conditions should follow their doctor's advice.",
+      "time": "20 min"
+    }
+  ],
+  "activities": [
+    {"id": "a1", "title": "My animal questions", "day": 2, "mins": 20, "need": ["a children's animal book or internet access", "paper and pencils"], "steps": ["Write three questions about animals.", "Decide for each: can we observe it, or do we need a book, video or website?", "Find the answers.", "Write each answer in one sentence and draw a picture."], "outcome": "Three questions about animals with answers and the source used."},
+    {"id": "a2", "title": "How do baby animals change?", "day": 4, "mins": 15, "need": ["paper and colours", "pictures of animals (optional)"], "steps": ["Choose an animal and its young.", "Draw or paste the young and the adult side by side.", "Add notes and arrows to show how the young changes as it grows.", "Choose a second animal whose young looks very different."], "outcome": "Labelled pictures showing how young animals change into adults."},
+    {"id": "a3", "title": "A younger me", "day": 5, "mins": 13, "need": ["baby and toddler photos", "paper, glue, colours"], "steps": ["Look at your baby photos.", "Paste or draw 'Me as a baby' and 'Me now' side by side.", "Write your age then and now.", "Label three ways you have changed."], "outcome": "A before-and-now page showing how your child has grown."},
+    {"id": "a4", "title": "Sorting food", "day": 10, "mins": 15, "need": ["real foods or packets", "3 labels: Eat lots, Eat some, Eat a little", "a paper plate and colours"], "steps": ["Lay out the three labels.", "Place each food under a label using the food triangle on page 107.", "Say why for each.", "Draw a healthy lunch thali on a paper plate."], "outcome": "Foods sorted by the food triangle and a plan for a healthy thali."},
+    {"id": "a5", "title": "Model teeth", "day": 14, "mins": 16, "need": ["a mirror", "white and pink clay or coloured atta dough", "paper flags for labels", "soap"], "steps": ["Wash hands.", "Look at and count your teeth in a mirror; feel each type.", "Make a pink gum shape.", "Add incisors at the front, canines at the corners and molars at the back.", "Label each type.", "Wash hands again."], "outcome": "A labelled clay model of your child's own teeth."},
+    {"id": "a6", "title": "People who use science poster", "day": 15, "mins": 17, "need": ["a big sheet of paper", "colours"], "steps": ["Choose a job that uses science.", "Write the job name as a heading.", "Draw the person at work.", "List 'Uses science to…' with at least three things.", "If possible, ask a real person in that job one question and add the answer."], "outcome": "A poster showing how one job uses science."}
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Gregor Mendel (1822–1884), Brno (now in the Czech Republic)",
+      "idea": "Mendel was a monk who, between about 1856 and 1863, grew and carefully crossed thousands of pea plants in his monastery garden. He followed simple characteristics, such as tall or short plants, smooth or wrinkled peas and yellow or green peas, and counted the offspring. He found regular number patterns: for example, a characteristic could vanish in one generation and reappear in about a quarter of the next. He explained this by saying each parent passes on 'factors' (we now call them genes), and each child gets one from each parent. He published his results in 1866.",
+      "then": "Almost nobody paid attention. His paper was published in a small local journal, and the few scientists who read it did not see how important it was. Mendel became head of his monastery and did little more research before he died.",
+      "now": "In 1900, three other botanists (Hugo de Vries, Carl Correns and Erich von Tschermak) found the same patterns and discovered Mendel's paper. His ideas became the foundation of genetics, the science of inheritance. We now know that many human characteristics, like height, depend on many genes and on things like food, so they do not follow his simple pea patterns, but his basic idea, that we inherit from both parents, is accepted.",
+      "status": "accepted",
+      "ask": "Mendel counted thousands of peas instead of just a few. Why would counting a lot help him see a pattern? What might go wrong if he had only grown ten plants?",
+      "day": 7
+    },
+    {
+      "id": "v2",
+      "who": "The tongue-rolling idea: Alfred Sturtevant (1891–1970), USA, and later twin studies",
+      "idea": "In 1940 the geneticist Alfred Sturtevant reported that the ability to roll the tongue into a tube seemed to be inherited in a simple way, controlled by a single gene, with 'roller' winning over 'non-roller'. Tongue rolling soon appeared in school books as a classic example of a simply inherited characteristic, and attached or free earlobes often appeared alongside it.",
+      "then": "Within about a dozen years other researchers found identical twins, who share the same genes, where one twin could roll their tongue and the other could not. Other studies found that some children learn to roll their tongue as they get older. Sturtevant himself later said that he was embarrassed to see it still taught as a simple single-gene characteristic.",
+      "now": "The idea that tongue rolling is controlled by one gene in a simple way is rejected. Genes may play some part, but practice and other factors matter too. Earlobe shape is also now known not to follow a simple one-gene pattern. These characteristics are still fine to compare and sort, as in the book's activity, but they are not good proof of simple inheritance.",
+      "status": "rejected",
+      "ask": "Identical twins inherit the same characteristics from their parents. If one twin can roll their tongue and the other can't, what does that tell you? What other things, apart from what we inherit, can change what we can do?",
+      "day": 8
+    },
+    {
+      "id": "v3",
+      "who": "Azizul Haque (1872–1935) and Hem Chandra Bose (1867–1949), Bengal Police, India",
+      "idea": "In the 1890s the Bengal Police, led by Inspector-General Edward Henry, wanted to use fingerprints to identify criminals. The problem was finding one person's card among thousands. Azizul Haque, a police officer good at mathematics, worked out a system for sorting fingerprints into groups using their patterns (loops, whorls, arches) and ridge counts, so a card could be found quickly. Hem Chandra Bose helped improve the system. A fingerprint bureau was set up in Kolkata (then Calcutta) in 1897, the first of its kind in the world.",
+      "then": "The system became known as the Henry Classification System, after Edward Henry, who took it to Scotland Yard in London; it was soon used by police forces in many countries. For years Haque's and Bose's part was hardly mentioned.",
+      "now": "Historians agree that Haque and Bose did much of the key work. In the 1920s the British government of India officially recognised their contributions with awards. The Henry system was used worldwide for about a century before computers took over fingerprint matching, and fingerprints are still used by police today.",
+      "status": "accepted",
+      "ask": "Haque and Bose did important work but their boss got the credit. How do scientists today try to make sure everyone who did the work gets credit? Why does it matter?",
+      "day": 9
+    },
+    {
+      "id": "v4",
+      "who": "Ignaz Semmelweis (1818–1865), Hungary, working in Vienna",
+      "idea": "In 1847 Semmelweis was a doctor in the maternity wards of the Vienna General Hospital. Many mothers died of 'childbed fever' after giving birth, and far more died in the ward run by doctors and medical students than in the ward run by midwives. He noticed that the doctors often came straight from examining dead bodies. He ordered them to wash their hands in a chlorine solution before examining mothers, and deaths in that ward fell sharply.",
+      "then": "Many leading doctors rejected his idea. Germs had not yet been shown to cause disease, so there seemed to be no reason why invisible 'particles' on hands could kill, and some doctors were offended at being told they were spreading death. Semmelweis lost his job in Vienna, grew angry and bitter, and died in 1865 in a mental hospital.",
+      "now": "His idea is fully accepted. In the 1860s and later, Louis Pasteur and Robert Koch showed that germs cause many diseases, and Joseph Lister brought antiseptics into surgery. Handwashing is now one of the most important ways to stop the spread of illness in hospitals and homes.",
+      "status": "accepted",
+      "ask": "Semmelweis had strong numbers showing handwashing saved lives, but he could not explain why. Should doctors have tried his idea anyway? When should we act on evidence before we fully understand the reason?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "What makes an animal a mammal? Give two examples.", "a": "It has hair or fur (and feeds its babies on milk), for example a cow, a dog, an elephant or a human."},
+    {"q": "How is a bird different from a mammal?", "a": "A bird has feathers instead of fur or hair (and wings, a beak, two legs and lays eggs)."},
+    {"q": "What do we call a baby elephant and a baby penguin, and how does each change as it grows?", "a": "A calf, which grows bigger; a chick, which grows different coloured feathers."},
+    {"q": "Why do young animals look similar to their parents but not identical?", "a": "They inherit some characteristics from one parent and some from the other."},
+    {"q": "Name three ways to keep healthy.", "a": "Eat a healthy diet with lots of different foods, exercise most days, keep clean such as washing hands."},
+    {"q": "How do germs make us ill, and how can we stop them?", "a": "Germs get inside us and our body cannot kill them; wash hands before eating and after the toilet, do not eat dirty food or drink dirty water, cover coughs and sneezes."},
+    {"q": "What happened to your heart and breathing after exercise?", "a": "They both got faster (and the skin got warm and sweaty)."},
+    {"q": "Name the three types of teeth and their jobs.", "a": "Incisors bite, canines grip and tear, molars chew and grind."}
+  ]
+}

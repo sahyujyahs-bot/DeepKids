@@ -1,0 +1,508 @@
+{
+  "key": "nios|sci|5|15",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 15,
+  "title": "Garbage and Waste Disposal",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 15 (lesson pages 224–233)",
+  "summary": "Every home makes waste every day. Your child learns to tell degradable (organic) waste that rots from non-degradable (inorganic) waste that does not, finds out what happens when waste is dumped, burnt or thrown in rivers, and learns proper disposal: segregating at home into separate bins, composting wet waste, and sending dry waste to the kabadiwala and recyclers. Through a household waste audit, a see-through rot jar, a rain-on-garbage test and a street litter survey, they see the problem and the solutions with their own eyes, and meet Rachel Carson, Almitra Patel and a live debate about burning waste for energy.",
+  "goals": [
+    "By the end your child can sort household waste into degradable (organic, wet) and non-degradable (inorganic, dry) and give reasons.",
+    "By the end your child can explain why dumping waste in the open, in ponds and rivers, or burning it harms soil, water, air and health.",
+    "By the end your child can describe proper disposal: segregation at home, composting wet waste and sending dry waste for recycling, and can set up and use two home bins.",
+    "By the end your child can explain what recycling and reuse mean, with examples of things made from old iron, glass, paper and plastic.",
+    "By the end your child can explain that some waste, such as batteries, medicines, broken bulbs and electronic waste, is hazardous and needs to be kept apart.",
+    "By the end your child can take part in keeping public places clean and argue, with evidence, about what a city should do with its waste."
+  ],
+  "words": [
+    ["waste", "anything we throw away because we no longer need it: peels, paper, plastic, glass, metal, old clothes, broken things"],
+    ["degradable (organic) waste", "waste from once-living things, such as peels, leftover food, leaves, paper and cotton, which tiny microbes break down so it rots and becomes part of the soil; also called wet waste when it is food and garden waste"],
+    ["non-degradable (inorganic) waste", "waste that does not rot for a very long time, such as plastic, polythene, glass and metal; also called dry waste"],
+    ["segregation", "keeping different kinds of waste apart, in separate bins, from the start"],
+    ["disposal", "getting rid of waste in a proper, safe way"],
+    ["compost", "dark, crumbly manure made when wet waste and leaves rot with the help of microbes and small creatures"],
+    ["recycling", "melting, pulping or breaking down used materials in factories to make new things, like new paper from old newspaper or new bottles from old glass"],
+    ["reuse", "using a thing again, as it is or for a new job, like using a glass jar to store dal or old cloth as a duster"],
+    ["kabadiwala", "a scrap dealer who buys old newspapers, bottles, metal and plastic from homes and sends them for recycling"],
+    ["landfill", "a large area of land where a city's waste is dumped and covered, such as the Ghazipur and Deonar dumping grounds"],
+    ["pollution", "harmful things in the air, water or soil that make them dirty and unsafe for living things"],
+    ["hazardous waste", "waste that can harm people or the environment, such as batteries, medicines, paint, broken tube lights, used needles and electronic waste"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is in our dustbin?",
+      "goal": "Start from our own daily sweeping, learn the difference between waste that rots and waste that does not, set up a see-through rot jar, and start a one-day household waste audit.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Where does it go?",
+          "mins": 5,
+          "do": "Ask your child: 'What did we throw away today? Name everything you can think of, from morning until now.' Write the list (tea leaves, milk packet, peels, a biscuit wrapper, dust from sweeping). Then ask: 'After the dustbin is emptied, where does all this go?' Let them guess: the garbage van, the big dump, a river, it gets burnt. Tell them: 'This week we will follow our waste and find out how to deal with it properly.'"
+        },
+        {
+          "kind": "read",
+          "title": "Opening and 15.1 kinds of waste (lesson pages 224–225)",
+          "mins": 8,
+          "do": "Read the opening of Lesson 15 on lesson page 224 and 15.1 on lesson pages 224–225 aloud, and look at the two pictures. Ask: 'What is degradable or organic waste?' (Things that rot in a few days and mix with the soil: peels, leftover food, leaves, paper, old cotton cloth.) 'What is non-degradable or inorganic waste?' (Things that do not rot for a long time: iron nails, glass, plastic, polythene.) Correct one detail: the book says plastic 'never' rots. More exactly, plastic takes hundreds of years and does not truly rot; sunlight and rubbing break it into smaller and smaller pieces called microplastics, which stay in soil and water. Also: cotton cloth rots, but clothes made of polyester and nylon are plastic and do not. Do 'Let's see 15.1' on lesson page 225 aloud."
+        },
+        {
+          "kind": "game",
+          "title": "Wet or dry? Sort the real thing",
+          "mins": 9,
+          "do": "Spread old newspaper on the floor and put out clean examples: a vegetable peel, an eggshell or tea leaves, a dry leaf, a newspaper piece, a cardboard piece, a cotton rag, a polythene bag, a plastic bottle cap, a chips packet, a glass jar, a tin can or nail, an old pen. Your child sorts them into 'Rots (degradable)' and 'Does not rot (non-degradable)'. Discuss the tricky ones: the chips packet looks like paper but is plastic with a thin metal layer; a paper cup has a plastic lining inside; an old pen is plastic. Then do Exercise III on lesson page 231 aloud: dry leaves, green grass, shreds of cotton cloth, cardboard and newspaper are degradable; polythene bags, plastic buttons, broken switches and glass bottles are not."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the see-through rot jar",
+          "mins": 13,
+          "do": "Do Experiment e1. In a large clear glass or plastic jar, put a layer of damp garden soil. Press these against the side of the jar so you can see them from outside: a piece of banana or vegetable peel, a dry leaf, a strip of newspaper, a piece of polythene, a scrap of aluminium foil, and a cotton thread. Cover them with more damp soil, keep the jar lightly moist, and cover the top with a cloth held by a rubber band. Ask your child to predict which items will change and which will stay the same in a week, and write the guesses in the notebook with the date. Ask: 'Why do we put them in the same soil?' (So only the material is different.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Start the 24-hour waste audit",
+          "mins": 10,
+          "do": "Start Activity a1. From now until the same time tomorrow, keep two bags or boxes in the kitchen marked 'Wet' (peels, leftover food, tea leaves, flowers) and 'Dry' (paper, plastic, glass, metal, packets). Tell everyone in the family to put every bit of waste in the right one. Your child makes a tally sheet with these rows: peels and food, paper and cardboard, plastic and polythene, glass, metal, cloth, other. They will weigh or count tomorrow. Ask: 'Which bag do you think will be heavier?'",
+          "ref": "a1"
+        }
+      ],
+      "need": ["NIOS Environmental Studies Level B, Lesson 15 (lesson pages 224–225, 231)", "old newspaper and clean waste samples (peel, tea leaves, dry leaf, newspaper, cardboard, cotton rag, polythene, bottle cap, chips packet, glass jar, tin or nail, old pen)", "a large clear jar, damp garden soil, a cloth and rubber band", "banana peel, dry leaf, newspaper strip, polythene, foil, cotton thread", "2 bags or boxes labelled Wet and Dry, a tally sheet"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Where should waste go? Disposal and compost",
+      "goal": "Find out what our family throws away in a day, learn what proper disposal means, start a compost pot from our wet waste, and learn how the kabadiwala helps recycling.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Weigh the waste audit",
+          "mins": 10,
+          "do": "Finish Activity a1. Using a kitchen or luggage scale (or by counting items and comparing bag sizes), your child weighs the 'Wet' and 'Dry' bags and fills in the tally. Ask: 'Which was heavier?' (In most Indian homes, wet kitchen waste is more than half.) 'What was the most common dry item?' (Often milk packets, wrappers and plastic bags.) Multiply: 'If we make this much every day, how much is that in a year?' Then ask: 'Which of these could we have avoided?' (A cloth bag instead of polythene, a steel bottle instead of plastic.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "15.2 Disposal of garbage and waste (lesson pages 225–226)",
+          "mins": 8,
+          "do": "Read 15.2 on lesson pages 225–226 aloud and look at the picture of waste dumped in a river. Ask the book's question: 'We throw waste here and there, in piles, wells, ponds and rivers. Is it the right way?' (No.) 'What does disposal mean?' (Getting rid of it properly so it causes no harm.) 'What is the first step for proper disposal?' (Segregation: keeping things that rot apart from things that do not.) 'What happens to the wet waste?' (It goes into a compost pit and becomes manure.) 'What happens to the dry waste?' (Scrap collectors take it to factories, where it is melted or pulped to make new things.) Tell them that in India many city dumps, like Ghazipur in Delhi and Deonar in Mumbai, have grown into huge hills of mixed waste, which is why segregation matters so much."
+        },
+        {
+          "kind": "act",
+          "title": "Start a compost pot from today's wet waste",
+          "mins": 15,
+          "do": "Do Activity a3, the book's 'Come, let us practice' task on lesson page 232. If you have a garden, dig a small pit in a corner; otherwise use a bucket or clay pot with a few holes in the bottom. Your child adds layers: dry leaves or shredded newspaper (brown layer), then the wet waste from the audit (peels, tea leaves, vegetable scraps, no oily or cooked food, meat or dairy), then a handful of soil, then brown again. Sprinkle water so it is damp like a squeezed sponge, as the book says, and cover it. Ask: 'Who does the work of turning waste into manure?' (Microbes like bacteria and fungi, and small creatures such as earthworms.) Stir it once a week; it should be ready in about 6–8 weeks.",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "The kabadiwala and the recycling chain",
+          "mins": 7,
+          "do": "Ask your child: 'Have you seen the kabadiwala who buys old newspapers and bottles? Where does he take them?' Explain the chain: homes sell newspapers, cardboard, bottles, metal and some plastics to the kabadiwala; he sells them to bigger dealers; they go to factories where paper is pulped into new paper, glass is melted into new bottles, and iron is melted into new steel. Waste pickers, many of them women, also collect recyclable waste from bins and dumps; in Pune, a cooperative called SWaCH, owned by waste pickers themselves, collects waste door to door. Ask: 'Why should we treat waste pickers with respect?' (They keep our city clean and save materials.)"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 15.2 and the rot jar",
+          "mins": 5,
+          "do": "Ask 'Let's see, what you have learnt 15.2' on lesson page 226 aloud: wet waste can be made into compost; non-degradable waste is melted in factories and made into useful things. Then look at the rot jar from Experiment e1 from the outside. Ask: 'Has anything changed yet?' Draw it with the date.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 225–226 and 232", "the audit bags and tally sheet", "a kitchen or luggage scale (optional)", "a bucket or clay pot with holes, or a corner of the garden and a trowel", "dry leaves or shredded newspaper, soil, water", "the rot jar"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Separate dustbins, reuse and hazardous waste",
+      "goal": "Learn why separate dustbins are used, set up our own home bins, learn which waste is hazardous, make something useful from waste, and meet Almitra Patel.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "15.3 Separate dustbins (lesson page 227)",
+          "mins": 7,
+          "do": "Read 15.3 on lesson page 227 aloud and look at the picture of two dustbins. Ask: 'Why keep two dustbins?' (One for organic waste that rots, one for inorganic waste, so each can be dealt with properly.) Update the book's colours for today's India: under the 2016 waste rules, homes should keep wet waste (often a green bin) and dry waste (often a blue bin) separate, and hand over hazardous household waste separately. In hospitals the colours are different from what the book says: yellow bags for body waste and soiled dressings, red for contaminated plastic like tubes and gloves, a white box for needles and blades, and blue for glass. Ask: 'Why should hospital waste never mix with home waste?' (It can carry germs and cut people.)"
+        },
+        {
+          "kind": "act",
+          "title": "Set up our two home bins",
+          "mins": 10,
+          "do": "Do Activity a2, the book's practice task on lesson page 232. Choose two containers (old buckets, paint tins or boxes). Your child writes 'WET / ORGANIC' on one and 'DRY / INORGANIC' on the other, and draws pictures of what goes in each so younger children and visitors can use them too. Put them side by side in the kitchen. Make a third small box or bag for 'Hazardous' (old batteries, expired medicines, broken bulbs wrapped in paper). Agree on one family rule: rinse milk and food packets before putting them in the dry bin so they do not smell. Ask: 'Who in our family will empty the bins, and where?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Hazardous waste at home",
+          "mins": 6,
+          "do": "Ask your child to find (with you, carefully) things at home that should not go in either normal bin: used batteries and button cells, an old mobile phone or charger, a fused CFL or tube light, expired medicines, paint or pesticide tins, used blades. Explain: 'Batteries and electronics contain metals like lead and mercury that poison soil and water; CFLs and tube lights contain a little mercury; medicines can harm animals and water.' Tell them some shops and city collection centres accept e-waste and batteries. Never touch broken glass, needles or leaking batteries with bare hands; call an adult."
+        },
+        {
+          "kind": "act",
+          "title": "Reuse: make a newspaper bag",
+          "mins": 12,
+          "do": "Do Activity a4. Your child folds two sheets of old newspaper into a strong paper bag: fold the sheets in half, glue the long open edge into a tube, fold up the bottom 5 cm and glue it shut, and fold in the sides to make it flat-bottomed. Add a strip of folded newspaper as a handle, stuck on with glue. Use it to carry vegetables or as a dustbin liner for the dry bin. Ask: 'What is the difference between reuse and recycling?' (Reuse uses the thing again as it is or for a new job; recycling breaks it down in a factory to make a new thing.) 'Which uses less energy?' (Usually reuse.) Name three more reuse ideas at home: glass jars for dal, old cloth as dusters, plastic bottles as plant pots.",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "Almitra Patel goes to court for clean cities",
+          "mins": 10,
+          "do": "Tell your child Voice v2: in the 1990s an engineer named Almitra Patel, who lived near Bengaluru, was upset to see city waste being dumped and burnt in the open. In 1996 she filed a case in the Supreme Court of India asking that cities be made to handle waste properly. The case led to India's first national rules on city waste in 2000, which said waste must be collected, segregated and treated, not just dumped. Ask: 'Why do you think one person going to court could change rules for the whole country?' Then ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Lesson pages 227 and 232", "2 old buckets, tins or boxes and a marker, plus a small box for hazardous waste", "old newspaper, glue, scissors"],
+      "prep": [{"task": "Find two containers to use as home dustbins", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "How waste harms our environment",
+      "goal": "Understand how dumped, burnt and river-thrown waste pollutes soil, air and water, see it with a rain-on-garbage test, and meet Rachel Carson, who warned the world about chemicals in the environment.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "15.4 Take care of our environment (lesson pages 227–228)",
+          "mins": 8,
+          "do": "Read 15.4 on lesson pages 227–228 aloud and look at the pictures of burning waste and factory water pollution. Ask: 'What is included in our environment?' (Everything around us, natural or man-made.) 'How does waste thrown in fields or parks harm the soil?' (It contains things that make the soil barren.) 'What happens when tyres, plastic and polythene are burnt?' (Poisonous smoke pollutes the air, and breathing it makes us sick.) Add: burning garbage in the open is against the rules in India because the smoke contains harmful gases and fine soot. 'How does waste reach rivers and crops?' (Factories discharge waste; households dump into drains; rain carries waste from open dumps into soil and water; polluted water used for irrigation reaches crops.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Rain on a garbage heap",
+          "mins": 14,
+          "do": "Do Experiment e2. Fill a pot or a cut plastic bottle (with holes in the bottom) with garden soil and stand it over a clear glass. On top, make a small 'garbage heap': a few crushed food-colour-soaked tissue pieces (to stand for chemicals and rotting juices), a used tea bag, a pinch of turmeric and a few drops of cooking oil. Ask your child to predict: 'If rain falls on this heap, will the water coming out of the bottom be clear?' Then pour a mug of water slowly over the heap from a bottle with holes, like rain. Look at the water collecting in the glass: its colour, the oily film. Ask: 'What would happen to a well or a stream under a real garbage dump?' (Its water would get polluted.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Rachel Carson and the silent spring",
+          "mins": 9,
+          "do": "Tell your child Voice v1: in 1962 an American scientist and writer, Rachel Carson, wrote a book called 'Silent Spring'. She showed how chemicals sprayed to kill insects, especially DDT, were washing into rivers, poisoning fish and building up in birds, whose eggshells became thin and broke. Chemical companies attacked her and called her alarmist. Later, studies supported many of her warnings, and the USA banned DDT for farm use in 1972. Ask: 'How is Carson's story like the rain test we just did?' (Things we throw or spray do not disappear; they travel through soil and water into living things.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 9,
+          "do": "Your child does Worksheet ws1 (core) on their own. Check it together and, for any mistake, find the right part on lesson pages 224–228 and read it again.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "review",
+          "title": "Rot jar check",
+          "mins": 5,
+          "do": "Look at the rot jar from Experiment e1 from outside. Ask: 'Has the peel changed colour or shrunk? Is there white fuzz? What about the polythene and foil?' Draw it with the date. Add a few drops of water if the soil looks dry.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 227–228", "a pot or cut bottle with holes, garden soil, a clear glass", "tissue pieces soaked in food colour, a used tea bag, turmeric, a few drops of oil", "a bottle with holes in the cap and a mug of water", "Worksheet ws1", "the rot jar"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Clean surroundings begin with us",
+      "goal": "Look honestly at litter in public places, do a street litter survey, think about what a city should do with its waste, and practise the book's clean habits.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "15.5 Cleanliness of surroundings (lesson pages 228–229)",
+          "mins": 7,
+          "do": "Read 15.5 on lesson pages 228–229 aloud. Ask: 'Where does the book say we see dirt and filth?' (Roads, bazaars, streets, railway stations, bus stands, parks, cinemas, even temples.) 'Who spreads it, according to the book?' (You and I.) 'Why is spitting in public a problem?' (It is dirty, spreads germs such as TB, and is unpleasant for others.) Read the list of what we should do on lesson page 229: not throw waste here and there, not use polythene, not burn tyres and plastic, make compost from organic waste, and teach younger children. Tell them that Indore in Madhya Pradesh has been named India's cleanest city in the government's Swachh Survekshan survey many years in a row, largely because homes segregate waste and it is collected door to door."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Street litter survey",
+          "mins": 15,
+          "do": "Do Activity a5. Walk with your child along one stretch of your lane, market or park for 10 minutes, with a notebook and a tally sheet: wrappers and packets, polythene bags, plastic bottles and cups, paper, cigarette butts and gutkha sachets, food and peels, other. Count, do not pick up with bare hands. Also note: how many dustbins did we pass? Were they full or empty? Was waste lying next to them? Ask at the end: 'What was the most common litter? Why do you think people throw it here? What one change would help most?' (More bins, fewer single-use packets, fines, people's habits.)",
+          "ref": "a5"
+        },
+        {
+          "kind": "think",
+          "title": "Burn it, bury it or sort it? A live debate",
+          "mins": 10,
+          "do": "Tell your child Voice v3: cities in India and around the world argue about what to do with mixed waste. Some build 'waste-to-energy' plants that burn waste to make electricity, and say this saves land. Others say burning mixed, wet waste works badly, pollutes the air, and that cities should instead segregate, compost and recycle. Share one honest fact: scientists estimated in 2017 that only about 9% of all the plastic ever made had been recycled. Ask the voice question and let your child pick a side and give reasons, then argue the other side.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 9,
+          "do": "Your child does Worksheet ws2 (stretch), which uses the litter survey and new situations. Go over it together, asking 'Why?' for each answer.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 15.3 (lesson page 229)",
+          "mins": 4,
+          "do": "Ask the three questions of 'Let's see, what you have learnt 15.3' on lesson page 229 aloud. Good answers: two dustbins keep organic and inorganic waste apart; waste pollutes water when factory waste and household waste go into rivers and drains and rain washes dumped waste into water sources; the environment includes everything around us, made by nature or by people."
+        }
+      ],
+      "need": ["Lesson pages 228–229", "a notebook and tally sheet for the litter survey", "Worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Let us revise, check and teach it back",
+      "goal": "Finish the rot jar, review the lesson with the book's revision and exercises, try the challenge worksheet, check understanding and have your child teach the family the new waste rules.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Open the rot jar",
+          "mins": 7,
+          "do": "Finish Experiment e1. Look at the jar from the outside first, then gently dig out each item with a spoon onto newspaper. Your child fills a table: item, Day 1, today. Usually the peel is dark, soft and partly gone; the leaf and newspaper are softer and breaking; the cotton thread is weaker; the polythene and foil look the same. Ask: 'Which of these belong in the wet bin and which in the dry bin?' Put the rotting bits into the compost pot (Activity a3), throw the polythene and foil in the dry bin, and wash hands.",
+          "ref": "e1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's Revise and the exercises (lesson pages 229–231)",
+          "mins": 7,
+          "do": "Read 'Let's Revise' on lesson pages 229–230 together. Correct one slip: the second point says non-degradable waste 'can be called organic waste also'; it should say inorganic. Then do Exercise II (right or wrong) on lesson page 230 aloud: compost from rotten things (right); waste in the open does not pollute (wrong); keep organic and inorganic separate (right); factory waste pollutes rivers (right); proper disposal means dump it in the open (wrong). Then Exercise IV on lesson page 231: organic, pollutes, sources of water, barren."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws3 (challenge) together. Let your child think and write; you ask only 'What is your evidence?'. The last section brings back Rachel Carson, Almitra Patel and the waste-to-energy debate.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud one at a time, without the book. Tick each one answered well. For a missed one, open the matching lesson page (kinds of waste pages 224–225, disposal pages 225–226, dustbins page 227, environment pages 227–228, cleanliness pages 228–229), read the part together for one minute and ask again in other words. Five or more right is good; fewer than four means repeat the waste sort and the two-bin setup next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: the family waste meeting",
+          "mins": 14,
+          "do": "Your child runs a 'family waste meeting'. Using the audit results, the two bins, the compost pot, the rot jar results and the litter survey, they explain in 5–7 minutes: wet and dry waste and which bin each goes in; why dumping and burning are harmful; what happens to compost and to dry waste; and what hazardous waste is. The family asks: 'Can a chips packet go in the wet bin, it's light like paper?' (No, it is plastic with a metal layer: dry bin.) and 'Why not just burn the dry leaves?' (Smoke pollutes the air; leaves make good compost.) End by writing three family waste rules on a chart above the bins, chosen by your child, for example 'cloth bag for shopping', 'rinse milk packets', 'stir compost every Sunday'."
+        }
+      ],
+      "need": ["Lesson pages 229–231", "the rot jar, a spoon, newspaper", "Worksheet ws3", "the waste audit sheet, home bins, compost pot and litter survey", "chart paper and markers"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Kinds of waste and their disposal",
+      "day": 4,
+      "sections": [
+        ["A. Degradable or not?", [
+          {"t": "sort", "p": "Sort these.", "items": ["Dry leaves", "Polythene bag", "Green grass", "Plastic button", "Cotton rag", "Broken switch", "Cardboard", "Old newspaper", "Glass bottle", "Vegetable peels"], "cats": ["Degradable (organic)", "Non-degradable (inorganic)"]},
+          {"t": "fill", "p": "Waste that rots and mixes with the soil is called ____ waste.", "a": ["degradable", "organic"]},
+          {"t": "fill", "p": "We make compost manure using ____ waste.", "a": ["organic", "degradable", "wet"]}
+        ]],
+        ["B. Proper disposal", [
+          {"t": "mcq", "p": "What is the first step for proper disposal of waste?", "opts": ["Burn it", "Throw it in the river", "Segregate it into separate bins", "Pile it by the road"], "a": 2},
+          {"t": "mcq", "p": "What happens to old iron, glass and paper that the kabadiwala takes?", "opts": ["It is thrown in the sea", "It is melted or pulped in factories to make new things", "It is buried", "It is burnt in the street"], "a": 1},
+          {"t": "fill", "p": "Smoke from burning plastic ____ the air.", "a": ["pollutes"]},
+          {"t": "fill", "p": "Polythene makes the soil ____.", "a": ["barren"]},
+          {"t": "write", "p": "Write how you would make compost from kitchen waste, in three or four steps.", "lines": 4}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Waste in new situations",
+      "day": 5,
+      "sections": [
+        ["A. Which bin?", [
+          {"t": "sort", "p": "Where does each go?", "items": ["Mango peel", "Rinsed milk packet", "Old AA battery", "Tea leaves", "Chips packet", "Expired tablets", "Broken glass bangle (wrapped)", "Flower garland", "Old mobile charger"], "cats": ["Wet bin", "Dry bin", "Keep apart: hazardous"]},
+          {"t": "mcq", "p": "After a wedding, there are hundreds of plates made of dried leaves (pattal) and plastic cups. What is best?", "opts": ["Burn everything together", "Compost the leaf plates and send clean plastic cups for recycling", "Throw it all in the nearby pond", "Bury the plastic cups"], "a": 1}
+        ]],
+        ["B. Think it through", [
+          {"t": "table", "p": "Your street litter survey results.", "cols": ["Type of litter", "Count", "How it could be avoided"], "rows": 5},
+          {"t": "write", "p": "A colony throws all its waste into an old pond. Write two problems this causes and one better plan.", "lines": 4},
+          {"t": "write", "p": "Rinku says: 'Plastic is fine, it doesn't rot so it can't make things dirty.' What would you tell her?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a waste scientist",
+      "day": 6,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "In our rot jar, the peel rotted but the polythene did not. Explain why, using the word microbes.", "lines": 3},
+          {"t": "write", "p": "Why does a huge mixed garbage dump sometimes catch fire on its own and smell so bad? (Hint: rotting wet waste makes gases and heat when air cannot reach it.)", "lines": 3},
+          {"t": "write", "p": "What if every home in your town segregated waste perfectly from tomorrow? Write three things that would change.", "lines": 4},
+          {"t": "mcq", "p": "Which uses the least energy and materials?", "opts": ["Recycling a glass jar into a new jar", "Reusing the jar to store dal", "Burning the jar", "Throwing it in a landfill"], "a": 1}
+        ]],
+        ["B. Weighing the voices", [
+          {"t": "write", "p": "Rachel Carson was called alarmist by chemical companies. What kind of evidence later showed she was right?", "lines": 3},
+          {"t": "write", "p": "Almitra Patel used the courts to change rules. Can rules alone make a city clean? What else is needed?", "lines": 3},
+          {"t": "write", "p": "Should a city burn its waste for electricity, or put its money into segregation, composting and recycling? Give one argument for each, then your decision.", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "See-through rot jar",
+      "day": 1,
+      "question": "Which kinds of waste rot in soil, and which stay as they are?",
+      "need": ["a large clear glass or plastic jar", "damp garden soil", "a piece of banana or vegetable peel", "a dry leaf", "a strip of newspaper", "a piece of polythene", "a scrap of aluminium foil", "a cotton thread", "a cloth and rubber band", "a spoon"],
+      "steps": [
+        "Put a layer of damp soil at the bottom of the jar.",
+        "Press each item against the side of the jar so it can be seen from outside.",
+        "Cover with more damp soil and pat down gently.",
+        "Cover the top with a cloth and rubber band; keep it in the shade and add a few drops of water if it dries.",
+        "Look from the outside every 2 days and draw what you see.",
+        "After about 6 days (longer is even better), dig the items out and compare."
+      ],
+      "predict": "Ask your child to guess first: which items will change, and which will look the same at the end? Write the guesses down.",
+      "observe": "Record each item's colour, shape and softness at each check. Usually the peel darkens, grows white fuzz and shrinks; the leaf and newspaper soften and darken; the cotton thread weakens; the polythene and foil do not change at all.",
+      "why": "Soil is full of bacteria, fungi and small creatures that feed on things that were once alive: peels, leaves, paper (made from wood) and cotton (from a plant). They break them down into simpler substances and humus that enrich the soil. This is why such waste is called degradable or organic, and why it can be composted. Polythene is a plastic made from petroleum and foil is a metal; soil microbes cannot feed on them, so they stay unchanged for years. Plastic slowly breaks into tiny pieces but does not truly rot. That is why the book asks us to keep the two kinds apart, compost one and recycle the other.",
+      "safety": "Wash hands after handling soil and rotting items. Do not sniff the jar closely if mould grows.",
+      "time": "13 min to set up + 5 min checks + 7 min to finish after about 6 days"
+    },
+    {
+      "id": "e2",
+      "title": "Rain on a garbage heap",
+      "day": 4,
+      "question": "What happens to rainwater that falls on a garbage dump?",
+      "need": ["a pot or cut plastic bottle with holes in the bottom", "garden soil", "a clear glass", "tissue pieces soaked in food colour", "a used tea bag", "a pinch of turmeric", "a few drops of cooking oil", "a bottle with holes in the cap", "a mug of water"],
+      "steps": [
+        "Fill the pot with soil and stand it over the clear glass.",
+        "Make a small heap on top with the coloured tissue, tea bag, turmeric and oil.",
+        "Pour a mug of water slowly over the heap through the bottle, like rain.",
+        "Watch the water dripping into the glass.",
+        "Compare it with a glass of clean tap water."
+      ],
+      "predict": "Ask your child to guess first: will the water that comes out of the bottom be clear, or will it carry something from the garbage?",
+      "observe": "The water in the glass is usually coloured and may have an oily film or bits floating in it, though it passed through soil.",
+      "why": "Rainwater soaks through garbage and dissolves colours, chemicals, oils and the juices of rotting food. This dirty liquid (called leachate) seeps down through the soil into groundwater, wells and nearby streams. Soil filters out some solid bits but not dissolved chemicals. Real dumps contain batteries, paints, medicines and plastics, so leachate from them can carry harmful metals and chemicals. This is how, as the book says, garbage dumped in the open flows with rainwater, mixes with soil and sources of water, and can reach our crops and our bodies.",
+      "safety": "Use only food colour, turmeric, oil and a tea bag, never real chemicals. Throw the water away afterwards; do not drink it.",
+      "time": "14 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "24-hour household waste audit",
+      "day": 1,
+      "mins": 10,
+      "need": ["2 bags or boxes labelled Wet and Dry", "a tally sheet with rows: peels and food, paper and cardboard, plastic and polythene, glass, metal, cloth, other", "a kitchen or luggage scale (optional)"],
+      "steps": [
+        "Put the two labelled bags in the kitchen and tell everyone to use them.",
+        "For 24 hours, every bit of waste goes into the right bag.",
+        "Next day, count the items in each row of the tally sheet.",
+        "Weigh each bag, or compare their sizes.",
+        "Work out how much that would be in a month and a year.",
+        "Circle the items that could have been avoided or reused."
+      ],
+      "outcome": "A real picture of how much and what kind of waste your family makes, which shows why segregation and composting matter and gives ideas for making less waste."
+    },
+    {
+      "id": "a2",
+      "title": "Two home bins (lesson page 232)",
+      "day": 3,
+      "mins": 10,
+      "need": ["2 old buckets, tins or boxes", "a marker and paper for labels", "a small box or bag for hazardous waste"],
+      "steps": [
+        "Label one bin 'WET / ORGANIC' and the other 'DRY / INORGANIC'.",
+        "Draw pictures on each label of what goes in.",
+        "Place them side by side in the kitchen.",
+        "Set up a small separate box for batteries, medicines and broken bulbs.",
+        "Agree that milk and food packets are rinsed before going in the dry bin.",
+        "Empty wet waste into the compost pot and give dry waste to the collector or kabadiwala."
+      ],
+      "outcome": "A working segregation system at home, the book's own practice task, used every day by the whole family."
+    },
+    {
+      "id": "a3",
+      "title": "Compost pit or pot (lesson page 232)",
+      "day": 2,
+      "mins": 15,
+      "need": ["a corner of the garden and a trowel, or a bucket or clay pot with a few holes in the bottom", "dry leaves or shredded newspaper", "wet kitchen waste (raw peels, tea leaves, vegetable scraps)", "garden soil", "water", "a lid, sack or cloth to cover"],
+      "steps": [
+        "Dig a small pit or set up the pot in a shady place.",
+        "Add a layer of dry leaves or shredded paper.",
+        "Add a layer of wet kitchen waste (no oily food, meat or dairy).",
+        "Add a handful of soil, then another dry layer.",
+        "Sprinkle water so it is damp like a squeezed sponge, and cover.",
+        "Add layers every few days, stir once a week, and use the dark, earthy compost in pots after 6–8 weeks."
+      ],
+      "outcome": "Home-made compost from your own wet waste, and less waste going to the city dump."
+    },
+    {
+      "id": "a4",
+      "title": "Newspaper bag",
+      "day": 3,
+      "mins": 12,
+      "need": ["2 sheets of old newspaper", "glue", "scissors"],
+      "steps": [
+        "Lay the two sheets together and fold them in half.",
+        "Glue the long open edge to make a tube.",
+        "Fold up the bottom 5 cm and glue it shut.",
+        "Push in the sides to make a flat bottom and creases.",
+        "Fold a strip of newspaper several times and glue it on as a handle.",
+        "Let it dry, then use it for shopping or as a bin liner."
+      ],
+      "outcome": "A useful bag made from waste, showing the difference between reuse and recycling and replacing one polythene bag."
+    },
+    {
+      "id": "a5",
+      "title": "Street litter survey",
+      "day": 5,
+      "mins": 15,
+      "need": ["a notebook", "a tally sheet: wrappers and packets, polythene bags, plastic bottles and cups, paper, cigarette butts and gutkha sachets, food and peels, other", "a pencil"],
+      "steps": [
+        "Choose one stretch of lane, market or park.",
+        "Walk it slowly for 10 minutes and tally every piece of litter you see (do not pick it up with bare hands).",
+        "Count the dustbins you pass and note whether they are full, empty or overflowing.",
+        "Note any waste burning or dumping you see.",
+        "At home, find the most common litter and discuss why.",
+        "Suggest one change for your street and, if you like, write a short letter to your RWA or ward office."
+      ],
+      "outcome": "Real data about litter in your own area, which your child uses to think about causes and solutions, as the book asks: 'We will have to make a beginning of cleanliness from our own end.'"
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Rachel Carson (1907–1964), USA",
+      "idea": "Carson, a marine biologist and writer who worked for the US Fish and Wildlife Service, published 'Silent Spring' in 1962. She gathered evidence that pesticides sprayed widely, especially DDT, did not stay where they were sprayed: they washed into soil and rivers, killed fish and insects that were not pests, and built up in the bodies of birds and other animals higher in the food chain. She warned of a 'silent spring' with no birdsong.",
+      "then": "Chemical companies attacked the book and Carson personally, calling her hysterical and unscientific. But the US President's Science Advisory Committee reviewed the issue in 1963 and largely supported her concerns.",
+      "now": "Later research showed that DDT made the eggshells of birds such as eagles and pelicans thin, so they broke. The US banned DDT for farm use in 1972, and Carson's work is credited with starting the modern environmental movement. DDT is still allowed in limited ways for fighting malaria-carrying mosquitoes indoors, which is itself debated; but her main point, that chemicals we release travel through the environment into living things, is accepted.",
+      "status": "accepted",
+      "ask": "Carson could not show every step at once. Some birds were dying, chemicals were found in them, and eggshells were thinning. How does putting many pieces of evidence together make a case stronger?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Almitra Patel, India",
+      "idea": "Almitra Patel, an engineer living near Bengaluru, studied how Indian cities handled their waste and saw that most simply dumped mixed garbage in the open, often near homes and water, and burnt it. In 1996 she filed a public interest case in the Supreme Court of India asking that cities be made to collect, segregate and treat waste properly.",
+      "then": "The court set up a committee to study the problem across the country. Its work led to India's first national rules for city waste, the Municipal Solid Waste (Management and Handling) Rules of 2000, which required cities to collect waste, encourage segregation and compost the organic part, instead of only dumping it.",
+      "now": "The rules were updated in 2016 as the Solid Waste Management Rules, which make segregation into wet, dry and hazardous waste the duty of every household. Many cities still struggle to follow them, but cities like Indore show it can be done. Her work is widely recognised as a turning point for waste management in India.",
+      "status": "accepted",
+      "ask": "The rules say every home must segregate waste, yet many do not. What makes people change their habits: rules, fines, education, or seeing others do it? Which worked in your own home this week?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "The waste-to-energy debate: burning waste for electricity versus segregation, composting and recycling",
+      "idea": "Some cities, including several in India such as Delhi, have built waste-to-energy plants that burn city waste to make electricity. Supporters argue this shrinks the waste a lot, saves land for dumps, and gives power. Modern plants in countries like Sweden and Japan, burning dry, sorted waste with strong filters, run with tight pollution controls.",
+      "then": "Critics, including environmental groups and many waste experts in India, point out that Indian city waste is mostly wet kitchen waste that burns poorly, that some plants have faced complaints from nearby residents about smoke and ash, and that burning destroys materials that could be composted or recycled. They argue that segregation at source, composting and recycling, as the book teaches, are better first steps.",
+      "now": "Experts broadly agree on a 'waste hierarchy': first reduce, then reuse, then recycle and compost, and only then recover energy, with dumping as the last choice. How much a city should rely on burning is still debated and depends on its waste, money and pollution controls. One sobering fact: a 2017 study by Roland Geyer, Jenna Jambeck and Kara Lavender Law estimated that only about 9% of all plastic ever made had been recycled.",
+      "status": "debated",
+      "ask": "If you were the mayor, what would you want to measure about your city's waste before deciding whether to build a waste-burning plant?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is the difference between degradable and non-degradable waste? Give two examples of each.", "a": "Degradable (organic) waste rots and mixes with the soil, like peels and leaves (also paper, leftover food). Non-degradable (inorganic) waste does not rot for a very long time, like plastic and glass (also polythene and iron)."},
+    {"q": "Why should we keep two dustbins at home?", "a": "To segregate wet organic waste from dry inorganic waste, so the wet waste can be composted and the dry waste can be recycled; mixed waste cannot be handled properly."},
+    {"q": "How do we make compost from waste?", "a": "Put layers of wet kitchen waste, dry leaves or paper and a little soil in a pit or pot, keep it damp, cover and stir it; microbes turn it into compost in a few weeks."},
+    {"q": "What happens to dry waste like iron, glass and paper?", "a": "It is collected by kabadiwalas or waste collectors and sent to factories where it is melted or pulped to make new things (recycling)."},
+    {"q": "How does waste harm the environment?", "a": "Dumped waste makes soil barren and its liquid seeps into water; burning plastic and tyres pollutes the air and makes us ill; waste in rivers and drains pollutes water that we drink and use for crops."},
+    {"q": "Name two kinds of hazardous household waste and why they must be kept apart.", "a": "Any two: batteries, old phones and chargers (e-waste), broken tube lights or CFLs, expired medicines, paint or pesticide tins, used blades. They contain poisons or can cut people, and harm soil and water if mixed with other waste."},
+    {"q": "Give four things we can do to keep our surroundings clean.", "a": "Any four: throw waste only in dustbins, segregate wet and dry waste, use cloth bags instead of polythene, not burn plastic or tyres, compost organic waste, not spit in public, teach younger children."}
+  ]
+}

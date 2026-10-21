@@ -310,7 +310,7 @@
           "kind": "review",
           "title": "Teach it back: our national identity museum",
           "mins": 10,
-          "do": "Your child sets up a small 'museum' on a table: the flag they made, a coin and note with the emblem and ₹, the peacock feather, the arbi leaf, the anthem map and the freedom time-line. You (and other family members) are visitors. They explain each object: what it is, what it stands for, and one science or fact-check surprise (the lotus effect, structural colour of the feather, the RTI answer about hockey, steam versus horses is not here, but 26 November versus 26 January is). Ask two 'visitor' questions: 'How many spokes are in the chakra and why does it matter?' and 'Who wrote Vande Mataram?'"
+          "do": "Your child sets up a small 'museum' on a table: the flag they made, a coin and note with the emblem and ₹, the peacock feather, the arbi leaf, the anthem map and the freedom time-line. You (and other family members) are visitors. They explain each object: what it is, what it stands for, and one science or fact-check surprise (the lotus effect, structural colour of the feather, the RTI answer about hockey, 26 November versus 26 January). Ask two 'visitor' questions: 'How many spokes are in the chakra and why does it matter?' and 'Who wrote Vande Mataram?'"
         }
       ],
       "need": ["Textbook pages 149–151", "all the things made this week for the museum table", "worksheet ws3"],
@@ -482,7 +482,7 @@
     {
       "id": "v1",
       "who": "Pingali Venkayya (1876–1963), Andhra Pradesh, India",
-      "idea": "Venkayya, a teacher and freedom fighter from the Machilipatnam area, studied flags from many countries and published a booklet of possible flags for India. In 1921, at a Congress meeting in Vijayawada (then Bezwada), he showed Mahatma Gandhi a flag of red and green; Gandhi suggested adding white and a spinning wheel (charkha). In 1931 Congress adopted a saffron, white and green flag with a charkha, and in July 1947 the Constituent Assembly replaced the charkha with the Ashoka Chakra.",
+      "idea": "Venkayya, a teacher and freedom fighter from the Machilipatnam area, studied flags from many countries and published a booklet of possible flags for India. In 1921, at a Congress meeting in Vijayawada (then Bezwada), he showed Mahatma Gandhi a flag of red and green; white and a spinning wheel (charkha) were then added. In 1931 Congress adopted a saffron, white and green flag with a charkha, and in July 1947 the Constituent Assembly replaced the charkha with the Ashoka Chakra.",
       "then": "The flag became the symbol of the freedom struggle, but Venkayya himself was largely forgotten and died poor in 1963.",
       "now": "His role as the original designer is now widely recognised: India Post issued a stamp in his honour in 2009, and he is remembered on many anniversaries of the flag.",
       "status": "accepted",

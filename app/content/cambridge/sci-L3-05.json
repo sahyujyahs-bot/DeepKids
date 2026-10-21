@@ -1,0 +1,790 @@
+{
+  "key": "cambridge|sci|3|5",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 3,
+  "n": 5,
+  "title": "Investigating materials",
+  "source": "Cambridge Primary Science Learner's Book 3 (Board and Cross, 1st edition, 2014), Unit 5 'Investigating materials' (pages 46–57)",
+  "summary": "Your child learns that a property describes what a material is like (strong or weak, flexible or rigid, waterproof or absorbent, hard or soft, dull or shiny), and uses properties to sort materials and build a branching tree database. They explain why things are made of the materials they are, run fair tests to find the best material for an umbrella, the strongest paper for a bag and the most absorbent paper towel, and discover which materials are magnetic, including the surprise that not all metals are.",
+  "goals": [
+    "By the end your child can describe materials using property words: strong, weak, flexible, rigid, waterproof, absorbent, hard, soft, dull, shiny, transparent.",
+    "By the end your child can sort the same objects in different ways and use and build a branching tree database of yes/no questions to identify an object.",
+    "By the end your child can explain why an object is made from a particular material, and why some materials would be silly choices, using its properties.",
+    "By the end your child can plan and carry out a fair test of materials (waterproofness, strength, absorbency), keep the right things the same, record results in a table and say what they found.",
+    "By the end your child can test which materials are magnetic, see the pattern (only some metals, such as iron and steel, are attracted), and give uses of magnets."
+  ],
+  "words": [
+    ["material", "what an object is made of, such as wood, plastic, metal, glass, paper, cotton, rubber or stone"],
+    ["property", "a word that describes what a material is like, such as hard, flexible or waterproof"],
+    ["flexible", "can be bent without breaking, like rubber or a cloth"],
+    ["rigid", "stiff; keeps its shape and does not bend, like stone or a steel tumbler"],
+    ["waterproof", "does not let water through, like plastic or a raincoat"],
+    ["absorbent", "soaks up liquid, like cotton, a sponge or a tissue"],
+    ["transparent", "lets light through so you can see clearly through it, like glass or clear plastic"],
+    ["branching tree database", "a chart of yes/no questions that splits into branches and helps you identify something"],
+    ["observation", "something you notice carefully, by looking, feeling or measuring, and write down"],
+    ["magnetic", "attracted (pulled) by a magnet, like iron and most steel"],
+    ["non-magnetic", "not attracted by a magnet, like wood, plastic, paper, glass, aluminium and copper"],
+    ["pattern", "something that keeps happening in your results, like 'all the magnetic things were made of iron or steel'"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is it made of? Properties of materials",
+      "goal": "Notice that everything is made of materials, learn that a property describes what a material is like, and feel the book's property pairs with real things.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The kitchen puzzle",
+          "mins": 6,
+          "do": "Stand in the kitchen with your child. Hold up a tawa or kadhai and ask: 'What is this made of? Why not make it of plastic?' (Plastic would melt on the gas.) Then the handle of a pressure cooker: 'Why is the handle plastic and not metal?' (A metal handle would get too hot to hold.) Then a glass jar of dal: 'Why glass?' (You can see inside.) A cotton kitchen towel: 'Why cotton?' (It soaks up water.) Say: 'Each thing is made from a material chosen because of what it is like. Today we learn the words for what materials are like.'"
+        },
+        {
+          "kind": "read",
+          "title": "Properties of materials (page 46)",
+          "mins": 8,
+          "do": "Open the Learner's Book at page 46, Topic 5.1, and read the Words to learn (property, flexible, rigid, waterproof, absorbent). Read: 'A property describes what a material is like.' Then go through the three picture pairs: 'Metal is strong but paper is weak' (a boy pressing on a tin, a girl tearing paper); 'Rubber is flexible (it can be bent) but stone is rigid (it keeps its shape)' (rubber boots, a stone wall); 'Plastic is waterproof (water cannot get through it) but cotton is absorbent (it soaks up liquid)' (a plastic bucket, a cotton cloth). After each, ask: 'Can you name another material that is strong? weak? flexible? rigid? waterproof? absorbent?'"
+        },
+        {
+          "kind": "do",
+          "title": "Feel the property pairs",
+          "mins": 14,
+          "do": "Set out pairs to test with hands: a steel spoon and a sheet of newspaper (try to bend and tear each: strong or weak?); a rubber band or rubber chappal and a stone (bend each: flexible or rigid?); a plastic bag and a cotton handkerchief (drip a spoon of water on each held over a bowl: waterproof or absorbent?). Add three more: a glass and a steel tumbler (can you see through? transparent or opaque, meaning not see-through); a cotton ball and a brick piece (soft or hard?); a new steel spoon and a clay diya (shiny or dull?). Your child writes each pair in the notebook with the property word under each."
+        },
+        {
+          "kind": "talk",
+          "title": "One object, many properties",
+          "mins": 8,
+          "do": "Hold up a plastic water bottle. Ask your child to give it as many properties as they can. Good list: smooth, light, waterproof, transparent, a bit flexible (it squashes), strong enough not to tear, does not break when dropped. Then a steel tiffin box: hard, rigid, shiny, strong, waterproof, heavy, opaque. Explain: 'A material has many properties at once. We choose the properties that matter for the job.' Ask: 'Which property matters most for a water bottle?' (Waterproof; also light and unbreakable.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Strong and weak are not the only way",
+          "mins": 4,
+          "do": "Ask: 'Paper is weak. But can you think of when weak paper is useful?' (Tissue paper tears easily so a gift is easy to open; a toilet tissue breaks up in water.) 'Is a flexible material always better?' (No; a flexible chair would collapse.) Say: 'No property is good or bad by itself; it depends on the job.'"
+        }
+      ],
+      "need": [
+        "Learner's Book page 46",
+        "a tawa or kadhai, pressure cooker, glass jar, cotton kitchen towel",
+        "a steel spoon, newspaper, a rubber band or chappal, a stone",
+        "a plastic bag, a cotton handkerchief, a bowl, water",
+        "a glass, a steel tumbler, a cotton ball, a piece of brick, a clay diya, a plastic bottle, a steel tiffin"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "A materials hunt, and a space suit",
+      "goal": "Do the book's materials hunt around the home, play the describe-and-guess game, and think about which materials would make a space suit.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Property opposites",
+          "mins": 4,
+          "do": "Say a property and your child says its opposite and a material for each: 'Strong?' ('Weak: paper. Strong: metal.') 'Flexible?' ('Rigid: stone.') 'Waterproof?' ('Absorbent: cotton.') 'Hard?' ('Soft: wool.') 'Shiny?' ('Dull: brick.') 'Transparent?' ('Opaque: wood.')"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 5.1: A materials hunt (page 47)",
+          "mins": 16,
+          "do": "Do Activity a1. Read Activity 5.1 on page 47: 'Find some materials. Look carefully and feel the materials. What properties do they have?' Copy the book's table into the notebook: Material, Properties, with the book's example row (paper: weak, flexible, smooth, absorbent). Your child walks round the home and finds at least 8 different materials: wood (a door or chair), glass (a window or bangle), steel (a utensil), aluminium (a foil sheet or old pressure cooker), plastic (a bucket), cotton (a bedsheet), wool (a sweater), rubber (a chappal), clay (a matka or diya), stone or marble (the floor), leather (a belt), jute (a bag). For each, they look, feel, tap and bend gently, and write at least three properties.",
+          "ref": "a1"
+        },
+        {
+          "kind": "game",
+          "title": "Describe it, guess it",
+          "mins": 6,
+          "do": "Do the book's task: 'Describe the properties of a material to a partner. Can they guess which material it is?' Take turns. Your child describes a material without naming it, using only property words ('It is hard, rigid, transparent and can break into sharp pieces'), and you guess (glass). Then you describe one for them. Play 4 rounds each. If they use 'it is used for...', remind them to try properties first."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 47)",
+          "mins": 4,
+          "do": "Ask Question 1: 'List as many different materials as you can.' Aim for 12 or more, using the hunt list. Question 2a: 'Which material is silver, shiny and strong?' (Metal, such as steel.) 2b: 'Which is transparent, smooth, rigid and weak?' (Glass; it breaks easily.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: Which materials would you use to make a space suit? (page 47)",
+          "mins": 10,
+          "do": "Look at the photo of the astronaut on page 47: 'Yuri Gagarin wore the first space suit in space in 1961.' Tell your child that Rakesh Sharma became the first Indian in space in 1984, flying on a Soviet spacecraft. Read the Talk about it question. List what a space suit must do: keep air in (airtight), stay flexible enough to move arms and fingers, protect from extreme heat and cold, protect from tiny fast-moving bits of dust, have a transparent visor to see through, and not tear. Ask your child to choose a material for each part and say which property makes it right: rubber or rubber-coated cloth to hold air in; many layers of strong fabric; a shiny outer layer to reflect sunlight; a clear, strong plastic visor with a gold-coloured coating to block glare. Your child draws their space suit and labels each material and property."
+        }
+      ],
+      "need": [
+        "Learner's Book page 47",
+        "notebook for the materials table",
+        "paper and coloured pencils"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Sorting materials in different ways",
+      "goal": "Sort the same objects into hard and soft, then dull and shiny, as the book does, and then choose new properties to sort by.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sorting materials (page 48)",
+          "mins": 7,
+          "do": "Read page 48, Topic 5.2, and the Words to learn (hard, soft, dull, shiny). Read: 'A material can be put in a group. These materials are sorted into hard and soft groups.' Look at the pictures: hard: brick, spoon and fork, ice; soft: tissues, balloon, sweater. Then: 'The same objects can also be sorted into dull and shiny groups': dull: brick, sweater, tissues; shiny: spoon and fork, ice, balloon. Ask: 'Why is the brick in the hard group the first time and the dull group the second time?' (It is both hard and dull; it depends which property we sort by.)"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 5.2: Sorting materials (page 48)",
+          "mins": 17,
+          "do": "Do Activity a2, part 1. Collect about 12 objects each made from a single material: a steel spoon, a wooden spoon (karchi), a plastic cup, a glass marble or bangle, a cotton hanky, a woollen sock, a rubber band, a pebble, a clay diya, a paper sheet, an aluminium foil ball, a candle. Look at the book's picture of the three girls: 'Let's separate the materials as hard or soft.' 'Hmm, is the ball of wool hard or soft?' 'It's soft, so let's put it in that group.' Make two labels, Hard and Soft, and your child sorts. Then 'Now choose another property and sort the objects into two different groups.' Let your child choose: shiny/dull, flexible/rigid, waterproof/absorbent, heavy/light, transparent/opaque. Sort at least three different ways. Take a photo of each sort.",
+          "ref": "a2"
+        },
+        {
+          "kind": "do",
+          "title": "The tricky middle",
+          "mins": 8,
+          "do": "Ask your child to find an object that was hard to place. Usually there is one: the candle (hard, but you can scratch it with a nail), the plastic cup (a bit flexible), the foil ball (shiny but crumpled). Ask: 'What should scientists do when something is between two groups?' Good ideas: make a 'middle' group, test it more carefully (for example, press with a thumbnail: does it dent?), or decide a clear rule before sorting. Agree on a 'scratch test' rule for hard and soft: if your fingernail leaves a mark, it is soft."
+        },
+        {
+          "kind": "talk",
+          "title": "Sorting in real life",
+          "mins": 8,
+          "do": "Ask: 'Where do people sort materials in real life?' Good answers: the kabadiwala sorts newspaper, plastic bottles, glass and metal to sell for recycling; our home has a wet waste bin and a dry waste bin; shops put utensils together and clothes together. Ask your child to sort the dry waste in your home bin (with gloves, or using clean packets only) into paper, plastic, metal and glass. Ask: 'Why does the kabadiwala pay different prices for each?' (Each material is recycled in a different way and some, like metal, are worth more.)"
+        }
+      ],
+      "need": [
+        "Learner's Book page 48",
+        "about 12 objects each made of a single material (see the step)",
+        "paper labels, a phone for photos",
+        "clean dry waste and gloves"
+      ],
+      "prep": [
+        {
+          "task": "Collect about 12 small objects each made from just one material",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Branching tree databases and a wonder material",
+      "goal": "Use the book's branching tree database to identify objects, build our own, and find out about graphene, a new material discovered using sticky tape.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "A branching tree database (page 49)",
+          "mins": 10,
+          "do": "Read page 49: 'There are different ways of sorting. A branching tree database can be used to identify these four objects. Choose one of the four objects and answer the questions.' The four objects are a brick, a balloon, paper and ice. Follow the tree together: 'Is it hard?' Yes leads to 'Is it shiny?' (yes: ice; no: brick). No leads to 'Is it waterproof?' (yes: balloon; no: paper). Your child copies the tree into the notebook and writes the four answers in place of the question marks. Then ask them to choose one object secretly and you follow the tree with yes/no answers to find it."
+        },
+        {
+          "kind": "act",
+          "title": "Build our own branching tree",
+          "mins": 12,
+          "do": "Continue Activity a2, part 2. Choose 8 of yesterday's objects. Your child builds a branching tree database for them on a big sheet of paper. Start with one question that splits the objects roughly in half, for example 'Is it made of metal?' or 'Is it flexible?'. Then add a question on each branch, and keep going until every object is alone at the end of a branch. Rules for good questions: answered only yes or no; the same answer whoever is asked ('Is it shiny?' is fine, 'Is it pretty?' is not). Test it on a family member: they secretly pick an object and follow the tree.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 49)",
+          "mins": 4,
+          "do": "Ask Question 1: 'Write three different materials that are waterproof.' (Plastic, rubber, glass, metal, wax, polythene.) Question 2: 'Write all the properties you can think of for plastic.' (Waterproof, light, strong, can be flexible or rigid, easy to shape, can be transparent or coloured, does not rust, does not rot, can melt when hot.) Add honestly: 'Plastic does not rot, which is useful, but it also means plastic rubbish lasts for hundreds of years.'"
+        },
+        {
+          "kind": "think",
+          "title": "Talk about it: What could graphene be used for? (page 49)",
+          "mins": 14,
+          "do": "Look at the photo on page 49: 'Graphene is a new material that is very strong and very light.' Tell the story in Voice v1: two scientists in Manchester made it in 2004 by peeling pencil graphite with sticky tape again and again until the layer was just one atom thick. Let your child try the first step: scribble hard with a soft pencil on paper, press sticky tape on it and peel; the grey on the tape is graphite, made of stacked layers. 'Graphene is just one of those layers.' Then the Talk about it question: ideas scientists are working on include very light, strong sports equipment and bicycles, bendable phone screens, better batteries, and filters to make sea water drinkable. Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 49",
+        "8 objects from Day 3, a big sheet of paper, markers",
+        "a soft pencil (2B or darker) and sticky tape"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Uses of materials: sensible and silly",
+      "goal": "Learn that a material's properties make it good for some objects but not others, laugh at the book's silly materials, and meet India's 1,600-year-old iron pillar.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Uses of materials (page 50)",
+          "mins": 8,
+          "do": "Read page 50, Topic 5.3, and the Word to learn (observation). Read: 'Every material has properties. The properties make a material good for making some objects but not for others.' Look at the three photos and read each caption: 'Wood is hard, strong and easy to make into objects such as chairs or bookcases.' 'Plastic is strong, waterproof and easy to shape into objects such as bottles and bins.' 'Metal is strong, does not burn and can be sharp. Scissors, pans, knives, forks and spoons are all made from metal.' Ask: 'Can you find something at home made of each of these for the same reason?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Sensible and silly materials (page 50)",
+          "mins": 10,
+          "do": "Read: 'Metal is a sensible material for a pan because of its properties. What would happen if the pan was made of wood?' (It would burn and catch fire; it might crack.) Look at the silly pictures: a chocolate table (it would melt and get sticky, and is too weak to hold things) and a rubber bike (the frame would bend and flop; you could not ride it). Then your child invents three more silly objects and says what would go wrong: a paper umbrella (absorbent and weak: it would get soggy and tear), a glass football (rigid and would break), a cotton cooking pot (absorbent and burns), a steel pillow (hard and rigid), a wax diya holder (would melt from the flame)."
+        },
+        {
+          "kind": "act",
+          "title": "Draw a silly invention",
+          "mins": 10,
+          "do": "Your child chooses one silly invention and draws it as a cartoon, like the book's chocolate table, with a speech bubble from the poor person using it. Underneath they write two sentences: 'This is silly because [material] is [property].' and 'A sensible material would be [material], because it is [property].' For example: 'A paper raincoat is silly because paper is absorbent and weak. A sensible material would be plastic, because it is waterproof and flexible.'"
+        },
+        {
+          "kind": "think",
+          "title": "The iron pillar that does not rust",
+          "mins": 12,
+          "do": "Tell the story in Voice v2: in the Qutub Minar complex in Delhi stands an iron pillar about 7 metres tall, made about 1,600 years ago, which has hardly rusted even though it has stood in the open air through hundreds of monsoons. Show your child an old iron nail or a rusty iron gate: 'Iron usually rusts like this when it gets wet.' Explain that rust is iron joining with oxygen from the air when water is present, and that it makes iron weak and flaky. Ask: 'If you were a scientist, how would you find out why the pillar does not rust?' Then share what scientists found and ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 50",
+        "paper, coloured pencils",
+        "an old rusty nail or a rusty object to look at"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Why is that material useful?",
+      "goal": "Do the book's observation table for objects at home, answer the questions on sunglasses and armour, think about the ice car, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 5.3: Why is that material useful? (page 51)",
+          "mins": 15,
+          "do": "Do Activity a3. Read Activity 5.3 on page 51: 'Find objects that are made of only one material. Talk about why each object is made of that material.' Your child draws the book's table on a large sheet: Object, Material, Useful properties of that material. The book's example is a chair: plastic: strong so it does not break, flexible to make it comfy, light so it is easy to move. Find at least 6 single-material objects at home: a steel thali, a glass window pane, a wooden rolling pin (belan), a clay matka, a cotton dupatta, a rubber eraser, a plastic bucket. For each, your child writes the material and at least two useful properties. Push for real reasons: the matka is clay because clay is a little absorbent and lets water seep to the outside, where it evaporates and cools the water inside.",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 51)",
+          "mins": 6,
+          "do": "Ask Question 1: 'Which material would be good for making sunglasses? Why?' (A tinted plastic or glass, because it is transparent so you can see through it, and tinted to block strong light; plastic is also light and does not shatter.) Question 2: 'A long time ago, knights used to wear metal armour. Why is metal not used for clothes?' (Metal is heavy, rigid and not flexible, so it is hard to move in; it is not absorbent so sweat stays in; it gets very hot or cold.) Ask: 'What material do soldiers and police wear today to stop bullets?' (Special strong fabrics; you will hear about one on Day 8.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: Why is a car made of ice a silly idea? (page 51)",
+          "mins": 7,
+          "do": "Look at the photo on page 51: 'A car made from ice!' Read the Talk about it question. Good answers: ice melts when it is warm, so in Indian weather it would turn into a puddle in minutes; ice is brittle and would crack in a bump; it is slippery and very cold to sit in; the engine gets hot. Ask: 'Where in the world might an ice car last a little longer?' (Somewhere very cold, like the Antarctic or Ladakh in winter, though it would still crack.) 'Is there any property of ice that is good for a car?' (It is transparent, like a windscreen.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Your child does Worksheet ws1 (core). Read the questions aloud if needed but let them answer alone. Check together and go back to pages 46–51 for any wrong answers.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 51",
+        "a large sheet of paper, markers",
+        "6 single-material objects from around the home"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Which material is best for an umbrella?",
+      "goal": "Do the book's waterproof test as a fair test, record the results in a table, and look closely at why some materials let water through.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Testing materials: Activity 5.4a (page 52)",
+          "mins": 6,
+          "do": "Read page 52, Topic 5.4 'Testing materials', Activity 5.4a 'Which material is best for an umbrella? An umbrella needs to be waterproof.' Look at the four pictures: set up your equipment as shown (materials to test, a small funnel, a measuring cylinder); place your material in the funnel; pour water into the material and start timing; is there any water going into the measuring cylinder? Ask your child to predict which of today's materials will be most waterproof and write the prediction."
+        },
+        {
+          "kind": "talk",
+          "title": "Plan the fair test",
+          "mins": 6,
+          "do": "Ask the book's question: 'What will you keep the same to make this test fair?' Make a list together: same size piece of each material, same funnel, same amount of water (for example 50 ml, measured each time), pour it the same way, same time (1 minute), same measuring jug. Only the material changes. Ask: 'What will we measure?' (How much water drips through in 1 minute, in ml.) Ask: 'Why not just look and say a little or a lot?' (Measuring gives numbers we can compare fairly.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Run the umbrella test",
+          "mins": 20,
+          "do": "Do Experiment e1. If you do not have a funnel, use the top third of a plastic bottle turned upside down. Stand it in a glass or a measuring jug (a medicine cup or a kitchen measuring jug with ml marks works). Test 6 materials, each cut to a 15 cm square: cotton cloth, a piece of an old raincoat or plastic bag, newspaper, aluminium foil, a woollen cloth, and a kitchen tissue. Your child pushes each into the funnel, you pour 50 ml of water over it, and they time 1 minute on a phone. Then they read how many ml came through and record it in a table: Material, Prediction, Water through in 1 minute (ml), Waterproof?",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "Look closely: why is it not waterproof?",
+          "mins": 8,
+          "do": "Do the book's last task: 'Look closely at the materials that are not waterproof. Can you see why they are not waterproof?' Hold the cotton cloth and the newspaper up to the window and look with a magnifying glass. Your child can see tiny gaps between the threads of the cloth and fibres in the paper. Then look at the plastic and the foil: no gaps. Explain: water squeezes through the gaps, and absorbent materials also soak water up and pass it through. Ask: 'Which material would you choose for an umbrella? Why not foil, which was also waterproof?' (Foil tears easily and crumples; plastic or a coated fabric is waterproof and also flexible and strong.)"
+        }
+      ],
+      "need": [
+        "Learner's Book page 52",
+        "a small funnel or the top of a plastic bottle, a glass",
+        "a measuring jug or medicine cup with ml marks",
+        "15 cm squares of cotton cloth, plastic bag or old raincoat, newspaper, foil, woollen cloth, kitchen tissue",
+        "water, a phone timer, a magnifying glass if you have one"
+      ],
+      "prep": [
+        {
+          "task": "Cut 15 cm squares of the six materials; find a funnel or cut the top off a plastic bottle; find a measuring jug or medicine cup",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Which paper would make the strongest paper bag?",
+      "goal": "Do the book's paper bag strength test fairly, answer the questions, and meet the scientist who invented a fibre stronger than steel.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Umbrella test conclusion",
+          "mins": 4,
+          "do": "Look at yesterday's table from Experiment e1. Your child writes a conclusion: 'The most waterproof materials were ... because ... The best material for an umbrella is ... because it is waterproof and also ...' Ask: 'Did your prediction match?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 5.4b: The strongest paper bag (page 53)",
+          "mins": 18,
+          "do": "Do Experiment e2. Read Activity 5.4b on page 53 and look at the two pictures: a strip of paper being tested, tied to a strong plastic bag, and masses added to the bag. Ask: 'Predict which paper will be strongest. How will you make this a fair test?' Cut strips 3 cm wide and 20 cm long from 5 papers: newspaper, a notebook page, a tissue, brown paper from a grocery bag, and a glossy magazine page. Tape one end of a strip to the edge of a table (or hold it with a heavy book) and tape the other end to the handle of a plastic bag hanging below. Add masses one at a time: 50 g packets of salt or spices, or coins counted in tens, until the strip tears. Record the number of masses each strip held.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 53)",
+          "mins": 6,
+          "do": "Do the book's task: 'Look closely at the strongest paper. Can you see why it is strong?' (Brown paper is thick and made of long, tough fibres; tear it and look at the fluffy edge.) Then Question 1: 'Why do the pieces of paper have to be the same size?' (A wider or thicker strip would hold more just because it is bigger, so it would not be a fair test of the paper.) Question 2: 'Is paper a good material for a bag? Why?' (Strong brown paper can be: it is light, cheap and can be recycled or rots away; but it is not waterproof, so a wet bag tears. Many Indian shops now use paper or cloth bags instead of thin plastic.)"
+        },
+        {
+          "kind": "think",
+          "title": "Stephanie Kwolek and the fibre stronger than steel",
+          "mins": 12,
+          "do": "Tell the story in Voice v3: in 1965 a chemist named Stephanie Kwolek, working for a company called DuPont, made a strange cloudy liquid that most people would have thrown away. She insisted on testing it, and it turned into a fibre that, weight for weight, is about five times stronger than steel. It is called Kevlar and is used in bulletproof vests, helmets and the ropes of ships. Ask: 'Why would a strong but light material be better than steel for a police vest?' (Steel is heavy and rigid; Kevlar fabric is flexible and light.) Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 53",
+        "5 types of paper cut into strips 3 cm by 20 cm",
+        "sticky tape, a table edge or heavy book, a strong plastic bag with handles",
+        "masses: ten 50 g packets, or a bag of coins counted in tens"
+      ],
+      "prep": [
+        {
+          "task": "Cut paper strips all the same size; collect ten small packets of the same mass or 100 coins of the same kind",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Which paper towel is the most absorbent?",
+      "goal": "Plan and do our own investigation for the book's Talk about it question on paper towels, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Paper bag test conclusion",
+          "mins": 4,
+          "do": "Look at the Experiment e2 results. Your child draws a simple bar chart: papers along the bottom, number of masses held up the side. Ask: 'Which paper should a sweet shop use for its bags?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Talk about it: How could you investigate which paper towel is the most absorbent? (page 53)",
+          "mins": 22,
+          "do": "Read the Talk about it question on page 53. First let your child plan the test: 'What will you change? What will you keep the same? What will you measure?' Then do Experiment e3. Cut strips 2 cm wide and 15 cm long from 5 materials: a kitchen towel, a paper napkin, a tissue, newspaper and a cotton handkerchief. Pour 2 cm of water coloured with a drop of food colouring or haldi into 5 glasses. Hang one strip in each glass from a pencil laid across the top, so the bottom 1 cm dips in, all at the same moment. After 5 minutes, your child measures with a ruler how high the coloured water has climbed up each strip. Record: Material, Prediction, Height after 5 minutes (cm). Then try a second method: put a 10 cm square of each on a plate with 1 spoon of water and see which square soaks up all the water fastest.",
+          "ref": "e3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 14,
+          "do": "Your child does Worksheet ws2 (stretch), using the properties and tests from this unit in new situations. Discuss any answer they are unsure of by asking 'What property does the job need? How could you test it?'",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 53",
+        "strips of kitchen towel, paper napkin, tissue, newspaper and a cotton hanky",
+        "5 glasses, water, food colouring or haldi, 5 pencils, a ruler, a timer"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Magnetic materials",
+      "goal": "Learn what magnetic and non-magnetic mean, find out why Sunil's magnet fell off the cupboard, and test materials at home to find the pattern, including the surprise about steel and coins.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Magnetic materials (page 54)",
+          "mins": 8,
+          "do": "Read page 54, Topic 5.5, and the Words to learn (magnet, attracted, magnetic, non-magnetic, pattern). Read: 'Anita has a magnet. There are lots of different types of magnets. Magnets are attracted to some materials. We say these materials are magnetic. Materials that are not attracted to magnets are non-magnetic.' Look at the big photo: 'Magnets can be used to separate magnetic materials from non-magnetic materials. This magnet is separating magnetic metal from other rubbish for recycling.' Then the picture of Sunil: 'Sunil is trying to put a fridge magnet on the cupboard door but it keeps falling off. Why?' Let your child guess."
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 5.5: Which materials are magnetic? (page 55)",
+          "mins": 18,
+          "do": "Do Experiment e4. Read Activity 5.5: 'Help Sunil by testing some materials. Predict which materials will be magnetic and then investigate.' Copy the table: Object, Material, Magnetic, Non-magnetic, with the book's example (chair, plastic, non-magnetic). Collect 15 objects: an iron nail, a safety pin, a steel paper clip, a steel spoon, a steel glass or katori, aluminium foil, a copper wire or old copper vessel, a brass key or diya, a few different coins, a plastic ruler, a pencil, an eraser, a glass bangle, a cotton thread, the fridge door, the steel almirah. Your child predicts each, then touches the magnet to it. Ask: 'Which surprised you?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Can you see a pattern? (page 55)",
+          "mins": 7,
+          "do": "Ask the book's questions: 'Look at your results. Can you see a pattern? Are some materials always non-magnetic? Which materials are magnetic?' Good answers: all the non-metals (plastic, wood, paper, glass, cotton, rubber) were non-magnetic every time; some metals were magnetic (iron nail, safety pin, paper clip, the fridge door, the steel almirah) and some were not (aluminium foil, copper, brass, and often the steel kitchen utensils). Explain: magnets attract iron and things made mostly of iron, like most steel. Many stainless steel utensils are made with metals mixed in that stop them being magnetic. So 'all metals are magnetic' is wrong: only some are."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 (page 54)",
+          "mins": 7,
+          "do": "Ask Question 1: 'Name a magnetic material.' (Iron, or steel made mostly of iron.) Question 2: 'List three materials that are not magnetic.' (Wood, plastic, glass, paper, aluminium, copper.) Question 3: 'Why did Sunil's magnet not stay on the door?' (The cupboard door is made of wood or another non-magnetic material, so the magnet is not attracted to it. The fridge door is steel, so the magnet sticks.) Test it: try your fridge magnet on a wooden door, then on the fridge."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 54–55",
+        "a magnet (a fridge magnet or a bar magnet)",
+        "15 test objects (see the step)"
+      ],
+      "prep": [
+        {
+          "task": "Buy a small bar or horseshoe magnet from a stationery or toy shop (or use a strong fridge magnet)",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Using magnets",
+      "goal": "Think about uses of magnets, make a model recycling magnet, test whether magnetism passes through materials, meet William Gilbert's experiments, and do the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Model recycling plant",
+          "mins": 10,
+          "do": "Do Activity a4. Mix a handful of steel paper clips and safety pins with bits of paper, plastic bottle caps, aluminium foil balls, rubber bands and a few rice grains in a tray: 'This is a rubbish heap.' Your child is the giant magnet from page 54: they move the magnet just above the heap and lift out all the magnetic pieces into a 'steel for recycling' bowl. Ask: 'What is left? How would the recycling plant separate the aluminium and plastic?' (Not with a magnet; by hand, by blowing light things away, or other machines.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "exp",
+          "title": "Does magnetism pass through materials?",
+          "mins": 8,
+          "do": "Put a paper clip on top of a sheet of paper and hold the magnet underneath; move it: the clip follows. Repeat with cardboard, a plastic plate, a wooden ruler, a cotton cloth, a steel thali and water (put a clip in a glass of water and drag it up the side with the magnet outside). Your child records: passes through or not. Usually it passes through all except the iron-containing steel, which 'soaks up' the magnet's pull. Count how many sheets of paper you need to stack before the clip stops moving: that compares the strength of two magnets fairly.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "William Gilbert and the giant magnet we live on",
+          "mins": 10,
+          "do": "Tell the story in Voice v4: in 1600 an English doctor, William Gilbert, wrote a whole book of careful magnet experiments. He tested old beliefs, such as sailors' claims that garlic could stop a compass working, and showed they were false. He also made a small ball-shaped magnet and showed that a compass needle behaves near it as it does on Earth, so he said the Earth itself is a giant magnet. If you have a compass (or a phone compass app), show that it points north wherever you stand. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Talk about it and challenge worksheet",
+          "mins": 12,
+          "do": "First read the Talk about it question on page 55: 'What else could we use magnets for?' List together: fridge magnets and notice boards, magnetic catches on almirah and cupboard doors, compasses, speakers and headphones, motors in fans and mixers, a magnet on a string to pick up dropped pins, magnetic toys, and big magnets in scrap yards. Then your child does Worksheet ws3 (challenge). Let them think aloud.",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 55",
+        "a magnet, a tray, steel paper clips and safety pins, bits of paper, bottle caps, foil, rubber bands",
+        "paper, cardboard, a plastic plate, a wooden ruler, cloth, a steel thali, a glass of water",
+        "a compass or a phone compass app"
+      ],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress questions, check understanding, and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 56–57)",
+          "mins": 14,
+          "do": "Do the Check your progress questions on pages 56–57 together. Question 1: write three properties for plastic, metal, glass, paper and stone; the first is done: 'Plastic is smooth, flexible and light.' (Metal: strong, shiny, hard; glass: transparent, rigid, breaks easily; paper: weak, flexible, absorbent; stone: hard, rigid, heavy.) Question 2: copy the Venn diagram and place a cotton T-shirt, a wooden pencil, a stone, a metal paper clip and a plastic ruler in the right places (follow the labels of the two circles in the book, one of which is 'flexible'; anything that fits neither goes outside both circles). Question 3: draw what will happen to the metal toy car near the magnet (if the car is steel, it is pulled towards the magnet). Question 4: copy and complete the table: a metal can (magnetic if it is a steel can; aluminium drink cans are not), a book (non-magnetic), a football (non-magnetic), metal scissors (magnetic, usually steel)."
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 10,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, look at the right page together for a minute and ask it again differently. 5 or more is good; fewer than 4 means repeat the umbrella test (Day 7) and the magnet test (Day 10) next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child is the teacher and you or a grandparent are the student. Using real things from the unit (property pairs, the branching tree, the umbrella and paper results tables, the magnet and test objects), they teach for 5 minutes: what properties are; how to sort and use a branching tree; why objects are made from the materials they are; how we did fair tests; and which materials are magnetic. Ask two student questions: 'Is every metal magnetic?' and 'Why did you use the same amount of water for every material?'"
+        },
+        {
+          "kind": "act",
+          "title": "Materials label",
+          "mins": 3,
+          "do": "Your child picks one object at home, such as the pressure cooker, and sticks a small paper label on it listing its materials and why each was chosen ('steel body: strong, does not burn; plastic handle: does not get hot; rubber ring: flexible, seals in steam')."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 56–57",
+        "the branching tree, results tables, magnet and test objects from this unit",
+        "small paper labels"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Properties, sorting and uses",
+      "day": 6,
+      "sections": [
+        ["A. Property words", [
+          {"t": "match", "p": "Match each property to its meaning.", "pairs": [["Flexible", "Can be bent"], ["Rigid", "Keeps its shape"], ["Waterproof", "Water cannot get through it"], ["Absorbent", "Soaks up liquid"], ["Transparent", "You can see through it"]]},
+          {"t": "fill", "p": "A property describes what a ____ is like.", "a": ["material"]},
+          {"t": "mcq", "p": "Which material is transparent, smooth, rigid and weak?", "opts": ["Wood", "Glass", "Rubber", "Wool"], "a": 1}
+        ]],
+        ["B. Sorting", [
+          {"t": "sort", "p": "Sort these objects by property.", "items": ["brick", "cotton ball", "steel spoon", "woollen sock", "ice cube", "tissue"], "cats": ["Hard", "Soft"]},
+          {"t": "sort", "p": "Now sort the same objects a different way.", "items": ["brick", "cotton ball", "steel spoon", "woollen sock", "ice cube", "tissue"], "cats": ["Shiny", "Dull"]},
+          {"t": "draw", "p": "Draw a branching tree database for a balloon, a brick, paper and ice. Start with 'Is it hard?'"}
+        ]],
+        ["C. Sensible or silly?", [
+          {"t": "mcq", "p": "Why is metal a sensible material for a cooking pan?", "opts": ["It is soft", "It is strong and does not burn", "It is absorbent", "It is transparent"], "a": 1},
+          {"t": "write", "p": "Why would a chocolate table be a silly idea?", "lines": 2},
+          {"t": "fill", "p": "A clay matka keeps water cool because clay is slightly ____ and lets water seep out and evaporate.", "a": ["absorbent"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Choosing and testing materials",
+      "day": 9,
+      "sections": [
+        ["A. Choose the material", [
+          {"t": "table", "p": "Choose the best material for each object and give the property that makes it right.", "cols": ["Object", "Best material", "Useful property"], "rows": 5, "prefill": ["Window", "Bucket", "Kitchen towel", "Cricket bat", "Raincoat"]},
+          {"t": "write", "p": "Arjun says 'plastic is the best material for everything because it is waterproof and strong'. Give two objects where plastic would be a bad choice and say why.", "lines": 3}
+        ]],
+        ["B. Fair tests", [
+          {"t": "mcq", "p": "In the umbrella test, which thing should change?", "opts": ["The amount of water", "The material", "The size of the funnel", "The time"], "a": 1},
+          {"t": "write", "p": "Meera tested a big piece of newspaper and a small strip of brown paper in the paper bag test. The newspaper held more. Can she say newspaper is stronger? Why not?", "lines": 3},
+          {"t": "table", "p": "Write your absorbent paper results from Day 9, in order.", "cols": ["Material", "Height water climbed (cm)", "Order (1 = most absorbent)"], "rows": 5}
+        ]],
+        ["C. Magnets", [
+          {"t": "sort", "p": "Sort these objects.", "items": ["iron nail", "aluminium foil", "safety pin", "copper wire", "glass bangle", "steel paper clip", "plastic ruler", "brass key"], "cats": ["Magnetic", "Non-magnetic"]},
+          {"t": "fill", "p": "Magnets attract iron and most ____.", "a": ["steel"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles and big ideas about materials",
+      "day": 11,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Priya's steel katori did not stick to the magnet, but the steel almirah did. Both are 'steel'. How can this be?", "lines": 3},
+          {"t": "write", "p": "Design a branching tree database for these 6 objects: steel spoon, glass bangle, cotton hanky, rubber band, wooden ruler, aluminium foil. Use only yes/no questions.", "lines": 5}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all the iron in the world suddenly became non-magnetic? Name three things in your home that would stop working or need changing.", "lines": 3},
+          {"t": "write", "p": "An umbrella material must be waterproof. Write two other properties it needs, and plan a test for one of them.", "lines": 4}
+        ]],
+        ["C. Comparing ideas and scientists", [
+          {"t": "match", "p": "Match each person to their work.", "pairs": [["William Gilbert (1600)", "Showed the Earth is a giant magnet and tested the garlic myth"], ["Stephanie Kwolek (1965)", "Invented Kevlar, a fibre stronger than steel for its weight"], ["Andre Geim and Konstantin Novoselov (2004)", "Made graphene using sticky tape"], ["R. Balasubramaniam", "Studied why the Delhi iron pillar resists rust"]]},
+          {"t": "write", "p": "Sailors once believed garlic stopped a compass from working. Gilbert tested it and it was false. Why is it important to test beliefs even when many people hold them?", "lines": 3},
+          {"t": "write", "p": "Kwolek's liquid looked cloudy and 'wrong', but she tested it anyway. What can scientists learn from results that look strange?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Which material is best for an umbrella? (Activity 5.4a)",
+      "day": 7,
+      "question": "Which materials are waterproof, and which would make the best umbrella?",
+      "need": ["a small funnel or the top third of a plastic bottle", "a glass", "a measuring jug or medicine cup with ml marks", "15 cm squares of cotton cloth, plastic bag or old raincoat, newspaper, aluminium foil, woollen cloth, kitchen tissue", "water", "a phone timer", "a magnifying glass if you have one"],
+      "steps": [
+        "Stand the funnel in a glass so that water that comes through can be collected and measured.",
+        "Push the first material square into the funnel so it lines it.",
+        "Measure 50 ml of water and pour it onto the material in one go; start the timer.",
+        "After 1 minute, lift the funnel out and measure how much water is in the glass.",
+        "Empty and dry the glass and funnel, and repeat with each material, keeping everything else the same.",
+        "Record the results in a table and look closely at the materials that let water through."
+      ],
+      "predict": "Ask your child to guess first: which material will let no water through? Which will let the most through? Which would make the best umbrella?",
+      "observe": "Plastic and foil usually let almost no water through. Cotton, tissue, newspaper and wool let water through, quickly or slowly. Under a magnifying glass, the cloth and paper show tiny gaps between threads or fibres.",
+      "why": "A waterproof material has no gaps big enough for water to pass through, and does not soak water up. Plastic and metal foil are continuous sheets with no holes. Cloth is woven from threads with tiny gaps, and paper and tissue are made of fibres with spaces between them; water squeezes through the gaps and is also pulled into the fibres, because water clings to them (this is what absorbent means). Real umbrellas use woven fabrics such as nylon or polyester coated with a waterproof layer, because an umbrella also needs to be flexible, light and strong; foil is waterproof but would tear.",
+      "safety": "Mop up spills so nobody slips.",
+      "time": "20 min"
+    },
+    {
+      "id": "e2",
+      "title": "Which paper would make the strongest paper bag? (Activity 5.4b)",
+      "day": 8,
+      "question": "Which type of paper can hold the most weight before it tears?",
+      "need": ["strips 3 cm by 20 cm of newspaper, notebook paper, tissue, brown paper and a magazine page", "sticky tape", "a table edge or a heavy book", "a strong plastic bag with handles", "masses: ten 50 g packets or coins counted in tens"],
+      "steps": [
+        "Cut all the strips exactly the same size.",
+        "Tape the top of one strip firmly to the edge of a table (or trap it under a heavy book).",
+        "Tape the bottom of the strip to the handle of the plastic bag so the bag hangs below.",
+        "Add masses to the bag one at a time, gently, without dropping them.",
+        "Count how many masses the strip holds before it tears.",
+        "Repeat for each paper, taping each the same way, and record the results in a table."
+      ],
+      "predict": "Ask your child to guess first: which paper will hold the most? Which will tear first?",
+      "observe": "Tissue tears with very little mass. Newspaper and notebook paper hold more. Brown grocery paper usually holds the most. Looking at a torn edge, the strongest paper has long, fluffy fibres.",
+      "why": "Paper is made of many tiny plant fibres (cellulose from wood or other plants) pressed and stuck together. Its strength depends on how long the fibres are, how tightly they are pressed and how thick the sheet is. Brown 'kraft' paper is made with long, strong fibres and is thick, so the fibres hold each other well and it takes a lot of pulling to break them apart. Tissue is thin and loosely made so it is soft and absorbent but weak. The strips must be the same size because a wider or thicker strip has more fibres to share the pull, so it would hold more even if the paper were not stronger.",
+      "safety": "Keep feet away from under the bag in case it falls.",
+      "time": "18 min"
+    },
+    {
+      "id": "e3",
+      "title": "Which paper towel is the most absorbent?",
+      "day": 9,
+      "question": "Which paper (or cloth) soaks up water best?",
+      "need": ["strips 2 cm by 15 cm of kitchen towel, paper napkin, tissue, newspaper and cotton hanky", "5 glasses", "water with a drop of food colouring or haldi", "5 pencils", "a ruler", "a timer", "10 cm squares of each material, a plate, a spoon"],
+      "steps": [
+        "Pour the same amount of coloured water (2 cm deep) into each glass.",
+        "Hang one strip in each glass from a pencil laid across the top, so exactly 1 cm of each strip dips into the water.",
+        "Put all the strips in at the same moment and start the timer.",
+        "After 5 minutes, measure with a ruler how high the colour has climbed up each strip.",
+        "Second test: put a 10 cm square of each material on a plate, add 1 spoon of water next to it, and see which soaks it up fastest and most completely.",
+        "Record the results and put the materials in order."
+      ],
+      "predict": "Ask your child to guess first: which will soak up water best, the kitchen towel, the tissue, the newspaper or the cloth?",
+      "observe": "Colour climbs fastest and highest up the kitchen towel and paper napkin, then the tissue and cotton; newspaper is usually slowest. Glossy or coated paper hardly absorbs at all.",
+      "why": "Absorbent materials are full of tiny spaces between fibres. Water is pulled into these narrow spaces because water molecules cling to the fibres and to each other; this pull can even lift water upwards against gravity, which is called capillary action. It is the same thing that helped the coloured water climb the celery stalk in Unit 1. Kitchen towel is made soft and fluffy with many air spaces, so it holds lots of water. Newspaper is pressed flat with fewer spaces, and glossy paper is coated, which blocks the spaces.",
+      "safety": "Food colouring stains; use old newspaper underneath.",
+      "time": "22 min"
+    },
+    {
+      "id": "e4",
+      "title": "Which materials are magnetic? (Activity 5.5)",
+      "day": 10,
+      "question": "Which materials are attracted by a magnet, and is there a pattern?",
+      "need": ["a magnet", "15 objects: iron nail, safety pin, steel paper clip, steel spoon, steel glass or katori, aluminium foil, copper wire or vessel, brass key or diya, several coins, plastic ruler, pencil, eraser, glass bangle, cotton thread", "the fridge door and steel almirah", "a results table"],
+      "steps": [
+        "Copy the table from page 55: Object, Material, Magnetic, Non-magnetic.",
+        "For each object, write its material and predict magnetic or not.",
+        "Touch the magnet to the object and see if it pulls or sticks.",
+        "Tick the right column.",
+        "Look for a pattern: which materials were always non-magnetic? Which metals were magnetic?",
+        "On Day 11, test whether the magnet's pull passes through paper, card, plastic, wood, cloth, water and a steel thali."
+      ],
+      "predict": "Ask your child to guess first: will all metal things stick? Will anything that is not metal stick?",
+      "observe": "Iron nails, safety pins, paper clips, the fridge door and the almirah stick. Aluminium, copper, brass and all non-metals do not. Many stainless steel utensils do not stick, or stick only weakly. Some coins stick and others do not, depending on the metals they are made from. The pull passes through paper, card, plastic, wood, cloth and water, but is blocked by a steel thali.",
+      "why": "Only a few metals are strongly magnetic: mainly iron, nickel and cobalt, and alloys (mixtures of metals) that contain a lot of iron, like most steel. Inside these metals, tiny regions act like mini-magnets; a magnet nearby lines them up, so the object is pulled. Aluminium, copper and brass do not behave this way. Some stainless steels are made with nickel and chromium mixed in a way that changes how the iron's atoms are arranged, so they are non-magnetic; that is why a steel katori may not stick while a steel almirah does. A magnetic force passes through non-magnetic materials as if they were not there, but a sheet of iron-containing steel carries the pull along itself, so the clip on the other side feels little.",
+      "safety": "Keep magnets away from phones, cards with magnetic strips and very young children (small magnets are dangerous if swallowed).",
+      "time": "18 min + 8 min on Day 11"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "A materials hunt (Activity 5.1)",
+      "day": 2,
+      "mins": 16,
+      "need": ["notebook", "pencil"],
+      "steps": [
+        "Copy the table from page 47: Material, Properties.",
+        "Walk round the home and find at least 8 different materials.",
+        "Look, feel, tap and gently bend each one.",
+        "Write at least three properties for each material.",
+        "Play the describe-and-guess game with a partner."
+      ],
+      "outcome": "A table of at least 8 materials with their properties."
+    },
+    {
+      "id": "a2",
+      "title": "Sorting materials and a branching tree database (Activity 5.2)",
+      "day": 3,
+      "mins": 17,
+      "need": ["about 12 objects each made of one material", "paper labels", "a big sheet of paper", "markers"],
+      "steps": [
+        "Sort the objects into hard and soft.",
+        "Choose another property and sort them again into two groups. Repeat with at least three properties.",
+        "On Day 4, choose 8 objects and write a first yes/no question that splits them roughly in half.",
+        "Add a yes/no question to each branch until every object is alone at the end of a branch.",
+        "Test the tree on a family member."
+      ],
+      "outcome": "Photos of three different sorts, and a working branching tree database for 8 objects."
+    },
+    {
+      "id": "a3",
+      "title": "Why is that material useful? (Activity 5.3)",
+      "day": 6,
+      "mins": 15,
+      "need": ["a large sheet of paper", "markers", "6 single-material objects from home"],
+      "steps": [
+        "Draw the table from page 51: Object, Material, Useful properties of that material.",
+        "Find at least 6 objects made of only one material.",
+        "Draw each object and write its material.",
+        "Write at least two useful properties for each, explaining why they help the object do its job."
+      ],
+      "outcome": "A poster table showing why everyday objects are made of the materials they are."
+    },
+    {
+      "id": "a4",
+      "title": "Model recycling plant",
+      "day": 11,
+      "mins": 10,
+      "need": ["a magnet", "a tray", "steel paper clips and safety pins", "bits of paper, bottle caps, foil balls, rubber bands, a few rice grains", "two bowls"],
+      "steps": [
+        "Mix all the bits together in a tray to make a 'rubbish heap'.",
+        "Move the magnet just above the heap.",
+        "Lift the magnetic pieces into a 'steel for recycling' bowl.",
+        "Look at what is left and discuss how the other materials could be separated."
+      ],
+      "outcome": "Magnetic and non-magnetic 'rubbish' separated, and a child who can explain how scrap yards use magnets."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Andre Geim and Konstantin Novoselov, University of Manchester, UK (graphene, 2004)",
+      "idea": "Graphite, the grey 'lead' in pencils, is made of stacked layers of carbon atoms. In 2004 Geim and Novoselov used ordinary sticky tape to peel graphite again and again until they had flakes just one atom thick, a material now called graphene. They showed it was real and stable and measured its unusual properties: it is extremely strong for its weight, very thin and flexible, and conducts electricity very well. Their paper was published in the journal Science in 2004.",
+      "then": "Many physicists had believed a sheet only one atom thick could not exist on its own, because it would crumple or fall apart. Geim was already known for playful experiments; in 2000 he had shared a joke prize, the Ig Nobel, for using a powerful magnet to make a live frog float.",
+      "now": "Graphene is real and its properties are accepted; Geim and Novoselov won the Nobel Prize in Physics in 2010. Scientists are still working out which uses will turn out practical and affordable, such as batteries, screens, sports equipment and water filters; making large, perfect sheets cheaply is still hard.",
+      "status": "accepted",
+      "ask": "Scientists had argued that a sheet one atom thick was impossible, until someone tried with sticky tape. Why is it important to test an idea, even if experts say it cannot work?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "The Delhi iron pillar (about 1,600 years old) and R. Balasubramaniam (1961–2009), IIT Kanpur, India",
+      "idea": "The iron pillar in the Qutub Minar complex in Delhi is about 7 metres tall and carries an inscription in Sanskrit that historians link to a king of the Gupta period, around 1,600 years ago. It was made by forge-welding hot pieces of iron together by hand, and it has hardly rusted. The metallurgist R. Balasubramaniam of IIT Kanpur studied it in detail around the year 2000 and explained that its iron contains an unusually high amount of phosphorus, which helps a thin, tight protective layer form on the surface and stops rust from eating deeper.",
+      "then": "For a long time people offered many explanations: some said it was magic, some said Delhi's air was too dry, and others suggested the pillar must be made of some unknown metal. Careful testing of samples was needed to settle it.",
+      "now": "Most scientists accept that the pillar's resistance to rust comes from the iron's composition (especially phosphorus) and the protective surface film that formed over centuries, helped by Delhi's climate. It is admired as evidence of the skill of ancient Indian iron-workers.",
+      "status": "accepted",
+      "ask": "People once said the pillar's secret was magic. What kind of evidence would you need to replace 'magic' with a real explanation? Why do scientists need to test samples rather than just look?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Stephanie Kwolek (1923–2014), USA",
+      "idea": "In 1965, while working as a chemist at the DuPont company searching for strong, light fibres, Kwolek made a solution that was thin and cloudy, quite unlike the thick, clear solutions that usually made good fibres. Instead of throwing it away, she persuaded a technician to spin it into fibres. The fibres turned out to be extraordinarily strong and stiff for their weight. The material, later called Kevlar, went on sale in the early 1970s.",
+      "then": "The technician was reluctant at first because the cloudy liquid looked as if it might clog the spinning machine. Her managers quickly saw the value once the fibre was tested.",
+      "now": "Kevlar is used in bulletproof vests, helmets, gloves, ropes and tyres, and has saved many lives. Weight for weight it is about five times stronger than steel. Kwolek received many honours, including the National Medal of Technology in the USA in 1996.",
+      "status": "accepted",
+      "ask": "Kwolek's liquid looked 'wrong', so most people would have thrown it away. When an experiment gives a strange result, should you throw it away or test it? How do you decide?",
+      "day": 8
+    },
+    {
+      "id": "v4",
+      "who": "William Gilbert (1544–1603), England",
+      "idea": "Gilbert, a doctor to Queen Elizabeth I, published 'De Magnete' ('On the Magnet') in 1600 after many years of experiments. He made a ball-shaped magnet he called a terrella ('little Earth') and showed that a small compass needle moved over it behaves as compass needles do on the real Earth. He concluded that the Earth itself is a giant magnet, which is why a compass points north. He also tested popular beliefs, such as the sailors' claim that garlic on the breath could stop a compass needle working, and found them false.",
+      "then": "Before Gilbert, many people thought compasses pointed towards the Pole Star or to a magnetic mountain in the far north. His insistence on testing ideas by experiment was unusual for his time and influenced later scientists such as Galileo.",
+      "now": "That the Earth acts like a giant magnet is accepted. Today we know its magnetism comes from movements of molten iron deep in the Earth's outer core, which Gilbert could not have known. The garlic myth is rejected, as Gilbert showed.",
+      "status": "accepted",
+      "ask": "Gilbert tested the garlic belief instead of just arguing about it. How would you design a fair test of 'garlic stops a magnet working' at home?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "What is a property? Give four property words.", "a": "A word describing what a material is like, such as strong, weak, flexible, rigid, waterproof, absorbent, hard, soft, shiny, dull, transparent."},
+    {"q": "Give a material that is flexible and one that is rigid, and one that is waterproof and one that is absorbent.", "a": "Flexible: rubber; rigid: stone. Waterproof: plastic; absorbent: cotton."},
+    {"q": "What is a branching tree database and how do you use it?", "a": "A chart of yes/no questions that branches; you answer each question about an object and follow the branches until you reach its name."},
+    {"q": "Why is a cooking pan made of metal and not wood?", "a": "Metal is strong and does not burn; a wooden pan would burn or catch fire."},
+    {"q": "In the umbrella test, what did we keep the same, and what did we change?", "a": "Kept the same: size of material, amount of water, funnel, time. Changed: only the material."},
+    {"q": "Why are cloth and paper not waterproof?", "a": "They have tiny gaps between their threads or fibres that water can pass through, and they soak water up."},
+    {"q": "Are all metals magnetic? Which materials are attracted by a magnet?", "a": "No. Iron and most steel are magnetic; aluminium, copper, brass and some stainless steel are not, and non-metals like wood, plastic and glass are never magnetic."}
+  ]
+}

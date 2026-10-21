@@ -1,0 +1,750 @@
+{
+  "key": "ncert|sci|4|9",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 9,
+  "title": "Different Lands, Different Lives",
+  "source": "NCERT Our Wondrous World, Class 4, Unit 5 'Our Environment', Chapter 9 (pages 130–151), Reprint 2026-27",
+  "summary": "Back from the holidays, Gurpreet, Ritika, Chandni and Nayan share what they saw in the plains of Punjab, the desert of Rajasthan, the coast of Odisha and the mountains of Sikkim. Your child explores how each landform's land, water and climate shape the plants and animals found there and the food, clothes, houses, festivals and art of the people, how people live with challenges like water shortage, cyclones and landslides, and then studies the landform around their own home.",
+  "goals": [
+    "By the end your child can describe the four landforms in the chapter (plains, desert, coast, mountains) by their land, water and climate, and find Punjab, Rajasthan, Odisha and Sikkim on a map of India.",
+    "By the end your child can explain how a landform shapes the plants and animals found there, for example how a cactus stores water, why pines suit snowy slopes, and how a yak survives the cold.",
+    "By the end your child can link people's food, clothing, houses and festivals to their land and climate, such as mud houses and tankas in the desert and wooden houses with sloping roofs in Sikkim.",
+    "By the end your child can test ideas behind these links with simple experiments: sand versus water heating, mud walls keeping things cool, sloping roofs and landslides on bare and planted slopes.",
+    "By the end your child can explain the dangers of cyclones and landslides and how early warnings, preparation, trees and mangroves help communities stay safe.",
+    "By the end your child can describe and draw the landform around their own home and compare it with the four in the book."
+  ],
+  "words": [
+    ["landform", "a natural shape of the land, such as a plain, a desert, a coast or a mountain"],
+    ["plains", "large, flat stretches of land, often with rivers and rich soil good for farming"],
+    ["fertile", "rich soil that helps plants grow well"],
+    ["desert", "a dry place with very little rainfall, often sandy or rocky, hot by day and cool at night"],
+    ["tanka", "a covered underground tank that stores rainwater, used in desert homes"],
+    ["coastal region", "land beside the sea"],
+    ["cyclone", "a huge, spinning storm that forms over warm seas and brings very strong winds, heavy rain and high waves to the coast"],
+    ["mangrove", "trees and shrubs that grow in salty mud along sea coasts and river mouths, with roots that stand above the water"],
+    ["mountain", "a rocky landform that rises high above the land around it, often with steep slopes and cold weather"],
+    ["valley", "low land between hills or mountains, often with a river"],
+    ["landslide", "when a large amount of soil and rock suddenly slides down a slope, often after heavy rain"],
+    ["climate", "the usual weather of a place over many years: how hot, cold, wet or dry it is"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Back to school: where did you go?",
+      "goal": "Start from places your child has visited, meet the four friends, fill the book's holiday table, and find the four regions on a map of India.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "My favourite trip",
+          "mins": 7,
+          "do": "Ask your child to close their eyes and remember the last place they visited outside your town or village (a grandparent's home, a hill station, a beach, a pilgrimage). Ask: 'What did the land look like: flat, hilly, sandy, beside the sea? Was it hotter or colder than home? What did people eat there that was different? What were the houses made of?' If they have never travelled, use a place nearby: a river bank, a hill, a lake, a market in the next town. Look at photos on your phone from the trip if you have them."
+        },
+        {
+          "kind": "read",
+          "title": "Back to School from Holidays (page 130)",
+          "mins": 5,
+          "do": "Read page 130 aloud: the classroom is full of excitement; Chandni visited a beach in Odisha, Ritika the desert of Rajasthan, Gurpreet his grandparents in Amritsar, Punjab, and Nayan the mountains of Sikkim. Ask: 'Which of these four places would you most like to visit, and why?' Write your child's answer; you will come back to it on Day 10."
+        },
+        {
+          "kind": "do",
+          "title": "Find them on the map",
+          "mins": 10,
+          "do": "Open a map of India (a school atlas, a printed map, or a map on the phone). Your child finds and marks with a small sticker or a dot: Amritsar in Punjab, the Thar desert and Jaisalmer in Rajasthan, Puri in Odisha, and Gangtok in Sikkim. Then mark your own town. Ask: 'Which of these places is beside the sea? Which is near the snowy Himalayas? Which is closest to us? Which is farthest?' Show the colours on a physical map: green for low flat land, yellow-brown for higher land and deserts, dark brown and white for high mountains, blue for sea."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: Places we visited (page 131)",
+          "mins": 18,
+          "do": "Do Activity a1. Copy the table on page 131 (Name of the friend, Name of the place, Type of region, Something special about the place). Fill in your child's own row first. Then your child phones or video-calls two or three cousins, friends or relatives and asks them about a place they visited, filling a row for each. The book's example row: a mountain place, special for its pine trees. Then ask the two page 131 questions: 'Which type of place do you find interesting?' and 'What similarities and differences do you find between the place you visited and those your friends visited?' Good answers compare land, weather and food, for example 'Both were hot, but one was beside the sea and one was dry and sandy.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "What is our landform?",
+          "mins": 5,
+          "do": "Ask: 'Which of the four landforms is our home most like: plains, desert, coast or mountains? Or is it something else, like a plateau or a river delta?' Look out of the window together. Accept a reasoned answer ('It is flat, there are fields and a river nearby, so plains'). Tell your child that at the end of the chapter they will draw their own landform for page 149."
+        }
+      ],
+      "need": ["Textbook pages 130–131", "a map of India (atlas, printed map or phone)", "small stickers or a pencil", "a phone to call relatives", "notebook"],
+      "prep": [{"task": "Tell two or three relatives your child will call to ask about a place they visited", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "In the land of agriculture, with Gurpreet",
+      "goal": "Explore the fertile plains of Punjab through the book's picture and Gurpreet's story, find out why plains are good for farming, and learn about the langar at the Golden Temple.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "The plains picture (page 132)",
+          "mins": 8,
+          "do": "Look at the big picture on page 132 together and answer the four questions below it aloud, then write short answers. 1. 'What kind of land do you see?' (Flat land with big fields, perhaps a canal or river.) 2. 'List the activities people are doing.' Let your child name everything they see in the picture, for example ploughing, sowing, harvesting, carrying fodder, milking. 3. 'Which animals do you see?' (Name them from the picture; cows, buffaloes and bullocks are common on Punjab farms.) 4. 'Do you notice anything unique about the clothing?' (For example turbans, kurta-pyjama, salwar-kameez and phulkari dupattas, if shown.) If your child is unsure, ask them to point and describe rather than name."
+        },
+        {
+          "kind": "read",
+          "title": "Gurpreet's story (page 133)",
+          "mins": 5,
+          "do": "Read page 133 aloud. Practise Gurpreet's grandmother's welcome together: 'Jee aayan nu puttar!' (Punjabi for 'Welcome, my dear child!'). Ask: 'What does Gurpreet say about the soil in the plains of Amritsar?' (It is rich and fertile, and many people farm.) 'What is their favourite food?' (Makki di roti, a roti of corn flour, with sarson da saag, made from mustard leaves, and a big glass of lassi.) Ask: 'Corn, mustard and milk: which of these are grown on the farm and which come from farm animals?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Why are river plains so fertile?",
+          "mins": 12,
+          "do": "Do Experiment e1. In a tall glass of water, stir in two spoons of garden soil with some sand and a few small pebbles. Ask your child to predict what will happen when it stands still. Watch: pebbles drop first, then sand, then the fine soil, and the finest mud settles last, over an hour. Explain using the 'why' of e1: rivers coming down from the mountains carry fine mud (called silt or alluvium) and drop it when they slow down and spread over flat land, especially during floods; over thousands of years this builds the deep, fertile soil of the plains of Punjab, Haryana, Uttar Pradesh, Bihar and West Bengal.",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Our region's favourite food (page 133)",
+          "mins": 12,
+          "do": "Do Activity a2. Answer the page 133 question: 'What is the most popular food in your region? Can you list the main ingredients?' Your child writes the name and ingredients. Then cook a small portion of it together, or make a mini makki di roti from a handful of maize flour (makki atta) with warm water, patted between wet palms and roasted on the tawa. While you cook, ask: 'Which ingredients grow in our area? Which come from far away?' Good answers notice that many dishes use what grows locally: rice and coconut on the coasts, wheat and mustard in Punjab, millets like bajra in dry Rajasthan.",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "The Golden Temple and its langar (page 134)",
+          "mins": 8,
+          "do": "Read the box at the top of page 134: the Golden Temple, Sri Harmandir Sahib, in Amritsar, is a gold-plated Gurudwara surrounded by a sarovar (water tank); its langar sewa serves free meals to all, cooked, served and washed up by volunteers, and is one of the world's largest community services. Tell your child it serves tens of thousands of people every day, and everyone sits together on the floor in rows, whoever they are. Ask: 'Why do you think everyone sits together and eats the same food?' (Everyone is equal.) 'Which helpers from our food chapter make the langar possible?' (Farmers, volunteers, cooks, washers.)"
+        }
+      ],
+      "need": ["Textbook pages 132–134", "a tall clear glass, garden soil, sand, a few small pebbles", "makki atta (maize flour) or ingredients for your regional dish", "a tawa"],
+      "prep": [{"task": "Buy a small packet of makki atta or ingredients for your regional dish", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "In the land of endless sand, with Ritika",
+      "goal": "Explore the desert picture, find out how desert plants and animals survive with little water, and test why deserts are so hot by day and cold at night.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "The desert picture (pages 134–135)",
+          "mins": 8,
+          "do": "Look at the picture on page 134 and answer the five questions on page 135 aloud. 1. 'What kind of land do you see?' (Sandy, dry, with sand dunes.) 2. 'What types of plants do you see? How are they different from plants near you?' (Few, small, spiky or thorny, with tiny leaves or none.) 3. 'Is there something unique about the way people are dressed?' (Bright colours, turbans for men, long skirts and covered heads for women, which protect from sun and sand.) 4. 'How do you think people travel in deserts?' (On camels, camel carts, jeeps.) 5. 'What do you like most in the picture?'"
+        },
+        {
+          "kind": "read",
+          "title": "Desert plants and animals (page 136)",
+          "mins": 5,
+          "do": "Read the top of page 136 aloud: a desert is a dry place with very little rainfall; cactus, khejri and babool can survive on very little water; the cactus stores water in its stem; camels, lizards, wild cats, pythons and eagles live there; the camel is the 'ship of the desert'. Ask: 'Why do you think the camel is called the ship of the desert?' (It carries people and loads across the sand 'sea' and can go many days without drinking.) Tell your child that khejri roots can go down many metres to reach water deep underground, and its pods are the 'sangri' in the dish ker sangri on page 137."
+        },
+        {
+          "kind": "exp",
+          "title": "How does a cactus save water?",
+          "mins": 12,
+          "do": "Do Experiment e2. Wet three kitchen sponges equally (dip and squeeze each the same way) and weigh each on a kitchen scale, or note how heavy they feel. Leave sponge 1 bare. Wrap sponge 2 in cling film (like the waxy skin of a cactus). Cut sponge 3 into many small pieces and spread them out (like a plant with many thin leaves). Put all three in the sun. Ask your child to predict which will dry out first. Check after 1–2 hours and again at the end of the day. Read the 'why' of e2: desert plants have thick, waxy skins, few or tiny leaves (a cactus's spines are its leaves) and fat stems that store water.",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Sand and water in the sun",
+          "mins": 15,
+          "do": "Do Experiment e3. Fill two identical steel bowls, one with dry sand (or soil) and one with water from the same tap. Leave them side by side in direct sun (or 20 cm under a lamp) for 15 minutes. Your child predicts first which will get hotter. Then feel the surface of each with a fingertip, or use a kitchen or fever thermometer if you have one, and record. Bring both into the shade and feel again after 10 minutes. Ask: 'Which got hotter faster? Which cooled down faster?' (Sand both times.) 'So why are deserts so hot in the day and cold at night?' Good answer: 'Sand heats up quickly in the sun and loses its heat quickly at night, and there are few clouds or water to hold the warmth.' Ask: 'Why do people near the sea have milder weather?' (Water warms and cools slowly.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Why is water scarce in the desert? (page 138)",
+          "mins": 5,
+          "do": "Ask the question on page 138: 'Why do you think water is scarce in the desert?' Good answers: very little rain falls there in a year; the hot sun and dry winds dry up water quickly; sand lets rain sink away fast; there are few rivers. Tell your child that some parts of the Thar desert get less than a quarter of the rain that falls in Mumbai or Kolkata. Leave the sponges in the sun for a final check this evening."
+        }
+      ],
+      "need": ["Textbook pages 134–136 and 138", "3 kitchen sponges, cling film, scissors", "a kitchen scale (optional)", "2 identical steel bowls, dry sand or soil, water", "a thermometer if available", "a sunny spot or a desk lamp"],
+      "prep": [{"task": "Collect dry sand or soil and check that tomorrow's weather forecast is sunny (or use a lamp)", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Desert homes, music and saving every drop",
+      "goal": "Learn about Rajasthani dress, music and food, test why mud houses keep cool, see how tankas collect rain, and hear how villagers brought a river back to life.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Ritika's bangles and bandhini (page 136)",
+          "mins": 5,
+          "do": "Read the bottom of page 136: Ritika shows colourful bangles and a bandhini dupatta from Rajasthan; women wear them with ghaghras while dancing, and men wear colourful turbans and play the khartal and sarangi. Show anything tie-dyed you have at home. Explain bandhini (bandhej): the cloth is tied in tiny knots with thread before dyeing, so the tied spots stay undyed and make dot patterns. Ask: 'Why do you think people in a sandy brown land like such bright colours?' (They stand out, are cheerful, and many say they bring colour to a land of brown sand.)"
+        },
+        {
+          "kind": "act",
+          "title": "Folk songs and dances (page 137)",
+          "mins": 8,
+          "do": "Do Activity a3, the table on page 137. Your child asks grandparents or other elders about the folk dances and folk music of your region and fills in the two columns (Dance form, Folk music), for example bhangra and giddha in Punjab, ghoomar and kalbeliya in Rajasthan, Odissi and Sambalpuri in Odisha, garba in Gujarat, lavani in Maharashtra, bihu in Assam, kolattam in Andhra Pradesh. Ask the elder to sing or hum a line, and record it on the phone. Ask: 'Is your region's song about farming, rain, the sea or the hills? What does it tell us about the land?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "exp",
+          "title": "Which house stays coolest?",
+          "mins": 15,
+          "do": "Read the top of page 137: traditional desert houses are made of mud with thatched roofs, and many have tankas to store water. Then do Experiment e4. Take four small identical cardboard boxes (or steel tiffins inside boxes). Line one with a 2 cm layer of wet clay or mud (it can dry a little first), one with folded newspaper, one with cloth, and leave one bare. Put an ice cube in a small cup inside each, close the lids and leave them in the sun. Your child predicts first which ice will melt last. Check every 10 minutes for 40 minutes (carry on with the next steps meanwhile) and note the order in which the ice melts. Ask: 'Which wall would you want for a house in the desert?' Good answer: 'Thick mud, because it slows the heat getting in during the day.'",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Tankas and johads: Rajendra Singh",
+          "mins": 10,
+          "do": "Explain a tanka: a round, covered underground tank with a gently sloping, clean floor around it, so that rain running off the floor flows in through small holes; the water is kept for drinking through the dry months. Draw one together. Then tell the story in Voice v1: Rajendra Singh and villagers in Alwar, Rajasthan, built small earthen dams called johads to catch the monsoon rain, and a dry river began to flow again. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "read",
+          "title": "Desert food and the golden fort (pages 137–138)",
+          "mins": 7,
+          "do": "Read the bottom of page 137: dal-bati-churma and ker sangri are popular dishes. Ask: 'Ker sangri is made of dried berries and beans from desert plants. Why do you think people in the desert dry their vegetables?' (Fresh vegetables are hard to grow; dried ones keep for months.) Then read the Jaisalmer Fort box on page 138: tall, thick walls of golden sandstone; people still live inside it; Satyajit Ray filmed it in 'Sonar Kella' ('The Golden Fortress'). Ask: 'Why would a desert fort have tall, thick walls?' (To keep out enemies and also the heat and sandstorms.) Then check the ice boxes from Experiment e4 and record the result."
+        }
+      ],
+      "need": ["Textbook pages 136–138", "something tie-dyed (optional)", "a phone to record an elder", "4 small identical cardboard boxes", "clay or mud, newspaper, cloth", "4 ice cubes and 4 small cups", "a watch"],
+      "prep": [{"task": "Make ice cubes and dig up a little clay or wet mud", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "On the seashore, with Chandni",
+      "goal": "Explore the coast through the picture and Chandni's scrapbook, learn about Puri's sand art, shells and food, and make a craft from a coastal item.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "The seashore picture (page 139)",
+          "mins": 8,
+          "do": "Look at the picture on page 139 and answer the four questions aloud. 1. 'List the different activities the people are doing.' (For example fishing, mending nets, selling fish, making sand art, playing.) 2. 'What kinds of trees are found near the sea, and how are they different from those in deserts and plains?' (Coconut palms and casuarina: tall, with long leaves or needles that bend in strong winds, and roots that grip sandy soil; desert plants are short and thorny; plains have big shady trees like neem, peepal and mango.) 3. 'List the fun activities you would like to do on a beach.' 4. 'What is special about the dresses people wear in coastal regions?' (Light cotton, loose clothes like lungis or dhotis for men, cotton saris for women, because the air is warm and humid.)"
+        },
+        {
+          "kind": "read",
+          "title": "Puri and Chandni's scrapbook (pages 139–140)",
+          "mins": 8,
+          "do": "Read the paragraph at the bottom of page 139: Puri, a coastal city in Odisha, has sand beaches where artists create sand art, and many sea shells, including the shankh (conch) blown during pooja. Then read Chandni's scrapbook page on page 140 in time order: 7:00 am fishermen in boats; 8:00 am collecting shells; 10:50 am boat ride, turtles and other creatures; 12:30 pm Mother buys a Sambalpuri saree; 4:00 pm sand art; 7:00 pm an Odissi dance performance. Ask: 'Why did the fishermen go out so early?' (Fish are often caught at dawn, and they return in time for the morning market.) Read the line below: many coastal people depend on fishing, and Odisha's dishes include dalma (dal cooked with vegetables), pakhala (cooked rice soaked in water, eaten in summer), chhena poda (a baked sweet of cottage cheese) and rasagola. Tell your child that Sambalpuri saris are woven with a tie-dye method called ikat, where the threads are dyed in patterns before weaving."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: Let us Create (page 141)",
+          "mins": 20,
+          "do": "Do Activity a4. Read the activity on page 141: use one coastal item to make a decor object like a photo frame, a necklace, a painted pebble, a mini basket or a sand art jar. If you have no shells, use local materials as the book allows: river pebbles, coconut shell, sand, or dried leaves. A sand art jar is easy: colour four small heaps of sand (or fine semolina) with a pinch of turmeric, a few drops of beetroot juice, kumkum and chalk powder, then pour them into a clean glass bottle in layers with a funnel made of rolled paper, tilting the bottle to make waves. Ask your child to add their own creative twist and give it a name. Display it on a shelf."
+          ,"ref": "a4"
+        },
+        {
+          "kind": "read",
+          "title": "Shree Jagannath Temple and the Rath Yatra (page 141)",
+          "mins": 7,
+          "do": "Read the box on page 141: the Shree Jagannath Temple in Puri is a beautifully carved temple with huge gates; Puri is famous for the Rath Yatra, when thousands of people pull huge, colourful chariots of Jagannath, Subhadra and Balabhadra. Ask: 'Why do you think it takes thousands of people to pull a chariot?' (The chariots are enormous and heavy, made of wood, with big wheels, and pulling together is part of the festival.) Ask: 'Which big festival in our region brings everyone out onto the streets?'"
+        }
+      ],
+      "need": ["Textbook pages 139–141", "sea shells, pebbles, coconut shell or sand", "a clean glass bottle, paper funnel", "turmeric, beetroot juice, kumkum, chalk powder for colouring sand", "glue and paints"],
+      "prep": [{"task": "Collect a coastal item or local material (shells, pebbles, sand, a coconut shell) and a clean small bottle", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Sea creatures and living with cyclones",
+      "goal": "Compare coast and desert life, identify sea creatures, learn why beaches must be kept clean, understand cyclones and how Odisha learnt to save lives, and weigh a debate about mangroves.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Coast or desert? (page 142)",
+          "mins": 6,
+          "do": "Ask the two questions at the top of page 142. 1. 'How does life around a coastal region differ from life in a desert?' Good answers compare: water everywhere versus very little; fishing versus herding camels and growing hardy crops; coconut and rice versus millet and dried beans; light cotton clothes in humid air versus covered heads and long clothes against sun and sand; mild weather versus very hot days and cold nights (link to Day 3's sand-and-water test). 2. 'Why is it important to keep our beaches clean?' (Plastic and rubbish harm turtles, fish and birds, which can mistake plastic for food; dirty beaches spread disease and spoil the beauty for everyone.)"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 3: Identify the creatures (page 142)",
+          "mins": 8,
+          "do": "Do Activity 3 on page 142: your child matches each picture to its name: sea turtle, crab, dolphin, corals, seaweed, starfish. For each, add one surprising fact. Sea turtle: Olive Ridley turtles come in huge numbers to nest on Odisha beaches such as Gahirmatha and Rushikulya. Crab: walks sideways and has its skeleton on the outside. Dolphin: a mammal, not a fish; it breathes air through a blowhole and feeds its babies milk; Irrawaddy dolphins live in Chilika Lake in Odisha. Corals: look like plants or rocks but are tiny animals that build stony homes together. Seaweed: algae that make their own food from sunlight, like plants. Starfish: not a fish at all, so scientists call it a sea star; it can grow back a lost arm."
+        },
+        {
+          "kind": "read",
+          "title": "Living with Challenges (page 143)",
+          "mins": 7,
+          "do": "Read page 143 aloud: strong winds and cyclones hit the coast of Odisha quite often and harm people, animals and trees; the Government of Odisha has won awards for saving people through early warnings, preparation and good management. Explain: a cyclone is a giant spinning storm that grows over warm sea water and can be hundreds of kilometres wide; when it reaches land it brings very strong winds, very heavy rain, and a 'storm surge', a rise in the sea that floods the coast. Ask the two page 143 questions. 1. 'What are the adverse effects of a cyclone?' (Houses and trees fall, electricity and phones fail, roads and fields flood, salt water ruins crops, fishermen lose boats, people and animals can be hurt or killed.) 2. 'How can communities be better prepared?' (Listen to warnings, move to strong cyclone shelters in time, keep a bag ready with water, food, a torch and medicines, tie down roofs, keep boats on land, plant trees and mangroves.)"
+        },
+        {
+          "kind": "think",
+          "title": "How Odisha learnt to save lives",
+          "mins": 6,
+          "do": "Tell the story in Voice v2: the 1999 super cyclone killed about 10,000 people in Odisha; in later cyclones such as Phailin (2013) and Fani (2019), satellite warnings and the evacuation of over a million people kept deaths far lower. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "think",
+          "title": "Do mangroves protect the coast?",
+          "mins": 6,
+          "do": "Show a picture of a mangrove forest if you can (Bhitarkanika in Odisha or the Sundarbans in West Bengal). Point out the roots standing up out of the mud. Tell the story in Voice v3: after the 1999 cyclone, scientists found fewer deaths in villages behind wide mangrove belts, but others argued the villages also differed in other ways. Ask the voice question and help your child think of a fair comparison.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Four landforms",
+          "mins": 12,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark answers together; for each wrong one, look back at the pages: plains 132–134, desert 134–138, coast 139–143, mountains will come next (keep the mountain items for after Day 7 if your child has not met them yet).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 142–143", "a picture of a mangrove forest (book, phone)", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "In the mountains, with Nayan",
+      "goal": "Explore the mountains of Sikkim through the picture and Nayan's diary, find out how cold shapes trees, animals, clothes and food, and test why mountain roofs slope.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "The mountain picture (pages 144–145)",
+          "mins": 7,
+          "do": "Look at the picture on page 144 and answer the three questions on page 145 aloud. 1. 'What type of animals do you see?' (Name them from the picture; yaks, goats, sheep, mules and ponies are common in the Himalayas.) 2. 'How are the dresses worn by people in the mountains different from yours?' (Thick, woollen, long, many layers, with caps.) 3. 'Describe the trees.' (Tall, pointed like a cone, with thin needle-like leaves, such as pines; they stay green all year.) Then read the paragraph on page 145: mountains are rocky landforms that rise high above the ground, are usually cold, have steep slopes and are surrounded by valleys; many Himalayan peaks are covered in snow; Sikkim is in the Himalayas."
+        },
+        {
+          "kind": "read",
+          "title": "Nayan's diary (page 146)",
+          "mins": 8,
+          "do": "Read Nayan's diary on page 146 aloud, dated 10 February 2024, Gangtok: cool, clean air; locals show a spot to see Mount Kangchenjunga, whose snowy peaks turn golden in the sunlight; warm thukpa (a noodle soup) and sweet, soft sel roti (a ring-shaped fried rice bread); traditional dresses like the bakhu, dumdyam and gunyo cholo; a yak ride. Tell your child that Kangchenjunga is the highest mountain in India and the third highest in the world, about 8,586 metres. Read the paragraph below: Sikkim's plants, animals, food, houses, clothes, the Loosong and Namsoong festival, and trees like oak, pine, walnut and chestnut. Ask: 'Why would people in the cold eat hot soups like thukpa?' (Hot food warms the body.) Then your child writes a short diary entry of their own, like Nayan's, about one real day out, with the date and place."
+        },
+        {
+          "kind": "talk",
+          "title": "Cold, clothes, trees and yaks (page 147)",
+          "mins": 10,
+          "do": "Ask the four questions on page 147. 1. 'How does the cold climate affect the way people live and dress?' (Woollen layers, warm food, houses that keep heat in, fires for cooking and warmth, fewer crops in winter.) 2. 'What traditional clothes are worn in your region? How do they match the climate?' (For example cotton sari or dhoti in hot, humid places.) 3. 'Why do pine and oak grow better in the mountains?' Good answer: 'Pines have thin, waxy needles that lose little water and do not hold much snow, and a cone shape so snow slides off without breaking branches; their roots grip rocky slopes.' 4. 'How do yaks survive the cold?' (A thick coat of long hair over a soft, dense woolly undercoat traps warm air; large lungs and heart help them breathe the thin mountain air.) Read the 'Do you know?' box on page 147: Loosong and Namsoong marks the Sikkimese New Year, celebrates the farmers' hard work, and includes a mask dance called chaam."
+        },
+        {
+          "kind": "exp",
+          "title": "Why do mountain roofs slope?",
+          "mins": 15,
+          "do": "Do Experiment e5, which answers page 148 Question 1. Make two roofs from equal pieces of cardboard: one laid flat on top of a small box, one folded in the middle like a tent (a sloping roof) on an identical box. Ask your child to predict which will hold more 'snow'. Sprinkle the same amount of flour, sand or crushed ice on each from above, a spoon at a time. Then pour the same cup of water slowly over each, with a tray below. Ask: 'Which roof held a heavy load of snow? Which got soggy and started to sag?' (The flat roof.) 'Why do houses in Sikkim have slanting roofs?' (Rain and snow slide off, so the roof does not leak or break under the weight.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "Wooden houses (page 148)",
+          "mins": 5,
+          "do": "Ask the rest of page 148 Question 1: 'Why are traditional houses in Sikkim built with wood?' Good answers: wood is easy to find in the forests; it does not let heat escape quickly, so the house stays warm (feel a wooden and a steel spoon left in a cold place: the steel feels colder because it draws heat from your hand faster); and wood bends a little rather than cracking, which helps in earthquakes, which Sikkim has from time to time. Then Question 2: 'Does your house have any feature similar to houses in the mountains?' (A sloping roof, a wooden door, a chimney, a balcony to catch sun.)"
+        }
+      ],
+      "need": ["Textbook pages 144–148", "2 equal pieces of cardboard and 2 identical small boxes", "flour, sand or crushed ice", "a cup of water and a tray", "a wooden spoon and a steel spoon"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Landslides and the people who hugged trees",
+      "goal": "Find out why landslides happen in the rainy season, test how plants hold soil on a slope, hear the story of the Chipko movement, and apply ideas to new cases.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bare slope or planted slope?",
+          "mins": 15,
+          "do": "Do Experiment e6, for page 148 Question 3, 'Why are landslides common in mountains during the rainy season?' Build two equal slopes of damp soil in two trays (or two halves of a long tray), each propped up on a book at one end. Press a mat of grass and roots (dug from a lawn edge), or a sprinkling of moong sprouts grown for 3 days, into the top of one slope; leave the other bare. Ask your child to predict which will slide. Pour the same amount of water slowly over the top of each from a cup with holes (like heavy rain). Watch and record what slides, and how much muddy water runs off. Then make the bare slope steeper and repeat. Read the 'why' of e6.",
+          "ref": "e6"
+        },
+        {
+          "kind": "talk",
+          "title": "Staying safe and helping others (page 148)",
+          "mins": 8,
+          "do": "Ask page 148 Questions 3, 4 and 5. 3. Why are landslides common in the rainy season? (Rain soaks into the soil and makes it heavy and slippery; on steep slopes it slides down, especially where trees have been cut or the hill has been dug away for roads and buildings.) 4. What can keep people safe? (Planting trees and grass on slopes, not building on very steep or loose slopes, walls to hold back soil, drains to lead rainwater away, listening to warnings and moving away when it rains very heavily, avoiding travel on mountain roads in heavy rain.) 5. What can communities do for people who lose their homes? (Give shelter, food, clothes and medicines; help rebuild; give money to relief funds; schoolchildren can collect books and blankets.) Ask: 'What could our family give if a disaster happened near us?'"
+        },
+        {
+          "kind": "think",
+          "title": "Chipko: hugging the trees",
+          "mins": 8,
+          "do": "Tell the story in Voice v4 in your own words: in 1974, in Reni village in the Himalayas, Gaura Devi and other women put their arms around trees to stop loggers from cutting them, saying the forest was their 'mother's home' (maika). The word 'chipko' means 'to stick' or 'to hug'. Point to the bare slope from Experiment e6: 'What did the village women understand about forests and their slopes?' Then ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Living with the land",
+          "mins": 14,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to apply the chapter's ideas to places and problems not in the book, using what they found in the sponge, sand-and-water, mud-box, roof and slope tests. Encourage them to name which experiment backs up each answer.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook page 148", "2 trays, damp soil, 2 books", "a clump of grass with roots or a tray of 3-day-old moong sprouts", "a cup or bottle with holes punched in the bottom, water", "worksheet ws2"],
+      "prep": [{"task": "Sprout a handful of moong on wet soil in a tray (or find a clump of grass with roots) for the slope test", "when": "2 days before"}]
+    },
+    {
+      "n": 9,
+      "title": "Life in my landform",
+      "goal": "Draw and describe the landform around your home, compare all four landforms in the page 150 table, and try the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Book: Life in my Landform (page 149)",
+          "mins": 17,
+          "do": "Do Activity a5. Take a 10-minute walk around your neighbourhood with a notebook. Your child notes: Is the land flat, hilly, sandy, rocky, near water? Which trees and animals do we see? What are the houses made of, and what shape are the roofs? What work do people do (shops, farms, offices, fishing, factories)? Back home, they draw the landform in the space on page 149 and label: the name of the area, the type of landform, the people's professions, food, houses, plants and animals. Ask: 'Which of these things are the way they are because of our land and weather?' (For example 'flat roofs so we can dry pickles and papad in the hot sun', 'ceiling fans because it is hot and humid'.)",
+          "ref": "a5"
+        },
+        {
+          "kind": "do",
+          "title": "Compare the four landforms (page 150, Question 1)",
+          "mins": 14,
+          "do": "Fill the big table on page 150 (Trees, Animals, Housing, Clothing, Food, Festivals and Art forms for Plains, Desert, Coastal and Mountains). The book's examples: plains animals are 'cows and buffaloes with shorter fur'; mountain housing is 'wooden houses with sloping roofs'. Your child fills each box from the chapter, for example: Plains: mango and neem trees; cows, buffaloes; brick houses; kurta-pyjama, salwar-kameez; makki di roti and sarson da saag; Lohri or Baisakhi; phulkari embroidery. Desert: cactus, khejri, babool; camels, lizards; mud houses with thatched roofs and tankas; ghaghras, bandhini, turbans; dal-bati-churma, ker sangri; folk dances with khartal and sarangi. Coastal: coconut, casuarina; fish, crabs, turtles; houses raised against floods, cyclone shelters; light cotton, Sambalpuri saris; dalma, pakhala, fish; Rath Yatra; sand art. Mountains: pine, oak, walnut, chestnut; yaks; wooden houses with sloping roofs; bakhu, gunyo cholo, woollens; thukpa, sel roti; Loosong and Namsoong; chaam mask dance. Let your child look back at the pages for anything missing."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 14,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views. Your child can answer the write items aloud while you scribe. There is no single right answer for section C; praise reasons that use evidence ('because in our slope test...').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 149–150", "notebook and pencil for the walk", "colour pencils", "worksheet ws3"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "My dream landform, check and teach it back",
+      "goal": "Play Landform Survivor, design a dream landform, check understanding, and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "game",
+          "title": "Landform Survivor",
+          "mins": 10,
+          "do": "Make 4 land cards (Thar desert, Odisha coast, Punjab plains, Sikkim mountains) and about 16 cards for homes, food, clothes and transport (mud house with tanka, wooden house with sloping roof, house on raised platform, brick house; bajra roti, thukpa, rice and fish, makki di roti; woollen layers, light cotton, turban and ghaghra, salwar-kameez; camel, yak, boat, tractor). Each player draws a land card and picks one home, food, clothing and transport card that fit it, explaining why. The other player then throws an event: sandstorm, snowfall, cyclone warning, monsoon landslide, heat wave. Survive it by explaining what people there would do (with a card or a reason) to score a point. Play two rounds each."
+        },
+        {
+          "kind": "act",
+          "title": "Design a landform (page 151, Question 2)",
+          "mins": 10,
+          "do": "Do Activity a6 for page 151 Question 2. Your child draws a landform that combines their favourite features from mountains, plains, coasts and deserts (for example a beach at the foot of a snowy mountain with a river through flat fields). Then answers aloud: (a) 'What made you choose these features?' (b) 'How does each feature help people, animals or plants?' (c) 'What difficulties might people face living there?' Push for an honest (c): a beach below mountains could get both cyclones and landslides. Look back at Day 1's answer about which place they most wanted to visit: 'Has your choice changed? Why?'",
+          "ref": "a6"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, and let your child answer without the book. Tick the ones answered well. For any missed answer, open the matching pages for a minute (plains 132–134, desert 134–138, coast 139–143, mountains 144–148) and ask again in different words. Most children get 6 or more right; fewer than 5 means redo the page 150 comparison table together next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. Using the map from Day 1, the page 150 table, the coastal craft, and the results of the experiments, they teach in 5–7 minutes: the four landforms and one way each shapes people's food, clothes and houses; how desert plants save water; why mountain roofs slope; and how people stay safe from cyclones and landslides. As the student, ask two tricky questions: 'If deserts are so hot, why do people wear long clothes and not shorts?' (Long, loose clothes shade the skin from the burning sun and blowing sand.) and 'Why don't coconut palms grow on Kangchenjunga?' (It is far too cold; coconut palms need warmth all year.) End by adding your own home's landform to the map with a drawing."
+        }
+      ],
+      "need": ["paper cards for the game", "drawing paper and colours", "the map from Day 1 and the page 150 table"],
+      "prep": [{"task": "Cut 20 small cards for the Landform Survivor game", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Four landforms",
+      "day": 6,
+      "sections": [
+        ["A. Which landform?", [
+          {"t": "match", "p": "Match each friend to the landform they visited.", "pairs": [["Gurpreet (Amritsar, Punjab)", "Plains"], ["Ritika (Rajasthan)", "Desert"], ["Chandni (Puri, Odisha)", "Coastal region"], ["Nayan (Gangtok, Sikkim)", "Mountains"]]},
+          {"t": "sort", "p": "Sort these by the landform where you are most likely to find them.", "items": ["Camel", "Yak", "Sea turtle", "Buffalo in large wheat fields", "Cactus", "Pine tree", "Coconut palm", "Khejri"], "cats": ["Plains", "Desert", "Coastal", "Mountains"]},
+          {"t": "fill", "p": "A desert is a dry place with very little ____.", "a": ["rainfall", "rain", "water"]}
+        ]],
+        ["B. Plants and animals", [
+          {"t": "mcq", "p": "Where does a cactus store water?", "opts": ["In its spines", "In its thick stem", "In its flowers", "In the sand"], "a": 1},
+          {"t": "fill", "p": "The camel is called the ship of the ____.", "a": ["desert"]},
+          {"t": "mcq", "p": "Which of these is a mammal that breathes air, even though it lives in the sea?", "opts": ["Starfish", "Crab", "Dolphin", "Seaweed"], "a": 2}
+        ]],
+        ["C. People and their land", [
+          {"t": "match", "p": "Match the food to its region.", "pairs": [["Makki di roti and sarson da saag", "Punjab"], ["Dal-bati-churma and ker sangri", "Rajasthan"], ["Dalma and pakhala", "Odisha"], ["Thukpa and sel roti", "Sikkim"]]},
+          {"t": "mcq", "p": "What is a tanka?", "opts": ["A desert dance", "A covered tank that stores rainwater", "A kind of camel", "A sand dune"], "a": 1},
+          {"t": "write", "p": "Write two things people in Odisha can do to stay safe when a cyclone warning is given.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Living with the land: new places and problems",
+      "day": 8,
+      "sections": [
+        ["A. Use your experiments", [
+          {"t": "write", "p": "In our sand-and-water test, which heated up faster? Use this to explain why Jaisalmer can be very hot by day and cold at night, while Puri stays mild.", "lines": 3},
+          {"t": "write", "p": "Which box kept the ice longest in our house test? Why might a family in the desert prefer thick mud walls to thin metal sheets?", "lines": 3},
+          {"t": "mcq", "p": "In the slope test, the planted slope lost less soil. The best explanation is:", "opts": ["Grass is heavier than soil", "Roots hold the soil together and slow down the water", "Grass makes it rain less", "The planted tray was flatter"], "a": 1}
+        ]],
+        ["B. New places", [
+          {"t": "write", "p": "Ladakh is a cold desert high in the mountains. It is very cold and gets very little rain or snow. What kind of roof might houses there have: steeply sloping or flat? Explain.", "lines": 3},
+          {"t": "write", "p": "Kerala has a long coast and very heavy monsoon rain. Name two things you would expect people there to eat and wear, and why.", "lines": 3},
+          {"t": "mcq", "p": "Which is the best clothing for a hot, sandy desert?", "opts": ["Shorts and a vest", "Loose, long clothes and a head covering", "A thick woollen coat", "A raincoat"], "a": 1}
+        ]],
+        ["C. Plan for safety", [
+          {"t": "table", "p": "Make a safety plan for each danger.", "cols": ["Danger", "Where it happens", "One thing to do before", "One thing to do during"], "rows": 3, "prefill": ["Cyclone", "Landslide", "Water shortage"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Landform puzzles and live debates",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Both pine needles and cactus spines are thin leaves. One plant lives in the snow and one in the hot desert. What problem do both plants share that thin leaves help with?", "lines": 3},
+          {"t": "write", "p": "Fresh vegetables are hard to grow in the desert, so people dry ker and sangri. Name two other foods people dry or pickle so they keep for a long time, and say why it works.", "lines": 3},
+          {"t": "mcq", "p": "Rivers make the plains fertile mainly by:", "opts": ["Bringing fish", "Dropping fine, rich mud when they slow down and flood", "Washing away soil", "Making the land hot"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all the trees on a mountain slope above a village were cut down? What could happen in the next monsoon, and why?", "lines": 3},
+          {"t": "write", "p": "What if a family from Sikkim moved to Rajasthan and built the same wooden house with a sloping roof? Which features would still help and which might not?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "One study found fewer deaths in villages behind wide mangroves in the 1999 cyclone. Critics said the villages were different in other ways too. Name one other difference that could matter, and how you would make a fairer comparison.", "lines": 4},
+          {"t": "write", "p": "Some people say small johads brought a river back to life; others say good rains also helped. What would you measure, and over how many years, to find out?", "lines": 3},
+          {"t": "write", "p": "Cyclone warnings sometimes cause people to leave home for a storm that turns weaker than expected. Is it still right to evacuate? Give your reasons.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "How rivers make fertile plains",
+      "day": 2,
+      "question": "When muddy river water slows down and stands still, what happens to the soil it carries?",
+      "need": ["a tall clear glass or bottle", "2 spoons garden soil", "1 spoon sand", "a few small pebbles", "water", "a spoon"],
+      "steps": [
+        "Fill the glass three-quarters with water.",
+        "Add the soil, sand and pebbles and stir hard so it looks like a muddy river.",
+        "Stop stirring and watch for 2 minutes. Note what settles first.",
+        "Leave it still and look again after 30 minutes and 1 hour.",
+        "Draw the layers from bottom to top."
+      ],
+      "predict": "Ask your child to guess first: when we stop stirring, will everything sink at once? What will sink first and what last?",
+      "observe": "Pebbles drop at once, then sand within seconds, then fine soil over minutes; the finest mud makes the water cloudy for an hour or more and settles last as a smooth layer on top. Floating bits of plant may stay on the surface.",
+      "why": "Moving water can carry heavy particles; still water cannot. Big, heavy pebbles fall first; the tiniest mud particles fall slowest. Rivers flowing fast down mountains pick up mud and sand. When they reach flat land, they slow down and spread out, especially when they flood, and drop their load: first sand near the river, then the very fine, rich mud called silt or alluvium spread across the fields. This silt is full of minerals and bits of rotted plants, so over thousands of years it built the deep, fertile soils of the plains, like those of Punjab and the Ganga valley.",
+      "safety": "",
+      "time": "12 min + a look after 1 hour"
+    },
+    {
+      "id": "e2",
+      "title": "How does a cactus save water?",
+      "day": 3,
+      "question": "Does a waxy covering or having fewer leaves help a plant lose less water in the hot sun?",
+      "need": ["3 identical kitchen sponges", "water", "cling film", "scissors", "a kitchen scale (optional)", "a sunny spot"],
+      "steps": [
+        "Soak each sponge and squeeze it the same way so they are equally wet.",
+        "Weigh each (or feel how heavy it is).",
+        "Sponge 1: leave it as it is.",
+        "Sponge 2: wrap it fully in cling film, like a cactus's waxy skin.",
+        "Sponge 3: cut it into many small pieces and spread them out, like a plant with many thin leaves.",
+        "Put all three in the sun. Weigh or feel them after 1–2 hours and at the end of the day."
+      ],
+      "predict": "Ask your child to guess first: which sponge will dry out first, and which will stay wet longest?",
+      "observe": "The spread-out pieces dry fastest, the bare sponge next, and the wrapped sponge stays wet much longer.",
+      "why": "Water escapes from a wet surface into the air by evaporation, and it escapes faster in heat, wind and dry air, and from a bigger surface. Spreading the sponge into many pieces gives far more surface for water to escape from, like a plant with many big, thin leaves. Wrapping it seals the surface, like the thick, waxy skin of a cactus. Desert plants survive by reducing the surface they lose water from (the cactus's leaves are reduced to spines, so the fat green stem does the work of leaves), by covering themselves in wax, and by storing water in thick, juicy stems. Many open their tiny breathing pores only at night when it is cooler.",
+      "safety": "",
+      "time": "12 min + checks after 2 hours and in the evening"
+    },
+    {
+      "id": "e3",
+      "title": "Sand and water in the sun",
+      "day": 3,
+      "question": "Which heats up faster in the sun, sand or water, and which cools down faster in the shade?",
+      "need": ["2 identical steel bowls", "dry sand or soil", "water from the same tap", "a sunny spot or a desk lamp", "a thermometer if available", "a watch"],
+      "steps": [
+        "Fill one bowl with sand and the other with the same amount of water.",
+        "Feel (or measure) the starting temperature of each.",
+        "Leave both in direct sun, or 20 cm under a lamp, for 15 minutes.",
+        "Feel or measure the surface of each.",
+        "Move both into the shade and check again after 10 minutes.",
+        "Record which was hotter each time."
+      ],
+      "predict": "Ask your child to guess first: which will get hotter in the sun? And when we move them into the shade, which will cool faster?",
+      "observe": "The sand gets noticeably hotter than the water in the sun, and also cools faster in the shade. The water changes temperature only a little.",
+      "why": "Different materials need different amounts of heat to warm up. Water needs a lot of heat to get even a little warmer, so it warms slowly and also gives its heat away slowly. Sand needs much less heat, so it heats up fast in sunshine and loses that heat fast once the sun goes. In a desert, with dry sand, very little water and few clouds to act as a blanket, days get very hot and nights get very cold. Near the sea, the huge amount of water warms and cools slowly, so coastal places like Puri have milder weather and smaller differences between day and night.",
+      "safety": "Hot sand can burn; touch the surface lightly with one fingertip first.",
+      "time": "15 min + 10 min in the shade"
+    },
+    {
+      "id": "e4",
+      "title": "Which house stays coolest?",
+      "day": 4,
+      "question": "Do thick mud walls keep the inside of a house cooler than other walls in the hot sun?",
+      "need": ["4 small identical cardboard boxes with lids", "clay or mud", "folded newspaper", "an old cloth", "4 ice cubes of the same size", "4 small cups", "a watch"],
+      "steps": [
+        "Line box 1 with a 2 cm layer of clay or mud on the sides, bottom and inside of the lid.",
+        "Line box 2 with several layers of newspaper, and box 3 with folded cloth. Leave box 4 bare.",
+        "Put an ice cube in a small cup inside each box and close the lids.",
+        "Place all four side by side in the sun.",
+        "Open each quickly every 10 minutes and note how much ice is left.",
+        "Record the order in which the ice cubes finish melting."
+      ],
+      "predict": "Ask your child to guess first: in which box will the ice last longest? In which will it melt first?",
+      "observe": "The ice usually melts fastest in the bare box and lasts longest in the mud-lined box, with newspaper and cloth in between.",
+      "why": "Heat from the sun has to pass through the walls to reach the ice. Some materials let heat through quickly; others slow it down. These slow ones are called insulators. A thick layer of mud is a good insulator and also takes a long time to warm up all the way through, so during the hot day the heat reaches the inside very slowly; by the time it gets through, evening has come. Newspaper and cloth trap air, which also slows heat. That is why traditional desert houses have thick mud walls and thatched roofs: they stay cooler by day, and at night the stored warmth slowly comes back out, keeping them warmer when the desert gets cold.",
+      "safety": "",
+      "time": "15 min to set up + checks every 10 min for 40 min"
+    },
+    {
+      "id": "e5",
+      "title": "Flat roof or sloping roof?",
+      "day": 7,
+      "question": "Why do houses in snowy, rainy mountains have sloping roofs?",
+      "need": ["2 equal pieces of cardboard", "2 identical small boxes", "flour, sand or crushed ice", "a cup of water", "a tray", "a spoon"],
+      "steps": [
+        "Lay one cardboard piece flat on top of a box (a flat roof).",
+        "Fold the other in the middle and place it like a tent over the second box (a sloping roof).",
+        "Sprinkle the same spoonfuls of flour, sand or crushed ice on each, like falling snow.",
+        "Watch where the 'snow' stays and where it slides off.",
+        "Put both on a tray and slowly pour the same cup of water over each, like rain.",
+        "Lift the roofs and look for sagging and soaked patches."
+      ],
+      "predict": "Ask your child to guess first: which roof will hold the most snow? Which will get soggier in the rain?",
+      "observe": "The 'snow' piles up on the flat roof but slides off the sloping one. Water pools on the flat roof and soaks through, making it sag; it runs off the sloping one.",
+      "why": "Snow is heavy: a thick layer on a roof can weigh as much as several people standing on it, and enough snow can make a flat roof crack or collapse. Water left standing on a roof soaks in and causes leaks and rot. On a slope, gravity pulls snow and rain down and off the edge, so the roof carries less weight and stays drier. That is why mountain houses in places like Sikkim, Himachal Pradesh and Kashmir, and houses in very rainy places like Kerala and the North-East, have steep sloping roofs, while houses in dry places can have flat roofs that people use for drying grain or sleeping on hot nights.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e6",
+      "title": "Bare slope or planted slope?",
+      "day": 8,
+      "question": "Do plant roots help stop soil from sliding down a slope in heavy rain?",
+      "need": ["2 trays", "damp soil", "2 books to prop up the trays", "a clump of grass with roots, or a tray of 3-day-old moong sprouts", "a cup or bottle with holes in the bottom", "water"],
+      "steps": [
+        "Build two equal slopes of damp soil, one in each tray, propped at the same angle with a book.",
+        "Press the grass clump or the sprouts firmly into the top part of one slope. Leave the other bare.",
+        "Hold the cup with holes above the top of each slope and pour in the same amount of water, like heavy rain.",
+        "Watch what happens to the soil, and look at the colour of the water running to the bottom.",
+        "Make the bare slope steeper and repeat with the same amount of water.",
+        "Draw both slopes before and after."
+      ],
+      "predict": "Ask your child to guess first: which slope will slide or wash away more? What will happen when the bare slope is steeper?",
+      "observe": "The bare slope loses much more soil, often slumping or cutting channels, and the water at the bottom is very muddy. The planted slope keeps more of its shape and the water is clearer. The steeper bare slope slides more.",
+      "why": "Rain soaks into soil and fills the spaces between its grains, making it heavier and making the grains slip past each other more easily. On a slope, gravity pulls this heavy, slippery soil downhill; the steeper the slope, the stronger the pull compared with the grip. Roots grow through the soil like a net, tying the grains together, while leaves and stems break the force of falling rain and slow the water running over the surface. Cutting trees on mountain slopes, or digging into the bottom of a hill for roads and buildings, removes this grip and support, which is why landslides become more common in the monsoon. Very large landslides can still happen on forested slopes when the rock beneath gives way.",
+      "safety": "Do this outdoors or on newspaper; wash hands after handling soil.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Places we visited (Book Activity 1, page 131)",
+      "day": 1,
+      "mins": 18,
+      "need": ["notebook with the page 131 table copied", "a phone", "a map of India"],
+      "steps": [
+        "Copy the page 131 table: name, place, type of region, something special.",
+        "Fill in your own row.",
+        "Call two or three relatives or friends and ask about a place they visited; fill a row for each.",
+        "Mark each place on the map.",
+        "Answer: which type of place is most interesting, and what is similar and different between them?"
+      ],
+      "outcome": "A filled holiday table and a map of India dotted with places your family and friends know."
+    },
+    {
+      "id": "a2",
+      "title": "Our region's favourite food (page 133)",
+      "day": 2,
+      "mins": 12,
+      "need": ["ingredients for your regional dish, or makki atta and warm water", "a tawa"],
+      "steps": [
+        "Write the name of your region's most popular food and its main ingredients.",
+        "Mark which ingredients grow locally and which come from far away.",
+        "Cook a small portion together, or make a mini makki di roti: knead makki atta with warm water, pat it between wet palms and roast it on a hot tawa.",
+        "Taste and talk about how the food fits the land and weather."
+      ],
+      "outcome": "A dish cooked together, and a list of its ingredients linked to where they grow."
+    },
+    {
+      "id": "a3",
+      "title": "Folk songs and dances of our region (page 137)",
+      "day": 4,
+      "mins": 8,
+      "need": ["the page 137 table", "a phone to record"],
+      "steps": [
+        "Ask a grandparent or elder about the folk dances and folk music of your region.",
+        "Write them in the page 137 table.",
+        "Ask the elder to sing or hum a line and record it.",
+        "Find out what the song is about: harvest, rain, the sea, the hills, a festival?"
+      ],
+      "outcome": "A filled table of your region's folk dances and music, and a recording of an elder singing."
+    },
+    {
+      "id": "a4",
+      "title": "Let us Create: a coastal craft (Book Activity 2, page 141)",
+      "day": 5,
+      "mins": 20,
+      "need": ["shells, pebbles, sand or a coconut shell", "a clean small glass bottle and a paper funnel", "turmeric, beetroot juice, kumkum and chalk powder", "glue, paint and string"],
+      "steps": [
+        "Choose one item: a photo frame, a necklace, a painted pebble, a mini basket or a sand art jar.",
+        "For a sand art jar, colour four small heaps of sand with turmeric, beetroot juice, kumkum and chalk, and let them dry.",
+        "Pour the sand into the bottle in layers through the paper funnel, tilting to make waves.",
+        "Add your own creative twist and give it a name.",
+        "Display it at home."
+      ],
+      "outcome": "A home-made coastal decor object, made from shells, sand or local materials."
+    },
+    {
+      "id": "a5",
+      "title": "Life in my landform (page 149)",
+      "day": 9,
+      "mins": 17,
+      "need": ["notebook and pencil", "colour pencils", "Textbook page 149"],
+      "steps": [
+        "Walk around your neighbourhood for 10 minutes.",
+        "Note the shape of the land, water, trees, animals, house materials and roofs, and people's work.",
+        "Draw your landform in the page 149 space.",
+        "Label the area name, type of landform, professions, food, houses, plants and animals.",
+        "Circle the things that are the way they are because of your land and weather."
+      ],
+      "outcome": "A labelled drawing of your own landform and a list of ways it shapes life around you."
+    },
+    {
+      "id": "a6",
+      "title": "Design a dream landform (page 151, Question 2)",
+      "day": 10,
+      "mins": 10,
+      "need": ["drawing paper and colours", "Textbook page 151"],
+      "steps": [
+        "Pick your favourite features from mountains, plains, coasts and deserts.",
+        "Draw a landform that combines them.",
+        "Write why you chose each feature and how it helps people, animals or plants.",
+        "Write the difficulties people might face living there."
+      ],
+      "outcome": "An imagined landform drawing with honest notes on its benefits and dangers."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Rajendra Singh (born 1959), Rajasthan, India",
+      "idea": "In 1985 Rajendra Singh came to the dry Alwar district of Rajasthan with the group Tarun Bharat Sangh. An old farmer told him that the villages needed water more than anything. Working with villagers, he began repairing and building johads: small earthen dams that catch monsoon rain so it soaks into the ground instead of running off. Over the following years, thousands of johads were built across the area, wells filled again, and the Arvari river, which had been dry for much of the year, began to flow all year round.",
+      "then": "At first many people, including some officials, doubted that small village dams could make a real difference, and at times government officials objected that villagers were building water structures without permission.",
+      "now": "That small rainwater-harvesting structures like johads and tankas can recharge groundwater and help dry villages is widely accepted, and he received the Ramon Magsaysay Award (2001) and the Stockholm Water Prize (2015). Hydrologists also point out that results depend on rainfall and local rocks, and that catching water upstream can leave less for villages downstream, so such work must be planned for a whole river valley.",
+      "status": "accepted",
+      "ask": "A river came back after johads were built, but there were also some good monsoons in those years. How could you tell how much was due to the johads and how much to the rain?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "India Meteorological Department and the Odisha State Disaster Management Authority (1999 to today)",
+      "idea": "In October 1999, a super cyclone hit Odisha with extremely strong winds and a huge storm surge, killing about 10,000 people. Afterwards Odisha set up India's first state disaster management authority, built hundreds of strong cyclone shelters, trained village volunteers and practised evacuations. The India Meteorological Department improved its forecasts using satellites and radar to predict where and when cyclones would reach land.",
+      "then": "Some people doubted that a state could move so many people quickly, and some families were unwilling to leave their homes, animals and belongings.",
+      "now": "When Cyclone Phailin struck in 2013, about a million people were evacuated in advance, and the death toll was a few dozen rather than thousands. During Cyclone Fani in 2019, over a million people were moved again, and the United Nations praised Odisha's work. That early warning and preparation save lives is accepted; scientists keep working to make forecasts more precise.",
+      "status": "accepted",
+      "ask": "Forecasts can be wrong, and sometimes people leave home for a storm that turns weaker. Should they still evacuate every time? What would you need to know to decide?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Mangroves and storms: Saudamini Das and Jeffrey Vincent (2009) and their critics",
+      "idea": "Mangroves are salt-loving trees that grow in coastal mud, for example at Bhitarkanika in Odisha and in the Sundarbans. Studying the 1999 Odisha super cyclone, economists Saudamini Das and Jeffrey Vincent reported in 2009 that villages with wider belts of mangrove forest between them and the sea had noticeably fewer deaths than similar villages without them. Similar claims were made about mangroves along the Tamil Nadu coast after the 2004 tsunami.",
+      "then": "The finding was widely used to argue for protecting and planting mangroves. Other scientists questioned some of these studies, arguing that villages behind mangroves may also have differed in other ways, such as how high above the sea or how far from the coast they were, and that some studies had not allowed for this.",
+      "now": "Most scientists agree that mangroves reduce the height and force of ordinary waves and smaller storm surges, hold coastal mud in place and shelter fish and crabs. How much they protect people from the very largest cyclone surges and tsunamis is still debated, and experts say mangroves should go together with warnings and shelters, not replace them.",
+      "status": "debated",
+      "ask": "To find out whether mangroves saved lives, you would compare villages with and without them. What else would you need to keep the same between the villages to make it a fair comparison?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "Gaura Devi (about 1925–1991) and the Chipko movement, Uttarakhand, India (1970s)",
+      "idea": "In the early 1970s, villagers in the Himalayan hills of what is now Uttarakhand protested against outside contractors cutting their forests. On 26 March 1974, in Reni village, while the men were away, Gaura Devi led a group of women who stood in front of the loggers and refused to let them cut the trees, calling the forest their maika (mother's home). The movement became known as Chipko ('to hug' or 'to stick to'). Village women, and leaders such as Chandi Prasad Bhatt and Sunderlal Bahuguna, argued that cutting forests on steep slopes led to landslides, floods and the loss of firewood, fodder and water.",
+      "then": "Many officials and businesses saw the forests mainly as timber for sale and thought the villagers' worries were exaggerated.",
+      "now": "In 1980 the government banned the felling of green trees in the Himalayan forests of Uttar Pradesh for 15 years. Scientists today accept that tree roots help hold soil on slopes and reduce smaller landslides and soil loss, although big landslides also depend on rock type, very heavy rain and road-building. Chipko is remembered around the world as an example of village people, especially women, protecting their environment.",
+      "status": "accepted",
+      "ask": "The Reni women had no laboratory, but they had lived on those slopes all their lives. What kind of evidence did they have? How could a scientist test their idea that cutting trees causes more landslides?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {"q": "Name the four landforms in the chapter and one place in India for each.", "a": "Plains (Amritsar, Punjab), desert (Rajasthan, for example Jaisalmer), coastal region (Puri, Odisha), mountains (Gangtok, Sikkim)."},
+    {"q": "Why are the plains good for farming?", "a": "The land is flat, there are rivers for water, and the soil is rich and fertile because rivers have dropped fine, mineral-rich mud there over thousands of years."},
+    {"q": "How do desert plants survive with very little water? Give two ways.", "a": "Some store water in thick stems (cactus), have thick waxy skins and tiny leaves or spines to lose less water, or have very deep roots to reach water underground (khejri)."},
+    {"q": "Why are traditional desert houses made of thick mud, and what is a tanka?", "a": "Thick mud slows down heat getting in, so houses stay cooler by day and warmer at night. A tanka is a covered underground tank that collects and stores rainwater."},
+    {"q": "What are the effects of a cyclone, and how has Odisha learnt to save lives?", "a": "Strong winds, heavy rain and floods from the sea damage houses, trees, crops and boats and can kill people and animals. Odisha uses early warnings, strong cyclone shelters, trained volunteers and moving people to safety in advance."},
+    {"q": "Why do houses in Sikkim have sloping roofs and wooden walls?", "a": "Sloping roofs let snow and rain slide off so the roof does not leak or break. Wood is available locally, keeps the house warm, and bends a little in earthquakes."},
+    {"q": "Why are landslides common in mountains during the rainy season, and what helps prevent them?", "a": "Rain soaks the soil and makes it heavy and slippery, so it slides down steep slopes, especially where trees are cut or slopes are dug. Trees and grass with roots, drains, retaining walls and not building on loose slopes help."},
+    {"q": "Do mangroves protect coasts from cyclones? Is it settled?", "a": "They reduce waves and smaller storm surges and hold the mud in place, which is accepted. How much they protect people from the very biggest surges and tsunamis is still debated, so they are used along with warnings and shelters."}
+  ]
+}

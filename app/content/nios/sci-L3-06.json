@@ -1,0 +1,534 @@
+{
+  "key": "nios|sci|3|6",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 6,
+  "title": "Sun-Moon-Stars, Day-Night and Seasons",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 6 (pages 81–92), 2016",
+  "summary": "Through a classroom story where Sarika, Raju, Mahesh and their friends ask about Chanda Mama, Sheshnag and the Saptarishi, your child learns what the Sun, Moon, stars, planets and satellites really are, and how the spinning Earth gives us day and night while its yearly trip round the Sun gives us seasons. Hands-on models, a scale walk and night-sky watching test each idea, and the lesson honestly corrects two places where the book itself has slipped: the direction the Earth spins and the real cause of seasons.",
+  "goals": [
+    "By the end your child can tell a star from a planet and a satellite, name the eight planets in order from the Sun, and explain why Pluto is now called a dwarf planet.",
+    "By the end your child can explain, with a ball and torch, that day and night happen because the Earth spins on its axis once in about 24 hours, from west to east.",
+    "By the end your child can explain the phases of the Moon, Amavasya, Poornima, Shukla Paksha and Krishna Paksha.",
+    "By the end your child can explain that seasons happen because the Earth's axis is tilted, not because the Earth comes nearer to the Sun, and name India's six traditional seasons.",
+    "By the end your child can find the Saptarishi and the Pole Star (Dhruv Tara) in the night sky and explain why far-away stars look small.",
+    "By the end your child can explain how scientists like Galileo and Meghnad Saha changed what people believed about the sky, and why scientists still argue about Pluto."
+  ],
+  "words": [
+    ["star", "a huge ball of very hot glowing gas that shines with its own light; the Sun is our nearest star"],
+    ["planet", "a large round body that goes round a star and shines only by reflecting the star's light, like the Earth"],
+    ["satellite", "a body that goes round a planet; the Moon is the Earth's natural satellite"],
+    ["solar system", "the Sun and everything that goes round it: eight planets, their moons, dwarf planets, asteroids and comets"],
+    ["axis", "an imaginary line through the Earth from the North Pole to the South Pole, around which it spins"],
+    ["rotation", "the Earth spinning on its axis, once in about 24 hours; it causes day and night"],
+    ["revolution", "the Earth's journey round the Sun, once in about 365 and a quarter days; with the tilted axis, it causes seasons"],
+    ["orbit", "the path a planet or moon follows as it goes round"],
+    ["constellation", "a group of stars that people see as a pattern, like the Saptarishi (Ursa Major)"],
+    ["Milky Way", "our galaxy, a huge family of billions of stars; we see it as a faint white band called Akash Ganga"],
+    ["Shukla Paksha", "the bright fortnight, from Amavasya to Poornima, when the Moon grows each night"],
+    ["Krishna Paksha", "the dark fortnight, from Poornima to Amavasya, when the Moon shrinks each night"],
+    ["superstition", "a belief that is not based on evidence, like the Earth resting on a cow's horns"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Where does the Sun go at night?",
+      "goal": "Start from your child's own ideas about the sky, read the opening of the classroom story with its superstitions, track the Sun's shadow through one day, and hear an old idea about how the Earth was made that turned out wrong.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Ask before you teach",
+          "mins": 5,
+          "do": "Ask your child three questions and write their answers without correcting them yet: 'Where does the Sun go at night? Why does the Moon change shape? What are stars made of?' Tell them: 'Keep these answers. At the end of the lesson you will check them yourself.' Many children say the Sun goes behind a mountain or to sleep, or that stars are small lights; all answers are welcome."
+        },
+        {
+          "kind": "read",
+          "title": "The classroom story begins (pages 81–83)",
+          "mins": 9,
+          "do": "Read the opening on page 81 and section 6.1 on pages 82–83 aloud, up to Sarika's question about the relation between the Sun and the Earth. Stop at each story the children tell: Suresh and Sarika's grandparents becoming stars, Naresh's Chanda Mama, Mahesh's Earth on a cow's horns, Naresh's Sheshnag, Rajesh's tortoise. Ask: 'Why do you think people made up these stories?' (Long ago they had no telescopes or spacecraft, and stories helped them explain the sky and comfort children.) Gently say: 'Stories about grandparents watching us are about love; they are not science. The teacher in the book says the Earth does not stand on anything: it moves through space.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the sun-shadow clock",
+          "mins": 10,
+          "do": "Set up Experiment e3. In a sunny spot on a terrace, balcony or courtyard, stand a stick upright in a pot of soil or a bottle of sand on a big sheet of paper. Mark north with a phone compass. Before 10 am, mark the tip of the shadow, write the time and measure the length. Ask your child to guess first: 'At noon, will the shadow be longer or shorter, and which way will it point? And at 3 pm?' Write the guesses. You will mark it again at about 12 noon and 3 pm today. Never look straight at the Sun.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Did the Earth break off from the Sun?",
+          "mins": 9,
+          "do": "Read the teacher's line on page 83: 'It is believed that the Earth has been formed by breaking apart from the Sun.' Then tell the story in Voice v1: a French scientist, Buffon, suggested this in 1749, but later evidence showed it was wrong. Today scientists think the Sun and planets formed together, about four and a half billion years ago, from a huge spinning cloud of gas and dust. Ask the voice question. Tell your child: 'Even books can carry old ideas. Good scientists check.'",
+          "ref": "v1"
+        },
+        {
+          "kind": "exp",
+          "title": "Noon and afternoon marks",
+          "mins": 7,
+          "do": "At about 12 noon and again at about 3 pm, return to the stick from Experiment e3, mark the shadow tip and write the time and length. (These two checks are short; do them whenever the time comes.) Join the three dots. Ask: 'When was the shadow shortest? Which way did it point in the morning and in the afternoon?' (Shortest near noon; it points west in the morning, when the Sun is in the east, and east in the afternoon.) Ask: 'So is the Sun moving across the sky, or is something else moving?' Keep the answer open until Day 5.",
+          "ref": "e3"
+        }
+      ],
+      "need": ["NIOS EVS Level A book, pages 81–83", "a straight stick, a pot of soil or a bottle of sand", "a big sheet of paper, tape, ruler and pencil", "a phone compass and clock"],
+      "prep": [{"task": "Find a spot that stays sunny from morning to afternoon for the shadow clock", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "The Sun and its family of planets",
+      "goal": "Learn that the Sun is a star, tell stars from planets, learn the eight planets in order, walk a scale model of the solar system, and discuss why Pluto is no longer called a planet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Stars, planets and satellites (pages 83–84)",
+          "mins": 9,
+          "do": "Read from 'Okay, now I will discuss it as per geographical point of view' on page 83 to the planet picture on page 84 aloud. Ask: 'What is the Sun made of?' (A huge ball of very hot glowing gases. The book says 'fire and gases'; fire needs air, so scientists say the Sun shines because deep inside it, hydrogen is squeezed into helium, which gives out enormous heat and light.) 'Why is the Sun called a star?' (It shines with its own light.) 'Why is the Earth called a planet?' (It goes round the Sun and only reflects the Sun's light.) One correction: the book says the Earth rotates from east to west. It actually spins from west to east, and that is exactly why the Sun seems to rise in the east. We will test this on Day 5."
+        },
+        {
+          "kind": "do",
+          "title": "Planet order rhyme",
+          "mins": 5,
+          "do": "Teach the order of the planets from the Sun with a sentence where each word starts with a planet's first letter: 'My Very Educated Mother Just Served Us Noodles' (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune). Your child says it three times, then writes the planets in order. Add one fact each: Mercury is closest and fastest, Venus is the hottest and the brightest 'evening star', Earth is the only planet where we know life exists, Mars looks red, Jupiter is the biggest, Saturn has bright rings, Uranus spins tipped on its side, Neptune is farthest and windy."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Scale walk of the solar system",
+          "mins": 16,
+          "do": "Do Activity a1 in a long corridor, park or lane. Let 1 big step (about 1 metre) stand for the distance from the Sun to the Earth. Put a ball (the Sun) at the start. Your child walks and drops a labelled paper chit at each planet: Mercury after less than half a step, Venus after 3 small steps of a quarter metre (about 0.7 m), Earth at 1 step, Mars at 1 and a half steps, Jupiter at 5 steps, Saturn at about 10 steps, Uranus at about 19 steps, Neptune at 30 steps. Then turn and look back at the Sun ball. Ask: 'Which planets are close together and which are very far apart?' (The four rocky ones are crowded near the Sun; the four giants are spread far out.) 'Why does it take years to send a spacecraft to Neptune?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "Is Pluto a planet?",
+          "mins": 10,
+          "do": "Read the line on page 84: 'Earlier, Yam (now known as Pluto) was also believed as a planet. Now some scientists do not believe it to be a planet.' Tell the story in Voice v2: in 2006 the International Astronomical Union voted that a planet must go round the Sun, be round, and have cleared its path of other objects; Pluto shares its path with many icy bodies, so it was called a dwarf planet. Some planetary scientists still disagree. On the scale walk, Pluto would be about 40 steps from the Sun, beyond Neptune. Ask the voice question and let your child argue a side.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 83–84", "a ball for the Sun and 8 paper chits with planet names", "a long open space of about 40 steps", "notebook and pencil"],
+      "prep": [{"task": "Write the 8 planet chits and find a corridor, lane or park where you can walk 30–40 steps in a straight line", "when": "morning"}]
+    },
+    {
+      "n": 3,
+      "title": "Moons and the phases of our Moon",
+      "goal": "Learn what satellites are, why the Moon changes shape through Shukla and Krishna Paksha, and how Galileo's telescope showed moons going round Jupiter.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Satellites and the Moon (pages 84–85)",
+          "mins": 8,
+          "do": "Read from 'Okay, those who revolve around Sun' on page 84 to the explanation of Shukla and Krishna Paksha on page 85 aloud. Ask: 'What is a satellite?' (A body that goes round a planet.) 'How many natural satellites does the Earth have?' (One, the Moon.) Update the book's numbers: Mars has 2 moons, as the book says, but astronomers keep finding more moons round the giant planets, and Jupiter and Saturn now each have far more than the book lists; Saturn has the most, well over a hundred. Tell your child that India also launches artificial satellites, like those that help with weather forecasts, and that Chandrayaan-3 landed near the Moon's south pole in August 2023."
+        },
+        {
+          "kind": "do",
+          "title": "Ball-and-lamp Moon phases",
+          "mins": 12,
+          "do": "Darken a room and switch on a lamp without a shade (or a phone torch on a stack of books) on one side: the Sun. Your child holds a ball or an orange on a pencil at arm's length, a little above their head; their head is the Earth. As they turn slowly to the left, they watch the lit part of the ball change: dark (Amavasya), thin crescent, half, nearly full, full (Poornima) when the lamp is behind them, then shrinking back. Ask: 'Does the ball ever stop being half-lit by the lamp?' (No: half of the Moon is always lit by the Sun; we see different amounts of the lit half.) Ask: 'From Amavasya to Poornima, which Paksha is it?' (Shukla Paksha, the bright fortnight.) 'And the other way?' (Krishna Paksha.)"
+        },
+        {
+          "kind": "think",
+          "title": "Galileo and the moons of Jupiter",
+          "mins": 10,
+          "do": "Tell the story in Voice v3: in January 1610 Galileo pointed his home-made telescope at Jupiter and saw four tiny 'stars' beside it that changed position night after night. He worked out that they were moons going round Jupiter, proof that not everything goes round the Earth. Many people refused to look through his telescope or said it was playing tricks. Ask the voice question. If you have binoculars, plan to look at Jupiter on a clear night (it looks like a very bright, steady 'star'; a sky-map app will show where); good binoculars held still on a wall can show its biggest moons as tiny dots.",
+          "ref": "v3"
+        },
+        {
+          "kind": "review",
+          "title": "Moon facts quiz",
+          "mins": 10,
+          "do": "Ask aloud and let your child answer from today's model: 1. 'Does the Moon make its own light?' (No, it reflects sunlight.) 2. 'About how many days from Amavasya to Poornima?' (About 15: the book says fifteen; the full cycle is about 29 and a half days.) 3. 'Why do we see only part of the Moon on most nights?' (We see only part of its sunlit half.) 4. 'Name a festival on Poornima and one on Amavasya.' (Holi or Guru Nanak Jayanti; Deepawali.) 5. 'Is Chanda Mama really angry if you do not drink milk?' (No, the Moon is a rocky ball with no feelings, but drinking milk is still good for you.) Write the answers in the notebook."
+        }
+      ],
+      "need": ["NIOS EVS book pages 84–85", "a lamp or phone torch, a ball or an orange on a pencil", "a room that can be darkened", "binoculars if you have them"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Stars, the Saptarishi and the Milky Way",
+      "goal": "Learn why stars look small, what constellations are, find the Saptarishi and Dhruv Tara, and meet Meghnad Saha, who explained what stars are made of.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Stars and constellations (page 85)",
+          "mins": 7,
+          "do": "Read page 85 aloud from 'You would have also seen many stars twinkling' to the Milky Way. Ask: 'If many stars are bigger than the Sun, why do they look so small?' (They are extremely far away.) 'What is a constellation?' (A group of stars that people see as a pattern.) 'What is the group of seven stars near the Pole Star?' (The Saptarishi, called Ursa Major, the Great Bear, in English.) 'Were they really seven rishis?' (No: that is a story; they are stars at different distances that only look close together from Earth.) 'What is the Milky Way?' (Akash Ganga: our galaxy, billions of stars so far away that their light blurs into a white band.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Near torch, far torch",
+          "mins": 10,
+          "do": "Do Experiment e4 in a long dark room, corridor or outside after dusk. Ask your child to guess first: 'Two torches are exactly the same. If one is near and one is far, will they look the same?' You hold one torch 2 steps from your child; another family member holds an identical torch 15 or 20 steps away (or the same torch, moved). Your child compares how big and bright each looks, and draws them. Then switch: let a very bright torch stand far away and a dim one near. Ask: 'Can you tell which torch is really brighter just by looking?' (Not without knowing how far away each is.) Link back: the Sun looks biggest only because it is the closest star.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Meghnad Saha: reading starlight",
+          "mins": 8,
+          "do": "Tell the story in Voice v4: Meghnad Saha, from a poor family in a village near Dhaka, became a physicist and in 1920 worked out an equation that let astronomers read a star's temperature from its light, and showed that stars are made mostly of the same elements as everything else, in very hot conditions. Show your child a candle flame or a gas burner flame (adult): the blue part is hotter than the yellow part. Explain: stars are like this too, bluish-white stars are hottest and reddish stars are cooler. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Night sky watch (Let's do and learn 4, page 91)",
+          "mins": 15,
+          "do": "Do Activity a2 after dark tonight from the darkest place you can reach: a terrace with lights off, or a field away from street lamps. Let your eyes get used to the dark for 10 minutes. Look north for the Saptarishi, seven bright stars shaped like a big ladle or a kite with a tail; it is easiest to see in the evening from about February to July, and at other times it is low in the north or rises before dawn, so a free sky-map phone app helps. Follow the two stars at the end of the ladle's bowl upward about five times their distance to reach Dhruv Tara, the Pole Star, which hardly moves all night. Draw what you see with the time. Look for the Milky Way only if you are far from city lights. Ask: 'From where do these stars rise and at what time?' and note the answer.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["NIOS EVS book page 85", "two identical torches", "a candle or gas burner (adult use)", "a dark place to view the sky, a sky-map phone app if possible", "notebook, pencil and a red cloth over a torch for reading in the dark"],
+      "prep": [{"task": "Check the weather and a sky-map app to see when the Saptarishi is above the horizon tonight, and find a dark viewing spot", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "How do day and night happen?",
+      "goal": "Model day and night with a globe or ball and a torch, find which way the Earth must spin to make the Sun rise in the east, and learn where our weekday names come from.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How do day and night occur? (pages 86–87)",
+          "mins": 7,
+          "do": "Read section 6.2 on pages 86–87 aloud up to the names of Sunday and Monday. Ask: 'Does the Sun really rise and set?' (No: it stays in place and shines all the time; the Earth turns, so the Sun appears to rise and set.) 'How long does the Earth take to spin once?' (About 24 hours.) Note one slip in the book: on page 81 it says day and night happen because the Earth goes round the Sun; it is really because the Earth spins on its axis, as the book itself says on page 87. Also, day and night are each about 12 hours only around 21 March and 23 September; in Indian summer days are longer, and in winter nights are longer."
+        },
+        {
+          "kind": "exp",
+          "title": "Globe and torch: day, night and sunrise",
+          "mins": 14,
+          "do": "Do Experiment e1. Darken the room. Use a globe if you have one, or a ball with a pin through it for the axis and a small sticker on India. A torch or lamp held still is the Sun. Ask your child to guess first: 'Which way must the Earth spin so that the Sun rises in the east for India?' Turn the globe slowly both ways and watch the sticker. Spinning from west to east (anticlockwise when you look down on the North Pole), the sticker comes out of the shadow on its east side first: sunrise. Find where it is noon (facing the torch), sunset and midnight. Ask: 'When it is day in India, where is it night?' (On the other side, for example in the USA.) 'Why do our relatives in America call when we are going to sleep?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Weekdays named after the sky (page 87)",
+          "mins": 5,
+          "do": "Read the part about Sunday and Monday on page 87. Make a table with your child: Ravivar, Sun (Ravi), Sunday; Somvar, Moon (Som), Monday; Mangalvar, Mars (Mangal); Budhvar, Mercury (Budh); Guruvar or Brihaspativar, Jupiter (Guru or Brihaspati); Shukravar, Venus (Shukra); Shanivar, Saturn (Shani). Explain that people long ago named the seven days after the seven moving lights they could see in the sky with their eyes: Sun, Moon and five planets. Ask: 'Why are Uranus and Neptune not in the week?' (They cannot be seen without a telescope, so the ancient namers did not know of them.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Sun, Moon and planets",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed and mark together. For each mistake, open the page: stars and planets pages 83–84, the Moon pages 84–85, day and night pages 86–87. Then ask the four questions of 'Let's see what you have learnt 6.1' on page 86 aloud.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "review",
+          "title": "Check the Day 1 answers",
+          "mins": 4,
+          "do": "Read out your child's Day 1 answer to 'Where does the Sun go at night?' and ask: 'Would you change it now? What is your new answer, and what showed you?' A good answer: 'The Sun doesn't go anywhere. Our side of the Earth turns away from it; the globe and torch showed me.' Praise the change of mind: that is what scientists do when they get new evidence."
+        }
+      ],
+      "need": ["NIOS EVS book pages 86–87", "a globe, or a ball, a long pin or knitting needle and a small sticker", "a torch or lamp", "worksheet ws1", "the Day 1 answers"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Why do seasons change?",
+      "goal": "Read the book's explanation of seasons, test the real cause, the tilt of the Earth's axis, with a torch-angle experiment, and learn India's six traditional seasons.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How do seasons occur? (pages 87–88)",
+          "mins": 6,
+          "do": "Read section 6.3 on pages 87–88 aloud. Then ask your child: 'The book says summer comes when the Earth is nearest to the Sun. Let's check that. Here is a fact: the Earth is actually nearest to the Sun in early January every year. Is it summer in India in January?' (No, it is winter.) 'And in Australia in January?' (Summer.) 'If distance caused seasons, would both halves of the world have summer at the same time?' (Yes, but they do not.) Say: 'So the book's reason cannot be right. Scientists know that the real reason is the tilt of the Earth's axis. Let's test it.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Torch-angle test: straight or slanting sunlight",
+          "mins": 14,
+          "do": "Do Experiment e2. On squared paper (or paper you have ruled into 1 cm squares), hold a torch straight down from 20 cm above. Your child draws round the bright patch and counts the squares inside. Then, keeping the torch the same distance away, tilt it so the light hits the paper at a slant. Draw round the patch and count again. Ask your child to guess first: 'Will the slanting patch be bigger or smaller? Brighter or dimmer?' Then do the warmth test: put two identical pieces of chocolate or ghee on two steel plates in the sun at about noon, one plate flat and facing the sun squarely, the other tipped so the light skims across it; see which melts first. Then use the globe and torch from Day 5, with the axis tilted, carried round the lamp, to show that northern India gets straighter sunlight in June and slanting sunlight in December.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "India's six seasons",
+          "mins": 7,
+          "do": "The answers on page 92 say India has six seasons. Make a ring of six with your child, with the months: Vasant (spring, about mid-March to mid-May; Holi), Grishma (summer, mid-May to mid-July), Varsha (monsoon, mid-July to mid-September), Sharad (early autumn, mid-September to mid-November; Dussehra, Deepawali), Hemant (pre-winter, mid-November to mid-January), Shishir (winter, mid-January to mid-March; Makara Sankranti). The exact months differ across India: Kerala's monsoon arrives in early June, Rajasthan's much later. Ask: 'Which season is it now? What clue do you see outside: clothes, fruits, festivals?'"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see what you have learnt 6.2 (pages 88–89)",
+          "mins": 5,
+          "do": "Do the five questions on pages 88–89 aloud, using today's experiment for question 5. 1: sunlight cannot reach the far side of the Earth, so it is night there. 2: six traditional seasons. 3: about 365 days (more exactly 365 and a quarter, which is why we add a day in a leap year every four years). 4: the Earth spins on its axis. 5: the Earth goes round the Sun with its axis tilted, so each half of the Earth gets straighter, stronger sunlight and longer days for part of the year."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Spin, tilt and orbit",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to use the torch, globe and shadow results on new questions. Read items aloud and let them use the globe and torch to work out answers.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 87–89, 92", "a torch, squared paper and a pencil", "2 small pieces of chocolate or ghee, 2 steel plates", "the globe or ball with a pin from Day 5", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Let's revise and teach it back",
+      "goal": "Revise with the book's practice questions and 'Let's do and learn', try the challenge worksheet, check understanding, and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Practice (pages 89–91)",
+          "mins": 10,
+          "do": "Read the 'Let's Revise' points on page 89 aloud. Then do the Practice questions on pages 89–91 aloud. Question 2: 24 hours; 365 days; the Earth; hot gases (the book says fire and gases); the Sun. Question 3, giving the true answers: the Moon shines with its own light, wrong; the Earth revolves round the Sun, right; a body that goes round the Sun is called a satellite, wrong (it is a planet); day is on the part facing the Sun, right; seasons are due to the revolution, right, together with the tilt of the axis; the part near the Sun is hot, wrong as a reason for seasons (the tilt matters, not distance); four seasons in a year, India traditionally counts six, and many countries count four. Then 'Let's do and learn' 1–3 on page 91: equal days and nights around 21 March and 23 September; longest day around 21 June; shortest day and longest night around 21–22 December."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Sky puzzles",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge): puzzles, 'what if' questions and comparing views. Your child can answer aloud while you write. In section C there is no single right answer; praise reasons that use evidence from this week's models, shadows and night-sky drawing.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, use the globe and torch or the ball and lamp to show it again for one minute, then ask in different words. Most children get 6 or more right."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is now the teacher, like the teacher with the globe in the book. Using the globe and torch, the ball and lamp, the shadow clock paper and the night-sky drawing, they teach you (or a grandparent) in 5 minutes: star, planet and satellite; the eight planets; day and night; phases of the Moon; and the real reason for seasons. Ask two 'student' questions, the kind the children in the book asked: 'Does the Earth stand on a cow's horns?' and 'Is it summer because we are close to the Sun?' Finally, read your child's Day 1 answers aloud and let them correct each one."
+        }
+      ],
+      "need": ["NIOS EVS book pages 89–91", "worksheet ws3", "the globe and torch, ball and lamp, shadow clock paper and night-sky drawing", "the Day 1 answers"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Sun, Moon and planets",
+      "day": 5,
+      "sections": [
+        ["A. Stars, planets and satellites", [
+          {"t": "match", "p": "Match each word to its meaning.", "pairs": [["Star", "Shines with its own light"], ["Planet", "Goes round a star and reflects its light"], ["Satellite", "Goes round a planet"], ["Constellation", "A group of stars seen as a pattern"]]},
+          {"t": "fill", "p": "The Earth's only natural satellite is the ____.", "a": ["Moon", "moon"]},
+          {"t": "mcq", "p": "Which is the correct order of the first four planets from the Sun?", "opts": ["Earth, Mars, Venus, Mercury", "Mercury, Venus, Earth, Mars", "Venus, Mercury, Mars, Earth", "Mars, Earth, Mercury, Venus"], "a": 1}
+        ]],
+        ["B. The Moon", [
+          {"t": "mcq", "p": "The night when we cannot see the Moon at all is called:", "opts": ["Poornima", "Amavasya", "Shukla Paksha", "Sankranti"], "a": 1},
+          {"t": "fill", "p": "The bright fortnight, when the Moon grows each night, is called ____ Paksha.", "a": ["Shukla"]},
+          {"t": "mcq", "p": "Where does the Moon's light come from?", "opts": ["Its own fire", "Sunlight reflected from it", "The stars", "The Earth's lamps"], "a": 1}
+        ]],
+        ["C. Day and night", [
+          {"t": "fill", "p": "The Earth spins once on its axis in about ____ hours.", "a": ["24", "twenty-four"]},
+          {"t": "mcq", "p": "Why do we have day and night?", "opts": ["The Sun goes round the Earth", "The Earth spins on its axis, so each place turns towards and away from the Sun", "Clouds cover the Sun at night", "The Sun switches off"], "a": 1},
+          {"t": "draw", "p": "Draw the Earth with the Sun on one side. Colour the day side yellow and the night side dark blue, and mark India on the day side."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Spin, tilt and orbit",
+      "day": 6,
+      "sections": [
+        ["A. Shadows and spinning", [
+          {"t": "write", "p": "In our shadow clock, the shadow pointed west in the morning and east in the afternoon. Explain why, using the spinning Earth.", "lines": 3},
+          {"t": "mcq", "p": "The Sun rises in the east because the Earth spins:", "opts": ["From east to west", "From west to east", "From north to south", "It does not spin"], "a": 1},
+          {"t": "write", "p": "It is 8 pm in Delhi. Is it day or night in New York, on the other side of the Earth? How do you know?", "lines": 2}
+        ]],
+        ["B. Seasons", [
+          {"t": "mcq", "p": "In the torch test, the slanting torch made a bigger, dimmer patch. What does this tell us about winter sunlight?", "opts": ["It is closer", "It comes at a slant, so the same light is spread over more ground and warms it less", "It is a different colour", "It is brighter"], "a": 1},
+          {"t": "write", "p": "The Earth is nearest the Sun in early January. Use this fact to show that distance is not the cause of India's seasons.", "lines": 3},
+          {"t": "table", "p": "Fill in India's six seasons.", "cols": ["Season", "Months (about)", "One clue: weather, fruit or festival"], "rows": 6, "prefill": ["Vasant", "Grishma", "Varsha", "Sharad", "Hemant", "Shishir"]}
+        ]],
+        ["C. Far and near", [
+          {"t": "mcq", "p": "Many stars are bigger than the Sun. They look tiny because:", "opts": ["They are made of ice", "They are very far away", "They are behind clouds", "They are planets"], "a": 1},
+          {"t": "sort", "p": "Sort these into what makes its own light and what reflects light.", "items": ["Sun", "Moon", "Venus", "Pole Star", "Jupiter", "Saptarishi stars"], "cats": ["Makes its own light", "Reflects light"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Sky puzzles",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "fill", "p": "A year is about 365 and a quarter days. After 4 years the extra quarters add up to ____ whole day, which we add in a leap year.", "a": ["1", "one"]},
+          {"t": "write", "p": "On our scale walk, Earth was 1 step from the Sun and Neptune 30 steps. If light takes about 8 minutes to reach us from the Sun, roughly how long does it take to reach Neptune? Show your thinking.", "lines": 3},
+          {"t": "mcq", "p": "The Pole Star hardly moves all night while other stars move. Why?", "opts": ["It is stuck to the sky", "It lies almost exactly above the North Pole, in line with the Earth's spinning axis", "It is the biggest star", "It is a planet"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if the Earth's axis were not tilted at all? Would India have seasons? Explain.", "lines": 3},
+          {"t": "write", "p": "What if the Earth spun once a week instead of once a day? How would days and nights feel?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "In 2006 astronomers voted that Pluto is a dwarf planet; some scientists still call it a planet. What rule would you choose for what counts as a planet, and would Pluto pass?", "lines": 4},
+          {"t": "write", "p": "The children in the book believed stories about cows, Sheshnag and tortoises holding up the Earth. What evidence would you show them that the Earth floats in space?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Globe and torch: day, night and sunrise",
+      "day": 5,
+      "question": "Why do we have day and night, and which way must the Earth spin for the Sun to rise in the east?",
+      "need": ["a globe, or a ball with a long pin or knitting needle through it as the axis", "a small sticker to mark India", "a torch or lamp", "a room that can be darkened"],
+      "steps": [
+        "Darken the room. Hold the torch still, pointing at the globe from about 1 metre: this is the Sun.",
+        "Stick a small sticker on India.",
+        "Tilt the axis a little and turn the globe slowly from west to east (anticlockwise when seen from above the North Pole).",
+        "Watch the sticker: notice where it comes out of the shadow (sunrise), faces the torch (noon), goes into the shadow (sunset) and is opposite the torch (midnight).",
+        "Now turn the globe the other way and see where the Sun would 'rise' for India.",
+        "Find a country that has night when India has noon."
+      ],
+      "predict": "Ask your child to guess first: which way must the Earth turn so that the Sun rises in the east in India? When it is noon in India, where will it be midnight?",
+      "observe": "Half the globe is always lit and half is dark. Turning west to east, India comes into the light on its eastern edge first, as at sunrise in the east. Turning the other way would make the Sun rise in the west. When India faces the torch, the Americas are in darkness.",
+      "why": "The Sun shines all the time on one half of the Earth. The Earth spins on its axis once in about 24 hours, so each place is carried into the sunlight (day) and then away from it into the Earth's own shadow (night). Because we spin from west to east, we turn towards the Sun in the east each morning, and the Sun seems to rise there, travel across the sky and set in the west; just as trees seem to run backwards when you look out of a moving train. The book says on page 84 that the Earth rotates from east to west; that is a slip, as this model shows. Different places face the Sun at different times, which is why India and the USA have different clock times.",
+      "safety": "Do not shine the torch into anyone's eyes. Handle the pin carefully.",
+      "time": "14 min"
+    },
+    {
+      "id": "e2",
+      "title": "Torch-angle test: why winter sunlight is weaker",
+      "day": 6,
+      "question": "Does sunlight warm the ground more when it comes straight down or when it comes at a slant?",
+      "need": ["a torch", "squared paper (or paper ruled into 1 cm squares)", "a pencil and ruler", "2 small equal pieces of chocolate or ghee", "2 steel plates", "a sunny spot at about noon"],
+      "steps": [
+        "Hold the torch straight down, 20 cm above the squared paper. Draw round the bright patch and count the squares inside.",
+        "Keep the torch 20 cm away but tilt it so the light falls at a slant. Draw round the patch and count again.",
+        "Compare how bright each patch looks.",
+        "At about noon, put one piece of chocolate on a steel plate held so that it faces the Sun squarely, and another on a plate tipped so the sunlight skims across it.",
+        "Watch which melts first.",
+        "With the tilted globe from Day 5, carry it round the lamp to see when northern India gets straighter light."
+      ],
+      "predict": "Ask your child to guess first: will the slanting patch be bigger or smaller, and brighter or dimmer? Which chocolate will melt first?",
+      "observe": "The straight-down patch is small, round and bright; the slanting patch is larger, oval and dimmer, covering more squares with the same light. The chocolate on the plate facing the Sun squarely melts first.",
+      "why": "The same torch gives the same amount of light either way. When it shines straight down, all that light falls on a small patch, so each square gets a lot of energy and warms up fast. At a slant, the same light is spread over a bigger patch, so each square gets less. The Earth's axis is tilted by about 23 and a half degrees and keeps pointing the same way in space as the Earth goes round the Sun. So for part of the year (around June) the northern half, with India, leans towards the Sun: sunlight comes in steeply, days are long, and it is summer. Six months later (around December) the northern half leans away: sunlight comes at a slant, days are short, and it is winter, even though the Earth is then slightly nearer the Sun. Distance changes very little during the year and is not the cause of seasons, so the book's explanation on pages 87–88 needs correcting.",
+      "safety": "Never look at the Sun. Do not let the chocolate get on clothes.",
+      "time": "14 min"
+    },
+    {
+      "id": "e3",
+      "title": "The sun-shadow clock",
+      "day": 1,
+      "question": "How do the length and direction of a shadow change through one day?",
+      "need": ["a straight stick", "a pot of soil or a bottle of sand", "a big sheet of paper and tape", "a ruler, pencil, clock and phone compass"],
+      "steps": [
+        "Tape the paper flat on a sunny floor and stand the stick upright at its centre.",
+        "Mark north on the paper using the compass.",
+        "Before 10 am, mark the tip of the shadow, write the time and measure the length.",
+        "Repeat at about 12 noon and 3 pm.",
+        "Join the dots and compare the lengths and directions.",
+        "Compare with your guesses."
+      ],
+      "predict": "Ask your child to guess first: at noon, will the shadow be longer or shorter than in the morning? Which way will it point in the morning and in the afternoon?",
+      "observe": "Record time, direction and length at each mark. The morning shadow is long and points roughly west; the noon shadow is the shortest; the afternoon shadow points roughly east and grows longer again.",
+      "why": "A shadow always points away from the light. In the morning the Sun appears low in the east, so the shadow is long and points west. At noon the Sun appears highest, so the shadow is shortest. In the afternoon the Sun appears in the west and the shadow points east. The Sun is not really moving across the sky: the Earth is spinning from west to east, carrying us and our stick round, so the Sun seems to move from east to west. Before clocks, people used exactly this kind of stick, called a sundial or gnomon, to tell the time; Jantar Mantar in Jaipur, built by Maharaja Sawai Jai Singh II in the 1700s, has a giant one.",
+      "safety": "Never look straight at the Sun.",
+      "time": "10 min to set up + 7 min for the noon and 3 pm marks"
+    },
+    {
+      "id": "e4",
+      "title": "Near torch, far torch",
+      "day": 4,
+      "question": "Why do stars, many of which are bigger and brighter than the Sun, look like tiny dots?",
+      "need": ["two identical torches (or one torch moved)", "a long dark room, corridor or open space after dusk", "a helper", "notebook"],
+      "steps": [
+        "Your child stands at one end. One torch is held 2 steps away, pointed at them.",
+        "A helper holds the identical torch 15 to 20 steps away, also pointed at them.",
+        "Your child compares how big and how bright each looks, and draws both.",
+        "Move the far torch closer step by step and watch it grow brighter.",
+        "Now put a very bright torch far away and a dim one near. Ask which looks brighter."
+      ],
+      "predict": "Ask your child to guess first: will two identical torches look the same if one is near and one is far? Can you tell which torch is really brighter just by looking?",
+      "observe": "The near torch looks big and dazzling; the far torch looks like a small point and much dimmer. A bright far torch can look dimmer than a weak near torch.",
+      "why": "Light spreads out as it travels, so the farther away a light is, the less of it reaches your eye. If you are twice as far away, a light looks only a quarter as bright. Things far away also look smaller. The Sun is about 15 crore kilometres away; the next nearest star is about 2,70,000 times farther than that, so even huge stars shrink to tiny twinkling points. This is why, just by looking, we cannot tell how big or bright a star really is; astronomers must find its distance first.",
+      "safety": "Do not shine torches straight into anyone's eyes for long; point them slightly to one side.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Scale walk of the solar system",
+      "day": 2,
+      "mins": 16,
+      "need": ["a ball for the Sun", "8 paper chits with planet names", "an open straight path of 30–40 steps"],
+      "steps": [
+        "Put the Sun ball at the start. One big step (about 1 m) is the distance from the Sun to the Earth.",
+        "Drop Mercury at 0.4 m, Venus at 0.7 m, Earth at 1 m, Mars at 1.5 m.",
+        "Walk on and drop Jupiter at 5 m, Saturn at about 10 m.",
+        "Keep going: Uranus at about 19 m, Neptune at 30 m.",
+        "If there is room, take 9 or 10 more steps to where the dwarf planet Pluto would be, at about 40 m.",
+        "Turn round and look back at the Sun; talk about which planets are crowded and which are far apart."
+      ],
+      "outcome": "A child who has walked the real spacing of the solar system and knows the planets' order and how far apart the outer planets are."
+    },
+    {
+      "id": "a2",
+      "title": "Night sky watch: Saptarishi and Dhruv Tara (Let's do and learn 4, page 91)",
+      "day": 4,
+      "mins": 15,
+      "need": ["a dark viewing place", "a sky-map phone app if possible", "a torch covered with red cloth", "notebook and pencil", "a warm shawl"],
+      "steps": [
+        "Go to the darkest spot you can and switch off nearby lights.",
+        "Wait 10 minutes for your eyes to get used to the dark.",
+        "Look north for the seven bright stars of the Saptarishi, shaped like a ladle or kite with a tail.",
+        "Follow the two end stars of the ladle's bowl about five times their gap to find Dhruv Tara, the Pole Star.",
+        "Draw what you see with the time and direction.",
+        "If you can, look again two hours later and see which stars have moved and which stayed."
+      ],
+      "outcome": "A dated night-sky drawing showing the Saptarishi and Pole Star, and a child who can find north at night."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Georges-Louis Leclerc, Comte de Buffon (1707–1788), France",
+      "idea": "In 1749 Buffon suggested that the planets, including the Earth, were made from hot material knocked out of the Sun when a comet crashed into it. The pieces then cooled into planets. This is close to what the teacher in the book says on page 83, that the Earth broke away from the Sun.",
+      "then": "It was one of the first attempts to explain the solar system's birth by natural causes, and it made people think the Earth was far older than they believed. But other thinkers, such as Immanuel Kant (1755) and Pierre-Simon Laplace (1796), suggested instead that the Sun and planets formed together from a spinning cloud of gas.",
+      "now": "The idea that the Earth broke off from the Sun is rejected. Comets are far too small to knock out planet-sized pieces, and hot material torn from the Sun would spread out, not form planets. The evidence, including discs of dust seen around young stars by telescopes, shows that the Sun and planets formed together from a spinning cloud of gas and dust about 4.6 billion years ago.",
+      "status": "rejected",
+      "ask": "Buffon's idea was clever but wrong. How do telescopes that see dust discs around young stars today help us decide how our own solar system was born?",
+      "day": 1
+    },
+    {
+      "id": "v2",
+      "who": "The International Astronomical Union (2006) and Alan Stern: is Pluto a planet?",
+      "idea": "Pluto was discovered in 1930 and called the ninth planet. But from 1992 astronomers found many other icy bodies beyond Neptune, and in 2005 one about the same size as Pluto, later named Eris. In 2006 the International Astronomical Union voted that a planet must go round the Sun, be massive enough to be round, and have cleared its path of other bodies. Pluto shares its path with many icy objects, so it was called a dwarf planet.",
+      "then": "Many people were upset, and some astronomers objected that only a few hundred of them had voted at the end of a meeting.",
+      "now": "The IAU definition is used officially, and most textbooks list eight planets. But some planetary scientists, including Alan Stern, who led NASA's New Horizons spacecraft that flew past Pluto in 2015, argue that any body big enough to be round should count as a planet, and that Pluto, with mountains of ice and a thin air, is a planet. The debate is about how to define a word, not about what Pluto is like.",
+      "status": "debated",
+      "ask": "Scientists agree on what Pluto is like but not on what to call it. Which rule for a 'planet' do you think is best, and would Pluto pass your rule?",
+      "day": 2
+    },
+    {
+      "id": "v3",
+      "who": "Galileo Galilei (1564–1642), Italy",
+      "idea": "In 1609–1610 Galileo built his own telescopes and turned them to the sky. In January 1610 he saw four small points of light near Jupiter that moved from night to night, and worked out that they were moons going round Jupiter. He also saw that Venus shows phases like our Moon, which fitted the idea of Copernicus that the planets, including the Earth, go round the Sun.",
+      "then": "Many scholars and church leaders held that the Earth stood still at the centre of everything. Some refused to look through his telescope. In 1633 Galileo was put on trial by the Church in Rome, forced to take back his views and kept under house arrest for the rest of his life.",
+      "now": "His observations are fully accepted: the Earth and the other planets go round the Sun, and Jupiter's four big moons are called the Galilean moons. In 1992 the Pope formally said the Church had been wrong to condemn him. Galileo is remembered as one of the founders of science based on observation.",
+      "status": "accepted",
+      "ask": "Some people would not look through Galileo's telescope. Why might someone refuse to look at evidence? What would you do if what you saw went against what everyone told you?",
+      "day": 3
+    },
+    {
+      "id": "v4",
+      "who": "Meghnad Saha (1893–1956), India",
+      "idea": "Saha was born in a poor family in Shaoratali, near Dhaka (now in Bangladesh), and had to fight hard to study. In 1920 he worked out an equation, now called the Saha ionisation equation, that explains how the heat of a star changes the atoms in it and so the dark lines in its light. It let astronomers read the temperature of a star from its light, and showed that the differences between star types are mainly differences of temperature.",
+      "then": "His work was quickly praised by leading astronomers in Europe, and Arthur Eddington called it one of the great steps in astrophysics. In India, he faced difficulty getting resources for research, and he later founded the Institute of Nuclear Physics in Kolkata, which now bears his name.",
+      "now": "His equation is accepted and still used to study stars. Saha also chaired the Calendar Reform Committee set up in 1952, whose work led India to adopt the national calendar (the Saka calendar) in 1957 alongside the usual calendar.",
+      "status": "accepted",
+      "ask": "Saha learnt about stars only from their light, without ever going near one. How can light from something so far away tell us what it is made of and how hot it is?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "What is the difference between a star, a planet and a satellite?", "a": "A star shines with its own light, like the Sun. A planet goes round a star and reflects its light, like the Earth. A satellite goes round a planet, like the Moon round the Earth."},
+    {"q": "Name the eight planets in order from the Sun.", "a": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Pluto is now called a dwarf planet."},
+    {"q": "Why do we have day and night?", "a": "The Earth spins on its axis once in about 24 hours. The side facing the Sun has day; the side turned away has night."},
+    {"q": "Which way does the Earth spin, and how do you know?", "a": "From west to east. That is why the Sun appears to rise in the east and set in the west, as the globe-and-torch model showed."},
+    {"q": "Why does the Moon change shape, and what are Amavasya and Poornima?", "a": "The Moon is lit by the Sun, and as it goes round the Earth we see different amounts of its lit half. Amavasya is the new moon (we see none of the lit half); Poornima is the full moon (we see all of it)."},
+    {"q": "What really causes seasons?", "a": "The Earth's axis is tilted. As the Earth goes round the Sun, each half leans towards the Sun for part of the year (straighter sunlight and longer days: summer) and away for another part (slanting sunlight, shorter days: winter). It is not because the Earth comes nearer the Sun; it is actually nearest in January."},
+    {"q": "Why do stars bigger than the Sun look so small?", "a": "They are very much farther away, and far-away lights look smaller and dimmer."},
+    {"q": "How can you find the Pole Star, and why is it useful?", "a": "Find the Saptarishi (Ursa Major) and follow the two end stars of its bowl to the Pole Star (Dhruv Tara). It stays almost still above the north, so it shows the direction north at night."}
+  ]
+}

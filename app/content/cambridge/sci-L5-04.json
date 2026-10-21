@@ -1,0 +1,568 @@
+{
+  "key": "cambridge|sci|5|4",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 5,
+  "n": 4,
+  "title": "The digestive system",
+  "source": "Cambridge Primary Science Learner's Book 5 (2nd edition), Unit 4 'The digestive system' (contents pages 94–109; the printed page numbers in this copy run 88–103): 4.1 Parts and functions of the digestive system (printed pages 88–94), 4.2 Balanced diets (pages 95–99), Project: Vitamins (pages 100–101), Check your progress (pages 102–103)",
+  "summary": "Your child follows a mouthful of food through the body: mouth, oesophagus, stomach, small intestine, large intestine and anus, and learns what each part does. They squash a banana and biscuit through a pair of tights to model digestion, build their own model from waste materials, use iodine to show that saliva starts breaking down starch, and compare a cat's and a rabbit's insides with ours. Then they look at what we eat: the food groups, water, fibre, vitamins and minerals, what makes an Indian meal balanced, how to read a food label, and how a ship's doctor's fair test in 1747 led to vitamin C.",
+  "goals": [
+    "By the end your child can name the organs of the digestive system in order and say the job of each.",
+    "By the end your child can explain why food must be digested and how digested food reaches every part of the body.",
+    "By the end your child can test a food for starch with iodine and explain why chewed bread gives a different result, and say how to work safely with iodine.",
+    "By the end your child can compare the digestive systems of a plant-eater and a meat-eater and suggest why they differ.",
+    "By the end your child can describe a balanced diet using the food groups plus water and fibre, plan a balanced Indian meal and use a food label to judge a packaged food.",
+    "By the end your child can describe James Lind's scurvy investigation and say why it was a fair test."
+  ],
+  "words": [
+    ["digestion", "breaking food down into particles small enough to pass into the blood and be used by the body"],
+    ["digestive system", "the long tube and organs that digest food, from the mouth to the anus"],
+    ["saliva", "the watery juice in the mouth that makes food moist and starts to digest starch"],
+    ["oesophagus", "the food pipe: a muscly tube that squeezes swallowed food down from the throat to the stomach"],
+    ["stomach", "a stretchy bag of muscle where food is churned with strong digestive juices into a thick, porridge-like liquid"],
+    ["small intestine", "a long, coiled tube where food is broken down further and the tiny digested particles pass into the blood"],
+    ["large intestine", "the wider tube where water is taken back into the blood and undigested waste is made solid"],
+    ["anus", "the opening at the end of the large intestine where solid waste (faeces) leaves the body"],
+    ["starch", "a carbohydrate found in rice, wheat, potatoes and other plant foods; it turns iodine blue-black"],
+    ["balanced diet", "eating the right kinds of food in the right amounts: carbohydrates, proteins, a little fat, plenty of fruit and vegetables, plus water and fibre"],
+    ["fibre", "the parts of plant food our body cannot fully digest; it helps food move through the intestines"],
+    ["vitamins and minerals", "substances in food needed in small amounts to keep the body working well, such as vitamin C, calcium and iron"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Where does my lunch go?",
+      "goal": "Draw what we already know about the organs inside us, follow the path of food through the digestive system, and feel the size of the intestines.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The journey of a roti",
+          "mins": 6,
+          "do": "Give your child a small piece of roti or a biscuit. Ask them to eat it very slowly and say aloud what happens at each moment: 'My teeth are cutting and grinding it... it's getting wet... my tongue is rolling it into a ball... I swallowed.' Then ask: 'Where is it now? Where will it be tonight? And where does the bit our body doesn't use go?' Accept any answers. Tell them: 'In this unit we will follow that roti all the way through.'"
+        },
+        {
+          "kind": "do",
+          "title": "Getting started: organs on a body outline (page 88)",
+          "mins": 10,
+          "do": "Read the 'We are going to' box on page 88. Then do 'Getting started'. Your child lies down on a sheet of chart paper (or several newspapers taped together) and you draw round their body. 1: They draw in as many organs as they know and write their names (heart, lungs, brain, stomach, intestines, liver, kidneys...). 2: For each, they say what it does. 3: Since there is no partner, compare with page 89 and add any organs and labels they missed. Keep this outline: you will add the full digestive system on Day 3."
+        },
+        {
+          "kind": "read",
+          "title": "The human digestive system (page 89)",
+          "mins": 12,
+          "do": "Read page 89 aloud and follow the labelled diagram with your finger. Your body needs food to grow and for energy, but cannot use food as it is: the digestive system breaks it into tiny particles; this is digestion. Then go round the labels in order. Mouth: teeth chop food into smaller pieces; saliva makes it moist and easy to swallow, and digestive juices in saliva start to digest the food. Oesophagus: the swallowed food is pushed down this tube; its muscles squeeze and push the food downwards. Stomach: food mixes with digestive juices into a thick liquid like porridge. Small intestine: breaks food down until the particles are small enough to move into the blood. Large intestine: undigested bits move here; it takes water and some substances back into the blood. Anus: solid waste is pushed out. Ask after each: 'What happens here?'"
+        },
+        {
+          "kind": "do",
+          "title": "How long is the tube?",
+          "mins": 10,
+          "do": "Cut a piece of string or old wool about 7 metres long, the length of an adult's small intestine, and a second piece about 1.5 metres for the large intestine. Your child stretches them out along the corridor or across the room. Ask: 'How can 7 metres fit inside a tummy?' Coil the string up loosely in a small bowl to show how it folds. Explain: a long tube gives more time and more surface for the tiny food particles to pass into the blood. The inner wall is covered in millions of tiny finger-like bumps (villi) that make the surface even bigger."
+        },
+        {
+          "kind": "talk",
+          "title": "Swallowing is pushing, not falling",
+          "mins": 7,
+          "do": "Ask your child: 'Does food just fall down to your stomach?' Then have them lie on their tummy on the bed with their head hanging slightly over the edge, lower than their stomach, and take one small sip of water through a straw and swallow (stay beside them). The water still reaches the stomach, going 'uphill'. Explain: the muscles of the oesophagus squeeze in a wave behind the food, like squeezing toothpaste along a tube; that is how astronauts can eat in space. Ask: 'Which word on page 89 describes this?' (The muscles contract to squeeze and push the food.)"
+        }
+      ],
+      "need": ["Learner's Book pages 88–89", "a piece of roti or biscuit", "chart paper or newspapers taped together, a marker", "string or wool about 9 metres long", "a straw and a cup of water"],
+      "prep": [{"task": "Tape together enough newspaper or chart paper for a body outline", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "Digestion in a bag: the tights model",
+      "goal": "Model the digestive system with a banana, a biscuit and a pair of old tights, and match each step of the model to a real organ.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "How does digestion happen? (Activity 1, pages 89–90)",
+          "mins": 22,
+          "do": "Do Activity a1, the book's Activity 1. Over a tray on newspaper: your child breaks a cracker biscuit and half a banana into a sealable plastic bag (or a zip-lock bag), adds half a cup of water and a splash of orange juice (the book uses orange juice; vinegar works too). Seal the bag, twist and squash it until everything is mixed into a mush. Cut one leg off an old pair of tights or stockings (with the foot cut open) and pour the mush into it. Squeeze from the top down towards the foot: liquid drips out into the tray. Squeeze until no more comes out. Then put what is left into the wide, cut-off end of a squeezy bottle (an old ketchup bottle with its base cut off) and squeeze it out through the nozzle onto newspaper.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Match the model (questions 4–6, page 90)",
+          "mins": 13,
+          "do": "Answer question 4 on page 90: which part of the digestive system is represented by each thing? a) cracker and banana: the food; b) water: saliva and the water we drink; c) orange juice: the digestive juices in the stomach; d) plastic bag: the stomach (squashing is the stomach's muscles churning); e) tights leg: the small intestine; f) tray: the blood that receives the digested liquid; g) squeezy bottle: the large intestine; h) nozzle: the anus. Question 5: how is the model different? Good answers: real intestines are much longer; real digestive juices are chemicals that break food down, not just mix it; the real small intestine takes the food into blood through its wall, not through holes; real food moves by muscles, not hands; the large intestine takes water back. Question 6: your child explains each step of the model to another family member."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–7 (page 91)",
+          "mins": 10,
+          "do": "Ask questions 1–7 on page 91 aloud. 1: We need food to grow, repair our body and get energy. 2: It must be digested because the body cannot use big pieces; they must be small enough to pass into the blood. 3: The mouth chews food into smaller pieces, and saliva moistens it and starts digestion. 4: The oesophagus. 5: The stomach mixes food with digestive juices and churns it into a thick liquid. 6: The large intestine and the anus. 7: Digested food particles pass from the small intestine into the blood, which carries them to every part of the body. Your child writes the answers to 2 and 7 in full sentences."
+        }
+      ],
+      "need": ["Learner's Book pages 89–91", "a cracker biscuit and half a banana", "a zip-lock or sealable plastic bag", "water and a little orange juice", "one leg of an old pair of tights or stockings, scissors", "an old squeezy ketchup bottle with the base cut off", "a tray and newspaper"],
+      "prep": [{"task": "Cut the base off an empty squeezy bottle and find old tights or stockings", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Design and build a model digestive system",
+      "goal": "Plan and build a model of the whole digestive system from waste materials, choosing materials that match each organ's structure and job.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Structure fits the job (page 91)",
+          "mins": 8,
+          "do": "Read Think like a scientist 1 on page 91. Your model must be made of everyday or waste materials and show the parts in the correct order. Before building, make a two-column plan: 'Part and its job' and 'What I will use and why'. Talk through each one: oesophagus is a long narrow muscly tube (a piece of plastic tubing, a cut cycle inner tube or a long thin balloon); stomach is a stretchy bag (a balloon or a small plastic bag); small intestine is a very long, narrow, coiled tube (a long piece of tights, a stocking or many paper tubes joined); large intestine is wider and shorter (a cardboard tube or a cut bottle); anus is an opening that can close (a rubber band round the end)."
+        },
+        {
+          "kind": "act",
+          "title": "Make a model digestive system (Think like a scientist 1, page 91)",
+          "mins": 27,
+          "do": "Do Activity a2. Your child builds the model on a sheet of cardboard: a paper cup for the mouth, then the oesophagus, stomach, small intestine (coiled and glued or taped down in loops), large intestine around it like a picture frame, and the anus. Use glue, tape or sticky putty. Cut with scissors carefully (the book says be careful not to cut yourself). Add labels on small flags of paper with each organ's job written underneath. Then add the organs to the body outline from Day 1 in the right positions.",
+          "ref": "a2"
+        },
+        {
+          "kind": "review",
+          "title": "Explain the model",
+          "mins": 10,
+          "do": "Your child uses the finished model to explain to you, step by step, how a mouthful of dal-chawal is digested, pointing to each part. Ask: 'Why did you choose that material for the small intestine?' and 'What does your model NOT show?' (Good answers: the liver and pancreas that make digestive juices, the length, the muscle squeezing, how food passes into the blood.) Take a photo for the teach-back on the last day."
+        }
+      ],
+      "need": ["Learner's Book page 91", "waste materials: plastic bottles, tubing, plastic bags, balloons, string, paper cups, cardboard tubes, an old cycle inner tube or old tights", "scissors, elastic bands, tape, glue or sticky putty", "a large piece of cardboard", "the body outline from Day 1"],
+      "prep": [{"task": "Collect waste materials for the model over the past week", "when": "1 week before"}]
+    },
+    {
+      "n": 4,
+      "title": "Digestion starts in the mouth",
+      "goal": "Test bread for starch with iodine, show that saliva breaks down starch, work safely with a chemical, and hear how two doctors overturned what everyone believed about the stomach.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The starch test (page 91)",
+          "mins": 4,
+          "do": "Read the last paragraph on page 91: some foods such as bread and rice contain starch; we can tell if a food has starch by testing it with iodine solution; starch turns the iodine from yellow-brown to blue-black. Show your child the iodine bottle (tincture of iodine or a povidone-iodine antiseptic like Betadine diluted with a little water, both from a chemist). Read the two safety warnings in red on page 92 aloud together."
+        },
+        {
+          "kind": "exp",
+          "title": "Investigate digestion in the mouth (Think like a scientist 2, page 92)",
+          "mins": 22,
+          "do": "Do Experiment e1. 1: Put a small piece of bread (or a pinch of plain cooked rice) on a saucer and add one drop of iodine. a: What do you see? (Blue-black.) b: The bread contains starch. 2: Your child chews a second small piece of bread for about three minutes without swallowing, noticing the taste. Does it change? (It starts to taste slightly sweet.) 3: They spit it onto a clean saucer with a spoon and add a drop of iodine. a: Less blue-black, more brown, or patchy. b and c: some of the starch is gone; saliva has broken it down into sugar. 4a: dangers: iodine stains clothes and is harmful if swallowed; 4b: only the adult uses the dropper, never put iodine near the mouth, the chewed bread goes on a separate saucer and is not put back in the mouth. 5: Conclusion: 'Digestion starts in the mouth: saliva breaks down starch into sugar.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Marshall and Warren: the germ in the stomach",
+          "mins": 9,
+          "do": "Tell the story in Voice v1: for a hundred years doctors said stomach ulcers were caused by stress and spicy food, and that no germ could live in the stomach's acid. Two Australian doctors showed a bacterium was the cause, and one of them drank it to prove it. Ask the voice question. Point out that the stomach's digestive juices really are a strong acid, which is why vomit tastes sour and burns the throat.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Start a food diary (page 95)",
+          "mins": 10,
+          "do": "Start the 'Getting started' task from page 95 now, because it needs two days. Rule a page into columns: Day, Meal (breakfast, lunch, snack, dinner), What I ate and drank, Amount. Your child fills in everything they ate yesterday (help them remember: poha and milk? roti-sabzi and dahi? the biscuits after school?) and keeps filling it in through today and tomorrow, including water and snacks. Tell them not to change what they eat because they are writing it down: scientists record honestly."
+        }
+      ],
+      "need": ["Learner's Book pages 91–92 and 95", "tincture of iodine or povidone-iodine (Betadine), a dropper", "2 small pieces of white bread or plain cooked rice", "2 saucers and a spoon", "an old shirt or apron", "notebook for the food diary"],
+      "prep": [{"task": "Buy a small bottle of tincture of iodine or povidone-iodine from a chemist", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Rabbits, cats, cows and the mystery of the appendix",
+      "goal": "Compare the digestive systems of a plant-eater and a meat-eater with ours, find out about the appendix and weigh a live debate, and check our understanding.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Digestive systems of other animals (page 93)",
+          "mins": 8,
+          "do": "Read page 93: many vertebrates have a digestive system similar to ours. Look at the cat and rabbit diagrams side by side and point to each label: mouth, oesophagus, stomach, small intestine, large intestine, appendix, anus. Ask question 1: which parts are the same as ours? (All the main parts.) Question 2: compare them. a) Both have an oesophagus. b) The cat's stomach is bigger. c) The rabbit's small intestine is much longer. d) The rabbit's large intestine is longer and its appendix is very large. Question 3: digestion probably takes longer in the rabbit, because grass and leaves are hard to break down. Question 4: they are different because a cat eats meat (easy to digest) and a rabbit eats plants (full of tough fibre)."
+        },
+        {
+          "kind": "talk",
+          "title": "The cow's four rooms",
+          "mins": 7,
+          "do": "Bring the idea home with the cow or buffalo your child has seen. Explain: a cow's stomach has four parts. It swallows grass quickly into the first and largest part, the rumen, where huge numbers of tiny microbes help break down the tough plant fibre. Later the cow brings a soft ball of it back up to chew again: chewing the cud (jugaali in Hindi). Next time you see a cow lying down and chewing with nothing in its mouth, it is chewing the cud. Ask: 'Why does a cow need so much more help to digest its food than a cat or a dog?' (Grass is full of fibre that is very hard to break down.)"
+        },
+        {
+          "kind": "think",
+          "title": "Find out about the appendix (Activity 2, page 94)",
+          "mins": 10,
+          "do": "Do Activity 2 on page 94: what is an appendix and what does it do in different animals? Tell your child what you find together from a book or a reliable website: the appendix is a small finger-shaped pouch where the small and large intestines meet; in rabbits it is large and full of microbes that help digest plants; in humans it is small, and if it gets infected (appendicitis) it can swell and must often be removed by a surgeon. Then tell the story in Voice v2 about the argument over whether the human appendix is useless or useful. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: The digestive system",
+          "mins": 15,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For any wrong answer go back to the page: organs page 89, model page 90, starch test page 92, animals page 93. Let your child correct their own answer in a different colour. Then read the 'Look what I can do' list on page 94 and tick the ones they can do.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "do",
+          "title": "Food diary check",
+          "mins": 5,
+          "do": "Your child adds today's breakfast and lunch to the food diary started on Day 4. Remind them to write water and snacks too, and how much (one katori, two rotis, one glass)."
+        }
+      ],
+      "need": ["Learner's Book pages 93–94", "worksheet ws1", "a book or reliable website for the appendix research", "the food diary"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "What is a balanced diet?",
+      "goal": "Look back at the food diary, learn the food groups and what each does, and understand good and less healthy carbohydrates, water, fibre, vitamins and minerals.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Getting started: what did I eat? (page 95)",
+          "mins": 7,
+          "do": "Read the 'We are going to' box on page 95. Finish the food diary and answer the 'Getting started' questions. 2: Which foods did you eat most of? (Often rice or roti.) 3: How many fruits and vegetables did you eat? Count them. 4: Did you eat any foods you think are not so healthy? (Chips, biscuits, cold drinks, mithai.) 5: Share your answers: here, with a parent or sibling, who shares their own diary too."
+        },
+        {
+          "kind": "read",
+          "title": "The food groups (page 96)",
+          "mins": 10,
+          "do": "Read 'What is a balanced diet?' on page 96 and look at the food pyramid. Our diet is all the food we eat; a balanced diet means the right kinds of food in the right amounts, from all the food groups. From the bottom: fruit and vegetables contain vitamins and minerals that keep us healthy (eat lots); carbohydrates give us energy (bread, potatoes, rice, pasta); proteins build our bodies and make us grow (meat, eggs, fish, milk, beans); at the top, fats, oils and sugar store energy but too much can be harmful (eat least). Then make an Indian pyramid together: your child draws a big triangle and fills each layer with foods from your own kitchen: sabzi, fruit, salad (bottom); rice, roti, poha, idli, ragi (carbohydrates); dal, rajma, chana, paneer, dahi, eggs, fish, chicken, soya (proteins); ghee, oil, butter, sugar, jaggery, mithai (top)."
+        },
+        {
+          "kind": "read",
+          "title": "Good and bad carbohydrates (page 96)",
+          "mins": 6,
+          "do": "Read 'Good and bad carbohydrates' on page 96: we need carbohydrates for energy, but not all are good for us. Sugar is a carbohydrate; cakes, candy and cola contain a lot of it, and too much sugar is not healthy. White bread and white rice are not as healthy as whole-wheat bread and brown rice. Explain why simply: whole grains keep the outer layer, which has fibre, vitamins and minerals, and they release energy slowly; white flour (maida) and polished rice have lost much of that. Ask: 'Which is closer to whole grain: a phulka from atta or a maida naan?' (The atta phulka.) Millets like ragi, jowar and bajra are whole grains too."
+        },
+        {
+          "kind": "read",
+          "title": "Water, fibre, vitamins and minerals (page 97)",
+          "mins": 10,
+          "do": "Read page 97. Water: substances are carried round the body dissolved in water, including in the blood; we need water for digestion; sweat cools us; wastes leave the body in water. Fibre comes from plants; our body cannot completely digest most fibre, but it helps food pass easily through the digestive system: vegetables, fruit, beans, lentils, brown rice, whole-wheat bread. Vitamins and minerals keep the body working properly; fresh foods have lots of them. Calcium makes bones and teeth strong (milk, dahi, ragi, paneer, sesame); iron is needed for healthy blood (green leafy vegetables like palak and methi, jaggery, dates, meat, eggs, dals); sodium is a mineral in salt, and too much salt is unhealthy (papad, pickles, chips, namkeen are very salty)."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–5 (page 97)",
+          "mins": 12,
+          "do": "Ask questions 1–5 on page 97 using the pyramid on page 96 and your Indian pyramid. 1: Name one food from each group that you like. 2: We should eat most of fruit and vegetables (and carbohydrates). 3: Least of fats, oils and sugar. 4: Proteins build our muscles and help us grow. 5: Your child suggests a healthy school tiffin with foods from three groups, for example: a vegetable paratha with dahi and a guava; or idli with sambar and a banana; or a sprouts chaat with a whole-wheat sandwich. Write the best one down and pack it for tomorrow."
+        }
+      ],
+      "need": ["Learner's Book pages 95–97", "the completed food diary", "chart paper and coloured pencils for the Indian food pyramid"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Is my diet balanced? Labels and starch hunts",
+      "goal": "Judge our own diet, read a packet's nutrition label and draw a bar chart, then ask and answer our own question about foods using the iodine test.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Talk about balanced diets (Activity, page 98)",
+          "mins": 7,
+          "do": "Do the 'Talk about balanced diets' activity on page 98 using the food diary. 6: For each food, which food group(s) does it contain? (Dal: protein and carbohydrate; aloo paratha: carbohydrate and fat; kheer: carbohydrate, protein, fat and sugar.) 7: Are there foods from each group? 8: Does any food contain fibre? 9: How much water do you drink each day? Count glasses: a child your age needs roughly 6–8 glasses, more in hot weather. 10: Is your diet balanced? Your child gives one thing to eat more of and one to eat less of. Then choose 'How am I doing?'"
+        },
+        {
+          "kind": "do",
+          "title": "Draw a bar chart of food groups (Think like a scientist 1, page 98)",
+          "mins": 13,
+          "do": "Do Think like a scientist 1 on page 98 with a real packet: a packet of instant noodles if you have one, or any packaged snack such as biscuits or chips. Find the 'Nutritional information' table on the back; it gives grams per 100 g of carbohydrate, protein, fat and often sugar and fibre. 1: Your child draws a bar chart with the food groups along the bottom and grams up the side (count in 5s or 10s). 2: Is instant noodles a balanced meal for Zara? Good answer: 'No. It is mostly carbohydrate and fat, with little protein, fibre, vitamins or minerals, and lots of salt (sodium). It could be part of a meal if we added vegetables, an egg or some paneer.' Look for the sodium figure and compare it to how much salt the body needs."
+        },
+        {
+          "kind": "exp",
+          "title": "Ask a question to investigate (Think like a scientist 2, page 99)",
+          "mins": 17,
+          "do": "Do Experiment e2. Your child thinks of a question using the iodine test, for example: 'Which of our foods contain starch?' or 'Does a potato have more starch than an apple?' Plan as the book asks: 2a) what will you observe? (The colour of the iodine: the dependent variable); b) what will you keep the same? (The size of the food piece, one drop of iodine, the time we wait: control variables); c) what will you change? (The food: the independent variable). 3: materials: small pieces of raw potato, cooked rice, roti, apple, banana, paneer, boiled egg white, cucumber, a pinch of sugar and of salt, on a white plate. 4: Record in a table with ticks for 'blue-black' and crosses for 'stayed brown'. 5: Carry it out and write a conclusion: 'Rice, roti, potato and (unripe) banana contain starch; paneer, egg, sugar and salt do not.'",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Kamala Sohonie and the palm drink",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: Kamala Sohonie had to fight to be allowed into India's top science institute because she was a woman, became the first Indian woman to earn a PhD in science, and later studied the nutrition in neera, a drink from palm sap, to help poor and undernourished children. Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": ["Learner's Book pages 98–99", "the food diary", "an empty packet of instant noodles, biscuits or chips with a nutrition label", "squared paper, ruler", "iodine and a dropper", "a white plate, small pieces of 8–10 foods (potato, rice, roti, apple, banana, paneer, egg, cucumber, sugar, salt)"],
+      "prep": [{"task": "Keep aside an empty snack packet with its nutrition label; boil one egg", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Project: James Lind and vitamin C",
+      "goal": "Read how James Lind tested six treatments for scurvy, analyse his results as a fair test, and make a vitamin chart of Indian foods.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The discovery of vitamin C (page 100)",
+          "mins": 10,
+          "do": "Read Project Part 1 on page 100 aloud. James Lind was a Scottish ship's doctor. Sailors on long voyages got scurvy: sores on their bodies, bleeding gums, teeth falling out; many died. No one knew why. Some doctors blamed food that was not properly digested, bad water, too much hard work or damp conditions. Lind read all the reports he could find and then tested 6 treatments on 12 sailors with scurvy: two each got an apple drink, seawater, a mixture of garlic, mustard and dried radish root, vinegar, weak sulfuric acid, or oranges and lemons. Look at the results table together: after 14 days, only the oranges and lemons group had no signs of scurvy; the apple drink group had some improvement. Read the last lines: he did not know why it worked; only in the 1930s did scientists identify the substance, vitamin C."
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss questions 1–6 (page 101)",
+          "mins": 12,
+          "do": "Discuss questions 1–6 on page 101. 1: Sores, bleeding gums, teeth falling out, and death. 2: Badly digested food, bad water, hard work, damp. 3: He read reports and did an investigation with six treatments. 4: Oranges and lemons, because those sailors had no signs of scurvy after 14 days. 5: The apple drink must contain a little of the same substance (some vitamin C). 6a: Something in citrus fruits prevents and cures scurvy. 6b: We now know it is vitamin C, which the body needs to make strong skin, gums and blood vessels, because scientists in the 1930s separated it from foods and tested it. Then ask: 'What made Lind's test fair?' (All the sailors had scurvy, ate the same ship's food, and only the treatment changed.) 'What could have made it better?' (More than two sailors per group, to be sure the result was not luck.)"
+        },
+        {
+          "kind": "think",
+          "title": "Why did the navy wait?",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: Lind published his results in 1753, but it took more than forty years before the British navy gave all its sailors lemon juice. Ask the voice question. Help your child see that one good experiment is often not enough to change what people do.",
+          "ref": "v4"
+        },
+        {
+          "kind": "act",
+          "title": "Which foods contain vitamins? (Part 2, page 101)",
+          "mins": 16,
+          "do": "Do Activity a3, Part 2 of the project. Your child researches (using a children's encyclopaedia or a trusted website with you) which foods contain vitamins A, B group, C, D, E and K, choosing Indian foods. Help them check: A: carrots, mango, papaya, pumpkin, palak, milk and ghee; B group: whole grains, dals, eggs, milk, groundnuts; C: amla, guava, oranges, lemon, tomatoes, capsicum (amla and guava have far more than oranges); D: made in our skin in sunlight, also in eggs and oily fish; E: nuts, seeds and vegetable oils; K: green leafy vegetables. Then they make a vitamin chart on chart paper with a title, pictures and labels that tell people which foods have which vitamins and why we need them.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Learner's Book pages 100–101", "a children's encyclopaedia or trusted website", "chart paper, coloured pens, pictures from old magazines or food packets", "an amla or guava to show"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress, try the stretch and challenge sheets, and have your child teach the digestive system back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 102–103)",
+          "mins": 12,
+          "do": "Work through Check your progress on pages 102–103. 1: a oesophagus, b small intestine, c stomach, d large intestine, e mouth. 2: correct order: e, a, c, b, d. 3: a true; b false (proteins help us grow; fats store energy); c false (fibre helps food move through the gut, it does not give much energy); d false (we need water; juice and cola have lots of sugar); e true; f true. 4: Arun's lunch: a chicken helps him grow; b noodles give energy; c the orange gives vitamins and minerals; d change the cola to water or nimbu pani without much sugar, and add vegetables to the noodles or swap them for whole-wheat roti. 5: Mrs Pather's cans: a butterbeans have most protein (15 g); b creamed corn has most sugar (9 g); c calcium and iron; d butterbeans; e they have more protein, much more fibre (12 g against 3 g), more calcium and less sugar."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Food and digestion in real life",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Read the questions aloud. For the thali question, a balanced answer has a whole grain, a dal or other protein, a vegetable, some dahi and only a little ghee or sweet. Mark it together.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Thinking like a doctor",
+          "mins": 7,
+          "do": "Do section A of Worksheet ws3 (challenge) now and sections B and C over the weekend. Talk each question through before your child writes. For the long-intestine question, listen for 'more time and more surface for food particles to pass into the blood'.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 7,
+          "do": "Ask the 8 check questions aloud without the book. Tick each one answered well. For any missed answer open the right page (organs page 89, starch test page 92, food groups page 96, water and fibre page 97, Lind page 100) and look together for a minute, then ask again in different words. Six or more is good; fewer than five means repeat Days 2 and 6 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 11,
+          "do": "Your child is the teacher. Using their model digestive system from Activity a2, the body outline, the Indian food pyramid and the vitamin chart, they teach you in 6 minutes: the journey of a roti from mouth to anus, what each organ does, how food gets into the blood, and what a balanced meal looks like. Ask two 'student' questions: 'Why did the chewed bread go less blue with iodine?' and 'Why did Lind's oranges work?' Finish by planning one balanced family dinner together for tomorrow.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Learner's Book pages 102–103", "worksheets ws2 and ws3", "the model digestive system, body outline, food pyramid and vitamin chart"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "The digestive system",
+      "day": 5,
+      "sections": [
+        ["A. Parts in order", [
+          {"t": "table", "p": "Write the parts of the digestive system in order, and one job of each.", "cols": ["Order", "Part", "Job"], "rows": 6, "prefill": ["1", "2", "3", "4", "5", "6"]},
+          {"t": "match", "p": "Match each part to its job.", "pairs": [["Mouth", "Teeth chop food; saliva moistens it"], ["Oesophagus", "Muscles squeeze food down to the stomach"], ["Stomach", "Mixes food with juices into a thick liquid"], ["Small intestine", "Digested particles pass into the blood"], ["Large intestine", "Takes water back into the blood"]]}
+        ]],
+        ["B. Digestion facts", [
+          {"t": "fill", "p": "Breaking food into tiny particles the body can use is called ____.", "a": ["digestion"]},
+          {"t": "fill", "p": "Digested food is carried to every part of the body in the ____.", "a": ["blood"]},
+          {"t": "mcq", "p": "When iodine is dropped on bread it turns blue-black. This shows the bread contains:", "opts": ["Protein", "Fat", "Starch", "Water"], "a": 2},
+          {"t": "mcq", "p": "Why did chewed bread turn less blue-black?", "opts": ["The bread got wet", "Saliva broke down some of the starch into sugar", "The iodine was old", "Chewing adds starch"], "a": 1}
+        ]],
+        ["C. Other animals", [
+          {"t": "write", "p": "A rabbit's small intestine is much longer than a cat's. Why?", "lines": 3},
+          {"t": "draw", "p": "Draw and label the human digestive system."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Food and digestion in real life",
+      "day": 9,
+      "sections": [
+        ["A. Food groups", [
+          {"t": "sort", "p": "Sort these foods by their MAIN food group.", "items": ["Rice", "Moong dal", "Ghee", "Guava", "Paneer", "Ragi roti", "Palak", "Jalebi", "Egg", "Potato"], "cats": ["Carbohydrate", "Protein", "Fat or sugar", "Fruit and vegetables"]},
+          {"t": "mcq", "p": "Which food is the best source of fibre?", "opts": ["A maida biscuit", "Rajma", "A cold drink", "Butter"], "a": 1}
+        ]],
+        ["B. Plan a thali", [
+          {"t": "draw", "p": "Draw a balanced lunch thali for a 10-year-old. Label each item with its food group."},
+          {"t": "write", "p": "Rohan eats chips, a samosa and a cola after school every day. Suggest two changes and explain why using the words fibre, sugar and salt.", "lines": 4}
+        ]],
+        ["C. Read a label", [
+          {"t": "table", "p": "Copy the nutrition label from a packet at home.", "cols": ["Nutrient", "Grams per 100 g"], "rows": 6, "prefill": ["Carbohydrate", "of which sugar", "Protein", "Fat", "Fibre", "Sodium"]},
+          {"t": "write", "p": "Is this packet food healthy to eat every day? Give two reasons from the label.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a doctor",
+      "day": 9,
+      "sections": [
+        ["A. Explain it", [
+          {"t": "write", "p": "The small intestine is about 7 metres long but fits in your tummy. Why is it useful for it to be so long?", "lines": 3},
+          {"t": "write", "p": "Astronauts can swallow food in space where nothing 'falls'. How?", "lines": 2},
+          {"t": "mcq", "p": "Most of the water from our food is taken back into the blood in the:", "opts": ["Mouth", "Oesophagus", "Large intestine", "Anus"], "a": 2}
+        ]],
+        ["B. Design a fair test", [
+          {"t": "write", "p": "Plan a fair test to find out whether a ripe banana or an unripe (green) banana has more starch. What will you change, observe and keep the same? What do you predict, and why?", "lines": 5},
+          {"t": "write", "p": "Lind used only two sailors per treatment. Why would twenty per group have been better? Why might it have been hard to do?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Doctors once said ulcers were caused by stress, and Marshall and Warren said a germ caused them. What evidence finally changed doctors' minds? Why was drinking the germ a risky way to get evidence?", "lines": 4},
+          {"t": "write", "p": "Some scientists say the human appendix is useless; others say it stores helpful gut microbes. What would you need to measure to find out who is right?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Investigate digestion in the mouth (Think like a scientist 2, page 92)",
+      "day": 4,
+      "question": "Does saliva change the starch in bread?",
+      "need": ["tincture of iodine or povidone-iodine (Betadine), slightly diluted", "a dropper", "2 small pieces of white bread or plain cooked rice", "2 white saucers", "a spoon", "an apron or old shirt"],
+      "steps": [
+        "Put a small piece of bread on the first saucer.",
+        "The adult adds one drop of iodine. Observe the colour and record it.",
+        "Your child puts a second small piece of bread in their mouth and chews it for about three minutes without swallowing, noticing any change in taste.",
+        "They spit the chewed bread onto the second saucer using the spoon.",
+        "The adult adds one drop of iodine. Observe the colour and compare with the first saucer.",
+        "Wash the saucers, the spoon and hands. Throw the bread away."
+      ],
+      "predict": "Ask your child to guess first: will the chewed bread go the same blue-black colour as the fresh bread, a lighter colour, or stay brown? Will its taste change while you chew?",
+      "observe": "Fresh bread: dark blue-black. Chewed bread: lighter, patchy blue, purple or brown. After two or three minutes of chewing the bread begins to taste slightly sweet.",
+      "why": "Starch is made of very long chains of sugar units joined together, too big to pass into the blood. Iodine fits inside the coils of those long starch chains, and that is what makes the blue-black colour. Saliva contains a digestive enzyme called amylase, a natural chemical that cuts starch chains into much smaller sugars. Once the chains are cut, iodine has fewer coils to sit in, so the colour is weaker, and the sugar released is why the bread tastes sweeter. This shows that digestion is not only crushing food; it is chemical breaking-down, and it begins in the mouth. Chewing well gives saliva more time and more surface to work on.",
+      "safety": "Iodine stains clothes and skin and is harmful if swallowed. Only the adult uses the dropper. Never put iodine-tested food back into the mouth.",
+      "time": "22 min"
+    },
+    {
+      "id": "e2",
+      "title": "Which foods contain starch? (Think like a scientist 2, page 99)",
+      "day": 7,
+      "question": "Which of the foods in our kitchen contain starch?",
+      "need": ["iodine and a dropper", "a large white plate or several saucers", "pea-sized pieces of: raw potato, cooked rice, roti, apple, ripe banana, unripe banana if available, paneer, boiled egg white, cucumber, a pinch of sugar, a pinch of salt", "labels", "a results table"],
+      "steps": [
+        "Write the question and your prediction for each food.",
+        "Put pea-sized pieces of each food on the plate, well apart, and label them.",
+        "The adult adds exactly one drop of iodine to each.",
+        "Wait one minute for every food (the same time).",
+        "Record the colour: blue-black (starch) or brown-orange (no starch).",
+        "Write a conclusion and name your dependent, independent and control variables."
+      ],
+      "predict": "Ask your child to guess first: which foods will turn blue-black? Will sugar, which is a carbohydrate, turn blue-black too?",
+      "observe": "Blue-black: potato, rice, roti, unripe banana (and often ripe banana slightly). Stays brown-orange: paneer, egg white, cucumber, sugar, salt; apple usually little or none.",
+      "why": "The iodine test shows starch only. Plants store the food they make as starch in grains, seeds and tubers, which is why rice, wheat and potato test strongly. Paneer and egg are mostly protein and fat, so there is no starch. Sugar is also a carbohydrate, but it is made of small units, not long chains, so iodine has nothing to coil inside and stays brown: this shows that 'carbohydrate' includes both starch and sugars. As a banana ripens, the plant's enzymes change its starch into sugar, which is why ripe bananas are sweeter and give a weaker starch test. Keeping the piece size, number of drops and waiting time the same makes the comparison fair.",
+      "safety": "Only the adult uses the iodine. Do not eat any tested food. Wash hands and the plate afterwards.",
+      "time": "17 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Digestion in a bag (Activity 1, pages 89–90)",
+      "day": 2,
+      "mins": 22,
+      "need": ["a cracker biscuit and half a banana", "a sealable plastic bag", "half a cup of water and a splash of orange juice", "one leg of old tights with the foot cut open", "a squeezy bottle with its base cut off", "a tray, newspaper"],
+      "steps": [
+        "Put the biscuit and banana into the plastic bag.",
+        "Add the water and orange juice.",
+        "Seal, twist and squash the bag until everything is a mush.",
+        "Pour the mush into the tights leg over the tray.",
+        "Squeeze from the top down until no more liquid comes out into the tray.",
+        "Put what is left into the wide end of the squeezy bottle and squeeze it out through the nozzle onto newspaper.",
+        "Match each object to a part of the digestive system."
+      ],
+      "outcome": "A messy but memorable model of digestion: the bag as stomach, the tights as small intestine with liquid passing into the 'blood' tray, and the bottle as large intestine and anus, with a list of how real digestion differs."
+    },
+    {
+      "id": "a2",
+      "title": "Waste-material model digestive system (Think like a scientist 1, page 91)",
+      "day": 3,
+      "mins": 27,
+      "need": ["a large piece of cardboard", "plastic tubing or a long balloon", "a balloon or small plastic bag", "old tights, string or many paper tubes", "a cardboard tube or cut bottle", "a paper cup", "elastic bands, tape, glue or sticky putty", "scissors, paper for labels"],
+      "steps": [
+        "Make a plan: each part, its job, and the material that suits it.",
+        "Fix the paper cup (mouth) at the top of the cardboard.",
+        "Attach the oesophagus tube leading to the stomach bag.",
+        "Join a long, coiled small intestine to the stomach and fix it down in loops.",
+        "Fix a wider, shorter large intestine around the small intestine.",
+        "Close the end with an elastic band for the anus.",
+        "Add labels with each part's job, and explain the model to someone."
+      ],
+      "outcome": "A labelled model of the whole digestive system made from waste materials, in the correct order, where the materials are chosen to match each organ's shape and job."
+    },
+    {
+      "id": "a3",
+      "title": "Indian foods vitamin chart (Project Part 2, page 101)",
+      "day": 8,
+      "mins": 16,
+      "need": ["a children's encyclopaedia or trusted website", "chart paper", "coloured pens", "pictures cut from food packets or magazines"],
+      "steps": [
+        "Make six boxes: vitamins A, B group, C, D, E and K.",
+        "Research two or three Indian foods rich in each and what each vitamin does.",
+        "Draw or stick pictures of the foods in each box.",
+        "Add a title and one line on why we need each vitamin.",
+        "Add a 'Star food' sticker to amla and guava for vitamin C.",
+        "Put the chart up in the kitchen."
+      ],
+      "outcome": "A colourful kitchen chart showing which everyday Indian foods give which vitamins, for the family to use when planning meals."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Barry Marshall (born 1951) and Robin Warren (1937–2024), Australia",
+      "idea": "In the early 1980s, Warren, a pathologist in Perth, saw curved bacteria in samples from inflamed stomachs. With Marshall, a young doctor, he found these bacteria (later named Helicobacter pylori) in most patients with stomach ulcers and argued that the bacteria, not stress or spicy food, cause most ulcers, and that antibiotics could cure them.",
+      "then": "Most doctors refused to believe it; they were taught that no bacteria could survive in the acid of the stomach, and that ulcers came from stress, diet and too much acid. In 1984, to prove his point, Marshall drank a culture of the bacteria, became ill with stomach inflammation within days, and then cured himself with antibiotics.",
+      "now": "After many more studies, their idea became accepted. Treating H. pylori with antibiotics is now the standard way to cure most stomach ulcers, and Marshall and Warren received the Nobel Prize in Physiology or Medicine in 2005.",
+      "status": "accepted",
+      "ask": "Marshall made himself ill to get evidence. Was that a good way to do science? What other kinds of evidence would convince doctors?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "The appendix debate: Charles Darwin (1871) and William Parker and colleagues (2007 onwards)",
+      "idea": "Darwin suggested that the human appendix is vestigial: a shrunken leftover of a larger pouch our plant-eating ancestors used to digest leaves, now with no use. In 2007 a team at Duke University in the USA led by William Parker proposed that the appendix may act as a 'safe house' for helpful gut bacteria, which can regrow and refill the large intestine after an illness such as severe diarrhoea washes them out.",
+      "then": "For more than a century most textbooks called the appendix useless, partly because people live normally after it is removed.",
+      "now": "Debated. Some studies support a role in immunity and in storing gut microbes, and researchers have noted that an appendix has appeared many times in different groups of mammals, which hints it is useful. Others think the evidence is still weak. Everyone agrees that an infected appendix (appendicitis) is dangerous and is often removed by surgeons.",
+      "status": "debated",
+      "ask": "People without an appendix seem healthy. Does that prove it is useless? What would you need to compare to find out?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Kamala Sohonie (1911–1998), India",
+      "idea": "Sohonie, a biochemist from Mumbai, studied the proteins in Indian pulses and, at Cambridge University in England, found that a substance called cytochrome C, important for turning food into energy, is present in all plant cells. In 1939 she became the first Indian woman to receive a PhD in a science subject. Back in India she studied the nutrition in neera, a drink made from the sap of palm trees, and found it contained useful amounts of vitamin C and other nutrients, and suggested it could help undernourished children and pregnant women.",
+      "then": "In 1933, when she applied to the Indian Institute of Science in Bengaluru, its director C.V. Raman at first refused to admit her because she was a woman; she was accepted on strict conditions and her excellent work helped open the door for women who came after her.",
+      "now": "Her findings are accepted and she is honoured as a pioneer for Indian women in science. She received the Rashtrapati Award for her work on neera.",
+      "status": "accepted",
+      "ask": "Sohonie studied a cheap, local drink to help poor children eat better. Why might a local food be better for a community than an expensive imported pill?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "James Lind (1716–1794), Scotland",
+      "idea": "In 1747, on the ship HMS Salisbury, Lind divided 12 sailors with scurvy into six pairs and gave each pair a different treatment while they all ate the same food. The pair given oranges and lemons recovered fastest. He published the result in 1753 in 'A Treatise of the Scurvy'. It is often called one of the first controlled clinical trials.",
+      "then": "His result was not acted on for decades. Lind himself was not sure it was the only answer and recommended other remedies too; fresh fruit was costly and hard to keep on long voyages, and a boiled-down juice he suggested lost most of its effect. Only in 1795 did the British Royal Navy begin giving lemon juice to all its sailors, after the doctor Gilbert Blane pushed for it.",
+      "now": "We know scurvy is caused by lack of vitamin C, which was identified in the 1930s. Lind's method of comparing treatments in groups that are otherwise alike is the basis of how all new medicines are tested today.",
+      "status": "accepted",
+      "ask": "Lind had a clear result but it took 40 years for the navy to act. Why can one good experiment fail to change people's minds? What would you do to convince them?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {"q": "Name the parts of the digestive system in order, starting with the mouth.", "a": "Mouth, oesophagus, stomach, small intestine, large intestine, anus."},
+    {"q": "Why does our food need to be digested?", "a": "Because the body cannot use large pieces of food; it must be broken down into particles small enough to pass into the blood and be carried to every part of the body."},
+    {"q": "What happens to food in the mouth and in the stomach?", "a": "In the mouth, teeth chop it and saliva moistens it and starts digesting starch. In the stomach, it is churned with digestive juices into a thick, porridge-like liquid."},
+    {"q": "Where does digested food pass into the blood, and what does the large intestine do?", "a": "In the small intestine. The large intestine takes water back into the blood and pushes solid undigested waste out through the anus."},
+    {"q": "How do you test a food for starch, and how do you stay safe?", "a": "Add a drop of iodine solution; it turns from yellow-brown to blue-black if starch is present. Do not swallow or taste iodine, and keep it off clothes; an adult handles it."},
+    {"q": "Why is a rabbit's digestive system different from a cat's?", "a": "A rabbit eats plants full of tough fibre, so it needs a longer intestine and a large appendix and takes longer to digest; a cat eats meat, which is easier to digest."},
+    {"q": "What is a balanced diet? Give an Indian meal that is balanced.", "a": "Eating the right kinds of food in the right amounts: plenty of fruit and vegetables and whole-grain carbohydrates, some protein, only a little fat and sugar, plus water and fibre. For example: whole-wheat roti, dal, a green sabzi, dahi and a fruit."},
+    {"q": "What did James Lind find out, and why was his investigation fair?", "a": "That oranges and lemons cure scurvy. It was fair because all the sailors had scurvy and ate the same food, and only the treatment was changed between the pairs."}
+  ]
+}
