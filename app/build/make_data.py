@@ -57,7 +57,7 @@ for f in sorted(glob.glob(os.path.join(RES_DIR, "*.json"))):
         u = r["url"].rstrip("/").lower()
         if u in _seen: continue
         _seen[u] = 1; RESOURCES.append({k: r[k] for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc", "concepts") } | ({"how": r["how"]} if r.get("how") else {}) | ({"chapters": r["chapters"]} if r.get("chapters") else {}))
-RCONCEPTS = [{k: c[k] for k in ("id", "concept", "chapters")} for c in json.load(open(os.path.join(RES_DIR, "concepts.json")))]
+RCONCEPTS = [{k: c[k] for k in ("id", "concept", "chapters", "plus")} for c in json.load(open(os.path.join(RES_DIR, "concepts.json")))]
 
 topics = []
 for t in T:

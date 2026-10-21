@@ -439,6 +439,8 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 .row.chips{gap:6px;flex-wrap:wrap;min-width:0}.chip.xs{white-space:normal;max-width:100%;font-size:12px;padding:5px 10px;min-height:0;height:auto;text-align:left;line-height:1.25}
 .invi{display:flex;gap:8px;justify-content:space-between;align-items:flex-start;padding:10px 0;border-top:1px solid var(--line)}.invi b{font:600 15.5px var(--display)}
 .extras{display:grid;gap:6px;margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}.rescard a{text-decoration:none}
+
+.card.hub{gap:0;padding-top:16px;padding-bottom:16px}.hub summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:8px}.hub summary::-webkit-details-marker{display:none}.hub summary b{font:600 16.5px var(--display)}.hub summary::after{content:"›";font-size:22px;color:var(--muted);transition:transform .2s}.hub[open] summary::after{transform:rotate(90deg)}.hubb{display:grid;gap:8px;margin-top:10px}
 </style>
 
 <header class="top"><div class="wrap">
@@ -465,6 +467,18 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -835,6 +849,32 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+function plusFor(u){const ids=new Set([...(u.dk||[]),...(DATA.rconcepts||[]).filter(c=>c.chapters.includes(u.k)).flatMap(c=>c.plus||[])]);if(u.board==="dk")ids.delete(u.n);return [...ids].map(id=>DATA.topics.find(t=>t.id===id)).filter(Boolean).slice(0,3)}
+const hubSec=(id,title,count,body,open)=>body?`<details class="card hub" ${open?"open":""}><summary><b>${title}</b>${count!=null?`<span class="pill">${count}</span>`:""}</summary><div class="hubb">${body}</div></details>`:"";
+function chapterHub(u){const P=u.c?.p,x=u.c?.x,c=u.c||{},plus=plusFor(u),res=resSort(resourcesFor(u)),shelf=shelfFor(u);let h=`<div class="sech" style="margin-top:6px"><h3 style="font-size:19px">Everything for this chapter</h3></div>`;
+  const ideas=[P?`<p class="sm">${esc(P.summary)}</p>`:c.covers?`<p class="sm">${esc(c.covers)}</p>`:"",P?.goals?.length?`<span class="eyebrow">By the end your child can</span>${pkList(P.goals.map(g=>g.replace(/^By the end your child can\s*/i,"")))}`:"",x?.learn?`<span class="eyebrow">Big ideas</span>${x.learn.map((l,i)=>`<div class="idea"><span class="k">${i+1}</span><p class="sm">${esc(l)}</p></div>`).join("")}`:"",P?.words?.length?`<span class="eyebrow">Key words</span><div class="kv">${P.words.map(([w,m])=>`<span>${esc(w)}</span><b style="font-weight:400">${esc(m)}</b>`).join("")}</div>`:""].join("");
+  h+=hubSec("ideas","Big ideas and key words",null,ideas,false);
+  const pv=[...plus.map(t=>`<div class="pk"><span class="eyebrow">DeepKids Plus · ${esc(t.id)}</span><b>${esc(t.name)}</b><p class="sm">${esc(t.summary)}</p>${t.oneness?`<div class="ask"><span class="eyebrow">Wonder together</span>${esc(t.oneness)}</div>`:""}</div>`),...(x?.deep||[]).map(d=>`<div class="pk"><span class="eyebrow">Big question</span><b>${esc(d.q)}</b><p class="sm">${esc(d.why)}</p>${(d.views||[]).map(([w,v])=>`<p class="sm"><b>${esc(w)}:</b> ${esc(v)}</p>`).join("")}${d.tryit?`<p class="sm"><b>Try this:</b> ${esc(d.tryit)}</p>`:""}</div>`)].join("");
+  h+=hubSec("plus","DeepKids view and big questions",plus.length+(x?.deep?.length||0)||null,pv,false);
+  if(P?.voices?.length)h+=hubSec("voices","Other scientists and challenging views",P.voices.length,`<p class="xs muted">Some were laughed at and later proved right; some are still argued over; some turned out wrong.</p>${P.voices.map(pkVoice).join("")}`,false);
+  const ws=[...(P?.worksheets||[]).map(w=>pkWs(u,w)),x?.wsd?`<div class="pk"><span class="eyebrow">Chapter worksheet</span><b>${x.wsd.length} sections</b><div class="row"><button class="btn accent sm" data-act="ws" data-k="${u.k}">Open the worksheet</button></div></div>`:""].join("");
+  h+=hubSec("ws","Worksheets",(P?.worksheets?.length||0)+(x?.wsd?1:0)||null,ws,false);
+  const lab=[...(P?.experiments||[]).map(e=>pkExp(u,e)),...(P?.activities||[]).map(a=>pkAct(u,a)),...(!P?(c.exp||[]).map(e=>`<div class="pk"><span class="eyebrow">Experiment</span><p class="sm">${esc(e)}</p></div>`):[]),...(!P?(c.act||[]).map(e=>`<div class="pk"><span class="eyebrow">Activity</span><p class="sm">${esc(e)}</p></div>`):[]),c.game?`<div class="pk"><span class="eyebrow">Game</span><b>${esc(c.game[0])}</b><p class="sm">${esc(c.game[1])}</p></div>`:"",c.proj?`<div class="pk"><span class="eyebrow">Project</span><b>${esc(c.proj[0])}</b><p class="sm">${esc(c.proj[1])}</p></div>`:""].join("");
+  h+=hubSec("lab","Experiments, activities and games",null,lab,false);
+  const rs=[shelf.length?`<div class="sm"><b>From your shelf:</b> ${shelf.map(i=>esc(i.name)).join(" · ")}</div>`:"",...res.slice(0,ui.hubres?99:6).map(r=>`<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ages ${r.ages[0]}–${r.ages[1]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b><span class="xs">${esc(r.desc)}</span></a>`),res.length>6&&!ui.hubres?`<button class="link xs" data-act="hubres" style="justify-self:start">Show all ${res.length}</button>`:"",...(c.read||[]).map(r=>`<div class="res"><span class="xs muted">Book</span><b>${esc(r)}</b></div>`)].join("");
+  h+=hubSec("res","Resources, books and your shelf",res.length+shelf.length+(c.read?.length||0)||null,rs,false);
+  if(P)h+=hubSec("days","The whole day plan",P.days.length+" days",packTab(u,"days"),false);
+  if(P?.check?.length)h+=hubSec("check","End-of-chapter check",P.check.length,`<ol class="sm">${P.check.map(q=>`<li>${esc(q.q)}<details><summary class="xs muted">Answer</summary><p class="sm">${esc(q.a)}</p></details></li>`).join("")}</ol>`,false);
+  if(x?.guide)h+=hubSec("guide","Parent guide",null,`<p class="sm">${esc(x.guide)}</p>`,false);
+  return h}
+function journeyChapters(){const last={};S.log.forEach(l=>{if(!last[l.key]||l.date>last[l.key])last[l.key]=l.date});Object.entries(S.progress||{}).forEach(([k,p])=>{if(!last[k])last[k]=p.updated||""});
+  const us=Object.keys(last).map(k=>unitByK(k)).filter(Boolean),fin=us.filter(u=>rank[coverage(u)]>=2),going=us.filter(u=>coverage(u)==="learning"),by=(a,b)=>(last[b.k]||"")>(last[a.k]||"")?1:-1;
+  if(!us.length)return `<section class="sec"><div class="sech"><h3>Chapters</h3></div><p class="note">Chapters you start and finish will be listed here, so you can open any of them again.</p></section>`;
+  const row=u=>`<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n)?u.n:esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${esc(unitLabel(u).split(" · ").slice(0,2).join(" · "))}${last[u.k]?" · last "+fmt(last[u.k]):""}${coverage(u)==="learning"?` · day ${Math.min(done(u.k)+1,sessionsFor(u))} of ${sessionsFor(u)} next`:""}</span></span>${pillS(coverage(u))}</button></div>`;
+  return `<section class="sec"><div class="sech"><h3>Chapters</h3><span class="xs muted">tap to open again</span></div>
+   ${going.length?`<span class="eyebrow">In progress · ${going.length}</span>${going.sort(by).map(row).join("")}`:""}
+   ${fin.length?`<span class="eyebrow" style="margin-top:6px">Done · ${fin.length}</span>${fin.sort(by).slice(0,ui.jall?999:8).map(row).join("")}${fin.length>8&&!ui.jall?`<button class="link" data-act="jall" style="justify-self:start">Show all ${fin.length}</button>`:""}`:""}</section>`}
+
 const BNAME={ncert:"NCERT",cambridge:"Cambridge",nios:"NIOS",dk:"DeepKids Plus",gen:"DeepKids"};
 function unitLabel(u){if(!u)return "";const L=u.board==="ncert"?"Class "+u.level:u.board==="cambridge"?"Stage "+u.level:u.board==="nios"?"Level "+(u.level<=3?"A":"B"):"";const n=u.board==="ncert"?"Ch "+u.n:u.board==="cambridge"?(/^\d+$/.test(u.n)?"Unit "+u.n:u.n):u.board==="nios"?"Lesson "+u.n:u.n;
   return `${BNAME[u.board]||""}${L?" "+L:""} · ${u.subj==="sci"?(u.board==="cambridge"?"Science":"EVS"):SUBJ[u.subj]||""} · ${n} ${u.title}`}
@@ -1158,7 +1198,7 @@ function itemDetail(it,date){const isT=date===today;
   if(it.kind==="lesson"){const st=stepState(it),prep=prepFor(it.u,it.n,it.tot).filter(p=>p.lead===0);return `<div class="sm muted" style="font-weight:700">${esc(it.u.book)}${chNo(it.u)?" · "+chNo(it.u):""} · day ${it.n} of ${it.tot}</div>
     <ol class="dsteps">${st.map(x=>`<li class="${x.ok?"ok":""}"><span>${esc(x.label)}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>
     ${prep.length?`<div class="sm"><b style="font-family:var(--display)">Have ready:</b> ${prep.map(p=>esc(p.task.replace(/^(Gather|Get) /,""))).join(" · ")}</div>`:""}
-    <div class="row">${isT&&!it.done?`<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${st.some(x=>x.ok)?"Keep going":"Start the lesson"}</button>`:""}<button class="btn soft sm" data-act="chapter" data-k="${it.u.k}">Chapter</button>${!it.done&&!it.bonus?`<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>`:""}${isT&&!it.done?(it.bonus?`<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>`:`<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`):""}</div>${lessonExtras(it.u)}`}
+    <div class="row">${isT&&!it.done?`<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${st.some(x=>x.ok)?"Keep going":"Start the lesson"}</button>`:""}${!isT||it.done?`<button class="btn soft sm" data-act="chapter" data-k="${it.u.k}">Everything for this chapter</button>`:""}${!it.done&&!it.bonus?`<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>`:""}${isT&&!it.done?(it.bonus?`<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>`:`<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`):""}</div>${lessonExtras(it.u)}`}
   if(it.kind==="prep"){const more=it.prep.length-4;return `<div class="col" style="gap:0">${it.prep.slice(0,4).map(p=>`<div class="taskrow ${S.prep[p.id]?"done":""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b>${p.early?` <span class="pill learning">early start for ${fmt(p.x.date)}</span>`:""}<p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div><div class="row">${more>0?`<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">See all ${it.prep.length}</button>`:""}${it.id==="pm"?`<button class="btn" data-act="night">Get ready for tomorrow</button>`:`<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">Parent guides</button>`}</div>`}
   if(it.kind==="warm"){const du=dailyUnit();const j=du?splitJoke(du.c.x.jokes[0]):null;return `${j?`<div class="ask"><span class="eyebrow">Joke 1</span>${esc(j[0])} <i>${esc(j[1])}</i></div>`:""}<div class="row"><button class="btn" data-act="games">Jokes and games</button></div>`}
   if(it.kind==="exps")return `<div class="col" style="gap:8px">${S.exps.filter(e=>!e.closed&&e.start<=date).map(e=>`<div class="row" style="justify-content:space-between;flex-wrap:nowrap"><span class="sm" style="font-weight:800">${esc(e.title)}</span><button class="btn xs ${e.checks.includes(today)?"soft":""}" data-act="check" data-e="${e.id}">${e.checks.includes(today)?"Checked":"Check"}</button></div>`).join("")}</div>`;
@@ -1427,15 +1467,13 @@ function findItem(id){return dayPlan(today).find(i=>i.id===id)}
 function playerView(){const P=ui.sheet,it={u:unitBy(P.k),n:P.n,tot:P.tot,bonus:P.bonus};if(!it.u)return "";const st=stepState(it),pct=Math.min(100,(st.filter(x=>x.ok).length)/st.length*100);
   document.getElementById("sheetTitle").textContent=`${SUBJ[P.s]} · day ${P.n} of ${P.tot}`;
   let h=`<div class="ptrack"><span style="width:${pct}%"></span>${sblob(P.s,"happy","rider",`style="left:${Math.max(5,pct)}%"`)}</div>`;
-  if(P.i>=st.length){const okN=st.filter(x=>x.ok).length,all=okN===st.length;h+=`<section class="stage finish">${sblob(P.s,all?"happy":"calm","bob",'width="120" height="120"')}<div class="stars">${[0,1,2].map(i=>`<svg width="44" height="44" viewBox="0 0 24 24" style="transform:rotate(${(i-1)*12}deg)"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z" fill="${i<Math.max(1,Math.round(okN/st.length*3))?"var(--sun)":"var(--line)"}"/></svg>`).join("")}</div><h2>${all?"Congrats!":"Nearly there"}</h2><p class="muted">${esc(it.u.title)} · ${all?"every step done.":`${st.length-okN} step${st.length-okN>1?"s":""} still open. They move to the next lesson day automatically.`}</p>${photoBtn(P.k,"Add a photo of today's work")}<div class="row" style="justify-content:center"><button class="btn green" data-act="finish">${icon("check")}Finish the lesson</button><button class="btn soft" data-act="pstep" data-d="-1">Back</button></div></section>`;return h}
+  if(P.i>=st.length){const okN=st.filter(x=>x.ok).length,all=okN===st.length;h+=`<section class="stage finish">${sblob(P.s,all?"happy":"calm","bob",'width="120" height="120"')}<div class="stars">${[0,1,2].map(i=>`<svg width="44" height="44" viewBox="0 0 24 24" style="transform:rotate(${(i-1)*12}deg)"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z" fill="${i<Math.max(1,Math.round(okN/st.length*3))?"var(--sun)":"var(--line)"}"/></svg>`).join("")}</div><h2>${all?"Congrats!":"Nearly there"}</h2><p class="muted">${esc(it.u.title)} · ${all?"every step done.":`${st.length-okN} step${st.length-okN>1?"s":""} still open. They move to the next lesson day automatically.`}</p>${photoBtn(P.k,"Add a photo of today's work")}<div class="row" style="justify-content:center"><button class="btn green" data-act="finish">${icon("check")}Finish the lesson</button><button class="btn soft" data-act="pstep" data-d="-1">Back</button></div></section>`;return h+chapterHub(it.u)}
   const x=st[P.i];
   h+=`<section class="stage"><div class="kind"><span class="k">${icon(x.kind==="step"?"spark":x.kind)}</span><span>Step ${P.i+1} of ${st.length} · ${esc(x.label)}</span></div><h2>${esc(x.title)}</h2>
    <div class="timer"><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" fill="none" stroke="var(--surface)" stroke-width="6"/><circle id="tring" cx="22" cy="22" r="18" fill="none" stroke="var(--c)" stroke-width="6" stroke-linecap="round" stroke-dasharray="113 113" transform="rotate(-90 22 22)"/></svg><div><div class="tt2 num" id="tt">${mmss(timerLeft(x))}</div><button class="link" data-act="timer" id="tbtn">${ui.timer&&ui.timer.run?"Pause":"Start timer"}</button></div></div>
    <div class="body">${x.html}</div>
    <div class="row"><button class="btn soft" data-act="pstep" data-d="-1" ${P.i===0?"disabled":""} aria-label="Previous step">${icon("back")}</button><button class="btn green wide" data-act="pdone">${x.ok?"Next":"Done! Next step"}${icon("next")}</button></div></section>`;
-  if(it.u.c?.x)h+=`<button class="btn soft sm" data-act="chapter" data-k="${it.u.k}" style="justify-self:start">Whole chapter</button>`;
-  if(it.u.c?.x?.guide)h+=`<details class="card"><summary style="cursor:pointer;font:600 16px var(--display)">Parent guide for this chapter</summary><p class="sm">${esc(it.u.c.x.guide)}</p></details>`;
-  return h}
+  return h+chapterHub(it.u)}
 const mmss=s=>`${Math.floor(s/60)}:${String(Math.max(0,Math.round(s%60))).padStart(2,"0")}`;
 function timerLeft(x){const T=ui.timer;if(!T||T.key!==timerKey())return Math.round(x.mins*60);return T.run?Math.max(0,(T.end-Date.now())/1000):T.left}
 const timerKey=()=>ui.sheet?ui.sheet.k+"|"+ui.sheet.n+"|"+ui.sheet.i:"";
@@ -1570,6 +1608,7 @@ function viewJourney(){const kid=esc(S.child||"Your child"),Qn=quotes().length,W
   let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("","happy",'width="54" height="54"')}</div><div class="stack3">${S.subjects.map(s=>{const x=subjStats(s);return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${Math.round(x.pct*100)}%</span><span class="xs" style="font-weight:800">${x.completed} of ${x.us.length} chapters${x.learning?` · ${x.learning} in progress`:""}</span>${sblob(s,"happy")}</button>`}).join("")}</div></section>`;
   const rows=[["high","Highlights",Qn||W?`${Qn} answers in ${kid}'s words · ${W} photos`:"Answers and photos of work",blob("var(--sun)",4,"wow","",'width="40" height="40"')],...(bs.length?[["board","Against the board","What's done and what's due",blob("var(--sky)",13,"calm","",'width="40" height="40"')]]:[]),["beyond","Beyond the board","Plus topics and free exploring",blob("var(--gum)",7,"happy","",'width="40" height="40"')],["diary","Learning diary",S.log.length+" lessons so far",blob("var(--pist)",9,"happy","",'width="40" height="40"')],["numbers","Numbers","Lessons, hours, tasks, games",blob("var(--tang)",11,"happy","",'width="40" height="40"')]];
   h+=`<section class="sec">${rows.map(([k,t,s,b])=>`<button class="menurow" data-act="jrsheet" data-p="${k}">${b}<span><b>${t}</b><br><span class="xs muted">${s}</span></span>${icon("next")}</button>`).join("")}</section>`;
+  h+=journeyChapters();
   return h}
 /* ---------- onboarding ---------- */
 function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD,mode:S.mode||(S.plus?"booksplus":"books"),exam:!!S.exam}))};render()}
@@ -1727,6 +1766,8 @@ function onAct(e){
    case "ikeep":{const it=ui.idump.items[+b.dataset.i];it.keep=!it.keep;sfx("tap");render();break}
    case "iclear":{ui.idump={};clearIn("invText");render();break}
    case "iadd":{const L=(ui.idump?.items||[]).filter(x=>x.keep);S.inv=[...(S.inv||[]),...L.map(({keep,...x})=>({id:Math.random().toString(36).slice(2,9),...x,from:"sorted"}))];ui.idump={};clearIn("invText");sfx("win");toast(`Added ${L.length} to what you have`);commit();break}
+   case "hubres":{ui.hubres=true;renderSheet();break}
+   case "jall":{ui.jall=true;render();break}
    case "lt":{navPush();ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}
    case "invnew":{const n=document.getElementById("invName").value.trim();if(!n)return;S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:n,cat:document.getElementById("invCat").value}];sfx("ok");commit();clearIn("invName");break}
