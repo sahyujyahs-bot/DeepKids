@@ -610,6 +610,10 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 
 
 
+
+
+
+
 const DATA = /*DATA*/;
 const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
 const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
@@ -849,6 +853,14 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+function refreshView(){const it=dayPlan(ui.sheet.date||today).find(i=>i.id==="refresh");if(!it)return `<p class="note">No refresher today.</p>`;const r=it.rf,KL2={game:"Game",exp:"Experiment",act:"Activity",talk:"Talk"};document.getElementById("sheetTitle").textContent="Refresher · "+r.u.title;
+  return `<section class="stage" style="--c:var(--sun)"><div class="kind"><span>${KL2[r.kind]||"Refresher"} · about 15 minutes</span></div><h2>${esc(r.title)}</h2>
+    <div class="body"><p>${esc(r.body||"")}</p>${r.need?.length?`<p class="sm"><b>You need:</b> ${r.need.map(esc).join(", ")}</p>`:""}${r.steps?.length?pkList(r.steps,"ol"):""}${r.predict?`<div class="ask"><span class="eyebrow">Guess first</span>${esc(r.predict)}</div>`:""}${r.why?`<details><summary class="sm">Why it happens</summary><p class="sm">${esc(r.why)}</p></details>`:""}${r.safety?`<p class="sm" style="color:var(--bad)"><b>Safety:</b> ${esc(r.safety)}</p>`:""}</div></section>
+   ${r.quiz?.length?`<section class="card"><span class="eyebrow">Then 3 quick questions</span><p class="xs muted">Ask aloud. Tap to see a good answer.</p><ol class="sm">${r.quiz.map(q=>`<li><b>${esc(q.q)}</b><details><summary class="xs muted">Answer</summary><p class="sm">${esc(q.a)}</p></details></li>`).join("")}</ol></section>`:""}
+   <p class="xs muted">A quick return to ${esc(r.u.title)} (${esc(unitLabel(r.u))}) so it stays fresh.</p>
+   <div class="row"><button class="btn green wide" data-act="tlcheck" data-id="refresh" data-date="${ui.sheet.date||today}">${icon("check")}${it.done?"Done ✓":"We did it"}</button></div>
+   ${chapterHub(r.u)}`}
+
 function plusFor(u){const ids=new Set([...(u.dk||[]),...(DATA.rconcepts||[]).filter(c=>c.chapters.includes(u.k)).flatMap(c=>c.plus||[])]);if(u.board==="dk")ids.delete(u.n);return [...ids].map(id=>DATA.topics.find(t=>t.id===id)).filter(Boolean).slice(0,3)}
 const hubSec=(id,title,count,body,open)=>body?`<details class="card hub" ${open?"open":""}><summary><b>${title}</b>${count!=null?`<span class="pill">${count}</span>`:""}</summary><div class="hubb">${body}</div></details>`:"";
 function chapterHub(u){const P=u.c?.p,x=u.c?.x,c=u.c||{},plus=plusFor(u),res=resSort(resourcesFor(u)),shelf=shelfFor(u);let h=`<div class="sech" style="margin-top:6px"><h3 style="font-size:19px">Everything for this chapter</h3></div>`;
@@ -1004,7 +1016,7 @@ function nowCard(it){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,missed=is
   const label=missed?"Still to do":it.anytime?"Any time today":it.at<=nowMin()?"Now":"Up next";
   const title=it.kind==="lesson"?it.u.title:it.title;
   const sub=it.kind==="lesson"?`${SUBJ[it.s]} · ${mins(it.dur/60)} · day ${it.n} of ${it.tot}`:it.kind==="prep"?(n=>`${n} thing${n===1?"":"s"} to get ready · ${mins(it.dur/60)}`)(it.prep.filter(p=>!S.prep[p.id]).length):it.sub||ROLE[it.who];
-  const P={lesson:[`data-act="play" ${a}`,it.kind==="lesson"&&stepState(it).some(x=>x.ok)?"Keep going":"Start the lesson"],prep:it.id==="pm"?[`data-act="night"`,"Get tomorrow ready"]:[`data-act="tlopen" ${a}`,"Open the checklist"],warm:[`data-act="games"`,"Start the warm-up"],plan:[`data-act="quickplan"`,"Open the Planner"],exps:[`data-act="tlcheck" ${a}`,"Checked them all"]}[it.kind]||[`data-act="tlcheck" ${a}`,"Done"];
+  const P={lesson:[`data-act="play" ${a}`,it.kind==="lesson"&&stepState(it).some(x=>x.ok)?"Keep going":"Start the lesson"],prep:it.id==="pm"?[`data-act="night"`,"Get tomorrow ready"]:[`data-act="tlopen" ${a}`,"Open the checklist"],warm:[`data-act="games"`,"Start the warm-up"],plan:[`data-act="quickplan"`,"Open the Planner"],exps:[`data-act="tlcheck" ${a}`,"Checked them all"],refresh:[`data-act="refresh" data-date="${today}"`,"Play it"]}[it.kind]||[`data-act="tlcheck" ${a}`,"Done"];
   const mascot=it.kind==="lesson"?sblob(it.s,"happy","mascot bob"):it.who==="you"?youBlob("mascot bob","calm"):kidBlob("mascot bob");
   return `<section class="now ${col}">${mascot}<span class="eyebrow">${label} · ${it.anytime?"any time":clock(it.at)}</span><h2>${esc(title)}</h2><p class="sub">${esc(sub)}</p>
    <div class="row" style="flex-wrap:nowrap"><button class="btn wide big" ${P[0]}>${it.kind==="lesson"?icon("play"):""}${P[1]}</button>${P[0].includes("tlcheck")?"":`<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
@@ -1086,9 +1098,13 @@ function optionSteps(u,n,tot,date){const type=dayTypeOf(date),o=pickOf(u,type);i
   if(o.real)return daySteps(u,n,tot);const total=lessonMins(u.subj,date);
   return o.parts.map(p=>({kind:p.kind,label:p.label,title:p.title,mins:(p.mins||p.f*total)/60,html:`<p>${esc(p.body)}</p>${o.placeholder?`<p class="xs muted">Placeholder plan: “${esc(o.name)}”. The full version is being written.</p>`:""}`,name:"opt:"+o.id}))}
 function refresherFor(date){const keys=[...new Set(S.log.filter(l=>l.date<date).map(l=>l.key))];if(!keys.length)return null;const dn=Math.floor(parse(date)/864e5),u=unitBy(keys[dn%keys.length]);if(!u)return null;
-  const P=planOptions(u),pk=(S.planPick||{})[u.k]||{},GEN=/^(Quick check|What did we learn\?|Walk and spot|Make it real|Go and look|Make something|Story time|The key idea)$/,parts=[...P.full,...P.busy].filter(o=>o.parts&&o.id!==pk.full&&o.id!==pk.busy).flatMap(o=>o.parts).filter(p=>["game","exp","act","proj"].includes(p.kind)&&!GEN.test(p.title)),extra=[...(u.c?.exp||[]).map(e=>({title:e.split(":")[0].slice(0,50),body:e,kind:"exp"})),...(u.c?.act||[]).map(e=>({title:e.split(":")[0].slice(0,50),body:e,kind:"act"}))],pool=[...new Map([...parts,...extra].map(p=>[p.title,p])).values()],part=pool[dn%Math.max(1,pool.length)];
-  return part?{u,title:part.title,body:part.body,kind:part.kind}:{u,title:"Quick recall",body:"Ask three questions about "+u.title+"."}}
-
+  const P=u.c?.p,c=u.c||{},pool=[];
+  if(P){(P.experiments||[]).forEach(e=>pool.push({kind:"exp",title:e.title,body:e.question,steps:e.steps,need:e.need,predict:e.predict,why:e.why,safety:e.safety}));(P.activities||[]).forEach(a=>pool.push({kind:"act",title:a.title,body:a.outcome?"You end up with: "+a.outcome:"",steps:a.steps,need:a.need}))}
+  if(c.game)pool.unshift({kind:"game",title:c.game[0],body:c.game[1]});
+  if(!P){(c.exp||[]).forEach(e=>pool.push({kind:"exp",title:e.split(":")[0].slice(0,50),body:e}));(c.act||[]).forEach(e=>pool.push({kind:"act",title:e.split(":")[0].slice(0,50),body:e}))}
+  const part=pool.length?pool[dn%pool.length]:{kind:"talk",title:"Quick recall",body:"Ask your child to tell you three things they remember from "+u.title+", then one question they still have."};
+  const Q=P?.check||[],quiz=Q.length?[0,1,2].map(i=>Q[(dn+i*2)%Q.length]).filter((q,i,a)=>a.indexOf(q)===i):(c.x?.quiz||[]).slice(0,3).map(([s,t,w])=>({q:"True or false: "+s,a:(t?"True. ":"False. ")+w}));
+  return {u,...part,quiz}}
 /* ---------- topic level: tags, summaries, ideas, related ---------- */
 function tagsOf(u){const T=[];const tag=i=>({board:i.board,txt:`${BOARDS[i.board]?BOARDS[i.board].split(" ")[0]:"?"} · Class ${DATA.levels[i.level].cls} · ${i.book.replace(/ · Class \d+$/,"").replace(/ \(Class \d+\)$/,"")}${/^\d+$/.test(i.n)?" · Ch "+i.n:""}`,k:i.k,subj:i.subj});
   if(u.board==="gen"){(u.gen.tags||[]).forEach(k=>{const i=DATA.items.find(z=>z.k===k);if(i)T.push(tag(i))})}
@@ -1193,7 +1209,7 @@ const thumbs=list=>list.length?`<div class="thumbs">${list.map(w=>`<figure><img 
 
 /* ---------- Today: greeting, then the day on the clock ---------- */
 function itemDetail(it,date){const isT=date===today;
-  if(it.kind==="refresh")return `<p class="sm" style="font-weight:700">${esc(it.rf.body)}</p><p class="xs muted">A quick return to ${esc(it.rf.u.title)}, so it stays fresh.</p><div class="row"><button class="btn soft sm" data-act="chapter" data-k="${it.rf.u.k}">Open the topic</button></div>`;
+  if(it.kind==="refresh")return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">A 15-minute return to ${esc(it.rf.u.title)}, then 3 quick questions.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
   if(it.kind==="plan")return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn sm" data-act="quickplan">Open the Planner</button></div>`;
   if(it.kind==="lesson"){const st=stepState(it),prep=prepFor(it.u,it.n,it.tot).filter(p=>p.lead===0);return `<div class="sm muted" style="font-weight:700">${esc(it.u.book)}${chNo(it.u)?" · "+chNo(it.u):""} · day ${it.n} of ${it.tot}</div>
     <ol class="dsteps">${st.map(x=>`<li class="${x.ok?"ok":""}"><span>${esc(x.label)}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>
@@ -1628,7 +1644,7 @@ const sheet=document.getElementById("sheet");
 function openSheet(o){navPush();ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true);updBack()}
 function renderSheet(top){if(!ui.sheet)return;const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
-  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
+  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   updBack();
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
@@ -1768,6 +1784,7 @@ function onAct(e){
    case "iadd":{const L=(ui.idump?.items||[]).filter(x=>x.keep);S.inv=[...(S.inv||[]),...L.map(({keep,...x})=>({id:Math.random().toString(36).slice(2,9),...x,from:"sorted"}))];ui.idump={};clearIn("invText");sfx("win");toast(`Added ${L.length} to what you have`);commit();break}
    case "hubres":{ui.hubres=true;renderSheet();break}
    case "jall":{ui.jall=true;render();break}
+   case "refresh":{sfx("flip");openSheet({mode:"refresh",date:b.dataset.date||today});break}
    case "lt":{navPush();ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}
    case "invnew":{const n=document.getElementById("invName").value.trim();if(!n)return;S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:n,cat:document.getElementById("invCat").value}];sfx("ok");commit();clearIn("invName");break}
