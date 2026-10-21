@@ -429,6 +429,8 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 .vst{justify-self:start;font-size:12px;font-weight:600;padding:3px 10px;border-radius:99px;background:#EEE}
 .vst.accepted{background:#DDF0E3;color:#2E6B45}.vst.debated{background:#FFF0C9;color:#7A5A00}.vst.minority{background:#E6E8F6;color:#46508A}.vst.rejected{background:#F1E6E6;color:#7A3B3B}
 
+.sec.cal{background:var(--surface);border-radius:var(--r-xl);padding:14px 14px 16px;box-shadow:var(--lift);gap:10px}.sec.cal .donecard{box-shadow:none;background:var(--sunk);margin-top:2px;padding:16px}.sec.cal .tt{margin:0}
+#backTop{flex:none}
 .rescard{gap:6px}.rescard .pill{font-size:11px}
 .greetbar{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;padding:10px 2px 2px}.greetbar b{font:600 21px var(--display)}
 .calhead{display:flex;align-items:center;gap:8px;margin:6px 0 8px}.calt{display:grid;line-height:1.15;min-width:92px;text-align:center}.calt b{font:600 18px var(--display)}
@@ -458,6 +460,26 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -594,27 +616,33 @@ const lsGet=k=>{try{return localStorage.getItem(k)}catch(e){return null}},lsSet=
 async function boot(){
   ACC=lsGet("dk-acct");if(ACC){try{const ls=lsGet(LSK());if(ls)S={...fresh(),...JSON.parse(ls)}}catch(e){}}if(!ACC||S.setup)render();
   try{const [db,user]=await Promise.all([window.claude?.use?.("db"),window.claude?.use?.("user")]);UIDR=db&&user?await user.id():null;DBR=UIDR?db:null}catch(e){DBR=null}
-  if(DBR&&!ACC){try{const s=await DBR.doc("data/users/"+UIDR+"/session/current").get();if(s.exists&&s.data().acct){ACC=String(s.data().acct);lsSet("dk-acct",ACC)}}catch(e){}}
+  if(DBR&&!ACC){try{const s=await DBR.doc("data/users/"+UIDR+"/session").get();if(s.exists&&s.data().acct){ACC=String(s.data().acct);lsSet("dk-acct",ACC)}}catch(e){}}
   if(ACC)await openAccount(ACC);else render()}
 async function openAccount(acct,name){ACC=acct;lsSet("dk-acct",acct);if(unsub){try{unsub()}catch(e){}unsub=null}store=null;
   let local=null;try{const ls=lsGet(LSK());if(ls)local=JSON.parse(ls)}catch(e){}
   if(!local){const v2=lsGet("dk-state-v2");if(v2&&!lsGet("dk-v2-migrated")){try{local=JSON.parse(v2)}catch(e){}lsSet("dk-v2-migrated","1")}}
   S={...fresh(),...(local||{})};ob=null;if(S.setup||!DBR)render();
-  if(DBR){try{store=DBR.doc("data/users/"+UIDR+"/accounts/"+acct);const snap=await store.get();let remote=snap.exists?snap.data():null;
-      if(!remote){const known=(await DBR.doc("data/users/"+UIDR+"/session/current").get().catch(()=>null))?.data?.()||{};
-        if(!known.migrated){const old=await DBR.doc("data/users/"+UIDR+"/planner").get().catch(()=>null);if(old&&old.exists){remote={...old.data(),updatedAt:Date.now()}}}}
-      if(remote&&remote.setup!==undefined&&(remote.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...remote};ob=null}
+  if(DBR){try{store=DBR.doc("data/users/"+UIDR+"/acct_"+acct);const snap=await store.get();const remote=snap.exists?snap.data():null;
+      const ks=await DBR.doc("data/users/"+UIDR+"/session").get().catch(()=>null),known=(ks&&ks.exists&&ks.data())||{};let legacy=null;
+      if(!known.migrated){const old=await DBR.doc("data/users/"+UIDR+"/planner").get().catch(()=>null);if(old&&old.exists)legacy=old.data()}
+      const cands=[local,remote,legacy].filter(x=>x&&x.setup!==undefined).sort((a,b)=>(b.updatedAt||0)-(a.updatedAt||0));
+      if(cands.length){let m=cands[0];cands.slice(1).forEach(c=>m=mergeIn(m,c));S={...fresh(),...m};ob=null}
       if(name&&!S.parent?.name)S.parent={...(S.parent||{}),name};
       S.acct=acct;S.updatedAt=Math.max(S.updatedAt||0,1);await store.set(JSON.parse(JSON.stringify(S)));
-      await DBR.doc("data/users/"+UIDR+"/session/current").set({acct,at:Date.now(),migrated:true});
+      await DBR.doc("data/users/"+UIDR+"/session").set({acct,at:Date.now(),migrated:true});
       lsSet(LSK(),JSON.stringify(S));syncMode="account";lastSaved=Date.now();
       unsub=store.onSnapshot(s=>{const r=s.exists?s.data():null;if(r&&r.setup!==undefined&&(r.updatedAt||0)>(S.updatedAt||0)){S={...fresh(),...r};lsSet(LSK(),JSON.stringify(S));render()}},()=>{})}
-    catch(e){store=null;syncMode="device"}}
+    catch(e){console.warn("account sync failed",e);store=null;syncMode="device"}}
   else{if(name&&!S.parent?.name)S.parent={...(S.parent||{}),name};S.acct=acct;lsSet(LSK(),JSON.stringify(S))}
   const k=JSON.parse(lsGet("dk-known")||"[]").filter(x=>x.acct!==acct);k.unshift({acct,name:S.parent?.name||name||"",child:S.child||""});lsSet("dk-known",JSON.stringify(k.slice(0,5)));
   render()}
+function mergeIn(a,b){const key=l=>l.date+"|"+l.key+"|"+l.kind,seen=new Set((a.log||[]).map(key));
+  const log=[...(a.log||[]),...(b.log||[]).filter(l=>!seen.has(key(l)))].sort((x,y)=>x.date<y.date?1:x.date>y.date?-1:0).slice(0,400);
+  const progress={...(b.progress||{}),...(a.progress||{})};Object.entries(b.progress||{}).forEach(([k,q])=>{const p=(a.progress||{})[k];if(p&&(q.sessions||0)>(p.sessions||0))progress[k]={...p,sessions:q.sessions,status:rank[q.status]>rank[p.status]?q.status:p.status}});
+  const keep=o=>Object.fromEntries(Object.entries(o||{}).filter(([,v])=>v!==""&&v!=null));
+  return {...a,log,progress,steps:{...(b.steps||{}),...(a.steps||{})},prep:{...(b.prep||{}),...(a.prep||{})},tasks:{...(b.tasks||{}),...(a.tasks||{})},ans:{...(b.ans||{}),...(a.ans||{})},games:{...(b.games||{}),...(a.games||{})},parent:{...keep(b.parent),...keep(a.parent)}}}
 async function logout(){if(store){clearTimeout(saveTimer);await writeNow().catch(()=>{})}if(unsub){try{unsub()}catch(e){}unsub=null}
-  if(DBR){try{await DBR.doc("data/users/"+UIDR+"/session/current").set({acct:null,at:Date.now(),migrated:true})}catch(e){}}
+  if(DBR){try{await DBR.doc("data/users/"+UIDR+"/session").set({acct:null,at:Date.now(),migrated:true})}catch(e){}}
   lsDel("dk-acct");ACC=null;store=null;S=fresh();ob=null;render()}
 let lastSaved=0;
 function writeNow(){const body=JSON.parse(JSON.stringify(S));const p=saving.then(()=>store.set(body)).then(()=>{syncMode="account";lastSaved=Date.now();return true},()=>{syncMode="device";return false});saving=p.then(()=>{});return p}
@@ -807,6 +835,18 @@ document.addEventListener("change",e=>{if(e.target.id==="rcSel"){ui.rc=e.target.
 const greetBar=sub=>`<section class="greetbar"><b>${greetWord()}${pname()?", "+esc(pname()):""}!</b><span class="xs muted">${sub}</span></section>`;
 function calHead(d){const lab=d===today?"Today":d===addDays(today,1)?"Tomorrow":d===addDays(today,-1)?"Yesterday":parse(d).toLocaleDateString(undefined,{weekday:"long"}),sub=parse(d).toLocaleDateString(undefined,{weekday:d===today||Math.abs(parse(d)-parse(today))<2*864e5?"short":undefined,day:"numeric",month:"short"});
   return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d!==today?`<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>`:`<button class="link xs" data-act="quick" style="margin-left:auto">+ Add</button>`}</div>`}
+const navSnap=()=>({tab,lt:ui.lt,pv:ui.pv,pday:ui.pday,tday:ui.tday,sheet:ui.sheet?JSON.parse(JSON.stringify(ui.sheet)):null,ctab:ui.sheet?.k?ui.ctab[ui.sheet.k]:undefined,y:scrollY});
+let navHist=[],navRestoring=false;
+function navPush(){if(navRestoring)return;navHist.push(navSnap());if(navHist.length>40)navHist.shift();try{history.pushState({dk:navHist.length},"")}catch(e){}updBack()}
+function navBack(){if(!navHist.length)return;const s=navHist.pop();navRestoring=true;tab=s.tab;ui.lt=s.lt;ui.pv=s.pv;ui.pday=s.pday;ui.tday=s.tday;
+  if(s.sheet){if(s.sheet.k){if(s.ctab)ui.ctab[s.sheet.k]=s.ctab;else delete ui.ctab[s.sheet.k]}ui.sheet=s.sheet;if(!sheet.open)sheet.showModal();renderSheet(true);render()}else{if(sheet.open)sheet.close();else render()}
+  requestAnimationFrame(()=>scrollTo(0,s.y||0));navRestoring=false;updBack()}
+function goBack(){if(!navHist.length){if(sheet.open)sheet.close();return}sfx("tap");try{history.back()}catch(e){navBack()}}
+function updBack(){const b=document.getElementById("backTop");if(b)b.hidden=!navHist.length||!ACC;const c=document.getElementById("sheetClose"),top=navHist[navHist.length-1];if(c&&sheet.open){const bk=!!top?.sheet;c.innerHTML=bk?icon("back"):icon("close");c.setAttribute("aria-label",bk?"Back":"Close")}}
+addEventListener("popstate",()=>navBack());
+document.querySelector("header.top .wrap").insertAdjacentHTML("afterbegin",`<button class="iconbtn" id="backTop" aria-label="Back" hidden>${icon("back")}</button>`);
+document.getElementById("backTop").onclick=goBack;
+
 const PKIND={warmup:["learn","Warm-up"],read:["read","Read"],talk:["learn","Talk"],do:["act","Do"],exp:["exp","Experiment"],act:["act","Activity"],ws:["ws","Worksheet"],game:["game","Game"],think:["learn","Think"],watch:["read","Watch"],outdoor:["act","Outdoors"],review:["learn","Review"],check:["ws","Check"]};
 const TIER={core:"Core",stretch:"Stretch",challenge:"Challenge"};
 const VST={accepted:"Now accepted",debated:"Still debated",minority:"Minority view",rejected:"Evidence went against it"};
@@ -858,7 +898,6 @@ function otherDay(d){const items=dayPlan(d).filter(i=>i.kind!=="brk"),past=d<tod
   return `<section class="sec cal">${calHead(d)}<p class="xs muted">${past?`${dn} of ${items.length} done that day`:`${items.length} thing${items.length===1?"":"s"} planned`}</p>
    ${items.length?`<div class="tt compact">${items.map(i=>tRow(i,d,null)).join("")}</div>`:`<p class="note">${past?"Nothing was recorded that day.":"Nothing planned yet."}</p>`}
    ${past?"":`<button class="btn soft sm" data-act="quickday" data-d="${d}" style="margin-top:12px">+ Add a plan for this day</button>`}</section>`}
-
 /* ---------- calm Today: one thing now, a short list, everything else behind More ---------- */
 function nowCard(it){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,missed=isMissed(it,today),a=`data-id="${it.id}" data-date="${today}"`,open=!!ui.open["now|"+it.id];
   const label=missed?"Still to do":it.anytime?"Any time today":it.at<=nowMin()?"Now":"Up next";
@@ -1479,15 +1518,15 @@ function obNext(){const d=ob.d;if(ob.step===0){d.child=document.getElementById("
 
 /* ---------- sheet + render ---------- */
 const sheet=document.getElementById("sheet");
-function openSheet(o){if(ui.sheet?.mode==="player"&&o.mode!=="player")ui.back=ui.sheet;else ui.back=null;ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true)}
+function openSheet(o){navPush();ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true);updBack()}
 function renderSheet(top){if(!ui.sheet)return;const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
   const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
-  document.getElementById("sheetClose").innerHTML=ui.back?icon("back"):icon("close");document.getElementById("sheetClose").setAttribute("aria-label",ui.back?"Back to the lesson":"Close");
+  updBack();
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
-document.getElementById("sheetClose").onclick=()=>{sfx("tap");if(ui.back){ui.sheet=ui.back;ui.back=null;renderSheet(true)}else sheet.close()};
-sheet.addEventListener("close",()=>{ui.phelp=null;sheet.className="sheet";ui.sheet=null;ui.back=null;clearInterval(tick);render()});
+document.getElementById("sheetClose").onclick=()=>{sfx("tap");goBack()};
+sheet.addEventListener("close",()=>{ui.phelp=null;sheet.className="sheet";ui.sheet=null;clearInterval(tick);render();updBack()});
 const NAV=[["today","Today"],["week","Planner"],["journey","Journey"],["library","Library"]];
 function render(){rollDay();_sess=null;const m=document.getElementById("main"),nav=document.getElementById("nav");
   if(!ACC){nav.hidden=true;document.getElementById("me").hidden=true;document.getElementById("snd").hidden=true;document.getElementById("hello").innerHTML=`${youBlob("bl bob")}<div><b>Welcome</b><span>DeepKids home planner</span></div>`;m.replaceChildren(el(`<div class="wrap">${loginView()}</div>`));if(sheet.open)sheet.close();return}
@@ -1503,7 +1542,7 @@ function render(){rollDay();_sess=null;const m=document.getElementById("main"),n
   if(kept)restoreInputs(m,kept);m.querySelectorAll(".hs").forEach((x,i)=>{if(sx[i])x.scrollLeft=sx[i]});
   if(ui.sheet&&sheet.open)renderSheet()}
 /* ---------- events ---------- */
-document.getElementById("nav").addEventListener("click",e=>{const b=e.target.closest("button[data-tab]");if(!b)return;tab=b.dataset.tab;sfx("tap");render();scrollTo(0,0)});
+document.getElementById("nav").addEventListener("click",e=>{const b=e.target.closest("button[data-tab]");if(!b)return;if(tab!==b.dataset.tab)navPush();tab=b.dataset.tab;sfx("tap");render();scrollTo(0,0)});
 document.getElementById("snd").onclick=()=>{soundOn=!soundOn;try{localStorage.setItem("dk-sound",soundOn?"on":"off")}catch(e){}sfx("tick");render()};
 document.getElementById("me").onclick=()=>{sfx("tap");openSheet({mode:"settings"})};
 function playItem(it){openSheet({mode:"player",s:it.s,k:it.u.k,n:it.n,tot:it.tot,bonus:it.bonus,i:Math.max(0,stepState(it).findIndex(x=>!x.ok))});if(ui.sheet.i<0)ui.sheet.i=0}
@@ -1530,8 +1569,8 @@ function onAct(e){
    case "skip":{S.skips[today+"|"+b.dataset.s]=true;sfx("flip");toast("Moved to the next lesson day");commit();break}
    case "swap":{sfx("flip");openSheet({mode:"swap",s:b.dataset.s});break}
    case "pin":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};sfx("ok");toast("That's up next");sheet.close();commit();break}
-   case "tday":{const d=b.dataset.d;ui.tday=d==="0"?null:addDays(ui.tday||today,+d);if(ui.tday===today)ui.tday=null;sfx("tap");render();scrollTo(0,0);break}
-   case "quickday":{ui.pday=b.dataset.d;ui.pv="day";tab="week";render();scrollTo(0,0);break}
+   case "tday":{navPush();const d=b.dataset.d;ui.tday=d==="0"?null:addDays(ui.tday||today,+d);if(ui.tday===today)ui.tday=null;sfx("tap");render();scrollTo(0,0);break}
+   case "quickday":{navPush();ui.pday=b.dataset.d;ui.pv="day";tab="week";render();scrollTo(0,0);break}
    case "login":{const ph=(document.getElementById("lgPhone").value||"").replace(/\D/g,"").replace(/^(91|0)(?=\d{10}$)/,""),nm=(document.getElementById("lgName").value||"").trim();if(ph.length!==10){ui.lgErr="Enter a 10-digit phone number.";sfx("no");render();return}ui.lgErr="";ui.lgBusy=true;render();openAccount("91"+ph,nm).then(()=>{ui.lgBusy=false;tab="today";ui.tday=null;sfx("win");toast(S.setup?"Welcome back"+(pname()?", "+pname():"")+"!":"Logged in. Let's set up your year.");render()});break}
    case "loginas":{ui.lgBusy=true;openAccount(b.dataset.a).then(()=>{ui.lgBusy=false;tab="today";ui.tday=null;sfx("win");toast("Welcome back"+(pname()?", "+pname():"")+"!");render()});break}
    case "logout":{sheet.close();logout().then(()=>{ui.saved=null;toast("Logged out")});break}
@@ -1560,7 +1599,7 @@ function onAct(e){
    case "quickplan":{tab="week";render();scrollTo(0,0);break}
    case "free":{openPicker();break}
    case "chapter":{sfx("flip");if(b.dataset.t)ui.ctab[k]=b.dataset.t;openSheet({mode:"chapter",k});break}
-   case "ctab":{ui.ctab[k]=b.dataset.t;sfx("tap");renderSheet(true);break}
+   case "ctab":{navPush();ui.ctab[k]=b.dataset.t;sfx("tap");renderSheet(true);break}
    case "qi":{ui.qi[k]=Math.max(0,(ui.qi[k]||0)+(+b.dataset.d));sfx("flip");renderSheet(true);break}
    case "ws":{sfx("flip");openSheet({mode:"ws",k,w:b.dataset.w});break}
    case "wsec":{ui.wsec[k]=Math.max(0,(ui.wsec[k]||0)+(+b.dataset.d));sfx("flip");renderSheet(true);break}
@@ -1613,7 +1652,7 @@ function onAct(e){
    case "rfit":{ui.rfit=ui.rfit===false;sfx("tap");render();break}
    case "rmore":{ui.rmore=(ui.rmore||40)+40;render();break}
    case "rtc":{ui.rtc=b.dataset.t;sfx("tap");renderSheet();break}
-   case "lt":{ui.lt=b.dataset.t;sfx("tap");render();break}
+   case "lt":{navPush();ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}
    case "invnew":{const n=document.getElementById("invName").value.trim();if(!n)return;S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:n,cat:document.getElementById("invCat").value}];sfx("ok");commit();clearIn("invName");break}
    case "invdel":{S.inv=(S.inv||[]).filter(i=>i.id!==b.dataset.i);sfx("flip");commit();break}
