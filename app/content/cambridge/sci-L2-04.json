@@ -594,7 +594,7 @@
       "sections": [
         ["A. What if?", [
           {"t": "write", "p": "What if humans had only molars and no incisors? What foods would be hard to eat? How would we have to change the way we eat?", "lines": 3},
-          {"t": "write", "p": "Identical twins have the same fingerprints pattern type but their fingerprints are still not exactly the same. What does that tell you about whether everything about us is inherited?", "lines": 3}
+          {"t": "write", "p": "Identical twins inherit the same characteristics from their parents, but their fingerprints are still not exactly the same. What does that tell you about whether everything about us is inherited?", "lines": 3}
         ]],
         ["B. Puzzles", [
           {"t": "mcq", "p": "In Sofia's leg survey, most small animals had 6 legs. What is the best reason?", "opts": ["Insects such as ants are the most common small animals", "All small animals have 6 legs", "She counted wrongly", "Snails have 6 legs"], "a": 0},
@@ -762,7 +762,7 @@
     },
     {
       "id": "v3",
-      "who": "Azizul Haque (1872–1935) and Hem Chandra Bose (1867–1949), Bengal Police, India",
+      "who": "Azizul Haque (1872–1935) and Hem Chandra Bose, Bengal Police, India (1890s)",
       "idea": "In the 1890s the Bengal Police, led by Inspector-General Edward Henry, wanted to use fingerprints to identify criminals. The problem was finding one person's card among thousands. Azizul Haque, a police officer good at mathematics, worked out a system for sorting fingerprints into groups using their patterns (loops, whorls, arches) and ridge counts, so a card could be found quickly. Hem Chandra Bose helped improve the system. A fingerprint bureau was set up in Kolkata (then Calcutta) in 1897, the first of its kind in the world.",
       "then": "The system became known as the Henry Classification System, after Edward Henry, who took it to Scotland Yard in London; it was soon used by police forces in many countries. For years Haque's and Bose's part was hardly mentioned.",
       "now": "Historians agree that Haque and Bose did much of the key work. In the 1920s the British government of India officially recognised their contributions with awards. The Henry system was used worldwide for about a century before computers took over fingerprint matching, and fingerprints are still used by police today.",

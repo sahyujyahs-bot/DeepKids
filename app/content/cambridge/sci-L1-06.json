@@ -1,0 +1,918 @@
+{
+  "key": "cambridge|sci|1|6",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 1,
+  "n": 6,
+  "title": "Hearing sounds",
+  "source": "Cambridge Primary Science Learner's Book 1 (Cambridge University Press, 2014), Unit 6 'Hearing sounds' (pages 52–59)",
+  "summary": "Your child learns that people, animals and things make sounds, and that anything that makes a sound is a sound source. They find out that sounds are made when something vibrates (shakes quickly), that we hear when sound goes into our ears, how to protect our ears from loud sounds and catch quiet ones, and that sound gets quieter as it travels away from its source. They make a string telephone, a cup megaphone and a rubber-band veena, and test how far loud and quiet sounds travel.",
+  "goals": [
+    "By the end your child can name many sound sources at home and on the street, including their own voice.",
+    "By the end your child can show that sounds are made when something vibrates, using a ruler, a rubber band or their own throat.",
+    "By the end your child can say that we hear with our ears, show how covering the ears blocks sound and cupping them catches soft sounds, and explain why loud sounds can damage hearing.",
+    "By the end your child can explain that sound gets quieter as it moves away from its source, and that a megaphone or a string telephone helps sound go further.",
+    "By the end your child can carry out a fair test of how far a sound can be heard and say what they found."
+  ],
+  "words": [
+    [
+      "sound",
+      "what we hear, such as a voice, a bell, a dog barking or a pressure-cooker whistle"
+    ],
+    [
+      "source",
+      "the thing that makes a sound; a sound source can be a person, an animal or an object"
+    ],
+    [
+      "voice",
+      "the sound we make with our throat and mouth when we talk or sing"
+    ],
+    [
+      "listen",
+      "to try to hear something carefully"
+    ],
+    [
+      "vibrate",
+      "to shake backwards and forwards very fast; all sounds are made by something vibrating"
+    ],
+    [
+      "ear",
+      "the body part we hear with; the outside part catches sound and sends it inside"
+    ],
+    [
+      "loud",
+      "a big sound, like a firecracker or a drum"
+    ],
+    [
+      "quiet / soft",
+      "a small sound, like a whisper or a clock ticking"
+    ],
+    [
+      "hearing",
+      "one of our five senses; finding out about sounds with our ears"
+    ],
+    [
+      "megaphone",
+      "a cone you speak into to make your voice go further in one direction"
+    ],
+    [
+      "echo",
+      "a sound that bounces back off a wall or hill so you hear it again"
+    ]
+  ],
+  "day_mins": 30,
+  "days": [
+    {
+      "n": 1,
+      "title": "Where do sounds come from?",
+      "goal": "Notice the sounds of our own home and street, find sound sources in the busy picture on page 52, and start a sound diary.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "One minute of silence",
+          "mins": 5,
+          "do": "Sit with your child, close your eyes together and stay silent for one whole minute. Then ask: 'What did you hear?' Good answers for an Indian home: the fan whirring, a pressure cooker whistle, a scooter horn, a crow cawing, the sabziwala calling out, a neighbour's TV, a temple bell, the fridge humming, our own breathing. Write each one in a list. Ask: 'Were there more sounds than you expected?'"
+        },
+        {
+          "kind": "read",
+          "title": "Where do sounds come from? (page 52)",
+          "mins": 8,
+          "do": "Open page 52. Read: 'Some things make a sound. There are lots of sounds here.' Then read: 'A thing that makes a sound is called a sound source. How many sound sources can you find?' Point and count together: the fruit seller shouting, the pots and pans clanging, the pigeons cooing and flapping, the aeroplane, the car honking, the man hammering on the roof, the lady knocking on the door, the bicycle bell, the man playing the violin, the cat meowing, the crying child, the woman on the phone talking. Read: 'Your voice is a sound source.' Ask: 'Which sound source here is the loudest? The quietest?' Read the 'Words to learn': sound, source, voice, listen."
+        },
+        {
+          "kind": "exp",
+          "title": "Feel a sound: what makes sounds?",
+          "mins": 12,
+          "do": "Do Experiment e1. Ask your child to guess first: 'What is happening to a thing when it makes a sound?' Then try three things. 1. Put your child's fingers gently on the front of their throat and ask them to hum 'mmmm', then stop: 'What do you feel?' (A buzzing, shaking.) 2. Hold a ruler on the edge of a table with most of it sticking out, and twang the free end: 'What do you see and hear?' (It shakes up and down very fast and makes a twanging sound; when it stops shaking, the sound stops.) 3. Stretch a rubber band over an open steel box or katori and pluck it: it blurs as it shakes. Say: 'When something shakes very fast backwards and forwards, scientists say it vibrates. All sounds are made by something vibrating.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Start a sound diary",
+          "mins": 5,
+          "do": "Start Activity a1. Give your child a small notebook as a 'sound diary'. Make three columns: Sound source | Loud or quiet? | People, animal or thing? They fill in the sounds from this morning's minute of silence. Ask them to add at least five more sounds over the next two days: at mealtime, in the market, at night.",
+          "ref": "a1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 52",
+        "a ruler",
+        "a rubber band",
+        "a steel box or katori",
+        "a small notebook"
+      ],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Listening to sounds",
+      "goal": "Do Activity 6.1 like Fadi, closing our eyes to listen and work out where sounds come from.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Fadi is listening (page 53)",
+          "mins": 5,
+          "do": "Open page 53 and read Activity 6.1: 'Fadi is using his ears to listen to sounds. What can he hear?' Look at the picture. Good answers: the radio playing, the boy typing on the computer, and two people talking outside the window. Ask: 'How do we know they are sound sources in the picture?' (The red curved lines show sound coming from them.)"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 6.1: Listening to sounds (page 53)",
+          "mins": 12,
+          "do": "Do Activity a2, the book's Activity 6.1. Read: 'What will you hear if you do this? Try it. Close your eyes to help you listen.' Sit your child at the table with eyes closed. Make sounds from different parts of the room, one at a time: ring a steel bell or tap a spoon on a glass behind them, crinkle a packet to their left, clap to their right, drop a coin into a steel plate in front of them, whisper their name from far away. After each one they point to where they think the sound came from and say what made it. Ask the book's question: 'Where do the sounds come from?' Then read: 'Try listening again. Do you hear anything different?' Do the same sounds again, this time with one ear blocked by a finger. Ask: 'Was it harder to point to where the sound came from?' (Usually yes: having two ears helps us tell the direction.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Sound walk",
+          "mins": 10,
+          "do": "Take a short walk on your street, in the market or in a park. Every few minutes stop, close eyes for 20 seconds, and name every sound. Your child adds them to the sound diary (Activity a1), marking loud or quiet and whether a person, an animal or a thing made it. Look for sounds that tell us something: a horn (warning), a pressure-cooker whistle (dal is ready), a doorbell (someone is here), a dog barking (a stranger nearby), a temple or church bell (time for prayer), an ambulance siren (get out of the way).",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "What you have learnt (page 53)",
+          "mins": 3,
+          "do": "Read 'What you have learnt' on page 53: 'People, animals and other things make sounds. A thing that makes a sound is called a sound source.' Ask your child to give one example of each: a person (my voice), an animal (a cow mooing), a thing (a bicycle bell)."
+        }
+      ],
+      "need": [
+        "Learner's Book page 53",
+        "a steel bell or a spoon and glass, a packet, a coin and a steel plate",
+        "the sound diary"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Instruments and C.V. Raman's drums",
+      "goal": "Find how instruments make sounds by vibrating, make a rubber-band veena, and hear how C.V. Raman studied Indian drums.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Make a rubber-band veena",
+          "mins": 13,
+          "do": "Do Activity a3. Take an empty tissue box or a small open shoebox. Stretch 4 rubber bands of different thicknesses around it, over the open hole. Push a pencil under the bands at one end as a 'bridge' to lift them. Your child plucks each band and watches it blur. Ask: 'Which band makes the highest sound? The lowest?' (Thin, tight bands make higher sounds; thick, loose bands make lower sounds.) 'What happens if you stretch a band tighter?' (The sound gets higher.) 'What happens if you press your finger on the band while it is sounding?' (The sound stops, because it stops vibrating.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "do",
+          "title": "Dancing rice on a drum",
+          "mins": 7,
+          "do": "Stretch cling film tightly over a bowl (or use a thali turned upside down). Sprinkle a few grains of rice on top. Hold a steel plate near the bowl (not touching) and bang it with a spoon, or hold it close and shout 'AAAH!'. Ask your child to guess first: 'Will the rice move?' The rice jumps. Ask: 'What made it jump if nothing touched it?' (The sound travelled through the air and made the cling film vibrate.)"
+        },
+        {
+          "kind": "think",
+          "title": "C.V. Raman and the mridangam",
+          "mins": 10,
+          "do": "Tell your child about Voice v1: C.V. Raman, one of India's greatest scientists, studied why the Indian tabla and mridangam make such clear, musical notes, when most drums just make a thud. He found the secret is the black patch in the middle of the drum skin. If you have a tabla, dholak or any drum at home, tap the middle and the edge and listen. Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "an empty tissue box or small open shoebox",
+        "4 rubber bands of different thickness",
+        "a pencil",
+        "a bowl and cling film (or a thali)",
+        "a few grains of rice",
+        "a steel plate and spoon",
+        "a tabla, dholak or any drum (optional)"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Our ears",
+      "goal": "Learn that we hear with our ears (page 54), what ear defenders and headphones do, and how the outside ear catches sound.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Our ears (page 54)",
+          "mins": 7,
+          "do": "Open page 54 and read: 'Hearing is one of your senses. We hear sounds with our ears.' Look at the two photos and read the question: 'What are these people doing?' (The girl and boy are cupping their hands behind their ears to listen carefully.) Look at the two drawings below and read: 'What do they have on their ears?' The man using the noisy drill wears ear defenders, which block out loud sound to protect his ears. The girl wears headphones to listen to music. Ask: 'How are these two different?' (Ear defenders keep sound out; headphones put sound in, close to the ear.) Read the 'Words to learn': loud, quiet, soft."
+        },
+        {
+          "kind": "do",
+          "title": "Look at an ear",
+          "mins": 8,
+          "do": "With a torch held to the side (never shine it into the ear hole, and never put anything into the ear), look at your child's outer ear and let them look at yours in a mirror. Point out the curly folds that collect sound and the ear hole that leads inside. Explain simply: 'Sound goes into your ear hole and makes a thin skin inside, called the eardrum, vibrate, like the cling film on Day 3. Tiny bones pass the shaking on, and the inner ear sends a message to your brain, and your brain tells you what you heard.' Ask: 'Why should we never put a pencil or a hairpin into our ears?' (It can tear the eardrum, which helps us hear.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Bigger ears hear better?",
+          "mins": 15,
+          "do": "Do Experiment e2. Make two big 'ears': roll two sheets of chart paper or newspaper into cones and tape them. Sit your child with eyes closed in a quiet room. Stand far away and rub your fingers together, or let a wristwatch tick, or whisper a number, and move slowly closer. Your child raises a hand when they first hear it. Measure the distance in footsteps. Then repeat three times each way: with nothing, with hands cupped behind the ears, and with the paper cones held to the ears (narrow end near the ear hole, not inside it). Ask your child to guess first: 'Which way will you hear me from furthest away?' Record. Ask: 'Why do you think an elephant or a rabbit has such big ears?' (Big ears catch more sound; elephants' ears also help keep them cool.)",
+          "ref": "e2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 54",
+        "a torch and a mirror",
+        "2 sheets of chart paper or newspaper and tape",
+        "a quiet room"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Loud and soft sounds",
+      "goal": "Do Activity 6.2 with Ume and Tamu: covering ears to stop loud sounds and cupping ears to hear soft sounds, and learn to protect our hearing.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 6.2: Loud and soft sounds (page 55)",
+          "mins": 12,
+          "do": "Do Activity a4, the book's Activity 6.2. Read about Ume: 'Ume is covering her ears. Listen to a sound. Now cover your ears with your hands. What can you hear this time?' Play music on a phone at a medium level; your child covers their ears tightly, then lets go. Ask: 'What changed?' (The music sounded quieter when ears were covered.) Read: 'You have stopped some of the sound going into your ears. Doing this can stop loud sounds damaging your ears.' Then read about Tamu: 'Tamu is listening to quiet sounds. Listen to a sound. Now put your hands up to your ears. Does it change what you hear?' Turn the music very low; your child cups their hands behind their ears like Tamu. Ask: 'Does it sound louder?' Read: 'Doing this helps you hear soft sounds.' Read 'What you have learnt': 'We hear sound when it goes into our ears.'",
+          "ref": "a4"
+        },
+        {
+          "kind": "exp",
+          "title": "Which material blocks sound best?",
+          "mins": 13,
+          "do": "Do Experiment e3. Put a phone playing a song at a fixed volume (or a ticking alarm clock) inside a steel dabba or shoebox. Your child stands at the same place, 2 metres away each time. Wrap the box in turn with: nothing, a newspaper, a towel, a thick woollen sweater, aluminium foil, and a bubble-wrap sheet or a pillow. Ask your child to guess first which will make the sound quietest. After each one, they rate the sound 1 to 5 (5 = loudest). Ask: 'Which material was best at blocking sound?' (Usually the soft, thick, fluffy ones: the sweater, towel or pillow.) 'Why are ear defenders padded?' (Soft padding soaks up sound.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Look after your ears",
+          "mins": 5,
+          "do": "Ask: 'Which loud sounds do we hear in India?' (Diwali firecrackers, wedding DJ speakers, loud horns, drilling at building sites.) Explain: 'Very loud sounds, or loud music in earphones for a long time, can damage the tiny hair cells deep inside the ear, and they do not grow back. That is why people can lose some hearing.' Agree on three family rules, for example: cover ears or move away from firecrackers and loudspeakers, keep earphone volume low (if you can't hear someone talking next to you, it is too loud), and never put things inside ears."
+        }
+      ],
+      "need": [
+        "Learner's Book page 55",
+        "a phone with music, or an alarm clock",
+        "a steel dabba or shoebox",
+        "newspaper, towel, sweater, foil, pillow or bubble wrap"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Sounds move",
+      "goal": "Read page 56 about the man nobody can hear, test how far loud and quiet sounds go (Activity 6.3), and learn about the megaphone.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Can anyone hear the man? (page 56)",
+          "mins": 6,
+          "do": "Open page 56, 'Sounds move'. Read: 'Can anyone hear the man? Why not?' Look at the picture together: the man is falling out of his sinking boat and shouting. Good answers: 'The woman on the jetty is far away, and she is wearing headphones playing music, so she can't hear him; the ship is even further away; the sound of the waves and the wind is loud.' Ask: 'What could he do to be heard?' (Shout louder, wave, blow a whistle, use a megaphone.) Say: 'Sound moves away from its source, but the further it goes, the quieter it gets.'"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Activity 6.3: How far do sounds go? (page 57)",
+          "mins": 16,
+          "do": "Do Experiment e4, the book's Activity 6.3, in a park, open terrace or long corridor. Read the questions: 'Who can hear the sound loudly? Who can hear the sound quietly? Try this with quiet and loud sounds. Which can go further?' Look at the picture: a girl strikes a triangle and three children stand at different distances. You stand still and make a sound; your child walks away step by step and stops when they can no longer hear it. Count the steps. Try a quiet sound (two spoons tapped softly, a whisper) and then loud sounds (a steel plate banged with a spoon, a whistle, a shout). Ask your child to guess first: 'Which sound will you hear from furthest away?' Record steps for each. If more family members can join, they stand in a line at different distances like the children in the picture and each says 'loud', 'quiet' or 'can't hear'.",
+          "ref": "e4"
+        },
+        {
+          "kind": "act",
+          "title": "Make a megaphone (page 57)",
+          "mins": 8,
+          "do": "Look at the photo on page 57 and read: 'We can use a megaphone to make our voices sound louder and go further.' Do Activity a5. Roll a sheet of chart paper into a cone and tape it, with a small hole at the narrow end for your mouth. Your child goes to the far end of the park or corridor (where your normal voice was just faint) and you say the same sentence twice, at the same loudness: without and with the megaphone. Ask: 'Which was clearer?' Read 'What you have learnt' on page 57: 'Sound gets quieter as it moves away from the source.' Explain: 'Without the megaphone, sound spreads out in every direction and gets weak fast. The cone sends more of it in one direction.'",
+          "ref": "a5"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 56–57",
+        "a park, terrace or long corridor",
+        "2 spoons, a steel plate, a whistle",
+        "chart paper and tape"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Sound travels through things",
+      "goal": "Make a string telephone, test sound through a table, and learn from Robert Boyle that sound needs something to travel through.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "String telephone",
+          "mins": 12,
+          "do": "Do Activity a6. Make a small hole in the bottom of two paper cups (or two empty curd cups). Thread a 5-metre string through and tie a knot or a matchstick inside each so it doesn't pull through. Your child holds one cup to their ear and you speak softly into the other, walking apart until the string is tight. Ask your child to guess first: 'Will it work if the string is loose?' Then try with the string loose, then tight, then with someone pinching the string in the middle. Ask: 'When did it work best?' (When the string was tight and nothing touched it.) 'Why does pinching stop it?' (The string can't vibrate past the fingers.)",
+          "ref": "a6"
+        },
+        {
+          "kind": "do",
+          "title": "Ear on the table",
+          "mins": 6,
+          "do": "Your child puts one ear flat on a wooden or steel table and covers the other ear. You scratch very gently at the far end of the table with a fingernail. Then they lift their head and you scratch again the same way. Ask: 'When did you hear it better?' (With the ear on the table.) Say: 'Sound travels through solid things like wood and string, often better than through air. That is why you can hear neighbours through a wall.'"
+        },
+        {
+          "kind": "think",
+          "title": "Robert Boyle and the bell in a jar",
+          "mins": 12,
+          "do": "Tell your child about Voice v2: Robert Boyle put a ticking watch inside a glass jar and pumped out the air. As the air was pumped out, the sound got fainter and fainter. Ask your child: 'What do you think sound needs to travel?' (Something to travel through: air, water, string or wood.) Then ask: 'Is there air in space? So can astronauts hear an explosion outside their spaceship?' (No air in space, so no sound reaches them through it.) Then ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "2 paper or curd cups",
+        "5 metres of string",
+        "2 matchsticks",
+        "a wooden or steel table"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Echoes, animal ears and listening plants",
+      "goal": "Hear an echo, think about how animals use hearing, discuss a live debate about plants making sounds, and do the core and stretch worksheets.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Echo hunt",
+          "mins": 5,
+          "do": "If you can, go to a big empty hall, a stairwell, a well, a tunnel or stand facing a tall building wall about 20 metres away and clap once loudly. Ask: 'Did you hear the clap twice?' Explain: 'The sound bounced off the wall and came back to your ears. That is an echo.' Bats and dolphins use echoes to find their way: they make clicks and listen for the echoes bouncing back from insects or fish. If you can't find an echo, shout into an empty steel bucket and listen to how the sound changes."
+        },
+        {
+          "kind": "think",
+          "title": "Can plants make sounds?",
+          "mins": 8,
+          "do": "Tell your child about Voice v3: in 2023 scientists in Israel reported that tomato and tobacco plants make tiny clicking sounds when they are thirsty or cut, too high for people to hear, but which special microphones could pick up. Ask: 'Why can't we hear them?' (The sounds are too high-pitched for human ears; bats, mice and some insects can hear high sounds like these.) Then ask the voice question. Make sure your child knows scientists are still finding out whether any animal listens to these sounds.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws1 (core). Read each item aloud; your child points, matches or says the answer, and you write it if needed.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Read each question aloud. Your child answers aloud or by drawing and you write their words.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "a hall, stairwell or large wall for an echo, or a steel bucket",
+        "Worksheets ws1 and ws2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Check your progress and teach it back",
+      "goal": "Do the book's Check your progress on pages 58–59, the challenge worksheet and the unit check, and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 58–59)",
+          "mins": 7,
+          "do": "Question 1 on page 58: 'Which of these make sounds you can hear?' Go through the eight pictures: the car (yes, engine and horn), the flower in a pot (no), the balloon (not by itself, but it bangs if it bursts and squeaks if rubbed), the book (only if you turn the pages or drop it), the bed (no, unless it creaks), the horse (yes, neighing and hooves), the guitar (yes, when its strings are plucked and vibrate) and the TV (yes, when it is switched on). Question 2 on page 59: 'What might happen to this girl's ears?' (Her earphones are far too loud, so the sound could damage her hearing. She should turn it down.) Question 3: 'Ben can't hear the music. What can he do?' (Move closer to the radio, turn up the volume, or cup his hands behind his ears.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge) together. Ask 'How could we test that?' after each answer.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 5,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed one, repeat the matching test (ruler twang, cupped ears, walking away) for a minute, then ask again. Fewer than 4 right means repeat Day 1 and Day 6 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 10,
+          "do": "Your child is the teacher. Using the ruler, the rubber-band veena, the paper cones and the string telephone, they teach you (or a grandparent) in 5 minutes: what a sound source is; that sounds are made by vibrating; that we hear with our ears and how to protect them; and that sound gets quieter as it travels. Ask two 'student' questions: 'Why do people shout through a cone at a cricket match?' and 'Why do I cover my ears near firecrackers?' End by reading one page of their sound diary aloud."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 58–59",
+        "Worksheet ws3",
+        "the ruler, veena, cones and string telephone",
+        "the sound diary"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Sound sources and our ears",
+      "day": 8,
+      "sections": [
+        [
+          "A. Sound sources",
+          [
+            {
+              "t": "sort",
+              "p": "Does it make a sound by itself?",
+              "items": [
+                "Pressure cooker",
+                "Crow",
+                "Flower",
+                "Doorbell",
+                "Pillow",
+                "Dog",
+                "Stone",
+                "Mixer"
+              ],
+              "cats": [
+                "Makes sound",
+                "Makes no sound by itself"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "A thing that makes a sound is called a sound ____.",
+              "a": [
+                "source"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "All sounds are made by something that is:",
+              "opts": [
+                "Hot",
+                "Vibrating (shaking fast)",
+                "Big"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Our ears",
+          [
+            {
+              "t": "fill",
+              "p": "We hear sounds with our ____.",
+              "a": [
+                "ears",
+                "ear"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "Ume covers her ears. The sound she hears is:",
+              "opts": [
+                "Louder",
+                "Quieter",
+                "The same"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "Tamu cups his hands behind his ears. This helps him:",
+              "opts": [
+                "Hear soft sounds",
+                "Stop all sounds",
+                "See better"
+              ],
+              "a": 0
+            },
+            {
+              "t": "draw",
+              "p": "Draw the man with the drill on page 54 wearing ear defenders. Why does he need them?"
+            }
+          ]
+        ],
+        [
+          "C. Sounds move",
+          [
+            {
+              "t": "mcq",
+              "p": "As sound moves away from its source, it gets:",
+              "opts": [
+                "Louder",
+                "Quieter",
+                "Hotter"
+              ],
+              "a": 1
+            },
+            {
+              "t": "match",
+              "p": "Match.",
+              "pairs": [
+                [
+                  "Megaphone",
+                  "Makes your voice go further"
+                ],
+                [
+                  "Ear defenders",
+                  "Keep loud sounds out"
+                ],
+                [
+                  "Headphones",
+                  "Put music close to your ears"
+                ]
+              ]
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Sound in new places",
+      "day": 8,
+      "sections": [
+        [
+          "A. Solve it",
+          [
+            {
+              "t": "write",
+              "p": "Dadi can't hear the bhajan on the radio from the kitchen. Give two things she could do.",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "During Diwali your little cousin is scared of the loud crackers. What can you tell him to do, and why?",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "Which band on the rubber-band veena gives the highest sound?",
+              "opts": [
+                "Thick and loose",
+                "Thin and tight",
+                "Thick and tight"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Our tests",
+          [
+            {
+              "t": "table",
+              "p": "Write your 'how far' results.",
+              "cols": [
+                "Sound",
+                "Steps until I could not hear it"
+              ],
+              "rows": 3,
+              "prefill": [
+                "Whisper",
+                "Spoon on plate",
+                "Whistle"
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Which sound went furthest? Why?",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "The string telephone works best when the string is:",
+              "opts": [
+                "Loose and touching the floor",
+                "Tight and not touched",
+                "Wet"
+              ],
+              "a": 1
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Sound puzzles",
+      "day": 9,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "mcq",
+              "p": "Boyle pumped the air out of a jar with a watch inside. The ticking:",
+              "opts": [
+                "Got louder",
+                "Got fainter",
+                "Did not change"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "In films, spaceships make loud booms in space. Is that true to life? Why or why not?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "You heard the fingernail scratch better with your ear on the table. What does that tell you about sound and solid things?",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "B. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if we had only one ear? What would be harder?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "What if there were no sounds at all for a day? Name three ways your day would change, and how you would stay safe.",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "C. Weigh the evidence",
+          [
+            {
+              "t": "mcq",
+              "p": "Scientists found thirsty tomato plants make clicks that people can't hear. What would show that animals use these sounds?",
+              "opts": [
+                "The clicks are loud",
+                "An experiment where animals behave differently when they hear the clicks",
+                "A news story about it"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "Raman found that the black patch on a tabla helps it make clear notes. How could you test this with a home-made drum?",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Feel and see vibrations",
+      "day": 1,
+      "question": "What is happening to a thing when it makes a sound?",
+      "need": [
+        "a ruler",
+        "a table",
+        "a rubber band",
+        "a steel box or katori"
+      ],
+      "steps": [
+        "Fingers gently on the front of the throat: hum, then stop. Feel.",
+        "Hold one end of a ruler firmly on the table edge, most of it sticking out. Twang the free end. Watch and listen.",
+        "Make the part sticking out shorter and twang again. Listen to how the sound changes.",
+        "Stretch a rubber band over an open box and pluck it. Watch it blur.",
+        "Touch the band while it sounds and notice what happens."
+      ],
+      "predict": "Ask your child to guess first: 'What do you think a thing is doing when it makes a sound?'",
+      "observe": "The throat buzzes when humming and stops when the hum stops. The ruler and rubber band shake fast and blur while making sound; the sound stops when they stop shaking. A shorter ruler shakes faster and gives a higher sound.",
+      "why": "Every sound is made by something vibrating: moving backwards and forwards very quickly. When we hum, the vocal cords in our throat vibrate. The vibrating ruler or band pushes and pulls on the air next to it, making the air vibrate too, and these vibrations travel through the air to our ears. Faster vibrations make higher sounds (a short ruler, a thin tight band); slower vibrations make lower sounds. Bigger vibrations make louder sounds.",
+      "safety": "Twang the ruler gently and keep faces away from it and from stretched rubber bands.",
+      "time": "12 min"
+    },
+    {
+      "id": "e2",
+      "title": "Bigger ears: do they help us hear?",
+      "day": 4,
+      "question": "Can cupped hands or paper cones help us hear quiet sounds from further away?",
+      "need": [
+        "2 sheets of chart paper or newspaper rolled into cones",
+        "tape",
+        "a quiet room",
+        "a quiet sound: a ticking watch, rubbing fingers or a whisper"
+      ],
+      "steps": [
+        "Your child sits with eyes closed.",
+        "Stand far away and make the quiet sound, moving one step closer at a time.",
+        "Your child raises a hand as soon as they hear it. Count your steps from them.",
+        "Repeat with hands cupped behind the ears.",
+        "Repeat with the paper cones held at the ears (never inside).",
+        "Do each three times and take the middle result."
+      ],
+      "predict": "Ask your child to guess first: 'Which way will you hear the sound from furthest away?'",
+      "observe": "The distance at which the sound was first heard each way. Usually cupped hands and cones let your child hear the sound from further away than bare ears.",
+      "why": "Our outer ears are shaped like little dishes to collect sound and funnel it into the ear hole. Cupping our hands or using a cone makes the collecting dish bigger, so more of the sound arriving from in front is gathered and sent into the ear. That makes quiet sounds seem louder. Animals that need to hear well, like rabbits, deer and owls (whose face feathers form a dish), have big or movable collectors. Making the same sound and doing each test three times keeps it fair.",
+      "safety": "Never put the cone or anything else inside the ear.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Which material blocks sound best?",
+      "day": 5,
+      "question": "Which material stops the most sound getting out of a box?",
+      "need": [
+        "a phone playing music at a fixed volume, or a ticking alarm clock",
+        "a steel dabba or shoebox",
+        "newspaper, a towel, a woollen sweater, foil, a pillow or bubble wrap"
+      ],
+      "steps": [
+        "Put the phone or clock in the box and close it.",
+        "Your child stands 2 metres away and rates how loud it is from 1 to 5.",
+        "Wrap the box in one material and rate it again from the same place.",
+        "Repeat with each material, keeping the volume and distance the same.",
+        "Record the ratings in a table."
+      ],
+      "predict": "Ask your child to guess first: 'Which material will make the sound quietest?'",
+      "observe": "The loudness rating for each material. Soft, thick materials such as the sweater, towel or pillow usually block the most sound; foil and newspaper block very little.",
+      "why": "Sound travels as vibrations. Soft, thick, fluffy materials have lots of tiny air pockets and fibres that bend and rub as the sound passes, turning some of its energy into a tiny bit of heat, so less sound comes out the other side. Thin, hard materials like foil just pass the vibration on. That is why ear defenders, recording studios and cinema walls use soft, thick padding. Keeping the volume and the listening place the same makes the test fair.",
+      "safety": "Keep the volume at a comfortable level.",
+      "time": "13 min"
+    },
+    {
+      "id": "e4",
+      "title": "How far do sounds go? (book Activity 6.3)",
+      "day": 6,
+      "question": "Do loud sounds travel further than quiet sounds?",
+      "need": [
+        "a park, terrace or long corridor",
+        "2 spoons, a steel plate, a whistle",
+        "family members (optional)"
+      ],
+      "steps": [
+        "The parent stands still and makes a quiet sound over and over (tapping spoons softly).",
+        "Your child walks away one step at a time and stops when they can't hear it any more.",
+        "Count the steps.",
+        "Repeat with a loud sound (spoon on plate) and a very loud sound (whistle).",
+        "If others join, they stand at different distances and say 'loud', 'quiet' or 'can't hear'."
+      ],
+      "predict": "Ask your child to guess first: 'Which sound will you still hear from furthest away?'",
+      "observe": "The number of steps for each sound. Loud sounds can be heard much further away. Close up every sound is loud; it gets quieter and quieter with each step.",
+      "why": "Sound spreads out from its source in all directions, like ripples spreading from a stone dropped in a pond. As it spreads, its energy is shared over a bigger and bigger area, so each part of it is weaker and it sounds quieter. Some is also soaked up by the air, grass and walls. A loud sound starts with more energy, so it can spread further before it becomes too faint to hear. This is why the man on page 56 could not be heard: the woman was far away and her headphones were louder.",
+      "safety": "Use a safe place away from traffic. Do not blow the whistle near anyone's ear.",
+      "time": "16 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Sound diary",
+      "day": 1,
+      "mins": 5,
+      "need": [
+        "a small notebook",
+        "a pencil"
+      ],
+      "steps": [
+        "Make three columns: Sound source | Loud or quiet? | Person, animal or thing?",
+        "Add the sounds heard in the minute of silence.",
+        "Add at least five more sounds at home, on the sound walk and at night.",
+        "At the end of the unit, count how many sources were people, animals and things."
+      ],
+      "outcome": "A diary of at least 15 sound sources, sorted."
+    },
+    {
+      "id": "a2",
+      "title": "Listening to sounds (book Activity 6.1)",
+      "day": 2,
+      "mins": 12,
+      "need": [
+        "a steel bell or spoon and glass",
+        "a packet",
+        "a coin and steel plate"
+      ],
+      "steps": [
+        "Your child sits with eyes closed.",
+        "Make one sound at a time from different places in the room.",
+        "Your child points to where it came from and names it.",
+        "Repeat with one ear blocked and compare."
+      ],
+      "outcome": "A child who can locate and name sounds with eyes closed and knows two ears help find direction."
+    },
+    {
+      "id": "a3",
+      "title": "Rubber-band veena",
+      "day": 3,
+      "mins": 13,
+      "need": [
+        "an empty tissue box or small open shoebox",
+        "4 rubber bands of different thickness",
+        "a pencil"
+      ],
+      "steps": [
+        "Stretch the rubber bands around the box over the hole.",
+        "Push a pencil under the bands at one end as a bridge.",
+        "Pluck each band and watch it vibrate.",
+        "Find the highest and lowest notes.",
+        "Stretch a band tighter and listen for the change."
+      ],
+      "outcome": "A home-made string instrument and a child who knows thin, tight strings give high notes."
+    },
+    {
+      "id": "a4",
+      "title": "Loud and soft sounds (book Activity 6.2)",
+      "day": 5,
+      "mins": 12,
+      "need": [
+        "a phone with music"
+      ],
+      "steps": [
+        "Play music at a medium level. Cover your ears like Ume, then uncover.",
+        "Say what changed.",
+        "Play music very softly. Cup your hands behind your ears like Tamu.",
+        "Say what changed."
+      ],
+      "outcome": "A child who can show how to block loud sounds and catch soft ones."
+    },
+    {
+      "id": "a5",
+      "title": "Paper megaphone (book page 57)",
+      "day": 6,
+      "mins": 8,
+      "need": [
+        "a sheet of chart paper",
+        "tape"
+      ],
+      "steps": [
+        "Roll the chart paper into a cone and tape it.",
+        "Cut the narrow end to make a mouth hole.",
+        "Say a sentence to someone far away without and then with the megaphone, at the same loudness.",
+        "Compare which was clearer."
+      ],
+      "outcome": "A megaphone and a test showing it helps sound go further in one direction."
+    },
+    {
+      "id": "a6",
+      "title": "String telephone",
+      "day": 7,
+      "mins": 12,
+      "need": [
+        "2 paper or curd cups",
+        "5 m of string",
+        "2 matchsticks"
+      ],
+      "steps": [
+        "Make a small hole in the bottom of each cup.",
+        "Thread the string through and tie it to a matchstick inside each cup.",
+        "Walk apart until the string is tight.",
+        "One person speaks softly into a cup; the other listens.",
+        "Try with the string loose, then pinched in the middle."
+      ],
+      "outcome": "A working string telephone, and a child who knows sound can travel along a tight string."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "C.V. Raman (1888–1970), India",
+      "idea": "Chandrasekhara Venkata Raman, a physicist in Kolkata, loved the science of musical instruments. In 1920 he published a study of the mridangam and tabla. Most drums make a thud with no clear note, because their skin vibrates in a jumble of ways. Raman showed that the black patch in the middle of the tabla or mridangam skin (called the syahi, made from a paste of iron filings, soot and starch) changes how the skin vibrates so that it gives a clear, musical note with overtones in tune with each other, almost like a stringed instrument.",
+      "then": "His work on Indian drums was respected by scientists who studied sound, and he also studied the veena and violin. He was later famous for a different discovery about light, the Raman effect, for which he won the Nobel Prize in Physics in 1930.",
+      "now": "His explanation of why Indian drums sound musical is accepted, and scientists studying drums still cite his work. India celebrates National Science Day on 28 February, the day in 1928 when he announced the Raman effect.",
+      "status": "accepted",
+      "ask": "Raman found the black patch makes the tabla sound musical. How could you test this yourself with a drum made from a bowl and a balloon? What would you add, and what would you keep the same?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Robert Boyle (1627–1691), England, and the earlier claim of Athanasius Kircher",
+      "idea": "Some scholars in the 1600s thought sound might travel through empty space. In Rome in the 1640s Gasparo Berti hung a bell inside a long tube from which much of the air had been drawn out, and the bell could still be heard; the German scholar Athanasius Kircher, who reported such an experiment in 1650, took this as evidence that sound does not need air. In 1660 Boyle, using a much better air pump built with Robert Hooke, put a ticking watch in a glass jar and slowly pumped out the air. The ticking became fainter and fainter as the air was removed, and grew louder again when air was let back in.",
+      "then": "Boyle concluded that air carries sound. He explained that earlier tests had not removed enough air, and that sound could also travel through the solid parts holding the bell. Others repeated his experiment with better pumps.",
+      "now": "It is accepted that sound needs something to travel through, such as air, water, string or wood, and cannot travel through empty space. Kircher's conclusion was rejected. This is why space is silent, even though films often add explosion sounds.",
+      "status": "accepted",
+      "ask": "Kircher thought he had shown sound needs no air, but his test still had some air and solid parts touching the bell. Why is it important to remove everything else that could carry the sound before deciding? How would you design a fair test?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Itzhak Khait, Lilach Hadany and colleagues, Tel Aviv University, Israel (study published in the journal Cell, 2023)",
+      "idea": "The team put tomato and tobacco plants in soundproof boxes with special microphones. They reported that plants under stress, either thirsty or with cut stems, gave off short popping or clicking sounds in the ultrasound range, too high for humans to hear, at up to about 30 to 50 clicks an hour, while healthy plants were mostly quiet. A computer program could tell from the clicks whether a plant was dry or cut.",
+      "then": "The study got a lot of attention. Scientists pointed out that the clicks are probably caused by air bubbles forming and bursting in the plant's water tubes as it dries, not by the plant 'talking'.",
+      "now": "That stressed plants make these sounds is a new finding that other labs are still checking. Whether any animal, such as a moth deciding where to lay eggs, or other plants, actually hear and respond to them is not yet known; the researchers themselves say this needs testing. It is an open question.",
+      "status": "debated",
+      "ask": "If a thirsty plant clicks, does that mean it is 'crying for help'? What is the difference between making a sound and sending a message? What experiment would show that a moth listens to the clicks?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {
+      "q": "What is a sound source? Give three examples.",
+      "a": "A thing that makes a sound, such as my voice, a dog, a bell, a pressure cooker or a car horn."
+    },
+    {
+      "q": "What happens to a ruler or rubber band when it makes a sound?",
+      "a": "It vibrates: it shakes backwards and forwards very fast. When it stops, the sound stops."
+    },
+    {
+      "q": "What do we hear with?",
+      "a": "Our ears. Sound goes into our ears."
+    },
+    {
+      "q": "Why should you cover your ears near very loud sounds?",
+      "a": "To stop some of the sound going in, because loud sounds can damage our ears."
+    },
+    {
+      "q": "How can you hear a very soft sound better?",
+      "a": "Cup your hands behind your ears, or move closer to the sound."
+    },
+    {
+      "q": "What happens to a sound as you walk away from it?",
+      "a": "It gets quieter."
+    },
+    {
+      "q": "Ben can't hear the music on the radio. What can he do?",
+      "a": "Move closer, turn up the volume, or cup his hands behind his ears."
+    }
+  ]
+}
