@@ -1,0 +1,605 @@
+{
+  "key": "cambridge|sci|2|6",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 2,
+  "n": 6,
+  "title": "Electricity",
+  "source": "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 6 'Electricity' (pages 146–169)",
+  "summary": "Your child finds out how much we use electricity at home to make light, sound, heat, cold and movement, and the difference between mains electricity from a power station and cells (batteries) we carry around. They learn firm safety rules for mains electricity, then build real circuits with a cell, wires and a lamp, find out why some circuits don't work, test which materials conduct electricity, and see what happens when they add more lamps or more cells.",
+  "goals": [
+    "By the end your child can name appliances that use electricity to make light, sound, heat, cold and movement, and say which use mains electricity and which use cells.",
+    "By the end your child can sort switches into press, rocker and slide switches.",
+    "By the end your child can state and follow the electricity safety rules: never touch mains sockets, plugs, wires or appliances, never with wet hands, keep water and dirt away, keep away from damaged wires, never open or burn cells.",
+    "By the end your child can build a complete circuit with a cell, wires and a lamp, trace the flow of electricity around it with a finger, and explain why an incomplete circuit does not work.",
+    "By the end your child can test materials to find which conduct electricity (metals) and which do not (plastic, wood, paper), and explain why wires are copper covered with plastic.",
+    "By the end your child can predict and test what happens to lamp brightness when more lamps or more cells are added, and look for a pattern."
+  ],
+  "words": [
+    ["electricity", "a kind of energy that flows along wires and makes appliances work"],
+    ["electrical appliance", "a machine or device that uses electricity, like a fan, a fridge or a torch"],
+    ["mains electricity", "the very powerful electricity made in a power station that comes to wall sockets; it can kill"],
+    ["power station", "a big building where mains electricity is made"],
+    ["cell", "a small, safe store of electricity, often called a battery, used in torches, watches and remotes"],
+    ["plug and wall socket", "a plug on an appliance's wire fits into a wall socket to get mains electricity"],
+    ["switch", "a part that turns an appliance on and off; it can be pressed, slid or rocked"],
+    ["circuit", "a complete path, or loop, that electricity flows around to make things work"],
+    ["complete", "with no gaps; a lamp only lights in a complete circuit"],
+    ["connection", "a place where two parts of a circuit touch and join"],
+    ["lamp", "a small bulb used in a circuit"],
+    ["conductor", "a material that lets electricity flow through it, like copper and other metals"],
+    ["electric shock", "the harm caused when mains electricity flows through a person's body"]
+  ],
+  "day_mins": 35,
+  "days": [
+    {
+      "n": 1,
+      "title": "Where do we use electricity?",
+      "goal": "Notice how much we use electricity at home for light, sound, heat, cold and movement, and learn the first safety rule about mains appliances.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Power cut!",
+          "mins": 6,
+          "do": "Ask your child to imagine a long power cut on a hot evening: 'What stops working?' (fans, lights, TV, fridge, Wi-Fi, the mixer, the geyser, phone charging, the lift, the water pump.) 'What still works?' (torches and phones with charged batteries, the inverter if you have one, the gas stove, diyas and candles.) Tell them: 'Today we will find out where we use electricity, and how it gets to our home.'"
+        },
+        {
+          "kind": "read",
+          "title": "The Mars rover and electrical appliances (page 146)",
+          "mins": 6,
+          "do": "Read the 'Getting started' box on page 146: this is the Mars Curiosity Rover; it is a robot on planet Mars looking for water; it uses electricity to move, test for water, look for rocks and take photographs; it moves on its wheels and has arms it can move. Ask: 'Try to think of other electrical appliances which move.' (a fan, a mixer-grinder, a washing machine drum, an electric toothbrush, a remote-control car, a lift.) Tell them India also sent a rover, Pragyan, to the Moon in 2023 on Chandrayaan-3, and it was powered by electricity from sunlight."
+        },
+        {
+          "kind": "act",
+          "title": "Electricity in our house (page 147, question 1)",
+          "mins": 15,
+          "do": "Look at the house picture on page 147 and ask question 1: 'How do we use electricity to make light? make sound? heat things up? cool things down? make things move?' Find each in the picture. Then do Activity a1 in your own home: your child makes a five-column chart: Light, Sound, Heat, Cool, Move. Walk round together and add your own appliances: tube light and LED bulbs (light); TV, speaker, doorbell, mobile phone (sound); iron, geyser, electric kettle, induction stove, toaster (heat); fridge, AC, air cooler (cool); ceiling fan, mixer-grinder, washing machine (move). Some go in two columns: a fan cools and moves; a TV makes light and sound.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Wires, plugs and the first safety rule (page 147)",
+          "mins": 8,
+          "do": "Read the bottom of page 147: look for things that use mains electricity; we call these things appliances; they have a wire and plug. Read the red line slowly and ask your child to repeat it: 'Only adults should move, plug in and unplug mains electrical appliances. Mains electricity is very powerful. It can be dangerous. It can kill you.' Point to a plug and a wall socket in your home without touching them. Ask: 'Who is allowed to plug in the iron?' (only an adult.)"
+        }
+      ],
+      "need": ["Learner's Book pages 146–147", "a big sheet of paper for a chart", "pencils"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Mains electricity and cells",
+      "goal": "Learn that mains electricity is made in power stations and travels along wires, while cells carry a small amount of electricity for portable things, and meet an Indian electricity pioneer.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Power stations and cells (page 148)",
+          "mins": 8,
+          "do": "Read page 148 and look at the power station photo: mains electricity is made in a power station; the electricity travels along the wires, high in the air, so that we are safe; the wires take the electricity to all the places we need it. A cell is a source of electricity; cells are used to power electrical appliances that people carry around, like flashlights, watches or mobile phones. On your next walk, point out the tall electricity towers or the poles and wires in your street and the transformer box (from a distance). Tell your child that India's electricity comes from coal power stations, big dams such as Bhakra Nangal, wind farms in Tamil Nadu and Gujarat, and huge solar parks such as the one at Bhadla in Rajasthan."
+        },
+        {
+          "kind": "do",
+          "title": "Which cell fits? (page 149, question 2)",
+          "mins": 7,
+          "do": "Ask question 2 on page 149: 'Which cell will fit into which electrical appliance? Choose from flashlight, watch and mobile phone.' (a, the long round cell, goes in the flashlight; b, the flat round button cell, goes in the watch; c, the flat rectangular battery, goes in the mobile phone.) Then collect the cell-powered things at home: TV remote, wall clock, torch, toy, a weighing scale. Open the cell covers (an adult opens anything with a screw) and look at the cells: AA, AAA, button cells. Find the + and − signs. Warn your child: button cells must never be put in the mouth or nose; if swallowed they are very dangerous."
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose sends invisible waves",
+          "mins": 10,
+          "do": "Tell the story in Voice v1: in 1895 in Kolkata, Jagadish Chandra Bose used electricity to make invisible waves (like the ones that carry radio and mobile phone signals today) and sent them across a hall and through walls to ring a bell far away. Ask: 'How does your parent's mobile phone talk to someone in another city without a wire?' (It sends invisible radio waves.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Electricity at home survey (page 149, Activity 1)",
+          "mins": 10,
+          "do": "Do the book's Activity 1 'Electricity in school' on page 149 at home. Your child picks eight things around the house and, for each, answers the book's questions aloud and fills a table: Thing | Powered by electricity? | Cells or mains? | What does it do? | Safe for children to use? Ask: 'How do you know if something is powered by electricity?' (It has a plug and wire, a cell cover, a switch, a screen or lights.) Good answers: the TV remote is cell-powered, safe to use; the iron is mains-powered, not safe for children; the gas stove is not electric."
+        }
+      ],
+      "need": ["Learner's Book pages 148–149", "cell-powered things: TV remote, clock, torch, toy", "paper for a table"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Switches",
+      "goal": "Find out that appliances have on/off switches that are pressed, slid or rocked, and sort switches into groups.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Press, slide, rocker (page 149)",
+          "mins": 6,
+          "do": "Read 'Switches' on page 149: electrical appliances have on/off switches; look at an appliance; does it have a switch? How does the switch move? Did you see switches on the appliances you used today? Some switches can be pressed, some slide and some can be rocked. Look at the three drawings: press switch, slide switch, rocker switch. Show your child the light switches on your wall: most Indian wall switches are rocker switches (they tip up and down). Remind them: wall switches are fine for children to press with dry hands; never open the switchboard."
+        },
+        {
+          "kind": "act",
+          "title": "Which switch? (page 150, Activity 2)",
+          "mins": 20,
+          "do": "Do Activity a2, the book's 'Which switch?' on page 150. Collect electrical appliances powered by cells: a torch, a TV remote, a calculator, a toy, a digital thermometer, a small fan or a bicycle light, an electronic weighing scale, a doorbell button. Copy the page 150 table with the heading 'Electrical appliances powered by cells' and three columns: press switches | rocker switches | slide switches. The book's example is a door bell (press switch). Your child tries each switch, names the appliance and draws its switch in the right column. Some appliances have more than one kind of switch: a remote has many press buttons; a torch may have a slide or a press switch.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "What does a switch really do?",
+          "mins": 9,
+          "do": "Take the cells out of a torch (an adult unscrews it) and show the metal strip under the switch. Slide or press the switch and show how a piece of metal moves to touch another piece. Say: 'When the switch is ON, the metal pieces touch and electricity can flow. When it is OFF, there is a gap and the electricity stops.' Put the torch back together and test it. Ask: 'Why would an appliance with no switch be a problem?' (You could never turn it off; it would waste the cells.) Tell them they will see this 'gap' idea again when they build circuits."
+        }
+      ],
+      "need": ["Learner's Book pages 149–150", "6–8 cell-powered appliances with switches", "a torch that can be opened", "paper for a table"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Michael Faraday and Thomas Edison",
+      "goal": "Find out about Faraday's discoveries and Edison's inventions using books and the internet, and see that big inventions often have many inventors.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Michael Faraday (page 150)",
+          "mins": 5,
+          "do": "Read 'Michael Faraday' on page 150: over 200 years ago Michael Faraday found out many things about electricity; one discovery was that electricity could move things; we now use his science in all the electrical appliances we use today; Faraday's inventions made electricity very useful to us. Ask: 'Which appliances in our home move because of electricity?' (fan, mixer, washing machine, the cooler's fan.)"
+        },
+        {
+          "kind": "think",
+          "title": "Faraday: the bookbinder's boy",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: Faraday came from a poor family, left school very young and worked binding books, reading the science books he bound. He later became one of the greatest scientists, and built the first simple electric motor and found how to make electricity by moving a magnet near a wire, which is how power stations still make electricity. Ask: 'Faraday had hardly any schooling. How did he learn so much?' (He read, asked questions, attended lectures and did experiments.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Finding out about electricity (page 151, Think like a scientist)",
+          "mins": 15,
+          "do": "Do Activity a3, the book's 'Finding out about electricity' on page 151. Use children's books or a short internet search with your child to answer: 'What do we use electricity for? What were Thomas Edison's inventions? What were Michael Faraday's discoveries?' Good findings: Edison worked on long-lasting electric light bulbs, the phonograph (an early machine that recorded and played back sound) and systems to bring electricity to homes; Faraday discovered how electricity and magnets can make things move (the first simple motor) and how to make electricity with magnets (used in power stations). Your child makes a poster with three boxes, one for each question. Tell them honestly that other inventors, such as Joseph Swan in England, also made working light bulbs at about the same time as Edison.",
+          "ref": "a3"
+        },
+        {
+          "kind": "review",
+          "title": "Talk to Faraday (page 151, How am I doing?)",
+          "mins": 7,
+          "do": "Do 'How am I doing?' on page 151: you pretend to be Michael Faraday visiting your home 200 years in the future. Your child tells you all the things we now use his discoveries for: 'Mr Faraday, your motor is inside our fan, our mixie and our washing machine, and your way of making electricity is used in the power station that lights our house!' Read the green box: 'Thomas Edison was a great inventor. When you learn about inventions, does it make you want to learn more science?' Tick the 'Look what I can do!' list on page 151."
+        }
+      ],
+      "need": ["Learner's Book pages 150–151", "a children's book about electricity or internet access", "a big sheet of paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Keep safe with electricity",
+      "goal": "Learn the electricity safety rules and the reasons behind each one.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "What could happen to this child? (page 152)",
+          "mins": 5,
+          "do": "Look at the photo on page 152 of a toddler reaching towards a plug in a wall socket. Ask the 'Getting started' questions: 'What could happen to this child?' (She could get an electric shock if she pulls the plug or pokes the socket, and could be badly hurt or killed.) 'How can we make her safe?' (Move her away, use socket covers or shuttered sockets, keep wires out of reach, switch off at the switch.) Ask: 'Have you seen a little child near a socket in our family? What did the adults do?'"
+        },
+        {
+          "kind": "read",
+          "title": "Electricity Safety Rules (pages 153–155)",
+          "mins": 14,
+          "do": "Read page 153: electricity can be very dangerous if you don't take care; electricity is safe if you follow the rules. Read the six Electricity Safety Rules in the green box and ask your child to say each one back: 1 children should not move or touch mains appliances, wires or plugs; 2 children should not touch mains wall sockets; 3 keep water away from electrical appliances; 4 keep dirt away from electrical appliances; 5 keep away from damaged wire and damaged electrical appliances; 6 do not open or burn electrical cells. Read on: electricity moves through the metal part of a wire; the metal should be covered by plastic; the plastic is to protect you; never touch damaged wires. On page 154: never stick anything into an electric wall socket; mains electricity can move through water; never touch anything that uses mains electricity with wet hands. Page 155: electricity can move through dust and dirt; never touch dirty or damaged electrical things; broken cells can burn your skin and hurt your eyes; never put a cell in a fire; never touch an open cell."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Safety check walk",
+          "mins": 10,
+          "do": "Walk round your home with your child as 'safety inspectors', looking but not touching. Check: is any wire cracked or taped? Is any socket loose or burnt-looking? Is any appliance near water (a mobile charging near the kitchen sink, a hair dryer near the bucket)? Are too many plugs in one extension board, like the photo on page 158? Are there kites stuck on overhead wires outside (never try to pull them down)? Your child writes down anything they think is unsafe, and you (the adult) fix it or decide what to do."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1 and 2 (page 155)",
+          "mins": 6,
+          "do": "Ask question 1 on page 155: 'What might happen to you if you touch an electric wall socket with wet hands?' (Water lets electricity flow into you; you could get a very bad electric shock, be burnt or killed.) Question 2: 'What might happen if you touch a broken cell?' (The chemicals inside can burn your skin and hurt your eyes.) Ask: 'Why are the wires of our fan covered in plastic?' (Electricity flows through the metal; the plastic does not let it through, so it protects us.)"
+        }
+      ],
+      "need": ["Learner's Book pages 152–155", "a notebook"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Mains means danger: rules, poster and survey",
+      "goal": "Write our own safety rules, make a safety poster, and run a safety survey with other children.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Mains means danger and safety poster (page 156, Activities 1 and 2)",
+          "mins": 17,
+          "do": "Do Activity a4, the book's Activities 1 and 2 on page 156. Show your child a mains appliance such as the mixer-grinder or a toaster, still unplugged, and read: 'The wire and plug mean that this appliance is mains-powered.' Together write four rules for younger children about mains-powered appliances in your own words, for example 'Ask a grown-up to plug it in', 'Dry hands before touching any switch', 'Tell an adult if you see a broken wire', 'Never poke anything into a socket'. Then your child makes an electrical safety poster with a big title, such as 'Bijli se savdhaan: Be careful with electricity!', drawings of each rule with a red cross or a green tick, and a picture of a damaged wire to avoid.",
+          "ref": "a4"
+        },
+        {
+          "kind": "act",
+          "title": "Electrical safety survey (page 157, Think like a scientist)",
+          "mins": 13,
+          "do": "Do Activity a5, the book's 'Electrical safety survey' on page 157. Copy the table: questions down the side, and yes | no | don't know across the top. Q1 Are young children allowed to plug appliances into a mains wall socket? Q2 Should you touch an electrical appliance with wet hands? Q3 Should we keep electrical things clean? Q4 Can electricity hurt you? Before you start, your child predicts: 'Will most children know these things?' Then they ask at least five children (siblings, cousins, neighbours' children, over the phone if needed) and put a tally in the right box. The book's example row shows answers from 15 children: Q1, 5 yes, 7 no, 3 don't know. Ask: 'What answers did you get? Are all the children safe? Were your predictions right?'",
+          "ref": "a5"
+        },
+        {
+          "kind": "review",
+          "title": "Tell someone (pages 157–158)",
+          "mins": 5,
+          "do": "Do the book's next step: your child shares the survey results and poster with the parent of any child who answered wrongly, so they can talk to them about safety. Do 'How am I doing?' on page 157: your child tells you how mains electricity can hurt you. Read the green box on page 158: 'You don't need to be scared of electricity, but electricity can hurt you. Does it help you to learn when you know about danger?' Tick the 'Look what I can do!' list on page 158."
+        }
+      ],
+      "need": ["Learner's Book pages 156–158", "an unplugged mains appliance", "a big sheet of paper and colours (red and green)", "paper for the survey table"],
+      "prep": [{"task": "Buy a simple circuit kit for the next days: 2 AA cells (1.5 V), 2 cell holders, 3 small torch bulbs (2.5 V or 3 V) with holders, and 6 wires with crocodile clips (electrical or hobby shop, or online)", "when": "1 week before"}]
+    },
+    {
+      "n": 7,
+      "title": "Making a circuit",
+      "goal": "Learn the parts of a circuit, build a complete circuit that lights a lamp, follow the flow of electricity, and find out why some circuits don't work.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Inside a computer (page 159)",
+          "mins": 4,
+          "do": "Look at the photo of the inside of a computer on page 159. Ask the 'Getting started' questions: 'Talk about the parts inside. Find the wires and fans. Why are there wires inside the computer?' (to carry electricity to every part, like the fans and the lights.) Say: 'Today you will make your own path for electricity.'"
+        },
+        {
+          "kind": "read",
+          "title": "Parts of a circuit (page 160)",
+          "mins": 7,
+          "do": "Read page 160 with your kit laid out on the table so your child can match each real part to the picture: cell, connection, cell holder, lamp holder, lamp, wire. Read: a circuit is a path for the electricity to move along and make things work; each cell has two connections and both are used in a circuit; the cell holder holds the cell and connects it to the wires; the lamp holder holds the lamp and connects it to the wires; the lamp will shine when it is in a complete circuit; the metal part of the wire carries electricity; the arrows show how electricity flows around the circuit. Your child follows the flow with a finger on the picture, from the cell, round the circuit and back to the cell, as the book asks."
+        },
+        {
+          "kind": "exp",
+          "title": "Make a circuit (page 161, Activity 1)",
+          "mins": 14,
+          "do": "Do Experiment e1, the book's 'Make a circuit' on page 161. Put one AA cell in a cell holder (+ to +). Screw a lamp gently into a lamp holder. Clip one wire from one end of the cell holder to one side of the lamp holder, and a second wire from the other side of the lamp holder back to the other end of the cell holder. The lamp should light. Your child traces the flow of electricity around the complete circuit with a finger. Then they 'break' the circuit by unclipping one wire: the lamp goes out. Clip it back: it lights again. Ask the book's question: 'How do you know that you have made a complete circuit?' (The lamp lights.) If the lamp doesn't light, check: is the lamp screwed in? Are clips on metal? Is the cell the right way round and not flat?",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Some circuits don't work (page 161, question 1)",
+          "mins": 10,
+          "do": "Look at the two circuits under 'Some circuits don't work' on page 161 and ask question 1: 'Try to say why these two circuits won't work.' Look closely: in each one, only one wire goes from the cell to the lamp, so the path is not a complete loop; electricity has no way back to the cell. Then your child copies each broken circuit with the real kit to prove it: connect just one wire and see that the lamp stays off. Next, try a 'tricky' one: put both wires on the same end of the cell. Ask: 'Why doesn't this work?' (Both ends of the cell must be used, as page 160 says.)"
+        }
+      ],
+      "need": ["Learner's Book pages 159–161", "circuit kit: 1 AA cell, cell holder, lamp and lamp holder, 2 wires with crocodile clips"],
+      "prep": [{"task": "Test every lamp and cell in the kit so you know they work", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Testing lamps and adding more lamps",
+      "goal": "Test a lamp with just a cell and two wires, then predict and find out what happens to brightness when we add more lamps.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Testing that a lamp works (page 162)",
+          "mins": 8,
+          "do": "Read 'Testing that a lamp works' on page 162: we can test that a lamp is working using two wires and a cell like this; this is a complete circuit. Look at the picture and find the four connections. Without a lamp holder, your child touches one wire clip to the metal tip at the bottom of the lamp and the other to the metal screw side of the lamp, with the wires' other ends on the cell holder. Test all three lamps in the kit this way. Ask: 'Why do we need to touch two different places on the lamp?' (Electricity goes in at one place and out at the other; that makes the loop.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Do more lamps mean brighter lamps? (pages 162–163, Think like a scientist)",
+          "mins": 20,
+          "do": "Do Experiment e2. Make a circuit with two cells in their holders joined end to end (+ to −), wires, one lamp holder and one lamp, as page 162 says. Copy the page 163 table: number of lamps | I predict that… | I noticed… The book's first row: 1, the lamp will be bright, the lamp was bright. Before adding a second lamp in the loop (one after the other, like the picture on page 163), your child predicts and writes what will happen. Add it and fill in 'I noticed'. Then predict and add a third lamp. Ask the page 163 questions: 'What happened when you added the lamps? Was your prediction right? Do you notice a pattern?' (Each extra lamp made all the lamps dimmer.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Many guesses are wrong at first",
+          "mins": 7,
+          "do": "Ask: 'Did you guess that more lamps would make it brighter?' Many children do, and that's a good reason to test. Explain from e2's 'why' in simple words: 'The cell has only so much push. When the lamps are in one line, they share that push, so each gets less and glows less.' Ask: 'How could we make three lamps bright again?' (Add more cells; you will test that on Day 10.)"
+        }
+      ],
+      "need": ["Learner's Book pages 162–163", "circuit kit: 2 AA cells and 2 cell holders, 3 lamps and lamp holders, 6 wires with clips"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Why are wires made of metal?",
+      "goal": "Test which materials conduct electricity and explain why wires are copper covered in plastic.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Metal is a conductor (page 163)",
+          "mins": 6,
+          "do": "Read 'Metal is a conductor' on page 163: electricity flows along the metal part of a wire; metal is a conductor of electricity; some materials like plastic do not conduct electricity; the plastic on the outside of the wire keeps us safe. Ask question 2: 'What would happen if mains wires did not have a plastic covering?' (Anyone who touched the wire would get an electric shock; wires touching each other or metal things could cause sparks and fires.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Conductor test (pages 164–165, Activity 2)",
+          "mins": 20,
+          "do": "Do Experiment e3, the book's 'Why are wires made of metal?' on pages 164–165. Make the circuit on page 164 with a cell, a lamp and three wires, leaving a gap between two crocodile clips. Read: the circuit is not complete so electricity will not flow; place the material into the gap and hold the wires onto it; if the material conducts electricity, the lamp will light up. Collect materials to test: a steel spoon, a paper clip, foil, a coin, a key, a plastic ruler, a pencil (wooden side), a rubber eraser, paper, a cotton cloth, a glass marble, and the pencil 'lead' (graphite) at both sharpened ends. Copy the page 165 table: Material | Will it conduct electricity? prediction | result. The book's example: metal foil, prediction no, result yes. Your child predicts each one first, then tests.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Did you see a pattern? (page 165)",
+          "mins": 9,
+          "do": "Ask the page 165 questions: 'Did you find materials that conducted electricity? Did you see a pattern in the results?' (All the metals lit the lamp: spoon, clip, foil, coin, key. Plastic, wood, rubber, paper, cloth and glass did not.) Read: copper is a good conductor of electricity, so we use it in electrical wires. If you have an old cut-off wire, an adult strips the end to show your child the shiny orange-brown copper strands inside the plastic. Ask: 'Why is the handle of a screwdriver for electricians made of plastic or rubber?' (They do not conduct, so they protect the electrician's hand.) If the pencil lead lit the lamp a little, tell them graphite is a surprise: it is not a metal, but it can conduct."
+        }
+      ],
+      "need": ["Learner's Book pages 163–165", "circuit kit: cell, cell holder, lamp and holder, 3 wires with clips", "materials to test: steel spoon, paper clip, foil, coin, key, plastic ruler, wooden pencil sharpened at both ends, rubber, paper, cloth, glass marble", "an old wire with plastic covering (optional, adult strips it)"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Do more cells make lamps brighter?",
+      "goal": "Predict and test what happens when we add a second cell, explain why connections matter, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "More cells (page 165, Activity 3)",
+          "mins": 13,
+          "do": "Do Experiment e4, the book's 'Do more cells make lamps brighter?' on page 165. Use one cell, wires, a lamp holder and a lamp to make a circuit and check that it works. Ask your child to predict what will happen if you add another cell. Now add the second cell in the circuit. Read the book's reminder: 'Make sure both cells are the same way around' (+ of one touching − of the next). Ask: 'Was your prediction right?' (The lamp is brighter.) Then try turning one cell the wrong way round and see that the lamp goes out or very dim. Finally, put the 3-lamp circuit from Day 8 on two cells and compare it with one cell.",
+          "ref": "e4"
+        },
+        {
+          "kind": "review",
+          "title": "Why connections matter (page 166)",
+          "mins": 7,
+          "do": "Do 'How am I doing?' on page 166: your child tells you why the connections were important. (Every connection must be metal touching metal; if one clip is loose or on the plastic, there is a gap and the circuit is not complete, so the lamp won't light.) Read the green box: 'You can't see electricity. Do you find it harder to learn about things that you cannot see? Why?' Talk about how we learn about electricity from what it does: lamps light, fans move. Look at the circuit board photo on page 166: the shiny lines are metal paths for electricity. Tick the 'Look what I can do!' list on page 166."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 15,
+          "do": "Do worksheet ws1 together. Let your child use the real circuit kit to check any circuit question they are unsure about.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 165–166", "circuit kit: 2 cells and holders, lamps and holders, wires with clips", "printed or on-screen ws1"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Invent a new electrical appliance",
+      "goal": "Use everything we know to design a new electrical appliance, think about who gets credit for inventions, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Project: Invent a new electrical appliance (page 167)",
+          "mins": 18,
+          "do": "Do Activity a6, the book's project on page 167. Read: people invent new appliances every day; many new appliances use electricity. Look at the three ideas: an appliance to take your pet for a walk, one to play ball with you, and lights on your shoes. Your child can choose one of these or their own idea, for example a fan that follows you round the room, a dabba that keeps lunch hot, a light-up umbrella for the monsoon, or a robot to water the tulsi. They draw their idea and label it, then answer the book's questions on the drawing: 'Does your appliance use cells or mains electricity? Does your appliance have a switch? What kind? Say what your appliance does.' Ask: 'Is it safe for children to use? Why?'",
+          "ref": "a6"
+        },
+        {
+          "kind": "think",
+          "title": "Who invented the light bulb?",
+          "mins": 7,
+          "do": "Come back to Voice v3. Ask your child: 'The book says Edison invented the electric light bulb. Is that the whole story?' Explain that Joseph Swan in England showed a working bulb at about the same time, and many others had made earlier ones that burned out quickly. Edison's team made bulbs last much longer and built the power stations and wires to light whole streets. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Do worksheet ws2. These questions use new appliances and circuits. Let your child think aloud and, where a circuit is involved, build it with the kit to check.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book page 167", "drawing paper and colours", "circuit kit", "printed or on-screen ws2"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the book's progress questions, try the challenge worksheet and teach the unit back.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Check your progress (pages 168–169)",
+          "mins": 10,
+          "do": "Do 'Check your progress' on pages 168–169 aloud. 1. 'Name these things.' (a lamp, a lamp holder, a wire, cells in a holder.) 2. 'Are these things safe or dangerous?' in the picture of a man at a laptop: a, the fish bowl on the shelf above the socket (dangerous: water could spill onto the socket and plug); b, the glass of water next to the laptop (dangerous: it could spill onto the electrical appliance); c, the wire with the plastic damaged (dangerous: never touch damaged wire); d, his hand on the plug and socket (dangerous if wet or if the plug is damaged; adults only). 3. 'Will these circuits work?' and 4. 'Will the lamp be on or off?': for each picture, your child traces with a finger from one end of the cell, through the lamp holder, and back to the other end of the cell. If there is a complete loop using both ends of the cell, it works and the lamp is on; if a wire is missing or not joined, or both wires go to the same end, it does not. Build any they are unsure of with the kit. Then ask this pack's check questions."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do worksheet ws3. These are harder 'what if', puzzle and comparing questions. Accept any answer your child can back up with a reason, and use the kit to test circuit ideas.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child becomes the teacher. Using the kit, the safety poster and the invention drawing, they explain to a family member: five ways we use electricity at home; the difference between mains electricity and cells; at least four safety rules and why; how to build a complete circuit and why a gap stops it working; which materials conduct electricity and why wires are copper with a plastic cover; and what happened when they added more lamps and more cells. The listener asks two 'why' questions. End by asking: 'What is the most important electricity rule for a little child?'"
+        }
+      ],
+      "need": ["Learner's Book pages 168–169", "circuit kit", "printed or on-screen ws3", "the safety poster and invention drawing"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Using electricity safely and making circuits",
+      "day": 10,
+      "sections": [
+        ["A. Where we use electricity", [
+          {"t": "match", "p": "Match each appliance to what electricity does in it.", "pairs": [["tube light", "makes light"], ["electric iron", "heats things up"], ["fridge", "cools things down"], ["ceiling fan", "makes things move"], ["doorbell", "makes sound"]]},
+          {"t": "sort", "p": "Mains electricity or cells?", "items": ["TV remote", "washing machine", "torch", "fridge", "wrist watch", "mixer-grinder"], "cats": ["Mains (wire and plug)", "Cells"]}
+        ]],
+        ["B. Safety", [
+          {"t": "mcq", "p": "Who should plug in and unplug mains appliances?", "opts": ["only adults", "any child", "children with wet hands", "nobody ever"], "a": 0},
+          {"t": "mcq", "p": "Why must you never touch a switch with wet hands?", "opts": ["Mains electricity can move through water and give you a shock", "Water makes the switch rusty", "The light will be too bright", "It is only a rule for adults"], "a": 0},
+          {"t": "write", "p": "Write two more electricity safety rules.", "lines": 3}
+        ]],
+        ["C. Circuits", [
+          {"t": "fill", "p": "A lamp will only shine in a ____ circuit.", "a": ["complete"]},
+          {"t": "draw", "p": "Draw a circuit with a cell, two wires and a lamp in a lamp holder. Add arrows to show the electricity flowing around it."},
+          {"t": "sort", "p": "Does it conduct electricity?", "items": ["steel spoon", "plastic ruler", "foil", "rubber", "coin", "paper"], "cats": ["Conductor", "Does not conduct"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Electricity in new places",
+      "day": 11,
+      "sections": [
+        ["A. New appliances", [
+          {"t": "mcq", "p": "A solar garden lamp has a small panel on top and lights up at night. Where does its electricity come from?", "opts": ["Sunlight charges its cell in the day", "A wire to the wall socket", "The Moon", "It does not use electricity"], "a": 0},
+          {"t": "write", "p": "An electric kettle has a wire and plug. Name one thing it does with electricity, and one safety rule for using it.", "lines": 3},
+          {"t": "match", "p": "Match each switch to how it moves.", "pairs": [["most wall light switches in India", "rocker"], ["a doorbell", "press"], ["many torches", "slide"]]}
+        ]],
+        ["B. Circuit puzzles", [
+          {"t": "mcq", "p": "Ananya joins both wires from the lamp to the + end of the cell. Will it light?", "opts": ["No, both ends of the cell must be used", "Yes, very brightly", "Yes, but dimly", "Only if she adds a switch"], "a": 0},
+          {"t": "table", "p": "Fill in what you noticed in the more-lamps test.", "cols": ["Number of lamps", "I predicted", "I noticed"], "rows": 3, "prefill": ["1", "2", "3"]},
+          {"t": "mcq", "p": "What happened when you added a second cell the same way round?", "opts": ["The lamp got brighter", "The lamp got dimmer", "Nothing changed", "The lamp went off"], "a": 0}
+        ]],
+        ["C. Conductors", [
+          {"t": "write", "p": "Electricians' pliers have metal jaws and plastic or rubber handles. Explain why each part is made of that material.", "lines": 3},
+          {"t": "fill", "p": "The metal inside most electrical wires is ____.", "a": ["copper"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking harder about electricity",
+      "day": 12,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if wires were made of plastic all the way through? Would our fan work? Why?", "lines": 3},
+          {"t": "write", "p": "What if you added ten lamps in one line to a circuit with one cell? Predict what you would see and explain why.", "lines": 3}
+        ]],
+        ["B. Puzzles", [
+          {"t": "write", "p": "Your torch won't switch on. List four things you could check, one at a time, to find the problem. What is the fair way to test the cells?", "lines": 4},
+          {"t": "mcq", "p": "A switch works by:", "opts": ["making or breaking a gap in the circuit", "storing extra electricity", "making the wire longer", "changing the lamp's colour"], "a": 0}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Your book says Edison invented the light bulb. Joseph Swan made a working bulb at about the same time. Who do you think deserves the credit? Can more than one person deserve it? Give a reason.", "lines": 4},
+          {"t": "write", "p": "J.C. Bose did not try to patent (own) his inventions, because he wanted everyone to be able to use them. Other inventors patented theirs and became rich. What are the good and bad sides of each choice?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Make a complete circuit",
+      "day": 7,
+      "question": "What do we need to make a lamp light up, and what happens if there is a gap?",
+      "need": ["1 AA cell (1.5 V)", "a cell holder", "a small torch lamp (2.5 V) and lamp holder", "2 wires with crocodile clips"],
+      "steps": [
+        "Put the cell into the cell holder the right way round.",
+        "Screw the lamp gently into the lamp holder.",
+        "Clip one wire from one end of the cell holder to one side of the lamp holder.",
+        "Clip the second wire from the other side of the lamp holder to the other end of the cell holder.",
+        "Watch the lamp; trace the electricity's path with a finger.",
+        "Unclip one wire to break the circuit; clip it back to complete it again.",
+        "Build the two broken circuits from page 161 and see if the lamp lights."
+      ],
+      "predict": "Ask your child to guess first: will one wire be enough? Will the lamp light if both wires go to the same end of the cell?",
+      "observe": "The lamp lights only when there is a complete loop from one end of the cell, through the lamp, back to the other end. With one wire, a gap, or both wires on the same end, it stays off.",
+      "why": "A cell pushes electricity out of one end and it must have a path back into the other end. A circuit is that complete loop. Inside the lamp is a very thin wire (the filament, or in LED lamps a tiny chip); when electricity flows through it, it glows. If there is a gap anywhere, the electricity cannot flow at all, not even up to the gap, so the lamp goes out. A switch is simply a safe way of making and breaking that gap.",
+      "safety": "Only use small cells (1.5 V AA or AAA). Never connect wires straight from one end of a cell to the other without a lamp: the cell and wires can get hot. Never use mains electricity or sockets for experiments.",
+      "time": "14 min"
+    },
+    {
+      "id": "e2",
+      "title": "Do more lamps mean brighter lamps?",
+      "day": 8,
+      "question": "What happens to the brightness of the lamps when we add more lamps in one loop?",
+      "need": ["2 AA cells in holders joined end to end", "3 lamps and lamp holders", "5 wires with crocodile clips", "a results table"],
+      "steps": [
+        "Make a circuit with the two cells, wires and one lamp; note how bright it is.",
+        "Predict what will happen when you add a second lamp in the loop.",
+        "Open the circuit, add the second lamp holder in line, and close the circuit.",
+        "Record what you notice.",
+        "Predict and then add the third lamp in line, and record again.",
+        "Look for a pattern."
+      ],
+      "predict": "Ask your child to guess first: with two lamps, will each lamp be brighter, dimmer or the same as one lamp? What about three?",
+      "observe": "One lamp is bright. With two lamps in line, both glow more dimly. With three, they are dimmer still, and may only just glow.",
+      "why": "The cells give the electricity a certain amount of 'push'. When lamps are joined one after another in a single loop, the electricity must pass through all of them, and each lamp makes it harder for the electricity to flow. So less electricity flows round the whole circuit, and the push is shared between the lamps. Each lamp gets less and glows less. The pattern is: the more lamps in one line, the dimmer each one is. (Lamps joined side by side on separate paths behave differently, which you will learn about later.)",
+      "safety": "Use only AA or AAA cells. Lamps can get warm; let them cool before unscrewing.",
+      "time": "20 min"
+    },
+    {
+      "id": "e3",
+      "title": "Which materials conduct electricity?",
+      "day": 9,
+      "question": "Which materials let electricity flow through them and light the lamp?",
+      "need": ["a cell and cell holder", "a lamp and lamp holder", "3 wires with crocodile clips", "test materials: steel spoon, paper clip, foil, coin, key, plastic ruler, wooden pencil sharpened at both ends, rubber, paper, cotton cloth, glass marble", "a results table"],
+      "steps": [
+        "Make a circuit with a cell, a lamp and three wires, leaving a gap between two clips.",
+        "Touch the two clips together to check the lamp lights.",
+        "Predict for each material whether it will conduct electricity.",
+        "Clip or hold both clips onto the material, a little apart.",
+        "If the lamp lights, the material conducts; write the result.",
+        "Test every material the same way."
+      ],
+      "predict": "Ask your child to guess first, for each material: will the lamp light? Write the predictions in the table before testing.",
+      "observe": "The lamp lights for the steel spoon, paper clip, foil, coin and key. It stays off for plastic, wood, rubber, paper, cloth and glass. The pencil lead (graphite) may make it glow dimly.",
+      "why": "In metals, some of the tiny particles called electrons are free to move through the whole piece of metal, so electricity can flow easily. That makes metals good conductors. In plastic, rubber, wood, glass, paper and cloth the electrons are held tightly and cannot flow, so these materials do not conduct; they are called insulators. Copper is one of the best conductors and is not too expensive, so it is used inside wires, and plastic around it stops electricity escaping into us. Graphite in pencils is unusual: it is not a metal, but it has free electrons too.",
+      "safety": "Only use small cells. Never test anything with mains electricity or put any object into a socket.",
+      "time": "20 min"
+    },
+    {
+      "id": "e4",
+      "title": "Do more cells make lamps brighter?",
+      "day": 10,
+      "question": "What happens to a lamp when we add a second cell?",
+      "need": ["2 AA cells and 2 cell holders", "a lamp and lamp holder", "3 wires with crocodile clips"],
+      "steps": [
+        "Make a circuit with one cell, wires and one lamp; check it works and note its brightness.",
+        "Predict what will happen if you add another cell.",
+        "Add the second cell in line, making sure both cells are the same way round (+ to −).",
+        "Compare the brightness.",
+        "Turn one cell the wrong way round and see what happens.",
+        "Try the three-lamp circuit from Day 8 with one cell and with two cells."
+      ],
+      "predict": "Ask your child to guess first: with two cells, will the lamp be brighter, dimmer or the same? What if one cell is the wrong way round?",
+      "observe": "With two cells the same way round, the lamp is clearly brighter. With one cell turned round, the lamp goes out or almost out. Three lamps glow brighter with two cells than with one.",
+      "why": "Each cell gives a push to the electricity. Two cells joined + to − add their pushes together, so more electricity flows through the lamp and it glows brighter. If one cell is turned round, its push goes the opposite way and cancels the other cell's push, so almost no electricity flows. This is why torches show you which way to put the cells in. Too many cells for one small lamp can make it so bright that its thin filament burns out.",
+      "safety": "Do not use more than 2 AA cells with a 2.5 V torch lamp, or it may blow. Never use mains electricity.",
+      "time": "13 min"
+    }
+  ],
+  "activities": [
+    {"id": "a1", "title": "Electricity in our house chart", "day": 1, "mins": 15, "need": ["a big sheet of paper", "pencils"], "steps": ["Make five columns: Light, Sound, Heat, Cool, Move.", "Walk round the house and find electrical appliances.", "Write or draw each appliance in the right column.", "Put appliances that do two things in two columns."], "outcome": "A chart of household appliances grouped by what electricity does in them."},
+    {"id": "a2", "title": "Which switch? table", "day": 3, "mins": 20, "need": ["6–8 cell-powered appliances", "paper for a table"], "steps": ["Copy the table: press switches, rocker switches, slide switches.", "Try the switch on each appliance.", "Write the appliance's name and draw its switch in the right column.", "Note appliances that have more than one kind of switch."], "outcome": "A table sorting the switches on cell-powered appliances into three groups."},
+    {"id": "a3", "title": "Finding out about electricity poster", "day": 4, "mins": 15, "need": ["books or internet", "a big sheet of paper", "colours"], "steps": ["Find answers to: What do we use electricity for? What were Edison's inventions? What were Faraday's discoveries?", "Make one box on the poster for each question.", "Write two or three facts in each box with a drawing.", "Add a note that other inventors also worked on light bulbs."], "outcome": "A poster about the uses of electricity and the work of Edison and Faraday."},
+    {"id": "a4", "title": "Mains means danger rules and safety poster", "day": 6, "mins": 17, "need": ["an unplugged mains appliance", "a big sheet of paper", "red and green colours"], "steps": ["Look at the appliance's wire and plug.", "Write four rules for younger children about mains appliances.", "Make a poster with a big title and a drawing for each rule.", "Use green ticks for safe actions and red crosses for dangerous ones."], "outcome": "A home-made list of rules and an electrical safety poster."},
+    {"id": "a5", "title": "Electrical safety survey", "day": 6, "mins": 13, "need": ["a survey table", "pencil", "at least five children to ask"], "steps": ["Copy the four questions from page 157 into a table with yes, no, don't know.", "Predict whether most children will know the answers.", "Ask at least five children and tally their answers.", "Look at the results: are all the children safe?", "Share the results with their parents."], "outcome": "A tally table showing how much other children know about electrical safety."},
+    {"id": "a6", "title": "Invent a new electrical appliance", "day": 11, "mins": 18, "need": ["drawing paper", "colours"], "steps": ["Choose an idea from page 167 or your own.", "Draw the appliance and label its parts.", "Write whether it uses cells or mains electricity.", "Show and name its switch.", "Write what it does and whether it is safe for children."], "outcome": "A labelled design for a new electrical appliance."}
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Jagadish Chandra Bose (1858–1937), India",
+      "idea": "At Presidency College in Kolkata in the 1890s, Bose built his own equipment to make and detect very short electromagnetic waves (the family of invisible waves that includes radio waves and microwaves). In a public demonstration in Kolkata around 1895, he is reported to have sent these waves across a distance and through walls to ring a bell and set off a small charge of gunpowder. He also invented improved detectors for the waves. He chose not to patent most of his work, saying he wanted it to be free for all.",
+      "then": "He presented his results to scientists in Britain, who respected the work. But Guglielmo Marconi, who patented his radio system and sent radio signals over long distances, became famous as the father of radio, and Bose's early work was largely forgotten outside India for decades.",
+      "now": "Bose is recognised as a pioneer of the very short radio waves (millimetre waves and microwaves) now used in mobile phones, Wi-Fi, radar and satellite communication. In 2012 the IEEE, a major international engineering society, honoured his work in Kolkata with a 'Milestone' award. He is also famous for his later work on how plants respond to their surroundings.",
+      "status": "accepted",
+      "ask": "Bose could not see the waves he made. How could he prove they were really there? What did ringing a bell in another room show?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Michael Faraday (1791–1867), England",
+      "idea": "Faraday was the son of a blacksmith and left school at about 13 to work for a bookbinder, where he read the science books he was binding. He attended public science lectures by Humphry Davy, wrote them up neatly, and asked Davy for a job, becoming his assistant. In 1821 he built the first simple device that used electricity and a magnet to make something move continuously, the ancestor of the electric motor. In 1831 he discovered that moving a magnet near a coil of wire makes electricity flow in the wire (electromagnetic induction), the idea behind every power station generator.",
+      "then": "Because he had little schooling and knew little mathematics, some scientists of his time looked down on him, and his ideas about invisible 'lines of force' around magnets were not taken seriously by everyone. Others, including the Royal Institution where he worked, recognised his brilliance.",
+      "now": "His discoveries are accepted as some of the most important in the history of science. Later, James Clerk Maxwell turned Faraday's 'lines of force' into mathematics. Electric motors and generators built on Faraday's ideas run fans, mixers and washing machines, and make most of the world's electricity.",
+      "status": "accepted",
+      "ask": "Faraday did not go to university, but he became a great scientist by reading, asking questions and doing experiments. What would you need to do to become a scientist, if school were not enough?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Joseph Swan (1828–1914), England, and Thomas Edison (1847–1931), USA",
+      "idea": "Your book says that Thomas Edison invented the electric light bulb. In fact, many inventors had made electric lamps that glowed but burned out quickly. In England, Joseph Swan worked for years on bulbs with a glowing carbon thread inside a glass globe with the air pumped out, and showed working bulbs in Newcastle in 1878–1879. In the USA, Edison's team tested thousands of materials and in 1879 made a carbon filament bulb that could glow for many hours. Edison also built whole systems of power stations, wires and meters to bring electric light into homes and streets.",
+      "then": "Swan and Edison went to court over who had the right to make the bulbs. In the end, they joined together in Britain in 1883 to form a company known as 'Ediswan'.",
+      "now": "Historians agree that the light bulb had many inventors, that Swan and Edison both made practical carbon filament bulbs at about the same time, and that Edison's great achievement was making electric light long-lasting, cheap and part of a complete electricity system. Today most homes use LED lamps instead, which use far less electricity.",
+      "status": "accepted",
+      "ask": "If two people invent something at the same time in different countries, who should get the credit? What evidence would you look for to decide who was first?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "Name an appliance that uses electricity to make light, one to make heat, and one to make things move.", "a": "For example: a tube light (light), an iron or geyser (heat), a fan or mixer (move)."},
+    {"q": "What is the difference between mains electricity and a cell?", "a": "Mains electricity is very powerful, made in a power station and comes through wires to sockets; a cell is a small, safe source of electricity used in things we carry, like torches and watches."},
+    {"q": "Give four electricity safety rules.", "a": "For example: only adults plug in mains appliances; never touch sockets; never touch electrical things with wet hands; keep away from damaged wires; keep water and dirt away; never open or burn cells."},
+    {"q": "What three kinds of switches did we find?", "a": "Press switches, rocker switches and slide switches."},
+    {"q": "What is a circuit, and why does a lamp go out if one wire is unclipped?", "a": "A complete path for electricity to flow around from the cell and back; unclipping a wire makes a gap, so the electricity cannot flow."},
+    {"q": "Which materials conducted electricity in our test?", "a": "The metals: steel spoon, paper clip, foil, coin, key. Plastic, wood, rubber, paper, cloth and glass did not."},
+    {"q": "Why are wires made of copper covered with plastic?", "a": "Copper is a good conductor so electricity flows through it; plastic does not conduct, so it keeps us safe."},
+    {"q": "What happened when you added more lamps, and when you added more cells?", "a": "More lamps in one line made each lamp dimmer; a second cell the same way round made the lamp brighter."}
+  ]
+}
