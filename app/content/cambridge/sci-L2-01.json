@@ -1,0 +1,750 @@
+{
+  "key": "cambridge|sci|2|1",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 2,
+  "n": 1,
+  "title": "Environments and habitats",
+  "source": "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 1 'Environments and habitats' (pages 2–35)",
+  "summary": "Every living thing needs a habitat: a place that gives it everything it needs to live, such as light, water, soil, air, food and shelter. Your child explores habitats for plants and animals around the home, finds out what rocks are like and how digging them up changes the land, and learns how people can harm or care for the environment.",
+  "goals": [
+    "By the end your child can explain that a habitat is the place where a living thing lives and that it gives the plant or animal everything it needs (light, water, soil and air for plants; food, water, air and a home for animals).",
+    "By the end your child can compare two local habitats and say why one has more plants and animals than the other.",
+    "By the end your child can find plants growing in different places (a wall crack, a shady corner, a wet drain, a pot) and record each one in a drawing and a table.",
+    "By the end your child can find clues that animals live somewhere (tracks, droppings, nibbled leaves, eggs, birdsong) even when the animals hide.",
+    "By the end your child can describe and test rocks for hardness and for absorbing water, say how we use granite, marble, slate, chalk and coal, and explain how quarries and mines change the land.",
+    "By the end your child can say how litter harms animals and plants, make predictions in a survey and suggest real ways to improve a habitat."
+  ],
+  "words": [
+    ["environment", "the air, water and land around us where people, animals and plants live"],
+    ["habitat", "the place where a plant or animal lives, which gives it everything it needs"],
+    ["home", "the part of a habitat where an animal sleeps, hides or keeps its babies, like a nest or a burrow"],
+    ["local", "near where you live, such as your street, colony, park or school"],
+    ["model", "a small copy of something real that we make to understand it better"],
+    ["compare", "to look at two things and say how they are the same and how they are different"],
+    ["desert", "a very dry place where it hardly ever rains, like the Thar Desert in Rajasthan"],
+    ["clues", "signs that tell us something is there, such as tracks, droppings or chewed leaves"],
+    ["absorb", "to soak up water, like a sponge or a piece of chalk does"],
+    ["waterproof", "does not let water soak in or pass through, like slate or a plastic raincoat"],
+    ["quarry", "a big open hole where people dig rock out of the ground at the surface"],
+    ["litter", "rubbish dropped in the wrong place, such as wrappers, bottles and plastic bags"]
+  ],
+  "day_mins": 35,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is a habitat?",
+      "goal": "Meet the idea that every living thing needs a place that gives it everything it needs, starting with living things in our own home.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Who else lives in our house?",
+          "mins": 6,
+          "do": "Ask your child: 'Apart from our family, which living things share our home?' Help them think of the house lizard (chhipkali) on the wall, ants in the kitchen, a spider in a corner, pigeons on the balcony, the tulsi plant in the pot, mosquitoes. For each one ask: 'Where exactly does it live? Why there?' Good answers: 'The lizard lives near the tube light because insects come to the light and it eats them.' 'Ants live near the kitchen because there is sugar and crumbs.' Tell them: 'Every living thing chooses a place that gives it what it needs. Scientists call that place its habitat.'"
+        },
+        {
+          "kind": "read",
+          "title": "Getting started (pages 2–3)",
+          "mins": 9,
+          "do": "Open the Learner's Book at pages 2–3. Read the 'Getting started' box on page 2 aloud: an environment is the air, water and land where people, animals and plants live. Look at the sea turtle and the fish and ask: 'What environment do these animals need?' (The sea: salty water, coral, plants and smaller animals to eat.) Then read page 3 together: the little yellow plant whose habitat is a wall, and the eagle whose habitat is forests and lakes. Ask: 'What does the plant need that the wall gives it?' (Light, water, a little soil and air.) 'What does the eagle need?' (Food, water, air and a home.) 'Which has a bigger habitat, and why?' (The eagle, because it flies far to find food; the plant cannot move.) Answer the two questions on page 3 about the other plants and animals in the big picture: point to the frog, the butterflies, the birds and the trees and say where each one lives."
+        },
+        {
+          "kind": "talk",
+          "title": "Plants stay, animals move (page 4)",
+          "mins": 5,
+          "do": "Look at the tree picture on page 4 and read the labels: a spider's habitat can be in a tree, a tree's habitat can be part of a garden, a lizard's habitat can be a rocky place. Read the sentences: plants grow in a habitat but cannot move from place to place; animals can move in their habitat. Ask: 'If a plant's place gets too dry, what can it do?' (It cannot walk away; it may wilt or die, or its seeds may be carried somewhere better.) 'If a lizard's rock gets too hot, what can it do?' (Run into the shade.)"
+        },
+        {
+          "kind": "act",
+          "title": "A habitat for a frog (page 4 Activity)",
+          "mins": 15,
+          "do": "Do Activity a1, the book's 'Habitat for a frog' on page 4. Tell your child: 'Close your eyes. You are a frog in the monsoon. What do you want in your habitat?' Listen for: water (a pond, a puddle, a paddy field), mud, plants to hide under, insects and mosquitoes to eat, shade, a place to lay eggs. Now they draw the habitat on a full page and label each thing with a word and an arrow. Then ask the book's question: 'Would this habitat be a home for other animals and plants?' and ask them to add at least three more living things (lotus or water plants, dragonflies, a heron, fish, snails). If stuck, ask: 'What eats frogs? What do frogs eat?'",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Learner's Book pages 2–4", "drawing paper", "pencils and colours"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Making a model habitat",
+      "goal": "Use a box to build a model habitat for fish, deciding what fish need, and start a long test on what happens to litter in soil.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Frog habitat recap",
+          "mins": 3,
+          "do": "Hold up yesterday's frog drawing. Ask: 'Name three things the frog needs in its habitat.' (Water, food such as insects, a place to hide or lay eggs; also air.) 'Why would a frog not live on our sunny terrace?' (Too dry and hot, no pond, no insects to eat.)"
+        },
+        {
+          "kind": "act",
+          "title": "Shoebox fish habitat (page 5, Think like a scientist 1)",
+          "mins": 20,
+          "do": "Read 'A habitat for fish' on page 5 aloud and look at the fish tank photo. Ask the book's question: 'Why do we call this tank a habitat?' (Because it gives the fish everything they need: water, air, food, plants, places to hide.) Then do Activity a2: your child turns a shoebox on its side to make a model of a fish habitat. Before cutting anything, ask: 'What must we give the fish?' and list together: water (blue paper at the back), plants (green paper strips), stones or sand at the bottom, a cave or hiding place, food, air bubbles (from the pump or from plants). Your child cuts, colours and glues. If your family has seen fish in a temple tank, a village pond or a lake like Hussain Sagar, Dal Lake or Chilika, they can model that instead.",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the litter-in-soil test",
+          "mins": 12,
+          "do": "Set up Experiment e1 now because it needs about two weeks. Fill a flowerpot or a cut plastic bottle with damp garden soil. Your child buries five things side by side, each about 3 cm deep, with a stick marking each one: a piece of banana peel, a leaf, a piece of newspaper, a piece of a chips or biscuit wrapper, and a piece of a plastic bag. Before burying, they draw each item. Ask them to guess: 'In two weeks, which things will be gone or mushy, and which will look the same?' Write the guesses on a paper taped to the pot. Wash hands with soap after touching the soil.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["a shoebox", "coloured paper or card", "scissors, glue, colours", "small pebbles or sand (optional)", "a flowerpot or cut bottle and damp soil", "banana peel, a leaf, newspaper, a chips wrapper, a piece of plastic bag", "5 ice-cream sticks as markers", "soap for handwashing"],
+      "prep": [{"task": "Collect a shoebox and keep a banana peel and a chips wrapper aside", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Comparing two local habitats",
+      "goal": "Go outside and compare a rich habitat with a poor one, and work out why one has more living things.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Two habitats in the book (page 5, Think like a scientist 2)",
+          "mins": 7,
+          "do": "Look at the two pictures in 'Looking at habitats' on page 5: one with a pond, flowers, a tree, a bird and bees; one with dry ground and rocks. Ask the book's questions: 'How are they different?' and 'Why are there more plants and animals in one habitat than the other?' Good answer: 'The first has water, soil and plants, so animals find food, water and shelter there. The second is dry and rocky, so few plants grow and few animals can find food.' Push a little: 'Which comes first, the plants or the animals?' (Plants usually, because animals need plants for food or need the animals that eat plants.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Habitat A and habitat B",
+          "mins": 20,
+          "do": "Following page 6, choose two places near home that are very different: for example habitat A, a park corner, a garden bed, or the ground under a big neem or peepal tree; and habitat B, a hot concrete parking area, a paved road edge or a bare terrace. Spend about 8 minutes at each. At each place ask: 'What is this place like? (sunny, shady, wet, dry, soil or concrete) What plants grow here? What animals might live here?' Your child counts the kinds of plants and the kinds of animals they see (ants, birds, squirrels, butterflies, worms under a stone) and makes a quick drawing at each place. Do not touch animals; turn stones back over gently."
+        },
+        {
+          "kind": "review",
+          "title": "Why are they different? (page 6)",
+          "mins": 8,
+          "do": "At home, your child finishes the two drawings side by side and adds labels, as page 6 asks. Then they tell you, in two or three sentences, why the habitats are different. Listen for: 'The park has soil, water and shade, so many plants grow and animals come for food and shelter. The parking area is hot concrete with no soil, so only a little grass grows in the cracks.' Read the 'How am I doing?' box on page 6 and ask them to name one more local place that is a good habitat. Tick the 'Look what I can do!' list on page 6 together."
+        }
+      ],
+      "need": ["Learner's Book pages 5–6", "notebook or clipboard", "pencil", "a hat and water bottle for outdoors"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Plants in different habitats",
+      "goal": "Learn that plants grow in many habitats, from rivers to deserts, and hunt for plants growing in different places around the home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Rivers, streams and deserts (pages 7–8)",
+          "mins": 8,
+          "do": "Read page 7 aloud: plants grow in many different habitats; all plants need water; many grow in or by water, by a river, in a stream. Look at the river photo and ask: 'Why are there so many plants here?' (Lots of water and light.) Turn to page 8: some plants live in hot deserts, where it is very dry. Ask the page 8 question: 'How can these plants live with very little water?' Help with ideas: thick stems that store water (like cactus or aloe vera at home), tiny leaves or spines so they lose less water, very long roots that go deep. Mention that in the Thar Desert in Rajasthan the khejri tree's roots reach water deep underground."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Plant habitat hunt (pages 8–9, Think like a scientist 1)",
+          "mins": 17,
+          "do": "Read the list on page 8 and go looking around your building, lane or garden for a plant growing in each place: against a wall, in a shady place, in a wet place (near a tap or drain), in a dry pathway, under something (a bench or a car), in a plant pot. Show them the pansy photo on page 8 whose roots grew down a crack to find soil, and look for something similar, such as a peepal seedling growing out of a wall or grass between paving tiles. For each plant your child takes a photo (on your phone) or draws it quickly, and you fill in the page 9 table together: 'I found this plant growing in the…', 'It has some soil? yes/no', 'It has water? yes/no', 'It has light? yes/no', and 'This habitat was…' (dry, wet, shady, sunny).",
+          "ref": "a3"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the light test",
+          "mins": 10,
+          "do": "Start Experiment e2. Put two small cups of soil side by side and sprinkle a teaspoon of methi or mustard seeds in each, cover lightly and water both the same. Label one 'Light' and put it on a bright windowsill. Label the other 'Dark' and put it inside a cupboard or under an upturned bucket. Ask: 'Seeds need water to start. When they grow into small plants, will the dark one look the same as the light one?' Write the prediction. Explain that this is a fair test: same seeds, same soil, same water, only light is different.",
+          "ref": "e2"
+        }
+      ],
+      "need": ["Learner's Book pages 7–9", "phone camera or notebook", "2 small cups or pots with soil", "2 teaspoons of methi or mustard seeds", "a cupboard or bucket for darkness"],
+      "prep": [{"task": "Find two small pots or cut paper cups with drainage holes and fill with soil", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "Where plants can and cannot grow",
+      "goal": "Find out why plants do not grow in some environments and make a 'Find me a habitat' poster for a plant.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Share the plant hunt (page 9)",
+          "mins": 5,
+          "do": "Look again at yesterday's table from the page 9 record. Do the 'How am I doing?' task: your child tells you about the different places where they found plants growing. Ask: 'Which place surprised you most? Did every plant have soil, water and light?' (Most did, even if only a little, like the plant in the wall crack.) Peek at the e2 cups and add water if dry.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Environments where plants don't grow (page 10)",
+          "mins": 7,
+          "do": "Read page 10 aloud and look at the two photos: sand dunes in a desert and icy, snowy mountains. Ask the book's questions. 1: 'Why are there no plants in these environments?' (The sand dunes have almost no water and the sand keeps moving; the icy mountain is too cold, the water is frozen and there is no soil.) 2: 'Think of another environment where plants cannot grow.' Good ideas: the top of Mount Everest, the middle of a busy tarred road, inside a dark cave, the bottom of a very deep sea where no light reaches, on hot lava from a volcano."
+        },
+        {
+          "kind": "act",
+          "title": "Find me a habitat poster (pages 10–11 Activity)",
+          "mins": 18,
+          "do": "Do Activity a4, the book's 'Find me a habitat' on pages 10–11. Read the three plant cards: rice needs a warm habitat with lots of light and water and very wet soil; pond weed needs a habitat underwater in a pond, lake or river, with light and not too cold; cactus needs a very hot habitat with light and very little water. Tell your child that in India, rice grows in flooded paddy fields in Kerala, West Bengal and Punjab, pond weeds such as hydrilla grow with lotus in village ponds, and cactus and aloe grow in dry Rajasthan and Gujarat. Your child pretends to be one plant and makes a poster like the one on page 11, with the heading 'Can you find me a habitat like this?' and the lines 'I am a… (hot, warm or cold?)', 'I need… light?', 'I need… water?' and 'My habitat will look like this…' with a drawing.",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Swap the plants",
+          "mins": 5,
+          "do": "Ask: 'What would happen if we planted rice in the Thar Desert? Or put a cactus in a paddy field?' (The rice would dry up and die; the cactus would rot because its roots and stem cannot cope with standing water.) Say: 'Different plants like different habitats. That is why we find plants growing in almost every part of planet Earth.'"
+        }
+      ],
+      "need": ["Learner's Book pages 9–11", "a large sheet of paper", "colours", "the e2 cups"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "All the plants in one small habitat",
+      "goal": "Look very closely at one small patch of ground with a magnifying glass and record every plant in it.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the light test",
+          "mins": 5,
+          "do": "Look at both e2 cups. The seeds in both should have sprouted. Ask: 'What colour are the leaves in the light cup? And in the dark cup?' Usually the light cup has short, green seedlings and the dark cup has taller, thin, pale yellow ones. Your child draws both with today's date. Put the dark cup back in the dark.",
+          "ref": "e2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Magnifying glass patch (pages 11–12, Think like a scientist 2)",
+          "mins": 20,
+          "do": "Read 'Finding all the plants in a habitat' on page 11. Go to a patch of ground with mixed plants (a park lawn edge, a roadside verge, the base of a tree or a neglected flower bed). Mark a square about the size of a newspaper sheet with four sticks or a piece of string. Your child kneels and uses a magnifying glass to find every different plant inside the square: grasses, tiny weeds with flowers, clover, moss on a stone, a seedling. Fill in the table on page 12 for at least three plants: 'Drawing of the plant in its habitat', 'drawing of a leaf', 'does it have flowers?' and 'drawing of a flower'. Then ask page 12's questions: 'Did you find plants growing on a path? Why do plants find a path a difficult place to grow?' (Feet and wheels crush them, the ground is hard, there is little soil and water.)"
+        },
+        {
+          "kind": "think",
+          "title": "Pretend to be a tree (page 12, How am I doing?)",
+          "mins": 10,
+          "do": "Do the 'How am I doing?' task on page 12. Your child pretends to be a tree, such as a mango, neem or banyan, and describes the habitat they want to live in: 'I want deep soil for my roots, plenty of sun, rain in the monsoon, space to spread my branches.' Ask: 'Are there other types of plants in your habitat?' (Grass and small herbs under the tree, a money plant or creeper climbing up.) Then you say whether you agree, and ask them to give a reason for one part. Tick the 'Look what I can do!' list on page 12."
+        }
+      ],
+      "need": ["Learner's Book pages 11–12", "a magnifying glass", "4 sticks or 2 m of string", "notebook and pencil", "the e2 cups"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Animals and their hidden homes",
+      "goal": "Learn that animals need a habitat too, that animals often hide, and that we can find them through clues.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Window watch (page 13 Getting started)",
+          "mins": 6,
+          "do": "Read the 'Getting started' box on page 13. Stand at a window or balcony for three minutes, quietly. Your child names every animal they see or hear on the ground, in the trees and in the sky: crows, pigeons, mynas, sparrows, a squirrel, a dog, ants, a butterfly. Ask: 'Do you see birds, insects, animals with fur?' Then your child chooses one animal and answers the book's questions: 'Where will it sleep? Where will it find food and water? Will it be alone?' (For example: 'The squirrel sleeps in a nest of twigs high in the tree, eats seeds and fruits, drinks from the water pot we keep out, and lives with other squirrels nearby.')"
+        },
+        {
+          "kind": "read",
+          "title": "Animal clues (page 14)",
+          "mins": 9,
+          "do": "Read page 14 aloud: all animals need a habitat, but animals may hide from us; we can tell animals are around because we see clues such as tracks, droppings, leaves that have been eaten or birds singing; sometimes we can see the animal's home. Look at the tree picture and answer the four questions: 1. 'Which animals might live in this habitat?' (birds, a squirrel, insects, a mouse or rabbit under the ground) 2. 'Can you see the animals?' (only some) 3. 'Can you see any clues?' (the nest, holes, footprints, nibbled leaves, droppings) 4. 'Why do some animals hide from us?' (They are scared we will hurt them; hiding keeps them safe from animals that hunt them; some sleep in the day and come out at night.)"
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali, the birdman of India",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words: Salim Ali, as a boy in Bombay, shot a sparrow that had an odd yellow patch on its throat, took it to the Bombay Natural History Society to ask what it was, and grew up to spend his life watching birds where they live. Show a picture of a baya weaver nest if you can find one in a book or online, and say: 'He watched how these birds build their hanging nests.' Ask: 'Why did Salim Ali go to forests, wetlands and deserts to study birds, instead of just looking at bird skins in a museum?' (You can only learn what a bird eats, where it nests and who it lives with by watching it in its habitat.) Then ask the voice question and let your child answer fully.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Clue cards",
+          "mins": 10,
+          "do": "Your child makes four small 'clue cards' to use on tomorrow's hunt. On each card they draw one clue and write what animal it might show: a leaf with holes ('a caterpillar has been eating'), white splashes on a wall ('birds sit here'), a trail of ants ('food is near'), a hole in the ground ('a rat, snake or crab may live here'). Add a fifth card for a sound: 'chirping in the hedge means birds'. If your child is stuck, take them to a potted plant and look under the leaves together."
+        }
+      ],
+      "need": ["Learner's Book pages 13–14", "a picture of a baya weaver nest (optional)", "5 small pieces of card", "colours"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Animal clue hunt",
+      "goal": "Search a real habitat for animals and their clues, record them in a table, and check the litter test.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Habitats for animals near home (page 15, Think like a scientist)",
+          "mins": 20,
+          "do": "Read 'Habitats for animals around school' on page 15 and do it in your nearest garden, park or society compound. Remind your child: 'Be quiet so that you do not scare the animals.' With a magnifying glass, look under leaves for eggs (like the white butterfly eggs in the page 15 photo), on tree bark for ants and spiders, under stones and flower pots for woodlice, earthworms and beetles, and at the soil for tracks and droppings. Look for leaves that have been eaten. Copy the page 15 table into the notebook: a big box 'Drawing of the habitat', then two columns 'This animal might live here…' and '…because I saw…'. Help them write at least three rows, for example 'a caterpillar — because I saw holes in the hibiscus leaves', 'a bird — because I saw a nest in the gulmohar tree'.",
+          "ref": "a5"
+        },
+        {
+          "kind": "talk",
+          "title": "Why were animals harder to find? (page 15)",
+          "mins": 6,
+          "do": "Back home, ask the three questions at the bottom of page 15. 'Talk about the animals you saw or any clues you found.' 'Why were animals harder to observe than plants?' (Plants stay still in one place; animals move, hide, fly away or only come out at night.) 'Why do animals live in this habitat?' (It has food such as leaves and insects, water, and places to hide and nest.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Peek at the litter test",
+          "mins": 4,
+          "do": "Gently dig up just the banana peel and the plastic bag piece from the e1 pot with a spoon. Ask: 'What has changed?' The banana peel may be dark, soft and smelly, perhaps with white or green mould; the plastic looks exactly the same. Bury them again in the same place, mark them and wash hands with soap.",
+          "ref": "e1"
+        },
+        {
+          "kind": "review",
+          "title": "Tick the list (page 18)",
+          "mins": 5,
+          "do": "Read the green question on page 18: 'When I am learning about animals' habitats, does it help to visit the habitat?' Ask your child to answer from today's hunt with one example. Then read the 'Look what I can do!' list on page 18 and tick each item they can do."
+        }
+      ],
+      "need": ["Learner's Book pages 15 and 18", "a magnifying glass", "notebook and pencil", "the clue cards from Day 7", "a spoon", "soap"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Snail homes and insect hotels",
+      "goal": "Build two habitats for small animals and think about what they need.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "A habitat for snails (page 16, Activity 1)",
+          "mins": 13,
+          "do": "Read Activity 1 on page 16 and the red safety line: wash hands with soap and water after touching soil, leaves, twigs or snails. Snails like to hide in cool, damp places and eat leaves and soft wood. In the monsoon you will easily find garden snails on walls and plants; in dry months use the activity as a design task only. Your child draws a plan first: a clear plastic box or big jar with damp soil, dead leaves, a few twigs, a small stone to hide under, a bottle cap of water and a fresh lettuce or cabbage leaf. Then build it. If you have snails, gently put two in, put on a lid with small air holes ('Don't forget the lid or they may escape and die'), and watch how they move and eat. Ask: 'Do snails like light or dark? Wet or dry?' Release the snails back where you found them the next day.",
+          "ref": "a6"
+        },
+        {
+          "kind": "act",
+          "title": "Insect hotel (pages 16–17, Activity 2)",
+          "mins": 15,
+          "do": "Read Activity 2 on pages 16–17: insects and other small animals need a safe place to live close to food; many eat twigs and dead leaves; an insect hotel is made from sticks and stems, and insects hide in them and lay eggs there. Your child collects dry plant stems and sticks (old broom sticks from a jhaadu, dry twigs, hollow stems of dry grass or bamboo pieces). Cut them to about the same length (you do the cutting), bundle them tightly and tie string round them. Hang the bundle from a tree branch or a balcony grill in a shady spot. Your child draws the insect hotel and answers: 'What sort of animals might come to live here?' (ants, beetles, solitary bees, spiders, earwigs) 'If there are more insects, will this attract other animals?' (Yes, birds and lizards that eat insects.) Wash hands afterwards.",
+          "ref": "a7"
+        },
+        {
+          "kind": "do",
+          "title": "Clay beetle and its habitat (page 17, How am I doing?)",
+          "mins": 7,
+          "do": "Your child makes a small beetle or ant from clay or atta dough, puts it on a sheet of paper and draws the animal's habitat around it: food (leaves, crumbs), shelter (a stone, a log), water, other animals. Ask: 'Does your habitat have everything it needs?' Then you play the 'friend' from page 17 and say whether you think it is a good habitat and why."
+        }
+      ],
+      "need": ["Learner's Book pages 16–17", "a clear plastic box or big jar with a lid", "damp soil, dead leaves, twigs, a small stone, a cabbage or lettuce leaf", "dry sticks and stems", "string and scissors (adult use)", "modelling clay or atta dough", "soap"],
+      "prep": [{"task": "Collect a bundle of dry twigs and stems, and look for snails on wet walls or plants if it is monsoon", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "Rocks all around us",
+      "goal": "See how much we use rocks, describe different rocks and test their hardness.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Rock hunt at home (page 19 Getting started)",
+          "mins": 7,
+          "do": "Read the 'Getting started' box on page 19. Walk round the house with your child and find rock: the kitchen counter (often granite), the floor (marble, Kota stone or granite), the grinding stone (sil-batta or ammikal), the steps outside, pebbles in a pot, the chalk on the blackboard. Ask: 'Why have people used rocks here?' (They are strong, last a long time, do not burn, look nice, are easy to clean.)"
+        },
+        {
+          "kind": "read",
+          "title": "Using rocks and properties of rocks (pages 20–21)",
+          "mins": 10,
+          "do": "Read page 20: planet Earth is made of rocks; some are deep underground and some at the surface; we use rocks to make roads, paths, bridges, walls, floors, buildings, roofs and even fire. Answer question 1 by looking at the four photos (a stone bridge, a fountain, a statue, the Great Wall of China): 'How have rocks been used?' Add Indian examples: the Red Fort is built of red sandstone, the Taj Mahal of white marble, and old temples such as those at Mahabalipuram were carved from granite. Question 2: 'What other things do we make from rocks?' (gravel for roads, cement, tiles, the sil-batta, chalk, salt.) Then read 'Properties of rocks' on page 21: rocks can be strong (granite), soft (white chalk), made into shapes (marble), waterproof (slate), and coal is a rock that burns. Ask question 3: 'Why do we find these different properties useful?' (Strong rocks for buildings, soft chalk for writing, waterproof slate for roofs, coal for fire.)"
+        },
+        {
+          "kind": "exp",
+          "title": "The paperclip scratch test (pages 22–23, Think like a scientist 1)",
+          "mins": 18,
+          "do": "Do Experiment e3, following Arun and Sofia on page 22. Collect four to six rocks: a piece of chalk, a pebble, a broken bit of marble or granite tile, a piece of brick (a made material, for comparison), a lump of coal if you have one from a sigri, and a stone from the garden. For each rock your child first looks with the magnifying glass and says what it looks like (colour, shiny or dull, size of bits). Then they try to scratch it with the end of an opened paperclip. Ask them to predict first which will scratch. Fill in an 'All about…' table for each rock like the one on pages 22–23: Drawing; What does it look like?; Size of bits in the rock; Hard or soft?; We use it to…",
+          "ref": "e3"
+        }
+      ],
+      "need": ["Learner's Book pages 19–23", "4–6 rock samples (chalk, pebble, marble or granite piece, brick, coal if available)", "a paperclip", "a magnifying glass", "notebook"],
+      "prep": [{"task": "Collect rock samples: chalk, pebbles, a broken tile piece, a brick bit; ask a tile shop for marble or granite offcuts", "when": "2 days before"}]
+    },
+    {
+      "n": 11,
+      "title": "Does this rock absorb water?",
+      "goal": "Predict and test which rocks soak up water, and meet a scientist whose idea about rocks was laughed at.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The water drop test (pages 23–24, Think like a scientist 2)",
+          "mins": 18,
+          "do": "Do Experiment e4. Read page 23: Tom and Mumtaz drip water onto chalk, limestone, slate, sandstone and marble to see if they absorb water. Use your Day 10 rocks. Your child draws a table like the one on page 24 with a column for each rock and two rows: 'Prediction: Will it absorb water?' and 'Result: Did it absorb water?'. They write yes or no in the prediction row first. Then, very slowly, they drip water from a spoon onto each rock and watch with the magnifying glass. Does the drop sink in and leave a dark wet patch, or sit on top as a round bead and roll off? Fill in the result row. Ask the page 24 questions: 'Do your rocks absorb water or are the rocks waterproof? Was your prediction right?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Alfred Wegener and the moving land",
+          "mins": 12,
+          "do": "Get out a world map or globe. Show your child how the bulge of South America looks as if it would fit into the curve of Africa, like jigsaw pieces. Tell the story in Voice v2: Alfred Wegener noticed this and also found that the same fossils and the same kinds of rock appear on lands now separated by oceans, including fossils of the plant Glossopteris in India, Africa, Australia, South America and Antarctica. He said the continents were once joined and have slowly drifted apart. Many geologists laughed at him because he could not explain what pushed the continents. Tell them that India is still moving north a few centimetres every year and pushing into Asia, which is how the Himalayas were made. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Rocks in the right place",
+          "mins": 5,
+          "do": "Ask: 'Which of today's rocks would you use for a roof, and why?' (Slate or granite, because they do not soak up water.) 'Which would be a bad roof?' (Chalk, it soaks up rain and would crumble.) 'Why do you think chalk is good for writing on a blackboard?' (It is soft, so little bits rub off.)"
+        }
+      ],
+      "need": ["Learner's Book pages 23–24", "rock samples from Day 10", "a spoon and a cup of water", "a magnifying glass", "a world map or globe"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Digging up rocks",
+      "goal": "Learn where rocks come from (quarries, mines and river beds), how digging them changes the environment, and how water sorts stones.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Quarries, mines and river beds (pages 24–25)",
+          "mins": 10,
+          "do": "Read 'Digging up rocks' on pages 24–25. We dig up rocks in quarries, deep mines and river beds, using tools, diggers, trucks and trains. A quarry is a place where we dig rock at the Earth's surface; sometimes explosives break the rock; rocks from quarries are limestone, marble, slate and sandstone. A deep mine is deep underground; rocks from mines are coal, marble and salt. From river beds we dig sand, gravel and pebbles. Tell your child India's examples: marble from Makrana in Rajasthan (used for the Taj Mahal), coal from mines in Jharkhand, sand from river beds. Then read the part about the quarry photo: there was once a forest here, a home for hundreds of animals and plants; now there is a hole. Ask: 'What happened to the animals that lived there?' (They lost their homes; some died, some moved away.)"
+        },
+        {
+          "kind": "think",
+          "title": "Imagine a mine (page 25, question 4)",
+          "mins": 5,
+          "do": "Ask your child to close their eyes. Read question 4 on page 25 slowly: 'Think about working in a mine. It would be dirty, hot and dangerous. What might you see?' Let them describe it: dark tunnels, a helmet with a light, dust, black coal on the walls, wooden or metal beams holding up the roof, carts on rails. Then ask: 'Why do miners wear helmets?' (Rocks can fall from the roof.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Sorting stones with water (pages 25–26, Think like a scientist 3)",
+          "mins": 15,
+          "do": "Do Experiment e5. Read 'Using water to sort stones' on page 25 and look at the photo of the bowl. Put two handfuls of mixed garden soil, sand and small pebbles in a wide steel bowl or thali with raised edges. Your child draws the bowl first. Ask them to predict: 'When I add water and swirl it, what will happen to the big stones and the tiny bits?' Then add water to cover and swirl the bowl round and round gently, tipping a little muddy water out over the edge each time. After several swirls, look: the big, heavy stones stay in the bottom; the light mud and fine sand wash away; the medium sand settles in rings. Your child draws the 'after' picture.",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "Gold under the playground (page 26, How am I doing?)",
+          "mins": 5,
+          "do": "Read page 26's 'How am I doing?': pretend you discover rocks with gold in them under the playground. Ask: 'How could people get the rocks? What would happen to the playground, the trees and the birds there? Is the gold worth it?' There is no single right answer; listen for them weighing what we gain against what the habitat loses. Tick the 'Look what I can do!' list on page 26."
+        }
+      ],
+      "need": ["Learner's Book pages 24–26", "a wide steel bowl or thali with raised edges", "2 handfuls of mixed soil, sand and pebbles", "a jug of water", "old newspaper to work on"],
+      "prep": []
+    },
+    {
+      "n": 13,
+      "title": "Litter and the environment",
+      "goal": "See how litter harms animals and plants, finish the litter-in-soil test and do a real core worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The turtle and the beach (pages 27–28)",
+          "mins": 7,
+          "do": "Read the 'Getting started' box on page 27 and look at the turtle with a plastic bag. Ask: 'Have you seen litter where you live? Where?' Then look at the beach picture on page 28 and read: people can affect the environment; we build houses, roads and bridges; we plant trees and even new forests; we can do good and bad things; this beach is covered in litter and dirty water comes from the pipe. Ask question 1: 'How can this litter harm the animals and plants?' (Turtles think plastic bags are jellyfish and eat them; birds and crabs get caught in rings and nets; broken glass cuts; dirty water poisons fish.) Question 2: 'What can we do to protect them?' (Put litter in bins, clean the beach, stop the dirty water.) Tell them that cows on Indian streets often eat plastic bags with food scraps and get very ill."
+        },
+        {
+          "kind": "exp",
+          "title": "Dig up the litter test",
+          "mins": 10,
+          "do": "Finish Experiment e1. Dig up all five buried items with a spoon onto newspaper. Compare with the Day 2 drawings and the guesses on the pot. Ask: 'Which ones are breaking down? Which look the same?' Usually the banana peel and leaf are dark, soft and partly gone, the newspaper is soggy and starting to tear apart, and the wrapper and plastic bag look just the same. Explain the 'why' from e1. Ask: 'So which litter is worst for a habitat?' Wash hands with soap.",
+          "ref": "e1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: habitats, plants, animals, rocks",
+          "mins": 13,
+          "do": "Do worksheet ws1 together. Read each question aloud if needed and let your child answer before you help. For the sort item, let them say a reason for each placement. For the drawing item, remind them of their frog habitat from Day 1.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Litter look (page 28, Activity 1)",
+          "mins": 5,
+          "do": "Do Activity 1 on page 28 on a short walk: look for places where people have not cared for the environment (a heap of wrappers near a tea stall, plastic in a drain, rubbish in an empty plot). Your child takes a photo or draws one place. Do not touch the litter. At home, answer the three page 29 questions: 'How could people care for the environment better? Why do people drop litter? What could you do to help?'"
+        }
+      ],
+      "need": ["Learner's Book pages 27–29", "the e1 pot", "a spoon and old newspaper", "printed or on-screen ws1", "phone camera or notebook", "soap"],
+      "prep": []
+    },
+    {
+      "n": 14,
+      "title": "Protecting and improving habitats",
+      "goal": "Learn about recycling and nature reserves, survey places near home, and hear how ordinary villagers protected their forests.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Recycling and nature reserves (pages 29–30)",
+          "mins": 6,
+          "do": "Look at the photo on page 29 of children carrying a recycling box and answer: 1. 'What are the children doing?' (Collecting things to recycle, to protect the environment.) 2. 'Which materials can you recycle at home?' (Newspaper, cardboard, glass bottles, metal tins, some plastic bottles; the kabadiwala buys many of these.) Then read Activity 2 on page 30: children want to turn an uncared-for school garden into a nature reserve, a place where plants and animals are protected. Tell them India has many protected places like this, for example Keoladeo National Park in Bharatpur for birds, and Kaziranga in Assam for the one-horned rhino."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Survey the environment (page 31, Think like a scientist)",
+          "mins": 13,
+          "do": "Read page 31 and its red warning: litter can be dangerous, so talk to an adult before you pick it up. Copy the page 31 table: Place; Predict – is this a good place for living things?; Is it a good habitat?; Is there litter?; How could we improve this place? Choose three places near home, for example the building parking area, the street outside, and a garden or park. Before going to each, your child writes a prediction. Then visit, observe and fill in the other columns, like the book's example rows ('no — there are no plants', 'paper and plastic', 'we can remove the litter and sow some seeds'). Back home, ask page 32's questions: 'Were your predictions right? Could you do things to help? Who might help you?' (the society secretary, the municipal sweeper, neighbours)."
+        },
+        {
+          "kind": "think",
+          "title": "The Chipko tree huggers",
+          "mins": 9,
+          "do": "Tell the story in Voice v3: in the early 1970s, villagers in the hills of what is now Uttarakhand saw forest companies cutting down the trees they depended on. In 1974 at Reni village, Gaura Devi and other women put their arms round the trees and refused to move, and the loggers went away. 'Chipko' means 'to hug' or 'to stick to'. Ask: 'Why did the villagers care so much about trees on a hill?' (Firewood, fodder for animals, water from springs, and roots that hold the soil so the hillside does not slide down in heavy rain.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Plan a nature reserve (page 30, Activity 2)",
+          "mins": 7,
+          "do": "Start Activity a8. Your child picks one poor place from the survey and plans how to turn it into a small nature reserve, as page 30 asks. They draw the place as it is now on one side of a page and as it could be on the other: native trees (neem, jamun, peepal), flowering shrubs for butterflies, a water bowl for birds, an insect hotel from Day 9, a 'no litter' sign and a bin. They add labels saying which animal each thing is for.",
+          "ref": "a8"
+        }
+      ],
+      "need": ["Learner's Book pages 29–32", "notebook and pencil", "drawing paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 15,
+      "title": "Our home's outdoor environment book",
+      "goal": "Bring everything together in a small book about the habitats around our home, and apply the ideas to new cases.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Project: our outdoor environment (page 33)",
+          "mins": 20,
+          "do": "Read the Project box on page 33 and adapt 'school grounds' to the area around your home. Fold three A4 sheets in half and staple them to make a small 8-page book. Page by page, your child adds: 1. a cover with a title such as 'The habitats around our building'; 2. habitats for plants (paste or draw the Day 4 plant hunt); 3. habitats for animals (from the Day 8 clue hunt); 4. where they hung the insect hotel; 5. one place that needs improving, from the Day 14 survey; 6. the nature reserve plan; 7. 'How I would care for this place'. Encourage photos, drawings and short sentences. Ask, as the book does: 'How would you care for and improve the outdoor spaces around our home?'",
+          "ref": "a8"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Do worksheet ws2. These questions use new habitats and new rocks your child has not seen in the book. Let them think aloud. If stuck on a habitat question, ask: 'What does this animal eat? Where would it sleep? Where would it find water?'",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book page 33", "3 sheets of A4 paper and a stapler", "photos or drawings from earlier days", "glue and colours", "printed or on-screen ws2"],
+      "prep": [{"task": "Print a few phone photos from the plant hunt and clue hunt, or keep the drawings ready", "when": "night before"}]
+    },
+    {
+      "n": 16,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the book's progress questions, try the challenge worksheet and teach the whole unit back to a family member.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Check your progress (pages 34–35)",
+          "mins": 10,
+          "do": "Do the 'Check your progress' questions on pages 34–35 aloud. 1. 'Which two animals might live on or near the seashore?' (fish and crab.) 2. 'Which four things does the tree need in its habitat?' (soil, water, the Sun, air; not the Moon, a rainbow or a plant pot.) 3. Look at the woman with a helmet and lamp: 'Where does she work? What tools might she use? What rock might she dig up?' (In a mine; a spade, a pick, a drill, a lamp on her helmet; coal.) 4. 'Why do we use slate for roofs?' (It is waterproof and can be split into flat sheets.) 5. 'Why do people make nature reserves?' (To protect plants and animals and give them good habitats.) Then ask the questions in this pack's check list."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do worksheet ws3. These are harder 'what if' and puzzle questions, and some compare different views. Let your child give their own answers with reasons; for the open questions there is more than one good answer.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child becomes the teacher. Using the frog drawing, the plant hunt table, the rock tables and the environment book, they explain to another family member (a grandparent is ideal): what a habitat is and what it gives a living thing; one place where plants cannot grow and why; how we can tell animals live somewhere even when we can't see them; one rock that absorbs water and one that is waterproof; and two things people can do to care for the environment. The listener should ask at least two 'why' questions. Finish by asking your child: 'Which habitat near our home would you most like to improve, and how?'"
+        }
+      ],
+      "need": ["Learner's Book pages 34–35", "printed or on-screen ws3", "all the drawings, tables and the environment book"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Habitats, plants, animals and rocks",
+      "day": 13,
+      "sections": [
+        ["A. What is a habitat?", [
+          {"t": "fill", "p": "The place where a plant or animal lives is called its ____.", "a": ["habitat"]},
+          {"t": "mcq", "p": "Which four things does a plant need from its habitat?", "opts": ["light, water, soil, air", "light, toys, soil, the Moon", "water, a rainbow, air, a pot", "food, a nest, sand, ice"], "a": 0},
+          {"t": "draw", "p": "Draw a habitat for a frog. Label the water, a place to hide, and something the frog eats."}
+        ]],
+        ["B. Plants and animals in their habitats", [
+          {"t": "match", "p": "Match each plant to its habitat.", "pairs": [["Rice", "warm, wet, flooded field"], ["Cactus", "hot, dry desert"], ["Pond weed", "underwater in a pond"], ["Moss", "a shady, damp wall"]]},
+          {"t": "mcq", "p": "Why are there no plants on icy mountain tops?", "opts": ["It is too cold and the water is frozen", "There is too much light", "Animals eat them all", "The air is too warm"], "a": 0},
+          {"t": "sort", "p": "Is it an animal or a clue that an animal has been there?", "items": ["squirrel", "nibbled leaf", "crow", "footprints in mud", "bird droppings", "earthworm"], "cats": ["Animal", "Clue"]}
+        ]],
+        ["C. Rocks", [
+          {"t": "match", "p": "Match each rock to how we use it.", "pairs": [["Slate", "roofs, because it is waterproof"], ["Chalk", "writing, because it is soft"], ["Marble", "statues and floors, because it can be shaped"], ["Coal", "fire, because it burns"]]},
+          {"t": "fill", "p": "A place where we dig rock out at the Earth's surface is called a ____.", "a": ["quarry"]},
+          {"t": "write", "p": "Why is litter bad for animals? Give one example.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New habitats, new rocks",
+      "day": 15,
+      "sections": [
+        ["A. Who lives where?", [
+          {"t": "match", "p": "Match each Indian animal to its habitat.", "pairs": [["Camel", "Thar Desert, Rajasthan"], ["One-horned rhino", "wet grasslands of Kaziranga, Assam"], ["Snow leopard", "cold Himalayan mountains"], ["Olive ridley turtle", "sea and sandy beaches of Odisha"]]},
+          {"t": "mcq", "p": "A camel can go many days without drinking. Why does this help it in its habitat?", "opts": ["There is very little water in the desert", "The desert is full of rivers", "Camels do not like water", "It rains every day in the desert"], "a": 0},
+          {"t": "write", "p": "A peepal seedling is growing out of a crack in an old wall. How does it get water and soil there?", "lines": 3}
+        ]],
+        ["B. Fair tests", [
+          {"t": "mcq", "p": "Riya wants to know if methi needs light. She puts one cup on the window and one in the cupboard. What must she keep the same?", "opts": ["The seeds, soil and water", "Only the colour of the cups", "Nothing needs to be the same", "The light"], "a": 0},
+          {"t": "fill", "p": "Seedlings grown in the dark are tall, thin and ____ instead of green.", "a": ["yellow", "pale", "pale yellow", "white"]}
+        ]],
+        ["C. Rocks and water", [
+          {"t": "table", "p": "Fill in your water drop test results.", "cols": ["Rock", "Prediction: will it absorb water?", "Result: did it absorb water?"], "rows": 4, "prefill": ["Chalk", "Slate", "Marble", "Brick"]},
+          {"t": "mcq", "p": "When you swirl soil and stones in a bowl of water, which stay in the bowl?", "opts": ["The big, heavy stones", "The fine mud", "Nothing stays", "Only the water"], "a": 0},
+          {"t": "write", "p": "A new stone quarry is planned next to a forest. Write two ways it might change the habitat for animals.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a scientist",
+      "day": 16,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if all the trees in your park were cut down? Write what would happen to three animals that live there.", "lines": 4},
+          {"t": "write", "p": "A cactus is moved to a paddy field in Kerala. Predict what will happen and explain why.", "lines": 3},
+          {"t": "mcq", "p": "In the litter test, the banana peel broke down but the plastic did not. What does this tell us?", "opts": ["Plastic stays in a habitat for a very long time", "Plastic is good food for worms", "Banana peels are made of plastic", "Soil makes plastic disappear quickly"], "a": 0}
+        ]],
+        ["B. Puzzles", [
+          {"t": "sort", "p": "Sort these by what kind of place they come from.", "items": ["coal", "sand", "marble", "salt", "gravel", "slate"], "cats": ["Quarry or mine", "River bed"]},
+          {"t": "write", "p": "You find a big hole in the ground with fresh soil around it and footprints going in. Name two clues and say what animal might live there. How could you find out without disturbing it?", "lines": 4}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Alfred Wegener said the continents move, but other scientists laughed because he could not explain what pushed them. Was it fair to doubt him? What evidence finally changed their minds?", "lines": 4},
+          {"t": "write", "p": "The Chipko villagers wanted to keep their forests; the companies wanted wood to sell. Give one good reason on each side, then say what you would decide.", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "What happens to litter in soil?",
+      "day": 2,
+      "question": "Do all kinds of litter break down in soil, or do some stay the same?",
+      "need": ["a flowerpot or cut plastic bottle with holes in the bottom", "damp garden soil", "a piece of banana peel", "a leaf", "a piece of newspaper", "a piece of chips or biscuit wrapper", "a piece of plastic bag", "5 ice-cream sticks as markers", "a spoon", "soap"],
+      "steps": [
+        "Fill the pot with damp garden soil.",
+        "Draw each of the five items so you can compare later.",
+        "Bury each item about 3 cm deep in a different part of the pot and push a labelled stick in beside it.",
+        "Keep the soil damp (a few spoons of water every two days) and leave the pot outside or on a balcony.",
+        "After about a week, dig up only the banana peel and the plastic bag, look, and rebury them.",
+        "After about two weeks, dig up all five items, put them on newspaper and compare with your first drawings.",
+        "Wash hands with soap every time you touch the soil."
+      ],
+      "predict": "Ask your child to guess first: which items will be gone or mushy after two weeks, and which will look exactly the same? Write the guesses on paper taped to the pot.",
+      "observe": "For each item record: same, a little changed, or mostly gone; colour; soft or hard; any mould. Usually the banana peel and leaf are dark, soft and partly gone, the newspaper is soggy and torn, and the wrapper and plastic look unchanged.",
+      "why": "Soil is full of tiny living things: bacteria and fungi too small to see, and small animals like worms and woodlice. They feed on things that were once alive, such as peel, leaves and paper (paper is made from wood), and break them into smaller and smaller bits until they become part of the soil again. We say these things are biodegradable. Plastic is made in factories, mostly from oil, and these living things have almost no way to eat it, so plastic stays in a habitat for many, many years. It only breaks into smaller pieces, which animals can swallow. That is why plastic litter is such a problem for turtles, cows, birds and fish.",
+      "safety": "Wash hands with soap after touching soil and rotting items. Do not sniff mould closely. An adult should cut the bottle if you use one.",
+      "time": "12 min to set up + 4 min peek after a week + 10 min to dig up after two weeks"
+    },
+    {
+      "id": "e2",
+      "title": "Does a plant need light from its habitat?",
+      "day": 4,
+      "question": "Will seedlings grown in the dark grow the same as seedlings grown in the light?",
+      "need": ["2 small cups or pots with soil", "2 teaspoons of methi or mustard seeds", "water", "a bright windowsill", "a cupboard or upturned bucket"],
+      "steps": [
+        "Sprinkle one teaspoon of seeds over the soil in each cup and cover them lightly with soil.",
+        "Water both cups with the same amount of water.",
+        "Label one cup 'Light' and put it on a bright windowsill.",
+        "Label the other 'Dark' and put it in a cupboard or under an upturned bucket.",
+        "Water both cups the same amount every day or two.",
+        "After about 5 days, compare the height and colour of the seedlings and draw them."
+      ],
+      "predict": "Ask your child to guess first: will both cups sprout? Will the seedlings in the dark look the same as those in the light?",
+      "observe": "Look at whether the seeds sprouted, how tall the seedlings are and what colour the leaves are. Usually both sprout; the light cup has short, sturdy, green seedlings; the dark cup has taller, thin, floppy, pale yellow seedlings.",
+      "why": "A seed carries a small store of food, so it can sprout without light. Once that food is used up, a plant must make its own food in its green leaves, using sunlight. Without light, the seedling cannot make the green colouring (chlorophyll) that catches sunlight, so it stays pale. It also stretches up fast and thin, as if reaching for light, using up its last stored food. Without light it will soon die. That is why a plant's habitat must give it light, and why plants do not grow inside dark caves.",
+      "safety": "",
+      "time": "10 min to set up + 5 min checks on Days 5 and 6"
+    },
+    {
+      "id": "e3",
+      "title": "The paperclip scratch test",
+      "day": 10,
+      "question": "Which of our rocks are hard and which are soft?",
+      "need": ["4–6 rock samples (chalk, a pebble, a marble or granite tile piece, a brick piece, coal if available)", "an opened paperclip", "a magnifying glass", "notebook"],
+      "steps": [
+        "Lay the rocks on newspaper and number them.",
+        "Look at each rock with the magnifying glass and describe its colour, whether it is shiny or dull, and the size of the bits in it.",
+        "Predict for each rock: will the paperclip scratch it?",
+        "Press the end of the paperclip firmly and drag it across each rock once.",
+        "Look with the magnifying glass for a scratch line or powder.",
+        "Fill in an 'All about…' table for each rock: drawing, what it looks like, size of bits, hard or soft, we use it to…"
+      ],
+      "predict": "Ask your child to guess first: which rocks will the paperclip scratch? Will the shiniest rock be the hardest?",
+      "observe": "Chalk scratches very easily and leaves white powder; coal may scratch a little; marble may take a faint scratch; granite and most pebbles do not scratch at all.",
+      "why": "Rocks are made of tiny grains called minerals, packed together. Some minerals are soft, and some are very hard. Chalk is made mostly of the tiny shells of sea creatures from long ago, pressed together; it is soft and crumbly, which is why it rubs off on a blackboard. Marble is made of a mineral called calcite, which is a little softer than steel. Granite contains quartz, which is harder than steel, so the paperclip slides off without a mark. Hard rocks make strong steps, floors and buildings; soft rocks are good for writing or carving.",
+      "safety": "Point the paperclip away from your body and fingers. Wash hands after handling coal.",
+      "time": "18 min"
+    },
+    {
+      "id": "e4",
+      "title": "Does this rock absorb water?",
+      "day": 11,
+      "question": "Which rocks soak up water and which are waterproof?",
+      "need": ["the rock samples from Day 10", "a spoon", "a cup of water", "a magnifying glass", "a results table"],
+      "steps": [
+        "Draw a table with each rock name across the top and two rows: 'Prediction: Will it absorb water?' and 'Result: Did it absorb water?'.",
+        "Write yes or no in the prediction row for each rock.",
+        "Fill a spoon with water and, very slowly, let three drops fall onto the first rock.",
+        "Watch with the magnifying glass: does the water sink in and leave a dark patch, or sit as a bead or run off?",
+        "Repeat for every rock, using the same number of drops.",
+        "Fill in the result row and compare with the predictions."
+      ],
+      "predict": "Ask your child to guess first, for each rock, whether it will absorb water, and write the guesses down before dripping any water.",
+      "observe": "Chalk and brick drink the water quickly and turn dark. Sandstone, if you have it, soaks it up slowly. Slate, marble and granite keep the drop sitting on top as a bead, or let it run off.",
+      "why": "Some rocks, like chalk and sandstone, have tiny gaps or holes between their grains, like a sponge. Water creeps into these gaps, so the rock absorbs water. Other rocks, like slate, marble and granite, have their grains packed so tightly that there are almost no gaps, so water cannot get in. We call these rocks waterproof. This is why slate is used for roofs, and why sandstone buildings can get damp and slowly wear away in the rain.",
+      "safety": "",
+      "time": "18 min"
+    },
+    {
+      "id": "e5",
+      "title": "Sorting stones with water",
+      "day": 12,
+      "question": "Can moving water sort small stones from large ones?",
+      "need": ["a wide steel bowl or thali with raised edges", "2 handfuls of mixed soil, sand and small pebbles", "a jug of water", "old newspaper"],
+      "steps": [
+        "Draw the bowl with the soil and stones in it.",
+        "Pour in water until it covers the mixture.",
+        "Swirl the bowl gently round and round.",
+        "Tip the bowl slightly so a little muddy water flows out over the edge into a bucket or drain.",
+        "Add a little more water and repeat several times.",
+        "Draw what is left in the bowl."
+      ],
+      "predict": "Ask your child to guess first: when the water swirls, which bits will be carried away and which will stay?",
+      "observe": "The fine, light mud clouds the water and is carried away first; sand settles more slowly; the big, heavy pebbles stay at the bottom of the bowl.",
+      "why": "Moving water pushes on everything in it. Small, light bits like mud are easy to lift and carry, so they stay floating and wash away. Big, heavy stones need much more push to move, so they sink and stay behind. Rivers do the same thing on a big scale: fast water carries fine mud far downstream, while big boulders stay near the hills. That is why river beds have sorted layers of gravel, pebbles and sand that people dig up. People panning for gold use this too, because gold is very heavy and stays in the pan.",
+      "safety": "Pour the muddy water into a bucket or garden bed, not a sink, so the drain does not block.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {"id": "a1", "title": "A habitat for a frog", "day": 1, "mins": 15, "need": ["drawing paper", "pencils and colours"], "steps": ["Close your eyes and imagine being a frog in the monsoon.", "List what you would want: water, mud, plants to hide under, insects to eat, a place to lay eggs.", "Draw the habitat on a full page.", "Label each thing with a word and an arrow.", "Add at least three other living things that could share this habitat."], "outcome": "A labelled drawing of a frog habitat showing what a frog needs and who shares its home."},
+    {"id": "a2", "title": "Shoebox fish habitat model", "day": 2, "mins": 20, "need": ["a shoebox", "coloured paper or card", "scissors, glue, colours", "pebbles or sand (optional)"], "steps": ["Turn the shoebox on its side.", "List what fish need: water, plants, a hiding place, food, air.", "Colour or stick blue paper on the back and sides for water.", "Add green paper strips as water plants and stones or sand along the bottom.", "Make a cave from folded card and paper fish to stand inside.", "Label each part with what it gives the fish."], "outcome": "A labelled model of a fish habitat that shows everything the fish need."},
+    {"id": "a3", "title": "Plant habitat hunt", "day": 4, "mins": 17, "need": ["phone camera or notebook", "pencil"], "steps": ["Look for a plant against a wall, in a shady place, in a wet place, in a dry pathway, under something and in a pot.", "Photograph or draw each plant where it is growing.", "For each one, record: Does it have some soil? Water? Light?", "Write one word to describe each habitat: dry, wet, shady, sunny."], "outcome": "A table of six plants and their habitats, showing that plants grow almost anywhere they can get soil, water and light."},
+    {"id": "a4", "title": "Find me a habitat poster", "day": 5, "mins": 18, "need": ["a large sheet of paper", "colours"], "steps": ["Choose to be rice, pond weed or cactus.", "Write the heading 'Can you find me a habitat like this?'", "Write 'I am a…' and say whether you like hot, warm or cold.", "Write 'I need…' for light and for water.", "Draw 'My habitat will look like this…'."], "outcome": "A poster advertising for the right habitat for one plant."},
+    {"id": "a5", "title": "Animal clue hunt table", "day": 8, "mins": 20, "need": ["a magnifying glass", "notebook", "clue cards"], "steps": ["Draw the habitat you are searching in.", "Look quietly under leaves, under stones, on bark and on the ground.", "Each time you find an animal or a clue, write a row: 'This animal might live here…' and '…because I saw…'.", "Put stones and leaves back as you found them."], "outcome": "A table of at least three animals and the clues that show they live in that habitat."},
+    {"id": "a6", "title": "A habitat for snails", "day": 9, "mins": 13, "need": ["a clear plastic box or big jar with a lid with small air holes", "damp soil", "dead leaves and twigs", "a small stone", "a bottle cap of water", "a fresh cabbage or lettuce leaf", "soap"], "steps": ["Draw a plan of the snail habitat first.", "Put damp soil in the bottom, then dead leaves, twigs and a stone to hide under.", "Add the bottle cap of water and the fresh leaf.", "If it is monsoon, gently add two garden snails and close the lid.", "Watch how they move and eat; keep the soil damp.", "Release the snails where you found them the next day and wash hands."], "outcome": "A short-term snail habitat that shows snails need cool, damp, shady places and leaves to eat."},
+    {"id": "a7", "title": "Insect hotel", "day": 9, "mins": 15, "need": ["dry plant stems, sticks, hollow grass or bamboo pieces", "string", "scissors (adult use)"], "steps": ["Collect dry sticks and stems.", "An adult cuts them to about the same length.", "Bundle them tightly and tie string round the middle.", "Tie a longer string to hang the bundle in a shady tree or balcony grill.", "Draw the insect hotel and the insects you hope will come.", "Check it every few days for visitors."], "outcome": "A hanging insect hotel that gives small animals a safe place to hide and lay eggs."},
+    {"id": "a8", "title": "Nature reserve plan and environment book", "day": 14, "mins": 27, "need": ["drawing paper", "3 sheets of A4 and a stapler", "photos or drawings from earlier days", "glue and colours"], "steps": ["Choose one poor habitat from the survey.", "Draw it as it is now and as it could be as a small nature reserve.", "Label each improvement and the animal or plant it helps.", "Make an 8-page book about the habitats around your home.", "Fill it with the plant hunt, clue hunt, insect hotel, survey and nature reserve plan.", "Finish with a page 'How I would care for this place'."], "outcome": "A nature reserve plan and a small book about the habitats around your home."}
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Salim Ali (1896–1987), India",
+      "idea": "Salim Ali grew up in Bombay (now Mumbai). As a boy he shot a sparrow with an unusual yellow patch on its throat and took it to the Bombay Natural History Society to find out what it was; the people there encouraged his interest in birds. He went on to survey the birds of many parts of India, studying them where they live: what they eat, where and how they nest (including the hanging nests of the baya weaver), and which habitats they need. His 'The Book of Indian Birds' (1941) and the multi-volume 'Handbook of the Birds of India and Pakistan', written with S. Dillon Ripley, are still used. He also spoke up to protect bird habitats, such as the wetland at Bharatpur, now Keoladeo National Park.",
+      "then": "In his early years, much bird study meant shooting birds and studying their skins in museums. Salim Ali also collected specimens, but he put special weight on watching living birds in the field and recording their behaviour and habitats, which was less usual at the time. He had no university degree in zoology, yet his careful field work earned him respect.",
+      "now": "His work is accepted as the foundation of the study of Indian birds, and he is often called 'the Birdman of India'. He received the Padma Vibhushan in 1976. Today scientists agree that protecting a bird means protecting its habitat.",
+      "status": "accepted",
+      "ask": "Salim Ali said you learn most about a bird by watching it where it lives. What could you learn about a sparrow by watching it outside that you could never learn from a picture in a book?",
+      "day": 7
+    },
+    {
+      "id": "v2",
+      "who": "Alfred Wegener (1880–1930), Germany",
+      "idea": "Wegener, a scientist who studied weather and climate, proposed in 1912, and in his book 'The Origin of Continents and Oceans' (1915), that the continents were once joined in one giant landmass and have slowly drifted apart. His evidence: the coastlines of South America and Africa fit like jigsaw pieces; the same kinds of rock appear on both sides of the Atlantic; and the same fossils, such as the fern-like plant Glossopteris, are found in India, Africa, South America, Australia and Antarctica, lands now separated by oceans.",
+      "then": "Most geologists rejected and even mocked the idea, mainly because Wegener could not explain what force could push whole continents across the Earth. He died in 1930 on an expedition on the Greenland ice sheet, with his idea still not accepted.",
+      "now": "In the 1950s and 1960s, scientists mapping the ocean floor found that new rock forms along long ridges in the middle of the oceans and spreads outwards, which explained how continents move. This led to the theory of plate tectonics, which is now accepted. India sits on a plate that crashed into Asia millions of years ago, pushing up the Himalayas, and it is still moving north a few centimetres every year.",
+      "status": "accepted",
+      "ask": "Wegener had good clues but no explanation of how continents could move. If someone shows you clues but can't explain how something works, should you believe them, doubt them, or wait for more evidence? Why?",
+      "day": 11
+    },
+    {
+      "id": "v3",
+      "who": "The Chipko movement (1970s), Uttarakhand Himalaya, India, including Gaura Devi and Chandi Prasad Bhatt",
+      "idea": "Villagers in the Himalayan hills of what is now Uttarakhand depended on forests for firewood, fodder, water from springs and soil that stayed on the slopes. When forest contracts let outside companies fell trees, villagers began, from 1973, to protect the trees by refusing to let them be cut, sometimes by hugging them ('chipko' means 'to stick to' or 'to hug'). In 1974, at Reni village, women led by Gaura Devi stood with the trees and the loggers left. Chandi Prasad Bhatt, and later Sunderlal Bahuguna, helped lead and spread the movement. The villagers argued, from their own experience, that cutting forests on steep slopes led to soil washing away and to landslides and floods.",
+      "then": "At first officials and companies treated the forests mainly as timber to be sold, and the villagers' protests as a nuisance. The protests drew national attention, and in 1980 the government stopped commercial tree felling in those Himalayan forests for 15 years.",
+      "now": "Scientists agree that tree roots and forest cover hold soil on slopes and reduce erosion and small landslides, so the villagers' core idea is accepted. For the very biggest floods, heavy rainfall is the main cause and scientists still study exactly how much forests help. Chipko is remembered around the world as an example of local people protecting their environment.",
+      "status": "accepted",
+      "ask": "The Chipko villagers knew about their forests from living there all their lives, not from science books. What kind of evidence could a village grandmother have that cutting trees makes hillsides slide? How could a scientist test it?",
+      "day": 14
+    }
+  ],
+  "check": [
+    {"q": "What is a habitat?", "a": "The place where a plant or animal lives, which gives it everything it needs to live."},
+    {"q": "Name four things a plant needs from its habitat.", "a": "Light (from the Sun), water, soil and air."},
+    {"q": "Why do no plants grow on icy mountain tops or moving sand dunes?", "a": "The mountain top is too cold, the water is frozen and there is no soil; the sand dunes have almost no water."},
+    {"q": "You can't see any animals in a garden. How could you tell animals live there?", "a": "By clues: tracks, droppings, nibbled leaves, eggs, nests, holes or birdsong."},
+    {"q": "Why were animals harder to observe than plants?", "a": "Animals move, hide, fly away or come out at night; plants stay in one place."},
+    {"q": "Which rock is good for a roof and which is good for writing? Why?", "a": "Slate for a roof because it is waterproof; chalk for writing because it is soft."},
+    {"q": "How does digging a quarry change the environment?", "a": "Trees and plants are removed, animals lose their homes or die, and a big hole is left with few living things."},
+    {"q": "Why is plastic litter worse for a habitat than a banana peel?", "a": "The banana peel is broken down by tiny living things in the soil, but plastic stays for many years and can hurt or choke animals that eat it or get caught in it."}
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "key": "ncert|sci|5|3",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 3,
+  "title": "The Mystery of Food",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 2 'Health and Well-being', Chapter 3 (pages 40–54), Reprint 2026-27",
+  "summary": "Detective Disha finds a forgotten uttapam covered in coloured patches and sets out to solve the mystery of food. With her Anna, Amma, Appa, Paati and Thatha she discovers microbes, what they need to grow, and the Indian ways of stopping them: drying, pickling in oil, salting, cooling, ghee-making and canning. She learns that good microbes make idli batter rise and curd set, picks fresh seasonal food at the market, and follows food into the mouth to see how teeth, saliva and careful chewing begin digestion.",
+  "goals": [
+    "By the end your child can explain what microbes are, where they are found, and that some spoil food while others help us make curd and idli and digest food.",
+    "By the end your child can name what microbes need to grow (moisture, air for most of them, a warm temperature, and food) and run a fair test on bread to show it.",
+    "By the end your child can explain how drying, oil, salt and sugar, cold, ghee-making and airtight cans each keep food from spoiling, with a home example of each.",
+    "By the end your child can tell spoiling apart from other changes, such as a cut apple going brown, and explain fermentation in idli batter and curd.",
+    "By the end your child can name the four kinds of teeth and their jobs, explain why chewing well and brushing matter, and say how to avoid choking.",
+    "By the end your child can weigh evidence about microbes, from Pasteur's flasks to today's debate about whether probiotic foods really change our gut."
+  ],
+  "words": [
+    ["microbe", "a living thing so tiny that we need a microscope to see it, such as bacteria, yeast and moulds"],
+    ["microscope", "an instrument with lenses that makes tiny things look many times bigger"],
+    ["mould", "a fuzzy, coloured patch on old food; it is a colony of thousands of tiny fungus microbes"],
+    ["spoilage", "when food goes bad, changing its smell, taste, colour or texture, usually because microbes grow on it"],
+    ["preservation", "ways of keeping food safe to eat for a longer time, such as drying, pickling, cooling and canning"],
+    ["dehydration", "removing the water from something, as when chillies or papads are dried in the sun"],
+    ["fermentation", "a change made by good microbes, such as yeast and bacteria, that turns milk into curd or makes idli batter rise and turn sour"],
+    ["airtight", "closed so well that no air can get in or out"],
+    ["saliva", "the watery juice in the mouth that wets food and starts breaking it down"],
+    ["digestion", "the breaking down of food in the body into tiny parts that the body can take in and use"],
+    ["incisors, canines, premolars, molars", "the four kinds of teeth: incisors cut, canines tear, premolars crush and molars grind"],
+    ["cavity", "a hole in a tooth, made when bacteria in the mouth turn sugar into acid that eats away the tooth"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "The forgotten tiffin box",
+      "goal": "Open the mystery of food, meet microbes, and start a week-long bread test to find out what microbes need.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Have you ever found a forgotten tiffin?",
+          "mins": 5,
+          "do": "Ask your child: 'Have you ever found old food at the back of the fridge, a forgotten tiffin or a bread packet that went bad? What did it look like? What did it smell like?' Let them describe it fully. Good answers: green or black fuzzy spots, a sour or rotten smell, slimy, sticky, soft. Then say: 'Today we are detectives. Our case is: what makes food go bad?' Give your child a notebook and write 'Food Detective Notebook' on its cover, as the book suggests."
+        },
+        {
+          "kind": "read",
+          "title": "Disha's uttapam (pages 40–41)",
+          "mins": 8,
+          "do": "Read pages 40–41 aloud: Disha finds the uttapam she left in school three days ago with coloured patches and a foul smell, and asks her Anna, Aditya. Stop and ask: 'What does Anna call the patches?' (Mould.) 'What are microbes?' (Tiny living things, so small you need a microscope to see them.) 'Are they all bad?' (No. Some help make curd and digest food.) 'Why can we see mould if microbes are so tiny?' (Mould is a colony of thousands of microbes together.) Your child writes Mystery #1 in the detective notebook: 'What made my uttapam spoil?'"
+        },
+        {
+          "kind": "read",
+          "title": "Finding #1: microbes are everywhere (page 42)",
+          "mins": 5,
+          "do": "Read Finding #1 on page 42: microbes are found in soil, water, the air, on plants and animals and inside us. Your child copies it into the notebook. Tell them: 'The first person to see microbes was a Dutch cloth seller, Antonie van Leeuwenhoek, in the 1670s. He made his own tiny lenses and saw little moving creatures in pond water and even in the white stuff scraped from his own teeth. He called them little animals.' Ask: 'If microbes are everywhere, why doesn't all food spoil at once?' Let them guess; we will find out this week."
+        },
+        {
+          "kind": "talk",
+          "title": "Think: upset stomach (page 42)",
+          "mins": 6,
+          "do": "Do the Think box on page 42. Ask: 'Have you ever had an upset stomach? What do you think caused it? What could happen if spoiled food is eaten by mistake? What did you do to get well?' Good answers: stomach pain, loose motions, vomiting, fever; caused by food that was old, kept out too long, or water that was not clean; got better with rest, ORS, plain khichdi or curd rice, or medicine from a doctor. Tell your child the key rule: 'Some harmful microbes do not change how food looks or smells, so if in doubt, throw it out.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the four-bag bread test",
+          "mins": 16,
+          "do": "Set up Experiment e1. Take 4 slices of bread (or 4 pieces of plain roti) and 4 zip-lock bags. Label them: 'Damp and warm', 'Dry and warm', 'Damp and cold', 'Damp with lots of salt'. Sprinkle a few drops of water on slices 1, 3 and 4 (damp, not soggy). Toast slice 2 until it is hard and dry, then let it cool. Cover slice 4 thickly with salt on both sides. Rub a finger over the kitchen floor or a windowsill and touch each slice once, so all four get the same microbes. Seal all four bags. Put bags 1, 2 and 4 together in a warm cupboard, and bag 3 in the fridge. Ask your child to predict which will grow mould first, which last, and why. Write the predictions in the notebook. Tell them: 'We will never open these bags; we will just look.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Detective plan",
+          "mins": 5,
+          "do": "Ask your child to write three questions they want to answer this week in the notebook, like detective clues. Help them include: 'What do microbes need to grow?', 'How did people keep food without a fridge?' and 'Are there good microbes?' Read the caption on page 41: India is the largest producer of millets in the world. Ask: 'Which millet foods do we eat at home?' (Ragi dosa, bajra roti, jowar bhakri.)"
+        }
+      ],
+      "need": ["Textbook pages 40–42", "a notebook for the Food Detective Notebook", "4 slices of bread or 4 pieces of plain roti", "4 zip-lock bags, a marker", "water, salt, a toaster or tawa", "space in a warm cupboard and in the fridge"],
+      "prep": [{"task": "Buy a small packet of bread without preservatives if possible, and 4 zip-lock bags", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Why do some foods spoil faster?",
+      "goal": "Compare foods that spoil fast with foods that last, find out what microbes need, and hear how Pasteur proved spoiling comes from microbes.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bread bags: first look",
+          "mins": 4,
+          "do": "Look at the four bags from Experiment e1 without opening them. Ask: 'Any spots yet? Any change in colour? Is there water on the inside of any bag?' Your child draws all four with the date. Usually nothing much has happened yet. Say: 'Microbes are growing, but they are too small to see until there are millions.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Mystery #2: the bread and Paati's pickle (pages 42–43)",
+          "mins": 7,
+          "do": "Read Mystery #2 on page 42: the bread slice left on the balcony for a cat has coloured patches after two days, but Paati's pickle made two months ago is still delicious because it is covered with oil. Do the Write box: 'Why do you think food gets spoiled?' Let your child write their own idea first. Then read page 43: Anna says microbes need moisture, air and the right temperature; if we remove any one, we stop them. Your child copies Finding #2."
+        },
+        {
+          "kind": "do",
+          "title": "Kitchen survey: fast or slow to spoil?",
+          "mins": 12,
+          "do": "Walk through your kitchen together. Your child makes a two-column list in the notebook: 'Spoils in a day or two' and 'Lasts for weeks or months'. Help them find at least 6 of each. Fast: milk, cooked rice, dal, curd, bread, cut fruit, paneer, chutney. Slow: rice and dal grains, atta, sugar, salt, pickle, papad, ghee, honey, jaggery, dried chillies, tea leaves, biscuits in a sealed pack. Then ask: 'What do most of the slow ones have in common?' Good answers: 'They are dry', 'they have lots of salt, sugar or oil', 'they are sealed'. Ask: 'And the fast ones?' (They are wet, soft and full of food the microbes like.)"
+        },
+        {
+          "kind": "think",
+          "title": "The swan-necked flask (Louis Pasteur)",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words: many people once believed that spoiling and maggots appeared all by themselves out of food. Louis Pasteur boiled broth in flasks with long bent necks like a swan's, so that air could get in but dust and microbes got trapped in the bend. The broth stayed fresh. When he broke the neck, it spoiled. Draw the flask in the notebook: a round bottom, a long neck bending down and then up. Ask the voice question and listen for reasoning.",
+          "ref": "v1"
+        },
+        {
+          "kind": "game",
+          "title": "Food Detective",
+          "mins": 12,
+          "do": "Play Activity a2. You read clue cards one at a time; your child tries to guess what happened using as few clues as possible (5 points after one clue, 4 after two, and so on). Case 1: 'It smells sour. It got thicker. It was left warm overnight. Someone added a spoon of old curd.' (Fermentation: milk to curd.) Case 2: 'Green fuzzy spots. Soft. Left in a damp bag for 5 days.' (Spoilage by mould.) Case 3: 'It went from white and wet to soft and puffy. It got hot. It now smells nice.' (Cooking, for example idli steaming.) Case 4: 'It was hard and starchy. Someone chewed it. It began to taste sweet.' (Digestion beginning in the mouth.) Make two more cards together for tomorrow.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 42–43", "the four bread bags", "notebook", "8 small cards for Food Detective clues"],
+      "prep": [{"task": "Write the four Food Detective case cards", "when": "morning"}]
+    },
+    {
+      "n": 3,
+      "title": "Drying and dehydration",
+      "goal": "Learn how drying stops microbes, list Indian dried foods and mango products, and start the tomato drying test.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bread bags check",
+          "mins": 4,
+          "do": "Check Experiment e1 without opening the bags. Look closely with a magnifying glass if you have one. Often the damp and warm slice now shows small white, green or black spots. Ask: 'Is it the one you predicted?' Draw all four with the date.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Mystery #3: drying chillies (pages 43–44)",
+          "mins": 6,
+          "do": "Read Mystery #3 and the 'Drying and Dehydration' part on pages 43–44: Amma and Appa dry red chillies on a mat in the sun to make chilli powder that lasts all year. Your child copies Finding #3: drying removes moisture, and without moisture microbes cannot grow. Ask: 'Which of Anna's three things does drying take away?' (Moisture.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Write: what else do we dry? and Activity 1 (page 44)",
+          "mins": 10,
+          "do": "Do the Write box on page 44: your child lists foods that are dried to last all year. Help with: papad, vadi (sun-dried dal dumplings), sabudana papad, dried fish (in coastal homes), sukhi methi (kasuri methi), raisins, dates, amchur, dried ginger (saunth), haldi, coriander seeds, khakhra, sun-dried rice papads, kokum, and grains themselves. Then do Activity 1: 'What items can be made from mangoes to enjoy them for longer?' Good answers: aam papad (aamavat), mango pickle (aam ka achaar, avakaya), amchur powder, murabba, chutney, mango jam, canned pulp, mango squash. For each one, ask: 'What stops the microbes here: drying, oil, sugar, salt or a sealed tin?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 2: dry a tomato (page 45)",
+          "mins": 15,
+          "do": "Set up Experiment e2, based on the book's Activity 2. Ask an adult to cut a tomato into thin slices. Put half the slices on a steel tray covered with a thin cloth on a sunny window or balcony, as the book says. Put the other half on a plate in a shady corner of the kitchen, uncovered, as a comparison. Ask your child to predict: 'After 3 days, what will each set of slices look like? Which will smell bad?' Write the guesses. Weigh both sets if you have a scale. Bring the sun tray in each night to keep it away from dew.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Feel the difference: dry and fresh",
+          "mins": 10,
+          "do": "Put side by side: a fresh grape and a raisin, a fresh green chilli and a dried red chilli, fresh methi and kasuri methi, or a fresh date and a dried one. Your child touches, smells and (if safe) tastes each pair and writes three differences. Ask: 'Which one is lighter? Where did its water go?' (It evaporated in the sun.) 'Why is the raisin sweeter?' (The same sugar is packed into less water, and that much sugar also makes it hard for microbes to grow.)"
+        }
+      ],
+      "need": ["Textbook pages 43–45", "the bread bags and a magnifying glass if available", "2 tomatoes and a knife (adult use)", "a steel tray, a thin cloth, a plate", "pairs of fresh and dried foods (grape and raisin, green and red chilli, fresh and dried methi)", "kitchen scale if available"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Oil, cold, salt and ghee",
+      "goal": "Learn how oil, salt, sugar, spices and cold keep food safe, and find out why butter needs a fridge but ghee does not.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bread bags and tomato check",
+          "mins": 4,
+          "do": "Check Experiment e1 and Experiment e2. Draw the bread bags with today's date. Compare the sun-tray tomato slices (shrinking and darkening, leathery at the edges) with the shady-plate slices (soft, wet, perhaps starting to smell or showing white spots). Ask: 'Which slices are winning against the microbes? Why?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Pickling, oiling and the fridge (pages 45–46)",
+          "mins": 7,
+          "do": "Read 'Pickling and Oiling' on page 45: Paati pours mustard oil over pickled green mangoes because oil stops air getting in. Your child copies Finding #4. Do the Discuss box: 'What would happen to this pickle if no oil had been added?' (Mould could grow on the top, especially if a wet spoon is used.) Then read 'Refrigeration and Freezing' and Finding #5: cold slows microbes down. Read the 'Matka as a Cooler' box on page 46. Ask: 'Does the fridge kill microbes?' (No, it only slows them; that is why food still spoils in the fridge after many days.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Make ghee from butter (page 46)",
+          "mins": 16,
+          "do": "Do Experiment e3, the book's butter-and-ghee question with its four-step picture on page 46. First ask the book's question: 'Why does butter need a fridge and ghee does not?' Write your child's guess. An adult heats 2–3 tablespoons of white butter (or salted butter) in a small steel pan on low heat while your child watches from a safe distance. Point out: it melts; it bubbles and crackles (that is the water inside the butter boiling off as steam); white bits sink and turn golden-brown; the bubbling stops and the liquid turns clear and golden, smelling of ghee. Turn off the heat. When cool, strain it through a tea strainer into a dry katori. Ask: 'Where did the water go? What does that mean for the microbes?' (It evaporated; without water, microbes cannot grow, so ghee lasts for months.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Salt, sugar and spices; Activity 3 plan (page 46)",
+          "mins": 4,
+          "do": "Read the part of page 46 where Disha's grandfather says people used salt, sugar and spices like pepper to keep food from spoiling. Ask: 'Which of our foods use lots of salt?' (Pickles, dried fish, papad.) 'Lots of sugar?' (Murabba, jam, aam papad, gulkand.) Tell your child for Activity 3 to phone or ask an elder today or tomorrow how their family preserved food without a fridge; we will share it on Day 5."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: microbes and preservation",
+          "mins": 14,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark together; for each wrong answer, open the page: microbes pages 41–42, what they need page 43, drying pages 43–44, oil and cold page 45, ghee page 46.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 45–46", "2–3 tablespoons of white or salted butter", "a small steel pan, stove, spoon, tea strainer, a dry katori (adult at the stove)", "the bread bags and tomato slices", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Grandparents' secrets and good microbes at work",
+      "goal": "Share a family preservation tradition, learn about canning, and set up curd, idli batter and kanji to watch good microbes at work.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Activity 3: what did the elders say? (page 46)",
+          "mins": 8,
+          "do": "Do Activity 3 on page 46. Your child shares what an elder told them about preserving food without a fridge, and writes at least one practice in the notebook with who told it. Common answers you may hear: drying vadis and papads on the terrace in summer; salting raw mangoes and lemons; storing grains with neem leaves or dried red chillies to keep insects away; keeping milk boiled twice a day; covering cooked food and keeping it in a hanging basket (chhinka) or in a cool earthen pot; making ghee; storing water in a matka. For each, ask: 'Which microbe need does it take away: water, air or warmth?'"
+        },
+        {
+          "kind": "read",
+          "title": "Cans, pepper and wasps (page 47)",
+          "mins": 5,
+          "do": "Read page 47: food factories preserve food in airtight cans and packets to keep microbes out (Finding #6). Read the two 'Do you know?' boxes: Vasco da Gama crossed oceans to reach India for black pepper, and some hunting wasps preserve food for their young. Explain: a mother hunting wasp stings a caterpillar or spider so that it cannot move but stays alive, and lays an egg on it, so her larva has fresh food. Ask: 'Why does canned food have a date on it?' (Even sealed food will not last forever, and once opened, microbes get in.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the curd test",
+          "mins": 12,
+          "do": "Set up Experiment e4. Warm a cup of milk until it feels just warm on the inside of your wrist (not hot), then divide it into three small steel bowls. Bowl A: add half a teaspoon of curd and stir; keep it in a warm place (inside a closed cupboard or wrapped in a towel). Bowl B: add half a teaspoon of curd and stir; put it in the fridge. Bowl C: add no curd; keep it next to bowl A. Cover all three. Ask your child to predict: 'Which will turn into curd by tomorrow morning? Why?' Write the guesses in the notebook.",
+          "ref": "e4"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the idli batter test",
+          "mins": 10,
+          "do": "Set up Experiment e5. Read the box 'How are Idlis made?' on page 47 and ask: 'Is there something that makes the idli batter fluffy? What is it?' Take freshly ground idli batter (made today from soaked rice and urad dal, with salt). Pour equal amounts into two clear glasses or jars, to the same height, and mark the level with a rubber band or tape. Put one in a warm place and one in the fridge. Ask your child to predict which will rise and how it will smell tomorrow. Write the guesses.",
+          "ref": "e5"
+        },
+        {
+          "kind": "act",
+          "title": "Start the Fermentation Lab: carrot kanji",
+          "mins": 10,
+          "do": "Start Activity a3, our week-long Fermentation Lab. In a clean glass jar, put 1 black or red carrot (and a small piece of beetroot if you like), cut into sticks, 1 teaspoon salt, half a teaspoon crushed mustard seed (rai) and 3 cups of water. Stir, cover with a cloth tied with a band, and keep it in a sunny spot. Your child starts a 'Lab Log' page with columns: Day, Colour, Smell, Bubbles?, Taste (only from Day 3, with an adult). Read the caption on page 53 together: fermented rice like pakhala and kanji is eaten in many parts of India.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 46–47 and 53", "1 cup of milk, half a teaspoon of curd, 3 small steel bowls", "freshly ground idli batter, 2 clear glasses, rubber bands", "a clean glass jar, 1 carrot (black or red), salt, rai, a cloth and band", "notebook"],
+      "prep": [{"task": "Soak 1 cup idli rice and 1/4 cup urad dal separately for 6 hours, then grind into batter with salt", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Fluffy idlis and set curd",
+      "goal": "Read the results of the curd and idli tests, understand fermentation, meet a scientist who studied a fermenting drink, and solve a mystery that is not caused by microbes.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Curd results",
+          "mins": 8,
+          "do": "Check Experiment e4. Tilt each bowl gently. Bowl A (curd, warm) has usually set firm and smells pleasantly sour. Bowl B (curd, fridge) is still mostly runny milk. Bowl C (no curd, warm) may still be milk, or may have gone sour and lumpy in a different, unpleasant way. Ask: 'What made the difference between A and B?' (The temperature.) 'Between A and C?' (The spoon of curd, which carried the good bacteria.) Read the 'why' of e4 together. Eat bowl A with lunch; throw away C.",
+          "ref": "e4"
+        },
+        {
+          "kind": "exp",
+          "title": "Idli batter results and Finding #7 (pages 47–48)",
+          "mins": 9,
+          "do": "Check Experiment e5. Compare the levels with the rubber bands: the warm batter has usually risen, has bubbles on top and smells sour; the fridge batter has barely changed. Ask your child to tap the jar and listen, and to look at the bubbles. Read Finding #7 on page 48: microbes help make idli batter rise. Add an honest detail: most of the microbes that ferment idli batter come in with the rice, the urad dal, the water and our hands, not only from the air. Ask: 'What are the bubbles made of?' (A gas, carbon dioxide, which the microbes give out as they feed on the batter.) Steam a few idlis from the warm batter and see how soft they are.",
+          "ref": "e5"
+        },
+        {
+          "kind": "think",
+          "title": "Kamala Sohonie and neera",
+          "mins": 10,
+          "do": "Tell the story in Voice v2: Kamala Sohonie was refused a place to do research at the Indian Institute of Science in Bengaluru in 1933 simply because she was a woman, was then allowed in on strict conditions, proved herself, and went on to become the first Indian woman to earn a PhD in science. Later she studied neera, the sweet sap of palm trees, which ferments within hours into toddy unless it is kept cold. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "A brown mystery: the cut apple",
+          "mins": 12,
+          "do": "Do Activity a1. Cut an apple (or banana, or potato) into 4 pieces. Leave piece 1 as it is. Rub piece 2 with lemon juice. Dip piece 3 in a bowl of water so it is covered. Put piece 4 in a closed box in the fridge. Ask your child to predict which will go brown. Check after 20 minutes and again at the end of the day. Usually 1 goes brown fastest; lemon and water slow it a lot. Then ask the big detective question: 'Is the brown colour caused by microbes?' (No. It happens in minutes, which is too fast for microbes. The apple's own juice reacts with oxygen in the air once it is cut. Lemon's acid and covering with water slow it.) Write in the notebook: 'Not every change in food is spoilage.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "act",
+          "title": "Lab Log",
+          "mins": 6,
+          "do": "Look at the kanji jar from Activity a3. Your child records colour, smell and any bubbles in the Lab Log. Stir it with a clean, dry spoon. Ask: 'Why must the spoon be dry and clean?' (A wet or dirty spoon can add the wrong microbes, which is why Paati never uses a wet spoon in the pickle jar.)",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 47–48", "the curd bowls and idli batter jars", "an idli steamer (optional)", "1 apple, a lemon, a bowl of water, a small box", "the kanji jar and a clean dry spoon"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Upset stomachs and good bacteria",
+      "goal": "Learn about indigestion and home remedies, weigh a live debate about probiotic foods, and start 'My Food, My Pride'.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Indigestion and home remedies (page 48)",
+          "mins": 7,
+          "do": "Read 'Indigestion and Home Remedies' on page 48: Aditya Anna has an upset stomach after eating at a fair. Do the Think box: your child writes about a time they had an upset stomach and the home remedy given (curd rice, buttermilk or chaas, banana, khichdi, ORS, jeera water, rest). Read the next paragraph and Finding #8. Ask: 'What are bad eating habits that can cause indigestion?' (Eating too fast, too much, very oily or spicy food, eating stale or uncovered street food, not washing hands, eating late at night.) Remind them: 'If it is bad, with high fever, blood, or you cannot keep water down, go to a doctor quickly.'"
+        },
+        {
+          "kind": "think",
+          "title": "Do curd microbes stay in us? (Metchnikoff and today's debate)",
+          "mins": 10,
+          "do": "Read the line on page 48: 'There are small microbes in curd that join the good microbes in your stomach to help in digestion.' Tell the story in Voice v3: over a hundred years ago Élie Metchnikoff thought soured milk could help people live longer; today scientists agree that our gut is home to trillions of helpful microbes, but they still argue about how much the microbes from curd or 'probiotic' drinks really stay and help. Say clearly: 'Curd is a healthy food; the debate is about what exactly its microbes do inside us.' Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "read",
+          "title": "My Food, My Pride (pages 48–49)",
+          "mins": 8,
+          "do": "Read 'My Food, My Pride' on page 48: Disha learns that food traditions are passed down in families and starts a case diary. Your child starts a 'My Food, My Pride' page: one dish your family makes for a festival or a season, who taught it, the ingredients, and one way it is kept or preserved (for example: 'Nani's avakaya, made every summer with raw mangoes, mustard and gingelly oil, kept in a ceramic jaadi'). Read the caption on page 49 about bamboo shoots cooked as curries in the Northeast."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: detective cases",
+          "mins": 14,
+          "do": "Do Worksheet ws2 (stretch). It gives new food cases to solve with this week's findings. Let your child answer write items aloud while you scribe if that helps. Praise answers that name which microbe need (water, air, warmth) is removed.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "act",
+          "title": "Lab Log and bread bags",
+          "mins": 6,
+          "do": "Record the kanji jar in the Lab Log (Activity a3): it is often turning pink or purple, a little cloudy and sour-smelling by now. Then look at the bread bags of Experiment e1: by now the damp and warm slice is usually well covered in mould; the dry, cold and salted slices much less. Your child writes the order in which they grew mould and compares it with the Day 1 predictions.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 48–49", "worksheet ws2", "the kanji jar and the bread bags", "notebook"],
+      "prep": [{"task": "Plan a trip to a vegetable market or sabzi mandi with your child for tomorrow", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "A visit to the vegetable market",
+      "goal": "Learn how to choose fresh fruits and vegetables, enjoy the idea of seasonal food, and finish the bread test.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Thatha at the market (page 49)",
+          "mins": 5,
+          "do": "Read 'A Visit to the Vegetable Market' on page 49: Thatha goes to the market daily and carefully examines fruits and vegetables before buying. Read the Activity 4 box: observe how elders choose. Before you go, ask your child: 'How do you think Thatha tells if a tomato is fresh?' Write their ideas to check at the market."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Activity 4: the market trip (page 49)",
+          "mins": 25,
+          "do": "Go to the sabzi market or a vegetable cart with your child and a small budget (for example ₹100). Show them how you choose: press a tomato gently (firm, not squashy); look at the cut end of a bhindi or snap its tip (fresh ones snap cleanly); check leaves of palak and methi for wilting or yellow patches; smell a mango or guava; look for bruises, cuts or white or black spots (mould). Ask a vendor: 'Which of these came from nearby? Which are in season now?' Your child buys two items themselves, counts the change and writes the prices. Write Finding #9 in Disha's style, for example 'Finding #9: Fresh bhindi snaps cleanly at the tip.'"
+        },
+        {
+          "kind": "talk",
+          "title": "The joy of seasonal fruit (pages 49–50)",
+          "mins": 7,
+          "do": "Read 'The Joy of Eating Seasonal Fruits!' on page 49: Appa brings lychees in the rains, and says local mangoes are fresh because they did not travel far. Read Finding #9 on page 50. Do the Write box on page 50: your child names three seasonal fruits or vegetables of your region with their season (for example amla, gajar and sarson in winter; mango, jamun, jackfruit and watermelon in summer; corn (bhutta) and lychee in the rains). Ask: 'Why might a fruit that travelled far from another country taste less fresh?' (It was picked before it was ripe and kept cold for days.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Bread test results",
+          "mins": 8,
+          "do": "Finish Experiment e1. Lay the sealed bags in a row (do not open them). Your child fills a results table: bag, day mould first seen, how much mould today (none / a little / a lot). Usually: damp and warm grows mould first and most; damp and cold much later and less; dry and warm and salted grow little or none. Ask: 'Which of Anna's three needs did each bag take away?' (Cold took warmth; toasting took water; salt pulls water out, so it also took water away.) Then throw all four bags away sealed, in the dustbin, and wash hands.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Textbook pages 49–50", "a cloth bag, ₹100 or so for the market", "notebook and pencil", "the four bread bags"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Chew right!",
+      "goal": "Follow food into the mouth: name the teeth and their jobs, see saliva start digestion, and learn about cavities and choking.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Activity 5: teeth in the mirror (pages 50–51)",
+          "mins": 9,
+          "do": "Read 'Chew Right!' on page 50. Your child stands in front of a mirror, says 'Aaaaah' like Disha, and counts their teeth. Look at the 'Types of teeth' diagram on page 51 and read Anna's line: incisors cut, canines tear, premolars crush, molars grind. Give your child a piece of carrot or apple and ask: 'Which teeth do you use to bite off a piece? Which to chew it?' (Front incisors to bite; back molars to grind.) Tell them honestly: a child's 20 milk teeth have incisors, canines and molars but no premolars; premolars come with the adult teeth, which number 32 by adulthood, including wisdom teeth. Count how many of your child's teeth are loose or new."
+        },
+        {
+          "kind": "exp",
+          "title": "Does chewed roti turn sweet?",
+          "mins": 9,
+          "do": "Do Experiment e6, which answers Disha's question on page 51 about saliva. Ask your child to guess first: 'If you chew a small piece of plain roti for a long time without swallowing, will its taste change?' Your child takes a small bite of plain roti (no ghee, no salt) or a spoon of plain boiled rice and chews slowly for 2 minutes without swallowing, telling you every 30 seconds what it tastes like. Usually after a minute or two it starts to taste slightly sweet. Ask: 'Did more saliva come as you chewed?' (Yes.) Read Findings #10 and #11 on page 52 and explain the 'why' of e6: saliva has a chemical that cuts starch into sugar.",
+          "ref": "e6"
+        },
+        {
+          "kind": "read",
+          "title": "Oral hygiene and choking (page 52)",
+          "mins": 6,
+          "do": "Read 'Oral Hygiene' on page 52: Disha's toothache, the cavity, and the dentist's advice. Explain how a cavity forms: bacteria living on our teeth eat the sugar left in the mouth and make acid; the acid slowly dissolves a hole in the hard outer layer of the tooth. Ask: 'So why do we brush at night and rinse after sweets?' Read 'The Danger of Choking' and Finding #13. Do the Write box on page 53: 'How can you avoid choking?' Good answers: small bites, chew well, do not talk, laugh or run with food in the mouth, sit down to eat, cut grapes and round foods for little siblings."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and comparing scientists' views on microbes. There is no single right answer in section C; praise reasons that use evidence from our bread, curd and idli tests.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "act",
+          "title": "Kanji tasting",
+          "mins": 8,
+          "do": "Finish Activity a3. An adult checks the kanji: it should smell pleasantly sour and tangy, with no fuzzy mould on top. If it is fine, strain a little and let your child taste it. Complete the Lab Log, and write a summary: 'In 4 days, good microbes turned carrots, salt and water into kanji. The signs were…' (colour, cloudiness, sour smell, tiny bubbles). If you see any fuzzy mould or it smells rotten, throw it away and write that down too; that is also a result. Read the 'Final Discovery' on page 53 together.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 50–53", "a mirror", "a piece of carrot or apple", "a small piece of plain roti or a spoon of plain rice", "worksheet ws3", "the kanji jar, a strainer and a cup"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, check understanding, and have your child present the case of the forgotten tiffin as a detective.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect (pages 53–54)",
+          "mins": 15,
+          "do": "Go through Let us reflect on pages 53–54. Q1: 'Why do some foods last for weeks and others spoil in days?' (Dry, salty, sugary, oily or sealed foods give microbes no water or air; wet, soft foods kept warm let them grow fast.) Q2: 'Two-day field trip: five foods and how to keep them safe.' Good list: theplas or parathas (dry, less water), roasted chana or peanuts, khakhra, whole fruits like bananas and apples (skin protects them), lemon rice or curd rice only for the first meal, and a sealed water bottle; keep food covered, in a cool bag, and eat cooked food the same day. Q3: 'A world without food preservation?' (Food only in its season, hunger in dry months, more illness, more waste, no long journeys.) Q4: the matching table: roti, dehydration, khakhra; papad, dried in sun, dried papads; mango, drying with sugar, aam papad; lemon, salting and oil (pickling), lemon pickle; butter, heating to remove water, ghee; juice, sealed cans (canning), canned juice; chillies, sun-drying, chilli powder; fish, drying and salting, dried fish."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any miss, open the page for a minute and ask again in different words (microbes pages 41–42, their needs page 43, preservation pages 43–47, idli page 47, curd page 48, teeth pages 50–52). Most children get 6 or more right; fewer than 5 means repeat the bread bag test and the curd test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: Detective's case report",
+          "mins": 15,
+          "do": "Your child is Detective Disha and you (or the family) are the police chief who needs a case report. In 6–8 minutes, using their Food Detective Notebook, the dried tomato slices, the ghee, a photo of the bread bags and the Lab Log, they explain: who spoiled the uttapam (microbes), what the culprits need (water, warmth, often air, food), five ways to stop them, which microbes are on our side (curd, idli, kanji), and what happens to food in the mouth. Ask two 'chief' questions: 'Why did the cut apple go brown? Was that microbes too?' and 'My curd did not set in the fridge. Why?' Close the case by stamping 'Mystery Solved' on the notebook."
+        },
+        {
+          "kind": "talk",
+          "title": "Family food rules",
+          "mins": 3,
+          "do": "Ask your child to write three kitchen rules for your family from this chapter and stick them on the fridge, for example: 'Cover cooked food', 'Use a dry spoon in the pickle', 'If in doubt, throw it out'."
+        }
+      ],
+      "need": ["Textbook pages 53–54", "the Food Detective Notebook, dried tomato slices, the ghee, the Lab Log", "paper for the fridge rules"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Microbes and how we stop them",
+      "day": 4,
+      "sections": [
+        ["A. Microbes", [
+          {"t": "fill", "p": "Tiny living things that can only be seen with a microscope are called ____.", "a": ["microbes", "microbe", "microorganisms"]},
+          {"t": "mcq", "p": "Why can we see mould on bread even though microbes are tiny?", "opts": ["The bread makes them bigger", "Mould is a colony of thousands of microbes together", "Mould is a kind of insect", "It is only dust"], "a": 1},
+          {"t": "mcq", "p": "Where are microbes found?", "opts": ["Only in dustbins", "Only in hospitals", "In soil, water, air, plants, animals and inside us", "Only on old food"], "a": 2}
+        ]],
+        ["B. What microbes need", [
+          {"t": "fill", "p": "Microbes need moisture, air and the right ____ to grow.", "a": ["temperature", "warmth"]},
+          {"t": "match", "p": "Match the method to what it takes away from microbes.", "pairs": [["Drying chillies in the sun", "Water"], ["Pouring oil on pickle", "Air"], ["Keeping milk in the fridge", "Warmth"], ["Making ghee from butter", "Water"]]}
+        ]],
+        ["C. Preserved foods", [
+          {"t": "sort", "p": "How is each food kept from spoiling?", "items": ["Papad", "Mango pickle", "Chilli powder", "Ice cream", "Canned juice", "Murabba", "Dried fish", "Ghee"], "cats": ["Drying", "Oil, salt or sugar", "Cold", "Sealed can or packet", "Heating to remove water"]},
+          {"t": "write", "p": "Why does butter need a fridge but ghee does not?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New food detective cases",
+      "day": 7,
+      "sections": [
+        ["A. Solve the case", [
+          {"t": "write", "p": "Case: Rohan's bread in a sealed packet grew mould in 4 days in July but lasted 7 days in December. What clue does the month give you?", "lines": 3},
+          {"t": "mcq", "p": "Case: Paati always uses a dry spoon to take pickle out. What would a wet spoon do?", "opts": ["Make it spicier", "Add water, which helps microbes grow", "Make the oil thicker", "Nothing at all"], "a": 1},
+          {"t": "mcq", "p": "Case: Curd set in 6 hours in summer but took all night in winter. Why?", "opts": ["The milk was different", "Curd bacteria work faster when it is warm", "Winter milk has no bacteria", "The bowl was bigger"], "a": 1}
+        ]],
+        ["B. Spoiling or not?", [
+          {"t": "sort", "p": "Is each change caused by microbes?", "items": ["Green fuzz on bread", "Cut apple turning brown in 10 minutes", "Milk turning into curd", "Ice cream melting", "Idli batter rising", "Dal smelling sour after 2 days outside"], "cats": ["Caused by microbes", "Not caused by microbes"]},
+          {"t": "write", "p": "How did our apple test show that browning is not caused by microbes?", "lines": 2}
+        ]],
+        ["C. Plan it", [
+          {"t": "table", "p": "Plan how to keep these foods safe in summer without a fridge.", "cols": ["Food", "What could spoil it", "How I would keep it safe"], "rows": 4, "prefill": ["Boiled milk", "Cooked rice", "Raw mangoes", "Fresh coriander"]},
+          {"t": "match", "p": "Match each tooth to its job.", "pairs": [["Incisor", "Cuts"], ["Canine", "Tears"], ["Premolar", "Crushes"], ["Molar", "Grinds"]]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Microbe puzzles and scientists who disagreed",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Honey and jaggery are wet and sweet, yet they last for months. Microbes need water. How can that be? (Hint: think about how a raisin or salt pulls water.)", "lines": 3},
+          {"t": "mcq", "p": "A sealed tin of food is very safe, yet a bulging, swollen tin should be thrown away. Why?", "opts": ["The tin is too old-looking", "Some microbes can grow without air and make gas inside", "It is too heavy", "The label fell off"], "a": 1},
+          {"t": "fill", "p": "Chewed roti turns sweet because saliva breaks down ____ into sugar.", "a": ["starch"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if there were no microbes at all on Earth? Write two good things and two bad things that would happen. (Think of curd, idli, rotting leaves and spoiled food.)", "lines": 4},
+          {"t": "write", "p": "What if people had no teeth and no saliva? How would eating and digestion change?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Long ago some people believed spoiling happened all by itself, with no microbes. Pasteur's swan-necked flask stayed fresh until its neck was broken. Explain how this result goes against the old idea.", "lines": 4},
+          {"t": "mcq", "p": "A company says its probiotic drink makes children healthier. What evidence would convince a careful scientist?", "opts": ["A famous person likes it", "A fair test where some children drink it and others drink a look-alike without microbes, and doctors compare their health without knowing who had which", "The bottle is colourful", "It tastes nice"], "a": 1},
+          {"t": "write", "p": "Kamala Sohonie was refused a place to do research because she was a woman, and later proved herself. Why is it bad for science when some people are kept out?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The four-bag bread test",
+      "day": 1,
+      "question": "What do moulds need to grow: moisture, warmth, or no salt?",
+      "need": ["4 slices of bread or 4 pieces of plain roti", "4 zip-lock bags and a marker", "water and a dropper or spoon", "a toaster or tawa", "salt", "a warm cupboard and space in the fridge", "a magnifying glass if available"],
+      "steps": [
+        "Label the bags: 1 'Damp and warm', 2 'Dry and warm', 3 'Damp and cold', 4 'Damp with lots of salt'.",
+        "Sprinkle a few drops of water on slices 1, 3 and 4.",
+        "Toast slice 2 hard and dry and let it cool. Cover slice 4 thickly with salt.",
+        "Touch each slice once with the same finger after rubbing it on the floor or a windowsill.",
+        "Seal the bags. Put 1, 2 and 4 in a warm cupboard and 3 in the fridge.",
+        "Look every 1–2 days without opening, and draw each bag with the date for about a week.",
+        "At the end, throw the bags away sealed and wash hands."
+      ],
+      "predict": "Ask your child to guess first: which slice will grow mould first, which last, and why?",
+      "observe": "Record the day mould first appears on each slice and how much there is. Usually the damp and warm slice grows white, green or black fuzz first and most; the damp and cold slice much later and less; the dry toast and the heavily salted slice little or none in a week.",
+      "why": "Mould grows from spores, tiny seed-like bits that float in the air and sit on every surface. A spore needs water, warmth and food to grow. Bread gives it food. Warmth speeds up its living chemistry; the cold of a fridge slows it right down but does not kill it. Toasting removes the water, so spores cannot grow. Lots of salt pulls water out of the bread and out of the microbes themselves, so they dry up; this is why salting preserves pickles and fish. The book says microbes also need air; that is true of moulds, but some bacteria grow without air, which is why even sealed tins must be heated properly and why a swollen tin is thrown away.",
+      "safety": "Never open the bags: mould spores can cause allergies and breathing trouble. Throw the bags away sealed and wash hands after handling.",
+      "time": "16 min to set up + 3 min checks for a week"
+    },
+    {
+      "id": "e2",
+      "title": "Dry a tomato (Book Activity 2, page 45)",
+      "day": 3,
+      "question": "Does sun-drying keep tomato slices from spoiling compared to slices left wet in the shade?",
+      "need": ["2 tomatoes", "a knife (adult use)", "a steel tray and a thin cloth", "a plate", "a sunny window or balcony", "kitchen scale if available"],
+      "steps": [
+        "An adult slices the tomatoes thinly.",
+        "Put half the slices on the tray, cover with a thin cloth, and place in strong sunlight.",
+        "Put the other half on a plate in a shady corner of the kitchen.",
+        "Bring the sun tray in at night; put it out again each morning.",
+        "Each day, look, touch and smell both sets and draw them.",
+        "After 3–4 days, compare. Weigh both sets if you can."
+      ],
+      "predict": "Ask your child to guess first: what will the sun slices and the shade slices look and smell like after three days?",
+      "observe": "Sun slices shrink, darken, become leathery and lighter, and do not smell bad. Shade slices stay wet and soft, may leak juice, and often start to smell sour or show white or grey fuzz.",
+      "why": "A tomato is mostly water, and water is what microbes need most. In the sun, heat and moving air evaporate the water from thin slices faster than microbes can grow, and the dried slice has too little water left for them. The shade slices stay wet, so microbes from the air settle and multiply. Drying is one of the oldest ways people have kept food, which is why India has so many sun-dried foods: papads, vadis, dried chillies, amchur and dried fish. To keep dried tomatoes, store them in a dry, airtight jar, or cover them in oil.",
+      "safety": "An adult should do the cutting. Do not eat the shade slices. Cover the sun tray with a cloth to keep flies off.",
+      "time": "15 min to set up + 3 min checks for 3–4 days"
+    },
+    {
+      "id": "e3",
+      "title": "From butter to ghee (page 46)",
+      "day": 4,
+      "question": "What changes when butter is heated into ghee, and why does ghee last so much longer?",
+      "need": ["2–3 tablespoons of butter (white or salted)", "a small steel pan", "a stove (adult only)", "a spoon", "a tea strainer", "a dry katori"],
+      "steps": [
+        "An adult melts the butter on low heat.",
+        "Watch and listen: bubbling and crackling begin.",
+        "Keep on low heat, stirring now and then, until the bubbling stops and white bits at the bottom turn golden-brown.",
+        "Turn off the heat and let it cool for a few minutes.",
+        "Strain into a dry katori. Compare it with a little leftover butter."
+      ],
+      "predict": "Ask your child to guess first: what is the crackling sound? Why might ghee keep for months outside the fridge while butter does not?",
+      "observe": "Butter melts, foams and crackles as steam escapes; then it goes quiet, the liquid turns clear and golden, and browned milk solids are left at the bottom. The ghee smells nutty. Over the following weeks the ghee stays good on the shelf.",
+      "why": "Butter is mostly fat, but it also has some water (roughly 15 parts in 100) and some milk solids. Water and milk solids are what microbes need. Heating boils off the water as steam (the crackling), and the milk solids brown and are strained away. What is left is almost pure fat with almost no water, so microbes cannot grow in it. Ghee can still slowly go stale over many months as its fat reacts with air, which is why it is kept covered, but it does not grow mould like wet food.",
+      "safety": "Hot fat burns badly. Only an adult works at the stove; your child watches from a safe distance. Keep water away from hot ghee.",
+      "time": "16 min"
+    },
+    {
+      "id": "e4",
+      "title": "Milk to curd: warm, cold and no starter",
+      "day": 5,
+      "question": "What does milk need to turn into curd: a starter, warmth, or both?",
+      "need": ["1 cup milk", "half a teaspoon of curd as starter", "3 small steel bowls with covers", "a warm place (closed cupboard or a towel)", "the fridge"],
+      "steps": [
+        "Warm the milk until it feels just warm on your wrist, not hot.",
+        "Pour it into three bowls: A, B and C.",
+        "Add half a teaspoon of curd to A and B, and stir. Add nothing to C.",
+        "Cover all three. Keep A and C in a warm place, and put B in the fridge.",
+        "Next morning, tilt each bowl gently and smell it."
+      ],
+      "predict": "Ask your child to guess first: which bowls will turn into curd by morning, and why?",
+      "observe": "A (starter, warm) usually sets firm and smells fresh and sour. B (starter, cold) stays mostly liquid. C (no starter, warm) may stay milk or go sour and lumpy in an uneven way, often with a less pleasant smell.",
+      "why": "Curd is made by good bacteria (lactic acid bacteria such as Lactobacillus) that live in the spoon of curd. In warm milk they multiply fast, feed on the milk sugar (lactose) and make lactic acid. The acid makes the milk proteins clump together into a soft solid, and gives curd its sour taste. In the fridge, the same bacteria are too cold to work quickly. In bowl C, only whatever microbes happened to be in the milk or the air could grow, so the result is slower and unpredictable, which is why every Indian kitchen saves a little curd as a starter. This is fermentation.",
+      "safety": "Use milk that is fresh. Do not eat bowl C.",
+      "time": "12 min to set up + check next morning"
+    },
+    {
+      "id": "e5",
+      "title": "Does idli batter rise in the cold?",
+      "day": 5,
+      "question": "Does idli batter need warmth to ferment and rise?",
+      "need": ["freshly ground idli batter (rice and urad dal with salt)", "2 identical clear glasses or jars", "2 rubber bands or tape", "a warm place and the fridge"],
+      "steps": [
+        "Pour equal amounts of fresh batter into the two glasses.",
+        "Mark the top of the batter on each glass with a rubber band.",
+        "Cover loosely. Put one in a warm place and one in the fridge.",
+        "Next morning, compare the height, bubbles and smell."
+      ],
+      "predict": "Ask your child to guess first: will both rise? Which will smell sour?",
+      "observe": "The warm batter has risen above the band, is full of small bubbles and smells sour. The fridge batter has hardly risen and smells fresh.",
+      "why": "Ground rice and urad dal carry their own good microbes, mainly lactic acid bacteria and some yeasts, picked up from the grains, the water, hands and vessels. In warmth they multiply and feed on the starch and sugars, giving out carbon dioxide gas, which makes bubbles that are trapped by the sticky urad dal, so the batter rises. They also make acids, which give the sour taste. Cold slows them almost to a stop. That is why idli batter rises faster in summer than in winter, and why people keep it in a warm spot overnight. The book says the microbes come from the air; the air adds a few, but most come with the ingredients themselves.",
+      "safety": "Cover the jars, and leave space at the top: the batter can overflow.",
+      "time": "10 min to set up + check next morning"
+    },
+    {
+      "id": "e6",
+      "title": "Does chewed roti turn sweet?",
+      "day": 9,
+      "question": "Does saliva change food while we chew it?",
+      "need": ["a small piece of plain roti (no ghee or salt) or a spoon of plain boiled rice", "a clock or phone timer"],
+      "steps": [
+        "Take a small bite and start the timer.",
+        "Chew slowly without swallowing for 2 minutes.",
+        "Every 30 seconds, say what it tastes like.",
+        "Notice whether more saliva comes as you chew.",
+        "Swallow at the end and write the result."
+      ],
+      "predict": "Ask your child to guess first: will the taste stay the same, become salty, sour or sweet?",
+      "observe": "After a minute or two, many people notice a faint sweet taste. The food turns into a soft mush and more saliva flows.",
+      "why": "Roti and rice are full of starch, which does not taste sweet. Saliva contains a chemical called amylase (an enzyme) that cuts starch into smaller sugars, which do taste sweet. So digestion begins in the mouth: teeth cut and grind food into small pieces, which gives saliva more surface to work on, and saliva wets the food into a soft ball that is easy and safe to swallow. Not everyone notices the sweetness, because people make different amounts of amylase, so if your child does not taste it, that is a real result too.",
+      "safety": "Sit down while chewing, and do not talk or laugh with food in the mouth.",
+      "time": "9 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "The brown apple mystery",
+      "day": 6,
+      "mins": 12,
+      "need": ["1 apple, banana or potato", "a knife (adult use)", "half a lemon", "a bowl of water", "a small box with a lid", "a plate"],
+      "steps": [
+        "Cut the apple into 4 pieces.",
+        "Leave piece 1 on the plate, rub piece 2 with lemon juice, sink piece 3 in water, and put piece 4 in a closed box in the fridge.",
+        "Predict which will go brown.",
+        "Check after 20 minutes and at the end of the day; draw them.",
+        "Decide: was it microbes? Write your reason."
+      ],
+      "outcome": "A child who can tell spoilage by microbes from a fast chemical change: cut apple browns in minutes because its juice reacts with oxygen in air, and lemon, water and cold slow it down."
+    },
+    {
+      "id": "a2",
+      "title": "Food Detective card game",
+      "day": 2,
+      "mins": 12,
+      "need": ["8–12 small cards", "a pen"],
+      "steps": [
+        "Write a case on each card as a list of 4 clues, from vague to obvious.",
+        "Read one clue at a time.",
+        "The detective guesses what happened: spoilage, fermentation, cooking or digestion.",
+        "Score 5 points for a correct guess after one clue, 4 after two, and so on.",
+        "Take turns making new cards from what you learn each day."
+      ],
+      "outcome": "A deck of food mystery cards and a child who can name the process behind a change in food from its clues."
+    },
+    {
+      "id": "a3",
+      "title": "Fermentation Lab: kanji and a lab log",
+      "day": 5,
+      "mins": 10,
+      "need": ["a clean glass jar", "1 black or red carrot (and a small piece of beetroot, optional)", "1 teaspoon salt", "half a teaspoon crushed rai (mustard seed)", "3 cups water", "a cloth and a rubber band", "a Lab Log page"],
+      "steps": [
+        "Cut the carrot into sticks and put them in the jar with salt, rai and water.",
+        "Stir with a clean, dry spoon. Cover with a cloth and band.",
+        "Keep it in a sunny, warm spot.",
+        "Each day, record colour, smell, cloudiness and bubbles in the Lab Log.",
+        "From Day 3 or 4, an adult checks for mould; if it smells pleasantly sour and has no fuzz, taste a little.",
+        "Add the curd and idli results to the same Lab Log with photos."
+      ],
+      "outcome": "A jar of home-made kanji to drink and a lab notebook that records three fermentations: curd, idli batter and kanji."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Louis Pasteur (1822–1895), France",
+      "idea": "For centuries many people believed in 'spontaneous generation': that life, such as maggots in meat or the cloudiness in spoiled broth, could appear by itself out of non-living matter. Around 1859–1862 Pasteur boiled meat broth in glass flasks and bent their necks into a long S-shape like a swan's neck. Air could get in, but dust and microbes from the air got stuck in the low bend. The broth stayed clear for a long time. When he broke the neck off, or tipped the broth into the bend, it soon became cloudy and spoiled. This showed that spoiling is caused by microbes that come in from outside, not by the broth itself.",
+      "then": "Some scientists, most famously Félix Pouchet, argued strongly for spontaneous generation and reported their own experiments that seemed to support it. The French Academy of Sciences awarded Pasteur a prize in 1862 for his work, and over the following years his results, and later ones by others such as John Tyndall, convinced most scientists.",
+      "now": "That microbes cause food to spoil and ferment, and that they come from other microbes, is fully accepted. The idea of spontaneous generation in everyday food was rejected. Pasteur's work led to pasteurisation, heating milk and juices just enough to kill most harmful microbes, which is why the milk packets in our homes say 'pasteurised'.",
+      "status": "accepted",
+      "ask": "Pasteur's broth stayed fresh until the neck broke. If someone still said 'the broth just needed fresh air', how does the swan neck answer them?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Kamala Sohonie (1911–1998), India",
+      "idea": "In 1933 Kamala Sohonie applied to do research at the Indian Institute of Science in Bengaluru. Its director, C.V. Raman, at first refused her because she was a woman; she was finally admitted on strict conditions, and her work convinced her teachers. She went on to study at Cambridge, where she found that the enzyme cytochrome c is present in plant cells, and in 1939 she became the first Indian woman to earn a PhD in a science subject. Back in India she studied the nutrition of everyday foods. Her best-known work was on neera, the sweet sap tapped from palm trees, which she showed contains useful vitamins (such as vitamin C) and could help poorly fed children and pregnant women. Fresh neera ferments within hours into alcoholic toddy unless it is kept cold or treated, so keeping it fresh was part of the problem.",
+      "then": "As a woman scientist she faced doubt and unfair barriers, especially early in her career. Her neera work was encouraged by the government of the time and she received the Rashtrapati Award for it.",
+      "now": "Her findings are accepted, and she is remembered as a pioneer for Indian women in science. Neera is still sold in parts of India, chilled or preserved so that it does not ferment.",
+      "status": "accepted",
+      "ask": "Neera turns into toddy within hours in the heat. Using what we learned about microbes, how would you design a way to sell fresh neera in a village with no fridge?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Élie Metchnikoff (1845–1916), and today's probiotic debate",
+      "idea": "Metchnikoff, a Russian-born scientist working at the Pasteur Institute in Paris who won a Nobel Prize in 1908 for his work on the body's defences, suggested in 1907 that people in Bulgaria who drank a lot of soured milk lived long lives because the lactic acid bacteria in it pushed out harmful microbes in the gut. This started the idea of 'probiotics': eating live good microbes for health.",
+      "then": "His idea that soured milk could slow ageing was popular but not backed by strong evidence, and it faded for many years.",
+      "now": "Scientists today agree that trillions of helpful microbes live in our intestines and help digest food and protect us, and that fermented foods like curd and buttermilk are healthy foods. But they still debate how much the microbes we swallow actually settle in the gut. Some studies show certain probiotics can help with some kinds of diarrhoea, such as after taking antibiotics. Other studies, including a 2018 study from the Weizmann Institute in Israel, found that swallowed probiotic microbes stayed in some people's guts but not in others', and many health claims on probiotic products have not been proven. This is a live debate.",
+      "status": "debated",
+      "ask": "The book says curd microbes join the good microbes in our stomach. How could scientists check whether the microbes from curd are really still there inside us a week later?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What are microbes? Name one way they harm food and one way they help us.", "a": "Tiny living things seen only with a microscope. They spoil food (mould on bread, sour dal); they help make curd and idli batter and help digest food."},
+    {"q": "What do microbes need to grow?", "a": "Moisture (water), the right warm temperature, food, and for many of them, air. Take one away and they slow down or stop."},
+    {"q": "Why do sun-dried chillies and papads last all year?", "a": "Drying removes the water, and without water microbes cannot grow."},
+    {"q": "Why do we put oil on pickle and keep milk in the fridge?", "a": "Oil keeps air out so microbes cannot grow on the pickle; the cold of the fridge slows microbes down."},
+    {"q": "Why does butter need a fridge but ghee does not?", "a": "Making ghee boils off the water in butter and removes milk solids, leaving almost pure fat with no water for microbes."},
+    {"q": "What makes idli batter rise and curd set?", "a": "Good microbes (bacteria and yeasts) ferment them; in batter they give out carbon dioxide gas that makes it rise, and in milk they make acid that thickens it. Warmth helps them work."},
+    {"q": "Name the four kinds of teeth and their jobs.", "a": "Incisors cut, canines tear, premolars crush and molars grind."},
+    {"q": "Why does chewing well help, and how can we avoid choking?", "a": "Chewing breaks food into small pieces and mixes it with saliva, which starts digestion. Take small bites, chew well, and do not talk, laugh or run with food in the mouth."}
+  ]
+}

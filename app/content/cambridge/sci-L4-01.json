@@ -1,0 +1,868 @@
+{
+  "key": "cambridge|sci|4|1",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 4,
+  "n": 1,
+  "title": "Living things",
+  "source": "Cambridge Primary Science Learner's Book 4 (2nd edition, 2021), Unit 1 'Living things' (pages 2–30)",
+  "summary": "Your child finds out what a skeleton is made of, names the main bones, and learns the four jobs of the skeleton: protecting organs, giving shape and support, letting us move and growing with us. They discover that muscles move bones by contracting and relaxing in pairs, why moving every day keeps us healthy, how animals with and without backbones differ (including exoskeletons and identification keys), and how medicines and vaccinations fight and prevent infectious diseases caused by germs.",
+  "goals": [
+    "By the end your child can point to and name the skull, jaw, spine, rib cage, upper and lower arm bones, hip and thigh and lower leg bones on their own body, and say what a skeleton is made of.",
+    "By the end your child can explain the four jobs of the skeleton (protect organs, give shape and support, allow movement, grow with us) with an example of each.",
+    "By the end your child can measure bones in centimetres, record results in a table and explain why centimetres are better than hand-lengths.",
+    "By the end your child can explain how a pair of muscles moves a bone: one contracts (gets shorter and fatter and pulls) while the other relaxes, and say why movement is good for health.",
+    "By the end your child can sort animals into vertebrates (fish, amphibians, reptiles, birds, mammals) and invertebrates, say which invertebrates have an exoskeleton, and use and make a simple identification key.",
+    "By the end your child can explain what an infectious disease is, list rules for taking medicines safely, and describe how vaccinations prevent disease, including the true stories of Jenner and Haffkine."
+  ],
+  "words": [
+    ["skeleton", "the strong frame of bones inside our body that holds us up and protects us; an adult has 206 bones"],
+    ["skull", "the bones of the head; they form a hard box around the brain"],
+    ["spine", "the backbone: a chain of small bones (vertebrae) down the middle of the back that holds us up and protects the spinal cord"],
+    ["rib cage", "the curved rib bones joined to the spine and the breastbone, making a cage around the heart and lungs"],
+    ["organ", "a body part inside us with an important job, such as the heart, lungs, brain or stomach"],
+    ["muscle", "a body part joined to bones that pulls on them to make us move"],
+    ["contract", "when a muscle gets shorter and fatter and pulls on the bone it is joined to"],
+    ["relax", "when a muscle stops pulling, gets longer and thinner and rests"],
+    ["vertebrate", "an animal with a backbone and a skeleton inside its body: fish, amphibians, reptiles, birds and mammals"],
+    ["invertebrate", "an animal without a backbone, such as an earthworm, spider, ant or crab"],
+    ["exoskeleton", "a hard covering on the outside of some invertebrates' bodies, like a cockroach's or crab's shell, that protects and supports them"],
+    ["identification key", "a set of yes/no questions that leads you step by step to the name or group of a living thing"],
+    ["infectious disease", "an illness caused by tiny living things called germs that get into the body and can spread to others, such as flu, measles and malaria"],
+    ["vaccination", "a medicine, usually an injection or drops, that trains the body to fight a germ before it ever meets it, so we do not get ill"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is a skeleton?",
+      "goal": "Spark curiosity about the hard frame inside us, feel our own bones, read the opening of Topic 1.1, and start a slow experiment on what makes bones hard.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Floppy or firm?",
+          "mins": 5,
+          "do": "Hand your child an empty cloth bag or a dupatta and ask them to make it stand up on the table by itself. It flops. Now put a steel tumbler or a rolled-up newspaper inside it and try again. Ask: 'What is different now?' (Something hard inside holds it up.) Then ask: 'What holds YOU up? Why don't you flop on the floor like the dupatta?' Good answers: 'bones', 'my skeleton'. If they say 'my skin' or 'my muscles', ask them to pinch their cheek (soft) and then press their knee or shin (hard), and ask which one could hold them up."
+        },
+        {
+          "kind": "read",
+          "title": "Getting started (page 2)",
+          "mins": 7,
+          "do": "Open the Learner's Book at page 2 and look at the skeleton picture together. Ask the four Getting started questions aloud. 1 'What is a skeleton?' (A frame of bones inside the body.) 2 'What is it made of?' (Bones.) 3 'What type of animal is it from?' Let them reason from clues: count the legs, look at the skull shape and the tail. 4 'Name the parts you can see.' Read out the key words in the box (bones, frame, hip, jaw, model, rib cage, skeleton, skull, spine) and ask your child to copy them into the back of their science notebook to start a word list for this unit."
+        },
+        {
+          "kind": "read",
+          "title": "The human skeleton (page 3)",
+          "mins": 8,
+          "do": "Read page 3 aloud: people and many animals have bones joined together to form a skeleton, a strong frame that supports us from the inside; we know about dinosaurs from their skeletons; our skeleton has 206 bones of different sizes and shapes. Then point to each label on the picture (skull, jaw, upper arm bone, lower arm bones, rib cage, spine, hip, thigh bone, lower leg bones) and have your child find that bone on their own body and press it. Ask: 'Can you feel your jaw move when you chew? Can you count your ribs by pressing gently along your side?' Tell them: a newborn baby has about 300 bones, and some of them join together as the child grows, which is why an adult has 206."
+        },
+        {
+          "kind": "do",
+          "title": "Feel your bones (page 4, top)",
+          "mins": 8,
+          "do": "Do the 'Find your bones' tasks at the top of page 4. Ask your child to feel their lower arm from elbow to wrist and say how many bones they think are there (there are two: the radius and ulna; they can feel them cross over if they turn the palm up and down while holding the wrist). Then feel the thigh bone and the lower leg bones. Ask: 'Is the thigh bone the same size as the lower leg bones?' (The thigh bone, or femur, is the longest and strongest bone in the body; the lower leg has two bones.) Ask them to point out and name five bones on you, as the 'partner'."
+        },
+        {
+          "kind": "exp",
+          "title": "Start the bendy bone test",
+          "mins": 12,
+          "do": "Set up Experiment e1. If your family eats chicken, use a clean, cooked chicken leg bone (from last night's curry, scrubbed and washed). If you are vegetarian, use a whole raw eggshell (an egg) instead, or ask a neighbour for a bone. First let your child try to bend the bone: it will not bend. Put it in a glass jar and cover it completely with white vinegar (sirka). Put a second bone or eggshell in a jar of plain water as the comparison. Ask your child to predict: 'What will vinegar do to the bone in a few days?' Write the guess on a sheet and stick it on the fridge. Label the jars with today's date.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Skeletons tell stories",
+          "mins": 5,
+          "do": "Ask: 'How do we know what a dinosaur looked like if nobody ever saw one alive?' (From their skeletons and fossil bones dug out of rocks.) Tell them that dinosaur bones and eggs have been found in India too, for example at Balasinor in Gujarat and in the Narmada valley. Ask: 'If someone found your skeleton a million years from now, what could they tell about you?' (How tall you were, that you walked on two legs, how old you were from your teeth and bones.) End by writing 'A skeleton is ...' in the notebook and letting your child finish the sentence."
+        }
+      ],
+      "need": ["Learner's Book pages 2–4", "a dupatta or cloth bag and a steel tumbler", "a cleaned cooked chicken leg bone, or a whole raw egg", "2 glass jars", "white vinegar (sirka), about 1 cup", "science notebook and pencil"],
+      "prep": [{"task": "Save and scrub a cooked chicken leg bone (or keep a raw egg ready) and buy a bottle of white vinegar", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Make a model skeleton",
+      "goal": "Answer the page 4 questions about why bones are hard, strong and light, build a model skeleton as the book shows, and think about how a model differs from the real thing.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the vinegar jars",
+          "mins": 3,
+          "do": "Look at Experiment e1. Ask: 'Can you see tiny bubbles on the bone or eggshell in vinegar? Is anything happening in the water jar?' (Bubbles in vinegar, nothing in water.) Your child draws both jars in the notebook with today's date. Do not take the bone out yet.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions on page 4",
+          "mins": 7,
+          "do": "Ask the four questions on page 4. 1 'What are skeletons made of?' (Bones.) 2 'Why must skeletons be hard and strong?' (To hold up our body and protect the soft parts inside; if bones were soft we would collapse and the brain would be easily hurt.) 3 'Why are bones different sizes and shapes?' (Each does a different job: the skull is a round box for the brain, the ribs curve to make a cage, the leg bones are long and thick to carry weight, the finger bones are small so we can hold a pencil.) 4 'Bones are not very heavy. How does this help animals?' (They can move, run and, for birds, fly without carrying too much weight.) If stuck on 4, ask them to imagine running with steel rods for legs."
+        },
+        {
+          "kind": "act",
+          "title": "Build the model skeleton (pages 4–5)",
+          "mins": 20,
+          "do": "Do Activity a1, the 'Make a model skeleton' task on page 4. Use black chart paper, drinking straws or ear-bud sticks for long bones, macaroni or shell pasta for the spine and ribs, a bottle cap or a cut paper plate for the skull, and glue. Your child looks at the page 3 picture first and plans where each bone goes, arranges everything before gluing, and then writes labels for skull, jaw, rib cage, spine, arm bones and leg bones. While they work, ask: 'How many straws for the lower arm? Why?' (Two, because there are two bones.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Is a model the real thing? (page 5)",
+          "mins": 7,
+          "do": "Ask Question 1 on page 5: 'How is your model the same as a real skeleton? How is it different?' Good answers for same: same bones in the same places, long bones are long, the skull is at the top. Different: it is flat not 3D, it is not to scale, it has far fewer than 206 bones, straws are hollow plastic not living bone, it cannot move or grow. Then ask Question 2: 'How could you make it better?' (Add the joints, more ribs, the two lower-leg bones, make it bend at the elbow with a split pin.) Explain that scientists use models to understand things they cannot easily see, and always say what the model gets wrong."
+        },
+        {
+          "kind": "think",
+          "title": "Sushruta and the 300 bones",
+          "mins": 8,
+          "do": "Read Voice v1 to your child. Tell them that the ancient Indian surgeon Sushruta's book counted about 300 bones, while today's books say 206. Ask: 'Did Sushruta get it wrong, or was he counting differently?' Give the clues: he counted teeth, cartilage and some joined bones separately, and a baby really does have about 300 bones before some join. Ask the voice question and let them say what they would need to see to decide who is right (the same body, counted with the same rules).",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Learner's Book pages 3–5", "black chart paper", "8–10 drinking straws or ear-bud sticks", "a handful of macaroni or shell pasta", "a bottle cap or paper plate", "glue, scissors, white paper and a pen for labels"],
+      "prep": [{"task": "Collect straws, pasta and black chart paper for the model skeleton", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Why we need a skeleton",
+      "goal": "Learn the four main jobs of the skeleton from pages 6–7 and test why bones are shaped as strong, light tubes.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 6)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 6. 1 'What is the role of the skeleton?' 2 'Think of some reasons why we need a skeleton.' 3 'Name any parts inside your body that you know of.' Write their list of inside parts in the notebook (heart, lungs, brain, stomach, intestines, kidneys, liver). Tell them that these parts with jobs are called organs."
+        },
+        {
+          "kind": "read",
+          "title": "Four jobs of the skeleton (pages 6–7)",
+          "mins": 10,
+          "do": "Read pages 6 and 7 aloud: skeletons protect, give shape and support, allow us to move, and help us grow. Stop after each job and act it out. Protect: knock gently on your child's head (the skull guards the brain) and press their ribs (the rib cage guards the heart and lungs). Shape: ask them to try squashing their own arm; they cannot because the bone is inside. Move: bend the elbow (muscles joined to bones pull them). Grow: compare your hand with theirs palm to palm. Then ask the questions on page 7: 1 How does the skeleton protect the brain? (The skull is a hard box around it.) 2 Which organs does the rib cage protect? (Heart and lungs.) 3 Why do we need strong bones? (To hold us up and protect organs without breaking.) 4 How does the skeleton help us move? (Muscles are joined to bones and pull them.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Why bones are tubes",
+          "mins": 15,
+          "do": "Do Experiment e2. Take three sheets of A4 paper. Leave one flat, fold one into a zig-zag, and roll one into a tube held with tape. Stand each one up and gently place notebooks on top, one at a time, counting how many each holds. Ask your child to predict first which shape will hold the most. Usually the tube holds by far the most. Then explain: our long bones (like the thigh bone) are tube-shaped with a hollow middle filled with marrow, so they are strong but light, which answers Question 4 from page 4 again.",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Vinegar jar check",
+          "mins": 4,
+          "do": "Check Experiment e1. Ask: 'Has the bone changed colour? Has the eggshell got thinner?' Let your child gently poke the bone or eggshell with a spoon while it is still in the vinegar. Draw and date what you see. Add more vinegar if the level has dropped.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Organ guard game",
+          "mins": 8,
+          "do": "Call out an organ and your child must touch the bone that guards it and name it: 'Brain!' (skull), 'Heart!' (rib cage), 'Lungs!' (rib cage), 'Spinal cord, the cable of nerves down your back!' (spine). Then call out a job and they say which bones do it: 'Holding you up when you stand' (spine, hip, leg bones), 'Chewing' (jaw). Finish by asking: 'A jellyfish and an earthworm have no bones. How do they keep their shape?' Let them guess; tell them you will find out on Day 9."
+        }
+      ],
+      "need": ["Learner's Book pages 6–7", "3 sheets of A4 paper and sticky tape", "6–10 notebooks or thin books of the same size", "the vinegar jars from Day 1"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Measuring bone lengths",
+      "goal": "Measure bones in centimetres as on page 7, record them in a table, compare across the family, and see why standard units beat hand-lengths.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Hand-lengths muddle",
+          "mins": 5,
+          "do": "Ask your child to measure the length of the dining table in hand-spans (balisht). Then you measure it with your hand-spans. Write both numbers. Ask: 'Why are our numbers different when the table is the same?' (Your hands are different sizes.) This is exactly what Question 3 on page 7 is about, so keep the numbers for later."
+        },
+        {
+          "kind": "do",
+          "title": "Measuring bone lengths (page 7)",
+          "mins": 18,
+          "do": "Do the 'Measuring bone lengths' investigation on page 7 with a cloth tailor's tape (inchi-tape). Show your child how to find the ends of each bone by feeling the bumps: upper arm from the bony point of the shoulder to the elbow point; lower arm from elbow point to the knob on the little-finger side of the wrist; upper leg from the bony bump on the side of the hip to the knee; lower leg from the knee to the ankle knob. Draw the table from page 7 in the notebook with columns Bone, Me, Partner, and add columns for other family members if they are home (a grandparent, a younger cousin). Measure to the nearest centimetre and fill it in. Show them to read the cm side of the tape, not inches."
+        },
+        {
+          "kind": "talk",
+          "title": "What does the table tell us? (page 7)",
+          "mins": 10,
+          "do": "Ask the page 7 questions. 1 'Whose bones are longer?' (The adult's.) 2 'Predict the length of a teenager's bones and say why.' (Between the child's and the adult's, because a teenager is still growing; their skeleton grows until about the late teens or early twenties.) 3 'Marcus and Arun counted hand-lengths. Is this a good method?' (No: everybody's hand is a different size, so two people would get different answers for the same bone; centimetres are the same everywhere, so anyone can check our results. That is why we call them standard units.) Use the table-measuring numbers from the warm-up as proof."
+        },
+        {
+          "kind": "think",
+          "title": "Growing skeleton",
+          "mins": 7,
+          "do": "Read the 'Skeletons help us grow' box on page 7 again. Ask: 'Your bones are growing right now. How could we prove it?' (Measure the same bones again in six months and compare; mark height on the door frame.) Make a pencil mark of your child's height on a door frame with today's date. Ask: 'What does a growing skeleton need from food?' (Calcium from milk, curd, paneer, ragi and green leafy vegetables, and vitamin D from sunlight.)"
+        },
+        {
+          "kind": "do",
+          "title": "How am I doing? (page 8)",
+          "mins": 5,
+          "do": "Read the 'How am I doing?' questions on page 8: 'How well can I measure the length of bones? How well can I record data in a table?' Your child answers 'Very well', 'Quite well' or 'I need help' for each. Then read the 'Look what I can do!' list on page 8 aloud and tick the ones they can now do. If they said 'I need help' with measuring, measure two pencils together right now, starting from the 0 mark."
+        }
+      ],
+      "need": ["Learner's Book pages 7–8", "a cloth tailor's measuring tape", "notebook, pencil and ruler", "family members to measure if available"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Muscles make us move",
+      "goal": "Learn from pages 9–11 that muscles pull on bones by contracting and relaxing in pairs, feel it in our own arm, and see the vinegar test result.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 9)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 9: 'Name some ways our body can move.' (Walk, run, jump, bend, twist, smile, blink, chew.) 'How does our skeleton help us move?' Ask your child to try to bend their arm in the middle of the upper arm bone. They can't. Ask: 'So where does the arm bend?' (At the elbow, where two bones meet: a joint.)"
+        },
+        {
+          "kind": "read",
+          "title": "How muscles work (page 10)",
+          "mins": 10,
+          "do": "Read page 10 aloud. Point at the arm picture: muscle A (biceps, at the front of the upper arm) contracts and the arm lifts while muscle B (triceps, at the back) relaxes; then muscle B contracts and the arm drops while A relaxes. Make sure they understand that muscles can only PULL, never push; that is why they must work in pairs. Ask: 'When a muscle contracts, does it get longer or shorter?' (Shorter, and fatter.) 'What does the other muscle do?' (It relaxes and gets longer.) Tell them: there are more than 600 muscles in the body, and even smiling uses several."
+        },
+        {
+          "kind": "exp",
+          "title": "Feel muscles working in pairs (page 11)",
+          "mins": 13,
+          "do": "Do Experiment e3, the 'Find out how muscles work in pairs' activity on page 11, using a heavy book or a 1-litre water bottle. Your child holds the weight, puts their other hand on the front of the upper arm and slowly lifts the weight towards their shoulder. Ask: 'What does the front muscle feel like?' (It gets hard, short and bulges up.) Then hand on the back of the upper arm: 'And the back muscle?' (Soft and loose.) Now they straighten the arm, pushing down on the table edge: the back muscle hardens and the front one goes soft. Ask the page 11 Questions 1 and 2: which muscle contracts when you lift a book, and how could you test arm strength fairly? (Same weight, same number of lifts, same arm, same time; count lifts in 30 seconds.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "The heart, a special muscle (page 11)",
+          "mins": 5,
+          "do": "Look at the heart picture on page 11 and ask Questions 3 and 4. 3 'How can we make our muscles bigger?' (By using them often: exercise, carrying things, climbing, playing.) 4 'Why do you think the heart is not joined to any bones?' (It does not move a bone; its job is to squeeze itself to pump blood around the body, which it does about 70 to 100 times a minute, all our life, without us thinking.) Let your child feel their heartbeat on the left of the chest."
+        },
+        {
+          "kind": "exp",
+          "title": "The bendy bone result",
+          "mins": 12,
+          "do": "Finish Experiment e1. Take the bone (or egg) out of the vinegar with a spoon, rinse it under the tap and let your child touch it and try to bend it. The chicken bone should now bend like rubber; the egg will have lost its shell and feel rubbery. Compare with the one from the water jar, which is still hard. Ask: 'What did the vinegar take away?' Explain the 'why' from the experiment: bones are made hard by a mineral containing calcium; vinegar is an acid that dissolves this mineral, leaving only the bendy protein part. Ask: 'So which foods help keep your bones hard?' (Milk, curd, paneer, ragi, til, green leafy vegetables.) Wash hands afterwards and throw the bone away.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Learner's Book pages 9–11", "a heavy book or a 1-litre bottle of water", "the vinegar jars from Day 1", "a spoon and soap for handwashing"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "A model arm",
+      "goal": "Build the card-and-rubber-band arm model on page 12 and decide how it is like and unlike real muscles.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Contract or relax? quick fire",
+          "mins": 5,
+          "do": "Call out actions; your child does the action and says which upper-arm muscle contracts. 'Lift a glass of water to your mouth' (front, biceps). 'Push yourself up from the floor' (back, triceps). 'Do a push-up' (back). 'Pull a bucket of water up' (front). For each, ask: 'And the other one?' (Relaxes.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make a model of arm muscles (page 12)",
+          "mins": 25,
+          "do": "Do Activity a2, the 'Make a model of arm muscles' task on page 12. Use a cereal box or shoe box lid as the thick card. Cut two strips about 20 cm long and 4 cm wide (these are the upper and lower arm bones). YOU make the holes 5 cm from one end with the scissors point, with a ball of atta dough or modelling clay behind the card, because the book warns the hand could slip. Join the strips with a split pin (paper fastener) to make an elbow. Your child staples the longer rubber band on the inner side between the two 'bones' and the shorter rubber band on the outer side, so both are tight but not pulling. Read the red safety note on page 12 aloud before starting.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions on page 12",
+          "mins": 10,
+          "do": "Ask the questions on page 12. 1 'What happens when you pull the longer band?' and 2 'the shorter band?' (Pulling one band bends the arm one way; pulling the other straightens it.) 3 'How do the two bands act like muscles?' (Each one can only pull; one bends and the other straightens, and while one pulls the other is loose, just like contract and relax.) 4a 'How is the model the same as your arm?' (Two bones, a joint, two pullers on opposite sides.) 4b 'How is it different?' (The bands are stretched by your hand, real muscles shorten by themselves when the brain sends a signal; real muscles get fatter when they contract, bands get thinner; real elbows have many more muscles; card does not grow or heal.)"
+        },
+        {
+          "kind": "think",
+          "title": "What else bends?",
+          "mins": 5,
+          "do": "Ask your child to find three other joints on their body that work like the card elbow, bending one way only (knee, finger joints, toe joints). Then find one that moves in many directions (shoulder and hip, which are ball-and-socket joints). Ask: 'Could the card model show a shoulder? What would you need?' (A ball in a cup, like a marble in a bottle cap.)"
+        }
+      ],
+      "need": ["Learner's Book page 12", "a piece of thick card (cereal box)", "2 rubber bands, one longer than the other", "a split pin (paper fastener)", "stapler, scissors and a ruler", "a small ball of atta dough or modelling clay"],
+      "prep": [{"task": "Buy split pins (paper fasteners) from a stationery shop and find two rubber bands of different lengths", "when": "2 days before"}]
+    },
+    {
+      "n": 7,
+      "title": "Movement keeps us healthy",
+      "goal": "Learn from page 13 how movement helps the body and mind, keep a movement diary, and do the core worksheet on skeletons and muscles.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Move and notice",
+          "mins": 8,
+          "do": "Go to the terrace, courtyard or park. Your child does 1 minute each of three movements: skipping, playing langdi (hopping on one leg) or kho-kho running, and 10 slow squats. After each, ask: 'What do you notice in your body?' (Heart beats faster, breathing faster, feel warm, legs feel tired.) Ask them to name the muscles or bones they used most."
+        },
+        {
+          "kind": "read",
+          "title": "Movement keeps us healthy (page 13)",
+          "mins": 7,
+          "do": "Read page 13 aloud: movement makes the heart and lungs work better, makes muscles and bones stronger, lets us stretch easily, helps stop some illnesses, helps us think better and puts us in a good mood; sitting still for a long time is not good for our bodies. Ask: 'Which of these did you notice just now outside?' Then ask Question 1: 'List all the things you did today that made you move, starting from when you woke up.'"
+        },
+        {
+          "kind": "act",
+          "title": "My movement diary",
+          "mins": 10,
+          "do": "Start Activity a3. Help your child draw a table with columns Activity, Hours, Moving a lot? (yes/no) for yesterday: sleeping, school or study, eating, TV or phone, playing, walking, chores. Answer page 13 Questions 2a and 2b together: which things made you move very little, and how much time do you sit still each day? Then Question 3: think of five ways to move more (walk to the kirana shop, take the stairs, help hang the washing, dance to a song, yoga or Surya Namaskar before breakfast). Your child chooses two to do every day this week and ticks them in the diary.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: bones and muscles",
+          "mins": 15,
+          "do": "Give your child Worksheet ws1. They work alone first; help only with reading. Check together afterwards: for every wrong answer, ask them to show the answer on their own body (point to the bone, or bend the arm and feel the muscle) before correcting it.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "talk",
+          "title": "Share it (page 13)",
+          "mins": 5,
+          "do": "Ask the reflection questions on page 13: 'How can I use what I have learnt to be healthier? Did I learn anything that I can share with other people?' Help your child choose one fact to tell a grandparent or friend today (for example, 'Moving every day makes your bones stronger, not just your muscles'). Read the 'Look what I can do!' list on page 14 and tick what they can do."
+        }
+      ],
+      "need": ["Learner's Book pages 13–14", "a skipping rope (optional)", "Worksheet ws1", "notebook, pencil and ruler"],
+      "prep": [{"task": "Print or copy Worksheet ws1", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Animals with bones",
+      "goal": "Meet vertebrates from pages 15–17 and sort them into fish, amphibians, reptiles, birds and mammals by body covering and features.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 15)",
+          "mins": 6,
+          "do": "Ask the Getting started questions on page 15. 1 'Name some animals that have skeletons made of bone.' (Cow, dog, pigeon, fish, lizard, frog.) 2 'Your skeleton is inside your body. Could an animal have a skeleton on the outside?' 3 Look at the crab picture: 'Does the crab have a skeleton? Why or why not?' Accept any reasoned answer; the right answer comes on Day 9. If you have bought prawns or a crab for cooking, let your child feel the hard shell."
+        },
+        {
+          "kind": "read",
+          "title": "Animals with bones (pages 16–17)",
+          "mins": 10,
+          "do": "Read page 16 and the top of page 17 aloud: vertebrates have a skeleton with a backbone inside their bodies; vertebrate means 'with a backbone'; there are five groups. Read each group's description and add an Indian example: fish (rohu, pomfret: fins, scales, live in water); amphibians (frog, toad: smooth wet skin, water and land); reptiles (cobra, garden lizard, tortoise, mugger crocodile: dry scales); birds (sparrow, peacock, myna; ostrich cannot fly: feathers, wings); mammals (cow, monkey, human; dolphins in the Ganga and whales in the sea: hair or fur). Then do the page 16 task: name the group of the tiger, lizard, parrot, fish, frog and dolphin in the pictures. Ask: 'Why is a dolphin not a fish?' (It has no scales, breathes air with lungs, feeds its baby milk: a mammal.)"
+        },
+        {
+          "kind": "game",
+          "title": "Vertebrate sorting cards",
+          "mins": 15,
+          "do": "Write 20 Indian animals on small paper slips: rohu, shark, seahorse, frog, toad, caecilian (a legless amphibian of the Western Ghats), cobra, gecko, Olive Ridley turtle, gharial, peacock, sparrow, kingfisher, penguin, bat, elephant, Gangetic dolphin, blackbuck, human, pangolin. Your child sorts them into five piles headed Fish, Amphibians, Reptiles, Birds, Mammals and says the clue for each (scales and fins, wet skin, dry scales, feathers, hair). Tricky ones to discuss: bat (a mammal with fur that flies), penguin (a bird that swims, not flies), pangolin (a mammal covered in scales that are made of the same stuff as our nails, and it feeds milk to its young). Keep the cards for tomorrow."
+        },
+        {
+          "kind": "think",
+          "title": "Where is the backbone?",
+          "mins": 9,
+          "do": "Ask your child to run a finger down your spine and feel the bumps (each bump is one vertebra). If you cook fish, show the fish's backbone after a meal, or look at a picture. Ask: 'A snake has no legs. How does it still have a skeleton?' (It has a very long backbone with hundreds of vertebrae and ribs.) Ask: 'What would happen to a cow if it had no backbone?' (It would sag and could not stand or walk.) Have your child write one sentence: 'A vertebrate is ... Examples are ...'"
+        },
+        {
+          "kind": "do",
+          "title": "Vertebrate group word list",
+          "mins": 5,
+          "do": "Your child adds vertebrate, mammal, bird, reptile, amphibian and fish to the word list in the notebook, each with one body-covering clue and one Indian example animal they have seen themselves (in the house, the street, the zoo or on TV)."
+        }
+      ],
+      "need": ["Learner's Book pages 15–17", "20 small paper slips and a pen", "prawns, a crab shell or fish bones if available (optional)"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Animals without bones, and keys",
+      "goal": "Learn about invertebrates and exoskeletons (pages 17–18), use the keys on pages 19–21 and go on a minibeast hunt.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Animals without bones (pages 17–18)",
+          "mins": 8,
+          "do": "Read 'Animals without bones' on page 17 aloud: invertebrates have no backbone; some have a hard outer layer called an exoskeleton that protects and supports them (insects like locusts and beetles); others like worms and jellyfish have soft bodies and no exoskeleton. Then ask the page 18 questions using the pictures: 1 the difference between a vertebrate and an invertebrate; 2 which are vertebrates (crocodile, goat, eagle, frog); 3 which are invertebrates (crab, beetle, spider, earthworm); 4 which invertebrates have an exoskeleton (crab, beetle, spider). Answer the Day 8 crab question now: yes, the crab has a skeleton, but on the outside."
+        },
+        {
+          "kind": "think",
+          "title": "How does a crab grow? (page 18, Question 5)",
+          "mins": 6,
+          "do": "Ask Question 5 on page 18: 'An exoskeleton cannot grow. How do you think an invertebrate with an exoskeleton is able to grow?' Let them guess. Then explain moulting: the animal grows a new soft skin underneath, splits and climbs out of the old shell, swells up quickly before the new one hardens. Tell them: if they find an empty, see-through cockroach or cicada 'ghost' or a snake's shed skin, that is a moult. (A snake is a vertebrate, but it sheds its outer skin as it grows.)"
+        },
+        {
+          "kind": "do",
+          "title": "Using a key (pages 19–21)",
+          "mins": 12,
+          "do": "Look at the 'Types of vertebrates' key on page 19. Walk through it with a panda: 'Does it have fur? Yes: mammal.' Then with a pigeon, a frog and a lizard. Then do the 'Identify vertebrates and invertebrates' task on page 20: your child follows the key to name each animal a to g, saying each question and answer aloud. Then answer the page 21 questions: 1 which animals in the key are vertebrates (eagle, cat, fish, snake); 2 which are invertebrates (crab, snail, worm); 3a name the five vertebrate groups; 3b say the group of each vertebrate (eagle bird, cat mammal, fish fish, snake reptile). Do the coloured-cards 'How am I doing?' on page 21 with a green, yellow or red paper."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Minibeast hunt",
+          "mins": 14,
+          "do": "Do Activity a4. Take a magnifying glass (or a phone camera zoomed in) to a garden, park or pots on the balcony. Gently lift a stone or a flower pot and look under leaves. Look for ants, spiders, snails, earthworms, millipedes, beetles, ladybirds, butterflies. Do not pick up anything with your bare hands; look and photograph only, and put stones back as they were. Your child draws each animal and sorts it into 'exoskeleton' or 'soft body'. Then they make their own yes/no key for 4 of the animals they found, using the page 20 key as a model, starting with 'Does it have legs?'",
+          "ref": "a4"
+        },
+        {
+          "kind": "review",
+          "title": "Look what I can do (page 21)",
+          "mins": 5,
+          "do": "Read the 'Look what I can do!' list on page 21 and tick. Then add the 20 animal cards from Day 8 plus earthworm, snail, crab, ant and spider into two big piles: vertebrates and invertebrates. Tell them: about 19 out of every 20 kinds of animals on Earth are invertebrates, mostly insects."
+        }
+      ],
+      "need": ["Learner's Book pages 17–21", "a magnifying glass or phone camera", "notebook and coloured pencils", "green, yellow and red paper squares", "the animal cards from Day 8"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Taking medicines safely",
+      "goal": "Learn from pages 22–25 why we take medicines, how to take them safely, and the different ways medicines enter the body.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 22)",
+          "mins": 5,
+          "do": "Look at the picture on page 22 and ask the Getting started questions. 1 'Have you ever taken medicine? Why?' 2 'What other kinds of medicines do you know?' (Tablets, syrups, drops, creams, inhalers, injections.) 3 'Why is an adult giving the medicine to the girl?' (Adults know the right dose and check the label; medicines can harm children if taken wrongly.)"
+        },
+        {
+          "kind": "read",
+          "title": "Medicines and safety (page 23)",
+          "mins": 7,
+          "do": "Read page 23 aloud: medicines make us better or prevent illness; take them only if given by a doctor, nurse or the adult who looks after you; all medicines come with instructions on how much and how often; always follow them. Then bring your own medicine box (with you holding it). Together find on one strip or bottle: the name of the medicine, the dose, the expiry date (Exp.), the words 'Keep out of reach of children' and the batch number. Ask: 'Why is there an expiry date?' (After it, the medicine may not work or may be harmful.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Arun's friends (pages 23–24)",
+          "mins": 10,
+          "do": "Do 'Think like a scientist 1' on pages 23–24. Read the four speech bubbles and, for each, ask your child: 'Right or wrong? Why?' 1 Taking someone else's medicine for the same illness: WRONG; doses depend on age and weight, the illness may be different, and you may be allergic. 2 Forgot the morning dose, so take more at lunch: WRONG; a double dose can be harmful; ask the doctor or chemist what to do. 3 If told to take it with food, do so: RIGHT; some medicines upset an empty stomach. 4 Always take the right amount; too much can harm: RIGHT. Then begin Question 3: your child starts an information sheet titled 'How to take medicines safely' with these four rules written correctly, to finish tomorrow."
+        },
+        {
+          "kind": "read",
+          "title": "How we take medicines (pages 24–25)",
+          "mins": 8,
+          "do": "Read 'How we take medicines' on pages 24–25: injections (some are vaccinations that prevent measles or flu); inhalers for asthma; creams and ointments for insect bites and skin problems; drips that put medicine straight into the blood in hospital. Ask the page 25 questions. 1 Why do we take medicines? (To get better or to stop getting ill.) 2 What if you didn't take all the medicine the doctor gave? (You might not get fully better and the illness could come back; with antibiotics, the strongest germs can survive.) 3 Could a cream treat a sore throat? (No: a cream works where you put it on the skin, and it cannot reach the inside of the throat.) 4 Why do hospital patients get a drip? (They may be too ill to swallow, and the medicine reaches the blood quickly and steadily.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Give your child Worksheet ws2. It applies the unit to new cases: new animals, new medicine problems and a data table. Let them work alone for 10 minutes, then discuss the answers. For each 'why' question, ask them to give their reason aloud before you check it.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Learner's Book pages 22–25", "your family medicine box (handled by the adult)", "Worksheet ws2", "A4 paper and colour pens for the information sheet"],
+      "prep": [{"task": "Print or copy Worksheet ws2; check the medicine box and set aside any expired medicines to return to a chemist", "when": "night before"}]
+    },
+    {
+      "n": 11,
+      "title": "Germs and infectious diseases",
+      "goal": "Learn from page 26 what infectious diseases are and that people, animals and plants all get them, test handwashing, and meet Semmelweis.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Infectious diseases (pages 26–27)",
+          "mins": 8,
+          "do": "Read 'Infectious diseases' on page 26 aloud: infectious diseases are caused by very tiny living things called germs that get into (infect) the body; flu, measles and malaria are examples; leaf blast can kill young rice plants; bird flu infects birds, humans and other animals and spreads easily; farmers vaccinate chickens, geese and ducks against it. Look at the leaf blast and farmer pictures. Ask the page 27 questions. 1 Say in your own words what an infectious disease is. 2 Why does the farmer wear gloves? (So germs from a sick bird do not get on her hands and spread to her or to other birds.) 3 How can she prevent the chicken getting bird flu? (Vaccinate it, keep sick birds apart, keep the shed clean.) Tell them that malaria is caused by a tiny germ carried by mosquitoes, which is why we use nets and stop water collecting in coolers and pots."
+        },
+        {
+          "kind": "exp",
+          "title": "Haldi germs handwashing test",
+          "mins": 15,
+          "do": "Do Experiment e4. Rub half a teaspoon of cooking oil and a pinch of haldi (turmeric) all over your child's hands; the yellow stands for germs we cannot see. They shake hands with you and touch a door handle and a steel plate. Ask: 'Where have the germs gone?' (On to you, the handle and the plate.) Then they wash for 5 seconds with water only and look; then for 20 seconds with soap, scrubbing between fingers, under nails and the backs of hands. Ask them to predict first which wash will remove more yellow. Discuss: water alone slides over the oil; soap grabs both oil and dirt and lets water carry it away. Clean the handle afterwards.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "The doctor who said 'wash your hands'",
+          "mins": 10,
+          "do": "Tell your child the story in Voice v4 about Ignaz Semmelweis in Vienna in 1847. Ask: 'Why do you think other doctors did not believe him, even though his numbers showed fewer mothers dying?' (He could not explain why it worked, because nobody knew about germs yet; doctors did not like being told they were causing harm.) Ask the voice question and let your child argue it out: is good evidence enough even if you cannot yet explain it?",
+          "ref": "v4"
+        },
+        {
+          "kind": "do",
+          "title": "Finish the medicine safety sheet",
+          "mins": 8,
+          "do": "Your child finishes the 'How to take medicines safely' information sheet started on Day 10 and adds a second half: 'How to stop germs spreading', with at least four rules from today (wash hands with soap before eating and after the toilet, cover coughs with your elbow, don't share water bottles when ill, keep water from collecting so mosquitoes cannot breed, get vaccinated). They decorate it and stick it near the wash basin."
+        },
+        {
+          "kind": "talk",
+          "title": "Plants get ill too",
+          "mins": 4,
+          "do": "Look at any garden or balcony plant for leaves with brown, yellow or white spots or powdery patches. Ask: 'Could this be an infectious disease in the plant? How could you find out?' (Watch whether the spots spread to other leaves or other plants; ask a gardener or nursery.) Remind them of leaf blast in rice from page 26: rice is a main food in India, so farmers and scientists work hard to stop it."
+        }
+      ],
+      "need": ["Learner's Book pages 26–27", "1 teaspoon cooking oil", "a pinch of haldi (turmeric)", "soap and a towel", "a steel plate", "the information sheet from Day 10"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Vaccinations: past and present",
+      "goal": "Research the questions on pages 25–26 about the first vaccinations and vaccinations today, using the family vaccination card and the stories of Jenner and Haffkine.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Your own vaccination card",
+          "mins": 8,
+          "do": "Take out your child's vaccination record (the Mother and Child Protection card or the record from your paediatrician). Read the names of a few vaccines and the ages they were given, for example BCG at birth (against tuberculosis), polio drops, and MR (measles and rubella) at about 9 months. Ask: 'Do you remember any of these injections? Why do you think babies get so many?' (Babies' bodies are new to germs, so vaccines protect them before they meet the dangerous ones.) Tell them that some of these were drops in the mouth, not injections."
+        },
+        {
+          "kind": "read",
+          "title": "Research task (pages 25–26)",
+          "mins": 7,
+          "do": "Read 'Think like a scientist 2: Research information about vaccinations' on page 25 and the 'Vaccinations today' questions at the top of page 26. Your child copies the questions into the notebook with space below each: Who invented the first vaccinations? Which disease did they prevent? How were they made and given? Is there a vaccination programme for children where we live? Which diseases? How are they given? How has giving vaccinations changed since the first one?"
+        },
+        {
+          "kind": "think",
+          "title": "Edward Jenner and the milkmaids",
+          "mins": 10,
+          "do": "Read Voice v2 about Edward Jenner and the older practice of variolation, including in India. Your child fills in the answers to the first three research questions from it: Jenner, smallpox, made from cowpox and scratched into the skin. Ask the voice question. Then ask: 'Why was it brave and also risky to test a vaccine on a boy?' (It could have harmed him; today vaccines are tested on adult volunteers in careful stages, with their permission, before children get them.)",
+          "ref": "v2"
+        },
+        {
+          "kind": "think",
+          "title": "Haffkine in Bombay",
+          "mins": 10,
+          "do": "Read Voice v3 about Waldemar Haffkine, who tested his cholera and plague vaccines on himself and vaccinated huge numbers of people in India. Ask the voice question. Ask: 'If 19 people die after a vaccination, how would you find out whether the vaccine itself or something else caused it?' (Check the exact bottle used, test it for germs, compare with the thousands who got the same vaccine from other bottles.) Tell them the institute he started in Mumbai is still called the Haffkine Institute today.",
+          "ref": "v3"
+        },
+        {
+          "kind": "talk",
+          "title": "Vaccinations today",
+          "mins": 10,
+          "do": "Answer the 'Vaccinations today' questions together. India has a Universal Immunisation Programme that gives free vaccines to children at government health centres and anganwadis. Diseases include tuberculosis, polio, measles, rubella, diphtheria, whooping cough, tetanus and hepatitis B. Ways of giving: injections, drops in the mouth (polio). Changes since Jenner: needles instead of scratching, vaccines kept cold in fridges carried even to villages, many more diseases covered. Tell them: India was declared free of polio by the World Health Organization in 2014 after years of Pulse Polio drives, and smallpox has been wiped out from the whole world. Your child writes three sentences of findings to 'share with the class' (with you or a grandparent)."
+        }
+      ],
+      "need": ["Learner's Book pages 25–26", "your child's vaccination card", "notebook and pencil"],
+      "prep": [{"task": "Find your child's vaccination card or health record", "when": "night before"}]
+    },
+    {
+      "n": 13,
+      "title": "Project: earthworm farming",
+      "goal": "Do the page 28 project on earthworm farming (vermicompost) by interviewing a worm farmer or gardener and setting up a small worm bottle.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Earthworm farming (page 28)",
+          "mins": 6,
+          "do": "Read page 28 aloud: earthworms are invertebrates that live in soil; people keep earthworm farms in dark, moist containers; the worms eat vegetable peels and garden waste and leave droppings called castings, which form worm compost that helps plants grow; farmers sell it. Tell them that in India this is called vermicompost ('vermi' means worm), and many farmers, nurseries and housing societies make it. Ask: 'Is an earthworm a vertebrate? Does it have an exoskeleton?' (Invertebrate, soft body, no exoskeleton.)"
+        },
+        {
+          "kind": "act",
+          "title": "Interview a worm farmer",
+          "mins": 20,
+          "do": "Do Activity a5. Visit (or phone or video-call) a plant nursery, a Krishi Vigyan Kendra, a society garden or a relative in a village who makes vermicompost. Your child asks the questions on page 28: Why did you decide to farm earthworms? Where do they live? What materials do they live in? Which foods do they like and dislike? How long does the compost take? How does the farm affect the environment? They add one question of their own. Write the answers in the notebook and take photographs. If no visit is possible, buy a small bag of vermicompost and look at it with a magnifying glass, then answer the questions from what you can find out together.",
+          "ref": "a5"
+        },
+        {
+          "kind": "do",
+          "title": "Set up a worm bottle",
+          "mins": 14,
+          "do": "Cut the top off a 2-litre plastic bottle (you do the cutting). Your child layers damp soil, a layer of sand, more soil, and dry leaves and a few vegetable peels on top. Add 3 or 4 earthworms from the garden or a nursery, gently, with a spoon. Wrap black paper around the bottle and keep it in a cool, shady corner, damp but not wet. Ask: 'Why wrap it in black paper?' (Earthworms live in the dark soil and move away from light.) Check in 1 week: the sand and soil layers will be mixed, showing the worms' tunnels. Release the worms back into the garden after two weeks."
+        },
+        {
+          "kind": "review",
+          "title": "Project reflection (page 28)",
+          "mins": 5,
+          "do": "Ask the reflection questions on page 28: 'What role did I have in this project? Am I happy with the work I did? What could I do differently next time?' Instead of a PowerPoint, your child makes a one-page poster of their findings with photos or drawings, to show the family at dinner."
+        }
+      ],
+      "need": ["Learner's Book page 28", "a nearby nursery, Krishi Vigyan Kendra or gardener to visit or call", "a 2-litre plastic bottle, soil, sand, dry leaves and vegetable peels", "3–4 earthworms", "black paper and tape", "phone camera"],
+      "prep": [{"task": "Phone a plant nursery, society gardener or relative who makes vermicompost and fix a time to visit or call", "when": "1 week before"}]
+    },
+    {
+      "n": 14,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the 'Check your progress' questions on pages 29–30, do the challenge worksheet, check understanding and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 29–30)",
+          "mins": 12,
+          "do": "Do the 'Check your progress' questions on pages 29–30 aloud. Q1 words: a skeleton, b skull, c model, d organs, e invertebrates, f muscles, g exoskeleton, h vaccination. Q2 arm muscles: the muscle at the front contracts, gets shorter and pulls on the arm bone; the other muscle relaxes. Q3 rabbit skeleton: let them use what they know (skull protects the brain; spine supports; rib cage protects heart and lungs; leg bones let it hop; shape and support is another function). Q4 Arun's graph: read each bar together, find the longest and shortest, and add up the hours of moving activities (riding bike, playing football). Q5 true or false: a true, b false, c true, d false, e false."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Give your child Worksheet ws3. It has puzzles, 'what if' questions and comparisons between the voices. Let them think aloud; there are no quick answers for the last section. Praise good reasoning even if the answer is different from yours.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the matching pages (bones 2–5, jobs 6–8, muscles 9–14, animals 15–21, medicines and germs 22–27) and look for one minute, then ask again in different words. Six or more right means ready to move on; fewer than five means redo the Day 5 muscle feel and the Day 9 key next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher and you are the student. In 6 minutes, using the model skeleton, the card arm, the animal cards and the medicine safety sheet, they must teach you: the main bones and the four jobs of the skeleton; how muscle pairs move a bone; vertebrates versus invertebrates; and how to take medicine safely and how vaccinations work. Ask two 'student' questions such as 'Why can't a crab grow bigger without moulting?' and 'If my friend has the same cough, can I take her syrup?' End by checking the worm bottle and the door-frame height mark, and set a calendar reminder to measure height again in 3 months."
+        }
+      ],
+      "need": ["Learner's Book pages 29–30", "Worksheet ws3", "the model skeleton, card arm, animal cards and safety sheet from earlier days"],
+      "prep": [{"task": "Print or copy Worksheet ws3", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Bones, jobs and muscles",
+      "day": 7,
+      "sections": [
+        ["A. Name the bones", [
+          {"t": "draw", "p": "Draw a simple human skeleton like the one on page 3. Label: skull, jaw, rib cage, spine, upper arm bone, lower arm bones, hip, thigh bone, lower leg bones."},
+          {"t": "fill", "p": "An adult human skeleton has ____ bones.", "a": ["206"]},
+          {"t": "fill", "p": "The longest bone in the body is the ____ bone.", "a": ["thigh", "femur"]}
+        ]],
+        ["B. Jobs of the skeleton", [
+          {"t": "match", "p": "Match each bone or set of bones to the organ it protects.", "pairs": [["Skull", "Brain"], ["Rib cage", "Heart and lungs"], ["Spine", "Spinal cord"]]},
+          {"t": "sort", "p": "Is this a job of the skeleton? Sort them.", "items": ["Protects organs", "Gives the body shape", "Lets us move", "Grows as we grow", "Digests food", "Pumps blood"], "cats": ["Job of the skeleton", "Not a job of the skeleton"]},
+          {"t": "mcq", "p": "Why are hand-lengths not a good way to measure bones?", "opts": ["Hands are too small", "Everyone's hand is a different size, so results can't be compared", "Bones are too hard", "It takes too long"], "a": 1}
+        ]],
+        ["C. Muscles and movement", [
+          {"t": "fill", "p": "When a muscle gets shorter and pulls on a bone, we say it ____.", "a": ["contracts", "contract"]},
+          {"t": "fill", "p": "When a muscle gets longer and rests, we say it ____.", "a": ["relaxes", "relax"]},
+          {"t": "mcq", "p": "When you lift a glass of water to your mouth, what does the muscle at the front of your upper arm do?", "opts": ["It relaxes", "It contracts and pulls", "It pushes the bone", "Nothing"], "a": 1},
+          {"t": "write", "p": "Why must muscles work in pairs?", "lines": 2},
+          {"t": "write", "p": "Write three ways that moving every day helps your body.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Animals, medicines and measuring",
+      "day": 10,
+      "sections": [
+        ["A. Sort the animals", [
+          {"t": "sort", "p": "Sort these animals.", "items": ["Rohu fish", "Cobra", "Peacock", "Bat", "Frog", "Cockroach", "Earthworm", "Crab", "Gharial", "Snail", "Spider", "Elephant"], "cats": ["Vertebrate", "Invertebrate with exoskeleton", "Invertebrate with soft body"]},
+          {"t": "mcq", "p": "A pangolin is covered in hard scales, has hair on its belly and feeds its babies milk. Which group is it in?", "opts": ["Reptile", "Fish", "Mammal", "Amphibian"], "a": 2},
+          {"t": "write", "p": "A cockroach's shell cannot grow. Explain how a young cockroach becomes an adult.", "lines": 3}
+        ]],
+        ["B. Medicine problems", [
+          {"t": "mcq", "p": "Riya's little brother has the same cough she had last week. What should the family do with Riya's leftover syrup?", "opts": ["Give it to him, same illness", "Give him half", "Ask the doctor; his dose and illness may be different", "Mix it with honey and give it"], "a": 2},
+          {"t": "mcq", "p": "Arjun forgot his morning tablet. What is the safest thing to do?", "opts": ["Take two at lunch", "Ask the doctor or chemist what to do", "Skip the rest of the course", "Take a different medicine"], "a": 1},
+          {"t": "match", "p": "Match the problem to the way the medicine is usually taken.", "pairs": [["Asthma", "Inhaler"], ["Mosquito bite itching", "Cream"], ["Very ill in hospital, cannot swallow", "Drip"], ["Preventing measles", "Vaccination injection"]]}
+        ]],
+        ["C. Bone data", [
+          {"t": "table", "p": "Fill in the bone lengths you measured on Day 4.", "cols": ["Bone", "Me (cm)", "Adult (cm)", "Difference (cm)"], "rows": 4, "prefill": ["Upper arm", "Lower arm", "Upper leg", "Lower leg"]},
+          {"t": "write", "p": "Look at your table. Which bone grew the most between your age and the adult's? How could you check that your measurements were correct?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Think like a scientist",
+      "day": 14,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if your bones were made of rubber, like the bone from the vinegar jar? Describe three things that would go wrong.", "lines": 4},
+          {"t": "write", "p": "What if muscles could push as well as pull? Would we still need muscles in pairs? Explain.", "lines": 3},
+          {"t": "mcq", "p": "An elephant's leg bones are much thicker for their length than a deer's. The best reason is:", "opts": ["Elephants are older", "Thicker bones hold up much more weight", "Elephants eat more calcium", "Deer bones are hollow and elephants' are not"], "a": 1}
+        ]],
+        ["B. Make a key", [
+          {"t": "draw", "p": "Make a yes/no identification key that separates these five animals: sparrow, cobra, frog, ant, earthworm. Start with: 'Does it have a backbone?'"},
+          {"t": "write", "p": "A student says 'All animals with a hard outside are invertebrates.' Think of a tortoise. Is the student right? Explain.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Sushruta counted about 300 bones; modern books say 206. Give two reasons why careful people could get different numbers.", "lines": 3},
+          {"t": "write", "p": "Semmelweis had numbers showing handwashing saved mothers, but most doctors did not believe him. Jenner's paper was also turned down at first. Why do you think scientists are slow to accept new ideas? Is that good or bad?", "lines": 4},
+          {"t": "write", "p": "Haffkine was blamed when 19 people died, but later cleared. What does this story teach about checking evidence before blaming someone?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The bendy bone (what makes bones hard?)",
+      "day": 1,
+      "question": "What part of a bone makes it hard, and what is left if we take that part away?",
+      "need": ["a cleaned cooked chicken leg bone, or a whole raw egg (vegetarian option)", "a second bone or egg for comparison", "2 glass jars with lids", "white vinegar (sirka), about 1 cup", "water", "a spoon"],
+      "steps": [
+        "Try to bend the bone with your hands. Note that it is hard and stiff.",
+        "Put one bone (or egg) in a jar and cover it completely with vinegar. Put the other in a jar of plain water.",
+        "Close the jars and label them with the date.",
+        "Look every day or two for bubbles and changes, and draw what you see.",
+        "After 4 to 5 days, lift both out with a spoon, rinse them, and try to bend them again."
+      ],
+      "predict": "Ask your child to guess first: will the bone in vinegar get harder, softer, dissolve completely, or stay the same? What about the one in water?",
+      "observe": "Tiny bubbles form on the bone or eggshell in vinegar. After several days the vinegar bone becomes rubbery and can be bent, even tied in a loose knot if it is thin; the egg loses its hard shell and is held in a rubbery skin. The bone and egg in water stay hard.",
+      "why": "Bone is made of two main things woven together: a bendy protein called collagen, and a hard mineral made of calcium and phosphate. The mineral makes bone hard and stiff; the collagen stops it snapping like chalk. Vinegar is a weak acid, and acids dissolve calcium minerals (the bubbles on an eggshell are carbon dioxide gas given off as its calcium carbonate dissolves). When the mineral is gone, only the collagen is left, so the bone bends. This is why our bones need calcium from food such as milk, curd, ragi, til and leafy greens, and vitamin D from sunlight to use it.",
+      "safety": "Handle raw egg and bones with clean hands and wash hands afterwards. Do not taste the vinegar or eat the bone or egg afterwards; throw them away.",
+      "time": "10 min to set up + 3 min checks + 10 min on day 5"
+    },
+    {
+      "id": "e2",
+      "title": "Why are long bones tubes?",
+      "day": 3,
+      "question": "Which shape of paper column holds up the most weight: flat, folded or rolled into a tube?",
+      "need": ["3 sheets of A4 paper", "sticky tape", "6–10 notebooks of the same size"],
+      "steps": [
+        "Leave one sheet flat, fold one into a zig-zag fan, and roll one into a tube about 3 cm across, taped closed.",
+        "Stand each one upright on the table.",
+        "Gently place notebooks on top one at a time, centred. Count how many it holds before it bends or collapses.",
+        "Record the number for each shape in a table."
+      ],
+      "predict": "Ask your child to guess first: which shape will hold the most notebooks, and how many?",
+      "observe": "The flat sheet will not even stand up. The zig-zag holds a few. The tube usually holds many notebooks before it crumples.",
+      "why": "A tube spreads the weight all around its edge, so every part of the paper helps to hold the load, and there is no weak side for it to bend towards. Engineers use tubes in bicycle frames and scaffolding for the same reason. Our long bones, like the thigh bone, are tubes: hard bone on the outside and a softer middle with marrow, where blood cells are made. This makes them very strong for carrying our weight but much lighter than solid bone would be, which is why animals can run and birds can fly.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Feel muscles working in pairs (Book activity, page 11)",
+      "day": 5,
+      "question": "What happens to the muscles at the front and back of the upper arm when we lift and lower something?",
+      "need": ["a heavy book or 1-litre water bottle", "a table edge"],
+      "steps": [
+        "Look at the pictures of arm muscles on page 10.",
+        "Hold the weight in one hand with the arm straight down. Put the other hand on the front of the upper arm.",
+        "Slowly lift the weight up towards the shoulder. Feel how the front muscle changes.",
+        "Move the hand to the back of the upper arm and lift again. Feel the back muscle.",
+        "Now straighten the arm by pressing down on a table edge. Feel the back and then the front muscle."
+      ],
+      "predict": "Ask your child to guess first: when you lift the book, will the front muscle get harder or softer? What will the back muscle do?",
+      "observe": "When lifting, the front muscle (biceps) becomes hard, short and fat and bulges up, while the back muscle (triceps) feels soft and loose. When straightening and pressing down, the back muscle hardens and the front one softens.",
+      "why": "Muscles are made of bundles of long thin fibres that can shorten when the brain sends a signal along a nerve. A contracting muscle gets shorter and fatter and pulls on the bone it is joined to by a strong cord called a tendon. A muscle can only pull, never push, so to move a bone back again another muscle on the other side must pull the other way. This is why muscles work in pairs: as one contracts, its partner relaxes and is stretched.",
+      "safety": "Use a weight your child can lift easily; do not swing it.",
+      "time": "10 min"
+    },
+    {
+      "id": "e4",
+      "title": "Haldi germs: does soap really matter?",
+      "day": 11,
+      "question": "How do germs spread from hands, and does washing with soap remove more than water alone?",
+      "need": ["1 teaspoon cooking oil", "a pinch of haldi (turmeric)", "soap", "a steel plate", "a door handle", "a towel"],
+      "steps": [
+        "Rub oil and haldi over both of your child's hands. The yellow stands for germs.",
+        "Your child shakes hands with you, then touches a door handle and a steel plate. Look where the yellow has gone.",
+        "Your child rinses hands under running water for 5 seconds without soap. Look and note how much yellow is left.",
+        "Now they wash with soap for 20 seconds (sing 'Happy Birthday' twice), scrubbing palms, backs, between fingers, thumbs and under nails. Rinse and look again.",
+        "Wipe the handle and plate clean with soap."
+      ],
+      "predict": "Ask your child to guess first: will plain water wash the yellow off? How many seconds of soap washing will you need?",
+      "observe": "Yellow spreads to your hand, the handle and the plate. Water alone leaves most of the yellow, especially between fingers and around nails. Soap and 20 seconds of scrubbing removes nearly all of it; the places most often missed are thumbs, fingertips and nails.",
+      "why": "Many germs sit in the natural oil and dirt on our skin. Oil and water do not mix, so water alone slides over the oily layer. A soap molecule has one end that sticks to water and one end that sticks to oil and grease; it surrounds the oily dirt and germs and lifts them off the skin, and the water then rinses them away. Soap can also break apart the fatty outer coat of some viruses. Germs spread by touch, which is why washing hands before eating and after the toilet is one of the simplest ways to stop infectious disease.",
+      "safety": "Haldi stains clothes; roll up sleeves and use an old towel.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Model skeleton (Book 'Think like a scientist', page 4)",
+      "day": 2,
+      "mins": 20,
+      "need": ["black chart paper", "drinking straws or ear-bud sticks", "macaroni or shell pasta", "a bottle cap or paper plate", "glue, scissors, white paper and a pen"],
+      "steps": [
+        "Look at the human skeleton on page 3. Notice the sizes and shapes of the bones and how they are arranged.",
+        "Plan which material is which bone: bottle cap or plate for the skull, a small curved piece for the jaw, pasta for the spine and ribs, straws for arm and leg bones (two for each lower arm and lower leg).",
+        "Arrange all the parts on the black paper without glue first and check against page 3.",
+        "When happy, glue the parts down.",
+        "Write labels for skull, jaw, rib cage, spine, arm bones and leg bones and stick them next to the bones."
+      ],
+      "outcome": "A labelled model skeleton on black paper, and an understanding that a model shows some things about the real skeleton but not others."
+    },
+    {
+      "id": "a2",
+      "title": "Card arm with muscle bands (Book 'Think like a scientist', page 12)",
+      "day": 6,
+      "mins": 25,
+      "need": ["thick card", "2 rubber bands of different lengths", "a split pin", "stapler and staples", "scissors and a ruler", "atta dough or modelling clay"],
+      "steps": [
+        "Cut two equal strips of card about 20 cm long.",
+        "The adult makes a hole 5 cm from one end of each strip, pushing the scissors point into a ball of dough behind the card.",
+        "Line up the holes and push the split pin through to make an elbow.",
+        "Staple the longer band to the inner side of the upper and lower 'bones'.",
+        "Staple the shorter band to the outer side. Both should be tight but not pulling.",
+        "Pull each band in turn and watch which way the arm moves."
+      ],
+      "outcome": "A working model elbow that shows how two muscles on opposite sides of a joint pull in turn to bend and straighten the arm, and a list of ways the model differs from a real arm."
+    },
+    {
+      "id": "a3",
+      "title": "My movement diary",
+      "day": 7,
+      "mins": 10,
+      "need": ["notebook, pencil and ruler", "a clock or phone"],
+      "steps": [
+        "Draw a table with columns: Activity, Hours, Moving a lot? (yes/no).",
+        "Fill it in for yesterday, from waking up to bedtime.",
+        "Add up the hours spent moving a lot and the hours spent sitting still.",
+        "Choose two new ways to move every day this week (for example stairs, a walk to the shop, skipping, Surya Namaskar).",
+        "Tick each day you do them. On Day 14, compare with Arun's graph on page 30."
+      ],
+      "outcome": "A week's movement record and a bar chart-ready table, plus two new daily movement habits."
+    },
+    {
+      "id": "a4",
+      "title": "Minibeast hunt and my own key",
+      "day": 9,
+      "mins": 14,
+      "need": ["a magnifying glass or phone camera", "notebook and coloured pencils"],
+      "steps": [
+        "Search under leaves, in pots, near walls and under stones (put stones back exactly as they were).",
+        "Look and photograph only; do not touch with bare hands.",
+        "Draw each animal you find and write where you found it.",
+        "Sort them into 'has an exoskeleton' and 'soft body'.",
+        "Make a yes/no key for four of them, starting with 'Does it have legs?', and test it on a family member."
+      ],
+      "outcome": "A page of minibeast drawings sorted by type of body, and a working identification key made by your child."
+    },
+    {
+      "id": "a5",
+      "title": "Earthworm farming project (Book project, page 28)",
+      "day": 13,
+      "mins": 20,
+      "need": ["a vermicompost maker to visit or call (nursery, Krishi Vigyan Kendra, society garden or relative)", "notebook", "phone camera", "a small bag of vermicompost (if no visit is possible)"],
+      "steps": [
+        "Fix a time to visit or call.",
+        "Ask the seven questions on page 28 and one of your own.",
+        "Write the answers and take photographs of the worm beds and compost.",
+        "Make a one-page poster of your findings.",
+        "Present the poster to the family at dinner."
+      ],
+      "outcome": "Interview notes and a poster on vermicomposting, showing how a soft-bodied invertebrate helps farmers and the environment by turning waste into compost."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Sushruta and the Sushruta Samhita (ancient India)",
+      "idea": "The Sushruta Samhita is an ancient Sanskrit book on medicine and surgery, written down in the form we have it well over 1,500 years ago. It teaches that a surgeon must know the body by looking at it, not just from books, and describes a way of studying a dead body: it was kept in a cage in flowing water for some days and then the softened layers were gently rubbed away with a brush made of grass or bamboo to see the parts beneath. The book counts about 300 bones in the human body.",
+      "then": "Sushruta's surgery, including methods for repairing a damaged nose, was respected in India for centuries. Another great Indian medical book, the Charaka Samhita, gave a different count of about 360 bones.",
+      "now": "Today's anatomy books count 206 bones in an adult. The older counts were not careless: they included teeth, some cartilage (the bendy material in the nose and ears) and bone pieces that are separate in children but join together in adults. A newborn baby really does have around 300 bones. Historians agree that Sushruta's insistence on careful observation of the body was an important step in the history of medicine.",
+      "status": "accepted",
+      "ask": "Sushruta counted about 300 bones and modern books say 206. If you wanted to settle who is 'right', what rules would you need to agree on first before counting?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Edward Jenner (1749–1823), England, and the older practice of variolation, including in India",
+      "idea": "Smallpox was a deadly infectious disease. For centuries people in India, China, Turkey and parts of Africa protected themselves by 'variolation': putting a tiny amount of material from a mild smallpox sore into a scratch on a healthy person, who usually got a milder illness and was then protected. A British doctor, J.Z. Holwell, described trained inoculators doing this in Bengal in 1767. In 1796 Jenner tested a safer idea that milkmaids believed: people who caught mild cowpox from cows did not get smallpox. He scratched material from a milkmaid's cowpox sore into the arm of a boy, James Phipps, and later showed the boy did not catch smallpox. The word 'vaccine' comes from 'vacca', Latin for cow.",
+      "then": "The Royal Society in London would not publish his first report, so in 1798 Jenner published it himself. Many people were afraid, and cartoons showed vaccinated people growing cow heads. But the method spread quickly around the world, including to India from 1802.",
+      "now": "Vaccination is one of the best-tested ideas in medicine. Smallpox became the first human disease wiped out from the whole world: India's last case was in 1975, and the World Health Organization declared the world free of smallpox in 1980. Today vaccines are tested in careful stages on adult volunteers before they are given to children, unlike Jenner's test.",
+      "status": "accepted",
+      "ask": "The milkmaids noticed a pattern long before Jenner. Why was noticing the pattern not enough? What did Jenner do that turned the idea into evidence?",
+      "day": 12
+    },
+    {
+      "id": "v3",
+      "who": "Waldemar Haffkine (1860–1930), born in Odessa (now Ukraine), worked in India",
+      "idea": "Haffkine made one of the first vaccines against cholera and tested it on himself in 1892 before giving it to anyone else. He came to India in 1893 and vaccinated many thousands of people. When plague broke out in Bombay (now Mumbai) in 1896, he made a plague vaccine in a small laboratory there and again tested it on himself first, in January 1897. Huge numbers of people in India were later given his plague vaccine.",
+      "then": "In 1902, in the village of Mulkowal in Punjab, 19 people died of tetanus after receiving plague vaccine from one bottle. Haffkine was blamed and removed from his post. Other scientists, including Ronald Ross, argued that the bottle had been contaminated after it left his laboratory, and an inquiry later cleared him in 1907.",
+      "now": "Haffkine is honoured as a pioneer of vaccines. His laboratory in Mumbai was renamed the Haffkine Institute in 1925 and still works on medicines and vaccines. The Mulkowal tragedy is remembered as a lesson in keeping vaccines clean and in checking evidence carefully before blaming someone.",
+      "status": "accepted",
+      "ask": "Haffkine tested his vaccines on himself first. Does testing on one person prove a vaccine is safe for everyone? What more would you need?",
+      "day": 12
+    },
+    {
+      "id": "v4",
+      "who": "Ignaz Semmelweis (1818–1865), Hungary, working in Vienna",
+      "idea": "In 1847, at a big hospital in Vienna, Semmelweis noticed that many more new mothers died of fever in the ward run by doctors and medical students than in the ward run by midwives. The doctors often came straight from cutting up dead bodies. He guessed they were carrying something deadly on their hands and made them wash in a chlorine solution before touching mothers. Deaths in the doctors' ward fell from about 1 in 10 in some months to around 1 in 100.",
+      "then": "Most doctors refused to believe him. Germs had not yet been discovered, so he could not explain why handwashing worked, and many doctors were offended at the idea that they were causing deaths. He lost his job in Vienna, grew angry and bitter, and died in 1865 without being accepted.",
+      "now": "A few years later Louis Pasteur showed that tiny living germs cause rotting and disease, and Joseph Lister began using antiseptics in surgery in 1867. Semmelweis was proved right. Handwashing is now one of the most important ways to stop infections in every hospital in the world.",
+      "status": "accepted",
+      "ask": "Semmelweis had numbers showing handwashing worked, but no explanation. Should doctors have changed what they did anyway? Is good evidence enough without knowing why?",
+      "day": 11
+    }
+  ],
+  "check": [
+    {"q": "Name five bones in your body and point to each one.", "a": "Any five of: skull, jaw, spine, rib cage, upper arm bone, lower arm bones, hip, thigh bone, lower leg bones, pointed to correctly."},
+    {"q": "What are the four main jobs of the skeleton?", "a": "It protects organs (skull protects the brain, rib cage protects heart and lungs), gives the body shape and support, lets us move because muscles are joined to bones, and grows as we grow."},
+    {"q": "Why is it better to measure bones in centimetres than in hand-lengths?", "a": "Centimetres are a standard unit and are the same for everyone; hand sizes differ, so two people measuring the same bone in hand-lengths would get different answers."},
+    {"q": "Explain what your arm muscles do when you lift a book and then put your arm down.", "a": "To lift, the front muscle contracts (gets shorter and fatter and pulls the lower arm up) while the back muscle relaxes. To lower or straighten, the back muscle contracts and the front one relaxes. Muscles only pull, so they work in pairs."},
+    {"q": "What is the difference between a vertebrate and an invertebrate? Give two examples of each.", "a": "A vertebrate has a backbone and a skeleton inside its body (for example cow, sparrow, frog, cobra, rohu). An invertebrate has no backbone (for example earthworm, ant, spider, snail, crab)."},
+    {"q": "What is an exoskeleton, and how does an animal with one grow?", "a": "A hard covering on the outside of some invertebrates, like a cockroach or crab, that protects and supports the body. It cannot grow, so the animal moults: it sheds the old one and a new, bigger one hardens."},
+    {"q": "What is an infectious disease? Name one in people and one in plants or animals.", "a": "An illness caused by tiny living things called germs that get into the body and can spread. People: flu, measles or malaria. Plants: leaf blast in rice. Animals: bird flu."},
+    {"q": "Give three rules for taking medicine safely, and say how a vaccination helps.", "a": "Only take medicine given by a doctor, nurse or trusted adult; follow the instructions on how much and how often; never take someone else's medicine; never take extra to make up a missed dose; check the expiry date. A vaccination trains the body to fight a germ before it meets it, so we do not get ill."}
+  ]
+}

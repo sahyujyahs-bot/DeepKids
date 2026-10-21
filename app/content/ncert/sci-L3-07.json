@@ -1,0 +1,666 @@
+{
+  "key": "ncert|sci|3|7",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 7,
+  "title": "Water — A Precious Gift",
+  "source": "NCERT Our Wondrous World, Class 3, Chapter 7 (pages 86–99), Unit 3 'Gifts of Nature', Reprint 2026-27",
+  "summary": "Your child watches the sky and the rain like a scientist, follows rainwater as it soaks into soil, runs off hard ground, fills ponds and wells and dries in the sun, and then follows the water in their own home back through the taps, pipes and tank to its source. They count how much water the family uses, find out how people stored water in the past, learn that used water can be reused, and take action by sharing water with people and building a birdbath.",
+  "goals": [
+    "By the end your child can give at least two sky clues for guessing whether it will rain, and describe rain by its size, speed, direction and heaviness.",
+    "By the end your child can explain what happens to rainwater on soil, on a cement road and on grass: it soaks in, collects in puddles, flows away or dries up in the sun.",
+    "By the end your child can say that the water in wells and borewells is groundwater, stored under the ground between soil and rocks, and that it is refilled when rain soaks in.",
+    "By the end your child can trace their home's water from the tap back through pipes and a tank to its source (a river, lake, well, borewell or tanker), and thank the people who bring it.",
+    "By the end your child can measure how much water the family uses in a day, name ways to reduce and reuse it, and explain why looking clean does not make water safe to drink.",
+    "By the end your child can tell how Indian communities have stored rain in ponds, johads and stepwells, and how one doctor's map proved that dirty water spreads disease."
+  ],
+  "words": [
+    ["rainwater", "water that falls from clouds; it is the starting point of almost all the fresh water we use"],
+    ["puddle", "a small pool of rainwater that collects in a dip on hard or muddy ground"],
+    ["absorb", "to soak in, the way soil or a cloth takes in water"],
+    ["groundwater", "water stored under the ground in the gaps between soil, sand and rocks; wells and borewells pull it up"],
+    ["source", "the place where something comes from; a river, lake or well is a source of water"],
+    ["tank", "a big container, often on the roof or terrace, that stores water and sends it down pipes to the taps"],
+    ["borewell", "a deep, narrow hole drilled into the ground with a pipe and a pump to bring up groundwater"],
+    ["store", "to keep something safely so it can be used later, like water in a matka, bucket or tank"],
+    ["waste water", "water that has already been used and has become dirty, like water after washing clothes or dishes"],
+    ["reuse", "to use something again for another job, like pouring vegetable-washing water on plants"],
+    ["evaporate", "when water slowly turns into an invisible gas (water vapour) and goes into the air; this is how wet clothes dry"],
+    ["johad", "a crescent-shaped mud wall built across a slope in Rajasthan and Haryana to hold rainwater so it soaks into the ground"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "What comes down but never goes up?",
+      "goal": "Start the chapter with the rain riddle, become sky-watchers who look for rain clues, set up a rain gauge and start a test of where water goes when it dries.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The riddle and the rain memory",
+          "mins": 5,
+          "do": "Ask your child the riddle at the top of page 87: 'What comes down but never goes up?' Give them time. The book's answer is rain. (If they say 'my age!' or 'a ball', laugh and say 'good thinking, but think of the sky'.) Then ask: 'Tell me about the last time it rained here. What did you hear, smell and see?' Listen for: thunder, the smell of wet mud (in many Indian languages people have a word for it; in English some call it 'petrichor'), puddles, frogs, people running for umbrellas."
+        },
+        {
+          "kind": "read",
+          "title": "Rain, rain, come again (pages 86–87)",
+          "mins": 7,
+          "do": "Look at the big picture on page 86 together and ask: 'What are the children doing? Why do they look happy?' Then read page 87 aloud: watch the sky every day for a week and guess whether it will rain. Ask: 'Are there any clues that help you guess if it will rain?' Good answers: dark grey clouds, clouds piling up tall, the sky getting dark in the daytime, a cool wind suddenly starting, the air feeling sticky and heavy, ants carrying eggs, birds flying low, thunder in the distance. If your child is stuck, ask: 'What colour is the sky just before a storm?' Then do the book's task: phone or ask a grandparent how they guess rain, and add their clues."
+        },
+        {
+          "kind": "act",
+          "title": "Start the sky diary and rain gauge",
+          "mins": 13,
+          "do": "Start Activity a1. Your child copies the two boxes from page 87 into a notebook page called 'My Sky Diary' with columns: Date, My guess (rain / no rain), My 2 clues, Did it rain? Fill in today's row now by going to a window or the terrace and looking. Then make the rain gauge together: cut the top off a straight-sided plastic bottle, turn the top upside down into the bottom part as a funnel, tape a paper strip down the side and mark it in centimetres with a ruler. Put it in an open place away from roofs and trees, weighed down with stones. Explain: 'Every morning we will check it. If it rains, the gauge tells us how much rain fell.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Sun or shade: where does the water go?",
+          "mins": 12,
+          "do": "Set up Experiment e1. Pour exactly 4 spoons of water into each of two identical steel plates. Put one in direct sunshine (balcony or terrace) and one in the shade indoors. Ask your child to predict: 'Which plate will dry first? And where will the water go? Will it go into the plate, into the ground, or somewhere else?' Write the predictions in the sky diary. Set a timer and check both plates every half hour for the rest of the day; your child writes the time each plate becomes dry. Also hang two wet hankies, one in sun and one in shade, as a second test.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Rain makes me feel…",
+          "mins": 3,
+          "do": "Ask the last question on page 89 early, to wonder about all week: 'Does rain make everyone happy?' Let your child think of different people. Good answers: farmers are happy because crops need water; children are happy to play; but a street vendor, a person whose roof leaks, or someone living near a river that floods may worry. Say: 'Rain is a gift, but it can be hard for some people too.'"
+        }
+      ],
+      "need": ["Textbook pages 86–87", "a notebook for the Sky Diary", "a clean straight-sided plastic bottle, scissors (adult), tape, ruler, paper strip, a few stones", "2 identical steel plates and a tablespoon", "2 hankies", "a clock or timer"],
+      "prep": [{"task": "Rinse a 1- or 2-litre straight-sided plastic bottle for the rain gauge", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Here comes the rain!",
+      "goal": "Observe rain closely with the book's questions (or with a home-made shower if it is dry), and test what happens to water that falls on different surfaces.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Diary, gauge and plates",
+          "mins": 4,
+          "do": "Fill in today's Sky Diary row from Activity a1: your guess, your two clues, and whether yesterday's guess was right. Read the rain gauge (if it rained, write the centimetres; if not, write 0). Then ask about Experiment e1: 'Which plate dried first yesterday? Where did the water go?' Good answer: 'The sunny plate. The water went into the air; the sun's heat made it evaporate.' Introduce the word 'evaporate' and write it in the notebook.",
+          "ref": "a1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 1: Questions about the rain (pages 88–89)",
+          "mins": 14,
+          "do": "Read the list of questions in Activity 1 on page 88 aloud. If it is raining today, stand at a door, window or covered balcony and answer each one together: Is it heavy or light? Are the drops big or small? Fast or slow? Can you see drops, or only lines and sheets of water? Is it falling straight or slanting? (Slanting rain means the wind is pushing it; ask 'which way is the wind blowing?') Put a clean steel bowl out to collect rainwater and look at it after 10 minutes: is it clean or dirty? (It often looks clear but has dust and soot from the air and the roof; do not drink it.) If it is not raining, use a watering can or a bottle with holes in the cap from a stool to make 'rain' on the floor of the bathroom or yard: light rain (gentle tilt), heavy rain (tip it fully), slanting rain (blow on it with a hand fan). Then your child draws the rain they saw or made, as the page asks."
+        },
+        {
+          "kind": "exp",
+          "title": "Rain on different surfaces (page 89)",
+          "mins": 14,
+          "do": "Do Experiment e2, which turns the picture on page 89 into a test. Go outside with 4 equal mugs of water. Pour one slowly onto bare soil, one onto a cement or tiled floor, one onto grass, and one onto sand (a sand heap or a tray of sand). Before each pour, your child guesses: 'Will it soak in, make a puddle or run away?' Watch closely and count slowly to 30. Ask: 'On which surface did the water disappear fastest? Where did it go?' Good answers: 'It soaked into the sand and soil fastest; on the cement it made a puddle and ran towards the drain; the grass held some and the soil under it drank the rest.' Come back after 2 hours and look again: the cement is now dry because the puddle evaporated.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Rain songs and rain near and far (page 89)",
+          "mins": 8,
+          "do": "Do the questions at the top of page 89. Ask: 'Do you think it will rain again today, or tomorrow? Why?' (They should use a clue, not just a wish.) 'Did it rain only in our area or in nearby places too? How could we find out?' (Phone a relative in another part of town or another city and ask; check a weather app together.) Then sing a rain song in your home language or English: for example 'Rain, rain, go away', 'Ye re ye re pausa' (Marathi), 'Mazha mazha' rhymes in Malayalam, or 'Allah megh de pani de' (Bengali/Hindi folk song asking the clouds for rain). Ask: 'Why would a song ask the clouds to come, instead of go away?' (Because farmers need the rain.)"
+        }
+      ],
+      "need": ["Textbook pages 88–89", "Sky Diary and rain gauge", "a clean steel bowl", "4 equal mugs of water", "a patch of soil, a cement floor, grass and some sand (or a tray of sand)", "a watering can or bottle with holes in the cap if it is not raining", "crayons"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Where does the rainwater go?",
+      "goal": "Learn that rainwater soaks into soil, flows into streams and rivers, collects in ponds and lakes and is stored underground as groundwater, and see this in a jar model.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Sky Diary check",
+          "mins": 3,
+          "do": "Fill in today's row of the Sky Diary (Activity a1) and read the rain gauge. Ask: 'How many of your guesses have been right so far? Which clue worked best?' Write the score at the top of the page.",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "What happened to the rainwater? (page 89)",
+          "mins": 7,
+          "do": "Read the section 'What happened to the rainwater?' on page 89 aloud. Stop after 'Make your own guesses' and ask: 'After the rain stops and the sun comes out, what happens to the puddles?' (They dry up; the water evaporates into the air, like our sunny plate.) Then read the last two paragraphs. Ask: 'Where does the water in our wells come from?' Good answer: 'From rainwater that soaked into the soil and is stored under the ground between the rocks and the soil.' Ask: 'Where does a stream go?' (It joins a river, and rivers flow to the sea.) Tell your child: the book's teacher note on page 90 says rainwater that sinks into the soil is the most important part, because it refills our water sources and helps plants grow."
+        },
+        {
+          "kind": "exp",
+          "title": "Groundwater in a jar",
+          "mins": 15,
+          "do": "Do Experiment e3. In a clear glass jar or a cut transparent bottle, your child makes layers: a layer of small pebbles at the bottom (the rocks), then coarse sand, then soil on top. Ask: 'If rain falls on top, where will the water go? Will we be able to see it?' Sprinkle water slowly over the soil with a spoon or a bottle with holes, like rain. Watch the water creep down through the soil and fill the gaps between the pebbles at the bottom. Then push a drinking straw down to the pebble layer (this is your 'borewell') and suck gently or let your child see the water level in the straw. Ask: 'Our well water comes from here. What happens to the well if no rain falls for many months, but we keep pulling water out?' (The water level drops and the well can run dry.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "The man who brought a river back",
+          "mins": 8,
+          "do": "Tell the story in Voice v2 (Rajendra Singh and the johads of Alwar) in your own words. Draw a slope on paper with a curved mud wall across it and show how rain that would have rushed away is held back in a pond, so it has time to soak down, just like the water in our jar. Ask the voice question and let your child answer fully.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Our nearest water body (page 90)",
+          "mins": 7,
+          "do": "Do the task at the top of page 90. Ask: 'Is there a stream, river, pond or lake near our home? What is it called?' Together, find it on a phone map and read a little about it (for example the Yamuna in Delhi, the Hussain Sagar lake in Hyderabad, the Mula-Mutha in Pune, a temple tank near your home, or the village pond). Plan a short visit with an adult this week to draw it with the trees, birds and animals around it, as the book asks. Write the name and three facts in the notebook. Safety rule to say aloud: 'We never go near deep water without an adult.'"
+        }
+      ],
+      "need": ["Textbook pages 89–90", "Sky Diary and rain gauge", "a clear glass jar or cut transparent bottle", "small pebbles, coarse sand and garden soil", "a spoon and water", "a drinking straw", "paper and crayons", "a phone with maps"],
+      "prep": [{"task": "Collect a cup each of small pebbles, sand and soil for the jar model", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Follow the pipe!",
+      "goal": "Like Surya and Barkha, trace the water in our taps back to its source, learn about wells, pumps and tankers, and thank the people who bring us water.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Sky Diary check",
+          "mins": 3,
+          "do": "Fill in today's row of the Sky Diary (Activity a1) and read the rain gauge. If it rained, ask: 'Where do you think today's rain went: into the soil, the drain or the air?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "Surya and Barkha follow the pipes (pages 90–91)",
+          "mins": 7,
+          "do": "Read 'Water is a precious gift!' on page 90 aloud: Surya and Barkha get water from taps, follow the pipes, find a tank on the roof, and wonder how the water got into the tank. Ask: 'What would you guess?' Then read page 91, 'Where do you get water from?' Look at the pictures of the tap, the well with a pulley, the hand pump and the person carrying water. Ask: 'Which of these ways have you seen?' and 'Guess again: where does the water in a well come from?' (Groundwater, refilled by rain, like our jar.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "The great pipe trail",
+          "mins": 15,
+          "do": "Do the page 91 investigation at home. Start at the kitchen tap. Your child follows the pipe along the wall as far as they can see it, with you, and draws a map: tap, pipe, tank, and where the water comes into the tank. Go up to the terrace or to the building's sump or motor room with an adult if possible, and look (do not open or climb the tank). Then ask the building watchman, a neighbour or the elders: 'Where does the water come into our tank from? Is there a bigger pipe from the city? A borewell? A tanker?' Add the answer to the map with an arrow. A good finished map has at least 4 boxes, for example: river or lake, city water works, big underground pipe, sump, motor, roof tank, our tap. If you have a hand pump or well nearby, watch someone draw water and add it."
+        },
+        {
+          "kind": "talk",
+          "title": "Who brings our water? (page 91)",
+          "mins": 8,
+          "do": "Ask the questions at the bottom of page 91: 'Does someone bring water to our home? Who? How do they bring it?' Think of the tanker driver, the plumber, the person who switches on the motor, the municipal workers at the water works, and in many villages the women and girls who walk to a well or hand pump and carry pots on their heads. Ask: 'Do you know anyone who has trouble getting water every day?' Then make a 'thank you' card together for one of these people and give it, as the book asks. Ask: 'How would our day change if this person stopped bringing water for one week?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Our home's water source",
+          "mins": 7,
+          "do": "Write at the bottom of the pipe map: 'Our water comes from ____, and it reaches us by ____.' Then ask the 'think' question from DeepKids: 'Who else uses this same source?' Good answers: other buildings, farms, factories, fish and birds in the lake, people in the next town. Ask: 'If everyone takes as much as they want, what could happen?' (The lake or the groundwater could run low for everyone.)"
+        }
+      ],
+      "need": ["Textbook pages 90–91", "Sky Diary and rain gauge", "paper and pencil for the pipe map", "card paper and crayons for a thank-you card"],
+      "prep": [{"task": "Ask the building watchman, society secretary or a neighbour where the water supply comes from, and if your child may see the sump or motor with an adult", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Water in our daily lives",
+      "goal": "List everything we use water for, measure how much water our family uses in a day, play the Drop Detective game and check the main ideas so far.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "A day without water",
+          "mins": 4,
+          "do": "Ask the first question on page 92: 'List all the activities you can think of for which we need water.' Set a 2-minute timer and see how many your child can say. Good list: drinking, cooking, washing vegetables, brushing teeth, bathing, flushing the toilet, washing hands, washing clothes and dishes, mopping, watering plants, giving water to pets and birds, making ice, washing the scooter. Add ones they forget: 'Was water used to grow the rice we ate? To make your notebook paper?' (Yes; farms and factories use huge amounts.)"
+        },
+        {
+          "kind": "act",
+          "title": "Home water audit: how many mugs?",
+          "mins": 12,
+          "do": "Start Activity a2, which answers the page 92 question 'How many mugs of water do you need to brush your teeth?' Brush teeth now with a mug only: your child fills the mug, brushes and rinses, and counts the mugs used (usually 1). Then, with the tap running the whole time, brush again (or just let the tap run for 2 minutes into a bucket) and count how many mugs it fills. Typical result: a running tap fills 8–12 mugs in 2 minutes. Ask: 'How many mugs did we waste?' Then draw the audit table and let your child fill in rows for the rest of today (bath, dishes, cooking, mopping, plants). At night, add it up.",
+          "ref": "a2"
+        },
+        {
+          "kind": "game",
+          "title": "Drop Detective",
+          "mins": 10,
+          "do": "Play the DeepKids game Drop Detective. Each player gets 50 water-drop tokens (use rajma, buttons or paper squares). Make cards: 'Brush with the tap running −6', 'Brush with a mug −1', 'Mug-and-bucket bath −15', 'Shower −40', 'Wash scooter with a pipe −60', 'Wash scooter with a bucket −10', 'Leaking tap all night: everyone −5', 'Reuse vegetable water for plants +3', 'Fix the leak +5'. Players take turns drawing a card; when a card has a wiser choice, the player may choose it. The player with the most drops left at 'bedtime' (when the cards run out) wins. Ask: 'Which single choice saved the most drops?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Where water comes from and goes",
+          "mins": 14,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For the sort item, ask your child to remember the jar model when they decide whether well water is above or under the ground. Mark it together; for each mistake, go back to the right page (rain and puddles p89, wells and groundwater p89 and 91, reuse p95).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook page 92", "a bath mug and a bucket", "toothbrush and paste", "paper for the audit table", "50 tokens per player (rajma, buttons or paper squares) and card paper for game cards", "worksheet ws1"],
+      "prep": [{"task": "Make the Drop Detective cards (about 20 small cards)", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Storing water: then and now",
+      "goal": "Learn why and how people store water, interview an elder about the past, start a vessel exhibition and test why a clay matka keeps water cool.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "No water today! (pages 92–93)",
+          "mins": 6,
+          "do": "Read the comic 'Storing water' at the bottom of page 92 together: the society pipeline burst and there is no water today, but the family has stored two buckets. Ask: 'Have you ever had a day with no water? What did we do?' Then read page 93 aloud. Ask: 'Why do people store water?' (Because water does not come all the time; pipes burst, supply comes only some hours a day, or it has to be carried from far.) 'Long ago there were no pipes or taps anywhere. What did people do?' (They made vessels to store water.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Why is matka water cool?",
+          "mins": 12,
+          "do": "Set up Experiment e4. Fill a clay pot (matka or surahi) and a steel vessel of a similar size with water from the same jug. Put both in the same shady, airy spot. Ask your child to predict: 'After 3 hours, which water will be cooler?' Ask them to touch the outside of both pots now, and again after an hour: the clay pot feels damp on the outside. Check after 3 hours by dipping a finger in each, or with a kitchen thermometer if you have one. Then explain using the 'why' of e4: water seeps through tiny holes in the clay and evaporates from the outside, and evaporation takes heat away, just as you feel cool when you come out of a bath. Link back to Day 1: 'Where did the water in our sunny plate go?' (It evaporated.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 3: Vessel hunt (pages 93–94)",
+          "mins": 12,
+          "do": "Start Activity a3, based on Activity 3 on page 94. Look at the vessels on page 93 (clay pot, clay surahi, copper, brass, steel and aluminium pots, glass and plastic bottles, plastic bucket). Then your child goes round the house and finds every vessel used to keep water: the matka, the steel drum, the copper lota in the puja room, the water bottle, the bucket in the bathroom, the overhead tank. For each, write: what it is made of, where it is kept, what the water in it is used for, and its name in your home language (matka, ghada, kalash, kudam, lota, handa). Your child chooses the most interesting one and draws it on a sheet with its patterns (many brass and copper pots have engraved lines or flowers, as the book asks).",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Interview an elder (page 93)",
+          "mins": 10,
+          "do": "Do the 'Ask your grandparents' task at the top of page 93. Call a grandparent or ask an older neighbour these questions, and your child writes the answers: 'How did you get water when you were my age? Who fetched it? Did you use water the same way as we do? How did you store it? Did your vessels have special names?' Many will remember drawing water from a well with a rope and bucket, a village pond or temple tank, a pital (brass) handa, or bathing in a river. Afterwards your child writes a 5-line story beginning 'When Nani was little…'. Ask: 'Who used less water, them or us? Why?'"
+        }
+      ],
+      "need": ["Textbook pages 92–94", "a clay matka or surahi and a steel vessel of similar size", "a kitchen thermometer if you have one", "drawing sheets and crayons", "a phone to call a grandparent"],
+      "prep": [{"task": "Fix a time to call a grandparent or elder for the interview", "when": "2 days before"}]
+    },
+    {
+      "n": 7,
+      "title": "After we use it: dirty water, reuse and safe water",
+      "goal": "Learn that used water becomes dirty, what it can be reused for, why clear-looking water may still be unsafe, and how John Snow's map proved that dirty water spreads disease.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Stop for a moment and think! (page 95)",
+          "mins": 6,
+          "do": "Read the 'Stop for a moment and think!' list on page 95 aloud, pointing to each picture: rain, sources, bringing water home, storing it, using it, and the last question, 'What happens to water after we use it?' Let your child guess. Then read the paragraph below. Ask: 'Why can't we drink water used for washing?' (It has dirt, soap and germs in it.) 'What can we reuse it for?' (Watering plants, flushing toilets.) Ask: 'Why does the book say not to add too much soap and chemicals?' (Soapy, chemical water goes down the drain into rivers and lakes and harms the fish and plants there; and soapy water can harm garden plants too.)"
+        },
+        {
+          "kind": "do",
+          "title": "Reuse sort at the kitchen sink",
+          "mins": 6,
+          "do": "Stand at the kitchen sink with your child. Show three bowls: water from washing vegetables or rinsing rice and dal, soapy water from washing a plate, and oily water from rinsing a kadhai. Ask for each: 'Plants, flushing or mopping, or only the drain?' Good answers: vegetable and rice water is fine for plants; light soapy water can be used for flushing or mopping; oily, greasy water goes to the drain (oil harms plants and soil). Choose one reuse habit for the family this week, like keeping a 'plant bucket' next to the sink, and write it on the fridge."
+        },
+        {
+          "kind": "exp",
+          "title": "The bottle filter",
+          "mins": 15,
+          "do": "Do Experiment e5. Cut a plastic bottle in half and put the top half upside down into the bottom half like a funnel. Inside the funnel your child layers: a plug of cotton wool, then crushed charcoal (from a used angithi or a pharmacy charcoal tablet crushed), then fine sand, then coarse sand, then small gravel on top. Make muddy water in a glass by stirring in a spoon of soil. Ask: 'When we pour it through, what will come out? Will it be safe to drink?' Pour slowly and compare the before and after glasses. It comes out much clearer. Then ask again: 'Is it safe to drink now?' The answer is no: germs are far too small to see and can pass through. Water must be boiled for a few minutes, or cleaned with a proper filter, to be safe. Pour the filtered water on a plant.",
+          "ref": "e5"
+        },
+        {
+          "kind": "think",
+          "title": "John Snow and the Broad Street pump",
+          "mins": 9,
+          "do": "Tell the story in Voice v1. Draw a simple street map on paper with a pump in the middle, and let your child put a dot for each 'house where people fell sick' as you call out: most dots near one pump, a few far away. Ask: 'Where do you think the sickness was coming from?' Then ask the voice question. Link to the filter: 'Did the Broad Street water look dirty?' (It probably looked clear, which is why people kept drinking it.)",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet (part 1)",
+          "mins": 4,
+          "do": "Start Worksheet ws2 (stretch): do section A now while the reuse sort and filter are fresh. Keep sections B and C for bedtime or tomorrow morning. For the 'only the drain' items, ask your child to give the reason each time.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook page 95", "3 bowls of used water from the kitchen", "a plastic bottle, scissors (adult), cotton wool, crushed charcoal, fine sand, coarse sand, small gravel", "a spoon of soil and 2 glasses", "paper and pencil for the street map", "worksheet ws2"],
+      "prep": [{"task": "Wash sand and gravel and collect a little charcoal for the filter", "when": "night before"}, {"task": "Keep aside vegetable-washing water, soapy dish water and kadhai-rinse water in three bowls", "when": "morning"}]
+    },
+    {
+      "n": 8,
+      "title": "Every drop counts: sharing water",
+      "goal": "Learn that clean water is not easy for everyone, take action by offering water to people and building a birdbath, and look at how Indian communities have cared for water.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Every drop counts (page 96)",
+          "mins": 6,
+          "do": "Read 'Every drop counts' on page 96 aloud. Ask: 'Why do some people walk long distances for water?' (It rains very little where they live and there are no big rivers or lakes nearby.) Ask the book's question: 'Don't you think everyone must get clean drinking water anywhere, anytime?' Then look at the three pictures: a water tank for animals, free drinking water for people (often called a pyaau or piyau in North India, or a thanneer pandal in Tamil Nadu) and a birdbath. Ask: 'Have you seen any of these near us?'"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 4: Make a birdbath (page 97)",
+          "mins": 14,
+          "do": "Do Activity a4, following Activity 4 on page 97. Choose a shallow, wide container less than 10 cm deep (an old wide bowl, a plant-pot saucer or the bottom of an old bucket). Your child measures the depth with a ruler. Place a few flat stones inside for birds to perch, and small pebbles on one side to make a sloping edge so that insects can drink without drowning. Fill with fresh water and place it on the balcony, terrace or yard, in partial shade, where cats cannot hide nearby. Set the cleaning rule: change the water every day, scrub it twice a week with a scrubber kept only for the garden, never one from the kitchen. Start a list in the notebook: 'Visitors to my birdbath' (crows, mynas, sparrows, bulbuls, pigeons, bees, butterflies).",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Take action: water for whoever comes (page 96)",
+          "mins": 6,
+          "do": "Read the 'Take action' box on page 96. Together, fill a clean steel jug and two glasses and keep them by the door. Decide with your child to offer water to the next person who comes: the postman, the garbage collector, the delivery person or the vegetable seller. Practise the words: 'Bhaiya/Didi, would you like some water?' Ask: 'Why is this tradition strongest in the hot summer months?' (People sweat and lose water; working outside in the heat is dangerous without drinking water.)"
+        },
+        {
+          "kind": "think",
+          "title": "Anupam Mishra: the ponds are still standing",
+          "mins": 6,
+          "do": "Tell the story in Voice v3. If you can, show a photo on the phone of a stepwell such as the Rani ki Vav in Patan, Gujarat (built in the 11th century, now a UNESCO World Heritage Site) or the Chand Baori in Abhaneri, Rajasthan, and a village pond. Ask the voice question and listen for a reason, not just 'yes' or 'no'.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge), and finish sections B and C of ws2 if they were not done last night. In ws3, your child can answer the write items aloud while you write. For the 'comparing views' section there is no single right answer; praise answers that give evidence ('because in the filter test…', 'because Snow's map showed…').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 96–97", "a shallow wide container less than 10 cm deep, flat stones, small pebbles, a ruler", "a separate garden scrubber", "a steel jug and 2 glasses", "worksheets ws2 and ws3", "a phone for photos of stepwells"],
+      "prep": [{"task": "Find a shallow container and collect flat stones and pebbles for the birdbath", "when": "2 days before"}]
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Finish the Sky Diary and water audit, answer the book's reflection questions, find three ways to stop wasting water, check understanding and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Sky Diary score and audit total",
+          "mins": 6,
+          "do": "Close the Sky Diary (Activity a1): count how many rain guesses were right this week and which clue worked best. Read the rain gauge one last time. Then add up the water audit from Activity a2: how many mugs did the family use in one day? (A mug is about 1 litre, so 100 mugs is about 100 litres.) Ask: 'Which job used the most water? Where could we save?' Check the birdbath (Activity a4): change the water and add any new visitors to the list.",
+          "ref": "a2"
+        },
+        {
+          "kind": "review",
+          "title": "Let us reflect: Write and Draw (page 98)",
+          "mins": 8,
+          "do": "Do question A1 on page 98 aloud first, then your child writes 3–4 lines: what the rain looked like, whether the collected rainwater was clean, and what happened to it on soil and on cement. Then question A2: write a few lines about the water body you found on Day 3. Ask: 'Is this water used for drinking? If yes, how does it reach homes? If not, why not? Was it used in the past?' (Many city lakes and tanks were once used for drinking and are now too dirty.) For B, your child draws the birdbath and writes the names of birds and insects that came."
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss: three solutions (page 99)",
+          "mins": 6,
+          "do": "Do Discuss question C on page 99. First list together the things in and around the house that waste or pollute water: a dripping tap, an overflowing roof tank, brushing with the tap running, washing the car with a pipe, too much detergent, throwing garbage or oil into drains, puja flowers and plastic thrown into the lake. Then your child chooses three solutions and writes them in the notebook, for example: '1. Turn off the tap while brushing. 2. Put a bucket under the AC drip and use it for plants. 3. Tell the watchman when the tank overflows.'"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For each one missed, open the right page (rain p87–89, groundwater p89, pipes p90–91, storing p93, reuse p95, sharing p96) for one minute and ask again in different words. Six or more right is good; fewer than five means repeat the groundwater jar and the pipe trail next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 10,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. Using the pipe map, the groundwater jar, the filter and the matka, they teach in 5 minutes: where water comes from (rain), where rainwater goes (soil, groundwater, streams, rivers, ponds, the air), how it reaches our tap, how we store it, and how we can reduce, reuse and share it. Ask two 'student' questions: 'If the filtered water looks clean, can I drink it?' and 'Why is matka water cold without a fridge?' End by putting the rain gauge somewhere safe for the next rainy season."
+        }
+      ],
+      "need": ["Textbook pages 98–99", "Sky Diary, water audit, pipe map", "the groundwater jar, the bottle filter and the matka", "notebook and crayons"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Where water comes from and where it goes",
+      "day": 5,
+      "sections": [
+        ["A. Rain and where it goes", [
+          {"t": "mcq", "p": "Rain falls on a cement road. What mostly happens to it?", "opts": ["It soaks deep into the road", "It collects in puddles and flows away to the drain", "It turns into soil", "It stays there for ever"], "a": 1},
+          {"t": "fill", "p": "When the sun comes out, water in puddles dries up because it ____ into the air.", "a": ["evaporates", "evaporate", "goes", "rises"]},
+          {"t": "fill", "p": "The water in our wells comes from water stored ____ the ground.", "a": ["under", "below", "beneath"]},
+          {"t": "sort", "p": "Sort these sources of water.", "items": ["River", "Pond", "Lake", "Stream", "Well water", "Borewell water", "Sea", "Puddle"], "cats": ["Above the ground", "Under the ground"]}
+        ]],
+        ["B. Water reaches our home", [
+          {"t": "match", "p": "Match each thing to its job.", "pairs": [["Roof tank", "Stores water high up and sends it down to the taps"], ["Pipe", "Carries water from one place to another"], ["Hand pump", "Pulls up groundwater by hand"], ["Tanker", "Brings water by truck from a well, river or lake"]]},
+          {"t": "write", "p": "Write where the water in your home comes from and how it reaches your tap.", "lines": 3}
+        ]],
+        ["C. Using water well", [
+          {"t": "mcq", "p": "Which used water is best for watering plants?", "opts": ["Oily water from washing a kadhai", "Water used to wash vegetables", "Water with lots of detergent", "Mopping water"], "a": 1},
+          {"t": "fill", "p": "We can reuse waste water for watering plants or for flushing ____.", "a": ["toilets", "toilet"]},
+          {"t": "draw", "p": "Draw rain falling on soil and on a road. Use arrows to show where the water goes in each place."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Store it, reuse it, keep it safe",
+      "day": 7,
+      "sections": [
+        ["A. Reuse or not?", [
+          {"t": "sort", "p": "Where should each kind of used water go?", "items": ["Water from rinsing rice", "Water from washing vegetables", "Water left in your school bottle", "Light soapy water from washing clothes", "Waste water from the RO purifier", "Oily water from washing a kadhai", "Dirty mopping water"], "cats": ["Good for plants", "Use for flushing or mopping", "Only for the drain"]},
+          {"t": "mcq", "p": "Muddy water came out clear from your bottle filter. Is it safe to drink?", "opts": ["Yes, it is clear now", "No, germs are too small to see and can pass through; it must be boiled or properly purified", "Yes, if it is cold", "Only if you add sugar"], "a": 1}
+        ]],
+        ["B. Vessels and storing", [
+          {"t": "match", "p": "Match each vessel to what it is made of.", "pairs": [["Matka", "Clay"], ["Lota in the puja room", "Copper or brass"], ["Bucket", "Plastic"], ["Tiffin water bottle", "Steel or plastic"]]},
+          {"t": "write", "p": "Water in a clay matka stays cooler than water in a steel pot kept beside it. Explain why, using the word 'evaporate'.", "lines": 3},
+          {"t": "mcq", "p": "Your society gets tap water only from 6 to 8 in the morning. What is the best thing to do?", "opts": ["Leave the taps open all day", "Fill and cover buckets and vessels in the morning to use later", "Use only bottled water", "Wait until evening"], "a": 1}
+        ]],
+        ["C. New places, same ideas", [
+          {"t": "write", "p": "In a village, the pond was filled with soil to build a shop. A few years later the village well dried up. Why might these two things be connected?", "lines": 3},
+          {"t": "table", "p": "Look at three surfaces after rain (or after you pour a mug of water). Fill the table.", "cols": ["Surface", "Soaked in / Puddle / Flowed away", "Dry after how long?"], "rows": 3, "prefill": ["Soil", "Cement", "Grass"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Water puzzles and people who disagreed",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "mcq", "p": "Earth looks blue from space because it is covered in water. Yet many cities run short of water. Why?", "opts": ["The water is hidden", "About 97 of every 100 drops are salty sea water, and most fresh water is frozen as ice, so very little is easy to use", "Fish drink most of it", "Rain only falls on the sea"], "a": 1},
+          {"t": "write", "p": "Your rain gauge showed 2 cm one day and 0 cm the next. Your friend's gauge, 10 km away, showed 5 cm on both days. What does this tell you about rain?", "lines": 2},
+          {"t": "write", "p": "A city paves every open ground with cement. What will happen to its groundwater and to its roads when it rains heavily? Give two effects.", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if no rain fell for a whole year where you live? List four things that would change, from the well to your plate.", "lines": 3},
+          {"t": "write", "p": "What if everyone in your building turned off the tap while brushing? If each person saves 8 mugs a day and 40 people live there, how many mugs are saved in a day?", "lines": 2}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "In 1854 most doctors said cholera came from bad-smelling air. John Snow said it came from dirty water. What evidence did Snow use, and why was it convincing?", "lines": 3},
+          {"t": "write", "p": "Some scientists say that when villages hold back lots of rain in ponds and johads, less water flows on to villages further down the river. How could you check if this is true?", "lines": 3},
+          {"t": "write", "p": "Who owns the rain that falls on your roof? Who owns a river? Write what you think and why.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Sun or shade: where does the water go?",
+      "day": 1,
+      "question": "Where does water go when a wet thing dries, and does it dry faster in the sun or in the shade?",
+      "need": ["2 identical steel plates", "a tablespoon", "water", "2 hankies", "a sunny spot and a shady spot", "a clock"],
+      "steps": [
+        "Pour exactly 4 tablespoons of water into each plate.",
+        "Put one plate in direct sunlight and one in the shade indoors.",
+        "Wet two hankies the same amount, wring them, and hang one in the sun and one in the shade.",
+        "Check every half hour. Write down the time each plate and each hanky becomes completely dry.",
+        "Next day, discuss: where did the water go?"
+      ],
+      "predict": "Ask your child to guess first: which plate will dry first? Where will the water go: into the plate, into the floor or somewhere else?",
+      "observe": "The plate and hanky in the sun dry much faster, often in under an hour on a hot day; the ones in the shade take several hours. Nothing soaks into a steel plate, so the water must have gone into the air.",
+      "why": "Water is made of tiny particles that are always jiggling. At the surface, some of them jiggle free and escape into the air as an invisible gas called water vapour. This is evaporation. Heat from the sun makes the particles jiggle faster, so more escape each minute and the water disappears sooner. Wind also helps by carrying the vapour away. This is what happens to puddles after rain (page 89), and to wet clothes on the line. The water is not destroyed; it is in the air around us, and later it will form clouds and fall again as rain. (The full water cycle comes in Class 5.)",
+      "safety": "",
+      "time": "12 min to set up + checks every half hour for the day"
+    },
+    {
+      "id": "e2",
+      "title": "Rain on different surfaces",
+      "day": 2,
+      "question": "What happens to rainwater when it falls on soil, cement, grass and sand? (Based on page 89)",
+      "need": ["4 equal mugs of water", "a patch of bare soil", "a cement or tiled floor that slopes to a drain", "a patch of grass", "a heap or tray of sand"],
+      "steps": [
+        "Fill four mugs with the same amount of water.",
+        "Pour one mug slowly onto each surface from the same height.",
+        "Count slowly to 30 and watch: does it soak in, make a puddle or flow away?",
+        "Mark the edge of any puddle with chalk.",
+        "Come back after 2 hours and look again."
+      ],
+      "predict": "Ask your child to guess first: on which surface will the water disappear fastest? On which will it make a puddle? Where will the puddle water go?",
+      "observe": "Sand and loose soil soak the water in within seconds. Grass holds some on its blades and the soil underneath soaks the rest. Cement makes a puddle and the water runs off towards the drain. After 2 hours the cement is dry or nearly dry.",
+      "why": "Sand and soil have tiny gaps (pores) between their grains, and water runs down into these gaps. Grass roots loosen the soil and slow the water down so it has time to soak in. Cement has almost no gaps, so the water cannot go down; it can only flow sideways to the lowest point or sit in a puddle until it evaporates. This is why rain on a city of roads and buildings runs into drains and can cause flooding, while rain on fields and forests soaks in and refills the groundwater that wells use.",
+      "safety": "Wet cement and tiles are slippery: walk slowly.",
+      "time": "14 min + a 2-minute check after 2 hours"
+    },
+    {
+      "id": "e3",
+      "title": "Groundwater in a jar",
+      "day": 3,
+      "question": "How is rainwater stored under the ground, and how does a well or borewell get it?",
+      "need": ["a clear glass jar or cut transparent plastic bottle", "a cup of small pebbles", "a cup of coarse sand", "a cup of garden soil", "a spoon or a bottle with holes in the cap", "water", "a drinking straw"],
+      "steps": [
+        "Put a 3 cm layer of pebbles at the bottom of the jar (these are the rocks).",
+        "Add a 3 cm layer of coarse sand, then a 4 cm layer of soil on top.",
+        "Push a straw down the side of the jar until it reaches the pebbles. This is your borewell.",
+        "Sprinkle water slowly over the soil like rain, a few spoons at a time.",
+        "Watch through the glass as the water moves down and fills the gaps between the pebbles.",
+        "Look at the water level inside the straw. Suck a little water up, then 'rain' again and watch the level rise."
+      ],
+      "predict": "Ask your child to guess first: where will the rainwater go? Will we be able to see it at the bottom? What will happen to the water in the 'borewell' if we stop the rain and keep sucking water out?",
+      "observe": "The soil darkens as water soaks in, and after a while water collects in the gaps between the pebbles at the bottom. The water in the straw rises to the same level as the water in the pebble layer. When water is taken out and no new 'rain' falls, the level falls.",
+      "why": "Underground there is no big lake. Groundwater sits in the tiny gaps between grains of sand and cracks in rocks, like water in a sponge. Layers of rock and sand that hold a lot of water are called aquifers. A well or borewell is a hole that reaches down into this wet layer, so water seeps into it and can be pulled up by a pulley, hand pump or electric pump. Rain that soaks in refills (recharges) the aquifer. If we pull water out faster than rain refills it, the water level drops and wells have to be dug deeper. India uses more groundwater than any other country, and in many districts the water level has been falling for years, which is why soaking rain into the ground matters so much.",
+      "safety": "Do not drink the water from the jar.",
+      "time": "15 min"
+    },
+    {
+      "id": "e4",
+      "title": "Why is matka water cool?",
+      "day": 6,
+      "question": "Does water stay cooler in a clay pot than in a steel pot, and why?",
+      "need": ["an unglazed clay matka or surahi", "a steel vessel of a similar size", "water from the same jug", "a kitchen thermometer if available"],
+      "steps": [
+        "Fill both vessels with the same amount of water from the same jug, so they start at the same temperature.",
+        "Put both in the same shady, airy place, side by side, with lids on.",
+        "After 1 hour, feel the outside of each vessel.",
+        "After 3 hours, dip a clean finger in each, or measure the temperature with the thermometer.",
+        "Record the results in the notebook."
+      ],
+      "predict": "Ask your child to guess first: after 3 hours, which water will feel cooler? Will the outside of the two pots feel different?",
+      "observe": "The outside of the clay pot feels damp and cool. After a few hours the water in the matka is noticeably cooler than the water in the steel vessel, often by several degrees on a hot, dry day. The difference is smaller on a humid, rainy day.",
+      "why": "Unglazed baked clay is full of tiny holes (it is porous). A little water seeps through the walls to the outside surface and evaporates. To evaporate, water needs heat energy, and it takes that heat from the pot and the water inside, so the water cools. This is the same reason you feel cold when you step out of a bath, or why sweating cools us down in summer. Steel has no holes, so no water seeps out and this cooling does not happen. In humid weather the air is already full of water vapour, so evaporation is slower and the matka cools less. People in India have used this simple science for thousands of years.",
+      "safety": "Handle the clay pot gently; it breaks easily.",
+      "time": "12 min to set up + checks after 1 and 3 hours"
+    },
+    {
+      "id": "e5",
+      "title": "The bottle filter",
+      "day": 7,
+      "question": "Can sand, gravel and charcoal clean muddy water, and does clear water mean safe water?",
+      "need": ["a large plastic bottle", "scissors (adult use)", "cotton wool", "crushed charcoal", "fine sand", "coarse sand", "small gravel", "a spoon of soil", "2 clear glasses", "water"],
+      "steps": [
+        "An adult cuts the bottle in half. Turn the top half upside down into the bottom half, with the cap removed.",
+        "Push a plug of cotton wool into the neck.",
+        "Add layers: 2 cm crushed charcoal, 3 cm fine sand, 3 cm coarse sand, 3 cm gravel on top.",
+        "Pour some clean water through first to wash the layers, and throw it away.",
+        "Stir a spoon of soil into a glass of water. Keep a little of it in the second glass to compare.",
+        "Pour the muddy water slowly into the filter and collect what comes out. Compare it with the muddy water."
+      ],
+      "predict": "Ask your child to guess first: what will come out of the bottom? Will it be clear? Will it be safe to drink?",
+      "observe": "The water that comes out is much clearer than the muddy water. It may still be slightly cloudy. The top layers of gravel and sand turn brown with trapped mud.",
+      "why": "Each layer acts like a sieve with smaller and smaller holes. Gravel catches big bits like leaves and grit, coarse sand catches smaller bits, and fine sand catches fine mud. Charcoal is full of tiny pores that can trap some smells and colours. But disease germs (bacteria and viruses) are thousands of times smaller than a grain of sand and can pass straight through, and you cannot see them. So clear water is not the same as safe water. To make water safe to drink, it must be boiled for a few minutes or cleaned with a proper water purifier. City water works use similar sand filters as one step, and then add a small amount of chlorine to kill the germs.",
+      "safety": "Never drink the filtered water. An adult should do the cutting. Wash hands after handling soil.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Sky Diary and rain gauge (page 87)",
+      "day": 1,
+      "mins": 13,
+      "need": ["a notebook", "a straight-sided plastic bottle", "scissors (adult)", "tape", "a ruler and a paper strip", "a few stones"],
+      "steps": [
+        "Make a 'My Sky Diary' page with columns: Date, My guess (rain / no rain), My 2 clues, Did it rain?, Rain gauge (cm).",
+        "Each morning, look at the sky and write your guess and two clues, as page 87 asks.",
+        "Make the gauge: an adult cuts the top off the bottle; turn the top upside down into the bottom as a funnel and tape it.",
+        "Tape a paper strip down the side and mark centimetres from the bottom with a ruler.",
+        "Place it in the open, away from roofs and trees, held steady with stones.",
+        "Each morning read the water level, write it down, then empty the gauge.",
+        "At the end of the week, count how many guesses were right and which clue worked best."
+      ],
+      "outcome": "A week-long weather record with your child's own rain clues, a working rain gauge, and a score for how good a weather forecaster they are."
+    },
+    {
+      "id": "a2",
+      "title": "Home water audit (page 92)",
+      "day": 5,
+      "mins": 12,
+      "need": ["a bath mug", "a bucket", "paper and pencil"],
+      "steps": [
+        "Brush your teeth with water in a mug and count the mugs used.",
+        "Let the tap run for 2 minutes into a bucket and count how many mugs it fills.",
+        "Draw a table: Activity, Mugs or buckets used, Could we use less? How?",
+        "Fill in rows through the day: brushing, bath, washing hands, cooking, drinking, dishes, clothes, mopping, plants, flushing.",
+        "A bucket is about 15–20 mugs; count buckets as mugs to add them up.",
+        "At night, add up the total and circle the job that used the most water.",
+        "Choose two changes for the family and write them on the fridge."
+      ],
+      "outcome": "A one-day record of how much water the family uses, the biggest water-using job, and two real changes the family agrees to make."
+    },
+    {
+      "id": "a3",
+      "title": "Water vessel exhibition (Book Activity 3, page 94)",
+      "day": 6,
+      "mins": 12,
+      "need": ["drawing sheets", "crayons or colour pencils", "the water vessels in your home", "string and clips to hang pictures"],
+      "steps": [
+        "Find every vessel used to keep water at home: matka, bucket, lota, bottles, drum, tank.",
+        "For each, note what it is made of and its name in your home language.",
+        "Ask elders which vessels they used when they were young and how they were different.",
+        "Draw the most interesting vessel on a sheet, with its patterns, and write its name in English and your language.",
+        "Add drawings of two vessels the elders remember.",
+        "Hang the drawings on a string in the hall as a mini exhibition and invite family members to walk around, as the book suggests.",
+        "Count how many kinds of vessels are in the exhibition and how many materials they are made from."
+      ],
+      "outcome": "A small home exhibition of water vessels, old and new, labelled in two languages, and a count of the materials people have used to store water."
+    },
+    {
+      "id": "a4",
+      "title": "Birdbath (Book Activity 4, page 97)",
+      "day": 8,
+      "mins": 14,
+      "need": ["a shallow, wide container less than 10 cm deep", "a few flat stones", "small pebbles", "a ruler", "fresh water", "a scrubber kept only for the garden"],
+      "steps": [
+        "Measure the container with a ruler to check it is less than 10 cm deep.",
+        "Place some flat stones inside so birds have a place to perch.",
+        "Add small pebbles on one side to make a sloping edge for insects.",
+        "Fill with fresh water and place it on the balcony, terrace or yard in partial shade, away from where cats can hide.",
+        "Change the water every day so mosquitoes cannot breed in it.",
+        "Scrub it twice a week with the garden scrubber, never a kitchen one.",
+        "Keep a list of every bird and insect that visits, with the date and time."
+      ],
+      "outcome": "A working birdbath, a daily care habit, and a growing list of the birds and insects that come to drink, for the drawing on page 98."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "John Snow (1813–1858), doctor, London, England",
+      "idea": "During a terrible outbreak of cholera in the Soho area of London in 1854, Snow marked the home of every person who died on a street map. Most deaths were clustered around one public water pump on Broad Street. He argued that cholera was spread by something in dirty water, not by bad air. He also showed that people who worked in a nearby brewery, who drank beer and not pump water, mostly stayed well. He persuaded the local officials to remove the pump's handle so that no one could use it.",
+      "then": "Most doctors and officials at the time believed in the 'miasma' theory: that diseases like cholera came from bad-smelling air rising from rotting rubbish. Even after the pump handle was removed, an official inquiry did not fully accept Snow's water explanation, and he died in 1858 before his idea was widely accepted.",
+      "now": "Snow was right. In 1883 Robert Koch identified the cholera germ (a bacterium, Vibrio cholerae) and showed it spreads through water and food contaminated with sewage. Snow's map is now famous as one of the first uses of mapping in medicine, and he is called a father of epidemiology, the science of how diseases spread. Cholera still kills people where clean drinking water and toilets are not available.",
+      "status": "accepted",
+      "ask": "People kept drinking from the Broad Street pump because the water looked fine. What evidence would you need to see before you believed clear water was making people sick?",
+      "day": 7
+    },
+    {
+      "id": "v2",
+      "who": "Rajendra Singh (born 1959), India, 'the Waterman of India'",
+      "idea": "In 1985 Rajendra Singh went to work in the dry Alwar district of Rajasthan with his group Tarun Bharat Sangh. Village elders told him the real problem was water. Following the old local practice, he and the villagers dug and rebuilt johads: curved mud walls across slopes that hold back rainwater in small ponds so it soaks into the ground. Over the years thousands of johads were built, wells filled up again, and small rivers such as the Arvari, which had stopped flowing in the dry months, began to flow all year again.",
+      "then": "At first government officials objected that the villagers had built the structures without permission, and some engineers saw mud johads as old-fashioned compared with big dams and pipelines. The villagers carried on, and the results in the wells convinced many.",
+      "now": "His work has been widely praised: he received the Ramon Magsaysay Award in 2001 and the Stockholm Water Prize in 2015, and catching rain where it falls is now part of government water programmes. Water scientists agree that local rainwater harvesting can recharge groundwater. They also study a fair question: if every village upstream holds back lots of rain, does less water reach villages and rivers further downstream? The answer depends on the place, and it is still being studied.",
+      "status": "accepted",
+      "ask": "The wells in Alwar filled up after johads were built. What else could have made them fill up? What would you compare to be sure the johads were the reason?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Anupam Mishra (1948–2016), writer and environmentalist, India",
+      "idea": "Anupam Mishra, who worked at the Gandhi Peace Foundation in Delhi, travelled across India to record how ordinary communities had built and cared for ponds, tanks, kunds and stepwells for hundreds of years, without engineers from outside. His Hindi book 'Aaj Bhi Khare Hain Talaab' (1993; 'The ponds are still standing') showed that these systems were clever science: they were placed where rain naturally collected, cleaned every year by the whole village, and refilled the wells. His book 'Rajasthan ki Rajat Boondein' (1995; 'The radiant raindrops of Rajasthan') described how desert people caught every drop of rain.",
+      "then": "For much of the 20th century, planners thought that big dams, canals and piped water would replace traditional ponds, and many tanks and lakes were filled in, built over or turned into rubbish dumps. Mishra's view that the old systems still mattered was not part of official thinking.",
+      "now": "His books have been reprinted many times, translated into other languages and used by villages to revive their ponds. Many cities and states now try to protect and restore their old lakes and stepwells to recharge groundwater. Most experts today see traditional harvesting and modern supply as working best together, not one replacing the other.",
+      "status": "accepted",
+      "ask": "A city filled up its old lake to build houses, and now it floods every monsoon and its borewells are drying. Was the old lake 'old-fashioned' or was it doing a job? How could you prove it?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {"q": "Give two clues that tell you it might rain soon.", "a": "Any two of: dark grey clouds, tall piled-up clouds, the sky turning dark in the day, a sudden cool wind, the air feeling heavy and sticky, thunder, ants or birds behaving differently."},
+    {"q": "What happens to rain that falls on soil, and to rain that falls on a cement road?", "a": "On soil it soaks in, and some goes down to become groundwater or flows under the soil into streams. On cement it cannot soak in, so it collects in puddles or flows away into drains, and the puddles dry up in the sun."},
+    {"q": "Where does the water in a well or borewell come from?", "a": "From groundwater: rainwater that soaked into the ground and is stored in the gaps between soil, sand and rocks."},
+    {"q": "How does water reach the tap in our home?", "a": "From a source such as a river, lake, well or borewell, through big pipes or a tanker, into a tank (often on the roof), and then down smaller pipes to the tap. The child should describe their own home's route."},
+    {"q": "Why do people store water? Name three vessels used to store it.", "a": "Because water does not come all the time (supply hours, burst pipes, carrying it from far). Vessels: clay matka or surahi, copper, brass or steel pot, plastic bucket, bottle, drum, tank."},
+    {"q": "Why does water stay cool in a clay matka?", "a": "Water seeps through tiny holes in the clay and evaporates from the outside; evaporation takes heat away from the pot and the water, so the water cools."},
+    {"q": "Muddy water came out clear from our filter. Can we drink it? Why?", "a": "No. Germs are too small to see and can pass through sand. Water must be boiled or properly purified to be safe. John Snow showed that water which looks fine can carry disease."},
+    {"q": "Name three ways your family can reduce, reuse or share water.", "a": "For example: turn off the tap while brushing, bathe with a bucket and mug, fix leaks, reuse vegetable-washing water for plants, collect AC water for mopping, offer drinking water to people who come to the door, keep a birdbath."}
+  ]
+}

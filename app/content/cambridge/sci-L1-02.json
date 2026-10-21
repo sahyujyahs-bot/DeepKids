@@ -1,0 +1,980 @@
+{
+  "key": "cambridge|sci|1|2",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 1,
+  "n": 2,
+  "title": "Growing plants",
+  "source": "Cambridge Primary Science Learner's Book 1 (Cambridge University Press, 2014), Unit 2 'Growing plants' (pages 16–23)",
+  "summary": "Your child learns the parts of a plant (roots, stem, leaves, and sometimes flowers and fruit) on the tomato plant on page 16 and on real plants outside, grows seeds to find out that seeds need water to grow and that the roots come out first, and tests whether plants need light to grow. They see a plant bend towards a window and find out how scientists, from Charles Darwin to J.C. Bose, discovered how plants grow and move.",
+  "goals": [
+    "By the end your child can name and point to the roots, stem, leaves, flowers and fruit of a real plant and say a job for each.",
+    "By the end your child can say that seeds grow into plants, that seeds need water to grow, and that the root comes out first, then the stem and leaves.",
+    "By the end your child can explain why a plant on a windowsill bends towards the window and why a plant kept in the dark goes pale and weak.",
+    "By the end your child can set up a simple fair test (two of the same, change only one thing), guess first, and say what happened.",
+    "By the end your child can tell Amy on page 23 how to grow a flower from a seed and what the plant needs."
+  ],
+  "words": [
+    [
+      "roots",
+      "the parts of a plant, usually under the soil, that hold it in the ground and take in water"
+    ],
+    [
+      "stem",
+      "the part that holds the plant up and carries water from the roots to the leaves"
+    ],
+    [
+      "leaf",
+      "the flat, usually green part of a plant that uses sunlight to make the plant's food"
+    ],
+    [
+      "flower",
+      "the often colourful part of a plant that makes seeds"
+    ],
+    [
+      "fruit",
+      "the part that grows from a flower and holds the seeds, like a tomato, mango or bhindi"
+    ],
+    [
+      "seed",
+      "a tiny resting plant inside a coat, with its own store of food, that can grow into a new plant"
+    ],
+    [
+      "grow",
+      "to get bigger; a seed grows into a seedling and then into a plant"
+    ],
+    [
+      "water",
+      "what seeds need to wake up and start growing, and what plants need to stay alive"
+    ],
+    [
+      "light",
+      "brightness from the Sun or a lamp; green plants need light to make their food"
+    ],
+    [
+      "question",
+      "something we want to find out, like 'Do plants need light to grow?'"
+    ],
+    [
+      "seedling",
+      "a very young plant that has just grown from a seed"
+    ]
+  ],
+  "day_mins": 30,
+  "days": [
+    {
+      "n": 1,
+      "title": "The parts of a plant",
+      "goal": "Start from the plants we eat, meet the parts of a plant on page 16, and set up Ana and Marta's seed test.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What did a plant give us today?",
+          "mins": 4,
+          "do": "Ask your child: 'What did we eat today that came from a plant?' Help them list: rice and wheat (seeds), dal (seeds), tomato and bhindi (fruits), palak (leaves), potato (an underground stem), carrot (a root). Say: 'All these are different parts of plants. Today we will learn the names of the parts.'"
+        },
+        {
+          "kind": "read",
+          "title": "Plant parts (page 16)",
+          "mins": 7,
+          "do": "Open page 16, 'Plant parts'. Read 'Plants have many parts.' Point to each label on the tomato plant and say it together: flower, fruit, leaf, stem, roots. Ask: 'Which part is under the soil?' (The roots.) 'Which part holds the plant up?' (The stem.) 'Where are the tomatoes? What colours are they?' (Red ones are ripe, the green one is not ripe yet.) 'Where is the yellow flower? What will it turn into?' (A tomato fruit.) Read the 'Words to learn': fruit, flower, stem, leaf, roots, name."
+        },
+        {
+          "kind": "do",
+          "title": "Pull up a weed",
+          "mins": 7,
+          "do": "Go outside and gently pull up a small weed or a grass plant with its roots (water the soil first so the roots come out whole), or use a coriander or methi bunch from the kitchen that still has roots. Lay it on newspaper. Your child points to and names each part. Ask: 'What does the root feel like?' (Thin, hairy, a bit like threads.) 'Why do you think it has so many thin roots?' (To hold on to the soil and take in water from all around.) Wash the roots in a bowl of water and look at the tiny hairs."
+        },
+        {
+          "kind": "exp",
+          "title": "Ana and Marta's seeds: set up (page 19)",
+          "mins": 12,
+          "do": "Do Experiment e1, the book's Activity 2.2. Read the top of page 19: 'Ana gives her seeds some water. Marta forgets to water her seeds.' Make two seed jars: line two clear glasses or jars with a rolled sheet of kitchen tissue or blotting paper, stuff the middle with crumpled tissue, and slide 3 dry chana or rajma seeds between the glass and the paper so you can see them. Label one jar 'Ana: water' and pour 2 cm of water into the bottom so the paper soaks it up. Label the other 'Marta: no water'. Ask the book's question: 'What do you think will happen?' Write your child's guess on each jar. Also sow Experiment e2 now: fill two small cups or pots with soil and press 6 moong seeds into each, water both, and keep them on the windowsill. We will use them on Day 4.",
+          "ref": "e1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 16 and 19",
+        "a small weed, or coriander or methi with roots",
+        "newspaper and a bowl of water",
+        "2 clear glasses or jars",
+        "kitchen tissue or blotting paper",
+        "6 dry chana or rajma seeds",
+        "2 small cups or pots with soil",
+        "12 whole moong seeds",
+        "labels and a pencil"
+      ],
+      "prep": [
+        {
+          "task": "Get 2 small cups or pots and some soil",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Plant hunt",
+      "goal": "Find leaves, flowers, stems and roots in a garden photo and outdoors, using a magnifying glass, as in Activity 2.1.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jar check",
+          "mins": 3,
+          "do": "Look at the e1 jars. Ask: 'Has anything changed in Ana's jar? In Marta's?' The watered seeds may already be fatter, and the skin may be wrinkled or split. Marta's seeds look the same, or a little drier. Your child draws both jars and writes the day number. Top up Ana's water to 2 cm.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "The garden photo (page 17)",
+          "mins": 5,
+          "do": "Look at the garden photo on page 17 and read the four questions aloud: 'Can you see a leaf? A flower? A stem? Any roots?' Your child points to leaves on the big tree and the bushes, the red and yellow flowers in the bed, the thick tree trunk (a stem). Ask: 'Can you see any roots?' Good answer: 'Only a little where the trunk meets the ground; most roots are hidden under the soil.' Ask: 'Why can't we see them?' (They grow down into the soil to hold the plant and drink water.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Activity 2.1: Plant hunt (page 17)",
+          "mins": 18,
+          "do": "Do Activity a1, the book's Activity 2.1. Read 'Go outside to look for plants. Can you name the parts?' Take a magnifying glass (or a phone camera zoomed in) to a park, garden or the plants in your building. Find at least four different plants: a tree (neem, mango, gulmohar), a shrub (hibiscus, tulsi, rose), a small herb or weed, and grass. For each one your child names every part they can find and looks at one part closely through the lens. Ask: 'Does every plant have flowers today?' (No: the book says 'sometimes plants have flowers or fruit'.) 'Where are the tree's roots?' (Under the ground, spread out wide; look for any that show above the soil, as with a peepal or banyan.) 'Is the tree trunk a stem?' (Yes, a big hard woody one.) Collect one fallen leaf and one fallen flower to take home.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "What we found",
+          "mins": 4,
+          "do": "Back home, read 'What you have learnt' on page 17: 'Plants have roots, stems and leaves. Sometimes plants have flowers or fruit.' Your child tapes the fallen leaf and flower into the notebook and labels them."
+        }
+      ],
+      "need": [
+        "Learner's Book page 17",
+        "a magnifying glass or phone camera",
+        "notebook and sticky tape"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "What does each part do?",
+      "goal": "Learn the job of each plant part, find out which parts we eat, and test how a stem carries water.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jar check",
+          "mins": 3,
+          "do": "Look at the e1 jars. In Ana's jar the seeds are swollen and a white root may be pushing out. If it has, ask: 'Which part came out first: a root or a leaf?' (A root.) 'Which way is it growing?' (Down.) If not yet, ask your child to guess which part will come out first. Marta's seeds have not changed. Draw both jars again.",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Coloured water climbs the stem",
+          "mins": 10,
+          "do": "Do Experiment e3. Put a stick of celery, or a white flower such as a white chrysanthemum (shevanti), a white rose or a white lily, into a glass of water with 10 drops of food colouring (blue or red works best). Before you leave it, ask your child to guess: 'Where will the colour go?' Write the guess down. Check before bedtime and tomorrow morning.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "The job of each part",
+          "mins": 8,
+          "do": "Draw a big plant on paper together and label it. For each part, tell your child its job and ask them to act it out: roots: hold the plant in the soil and drink water (they grip the floor with their toes); stem: holds the plant up and carries water up to the leaves like a straw (they stand tall); leaves: catch sunlight and make the plant's food (they spread their hands like leaves to the sun); flower: makes seeds (they cup their hands); fruit: holds and protects the seeds (they hold a ball). Ask: 'What would happen if we cut off a plant's roots?' (It could not drink water and would wilt and die.)"
+        },
+        {
+          "kind": "act",
+          "title": "Which part do we eat?",
+          "mins": 9,
+          "do": "Do Activity a2. Put out a few vegetables and foods from your kitchen: carrot or radish (root), potato and ginger (stems that grow underground), sugarcane or a celery stick (stem), palak, cabbage or methi leaves (leaves), cauliflower or banana flower (flowers), tomato, bhindi, brinjal, cucumber or mango (fruits), rice, dal and peanuts (seeds). Your child sorts them onto six papers labelled Root, Stem, Leaf, Flower, Fruit, Seed. Tell them the surprise: 'Bhindi, brinjal and cucumber are fruits, because they grow from a flower and have seeds inside.' Cut one open to show the seeds.",
+          "ref": "a2"
+        }
+      ],
+      "need": [
+        "a stick of celery or a white flower",
+        "a glass, food colouring",
+        "paper and crayons",
+        "a few vegetables: carrot, potato, palak, cauliflower, tomato, bhindi, and a little rice and dal",
+        "6 sheets of paper for labels",
+        "a knife (for the parent)"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "How a seed grows",
+      "goal": "Read how a seed grows into a plant on page 18, look inside a seed, and start the light test.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Coloured water check",
+          "mins": 3,
+          "do": "Look at the e3 celery or flower. Ask: 'Where did the colour go? Was your guess right?' The petal edges or the celery leaves should be tinted. Cut the celery stalk across and show the coloured dots: these are the tiny tubes that carry water up the stem. Say: 'This proves the stem is like a bundle of straws.'",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Growing seeds (page 18)",
+          "mins": 6,
+          "do": "Open page 18, 'Growing seeds', and read: 'This is how a seed will grow into a plant.' Point to each maize (makka) seed in the photo, left to right. Ask: 'What happens first?' Read: 'The roots grow first. Then the stem and leaves.' Ask: 'Why do you think the root comes out first?' Good answer: 'So it can hold the seed in the soil and drink water before the shoot grows.' Read the 'Words to learn': seed, grow, water. Compare with Ana's jar from e1: 'Is it happening in our jar the same way?'"
+        },
+        {
+          "kind": "do",
+          "title": "Open a seed",
+          "mins": 8,
+          "do": "Take a chana or rajma seed that has soaked overnight. Your child rubs off the skin (the seed coat) and gently splits the seed into its two halves with a fingernail. Look with the magnifying glass. Show them the tiny baby plant tucked at one edge, with a little root tip and two tiny folded leaves. Say: 'The two big halves are the seed's packed lunch. The baby plant lives on this food until its leaves can make food.' Ask: 'Why does a seed need a hard coat?' (To protect the baby plant until it is time to grow.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 2.3: Do plants need light to grow? (page 21)",
+          "mins": 10,
+          "do": "Start Experiment e2, the book's Activity 2.3. Look at the two cups of moong you sowed on Day 1; the seedlings should now be up. Read page 21: 'Ali wants to ask a question. Do plants need light to grow? Ali covers one plant with a box. He leaves the other one in the light.' Label one cup 'light' and one 'no light', as in the picture. Cover the 'no light' cup with an upturned box or steel dabba. Keep both on the same windowsill and give them the same spoonfuls of water. Ask the book's question: 'What do you think will happen?' Write the guess down. Ask: 'Why do we keep them in the same place and give the same water?' (So the only difference is the light; that makes it a fair test.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Seed jar check",
+          "mins": 3,
+          "do": "Look at the e1 jars and draw them. In Ana's jar the root should be longer, with small side roots, and a shoot may be starting upwards. Top up the water.",
+          "ref": "e1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 18 and 21",
+        "2 soaked chana or rajma seeds",
+        "a magnifying glass",
+        "a small cardboard box or steel dabba to cover one cup",
+        "labels"
+      ],
+      "prep": [
+        {
+          "task": "Soak 2 more chana or rajma seeds",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Seeds need water",
+      "goal": "Finish Ana and Marta's test, learn that seeds need water to grow, and see that small seeds can grow into very big plants.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Ana and Marta's results",
+          "mins": 8,
+          "do": "Look closely at both e1 jars. Ask: 'What happened to Ana's seeds? To Marta's?' Good answer: 'Ana's seeds grew roots and shoots; Marta's stayed dry and did not grow.' Compare with your child's Day 1 guess. Read 'What you have learnt' on page 19: 'Seeds grow into plants. Seeds need water to grow.' Ask: 'Can Marta still grow her seeds?' (Yes: they are alive but resting; if she waters them now they will grow.) Pour water into Marta's jar and watch over the next days.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Small seeds, big plants (page 19)",
+          "mins": 5,
+          "do": "Look at the giant tree photo at the bottom of page 19 and read: 'Small seeds can grow into big plants.' Tell your child that this kind of tree, a redwood, can grow taller than a 30-storey building, from a seed smaller than a grain of rice. In India, a huge banyan tree, with branches wide enough to shade a whole village meeting, grows from a seed smaller than a mustard seed hidden in the little red banyan figs. Ask: 'Where does all that wood come from, if the seed was so tiny?'"
+        },
+        {
+          "kind": "think",
+          "title": "Where does a tree's weight come from?",
+          "mins": 10,
+          "do": "Tell your child about Voice v1. Jan Baptist van Helmont planted a small willow in a pot of soil that he weighed, gave it only rainwater for five years, and found the tree had become very heavy but the soil weighed almost the same. He decided the tree was made from water. Ask your child: 'Was he right?' Then explain the twist: most of the wood is actually made from an invisible gas in the air (carbon dioxide), joined together in the leaves using sunlight, with water. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "exp",
+          "title": "Which way do roots grow?",
+          "mins": 7,
+          "do": "Start Experiment e4. In a fresh seed jar (made like e1), place 4 soaked chana seeds in different positions: one with its pointed tip facing up, one down, one left and one right. Ask your child to guess first: 'Will the roots all grow down, or will each one grow the way its tip points?' Keep it watered. Check on Day 7.",
+          "ref": "e4"
+        }
+      ],
+      "need": [
+        "Learner's Book page 19",
+        "the e1 jars",
+        "a third clear jar, tissue or blotting paper",
+        "4 soaked chana seeds"
+      ],
+      "prep": [
+        {
+          "task": "Soak 4 chana seeds in water",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Why is this plant bent?",
+      "goal": "Read page 20, see that plants grow towards the light, and learn how Charles Darwin found the part of a seedling that senses light.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Light test check",
+          "mins": 3,
+          "do": "Lift the box on the e2 'no light' cup for one minute only and compare it with the 'light' cup. Ask: 'Do they look the same?' Note colour and height in the notebook, then cover it again quickly.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Plants and light (page 20)",
+          "mins": 6,
+          "do": "Open page 20, 'Plants and light'. Read the question: 'Why is this plant bent?' Let your child answer from the picture before you read the answer: 'It is growing towards the light.' Ask: 'Where is the light coming from?' (The Sun through the window.) 'What would happen if we turned the pot around?' (The plant would slowly bend back towards the window.) Read the 'Words to learn': light, ask, question."
+        },
+        {
+          "kind": "act",
+          "title": "Start the window bend",
+          "mins": 6,
+          "do": "Do Activity a3. Put a pot of seedlings, or any small potted plant, on a windowsill where light comes from one side only. Your child stands a pencil in the soil beside the stem and draws how the stem and leaves point today. In two days you will draw it again.",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Charles Darwin and the seedling's tip",
+          "mins": 10,
+          "do": "Tell your child about Voice v2: Charles Darwin and his son Francis grew tiny grass seedlings by a window. When they covered just the very tip of a seedling with a little cap, it stopped bending towards the light. When they covered the lower part and left the tip open, it still bent. Ask: 'So which part of the seedling feels the light?' (The tip.) 'But the bend happens lower down. How does the message get there?' (Something travels down from the tip.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Ask a question like Ali",
+          "mins": 5,
+          "do": "Read the line on page 21: 'Ali wants to ask a question.' Tell your child that every experiment begins with a question. Help them make up two more questions about plants that we could test at home, for example 'Do seeds grow faster in warm or cold places?' or 'Do plants grow better with tap water or salty water?' Write them in the notebook. Ask: 'How would you make it fair?' (Use the same seeds, same pots and same water, and change only one thing.)"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 20–21",
+        "a small potted plant or pot of seedlings",
+        "a pencil",
+        "notebook"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Do plants need light? The answer",
+      "goal": "Finish Ali's light test, explain what we found, see the roots test result, and think about sunflowers that all face one way.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Light test results (page 21)",
+          "mins": 9,
+          "do": "Take the box off the e2 'no light' cup and put the two cups side by side. Ask: 'What is different?' Good answers: 'The ones in the dark are yellow or white, not green; they are tall, thin and floppy; their leaves are small and pale. The ones in the light are green, shorter and strong.' Compare with the guess from Day 4. Read 'What you have learnt' on page 21: 'Plants need light to grow.' Explain: 'The seedlings in the dark lived on the food stored in the seed and grew tall trying to find light. Without light they cannot make the green colour or make new food. If they stay in the dark they will die.' Put the dark cup in the light now and see if it turns green over the next days.",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Which way did the roots grow?",
+          "mins": 5,
+          "do": "Look at the e4 jar. Ask: 'Did all the roots grow down, even the seed whose tip was pointing up?' Usually every root has turned and is growing downward, and every shoot upward. Explain: 'Roots can sense which way is down, the way the Earth pulls, and grow that way to find soil and water.'",
+          "ref": "e4"
+        },
+        {
+          "kind": "act",
+          "title": "Window plant check",
+          "mins": 4,
+          "do": "Look at the Activity a3 window plant. Your child draws it again next to Day 6's drawing and draws an arrow showing which way it leans. Now turn the pot around so the plant faces away from the window. Ask: 'What will it do in two days?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Why are the sunflowers all facing the same way? (page 21)",
+          "mins": 6,
+          "do": "Look at the sunflower field photo on page 21 and read the question. Good answer: 'They are all facing the Sun.' Tell your child the true and surprising detail: young sunflower plants turn their buds to follow the Sun from east to west during the day and swing back at night. When the flowers open and grow old, most stop turning and stay facing east, towards the morning Sun. Ask: 'If you visited this field at sunrise, which way would you look to see the flowers' faces?' (East.)"
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose watches plants grow",
+          "mins": 6,
+          "do": "Tell the story in Voice v3: J.C. Bose in Kolkata built a machine, the crescograph, that could show a plant growing in a few minutes by making its tiny movements look many thousands of times bigger. Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 21",
+        "the e2 cups, the e4 jar and the a3 window plant"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Helping Amy grow a flower",
+      "goal": "Use everything we know to sow flower seeds, think about whether roots can find water by sound, and do the core and stretch worksheets.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Sow a flower for Amy",
+          "mins": 9,
+          "do": "Do Activity a4. Read question 3 on page 23: 'Can you help Amy? How can she grow a flower? What does the plant need?' Your child tells you the steps before doing them, then sows 4 marigold (genda) or sunflower seeds in a pot of soil, about 1 cm deep, waters them and places the pot in a sunny spot. Make a chart: Day, What I see. Marigold seeds usually come up in about a week.",
+          "ref": "a4"
+        },
+        {
+          "kind": "think",
+          "title": "Can roots hear water?",
+          "mins": 7,
+          "do": "Tell your child about Voice v4: in 2017 Monica Gagliano and her team reported that pea roots grew towards the sound of water running inside a sealed pipe, even when the soil there was dry. Other scientists want the experiment repeated before they agree. Ask the voice question. Make sure your child understands it is not yet settled.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws1 (core). Read each item aloud. Your child points, matches, labels or answers aloud, and you write their words where needed.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet, section A",
+          "mins": 6,
+          "do": "Do Section A of Worksheet ws2 (stretch). Keep the rest for Day 9.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 23",
+        "a pot of soil",
+        "4 marigold or sunflower seeds",
+        "Worksheets ws1 and ws2"
+      ],
+      "prep": [
+        {
+          "task": "Buy a small packet of marigold or sunflower seeds (any nursery or seed shop)",
+          "when": "1 week before"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Check your progress and teach it back",
+      "goal": "Do the book's Check your progress on pages 22–23, finish the worksheets, check understanding and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress, questions 1 and 2 (pages 22–23)",
+          "mins": 7,
+          "do": "Question 1 on page 22: your child names the parts of the tomato plant using the words in the box (roots, leaf, flower, stem, fruit), pointing to each. Question 2 on page 23: 'What do these plants need?' The dry brown maize field needs water (the soil is cracked and dry; the plants have wilted). The pale yellow sprouts in the pot need light (they look just like our dark cup in e2). Question 3: ask your child to tell Amy, in their own words, how to grow her sunflower: 'Plant the seeds in soil, water them, put them in a sunny place, and wait; roots come first, then the stem and leaves, then the flower.'"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch section B and challenge worksheet",
+          "mins": 8,
+          "do": "Finish Section B of Worksheet ws2 (stretch), then do Worksheet ws3 (challenge). For the 'what if' questions, there is no single right answer; ask 'Why do you think so?' each time.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 6,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed one, look again at the page or the experiment for a minute, then ask again in different words. Fewer than 4 right means repeat the light test and the seed jar next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 9,
+          "do": "Your child is the teacher. Using the seed jars, the two moong cups and the window plant, they teach you (or a grandparent) in 5 minutes: the parts of a plant and their jobs; what a seed needs to grow and what grows first; what happened in the dark and why. Ask two 'student' questions: 'If I put a plant in a cupboard, will it grow better or worse?' and 'Why did the window plant bend?' End by watering the marigold pot from Activity a4 and agreeing to check it every day."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 22–23",
+        "Worksheets ws2 and ws3",
+        "the seed jars, moong cups and window plant"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Plant parts and what seeds need",
+      "day": 8,
+      "sections": [
+        [
+          "A. Parts of a plant",
+          [
+            {
+              "t": "draw",
+              "p": "Draw a tomato plant. Label the roots, stem, leaf, flower and fruit."
+            },
+            {
+              "t": "match",
+              "p": "Match the part to its job.",
+              "pairs": [
+                [
+                  "Roots",
+                  "Hold the plant in the soil and take in water"
+                ],
+                [
+                  "Stem",
+                  "Holds the plant up and carries water"
+                ],
+                [
+                  "Leaf",
+                  "Makes food using sunlight"
+                ],
+                [
+                  "Flower",
+                  "Makes seeds"
+                ],
+                [
+                  "Fruit",
+                  "Holds the seeds"
+                ]
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Plants have roots, stems and ____.",
+              "a": [
+                "leaves",
+                "leaf"
+              ]
+            }
+          ]
+        ],
+        [
+          "B. Growing seeds",
+          [
+            {
+              "t": "mcq",
+              "p": "When a seed starts to grow, which comes out first?",
+              "opts": [
+                "The leaves",
+                "The root",
+                "The flower"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "Marta forgot to water her seeds. What happened?",
+              "opts": [
+                "They grew faster",
+                "They did not grow",
+                "They turned into flowers"
+              ],
+              "a": 1
+            },
+            {
+              "t": "fill",
+              "p": "Seeds need ____ to grow.",
+              "a": [
+                "water"
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Plants and light",
+          [
+            {
+              "t": "mcq",
+              "p": "Why is the plant on the windowsill bent?",
+              "opts": [
+                "It is tired",
+                "It is growing towards the light",
+                "It needs water"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "A plant kept under a box for a week will be:",
+              "opts": [
+                "Green and strong",
+                "Pale yellow, thin and weak",
+                "Exactly the same"
+              ],
+              "a": 1
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Plants in new places",
+      "day": 8,
+      "sections": [
+        [
+          "A. Which part do we eat?",
+          [
+            {
+              "t": "sort",
+              "p": "Sort these foods by the plant part we eat.",
+              "items": [
+                "Carrot",
+                "Palak",
+                "Bhindi",
+                "Cauliflower",
+                "Moong dal",
+                "Potato",
+                "Mango",
+                "Radish"
+              ],
+              "cats": [
+                "Root",
+                "Stem",
+                "Leaf",
+                "Flower",
+                "Fruit",
+                "Seed"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "Bhindi has seeds inside and grew from a flower. So bhindi is a:",
+              "opts": [
+                "Leaf",
+                "Fruit",
+                "Root"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Solve the problem",
+          [
+            {
+              "t": "write",
+              "p": "Rohan's money plant is in a dark corner. Its new leaves are small and pale. What should he do, and why?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "Dadi's tulsi pot has dry, cracked soil and drooping leaves. What does the plant need?",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "Priya plants seeds upside down. What will the roots do?",
+              "opts": [
+                "Grow up into the air",
+                "Turn and grow down",
+                "Not grow at all"
+              ],
+              "a": 1
+            },
+            {
+              "t": "table",
+              "p": "Fill in our light test results.",
+              "cols": [
+                "Cup",
+                "Colour",
+                "Tall or short",
+                "Strong or floppy"
+              ],
+              "rows": 2,
+              "prefill": [
+                "Light",
+                "No light"
+              ]
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "What if?",
+      "day": 9,
+      "sections": [
+        [
+          "A. Thinking like a scientist",
+          [
+            {
+              "t": "mcq",
+              "p": "Ali wants a fair test of whether plants need light. Which is fair?",
+              "opts": [
+                "One plant in the light with water, one in the dark with no water",
+                "Two of the same plants, same water, one in the light and one under a box",
+                "A big plant in the light and a small one in the dark"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "Darwin covered only the tip of a seedling, and it stopped bending to the light. What does that tell you?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "Van Helmont's willow grew very heavy but the soil weighed almost the same. Where did the tree's weight come from?",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "B. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if a seed had no seed coat? What could happen to it?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "What if there was no sunlight for a whole month? What would happen to the plants, and to the animals that eat them?",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "Scientists think pea roots might grow towards the sound of water. What would make you more sure?",
+              "opts": [
+                "One person saying it is true",
+                "Other scientists doing the same test and getting the same result",
+                "A nice photo of a pea plant"
+              ],
+              "a": 1
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Ana and Marta's seeds: do seeds need water? (book Activity 2.2)",
+      "day": 1,
+      "question": "Will seeds grow without water?",
+      "need": [
+        "2 clear glasses or jars",
+        "kitchen tissue or blotting paper",
+        "6 dry chana or rajma seeds",
+        "water",
+        "labels"
+      ],
+      "steps": [
+        "Line the inside of each jar with a rolled sheet of tissue or blotting paper and stuff crumpled tissue in the middle to hold it against the glass.",
+        "Slide 3 seeds between the glass and the paper in each jar, about halfway down, so you can see them.",
+        "Label one jar 'Ana: water' and pour 2 cm of water in the bottom so the paper soaks it up.",
+        "Label the other 'Marta: no water' and keep it dry.",
+        "Keep both jars side by side in the same place. Top up Ana's water every day.",
+        "Draw both jars every day for five days."
+      ],
+      "predict": "Ask your child to guess first, as the book does: 'What do you think will happen to Ana's seeds and to Marta's seeds?' Write the guess on each jar.",
+      "observe": "Ana's seeds swell, split their skins and push out a white root by Day 3 or 4, then side roots, then a shoot that grows up. Marta's seeds do not change.",
+      "why": "A seed is a baby plant resting inside its coat, with stored food. While it is dry it stays asleep. Water soaks in through the coat, the seed swells and splits it, and the baby plant wakes up and starts using its stored food to grow. The root comes first so the seedling can anchor itself and take in more water; then the shoot grows up towards the light. Without water, nothing starts. Both jars had the same kind of seeds, the same paper and the same place, so water was the only difference between Ana's and Marta's jars: that makes it a fair test. (Marta's seeds are not dead; if you water them later, they grow.)",
+      "safety": "Do not eat seeds that have sat in water for days. Wash hands after handling.",
+      "time": "12 min to set up + 3 min checks on Days 2–5"
+    },
+    {
+      "id": "e2",
+      "title": "Ali's question: do plants need light to grow? (book Activity 2.3)",
+      "day": 4,
+      "question": "What happens to young plants that get no light?",
+      "need": [
+        "2 small cups or pots of soil, each with 6 moong seeds sown on Day 1",
+        "a cardboard box or steel dabba to cover one cup",
+        "a spoon for watering",
+        "labels 'light' and 'no light'"
+      ],
+      "steps": [
+        "On Day 1, sow 6 moong seeds in each cup, water both and keep them on a windowsill.",
+        "On Day 4, when the seedlings are up, label one cup 'light' and one 'no light'.",
+        "Cover the 'no light' cup with the box. Leave the other uncovered next to it.",
+        "Give each cup the same number of spoons of water every day.",
+        "On Day 7, take off the box and compare colour, height and strength.",
+        "Then put the dark cup in the light and watch it over the next days."
+      ],
+      "predict": "Ask your child to guess first: 'What will happen to the plant in the dark? Will it grow more, less or the same?'",
+      "observe": "Colour, height and strength of each cup's seedlings. The covered seedlings turn yellow or white, grow tall, thin and floppy, with small pale leaves. The ones in the light are green, shorter and sturdy. Once put back in light, the pale ones slowly turn green.",
+      "why": "Green plants make their own food in their leaves using light; the green colour (chlorophyll) is what catches the light, and plants make it only when they get light. In the dark the seedlings live on the food left in the seed and put all their effort into growing tall, as if searching for light, so they become long and weak. When the stored food runs out, they cannot make more, so a plant kept in the dark for long dies. This is why the book says plants need light to grow.",
+      "safety": "",
+      "time": "Sowing on Day 1 + 10 min set-up on Day 4 + 9 min on Day 7"
+    },
+    {
+      "id": "e3",
+      "title": "Coloured water climbs the stem",
+      "day": 3,
+      "question": "How does water get from the roots to the top of a plant?",
+      "need": [
+        "a stick of celery with leaves, or a white flower (white chrysanthemum, rose or lily)",
+        "a glass of water",
+        "food colouring (blue or red)",
+        "a knife (for the parent)"
+      ],
+      "steps": [
+        "Cut the bottom of the stem freshly (parent).",
+        "Put 10 drops of food colouring into a glass of water and stir.",
+        "Stand the celery or flower in the glass.",
+        "Check after 3 hours, at bedtime and next morning.",
+        "Next day, cut across the stem and look at the cut end."
+      ],
+      "predict": "Ask your child to guess first: 'Will the colour stay in the glass, go into the stem, or reach the leaves and petals?'",
+      "observe": "The leaf edges or the petal tips slowly turn the colour of the water. The cut stem shows coloured dots or lines.",
+      "why": "A stem has tiny tubes running up it, like a bundle of very thin straws. Water is pulled up these tubes to the leaves and flowers, because the leaves lose water into the air all the time and the water behind is drawn up to replace it. The colouring travels with the water, so we can see the path. In a living plant, the roots take water from the soil and the stem carries it up in the same way.",
+      "safety": "A grown-up does the cutting. Food colouring can stain clothes.",
+      "time": "10 min + checks next day"
+    },
+    {
+      "id": "e4",
+      "title": "Which way do roots grow?",
+      "day": 5,
+      "question": "If a seed is planted upside down, which way will its root grow?",
+      "need": [
+        "a clear jar",
+        "tissue or blotting paper",
+        "4 soaked chana seeds",
+        "water"
+      ],
+      "steps": [
+        "Line the jar with tissue as in e1 and put 2 cm of water in the bottom.",
+        "Place 4 seeds between glass and paper: one with its pointed tip up, one down, one left and one right.",
+        "Keep it in the same place and top up the water.",
+        "On Day 7, draw which way each root and shoot is growing."
+      ],
+      "predict": "Ask your child to guess first: 'Will each root grow the way its tip points, or will they all grow down?'",
+      "observe": "Every root bends and grows downwards, and every shoot bends and grows upwards, whichever way the seed was placed.",
+      "why": "Roots can sense the pull of the Earth (gravity) and grow towards it, which takes them down into the soil where water and minerals are. Shoots grow the other way, up towards the light. Special cells in the root tip contain tiny heavy grains that settle to the bottom of each cell, telling the root which way is down. So it doesn't matter how a farmer drops a seed into the soil.",
+      "safety": "",
+      "time": "7 min to set up + 5 min check on Day 7"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Plant hunt (book Activity 2.1)",
+      "day": 2,
+      "mins": 18,
+      "need": [
+        "a magnifying glass or a phone camera",
+        "notebook and pencil"
+      ],
+      "steps": [
+        "Go to a park, garden or the plants around your building.",
+        "Find four different plants: a tree, a shrub, a small herb or weed, and grass.",
+        "For each, your child names every part they can find: roots, stem, leaves, flowers, fruit.",
+        "Look at one part of each plant closely through the magnifying glass.",
+        "Collect one fallen leaf and one fallen flower (never pick living ones)."
+      ],
+      "outcome": "A notebook page with four plants, their parts ticked off, and a taped-in leaf and flower."
+    },
+    {
+      "id": "a2",
+      "title": "Which part do we eat?",
+      "day": 3,
+      "mins": 9,
+      "need": [
+        "carrot or radish",
+        "potato or ginger",
+        "palak or methi",
+        "cauliflower",
+        "tomato, bhindi or brinjal",
+        "a little rice and dal",
+        "6 papers labelled Root, Stem, Leaf, Flower, Fruit, Seed"
+      ],
+      "steps": [
+        "Lay out the six labelled papers.",
+        "Your child picks up each food, says its name and puts it on a paper.",
+        "Cut open a tomato or bhindi to show the seeds inside, proving it is a fruit.",
+        "Talk about the surprises: potato is a stem (it has 'eyes' that sprout), cauliflower is a bunch of flower buds."
+      ],
+      "outcome": "Kitchen foods sorted by plant part, and a child who knows we eat every part of plants."
+    },
+    {
+      "id": "a3",
+      "title": "The bending window plant",
+      "day": 6,
+      "mins": 6,
+      "need": [
+        "a small potted plant or a pot of seedlings",
+        "a sunny windowsill with light from one side",
+        "a pencil",
+        "notebook"
+      ],
+      "steps": [
+        "Put the pot on the windowsill and stand a pencil in the soil next to the stem.",
+        "Draw how the stem and leaves point.",
+        "After 2 days, draw again and draw an arrow showing the lean.",
+        "Turn the pot around and watch it bend back over the next 2 days."
+      ],
+      "outcome": "Drawings showing the plant bending towards the light, and then back again after turning."
+    },
+    {
+      "id": "a4",
+      "title": "A flower for Amy (book page 23)",
+      "day": 8,
+      "mins": 9,
+      "need": [
+        "a pot of soil with a hole in the bottom",
+        "4 marigold or sunflower seeds",
+        "water",
+        "a sunny spot"
+      ],
+      "steps": [
+        "Your child says the steps aloud first: soil, seeds, water, light.",
+        "Press 4 seeds about 1 cm into the soil and cover them.",
+        "Water gently and put the pot in a sunny place.",
+        "Keep the soil damp, not soggy, and record each day what you see.",
+        "Marigolds usually flower about 6 to 8 weeks after sowing."
+      ],
+      "outcome": "A growing marigold or sunflower plant and a daily chart."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Jan Baptist van Helmont (1580–1644), Flanders (now Belgium)",
+      "idea": "Van Helmont wanted to know what a plant is made from. He put a small willow tree of about 2 kg into a pot of carefully dried and weighed soil, covered the pot and gave it only rainwater. After five years the willow weighed about 77 kg, but the soil had lost only about 60 grams. He concluded that the tree's body had been made from the water.",
+      "then": "His experiment, published after his death in 1648, was admired because he measured carefully, and many people accepted his idea that plants were made of water.",
+      "now": "His measuring was good, but his explanation was wrong, because he did not know about gases in the air. Later scientists found that most of a plant's dry weight comes from carbon dioxide, a gas from the air, which leaves join with water using sunlight to make food and wood. The small amount the soil lost is the minerals the roots took in. Water is part of the story, but not most of it.",
+      "status": "rejected",
+      "ask": "Van Helmont weighed the soil and the tree, but not the air. Why do you think he forgot the air? How could a scientist show that the air gives something to a plant?",
+      "day": 5
+    },
+    {
+      "id": "v2",
+      "who": "Charles Darwin (1809–1882) and his son Francis Darwin (1848–1925), England",
+      "idea": "In their 1880 book 'The Power of Movement in Plants', the Darwins described experiments on young grass seedlings (canary grass and oats) growing by a window. A seedling bent towards the light. When they covered just its tip with a tiny cap, it no longer bent. When they covered the lower part and left the tip uncovered, it still bent. They concluded that the tip senses the light and some 'influence' travels down to the part below, which does the bending.",
+      "then": "Some botanists of the time doubted the result and argued about how to explain it, and it took several decades for others to find out what the 'influence' was.",
+      "now": "Accepted. In the 1910s and 1920s other scientists, including Peter Boysen Jensen in Denmark and Frits Went in the Netherlands, showed the influence is a chemical made in the tip. It is now called auxin. On the shady side of the stem the cells grow longer, so the stem bends towards the light.",
+      "status": "accepted",
+      "ask": "The Darwins covered the tip on some seedlings and the lower part on others. Why did they need both? What would you cover to test whether a root tip senses which way is down?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Jagadish Chandra Bose (1858–1937), India",
+      "idea": "Bose, a physicist working in Kolkata, built very sensitive instruments to study how plants grow and respond. His crescograph magnified a plant's growth thousands of times, so that growth which normally takes hours to see could be recorded in minutes. With it he measured how plants' growth changed with light, temperature, touch and chemicals.",
+      "then": "Many scientists in Europe were doubtful when he presented his plant work in the early 1900s, partly because he was a physicist stepping into botany. Some of his bigger claims, such as plants having feelings like ours, went further than his evidence.",
+      "now": "His measurements of plant growth and responses are respected, and he is honoured as a pioneer of plant physiology in India; the Bose Institute in Kolkata, which he founded in 1917, is named after him. Scientists today agree that plants sense and respond to many things, but not that they feel pain or emotions as we do.",
+      "status": "accepted",
+      "ask": "Bose's machine made slow growth look fast. Why is it useful for a scientist to make something tiny look big? What other things grow too slowly for us to see?",
+      "day": 7
+    },
+    {
+      "id": "v4",
+      "who": "Monica Gagliano and colleagues, Australia (study published 2017)",
+      "idea": "In an experiment with pea plants grown in pots shaped like an upside-down Y, the team reported that the roots grew towards the arm where they could hear water flowing through a sealed pipe, even though the soil there was dry. They suggested roots may use sound, as well as dampness, to find water.",
+      "then": "The study was widely reported. Many plant scientists found it interesting but said it was one small study and the effect needed checking carefully, because roots respond to many things such as moisture and touch.",
+      "now": "That roots grow towards water using dampness is well accepted. Whether they can also detect the sound of water is not settled; it needs to be repeated by other scientists in other labs before most will accept it.",
+      "status": "debated",
+      "ask": "If roots really can 'hear' water, what test would show it was the sound and not dampness from the pipe? What would you need to keep the same?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {
+      "q": "Name the parts of a tomato plant.",
+      "a": "Roots, stem, leaves, flowers and fruit (the tomatoes)."
+    },
+    {
+      "q": "What is the job of the roots?",
+      "a": "To hold the plant in the soil and take in water."
+    },
+    {
+      "q": "What do seeds need to start growing?",
+      "a": "Water (and warmth). Marta's dry seeds did not grow; Ana's watered seeds did."
+    },
+    {
+      "q": "When a seed grows, what comes out first?",
+      "a": "The root, then the stem and leaves."
+    },
+    {
+      "q": "What happened to the moong plants under the box, and why?",
+      "a": "They went pale yellow, tall, thin and floppy, because plants need light to make their food and their green colour."
+    },
+    {
+      "q": "Why does a plant on a windowsill bend?",
+      "a": "It grows towards the light."
+    },
+    {
+      "q": "Amy has sunflower seeds. Tell her how to grow a flower.",
+      "a": "Plant the seeds in soil, water them, and put the pot in a sunny place; keep watering and wait for roots, a stem, leaves and then a flower."
+    }
+  ]
+}

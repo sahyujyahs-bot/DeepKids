@@ -1,0 +1,552 @@
+{
+  "key": "nios|sci|5|11",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 11,
+  "title": "Solar System and Earth",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 11 (lesson pages 161–173)",
+  "summary": "The Sun is a star with eight planets going round it, and our Earth spins on a tilted axis while it travels round the Sun. Your child models day and night, the phases of the Moon (and the Indian Shukla and Krishna Paksha), natural and artificial satellites, the lines of latitude and longitude, why India keeps one standard time, and why the tilt of the Earth (not its distance from the Sun) gives us long and short days and seasons. Along the way they meet Aryabhata, Galileo and the live argument about Pluto, and learn to spot two mistakes in the book's own revision page.",
+  "goals": [
+    "By the end your child can name the eight planets in order from the Sun and explain what makes something a planet, a star or a satellite.",
+    "By the end your child can show with a torch and a ball how rotation gives day and night and how revolution makes a year of about 365¼ days.",
+    "By the end your child can explain why the Moon shows phases, name purnima and amavasya, and say what Shukla Paksha and Krishna Paksha are.",
+    "By the end your child can find the equator, the tropics, the polar circles and the prime meridian on a globe or map, and locate India by latitude and longitude.",
+    "By the end your child can explain why time is different in different places, and why India uses one Indian Standard Time based on 82½° East.",
+    "By the end your child can explain that seasons and long and short days are caused by the tilt of the Earth's axis, and use the dates of perihelion and aphelion as evidence that distance from the Sun is not the cause."
+  ],
+  "words": [
+    ["star", "a huge ball of very hot glowing gas that makes its own light and heat; the Sun is our nearest star"],
+    ["planet", "a large round body that travels round a star in its own path; the Sun has eight"],
+    ["orbit", "the fixed path in which a planet moves round the Sun, or a satellite moves round a planet"],
+    ["satellite", "a body that moves round a planet; the Moon is Earth's natural satellite, and man-made satellites are machines put into orbit"],
+    ["axis", "an imaginary line through the Earth from the North Pole to the South Pole, around which the Earth spins; it is tilted about 23½°"],
+    ["rotation", "the spinning of the Earth on its axis; one full turn takes about 24 hours and gives us day and night"],
+    ["revolution", "the movement of the Earth round the Sun; one full trip takes about 365 days and 6 hours, which is one year"],
+    ["phases of the Moon", "the changing shapes of the lit part of the Moon that we see, from new moon (amavasya) to full moon (purnima) and back, in about 29½ days"],
+    ["latitude", "imaginary circles running east–west round the Earth, measuring how far north or south a place is from the equator (0° to 90°)"],
+    ["longitude", "imaginary half-circles running from the North Pole to the South Pole, measuring how far east or west a place is from Greenwich (0° to 180°)"],
+    ["equator", "the 0° line of latitude, halfway between the poles, which divides the Earth into the Northern and Southern Hemispheres"],
+    ["standard time", "one clock time agreed for a whole country or region; Indian Standard Time is set by the sun time at 82½° East"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Watching the sky",
+      "goal": "Start from what we see in our own sky, learn how people in India studied it from ancient times, and begin a Moon diary that runs all lesson.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What did you see in the sky?",
+          "mins": 6,
+          "do": "Ask your child: 'Where does the Sun rise from our home? Which window or which building?' (East.) 'Where does it set?' (West.) 'Did you see the Moon last night? What shape was it?' 'Is the Moon always the same shape?' (No.) 'Why do you think that is?' Let them guess freely and write their guesses in the notebook; do not correct them yet. Tell them: 'This week we will test every one of these guesses.'"
+        },
+        {
+          "kind": "read",
+          "title": "The opening of Lesson 11 (lesson page 161)",
+          "mins": 7,
+          "do": "Read the opening of Lesson 11 on lesson page 161 aloud. Ask: 'What did people in ancient times try to understand?' (The sky, Sun, Moon, stars, day and night, the waxing and waning Moon, seasons.) 'What did learned men in India make using the phases of the Moon?' (The Indian calendar and dates, called tithis.) Parent note: the book says horoscopes are made from the zodiac signs. Tell your child honestly: 'Watching the stars to make calendars and to track time is astronomy, a science, and it works. Using the stars to predict a person's future is astrology; when scientists have tested it carefully, it has not been shown to work.' Keep this calm and respectful; many families follow such traditions."
+        },
+        {
+          "kind": "act",
+          "title": "Start the Moon diary",
+          "mins": 10,
+          "do": "Start Activity a1. Make a Moon diary page with 7 boxes, one per lesson day, each with space for the date, time, the Moon's shape (drawn and shaded) and where in the sky it was (above which building or tree). Check today's Moon phase on a wall calendar (panchang) or any calendar that shows purnima and amavasya, and write the tithi if you can. Tonight, or in the early morning if the Moon is up then, go out together and draw it. If clouds hide it, write 'cloudy' and look again tomorrow.",
+          "ref": "a1"
+        },
+        {
+          "kind": "do",
+          "title": "How big is the Sun?",
+          "mins": 12,
+          "do": "Read the start of 11.1 on lesson page 162: 'The Sun is also a star... the star closest to the earth. This is why it looks bigger than other stars.' Then show the size difference. Put a peppercorn or a mustard seed (Earth) next to a large football or a big round watermelon, and explain: 'If the Earth were this tiny seed, the Sun would be about as wide as a person is tall. More than a million Earths could fit inside the Sun.' Then show why far things look small: your child holds a one-rupee coin at arm's length and covers your face with it from across the room. Ask: 'Is the coin bigger than my face? Why does it cover it?' (It is closer.) 'So why do stars look like dots?' (They are suns too, but very, very far away.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Never look at the Sun",
+          "mins": 10,
+          "do": "Explain an important safety rule: never look straight at the Sun, even with sunglasses, and never through binoculars or a camera lens, because it can permanently damage the eyes. Then make a safe Sun viewer: make a pinhole in a card, stand with your back to the Sun, and hold the card so sunlight passes through the hole onto a sheet of white paper held a little away. Your child sees a small bright circle: that is an image of the Sun. Ask: 'What shape is the Sun's image?' (Round.) Write 'The Sun is a star. It is our nearest star' in the notebook."
+        }
+      ],
+      "need": ["NIOS Environmental Studies Level B, Lesson 11 (lesson pages 161–162)", "notebook for the Moon diary", "a calendar or panchang showing purnima and amavasya", "a peppercorn or mustard seed, a football or big watermelon", "a one-rupee coin", "a card, a pin, a white sheet of paper"],
+      "prep": [{"task": "Check on a calendar or online at what time the Moon is visible tonight or early tomorrow morning", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "The Sun's family of planets",
+      "goal": "Learn the eight planets in order, build a walking scale model of the solar system, and weigh the argument over Pluto.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.1 Our solar system and its planets (lesson pages 162–163)",
+          "mins": 7,
+          "do": "Read 11.1 on lesson page 162 aloud and look at the 'Solar System' picture. Ask: 'What are planets?' (Celestial bodies that go round the Sun.) 'How many does the Sun have?' (Eight.) Note: the book lists the planets ending 'Neptune and Uranus', but the correct order from the Sun is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune; Uranus is seventh and Neptune eighth. Teach a memory sentence: 'My Very Educated Mother Just Served Us Noodles.' Ask: 'Why is Earth the only planet with life, as far as we know?' (It has air and liquid water, and is not too hot or too cold.)"
+        },
+        {
+          "kind": "act",
+          "title": "Walk the solar system",
+          "mins": 18,
+          "do": "Do Activity a2 in a long corridor, terrace or park. Place a ball or a big round fruit as the Sun at one end. Your child walks heel-to-toe steps (about 25 cm each, call them 'paces') and drops a labelled paper chit at each planet: Mercury 1 pace, Venus 2, Earth 3, Mars 4½, Jupiter 15, Saturn 28, Uranus 57, Neptune 90 paces. If space runs out, stop at Saturn and point far away for Uranus and Neptune. At each planet, tell one fact: Mercury is closest and fastest; Venus is the hottest because of its thick cloudy air; Mars looks red because of rusty dust; Jupiter is the biggest; Saturn has bright rings. Ask at the end: 'What is between the planets?' (Mostly empty space.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Is Pluto a planet? A live argument",
+          "mins": 10,
+          "do": "Tell your child Voice v3: when you (the parent) were young, many books said there were nine planets, the ninth being Pluto. In 2006 astronomers voted that Pluto is a 'dwarf planet', and some scientists still disagree. Explain the three rules from the 2006 vote: a planet goes round the Sun, is big enough to be pulled into a round shape, and has cleared its path of other objects. Pluto passes the first two but not the third. Then ask the voice question and let your child argue a side.",
+          "ref": "v3"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 11.1, first part (lesson page 163)",
+          "mins": 6,
+          "do": "Ask questions I and III of 'Let's see, what you have learnt 11.1' on lesson page 163 aloud: 'What are planets?' and 'Write the names of the eight planets.' Your child writes the eight names in the correct order using the memory sentence. Answers are on lesson page 173 (remember Uranus comes before Neptune)."
+        },
+        {
+          "kind": "act",
+          "title": "Moon diary",
+          "mins": 4,
+          "do": "Add today's box to the Moon diary (Activity a1): date, time, shape drawn and shaded, position in the sky. Ask: 'Is the lit part bigger or smaller than last time? Is it on the same side?'",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 162–163 and 173", "a ball or big round fruit for the Sun", "8 paper chits with planet names and a marker", "a long corridor, terrace or park", "the Moon diary"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Spinning Earth: day, night and the year",
+      "goal": "Understand rotation and revolution with a torch and a ball, see why the Earth's tilt matters, and meet Aryabhata, who said the Earth spins.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Earth, its poles, rotation and revolution (lesson page 162)",
+          "mins": 6,
+          "do": "Read the second half of lesson page 162 aloud, from 'Our earth is a planet of the sun' to the 365 days and 6 hours. Ask: 'What is rotation and how long does it take?' (Spinning on its axis; about 24 hours.) 'What is revolution and how long does it take?' (Going round the Sun; about 365 days and 6 hours.) Ask: 'What do we do with those extra 6 hours each year?' (Every 4 years they add up to about a day, so we add 29 February: a leap year.) Note: the book says the Earth is 'geoid/spherical'; geoid means almost a sphere but slightly flattened at the poles and bulging at the equator."
+        },
+        {
+          "kind": "exp",
+          "title": "Torch, ball and a tiny India",
+          "mins": 16,
+          "do": "Do Experiment e1 in a darkened room. Push a knitting needle or long pencil through a ball (or use a globe) as the axis, and stick a small paper dot on it for India. Your child holds a torch steady as the Sun. You tilt the axis slightly and slowly spin the ball from west to east (anticlockwise when looked at from above the North Pole). Ask your child to call out 'sunrise', 'noon', 'sunset' and 'midnight' as the India dot moves. Ask them to predict first: 'Is it day everywhere at once?' Then ask: 'When India has noon, what does the other side of the ball have?' (Night.) Then walk the tilted ball slowly round the torch in a big circle to show revolution, keeping the axis pointing the same way all the time.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Aryabhata: the Earth turns, not the sky",
+          "mins": 9,
+          "do": "Tell your child Voice v1: about 1,500 years ago in Kusumapura near Pataliputra (today's Patna), Aryabhata wrote that the Earth spins on its axis and that the stars only seem to move, like the trees seem to move backwards to a person in a moving boat. He also explained eclipses by the shadows of the Earth and Moon. Ask: 'When you sit in a moving train and look at the trees, what seems to move?' Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Shadow clock",
+          "mins": 9,
+          "do": "Stand a pencil upright in a lump of atta dough or clay on a sheet of paper in a sunny spot (balcony or terrace). Your child marks the tip of the shadow and writes the time. They will mark it again two more times today, an hour or more apart (ask them to set an alarm). Ask: 'Which way will the shadow move? Will it get longer or shorter towards noon?' Explain: 'The Sun seems to cross the sky because the Earth is turning. The shadow moves because we are moving.' Before sundials and clocks, people used shadows like this to tell time."
+        },
+        {
+          "kind": "review",
+          "title": "Fill-ins and Moon diary",
+          "mins": 5,
+          "do": "Ask question II of 'Let's see 11.1' on lesson page 163 aloud (rotation, 24 hours, revolution, 365 days and 6 hours). Then add today's box to the Moon diary (Activity a1).",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 162–163", "a ball (or globe) and a knitting needle or long pencil", "a small paper dot for India", "a torch", "a dark room", "a pencil, atta dough or clay, a sheet of paper, a sunny spot", "the Moon diary"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "The Moon and other satellites",
+      "goal": "Understand what a satellite is, model the phases of the Moon and the two pakshas, learn what man-made satellites do, and meet Galileo, who saw moons round another planet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.2 Planets and satellites, and the phases of the Moon (lesson pages 163–164)",
+          "mins": 7,
+          "do": "Read 11.2 and 11.2.1 on lesson pages 163–164 aloud and look at the 'Phases of the Moon' picture. Ask: 'What is the difference between a planet and a satellite?' (A planet goes round a star; a satellite goes round a planet.) 'Does the Moon make its own light?' (No, it reflects sunlight.) 'What is purnima? Amavasya?' (Full moon; new moon, when we cannot see it.) 'What are Shukla Paksha and Krishna Paksha?' (Shukla Paksha is the bright fortnight from amavasya to purnima, when the Moon grows; Krishna Paksha is the dark fortnight from purnima to amavasya, when it shrinks.) Ask: 'Which festivals fall on amavasya or purnima?' (Diwali on an amavasya; Holi, Raksha Bandhan and Guru Purnima on a purnima.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Phases with a lamp and a ball",
+          "mins": 14,
+          "do": "Do Experiment e2 in a dark room. Put a lamp without a shade (or a bright torch on a table) at one side of the room as the Sun. Your child is the Earth and holds a white ball or an orange on a pencil at arm's length, a little above their head, as the Moon. They turn slowly on the spot, anticlockwise, watching the ball. Ask them to predict first: 'Will the ball always look fully lit?' Stop at four places: ball towards the lamp (dark face, new moon), ball at the side (half lit), ball opposite the lamp behind your head (fully lit, full moon), ball at the other side (half lit on the other side). Ask: 'Did the ball's light ever change? What changed?' (Only how much of the lit half we could see.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "11.2.2 Natural and artificial satellites (lesson page 164)",
+          "mins": 6,
+          "do": "Read 11.2.2 on lesson page 164 aloud. Ask: 'What do artificial satellites do for us?' (Take pictures of the Earth for weather forecasts and forest fires, carry television and phone signals across the world, help maps and GPS find places.) Tell them: India's first satellite, named Aryabhata after the astronomer, went into orbit on 19 April 1975. ISRO, the Indian Space Research Organisation, now builds satellites for weather, TV and maps, and its Chandrayaan-3 mission landed near the Moon's south pole on 23 August 2023. Ask: 'When Dadi watches tomorrow's rain forecast on TV, which satellite work is helping her?'"
+        },
+        {
+          "kind": "think",
+          "title": "Galileo sees moons round Jupiter",
+          "mins": 9,
+          "do": "Tell your child Voice v2: in 1610 Galileo pointed his new telescope at Jupiter and saw four tiny 'stars' beside it that moved night after night. He worked out that they were going round Jupiter: moons of another planet. Ask: 'Why was that a big surprise for people who believed everything in the sky went round the Earth?' (It showed that not everything goes round the Earth.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 11.2 and Moon diary",
+          "mins": 9,
+          "do": "Ask 'Let's see, what you have learnt 11.2' on lesson pages 164–165 aloud: the four true-or-false statements and the three fill-in-the-blanks (artificial, information, 29½). Statement i is false: bodies that move round stars are planets, not satellites; statement iii is false: the bright full moon night is purnima, not amavasya. Then add today's box to the Moon diary (Activity a1) and ask: 'Are we in Shukla Paksha or Krishna Paksha now? How do you know?' (Growing Moon: Shukla; shrinking Moon: Krishna.)",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 163–165", "a lamp without a shade or a bright torch", "a white ball or an orange on a pencil", "a dark room", "the Moon diary"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Lines on the globe",
+      "goal": "Learn latitudes and longitudes, the equator, tropics, polar circles and the prime meridian, and use them to find India and other places.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.3 Latitudinal and longitudinal lines (lesson pages 165–166)",
+          "mins": 8,
+          "do": "Read 11.3 and 11.3.1 on lesson pages 165–166 aloud and look at the 'Lines of Latitude and Longitude' picture. Ask: 'Why do we need imaginary lines on the Earth?' (About 196 countries and countless towns; the lines make a grid so any place can be found.) 'What is a globe? A map?' (A model of the Earth; a globe printed flat on paper.) Make the directions clear, because the book's wording can confuse: latitude lines run across from east to west, like the rungs of a ladder, and tell you how far north or south a place is. Longitude lines run from pole to pole and tell you how far east or west a place is. Note: the book says 180 latitudes; counting each whole degree, there are 90 north, 90 south and the equator itself."
+        },
+        {
+          "kind": "act",
+          "title": "Draw the grid on an orange",
+          "mins": 15,
+          "do": "Do Activity a3. Take an orange (or a ball) and mark a dot at the top (North Pole) and bottom (South Pole). Your child draws with a marker: the equator round the middle; the Tropic of Cancer a little above (23½° N) and the Tropic of Capricorn a little below (23½° S); the Arctic Circle near the top (66½° N) and the Antarctic Circle near the bottom (66½° S). Then draw 6–8 longitude lines from pole to pole, like the segment lines inside a peeled orange (lesson page 166). Ask: 'Where are the longitude lines furthest apart? Where do they meet?' (Widest at the equator; they meet at the poles.) Colour the strip between the tropics and call it the hot belt.",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "11.3.2 Longitudes and the prime meridian (lesson page 166)",
+          "mins": 5,
+          "do": "Read 11.3.2 on lesson page 166 aloud. Ask: 'Where does the 0° longitude pass?' (Greenwich, in London, England.) 'How many longitudes are there?' (360: 180 east and 180 west of Greenwich.) 'What do the 0° and 180° longitudes together divide the Earth into?' (Eastern and Western Hemispheres.)"
+        },
+        {
+          "kind": "do",
+          "title": "Find India on the grid",
+          "mins": 11,
+          "do": "Open an atlas or a world map (or a map on the phone). Your child finds: the equator (it passes south of India, near Sri Lanka); the Tropic of Cancer (it passes through the middle of India, through states like Gujarat, Madhya Pradesh, Jharkhand, West Bengal, Tripura and Mizoram); the 0° line through England. Ask: 'Is India in the Northern or Southern Hemisphere? Eastern or Western?' (Northern and Eastern.) Find your own city on the map and read its latitude and longitude from the map edges or a phone map, and write them in the notebook: for example, Mumbai is about 19° N, 73° E; Kolkata about 22½° N, 88° E."
+        },
+        {
+          "kind": "review",
+          "title": "Moon diary",
+          "mins": 4,
+          "do": "Add today's box to the Moon diary (Activity a1). Ask your child to compare all the boxes so far and say whether the Moon has been growing or shrinking, and roughly how many days until the next purnima or amavasya.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 165–166", "an orange or a ball and markers", "an atlas, a world map or a phone map", "the Moon diary"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Different times and long and short days",
+      "goal": "Understand why clocks differ across the world and why India uses one standard time, and test why the Earth's tilt gives long and short days and seasons.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.3.3 Different times at different places (lesson page 167)",
+          "mins": 8,
+          "do": "Read 11.3.3 on lesson page 167 aloud. Ask: 'How many minutes of time difference are there between two longitude lines one degree apart?' (4 minutes, because the Earth turns 360° in 24 hours, so 1° in 4 minutes.) Work it out together for India: India stretches from about 68° E to 97° E, about 29°, so 29 × 4 = 116 minutes, nearly 2 hours. Ask: 'So does the Sun rise in Arunachal Pradesh before or after Gujarat?' (Almost 2 hours before.) Explain that India uses one clock time, Indian Standard Time, set by the 82½° E line, which passes near Prayagraj (Allahabad) and Mirzapur, so that trains, offices and TV all run on one time. It is 5 hours 30 minutes ahead of Greenwich time. Tell them some people in the North-East argue for a separate time zone because the Sun rises there so early."
+        },
+        {
+          "kind": "do",
+          "title": "Call a cousin abroad",
+          "mins": 7,
+          "do": "Ask your child: 'If it is 8 pm in India, what time is it in London, which is 5½ hours behind?' (2:30 pm.) 'In Dubai, 1½ hours behind?' (6:30 pm.) If you have relatives or friends abroad, look up their city's time on the phone clock and work out together whether it is a good time to call them. Finish the shadow-clock idea from Day 3: ask why a clock-time agreement is needed at all when the Sun 'tells' time. (Because sun-time is different at each longitude; trains and planes need one shared time.)"
+        },
+        {
+          "kind": "read",
+          "title": "11.4 Day and night becoming long and short (lesson pages 167–168)",
+          "mins": 7,
+          "do": "Read 11.4 on lesson pages 167–168 aloud and look at the picture. Ask: 'Why are days and nights not equal everywhere?' (The Earth's axis is tilted, so sunlight does not fall evenly.) 'What happens on 21 June?' (Sun's rays fall straight on the Tropic of Cancer; longest day and hottest time in the Northern Hemisphere.) 'On 22 December?' (Straight on the Tropic of Capricorn; shortest day in the north.) 'On 21 March and 23 September?' (Straight on the equator; day and night equal everywhere: the equinoxes.) 'Why is it always cold at the poles?' (Sun's rays fall slanting.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Straight rays and slanting rays",
+          "mins": 14,
+          "do": "Do Experiment e3. On a sheet of squared paper (or draw a grid of 1 cm squares), your child holds a torch straight down from 20 cm above and you trace the bright patch with a pencil. Then they tilt the torch at a slant from the same distance and you trace again. Ask them to predict first: 'Which patch will be brighter? Which will be bigger?' Count the squares in each patch. Ask: 'The same torch gives the same light. When it is spread over more squares, does each square get more or less?' (Less, so it heats less.) Explain that near the tropics in summer the Sun's rays fall nearly straight down and heat strongly; at the poles they slant and spread out, so it stays cold.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Catch the book's mistake",
+          "mins": 9,
+          "do": "Read the four lines in 'Let's Revise' on lesson page 169 beginning 'When the Earth is close to the sun it is hot...'. Ask your child: 'The book says the Earth is closest to the Sun on 3 January and farthest on 4 July. In India, is January hot or cold? Is July colder than January?' (January is winter; it is not colder in July.) 'So can closeness to the Sun be what makes summer?' (No.) Explain: the Earth's distance from the Sun changes only a little through the year. Seasons are caused by the tilt, as section 11.4 says, which is why Australia has summer in December while we have winter. Praise your child for checking the evidence instead of just believing the page. Then add today's box to the Moon diary (Activity a1).",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 167–169", "a phone clock showing world times", "squared paper or a hand-drawn 1 cm grid", "a torch, a pencil and a ruler", "the Moon diary"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Let us revise, check and teach it back",
+      "goal": "Review the whole lesson with the book's revision and exercises, finish the Moon diary, check understanding and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise with corrections (lesson pages 169–170)",
+          "mins": 7,
+          "do": "Read 'Let's Revise' on lesson pages 169–170 together. For each point your child says 'true' and names the model that showed it, or 'needs fixing'. Points to fix: the seasons line (tilt, not distance); the line saying horoscopes are made from Moon phases (calendars and tithis are; horoscopes are astrology, not science). Then finish the Moon diary (Activity a1): look at all the boxes and ask, 'What pattern do you see? Did the lit side switch sides?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 8,
+          "do": "Your child does Worksheet ws1 (core) on their own; it covers the book's exercise ideas on lesson pages 170–172. Check it together. For any mistake, re-do the torch and ball model for 1 minute.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch and challenge worksheets",
+          "mins": 10,
+          "do": "Do Worksheet ws2 (stretch) and then Worksheet ws3 (challenge) section A together; keep ws3 section B for a quiet talk at dinner tonight. Let your child think aloud; you only ask 'How do you know?'. Note: the book's answer key on lesson pages 172–173 has some slips (for example it gives 'oval' for the Earth being tilted, and swaps latitude and longitude in Exercise I); trust the lesson text and your models.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud one at a time without the book. Tick each answer given well. For a missed one, use the matching model again for one minute (planet walk, torch and ball, lamp and Moon ball, orange grid, torch on squares) and ask again in other words. Six or more right is good; fewer than five means repeat Days 3 and 4 next week.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher and the family are the students. In 5–7 minutes, using the ball and torch, the Moon ball, the orange grid and the Moon diary, they explain: the Sun and its eight planets; rotation (day and night) and revolution (the year); why the Moon has phases and what the two pakshas are; latitude, longitude and Indian Standard Time; and why the tilt causes seasons. The 'students' ask: 'Is it the Earth's shadow that makes the Moon's phases?' (No; that is an eclipse. Phases are how much of the lit half we see.) and 'Why don't we feel the Earth spinning?' (We move along with it smoothly, like in a smooth train.)"
+        }
+      ],
+      "need": ["Lesson pages 169–173", "Worksheets ws1, ws2 and ws3", "ball, torch, Moon ball, orange grid and Moon diary from the week"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Sun, Earth and Moon",
+      "day": 7,
+      "sections": [
+        ["A. The solar system", [
+          {"t": "fill", "p": "The Sun is a ____.", "a": ["star"]},
+          {"t": "fill", "p": "Celestial bodies that go around the Sun are called ____.", "a": ["planets", "planet"]},
+          {"t": "write", "p": "Write the eight planets in order from the Sun.", "lines": 2},
+          {"t": "mcq", "p": "Why is the Earth the only known planet with life?", "opts": ["It is the biggest planet", "It has air and liquid water and is not too hot or cold", "It is closest to the Sun", "It has rings"], "a": 1}
+        ]],
+        ["B. Earth's movements", [
+          {"t": "match", "p": "Match.", "pairs": [
+            ["Rotation", "Spinning on its axis in about 24 hours"],
+            ["Revolution", "Going round the Sun in about 365 days 6 hours"],
+            ["Orbit", "The fixed path round the Sun"],
+            ["Axis", "Imaginary line from North Pole to South Pole"]
+          ]},
+          {"t": "fill", "p": "Day and night happen because the Earth ____ on its axis.", "a": ["rotates", "spins", "turns"]}
+        ]],
+        ["C. Moon and satellites", [
+          {"t": "fill", "p": "The full moon night is called ____.", "a": ["purnima"]},
+          {"t": "fill", "p": "The fortnight from amavasya to purnima, when the Moon grows, is called ____ Paksha.", "a": ["Shukla", "shukla"]},
+          {"t": "mcq", "p": "The Moon shines because:", "opts": ["It makes its own light", "It reflects light from the Sun", "It is on fire", "The Earth lights it"], "a": 1},
+          {"t": "sort", "p": "Sort these.", "items": ["The Moon", "A weather satellite", "Jupiter's moon Io", "A TV satellite", "Chandrayaan-3 orbiter", "Saturn's moon Titan"], "cats": ["Natural satellite", "Artificial satellite"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Latitude, longitude and time",
+      "day": 7,
+      "sections": [
+        ["A. Lines on the Earth", [
+          {"t": "match", "p": "Match each line to where it is.", "pairs": [
+            ["Equator", "0° latitude"],
+            ["Tropic of Cancer", "23½° North"],
+            ["Tropic of Capricorn", "23½° South"],
+            ["Arctic Circle", "66½° North"],
+            ["Prime meridian", "0° longitude through Greenwich"]
+          ]},
+          {"t": "mcq", "p": "Which line passes through the middle of India?", "opts": ["The equator", "The Tropic of Cancer", "The Tropic of Capricorn", "The Arctic Circle"], "a": 1},
+          {"t": "draw", "p": "Draw a globe. Mark the poles, the equator, both tropics and two longitude lines. Mark roughly where India is."}
+        ]],
+        ["B. Working out time", [
+          {"t": "fill", "p": "The Earth turns 1° of longitude in ____ minutes.", "a": ["4", "four"]},
+          {"t": "write", "p": "Two towns are 10° of longitude apart. How different is their sun time? Show your working.", "lines": 2},
+          {"t": "write", "p": "Itanagar is far east of Ahmedabad. Why does the Sun rise much earlier there, though both clocks show the same Indian Standard Time?", "lines": 3},
+          {"t": "mcq", "p": "On 21 June, which has the longest day?", "opts": ["Delhi", "Sydney in Australia", "A place on the equator", "All have the same"], "a": 0}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like an astronomer",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles and what ifs", [
+          {"t": "write", "p": "The Earth is closest to the Sun on about 3 January, yet that is winter in India. Use this to explain what really causes seasons.", "lines": 4},
+          {"t": "write", "p": "What if the Earth's axis were not tilted at all? What would happen to seasons and to the length of days?", "lines": 4},
+          {"t": "write", "p": "A friend says the Moon's phases are the Earth's shadow falling on it. How would you use the lamp-and-ball model to show them why that is wrong?", "lines": 4},
+          {"t": "mcq", "p": "In Australia, which month is usually hottest?", "opts": ["June", "January", "July", "September"], "a": 1}
+        ]],
+        ["B. Weighing the voices", [
+          {"t": "write", "p": "Aryabhata said the Earth spins, but even some later Indian astronomers like Brahmagupta disagreed. Why is it hard to believe the Earth moves when it feels still?", "lines": 3},
+          {"t": "write", "p": "Galileo's moons of Jupiter changed people's minds. Why does seeing something with your own eyes (or a telescope) count as strong evidence?", "lines": 3},
+          {"t": "write", "p": "Should Pluto be called a planet? Give one reason for and one against, then your own decision.", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Torch, ball and a tiny India",
+      "day": 3,
+      "question": "How does the spinning of the Earth make day and night, and its trip round the Sun make a year?",
+      "need": ["a ball or globe", "a knitting needle or long pencil pushed through it as the axis", "a small paper dot for India", "a torch", "a dark room"],
+      "steps": [
+        "Stick the India dot on the ball a little above the middle.",
+        "Your child holds the torch steady and shines it at the ball from about 1 metre away.",
+        "Tilt the axis slightly and spin the ball slowly from west to east (anticlockwise seen from above the North Pole).",
+        "Your child calls out 'sunrise' when India enters the light, 'noon' when it faces the torch, 'sunset' when it leaves the light and 'midnight' when it is furthest in the dark.",
+        "Now carry the tilted ball slowly round the torch in a big circle, keeping the axis pointing the same way, to show one year."
+      ],
+      "predict": "Ask your child to guess first: is it day everywhere on the Earth at the same time? When India has noon, what does the far side have?",
+      "observe": "Half the ball is always lit and half dark. Each place passes from light to dark as the ball spins. During the walk round the torch, the North Pole half leans towards the torch at one side of the circle and away at the other.",
+      "why": "The Sun lights only the half of the Earth facing it. As the Earth rotates once in about 24 hours, each place is carried into the light (day) and then into the dark (night). The Sun looks as if it rises in the east and sets in the west because the Earth spins from west to east. While spinning, the Earth also revolves round the Sun once in about 365¼ days. Because the axis stays tilted the same way in space, the Northern Hemisphere leans towards the Sun for half the year (summer, long days) and away for the other half (winter, short days).",
+      "safety": "Do not shine the torch into anyone's eyes. Take care with the knitting needle point.",
+      "time": "16 min"
+    },
+    {
+      "id": "e2",
+      "title": "Moon phases with a lamp and a ball",
+      "day": 4,
+      "question": "Why does the Moon look a different shape on different nights?",
+      "need": ["a lamp without a shade or a bright torch on a table", "a white ball or an orange stuck on a pencil", "a dark room"],
+      "steps": [
+        "Put the lamp at one side of the room at about head height.",
+        "Your child stands a few steps away, holding the ball on the pencil at arm's length, slightly above the head.",
+        "They turn slowly on the spot anticlockwise, keeping the ball in front of the face.",
+        "Stop and look at four positions: ball towards the lamp, ball to the side, ball opposite the lamp, ball to the other side.",
+        "Draw the shape of the lit part seen at each position."
+      ],
+      "predict": "Ask your child to guess first: will the ball always look fully lit? Will the lit part ever disappear?",
+      "observe": "Towards the lamp, the side you see is dark (new moon). At the sides, half is lit (half moon, on opposite sides each time). Opposite the lamp, the whole face is lit (full moon). In between you see thin crescents and fat 'gibbous' shapes.",
+      "why": "The Moon has no light of its own. The Sun always lights the half of the Moon facing it. As the Moon goes round the Earth, about once every 29½ days from one full moon to the next, we see different amounts of that lit half. When the Moon is between the Earth and the Sun, the lit half faces away from us: amavasya. When the Earth is between, we see the whole lit half: purnima. The Indian lunar calendar counts the tithis of the bright fortnight (Shukla Paksha) and the dark fortnight (Krishna Paksha) from these phases. The Earth's shadow does not cause the phases; it falls on the Moon only during a lunar eclipse.",
+      "safety": "Do not look straight into the bulb. Keep the lamp cord out of the way while turning.",
+      "time": "14 min"
+    },
+    {
+      "id": "e3",
+      "title": "Straight rays and slanting rays",
+      "day": 6,
+      "question": "Why do places where sunlight falls at a slant stay cooler?",
+      "need": ["squared paper or a hand-drawn grid of 1 cm squares", "a torch", "a ruler", "a pencil"],
+      "steps": [
+        "Lay the squared paper flat on a table in a slightly dark room.",
+        "Your child holds the torch straight down, 20 cm above the paper.",
+        "The parent traces round the bright patch.",
+        "Keeping the torch 20 cm away, tilt it to a steep slant and trace the patch again.",
+        "Count the squares inside each patch and compare how bright each looked."
+      ],
+      "predict": "Ask your child to guess first: which patch will be bigger, and which will look brighter?",
+      "observe": "The straight-down patch is small, round and bright. The slanting patch is a stretched oval, covers many more squares and looks dimmer.",
+      "why": "The torch gives the same amount of light both times. Straight down, it is packed into a few squares, so each square gets a lot of light and heat. At a slant, the same light is spread over many more squares, so each gets less. The Sun works the same way. Because the Earth's axis is tilted, the half of the Earth leaning towards the Sun gets more direct rays and longer days, so it has summer. The poles always get slanting rays, so they stay cold. This is why seasons are caused by the tilt, not by the small change in the Earth's distance from the Sun.",
+      "safety": "Do not shine the torch into eyes.",
+      "time": "14 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Moon diary",
+      "day": 1,
+      "mins": 10,
+      "need": ["a notebook page with 7 boxes", "a pencil", "a calendar or panchang showing purnima and amavasya"],
+      "steps": [
+        "Draw 7 boxes, one for each lesson day, with space for date, time, shape and position.",
+        "Each evening (or early morning, if the Moon is up then), go out with your child and find the Moon.",
+        "Draw its shape and shade the dark part.",
+        "Note where it is: above which building or tree, and how high.",
+        "Write the tithi from the calendar if you can, and whether it is Shukla Paksha or Krishna Paksha.",
+        "At the end, look at all the boxes together and describe the pattern."
+      ],
+      "outcome": "A week of real Moon observations that shows the Moon growing or shrinking and the lit side, matched to the Indian calendar; your child sees the phases with their own eyes instead of only reading about them."
+    },
+    {
+      "id": "a2",
+      "title": "Walk the solar system",
+      "day": 2,
+      "mins": 18,
+      "need": ["a ball or big round fruit for the Sun", "8 paper chits labelled with the planets", "a long corridor, terrace or park"],
+      "steps": [
+        "Place the Sun at one end.",
+        "Use heel-to-toe steps (about 25 cm) as 'paces'.",
+        "Drop the chits at: Mercury 1 pace, Venus 2, Earth 3, Mars 4½, Jupiter 15, Saturn 28, Uranus 57, Neptune 90.",
+        "At each planet, say one true fact about it.",
+        "Stand at Earth and look back at the Sun and forward to Neptune.",
+        "Talk about how much empty space there is between the planets."
+      ],
+      "outcome": "A walking model that shows the planets in the correct order and how the outer planets are much further apart than the inner ones."
+    },
+    {
+      "id": "a3",
+      "title": "Grid on an orange",
+      "day": 5,
+      "mins": 15,
+      "need": ["an orange or ball", "markers in three colours"],
+      "steps": [
+        "Mark the North Pole at the top and the South Pole at the bottom.",
+        "Draw the equator round the middle in one colour.",
+        "Draw the Tropic of Cancer and the Tropic of Capricorn a little above and below it.",
+        "Draw the Arctic and Antarctic Circles near the poles.",
+        "Draw 6–8 longitude lines from pole to pole in another colour, one of them marked 0° (Greenwich).",
+        "Colour the strip between the tropics as the hot belt and mark roughly where India is."
+      ],
+      "outcome": "A hand-made globe that shows how latitude lines run round the Earth and longitude lines meet at the poles, and where India sits on the grid."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Aryabhata (476–about 550 CE), India",
+      "idea": "In his book the Aryabhatiya, written in 499 CE in Kusumapura (near Pataliputra, today's Patna), Aryabhata stated that the Earth spins on its axis, and that the stars only seem to move westward, just as a person in a boat moving forward sees the trees on the bank seem to move backward. He explained lunar and solar eclipses by the shadows of the Earth and the Moon, not by demons, and gave the length of the year very accurately.",
+      "then": "Several later Indian astronomers, including Varahamihira and Brahmagupta, did not accept that the Earth rotates, and some commentators even changed his words to say the opposite. His eclipse explanations and calculations, however, were widely used.",
+      "now": "His view that the Earth rotates is correct and is accepted by all scientists. India named its first satellite, launched in 1975, Aryabhata in his honour.",
+      "status": "accepted",
+      "ask": "Aryabhata could not see the Earth spin from space. What everyday evidence could make you believe the Earth turns, even though it feels perfectly still?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Galileo Galilei (1564–1642), Italy",
+      "idea": "In January 1610 Galileo looked at Jupiter through a telescope he had improved himself and saw four small points of light next to it that changed position night after night. He concluded they were moons going round Jupiter. He also saw that Venus shows phases like our Moon. He argued this supported Copernicus's idea that the planets, including the Earth, go round the Sun.",
+      "then": "Many scholars of his time held that everything in the heavens went round the Earth, and some refused even to look through his telescope. The Church authorities put him on trial in 1633, forced him to take back his views, and kept him under house arrest for the rest of his life.",
+      "now": "His observations are fully accepted. The four moons he found, Io, Europa, Ganymede and Callisto, are called the Galilean moons, and scientists now know Jupiter has dozens of moons. The Sun-centred solar system is the basis of all space travel, including ISRO's missions.",
+      "status": "accepted",
+      "ask": "Some people would not look through Galileo's telescope. If someone refuses to look at the evidence, can they still be right? What would you have said to them?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "The Pluto debate: the International Astronomical Union vote (2006) and critics such as Alan Stern",
+      "idea": "Pluto was discovered in 1930 by Clyde Tombaugh and called the ninth planet. From the 1990s astronomers found many similar icy bodies beyond Neptune, one (Eris, found in 2005) about as big as Pluto. In August 2006 the International Astronomical Union voted that a planet must orbit the Sun, be round from its own gravity, and have cleared its orbit of other objects. Pluto fails the third rule, so it was renamed a 'dwarf planet', leaving eight planets, as in the book.",
+      "then": "The vote was close and only a few hundred of the thousands of astronomers in the union took part. Alan Stern, who later led NASA's New Horizons mission that flew past Pluto in 2015, and others objected that the 'cleared its orbit' rule is unclear and that Pluto, with mountains, glaciers and moons, behaves like a planet.",
+      "now": "The official list has eight planets and most textbooks use it. But some planetary scientists still argue for a definition based only on whether a body is round, which would make Pluto and many moons 'planets'. The facts about Pluto are not in doubt; how to name and group it is still debated.",
+      "status": "debated",
+      "ask": "Pluto did not change in 2006; only the definition did. Is this argument about evidence or about words? Does it matter what we call it?",
+      "day": 2
+    }
+  ],
+  "check": [
+    {"q": "What is the difference between a star, a planet and a satellite?", "a": "A star, like the Sun, makes its own light and heat. A planet goes round a star. A satellite goes round a planet, like the Moon round the Earth."},
+    {"q": "Name the eight planets in order from the Sun.", "a": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."},
+    {"q": "What are rotation and revolution, and how long does each take?", "a": "Rotation is the Earth spinning on its axis, in about 24 hours, giving day and night. Revolution is the Earth going round the Sun, in about 365 days and 6 hours, giving a year."},
+    {"q": "Why does the Moon show phases?", "a": "The Sun lights half of the Moon. As the Moon goes round the Earth we see different amounts of the lit half, from none (amavasya) to all (purnima), in about 29½ days."},
+    {"q": "What are Shukla Paksha and Krishna Paksha?", "a": "Shukla Paksha is the bright fortnight from new moon to full moon, when the Moon grows; Krishna Paksha is the dark fortnight from full moon to new moon, when it shrinks."},
+    {"q": "Name two uses of artificial satellites.", "a": "Any two: weather forecasting, spotting forest fires, carrying TV and phone signals, GPS and maps, studying the Moon and planets."},
+    {"q": "Why is time different in different places, and what is Indian Standard Time based on?", "a": "As the Earth turns, the Sun reaches each longitude at a different time, 4 minutes later per degree. India uses one time, set by the 82½° East longitude near Prayagraj (Allahabad)."},
+    {"q": "What causes the seasons and long and short days?", "a": "The tilt of the Earth's axis: the half leaning towards the Sun gets straighter rays and longer days. It is not the distance from the Sun; the Earth is actually closest to the Sun in January."}
+  ]
+}

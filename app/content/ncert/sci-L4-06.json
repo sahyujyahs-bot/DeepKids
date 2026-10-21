@@ -1,0 +1,1177 @@
+{
+  "key": "ncert|sci|4|6",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 6,
+  "title": "Happy and Healthy Living",
+  "source": "NCERT Our Wondrous World, Class 4, Chapter 6 (pages 85–101), Reprint 2026-27",
+  "summary": "The chapter follows a grain of rice or wheat on its long journey from the farm to our plate and asks children to thank everyone (soil, water, sunlight, earthworms, cattle, farmers, sellers and cooks) who makes it possible. It then teaches mindful eating, not wasting food, regular play and yoga, enough sleep, and how to tell a safe touch from an unsafe one and speak up to a trusted adult.",
+  "goals": [
+    "By the end your child can tell the journey of a grain from sowing to the plate in the right order and say what soil, water, sunlight, earthworms, cattle, farmers, shopkeepers and cooks each contribute.",
+    "By the end your child can eat a small piece of food mindfully and explain what the tongue, teeth, saliva and nose each do, including why chewed rice or roti starts to taste sweet.",
+    "By the end your child can keep a simple record (food eaten and wasted, sleep times, pulse before and after exercise) and say what the record shows.",
+    "By the end your child can explain why the body needs exercise and sleep, measure how exercise changes pulse and breathing, and plan a week of healthy daily habits.",
+    "By the end your child can tell a safe touch from an unsafe touch, say 'No' firmly, and name at least three trusted adults they would tell.",
+    "By the end your child can explain that scientists still argue about some health ideas, such as exactly how screens at bedtime affect sleep, and say what evidence would help settle it."
+  ],
+  "words": [
+    [
+      "grain",
+      "the hard, dry seed of a grass-like crop such as rice, wheat, bajra or ragi, which we eat"
+    ],
+    [
+      "harvest",
+      "cutting and gathering a crop when it is ripe"
+    ],
+    [
+      "threshing",
+      "beating or treading the cut crop so the grains come away from the stalks"
+    ],
+    [
+      "ingredient",
+      "one of the things that are mixed together to make a dish, like atta, water and salt for a roti"
+    ],
+    [
+      "gratitude",
+      "the warm feeling of thanking someone for what they have done for us"
+    ],
+    [
+      "mindful eating",
+      "eating slowly while paying full attention to the look, smell, taste and feel of each bite and to how full we feel"
+    ],
+    [
+      "saliva",
+      "the watery juice in our mouth that softens food and starts to break it down"
+    ],
+    [
+      "texture",
+      "how something feels: crunchy, soft, smooth, rough, sticky"
+    ],
+    [
+      "balanced diet",
+      "meals with the right mix of foods: grains for energy, dals, milk or eggs for growing, and vegetables and fruit for protection, plus water"
+    ],
+    [
+      "pulse",
+      "the beat of the heart that you can feel on your wrist or neck as blood is pushed along"
+    ],
+    [
+      "posture",
+      "the way we hold our body when we sit, stand and walk"
+    ],
+    [
+      "trusted adult",
+      "a grown-up you know well who keeps you safe and listens to you, like a parent, grandparent or teacher"
+    ]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What makes us happy, and what is in our food",
+      "goal": "Start from your child's own happy moments, match favourite foods to their ingredients, and set up a grain-growing test that will run all week.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Happy bubbles (page 85)",
+          "mins": 7,
+          "do": "Open page 85 and read the first lines aloud: 'All of us feel happy at different times and for different reasons.' Ask: 'When do you feel happy?' Your child writes or says at least four answers for the bubbles on page 85, like the two already given ('When I eat my favourite food', 'When I play games'). Good answers are specific: 'when Nani tells stories', 'when I win at carrom', 'when it rains and we eat pakoras'. Then share one of your own. Ask: 'How many of our happy times have something to do with food, play, rest or people we love?' Circle those. Say: 'This chapter is about exactly these four things.'"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 1: Food and its ingredients (page 85)",
+          "mins": 13,
+          "do": "Do Activity 1 on page 85: your child draws lines connecting each food picture to its ingredients. Then make it real. Put out small bowls of atta, rice, urad dal, a few whole wheat grains, milk, sugar, poha and a potato, whatever you have. Name three dishes your family eats often and ask your child to pick out the ingredients of each: roti (atta, water, a little salt), idli or dosa (rice and urad dal), kheer (rice, milk, sugar), aloo poha (poha, potato, onion, peanuts). Ask: 'Which ingredient appeared in the most dishes?' (Usually rice or wheat.) Then ask: 'Is atta a plant? Where does it come from?' Good answer: 'It is wheat grains ground into powder; the grains grow on a wheat plant.' If stuck, show a whole wheat grain beside a pinch of atta."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the grain-growing test",
+          "mins": 17,
+          "do": "Set up Experiment e1, which tests page 100 Question 1 ('If the following are missing, what would happen to a food grain?'). Take five small cups or cut plastic bottles. Put 10 whole wheat grains in each (from a packet of whole wheat, or ask at a chakki; whole moong works if you have no wheat). Label them: 1 'Soil + water + sun', 2 'No water' (dry soil), 3 'No sunlight' (soil + water, kept in a cupboard), 4 'No soil' (wet cotton + sun), 5 'Soil + water + sun + earthworm' only if you can find an earthworm in a garden bed; otherwise use four cups. Cover the grains with a thin layer of soil in the soil cups. Before you finish, ask your child to predict which cups will sprout, which will grow strongest after two weeks, and why. Write the predictions on a sheet and stick it on the fridge.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Where did today's lunch come from?",
+          "mins": 8,
+          "do": "Ask your child to think about one food they ate today, for example rice. Ask: 'Who did we buy it from? Where did the shopkeeper get it? Who grew it? What did the plant need to grow?' Let them go as far back as they can; write each answer in a chain on paper with arrows: plate ← cook ← shop ← truck ← mill ← farmer ← field. Do not correct the order yet. Say: 'Tomorrow the book shows us the real journey in 12 pictures, and we will check your chain.'"
+        }
+      ],
+      "need": [
+        "Textbook page 85 and page 100",
+        "small bowls of atta, rice, urad dal, whole wheat grains, poha, milk or whatever you have",
+        "50 whole wheat grains (or whole moong)",
+        "5 small cups or cut plastic bottles",
+        "garden soil",
+        "cotton wool",
+        "labels and a pencil"
+      ],
+      "prep": [
+        {
+          "task": "Buy or set aside a handful of whole wheat grains and find a little garden soil and 5 small cups",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The journey of the grain",
+      "goal": "Follow the grain from field to plate in the book's 12 pictures, feel how much work turning grain into flour takes, and meet Darwin's earthworms.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the grain cups",
+          "mins": 3,
+          "do": "Look at the cups from Experiment e1. Ask: 'Has anything changed?' In wet cups the grains may already look swollen. Your child draws each cup with today's date. Add a few spoons of water to every cup except cup 2 (no water).",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Journey of the Grains (pages 86–87)",
+          "mins": 12,
+          "do": "Read the first paragraph on page 86 aloud. Then look at the 12 numbered pictures on pages 86–87 one at a time. For each picture ask: 'What is happening here? Who is working? What else is helping: animals, water, sun, a machine?' Let your child tell the whole story in order in their own words. The journey usually runs: preparing and ploughing the field, sowing seeds, watering, the crop growing in the sun, harvesting, threshing, storing and transporting the grain, selling it, milling or cleaning, cooking at home, and eating. Compare with yesterday's chain: 'What did we miss?' Then read the paragraph at the bottom of page 87 aloud: the efforts of people and animals, and water, soil and sunlight, make this journey possible."
+        },
+        {
+          "kind": "act",
+          "title": "Be the flour mill",
+          "mins": 15,
+          "do": "Do Activity a1. Give your child two tablespoons of whole wheat grains and a mortar and pestle (khalbatta, or a sil-batta, or a steel glass on a strong plate). They pound and grind for 5 minutes, then sieve through a tea strainer. Ask: 'How much atta did you get? How tired are your arms?' Show them the bran (the brown flakes left in the strainer) and say it is the grain's outer coat, full of fibre. Add a few drops of water to the atta and make a tiny dough ball; you can roast it on the tawa. Ask: 'If it took you 5 minutes for one spoon of atta, how long would it take to make atta for the whole family's rotis by hand?' Tell them that this was how most Indian families made flour until chakkis and mills became common.",
+          "ref": "a1"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 2: What helps the grain? (page 88)",
+          "mins": 8,
+          "do": "Do Activity 2 on page 88. Your child ticks the things that help a grain on its journey: soil, farmer, earthworm, air, water, insect and bat should get ticks (insects such as bees pollinate many crops, though wheat and rice are mostly pollinated by the wind; bats eat pests and some bats pollinate fruit trees). Stone, wood, tiger, hills and fire are less direct; accept a tick with a sensible reason ('a tiger keeps deer from eating the crop' is a real ecological idea). Then answer aloud: 'What is the role of farmers in this process?' Good answer: 'They prepare the soil, choose and sow the seed, water, remove weeds, protect the crop and harvest it.'"
+        },
+        {
+          "kind": "think",
+          "title": "Darwin's earthworms",
+          "mins": 7,
+          "do": "Tell your child the story in Voice v1 in your own words: Charles Darwin spent about 40 years on earthworms and showed that they make and mix soil. Ask: 'Earthworm was on the page 88 list. What do you think it does for the grain?' (It loosens the soil so roots and water can get in, and its droppings, called castings, make the soil rich.) Then ask the voice question and let your child answer fully before you share your view.",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "Textbook pages 86–88",
+        "2 tablespoons whole wheat grains",
+        "a mortar and pestle, sil-batta, or a steel glass and strong plate",
+        "a tea strainer",
+        "a tawa (optional)"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Everyone who feeds us, and saying thank you",
+      "goal": "List the role of each helper in the grain's journey, dig for earthworms, meet M.S. Swaminathan, and thank the people behind our food.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Grain cups check-in",
+          "mins": 3,
+          "do": "Check Experiment e1. Wheat usually shows white root tips and the first shoot within 2–3 days. Ask: 'Which cups have sprouted? Has the dark cup sprouted? Has the cotton cup sprouted without soil?' Often both have, because a grain uses its own stored food to start. Your child records 'sprouted / not yet' for each cup and waters cups 1, 3, 4 and 5.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Roles of the helpers (pages 88–89)",
+          "mins": 10,
+          "do": "Read the question at the bottom of page 88: 'Can you list the roles of the different elements involved in this journey?' Your child writes one line for each on pages 88–89. Listen for: (a) Soil holds the roots and gives the plant water and minerals. (b) Water lets the seed sprout and carries minerals up into the plant; the farmer irrigates when rain is not enough. (c) Farmer ploughs, sows, waters, weeds, protects and harvests. (d) Cattle pull the plough and the bullock cart, tread the crop for threshing in some villages, and their dung becomes manure. (e) Shopkeeper buys grain in bulk, stores it safely and sells it to us in small amounts. (f) Family members buy, clean, cook and serve the food. (g) Any other: sunlight (the plant makes its food with it), truck drivers, mill workers, bees and earthworms. If your child misses sunlight, ask: 'What did the leaves need from the sky?'"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Earthworm hunt",
+          "mins": 10,
+          "do": "Go to a garden bed, a potted plant or a patch of damp soil (after watering or rain is best). Dig gently with a spoon to a depth of about two fingers. Look for earthworms, their tunnels and their castings (little curly piles of fine soil on the surface). Let your child hold a worm on a wet palm for a few seconds and look at the rings on its body. Ask: 'Is the soil near the worm loose or hard? Dark or pale?' Put the worm back where you found it and cover it. If you can spare one, add it gently to cup 5 of Experiment e1. Wash hands with soap afterwards."
+        },
+        {
+          "kind": "think",
+          "title": "M.S. Swaminathan and India's wheat",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: M.S. Swaminathan from Tamil Nadu helped bring new wheat varieties to Indian farms in the 1960s, when India did not grow enough food and had to bring grain on ships from other countries. Then tell the second half honestly: later, using too much fertiliser, pesticide and groundwater damaged soil and water in some places, and Swaminathan himself warned about this. Ask: 'Which helpers from page 88 got hurt when too many chemicals were used?' (Soil, water, earthworms, insects.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 3: Thank You Everyone! (pages 89–90)",
+          "mins": 14,
+          "do": "Do Activity a2. In the space on page 89, your child writes one food (for example 'rice') and the names of everyone they want to thank for it. Then make a bigger 'Thank-you chain' poster: draw the grain's journey as a chain of circles, and in each circle draw a helper and write one thank-you line ('Thank you, earthworm, for loose soil', 'Thank you, Ramesh bhaiya at the kirana shop'). Read the box on page 90 together: Makar Sankranti, Akshaya Tritiya, Raja (Raja Parba in Odisha), Onam and Lohri are times when people thank nature for food. Ask: 'Which of these does our family celebrate, and what do we eat then?' Read the line at the top of page 90: remembering the helpers makes each grain feel important. If possible, your child says thank you in person to one helper this week: the vegetable seller, the cook, or a farmer relative on the phone.",
+          "ref": "a2"
+        }
+      ],
+      "need": [
+        "Textbook pages 88–90",
+        "a spoon for digging",
+        "chart paper and colours",
+        "soap for washing hands"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Mindful eating",
+      "goal": "Eat one peanut the way the class does on pages 91–92, discover what the tongue, teeth, nose and saliva each do, and start two longer tests: a bread-and-hands test and a sleep diary.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The peanut circle (pages 91–92)",
+          "mins": 5,
+          "do": "Read the story on page 91 aloud: the teacher asks students to sit in a circle, close their eyes and feel a peanut on their palm. Then read the six instructions (a) to (f) at the top of page 92. Ask: 'Why did the teacher ask them to close their eyes?' Good answer: 'So they would pay attention to touch, smell and taste without being distracted by seeing it.'"
+        },
+        {
+          "kind": "do",
+          "title": "Mindful eating, our way",
+          "mins": 10,
+          "do": "First check that your child is not allergic to peanuts; if there is any doubt, use a raisin, a piece of jaggery or a roasted chana instead. Both of you wash hands with soap. Your child closes their eyes and you place one peanut on their palm. Read the six steps from page 92 slowly, pausing after each: feel it on the palm, put it in the mouth slowly, feel its surface with the tongue, chew gently, notice the taste and smell, and notice the texture before swallowing. Afterwards ask the three page 92 questions. Good answers: 1. The tongue feels the shape, moves the food around and tastes salty, sweet, sour and bitter. 2. The teeth cut and crush the food into small pieces (front teeth bite, back teeth grind). 3. The food gets wet with saliva, becomes soft and mushy and turns into a small ball that we can swallow. Then try one more: hold the nose and chew a piece of apple or a bit of onion. Ask: 'Can you taste it properly?' (Much less; most of what we call flavour comes from smell.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Why does chewed roti taste sweet?",
+          "mins": 8,
+          "do": "Do Experiment e2. Give your child a small piece of plain roti or a spoon of plain boiled rice, with no salt, ghee or sabzi. They chew it slowly without swallowing for one full minute (use a phone timer) and say every 15 seconds how it tastes. Ask them to guess first whether the taste will change. Most children notice it starts to taste slightly sweet after about a minute. Explain using the 'why' of e2: saliva has a helper chemical that breaks the starch in rice and wheat into sugar, so digestion begins in the mouth. Ask: 'So what is one good reason to chew food well?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Charaka's rules for eating",
+          "mins": 6,
+          "do": "Tell the story in Voice v3 in your own words: the Charaka Samhita, an Ayurveda text from about 2,000 years ago, called food, sleep and a well-controlled way of living the three supports of life, and advised eating with attention, not too fast and not too slowly. Read the paragraph on page 92 that begins 'Mindful eating is about paying attention' and ask: 'Which of Charaka's advice does our textbook also give?' Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the bread-and-hands test",
+          "mins": 11,
+          "do": "Set up Experiment e3, which shows why we wash hands before we eat. Take 4 slices of the same bread and 4 zip-lock bags. Label them: 'Not touched', 'Dirty hands', 'Water only', 'Soap and water'. Using a clean spoon, drop slice 1 into its bag without touching it. Your child rubs slice 2 all over with unwashed hands (after playing or touching a doorknob), then rinses hands with water only and rubs slice 3, then washes with soap for 20 seconds (sing 'Happy Birthday' twice) and rubs slice 4. Seal each bag, tape it shut and put all four in the same dark cupboard. Ask your child to predict which slice will grow the most mould. Rule: never open the bags; when the test is over, throw them away sealed.",
+          "ref": "e3"
+        },
+        {
+          "kind": "act",
+          "title": "Start the sleep and reaction diary",
+          "mins": 5,
+          "do": "Start Activity a5 now, so that by Day 7 you have the three nights the page 97 table asks for. Copy the page 97 table into the notebook with two extra columns: 'Ruler catch (cm)' and 'Screen in the last hour before bed? (yes/no)'. Show your child the ruler-drop test: you hold a 30 cm ruler at the top, they hold thumb and finger open at the 0 mark, you drop it without warning and they catch it; read off the cm at their fingers. Do 3 catches and write the middle score. Each morning from now until Day 7, they write when they slept, when they woke, how they felt (a: fresh, b: lazy, c: sleepy) and do the ruler catch.",
+          "ref": "a5"
+        }
+      ],
+      "need": [
+        "Textbook pages 91–92 and 97",
+        "a few peanuts (or raisins or roasted chana if there is an allergy)",
+        "a slice of apple or onion",
+        "a small piece of plain roti or plain rice",
+        "4 slices of the same bread and 4 zip-lock bags",
+        "tape and a marker",
+        "a 30 cm ruler",
+        "soap",
+        "a phone timer"
+      ],
+      "prep": [
+        {
+          "task": "Buy a small packet of bread and zip-lock bags; check for any peanut allergy",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Every grain is precious",
+      "goal": "Think about food waste, start the week-long food record from page 93, decide what to do with extra or disliked food, and check the main ideas so far.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Grain cups and bread bags check",
+          "mins": 4,
+          "do": "Check Experiment e1: your child measures the tallest shoot in each cup with a ruler and notes its colour. The dark cup's shoots are usually pale yellow and thin; the cotton cup is green but may soon look weaker. Then look at the bread bags from Experiment e3 through the plastic without opening them, and note any spots. Water the grain cups as before.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Valuing Food (page 93)",
+          "mins": 6,
+          "do": "Read the paragraph on page 93 aloud: 'Every grain is precious... When we waste food, we fail to respect the hard efforts of everyone who helped bring food to our plate.' Ask: 'Think of our grain journey. If you throw away half a roti, whose work is thrown away?' Good answer: the farmer, the cattle, the earthworms, the water and sunlight, the mill, the shopkeeper and the cook. Then ask the two questions at the bottom of page 93. Good answers: 1. 'If someone offers more than I need, I say politely, “Thoda hi, please, just a little,” and ask for more later if I am still hungry.' 2. 'If I do not like something, I take a very small amount and try it, or I tell the cook kindly before it is served, not after.'"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 4: My food record and the family waste check",
+          "mins": 12,
+          "do": "Start Activity a3. Copy the page 93 table into the notebook (Day, Breakfast, Lunch, Dinner, Did you eat fully?, Did you waste?, How do you feel?) and fill in today's meals so far, with a smiley or a sad face. Then add the family part: keep a small steel bowl near the sink for the next seven days. After each meal, everyone scrapes leftover food from their plate into it. Before you empty it each night, your child weighs it on the kitchen scale (or counts the spoonfuls) and writes the amount. Ask: 'Which meal do you think we waste most at? Why?' Write the guess down."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: From farm to plate",
+          "mins": 15,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For the ordering items let your child lay out small slips of paper first. Mark answers together; for each wrong one, turn back to the page in the book: grain journey pages 86–88, thank-you page 89–90, mindful eating page 92, valuing food page 93.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "talk",
+          "title": "Leftovers into new food",
+          "mins": 8,
+          "do": "Ask your child: 'Food that is left in the pot, not on a plate, is not waste yet. What do Indian kitchens make from leftovers?' Collect answers together: leftover rice becomes lemon rice, curd rice or kheer; stale roti becomes a crunchy roti chivda or a sweet churi; leftover dal goes into dal paratha. Ask: 'Which one shall we make this week?' Let them choose and help cook it on a day of your choice. Note the difference: food left in the pot can be saved; food that sits half-eaten on a plate usually cannot."
+        }
+      ],
+      "need": [
+        "Textbook page 93",
+        "a ruler",
+        "a small steel bowl",
+        "a kitchen scale (or a tablespoon)",
+        "worksheet ws1",
+        "notebook and pencil",
+        "slips of paper"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Enjoy sports and yoga",
+      "goal": "Name the games and activities on pages 94–95, measure how exercise changes the pulse and breathing, and learn five easy yoga poses.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Enjoy Sports (pages 94–95)",
+          "mins": 7,
+          "do": "Look at the big picture on page 94. Ask your child to point to and name every activity people are doing. Then ask the two questions on page 95: 'Which physical activities do you do in your daily life?' (walking to the bus stop, climbing stairs, cycling, skipping, playing tag, sweeping) and 'How do you feel on a day when you play a lot?' (tired but happy, hungry, sleep well). Then name the games in the pictures on page 95. Ask: 'Which of these have you played? Which would you like to learn?' Tell them about one game you played as a child, such as kho-kho, kabaddi, lagori (pithoo) or gilli-danda, and its rules."
+        },
+        {
+          "kind": "exp",
+          "title": "Pulse and breathing before and after skipping",
+          "mins": 15,
+          "do": "Do Experiment e4. Show your child how to find their pulse: two fingers (not the thumb) on the inside of the wrist below the thumb, or on the side of the neck. Sit quietly for 2 minutes. Count the beats in 15 seconds and multiply by 4; then count breaths (one breath = in + out) in 30 seconds and multiply by 2. Write both down. Ask them to guess what will happen after one minute of skipping. Skip (or do jumping jacks or run on the spot) hard for one minute, then count pulse and breathing again straight away, and again after 2 and 5 minutes of rest. Make a table. A resting pulse for a child this age is often around 70–110 beats a minute and can rise above 140 after hard skipping. Read the 'why' of e4 together.",
+          "ref": "e4"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 5: Five easy yoga poses (page 95)",
+          "mins": 15,
+          "do": "Look at the easy yoga poses on page 95 and practise them together, along with Activity a4, a five-pose sequence: Tadasana (mountain pose), Vrikshasana (tree pose), Bhujangasana (cobra pose), Balasana (child's pose) and Shavasana (lying still, resting). Hold each for 5 slow breaths. Do it on a mat or folded bedsheet, on an empty stomach or two hours after a meal. Never force a stretch. Ask after each: 'Where do you feel it working?' (Tree pose: the standing leg and balance; cobra: the back and tummy.) Plan to repeat the sequence every morning for a week, as page 95 asks, and record in the notebook: 'Today I could hold tree pose for ___ breaths.'",
+          "ref": "a4"
+        },
+        {
+          "kind": "read",
+          "title": "Why we need to move (page 96)",
+          "mins": 5,
+          "do": "Read page 96 aloud: regular activities like playing in open fields, running, jumping, cycling and skipping keep us strong and energetic, and yoga improves posture. Tell your child that 'Khel Yoga' is the NCERT book on physical education for their class, full of more games. Ask: 'From our skipping test, what did your heart do when your muscles worked hard? What do you think happens to a heart that gets this kind of practice every day?' (It gets stronger, like any muscle.)"
+        },
+        {
+          "kind": "act",
+          "title": "Sleep diary and food record",
+          "mins": 3,
+          "do": "Fill in today's row of the food record from Activity a3 and check that this morning's row of the sleep diary from Activity a5 is done, including the ruler catch. Ask: 'Did you sleep before or after 9:30 last night? How was your ruler catch today?'",
+          "ref": "a5"
+        }
+      ],
+      "need": [
+        "Textbook pages 94–96",
+        "a skipping rope (or space for jumping jacks)",
+        "a phone stopwatch",
+        "a yoga mat or folded bedsheet",
+        "notebook"
+      ],
+      "prep": [
+        {
+          "task": "Clear a space for skipping and yoga; plan the session at least an hour after a meal",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Sleep well too",
+      "goal": "Read page 97, look at three nights of our own sleep records, understand why the body needs rest, and weigh a live debate about screens and sleep.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Yoga and the grain cups",
+          "mins": 6,
+          "do": "Do the five-pose yoga sequence from Activity a4 (about 4 minutes). Then check Experiment e1 for 2 minutes: measure the tallest shoot in each cup. Ask: 'Which cup looks healthiest now? Is the dark cup still yellow?'",
+          "ref": "a4"
+        },
+        {
+          "kind": "read",
+          "title": "Sleep Well too! (page 97)",
+          "mins": 7,
+          "do": "Read the question at the top of page 97 aloud: 'What do you think would happen if you did not sleep well after a day of lots of play?' Let your child answer. Then read the paragraph at the bottom of page 97: good sleep takes away tiredness; without it we find it hard to focus and feel tired, sleepy and irritable. Ask the two page 97 questions. Good answers: 1. 'While we sleep, our muscles rest and repair, our body grows, and our brain sorts and stores what we learnt during the day.' 2. 'Yes, after exercise the muscles have been worked hard and need time to recover.' Tell them that children of 6–12 years are generally advised to get about 9–12 hours of sleep a night."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 6: Our sleep table (page 97)",
+          "mins": 12,
+          "do": "Open the diary from Activity a5. Your child copies the last three nights into the page 97 table: when they slept, when they got up, duration of sleep, and how they felt (a: fresh, b: lazy, c: sleepy). Help work out duration: from 9:30 pm to 6:30 am is 9 hours (count on the clock face: 9:30 to 12:00 is 2½ hours, then 12 to 6:30 is 6½ hours). Then look at the extra columns: 'Were your best ruler catches (the smallest numbers) on the days after the longest sleep? Did you feel fresher after nights with no screen before bed?' Be honest with your child: three days is very few, so we cannot be sure of a pattern; scientists use many people and many nights.",
+          "ref": "a5"
+        },
+        {
+          "kind": "think",
+          "title": "Screens and sleep: a live debate",
+          "mins": 8,
+          "do": "Tell the story in Voice v4 in your own words. Make it clear that scientists agree screens close to bedtime tend to push sleep later, but they still argue about why: is it the light from the screen, or is it that games and videos keep us excited and awake? Ask the voice question and help your child design a fair test in words (for example: same bedtime for a week, half the nights with a book, half with a phone set to very dim, same show or game each time).",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Eat, move, rest",
+          "mins": 12,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to use what they measured: pulse readings, sleep hours and food records. Use the real numbers from their own tables where the worksheet asks for them. Let them answer the write items aloud while you scribe if writing slows them down.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Textbook page 97",
+        "the sleep diary",
+        "a yoga mat",
+        "a ruler",
+        "worksheet ws2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Feeling safe",
+      "goal": "Learn the difference between a safe and an unsafe touch, practise saying 'No' firmly, and name the trusted adults your child would tell.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Feelings check",
+          "mins": 5,
+          "do": "Sit close and comfortably, with no rush. Say: 'Today we will talk about feeling safe. There are no wrong answers and you are not in trouble for anything you say.' Ask: 'Where in your body do you feel it when you are scared? When you are happy?' (Butterflies in the tummy, a fast heartbeat, tight hands; a warm feeling, smiling.) Tell them that this 'uh-oh' feeling inside is useful: it is their body's alarm saying something is not right."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 7: Comfortable or uncomfortable? (page 98)",
+          "mins": 10,
+          "do": "Read the top of page 98 aloud. Look at each picture in Activity 7 together. For each one, your child puts a tick if the child would feel comfortable and a cross if uncomfortable, and says why. Do not hurry them. Ask for each: 'How do you think the child in the picture feels? What could they do?' If your child is unsure about one, talk it through: 'A touch can be from someone the child knows and still feel wrong. What matters is how it makes the child feel.'"
+        },
+        {
+          "kind": "read",
+          "title": "Safe touch and unsafe touch (page 99)",
+          "mins": 8,
+          "do": "Read the paragraph at the top of page 99 aloud: a safe touch is like a comforting hug from your mother or another family member that makes you happy; an unsafe touch makes you feel uneasy, scared, confused or uncomfortable, whether it is from someone you know or a stranger. Add these clear family rules, said calmly: 'The parts of your body covered by your swimming costume or underwear are private. No one should touch them, look at them or take pictures of them, except a doctor checking you with Mummy or Papa there, or a grown-up helping you wash when you are ill. No one should ask you to touch theirs. And there are no secret touches: if someone says “Don't tell anyone,” that is exactly when you must tell.' Then read the boxed line: if anyone makes you feel uncomfortable, it is okay to say 'No' and tell a trusted adult; you do not have to feel guilty."
+        },
+        {
+          "kind": "act",
+          "title": "My safety hand and saying 'No'",
+          "mins": 15,
+          "do": "Do Activity a6. Your child traces their hand on paper and writes one trusted adult on each finger: people they could tell anything, at home and away from home (for example Mummy, Papa, Dadi, class teacher, Meena masi). On the palm, write the Childline number 1098 (a free 24-hour helpline for children in India, also reachable through 112). Then practise the three page 99 questions as role-play. Show the body language: stand tall, look at the person, hold up a hand and say loudly 'No! I don't like that!', then move away and go to a trusted adult. Practise three times, getting louder. Ask the page 99 questions: 1. What would you do if someone's touch made you feel uncomfortable? (Say No, go away, tell.) 2. Who would you tell? (Names from the safety hand; if the first person does not listen, tell the next one.) 3. Two situations to say No firmly: for example, someone asking to see your private parts, someone offering a sweet to go with them, or a tickle that does not stop when you say stop. Finish by saying clearly: 'If anything ever happens, it is never your fault, and I will always believe you and help you.'",
+          "ref": "a6"
+        },
+        {
+          "kind": "exp",
+          "title": "Bread bags and the grain cups",
+          "mins": 7,
+          "do": "End the day with something light. Look at the four bread bags from Experiment e3 without opening them. By now there may be fuzzy spots of mould. Your child draws each slice and counts or estimates the spots. Ask: 'Which slice has the most? Did soap make a difference?' Then water the grain cups (Experiment e1).",
+          "ref": "e3"
+        }
+      ],
+      "need": [
+        "Textbook pages 98–99",
+        "paper and a pencil for tracing",
+        "colour pens",
+        "the four bread bags (still sealed)"
+      ],
+      "prep": [
+        {
+          "task": "Decide with your family who your child's trusted adults are, so you can suggest names",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Results, balanced plates and harder thinking",
+      "goal": "Finish the grain and bread tests, answer page 100 Question 1 with our own evidence, design balanced plates, and try the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Grain test results (page 100, Question 1)",
+          "mins": 10,
+          "do": "Finish Experiment e1. Your child fills in a results table: cup, sprouted yes/no, tallest shoot in cm, colour, how strong it looks. Typical results: cup 1 (soil + water + sun) tall and green; cup 2 (no water) did not sprout; cup 3 (no sunlight) sprouted but tall, thin and yellow; cup 4 (no soil) sprouted and is green but thinner and starts to droop as its stored food runs out; cup 5 with an earthworm may look like cup 1, since a single cup is too short a test to see much difference. Now answer page 100 Question 1 in the table: for each missing element (soil, water, sunlight, cattle, earthworm, farmer, shopkeeper, cook) write what would happen to a food grain. Good answers: no soil, no minerals and nothing to hold the roots; no water, the seed never sprouts; no sun, the plant cannot make food and stays weak; no earthworm, the soil gets hard and less rich; no farmer, no one sows, protects or harvests; no shopkeeper, the grain does not reach the town; no cook, the grain stays hard and uncooked.",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Bread test results",
+          "mins": 5,
+          "do": "Lay out the four sealed bread bags from Experiment e3 for a last look. Never open them. Ask: 'Which slice has the most mould? The least?' Usually the dirty-hands slice is worst, water-only is in between, and soap-washed is close to the untouched slice. Read the 'why' of e3. Then throw all four bags away sealed, in the dustbin outside, and wash hands.",
+          "ref": "e3"
+        },
+        {
+          "kind": "act",
+          "title": "Design a balanced plate (page 100, Question 2)",
+          "mins": 15,
+          "do": "Do Activity a7 for page 100 Question 2. Explain the three jobs of food first: 'energy foods' (rice, roti, millets, potatoes) to run and play; 'body-building foods' (dal, rajma, chana, milk, curd, paneer, eggs, fish) to grow and repair; 'protective foods' (vegetables and fruits) to help the body fight illness; plus water. Your child draws a breakfast, a lunch and a dinner plate in the boxes on page 100, with foods they really like, and colours each food by its group: yellow for energy, red for body-building, green for protective. Check each plate has all three colours. Ask: 'Is your plate the right size for your hunger, so nothing is wasted?'",
+          "ref": "a7"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 15,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views. Your child can answer the write items aloud while you scribe. There is no single right answer for section C; praise reasons that use evidence ('because in my pulse test...', 'because in our grain cups...').",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "Textbook page 100",
+        "the grain cups and a ruler",
+        "the four sealed bread bags",
+        "colour pencils",
+        "worksheet ws3"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "My healthy habits, check and teach it back",
+      "goal": "Look at the food-waste record, answer the page 101 questions, make a weekly habit plan, check understanding, and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "What did our food record show?",
+          "mins": 6,
+          "do": "Look at Activity a3 together: your child's smiley table and the family's leftover bowl numbers. Ask: 'At which meal did we waste the most? Was your guess right? What is one change we can make?' (Smaller first helpings, serving children last so they choose the amount, saving pot leftovers for the next meal.) Ask the page 101 Question 3: 'Which activities did you enjoy during your mindful eating?' and Question 4: write the names of exercises and games your child will practise to keep the body strong.",
+          "ref": "a3"
+        },
+        {
+          "kind": "act",
+          "title": "Daily habit plan (page 101, Question 5)",
+          "mins": 9,
+          "do": "Fill in the page 101 table with your child: for each habit (wake up early, yoga and exercises, eat a balanced diet on time, exercise and play, less TV and mobile, read a book, sleep peacefully) they write a real plan with a time or number, for example: 'Wake up at 6:30', 'Yoga sequence before school', 'No screen after 8:30 pm', 'Lights off at 9:15'. Then make it a 'Family Fitness League' for the next three weeks: each family member earns one point a day for 30 minutes of active play, one for sleeping on time and one for an empty plate; put the score sheet on the fridge and promise a handmade medal at the end. Remind them of Charaka's three supports from Voice v3: food, sleep and a well-ordered way of living.",
+          "ref": "v3"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, and let your child answer without the book. Tick the ones answered well. For a missed answer, open the page together for a minute (grain journey pages 86–89, mindful eating page 92, food waste page 93, exercise pages 94–96, sleep page 97, safety pages 98–99), then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 2 grain journey and the Day 6 pulse test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is now the teacher and you (or a grandparent or sibling) are the student. In 5–7 minutes they must teach the chapter using real things from the fortnight: the grain cups, the thank-you chain poster, the pulse table, the sleep diary and their balanced plate drawing. They should cover: the journey of a grain and its helpers; why we chew well and do not waste; why exercise and sleep matter, with their own numbers; and what to do if a touch feels unsafe. As the 'student', ask two questions such as 'Why did your dark-cup wheat turn yellow?' and 'Why did your pulse go up after skipping?' End with a round of the five-pose yoga sequence together and a reminder of the trusted adults on the safety hand."
+        }
+      ],
+      "need": [
+        "Textbook pages 100–101",
+        "the food record and leftover numbers",
+        "the thank-you chain poster, pulse table, sleep diary and plate drawings",
+        "a sheet of paper for the league score sheet"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "From farm to plate",
+      "day": 5,
+      "sections": [
+        [
+          "A. The journey of the grain",
+          [
+            {
+              "t": "sort",
+              "p": "Which steps happen in the field, and which happen after the grain leaves the field? Sort them.",
+              "items": [
+                "Ploughing the field",
+                "Sowing the seeds",
+                "Watering the crop",
+                "Harvesting",
+                "Threshing",
+                "Grinding into atta",
+                "Cooking the roti",
+                "Eating"
+              ],
+              "cats": [
+                "Early in the journey (in the field)",
+                "Late in the journey (after the field)"
+              ]
+            },
+            {
+              "t": "match",
+              "p": "Match each helper to its job.",
+              "pairs": [
+                [
+                  "Soil",
+                  "Holds the roots and gives water and minerals"
+                ],
+                [
+                  "Sunlight",
+                  "Lets the leaves make food"
+                ],
+                [
+                  "Earthworm",
+                  "Loosens soil and makes it rich"
+                ],
+                [
+                  "Farmer",
+                  "Sows, waters, protects and harvests the crop"
+                ],
+                [
+                  "Shopkeeper",
+                  "Stores grain and sells it to us"
+                ]
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Beating the cut crop so the grains come away from the stalks is called ____.",
+              "a": [
+                "threshing"
+              ]
+            }
+          ]
+        ],
+        [
+          "B. Eating mindfully",
+          [
+            {
+              "t": "mcq",
+              "p": "Which part of the mouth cuts and grinds the food into small pieces?",
+              "opts": [
+                "Tongue",
+                "Teeth",
+                "Lips",
+                "Nose"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "Plain rice chewed for a long time starts to taste a little sweet. Why?",
+              "opts": [
+                "The rice was sweet all along",
+                "Saliva breaks the starch into sugar",
+                "The teeth add sugar",
+                "The tongue gets tired"
+              ],
+              "a": 1
+            },
+            {
+              "t": "fill",
+              "p": "Eating slowly and paying attention to each bite is called ____ eating.",
+              "a": [
+                "mindful"
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Valuing food",
+          [
+            {
+              "t": "write",
+              "p": "Write two things you can do so that no food is wasted on your plate.",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "Name one festival when people thank nature for food, and say what your family eats at that time.",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Eat, move, rest: using your own records",
+      "day": 7,
+      "sections": [
+        [
+          "A. My pulse test",
+          [
+            {
+              "t": "table",
+              "p": "Copy your pulse and breathing results from the skipping test.",
+              "cols": [
+                "When",
+                "Pulse (beats per minute)",
+                "Breaths per minute"
+              ],
+              "rows": 4,
+              "prefill": [
+                "Before skipping",
+                "Right after skipping",
+                "After 2 minutes rest",
+                "After 5 minutes rest"
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Why did your heart beat faster and your breathing speed up when you skipped? Use the words 'muscles' and 'oxygen'.",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "Riya's pulse went back to normal 2 minutes after skipping. Arjun's took 6 minutes. What is the most likely reason?",
+              "opts": [
+                "Riya plays actively every day, so her heart is fitter",
+                "Arjun's watch was broken",
+                "Riya skipped faster",
+                "Hearts never change"
+              ],
+              "a": 0
+            }
+          ]
+        ],
+        [
+          "B. My sleep",
+          [
+            {
+              "t": "fill",
+              "p": "Raju slept at 9:30 pm and woke at 6:30 am. He slept for ____ hours.",
+              "a": [
+                "9",
+                "nine"
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Look at your sleep table. On which day did you feel freshest? How long had you slept the night before?",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "Children aged 6 to 12 are generally advised to sleep about:",
+              "opts": [
+                "4–5 hours",
+                "6–7 hours",
+                "9–12 hours",
+                "15–16 hours"
+              ],
+              "a": 2
+            }
+          ]
+        ],
+        [
+          "C. New cases",
+          [
+            {
+              "t": "write",
+              "p": "Your cousin skips breakfast and then feels tired and grumpy in the first class. Which part of the chapter explains this, and what would you tell him?",
+              "lines": 3
+            },
+            {
+              "t": "sort",
+              "p": "Sort these foods by their main job.",
+              "items": [
+                "Rice",
+                "Ragi roti",
+                "Moong dal",
+                "Paneer",
+                "Egg",
+                "Spinach",
+                "Guava",
+                "Carrot",
+                "Potato"
+              ],
+              "cats": [
+                "Energy food",
+                "Body-building food",
+                "Protective food"
+              ]
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Healthy-living puzzles and scientists who disagree",
+      "day": 9,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "write",
+              "p": "In our test, wheat sprouted on wet cotton with no soil at all. So why do farmers need soil? Use what you saw after a week.",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "When you held your nose, you could hardly taste the apple. What does this show?",
+              "opts": [
+                "The tongue does all the tasting",
+                "Much of what we call taste is really smell",
+                "Apples have no taste",
+                "The nose makes saliva"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "One roti needs atta. Atta needs wheat. Count every person and animal you can think of whose work went into one roti, and list them.",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "B. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if there were no earthworms in a farmer's field for many years? What would happen to the soil and the crop?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "What if you did not sleep for a whole night after a long football match? How would you feel the next day, and why?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "Our bread slice touched by soap-washed hands grew less mould than the one touched by dirty hands. What would you expect if we tested hand sanitiser too? How would you make it a fair test?",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "C. Comparing views",
+          [
+            {
+              "t": "write",
+              "p": "Some scientists say the light from screens keeps us awake; others say it is mostly the exciting games and videos. Design a test that could tell which matters more.",
+              "lines": 4
+            },
+            {
+              "t": "write",
+              "p": "The new wheat of the 1960s fed millions, but too much fertiliser and water later harmed the soil in some places. Was it a good idea? Give one reason for and one against.",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "Darwin's critics said worms were too small to change the land. What evidence did Darwin collect to show they were wrong?",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "What does a grain need? (page 100, Question 1)",
+      "day": 1,
+      "question": "If soil, water or sunlight is missing, what happens to a wheat grain?",
+      "need": [
+        "40–50 whole wheat grains (or whole moong)",
+        "4 or 5 small cups or cut plastic bottles",
+        "garden soil",
+        "cotton wool",
+        "water",
+        "a sunny windowsill",
+        "a dark cupboard",
+        "an earthworm (optional)",
+        "labels and a ruler"
+      ],
+      "steps": [
+        "Label the cups: 1 'Soil + water + sun', 2 'No water', 3 'No sunlight', 4 'No soil' and, if you have a worm, 5 'Soil + water + sun + earthworm'.",
+        "Fill cups 1, 2, 3 and 5 with the same amount of soil. Put damp cotton in cup 4.",
+        "Put 10 grains in each cup and cover with a thin layer of soil (cup 4: just lay them on the cotton).",
+        "Water cups 1, 3, 4 and 5 so the soil is damp, not flooded. Keep cup 2 dry.",
+        "Put cups 1, 2, 4 and 5 on a sunny windowsill and cup 3 in a dark cupboard.",
+        "Every day or two, water the wet cups, measure the tallest shoot and note its colour.",
+        "After about 10–14 days, fill in a final results table."
+      ],
+      "predict": "Ask your child to guess first: which cups will sprout? Which will grow the tallest? Which will be the healthiest after two weeks? Write the guesses on the fridge.",
+      "observe": "For each cup record: sprouted or not, height of the tallest shoot, colour, and how strong the plants look. Usually: cup 1 grows tall and green; cup 2 does not sprout; cup 3 sprouts but grows thin, tall and yellow; cup 4 sprouts and turns green but becomes thin and floppy as the days pass.",
+      "why": "A wheat grain is a seed: a baby plant with a packed lunch of stored food (the white starchy part we grind into atta). Water wakes it up, so without water nothing happens. It does not need light or soil to sprout, because it lives on its stored food at first. Once that food runs out, the young plant must make its own food in its green leaves using sunlight, air and water; without light it cannot make the green colour (chlorophyll), so it stays pale and stretches up looking for light. Soil holds the roots firmly and supplies minerals such as nitrogen that the plant needs to keep growing, which is why the cotton plants weaken. Earthworms help over months, not days, by loosening soil and mixing in rotting leaves.",
+      "safety": "Wash hands after handling soil and worms. Return the earthworm to the garden at the end.",
+      "time": "17 min to set up + 3 min checks every day or two for about 2 weeks"
+    },
+    {
+      "id": "e2",
+      "title": "Why does chewed roti taste sweet?",
+      "day": 4,
+      "question": "Does the taste of plain roti or rice change if we chew it for a long time, and why?",
+      "need": [
+        "a small piece of plain roti or a spoon of plain boiled rice (no salt or ghee)",
+        "a phone timer",
+        "a glass of water"
+      ],
+      "steps": [
+        "Rinse the mouth with water.",
+        "Put the roti or rice in the mouth and start the timer.",
+        "Chew slowly without swallowing for 60 seconds.",
+        "Every 15 seconds, say how it tastes: plain, salty, sweet, sour?",
+        "Swallow and write down when (if at all) it began to taste sweet.",
+        "Try again with a piece of cucumber, which has almost no starch, and compare."
+      ],
+      "predict": "Ask your child to guess first: will the roti taste the same after one minute of chewing as it did at the start?",
+      "observe": "Most people notice a faint sweetness after about 30–60 seconds with roti or rice, but not with cucumber.",
+      "why": "Roti and rice are full of starch, which is made of long chains of sugar joined together. Starch itself does not taste sweet. Saliva contains a helper chemical called an enzyme (its name is amylase) that cuts these long chains into small pieces of sugar, which our tongue does taste as sweet. So digestion begins in the mouth, before food even reaches the stomach. Chewing well breaks food into small pieces and mixes in more saliva, so it does more of this work. Cucumber has very little starch, so there is little to turn into sugar.",
+      "safety": "Use food your child is not allergic to.",
+      "time": "8 min"
+    },
+    {
+      "id": "e3",
+      "title": "Bread and hands: why we wash before eating",
+      "day": 4,
+      "question": "Do unwashed hands carry more germs onto food than hands washed with water or with soap?",
+      "need": [
+        "4 slices of the same bread",
+        "4 zip-lock bags",
+        "tape and a marker",
+        "a clean spoon",
+        "soap and water"
+      ],
+      "steps": [
+        "Label the bags: 'Not touched', 'Dirty hands', 'Water only', 'Soap and water'.",
+        "Use a clean spoon to slide slice 1 into its bag without touching it.",
+        "With unwashed hands, rub slice 2 all over and bag it.",
+        "Rinse hands with plain water only, rub slice 3 and bag it.",
+        "Wash hands with soap for 20 seconds, rinse, rub slice 4 and bag it.",
+        "Seal each bag, tape it, and keep all four together in the same dark cupboard.",
+        "Look through the plastic every two or three days for a week. Never open the bags. Throw them away sealed at the end."
+      ],
+      "predict": "Ask your child to guess first: which slice will grow the most mould? Will water alone be as good as soap?",
+      "observe": "Draw each slice and count or estimate the mould spots every few days. Usually the dirty-hands slice grows the most, water-only somewhat less, and soap-washed close to the untouched slice. Results vary, which is a good thing to discuss.",
+      "why": "Our hands pick up tiny living things too small to see, such as bacteria and mould spores, from everything we touch. On damp bread in a warm, dark place they feed and multiply until there are millions of them, enough to see as spots. Water rinses some off, but many stick to the natural oils on our skin. Soap breaks up those oils so the germs wash away. Even the untouched slice may grow some mould, because spores float in the air. The same germs can make us ill if they reach our mouth with our food, which is why we wash with soap before eating.",
+      "safety": "Never open the bags: mould spores can cause allergies and breathing trouble. Throw them away sealed.",
+      "time": "11 min to set up + quick looks over 7 days"
+    },
+    {
+      "id": "e4",
+      "title": "Pulse and breathing before and after skipping",
+      "day": 6,
+      "question": "What happens to our heartbeat and breathing when we exercise, and how quickly do they return to normal?",
+      "need": [
+        "a skipping rope (or space for jumping jacks)",
+        "a phone stopwatch",
+        "notebook and pencil"
+      ],
+      "steps": [
+        "Sit quietly for 2 minutes.",
+        "Find the pulse on the inside of the wrist or the side of the neck with two fingers. Count beats for 15 seconds and multiply by 4.",
+        "Count breaths (in and out = one) for 30 seconds and multiply by 2.",
+        "Skip hard for 1 minute.",
+        "Immediately count the pulse and breaths again.",
+        "Rest, and count again after 2 minutes and after 5 minutes.",
+        "Put all the numbers in a table. A parent can do it too and compare."
+      ],
+      "predict": "Ask your child to guess first: will your pulse go up, down or stay the same after skipping? How long will it take to come back to normal?",
+      "observe": "Both pulse and breathing rise sharply straight after skipping, then fall back over a few minutes. A child's resting pulse is often around 70–110 beats a minute.",
+      "why": "Working muscles need much more oxygen and food to release energy, and they make more carbon dioxide, a waste gas. The lungs breathe faster and deeper to take in oxygen and push out carbon dioxide. The heart, a muscle that pumps blood, beats faster to carry oxygen from the lungs to the muscles more quickly. When we stop, the muscles need less, so both slow down. Regular exercise makes the heart stronger, so it can pump more blood with each beat; that is why fit people often have a lower resting pulse and recover faster.",
+      "safety": "Skip on a non-slippery floor away from furniture. Stop if your child feels dizzy, has pain or is very breathless; children with asthma or a heart condition should follow their doctor's advice.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Be the flour mill",
+      "day": 2,
+      "mins": 15,
+      "need": [
+        "2 tablespoons whole wheat grains",
+        "a mortar and pestle, sil-batta, or a steel glass and a strong plate",
+        "a tea strainer",
+        "a few drops of water",
+        "a tawa (optional)"
+      ],
+      "steps": [
+        "Look at a whole wheat grain closely: notice the groove down one side and the brown coat.",
+        "Pound and grind the grains for 5 minutes, taking turns.",
+        "Sieve through a tea strainer. The fine powder is atta; the flakes left behind are bran, the grain's outer coat.",
+        "Compare with shop atta: which is finer?",
+        "Add a few drops of water and knead a tiny dough ball. Roast a mini roti on the tawa with an adult.",
+        "Talk about how long it would take to make a whole family's atta this way."
+      ],
+      "outcome": "A spoonful of hand-made atta, a tiny roti, and a real feeling for how much work stands between a grain and our plate."
+    },
+    {
+      "id": "a2",
+      "title": "Thank-you chain poster (Book Activity 3, pages 89–90)",
+      "day": 3,
+      "mins": 14,
+      "need": [
+        "chart paper",
+        "colour pens or crayons",
+        "Textbook pages 89–90"
+      ],
+      "steps": [
+        "Fill in the 'Thank You Everyone!' space on page 89 for one food.",
+        "On chart paper, draw a chain of circles from the field to the plate.",
+        "In each circle draw a helper (sun, rain, soil, earthworm, bullock, farmer, truck driver, shopkeeper, cook) and write one thank-you line.",
+        "Add the name of a real person your family buys food from.",
+        "Stick the poster near the dining place; say thank you to one real helper this week."
+      ],
+      "outcome": "A thank-you chain poster for the dining area, and at least one real thank-you said to a person who helps bring food home."
+    },
+    {
+      "id": "a3",
+      "title": "A week of food records (Book Activity 4, page 93)",
+      "day": 5,
+      "mins": 12,
+      "need": [
+        "notebook with the page 93 table copied in",
+        "a small steel bowl",
+        "a kitchen scale or a tablespoon"
+      ],
+      "steps": [
+        "Copy the page 93 table: day, breakfast, lunch, dinner, ate fully?, wasted?, how do you feel?",
+        "After every meal, fill in a row with a smiley or a sad face.",
+        "For the family: scrape every plate's leftovers into the steel bowl after each meal.",
+        "Each night, weigh the bowl's contents (or count spoonfuls) and write the amount before emptying it into the compost or bin.",
+        "After 7 days, find the meal and the day with the most waste and agree on one change."
+      ],
+      "outcome": "A seven-day record of what was eaten and wasted, and one family rule to waste less."
+    },
+    {
+      "id": "a4",
+      "title": "Five-pose yoga sequence (Book Activity 5, page 95)",
+      "day": 6,
+      "mins": 15,
+      "need": [
+        "a yoga mat or folded bedsheet",
+        "loose clothes",
+        "an empty stomach (2 hours after a meal)"
+      ],
+      "steps": [
+        "Tadasana (mountain pose): stand tall, feet together, arms by the side, then stretch arms up; 5 slow breaths.",
+        "Vrikshasana (tree pose): stand on one leg, place the other foot on the inner calf or thigh (never on the knee), hands joined; 5 breaths on each side.",
+        "Bhujangasana (cobra pose): lie on the tummy, hands under the shoulders, gently lift the chest; 5 breaths.",
+        "Balasana (child's pose): sit back on the heels, bend forward, forehead to the mat, arms forward; 5 breaths.",
+        "Shavasana (resting pose): lie on the back, arms and legs loose, eyes closed; 1 minute of stillness.",
+        "Repeat every morning for a week and record how long you can hold tree pose."
+      ],
+      "outcome": "A short daily yoga routine your child can do alone, and a week's record of balance improving."
+    },
+    {
+      "id": "a5",
+      "title": "Sleep and reaction diary (Book Activity 6, page 97)",
+      "day": 4,
+      "mins": 5,
+      "need": [
+        "notebook",
+        "a 30 cm ruler",
+        "a clock"
+      ],
+      "steps": [
+        "Copy the page 97 table and add two columns: 'Ruler catch (cm)' and 'Screen in the last hour before bed?'.",
+        "Each morning write when you slept, when you woke, and how you felt: a fresh, b lazy, c sleepy.",
+        "Do the ruler catch: a parent holds a ruler at the top, you hold fingers open at 0, they drop it without warning and you catch it. Do 3 catches and write the middle score.",
+        "Work out the hours of sleep for each night.",
+        "After at least 3 nights, look for patterns, and remember that a few days is not enough to be sure."
+      ],
+      "outcome": "A sleep diary with real numbers that your child can use to see how sleep affects how they feel and react."
+    },
+    {
+      "id": "a6",
+      "title": "My safety hand",
+      "day": 8,
+      "mins": 15,
+      "need": [
+        "paper",
+        "pencil and colour pens"
+      ],
+      "steps": [
+        "Trace your hand on paper.",
+        "On each finger, write the name of one trusted adult you could tell anything, including someone outside the home.",
+        "On the palm, write the Childline number 1098.",
+        "Practise saying 'No! I don't like that!' loudly with a raised hand, then walking away to a trusted adult.",
+        "Keep the safety hand in your school bag or on your bedroom wall."
+      ],
+      "outcome": "A safety hand with five trusted adults, and a child who has practised saying No out loud."
+    },
+    {
+      "id": "a7",
+      "title": "Balanced plates (page 100, Question 2)",
+      "day": 9,
+      "mins": 15,
+      "need": [
+        "Textbook page 100",
+        "colour pencils: yellow, red and green"
+      ],
+      "steps": [
+        "Learn the three food jobs: energy (yellow), body-building (red), protective (green).",
+        "Draw a breakfast, lunch and dinner plate with foods you like.",
+        "Colour each food by its job.",
+        "Check that every plate has yellow, red and green, and add a glass of water.",
+        "Make sure each plate holds only as much as you would really eat."
+      ],
+      "outcome": "Three balanced, waste-free plates your child designed, which the family can cook during the next week."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Charles Darwin (1809–1882), England",
+      "idea": "Darwin, famous for his ideas about evolution, also spent about 40 years studying earthworms. He measured the castings worms pushed up, watched stones and old ruins slowly sink into fields as worms moved soil from below to above, and showed that worms drag leaves into their burrows and mix them into the soil. In his last book, 'The Formation of Vegetable Mould through the Action of Worms' (1881), he argued that the rich top layer of soil is made and kept fertile largely by earthworms.",
+      "then": "Many gardeners thought of worms as lowly pests, and some critics doubted that such small, weak animals could change the land so much. The book itself became very popular when it came out.",
+      "now": "Soil scientists accept that earthworms are 'ecosystem engineers': they loosen soil, let air and water in, and mix in rotting plant matter, which helps crops grow. Farmers use worms to make vermicompost. Darwin's careful counting and measuring of something everyone ignored is still a model of good science.",
+      "status": "accepted",
+      "ask": "Darwin could not watch one worm make a field. He measured small changes over many years instead. What small thing could you measure every day to show that something slow is happening?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "M. S. Swaminathan (1925–2023), India",
+      "idea": "Swaminathan, a plant scientist born in Kumbakonam, Tamil Nadu, worked in the 1960s with the American scientist Norman Borlaug's short, high-yielding wheat varieties. He helped test and adapt them for Indian fields and spread them to farmers. With good seed, water and fertiliser, India's wheat harvests rose sharply in a few years, and India stopped depending on shiploads of grain from abroad. This is called the Green Revolution.",
+      "then": "The new seeds were welcomed because India feared famine. But even early on, Swaminathan himself warned that using too many chemicals and too much water could harm the soil and the land in the long run.",
+      "now": "That the high-yield seeds helped prevent hunger is widely accepted. It is also accepted that overuse of fertilisers, pesticides and groundwater later damaged soil and water in parts of Punjab and Haryana. Swaminathan called for an 'evergreen revolution': growing more food without harming the soil, water and living things. He was awarded the Bharat Ratna in 2024.",
+      "status": "accepted",
+      "ask": "The new wheat fed millions of people, but too many chemicals later harmed the soil. How could a farmer grow more food and still look after the soil, water and earthworms?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Charaka and the Charaka Samhita (compiled about 2,000 years ago), India",
+      "idea": "The Charaka Samhita is one of the oldest texts of Ayurveda, the traditional Indian system of medicine; its exact date and authors are uncertain. It calls food (ahara), sleep (nidra) and a well-controlled way of living (brahmacharya) the three supporting pillars of life. Among its rules for eating, it advises eating the right amount, only after the last meal is digested, not too fast and not too slowly, without talking or laughing, and with full attention on the food.",
+      "then": "These ideas were taught for centuries as part of Ayurveda in India and spread to other parts of Asia.",
+      "now": "Modern science agrees that good food, enough sleep and regular habits are pillars of health, and studies suggest eating slowly and attentively helps people notice when they are full. Much else in the old texts has not been tested by modern methods, so we judge each idea on its evidence, not on its age.",
+      "status": "accepted",
+      "ask": "Charaka gave this advice about 2,000 years ago, without the tools scientists use today. If you wanted to test 'eat slowly and you will feel full with less food', how would you do it?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Screens and sleep: Anne-Marie Chang, Charles Czeisler and colleagues (Harvard, 2015) and their critics",
+      "idea": "In a 2015 study, Chang, Czeisler and colleagues had adults read for about four hours before bed on several nights, once on a glowing e-reader and once from a printed book. With the e-reader, they took longer to fall asleep, made less melatonin (the body's 'night-time' chemical) and felt less alert the next morning. The bright blue-rich light from screens was blamed.",
+      "then": "The finding spread widely, and phone makers added 'night mode' settings that make screens look warmer and dimmer.",
+      "now": "Most sleep scientists agree that using screens close to bedtime tends to push sleep later, and doctors advise children to switch off screens an hour or so before bed. But researchers still argue about why: some studies suggest that at normal phone brightness the light itself has only a small effect, and that exciting games, videos and messages that keep us awake and push bedtime later matter more. This is a live debate.",
+      "status": "debated",
+      "ask": "If you wanted to find out whether it is the screen's light or the exciting game that keeps you awake, what two things would you compare, and what would you keep the same?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {
+      "q": "Tell the journey of a grain of rice or wheat from the field to your plate.",
+      "a": "The field is ploughed, seeds are sown and watered, the crop grows in the sun, it is harvested and threshed, the grain is stored, transported and sold, it is cleaned or milled at home or in a mill, cooked and eaten."
+    },
+    {
+      "q": "Name four helpers in the grain's journey and say what each does.",
+      "a": "For example: soil holds roots and gives minerals; water lets seeds sprout and plants grow; sunlight lets leaves make food; earthworms loosen and enrich the soil; farmers sow and harvest; cattle pull ploughs and give manure; shopkeepers sell; cooks cook."
+    },
+    {
+      "q": "What do the teeth, tongue and saliva do when you eat mindfully?",
+      "a": "The teeth cut and grind food into small pieces; the tongue moves food around and tastes it; saliva softens the food and starts breaking starch into sugar, which is why chewed rice tastes sweet."
+    },
+    {
+      "q": "Why is it wrong to waste food? Give two ways to avoid it.",
+      "a": "Every grain carries the work of farmers, animals, soil, water and many people. Take only as much as you need, ask for more later, try small amounts of foods you dislike, and use pot leftovers in new dishes."
+    },
+    {
+      "q": "What happened to your pulse and breathing after skipping, and why?",
+      "a": "Both went up, then came back down after a few minutes of rest. Working muscles need more oxygen, so the lungs breathe faster and the heart pumps faster to carry it."
+    },
+    {
+      "q": "Why does the body need sleep?",
+      "a": "Sleep removes tiredness, lets muscles rest and repair, helps the body grow and the brain store what it learnt. Without enough sleep we cannot focus and feel tired and irritable. Children need about 9–12 hours."
+    },
+    {
+      "q": "What is the difference between a safe touch and an unsafe touch, and what will you do if a touch feels unsafe?",
+      "a": "A safe touch, like a loving hug, makes you feel happy and comfortable. An unsafe touch makes you feel scared, confused or uncomfortable, even from someone you know. Say 'No' firmly, move away, and tell a trusted adult; keep telling until someone helps. It is never your fault."
+    },
+    {
+      "q": "Scientists agree screens at bedtime can push sleep later. What are they still arguing about?",
+      "a": "Whether it is mainly the light from the screen or the exciting things we do on it (games, videos) that keeps us awake. More careful tests are needed to decide."
+    }
+  ]
+}

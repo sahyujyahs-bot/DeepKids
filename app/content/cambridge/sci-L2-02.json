@@ -1,0 +1,628 @@
+{
+  "key": "cambridge|sci|2|2",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 2,
+  "n": 2,
+  "title": "Forces and movement",
+  "source": "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 2 'Forces and movement' (pages 36–58)",
+  "summary": "Pushes and pulls are forces. Your child finds out that forces can make things start moving and stop, change their shape, speed them up or slow them down, and change the direction they move in. Along the way they launch paper rockets, drop clay balls, stretch rubber bands, measure carefully, look for patterns in results and learn to draw a diagram rather than a picture.",
+  "goals": [
+    "By the end your child can say that a push is a force away from you and a pull is a force towards you, and give home examples of each.",
+    "By the end your child can show that forces can make things move, make them stop, change their shape, change their speed and change their direction.",
+    "By the end your child can make a prediction, test it, and say honestly whether it was correct.",
+    "By the end your child can measure using simple units (bricks, sticky notes), record results in a table and spot a pattern such as 'the more books, the longer the rubber band'.",
+    "By the end your child can draw a simple diagram with arrows and labels and say how it is different from a picture.",
+    "By the end your child can explain that people once believed moving things stop by themselves, and why scientists changed their minds."
+  ],
+  "words": [
+    ["force", "a push or a pull"],
+    ["push", "a force away from you"],
+    ["pull", "a force towards you"],
+    ["stretch", "to pull something so that it gets longer, like a rubber band"],
+    ["squash", "to push on something so that it gets flatter or smaller"],
+    ["shape", "the outline or form of an object, such as round, flat or long"],
+    ["measure", "to find out how big, long, tall or heavy something is"],
+    ["pattern", "when there is a similar change in the result each time"],
+    ["speed", "how fast something is moving"],
+    ["speed up / slow down", "go faster / go slower; a force is needed for either"],
+    ["direction", "the way something is moving, such as left, right, up or down"],
+    ["diagram", "a simple drawing that shows only the important things, with labels and arrows"]
+  ],
+  "day_mins": 35,
+  "days": [
+    {
+      "n": 1,
+      "title": "Pushes and pulls are forces",
+      "goal": "Notice that we push or pull to move everything at home, and learn that pushes and pulls are called forces.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "How did that move? (page 36 Getting started)",
+          "mins": 7,
+          "do": "Read the 'Getting started' box on page 36. Ask your child to tell you five things they moved today: the door, the tap, the school bag, the chair, the toothpaste tube. For each one ask: 'Did you push it or pull it?' Then ask them to show you something that moves when they push it (a door, a toy car, the light switch) and something that moves when they pull it (a drawer, the curtain, the bucket out of the bathroom). If they say 'I lifted it', say: 'Lifting is pulling upwards.'"
+        },
+        {
+          "kind": "read",
+          "title": "Push, pull, forces (page 37)",
+          "mins": 8,
+          "do": "Read page 37 aloud: pushes and pulls are forces; a push is a force away from you; a pull is a force towards you. Act it out: your child stands facing you and pushes your hands (away from them), then pulls your hands (towards them). Look at the three photos: the girl pushing the small child on a balance bike, the boys pulling the ball, and the goalkeeper. Read: forces can make things move and they can make things stop; this man uses a push to stop the ball. Ask: 'How is the goalkeeper's push different from the girl's push?' (The girl's push starts the bike moving; the goalkeeper's push stops a ball that is already moving.)"
+        },
+        {
+          "kind": "do",
+          "title": "Push or pull house hunt",
+          "mins": 15,
+          "do": "Do Activity a1. Give your child a sheet with two columns, 'Push' and 'Pull'. Walk round the house together and try each thing: open the fridge (pull), close it (push), switch on the fan (push the switch), pull out a chair, push a pram or trolley, ring the doorbell (push), pull the chain or lever to flush, open the steel almirah (pull), roll out a roti with a belan (push), pull up the bucket handle, squeeze toothpaste (push). They write or draw each one in the correct column. Some things need both: a drawer is pulled open and pushed shut; a swing is pulled back and pushed forward. Make a third column 'Both' for these.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Forces you can't see",
+          "mins": 5,
+          "do": "Ask: 'Can you see a force?' (No, we see what it does: things move, stop, squash or change direction.) 'How do you know a force is there?' (We feel it in our hands and muscles; we see the thing start or stop moving.) Tell them: 'This week we will find out four things a force can do.'"
+        }
+      ],
+      "need": ["Learner's Book pages 36–37", "a sheet of paper with two columns", "pencil"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Making things move and stop; big and small forces",
+      "goal": "Use pushes and pulls to start and stop different objects, and find out that heavier things need a bigger force.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Move it, stop it (page 38 Activity)",
+          "mins": 15,
+          "do": "Do the page 38 activity 'Using forces to move things and stop things' with a ball, a bowl of water, a blown-up balloon, a chair and a pencil. For the ball, ask the book's questions: 'How can you make a ball move? Will it move if you push it? Will it move if you pull it? How can you make it stop?' (Kick or roll it; yes; yes, if you pull it towards you with your hand or foot; catch it or put your foot in front.) Then try the others: push the water with your hand so it swishes, then hold your hand still to stop it; tap the balloon up into the air, then catch it; push and pull the chair; roll the pencil on the table and stop it with a finger. Say the red line from page 38 first: 'Be careful of other people and work in a safe way with the ball.' Use a soft ball indoors, away from glass."
+        },
+        {
+          "kind": "read",
+          "title": "Small forces and big forces (page 39)",
+          "mins": 7,
+          "do": "Read page 39: there are small forces and big forces; Omar pulls his toys with elastic, and the elastic can stretch. Look at the three pictures. Ask question 1: 'Which toy needs a big pull to make it move?' (the horse on wheels, because the elastic is stretched the most) and question 2: 'Which toy needs a small pull?' (the little car; its elastic is hardly stretched). Ask: 'How can you tell from the elastic?' (The longer it stretches, the bigger the pull.) Then question 3: 'This man is pulling a big rock. Do you think the rock will move?' (No, it is far too heavy; his pull is too small.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Rubber band pull-o-meter",
+          "mins": 13,
+          "do": "Do Experiment e1. Tie a rubber band (or a piece of elastic from the sewing box) to the front of three things of different weights: an empty steel tiffin box, a tiffin box filled with rice, and a small pile of books tied with string. Your child holds the free end and pulls each one slowly across the floor. Each time, you hold a ruler next to the band and measure how long it stretches just as the object starts to move. Ask them to predict first which one will stretch the band most. Record in a table: Object; Prediction; Length of band (cm).",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Learner's Book pages 38–39", "a soft ball", "a bowl of water", "a balloon", "a chair and a pencil", "a rubber band or piece of elastic", "an empty tiffin box, rice, a few books and string", "a ruler"],
+      "prep": [{"task": "Blow up a balloon and find a long rubber band or elastic", "when": "morning"}]
+    },
+    {
+      "n": 3,
+      "title": "Paper rockets",
+      "goal": "Make a paper rocket launched by squashing a bottle, compare a small push with a big push, and meet the people who started India's rocket programme.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Make and launch a paper rocket (page 40)",
+          "mins": 18,
+          "do": "Do Experiment e2, following 'Make a paper rocket launcher' on page 40. Zara launches her rocket by squashing a plastic bottle with a push. Follow the five pictures: roll a strip of paper round a pencil to make a tube a little wider than the bottle's neck, tape it, fold and tape one end shut to make a nose cone, slide it over the neck of an empty 1-litre plastic bottle (no cap). Read the red line first: 'Do not launch your rocket towards people.' Stand the bottle on the floor. Before each launch your child shows with their hand how high they predict the rocket will go. Launch with a small push (a gentle squeeze), then a big push (a hard squeeze with both hands). Ask the page 40 questions: 'What happens when you use a small push? How is it different when you use a big push? Were your predictions correct?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Rockets from Thumba",
+          "mins": 10,
+          "do": "Tell the story in Voice v1: in 1963, Indian scientists led by Vikram Sarabhai launched India's first rocket from Thumba, a fishing village near Thiruvananthapuram in Kerala, using a church building as an office. Rocket parts were carried on bicycles. Mention that more than 200 years ago, Hyder Ali's and Tipu Sultan's armies in Mysore used iron-cased rockets in battle. Ask: 'A real rocket pushes hot gas down out of its bottom. Which way does the rocket go?' (Up, the opposite way.) 'How is that like your bottle?' (Squashing pushes air out; the air pushes the paper rocket up.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "Senses and forces (page 41)",
+          "mins": 7,
+          "do": "Read the green box on page 41: 'Which of your five senses can you use to observe forces? Can you use more than one sense?' Help your child find several: touch (feel the push in your hands), sight (see the rocket fly), hearing (hear the whoosh of air and the thud when it lands). Look at the boy on the swing on page 41 and ask: 'Who or what gives the pushes and pulls on a swing?' Then tick the 'Look what I can do!' list on page 41 together."
+        }
+      ],
+      "need": ["Learner's Book pages 40–41", "an empty 1-litre plastic bottle", "A4 paper", "a pencil", "sticky tape", "scissors"],
+      "prep": [{"task": "Rinse and dry an empty 1-litre plastic bottle (a thin, squashy one works best)", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Forces change shape",
+      "goal": "See that pushes and pulls can change the shape of things like dough, clay and wood, and begin measuring a drop height with bricks.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "How do we change the shape of things? (page 42)",
+          "mins": 6,
+          "do": "Read the 'Getting started' box on page 42 and look at the board: 'chewing food', 'folding clothes'. Make your own list together on paper headed 'How do we change the shape of things?' Ideas: kneading atta, rolling rotis, squeezing a lemon, crushing a can, folding a paper boat, plaiting hair, stretching a rubber band, squeezing toothpaste, sitting on a cushion. For each one ask: 'Is it a push or a pull?'"
+        },
+        {
+          "kind": "read",
+          "title": "Dough, clay and wood (page 43)",
+          "mins": 6,
+          "do": "Read the top of page 43: we can change the shape of objects; we can use forces to make bread, to make clay into the shape of a pot, and to change the shape of wood. Look at the three photos. Ask: 'What forces does a kumhar (potter) use on the wheel?' (Pushes with the fingers and thumbs to make the pot wider, pulls upwards to make it taller.) 'What force does a carpenter use to carve wood?' (A push on the chisel.) Ask: 'Can you change the shape of a steel spoon by pushing with your fingers?' (No, it needs a much bigger force; some things are much harder to change.)"
+        },
+        {
+          "kind": "do",
+          "title": "Dough shapes",
+          "mins": 10,
+          "do": "Give your child a fist-sized ball of atta dough (or play clay). Ask them to make each change and name the force: flatten it into a roti (push down), roll it into a long snake (push and roll), pull it apart into two (pull), twist it into a spiral (twist, which is a push one way and a pull the other way), poke holes with a finger (push). Then ask: 'Did the dough go back to its first shape by itself?' (No. Dough and clay keep their new shape. A rubber band or sponge springs back.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Clay ball drop, part 1 (pages 43–44)",
+          "mins": 13,
+          "do": "Start Experiment e3, following 'Finding patterns in results' on pages 43–44. Use Lego bricks, matchboxes or steel dabbas of the same size stacked into a tower as 'counting bricks'. Make four balls of soft clay or dough the same size. Draw the table from page 44: Height (2 bricks, 4 bricks, 6 bricks, 8 bricks) and Result. Your child holds a ball level with the top of a 2-brick tower and lets go onto a hard floor (not a carpet). Pick it up carefully and draw its shape. Do the same from 4 bricks. Keep the squashed balls in a row in order.",
+          "ref": "e3"
+        }
+      ],
+      "need": ["Learner's Book pages 42–44", "atta dough or play clay (enough for 5 balls)", "8 identical Lego bricks, matchboxes or small dabbas", "paper for a table"],
+      "prep": [{"task": "Knead a small bowl of atta dough and keep it covered", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "Finding a pattern, and a famous drop",
+      "goal": "Finish the clay ball drop, find the pattern and use it to predict, then think about a famous story of dropping things from a tower.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Clay ball drop, part 2 (page 44)",
+          "mins": 13,
+          "do": "Continue Experiment e3. Drop fresh balls from 6 bricks and then 8 bricks and draw each result. Line up all four squashed balls in order. Read page 44: 'How does the result change for the different heights? Is there a pattern? A pattern in results is when there is a similar change in the result each time.' Your child finishes the sentence: 'The higher I drop the ball, the ____ it gets.' (flatter.) Then ask them to use the pattern to predict what happens from 10 bricks, as page 44 asks. Write the prediction and then test it.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Did Galileo drop balls from the Leaning Tower?",
+          "mins": 12,
+          "do": "Tell the story in Voice v3. For two thousand years many people believed heavy things fall faster than light things. A famous story says Galileo dropped two balls of different weights from the Leaning Tower of Pisa to show they land together. Then try it: your child stands on a sturdy chair (hold them) and drops a steel spoon and a plastic spoon at exactly the same moment, then a big ball of dough and a small one. You lie down and watch where they land. Ask: 'Did they land together?' (Very nearly.) Then drop a flat sheet of paper and a crumpled ball of the same paper: the flat sheet floats down slowly. Ask: 'Why?' (The air pushes up on the wide flat sheet.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "talk",
+          "title": "Squash, stretch, bend, twist",
+          "mins": 10,
+          "do": "Give your child a sponge, a rubber band, a pipe cleaner or wire twist-tie, and a piece of paper. For each, they show one way to change its shape (squash the sponge, stretch the band, bend the wire, crumple the paper) and say whether it goes back by itself. Make two piles: 'goes back' (sponge, rubber band) and 'stays changed' (wire, paper, clay). Ask: 'Why is it useful that a car tyre or a cricket ball goes back to its shape?'"
+        }
+      ],
+      "need": ["Learner's Book page 44", "dough or clay and the brick tower from Day 4", "a sturdy chair", "a steel spoon and a plastic spoon", "2 sheets of paper", "a sponge, a rubber band, a pipe cleaner or twist-tie"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "How forces change rubber bands",
+      "goal": "Stretch a rubber band with more and more books, measure it with sticky notes, find the pattern and spot the mistake in Lola's table.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Books and a rubber band (pages 44–45, Think like a scientist 2)",
+          "mins": 20,
+          "do": "Do Experiment e4, following page 44's pictures. Loop a big rubber band over a table edge or a door handle and hold it in place with a heavy book on the table end. Use a paperclip bent into a hook and two small rubber bands to make a cradle for books at the bottom. Stick a column of sticky notes (or same-sized paper squares) on the table leg or the wall beside the band. Read page 45: 'Investigate what happens to the rubber band when there is a bigger pull.' Your child counts how many sticky notes long the band is with 0 books, then hangs 1 book, then 2, then 3 (same-sized notebooks are best). Before each one, they predict. Fill in the page 45 table: Number of books, Number of sticky notes. Ask: 'Can you find the pattern?' (Each extra book makes the band about one sticky note longer.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Lola's mistake (pages 45–46)",
+          "mins": 8,
+          "do": "Look at Lola's table on page 45: books 0, 3, 1, 2 with sticky notes 1, 4, 2, 3, and her speech bubble 'There is no pattern in my results.' Ask question 1 on page 46: 'Lola is wrong. Can you see why?' Help your child re-write her table in order 0, 1, 2, 3 books: then notes go 1, 2, 3, 4. There is a pattern; she just wrote her results in a jumbled order. Ask question 2: 'Why is it a good idea to add one book each time?' (So each step is the same size, which makes the pattern easy to see and the test fair.) Read the green box on page 45 and answer it."
+        },
+        {
+          "kind": "review",
+          "title": "Check measurements and tick (pages 45–46)",
+          "mins": 7,
+          "do": "Do the page 45 'How am I doing?' task: you measure the band again with 2 books and your child checks whether you counted the notes correctly. Ask: 'Did we both get the same number? If not, why?' (Eyes at a different height, the band bounced, books not still yet.) Look at the blacksmith photo on page 46 and ask: 'What forces is the blacksmith using to change the shape of the hot metal?' (A push from the hammer.) Tick the 'Look what I can do!' list on page 46."
+        }
+      ],
+      "need": ["Learner's Book pages 44–46", "a big rubber band and 2 small rubber bands", "a paperclip", "3 notebooks of the same size", "a packet of sticky notes or same-sized paper squares", "sticky tape"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Speeding up and slowing down",
+      "goal": "Learn that a force is needed to speed something up or slow it down, using a bicycle, and ask good questions about speed.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Mia's new bike (page 47)",
+          "mins": 8,
+          "do": "Read the 'Getting started' box on page 47: Mia has a new bike; how can she go faster? How can she go slower? Let your child answer before reading on. Then read: to go faster on a bike you push on the pedals; to go slower you pull on the brakes; going faster is called speeding up, going slower is slowing down; your speed is how fast you are moving; when something speeds up or slows down it is because of a force. If you have a cycle, show the pedals and squeeze the brake lever so your child sees the brake blocks press on the wheel. Ask question 1: 'How can you make other things speed up or slow down?' (Push a swing harder; pedal a tricycle faster; put your feet down on a scooter; an auto-rickshaw driver turns the accelerator or presses the brake.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Speed it up, slow it down",
+          "mins": 12,
+          "do": "In a safe open space (a park, a society compound or a long corridor), your child runs, walks and stops when you call 'faster', 'slower', 'stop'. Ask: 'What did your legs do to speed up?' (Pushed harder on the ground.) 'What did you do to stop?' (Pushed my feet forward against the ground.) Then roll a ball along the ground: your child runs after it and gives it a push to make it faster, then a push from the front to slow it down. If they have a cycle or scooter, they ride and practise speeding up and braking gently, wearing a helmet."
+        },
+        {
+          "kind": "act",
+          "title": "Question cards (page 48, Think like a scientist 1)",
+          "mins": 15,
+          "do": "Do Activity a2. Look at the park picture on page 48: a girl throwing a paper plane, children on a roundabout, a boy on a scooter, a boy running after a ball. Dai uses cards to make a question: 'How do you make… [a ball / a paper plane / a toy car] …go faster? go slower?' Your child makes the same cards on sticky notes or paper: three 'starter' cards ('How do you make…', 'Go faster?', 'Go slower?') and four object cards (a ball, a paper plane, a scooter, a swing). They mix and match them to make at least four questions, for example 'How do you make a paper plane go slower?' For each question, talk about how you could find out the answer. Read the green box on page 49: 'Asking questions is an important part of science. Can you ask any other science questions?'",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Learner's Book pages 47–49", "a bicycle or tricycle if you have one, and a helmet", "a ball", "sticky notes or small paper cards"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Blow the ball, and do things stop by themselves?",
+      "goal": "Speed up and slow down a ball using only air, find the pattern 'the bigger the push, the faster', and learn how scientists found out why moving things stop.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Blow the ball (pages 49–50, Think like a scientist 2)",
+          "mins": 13,
+          "do": "Do Experiment e5. Read pages 49–50: Sofia and Marcus try to make a ball speed up and slow down; Marcus pushes the ball towards Sofia; Sofia blows towards the ball and the air pushes the ball to make it go slower. Use a ping-pong ball (or a tight ball of crumpled foil) on a smooth table. Sit at opposite ends. You roll the ball gently towards your child; they blow at it head-on to slow it down, and try to stop it. Then ask the book's question: 'How can they make the ball go faster without touching it?' (Blow from behind it, in the direction it is moving.) Try both. Then try a gentle blow and a hard blow from behind. Help your child finish Sofia's sentence: 'The bigger the push, the ____ the ball goes.' (faster.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "think",
+          "title": "Aristotle and Galileo argue about stopping",
+          "mins": 13,
+          "do": "Tell the story in Voice v2. Aristotle, long ago in Greece, said that things only keep moving while something pushes them, and when the push stops they slow down and stop by themselves. Galileo, much later, said they stop because something is slowing them down. Test it: roll the same ball with the same push (let it roll down a tilted book as a ramp) onto three surfaces in turn: a carpet or durrie, a cement or tiled floor, and a smooth steel thali or tray. Measure with footsteps how far it goes each time. Ask: 'Which surface let it go furthest?' (The smoothest.) 'What would happen on a surface so smooth that nothing at all rubbed on the ball?' (It would keep going.) Explain that the rubbing force is called friction. Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "review",
+          "title": "Bowling and tick list (pages 50–51)",
+          "mins": 9,
+          "do": "Read the bottom of page 50: a bowling ball needs to have lots of speed to knock over the pins. Ask question 2: 'How would you make a bowling ball go fast?' (Swing your arm back further and push it harder as you let go.) Set up 6 empty plastic bottles as pins in the corridor and let your child try with a ball: first a gentle roll, then a stronger push. Ask: 'Which knocked more down? Why?' Tick the 'Look what I can do!' list on page 51."
+        }
+      ],
+      "need": ["Learner's Book pages 49–51", "a ping-pong ball or foil ball", "a smooth table", "a book to make a ramp", "a carpet or durrie, a tiled floor and a steel thali or tray", "6 empty plastic bottles", "a ball"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Changing direction",
+      "goal": "Find out that forces make things turn, feel those forces in our own bodies, and draw a diagram of a prediction.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Adjo and the boat (pages 52–53)",
+          "mins": 7,
+          "do": "Look at the 'Getting started' picture on page 52: Adjo, on roller skates, is being pulled along towards a wall. Ask: 'What is going to happen?' (He will crash into the wall.) 'How can Adjo not crash?' (His friend can pull him to the side, he can push his feet sideways to turn, he can drag a foot to slow down.) Read page 53: when you are going one way and then you turn to go a different way you change direction; forces are needed to make things change direction; this boat has pushed the water to make it turn. Ask: 'How does a boatman on the Ganga or in a Kerala backwater turn his boat?' (Pushes the oar or pole against the water or riverbed on one side.)"
+        },
+        {
+          "kind": "game",
+          "title": "Feel the force (page 53 Activity)",
+          "mins": 8,
+          "do": "Play the page 53 'Feel the force' running game outside or in a big room. Your child runs, and when you call 'Change!' they must turn and run another way. Play for three minutes. Then ask: 'How did you change direction? Can you feel the forces you use?' (I pushed my foot hard sideways against the ground; I felt it in my legs and ankles; I leaned.) Try it in socks on a smooth floor (carefully) and ask why it is harder to turn. (The floor is slippery, so your foot can't push on it as well.)"
+        },
+        {
+          "kind": "exp",
+          "title": "This way or that way? (page 54)",
+          "mins": 15,
+          "do": "Do Experiment e6, following page 54. Arun and Zara investigate how a ball changes direction when they push it. They make a diagram to show their prediction: a diagram shows only the important things, with labels and arrows. Tape a large sheet of paper to the floor or a table. Roll a ball slowly across it from left to right. Before you push it from the side, your child draws, in one colour, an arrow showing which way they predict it will go after a side push, and labels it 'prediction'. Then you or they give the ball a sideways push as it rolls past the middle. Draw what really happened in a second colour, labelled 'result'. Ask: 'Was your prediction correct?' Try pushing from different sides and draw each one.",
+          "ref": "e6"
+        },
+        {
+          "kind": "talk",
+          "title": "Diagram or picture? (pages 54–55)",
+          "mins": 5,
+          "do": "Put your child's diagram next to the picture of Arun and Zara on page 54. Ask: 'What does the picture show that the diagram leaves out?' (Faces, clothes, the table, colours.) 'Why is the diagram better for showing what the ball did?' (It shows only the ball, the push and the path, with arrows and labels, so it is clear.) Read the green box on page 55: 'Sometimes, when a prediction is wrong you learn something new.' Ask: 'Was any of your predictions wrong today? What did you learn?'"
+        }
+      ],
+      "need": ["Learner's Book pages 52–55", "a ball", "a large sheet of paper (or chart paper)", "two coloured marker pens", "sticky tape"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "How people use forces",
+      "goal": "Look for forces in sport and at work, and make a forces poster about people we know.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Wheelchair basketball (page 55)",
+          "mins": 5,
+          "do": "Look at the wheelchair basketball photo on page 55. Ask question 1: 'How can they make the wheelchairs change direction?' (Push one wheel forward harder than the other, or pull back on one wheel while pushing the other.) Ask: 'How do they speed up? How do they stop?' (Push both wheels harder; grip and hold the wheels.) Tick the 'Look what I can do!' list on page 55."
+        },
+        {
+          "kind": "act",
+          "title": "Project: how people use forces (page 56)",
+          "mins": 17,
+          "do": "Do Activity a3, the book's project on page 56. Read about Paco the school caretaker: he uses forces to sweep (pull and push of the broom), to mend things (a hammer pushes a nail), and to move things (pushes a trolley). Talk about people your child knows: the didi or bai who sweeps and mops, the cook kneading dough and rolling rotis, the sabziwala pushing his cart, the gardener pulling weeds and pushing the spade, the dhobi pressing clothes with an iron, a cricketer hitting a ball, Papa or Mama opening a stuck jar lid. Your child chooses four people, draws each using a force, and adds red arrows labelled 'push' or 'pull' like the drawings on page 56. If you can, take a photo of a family member using a force.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 13,
+          "do": "Do worksheet ws1 together. Read each question aloud if needed. For every answer ask: 'Push or pull? How do you know?'",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 55–56", "drawing paper", "red and black pens", "printed or on-screen ws1"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Forces in new places",
+      "goal": "Apply what we know about forces to new examples with the stretch worksheet and a playground forces walk.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Playground forces walk",
+          "mins": 15,
+          "do": "Go to a park or playground. At each piece of equipment your child tries it and says which of the four things the force does: makes it move or stop, changes its shape, changes its speed, or changes its direction. On the swing: a push starts it moving and a pull from your feet on the ground slows it. On the slide: they speed up going down and slow when their feet push on the ground at the bottom. On the see-saw: a push down on one side makes the other side go up. On a roundabout: pushing makes it spin faster. Squeeze a ball: shape changes. Ask them to say 'push' or 'pull' every time."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Do worksheet ws2. These questions use new examples, such as cricket, kabaddi and a rickshaw. Let your child think aloud. If stuck, ask them to act out the movement with their hands.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "talk",
+          "title": "Kick a moving ball",
+          "mins": 5,
+          "do": "Roll a ball slowly across in front of your child from left to right. Ask them to kick it straight 'forwards' as it passes. Where does it go? (Not straight forwards: it goes forwards and also carries on to the right, at a slant.) Ask: 'Why?' (It was already moving to the right; the kick adds a push forwards, so it ends up going between the two.) Tell them this will help with tomorrow's last question."
+        }
+      ],
+      "need": ["a park or playground", "a ball", "printed or on-screen ws2"],
+      "prep": []
+    },
+    {
+      "n": 12,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the book's progress questions, try the challenge worksheet and teach the unit back.",
+      "steps": [
+        {
+          "kind": "check",
+          "title": "Check your progress (pages 57–58)",
+          "mins": 10,
+          "do": "Do 'Check your progress' on pages 57–58 aloud. 1. 'Is this girl pulling or pushing? How do you know?' (Pushing: her foot pushes back on the ground, away from her, to move the scooter.) 2. The ball bouncing towards Kamili: 'How can she stop it?' (Catch it, or put her hands or foot in front: a push against it.) 'How can she make it change direction?' (Hit or kick it from the side, or catch it and throw it another way.) 3. Vishni and Chipo on bicycles: 'How can Chipo go faster?' (Push harder on the pedals.) 'How can Vishni slow down?' (Pull the brakes.) 'How can they change direction?' (Turn the handlebars by pushing on one side and pulling on the other.) 4. The ball moving fast across the goal: Nico will kick it with a small force straight at the net and predicts he will score. 'Is his prediction correct?' (Probably not: the ball is already moving fast to the right; a small kick will only bend its path a little, so it will go to the side of the net.) Then ask the questions in this pack's check list."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do worksheet ws3. These are harder 'what if' and puzzle questions. Let your child explain their reasons; for the open questions there is more than one good answer.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child becomes the teacher for a family member. Using the paper rocket, the squashed clay balls, the rubber band table and the direction diagram, they explain: what a force is; the difference between a push and a pull; and the four things a force can do (start or stop movement, change shape, change speed, change direction), with a demonstration of each. They should also explain Lola's mistake. The listener asks two 'why' questions. End by asking your child: 'Which force did you use first thing this morning?'"
+        }
+      ],
+      "need": ["Learner's Book pages 57–58", "printed or on-screen ws3", "the paper rocket, clay balls, rubber band table and diagram from earlier days", "a ball"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Pushes, pulls and what forces do",
+      "day": 10,
+      "sections": [
+        ["A. Push or pull?", [
+          {"t": "sort", "p": "Is it a push or a pull?", "items": ["opening a fridge door", "kicking a football", "pulling up a bucket of water", "rolling a roti with a belan", "switching on a light", "opening a drawer"], "cats": ["Push", "Pull"]},
+          {"t": "fill", "p": "A push is a force ____ from you. A pull is a force towards you.", "a": ["away"]},
+          {"t": "mcq", "p": "Pushes and pulls are called:", "opts": ["forces", "patterns", "habitats", "diagrams"], "a": 0}
+        ]],
+        ["B. What can a force do?", [
+          {"t": "match", "p": "Match each action to what the force does.", "pairs": [["A goalkeeper catches the ball", "makes it stop"], ["Squeezing a ball of dough", "changes its shape"], ["Pushing harder on the pedals", "makes it speed up"], ["Turning the handlebars", "changes its direction"]]},
+          {"t": "mcq", "p": "Omar pulls three toys with elastic. Which one needs the biggest pull?", "opts": ["The one that stretches the elastic the most", "The one that stretches the elastic the least", "They all need the same pull", "The one that does not move"], "a": 0},
+          {"t": "fill", "p": "To slow down on a bike, you pull on the ____.", "a": ["brakes", "brake"]}
+        ]],
+        ["C. Draw it", [
+          {"t": "draw", "p": "Draw yourself pushing a door and pulling a drawer. Add an arrow to show the direction of each force and label it 'push' or 'pull'."},
+          {"t": "write", "p": "Your paper rocket went higher with a big squeeze. Finish: 'The bigger the push, the…'", "lines": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Forces in new places",
+      "day": 11,
+      "sections": [
+        ["A. Sport and work", [
+          {"t": "mcq", "p": "A batter hits a cricket ball that was coming towards her. What does the force of the bat do?", "opts": ["Changes the ball's direction and speed", "Only changes the ball's shape", "Nothing", "Makes the ball stop forever"], "a": 0},
+          {"t": "write", "p": "In kabaddi, a raider runs in and the defenders try to hold her. Name one push and one pull you would see.", "lines": 3},
+          {"t": "mcq", "p": "A cycle-rickshaw puller carries two big sacks of rice. Compared with an empty rickshaw, he needs:", "opts": ["a bigger push on the pedals", "a smaller push on the pedals", "no push at all", "to pull the brakes to start"], "a": 0}
+        ]],
+        ["B. Patterns in results", [
+          {"t": "table", "p": "Rina hung more and more books on a rubber band. Fill in the number of sticky notes you think she got.", "cols": ["Number of books", "Number of sticky notes"], "rows": 5, "prefill": ["0", "1", "2", "3", "4"]},
+          {"t": "fill", "p": "Rina's band was 1 note long with no books and 4 notes with 3 books. With 5 books it will probably be ____ notes long.", "a": ["6", "six"]},
+          {"t": "mcq", "p": "Arjun dropped clay balls from 2, 4, 6 and 8 bricks. What pattern did he probably find?", "opts": ["The higher the drop, the flatter the ball", "The higher the drop, the rounder the ball", "Height makes no difference", "The ball got bigger"], "a": 0}
+        ]],
+        ["C. Direction", [
+          {"t": "draw", "p": "Draw a diagram (not a picture) of a ball rolling across a table and a push from the side. Use one colour for your prediction and another for the result. Add labels and arrows."},
+          {"t": "write", "p": "How is your diagram different from a photograph of the same thing?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking harder about forces",
+      "day": 12,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if there were no friction at all on the floor? What would happen if you tried to walk? What would happen to a ball you rolled?", "lines": 4},
+          {"t": "write", "p": "The paper rocket goes up when the bottle is squashed. What would happen if the paper tube fitted too loosely on the bottle neck? Why?", "lines": 3}
+        ]],
+        ["B. Puzzles", [
+          {"t": "mcq", "p": "A ball is rolling fast from left to right across the goal. Nico kicks it gently straight towards the net. Where will it most likely go?", "opts": ["Into the middle of the net", "Off to the right of the net", "Straight back to Nico", "It will stop dead"], "a": 1},
+          {"t": "sort", "p": "After you push or pull them, which go back to their shape and which stay changed?", "items": ["sponge", "clay", "rubber band", "aluminium foil", "spring", "paper"], "cats": ["Goes back", "Stays changed"]},
+          {"t": "write", "p": "Lola's results were 0 books: 1 note, 3 books: 4 notes, 1 book: 2 notes, 2 books: 3 notes. She said 'There is no pattern.' Explain her mistake and write her results in a better order.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Aristotle said moving things stop because nothing is pushing them any more. Galileo said they stop because something like friction slows them. Which experiment from this unit helps you decide? What did it show?", "lines": 4},
+          {"t": "write", "p": "Nobody is sure if Galileo really dropped balls from the Leaning Tower. Does it matter for the science whether the story is true? Why or why not?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Rubber band pull-o-meter",
+      "day": 2,
+      "question": "Do heavier things need a bigger pull to start them moving?",
+      "need": ["a long rubber band or elastic", "an empty steel tiffin box", "the same tiffin box filled with rice", "a few books tied with string", "a ruler", "paper and pencil"],
+      "steps": [
+        "Tie or hook the rubber band to the front of the empty tiffin box.",
+        "Your child holds the other end and pulls slowly along the floor until the box just starts to move.",
+        "At that moment, measure how long the band is with a ruler.",
+        "Repeat with the full tiffin box and then the pile of books, pulling the same slow way on the same floor.",
+        "Record each length in a table: Object, Prediction, Length of band."
+      ],
+      "predict": "Ask your child to guess first: which object will stretch the band the most before it moves? Why?",
+      "observe": "The band stretches a little for the empty box, more for the full box, and the most for the books. Notice that the object only starts to move once the pull is big enough.",
+      "why": "A rubber band stretches more when it is pulled harder, so its length shows how big the pull is, like Omar's elastic on page 39. Heavier things press down harder on the floor, so there is more rubbing between them and the floor (this rubbing force is called friction). A bigger pull is needed to overcome it and start them moving. That is why the man on page 39 cannot move the huge rock.",
+      "safety": "Do not stretch the band near anyone's face; a snapping band stings.",
+      "time": "13 min"
+    },
+    {
+      "id": "e2",
+      "title": "Paper rocket launcher",
+      "day": 3,
+      "question": "Does a bigger push make the rocket go higher?",
+      "need": ["an empty 1-litre plastic bottle without its cap", "A4 paper", "a pencil", "sticky tape", "scissors"],
+      "steps": [
+        "Roll a strip of paper round a pencil (or a marker a little wider than the bottle neck) to make a tube about 15 cm long and tape it.",
+        "Pinch and fold one end shut and tape it to make the nose.",
+        "Slide the pencil out and fit the tube loosely over the bottle neck.",
+        "Stand the bottle on the floor, pointing up and away from people.",
+        "Predict with your hand how high the rocket will go, then give the bottle a small squeeze.",
+        "Reload, predict again, then give a big, fast squeeze with both hands.",
+        "Repeat each one three times and record roughly how high it went (up to my knee, my head, the ceiling)."
+      ],
+      "predict": "Ask your child to guess first: show with your hand how high the rocket will go with a small push, and how high with a big push.",
+      "observe": "With a small squeeze the rocket pops up a little or just falls off. With a big squeeze it shoots up much higher, sometimes to the ceiling.",
+      "why": "Squashing the bottle is a push. It pushes the air inside out through the neck very fast. That moving air pushes on the closed end of the paper rocket and launches it upwards. A bigger push squeezes the air out faster, so it gives the rocket a bigger push, and the rocket goes higher. Then the pull of gravity slows it and brings it down. Real rockets work by pushing hot gases out of their bottom very fast, which pushes the rocket the other way, upwards.",
+      "safety": "Never point the rocket at anyone's face or eyes. Launch only from the floor, pointing up.",
+      "time": "18 min"
+    },
+    {
+      "id": "e3",
+      "title": "Clay ball drop",
+      "day": 4,
+      "question": "Does the height we drop a clay ball from change how much its shape changes?",
+      "need": ["soft clay or atta dough for 5 equal balls", "8 identical Lego bricks, matchboxes or small dabbas", "a hard floor", "paper for a table"],
+      "steps": [
+        "Make five balls of clay the same size.",
+        "Stack 2 bricks and hold a ball level with the top; let go (do not throw).",
+        "Draw the squashed ball in the table next to '2 bricks'.",
+        "Repeat with a fresh ball from 4, 6 and 8 bricks.",
+        "Line up the four balls in order and look for a pattern.",
+        "Use the pattern to predict the 10-brick result, then test it with the last ball."
+      ],
+      "predict": "Ask your child to guess first: will the ball dropped from 8 bricks look the same as the one from 2 bricks? Which will be flattest?",
+      "observe": "The 2-brick ball has only a small flat patch. Each higher drop gives a bigger, flatter patch. The 10-brick ball should be the flattest of all.",
+      "why": "As the ball falls, gravity pulls it faster and faster. The higher you drop it, the longer it falls, so the faster it is going when it hits the floor. When it lands, the floor pushes back on the ball and stops it. A faster ball needs a bigger push to stop it, and this bigger push squashes the soft clay more. Clay keeps its new shape, so we can see and compare the results. The pattern is: the higher the drop, the flatter the ball.",
+      "safety": "Drop the clay onto newspaper on a hard floor; wipe up so no one slips.",
+      "time": "13 min on Day 4 + 13 min on Day 5"
+    },
+    {
+      "id": "e4",
+      "title": "How forces change rubber bands",
+      "day": 6,
+      "question": "What happens to the length of a rubber band when the pull gets bigger?",
+      "need": ["a big rubber band", "2 small rubber bands", "a paperclip", "3 same-sized notebooks", "a heavy book", "sticky notes or same-sized paper squares", "sticky tape"],
+      "steps": [
+        "Hang the big rubber band over the edge of a table, held down on top by a heavy book.",
+        "Make a hook from the paperclip and a cradle from the two small rubber bands to hold notebooks.",
+        "Stick a column of sticky notes on the table leg beside the band, edge to edge.",
+        "Count how many notes long the band is with 0 books.",
+        "Add 1 notebook, wait until it is still, and count again. Repeat with 2 and 3 notebooks.",
+        "Record in a table: Number of books, Number of sticky notes, in order."
+      ],
+      "predict": "Ask your child to guess first: will the band get longer, shorter or stay the same as you add books? How long will it be with 3 books?",
+      "observe": "The band gets longer with every book, by about the same amount each time, for example 1, 2, 3, 4 notes.",
+      "why": "The books are pulled down by gravity, so they pull down on the band. More books make a bigger pull, so the band stretches more. As long as you do not stretch it too far, a rubber band stretches by about the same extra amount for each extra book. That steady change is a pattern. Adding one book each time makes each step the same size, so the pattern is easy to see. If the band is stretched much too far it will stop following the pattern, and may snap.",
+      "safety": "Keep faces away from the stretched band. Do not stand under the books.",
+      "time": "20 min"
+    },
+    {
+      "id": "e5",
+      "title": "Blow the ball",
+      "day": 8,
+      "question": "Can air push a ball to make it speed up or slow down?",
+      "need": ["a ping-pong ball or a tight ball of foil", "a smooth table"],
+      "steps": [
+        "Sit at opposite ends of a smooth table.",
+        "The parent rolls the ball gently towards the child.",
+        "The child blows hard at the front of the ball to slow it down and try to stop it.",
+        "Roll the ball across again; this time the child blows from behind it, in the direction it is moving.",
+        "Compare a gentle blow with a hard blow from behind."
+      ],
+      "predict": "Ask your child to guess first: can you stop a moving ball just by blowing at it? Can you make it go faster without touching it?",
+      "observe": "Blowing at the front slows the ball, and it may stop or roll back. Blowing from behind makes it speed up. A harder blow changes the speed more.",
+      "why": "Moving air pushes on things it hits; you feel it in a strong wind or in front of a fan. Blowing at the front of the ball pushes against its movement, so it slows down. Blowing from behind pushes the same way it is going, so it speeds up. A light ball is easy to push, so even breath can change its speed. A bigger push gives a bigger change in speed: 'the bigger the push, the faster it goes'.",
+      "safety": "Do not blow so hard that you get dizzy; take a rest between blows.",
+      "time": "13 min"
+    },
+    {
+      "id": "e6",
+      "title": "This way or that way?",
+      "day": 9,
+      "question": "Which way does a rolling ball go when we push it from the side?",
+      "need": ["a ball", "a large sheet of paper taped down", "two coloured marker pens"],
+      "steps": [
+        "Tape a large sheet of paper flat on the floor or a table.",
+        "Roll the ball slowly across the paper from left to right and draw its path with an arrow.",
+        "In one colour, draw an arrow showing which way you predict the ball will go after a side push, and label it 'prediction'.",
+        "Roll the ball again and give it a gentle push from the side as it passes the middle.",
+        "In the second colour, draw the path it really took and label it 'result'.",
+        "Try pushes from the other side and from the front, and draw each one."
+      ],
+      "predict": "Ask your child to guess first, by drawing: when you push the rolling ball from the side, will it go straight on, go exactly the way you pushed, or go somewhere in between?",
+      "observe": "The ball changes direction, usually going off at a slant: partly the way it was rolling and partly the way it was pushed. A push from the front slows it or sends it back.",
+      "why": "A moving ball keeps going the same way at the same speed unless a force acts on it. A side push adds movement sideways, but the ball still has its forward movement, so it ends up going diagonally, between the two. A bigger side push makes a sharper turn. This is how footballers bend a pass, how a cyclist turns, and why Nico's gentle kick on page 58 will not go straight into the net.",
+      "safety": "Use a soft ball and keep the space clear.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {"id": "a1", "title": "Push or pull house hunt", "day": 1, "mins": 15, "need": ["paper with columns 'Push', 'Pull', 'Both'", "pencil"], "steps": ["Walk around the house and try at least ten things.", "For each, decide whether you pushed or pulled it.", "Write or draw it in the right column.", "Put things that need a push and a pull in 'Both'."], "outcome": "A three-column chart of household pushes and pulls."},
+    {"id": "a2", "title": "Speed question cards", "day": 7, "mins": 15, "need": ["sticky notes or small paper cards", "pencil"], "steps": ["Make starter cards: 'How do you make…', 'Go faster?', 'Go slower?'.", "Make object cards: a ball, a paper plane, a scooter, a swing.", "Mix and match cards to make at least four questions.", "For each question, say how you could find out the answer."], "outcome": "A set of question cards and at least four science questions about speed with ideas for testing them."},
+    {"id": "a3", "title": "How people use forces poster", "day": 10, "mins": 17, "need": ["drawing paper", "red and black pens", "a phone camera (optional)"], "steps": ["Choose four people you know who use forces in their work or play.", "Draw each person using a force.", "Add a red arrow to show each force and label it 'push' or 'pull'.", "Write one sentence under each: what the force does (moves, stops, changes shape, speed or direction)."], "outcome": "A labelled poster of how people around us use pushes and pulls."}
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Vikram Sarabhai (1919–1971) and India's first rocket launch at Thumba (1963), India",
+      "idea": "Vikram Sarabhai, a physicist from Ahmedabad, believed that a newly independent India should use space science for its own needs, such as weather forecasting and communication. On 21 November 1963 a small team launched India's first sounding rocket (a rocket that goes up to study the upper air) from Thumba near Thiruvananthapuram, chosen partly because it lies close to the magnetic equator. The rocket itself was American-made; a church building nearby became an office, and rocket parts were carried by bicycle. Sarabhai went on to found the Indian Space Research Organisation (ISRO) in 1969. Long before that, in the late 1700s, the armies of Hyder Ali and Tipu Sultan of Mysore used iron-cased war rockets, which British engineers later studied when developing their own rockets.",
+      "then": "Some people asked whether a poor country should spend money on rockets at all. Sarabhai argued that space technology would help ordinary people, for example through weather satellites and television for villages.",
+      "now": "His view is widely accepted today: ISRO's satellites are used for weather warnings, mapping, farming and communications, and India has sent missions to the Moon and Mars. Every rocket, from a paper rocket to a real one, works by pushing gas one way so that it is pushed the other way.",
+      "status": "accepted",
+      "ask": "Your paper rocket went higher with a bigger push. What would you need to change, and to measure, to find out the best way to make it go even higher?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Aristotle (384–322 BCE), Greece, and Galileo Galilei (1564–1642), Italy",
+      "idea": "Aristotle taught that the natural state of things on Earth is to be at rest, and that a moving object keeps moving only while something keeps pushing it; take away the push and it stops by itself. This seemed to match everyday life, where a pushed cart soon stops.",
+      "then": "Aristotle's view was taught for close to two thousand years. In the early 1600s Galileo rolled balls down and up sloping ramps and noticed that the smoother the ramp, the further the ball went. He argued that a ball on a perfectly smooth, level surface would keep rolling forever, and that things stop only because something, such as rubbing (friction) or air, slows them down. Isaac Newton later made this his first law of motion (1687).",
+      "now": "Aristotle's idea that moving things need a constant push to keep moving has been rejected. Scientists now say a moving thing keeps moving at the same speed in the same direction unless a force acts on it. Spacecraft far out in space coast for years without engines, because there is almost nothing to slow them.",
+      "status": "rejected",
+      "ask": "Aristotle's idea matched what people saw every day, and it was still wrong. What experiment did you do that helped you see past what usually happens? Why is it easy to believe an idea that 'looks right'?",
+      "day": 8
+    },
+    {
+      "id": "v3",
+      "who": "The Leaning Tower of Pisa story: Galileo Galilei (1564–1642), and Simon Stevin (1548–1620), Netherlands",
+      "idea": "A famous story says that Galileo dropped two balls of different weights from the Leaning Tower of Pisa, around 1590, to show that they hit the ground at the same time, against Aristotle's teaching that heavier things fall faster. The story comes from a biography written by Vincenzo Viviani, Galileo's assistant late in his life.",
+      "then": "Galileo's own writings argue carefully that heavy and light objects fall at nearly the same rate, using thought experiments and ramps, but they do not describe a tower drop at Pisa. Meanwhile, in 1586, the Dutch scientist Simon Stevin and a friend did drop two lead balls, one ten times heavier than the other, from a church tower in Delft and heard them land at the same moment.",
+      "now": "The science is accepted: without air in the way, all objects fall at the same rate. An astronaut, David Scott, dropped a hammer and a feather on the Moon in 1971 and they landed together. Whether Galileo actually did the Pisa tower drop is still debated by historians; many think it may be a story told later.",
+      "status": "debated",
+      "ask": "If nobody wrote down the tower drop at the time, how could historians decide whether it really happened? What kind of evidence would convince you?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is a force?", "a": "A push or a pull."},
+    {"q": "What is the difference between a push and a pull?", "a": "A push is a force away from you; a pull is a force towards you."},
+    {"q": "Name four things a force can do.", "a": "Make something start moving or stop, change its shape, change its speed (speed up or slow down), change its direction."},
+    {"q": "Why did the clay ball dropped from 8 bricks look different from the one dropped from 2 bricks?", "a": "It fell from higher, so it was moving faster when it hit the floor, and the bigger push from the floor squashed it flatter."},
+    {"q": "Lola said there was no pattern in her rubber band results. What was wrong?", "a": "She wrote the number of books in a jumbled order. In order 0, 1, 2, 3 the notes go 1, 2, 3, 4, which is a pattern."},
+    {"q": "How do you make a bicycle speed up, slow down and turn?", "a": "Push harder on the pedals to speed up; pull the brakes to slow down; turn the handlebars to change direction."},
+    {"q": "How is a diagram different from a picture?", "a": "A diagram shows only the important things, with labels and arrows; a picture shows everything as it looks."},
+    {"q": "Why does a ball rolled on a carpet stop sooner than one on a smooth floor?", "a": "The carpet rubs on it more (more friction), which slows it down faster."}
+  ]
+}

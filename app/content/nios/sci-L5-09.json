@@ -1,0 +1,499 @@
+{
+  "key": "nios|sci|5|9",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 9,
+  "title": "Conservation of Soil and Forests",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 9 (lesson pages 136–146)",
+  "summary": "The fertile top layer of soil is a farmer's wealth, and rain and wind can carry it away. Your child sees soil erosion happen in trays at home, learns how farmers stop it with field boundaries (dolbandi), embankments, terraces, check dams, drainage and, above all, trees and grass whose roots hold the soil. They then find out how polythene, glass, pesticides, too much chemical fertiliser and factory waste pollute soil, and how compost and other organic manures keep it healthy, including where scientists still argue.",
+  "goals": [
+    "By the end your child can explain what soil erosion is and show, with a home model, how fast-flowing water and strong wind carry away loose topsoil.",
+    "By the end your child can list at least five harmful effects of soil erosion, from lower crop yield to blocked canals and floods.",
+    "By the end your child can describe six ways of preventing erosion (boundary or dolbandi, embankment, terrace farming, forests and grass, check dams, drainage) and say why each works.",
+    "By the end your child can explain why forests matter for soil, water and living things, and tell the story of the Chipko movement.",
+    "By the end your child can name the main causes of soil pollution and ways to prevent it, including segregating waste and using compost and other organic manure.",
+    "By the end your child can weigh the debate about organic and chemical farming, and say what evidence would help decide it."
+  ],
+  "words": [
+    ["topsoil", "the dark, crumbly top layer of soil, usually only a hand's depth or so, which holds most of the humus and food for plants; it is the most fertile layer"],
+    ["soil erosion", "the wearing away and carrying off of soil from its place by fast-flowing water or strong wind; the book also calls it de-layering or degradation of soil"],
+    ["gully", "a narrow channel cut into the ground by rainwater rushing along the same path again and again; big gullies can grow into ravines"],
+    ["ravine", "a deep, narrow valley with steep sides cut by water over many years, like the Chambal ravines"],
+    ["dolbandi", "a raised earth boundary (bund) built around all four sides of a field so the topsoil and manure are not washed away"],
+    ["embankment", "a raised bank of earth across a sloping field that slows down water, with an outlet so extra water can flow out"],
+    ["terrace farming", "cutting a steep hillside into a series of flat steps, each higher than the one before, so water cannot rush down and carry the soil away"],
+    ["check dam", "a small low wall built across a stream or drain to slow the water; the soil settles behind it and water seeps into the ground"],
+    ["saline", "salty; land where water stands for too long can become saline as water evaporates and leaves salt behind, and few crops grow in it"],
+    ["soil pollution", "damage to the soil when poisonous or harmful things such as plastic, glass, pesticides or factory waste mix into it"],
+    ["pesticide", "a chemical used to kill insects and other pests that eat crops; used carelessly, it also harms soil life, water, animals and people"],
+    ["organic manure", "plant food made from once-living things, such as compost, cow-dung manure, vermicompost (made by earthworms), khali (oilseed cake such as neem cake) and green manure"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Why is soil a farmer's wealth?",
+      "goal": "Start from the mud and dust in our own lives, find out what topsoil is and why it is precious, and set up a long test of what rots in soil and what does not.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Where does the mud go?",
+          "mins": 6,
+          "do": "Ask your child: 'After heavy rain, what colour is the water running down the road or in the drain? Why is it brown?' Good answer: 'Because it is carrying soil.' Then ask: 'In summer, when the loo (hot wind) blows or a dust storm comes, what settles on the windowsill?' (Fine dust, which is soil carried by wind.) Ask: 'Where did that soil come from, and where is it going?' Let them guess freely. Tell them: 'Today we start finding out why losing this soil is a big problem for farmers, and for all of us who eat.'"
+        },
+        {
+          "kind": "read",
+          "title": "Opening of Lesson 9 (lesson pages 136–137)",
+          "mins": 8,
+          "do": "Read aloud the opening paragraph of Lesson 9: 'Soil is called a farmer's wealth...' and the start of section 9.1 about the top layer of soil. Stop and ask: 'Why does the book call soil a farmer's wealth?' (Crops grow in it; without good soil there is no harvest and no income.) 'Which layer is most valuable?' (The top layer.) 'What happens to crops if it is destroyed?' (The yield falls sharply.) Read the definition: soil wearing away from its place is called soil erosion, degradation of soil or de-layering, and its two causes are rainwater and wind. Ask your child to say the two causes back to you."
+        },
+        {
+          "kind": "do",
+          "title": "Dig and look: topsoil and the soil below",
+          "mins": 12,
+          "do": "Take a spoon or small trowel to a flower bed, a park corner or a large plant pot. Dig a small hole about a hand deep and look at the side of the hole together. Ask: 'Is the top the same colour as the bottom?' Usually the top is darker and crumbly, with bits of leaves and roots, and lower down it is lighter and harder. Tell them: 'The dark top part is topsoil. The dark colour comes from humus, rotted leaves and roots that feed plants. Nature takes hundreds of years to make just a few centimetres of it.' Put one spoonful of topsoil and one of the lower soil on a white paper and let your child compare with a magnifying glass if you have one: colour, smell, roots, tiny creatures. Fill the hole back in."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the buried-objects test",
+          "mins": 14,
+          "do": "Do Experiment e3. In a pot or a bucket of damp garden soil, bury side by side (5 cm deep, a hand apart): a piece of banana peel, a scrap of newspaper, a piece of polythene bag, a cotton thread and a small piece of broken glass bangle wrapped safely in paper by you (you handle the glass, not your child). Push an ice-cream stick next to each one with its name. Ask your child to predict which will rot away and which will stay the same in two weeks, and write the guesses in the notebook. Ask: 'Why do we bury them all in the same soil at the same depth?' (So that only the material is different, which makes it a fair test.) Keep the soil damp.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Soil in our plate",
+          "mins": 5,
+          "do": "Ask: 'Name everything on today's lunch plate. Which of these grew in soil?' Go through it: rice or wheat roti (grass grown in soil), dal (seed of a soil-grown plant), sabzi, even milk and paneer (the cow ate grass grown in soil). Ask: 'So if the topsoil of India's farms washed away, what would happen to our plates?' Write your child's answer in the notebook under the heading 'Why soil matters'."
+        }
+      ],
+      "need": ["NIOS Environmental Studies Level B, Lesson 9 (lesson pages 136–137)", "a spoon or small trowel", "white paper, magnifying glass (if available)", "a pot or bucket of damp garden soil", "banana peel, newspaper scrap, polythene piece, cotton thread, a small piece of broken glass bangle", "5 ice-cream sticks and a marker", "notebook"],
+      "prep": [{"task": "Find a pot or bucket and fill it with garden soil; collect the five test items", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Rain and wind carry soil away",
+      "goal": "See erosion by water and by wind happen in our own trays, and understand gullies, ravines and why bare soil suffers most.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Erosion by rainfall and wind (lesson page 137)",
+          "mins": 7,
+          "do": "Read aloud 'Erosion due to rainfall' and 'Wind Erosion' on lesson page 137, and look at the two pictures. Ask: 'What is gully erosion?' Good answer: 'When water rushes again and again down narrow channels, it cuts small gullies; over a long time they become big streams and ravines.' Ask: 'Where is wind erosion more common?' (In dry, arid areas, like the Thar desert in Rajasthan.) Tell them about the Chambal ravines in Madhya Pradesh, Rajasthan and Uttar Pradesh: a huge area of deep gullies cut by water over many years, where farmland has been lost."
+        },
+        {
+          "kind": "exp",
+          "title": "Rain on three trays",
+          "mins": 18,
+          "do": "Do Experiment e1. Fill three trays or cut-open milk or juice cartons with soil, all the same amount. Leave tray 1 bare. Cover tray 2 with a layer of dry leaves. In tray 3, use a patch of grass with its roots dug from the garden, or sprouted methi or moong you grew a week earlier. Prop each tray at the same slope on a book, with a cup at the low end. Ask your child to predict which cup will have the muddiest water. Then pour one full mug of water slowly through a watering can or a bottle with holes in the cap over each tray, from the same height. Line up the three cups and compare. Ask: 'Which tray lost the most soil? Why?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Wind on dry and damp soil",
+          "mins": 12,
+          "do": "Do Experiment e2 on newspaper outdoors or on the balcony. Make three small heaps of fine soil or sand on plates: one dry, one sprayed until damp, one dry but covered with a few small stones and dry grass. Stand a sheet of paper behind them as a 'wall'. Ask your child to predict which heap will blow away most. Fan each heap with a hand fan, or a hairdryer on cool (you hold it), for 10 seconds from the same distance. Ask: 'Which heap lost most soil? Why are deserts and dry, bare fields worst hit by wind?' (Dry, loose particles with nothing on top are easy for wind to lift.) Wear old clothes and keep eyes away from the blowing dust.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Bare soil is weak soil",
+          "mins": 4,
+          "do": "Ask your child to write two sentences in the notebook beginning 'Water carries soil away when...' and 'Wind carries soil away when...'. Good answers: '...it flows fast down a slope over bare soil' and '...the soil is dry, loose and has no plants or cover.' Ask: 'What did the leaves and grass do in both tests?' (They covered and held the soil.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Check the buried pot",
+          "mins": 3,
+          "do": "Check the pot from Experiment e3: just feel that the soil is still damp and add a little water if it is dry. Do not dig yet. Ask: 'Which item do you think is changing the fastest under there?' Note the guess with today's date.",
+          "ref": "e3"
+        }
+      ],
+      "need": ["Lesson page 137", "3 trays or cut milk or juice cartons", "garden soil", "dry leaves", "a small patch of grass with roots, or seedlings", "3 cups or glasses", "a watering can or bottle with holes in the cap", "books to prop the trays", "fine soil or sand, 3 plates, a spray bottle, small stones, a hand fan or hairdryer", "old newspaper"],
+      "prep": [{"task": "If you have no grass patch, sow a thick layer of moong or methi in a tray of soil so it has sprouted by today", "when": "1 week before"}]
+    },
+    {
+      "n": 3,
+      "title": "Harm from erosion and how farmers stop it",
+      "goal": "Understand the harmful effects of soil erosion and the six ways of preventing it, and build a hillside model with terraces and a check dam.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Harmful effects of soil erosion (lesson page 137)",
+          "mins": 8,
+          "do": "Read the list 'Harmful effects of soil erosion' on lesson page 137 aloud, one point at a time. After each, ask your child to explain it in their own words. Key points to listen for: the top layer is most fertile, so crops grow poorly when it goes; a field that has lost its topsoil soaks less water, so the water in wells and under the ground goes down; soil deposited in canals and drains blocks them; soil deposited in rivers makes them shallower and floods more likely; small rivers can dry up; pastures lose grass so animals go hungry; and farmers lose income. Ask: 'Which of these could reach us in the city?' (Floods, costlier vegetables, blocked drains.)"
+        },
+        {
+          "kind": "read",
+          "title": "How to prevent soil erosion (lesson pages 138–139)",
+          "mins": 8,
+          "do": "Read 'How to prevent soil erosion' on lesson pages 138–139: making a boundary (dolbandi), making an embankment with an outlet, terrace farming, conservation of forests, check dams, and drainage. Look at each picture. For each method ask: 'How does it stop the soil going?' Good answers: boundary and embankment hold back the water and soil; terraces turn a steep slope into flat steps so water cannot rush; roots hold the soil; check dams slow the water so the soil settles; drains take extra water away so the land does not turn saline (salty). Tell them that terraced fields are a common sight in the hills of Uttarakhand, Himachal, Sikkim, the North-East and the Nilgiris tea gardens."
+        },
+        {
+          "kind": "act",
+          "title": "Build a hill with terraces and a check dam",
+          "mins": 16,
+          "do": "Do Activity a1. In a large tray or a basin, heap damp soil into a steep hill. On one side, press the slope into 4–5 flat steps with your fingers (terraces), each with a tiny raised edge. Leave the other side as a smooth slope. At the bottom, make a little stream channel and place a row of pebbles across it as a check dam. Your child pours a mug of water slowly from a bottle with holes over the top of the hill. Watch together: on the smooth side, water rushes and cuts a gully; on the terraced side, water pools on each step and trickles down slowly. Ask: 'Where did soil collect at the check dam?' (Behind the pebbles.) Take a photo or draw the model.",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "Hugh Bennett, the man who warned about the dust",
+          "mins": 7,
+          "do": "Tell your child the story in Voice v1 in your own words: an American soil scientist warned in 1928 that soil erosion was a national danger, many thought he was exaggerating, and then the Dust Bowl storms of the 1930s blew away the soil of whole farm regions. Tell them that in 1935 a huge dust storm reached Washington while he was speaking to lawmakers, and soon after the US government set up its Soil Conservation Service. Then ask the voice question and let your child answer fully before you share your view.",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: erosion and its prevention",
+          "mins": 6,
+          "do": "Give your child Worksheet ws1 (core), sections A and B, to do on their own. Then go over the answers together, and ask them to explain one wrong answer using the model hill. Also ask the four questions in 'Let's see, what you have learnt 9.1' on lesson page 139 aloud; the book's answers are on lesson page 145.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 137–139 and 145", "a large tray or basin", "damp soil", "a handful of pebbles", "a bottle with holes in the cap", "a mug of water", "Worksheet ws1"],
+      "prep": [{"task": "Keep a bucket of soil slightly damp so it holds a hill shape", "when": "morning"}]
+    },
+    {
+      "n": 4,
+      "title": "Forests: roots that hold the earth",
+      "goal": "Understand why forests must be protected, see the effect of plant cover on soil after rain, and meet the people of the Chipko movement and the Forest Man of Majuli.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Conservation of forests (lesson pages 136 and 138)",
+          "mins": 6,
+          "do": "Re-read the opening lines on lesson page 136: 'Forests are our natural inheritance. Destruction of forest means our own ruin.' Then re-read point 4, 'Conservation of forests', on lesson page 138. Ask: 'What two things happen when trees are cut and uprooted?' (Soil erosion increases, and plants and animals lose their homes.) 'What does the book tell us to do with vacant land?' (Sow grass, shrubs and trees.) Add what forests also do: they slow rain so it soaks into the ground and fills wells and springs, give shade and cooler air, give fruit, wood, honey, medicines and fodder, and take in carbon dioxide from the air."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Come, let's do: after the rain (lesson page 144)",
+          "mins": 15,
+          "do": "Do the first 'Come, let's do' task on lesson page 144. Go to a nearby park, ground or empty plot (best after rain; if it has not rained, pour a bucket of water on a bare patch and a grassy patch on a slope). Look for: places with grass and places without; a slope and a flat surface. Ask at each place: 'Can you see little channels? Is the soil washed off? Is there mud at the bottom of the slope? Has soil splashed up on walls?' Your child draws two quick sketches in the notebook: 'grassy patch' and 'bare patch'. Ask: 'Why is there this difference?' Good answer: 'Grass covers the soil and its roots hold it, so water cannot carry it away; bare soil on a slope washes off.' Also look under a big tree for exposed roots where soil has gone."
+        },
+        {
+          "kind": "think",
+          "title": "Gaura Devi and the Chipko movement",
+          "mins": 10,
+          "do": "Tell your child the story in Voice v2: in March 1974 in Reni village in the hills of Uttarakhand, Gaura Devi and the women of the village stood guard over their forest and hugged the trees so that the contractors' men could not cut them. 'Chipko' means 'to stick to' or 'to hug'. Ask: 'Why would village women care so much about a forest?' (It gave them firewood, fodder, water from springs, and held their hill slopes so landslides and floods did not come.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "think",
+          "title": "Jadav Payeng grows a forest",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: on a bare sandbar near Majuli island in the Brahmaputra in Assam, a young man started planting bamboo and trees around 1979, and kept planting for decades until a forest grew. Ask: 'What would the river do to a bare sandbar during floods?' (Wash the sand and soil away.) 'What changed when the trees grew?' (Roots held the ground, and animals came to live there.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "do",
+          "title": "Root power test",
+          "mins": 6,
+          "do": "Gently pull out one small weed or grass clump with its roots from a pot or the park (with permission) and shake it. Show your child how many fine roots there are and how the soil clings to them. Then hold a spoonful of loose soil with no roots on your palm and blow gently on both. Ask: 'Which soil stays put?' Write in the notebook: 'Roots hold soil like a net.'"
+        }
+      ],
+      "need": ["Lesson pages 136, 138 and 144", "a park, ground or empty plot with grassy and bare patches", "a bucket of water (if it has not rained)", "notebook and pencil", "a small weed or grass clump"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Soil pollution and healthy soil",
+      "goal": "Learn the causes of soil pollution and how to prevent it, dig up our buried-objects test, make a small compost pot, and weigh the debate about organic and chemical farming.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Soil pollution: causes (lesson pages 139–140)",
+          "mins": 7,
+          "do": "Read section 9.2 'Soil Pollution' and 'Causes of soil pollution' on lesson pages 139–140 aloud. Ask your child to count on their fingers the four causes the book gives: household and street waste with polythene, glass and iron; chemical pesticides used carelessly; too much chemical fertiliser; and poisonous factory waste dumped in rivers and drains that reaches the farms. Ask: 'Why does the book say we are all responsible?' (Because we all throw waste, and we buy the crops grown this way.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Dig up the buried objects",
+          "mins": 10,
+          "do": "Finish Experiment e3. With gloves or a spoon, dig up each object and lay it on newspaper. Your child records in a table: item, what it looked like on Day 1, what it looks like now. Usually the banana peel is dark, soft and partly gone; the newspaper is soft and torn; the cotton thread is weakening; the polythene and the glass look exactly the same. Ask: 'Which did your guess get right? What would happen if a farm got a little polythene and glass every year for twenty years?' (It would build up, block roots and water, and never go away.) You handle the glass and throw it safely in a newspaper wrap. Wash hands.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "How to prevent soil pollution (lesson pages 140–141)",
+          "mins": 8,
+          "do": "Read 'How to prevent soil pollution' on lesson pages 140–141: segregate polythene, glass and iron; factories must not dump poison; use organic manure such as compost, cow-dung manure, nadep compost, vermicompost, khali (oilseed cake) and green manure; neem-based sprays; and seed treatment with helpful microbes. Explain the garbled names in the book: 'dricoderma' is Trichoderma, a helpful fungus; 'raijobium' is Rhizobium, bacteria that live in the roots of dal plants and add nitrogen to the soil; P.S.B. means phosphate-solubilising bacteria. Be honest with your child: neem cake and neem sprays really do repel many pests; some others in the list, like cow urine sprays, have much weaker scientific evidence; and dhatura and tobacco are poisonous plants that children must never handle."
+        },
+        {
+          "kind": "act",
+          "title": "Start a small compost pot",
+          "mins": 10,
+          "do": "Do Activity a2. In a bucket or pot with a few holes in the bottom, your child adds layers: dry leaves, vegetable and fruit peels from today's kitchen (no oil, meat, dairy or cooked food), a handful of garden soil, then dry leaves again. Sprinkle water till it is damp like a squeezed sponge, and cover with a cloth or lid. Ask: 'Who will turn this into manure?' (Tiny bacteria, fungi and small creatures in the soil, which break down once-living things.) Plan to stir it once a week; it should be ready in 6–8 weeks.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Organic or chemical? A live debate",
+          "mins": 10,
+          "do": "Tell your child Voice v4 in simple words: the book says organic farming is best. Sikkim made all its farming organic by 2016. But in 2021 Sri Lanka suddenly banned chemical fertiliser, and its rice and tea harvests fell so much that the ban was taken back within months. Explain both sides: organic manure builds humus and soil life, while chemical fertiliser gives a quick, large dose of plant food; too much of it, or careless pesticide use, harms soil and water. Ask the voice question, and help your child see that 'how much, and how carefully' may matter more than 'organic or chemical'.",
+          "ref": "v4"
+        }
+      ],
+      "need": ["Lesson pages 139–141", "the buried-objects pot from Day 1", "old newspaper, a spoon or gloves", "a bucket or pot with holes", "dry leaves, fruit and vegetable peels, garden soil, water, a cloth or lid"],
+      "prep": [{"task": "Save the day's fruit and vegetable peels in a bowl", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Let us revise, check and teach it back",
+      "goal": "Review the whole lesson with the book's revision and exercises, try the stretch and challenge worksheets, check understanding and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and the 9.2 questions (lesson page 142)",
+          "mins": 6,
+          "do": "Read 'Let's Revise' on lesson page 142 together, one point at a time; after each point your child says which day's experiment or model showed it. Then ask the four questions of 'Let's see, what you have learnt 9.2' on lesson page 142 aloud. Good answers: polythene, glass and iron pieces; compost, cow-dung manure, vermicompost, green manure, khali manure; neem-based sprays and other organic treatments; organic farming."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 9,
+          "do": "Your child does Worksheet ws2 (stretch) on their own. Then go over it together. For the 'which method for which place' items, ask them to explain their reason using the model hill or the rain trays.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge) together, talking it through. Let your child do the thinking and writing; you only ask 'Why?' and 'How do you know?'. The last section revisits the voices of Hugh Bennett, Chipko and the organic debate.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud one at a time without the book. Tick the ones answered well. For any missed one, open the matching lesson page (erosion page 137, prevention pages 138–139, pollution pages 139–141), read the part together for one minute and ask again in different words. Five or more right is good; fewer than four means redo the rain trays and the model hill next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child becomes the teacher for a family member. In 5 minutes, using the rain trays, the model hill and the dug-up objects, they must teach: what topsoil is and why it is precious; how water and wind cause erosion; three ways to stop it; and two causes of soil pollution. The 'student' asks: 'Why don't farmers on hills just plough the slope?' and 'Why can't we bury polythene to get rid of it?'. End by agreeing one family action: segregate dry waste (plastic, glass, metal) from wet waste at home from today, and stir the compost pot every Sunday."
+        }
+      ],
+      "need": ["Lesson pages 142–144", "Worksheets ws2 and ws3", "the rain trays, model hill and dug-up objects (or photos of them)"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Soil erosion and how to prevent it",
+      "day": 3,
+      "sections": [
+        ["A. What is soil erosion?", [
+          {"t": "fill", "p": "The wearing away of soil from its place is called soil ____.", "a": ["erosion"]},
+          {"t": "fill", "p": "The two causes of soil erosion are rainwater and ____.", "a": ["wind"]},
+          {"t": "mcq", "p": "Which layer of soil is most fertile?", "opts": ["The deepest rock layer", "The top layer", "The middle layer", "All layers are the same"], "a": 1},
+          {"t": "fill", "p": "Rapid flow of water in narrow channels creates small ____.", "a": ["gullies", "gullys", "gully"]},
+          {"t": "mcq", "p": "Wind erosion is most common in:", "opts": ["Wet, forested hills", "Dry, arid areas", "Rice fields full of water", "Snowy mountains"], "a": 1}
+        ]],
+        ["B. Stopping erosion", [
+          {"t": "match", "p": "Match each method to how it works.", "pairs": [
+            ["Dolbandi (boundary)", "A raised wall of earth on all four sides of the field"],
+            ["Terrace farming", "Steps cut into a steep slope"],
+            ["Check dam", "A low wall across a stream that slows the water"],
+            ["Planting trees and grass", "Roots hold the soil"],
+            ["Drainage", "Lets extra water out so the land does not turn salty"]
+          ]},
+          {"t": "fill", "p": "Making a boundary around a field is also called ____.", "a": ["dolbandi"]},
+          {"t": "write", "p": "Write two harmful effects of soil erosion.", "lines": 3},
+          {"t": "draw", "p": "Draw a hillside with terrace farming. Show where the water goes."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Soil in new places",
+      "day": 6,
+      "sections": [
+        ["A. Which method for which place?", [
+          {"t": "mcq", "p": "Pema's family grows cardamom on a steep hillside in Sikkim. Rain washes the soil down. What should they do first?", "opts": ["Make terraces", "Use more chemical fertiliser", "Cut the trees for more space", "Leave the soil bare"], "a": 0},
+          {"t": "mcq", "p": "Water stands for many weeks in Ramesh's field and a white crust appears on the soil. What is happening and what will help?", "opts": ["The soil is becoming saline; dig proper drains", "The soil is too dry; build a check dam", "Wind erosion; plant trees", "Nothing is wrong"], "a": 0},
+          {"t": "mcq", "p": "A village in Rajasthan has dry, loose sandy fields and strong summer winds. Which helps most?", "opts": ["Rows of trees and shrubs as windbreaks, and keeping grass and stubble on the soil", "Ploughing the fields many times in summer", "Burning the grass", "Removing all stones"], "a": 0},
+          {"t": "write", "p": "A small stream near Leela's village floods every monsoon and carries mud. Suggest one method and explain how it helps.", "lines": 3}
+        ]],
+        ["B. Soil pollution", [
+          {"t": "sort", "p": "Sort these by what they do in soil.", "items": ["Banana peel", "Polythene bag", "Glass bottle piece", "Dry leaves", "Cotton cloth", "Iron nail", "Vegetable peels", "Plastic straw"], "cats": ["Rots and becomes part of soil", "Stays and harms soil"]},
+          {"t": "match", "p": "Match the organic manure to what it is made from.", "pairs": [
+            ["Compost", "Rotted leaves and kitchen peels"],
+            ["Vermicompost", "Waste eaten and turned into manure by earthworms"],
+            ["Neem khali", "The cake left after pressing oil from neem seeds"],
+            ["Green manure", "A crop grown and ploughed back into the field"]
+          ]},
+          {"t": "write", "p": "Your neighbour throws waste with polythene into the manure pit. What would you tell them, and why?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a soil scientist",
+      "day": 6,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if every tree on a hill above a village was cut down in one year? Write what would happen to the hill, the village and its wells over the next five monsoons.", "lines": 5},
+          {"t": "write", "p": "Nature takes hundreds of years to make a few centimetres of topsoil, but one heavy monsoon can wash some away from a bare field. Why does this make soil conservation so important?", "lines": 4},
+          {"t": "table", "p": "Design a fair test to find out whether grass or dry leaves protect soil better from rain. Fill in the plan.", "cols": ["Question", "Answer"], "rows": 4, "prefill": ["What will I change?", "What will I keep the same?", "What will I measure?", "What do I predict?"]}
+        ]],
+        ["B. Weighing the voices", [
+          {"t": "write", "p": "Hugh Bennett was called an alarmist before the Dust Bowl. How can we tell the difference between a warning that is true and one that is exaggerated?", "lines": 4},
+          {"t": "write", "p": "Sikkim went fully organic; Sri Lanka's sudden ban on chemical fertiliser cut its harvests. List one reason each experience might have turned out so differently.", "lines": 4},
+          {"t": "mcq", "p": "Which of these is the strongest kind of evidence that a pest spray works?", "opts": ["An advertisement says so", "A farmer's grandfather used it", "Many fields with and without the spray are compared over several seasons", "It smells strong"], "a": 2},
+          {"t": "write", "p": "The Chipko women had no power or money. Why do you think their protest worked?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Rain on three trays",
+      "day": 2,
+      "question": "Does covering soil with leaves or growing plants protect it from being washed away by rain?",
+      "need": ["3 trays or cut milk or juice cartons", "equal amounts of garden soil", "dry leaves", "a patch of grass with roots, or sprouted seedlings", "3 clear cups or glasses", "a watering can or a bottle with holes in the cap", "books to prop the trays at the same slope", "a mug for measuring water"],
+      "steps": [
+        "Fill all three trays with the same amount of soil and press it down the same way.",
+        "Leave tray 1 bare, cover tray 2 with dry leaves, and use grass or seedlings with roots in tray 3.",
+        "Prop all three on books at the same slope, with the low end over a clear cup.",
+        "Pour one full mug of water slowly over each tray from the same height, using the watering can.",
+        "Line up the three cups and compare how muddy the water is. Let them stand for 10 minutes and compare how much soil settles at the bottom."
+      ],
+      "predict": "Ask your child to guess first: which cup will have the muddiest water, and which the clearest? Write the order down.",
+      "observe": "Record the colour of the water in each cup and the depth of mud that settles. Usually the bare tray gives very muddy water and many little channels in the soil; the leaf tray gives less; the grass tray gives the clearest water and almost no channels.",
+      "why": "Raindrops hit bare soil hard and knock loose particles free; then flowing water carries them downhill, faster on a slope. Leaves act like an umbrella that takes the hit of the drops and slows the water. Grass does that too, and its roots also form a net that binds soil particles together, while the water soaks into the soil along the roots instead of running off. This is why forests, grass and crop cover protect fields, and why the book asks us to sow grass, shrubs and trees on empty land.",
+      "safety": "Work outdoors or on newspaper. Wash hands after handling soil.",
+      "time": "18 min"
+    },
+    {
+      "id": "e2",
+      "title": "Wind on dry, damp and covered soil",
+      "day": 2,
+      "question": "Which soil does wind carry away most easily: dry, damp or covered?",
+      "need": ["fine dry soil or sand", "3 plates", "a spray bottle of water", "a few small stones and some dry grass", "a hand fan or a hairdryer on the cool setting", "a sheet of paper as a backdrop", "old newspaper"],
+      "steps": [
+        "Make three equal heaps of fine soil on three plates.",
+        "Spray heap 2 until it is damp all through. Cover heap 3 with a few stones and dry grass. Leave heap 1 dry and bare.",
+        "Stand the paper behind the plates.",
+        "Fan each heap for 10 seconds from the same distance, or the parent holds the hairdryer on cool.",
+        "Compare how much each heap shrank and how much dust landed on the paper."
+      ],
+      "predict": "Ask your child to guess first: which heap will lose the most soil? Which the least?",
+      "observe": "The dry, bare heap usually loses the most and coats the paper with dust. The damp heap hardly moves. The covered heap loses a little from the gaps.",
+      "why": "Wind can only lift particles that are loose, light and dry. Water makes soil particles stick to each other, so damp soil holds together. Stones, grass and plant roots shield the surface from the wind. This is why wind erosion is worst in dry, arid areas such as parts of Rajasthan, and why farmers there plant rows of trees as windbreaks and leave crop stubble on fields.",
+      "safety": "Do this outdoors. Keep faces away from the blowing dust. Only a parent uses the hairdryer, on cool, away from water.",
+      "time": "12 min"
+    },
+    {
+      "id": "e3",
+      "title": "What rots in soil and what stays?",
+      "day": 1,
+      "question": "Which kinds of waste break down in soil, and which stay and pollute it?",
+      "need": ["a pot or bucket of damp garden soil", "a piece of banana peel", "a scrap of newspaper", "a piece of polythene bag", "a cotton thread", "a small piece of broken glass bangle (parent handles it)", "5 ice-cream sticks and a marker", "gloves or a spoon", "old newspaper"],
+      "steps": [
+        "Bury each item about 5 cm deep in the soil, a hand's width apart.",
+        "Mark each with a labelled ice-cream stick.",
+        "Keep the soil damp, like a squeezed sponge, and keep the pot in shade.",
+        "After about two weeks (or at least 4 days if that is all the time you have), dig each item up gently with a spoon or gloves.",
+        "Lay them on newspaper and compare with what they were like on Day 1."
+      ],
+      "predict": "Ask your child to guess first: which items will have changed, and which will look the same? Write the guesses down with the date.",
+      "observe": "Record each item's colour, softness and size. Usually the banana peel has turned dark and soft and part has gone; the newspaper is soft and falling apart; the cotton thread is weaker; the polythene and glass are unchanged.",
+      "why": "Soil is full of bacteria, fungi and small creatures such as earthworms that feed on things that were once alive (peel, paper made from wood, cotton from a plant). They break them down into humus and plant food. This is called biodegrading. Polythene is a plastic made from petroleum and glass is melted sand; soil microbes cannot eat them, so they stay for hundreds of years, block water and roots, and break into tiny bits that pollute soil. That is why the book asks us to segregate polythene, glass and iron and send them for recycling, not throw them into fields or manure pits.",
+      "safety": "Only the parent handles the glass piece, wrapped in paper, and throws it away safely afterwards. Wear gloves or use a spoon to dig, and wash hands after.",
+      "time": "14 min to set up + 3 min checks + 10 min to dig up after 4–14 days"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Model hill with terraces and a check dam",
+      "day": 3,
+      "mins": 16,
+      "need": ["a large tray or basin", "damp soil", "a handful of pebbles", "a bottle with holes punched in the cap", "a mug of water", "phone or paper to record"],
+      "steps": [
+        "Heap the damp soil into a steep hill in the tray.",
+        "On one side, press the slope into 4–5 flat steps with tiny raised edges (terraces). Leave the other side smooth.",
+        "Scoop a little stream channel at the foot of the hill and lay a row of pebbles across it as a check dam.",
+        "Pour water slowly over the top of the hill from the bottle.",
+        "Watch the smooth side and the terraced side, and where the soil settles at the check dam.",
+        "Photograph or draw the model before and after."
+      ],
+      "outcome": "A working model that shows how a smooth slope gets cut by gullies while terraces hold water and soil, and how a check dam traps soil behind it. Your child can use it on Day 6 to teach the lesson back."
+    },
+    {
+      "id": "a2",
+      "title": "A kitchen compost pot",
+      "day": 5,
+      "mins": 10,
+      "need": ["a bucket or large pot with a few holes in the bottom", "dry leaves", "raw fruit and vegetable peels", "a handful of garden soil", "water", "a cloth or lid", "a stick for stirring"],
+      "steps": [
+        "Put a layer of dry leaves at the bottom.",
+        "Add a layer of raw peels (no oil, meat, dairy or cooked food, which smell and attract pests).",
+        "Add a handful of garden soil; it brings the microbes that do the work.",
+        "Add another layer of dry leaves. Sprinkle water until it is damp like a squeezed sponge.",
+        "Cover with a cloth or lid and keep it in the shade. Stir once a week and add peels and leaves in layers.",
+        "After 6–8 weeks, when it looks dark and crumbly and smells like earth, use it in a plant pot."
+      ],
+      "outcome": "Home-made compost, one of the organic manures in the book, and a habit of keeping wet waste out of the dustbin. Your child sees that soil life turns waste into food for plants."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Hugh Hammond Bennett (1881–1960), USA",
+      "idea": "Bennett, an American soil scientist, studied farms across the USA and saw that topsoil was being washed and blown away from ploughed, bare fields. In 1928 he co-wrote a government report called 'Soil Erosion: A National Menace', warning that erosion was destroying the country's farmland. He argued for contour ploughing, terraces, cover crops and grass strips.",
+      "then": "Many people, including some officials, thought erosion was a small local problem and that he was exaggerating. Then in the 1930s, after years of drought on over-ploughed grasslands, huge dust storms (the 'Dust Bowl') blew away the soil of farms across the American plains and drove many families from their land. In 1935 the US Congress set up the Soil Conservation Service, with Bennett as its first chief.",
+      "now": "Bennett is often called the father of soil conservation in the USA, and the methods he pushed for are standard practice around the world, including in India. Scientists today agree that soil is lost much faster than it forms on poorly managed land.",
+      "status": "accepted",
+      "ask": "Bennett's warnings were ignored until disaster struck. What evidence could he have shown that might have convinced people earlier? Think of our rain-tray test.",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Gaura Devi (about 1925–1991) and the Chipko movement, Uttarakhand, India",
+      "idea": "In the early 1970s villagers in the Garhwal hills (now in Uttarakhand) protested against forests being given to outside contractors for felling. Leaders included Chandi Prasad Bhatt and later Sunderlal Bahuguna. On 26 March 1974, in Reni village in Chamoli district, while the men were away, Gaura Devi led the village women into the forest and stood guard, refusing to let the loggers cut the trees. 'Chipko' means 'to stick to' or 'to hug'. The villagers knew that the forests held their hill slopes, fed their springs and gave them fodder and firewood.",
+      "then": "At first the government and timber companies saw the villagers as standing in the way of development. The protests spread and drew attention across India and the world.",
+      "now": "The Chipko movement is remembered as one of the most important forest movements in the world. In 1980 the central government put a 15-year ban on cutting green trees in the Himalayan forests of Uttar Pradesh (which then included Uttarakhand). Today scientists widely agree that cutting forests on steep slopes increases soil erosion, landslides and floods, as the hill women said.",
+      "status": "accepted",
+      "ask": "The Reni women knew from daily life that their forest held the hills together. Scientists know it from measurements. How could a scientist test what the women knew?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Jadav 'Molai' Payeng (born 1963), Assam, India",
+      "idea": "Starting around 1979, as a teenager, Payeng began planting bamboo and then trees on a bare, eroding sandbar of the Brahmaputra river near Majuli, Assam. He kept planting and caring for it, mostly alone, for decades. The forest, often called the Molai forest, is reported to cover several hundred hectares and to be home to birds, deer and visiting wild elephants.",
+      "then": "For many years few people outside his area knew about his work. It became widely known after reports by journalists around 2007–2012.",
+      "now": "He was given the Padma Shri in 2015 and is called the 'Forest Man of India'. His forest shows how plant roots can stabilise land that floods and erosion keep eating away, though one forest alone cannot stop a giant river like the Brahmaputra from eroding its islands.",
+      "status": "accepted",
+      "ask": "One person planted a forest. But Majuli island is still losing land to the river. What does that tell us about what one person can do and what needs many people or a government?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "The organic versus chemical farming debate: Sikkim (2016) and Sri Lanka (2021)",
+      "idea": "The book says organic farming, using compost, cow-dung manure, vermicompost and green manure instead of chemical fertilisers and pesticides, is best for soil, people and animals. Sikkim was declared India's first fully organic state in 2016, after phasing out chemical fertilisers and pesticides over about a decade.",
+      "then": "In April 2021 Sri Lanka suddenly banned imports of chemical fertilisers and pesticides to make the whole country organic at once. Farmers had little time or organic manure to switch, and rice and tea harvests fell sharply. The ban was mostly reversed by the end of 2021.",
+      "now": "Scientists agree that organic manure builds humus and soil life, and that overusing chemical fertilisers and pesticides harms soil, water and health. But many studies find that organic farms usually grow less food per field than farms using some fertiliser, so whether the whole world could be fed by organic farming alone is still debated. Many experts now support a mix: build soil with manure and compost, and use chemicals only in the right amounts, tested by soil tests.",
+      "status": "debated",
+      "ask": "Sikkim switched slowly; Sri Lanka switched overnight. If you were in charge of farming for a country, what would you want to measure before deciding?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is soil erosion, and what are its two main causes?", "a": "The wearing away and carrying off of soil from its place. It is caused mainly by fast-flowing rainwater and by strong wind."},
+    {"q": "Why is losing the top layer of soil so harmful?", "a": "The top layer is the most fertile; without it crops grow poorly and yields fall, the field soaks less water so wells go down, and the farmer loses income."},
+    {"q": "What is gully erosion?", "a": "When rainwater rushes again and again through narrow channels, it cuts small gullies; over time they can become streams and deep ravines."},
+    {"q": "How does terrace farming prevent erosion on steep slopes?", "a": "It cuts the slope into flat steps, so water cannot rush downhill; it stays on each step, soaks in and flows slowly, leaving the soil in place."},
+    {"q": "Name three other ways of preventing soil erosion.", "a": "Any three: a boundary around the field (dolbandi), embankments with an outlet, planting trees, grass and shrubs, check dams on streams, and proper drainage."},
+    {"q": "How do forests help stop soil erosion?", "a": "Leaves break the force of rain, and roots hold the soil like a net so water and wind cannot carry it away; forests also let rain soak into the ground."},
+    {"q": "Give two causes of soil pollution and two ways to prevent it.", "a": "Causes: polythene, glass and iron in waste; careless use of pesticides; too much chemical fertiliser; factory poison in rivers. Prevention: segregate and recycle dry waste, use compost and other organic manure, use pesticides carefully or neem-based ones, stop factories dumping waste."}
+  ]
+}

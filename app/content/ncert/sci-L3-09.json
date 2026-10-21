@@ -1,0 +1,597 @@
+{
+  "key": "ncert|sci|3|9",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 9,
+  "title": "Staying Healthy and Happy",
+  "source": "NCERT Our Wondrous World, Class 3, Chapter 9 (pages 109–120), Unit 3 'Gifts of Nature', Reprint 2026-27",
+  "summary": "This chapter builds the daily habits that keep body and mind healthy: brushing twice, washing hands with soap, bathing, drinking water, eating well, sleeping enough and playing outside. Your child meets Moyna's Dadu and his neem datun, makes an eco-friendly peel cleaner, notices how animals keep clean, feels what exercise does to the heart and breath, plays traditional and modern games, learns where it is safe to play and what to say to strangers, and tracks a whole week of their own health to find patterns.",
+  "goals": [
+    "By the end your child can list a healthy daily routine (brushing twice, handwashing with soap at the right times, bathing, 6–8 glasses of water, meals, outdoor play, enough sleep) and check their own day against it.",
+    "By the end your child can explain why soap cleans hands better than water alone, and wash their hands properly for at least 20 seconds.",
+    "By the end your child can describe traditional cleaning methods such as datun, reetha and shikakai, and make a peel-and-vinegar home cleaner.",
+    "By the end your child can explain what happens to the heart and breathing during exercise, measure their own pulse, and name kinds of exercise for stamina, strength and flexibility.",
+    "By the end your child can tell safe places to play from unsafe ones and say 'No, thank you' and walk away from a stranger, using a family password.",
+    "By the end your child can fill a weekly health table and a 24-hour circle and find a link between sleep, food, play and how they feel."
+  ],
+  "words": [
+    ["hygiene", "the habits that keep our body and surroundings clean so that germs do not make us ill"],
+    ["germs", "living things far too small to see, such as some bacteria and viruses, that can make us sick; most tiny living things are harmless or helpful"],
+    ["routine", "the things we do every day, usually in the same order, like brushing teeth after waking up"],
+    ["datun", "a twig of neem, babool or karanj that is chewed into a soft brush to clean the teeth, an old Indian habit"],
+    ["reetha and shikakai", "the dried fruits of the soapnut tree and the pods of a climbing acacia, used in India for washing hair and clothes; they make a natural lather"],
+    ["groom", "to clean the body, fur or feathers carefully, as monkeys do for each other and birds do with their beaks"],
+    ["exercise", "moving the body hard enough to breathe faster and feel warm, like running, skipping, swimming or yoga"],
+    ["pulse", "the beat of the heart that you can feel at your wrist or neck as it pushes blood around the body"],
+    ["stamina", "how long you can keep going at running, skipping or climbing before you get tired"],
+    ["flexibility", "how easily your body can bend and stretch"],
+    ["stranger", "a person you do not know"],
+    ["mould", "a fuzzy growth of tiny fungi that appears on old, damp food; it grows from invisible spores in the air and on our hands"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Clean and bright: my daily routine",
+      "goal": "Check our own clean-and-bright habits, write a full daily routine, start the week-long health table, and begin the peel cleaner that needs two weeks to be ready.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Clean and bright quiz (page 110)",
+          "mins": 5,
+          "do": "Read page 109 aloud: healthy habits keep our bodies and minds healthy and happy. Then ask the five questions at the top of page 110, one at a time, and let your child answer honestly: 'Did I brush my teeth today? Did I take a shower? Did I comb my hair? Did I wash my hands with soap? Are my nails trimmed and clean?' Look at their nails together under a light. Ask: 'Why do you think dirt hides under long nails?' (Food and soil get stuck there, and germs with them; then they go into our mouth when we eat with our hands.) Trim the nails now if they need it."
+        },
+        {
+          "kind": "do",
+          "title": "Write my daily routine (page 110)",
+          "mins": 12,
+          "do": "Do the 'Daily routine' task on page 110. Your child writes, in order, everything they do in a normal day from waking up to going to sleep, with rough times (6:30 wake up, 6:40 toilet and wash hands, 6:45 brush teeth…). The list must include the seven activities in the book: shower, washing hands with soap, brushing teeth, drinking 6–8 glasses of water, eating food, sleeping at least 8 hours in total, and playing outside. Remind them some come more than once (handwashing before every meal and after the toilet). Then go through the 'Check your list' questions: 'Do you brush twice, after waking up and before bed? Rinse your mouth after every meal? Wash hands with soap after the toilet and after coming in from outdoors?' Put a star next to every 'yes'. For each 'no', ask the book's question: 'Is there anything that makes it hard?' (For example, no soap at the school tap, forgetting when tired.) Choose one habit to fix this week."
+        },
+        {
+          "kind": "act",
+          "title": "Start my weekly health table (page 119)",
+          "mins": 8,
+          "do": "Start Activity a3. Open page 119 and copy the weekly health table into the notebook with columns: Day, Brushed twice?, Used the toilet in the morning?, Took a shower?, Hours of sleep, Breakfast, TV or phone time, Outdoor play time, How did I feel? (good, okay, not so good, bad). Fill in today's row together at bedtime. Explain: 'Feelings are the body's way of telling us something. At the end of the week we will look for patterns, like: do I feel grumpy on days I sleep late?' Tell your child honestly: the book says at least 8 hours of sleep; children's doctors usually suggest 9 to 12 hours a night for children aged 6 to 12.",
+          "ref": "a3"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: Start the peel cleaner (page 112)",
+          "mins": 12,
+          "do": "Start Activity a1, which is Activity 1 on page 112. First ask: 'What cleaners do we use at home for the floor, kitchen slab and bathroom?' Read their labels together. Then make the eco-friendly cleaner: your child packs the peels of 8–12 oranges, mosambis or lemons into a clean half-litre glass jar, adds 10 cloves (laung) or 2–3 bay leaves (tejpatta), and you pour in about two cups of white vinegar until the peels are covered. Close the lid tightly, label it with today's date and 'Ready on: ____' (two weeks from today), and put it in a sunny spot. Ask: 'Why do you think it has to sit for two weeks?' (So that the oils and smell from the peels can soak out into the vinegar.) Your child's job: shake it gently every two days.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Routines are different in different homes",
+          "mins": 3,
+          "do": "Use the teacher's note on page 112: routines can be different depending on where we live and how much water we have. Ask: 'If a family has to carry water from a hand pump far away, how might their bath routine be different from ours?' Good answers: they may bathe with one bucket, wash hands with a small lota, or use ash or mud to scrub utensils. Ask: 'Are they less clean?' (No; they are being careful with water, and clean habits can be kept with very little water.)"
+        }
+      ],
+      "need": ["Textbook pages 109–110, 112, 119", "notebook and pencil", "nail clipper", "peels of 8–12 oranges, mosambis or lemons", "10 cloves or 2–3 bay leaves", "about 2 cups (500 ml) white vinegar", "a clean half-litre glass jar with a lid", "a label"],
+      "prep": [{"task": "Save orange, mosambi or lemon peels in a box in the fridge until you have 8–12, and buy white vinegar", "when": "1 week before"}]
+    },
+    {
+      "n": 2,
+      "title": "Germs, soap and clean hands",
+      "goal": "See why soap cleans better than water, learn proper handwashing, start a mould test with clean and dirty hands, and hear how a doctor who said 'wash your hands' was ignored.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Water only or soap?",
+          "mins": 12,
+          "do": "Do Experiment e1. Rub half a teaspoon of cooking oil mixed with a pinch of haldi all over your child's hands, as pretend 'germs' (real germs often stick to the oily layer on our skin). First, rinse with plain water for 20 seconds. Ask: 'Is the yellow gone?' (Most stays.) Then wash with soap, scrubbing palms, backs, between fingers, thumbs, under nails and wrists, while singing 'Happy Birthday' twice (about 20 seconds). Ask: 'Now?' Then do the pepper trick: sprinkle black pepper on a plate of water, let your child dip a clean finger in (nothing happens), then dip a soapy finger in: the pepper rushes to the edges. Read the 'why' to explain that soap breaks up oil and grease so water can carry dirt and germs away.",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "When do we wash hands?",
+          "mins": 5,
+          "do": "Make a small poster with your child for the wash basin: 'Wash with soap: after the toilet, before eating, before cooking or helping in the kitchen, after coming home from outdoors, after touching animals, after blowing your nose or sneezing into your hands, after handling garbage.' Ask: 'Why before eating, and not only after?' (Because whatever is on our hands goes into our mouth with the food, especially when we eat with our fingers.) Your child draws the six steps of handwashing: palms, backs, between fingers, thumbs, nails, wrists."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the bread mould test",
+          "mins": 10,
+          "do": "Set up Experiment e3. Take three slices of bread (or three pieces of plain chapati). Using a clean spoon or tongs, put slice 1 into a zip bag without touching it; this is the 'control'. Your child rubs slice 2 with unwashed hands, after playing outside, and puts it in a bag. Then they wash their hands well with soap, dry them, rub slice 3 and bag it. Sprinkle a few drops of water into each bag, seal tightly and label: 'Not touched', 'Dirty hands', 'Washed hands'. Keep them in a warm, dark cupboard. Ask your child to predict which slice will grow the most mould. We will check on Days 4 and 6. Tell them: 'Never open the bags.'",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Ignaz Semmelweis: the doctor nobody listened to",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words. Draw two hospital rooms side by side on paper: one where doctors came straight from cutting up dead bodies, and one where midwives worked. Put many crosses in the first room and few in the second, then show how the crosses went down when the doctors washed. Ask: 'Why do you think the other doctors were angry, even though his idea saved lives?' Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Health table row",
+          "mins": 3,
+          "do": "At bedtime, fill in today's row of the weekly health table (Activity a3). Ask: 'How many times did you wash your hands with soap today? Was the number bigger than yesterday?' Shake the peel-cleaner jar gently (Activity a1).",
+          "ref": "a3"
+        }
+      ],
+      "need": ["cooking oil and haldi", "soap and a towel", "a plate of water and black pepper", "chart paper and colours for a poster", "3 slices of bread or chapati, 3 zip bags, a clean spoon or tongs, a marker", "paper and pencil for the story drawing"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Datun, reetha and shikakai: cleaning the old way",
+      "goal": "Read about Moyna's Dadu and his datun, learn to brush properly, find out from elders how they cleaned their teeth, hair and clothes, and weigh what science says about the old ways.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How do we brush our teeth? (pages 111–112)",
+          "mins": 7,
+          "do": "Read the story on page 111 aloud: Moyna's Dadu chews a fresh twig of neem or babool into a brush every day. Ask: 'Why does Dadu like his twig?' (He makes a fresh brush every day, it removes food stuck between his teeth, and it massages his gums.) 'Why did Moyna prefer babool to neem?' (Neem was too bitter.) Then read the box at the top of page 112: the modern idea of brushing came from the Indian tradition of datun, using twigs of neem, karanj, babool and other plants. Tell your child that people in many other old cultures also chewed twigs, such as the miswak in Arabia and Africa, and that the bristle toothbrush was first made in China."
+        },
+        {
+          "kind": "do",
+          "title": "Try a datun and brush like a dentist",
+          "mins": 10,
+          "do": "If you can get a neem or babool twig (many vegetable sellers and temple shops sell datun, or pick a pencil-thick, finger-long green twig from a neem tree), wash it, and show your child how to chew one end until it frays into soft bristles, then rub it over the teeth. Let them taste it and decide, like Moyna, which they like. Then practise brushing with a toothbrush for 2 minutes with a timer, using a pea-sized dab of fluoride toothpaste: small circles on the outside of every tooth, then the inside, then the chewing tops, then gently brush the tongue. Ask: 'Which teeth did you nearly forget?' (Usually the back ones and the insides.) Rinse the mouth with water after eating, as page 110 says."
+        },
+        {
+          "kind": "think",
+          "title": "Is datun as good as a toothbrush?",
+          "mins": 7,
+          "do": "Tell the story in Voice v2 (datun in the Sushruta Samhita, and what dentists say now). Ask: 'What does a toothbrush with fluoride paste have that a datun does not?' (Fluoride, which makes the outer layer of the teeth stronger against holes.) 'What does a datun have that a plastic toothbrush does not?' (It is fresh every day, has no plastic waste, and neem has natural germ-fighting substances.) Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Ask an elder (page 111)",
+          "mins": 12,
+          "do": "Do the task at the bottom of page 111. Call or visit a grandparent or elderly neighbour. Your child asks: 'What did you use to wash your hair, body and clothes and to clean your teeth when you were young? Can these things be found now?' Write the answers in a table: Hair, Body, Clothes, Teeth, Utensils. Common answers: reetha (soapnut) and shikakai for hair; besan, haldi, multani mitti or ubtan for the body; reetha, soda or soap bars for clothes; datun, charcoal or tooth powder (manjan) for teeth; ash, mud and coconut husk for utensils. If you have reetha at home, soak 3–4 in warm water for 10 minutes and let your child squeeze them: they make a soapy lather. Ask: 'Why does reetha foam like soap?' (It contains natural soap-like substances called saponins.)"
+        },
+        {
+          "kind": "act",
+          "title": "Health table row and jar shake",
+          "mins": 4,
+          "do": "At bedtime, fill in today's row of the weekly health table (Activity a3) and check: did you brush twice today? Then shake the peel-cleaner jar (Activity a1) and look: is the vinegar turning orange or yellow?",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 110–112", "a neem or babool twig (datun) if available", "toothbrush, fluoride toothpaste, a timer", "a phone to call an elder", "3–4 reetha (soapnuts) and warm water if available", "notebook"],
+      "prep": [{"task": "Buy a datun twig from a vegetable seller or temple shop, and a few reetha if available", "when": "2 days before"}]
+    },
+    {
+      "n": 4,
+      "title": "Animals keep clean, and our bodies love to move",
+      "goal": "Observe how animals clean themselves, feel and measure what exercise does to our heart and breath, and do the book's hop, skip and jump moves.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bread mould: first look",
+          "mins": 3,
+          "do": "Look at the three bread bags from Experiment e3 without opening them. Your child draws each slice and writes 'no change', 'a few spots' or 'fuzzy'. Ask: 'Has anything started to grow? On which slice?' Put them back in the cupboard.",
+          "ref": "e3"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Animals like to keep clean too (page 113)",
+          "mins": 8,
+          "do": "Read 'Animals like to keep themselves clean too!' on page 113 aloud and look at the monkey grooming picture. Ask: 'Why do monkeys pick through each other's fur?' (To remove insects like lice and ticks, and dirt; it also helps them stay friends.) Then go out to the balcony, terrace or park for 6 minutes and watch for animals cleaning themselves: crows or pigeons fluffing and pecking at their feathers (preening) or splashing in water, a cat licking its paws and face, a dog scratching or rolling, a fly rubbing its legs together, ants cleaning their feelers with their front legs. Your child writes each animal and how it cleans itself. If you made a birdbath in Chapter 7, watch it."
+        },
+        {
+          "kind": "exp",
+          "title": "What does exercise do to my heart?",
+          "mins": 12,
+          "do": "Read 'Playing outdoors and indoors too' on page 113 aloud. Then do Experiment e2. Show your child how to find their pulse: two fingers (not the thumb) on the inside of the wrist below the thumb, or on the side of the neck. Sit quietly for one minute, then count the beats for 15 seconds while you watch a timer; multiply by 4 (help with the maths) and also count breaths in 15 seconds. Write both down. Then do 30 jumping jacks or run on the spot for one minute. Count the pulse and breaths again straight away, and once more after resting for 3 minutes. Ask: 'What changed? Are your cheeks red? Are you warm or sweating?' Explain using the 'why' of e2: the muscles need more oxygen and food, so the heart pumps faster and you breathe faster and deeper.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: Hop, skip, jump! (page 114)",
+          "mins": 12,
+          "do": "Do Activity a2, which is Activity 2 on page 114. Your child tries each move for a short stretch of the room or yard: walk like a duck (squat low and waddle), jump like a frog (squat and leap forward), run like a cat (quick, light, on the toes). Ask: 'Which did you enjoy most? Which made your legs tired?' Then skip with a rope, counting aloud, for three rounds; write each score. Teach the rhyme from page 114 and invite a sibling or friend to jump in after 10 skips: 'I like roti, I like ghee, I want ____ to jump with me!' Ask the last question on page 114: 'What other games do you play with a skipping rope?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 5,
+          "do": "Do Worksheet ws1 (core) sections A and B now; section C can be done at bedtime when you fill in the health table row. Read aloud if needed and mark it together. For any mistake, go back to the page (routine p110, datun p111–112, exercise p113).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 113–114", "the bread bags", "a watch or phone timer with seconds", "a skipping rope", "notebook", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Active body, active mind: games we play",
+      "goal": "Hear about Harpreet's grandmother, name and find the games in the book, play a traditional indoor game, and see how exercise can be for stamina, strength or flexibility.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Harpreet's grandmother (page 115)",
+          "mins": 6,
+          "do": "Read the top of page 115 aloud: Harpreet's grandmother has painful knees but still walks around the house a little and loves playing chess with Harpreet, because 'both the mind and body should be active.' Ask: 'How does chess keep the mind active?' (You have to plan, remember, think ahead and guess what the other player will do.) 'Why does she still walk a little even though her knees hurt?' (Gentle movement keeps muscles and joints working and stops them getting stiffer.) Ask: 'Which elder in our family could you play a game with this week?'"
+        },
+        {
+          "kind": "game",
+          "title": "Name the Game and I Spy (pages 115–116)",
+          "mins": 12,
+          "do": "Look at the game pictures on page 115 and ask: 'Can you name these games? Have you played them?' Then do the I Spy word search on page 116: your child finds and circles the names of games hidden in the grid (one is already done). There are ten: badminton, basketball, cricket, football, gymnastics, hockey, kabaddi, kho-kho, tennis and volleyball (the answers are on page 120; do not peek until done). Words may run across or down. Ask: 'Which of these are Indian games?' (Kabaddi and kho-kho are traditional Indian games; India has also been famous for hockey.) 'Which need a team? Which can you play with just one friend?'"
+        },
+        {
+          "kind": "game",
+          "title": "Germ Busters board game",
+          "mins": 12,
+          "do": "Play the DeepKids game Germ Busters. Draw a track of 30 squares from 'Wake up' to 'Bedtime'. Mark some Habit squares (washed hands +3, played outside +2, drank water +1, slept on time +3, brushed twice +2) and some Germ squares (forgot to wash after the toilet −4, ate with dirty hands −3, sneezed without covering −2). Use a dice and buttons as counters. A player who lands on a Germ square can stay put instead of going back if they hold a Shield card, which they earn by acting out a healthy habit correctly (for example, showing all six handwashing steps or 20 seconds of correct brushing). First to Bedtime wins. Afterwards ask: 'Which habit square would you most like to land on in real life tomorrow?'"
+        },
+        {
+          "kind": "do",
+          "title": "Three kinds of exercise",
+          "mins": 7,
+          "do": "Read the teacher's note on page 114 to yourself and explain to your child: the body needs three kinds of exercise. 1. Stamina for the heart and lungs: running, skipping, cycling, swimming. 2. Strength for muscles and bones: climbing, frog jumps, carrying a small bucket of water, push-ups against a wall. 3. Flexibility, bending and stretching: yoga poses like tadasana (palm tree) and bhujangasana (cobra), and touching the toes. Do one minute of each together. Ask your child to sort their favourite games: 'Is kabaddi stamina, strength or both?' (Both, and flexibility too.)"
+        },
+        {
+          "kind": "act",
+          "title": "Health table row",
+          "mins": 3,
+          "do": "At bedtime, fill in today's row of the weekly health table (Activity a3). Ask: 'How long did you play outdoors today? How long on TV or the phone? Which was longer?' Shake the peel-cleaner jar (Activity a1).",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 114–116", "a pencil for the word search", "paper, a dice and buttons for Germ Busters", "a mat for yoga"],
+      "prep": [{"task": "Draw the Germ Busters track and make 6 Shield cards", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Playing safely, and what our mould test showed",
+      "goal": "Decide which places are safe to play, practise saying no to strangers with a family password, read the bread mould results, and think about whether all germs are bad.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bread mould results",
+          "mins": 7,
+          "do": "Finish Experiment e3. Without opening the bags, lay them side by side and your child draws each slice and counts the mould spots. Usual result: the 'dirty hands' slice has the most mould, the 'washed hands' slice less, and the untouched slice least (but it may have some, from spores in the air). Ask: 'What does this tell us about our hands?' (Unwashed hands carry many invisible spores and germs; washing with soap removes most of them.) 'Why did even the untouched slice get some?' (Mould spores float in the air everywhere.) Throw the bags away sealed, in the dustbin.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Are all germs bad?",
+          "mins": 7,
+          "do": "Tell the story in Voice v3 (the hygiene hypothesis). Show a bowl of home-made curd and ask: 'Did you know curd is made by tiny living things, bacteria, that turn milk sour and thick?' Ask: 'So should we kill every germ?' Lead to a balanced answer: wash hands at the important times (toilet, food, coming home), but playing in soil, with pets and outdoors is good for us. Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "talk",
+          "title": "Safe or unsafe? (page 117)",
+          "mins": 8,
+          "do": "Read 'Playing safely' on page 117. For each picture, your child says safe or unsafe and why, and ticks the box. A busy road: unsafe, because vehicles move fast and drivers may not see a small child. A park: safe, with an adult nearby. A school ground: safe. A roof without railings: unsafe, because you can fall off. A construction site: unsafe, because of open pits, falling bricks, sharp rods and machines. Then ask: 'What about our own building or lane? Where is safe to play? Where is not?' (Think about the parking area, the lift, the water tank, stairs, a pond, a well.) Agree on two safe places and one rule, such as 'always tell an adult where you are going'."
+        },
+        {
+          "kind": "act",
+          "title": "Strangers: say no, go, tell (page 118)",
+          "mins": 14,
+          "do": "Read the comic on page 118 aloud. In each picture a stranger tries a trick: offering sweets, saying 'your mother asked me to pick you up', and offering a ride in a car. Read the child's answer each time. Then role-play: you act the stranger in each situation and your child says 'No, thank you' clearly, walks away and goes to tell a trusted adult. Practise the three steps: say No, Go away, Tell someone. Then set up a family password, as the teacher's note on page 118 suggests: a secret word (for example 'jalebi-tiger') that anyone you send to fetch your child must say. Ask: 'If someone says your Papa sent them but does not know the password, what will you do?' (Not go with them; go back inside school or to a guard or teacher and ask them to call home.) Your child also learns your phone number by heart and writes it on a card for the school bag."
+        },
+        {
+          "kind": "act",
+          "title": "Health table row",
+          "mins": 4,
+          "do": "At bedtime, fill in today's row of the weekly health table (Activity a3). Shake the peel-cleaner jar (Activity a1). Ask: 'Which day this week did you feel best? What was different about that day?'",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 117–118", "the bread bags", "a bowl of curd", "a small card for your phone number"],
+      "prep": [{"task": "Choose a family password with your partner or the adults who pick your child up", "when": "morning"}]
+    },
+    {
+      "n": 7,
+      "title": "Let us reflect: my week and my day",
+      "goal": "Finish the weekly health table and look for patterns, colour a 24-hour circle like Moyna's, plan a stamina activity, and stretch our thinking.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Patterns in my health table (page 119)",
+          "mins": 8,
+          "do": "Complete Activity a3: fill in the last row of the weekly health table on page 119 (copy in your notebook). Now look across the whole week together. Ask: 'On the days you felt good, how much did you sleep? Did you play outside? Did you eat breakfast?' and 'On a day you felt not so good, what was different?' Read the line on page 119: 'Feelings are the body's way of telling us that something is amiss.' Your child writes one pattern they found, for example 'When I slept less than 9 hours I felt tired and grumpy' or 'On days I played outside I slept better'.",
+          "ref": "a3"
+        },
+        {
+          "kind": "act",
+          "title": "My 24-hour circle (page 120)",
+          "mins": 12,
+          "do": "Do Activity a4, which is Draw question B on page 120. Your child draws a big circle around a plate, divides it into 4 quarters, each quarter into 3 equal parts, and each of those in half, to get 24 slices (the method in the teacher's note on page 120). Each slice is one hour. Look at Moyna's example together: 8 hours sleeping, 2 eating, 6 studying, 2 playing outside, 2 helping parents, 1 TV or phone, 1 toilet and 2 other. Your child colours slices for their own day using a different colour for each activity and makes a key. Ask: 'Do your slices add up to 24? Which colour has the most slices? Which would you like to have more of?'",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "My stamina plan (page 120)",
+          "mins": 5,
+          "do": "Do Discuss question C on page 120. Your child picks one activity to do at least twice a week to build stamina: running in the park, skipping 100 times, climbing the building stairs, cycling, swimming or dancing. Write it on a calendar for the next two weeks and decide who will do it with them. Use the skipping scores from Day 4 as the starting point, and agree to count again in two weeks."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Do Worksheet ws2 (stretch). Your child can use their health table and 24-hour circle to answer section C. For the pulse question, let them count their pulse again if they want to check.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 119–120", "the weekly health table", "a big sheet of paper, a plate to trace, a ruler, 8 colours", "a calendar", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Challenge, check and teach it back",
+      "goal": "Think harder with the challenge worksheet, check what we have learned, and have your child teach healthy habits back to the family.",
+      "steps": [
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views about germs and datun. Your child can answer the write items aloud while you write. Praise answers that use evidence from this week: 'the bread with dirty hands grew more mould', 'my pulse went from 90 to 150'.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For each one missed, look at the right page for one minute (routine p110, datun p111–112, cleaner p112, exercise p113–114, safety p117–118) and ask again in different words. Six or more right is good; fewer than five means repeat the soap experiment and the stranger role-play next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: Health Teacher",
+          "mins": 14,
+          "do": "Your child is now the Health Teacher, and you, a sibling or a grandparent are the class. In 6–8 minutes they must teach: the daily routine (using their list from Day 1), how to wash hands properly (they demonstrate with soap and water and the 20-second song), how to brush, why exercise makes the heart beat faster (they show the pulse), and the No–Go–Tell stranger rule. Ask two 'student' questions: 'Why can't I just rinse my hands with water?' and 'Is every germ bad?' Then let them lead the family in one minute of frog jumps and one minute of stretching."
+        },
+        {
+          "kind": "act",
+          "title": "The cleaner countdown",
+          "mins": 4,
+          "do": "Look at the peel-cleaner jar (Activity a1). Count with your child how many days are left until the 'Ready on' date and mark it on the calendar. On that day, strain the liquid through a cloth into a bottle, and mix one cup in a bucket of water to mop the floor together. Remind them: 'Not on marble or granite: vinegar is an acid and can make marble dull.'",
+          "ref": "a1"
+        }
+      ],
+      "need": ["worksheet ws3", "soap, water and a towel for the demonstration", "a toothbrush", "the peel-cleaner jar and a calendar"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Clean habits and an active body",
+      "day": 4,
+      "sections": [
+        ["A. My daily routine", [
+          {"t": "fill", "p": "We should brush our teeth ____ a day, once after waking up and once before going to bed.", "a": ["twice", "two times", "2 times"]},
+          {"t": "sort", "p": "When should you wash your hands with soap?", "items": ["After using the toilet", "Before eating", "After coming home from outdoors", "After touching a pet", "While watching TV", "After reading a clean book"], "cats": ["Must wash with soap", "No special need"]},
+          {"t": "mcq", "p": "Why does soap clean hands better than water alone?", "opts": ["Soap smells nice", "Soap breaks up the oil and grease that hold dirt and germs, so water can wash them away", "Soap is colourful", "Water is too cold"], "a": 1},
+          {"t": "fill", "p": "The book says we should drink ____ to ____ glasses of water every day.", "a": ["6 to 8", "6, 8", "six to eight", "6-8"]}
+        ]],
+        ["B. Old ways of keeping clean", [
+          {"t": "match", "p": "Match each traditional thing to what it was used for.", "pairs": [["Neem or babool datun", "Cleaning teeth"], ["Reetha and shikakai", "Washing hair"], ["Ash and coconut husk", "Scrubbing utensils"], ["Orange peel and vinegar", "Home cleaner for floors"]]},
+          {"t": "mcq", "p": "Why did Moyna's Dadu like his twig brush?", "opts": ["It was made of plastic", "It was fresh every day, removed food between teeth and massaged his gums", "It was sweet", "It lasted for a year"], "a": 1}
+        ]],
+        ["C. Moving and staying safe", [
+          {"t": "mcq", "p": "After running fast, you breathe faster and your heart beats faster. Why?", "opts": ["You are scared", "Your muscles need more oxygen, so the heart and lungs work harder", "You are hungry", "Your shoes are tight"], "a": 1},
+          {"t": "sort", "p": "Safe or unsafe place to play?", "items": ["A busy road", "A park", "A school ground", "A roof without railings", "A construction site"], "cats": ["Safe", "Unsafe"]},
+          {"t": "write", "p": "A stranger at the school gate says, 'Your mother asked me to pick you up.' Write exactly what you will say and do.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Health detective",
+      "day": 7,
+      "sections": [
+        ["A. Explain it", [
+          {"t": "write", "p": "In our bread test, the slice touched with dirty hands grew the most mould. Write what this tells us, and why we put one untouched slice in the test as well.", "lines": 3},
+          {"t": "write", "p": "Reetha makes lather like soap. Why might some families choose reetha instead of shampoo?", "lines": 2},
+          {"t": "mcq", "p": "Your peel cleaner should not be used on a marble floor. Why?", "opts": ["It smells too nice", "Vinegar is an acid and can make marble dull and rough", "It is too orange", "Marble is already clean"], "a": 1}
+        ]],
+        ["B. Pulse puzzles", [
+          {"t": "table", "p": "Write your pulse results (beats in 15 seconds × 4 = beats per minute).", "cols": ["When", "Beats in 15 seconds", "Beats per minute", "Breaths in 15 seconds"], "rows": 3, "prefill": ["Resting", "Just after 1 minute of jumping", "After 3 minutes of rest"]},
+          {"t": "fill", "p": "If I count 25 beats in 15 seconds, my pulse is ____ beats per minute.", "a": ["100"]},
+          {"t": "sort", "p": "Which kind of exercise is each mostly for?", "items": ["Running", "Skipping", "Climbing a rope", "Wall push-ups", "Touching your toes", "Cobra pose (bhujangasana)"], "cats": ["Stamina", "Strength", "Flexibility"]}
+        ]],
+        ["C. My week, my day", [
+          {"t": "write", "p": "Look at your weekly health table. Write one pattern you found between sleep, food or play and how you felt.", "lines": 3},
+          {"t": "write", "p": "Moyna spends 8 hours sleeping, 6 studying and 2 playing outside. Add up all her hours from page 120. Do they make 24? Which hours would you change in your own circle, and why?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Germ puzzles and doctors who disagreed",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Germs are too small to see. How did our bread test let us 'see' that our hands carry tiny living things?", "lines": 2},
+          {"t": "mcq", "p": "Rina washed her hands with soap but dried them on a dirty towel. What is the problem?", "opts": ["No problem", "Germs from the dirty towel can get back onto her clean hands", "The soap will stop working", "Her hands will be too dry"], "a": 1},
+          {"t": "write", "p": "A family must carry every bucket of water from a hand pump 1 km away. Plan a clean routine for them that uses as little water as possible.", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if nobody in your city washed their hands for a month? Think of homes, schools and hospitals. Write three things that might happen.", "lines": 3},
+          {"t": "write", "p": "What if children slept only 6 hours every night for a month? Use your health table to guess how they would feel and do in school.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "In 1847 Semmelweis showed that handwashing saved mothers' lives, but many doctors refused to believe him. Why do you think they refused? What evidence finally changed people's minds?", "lines": 3},
+          {"t": "write", "p": "One scientist says, 'Keep everything very clean.' Another says, 'Children need to play in soil and with animals, or they may get more allergies.' Can both be partly right? Explain when each idea matters.", "lines": 4},
+          {"t": "write", "p": "Dadu says datun is best. The dentist says use a toothbrush with fluoride toothpaste. Write one good reason on each side.", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Water only or soap?",
+      "day": 2,
+      "question": "Does soap remove oily dirt and germs from our hands better than plain water, and how?",
+      "need": ["half a teaspoon of cooking oil", "a pinch of haldi (turmeric)", "soap", "a towel", "a plate of water", "ground black pepper"],
+      "steps": [
+        "Mix the oil and haldi and rub it all over your child's hands: these are the pretend 'germs'.",
+        "Rinse the hands under water only for 20 seconds. Look at how much yellow is left.",
+        "Now wash with soap for 20 seconds: palms, backs, between fingers, thumbs, nails and wrists. Rinse and look again.",
+        "Pepper test: sprinkle black pepper over a plate of water.",
+        "Dip a clean, dry finger into the middle. Watch.",
+        "Put a little soap on the fingertip and dip it again. Watch the pepper."
+      ],
+      "predict": "Ask your child to guess first: will plain water wash off the yellow oil? What will happen to the pepper when you dip a soapy finger?",
+      "observe": "Plain water leaves most of the yellow oil on the skin, especially between the fingers and around the nails. Soap removes almost all of it. In the pepper test, a plain finger does nothing, but a soapy finger makes the pepper shoot to the edges of the plate.",
+      "why": "Our skin is covered in a thin layer of natural oil, and dirt and germs stick to it. Oil and water do not mix, so water alone just runs over the oil. A soap particle has two ends: one end likes water and the other end likes oil and grease. The oil-loving ends grab the oil and dirt, and the water-loving ends face outwards, so the dirt is wrapped up in tiny balls that water can carry away. Soap can also break apart the thin fatty outer coat of many germs, including some viruses. Scrubbing for 20 seconds gives soap time to do this everywhere. In the pepper test, soap weakens the 'skin' on the surface of the water (surface tension) where it touches, so the surface pulls away towards the edges, carrying the pepper with it.",
+      "safety": "Keep soap away from the eyes. Haldi may stain nails yellow for a little while.",
+      "time": "12 min"
+    },
+    {
+      "id": "e2",
+      "title": "What does exercise do to my heart?",
+      "day": 4,
+      "question": "How do our heartbeat and breathing change when we exercise, and how quickly do they return to normal?",
+      "need": ["a watch or phone timer with seconds", "notebook and pencil", "space to jump or run on the spot"],
+      "steps": [
+        "Find the pulse: two fingers on the inside of the wrist below the thumb, or on the side of the neck.",
+        "Sit still for 1 minute. Count heartbeats for 15 seconds and multiply by 4. Count breaths for 15 seconds.",
+        "Do 30 jumping jacks or run on the spot for 1 minute.",
+        "Straight away, count heartbeats and breaths again in the same way.",
+        "Rest for 3 minutes, then count once more.",
+        "Write all results in a table and compare."
+      ],
+      "predict": "Ask your child to guess first: after one minute of jumping, will your heart beat faster, slower or the same? How long will it take to calm down?",
+      "observe": "A resting pulse for a child of 8 is usually about 70 to 110 beats per minute. After jumping, it may go up to 130–170, and breathing becomes faster and deeper. The cheeks go red and the body feels warm or sweaty. After a few minutes of rest the numbers come down again.",
+      "why": "Muscles need oxygen and food to work, and they get both from the blood. When you run or jump, your muscles work much harder, so they need more oxygen faster. Your brain tells the heart to pump faster and harder, and your lungs to breathe faster and deeper to take in more oxygen and get rid of more carbon dioxide. Working muscles also make heat, which is why you feel warm, and the body sweats to cool down; red cheeks come from extra blood flowing near the skin to lose heat. With regular exercise the heart grows stronger and pumps more blood with each beat, so a fit person's pulse returns to normal faster.",
+      "safety": "Stop if your child feels dizzy, has chest pain or cannot catch their breath. Children with asthma or a heart condition should follow their doctor's advice.",
+      "time": "12 min"
+    },
+    {
+      "id": "e3",
+      "title": "Clean hands, dirty hands and bread mould",
+      "day": 2,
+      "question": "Do our unwashed hands carry invisible living things that can grow on food?",
+      "need": ["3 slices of bread (preferably without preservatives) or 3 pieces of plain chapati", "3 zip-lock bags", "a clean spoon or tongs", "soap and water", "a few drops of water", "a marker", "a warm, dark cupboard"],
+      "steps": [
+        "Using a clean spoon or tongs, put slice 1 into a bag without touching it. Label it 'Not touched'.",
+        "After playing outside, your child rubs slice 2 all over with unwashed hands. Bag it and label it 'Dirty hands'.",
+        "Your child washes hands with soap for 20 seconds and dries them on a clean towel, then rubs slice 3. Bag it and label it 'Washed hands'.",
+        "Add 3–4 drops of water to each bag and seal tightly.",
+        "Keep all three bags in the same warm, dark cupboard.",
+        "Look at them, without opening, on Days 4 and 6. Draw and count the spots of mould.",
+        "Throw the sealed bags away at the end."
+      ],
+      "predict": "Ask your child to guess first: which slice will grow the most mould? Will the untouched slice stay perfectly clean?",
+      "observe": "After 4 to 7 days, fuzzy spots of mould (white, green, grey or black) appear. Usually the 'Dirty hands' slice has the most, the 'Washed hands' slice fewer, and the 'Not touched' slice the fewest. Results vary with the weather; in a humid season mould appears faster.",
+      "why": "Mould is a fungus. It spreads by tiny spores, far too small to see, that float in the air and stick to everything, including our hands, along with bacteria. On damp bread, each spore that lands can grow into a fuzzy patch. Unwashed hands carry many more spores and germs, so more patches grow. Washing with soap removes most of them, but not every single one, which is why the washed slice may still grow a little. The untouched slice shows us how much comes just from the air: this is our 'control', which lets us make a fair comparison. Germs that make us ill behave the same way: they travel on hands to food and into our mouths.",
+      "safety": "Never open the bags or smell the mould: breathing in mould spores can make some people ill, especially those with asthma. Throw the bags away sealed. Wash hands after handling the bags.",
+      "time": "10 min to set up + checks on Days 4 and 6"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Orange-peel home cleaner (Book Activity 1, page 112)",
+      "day": 1,
+      "mins": 12,
+      "need": ["peels of 8–12 oranges, mosambis or lemons", "10 whole cloves or 2–3 bay leaves (optional)", "about 2 cups (500 ml) white vinegar", "a clean half-litre glass jar with a tight lid", "a label", "a cloth for straining and a bottle"],
+      "steps": [
+        "Look at the cleaners used at home and read their labels together.",
+        "Pack the peels into the jar, adding the cloves or bay leaves.",
+        "An adult pours in white vinegar until all the peels are covered. Close the lid tightly.",
+        "Label the jar with today's date and the 'Ready on' date, two weeks later.",
+        "Keep the jar in a sunny spot and shake it gently every two days.",
+        "After two weeks, strain the liquid through a cloth into a bottle and throw the peels into compost.",
+        "Mix one cup of the liquid into a bucket of water to clean floors and bathroom tiles."
+      ],
+      "outcome": "A bottle of home-made, good-smelling cleaner that removes grease and hard-water marks, made from peels that would have been thrown away. (Vinegar is an acid: do not use it on marble or granite, and it is a mild cleaner, not a strong disinfectant.)"
+    },
+    {
+      "id": "a2",
+      "title": "Hop, skip, jump! (Book Activity 2, page 114)",
+      "day": 4,
+      "mins": 12,
+      "need": ["a skipping rope", "open space indoors or outside", "a friend or sibling if possible", "notebook for scores"],
+      "steps": [
+        "Walk like a duck across the room or yard.",
+        "Jump like a frog: squat down and leap forward.",
+        "Run like a cat: quick and light on your toes.",
+        "Say which move you enjoyed most and which made your legs tired.",
+        "Skip with the rope and count aloud. Do three rounds and write each score.",
+        "Teach a friend the rhyme 'I like roti, I like ghee…' and invite them to jump in after 10 skips.",
+        "Share or learn one more skipping-rope game."
+      ],
+      "outcome": "Three animal moves tried, a skipping score to beat in two weeks, and a skipping rhyme shared with a friend."
+    },
+    {
+      "id": "a3",
+      "title": "My weekly health table (page 119)",
+      "day": 1,
+      "mins": 8,
+      "need": ["notebook", "ruler and pencil"],
+      "steps": [
+        "Copy the table from page 119: Day, Brushed twice?, Toilet in the morning?, Shower?, Hours of sleep, Breakfast, TV or phone time, Outdoor play time, How did I feel?",
+        "Fill in one row every night at bedtime for seven days.",
+        "Be honest: the table is for finding patterns, not for getting all ticks.",
+        "On the last day, look across the week for links between sleep, food, play and feelings.",
+        "Write one pattern you found and one change you want to make."
+      ],
+      "outcome": "A full week of your child's own health data and at least one pattern they discovered themselves, such as how sleep or outdoor play changes how they feel."
+    },
+    {
+      "id": "a4",
+      "title": "My 24-hour circle (page 120)",
+      "day": 7,
+      "mins": 12,
+      "need": ["a large sheet of paper", "a big plate to trace a circle", "a ruler", "8 colours"],
+      "steps": [
+        "Trace a big circle and divide it into 4 quarters with two lines through the middle.",
+        "Divide each quarter into 3 equal slices, making 12.",
+        "Divide each slice in half, making 24. Each slice is one hour.",
+        "Make a colour key: sleeping, eating, studying, playing, helping at home, TV or phone, toilet, other.",
+        "Colour the right number of slices for each activity in your normal day.",
+        "Check that all 24 slices are coloured, and compare with Moyna's day on page 120."
+      ],
+      "outcome": "A colourful 'pie' of your child's whole day that shows at a glance where their time goes, and an early taste of fractions and clocks."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Ignaz Semmelweis (1818–1865), doctor, Vienna, Austria",
+      "idea": "In 1847, Semmelweis was working in a big maternity hospital in Vienna that had two wards. In the ward run by doctors and medical students, many more mothers died of a fever after giving birth than in the ward run by midwives. He noticed that the doctors often came straight from cutting up dead bodies to deliver babies, without washing. He guessed that something invisible from the bodies was being carried on their hands. He made the doctors wash their hands in a chlorine solution, and the death rate in their ward fell sharply, to about the same low level as the midwives' ward.",
+      "then": "Many senior doctors rejected his idea. They were offended at being told that their own hands were killing patients, and Semmelweis could not explain exactly what the invisible 'something' was, because germs had not yet been discovered. He lost his job in Vienna, moved to Budapest, and grew angry and bitter. He died in 1865 in a mental hospital, with his idea still not accepted.",
+      "now": "Semmelweis was right. In the 1860s Louis Pasteur showed that germs cause rotting and disease, and Joseph Lister began using antiseptics in surgery. Today, handwashing is one of the most important ways to stop infections in hospitals and homes, and Semmelweis is remembered as a pioneer of hand hygiene.",
+      "status": "accepted",
+      "ask": "Semmelweis had the numbers: fewer mothers died when doctors washed. But he could not explain why. Should people believe a result before anyone can explain it? What would have convinced you?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Datun in the Sushruta Samhita (ancient India) and modern dentists",
+      "idea": "The Sushruta Samhita, an ancient Indian book of medicine and surgery, describes cleaning the teeth every morning by chewing a fresh twig from trees with bitter or astringent tastes, such as neem and karanj, into a brush. Moyna's Dadu is following a habit thousands of years old. People in many other parts of the world, from Arabia and Africa (the miswak twig) to China, also cleaned their teeth with twigs.",
+      "then": "When factory-made toothbrushes and toothpaste spread in the 1900s, many people in India started to see datun as old-fashioned. The first bristle toothbrushes had been made in China, and William Addis started making them in England around 1780.",
+      "now": "Studies have found that chewing sticks like neem and miswak, used properly, can remove plaque from teeth about as well as a toothbrush, and neem contains natural substances that fight some mouth germs. The World Health Organization has said chewing sticks can be a good way to clean teeth. But dentists point out that toothpaste with fluoride gives extra protection against tooth decay that a twig alone does not. Most dentists today recommend brushing twice a day with fluoride toothpaste, and see datun as a useful extra or a good choice where toothbrushes are not available.",
+      "status": "accepted",
+      "ask": "Datun is old, free and makes no plastic waste; a toothbrush with fluoride paste protects better against holes. If you had to choose for a village with no shops, what would you choose? What would you need to know first?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "David Strachan (1989, United Kingdom) and the 'hygiene hypothesis'",
+      "idea": "In 1989 the British doctor David Strachan studied more than 17,000 children and found that those with more older brothers and sisters were less likely to get hay fever, an allergy. He suggested that catching more germs early in life from older siblings might train the body's defence system (the immune system) so that it does not overreact to harmless things like pollen. This became known as the 'hygiene hypothesis': that being too clean might cause more allergies.",
+      "then": "The idea became very popular and was often turned into 'dirt is good for children'. Some scientists worried that this would make people stop washing their hands, which would spread dangerous infections.",
+      "now": "Scientists still debate this. Many now think the important thing is not dirt or infections, but meeting a wide variety of friendly microbes early in life, from soil, animals, other people and food (some call this the 'old friends' idea). Studies have found that children who grow up on farms with animals tend to have fewer allergies. Experts agree that handwashing at key times, like after the toilet and before eating, is still essential; it removes germs that make us ill, not the friendly microbes that live all around us.",
+      "status": "debated",
+      "ask": "Children who grow up with farm animals seem to have fewer allergies. But could something else about farm life explain it, like fresh air or different food? How could scientists test which one it is?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Name five things that should be in a healthy daily routine.", "a": "Any five: brushing teeth twice, washing hands with soap at the right times, taking a bath, drinking 6–8 glasses of water, eating healthy meals, playing outside, sleeping enough (at least 8 hours; 9–12 is better for children), rinsing the mouth after eating, keeping nails trimmed."},
+    {"q": "When must you wash your hands with soap, and why is soap better than water alone?", "a": "After the toilet, before eating, after coming home from outside, after touching animals or garbage. Soap breaks up the oil that holds dirt and germs so water can wash them away."},
+    {"q": "What is datun? Name two plants used for it.", "a": "A twig chewed into a brush to clean the teeth, an old Indian habit. Neem, babool and karanj are used."},
+    {"q": "How do animals keep themselves clean? Give two examples.", "a": "Monkeys groom each other to remove insects, birds clean their feathers with their beaks, cats lick their fur, flies rub their legs, birds bathe in water."},
+    {"q": "What happens to your heartbeat and breathing when you run fast, and why?", "a": "They get faster and deeper, because the muscles need more oxygen and food, so the heart pumps more blood and the lungs take in more air. We also feel warm, get red cheeks and sweat."},
+    {"q": "Name two places that are unsafe to play and say why.", "a": "A busy road (vehicles can hit you), a roof without railings (you can fall), a construction site (pits, falling things, sharp rods, machines)."},
+    {"q": "A stranger offers you sweets or a ride home. What should you do?", "a": "Say 'No, thank you', walk away to a safe place, and tell a trusted adult. Never go with anyone who does not know the family password."},
+    {"q": "Our bread test: which slice grew the most mould, and what did it teach us?", "a": "Usually the one touched with dirty hands. Unwashed hands carry many tiny living things we cannot see; washing with soap removes most of them."}
+  ]
+}

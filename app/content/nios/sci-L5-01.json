@@ -1,0 +1,551 @@
+{
+  "key": "nios|sci|5|1",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 1,
+  "title": "India's Cultural and Natural Heritage: Its Conservation and Honour",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 1 (lesson pages 1–19)",
+  "summary": "Your child learns what culture is (the seen and unseen ways of living we inherit), how it is learnt, added to, changed and varied across India, and how heritage is the part we receive and must protect, from the Qutub Minar and Sanchi Stupa to the Golden Temple and the work of Aryabhata. The second half turns to natural heritage: India's forests, wildlife, rivers, coasts and minerals, why they matter and how both kinds of heritage are being damaged and can be saved.",
+  "goals": [
+    "By the end your child can explain culture as a way of living we inherit, and sort examples into its physical (seen) and non-physical (unseen) parts.",
+    "By the end your child can give the four general characteristics of culture from the book (learnt, accumulated, changing, diverse) with an example of each from their own family.",
+    "By the end your child can name at least ten heritage monuments, say which city and state each is in, who built several of them, and find them on a map of India.",
+    "By the end your child can explain how monuments get damaged (weather, pollution, careless visitors) and who protects them, and can show with a simple test why acid in polluted air harms marble.",
+    "By the end your child can describe India's natural heritage: which trees grow in which regions, where key animals live, which rivers start in the Himalaya, and where coal, iron and petroleum come from.",
+    "By the end your child can say why both cultural and natural heritage must be conserved, and what an ordinary citizen can do."
+  ],
+  "words": [
+    ["culture", "the way of living a group of people share and pass on: food, clothes, language, festivals, beliefs, art and knowledge"],
+    ["physical culture", "the parts of culture you can see and touch, such as clothes, food, pots and buildings"],
+    ["non-physical culture", "the parts of culture you cannot see, such as ideas, ideals, feelings and beliefs"],
+    ["heritage", "what we have received from our forefathers and want to keep for those who come after us; also called legacy"],
+    ["legacy", "something handed down from earlier generations"],
+    ["monument", "an old building or structure kept because it is important to history or culture"],
+    ["archaeology", "the study of the past through the things people left behind, such as buildings, tools and pots; the Archaeological Survey of India looks after many monuments"],
+    ["UNESCO World Heritage Site", "a place chosen by UNESCO, a United Nations body, as so important that it belongs to the whole world's heritage"],
+    ["natural heritage", "the gifts of nature in a country: forests, animals, rivers, mountains, seas, deserts and minerals"],
+    ["national park", "a protected area where wild animals and plants live safely and hunting and tree-cutting are not allowed"],
+    ["mineral", "a useful substance dug out of the earth, such as iron ore, coal or bauxite"],
+    ["conserve", "to protect something and use it carefully so that it is not damaged or used up"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is culture? Look around your home",
+      "goal": "Discover that culture is all around us at home, and learn its two aspects: physical and non-physical.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Culture hunt in the kitchen",
+          "mins": 8,
+          "do": "Before opening the book, walk with your child into the kitchen and the room where you keep clothes. Ask them to find five things that would tell a visitor from another country something about your family: for example the tawa or the idli steamer, a jar of achaar, a steel tiffin, a sari or kurta, a rangoli stencil, a puja thali or a calendar with festival dates. For each, ask: 'Did we invent this, or did we get it from someone older?' Good answer: 'We learnt it from Nani or Dadi, and they learnt it from their parents.' Tell them: 'All of these are part of our culture.'"
+        },
+        {
+          "kind": "read",
+          "title": "What is culture? (lesson pages 1–2)",
+          "mins": 10,
+          "do": "Read section 1.1 'What is Culture?' aloud together (the start of the lesson, with the picture of a woman making rangoli). Stop after 'Culture is a way of living our life, which we have got as a legacy from our forefathers.' Ask: 'What does legacy mean?' (Something handed down to us.) Read the list: art, music, literature, architecture, crafts, philosophy, religion, science, customs, traditions, festivals. Ask your child to give one example of each from India, for example music: a Carnatic song or a bhajan; architecture: a temple, mosque or the Red Fort; science: the zero, or Ayurveda; crafts: a Madhubani painting. If stuck on 'philosophy', say: 'big ideas about how to live, like ahimsa, non-violence.'"
+        },
+        {
+          "kind": "do",
+          "title": "Seen and unseen: sort the cards",
+          "mins": 12,
+          "do": "Read the paragraph on the two aspects of culture (page 2). Then do Activity a1: write 16 slips (listed in the activity) and ask your child to sort them into two piles, 'Physical: I can see or touch it' and 'Non-physical: I cannot see it'. Discuss the tricky ones. A festival has both: the diyas and sweets are physical, but the joy and the story behind it are non-physical. A language is non-physical, though a written book is physical. Ask: 'Which pile would disappear if nobody remembered it?' Good answer: 'The non-physical pile, because ideas and beliefs live in people's minds.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Your family's culture card",
+          "mins": 10,
+          "do": "Give your child an A4 sheet folded in half. On the left, under 'Physical', they draw three things from your home (a dish, a piece of clothing, an object used in worship or a festival). On the right, under 'Non-physical', they write three things your family believes or values, with your help: for example 'We touch elders' feet to show respect', 'We do not waste food', 'Guests are like God (atithi devo bhava)'. Ask them to explain each one in their own words. Keep the card; you will add to it on Day 2."
+        },
+        {
+          "kind": "review",
+          "title": "Three-sentence summary",
+          "mins": 5,
+          "do": "Ask your child to finish these sentences aloud: 'Culture is…' (a way of living we got from our forefathers). 'The physical part of culture includes…' (clothes, food, household things). 'The non-physical part includes…' (ideas, ideals, feelings and beliefs). If they mix up physical and non-physical, hold up a spoon (physical) and then ask them to 'hold up' respect for elders (they can't: non-physical)."
+        }
+      ],
+      "need": ["Lesson pages 1–2", "16 paper slips and a pen", "an A4 sheet", "crayons"],
+      "prep": [{"task": "Write the 16 slips for Activity a1", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "How culture is learnt, grows and changes",
+      "goal": "Learn the four general characteristics of culture and the significance of culture, using your own family's story.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Four characteristics (lesson pages 2–3)",
+          "mins": 12,
+          "do": "Read section 1.1.1 aloud, one point at a time, and after each one ask for a family example. A. Culture is learnt and acquired: 'Who taught you how we celebrate Diwali, Eid, Christmas, Pongal or Lohri?' B. Culture is accumulated, it grows: the book says joint families have become nuclear families, and women's clothes have changed from lehenga and odhni to salwar suits and trousers. Ask: 'Do we live as a joint family or a nuclear family? What about Dadaji when he was small?' C. Culture keeps changing: the book's example is that wedding guests once stayed for many days. D. Diversity: people in Kashmir wear the pheran and carry a kangri (a small clay pot of hot coals kept under the pheran) against the cold, while in Kerala women often wear saris and men wear a lungi or mundu. Ask: 'Why would a kangri be useless in Kerala?' (It is hot and humid there.)"
+        },
+        {
+          "kind": "act",
+          "title": "Three-generation interview",
+          "mins": 15,
+          "do": "Do Activity a2. Call or sit with a grandparent or older relative. Your child asks the six questions in the activity (what they ate for breakfast as a child, what they wore to school, how a wedding was done, how they talked to elders, what games they played, how news came to them) and writes short answers in a table with columns 'Grandparent's time', 'Parent's time', 'My time'. You fill in the middle column. Afterwards ask: 'Which things stayed the same in all three columns? Which changed?' This shows culture being learnt, added to and changed, all at once.",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Why culture matters (lesson page 3)",
+          "mins": 8,
+          "do": "Read section 1.1.2 'Significance of Culture'. Explain the key line: 'Human beings are the creators of culture and it is culture which makes a human, a human being.' Ask: 'If a baby grew up all alone with nobody to teach it, would it know any language, food habits or festivals?' (No. It would have to learn everything from others.) The book also says many Indians have strong faith and believe wrongdoing, lying or stealing will be punished. Ask: 'Apart from fear of punishment, what other reasons are there not to lie or steal?' Good answers: it hurts other people; people stop trusting you; it is unfair."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 1.1 (lesson page 4)",
+          "mins": 7,
+          "do": "Do 'Let's see, what you have learnt 1.1' aloud. Fill in the blanks: legacy from our forefathers; traditions; non-physical; transferred; human. Then ask for any two general characteristics of culture, each with an example from the interview. If they can only remember one, give the hint word 'L-A-C-D' (learnt, accumulated, changing, diverse)."
+        },
+        {
+          "kind": "review",
+          "title": "Add to the culture card",
+          "mins": 3,
+          "do": "On yesterday's culture card, your child adds one sentence at the bottom: 'One thing that has changed in my family's culture is… One thing that has stayed the same is…' Read it aloud together."
+        }
+      ],
+      "need": ["Lesson pages 2–4", "a grandparent or older relative (in person or by phone)", "the culture card from Day 1", "a notebook"],
+      "prep": [{"task": "Ask a grandparent or older relative to keep 15 minutes free for a phone or video call", "when": "2 days before"}]
+    },
+    {
+      "n": 3,
+      "title": "Our heritage: monuments, books and ideas",
+      "goal": "Learn the difference between culture and heritage, place famous heritage sites on a map, and meet Aryabhata, an underdog who was right.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Culture and heritage (lesson pages 4–5)",
+          "mins": 8,
+          "do": "Read section 1.2 'Culture and Heritage'. Point out the sentence: 'Any culture which we have inherited from our forefathers is called cultural heritage.' Read the long list of places together: Taj Mahal, Swaminarayan (Akshardham) temple in Gandhinagar, Qutub Minar, the Dargah of Nizamuddin Auliya, Red Fort, Mysore Palace, the Jain temples at Dilwara in Rajasthan, the Golden Temple, Gurdwara Sis Ganj, Sanchi Stupa, the church of St Francis Xavier in Goa, India Gate, Rameshwaram, Puri Rath Yatra, Dwarka, Badrinath, the Ashoka Pillar, Fatehpur Sikri, Rashtrapati Bhavan. Ask: 'Which of these are places of worship, and of which faiths?' Help them see Hindu, Muslim, Sikh, Jain, Buddhist and Christian places all on one list: all are India's heritage. Note the book's last line: 'In culture changes keep happening but not in our heritage.' Ask: 'Why can't heritage change?' (It is what was already handed to us; we can only protect it or lose it.)"
+        },
+        {
+          "kind": "act",
+          "title": "Heritage map of India",
+          "mins": 15,
+          "do": "Do Activity a3. On an outline map of India, your child marks 12 heritage sites with a dot and a small drawing: Taj Mahal (Agra, Uttar Pradesh), Qutub Minar and Red Fort (Delhi), Golden Temple (Amritsar, Punjab), Dilwara temples (Mount Abu, Rajasthan), Hawa Mahal (Jaipur, Rajasthan), Sanchi Stupa (near Bhopal, Madhya Pradesh), Ajanta caves (Maharashtra), Gateway of India (Mumbai), St Francis Xavier church (Old Goa), Mysore Palace (Karnataka), Charminar (Hyderabad, Telangana), Mahabalipuram (Tamil Nadu), Kanyakumari (Tamil Nadu), Puri (Odisha). Use a school atlas or a phone map to check each place. Ask: 'Which part of India has the most dots on your map? Is that because there is more heritage there, or because the book picked more from there?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Heritage in ideas: Aryabhata",
+          "mins": 12,
+          "do": "Read the book's line (page 5): 'Aryabhatta, Varahamihira and Bhaskaracharya have contributed to India's mathematics, astronomy and astrology.' Explain: astronomy is the science of the sun, moon, stars and planets, tested by measuring; astrology is a belief that planets shape our lives, which has not held up when tested, so scientists do not count it as science. Then tell the story of Voice v1, Aryabhata. Do a quick demonstration: your child sits on a swivel chair (or turns slowly on the spot) while looking at the room. Ask: 'Does the room seem to move the other way?' (Yes.) Aryabhata said the stars seem to move across the sky each night because the Earth is spinning, just like this. Discuss the 'ask' question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 1.2 (lesson page 6)",
+          "mins": 7,
+          "do": "Do the matching task 'Let's see, what you have learnt 1.2' aloud. Answers: Agra – Taj Mahal; Mysore – Royal Palace; Delhi – Qutub Minar; Dilwara (the book misprints it as 'Bhilwara') – Jain Temple; Amritsar – Golden Temple; Sanchi – Sanchi Stupa; Goa – St Francis Church. Ask your child to point to each on their map as they answer."
+        },
+        {
+          "kind": "review",
+          "title": "Culture or heritage?",
+          "mins": 3,
+          "do": "Ask quickly: 'The film songs you like this year: culture or heritage?' (Culture now; it might become heritage if people keep it for generations.) 'The Ramayana?' (Heritage.) 'The zero and decimal place value used all over the world?' (Heritage of Indian mathematics.) 'The way your family makes dal?' (Both: a living culture handed down to you.)"
+        }
+      ],
+      "need": ["Lesson pages 4–6", "an outline map of India (printed or traced)", "a school atlas or phone map", "colour pencils", "a swivel chair if you have one"],
+      "prep": [{"task": "Print or trace an outline map of India", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Famous monuments and why they need protecting",
+      "goal": "Learn about the book's famous monuments, find out how monuments are damaged, test why polluted air harms marble, and learn who protects heritage.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Start the marble and acid test",
+          "mins": 7,
+          "do": "Set up Experiment e1 first, so it can work while you read. Two glasses: one with plain water, one with white vinegar. Drop a piece of white chalk (or a small marble chip) into each. Ask your child to predict before dropping: 'Will anything happen? In which glass?' Write the guesses down. Leave both glasses on the table.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Monuments tour (lesson pages 6–9)",
+          "mins": 13,
+          "do": "Read section 1.3 aloud, one monument at a time, finding each on the Day 3 map. Add these accurate details as you go. Indus Valley: cities like Harappa and Mohenjo-daro about 4,500 years old. Ajanta (Maharashtra): the paintings were painted on the cave walls, not carved, and many are about 1,500 years old. Mahabalipuram: about 1,300 years ago Pallava kings cut whole chariot-shaped temples (rathas) out of single rocks. Qutub Minar: about 73 metres tall, begun by Qutubuddin Aibak around 1199 and finished by later rulers; it is often called the tallest brick minaret in the world. Taj Mahal: built by Shah Jahan for Mumtaz Mahal; the traditional account says it took about 22 years and 20,000 workers. Bada Imambara in Lucknow, on the Gomti, built by Nawab Asaf-ud-Daula, has a huge hall with no pillars and a maze (bhool-bhulaiya). Golden Temple: the holiest place of the Sikhs, with a holy pool. Jantar Mantar in Delhi: stone instruments for measuring the sky built by Raja Jai Singh II of Jaipur. After each, ask: 'Who built it, and in which city is it?' The book says UNESCO had 20 Indian sites; tell your child the list has grown, and India now has more than 40 World Heritage Sites."
+        },
+        {
+          "kind": "exp",
+          "title": "Check the chalk",
+          "mins": 5,
+          "do": "Look at the two glasses from Experiment e1. The chalk in vinegar should be fizzing with tiny bubbles and getting smaller and softer; the water glass shows little or no change. Ask: 'What is happening?' Then explain the 'why' from the experiment: marble and chalk are both made of calcium carbonate, and acids eat them away. Smoke from factories and vehicles makes the rain a little acidic.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Saving the Taj: M.C. Mehta",
+          "mins": 10,
+          "do": "Read the last part of section 1.3 (page 9): monuments are damaged by weather, pollution, people writing names on walls, breaking things and living in them; the Department of Archaeology (the Archaeological Survey of India) looks after them, but every citizen must help. Then tell the story of Voice v2, the lawyer M.C. Mehta and the Taj Mahal case. Ask: 'Is it fair to close a factory that gives people jobs, to protect a monument? What else could be done?' Good answers include moving the factory, making it use cleaner fuel (as the court ordered), or giving workers new jobs.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 1.3 (lesson pages 9–10)",
+          "mins": 10,
+          "do": "Do 'Let's see, what you have learnt 1.3' aloud. Matching: Mumbai – Gateway of India; Hyderabad – Charminar; Fatehpur Sikri – Buland Darwaza; Lucknow – Imambara; Amritsar – Golden Temple. Questions: Qutub Minar is in Mehrauli, Delhi; the Taj Mahal took about 22 years; Bada Imambara is on the Gomti; Buland Darwaza is at Fatehpur Sikri; the holy pool is at the Golden Temple, Amritsar; Sanchi Stupa is in Madhya Pradesh; Charminar is in Hyderabad. Then do core worksheet ws1, sections A and B, in writing.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 6–10", "2 glasses", "white vinegar", "2 pieces of white chalk (or marble chips)", "the heritage map from Day 3"],
+      "prep": [{"task": "Buy a small bottle of white vinegar if you do not have one", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Natural heritage: forests and wildlife",
+      "goal": "Learn why forests matter, which trees grow in which part of India, and where India's animals live, and test how plant cover protects soil.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Natural heritage and forests (lesson pages 10–11)",
+          "mins": 10,
+          "do": "Read section 1.4 and 1.4.1 aloud. List what we get from forests (the book names wood, herbs, rubber, lac and silk) and what forests do: help bring rain, stop soil being washed away, enrich the soil and give animals homes. The book says 23% of India is forest; tell your child that the latest government surveys put forest cover at about 21–22%, and about 25% if trees outside forests are counted. Then read the trees of each region and make a quick table aloud: Himalaya – cone-shaped trees like deodar (cedar) and pine; Terai (the land at the foot of the Himalaya) – sal, teak, bamboo; plains – banyan, peepal, neem, sheesham (rosewood), sandalwood, bael; desert – date palm, babool and keekar (acacias), cactus (nagphani), with thick rough bark; coasts – coconut, palm and areca (betel nut). Ask: 'Why do desert trees have thick bark and small or spiny leaves?' (To lose less water in the heat.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Do roots hold the soil?",
+          "mins": 12,
+          "do": "Do Experiment e2. Fill two trays or cut-open milk cartons with soil: one bare, one covered with a thick layer of grass clumps with roots (from a garden or a patch of weeds) or a lawn sod. Tilt both on a brick with a bowl at the lower end. Ask your child to predict which bowl will get muddier water. Pour the same mug of water slowly over each, like rain. Compare the two bowls side by side. Link it to the book's line that forests 'help in checking land erosion'.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Wildlife of India (lesson pages 11–13)",
+          "mins": 10,
+          "do": "Read section 1.4.2. Mark on the Day 3 map: elephants (Assam, Kerala, Karnataka), Asiatic lions (only in and around the Gir forest, Gujarat), one-horned rhinoceros (Assam and West Bengal), and Himalayan animals (snow leopard, musk deer, yak). Add the hangul, Kashmir's red deer. The book's numbers are older: India's Zoological Survey now records more than one lakh animal species, including over 1,300 kinds of birds, and India has more than 100 national parks, not 55. Ask: 'Why are lions found in only one forest in all of India? What could go wrong if all of them live in one place?' (A disease or fire could harm all of them at once; that is why scientists want a second home for them.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Salim Ali, the birdman of India",
+          "mins": 8,
+          "do": "Read Voice v3 aloud. Then stand at a window or balcony for 3 minutes and count and name every bird you can see or hear (crow, myna, pigeon, sparrow, koel, bulbul, parrot, kite). Ask the 'ask' question from v3.",
+          "ref": "v3"
+        },
+        {
+          "kind": "review",
+          "title": "Quick quiz",
+          "mins": 5,
+          "do": "Ask: 'Where would you go to see a lion in the wild?' (Gir, Gujarat.) 'Which animal has one horn and lives in Assam's swamps?' (Rhinoceros.) 'Name a tree of the desert and one of the Himalaya.' (Babool or date palm; deodar or pine.) 'Name two national parks from the book.' (Corbett, Kaziranga, Dudhwa, Kanha.) 'What is our national bird?' (Peacock.)"
+        }
+      ],
+      "need": ["Lesson pages 10–13", "2 trays or cut milk cartons", "soil", "a clump of grass with roots or a piece of lawn", "a brick or thick book", "2 bowls", "a mug of water", "the heritage map"],
+      "prep": [{"task": "Dig up a clump of grass with its roots and soil (from a weedy patch, not a park lawn)", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Rivers, seas and minerals",
+      "goal": "Learn India's river systems and coasts, measure the coastline yourself, and find out where coal, petroleum and iron come from and how we use them at home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Water resources (lesson page 13)",
+          "mins": 8,
+          "do": "Read section 1.4.3. On the map, your child traces the Himalaya from Jammu and Kashmir to Arunachal Pradesh in brown, then draws in blue the rivers that start there (Ganga, Yamuna, Sutlej, Ravi, Chenab, Beas, Brahmaputra) and the southern rivers (Narmada, Tapti, Krishna, Kaveri). Label the Bay of Bengal (east), the Arabian Sea (west) and the Indian Ocean (south). Ask: 'Why are Himalayan rivers full of water even in summer when there is no rain?' (Snow and glaciers melt and feed them.)"
+        },
+        {
+          "kind": "act",
+          "title": "How long is India's coast?",
+          "mins": 12,
+          "do": "Do Activity a4. Your child measures the coastline on an atlas map twice, first with a few straight ruler lines from Gujarat to West Bengal, then by laying a thread carefully along every bend, and converts both with the map's scale. The book says about 7,000 km. Then tell them: an official remeasurement completed in 2024 that followed the coast in much finer detail, including islands, gave about 11,000 km. Ask: 'Did the coast grow? Why did the number change?' (No; a more detailed measurement follows more bends, so it gets longer.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "read",
+          "title": "Minerals: coal, petroleum, iron (lesson pages 13–14)",
+          "mins": 10,
+          "do": "Read section 1.4.4. Explain 'mineral' and 'mine or quarry', and that ores come out impure and must be refined in factories. Coal: made from forests buried and pressed under the earth for millions of years; used for electricity, melting iron ore and in industry; mined in Jharkhand, Odisha, Chhattisgarh, Madhya Pradesh, Maharashtra and other states. Petroleum: from deep underground, with natural gas; gives petrol, diesel and kerosene; found off Mumbai (Bombay High), in Assam and Gujarat; India imports most of what it uses. Iron: the most-used metal, for machines, buildings and bridges. Ask: 'If coal is made from ancient forests, why can't we just make more?' (It takes millions of years; we use it far faster than it forms.)"
+        },
+        {
+          "kind": "do",
+          "title": "Mineral hunt at home",
+          "mins": 10,
+          "do": "Your child walks round the house and lists ten things made from minerals or fuels from the earth, and what each comes from: iron or steel (kadhai, almirah, gate, nails), aluminium from bauxite (pressure cooker, foil), copper (wires, a lota), glass from sand, the LPG cylinder (gas from petroleum), plastic buckets (made from petroleum), electricity (much of India's still comes from coal), cement walls (from limestone), mica (in some paints and electrical parts). Ask: 'Which of these could we use less of, or reuse, to conserve minerals?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 1.4 (lesson pages 14–15)",
+          "mins": 5,
+          "do": "Do the fill-ins from 'Let's see, what you have learnt 1.4' aloud: silk; thick and rough; musk; Arunachal Pradesh; kerosene. Then ask the short questions: two desert trees (date palm, babool); cedar and pine (Himalaya); three grassland animals (deer, tiger, lion); where coal is found (Jharkhand, Odisha, Chhattisgarh, Madhya Pradesh); where petroleum is found (Mumbai offshore, Assam, Gujarat). Also discuss the book's two questions on Ganga and Yamuna pollution (sewage and factory waste) and forest cutting (more people need land, wood and homes)."
+        }
+      ],
+      "need": ["Lesson pages 13–15", "a school atlas with a map scale", "thread and a ruler", "blue and brown pencils", "the heritage map"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Revise, check and teach it back",
+      "goal": "Review the whole lesson, do the book's exercise and the stretch and challenge worksheets, check understanding and teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise (lesson pages 15–16)",
+          "mins": 6,
+          "do": "Read the 'Let's Revise' points aloud, but pause before the end of each and let your child finish it from memory, for example 'Culture has two aspects…' (physical and non-physical). 'Culture is learnt and obtained. It is…' (changing). Correct the book's one slip: '55 National Parks' is now more than 100. Then do the true/false part of the book's Exercise IV aloud. Answers: true, false (culture changes), true, false (Pongal is mainly a Tamil Nadu festival), true, false (the Golden Temple is in Amritsar), true, true, false (the government has made national parks and wildlife laws), true."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Your child does stretch worksheet ws2 alone. Then check it together. For the open questions, look for reasons, not just names: for example, 'The kangri suits Kashmir because winters there are freezing.'",
+          "ref": "ws2"
+        },
+        {
+          "kind": "think",
+          "title": "Indus mystery and the challenge sheet",
+          "mins": 12,
+          "do": "Tell the story of Voice v4, the undeciphered Indus script. Show a picture of an Indus seal if you can find one in a book or online. Ask the 'ask' question. Then your child tries challenge worksheet ws3. Do the puzzle items together if needed; praise good reasons even when the answer differs from yours.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 2,
+          "do": "Before closing, glance at ws3's last section with your child and agree on one real promise to protect heritage (for example 'I will never write on a monument wall' or 'I will carry my own water bottle on trips so I don't leave plastic behind'). Write it on the culture card.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick the good answers. For any missed answer, open the right lesson page, read it together for one minute and ask again in different words. Six or more right is good; fewer than five, repeat the Day 3 map and the Day 5 forest reading next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 7,
+          "do": "Your child is the teacher and you are the student. Using the heritage map, the culture card and the chalk from the vinegar test, they teach you in five minutes: what culture is and its two aspects; three monuments, where they are and why they are damaged; and three parts of natural heritage. Ask two 'student' questions: 'Why does the Taj turn yellow?' and 'Why should I care about a forest I will never visit?'"
+        }
+      ],
+      "need": ["Lesson pages 15–17", "worksheets ws2 and ws3", "the heritage map and culture card", "a picture of an Indus seal (optional)"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Culture and heritage",
+      "day": 4,
+      "sections": [
+        ["A. What is culture?", [
+          {"t": "fill", "p": "Culture is a way of living which we got as a legacy from our ____.", "a": ["forefathers", "ancestors"]},
+          {"t": "fill", "p": "Culture has two aspects: physical and ____.", "a": ["non-physical", "non physical"]},
+          {"t": "sort", "p": "Sort these into the two aspects of culture.", "items": ["Sari", "Respect for elders", "Idli steamer", "Belief in non-violence", "Rangoli", "Love of music", "Brass lamp", "Honesty"], "cats": ["Physical", "Non-physical"]},
+          {"t": "mcq", "p": "Earlier, many families lived as joint families; now many live as nuclear families. This shows that culture:", "opts": ["never changes", "keeps changing", "is the same everywhere", "is only about food"], "a": 1}
+        ]],
+        ["B. Heritage places", [
+          {"t": "match", "p": "Match each monument to its city.", "pairs": [["Taj Mahal", "Agra"], ["Charminar", "Hyderabad"], ["Golden Temple", "Amritsar"], ["Hawa Mahal", "Jaipur"], ["Bada Imambara", "Lucknow"], ["Gateway of India", "Mumbai"]]},
+          {"t": "mcq", "p": "Who built the Sanchi Stupa?", "opts": ["Shah Jahan", "Ashoka", "The Pallava kings", "Raja Jai Singh"], "a": 1},
+          {"t": "fill", "p": "The stone rathas (chariot temples) at Mahabalipuram were made by the ____ kings.", "a": ["Pallava", "Pallavas"]}
+        ]],
+        ["C. Protecting heritage", [
+          {"t": "write", "p": "Write three ways monuments get damaged, and one thing you can do to help.", "lines": 4},
+          {"t": "fill", "p": "The government department that looks after monuments is the department of ____.", "a": ["Archaeology", "archaeology"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Using what you know",
+      "day": 7,
+      "sections": [
+        ["A. Culture in new places", [
+          {"t": "write", "p": "A family moves from Srinagar to Kochi. Which two things in their way of living might change, and why?", "lines": 3},
+          {"t": "mcq", "p": "Your cousin learns to make Dadi's rasam, then adds a little extra tamarind of her own. Which characteristic of culture does this show best?", "opts": ["Culture is accumulated: each generation adds something", "Culture is only physical", "Culture cannot be learnt", "Culture is the same in every family"], "a": 0},
+          {"t": "write", "p": "Name one thing in your home that is heritage (handed down) and one that is new culture from your own time.", "lines": 2}
+        ]],
+        ["B. Natural heritage", [
+          {"t": "match", "p": "Match each region to a tree that grows there.", "pairs": [["Himalaya", "Deodar and pine"], ["Terai", "Sal and teak"], ["Desert", "Babool and date palm"], ["Seashore", "Coconut and areca"], ["Plains", "Neem and banyan"]]},
+          {"t": "sort", "p": "Sort these animals by where they are mainly found in India.", "items": ["Snow leopard", "Asiatic lion", "One-horned rhinoceros", "Yak", "Musk deer", "Asian elephant"], "cats": ["Himalaya", "Gujarat (Gir)", "Assam and the north-east", "Forests of Kerala, Karnataka and Assam"]},
+          {"t": "table", "p": "Fill the table for three minerals or fuels.", "cols": ["Mineral or fuel", "One use", "One state where it is found"], "rows": 3, "prefill": ["Coal", "Petroleum", "Iron ore"]}
+        ]],
+        ["C. Reasons", [
+          {"t": "write", "p": "Your soil-tray test: why did the bare tray send muddier water into the bowl? What does this tell us about cutting forests on hills?", "lines": 3},
+          {"t": "mcq", "p": "Why does the marble of the Taj Mahal need protection from smoke and polluted air?", "opts": ["Smoke makes marble heavier", "Acids and soot in polluted air eat away and stain marble", "Marble melts in sunlight", "Smoke makes marble grow"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Think like a heritage detective",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "The book says India's coast is about 7,000 km long, but a newer survey says about 11,000 km. Both teams measured the same coast. Explain how both can be honest.", "lines": 3},
+          {"t": "write", "p": "The lions of India all live in and around one forest in Gujarat. Give one reason this is risky and one reason moving some lions elsewhere could be hard.", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if nobody wrote down or taught Aryabhata's ideas? What would we have lost, and how do ideas survive for 1,500 years?", "lines": 3},
+          {"t": "mcq", "p": "Scholars still cannot read the Indus script. Which would help MOST to decipher it?", "opts": ["Finding a long inscription with the same text written in a language we can read", "Painting the seals in bright colours", "Counting how many seals are in museums", "Guessing what each sign looks like"], "a": 0}
+        ]],
+        ["C. Weighing views", [
+          {"t": "write", "p": "A factory near a monument gives jobs to 500 people but its smoke damages the monument. Write what the factory owner, a worker, and a heritage lover might each say. Then write what you would decide and why.", "lines": 6},
+          {"t": "write", "p": "My promise to protect our cultural or natural heritage is:", "lines": 2}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Why does polluted air harm marble?",
+      "day": 4,
+      "question": "What happens to chalk (which is made of the same stuff as marble) when it sits in an acid, compared with plain water?",
+      "need": ["2 clear glasses", "white vinegar (half a glass)", "plain water (half a glass)", "2 equal pieces of white chalk, or 2 small marble chips from a stone or tile shop", "labels"],
+      "steps": [
+        "Label one glass 'Water' and one 'Vinegar (acid)'. Fill each half full.",
+        "Look closely at the two pieces of chalk and draw them. If you have a kitchen scale, weigh them.",
+        "Drop one piece into each glass at the same moment.",
+        "Watch for 2 minutes and note what you see.",
+        "Leave both glasses for 30 minutes to an hour, then take the chalk out with a spoon, compare and draw again."
+      ],
+      "predict": "Ask your child to guess first: will anything happen in either glass? Which piece will change more? Write both guesses down.",
+      "observe": "In vinegar, tiny bubbles stream off the chalk at once and it slowly crumbles and gets smaller and softer at the edges. In water, the chalk may give off a few air bubbles and soften a little but does not fizz steadily or shrink in the same way.",
+      "why": "Chalk, limestone and marble are all made mostly of calcium carbonate. An acid reacts with calcium carbonate: it breaks it apart, making carbon dioxide gas (the bubbles) and a substance that dissolves in water, so the stone is slowly eaten away. Vinegar is a weak acid. When coal, petrol and diesel are burnt in factories, power stations and vehicles, they give off gases such as sulphur dioxide and nitrogen oxides that mix with rain and moisture to make weak acids. Over many years this 'acid rain' and soot can roughen, pit and stain marble buildings and statues like the Taj Mahal. Real acid rain is much weaker than vinegar, so the damage takes years, not minutes.",
+      "safety": "Vinegar is safe, but do not let it get into eyes. Do not use stronger acids such as toilet cleaner.",
+      "time": "5 min to set up + 5 min check after 30–60 min"
+    },
+    {
+      "id": "e2",
+      "title": "Do plants and roots stop soil washing away?",
+      "day": 5,
+      "question": "When rain falls on a slope, does soil covered with plants lose less soil than bare soil?",
+      "need": ["2 trays or milk cartons cut open lengthwise (same size)", "garden soil", "a clump of grass or weeds with roots and soil, enough to cover one tray", "a brick or thick book to tilt the trays", "2 bowls or cut bottles", "a mug or watering can", "water"],
+      "steps": [
+        "Fill one tray with loose bare soil, pressed down lightly.",
+        "Fill the second tray with soil and press the grass clumps firmly on top so the roots are in the soil and the top is covered.",
+        "Rest one end of each tray on a brick so they slope the same amount, with a bowl under the lower end of each. Cut a small V at the low end of a carton so water can run out.",
+        "Pour one mug of water slowly over the high end of the bare tray, like steady rain. Repeat exactly the same for the grassy tray.",
+        "Put the two bowls side by side on white paper and compare the colour and the amount of mud. Let them settle for 10 minutes and look at the mud at the bottom."
+      ],
+      "predict": "Ask your child to guess first: which bowl will have more mud? Will the grassy tray let any water through at all?",
+      "observe": "Look at how brown the water is, how much mud settles at the bottom of each bowl, and whether gullies (little channels) formed in the trays. Usually the bare tray's water is thick brown with a layer of mud, and grooves appear in the soil; the grassy tray's water is clearer and its soil stays in place.",
+      "why": "Falling water hits bare soil hard and knocks particles loose; then the water running downhill carries them away. This washing away of the top soil is called soil erosion. Plants protect soil in three ways: leaves break the force of the falling drops, roots hold soil particles together like a net, and fallen leaves and plant matter help water soak in slowly instead of rushing over the top. That is why the book says forests check land erosion. When forests on hills are cut, the rich top layer of soil, which took hundreds of years to form, can wash into rivers in a few monsoons, making rivers muddy and floods worse.",
+      "safety": "Wash hands after handling soil. Do this outside or on newspaper.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Seen and unseen culture sort",
+      "day": 1,
+      "mins": 12,
+      "need": ["16 paper slips", "a pen"],
+      "steps": [
+        "Write one item on each slip: sari, dhoti, idli, roti, steel tiffin, diya, temple or mosque or church building, tabla, respect for elders, belief in God, the idea of non-violence (ahimsa), joy of a festival, our language, a lullaby Nani sang, honesty, a wedding.",
+        "Make two headings on the floor: 'Physical (seen)' and 'Non-physical (unseen)'.",
+        "Your child places each slip and says why.",
+        "Put the hard ones (language, lullaby, wedding, festival) in the middle and talk about how they have both a seen and an unseen part.",
+        "Ask your child to add two slips of their own to each pile."
+      ],
+      "outcome": "Two piles that show culture is not only things we can see but also ideas, values and feelings, and that most real customs have both parts."
+    },
+    {
+      "id": "a2",
+      "title": "Three-generation interview",
+      "day": 2,
+      "mins": 15,
+      "need": ["a grandparent or older relative", "a notebook with a 4-column table drawn: Question, Grandparent's time, Parent's time, My time"],
+      "steps": [
+        "Your child asks: What did you eat for breakfast as a child?",
+        "What did you wear to school, and how did you get there?",
+        "How long did a wedding last, and how long did guests stay?",
+        "How did children greet and speak to elders?",
+        "What games did you play?",
+        "How did news from far away reach your family (letter, radio, telegram, phone)?",
+        "Your child writes short answers; the parent fills in the 'Parent's time' column; the child fills in 'My time'.",
+        "Circle in green what stayed the same and in red what changed."
+      ],
+      "outcome": "A family table showing culture being passed on (learnt), added to (accumulated) and changing, with the child's own family as the evidence."
+    },
+    {
+      "id": "a3",
+      "title": "Heritage map of India",
+      "day": 3,
+      "mins": 15,
+      "need": ["an outline map of India", "a school atlas or phone map", "colour pencils"],
+      "steps": [
+        "Mark and label 12–14 heritage sites from the book with a dot and a tiny drawing: Taj Mahal, Qutub Minar, Red Fort, Golden Temple, Dilwara temples, Hawa Mahal, Sanchi Stupa, Ajanta caves, Gateway of India, St Francis Xavier church, Mysore Palace, Charminar, Mahabalipuram, Kanyakumari, Puri.",
+        "Colour the dot by type: places of worship in orange, palaces and forts in red, others in green.",
+        "Write the state name next to each.",
+        "Keep the map: on Day 5 add animals and national parks, and on Day 6 add rivers and seas."
+      ],
+      "outcome": "One map of India that grows through the week to show both cultural and natural heritage."
+    },
+    {
+      "id": "a4",
+      "title": "Measure India's coastline",
+      "day": 6,
+      "mins": 12,
+      "need": ["a school atlas map of India with a scale bar", "a ruler", "a long thread", "a pencil"],
+      "steps": [
+        "Find the scale bar on the map (for example 1 cm = 200 km) and write it down.",
+        "Measure 1: draw 5–6 straight ruler lines along the coast from the Gujarat–Pakistan border round Kanyakumari to the Bangladesh border. Add up the centimetres and change to km using the scale.",
+        "Measure 2: lay the thread along the coast following every bend you can, from the same start to the same end. Mark the thread, straighten it on the ruler and convert to km.",
+        "Compare the two answers with the book's 7,000 km and the 2024 figure of about 11,000 km (which also counts island coasts).",
+        "Write a sentence: 'The more carefully we follow the bends, the ____ the coastline gets.'"
+      ],
+      "outcome": "Two measurements of India's coastline and an understanding that a coastline's length depends on how finely you measure it, so careful measuring, and saying how you measured, matter in science."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Aryabhata (476 CE–about 550 CE), Kusumapura near Pataliputra (today's Patna), India",
+      "idea": "In his book the Aryabhatiya, which he wrote at the age of 23 in 499 CE, Aryabhata said that the Earth spins on its axis, and that the stars only seem to move across the sky each night because of this, just as a person on a moving boat sees the trees on the bank moving backwards. He also explained that eclipses happen because of the shadows of the Earth and the Moon, not because of a demon (Rahu) swallowing the Sun or Moon, and he gave a very good value for pi.",
+      "then": "Many later Indian astronomers did not accept that the Earth spins. The famous astronomer Brahmagupta, about a century later, criticised the idea, and for a long time most astronomers in India and elsewhere believed the Earth stood still while the sky turned around it.",
+      "now": "We now know for certain that the Earth spins once a day; satellites and pendulum experiments show it directly. Aryabhata's explanation of eclipses is also correct. India's first satellite, launched in 1975, was named Aryabhata in his honour. He was right on these points, though like everyone in his time he also held some ideas that later turned out wrong.",
+      "status": "accepted",
+      "ask": "When you turned on the chair, the room seemed to move. Standing on the ground, how could you tell whether the sky is turning or the Earth is spinning? What evidence would change your mind?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "M.C. Mehta (born 1946), environmental lawyer, and the Supreme Court of India's Taj Mahal case (judgement 1996)",
+      "idea": "In 1984 Mehta asked the Supreme Court to protect the Taj Mahal, arguing that smoke from foundries, factories and a nearby oil refinery was yellowing and damaging its marble. In 1996 the court agreed and ordered factories in a large protected zone around the Taj (the Taj Trapezium Zone) to switch to cleaner natural gas or move away.",
+      "then": "Many factory owners and workers protested, because their jobs and businesses were at stake. Some people argued that the damage was mainly from age and weather, not industry.",
+      "now": "Scientists accept that air pollution discolours and harms marble. A 2015 study by researchers from IIT Kanpur and universities in the USA found that tiny particles of soot, smoke from burning rubbish and dung, and dust settling on the marble cause its brownish colour. The Archaeological Survey of India now cleans the Taj with a special clay pack, and the fight against pollution around Agra continues.",
+      "status": "accepted",
+      "ask": "Some people said the Taj was going yellow just from old age. What test or measurement would show whether pollution or age is to blame?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Salim Ali (1896–1987), ornithologist (bird scientist), Mumbai, India",
+      "idea": "Salim Ali spent his life travelling across India studying birds carefully: where they live, what they eat and how they nest. His 'The Book of Indian Birds' (1941) helped ordinary people identify birds, and with S. Dillon Ripley he wrote a ten-volume handbook of the birds of India and Pakistan. He argued that wild places must be protected for birds to survive.",
+      "then": "In his early years there were few jobs for a bird scientist in India, and he did not complete a formal degree in zoology, so he had to make his own way. Much bird study then meant shooting birds to collect them; he used collecting too, as scientists of his time did, but gradually moved more towards watching living birds in the wild.",
+      "now": "He is called the 'Birdman of India'. His work helped protect the Bharatpur bird sanctuary (now Keoladeo National Park, a UNESCO World Heritage Site), and he spoke up for saving Silent Valley in Kerala from being flooded by a dam. He received the Padma Vibhushan in 1976.",
+      "status": "accepted",
+      "ask": "You counted birds from your window for 3 minutes. If you did this every day for a year, what could you find out that one day could not tell you?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "The Indus script debate: Iravatham Mahadevan (1930–2018) and Asko Parpola (born 1941), and their critics Steve Farmer, Richard Sproat and Michael Witzel (2004)",
+      "idea": "The Indus Valley people left thousands of small seals and objects with rows of signs, about 4,500 years old. Most scholars, including Mahadevan in India and Parpola in Finland, who each spent decades listing and studying the signs, think the signs are writing of a real language.",
+      "then": "In 2004 Farmer, Sproat and Witzel argued that the inscriptions are too short (usually about five signs) and that the signs may be symbols like those on flags or road signs, not full writing. Many experts strongly disagreed.",
+      "now": "In 2009 a team led by Rajesh Rao published a statistical study suggesting the signs follow patterns like those of languages, but the critics said the test could not prove it. Nobody has yet deciphered the script, mainly because no long text has been found written both in Indus signs and in a known language. This is a live debate.",
+      "status": "debated",
+      "ask": "If someone found only very short labels in our house, like 'salt', 'sugar' and 'Om', could they work out our whole language? What would they need to find?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What is culture? Give one physical and one non-physical example.", "a": "Culture is a way of living we have received from our forefathers. Physical: clothes, food, pots, buildings. Non-physical: ideas, ideals, feelings and beliefs, such as respect for elders."},
+    {"q": "Name the four general characteristics of culture in the book.", "a": "It is learnt and acquired; it is accumulated (it grows from generation to generation); it keeps changing; it is diverse."},
+    {"q": "What is the difference between culture and heritage?", "a": "Culture is our whole way of living and keeps changing; heritage is what we have received from our forefathers, such as monuments, scriptures and knowledge, which we must protect and pass on."},
+    {"q": "Where are the Taj Mahal, Charminar, Sanchi Stupa and the Golden Temple, and who built the Taj?", "a": "Taj Mahal: Agra, built by Shah Jahan for Mumtaz Mahal. Charminar: Hyderabad. Sanchi Stupa: near Bhopal, Madhya Pradesh. Golden Temple: Amritsar, Punjab."},
+    {"q": "Give three ways monuments get damaged and say who looks after them.", "a": "Weather and age, air pollution (acids and soot), and careless people writing on walls, breaking things or living in them. The Archaeological Survey of India (department of archaeology) looks after them, but every citizen must help."},
+    {"q": "Why did the chalk fizz in vinegar, and what does it teach us about the Taj Mahal?", "a": "Chalk and marble are calcium carbonate, which acids eat away, giving off carbon dioxide bubbles. Polluted air makes rain slightly acidic and leaves soot, so it slowly harms and stains marble."},
+    {"q": "Name three things forests give us and two things they do for the land.", "a": "Wood, herbs, rubber, lac, silk, food and homes for animals. They help bring rainfall, stop soil erosion and make the soil richer."},
+    {"q": "Where in India are coal and petroleum found, and why should we use them carefully?", "a": "Coal: Jharkhand, Odisha, Chhattisgarh, Madhya Pradesh and other states. Petroleum: off Mumbai, Assam, Gujarat. They took millions of years to form and will run out, and India has to import most of its petroleum."}
+  ]
+}

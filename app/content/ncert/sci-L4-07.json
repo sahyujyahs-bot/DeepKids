@@ -1,0 +1,1133 @@
+{
+  "key": "ncert|sci|4|7",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 7,
+  "title": "How Things Work",
+  "source": "NCERT Our Wondrous World, Class 4, Unit 4 'Things Around Us', Chapter 7 (pages 104–116), Reprint 2026-27",
+  "summary": "Meera and Dhruv spend their weekends finding out how things work. Your child spins coins, bangles, tops and home-made card spinners to discover what makes something spin smoothly (balance around the centre), mixes colours on a spinning disc, and then tests which things float or sink, finding that it depends not just on how heavy something is but on its material and shape. The chapter ends with designing, testing and improving a boat.",
+  "goals": [
+    "By the end your child can predict, test and record (guess, observe, reason) whether an object spins, floats or sinks, and change one thing at a time to find out why.",
+    "By the end your child can explain that a spinner spins smoothly when its weight is spread evenly around the stick through its centre, and wobbles when the stick is off-centre.",
+    "By the end your child can describe what happens to colours on a fast-spinning disc and explain it using how the eye holds on to what it sees.",
+    "By the end your child can show that floating does not depend only on heaviness: a heavy steel katori floats while a small nail sinks, and the same foil floats as a cup but sinks as a tight ball.",
+    "By the end your child can make a sinking thing float and a floating thing sink (by changing shape, adding air, or making water salty) and explain the idea of water pushing up.",
+    "By the end your child can design, build, test and improve a boat, and describe its strengths and challenges."
+  ],
+  "words": [
+    [
+      "spin",
+      "to turn round and round quickly about a line through the middle"
+    ],
+    [
+      "axis",
+      "the imaginary line (or the real stick) that something spins around"
+    ],
+    [
+      "balance",
+      "when weight is spread evenly so that something does not tip or wobble to one side"
+    ],
+    [
+      "wobble",
+      "to shake or rock from side to side instead of spinning or standing steadily"
+    ],
+    [
+      "lattu",
+      "a traditional Indian spinning top, usually made of wood, spun by pulling a wound string"
+    ],
+    [
+      "charkha",
+      "a spinning wheel that twists cotton fibre into thread"
+    ],
+    [
+      "float",
+      "to stay on the surface of water without going down"
+    ],
+    [
+      "sink",
+      "to go down to the bottom of the water"
+    ],
+    [
+      "material",
+      "what a thing is made of, such as wood, iron, plastic or paper"
+    ],
+    [
+      "push up (upthrust)",
+      "the upward push that water gives to anything placed in it; scientists call it buoyancy or upthrust"
+    ],
+    [
+      "prediction",
+      "a careful guess about what will happen, made before testing"
+    ],
+    [
+      "observation",
+      "what we actually see, hear or measure when we test something"
+    ]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Things that spin",
+      "goal": "Begin with things your child uses every day, meet Meera and Dhruv, and spin coins, bangles and other objects to fill the book's I observe / I wonder / I think table.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "How does it work?",
+          "mins": 6,
+          "do": "Hand your child three everyday things one by one: a click pen, a steel tiffin box with a clip lid, and a pair of scissors. For each, ask: 'What does it do? How does it work? Show me the part that does the work.' Good answers point to parts: 'when I press the top, a spring pushes the refill out', 'the clip presses the lid down tight', 'the two blades cross each other and cut'. Then read the opening of page 104 aloud: 'Have you ever wondered how these things work? Do they always work the same way in all situations?' Say: 'This chapter, we will be scientists who find out by testing.'"
+        },
+        {
+          "kind": "game",
+          "title": "Spin hunt",
+          "mins": 8,
+          "do": "Set a 4-minute timer. Your child races around the house finding things that spin or turn round: the ceiling fan, the mixer blade, a bicycle wheel, a tap handle, a doorknob, the bottle cap, a rolling pin, a clock's hands, the washing-machine drum. Each find scores a point when they show you which part turns and where the middle (the axis) is. You may challenge: 'Does it really spin all the way round, or only turn a bit?' Write the list; you will need it for page 109."
+        },
+        {
+          "kind": "read",
+          "title": "Meera spins a coin (page 104)",
+          "mins": 4,
+          "do": "Read the rest of page 104 aloud: Meera and Dhruv love exploring, and one Sunday Meera spins a coin: 'Watch this!' Ask your child to try it: stand a ₹5 coin on its edge on a smooth table, hold the top with one finger, and flick the side with the other hand. Ask: 'What happens just before it stops?' (It starts to wobble and make a whirring, rattling sound that gets faster, then it falls flat.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 1: Spin and observe (page 105)",
+          "mins": 20,
+          "do": "Do Experiment e1. First ask Question 1 on page 105: 'Do you think all objects can spin? Make a list of a few that can.' Then copy the table on page 105 (Objects, I observe, I wonder, I think) and collect: a coin, a glass or metal bangle, a pencil, a piece of stone, a wooden top (lattu) if you have one, and an eraser. Before spinning each, your child guesses whether it will spin well. Spin each on the floor or a steel thali and fill one row. Use the book's examples as a model: Coin – 'As it slows down, it begins to shake' – 'Why does it start to shake as it slows down?'. For the bangle, ask them to listen: the sound gets faster and higher just before it stops. In the 'I think' column, accept any honest reason ('it is round and flat', 'the stone is lumpy so it falls over'). Add two more things of their choice, such as a steel lid or a bottle cap.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "What do the good spinners share?",
+          "mins": 7,
+          "do": "Read the first line of page 106 aloud: some objects like coins and bangles spin, while some like erasers do not spin properly. Ask: 'Look at your table. What do the good spinners have in common? What about the bad ones?' Good answers: 'They are round', 'They are the same on every side', 'They have a smooth edge or a point to spin on', 'The eraser and stone are uneven and have flat sides.' Write their idea at the top of a fresh page as 'Our spinning rule (version 1)'. Say: 'Tomorrow we make our own spinners and test our rule.'"
+        }
+      ],
+      "need": [
+        "Textbook pages 104–106",
+        "a click pen, a tiffin box, scissors",
+        "a ₹5 coin",
+        "a glass or metal bangle",
+        "a pencil, a small stone, an eraser",
+        "a wooden top (lattu) if available",
+        "a steel thali",
+        "notebook"
+      ],
+      "prep": [
+        {
+          "task": "Collect a coin, a bangle, a pencil, a stone, an eraser and a top if you have one",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Make your own spinners",
+      "goal": "Build the book's card spinners, find out why the stick must go through the centre, and change one thing at a time to make a spinner spin better.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How does a top spin? (pages 106–107)",
+          "mins": 5,
+          "do": "Read Meera's question on page 106: 'How does a top spin?' Then read the Activity 2 instructions on page 106 and look at the spinner pictures and the table on page 107: toothpick at the centre, toothpick away from the centre, a square spinner, and a circular spinner with a circular mark. Ask: 'Which one do you think will spin best? Which will be worst? Why?' Write the guesses next to the table."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: Build four spinners",
+          "mins": 17,
+          "do": "Do Activity a1. Trace round a steel katori or a cup on thin cardboard (an old cereal box) and cut out three circles, about 6–7 cm across, and one square of the same width. Find the exact centre of a circle by folding a paper copy in half twice; mark where the folds cross and transfer it. Push a toothpick through the centre of circle 1 so about 1 cm sticks out below. Push a toothpick through circle 2 about 1.5 cm away from the centre. Push one through the centre of the square (where the diagonals cross). On circle 3, draw a ring with a pencil and push the toothpick through the centre. An adult makes the holes with a compass point or a needle. Fix each toothpick with a little glue or tape if it slips. An empty ballpoint refill tube also works as a stick.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Test the spinners (page 107 table)",
+          "mins": 13,
+          "do": "Do Experiment e2. Spin each spinner on a steel thali by twirling the top of the toothpick between thumb and finger. Spin each three times and fill the page 107 table: spins / does not spin, and any other observations (how long it spins, whether it wobbles, what the square looks like while spinning). Then do the fair test: on circle 1, change only the length of toothpick below the card (0.5 cm, 1 cm, 2 cm, 3 cm). Ask: 'Which length spins longest? Why do we change only one thing at a time?' (So we know which change made the difference.) Count seconds for each spin with a phone stopwatch.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Why did one spinner fail? (page 108)",
+          "mins": 10,
+          "do": "Ask the two questions at the top of page 108. 1. 'Which spinner did not spin properly? Discuss the possible reasons.' Good answer: 'The one with the toothpick away from the centre. It wobbled and fell because one side was heavier and swung outwards.' 2. 'Did the position of the hole make a difference?' (Yes, a big one.) Read the paragraph below: the first spinner looks the same from all sides and stays upright; the second does not. To show why, stick a ₹1 coin with tape near the edge of the good centre spinner and spin it again. Ask: 'What happened?' (It wobbles now.) Then stick a second coin exactly opposite and spin again. 'Now?' (Smoother again, because the weight is balanced around the centre.) Update the notebook: 'Our spinning rule (version 2): the stick must go through the centre, and the weight must be spread evenly all round it.'"
+        }
+      ],
+      "need": [
+        "Textbook pages 106–108",
+        "thin cardboard (a cereal or sweets box)",
+        "scissors, a pencil and ruler",
+        "6 toothpicks or an empty ballpoint refill",
+        "a compass or needle (adult use)",
+        "glue or tape",
+        "2 one-rupee coins",
+        "a steel thali",
+        "a phone stopwatch"
+      ],
+      "prep": [
+        {
+          "task": "Save a thin cardboard box and buy toothpicks",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Shapes, colours and things that spin",
+      "goal": "Spin different card shapes, discover what happens to colours on a fast spinner, meet Newton's argument about white light, and learn about the charkha and the lattu.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The square that looks round (page 108)",
+          "mins": 7,
+          "do": "Read the paragraph on page 108: when the square spinner is spun, it appears circular. Spin it and let your child look from the side and from above. Ask the page 108 question: 'What other shapes can you try?' Cut a triangle (equal sides), a hexagon (trace a nut or draw one with a ruler) and a star from card, find each centre, push a toothpick through and spin. Ask: 'Do they all look round when spinning? Which spins best?' Good answer: 'They all look round because the corners are moving so fast our eyes see a blur all the way round; the more even the shape, the steadier it spins.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Colour spinners (page 109)",
+          "mins": 15,
+          "do": "Do Experiment e3. Read the top of page 109: 'Can you colour it? How many different ways can you colour it?' and look at the ways shown in the figure. Make three new circle spinners. Colour spinner 1 half red and half yellow. Colour spinner 2 half blue and half yellow. Divide spinner 3 into seven equal slices like a pizza and colour them violet, indigo, blue, green, yellow, orange and red (VIBGYOR). Before each spin, ask your child to predict what colour they will see. Spin fast and look. Ask the page 109 question: 'What happens to the colours when it is spun?' Read the 'why' of e3 together. If you have a sketch-pen spinner with a spiral or rings drawn on it, spin that too and watch the pattern seem to move.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Newton, Hooke and the colours of white light",
+          "mins": 8,
+          "do": "Tell the story in Voice v1 in your own words: Isaac Newton showed that white sunlight is a mixture of all the rainbow colours, and Robert Hooke argued against him. Hold a CD or a glass of water in sunlight to show a small rainbow on the wall. Then look at the seven-colour spinner again: 'Did it look white, or greyish?' (Usually a pale grey or off-white, because paints are not pure light.) Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "read",
+          "title": "Charkha and lattu (pages 108–109)",
+          "mins": 7,
+          "do": "Read the 'Do you know?' box on page 108: a charkha twists cotton fibre into thread; its big wheel spins when turned by hand, and Mahatma Gandhi used it to make cloth for handmade (khadi) clothes. Then read the 'Do you know?' box on page 109: spinning tops have been used in India for thousands of years, first made of clay; the lattu is usually made of wood. If you have a lattu, wind the string from the metal tip upwards and show how pulling the string while throwing makes it spin. Ask: 'Where is a lattu's weight: near the top or near the tip?' (It is fattest near the top, with a narrow point below, so it spins on one small point with its weight spread evenly round the middle.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Spinning in daily life (page 109)",
+          "mins": 8,
+          "do": "Read the page 109 line: 'Many things around us spin, such as ceiling fans and potter's wheels. What other things have you observed spinning?' Add to the Day 1 spin-hunt list. For two of them, ask: 'Why does it need to spin? What would happen if its weight were uneven?' Good examples: a ceiling fan with a bent blade wobbles and rattles; a washing machine shakes and bangs when the clothes bunch on one side (the spinner-with-a-coin problem); a potter's wheel must be balanced so the pot comes out round. Ask: 'Have you ever seen a car tyre being balanced at a garage? Small lead weights are clipped on so the wheel does not wobble at speed.'"
+        }
+      ],
+      "need": [
+        "Textbook pages 108–109",
+        "card, toothpicks, scissors",
+        "red, yellow, blue, green, orange, violet and indigo sketch pens or crayons",
+        "a CD or a glass of water and sunlight",
+        "a lattu with string, if available"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Paper boats and floating",
+      "goal": "Make paper boats like Meera and Dhruv, see why some flip over, and guess and test which everyday objects float or sink.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "After the rain (pages 109–110)",
+          "mins": 5,
+          "do": "Read the 'Floating and Sinking' story from the bottom of page 109 to page 110: it rains, Meera and Dhruv splash, then make paper boats from old newspapers, and some boats float properly while others flip. Look at Picture 1 (floating upright) and Picture 2 (flipped) on page 110. Ask: 'Why might one boat flip and another stay upright?' Write your child's guess; we will test it."
+        },
+        {
+          "kind": "act",
+          "title": "Make and float paper boats",
+          "mins": 12,
+          "do": "Do Activity a2. Fold two classic paper boats from newspaper (step-by-step in the activity). Float them in a bucket or a big basin. Then experiment: put a ₹1 coin in the middle of boat 1, and one at the very edge of boat 2. Ask: 'Which flips?' (The one with the weight at the edge.) Blow gently on each from the side. Ask: 'How is this like our wobbly spinner?' Good answer: 'When the weight is not in the middle, it tips over; balance matters for boats too.' Leave one boat floating and check it at the end of the session: newspaper soaks up water and the boat slowly sinks.",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 3: Float or sink? (pages 110–111)",
+          "mins": 20,
+          "do": "Do Experiment e4. Fill a bucket with water. Collect the objects in the page 111 table: a leaf, an iron nail or pin, an empty steel bowl (katori), a piece of stone, an empty bottle with its lid closed, and a bottle full of water with its lid closed, plus three of your child's choice (a steel spoon, a plastic spoon, a key, a crayon). Copy the table: Items, What is your guess? (F/S), Why do you think so?, What is your observation?, What could be the reason? Fill the first row together using the book's example (Leaf: F, 'It is light', F, 'It is light'). For each object, your child writes the guess and reason before you drop it in. Gently place the katori flat, open side up. Ask after each: 'Were you right?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Heavy floats, light sinks? (page 111)",
+          "mins": 8,
+          "do": "Read the line on page 111: some heavy objects like iron nails sink, while lighter ones like leaves float. Then ask the page 111 question: 'Did all the light objects float and all the heavy objects sink? Name the heavy objects that floated and light objects that sank.' Hold the steel katori in one hand and the nail in the other: 'Which is heavier?' (The katori.) 'Which floated?' (The katori!) Also compare the empty bottle (floats) with the full bottle (sinks or floats very low). Read the last line of page 111: floating cannot be decided just by heavy or light; it also depends on other factors. Ask: 'What other factors might there be?' (What it is made of; its shape; whether it has air inside.)"
+        }
+      ],
+      "need": [
+        "Textbook pages 109–111",
+        "2 sheets of old newspaper",
+        "a bucket or big basin of water",
+        "a leaf, an iron nail, a steel katori, a stone",
+        "2 plastic bottles with lids (one empty, one full of water)",
+        "a steel spoon, a plastic spoon, a key, a crayon",
+        "2 one-rupee coins",
+        "an old towel"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Shape and the push of water",
+      "goal": "Show that changing shape can make the same material float or sink, feel water push up, and meet Archimedes and Galileo, who argued about why things float.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Book Activity 4: Foil in three shapes (page 112)",
+          "mins": 12,
+          "do": "Do Experiment e5. Tear three equal pieces of aluminium foil (about the size of your palm). Shape one as a flat sheet, press one tightly into a small ball (squeeze hard with your fingers; you may need to roll it on the table under a steel glass, as the page 112 note says, so it traps as little air as possible), and fold one into a small cup or boat. Copy the page 112 table. Your child guesses F or S and gives a reason for each before dropping it in. Read the box on page 112: by changing the shape we can make an object float or sink; the flat sheet and cup float, the tight ball sinks. Ask: 'It is the same foil and the same weight. So what changed?' Good answer: 'The shape: the cup pushes away a lot of water and holds air; the ball takes up very little space.'",
+          "ref": "e5"
+        },
+        {
+          "kind": "do",
+          "title": "Feel the water push",
+          "mins": 10,
+          "do": "Give your child an empty plastic bottle with its lid tightly closed and ask them to push it straight down into the bucket. Ask: 'What do you feel?' (The water pushing back up, harder the deeper it goes.) Let go: it shoots up. Then fill a tall steel glass to the brim inside a plate. Lower a lemon or a closed small bottle in slowly and watch water spill into the plate. Say: 'Anything you put in water pushes some water out of the way. The water pushes back up on it. If the push up is as strong as the object's weight, it floats.' Ask: 'Why did the katori float but the nail sink?' (The katori's wide shape pushes away a lot of water, so the push up is big; the thin nail pushes away only a tiny bit of water.)"
+        },
+        {
+          "kind": "think",
+          "title": "Archimedes and the push of water",
+          "mins": 8,
+          "do": "Tell the story in Voice v2 in your own words: over 2,200 years ago, Archimedes worked out that water pushes up on an object with a force equal to the weight of the water it pushes aside. Tell the famous bath-time 'Eureka!' story, and then tell your child honestly that it was written down about 200 years after Archimedes died and may not have happened that way. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "think",
+          "title": "Galileo's argument: is it the shape?",
+          "mins": 7,
+          "do": "Tell the story in Voice v3: in 1611 Galileo argued with Lodovico delle Colombe about why ice floats. Colombe said it floated because of its flat shape; Galileo said ice floats because it is lighter than the same amount of water. Show it: drop an ice cube into water; turn it so it is tall and thin, and then flat. Ask: 'Does it float whichever way up it is?' (Yes.) Then ask the voice question. Help your child see that both ideas meet in our foil: what matters is how heavy the object is compared with the water it pushes aside, and shape can change how much water that is.",
+          "ref": "v3"
+        },
+        {
+          "kind": "do",
+          "title": "Clay ball, clay boat",
+          "mins": 8,
+          "do": "Give your child a lump of plasticine or atta dough the size of a lemon. Roll it into a ball and drop it in: it sinks. Now flatten the same lump into a wide, thin bowl with walls about 2 cm high and float it. Ask: 'Same clay, same weight. Why does the bowl float?' (It pushes aside much more water, so the water's push up is big enough.) Count how many ₹1 coins the clay bowl can carry before it sinks and write the number down; we will try to beat it on Day 7."
+        }
+      ],
+      "need": [
+        "Textbook page 112",
+        "aluminium foil (or a chocolate wrapper)",
+        "a bucket of water",
+        "an empty plastic bottle with lid",
+        "a tall steel glass, a plate, a lemon",
+        "ice cubes",
+        "plasticine or atta dough",
+        "10–20 one-rupee coins"
+      ],
+      "prep": [
+        {
+          "task": "Make ice cubes",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Make a sinker float and a floater sink",
+      "goal": "Answer the book's Figure-it-out question 2(b) by testing salt water, air and shape, and check the main ideas with the core worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The potato and the salty water",
+          "mins": 15,
+          "do": "Do Experiment e6. Put a raw potato (or a fresh raw egg) into a tall glass or jar of tap water: it sinks. Ask your child to guess what will happen if we add salt. Take it out, stir in salt one tablespoon at a time (count the spoons), and lower the potato back in after each spoon. Usually after 6–10 tablespoons in a big glass it begins to rise and then floats. Then the magic trick: in a second glass, half-fill with very salty water, and very slowly pour plain water on top over the back of a spoon. Lower the potato in: it hangs in the middle! Read the 'why' of e6 together. Ask: 'Why is it easier to float in the sea than in a swimming pool?' (Sea water is salty, so it pushes up harder.)",
+          "ref": "e6"
+        },
+        {
+          "kind": "talk",
+          "title": "Figure it out 2(b) (page 115)",
+          "mins": 7,
+          "do": "Read Question 2(b) on page 115: 'How would you make a floating object sink and a sinking object float?' Your child answers with things they actually did. Good answers: To make a sinker float: change its shape into a bowl (clay, foil); add air to it (tie a sinking stone to an empty closed bottle); make the water salty (potato). To make a floater sink: squeeze out the air and make it compact (foil ball); fill it with water (the bottle); add weight to it (coins in a paper boat). Write the two lists in the notebook."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Spin, float or sink",
+          "mins": 18,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For the float-or-sink sort, let your child test any item they are unsure of in the bucket before answering, and tell you why. Mark answers together; for each wrong one, open the matching pages (spinners pages 106–108, colours page 109, floating pages 110–112).",
+          "ref": "ws1"
+        },
+        {
+          "kind": "do",
+          "title": "Plan tomorrow's boat",
+          "mins": 5,
+          "do": "Read the Activity 5 list on page 113 together: collect paper, cardboard, ice-cream sticks, clay, adhesive tape, and draw a picture of your boat first. Look at the three boats shown: ice-cream sticks, a coconut shell, and walnut shells. Your child draws a plan of their own boat, labels its materials and writes one sentence: 'My boat will float because...'. Collect the materials tonight."
+        }
+      ],
+      "need": [
+        "Textbook pages 113 and 115",
+        "a raw potato or raw egg",
+        "2 tall glasses or jars",
+        "about 1 cup of salt",
+        "a tablespoon",
+        "worksheet ws1",
+        "bucket of water"
+      ],
+      "prep": [
+        {
+          "task": "Save ice-cream sticks, a coconut shell half, a juice carton, bottle caps and a small cardboard box for boat-making",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "The great boat challenge",
+      "goal": "Design, build and test a boat from home materials, measure how much it can carry, compare strengths and challenges, and hear about India's ancient dockyard at Lothal.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Book Activity 5: Build a boat (page 113)",
+          "mins": 20,
+          "do": "Do Activity a3. Using yesterday's plan, your child builds a boat that is different from the paper boat: an ice-cream-stick raft tied with thread or glued, a coconut-shell boat with a clay base and a paper sail, or a juice-carton boat. If a sibling or cousin is there, each makes a different boat, as page 113 suggests for groups. Your job is to hand over materials and ask questions, not to build it: 'Where will the weight go? Will water leak in? How will it stay upright?' An adult does any cutting with a knife."
+        },
+        {
+          "kind": "exp",
+          "title": "Test the boat: floating and load",
+          "mins": 10,
+          "do": "Float the boat in the bucket or a tub. Check: does it float upright? Does it leak? Then load ₹1 coins one at a time in the middle until it sinks or tips, and write the number. Compare with the clay bowl from Day 5. Blow on it from the side to see if it tips. Ask: 'Where should the coins go so it does not tip?' (Spread evenly in the middle and low down, like the balanced spinner.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Strengths and challenges (page 114)",
+          "mins": 7,
+          "do": "Fill the page 114 table: Strengths of your boat / Challenges of your boat. Read the paragraph below it: some boats are strong, some break easily; some tip over, some keep better balance. Ask: 'What is one change that would make your boat better?' (A wider base so it does not tip; sealing gaps with tape; a heavier bottom made of clay.) Let them make that one change now if time allows, test it again, and note whether it carried more coins."
+        },
+        {
+          "kind": "think",
+          "title": "Lothal: India's oldest dockyard?",
+          "mins": 8,
+          "do": "Tell the story in Voice v4: at Lothal in Gujarat, a city of the Harappan (Indus) people more than 4,000 years old, archaeologists found a huge brick basin. Some say it was a dockyard where boats came in from the sea; others say it was a water tank. Ask: 'What would you look for in the mud to decide whether boats came here?' Then ask the voice question.",
+          "ref": "v4"
+        }
+      ],
+      "need": [
+        "Textbook pages 113–114",
+        "the boat plan from Day 6",
+        "ice-cream sticks, coconut shell, juice carton, bottle caps, clay",
+        "thread, adhesive tape, glue, scissors",
+        "a bucket or tub of water",
+        "20 one-rupee coins"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Balance and the book's questions",
+      "goal": "Answer the end-of-chapter questions on balancing, enquiring and sorting floaters and sinkers, and apply the ideas to new cases in the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Figure it out 2(a): Balance the figure (page 115)",
+          "mins": 12,
+          "do": "Look at the figure on page 115, Question 2(a), bending towards side A. Ask: 'What should be done to balance it?' Then test it with Experiment e7, a ruler balance: rest a 30 cm ruler on a round pencil at its 15 cm mark. Put 3 coins at the A end (it tips that way). Ask your child to fix it in as many ways as they can: add 3 coins at the B end; take coins off A; move the A coins closer to the pencil; or slide the pencil towards A. Then try: 2 coins at one end and 1 coin at the other end. 'Where must the single coin go to balance?' (Twice as far from the pencil as the two coins.) Good answer for 2(a): 'Add weight on side B, or take some off A, or move the support towards A, so the weight is the same on both sides of the middle.'",
+          "ref": "e7"
+        },
+        {
+          "kind": "talk",
+          "title": "Enquire about something (page 115)",
+          "mins": 7,
+          "do": "Read Question 1 on page 115: Ravi notices his spinner slows down and stops, and asks his teacher questions. Ask your child to write at least two questions Ravi could ask. Good examples: 'What makes it slow down?', 'Would it spin longer on glass than on cloth?', 'Why does it wobble just before stopping?', 'Would a heavier spinner spin longer?' Then pick one question and test it right now: spin the centre spinner on a steel thali, then on a towel, and time each. Explain: rubbing between the tip and the surface (friction) and the air slow it down; a smoother surface means less rubbing, so it spins longer."
+        },
+        {
+          "kind": "exp",
+          "title": "Do an activity: Float or sink sort (page 116)",
+          "mins": 12,
+          "do": "Do Question 3 on page 116. Your child first sorts the 14 objects into 'Things that float' and 'Things that sink' on paper, as a guess. Then test as many as you have at home in the bucket: wax or a candle, cork, potato, marble, leaf, tomato, thermocol, eraser, pumpkin piece, steel spoon, lemon, coin, ice cube. Correct the list. Usual results: float – wax, candle, cork, leaf, thermocol, pumpkin, lemon, ice cube, and often a ripe tomato; sink – potato, marble, eraser, steel spoon, coin. Ask: 'Which surprised you?' (Many children expect the big pumpkin to sink and the small eraser to float.) 'Why does a lemon float?' (Its thick peel is full of tiny air pockets.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: New cases",
+          "mins": 14,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to use the spinning and floating ideas on things they have not tested, such as a ship, a ceiling fan and a life jacket. Encourage them to explain each answer using a word from this week: balance, centre, shape, air, salty, push up.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Textbook pages 115–116",
+        "a 30 cm ruler and a round pencil",
+        "10 coins",
+        "the centre spinner, a steel thali and a towel",
+        "a candle, cork, potato, marble, tomato, thermocol, eraser, pumpkin piece, lemon, steel spoon, coin, ice cubes",
+        "bucket of water",
+        "worksheet ws2"
+      ],
+      "prep": [
+        {
+          "task": "Gather the page 116 objects you have at home and make ice cubes",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Harder thinking and the home boat show",
+      "goal": "Try the challenge worksheet, improve the boat once more, and hold a small exhibition for the family.",
+      "steps": [
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 18,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing scientists' views. Your child can answer the write items aloud while you scribe. There is no single right answer for section C; praise reasons that use evidence ('because when I squeezed the foil...').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "act",
+          "title": "Improve the boat, version 2",
+          "mins": 12,
+          "do": "Go back to the boat from Activity a3 and the 'one change' your child wrote on page 114. Make one more improvement, changing just one thing (wider base, sealed gaps, lower weight, a sail), and retest with coins. Write: 'Version 1 carried __ coins. Version 2 carried __ coins. The change I made was __.' Ask: 'Why do engineers change only one thing at a time when they improve a design?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "act",
+          "title": "Home exhibition",
+          "mins": 15,
+          "do": "Set up a small exhibition on a table, as the unit note on page 103 suggests: the spinners (labelled 'spins well' or 'wobbles' with the reason), the colour spinners, the float/sink chart, the foil shapes and the boats with their coin scores. Invite family members or a neighbour. Your child explains each exhibit in one or two sentences and lets visitors guess before each demonstration ('Will this katori float or sink?'). Take photos for the notebook."
+        }
+      ],
+      "need": [
+        "worksheet ws3",
+        "the boat and materials for repairs",
+        "all spinners, charts and foil shapes from the week",
+        "a table and a tub of water",
+        "a phone for photos"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Check and teach it back",
+      "goal": "Review the chapter, answer the check questions, and have your child teach spinning and floating back to you with real objects.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Our rules, final version",
+          "mins": 10,
+          "do": "Open the notebook to 'Our spinning rule' versions 1 and 2. Ask your child to write a final version and one floating rule. Good versions: 'A spinner spins well when the stick goes through the centre and the weight is spread evenly all round it; friction slows it down.' 'Whether something floats depends on how heavy it is compared with the water it pushes aside; shape, material, air inside and salty water all change this.' Ask: 'Which of your first guesses this week were wrong? What made you change your mind?' Praise changing your mind because of evidence."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 15,
+          "do": "Ask the 8 check questions aloud, one at a time, and let your child answer without the book; keep a bucket of water, a spinner and some foil nearby so they can show as well as tell. Tick the ones answered well. For any missed answer, open the matching pages (104–109 for spinning, 109–114 for floating) and redo the quick demonstration, then ask again in different words. Most children get 6 or more right; fewer than 5 means redo the Day 4 float test and the Day 5 foil test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 20,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. In 5–7 minutes, using real objects, they must teach: why a spinner with the stick at the centre spins better than one with it off-centre (with the coin-taped demonstration); what happens to colours on a spinning disc; why a heavy katori floats but a small nail sinks; how to make a sinker float. As the student, ask two tricky questions: 'If I make a giant ball out of iron, will it float?' (A solid one sinks; a hollow one with enough air inside, like a ship's hull, can float.) and 'Why does a washing machine shake?' (Clothes bunched on one side make it unbalanced, like the coin on the spinner.) End by letting your child float their best boat one last time."
+        }
+      ],
+      "need": [
+        "notebook",
+        "a bucket of water, a spinner, foil, a katori and a nail",
+        "the best boat"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Spin, float or sink",
+      "day": 6,
+      "sections": [
+        [
+          "A. Spinners",
+          [
+            {
+              "t": "mcq",
+              "p": "Which spinner spins best?",
+              "opts": [
+                "Toothpick through the centre",
+                "Toothpick near the edge",
+                "Toothpick at a slant",
+                "No toothpick"
+              ],
+              "a": 0
+            },
+            {
+              "t": "fill",
+              "p": "A spinner wobbles if its weight is not spread evenly around the ____.",
+              "a": [
+                "centre",
+                "center",
+                "middle",
+                "axis"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "A square card spinner looks like what when it spins fast?",
+              "opts": [
+                "A square",
+                "A circle",
+                "A triangle",
+                "A star"
+              ],
+              "a": 1
+            },
+            {
+              "t": "fill",
+              "p": "A spinning wheel used to twist cotton into thread is called a ____.",
+              "a": [
+                "charkha"
+              ]
+            }
+          ]
+        ],
+        [
+          "B. Float or sink",
+          [
+            {
+              "t": "sort",
+              "p": "Sort these into things that float and things that sink in tap water.",
+              "items": [
+                "Leaf",
+                "Iron nail",
+                "Empty steel katori (open side up)",
+                "Stone",
+                "Empty bottle with lid",
+                "Cork",
+                "Coin",
+                "Ice cube",
+                "Marble",
+                "Thermocol"
+              ],
+              "cats": [
+                "Float",
+                "Sink"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "A big steel katori floats but a small iron nail sinks. This shows that:",
+              "opts": [
+                "Heavy things always float",
+                "Floating does not depend only on how heavy a thing is",
+                "Iron always floats",
+                "Nails are magic"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "C. Shape matters",
+          [
+            {
+              "t": "match",
+              "p": "Match the foil shape to what happened.",
+              "pairs": [
+                [
+                  "Spread out flat",
+                  "Floats"
+                ],
+                [
+                  "Pressed tightly into a ball",
+                  "Sinks"
+                ],
+                [
+                  "Made into a cup",
+                  "Floats"
+                ]
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Why did the foil cup float but the tight foil ball sink, even though they weighed the same?",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New cases: fans, ships and life jackets",
+      "day": 8,
+      "sections": [
+        [
+          "A. Spinning in real life",
+          [
+            {
+              "t": "write",
+              "p": "One blade of a ceiling fan is bent and a little heavier. What will the fan do when it spins fast, and why?",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "A washing machine shakes and bangs during the spin. The most likely reason is:",
+              "opts": [
+                "The water is too hot",
+                "The clothes have bunched on one side",
+                "The soap is too strong",
+                "The lid is open"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "You coloured a spinner half red and half yellow. What colour did you see when it spun fast? Explain why.",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "B. Floating in real life",
+          [
+            {
+              "t": "mcq",
+              "p": "A huge steel ship floats because:",
+              "opts": [
+                "Steel is lighter than water",
+                "Its hollow shape pushes aside a lot of water",
+                "The sea is very shallow",
+                "It has a motor"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "How does a life jacket help a person float? Use the word 'air' in your answer.",
+              "lines": 2
+            },
+            {
+              "t": "mcq",
+              "p": "An egg sinks in tap water. What could make it float?",
+              "opts": [
+                "Adding sugar or salt to the water",
+                "Using colder water",
+                "Adding more tap water",
+                "Stirring the water"
+              ],
+              "a": 0
+            },
+            {
+              "t": "fill",
+              "p": "To stop a boat tipping over, put the load in the ____ and low down.",
+              "a": [
+                "middle",
+                "centre",
+                "center"
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Plan a test",
+          [
+            {
+              "t": "table",
+              "p": "Plan a fair test: does a spinner spin longer on a steel plate, a book cover or a towel? Fill in what you will change and what you will keep the same.",
+              "cols": [
+                "What I change",
+                "What I keep the same",
+                "What I measure"
+              ],
+              "rows": 3
+            },
+            {
+              "t": "write",
+              "p": "Arjun says, 'Big things sink and small things float.' Give two examples from your tests that prove him wrong.",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Spinning and floating puzzles, and scientists who disagreed",
+      "day": 9,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "write",
+              "p": "You have one spinner with a ₹1 coin taped near its edge. Without removing the coin, how can you make it spin smoothly again?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "A closed empty bottle floats. A closed bottle full of water sinks or floats very low. What would happen to a bottle that is half full? Test it and explain.",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "On a ruler balanced on a pencil at its middle, 2 coins sit 4 cm from the pencil. Where must 1 coin go on the other side to balance them?",
+              "opts": [
+                "2 cm from the pencil",
+                "4 cm from the pencil",
+                "8 cm from the pencil",
+                "It can never balance"
+              ],
+              "a": 2
+            }
+          ]
+        ],
+        [
+          "B. What if?",
+          [
+            {
+              "t": "write",
+              "p": "What if a top had its heavy part at the very top and a long thin stick below? Would it spin better or worse than a lattu? Why?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "What if you floated your boat in very salty water instead of tap water? Would it carry more coins or fewer? Explain.",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "C. Comparing views",
+          [
+            {
+              "t": "write",
+              "p": "Colombe said ice floats because it is flat. Galileo said ice floats because it is lighter than the same amount of water. What test with an ice cube would help decide? What did you find?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "Newton said white light is a mix of colours. Hooke disagreed. How does your seven-colour spinner support Newton? Why did it look greyish instead of pure white?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "Some archaeologists say the basin at Lothal was a dockyard; others say it was a water tank. Write one clue that would support each side.",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "What can spin? (Book Activity 1, page 105)",
+      "day": 1,
+      "question": "Which everyday objects spin well, and what happens as they slow down?",
+      "need": [
+        "a coin",
+        "a glass or metal bangle",
+        "a pencil",
+        "a small stone",
+        "a wooden top (lattu) if available",
+        "an eraser",
+        "a steel thali or smooth floor",
+        "the page 105 table copied in the notebook"
+      ],
+      "steps": [
+        "Copy the page 105 table: Objects, I observe, I wonder, I think.",
+        "Before each spin, guess whether the object will spin well.",
+        "Spin the coin on its edge by flicking it. Watch and listen as it slows.",
+        "Spin the bangle on its edge and listen to the sound change.",
+        "Try to spin the pencil (on its tip and lying flat), the stone, the top and the eraser.",
+        "Fill one row for each object; add two objects of your own."
+      ],
+      "predict": "Ask your child to guess first: which objects will spin well, and which will fall over at once? What will the coin do just before it stops?",
+      "observe": "Coins, bangles, lids and tops spin; erasers and lumpy stones hardly spin. As a coin or bangle slows, it rolls round on its edge, tilts more and more, and the whirring sound gets faster and higher until it suddenly stops.",
+      "why": "Things spin well when they are round and their weight is spread evenly around the line they spin about, so no side pulls outwards more than another. A fast-spinning object resists tipping over, which is why a top stays up while it spins quickly. Rubbing against the surface (friction) and the air gradually slow it down. As a coin slows it can no longer stay upright, so it leans and rolls round on its edge; as it leans further, the point where it touches the table races round faster and faster, which is why the rattling sound speeds up before it falls flat.",
+      "safety": "Spin coins and bangles on a table or thali, not near the edge; a glass bangle can break if it falls on a hard floor.",
+      "time": "20 min"
+    },
+    {
+      "id": "e2",
+      "title": "Where should the stick go? (Book Activity 2, pages 106–108)",
+      "day": 2,
+      "question": "Does the position of the hole, and the length of the stick below, change how well a card spinner spins?",
+      "need": [
+        "4 card spinners from Activity a1 (centre hole, off-centre hole, square, circle with a ring)",
+        "a steel thali",
+        "2 one-rupee coins and tape",
+        "a phone stopwatch",
+        "a ruler"
+      ],
+      "steps": [
+        "Spin each spinner three times on the thali and time each spin.",
+        "Fill the page 107 table: spins or not, how long, any wobble.",
+        "On the centre spinner, push the toothpick so 0.5 cm sticks out below; spin and time it. Repeat with 1, 2 and 3 cm.",
+        "Tape a coin near the edge of the centre spinner and spin it.",
+        "Tape a second coin exactly opposite the first and spin again.",
+        "Write which change made the spinner best and why."
+      ],
+      "predict": "Ask your child to guess first: which spinner will spin longest? What will one coin taped near the edge do? And two coins opposite each other?",
+      "observe": "The centre-hole spinner spins smoothly and longest; the off-centre one wobbles, hops and falls quickly. A short stick below (about 1 cm) usually works best; a very long one tips over. One taped coin causes a wobble; two opposite coins bring back a smooth spin.",
+      "why": "When the stick passes through the centre, the card's weight is the same on every side of it, so as it turns no side is flung outwards more than another. With the hole off-centre, more card is on one side; as it spins, that heavier side keeps pulling outwards, rocking the spinner until it falls. One coin does the same thing; a second coin opposite balances it. A short stick below keeps the spinning card low and close to the tip, so it is harder to tip over; a long stick makes it top-heavy and tippy. Engineers balance car wheels, fans and washing machines for exactly this reason.",
+      "safety": "An adult should make the holes with a compass point or needle.",
+      "time": "13 min"
+    },
+    {
+      "id": "e3",
+      "title": "Colour spinners (page 109)",
+      "day": 3,
+      "question": "What colour do we see when a disc painted with two or more colours spins fast?",
+      "need": [
+        "3 card circles with toothpicks through the centre",
+        "sketch pens or crayons in red, yellow, blue, green, orange, indigo and violet",
+        "a ruler and pencil"
+      ],
+      "steps": [
+        "Colour spinner 1 half red, half yellow.",
+        "Colour spinner 2 half blue, half yellow.",
+        "Divide spinner 3 into 7 equal slices and colour them violet, indigo, blue, green, yellow, orange, red.",
+        "Before spinning each, predict the colour you will see.",
+        "Spin each fast and look from above. Then watch as it slows down.",
+        "Draw what you saw beside each spinner."
+      ],
+      "predict": "Ask your child to guess first: when the red-and-yellow spinner spins fast, will you see red, yellow, both, or something new? What about the seven colours?",
+      "observe": "Red and yellow blend into orange. Blue and yellow often look greyish or pale greenish-grey. The seven colours look pale grey or off-white. As each slows, the separate colours reappear.",
+      "why": "Our eyes and brain hold on to each picture for a tiny moment, about a tenth of a second. When the disc spins fast, the colours pass the same spot so quickly that the eye cannot separate them, and the brain mixes them into one colour. Light from all the rainbow colours together makes white, which is why the seven-colour spinner looks pale. It looks greyish rather than bright white because each paint reflects only some of the light falling on it and soaks up the rest. This is the same reason films and cartoons work: separate pictures shown fast look like smooth movement.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e4",
+      "title": "Float or sink? (Book Activity 3, pages 110–111, and Question 3, page 116)",
+      "day": 4,
+      "question": "Can we tell whether something will float or sink just from how heavy or light it is?",
+      "need": [
+        "a bucket of water",
+        "a leaf, an iron nail, an empty steel katori, a stone",
+        "an empty plastic bottle with lid, and one full of water with lid",
+        "other objects: steel spoon, plastic spoon, key, crayon",
+        "the page 111 table copied in the notebook",
+        "a towel"
+      ],
+      "steps": [
+        "For each object, write your guess (F or S) and the reason before testing.",
+        "Gently place it in the water (the katori flat, open side up).",
+        "Write what actually happened and a possible reason.",
+        "Weigh two objects in your hands (the katori and the nail) and compare which is heavier with which floated.",
+        "On Day 8, test the page 116 objects too and correct your sorting."
+      ],
+      "predict": "Ask your child to guess first, for every object: float or sink? Why? Will the heavier katori sink before the light nail?",
+      "observe": "The leaf, empty katori, empty closed bottle, cork and plastic spoon usually float; the nail, stone, key and steel spoon sink; the full bottle sinks or floats very low. Some heavier things (the katori) float while some lighter things (the nail) sink.",
+      "why": "Water pushes up on anything placed in it. The bigger the space an object takes up in the water, the more water it pushes aside and the bigger the push up. An object floats if the water's push up can match its weight before it is fully under water. A nail is small and solid iron, so even fully under water it pushes aside only a tiny bit of water, which weighs far less than the nail: it sinks. The katori weighs more, but its wide hollow shape pushes aside lots of water before it goes under, so the push up matches its weight and it floats. Whether something floats depends on how heavy it is for its size (scientists call this density), and on shape and trapped air, not on weight alone.",
+      "safety": "Mop up spills to avoid slipping. Supervise young children near a full bucket.",
+      "time": "20 min, plus 12 min on Day 8"
+    },
+    {
+      "id": "e5",
+      "title": "Foil shapes (Book Activity 4, page 112)",
+      "day": 5,
+      "question": "Can changing the shape of the same piece of material make it float or sink?",
+      "need": [
+        "3 equal pieces of aluminium foil (or chocolate wrapper)",
+        "a bucket or bowl of water",
+        "a steel glass for rolling the ball tight",
+        "the page 112 table copied"
+      ],
+      "steps": [
+        "Leave one piece spread flat.",
+        "Squeeze one piece into a ball as tightly as possible; roll it under a steel glass to squeeze out air.",
+        "Fold one piece into a little cup or boat.",
+        "Guess F or S for each and give a reason.",
+        "Place each gently on the water and record what happens.",
+        "Bonus: open the ball out again into a cup. Does it float now?"
+      ],
+      "predict": "Ask your child to guess first: will all three float, all three sink, or will it depend on the shape?",
+      "observe": "The flat sheet and the cup float; the tight ball sinks. A loosely squeezed ball may float because it still traps air.",
+      "why": "All three pieces are the same foil and the same weight. The cup and the flat sheet spread that weight over a wide area and push aside a lot of water before going under, so the water's push up can hold them up; the cup also holds air inside it. The tightly squeezed ball takes up very little space, so it pushes aside only a little water. That small amount of water weighs less than the foil, so the push up is not enough and the ball sinks. Foil (aluminium) is heavier than the same amount of water, so it sinks unless its shape makes it push aside more water. Steel ships float for the same reason.",
+      "safety": "Foil edges can be sharp; fold them over.",
+      "time": "12 min"
+    },
+    {
+      "id": "e6",
+      "title": "The potato that floats in salty water",
+      "day": 6,
+      "question": "Can we make a sinking object float without changing the object at all?",
+      "need": [
+        "a raw potato (or a fresh raw egg)",
+        "2 tall glasses or jars",
+        "water",
+        "about 1 cup of salt",
+        "a tablespoon"
+      ],
+      "steps": [
+        "Put the potato in a glass of tap water and watch it sink.",
+        "Take it out. Add 1 tablespoon of salt and stir until it dissolves.",
+        "Put the potato back. Repeat, one spoon at a time, counting, until it floats.",
+        "In a second glass, make very salty water to halfway.",
+        "Slowly pour plain water on top over the back of a spoon so the layers do not mix.",
+        "Lower the potato in and see where it stops."
+      ],
+      "predict": "Ask your child to guess first: will adding salt make any difference? How many spoons will it take? In the layered glass, will it sink, float on top or stop in the middle?",
+      "observe": "The potato sinks in tap water, rises after several spoons of salt, and floats. In the layered glass it hangs in the middle, resting on the salty layer.",
+      "why": "A potato is only a little heavier than the same amount of tap water, so it sinks slowly. Dissolving salt adds weight to the water without making much more of it, so each cup of salty water is heavier than a cup of plain water. Heavier water pushes up harder on the same potato. When the water's push up is equal to the potato's weight, it floats. In the layered glass, the plain water on top is lighter than the potato and the salty water below is heavier, so the potato sinks through the top layer and rests on the bottom one. Sea water is salty, which is why swimming in the sea feels easier than in a pool.",
+      "safety": "Do not drink the very salty water. Use the potato for cooking afterwards after washing.",
+      "time": "15 min"
+    },
+    {
+      "id": "e7",
+      "title": "Balance the ruler (Figure it out 2(a), page 115)",
+      "day": 8,
+      "question": "How can we balance something that is tipping to one side?",
+      "need": [
+        "a 30 cm ruler",
+        "a round pencil",
+        "10 identical coins"
+      ],
+      "steps": [
+        "Rest the ruler on the pencil at the 15 cm mark so it balances.",
+        "Put 3 coins at one end (side A) and watch it tip.",
+        "Find four different ways to balance it again: add coins at B, remove coins from A, move the A coins closer to the pencil, slide the pencil towards A.",
+        "Put 2 coins 4 cm from the pencil on one side. Find where 1 coin must go on the other side to balance.",
+        "Try 3 coins against 1 coin and record the distances."
+      ],
+      "predict": "Ask your child to guess first: where must 1 coin go to balance 2 coins? Closer to the pencil, the same distance, or farther away?",
+      "observe": "The ruler tips towards the heavier side. It balances when coins are added to the lighter side, removed from the heavier side, or moved. One coin balances two coins when it is twice as far from the pencil.",
+      "why": "A ruler on a pencil is a seesaw, or lever. Whether it tips depends not only on how much weight is on each side but on how far the weight is from the support: weight far from the middle has more turning effect than the same weight close to it. It balances when the turning effect on both sides is equal: 2 coins × 4 cm = 1 coin × 8 cm. This is the same idea as the spinner: balance means the weight is evenly spread about the centre. It is also why a heavy child sits nearer the middle of a seesaw to balance a lighter one.",
+      "safety": "",
+      "time": "12 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Build four card spinners (Book Activity 2, page 106)",
+      "day": 2,
+      "mins": 17,
+      "need": [
+        "thin cardboard",
+        "a steel katori or cup to trace round",
+        "scissors, pencil, ruler",
+        "toothpicks or an empty ballpoint refill",
+        "a compass or needle (adult use)",
+        "glue or tape"
+      ],
+      "steps": [
+        "Trace and cut three circles about 6–7 cm across and one square of the same width.",
+        "Find the centre of each circle by folding a paper copy in half twice; for the square, draw the two diagonals.",
+        "Spinner 1: toothpick through the centre, about 1 cm sticking out below.",
+        "Spinner 2: toothpick about 1.5 cm away from the centre.",
+        "Spinner 3: square card, toothpick through the centre.",
+        "Spinner 4: circle with a ring drawn on it, toothpick through the centre.",
+        "Fix the toothpicks with a little glue or tape so they do not slip."
+      ],
+      "outcome": "Four home-made spinners, ready for testing and colouring, that show clearly why the stick must go through the centre."
+    },
+    {
+      "id": "a2",
+      "title": "Newspaper boats",
+      "day": 4,
+      "mins": 12,
+      "need": [
+        "2 rectangular sheets of old newspaper",
+        "a basin or bucket of water",
+        "2 one-rupee coins"
+      ],
+      "steps": [
+        "Fold the sheet in half from top to bottom.",
+        "Fold the two top corners down to the middle to make a triangle (a 'house' shape).",
+        "Fold the bottom strips up on both sides.",
+        "Open the middle and press flat into a square (diamond); fold the bottom corners up on both sides to make a triangle.",
+        "Open again into a square, then gently pull the two top points outwards; the boat pops open.",
+        "Float it; put a coin in the middle of one boat and at the edge of another and compare."
+      ],
+      "outcome": "Two paper boats and a first finding: a boat with its load at the edge tips over, and newspaper slowly soaks up water."
+    },
+    {
+      "id": "a3",
+      "title": "Design-build-test boat challenge (Book Activity 5, pages 113–114)",
+      "day": 7,
+      "mins": 20,
+      "need": [
+        "ice-cream sticks, a coconut shell half, a juice carton, bottle caps, clay",
+        "thread, tape, glue, scissors",
+        "paper for a sail",
+        "a tub of water and 20 one-rupee coins"
+      ],
+      "steps": [
+        "Draw a plan of your boat and label the materials.",
+        "Build it so it is different from a paper boat.",
+        "Float it: check that it stays upright and does not leak.",
+        "Load coins one at a time in the middle until it sinks or tips; record the number.",
+        "Fill the page 114 table: strengths and challenges.",
+        "Make one improvement, test again and compare the coin count."
+      ],
+      "outcome": "A home-made boat with a coin-carrying score for two versions, and a child who has practised the engineer's cycle of plan, build, test and improve."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Isaac Newton (1642–1727) and Robert Hooke (1635–1703), England",
+      "idea": "Newton passed a beam of sunlight through a glass prism and found it spread into a band of colours, red to violet. When he sent these colours through a second prism and combined them, they made white again. In 1672 he published his view that white light is not pure but a mixture of all these colours, and that each colour bends by a different amount in glass.",
+      "then": "Robert Hooke, a leading scientist of the Royal Society, objected strongly. He thought colours were changes made to white light by the prism, not parts hidden inside it, and said Newton's results could be explained by his own theory. The quarrel was bitter, and Newton waited until 1704, after Hooke's death, to publish his full book on light, 'Opticks'.",
+      "now": "Newton's view is accepted: white light is a mixture of colours, which is why a rainbow, a CD or a prism splits it. Spinning colour discs, often called 'Newton's discs' after his discovery (the spinning version became popular later), show the colours mixing back towards white. Hooke was a brilliant scientist in many other areas, but on this he was wrong.",
+      "status": "accepted",
+      "ask": "Your seven-colour spinner looked greyish, not pure white. Does that mean Newton was wrong? What else could explain it, and how could you check?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Archimedes (about 287–212 BCE), Syracuse, Sicily",
+      "idea": "Archimedes, a Greek mathematician and engineer, wrote a book called 'On Floating Bodies'. In it he showed that anything placed in water is pushed up by a force equal to the weight of the water it pushes aside. So a solid that is heavier than the same amount of water sinks, while one that is lighter floats, sinking only until the water it pushes aside weighs as much as it does.",
+      "then": "A famous story says that King Hiero asked him to check whether a gold crown had been mixed with silver, and that he solved it in the bath, ran out shouting 'Eureka!' ('I have found it!'). This story was written by the Roman author Vitruvius about 200 years later, and historians doubt it happened that way; Galileo himself thought Archimedes more likely used a balance in water.",
+      "now": "Archimedes' principle is fully accepted and is used every day to design ships, submarines, life jackets and hot-air balloons, and to test the purity of metals. The famous bath story remains a legend we cannot check.",
+      "status": "accepted",
+      "ask": "The 'Eureka' story is exciting, but written 200 years later. How do historians decide whether to believe a story about a scientist? Why does it not matter for whether his principle is true?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Galileo Galilei (1564–1642) and Lodovico delle Colombe, Italy (debate of 1611)",
+      "idea": "In 1611 in Florence, a group of philosophers led by Colombe argued, following the ancient Greek thinker Aristotle, that ice floats because of its flat, broad shape, and showed that a thin flat chip of heavy ebony wood floats while a ball of ebony sinks. Galileo argued that ice floats because it is lighter than the same amount of water, whatever its shape, and that the ebony chip stayed up only because the water's surface held it while its top was dry; once wetted, it sank. He published his arguments in 1612 in his 'Discourse on Bodies in Water'.",
+      "then": "The debate became heated and personal. Colombe and others kept attacking Galileo in print, and many followers of Aristotle did not accept his view.",
+      "now": "Galileo's main point is accepted: whether a solid floats depends on how heavy it is compared with the same amount of water (its density). Shape matters in another way, by changing how much water an object pushes aside and how much air it holds, which is why your foil cup floats and your foil ball sinks. The surface 'skin' of water (surface tension) is also real and can hold up very light, thin objects, as with a water strider insect.",
+      "status": "accepted",
+      "ask": "Colombe said shape decides; Galileo said material decides. Your foil test and your ice cube test seem to give different answers. Can both be partly right? What experiment would settle it?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "Lothal, Gujarat (Harappan city, more than 4,000 years old), excavated by S. R. Rao in 1955–1960, and his critics",
+      "idea": "At Lothal, near the Gulf of Khambhat, archaeologist S. R. Rao of the Archaeological Survey of India uncovered a huge brick-lined basin about 200 metres long, with a channel and an outlet. He argued it was a dockyard where boats came in from the river and the sea, which would make it one of the oldest known dockyards in the world. Seals and pottery found at Harappan sites, including clay models of boats, show that these people travelled by water and traded with lands across the sea.",
+      "then": "Some archaeologists disagreed, arguing the basin was more likely a large tank for storing fresh water for drinking or watering fields, and that the channels did not suit boats.",
+      "now": "That the Harappan people built boats and traded by sea is accepted. Whether the Lothal basin itself was a dockyard is still discussed: later studies of the mud, including tiny sea creatures' shells found in it, have been taken by some scientists to support a connection with sea water, while others remain unconvinced. It is a live debate.",
+      "status": "debated",
+      "ask": "If you dug in the mud at the bottom of the Lothal basin, what clues would tell you that boats and sea water came in? What clues would tell you it held fresh water instead?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {
+      "q": "Why does a card spinner with the toothpick through the centre spin better than one with the toothpick near the edge?",
+      "a": "With the stick at the centre the weight is spread evenly all round it, so it stays balanced. With the stick off-centre, one side is heavier and pulls outwards, so it wobbles and falls."
+    },
+    {
+      "q": "What happens just before a spinning coin stops, and what slows it down?",
+      "a": "It wobbles, leans and rolls round on its edge with a faster rattling sound, then falls flat. Friction with the table and the air slow it down."
+    },
+    {
+      "q": "What did you see when the half-red, half-yellow spinner spun fast? Why?",
+      "a": "Orange. The eye holds each picture for a moment, so when the colours pass very quickly the brain mixes them into one colour."
+    },
+    {
+      "q": "A steel katori is heavier than an iron nail, yet the katori floats and the nail sinks. Why?",
+      "a": "Floating does not depend only on weight. The katori's wide hollow shape pushes aside a lot of water, so the water's push up holds it up; the small solid nail pushes aside very little water, so it sinks."
+    },
+    {
+      "q": "What happened to the foil spread flat, made into a cup and pressed into a tight ball?",
+      "a": "The flat sheet and the cup floated; the tight ball sank, because the ball pushes aside much less water and traps almost no air."
+    },
+    {
+      "q": "Give two ways to make a sinking object float.",
+      "a": "Change its shape into a bowl or boat (clay, foil), attach air to it (an empty closed bottle, a life jacket), or make the water salty (the potato)."
+    },
+    {
+      "q": "Sort into float and sink: cork, coin, ice cube, marble, lemon, steel spoon.",
+      "a": "Float: cork, ice cube, lemon. Sink: coin, marble, steel spoon."
+    },
+    {
+      "q": "Some archaeologists say the Lothal basin was a dockyard; others say it was a water tank. Is it settled? What evidence would help?",
+      "a": "No, it is still debated. Clues from the mud, such as sea shells or salt-water creatures, signs of boats, or how the channels connected to the river and sea, would help decide."
+    }
+  ]
+}

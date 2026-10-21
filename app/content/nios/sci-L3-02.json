@@ -1,0 +1,511 @@
+{
+  "key": "nios|sci|3|2",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 2,
+  "title": "Our Social Environment",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 2 (pages 15–32), 2016",
+  "summary": "No one can meet all their needs alone: the farmer needs the blacksmith's tools, and we all need the farmer's grain. Your child meets the neighbourhood's workers and sees how their work has changed, then finds out what hospitals, schools, post offices, banks, police, courts, municipalities and panchayats do, and how Sonia's village grew by working together.",
+  "goals": [
+    "By the end your child can name at least eight neighbourhood professions and say what each person does and who depends on them.",
+    "By the end your child can give two reasons why professions have changed over time (machines, new skills, freedom to choose, more people) with a 'before and now' example.",
+    "By the end your child can explain, from our own team experiment, why sharing work into steps makes it faster, and why no work is small or big.",
+    "By the end your child can say what each public service does: hospital, school, post office, bank, police, court, municipality and gram panchayat, and know the emergency number 112.",
+    "By the end your child can explain how families and neighbours working together made Sonia's village healthy and prosperous.",
+    "By the end your child can explain how Dr B.R. Ambedkar and Elinor Ostrom challenged ideas most people held in their time."
+  ],
+  "words": [
+    ["profession", "the work a person does to earn a living, such as tailoring, farming or teaching"],
+    ["livelihood", "the way a person earns the money or food they need to live"],
+    ["ancestral", "coming from one's grandparents and great-grandparents, like a craft handed down"],
+    ["depend", "to need someone or something; the farmer depends on the blacksmith for a plough"],
+    ["public service", "a service set up for everyone in the community, like a school, hospital or post office"],
+    ["interest", "extra money a bank pays you for keeping your money with it, or that you pay when you borrow"],
+    ["FIR", "First Information Report: the written complaint about a crime that police write down at a police station"],
+    ["court", "a place where a judge listens to both sides and decides a dispute or a crime case by the law"],
+    ["Constitution", "the main rule book of India that every law and every government must follow; it came into force on 26 January 1950"],
+    ["municipality", "the local government of a town or city that looks after water, roads, cleaning, parks and birth certificates"],
+    ["gram panchayat", "the elected local government of a village that plans its roads, water, schools and cleanliness"],
+    ["cooperation", "working together to reach a goal that helps everyone"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Who helped us today?",
+      "goal": "Notice how many people's work our day depends on, read about neighbourhood professions, and meet a real worker in our lane.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "From toothbrush to dinner",
+          "mins": 6,
+          "do": "Ask your child to think back over yesterday and list every person whose work they used: 'Who brought the milk? Who grew the rice? Who stitched your uniform? Who made your chappals? Who collected the garbage? Who drove your school van?' Write each one down. Good answers include people they never see, like the farmer and the weaver. If they get stuck, pick up an object, such as a steel tumbler or a cotton kurta, and ask, 'Who made this? Who sold it to us?' Count the list: usually more than 15 people."
+        },
+        {
+          "kind": "read",
+          "title": "Professions in our neighbourhood (pages 15–17)",
+          "mins": 9,
+          "do": "Read the opening on page 15 and section 2.1 on pages 15–17 aloud. Explain that the main work in villages is agriculture, but a village also needs a barber, potter, cobbler, washerman, cleaner, weaver, blacksmith, carpenter, goldsmith, oil-presser and bhadbhuja (a person who roasts corn, chana and puffed rice in hot sand). Look at the pictures on page 16 together and ask your child to name each worker and their tool: the potter's wheel, the blacksmith's hammer and anvil, the weaver's loom, the barber's scissors. Ask: 'Why does a village need all these people if most people are farmers?' (No one can do all the work by themselves.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Neighbourhood worker interview",
+          "mins": 17,
+          "do": "Do Activity a1. Walk with your child to one or two workers near your home: the presswala (ironing person), the tailor, the cobbler at the corner, the vegetable seller or the kirana shopkeeper. Your child greets them politely and asks three questions you practise on the way: 'What is your work called? Who taught you? What tool do you use most?' Buy something small or get one thing ironed so you are customers, not just visitors. Back home, your child draws the worker with their tool and writes their name and profession. Ask: 'Did they learn the work from their father or mother, like the book says on page 17, or did they learn it somewhere else?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see what you have learnt 2.1, I and II (pages 19–20)",
+          "mins": 8,
+          "do": "Do questions I and II of 'Let's see what you have learnt 2.1' on pages 19–20. For I, your child writes five jobs done in the neighbourhood and what the person is called, following the book's example 'Dyeing clothes: Dyer (Rangrez)'. Use the list from the warm-up. For II, ask: 'What jobs do women in our neighbourhood do?' The book's example is midwives helping at births. Other good answers: teacher, Anganwadi worker, tailor, shopkeeper, domestic worker, doctor, nurse, vegetable seller, ASHA health worker."
+        }
+      ],
+      "need": ["NIOS EVS Level A book, pages 15–17 and 19–20", "notebook, pencil and crayons", "a little money for a small purchase or ironing", "one or two neighbourhood workers to visit"],
+      "prep": [{"task": "Decide which nearby worker you will visit and, if possible, ask them the day before whether your child may ask three questions", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Before and now: how work changed",
+      "goal": "See how professions have changed with machines and new skills, test the power of sharing work in steps, and learn why every profession deserves respect.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Basanti, Rahman, Sobran and the before-and-now pictures (pages 17–18)",
+          "mins": 8,
+          "do": "Read the paragraph on page 17 about Basanti, Rahman, Sobran, Juman, Ravikaran and Girdhari Lal. Ask: 'How is Rahman's work different from his father Anwar's?' (He stitches new designs he learns from books.) 'What new things does Sobran make?' (Purses, bags and belts as well as shoes.) Then look at the before-and-now pictures on pages 17–18: shoes by hand and purses too; leaf plates (done-pattal) by hand and by machine; oxen and plough and tractor; charkha and cloth mill; mehendi and beauty parlour. For each pair, ask: 'Which is faster? Which needs more skill of the hands? Which needs electricity or diesel?'"
+        },
+        {
+          "kind": "read",
+          "title": "Why has this change come about? (pages 18–19)",
+          "mins": 5,
+          "do": "Read section 2.2 on pages 18–19 aloud: families have grown so not everyone can do the same work; people now go out of the village to work; young people want more income; everybody is free to choose any profession and can learn new skills by training; new machines do better work in less time. Ask your child to match one reason to one person from page 17: 'Ravikaran moved to the city to work' (people go out of the village); 'Rahman learns from books' (new skills)."
+        },
+        {
+          "kind": "exp",
+          "title": "Team test: alone or in steps?",
+          "mins": 15,
+          "do": "Do Experiment e1. You need at least two people (a parent, sibling or grandparent). Ask your child to guess first: 'Will one person making paper bags alone be faster, or a team where each person does one step?' Round 1: each person makes newspaper bags alone for 5 minutes (fold, glue sides, fold base, glue base). Count finished bags. Round 2: work as a line for 5 minutes: one person only folds, the next only glues, the next only folds and glues the base. Count again. Compare. Ask: 'Why was the team faster?' (Each person gets quick at one step and no time is wasted switching.) Then tell the story of Voice v1, Adam Smith's pin factory, and ask the voice question.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Adam Smith and the pin makers",
+          "mins": 4,
+          "do": "Follow up Voice v1: Adam Smith also worried that a worker who does one tiny step all day might get bored and stop learning. Ask your child: 'In Round 2, who had the most boring job? Would you like to do only gluing every day for a year?' Discuss how the craftspeople on page 17 do the whole job and are proud of their skill, while a factory worker does one step faster.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "No work is small or big (pages 19–20)",
+          "mins": 8,
+          "do": "Read section 2.3 on page 19 aloud: without Morari's tawa no roti, without Chamanlal's pots no cool water in summer, without Hari Ram's chappals boils on our feet. Then do question III of 'Let's see what you have learnt 2.1' on page 20 by drawing lines: tools to blacksmith, stitching to tailor, grains to farmer, jewellery to goldsmith, shoes to shoemaker, cleaning to cleaner, wooden things to carpenter. Ask question IV: 'Why must we respect every profession?' Good answer: 'Because we all depend on each other and life would be hard without any one of them; no work is small or big.' Ask: 'How should we speak to the person who collects our garbage?' (Politely, by name, saying thank you.)"
+        }
+      ],
+      "need": ["NIOS EVS book pages 17–20", "old newspapers, glue stick and scissors", "a phone or clock with a timer", "at least one other family member"],
+      "prep": [{"task": "Make one sample newspaper bag so you can show the four steps", "when": "morning"}]
+    },
+    {
+      "n": 3,
+      "title": "Hospitals and schools",
+      "goal": "Learn what a government hospital and a school give everyone, learn the emergency numbers, and write a postcard to test how fast the post travels.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Public services and the hospital (pages 20–21)",
+          "mins": 8,
+          "do": "Read the start of section 2.4 on pages 20–21 aloud: public services are services for everyone, like hospitals, schools, banks, post offices and police; they can be government or non-government. Then read 2.4.1 'Facilities in a Hospital' on page 21. Ask: 'Who gets treated first in a hospital, the person who came first or the person who is most hurt?' (Emergency cases get priority.) 'What do government hospitals give free?' (Treatment and food in general wards, many tests, life-saving medicines, vaccination for children, ambulance for poor patients.) Ask: 'Where did you get your vaccines?' Look again at the vaccination card if you have it."
+        },
+        {
+          "kind": "do",
+          "title": "Emergency numbers card",
+          "mins": 7,
+          "do": "Make a small emergency card with your child to stick near the door or in the school bag. Write: 112 (single emergency number for police, fire and ambulance across India), 108 (ambulance in most states), 101 (fire), 1098 (Childline, for any child who needs help), and a parent's and a neighbour's mobile number, plus your home address. Practise a pretend call: your child says, slowly, 'My name is ___. My Dadi has fallen and is not waking up. Our address is ___.' Explain: 'Only call these numbers for a real emergency, because someone else may need the ambulance.'"
+        },
+        {
+          "kind": "read",
+          "title": "Facilities in schools (page 22)",
+          "mins": 7,
+          "do": "Read 2.4.2 on page 22 aloud. Explain that this is the Right to Education Act of 2009: every child from 6 to 14 can study free up to Class 8 in a government school, with free books, uniform and mid-day meal; private schools must keep 25 per cent of their entry seats for children from poor families; a school cannot ask for a donation or test a child before admission. Ask: 'Why do you think the law says no test at admission?' (So that no child is turned away for being slow, poor or from a home where no one could teach them.) 'Who in the village must make sure every child joins school?' (The Village Education Committee, Gram Pradhan and Headmaster.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Write the postcard",
+          "mins": 8,
+          "do": "Start Experiment e2. Your child writes a postcard (a plain India Post postcard costs 50 paise at the post office; an envelope with a stamp also works) to a grandparent or relative in another town: 'Dear Nanaji, I am learning about the post office. Please call us the day this card reaches you. Today is ___.' Write the date clearly. Ask your child to guess: 'How many days will it take to reach?' Write the guess on the calendar. You will post it on Day 4.",
+          "ref": "e2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Workers and services",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core) sections A and B now and section C on Day 4 after the post office and bank. Read items aloud if needed and mark together. For any mistake, reopen the page: professions pages 15–17, depending on each other page 19, hospitals and schools pages 21–22.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["NIOS EVS book pages 20–22", "card paper and a pen for the emergency card", "a postcard or envelope and stamp", "a relative's postal address with PIN code", "worksheet ws1"],
+      "prep": [{"task": "Buy a postcard (or an envelope and stamp) and get a relative's full postal address with PIN code", "when": "2 days before"}]
+    },
+    {
+      "n": 4,
+      "title": "The post office and the bank",
+      "goal": "Post our postcard, learn what post offices and banks do, and work out how interest makes savings grow.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Facilities in the post office (pages 22–23)",
+          "mins": 6,
+          "do": "Read 2.4.3 on pages 22–23 aloud. Ask: 'Before the post office, who carried messages?' (A barber or a messenger.) 'What else does the post office do besides letters?' (Money orders, parcels, savings accounts, small savings schemes, and MGNREGA wages can be paid into post office accounts.) Read the line 'India has the largest postal services in the world' and tell your child that India has about one and a half lakh post offices, most of them in villages. Show the PIN code on your postcard: PIN means Postal Index Number; the first digit tells the region of India and the full six digits lead to one post office."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Post it and look around",
+          "mins": 12,
+          "do": "Walk to the nearest post office or red post box and let your child post the card from Experiment e2. If you are at the post office, look around: point out the counter for stamps and speed post, the savings bank counter, and the sorting bags. Your child notes three things they saw. Ask a staff member, if they are free, 'How long does an ordinary letter take to reach ___?' and note the answer next to your child's guess. Then write today's date on the calendar as 'posted'. If there is no post office nearby, post it in a post box and look at the times written on the box for when letters are collected.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Facilities in a bank (page 23)",
+          "mins": 6,
+          "do": "Read 2.4.4 on page 23 aloud. Ask: 'Where did people keep money before banks?' (Buried under the ground, which is unsafe from thieves, rats and damp.) 'What does a bank do?' (Keeps money safe, pays interest on deposits, lets you withdraw it when needed, keeps jewellery in lockers, gives loans at lower interest for work, education and farming.) Explain interest with your hands: 'If you keep ₹100 in the bank for a year and the bank gives 4 per cent interest, it gives you ₹4 extra. The bank can pay you because it lends your money to someone else, like a farmer, who pays the bank back a little more.'"
+        },
+        {
+          "kind": "act",
+          "title": "Savings and interest chart (Let's do and learn ii, page 31)",
+          "mins": 10,
+          "do": "Do Activity a2. Together, look at a passbook or a bank's website (or ask at the bank) to find two kinds of account, such as a savings account and a fixed deposit, and their interest rates; write them down. Then your child works out, with you: 'If I save ₹500, how much extra will I get in one year at the savings rate? At the fixed deposit rate?' Use the method 'rate × 5' for ₹500 (for example, 4 per cent of ₹500 is ₹20). Make a chart: Account, Interest rate, Extra on ₹500 in one year. Ask: 'Why does the fixed deposit pay more?' (You promise not to take the money out for a fixed time, so the bank can lend it out safely for longer.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet section C",
+          "mins": 6,
+          "do": "Finish section C of Worksheet ws1 (post office and bank). Then ask your child to tell you, in two sentences, why it is better to keep savings in a bank or post office than buried in a tin.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["NIOS EVS book pages 22–23, 31", "the postcard from Day 3", "a bank passbook or a bank's interest-rate list", "notebook and pencil", "worksheet ws1 section C"],
+      "prep": [{"task": "Check the post office's opening hours, and note your bank's current savings and fixed deposit interest rates", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "Police, courts, municipality and panchayat",
+      "goal": "Learn how police, courts, municipalities and panchayats keep our society fair and working, act out a court case, and meet Dr B.R. Ambedkar, who led the writing of India's Constitution.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Has the postcard arrived?",
+          "mins": 2,
+          "do": "Ask your child: 'Has Nanaji called yet?' If the card has arrived, write the date and count the days from posting. If not, write 'not yet' on the calendar and check again tomorrow.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Police and courts (pages 23–24)",
+          "mins": 8,
+          "do": "Read 2.4.5 and 2.4.6 on pages 23–24 aloud. Ask: 'What is an FIR?' (The First Information Report: the written complaint about a crime that police record at a police station.) 'If a panchayat cannot settle a dispute, where do people go?' (To a court.) Draw a ladder in the notebook with your child: District Court at the bottom, High Court in the middle, Supreme Court in New Delhi at the top, and write 'final decision' next to it. Ask: 'What if someone has no money to fight a case?' (The judge can waive the fee or give a free lawyer; every court has a Legal Aid Cell.)"
+        },
+        {
+          "kind": "game",
+          "title": "Our family court",
+          "mins": 10,
+          "do": "Act out a simple case. A sibling or toy says: 'Rohan took my cycle without asking and scratched it.' Your child is the judge. You are the advocate for one side and another family member (or you again, switching caps) for the other. Rules: each side speaks once without interruption; the judge asks one question to each; the judge decides by a rule written before the game ('Ask before you borrow; if you damage something, you help fix it'). Ask the judge: 'Why did we write the rule before the case?' (So the decision is fair and not about who the judge likes.) Explain: India's Constitution is the rule book written before all cases, and courts check that laws follow it."
+        },
+        {
+          "kind": "think",
+          "title": "Dr B.R. Ambedkar: work by choice, not by birth",
+          "mins": 8,
+          "do": "Tell the story in Voice v2. Go back to page 17, which says these professions 'come to them from their ancestors', and page 19, which says 'Everybody is free to choose any profession'. Explain that in the old caste system people were expected to do only their family's work and some were treated as 'untouchable'; Ambedkar, who faced this himself as a child, fought it and chaired the committee that drafted the Constitution, which abolished untouchability and gives every citizen the right to choose their work. Ask the voice question and listen fully.",
+          "ref": "v2"
+        },
+        {
+          "kind": "read",
+          "title": "Municipality and village panchayat (pages 24–25)",
+          "mins": 6,
+          "do": "Read 2.4.7 and 2.4.8 on pages 24–25 aloud; for the long list of panchayat jobs, read it slowly while your child raises a finger for every job they count (there are more than twenty). Ask: 'Who gave you your birth certificate?' (The municipality or panchayat registers births and deaths.) 'Name four things a gram panchayat does.' (Village roads, water from wells and ponds, cleanliness, tree planting, vaccination of people and animals, primary schools, MGNREGA job cards.) Then read the last paragraph on page 25: we must cooperate with people in public services and never fight with doctors or nurses."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Who do we go to?",
+          "mins": 6,
+          "do": "Do sections A and B of Worksheet ws2 (stretch): new situations where your child decides which public service to go to. Keep section C for Day 6. Read the stories aloud and let your child answer before you check.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 17, 19, 23–25", "a toy or cycle for the court game", "notebook and pencil", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Sonia's village: working together",
+      "goal": "Read how Sonia's village developed through cooperation, map the public services around our own home, and meet Elinor Ostrom, who showed that communities can look after shared things themselves.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sonia's village (pages 27–28)",
+          "mins": 9,
+          "do": "Read section 2.5 on pages 27–28 aloud. Ask: 'What facilities does Sonia's village have?' (Primary school, health and delivery centre, cemented drains, hand pumps, clean ponds with fish, a toilet in every house, brick streets joined to the city road, an adult education centre.) 'Why have diseases gone down?' (Cleanliness: dirty water and open waste breed germs and mosquitoes.) 'What did people do when the hand pump broke?' (They repaired it together instead of waiting for the government.) 'Why did the government and voluntary groups help this village?' (Because they saw its unity and responsible behaviour.) Then do 'Let's see what you have learnt 2.3' on page 28 aloud: answers are from school and the adult education centre; cross, tick, tick, cross."
+        },
+        {
+          "kind": "think",
+          "title": "Elinor Ostrom and the village pond",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: many people believed that anything everyone shares, like a pond, a grazing field or a forest, will be spoiled, because each person takes too much. Elinor Ostrom travelled and studied real villages, including farmers sharing irrigation canals in Nepal, and found that many communities make their own fair rules and protect shared things for hundreds of years. Ask: 'Which shared things do we have in our colony or village?' (A park, a water tank, a temple courtyard, a lift, the pond.) 'What rules keep it nice?' Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Map of public services near us (Let's do and learn i, page 31)",
+          "mins": 15,
+          "do": "Do Activity a3. On chart paper your child draws your home in the middle. Together, mark every public service you know nearby and how far it is (walking minutes or km): school, Anganwadi, primary health centre or hospital, post office, bank or ATM, police station, ration shop, panchayat or municipal ward office, park, water tank, bus stop. Use a phone map if needed. Draw a small symbol for each (a red cross for a hospital, an envelope for the post office, a rupee sign for the bank). Ask: 'Which service is farthest? Which would we need most in an emergency?' Write the list beside the map as the book asks.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet section C and postcard check",
+          "mins": 8,
+          "do": "Do section C of Worksheet ws2. Then check Experiment e2: if the postcard has arrived, count the days and compare with your child's guess and with what the post office staff said. If it still has not arrived, ask: 'What could make it slower?' (A far-away town, a wrong or missing PIN code, a holiday, a small village post office that receives mail only a few days a week.)",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 27–28, 31", "chart paper, sketch pens", "a phone map (optional)", "worksheet ws2 section C"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Let's revise and teach it back",
+      "goal": "Revise the lesson with the book's exercises, try the challenge worksheet, check understanding, and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercises (pages 28–31)",
+          "mins": 10,
+          "do": "Read the eight 'Let's Revise' points on page 28 aloud and ask your child for one example of each from this week. Then do the Exercises on pages 29–31 aloud. Exercise 3 answers: tick, tick, cross, tick, tick, cross. Exercise 6: hospital, money order, court, jewellery, police station. Exercise 7: nurse, doctor, judge, Legal Aid Cell, municipality (or panchayat). For Exercise 4, good answers are the government hospital, the government school and the Legal Aid Cell in a court."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Society puzzles",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and comparing views. Your child can answer aloud while you write. There is no single right answer for section C; praise reasons that use evidence from this week, such as the paper-bag test or the postcard.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, reopen the right pages (professions 15–19, hospital and school 21–22, post and bank 22–23, police and courts 23–24, municipality and panchayat 24–25, Sonia's village 27–28) and look for one minute, then ask again in different words. Most children get 6 or more right."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is now the teacher. Using the worker drawing, the paper bags, the emergency card and the services map, they teach you (or a grandparent) in 5 minutes: why we depend on each other, how work has changed, what four public services do, and how Sonia's village grew. Ask two 'student' questions: 'Why was the team faster at paper bags?' and 'Where can a poor person get a free lawyer?' End by choosing one way your family will help a public service this month, such as putting garbage in the municipal van on time or thanking the postman by name."
+        }
+      ],
+      "need": ["NIOS EVS book pages 28–31", "worksheet ws3", "the worker drawing, paper bags, emergency card and map from this week"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Workers and services",
+      "day": 3,
+      "sections": [
+        ["A. Who does this work?", [
+          {"t": "match", "p": "Match the work to the person.", "pairs": [["Makes earthen pots", "Potter"], ["Makes iron tools like the tawa", "Blacksmith"], ["Weaves cloth on a loom", "Weaver"], ["Makes and mends shoes", "Cobbler"], ["Makes things of wood", "Carpenter"], ["Roasts corn and chana", "Bhadbhuja"]]},
+          {"t": "fill", "p": "The main profession in our villages is ____.", "a": ["agriculture", "farming"]},
+          {"t": "mcq", "p": "Why do we need to respect every profession?", "opts": ["Because some jobs pay more", "Because we all depend on each other and no work is small or big", "Because the book says so", "Because workers are our relatives"], "a": 1}
+        ]],
+        ["B. Hospital and school", [
+          {"t": "mcq", "p": "In a hospital, who is treated first?", "opts": ["Whoever comes first", "The richest patient", "Emergency cases", "Children only"], "a": 2},
+          {"t": "fill", "p": "Children aged 6 to 14 can study ____ up to Class 8 in a government school.", "a": ["free", "for free"]},
+          {"t": "fill", "p": "The single emergency number for police, fire and ambulance in India is ____.", "a": ["112"]}
+        ]],
+        ["C. Post office and bank", [
+          {"t": "sort", "p": "Sort each service into where you would get it.", "items": ["Send a parcel", "Send a money order", "Keep jewellery in a locker", "Get a loan for farming", "Speed post", "Earn interest on savings"], "cats": ["Post office", "Bank", "Both"]},
+          {"t": "write", "p": "Why is it safer to keep money in a bank than buried under the ground?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Who do we go to?",
+      "day": 5,
+      "sections": [
+        ["A. Where should they go?", [
+          {"t": "mcq", "p": "Meena's bicycle was stolen from outside the market. Where should her father go first?", "opts": ["The post office", "The police station, to lodge an FIR", "The bank", "The Supreme Court"], "a": 1},
+          {"t": "mcq", "p": "Two farmers in a village quarrel about a boundary. The panchayat could not settle it. Where do they go next?", "opts": ["A court", "A hospital", "A school", "The municipality"], "a": 0},
+          {"t": "mcq", "p": "Ramesh needs a birth certificate for his new baby girl in Indore city. Where does he go?", "opts": ["The bank", "The municipal corporation", "The High Court", "The post office"], "a": 1},
+          {"t": "write", "p": "Salma's family has no money to pay a lawyer, but someone has cheated them. What help can they get, and where?", "lines": 2}
+        ]],
+        ["B. Before and now", [
+          {"t": "table", "p": "Write how each kind of work was done before and how it is done now.", "cols": ["Work", "Before", "Now", "Why it changed"], "rows": 4, "prefill": ["Ploughing", "Making cloth", "Sending a message", "Keeping money safe"]},
+          {"t": "write", "p": "In our paper-bag test, how many bags did you make alone and as a team? Why was there a difference?", "lines": 3}
+        ]],
+        ["C. Working together", [
+          {"t": "write", "p": "The hand pump in your lane is broken. Write three things the neighbours could do, as in Sonia's village.", "lines": 3},
+          {"t": "sort", "p": "Is this helping or hindering a public service?", "items": ["Shouting at a nurse", "Putting garbage in the municipal van", "Writing the PIN code on a letter", "Breaking a park bench", "Waiting your turn at the bank", "Calling 112 as a joke"], "cats": ["Helping", "Hindering"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Society puzzles",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "fill", "p": "A bank pays 5 per cent interest a year. If you keep ₹200 for one year, you get ₹____ extra.", "a": ["10", "₹10"]},
+          {"t": "write", "p": "A farmer needs a plough. The blacksmith who makes it needs grain to eat. The tailor needs both. Draw arrows or write who depends on whom, and find a chain where the first person depends on the last.", "lines": 4},
+          {"t": "mcq", "p": "Why does the Supreme Court's decision have to be final?", "opts": ["Because it is in Delhi", "Because a dispute must end somewhere, so people can move on", "Because judges are never wrong", "Because it is the oldest court"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if every family in a village had to make its own pots, shoes, cloth, tools and grain? How would their days be different?", "lines": 3},
+          {"t": "write", "p": "What if there were no post office and no phones? How would you send news to Nani in another city?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Adam Smith said dividing work into steps makes more things faster, but he also worried workers could get bored. Do you agree with both? Use our paper-bag test.", "lines": 4},
+          {"t": "write", "p": "Some people say a shared pond will always be spoiled. Elinor Ostrom found villages that kept theirs clean for centuries. What rules would you make for a shared park in your colony?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Alone or in steps? The paper-bag test",
+      "day": 2,
+      "question": "Do people make more things when each person does the whole job, or when the work is divided into steps?",
+      "need": ["old newspapers cut into rectangles about 30 cm × 20 cm", "glue sticks", "a timer", "2 to 4 people"],
+      "steps": [
+        "Show everyone how to make a bag in four steps: fold the sheet in half, glue the open side, fold up the bottom 5 cm, glue the bottom shut.",
+        "Round 1: each person makes bags on their own for 5 minutes. Count the finished bags.",
+        "Round 2: sit in a line. Person 1 only folds, person 2 only glues the side, person 3 only folds and glues the bottom. (With two people, split the steps two and two.) Work for 5 minutes. Count the finished bags.",
+        "Check the quality: are the team bags as neat as the solo bags?",
+        "Write both totals in a table and compare."
+      ],
+      "predict": "Ask your child to guess first: will the team make more bags, fewer, or the same as all the people working alone added together?",
+      "observe": "Record the total bags in Round 1 and Round 2 and note which job each person had. Usually the team makes more bags in Round 2, especially once each person gets quick at their own step.",
+      "why": "When a person does one step again and again, they get faster at it, and they lose no time putting down the glue to pick up the paper and changing what they are doing. This is called the division of labour, and it is the same reason a village has a potter, a blacksmith and a tailor instead of everyone doing everything badly. It also means everyone depends on everyone else: if the gluer stops, the whole line stops. Adam Smith described this in 1776. The other side is that one small step all day can be dull, and a craftsperson who does the whole job, like Juman on the handloom, learns more skills and can feel proud of the whole thing.",
+      "safety": "Use child scissors only; an adult cuts the newspaper sheets.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "How fast is the post?",
+      "day": 3,
+      "question": "How many days does an ordinary postcard take to reach a relative in another town?",
+      "need": ["a postcard, or an envelope with a stamp", "a relative's full address with PIN code", "a calendar", "a relative willing to phone when it arrives"],
+      "steps": [
+        "Write the postcard with today's date and a request to phone when it arrives.",
+        "Write the address clearly with the PIN code.",
+        "Guess how many days it will take and write the guess on the calendar.",
+        "Post it at the post office or in a post box and write the posting date on the calendar.",
+        "When the relative phones, write the arrival date.",
+        "Count the days between posting and arrival and compare with your guess and with what the post office said."
+      ],
+      "predict": "Ask your child to guess first: will the card take 1 day, 3 days, a week or more? Will a card to a nearby town arrive faster than one to a far-away state?",
+      "observe": "Record the posting date, the arrival date and the number of days. Ordinary post within a city or nearby town often takes a few days; far-away or remote places take longer. Speed post is faster but costs more.",
+      "why": "A letter does not fly by itself: a postman collects it from the box, it is sorted at the post office by its PIN code, carried in bags by road, rail or air to the sorting office for its region, sorted again, and then carried by a postman to the door. Each step takes time, and each step is done by a different person, a division of labour on a huge scale. The six-digit PIN code, started in India in 1972, tells the sorters where it is going: the first digit is the region, the next digits narrow it down to one delivery post office. A missing or wrong PIN code is one of the commonest reasons for delay.",
+      "safety": "",
+      "time": "8 min to write + 10 min to post + wait several days"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Meet a neighbourhood worker",
+      "day": 1,
+      "mins": 17,
+      "need": ["notebook and crayons", "a little money for a small purchase or ironing"],
+      "steps": [
+        "Choose one or two workers near home: presswala, tailor, cobbler, vegetable seller or shopkeeper.",
+        "Practise three polite questions on the way: What is your work called? Who taught you? What tool do you use most?",
+        "Greet them, buy something small, and ask your questions.",
+        "Thank them by name.",
+        "At home, draw the worker with their tool and write their name and profession.",
+        "Write one sentence: 'Without ___, our family would ___.'"
+      ],
+      "outcome": "A drawing and short profile of a real neighbourhood worker, and a child who knows that worker by name."
+    },
+    {
+      "id": "a2",
+      "title": "Savings and interest chart (Let's do and learn ii, page 31)",
+      "day": 4,
+      "mins": 10,
+      "need": ["a bank passbook or a bank's interest-rate list", "notebook, ruler and pencil"],
+      "steps": [
+        "Find two kinds of account, for example a savings account and a fixed deposit, and their yearly interest rates.",
+        "Draw a table: Account, Interest rate, Extra on ₹500 in one year, Can I take money out any day?",
+        "Work out the extra money: for ₹500, multiply the rate by 5 (4 per cent of ₹500 is ₹20).",
+        "Write whether you can take money out any day.",
+        "Discuss why one pays more than the other.",
+        "Decide a small savings goal for your child's own piggy bank."
+      ],
+      "outcome": "A chart comparing two bank accounts, and a child who can work out simple yearly interest on ₹500."
+    },
+    {
+      "id": "a3",
+      "title": "Map of public services near us (Let's do and learn i, page 31)",
+      "day": 6,
+      "mins": 15,
+      "need": ["chart paper", "sketch pens", "a phone map (optional)"],
+      "steps": [
+        "Draw your home in the middle of the chart paper.",
+        "Mark nearby public services with symbols: school, Anganwadi, health centre, post office, bank, police station, ration shop, ward office or panchayat, park, bus stop.",
+        "Write next to each how far it is in walking minutes or km.",
+        "Colour government services in one colour and private ones in another.",
+        "Write the list beside the map.",
+        "Stick the map near the emergency card."
+      ],
+      "outcome": "A hand-drawn map of the public services around your home with distances, and a list for the book's 'Let's do and learn' task."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Adam Smith (1723–1790), Scotland",
+      "idea": "In his book 'The Wealth of Nations' (1776), Smith described a pin workshop where making a pin was split into about eighteen small steps done by different workers. Ten workers this way made about 48,000 pins a day, while one person doing every step alone could make perhaps only twenty, or even fewer. He called this the division of labour and said it is why people in a society depend on each other and grow richer together.",
+      "then": "His book became one of the most influential books on economics ever written and was widely praised. But Smith himself warned in the same book that a worker who does one simple step all his life may become dull and stop using his mind, and he said education for ordinary people could help.",
+      "now": "Economists accept that dividing work into specialised steps raises how much people can make; it is how factories, hospitals and even the postal system work. His warning about boring, repetitive work is still discussed, and some modern factories rotate workers between jobs for this reason.",
+      "status": "accepted",
+      "ask": "Our team made more bags, but the gluer did one boring job. Is it better to make more things or to enjoy your work? Can you think of a way to get both?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Dr B.R. Ambedkar (1891–1956), India",
+      "idea": "Bhimrao Ramji Ambedkar was born into a Dalit family treated as 'untouchable'; as a schoolboy he was made to sit apart and could not drink from the common tap. He went on to earn doctorates from Columbia University in New York and the London School of Economics. In 'Annihilation of Caste' (1936) he argued that caste was not just a division of labour but a division of labourers, fixing people's work by birth instead of by their interest and ability. He chaired the Drafting Committee of India's Constitution.",
+      "then": "Many powerful people of his time defended the caste system, and some leaders disagreed sharply with him about how to end it. The 1936 speech he wrote was cancelled by the group that invited him, so he printed it himself.",
+      "now": "The Constitution that came into force on 26 January 1950 abolished untouchability (Article 17) and gives every citizen the right to practise any profession (Article 19). His view that work should be chosen, not fixed by birth, is accepted in Indian law. He was awarded the Bharat Ratna in 1990, though discrimination by caste has not fully disappeared in practice.",
+      "status": "accepted",
+      "ask": "Page 17 says many crafts pass from parents to children. When is learning your family's craft a good thing, and when would it be unfair? What should decide the work a person does?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Elinor Ostrom (1933–2012), USA",
+      "idea": "Many people believed, following an essay by Garrett Hardin called 'The Tragedy of the Commons' (1968), that anything shared by everyone, like a pasture, a fishing ground or a forest, will be ruined because each person takes as much as they can, unless the government controls it or it is divided into private plots. Ostrom studied real communities around the world, including farmers sharing irrigation canals in Nepal and villages sharing forests and fishing grounds, and showed that many of them make their own rules, watch over each other and punish rule-breakers, keeping shared things healthy for centuries.",
+      "then": "Many economists doubted that ordinary villagers could manage shared resources better than experts. Ostrom was trained in political science, not economics, and her careful field studies were at first outside the mainstream.",
+      "now": "In 2009 she became the first woman to win the Nobel Memorial Prize in Economic Sciences for this work. Her findings are widely accepted: communities can manage shared resources well when they make the rules themselves and can see who breaks them. She also showed it does not always work, for example when groups are too big or rules are forced on them from outside.",
+      "status": "accepted",
+      "ask": "Sonia's village fixed its own hand pump. What would you need to see, in a real village or our colony, to believe that people can look after a shared thing without being forced?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Name four neighbourhood professions and what each person makes or does.", "a": "For example: potter makes earthen pots; blacksmith makes iron tools like the tawa; weaver weaves cloth; cobbler makes and mends shoes; carpenter makes wooden things; barber cuts hair; washerman washes clothes."},
+    {"q": "Give two reasons why professions have changed over time.", "a": "New machines do work faster; people learn new skills through training; everybody is free to choose their work; families grew so not all could do the same work; people go out of the village for better income."},
+    {"q": "Why do we say no work is small or big?", "a": "Because everyone depends on others for their needs: the farmer needs the blacksmith's tools, everyone needs the farmer's grain. Life would be hard without any one of them, so every worker deserves respect."},
+    {"q": "Why was our team faster in the paper-bag test?", "a": "Each person did one step again and again, got quicker at it, and did not waste time switching tasks. This is called the division of labour."},
+    {"q": "What does a government hospital give for free?", "a": "Treatment and food in general wards, many tests, life-saving medicines, children's vaccines, and an ambulance for poor patients. Emergency cases are treated first."},
+    {"q": "What does a bank do, and what is interest?", "a": "A bank keeps money safe, lets you take it out when needed, keeps valuables in lockers and gives loans. Interest is the extra money the bank pays you for keeping your money there (or that you pay when you borrow)."},
+    {"q": "Where do you lodge an FIR, and where does a poor person get a free lawyer?", "a": "An FIR is lodged at a police station. A poor person gets free legal help from the Legal Aid Cell in a court, and the judge can waive the fee."},
+    {"q": "How did Sonia's village develop?", "a": "Through everyone's cooperation: people kept homes and lanes clean, repaired the hand pump together, gave free labour for the streets, and the panchayat decided by agreement. Seeing this unity, the government and voluntary groups helped build the school and health centre."}
+  ]
+}

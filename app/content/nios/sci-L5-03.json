@@ -1,0 +1,526 @@
+{
+  "key": "nios|sci|5|3",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 3,
+  "title": "Our Social Issues",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 3 (lesson pages 33–54)",
+  "summary": "Every society has strengths and problems, and this lesson looks honestly at some of India's: the strain of very large families on food, health and schooling; why education matters for everyone, especially girls; why women have not had equal respect and chances, and how laws, schooling and politics are changing that; and the unfair practice of dowry and the laws against it. Your child works with real numbers (literacy rates, sex ratios, sharing a family budget) and real people who fought for fairness, and learns that girls and boys have exactly equal rights.",
+  "goals": [
+    "By the end your child can explain, with a simple sharing test, how the number of people in a family affects each person's share of food, money and attention, and why the book calls a small family a happy household.",
+    "By the end your child can give at least five reasons why education matters, and explain that education is more than reading and writing.",
+    "By the end your child can read a simple graph of male and female literacy in India from 1961 to 2011 and say what changed and why.",
+    "By the end your child can name reasons why women have been treated unequally (social customs, money, men making decisions, illiteracy, poverty, old ways of thinking) and spot unfairness in everyday life, such as who does the housework.",
+    "By the end your child can name laws and steps that protect girls' and women's rights, including the Right to Education Act, one-third seats for women in panchayats, and the ban on finding out a baby's sex before birth.",
+    "By the end your child can explain what dowry is, why it is unfair and illegal, how it differs from stri-dhan (gifts that belong only to the woman), and what young people can do to end it."
+  ],
+  "words": [
+    ["social issue", "a problem that affects many people in a society and needs everyone's effort to solve"],
+    ["population", "the number of people living in a place"],
+    ["malnutrition", "poor health caused by not getting enough of the right kinds of food"],
+    ["literacy rate", "the percentage of people (aged 7 and above in India's census) who can read and write with understanding"],
+    ["discrimination", "treating someone unfairly because of who they are, such as being a girl"],
+    ["equality", "everyone having the same rights, respect and chances"],
+    ["reservation", "keeping a share of seats or posts for a group that was kept out unfairly, such as one-third of panchayat seats for women"],
+    ["sex ratio", "the number of girls or women for every 1,000 boys or men"],
+    ["dowry", "money or goods demanded from a bride's family by the groom's family as a condition of marriage; illegal in India since 1961"],
+    ["stri-dhan", "gifts given freely to a woman before, at or after her marriage, which belong to her alone"],
+    ["domestic violence", "hurting or bullying a family member at home; a crime under Indian law"],
+    ["empowered", "having the knowledge, money, confidence and rights to make your own choices"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Social issues, and the sharing problem",
+      "goal": "Learn what a social issue is, test how family size changes each person's share, and read about big and small families.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "A note for you before you begin",
+          "mins": 3,
+          "do": "Parent note: this lesson covers big families, unfair treatment of girls, dowry and harm to women. Your child is about 10. Keep the substance honest but frame everything around fairness, equal rights for girls and boys, and the law. Avoid graphic details. If your child asks a hard question you don't know how to answer, it is fine to say, 'That's an important question. Let me think and we will talk about it tonight.' Never let the lesson suggest that any child in a big family, or any poor family, is to blame. Start by telling your child: 'This week we are going to be fairness detectives.'"
+        },
+        {
+          "kind": "act",
+          "title": "Start the chores audit",
+          "mins": 5,
+          "do": "Start Activity a1. Draw a chart with a row for each household job (cooking, washing dishes, sweeping, washing clothes, buying vegetables, paying bills, helping with homework, fixing things, driving, looking after elders) and a column for each family member. For the next three days, your child puts a tick each time they see someone do a job. Do not discuss it yet; on Day 4 you will look at the results together.",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "What are social issues? (lesson page 33)",
+          "mins": 5,
+          "do": "Read the opening of the lesson aloud: every society has good qualities and shortcomings. The book names some: girls getting less education, women not cared for properly, women considered less than men, dowry, and the killing of girls before birth, plus a growing population. Ask: 'Why does the book say these problems stop the whole society from moving forward, not just the people they hurt?' (Because if half the people, the girls and women, can't study, work or decide, the country loses half its talent.)"
+        },
+        {
+          "kind": "exp",
+          "title": "The sharing test",
+          "mins": 14,
+          "do": "Do Experiment e1. Your child shares the same 'family income' (24 biscuits or 24 coins) between a family of 3 and a family of 8, and works out each person's share, then does the same for 'attention' (60 minutes of a parent's evening). Ask for a prediction first. Discuss what the numbers mean for food, school fees and a parent's time.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Big family and small family (lesson pages 34–35)",
+          "mins": 10,
+          "do": "Read 3.1 'Small family – Happy Household', 3.1.1 'Problems of a big family' and 3.1.2 'Benefit of a small family'. After each bullet, ask: 'Did our sharing test show this?' Link: limited income not enough for all; children not getting a balanced diet; mothers' health suffering when babies come one after another; farms split into tiny plots between many sons; country-wide shortages of water, housing and jobs. Then look at 'We have to think' on page 35: compare the two family pictures. Gentle balance: say 'Many big families are loving and happy too. The book's point is that when money and food are limited, fewer people means each child gets more.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Was Malthus right?",
+          "mins": 6,
+          "do": "Read Voice v1 about Thomas Malthus and what actually happened in India. Tell your child that India's average number of children per woman has fallen from about six in 1950 to about two today. Ask the 'ask' question. Then do 'Let's see, what you have learnt 3.1' aloud: happy; love and affection; nurturing (care); balanced; poverty.",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "One-line summary",
+          "mins": 2,
+          "do": "Ask your child: 'In one sentence, why does the book think a small family is a happy household?' A good answer: 'When the same income is shared by fewer people, each child gets enough food, care and schooling.'"
+        }
+      ],
+      "need": ["Lesson pages 33–36", "24 biscuits, coins or buttons", "8 small plates or paper squares", "chart paper for the chores audit", "a pencil"],
+      "prep": [{"task": "Draw the chores-audit chart with jobs down the side and family members across the top", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Education is a must for all",
+      "goal": "Understand what education really means, why it matters, and what families can do to make sure every child learns.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Baiju and Sudhakar (lesson pages 36–37)",
+          "mins": 8,
+          "do": "Read section 3.2 aloud: Baiju's family, where nobody went to school, and Sudhakar's, where everyone did. Then read: 'Education is not only reading and writing. Education means gaining knowledge, learning and knowing,' and that a child's first teachers are the parents. Add a gentle balance: 'Baiju's family is poor because they never got a chance to study, not because they are bad people. Many families who never went to school are clean, wise and hard-working.' Ask: 'What could Baiju's children do to change things?' (Go to school; free schooling is a right up to class 8; adults can join literacy classes and then study through NIOS, as the book says.)"
+        },
+        {
+          "kind": "do",
+          "title": "Ways we learn",
+          "mins": 8,
+          "do": "Ask your child to list ten things they know, and how they learned each one: by seeing, hearing, reading or practising (the book's four ways). For example: tying shoelaces (practising), a bhajan or a song (hearing), how to make chai (seeing and practising), the names of planets (reading). Then ask: 'Which of these could you not have learnt without being able to read?' This shows why the book calls books a 'store-house of knowledge'."
+        },
+        {
+          "kind": "read",
+          "title": "Why education is important (lesson page 37)",
+          "mins": 9,
+          "do": "Read 3.2.1 'Why is education important?' aloud. Your child picks the three points they think matter most and explains each with an example: for instance, 'Education makes us aware of our rights and duties: a person who can read can check their bank passbook, a ration card or a medicine label.' 'It helps remove superstition: if you know germs cause illness, you wash your hands instead of blaming bad luck.' Then read the paragraph about boys going to school while girls do housework all day. Ask the book's question: 'Why is she not given the right to study?' Listen to your child's answer."
+        },
+        {
+          "kind": "read",
+          "title": "What can we do? (lesson page 39)",
+          "mins": 8,
+          "do": "Read 3.2.4 'What can we do?' Make a list together of the ones a child can help with: telling a friend's parents gently that school is free and important; sharing books; teaching a younger child or a household helper's child to read letters. Tell your child about India's Right of Children to Free and Compulsory Education Act, 2009, which made free schooling a right for every child aged 6 to 14. Ask: 'If a child aged 9 is working in a tea stall instead of going to school, is that allowed?' (No. Children under 14 must not be employed in such work, and every child has a right to free school.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 3.2 (lesson pages 39–40)",
+          "mins": 7,
+          "do": "Do 'Let's see, what you have learnt 3.2' aloud, choosing from the given words: mother-father (first teachers); store-house; way (education opens the way, the door, to employment); life; helpful."
+        },
+        {
+          "kind": "review",
+          "title": "Education poster line",
+          "mins": 5,
+          "do": "Your child makes up a short slogan for a poster about education for all, for example 'Padhega India, tabhi badhega India' ('When India learns, India grows') or one of their own, and draws a small picture to go with it. Stick it near their study table."
+        }
+      ],
+      "need": ["Lesson pages 36–40", "paper and colours"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Girls' education: then and now",
+      "goal": "Learn the history of girls' education in India, meet Savitribai Phule, and draw a graph of how female literacy has grown.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Status of girl education (lesson page 38)",
+          "mins": 9,
+          "do": "Read 3.2.2 'Status of Girl Education'. The book says that in Vedic times girls studied mostly at home and were not sent to gurukuls, and that in the Buddhist period few women studied. Add a balanced fact: there were exceptions, such as Gargi and Maitreyi, women thinkers who appear in the Upanishads, and Buddhist nuns whose poems were collected in the Therigatha. But most girls did not get the same chances as boys. The book says at Independence only about 9% of Indian women could read (the 1951 census figure). Ask: 'Out of 100 women, how many could read?' (About 9.) 'What would that mean for a mother trying to read her child's medicine label?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Savitribai Phule",
+          "mins": 10,
+          "do": "Tell your child the story of Voice v2, Savitribai Phule, who started teaching girls in Pune in 1848. Act out the part where she carried a second sari to school, because people threw mud and dung at her on the way, and changed when she reached the school. Ask: 'Why did people get so angry at the idea of girls learning?' (They were afraid of change and thought girls belonged only at home.) Then ask the 'ask' question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Draw the literacy graph",
+          "mins": 15,
+          "do": "Do Activity a2. Using the census numbers given in the activity, your child draws a bar graph with two bars for each census year, one for men and one for women. Ask: 'In which year was the gap between men and women biggest? Is the gap getting smaller?' (The gap was about 27 points in 1961 and 1971 and narrowed to about 17 points by 2011; women's literacy more than quadrupled from 15% to 65%.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Why educate women? (lesson pages 38–39)",
+          "mins": 8,
+          "do": "Read 3.2.3 'Women's Education and its objective'. Discuss two points: 'Educate women and make them self-reliant and empowered' (they can earn, decide and stand up for themselves) and 'Make them aware of their rights' (a woman who can read the law knows dowry is illegal). Ask: 'The book says if a mother is educated, the whole family becomes educated. Why?' (She teaches the children, helps with homework, and understands health and money matters.)"
+        },
+        {
+          "kind": "review",
+          "title": "Then and now",
+          "mins": 3,
+          "do": "Ask your child to say one sentence about girls' education 'then' (1848 or 1951) and one about 'now' (2011), using numbers from the graph."
+        }
+      ],
+      "need": ["Lesson pages 38–39", "squared or graph paper", "a ruler", "two colour pencils"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Men and women are equal",
+      "goal": "Understand the reasons women have been treated unequally and find out what the chores audit shows about our own home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Men–women equality (lesson pages 40–41)",
+          "mins": 10,
+          "do": "Read section 3.3 aloud up to 'Women have not got an equal honor.' Point out the book's list of brave and learned women in Indian history: Rani Durgavati (who defended Gondwana against the Mughals), Mirabai (poet-saint), Rani Padmini (known mainly from legend and a poem by Malik Muhammad Jayasi, so historians are unsure of her story), Jijabai (mother and guide of Shivaji), Ahilyabai Holkar (ruler of Indore who built ghats and temples across India) and Rani Lakshmibai of Jhansi. Ask: 'The book says some women reach the top while others, in many villages, cannot even speak in front of men. How can both be true in one country?'"
+        },
+        {
+          "kind": "read",
+          "title": "Why women are left behind (lesson pages 40–42)",
+          "mins": 10,
+          "do": "Read the seven reasons the book gives: social system (girls 'married off', a boy's birth celebrated more), economic freedom (women working all day but not earning or controlling money), a male-dominated society (men making decisions), illiteracy, poverty, population (the wish for a son leading to many children), and social thinking (women seen as weak). After each, ask your child for an example or a fix. Parent note: the book mentions very serious harms like violence; you can say simply, 'Sometimes women are hurt or bullied at home, and that is a crime.' Do not go into details."
+        },
+        {
+          "kind": "act",
+          "title": "Chores audit results",
+          "mins": 12,
+          "do": "Bring out the Activity a1 chart. Count the ticks for each person. Ask: 'Who does the most jobs? Are some jobs done only by women or only by men? Is any job a girl's job or a boy's job by nature?' (No. Anyone can learn to cook, fix a tap, pay a bill or sweep.) Then make a fairer plan with your child: one new job each family member, including boys and men, will take on this week. Write it at the bottom of the chart. Be honest if the audit shows your own home is unequal; children learn most from seeing adults change.",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 3.3 and core worksheet",
+          "mins": 13,
+          "do": "Do 'Let's see, what you have learnt 3.3' aloud: backbone; teacher; weak; stories; girl. Then your child does core worksheet ws1 in writing. Check it together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 40–42", "the chores-audit chart from Day 1", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Special attention to girls: progress and laws",
+      "goal": "Learn how education, politics, work, social change and the law are improving the status of girls and women, and use numbers to see why girls must be protected before birth.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Progress in education and politics (lesson pages 42–43)",
+          "mins": 9,
+          "do": "Read section 3.4, parts 1 and 2. Point back to the Day 3 graph for the literacy numbers. Name the help girls get: free books and uniforms, scholarships, mid-day meals, hostels. Then politics: the 73rd and 74th Amendments to the Constitution (1992) reserve at least one-third of seats in panchayats and municipalities for women, and many states, such as Bihar, now reserve half. Add: in 2023 Parliament passed a law (the Nari Shakti Vandan Adhiniyam) to reserve one-third of seats in the Lok Sabha and state assemblies for women; it will come into force after the next census and redrawing of constituencies. Ask: 'Why does it matter that women sit in the panchayat?' (They raise problems men may ignore, like water, toilets and girls' schooling.)"
+        },
+        {
+          "kind": "read",
+          "title": "Work, social change and legal rights (lesson pages 43–44)",
+          "mins": 9,
+          "do": "Read parts 3, 4 and 5. Pick five rights to explain simply: a woman can choose whom to marry after 18; she can keep her own name after marriage; her stri-dhan belongs to her alone; she has a right to a share of family property (since 2005, daughters have the same right as sons in Hindu family property); she can go to court if she is treated cruelly. Correct the book's law names: the law against domestic violence is the Protection of Women from Domestic Violence Act, 2005. Ask: 'Why do girls need a law to say they can keep their own name?' (Because custom often took away a woman's choices.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Count the missing girls",
+          "mins": 13,
+          "do": "Do Experiment e2. First toss a coin 100 times with your child and count heads and tails, after asking them to predict. Then compare with India's real numbers: naturally about 950 girls are born for every 1,000 boys, but the 2011 Census counted only 918 girls for every 1,000 boys aged 0–6. Parent note: explain simply and calmly: 'Some families wanted only sons. They used machines to find out before birth whether the baby was a girl, and then stopped the girl being born. This is completely wrong and against the law. Every girl has exactly the same right to be born and to live as every boy.' Read the book's paragraph on the 1994 law that makes finding out a baby's sex before birth illegal.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Amartya Sen's 'missing women'",
+          "mins": 8,
+          "do": "Read Voice v3. Ask the 'ask' question. Point out how a scientist or economist uses numbers to uncover an unfairness that is hidden in everyday life.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 3.4 (lesson page 45)",
+          "mins": 6,
+          "do": "Answer 'Let's see, what you have learnt 3.4' aloud. 1: the Right to Education Act (2009), free and compulsory school for ages 6–14. 2: one-third of seats (half in many states). 3: schools, colleges, hospitals, offices, industries, shops, farms, the police and the army. 4: maintenance (money to live on) and custody of children. 5: the Protection of Women from Domestic Violence Act, 2005."
+        }
+      ],
+      "need": ["Lesson pages 42–45", "a coin", "a tally sheet", "the literacy graph from Day 3"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Dowry: an unfair custom and the law",
+      "goal": "Understand what dowry is, why it spread, why it is unfair and illegal, how it differs from stri-dhan, and how a brave girl like Phulwa can stop it.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Phulwa's story (lesson pages 45–46)",
+          "mins": 8,
+          "do": "Read the story of Phulwa's wedding aloud: the happy preparations, the groom's father suddenly demanding ₹50,000 in cash, Bodhlal and Kaushalya pleading, and the police arriving because Phulwa had sent her uncle to report the demand. Ask: 'How did Phulwa feel when the demand came? What did she do that took courage?' (She used the law instead of accepting injustice.) 'Was the groom's father being fair? Why not?' (Marriage is between two people and families; it is not a sale.)"
+        },
+        {
+          "kind": "read",
+          "title": "What is dowry and why it spread (lesson pages 46–47)",
+          "mins": 8,
+          "do": "Read 3.5.1 and 3.5.2. Explain the change the book describes: long ago parents gave their daughter household things willingly, by their own choice, to help her start a new home. Over time, the groom's side began to treat it as their right and to demand it. List the book's reasons it spread: love of money and showing off (TV, car, fridge as 'prestige'), a narrow choice of partners because of caste rules, false pride, and families wanting to 'recover' what they spent on a son's education. Ask: 'What is the difference between a gift and a demand?' (A gift is freely chosen; a demand is forced.)"
+        },
+        {
+          "kind": "read",
+          "title": "Harms, solutions and the law (lesson pages 48–50)",
+          "mins": 10,
+          "do": "Read 3.5.3 to 3.5.7, choosing age-appropriate parts. Harms: debt for the girl's family for life, girls married to unsuitable grooms, girls being harassed by in-laws. Parent note: the book mentions suicide and deaths; you can say simply, 'Some women were badly harmed because of dowry, and that is why the law punishes it very strictly.' Then the law: the Dowry Prohibition Act was passed by Parliament on 9 May 1961; both giving and taking dowry are crimes, with at least 5 years' jail and a fine of ₹15,000 or the value of the dowry, whichever is more; demanding dowry and advertising for it are also punished. Read 3.5.6: gifts given freely to the bride are her stri-dhan and belong only to her, and a signed list should be made. Mention that the old Indian Penal Code was replaced in 2024 by the Bharatiya Nyaya Sanhita, which still punishes dowry death very severely."
+        },
+        {
+          "kind": "act",
+          "title": "Phulwa's wedding: act it out",
+          "mins": 11,
+          "do": "Do Activity a3. Act out the scene with family members: the groom's father makes the demand; Phulwa, her parents, the groom and a neighbour each respond. Then act it a second time with a different ending: the groom himself refuses the dowry and tells his father it is wrong and illegal. Ask afterwards: 'Which ending was better? Who has the most power to stop dowry?' The book's answer: young people must take the initiative.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 3.5 (lesson page 51)",
+          "mins": 8,
+          "do": "Do 'Let's see, what you have learnt 3.5'. True/false: false (dowry is harmful); true; true; false (only the woman has a right to her stri-dhan); true; false (a dowry death is one within seven years of marriage). Fill-ins: prestige; money (wealth); expense (the money spent); life; youth. Then your child begins stretch worksheet ws2, Section A.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Lesson pages 45–51", "worksheet ws2", "family members for the role-play"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Revise, check and teach it back",
+      "goal": "Review the lesson, finish the worksheets, check understanding, and teach back what you learned as a fairness detective.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (lesson pages 51–53)",
+          "mins": 9,
+          "do": "Read 'Let's Revise' together. Then do the Exercise aloud. Fill-ins: discord (tension) in a large family; self-reliant; problems; responsibility of two families (the book's key says 'commitment'); thinking. Short answers: two benefits of a small family (better education, better health and food); two benefits of education (jobs and earning, knowing about the country and world, knowing your rights); a solution to dowry (educate girls and make them self-reliant, young people refusing dowry, using the law). True/false: false, true, true, false, true. Tick the right answer: d, a, a, d."
+        },
+        {
+          "kind": "ws",
+          "title": "Finish the stretch worksheet",
+          "mins": 8,
+          "do": "Your child finishes stretch worksheet ws2, Sections B and C. Check together, asking 'Why?' for each answer.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 11,
+          "do": "Do challenge worksheet ws3 together. These questions have no single right answer; praise reasons that use evidence (numbers, the law, the book) and that consider other people's views.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 9,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick good answers; for any miss, read the right page together and ask again. Six or more right is good."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 8,
+          "do": "Your child is the teacher. Using the sharing-test plates, the literacy graph, the coin-toss tally and the chores chart, they teach you: why small families can give each child more; why education matters, especially for girls; three laws that protect girls and women; and why dowry is wrong. Ask two 'student' questions: 'Isn't housework a woman's job?' and 'If the bride's parents want to give a gift, is that dowry?' (No, if it is freely given with no demand; then it is her stri-dhan.)"
+        }
+      ],
+      "need": ["Lesson pages 51–53", "worksheets ws2 and ws3", "the sharing plates, literacy graph, coin tally and chores chart"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Families, education and equality",
+      "day": 4,
+      "sections": [
+        ["A. Small family", [
+          {"t": "fill", "p": "In the book, a small family is called a ____ household.", "a": ["happy"]},
+          {"t": "sort", "p": "Sort these into what the book says about a big family with limited income and a small family.", "items": ["Children may not get a balanced diet", "Mother's health suffers when babies come quickly", "Children get full love and attention", "School fees are easier to pay", "Farms get divided into tiny pieces", "Basic needs are met more easily"], "cats": ["Problem of a big family", "Benefit of a small family"]}
+        ]],
+        ["B. Education", [
+          {"t": "fill", "p": "A child's first teachers are the ____.", "a": ["parents", "mother and father", "mother-father", "father and mother"]},
+          {"t": "fill", "p": "Books are a ____ of knowledge and information.", "a": ["store-house", "storehouse", "store house"]},
+          {"t": "mcq", "p": "The book says education is:", "opts": ["only reading and writing", "gaining knowledge by seeing, hearing, reading and practising", "only for boys", "only for people with jobs"], "a": 1},
+          {"t": "write", "p": "Write three reasons why education is important.", "lines": 3}
+        ]],
+        ["C. Equality", [
+          {"t": "match", "p": "Match each reason women were left behind to its meaning.", "pairs": [["Economic freedom lacking", "Women work but don't control the money"], ["Male-dominated society", "Men make all the big decisions"], ["Illiteracy", "Many women could not read or write"], ["Social thinking", "Women wrongly seen as weak"]]},
+          {"t": "mcq", "p": "Which job is a 'girl's job' by nature?", "opts": ["Cooking", "Sweeping", "Washing clothes", "None: anyone can learn any household job"], "a": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Rights, laws and fairness",
+      "day": 6,
+      "sections": [
+        ["A. Know the law", [
+          {"t": "match", "p": "Match the law or step to what it does.", "pairs": [["Right to Education Act, 2009", "Free and compulsory school for ages 6–14"], ["73rd Amendment, 1992", "One-third of panchayat seats for women"], ["Dowry Prohibition Act, 1961", "Makes giving and taking dowry a crime"], ["Law of 1994 on tests before birth", "Bans finding out a baby's sex before birth"], ["Domestic Violence Act, 2005", "Protects women from harm at home"]]},
+          {"t": "mcq", "p": "Phulwa's grandmother gives her a gold chain, freely, at the wedding. Whose is it?", "opts": ["The husband's", "The mother-in-law's", "Phulwa's alone: it is her stri-dhan", "The groom's family's"], "a": 2}
+        ]],
+        ["B. Numbers", [
+          {"t": "table", "p": "Your literacy graph: fill in the gap between men and women in each year.", "cols": ["Year", "Men %", "Women %", "Gap"], "rows": 4, "prefill": ["1961", "1981", "2001", "2011"]},
+          {"t": "write", "p": "A family earns ₹12,000 a month for food. How much is that per person for a family of 3? For a family of 8? What does the difference mean for the children?", "lines": 3}
+        ]],
+        ["C. Apply it", [
+          {"t": "write", "p": "Your neighbour's 11-year-old daughter has stopped going to school to look after her baby brother. Using the book's 'What can we do?' list, write two kind, practical things your family could do.", "lines": 4},
+          {"t": "write", "p": "A boy in your class says 'Girls can't be engineers.' Write what you could say back, using one fact from this lesson.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Think deeper",
+      "day": 7,
+      "sections": [
+        ["A. Evidence", [
+          {"t": "write", "p": "If boys and girls are born in nearly equal numbers, why might a district count only 900 girls for every 1,000 boys aged 0–6? Give two possible explanations, and say what extra information would help you find out which is true.", "lines": 4},
+          {"t": "mcq", "p": "Malthus predicted that population growth would always lead to famine. India's population grew more than four times since 1951, yet famines like those of the past did not return. What best explains this?", "opts": ["The population did not really grow", "Farmers grew much more food per field (better seeds, irrigation, fertiliser), and families also chose to have fewer children", "People stopped eating", "Food was all imported"], "a": 1}
+        ]],
+        ["B. Laws and minds", [
+          {"t": "write", "p": "Dowry has been illegal since 1961, but the book says the laws' 'impact is not visible'. Why might a law not be enough to end a custom? What else is needed?", "lines": 4},
+          {"t": "write", "p": "Savitribai Phule was attacked for teaching girls in 1848. Today almost everyone agrees girls should study. What changed people's minds over time, do you think?", "lines": 3}
+        ]],
+        ["C. Your view", [
+          {"t": "write", "p": "Write a short speech (5 sentences) for your building's Republic Day function titled 'Equal rights for girls and boys begin at home'.", "lines": 6}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The sharing test: does family size change each person's share?",
+      "day": 1,
+      "question": "If two families have the same income, how much does each person get in a family of 3 compared with a family of 8?",
+      "need": ["24 biscuits, coins or buttons (the 'income')", "11 small plates or paper squares", "a clock or phone timer", "paper and pencil"],
+      "steps": [
+        "Lay out 3 plates for Family A and 8 plates for Family B.",
+        "Give Family A 24 biscuits and share them equally. Count how many each person gets.",
+        "Collect them and give Family B the same 24 biscuits. Share equally and count.",
+        "Now share 'attention': a parent has 60 minutes free each evening. Divide 60 minutes among the children: Family A has 1 child, Family B has 6 children.",
+        "Write a table: Family, people, biscuits each, minutes of attention each child."
+      ],
+      "predict": "Ask your child to guess first: will each person in the big family get a little less, half as much, or much less than in the small family?",
+      "observe": "Family A: 8 biscuits each. Family B: 3 each. Attention: 60 minutes for the only child in Family A, 10 minutes each for the six children in Family B.",
+      "why": "When a fixed amount is shared equally, each share equals the total divided by the number of people, so more people means smaller shares. Going from 3 to 8 people does not take away just a little: each share falls to less than half. This is why the book links very large families with limited income to poor nutrition, less schooling and less time with each child. In real life, income can grow when more grown-up family members earn, so big families are not always poorer; but children do not earn, so a family with many young children has many people to feed from the same income for many years. The same simple rule, total divided by people, also applies to a whole country's water, hospitals and schools.",
+      "safety": "",
+      "time": "14 min"
+    },
+    {
+      "id": "e2",
+      "title": "Coin tosses and the missing girls",
+      "day": 5,
+      "question": "If whether a baby is a boy or a girl is left to nature, how close to equal are the numbers? And what do India's census numbers show?",
+      "need": ["one coin", "a tally sheet with two columns: Heads, Tails", "a pencil", "the census numbers below"],
+      "steps": [
+        "Toss the coin 10 times and tally heads and tails. Is it exactly 5 and 5?",
+        "Toss it 90 more times (take turns) to reach 100 tosses. Tally again.",
+        "Work out how many heads there would be for every 1,000 tails if your result held (heads ÷ tails × 1,000).",
+        "Now look at the real numbers: in nature, roughly 950 girls are born for every 1,000 boys (boys are very slightly more common at birth). India's 2011 Census counted 918 girls for every 1,000 children aged 0–6; in 1961 it was 976.",
+        "Work out: if there should be about 950 girls per 1,000 boys and there were 918, how many girls are 'missing' per 1,000 boys? (About 32.)"
+      ],
+      "predict": "Ask your child to guess first: in 100 coin tosses, will heads and tails be exactly equal, nearly equal, or very different?",
+      "observe": "In 10 tosses the result can be uneven, like 7 and 3. In 100 tosses it usually comes close to 50–50, such as 47 and 53. The bigger the number of tosses, the closer to even it tends to get.",
+      "why": "Chance events even out over large numbers: this is called the law of large numbers. Whether a baby is a boy or girl is a natural chance event, just slightly tilted (about 105 boys born for every 100 girls). So in a country of crores of babies, the numbers of boys and girls should come out very close to this natural ratio. When a large population shows far fewer girls than nature would give, the gap cannot be bad luck; it is a sign that something people did, such as stopping girls from being born or caring for girls less when they are ill, is causing it. This is why the 1994 law bans finding out a baby's sex before birth, and why campaigns like 'Beti Bachao, Beti Padhao' (Save the daughter, educate the daughter), begun in 2015, focus on districts with the fewest girls.",
+      "safety": "",
+      "time": "13 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Chores audit: who does what at home?",
+      "day": 1,
+      "mins": 17,
+      "need": ["chart paper", "a pencil", "3 days of observation"],
+      "steps": [
+        "Day 1: draw a chart with household jobs down the side and family members across the top.",
+        "Days 1–3: each time your child sees someone do a job, they make a tick in the right box.",
+        "Day 4: count the ticks for each person and each job.",
+        "Discuss: who does most? Are some jobs only done by one gender? Why?",
+        "Make a fairer plan: each person takes one new job for a week. Write it on the chart.",
+        "After a week, check: did the plan work?"
+      ],
+      "outcome": "Real evidence from your own home about how work is shared, and a family plan to make it fairer, so equality becomes something your child sees, not just reads about."
+    },
+    {
+      "id": "a2",
+      "title": "Graph of literacy in India, 1961–2011",
+      "day": 3,
+      "mins": 15,
+      "need": ["squared or graph paper", "a ruler", "two colour pencils (one for men, one for women)"],
+      "steps": [
+        "Draw the axes: census years along the bottom (1961, 1971, 1981, 1991, 2001, 2011), and percentage up the side from 0 to 100, with one square for every 5%.",
+        "Plot the census figures (rounded): 1961 men 40%, women 15%; 1971 men 46%, women 22%; 1981 men 56%, women 30%; 1991 men 64%, women 39%; 2001 men 75%, women 54%; 2011 men 82%, women 65%.",
+        "Draw two bars for each year, side by side, in the two colours.",
+        "Write the gap between men and women above each pair.",
+        "Write two sentences: one about how women's literacy has changed, one about the gap."
+      ],
+      "outcome": "A bar graph showing that women's literacy has risen more than four times since 1961 and the gap between men and women is closing but not yet gone."
+    },
+    {
+      "id": "a3",
+      "title": "Phulwa's wedding role-play",
+      "day": 6,
+      "mins": 11,
+      "need": ["2–4 family members", "simple props (a dupatta, a toy phone)"],
+      "steps": [
+        "Give roles: Phulwa, her father Bodhlal, the groom's father, the groom, a neighbour.",
+        "Act 1: follow the book's story, with the demand for ₹50,000, the pleading, and Phulwa sending her uncle to the police.",
+        "Act 2: replay it, but this time the groom stands up and tells his father, 'Dowry is wrong and against the law. I will not take it.'",
+        "After each act, each actor says in one sentence how their character felt.",
+        "Discuss: what made the second ending possible? (A young person's courage and knowing the law.)"
+      ],
+      "outcome": "Your child understands from the inside why dowry is unfair and that young people, boys as well as girls, can refuse it."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Thomas Robert Malthus (1766–1834), England, 'An Essay on the Principle of Population' (1798)",
+      "idea": "Malthus argued that population tends to grow faster than food supply, so unless people have fewer children, hunger, disease and famine will keep pulling the population back down. In the 1960s and 1970s, some writers predicted mass famines in India for the same reason.",
+      "then": "Many people in his time and later were persuaded, and his ideas shaped government policies. Others, such as the Danish economist Ester Boserup (1965), argued that a growing population can push farmers to find better ways of growing food.",
+      "now": "His grim prediction did not come true in the way he said. India's population grew from about 36 crore in 1951 to over 140 crore, yet the Green Revolution of the 1960s–70s (better seeds, irrigation and fertilisers, with scientists such as M.S. Swaminathan) greatly increased food production, and India has had no famine like the Bengal Famine of 1943. Families also chose fewer children: India's average fell from about 6 children per woman in the 1950s to about 2 by the National Family Health Survey of 2019–21, falling fastest where girls were educated. Experts agree that very fast population growth puts pressure on resources, but Malthus's claim that famine is unavoidable is rejected.",
+      "status": "rejected",
+      "ask": "Malthus looked at the numbers of his time and made a prediction that turned out wrong. What did he not foresee? What should we be careful about when we predict the future from today's numbers?",
+      "day": 1
+    },
+    {
+      "id": "v2",
+      "who": "Savitribai Phule (1831–1897) and Jyotirao Phule (1827–1890), Pune, Maharashtra",
+      "idea": "Savitribai was married at about nine and was taught to read by her husband Jyotirao. In 1848 the Phules started a school for girls in Bhide Wada, Pune, one of the first schools for girls run by Indians, and Savitribai became its teacher. They went on to open many more schools, including for children of castes that were then treated as 'untouchable'. She believed every girl and every person, whatever their caste, had the right to learn.",
+      "then": "Many people in Pune were furious. On her way to school, people threw mud, stones and dung at her, so she carried a second sari to change into. Jyotirao's own family was pressured to throw the couple out of the house. She kept going.",
+      "now": "Her belief that girls have an equal right to education is now part of India's law and is accepted almost everywhere. She is honoured as one of India's first women teachers, and Savitribai Phule Pune University is named after her. Her birthday, 3 January, is marked in Maharashtra as a day honouring girls' education.",
+      "status": "accepted",
+      "ask": "People who threw mud at Savitribai thought they were protecting society. What could have changed their minds: an argument, a law, or seeing educated girls succeed? Which do you think works best?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Amartya Sen (born 1933), economist, Santiniketan, West Bengal; Nobel Prize in Economics 1998",
+      "idea": "In 1990 Sen wrote an essay titled 'More Than 100 Million Women Are Missing'. He compared the number of women and men in countries such as India and China with what you would expect if girls and women got the same food, health care and care as boys and men, and calculated that about 10 crore women were 'missing' worldwide, meaning they had died early or never been born because of unequal treatment.",
+      "then": "The idea shocked many readers. Some experts argued over his exact numbers and how to calculate the 'expected' ratio, and others looked for different explanations, such as diseases that affect men and women differently.",
+      "now": "Other researchers have refined his numbers, but the main finding is widely accepted: in parts of the world, including many parts of India, girls have been born and survived in smaller numbers than nature would give, because sons were preferred. India's sex ratio at birth has been improving in recent years, especially after laws and campaigns against sex selection.",
+      "status": "accepted",
+      "ask": "Sen found an unfairness by comparing real numbers with expected numbers. What expected number did we compare with in our coin-toss test? What other unfairness at home or school could you measure with numbers?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is a social issue? Name three from this lesson.", "a": "A problem that affects many people and holds society back. For example: very large families with limited income, lack of education especially for girls, unequal treatment of women, dowry, and girls not being allowed to be born."},
+    {"q": "Why can a small family give each child more?", "a": "The same income, food and parents' time are shared among fewer people, so each child gets a bigger share: better food, health, schooling and attention."},
+    {"q": "Give four reasons why education is important.", "a": "It increases knowledge; opens the way to jobs and earning; helps us make good decisions; makes us aware of our rights and duties; helps remove superstition; builds self-confidence; helps the country develop."},
+    {"q": "How has women's literacy in India changed, and who started a girls' school in Pune in 1848?", "a": "It rose from about 15% in 1961 to about 65% in 2011, and the gap with men is shrinking. Savitribai Phule and Jyotirao Phule started the school; Savitribai was the teacher."},
+    {"q": "Give three reasons the book gives for women being treated unequally.", "a": "Any three: social customs that value boys more; women not controlling money; men making all decisions; illiteracy; poverty; the wish for sons leading to big families; the wrong idea that women are weak."},
+    {"q": "Name three laws or steps that protect girls and women.", "a": "Any three: Right to Education Act (free school 6–14); one-third (or half) of panchayat seats for women; Dowry Prohibition Act 1961; the 1994 law banning tests to find a baby's sex before birth; the Domestic Violence Act 2005; equal share in family property."},
+    {"q": "Why does a census showing far fewer girls than boys tell us something is wrong?", "a": "Nature gives nearly equal numbers of boys and girls (about 950 girls per 1,000 boys at birth). With crores of babies, a big gap cannot be chance; it means girls were stopped from being born or cared for less."},
+    {"q": "What is the difference between dowry and stri-dhan, and what does the law say about dowry?", "a": "Dowry is money or goods demanded from the bride's family as a condition of marriage; stri-dhan is gifts freely given to the woman, which belong to her alone. Since 1961, giving, taking, demanding and advertising dowry are all crimes punished with jail and fines."}
+  ]
+}

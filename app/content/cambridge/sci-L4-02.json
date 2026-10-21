@@ -1,0 +1,779 @@
+{
+  "key": "cambridge|sci|4|2",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 4,
+  "n": 2,
+  "title": "Energy",
+  "source": "Cambridge Primary Science Learner's Book 4 (2nd edition, 2021), Unit 2 'Energy' (pages 31–48)",
+  "summary": "Your child learns that energy is in everything and is needed for any movement or change, that energy can be transferred from one object to another (shown as an energy chain) and can change form, for example from electrical to movement and sound in a fan, and that energy is never used up, made or destroyed but spreads into the surroundings. They find out that living things get energy from food, that plants are producers using sunlight, and draw food chains showing energy passing from producers to consumers, ending with a project on how electricity reaches their home.",
+  "goals": [
+    "By the end your child can give examples of energy around them (movement, heat, light, sound, electrical, energy stored in food) and explain that energy is what causes movement and change.",
+    "By the end your child can make a prediction, test it, and say whether the results support it.",
+    "By the end your child can describe an energy transfer as an energy chain (for example hot water → spoon → surroundings) and plan a fair test, naming what to change, keep the same and measure.",
+    "By the end your child can describe energy changes in appliances such as a fan, mixer or tubelight, including the energy that escapes into the surroundings as heat and sound.",
+    "By the end your child can explain that energy cannot be made or destroyed, only transferred and changed, using the example of a cooling cup of chai.",
+    "By the end your child can classify living things as producers and consumers (herbivore, carnivore, omnivore, predator, prey) and draw food chains with arrows showing the direction energy moves."
+  ],
+  "words": [
+    ["energy", "anything that can cause movement or make something happen or change; we cannot see it but we can see what it does"],
+    ["predict", "to say what you think will happen, using what you already know, before you test it"],
+    ["energy transfer", "when energy moves from one object to another, like heat moving from hot chai into the steel tumbler"],
+    ["energy chain", "a way of writing an energy transfer with arrows, for example: hot water → spoon → surrounding air"],
+    ["conclusion", "what you found out from an investigation, written as an answer to your question"],
+    ["fair test", "an investigation where you change only one thing and keep everything else the same, so you know what caused the result"],
+    ["electrical energy", "the energy carried by electricity, which appliances like fans, mixers and bulbs change into other forms"],
+    ["destroy", "to end something so that it no longer exists; energy can never be destroyed"],
+    ["producer", "a living thing that makes its own food; green plants use the Sun's light energy to do this"],
+    ["consumer", "a living thing that gets energy by eating plants or other animals"],
+    ["herbivore, carnivore, omnivore", "an animal that eats only plants (cow), only other animals (tiger), or both (crow, most humans)"],
+    ["predator and prey", "a predator is an animal that hunts and eats other animals; the animals it eats are its prey"],
+    ["food chain", "a drawing with arrows that shows what eats what, and so the direction in which energy moves: grass → deer → tiger"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Energy is all around us",
+      "goal": "Start from your child's own 'full of energy' moments, read pages 31–32, and find energy in pictures and around the house.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Full of energy?",
+          "mins": 6,
+          "do": "Ask your child to do 20 jumping jacks, then sit still for one minute. Ask: 'Before breakfast, after a big lunch, after playing for two hours, when do you feel most full of energy?' Then read the Getting started questions on page 31 about Jamal. 1 'What does Jamal's mum mean when she says he is full of energy?' (He moves, runs and plays a lot without getting tired.) 2 'Where does Jamal get his energy from?' (From food.) 3 'Other examples of where we find energy?' Collect at least five answers: the Sun, a gas stove, a battery, the wind, a moving cricket ball, a running fan."
+        },
+        {
+          "kind": "read",
+          "title": "Energy is all around us (page 32)",
+          "mins": 8,
+          "do": "Read the top of page 32 aloud: living things get energy from food and use it to move, grow, breathe and carry out life processes; non-living things also have energy, such as moving air that turns a wind turbine; light, heat, sound and movement are forms of energy. Look at the big wind turbine photo and tell your child that India has thousands of these, especially in Tamil Nadu, Gujarat and Rajasthan. Ask: 'What makes the blades turn?' (The energy in moving air.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Picture questions (page 32)",
+          "mins": 8,
+          "do": "Look at the five small pictures on page 32 and ask Questions 1 and 2 for each: where is the energy and what type is it? Good answers: 1 flag: movement energy from the moving air (wind); 2 kettle on a stove: heat energy from the flame, which makes steam; 3 plant in the sun: light energy from the Sun (and heat); 4 drum: sound energy, made by the moving drum skin; 5 bird: sound energy in its song, and the bird is a living thing with energy from food. Then read 'What is energy?' on page 32: we can't always see energy but we can see what it does; energy makes things move and change, such as a moving ball breaking a window; energy is anything that can cause movement or carry out an action."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Energy spotting walk",
+          "mins": 15,
+          "do": "Walk around the house and then outside for 15 minutes with the notebook. Your child makes a table with three columns: What I saw, Form of energy, How I know. Aim for 10 rows. Examples: ceiling fan turning (movement, I can see it move), pressure cooker whistle (sound and heat), tubelight (light), sunshine on the floor (light and heat, the floor feels warm), auto-rickshaw going past (movement and sound), a dog barking (sound; living thing using food energy), a phone charging (electrical). If they are stuck, ask: 'Is anything moving? Hot? Bright? Making noise?' Each 'yes' means energy."
+        },
+        {
+          "kind": "talk",
+          "title": "Energy you cannot see",
+          "mins": 8,
+          "do": "Ask: 'Does a still cricket ball on the floor have energy?' (Not movement energy now; but if you lift it up and let go, it will move.) 'Does a packet of biscuits have energy?' (Yes, stored in the food; our body gets it out when we eat.) 'Does an unlit matchstick have energy?' (Yes, stored; it comes out as heat and light when struck.) Tell them that energy can be stored and waiting, like the energy in food, fuels such as LPG and petrol, and batteries. Your child writes one sentence: 'Energy is ...' using the page 32 definition in their own words."
+        }
+      ],
+      "need": ["Learner's Book pages 31–32", "science notebook and pencil", "a cricket ball or any ball"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Energy makes things move",
+      "goal": "Do the ball-flicking investigation on page 33, practise predicting and checking a prediction, and make a pinwheel to show that moving air has energy.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What is a prediction?",
+          "mins": 5,
+          "do": "Ask: 'If I drop this steel spoon on the floor, what will happen?' (It will fall and clang.) 'How did you know before I did it?' (From experience.) Explain: a prediction is what we think will happen, based on what we already know. A guess with no reason is not a prediction. Ask them to make one more prediction with a reason: 'If I drop a feather and a coin together, which lands first, and why?' Then test it."
+        },
+        {
+          "kind": "exp",
+          "title": "Demonstrate what energy does (page 33)",
+          "mins": 12,
+          "do": "Do Experiment e1, the 'Demonstrate what energy does' investigation on page 33. Use a ping-pong ball or a ball of crumpled paper on a smooth floor or a long table. Your child flicks it gently with one finger, and you mark where it stops with a bit of chalk or a bindi. Ask: 'Why did it move? Use the word energy.' (Energy from my moving finger went into the ball.) Then: 'Predict what will happen if you flick harder.' Write the prediction. Flick harder three times and mark each stop. Ask: 'Was your prediction correct? Why did it happen?' Teach the phrase: 'The results support my prediction' or 'do not support my prediction'.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions on page 33",
+          "mins": 7,
+          "do": "Ask Questions 1–3 on page 33. 1 'Which objects had energy? How do you know?' (My finger and the ball, because they moved.) 2a 'Which things did energy change?' (The ball's position and speed; it went from still to moving.) 2b 'How did things change with more energy?' (The ball went faster and further.) 3 'How could you show moving air has energy?' (Blow on the ball through a straw, or wave a notebook at it, and see it roll.) Let them try the straw idea."
+        },
+        {
+          "kind": "act",
+          "title": "Make a paper firki (pinwheel)",
+          "mins": 16,
+          "do": "Do Activity a1. Your child makes a paper firki (pinwheel) from a 15 cm square of paper, a pin and a pencil with an eraser or a straw. Test it: blow gently, blow hard, hold it in front of a table fan on low and then high speed, and take it to the balcony. Ask: 'When does it spin fastest? What does that tell you about the energy in the moving air?' (Faster air has more energy, so it spins faster.) Link to the wind turbine on page 32: a giant firki that changes the energy of the wind into electricity.",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "How am I doing? (pages 33–34)",
+          "mins": 5,
+          "do": "Do the 'How am I doing?' table on page 33: 'How well can I name three examples of energy around us? Describe how I use energy to make a ball move?' Your child answers Very well, Quite well or I need help, then proves it by naming three examples and describing the flick in one sentence. Read the 'Look what I can do!' list on page 34 and tick."
+        }
+      ],
+      "need": ["Learner's Book pages 33–34", "a ping-pong ball or crumpled paper ball", "chalk or bindis to mark stopping points", "a drinking straw", "square paper (15 cm), a pin, a pencil with an eraser or a straw", "a table fan"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Energy can move: transfers",
+      "goal": "Learn from pages 35–37 that energy is transferred from one object to another and is not used up, observe heat travelling up a spoon, and draw energy chains.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 35)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 35. 1 'What type of energy does a moving ball have?' (Movement energy.) 2 'Where does the energy come from to make it move?' (From the person's leg or hand, which got it from food.) 3 'Do objects that are not moving have energy? Example?' (Yes: a hot iron has heat, a battery stores energy, a lit bulb gives light.)"
+        },
+        {
+          "kind": "read",
+          "title": "Energy can move (page 36)",
+          "mins": 8,
+          "do": "Pour hot chai or water into a steel tumbler and let your child touch the outside after one minute. Ask: 'Why did the tumbler get hot?' Then read 'Energy can move' on page 36 aloud: heat energy in the hot water moves to the cup; this is an energy transfer; after a while both get colder, but the heat is not used up or lost; it is transferred to the surroundings. Show the energy chain on page 36: water → cup → surrounding environment. Ask your child to say it with their hands: hand on the tumbler, then waving out to the room."
+        },
+        {
+          "kind": "exp",
+          "title": "Observe an energy transfer (page 36)",
+          "mins": 15,
+          "do": "Do Experiment e2, the 'Observe an energy transfer' investigation on page 36. Dab a little Vaseline or ghee near the end of the handle of a long steel spoon and stick a small bead (or a black peppercorn) on it. YOU pour just-boiled water into a steel tumbler; stand the spoon in it with the bead end sticking up. Read the safety warning on page 36 aloud first. Your child watches and times how long until the bead slides off. Ask: 'Why did this happen?' (Heat travelled from the water up the spoon, melted the Vaseline and the bead fell.) Your child draws the energy chain: hot water → spoon → Vaseline → bead falls, and some heat → air.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Question and conclusion (page 36)",
+          "mins": 7,
+          "do": "Do the last two bullets on page 36. Help your child write a question they have investigated, for example 'Does heat energy move from hot water along a metal spoon?' Then write a conclusion that answers it: 'Heat energy moved from the hot water up the metal spoon to the Vaseline, which melted. So heat energy can be transferred from one object to another.' Explain that a conclusion answers the question using what you saw, not what you hoped."
+        },
+        {
+          "kind": "read",
+          "title": "The Sun's energy (page 37)",
+          "mins": 10,
+          "do": "Read the top of page 37: the Sun gives off heat and light energy, which travels through space to the Earth. Ask your child to sit in a sunny patch for one minute and then in shade. Ask: 'Draw an energy chain for the Sun warming your arm.' (Sun → space → my arm.) Then: 'Draw one for papad drying on the terrace in the sun.' (Sun → papad; the heat dries the water out.) Ask: 'There is no air in space. So does energy need air to travel?' (No; light and heat from the Sun cross empty space.)"
+        }
+      ],
+      "need": ["Learner's Book pages 35–37", "a steel tumbler and hot chai or water", "a long steel spoon", "Vaseline or a little ghee", "a small bead or black peppercorn", "a kettle or pan to boil water", "a clock or phone timer"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Zara's fair test",
+      "goal": "Plan and carry out a fair test from page 37 on whether metal, plastic and wooden spoons carry heat equally, and learn how the old idea of heat as a fluid was overturned.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Zara's observation (page 37)",
+          "mins": 5,
+          "do": "Read 'Think like a scientist 2: Plan a fair test on energy transfers' on page 37. Zara noticed that a metal teaspoon in her tea gets hot but a plastic one does not. Ask the first bullet: 'What question could we investigate?' Help your child write: 'Does the material of a spoon change how quickly heat energy travels along it?'"
+        },
+        {
+          "kind": "think",
+          "title": "Planning the fair test (page 37)",
+          "mins": 10,
+          "do": "Work through the bullets on page 37 with your child. What will we change? (Only the spoon material: steel, plastic, wood.) What will we keep the same? (Same spoon length, same amount of Vaseline, same bead, same height up the handle, same tumbler, same amount of water from the same kettle, put in at the same time.) What will we measure? (The time until each bead falls.) Why do we need a fair test? (If we changed two things, for example a short steel spoon and a long wooden one, we would not know which change caused the result.) Dangers? (Hot water can scald.) How to work safely? (Adult pours, tumbler on a flat steady surface, keep faces back.) How to avoid mistakes when measuring? (Start the timer as the water goes in, have one person timing, repeat the test.) How to present results? (A table and a bar chart.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Run the spoon test",
+          "mins": 15,
+          "do": "Do Experiment e3. Set three spoons of the same length (steel, plastic, wooden) in one wide steel bowl, each with a bead stuck on with the same dab of Vaseline at the same height. Your child predicts the order the beads will fall and writes it down. YOU pour just-boiled water into the bowl. Your child times each bead for up to 10 minutes. Record in a table: Spoon material, Time for bead to fall (seconds). The steel bead usually falls within a few minutes; plastic and wood often not at all in 10 minutes. Ask: 'Do the results support your prediction?'",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Is heat a fluid? Count Rumford's cannons",
+          "mins": 10,
+          "do": "Read Voice v1 about the caloric theory and Count Rumford's cannon-boring observations in 1798. Ask the voice question. Then ask: 'When you rub your hands together fast, they get warm. Where did that heat come from if heat is a fluid stored inside things?' (It came from the movement energy of your hands; heat is not a fluid but a form of energy.) Let your child rub their hands for 10 seconds and feel it.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Write it up",
+          "mins": 5,
+          "do": "Your child writes a conclusion in one or two sentences, for example: 'Heat energy travelled along the steel spoon much faster than along the plastic or wooden spoons.' Then they add one sentence of everyday use: 'That is why kadhai handles and pressure cooker handles are made of plastic or wood.'"
+        }
+      ],
+      "need": ["Learner's Book page 37", "3 spoons of similar length: steel, plastic, wooden", "3 beads or peppercorns and Vaseline", "a wide steel bowl", "a kettle or pan to boil water", "a timer"],
+      "prep": [{"task": "Find a steel, a plastic and a wooden spoon of about the same length", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Finding energy transfers",
+      "goal": "Fill in the energy transfer table on page 38, hunt for transfers at home, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Identify energy transfers (page 38)",
+          "mins": 10,
+          "do": "Do the 'Identify energy transfers' activity on page 38. Your child copies the table (Type of energy transferred, Where it comes from, Where it is transferred to) and fills it in for the four photos. Good answers: A girl kicking a football: movement energy, from her leg, to the ball. B man ironing: heat energy, from the hot iron, to the clothes (the iron gets it from electricity). C girl with headphones: sound energy, from the headphones, to her ears. D girl flying a kite: movement energy, from the moving air (wind), to the kite."
+        },
+        {
+          "kind": "act",
+          "title": "Home energy transfer hunt",
+          "mins": 12,
+          "do": "Do Activity a2. Your child finds and writes energy chains for six transfers in the house, with you watching any hot or electrical ones. Examples: gas flame → kadhai → oil → puri; Sun → clothes on the line (they dry); hand → bat → ball; hot dal → steel bowl → hands; geyser water → bucket → body; bell or doorbell → air → ears. For each, they draw an arrow chain and colour the arrows red for heat, yellow for light, blue for sound, green for movement.",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 15,
+          "do": "Give your child Worksheet ws1. They work alone first; read the questions aloud if needed. Check together. For any wrong answer about transfers, ask them to act it out with a real object (for example hold a warm tumbler) and try again.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "review",
+          "title": "How do you feel? (page 38)",
+          "mins": 8,
+          "do": "Ask the reflection questions on page 38: 'How do you feel about today's lesson? How did the practical work help you to learn?' Then read the 'Look what I can do!' list on page 38 aloud. Pick the item 'I can suggest how we can know if results are true' and discuss it: 'How could we be sure our steel spoon result is true?' (Repeat the test, get similar results each time, ask someone else to do it and see if they get the same.) Tick the items they can do."
+        }
+      ],
+      "need": ["Learner's Book page 38", "Worksheet ws1", "red, yellow, blue and green pencils"],
+      "prep": [{"task": "Print or copy Worksheet ws1", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Energy changes form",
+      "goal": "Learn from pages 39–40 that energy often changes form as it moves, as in a drum or a fan, and that some energy always escapes into the surroundings.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 39)",
+          "mins": 7,
+          "do": "Ask the Getting started questions on page 39. If you can, let your child cycle fast around the colony or run up and down the stairs for 3 minutes first. 1 'How would you feel after riding a bicycle fast for half an hour? Why?' (Hot, sweaty, tired, breathing hard, because the body is using up food energy and making heat.) 2 'Describe the energy transfer that makes the bicycle move.' (Food → my leg muscles → pedals → chain → wheels.) 3 'Name another form of energy that riding produces.' (Heat in my body, sound from the bell and wheels.)"
+        },
+        {
+          "kind": "read",
+          "title": "Energy can change form (page 40)",
+          "mins": 8,
+          "do": "Read page 40 aloud. Follow the numbered drum picture: 1 movement energy in the hand, 2 movement energy in the drum skin, 3 sound energy from the drum. Then let your child beat a steel thali with a spoon or play a dholak while resting a finger lightly on it; they will feel it buzzing. Ask: 'What changed into what?' (Movement energy into sound energy.) Read on: electrical energy; a fan changes electrical energy into movement energy, and some of that movement becomes sound that goes into the surroundings."
+        },
+        {
+          "kind": "do",
+          "title": "Appliance energy changes",
+          "mins": 15,
+          "do": "Go round the kitchen and house with your child. For each appliance, they write: electrical energy → useful form + wasted form. Mixer-grinder: → movement (useful) + sound and heat (wasted). Tubelight or LED bulb: → light + a little heat. Electric iron: → heat (useful). TV: → light and sound + heat. Phone charger: → stored energy in the battery + heat (feel the warm charger). Ceiling fan: → movement + sound + heat. Ask: 'How do you know some energy escapes as heat?' (The motor of the mixer feels warm after use.) Touch only after switching off."
+        },
+        {
+          "kind": "think",
+          "title": "Changes without plugs",
+          "mins": 10,
+          "do": "Ask your child to find energy changes that do not use electricity. Strike a matchstick (you do it): stored energy → heat and light. Clap: movement → sound. Rub a pencil eraser fast on paper and touch it: movement → heat. A cyclist's dynamo light, if you have one: movement → electrical → light. Diya: stored energy in oil → light and heat. Ask: 'In each one, is any energy going into the surroundings?' (Yes: heat into the air, sound into the room.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Useful and wasted",
+          "mins": 5,
+          "do": "Ask: 'Why are LED bulbs better than old yellow filament bulbs?' (Filament bulbs change most of the electrical energy into heat instead of light; LEDs change more of it into light, so they need less electricity for the same brightness and the bill is lower.) Ask your child to touch, carefully, an LED bulb that has been on (only slightly warm) and say what that tells them."
+        }
+      ],
+      "need": ["Learner's Book pages 39–40", "a steel thali and spoon, or a dholak", "matchbox (adult only), an eraser and paper", "household appliances (adult supervising)"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "The spinning spiral",
+      "goal": "Do the paper spiral investigation on page 41 to see light and heat energy become movement, and meet Julius Robert Mayer, who first said energy is never lost.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Make the paper spiral",
+          "mins": 8,
+          "do": "Draw a snail-shell spiral on a 15 cm circle of paper, with about 4 turns and lines 1.5 cm apart. Your child cuts along the line to make a spiral. Make a hole at the centre with a pencil, thread a thin string through it and tie a knot underneath so it hangs and opens out. Tie the other end to a pencil, as on page 41."
+        },
+        {
+          "kind": "exp",
+          "title": "Observe energy changes (page 41)",
+          "mins": 15,
+          "do": "Do Experiment e4, the 'Observe energy changes' investigation on page 41. The book uses a desk lamp turned to shine upwards. Most Indian homes now have LED bulbs that give very little heat; if yours is LED, use a filament or halogen lamp if you have one, or hold the spiral about 20 cm above a steel vessel of just-boiled water (the adult places it). Hold the spiral about 10 cm above a lamp, never touching. Ask the book's safety bullet: 'Suggest another way to work safely.' (Keep the paper away from the hot bulb, don't touch the bulb, adult handles hot water, switch off afterwards.) Your child observes and describes: the spiral slowly starts to turn.",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions on page 41",
+          "mins": 8,
+          "do": "Ask Questions 1–4 on page 41. 1 'A lamp gives off light. What other form of energy does it give off?' (Heat.) 2 'What form of energy did you see in the spiral?' (Movement.) 3a 'Describe the energy transfer.' (Heat energy moved from the lamp to the air above it and to the spiral.) 3b 'Describe the energy change.' (Electrical energy changed to light and heat in the lamp; heat made the air warm and rise, and the rising air made the spiral move, so heat became movement.) 4 'Two energy changes in appliances and the energy that escapes?' (A toaster: electrical → heat, with light from the red wires escaping; a speaker: electrical → sound, with heat escaping.)"
+        },
+        {
+          "kind": "think",
+          "title": "The ship's doctor who noticed",
+          "mins": 10,
+          "do": "Read Voice v2 about Julius Robert Mayer. Ask the voice question. Then ask: 'Mayer was a doctor, not a physicist. Should that matter when we judge whether his idea is right?' (No: what matters is the evidence and whether it can be tested.)",
+          "ref": "v2"
+        },
+        {
+          "kind": "do",
+          "title": "Draw the change",
+          "mins": 4,
+          "do": "Your child draws the lamp-and-spiral setup with arrows showing: electrical energy → lamp → light and heat → warm air rising → spiral turning. They write the word 'transfer' over arrows where energy moves between objects and 'change' where it becomes a different form."
+        }
+      ],
+      "need": ["Learner's Book page 41", "a sheet of paper, scissors, a pencil", "thin thread or string", "a lamp with a filament or halogen bulb, or a steel vessel of just-boiled water"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Where does the energy go?",
+      "goal": "Learn from page 42 that energy cannot be made or destroyed, only transferred and changed, test it with a bouncing ball and a cooling cup of chai, and do the stretch worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The shrinking bounce",
+          "mins": 12,
+          "do": "Do Experiment e5. Stick a strip of paper on the wall and mark it every 10 cm up to 1 metre. Drop a ball from the 1-metre mark (don't throw it). You watch at eye level and mark how high each bounce goes; your child records the first four bounce heights. Ask them to predict first: 'Will it bounce back to 1 metre?' Each bounce is lower. Ask: 'Has the energy been used up? Where did it go?' (Some went into sound each time it hit the floor, and some into heat in the ball and floor; it spread into the surroundings.)",
+          "ref": "e5"
+        },
+        {
+          "kind": "read",
+          "title": "Where does the energy go? (page 42)",
+          "mins": 8,
+          "do": "Read page 42 aloud: sometimes it seems energy is used up, but it is not; energy cannot be used up or destroyed; it can only be transferred and change form; a cup of hot tea cools because its heat moves into the surroundings; we cannot make energy either. Ask the page 42 questions: 1 'Why does it sometimes seem energy is used up? Give an example.' (Because we can't see where it went, like the bouncing ball stopping or chai going cold.) 2 'If it is not used up, where does it go?' (Into the surroundings, mostly as heat and sound, spread out thinly.)"
+        },
+        {
+          "kind": "think",
+          "title": "Chai cooling check",
+          "mins": 5,
+          "do": "Pour a cup of hot chai or hot water and put a second empty cup beside it. Every 2 minutes during the next activity, your child touches the outside of the cup and the air just above it, and says 'very hot / warm / cool'. Ask: 'Did the room get warmer?' (Yes, a tiny bit, but the heat spread through so much air that we can't feel it.) Ask: 'Is a cool cup of chai's heat destroyed?' (No; it is in the room now.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 15,
+          "do": "Give your child Worksheet ws2. It asks them to apply transfers and changes to new situations, including a fair test plan. Let them work for 12 minutes, then go through the answers. For the fair test question, ask them to say aloud what changes, what stays the same and what is measured.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "review",
+          "title": "Reflection (page 42)",
+          "mins": 5,
+          "do": "Ask the questions on page 42: 'What did you learn about energy changes? What did you find difficult? What would you like to know more about?' Write down their 'want to know' question and look for the answer together this week. Read and tick the 'Look what I can do!' list on page 42."
+        }
+      ],
+      "need": ["Learner's Book page 42", "a rubber or tennis ball", "a strip of paper, tape and a marker", "a metre ruler or measuring tape", "a cup of hot chai or water", "Worksheet ws2"],
+      "prep": [{"task": "Print or copy Worksheet ws2", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Energy and living things",
+      "goal": "Learn from pages 43–44 why living things need energy, that plants are producers and animals are consumers, and the words herbivore, carnivore, omnivore, predator and prey.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Getting started (page 43)",
+          "mins": 5,
+          "do": "Ask the Getting started questions on page 43. 1 'Why do our bodies need energy?' (To move, grow, breathe, keep warm, think, heal.) 2 'Do all living things need energy?' (Yes, even plants and tiny insects.) 3 'Where do they get it?' (Animals from food; plants from sunlight.) Read out the key words in the box and add them to the word list."
+        },
+        {
+          "kind": "read",
+          "title": "Living things need energy (pages 43–44)",
+          "mins": 10,
+          "do": "Read pages 43 and 44 aloud. Stop at 'producers' and ask: 'Why are plants called producers?' (They make, or produce, their own food using light energy from the Sun.) Tell them, honestly, that algae (the green stuff in ponds) and some tiny bacteria can also make food from sunlight. Stop at 'consumers' and ask why animals are called consumers (they must eat plants or other animals). Then read herbivores (zebra, snail), carnivores (tiger, owl), predators and prey (owl and mouse), and omnivores (monkeys). Add Indian examples: herbivore cow, goat, nilgai; carnivore tiger, snake, kingfisher; omnivore crow, bear, most people."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions on page 44",
+          "mins": 8,
+          "do": "Ask Questions 1–3 on page 44. 1 Why are plants called producers? 2 Why are animals called consumers? 3a 'Difference between predators and prey, with an example?' (The predator hunts and eats; the prey is hunted and eaten: a cat and a mouse, a kingfisher and a fish.) 3b 'How are predators and prey similar?' (Both are consumers and animals; both need energy from food; a frog can be both predator of insects and prey of snakes.) 3c 'Can a herbivore be a predator?' (No, because a predator kills and eats animals and a herbivore eats only plants.)"
+        },
+        {
+          "kind": "think",
+          "title": "Kamala Sohonie and energy in cells",
+          "mins": 10,
+          "do": "Read Voice v3 about Kamala Sohonie. Ask the voice question. Then ask: 'Sohonie found the same energy helper in every kind of plant cell she tested. What does that tell us about plants and animals?' (They use very similar chemistry to get energy out of food; living things are related.)",
+          "ref": "v3"
+        },
+        {
+          "kind": "game",
+          "title": "Consumer sort game",
+          "mins": 12,
+          "do": "Write 16 living things on slips: mango tree, grass, rice plant, cow, goat, caterpillar, elephant, tiger, snake, eagle, kingfisher, frog, crow, bear, human, sparrow. Your child sorts them into Producer, Herbivore, Carnivore, Omnivore. Then pick out pairs and ask 'predator or prey?' (snake and frog: snake is predator; frog and insect: frog is predator). Point out that one animal can be both. Discuss sparrow (eats grains and insects: omnivore) and vegetarian people (herbivore by choice, but human bodies can digest both). Keep the slips for tomorrow."
+        }
+      ],
+      "need": ["Learner's Book pages 43–44", "16 paper slips and a pen"],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Food chains",
+      "goal": "Learn from pages 45–46 how food chains show energy moving from producers to consumers, draw them correctly, and meet the scientist who first measured energy in a food chain.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Food chains (page 45)",
+          "mins": 8,
+          "do": "Read 'Food chains' on page 45 aloud. Look at food chain 1 (corn and hen) and ask your child to identify the producer and the consumer in food chain 2 from the picture. Make sure they understand the arrow: it points FROM what is eaten TO what eats it, showing the direction energy moves. Write corn → hen → boy. Ask: 'Why does the arrow point to the hen, not to the corn?' (The energy goes from the corn into the hen when the hen eats it.) Most children draw it the wrong way at first, so check carefully."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions on page 45",
+          "mins": 7,
+          "do": "Use the list on page 45: tiger, palm tree, snail, crocodile, rice plant, cow, person. 1a Producers? (Palm tree, rice plant.) 1b Consumers? (Tiger, snail, crocodile, cow, person.) 2a Herbivores? (Snail, cow.) 2b Carnivores? (Tiger, crocodile.) 3 'Which is an omnivore, and why?' (The person, because people can eat plants like rice and animals like fish.)"
+        },
+        {
+          "kind": "do",
+          "title": "Draw food chains (page 46)",
+          "mins": 10,
+          "do": "Do 'Think like a scientist: Draw food chains' on page 46. 1a tomato → bird → cat. 1b rice plant → grasshopper → frog → snake. 2 Draw a food chain with a person as the second consumer, for example grass → goat → person, or grass → cow → (milk) → person. 3 Describe the energy transfers: 'Energy from the Sun is stored in the grass; the goat eats the grass and gets the energy; the person eats ... and gets the energy.' Remind them the chain always starts with a producer, and the Sun's energy is where it all begins."
+        },
+        {
+          "kind": "think",
+          "title": "Raymond Lindeman's lake",
+          "mins": 8,
+          "do": "Read Voice v4 about Raymond Lindeman. Ask the voice question. Then ask: 'If only a small part of the energy passes to each next link, why are there far fewer tigers than deer in a forest?' (Most of the deer's energy has gone into moving, keeping warm and living, so there is only a little left over for tigers; a tiger needs to eat many deer.)",
+          "ref": "v4"
+        },
+        {
+          "kind": "act",
+          "title": "Food chain paper chain",
+          "mins": 12,
+          "do": "Do Activity a3. Using strips of paper, your child makes a paper chain for an Indian food chain: Sun (yellow) → grass (green) → grasshopper → frog → snake → eagle. Each loop has the living thing drawn and labelled, plus 'producer' or 'consumer' and herbivore, carnivore or omnivore. Hang it up. Ask: 'What happens to the frogs if the snakes are all killed?' (Frogs increase, then grasshoppers decrease, then grass grows more.) Then make a second chain from your kitchen: Sun → wheat → roti → me.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Learner's Book pages 45–46", "coloured paper strips (about 2 cm by 20 cm), glue or tape", "colour pencils", "the slips from Day 9"],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Project: how is our electricity made?",
+      "goal": "Do the page 47 project: research how electricity reaching your home is made, how energy changes on the way, and how it affects the environment.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Project introduction (page 47)",
+          "mins": 7,
+          "do": "Read page 47 aloud: most electricity comes from power stations; a power station needs a source of energy; in many countries it is burning coal, which is a fuel that stores energy; other sources are fast-moving water, sunlight, nuclear material and natural gas. Tell them that in India most electricity still comes from burning coal, and a growing share comes from the Sun (for example the huge Bhadla solar park in Rajasthan), wind (Tamil Nadu, Gujarat), dams (Bhakra Nangal) and nuclear power (Tarapur, Kudankulam)."
+        },
+        {
+          "kind": "act",
+          "title": "Research our electricity",
+          "mins": 20,
+          "do": "Do Activity a4. Take out your latest electricity bill. Together find: the name of the electricity company, the units used (kWh) and the amount in ₹. Then answer the page 47 questions by talking to someone (an uncle who is an engineer, the electricity office, a neighbour with rooftop solar) or by looking on the company's or the state's website together: What source of energy is used to make our electricity? How does the energy change? (Coal: stored energy → heat → steam → turning turbine (movement) → electrical. Solar panel: light → electrical. Dam: moving water → turning turbine → electrical.) What are the steps? How does it reach our home? (Power station → high-voltage pylons → substation → poles or underground cables → meter → switchboard.) Your child writes the answers in the notebook.",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Good and bad for the environment (page 47, Question 2)",
+          "mins": 10,
+          "do": "Discuss Question 2 on page 47: 'How does making electricity help or harm the environment?' Help: lights, fans, hospitals, pumps for farms. Harm: burning coal makes smoke and ash that dirty the air and adds carbon dioxide that warms the Earth; mining coal digs up forests; big dams flood villages and forests; solar parks use lots of land. Ask: 'What can our family do?' (Switch off fans and lights when leaving a room, use LED bulbs, dry clothes in the sun, not in a dryer.) Ask your child to look at the bill: 'If we save 10 units a month, how much money do we save?' (Use the rate per unit on the bill.)"
+        },
+        {
+          "kind": "do",
+          "title": "Make the poster",
+          "mins": 8,
+          "do": "Your child starts a poster titled 'How electricity reaches our home', with a drawn energy chain from the source to the fan in their room, and three tips to save electricity. They can finish colouring it later. Put it up near the main switchboard."
+        }
+      ],
+      "need": ["Learner's Book page 47", "your latest electricity bill", "chart paper and colour pens", "phone or computer to look up your electricity company (with an adult)"],
+      "prep": [{"task": "Find the latest electricity bill and, if possible, arrange a call with someone who works in power or has rooftop solar", "when": "2 days before"}]
+    },
+    {
+      "n": 12,
+      "title": "Check your progress and teach it back",
+      "goal": "Answer the 'Check your progress' questions on page 48, do the challenge worksheet, check understanding and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (page 48)",
+          "mins": 12,
+          "do": "Do the questions on page 48 aloud. Q1 matching: energy = anything that can cause movement or carry out an action; transfer = when something moves from one thing or place to another; food chain = a drawing that shows how energy moves from one living thing to another; producer = gets energy from food it makes itself; consumer = gets energy from eating other living things. Q2 pictures: girl playing a stringed instrument: movement → sound; phone: electrical (stored in the battery) → light and sound; hot-air balloon: heat from the burner warms the air, which rises and lifts the balloon (heat → movement). Q3a: leaf → caterpillar → bird; grass → rabbit → eagle; seeds → beetle → lizard → snake. Q3b: the arrows show the direction energy is transferred. Q4: bird and caterpillar, eagle and rabbit, lizard and beetle, snake and lizard."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Give your child Worksheet ws3. It has puzzles, 'what if' questions and questions comparing the voices. Encourage them to think aloud and use the words transfer, change and surroundings in every answer.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, without the book. Tick each one answered well. For missed answers, look again at the matching pages (energy around us 31–34, transfers 35–38, changes 39–42, living things 43–46) for one minute, then ask in different words. Five or more right means ready to move on; fewer means redo the Day 3 spoon test and the Day 10 food chain drawing."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher. In 6 minutes, using the firki, the spoon, the spiral, the bouncing ball and the food chain paper chain, they teach you: what energy is and its forms; one transfer and one change, with energy chains; why energy is never used up; and a food chain with producer and consumers. Ask two 'student' questions: 'When the fan is switched off and stops, where did its movement energy go?' and 'Where did the energy in your breakfast roti first come from?' (The Sun.)"
+        }
+      ],
+      "need": ["Learner's Book page 48", "Worksheet ws3", "the firki, spoon, spiral, ball and paper chain from earlier days"],
+      "prep": [{"task": "Print or copy Worksheet ws3", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Energy around us and energy transfers",
+      "day": 5,
+      "sections": [
+        ["A. Forms of energy", [
+          {"t": "match", "p": "Match each thing to the main form of energy it gives out.", "pairs": [["The Sun", "Light and heat"], ["A ringing temple bell", "Sound"], ["A spinning top", "Movement"], ["A hot iron", "Heat"]]},
+          {"t": "fill", "p": "Energy is anything that can cause ____ or carry out an action.", "a": ["movement", "motion"]},
+          {"t": "mcq", "p": "Where do we get our energy from?", "opts": ["From sleeping", "From the food we eat", "From the air only", "From water only"], "a": 1}
+        ]],
+        ["B. Transfers and energy chains", [
+          {"t": "fill", "p": "When energy moves from one object to another we call it an energy ____.", "a": ["transfer"]},
+          {"t": "write", "p": "Write an energy chain for hot dal making a steel bowl warm.", "lines": 2},
+          {"t": "mcq", "p": "A cup of hot chai left on the table goes cold. What happened to the heat energy?", "opts": ["It was used up", "It was destroyed", "It moved into the cup and the surrounding air", "It turned into chai"], "a": 2},
+          {"t": "table", "p": "Fill in the table.", "cols": ["Picture", "Type of energy transferred", "Comes from", "Transferred to"], "rows": 3, "prefill": ["Batsman hits a ball", "Gas flame heats a pan", "Whistle of pressure cooker"]}
+        ]],
+        ["C. Fair test", [
+          {"t": "mcq", "p": "In the spoon test, which thing should we CHANGE?", "opts": ["The amount of hot water", "The material of the spoon", "The size of the bead", "Everything"], "a": 1},
+          {"t": "write", "p": "Name two things we kept the same in the spoon test, and say why.", "lines": 3},
+          {"t": "fill", "p": "A ____ is what you found out in an investigation.", "a": ["conclusion"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Changes, wasted energy and new cases",
+      "day": 8,
+      "sections": [
+        ["A. Energy changes in appliances", [
+          {"t": "table", "p": "For each appliance, write the useful energy and the wasted energy.", "cols": ["Appliance", "Energy in", "Useful energy out", "Wasted energy out"], "rows": 4, "prefill": ["Mixer-grinder", "Ceiling fan", "Television", "Phone charger"]},
+          {"t": "mcq", "p": "An old filament bulb gets very hot. An LED bulb is only slightly warm. Which is better at changing electrical energy into light?", "opts": ["The filament bulb", "The LED bulb", "They are the same", "Neither gives light"], "a": 1}
+        ]],
+        ["B. Where did it go?", [
+          {"t": "write", "p": "Priya spins a top. After a while it slows and falls. She says 'Its energy is finished.' Is she right? Where did the energy go?", "lines": 3},
+          {"t": "sort", "p": "Sort these into energy transfer (energy moves, same form) or energy change (energy becomes a different form).", "items": ["Hot water warms a spoon", "A fan turns when switched on", "Sunlight warms your arm", "A drum makes a sound when hit", "A solar panel lights a lamp", "Rubbing hands makes them warm"], "cats": ["Transfer", "Change"]}
+        ]],
+        ["C. Plan a fair test", [
+          {"t": "write", "p": "Kabir thinks a steel tumbler of hot water cools faster than a clay kulhad of hot water. Write the question he should test.", "lines": 2},
+          {"t": "table", "p": "Plan his fair test.", "cols": ["What I will change", "What I will keep the same", "What I will measure"], "rows": 1},
+          {"t": "write", "p": "Name one danger in his test and how to stay safe.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Energy puzzles and comparing ideas",
+      "day": 12,
+      "sections": [
+        ["A. Food chain puzzles", [
+          {"t": "write", "p": "Put these in order to make a food chain and draw the arrows: snake, grass, eagle, grasshopper, frog.", "lines": 2},
+          {"t": "write", "p": "In a pond, fish eat water insects and water insects eat algae. All the fish are caught. What might happen to the insects and then to the algae? Explain.", "lines": 4},
+          {"t": "mcq", "p": "Why are there fewer tigers than deer in a forest?", "opts": ["Tigers are lazy", "Most of the energy in a deer is used for living and lost as heat, so little passes on to tigers", "Deer eat tigers", "Tigers don't need energy"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if energy could be destroyed? What would happen to the Sun's energy reaching Earth over millions of years? Would there still be food chains?", "lines": 4},
+          {"t": "write", "p": "Trace the energy in a bowl of curd all the way back to where it started. Use at least four arrows.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Scientists once thought heat was an invisible fluid called caloric. How did Rumford's cannon test argue against that idea?", "lines": 3},
+          {"t": "write", "p": "Mayer and Lindeman both had important ideas that were ignored or nearly rejected. What do their stories teach us about how new ideas are treated in science?", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Flick the ball (Book activity, page 33)",
+      "day": 2,
+      "question": "What happens to a ball when we give it more energy?",
+      "need": ["a ping-pong ball or a ball of crumpled paper", "a smooth floor or long table", "chalk or bindis to mark positions"],
+      "steps": [
+        "Place the ball on a start line.",
+        "Flick it gently with one finger and mark where it stops.",
+        "Predict what will happen if you flick it harder, and write the prediction.",
+        "Flick harder three times, marking each stopping point.",
+        "Compare the distances and decide if the results support the prediction."
+      ],
+      "predict": "Ask your child to guess first: if you flick harder, will the ball go further, the same distance or less far? Why?",
+      "observe": "A harder flick makes the ball move faster and stop further away. Results may vary a little between flicks, so look at all three.",
+      "why": "The finger is moving, so it has movement energy. When it hits the ball, energy is transferred to the ball, which starts to move. A harder flick transfers more energy, so the ball moves faster and further. The ball slows and stops because, as it rolls, its energy is gradually transferred to the floor and air as a tiny amount of heat and sound (friction). The energy is not lost; it is spread out into the surroundings.",
+      "safety": "",
+      "time": "12 min"
+    },
+    {
+      "id": "e2",
+      "title": "The falling bead (Book activity, page 36)",
+      "day": 3,
+      "question": "Can heat energy travel from hot water along a metal spoon?",
+      "need": ["a long steel spoon", "a small bead or black peppercorn", "Vaseline or a little ghee", "a steel tumbler", "just-boiled water (adult pours)", "a timer"],
+      "steps": [
+        "Put a small dab of Vaseline near the end of the spoon handle and press the bead into it.",
+        "The adult pours just-boiled water into the tumbler.",
+        "Stand the spoon in the water with the bead end up, and start the timer.",
+        "Watch the bead and note the time when it slides off.",
+        "Draw an energy chain for what happened."
+      ],
+      "predict": "Ask your child to guess first: will the bead fall off? If so, after how long: 10 seconds, 1 minute or 5 minutes?",
+      "observe": "After a minute or a few minutes, the Vaseline softens and the bead slides off. The spoon handle feels warm (touch carefully).",
+      "why": "Hot water has a lot of heat energy because its tiny particles are moving fast. Where the steel touches the water, its particles start to jiggle faster, and they pass the jiggling on to their neighbours, all the way up the handle. This is called conduction. When the heat reaches the Vaseline, it melts and can no longer hold the bead. Metals conduct heat very well; the energy chain is hot water → spoon → Vaseline, with some heat also going into the air.",
+      "safety": "An adult pours the hot water. Keep the tumbler on a flat steady surface and keep faces and hands back. Read the warning on page 36 aloud.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Zara's spoon fair test (Book 'Think like a scientist 2', page 37)",
+      "day": 4,
+      "question": "Does the material of a spoon change how quickly heat travels along it?",
+      "need": ["steel, plastic and wooden spoons of similar length", "3 beads or peppercorns", "Vaseline", "a wide steel bowl", "just-boiled water (adult pours)", "a timer", "paper for a results table"],
+      "steps": [
+        "Stick a bead to each spoon with the same-sized dab of Vaseline at the same distance from the end.",
+        "Stand all three spoons in the empty bowl, beads at the top, leaning evenly on the rim.",
+        "The adult pours in just-boiled water to the same depth for all spoons. Start the timer at once.",
+        "Record the time each bead falls, for up to 10 minutes.",
+        "Repeat if you have time, to check the results."
+      ],
+      "predict": "Ask your child to guess first: in what order will the beads fall? Will any not fall at all?",
+      "observe": "The bead on the steel spoon falls first, usually within a few minutes. The plastic and wooden beads often do not fall within 10 minutes. Record 'did not fall' if so.",
+      "why": "Materials let heat pass through them at very different rates. Metals are good conductors of heat: their particles pass on energy quickly, and they also contain tiny free-moving charged particles (electrons) that carry energy fast. Plastic and wood are poor conductors, called insulators. This is a fair test because only the material changed; everything else, like the water temperature and spoon length, was kept the same, so we can say the material caused the difference. This is why pan handles are wood or plastic, and why Zara's plastic spoon stayed cool.",
+      "safety": "Adult pours the hot water. Keep the bowl on a steady surface away from the table edge.",
+      "time": "15 min"
+    },
+    {
+      "id": "e4",
+      "title": "The spinning spiral (Book activity, page 41)",
+      "day": 7,
+      "question": "Can heat from a lamp make something move?",
+      "need": ["a paper spiral cut from a 15 cm circle", "thin string", "a pencil", "a lamp with a filament or halogen bulb turned upwards, or a steel vessel of just-boiled water"],
+      "steps": [
+        "Make a hole in the centre of the spiral, thread the string through and knot it.",
+        "Tie the other end of the string to a pencil.",
+        "Turn the lamp so it shines upwards and switch it on for a few minutes.",
+        "Hold the spiral about 10 cm above the lamp (20 cm above hot water). Do not let it touch.",
+        "Watch for at least a minute and describe what happens."
+      ],
+      "predict": "Ask your child to guess first: will the spiral move? If yes, which way and why?",
+      "observe": "After a few seconds the spiral starts to turn slowly and keeps turning while held over the heat. Away from the heat it stops.",
+      "why": "The lamp changes electrical energy into light and heat. The heat warms the air above it. Warm air is lighter (less dense) than the cool air around it, so it rises, just like smoke rises from an agarbatti. The rising air pushes against the slanted paper of the spiral and makes it turn. So heat energy has changed into movement energy. Some energy also escapes into the room as light and heat; it is transferred to the surroundings, not destroyed.",
+      "safety": "Never let the paper touch the bulb. Do not touch the bulb; filament and halogen bulbs get very hot. An adult handles hot water. Switch the lamp off afterwards.",
+      "time": "15 min"
+    },
+    {
+      "id": "e5",
+      "title": "The shrinking bounce",
+      "day": 8,
+      "question": "If energy is never used up, why does a bouncing ball bounce lower each time?",
+      "need": ["a rubber or tennis ball", "a strip of paper taped to the wall marked every 10 cm up to 1 metre", "a pencil and notebook"],
+      "steps": [
+        "Hold the ball at the 1-metre mark and let go without pushing.",
+        "An adult watches at eye level and calls out the height of the first bounce.",
+        "Record the heights of the first four bounces.",
+        "Repeat twice and find the usual heights."
+      ],
+      "predict": "Ask your child to guess first: will the ball bounce back up to 1 metre? How high will the fourth bounce be?",
+      "observe": "Each bounce is lower than the one before, for example 70 cm, 50 cm, 35 cm, 25 cm for a tennis ball. You hear a sound each time it hits the floor.",
+      "why": "When the ball is held up it has stored energy because of its height. As it falls this becomes movement energy. When it hits the floor, the ball squashes and springs back, but each squash changes some energy into sound (the thud you hear) and heat (the ball and floor warm up a tiny bit). So less energy is left to lift the ball back up. The energy is not destroyed; it has spread out into the surroundings as sound and heat, which is exactly what page 42 says.",
+      "safety": "Do this away from glass, fans and lamps.",
+      "time": "12 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Paper firki (pinwheel)",
+      "day": 2,
+      "mins": 16,
+      "need": ["a 15 cm square of stiff paper", "a pin", "a pencil with an eraser, or a straw", "a table fan"],
+      "steps": [
+        "Draw both diagonals on the square. Cut along each diagonal from the corner towards the centre, stopping about 2 cm from the centre.",
+        "Bend every other corner point into the centre without creasing (four points).",
+        "Push the pin through all four points and the centre, then into the pencil eraser or the side of a straw. The adult helps with the pin.",
+        "Test by blowing gently and hard, and in front of a fan on low and high.",
+        "Record which made it spin fastest."
+      ],
+      "outcome": "A working pinwheel and the evidence that moving air has energy: the faster the air, the more energy it has and the faster the firki spins, just like a wind turbine."
+    },
+    {
+      "id": "a2",
+      "title": "Home energy transfer hunt (Book activity, page 38, extended)",
+      "day": 5,
+      "mins": 12,
+      "need": ["notebook", "red, yellow, blue and green pencils"],
+      "steps": [
+        "Find six energy transfers at home (an adult watches near anything hot or electrical).",
+        "For each, write an energy chain with arrows.",
+        "Colour the arrows: red heat, yellow light, blue sound, green movement.",
+        "Choose your favourite and explain it to a family member."
+      ],
+      "outcome": "A page of six colour-coded energy chains from your own home."
+    },
+    {
+      "id": "a3",
+      "title": "Food chain paper chain",
+      "day": 10,
+      "mins": 12,
+      "need": ["paper strips about 2 cm by 20 cm in different colours", "glue or tape", "colour pencils"],
+      "steps": [
+        "On a yellow strip draw the Sun. On a green strip draw grass.",
+        "On more strips draw grasshopper, frog, snake and eagle.",
+        "Write producer or consumer, and herbivore, carnivore or omnivore, on each strip.",
+        "Join the loops in order so the chain hangs from the Sun down to the eagle.",
+        "Make a second chain from your own food: Sun → wheat → roti → me."
+      ],
+      "outcome": "A hanging food chain that shows energy passing from the Sun through a producer to consumers."
+    },
+    {
+      "id": "a4",
+      "title": "How electricity reaches our home (Book project, page 47)",
+      "day": 11,
+      "mins": 20,
+      "need": ["your electricity bill", "an adult to help search or a person to interview", "notebook", "chart paper and colour pens"],
+      "steps": [
+        "Find the electricity company name, units used and amount on the bill.",
+        "Find out the main energy source for your state's electricity.",
+        "Write the energy changes from source to your switch.",
+        "Draw the path: power station → pylons → substation → poles or cables → meter → home.",
+        "Discuss how this helps and harms the environment, and add three ways to save electricity.",
+        "Make a poster and put it near the main switchboard."
+      ],
+      "outcome": "A poster showing where your home's electricity comes from, the energy changes on the way, and how your family can use less."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "The caloric theory (Antoine Lavoisier and others, 1780s) and Count Rumford's cannon test (1798)",
+      "idea": "In the late 1700s many leading scientists, including the great French chemist Antoine Lavoisier, thought heat was an invisible, weightless fluid called 'caloric' that flowed out of hot things into cold things, and that an object only had a fixed amount of it to give. Benjamin Thompson, known as Count Rumford, was in charge of making cannons in Munich, where the barrels were bored out of solid metal by a drill turned by horses. He noticed that the boring made so much heat that it could boil water, and that it went on making heat as long as the horses kept working. In 1798 he argued that heat could not be a stored fluid, because the supply seemed to have no end; instead heat must be a kind of motion.",
+      "then": "Many scientists were not persuaded and the caloric idea stayed popular for about 50 more years, because it explained many things, such as heat flowing from hot to cold, quite well.",
+      "now": "The caloric theory has been rejected. In the 1840s experiments, especially by James Joule, showed that a fixed amount of movement always makes the same amount of heat. Heat is now understood as energy, connected to the jiggling of particles, and energy can be transferred and changed but not made or destroyed.",
+      "status": "rejected",
+      "ask": "The caloric idea explained why hot chai cools down. Why was that not enough to prove it true? What observation did Rumford make that it could not explain?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Julius Robert Mayer (1814–1878), Germany",
+      "idea": "Mayer was a young doctor on a Dutch ship sailing to Java (in today's Indonesia) in 1840. When he let blood from sailors' veins in the hot tropics, as doctors then did, he was surprised that it was brighter red than in Europe. He reasoned that in a hot place the body needs to 'burn' less of its food to keep warm, so less oxygen is used up from the blood. This led him to the big idea that heat and movement are two forms of one thing, and that it can change form but never be created or destroyed. He published it in 1842.",
+      "then": "Mayer was not a trained physicist and his writing was hard to follow, so most scientists ignored him. Others, including James Joule in England, reached similar ideas with careful experiments, and there were bitter arguments about who was first. Mayer suffered great distress and became ill.",
+      "now": "The law that energy cannot be made or destroyed (scientists call it the conservation of energy) is one of the most tested ideas in all of science. Mayer is now honoured as one of its discoverers, and the Royal Society in London awarded him its Copley Medal in 1871.",
+      "status": "accepted",
+      "ask": "Mayer got his big idea from one surprising observation. Was one observation enough to prove it? What other evidence would you want to see?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Kamala Sohonie (1912–1998), India",
+      "idea": "Kamala Sohonie studied the chemistry of living things. Working at Cambridge University in England in the late 1930s, she found that every plant cell she studied contains cytochrome C, a substance that helps cells release energy from food. This showed that plants use the same kind of energy machinery inside their cells as animals do. In 1939 she became the first Indian woman to earn a PhD in a science subject. Back in India she studied the nutrition of foods eaten by poor families, and showed that 'neera', the sweet sap of the palm tree, is rich in vitamins.",
+      "then": "In 1933, when she applied to the Indian Institute of Science in Bangalore, the director C.V. Raman, himself a Nobel Prize winner, at first refused to admit her because she was a woman. She insisted, was admitted on trial, and did so well that the institute began to admit more women.",
+      "now": "Her finding about cytochrome C is accepted: it is found in the cells of plants, animals and many other living things, and is part of how all of them get energy from food. She is honoured today as a pioneer for Indian women in science.",
+      "status": "accepted",
+      "ask": "Raman thought a woman could not do the work, and Sohonie proved him wrong with her results. Why is it important to judge a scientist by their evidence, not by who they are?",
+      "day": 9
+    },
+    {
+      "id": "v4",
+      "who": "Raymond Lindeman (1915–1942), USA",
+      "idea": "Lindeman spent years studying a small bog lake in Minnesota, measuring the plants, the tiny animals that ate them, and the fish and other animals that ate those. He wrote that a food chain is really a path along which energy flows, and he tried to measure how much of the energy at each link passes on to the next. He found that only a small part passes up each step; most is used for living and given off as heat.",
+      "then": "When he sent his paper to the journal 'Ecology', the reviewers recommended that it be rejected, saying it was too theoretical and based on too little data. His teacher, G. Evelyn Hutchinson, argued strongly for it, and it was published in 1942, a few months after Lindeman died of illness aged only 27.",
+      "now": "His paper is now one of the most famous in ecology. The idea that energy flows along food chains and much of it is lost as heat at each link is accepted and taught everywhere. It explains why there are many more plants than plant-eaters, and far fewer big predators like tigers.",
+      "status": "accepted",
+      "ask": "Reviewers said Lindeman had too little data. When is it right for a journal to say 'we need more evidence', and when might it stop a good idea?",
+      "day": 10
+    }
+  ],
+  "check": [
+    {"q": "What is energy? Name four forms of energy.", "a": "Energy is anything that can cause movement or carry out an action or change. Forms include movement, heat, light, sound and electrical energy (and energy stored in food and fuels)."},
+    {"q": "What is an energy transfer? Give an example as an energy chain.", "a": "When energy moves from one object to another. Example: hot water → steel spoon → surrounding air, or Sun → clothes on the line."},
+    {"q": "In Zara's spoon test, what did we change, what did we keep the same, and what did we measure?", "a": "Changed: the spoon material. Kept the same: spoon length, bead, amount of Vaseline, water temperature and amount, starting time. Measured: the time for each bead to fall."},
+    {"q": "Describe the energy changes in a ceiling fan.", "a": "Electrical energy changes into movement energy of the blades (useful), and some changes into sound and heat that go into the surroundings."},
+    {"q": "A cup of hot chai goes cold. Has its energy been used up? Explain.", "a": "No. Energy cannot be used up, made or destroyed. The heat has been transferred from the chai to the cup and into the surrounding air, where it is spread out so thinly that we do not notice it."},
+    {"q": "Why are plants called producers and animals called consumers?", "a": "Plants make their own food using light energy from the Sun. Animals cannot make food; they must eat (consume) plants or other animals to get energy."},
+    {"q": "Draw a food chain with four living things and say what the arrows show.", "a": "For example rice plant → grasshopper → frog → snake. It starts with a producer, and the arrows point from the eaten to the eater, showing the direction in which energy is transferred."}
+  ]
+}

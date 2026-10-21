@@ -1,0 +1,500 @@
+{
+  "key": "nios|sci|3|1",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 1,
+  "title": "Concept of Family and Interpersonal Relations",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 1 (pages 1–13), 2016",
+  "summary": "A family is the smallest unit of society and a child's first school. Your child meets Rekha's joint family and her later nuclear family, learns what keeps family relations strong and what parents owe their children, and looks honestly at how girls and women, elders and people with disabilities are treated, and what laws and schemes in India do about it.",
+  "goals": [
+    "By the end your child can explain what a family is, tell a joint family from a nuclear family, and give one strength and one weakness of each.",
+    "By the end your child can name at least four things that keep family relations strong (respect, responsibility, not hurting feelings, helping, talking out differences).",
+    "By the end your child can list the responsibilities of parents or guardians: health, vaccination, good food, education for girls and boys alike, no child labour, a voice in decisions, and good values.",
+    "By the end your child can describe, with evidence from a home survey, how girls and boys are sometimes treated differently, and name laws and schemes that work for equality.",
+    "By the end your child can say why elders and people with disabilities deserve respect, and explain how Braille and sign language let people read and talk.",
+    "By the end your child can explain that thinkers like Savitribai Phule and Louis Braille were opposed at first and proved right later."
+  ],
+  "words": [
+    ["family", "a group of people related by birth, marriage or adoption who care for one another; the smallest unit of society"],
+    ["society", "all the families and people living together in a place, sharing rules and helping each other"],
+    ["generation", "one step in a family line: grandparents are one generation, parents the next, children the next"],
+    ["joint family", "a family where several generations, such as grandparents, their sons, the sons' wives and their children, live together and share one kitchen"],
+    ["nuclear family", "a family of only husband, wife and their unmarried children living on their own"],
+    ["guardian", "a grown-up who takes the place of a parent and is responsible for a child"],
+    ["responsibility", "a job or duty that you are trusted to do for others"],
+    ["vaccination", "an injection or drops that teach the body to fight a disease before you catch it, such as polio drops"],
+    ["dowry", "money or goods demanded from a bride's family at marriage; it has been against the law in India since 1961"],
+    ["discrimination", "treating someone unfairly because of who they are, for example because she is a girl"],
+    ["Braille", "a way of reading and writing with raised dots that people who cannot see read with their fingertips"],
+    ["sign language", "a full language made of hand shapes, movements and face expressions, used by people who cannot hear"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Who is in my family?",
+      "goal": "Start from your child's own home, read what a family is, and draw the family tree that the book's Exercise 1 asks for.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Who ate with us yesterday?",
+          "mins": 5,
+          "do": "At the start, ask your child: 'Who ate dinner in our home last night? Who cooked? Who is family but lives somewhere else?' Let them count on their fingers. Good answers name people and relations: 'Papa, Mumma, Dadi, me and my brother; Nana-Nani live in Jaipur.' If they forget someone far away, ask, 'Is Bua part of our family even though she lives in another city?' (Yes: family is about relation, not only about one house.)"
+        },
+        {
+          "kind": "read",
+          "title": "A man does not live alone (pages 1–2)",
+          "mins": 8,
+          "do": "Read aloud the opening on page 1 and section 1.1 'What is a Family?' up to the line about family businesses on page 2. Explain the hard words as you go: 'unit' means one small piece that bigger things are built from, like one brick in a wall; 'generation' means one step in the family line. Ask: 'The book says a family is a child's first school. What have you learnt at home that nobody taught you at school?' Good answers: how to eat with a spoon or hand, prayers, words of our language, washing hands, saying namaste, which foods we like. Ask: 'Can a family teach a bad habit too?' (Yes, the book says good or bad habits both come from home, for example shouting or wasting food.)"
+        },
+        {
+          "kind": "act",
+          "title": "Draw our family tree",
+          "mins": 17,
+          "do": "Do Activity a1. On a large sheet, help your child draw a tree with roots, trunk and branches. Grandparents (both sides) go near the trunk, parents and uncles and aunts on the branches, children on the twigs. Under each name write the relation in English and your home language (Dadi = father's mother, Nani = mother's mother, Chacha = father's younger brother, Mama = mother's brother, Bua = father's sister, Mausi = mother's sister). Ask: 'How many generations are on our tree?' (Usually three or four.) Let your child colour in everyone who lives in our home today. If they get stuck on a relation, say it as a chain: 'Mama is Mumma's brother.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Exercise 1: names and relations (page 12)",
+          "mins": 7,
+          "do": "Turn to Exercise 1 on page 12. Your child copies the Name / Relation table into the notebook and fills in at least eight people from the tree. Then ask: 'Is anyone in our family not related by birth, like a Bhabhi who joined by marriage or a child who was adopted?' Explain that marriage and adoption make someone fully family. Ask: 'Who would you call if you got hurt in the park?' Help them write that person's phone number in the notebook."
+        },
+        {
+          "kind": "talk",
+          "title": "One thing each person does",
+          "mins": 3,
+          "do": "Point to five people on the tree and ask your child to say one thing each does for the family: 'Dadaji tells stories, Papa drops me to the bus, Didi helps with homework.' Then ask, 'And what do you do for the family?' (Fold clothes, water plants, keep toys away.) Write their answer under their own name on the tree."
+        }
+      ],
+      "need": ["NIOS EVS Level A book, pages 1–2 and 12", "a large sheet of paper or chart paper", "crayons or sketch pens", "notebook and pencil", "family phone numbers"],
+      "prep": [{"task": "Make a list of relatives' names on both sides so you can help your child with the tree", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Rekha's joint family and nuclear family",
+      "goal": "Compare joint and nuclear families through Rekha's story, run a small survey of families we know, and hear a sociologist who questioned a popular idea about Indian families.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Two types of families and Rekha's story (pages 2–3)",
+          "mins": 10,
+          "do": "Read aloud from 'There are two types of families' on page 2 to the end of Rekha's story on page 3. Stop after the joint family paragraph and ask: 'Who makes the rules and decisions in Rekha's first home?' (The grandfather, the head of the family.) 'Why are their expenses lower?' (One kitchen cooks for everyone and festivals are shared.) 'What can go wrong?' (If one member behaves badly, others feel ill-will and there can be tension.) After the nuclear family part ask: 'Who decides things in Rekha and Amar's home?' (The two of them together, asking the children when needed.) 'What is the problem?' (When help is suddenly needed, no one else is there.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Strong points and weak points chart",
+          "mins": 7,
+          "do": "Draw two columns in the notebook: Joint family and Nuclear family. Under each, your child writes or says one 'plus' and one 'minus' from the story, then adds one of their own. Good extra answers: joint family 'always someone to play with, Dadi looks after us when Mumma is busy' but 'less space, have to share the TV'; nuclear family 'more space, quick decisions' but 'lonely when parents are out, no one to help when a child is ill'. Ask: 'Which type is our family?' Some families are in between, for example grandparents living in the next lane. That is fine; say so."
+        },
+        {
+          "kind": "exp",
+          "title": "Survey: what kind of families do we know?",
+          "mins": 13,
+          "do": "Do Experiment e1. Before you start, ask your child to guess: 'Out of eight families we know, how many will be joint and how many nuclear?' Write the guess down. Then together list eight families you know well (neighbours, relatives, your child's friends). For each, ask or recall who lives in the home and tick Joint or Nuclear in a table. You can phone one or two relatives and let your child ask the question politely: 'Who all live in your house?' Count the ticks and compare with the guess. Ask: 'Do families in the village and the city look different in our list?' (Often more joint families in villages, more nuclear in cities, which is what the book says on page 3.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Were Indian families always joint?",
+          "mins": 7,
+          "do": "Tell the story in Voice v1 in simple words: many people say 'in the old days everyone lived in big joint families, and now they are breaking up'. A sociologist named A.M. Shah looked at old household records and census counts and found that, at any one time, many Indian homes were small even long ago, and that one family changes shape as people marry, children are born and elders pass away. Ask the voice question and let your child answer before you give your view. Then ask: 'If Chacha lives in Pune but sends money home and comes for every Diwali, is he still part of a joint family?' (A good answer: in many ways yes, because relations continue even when people live apart, as page 3 says.)",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see what you have learnt 1.1 (page 3)",
+          "mins": 3,
+          "do": "Ask the three questions on page 3 aloud. (i) How many types of families? (Two: joint and nuclear.) (ii) Who takes decisions in a joint family? (The head of the family, often the eldest.) (iii) One weak point of a nuclear family? (In an emergency no one else is there to help.) Your child writes the answers in the notebook."
+        }
+      ],
+      "need": ["NIOS EVS book pages 2–3", "notebook and pencil", "a phone to call one or two relatives"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Strong relations and what parents must do",
+      "goal": "Learn the five things that keep relations strong, read what parents and guardians owe their children, and check our own health records as the book advises.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The importance of relations (page 3)",
+          "mins": 6,
+          "do": "Read 'The importance of Relations' on page 3 aloud, including the five points. After each point, ask your child for a real example from home: respect ('we don't call Dadaji by his name'), responsibility ('Didi fills the water bottles'), not hurting feelings ('not laughing when someone makes a mistake'), helping ('everyone carries bags from the market'), settling differences by discussion ('when my brother and I both want the window seat, we take turns instead of fighting'). Ask: 'Which of the five is hardest for you?' Accept an honest answer."
+        },
+        {
+          "kind": "game",
+          "title": "Talk it out, don't fight it out",
+          "mins": 6,
+          "do": "Play a quick role-play. You give a problem and your child shows two ways to handle it, first quarrelling and then discussing. Problems: two cousins want the same last laddoo; little brother tore your drawing; Nani wants the TV for the news while you want cartoons. For the 'discussion' way, teach three steps: 1) say how you feel ('I felt sad when…'), 2) listen to the other person, 3) find a fair plan (share it, take turns, ask an elder). Ask: 'Which way left both people happier?'"
+        },
+        {
+          "kind": "read",
+          "title": "Responsibilities of parents (pages 4–5)",
+          "mins": 9,
+          "do": "Read section 1.2 on pages 4–5 aloud. Explain that the book divides childhood into 0–6, 6–12 and 12–18 years and says the first six years matter most. Ask: 'Which group are you in?' (6–12.) Go through the bullet points and ask after each: 'Children copy their parents. What have you copied from me?' 'Why should parents not quarrel in front of children?' (Children feel scared and unsafe.) 'Why does the book say a child should not be hit again and again?' (The child feels insulted and becomes withdrawn or stubborn; praising good behaviour works better.) 'Should girls and boys get the same chance to study?' (Yes, the book says equal opportunity.) 'Should a child of 8 work for money?' (No; it is the age to study and play. In India it is also against the law to employ children under 14.)"
+        },
+        {
+          "kind": "do",
+          "title": "Measure and check: my growth and vaccines",
+          "mins": 9,
+          "do": "The book on page 4 says parents should vaccinate children and monitor their growth. Do Activity a2: measure your child's height against a wall (pencil mark at the top of the head, then a measuring tape) and weigh them on a home or chemist's scale. Write the date, height in cm and weight in kg. Then take out their vaccination card (the one from the hospital or Anganwadi) and look at it together: find two vaccines with their dates, for example polio drops and MMR (measles, mumps, rubella). Explain: 'A vaccine shows your body a harmless copy or piece of a germ, so your body learns to fight it and is ready if the real germ comes.' Ask: 'Who kept this card safe all these years?' (A parent or guardian: one of their responsibilities.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Families and relations",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For the sort, let your child explain their reason ('one kitchen for everyone means joint'). Mark it together; for each mistake, open the page the answer comes from (types of family pages 2–3, strong relations page 3, parents' duties pages 4–5) and read the line again. Then ask the 1.2 questions on page 6: 'How do families become strong?' and 'Write three responsibilities of parents.'",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["NIOS EVS book pages 3–6", "measuring tape and a pencil", "a weighing scale", "your child's vaccination card", "worksheet ws1"],
+      "prep": [{"task": "Find your child's vaccination card or immunisation record", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Girls, boys and fairness",
+      "goal": "Read honestly about how girls and women have been treated unequally, test it with a chore survey, and meet Savitribai Phule, who opened a school for girls when people threw dirt at her for it.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Toy shop guess",
+          "mins": 4,
+          "do": "Ask your child: 'In a toy shop, which toys are kept for boys and which for girls?' They will probably say cars and guns for boys, dolls and kitchen sets for girls. Ask: 'Is there any rule that says a girl cannot like cars or a boy cannot like cooking?' (No.) 'Who decided it then?' (People's habits and ideas, which can change.) This is exactly what page 6 talks about."
+        },
+        {
+          "kind": "read",
+          "title": "The status of girls and women (pages 6–7)",
+          "mins": 9,
+          "do": "Read section 1.3 on pages 6–7 aloud. You can soften the hardest words for an 8-year-old, but keep the truth: say 'In some families people were happy when a boy was born and sad when a girl was born. Some people even harmed baby girls or stopped them from being born. These are serious crimes in India today.' Explain dowry: 'Some people demand money or gifts from a bride's family at a wedding. This has been against the law since 1961.' Ask: 'The book says if girls get equal chances they can do as well as boys, or better. Can you name women who do jobs people once thought were only for men?' (Pilots, doctors, police officers, cricketers like Mithali Raj, scientists, the President of India.) Then read the list of government measures on pages 6–7."
+        },
+        {
+          "kind": "exp",
+          "title": "Chore survey: who does what at home?",
+          "mins": 13,
+          "do": "Do Experiment e2. First ask your child to guess: 'In our home, will the women or the men do more of the jobs on this list?' Write the guess. Draw a table with jobs down the side (cooking, washing utensils, sweeping, washing clothes, buying vegetables, paying bills, fixing things, helping with homework, looking after a sick person, filling water) and columns for every person at home. Your child asks each family member: 'Did you do this job in the last two days?' and ticks. Count ticks by women and girls and by men and boys. Compare with the guess. Explain: 'In 2019 the Government of India ran a big Time Use Survey. It found that women spent about three times as much time as men on unpaid work at home, like cooking and cleaning.' Ask: 'What is one job a boy or man in our home could share from tomorrow?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Savitribai Phule's school for girls",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: in 1848 in Pune, Savitribai Phule and her husband Jyotirao opened a school for girls, at a time when most people thought girls should not learn to read. People threw mud and dung at her as she walked to school, so she carried a spare sari and changed when she got there. Ask: 'Why do you think people were so angry about girls reading?' Then ask the voice question and listen fully before you share your own view.",
+          "ref": "v2"
+        },
+        {
+          "kind": "read",
+          "title": "How far have we come? (pages 7–8)",
+          "mins": 6,
+          "do": "Read section 1.4 on pages 7–8 aloud, including 'Women and men are the two wheels of a vehicle called family.' Ask: 'What happens to a cart if one wheel is much smaller than the other?' (It goes round in circles or tips over.) 'What does that mean for a family?' (Both must be equal for the family to move forward.) Then do the 1.3 tick-and-cross on page 8 aloud. Answers: (i) tick, (ii) cross, (iii) cross (at least one third of Panchayat seats are reserved for women), (iv) tick, (v) tick."
+        }
+      ],
+      "need": ["NIOS EVS book pages 6–8", "notebook, ruler and pencil for the survey table", "every family member's help for 5 minutes"],
+      "prep": [{"task": "Tell family members your child will ask them about household jobs, so they answer honestly and kindly", "when": "morning"}]
+    },
+    {
+      "n": 5,
+      "title": "Elders, Braille and sign language",
+      "goal": "Learn why elders are the backbone of the family, interview one, and find out through a fingertip experiment how people who cannot see read Braille.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Respect for elders (page 9)",
+          "mins": 6,
+          "do": "Read section 1.5 on page 9 aloud. Ask: 'Why does the book call elders the backbone of the family?' (They advise, teach good practices and make children feel safe.) Go through the support list: reserved seats and fare concessions in trains and buses, the right by law to a living allowance from their children (the 2007 Maintenance and Welfare of Parents and Senior Citizens Act), pension schemes, and a higher interest rate on savings for senior citizens. Ask: 'What can elders do themselves to stay strong?' (Walk, read, play games, meet friends: the last lines of page 9.)"
+        },
+        {
+          "kind": "act",
+          "title": "Interview an elder (Let's do and learn, page 13)",
+          "mins": 12,
+          "do": "Do Activity a3, the book's 'Let's do and learn' task. Sit your child with a grandparent or an elderly neighbour (or phone one). Your child asks four questions from a card: 'What games did you play when you were my age? What was your school like? What did things cost then, for example a kilo of rice or a bus ticket? What is one thing you wish children today knew?' Your child listens without interrupting and notes key words. Afterwards, they tell the story back to you in their own words and write three or four sentences. Ask: 'What was the same as your childhood and what was different?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "Respect for people with disabilities (pages 9–10)",
+          "mins": 5,
+          "do": "Read section 1.6 on pages 9–10 aloud. Stop at the line saying people should never be called names like 'that deaf one' and ask: 'How would it feel to be called by what you can't do instead of by your name?' Explain that today we say 'person with a disability' or 'differently abled', and use their name. Then read the list: special schools, sign language, Braille and taped books, special sports, reserved seats in schools and jobs, scholarships. Ask: 'Do you know of the Paralympics? Indian athletes like Avani Lekhara have won gold medals there.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Fingertip test: why Braille is read with fingers",
+          "mins": 10,
+          "do": "Do Experiment e3. Ask your child to guess first: 'Which part of your body can feel two pin points close together as two, not one: the fingertip, the palm, the back of the hand, or the arm?' Then, with their eyes shut, touch them gently with either one or two toothpick tips held about 3 mm apart (use a ruler), and ask 'one or two?' Try the fingertip, palm, back of hand and forearm, five times each, mixing one and two. Record correct answers. Then make a Braille letter: poke dots from the back of a card with a pencil tip in the pattern for 'A' (one dot, top left) and 'B' (two dots, top left and middle left), and let them read it with eyes shut.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Louis Braille, the boy who invented dots",
+          "mins": 7,
+          "do": "Tell the story in Voice v3: Louis Braille lost his sight as a small child in France, and at 15 began working on a dot code for reading and writing. His own school did not officially adopt it until two years after he died. Show your child the Braille dots on a lift button, a medicine strip or the new Indian coins and notes if you have them (Indian banknotes carry raised marks to help people who cannot see tell them apart). Then try one sign: show 'thank you' in Indian Sign Language by touching your fingers to your chin and moving the hand forward (you can look up a short video to check). Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": ["NIOS EVS book pages 9–10, 13", "two toothpicks and a ruler", "a piece of card and a pencil", "a grandparent or elderly neighbour (in person or on the phone)", "any item with Braille dots (lift button, medicine pack)"],
+      "prep": [{"task": "Ask a grandparent or elderly neighbour if they can spend 10 minutes answering your child's questions", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Let's revise and teach it back",
+      "goal": "Review the lesson with the book's revision list and exercises, try the stretch and challenge worksheets, check understanding, and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercises 2–7 (pages 11–13)",
+          "mins": 8,
+          "do": "Read the eight 'Let's Revise' points on page 11 aloud. After each, your child gives one example from this week (for example 'Elders should be respected': 'Nani told me about walking 3 km to school'). Then do Exercises 2, 3, 4 and 5 on page 12 aloud quickly, and Exercise 6 fill-ins on pages 12–13: laws, education, elections, women. For Exercise 7, the answers are: cross, cross, tick, tick, tick."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: New families, same rules",
+          "mins": 9,
+          "do": "Do Worksheet ws2 (stretch). It gives new families and situations and asks your child to apply what they learnt. Read the stories aloud. For the write items, your child can answer aloud while you write down their words.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Thinking it through",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge): puzzles, 'what if' questions and comparing views. There is no single right answer for section C; praise reasons that use evidence from this week ('in our chore survey…', 'in the fingertip test…'). Choose any two items if time is short and keep the rest for tomorrow.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 7,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page (types of family pages 2–3, relations page 3, parents' duties pages 4–5, girls and women pages 6–8, elders and disability pages 9–10), look at it together for a minute, then ask again in different words. Most children get 5 or more right."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 8,
+          "do": "Your child is the teacher and you (or a grandparent) are the student. Using the family tree, the chore survey table and the Braille card, they teach you in 5 minutes: two types of family, how to keep relations strong, what parents must do, why girls and boys deserve equal chances, and how people who cannot see can read. Ask two 'student' questions: 'Is a family with Chacha living in another city still joint?' and 'Why do we read Braille with fingertips, not elbows?' End by sticking the family tree on the wall and agreeing on one new household job your child will do every day."
+        }
+      ],
+      "need": ["NIOS EVS book pages 11–13", "worksheets ws2 and ws3", "the family tree, chore survey table and Braille card from this week"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Families and relations",
+      "day": 3,
+      "sections": [
+        ["A. Types of families", [
+          {"t": "sort", "p": "Sort these sentences into the type of family they describe.", "items": ["Grandparents, uncles, aunts and cousins live together", "Only mother, father and their unmarried children", "One kitchen cooks for everyone", "The grandfather makes most decisions", "Husband and wife decide together", "No one is nearby to help in an emergency"], "cats": ["Joint family", "Nuclear family"]},
+          {"t": "fill", "p": "A family is the ____ unit of society.", "a": ["smallest"]},
+          {"t": "mcq", "p": "Why are expenses lower in Rekha's joint family?", "opts": ["They never buy anything", "One kitchen and shared festivals cost less than many separate ones", "The children earn money", "They live in a village"], "a": 1}
+        ]],
+        ["B. Strong relations", [
+          {"t": "mcq", "p": "Two brothers both want the window seat. What does the book say keeps relations strong?", "opts": ["The bigger one takes it", "They settle it by discussion, for example taking turns", "They stop talking to each other", "They cry until a parent shouts"], "a": 1},
+          {"t": "write", "p": "Write two things that keep family relations strong.", "lines": 2}
+        ]],
+        ["C. Parents and guardians", [
+          {"t": "match", "p": "Match each responsibility to what it means.", "pairs": [["Health", "Vaccinations and a doctor when the child is ill"], ["Food", "Proper meals for the child's age"], ["Education", "School for girls and boys equally"], ["Values", "Teaching honesty and respect"], ["A voice", "Asking children's opinion in family decisions"]]},
+          {"t": "mcq", "p": "What does the book say parents should do when a child does something good?", "opts": ["Nothing", "Appreciate and reward them, for example with a story or an outing", "Give them money to earn more", "Punish them so they do not become proud"], "a": 1},
+          {"t": "fill", "p": "Children of all ages tend to ____ their parents.", "a": ["copy", "imitate"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "New families, same rules",
+      "day": 6,
+      "sections": [
+        ["A. Which family is it?", [
+          {"t": "mcq", "p": "Arjun lives with his mother, father and little sister in a flat in Bengaluru. His grandparents live in Mysuru. Arjun's home is a:", "opts": ["Joint family", "Nuclear family", "Not a family", "Society"], "a": 1},
+          {"t": "write", "p": "Fatima's grandparents, parents, uncle, aunt and four cousins share a house and one kitchen in Lucknow. Write one good thing and one difficulty for Fatima.", "lines": 3},
+          {"t": "table", "p": "Use the results of your family survey (Experiment e1).", "cols": ["Family", "Who lives there", "Joint or nuclear"], "rows": 5}
+        ]],
+        ["B. Fair or unfair?", [
+          {"t": "sort", "p": "Sort these into fair and unfair.", "items": ["The son goes to a private school and the daughter to no school", "Brother and sister take turns washing plates", "Only the girl serves water to guests", "Grandmother gets the seat on the bus", "A child of 9 is sent to work in a shop", "A child who cannot hear goes to a school that teaches sign language"], "cats": ["Fair", "Unfair"]},
+          {"t": "write", "p": "In your chore survey, who did the most jobs? Write one change your family could make.", "lines": 3}
+        ]],
+        ["C. Respect", [
+          {"t": "match", "p": "Match the person to the help they can get.", "pairs": [["A person who cannot see", "Braille books and taped books"], ["A person who cannot hear", "Sign language"], ["A senior citizen", "Reserved seats and fare concessions"], ["A woman candidate", "Reserved seats in the Panchayat"]]},
+          {"t": "write", "p": "Write two things you learnt from the elder you interviewed.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking it through",
+      "day": 6,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "fill", "p": "Rekha's grandfather is her father's father. To Rekha's children, he is their great-____.", "a": ["grandfather", "grandpa"]},
+          {"t": "mcq", "p": "Braille dots in one letter are about 2.5 mm apart. Why is this a good distance?", "opts": ["It saves paper", "A fingertip can just feel two points that close as two, but the arm cannot", "Dots must be far apart to be seen", "It was chosen by chance"], "a": 1},
+          {"t": "write", "p": "A family has 4 people. Each eats 2 rotis at dinner. In a joint family of 12 people, one cook makes all the rotis. Is one kitchen for 12 people cheaper than three kitchens for 4 people each? Give a reason (think about gas, oil, utensils).", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a family made every decision without ever asking the children? What might go wrong?", "lines": 3},
+          {"t": "write", "p": "What if nobody had invented Braille? How would a child who cannot see go to school?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some people say 'joint families are disappearing in India'. A.M. Shah said many homes were small even long ago. What would you need to count to find out who is right?", "lines": 4},
+          {"t": "write", "p": "People threw mud at Savitribai Phule for teaching girls. Today we think she was right. How do people change their minds about what is fair?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Family survey: joint or nuclear?",
+      "day": 2,
+      "question": "Among the families we know, how many are joint and how many are nuclear, and does it differ between city and village?",
+      "need": ["notebook and pencil", "a list of 8 families you know", "a phone to call one or two relatives"],
+      "steps": [
+        "Draw a table with columns: Family, Where they live (city or village), Who lives in the home, Joint or Nuclear.",
+        "List eight families you know well: neighbours, relatives, friends.",
+        "For each family, recall or politely ask: 'Who all live in your house?'",
+        "Tick Joint if grandparents and married sons or daughters (and their children) share one home and kitchen; tick Nuclear if only parents and unmarried children live there.",
+        "Count the ticks in each column, and count separately for city and village families.",
+        "Compare the counts with your guess."
+      ],
+      "predict": "Ask your child to guess first: out of eight families, how many will be joint and how many nuclear? Will village families be different from city families?",
+      "observe": "Record the totals. In cities most families on the list are usually nuclear; village families are more often joint. Note any family that is 'in between', such as grandparents living in the next building.",
+      "why": "A survey is how social scientists find out how people really live instead of guessing. India's Census counts every household, and sociologists use these counts to see how families change. Families become nuclear when people move to cities for jobs and homes are small, as the book says on page 2. But a small survey of eight families can be misleading: if all your friends live in one city colony, your result will not match the whole of India. Bigger and more varied samples give truer answers.",
+      "safety": "Only ask people you know, with a parent present or on the phone with a parent.",
+      "time": "13 min"
+    },
+    {
+      "id": "e2",
+      "title": "Chore survey: who does the work at home?",
+      "day": 4,
+      "question": "In our home, are household jobs shared equally between women and girls and men and boys?",
+      "need": ["notebook, ruler and pencil", "every family member's help for a few minutes"],
+      "steps": [
+        "Draw a table: ten jobs down the side (cooking, washing utensils, sweeping, washing clothes, buying vegetables, paying bills, fixing things, helping with homework, caring for a sick person, filling water) and one column per family member.",
+        "Ask each person: 'Did you do this job in the last two days?' Tick each yes.",
+        "Add up the ticks for women and girls, and for men and boys.",
+        "Circle the jobs done only by women or only by men.",
+        "Compare with your guess and with the 2019 Time Use Survey finding.",
+        "Agree on one job to share differently and check again after a week."
+      ],
+      "predict": "Ask your child to guess first: will women or men in our home have more ticks? Which jobs will be done only by one group?",
+      "observe": "Record the totals and the circled jobs. In many Indian homes cooking, washing and cleaning are mostly done by women, while paying bills and fixing things are more often done by men.",
+      "why": "Unpaid work at home, like cooking, cleaning and looking after children and elders, is real work: a family could not live without it. Because it is not paid, it is often not noticed. The Government of India's first national Time Use Survey (2019) asked thousands of people how they spent each day and found that women spent about three times as much time as men on this unpaid household work. This is one of the reasons the book says girls and women do not get equal chances: time spent on chores is time not spent studying, playing or earning. Measuring it is the first step to sharing it fairly.",
+      "safety": "",
+      "time": "13 min + recheck after one week"
+    },
+    {
+      "id": "e3",
+      "title": "The fingertip test: why Braille uses fingers",
+      "day": 5,
+      "question": "Which part of the body is best at feeling tiny dots close together?",
+      "need": ["two toothpicks", "a ruler", "a piece of card", "a pencil", "notebook"],
+      "steps": [
+        "Hold two toothpicks side by side with their tips about 3 mm apart.",
+        "Your child shuts their eyes. Gently touch their fingertip with either one tip or both tips at the same moment, and ask 'one or two?'",
+        "Do this five times on the fingertip, mixing one and two in a random order. Record how many answers were correct.",
+        "Repeat on the palm, the back of the hand and the forearm.",
+        "Now poke dots from the back of a card with a pencil tip: one dot top left is the Braille letter A; dots top left and middle left are B; top left and top right are C.",
+        "Let your child read the letters with a fingertip, eyes shut."
+      ],
+      "predict": "Ask your child to guess first: will the fingertip, palm, back of hand or forearm be best at telling one point from two?",
+      "observe": "Record correct answers out of five for each place. Usually the fingertip gets almost all right, while on the forearm two points 3 mm apart feel like one.",
+      "why": "Our skin has tiny touch sensors, called receptors, under it. The fingertips are packed with them, so two points only 2 or 3 mm apart touch different sensors and the brain feels two. On the arm the sensors are spread far apart, so two points must be several centimetres apart before we feel two. Louis Braille's dots are spaced about 2.5 mm apart in each letter, just right for a fingertip to feel each dot. People who read Braille every day become even more sensitive, because the part of the brain that handles touch from the reading finger gets more practice.",
+      "safety": "Touch gently; never press hard with the toothpick points, and keep them away from the face and eyes.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Our family tree (Exercise 1, page 12)",
+      "day": 1,
+      "mins": 17,
+      "need": ["chart paper", "crayons or sketch pens", "a list of relatives' names"],
+      "steps": [
+        "Draw a big tree with roots, a trunk and branches.",
+        "Write grandparents from both sides near the trunk, with relation names in English and your home language.",
+        "Put parents, uncles and aunts on the branches and children on the twigs.",
+        "Colour everyone who lives in your home today in one colour.",
+        "Count the generations and write the number at the top.",
+        "Under your own name, write one job you do for the family."
+      ],
+      "outcome": "A coloured family tree showing three or four generations, relation names in two languages, and who lives at home, ready for the wall."
+    },
+    {
+      "id": "a2",
+      "title": "My growth and health card",
+      "day": 3,
+      "mins": 9,
+      "need": ["measuring tape", "a pencil", "a weighing scale", "the child's vaccination card", "notebook"],
+      "steps": [
+        "Stand your child against a wall, heels touching it, and mark the top of the head.",
+        "Measure the height in cm and weigh them in kg.",
+        "Write the date, height and weight on a 'My Growth' page.",
+        "Find two vaccines on the vaccination card and copy their names and dates.",
+        "Talk about what a vaccine does.",
+        "Repeat the measurement every three months and see the change."
+      ],
+      "outcome": "A dated growth record and an understanding that keeping a child healthy and vaccinated is one of a parent's main responsibilities (page 4)."
+    },
+    {
+      "id": "a3",
+      "title": "Interview an elder (Let's do and learn, page 13)",
+      "day": 5,
+      "mins": 12,
+      "need": ["a grandparent or elderly neighbour", "a question card", "notebook and pencil"],
+      "steps": [
+        "Write four questions on a card: games, school, prices then, and one wish for children today.",
+        "Greet the elder respectfully and ask the questions one at a time.",
+        "Listen without interrupting and note key words.",
+        "Thank them.",
+        "Tell the story back to your parent in your own words.",
+        "Write three or four sentences titled 'When ___ was my age'."
+      ],
+      "outcome": "A written childhood story of an elder in your child's words, and practice in listening to and respecting older people."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "A.M. Shah (born 1931), Indian sociologist",
+      "idea": "Shah studied household records and census figures, especially from Gujarat, and separated the 'household' (people living and eating together under one roof) from the wider 'family' (relatives who share duties, money and ceremonies even when they live apart). He argued that the common story, that Indians once nearly all lived in large joint households which then broke up because of modern life, is too simple: many homes were small even in the past, and one family changes shape over time as children marry, babies are born and elders die.",
+      "then": "Many writers and some earlier sociologists had described the big joint family as the normal Indian family and its 'breakdown' as a recent loss. Shah's careful counting pushed sociologists to check the numbers before making claims.",
+      "now": "Most sociologists today agree that India has long had a mix of household types and that relatives living apart often still act as a joint family. How fast families are changing, and whether this is good or bad, is still discussed using new survey data.",
+      "status": "debated",
+      "ask": "Our survey of eight families gave one answer. What would you need to count, and in how many places, before you could say how most Indian families live?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Savitribai Phule (1831–1897), India",
+      "idea": "Savitribai Phule learnt to read after her marriage, taught by her husband Jyotirao Phule. In 1848 in Pune they opened a school for girls, and she became its teacher, at a time when most people believed girls should not be educated. The Phules went on to open more schools for girls and for children of castes who were kept out of schools, and Savitribai also wrote poetry and worked for widows.",
+      "then": "Many people in Pune were furious. People threw mud, stones and dung at her as she walked to school, so she carried a second sari to change into. The Phules were even forced to leave their family home for a time.",
+      "now": "Her work is honoured across India: her birthday, 3 January, is marked in Maharashtra as a day for girls' education, and Savitribai Phule Pune University is named after her. That girls must be educated equally is now the law: the Right to Education Act (2009) gives every child aged 6 to 14 the right to free schooling. She died in 1897 while caring for people sick with plague.",
+      "status": "accepted",
+      "ask": "Most people around Savitribai thought she was wrong. How can you tell when one person is right and the crowd is wrong? What evidence would you look for?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Louis Braille (1809–1852), France",
+      "idea": "Louis Braille lost his sight at about the age of three after an accident in his father's leather workshop. At a school for blind children in Paris, he improved on a raised-dot 'night writing' code invented by an army officer, Charles Barbier, and by 1829 published a system in which each letter is a pattern of up to six dots in a small cell that one fingertip can feel at once.",
+      "then": "The school's teachers mostly used large raised printed letters, which were slow to read and hard to write. Braille's dot code was popular with students but the school did not officially adopt it until 1854, two years after his death.",
+      "now": "Braille is used all over the world. Bharati Braille adapts the same six-dot cells for Indian languages such as Hindi, Tamil and Bengali. Today people who cannot see also use audio books and screen readers, but Braille is still important for reading and spelling on one's own.",
+      "status": "accepted",
+      "ask": "The students who used Braille's code liked it long before their teachers did. Why might the people who actually use something know first that it works?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is a family, and what are the two types the book describes?", "a": "A family is the smallest unit of society: people related by birth, marriage or adoption who care for each other. The two types are the joint family (several generations together, one kitchen) and the nuclear family (husband, wife and their unmarried children)."},
+    {"q": "Give one strong point and one weak point of a joint family.", "a": "Strong: work and expenses are shared, so no one has an extra burden and costs are lower; elders and cousins are always there. Weak: one person's behaviour can cause ill-will and tension; less space and freedom."},
+    {"q": "Name three things that keep family relations strong.", "a": "Respecting each other, being responsible, not hurting feelings, helping each other, and settling differences by discussion instead of quarrelling."},
+    {"q": "Name three responsibilities of parents or guardians.", "a": "Keeping the child healthy (vaccines, doctor, proper food, checking growth), giving girls and boys equal education, not making children work for wages, letting them give their opinion, teaching good values, and behaving well because children copy them."},
+    {"q": "How are girls sometimes treated unfairly, and name one thing the government has done about it.", "a": "They may get less schooling, less food or play, more housework, and dowry is demanded at marriage. Laws for equal property and equal wages, against domestic violence and dowry; at least one-third of Panchayat seats reserved for women; schemes for girls' education such as Kasturba Gandhi Balika Vidyalaya."},
+    {"q": "Why does the book call elders the backbone of the family, and how does the government support them?", "a": "They advise the family, teach good practices and make children feel secure. Support includes reserved seats and fare concessions, a legal right to a living allowance from their children, pensions and higher interest on their savings."},
+    {"q": "How do people who cannot see read, and why do they use their fingertips?", "a": "They read Braille, raised dots felt with the fingers, or listen to recorded books. Fingertips have many touch sensors packed closely, so they can feel separate dots about 2.5 mm apart."}
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "key": "nios|sci|3|3",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 3,
+  "title": "Our Festivals",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 3 (pages 33–44), 2016",
+  "summary": "India is a land of festivals of many religions and regions, often celebrated together. Your child learns the stories and customs of Makara Sankranti, Holi, Eid-ul-Fitr, Guru Nanak Jayanti, Dussehra, Deepawali, Christmas, Mahavir Jayanti and Buddha Purnima, and our three national festivals, and finds the science inside them: why festival dates follow the sun and the moon, how natural colours work, and why smoke and noise harm us.",
+  "goals": [
+    "By the end your child can name at least eight Indian festivals, say which religion or region each belongs to, and give its month or day and its main message.",
+    "By the end your child can explain that Makara Sankranti is a harvest festival with different names (Pongal, Bihu, Lohri, Uttarayan, Khichadi) in different states.",
+    "By the end your child can explain, with a ball-and-lamp model, why Eid, Holi, Diwali and Guru Nanak Jayanti follow the moon and why their dates move each year.",
+    "By the end your child can make safe natural colours, explain why chemical colours and loud, smoky fireworks harm people, and suggest a cleaner way to celebrate.",
+    "By the end your child can say what Independence Day, Republic Day and Gandhi Jayanti mark, with their dates and years.",
+    "By the end your child can explain how ideas like Aryabhata's spinning Earth and Guru Nanak's shared kitchen were questioned before they were accepted."
+  ],
+  "words": [
+    ["festival", "a special day or days of celebration that a community shares every year"],
+    ["harvest", "the time when ripe crops are cut and gathered in from the fields"],
+    ["Uttarayan", "the sun's journey northward in the sky after winter, when days start getting longer"],
+    ["Purnima", "the full moon day, when the whole round face of the moon shines"],
+    ["Amavasya", "the new moon day, when the moon cannot be seen at all"],
+    ["crescent", "the thin curved shape of the moon just after the new moon; its sighting starts each Islamic month"],
+    ["legend", "an old story told for generations to explain why we do something"],
+    ["Zakat", "charity that Muslims give to people in need; at Eid-ul-Fitr a special gift of food or money called fitra is given before the prayer"],
+    ["langar", "the free community kitchen in a gurdwara where everyone sits together and eats the same food"],
+    ["tableau", "a decorated float in a parade showing a scene, like a state's culture on Republic Day"],
+    ["Republic", "a country whose head of state is chosen, not born to the job, and which is governed by a constitution"],
+    ["pollution", "harmful dirt, smoke, gases or noise added to air, water or land"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "A year full of festivals",
+      "goal": "Start from the festivals your child already knows, read why India is called a country of festivals, make a festival calendar, and set up a sun-shadow stick to watch for the next week.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Favourite festival memory",
+          "mins": 5,
+          "do": "Ask your child: 'What is your favourite festival? What do we eat, wear and do on that day? Who comes to our home?' Then ask: 'Which festival of a friend or neighbour have you joined?' Good answers mention a festival of another religion, such as eating seviyan at a friend's home on Eid, or cake at Christmas. If they cannot think of one, remind them of something you shared with neighbours."
+        },
+        {
+          "kind": "read",
+          "title": "A country of festivals (page 33)",
+          "mins": 6,
+          "do": "Read the opening of the lesson on page 33 aloud. Explain 'unity in diversity': many different people, languages and religions, one country that celebrates together. Ask: 'The book says many festivals come after the harvest. Why would farmers celebrate after the harvest?' (Their hard work is over and the house is full of new grain.) 'What three messages does the book say all festivals carry?' (Brotherhood, love, humanity, happiness and the victory of good over evil.) 'What are national festivals?' (Independence Day, Republic Day and Gandhi Jayanti, celebrated by everyone, not one religion.)"
+        },
+        {
+          "kind": "act",
+          "title": "Our festival calendar",
+          "mins": 17,
+          "do": "Do Activity a1. Draw a big circle on chart paper and divide it into 12 slices for the months, January at the top. Your child writes in the festivals of this lesson in the months the book gives: Makara Sankranti (January), Republic Day (26 January), Holi (Phalgun, about March), Independence Day (15 August), Dussehra and Gandhi Jayanti (October), Deepawali (Kartik, October or November), Guru Nanak Jayanti (Kartik Purnima, November), Christmas (25 December). For Eid, write it in this year's month (check a calendar) with the note 'moves about 11 days earlier every year'. Add your own family's festivals and birthdays. Ask: 'Which festivals have a fixed date every year and which move?' Circle the moving ones; we will find out why on Day 4.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the noon shadow stick",
+          "mins": 12,
+          "do": "Set up Experiment e1, which helps us understand Makara Sankranti tomorrow. On a sunny terrace, balcony floor or courtyard, stand a straight stick (a pencil in a lump of clay or a 30 cm ruler held in a bottle of sand) on a sheet of paper taped flat. Mark the north direction with a phone compass. At about 12 noon, mark the tip of the shadow with a dot, and write the date. Measure the shadow's length in cm. Ask your child to guess: 'If we measure again at noon one week from now, will the shadow be longer, shorter or the same?' Write the guess. Leave the paper taped or mark the spot so you can put the stick back in exactly the same place.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["NIOS EVS Level A book, page 33", "chart paper and sketch pens", "this year's calendar", "a straight stick or 30 cm ruler, clay or a bottle of sand", "a sheet of paper, tape, a ruler", "a phone compass"],
+      "prep": [{"task": "Find a sunny spot that gets sun at noon, and check this year's dates for Eid, Holi and Diwali on a calendar", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Makara Sankranti: one harvest, many names",
+      "goal": "Learn how Makara Sankranti is celebrated across India under different names, make til-gud laddoos, and find out what the sun really does at this time and who first said the Earth spins.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Shadow check",
+          "mins": 3,
+          "do": "At about noon, put the stick from Experiment e1 back in exactly the same place. Mark the tip of the shadow and write today's date. Ask: 'Has it moved since yesterday?' (Only a tiny bit, perhaps a millimetre or two, or not at all; that is why we wait a week.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Makara Sankranti (page 34)",
+          "mins": 8,
+          "do": "Read section 3.1 on page 34 aloud. Then make a quick list with your child: Tamil Nadu, Pongal (new rice cooked with jaggery and milk until it boils over); Assam, Bihu (the January one is Magh or Bhogali Bihu, a feast after the harvest); North India, a holy dip in the Ganga at Haridwar and Prayag, and a fair; Bihar, Uttar Pradesh and Uttarakhand, Khichadi Sankranti with rice-and-urad khichdi; Gujarat, kite flying (Uttarayan); Punjab, Lohri with a bonfire. Ask: 'Why are til (sesame) and rice in so many of these foods?' (They have just been harvested.) 'What does it tell us that every state celebrates the same time?' (Our culture is based on farming, and the whole country shares the same joy.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make til-gud laddoos",
+          "mins": 12,
+          "do": "Do Activity a2. An adult dry-roasts half a cup of white til in a kadhai until it smells nutty, and melts a quarter cup of jaggery with a spoon of ghee and a spoon of water until it bubbles. Mix the til in, let it cool until it is just warm enough to touch, then your child rolls small laddoos with greased palms. While rolling, tell them the Maharashtrian saying 'Tilgul ghya, goad goad bola': 'Take til-gud and speak sweetly.' Ask: 'Why is this a good food for winter?' (Til and jaggery are rich in fat and energy, which keep the body warm.) Share two laddoos with a neighbour.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "What does 'the sun turns north' mean?",
+          "mins": 9,
+          "do": "Read again the lines on page 34: 'the sun enters Makar Rashi' and 'the sun becomes Uttarayan'. Stand with your child facing east in the morning (or use a drawing). Explain: in winter the sun rises a little to the south of east and stays low; after the shortest day of the year, the sun rises a little further north each morning and climbs higher at noon, so days get longer and warmer. Then share the honest science: today the sun's northward turn actually begins at the winter solstice, around 21–22 December. Makara Sankranti falls about three weeks later, around 14 January, because it is counted by the stars, and the Earth's slow wobble has moved the two apart over about 1,700 years; long ago they fell together. Ask: 'Which is the shortest day of the year?' (About 21 December.)"
+        },
+        {
+          "kind": "think",
+          "title": "Aryabhata: the Earth spins",
+          "mins": 8,
+          "do": "Tell the story in Voice v1: about 1,500 years ago Aryabhata wrote that the stars only seem to go round us each night because the Earth itself spins, like a person in a moving boat who sees the trees on the bank moving backwards. Do it: sit your child on a revolving chair (or let them turn slowly on the spot) and ask, 'Does the room seem to move? Is it really moving?' Ask the voice question and let them answer fully.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["NIOS EVS book page 34", "the shadow stick and paper", "half a cup of white til, a quarter cup of jaggery, ghee", "a kadhai and spoon (adult use)", "a revolving chair or open space"],
+      "prep": [{"task": "Buy til and jaggery for the laddoos", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Holi: colours of spring",
+      "goal": "Learn the story and customs of Holi, see how it is celebrated in Braj and Punjab, and make safe natural colours to find out why chemical colours harm us.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Holi and the story of Prahlad (pages 34–35)",
+          "mins": 9,
+          "do": "Read section 3.2 on pages 34–35 aloud: spring and the full moon of Phalgun, then the legend of Hiranyakashyap, Prahlad and Holika. Ask: 'Why was Hiranyakashyap angry with his son?' (Prahlad worshipped Lord Vishnu instead of his father.) 'What happened to Holika in the fire?' (She burnt and Prahlad was saved.) 'What do people burn in the Holika Dahan bonfire, as the book says?' (Injustice: it is the triumph of good over evil.) Then read about Lathmar Holi of Barsana in Braj, and Hola Mohalla in Punjab. Explain: Hola Mohalla is a Sikh festival held at Anandpur Sahib the day after Holi, with displays of martial skills, started by Guru Gobind Singh."
+        },
+        {
+          "kind": "talk",
+          "title": "What spoils Holi? (page 35)",
+          "mins": 5,
+          "do": "Read the last paragraph of page 35 aloud. Ask: 'What things spoil Holi?' (Throwing mud, coal-tar or chemical colours; drinking alcohol or bhang and fighting; taking revenge.) 'Why are chemical colours harmful?' (Some cheap colours contain things like heavy metals, engine oil or industrial dyes that can burn skin, hurt eyes and cause rashes.) 'What does the book ask us to do?' (Use no chemical colours or mud, and forget old quarrels.) Ask your child to make one Holi promise and write it down."
+        },
+        {
+          "kind": "exp",
+          "title": "Make natural colours and test turmeric",
+          "mins": 18,
+          "do": "Do Experiment e2. Make three colours with your child: yellow (1 spoon haldi mixed into 4 spoons besan or cornflour), pink (beetroot juice rubbed into cornflour and dried on a plate), green (spinach or mehendi powder in cornflour). Traditional Holi colour also came from palash or tesu flowers soaked overnight to give orange water; use them if you can find them. Then the surprise: mix a pinch of haldi in a little water, and paint it on paper. Ask your child to guess: 'What colour will it turn if we touch it with soapy water? With lemon juice?' Touch one spot with soap or a pinch of baking soda in water, and another with lemon juice. The soap spot turns red-brown; the lemon spot stays yellow. Explain using the 'why' of e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Start the moon diary",
+          "mins": 8,
+          "do": "Holi falls on Purnima, the full moon. Start Activity a3, which we will use tomorrow. Tonight, after dark, go outside or to a window with your child, find the moon (or note if you cannot see it), and draw its shape in a small box in the notebook with the date and time. Look at the calendar to find this month's Purnima and Amavasya, and mark them. Ask your child: 'What shape do you think the moon will be on Purnima? On Amavasya?' Keep drawing the moon each night for the rest of the lesson.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["NIOS EVS book pages 34–35", "haldi, besan or cornflour, a beetroot, a handful of spinach or mehendi powder", "baking soda or soap, a lemon", "plates, spoons, paper and a paintbrush", "palash flowers if available", "notebook for the moon diary"],
+      "prep": [{"task": "Grate and squeeze one beetroot and spread the juice on a spoon of cornflour on a plate to dry", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Eid-ul-Fitr and Guru Nanak Jayanti",
+      "goal": "Learn about Ramazan, Eid and Guru Parva, model the phases of the moon to see why festival dates move, and weigh two ideas: how to decide when Eid begins, and Guru Nanak's shared kitchen.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Eid-ul-Fitr (page 36)",
+          "mins": 6,
+          "do": "Read section 3.3 on page 36 aloud. Ask: 'What do Muslims do during the month of Ramazan?' (Fast from dawn to dusk, pray, and give charity to those in need, called Zakat.) 'When does Eid begin?' (The day after the new crescent moon is seen, after 29 or 30 days of fasting.) 'Why is it called Meethi Eid?' (Sweet seviyan are made; it is told apart from Eid-ul-Azha, the festival of sacrifice.) 'What is Eidi?' (Money or gifts elders give to younger ones.) If you have Muslim friends or neighbours, plan to greet them with 'Eid Mubarak' this year."
+        },
+        {
+          "kind": "exp",
+          "title": "Ball-and-lamp moon model",
+          "mins": 12,
+          "do": "Do Experiment e3. Darken a room and put a lamp (or a phone torch on a stack of books) on a table at one side: this is the sun. Your child holds a ball or an orange on a pencil at arm's length, a little above their head; their head is the Earth. First ask them to guess: 'If you turn slowly round in a circle, will the ball always look fully lit?' Then they turn slowly anticlockwise, watching the lit part of the ball. Point out each shape: facing the lamp, the ball is dark (Amavasya, new moon); a quarter turn later a thin curved sliver appears (crescent: the moon that starts an Islamic month); half-way round, with the lamp behind them, the whole face is lit (Purnima: Holi, Guru Nanak Jayanti). Compare with last night's drawing in the moon diary.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Sighting or sums? How to tell Eid has come",
+          "mins": 6,
+          "do": "Tell the story in Voice v2: for centuries, Islamic months have started when people actually see the new crescent moon, and moon-sighting committees still do this. Today astronomers can calculate exactly when the crescent will be visible, and some Muslim groups use those calculations instead, while many scholars say the moon must be seen with the eyes. So Eid can fall on different days in different places. Ask the voice question. Then explain: 12 moon-months make only about 354 days, 11 fewer than a year of 365, which is why Eid moves about 11 days earlier every year. Hindu festivals like Diwali also follow the moon, but an extra month (adhik maas) is added about every three years to keep them in the same season.",
+          "ref": "v2"
+        },
+        {
+          "kind": "read",
+          "title": "Guruparva and langar (pages 36–37)",
+          "mins": 6,
+          "do": "Read section 3.4 on pages 36–37 aloud. Ask: 'Whose birth does Guru Nanak Jayanti celebrate?' (Guru Nanak, the first Sikh Guru.) 'On which day?' (Kartik Purnima: the full moon of Kartik.) 'Why is it called Prakash Utsav?' (Festival of Light.) 'What is langar?' (A free community meal in the gurdwara served to everyone, whatever their caste, religion or status.) Then tell Voice v3: in Guru Nanak's time many people would not eat with people of other castes, and langar, where everyone sits in a row on the floor and eats the same food, was a bold idea. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Festivals and their stories",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core). Read the items aloud if needed. Then ask the three questions of 'Let's see what you have learnt 3.1' on page 37: Makara Sankranti in Tamil Nadu (Pongal); when Eid is celebrated (the day after the crescent moon is seen, at the end of Ramazan); why we celebrate Guru Parva (Guru Nanak was born on this day). For each mistake, reopen pages 34–37 together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["NIOS EVS book pages 36–37", "a lamp or phone torch, a ball or an orange and a pencil", "a room that can be darkened", "the moon diary", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Dussehra, Deepawali, Christmas and more",
+      "goal": "Learn about Durga Puja and Dussehra, the five days of Deepawali, Christmas, Mahavir Jayanti and Buddha Purnima, and test what smoke really is.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Moon diary and shadow check",
+          "mins": 3,
+          "do": "Look at the moon diary from Activity a3: has your child drawn the moon each night? Ask: 'Is it getting fatter (waxing) or thinner (waning)?' Then check the noon shadow from Experiment e1 and mark today's tip.",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "Durga Puja and Dussehra (pages 37–38)",
+          "mins": 7,
+          "do": "Read section 3.5 on pages 37–38 aloud. Ask: 'What are the nine days before Vijayadashami called?' (Navratri.) 'What happens on Dussehra day?' (Effigies of Ravana, Kumbhakarna and Meghnad are burnt after nine days of Ramlila.) 'Where is Durga Puja celebrated with great fanfare?' (West Bengal and Bihar.) 'Which two places are famous for Dussehra?' (Kullu in Himachal Pradesh and Mysore, now Mysuru, in Karnataka.) Ask: 'What is the message?' (Victory of justice, truth and good over evil.)"
+        },
+        {
+          "kind": "read",
+          "title": "Deepawali (page 38)",
+          "mins": 7,
+          "do": "Read section 3.6 on page 38 aloud. Your child counts the five days on their fingers: Dhanteras, Narak Chaturdashi (Choti Diwali), Deepawali on Amavasya with Lakshmi Puja, Govardhan Puja, Bhai Dooj. Ask: 'Why is Deepawali on Amavasya a good night for lamps?' (It is the darkest night, with no moon, so the lamps show light over darkness.) Then read the last paragraph: 'What spoils Deepawali?' (Gambling, very noisy and smoky fireworks.) 'Who suffers most?' (Children, old and sick people, and also pets and birds.)"
+        },
+        {
+          "kind": "exp",
+          "title": "What is smoke? The soot test",
+          "mins": 10,
+          "do": "Do Experiment e4. Ask your child to guess first: 'Is smoke just a gas, like air, or does it have bits in it?' An adult lights a diya, and holds a steel spoon about 2 cm above the flame for 10 seconds. Let it cool, then your child wipes it with a white tissue: black soot. Then hold a white tissue near (not in) the smoke of a blown-out candle or agarbatti for 30 seconds and look at it. Explain that soot is tiny bits of unburnt carbon, and firecrackers make far more of these bits plus gases, all at once, all over a city. Ask: 'How could your family celebrate Deepawali with more light and less smoke?' (More diyas and electric lights, fewer crackers, a community celebration instead of every house bursting its own.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Christmas and other festivals (pages 38–40)",
+          "mins": 7,
+          "do": "Read section 3.7 on pages 38–39 and section 3.8 on pages 39–40 aloud. Ask: 'What is Christmas also called?' (Bada Din.) 'What is its main message?' (Love, humanity and service to the poor and needy.) 'In which states is it celebrated with special enthusiasm?' (Goa and Nagaland, as the book says; also Kerala, Mizoram and Meghalaya.) 'Who was Mahavira?' (The 24th and last Jain Tirthankara, who taught that non-violence is the highest religion.) 'What does Buddha Purnima mark?' (The birth of the Buddha, who taught compassion.) Then do 'Let's see what you have learnt 3.2' on page 39 aloud."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Festival detective",
+          "mins": 6,
+          "do": "Do sections A and B of Worksheet ws2 (stretch) now, and section C tomorrow. Read the clues aloud and let your child work out each answer before you check.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 37–40", "a diya or candle, matches (adult use)", "a steel spoon, white tissues", "the moon diary and shadow stick", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Our national festivals",
+      "goal": "Learn what Independence Day, Republic Day and Gandhi Jayanti celebrate, make a paper flag, finish the shadow test, and plan a clean festival.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Independence Day and Republic Day (pages 40–41)",
+          "mins": 9,
+          "do": "Read sections 3.9, 3.9.1 and 3.9.2 on pages 40–41 aloud. Ask: 'What happened on 15 August 1947?' (India became free from British rule.) 'Who hoists the flag at the Red Fort?' (The Prime Minister, who also speaks to the nation.) 'What happened on 26 January 1950?' (The Constitution came into force and India became a Republic.) 'Who hoists the flag on Republic Day?' (The President.) Tell your child that Rajpath in Delhi, where the parade is held, was renamed Kartavya Path in 2022. Ask: 'Why are the tableaux from every state in the parade?' (To show the culture and progress of every part of India: unity in diversity.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make a paper Tiranga",
+          "mins": 9,
+          "do": "Do Activity a4. On a sheet of paper cut to 15 cm by 10 cm (the flag's length and height are always in the ratio 3 to 2), your child draws three equal stripes: saffron at the top, white in the middle, green at the bottom. In the centre of the white stripe they draw a navy-blue wheel, the Ashoka Chakra, with 24 spokes. Help them count the spokes by drawing 4, then 4 more in each gap. Explain: the flag was adopted on 22 July 1947, and the Chakra comes from the lion pillar of Emperor Ashoka at Sarnath. Teach the rule: a paper flag must never be thrown on the ground after the day; keep it safely.",
+          "ref": "a4"
+        },
+        {
+          "kind": "read",
+          "title": "Gandhi Jayanti (page 41)",
+          "mins": 5,
+          "do": "Read section 3.9.3 on page 41 aloud. Ask: 'When was Gandhiji born?' (2 October 1869, in Porbandar, Gujarat.) 'What message did he give?' (Truth and non-violence.) 'Where is his memorial?' (Rajghat in Delhi.) 'What do people do there on Gandhi Jayanti?' (Offer flowers, sing Ramdhun, spin the charkha.) Then do 'Let's see what you have learnt 3.3' on pages 41–42 aloud."
+        },
+        {
+          "kind": "exp",
+          "title": "Shadow results",
+          "mins": 8,
+          "do": "Finish Experiment e1. At noon, put the stick back in place, mark the tip and measure the length. Compare with Day 1's mark and your child's guess. Ask: 'Did the noon shadow get longer or shorter?' Use the 'why' of e1 to explain: between late December and late June the noon sun climbs higher each day, so noon shadows get shorter; between late June and late December they get longer. If you hardly saw a change, explain that near the solstices (June and December) the sun's noon height changes very slowly, and that a month-long test shows it clearly. Ask: 'So when does Uttarayan, the sun's northward journey, really start?' (At the winter solstice, around 21–22 December.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Let's do and learn: a clean, safe festival (page 44)",
+          "mins": 4,
+          "do": "Read the 'Let's do and learn' box on page 44. Ask: 'What bad habits do some people have at festivals?' (Smoking, chewing tobacco, drinking alcohol, gambling, bursting very loud crackers, throwing mud.) Plan with your child one clean-up for the next festival: after Deepawali or Holi, your family and two neighbours pick up cracker paper or colour packets in your lane for 20 minutes. Write the plan on the festival calendar."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet section C",
+          "mins": 5,
+          "do": "Do section C of Worksheet ws2 (the national festivals and the moon). Check the answers together.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["NIOS EVS book pages 40–42, 44", "white paper, scissors, ruler, saffron, green and blue crayons", "the shadow stick and paper", "the festival calendar"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Let's revise and teach it back",
+      "goal": "Revise the lesson with the book's exercises, try the challenge worksheet, check understanding, and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercises (pages 42–44)",
+          "mins": 10,
+          "do": "Read the nine 'Let's Revise' points on page 42 aloud. Then do the Exercises on pages 42–44 aloud. Exercise 2 pairs: Guru Parva and Guru Nanak, Dashahra and Durga Puja, Eid-ul-Fitr and Ramazan, Christmas and Jesus Christ, Mahavir Jayanti and Lord Mahavira, Independence Day and 15th August, Republic Day and 26 January, 2nd October and Mahatma Gandhi. Exercise 3: agriculture, Pongal, Hola Mohalla, Red Fort. Exercise 4: right, wrong (kites are flown on Makara Sankranti), right, right, wrong (Buddha Purnima marks the Buddha's birth), wrong (2 October), right."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Festival puzzles",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles about the calendar and the moon, 'what if' questions and comparing views. Let your child answer aloud while you write. In section C, praise reasons that use evidence, such as the shadow marks or the moon model.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page (Sankranti 34, Holi 34–35, Eid and Guru Parva 36–37, Dussehra, Deepawali and Christmas 37–39, national festivals 40–41), look for one minute, then ask again in different words. Most children get 6 or more right."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is now the teacher. Using the festival calendar, the moon diary, the ball-and-lamp model and the paper flag, they teach you (or a grandparent) in 5 minutes: festivals of different religions and their messages, why some dates move with the moon, and our three national festivals. Ask two 'student' questions: 'Why is Eid on a different date every year?' and 'Why are natural colours better for Holi?' End by hanging the festival calendar on the wall and agreeing to keep drawing the moon until the next Purnima."
+        }
+      ],
+      "need": ["NIOS EVS book pages 42–44", "worksheet ws3", "the festival calendar, moon diary, ball and lamp, paper flag"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Festivals and their stories",
+      "day": 4,
+      "sections": [
+        ["A. Makara Sankranti", [
+          {"t": "match", "p": "Match the state to its name or custom for Makara Sankranti.", "pairs": [["Tamil Nadu", "Pongal"], ["Assam", "Bihu"], ["Punjab", "Lohri"], ["Gujarat", "Kite flying"], ["Bihar and Uttar Pradesh", "Khichadi Sankranti"]]},
+          {"t": "mcq", "p": "Makara Sankranti is mainly a festival of:", "opts": ["The monsoon", "The harvest", "A king's victory", "The new year at school"], "a": 1}
+        ]],
+        ["B. Holi, Eid and Guru Parva", [
+          {"t": "fill", "p": "Holi is celebrated on the full moon day of the month of ____.", "a": ["Phalgun", "Phalguna"]},
+          {"t": "fill", "p": "The bonfire on the eve of Holi is called Holika ____.", "a": ["Dahan"]},
+          {"t": "mcq", "p": "Eid-ul-Fitr is celebrated:", "opts": ["On 25 December", "The day after the crescent moon is seen at the end of Ramazan", "On Kartik Purnima", "On Amavasya"], "a": 1},
+          {"t": "fill", "p": "The money elders give to younger ones on Eid is called ____.", "a": ["Eidi"]},
+          {"t": "mcq", "p": "In a langar, food is served to:", "opts": ["Only Sikhs", "Only the poor", "Everyone, whatever their caste, religion or status", "Only the priests"], "a": 2}
+        ]],
+        ["C. Good habits", [
+          {"t": "sort", "p": "Sort these into things that make a festival better and things that spoil it.", "items": ["Natural colours", "Throwing mud", "Sharing sweets with neighbours", "Very loud crackers", "Forgiving old quarrels", "Coal-tar on faces"], "cats": ["Makes it better", "Spoils it"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Festival detective",
+      "day": 5,
+      "sections": [
+        ["A. Who am I?", [
+          {"t": "mcq", "p": "I am celebrated for nine nights before a tenth day when effigies are burnt. I am:", "opts": ["Christmas", "Navratri and Dussehra", "Pongal", "Republic Day"], "a": 1},
+          {"t": "mcq", "p": "I fall on the darkest night of Kartik and my five days end with Bhai Dooj. I am:", "opts": ["Holi", "Eid", "Deepawali", "Lohri"], "a": 2},
+          {"t": "mcq", "p": "I remember a teacher who said non-violence is the highest religion. I am:", "opts": ["Mahavir Jayanti", "Bihu", "Christmas", "Lohri"], "a": 0}
+        ]],
+        ["B. Science inside festivals", [
+          {"t": "write", "p": "You painted haldi water on paper and touched it with soapy water. What happened, and what does it tell you about colours?", "lines": 3},
+          {"t": "write", "p": "The spoon above the diya turned black. What is that black stuff, and why is it bad to breathe lots of it?", "lines": 3},
+          {"t": "draw", "p": "Draw the moon on Amavasya, on a crescent day and on Purnima, as you saw them in the ball-and-lamp model."}
+        ]],
+        ["C. National festivals and the moon", [
+          {"t": "table", "p": "Fill in the national festivals.", "cols": ["Festival", "Date", "Year it marks", "Who hoists the flag or what people do"], "rows": 3, "prefill": ["Independence Day", "Republic Day", "Gandhi Jayanti"]},
+          {"t": "sort", "p": "Sort these festivals by what decides their date.", "items": ["Christmas", "Holi", "Eid-ul-Fitr", "Independence Day", "Guru Nanak Jayanti", "Republic Day", "Deepawali"], "cats": ["Fixed date in the calendar", "Follows the moon"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Festival puzzles and views",
+      "day": 7,
+      "sections": [
+        ["A. Calendar puzzles", [
+          {"t": "fill", "p": "12 moon-months make about 354 days. A calendar year has 365 days. So Eid comes about ____ days earlier each year.", "a": ["11", "eleven"]},
+          {"t": "write", "p": "If Eid was in April this year, in which month will it be about three years from now? Show how you worked it out.", "lines": 3},
+          {"t": "mcq", "p": "Why does Deepawali stay in October or November even though it follows the moon?", "opts": ["It does not follow the moon", "An extra month is added to the Hindu calendar about every three years", "The moon is always full in Kartik", "The government fixes it"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if the Earth did not spin? Would we still have day and night? Think about what Aryabhata said.", "lines": 3},
+          {"t": "write", "p": "What if every festival in India were celebrated by only one religion and no one joined anyone else's? What would we lose?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some people say Eid should begin only when the crescent is seen with the eyes; others say we can calculate it. Write one good reason for each side.", "lines": 4},
+          {"t": "write", "p": "Makara Sankranti is on about 14 January, but the noon sun starts climbing higher from about 21 December. Using your shadow stick results, explain how both can be called the start of Uttarayan.", "lines": 4}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The noon shadow stick",
+      "day": 1,
+      "question": "Does the length of the noon shadow change from week to week, and what does that tell us about the sun's path?",
+      "need": ["a straight stick or 30 cm ruler", "clay or a bottle filled with sand to hold it upright", "a sheet of paper and tape", "a ruler and pencil", "a phone compass and clock"],
+      "steps": [
+        "Tape the paper flat on a sunny floor and stand the stick upright at one edge of it.",
+        "Mark where the stick stands so you can put it back in exactly the same place.",
+        "At about 12 noon, mark the tip of the shadow with a dot and write the date.",
+        "Measure the shadow length from the stick to the dot.",
+        "Repeat at the same time on Days 2, 5 and 6 (and if possible again a month later).",
+        "Compare the dots: are they moving towards the stick or away from it?"
+      ],
+      "predict": "Ask your child to guess first: in a week, will the noon shadow be longer, shorter or the same? Why?",
+      "observe": "Record the date and shadow length each time. Between late December and late June the noon shadow gets shorter; between late June and late December it gets longer. The change is fastest in March and September and very slow near 21 June and 21 December.",
+      "why": "The Earth's spin axis is tilted, so as the Earth goes round the sun during the year, the sun at noon stands higher in our sky in summer and lower in winter. A higher sun casts a shorter shadow. The lowest noon sun, and the shortest day, comes at the winter solstice around 21–22 December; after that the sun climbs higher and rises further north each day: this is Uttarayan, the sun's northward journey. Makara Sankranti on about 14 January is fixed by the sun's position among the stars (entering Makara, Capricorn), not by the solstice. Because the Earth's axis wobbles slowly like a spinning top (once in about 26,000 years), the star date and the solstice have drifted about three weeks apart over roughly 1,700 years.",
+      "safety": "Never look straight at the sun. Look only at the shadow.",
+      "time": "12 min to set up + 3–8 min checks on Days 2, 5 and 6"
+    },
+    {
+      "id": "e2",
+      "title": "Natural Holi colours and the turmeric surprise",
+      "day": 3,
+      "question": "Can we make safe colours from kitchen things, and are colours just colours, or are they chemicals that can change?",
+      "need": ["haldi (turmeric), besan or cornflour", "one beetroot", "spinach or mehendi powder", "baking soda or soap", "a lemon", "plates, spoons, a paintbrush, white paper"],
+      "steps": [
+        "Mix 1 spoon of haldi into 4 spoons of besan or cornflour for yellow.",
+        "Rub beetroot juice into cornflour and let it dry on a plate for pink.",
+        "Mix spinach paste or mehendi powder into cornflour for green.",
+        "Stir a pinch of haldi into a little water and paint three spots on paper.",
+        "Touch one spot with soapy water or baking soda water, one with lemon juice, and leave one alone.",
+        "Compare the three spots after one minute."
+      ],
+      "predict": "Ask your child to guess first: what will happen to the yellow haldi spot when soapy water touches it? When lemon juice touches it?",
+      "observe": "The soap or baking-soda spot turns red-brown; the lemon spot stays bright yellow; the untouched spot stays yellow. The kitchen colours rub off easily and smell of food.",
+      "why": "Every colour, natural or factory-made, is a chemical. The yellow in turmeric is a chemical called curcumin. Soap and baking soda are bases (the opposite of acids), and curcumin changes shape in a base so it reflects red light instead of yellow; lemon is an acid, so curcumin stays yellow. Scientists call a colour that changes like this an indicator. The point is not that 'natural' means 'no chemicals', but that kitchen colours are chemicals we already eat safely. Cheap factory Holi colours can contain chemicals never meant for skin, such as industrial dyes, powdered glass for shine, or heavy metals, which can cause rashes, eye injuries and breathing trouble.",
+      "safety": "Keep colours away from eyes. Haldi and beetroot can stain clothes and hands for a while. Do not use any colour that smells of petrol or has shiny particles.",
+      "time": "18 min"
+    },
+    {
+      "id": "e3",
+      "title": "Phases of the moon with a ball and a lamp",
+      "day": 4,
+      "question": "Why does the moon change shape through the month, from Amavasya to Purnima?",
+      "need": ["a lamp without a shade, or a phone torch on a pile of books", "a ball or an orange stuck on a pencil", "a room that can be darkened", "the moon diary"],
+      "steps": [
+        "Darken the room and switch on the lamp on one side: this is the sun.",
+        "Your child holds the ball at arm's length, slightly above their head: their head is the Earth, the ball is the moon.",
+        "Face the lamp with the ball in front of it: see the dark side of the ball (new moon, Amavasya).",
+        "Turn slowly to the left, keeping the ball in front of your face. Watch a thin crescent appear.",
+        "Keep turning: half-lit (quarter moon), then fully lit when the lamp is behind you (full moon, Purnima). Keep the ball just above your head's shadow.",
+        "Continue round to come back to the dark new moon. Compare each shape with the moon diary."
+      ],
+      "predict": "Ask your child to guess first: as you turn round, will the ball always look fully lit, or will its shape change? Why does the real moon change shape?",
+      "observe": "Record the shape of the lit part at each quarter turn. The lit part grows from a thin crescent to a full circle, then shrinks again.",
+      "why": "The moon makes no light of its own: one half of it is always lit by the sun, like the ball by the lamp. As the moon travels round the Earth once in about 29 and a half days, we see different amounts of its lit half. When it is between us and the sun, we face its dark half: Amavasya. When it is on the far side of the Earth from the sun, we see the whole lit half: Purnima. The first thin crescent after the new moon, seen just after sunset, starts each month of the Islamic calendar, which is why Eid begins with a moon sighting. Holi and Guru Nanak Jayanti fall on Purnima, and Deepawali on Amavasya.",
+      "safety": "Do not touch a hot bulb. Keep the room clear so no one trips while turning in the dark.",
+      "time": "12 min"
+    },
+    {
+      "id": "e4",
+      "title": "The soot test: what is smoke?",
+      "day": 5,
+      "question": "Is smoke only a gas, or does it carry tiny solid bits that can get into our lungs?",
+      "need": ["a diya or candle and matches (adult use)", "a steel spoon", "white tissues", "an agarbatti (optional)"],
+      "steps": [
+        "An adult lights the diya and holds a steel spoon about 2 cm above the flame for 10 seconds.",
+        "Let the spoon cool for a minute, then your child wipes the bottom with a white tissue.",
+        "Blow out the candle or agarbatti and hold a white tissue near the rising smoke for 30 seconds (not in the flame).",
+        "Look at both tissues closely.",
+        "Talk about how many crackers burn in one city on one night."
+      ],
+      "predict": "Ask your child to guess first: will the tissue stay white, or will something black come off the spoon? Is smoke just air?",
+      "observe": "Black soot comes off the spoon onto the tissue. The tissue held in smoke turns slightly grey or yellow and smells smoky.",
+      "why": "A flame burns oil or wax, but not every bit burns completely. The unburnt bits of carbon float up as soot, too small to see one by one. Smoke is a mix of hot gases and these tiny solid and liquid particles. The smallest ones (scientists call them PM2.5, finer than a thirtieth of a hair's width) go deep into our lungs and can make asthma and coughs worse. Firecrackers burn gunpowder and metal salts (which give the colours) all at once, so they release far more smoke and harmful gases in a few hours, and their bangs can be loud enough to damage hearing. That is why the book says children, old and sick people suffer most.",
+      "safety": "An adult handles the flame and the spoon. Tie back long hair and keep tissues away from the flame. Do this near an open window and only for a short time.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Our festival calendar wheel",
+      "day": 1,
+      "mins": 17,
+      "need": ["chart paper", "sketch pens", "this year's calendar"],
+      "steps": [
+        "Draw a big circle and divide it into 12 slices, with January at the top.",
+        "Write each festival from the lesson in its month, with a small drawing (a kite, a diya, a star, a crescent).",
+        "Add your family's own festivals and birthdays.",
+        "Circle festivals whose date moves each year.",
+        "Colour the three national festivals in saffron, white and green.",
+        "Hang it on the wall and add to it during the year."
+      ],
+      "outcome": "A wall calendar of India's festivals that shows which come with the harvest, which follow the moon and which are national."
+    },
+    {
+      "id": "a2",
+      "title": "Til-gud laddoos for Makara Sankranti",
+      "day": 2,
+      "mins": 12,
+      "need": ["half a cup of white til", "a quarter cup of jaggery", "1 spoon ghee", "a kadhai and spoon", "a greased plate"],
+      "steps": [
+        "An adult dry-roasts the til on low heat until it smells nutty, then sets it aside.",
+        "An adult melts the jaggery with the ghee and a spoon of water until it bubbles.",
+        "Mix in the til and take it off the heat.",
+        "When it is warm but not hot, your child greases their palms and rolls small laddoos.",
+        "Say 'Tilgul ghya, goad goad bola' (take til-gud and speak sweetly).",
+        "Share some with a neighbour."
+      ],
+      "outcome": "A plate of home-made til-gud laddoos, and the idea that harvest foods are shared to make relations sweeter."
+    },
+    {
+      "id": "a3",
+      "title": "Moon diary",
+      "day": 3,
+      "mins": 8,
+      "need": ["a notebook", "a pencil", "a calendar showing Purnima and Amavasya"],
+      "steps": [
+        "Each night at about the same time, find the moon from a window or outdoors.",
+        "Draw its shape in a small box with the date and time.",
+        "If it is cloudy or you cannot find the moon, write that down too.",
+        "Mark this month's Purnima and Amavasya from the calendar.",
+        "After a week, see whether the moon is growing (waxing) or shrinking (waning).",
+        "Continue until the next Purnima if you can."
+      ],
+      "outcome": "A diary of real moon shapes that matches the ball-and-lamp model and explains why moon-based festivals move."
+    },
+    {
+      "id": "a4",
+      "title": "A paper Tiranga with the right proportions",
+      "day": 6,
+      "mins": 9,
+      "need": ["white paper", "scissors", "a ruler", "saffron, green and navy-blue crayons"],
+      "steps": [
+        "Cut paper to 15 cm long and 10 cm high (3 to 2).",
+        "Draw two lines to make three equal stripes, each about 3.3 cm high.",
+        "Colour the top saffron and the bottom green; leave the middle white.",
+        "Draw a navy-blue circle in the centre of the white stripe and 24 spokes.",
+        "Glue it to a straw or stick.",
+        "Keep it safely after the day; never throw it on the ground."
+      ],
+      "outcome": "A correctly proportioned paper national flag with a 24-spoke Ashoka Chakra."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Aryabhata (476–about 550 CE), India",
+      "idea": "In his book the Aryabhatiya, written in 499 CE when he was 23, Aryabhata said that the Earth spins on its own axis, and that the stars only appear to move across the sky each night, just as a person in a moving boat sees the trees on the bank moving backwards. He also explained that the moon shines by reflecting sunlight and that eclipses are caused by shadows of the Earth and moon, not by demons swallowing the sun.",
+      "then": "Many later Indian astronomers, including the great Brahmagupta, rejected the spinning Earth, asking why things on it are not flung off. Some later copyists and commentators even changed his words so that the stars moved instead of the Earth.",
+      "now": "Aryabhata was right that the Earth spins, once a day, which gives us day and night. This was fully proved only much later, for example by Foucault's swinging pendulum in Paris in 1851. India's first satellite, launched in 1975, was named Aryabhata after him.",
+      "status": "accepted",
+      "ask": "Sitting still, you cannot feel the Earth spinning, and the sun seems to move across the sky. What evidence would make you believe the Earth is the one moving?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Moon-sighting committees and astronomers: a live debate about Islamic calendars",
+      "idea": "The Islamic calendar is purely lunar: each month starts with the new crescent moon, and Eid-ul-Fitr begins the day after the crescent that ends Ramazan is seen. Traditionally, people must see it with their own eyes, and in India local moon-sighting committees (Ruet-e-Hilal committees) announce when it has been seen. Astronomers can now calculate the moment of the new moon, and roughly when a crescent becomes visible, years in advance.",
+      "then": "For centuries, sighting by eye was the only method. As astronomy improved, some Muslim scholars argued that reliable calculations should be accepted; others replied that the tradition asks for an actual sighting.",
+      "now": "Both views are held today. Some councils, such as the Fiqh Council of North America, decided in 2006 to use astronomical calculations; many scholars and committees, including most in India, still require a local sighting. So Eid can fall on different days in different countries, or even different cities. This is a debate about tradition and method, not about the moon itself, which both sides agree on.",
+      "status": "debated",
+      "ask": "If clouds hide the crescent but the calculation says it is there, has the new month begun? What would you trust more, your eyes or a calculation, and why?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Guru Nanak (1469–1539), Punjab",
+      "idea": "Guru Nanak, born in Talwandi (now Nankana Sahib in Pakistan), taught that all people are equal before God, whatever their caste, religion or whether they are a man or a woman. The langar, the free community kitchen where everyone sits together in rows (pangat) on the floor and eats the same food, became a way of practising this equality; later Sikh Gurus made it a central part of every gurdwara.",
+      "then": "In his time many people believed that eating with people of other castes made them impure, so sitting together in one row was a bold challenge to the custom. Some people, both rich and poor, refused at first.",
+      "now": "Langar is served in gurdwaras across the world; the Golden Temple in Amritsar serves free meals to tens of thousands of people every day, cooked and served mostly by volunteers. The idea that people must not be treated differently by caste is now part of India's Constitution, though caste discrimination still exists in some places.",
+      "status": "accepted",
+      "ask": "Why do you think eating the same food, sitting in the same row, makes people feel equal? What would you need to see to know that a custom has really changed people's minds?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "What does 'unity in diversity' mean, and how do festivals show it?", "a": "People of many religions, regions and languages live as one country. Festivals show it because people of other religions join each other's celebrations, such as Eid seviyan, Christmas cake and Diwali sweets shared among neighbours."},
+    {"q": "Give three names of Makara Sankranti in different states, and say why it is celebrated.", "a": "Pongal in Tamil Nadu, Bihu in Assam, Lohri in Punjab, kite-flying Uttarayan in Gujarat, Khichadi Sankranti in Bihar and Uttar Pradesh. It is a harvest festival when new crops like rice, til and sugarcane are in."},
+    {"q": "What is the story behind Holika Dahan, and what does the book say spoils Holi?", "a": "Holika, who could not be burnt, sat in a fire with Prahlad, but Prahlad was saved and Holika burnt: good over evil. Holi is spoiled by mud, coal-tar, chemical colours, drunkenness and taking revenge."},
+    {"q": "Why does Eid come about 11 days earlier every year?", "a": "The Islamic calendar follows the moon: 12 moon-months are about 354 days, 11 days fewer than a 365-day year. Each month begins when the new crescent moon is seen."},
+    {"q": "What is langar and what does it teach?", "a": "Langar is the free community meal in a gurdwara, served to everyone, whatever their caste, religion or status, sitting together. It teaches equality, sharing and service."},
+    {"q": "Name the five days of Deepawali and say why too many crackers are harmful.", "a": "Dhanteras, Narak Chaturdashi (Choti Diwali), Deepawali with Lakshmi Puja on Amavasya, Govardhan Puja, Bhai Dooj. Crackers make smoke full of tiny particles and harmful gases, and loud noise, which hurt children, old and sick people most."},
+    {"q": "What are our three national festivals and what does each mark?", "a": "Independence Day, 15 August, freedom from British rule in 1947; Republic Day, 26 January, the Constitution coming into force in 1950; Gandhi Jayanti, 2 October, Mahatma Gandhi's birth in 1869."},
+    {"q": "Why does the moon look different on Amavasya and Purnima?", "a": "The moon is lit by the sun. On Amavasya it is between the Earth and the sun, so we see its dark side; on Purnima it is on the far side of the Earth, so we see its whole lit face."}
+  ]
+}

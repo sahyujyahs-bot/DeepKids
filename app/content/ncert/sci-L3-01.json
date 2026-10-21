@@ -1,0 +1,604 @@
+{
+  "key": "ncert|sci|3|1",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 1,
+  "title": "Family and Friends",
+  "source": "NCERT Our Wondrous World, Class 3, Unit 1, Chapter 1 (pages 3–18), Reprint 2026-27",
+  "summary": "Bela tells us about her family: Banku Bhaiya, little Bishu, her parents, Dadiji, Dadaji and their dog Shiru, and about Munni and Kusum Mausi next door. Your child learns that families are big and small and come in many shapes, that family members share work and care for each other, for animals and for plants, and that we learn from elders and friends. Along the way they measure their own family, make flower colours like Munni, and meet scientists who study families and friendships in elephants, chimpanzees and people.",
+  "goals": [
+    "By the end your child can name the members of their own family and of Bela's family, and say what they call each one (mausi, chacha, bua, mama, dadi, nani and so on) and how each is related.",
+    "By the end your child can explain that families can be big or small and come in many shapes, and that pets, plants and neighbours can be part of a family's life.",
+    "By the end your child can list the jobs done in their home, say who does each, and explain why sharing work is fair.",
+    "By the end your child can collect information about their family (oldest, youngest, tallest, hand span, arm span) in a table and say what the numbers show.",
+    "By the end your child can explain how colours can be made from flowers and spices, and why a hibiscus colour changes with lemon or soap.",
+    "By the end your child can say what scientists have found about animal families and friendships, and what evidence would convince them that an animal has a friend."
+  ],
+  "words": [
+    ["family", "a group of people who live together or are related, and who love, care for and support each other"],
+    ["relative", "a person who belongs to your family through your mother or father, even if they live far away, like your nani, chacha or cousin"],
+    ["relationship", "how two people are connected, for example 'my mother's sister' is the relationship, 'Mausi' is what you call her"],
+    ["joint family", "a big family where grandparents, parents, uncles, aunts and cousins live together in one home"],
+    ["nuclear family", "a small family of parents (or one parent) and their children living together"],
+    ["generation", "all the people in a family born around the same time: grandparents are one generation, parents the next, children the next"],
+    ["neighbour", "a person who lives near your home"],
+    ["pet", "an animal that lives with a family and is cared for by them, like Shiru the dog"],
+    ["elder", "an older person in the family or community, like Dadaji or Dadiji, from whom we learn"],
+    ["rangoli", "a pattern made on the floor with coloured powder, rice, flowers or leaves, often at the door of a home"],
+    ["survey", "asking or measuring many people the same way and writing the answers in a table so you can compare them"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Meet Bela's family",
+      "goal": "Start from who lives in our own home, meet Bela and her family, sing a rain song and test which paper boat floats longest.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Who is at home right now?",
+          "mins": 5,
+          "do": "Ask your child: 'Who lives in our home? Count them on your fingers.' Then: 'Who else is in our family but does not live here?' Good answers name people and where they live: 'Nani lives in Pune', 'Chacha lives in Dubai'. If they forget someone, give a clue ('Who sends you a rakhi?' or 'Whose house do we go to in the holidays?'). Write the names in the notebook in two lists: 'Lives with us' and 'Lives somewhere else'. Keep this page; we use it all week."
+        },
+        {
+          "kind": "read",
+          "title": "Playing Together (pages 3–4)",
+          "mins": 7,
+          "do": "Read pages 3 and 4 aloud together. Bela says 'Namaste!' and introduces her brothers Banku Bhaiya and little Bishu, the game of chhupan-chhupai (hide and seek), peek-a-boo with Bishu, and the garden where relatives, friends and neighbours sit and laugh. Ask: 'How many brothers does Bela have? Which one is the youngest?' (Two; Bishu is the youngest.) 'Why do they play peek-a-boo with Bishu and not chhupan-chhupai?' (He is a baby; peek-a-boo is a game for very young children, explained in the footnote on page 4.) 'Who comes to sit in Bela's garden?' (Relatives, friends, neighbours, and her tired parents in the evening.)"
+        },
+        {
+          "kind": "read",
+          "title": "Singing Together and the rain song (page 5)",
+          "mins": 6,
+          "do": "Read page 5: on rainy days the family sits under a shelter, plays antakshari and snakes and ladders, and Dadiji and Mother make pakodas and tea. Read 'A Rain Song' aloud, then read it again with your child joining in. Ask: 'Which things in the song do you see when it rains here?' (Dark clouds, puddles, raindrops on windows, birds huddled in trees; peacocks only in some places.) 'Why do birds huddle together in the rain?' (Sitting close keeps them warmer and some leaves shelter them.) Then ask the page 6 question: 'What do you and your family do when it rains?' and, if you know one, sing a rain song from your own language together."
+        },
+        {
+          "kind": "exp",
+          "title": "Paper boat race",
+          "mins": 17,
+          "do": "Do Experiment e1. The rain song has paper boats in puddles. Fold three paper boats with your child (newspaper, a notebook page, and a notebook page coloured all over on the outside with wax crayon). Before they go in the water, ask your child to guess which will float longest and to write the guess down. Float all three in a bucket or a big basin and check every 2 minutes. Ask: 'Which one sank first? Where did the water get in?' Explain the 'why' from e1 in your own words.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "My family table (page 6)",
+          "mins": 5,
+          "do": "Look at the table on page 6 with the example 'Urmila, Mother's sister, Mausi'. Show your child the three columns: Name, Relationship with you, You call them. Fill in three rows together in the book or notebook, using people from this morning's list. For example: 'Sunita, Father's mother, Dadi.' If your child writes 'aunty' for both a mausi and a bua, ask: 'Is she your mother's sister or your father's sister?' We will come back to these words on Day 7."
+        }
+      ],
+      "need": ["Textbook pages 3–6", "notebook and pencil", "a sheet of newspaper and 2 notebook pages", "wax crayons", "a bucket or big basin of water", "a phone timer"],
+      "prep": [{"task": "Keep an old newspaper and fill a bucket with water; practise folding one paper boat if you have not done it for a while", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "Laughing together: games from Dadaji's time",
+      "goal": "Learn that elders teach us games and songs, find out what our grandparents played, and play one of their games.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Dadaji's games and Shiru (page 7)",
+          "mins": 6,
+          "do": "Read page 7 aloud: Dadaji teaches Banku and Bela the games he played as a boy, and Shiru the dog runs and barks and wags his tail. Ask: 'Why does the book say Shiru is a member of the family?' (He lives with them, has a special place at home, they share food with him and never hurt him.) 'How can you tell a dog is happy?' (Wagging tail, running, jumping, soft eyes.) Then read the question at the bottom of page 7: 'Do you know what games your grandparents used to play when they were young?' Let your child guess before the interview."
+        },
+        {
+          "kind": "act",
+          "title": "Then-and-Now interview",
+          "mins": 15,
+          "do": "Do Activity a1. Call a grandparent (or sit with the oldest person at home or next door). Your child asks the five questions in the a1 table: favourite game, favourite food, how they got to school, a toy, and a chore they did at age 8. You help write the answers; your child writes their own answers in the 'Me now' column. Prompt the grandparent to describe one game properly: how many players, what you need, how you win. Good answers to listen for: gilli-danda, kancha (marbles), pitthoo or lagori, kho-kho, langdi, pallanguzhi, chaupar, hopscotch (stapu or kith-kith).",
+          "ref": "a1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Play Dadaji's game",
+          "mins": 15,
+          "do": "Play the game the grandparent described, right away, in the compound, terrace or a corridor. If they described nothing playable indoors, play stapu (hopscotch): draw 8 boxes with chalk, throw a flat stone into box 1, hop over it through all the boxes on one foot and back, picking up the stone on the way. Afterwards ask: 'How is this game different from a phone or video game?' (It needs only stones or chalk, you play with people, your body moves, the rules are passed on by people.) 'Who taught it to Dadaji?' (His friends or elders, so it is very old.)"
+        },
+        {
+          "kind": "talk",
+          "title": "What game will you pass on?",
+          "mins": 4,
+          "do": "Ask: 'When you are a Dadaji or Dadiji, which game will you teach your grandchildren? How will you explain the rules?' Let your child explain the rules of one game they love in four sentences, as if to a much younger child. Write it in the notebook under 'Games I will pass on'."
+        }
+      ],
+      "need": ["Textbook page 7", "a phone to call a grandparent or an elder nearby", "Activity a1 table copied into the notebook", "chalk and a flat stone"],
+      "prep": [{"task": "Fix a time with a grandparent or elderly neighbour for a 15-minute call or visit", "when": "2 days before"}]
+    },
+    {
+      "n": 3,
+      "title": "Families big and small, with animals too",
+      "goal": "Read the 'Types of Families' poem, understand that families come in many sizes and shapes, and think about animals in our families and in the wild.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Types of Families poem (pages 7–8)",
+          "mins": 7,
+          "do": "Read the poem 'Types of Families' on pages 7–8 aloud together, one line each. Ask the poem's own question: 'There are parents, children and grandparents, and others too. Can you tell who?' (Uncles, aunts, cousins, a mausi who lives with the family, step-parents, adopted children, a helper who has lived with the family for years.) Ask the question on page 8: 'Would you call Bela's family a big or a small family?' (Big: three children, parents, two grandparents and a dog.) Read the box on page 8: a family can have a few or many members."
+        },
+        {
+          "kind": "talk",
+          "title": "Many kinds of families",
+          "mins": 7,
+          "do": "Draw four quick stick-figure houses in the notebook and talk through four real kinds of families: a joint family (grandparents, parents, uncles, aunts and cousins in one home); a nuclear family (parents and children); a single-parent family (one parent and children); and grandparents raising grandchildren. Ask: 'Which one is the real family?' Listen for: 'All of them; what matters is that they care for each other.' Then ask: 'Is our family joint or nuclear? Was it always like this?' Many children find that their parents grew up in a joint family. Read the line on page 9 aloud: 'Everyone loves each other and takes care of each other.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Animals near our home (page 8)",
+          "mins": 8,
+          "do": "Ask the four questions on page 8 one by one. 'What games do you play with elders?' 'Which animals come to your home or neighbourhood?' (Crows, pigeons, sparrows, mynas, street dogs, cats, cows, monkeys, squirrels, lizards.) 'Have you ever shared food with them?' 'Why should we not hurt or tease animals?' Good answers: 'They feel pain and fear like us', 'A scared animal can bite', 'They are part of our neighbourhood.' Read the paragraph on page 9 about cows, buffaloes, dogs, parrots, cats and goats being part of a family. Ask: 'Should we give a street dog biscuits or chocolate?' (No: chocolate is poisonous to dogs; plain roti and clean water are better.)"
+        },
+        {
+          "kind": "think",
+          "title": "Jane Goodall and the chimpanzee families",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words: a young woman went to a forest in Tanzania in 1960, gave the chimpanzees names like David Greybeard and Flo, and found that they have families, best friends and different personalities. Many scientists said she should use numbers, not names, and that she was imagining feelings. Ask: 'Why might it matter whether you call an animal number 7 or Flo?' Then ask the voice question and let your child answer fully before you share your view.",
+          "ref": "v1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Ten-minute animal watch",
+          "mins": 8,
+          "do": "Go to a window, balcony or the gate and watch one group of animals for 8 minutes: pigeons on a ledge, crows on a wire, street dogs, or sparrows. Your child writes in the notebook: 'How many? Do some always stay close together? Does one chase others away? Does any animal feed or groom another?' Ask at the end: 'Did any two seem to be friends? What did you see that makes you think so?' Good answer gives evidence: 'Those two dogs lay together and the brown one let the black one eat first.'"
+        }
+      ],
+      "need": ["Textbook pages 7–9", "notebook and pencil", "a window, balcony or gate where birds or dogs can be seen"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Helping each other at home",
+      "goal": "See how Bela's family shares the work, list every job in our own home and who does it, and start a one-week chore wheel.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Helping Each Other (pages 9–10)",
+          "mins": 7,
+          "do": "Do Activity 1 on page 9: your child looks at each picture, ticks and colours the activities they also see in their own family. Then read page 10 aloud: Dadiji oils and braids Bela's hair and hums a song; Bela's parents help each other in all the housework, from cooking and cleaning to shopping; Banku cleans and chops vegetables and Bela helps Dadaji in the garden. Ask: 'Who does the cooking in Bela's home?' (Both parents help each other in all the housework.) 'What does Bela learn while Dadiji braids her hair?' (Songs.)"
+        },
+        {
+          "kind": "do",
+          "title": "Who does what? (pages 15–16)",
+          "mins": 8,
+          "do": "Turn to the table on page 16 (the question on page 15 asks you to fill it in). For each job, ask your child who does it at home: cooking food, watering plants, mending things (sewing a button, fixing a tap), cleaning the house, buying things from the market. Add three more rows: washing clothes, looking after the youngest or oldest person, and paying bills or earning money. Ask: 'Which job does the most people? Which job is done by only one person? Is that fair?' Let your child answer honestly; there is no wrong answer, but ask for a reason."
+        },
+        {
+          "kind": "act",
+          "title": "Make the chore wheel",
+          "mins": 10,
+          "do": "Start Activity a2. Cut a circle from cardboard, divide it into 6 slices like a pizza and write one job in each slice (watering plants, setting plates, folding clothes, sweeping one room, feeding a pet or birds, putting shoes away). Cut a smaller circle with family members' names, pin both through the centre with a split pin or a pencil, and stick the Chore Wheel Week table from a2 on the fridge. Each morning this week, turn the inner wheel one step so everyone gets a new job. Your child ticks the table each evening.",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: My family and our work",
+          "mins": 13,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. For the family-table item, use the list made on Day 1. For the relation items, if your child is unsure, say the relationship slowly ('your mother's sister') and let them think. Mark answers together; for any mistake, open the page in the book that shows it (Bela's family p3–7, family work p10 and p16).",
+          "ref": "ws1"
+        },
+        {
+          "kind": "talk",
+          "title": "Who needs special care? (page 12)",
+          "mins": 2,
+          "do": "Ask the question on page 12: 'Some people in the family need special care, like grandparents, small children or someone who is sick. How do you help them?' Good answers: 'I bring Dadi her glasses', 'I play with my baby cousin so Mummy can rest', 'I stay quiet when Papa has fever.'"
+        }
+      ],
+      "need": ["Textbook pages 9–10, 12, 15–16", "colour pencils", "2 pieces of cardboard, scissors, a split pin or pencil", "worksheet ws1"],
+      "prep": [{"task": "Find a cereal box or carton to cut two circles from", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Munni's rangoli and colours from flowers",
+      "goal": "Meet Munni and Kusum Mausi, make colours from flowers and haldi and see them change, and make a rangoli from fallen leaves and flowers.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Chore wheel turn",
+          "mins": 2,
+          "do": "Turn the inner circle of the chore wheel from Activity a2 by one slice. Your child reads out everyone's new job and ticks yesterday's jobs on the fridge table. Ask: 'Did anyone forget? How did it feel to do a new job?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Munni and Kusum Mausi (pages 11–12)",
+          "mins": 6,
+          "do": "Read page 11 aloud: Munni and her mother Kusum Mausi live nearby; Kusum Mausi is the mother's close friend who is like a sister, and she cooks sweets and special dishes at festivals; Munni makes rangoli with colours made from dried flowers, and sometimes with leaves and flowers. Ask: 'Is Kusum Mausi Bela's mother's real sister?' (No; she is a close friend who is like a sister, so Bela calls her Mausi.) 'Do you call anyone Mausi, Chacha or Aunty who is not related to you?' Then ask the page 12 questions: 'What have you learnt from your family and from whom? Has anyone learnt anything from you?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Magic flower colours",
+          "mins": 17,
+          "do": "Do Experiment e2. Crush 4–5 red hibiscus (gudhal) petals in a small bowl with 3 tablespoons of warm water to get a purple-red liquid, and mix half a teaspoon of haldi (turmeric) in a second bowl of water. Pour each into three small cups. Before adding anything, ask your child to guess what will happen when you add lemon juice to one cup and soap water or a pinch of baking soda to another. Add them and watch. Your child paints a stripe of each colour on white paper and labels it. Explain the 'why' of e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: Fallen-leaf rangoli (page 12)",
+          "mins": 15,
+          "do": "Do Activity 2 on page 12. Go out together and collect only leaves and flowers that have already fallen on the ground (marigold, bougainvillea, neem, peepal, hibiscus). At home, on a clean patch of floor near the door or on a tray, your child makes a rangoli: a flower in the centre, then rings of leaves outward. Add a border of the hibiscus and haldi paints from e2 on paper if you like. Ask: 'Why did we only take fallen leaves?' (Picking living ones hurts the plant, and fallen ones are free.) Take a photo and send it to the grandparent you interviewed."
+        }
+      ],
+      "need": ["Textbook pages 11–12", "5 red hibiscus flowers (or fallen petals)", "haldi powder", "1 lemon", "soap water or baking soda", "6 small cups or katoris and 2 bowls", "white paper and a paintbrush or cotton bud", "fallen leaves and flowers", "a phone for a photo"],
+      "prep": [{"task": "Find a hibiscus plant nearby or buy 5 red hibiscus flowers from a flower seller", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Measuring my family",
+      "goal": "Find the oldest, youngest and tallest in the family, run a hand-span and arm-span survey, and learn why the oldest elephant leads the herd.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Oldest, youngest, tallest (pages 12–13)",
+          "mins": 6,
+          "do": "Answer the questions at the bottom of page 12 and the top of page 13 in the book: 'Who is the oldest person in your family? Who is the youngest? Who is the tallest?' Then: 'Do you have members in your family who do not live with you? Where do they live? How often do you meet them?' (Use the Day 1 list.) Ask your child: 'Is the oldest person always the tallest?' Let them guess; we will check with the tape now."
+        },
+        {
+          "kind": "exp",
+          "title": "Family hand-span and arm-span survey",
+          "mins": 18,
+          "do": "Do Experiment e3. Measure everyone at home (and a neighbour or Munni-like friend if they are willing): height (stand against a wall, mark the top of the head with a pencil, measure from the floor), hand span (stretch the fingers wide, thumb tip to little-finger tip) and arm span (arms stretched out sideways, middle fingertip to middle fingertip, measured along a wall). Your child records it in the e3 table. Before measuring, ask: 'Will anyone's arm span be the same as their height?' After measuring, ask: 'Whose arm span is closest to their height? Are the children's numbers closer to Mummy's or Papa's?'",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Why the oldest elephant leads",
+          "mins": 10,
+          "do": "Ask: 'In Bela's family, who teaches games and songs?' (Dadaji and Dadiji, the oldest ones.) Tell the story in Voice v2: in elephant herds the oldest female, the matriarch, leads her daughters, sisters and their calves, and scientists found that herds with older matriarchs were better at telling friendly elephants from strangers. Tell them that the Indian scientist Raman Sukumar has spent his life studying Asian elephants in India's forests. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "What do the numbers tell us?",
+          "mins": 6,
+          "do": "Look at the e3 table together. Your child writes three true sentences that start with a number, such as: 'Dadi is the oldest at 68 years but Papa is the tallest at 172 cm', 'My hand span is 13 cm, half of Papa's', 'Mummy's arm span was only 2 cm more than her height.' Ask: 'Can you be sure arm span equals height for everyone in the world from just our family?' (No; we measured only a few people; we would need many more.)"
+        }
+      ],
+      "need": ["Textbook pages 12–13", "a measuring tape (cloth tailor's tape or steel tape)", "a pencil for marking the wall", "the e3 table in the notebook", "a book to hold flat on the head while marking"],
+      "prep": [{"task": "Ask family members to be home at the same time for 15 minutes of measuring", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Relatives and what we call them",
+      "goal": "Work out Bela's relationships, draw our own family, learn the exact words for relatives in our language, and play Relation Railway.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Chore wheel turn",
+          "mins": 2,
+          "do": "Turn the chore wheel from Activity a2 one slice and read out the new jobs. Ask: 'Which job has been hardest so far? Which job do you now want to keep?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activities 3 and 4 (pages 13–14)",
+          "mins": 10,
+          "do": "Do Activity 3 on page 13: look at the pictures around Bela and write her relationship with each person (for example 'brother', 'grandmother – Dadiji', 'father'). Then do Activity 4 on page 14: your child draws everyone in your family and writes their relationship under each, as on page 13. Encourage them to include family who live far away and the pet if you have one. Ask: 'Who is in your picture who is not related to you by birth?' (Perhaps Mummy's side and Papa's side are joined by marriage; a pet; a helper.)"
+        },
+        {
+          "kind": "read",
+          "title": "Relatives who visit (page 15)",
+          "mins": 5,
+          "do": "Fill in the table at the top of page 15: names of relatives who visit, how they are related, and what you call them. Then read the paragraph on page 15 aloud: our family includes relatives who may not live with us; they are related to us through our mother or father. Ask: 'Is your mama related to you through Mummy or Papa?' (Mummy: he is her brother.) 'And your bua?' (Papa: she is his sister.)"
+        },
+        {
+          "kind": "talk",
+          "title": "One English word, many Hindi words",
+          "mins": 6,
+          "do": "Write 'uncle' in the middle of a page. Around it, with your child, write chacha (father's younger brother), tau or taya (father's elder brother), mama (mother's brother), fufa (father's sister's husband) and mausa (mother's sister's husband). Do the same for 'aunt': chachi, tai, mami, bua, mausi. If your home language is Tamil, Bengali, Marathi or another, use its words. Ask: 'Why do you think Hindi needs five words where English uses one?' (In big joint families it mattered whose side someone was from and whether they were older or younger.) Tell them Tamil even has different words for an elder brother (annan) and a younger brother (thambi)."
+        },
+        {
+          "kind": "game",
+          "title": "Relation Railway",
+          "mins": 9,
+          "do": "Play the Relation Railway game. Draw an engine labelled 'Me Station' on a strip of paper. Take turns reading riddles: 'My father's sister's son is my…' (cousin, or 'bua ka beta'), 'My mother's mother is my…' (nani), 'My father's brother's wife is my…' (chachi or tai), 'My mother's sister's husband is my…' (mausa), 'My father's father is my…' (dada). Answer in 10 seconds to draw a new coach on the train; a wrong answer means the train stops for one turn. Bonus coach for saying the word in a third language. Longest train wins."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Relations puzzle",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Let your child use the family drawing from page 14 to work out the harder relations. For the generation item, help them count back: 'You, then your parents, then your grandparents: three generations.'",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 13–15", "colour pencils", "a strip of paper for the railway", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Fun with friends",
+      "goal": "Read about the pitthoo game in the park, play it, think about who our friends are and weigh a scientists' debate about how many friends a person can have.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Fun with Family and Friends (pages 16–17)",
+          "mins": 6,
+          "do": "Read from the bottom of page 16 to the top of page 17: on a holiday, Bela, Banku and Dadaji go to the park, where Niku, Rinki, Rohit, Ronnie and Tara are playing pitthoo; Dadaji knocks the stones over, the children rush to pile them up while Rohit, Niku and Ronnie try to hit them with the ball; then they rest and Dadaji buys ice cream. Ask: 'Why did Dadaji ask them to rest?' (They were tired after running.) 'How many friends were already in the park?' (Five.) Then answer the page 13 question: 'What are the names of your friends who play with you at home or in your neighbourhood?'"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Play pitthoo (lagori)",
+          "mins": 15,
+          "do": "Play pitthoo with family or friends, with at least 3 players. Pile 7 flat stones (or 7 small steel plates or slippers) into a tower. Team A throws a soft ball from 3 big steps away to knock the tower down. Then Team A tries to rebuild the tower while Team B picks up the ball and tries to tag them by touching them with it or rolling it at their feet (no hard throws at heads). If Team A rebuilds the pile and shouts 'Pitthoo!', they win the round. Ask afterwards: 'Was it more fun with more people? What did you need to do together to win?' (Plan, share jobs: one piles, one guards.)"
+        },
+        {
+          "kind": "think",
+          "title": "How many friends can one person have?",
+          "mins": 9,
+          "do": "Ask: 'How many friends do you have? How many people could you invite to your birthday and know all their names?' Then tell Voice v3: a British scientist, Robin Dunbar, said each of us can keep about 150 real friends and relatives, worked out from the size of brains in monkeys and apes; in 2021 other scientists checked his maths and said the number could be much smaller or much larger. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section on what scientists think about animal friends. Your child can answer the write items aloud while you scribe. For section C there is no single right answer; praise answers that give a reason or something they saw ('because the two dogs I watched...').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 13, 16–17", "7 flat stones or small steel plates and a soft ball", "worksheet ws3", "a friend or two if possible"],
+      "prep": [{"task": "Invite a neighbour's child or two cousins to play pitthoo", "when": "2 days before"}]
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, solve the word grid, check understanding, and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect (pages 17–18)",
+          "mins": 9,
+          "do": "Ask the questions on pages 17–18. A1: 'How do family members show their love and care for each other?' (Cooking for each other, oiling hair, helping with homework, sharing work, looking after the sick, spending evenings together, celebrating festivals.) A2: 'What games do you play with your friends?' B: your child draws one happy moment with the family. C1: 'What do you learn from elders in your family?' C2: 'We care for many others who are not in our family. Who are they? How do we care for them?' (Neighbours, friends, pets and street animals, plants, the vegetable seller, the watchman; we help, share food, keep water for birds.)"
+        },
+        {
+          "kind": "game",
+          "title": "Find and circle (page 18)",
+          "mins": 4,
+          "do": "Do Activity D on page 18: circle five game words in the letter grid. Let your child search across and down. The words hidden in the grid are TOP, BALL, LUDO, BAT and CHESS (CHESS runs downward). Ask: 'Which of these games do you play with elders? Which needs no equipment at all?'"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page that shows it and look for one minute, then ask again in different words. Most children get 5 or more; fewer than 4 means repeat the Day 7 Relation Railway game and the Day 4 'Who does what?' table next week. Also turn the chore wheel one last time and ask: 'Will we keep it?'"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is now the teacher and you (or a grandparent on a video call) are the student. In 5 minutes, using the family drawing from page 14, the e3 measuring table, the hibiscus paint stripes and the chore wheel, they teach: what makes a family; the names for relatives and how they are related; how families share work; what they found when they measured the family. Ask two 'student' questions: 'Is a family with only one parent a real family?' and 'Why did the hibiscus juice turn pink with lemon?' Then launch the two-week Family Museum Box (Activity a3) and choose the first object together.",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "The world is one family",
+          "mins": 5,
+          "do": "Tell your child an old Sanskrit saying from the Maha Upanishad, 'Vasudhaiva Kutumbakam', which means 'the whole world is one family'. Ask: 'If you go back far enough in your family tree, to your grandparents' grandparents' grandparents, how many people would there be?' (Every generation doubles: 2 parents, 4 grandparents, 8, 16, 32… very soon thousands.) 'So who might be your relative?' Let them wonder."
+        }
+      ],
+      "need": ["Textbook pages 17–18", "colour pencils", "the family drawing, e3 table, hibiscus paints and chore wheel", "a shoebox for the museum"],
+      "prep": [{"task": "Find an empty shoebox for the Family Museum Box", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "My family and our work",
+      "day": 4,
+      "sections": [
+        ["A. Bela's family", [
+          {"t": "fill", "p": "Bela's two brothers are Banku Bhaiya and little ____.", "a": ["Bishu"]},
+          {"t": "mcq", "p": "Who is Shiru?", "opts": ["Bela's cousin", "The family's pet dog", "Munni's brother", "A parrot in the garden"], "a": 1},
+          {"t": "mcq", "p": "Kusum Mausi is:", "opts": ["Bela's mother's real sister", "Bela's father's sister", "Bela's mother's close friend who is like a sister", "Bela's grandmother"], "a": 2},
+          {"t": "fill", "p": "Bela calls her grandmother ____ and her grandfather Dadaji.", "a": ["Dadiji", "Dadi"]}
+        ]],
+        ["B. My family", [
+          {"t": "table", "p": "Write the names of your family members.", "cols": ["Name", "Relationship with you", "What you call them"], "rows": 5},
+          {"t": "write", "p": "Is your family big or small? How many people live in your home?", "lines": 2},
+          {"t": "draw", "p": "Draw one thing your family does together on a rainy day."}
+        ]],
+        ["C. Sharing the work", [
+          {"t": "table", "p": "Who does it in your home?", "cols": ["Work", "Who does it?"], "rows": 5, "prefill": ["Cooking food", "Watering plants", "Mending things", "Cleaning the house", "Buying things from the market"]},
+          {"t": "mcq", "p": "In Bela's home, who does the housework?", "opts": ["Only her mother", "Only Dadiji", "Her parents help each other in all of it, and the children help too", "Nobody"], "a": 2},
+          {"t": "write", "p": "Write two ways you help someone in your family who needs special care.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Relations puzzle and family numbers",
+      "day": 7,
+      "sections": [
+        ["A. What do I call them?", [
+          {"t": "match", "p": "Match each relative to the Hindi word.", "pairs": [["Mother's brother", "Mama"], ["Father's sister", "Bua"], ["Mother's sister", "Mausi"], ["Father's younger brother", "Chacha"], ["Mother's mother", "Nani"], ["Father's father", "Dada"]]},
+          {"t": "fill", "p": "My mother's sister's husband is my ____.", "a": ["mausa", "mausaji", "uncle"]},
+          {"t": "mcq", "p": "Your mother's mother's daughter could be:", "opts": ["Your mother or your mausi", "Your bua", "Your chachi", "Your cousin"], "a": 0}
+        ]],
+        ["B. Sort the family", [
+          {"t": "sort", "p": "Sort these people.", "items": ["Nani", "Brother", "Chachi", "Fufa", "Best friend", "A neighbour who looks after you", "Cousin", "Mami"], "cats": ["Related by birth", "Related by marriage", "Chosen family"]},
+          {"t": "mcq", "p": "You, your parents and your grandparents make how many generations?", "opts": ["One", "Two", "Three", "Four"], "a": 2}
+        ]],
+        ["C. Family numbers", [
+          {"t": "write", "p": "In our survey, Papa's height was 170 cm and his arm span was 172 cm. Are they nearly the same? What is the difference?", "lines": 2},
+          {"t": "write", "p": "The oldest person in a family is not always the tallest. Give a reason why.", "lines": 2},
+          {"t": "write", "p": "Hindi has chacha, tau, mama, fufa and mausa where English says only 'uncle'. Which way do you prefer, and why?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Family puzzles and animal friends",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Riddle: Ravi's father has three children: Asha, Bala and one more. What is the name of the third child?", "lines": 1},
+          {"t": "fill", "p": "Each person has 2 parents and 4 grandparents. So they have ____ great-grandparents.", "a": ["8", "eight"]},
+          {"t": "write", "p": "Your chacha's son and your mama's son are both your cousins. How are they different?", "lines": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if only one person in your family did all the work at home for a whole month? What would happen to them and to the family?", "lines": 3},
+          {"t": "write", "p": "Our crayon-coated paper boat floated much longer than the newspaper boat. What if you coated it with oil instead of wax? Guess, and give a reason.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Some people say only humans truly have friends. Jane Goodall saw chimpanzees groom, hug and share food with the same partners for years. What would you need to see to believe an animal has a friend?", "lines": 4},
+          {"t": "mcq", "p": "Robin Dunbar said a person can keep about 150 friends and relatives. In 2021 other scientists checked his maths. What did they say?", "opts": ["It is exactly 150 for everyone", "The number cannot be fixed so exactly; it could be much smaller or larger", "People can have only 5 friends", "Dunbar had never studied it"], "a": 1},
+          {"t": "write", "p": "Elephant herds with older leaders did better at telling friends from strangers. Why might an older leader help a family, among elephants or people?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Which paper boat floats longest?",
+      "day": 1,
+      "question": "Why do paper boats sink in the end, and can we make one float longer?",
+      "need": ["a sheet of newspaper", "2 pages from an old notebook", "wax crayons", "a bucket or big basin of water", "a phone timer"],
+      "steps": [
+        "Colour one notebook page all over on one side with wax crayon, pressing hard.",
+        "Fold three boats the same way: one from newspaper, one from a plain notebook page, one from the crayon page (crayon side outside).",
+        "Write your guess: which will float longest?",
+        "Put all three in the water at the same time and start the timer.",
+        "Check every 2 minutes. Note when each boat starts to lean or go soggy and when it sinks.",
+        "Lift the sunk boats out and feel them. Which parts are wettest?"
+      ],
+      "predict": "Ask your child to guess first: which boat will sink first, and which will last longest? Why?",
+      "observe": "Record the time each boat sinks. Usually the newspaper boat goes soggy within a few minutes, the plain notebook page lasts a bit longer, and the crayon boat floats far longer. Look at where the water darkens the paper first: usually at the bottom and the folds.",
+      "why": "Paper is made of tiny flat threads from plants (called fibres), pressed together with tiny gaps between them. Water creeps into these gaps, the way a cloth soaks up spilt tea; scientists call this wicking. Wet fibres become soft and heavy, so the boat loses its shape and sinks. Newspaper is loose and thin, so it soaks fastest. Wax is oily and does not mix with water, so a coat of crayon wax blocks the gaps and the water cannot get in as easily. That is why waxed paper cups hold tea.",
+      "safety": "Stay with your child near any bucket or tub of water. Wipe up spills so nobody slips.",
+      "time": "17 min"
+    },
+    {
+      "id": "e2",
+      "title": "Magic flower and haldi colours",
+      "day": 5,
+      "question": "Can we make colours from flowers and spices like Munni, and do they change colour with lemon or soap?",
+      "need": ["5 red hibiscus (gudhal) flowers or petals", "half a teaspoon of haldi (turmeric)", "warm water", "1 lemon", "soap water or a pinch of baking soda", "6 small cups and 2 bowls", "a spoon", "white paper and a cotton bud or brush"],
+      "steps": [
+        "Tear the hibiscus petals into a bowl with 3 tablespoons of warm water. Crush and stir with a spoon for 2 minutes until the water is purple-red. Pour it into 3 small cups.",
+        "Mix half a teaspoon of haldi in a second bowl with 3 tablespoons of water. Pour it into 3 small cups.",
+        "Leave one hibiscus cup and one haldi cup as they are, for comparison.",
+        "Squeeze a few drops of lemon juice into the second cup of each.",
+        "Add a spoon of soap water or a pinch of baking soda to the third cup of each.",
+        "Paint a stripe from each cup on white paper and label it."
+      ],
+      "predict": "Ask your child to guess first: will lemon or soap change the colours? Which way?",
+      "observe": "The hibiscus liquid turns bright pink-red with lemon and turns green or blue-green with soap or baking soda. The haldi stays yellow with lemon but turns red-brown with soap or baking soda. Record each colour.",
+      "why": "Flowers and spices hold coloured chemicals called pigments. Hibiscus petals have a pigment (anthocyanin) whose colour depends on whether it is mixed with something sour, like lemon, which scientists call an acid, or something soapy and slippery, like baking soda or soap, which is called a base. Haldi's yellow pigment (curcumin) stays yellow in acid but turns reddish in a base. That is why a haldi stain on a shirt can turn red when you wash it with soap. Pigments like these are how people made rangoli and cloth colours before factory dyes.",
+      "safety": "Keep lemon juice and soap away from eyes. Haldi stains clothes and fingers yellow for a day. Do not drink the mixtures.",
+      "time": "17 min"
+    },
+    {
+      "id": "e3",
+      "title": "Family hand-span and arm-span survey",
+      "day": 6,
+      "question": "How do our heights, hand spans and arm spans compare across the family, and is a person's arm span about the same as their height?",
+      "need": ["a measuring tape", "a pencil", "a book to hold flat on the head", "a wall with space", "a table in the notebook with columns: Name, Age, Height (cm), Hand span (cm), Arm span (cm)"],
+      "steps": [
+        "Each person stands with their back to the wall, heels touching it, without shoes. Hold a book flat on their head, mark the wall under it and measure from the floor.",
+        "Measure the hand span: spread the fingers wide on paper and measure from the tip of the thumb to the tip of the little finger.",
+        "Measure the arm span: the person stands with their back to the wall, arms stretched out sideways at shoulder height; mark both middle fingertips and measure between the marks.",
+        "Write every number in the table, with each person's age.",
+        "Circle the oldest, the youngest and the tallest.",
+        "For each person, work out the difference between height and arm span."
+      ],
+      "predict": "Ask your child to guess first: will the oldest person be the tallest? Will anyone's arm span be close to their height?",
+      "observe": "Note who is tallest and whether that is the oldest person (often it is not; grandparents may be shorter than parents). For most people, arm span and height are within a few centimetres of each other. Children's hand spans are much smaller than adults'.",
+      "why": "Our bodies grow in proportion: as a child's bones grow longer, their arms and legs grow together with their height, so in most adults the arm span is close to the height (often a little more or a little less). This pattern was noted long ago by artists, including Leonardo da Vinci in his drawing of a man in a circle and a square. Height depends on what we inherit from our parents and on food and health while growing, which is one reason children today are often taller than their grandparents. Older people also become a little shorter as the soft discs between the bones of the back get thinner. A survey of one family is too small to prove a rule for everyone; scientists measure thousands of people.",
+      "safety": "",
+      "time": "18 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Then-and-Now interview with a grandparent",
+      "day": 2,
+      "mins": 15,
+      "need": ["a phone call or visit with a grandparent or elderly neighbour", "a table in the notebook with columns: Question, Them at age 8, Me now"],
+      "steps": [
+        "Copy five questions into the first column: favourite game, favourite food, how they got to school, a toy, a chore they did at home.",
+        "Greet the elder and explain the project: 'I am finding out how life was when you were my age.'",
+        "Ask each question and write the answer, or ask the grown-up to write while you listen.",
+        "Ask one follow-up for the game: 'How do you play it? What did you need? How did you win?'",
+        "Fill in your own answers in the 'Me now' column.",
+        "Circle one thing that is the same then and now, and one that has changed."
+      ],
+      "outcome": "A filled Then-and-Now table, rules for one old game to play, and a child who has heard a family story first-hand."
+    },
+    {
+      "id": "a2",
+      "title": "Chore Wheel Week",
+      "day": 4,
+      "mins": 10,
+      "need": ["2 pieces of cardboard", "a plate and a small bowl to trace circles", "scissors", "a split pin or a pencil for the centre", "a marker", "a table on paper: Job, Who did it, Mon, Tue, Wed, Thu, Fri, Sat, Sun"],
+      "steps": [
+        "Trace and cut a big circle and a smaller circle from the cardboard.",
+        "Divide the big circle into 6 slices and write one home job in each.",
+        "Write family members' names around the edge of the small circle.",
+        "Pin the small circle on top of the big one through the centre so it turns.",
+        "Stick the wheel and the table on the fridge. Each morning, turn the wheel one slice.",
+        "Each evening, tick the jobs done. At the end of the week, talk about which jobs were hardest and who usually does them."
+      ],
+      "outcome": "A working chore wheel, a week's table of who did what, and a family talk about sharing work fairly."
+    },
+    {
+      "id": "a3",
+      "title": "Family Museum Box (two-week project)",
+      "day": 9,
+      "mins": 12,
+      "need": ["a shoebox", "paper strips for labels", "5 family objects (an old photo, a utensil, a letter, a coin, a piece of clothing)", "the family drawing from page 14", "a phone to record an elder"],
+      "steps": [
+        "Decorate the shoebox and write 'The ____ Family Museum' on the lid.",
+        "Over two weeks, ask elders for 5 objects that have a family story. Collect one every two or three days.",
+        "For each object, write a label: what it is, whose it was, how old it is, and its story in two sentences.",
+        "Add your family tree, drawn for three generations, with what you call each person.",
+        "Record a 2-minute voice note of an elder telling the story of one object.",
+        "Open the museum for the family: present each object and play the recording."
+      ],
+      "outcome": "A shoebox museum of five labelled family objects, a three-generation family tree and a recorded elder's story, presented by your child."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Jane Goodall (1934–2025), England, worked in Gombe, Tanzania",
+      "idea": "In 1960 Jane Goodall began watching wild chimpanzees at Gombe in Tanzania. She gave them names such as David Greybeard and Flo instead of numbers, and described their families, their long friendships, their different personalities and feelings. She saw David Greybeard strip leaves off a grass stem and poke it into a termite mound to fish out termites, showing that animals other than humans make and use tools.",
+      "then": "Many scientists of the time said naming animals and talking about their personalities and feelings was unscientific, and that she was seeing human feelings in animals. She had no university degree when she started, though she later earned a PhD from Cambridge University (1965). Her tool-use finding, however, quickly amazed scientists.",
+      "now": "Her long-term study became one of the most important in animal science. Scientists now widely accept that chimpanzees and many other animals have individual personalities, close family bonds and lasting social partners, and they study these with careful measurements. Scientists still take care not to assume an animal feels exactly what a human would.",
+      "status": "accepted",
+      "ask": "Jane Goodall gave the chimpanzees names. Could that help her notice more about each one, or make her imagine things? How could she check that what she saw was real?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Karen McComb and colleagues (elephant study, 2001), with Raman Sukumar, India",
+      "idea": "Elephant families are led by the oldest female, the matriarch, with her daughters, sisters and their calves. In 2001 Karen McComb and her team in Amboseli, Kenya, played recorded calls of other elephants to family groups. Families with older matriarchs were better at telling the calls of familiar elephants from strangers and reacted correctly, bunching together only when strangers called. These families also raised more calves. In India, the ecologist Raman Sukumar of the Indian Institute of Science, Bengaluru, has studied Asian elephants for decades and shown that their herds are also family groups of related females.",
+      "then": "The study was published in the journal Science and was widely accepted as strong evidence that an old leader's memory helps the whole family.",
+      "now": "Accepted. Later research has also shown that losing old matriarchs to poaching hurts elephant families. It is one reason scientists argue that saving the oldest elephants matters, not just saving numbers.",
+      "status": "accepted",
+      "ask": "Why might the oldest elephant know more than a younger one? What does your Dadaji or Nani know that nobody else in your family knows?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Robin Dunbar, England (1990s), and the 2021 critique by Patrik Lindenfors, Andreas Wartel and Johan Lind, Sweden",
+      "idea": "Robin Dunbar, a British scientist who studies people and apes, noticed that monkeys and apes with bigger front parts of the brain live in bigger groups. In the 1990s he used this to predict that a human can keep about 150 stable relationships: people you know well enough to greet and chat with if you met them by chance. He suggested smaller circles inside this, of about 5 very close people and about 15 good friends.",
+      "then": "The idea, called 'Dunbar's number', became very popular, and some companies even split their workplaces into groups of about 150. Some scientists found it useful; others doubted that brain size could predict one number for everyone.",
+      "now": "In 2021 Lindenfors, Wartel and Lind re-did the calculations with newer data and methods and got answers ranging from a handful of people to over 500, and said no single number can be trusted. Dunbar and his colleagues replied that their work still supports layers of about 5, 15, 50 and 150. The debate continues.",
+      "status": "debated",
+      "ask": "If you wanted to find out how many friends a person can really keep, what would you measure? Would counting a child's friends work the same as counting a grandparent's?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {"q": "Who are the members of Bela's family?", "a": "Her father and mother, her brothers Banku Bhaiya and little Bishu, her grandparents Dadiji and Dadaji, and their dog Shiru."},
+    {"q": "Is a small family a real family? Why?", "a": "Yes. Families can be big or small and have different members; what makes a family is that they love, care for and support each other."},
+    {"q": "Who is your mama, your bua and your mausi?", "a": "Mama is your mother's brother, bua is your father's sister, and mausi is your mother's sister."},
+    {"q": "Name three jobs done in your home and who does them. Why should work be shared?", "a": "For example cooking (Mummy and Papa), watering plants (Dadaji and me), buying vegetables (Papa). Sharing is fair, gets work done faster and stops one person getting too tired."},
+    {"q": "How did Munni make colours for her rangoli, and what happened when we added lemon to hibiscus juice?", "a": "She used colours made from dried flowers, and sometimes leaves and flowers. Hibiscus juice turned bright pink with lemon (an acid) and green with soap or baking soda (a base)."},
+    {"q": "Why do we not hurt or tease animals, and how did Bela's family treat Shiru?", "a": "Animals feel pain and fear and are part of our families and neighbourhoods. Bela and Banku never hurt Shiru and shared their food with him."},
+    {"q": "Why might the oldest female be the best leader of an elephant family?", "a": "She has the longest memory: she knows friends from strangers and where to find water and food, and scientists found families with older matriarchs reacted better to strangers and raised more calves."}
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "key": "ncert|sci|3|8",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 8,
+  "title": "Food We Eat",
+  "source": "NCERT Our Wondrous World, Class 3, Chapter 8 (pages 100–108), Unit 3 'Gifts of Nature', Reprint 2026-27",
+  "summary": "Starting from your child's favourite dishes and the six tastes of a festive chhappan bhog, this chapter asks why we eat and drink. Through the story of Shirin the runner, your child learns that a strong, healthy body needs a balanced variety of home-cooked food and plenty of water; they then explore seasonal and regional foods, find out which part of a plant or animal each food comes from, and solve the puzzle of salt and water, which come from neither.",
+  "goals": [
+    "By the end your child can explain why we need to eat and drink: food gives energy to move and play, helps the body grow and repair, and keeps it well, and water keeps the body working.",
+    "By the end your child can say what a balanced diet is, sort foods into energy-giving, body-building and protective foods, and build a balanced thali from Indian foods.",
+    "By the end your child can name the six tastes of Indian tradition, test their own sense of taste, and explain that the old 'tongue map' was wrong.",
+    "By the end your child can give examples of seasonal and regional foods and explain why we drink more in summer.",
+    "By the end your child can say which part of a plant (root, stem, leaf, flower, fruit, seed) or which animal each common food comes from, and that salt and water come from neither.",
+    "By the end your child can suggest ways to share food and reduce food waste at home, and say why people still argue about how India grows its food."
+  ],
+  "words": [
+    ["balanced diet", "meals that have the right mix of different kinds of food (grains, dal, vegetables, fruits, milk, nuts) and water, so the body gets everything it needs"],
+    ["energy", "the power our body needs to move, play, think and keep warm; grains like rice, roti and ragi, and fats like ghee, give lots of it"],
+    ["grain", "the seed of a grass plant that we eat, like rice, wheat, ragi, jowar and bajra"],
+    ["pulses", "the dried seeds of bean and pea plants, such as moong, toor, masoor, chana and rajma; we cook them as dal"],
+    ["seasonal food", "food that grows and is fresh at a particular time of year, like mangoes in summer and carrots and sarson in winter"],
+    ["crop", "a plant grown in large amounts on a farm for food or other uses, like wheat, rice, sugarcane or cotton"],
+    ["sweat", "salty water that comes out through tiny holes in our skin when we are hot or busy playing; it cools the body as it dries"],
+    ["taste", "what the tongue tells us about food; scientists name five basic tastes: sweet, sour, salty, bitter and umami (savoury)"],
+    ["starch", "a kind of stored energy food made by plants; rice, potato, wheat and bread are full of it"],
+    ["sprout", "a seed that has soaked up water and started to grow a tiny root and shoot, like moong sprouts"],
+    ["umami", "a Japanese word for the savoury, meaty taste found in ripe tomatoes, mushrooms, cheese and soups"],
+    ["food waste", "food that is thrown away instead of being eaten"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "My favourite food and the six tastes",
+      "goal": "Begin with the food your child loves, discover the six tastes of chhappan bhog by tasting them, meet the ancient Indian idea of six rasas, and start a sprouting experiment.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "If you could eat only one dish…",
+          "mins": 4,
+          "do": "Ask: 'If you could choose just one dish for dinner tonight, what would it be?' Then: 'Who makes it best in our family? What does it smell like when it is cooking?' Let your child talk freely. Ask one more: 'Is there any food you do not like? Why?' Note their answers; we will come back to them on the last day."
+        },
+        {
+          "kind": "read",
+          "title": "My favourite food (pages 100–101)",
+          "mins": 10,
+          "do": "Open page 100 and do the task: your child draws two or three favourite home-made dishes and writes their names (for example poha, rajma-chawal, idli-sambar, aloo paratha, kheer). Then do Activity 1 on page 101: 'Share your reasons for why you like these foods.' Good reasons: the taste (sweet, spicy, tangy), the smell, the crunch or softness, who cooks it, a festival memory. Read the paragraph on page 101 about sweet, sour, spicy and bitter foods aloud, and ask the book's question: 'Have you wondered why we eat and drink?' Do not answer yet; say 'Let's find out this week.'"
+        },
+        {
+          "kind": "do",
+          "title": "The six-taste plate",
+          "mins": 10,
+          "do": "Read the chhappan bhog box on page 101 aloud: 56 dishes for festivals, with six tastes: sweet (meetha), spicy (teekha), astringent (kasaila), sour (khatta), salty (namkeen) and bitter (karva). Make a small tasting plate with a pinch or a tiny piece of each: jaggery (sweet), a slice of green chilli touched to the tongue or a pinch of black pepper (spicy; adult supervises, give water after), a slice of raw unripe banana, raw guava skin or a sip of strong black tea (astringent: it makes the mouth feel dry and puckery), lemon (sour), a few grains of salt (salty) and a tiny piece of karela or a methi seed (bitter). Your child tastes each, sips water in between, and names the taste. Ask: 'Which was the hardest to name?' (Usually astringent, because it feels more like dryness than a taste.) Ask: 'Which of these tastes are in our dal-chawal today?'"
+        },
+        {
+          "kind": "think",
+          "title": "Six rasas or five tastes?",
+          "mins": 7,
+          "do": "Tell the story in Voice v3: the Charaka Samhita, an ancient Indian medical book, also names six tastes (rasas), and today's taste scientists count differently. Ask: 'When you tasted chilli, did it feel like a taste, or more like heat or burning?' and 'When you tasted the raw banana, was it a taste or a dry feeling?' Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the chana sprouting test",
+          "mins": 9,
+          "do": "Set up Experiment e1. Weigh exactly 50 g of dry kala chana or whole moong on a kitchen scale with your child (if you have no scale, count out 50 seeds and fill a small steel katori level to the top instead). Your child writes the weight and draws one seed actual size. Put the seeds in a bowl and cover with three times as much water. Ask them to predict: 'Tomorrow morning, will the seeds weigh more, less or the same? Will the bowl have more water or less water?' Write down the predictions.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Textbook pages 100–101", "drawing paper and crayons", "tasting plate: jaggery, green chilli or black pepper, raw guava or unripe banana or black tea, lemon, salt, a small piece of karela or a methi seed", "a glass of water", "50 g dry kala chana or whole moong", "a kitchen scale (or a katori)", "a bowl"],
+      "prep": [{"task": "Buy a small karela, a lemon and a raw guava or banana for the tasting plate", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Shirin the runner: why we need different foods",
+      "goal": "Read Shirin's story, understand why eating only one or two foods is not enough, and sort foods into energy-giving, body-building and protective groups.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Weigh the soaked chana",
+          "mins": 6,
+          "do": "Continue Experiment e1. Drain the chana and look at the bowl: is there less water than last night? Weigh the soaked seeds (or see if they still fit in the katori; they won't). A typical result: 50 g becomes about 100 g. Ask: 'Where did the extra weight come from?' Good answer: 'The seeds drank up the water.' Then wrap the chana in a damp cotton cloth or put them in a sprout box, and keep in a warm place. Ask: 'What do you think will happen in one more day?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Story of Shirin, the runner (pages 101–103)",
+          "mins": 10,
+          "do": "Read the story of Shirin aloud from the bottom of page 101 to the top of page 103. Pause after Shirin says 'I like only rice and potatoes' and ask: 'What do you think the champion will say?' Then read on. Ask: 'Was it wrong to eat rice and potatoes?' (No, they are good, but they are not enough on their own.) 'What else did the champion tell her to eat?' (Different vegetables and fruits, grains like rice, ragi, jowar, wheat and bajra, dal and nuts, and food cooked at home.) 'What changed for Shirin after a few months?' (She stopped falling sick, ran faster, felt energetic and won a medal.) Then ask the question on page 103: 'Why do we need to eat healthy food?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Why do we eat and drink? (page 101)",
+          "mins": 6,
+          "do": "Now answer the page 101 question together: 'Why do we need to eat and drink?' Ask an elder in the family too, as the book suggests. Collect three reasons and write them in the notebook: 1. Food gives us energy to move, run, think and stay warm (like petrol for a scooter). 2. Food gives our body the material to grow taller, build muscles and heal a cut. 3. Food helps keep us well and fight off illness. Add: 'And water? Our body is more than half water, and we lose some every day in sweat, breath and urine, so we must keep drinking.'"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 2 and the three-group sort (page 103)",
+          "mins": 13,
+          "do": "Do Activity 2 on page 103: your child ticks the foods they eat regularly (vegetables, sweets, milk, salads, dal, rice, lassi, snacks, fruits, juice, roti, paneer). Then draw three big circles on a sheet: 'Go foods (energy)', 'Grow foods (body-building)' and 'Glow foods (protective)'. From the kitchen, bring real examples and sort them: rice, roti, ragi, potato, ghee, jaggery go in Go; dal, chana, milk, curd, paneer, eggs, nuts go in Grow; vegetables and fruits like palak, carrot, tomato, guava, banana go in Glow. Tell your child honestly: many foods do more than one job (milk gives energy too, and dal also gives fibre), so these groups are a helpful guide, not strict boxes. Finally ask the page 103 question: 'Which of these foods should be part of a balanced diet?' Good answer: 'Some from every circle each day, plus water; sweets and fried snacks only sometimes.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Shirin's new plate",
+          "mins": 5,
+          "do": "Ask your child to plan one day of meals for Shirin using foods from all three circles: breakfast, lunch, snack and dinner. For example: ragi dosa with chutney and milk; rice, dal, palak sabzi and curd; a banana and peanuts; roti, rajma and salad. Ask: 'Which circle was hardest to fill? Why?' Write the menu in the notebook."
+        }
+      ],
+      "need": ["Textbook pages 101–103", "the soaked chana, a kitchen scale, a damp cotton cloth or sprout box", "a big sheet of paper and crayons", "real food samples from the kitchen (rice, dal, potato, milk, a vegetable, a fruit, nuts)"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "The science of taste",
+      "goal": "Test the old 'tongue map' with our own tongues, learn how scientists corrected it, meet the discoverer of umami, finish the sprouts and play Thali Builder.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Sprout check and final weigh",
+          "mins": 5,
+          "do": "Finish Experiment e1. Open the cloth: the chana should have tiny white roots (sprouts). Your child weighs them again and draws one sprout next to the dry seed drawn on Day 1. Fill in the table: dry, soaked, sprouted. Ask: 'Why are the sprouts heavier than the dry seeds?' (They took in water; the seed is now a baby plant starting to grow.) Keep the sprouts in the fridge for a sprout chaat later today or tomorrow (lightly steam or boil them first).",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Test the tongue map",
+          "mins": 12,
+          "do": "Do Experiment e2. Make four small cups: sugar water, salt water, lemon water, and bitter water (soak a few methi seeds or a slice of karela in water for 10 minutes). Draw a big tongue on paper and mark tip, left side, right side and back. First show your child the old 'tongue map' idea: 'Some books used to say sweet is tasted only at the tip, salty and sour at the sides and bitter at the back.' Ask them to predict if this is true. Then, with a fresh cotton bud for each dip, touch each liquid to the tip, the side and the middle of the back of the tongue (not too far back), with a sip of plain water in between. Your child writes on the tongue drawing where they could taste each one. They will find they can taste every taste on every part, though some spots may feel a little stronger.",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "The map that was wrong",
+          "mins": 6,
+          "do": "Tell the story in Voice v1 (the tongue map: Hänig, Boring and the scientists who checked). Point out that your child has just done what scientists did to correct it: tested it instead of believing the picture. Ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "think",
+          "title": "Kikunae Ikeda and the fifth taste",
+          "mins": 5,
+          "do": "Tell the story in Voice v2. Give your child a small piece of very ripe tomato, and if you have them, a sip of clear vegetable or tomato soup or a bit of cheese. Ask: 'Is this sweet, sour, salty or bitter? Or something else, a full, savoury taste?' That 'something else' is umami. Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "game",
+          "title": "Thali Builder",
+          "mins": 12,
+          "do": "Play the DeepKids game Thali Builder. Make about 30 food cards with a picture or name and a symbol: a sun for Go (energy), a brick for Grow (body-building), a star for Glow (protective). Include many Indian foods: roti, rice, ragi mudde, poha, dal, rajma, chana, curd, paneer, egg, fish, palak, bhindi, carrot, guava, banana, mango, peanuts, ghee, jalebi, chips. Deal 5 cards each; take turns drawing and discarding. The first to hold a thali with at least one sun, one brick and two stars, and say why, wins. Then play a twist round: draw a 'region card' (Kerala, Punjab, Bengal, Rajasthan) and build a balanced thali with foods from that place. Other players can challenge a card's region, and the player must explain."
+        }
+      ],
+      "need": ["the sprouted chana and the kitchen scale", "4 small cups: sugar water, salt water, lemon water, bitter methi or karela water", "a packet of cotton buds and plain water", "paper for a tongue drawing", "a ripe tomato (and clear soup or cheese if available)", "card paper and pens for 30 food cards"],
+      "prep": [{"task": "Make the 30 Thali Builder cards (or let your child help as a craft the day before)", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Food changes with the seasons and the place",
+      "goal": "Find out why we eat different foods in summer and winter, and in different parts of India, and start collecting a family recipe.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "We eat different things (page 104)",
+          "mins": 6,
+          "do": "Read 'We eat different things' on page 104 aloud. Ask: 'What do we like to eat when it is very hot?' (Kulfi, ice-cream, tender coconut water, buttermilk, watermelon, curd rice.) 'And when it is cold?' (Soups, stew, hot drinks, gajar halwa, til laddoo, bajra roti, sarson ka saag.) Ask: 'Why do mangoes come in summer and not in December?' Good answer: 'Each plant flowers and gives fruit at its own time of year; mango trees flower in late winter and the fruits ripen in the summer heat.'"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Summer and winter list at the sabzi shop",
+          "mins": 12,
+          "do": "Do the summer/winter table on page 104. Visit the local sabzi mandi, vegetable cart or the fruit shop with your child, or ask the vegetable seller when he comes. Ask him: 'Which vegetables and fruits are fresh now? Which ones come only in summer? Which only in winter?' Your child writes them into the two columns in the book. Typical answers: summer: mango, watermelon, muskmelon, lychee, jamun, lauki, karela, bhindi, cucumber; winter: carrot, peas, cauliflower, sarson, methi, radish, oranges, guava, amla. Ask: 'Which is cheaper today: a fruit that is in season or one that is not?' Notice that seasonal food is often fresher and cheaper because it did not travel far or sit in cold storage."
+        },
+        {
+          "kind": "talk",
+          "title": "Food from other parts of India (page 104)",
+          "mins": 10,
+          "do": "Read the second paragraph on page 104 aloud. Ask: 'Which dishes have you heard about but never tasted?' Then call a relative or friend who lives in another state, or remember a trip, and ask what they eat every day. Your child marks a rough outline map of India (draw it or print it) with at least five dishes: for example, Kashmir: rogan josh or kahwa; Punjab: makki di roti and sarson da saag; Gujarat: dhokla; Rajasthan: dal baati; Bengal: machher jhol; Kerala: appam and stew, puttu; Tamil Nadu: idli, pongal; Assam: masor tenga; Maharashtra: puran poli. Ask: 'Why do you think people near the sea eat more fish, and people in dry Rajasthan eat more bajra?' (People cook what grows or lives near them; bajra grows with little water.)"
+        },
+        {
+          "kind": "act",
+          "title": "Start the family recipe book",
+          "mins": 12,
+          "do": "Start Activity a1. Your child interviews a grandparent or another elder (in person or by phone) about one dish they grew up eating. Questions: 'What is the dish called? Where did you learn it? What goes into it? Which ingredients come from plants and which from animals? When was it made: every day, a special season or a festival?' Your child writes the answers on the first page of a small notebook titled 'Our Family Cookbook'. Decide together which day this week you will cook it together (Day 7).",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook page 104", "a shopping bag and a little money for the sabzi shop", "a printed or hand-drawn outline map of India", "a phone to call a relative", "a small notebook for the family cookbook"],
+      "prep": [{"task": "Ask a grandparent or elder to be ready to talk about one family dish on the phone", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Water is life and food grows in fields",
+      "goal": "Understand why we drink more in hot weather, track how much we drink, find out which crops grow in fields, and test foods for starch.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Summer drinks and sweat (page 105)",
+          "mins": 7,
+          "do": "Look at the drinks on page 105 (tender coconut water, mango juice, aam panna, orange juice, lime water) and ask your child to name each in your home language (for example, elaneer in Tamil, nariyal pani in Hindi, daab in Bengali). Read the paragraph below aloud. Ask: 'Why do we drink more in summer?' (We sweat more, and sweat is water leaving the body.) 'Where else do we sweat?' (When we run and play.) Ask your child to lick the back of their hand after running around: it tastes a little salty. Explain: sweat is water with a little salt; as it dries on the skin it cools us down. Ask the book's question: 'How often do you drink water?'"
+        },
+        {
+          "kind": "do",
+          "title": "My water bottle chart",
+          "mins": 5,
+          "do": "Give your child a steel or plastic water bottle and mark its side with tape every quarter. Make a chart for the rest of today and tomorrow: Time, How much I drank, What I was doing. Ask: 'Did you drink more after playing outside?' A child of this age needs roughly 5 to 7 glasses of water a day, more in hot weather or after sport. Ask: 'How do you know when your body needs water?' (Thirst, dry mouth, dark yellow urine, feeling tired or getting a headache.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Where does food come from? (page 105)",
+          "mins": 7,
+          "do": "Read 'Where does food come from?' at the bottom of page 105. Do both tasks. First, your child writes names of crops grown in fields: rice (paddy), wheat, ragi, jowar, bajra, maize, sugarcane, mustard, groundnut, toor, chana, potato, onion, cotton (not a food, but a crop). Then the second task: in what form is each cooked? (Wheat becomes roti, puri, halwa; rice becomes chawal, idli, dosa, poha, kheer; ragi becomes mudde, dosa or porridge; chana becomes dal, besan, chole; sugarcane becomes sugar, jaggery or juice.) Ask: 'Who grows all this for us?' (Farmers.)"
+        },
+        {
+          "kind": "think",
+          "title": "M.S. Swaminathan and India's wheat fields",
+          "mins": 6,
+          "do": "Tell the story in Voice v4. Show the rice and wheat in your kitchen and a bit of ragi or bajra flour. Ask: 'Which of these needs the most water to grow?' (Rice, by far.) Then ask the voice question and let your child weigh both sides.",
+          "ref": "v4"
+        },
+        {
+          "kind": "exp",
+          "title": "Which foods are full of starch?",
+          "mins": 10,
+          "do": "Do Experiment e3 (adult handles the iodine). On a steel plate, put small pieces of raw potato, cooked rice, bread or roti, cucumber, apple, a pinch of sugar and a pinch of besan or ragi flour. Ask your child to predict which ones will turn blue-black (meaning they contain starch). Mix 5 drops of Betadine or tincture of iodine in a spoon of water and put one drop on each food. Your child records the colour. Potato, rice, bread, roti and flours turn dark blue-black; cucumber, apple and sugar stay yellow-brown. Explain: starch is the energy food plants store in their seeds, roots and stems, so these are our Go foods. Throw everything away afterwards; do not eat it.",
+          "ref": "e3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet (part 1)",
+          "mins": 5,
+          "do": "Do section A of Worksheet ws1 (core) now: why we eat and the three food groups. Keep sections B and C for Day 6 after the plant-parts lesson. Read aloud if needed and mark it together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook page 105", "a water bottle and tape", "small bowls of rice, wheat and ragi or bajra", "raw potato, cooked rice, bread or roti, cucumber, apple, sugar, a flour", "Betadine (povidone-iodine) or tincture of iodine, a dropper and a steel plate", "worksheet ws1"],
+      "prep": [{"task": "Buy or find a small bottle of Betadine or tincture of iodine from a chemist", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Which part do we eat? And the salt-and-water puzzle",
+      "goal": "Sort our foods by the part of the plant they come from, list foods from animals, trace dinner back to its origins, and solve the puzzle of salt and water.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Parts of plants we eat (pages 106–107)",
+          "mins": 8,
+          "do": "Turn to pages 106 and 107. Read each heading and name each picture together: leaves (spinach/palak, fenugreek/methi, cabbage, mustard, coriander/dhaniya), fruits (guava, sapota/chikoo, apple, mango), roots (carrot, radish, beetroot), stems (potatoes, bamboo shoots, ginger, onion) and seeds (grains, pulses, dry fruits). Your child ticks the ones they eat, as the book asks. Ask: 'Potato grows under the ground. Why is it under stems, not roots?' (It has 'eyes', buds that sprout into new shoots, and only stems have buds.) Tell them honestly: an onion is mostly fleshy leaves wrapped round a very short flat stem, which is why some books call it a stem and others a bulb of leaves."
+        },
+        {
+          "kind": "do",
+          "title": "Kitchen plant-part hunt",
+          "mins": 8,
+          "do": "Open the vegetable basket and the masala box. Your child finds one food for each plant part and lays them in a row: root (carrot, radish, beetroot), stem (potato, ginger, sugarcane), leaf (methi, palak, curry leaves), flower (cauliflower, broccoli, banana flower; and from the masala box: cloves are dried flower buds), fruit (tomato, bhindi, brinjal, cucumber; yes, these 'vegetables' are fruits because they hold seeds), seed (rice, dal, jeera, peanuts, rajma). Ask: 'Which part did you find most of?' Then read the line on page 107 about foods from animals: milk, curd, ghee, cheese, paneer, honey, eggs and meat. Ask: 'Which animals do these come from?' (Cow, buffalo, goat; bees for honey; hens for eggs; fish, goat and chicken for meat, for families who eat it.)"
+        },
+        {
+          "kind": "act",
+          "title": "Food-origin trail",
+          "mins": 9,
+          "do": "Do Activity a2. Choose five things you will eat at dinner tonight (for example roti, dal, aloo sabzi, curd, a banana). For each, your child draws a chain of arrows back to where it came from: roti ← atta ← wheat seeds ← wheat plant in a field in Punjab or Madhya Pradesh ← farmer. Curd ← milk ← cow or buffalo ← grass and fodder ← a plant again! Ask: 'Did every chain end at a plant?' Most will, even the animal foods, because animals eat plants. Ask: 'How many people helped bring this food to our plate?' (Farmer, truck driver, mill, shopkeeper, the cook at home.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Puzzle time: neither plant nor animal (page 107)",
+          "mins": 10,
+          "do": "Read the 'Puzzle time' box on page 107 and let your child guess: 'Two of our most common ingredients come neither from plants nor animals.' Give hints: 'One is in every glass we drink. One is in the namak dabba.' The answers are water and salt. Then set up Experiment e4 to see where salt comes from: stir 2 teaspoons of salt into half a cup of warm water until it disappears. Pour it into a dark-coloured plate or a steel plate and put it in the sun. Ask: 'Where did the salt go? Will we get it back?' Check tomorrow. Tell your child that most of our salt is made exactly like this, in huge flat salt pans by the sea in Gujarat and Tamil Nadu, and sendha namak (rock salt) is dug out of the ground.",
+          "ref": "e4"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet (part 2)",
+          "mins": 5,
+          "do": "Finish Worksheet ws1 (core) sections B and C: parts of plants we eat and foods from animals. Let your child use the food row from the kitchen hunt to check answers.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 106–107", "vegetables, masala box, grains and dals from the kitchen", "paper and pencil for the food-origin trail", "salt, warm water, a cup and a dark or steel plate", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Cooking, sharing and not wasting",
+      "goal": "Cook a family recipe together and write it down, think about sharing food and avoiding waste, see salt crystals appear, and stretch our thinking with worksheets.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Salt crystals are back",
+          "mins": 4,
+          "do": "Check Experiment e4. The water in the plate should have evaporated, leaving white crusty salt crystals. Your child looks closely, using a magnifying glass if you have one: many grains are tiny cubes. Ask: 'Where did the water go?' (Into the air; it evaporated in the sun.) 'Where did the salt come from?' (It was in the water all the time, dissolved.) 'So where does sea salt come from?' (Sea water is let into shallow pans and the sun dries it.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "act",
+          "title": "Cook the family recipe",
+          "mins": 18,
+          "do": "Continue Activity a1. Cook the dish your child collected on Day 4, or a simple one like sprout chaat (using the sprouts from e1, steamed, with onion, tomato, lemon and salt). Your child washes hands first and does safe jobs: washing vegetables, measuring with spoons and cups, mixing, tearing coriander, setting the plate. As you cook, ask: 'Which ingredients came from plants? Which from animals? Which from neither?' and 'Which tastes are in this dish?' Afterwards, your child writes the recipe in Our Family Cookbook, as question B2 on page 108 asks: name, who taught it, ingredients with amounts, and steps in order.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Sharing and food waste (pages 107–108)",
+          "mins": 6,
+          "do": "Ask the question at the bottom of page 107: 'Would you share your food with your friend if your friend did not bring lunch?' Listen, then ask 'Why?' Then ask Discuss question A4 on page 108: 'Why is it important to avoid wasting food? What are ways to reduce food waste at home?' Good answers: farmers worked hard, water and land were used to grow it, many people go hungry; take only as much as you can eat, use leftovers (leftover rice becomes lemon rice or curd rice, stale roti becomes a snack), store food properly, give extra food to someone who needs it, and put peels into compost. Ask your child to watch tonight's dinner and count anything thrown away."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 7,
+          "do": "Do Worksheet ws2 (stretch) now. For the masala sort, open the masala box so your child can hold each spice: jeera and mustard are seeds, cloves are dried flower buds, cinnamon is the bark of a tree, haldi is an underground stem, curry leaves are leaves, and sugar is made from the sugarcane stem.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 5,
+          "do": "Start Worksheet ws3 (challenge) section A now (the nose-holding apple and potato test is fun to do right away), and finish sections B and C at bedtime or tomorrow morning. In section C there is no single right answer: praise reasons that use evidence from this week ('in my tongue test…', 'Swaminathan helped India have enough wheat, but…').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["the salt plate from yesterday and a magnifying glass if available", "ingredients for the family recipe or sprout chaat", "Our Family Cookbook", "worksheets ws2 and ws3"],
+      "prep": [{"task": "Buy the ingredients for the family recipe", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, draw our three thalis, make and share a fruit chaat, check understanding and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect: Discuss (page 108)",
+          "mins": 7,
+          "do": "Ask Discuss questions A1 to A3 on page 108 aloud. A1: 'Why do we need different kinds of food?' (Each kind does a different job: energy, growth and repair, keeping well; no single food has everything, as Shirin found out.) A2: 'Why do we eat seasonal foods?' (They are fresh, tasty and cheaper, they suit the weather, like cooling buttermilk in summer, and they did not travel far.) A3: 'How can you tell if a food is healthy or unhealthy?' (Home-cooked, fresh, varied, not too much sugar, salt or oil; very sweet, fried or packaged snacks are fine only sometimes.) Also ask the 'Think' question E: 'A guest arrives suddenly. What would you serve, and why?'"
+        },
+        {
+          "kind": "act",
+          "title": "Eating together: fruit chaat (page 108)",
+          "mins": 10,
+          "do": "Do Activity a3, based on 'Eating together' (D) on page 108. Your child chooses 3–4 seasonal fruits, washes them, and with you cuts them (a child-safe knife or butter knife for soft fruit like banana and papaya; an adult cuts hard fruit). Add a squeeze of lemon and a pinch of chaat masala or black salt. Your child names the plant part (fruit) and the tastes (sweet, sour, salty). Share it with family members or a neighbour. Then do Write question B3 on page 108: name a food with both plant and animal ingredients (for example lassi: curd from milk and sugar from sugarcane; kheer: milk and rice; paneer tikka: paneer and capsicum).",
+          "ref": "a3"
+        },
+        {
+          "kind": "review",
+          "title": "Three thalis (page 108)",
+          "mins": 6,
+          "do": "Do Draw questions C1 and C2 on page 108: your child draws three plates or thalis in the notebook, for morning, afternoon and night, and labels each food in them. Then ask them to colour a small sun, brick or star beside each food (Go, Grow, Glow). Ask: 'Is each thali balanced? What would you add?' Also finish Write question B1: list the fruits and vegetables your family eats."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 9,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For each one missed, open the right page (tastes p101, Shirin p102–103, seasons p104, water p105, plant parts p106–107) and look for one minute, then ask again in different words. Six or more right is good; fewer than five means play Thali Builder and the kitchen plant-part hunt again next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 8,
+          "do": "Your child is now the teacher; you or a grandparent are the student. Using the three-circle chart, the food-origin trail, the tongue drawing and the salt plate, they teach in 5 minutes: why we eat and drink, what a balanced diet is, which part of a plant our foods come from, and why salt and water are special. Ask two 'student' questions: 'If I only eat rice and potatoes, what will happen?' and 'Is it true we taste sweet only on the tip of the tongue?' End by looking back at Day 1's answer about the food they did not like, and ask: 'Would you try it once more, cooked a new way?'"
+        }
+      ],
+      "need": ["Textbook page 108", "3–4 seasonal fruits, lemon, chaat masala or black salt, a child-safe knife", "notebook and crayons", "the charts and drawings from this week"],
+      "prep": [{"task": "Buy 3–4 seasonal fruits for the fruit chaat", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Why we eat and where food comes from",
+      "day": 5,
+      "sections": [
+        ["A. Why we eat", [
+          {"t": "mcq", "p": "Shirin often fell sick. What did the champion say she should change?", "opts": ["Eat only rice and potatoes", "Eat many kinds of food: vegetables, fruits, different grains, dal and nuts, cooked at home", "Stop eating breakfast", "Eat more sweets"], "a": 1},
+          {"t": "sort", "p": "Sort these foods into the group they mostly belong to.", "items": ["Rice", "Roti", "Ghee", "Dal", "Paneer", "Egg", "Palak", "Guava", "Carrot"], "cats": ["Go (energy)", "Grow (body-building)", "Glow (protective)"]},
+          {"t": "fill", "p": "In summer we sweat a lot and lose ____ from our body, so we must drink more.", "a": ["water"]}
+        ]],
+        ["B. Parts of plants we eat", [
+          {"t": "sort", "p": "Which part of the plant do we eat?", "items": ["Carrot", "Radish", "Potato", "Ginger", "Methi", "Cabbage", "Mango", "Guava", "Toor dal", "Wheat"], "cats": ["Root", "Stem", "Leaf", "Fruit", "Seed"]},
+          {"t": "mcq", "p": "Why is a potato called a stem and not a root?", "opts": ["It is brown", "It has 'eyes' (buds) that sprout new shoots", "It grows in the soil", "It is round"], "a": 1}
+        ]],
+        ["C. Plants, animals and neither", [
+          {"t": "sort", "p": "Where does each food come from?", "items": ["Honey", "Paneer", "Rice", "Egg", "Spinach", "Ghee", "Salt", "Water"], "cats": ["Plant", "Animal", "Neither"]},
+          {"t": "match", "p": "Match the drink to the plant or animal it comes from.", "pairs": [["Tender coconut water", "Coconut tree"], ["Aam panna", "Raw mango"], ["Lassi", "Milk of a cow or buffalo"], ["Nimbu pani", "Lemon"]]},
+          {"t": "draw", "p": "Draw a balanced thali. Label each food and mark it Go, Grow or Glow."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Food detective",
+      "day": 7,
+      "sections": [
+        ["A. Hidden plant parts", [
+          {"t": "mcq", "p": "Cauliflower is which part of the plant?", "opts": ["Root", "Leaf", "Flower", "Seed"], "a": 2},
+          {"t": "mcq", "p": "Tomato, bhindi and brinjal are called vegetables in the kitchen. A scientist would call them:", "opts": ["Roots", "Fruits, because they hold seeds", "Stems", "Leaves"], "a": 1},
+          {"t": "sort", "p": "Sort these items from the masala box and kitchen.", "items": ["Jeera", "Cloves (laung)", "Turmeric (haldi)", "Cinnamon (dalchini)", "Mustard seeds", "Curry leaves", "Sugar"], "cats": ["Seed", "Flower bud", "Stem or bark", "Leaf", "Underground stem", "Made from a stem"]}
+        ]],
+        ["B. Seasons and places", [
+          {"t": "sort", "p": "When are these usually fresh and plentiful in most of India?", "items": ["Mango", "Watermelon", "Jamun", "Carrot", "Peas", "Sarson (mustard greens)", "Amla"], "cats": ["Summer", "Winter"]},
+          {"t": "write", "p": "People in coastal Kerala eat lots of fish and coconut, and people in dry Rajasthan eat lots of bajra. Explain why, in two sentences.", "lines": 3}
+        ]],
+        ["C. Experiments", [
+          {"t": "table", "p": "Write your sprouting results.", "cols": ["Stage", "Weight (g) or size", "What it looked like"], "rows": 3, "prefill": ["Dry seeds", "After soaking", "After sprouting"]},
+          {"t": "write", "p": "One drop of iodine turned potato and rice blue-black, but cucumber stayed brown. What does this tell you about these foods?", "lines": 2},
+          {"t": "write", "p": "We dissolved salt in water and left it in the sun. What was left behind next day, and where did the water go?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Taste puzzles and big food questions",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Green chilli feels 'hot' but it is not hot to touch. Scientists say we feel chilli with the same nerves that feel heat and pain. Is spicy a taste, then? Give your reason.", "lines": 3},
+          {"t": "write", "p": "Hold your nose and eat a small piece of apple, then a small piece of raw potato. Can you tell them apart? What does this tell you about smell and taste?", "lines": 3},
+          {"t": "fill", "p": "The fifth basic taste, found in ripe tomatoes and soups, is called ____.", "a": ["umami"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if you could eat only one food for a whole month? Which would you choose to stay healthiest, and what would your body still be missing?", "lines": 3},
+          {"t": "write", "p": "What if all the bees disappeared? Which foods on your plate might become rare? (Hint: bees help many plants make fruits and seeds.)", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "For many decades school books showed a 'tongue map'. How did scientists find out it was wrong? What does this teach us about pictures in books?", "lines": 3},
+          {"t": "write", "p": "The Green Revolution helped India grow much more wheat and rice so fewer people went hungry. Others say it used too much water and pushed out millets. Write one good point on each side, and what you would choose for your state.", "lines": 4},
+          {"t": "mcq", "p": "Ayurveda counts six tastes; modern taste scientists count five basic tastes. Which is the best way to describe this?", "opts": ["One must be lying", "They sort the same experiences in different ways; scientists explain spicy and astringent as feelings of heat and dryness rather than taste-bud tastes", "Tastes are not real", "Everyone agrees there are exactly six"], "a": 1}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "How much heavier do sprouts get?",
+      "day": 1,
+      "question": "What happens to the weight of dry seeds when they are soaked and sprouted, and why?",
+      "need": ["50 g dry kala chana or whole moong", "a kitchen scale (or a small katori to measure volume)", "a bowl and water", "a damp cotton cloth or sprout box", "notebook"],
+      "steps": [
+        "Weigh 50 g of dry seeds and draw one seed actual size.",
+        "Soak the seeds overnight in three times their amount of water.",
+        "Next morning, drain, look at how much water is left, and weigh the seeds again.",
+        "Wrap the seeds in a damp cloth or put them in a sprout box in a warm place.",
+        "After one more day, weigh the sprouts and draw one next to the dry seed.",
+        "Record all three weights in a table."
+      ],
+      "predict": "Ask your child to guess first: after soaking, will the seeds weigh more, less or the same? Will there be more or less water in the bowl?",
+      "observe": "The seeds swell to about twice their size, the skins may wrinkle or split, and there is less water in the bowl. After sprouting, a small white root appears. The weight roughly doubles, for example from 50 g to about 100 g.",
+      "why": "A dry seed has very little water in it. When it is soaked, water enters through the seed coat and a tiny hole near the scar of the seed, and the seed swells, just as a dry sponge swells. The water wakes up the baby plant inside, which starts using its stored food to grow a root and shoot. The extra weight is almost all the water the seed drank. This is also why sprouts are soft and easy to cook, and why soaked chana cooks faster than dry chana.",
+      "safety": "Rinse sprouts twice a day if you keep them longer. Steam or boil sprouts before eating; raw sprouts can carry germs.",
+      "time": "9 min to set up + 6 min next morning + 5 min the day after"
+    },
+    {
+      "id": "e2",
+      "title": "Test the tongue map",
+      "day": 3,
+      "question": "Is it true that we taste sweet only at the tip of the tongue, salty and sour at the sides and bitter at the back?",
+      "need": ["4 small cups: sugar water, salt water, lemon water, bitter water (methi seeds or karela soaked in water)", "a packet of cotton buds", "a glass of plain water", "a big tongue drawing on paper"],
+      "steps": [
+        "Draw a big tongue and mark four places: tip, left side, right side, middle of the back.",
+        "Your child sticks out their tongue. Dip a fresh cotton bud in sugar water and touch it to the tip.",
+        "Ask them to say what they taste before pulling the tongue back in. Sip plain water.",
+        "Repeat on each side and on the middle of the back. Use a new cotton bud every time.",
+        "Do the same for salt, lemon and bitter water.",
+        "Mark on the drawing every place each taste was felt."
+      ],
+      "predict": "Ask your child to guess first, after you show them the old tongue map: will sugar water taste sweet if we touch it to the back of the tongue? Will bitter be tasted at the tip?",
+      "observe": "Every taste can be felt on every part of the tongue that has taste buds. Some children find one area slightly stronger for a particular taste, but no area tastes only one thing. The very middle of the tongue has fewer taste buds, so tastes may feel weaker there.",
+      "why": "Your tongue is covered in tiny bumps, and on them are thousands of taste buds. Each taste bud has taste cells for sweet, salty, sour, bitter and umami, so every part of the tongue that has taste buds can sense every basic taste. When a taste cell senses a taste, it sends a message along a nerve to the brain, and the brain tells you 'sweet!' The tongue map came from a misreading of an old experiment that found only very small differences in sensitivity. Your own test is the same kind of evidence that showed it was wrong.",
+      "safety": "Use a fresh cotton bud for each dip, and do not touch too far back on the tongue. Check for any food allergy first.",
+      "time": "12 min"
+    },
+    {
+      "id": "e3",
+      "title": "Which foods are full of starch?",
+      "day": 5,
+      "question": "Which of our everyday foods contain starch, the plant's stored energy food?",
+      "need": ["small pieces of raw potato, cooked rice, bread or roti, cucumber, apple", "a pinch of sugar and a pinch of besan or ragi flour", "Betadine (povidone-iodine) or tincture of iodine", "a dropper or a toothpick", "a spoon of water", "a steel plate"],
+      "steps": [
+        "Arrange the foods on the plate, a little apart from each other, and label them.",
+        "An adult mixes about 5 drops of iodine into a spoonful of water.",
+        "Put one drop of the iodine water on each food.",
+        "Wait one minute and look at the colour of each spot.",
+        "Record: food, colour, starch yes or no.",
+        "Throw away all the tested food and wash the plate and hands."
+      ],
+      "predict": "Ask your child to guess first: which foods will turn dark blue-black? Will sugar, which is sweet, turn black?",
+      "observe": "Potato, rice, bread, roti and flours turn dark blue-black. Cucumber, apple and sugar stay orange-brown (the colour of the iodine). Ripe apple may show a few dark spots.",
+      "why": "Iodine reacts with starch to make a dark blue-black colour, so it is a simple test for starch. Plants make sugar in their leaves using sunlight, then join thousands of sugar pieces together into long chains called starch to store it, mostly in seeds (rice, wheat, dal), underground stems (potato) and roots. Starch is a big energy store, which is why these are 'Go' foods. When we chew and digest starch, our body breaks it back into sugar for energy; chew a piece of plain roti for a long time and it starts tasting slightly sweet, because saliva begins this breaking-up. Sugar itself does not turn black because it is not starch.",
+      "safety": "An adult handles the iodine. Iodine stains skin and clothes and must not be swallowed. Do not eat the tested food.",
+      "time": "10 min"
+    },
+    {
+      "id": "e4",
+      "title": "Getting salt back from water",
+      "day": 6,
+      "question": "Where does salt go when it dissolves in water, and how do people get salt from the sea?",
+      "need": ["2 teaspoons of salt", "half a cup of warm water", "a spoon", "a dark-coloured or steel plate", "a sunny place", "a magnifying glass if available"],
+      "steps": [
+        "Stir 2 teaspoons of salt into half a cup of warm water until you cannot see any salt.",
+        "Ask your child to taste a drop from a fingertip: is the salt still there?",
+        "Pour the salty water into the plate.",
+        "Leave the plate in a sunny place, away from dust, for a day or two.",
+        "Look at the plate with a magnifying glass and draw what you see."
+      ],
+      "predict": "Ask your child to guess first: when we cannot see the salt, has it gone? What will be left in the plate after the water dries?",
+      "observe": "The water slowly disappears, and a white crust of salt crystals is left on the plate. Under a magnifying glass, many crystals look like tiny cubes.",
+      "why": "When salt dissolves, it breaks into pieces far too small to see and spreads all through the water, but it is still there, as the salty taste shows. The sun's heat makes the water evaporate into the air, but salt cannot evaporate, so it is left behind and its tiny pieces join up again into crystals. This is how most of India's salt is made: sea water is let into wide, shallow salt pans along the coasts of Gujarat and Tamil Nadu, the sun dries it, and the salt is raked into heaps. Rock salt (sendha namak) is salt left behind by ancient seas that dried up long ago, now dug from the ground. Salt and water both come from the earth itself, not from plants or animals.",
+      "safety": "Do not eat the salt from the plate; dust may have fallen on it.",
+      "time": "10 min to set up + a 4-minute check after 1–2 days"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Our Family Cookbook",
+      "day": 4,
+      "mins": 30,
+      "need": ["a small notebook", "a phone to call an elder", "ingredients for one family dish", "coloured pens", "a phone camera"],
+      "steps": [
+        "Interview a grandparent or elder about one dish they grew up eating: its name, where they learned it, what goes in, and when it was made.",
+        "Write the answers on the first page of 'Our Family Cookbook'.",
+        "Cook the dish together. The child washes, measures, mixes and sets the plate; the adult handles the flame and knives.",
+        "While cooking, sort the ingredients: from plants, from animals, from neither.",
+        "Write the recipe in order, as page 108 asks: name, who taught it, ingredients with amounts, steps.",
+        "Take a photo of the finished dish and stick or draw it beside the recipe.",
+        "Over the next months, collect one recipe from each relative, with the place it comes from."
+      ],
+      "outcome": "The first page of a family cookbook, written and illustrated by your child, a dish cooked together, and a habit of collecting family recipes and the stories behind them."
+    },
+    {
+      "id": "a2",
+      "title": "Food-origin trail",
+      "day": 6,
+      "mins": 9,
+      "need": ["paper", "pencils and crayons"],
+      "steps": [
+        "Choose five foods you will eat at dinner tonight.",
+        "For each one, write it on the right side of the page.",
+        "Draw arrows back, step by step, to where it came from: the shop, the mill or dairy, the farm, the plant or animal.",
+        "For animal foods, go one step further back: what did the animal eat?",
+        "Draw a small person at each step who did the work (farmer, driver, shopkeeper, cook).",
+        "Count how many people helped bring tonight's dinner to you."
+      ],
+      "outcome": "Five drawn food chains that show every food goes back to a plant, the earth or an animal (which itself ate plants), and a count of the people who brought dinner to the table."
+    },
+    {
+      "id": "a3",
+      "title": "Fruit chaat to share (page 108)",
+      "day": 8,
+      "mins": 10,
+      "need": ["3–4 seasonal fruits", "a lemon", "chaat masala or black salt", "a child-safe knife and chopping board", "a bowl and small plates"],
+      "steps": [
+        "Wash hands and fruits.",
+        "Cut soft fruits like banana and papaya with a child-safe knife; an adult cuts hard fruits like apple or guava.",
+        "Mix the fruit pieces in a bowl. Add a squeeze of lemon and a pinch of chaat masala.",
+        "Taste and name the tastes: sweet, sour, salty.",
+        "Serve small plates to family members or a neighbour.",
+        "Put the peels and seeds in a compost bin or a pot of soil rather than the dustbin."
+      ],
+      "outcome": "A bowl of seasonal fruit chaat made and shared by your child, as the book's 'Eating together' task asks, and peels saved from the dustbin."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "The 'tongue map': David Hänig (1901), Edwin Boring (1942), and Virginia Collings (1974), who checked it",
+      "idea": "In 1901 the German scientist David Hänig tested how strongly people sensed tastes at different spots around the edge of the tongue, and found only small differences. In 1942 the American psychologist Edwin Boring redrew Hänig's results in a book in a way that made them look like separate zones. This became the famous 'tongue map': sweet at the tip, salty and sour at the sides, bitter at the back. It was printed in school textbooks around the world for decades.",
+      "then": "For about 30 years almost nobody checked it, because it was in so many books. In 1974 Virginia Collings repeated the tests carefully and found that all tastes can be sensed on all parts of the tongue that have taste buds, with only small differences in sensitivity.",
+      "now": "The tongue map is rejected. Since around 2000, scientists have found the actual taste receptor cells for sweet, bitter, umami and the other tastes, and they are spread across all taste buds. The map is now used as a famous example of a mistake that spread because people copied pictures instead of testing them.",
+      "status": "rejected",
+      "ask": "The tongue map was in thousands of books, yet it was wrong. You tested it yourself in ten minutes. Why do you think so many people believed it without testing? What will you do next time a book shows you something surprising?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Kikunae Ikeda (1864–1936), chemist, Japan",
+      "idea": "Ikeda noticed that dashi, a Japanese soup made from kombu seaweed, had a delicious savoury taste that was not sweet, sour, salty or bitter. In 1908 he found the substance that causes it, a natural chemical called glutamate, and named the taste 'umami', meaning roughly 'delicious taste'. Glutamate is also found in ripe tomatoes, mushrooms, cheese and many soups.",
+      "then": "Japanese cooks and scientists accepted umami, but for most of the 20th century many Western scientists said there were only four basic tastes and that umami was just a mix of salty and sweet or a flavour, not a real taste.",
+      "now": "Umami is now accepted as the fifth basic taste. Around 2000 to 2002, scientists found taste receptors on the tongue that respond specifically to glutamate, which was the evidence the doubters had asked for. Ikeda was right nearly a hundred years before the proof came.",
+      "status": "accepted",
+      "ask": "For almost a hundred years, people argued about whether umami was a real taste. What kind of evidence finally settled it? Can you think of a taste in our food that you think deserves its own name?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "The Charaka Samhita (ancient Indian medical text, about 2,000 years old) and today's taste scientists",
+      "idea": "The Charaka Samhita, one of the oldest books of Ayurveda, named six tastes, or rasas: madhura (sweet), amla (sour), lavana (salty), katu (pungent or spicy), tikta (bitter) and kashaya (astringent). It taught that a good meal should include all six in the right balance, an idea we still see in a festive thali and in chhappan bhog. This is careful observation of how foods feel in the mouth.",
+      "then": "For centuries this six-taste system guided Indian cooking and medicine, and similar lists were made in other ancient cultures, such as China and Greece, each a little different.",
+      "now": "Modern taste scientists agree with the old texts on sweet, sour, salty and bitter, and add umami. They explain 'spicy' differently: chilli does not work on taste cells but on nerves that sense heat and pain (in 2021 David Julius shared a Nobel Prize partly for finding the heat receptor that chilli switches on). 'Astringent' is explained as a drying, puckering touch feeling caused by substances like tannins in tea and raw fruit. Scientists are still debating whether more tastes, such as the taste of fat, should be added, so 'how many tastes are there?' does not have a final answer.",
+      "status": "debated",
+      "ask": "The old books said six tastes; scientists today say five, maybe more. Does it matter whether we call chilli a 'taste' or a 'feeling'? What would you need to find on the tongue to decide that something is a real taste?",
+      "day": 1
+    },
+    {
+      "id": "v4",
+      "who": "M.S. Swaminathan (1925–2023), agricultural scientist, India",
+      "idea": "In the 1960s India did not grow enough grain to feed its people and had to import wheat from abroad. Swaminathan, a plant scientist born in Kumbakonam, Tamil Nadu, worked with the American scientist Norman Borlaug to bring in short-stemmed, high-yielding wheat varieties from Mexico and adapt them for Indian fields. With irrigation and fertiliser, farmers in Punjab, Haryana and other states harvested far more wheat, and later rice. This came to be called the Green Revolution, and within a few years India could feed itself.",
+      "then": "Many people were doubtful at first that farmers would change to new seeds, and some feared the cost of fertiliser. The huge harvests won over most people, and Swaminathan received the first World Food Prize in 1987.",
+      "now": "That the Green Revolution saved India from food shortages is accepted. But there is an honest, continuing debate about its costs: heavy pumping of groundwater for rice in Punjab, overuse of fertilisers and pesticides, and farmers moving away from millets like ragi, jowar and bajra, which need much less water. Swaminathan himself warned about these dangers as early as 1968, and later called for an 'evergreen revolution' that grows more food without harming soil and water. He was awarded the Bharat Ratna after his death, in 2024.",
+      "status": "debated",
+      "ask": "Growing lots of rice and wheat fed millions of people, but used a lot of water. If you were a farmer in a dry place, what would you grow, and how would you decide?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "Why do we need to eat and drink?", "a": "Food gives us energy to move, play and think, helps our body grow and repair itself, and keeps us healthy; water keeps the body working and replaces water lost in sweat, breath and urine."},
+    {"q": "What did the champion tell Shirin, and what happened?", "a": "To eat many kinds of food, not only rice and potatoes: vegetables, fruits, different grains, dal and nuts, cooked at home. Shirin stopped falling sick, ran faster, felt energetic and won a medal."},
+    {"q": "What is a balanced diet? Give an example of a balanced meal.", "a": "Meals with a mix of energy-giving, body-building and protective foods, plus water. For example rice or roti, dal, a green vegetable, curd and a fruit."},
+    {"q": "Name the six tastes of chhappan bhog. Is it true we taste sweet only on the tip of the tongue?", "a": "Sweet, spicy, astringent, sour, salty and bitter. No: our tongue test showed every taste can be felt all over the tongue; the tongue map was a mistake."},
+    {"q": "Why do we eat seasonal food, and why do we drink more in summer?", "a": "Seasonal food is fresh, tasty, cheaper and suits the weather. In summer we sweat more, losing water, so we need to drink more."},
+    {"q": "Which part of the plant do we eat in carrot, potato, palak, mango and dal?", "a": "Carrot: root; potato: stem; palak: leaf; mango: fruit; dal: seed."},
+    {"q": "Which two common ingredients come from neither plants nor animals? Where does salt come from?", "a": "Water and salt. Salt is made by drying sea water in salt pans in the sun, or is dug from the ground as rock salt."},
+    {"q": "Give two ways to avoid wasting food at home.", "a": "For example: take only as much as you can eat, use leftovers in new dishes, store food properly, share extra food with someone who needs it, and compost peels."}
+  ]
+}

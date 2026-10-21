@@ -1,0 +1,760 @@
+{
+  "key": "ncert|sci|5|1",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 1,
+  "title": "Water — The Essence of Life",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 1 'Life Around Us', Chapter 1 (pages 3–20), Reprint 2026-27",
+  "summary": "Afreen and Jyoti watch the rain and wonder where it comes from and where it goes. Your child finds out how little of Earth's water is fresh, sees water change between ice, liquid and vapour, builds a water cycle in a bag, follows rainwater into the ground and down rivers to the Bay of Bengal or the Arabian Sea, and meets the plants and animals of a pond. The chapter ends with how people, from Rajasthan's johads to Hiware Bazar, catch and save water.",
+  "goals": [
+    "By the end your child can explain why most of Earth's water cannot be drunk or used for farming, using the glass-and-teaspoon picture (about 2–3 parts in 100 is fresh, and most of that is frozen or underground).",
+    "By the end your child can name the three forms of water (solid ice, liquid water, water vapour), say what makes water change from one to another, and explain where the droplets on a cold glass come from.",
+    "By the end your child can draw and explain the water cycle using the words evaporation, condensation and rain (precipitation), and say what the Sun does in it.",
+    "By the end your child can explain what groundwater is, why cemented cities recharge less of it, and name ways (johads, soak pits, ponds, trees) to send rainwater back underground.",
+    "By the end your child can show on a map that rivers flow downhill from high land, and sort major Indian rivers by whether they reach the Bay of Bengal or the Arabian Sea.",
+    "By the end your child can describe how pond animals and plants are suited to water (fins, webbed feet, long legs, waxy floating leaves) and build a simple pond food chain."
+  ],
+  "words": [
+    ["freshwater", "water with very little salt in it, found in rivers, lakes, ponds, glaciers and under the ground; the only kind we can drink"],
+    ["water vapour", "water in the form of an invisible gas mixed in the air"],
+    ["evaporation", "when liquid water turns into water vapour, usually because it is warmed, as wet clothes dry in the sun"],
+    ["condensation", "when water vapour cools and turns back into tiny drops of liquid water, as on a cold steel glass"],
+    ["water cycle", "the never-ending journey of water from oceans, rivers and land into the air as vapour, into clouds, and back down as rain, snow or hail"],
+    ["groundwater", "rainwater that has soaked down through soil and rock and is stored deep underground; wells and borewells pull it up"],
+    ["recharge", "to fill up again; rain soaking into the ground recharges groundwater"],
+    ["johad", "a traditional small earthen dam in Rajasthan that holds rainwater so it can soak slowly into the ground"],
+    ["glacier", "a huge, slow-moving river of ice high in the mountains; many big rivers begin from melting glaciers"],
+    ["habitat", "the natural home of a plant or animal, which gives it food, water and shelter"],
+    ["aquatic", "living in or near water, like fish, lotus and the pond heron"],
+    ["food chain", "a list showing who eats whom, for example water plants, then small fish, then big fish, then a heron"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Where does all the rain go?",
+      "goal": "Spark curiosity about the water around us, find out how little of Earth's water is fresh, and start two experiments that need a few days.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Count the water in your morning",
+          "mins": 6,
+          "do": "Ask your child to list every time they used or saw water since they woke up. Count on fingers together: brushing teeth, the toilet flush, a bath or bucket, drinking water, tea or milk, cooking dal or rice, washing the floor, watering plants. Then ask: 'Where did that water come from before it reached our tap or matka?' Accept any honest guess ('the tank', 'the tanker', 'a pipe', 'the municipality'). Tell them: 'By the end of this chapter you will be able to follow that water all the way back to the sky.'"
+        },
+        {
+          "kind": "read",
+          "title": "Afreen and Jyoti in the rain (pages 3–4)",
+          "mins": 7,
+          "do": "Read page 3 aloud, where Afreen and Jyoti watch raindrops slide down the window and ask where the water comes from and where it goes. Then read page 4 about salty and fresh water. Look at the johad picture on page 4 and read its caption: johads in Rajasthan are small earthen dams that collect rainwater. Ask: 'Most of the Earth is covered with water. So why do some places run short of water?' Good answer: 'Most of it is salty sea water, which we cannot drink or use for crops.' Read the 'Do you know?' box about the salt pans of Gujarat."
+        },
+        {
+          "kind": "do",
+          "title": "The glass and the teaspoon (page 4)",
+          "mins": 8,
+          "do": "Do the book's picture as a real demonstration. Fill a steel or glass tumbler with about 200 ml of water (a standard tumbler is close). Say: 'Pretend this is ALL the water on Earth.' Now take out one teaspoon (5 ml) and hold it up: 'This is all the fresh water.' Pour the teaspoon into a small katori. Then go further than the book: tip most of the teaspoon back, leaving only a few drops in the katori, and say: 'Most of even this teaspoon is frozen in ice at the poles and in glaciers, or deep underground. The water in all our rivers and lakes is just these few drops.' Ask: 'Why should we be careful with water, then?' Listen for: 'Because the usable water is very little and everyone shares it.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss: can we drink sea water? (page 4)",
+          "mins": 6,
+          "do": "Ask the two Discuss questions on page 4. 1: 'Can we drink the water present in the oceans?' Good answer: 'No, it is too salty. Drinking it makes us more thirsty, because the body has to use up its own water to get rid of the extra salt.' 2: 'What can ocean water be used for?' Good answers: making salt (the Gujarat salt pans), fishing, ships and boats, and in some cities like Chennai it is cleaned in big desalination plants to make drinking water, which costs a lot of electricity. If stuck, ask: 'Where does the salt in our kitchen come from?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up: make salt like the salt pans",
+          "mins": 8,
+          "do": "Set up Experiment e1. Stir 2 teaspoons of salt into half a cup of warm water until it disappears. Ask: 'Where did the salt go? Is it still there?' Let your child taste one drop on a fingertip to check (it is). Pour a thin layer into a wide steel plate and put it in the sunniest spot you have (a balcony, a terrace or a sunny windowsill). Before you leave it, ask your child to predict what will be left in the plate after two or three days, and write the guess in the notebook.",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up: the hidden water in a cucumber",
+          "mins": 10,
+          "do": "Set up Experiment e2. Cut a cucumber into thin slices (adult with the knife). Weigh 100 g of slices on a kitchen scale (or count out 10 slices and draw around them on paper if you have no scale). Lay them on a plate covered with a thin cloth and put them in the sun beside the salt plate. Ask your child to guess: 'After two days, how many grams will be left?' Write the guess down. Then ask: 'Is there water in us too?' Tell them that about 60 out of every 100 parts of an adult's body is water, and even more in a child's."
+        }
+      ],
+      "need": ["Textbook pages 3–4", "a 200 ml tumbler, a teaspoon and a small katori", "salt, warm water, a wide steel plate", "1 cucumber and a knife (adult use)", "kitchen scale if you have one", "a thin cloth", "notebook and pencil"],
+      "prep": [{"task": "Find the sunniest spot in the house or terrace where two plates can sit undisturbed for 3 days", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "Sources and forms of water",
+      "goal": "Name the sources of freshwater, and see water change between solid, liquid and vapour, including the mystery of the wet outside of a cold glass.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the plates",
+          "mins": 4,
+          "do": "Look at the salt plate (e1) and the cucumber slices (e2). Ask: 'Has the water level in the salt plate dropped? Are there any white edges yet?' Ask your child to touch a cucumber slice: 'Is it softer, thinner, curling at the edges?' Draw both with today's date. Do not weigh the cucumber yet.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Sources of water (page 5)",
+          "mins": 8,
+          "do": "Read page 5. Do Activity 1: look at the pictures of freshwater sources and ask your child to name each one aloud and write the names in the notebook (for example river, lake, pond, well, handpump, glacier or snow, rain, waterfall). Read the caption about Wular Lake in Jammu and Kashmir, one of the largest freshwater lakes in Asia, which soaks up extra water and so helps prevent floods. Ask: 'Which of these sources have you seen yourself? Which one does our home's water come from?' If you do not know, say so, and promise to find out on Day 4."
+        },
+        {
+          "kind": "talk",
+          "title": "Jyoti's questions: is there water in air? Is snow water?",
+          "mins": 5,
+          "do": "Read Jyoti's two questions at the top of page 5. Ask your child to answer them before you read on. Good answers: 'Yes, snow and ice are water in solid form'; 'Yes, there is water in the air as invisible vapour; that is why wet clothes dry and why the bathroom mirror fogs up.' Read the line on page 5: water has three forms, liquid (rain), solid (ice) and vapour (steam). Point out one honest detail: the white cloud above a boiling pressure cooker is not vapour itself; vapour is invisible, and the white cloud is tiny drops that have already cooled back into liquid."
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 2: the sweating steel glass (page 6)",
+          "mins": 14,
+          "do": "Do Experiment e3, the book's Activity 2. First ask your child to guess: 'If I put ice in a dry steel glass, will the OUTSIDE get wet? Where would that water come from?' Write the guess. Wipe a steel glass totally dry, fill it with ice cubes and a little water, and wait 5 minutes. Look and touch: droplets form on the outside. Ask the book's question (a): 'Where do these droplets come from?' Many children say 'the water leaked through'. Test it: add a few drops of food colour or haldi water inside the glass. If the outside drops stay clear, they did not come from inside. Good answer: 'From the water vapour in the air; it touched the cold glass, cooled and turned back into liquid.' Then ask (b) 'What happens to the ice cubes after some time?' (They melt into liquid water.) and (c) 'If we heat water, what will happen to it?' (It gets hotter, bubbles and turns into steam, which is vapour.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "ws",
+          "title": "Observing changes table (page 6)",
+          "mins": 9,
+          "do": "Fill the 'Observing Changes' table on page 6 in the notebook with three rows: Ice melting, Water boiling, Water in sunlight for three days. For each row your child writes what they saw and which form changed into which: ice melting is solid to liquid; water boiling is liquid to vapour; water in sunlight for three days slowly disappears (liquid to vapour, without boiling). Ask: 'How is the salt plate on the balcony like the third row?' (The water there is evaporating too.) Ask the question below the activity on page 6: 'In the above activity, what forms of water do you see?' (Solid ice, liquid water, and vapour in the air that became droplets.) Then do section A of Worksheet ws1 (Forms of water) if time allows; keep sections B and C for Day 5.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "talk",
+          "title": "Forms hunt at home",
+          "mins": 5,
+          "do": "Walk around the house for five minutes and find one example of each form: solid (ice in the freezer, frost), liquid (tap, matka, plant tray), vapour or its signs (steam from the kettle, wet clothes drying, a fogged mirror after a bath). Your child names the form and, for each, says what could change it: 'If I take the ice out, the warm air will melt it.'"
+        }
+      ],
+      "need": ["Textbook pages 5–6", "a steel glass and a tray of ice cubes", "a few drops of food colour or a pinch of haldi", "a kitchen cloth", "notebook"],
+      "prep": [{"task": "Freeze a full tray of ice cubes", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "The water cycle in a bag",
+      "goal": "Build the book's water cycle in a bag, understand evaporation and condensation in nature, collect our salt, and meet the potter who worked out where rivers come from.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Activity 3: set up the water cycle bag (page 7)",
+          "mins": 10,
+          "do": "Do Experiment e4, the book's Activity 3. Take a clear zip-lock bag. Your child draws with a permanent marker, as in the picture on page 7: a sun in the top corner, clouds near the top, a wavy sea at the bottom, a tree, and arrows going up from the sea and down from the clouds. Fill one-third of the bag with water coloured with a drop of blue food colour or blue paint. Seal it tightly and tape it to a sunny window, sea side down. Before you walk away, ask: 'What do you think will appear on the inside of the bag in a few hours? Where?' Write the guess. You will look again at the end of today's lesson and tomorrow.",
+          "ref": "e4"
+        },
+        {
+          "kind": "exp",
+          "title": "Salt plate and cucumber results",
+          "mins": 9,
+          "do": "Bring in the salt plate from Experiment e1. The water should be gone, leaving a white crust. Ask your child to scrape a little with a spoon and look closely, with a magnifying glass if you have one: small square crystals. Taste a grain. Ask: 'Where did the water go? Why did the salt stay behind?' Good answer: 'The water evaporated into the air as vapour, but salt cannot evaporate, so it was left.' Link to page 4: this is exactly how the salt pans of Gujarat make salt, but in huge shallow fields of sea water. Then weigh the cucumber slices from Experiment e2 and compare with 100 g. Usually only about 5–10 g is left. Ask: 'So how much of a cucumber was water?' (About 90 to 95 parts out of 100.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "How water moves in nature (pages 7–8)",
+          "mins": 8,
+          "do": "Read the 'I Observe, I Wonder, It is because of' boxes on page 7 and the paragraph on page 8: the Sun's heat turns water from oceans and rivers into vapour; vapour cools high up and forms clouds; clouds give rain, snow and hail; the water returns to rivers, lakes and oceans. This circle is the water cycle. Teach three words, writing each on a card: evaporation (liquid to vapour), condensation (vapour to droplets) and precipitation (water falling as rain, snow or hail). Ask: 'Where did we see evaporation this week?' (The salt plate, the cucumber.) 'Where did we see condensation?' (The steel glass.) Read the captions about the fishing cat and Keibul Lamjao, the floating national park of Manipur, if your child is curious."
+        },
+        {
+          "kind": "think",
+          "title": "Where do rivers really come from? (Palissy and Perrault)",
+          "mins": 9,
+          "do": "Tell the story in Voice v1 in your own words. For hundreds of years many learned people believed that rivers and springs were fed by sea water flowing through secret tunnels under the land, and that rain was far too little to keep a river flowing all year. A self-taught potter, Bernard Palissy, said rain was enough. About a hundred years later Pierre Perrault measured it. Ask the voice question and let your child answer fully. A thoughtful answer: 'You would measure all the rain that falls on the land around the river and all the water flowing down the river, and see if the rain is bigger.'",
+          "ref": "v1"
+        },
+        {
+          "kind": "exp",
+          "title": "Check the bag",
+          "mins": 4,
+          "do": "Look at the water cycle bag (e4). By now there should be a mist of tiny droplets on the inside of the bag, mostly near the top, and perhaps a few drops running down. Ask: 'Which word is this, evaporation or condensation?' (Both happened: water evaporated from the coloured water, then condensed on the cooler plastic.) Ask: 'Are the droplets blue?' (Usually not, or very pale. Like the salt, the colour stays behind; only water evaporates.) Your child draws the bag and labels evaporation, condensation and precipitation.",
+          "ref": "e4"
+        },
+        {
+          "kind": "do",
+          "title": "Draw my own water cycle",
+          "mins": 5,
+          "do": "Your child draws a big circle diagram in the notebook from memory: the sea, the Sun, arrows up labelled 'evaporation', a cloud labelled 'condensation', rain and snow on a mountain labelled 'precipitation', a river running back to the sea. Ask them to add one more path the book mentions: some rain soaking into the soil. Say: 'Tomorrow we will follow that water underground.'"
+        }
+      ],
+      "need": ["Textbook pages 7–8", "a clear zip-lock bag, a permanent marker, blue food colour, tape", "the salt plate and cucumber slices from Day 1", "a spoon, kitchen scale, magnifying glass if available", "4 small cards", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Water under our feet",
+      "goal": "See how rain soaks into the ground, learn why cemented cities lose groundwater, find out where our own home's water comes from, and hear how johads brought back a river in Rajasthan.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Water cycle bag: day-two look",
+          "mins": 3,
+          "do": "Look at the bag from Experiment e4. Ask: 'Have drops run down the sides into the sea? That is the rain part of our cycle.' Ask: 'If we leave the bag sealed for a month, will the water run out?' (No, it keeps going round and round, like the Earth's water.) Then take the bag down.",
+          "ref": "e4"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 4 extended: which ground drinks the rain? (pages 8–9)",
+          "mins": 14,
+          "do": "Do Experiment e5, which starts with the book's Activity 4. Set out three clear glasses or cut bottles: one half-filled with garden soil, one half-filled with sand, and one with a flat steel plate or tile on top (our 'cement road'). Ask your child to guess first: 'If I pour the same rain on all three, where will the water go in each?' Pour 4 spoons of water slowly on each, as the book says. Watch the soil and sand from the side: the water sinks down between the grains and darkens them. On the tile it just runs off and spills. Ask: 'Which one soaked it fastest? Which one did not soak at all?' Then read page 9: rain that sinks through soil and rocks and is stored deep down is called groundwater, and we pull it up with wells, borewells, tube wells and handpumps.",
+          "ref": "e5"
+        },
+        {
+          "kind": "read",
+          "title": "Activity 5: which ground recharges? (page 9)",
+          "mins": 5,
+          "do": "Look at the three pictures on page 9 (concrete road, green lawn, paved area) and do Activity 5: your child ticks the green lawn. Ask them to explain using Experiment e5: 'The lawn has open soil, so the rain can sink in; concrete is like our tile, the water runs off into drains.' Read the 'Do you know?' box: soak pits, ponds, human-made lakes and planting trees help rainwater go back underground. Ask: 'Our building or street has how much open soil? Where does the rain from our roof go?'"
+        },
+        {
+          "kind": "act",
+          "title": "Trace our home's water",
+          "mins": 10,
+          "do": "Start Activity a1. Together, find out where your water really comes from: look at the overhead tank, the sump or underground tank, the motor, the municipal meter, the borewell, the tanker or the handpump, whichever you have. Ask a neighbour, the building watchman or a grandparent if you are not sure. Your child draws a flow map from the very beginning (rain, then a river, lake, reservoir or groundwater) to the tap, with each stop as a box and an arrow. Then add where used water goes (the drain, a septic tank, a sewage plant, a river). Ask: 'At which step can water be wasted?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "The johads of Alwar (Rajendra Singh)",
+          "mins": 10,
+          "do": "Go back to the johad picture on page 4. Tell the story in Voice v2: from 1985, Rajendra Singh and the villagers of Alwar district in Rajasthan dug and repaired thousands of johads, and wells that had been dry for years filled again; a river called the Arvari began flowing all year. Ask: 'How does a johad help water go underground? Think of our soil glass.' (It holds the rain still, so it has time to soak in instead of running away.) Then ask the voice question and let your child design the test in words.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Forest or city?",
+          "mins": 3,
+          "do": "Ask Let us reflect question 5 on page 20 now, while the soil glasses are still on the table: 'What do you think happens to rainwater in a forest compared to a city?' Good answer: 'In a forest, leaves slow the rain and the soil and roots soak it up, so much of it becomes groundwater. In a city, roads and roofs send it quickly into drains, so streets flood and little goes underground.'"
+        }
+      ],
+      "need": ["Textbook pages 8–9 and 20", "3 clear glasses or cut plastic bottles", "garden soil, sand, a small steel plate or tile", "a spoon and a jug of water", "notebook and coloured pens"],
+      "prep": [{"task": "Collect a cup of garden soil and a cup of sand (from a building site or a plant shop)", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Rivers follow the land",
+      "goal": "Use mustard seeds to see how water flows downhill along the shape of the land, and sort India's rivers by the sea they reach.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Surface water (page 10)",
+          "mins": 4,
+          "do": "Read the top of page 10: rivers, ponds and lakes are natural sources of freshwater besides groundwater, and a river often begins high in the mountains. Ask: 'Why do you think rivers start in the mountains and not in the plains?' Good answers: 'Snow and glaciers melt there', 'Lots of rain falls on mountains', 'Water runs downhill, so it starts high.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 6: mustard seed rivers (pages 10–11)",
+          "mins": 12,
+          "do": "Do Experiment e6, the book's Activity 6. Crumple one newspaper sheet into a loose ball and flatten it a little on a tray, so it has hills and valleys. Lay a second sheet over it and press gently so the slopes are smooth. Ask your child to guess: 'If I pour seeds on the highest point, will they go straight down, spread out, or collect somewhere?' Pour a cup of rai (mustard seeds) slowly from the top. Ask the book's three questions on pages 10–11. 1: 'What did you observe?' (They roll downhill.) 2: 'Straight line or different directions?' (Different directions, following the slopes, curving round bumps.) 3: 'Are they collecting in some areas, like water in lakes?' (Yes, in the low hollows.) Read page 11: water flows, stops or curves according to the shape of the land, and flowing water can also change the shape of land.",
+          "ref": "e6"
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss: why east or west? (page 11)",
+          "mins": 6,
+          "do": "Do the Discuss box on page 11. Show your child that the Western Ghats are a long line of hills close to India's west coast, and that most of the Deccan plateau tilts down towards the east. Use the seed model: lift one edge of the tray. Ask: 'Which way do the seeds roll now?' (Towards the low side.) So rivers like the Godavari, Krishna and Kaveri, which start in the Western Ghats, flow east across the whole country to the Bay of Bengal, while the Narmada and Tapi flow west to the Arabian Sea through their long valleys. Read the Luni river box: it starts in the Aravallis and does not reach any sea, ending in the marshes of the Rann of Kutch."
+        },
+        {
+          "kind": "do",
+          "title": "Activity 7: follow the flow on the map (pages 12–13)",
+          "mins": 10,
+          "do": "Open the map on page 12 (and the landforms picture: ice cap, glacier, waterfall, valley, lake, dune, desert). Your child traces each river with a finger from its start to its mouth. Copy the page 13 table into the notebook (River name | Bay of Bengal | Arabian Sea) and fill at least 8 rows. Answers: Ganga, Yamuna (joins the Ganga), Brahmaputra, Mahanadi, Godavari, Krishna and Kaveri go to the Bay of Bengal; Narmada, Tapi and Sabarmati go to the Arabian Sea; the Indus flows through Pakistan into the Arabian Sea. Ask: 'Which river is nearest our home? Which sea does it reach?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: forms, cycle and flow",
+          "mins": 13,
+          "do": "Do sections B and C of Worksheet ws1 (core). Read each item aloud if needed. For the water cycle labelling item, let your child look at their Day 3 drawing only after they have tried. Mark together; for each wrong answer go back to the page: forms of water page 5–6, water cycle page 8, groundwater page 9, rivers pages 10–13.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 10–13", "2 sheets of old newspaper and a tray", "1 cup of rai (mustard seeds) or any small seeds", "a map of India (the book's map is enough)", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Life in water",
+      "goal": "Compare animals of land and water, read the pond information card, find out why lotus leaves stay dry, and plan a pond visit.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Afreen's pond (page 14)",
+          "mins": 5,
+          "do": "Read page 14: the rain has filled the pond near the school, and Afreen and Jyoti see tiny fish and a small frog on a lotus leaf. Ask: 'How are animals in water different from animals on land?' Write your child's first ideas down before you read on; you will check them against the card on page 16."
+        },
+        {
+          "kind": "talk",
+          "title": "Land and water animals table (pages 14–15)",
+          "mins": 10,
+          "do": "Copy the two-column table from pages 14–15 into the notebook: Animals on Land | Animals in Water. Start with the book's examples ('Cannot breathe in water' and 'Have fins to swim'). Your child adds at least 4 more rows by thinking of one land animal and one water animal for each: how they breathe (lungs and nose for cows and us; gills for fish, which take oxygen from the water), how they move (legs; fins and a tail), body shape (any shape; smooth, pointed, streamlined like a boat), skin (fur, feathers; slippery scales or slime), how they keep warm or cool. Ask: 'Where would you put a frog?' (Both! It has lungs and also breathes through its wet skin, it has webbed feet, and its tadpoles live only in water with gills.)"
+        },
+        {
+          "kind": "read",
+          "title": "Information card (page 16)",
+          "mins": 8,
+          "do": "Read the Information Card on page 16 together. For each, ask what it has that helps it live in or near water: dragonfly (lays eggs near water and eats mosquitoes; its young live underwater), water scorpion (breathes through a tail tube, like a snorkel), pond heron (long legs to stand in water, waits still to catch fish), freshwater soft-shelled turtle, the harmless water snake, reeds (tall, grass-like, at the edges), lotus and water lily (rooted in the mud, leaves and flowers floating), and water hyacinth (floats freely). Tell your child honestly: water hyacinth came from South America and spreads so fast in Indian lakes that it covers them, blocks light and chokes the life below, so it is a big problem plant here."
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 9: the waxy paper and the lotus leaf (pages 18–19)",
+          "mins": 12,
+          "do": "Do Experiment e7, the book's Activity 9. Ask your child to guess first: 'Will a water drop behave the same on plain paper and on paper coloured with wax crayon?' Put a drop of water on plain paper: it soaks in and makes a wet patch. Colour a patch thickly with wax crayon and put a drop on it: it stays as a round bead and rolls when you tilt the paper. Then do the same on a real leaf: a lotus, colocasia (arbi) or cabbage leaf works brilliantly; a money plant leaf or banana leaf also works. Read the line on page 19: the waxy coating on leaves makes them waterproof. Ask: 'Why would a lotus, which lies flat on a pond, need a waterproof leaf?' (So rain and pond water roll off and do not rot it or block the air holes on its top side.)",
+          "ref": "e7"
+        },
+        {
+          "kind": "talk",
+          "title": "Plan the pond visit",
+          "mins": 6,
+          "do": "Plan Activity 8 for Day 7. Choose a safe place: a temple tank, a park lake, a pond on the edge of town, or an aquarium shop if there is no water body near you. Read the 'Note to the Teacher' on page 17 to your child: an adult goes along, we stay back from the edge, and we do not touch or disturb any plant or animal. Copy the two tables from pages 17–18 into the notebook now (animal: mouth or beak, how it moves, rough diagram; plants: floating, under water, rooted but above water, with local names) so they are ready."
+        },
+        {
+          "kind": "do",
+          "title": "Fold a paper fish (page 20)",
+          "mins": 4,
+          "do": "Do question 7 of Let us reflect on page 20: follow the six folding steps to make a paper fish from a square of paper. Your child draws gills behind its eye and fins on its sides and labels them. Keep it to use as a game piece on Day 7."
+        }
+      ],
+      "need": ["Textbook pages 14–20", "plain paper and wax crayons", "a lotus, arbi (colocasia), cabbage or banana leaf", "a dropper or straw", "a square of coloured paper", "notebook"],
+      "prep": [{"task": "Pick a pond, temple tank, park lake or aquarium shop for tomorrow and check timings", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "A visit to a pond and who eats whom",
+      "goal": "Observe real life in and around water, fill the book's tables, and play the river food chain game.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Activity 8: pond watch (pages 17–18)",
+          "mins": 25,
+          "do": "Visit the water body you chose. Stand quietly at a safe distance for 3 minutes first: animals come back when we are still. Your child fills the animal table from page 17, starting with the book's examples (fish: round mouth facing up, fins; pond heron: long pointed beak, thin legs). Look for: frogs or tadpoles, water striders skating on the surface, dragonflies, snails on stems, a kingfisher, a pond heron or egret standing still, ducks. For each bird ask: 'What is its beak shaped for?' (A long sharp beak spears fish; a flat duck bill sieves water.) Then fill the plants table from page 18: floating (lily, duckweed, water hyacinth), under water (hydrilla, often seen as green strands), rooted with leaves above (lotus, reeds). Ask a local person or stall owner the local names and write them in."
+        },
+        {
+          "kind": "game",
+          "title": "Activity 10: who eats whom? (page 19)",
+          "mins": 14,
+          "do": "Play the book's food chain game at home with family, teddies or paper slips. Write one living thing on each slip: water plants and algae, mosquito larvae, tadpole, small fish, frog, big fish, water snake, pond heron, otter, crocodile, human. Lay them on the floor. Your child joins them with a long string or wool from 'eaten' to 'eater' (water plants to small fish, small fish to big fish, frog to water snake, fish to heron, fish to human, and so on). Then do the book's question: 'What if all the fish are gone?' Pull the fish slips out and ask what happens to each thing joined to them. Good answer: 'The heron, otter, crocodile and fishermen lose food, and the mosquito larvae that fish eat would increase, so more mosquitoes.' Ask: 'Which slip does everything depend on at the bottom?' (The plants, which make food from sunlight.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Why do so many live near water?",
+          "mins": 6,
+          "do": "Ask Let us reflect question 3 on page 20: 'A large number of living beings live near water bodies. Why?' Good answer: 'They need water to drink; there is food there (fish, insects, plants); water plants and reeds give shelter and places to lay eggs; it is cooler.' Read the summary on page 19 aloud ('Through this activity, we discovered...')."
+        }
+      ],
+      "need": ["Textbook pages 17–19", "the copied tables in the notebook, pencil", "binoculars if you have them", "a water bottle and cap for the trip", "12 paper slips and a long string or wool"],
+      "prep": [{"task": "Write the 11 food chain names on paper slips", "when": "morning"}]
+    },
+    {
+      "n": 8,
+      "title": "Sharing and saving water",
+      "goal": "Feel why shared water needs rules by playing a game, compare how much water crops need, and learn from the old water wisdom of India.",
+      "steps": [
+        {
+          "kind": "game",
+          "title": "Lake of Two Villages",
+          "mins": 15,
+          "do": "Play Activity a2. Put 30 tokens (rajma beans, buttons or bottle caps) in a bowl: this is the lake that two villages share. You are one village, your child the other. Each round, both of you secretly hold 2 (careful) or 5 (greedy) tokens in a closed fist and open together; take those tokens from the lake for your fields. Then your child rolls a die for the rain: 1 = no rain, 2 = 1, 3 = 2, 4 = 3, 5 = 4, 6 = 6 tokens added back. Play 8 rounds. If the lake ever runs out, both villages lose. At the end, ask: 'What happened when we both chose 5? What rule could the two villages agree to?' Good answers: 'Take only as much as the rain puts back', 'Take less in a dry year.' Say: 'Real villages like Hiware Bazar made exactly such rules.'",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Hiware Bazar and the water museum (pages 11 and 13)",
+          "mins": 5,
+          "do": "Read the Hiware Bazar caption on page 11: a village in Maharashtra that became water-positive through watershed management and rainwater harvesting. Explain: the village dug trenches and check dams on the hills around it to slow the rain, planted trees, and agreed together on rules, such as limiting new borewells and choosing crops that need less water. Read the page 13 caption about the Jal Shakti Museum in New Delhi, India's first water museum. Ask: 'What does water-positive mean?' (A place that puts back into the ground at least as much water as it takes out.)"
+        },
+        {
+          "kind": "act",
+          "title": "Thirsty crops",
+          "mins": 8,
+          "do": "Do Activity a3. Put a small bowl each of rice, wheat, sugar (from sugarcane), bajra or ragi on the table. Tell your child the rough truth: rice and sugarcane are among the thirstiest crops; growing one kilogram of rice usually takes a few thousand litres of water, and millets like bajra and ragi need much less, so they grow even where rain is low. Your child lines up the bowls from 'most water' to 'least water' (sugarcane and rice, then wheat, then the millets) and draws buckets above each, more for the thirsty ones. Ask: 'If a village is short of water, which crops would be wise to grow? Is it that simple?' (Millets save water, but farmers also need crops that sell well and that people want to eat; that is why it is a hard choice.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "The ponds are still standing (Anupam Mishra)",
+          "mins": 9,
+          "do": "Tell the story in Voice v3: Anupam Mishra travelled across India and wrote down how ordinary villagers had built and cared for ponds, tanks, kunds and stepwells for hundreds of years. His book's title in Hindi means 'The ponds are still standing'. Ask your child if they have seen a stepwell (baoli or vav), a temple tank or a kund. Ask the voice question and listen for a reason, not just an opinion.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: water in new places",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to use the chapter's ideas on new cases: a hill village, a city flood, a desert house. Let them answer the write items aloud while you scribe if writing slows them down. Praise answers that name the right word (evaporation, condensation, groundwater, recharge).",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 11 and 13", "30 small tokens (rajma, buttons, bottle caps) and a bowl", "a die", "small bowls of rice, wheat, sugar and a millet", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Design a water-wise home",
+      "goal": "Build a working rainwater-harvesting model, design a water-wise home or school, and stretch thinking with the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Build a rain-harvesting model",
+          "mins": 20,
+          "do": "Do Activity a4, our 'Water Heroes' model. Use a shoebox or a cardboard sheet as a house. Make a sloping roof from a folded piece of cardboard covered in foil or a plastic bag. Tape a gutter along the low edge (half a straw or a folded strip of a plastic bottle) leading to a pipe (a straw) that ends in a cut bottle 'tank' with a small cloth filter on top. Next to the house, make a soak pit: a cut bottle with holes in the bottom, filled with layers of pebbles, then coarse sand, then a few small stones on top, standing in a tray of soil. Pour a cup of water slowly over the roof like rain. Ask your child to point to and name each part: roof catchment, gutter, filter, storage tank, overflow to the soak pit. Ask: 'Where does the water in the soak pit go?' (Down into the soil, to recharge groundwater.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Reflect: a house or school that saves water (page 20)",
+          "mins": 7,
+          "do": "Ask Let us reflect question 6 on page 20: 'Can you design a house or school that conserves water wisely? What would it include?' Using the model, your child lists at least 6 features. Good answers: roof rainwater harvesting, a soak pit or recharge well, open soil and trees instead of all-cement yards, taps that close by themselves, using washing-machine or RO-reject water for mopping or the toilet, a small garden watered with vegetable-washing water, a bucket bath instead of a running shower, fixing leaking taps fast. Write the list on the model's base."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing scientists' and water-workers' views. There is no single right answer in section C; praise reasons that use evidence ('because in my soil glass...').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "talk",
+          "title": "Two years without rain",
+          "mins": 5,
+          "do": "Ask Let us reflect question 4 on page 20: 'What would happen if it did not rain in your region for two years?' Push for a chain of effects: ponds and wells dry up, groundwater falls further because people pump more, crops fail, food prices go up, cattle have no fodder, tankers come, some families may have to move. Then ask: 'Which of our model's features would help such a town get through a dry year?' (Stored and recharged water from earlier rains.)"
+        }
+      ],
+      "need": ["a shoebox or cardboard, foil or a plastic bag, tape, scissors", "2 plastic bottles, straws, a small cloth", "pebbles, coarse sand, small stones, a tray of soil", "a cup of water", "worksheet ws3"],
+      "prep": [{"task": "Collect a shoebox, 2 empty plastic bottles, straws, pebbles and sand for the model", "when": "2 days before"}]
+    },
+    {
+      "n": 10,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Review the whole chapter with the book's reflection questions, check understanding, and have your child teach the water cycle back using our experiments.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect, questions 1 and 2 (page 20)",
+          "mins": 10,
+          "do": "Do question 1 on page 20, the matching: ocean water matches (c) not fit for drinking; snow matches (a) solid form of water; steam matches (b) vapour form of water; rainwater matches (d) freshwater. Then ask question 2: 'Why do you think most of the water on Earth cannot be used for drinking or farming?' Good answer: 'About 97 parts in 100 is salty sea water; most of the fresh part is frozen in ice caps and glaciers or deep underground, so only a tiny amount is in rivers and lakes.' Ask them to show it again with the tumbler and teaspoon from Day 1."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any miss, open the page together for a minute and ask again in different words (forms of water pages 5–6, water cycle page 8, groundwater page 9, rivers pages 10–13, life in water pages 14–19). Most children get 6 or more right; fewer than 5 means redo the Day 3 water cycle bag and the Day 4 soil glasses next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. In 7 minutes, using real things from this chapter, they must teach: why fresh water is precious (tumbler and teaspoon), the three forms of water and the steel glass mystery, the water cycle (their drawing or a new bag), how rain becomes groundwater (soil glasses and the rain model), and one pond animal and how it is suited to water. Ask two 'student' questions: 'If the outside of my cold glass is wet, is the glass leaking?' and 'Why does Chennai sometimes run short of water even though it is next to the sea?' Clap at the end and let them sign their notebook as 'Water Teacher'."
+        },
+        {
+          "kind": "talk",
+          "title": "A water promise",
+          "mins": 8,
+          "do": "Ask your child to choose three water-saving habits for the family from their Day 9 list, write them on a sheet and stick it near the kitchen tap or bathroom. One of them should be something they do themselves (for example 'I turn off the tap while brushing' or 'I water the plants with the dal-washing water'). Ask: 'How will we know if we are keeping the promise?' (Tick a chart every day for a week.) Tell them that the next chapter follows one river, the Godavari, from its source to the sea."
+        }
+      ],
+      "need": ["Textbook page 20", "the tumbler and teaspoon, the rain model, the notebook drawings", "a sheet of paper and sketch pens for the water promise"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Forms of water, the water cycle and rivers",
+      "day": 5,
+      "sections": [
+        ["A. Forms of water", [
+          {"t": "match", "p": "Match each to its form of water.", "pairs": [["Ice cube", "Solid"], ["Rain", "Liquid"], ["Invisible water in the air", "Vapour (gas)"], ["Snow on a mountain", "Solid"]]},
+          {"t": "fill", "p": "Droplets on the outside of a cold steel glass come from water ____ in the air.", "a": ["vapour", "vapor"]},
+          {"t": "mcq", "p": "Wet clothes dry on the line because the water:", "opts": ["Soaks into the rope", "Evaporates into the air", "Turns into ice", "Falls on the floor"], "a": 1}
+        ]],
+        ["B. The water cycle", [
+          {"t": "draw", "p": "Draw the water cycle: sea, Sun, cloud, rain on a mountain, river. Label evaporation, condensation and precipitation."},
+          {"t": "fill", "p": "When water vapour cools and turns into tiny drops, it is called ____.", "a": ["condensation"]},
+          {"t": "mcq", "p": "What gives the energy that lifts water from the sea into the air?", "opts": ["The wind", "The Moon", "The Sun's heat", "The fish"], "a": 2}
+        ]],
+        ["C. Water under and on the land", [
+          {"t": "fill", "p": "Rainwater stored deep under the ground is called ____.", "a": ["groundwater", "ground water"]},
+          {"t": "sort", "p": "Which surfaces let rain soak into the ground?", "items": ["Green lawn", "Concrete road", "Forest floor", "Tiled courtyard", "Farm field", "Tar road"], "cats": ["Lets rain soak in", "Rain runs off"]},
+          {"t": "sort", "p": "Which sea does each river reach?", "items": ["Ganga", "Godavari", "Narmada", "Kaveri", "Tapi", "Mahanadi"], "cats": ["Bay of Bengal", "Arabian Sea"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Water in new places",
+      "day": 8,
+      "sections": [
+        ["A. Use the ideas", [
+          {"t": "write", "p": "In winter, your spectacles fog up when you walk from a cold balcony into a warm kitchen where dal is boiling. Explain why, using the word condensation.", "lines": 3},
+          {"t": "mcq", "p": "A matka (clay pot) keeps water cool. Water seeps through tiny holes and dries on the outside. What cools the pot?", "opts": ["The clay is cold", "Evaporation of water from its surface takes away heat", "The water is salty", "The lid"], "a": 1},
+          {"t": "write", "p": "A city has many new roads and buildings. Its borewells are going dry. Give two reasons and two fixes.", "lines": 4}
+        ]],
+        ["B. Life in water", [
+          {"t": "match", "p": "Match the living thing to what helps it live in or near water.", "pairs": [["Fish", "Gills and fins"], ["Pond heron", "Long thin legs and a pointed beak"], ["Lotus", "Waxy floating leaves, roots in the mud"], ["Water scorpion", "A tail tube for breathing air"], ["Fishing cat", "Partly webbed paws"]]},
+          {"t": "write", "p": "Write a food chain of four living things from a pond. Then say what would happen if the second one disappeared.", "lines": 3}
+        ]],
+        ["C. Plan it", [
+          {"t": "table", "p": "Plan a water-saving week for your home.", "cols": ["Where water is used", "How much is wasted now", "What we will change"], "rows": 4, "prefill": ["Brushing teeth", "Bathing", "Washing vegetables", "Mopping the floor"]},
+          {"t": "mcq", "p": "Which is the best crop for a village with little rain?", "opts": ["Rice", "Sugarcane", "Bajra (pearl millet)", "Banana"], "a": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Water puzzles and people who disagreed",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "If water keeps going round in the water cycle and is never used up, why do people say we are running out of water?", "lines": 3},
+          {"t": "mcq", "p": "In our salt plate, the water disappeared but the salt stayed. Rain clouds form over the salty sea. Is rain salty?", "opts": ["Yes, very salty", "No, because only the water evaporates and the salt is left behind", "Only near the sea", "Only in summer"], "a": 1},
+          {"t": "fill", "p": "The Luni river does not reach any sea. It ends in the marshy lands of the Rann of ____.", "a": ["Kutch", "Kachchh"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if water vapour never cooled into droplets? Think through the water cycle and say what would happen to rivers.", "lines": 3},
+          {"t": "write", "p": "What if the land of India sloped down to the west instead of the east? Which way would the Godavari flow?", "lines": 2}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Long ago, many people believed rivers were fed by sea water through secret tunnels. Perrault measured rain and river water to test it. Describe how you could test the same idea for a small stream near you.", "lines": 4},
+          {"t": "write", "p": "An engineer says: 'Big pipelines and borewells are the answer.' Anupam Mishra would say: 'Look after the old ponds.' Write one good point on each side.", "lines": 4},
+          {"t": "mcq", "p": "Wells near the johads of Alwar filled up again. Which extra fact would make you MORE sure the johads caused it?", "opts": ["The johads were painted", "Wells in nearby villages without johads, with the same rain, did not fill up", "The village is famous", "More tourists came"], "a": 1}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Make salt like the salt pans",
+      "day": 1,
+      "question": "When salty water dries in the sun, what happens to the water and what happens to the salt?",
+      "need": ["2 teaspoons of salt", "half a cup of warm water", "a spoon", "a wide steel plate", "a sunny spot", "a magnifying glass if available"],
+      "steps": [
+        "Stir the salt into the warm water until you cannot see it any more.",
+        "Taste one drop from a fingertip to check the salt is still there.",
+        "Pour a thin layer into the wide plate and leave it in strong sun.",
+        "Look at it each day and draw it with the date.",
+        "When the water has gone (2–3 days), scrape the crust with a spoon and look closely at the grains."
+      ],
+      "predict": "Ask your child to guess first: when the water dries, will the salt dry up and vanish too, or will it stay in the plate? What will it look like?",
+      "observe": "The water level drops each day. White crust appears first at the edges, then over the whole plate. Under a magnifying glass, many grains are small cubes.",
+      "why": "When salt dissolves, it breaks into pieces far too small to see and spreads through the water, so the water looks clear, but the salt is still there (we can taste it). The Sun's heat makes water molecules at the surface escape into the air as vapour; this is evaporation. Salt cannot evaporate at these temperatures, so it is left behind and its pieces join up again into crystals, which have a cube shape because of how salt's particles stack. The salt pans of Gujarat do exactly this with sea water in huge shallow fields. This is also why rain is not salty: only the water rises from the sea.",
+      "safety": "Taste only a tiny drop. Keep the plate where pets and birds cannot drink it.",
+      "time": "8 min to set up + 2 min checks for 2–3 days"
+    },
+    {
+      "id": "e2",
+      "title": "The hidden water in a cucumber",
+      "day": 1,
+      "question": "How much of a cucumber is water?",
+      "need": ["1 cucumber", "a knife (adult use)", "a kitchen scale", "a plate and a thin cloth", "a sunny spot"],
+      "steps": [
+        "An adult slices the cucumber thinly.",
+        "Weigh out 100 g of slices and write down the weight.",
+        "Spread them on a plate, cover with a thin cloth, and leave in the sun for 2 days (bring them in at night).",
+        "Weigh the dried slices again.",
+        "Subtract: 100 g minus the dry weight is the water that left."
+      ],
+      "predict": "Ask your child to guess first: out of 100 g of cucumber, how many grams will be left after drying? Write the number.",
+      "observe": "The slices shrink, curl and become thin and papery. Usually only about 5–10 g is left, so about 90–95 g was water.",
+      "why": "Living things are full of water. A cucumber is about 95 parts water out of 100, held inside its cells; the rest is fibre, sugars and other things. In the sun, the water evaporates out of the slices into the air, and only the solid parts stay. Our own bodies are also mostly water (about 60 parts in 100 for an adult), which is why we need to drink every day and why all living beings depend on fresh water.",
+      "safety": "An adult should do the cutting. Do not eat slices that have been out for two days.",
+      "time": "10 min to set up + weigh after 2 days"
+    },
+    {
+      "id": "e3",
+      "title": "The sweating steel glass (Book Activity 2, page 6)",
+      "day": 2,
+      "question": "Where does the water on the outside of a glass of ice come from?",
+      "need": ["a steel glass", "ice cubes", "a little water", "food colour or haldi", "a dry cloth"],
+      "steps": [
+        "Wipe the glass completely dry inside and out.",
+        "Fill it with ice and a little water, and add a few drops of food colour or a pinch of haldi to the water inside.",
+        "Wait 5 minutes without touching. Look at the outside.",
+        "Wipe a finger across the outside: is the water coloured?",
+        "Leave the glass for 30 minutes and see what happens to the ice."
+      ],
+      "predict": "Ask your child to guess first: will the outside of the glass get wet? If yes, will those drops be coloured like the water inside?",
+      "observe": "Clear (not coloured) drops form all over the outside, below the level of the ice. On a humid monsoon day they form fast and may run down; on a dry winter day there may be only a faint mist. The ice slowly melts.",
+      "why": "Air always holds some water as invisible vapour. When moist air touches the very cold glass, it cools down, and cool air cannot hold as much vapour, so some vapour turns back into tiny drops of liquid on the glass. This change from vapour to liquid is condensation; it is the same thing that makes clouds and dew. The drops are not coloured, which proves they did not leak from inside. The ice melts because heat from the warmer room flows into it, changing solid into liquid.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e4",
+      "title": "Water cycle in a bag (Book Activity 3, page 7)",
+      "day": 3,
+      "question": "Can we see evaporation, condensation and 'rain' happen in a closed bag?",
+      "need": ["a clear zip-lock bag", "a permanent marker", "water", "a drop of blue food colour or paint", "tape", "a sunny window"],
+      "steps": [
+        "Draw the Sun, clouds, a tree, the sea and arrows on the bag.",
+        "Fill one-third of the bag with coloured water.",
+        "Seal it tightly and tape it to a sunny window, water at the bottom.",
+        "Look after 2–3 hours, and again the next day.",
+        "Draw what you see and label evaporation, condensation and precipitation."
+      ],
+      "predict": "Ask your child to guess first: will anything appear on the inside of the bag above the water? Where, and what colour?",
+      "observe": "Fine mist, then droplets, appear on the inside of the bag, mostly near the top and on the side facing away from the hot sun. Big drops run back down. The droplets are clear or very pale even though the water is blue.",
+      "why": "Sunlight warms the water, and some of it evaporates into vapour inside the bag. The plastic higher up and away from the sun is a little cooler, so the vapour condenses there into drops, just as vapour high in the sky cools and forms the droplets of clouds. When drops grow heavy they run back down, like rain. Because the bag is sealed, no water is lost: it just keeps going round, like the water on Earth. The colour stays in the water because only water molecules evaporate.",
+      "safety": "Seal the bag well and tape it over a towel in case it leaks.",
+      "time": "10 min to set up + checks after a few hours and the next day"
+    },
+    {
+      "id": "e5",
+      "title": "Which ground drinks the rain? (from Book Activity 4, pages 8–9)",
+      "day": 4,
+      "question": "Does rain soak into soil, sand and a hard surface in the same way?",
+      "need": ["3 clear glasses or cut plastic bottles", "garden soil", "sand", "a small steel plate or tile", "a spoon and water", "a tray to catch spills"],
+      "steps": [
+        "Half-fill one glass with soil and one with sand. Put a tile or plate over the top of the third, as a 'cement road'.",
+        "Stand all three on a tray.",
+        "Pour 4 spoons of water slowly onto each, one spoon at a time.",
+        "Watch from the side as the water moves down. Time how long it takes to reach the bottom.",
+        "See where the water on the tile goes."
+      ],
+      "predict": "Ask your child to guess first: which will soak up the water fastest? Will any of them not soak it up at all?",
+      "observe": "In sand, water sinks quickly to the bottom. In soil it sinks more slowly and the soil turns dark as it fills. On the tile, the water does not go in at all; it runs off the edge onto the tray.",
+      "why": "Soil and sand are made of grains with tiny gaps between them. Water trickles down through these gaps, pulled by gravity. Sand has bigger gaps, so water passes fast; soil has smaller gaps and holds more water, like a sponge. Under the ground, rainwater keeps trickling down through soil and cracks in rock until it reaches layers that are full of water; this stored water is groundwater, which wells and borewells reach. A cement road or a tiled yard has no gaps, so rain runs off into drains instead. That is why cities with lots of cement recharge little groundwater, and why open soil, ponds, soak pits and johads matter.",
+      "safety": "Wash hands after handling soil.",
+      "time": "14 min"
+    },
+    {
+      "id": "e6",
+      "title": "Mustard seed rivers (Book Activity 6, pages 10–11)",
+      "day": 5,
+      "question": "How does the shape of the land decide where water flows and collects?",
+      "need": ["2 sheets of old newspaper", "a tray", "1 cup of rai (mustard seeds) or other small seeds"],
+      "steps": [
+        "Crumple one sheet into a loose ball, then flatten it a little on the tray so it has bumps and dips.",
+        "Lay the second sheet on top and press it down gently so the slopes are smooth.",
+        "Pour the seeds slowly from the cup onto the highest point.",
+        "Watch the paths the seeds take, and where they stop.",
+        "Lift one edge of the tray and pour again. See what changes."
+      ],
+      "predict": "Ask your child to guess first: will the seeds roll straight down, spread out in different directions, or collect in some places?",
+      "observe": "Seeds roll down the slopes in several directions, curve around bumps, follow the 'valleys' between bumps, and pile up in hollows. When the tray is tipped, most go towards the lower edge.",
+      "why": "Gravity pulls water (and our seeds) downhill, always along the steepest way down that is open to it. Ridges send it one way or the other, valleys gather it into a line, which is a river, and hollows trap it, which is a lake. In India, the Western Ghats run near the west coast and the Deccan plateau slopes gently down to the east, so rivers starting in the Ghats, like the Godavari and Kaveri, cross the country to the Bay of Bengal. Over thousands of years, flowing water also carries soil and stones and slowly cuts valleys and builds plains, so water changes the shape of the land too.",
+      "safety": "Pour over a tray; seeds on the floor are slippery.",
+      "time": "12 min"
+    },
+    {
+      "id": "e7",
+      "title": "Waxy paper and the lotus leaf (Book Activity 9, pages 18–19)",
+      "day": 6,
+      "question": "Why does water roll off some leaves but soak into paper?",
+      "need": ["plain paper", "wax crayons", "a dropper or straw", "water", "a lotus, arbi (colocasia), cabbage or banana leaf"],
+      "steps": [
+        "Put a drop of water on plain paper and watch it for one minute.",
+        "Colour a patch of the paper thickly with wax crayon.",
+        "Put a drop on the waxed patch. Tilt the paper slowly.",
+        "Put drops on the top of the leaf, then on its underside. Tilt it.",
+        "Sprinkle a pinch of haldi on the leaf and roll a drop over it."
+      ],
+      "predict": "Ask your child to guess first: will the drop on the waxed paper soak in like on plain paper? What will happen on the leaf?",
+      "observe": "On plain paper the drop spreads and soaks in. On wax and on a lotus or arbi leaf, it stays as a round bead and rolls when tilted. On the lotus leaf it may pick up the haldi as it rolls, leaving a clean track.",
+      "why": "Paper is made of plant fibres that attract water, so water creeps into it. Wax is oily and pushes water away, so water pulls itself into a round drop instead of spreading. Many leaves have a thin waxy layer on top that keeps rain from soaking in and stops the plant from losing too much water. The lotus leaf is extra waterproof: its wax sits on tiny bumps, so a drop touches only the tips and rolls off at the smallest tilt, carrying dust away. Scientists call this the 'lotus effect'. For a lotus floating on a pond this matters, because its breathing pores are on the top of the leaf and must stay dry.",
+      "safety": "",
+      "time": "12 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Trace our home's water",
+      "day": 4,
+      "mins": 10,
+      "need": ["notebook and coloured pens", "a walk around your home or building", "a neighbour, watchman or elder to ask"],
+      "steps": [
+        "Find every place water passes through before the tap: overhead tank, sump, motor, meter, borewell, handpump, tanker or municipal pipe.",
+        "Ask an adult where that supply comes from (a lake, a reservoir on a river, a borewell into groundwater).",
+        "Draw boxes for each stop, from rain at the start to the tap at the end, with arrows.",
+        "Add where used water goes after the drain.",
+        "Mark with a red star each place where water can leak or be wasted."
+      ],
+      "outcome": "A flow map of your home's water from the sky to the tap and back, and a child who knows the name of the lake, river or groundwater they drink from."
+    },
+    {
+      "id": "a2",
+      "title": "Lake of Two Villages (sharing game)",
+      "day": 8,
+      "mins": 15,
+      "need": ["30 tokens (rajma beans, buttons or bottle caps)", "a bowl", "a die"],
+      "steps": [
+        "Put 30 tokens in the bowl: this is the shared lake.",
+        "Each round, both players secretly choose to take 2 (careful) or 5 (greedy) tokens and show at the same time.",
+        "Take those tokens from the lake into your own 'field'.",
+        "Roll the die for rain: 1 adds 0, 2 adds 1, 3 adds 2, 4 adds 3, 5 adds 4, 6 adds 6 tokens.",
+        "Play 8 rounds. If the lake empties, both villages lose. Otherwise the bigger harvest wins.",
+        "Play again after agreeing on a rule together, and compare."
+      ],
+      "outcome": "A child who has felt why shared water needs fair rules, and can explain the rule they would make for a real village."
+    },
+    {
+      "id": "a3",
+      "title": "Thirsty crops",
+      "day": 8,
+      "mins": 8,
+      "need": ["small bowls of rice, wheat, sugar and a millet (bajra, ragi or jowar)", "paper and pencil"],
+      "steps": [
+        "Name each bowl and the plant it comes from (sugar from sugarcane).",
+        "Line them up from the crop that needs the most water to the one that needs the least.",
+        "Draw buckets above each bowl: many for rice and sugarcane, fewer for wheat, fewest for millets.",
+        "Talk about which crops suit a dry region and why farmers still choose thirsty crops."
+      ],
+      "outcome": "A simple 'water cost' chart of everyday foods, and the idea that the water we eat through food is much more than the water we drink."
+    },
+    {
+      "id": "a4",
+      "title": "Water Heroes: rain-harvesting model",
+      "day": 9,
+      "mins": 20,
+      "need": ["a shoebox or cardboard", "foil or a plastic bag", "tape and scissors", "2 plastic bottles", "straws", "a small cloth", "pebbles, coarse sand, small stones", "a tray of soil", "a cup of water"],
+      "steps": [
+        "Make a house with a sloping roof covered in foil or plastic.",
+        "Fix a gutter along the low edge of the roof and a straw pipe down to a cut-bottle tank with a cloth filter.",
+        "Make a soak pit: a cut bottle with holes at the bottom, filled with pebbles, then coarse sand, then small stones, standing in soil.",
+        "Lead the tank's overflow to the soak pit with another straw.",
+        "Pour water over the roof slowly and watch it collect and soak away.",
+        "Label every part and present the model in 3 minutes to the family, naming one real traditional system (johad, stepwell, kund or eri) that works in a similar way."
+      ],
+      "outcome": "A working rainwater-harvesting model and a 3-minute talk explaining how roof water is stored and how a soak pit recharges groundwater."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Bernard Palissy (about 1510–1590) and Pierre Perrault (1611–1680), France",
+      "idea": "For a very long time many scholars thought rain was far too little to keep rivers flowing all year, and that springs were fed by sea water seeping through underground channels and losing its salt on the way. Palissy, a potter who had taught himself science, wrote in 1580 that springs and rivers come from rain and snow soaking into the ground and coming out lower down. In 1674 Pierre Perrault tested the idea with numbers: he measured the rain falling over the land that drains into the upper part of the river Seine for several years, and estimated how much water flowed down the river. The rain was several times more than the river carried away, so rain was more than enough.",
+      "then": "Palissy wrote in plain French rather than Latin and had no university training, and many learned people did not take him seriously. Perrault's measured result was much harder to ignore, and soon others, such as Edme Mariotte in France and Edmond Halley in England (who measured how fast water evaporates from the sea), added more measurements.",
+      "now": "This is the water cycle we learn today, and it is fully accepted. Perrault's study is often called one of the first real experiments in hydrology, the science of water. It shows how an argument is settled by measuring, not by who is more famous.",
+      "status": "accepted",
+      "ask": "If someone told you the stream in your town is fed by the sea through secret tunnels, what would you measure to check? What result would prove them wrong?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Rajendra Singh (born 1959), Rajasthan, India",
+      "idea": "In 1985 Rajendra Singh came to Alwar district in Rajasthan with the group Tarun Bharat Sangh. Village elders told him that the land was dry because people had stopped looking after their johads. With the villagers he dug out old johads and built new ones, small earthen walls across slopes that hold rainwater so it soaks into the ground. Over the years the villages built thousands of them. Wells that had been dry filled again, and rivers such as the Arvari, which had been dry most of the year, began to flow again.",
+      "then": "At first many people saw johads as old-fashioned compared with big dams and borewells, and some officials objected to villagers building water structures without government permission. The results in the wells and rivers slowly changed minds.",
+      "now": "His work is widely recognised: he received the Ramon Magsaysay Award in 2001 and the Stockholm Water Prize in 2015, and johad-style recharge is now part of many government water programmes. Scientists agree that holding rain on the land recharges groundwater. They also point out that it works best where the rock below lets water soak in, and that gains can be lost again if people pump out more than the rain puts back.",
+      "status": "accepted",
+      "ask": "Wells filled up after the johads were built. What else could have made them fill up (for example, a year of heavy rain)? How could you check that it really was the johads?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Anupam Mishra (1948–2016), India",
+      "idea": "Anupam Mishra, a writer and environmentalist with the Gandhi Peace Foundation in Delhi, travelled through villages and towns to record how Indian communities had built and cared for ponds (talab), tanks, kunds, baolis and other water systems for centuries, often without any engineers or government. His Hindi book 'Aaj Bhi Khare Hain Talab' (1993) means 'The ponds are still standing', and 'Rajasthan ki Rajat Boondein' describes how desert people catch every drop of rain. He did not copyright his books, so anyone could reprint them, and they were printed and translated many times.",
+      "then": "For decades after independence, planners mostly preferred big dams, canals, pipelines and borewells, and many old ponds were filled in for buildings or left to silt up. Mishra argued that this was a mistake: the old systems fitted the local rain and were cared for by the people who used them.",
+      "now": "Many water experts and government schemes now support reviving traditional ponds, stepwells and tanks, and his books inspired many villages to restore them. Most experts also say that fast-growing cities need both: looking after local ponds and recharge, and well-run supply systems.",
+      "status": "accepted",
+      "ask": "An old pond in your town is to be filled in to build a parking lot. What facts would you collect to decide whether that is a good idea?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {"q": "Why can we not drink most of the water on Earth?", "a": "Most of it (about 97 parts in 100) is salty sea water. Of the small amount of fresh water, most is frozen in ice or deep underground, so very little is in rivers and lakes."},
+    {"q": "What are the three forms of water? Give one example of each.", "a": "Solid (ice, snow, hail), liquid (rain, river water), and vapour, a gas (the invisible water in the air, steam)."},
+    {"q": "Why does the outside of a glass of ice get wet?", "a": "Water vapour in the air touches the cold glass, cools, and condenses into droplets. It does not leak from inside."},
+    {"q": "Explain the water cycle in four steps.", "a": "The Sun heats water in seas, rivers and lakes and it evaporates; the vapour rises, cools and condenses into clouds; water falls as rain, snow or hail (precipitation); it flows back through rivers and the ground to the sea, and the cycle repeats."},
+    {"q": "What is groundwater, and why do cities with lots of cement get less of it?", "a": "Rainwater that soaks down through soil and rock and is stored deep underground. Cement and tar do not let rain soak in, so it runs into drains instead of recharging the ground."},
+    {"q": "Why do the Godavari and Kaveri flow to the Bay of Bengal and not to the Arabian Sea?", "a": "They start in the Western Ghats near the west coast, and the land slopes down to the east, so water flows downhill towards the east coast."},
+    {"q": "Name two animals and one plant of a pond and how each is suited to water.", "a": "For example: fish have gills and fins; the pond heron has long legs and a pointed beak; the lotus has waxy floating leaves and roots in the mud; the water scorpion breathes through a tail tube."},
+    {"q": "What did Perrault do that settled the argument about where rivers come from?", "a": "He measured the rain falling on the land around the upper river Seine and the water flowing in the river, and showed the rain was several times more than enough to feed the river."}
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "key": "nios|sci|3|7",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 7,
+  "title": "Our Basic Needs",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 7 (pages 92–99), 2016",
+  "summary": "Some things we cannot live without: air, water and food. Two more, clothing and shelter, protect us and keep us well. Your child finds out what is in air that we need (oxygen) and what we breathe out (carbon dioxide), why our body is mostly water, how food gives us energy, why cotton keeps us cool and wool keeps us warm, and what makes a good, healthy house, along with how to keep each of these needs clean and safe.",
+  "goals": [
+    "By the end your child can name the five basic needs (air, water, food, clothing, shelter) and explain which three we cannot survive without at all, and why.",
+    "By the end your child can explain that we breathe in air for its oxygen, that blood carries oxygen and food to every part of the body, and that we breathe out carbon dioxide, and can show carbon dioxide in their own breath with lime water.",
+    "By the end your child can say that about two-thirds of the body is water, list three jobs water does in the body, and give three ways to keep drinking water clean and stop mosquitoes breeding.",
+    "By the end your child can explain why cotton feels cool and wool keeps us warm (air passing through versus air trapped between fibres), after testing it themselves.",
+    "By the end your child can describe a good house (airy, with drainage, a ventilated kitchen, rubbish put in the right place) and explain why houses in snowy places have sloping roofs.",
+    "By the end your child can tell a need from a want and discuss whether people's needs really come in a fixed order."
+  ],
+  "words": [
+    ["basic needs", "the things every person must have to live and stay well: air, water, food, clothing and shelter"],
+    ["oxygen", "the gas in air that our body needs to live; the book calls it 'pran vayu' (Sanskrit for 'the air of life')"],
+    ["carbon dioxide", "the waste gas our body makes and we breathe out"],
+    ["lungs", "the two soft, spongy bags in the chest that fill with air when we breathe in"],
+    ["blood", "the red liquid, mostly water, that flows all round the body carrying oxygen and food and taking away waste"],
+    ["energy", "the power our body gets from food (with the help of oxygen) to move, think, grow and work"],
+    ["ventilation", "fresh air coming in and stale air going out of a room through windows, doors and vents"],
+    ["potable water", "water that is clean and safe to drink"],
+    ["stagnant water", "water that stays still in one place, like in a pot, tyre or cooler, where mosquitoes lay eggs"],
+    ["fibre", "a very thin thread; cloth is woven or knitted from fibres of cotton, wool, silk or polyester"],
+    ["drainage", "pipes and channels that carry used and dirty water away from a house"],
+    ["shelter", "a house or any place that protects us from heat, cold, rain, wind and wild animals"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "What can't we live without?",
+      "goal": "Find out from our own day what a person truly needs, meet the five basic needs from the book, and start a family water diary.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The desert island game",
+          "mins": 7,
+          "do": "Say: 'Imagine you are going to live on an empty island for one month. You may take only five things. What will you take?' Write down your child's list without comment. Then ask about each item: 'Would you die without it, or would life just be less fun?' Many children list a phone, a toy or a favourite snack. Do not correct them yet; you will come back to this list at the end of today. If they are stuck, ask: 'What do you do every minute of the day without even thinking?' (Breathe.)"
+        },
+        {
+          "kind": "read",
+          "title": "The five basic needs (page 92)",
+          "mins": 7,
+          "do": "Read aloud the opening paragraphs of Lesson 7 on page 92, from 'Certain things are very essential for our life' to 'cyclones, dust storms, etc.' Stop after each need and ask: 'Air: why do we need it?' (To breathe.) 'Water?' (Two-thirds of our body is water; we drink it.) 'Food?' (It gives energy to work.) 'Clothes?' (They cover us and protect us from heat and cold.) 'House?' (It protects us from heat, cold, cyclones and dust storms.) Ask: 'Which three does the book say we cannot survive without at all?' (Air, water, food.) Write the five needs in big letters on a sheet and stick it on the wall."
+        },
+        {
+          "kind": "game",
+          "title": "Needs or wants sort",
+          "mins": 9,
+          "do": "Do Activity a3. Write these on small slips of paper: air, drinking water, roti or rice, a TV, a shirt, a sweater in winter, a roof, a bicycle, chocolate, a bath, a mobile phone, a blanket, a fan, toys, fruit. Your child sorts them into two piles: 'Need' (we must have it to live and stay well) and 'Want' (nice to have). Ask them to give a reason for each. Expect arguments on the fan and the bath: a good answer is 'We don't die without a fan, but in Chennai in May it helps us stay healthy, so it is close to a need.' Praise any answer that uses a reason. Then look back at their desert-island list and ask: 'Which of your five things were needs?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "do",
+          "title": "Basic needs treasure hunt",
+          "mins": 8,
+          "do": "Give your child 5 minutes to walk around the house and bring back (or point to) one thing for each basic need: something that gives us air (an open window, a fan, a plant), something that holds drinking water (matka, bottle, RO tap), some food (a dal packet, a banana), a piece of clothing, and one part of the house that protects us (the roof, a wall, a door). For each, ask: 'How does this help us live?' A good answer for the window: 'It lets fresh air in, so we can breathe clean air.'"
+        },
+        {
+          "kind": "act",
+          "title": "Start the family water diary",
+          "mins": 9,
+          "do": "Start Activity a1. Draw a table in a notebook with columns: Use, How many buckets or mugs, Who. Explain that one ordinary bucket holds about 15–20 litres (check the number printed on yours, or fill it with a 1-litre bottle and count). Ask your child to guess first: 'How many buckets of water does our whole family use in one day?' Write the guess at the top. From now until tomorrow evening, your child asks each family member and records every use: drinking, cooking, bathing, flushing, washing clothes and dishes, mopping, watering plants. Stick the diary on the fridge with a pencil tied to it.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook page 92", "15 small paper slips and a pencil", "a large sheet of paper for the wall", "a notebook", "a bucket and a 1-litre bottle"],
+      "prep": [{"task": "Write the 15 need-or-want slips and check how many litres your bucket holds", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "Air: the gas of life",
+      "goal": "Learn that we breathe in air for its oxygen and breathe out carbon dioxide, measure our breathing, see carbon dioxide in our own breath, and check our home's ventilation.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Count your breaths",
+          "mins": 7,
+          "do": "Do Experiment e1. Your child sits quietly for one minute while you count their breaths (watch the chest or tummy rise; one rise and fall is one breath). Write the number. Then they do 30 jumping jacks or run up and down the stairs twice, and you count again for one minute. Before the jumping, ask them to guess: 'Will you breathe faster, slower or the same?' Most 8-year-olds breathe about 18–25 times a minute at rest and much faster after running. Ask: 'Why does your body want more air when you run?' Listen for: 'My muscles are working harder and need more oxygen.' Read the 'why' of e1 aloud.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "7.1 Air (page 93)",
+          "mins": 8,
+          "do": "Read section 7.1 'Air' on page 93 aloud, up to 'plant more and more trees'. Look together at the picture 'Use of Oxygen and Carbon dioxide'. Your child traces the path with a finger as you say it: nose, windpipe, lungs; oxygen goes into the blood; blood carries oxygen and food all round the body; blood brings carbon dioxide back to the lungs; we breathe it out. Ask: 'What is the special gas in air that we need?' (Oxygen, pran vayu.) 'What gas do we breathe out?' (Carbon dioxide.) 'What carries oxygen to your toes?' (Blood.) If they think we breathe out 'no air', tell them our out-breath is still mostly air, just with less oxygen and more carbon dioxide."
+        },
+        {
+          "kind": "exp",
+          "title": "Lime water: catch the carbon dioxide",
+          "mins": 10,
+          "do": "Do Experiment e2. You (the adult) prepare clear lime water from a little edible chuna (the white lime paste sold for paan) the night before, as described in e2. Pour clear lime water into two glasses. Your child uses a straw to blow gently into glass 1 for about a minute (blow out only, never suck). Use a bicycle pump or a squeezed empty plastic bottle to push ordinary room air into glass 2 for the same time. Ask first: 'Which glass will change?' Glass 1 turns milky white; glass 2 stays clear or changes only very slightly. Ask: 'What does this prove about our breath?' (It has much more carbon dioxide than room air.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Joseph Priestley and the mouse in the jar",
+          "mins": 7,
+          "do": "Tell the story in Voice v1 in your own words: Priestley made a new gas in 1774 that made a candle flame blaze and kept a mouse alive longer; he thought it was air with no 'phlogiston' in it, but Lavoisier showed it was a gas of its own and named it oxygen. Tell them Priestley also found that a sprig of mint could 'refresh' air that a candle had used up, which links to the book's line about planting more trees. Ask the voice question and let your child answer fully.",
+          "ref": "v1"
+        },
+        {
+          "kind": "do",
+          "title": "Ventilation check at home",
+          "mins": 8,
+          "do": "The book says our house should be well ventilated and we must not sleep in fully closed rooms. Go room by room with your child. In each room ask: 'Where can fresh air come in? Where can stale air go out?' (Windows, doors, a vent above the door, an exhaust fan, jaali.) Hold a strip of tissue or a thread near a slightly open window to watch it flutter. Your child draws a quick map of the house and marks each window and vent with an arrow. Ask: 'Which room has the least fresh air? What could we do about it?' Also remind them to fill in the water diary (Activity a1) today."
+        }
+      ],
+      "need": ["Textbook page 93", "a clock or phone timer", "clear lime water (see prep)", "2 clear glasses and a straw", "a bicycle pump or empty plastic bottle", "a tissue strip or thread", "paper for a house map"],
+      "prep": [{"task": "Make lime water: stir half a teaspoon of edible chuna into a glass of water, cover, and leave overnight to settle; next day pour off only the clear top part", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Water: two-thirds of you",
+      "goal": "Learn why our body needs water and how much, add up the family water diary, hunt for stagnant water, and hear how John Snow traced a disease to one water pump.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "7.2 Water (pages 93–94)",
+          "mins": 8,
+          "do": "Read section 7.2 'Water' aloud, from 'Human body is two third water' to the end of the section about mosquitoes breeding in stagnant water. Ask: 'What does water do inside the body?' Good answers: 'Most of our blood is water, so it can flow easily', and 'It carries wastes out as urine and sweat.' Ask: 'Who else needs water?' (Animals and plants.) Two honest corrections to tell your child: the book says to drink 8 to 10 glasses a day; for a child of 8, about 6 to 8 glasses is usual, more on hot days or after playing. The book says our electricity is mostly made with water; in India today most electricity is made by burning coal, and only a smaller part comes from water flowing through dams."
+        },
+        {
+          "kind": "do",
+          "title": "How much of you is water?",
+          "mins": 6,
+          "do": "Take a 1-litre water bottle and a marker. Ask your child to fill it to show 'two-thirds full' (divide the bottle into 3 equal parts with two marks and fill to the second mark). Say: 'If you were this bottle, this much of you would be water.' If you have a bathroom scale, weigh your child; about two-thirds of that number is roughly the kilograms of water in them (for 24 kg, about 16 kg, which is 16 litres, or 16 one-litre bottles). Line up the bottles you have to help them picture it. Ask: 'Then why don't we slosh when we walk?' (The water is held inside our body's tiny cells and in the blood.)"
+        },
+        {
+          "kind": "act",
+          "title": "Add up the water diary",
+          "mins": 8,
+          "do": "Finish Activity a1. Your child adds up the buckets or mugs in the diary and multiplies by the litres in one bucket (help with the multiplication). Compare with the guess written on Day 1. Ask: 'Which use took the most water?' (Usually bathing, flushing or washing clothes.) 'Which use is the only one we must have to stay alive?' (Drinking, and some for cooking.) Then together choose two ways your family can save water this week, such as a mug-and-bucket bath instead of a shower, turning the tap off while brushing, or using rice-washing water for plants. Write them on the diary.",
+          "ref": "a1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Stagnant water patrol",
+          "mins": 9,
+          "do": "Walk around the house, balcony, roof and compound with your child, looking for any still water where mosquitoes could breed: the air-cooler tray, flower-pot saucers, an old tyre, coconut shells, a bucket left uncovered, the fridge's drip tray, a blocked drain. Your child counts each one found. Empty or cover what you safely can (the adult should handle cooler water and drains). Explain: 'Mosquitoes lay eggs on still water, and in about a week the eggs become new mosquitoes. Some mosquitoes spread dengue and malaria.' Then check: is your drinking water kept covered? Is the matka or filter tap clean?"
+        },
+        {
+          "kind": "think",
+          "title": "John Snow and the Broad Street pump",
+          "mins": 9,
+          "do": "Tell the story in Voice v2: in London in 1854 many people died of cholera, and most doctors blamed 'bad air'. John Snow marked each death on a map and found they clustered around one street pump. Draw a quick map with your child: a cross for a pump in the middle, dots for houses with sick people mostly around it. Ask: 'What does the map tell you?' Then ask the voice question. Link it to the book: 'This is why the book says keep filth away from water sources.'",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Textbook pages 93–94", "a 1-litre bottle and a marker", "a bathroom scale if you have one", "the water diary", "paper and pencil for a map"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Food: our body's fuel",
+      "goal": "Learn that food gives us energy for physical and mental work, practise clean cooking habits, and check the main ideas so far with the core worksheet.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "How do you feel when you're hungry?",
+          "mins": 4,
+          "do": "Ask: 'Think of a day you missed breakfast or had to wait a long time for lunch. How did you feel?' Good answers: tired, cranky, could not think, tummy hurt. Tell them the book uses an old saying, 'you cannot worship God on an empty stomach' (in Hindi, 'bhookhe bhajan na hoye Gopala'), which means it is hard to do anything well when you are hungry."
+        },
+        {
+          "kind": "read",
+          "title": "7.3 Food (pages 94–95)",
+          "mins": 7,
+          "do": "Read section 7.3 'Food' aloud, from 'Food is also very essential for our life' to 'Avoid eating stale and rotten food', and the summary box after it. Ask: 'The book says we do two kinds of work. What are they?' (Physical work like running and carrying, and mental work like thinking and reading.) 'Where does the energy for both come from?' (Food.) Remind them of Day 2: 'Food alone is not enough; the body also needs oxygen from air to get the energy out of food, a little like a fire needs both wood and air.'"
+        },
+        {
+          "kind": "do",
+          "title": "My energy day",
+          "mins": 8,
+          "do": "Your child draws a long line across a page for 'yesterday', from waking up to bedtime. Above the line they draw every meal and snack they ate (for example poha, a banana, dal-chawal, a biscuit, roti-sabzi, milk). Below the line they draw what they did (playing, studying, walking to the park, helping). Ask: 'When did you have the most energy? Did it come after a meal?' Then ask them to mark one 'physical' job and one 'mental' job. Keep this page for the next lesson on food."
+        },
+        {
+          "kind": "act",
+          "title": "Clean-cooking helper",
+          "mins": 9,
+          "do": "Do one real kitchen job together, following the book's rules. Your child washes their hands with soap for 20 seconds (sing 'Happy Birthday' twice), then washes vegetables such as tomatoes, potatoes or palak leaves in a bowl of water before you cut them. Ask: 'Why wash before cutting and not after?' (If we cut first, the dirt and germs on the skin get on the cut pieces, and washing cut pieces also washes away some of the goodness.) Then check the kitchen together: is any food stale, smelly or mouldy? Is cooked food kept covered? Throw out anything spoiled (the adult decides)."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: our basic needs",
+          "mins": 12,
+          "do": "First ask the three 'Let's see, what you have learnt 7.1' questions on page 95 aloud: Which gas is called 'pran vayu'? (Oxygen.) What proportion of our body is water? (Two-thirds.) What care must be taken while cooking? (Cook food hygienically and wash vegetables well before cutting.) Then do Worksheet ws1 (core). Read items aloud if needed. For each wrong answer, go back to the section in the book (7.1, 7.2 or 7.3) and read the line together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 94–95", "paper and crayons", "soap, a bowl of water and some vegetables", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Clothing: cool cotton, warm wool",
+      "goal": "Learn why we wear clothes and what different fabrics are good for, and test for ourselves whether wool really keeps things warm.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Set up the warm-bottle test",
+          "mins": 7,
+          "do": "Set up Experiment e3 now so it runs while you read. Fill two identical steel or glass bottles with warm water from the same jug (warm to touch, not too hot). Your child wraps one bottle in a woollen sweater or shawl and the other in a thin cotton dupatta or handkerchief, tying both with rubber bands. Leave a third bottle bare. Ask them to guess first: 'After 30 minutes, which bottle will be warmest? Which will be coolest?' Write the guesses down and note the time.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "7.4 Clothing (pages 95–96)",
+          "mins": 8,
+          "do": "Read section 7.4 'Clothing' aloud, from 'We need clothes to cover our body' to 'may cause skin diseases'. Ask: 'Why are cotton clothes good in summer?' (Air can pass through them easily, so we feel cooler, and cotton soaks up sweat.) 'How does wool keep us warm?' (Air gets trapped between the woollen fibres and stops the body's heat escaping.) 'What does the book say about polyester?' (It does not crush easily and its colours do not fade in sunlight.) 'Why must we wear washed clothes?' (Dirty clothes worn for a long time can cause skin diseases.) Point out that wool does not make heat itself; it only stops our body's own heat from escaping."
+        },
+        {
+          "kind": "do",
+          "title": "Wardrobe fabric hunt",
+          "mins": 9,
+          "do": "Open the cupboard together. Find the small label inside the collar or seam of 6 to 8 clothes and read out what each is made of: cotton, wool, silk, polyester, or a mix like 'polycotton'. Your child sorts them into piles. Then do the crush test: scrunch a cotton handkerchief and a polyester one (or a polyester shirt sleeve) tightly in the fist for 30 seconds and open them. Ask: 'Which one stayed wrinkled?' (Usually cotton.) Ask: 'Which would you wear for a cricket match in May, and which in a Delhi winter?' Ask the reason each time."
+        },
+        {
+          "kind": "exp",
+          "title": "Warm-bottle results",
+          "mins": 8,
+          "do": "After 30 minutes, unwrap the three bottles from Experiment e3. Your child touches each with the inside of the wrist (or use a kitchen thermometer if you have one) and puts them in order from warmest to coolest. Usually the wool-wrapped bottle is warmest, the cotton one is in between and the bare bottle is coolest. Compare with the guesses. Read the 'why' of e3 aloud and ask: 'So does a sweater make heat?' (No, it traps air, which stops our own body heat escaping.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch) sections A and B now and section C tomorrow after the house lesson. These ask your child to use the ideas on new cases, such as what to wear in Leh or Kerala and why a quilt (razai) is warm. Let them answer the write items aloud while you scribe if writing slows them down.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 95–96", "3 identical bottles and a jug of warm water", "a woollen sweater or shawl, a thin cotton cloth, rubber bands", "a kitchen thermometer if you have one", "6–8 clothes with labels", "a cotton and a polyester handkerchief", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Shelter: what makes a good house?",
+      "goal": "Learn how houses developed and why they differ from place to place, test sloping and flat roofs with a model, survey our own home, and meet an architect who built for the Indian climate.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "7.5 Shelter (pages 96–97)",
+          "mins": 8,
+          "do": "Read section 7.5 'Shelter (house)' aloud, from 'Initially human beings used to live in caves' to 'lanes and streets, etc.', and look at the pictures of a house in a snowy area and different kinds of houses. Ask: 'Where did the first people live?' (In caves, then on machans, platforms built in trees.) 'What do houses protect us from?' (Rain, heat, cold, storms, cyclones, snow and wild animals.) 'Why are houses in snowy places built with low ceilings and small doors?' (To keep out cold winds and keep warmth in.) 'Why are some houses built to be earthquake-proof?' (So they don't fall down when the ground shakes.)"
+        },
+        {
+          "kind": "act",
+          "title": "Snow on the roof model",
+          "mins": 9,
+          "do": "Do Activity a2. Make two little houses from small boxes. Give one a flat roof (a piece of card laid flat) and one a steep sloping roof (a card folded in half like a tent). Your child guesses first: 'If it snows, which roof will hold more snow?' Then sprinkle 'snow' (a spoonful of salt, sugar or atta) over both from the same height. Most slides off the sloping roof; it piles on the flat one. Ask: 'Snow is heavy. What could happen to a flat roof after many days of snow?' (It could leak or even break.) Then ask: 'What about rain in Kerala or Assam? What roofs do you see there?' (Sloping roofs, so rain runs off.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Laurie Baker's breathing walls",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: an architect who came to India in 1945, stayed for life in Kerala, and built cheap, cool houses with local bricks, walls with holes (jaali) for air and light, and walls with a hollow gap inside. If you can, show your child a jaali or a brick wall with gaps nearby. Ask: 'How is a hollow wall like a woollen sweater?' (Both trap air, which slows heat moving through.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Our house survey",
+          "mins": 9,
+          "do": "Using the book's checklist from page 97, your child walks around your home with a clipboard and answers yes, no or partly for each: 1. Is the house airy (do fresh air and light come into most rooms)? 2. Is there a drain that carries used water away? 3. Does the kitchen have a window, chimney or exhaust fan so smoke escapes? 4. Is the house clean? 5. Is garbage kept in a covered bin and given to the garbage collector, not thrown into the lane or a neighbour's courtyard? Ask: 'Why is kitchen smoke harmful?' (It hurts the eyes and the lungs.) Then answer 'Let's see, what you have learnt 7.2' aloud: main functions of clothes, benefits of polyester, features of a good house."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 6,
+          "do": "Do Worksheet ws3 (challenge), and finish section C of ws2 if you did not do it yesterday. Section C of ws3 asks your child to compare scientists' ideas; there is no single right answer, so praise reasons that use evidence ('because in our bottle test...'). Your child can answer aloud while you write.",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 96–97", "2 small boxes and 2 pieces of card", "a spoonful of salt, sugar or atta", "a clipboard or notebook", "worksheets ws2 and ws3"],
+      "prep": [{"task": "Find two small boxes of similar size (toothpaste or tea boxes) and some card", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Let's revise, check and teach it back",
+      "goal": "Review the lesson with the book's revision list and exercises, think about whether needs come in a fixed order, check understanding, and have your child teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise (pages 97–98)",
+          "mins": 6,
+          "do": "Read the 'Let's Revise' list on pages 97–98 aloud, one line at a time. After each line, your child holds up something from the week that shows it: the lime-water glass or the breathing count for oxygen and carbon dioxide, the two-thirds bottle for water, the energy-day page for food, the wrapped bottles for clothing, the roof models for shelter. If they cannot find something, ask them to explain the line in their own words instead."
+        },
+        {
+          "kind": "talk",
+          "title": "Exercise questions (pages 98–99)",
+          "mins": 8,
+          "do": "Do the Exercise on pages 98–99 aloud. Question 1: 'What do you understand by basic needs?' (The things we need to live and stay well: air, water, food, clothing and shelter.) 'Why is air necessary?' (It has oxygen, which our body needs to get energy from food; without breathing we cannot live.) 'How do warm clothes protect us from cold?' (Air is trapped between the fibres and stops body heat escaping.) Then the fill-in-the-blanks (carbon dioxide; pran vayu; two-thirds; air; nutritious components; urine) and the right or wrong items (right, wrong, wrong, right). Your child can check answers against the answer key on page 99."
+        },
+        {
+          "kind": "think",
+          "title": "Do needs come in a fixed order?",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: Abraham Maslow's idea that people first need air, food and water, then safety, then love and friends, then respect, and only then can they grow into their best selves. Draw it as a ladder with your child. Then ask: 'Can a hungry child still love their family and make friends?' (Yes.) 'Then must the bottom step always come first?' Ask the voice question and let them argue both sides.",
+          "ref": "v4"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any miss, open the section of the book (7.1 to 7.5) and read the line together, then ask again in different words. Most children get 5 or more right; fewer than 4 means repeat the Day 2 air lesson and the Day 5 bottle test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 11,
+          "do": "Your child is the teacher and you (or a grandparent or sibling) are the student. In 5 minutes they teach the five basic needs, using real things: a glass of lime water, a water bottle, a snack, a sweater and the roof models. For each need they must say why we need it and one way to keep it clean or safe (open windows, cover drinking water, wash vegetables, wear clean clothes, put garbage in the bin). Ask two 'student' questions: 'Why does my breath turn lime water milky?' and 'Does a sweater make heat?' End by putting the family's two water-saving promises from the diary on the fridge."
+        }
+      ],
+      "need": ["Textbook pages 97–99", "things from the week: lime-water glass, two-thirds bottle, wrapped bottles, roof models, energy-day page"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Our five basic needs",
+      "day": 4,
+      "sections": [
+        ["A. The five needs", [
+          {"t": "fill", "p": "Our five basic needs are air, water, food, clothing and ____.", "a": ["shelter", "house", "a house"]},
+          {"t": "mcq", "p": "Which three things can we NOT survive without at all?", "opts": ["Air, water, food", "Food, clothes, house", "Water, clothes, TV", "Air, house, toys"], "a": 0},
+          {"t": "sort", "p": "Sort these into needs and wants.", "items": ["Drinking water", "Chocolate", "A roof", "A mobile phone", "Rice or roti", "Toys", "A blanket in winter", "A video game"], "cats": ["Need", "Want"]}
+        ]],
+        ["B. Air and water in the body", [
+          {"t": "fill", "p": "The gas in air that we need to live is ____, also called 'pran vayu'.", "a": ["oxygen"]},
+          {"t": "fill", "p": "When we breathe out, our body gets rid of ____ ____.", "a": ["carbon dioxide"]},
+          {"t": "mcq", "p": "About how much of our body is water?", "opts": ["One-tenth", "Half", "Two-thirds", "All of it"], "a": 2},
+          {"t": "match", "p": "Match each thing to its job.", "pairs": [["Lungs", "Fill with air when we breathe in"], ["Blood", "Carries oxygen and food to every part of the body"], ["Sweat and urine", "Carry waste out of the body"], ["Food", "Gives us energy to work"]]}
+        ]],
+        ["C. Keeping needs clean and safe", [
+          {"t": "mcq", "p": "Why should we not leave water standing in an old tyre or cooler?", "opts": ["It will turn into ice", "Mosquitoes breed in it and spread disease", "It makes the house cold", "It is too heavy"], "a": 1},
+          {"t": "write", "p": "Write two things the book says we should do while cooking and eating to stay healthy.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Needs in new places",
+      "day": 5,
+      "sections": [
+        ["A. What to wear", [
+          {"t": "match", "p": "Match each place and season to the best clothes.", "pairs": [["Chennai in May", "Loose cotton clothes"], ["Leh in January", "Woollen sweater, cap and socks"], ["A wedding in Kanchipuram", "A silk saree"], ["A long train trip where clothes get crushed", "Polyester clothes"]]},
+          {"t": "mcq", "p": "A thick razai (quilt) stuffed with cotton keeps you warm at night. How?", "opts": ["The cotton makes heat", "Lots of air is trapped in the fluffy cotton and stops your body heat escaping", "It is heavy", "It is a bright colour"], "a": 1},
+          {"t": "write", "p": "Two shirts look the same, but one feels cool and one feels sweaty on a hot day. What could the difference be? How could you find out from the shirt itself?", "lines": 3}
+        ]],
+        ["B. Air and water", [
+          {"t": "write", "p": "Your cousin sleeps in a small room with every window and the door shut, and a coal angithi (stove) burning for warmth. Why is this dangerous, and what should they do?", "lines": 3},
+          {"t": "table", "p": "Your family water diary: fill in the three biggest water uses.", "cols": ["Use", "Buckets", "Litres", "One way to save"], "rows": 3},
+          {"t": "mcq", "p": "After running, you breathe faster because:", "opts": ["Your nose is blocked", "Your muscles need more oxygen to get energy from food", "You are cold", "Air is heavier outside"], "a": 1}
+        ]],
+        ["C. Houses", [
+          {"t": "match", "p": "Match the house to the reason it is built that way.", "pairs": [["Sloping roof in a snowy place", "So snow slides off and does not pile up"], ["Small doors and low ceiling in the hills", "To keep out cold winds"], ["Earthquake-proof building", "So it does not fall when the ground shakes"], ["Kitchen with a chimney or exhaust fan", "So smoke does not stay in the kitchen"]]},
+          {"t": "write", "p": "A family throws its garbage into the lane behind the house. Write two problems this causes and what they should do instead.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking puzzles about needs",
+      "day": 6,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "mcq", "p": "In our bottle test, the bare bottle cooled fastest and the wool-wrapped bottle stayed warmest. What would happen to a bottle of ice-cold water wrapped in wool?", "opts": ["It would warm up faster", "It would stay cold longer, because the trapped air slows heat moving in too", "It would freeze", "Nothing; wool only works on warm things"], "a": 1},
+          {"t": "write", "p": "Our breath turned lime water milky but room air did not. What does that tell you about the air coming out of our lungs compared with the air going in?", "lines": 3},
+          {"t": "fill", "p": "A candle in a closed jar goes out. A mouse in a closed jar would also be in danger. Both use up the ____ in the air.", "a": ["oxygen"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a city had plenty of food but its only well became dirty? Use John Snow's story to say what might happen and how you would find which water source was the problem.", "lines": 4},
+          {"t": "write", "p": "What if you had to build a house in a very hot desert like the Thar? Think about walls, windows, roof and colour. Draw or write your plan.", "lines": 4}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Maslow said people need food and safety before they can care about friends and learning. Think of a story or a person you know who cared for others even when they were hungry or poor. Does it support Maslow or not?", "lines": 4},
+          {"t": "mcq", "p": "Priestley thought his new gas was 'air with the phlogiston taken out'. Lavoisier said it was a new element, oxygen. Which evidence helped Lavoisier most?", "opts": ["Careful weighing showed things that burn gain weight by taking something from the air", "Priestley was older", "Lavoisier lived in France", "The gas had a nice smell"], "a": 0}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Count your breaths",
+      "day": 2,
+      "question": "Does our body need more air when it works harder?",
+      "need": ["a clock or phone timer", "a notebook", "space to jump or a staircase"],
+      "steps": [
+        "Your child sits still for 2 minutes to rest.",
+        "Count their breaths for one minute by watching the chest or tummy rise and fall (one rise and fall is one breath). Write the number.",
+        "They do 30 jumping jacks or run up and down the stairs twice.",
+        "Straight away, count their breaths for one minute again. Write the number.",
+        "Count again after 3 minutes of rest to see how fast breathing comes back to normal.",
+        "Make a small bar chart: resting, after exercise, after rest."
+      ],
+      "predict": "Ask your child to guess first: after jumping, will you breathe faster, slower or the same? By how much?",
+      "observe": "Record the three counts. Most children of 8 breathe about 18–25 times a minute at rest, much faster just after exercise, and come back close to normal within a few minutes. The heart also beats faster; feel it on the chest.",
+      "why": "Every part of the body gets its energy by using oxygen to 'burn' food slowly inside its tiny cells; this makes carbon dioxide as a waste. When muscles work hard they use oxygen faster and make more carbon dioxide. The brain senses the extra carbon dioxide in the blood and makes us breathe faster and deeper, and the heart pumps faster, so that more oxygen reaches the muscles and the carbon dioxide is breathed out.",
+      "safety": "Exercise on a non-slippery floor. A child with asthma should not do hard exercise for this test; a short brisk walk is enough.",
+      "time": "7 min"
+    },
+    {
+      "id": "e2",
+      "title": "Lime water: carbon dioxide in our breath",
+      "day": 2,
+      "question": "Is there more carbon dioxide in the air we breathe out than in the air around us?",
+      "need": ["half a teaspoon of edible chuna (slaked lime paste for paan)", "a covered jar of water", "2 clear glasses", "a straw", "a bicycle pump or an empty plastic bottle"],
+      "steps": [
+        "Night before (adult only): stir half a teaspoon of chuna into a glass or jar of water, cover it and leave it to settle overnight.",
+        "Next day, carefully pour only the clear liquid from the top into two clean glasses, about a quarter full each. This is lime water.",
+        "Glass 1: your child blows gently out through a straw into the lime water for about one minute. Blow out only; never suck.",
+        "Glass 2: push room air into the lime water for the same time, using a bicycle pump or by squeezing an empty plastic bottle again and again with the straw fitted into its mouth.",
+        "Hold both glasses against a dark cloth and compare."
+      ],
+      "predict": "Ask your child to guess first: which glass will change, the one with your breath, the one with room air, both or neither?",
+      "observe": "The breath glass turns cloudy or milky white within a minute. The room-air glass stays clear, or turns only very slightly cloudy after much longer.",
+      "why": "Lime water is calcium hydroxide dissolved in water. Carbon dioxide reacts with it to make tiny specks of chalk (calcium carbonate), which do not dissolve, so the water looks milky. Room air has only a very small amount of carbon dioxide (about 0.04 parts in 100), but the air we breathe out has about 4 parts in 100, roughly a hundred times more, because our body makes carbon dioxide when it uses oxygen to get energy from food. Our breath is still mostly nitrogen and some oxygen; it has simply had some of its oxygen swapped for carbon dioxide.",
+      "safety": "Chuna is strongly alkaline and can burn the skin and eyes: only the adult handles it, wash hands after, and keep it away from the eyes (rinse with plenty of water if any splashes). Never drink lime water. Use the straw only for blowing out.",
+      "time": "10 min + overnight settling"
+    },
+    {
+      "id": "e3",
+      "title": "Does wool keep things warm?",
+      "day": 5,
+      "question": "Which keeps a warm bottle warm longest: wool, cotton or nothing?",
+      "need": ["3 identical steel or glass bottles", "a jug of warm water", "a woollen sweater or shawl", "a thin cotton dupatta or handkerchief", "rubber bands", "a kitchen thermometer if you have one", "a clock"],
+      "steps": [
+        "Fill all three bottles with warm water from the same jug, to the same level. Close the lids.",
+        "Wrap bottle 1 in the woollen sweater, bottle 2 in the thin cotton cloth, and leave bottle 3 bare. Tie with rubber bands.",
+        "Stand them side by side, away from the sun and the fan.",
+        "After 30 minutes, unwrap them one at a time.",
+        "Touch each with the inside of your wrist, or put a thermometer in each, and put them in order from warmest to coolest."
+      ],
+      "predict": "Ask your child to guess first: which bottle will be warmest after 30 minutes, and which coolest? Why?",
+      "observe": "Record the order (and temperatures, if you have a thermometer). Usually the wool bottle is warmest, the cotton one next, and the bare bottle coolest.",
+      "why": "Heat always moves from warm things to cooler surroundings. Still air is very bad at carrying heat. Woollen fibres are crinkly and fluffy, so a sweater holds lots of tiny pockets of still air, which slow down the heat escaping from the bottle, just as the book says it slows heat escaping from our body. A thin cotton cloth traps only a little air. Wool does not make heat; the warmth was already in the water (or, for us, made by our own body).",
+      "safety": "Use warm, not boiling, water. An adult should pour it.",
+      "time": "7 min to set up + 30 min wait + 8 min to check"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Family water diary",
+      "day": 1,
+      "mins": 17,
+      "need": ["a notebook page stuck on the fridge", "a pencil on a string", "a bucket and a 1-litre bottle to measure it"],
+      "steps": [
+        "Find out how many litres your bucket holds (read the number on it, or fill it with a 1-litre bottle and count).",
+        "Draw a table: Use, How many buckets or mugs, Who.",
+        "Write your guess for the whole family's daily water use at the top.",
+        "For one full day, record every use: drinking, cooking, bathing, flushing, washing clothes and dishes, mopping, watering plants.",
+        "Add up the total and change it into litres.",
+        "Compare with your guess, find the biggest use, and choose two ways to save water this week."
+      ],
+      "outcome": "A real measurement of how much water your family uses in a day, and two family water-saving promises on the fridge."
+    },
+    {
+      "id": "a2",
+      "title": "Snow on the roof: flat or sloping?",
+      "day": 6,
+      "mins": 9,
+      "need": ["2 small boxes of similar size", "2 pieces of card", "tape", "a spoonful of salt, sugar or atta"],
+      "steps": [
+        "Tape a flat piece of card on top of one box for a flat roof.",
+        "Fold the other card in half and tape it on the second box like a tent, for a sloping roof.",
+        "Guess which roof will hold more snow.",
+        "Sprinkle the same amount of 'snow' over both from the same height.",
+        "Compare how much stays on each roof; tip the extra into a bowl to compare amounts.",
+        "Try a gentle slope and a steep slope and see which sheds more."
+      ],
+      "outcome": "Two model houses that show why houses in snowy and very rainy places have sloping roofs."
+    },
+    {
+      "id": "a3",
+      "title": "Needs or wants sort",
+      "day": 1,
+      "mins": 9,
+      "need": ["15 small paper slips", "a pencil"],
+      "steps": [
+        "Write one thing on each slip: air, drinking water, roti or rice, TV, shirt, sweater in winter, roof, bicycle, chocolate, bath, mobile phone, blanket, fan, toys, fruit.",
+        "Make two piles: Need and Want.",
+        "For each slip, say a reason.",
+        "Talk about the slips you disagree on and why.",
+        "Keep the slips; on the last day, sort the 'Need' pile into the five basic needs."
+      ],
+      "outcome": "A child who can tell a need from a want and give a reason, and a set of slips to reuse on the last day."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Joseph Priestley (1733–1804), England, and Antoine Lavoisier (1743–1794), France",
+      "idea": "In August 1774 Priestley heated a red powder (mercury oxide) and collected a gas in which a candle burned very brightly and a mouse lived longer than in ordinary air. He believed burning released a substance called 'phlogiston', so he named his gas 'dephlogisticated air'. Earlier, in 1771, he had found that a sprig of mint could make air in which a candle had burned out good again. Lavoisier repeated the work with careful weighing, showed that things that burn take something out of the air and get heavier, and named that part of the air oxygen. (The Swedish chemist Carl Scheele had also made the gas, a little earlier, but published later.)",
+      "then": "Most chemists of the time believed in phlogiston. Lavoisier's new explanation won over most chemists within about twenty years, but Priestley himself never accepted it and defended phlogiston until he died.",
+      "now": "The phlogiston idea is rejected: the evidence went against it. Burning and breathing both use oxygen from the air and make carbon dioxide, as Lavoisier's work began to show. Priestley is still honoured for discovering the gas and for his finding that plants restore air, which helped later scientists discover that plants give out oxygen.",
+      "status": "rejected",
+      "ask": "Priestley and Lavoisier saw the same experiments but explained them differently. What kind of measurement helped decide who was right? Can a famous scientist be wrong about his own discovery?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "John Snow (1813–1858), England",
+      "idea": "Snow, a London doctor, argued that cholera spreads through dirty water, not through 'bad air' (miasma) as most doctors believed. In the 1854 outbreak in the Soho area of London, he marked deaths on a map and showed that they clustered around a water pump on Broad Street. On his advice the local officials removed the pump's handle in September 1854. He also compared households supplied by two water companies and found many more cholera deaths among those whose water came from a dirtier part of the river Thames.",
+      "then": "Many doctors and officials did not accept his idea in his lifetime and kept blaming bad air. Even after the pump handle was removed, an official report still doubted his water explanation.",
+      "now": "Snow was right. The cholera germ (a bacterium) was described by Filippo Pacini in 1854 and identified more fully by Robert Koch in 1883, and cholera is now known to spread through water or food contaminated with sewage. Snow's map is famous as a founding moment of epidemiology, the science of tracking how diseases spread.",
+      "status": "accepted",
+      "ask": "Snow could not see the cholera germ. What evidence did he use instead? Would a map alone convince you, or would you want something more?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Laurie Baker (1917–2007), architect, born in England, lived and worked in India",
+      "idea": "Baker came to India in 1945 and spent the rest of his life here, mostly in Kerala, becoming an Indian citizen. He argued that houses should be built from cheap local materials (brick, lime, mud, laterite stone) and suit the local climate, instead of costly concrete. He used brick jaali walls that let in air and light while keeping out the harsh sun, and the 'rat-trap bond', a way of laying bricks on edge that leaves a hollow gap inside the wall, uses fewer bricks and keeps rooms cooler.",
+      "then": "Many builders and officials preferred modern concrete buildings, and his unplastered brick walls and odd shapes looked strange or 'poor' to some people. But many families, institutions and later the Kerala government took up his low-cost methods.",
+      "now": "His ideas are widely accepted and taught in Indian architecture. He received the Padma Shri in 1990. Today, with hotter summers and costly cooling, architects again study his climate-friendly, low-cost buildings.",
+      "status": "accepted",
+      "ask": "Baker said a wall with a hollow gap keeps a room cooler. How could you test that idea with two cardboard boxes and a sunny window?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "Abraham Maslow (1908–1970), USA",
+      "idea": "In a 1943 paper, the psychologist Maslow suggested that human needs come in levels: first body needs (air, water, food, sleep, warmth), then safety, then love and belonging, then respect, and finally 'self-actualisation', becoming the best version of yourself. He said that, in general, lower needs must be mostly met before people focus on higher ones. Others later drew this as the famous pyramid; Maslow himself did not draw it.",
+      "then": "The idea became very popular in schools, businesses and books. But researchers soon pointed out that Maslow had little hard evidence, and that the order of needs may differ between people and cultures.",
+      "now": "A large study by Louis Tay and Ed Diener in 2011, using surveys from 123 countries, found that people everywhere do share these kinds of needs, but that people could feel good from friendship and respect even when their basic needs were not fully met; the strict order did not hold. So the list of needs is useful, but the fixed ladder is debated.",
+      "status": "debated",
+      "ask": "Can a hungry person still be a good friend or love learning? What would you need to find out about many people to decide whether needs really come in a fixed order?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "What are our five basic needs? Which three can we not live without at all?", "a": "Air, water, food, clothing and shelter. We cannot survive without air, water and food."},
+    {"q": "Why do we need air? What do we breathe out?", "a": "Air contains oxygen (pran vayu). Blood carries oxygen and food to every part of the body, where they give us energy. We breathe out carbon dioxide."},
+    {"q": "About how much of our body is water, and name two jobs water does in our body.", "a": "About two-thirds. Most of our blood is water so it flows easily, and water carries wastes out as urine and sweat."},
+    {"q": "Name three ways to keep water clean and safe at home.", "a": "Keep drinking water in covered pots, keep filth away from water sources, do not let water stand near the house (mosquitoes breed in it), and do not waste water."},
+    {"q": "Why do cotton clothes feel cool and woollen clothes keep us warm?", "a": "Air passes easily through cotton, so we feel cooler. Wool traps air between its fibres, which stops the body's heat escaping."},
+    {"q": "What makes a good house?", "a": "It is airy and lets in light, has proper drainage, a well-ventilated kitchen so smoke does not stay inside, is kept clean, and its garbage is put in the proper place."},
+    {"q": "Why do houses in snowy places have sloping roofs?", "a": "So snow slides off instead of piling up and becoming heavy; they also have low ceilings and small doors to keep out cold winds."}
+  ]
+}

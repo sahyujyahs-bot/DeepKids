@@ -1,0 +1,553 @@
+{
+  "key": "nios|sci|3|8",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 8,
+  "title": "Food",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 8 (pages 100–112), 2016",
+  "summary": "Food gives us energy, builds and repairs the body, and protects us from disease. Your child learns the five components of food (carbohydrates, fats, proteins, minerals, vitamins) and where each comes from in an Indian kitchen, tests foods for starch and fat, plans a balanced thali, finds out which diseases come from missing nutrients, and learns why water matters, how to make dirty water safe and how to keep food clean.",
+  "goals": [
+    "By the end your child can give the three reasons we need food (energy, growth and repair, protection from disease) and explain that food is 'burnt' with oxygen in the body to give energy.",
+    "By the end your child can name the five components of food, say what each does, and sort common Indian foods by their main component.",
+    "By the end your child can test a food for starch (iodine turns it blue-black) and for fat (it leaves a see-through grease spot on paper).",
+    "By the end your child can plan a balanced meal and link missing nutrients to diseases: anaemia (iron), goitre (iodine), scurvy and bleeding gums (vitamin C), weak bones (calcium and vitamin D), marasmus (not enough food).",
+    "By the end your child can explain why we drink more fluids during diarrhoea, help make ORS, and describe four ways to make dirty water safe (alum, filter, chlorine, boiling).",
+    "By the end your child can list the clean-food rules and explain how scientists found out about vitamins through careful tests."
+  ],
+  "words": [
+    ["nutrient", "a useful substance in food that the body needs to work, grow and stay healthy"],
+    ["carbohydrate", "the energy food found in grains, potato, sugar, gur and honey; starch and sugar are carbohydrates"],
+    ["fat", "an energy-rich food in ghee, butter, oil, nuts and oilseeds; extra fat is stored under the skin and keeps us warm"],
+    ["protein", "the body-building food in dal, milk, paneer, soybean, eggs, fish and meat, needed for growth and repair"],
+    ["mineral", "a nutrient like iron, calcium or iodine, needed in small amounts to keep the body working"],
+    ["vitamin", "a nutrient needed in tiny amounts for the body to work properly, such as vitamin C in amla and vitamin A in carrots"],
+    ["balanced food", "a diet with all five components in the right amounts, such as a thali of roti or rice, dal, sabzi, curd and a seasonal fruit"],
+    ["glucose", "a simple sugar that carbohydrates are broken down into; the body uses it for energy"],
+    ["anaemia", "a condition where the blood is weak and a person feels tired and looks pale, usually from too little iron"],
+    ["goitre", "a swelling in the neck caused by too little iodine; iodised salt prevents it"],
+    ["ORS", "oral rehydration solution: clean water with the right amounts of salt and sugar, drunk during diarrhoea to replace lost water"],
+    ["alum", "phitkari, a crystal that makes fine mud in water clump together and sink"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Why do we eat?",
+      "goal": "Discover from our own body why food matters (energy, growth and repair, fighting disease) and start the book's one-week food diary.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The scooter and the petrol",
+          "mins": 5,
+          "do": "Ask: 'What happens to a scooter or a car when the petrol runs out?' (It stops.) 'Is there anything that is the petrol for your body?' (Food.) Then ask: 'When you are fast asleep, does your body still need energy?' Let them guess, then say: 'Yes! Your heart beats and your lungs breathe all night, so even sleeping uses energy.' Ask your child to put a hand on their chest and feel their heart working right now."
+        },
+        {
+          "kind": "read",
+          "title": "8.1 Why is food necessary? (pages 100–102)",
+          "mins": 10,
+          "do": "Read the lesson opening on page 100 and section 8.1 aloud, the three reasons we need food. After '1. Food gives us energy' ask: 'How does food give energy?' (It is burnt in the body with the help of oxygen we breathe in, a bit like petrol burning in an engine; remind them of the lime-water test in Lesson 7.) After '2. Growth and repair' ask: 'Why do children need more nutritious food than grown-ups?' (They are growing fast.) 'When you scrape your knee, what does food do?' (It helps make new skin to repair it.) After '3. Prevention of diseases' read the four disease names and say you will find out about each on Day 4."
+        },
+        {
+          "kind": "do",
+          "title": "Growth mark and repair hunt",
+          "mins": 8,
+          "do": "Stand your child against a door frame with heels, back and head touching it, put a ruler flat on their head and mark the height with today's date. Measure it in centimetres. Say: 'Food built every centimetre of you.' If you have an older photo or a baby outfit, compare. Then hunt for 'repair' on the body: a healed scratch, a scab, short new nails after cutting, or a lost milk tooth with a new one coming. Ask: 'What did your body use to make the new skin, nail or tooth?' (Food: mostly protein and minerals.)"
+        },
+        {
+          "kind": "act",
+          "title": "Start the one-week food diary",
+          "mins": 12,
+          "do": "Start Activity a1, which is the book's 'Let's do and learn' task on page 111. Rule a notebook page into a table with columns: Day, Breakfast, Lunch, Snack, Dinner. Your child fills in everything they ate today so far, including small things like a biscuit, chai or a handful of peanuts. Explain the rule: write it down soon after eating, every day for a week; on the last day we will check whether the week was balanced. Stick the page on the fridge or keep it near the dining table.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Food from plants and animals",
+          "mins": 5,
+          "do": "Look at today's food diary entries. For each item ask: 'Did this come from a plant or an animal?' (Roti: wheat plant; dal: pulse plant; milk: cow or buffalo; egg: hen; sugar: sugarcane.) Read the book line on page 100: air, water and food are needs of all living beings. Ask: 'What does a cow eat? What does a plant use as its food?' (Grass; plants make their own food in their leaves using sunlight, air and water.)"
+        }
+      ],
+      "need": ["Textbook pages 100–102", "a ruler, a pencil and a door frame", "a notebook for the food diary"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Energy foods: carbohydrates and fats",
+      "goal": "Learn the five components of food, then test real foods for starch and for fat.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "8.2 Components of food and Let's see 8.1 (pages 102–103)",
+          "mins": 7,
+          "do": "Read section 8.2 aloud and help your child learn the five components with a hand trick: one finger each for carbohydrates, fats, proteins, minerals, vitamins. Then do 'Let's see, what we have learnt 8.1' on page 103 aloud. Question 1: why do we need food? (Energy, growth and repair, protection from disease.) Question 2: the five components. Question 3, the matching: carbohydrates and fats give energy; proteins help growth and repair; minerals and vitamins protect from disease and make the body strong. Check with the answers on page 111."
+        },
+        {
+          "kind": "read",
+          "title": "Carbohydrates and fats in the table (pages 103–104)",
+          "mins": 6,
+          "do": "Read rows 1 and 2 of the table in section 8.3 aloud. Ask: 'Which foods give carbohydrates?' (Wheat, rice, maize, oats, barley, potato, sweet potato, sugar, gur, honey.) 'What do carbohydrates turn into in the body?' (Glucose, which is used for energy.) 'Which foods give fats?' (Milk, butter, ghee, oils, groundnut, mustard, sunflower, coconut.) 'What else does fat do besides give energy?' (Extra fat is stored under the skin and helps keep us warm.) Tell them starch is the main carbohydrate in grains and potato; sugar is another."
+        },
+        {
+          "kind": "exp",
+          "title": "The starch test",
+          "mins": 13,
+          "do": "Do Experiment e1. Put small pieces of cooked rice, raw potato, bread or roti, banana, cucumber, a little dal, paneer or boiled egg white, and a pinch of sugar on a steel plate, well apart. Ask your child to guess for each: 'Will it turn blue-black (lots of starch) or stay brown?' and write the guesses. You (the adult) put one drop of tincture of iodine or Betadine on each. Your child records the result in a table. Rice, potato, bread and roti go blue-black; cucumber stays brown; sugar stays brown (sugar is a carbohydrate but not starch).",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "The grease-spot test",
+          "mins": 12,
+          "do": "Do Experiment e2. Cut a brown paper bag or plain paper into squares and label them: ghee, groundnut (crushed), coconut (a small piece), a biscuit, a slice of apple, boiled potato, water. Your child rubs each food firmly on its own square and guesses which will leave a see-through spot. Wait 10 minutes for water to dry, then hold each square up to a window. A spot that stays see-through after drying shows fat. Ask: 'Which surprised you?' (Many children are surprised by the biscuit and the groundnut.) Read the 'why' of e2.",
+          "ref": "e2"
+        }
+      ],
+      "need": ["Textbook pages 102–104", "small pieces of rice, raw potato, bread or roti, banana, cucumber, dal, paneer or egg white, and sugar", "a steel plate", "tincture of iodine or Betadine (adult use)", "a brown paper bag or plain paper", "ghee, groundnuts, a piece of coconut, a biscuit, an apple slice"],
+      "prep": [{"task": "Buy a small bottle of tincture of iodine or povidone-iodine (Betadine) from a chemist; boil one small potato", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Body-builders and protectors, and the balanced thali",
+      "goal": "Learn the sources and jobs of proteins, minerals and vitamins, sort the kitchen into the five components, plan a balanced thali, and hear how polished rice led to the discovery of vitamins.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Proteins, minerals and vitamins (page 104)",
+          "mins": 7,
+          "do": "Read rows 3, 4 and 5 of the table in section 8.3 aloud. Ask: 'Which foods give proteins, and what do proteins do?' (Milk, cheese or paneer, pulses, soybean, green peas, eggs, chicken, fish, meat; they help the body grow and repair.) 'Do we need minerals in big amounts or small?' (Small, but they are essential.) 'Which foods give vitamins?' (Milk, curd, ghee, fish oil, lemon, orange, papaya, mango, tomato, beetroot, green leafy vegetables.) Point out the surprising one: sunlight. Our skin makes vitamin D when sunlight falls on it. Tell them one thing the book leaves out: grains, fruit and vegetables also give fibre (roughage), which keeps our gut working, though it is not on the list of five."
+        },
+        {
+          "kind": "do",
+          "title": "Kitchen sort into five groups",
+          "mins": 10,
+          "do": "Make five labelled sheets on the floor: Carbohydrates, Fats, Proteins, Minerals, Vitamins. Your child collects 12–15 items from the kitchen (atta, rice, poha, gur, oil, ghee, groundnuts, moong dal, rajma, a milk packet, eggs, iodised salt packet, a lemon, a carrot, palak, a banana) and puts each on the group it gives most of. Ask the reason each time. When they say 'milk could go in three places!', praise it: most foods have several components, so we put each where it gives the most. Good placements: atta and rice under carbohydrates, dal under proteins, oil under fats, salt under minerals, lemon and carrot under vitamins."
+        },
+        {
+          "kind": "read",
+          "title": "Balanced food (page 104)",
+          "mins": 4,
+          "do": "Read the paragraph on page 104 starting 'For a healthy body it is necessary' up to 'it lacks iron and vitamin C'. Ask: 'What is a balanced food?' (Food with all five components in the right amounts: grains, pulses, vegetables, seasonal fruits and ghee or oil.) 'The book says milk is close to a balanced food for children. What two things does it lack?' (Iron and vitamin C.) 'So what could you add to a glass of milk to fill the gap?' (A guava or an orange for vitamin C, and green vegetables or gur for iron.)"
+        },
+        {
+          "kind": "act",
+          "title": "Design a balanced thali",
+          "mins": 10,
+          "do": "Do Activity a2. Your child draws a big circle as a thali with five small katoris. They plan one balanced lunch from foods your family really eats, for example rice and roti (carbohydrates), dal or rajma (proteins), palak sabzi (minerals and vitamins), curd (proteins, minerals), a little ghee (fat) and a slice of papaya (vitamins). Each katori gets a label naming the component it gives. Check together: are all five there? Is there too much of anything, like three fried items? Choose one day this week to cook this thali together.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Eijkman's chickens and the polished rice",
+          "mins": 9,
+          "do": "Tell the story in Voice v1: a Dutch doctor in Java in the 1890s noticed that chickens fed polished white rice became ill, and recovered when fed brown rice with its outer layer. Show your child a grain of white rice and, if you have it, brown or hand-pounded rice (or the bran, 'bhusi'), and point out the book's line about 'chaff of the grains' in the minerals row. Tell them honestly: the book also says the chaff has plenty of vitamin A; that is not right, but the bran does have B vitamins, minerals and fibre, which is exactly what Eijkman's story is about. Ask the voice question.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Textbook page 104", "5 sheets of paper for labels", "12–15 kitchen items", "white rice and brown or hand-pounded rice if you have it", "paper and crayons"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "When nutrients are missing",
+      "goal": "Learn what happens when the body lacks enough food, iron, calcium, vitamin D, vitamin A, vitamin C or iodine, and hear how a ship's doctor tested a cure for scurvy.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Deficiency diseases (pages 104–105)",
+          "mins": 9,
+          "do": "Read from 'When small children do not get sufficient food' on page 104 to the end of the goitre paragraph on page 105. For each, ask the question and listen for the answer. 'What is marasmus?' (When small children do not get enough food, they become very thin and weak and their muscles do not grow; it comes from too little food overall, both energy and protein.) 'Why should we avoid fast food like noodles and burgers?' (They lack nutrients.) 'What causes anaemia, and what can we eat?' (Too little iron; green vegetables, gur, black chana, eggs.) 'For strong bones?' (Calcium and vitamin D: milk, curd, eggs, fish, sunlight.) 'For healthy eyes?' (Vitamin A: carrot, mango, papaya.) 'Bleeding gums?' (Vitamin C: amla, lemon, orange, guava.) 'Goitre?' (Too little iodine; use iodised salt.)"
+        },
+        {
+          "kind": "do",
+          "title": "Salt packet and nutrient labels",
+          "mins": 7,
+          "do": "Bring out your salt packet. Your child finds the word 'iodised' on it (many packets also show a small rising-sun symbol). Ask: 'Why did the government want all our cooking salt to have iodine?' (So everyone gets a little iodine every day and does not get goitre; salt is something every family buys.) Then look at a milk packet or a biscuit packet's 'Nutrition information' box and find the words protein, carbohydrate, fat, and any vitamin or mineral named. Tell them a national survey (NFHS-5, 2019–21) found more than half of Indian women and most young children had anaemia, which is why iron-rich food matters in every home."
+        },
+        {
+          "kind": "think",
+          "title": "James Lind's lemons",
+          "mins": 9,
+          "do": "Tell the story in Voice v2: in 1747 a Scottish ship's doctor, James Lind, took 12 sailors sick with scurvy (bleeding gums, weak and tired) and gave six pairs of them six different treatments; the pair given oranges and lemons got better fastest. Act it out: line up 6 pairs of toys or spoons, give each pair a 'treatment' slip (cider, vinegar, sea water, a spice paste, dilute acid, oranges and lemons). Ask: 'Why did Lind give all the sailors the same food otherwise?' (So that only the treatment was different: a fair test.) Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Let's see 8.2 and the core worksheet",
+          "mins": 15,
+          "do": "First do 'Let's see, what you have learnt 8.2' on page 106 aloud: balanced diet, marasmus, anaemia (iron), bleeding gums (vitamin C foods), and the matching (grains: carbohydrates; pulses, cheese, eggs: proteins; butter, ghee, oil: fats; iodised salt, spinach, turnip: minerals; carrot, mango, amla: vitamins). Check with the answers on page 112. Then do Worksheet ws1 (core). For each wrong answer, go back to the table on pages 103–104.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 104–106 and 112", "a salt packet and a milk or biscuit packet", "12 toys or spoons and 6 slips of paper", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Water: safe to drink",
+      "goal": "Learn why water is part of our food, make ORS for diarrhoea, and test two of the book's ways to clean dirty water: alum and a home-made filter.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "8.4 and 8.5 Drinking water (page 107)",
+          "mins": 7,
+          "do": "Read sections 8.4 and 8.5 aloud up to 'How to clean water'. Ask: 'Why does the body need water to move food around?' (Everything moves from one organ to another dissolved in water, and food is digested in dissolved form.) Show this: stir a spoon of sugar into a glass of water; ask where it went (it dissolved, and is now spread all through the water). 'What happens in vomiting and diarrhoea?' (The body loses a lot of water, which can be dangerous.) 'Where do we get water from?' (River, pond, well, hand pump, tap.) 'Which diseases come from dirty water?' (Jaundice, typhoid, cholera, diarrhoea.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make ORS",
+          "mins": 8,
+          "do": "Do Activity a3. With clean hands, your child measures 1 litre of clean, boiled and cooled water into a jug, then adds 6 level teaspoons of sugar and half a level teaspoon of salt (level the spoon with a knife), and stirs until dissolved. Your child tastes one sip: it should taste no saltier than tears. Ask: 'Why exactly measured, not a fistful?' (Too much salt can harm a sick child; the right mix helps the gut take in water fastest.) Tell them packets of ORS from the chemist are even better, and a child with diarrhoea should still see a doctor.",
+          "ref": "a3"
+        },
+        {
+          "kind": "exp",
+          "title": "Alum (phitkari) test",
+          "mins": 10,
+          "do": "Do Experiment e3, following the book's method on page 107. Stir a spoon of fine soil into two glasses of water until both are equally muddy. Your child guesses: 'Will alum make any difference?' Tie a piece of phitkari to a thread and swirl it in glass 1 for about a minute; leave glass 2 alone. Watch both for 10 minutes while you read on. The fine mud in glass 1 clumps into bigger flakes and sinks faster; glass 2 stays cloudy much longer. Then filter glass 1 through a clean cloth. Ask: 'Is this water now safe to drink?' (No! It looks clear, but germs can still be in it; it must also be boiled or treated.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "act",
+          "title": "Build a bottle filter",
+          "mins": 10,
+          "do": "Do Activity a4, a small version of the three-pot home-made filter on page 107. Cut a plastic bottle in half (adult). Turn the top half upside down into the bottom half like a funnel. Put a piece of cloth in the neck, then layers from bottom to top: crushed charcoal, then sand, then small gravel, just like the book's three pots but in one. Pour muddy water in and watch it drip out. Ask: 'Which layer catches the big bits? Which the small?' (Gravel catches big bits, sand catches finer ones, charcoal takes away some colour and smell.) Again ask: 'Does this kill germs?' (No; that needs boiling, chlorine or a proper purifier.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "talk",
+          "title": "Chlorine, boiling and modern filters (page 108)",
+          "mins": 5,
+          "do": "Read methods 3, 4 and 5 on page 108 aloud. Ask: 'Which methods kill germs?' (Chlorine tablets, a pinch of potassium permanganate, boiling, and modern filters.) 'Which only remove mud?' (Alum and cloth or sand filters.) Look at your own water purifier or filter if you have one and find the ISI mark. Note: the book says boil for ten minutes; health agencies say even one minute at a full rolling boil kills the germs, so boiling well is what matters."
+        }
+      ],
+      "need": ["Textbook pages 107–108", "a jug, 1 litre boiled and cooled water, sugar, salt, a teaspoon", "2 glasses, a spoon of soil, a piece of phitkari (alum) and thread", "a clean cloth", "a plastic bottle, scissors (adult), cloth, crushed charcoal, sand, small gravel"],
+      "prep": [{"task": "Buy a small piece of phitkari; collect sand, small gravel and a few pieces of charcoal (from a barbecue bag or a tandoor shop); boil and cool 1 litre of water", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Clean food, healthy body",
+      "goal": "Learn the book's clean-food rules, practise proper handwashing, read a sugary-drink label, and weigh up a live argument among scientists about fat and sugar.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "8.6 Clean food (pages 108–109)",
+          "mins": 7,
+          "do": "Read section 8.6 and 'Knowing this is also necessary' aloud. After the seven cleanliness rules, ask your child to say them back in their own words on their fingers: clean kitchen, wash and soak dal and rice, wash vegetables before cutting, keep food covered from dust and flies, avoid stale food, wash hands before cooking and serving, wash hands before eating. After the three extra points, ask: 'Why is it better to eat smaller meals through the day than one huge one?' (A huge meal at once is hard to digest.) 'Why should we not talk with food in our mouth?' (Food could go down the windpipe and make us choke.)"
+        },
+        {
+          "kind": "do",
+          "title": "Glitter germs handwash",
+          "mins": 9,
+          "do": "Rub a little oil on your child's hands and sprinkle a pinch of glitter, turmeric or atta over them: these are pretend germs. First they rinse with plain water for 5 seconds. Ask: 'Are the germs gone?' (No, most stay.) Then wash with soap for 20 seconds: palms, backs, between the fingers, thumbs, fingertips and nails, and wrists. Check again. Ask: 'Why does soap work better than water alone?' (Soap grabs on to oil and dirt and lets water wash them away.) Read the book's rhyme: 'Washing hands prevents disease and puts everyone at ease.'"
+        },
+        {
+          "kind": "think",
+          "title": "Fat or sugar: Keys and Yudkin",
+          "mins": 9,
+          "do": "Read the fast-food line on page 105 again. Then tell the story in Voice v3: in the 1960s and 70s two famous scientists argued about whether too much fat or too much sugar was the bigger cause of heart disease. Take a cola or packaged juice bottle and find 'sugars' on the label. Your child counts out that many grams as teaspoons of sugar on a plate (one teaspoon is about 4 grams). Ask: 'How many teaspoons are in one bottle?' Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Let's see 8.3 and the stretch worksheet",
+          "mins": 15,
+          "do": "Do 'Let's see, what you have learnt 8.3' on pages 109–110 aloud (seven questions; answers on page 112). Then do Worksheet ws2 (stretch), which asks your child to use the ideas on new situations: a sick cousin, a school tiffin, a picnic with only one kind of food. Write items can be answered aloud while you scribe.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 105, 108–110 and 112", "a little oil, glitter or turmeric, soap", "a cola or packaged juice bottle with a label", "sugar, a teaspoon and a plate", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Our food week, check and teach it back",
+      "goal": "Check the week's food diary for balance, do the book's revision and exercise, think about what hungry children need most, check understanding, and teach the lesson back.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Was our week balanced?",
+          "mins": 8,
+          "do": "Finish Activity a1. With the week's food diary, your child colours each food by its main component: yellow for carbohydrates, red for proteins, orange for fats, green for vitamins and minerals (vegetables and fruit). Ask: 'Which colour is the most? Which is missing on some days?' Many Indian diets are heavy on yellow and light on green and red. Your child writes one change for next week, for example 'a fruit every day' or 'dal or egg at dinner', as the book's page 111 task asks.",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (pages 110–111)",
+          "mins": 7,
+          "do": "Read the 'Let's Revise' list on page 110 aloud. Then do the Exercise aloud. Question 1 answers: fat, diarrhoea, salt, anaemia, alum. Question 2 matching: sunlight with strong bones, amla with healthy gums, egg and milk with healthy eyes (both give vitamin A), spinach with prevention of anaemia. Question 3: tick chapati, rice, pulse, vegetable and milk; not bread pakora, cola or noodles. Ask the reason for each cross."
+        },
+        {
+          "kind": "think",
+          "title": "What do hungry children need most?",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: experts around the world once said poor children were short mainly of protein, and planned special protein foods; Indian nutrition scientists, including C. Gopalan in Hyderabad, found that most children simply did not get enough food in total, and that roti, rice and dal in enough quantity gave them enough protein too. Link it to marasmus on page 104. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 6,
+          "do": "Do Worksheet ws3 (challenge) sections A and B together, quickly and aloud; keep section C (comparing views) as a dinner-table talk with the whole family tonight. There is no single right answer in section C; praise reasons that use evidence.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 6,
+          "do": "Ask the 8 check questions aloud without the book. Tick the ones answered well; for any miss, open the right page (table on pages 103–104, diseases on page 105, water on pages 107–108) and look together for a minute, then ask again in other words. Most children get 6 or more; fewer than 5 means redo the Day 3 kitchen sort next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 6,
+          "do": "Your child is the teacher. Using the thali drawing, the iodised salt packet, the alum glass and the bottle filter, they teach you the five components with one food each, one disease from a missing nutrient, and one way to make water safe. Ask two 'student' questions: 'Is clear water always safe?' and 'Why did Lind give his sailors lemons?' End by fixing a day to cook the balanced thali from Day 3 together."
+        }
+      ],
+      "need": ["Textbook pages 110–112", "the week's food diary and 4 coloured pencils", "the thali drawing, salt packet, alum glass and bottle filter", "worksheet ws3"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "The five components of food",
+      "day": 4,
+      "sections": [
+        ["A. Why we eat", [
+          {"t": "write", "p": "Write the three reasons why we need food.", "lines": 3},
+          {"t": "fill", "p": "In our body, carbohydrates break down into ____, which gives us energy.", "a": ["glucose"]},
+          {"t": "mcq", "p": "Food is 'burnt' in the body with the help of which gas we breathe in?", "opts": ["Carbon dioxide", "Oxygen", "Steam", "Smoke"], "a": 1}
+        ]],
+        ["B. Which component?", [
+          {"t": "sort", "p": "Sort these foods by the component they give most.", "items": ["Rice", "Gur", "Ghee", "Groundnut oil", "Moong dal", "Egg", "Iodised salt", "Amla", "Carrot", "Potato", "Paneer", "Lemon"], "cats": ["Carbohydrates", "Fats", "Proteins", "Minerals", "Vitamins"]},
+          {"t": "match", "p": "Match the component to its job.", "pairs": [["Carbohydrates and fats", "Give energy"], ["Proteins", "Help the body grow and repair"], ["Minerals and vitamins", "Keep the body working and protect from diseases"]]}
+        ]],
+        ["C. Missing nutrients", [
+          {"t": "match", "p": "Match the problem to what is missing.", "pairs": [["Goitre", "Iodine"], ["Anaemia", "Iron"], ["Bleeding gums", "Vitamin C"], ["Weak bones", "Calcium and vitamin D"], ["Very thin, weak child (marasmus)", "Enough food overall"]]},
+          {"t": "fill", "p": "Food that has all five components in the right amounts is called ____ food.", "a": ["balanced", "a balanced"]},
+          {"t": "mcq", "p": "Milk is good for children but lacks:", "opts": ["Protein and fat", "Iron and vitamin C", "Calcium", "Water"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Food in real life",
+      "day": 6,
+      "sections": [
+        ["A. Fix the meal", [
+          {"t": "write", "p": "Raju's tiffin every day is plain white bread and jam. Which components are missing? Write a better tiffin using foods from your kitchen.", "lines": 3},
+          {"t": "write", "p": "A picnic lunch has puri, potato sabzi, chips and jalebi. Which component is there far too much of, and which are missing?", "lines": 3},
+          {"t": "mcq", "p": "Meena often feels tired and looks pale. A doctor says she has anaemia. Which snack would help most?", "opts": ["Chips", "Roasted black chana with gur", "A cola", "White bread"], "a": 1}
+        ]],
+        ["B. Tests and water", [
+          {"t": "mcq", "p": "A drop of iodine on a food turns blue-black. The food has:", "opts": ["Fat", "Starch", "Protein", "Vitamin C"], "a": 1},
+          {"t": "mcq", "p": "A food leaves a see-through spot on paper even after it dries. It has:", "opts": ["Water", "Starch", "Fat", "Salt"], "a": 2},
+          {"t": "write", "p": "Your little cousin has diarrhoea. What should the family give her to drink and why? How do you make it?", "lines": 3},
+          {"t": "sort", "p": "Sort the water-cleaning methods: do they remove mud only, or also kill germs?", "items": ["Alum", "Sand and charcoal filter", "Cloth filter", "Boiling", "Chlorine tablet", "Potassium permanganate"], "cats": ["Removes mud only", "Kills germs"]}
+        ]],
+        ["C. Clean kitchen", [
+          {"t": "write", "p": "Look at this kitchen: open dal pot with flies, vegetables chopped and then washed, last night's rice left out. Write three things that should change and why.", "lines": 4}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Food puzzles and scientists' arguments",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Sugar did not turn blue-black with iodine, yet sugar is a carbohydrate. How can both be true?", "lines": 2},
+          {"t": "write", "p": "People in very cold places like Ladakh often eat more butter and fat. Use the book to explain why fat helps them.", "lines": 2},
+          {"t": "mcq", "p": "Why did the government choose salt, and not, say, mangoes, to carry iodine to everyone?", "opts": ["Salt is sweet", "Almost every family uses a little salt every day all year", "Mangoes have too much iodine", "Salt is grown on trees"], "a": 1}
+        ]],
+        ["B. Fair tests", [
+          {"t": "write", "p": "James Lind gave 12 sick sailors 6 different treatments but the same food otherwise. Why was it important to keep everything else the same?", "lines": 3},
+          {"t": "write", "p": "Design a fair test to find out which keeps cut apple slices from going brown: lemon juice, salt water or plain water. What would you keep the same?", "lines": 4}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Ancel Keys blamed fat for heart disease; John Yudkin blamed sugar. Today many scientists say both matter. Why might a question like this take so long to settle?", "lines": 3},
+          {"t": "write", "p": "Experts once said hungry children mainly needed more protein. Indian scientists said they mainly needed more food. What evidence would you want to see to decide?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The starch test",
+      "day": 2,
+      "question": "Which of our everyday foods contain starch?",
+      "need": ["tincture of iodine or povidone-iodine (Betadine) with a dropper", "a steel plate or old saucer", "small pieces of cooked rice, raw potato, bread or roti, ripe banana, cucumber, cooked dal, paneer or boiled egg white", "a pinch of sugar"],
+      "steps": [
+        "Put the food pieces well apart on the plate.",
+        "Make a table: Food, My guess (starch yes/no), Colour after iodine.",
+        "The adult puts one drop of iodine on each piece.",
+        "Wait one minute and look at the colour where the drop fell.",
+        "Fill in the results: blue-black means lots of starch; brown or yellow means little or none."
+      ],
+      "predict": "Ask your child to guess first, for each food: will it turn blue-black or stay brown? Which do you think has the most starch?",
+      "observe": "Rice, potato, bread and roti turn dark blue-black. Banana may go partly dark (ripe bananas have turned much of their starch into sugar). Cucumber, paneer and egg white stay brown. Sugar stays brown. Dal may darken a little.",
+      "why": "Starch is made of very long chains of glucose joined together; plants store their food this way in seeds (grains, dal) and in stores like potatoes. The starch chains coil up like a spring, and iodine fits inside the coil, which gives a deep blue-black colour. Sugar is also a carbohydrate, but it is a tiny molecule, not a long coiled chain, so iodine cannot fit inside and the colour does not change. Our body breaks starch down into glucose, which is used for energy.",
+      "safety": "Only the adult handles iodine; it stains and should never be swallowed. Throw away all tested food afterwards. Wash hands.",
+      "time": "13 min"
+    },
+    {
+      "id": "e2",
+      "title": "The grease-spot test for fat",
+      "day": 2,
+      "question": "Which foods contain fat?",
+      "need": ["a brown paper bag or plain paper cut into squares", "a pencil", "ghee, a few groundnuts, a small piece of coconut, a biscuit, an apple slice, a piece of boiled potato, a few drops of water"],
+      "steps": [
+        "Label each paper square with one food's name.",
+        "Rub each food firmly on its own square (crush the groundnut first).",
+        "Put a few drops of water on the 'water' square to compare.",
+        "Wait 10 minutes so any water dries.",
+        "Hold each square up to a window and look for a see-through (translucent) spot."
+      ],
+      "predict": "Ask your child to guess first: which foods will leave a see-through spot? Will the water spot stay or go?",
+      "observe": "Ghee, groundnut, coconut and most biscuits leave a spot that stays see-through after drying. Apple, potato and water leave a wet patch that disappears as it dries.",
+      "why": "Paper is made of fibres with tiny air gaps between them; the gaps scatter light, so paper looks white and you cannot see through it. Fat fills those gaps and, unlike water, it does not dry up, so light passes straight through and the spot stays see-through. Water also fills the gaps for a while, but it evaporates. Fats give the body a lot of energy, more than the same weight of carbohydrate, and extra fat is stored under the skin.",
+      "safety": "Do not eat the food after rubbing it on paper. Check for nut allergies before handling groundnuts.",
+      "time": "12 min"
+    },
+    {
+      "id": "e3",
+      "title": "Does alum clear muddy water?",
+      "day": 5,
+      "question": "Does phitkari (alum) make fine mud in water settle faster? (book method, page 107)",
+      "need": ["2 identical clear glasses", "water", "a spoon of fine soil", "a small piece of phitkari (alum) tied to a thread", "a clean cloth", "a clock"],
+      "steps": [
+        "Stir the same amount of fine soil into both glasses so they look equally muddy.",
+        "Swirl the alum on its thread in glass 1 for about one minute. Do not put anything in glass 2.",
+        "Leave both glasses still. Look at them after 2, 5 and 10 minutes.",
+        "Draw both glasses each time.",
+        "Pour the top water of glass 1 through a clean cloth into a third glass."
+      ],
+      "predict": "Ask your child to guess first: will both glasses clear at the same speed, or will the alum glass clear faster?",
+      "observe": "In the alum glass, fluffy flakes form and sink, and the water above becomes clearer within minutes. The other glass stays cloudy much longer.",
+      "why": "The tiniest bits of clay in muddy water carry a small electric charge that makes them push each other away, so they stay floating. Alum dissolves into particles with the opposite charge, which cancel this out, so the clay bits stick together into bigger, heavier flakes that sink. Water works use the same idea in big tanks. But alum does not kill germs, so water cleared this way still needs boiling, chlorine or a proper purifier before drinking.",
+      "safety": "Do not drink the test water. Wash hands after handling soil and alum.",
+      "time": "10 min, with checks while you read"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "One-week food diary (book's 'Let's do and learn', page 111)",
+      "day": 1,
+      "mins": 20,
+      "need": ["a notebook page with a table: Day, Breakfast, Lunch, Snack, Dinner", "4 coloured pencils"],
+      "steps": [
+        "Each day for a week, write everything you eat soon after you eat it.",
+        "On the last day, colour each food by its main component: yellow carbohydrates, red proteins, orange fats, green vitamins and minerals.",
+        "Count the colours for each day.",
+        "Find the days or meals where a colour was missing.",
+        "Write one change to make next week's food more balanced."
+      ],
+      "outcome": "A colour-coded record of a real week of family food and one change your child chose to make it more balanced."
+    },
+    {
+      "id": "a2",
+      "title": "Design a balanced thali",
+      "day": 3,
+      "mins": 10,
+      "need": ["paper and crayons", "later: the ingredients for the planned meal"],
+      "steps": [
+        "Draw a large thali with five katoris.",
+        "Choose real foods your family eats to fill each katori.",
+        "Label each food with the component it gives most.",
+        "Check that all five components are there and nothing is overdone.",
+        "Cook and eat this thali together on one day this week."
+      ],
+      "outcome": "A child-designed balanced meal, drawn and labelled, and then cooked and eaten as a family."
+    },
+    {
+      "id": "a3",
+      "title": "Make home ORS",
+      "day": 5,
+      "mins": 8,
+      "need": ["1 litre of clean, boiled and cooled water", "sugar and salt", "a level teaspoon and a knife to level it", "a clean jug and spoon"],
+      "steps": [
+        "Wash hands with soap.",
+        "Pour exactly 1 litre of boiled, cooled water into the jug.",
+        "Add 6 level teaspoons of sugar and half a level teaspoon of salt.",
+        "Stir until everything dissolves.",
+        "Taste a sip: it should taste no saltier than tears.",
+        "Remember: made ORS should be used within a day; packet ORS from the chemist is best; a sick child still needs a doctor."
+      ],
+      "outcome": "A child who knows the exact home ORS recipe and why it matters during diarrhoea."
+    },
+    {
+      "id": "a4",
+      "title": "Bottle water filter",
+      "day": 5,
+      "mins": 10,
+      "need": ["a 1-litre plastic bottle", "scissors (adult)", "a piece of clean cloth", "crushed charcoal, clean sand, small gravel", "a glass of muddy water"],
+      "steps": [
+        "The adult cuts the bottle in half.",
+        "Turn the top half upside down and stand it in the bottom half.",
+        "Put a piece of cloth in the neck.",
+        "Add a layer of crushed charcoal, then sand, then gravel on top.",
+        "Pour in muddy water slowly and watch the water that drips through.",
+        "Compare it with the muddy water. Remember it is cleaner but not germ-free."
+      ],
+      "outcome": "A working model of the book's three-pot filter, and the understanding that clear water is not always safe water."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Christiaan Eijkman (1858–1930), Netherlands, working in Java",
+      "idea": "Eijkman, an army doctor sent to the Dutch East Indies (now Indonesia) to study beriberi, a disease of weak legs and heart, noticed in the 1890s that chickens fed polished white rice developed a beriberi-like illness, and got better when fed unpolished rice with its outer layer. At first he thought white rice contained a poison that the outer layer cured. His colleague Gerrit Grijns argued instead that the outer layer contained something the body needs.",
+      "then": "Most doctors then believed diseases were caused by germs or poisons; the idea that a disease could come from something missing in food was new and doubted. Eijkman's own first explanation turned out to be wrong.",
+      "now": "Grijns' view was right. The missing substance is thiamine (vitamin B1), found in the bran of grains. In 1912 Casimir Funk used the word 'vitamine' for such substances. Eijkman shared the 1929 Nobel Prize for this discovery with Frederick Gowland Hopkins.",
+      "status": "accepted",
+      "ask": "Eijkman found the right clue but gave the wrong explanation at first. What experiment could tell apart 'white rice has a poison' from 'white rice is missing something'?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "James Lind (1716–1794), Scotland",
+      "idea": "In 1747, as a surgeon on the ship HMS Salisbury, Lind took 12 sailors with scurvy and divided them into six pairs. All ate the same food, but each pair got a different extra treatment: cider, dilute acid, vinegar, sea water, a spicy paste, or two oranges and a lemon a day. The pair given citrus fruit recovered fastest. He published this in 1753.",
+      "then": "Lind himself was not sure citrus was the only cure, and other doctors kept suggesting other remedies. The British Navy did not give lemon juice to all sailors until 1795, decades later.",
+      "now": "Scurvy is known to be caused by a lack of vitamin C, found in amla, guava, lemon, orange and many fresh fruits and vegetables. Lind's test is remembered as one of the earliest planned comparisons of treatments, an early ancestor of today's clinical trials.",
+      "status": "accepted",
+      "ask": "Lind only had two sailors in each group. Would you trust the result more with 2 sailors or with 200? Why?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Ancel Keys (1904–2004) and John Yudkin (1910–1995)",
+      "idea": "Keys, an American scientist, led the Seven Countries Study (started in 1958) and argued that eating a lot of saturated fat (as in ghee, butter and fatty meat) raises cholesterol and causes heart disease. Yudkin, a British nutrition scientist, argued that too much sugar was a bigger danger, in his 1972 book 'Pure, White and Deadly'.",
+      "then": "Keys' view won in the 1970s and 80s, and many countries told people to eat less fat. Yudkin's warnings were largely ignored. In 2016 researchers found old letters showing that a sugar industry group had paid scientists in the 1960s to play down sugar's role.",
+      "now": "Today most health bodies, including the WHO, advise cutting down both added sugar and saturated fat. How much harm saturated fat does, and which fats are best to replace it with, is still argued among scientists. Too much added sugar is linked to tooth decay, weight gain and diabetes.",
+      "status": "debated",
+      "ask": "If one scientist says fat is the problem and another says sugar, what kind of study would you need to find out? Why might it matter who paid for a study?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "Coluthur Gopalan (1918–2019), India, and the 'protein gap' debate",
+      "idea": "In the 1950s and 60s, many international experts believed that malnutrition in poor countries was mainly a shortage of protein, and planned special protein-rich foods. Gopalan, who led the National Institute of Nutrition in Hyderabad, and other nutrition scientists found that most undernourished Indian children were short of food in total, and that ordinary cereal-and-dal diets, eaten in enough quantity, gave them enough protein too.",
+      "then": "This went against the leading view of international agencies at the time. In 1974 the nutrition scientist Donald McLaren wrote a famous article in The Lancet called 'The great protein fiasco', arguing that the protein-gap idea had been a costly mistake.",
+      "now": "Nutritionists now agree that the main problem for most undernourished children is too little food overall (energy), together with missing vitamins and minerals, rather than protein alone; good-quality protein still matters, especially for small children. Gopalan's team also produced 'Nutritive Value of Indian Foods', still used by Indian dieticians.",
+      "status": "accepted",
+      "ask": "Two groups of experts disagreed about what hungry children needed most. Why would it be important to measure what real children eat in Indian villages, rather than guess?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "Give three reasons why we need food.", "a": "It gives energy, it helps the body grow and repair itself, and it protects us from diseases."},
+    {"q": "Name the five components of food with one food for each.", "a": "Carbohydrates (rice, roti, potato), fats (ghee, oil, groundnut), proteins (dal, milk, egg), minerals (iodised salt, green vegetables), vitamins (amla, carrot, orange)."},
+    {"q": "What is a balanced diet?", "a": "Food that has all five components in the right amounts, such as grains, pulses, vegetables, seasonal fruit and a little ghee or oil."},
+    {"q": "How can you test a food for starch? For fat?", "a": "A drop of iodine turns starchy food blue-black. Fatty food rubbed on paper leaves a see-through spot that stays after drying."},
+    {"q": "What illness comes from too little iodine, and how do we prevent it? What about too little vitamin C?", "a": "Goitre, a swelling in the neck; we use iodised salt. Too little vitamin C causes bleeding gums (scurvy); we eat amla, lemon, orange, guava."},
+    {"q": "What should a person drink during diarrhoea, and why?", "a": "ORS, or water with salt and sugar, lemonade, soups or dal water, because the body loses a lot of water and salts, which can be dangerous."},
+    {"q": "Name four ways to make dirty water safe. Which of them kill germs?", "a": "Alum, a sand-gravel-charcoal filter, chlorine tablets or potassium permanganate, boiling, and modern purifiers. Chlorine, potassium permanganate, boiling and good purifiers kill germs; alum and simple filters only remove dirt."},
+    {"q": "Why should we wash vegetables before cutting them, and wash hands before eating?", "a": "Washing after cutting washes away nutrients and spreads dirt onto the cut pieces. Washing hands removes germs that could get onto our food and cause diseases like diarrhoea."}
+  ]
+}

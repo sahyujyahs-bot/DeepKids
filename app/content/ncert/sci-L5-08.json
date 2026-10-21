@@ -1,0 +1,1093 @@
+{
+  "key": "ncert|sci|5|8",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 8,
+  "title": "Clothes — How Things are Made",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 4 'Things Around Us', Chapter 8 (pages 131–144), Reprint 2026-27",
+  "summary": "Starting with nature's weavers, the baya weaver and the tailorbird, your child learns how cloth is made: fibres are twisted (spun) into thread, and threads are crossed over and under (woven) into fabric. They weave a paper mat and a small cardboard-loom bookmark, spin a cotton thread on a pencil, compare natural fibres (cotton, linen, wool, silk, jute, bamboo) with synthetic ones (nylon, polyester), follow the life cycle of the silk moth, stitch a running stitch, make a leaf plate, and discover India's handloom and embroidery traditions and our habit of reusing old cloth.",
+  "goals": [
+    "By the end your child can explain weaving (two sets of threads crossing over and under each other) and spinning (twisting fibres into a thread), and show both with their own hands.",
+    "By the end your child can sort fabrics into natural fibres (cotton, linen, wool, silk, jute, bamboo) and synthetic fibres (nylon, polyester), say where each natural fibre comes from, and test them for water soaking.",
+    "By the end your child can tell the life cycle of the silk moth in the right order: eggs, caterpillar, cocoon, moth.",
+    "By the end your child can sew a neat running stitch to join two pieces of cloth, safely handling a needle.",
+    "By the end your child can name at least four Indian weaving or embroidery traditions and the states they come from, and find the one famous in their own state.",
+    "By the end your child can explain why reusing old cloth matters, and weigh two live debates: tiny plastic fibres from synthetic clothes, and whether silk can be made without harming the silkworm."
+  ],
+  "words": [
+    [
+      "fibre",
+      "a very thin, hair-like strand, such as one strand of cotton or wool; many fibres twisted together make a thread"
+    ],
+    [
+      "spinning",
+      "twisting fibres together to make a long, strong thread or yarn"
+    ],
+    [
+      "yarn",
+      "a long thread made by spinning fibres, used for weaving or knitting"
+    ],
+    [
+      "weaving",
+      "crossing one set of threads (going up and down) over and under another set (going across) to make cloth, mats or baskets"
+    ],
+    [
+      "loom",
+      "a frame or machine that holds threads tight so they can be woven into cloth"
+    ],
+    [
+      "handloom",
+      "cloth woven by hand on a loom, without electric machines"
+    ],
+    [
+      "charkha",
+      "a spinning wheel used to spin cotton into thread"
+    ],
+    [
+      "khadi",
+      "cloth that is hand-spun and hand-woven, made a symbol of India's freedom struggle by Gandhi ji"
+    ],
+    [
+      "natural fibre",
+      "a fibre that comes from plants or animals, like cotton, jute, linen, wool or silk"
+    ],
+    [
+      "synthetic fibre",
+      "a fibre made by people in factories from chemicals, often from petroleum, like nylon and polyester"
+    ],
+    [
+      "cocoon",
+      "the case a silkworm caterpillar spins around itself from one long silk thread before it turns into a moth"
+    ],
+    [
+      "embroidery",
+      "decorating cloth with stitches of coloured thread, like chikankari, phulkari and kantha"
+    ]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Nature's hidden weavers",
+      "goal": "Discover that birds and spiders weave and join things, learn how the baya weaver makes its nest, and weave our own paper mat.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What is your shirt made of?",
+          "mins": 6,
+          "do": "Ask your child to pinch the cloth of their own shirt or frock. Ask: 'Where did this cloth come from? Before the shop, before the factory, what was it?' Let them guess freely. Then pick up a jute bag, a chatai (floor mat) or a cane basket if you have one, and ask: 'How are this mat and your shirt alike?' Good answer: 'Both are made of strips or threads going in and out.' Tell them: 'This week we will find out exactly how thread and cloth are made, and you will make some yourself.'"
+        },
+        {
+          "kind": "read",
+          "title": "Hidden artists and the baya weaver (pages 131–132)",
+          "mins": 9,
+          "do": "Read page 131 aloud: nature is full of hidden artists who weave, stitch and glue. Look at the picture and ask: 'What do you see?' (Hanging grass nests.) Read the riddle: 'a hidden artist who has been weaving long before humans ever did'. Then read page 132 about the male baya weaver, who weaves strands of grass over and under to build a pouch-shaped nest hanging from a branch, and how young birds make rough nests while experts make fine ones. Ask: 'Why does the nest hang from a thin branch, often over water?' (Snakes, cats and monkeys find it hard to reach.) Ask: 'Why do young birds make rough nests?' (They are still learning; weaving takes practice, for birds and for people.) Read the box on page 132 that defines weaving: one set of threads goes up and down (vertical), the other goes across (horizontal), crossing over and under."
+        },
+        {
+          "kind": "talk",
+          "title": "Woven things at home (page 133)",
+          "mins": 6,
+          "do": "Do the Discuss question on page 133: 'Have you seen products woven out of natural material at home or elsewhere?' Walk around the home together for 4 minutes and list them: a chatai or straw mat, a jute or cloth bag, a cane chair seat, a bamboo basket or soop (winnowing tray), a coir doormat (from coconut husk), a charpai's rope bed, a towel, bedsheets. For each, ask: 'What material is it made from: coconut fibre, palm, bamboo, grass, jute, cotton or silk?' (These are the materials named on page 132.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: weave a paper mat (page 133)",
+          "mins": 20,
+          "do": "Do Activity a1, the book's Activity 1 on page 133. Cut 6 blue (or any colour) paper strips about 2 cm wide and 20 cm long and tape their tops in a row on the table. Cut 6 yellow strips. Your child weaves the first yellow strip over, under, over, under; the second one starts under, over, under, over. Push each strip up close to the last. Ask: 'What happens if you start the second strip the same way as the first?' (It just slides out; the mat falls apart, because the strips must lock each other.) Finish and tape the edges. Then try the book's question: 'Can you use this method to make a basket?' Fold up the edges of the woven mat at the corners and tape them to make a small tray-basket. If time allows, try the extension on page 133 with ribbons, string or coconut-leaf strips.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Weaving words",
+          "mins": 4,
+          "do": "Hold up the finished mat. Ask your child to point to the strips that go up and down and the strips that go across. Teach the weavers' words: the threads stretched tight up and down on a loom are called the warp, and the threads woven across are the weft. Ask: 'In your mat, which colour is the warp?' (The taped blue ones.) Write 'weaving = over, under' in the notebook with a small drawing."
+        }
+      ],
+      "need": [
+        "Textbook pages 131–133",
+        "coloured paper or old magazine pages, a ruler, scissors, sticky tape",
+        "a mat, jute bag or basket from home to look at",
+        "optional: ribbons, string or strips of coconut leaf"
+      ],
+      "prep": [
+        {
+          "task": "Cut 12 paper strips (6 of each colour), about 2 cm by 20 cm, or let your child cut them in the lesson",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Cloth up close and India's handlooms",
+      "goal": "See the criss-cross pattern of real cloth under a magnifier, learn that India has woven cloth by hand for thousands of years, and set up a small cardboard loom.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Book Activity 2: zoom in on cloth (page 134)",
+          "mins": 10,
+          "do": "Do Activity 2 on page 134. Read the top of page 134: if we weave with threads instead of paper strips, it becomes cloth. Look at 4 fabrics with a magnifying glass or the zoom on a phone camera: a cotton shirt or handkerchief, a gamchha or towel, a jute bag and a knitted sweater or T-shirt. Ask: 'Can you see the criss-cross pattern?' In the shirt and jute you see threads crossing over and under, just like the paper mat. In the T-shirt or sweater you see little loops instead; tell your child this is knitting, a different way of making fabric from one long thread. Have them draw what they see in each in four boxes in the notebook."
+        },
+        {
+          "kind": "read",
+          "title": "Traditions of weaving (pages 134–135)",
+          "mins": 8,
+          "do": "Read the 'Traditions of Weaving' part on pages 134–135: people in India wove 4,000 years ago, traditional weaving is done by hand on a loom, and that cloth is called handloom fabric. Read the 'Do you know?' box about Kanjeevaram from Tamil Nadu, Pashmina from Kashmir and Ikat from Odisha and Gujarat; find these places on a map. Read the fun facts on pages 132–133: the handloom sector employs over 45 lakh people, and Indian muslin was so fine it was called 'woven air'. Ask: 'Why is weaving special for India, apart from clothes?' (It gives work to many families and keeps traditional skills and designs alive, as page 135 says.) Then read the line about textile mills using machines to make cloth in large amounts, and ask: 'What is one good thing about mill cloth and one good thing about handloom?' (Mill cloth is cheaper and faster; handloom keeps skills alive, uses no electricity and each piece is special.)"
+        },
+        {
+          "kind": "act",
+          "title": "Set up a cardboard loom",
+          "mins": 20,
+          "do": "Start Activity a2. Cut a piece of stiff cardboard (from a carton) about 10 cm by 15 cm. Cut 9 small notches 1 cm apart along each short end. Your child winds wool or thick cotton thread round and round the card through the notches, top to bottom, to make the warp: tight like guitar strings. Tape the ends at the back. Then tie a different-coloured thread or wool to a blunt plastic needle, a hairpin or an ice-cream stick with a hole, and weave the first few rows of weft: over, under, over, under, and back the other way under, over. After each row, push it down gently with a comb. Tell them this is how a real loom works; they will add rows over the next days to finish a bookmark.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Which weaving is from our state?",
+          "mins": 7,
+          "do": "Start Let us reflect question 4 from page 143: 'Find out what kind of weaving or stitching work is famous in your area or state.' Ask your child to guess, then call a grandparent or look at a saree or dupatta in the cupboard together. Examples: Banarasi silk (Uttar Pradesh), Kanjeevaram (Tamil Nadu), Pochampally ikat (Telangana), Chanderi and Maheshwari (Madhya Pradesh), Paithani (Maharashtra), Sambalpuri (Odisha), Muga silk (Assam), Patola (Gujarat), Kasavu (Kerala), Jamdani (West Bengal). Write the answer in the notebook. If you have a handloom piece at home, show it and look for small irregularities that show it was made by hand."
+        }
+      ],
+      "need": [
+        "Textbook pages 132–135",
+        "a magnifying glass or phone camera",
+        "4 fabrics: a cotton shirt or handkerchief, a towel or gamchha, a jute bag, a T-shirt or sweater",
+        "stiff cardboard, scissors, ruler, wool or thick cotton thread in 2 colours, tape, a comb, a blunt needle or hairpin",
+        "a map of India"
+      ],
+      "prep": [
+        {
+          "task": "Collect wool or thick thread in two colours and a stiff piece of cardboard for the loom",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Spinning: from fluffy cotton to strong thread",
+      "goal": "Spin a cotton thread on a pencil, prove with coins that twisting makes fibres strong, meet the charkha and khadi, and find out how archaeologists traced cotton in India back 8,000 years.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Book Activity 3: spin with a pencil (pages 135–136)",
+          "mins": 10,
+          "do": "Do Activity 3 on page 135. Give your child a ball of cotton wool. They gently pull out a thin strand from the edge. Then they twist it slowly between finger and thumb as they pull, and feel it get stronger. Next, tie the start of the strand to a pencil, and twist the pencil while drawing out more cotton from the ball with the other hand, winding the thread onto the pencil as it grows. Read page 136: this twisting is called spinning, and a charkha does the same job as the pencil. Then untwist the end of your thread and pull out a single tiny hair: 'This is a fibre.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Does twisting make it stronger?",
+          "mins": 12,
+          "do": "Do Experiment e1. Pull out two equal strands of cotton, each about 20 cm long and the same thickness. Leave one loose and fluffy; twist the other tightly. Hang a small plastic bag or a paper cup from each with a hook made from a paper clip. Ask your child to guess first: 'Which strand will hold more coins before it breaks?' Add one-rupee coins one at a time to each bag and count. The loose strand usually snaps or pulls apart after very few coins; the twisted one holds many more. Explain the 'why' from e1: twisting squeezes the fibres together so they grip each other and share the weight.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Gandhi ji, the charkha and khadi (page 136)",
+          "mins": 7,
+          "do": "Read the 'Do you know?' box on page 136. Explain in more detail: about a hundred years ago, most cloth sold in India was made in British mills from Indian cotton, and Indian spinners and weavers lost their work. Gandhi ji asked Indians to spin their own thread on the charkha and wear khadi, hand-spun and hand-woven cloth, so that the money and work stayed in Indian villages. The charkha became such a symbol of freedom that it was on the flag of the Indian National Congress before independence; today's national flag has the Ashoka Chakra in its place. Ask: 'What does atmanirbhar mean?' (Self-reliant: able to make what we need ourselves.) Ask: 'Why would wearing khadi help a village weaver?'"
+        },
+        {
+          "kind": "think",
+          "title": "The 8,000-year-old cotton thread",
+          "mins": 10,
+          "do": "Read the fun fact on page 135: India was the first country to cultivate cotton to make clothes. Ask: 'How could anyone know that, if cloth rots away?' Let your child think. Then share Voice v1 in your own words: at Mehrgarh, an ancient village site in today's Pakistan, archaeologists found a copper bead from about 8,000 years ago, and inside it, turned to metal salts, were the remains of cotton fibres from the thread it was strung on. Later, at Mohenjo-daro in the Indus Valley, bits of cotton cloth were found stuck to a silver pot. Ask the voice question and let your child answer fully.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Loom rows",
+          "mins": 6,
+          "do": "Weave 6 more rows on the cardboard loom from Activity a2. Remind your child to go the opposite way on each new row and not to pull the weft too tight at the edges (or the bookmark will get thin in the middle, which weavers call 'waisting'). Ask: 'Which part is the warp and which the weft?'",
+          "ref": "a2"
+        }
+      ],
+      "need": [
+        "Textbook pages 135–136",
+        "a packet of cotton wool, a pencil",
+        "2 small plastic bags or paper cups, 2 paper clips, about 20 one-rupee coins",
+        "the cardboard loom from Day 2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Natural fibres and the silk moth",
+      "goal": "Meet the natural fibres from plants and animals, follow the silk moth's life cycle, test which fabrics soak up water, and think about whether silk can be made without killing the silkworm.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Natural fibres (page 136)",
+          "mins": 8,
+          "do": "Read the 'Natural fibres' part on page 136 and look at the pictures: bamboo, cotton, linen, wool and silk. Draw a two-column table: 'From plants' and 'From animals'. Your child fills it: plants: cotton (fluff around cotton seeds), linen (stem of the flax plant), jute (stem of the jute plant; read the fact on page 137 that India is the largest producer of jute), bamboo, coir (coconut husk); animals: wool (hair of sheep, goats, camels), silk (cocoon of the silk moth). Read the page 139 fact about Pashmina from the Changthangi goats of Ladakh. Ask: 'Why do the Changthangi goats have such soft, warm hair?' (They live high in the cold mountains; a fine under-coat keeps them warm.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Life cycle of the silk moth (pages 136–137)",
+          "mins": 10,
+          "do": "Read the silk paragraph on page 136 and look at the life cycle picture on page 137: 1 silkworm eggs, 2 caterpillar, 3 cocoon, 4 moth. Explain each stage: tiny eggs hatch into caterpillars (called silkworms, though they are not worms) that eat only mulberry leaves and grow thousands of times heavier in about a month; each caterpillar spins one single, unbroken silk thread, several hundred metres long, round and round itself to make a cocoon; inside, it changes into a moth; the moth pushes out, lays eggs and the cycle begins again. Your child draws the cycle as a circle with arrows. Then tell them honestly what page 136 means: to keep the thread in one long piece, most cocoons are put in hot water before the moth comes out, and the insect inside dies."
+        },
+        {
+          "kind": "think",
+          "title": "Can silk be made without harm?",
+          "mins": 9,
+          "do": "Share Voice v3 in your own words: Kusuma Rajaiah, a handloom officer in Andhra Pradesh, developed 'ahimsa silk', where the moth is allowed to come out of the cocoon before the silk is used; the broken threads are spun like cotton instead of being unwound in one piece. In Assam, eri silk has long been made like this. But ahimsa silk is more costly and less shiny, and some people argue the moths still do not live long. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "The water drop test",
+          "mins": 15,
+          "do": "Do Experiment e2. Lay small squares of 4 or 5 fabrics side by side on a steel plate: cotton, wool, silk (or a silk saree's border), polyester (many sports T-shirts and linings) and jute. Ask your child to guess first: 'Which will soak up a drop of water fastest? Which will let it sit on top?' Using a dropper or a spoon, put one drop on each at the same moment and count seconds until it disappears into the cloth. Record in a table. Usually cotton and jute soak it in quickly, wool lets it sit and then slowly soak, and polyester lets it bead up or spread without soaking in. Ask: 'Which fabric would you choose for a towel? For a raincoat? For a hot day?' Read the 'why' from e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Loom rows",
+          "mins": 3,
+          "do": "Add a few rows to the cardboard loom from Activity a2, perhaps in a new colour to make a stripe. Ask: 'Is your wool a natural or a synthetic fibre? How could you test it?'",
+          "ref": "a2"
+        }
+      ],
+      "need": [
+        "Textbook pages 136–137, 139",
+        "small squares of cotton, wool, silk, polyester and jute cloth",
+        "a steel plate, a dropper or spoon, water, a clock",
+        "the cardboard loom"
+      ],
+      "prep": [
+        {
+          "task": "Cut small squares from old cloth: cotton, wool, silk, polyester and jute (a tailor will often give scraps free)",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Synthetic fibres and the clothes we wear",
+      "goal": "Learn that synthetic fibres like nylon and polyester are made in factories, find out what our own clothes are made of from their labels, play Fibre Detective, and look at the debate about tiny plastic fibres.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Synthetic fibres (page 137)",
+          "mins": 6,
+          "do": "Read the part on page 137: synthetic fibres are made by humans using artificial materials, and the pictures show nylon, polyester, terylene and rayon. Explain: nylon and polyester are made in factories from chemicals that mostly come from petroleum (the same crude oil petrol comes from), so they are a kind of plastic stretched into threads; terylene is a brand of polyester. Tell your child honestly that rayon is a bit different: it is made by factories from wood pulp, so it starts from a plant but is changed so much by chemicals that it is grouped with man-made fibres. Ask: 'Why might people like synthetic cloth?' (Strong, cheap, dries fast, doesn't crease much.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 4: label hunt (page 138)",
+          "mins": 12,
+          "do": "Do Activity a5, the book's Activity 4 on page 138. Copy the table: Item, Natural, Synthetic, What I like about it. Your child finds the label inside 6–8 clothes, bags and household things (school uniform, a sports T-shirt, a sweater, a saree, a bedsheet, a school bag, a towel, socks) and reads what they are made of. Many say '100% cotton', '65% polyester 35% cotton' or 'nylon'. Tick the right column; if it is a mix (a blend), tick both. Ask: 'Which do we have more of in our home, natural or synthetic?' Ask: 'Why is a school bag usually nylon or polyester and not cotton?' (It is stronger and keeps rain off books.)",
+          "ref": "a5"
+        },
+        {
+          "kind": "think",
+          "title": "Tiny plastic threads in the sea",
+          "mins": 9,
+          "do": "Share Voice v2 in your own words: in 2011, a scientist named Mark Browne found that sand on beaches around the world had tiny plastic threads in it, mostly polyester and acrylic, and showed that washing one synthetic garment can release hundreds or even more than a thousand of these fibres, which go down the drain to rivers and the sea. Scientists agree the fibres are now everywhere, but how much harm they do to animals and people is still being studied. Ask the voice question. Ask: 'What could a family do?' (Buy fewer clothes, wear them longer, choose natural fibres sometimes, wash full loads less often.)",
+          "ref": "v2"
+        },
+        {
+          "kind": "game",
+          "title": "Fibre Detective",
+          "mins": 10,
+          "do": "Put the fabric squares from Day 4 into envelopes or behind your back. Read one clue card at a time; your child feels the mystery fabric, may do a water-drop test, and names the fibre. Clues: 'I soak up water fast and I come from a fluffy seed' (cotton). 'I come from a caterpillar and I shine' (silk). 'I keep sheep warm and I feel a bit scratchy' (wool). 'I am made in a factory from oil and water rolls off me' (polyester). 'I am rough and brown and I make gunny sacks' (jute). Score 3 points for guessing after one clue, 2 after two, 1 after three. Then swap: your child writes clues for you."
+        },
+        {
+          "kind": "talk",
+          "title": "Safety: what to wear near a flame",
+          "mins": 8,
+          "do": "Ask: 'Which would be safer to wear while cooking at the gas stove or lighting diyas at Diwali: cotton or polyester?' Explain: if synthetic cloth catches fire, it melts into hot, sticky drops that stick to the skin and cause very bad burns; cotton burns but does not melt and stick. That is why many families wear cotton while cooking and during Diwali. Do not test this at home. Then ask your child to add a 'Good for' column to their label table: e.g. cotton: hot days, kitchen; polyester: rain, sports; wool: winter."
+        }
+      ],
+      "need": [
+        "Textbook pages 137–138",
+        "6–8 clothes and bags with labels",
+        "the fabric squares from Day 4, envelopes, clue cards",
+        "notebook"
+      ],
+      "prep": [
+        {
+          "task": "Write the five Fibre Detective clue cards",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "The tailorbird, leaf plates and natural dyes",
+      "goal": "Learn how the tailorbird sews its nest, make a leaf plate stitched with twigs like a pattal, and colour cloth with turmeric and onion-skin dyes.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The tailorbird (pages 138–139)",
+          "mins": 7,
+          "do": "Read 'Crafting with Needle and Thread' on pages 138–139: the tiny green tailorbird pokes holes along the edges of a big leaf with its beak and pulls plant fibres or spider silk through, like a tailor, to make a sleeve, then pads it to make a soft nest. Ask: 'What does the tailorbird use as its needle? As its thread?' (Its beak; plant fibres or spider silk.) Ask: 'Why would it choose a big leaf that is still on the plant?' (The leaf stays green and alive, so it does not dry out and fall, and it hides the nest.) If you live near a garden, tell your child the tailorbird's loud 'towit-towit' call is common in Indian gardens and listen for it on your next walk."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 5: leaf plate (page 139)",
+          "mins": 15,
+          "do": "Do Activity a3, the book's Activity 5 on page 139. Collect 6–8 fresh broad leaves: palash, teak, sal, banana, jackfruit, or even large peepal leaves (or use paper if none are available). Your child overlaps the leaves in a circle and pins them together with toothpicks or thin twigs (neem or coconut-leaf midribs are traditional), pushing each pin in and out like a stitch. Lay a smaller circle in the middle to make it stronger, and fold up the edge to make a bowl (a donna). Tell them: in many parts of India, people still eat at weddings and temples on pattal or patravali plates made this way, and after use they rot back into the soil in a few weeks. Ask: 'How is a leaf plate better than a plastic plate?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "exp",
+          "title": "Natural dyes with haldi and onion skins",
+          "mins": 18,
+          "do": "Do Experiment e3. An adult boils two small pans: one with 2 teaspoons haldi in 2 cups water, one with the dry skins of 4–5 onions in 2 cups water, for 10 minutes. Meanwhile, your child ties two white cotton strips tightly in a few places with thread (this is how bandhani works: read the fact on page 141). Ask your child to guess first: 'What colour will each dye make? Will the tied parts take colour?' The adult dips one strip in each pan for 5 minutes, then lifts them out with tongs into a bowl to cool. Untie and look: haldi gives bright yellow, onion skins give orange-brown, and the tied spots stay white in patterns. Then put a drop of soap water or a pinch of baking soda solution on the haldi strip: it turns reddish-brown. Read the 'why' from e3.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Which is most natural?",
+          "mins": 5,
+          "do": "Ask your child to rank these from 'most natural' to 'least natural' and explain: a leaf plate pinned with twigs, a khadi kurta dyed with indigo, a polyester football jersey, a cotton T-shirt dyed with factory dyes. There is room for argument; the point is to say why. Then hang the dyed strips to dry; they will go in the exhibition on Day 9."
+        }
+      ],
+      "need": [
+        "Textbook pages 138–139, 141",
+        "6–8 broad leaves (palash, teak, sal, banana, jackfruit) or paper, toothpicks or thin twigs",
+        "2 old pans, 2 teaspoons haldi, skins of 4–5 onions, water, a stove (adult use), tongs, a bowl",
+        "2–4 strips of plain white cotton cloth, thread",
+        "soap water or baking soda"
+      ],
+      "prep": [
+        {
+          "task": "Save the dry outer skins of 4–5 onions and collect broad leaves (or ask a temple or flower seller for banana leaf pieces)",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Running stitch and joining cloth",
+      "goal": "Learn the running stitch, join two pieces of cloth to start a mat or coaster, and find out what happens when one thread breaks.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Stitching around us (page 139)",
+          "mins": 5,
+          "do": "Do the questions in Activity 6 on page 139. 'Have you ever seen someone stitching at home or in your neighbourhood? What were they making or fixing?' (A tailor making a blouse, Nani darning a sock, Amma sewing a button, a cobbler stitching a chappal.) 'Look at your shirt or school bag. Can you find where the pieces have been stitched together?' Turn a shirt inside out and look at the side seams, the sleeve joins and the collar; count how many separate pieces of cloth make one shirt (often 8 to 12)."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activities 7 and 8: running stitch and joining cloth (pages 140–141)",
+          "mins": 22,
+          "do": "Do Activity a4, the book's Activities 7 and 8 on pages 140–141. Explain the needle safety rules first: sit at a table, keep the needle in a pincushion or a bar of soap when not in use, never put it in your mouth, and count needles in and out. Thread a large-eyed needle with about 50 cm of thick thread and tie a knot. Draw a straight pencil line on a cloth scrap and dots every 1 cm, marked A, B, C, D as on page 140. Your child comes up from the back at A, down at B, up at C, down at D, and keeps going: up, down, up, down. Then lay a second scrap overlapping the first by 2 cm and join them with a running stitch along the overlap. Ask the page 141 question: 'Where else can we use running stitches in daily life?' (Hemming a curtain, gathering a frill, quick repairs, basting before machine stitching, kantha quilts.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "exp",
+          "title": "What if one thread breaks?",
+          "mins": 10,
+          "do": "Do Experiment e4. Take the paper mat from Day 1 and a spare joined cloth sample. Ask your child to guess first: 'If I cut one thread of the running stitch, what will happen to the rest? If I cut one strip of the mat?' Snip one stitch in the middle of the running stitch line and pull the two cloths gently apart: the thread slides out of the neighbouring holes and a gap opens, and with a pull, much of the seam undoes. Snip one strip of the paper mat at the edge: the strips near it loosen and can slide out. Answer the question on page 141 and Let us reflect question 2 on page 143: 'Why is each thread important?' Read the 'why' from e4. Show a backstitch or a knot every few stitches as a fix.",
+          "ref": "e4"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 8,
+          "do": "Give Worksheet ws1 (core). Your child reads each question aloud and answers. Help only by pointing to the right page: page 132 for weaving, page 136 for spinning and fibres, page 137 for the life cycle and synthetic fibres. Check together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Textbook pages 139–141, 143",
+        "a large-eyed needle, thick thread, scissors, a pincushion or bar of soap",
+        "4–6 scraps of cotton cloth (from a tailor), a pencil and ruler",
+        "the paper mat from Day 1",
+        "Worksheet ws1"
+      ],
+      "prep": [
+        {
+          "task": "Get leftover cloth scraps from a tailor's shop and thread a needle for practice",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Stitch and decorate: embroideries of India and reusing cloth",
+      "goal": "Explore eight embroidery traditions of India, learn about our habit of reusing old clothes and making quilts, finish the loom bookmark and try the harder worksheets.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Traditional embroideries of India (pages 141–142)",
+          "mins": 10,
+          "do": "Read 'Stitch and Decorate' on page 141 and look at the eight embroideries on pages 141–142: Chikankari (Lucknow, Uttar Pradesh), Banjara (Rajasthan), Kantha (West Bengal, Odisha, Tripura), Gota (Rajasthan), Phulkari (Punjab), Toda (Tamil Nadu), Kashmiri (Kashmir) and Khneng embroidery (Meghalaya). Your child finds each state on a map and puts a small mark. For each picture, ask: 'What do you notice: fine white threads, bright flowers, mirrors, shiny gold ribbon, red and black patterns?' Tell them a little: chikankari is white thread on fine white cotton; phulkari means 'flower work'; gota uses gold or silver ribbon; Toda embroidery is red and black on white, made by the Toda people of the Nilgiris; kantha is running stitch through layers of old saris. Read the facts on pages 142 and 144 about Kala cotton from Gujarat and the Patola saree that takes 6 months to a year."
+        },
+        {
+          "kind": "read",
+          "title": "Recycle: nothing is wasted (page 142)",
+          "mins": 7,
+          "do": "Read the 'Recycle' part on page 142: people in our country rarely throw clothes away; we hand them down to younger siblings, elders make something else, and there is an old tradition of quilts from small pieces. Ask your child Let us reflect questions 1 and 5 on page 143: 'Have you ever reused an old piece of cloth? What did your family make from it?' (Pochha or dusting cloth, a bag, a cushion cover, a godhadi or kantha quilt, a baby's jhoola.) 'Why should we not throw old clothes away?' Good answers: making new cloth uses lots of water, energy and land (a cotton T-shirt needs thousands of litres of water to grow its cotton), synthetic clothes do not rot for a very long time, and someone else can still use them."
+        },
+        {
+          "kind": "act",
+          "title": "Finish the loom bookmark",
+          "mins": 10,
+          "do": "Finish Activity a2. Weave until the cardboard is nearly full. Then carefully slip the loops off the notches at one end, cut them in pairs and tie each pair in a knot so the weaving cannot slide off; do the same at the other end to make a tassel. Trim. Ask: 'What did a handloom weaver do that you did?' (Set up the warp, wove the weft, beat it down with a comb, tied off the ends.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Give Worksheet ws2 (stretch). Your child works alone for 8 minutes, then you check it together. Ask them to explain aloud why they chose jute for the gunny sack and nylon for the raincoat.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet, Section A",
+          "mins": 8,
+          "do": "Do Section A of Worksheet ws3 (challenge) together, talking through each puzzle before writing: how a bead can preserve cotton fibres, why people still buy slow handwoven Patola sarees, and what happens if every mat row starts the same way. Keep Sections B and C for a free afternoon.",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "Textbook pages 141–144",
+        "a map of India",
+        "the cardboard loom and scissors",
+        "Worksheets ws2 and ws3"
+      ],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, exhibition, check and teach it back",
+      "goal": "Complete the cloth-scrap table, answer the reflection questions, hold a home exhibition, check understanding and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Cloth-scrap table and the moth cycle (pages 143–144)",
+          "mins": 12,
+          "do": "Do Let us reflect question 7 on page 144 with the fabric squares from Day 4 plus any new tailor scraps. Copy the table: Cloth piece no., How does it feel? (smooth, rough), Shiny (Yes/No), Thick/Thin, Stretchy (Yes/No), What do you think it is made of? Fill five rows, using touch, the water drop test and labels. Then do question 6 on page 143: number the jumbled life cycle of the moth: 1 Silk moth lays eggs; 2 Eggs hatch into tiny caterpillars; 3 Caterpillars eat mulberry leaves and grow big; 4 Caterpillars spin cocoons around themselves; 5 Adult moth comes out of the cocoon; 6 The cycle begins again."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Tailor or handloom visit (page 143)",
+          "mins": 8,
+          "do": "Do Let us reflect question 3 on page 143: visit a local tailor's shop or a handloom or khadi store with your child (do this on the way to the market if it is easier, or call the tailor on video). Ask your child to list the tools and machines they see: sewing machine (foot pedal or electric), scissors, measuring tape, chalk, iron, thread spools, needles, buttons, pattern papers. Your child asks the tailor one question they have prepared, for example 'How long does it take to stitch one shirt?' or 'Which cloth is hardest to sew?'"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page together for a minute (page 132 for weaving, page 136 for spinning, page 137 for silk and synthetic fibres, page 140 for running stitch), then ask again in different words. Six or more right is good; fewer than five means redo Day 3 spinning and Day 4 fibres next week."
+        },
+        {
+          "kind": "review",
+          "title": "Exhibition and teach it back (page 143)",
+          "mins": 15,
+          "do": "Hold the 'Exhibition' from page 143 at home. Your child lays out everything made this week: paper mat and basket, the spun cotton on the pencil, the loom bookmark, the dyed strips, the leaf plate and the stitched cloth. They write a name tag and one sentence for each ('Woven paper mat: strips go over and under, like a baya's nest'). Invite family members. Then your child teaches the chapter as the 'museum guide' in 5 minutes: nature's weavers, spinning, weaving, natural and synthetic fibres, the silk moth, stitching, embroideries of India and reusing cloth. Visitors ask two questions, such as 'Why does twisting cotton make it strong?' and 'Why do people wear cotton near a flame?'"
+        }
+      ],
+      "need": [
+        "Textbook pages 143–144",
+        "fabric squares and scraps",
+        "everything made this week, small paper cards for name tags",
+        "a visit to a tailor or handloom store (or a video call)"
+      ],
+      "prep": [
+        {
+          "task": "Arrange a short visit to a tailor's shop or handloom store, or a video call with the tailor",
+          "when": "2 days before"
+        }
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Fibres, threads and cloth",
+      "day": 7,
+      "sections": [
+        [
+          "A. Weaving and spinning",
+          [
+            {
+              "t": "fill",
+              "p": "Twisting cotton fibres together to make thread is called ____.",
+              "a": [
+                "spinning"
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Crossing threads over and under each other to make cloth is called ____.",
+              "a": [
+                "weaving"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "The bird that weaves a hanging nest of grass is the:",
+              "opts": [
+                "Tailorbird",
+                "Baya weaver",
+                "Crow",
+                "Peacock"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "Cloth that is hand-spun and hand-woven, made famous by Gandhi ji, is called:",
+              "opts": [
+                "Nylon",
+                "Khadi",
+                "Polyester",
+                "Rayon"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Natural or synthetic?",
+          [
+            {
+              "t": "sort",
+              "p": "Sort these fibres.",
+              "items": [
+                "Cotton",
+                "Nylon",
+                "Wool",
+                "Polyester",
+                "Silk",
+                "Jute",
+                "Linen",
+                "Terylene"
+              ],
+              "cats": [
+                "Natural",
+                "Synthetic"
+              ]
+            },
+            {
+              "t": "match",
+              "p": "Match each fibre to where it comes from.",
+              "pairs": [
+                [
+                  "Cotton",
+                  "The fluff around the seeds of the cotton plant"
+                ],
+                [
+                  "Wool",
+                  "The hair of sheep and goats"
+                ],
+                [
+                  "Silk",
+                  "The cocoon of the silk moth"
+                ],
+                [
+                  "Jute",
+                  "The stem of the jute plant"
+                ],
+                [
+                  "Polyester",
+                  "Chemicals made in a factory, mostly from petroleum"
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Silk moth and stitching",
+          [
+            {
+              "t": "table",
+              "p": "Write the four stages of the silk moth's life cycle in order.",
+              "cols": [
+                "Stage number",
+                "Stage"
+              ],
+              "rows": 4,
+              "prefill": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "In a running stitch, the needle goes:",
+              "opts": [
+                "Round and round one hole",
+                "Up, down, up, down in a line",
+                "Only from the front",
+                "Across the cloth without going through"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "Why should we not throw old clothes away? Give two reasons.",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Choosing and testing fabrics",
+      "day": 8,
+      "sections": [
+        [
+          "A. Using our tests",
+          [
+            {
+              "t": "write",
+              "p": "In the water drop test, which fabric soaked up water fastest? Which fabric would you choose for a towel, and why?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "A loose cotton strand broke after 2 coins; a twisted one held 15 coins. Explain why.",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "Which is the safest to wear while cooking at a gas stove?",
+              "opts": [
+                "A polyester jacket",
+                "A nylon dupatta",
+                "A cotton kurta",
+                "A shiny synthetic saree"
+              ],
+              "a": 2
+            }
+          ]
+        ],
+        [
+          "B. Fabric for the job",
+          [
+            {
+              "t": "match",
+              "p": "Match each need to the best fabric.",
+              "pairs": [
+                [
+                  "A warm shawl for a Ladakh winter",
+                  "Pashmina wool"
+                ],
+                [
+                  "A strong gunny sack for rice",
+                  "Jute"
+                ],
+                [
+                  "A raincoat",
+                  "Nylon or polyester"
+                ],
+                [
+                  "A cool dhoti for a hot day",
+                  "Cotton"
+                ]
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "Pashmina wool comes from the Changthangi ____ of Ladakh.",
+              "a": [
+                "goat",
+                "goats"
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Traditions",
+          [
+            {
+              "t": "match",
+              "p": "Match the craft to its place.",
+              "pairs": [
+                [
+                  "Chikankari",
+                  "Lucknow, Uttar Pradesh"
+                ],
+                [
+                  "Phulkari",
+                  "Punjab"
+                ],
+                [
+                  "Kanjeevaram",
+                  "Tamil Nadu"
+                ],
+                [
+                  "Patola",
+                  "Patan, Gujarat"
+                ],
+                [
+                  "Khneng embroidery",
+                  "Meghalaya"
+                ]
+              ]
+            },
+            {
+              "t": "write",
+              "p": "Name the weaving or stitching tradition famous in your own state and describe it.",
+              "lines": 2
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Weavers, inventors and arguments",
+      "day": 8,
+      "sections": [
+        [
+          "A. Puzzles",
+          [
+            {
+              "t": "write",
+              "p": "Cloth rots away in the ground. So how did archaeologists find evidence of cotton thread 8,000 years old at Mehrgarh?",
+              "lines": 3
+            },
+            {
+              "t": "write",
+              "p": "A Patola saree takes 6 months to a year to weave, while a mill makes a saree in under an hour. Why do people still buy Patola sarees? Give two reasons.",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "If you start every row of your paper mat the same way (over, under, over…), what happens?",
+              "opts": [
+                "The mat is stronger",
+                "The strips do not lock and slide out",
+                "It makes a basket",
+                "Nothing changes"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "B. Both sides",
+          [
+            {
+              "t": "table",
+              "p": "Polyester clothes: list good points and problems.",
+              "cols": [
+                "Good points",
+                "Problems"
+              ],
+              "rows": 3
+            },
+            {
+              "t": "write",
+              "p": "Ahimsa silk lets the moth come out first, but it costs more and is less shiny. If you were buying a silk saree for a wedding, which would you choose and why? What else would you want to find out?",
+              "lines": 4
+            }
+          ]
+        ],
+        [
+          "C. Design and invent",
+          [
+            {
+              "t": "draw",
+              "p": "Design a nest a tailorbird and a baya weaver could build together. Label where the stitching is and where the weaving is."
+            },
+            {
+              "t": "write",
+              "p": "Invent a way to reuse an old school uniform so nothing is thrown away. Describe the steps.",
+              "lines": 3
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Does twisting make thread stronger?",
+      "day": 3,
+      "question": "Is a twisted strand of cotton stronger than a loose one made from the same amount of cotton?",
+      "need": [
+        "cotton wool",
+        "2 small plastic bags or paper cups",
+        "2 paper clips bent into hooks",
+        "about 20 one-rupee coins",
+        "a ruler"
+      ],
+      "steps": [
+        "Pull out two strands of cotton, each about 20 cm long and as equal in thickness as you can.",
+        "Leave strand 1 loose. Twist strand 2 tightly between your fingers along its whole length.",
+        "Tie a paper-clip hook to one end of each and hang a bag or cup from each hook.",
+        "Hold the top of each strand (or tie it to a chair back).",
+        "Add coins to each bag one at a time, gently, and count until the strand breaks or pulls apart.",
+        "Try a third strand made by twisting two twisted strands together (a two-ply thread)."
+      ],
+      "predict": "Ask your child to guess first: which strand will hold more coins? How many coins do you think each will hold?",
+      "observe": "Count the coins each strand holds. The loose strand often pulls apart after very few coins as fibres slide past each other; the twisted strand holds many more; the two-ply strand holds even more.",
+      "why": "A cotton fibre is very short, only about 2–3 cm long, so a loose strand is just short hairs lying side by side, and they slide apart easily when pulled. Twisting presses the fibres tightly together and wraps them around each other, so they rub and grip; when you pull, the twist actually squeezes them even tighter. Now the weight is shared by many fibres at once, so the thread is far stronger. Twisting two threads together in the opposite direction (plying) makes it stronger still and stops it untwisting. This is what every spinner with a charkha, and every spinning machine in a mill, is doing.",
+      "safety": "",
+      "time": "12 min"
+    },
+    {
+      "id": "e2",
+      "title": "The water drop test",
+      "day": 4,
+      "question": "Which fabrics soak up water, and which let it sit on top?",
+      "need": [
+        "small squares of cotton, wool, silk, polyester and jute",
+        "a steel plate",
+        "a dropper or spoon",
+        "water",
+        "a clock or phone timer",
+        "notebook"
+      ],
+      "steps": [
+        "Lay the fabric squares side by side on a dry steel plate.",
+        "Make a table: Fabric, Seconds to soak in, What the drop did.",
+        "Put one drop of water on each fabric, one after another, as fast as you can.",
+        "Count the seconds until each drop disappears into the cloth (stop at 60 seconds).",
+        "Note whether the drop spread out, stayed round on top or soaked straight through.",
+        "Repeat once to check."
+      ],
+      "predict": "Ask your child to guess first: which fabric will soak up the drop fastest? Will any fabric not soak it up at all?",
+      "observe": "Usually cotton and jute soak it in within a few seconds and the wet patch spreads; silk soaks it more slowly; wool lets the drop sit on top for a while before soaking in; polyester lets it bead up or run without soaking in for a long time.",
+      "why": "Plant fibres like cotton and jute are made of cellulose, which attracts water, and they have tiny hollow spaces that suck water in, like a tissue. That is why cotton towels dry us well and cotton is comfortable in hot weather: it soaks up sweat. Wool fibres have a thin waxy, scaly outer layer that pushes water away at first, so a sheep stays fairly dry in light rain, though the inside of the fibre can hold water. Polyester and nylon are kinds of plastic that do not attract water, so water stays on top and the cloth dries fast, which is useful for raincoats and sports clothes but feels sticky in heat because sweat is not soaked up.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Natural dyes: haldi and onion skins",
+      "day": 6,
+      "question": "Can we colour cloth with things from the kitchen, and does tying the cloth make patterns?",
+      "need": [
+        "2 teaspoons haldi (turmeric)",
+        "skins of 4–5 onions",
+        "2 old pans",
+        "water",
+        "a stove (adult only)",
+        "tongs",
+        "2–4 strips of white cotton cloth",
+        "thread",
+        "a bowl",
+        "soap water or a pinch of baking soda in water",
+        "optional: a pinch of alum (phitkari)"
+      ],
+      "steps": [
+        "An adult boils 2 cups of water with the haldi in one pan and 2 cups with the onion skins in the other for 10 minutes. Add a pinch of alum to each if you have it.",
+        "While they boil, tie thread tightly around small pinches of cloth on two of the strips, like bandhani.",
+        "The adult lowers one plain and one tied strip into each pan with tongs and leaves them for 5 minutes.",
+        "Lift them out into a bowl and let them cool, then rinse in cold water.",
+        "Untie the threads and look at the patterns.",
+        "Put a drop of soap water or baking soda water on the haldi-dyed strip and watch.",
+        "Hang to dry. Later, wash one corner with soap and leave one strip in strong sun for a few days to see if the colour fades."
+      ],
+      "predict": "Ask your child to guess first: what colour will onion skins make? Will the tied parts get coloured? What will soap do to the yellow?",
+      "observe": "Haldi gives a bright yellow, onion skins give orange to brown; tied spots stay white or pale in circles and dots. Soap or baking soda turns haldi yellow to reddish-brown. Haldi colour fades quickly in sunlight and washing.",
+      "why": "Dyes are coloured substances that stick to fibres. Haldi contains a yellow substance called curcumin, and onion skins contain other coloured plant chemicals; hot water helps pull them out and helps them soak into the cotton fibres. Where the cloth is tightly tied, the dye cannot reach, which is exactly how bandhani makes its patterns. Curcumin changes colour depending on whether it is touching an acid or an alkali; soap and baking soda are alkalis, so it turns red-brown (this is why a haldi stain on a shirt turns red when you scrub it with soap). Many natural dyes fade unless a 'mordant' such as alum is used to bind them to the fibre; Indian dyers have used alum and other mordants for centuries, along with long-lasting dyes like indigo and madder.",
+      "safety": "Only an adult handles the stove, the boiling dye and the tongs. Turmeric stains clothes and counters; wear old clothes and cover the table.",
+      "time": "18 min + drying"
+    },
+    {
+      "id": "e4",
+      "title": "What happens when one thread breaks?",
+      "day": 7,
+      "question": "If one thread or strip breaks, does the whole stitch or mat come apart?",
+      "need": [
+        "the paper mat from Day 1",
+        "a joined cloth sample with a running stitch",
+        "scissors",
+        "a needle and thread for the fix"
+      ],
+      "steps": [
+        "Look at the running stitch joining two pieces of cloth. Pull gently on both sides: it holds.",
+        "Snip one stitch in the middle of the line.",
+        "Pull the two cloths apart gently and watch what happens to the stitches next to the cut.",
+        "Snip one strip at the edge of the paper mat and gently shake the mat.",
+        "Now sew a new seam, but make a small knot or a backstitch every 4 stitches. Cut one stitch and pull again."
+      ],
+      "predict": "Ask your child to guess first: will cutting one tiny stitch matter? Will the whole seam come undone or only that one stitch?",
+      "observe": "With a plain running stitch, the cut thread slides out of the holes on both sides and the gap grows when you pull; a long section can come undone. In the paper mat, strips near the cut loosen and may slide out. The seam with knots or backstitches only opens between two knots.",
+      "why": "A running stitch is one long thread; it holds the cloth because it goes in and out of many holes and the friction in each hole stops it slipping. When it is cut, the two loose ends can slide back through the holes, so the stitches next to the cut lose their grip one by one. In woven cloth and mats, every thread is held in place by the threads crossing over and under it, and it holds them in turn, so a broken thread at the edge lets its neighbours loosen too. That is why every thread is important, why tailors finish seams with knots and backstitches, why cloth edges are hemmed, and why a small tear should be mended quickly before it grows.",
+      "safety": "Handle needles and scissors carefully at a table; put the needle back in the pincushion after use.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Weave a paper mat and basket (book Activity 1, page 133)",
+      "day": 1,
+      "mins": 20,
+      "need": [
+        "6 paper strips of one colour and 6 of another, about 2 cm by 20 cm",
+        "sticky tape",
+        "scissors",
+        "optional: ribbons, string, coconut-leaf strips"
+      ],
+      "steps": [
+        "Tape the tops of 6 strips of one colour side by side on the table. These are the warp.",
+        "Weave the first strip of the second colour over, under, over, under across them.",
+        "Weave the second strip under, over, under, over, the opposite way.",
+        "Push each strip up close to the last one; keep going until you use all 6.",
+        "Tape all the loose ends round the edges.",
+        "Fold up the corners and tape them to make a small basket-tray. Try again with ribbon or string."
+      ],
+      "outcome": "A woven paper mat and a little basket, and a clear understanding that weaving works because each strip goes over and under alternately so the strips lock each other in place."
+    },
+    {
+      "id": "a2",
+      "title": "Cardboard loom bookmark",
+      "day": 2,
+      "mins": 20,
+      "need": [
+        "stiff cardboard about 10 cm by 15 cm",
+        "scissors",
+        "a ruler",
+        "wool or thick cotton thread in two colours",
+        "tape",
+        "a comb",
+        "a blunt needle, hairpin or ice-cream stick with a hole"
+      ],
+      "steps": [
+        "Cut 9 notches 1 cm apart along both short ends of the card.",
+        "Wind the warp thread through the notches, top to bottom, keeping it tight. Tape the ends at the back.",
+        "Thread the second colour on the needle and weave across: over, under. Come back the other way: under, over.",
+        "After each row, push it down with the comb. Do not pull the edges tight.",
+        "Add rows over several days, changing colours to make stripes.",
+        "When full, slip the loops off at each end, cut them in pairs and knot each pair to make tassels."
+      ],
+      "outcome": "A small hand-woven bookmark or mat, made the same way as handloom cloth: warp held tight, weft woven across and beaten down. If your child enjoys it, dye the wool first with the natural dyes from Experiment e3 for a 'Dye and Weave' project."
+    },
+    {
+      "id": "a3",
+      "title": "Leaf plate (book Activity 5, page 139)",
+      "day": 6,
+      "mins": 15,
+      "need": [
+        "6–8 fresh broad leaves (palash, teak, sal, banana, jackfruit) or paper",
+        "toothpicks or thin twigs",
+        "scissors"
+      ],
+      "steps": [
+        "Wipe the leaves clean.",
+        "Overlap 5–6 leaves in a circle, shiny side up.",
+        "Pin each overlap with a toothpick or twig, pushing it in and out like a stitch.",
+        "Add a smaller layer in the middle for strength.",
+        "Trim the edge round with scissors.",
+        "Make a bowl: fold one leaf into a cone and pin it."
+      ],
+      "outcome": "A pattal-style leaf plate and donna bowl, showing how people 'stitch' with natural materials, like the tailorbird, and make things that go back into the soil."
+    },
+    {
+      "id": "a4",
+      "title": "Running stitch and joining cloth (book Activities 7 and 8, pages 140–141)",
+      "day": 7,
+      "mins": 22,
+      "need": [
+        "a large-eyed needle",
+        "thick thread",
+        "scissors",
+        "a pincushion or bar of soap",
+        "4–6 cloth scraps",
+        "a pencil and ruler"
+      ],
+      "steps": [
+        "Thread the needle with about 50 cm of thread and tie a knot at the end.",
+        "Draw a straight line on a scrap with dots 1 cm apart labelled A, B, C, D.",
+        "Come up from the back at A, go down at B, up at C, down at D, and keep going.",
+        "Finish at the back with a small knot.",
+        "Overlap a second scrap by 2 cm and join them with a running stitch.",
+        "Keep adding pieces over the week to make a coaster, a mat or a cleaning cloth."
+      ],
+      "outcome": "A line of even running stitches and two or more scraps joined into something useful, plus the confidence to fix a tear or sew a button with a needle used safely."
+    },
+    {
+      "id": "a5",
+      "title": "Label hunt: what are our clothes made of? (book Activity 4, page 138)",
+      "day": 5,
+      "mins": 12,
+      "need": [
+        "6–8 clothes, bags or household cloth items with labels",
+        "notebook with the page 138 table"
+      ],
+      "steps": [
+        "Copy the table from page 138: Item, Natural, Synthetic, What I like about it.",
+        "Find and read the label on each item.",
+        "Tick natural, synthetic or both (for blends).",
+        "Write one thing you like about each.",
+        "Count the totals and add a 'Good for' column."
+      ],
+      "outcome": "A table showing what your family's clothes are made of, and an understanding that many clothes today are blends of natural and synthetic fibres."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Christophe Moulherat and colleagues (2002), on the earliest cotton, found at Mehrgarh in the Indian subcontinent",
+      "idea": "Mehrgarh is an ancient farming village site in Balochistan, in today's Pakistan, part of the wider Indus region. In 2002 a French team led by Christophe Moulherat studied a copper bead from a burial there, about 8,000 years old (around 6000 BCE). Copper salts had soaked into the thread inside the bead and preserved its shape, and under a microscope they could see it was cotton fibre. This is the oldest known evidence of cotton anywhere. Later, at Mohenjo-daro, about 4,500 years old, pieces of woven cotton cloth were found stuck to a silver vase.",
+      "then": "Archaeologists already knew that the Indus Valley people grew cotton and wove cloth, and ancient Greek and Roman writers described Indian cotton as 'wool that grows on trees'. The Mehrgarh find pushed the story back thousands of years further and was welcomed as careful work.",
+      "now": "Scientists accept that the Indian subcontinent has the oldest known evidence of cotton use and was one of the first places cotton was farmed. They also know that people in the Americas tamed different kinds of cotton separately a few thousand years later, so cotton was 'invented' more than once. New finds could change the dates.",
+      "status": "accepted",
+      "ask": "The scientists never found any cloth, only a bead with metal-coated fibres inside. Is that enough evidence to say people used cotton thread 8,000 years ago? What other clues would make you more sure?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Mark Anthony Browne and colleagues (2011), on plastic microfibres from washing clothes",
+      "idea": "Browne, an ecologist, collected sand from 18 beaches on six continents and found tiny plastic pieces in all of them, most of them fibres of polyester and acrylic, the same materials as many clothes. He then tested washing machines and found that washing one synthetic garment could release more than 1,900 fibres in a single wash. These fibres are too small for most water treatment plants to catch, so they flow into rivers and the sea. His paper was published in 2011 in the journal Environmental Science & Technology.",
+      "then": "Before this, most people thought plastic pollution in the sea came from bags, bottles and fishing nets. Clothes in a washing machine were not seen as a source at all, and the clothing industry paid little attention.",
+      "now": "Many later studies agree that synthetic clothes shed microfibres and that these fibres are found in seas, rivers, soil, drinking water, fish and even the air. How much harm they do to sea animals and to human health is still being studied and argued about, and scientists disagree on how big the risk is. Some washing-machine makers now sell filters to catch the fibres.",
+      "status": "debated",
+      "ask": "We know the tiny fibres are everywhere, but we are not yet sure how much harm they do. Should we wait for proof of harm before we change what we wear and wash, or act now? Why?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Kusuma Rajaiah, Andhra Pradesh, India, and the 'ahimsa silk' debate",
+      "idea": "In ordinary silk-making, cocoons are put in hot water or steam before the moth comes out, so that the single long thread can be unwound unbroken; the insect inside dies. Kusuma Rajaiah, who worked as a handloom officer in Andhra Pradesh, developed and patented in the early 2000s a way of making 'ahimsa' (non-violent) silk: the moths are allowed to come out of their cocoons first, and then the broken cocoons are spun into yarn and woven. In Assam, eri silk has long been made in a similar way, because the eri cocoon has an opening and is spun, not unwound.",
+      "then": "Many silk weavers doubted it could work as a business, because ahimsa silk takes longer, gives less yarn and has a softer, less shiny look than unwound silk, so it costs much more.",
+      "now": "Ahimsa (also called 'peace') silk is now made and sold in India and abroad, but it is still a small share of all silk. People still debate it: some say it is a kinder choice; others point out that domesticated silk moths cannot fly or eat and live only a few days anyway, and that some farms still kill many cocoons. Whether it is truly 'harm-free' and whether it can feed India's many silk-farming families is an open question.",
+      "status": "debated",
+      "ask": "Ahimsa silk lets the moth live, but it costs more and gives less silk. How would you decide whether it is the better choice? What would you want to know about the silk farmers and the moths?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {
+      "q": "What is weaving? How does the baya weaver do it?",
+      "a": "Weaving is crossing one set of threads (up and down) over and under another set (across) to make a fabric. The baya weaver weaves strands of grass over and under to make a strong, hanging, pouch-shaped nest."
+    },
+    {
+      "q": "What is spinning, and why does it make cotton stronger?",
+      "a": "Spinning is twisting fibres together into a thread. Twisting presses the short fibres tightly together so they grip each other and share the pull, so the thread does not pull apart."
+    },
+    {
+      "q": "What is a fibre? Name two natural fibres from plants and two from animals.",
+      "a": "A fibre is a very thin, hair-like strand. From plants: cotton, jute, linen, bamboo, coir. From animals: wool, silk."
+    },
+    {
+      "q": "What are synthetic fibres? Name two.",
+      "a": "Fibres made by people in factories from chemicals, mostly from petroleum: nylon, polyester (terylene)."
+    },
+    {
+      "q": "Tell the life cycle of the silk moth in order.",
+      "a": "Eggs hatch into caterpillars (silkworms), which eat mulberry leaves and grow; each spins a cocoon of silk thread; it turns into a moth inside, which comes out and lays eggs, and the cycle begins again."
+    },
+    {
+      "q": "What is khadi and why was it important in the freedom struggle?",
+      "a": "Khadi is hand-spun and hand-woven cloth. Gandhi ji asked Indians to spin and wear it so that India would make its own cloth, give work to villages and not depend on British mill cloth; the charkha became a symbol of freedom and self-reliance (atmanirbhar)."
+    },
+    {
+      "q": "How does a tailorbird make its nest?",
+      "a": "It pokes holes along the edges of a big leaf with its beak and pulls plant fibres or spider silk through them to stitch the leaf into a sleeve, then lines it to make a soft nest."
+    },
+    {
+      "q": "Name two embroidery or weaving traditions of India and where they come from, and say why we should reuse old clothes.",
+      "a": "For example chikankari (Lucknow), phulkari (Punjab), kantha (West Bengal, Odisha, Tripura), Kanjeevaram (Tamil Nadu), Pashmina (Kashmir), Patola (Gujarat). Reusing old clothes saves the water, energy and materials needed to make new cloth and keeps waste out of the land and sea."
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "key": "ncert|sci|3|3",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 3,
+  "title": "Celebrating Festivals",
+  "source": "NCERT Our Wondrous World, Class 3, Unit 1, Chapter 3 (pages 34–44), Reprint 2026-27",
+  "summary": "Rishi travels by bus from Jammu up winding mountain roads to visit his Mama, Mami and cousins Chiya and Nonikaa, sees tulips, eats haakh with rice and swaps stories of spring festivals: buransh and mustard flowers on doorsteps, Vishu in Kerala and the tulip festival in Kashmir. Your child learns road signs and travel safety, why spring brings flowers, which festivals and foods belong to each season across India, a little about the Himalayas and Mount Everest, and how the Sarhul festival of Jharkhand thanks the Earth and the Sun. Along the way they sprout grains, test why mountain roads zigzag, and meet scientists who explained how mountains rise and how the Moon keeps festival time.",
+  "goals": [
+    "By the end your child can read common road signs, tell a warning sign from a 'must not' sign by its shape, and give safety rules for bus travel, cycling and walking.",
+    "By the end your child can explain why mountain roads have hairpin turns, using their own ramp test.",
+    "By the end your child can name spring festivals from different parts of India (Phool Dei with buransh, Vishu, Sarhul, the Kashmir tulip festival) and say why spring is a celebration of nature.",
+    "By the end your child can fill a table of festivals and special foods for each season in their own area and match festival foods like thekua, pitha, gujiya, sadya, holige and seviyan to their festivals.",
+    "By the end your child can say that the Himalayas are the highest mountains, that Everest is about 8,848 metres high, and that the Himalayas formed and are still rising because India is pushing into Asia.",
+    "By the end your child can explain why many festival dates follow the Moon, and why a flame under a jar goes out."
+  ],
+  "words": [
+    ["festival", "a special day or days that people celebrate together, often with prayers, food, music, new clothes and decorations"],
+    ["season", "a part of the year with its own kind of weather: spring, summer, monsoon, autumn and winter"],
+    ["spring", "the season after winter when days grow warmer, flowers bloom and trees get new leaves"],
+    ["hairpin turn", "a very sharp U-shaped bend in a mountain road, shaped like a hairpin"],
+    ["signboard", "a board beside a road with a picture or words that tells drivers and walkers what to do or what is ahead"],
+    ["Himalayas", "the highest mountains in the world, in the north of India; the name means 'home of snow'"],
+    ["germinate", "when a seed wakes up and starts to grow a root and a shoot; also called sprouting"],
+    ["procession", "a line of people walking together for a festival or ceremony"],
+    ["buransh", "rhododendron, a tree of the Himalayas with bright red flowers in spring"],
+    ["lunar calendar", "a calendar whose months follow the Moon, from one new moon to the next, about 29½ days"],
+    ["oxygen", "the gas in air that we breathe and that a flame needs to keep burning"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Rishi's bus ride to the mountains",
+      "goal": "Start from our own favourite festival, ride with Rishi up the mountain roads, talk about travel safety, and set grains to sprout for Sarhul.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "My favourite festival",
+          "mins": 5,
+          "do": "Ask: 'Which festival do you love most? What do you see, smell, hear, taste and wear?' Good answers use the senses: 'Diwali: diyas, the smell of ghee, crackers, laddoos, new kurta.' Then ask: 'When in the year does it come? Is it hot or cold then?' Write the festival and its month in the notebook. Say: 'This chapter is about festivals and the seasons they belong to.'"
+        },
+        {
+          "kind": "read",
+          "title": "Festival of Flowers (pages 34–35)",
+          "mins": 7,
+          "do": "Read page 34 aloud. Rishi from Jammu travels by bus with his parents to visit his Mama, Mami and cousins Chiya and Nonikaa near the mountains. Ask: 'Who is Mama? Who is Mami?' (Mother's brother; Mama's wife, as the book says.) 'What did Rishi see from the bus?' (Hairpin turns, hills covered with colourful flowers, tall trees far away.) Point to the picture and ask: 'Why do you think the road twists like that?' Let them guess; we will test it tomorrow. Then ask the first two questions on page 35: 'Have you travelled in a bus? What trees and flowers did you see?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Safe on the bus, cycle and road (page 35)",
+          "mins": 8,
+          "do": "Ask the last two questions on page 35. 'What safety measures should you take while travelling?' (Sit down, hold the rail, keep hands and head inside, don't distract the driver, wear a seat belt in a car, take medicine for travel sickness on mountain roads if needed.) 'While riding a bicycle?' (Wear a helmet, ride on the left, check brakes and bell, use hand signals, don't ride two on a small cycle, wear something bright in the evening.) 'While walking on the road?' (Use the footpath, cross at a zebra crossing, look right-left-right, never cross from between parked vehicles.) Ask your child to show you the hand signal for turning right on a cycle (right arm straight out)."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the Sarhul sprouting test",
+          "mins": 15,
+          "do": "Tell your child that on page 44 people in Jharkhand carry freshly germinated (sprouted) grains in the Sarhul spring festival, and we will grow our own. Do Experiment e1: soak 20 wheat or moong grains in water overnight in one cup, and keep 20 dry grains aside. Tomorrow morning, put both lots on damp cotton in two plates. Today, label the plates 'Soaked first' and 'Not soaked', and ask your child to predict which will sprout first and write it down. Ask: 'Why do we use the same number of grains of the same kind?' (So the only difference is the soaking: a fair test.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Who would you visit?",
+          "mins": 5,
+          "do": "Ask: 'Rishi visits his Mama far away. Which relative would you most like to visit, and how would you travel there?' Look at a map of India together and find Jammu, then the mountains to its north and east. Ask: 'Is that place hotter or colder than ours, do you think? Why?' Note their answer; we will check it on Day 4."
+        }
+      ],
+      "need": ["Textbook pages 34–35, 44", "40 whole wheat grains or whole moong", "2 cups and 2 plates", "cotton wool", "labels and a pencil", "a map of India (atlas or phone)"],
+      "prep": [{"task": "Find 40 whole wheat grains or moong and some cotton wool", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "Road signs and zigzag roads",
+      "goal": "Match road signs with their meanings, learn what sign shapes mean, and test why mountain roads have hairpin turns.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Start the sprouting plates",
+          "mins": 4,
+          "do": "For Experiment e1, put the 20 soaked grains on damp cotton in the 'Soaked first' plate and the 20 dry grains on damp cotton in the 'Not soaked' plate. Put both in the same place, away from direct sun. Your child draws one grain from each plate in the notebook with today's date. Ask: 'Do the soaked ones look different already?' (They are fatter and softer.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 1: Match the signboards (page 36)",
+          "mins": 9,
+          "do": "Do Activity 1 on page 36: your child draws a line from each sign in Column A to its meaning in Column B: No Parking, No Horn Please, Speed Breaker, No U-Turn, Men at Work, School Ahead. Ask for each: 'What should a driver do when they see this?' (For School Ahead: slow down, watch for children.) Then teach the shape rule used on Indian roads: a red circle means 'must do' or 'must not' (No Parking, No Horn, No U-Turn); a red triangle warns 'careful, something is ahead' (Speed Breaker, Men at Work, School Ahead); a blue rectangle gives information (a hospital, a petrol pump, a bus stop). Ask your child to sort the six signs by shape."
+        },
+        {
+          "kind": "exp",
+          "title": "Hairpin ramp test",
+          "mins": 17,
+          "do": "Do Experiment e2. Make a steep ramp (a tray or board propped on a pile of books) and pull a small loaded box (a pencil box with some coins) straight up it with a rubber band, measuring how far the band stretches. Then lower the ramp so it is gentle and longer and pull again. Before testing, ask: 'Which will need a harder pull?' After testing, ask: 'Why do mountain roads go round and round in hairpin turns instead of straight up?' Explain the 'why' of e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Signboard spotting",
+          "mins": 10,
+          "do": "Walk to the nearest main road, market or school gate. Your child spots as many signs as they can and draws three that were not on page 36, as page 36 asks (for example Hospital, Pedestrian Crossing, Bus Stop, No Entry, One Way, Narrow Bridge, Petrol Pump). Next to each, they write its shape and colour and its meaning. Ask: 'Which sign is most important near a school? Why?' If you cannot go out, draw signs from memory of your route."
+        }
+      ],
+      "need": ["Textbook page 36", "the sprouting plates and cotton", "a tray or board and a pile of books", "a pencil box with coins", "a rubber band and a ruler", "notebook and colour pencils"],
+      "prep": [{"task": "Soak 20 of the grains in a cup of water for Experiment e1", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Flowers in Mama's garden and haakh for lunch",
+      "goal": "Reach Mama's village with Rishi, look closely at real flowers, learn why tulips need a cold winter, and taste or talk about a leafy dish.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Sprout check",
+          "mins": 3,
+          "do": "Check Experiment e1. Count how many grains in each plate show a white tip (the first root). Your child writes the counts in a table: Day, Soaked first, Not soaked. Add a few drops of water if the cotton is drying.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Mama's village (pages 37–38)",
+          "mins": 8,
+          "do": "Read page 37 and the top of page 38 aloud. Ask: 'What kind of road did they walk on?' (A broad concrete road and then a narrow mud road near the house.) 'Which flowers could Rishi name?' (Rose, marigold and hibiscus.) 'Which new flower did Nonikaa show him?' (Tulip.) 'What did they eat for lunch?' (A Kashmiri dish called haakh, a leafy vegetable, with hot rice.) Tell your child that haakh is a leafy green from the same plant family as cabbage and mustard, called collard greens in English, cooked simply with mustard oil and spices."
+        },
+        {
+          "kind": "do",
+          "title": "Flower close-up",
+          "mins": 14,
+          "do": "Get two or three flowers that have fallen or that you can buy (marigold, rose, hibiscus, any garden flower). Lay them on white paper. Your child counts the petals, smells each, and gently pulls one hibiscus apart to find the parts: the green sepals at the bottom that protected the bud, the coloured petals, the long tube in the middle with yellow powder (pollen) at the tip, and the base where seeds would form. Rub a little pollen on a fingertip. Ask: 'Why are flowers so bright and sweet-smelling?' (To attract bees, butterflies and birds, which carry pollen from flower to flower so seeds can form.) Draw and label one flower."
+        },
+        {
+          "kind": "talk",
+          "title": "Why tulips need winter",
+          "mins": 7,
+          "do": "Tell your child: tulips grow from bulbs, which are fat underground buds packed with food, like an onion. Tulips grow well in Kashmir because a tulip bulb must spend weeks in winter cold before it will flower in spring; in a hot place with no winter they usually do not flower properly. Cut an onion in half from top to bottom and show the layers and the tiny shoot at the centre: a tulip bulb looks like this inside. Ask: 'Why might a plant wait for winter to end before flowering?' (So the flowers and seeds are not killed by frost, and bees are out in spring.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Our leafy greens",
+          "mins": 8,
+          "do": "Ask: 'Rishi ate haakh. Which leafy vegetables do we eat at home?' (Palak, methi, sarson ka saag, bathua, amaranth or chaulai, drumstick leaves, curry leaves, gongura.) Make a list together with where each is popular: sarson ka saag in Punjab, gongura in Andhra Pradesh, haakh in Kashmir. Ask: 'Why do people in cold places often eat more greens in winter?' (Many leafy greens like mustard and haakh grow well in the cool season.) If you can, cook or taste one leafy dish today."
+        }
+      ],
+      "need": ["Textbook pages 37–38", "2–3 flowers including a hibiscus", "white paper", "an onion and a knife (adult use)", "a leafy vegetable if you can"],
+      "prep": [{"task": "Collect fallen flowers or buy 2–3 loose flowers including a hibiscus", "when": "morning"}]
+    },
+    {
+      "n": 4,
+      "title": "The home of snow",
+      "goal": "Learn about the Himalayas and Mount Everest, find out why it gets colder as you go up, and hear how the mountains were made.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Sprout check",
+          "mins": 3,
+          "do": "Check Experiment e1 and add today's counts to the table. Measure the longest sprout in each plate with a ruler. Ask: 'Which plate is ahead? Is that what you predicted?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "The Himalayas (page 43)",
+          "mins": 7,
+          "do": "Read the 'Enjoy!' box on page 43: the Himalayas, meaning 'home of snow', are the most majestic mountains in the world, and the highest peak, Mount Everest, is in Nepal and about 8,848 metres high. Make it real: 'Our building or house is about 10 metres tall. How many of them stacked up would reach the top of Everest?' (About 885.) Tell your child that in 2020 Nepal and China measured it again and announced 8,848.86 metres. Ask: 'Why do the Himalayas have snow on top even in summer?' (It is very cold up high.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Colder as you climb",
+          "mins": 6,
+          "do": "Tell your child: for every 1,000 metres you go up a mountain, the air gets about 6 °C colder. Ask them to work out: 'If it is 30 °C at the bottom, how cold is it 2,000 metres up?' (About 18 °C.) 'At 5,000 metres?' (About 0 °C, freezing, so snow stays.) Ask: 'Rishi's Mama lives near the mountains. Was your Day 1 guess right that it would be colder there?' Explain simply: air higher up is thinner and spreads out, and air that spreads out gets cooler; also the warm ground is far below."
+        },
+        {
+          "kind": "think",
+          "title": "How did the Himalayas get so high?",
+          "mins": 12,
+          "do": "Tell the story in Voice v1: Alfred Wegener said the land masses move, and he was laughed at, but he was right; India was once a separate piece of land that moved north and crashed into Asia, pushing up the Himalayas. Show it: lay two folded towels flat on a table, end to end, and slowly push one into the other; watch the towels crumple upwards into 'mountains'. Ask: 'Which towel is India?' Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "think",
+          "title": "Radhanath Sikdar and Peak XV",
+          "mins": 7,
+          "do": "Tell the story in Voice v4: a mathematician from Kolkata worked out, from measurements taken far away on the plains, that a mountain then called Peak XV was the highest in the world. Ask: 'How could you find the height of a tall tree without climbing it?' Let your child try ideas (use its shadow and compare with the shadow of a stick of known height). Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "talk",
+          "title": "Mountains, rivers and far-away relatives (page 42)",
+          "mins": 5,
+          "do": "Ask the questions at the top of page 42: 'Are there any mountains, rivers or streams close to where you live? Have you ever visited relatives in a faraway place? How does it feel there?' Good answers compare: 'At Nani's village it is cooler, the water comes from a well and there are more stars at night.' Tell them that the Ganga, Yamuna and Brahmaputra all begin as melting snow and ice in the Himalayas."
+        }
+      ],
+      "need": ["Textbook pages 42–43", "two towels", "a ruler", "a map of India"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Spring is a celebration of nature",
+      "goal": "Learn about spring festivals across India, understand why plants bloom in spring, sing the spring song, and make a doorstep flower welcome.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Sprout check",
+          "mins": 3,
+          "do": "Check Experiment e1 and add today's counts and the longest sprout to the table. Move both plates to a sunny window now so the shoots turn green.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Spring festivals (pages 38–39)",
+          "mins": 8,
+          "do": "Read from the middle of page 38 to the end of page 39. Ask: 'What festival does Kashmir have at this time?' (A tulip festival.) 'What red flowers bloom in spring where Rishi lives?' (Buransh, rhododendron.) 'What do they put at the doorstep of each home?' (Mustard and buransh flowers; the elders bless the children and give toffees and sweets.) Tell your child that this festival is celebrated in Uttarakhand as Phool Dei. 'What does Unni do in Kerala?' (Celebrates Vishu with yellow amaltas flowers, fruits and vegetables to make the Vishu Kani.) Read the footnote: Vishu Kani is the first sight at sunrise on the Malayali new year. Then read Mami's words: 'Spring is a celebration of nature.' Ask: 'What changes in spring?' (The sun shines brighter, flowers bloom, grass grows, trees get new leaves.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Why do plants bloom in spring?",
+          "mins": 6,
+          "do": "Ask: 'How does a tree know it is spring? It has no calendar!' Let your child guess. Explain: plants sense two things: the days are getting longer, and the air and soil are getting warmer after winter. When both say 'spring', the buds open. In much of India, trees like amaltas, palash, semal and mango flower in the warm weeks of spring and early summer. Ask: 'Why is it a good time for flowers?' (Warm days, lots of sunlight, many bees and butterflies about.)"
+        },
+        {
+          "kind": "think",
+          "title": "Is buransh flowering earlier now?",
+          "mins": 7,
+          "do": "Tell Voice v3: people in the hills have noticed buransh flowering earlier than they remember, and scientists and schoolchildren across India now keep careful records of when trees flower in a project called SeasonWatch. Ask the voice question. Then choose one tree near home (a mango, neem, amaltas, gulmohar) and agree to note on the calendar the day you first see its new leaves or flowers this year.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Doorstep flower welcome and the spring song (page 40)",
+          "mins": 8,
+          "do": "Do Activity a1. Your child arranges fallen flowers and a few leaves at your doorstep, in the Phool Dei style, or makes a small Vishu Kani on a plate: a yellow flower, a fruit, a vegetable, a coin and a lamp (unlit), arranged so it is the first thing someone sees. Then do Activity 2 on page 40: sing the spring song 'Oh! Spring is in the air' together, adding actions for leaves, swaying flowers, the bright sun and dancing squirrels and birds.",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet (first half)",
+          "mins": 8,
+          "do": "Do sections A and B of Worksheet ws1 (core). Keep section C for Day 6 after the festival food match. Read items aloud if needed and check together; for any mistake open the page that shows it (signs p36, Rishi's journey p34–38).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 38–40", "fallen flowers and leaves", "a plate, a yellow flower, a fruit, a vegetable, a coin and an unlit diya", "worksheet ws1"],
+      "prep": [{"task": "Collect fallen flowers and leaves on a walk", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Festivals and foods in every season",
+      "goal": "Find out from elders which festivals and foods belong to each season, match festival foods across India, and see how the Moon decides many festival dates.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Ask the elders (pages 40–41)",
+          "mins": 10,
+          "do": "Do the tasks on pages 40–41. Call or sit with an elder and fill in the book's table: for Spring, Summer, Monsoon and Winter, which festivals are celebrated in your area and what special food is made for each. For example in North India: spring, Holi with gujiya; summer, Baisakhi with kheer or lassi; monsoon, Teej or Raksha Bandhan with ghewar; winter, Lohri or Makar Sankranti with til laddoos and gajak. Then answer question 3 on page 41: 'What special dresses do you wear during festivals?'"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 3: Festival food match (page 41)",
+          "mins": 8,
+          "do": "Do Activity 3 on page 41: write the festival next to each food. Thekua is done for you (Chhath Puja). Answers: pitha – Bihu (Assam); plum cake – Christmas; gujiya – Holi; sadya – Onam (Kerala, a feast served on a banana leaf); holige – Ugadi (Karnataka, a sweet flat bread with jaggery and dal); seviyan – Eid-ul-Fitr. Ask: 'Which have you tasted?' and 'Which are made with rice, wheat or jaggery?' Then ask the page 42 question: 'Do you think everyone celebrates festivals with special food and new clothes?' (No; some families cannot afford it, and some people celebrate simply; festivals are about being together, and sharing food with those who have less is part of many festivals.)"
+        },
+        {
+          "kind": "think",
+          "title": "The Moon keeps festival time",
+          "mins": 10,
+          "do": "Ask: 'Why does Christmas always come on 25 December, but Holi and Eid move every year?' Explain: Christmas follows the Sun's calendar. Holi falls on a full moon, Diwali on a new moon (amavasya), and Eid-ul-Fitr starts when the thin new crescent Moon is seen; the Moon goes from new to full and back in about 29½ days, which does not fit neatly into our months. Tell the story in Voice v2 about Aryabhata, who worked out how the Moon and Earth move more than 1,500 years ago. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Start a Moon diary",
+          "mins": 7,
+          "do": "Start Activity a2. Tonight and every clear night for two weeks, your child looks for the Moon at the same time (just after dinner) and draws its shape in the Moon diary table with the date. Look up together when the next full moon (purnima) and new moon (amavasya) are, from a wall calendar or panchang, and mark any festival that falls on them. Ask: 'What do you predict the Moon will look like in one week?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet (section C)",
+          "mins": 5,
+          "do": "Do section C of Worksheet ws1 (core), the festival foods part, now that the food match is fresh. Mark together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 40–42", "a phone to call an elder", "a calendar or panchang showing moon phases", "the Moon diary page", "worksheet ws1"],
+      "prep": [{"task": "Fix a time to talk to a grandparent or elder about festivals and foods of each season", "when": "2 days before"}]
+    },
+    {
+      "n": 7,
+      "title": "Sarhul: thanking the Earth and the Sun",
+      "goal": "Read about Sarhul, finish our sprouting test, learn about the sal tree, and see why a festival flame needs air.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sarhul (page 44)",
+          "mins": 6,
+          "do": "Read page 44 aloud. Ask: 'Where is Sarhul celebrated?' (Jharkhand.) 'Where does the procession go?' (To the sakhua tree, which is the sal tree.) 'What do people carry?' (Freshly germinated grains and sakhua flowers.) 'To whom are the offerings made?' (The Earth and the Sun, with reverence and gratitude.) 'What music do they dance to?' (Drums such as dhol and nagada.) Ask: 'Why might people thank the Earth and the Sun in spring?' (The Sun brings warmth and light, the Earth gives soil and water; together they grow our food.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Sprouting results",
+          "mins": 8,
+          "do": "Finish Experiment e1. Count the sprouted grains in each plate and measure the longest shoots. Your child completes the table and says which plate sprouted first and how many sprouted in all. Ask: 'Why did the soaked grains get going faster?' (They had already taken in water, which wakes up the seed.) 'Which shoots are greener, and why?' (The ones in sunlight since Day 5.) Read the 'why' of e1. Your child can carry a plate of sprouts in a pretend Sarhul procession to a tree near home.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "The sal tree",
+          "mins": 5,
+          "do": "Tell your child: sal (sakhua) is a tall tree of the forests of central and eastern India, including Jharkhand, Odisha and Chhattisgarh. It flowers in spring with small cream-coloured flowers. Its leaves are stitched into plates and bowls (pattals and donas) that are still used at feasts, and its hard wood has been used for houses. Ask: 'Why might the people of Jharkhand honour this tree?' (It gives them leaves, wood, seeds, shade and homes for animals; the forest is part of their life.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Diya under a jar",
+          "mins": 13,
+          "do": "Do Experiment e3. With an adult lighting them, place two small diyas or tea-light candles on a steel plate. Cover one with a small steel tumbler and one with a big glass jar at the same moment and time how long each flame lasts. Before covering, ask your child to guess which will last longer. Ask afterwards: 'Why did both go out? Why did the big jar's diya last longer?' Explain the 'why' of e3.",
+          "ref": "e3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Let your child use the Day 6 festival table and the Moon diary for help. For the ramp question, they may draw the steep and gentle ramps from Day 2.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook page 44", "the sprouting plates and a ruler", "2 small diyas with oil and wicks or tea-light candles, matches (adult use)", "a steel plate, a small steel tumbler and a big glass jar", "a timer", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Let us reflect and the festival calendar race",
+      "goal": "Answer the book's reflection questions, design signboards for school, and play a game placing festivals in their months and seasons.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Moon diary",
+          "mins": 2,
+          "do": "Look at the Moon diary from Activity a2. Ask: 'Is the Moon growing bigger (waxing) or smaller (waning) each night?' Your child adds an arrow showing which way it is going.",
+          "ref": "a2"
+        },
+        {
+          "kind": "review",
+          "title": "Let us reflect A and B (pages 42–43)",
+          "mins": 12,
+          "do": "Ask the five Discuss questions on page 42: modes of transport used in travel (bus, train, car, auto, cycle, boat, plane, walking, mules or ponies in the hills); how to be safe while travelling; special festival foods; how festivals bring us together (we meet relatives, share food, sing and dance, help each other prepare); 'Do you feel happy spending time in nature?' Then do B: name two relatives visited recently and how you spend time with cousins. Then the fill-in-the-blanks on pages 42–43. Answers: mountains; hairpin (or hilly, winding) roads; mud road; buransh (rhododendron); haakh."
+        },
+        {
+          "kind": "act",
+          "title": "Draw school signboards (page 43)",
+          "mins": 12,
+          "do": "Do Activity C on page 43 on a chart paper: your child designs signboards for School library, Toilet, Assembly, Drinking water point, Playground, My classroom and Stairs. Remind them of the shape rule from Day 2: these are information signs, so a rectangle works best, with a simple picture anyone can understand without reading (a book, a tap, a ball, steps). Ask them to explain each sign to you. Ask: 'Would a child who cannot read yet, or who speaks another language, understand it?'"
+        },
+        {
+          "kind": "game",
+          "title": "Festival Calendar Race",
+          "mins": 14,
+          "do": "Play the Festival Calendar Race. Make a circle of 12 month-cards on the floor and 12 festival cards: Pongal, Bihu, Lohri, Holi, Ugadi, Vishu, Baisakhi, Sarhul, Eid-ul-Fitr, Onam, Diwali, Christmas. Players take turns drawing a festival card, placing it in its month (use a calendar to check) and saying why it falls then: harvest, season, new year or the Moon. Correct month 1 point, correct reason 2 points. Since Eid moves about 11 days earlier each year, place it by this year's calendar. Ask at the end: 'Which season has the most festivals? Why might that be?' (Many fall after harvests or at the start of spring.)"
+        }
+      ],
+      "need": ["Textbook pages 42–43", "chart paper and colours", "12 month cards and 12 festival cards", "a calendar for this year"],
+      "prep": [{"task": "Make 12 month cards and 12 festival cards from scrap paper", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Check, challenge and teach it back",
+      "goal": "Do the challenge worksheet, check understanding, and have your child teach the chapter back, then plan a festival of our own.",
+      "steps": [
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing what scientists said. Your child can answer write items aloud while you scribe. For section C, praise answers that give a reason or use what they saw in their tests.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page that shows it, look for one minute, then ask again in other words. Most children get 5 or more; fewer than 4 means repeat the Day 2 sign sorting and the Day 6 food match next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child is now the teacher and you are a visitor from another country who knows nothing about India's festivals. Using the sprout plates, the ramp, the signboard chart, the Moon diary and the festival calendar, they teach you in 5 minutes: why mountain roads zigzag; what three road-sign shapes mean; three spring festivals and how each celebrates nature; why Holi or Eid moves but Christmas doesn't; why the Himalayas are so high. Ask two 'student' questions: 'Why did the diya under the small glass go out first?' and 'Why do people carry sprouted grains at Sarhul?'"
+        },
+        {
+          "kind": "act",
+          "title": "Plan a festival of our own",
+          "mins": 7,
+          "do": "Start Activity a3. Your child invents a small family festival for the current season: what it celebrates (the first mango, the first rain, a tree's new leaves), one food, one decoration, one song and a way everyone joins in. Write the plan and choose a date in the next two weeks to hold it.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["worksheet ws3", "the sprout plates, ramp, signboard chart, Moon diary and festival calendar", "paper for the festival plan"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Rishi's journey and festival foods",
+      "day": 5,
+      "sections": [
+        ["A. Rishi's journey", [
+          {"t": "fill", "p": "Rishi is from ____ and travelled by bus to the mountains.", "a": ["Jammu"]},
+          {"t": "fill", "p": "Rishi's Mama is his mother's ____.", "a": ["brother"]},
+          {"t": "mcq", "p": "Which new flower did Nonikaa show Rishi?", "opts": ["Rose", "Marigold", "Tulip", "Hibiscus"], "a": 2},
+          {"t": "fill", "p": "The red flowers that bloom in spring in Rishi's place are called ____.", "a": ["buransh", "rhododendron"]}
+        ]],
+        ["B. Road signs and safety", [
+          {"t": "match", "p": "Match each sign to what a driver should do.", "pairs": [["School Ahead", "Slow down and watch for children"], ["No Horn Please", "Do not honk"], ["Speed Breaker", "Slow down for a bump"], ["No Parking", "Do not leave your vehicle here"]]},
+          {"t": "mcq", "p": "On Indian roads, a red triangle sign means:", "opts": ["Information, like a petrol pump", "A warning that something is ahead", "You may go fast", "A toll booth"], "a": 1},
+          {"t": "write", "p": "Write two safety rules for riding a bicycle.", "lines": 2}
+        ]],
+        ["C. Festival foods", [
+          {"t": "match", "p": "Match the food to its festival.", "pairs": [["Thekua", "Chhath Puja"], ["Pitha", "Bihu"], ["Gujiya", "Holi"], ["Sadya", "Onam"], ["Holige", "Ugadi"], ["Seviyan", "Eid-ul-Fitr"], ["Plum cake", "Christmas"]]},
+          {"t": "write", "p": "Write one festival in your area and the special food made for it.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Seasons, mountains and the Moon",
+      "day": 7,
+      "sections": [
+        ["A. Seasons and festivals", [
+          {"t": "table", "p": "Fill in festivals and foods in your area for each season.", "cols": ["Season", "Festival", "Special food", "What nature is doing"], "rows": 4, "prefill": ["Spring", "Summer", "Monsoon", "Winter"]},
+          {"t": "sort", "p": "Sort these festivals by what decides their date.", "items": ["Holi", "Christmas", "Diwali", "Eid-ul-Fitr", "Guru Purnima", "Republic Day"], "cats": ["The Moon", "A fixed date in the Sun calendar"]}
+        ]],
+        ["B. Mountains", [
+          {"t": "fill", "p": "The word Himalaya means 'home of ____'.", "a": ["snow"]},
+          {"t": "mcq", "p": "It is 30 °C at the foot of a mountain. About how cold is it 2,000 metres up?", "opts": ["About 40 °C", "About 30 °C", "About 18 °C", "About 0 °C"], "a": 2},
+          {"t": "write", "p": "Our steep ramp needed a harder pull than the gentle ramp. Use this to explain why mountain roads have hairpin turns.", "lines": 3}
+        ]],
+        ["C. Seeds and flames", [
+          {"t": "write", "p": "In our test, the soaked grains sprouted first. Why?", "lines": 2},
+          {"t": "mcq", "p": "A diya under a small tumbler goes out before one under a big jar because:", "opts": ["The small tumbler is made of steel", "The big jar holds more air with oxygen for the flame", "The big jar is colder", "The small diya had less oil"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Festival puzzles and scientists who were doubted",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Twelve Moon months are about 354 days. A Sun year is about 365 days. If Eid is on 10 April one year, roughly when will it be the next year?", "lines": 2},
+          {"t": "fill", "p": "Everest is about 8,848 metres high. A 10-metre house would need to be stacked about ____ times to reach the top (round to the nearest hundred).", "a": ["900", "885"]},
+          {"t": "write", "p": "Tulips flower well in Kashmir but not in Chennai. Give a reason.", "lines": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if there were no winter at all in Kashmir one year? What might happen to the tulip festival?", "lines": 3},
+          {"t": "write", "p": "What if every road sign in India used only words in one language? Who would find it hard, and why are pictures better?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Wegener said whole continents move. Scientists laughed because he could not explain what pushed them. Is it fair to reject an idea because nobody knows how it works yet? Give a reason.", "lines": 4},
+          {"t": "mcq", "p": "People say buransh flowers earlier than before. What would be the best evidence?", "opts": ["One person's memory", "A careful record of the flowering date of the same trees, every year, for many years", "A photo of one flower", "A news story"], "a": 1},
+          {"t": "write", "p": "Aryabhata said the Earth spins, which makes day and night. Most people then thought the sky turned round the Earth. What could you see from the ground that fits both ideas?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Sprouting grains for Sarhul",
+      "day": 1,
+      "question": "Do grains soaked in water first sprout faster than dry grains, and what helps the shoots turn green?",
+      "need": ["40 whole wheat grains or whole moong", "a cup of water", "2 plates", "cotton wool", "labels", "a ruler", "a sunny window for later"],
+      "steps": [
+        "Soak 20 grains in water overnight. Keep 20 dry.",
+        "Next morning, put damp cotton on both plates. Put the soaked grains on one ('Soaked first') and the dry grains on the other ('Not soaked').",
+        "Keep both plates side by side in the same place, out of direct sun. Keep the cotton damp.",
+        "Each day, count how many grains show a white tip and measure the longest sprout.",
+        "On Day 5, move both plates to a sunny window.",
+        "On Day 7, count the sprouted grains and compare the colour of the shoots."
+      ],
+      "predict": "Ask your child to guess first: which plate will sprout first? Will the shoots be green or white before they go into the sun?",
+      "observe": "Record the counts each day in a table. Usually the soaked grains show white root tips a day or so earlier. Shoots that grew out of direct light are pale; after a day or two at the sunny window they turn green.",
+      "why": "A dry grain is a resting baby plant with a store of food. To wake up, it must first soak up a lot of water: the grain swells, its skin softens and the living parts start working. Soaked grains have already done this, so they are ahead. The first thing that comes out is the root, which holds on and drinks; then the shoot. A seed does not need light to sprout, because it uses its stored food, but a shoot needs light to make its green colour (chlorophyll) and start making its own food. The Sarhul custom of carrying sprouted grains in spring celebrates exactly this: new life from the Earth, warmed by the Sun.",
+      "safety": "Wash hands after handling. Do not eat sprouts that have been sitting out for many days.",
+      "time": "15 min to set up + 3 min checks on Days 2–5 + 8 min on Day 7"
+    },
+    {
+      "id": "e2",
+      "title": "Why mountain roads zigzag: the ramp test",
+      "day": 2,
+      "question": "Is it easier to pull a load up a steep slope or a gentle, longer slope?",
+      "need": ["a tray, board or thick book cover about 40 cm long", "a pile of books", "a small box (a pencil box) with coins inside", "a rubber band", "a ruler", "notebook"],
+      "steps": [
+        "Loop the rubber band through or around the box so you can pull it by the band.",
+        "Make a steep ramp: rest one end of the tray on a tall pile of books.",
+        "Pull the box slowly and steadily straight up the ramp by the rubber band. Measure how long the band stretches while it moves.",
+        "Make a gentle ramp: use fewer books, or a longer board to reach the same height.",
+        "Pull again and measure the stretch. Do each twice.",
+        "Measure the length of each ramp too."
+      ],
+      "predict": "Ask your child to guess first: will the rubber band stretch more on the steep ramp or the gentle one? Which path is longer?",
+      "observe": "Record the band's length for each. The band stretches more on the steep ramp, showing a harder pull. The gentle ramp needs a smaller pull but the box travels a longer way.",
+      "why": "Lifting a load straight up means pulling against the whole of its weight. A slope lets you lift it a little at a time: the gentler the slope, the smaller the pull you need, but the longer you must travel. A mountain road that went straight up would be too steep for a loaded bus's engine and brakes, and wheels would slip. So engineers wind the road back and forth across the mountainside in hairpin bends, making it longer but gentle enough to drive safely. A slope like this is one of the simple machines, called an inclined plane; a ramp for a wheelchair works the same way.",
+      "safety": "Keep the pile of books steady so it does not fall on toes.",
+      "time": "17 min"
+    },
+    {
+      "id": "e3",
+      "title": "Diya under a jar",
+      "day": 7,
+      "question": "Why does a festival flame go out when it is covered, and does a bigger jar keep it alive longer?",
+      "need": ["2 small diyas with oil and cotton wicks, or 2 tea-light candles", "matches (adult only)", "a steel plate", "a small steel tumbler", "a big glass jar", "a timer"],
+      "steps": [
+        "An adult places both diyas on the steel plate and lights them. Let the flames settle for a minute.",
+        "At the same moment, cover one diya with the small tumbler and the other with the big jar. Start the timer.",
+        "Watch the flames through the glass jar and note when each goes out (for the steel tumbler, lift it slightly after a few seconds to peek, or listen for the flame to stop flickering under the edge).",
+        "Wait for the jar to cool before touching it. Notice any mist on the inside of the glass.",
+        "Try again with the big jar, but lift it off for a moment just as the flame gets small. What happens?"
+      ],
+      "predict": "Ask your child to guess first: which flame will last longer, and why will a covered flame go out at all?",
+      "observe": "The flame under the small tumbler goes out within a few seconds; the one under the big jar lasts longer, getting smaller and dimmer first. There may be mist inside the glass. If you lift the jar just in time, the flame grows bright again.",
+      "why": "A flame needs three things: fuel (the oil or wax), heat, and oxygen, a gas that makes up about one-fifth of the air. Burning uses up oxygen and makes other gases, carbon dioxide and water vapour (which is the mist). When the flame is covered, no fresh air can reach it, so once the oxygen inside gets too low the flame goes out. A big jar holds more air, so there is more oxygen and the flame lasts longer. Lifting the jar lets fresh air in. This is why diyas are placed where air can reach them, and why covering a small fire with a lid or sand puts it out.",
+      "safety": "Only an adult lights and handles the flames. Keep hair, dupattas and paper away. Glass gets hot: wait before touching. Keep water nearby.",
+      "time": "13 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Doorstep flower welcome (Phool Dei and Vishu Kani style)",
+      "day": 5,
+      "mins": 8,
+      "need": ["fallen flowers (especially yellow and red) and leaves", "a plate", "a fruit, a vegetable, a coin and an unlit diya"],
+      "steps": [
+        "Sort the fallen flowers by colour.",
+        "At the doorstep, place a small heap or line of flowers and leaves, as children do in Phool Dei, to welcome spring.",
+        "Or, on a plate, arrange a Vishu Kani: a yellow flower, a fruit, a vegetable, a coin and an unlit diya, beautifully set out.",
+        "Ask a family member to come and see it as their first sight, and say what it means.",
+        "Afterwards, put the flowers into a plant pot or compost so they return to the soil."
+      ],
+      "outcome": "A doorstep spring welcome or a Vishu Kani plate, and a child who can explain how these festivals celebrate nature."
+    },
+    {
+      "id": "a2",
+      "title": "Two-week Moon diary",
+      "day": 6,
+      "mins": 7,
+      "need": ["a table in the notebook: Date, Time, Draw the Moon, Any festival near?", "a calendar or panchang"],
+      "steps": [
+        "Each clear night, at about the same time, find the Moon (it may be up only late at night or in the early morning on some days).",
+        "Draw its exact shape and note the date and time.",
+        "Write 'not seen' on cloudy nights or when it is not up.",
+        "Mark the full moon (purnima) and new moon (amavasya) dates from the calendar.",
+        "Write any festival that falls near those dates.",
+        "After two weeks, look at all the drawings: is the shape growing or shrinking?"
+      ],
+      "outcome": "A two-week Moon diary showing the Moon's changing shape, linked to the festival dates on the calendar."
+    },
+    {
+      "id": "a3",
+      "title": "A festival of our own",
+      "day": 9,
+      "mins": 7,
+      "need": ["paper and colours", "ingredients for one simple dish", "flowers or leaves for decoration"],
+      "steps": [
+        "Choose what your festival celebrates in this season (the first rain, a tree's new leaves, the harvest of your methi pot, the full moon).",
+        "Give it a name and draw its symbol.",
+        "Choose one food to make together and one decoration made from natural things.",
+        "Write a four-line song or chant for it.",
+        "Make an invitation card for the family or a neighbour.",
+        "Hold the festival on the chosen day and take photos."
+      ],
+      "outcome": "A family festival invented by your child, with an invitation, a food, a decoration and a song, held within two weeks."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Alfred Wegener (1880–1930), Germany",
+      "idea": "In 1912 Wegener proposed that the continents were once joined in one huge land and have slowly drifted apart. His evidence: the coasts of South America and Africa fit together like puzzle pieces; the same fossils, such as the fern-like plant Glossopteris, are found in India, Africa, South America, Australia and Antarctica; and the same kinds of rocks line up across oceans. He published his ideas in a book in 1915.",
+      "then": "Most geologists rejected it, some mockingly, mainly because Wegener could not explain what force could push whole continents. He died on an expedition in Greenland in 1930, with his idea still not accepted.",
+      "now": "Accepted. In the 1950s and 1960s, maps of the ocean floor and of magnetism in rocks showed that the Earth's outer shell is broken into huge plates that move a few centimetres a year. This is called plate tectonics. The Indian plate broke away from the southern land, moved north and began crashing into Asia about 50 million years ago, crumpling up the Himalayas. India is still moving north by about 4–5 centimetres a year, and the Himalayas are still rising slowly.",
+      "status": "accepted",
+      "ask": "Wegener had good clues but no explanation of how continents move. Should scientists have believed him anyway? What clue would have convinced you?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Aryabhata (476–c. 550 CE), India",
+      "idea": "Aryabhata wrote his book, the Aryabhatiya, in 499 CE, when he was 23, near Kusumapura (near today's Patna). He said that the Earth spins on its axis, which is why the stars seem to move across the sky each night. He explained that the Moon shines with light from the Sun, and that eclipses happen when the shadow of the Earth falls on the Moon or the Moon's shadow falls on the Earth, not because of a demon swallowing them. He calculated the length of the year and the Moon's movements very accurately, work that Indian calendar-makers used for centuries.",
+      "then": "His calculations were greatly respected, but many later astronomers did not accept that the Earth spins; for centuries most people in India and elsewhere believed the Earth stood still while the sky turned around it.",
+      "now": "His ideas about the spinning Earth, reflected moonlight and the cause of eclipses are all accepted today. India named its first satellite, launched in 1975, Aryabhata. Indian festival calendars (panchangs) still follow the Moon, adding an extra month (adhik maas) about every three years so festivals stay in their seasons.",
+      "status": "accepted",
+      "ask": "When you stand still, the Sun seems to move across the sky. How could you tell whether the sky is turning or the Earth is spinning? Is there any clue you can see from the ground?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "SeasonWatch (India, started 2010) and scientists tracking flowering times",
+      "idea": "SeasonWatch is an Indian citizen-science project in which schoolchildren and volunteers watch the same trees, such as mango, jamun, amaltas and tamarind, every week and record when they get new leaves, flowers and fruit. Records like these help scientists see whether trees are changing their timing. In the Himalayas, many people have reported that buransh (rhododendron) now flowers earlier than they remember, sometimes in mid-winter.",
+      "then": "For a long time there were very few written records of when Indian trees flower, so changes were known mainly from people's memories, which can be unreliable.",
+      "now": "Around the world, long records show that warmer temperatures are making many plants flower earlier; this is well accepted. For buransh and other Indian trees, careful year-by-year records are still short, so scientists are still working out how much the timing has really changed and how much is due to warming rather than other causes, such as a single warm winter or local conditions. This is why careful records by ordinary people matter.",
+      "status": "debated",
+      "ask": "Your Nani says the mango trees flower earlier now than when she was young. How could you check if she is right? What would you need to write down, and for how many years?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "Radhanath Sikdar (1813–1870), India",
+      "idea": "Radhanath Sikdar, a gifted mathematician from Bengal, worked for the Great Trigonometrical Survey of India, which measured the land using triangles and angles. He is widely credited with working out, around 1852, from angles measured by surveyors far away on the plains, that the mountain then called 'Peak XV' was the highest in the world, at about 29,002 feet (about 8,840 metres). In 1865 the peak was named after George Everest, a former head of the survey.",
+      "then": "His calculation was accepted by the survey, though the peak was named after Everest, not him, and his name was little known for a long time outside India.",
+      "now": "His result was very close to modern measurements. Indian surveyors measured Everest at 8,848 metres in 1955, and Nepal and China announced 8,848.86 metres in 2020. Sikdar is remembered in India as a pioneer of measurement science; some details of the famous story of his discovery are retold more than they are recorded.",
+      "status": "accepted",
+      "ask": "Sikdar never climbed the mountain, yet he found its height. Do you trust a measurement made from far away? What could make it wrong?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "What do a red circle, a red triangle and a blue rectangle mean on Indian road signs? Give one example of each.", "a": "Red circle: a rule you must follow, like No Parking or No Horn. Red triangle: a warning of something ahead, like Speed Breaker or School Ahead. Blue rectangle: information, like a hospital or petrol pump."},
+    {"q": "Why do mountain roads have hairpin turns?", "a": "Going straight up would be too steep. Winding back and forth makes the road longer but gentler, so a bus needs less pull to climb and can brake safely, like the gentle ramp in our test."},
+    {"q": "Name two spring festivals from different parts of India and how they celebrate nature.", "a": "For example: Phool Dei in Uttarakhand, with buransh and mustard flowers at doorsteps; Vishu in Kerala, with amaltas flowers, fruits and vegetables in the Vishu Kani; Sarhul in Jharkhand, with sprouted grains and sal flowers offered to the Earth and the Sun; the tulip festival in Kashmir."},
+    {"q": "Which festivals go with thekua, pitha, gujiya and seviyan?", "a": "Thekua – Chhath Puja; pitha – Bihu; gujiya – Holi; seviyan – Eid-ul-Fitr."},
+    {"q": "What does 'Himalaya' mean, and how high is Mount Everest?", "a": "'Home of snow'. Everest is about 8,848 metres high (8,848.86 metres by the 2020 measurement)."},
+    {"q": "Why do Holi and Eid fall on different dates each year but Christmas does not?", "a": "Holi and Eid follow the Moon: Holi is on a full moon, Eid starts when the new crescent is seen. Moon months are about 29½ days, so they do not fit our Sun calendar. Christmas follows the Sun calendar, always 25 December."},
+    {"q": "Why did our diya under the small tumbler go out before the one under the big jar?", "a": "A flame needs oxygen from the air. Covered, it uses up the oxygen inside; the small tumbler held less air, so it ran out sooner."}
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "key": "cambridge|sci|3|2",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 3,
+  "n": 2,
+  "title": "Looking after ourselves",
+  "source": "Cambridge Primary Science Learner's Book 3 (Board and Cross, 1st edition, 2014), Unit 2 'Looking after ourselves' (pages 16–25)",
+  "summary": "Your child learns to sort the foods in an Indian kitchen into the book's five food groups (carbohydrate, fruit and vegetables, protein, dairy, fat and sugar) and what each does for the body, and uses the food triangle to judge a balanced, varied diet. They find out why water matters, read sugar on drink labels, test what a sugary drink does to egg shell, and measure how exercise changes their heartbeat and breathing, finishing with why sleep matters.",
+  "goals": [
+    "By the end your child can sort everyday Indian foods into carbohydrate, fruit and vegetables, protein, dairy, and fat and sugar, and say what each group does for the body.",
+    "By the end your child can use the food triangle to explain a healthy, varied diet and plan a balanced thali.",
+    "By the end your child can explain what being dehydrated means and why we can live only a few days without water.",
+    "By the end your child can read the sugar on a drink label, put drinks in order in a table and a bar chart, and explain what too much sugar, fat and salt do to the body.",
+    "By the end your child can measure their heartbeat and breathing before and after exercise and explain what changes and why.",
+    "By the end your child can say why children need exercise and about 10–12 hours of sleep, and plan a healthy day."
+  ],
+  "words": [
+    ["carbohydrate", "the food group that gives you energy, such as rice, roti, idli, poha, bread and potatoes"],
+    ["protein", "the food group that helps you grow and repair your body, such as dal, rajma, chana, eggs, fish, chicken and paneer"],
+    ["dairy", "foods made from milk, such as milk, curd (dahi), paneer and cheese; they help make strong bones and teeth"],
+    ["fat", "an oily food group found in ghee, oil, butter and fried snacks; we need a little, but too much is bad for the heart"],
+    ["energy", "what your body needs to move, think, grow and keep warm; food gives us energy"],
+    ["diet", "all the food and drink a person usually has"],
+    ["nutrition", "everything your body gets from food that it needs to grow, work and stay healthy"],
+    ["dehydrated", "when your body does not have enough water; you feel tired, thirsty and may get a headache"],
+    ["salt", "a white crystal we add to food for taste; a little is needed, but too much is bad for the heart"],
+    ["exercise", "lots of movement, such as running, skipping, cycling, playing and walking, that makes your heart, bones and muscles strong"],
+    ["record", "to write down or draw what you find out, for example in a table"],
+    ["pulse", "the beat of your heart that you can feel on your wrist or neck"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Food groups in our kitchen",
+      "goal": "Start from what your child ate yesterday, learn the five food groups on page 16 and what each does, and sort real foods from your kitchen into groups.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What did you eat yesterday?",
+          "mins": 5,
+          "do": "Ask your child to tell you everything they ate and drank yesterday, from morning chai or milk to dinner. Write it as a list. Then ask: 'Why do we eat? What would happen if we ate only jalebis every day?' Good answers: 'We eat to grow, to get energy to play, to stay healthy. Only jalebis would make our teeth bad and we would not grow properly.' Keep the list; you will sort it later."
+        },
+        {
+          "kind": "read",
+          "title": "Food groups (page 16)",
+          "mins": 10,
+          "do": "Open the Learner's Book at page 16, Topic 2.1 'Food groups'. Read 'Foods can be put into groups' and the Words to learn box (dairy, fruit, vegetables, fat, carbohydrate, energy, protein, meat, fish). Go round the circle of pictures one at a time and read each label: dairy foods for strong bones and teeth; fruit and vegetables to be healthy; carbohydrate for energy; protein (such as meat and fish) for growth; you should not eat too much fat and sugar. After each, ask your child to name two Indian foods for that group. Good answers: carbohydrate: rice, roti, idli, poha, potato; protein: dal, rajma, chana, egg, fish, chicken; dairy: milk, dahi, paneer; fruit and vegetables: banana, guava, bhindi, palak; fat and sugar: ghee, oil, chips, mithai. Explain that vegetarians get protein from dal, beans, nuts, milk and paneer."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 2.1: Sorting food into food groups (page 17)",
+          "mins": 15,
+          "do": "Do Activity a1, the book's Activity 2.1. Write the five group names on five sheets of paper on the floor. Your child collects about 20 real foods or empty packets from the kitchen (a handful of rice, atta, a potato, a packet of moong dal, an egg, a banana, a tomato, a milk packet, a curd cup, ghee, oil, a biscuit packet, sugar, peanuts, a chips packet) and puts each on the right sheet. For each, ask 'Why does it go there?' Tricky ones to discuss: peanuts (protein, but also lots of fat), paneer (dairy and protein), potato (a vegetable, but mostly carbohydrate, so the book would put it with rice), ghee (made from milk but it is almost all fat, so fat). Say: 'Many foods belong to more than one group. We put them in the group of what they mostly give us.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "The labels on the packets help",
+          "mins": 7,
+          "do": "The book says 'The labels on the packets will help.' Take a packet of biscuits and a packet of dal. Find the 'Nutrition information' box together. Point to the words carbohydrate, protein, fat and sugar and the number of grams (g) per 100 g. Ask: 'Which has more protein, the dal or the biscuit?' (Dal, usually about 20–25 g per 100 g; biscuits usually 6–8 g.) 'Which has more sugar?' (The biscuit.) Do not worry about all the numbers; just show that the label tells us what is inside."
+        },
+        {
+          "kind": "do",
+          "title": "Sort yesterday's food",
+          "mins": 3,
+          "do": "Go back to the list from the warm-up. Your child writes the first letter of the food group next to each item (C, FV, P, D, FS). Ask: 'Which group did you eat most of yesterday? Which did you eat least?' Keep the list for Day 3."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 16–17",
+        "5 sheets of paper and a marker for group names",
+        "about 20 real foods or empty food packets from the kitchen",
+        "notebook and pencil"
+      ],
+      "prep": [
+        {
+          "task": "Keep aside some empty food packets with nutrition labels (biscuits, dal, chips, milk, juice)",
+          "when": "1 week before"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "What should Bimla eat? Start the egg shell test",
+      "goal": "Think about Bimla's friends' advice, answer the book's food group questions, set up the book's egg shell and sugary drink test (it needs seven days), and start a two-day food diary.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Quick food group game",
+          "mins": 4,
+          "do": "Call out foods and your child shouts the group: 'Idli! (carbohydrate) Rajma! (protein) Dahi! (dairy) Mango! (fruit) Samosa! (fat, it is fried; also carbohydrate from the potato and flour) Gulab jamun! (fat and sugar) Fish curry! (protein) Lassi! (dairy).' Swap roles so your child calls out foods for you."
+        },
+        {
+          "kind": "read",
+          "title": "Bimla wants to be healthy (page 17)",
+          "mins": 8,
+          "do": "Read page 17: 'Bimla wants to be healthy. What should she eat?' Read the four speech bubbles from her friends: 'Eat chocolate. Sugar gives you energy.' 'Eat food that tastes good.' 'Drink milk. It makes you strong.' 'Fruit and vegetables are good for you.' For each, ask: 'Is this good advice? Is it partly right?' Good thinking: chocolate does give energy, but too much sugar is bad for teeth and has little else your body needs; tasty food is fine but tasty is not the same as healthy; milk helps bones and teeth but you cannot live on milk alone; fruit and vegetables are good, but you also need protein and carbohydrate. Ask: 'What would you tell Bimla?' (Eat foods from all the groups, mostly the healthy ones.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 and Talk about it (page 17)",
+          "mins": 8,
+          "do": "Ask Question 1: 'Which food group should you eat least? Why?' (Fat and sugar, because too much is bad for your heart and teeth and can make you overweight.) Question 2: 'Which food group helps you to grow?' (Protein.) Question 3: 'What type of food group would be good to eat as a healthy snack?' (Fruit and vegetables, for example a guava, a banana, cucumber or carrot sticks, roasted chana; dairy like a bowl of dahi is also good.) Then the 'Talk about it!' question: 'Which food groups should you eat most?' Let them guess; tell them they will check on Day 3 with the food triangle."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up Activity 2.3b: What does sugar do to teeth? (page 20)",
+          "mins": 12,
+          "do": "We start this test early because it needs seven days. Turn to page 20 and read Activity 2.3b: 'The material that makes up egg shells is similar to the material that makes up your teeth.' Look at the three pictures. Set up Experiment e1 with three cups (one more than the book, to make it a better test): half an egg shell in plain water, half in a cola, and half in water with 4 spoons of sugar stirred in. Label each cup. Your child writes a prediction for each cup in the notebook. Ask: 'Which cup do you think will damage the shell most? Why?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "act",
+          "title": "Start a two-day food diary",
+          "mins": 8,
+          "do": "Start Activity a2. Draw a table in the notebook with columns: Meal or snack, What I ate or drank, Food group(s), and a column for glasses of water. Fill in today's breakfast and lunch together now. Tell your child to fill in every meal, snack and drink for today and tomorrow, including the 'small' things like a toffee or a cup of chai. Ask: 'Why must we be honest in a diary?' (Otherwise the results do not tell us the truth.)",
+          "ref": "a2"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 17 and 20",
+        "1 egg (use the shell after cooking the egg)",
+        "3 clear plastic cups, a small bottle of cola, sugar, water, labels",
+        "notebook for the food diary"
+      ],
+      "prep": [
+        {
+          "task": "Crack an egg for cooking, rinse the two halves of the shell, and keep them; buy a small bottle of cola",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The food triangle and a balanced thali",
+      "goal": "Learn that a healthy diet is varied and balanced, read the food triangle on page 18, compare your child's own food diary with it, and plan a balanced thali.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Peek at the egg shells",
+          "mins": 3,
+          "do": "Look at the three cups in Experiment e1 without touching. Ask: 'Can you see any bubbles on the shell in the cola cup? Has its colour changed?' Your child writes one line for each cup with today's date.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "A healthy diet and the food triangle (page 18)",
+          "mins": 8,
+          "do": "Read page 18, Topic 2.2: the Words to learn (diet, nutrition, headache, dehydrated) and 'A healthy diet needs to be varied. A balance of food from different groups gives your body the nutrition it needs. This food triangle shows how much of each food group you should eat.' Look at the triangle from the bottom up: the widest part is carbohydrates (rice, bread), then vegetables and fruit, then dairy and protein, and the tiny top is fat and sugar. Ask: 'Why is the bottom the widest?' (We should eat most of these.) 'Why is fat and sugar at the tiny top?' (We should eat only a little.) Now answer the Day 2 'Talk about it' question again: 'Which food groups should you eat most?' (Carbohydrates and fruit and vegetables.)"
+        },
+        {
+          "kind": "do",
+          "title": "My diary against the triangle",
+          "mins": 10,
+          "do": "Use the food diary (Activity a2) and Day 1's list. Your child draws a big triangle with the same five layers and puts one tick in the right layer for each thing they ate. Ask: 'Does your triangle look like the book's? Which layer has too many ticks? Which has too few?' Many children have lots of carbohydrate and too few vegetables, or a lot of biscuits and sweets. Agree on one small change, for example 'one more vegetable at lunch' or 'fruit instead of biscuits after school'.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "C. Gopalan and the foods of India",
+          "mins": 9,
+          "do": "Tell the story in Voice v1 in your own words: Dr C. Gopalan, an Indian scientist, measured what is inside hundreds of Indian foods, from ragi to drumstick leaves, so that doctors and families knew what each gives our body. Show them a page of numbers from any food packet: 'Scientists in a lab worked these numbers out.' Tell them one finding: ragi has much more calcium (for bones) than rice or wheat. Ask the voice question and let your child answer fully.",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Plan a balanced thali",
+          "mins": 10,
+          "do": "Give your child a steel thali (or draw a big circle) and some katoris. They plan one healthy lunch with something from each group, in the right amounts: a large share of rice or roti, a lot of sabzi and salad, one katori of dal or a piece of fish or egg, a katori of dahi, and just a little ghee or a small sweet. They draw it and label each item with its group. If you can, cook this exact thali for dinner tonight together. Ask: 'Why does a thali have many small katoris instead of one big plate of rice?' (Variety: different foods give different things the body needs.)"
+        }
+      ],
+      "need": [
+        "Learner's Book page 18",
+        "the food diary and Day 1 list",
+        "a steel thali and katoris, or paper and coloured pencils"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Tasting fruit and vegetables",
+      "goal": "Read Sam's kiwi story, do the book's tasting activity with Indian fruit and vegetables, and learn how a careful test with sailors showed why we need fruit.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Egg shell check",
+          "mins": 2,
+          "do": "Look at the three cups in Experiment e1. Your child adds one line per cup to the record: colour, bubbles, anything floating.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Sam and the kiwi fruit (page 18)",
+          "mins": 6,
+          "do": "Read the bottom of page 18: 'Fruit and vegetables keep us healthy. Sam will only eat bananas and carrots. He does not like any others.' Read the three cartoon frames: 'Taste this kiwi fruit. It's nice.' 'No, I don't like it. It's hairy.' 'Look, it's great inside.' 'Hmmm.' 'Fruit and vegetables are good for you.' 'It's nice.' Ask: 'Why did Sam not want to try the kiwi?' (It looked hairy; he judged it by the outside.) 'Have you ever refused a food because of how it looked, and then liked it?'"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 2.2: Tasting fruit and vegetables (page 19)",
+          "mins": 20,
+          "do": "Do Activity a3. Copy the table from page 19 into the notebook: Fruit/Vegetable, Prediction (Will you like it?), Result (How did it taste? Did you like it?). The book's example row is melon: predicted 'no', tasted 'very sweet', liked it 'yes'. Prepare small pieces of 6–8 fruits and vegetables, some your child has not tried or usually refuses: amla, jamun or a seasonal fruit, a kiwi if available, raw mango with a pinch of salt, cucumber, beetroot, a raw carrot, a slice of boiled karela, chikoo. Before each taste, your child writes their prediction. Then they taste and describe it with real describing words: sweet, sour, bitter, salty, juicy, crunchy, soft, stringy. Count at the end: 'How many did you predict you would not like, and then liked?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: Why was it good that Sam tasted the kiwi? (page 19)",
+          "mins": 4,
+          "do": "Read the Talk about it question on page 19. Good answers: he found a new food he liked; eating many different fruits and vegetables gives the body many different things it needs (vitamins, minerals and fibre); if he only eats bananas and carrots he will miss some. Tell them: scientists have found that children often need to taste a new food many times, sometimes 8–10 times, before they start to like it. So 'I don't like it' today might change."
+        },
+        {
+          "kind": "think",
+          "title": "James Lind and the sailors' sickness",
+          "mins": 8,
+          "do": "Tell the story in Voice v2. Sailors on long sea journeys long ago got scurvy: bleeding gums, weak bodies, wounds that would not heal. In 1747 a ship's doctor, James Lind, tried six different treatments on twelve sick sailors, two sailors per treatment. Ask your child to guess which worked before you tell them (oranges and lemons). Point out that amla is one of the richest sources of the same vitamin, vitamin C. Then ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 18–19",
+        "6–8 fruits and vegetables cut into small pieces (amla, seasonal fruit, kiwi if available, raw mango, cucumber, beetroot, carrot, boiled karela, chikoo)",
+        "a plate, spoons, napkins, notebook"
+      ],
+      "prep": [
+        {
+          "task": "Buy 6–8 fruits and vegetables, including at least 2 your child has never tasted or usually refuses",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Water and being dehydrated",
+      "goal": "Learn that water is part of a healthy diet, what being dehydrated means and how it feels, track water drunk in a day, and do the core worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Egg shell check",
+          "mins": 2,
+          "do": "Check Experiment e1 again. Ask: 'Is the shell in cola still hard? Is it changing colour?' Your child adds today's line.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Water is part of a healthy diet (page 19)",
+          "mins": 7,
+          "do": "Read the middle of page 19: 'Water is part of a healthy diet. Not drinking enough will make you tired and give you a headache. This is called being dehydrated. We can only live without water for a few days.' Look at the photo of the runner drinking: 'When running long distances it is easy to become dehydrated.' Ask: 'When have you felt very thirsty?' (After playing cricket in the afternoon, on a hot bus journey, after a fever.) 'Where does the water in our body go?' Help them list: sweat, breath (breathe on a mirror and see the water mist), and urine. Explain: more than half of your body weight is water; your blood is mostly water."
+        },
+        {
+          "kind": "do",
+          "title": "Raisin and water: why the body needs water",
+          "mins": 10,
+          "do": "Put 5 raisins (kishmish) in a glass of water and 5 on a dry plate. Ask your child: 'What will happen to the raisins in water?' Leave them while you do the next step; look again after 30 minutes and before bed. The raisins in water swell up and become soft and plump. Explain: 'A raisin is a grape that has lost almost all its water; it is wrinkly and hard. Our body's cells also need water to stay full and working. When we are dehydrated we do not become raisins, but our body cannot work properly, so we feel tired, dizzy and get a headache.' Also look at the colour chart idea: pale yellow urine usually means enough water, dark yellow means drink more."
+        },
+        {
+          "kind": "act",
+          "title": "Water tracker",
+          "mins": 8,
+          "do": "Give your child their own steel water bottle and mark it with a strip of tape. They measure how many glasses fill it. Make a small tracker card with 8 boxes; each time they finish a glass of water today and tomorrow, they colour a box. Ask: 'When should you drink more than usual?' (In hot weather, when playing or exercising, when you have a fever or loose motions.) Explain that milk, lassi, nimbu paani, dal and fruits like watermelon also give us water."
+        },
+        {
+          "kind": "ws",
+          "title": "Questions 1–2 (page 19) and core worksheet",
+          "mins": 13,
+          "do": "First ask Question 1 on page 19: 'Why do we need to eat lots of fruit and vegetables?' (They keep us healthy; they give vitamins, minerals and fibre and also water.) Question 2: 'What makes people dehydrated?' (Not drinking enough, sweating a lot in heat or exercise, being ill with vomiting or loose motions.) Then your child does Worksheet ws1 (core). Check it together and go back to pages 16–19 for any wrong answers.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 19",
+        "10 raisins, a glass of water, a plate",
+        "a steel water bottle, a glass, tape, a small card"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Which drinks have the most sugar?",
+      "goal": "Do the book's drink label activity, turn grams of sugar into spoonfuls you can see, and meet the scientist who warned about sugar.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Egg shell check",
+          "mins": 2,
+          "do": "Check Experiment e1. Your child adds today's line. If the cola has gone very cloudy, ask: 'What could be making it cloudy?' (Bits of the shell, or the shell dissolving.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "An unhealthy diet: Activity 2.3a (page 20)",
+          "mins": 5,
+          "do": "Read page 20, Topic 2.3 'An unhealthy diet' and the Words to learn (record, salt, discuss). Read Activity 2.3a 'Which drinks have the most sugar? Predict which drinks are healthy and which are unhealthy. Read the labels to find out how much sugar is in each drink. Record your results in a table.' Ask your child to predict before you start, and write the drinks in the order they think, most sugar to least."
+        },
+        {
+          "kind": "act",
+          "title": "Read the drink labels",
+          "mins": 18,
+          "do": "Do Activity a4. Collect 5–7 drink packets or bottles at home or from a shop (look only, no need to buy all): a cola, a mango drink like a tetra-pack fruit drink, a packaged '100% juice', flavoured milk, a packet of buttermilk (chaas), a malt drink powder, and plain water. Your child finds 'Total sugars' per 100 ml (or per 100 g) on each label and records it in a table: Drink, Sugar per 100 ml in g. Then they work out the sugar in one whole bottle or pack: for a 250 ml pack, multiply the per-100 ml number by 2.5 (help with the sum). Compare with the prediction: 'Which surprised you?' Often fruit drinks have as much sugar as cola, and 100% juice has a lot too, from the fruit's own sugar.",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "See the sugar",
+          "mins": 7,
+          "do": "One level teaspoon of sugar is about 4 g. Take the drink with the most sugar per pack and help your child work out how many teaspoons are in the whole pack (for example 27 g ÷ 4 ≈ 7 teaspoons). They measure that many teaspoons of real sugar into a small bowl next to the pack. Do the same for plain water (zero) and buttermilk. Ask: 'Would you eat this bowl of sugar with a spoon? But it is in the drink.' Mention that the World Health Organization advises that free sugars (added sugar and the sugar in juice) should be less than one tenth of everything we eat, and less than one twentieth is better."
+        },
+        {
+          "kind": "think",
+          "title": "John Yudkin: was sugar the problem?",
+          "mins": 8,
+          "do": "Tell the story in Voice v3 in your own words: in 1972 a British scientist, John Yudkin, wrote a book warning that sugar was dangerous to health. Many scientists at the time blamed fat instead, and his warnings were ignored for years. Later it came out that the sugar industry had paid for a research review that made sugar look less harmful. Ask the voice question. Point out: 'Today scientists agree too much sugar is bad for teeth and weight, but they still argue about how much of heart disease is caused by sugar and how much by other things.'",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 20",
+        "5–7 drink packets or bottles with labels (or photos of labels)",
+        "sugar, a teaspoon, a small bowl, notebook"
+      ],
+      "prep": [
+        {
+          "task": "Collect drink packets and bottles with nutrition labels, or take clear photos of labels at a shop",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Too much fat, sugar and salt",
+      "goal": "Learn what too much fat, salt and sugar do to the body, test foods for hidden fat with the paper spot test, and plan how to find out if fruit juice is good for teeth.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Egg shell check",
+          "mins": 2,
+          "do": "Check Experiment e1 and add today's line to the record. Tell your child that tomorrow or the day after is the seventh day, when you will take the shells out.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "An unhealthy diet (page 21)",
+          "mins": 7,
+          "do": "Read page 21: 'Eating lots of fat, sugar and salt makes your diet unhealthy. Fat and salt are bad for your heart. Sugar is bad for your teeth. Brushing your teeth after breakfast and before going to bed will help.' Then the two photos: 'Eating too much food is bad for you. Your body can store food as fat. This can make you overweight.' 'Some people do not have enough food to eat. Being very thin is not healthy.' Ask the Questions: 'Too much sugar is bad for your ____' (teeth) and 'Too much fat and salt is bad for your ____' (heart). Talk gently: being healthy is about what we eat and how active we are, not about teasing anyone's size."
+        },
+        {
+          "kind": "exp",
+          "title": "The paper spot test for fat",
+          "mins": 13,
+          "do": "Do Experiment e2. Cut a brown paper bag or plain notebook paper into 8 squares and write a food name on each: a bit of samosa or pakora, a potato chip, a piece of roti, a peanut, a slice of apple, a cube of paneer, a bit of biscuit, and a drop of water (to compare). Your child rubs each food firmly on its square for 10 seconds, then waits 10 minutes for water to dry. Hold each square up to the window. Ask: 'Which squares have a see-through shiny spot that stays after drying?' (Those foods contain fat.) Sort the squares into 'lots of fat', 'a little', 'none'.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Challenge: Is fruit juice good for your teeth? (page 21)",
+          "mins": 8,
+          "do": "Read the Challenge on page 21: 'Is fruit juice good for your teeth? How could you find out? Discuss this with your friends.' Ask your child to plan an investigation using the egg shell test: a fourth egg shell in orange or mosambi juice, with everything else the same as e1 (same cup, same amount of liquid, same 7 days). Ask: 'What would you compare it with?' (The shell in plain water.) 'What do you predict?' Explain that fruit juice has natural sugar and also acid (that is why lemon and orange taste sour), so it can harm teeth if sipped often. Whole fruit is better than juice. If you like, set up the juice cup today and check it in 7 days."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Your child does Worksheet ws2 (stretch), using what they have learnt on new examples. Discuss any answer they are unsure of by asking 'Which food group is this mostly? What would happen if you ate it every day?'",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 21",
+        "brown paper bag or plain paper cut into 8 squares, a marker",
+        "small pieces of samosa or pakora, chips, roti, peanut, apple, paneer, biscuit",
+        "optional: another half egg shell, a cup of orange or mosambi juice"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Exercise: what happens to our body?",
+      "goal": "Learn why we need exercise, and measure heartbeat, breathing and skin temperature before and after exercise in the book's Activity 2.4.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Exercise and sleep (page 22)",
+          "mins": 8,
+          "do": "Read page 22, Topic 2.4: 'To be healthy you need to look after your body in different ways. You need a healthy diet, exercise and sleep.' Look at the playground picture and ask: 'Who is doing exercise in this picture?' (Everyone moving: the boy kicking the football, the girl skipping, the child climbing, the one doing a handstand, the child running, the one on the swing.) Read: 'Exercise is lots of movement. Playing, running and walking are all good exercise. Exercise makes your heart, bones and muscles strong.' Ask: 'What exercise do you do in a normal week?' (Cycling, kho-kho, cricket, dancing, yoga, walking to the shop, climbing stairs.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 2.4: What happens when we exercise? (page 23)",
+          "mins": 17,
+          "do": "Do Experiment e3. Look at the three pictures on page 23: at rest, do some exercise, after exercise, with the thought bubbles 'Heart. How fast?', 'Breathing. How fast?', 'Skin. Cool or warm?'. First, your child sits quietly for 3 minutes. Show them how to find the pulse: two fingers (not the thumb) on the inside of the wrist below the thumb, or gently on the side of the neck. Count the beats for 15 seconds with a phone stopwatch, then multiply by 4 for beats per minute. Count breaths for 30 seconds and multiply by 2. Touch the forehead: cool or warm? Record in a table. Then 2 minutes of exercise: star jumps, skipping or running on the spot. Measure all three again immediately, then again after 3 minutes of rest.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Challenge: predict what happens if you exercise for longer (page 23)",
+          "mins": 7,
+          "do": "Read the Challenge on page 23. Ask your child to predict: 'If you skipped for 5 minutes instead of 2, what would happen to your heartbeat, breathing and skin?' (They would go up more or stay high, you would sweat, feel hot and thirsty.) Ask: 'Why does the heart beat faster when you exercise?' (Muscles that are working need more oxygen and food from the blood, so the heart pumps faster to send more blood; you breathe faster to take in more oxygen; you get hot because working muscles make heat, and you sweat to cool down.) Link to Day 5: sweating loses water, so drink water after exercise."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–2 (page 23) and astronauts",
+          "mins": 8,
+          "do": "Ask Question 1: 'Which of these is exercise: running, jumping, reading, sleeping, skipping, playing football?' (Running, jumping, skipping and playing football; reading and sleeping are not.) Question 2: 'Exercise is good for your ____, ____ and ____.' (Heart, bones and muscles.) Look at the photo 'Even astronauts have to exercise to keep healthy.' Explain: in space, things float, so muscles and bones do not have to work against gravity, and they get weaker. Astronauts on the International Space Station exercise for about two hours every day on special machines. Ask: 'What does that tell us about why our bones and muscles get strong when we play?'"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 22–23",
+        "a phone stopwatch or a clock with a seconds hand",
+        "space to jump or skip, a skipping rope if you have one",
+        "notebook with a results table"
+      ],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Egg shell results and sleep",
+      "goal": "Finish the egg shell test and explain what sugar can do to teeth, learn why sleep matters, plan a good bedtime, and do the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Egg shell results (page 20)",
+          "mins": 12,
+          "do": "Finish Experiment e1 on the seventh day. Your child takes each shell out with a spoon, rinses it and lays it on a tissue next to its label. Compare: colour, any stains, does it feel soft or rough, does it break more easily when pressed gently? Usually the cola shell is stained brown and may feel softer or rougher; the water shell is unchanged; the sugar-water shell looks almost unchanged but the water may smell bad or look cloudy. Then do the book's task: 'Think about what you found out. Explain what too much sugar can do to your teeth.' Use the 'why' of e1 to explain properly: in our mouth, germs (bacteria) eat sugar and make acid, and acid eats away the hard outer layer of teeth. Cola is a double problem: lots of sugar plus its own acid. Finish by brushing teeth together, two minutes, especially at night.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Sleep, and Talk about it: What is a good time to go to bed? (pages 22–23)",
+          "mins": 8,
+          "do": "Read the last lines of page 22: 'Sleep is also important for keeping healthy. Most school children need 10–12 hours of sleep.' Then the Talk about it question on page 23: 'What is a good time to go to bed?' Work it out together: if your child must wake at 6:30 a.m., count back 10 hours (8:30 p.m.) and 11 hours (7:30 p.m.). Ask: 'What happens when you sleep too little?' (Grumpy, tired, hard to think, may fall ill more.) Explain: while you sleep your body grows and repairs itself and your brain sorts out what you learnt in the day. Doctors today say children aged 6–12 need about 9–12 hours, so the book's 10–12 is a good target."
+        },
+        {
+          "kind": "act",
+          "title": "My bedtime routine",
+          "mins": 7,
+          "do": "Your child makes a simple bedtime chart: dinner time, no screens for an hour before bed (light from phones and TV makes it harder to fall asleep), brush teeth, a story, lights out at the chosen time. They draw a small picture for each step and stick it near the bed. For the next 5 nights, they colour a star when they keep to the lights-out time and write the time they woke up."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 13,
+          "do": "Your child does Worksheet ws3 (challenge). It has a fair-test puzzle about the egg shells, a 'what if', a label puzzle and a question comparing scientists' ideas. Let them think aloud; for the open questions, praise reasons that use evidence from their own tests.",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 20, 22–23",
+        "the egg shell cups, a spoon, tissue",
+        "toothbrushes and toothpaste",
+        "paper and coloured pencils for the bedtime chart"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the unit with the book's Check your progress questions, check understanding, and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 24–25)",
+          "mins": 12,
+          "do": "Do the Check your progress questions on pages 24–25. Question 1: match each food group to its description: dairy → keeps your bones and teeth strong; carbohydrate → gives you energy; fruit and vegetables → keeps your body healthy; fat and sugar → do not eat too much of this; protein → helps you to grow. Question 2: look at the healthy meal picture on page 24 and explain why it is healthy (it has food from several groups, lots of vegetables, not much fat and sugar). Question 3 (page 25): which sandwich is more healthy? (A, the one with salad and vegetables, rather than B with only jam, which is mostly sugar.) Question 4: make a table of sugar per 100 ml (water 0 g, cola 11 g, orange 10 g, blackcurrant 5 g) and draw a bar chart with the drinks along the bottom and grams up the side."
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 10,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page and look together for a minute, then ask it again differently. 5 or more is good; fewer than 4 means repeat the food sort (Day 1) and the label activity (Day 6) next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child is the teacher and you or a grandparent are the student. Using real things (a thali with katoris, a drink label, the egg shells, the pulse table), they teach for 5 minutes: the five food groups and what each does; the food triangle; why water matters; what too much sugar, fat and salt do; what happens to the body in exercise; why sleep matters. Ask two student questions: 'Is fruit juice as good as fruit?' and 'Why did your heart beat faster after skipping?' Praise any answer that uses their own results."
+        },
+        {
+          "kind": "act",
+          "title": "Our healthy week",
+          "mins": 5,
+          "do": "Together, write three family promises for next week on a paper on the fridge, one each for food, exercise and sleep. For example: 'Fruit instead of biscuits after school', 'Play outside or cycle for 1 hour every day', 'Lights out by 8:45 p.m.' Your child decides how to tick them off each day."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 24–25",
+        "a thali, a drink label, the egg shells and the pulse table from this unit",
+        "squared paper for the bar chart"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Food groups and a healthy diet",
+      "day": 5,
+      "sections": [
+        ["A. Food groups", [
+          {"t": "sort", "p": "Sort these foods into their main food group.", "items": ["rice", "roti", "moong dal", "egg", "milk", "dahi", "guava", "palak", "jalebi", "ghee", "fish", "potato"], "cats": ["Carbohydrate", "Protein", "Dairy", "Fruit and vegetables", "Fat and sugar"]},
+          {"t": "match", "p": "Match each food group to what it does.", "pairs": [
+            ["Carbohydrate", "Gives you energy"],
+            ["Protein", "Helps you to grow"],
+            ["Dairy", "Keeps your bones and teeth strong"],
+            ["Fruit and vegetables", "Keeps your body healthy"],
+            ["Fat and sugar", "Do not eat too much of this"]
+          ]}
+        ]],
+        ["B. The food triangle", [
+          {"t": "mcq", "p": "In the food triangle, which group should we eat the least of?", "opts": ["Carbohydrates", "Fruit and vegetables", "Fat and sugar", "Dairy"], "a": 2},
+          {"t": "fill", "p": "A healthy diet needs to be ____, with food from different groups.", "a": ["varied", "balanced"]},
+          {"t": "draw", "p": "Draw a healthy thali with something from every food group. Label each item with its group."}
+        ]],
+        ["C. Water", [
+          {"t": "fill", "p": "When your body does not have enough water you are ____.", "a": ["dehydrated"]},
+          {"t": "mcq", "p": "Which is a sign of being dehydrated?", "opts": ["Feeling tired and getting a headache", "Growing taller", "Feeling very full", "Having strong teeth"], "a": 0},
+          {"t": "write", "p": "Write two times when you should drink more water than usual.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Healthy choices in new places",
+      "day": 7,
+      "sections": [
+        ["A. Fix the meal", [
+          {"t": "write", "p": "Kabir's lunch box today: a packet of chips, two cream biscuits and a cola. Which food groups are missing? Suggest a healthier lunch box using Indian foods.", "lines": 4},
+          {"t": "mcq", "p": "Ananya is vegetarian. Which of these gives her the most protein?", "opts": ["A bowl of rajma", "A bowl of rice", "A cucumber", "A glass of orange juice"], "a": 0},
+          {"t": "write", "p": "Dadi says ghee is made from milk, so it is dairy. Is she right? Which group would you put ghee in, and why?", "lines": 3}
+        ]],
+        ["B. Read the label", [
+          {"t": "table", "p": "Use the labels you read on Day 6. Write each drink and its sugar per 100 ml, then put them in order from most to least.", "cols": ["Drink", "Sugar per 100 ml (g)", "Order (1 = most)"], "rows": 5},
+          {"t": "fill", "p": "One teaspoon of sugar is about 4 g. A drink with 20 g of sugar has about ____ teaspoons.", "a": ["5", "five"]}
+        ]],
+        ["C. Fat, salt and sugar", [
+          {"t": "sort", "p": "Which is the main worry in each food if you eat too much?", "items": ["gulab jamun", "salted chips", "pickle (achaar)", "fried pakoras", "toffee", "butter"], "cats": ["Too much sugar", "Too much salt", "Too much fat"]},
+          {"t": "write", "p": "In the paper spot test, why did we also rub a drop of water on one square?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles, tests and scientists",
+      "day": 9,
+      "sections": [
+        ["A. The egg shell puzzle", [
+          {"t": "write", "p": "The shell in cola was damaged but the shell in sugar water was not. So does sugar harm teeth or not? Explain carefully, using what happens in your mouth.", "lines": 4},
+          {"t": "write", "p": "Riya did the egg shell test but used a thick shell in water and a thin, cracked shell in cola. Is her test fair? What should she change?", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a child ate only rice, every meal, for a month? What might happen to their body? Which groups would they be missing?", "lines": 3},
+          {"t": "mcq", "p": "After 2 minutes of skipping, Aarav's pulse is 140 beats a minute. After 3 minutes of rest it should be:", "opts": ["Higher, about 180", "Going back down towards his resting pulse", "Zero", "Exactly the same, 140"], "a": 1},
+          {"t": "write", "p": "Why do astronauts in space need to exercise for about two hours every day even though they are floating?", "lines": 3}
+        ]],
+        ["C. Comparing scientists", [
+          {"t": "match", "p": "Match each scientist to what they did.", "pairs": [
+            ["James Lind (1747)", "Compared six treatments for scurvy on twelve sailors"],
+            ["C. Gopalan", "Measured the nutrition in hundreds of Indian foods"],
+            ["John Yudkin (1972)", "Warned that sugar was harmful to health"]
+          ]},
+          {"t": "write", "p": "Lind found that citrus fruit worked, but the British Navy took about 50 years to give sailors lemon juice. Why do you think good evidence can take so long to be used?", "lines": 3},
+          {"t": "write", "p": "A research review in the 1960s was paid for by a sugar industry group. Why might that make you want to check its findings more carefully?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "What does sugar do to teeth? The egg shell test (Activity 2.3b)",
+      "day": 2,
+      "question": "What happens to egg shell (which is made of a material like our teeth) when it sits in a sugary drink for seven days?",
+      "need": ["the shell of 1–2 eggs, rinsed, in halves", "3 clear plastic cups", "a small bottle of cola", "water", "4 teaspoons of sugar", "labels", "a spoon and tissue"],
+      "steps": [
+        "Rinse the egg shell halves and choose pieces of a similar size and thickness.",
+        "Label three cups: 'Water', 'Cola', 'Sugar water'.",
+        "Pour the same amount (about half a cup) of plain water, cola, and water with 4 teaspoons of sugar stirred in, into the matching cups.",
+        "Put one half shell into each cup.",
+        "Leave the cups in the same place for seven days. Look every day without touching and write what you see.",
+        "On day seven, take each shell out with a spoon, rinse it and compare colour, stains and how hard it feels."
+      ],
+      "predict": "Ask your child to guess first: which shell will change most? Will the sugar water damage the shell as much as the cola? Write each guess and the reason down.",
+      "observe": "Look for colour, stains, bubbles on the shell, cloudiness of the liquid, and how hard or soft the shell feels. Usually the cola shell is stained brown and becomes rougher or softer; tiny bubbles may form on it in the first hours. The water shell does not change. The sugar water shell looks mostly unchanged, though the liquid may go cloudy or smell as germs grow in it.",
+      "why": "Egg shell is mostly calcium carbonate; tooth enamel is a similar hard calcium mineral. Acids dissolve these minerals (the bubbles are carbon dioxide gas released as the acid attacks the shell). Cola contains an acid (phosphoric acid) as well as a lot of sugar, so it attacks the shell directly and its dark colour stains it. Sugar on its own does not dissolve egg shell, which is why the sugar water shell hardly changes. But in your mouth there are germs (bacteria) that feed on sugar and turn it into acid. Each time you have something sugary, they make acid for a while, and that acid slowly eats into your teeth and causes holes (cavities). So sugar harms teeth through the germs in your mouth, and sugary acidic drinks are a double attack. Brushing removes the germs and leftover sugar.",
+      "safety": "Do not drink the liquids after the test. Wash hands after handling the shells. An adult should handle raw egg shells; rinse them well first.",
+      "time": "12 min to set up + 2 min daily checks + 12 min results after 7 days"
+    },
+    {
+      "id": "e2",
+      "title": "The paper spot test for fat",
+      "day": 7,
+      "question": "Which of our everyday foods contain fat, and which contain a lot?",
+      "need": ["a brown paper bag or plain paper cut into 8 squares", "a marker", "small pieces of samosa or pakora, potato chip, roti, peanut, apple, paneer, biscuit", "a few drops of water"],
+      "steps": [
+        "Write a food name on each paper square.",
+        "Rub each food firmly on its own square for about 10 seconds. Put a drop of water on the last square.",
+        "Wait 10 minutes for any water to dry.",
+        "Hold each square up to a window or a torch.",
+        "Look for a see-through, shiny spot that stays after drying. Sort the squares into 'lots of fat', 'a little fat' and 'no fat'."
+      ],
+      "predict": "Ask your child to guess first: which foods will leave a greasy spot? Will the roti or the apple?",
+      "observe": "The fried foods (samosa, pakora, chips), peanut and biscuit usually leave a clear see-through spot. Paneer leaves a smaller spot. Roti may leave a faint spot if it has ghee on it. The apple and the water leave a wet mark that disappears as it dries.",
+      "why": "Fat and oil soak into the gaps between the paper fibres and do not dry away like water does, because fat does not evaporate at room temperature. The oily paper lets light through, so it looks see-through. Water also makes paper see-through while it is wet, but it evaporates, so the spot vanishes. That is why we tested a drop of water too: it is our comparison. Fried foods soak up oil while frying, which is why they leave the biggest spots. Some fat is needed by the body, but too much, especially from fried snacks, is bad for the heart.",
+      "safety": "Do not eat food that has been rubbed on paper. Check for nut allergies before using peanuts.",
+      "time": "13 min"
+    },
+    {
+      "id": "e3",
+      "title": "What happens when we exercise? (Activity 2.4)",
+      "day": 8,
+      "question": "How do our heartbeat, breathing and skin change when we exercise, and what happens when we rest again?",
+      "need": ["a phone stopwatch or clock with a seconds hand", "space to exercise", "a skipping rope (optional)", "a results table"],
+      "steps": [
+        "Make a table with three rows (At rest, Straight after exercise, After 3 minutes rest) and three columns (Heartbeats per minute, Breaths per minute, Skin cool or warm).",
+        "Sit quietly for 3 minutes.",
+        "Find the pulse on the wrist with two fingers. Count beats for 15 seconds and multiply by 4. Count breaths for 30 seconds and multiply by 2. Feel the forehead.",
+        "Exercise for 2 minutes: star jumps, skipping or running on the spot.",
+        "At once, measure heartbeat, breathing and skin again.",
+        "Rest for 3 minutes and measure once more.",
+        "Optional: a parent does it too, and you compare."
+      ],
+      "predict": "Ask your child to guess first: will your heart beat faster or slower after exercise? Your breathing? Will your skin feel cooler or warmer? How long will it take to go back to normal?",
+      "observe": "A resting child's pulse is often about 70–110 beats per minute and breathing about 18–25 breaths per minute. After exercise both go up a lot, the face goes red, the skin feels warm and may be sweaty. After rest, they come back down towards the resting numbers.",
+      "why": "Muscles need energy to move. They get it by using food and oxygen, which the blood brings them. When you exercise, your muscles work hard and need much more oxygen, so your heart beats faster to pump more blood round your body, and you breathe faster and deeper to take more oxygen into your lungs. Working muscles also make heat, so you get warm; blood comes closer to the skin and you sweat, and as sweat evaporates it cools you down. When you stop, your muscles need less, so heart and breathing slow down again. Regular exercise makes the heart muscle stronger, so it can pump more blood with each beat.",
+      "safety": "Clear the space of furniture. Stop if your child feels dizzy or has pain. A child with asthma or a heart condition should do gentle exercise only, as their doctor advises.",
+      "time": "17 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Sorting food into food groups (Activity 2.1)",
+      "day": 1,
+      "mins": 15,
+      "need": ["5 sheets of paper with group names", "about 20 real foods or empty packets from the kitchen"],
+      "steps": [
+        "Write Carbohydrate, Fruit and vegetables, Protein, Dairy, Fat and sugar on five sheets and lay them on the floor.",
+        "Your child collects about 20 foods or packets from the kitchen.",
+        "They place each food on a sheet and say why.",
+        "Discuss foods that fit more than one group (peanuts, paneer, potato, ghee) and decide on the main group.",
+        "Take a photo of the sorted foods for the notebook."
+      ],
+      "outcome": "A sorted display of your kitchen's foods in five groups, and a child who can explain the reason for each."
+    },
+    {
+      "id": "a2",
+      "title": "Two-day food diary",
+      "day": 2,
+      "mins": 8,
+      "need": ["notebook", "pencil"],
+      "steps": [
+        "Draw a table: Meal or snack, What I ate or drank, Food group(s), Glasses of water.",
+        "Fill in every meal, snack and drink for two days, honestly.",
+        "On Day 3, put one tick in the right layer of a drawn food triangle for each item.",
+        "Compare with the book's triangle on page 18 and choose one change."
+      ],
+      "outcome": "A two-day record of what your child really eats, a personal food triangle, and one agreed healthy change."
+    },
+    {
+      "id": "a3",
+      "title": "Tasting fruit and vegetables (Activity 2.2)",
+      "day": 4,
+      "mins": 20,
+      "need": ["6–8 fruits and vegetables cut into small pieces", "spoons", "a results table copied from page 19"],
+      "steps": [
+        "Copy the table from page 19: Fruit/Vegetable, Prediction (Will you like it?), Result (How did it taste? Did you like it?).",
+        "For each food, write the prediction before tasting.",
+        "Taste a small piece and describe it with describing words: sweet, sour, bitter, salty, juicy, crunchy, soft.",
+        "Write whether you liked it.",
+        "Count how many predictions were wrong."
+      ],
+      "outcome": "A completed tasting table, a list of new foods your child is willing to eat, and practice at predicting and recording."
+    },
+    {
+      "id": "a4",
+      "title": "Which drinks have the most sugar? (Activity 2.3a)",
+      "day": 6,
+      "mins": 18,
+      "need": ["5–7 drink packets or bottles, or photos of their labels", "notebook", "a calculator or paper for sums"],
+      "steps": [
+        "Write the drinks in the order you predict, from most sugar to least.",
+        "Find 'Total sugars' per 100 ml on each label.",
+        "Record a table: Drink, Sugar per 100 ml in g, Sugar in the whole pack in g.",
+        "Put the drinks in order of sugar and compare with your prediction.",
+        "Draw a bar chart of sugar per 100 ml."
+      ],
+      "outcome": "A table and bar chart of the sugar in real drinks at home, and a child who can read a label."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Coluthur Gopalan (1918–2019), India",
+      "idea": "Dr C. Gopalan was a doctor and nutrition scientist who led the National Institute of Nutrition in Hyderabad. With his colleagues he measured the nutrients in hundreds of foods eaten in India, from different rices and millets to green leaves, and the institute published these in the book 'Nutritive Value of Indian Foods', still used by doctors and dietitians. His work showed, for example, that ragi is far richer in calcium than rice or wheat, and that cheap foods like green leafy vegetables and pulses can give a lot of good nutrition. He also studied why many Indian children were undernourished.",
+      "then": "Before such work, much nutrition advice in India was copied from Western tables of foods that Indians did not commonly eat. His research was widely respected, and he went on to lead the Indian Council of Medical Research.",
+      "now": "His food tables, updated over the years by the National Institute of Nutrition, are still the standard reference for Indian foods. Scientists accept that a varied diet of grains, pulses, vegetables, fruit and milk, as he recommended, gives good nutrition.",
+      "status": "accepted",
+      "ask": "Dr Gopalan measured foods in a laboratory instead of trusting what people said about them. Why are measurements better than opinions when we want to know what a food gives us?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "James Lind (1716–1794), Scotland",
+      "idea": "In 1747, as a ship's surgeon on the British navy ship HMS Salisbury, Lind took twelve sailors who had scurvy and split them into six pairs. All ate the same food, but each pair got a different extra treatment: cider, a weak acid, vinegar, sea water, a paste of spices, or two oranges and a lemon each day. The sailors given oranges and lemons got better fastest; one was fit for duty within about a week. He published his findings in 1753.",
+      "then": "His result was not quickly acted on. Lind himself was unsure why citrus worked, and he did not push hard for it. The British Navy only began giving sailors lemon juice regularly in 1795, after Lind's death.",
+      "now": "Lind's test is often called one of the first controlled trials, because he kept everything the same except the treatment. In the 1930s scientists identified the missing substance as vitamin C. We now know scurvy is caused by a lack of vitamin C, which is found in citrus fruit, guava and amla.",
+      "status": "accepted",
+      "ask": "Lind tested only two sailors per treatment. Would you trust the result more if he had tested two hundred? Why do bigger tests give stronger evidence?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "John Yudkin (1910–1995), Britain",
+      "idea": "Yudkin, a professor of nutrition in London, argued that sugar was a major cause of heart disease and other illnesses, not just tooth decay. In 1972 he published a book called 'Pure, White and Deadly' setting out his case.",
+      "then": "At the time, many leading scientists, especially the American Ancel Keys, blamed fat in the diet for heart disease, and Yudkin's ideas were widely dismissed. In 2016 researchers (Kearns, Schmidt and Glantz) found documents showing that in the 1960s a sugar industry group, the Sugar Research Foundation, had paid Harvard scientists for a review that played down sugar's role and blamed fat.",
+      "now": "Scientists now agree that too much added sugar is bad for teeth and weight, and the World Health Organization (2015) advises keeping free sugars below 10% of daily energy, ideally below 5%. How much sugar itself causes heart disease, compared with fat, salt, overeating and inactivity, is still being researched and argued about.",
+      "status": "debated",
+      "ask": "If a company that sells sugar pays for a study about sugar, does that make the study wrong? What would you check to decide if you can trust it?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Name the five food groups and give an Indian food for each.", "a": "Carbohydrate (rice, roti), fruit and vegetables (guava, palak), protein (dal, egg, fish), dairy (milk, dahi), fat and sugar (ghee, jalebi)."},
+    {"q": "Which food group helps you grow, and which gives you energy?", "a": "Protein helps you grow; carbohydrate gives you energy."},
+    {"q": "What does the food triangle show? Which group is at the top?", "a": "How much of each food group to eat; carbohydrates at the wide bottom (eat most), fat and sugar at the tiny top (eat least)."},
+    {"q": "What does dehydrated mean and how does it feel?", "a": "Not having enough water in the body; you feel tired, thirsty and may get a headache. We can only live a few days without water."},
+    {"q": "What happened to the egg shell in cola, and what does it tell us about teeth?", "a": "It was stained and damaged by the acid in the cola. Teeth are made of a similar material; sugary, acidic drinks and the acid germs make from sugar damage teeth, so we brush and cut down on sugar."},
+    {"q": "What happens to your heartbeat and breathing when you exercise, and why?", "a": "Both get faster, because working muscles need more oxygen and food, so the heart pumps blood faster and you breathe faster."},
+    {"q": "How many hours of sleep do most school children need, and why?", "a": "About 10–12 hours, because the body grows and repairs itself and the brain rests and sorts out what was learnt."}
+  ]
+}

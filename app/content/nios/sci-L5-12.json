@@ -1,0 +1,531 @@
+{
+  "key": "nios|sci|5|12",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 12,
+  "title": "Food and Health",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 12 (lesson pages 174–187)",
+  "summary": "Food gives us energy, helps us grow and protects us from disease through its nutrients, and when a nutrient is missing for a long time the body shows it. Your child learns the deficiency diseases in the book (anaemia, kwashiorkor, marasmus, night blindness, rickets, goitre and beriberi), how to prevent them with ordinary Indian foods and iodised salt, who needs extra care with food, how to make cheap meals more nutritious, and eight ways of storing food so fungus and bacteria cannot spoil it. Mould and drying experiments make the storage science visible, and stories of the doctors who solved beriberi, kwashiorkor and goitre show how this knowledge was won.",
+  "goals": [
+    "By the end your child can name the main nutrients (carbohydrates, fats, proteins, vitamins, minerals) and the job of each.",
+    "By the end your child can match each deficiency disease in the lesson to the missing nutrient, describe one or two signs, and name Indian foods that prevent it.",
+    "By the end your child can explain why iodised salt, sunlight, green leafy vegetables and iron-rich foods matter, and why vitamin pills and iron tablets are taken only on a doctor's advice.",
+    "By the end your child can say who needs special attention to food (babies, growing children, teenagers, pregnant and breastfeeding mothers, sick people) and why.",
+    "By the end your child can suggest at least six ways to make cheap food more nutritious, such as mixing cereals and pulses, sprouting, cooking in less water and using iron kadhais.",
+    "By the end your child can explain how drying, cooling, salting, sugaring, oil and spices, cooking, freezing, canning and fermenting stop fungus and bacteria, using our own mould test as evidence."
+  ],
+  "words": [
+    ["nutrient", "a substance in food that the body needs to work, grow and stay healthy: carbohydrates, fats, proteins, vitamins, minerals (and water and fibre)"],
+    ["deficiency", "not having enough of something; a deficiency disease happens when the body lacks a nutrient for a long time"],
+    ["anaemia", "a condition in which the blood has too little haemoglobin, the iron-containing part of red blood cells that carries oxygen; it makes a person pale, weak and tired"],
+    ["malnutrition", "poor health from not getting the right food: too little food, too little of a nutrient, or the wrong balance"],
+    ["kwashiorkor", "a serious kind of malnutrition in young children, with swelling of the face, feet and legs, linked to a diet very low in protein and other nutrients"],
+    ["marasmus", "a serious kind of malnutrition from too little food of every kind, in which the child becomes extremely thin; the book calls it 'dry malnutrition'"],
+    ["night blindness", "not being able to see well in dim light, the first sign of too little vitamin A"],
+    ["rickets", "a disease in which a child's bones become soft and bend, caused by too little vitamin D (made by the skin in sunlight) and calcium"],
+    ["goitre", "a swelling in the front of the neck from the thyroid gland growing bigger, usually because of too little iodine in food"],
+    ["iodised salt", "ordinary salt with a small amount of iodine added, so that everyone gets enough iodine"],
+    ["beriberi", "a disease caused by too little vitamin B1 (thiamine), which harms nerves and the heart, causing weakness, numbness and pain in the legs; common where people ate mainly polished white rice"],
+    ["fermentation", "a process in which helpful microbes such as yeast and bacteria change food, as when milk becomes curd or rice and urad batter rises for idli"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is in our food?",
+      "goal": "Start from our own meals, learn the main nutrients and their jobs, and set up a mould test that we will watch all week.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Why do we eat?",
+          "mins": 5,
+          "do": "Ask your child: 'Why do we eat? Give me three reasons.' Listen for: 'because we are hungry', 'for energy to play', 'to grow taller', 'to stay strong and not fall sick'. Then ask: 'If someone ate only white rice every day for a year, what might go wrong?' Let them guess. Tell them: 'This week we find out what each food gives us, what happens when something is missing, and how to keep food from spoiling.'"
+        },
+        {
+          "kind": "read",
+          "title": "Opening and 12.1 nutrients (lesson pages 174–175)",
+          "mins": 7,
+          "do": "Read the opening of Lesson 12 on lesson page 174 and the start of 12.1 on lesson pages 174–175 aloud. Ask: 'What three jobs does food do?' (Helps the body develop, gives strength for work, protects from disease.) 'Which nutrients give strength or energy?' (Carbohydrates and fats.) 'Which help us grow?' (Proteins.) 'Which protect us from disease?' (Vitamins and mineral salts.) Add: water and fibre are needed too; fibre in whole grains, vegetables and fruit keeps the gut working well."
+        },
+        {
+          "kind": "game",
+          "title": "Kitchen nutrient sort",
+          "mins": 12,
+          "do": "Put out small bowls or packets of: rice, atta, potato, sugar or jaggery, ghee or oil, groundnuts, dal, an egg or paneer, milk, spinach or methi, a carrot, an orange or guava, a banana, salt. Make three labels on paper: 'Energy food (carbohydrates and fats)', 'Body-building food (proteins)', 'Protective food (vitamins and minerals)'. Your child places each food under the label for its main nutrient. Good sort: rice, atta, potato, sugar, ghee and oil are energy; dal, egg, paneer, milk, groundnuts are body-building; spinach, carrot, orange, guava, banana are protective. Point out that many foods belong to more than one group (milk has protein, fat and calcium; groundnuts have fat and protein)."
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the mould test",
+          "mins": 16,
+          "do": "Do Experiment e1. Take four equal pieces of bread or a leftover roti torn in four. Piece 1: leave it dry on an open plate. Pieces 2, 3 and 4: sprinkle each with a few drops of water and put each in its own small zip-bag or closed steel dabba. Rub a thick layer of salt all over piece 4 before closing. Keep pieces 1, 2 and 4 on the kitchen shelf and piece 3 in the fridge. Label everything with the date. Ask your child to predict which pieces will grow mould and which will stay fresh, and write the guesses in the notebook. Ask: 'Why do we use the same bread for all four?' (So that only one thing changes in each, which makes it fair.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "What was on my plate today?",
+          "mins": 5,
+          "do": "Your child draws today's lunch or dinner thali in the notebook and labels each item energy, body-building or protective. Ask: 'Did our plate have all three? What could we add?' Good answers: 'a bowl of dal for protein', 'a slice of guava or a raw salad for vitamins'."
+        }
+      ],
+      "need": ["NIOS Environmental Studies Level B, Lesson 12 (lesson pages 174–175)", "small amounts of rice, atta, potato, sugar or jaggery, oil or ghee, groundnuts, dal, egg or paneer, milk, spinach or methi, carrot, orange or guava, banana, salt", "paper labels", "bread or a roti", "3 zip-bags or small dabbas, a plate, salt, water", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Iron, protein and serious malnutrition",
+      "goal": "Learn about anaemia and how iron-rich food prevents it, understand kwashiorkor and marasmus with care and compassion, and start sprouting moong.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "12.1.1 Anaemia (lesson page 175)",
+          "mins": 7,
+          "do": "Read 12.1.1 on lesson page 175 aloud. Explain properly: red blood cells carry oxygen to every part of the body using haemoglobin, which needs iron. With too little iron, less oxygen reaches the body, so a person feels weak and tired and looks pale. Ask: 'What are some signs?' (Pale skin, pale gums, pale inside of the eyelids, pale nails, tiredness; when severe, fast heartbeat, breathlessness and swelling.) Note for you: the book says 'yellowness in the eyes', but in anaemia the inner eyelid looks pale, not yellow; yellow eyes are a sign of jaundice, a liver problem. Ask: 'Which foods prevent anaemia?' (Bajra, ragi, jaggery, green leafy vegetables like spinach, dals, meat, fish, chicken and eggs.)"
+        },
+        {
+          "kind": "do",
+          "title": "Pink check and iron hunt",
+          "mins": 9,
+          "do": "In daylight, both of you gently pull down the lower eyelid in a mirror and look at the inside: healthy is pink or red. Press a fingernail for 2 seconds and watch it turn white and then pink again. Explain: 'Pink means blood is flowing with plenty of red cells. A doctor uses a blood test to know for sure; we cannot diagnose anaemia at home.' Then hunt in the kitchen for iron foods from the book: ragi, bajra, jaggery, spinach, chana, rajma, eggs. Tell them a useful trick: eating vitamin C foods like lemon, amla or guava with iron foods helps the body take in the iron, while tea with meals reduces it."
+        },
+        {
+          "kind": "read",
+          "title": "Kwashiorkor and 'dry malnutrition' (lesson pages 175–176)",
+          "mins": 8,
+          "do": "Parent note: these pages describe very sick children and have pictures. Talk calmly; stress that these illnesses are preventable and treatable, that they happen because of poverty and lack of food, not because of anything a child did, and that we never tease anyone for being thin or small. Read 12.1.2 and 12.1.3 aloud. Kwashiorkor: swollen face, hands and feet, growth stops, skin and hair lose colour, thin upper arms. It is linked to too little protein and other nutrients. Treatment: extra dals, peas, soya, nuts, green leafy vegetables, milk, paneer, eggs, meat and fish, meals at least three times a day with snacks. Correct the book: the second disease, which the book calls 'Rickets (Dry Malnutrition)', is really called marasmus. It comes from too little food of every kind, and the child becomes extremely thin. Real rickets, a bone disease, comes on Day 3."
+        },
+        {
+          "kind": "think",
+          "title": "Cicely Williams names kwashiorkor",
+          "mins": 9,
+          "do": "Tell your child Voice v2: in the 1930s a woman doctor working in the Gold Coast (now Ghana) in West Africa noticed swollen, sick young children, often just after a new baby had arrived and they had stopped breastfeeding. She used the local Ga word 'kwashiorkor' for the illness and showed that it came from diet. Scientists still argue today about exactly why some starving children swell and others become thin. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Start the sprouts",
+          "mins": 12,
+          "do": "Start Activity a1. Your child washes 1 cup of whole green moong (and, if you have it, a handful of whole chana) in three changes of water, picks out any stones, and soaks it in plenty of clean water in a steel bowl overnight. Read the line on lesson page 179: 'If these are germinated, then the amount of protein and vitamins will further increase.' Explain: 'When a seed sprouts, it starts using its stored food and making new vitamins, especially vitamin C, and becomes easier to digest.' Plan: tomorrow morning drain it, wrap it in a damp clean muslin cloth or keep it in a closed sprout-maker, and rinse once or twice a day.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Lesson pages 175–176 and 179", "a mirror", "ragi, bajra, jaggery, spinach, chana, rajma or eggs from the kitchen", "1 cup whole green moong, a handful of whole chana (optional)", "a steel bowl, clean water, a clean muslin cloth"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Vitamins A and D, sunlight and iodine",
+      "goal": "Learn about night blindness, rickets, other vitamin-linked problems and goitre, find vitamin A foods by colour, check our salt for iodine, and meet the doctor whose village study helped iodise India's salt.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "12.1.4 Night blindness and 12.1.5 Rickets (lesson pages 176–177)",
+          "mins": 8,
+          "do": "Read 12.1.4 and 12.1.5 on lesson pages 176–177 aloud. Ask: 'What is the first sign of too little vitamin A?' (Not seeing well in dim light or at night; later the eyes become dry, and without treatment a child can go blind.) 'Which foods have vitamin A?' (Green leafy vegetables, yellow and orange fruits and vegetables such as carrot, pumpkin, papaya and mango, milk, eggs, liver.) Read the caution aloud: too much vitamin A is harmful, so capsules are given only on a doctor's advice; in India health workers give children vitamin A doses through a government programme. For rickets ask: 'What does the body need for strong bones?' (Calcium from milk, curd, ragi, sesame, and vitamin D, which our skin makes in sunlight.) Read the next lines about cracked lips, mouth corners and bleeding gums: tell them bleeding gums can come from too little vitamin C (scurvy), found in amla, guava, lemon and oranges."
+        },
+        {
+          "kind": "game",
+          "title": "Colour plate hunt",
+          "mins": 9,
+          "do": "Lay out whatever you have: carrot, pumpkin, papaya, mango, tomato, spinach, methi, drumstick leaves (moringa), amla, guava, lemon, milk, ragi, an egg. Your child sorts them into four groups: 'Vitamin A (eyes)', 'Vitamin C (gums and healing)', 'Calcium (bones)', 'More than one'. Good sort: carrot, pumpkin, papaya, mango and spinach for vitamin A; amla, guava and lemon for vitamin C; milk and ragi for calcium; drumstick leaves and spinach fit in more than one (vitamin A, iron and calcium). Ask: 'Which of these can we grow or buy cheaply in season?'"
+        },
+        {
+          "kind": "read",
+          "title": "12.1.6 Goitre and 12.1.7 iodine in pregnancy (lesson page 177)",
+          "mins": 7,
+          "do": "Read 12.1.6 and 12.1.7 on lesson page 177 aloud. Explain: the thyroid is a small gland in the front of the neck that makes a hormone controlling how the body uses energy and how a baby's brain grows. It needs iodine to do this. Too little iodine makes the thyroid swell into a goitre. If a pregnant mother lacks iodine, her baby's brain and body may not develop fully, so the baby may have learning difficulties, short height or deafness. Ask: 'Why is it more common in hilly areas?' (Rain and melting snow over thousands of years washed iodine out of the hill soils, so food grown there has little.) 'What is the simple prevention?' (Using iodised salt.)"
+        },
+        {
+          "kind": "do",
+          "title": "Read the salt packet",
+          "mins": 6,
+          "do": "Bring the salt packet from the kitchen. Your child finds the word 'iodised' and the small sign showing a smiling sun or the words 'iodised salt'. Ask: 'Why is iodine put into salt and not into, say, mangoes?' Good answer: 'Everyone, rich or poor, eats a little salt every day, all year, so adding iodine to salt reaches everyone.' Add: keep salt in a closed container away from heat and damp, because iodine slowly escapes from open, damp salt; and add salt near the end of cooking where you can. We still need only a little salt, not a lot."
+        },
+        {
+          "kind": "think",
+          "title": "V. Ramalingaswami and the Kangra valley salt",
+          "mins": 10,
+          "do": "Tell your child Voice v3: in the 1950s Indian doctors led by V. Ramalingaswami tested iodised salt in the Kangra valley of Himachal Pradesh, where many people had goitre. Over the years goitre went down in the villages that got iodised salt but not in the villages that got ordinary salt. Ask: 'Why did the doctors need villages that got ordinary salt too?' (To compare; otherwise they could not be sure the iodine made the difference.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Check the mould test and sprouts",
+          "mins": 5,
+          "do": "Look at the four bread pieces from Experiment e1 without opening the bags. Ask your child to draw each and note any fuzzy spots, colour or smell. Then drain the soaked moong from Activity a1, wrap it in a damp muslin cloth, and keep it in a warm place; rinse it again in the evening.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 176–177", "carrot, pumpkin, papaya, mango, tomato, spinach, drumstick leaves, amla, guava, lemon, milk, ragi, egg (whatever you have)", "the kitchen salt packet", "the mould test bags", "the soaked moong and a muslin cloth"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Polished rice and the vitamin B puzzle",
+      "goal": "Learn about beriberi and vitamin B, compare polished and unpolished rice, hear how doctors found that something was missing from white rice, and check what we have learnt so far.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "12.1.8 Beriberi (lesson page 177)",
+          "mins": 6,
+          "do": "Read 12.1.8 on lesson page 177 aloud. Explain more exactly: beriberi is caused by too little vitamin B1 (thiamine). It damages nerves and the heart, causing weakness, numbness and pain in the legs, loss of appetite and, in some people, swelling and heart trouble. The cracked corners of the mouth and red, sore tongue that the book also lists are signs of too little of other B vitamins, such as B2 (riboflavin). Ask: 'Where is vitamin B1 found?' (In the outer layers and germ of grains, in whole wheat atta, unpolished or parboiled rice, dals, groundnuts, eggs and meat.)"
+        },
+        {
+          "kind": "do",
+          "title": "Polished and unpolished rice side by side",
+          "mins": 9,
+          "do": "Put a spoon of ordinary white (polished) rice beside a spoon of brown, red, unpolished or hand-pounded rice (or parboiled rice) on a white plate. Your child looks with a magnifying glass. Ask: 'What is different?' (The unpolished grain has a brownish or reddish skin, the bran, and sometimes a small bump at one end, the germ.) Explain: 'Polishing rubs off the bran and germ to make rice white and soft. But most of the vitamin B1, fibre and some minerals are in those outer parts.' Also compare maida with whole wheat atta, and read the line on lesson page 179: 'Unpolished rice and wheat bran flour contain more vitamins.'"
+        },
+        {
+          "kind": "think",
+          "title": "Takaki, Eijkman and the white-rice chickens",
+          "mins": 10,
+          "do": "Tell your child Voice v1: in the 1880s many Japanese navy sailors got beriberi. A navy doctor, Kanehiro Takaki, changed their diet to include barley, meat and vegetables, and beriberi nearly disappeared. A few years later in Java, Christiaan Eijkman noticed that chickens fed leftover polished white rice got a beriberi-like illness, and got better on unpolished rice. Ask: 'At first many doctors thought beriberi was caused by a germ. How did these results point to something missing in food instead?' Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "review",
+          "title": "Let's see 12.1, with a corrected answer key (lesson page 178)",
+          "mins": 6,
+          "do": "Ask the four questions in 'Let's see, what you have learnt 12.1' on lesson page 178 aloud. For the matching question, the correct pairs are: kwashiorkor with deficiency of protein; rickets with no sunlight on the body; beriberi with deficiency of vitamin B; night blindness with deficiency of vitamin A. Tell your child that the book's answer key on lesson page 186 mixes up the beriberi and night blindness answers, and praise them if they noticed. Goitre and 'mental slowness' (from iodine lack in pregnancy) are the two iodine diseases."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: nutrients and deficiency diseases",
+          "mins": 9,
+          "do": "Your child does Worksheet ws1 (core) on their own. Then check together; for any wrong answer, find the matching part on lesson pages 175–177 and read it again.",
+          "ref": "ws1"
+        },
+        {
+          "kind": "exp",
+          "title": "Mould test check",
+          "mins": 5,
+          "do": "Check Experiment e1 again without opening the bags. Ask: 'Which piece has the most mould? Which has none? Is that what you guessed?' Draw them. Rinse the sprouting moong from Activity a1 and look at the little white tails. Ask: 'How long are they now?'",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 177–179 and 186", "a spoon each of polished white rice and brown, red, unpolished or parboiled rice", "a little maida and whole wheat atta", "a white plate and a magnifying glass", "Worksheet ws1", "the mould bags and sprouts"],
+      "prep": [{"task": "Buy or borrow a small amount of brown, red or unpolished rice if you do not have any", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Who needs extra care, and cheap nutritious food",
+      "goal": "Learn who needs special attention to food and why, learn the book's tricks for making cheap food nutritious, and cook a sprouts chaat and a mixed khichdi plan together.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "12.2 When should more attention be paid to food? (lesson pages 178–179)",
+          "mins": 8,
+          "do": "Read 12.2 on lesson pages 178–179 aloud. Ask: 'Why do babies over six months need more than milk?' (They are growing fast and need extra energy, protein and iron; soft foods like rice-dal khichdi, mashed vegetables and fruit are started alongside breast milk.) 'Why do teenagers need extra care?' (Their bodies grow very fast.) Parent note: the book says that when girls start their monthly periods (menstruation), they need more iron-rich food. Say simply and calmly: 'When girls grow up, their body has a monthly cycle in which a little blood leaves the body, so they need extra iron to make new blood.' Answer any questions honestly and briefly. Also ask: 'Why should a pregnant or breastfeeding mother eat well?' (The baby gets everything from her food; she needs extra calcium and iron.) 'Why do sick people need good food?' (A weak body catches other illnesses more easily.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Food for the whole family (Let's see 12.2, lesson page 180)",
+          "mins": 6,
+          "do": "Do question I of 'Let's see, what you have learnt 12.2' on lesson page 180: match the family members in the pictures to their food needs (baby and children: milk and protein; teenage girl: more iron; pregnant woman: balanced food with calcium and iron; sick person: food that gives strength and protects). Then do question II aloud: mother's milk is complete food for a baby (true); unpolished rice has fewer vitamins (false: it has more); wash vegetables before cutting (true); jaggery has more iron than sugar (true, although it is still only a small amount, so it does not replace greens and dals)."
+        },
+        {
+          "kind": "read",
+          "title": "12.2.1 Inexpensive nutritious food (lesson pages 179–180)",
+          "mins": 7,
+          "do": "Read 12.2.1 on lesson pages 179–180 aloud. After each tip, ask your child 'Why does this help?' Key reasons: mixing cereals and pulses gives a more complete protein; sprouting adds vitamins; vitamins B and C dissolve in water and are destroyed by long heat, so cook in less water, do not throw away the cooking water, and do not overcook; washing after cutting washes vitamins away; seasonal food is cheaper and fresher; whole dals keep their skin with fibre and vitamins; an iron kadhai adds some iron to food. Explain the 'lime' line: it means chuna (slaked lime), not lemon; soaking maize in it, as people in Mexico have done for thousands of years, frees a B vitamin called niacin. Do not try it at home without an adult who knows how; chuna burns skin and eyes."
+        },
+        {
+          "kind": "act",
+          "title": "Sprouts chaat and a mixed khichdi plan",
+          "mins": 18,
+          "do": "Do Activity a2 using the sprouts from Activity a1. Your child washes the sprouted moong and puts it in a bowl. You chop half an onion, a tomato and a cucumber (washed before cutting, as the book says); your child adds them, squeezes half a lemon over it, and adds a pinch of iodised salt, roasted jeera powder and chopped coriander. While eating, ask: 'Which nutrients are in this bowl?' (Protein from moong, vitamin C from lemon, tomato and sprouts, fibre from everything, iron from moong helped by the lemon.) Then plan tomorrow's khichdi: your child chooses two cereals (rice, broken wheat dalia, bajra or millet) and two pulses (moong, masoor, toor) and two vegetables, and writes the recipe card.",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Mould test check",
+          "mins": 4,
+          "do": "Check Experiment e1 again and draw the four pieces. Ask: 'Which condition is the mould's favourite? Damp and warm, cold, dry or salty?'",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 178–180", "the sprouted moong", "onion, tomato, cucumber, lemon, iodised salt, roasted jeera powder, coriander", "a knife and board (parent)", "paper for a recipe card", "the mould bags"],
+      "prep": [{"task": "Check the sprouts have tails at least 0.5 cm long; rinse them well", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Keeping food safe: storage and preservation",
+      "goal": "Learn the eight ways of storing food in the book, see why each stops fungus and bacteria, finish the mould test and start a sun-drying test.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "12.3 Storage of food items, methods 1–4 (lesson pages 181–182)",
+          "mins": 8,
+          "do": "Read 12.3 on lesson pages 181–182 aloud: why we store food, and methods 1 to 4 (drying, refrigerating, oil and spices, chemicals, plus salting, sugar, vinegar and lemon). Explain the one idea under all of them: 'Fungus (mould) and bacteria are tiny living things. To grow they need water, warmth and food. Every method takes away one of these: drying takes away water; the fridge takes away warmth; lots of salt or sugar pulls water out of the microbes; the oil layer on pickle keeps air and microbes out.' Ask: 'Which of these does Nani use for mango pickle?' (Salt, oil and spices, and sun.) 'For papad and badiyan (vadi)?' (Drying in the sun.) Also mention the matka or a cloth-wrapped earthen pot, which cools by evaporation."
+        },
+        {
+          "kind": "exp",
+          "title": "Open the mould test",
+          "mins": 9,
+          "do": "Finish Experiment e1. Look at all four pieces through the closed bags first; then open them outdoors, away from your faces, and do not sniff closely. Your child completes the results table: dry and open, damp and warm, damp in fridge, damp with salt. Usually the damp warm piece has fuzzy green, black or white mould; the fridge and salted pieces have little or none; the dry piece is hard but not mouldy. Ask: 'Which of the book's storage methods did each piece test?' (Drying, refrigerating, salting.) Throw all the pieces away in the dustbin, seal the bags, and wash hands with soap.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Methods 5–8: cooking, freezing, canning, fermenting (lesson pages 182–183)",
+          "mins": 7,
+          "do": "Read methods 5 to 8 on lesson pages 182–183 aloud. Ask: 'Why does boiling milk keep it longer?' (High heat kills most bacteria.) 'What is food poisoning?' (Illness with vomiting or diarrhoea from food spoiled by bacteria, for example food not cooked well or left warm for many hours.) 'Why should melted frozen food not be frozen again?' (Bacteria start growing while it is thawed, and refreezing does not kill them.) For fermenting, the book's examples are wine and vinegar; give your child Indian home examples: curd from milk, idli and dosa batter, dhokla, kanji, and some pickles. Explain: 'Here we let helpful microbes grow on purpose; they make the food sour, which stops harmful microbes.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the sun-drying test",
+          "mins": 12,
+          "do": "Do Experiment e2. Slice one tomato (or an apple) into thin rounds. Weigh 4 slices together on a kitchen scale (or count them and draw their size on paper). Put 4 slices on a plate covered with thin muslin in direct sun; put 4 slices in a closed dabba on the kitchen shelf. Ask your child to predict: 'What will happen to each in two days? Will the sun slices weigh more or less?' Take the sun plate inside in the evening. Check and weigh again on Day 7.",
+          "ref": "e2"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 9,
+          "do": "Your child does Worksheet ws2 (stretch) on their own; it asks them to plan meals and choose storage methods for new cases. Check it together, asking 'Why?' for each choice.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Lesson pages 181–183", "the mould test bags", "soap and water", "a tomato or apple, a knife (parent), a kitchen scale if you have one", "2 plates, muslin cloth, a dabba", "Worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Let us revise, check and teach it back",
+      "goal": "Review the lesson with the book's revision and exercises, finish the drying test, try the challenge worksheet, check understanding and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Weigh the dried slices",
+          "mins": 6,
+          "do": "Finish Experiment e2. Weigh the sun-dried slices and compare with the start. Look at the dabba slices. Ask: 'Which have mould or a sour smell? Which are lighter and leathery? Where did the weight go?' (Water evaporated in the sun.) 'Why does that stop mould?' (No water, no mould.) Connect it to the book's line on lesson page 181: drying makes things small and light, easy to store.",
+          "ref": "e2"
+        },
+        {
+          "kind": "review",
+          "title": "Let's Revise and Let's see 12.3 (lesson pages 183–184)",
+          "mins": 6,
+          "do": "Read 'Let's Revise' on lesson pages 183–184 together. Correct one line: the third point says 'Malnutrition causes rickets'; that disease is marasmus. Then ask the three questions of 'Let's see, what you have learnt 12.3' on lesson page 183 aloud: advantage of removing moisture (fungus cannot grow, food does not rot, and it becomes light to store); four methods; and the table (papad: drying; butter and milk: refrigerating; vinegar: fermenting; pickle: oil and spices)."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws3 (challenge) together. Let your child think and write; you ask only 'How do you know?' and 'What evidence?'. The last section brings in the voices of Takaki and Eijkman, Cicely Williams and Ramalingaswami.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 9,
+          "do": "Ask the 8 check questions aloud one at a time without the book. Tick each one answered well. For a missed answer, open the matching lesson page (diseases pages 175–177, special needs pages 178–179, cheap food pages 179–180, storage pages 181–183) and read the part together for a minute, then ask again in different words. Six or more right is good; fewer than five means revisit the colour plate hunt and the storage pages next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is the teacher for the family. In 5–7 minutes, using the kitchen foods, the salt packet, the rice comparison and the photos or drawings of the mould and drying tests, they explain: the nutrients and their jobs; three deficiency diseases and how to prevent each; two ways to make cheap food more nutritious; and three ways to store food and why they work. The 'students' ask: 'If I feel tired, should I just take iron tablets?' (No; see a doctor and get a blood test first; too much iron or vitamin A can harm.) and 'Why don't pickles go mouldy?' (Salt, oil, spices and sun-drying keep microbes out.) End by cooking the mixed khichdi from the recipe card together."
+        }
+      ],
+      "need": ["Lesson pages 181–186", "the drying test slices and kitchen scale", "Worksheet ws3", "the kitchen foods, salt packet and rice samples from the week", "khichdi ingredients from the recipe card"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Nutrients and deficiency diseases",
+      "day": 4,
+      "sections": [
+        ["A. Nutrients and their jobs", [
+          {"t": "match", "p": "Match each nutrient to its main job.", "pairs": [
+            ["Carbohydrates and fats", "Give energy"],
+            ["Proteins", "Help the body grow and repair"],
+            ["Vitamins and minerals", "Protect the body from disease"]
+          ]},
+          {"t": "sort", "p": "Sort these foods by their main nutrient.", "items": ["Rice", "Ghee", "Moong dal", "Egg", "Spinach", "Guava", "Potato", "Paneer", "Carrot"], "cats": ["Energy", "Body-building", "Protective"]}
+        ]],
+        ["B. Which nutrient is missing?", [
+          {"t": "match", "p": "Match each disease to its cause.", "pairs": [
+            ["Anaemia", "Too little iron"],
+            ["Kwashiorkor", "Too little protein (and other nutrients)"],
+            ["Night blindness", "Too little vitamin A"],
+            ["Rickets", "Too little vitamin D (sunlight) and calcium"],
+            ["Goitre", "Too little iodine"],
+            ["Beriberi", "Too little vitamin B1"]
+          ]},
+          {"t": "fill", "p": "To prevent goitre, always use ____ salt.", "a": ["iodised", "iodized"]},
+          {"t": "mcq", "p": "The best natural way to get vitamin D is:", "opts": ["Sitting in a dark room", "Some time in sunlight", "Eating more sugar", "Drinking cold water"], "a": 1},
+          {"t": "mcq", "p": "Which food helps prevent anaemia?", "opts": ["Ragi and spinach", "White sugar", "Tea", "Maida biscuits"], "a": 0}
+        ]],
+        ["C. Explain", [
+          {"t": "write", "p": "Why should vitamin A capsules or iron tablets be taken only on a doctor's advice?", "lines": 2},
+          {"t": "write", "p": "Write two signs of anaemia.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Planning food and storage",
+      "day": 6,
+      "sections": [
+        ["A. Food for each person", [
+          {"t": "write", "p": "Meena, 14, has just started her periods and feels tired. Suggest a day's meals from Indian foods that would help her, and say why.", "lines": 4},
+          {"t": "write", "p": "A family can spend only ₹60 a day on extra food. Suggest three cheap ways from the lesson to make their meals more nutritious.", "lines": 4},
+          {"t": "mcq", "p": "Rahul cuts the vegetables at 8 am, washes them under the tap, and cooks them for lunch in lots of water which he throws away. What is wrong?", "opts": ["Nothing", "Cutting early, washing after cutting and throwing away water all lose vitamins", "He should add more sugar", "He should cook them longer"], "a": 1}
+        ]],
+        ["B. Choose the storage method", [
+          {"t": "match", "p": "Match each food to the best home storage method.", "pairs": [
+            ["Raw mangoes for the year", "Pickle in salt, oil and spices"],
+            ["Amla for winter", "Murabba in sugar, or salting and drying"],
+            ["Leftover dal for tomorrow", "Cool quickly and refrigerate"],
+            ["Peas bought cheaply in winter", "Blanch and freeze"],
+            ["Papad and vadi", "Sun-drying"],
+            ["Milk", "Boil, cool and refrigerate"]
+          ]},
+          {"t": "write", "p": "In our mould test, which piece of bread had the most mould? Use the result to explain why a fridge keeps food longer.", "lines": 3},
+          {"t": "fill", "p": "Making curd from milk is an example of ____.", "a": ["fermentation", "fermenting"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a nutrition scientist",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Polishing rice makes it look whiter and cook faster. Why did beriberi become more common when machine-polished rice spread in Asia?", "lines": 3},
+          {"t": "write", "p": "Salt and sugar both keep food from spoiling, though one is salty and one is sweet. What do they have in common that stops microbes?", "lines": 3},
+          {"t": "table", "p": "Plan a fair test to find out whether lemon juice helps cut apple slices stay fresh longer.", "cols": ["Question", "My plan"], "rows": 4, "prefill": ["What will I change?", "What will I keep the same?", "What will I look for?", "What do I predict?"]},
+          {"t": "mcq", "p": "Which is the best evidence that iodised salt prevents goitre?", "opts": ["A salt advertisement", "Villages given iodised salt had less goitre over years than villages given ordinary salt", "Iodised salt looks whiter", "One person felt better"], "a": 1}
+        ]],
+        ["B. Weighing the voices", [
+          {"t": "write", "p": "Takaki fixed beriberi in the navy but thought the cause was too little protein. Can someone solve a problem with the wrong explanation? Why does the right explanation still matter?", "lines": 4},
+          {"t": "write", "p": "Scientists still argue about why some starving children swell (kwashiorkor) and others become thin. What could they compare to find out?", "lines": 3},
+          {"t": "write", "p": "Ramalingaswami's study compared villages for years. Why was it important to wait so long before deciding?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The mould test",
+      "day": 1,
+      "question": "What does mould need to grow, and which ways of storing food stop it?",
+      "need": ["4 equal pieces of bread or one roti torn in four", "3 zip-bags or small closed dabbas", "an open plate", "a few drops of water", "a tablespoon of salt", "labels and a pen", "space on a kitchen shelf and in the fridge"],
+      "steps": [
+        "Piece 1: leave it dry on an open plate on the shelf.",
+        "Piece 2: sprinkle with a few drops of water and close it in a bag on the shelf (damp and warm).",
+        "Piece 3: sprinkle with water, close it in a bag, and put it in the fridge (damp and cold).",
+        "Piece 4: sprinkle with water, coat thickly with salt, and close it in a bag on the shelf (damp and salty).",
+        "Look every day or two without opening the bags, and draw what you see.",
+        "After 5–6 days, open the bags outdoors, record results, then throw everything away and wash hands."
+      ],
+      "predict": "Ask your child to guess first: which piece will grow mould first, and which will stay clean? Write the guesses down.",
+      "observe": "Record for each piece: any fuzzy spots, their colour (white, green, black), how much of the piece is covered, and the day they first appeared. Usually the damp warm piece goes mouldy within 3–6 days; the fridge piece slowly or not at all; the salty piece little or not at all; the dry open piece goes hard but not mouldy.",
+      "why": "Mould is a fungus. Its tiny spores float in the air everywhere and land on food. To grow, they need water, warmth and food. The damp warm bread gives all three. In the fridge the cold slows the mould's growth almost to a stop. Thick salt pulls water out of the mould and bacteria by osmosis, so they cannot grow. Dry bread has too little water. These are exactly the book's storage methods: drying, refrigerating and salting. Bacteria behave in a similar way, which is why cooked food left warm for many hours can cause food poisoning.",
+      "safety": "Do not open the mouldy bags indoors or sniff them closely; mould spores can cause sneezing and breathing problems, especially for anyone with asthma. Never eat the test bread. Throw it away sealed and wash hands with soap.",
+      "time": "16 min to set up + 4 min checks + 9 min to finish after 5–6 days"
+    },
+    {
+      "id": "e2",
+      "title": "Sun-drying slices",
+      "day": 6,
+      "question": "How does drying in the sun keep food from spoiling?",
+      "need": ["a tomato or an apple", "a knife (parent)", "a kitchen scale if you have one", "2 plates", "thin muslin cloth", "a closed dabba", "a sunny spot"],
+      "steps": [
+        "The parent cuts 8 thin slices of the same size.",
+        "Weigh 4 slices together (or count and trace their size on paper).",
+        "Lay 4 slices on a plate, cover with muslin to keep flies and dust off, and put it in direct sun. Bring it inside in the evening.",
+        "Put the other 4 slices in a closed dabba on the kitchen shelf.",
+        "After 1–2 days, weigh the sun slices again and compare both sets."
+      ],
+      "predict": "Ask your child to guess first: will the sun slices be heavier, lighter or the same? Which set might grow mould?",
+      "observe": "Record the weight (or size) of the sun slices before and after, their colour and texture, and any mould or sour smell in the dabba set. The sun slices usually shrink, turn leathery and lose much of their weight; the dabba slices go soft, wet and may grow mould.",
+      "why": "Fresh tomato and apple are mostly water. The Sun's heat and moving air evaporate that water, so the slices shrink and get lighter. With very little water left, mould and bacteria cannot grow, so dried food keeps for months, as with sun-dried papad, vadi, kokum, amchur (dried raw mango) and dried red chillies. Drying also makes food small and light, so it is easier to store and carry. The closed dabba kept the slices damp, which is exactly what microbes like.",
+      "safety": "Only the parent uses the knife. Keep the plate covered against flies. Do not eat slices that show any mould.",
+      "time": "12 min to set up + 6 min to weigh after 1–2 days"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Sprouting moong",
+      "day": 2,
+      "mins": 12,
+      "need": ["1 cup whole green moong", "a handful of whole chana (optional)", "a steel bowl", "clean water", "a clean muslin cloth or a sprout-maker"],
+      "steps": [
+        "Wash the moong in three changes of water and remove stones.",
+        "Soak it in plenty of clean water overnight.",
+        "Next morning, drain and rinse it.",
+        "Wrap it in a damp muslin cloth or put it in a sprout-maker, and keep it in a warm place.",
+        "Rinse it once or twice a day so it stays fresh and does not smell.",
+        "Use it in 1–2 days, when the tails are about 0.5–1 cm long."
+      ],
+      "outcome": "A bowl of fresh sprouts for the sprouts chaat, showing the book's tip that germinated pulses give more vitamins and are a cheap source of protein."
+    },
+    {
+      "id": "a2",
+      "title": "Sprouts chaat and a mixed khichdi recipe card",
+      "day": 5,
+      "mins": 18,
+      "need": ["the sprouted moong", "onion, tomato, cucumber", "lemon", "iodised salt, roasted jeera powder, chopped coriander", "a knife and board (parent)", "card or paper for the recipe"],
+      "steps": [
+        "Wash the vegetables before cutting them.",
+        "The parent chops the onion, tomato and cucumber; the child mixes them with the sprouts.",
+        "Add lemon juice, a pinch of iodised salt, jeera powder and coriander.",
+        "Eat it fresh and name the nutrients in it.",
+        "Write a recipe card for a mixed khichdi: two cereals, two pulses, two vegetables, cooked in just enough water, with a little ghee.",
+        "Cook the khichdi together on Day 7."
+      ],
+      "outcome": "A cheap, tasty, nutritious snack made by your child, and a family recipe that puts the book's advice (mixed cereals and pulses, sprouts, vegetables cut just before cooking, not throwing away cooking water) into practice."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Kanehiro Takaki (1849–1920), Japan, and Christiaan Eijkman (1858–1930), Netherlands",
+      "idea": "In the early 1880s beriberi struck many sailors of the Japanese navy, who ate mostly polished white rice. Takaki, a navy doctor, changed their diet to include barley, meat, milk and vegetables; in 1884 a training ship's crew on the new diet had almost no beriberi. In the 1890s in Java (then a Dutch colony), Eijkman found that chickens fed polished white rice developed a nerve illness like beriberi and recovered when fed unpolished rice.",
+      "then": "Most doctors of the time believed diseases were caused by germs or poisons, and Eijkman himself first thought white rice contained a poison that the bran cancelled out. Takaki believed the cause was too little protein. In 1901 Eijkman's colleague Gerrit Grijns argued that the bran contained something essential that the body needed.",
+      "now": "Scientists now know beriberi is caused by too little thiamine (vitamin B1), found in the bran and germ of grains. Eijkman shared the 1929 Nobel Prize for this discovery, which helped start the science of vitamins. Takaki's diet worked, though his explanation was wrong.",
+      "status": "accepted",
+      "ask": "Takaki got the cure right but the reason wrong. Eijkman's chickens gave a clue nobody expected. What would you need to test to be sure it was something missing from white rice, not a poison in it?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Cicely Williams (1893–1992), Jamaica and Britain, and the kwashiorkor debate",
+      "idea": "Williams, a Jamaican-born doctor working in the Gold Coast (now Ghana) in the early 1930s, described a disease of young children with swelling, skin changes and pale hair, often appearing after they were weaned from the breast when a new baby arrived. In 1935 she named it kwashiorkor, a Ga word often explained as the illness of the child displaced by the next baby, and argued that it was caused by a poor diet, mainly maize gruel, not by infection.",
+      "then": "Some doctors thought it was pellagra, another nutrition disease, and challenged her. Over the next decades it became widely accepted as a separate disease linked to a diet low in protein.",
+      "now": "That kwashiorkor is a form of severe malnutrition, preventable with a good diet and treatable with special feeding, is accepted. But why some starving children swell while others become thin (marasmus) on similar diets is still debated. Researchers are studying the roles of infections, damage to cells from oxidation, and the bacteria in the gut, for example in a 2013 study of Malawian twins.",
+      "status": "debated",
+      "ask": "Two children in the same poor village eat nearly the same food; one swells and one becomes very thin. What would you want to measure about them to find the reason?",
+      "day": 2
+    },
+    {
+      "id": "v3",
+      "who": "Vulimiri Ramalingaswami (1921–2001), India",
+      "idea": "Ramalingaswami, an Indian pathologist, led a long study in the Kangra valley of Himachal Pradesh starting in the 1950s, where goitre was very common. Some areas were given iodised salt and comparison areas got ordinary salt. Over the following years goitre fell sharply where iodised salt was used, but not elsewhere.",
+      "then": "The study showed that cheap iodised salt could prevent goitre in India's own conditions. It led India to start a national goitre control programme in 1962, which later became the iodine deficiency disorders programme, and India moved towards iodising all edible salt.",
+      "now": "Iodised salt is accepted worldwide as the simplest way to prevent goitre and the brain damage in babies caused by iodine lack. Ramalingaswami later became Director of AIIMS and Director-General of the Indian Council of Medical Research.",
+      "status": "accepted",
+      "ask": "The doctors compared villages with and without iodised salt. Why was the comparison more convincing than just giving everyone iodised salt and seeing what happened?",
+      "day": 3
+    }
+  ],
+  "check": [
+    {"q": "Name the main nutrients and say what each does.", "a": "Carbohydrates and fats give energy; proteins help the body grow and repair; vitamins and minerals protect from disease and keep the body working. Water and fibre are also needed."},
+    {"q": "What is anaemia, and how can it be prevented?", "a": "Blood with too little haemoglobin, usually from too little iron, making a person pale, weak and tired. Eat iron foods like ragi, bajra, green leafy vegetables, dals, eggs or meat, with vitamin C foods; take iron tablets only if a doctor advises."},
+    {"q": "Which vitamin prevents night blindness, and which foods have it?", "a": "Vitamin A: green leafy vegetables, yellow and orange fruits and vegetables like carrot, papaya and mango, milk, eggs and liver."},
+    {"q": "What causes rickets and how is it prevented?", "a": "Too little vitamin D and calcium, which makes children's bones soft and bent. Some sunlight on the skin, plus milk and other calcium foods, prevents it."},
+    {"q": "Why do we use iodised salt?", "a": "Iodine prevents goitre (swelling of the thyroid in the neck) and protects babies' brains during pregnancy; everyone eats salt, so adding iodine to it reaches everyone."},
+    {"q": "What causes beriberi, and why is unpolished rice better?", "a": "Too little vitamin B1 (thiamine). Polishing removes the bran and germ where most vitamin B1 is, so unpolished or parboiled rice keeps more of it."},
+    {"q": "Give four ways to make cheap food more nutritious.", "a": "Any four: mix cereals and pulses, sprout pulses, eat unpolished grains and whole dals, eat seasonal fruit and vegetables, wash before cutting, cut just before cooking, cook in less water and do not throw it away, do not overcook, use an iron kadhai, eat dark green leafy vegetables."},
+    {"q": "How do drying, refrigerating and salting stop food from spoiling?", "a": "Mould and bacteria need water and warmth to grow. Drying removes water, the fridge takes away warmth, and lots of salt (or sugar) pulls water out of the microbes."}
+  ]
+}

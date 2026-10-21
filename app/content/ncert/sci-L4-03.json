@@ -1,0 +1,614 @@
+{
+  "key": "ncert|sci|4|3",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 3,
+  "title": "Nature Trail",
+  "source": "NCERT Our Wondrous World, Class 4, Chapter 3 (pages 35–56), Reprint 2026-27",
+  "summary": "A class goes on a nature trail in the forests of Pachmarhi, Madhya Pradesh, with Abha Didi, a nature scientist. They learn the forest safety rules and meet gaur, the Indian Giant Squirrel, hornbills, pond animals, footprints in the mud, insects and many kinds of leaves. Your child finds out how an animal's body (beak, claws, fins, shell, snout, legs) suits the way it lives, keeps a bird diary, studies leaves and their veins, and plays the 'Web of Life' game to see how every plant, animal and the Sun are connected.",
+  "goals": [
+    "By the end your child can give the forest and zoo safety rules and explain why each one protects both visitors and wildlife.",
+    "By the end your child can sort animals by where they live (land, air, water), name one feature of each and explain how it helps the animal (elephant's trunk, sparrow's beak, gharial's snout, turtle's shell).",
+    "By the end your child can guess a bird's food from its beak and claws, and keep a bird diary of real birds near home.",
+    "By the end your child can recognise an insect (three pairs of legs, one pair of antennae, often two pairs of wings) and tell it apart from a spider.",
+    "By the end your child can describe leaves by colour, shape, texture and smell, and tell net veins from parallel veins.",
+    "By the end your child can explain, with the Web of Life game, how removing one living thing affects others, and weigh what scientists say about real cases (DDT and birds, wolves in Yellowstone)."
+  ],
+  "words": [
+    ["nature trail", "a path through a forest or park where you walk slowly to observe plants and animals"],
+    ["nature scientist", "a person who studies plants and animals and how they live, like Abha Didi; bird scientists are called ornithologists"],
+    ["feature", "a special part or quality of a living thing, like a long trunk, a curved beak or a hard shell"],
+    ["habitat", "the natural home of a plant or animal, where it finds food, water and shelter (a forest, a pond, a grassland)"],
+    ["footprint", "the mark a foot or paw leaves in soft mud, sand or dust; the shape tells you which animal passed"],
+    ["beak", "the hard mouth of a bird; its shape shows what the bird eats"],
+    ["claws", "sharp, curved nails on the feet of birds and animals, used to grip, dig or catch prey"],
+    ["insect", "a small animal with three pairs of legs, a body in three parts (head, chest, belly) and one pair of antennae; many have wings"],
+    ["antennae", "the pair of feelers on an insect's head, used to smell, touch and sense its surroundings"],
+    ["vein", "the lines on a leaf that carry water in and food out; they make a net (mango, peepal) or run side by side (grass, banana)"],
+    ["camouflage", "colours or patterns that help an animal blend into its surroundings so it is hard to see"],
+    ["interdependence", "living things needing each other: the tree feeds the bird, and the bird spreads the tree's seeds"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Getting ready for the trail",
+      "goal": "Spark curiosity with amazing nature questions, find Pachmarhi on the map, learn the forest safety rules, and set up a footprint trap and our own square of nature to watch.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Have you ever seen...? (page 35)",
+          "mins": 6,
+          "do": "Read the four questions at the top of page 35 aloud: a banyan with hanging roots touching the ground, a coloured bird diving into water, a spider weaving its web, butterflies around a flower. For each one, ask your child: 'Have you seen this? Where?' Then ask: 'What is the most amazing animal or plant you have seen with your own eyes, not on a screen?' Let them describe it fully: where, what it was doing, what it looked like. If stuck, remind them of a pigeon nest on the AC unit, a lizard catching a moth, or ants carrying a crumb."
+        },
+        {
+          "kind": "read",
+          "title": "The adventure begins at Pachmarhi (pages 35–36)",
+          "mins": 7,
+          "do": "Read 'The Adventure Begins' on pages 35–36: the class arrives at Pachmarhi, meets Abha Didi, a nature scientist, and asks whether they will see monkeys, deer, snakes, eagles and tigers. Find Madhya Pradesh on a map of India (in an atlas or on the phone), right in the centre of the country, and find Pachmarhi in its hills (the Satpura range). Tell your child that Pachmarhi lies inside a protected forest area, the Satpura Tiger Reserve. Ask: 'What does Abha Didi say they must make sure of?' (That they do not harm the plants and animals in the forest.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Safety rules for a forest or zoo (page 37)",
+          "mins": 9,
+          "do": "Do the task on page 37. First your child writes three rules of their own after the example '(a) We should not feed birds.' Then read the eight Safety Rules on page 37 and tick the ones they had thought of. Ask the page 37 question, 'Why are these rules important?', for each rule. Good answers: teasing makes animals angry and dangerous; feeding makes wild animals lose their fear of people and eat food that makes them sick (monkeys fed biscuits start snatching bags); polythene is eaten by deer and cattle and blocks their stomachs; pets can spread disease to wild animals or be attacked; damaging plants destroys animals' food and homes; garbage attracts animals to roads and poisons streams."
+        },
+        {
+          "kind": "exp",
+          "title": "Set a footprint trap",
+          "mins": 10,
+          "do": "Set up Experiment e3, to check tomorrow morning. Fill a flat tray or a cut-open cardboard box lid with 2–3 cm of damp sand or fine soil and smooth it with a ruler. Put a little bait in the middle: a few grains of rice, a piece of chapati and a slice of banana. Place it overnight on a balcony, terrace, garden corner or near a tree, where animals may visit. Ask your child to predict who will come and to write their guesses in the notebook ('ants, a cat, a crow, a squirrel, a rat?').",
+          "ref": "e3"
+        },
+        {
+          "kind": "act",
+          "title": "Mark your nature square",
+          "mins": 13,
+          "do": "Start Activity a4, the 4-week Biodiversity Count. In a park, garden, building compound or even a strip of grass by the road, mark a square 1 metre by 1 metre with four sticks and a string. Your child looks closely for 10 minutes, on hands and knees, and records every different plant and animal they find: kinds of grass and weeds, a flower, ants, a beetle, a snail, an earthworm, a spider's web, bird droppings as a clue. Draw a quick map of the square and number each find. Ask: 'Did you expect so much in such a small square?' You will come back each week."
+        }
+      ],
+      "need": ["Textbook pages 35–37", "a map of India (atlas or phone)", "a flat tray or box lid, damp sand or fine soil, a ruler", "a few grains of rice, a piece of chapati, a slice of banana", "4 sticks and about 4.5 metres of string", "notebook and pencil"],
+      "prep": [{"task": "Find a tray or box lid and some damp sand or fine soil; choose a spot in a park or compound for the nature square", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Animals in the forest",
+      "goal": "Check the footprint trap, identify the forest animals in the book, sort them by where they live, and match animal features to the jobs they do.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Footprint trap results",
+          "mins": 8,
+          "do": "Check Experiment e3 first thing. Look at the sand tray with your child before touching it. Ask: 'Has anything visited? Is any bait gone? What marks can you see?' Look for tiny trails (ants), three-toed bird prints with a backward toe (crow, myna, pigeon), round pad prints without claw marks (cat), small prints with long toes (squirrel or rat), or a snail's slime line. Your child draws every mark they find, life size, and compares with their guesses. If nothing came, put the tray out again tonight in a different place.",
+          "ref": "e3"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 1: Animals in the forest (pages 38–39)",
+          "mins": 10,
+          "do": "Look at the big forest picture on pages 38–39 together. Your child names every animal they can find; help with ones they do not know. Then do Activity 1 on page 39: divide them into two lists, 'Animals on land' and 'Birds in the sky'. Ask: 'Are there any animals that do not fit either list?' (Fish and frogs in water, a snake in a tree, a butterfly, which is an insect, not a bird.) Add a third column, 'Other', for them. Ask: 'Which animals in the picture could be dangerous to people? Which are in danger from people?'"
+        },
+        {
+          "kind": "talk",
+          "title": "One feature of each animal (page 40)",
+          "mins": 10,
+          "do": "Copy the table on page 40: Name of the animal, Feature. The book's examples: elephant - long trunk to take food and water; sparrow - short and strong beak to crack seeds. Your child adds at least six animals they have seen in real life, each with a feature and what it does: cow (flat teeth to grind grass), cat (sharp claws that can be pulled in), crow (strong pointed beak to eat almost anything), lizard (sticky toe pads to walk on walls), dog (strong sense of smell), camel (wide padded feet for sand). Make sure every row says what the feature is FOR, not just what it looks like."
+        },
+        {
+          "kind": "read",
+          "title": "Giant squirrel and spectacled monkey (pages 40–41)",
+          "mins": 8,
+          "do": "Read about the Indian Giant Squirrel on page 40 and look at its picture. Do the page 40 task: compare it with the squirrel near your home (usually the small grey-brown palm squirrel with three or five pale stripes down its back). Your child makes two columns: size (giant squirrel is about a metre long with its tail, much bigger than a palm squirrel), colour (red-brown, maroon and cream vs grey-brown with stripes), where it lives (high in forest trees vs gardens and walls). Tell them the Indian Giant Squirrel is the state animal of Maharashtra, where it is called 'shekru'. Then read the 'Do you know?' box on page 41 about the Spectacled Monkey, the state animal of Tripura, with white rings round its eyes."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Nature square: first look for animals",
+          "mins": 9,
+          "do": "Visit your Activity a4 square again, this time looking only for animals and signs of animals: holes in leaves (something ate them), a snail shell, droppings, feathers, a web, ant holes. Your child counts each kind and writes it on the list. Ask: 'Which animals did you only know about from a clue, without seeing them?'",
+          "ref": "a4"
+        }
+      ],
+      "need": ["the footprint tray", "Textbook pages 38–41", "notebook and pencil", "the string square in the park or compound"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "At the pond: gaur and footprints",
+      "goal": "Read about the animals at the pond, guess animals from their footprints, make and compare our own prints, and tell apart animals that look alike.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Animals at the pond (pages 41–42)",
+          "mins": 7,
+          "do": "Read from the bottom of page 41 to page 42: the jeeps stop at a pond, they see gaur, and Arya and Sarthak wonder which animals left the footprints in the mud. Ask: 'How is a gaur different from a buffalo?' (The book says it is stronger, with shorter horns.) Tell your child that the gaur, also called the Indian bison, is the largest wild cattle in the world; a big bull can stand taller than a grown man at the shoulder, and it has white 'socks' on its legs. Ask: 'Why do so many animals come to the same pond?' (All animals need water, and in the dry season there are few ponds, so the pond is a meeting place.)"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 2: Whose footprints? (page 43)",
+          "mins": 10,
+          "do": "Do question 1 of Activity 2 on page 43: look at the footprints and guess which animals came to drink. Help your child read the clues: hooves split in two (deer, gaur, pig), round pads with no claw marks (big cats like the tiger, which pull their claws in), pads with claw marks (dog, jackal, bear), long back feet (rabbit), bird prints with thin toes. Then do question 2: draw the footprint of an animal you have really seen, from the footprint trap tray or from mud near a puddle. Ask: 'Why can a tiger's print show no claw marks?' (A cat keeps its claws pulled in while walking, so they stay sharp.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make your own family footprints",
+          "mins": 10,
+          "do": "On a newspaper, put a thin layer of watercolour or haldi paste on a plate. Each family member presses a bare foot on the plate and then on a sheet of paper, standing still, and then walking two steps and then running two steps. If you have a pet, carefully print one paw with water on dry floor tiles. Your child labels each print. Ask: 'Whose print is biggest? How does the print change when you run?' (The toes press deeper and the steps are farther apart.) 'How could a forest scientist tell whether an animal was walking or running?' (From the spacing and depth of the prints.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Look-alikes: pigeon and dove",
+          "mins": 6,
+          "do": "Following the Note to the Teacher on page 42, talk about animals that look alike but are different. Pigeon and dove: both are in the same bird family; the common rock pigeon is bigger and grey with green-purple shine on the neck; the spotted dove and the laughing dove are smaller, brown-pink and have a softer call. Crocodile and alligator: alligators have a wide U-shaped snout and live in America and China; India's mugger crocodile has a broad snout too, but when a crocodile closes its mouth, a big tooth in the lower jaw still shows. And India has the gharial, with a very long, thin snout (page 48). Ask: 'What would you look at to tell them apart?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Forest animals and safety",
+          "mins": 12,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark it together; for any wrong answer, go back to the page it comes from (page 37 for safety rules, page 40 for features, pages 43–46 for birds, page 49 for insects).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 41–43", "the footprint tray", "newspaper, a plate, watercolour or haldi paste, sheets of paper", "a wet cloth to clean feet", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Beaks, claws and the Birdman of India",
+      "goal": "Meet the hornbill, find out how a bird's beak and claws match its food by testing kitchen tools as beaks, and hear the story of Salim Ali.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The hornbill and other birds (pages 43–44)",
+          "mins": 6,
+          "do": "Read the end of page 43 and page 44: Sarthak sees a bird with a long tail and large curved beak, and Abha Didi explains that it is a hornbill, with a 'horn' (called a casque) growing on top of its beak. She adds that peacocks are colourful and owls have sharp eyesight to see at night. Do the page 44 task: name the birds in the pictures. Ask: 'Why might an owl need better night eyes than a sparrow?' (It hunts mice and insects at night, when a sparrow is asleep.) Tell your child that hornbills eat a lot of fruit and drop the seeds far away, so they help plant new forest trees."
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 3: Beak test (page 45)",
+          "mins": 15,
+          "do": "Do Experiment e1, based on Activity 3 on page 45. Put on a plate: a spoonful of rice grains, a few grapes or berries, some peanuts in their shells, and small pieces of fruit. Also have a glass of water with a little rice floating in it. Give your child four 'beaks': a spoon, a toothpick, a pair of chopsticks or two pencils, and a pair of tongs or a cloth peg. Ask them to guess first which beak will be best for each food. Then they try each beak on each food for 20 seconds and count how many pieces they picked up. Fill in the page 45 table: food item, best tool. Then read the paragraph on page 45: an eagle has a sharp, curved beak and sharp claws to catch prey; a sunbird has a long beak to drink nectar.",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "Different beaks, different food (page 46)",
+          "mins": 8,
+          "do": "Look at the pictures of beaks and claws on page 46. For each, your child says what the bird eats and which kitchen tool it is most like: sparrow (short, thick beak like a nutcracker or pliers, for seeds), eagle (hooked beak like a hook knife, for tearing meat, and curved talons to grip), sunbird (long thin curved beak like a straw, for nectar), woodpecker (strong chisel beak for drilling bark to find insects), duck (flat beak like a strainer, for sifting food from water), kingfisher (long dagger beak, like tongs, for catching fish), parrot (hooked beak to crack fruit and nuts and to help climb). Ask: 'If you found a bird with a flat, wide beak, where would it live?' (Near water.)"
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali, the Birdman of India",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words: as a boy in Mumbai Salim Ali shot a sparrow with a strange yellow patch on its throat, took it to the Bombay Natural History Society to find out what it was, and became India's greatest bird scientist, even though he never got a job he applied for because he had no zoology degree. Ask: 'What did Salim Ali do that a nature scientist like Abha Didi also does?' (Watches carefully, writes notes, counts and compares, asks questions.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Plan tomorrow's bird watch",
+          "mins": 6,
+          "do": "Copy the Bird Diary page from page 47 into the notebook three times (one page per bird): Name, Date, Appearance (head colour, back colour, wing colours, beak shape, throat colour, colour of legs), Interesting facts. Ask your child to choose the best time to watch tomorrow (early morning, between 6.30 and 8 a.m., when birds are busiest) and the best place (a tree near home with fruit or flowers, or a spot near water)."
+        }
+      ],
+      "need": ["Textbook pages 43–47", "a plate with rice grains, grapes or berries, peanuts in shells and fruit pieces", "a glass of water", "a spoon, a toothpick, chopsticks or 2 pencils, tongs or a cloth peg", "a phone timer", "notebook"],
+      "prep": [{"task": "Keep rice, a few grapes or berries, unshelled peanuts and a piece of fruit ready for the beak test", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Bird diary and animals of the water",
+      "goal": "Watch real birds and record them in a bird diary, then find out how fish, frogs, turtles and gharials are built for life in and around water.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 4: Bird Diary (page 47)",
+          "mins": 20,
+          "do": "Do Activity a1, Activity 4 question 1 on page 47. Go near a tree in the early morning. Follow the book's steps: (a) stand near the tree; (b) close your eyes for one minute and count the different bird calls you hear; (c) open your eyes and watch one bird at a time; (d) see how it moves, what it eats and where it sits. Your child fills in one Bird Diary page per bird. Common birds you may see: house crow, common myna (brown with yellow beak and eye patch), red-vented bulbul (black crest, red patch under the tail), rock pigeon, rose-ringed parakeet, house sparrow, purple sunbird, Asian koel. If you do not know the name, write a description and look it up later. Ask: 'Does its beak match what you saw it eat?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "do",
+          "title": "Animals in and around water (page 48)",
+          "mins": 10,
+          "do": "Do question 2 of Activity 4 on page 48. Copy the table, Name of the animal and Movements, with the book's examples (fish - swims, crab - walks, frog - jumps). Your child fills in turtle (swims and crawls), crocodile (swims, crawls and walks on land) and snakes (slide or glide, and many swim), then adds three more they know: duck (swims, walks, flies), water strider (skates on the surface), dragonfly (flies over water). Read the paragraph on page 48 about fins, the gharial's long, narrow, pointed snout for catching fish, the turtle's shell and webbed feet, and frogs that live both on land and in water."
+        },
+        {
+          "kind": "do",
+          "title": "Why is the gharial's snout so thin?",
+          "mins": 8,
+          "do": "Fill a bucket or big tub with water. Your child sweeps a flat steel plate through the water as fast as they can, then a ruler or a long, thin wooden spoon handle held edge-on. Ask: 'Which one is easier and faster to swish sideways?' (The thin one, because it pushes much less water.) Explain: a gharial lies still in the river and snaps its long, thin snout sideways at a passing fish; a thin snout moves through the water fast enough to catch it. Tell your child that gharials live in a few rivers of north India, such as the Chambal, and are critically endangered, with only a few hundred adults left in the wild."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Nature square check",
+          "mins": 7,
+          "do": "Visit your Activity a4 square on the way back from the bird watch. Has anything changed since Day 2: a new flower, a new weed, a bigger ant hill, cut grass? Your child adds any new kinds to the list and puts a tick against kinds seen again.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 47–48", "the Bird Diary pages from Day 4", "binoculars if you have them (not needed)", "a bucket or tub of water, a steel plate and a ruler", "the string square"],
+      "prep": [{"task": "Choose a tree for the early-morning bird watch and set an alarm", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Tiny animals: insects and camouflage",
+      "goal": "Learn what makes an animal an insect, go on an insect hunt and count legs, and test how colour helps insects hide from birds.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Tiny animals (page 49)",
+          "mins": 6,
+          "do": "Read 'Tiny Animals' on page 49: a grasshopper hops out, and Arya explains that an insect has three pairs of legs and one pair of antennae, and some, like flies and grasshoppers, have two pairs of wings. Abha Didi lists ants, beetles, bees, flies, praying mantises and butterflies. Add the third rule: an insect's body has three parts, head, thorax (chest, where the legs and wings join) and abdomen (belly). Name the insects in the pictures on page 49 with your child. Ask: 'Is a spider an insect?' (No. It has four pairs of legs, eight in all, only two body parts and no antennae.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Insect hunt (page 49, question 1)",
+          "mins": 12,
+          "do": "Answer question 1 on page 49 by going to look. Search your home and surroundings for 10 minutes: kitchen corners (ants, cockroaches), lights in the evening (moths), flowers (bees, butterflies), grass (grasshoppers), under a flowerpot (beetles, and woodlice which are not insects). For each small animal found, your child counts its legs from a safe distance (a magnifying glass helps) and decides: insect (6 legs) or not (spider 8, woodlouse 14, centipede many, earthworm none). Make a two-column list: Insect / Not an insect. Do not touch bees, wasps or hairy caterpillars."
+        },
+        {
+          "kind": "exp",
+          "title": "Camouflage hunt",
+          "mins": 15,
+          "do": "Do Experiment e2. Cut 20 green and 20 red (or bright pink) paper squares, each about 1 cm, as 'insects'. Scatter them over a patch of grass or a green mat while your child looks away. Ask them to guess which colour the 'bird' will find most. Your child is the bird: they have 30 seconds to pick up as many as they can, one at a time. Count how many of each colour were caught and how many 'survived'. Swap and repeat on a bare red-brown soil patch or a red or brown cloth. Ask: 'Which insects survived on the grass? On the soil? Why does a grasshopper in green grass tend to be green?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: features at work",
+          "mins": 12,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to apply what they learnt about beaks, feet, water animals and insects to animals the book does not show. Let them explain each answer aloud before writing.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook page 49", "a magnifying glass if you have one", "green and red paper, scissors", "a patch of grass and a patch of bare soil (or green and brown cloths)", "a phone timer", "worksheet ws2"],
+      "prep": [{"task": "Cut 20 green and 20 red paper squares of about 1 cm", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Leaves on the trail",
+      "goal": "Identify plants from their leaves, describe leaves by colour, shape, texture and smell, see the two kinds of vein pattern, and make leaf autographs.",
+      "steps": [
+        {
+          "kind": "outdoor",
+          "title": "Leaf collecting walk",
+          "mins": 10,
+          "do": "Walk round your lane, compound or park and collect 8–10 fallen leaves from different plants (do not pluck living leaves, except one leaf each of lemon, tulsi or curry leaf, if you have them at home, to smell). Try to get very different ones: a big one (teak, banana or banyan), a tiny one (tamarind or neem leaflet), a long one (mango), a heart-shaped one (peepal), a grass blade. Your child puts each in a separate fold of newspaper and notes where they found it."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 5: Leaf table (pages 50–51)",
+          "mins": 13,
+          "do": "Do question 1 of Activity 5 on page 50: identify the plants from the leaf pictures. Then do question 2: copy the table from pages 50–51 (Draw and name the leaf, Colour, Shape, Texture, Any other observation). The book's example: lemon - green - oval - smooth - strong smell. Your child fills in at least six rows using their leaves, rubbing each between their fingers to feel and smell it. Useful words: shape (oval, heart-shaped, long and pointed, round, needle-like, made of many small leaflets), texture (smooth, rough, waxy, hairy, papery, thick and fleshy), other (smells of lemon, sticky, white milky sap, toothed edge)."
+        },
+        {
+          "kind": "talk",
+          "title": "Two kinds of veins (page 51)",
+          "mins": 7,
+          "do": "Read the bottom of page 51 about veins and look at the two pictures. Hold a mango or peepal leaf up to the window light: the veins branch out from a middle vein like a net (net venation). Hold a grass blade, banana leaf or maize leaf up: the veins run side by side from base to tip (parallel venation). Your child sorts all their leaves into two piles, Net and Parallel. Ask: 'What do veins do?' (Carry water from the stem into the leaf and carry the food the leaf makes out to the rest of the plant; they also hold the leaf flat, like the spokes of an umbrella.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 6: Leaf Autograph (page 52)",
+          "mins": 15,
+          "do": "Do Activity a2, Activity 6 'Leaf Autograph' on page 52. Place a leaf on the notebook with the rough, vein side facing up, cover it with a plain sheet, and rub the side of a crayon (paper peeled off) over it until the leaf's outline and veins appear. Do at least five different leaves on one sheet, in different colours. Your child writes the name of the plant under each autograph, and N or P for net or parallel veins. Ask: 'Are any two autographs exactly the same?' (No; like fingerprints, every kind of leaf has its own pattern.)",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 50–52", "8–10 different fallen leaves", "old newspaper", "plain paper and wax crayons with the paper peeled off", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "The Web of Life",
+      "goal": "Play the Web of Life game to see how plants, animals and the Sun are connected, then find out what happened in real life when one part of a web was poisoned or removed.",
+      "steps": [
+        {
+          "kind": "game",
+          "title": "Web of Life game (pages 52–54)",
+          "mins": 15,
+          "do": "Read 'Let us Play the Game Web of Life' on page 52 and the rules on page 54. At home with few players, make 10 cards: Sun, Water, Soil, Grass, Neem tree, Grasshopper, Frog, Snake, Deer, Tiger, plus Myna and Earthworm if you can. Lay the cards in a circle on the floor (each player stands for two or three cards). Hold a ball of wool on the Sun card, say a connection ('The Sun gives light to the grass'), wrap the wool round a pebble on the Grass card and keep going: grass feeds the deer, the deer feeds the tiger, the tree gives the myna a home, the earthworm turns dead leaves into soil for the tree. Keep going until every card has at least two threads. Then do step 5: remove the Grass card by cutting its threads. Ask: 'Who is affected first? Then who? Is anyone safe?'"
+        },
+        {
+          "kind": "game",
+          "title": "Food Chain Dominoes",
+          "mins": 8,
+          "do": "Play the DeepKids game 'Food Chain Dominoes'. Make 12 paper dominoes, each with an eater on one half and something it eats on the other, from Indian habitats: grass | deer, deer | tiger, leaf | caterpillar, caterpillar | myna, myna | snake, plankton | fish, fish | kingfisher, insect | frog, frog | snake, seed | sparrow, sparrow | hawk, and one 'Decomposer' tile (earthworms, fungi) that can join any dead end. Take turns placing matching ends to build the longest chain. Ask: 'Where does every chain start?' (With a plant, which gets its energy from the Sun.)"
+        },
+        {
+          "kind": "think",
+          "title": "Rachel Carson and the silent birds",
+          "mins": 11,
+          "do": "Put the wool web back together. Say: 'What if a poison was sprayed on the grass to kill grasshoppers?' Follow the threads: the frog eats many poisoned grasshoppers, the snake eats many frogs, so the poison piles up the chain. Then tell the story in Voice v2: Rachel Carson and the pesticide DDT, which built up in birds of prey and made their eggshells so thin that they broke. Ask: 'Why did the birds at the top of the chain suffer most when the poison was sprayed on the plants at the bottom?' Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "think",
+          "title": "Did the wolves save the trees? A live debate",
+          "mins": 11,
+          "do": "Tell the story in Voice v3: wolves were brought back to Yellowstone National Park in the USA in 1995, and some scientists say this made trees and rivers recover, while others say the evidence is weaker than the famous story. Use the wool web: remove the Tiger card instead of the Grass card and ask, 'What happens to the deer? Then to the grass?' (More deer, then less grass and fewer young trees.) Make it clear that scientists are still arguing about how big this effect really is. Ask the voice question and let your child design an experiment in words.",
+          "ref": "v3"
+        }
+      ],
+      "need": ["Textbook pages 52–54", "a ball of wool or string and scissors", "10–12 paper cards and pebbles", "12 paper dominoes"],
+      "prep": [{"task": "Make 12 Web of Life cards and 12 food-chain dominoes with your child or beforehand", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect: puzzle, turtle, check and teach it back",
+      "goal": "Answer the reflection questions, solve the word puzzle, make a paper turtle, find our state animal, bird and plant, check understanding and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Questions and word puzzle (page 55)",
+          "mins": 9,
+          "do": "Ask questions 1–3 on page 55. 'Which animal would you love to be? What special abilities would it give you?' (Ask them to name a real feature and its use: 'an owl, to see in the dark'.) 'How are plants and animals dependent on each other?' (Animals eat plants and live in them; animals spread seeds and pollen; dead animals and droppings feed the soil.) 'What is the role of a nature scientist?' (To observe, record, study and help protect plants and animals, like Abha Didi and Salim Ali.) Then do question 4, 'Find the treasures of the forest': your child circles the hidden words in the grid, such as TIGER, BANYAN, ELEPHANTS, DEER and SNAKE, and any others they can find."
+        },
+        {
+          "kind": "act",
+          "title": "Paper turtle and state symbols (page 56)",
+          "mins": 10,
+          "do": "Do Activity a3, question 7 on page 56: fold a paper turtle from an old newspaper or used paper by following the nine pictures step by step. While folding, ask: 'Which feature keeps a real turtle safe?' (Its hard shell.) 'What helps it swim?' (Webbed feet or flippers.) Then do question 8: find out your state's animal, bird and tree or flower, write them on the turtle's shell, and say one feature of each. (For example, Madhya Pradesh: barasingha, Indian paradise flycatcher, banyan; Maharashtra: Indian giant squirrel, yellow-footed green pigeon, mango.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page with your child for one minute, then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 4 beak test and the Day 6 insect hunt next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing scientists' views. Your child can answer the write items aloud while you scribe. There is no single right answer for section C; praise reasons that use evidence from this week ('in my camouflage test...').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back and plan the family nature walk",
+          "mins": 10,
+          "do": "Your child is the teacher and you (or a grandparent or sibling) are the student. In 5 minutes they teach, using real things from the week: the bird diary, the beak tools, the leaf autographs, the footprint drawings and the wool web. They should cover: forest safety rules; how features like beaks, claws and snouts match food; what makes an insect; net and parallel veins; and why removing one living thing affects the whole web. Ask two 'student' questions: 'Why do sparrows have short, thick beaks?' and 'If all the frogs vanished, what would happen to the snakes and the insects?' Then do question 5 on page 55: your child plans a family nature walk in a nearby park where they will be the guide, choosing three plants and three animals to explain. Keep visiting the Activity a4 square for two more weeks and make the mini field guide.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook pages 55–56", "an old newspaper or used A4 paper", "the bird diary, leaf autographs, footprint drawings and wool web", "worksheet ws3"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Forest animals, birds and insects",
+      "day": 3,
+      "sections": [
+        ["A. Safety on the trail", [
+          {"t": "sort", "p": "Sort these actions.", "items": ["Feeding monkeys biscuits", "Walking quietly", "Throwing a wrapper in the bushes", "Carrying a cloth bag", "Teasing a deer", "Watching birds from far away", "Plucking flowers", "Taking your rubbish home"], "cats": ["Do", "Don't"]},
+          {"t": "write", "p": "Why should you never bring polythene bags into a forest?", "lines": 2}
+        ]],
+        ["B. Features and their jobs", [
+          {"t": "match", "p": "Match each animal to its feature and what it does.", "pairs": [["Elephant", "Long trunk to take food and water"], ["Sparrow", "Short, strong beak to crack seeds"], ["Eagle", "Sharp curved beak and claws to catch prey"], ["Sunbird", "Long beak to drink nectar"], ["Gharial", "Long, narrow snout to catch fish"], ["Turtle", "Hard shell for safety and webbed feet to swim"]]},
+          {"t": "mcq", "p": "Owls hunt at night. Which feature helps them most?", "opts": ["Bright colours", "Sharp eyesight", "A long tail", "Webbed feet"], "a": 1},
+          {"t": "fill", "p": "The bird with a 'horn' growing on top of its beak is called a ____.", "a": ["hornbill"]}
+        ]],
+        ["C. Insects", [
+          {"t": "fill", "p": "An insect has ____ pairs of legs and one pair of antennae.", "a": ["three", "3"]},
+          {"t": "sort", "p": "Which of these are insects?", "items": ["Ant", "Spider", "Butterfly", "Earthworm", "Grasshopper", "Bee", "Snail", "Housefly"], "cats": ["Insect", "Not an insect"]},
+          {"t": "mcq", "p": "Animals that live both on land and in water, like the frog, are found in the book on page 48. Which animal in this list can also live on land and in water?", "opts": ["Fish", "Crocodile", "Sparrow", "Butterfly"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Features at work: new animals",
+      "day": 6,
+      "sections": [
+        ["A. Read the beak", [
+          {"t": "mcq", "p": "A flamingo has a bent beak with fine comb-like edges and wades in shallow salty lakes. What does it most likely eat?", "opts": ["Nuts", "Tiny animals and plants sieved from water", "Rats", "Nectar"], "a": 1},
+          {"t": "mcq", "p": "A woodpecker has a strong, straight, chisel-like beak. What does it use it for?", "opts": ["Drinking nectar", "Drilling into bark to find insects", "Sieving water", "Tearing meat"], "a": 1},
+          {"t": "draw", "p": "Invent a bird that eats only fruit hanging at the tips of thin branches. Draw its beak and feet, and label how each helps."}
+        ]],
+        ["B. Feet and movement", [
+          {"t": "match", "p": "Match each animal to its feet.", "pairs": [["Duck", "Webbed feet for paddling"], ["Camel", "Wide padded feet for sand"], ["Lizard", "Sticky toe pads for walls"], ["Eagle", "Curved talons for gripping prey"]]},
+          {"t": "write", "p": "You find a footprint with two pointed halves (split hoof) in the mud by a pond. Name two animals it could belong to and say how you would tell them apart.", "lines": 2}
+        ]],
+        ["C. Insects and hiding", [
+          {"t": "write", "p": "In our camouflage test, which colour of paper 'insect' survived best on grass? Explain why.", "lines": 2},
+          {"t": "mcq", "p": "A small animal has 8 legs, 2 body parts and no antennae. It is:", "opts": ["An insect", "A spider", "A bird", "A fish"], "a": 1},
+          {"t": "table", "p": "Write three small animals you found on your insect hunt.", "cols": ["Animal", "Number of legs", "Insect? (yes/no)"], "rows": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Webs, puzzles and scientists who disagree",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "A tiger's footprint usually shows no claw marks, but a dog's does. Why?", "lines": 2},
+          {"t": "write", "p": "Hornbills swallow forest fruits whole and fly far before dropping the seeds. What would happen to some forest trees if hornbills disappeared?", "lines": 3},
+          {"t": "fill", "p": "Every food chain starts with a plant, which gets its energy from the ____.", "a": ["Sun", "sun", "sunlight"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all the insects in a forest disappeared? Think of at least three living things that would be affected and how.", "lines": 4},
+          {"t": "write", "p": "What if everyone fed the monkeys at a forest gate every day? What would happen to the monkeys and the visitors after a year?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Rachel Carson said spraying DDT harmed birds far away from where it was sprayed. Chemical companies said she was wrong. What evidence finally showed who was right?", "lines": 3},
+          {"t": "mcq", "p": "Some scientists say wolves in Yellowstone made the trees grow back. Others say other changes also played a part. Which would be the best test?", "opts": ["Ask tourists what they think", "Compare fenced areas that elk cannot enter with open areas, in places with and without wolves", "Count only the wolves", "Look at one photo before and after"], "a": 1},
+          {"t": "write", "p": "Salim Ali had no zoology degree, but became India's greatest bird scientist. What made his work good science?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Which beak for which food? (Book Activity 3, page 45)",
+      "day": 4,
+      "question": "Does the shape of a 'beak' decide which food a bird can pick up easily?",
+      "need": ["a plate with a spoonful of rice grains, a few grapes or berries, unshelled peanuts and small fruit pieces", "a glass of water with a few grains of puffed rice floating in it", "a spoon, a toothpick, chopsticks (or 2 pencils), tongs or a cloth peg", "a phone timer", "a table drawn in the notebook"],
+      "steps": [
+        "Put the foods on the plate and the floating puffed rice in the glass.",
+        "Give each tool a bird name: spoon = duck, toothpick = sunbird or woodpecker, chopsticks = kingfisher, tongs or peg = sparrow or parrot.",
+        "For each food, try each tool for 20 seconds and count the pieces picked up.",
+        "Record the counts in a table with foods down the side and tools across the top.",
+        "Circle the best tool for each food and fill in the page 45 table.",
+        "Try cracking a peanut shell with the tongs or peg and with the spoon."
+      ],
+      "predict": "Ask your child to guess first: which tool will be best for rice grains? For berries? For floating food? Will any tool be good at everything?",
+      "observe": "Record the counts. Usually the spoon is best for scooping floating food and many small grains, the toothpick is good for spearing soft fruit pieces, tongs or a peg are best for gripping and cracking nuts, and chopsticks grab single items. No tool is best at everything.",
+      "why": "Each tool works well for some foods and badly for others because of its shape, and a bird's beak is the same. Over very many generations, birds whose beaks suited the food around them got more to eat and raised more chicks, so beak shapes came to match food: thick, short beaks that crack seeds like pliers (sparrow), hooks that tear meat (eagle), long thin tubes that reach nectar deep in flowers (sunbird), flat scoops that sieve water (duck), daggers that grab slippery fish (kingfisher). This is why a nature scientist can guess what a bird eats just by looking at its beak and claws, as the book says on page 45.",
+      "safety": "Use a blunt toothpick and keep it away from eyes. Wash hands before and after; check for peanut allergies in the family before using peanuts.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "Camouflage hunt",
+      "day": 6,
+      "question": "Does an insect's colour help it hide from birds?",
+      "need": ["20 green and 20 red or bright pink paper squares, about 1 cm each", "a patch of grass or a green cloth", "a patch of bare red-brown soil or a brown or red cloth", "a phone timer"],
+      "steps": [
+        "While the 'bird' looks away, scatter all 40 squares over the grass in an area about 1 metre across.",
+        "The bird has 30 seconds to pick up as many squares as possible, one at a time.",
+        "Count how many of each colour were caught and how many are still left (survived).",
+        "Collect all the squares and scatter them again on the bare soil or brown cloth.",
+        "Repeat the 30-second hunt and count again.",
+        "Make a table: background, green caught, red caught."
+      ],
+      "predict": "Ask your child to guess first: on grass, which colour will the bird catch most? Will it be the same on bare soil?",
+      "observe": "On grass, most of the red squares are caught and many green ones survive. On red-brown soil, the result usually changes: green ones stand out more and are caught more often.",
+      "why": "A bird hunting quickly picks the insects it can see most easily. An insect that matches its background is harder to spot, so it is less likely to be eaten and more likely to live long enough to lay eggs. Over many generations, the colours that help insects hide become more common in that place. This is camouflage. Green grasshoppers in green grass, brown moths on tree bark and stick insects that look like twigs are all examples. Predators use camouflage too: a tiger's stripes break up its outline in tall grass so deer do not notice it.",
+      "safety": "Check the grass for broken glass, thorns and ants before scattering. Pick up every paper square afterwards.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Footprint trap: who visits at night?",
+      "day": 1,
+      "question": "Arya found footprints in the mud by the pond (page 42). Which animals visit our home area when we are not watching, and what prints do they leave?",
+      "need": ["a flat tray or cardboard box lid", "2–3 cm of damp sand or fine soil", "a ruler to smooth it", "a few grains of rice, a piece of chapati, a slice of banana", "notebook and pencil"],
+      "steps": [
+        "Fill the tray with damp sand or fine soil and smooth it flat with the ruler.",
+        "Put the three baits in the middle, a little apart.",
+        "Place the tray overnight on a balcony, terrace, garden corner or near a tree.",
+        "In the morning, look before touching. Note which baits are gone or nibbled.",
+        "Draw every footprint, trail and mark life-size, and measure the biggest print.",
+        "If nothing came, try a different spot or bait for another night."
+      ],
+      "predict": "Ask your child to guess first: will anything come? Who? Which bait will be eaten first? Write the guesses down.",
+      "observe": "Look for ant trails (tiny dotted lines), bird prints (three thin toes forward, one back), cat prints (round pads, no claw marks), dog prints (pads with claw marks), small long-toed prints (squirrel, rat or mouse), and slime trails (snails or slugs).",
+      "why": "Many animals are most active at night, at dawn or at dusk, so we rarely see them, but they leave clues. Every animal's foot has a shape that suits how it lives: a cat walks quietly on soft pads with its claws pulled in, a bird's toes wrap round branches, a squirrel's long toes grip bark. Nature scientists use footprint traps (and today, also automatic cameras) to find out which animals live in a forest, because tigers, leopards and many shy animals are seldom seen. Damp sand holds a clear print because the grains stick together and keep the shape of the foot.",
+      "safety": "Do not touch droppings. Wash hands after handling the sand. Do not leave food out near the house for more than one night, so that rats are not encouraged.",
+      "time": "10 min to set up + 8 min next morning"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "My Bird Diary (Book Activity 4, page 47)",
+      "day": 5,
+      "mins": 20,
+      "need": ["notebook pages ruled like the Bird Diary on page 47", "pencil and colour pencils", "a tree near home, early in the morning"],
+      "steps": [
+        "Stand near a tree. Close your eyes for one minute and count the different bird calls.",
+        "Open your eyes and choose one bird. Watch only that bird.",
+        "Note how it moves (hops, walks, flies straight or in swoops), what it eats and where it sits.",
+        "Fill in its page: name, date, head, back, wing, throat and leg colours, beak shape and interesting facts.",
+        "Do at least three birds today.",
+        "Add a new bird whenever you see one; after a month, count how many kinds you have recorded."
+      ],
+      "outcome": "A bird diary with at least three real birds, carefully described, and a child who has started to watch birds the way Salim Ali did."
+    },
+    {
+      "id": "a2",
+      "title": "Leaf Autograph sheet (Book Activity 6, page 52)",
+      "day": 7,
+      "mins": 15,
+      "need": ["5–10 different leaves", "plain paper", "wax crayons with the paper peeled off"],
+      "steps": [
+        "Lay a leaf on the notebook with the vein side up.",
+        "Cover it with a plain sheet of paper and hold it still.",
+        "Rub the side of a crayon over the leaf until the outline and veins appear.",
+        "Repeat with at least five leaves, in different colours.",
+        "Write the plant's name and N (net veins) or P (parallel veins) under each.",
+        "Stick the sheet on the wall or in the notebook."
+      ],
+      "outcome": "A sheet of named leaf autographs showing that every kind of leaf has its own shape and vein pattern."
+    },
+    {
+      "id": "a3",
+      "title": "Paper turtle with state symbols (page 56)",
+      "day": 9,
+      "mins": 10,
+      "need": ["a square sheet of old newspaper or used paper", "colour pencils"],
+      "steps": [
+        "Make a square from the paper by folding one corner to the opposite edge and cutting off the extra strip.",
+        "Follow the nine folding pictures on page 56 step by step.",
+        "Draw the pattern of plates on the turtle's shell.",
+        "Write your state's animal, bird and tree or flower on the shell.",
+        "Tell someone one feature of a real turtle and how it helps."
+      ],
+      "outcome": "A folded paper turtle showing your state's animal, bird and tree, made from paper that would otherwise be thrown away."
+    },
+    {
+      "id": "a4",
+      "title": "Biodiversity Count: my 1-metre square",
+      "day": 1,
+      "mins": 13,
+      "need": ["4 sticks and about 4.5 metres of string", "a notebook and pencil", "a magnifying glass if you have one"],
+      "steps": [
+        "Mark a 1 m × 1 m square in a park, garden or compound with sticks and string.",
+        "Look closely, on hands and knees, for 10 minutes. Record every kind of plant and animal, and signs of animals.",
+        "Draw a map of the square and number each find.",
+        "Visit once a week for 4 weeks, at about the same time of day. Tick kinds seen again and add new ones.",
+        "At the end, make a mini field guide: one small page per kind, with a drawing, its name (or a description) and where in the square you found it."
+      ],
+      "outcome": "A four-week record and a home-made mini field guide to one square metre, showing how many living things share even a small patch of ground."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Salim Ali (1896–1987), India",
+      "idea": "Salim Ali grew up in Mumbai. As a boy he shot a sparrow with an unusual yellow patch on its throat and took it to the Bombay Natural History Society, where the secretary, W.S. Millard, showed him the collection of birds and encouraged him. He spent his life carefully watching, counting and recording India's birds, travelling to forests, deserts and mountains, and studied how weaver birds build their nests. His 'Book of Indian Birds' (1941) and the ten-volume 'Handbook of the Birds of India and Pakistan', written with S. Dillon Ripley, are still used today.",
+      "then": "He did not finish a university degree in zoology, and in the 1920s he was turned down for a job as a bird scientist at the Zoological Survey of India because of this. He did surveys of the birds of different regions, often with little money, and learnt the methods of careful bird study in Germany.",
+      "now": "He is known as the 'Birdman of India'. His careful field surveys are accepted as the foundation of bird science in India, and he helped to protect places such as the Bharatpur bird sanctuary (now Keoladeo National Park) and Silent Valley in Kerala. He was awarded the Padma Vibhushan in 1976.",
+      "status": "accepted",
+      "ask": "Salim Ali did not have a degree, but his notes were trusted by scientists all over the world. What makes a bird diary good enough for a scientist to trust it?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "Rachel Carson (1907–1964), USA",
+      "idea": "Rachel Carson, a biologist and writer, published 'Silent Spring' in 1962. She showed that pesticides such as DDT, sprayed widely on crops and forests to kill insects, did not stay where they were sprayed. They washed into rivers and passed up food chains, building up in the bodies of fish and birds, and harming many animals that were not the target. The book's title imagined a spring with no birdsong.",
+      "then": "Chemical companies attacked her book fiercely and some people called her hysterical and unscientific. A committee of scientists set up by US President John F. Kennedy reviewed the evidence and in 1963 largely supported her warnings.",
+      "now": "Later research showed that DDT built up in birds of prey such as eagles, peregrine falcons and pelicans and made their eggshells so thin that they cracked, so few chicks hatched. The USA banned DDT for use on crops in 1972, and many of these birds have since recovered. Her main warnings are accepted, and she is often called a founder of the modern environmental movement. DDT is still allowed in small amounts in some countries, including India, for spraying inside homes to control malaria mosquitoes, which is debated.",
+      "status": "accepted",
+      "ask": "The poison was sprayed on plants and insects, but it was the eagles at the top of the chain that could not hatch their eggs. How could you show that the poison really travelled up the chain, and that it was not some other cause?",
+      "day": 8
+    },
+    {
+      "id": "v3",
+      "who": "William Ripple and Robert Beschta (USA, 2000s), and their critics, including Matthew Kauffman and colleagues (2010)",
+      "idea": "Grey wolves had been wiped out in Yellowstone National Park in the USA by the 1920s, and were brought back in 1995 and 1996. Ripple and Beschta, forest scientists, reported that after the wolves returned, young aspen, willow and cottonwood trees began to grow taller in some places. They argued that wolves ate elk and also made elk afraid to stay long near rivers, so the trees recovered and even riverbanks changed. This chain of effects from the top of the web to the plants is called a 'trophic cascade', and the story became famous through videos and books.",
+      "then": "Many scientists welcomed it as proof that top predators keep whole ecosystems healthy. Others pointed out that many things changed in Yellowstone at the same time: there were also more bears and cougars, people hunted elk outside the park, and droughts came and went.",
+      "now": "Most scientists agree that wolves reduced the number of elk and that predators can shape ecosystems. But how much the wolves alone helped the trees is still argued about. A 2010 study by Matthew Kauffman and colleagues found that aspen were not recovering much even in places where elk should have been most afraid of wolves, and later studies have measured the trees in different ways and got different answers.",
+      "status": "debated",
+      "ask": "In the Web of Life game, removing one card changed everything. In a real park, many 'cards' change at once. How could scientists find out whether it was the wolves, and not the bears, the hunters or the weather, that helped the trees grow back?",
+      "day": 8
+    }
+  ],
+  "check": [
+    {"q": "Give three forest safety rules and say why one of them matters.", "a": "For example: do not tease animals, do not feed animals, do not damage plants, do not bring polythene, do not throw garbage. Feeding wild animals makes them lose their fear of people and eat food that harms them; polythene can block an animal's stomach."},
+    {"q": "Name one feature each of an elephant, a sparrow and a gharial, and what it helps them do.", "a": "Elephant: long trunk to take food and water. Sparrow: short, strong beak to crack seeds. Gharial: long, narrow, pointed snout to catch fish."},
+    {"q": "How can you guess what a bird eats?", "a": "By looking at its beak and claws: an eagle has a sharp, curved beak and sharp claws to catch prey; a sunbird has a long beak to drink nectar; a sparrow has a short, thick beak for seeds."},
+    {"q": "What makes an animal an insect? Is a spider an insect?", "a": "Three pairs of legs (six), one pair of antennae and a body in three parts; many have one or two pairs of wings. A spider is not an insect: it has eight legs, two body parts and no antennae."},
+    {"q": "How do water animals' bodies help them? Give two examples.", "a": "Fish have fins to swim; turtles have hard shells for safety and webbed feet to swim; the gharial's thin snout catches fish; frogs can live on land and in water."},
+    {"q": "What are the two kinds of vein patterns in leaves? Give an example of each.", "a": "Net veins that branch like a net, as in mango, peepal and hibiscus; and parallel veins that run side by side, as in grass, banana and maize."},
+    {"q": "In the Web of Life game, what happened when one part was removed? Give a real example.", "a": "The web weakened because everything that depended on it was affected, and then the things that depended on those. For example, if grass disappears, deer go hungry and then tigers do; when DDT poisoned food chains, eagles and falcons could not hatch their eggs."},
+    {"q": "Who was Salim Ali and why is he remembered?", "a": "An Indian bird scientist (1896–1987), the 'Birdman of India', who carefully watched and recorded India's birds, wrote 'The Book of Indian Birds', and helped protect places like Bharatpur, even though he had no zoology degree."}
+  ]
+}

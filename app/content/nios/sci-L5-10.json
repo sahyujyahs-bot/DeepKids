@@ -1,0 +1,560 @@
+{
+  "key": "nios|sci|5|10",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 10,
+  "title": "Sources of Energy and their Importance",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 10 (lesson pages 149–160)",
+  "summary": "Energy is the power to do work, and we need it for everything, even while asleep. Your child learns the difference between non-renewable sources (coal, kerosene, petrol, diesel, cooking gas) and renewable ones (food, sunlight, wind, flowing water, biogas), meets seven kinds of energy from the book through hands-on tests with sunlight, a pinwheel, a water wheel and magnets, builds the book's solar cooker, and finds practical ways to save energy at home. Along the way they meet a forgotten woman scientist, a solar inventor ahead of his time and a live debate about how long oil will last.",
+  "goals": [
+    "By the end your child can explain what energy is and why we need it, even when we sleep.",
+    "By the end your child can sort sources of energy into non-renewable and renewable, give examples of each and explain why non-renewable sources will run out.",
+    "By the end your child can name the seven kinds of energy in the book (food, solar, wind, hydro, organic or biogas, electrical, magnetic) and say where each is used.",
+    "By the end your child can show with home tests how sunlight heats things, how moving air and moving water can turn a wheel, and how a magnet separates iron.",
+    "By the end your child can suggest at least five ways to save energy at home and explain why each one works.",
+    "By the end your child can explain why predictions about how long oil will last keep changing, and what kind of evidence they depend on."
+  ],
+  "words": [
+    ["energy", "the power or ability to do work, such as moving, lifting, heating, lighting or growing"],
+    ["source of energy", "a thing from which we get energy, such as food, coal, petrol, the Sun or the wind"],
+    ["non-renewable", "a source that gets used up and cannot be made again in our lifetime, like coal, petrol, diesel, kerosene and natural gas; they took millions of years to form underground"],
+    ["renewable", "a source that keeps coming back and does not run out, like sunlight, wind and flowing water"],
+    ["fossil fuel", "coal, oil (petrol, diesel, kerosene) and natural gas, formed over millions of years from the remains of ancient plants and tiny sea creatures buried underground"],
+    ["solar energy", "energy from the Sun, which reaches us as light and heat"],
+    ["solar cell", "a flat panel that turns sunlight directly into electricity, like the panels on rooftops and on solar street lights"],
+    ["windmill", "a machine with large blades turned by the wind; it can pump water, grind flour or, as a wind turbine, make electricity"],
+    ["hydro energy", "energy from flowing or falling water; in a hydro power station the water turns machines that make electricity ('hydro' means water)"],
+    ["biogas", "a gas that burns, made when animal dung, crop waste and dry leaves rot inside a closed tank without air; also called gobar gas"],
+    ["electrical energy", "energy carried by electricity through wires to run bulbs, fans, fridges, computers and trains"],
+    ["magnetic energy", "the book's name for the power of a magnet to pull iron and steel towards it, used in cranes and electric bells"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Why do we need energy?",
+      "goal": "Start from how our own bodies feel when hungry or tired, learn what energy means, and find energy being used everywhere at home.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Hungry and tired",
+          "mins": 6,
+          "do": "Ask your child: 'How do you feel when you have skipped breakfast and it's nearly lunch? Can you run as fast?' Good answers: 'weak', 'tired', 'cranky', 'my tummy grumbles'. Then ask: 'What happens to Papa's scooter or the car when the petrol runs out?' (It stops.) Ask: 'What is the same about you without food and the scooter without petrol?' Listen for: 'Both need something to give them power to work.' Tell them: 'Scientists call that power energy. Today we find out where it comes from.'"
+        },
+        {
+          "kind": "read",
+          "title": "The opening and 10.1 'Why is energy required?' (lesson pages 149–150)",
+          "mins": 8,
+          "do": "Read the opening of Lesson 10 on lesson page 149 and section 10.1 on lesson page 150 aloud, and look at the pictures of lifting weight, washing clothes and cooking food. Ask: 'What does the book call the strength to do work?' (Energy.) 'Do we need energy while sleeping? Why?' (Yes; the heart keeps beating, the lungs keep breathing and the body stays warm.) 'Which work in the book's list do you do every day?' Then read the line that we need energy even for eating and passing stool and urine, and ask: 'Can you think of anything you do that needs no energy at all?' (No; even thinking uses energy, as the brain is working.)"
+        },
+        {
+          "kind": "do",
+          "title": "Your sleeping heart",
+          "mins": 7,
+          "do": "Show your child how to find the pulse on the inside of the wrist below the thumb, using two fingers (not the thumb). Count the beats for 15 seconds while sitting still and multiply by 4. Then they lie flat with eyes closed for 2 minutes and you count again. Then they do 30 jumping jacks and count again. Write the three numbers. Ask: 'Did your heart stop when you were resting?' (No, it slowed down but kept going.) 'When did it beat fastest? Why?' (After jumping, because the muscles needed more energy, so the heart pumped faster to bring food and oxygen.)"
+        },
+        {
+          "kind": "act",
+          "title": "Home energy hunt",
+          "mins": 18,
+          "do": "Do Activity a1. Walk through every room with your child and a notebook with three columns: 'Thing or work', 'What energy does it use?', 'Where does that come from?'. Find at least 12 examples, for example: gas stove (cooking gas), ceiling fan (electricity), mixer-grinder (electricity), Dadi's walk to the temple (food energy), clothes drying on the balcony (sunlight and wind), scooter (petrol), torch (battery), mobile phone charger (electricity), plants on the window (sunlight). If your child is stuck, ask: 'What makes this move, heat up or light up?' Leave the third column blank where you are not sure; we will fill it in over the week.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "What did we find?",
+          "mins": 6,
+          "do": "Look at the list together and ask: 'Which energy did we find most often?' (Usually electricity.) 'Which things need fuel that gets burnt?' (Stove, scooter, perhaps a generator or diya.) Ask your child to write the sentence 'Energy is the power to do work' in the notebook and then add one sentence of their own about why our home needs it."
+        }
+      ],
+      "need": ["NIOS Environmental Studies Level B, Lesson 10 (lesson pages 149–150)", "a watch or phone timer", "notebook and pencil"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Sources that run out and sources that don't",
+      "goal": "Learn the two kinds of sources of energy, why fossil fuels are non-renewable, and that all our food energy comes from plants that capture sunlight.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.1.1 Sources of energy (lesson pages 150–151)",
+          "mins": 8,
+          "do": "Read 10.1.1 on lesson pages 150–151 aloud: non-renewable sources (coal, kerosene oil, cooking gas, petrol, diesel) and renewable sources (wind, water, sunlight, and food, which nature keeps providing). Look at the pictures of coal, kerosene, diesel and cooking gas. Ask the book's question: 'If we keep using them continuously, won't they come to an end?' (Yes.) Explain where they come from: coal formed over millions of years from buried ancient forests, and oil and natural gas from tiny sea creatures buried under the sea floor. 'Once we burn them, can we make more?' (Not in our lifetime; it took millions of years.)"
+        },
+        {
+          "kind": "game",
+          "title": "Renewable or not? Card sort",
+          "mins": 8,
+          "do": "Write these on small paper slips: coal, petrol, diesel, kerosene, LPG cooking gas, sunlight, wind, river water, food, cow dung, firewood, battery. Your child sorts them into two piles: 'Runs out' and 'Keeps coming back'. Ask the reason for each. Talk about the two tricky ones: firewood and cow dung come back only if we grow trees and keep animals, so they are renewable only if we do not use them faster than they grow back. A battery is not a source itself; it stores energy that came from somewhere else, often from electricity made by burning coal."
+        },
+        {
+          "kind": "think",
+          "title": "How long will oil last? (Do you know?, lesson page 151)",
+          "mins": 10,
+          "do": "Read the 'Do you know?' box on lesson page 151: the book estimates oil and gas will finish in 30–35 years and coal will last up to 100 years. Then tell your child Voice v1 in simple words: such predictions have been made again and again, and new oil keeps being found and new ways to dig it out keep being invented, so the dates keep moving. But everyone agrees there is only a fixed amount underground. Ask the voice question and let your child answer fully.",
+          "ref": "v1"
+        },
+        {
+          "kind": "read",
+          "title": "10.2.1 Energy from food (lesson page 152)",
+          "mins": 7,
+          "do": "Read 'Let's see what you have learnt 10.1' questions on lesson pages 151–152 aloud and let your child answer them (answers on lesson page 159). Then read 10.2.1 'Energy received from food' on lesson page 152. Ask: 'Where does the energy in your roti come from?' Trace it with them: roti from wheat; wheat is a plant; the plant made its food from sunlight in its leaves. 'And the energy in milk?' (Cow ate grass; grass used sunlight.) Draw a chain in the notebook: Sun → grass → cow → milk → me."
+        },
+        {
+          "kind": "do",
+          "title": "Food energy on the packet",
+          "mins": 12,
+          "do": "Bring three packets from the kitchen, for example biscuits, a breakfast cereal or poha packet, and a packet of namkeen. On the back, find 'Energy' in the nutrition table, written in kcal (kilocalories) per 100 g. Your child writes each number down. Ask: 'Which gives the most energy for the same weight?' (Usually the fried namkeen, because fat stores a lot of energy.) Explain: 'kcal is how scientists measure food energy. A child of 10 needs roughly 1,700–2,000 kcal a day; it depends on how active they are.' Ask: 'Does more energy always mean healthier?' (No; food also needs to give protein, vitamins and fibre. We will learn more in Lesson 12.)"
+        }
+      ],
+      "need": ["Lesson pages 150–152 and 159", "12 small paper slips", "3 food packets with nutrition labels", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Solar energy: the Sun's light and heat",
+      "goal": "Learn how we use the Sun's light and heat, test which colour soaks up the most heat, and meet a solar inventor who was ahead of his time.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.2.2 Solar energy (lesson pages 152–153)",
+          "mins": 8,
+          "do": "Read 10.2.2 on lesson pages 152–153 aloud and look at the pictures of the solar cooker and grains drying. Ask: 'In what two forms does solar energy reach us?' (Light and heat.) 'Name five uses in the book.' (Drying clothes and grains, plants making food, cooking, heating water, lighting bulbs through solar cells, running small vehicles.) Read the line about Vitamin D and explain properly: when sunlight falls on our skin, the skin makes Vitamin D, which helps our bones take in calcium; a little time in morning or late-afternoon sun is enough, and too much midday sun can burn the skin. Tell them the Sun will keep shining for billions of years, which is why we treat it as never-ending."
+        },
+        {
+          "kind": "exp",
+          "title": "Black bottle, white bottle",
+          "mins": 15,
+          "do": "Do Experiment e1. Take two identical plastic bottles or steel tumblers. Wrap one in black paper or cloth and one in white paper. Fill both with the same amount of tap water and check that the water feels the same (or measure with a thermometer). Ask your child to predict which will get warmer. Put both in direct sunshine on a balcony or terrace. Set a timer for 40 minutes; they will check on them during the rest of the session. Meanwhile also put a wet handkerchief in the sun and another in the shade, and note which dries first.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Augustin Mouchot's sun engine",
+          "mins": 8,
+          "do": "Tell your child the story in Voice v2: about 150 years ago a French teacher built machines that used curved mirrors to focus sunlight, boil water and run a small steam engine, and he even printed a newspaper with it at a big fair in Paris in 1878. Then coal became cheap and his work was dropped. Ask: 'Why do you think people chose coal then?' (It was cheap and worked at night and on cloudy days.) Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "do",
+          "title": "Solar around us",
+          "mins": 7,
+          "do": "Look out of the window or on a short walk for solar panels: on rooftops, solar street lights, traffic signals, a solar water heater tank on a roof, or a solar calculator at home. Ask: 'Which of these turns sunlight into electricity, and which uses the Sun's heat?' (Panels and cells make electricity; the water heater uses heat.) Tell them that Kochi airport in Kerala became the world's first airport to run fully on solar power in 2015."
+        },
+        {
+          "kind": "exp",
+          "title": "Read the bottles",
+          "mins": 7,
+          "do": "After 40 minutes bring both bottles in. Your child feels the water in each with a finger, or reads the thermometer, and writes the result. Ask: 'Was your guess right? Why do people in hot places like Rajasthan wear white clothes, and why are solar cooker boxes painted black inside?' (White reflects sunlight and stays cooler; black absorbs it and gets hot.) Also check the two handkerchiefs.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Lesson pages 152–153", "2 identical bottles or steel tumblers", "black paper or cloth, white paper, rubber bands", "a kitchen thermometer if available", "2 handkerchiefs", "a sunny spot", "a timer"],
+      "prep": [{"task": "Check the weather; this day needs at least an hour of sunshine (swap with Day 4 if it is cloudy)", "when": "morning"}]
+    },
+    {
+      "n": 4,
+      "title": "Wind and water at work",
+      "goal": "Learn how wind energy and hydro energy do work, make the book's pinwheel spin, and build a water wheel.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.2.3 Wind energy (lesson page 153)",
+          "mins": 6,
+          "do": "Read 10.2.3 'Wind Energy' on lesson page 153 aloud and look at the pinwheel picture. Ask the book's question: 'Why does the pinwheel spin faster when children run with it?' Good answer: 'More air pushes harder on the blades, so more work of spinning gets done.' Ask: 'What three jobs can windmills do?' (Pump water from wells, make electricity, grind flour.) Tell them that India has many big wind farms, especially in Tamil Nadu, Gujarat, Karnataka and Rajasthan, where strong winds blow for much of the year."
+        },
+        {
+          "kind": "act",
+          "title": "Make a pinwheel and test the wind",
+          "mins": 14,
+          "do": "Do Activity a2. Make the pinwheel from a square of paper: draw both diagonals, cut along each from the corners about two-thirds of the way to the centre, bend every other point into the centre and pin them with a drawing pin through a pencil eraser or a straw (you handle the pin). Then test: hold it still indoors (no spin), blow gently, blow hard, walk with it, run with it, and hold it in front of a table fan on low and on high. Your child counts how many times a coloured dot on one blade goes round in 10 seconds each time. Ask: 'When did it spin fastest? What does that tell you about stronger wind?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "10.2.4 Hydro energy (lesson page 153)",
+          "mins": 5,
+          "do": "Read 10.2.4 on lesson page 153 aloud and look at the hydro power station picture. Ask: 'How does the book show that flowing water has energy?' (Rivers carry heavy wooden logs downstream.) Explain how a hydro station works: a dam stores water high up; the water falls down through pipes and spins big wheels called turbines; the turbines turn a generator that makes electricity. Tell them about the Bhakra dam on the Sutlej in Himachal Pradesh, one of India's biggest dams, whose stored water spins turbines to make electricity."
+        },
+        {
+          "kind": "exp",
+          "title": "Build a water wheel",
+          "mins": 15,
+          "do": "Do Experiment e2. Push 6–8 plastic spoons into the sides of a round cork, a bottle cap glued to cardboard circles, or a small paper cup, all facing the same way, like a wheel with paddles. Push a straight skewer or pencil through the middle as an axle and rest it across the top of a big bowl or bucket so the wheel can turn. Ask your child to predict: 'Will the wheel turn faster with a thin trickle or a fast stream, and from low or high?' Pour water from a jug onto the spoons: first a thin trickle from just above, then a thick stream from higher up. Count the turns in 10 seconds each time.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Wind and water compared",
+          "mins": 5,
+          "do": "Ask: 'What was the same about the pinwheel and the water wheel?' (Something moving, air or water, pushed the blades and made them turn.) 'Are wind and flowing water renewable? Why?' (Yes; the Sun heats the air and makes winds, and the Sun evaporates water that falls as rain and flows down rivers, again and again.) Write in the notebook: 'Moving air and moving water have energy that can turn a wheel.'"
+        }
+      ],
+      "need": ["Lesson page 153", "a square of paper, scissors, a drawing pin, a pencil with an eraser or a straw", "a table fan", "6–8 plastic spoons, a cork or small paper cup, a skewer or pencil", "a big bowl or bucket and a jug of water", "a timer"],
+      "prep": [{"task": "Collect plastic spoons and a cork or cup for the water wheel", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Biogas, electricity, magnets and alternatives",
+      "goal": "Learn about organic (biogas), electrical and magnetic energy, test what a magnet picks out of a mixed pile, and understand why we need alternative sources.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.2.5 Organic energy and 10.2.6 Electrical energy (lesson page 154)",
+          "mins": 8,
+          "do": "Read 10.2.5 and 10.2.6 on lesson page 154 aloud and look at the biogas plant picture. Ask: 'What goes into a biogas or gobar gas plant?' (Animal dung, crop waste, dry leaves and branches.) Explain what happens: inside a closed tank with no air, tiny bacteria break down the dung and waste and give off a gas, mostly methane, which burns with a blue flame for cooking and light; what is left is good manure. Ask: 'Why is this better than throwing the dung away?' (We get fuel and manure from waste.) Then ask: 'Name five things in our home that use electrical energy.' Tell them that most of India's electricity is still made by burning coal in power stations, which is why saving electricity also saves coal."
+        },
+        {
+          "kind": "exp",
+          "title": "Magnet rescue from the scrap pile",
+          "mins": 12,
+          "do": "Read 10.2.7 'Magnetic Energy' on lesson pages 154–155 first and look at the crane and electric bell pictures. Then do Experiment e3. Mix on a tray: iron nails or safety pins, steel paper clips, a steel spoon, an aluminium foil ball, a copper coin or wire, a brass key, plastic buttons, wooden matchsticks and some sand. Ask your child to predict which things the magnet will pull out. Then they sweep a fridge magnet or bar magnet (inside a thin plastic bag, so the bits come off easily) over the pile and sort what it picks up. Ask: 'Why do scrap yards use giant magnets on cranes?' (To quickly separate iron and steel from other scrap.)",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "10.2.8 Alternative sources and 'Let's see 10.2' (lesson pages 155–156)",
+          "mins": 7,
+          "do": "Read 10.2.8 'Alternative sources of energy' on lesson page 155 aloud. Ask: 'Why do we need alternatives to coal, kerosene and petrol?' (They are running out with heavy use.) 'Which alternatives does the book name?' (Solar, wind, water, organic/biogas.) Then do 'Let's see, what you have learnt 10.2' on lesson pages 155–156 aloud: the seven types of energy and the five fill-in-the-blanks. Answers are on lesson page 159 (solar, water, organic, electrical, iron)."
+        },
+        {
+          "kind": "think",
+          "title": "Eunice Foote and the warm jar",
+          "mins": 8,
+          "do": "Tell your child Voice v3: in 1856 an American woman scientist put different gases in glass jars in the sunshine and found the jar with carbon dioxide got hottest. Burning coal, petrol and gas gives off carbon dioxide. Her work was mostly forgotten for over 150 years. Ask: 'Why might her finding matter for the choice between coal and solar energy?' (Burning fossil fuels adds carbon dioxide, which traps heat and warms the Earth; sun and wind do not burn anything.) Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: sources and kinds of energy",
+          "mins": 10,
+          "do": "Your child does Worksheet ws1 (core) on their own. Then go through the answers together; for each wrong one, ask them to find the right lesson page (sources on pages 150–151, kinds on pages 152–155) and correct it.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 154–156 and 159", "a fridge magnet or bar magnet and a thin plastic bag", "a tray with iron nails or safety pins, steel clips, a steel spoon, aluminium foil, a copper coin or wire, a brass key, plastic buttons, matchsticks, sand", "Worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Saving energy and cooking with the Sun",
+      "goal": "Learn the book's ways to save energy, prove one of them with a covered-pot test, and build the book's solar cooker.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "10.3 How can energy be saved? (lesson page 156)",
+          "mins": 7,
+          "do": "Read 10.3 on lesson page 156 aloud, one point at a time. After each, ask your child: 'Why does this save energy?' Listen for: switching off saves electricity (and the coal burnt to make it); water reaches our taps using electric pumps; a lid keeps heat in; extra water needs extra gas to boil; soaked dal and rice cook faster; a bus carries 40 people for the fuel of a few cars; a pressure cooker cooks faster. Tell them that the book mentions CFL bulbs, but today LED bulbs use even less electricity than CFLs, and far less than old yellow bulbs."
+        },
+        {
+          "kind": "exp",
+          "title": "Lid on or lid off?",
+          "mins": 12,
+          "do": "Do Experiment e4 with you at the stove and your child as timekeeper at a safe distance. Use two identical small steel vessels with 2 cups of tap water each. Heat one with a lid and then the other without a lid, on the same burner at the same flame setting. Your child times how long until each comes to a rolling boil and writes both times. Ask them to predict first. Ask afterwards: 'How much gas did the lid save? If we cook three times a day for a year, how much would that add up to?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "act",
+          "title": "Build the book's solar cooker (lesson page 160)",
+          "mins": 20,
+          "do": "Do Activity a3, the 'Come, let's do and observe' task on lesson page 160. Use a shoebox or cardboard carton. Line the inside with black paper. Cover the top of the box opening with a sheet of clear plastic or a glass pane (you handle the glass; clear cling film or a plastic folder is safer). Cover the inside of the lid flap with aluminium foil, smooth side out, as the reflector. Put a small black or steel bowl inside with soaked poha or a few slices of tomato, or a cube of butter or a chocolate to melt. Prop the flap open with a stick so the sunlight bounces off the foil into the box. Place it in strong sun around noon. Ask: 'What is the job of the black paper, the foil and the plastic?' (Black absorbs heat; foil reflects more sunlight in; plastic lets light in and traps the heat.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "check",
+          "title": "Check the cooker",
+          "mins": 6,
+          "do": "After about an hour (or at the end of the day), open the cooker. Your child feels around the bowl carefully with the back of a hand (it may be hot) and notes what happened: melted butter or chocolate, softened tomato or warm poha. Ask: 'Why does the book call this the Sun God preparing your food? What fuel did we use?' (None; only sunlight.) 'When would this cooker not work?' (At night, on cloudy days, in the monsoon.)"
+        }
+      ],
+      "need": ["Lesson pages 156 and 160", "2 identical small steel vessels, one lid, measuring cup", "a timer", "a shoebox or carton, black paper, aluminium foil, glue or tape, clear plastic sheet or cling film, a stick", "a small black or steel bowl, soaked poha or tomato slices or a cube of butter"],
+      "prep": [{"task": "Collect a shoebox, black paper, foil and cling film for the solar cooker; check that tomorrow's forecast is sunny", "when": "2 days before"}]
+    },
+    {
+      "n": 7,
+      "title": "Let us revise, check and teach it back",
+      "goal": "Review the lesson with the book's revision and exercises, plan a family energy-saving pledge, check understanding and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and the home energy hunt (lesson page 157)",
+          "mins": 7,
+          "do": "Read 'Let's Revise' on lesson page 157 together. After each point, your child points to something from the week that showed it (pulse count, card sort, black bottle, pinwheel, water wheel, magnets, solar cooker). Then go back to the Day 1 home energy hunt (Activity a1) and fill in any blanks in the 'Where does that come from?' column, now that they know about coal power stations, LPG and food energy.",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: an energy audit",
+          "mins": 9,
+          "do": "Your child does Worksheet ws2 (stretch). The table section needs them to go round the house for 5 minutes and list things that were left on when no one was using them. Go over the answers together.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws3 (challenge) together. Let your child think and write; you only ask 'Why?' and 'How do you know?'. Make sure they bring in the voices of Mouchot, Foote and the oil-forecast debate in the last section.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 8,
+          "do": "Ask the 7 check questions aloud one at a time, without the book. Tick each answer given well. For a missed one, open the matching lesson page (sources pages 150–151, kinds pages 152–155, saving page 156), read the part together, and ask again in other words. Five or more right is good; fewer than four means redo the card sort and magnet tests next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back and family pledge",
+          "mins": 12,
+          "do": "Your child is the teacher for the family. In 5 minutes, using the pinwheel, water wheel, magnet and solar cooker, they must explain: what energy is; renewable and non-renewable sources with examples; four kinds of energy; and why we must save energy. The 'student' asks: 'If the Sun gives so much energy, why don't we use only solar?' and 'Is a battery a source of energy?'. End with a family pledge on a paper stuck on the fridge: three energy-saving actions the family will follow, chosen by your child, such as 'lids on every pot', 'last one out switches off the fan', 'soak dal before cooking'."
+        }
+      ],
+      "need": ["Lesson page 157", "Worksheets ws2 and ws3", "the pinwheel, water wheel, magnet and solar cooker from the week", "the Day 1 energy hunt list", "paper for the pledge"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Sources and kinds of energy",
+      "day": 5,
+      "sections": [
+        ["A. Sources of energy", [
+          {"t": "fill", "p": "The power or capacity to do work is called ____.", "a": ["energy"]},
+          {"t": "sort", "p": "Sort these sources of energy.", "items": ["Coal", "Sunlight", "Petrol", "Wind", "Kerosene", "Flowing water", "Diesel", "Food", "Cooking gas"], "cats": ["Non-renewable", "Renewable"]},
+          {"t": "mcq", "p": "Why are coal and petrol called non-renewable?", "opts": ["They are not useful", "They finish after use and take millions of years to form", "They come from the Sun every day", "They are made in factories"], "a": 1},
+          {"t": "write", "p": "Why do we need energy even when we are asleep?", "lines": 2}
+        ]],
+        ["B. Kinds of energy", [
+          {"t": "match", "p": "Match each kind of energy to where it is used.", "pairs": [
+            ["Solar energy", "Solar cooker and drying grains"],
+            ["Wind energy", "Windmill pumping water"],
+            ["Hydro energy", "Hydro power station"],
+            ["Organic energy", "Gobar gas plant"],
+            ["Electrical energy", "Running a fan"],
+            ["Magnetic energy", "Crane lifting scrap iron"]
+          ]},
+          {"t": "fill", "p": "On earth life is possible because of ____ energy.", "a": ["solar"]},
+          {"t": "fill", "p": "Magnetic energy is used to separate ____ from a pile of scrap.", "a": ["iron"]},
+          {"t": "mcq", "p": "In a biogas plant the gas is made from:", "opts": ["Sand and stones", "Animal dung and crop waste", "Petrol and diesel", "Sea water"], "a": 1},
+          {"t": "draw", "p": "Draw the energy chain for your glass of milk, from the Sun to you."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Energy in new situations",
+      "day": 7,
+      "sections": [
+        ["A. Which source would you choose?", [
+          {"t": "mcq", "p": "A village in Ladakh gets bright sun almost every day but has no electricity line. Which would help most to light homes?", "opts": ["Solar panels with batteries", "A hydro dam on a dry stream", "Kerosene shipped in", "A windmill in a still valley"], "a": 0},
+          {"t": "mcq", "p": "A dairy farmer in Punjab has 20 buffaloes. Which source can turn his waste into cooking fuel and manure?", "opts": ["A biogas plant", "A solar cooker", "A magnet", "A diesel generator"], "a": 0},
+          {"t": "write", "p": "Kanyakumari has strong winds for much of the year. What kind of energy could it use and how?", "lines": 2},
+          {"t": "write", "p": "Your black bottle got hotter than the white one. Use this to explain why the inside of a solar cooker is black.", "lines": 3}
+        ]],
+        ["B. Our home energy audit", [
+          {"t": "table", "p": "Walk around your home for 5 minutes. List things that were on or wasting energy when no one needed them, and what you would do.", "cols": ["What I found", "Energy wasted", "What we can do"], "rows": 5},
+          {"t": "match", "p": "Match the habit to why it saves energy.", "pairs": [
+            ["Covering the pot", "Heat does not escape with the steam"],
+            ["Soaking dal first", "It cooks faster, so less gas"],
+            ["Taking the bus", "One vehicle's fuel carries many people"],
+            ["Switching to LED bulbs", "Same light for much less electricity"],
+            ["Closing a dripping tap", "Pumping water uses electricity"]
+          ]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like an energy scientist",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Coal, petrol and your roti all got their energy from the Sun long ago or recently. Explain how coal's energy came from the Sun.", "lines": 4},
+          {"t": "write", "p": "A battery runs a torch. Is a battery a source of energy or a store of energy? Explain where its energy came from.", "lines": 3},
+          {"t": "write", "p": "Solar panels do not work at night. Suggest two ways a town using solar power could still have lights at night.", "lines": 3},
+          {"t": "mcq", "p": "Which makes the water wheel turn fastest?", "opts": ["A thin trickle from low down", "A thick stream from high up", "Still water in a bucket", "Water poured beside the wheel"], "a": 1}
+        ]],
+        ["B. Weighing the voices", [
+          {"t": "write", "p": "The book says oil will last 30–35 years. Others said similar things 50 years ago. Why do these forecasts keep changing? Does that mean oil will never run out?", "lines": 4},
+          {"t": "write", "p": "Mouchot's sun engine worked, but people chose coal. What has changed since 1878 that makes solar power popular now?", "lines": 3},
+          {"t": "write", "p": "Eunice Foote's result was ignored for over a century. What can we do to make sure good ideas get noticed, whoever finds them?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Black bottle, white bottle",
+      "day": 3,
+      "question": "Does the colour of a container change how much of the Sun's heat it soaks up?",
+      "need": ["2 identical plastic bottles or steel tumblers", "black paper or cloth", "white paper", "rubber bands or tape", "tap water and a measuring cup", "a kitchen thermometer if available", "a sunny spot", "a timer"],
+      "steps": [
+        "Wrap one bottle in black paper and the other in white paper.",
+        "Fill both with the same amount of tap water from the same tap. Check that both feel the same, or measure the temperature.",
+        "Put both side by side in direct sunshine.",
+        "After 40 minutes, feel the water in each with a finger or measure it with the thermometer.",
+        "Write down which is warmer and by how much."
+      ],
+      "predict": "Ask your child to guess first: which bottle will be warmer after 40 minutes? Or will they be the same?",
+      "observe": "Record the starting and ending temperature (or 'cool', 'warm', 'hot') for both. Usually the black bottle is clearly warmer, often by several degrees.",
+      "why": "Sunlight carries energy. When it falls on a surface, some is bounced back (reflected) and some is soaked up (absorbed) and turns into heat. White and shiny surfaces reflect most of the light, so they stay cooler. Black surfaces absorb almost all the light, so they heat up more. That is why solar cookers and solar water heater pipes are black, why the solar cooker has a shiny foil reflector to send more light in, and why light-coloured clothes feel cooler in summer.",
+      "safety": "Use plastic or steel, not glass, and do not leave bottles in the sun for many hours. Do not look at the Sun directly.",
+      "time": "15 min to set up + 40 min in the sun + 7 min to read"
+    },
+    {
+      "id": "e2",
+      "title": "Build a water wheel",
+      "day": 4,
+      "question": "Can flowing water do work, and does faster or higher water do more?",
+      "need": ["6–8 plastic spoons", "a cork or a small paper cup", "a skewer, straight stick or pencil for the axle", "a big bowl or bucket", "a jug of water", "a timer"],
+      "steps": [
+        "Push the spoons into the sides of the cork or cup, evenly spaced, with all the bowls facing the same way.",
+        "Push the skewer through the centre so the wheel can spin on it.",
+        "Rest the skewer across the top of the bowl or bucket, holding the ends lightly.",
+        "Pour a thin trickle of water from just above the wheel onto the spoons. Count the turns in 10 seconds.",
+        "Pour a thick stream from higher up. Count again.",
+        "Try pouring onto the middle of the spoons and onto the edge, and see which works better."
+      ],
+      "predict": "Ask your child to guess first: will a thin trickle or a thick stream turn the wheel faster? Does pouring from higher up make a difference?",
+      "observe": "Record the number of turns in 10 seconds for each kind of pour. A thick stream from higher up usually spins the wheel fastest.",
+      "why": "Moving water has energy of motion. The more water there is and the faster it moves, the harder it pushes on the paddles. Water falling from higher up speeds up as it falls, so it hits harder. A hydro power station works the same way: a dam stores a lot of water high up, it falls through big pipes and spins turbines, and the turbines turn generators that make electricity. Old water mills (gharats) in the Himalayas use streams to turn millstones that grind flour.",
+      "safety": "Do it in the bathroom or outside to avoid slippery floors. Wipe up spills.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Magnet rescue from the scrap pile",
+      "day": 5,
+      "question": "Which materials does a magnet pull, and how can that help sort scrap?",
+      "need": ["a fridge magnet or bar magnet", "a thin plastic bag", "a tray", "iron nails or safety pins", "steel paper clips and a steel spoon", "an aluminium foil ball", "a copper coin or wire", "a brass key", "plastic buttons", "wooden matchsticks", "a handful of sand"],
+      "steps": [
+        "Mix all the items and the sand on the tray.",
+        "Put the magnet inside the plastic bag.",
+        "Sweep the bagged magnet slowly over the pile.",
+        "Hold the bag over a plate and pull the magnet out of the bag; the stuck items drop off.",
+        "Sort the items into 'pulled' and 'not pulled' and write the lists."
+      ],
+      "predict": "Ask your child to guess first: will the magnet pull every metal thing? Which ones will it leave behind?",
+      "observe": "Usually the magnet pulls the iron nails, safety pins, steel clips and often the steel spoon, and sometimes tiny black specks from the sand (iron-containing grains). It leaves the aluminium foil, copper, brass, plastic and wood.",
+      "why": "Magnets pull strongly only on a few metals, mainly iron and steel (steel is mostly iron), plus nickel and cobalt. They do not pull aluminium, copper, brass, plastic or wood, so 'all metals stick to magnets' is a myth this test breaks. Scrap yards use huge electromagnets on cranes: when electricity flows through the coil it becomes a magnet and lifts the iron; when it is switched off the iron drops. An electric bell also uses an electromagnet that pulls a striker again and again. The book calls this magnetic energy.",
+      "safety": "Keep magnets away from phones, cards and small children, who might swallow small magnets. Handle nails and pins carefully.",
+      "time": "12 min"
+    },
+    {
+      "id": "e4",
+      "title": "Lid on or lid off?",
+      "day": 6,
+      "question": "Does covering a pot really save cooking gas?",
+      "need": ["2 identical small steel vessels", "one lid", "a measuring cup", "tap water", "a gas stove (parent only)", "a timer"],
+      "steps": [
+        "Pour exactly 2 cups of tap water into each vessel.",
+        "Parent heats the first vessel with the lid on, on a medium flame. The child times how long until it reaches a rolling boil.",
+        "Let the burner cool for a minute. Parent heats the second vessel without a lid, same burner, same flame. The child times it.",
+        "Write both times and work out the difference.",
+        "Use the boiled water for tea, dal or washing up so nothing is wasted."
+      ],
+      "predict": "Ask your child to guess first: will the covered pot boil faster, slower or at the same time? By how much?",
+      "observe": "Record both times. The covered pot usually boils noticeably sooner, often a minute or more quicker for 2 cups.",
+      "why": "Heating water takes energy from the gas flame. Without a lid, hot steam and warm air escape from the surface and carry heat away, and water evaporates and takes heat with it. A lid traps that heat and steam so more of the energy stays in the water. Less time on the flame means less LPG burnt. A pressure cooker goes further: it traps the steam so tightly that the water inside gets hotter than 100 °C, so dal and rice cook much faster.",
+      "safety": "Only the parent handles the stove and hot vessels. The child stands back and times from a safe distance. Lift lids away from your face.",
+      "time": "12 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Home energy hunt",
+      "day": 1,
+      "mins": 18,
+      "need": ["a notebook with three columns: 'Thing or work', 'What energy does it use?', 'Where does that come from?'", "a pencil"],
+      "steps": [
+        "Walk through every room, including the kitchen, bathroom and balcony.",
+        "For each thing that moves, heats, cools or lights up, write it in column 1.",
+        "In column 2, write the energy it uses: electricity, gas, petrol, food, sunlight, wind or battery.",
+        "In column 3, write where that energy comes from, if you know. Leave blanks you are unsure of.",
+        "Count how many used electricity, how many burnt a fuel and how many used sunlight or wind.",
+        "On Day 7, fill in the blanks with what you have learnt."
+      ],
+      "outcome": "A list of at least 12 uses of energy in your own home, showing your child that energy is behind almost everything a family does, and a starting point for the family's energy-saving pledge."
+    },
+    {
+      "id": "a2",
+      "title": "Paper pinwheel wind test",
+      "day": 4,
+      "mins": 14,
+      "need": ["a square of stiff paper about 15 cm", "scissors", "a ruler and pencil", "a drawing pin", "a pencil with an eraser or a straw", "a marker", "a table fan", "a timer"],
+      "steps": [
+        "Draw both diagonals on the square.",
+        "Cut along each diagonal from the corner about two-thirds of the way to the centre.",
+        "Bend every other point into the centre and hold them there.",
+        "The parent pushes the drawing pin through the points and the centre into the eraser or straw, loosely enough to spin.",
+        "Mark one blade with a coloured dot.",
+        "Count how many times the dot goes round in 10 seconds: still air, gentle blow, hard blow, walking, running, fan on low, fan on high."
+      ],
+      "outcome": "A working pinwheel and a table of results showing that stronger wind does more work, the same idea used by windmills and wind turbines."
+    },
+    {
+      "id": "a3",
+      "title": "Box solar cooker (lesson page 160)",
+      "day": 6,
+      "mins": 20,
+      "need": ["a shoebox or cardboard carton with a flap lid", "black paper", "aluminium foil", "glue or tape", "clear plastic sheet, cling film or a glass pane (parent handles glass)", "a stick to prop the lid", "a small black or steel bowl", "soaked poha, tomato slices, or a cube of butter or chocolate"],
+      "steps": [
+        "Stick black paper on the inside (and outside if you like) of the box.",
+        "Stick foil, smooth side out, on the inside of the lid flap to make a reflector.",
+        "Put the bowl of food inside the box.",
+        "Cover the open top of the box tightly with clear plastic, cling film or glass.",
+        "Prop the foil flap open with the stick so sunlight reflects off the foil, through the plastic, into the box.",
+        "Place it in strong sun around noon, turning it every 20 minutes to face the Sun. Check after an hour."
+      ],
+      "outcome": "A working solar cooker that heats or cooks food with no fuel, showing how black surfaces absorb heat, shiny surfaces reflect light, and a clear cover traps the heat."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "M. King Hubbert (1903–1989), USA, and the debate about when oil will run out",
+      "idea": "Hubbert, an American geologist working for an oil company, predicted in 1956 that oil production in the mainland USA would rise to a peak around 1970 and then fall, because oil fields run down as they are emptied. This idea became known as 'peak oil'.",
+      "then": "Many in the oil industry dismissed his prediction. But US production did peak around 1970 and fall for decades, and he became famous. Since then many others have predicted that world oil would run out or peak soon, much like the book's 'Do you know?' box saying oil and gas will finish in 30–35 years.",
+      "now": "From around 2010 new methods of drilling (fracking) pushed US oil output above its 1970 level, and new oil fields keep being found, so many earlier forecast dates have passed. Scientists agree that oil, gas and coal are limited and will not form again in human time, but when production will peak or run short is debated, because it depends on new discoveries, technology, prices and how fast the world switches to other energy.",
+      "status": "debated",
+      "ask": "A forecast said oil would run out by a certain year, and that year passed. Does that mean the forecast was useless, or that something changed? What would you need to know to make a better forecast?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Augustin Mouchot (1825–1911), France",
+      "idea": "Mouchot, a French mathematics teacher, worried that France's coal would one day run out. From the 1860s he built solar machines with large curved mirrors that focused sunlight onto a boiler, making steam to run a small engine. At the 1878 World's Fair in Paris his large solar concentrator was shown working and won a gold medal; it was even used to run a small printing press.",
+      "then": "After the French government had his machines tested, it decided that coal, which had become cheaper and easier to transport, was more practical than solar power. His funding stopped and his inventions were largely forgotten.",
+      "now": "His central idea, that sunlight can be focused or captured to make useful power and could replace coal, is now accepted and used across the world in solar thermal plants and solar cookers, and solar panels are now among the cheapest ways to make electricity in many countries, including India.",
+      "status": "accepted",
+      "ask": "Mouchot's machine worked, but coal won because it was cheaper. Is the 'best' energy source always the cheapest one? What else should we count?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Eunice Newton Foote (1819–1888), USA",
+      "idea": "In 1856 Foote put thermometers in glass cylinders filled with different gases and placed them in sunlight. She found that the cylinder filled with carbon dioxide ('carbonic acid gas') got hotter than the one with ordinary air, and stayed hot longer. She suggested that more of this gas in the air would make the Earth warmer.",
+      "then": "Her paper was read at a scientific meeting in 1856 by a male scientist, Joseph Henry, and printed in a journal, but it got little attention. Three years later the Irish scientist John Tyndall published more detailed experiments on how gases absorb heat and became known as the pioneer of this science.",
+      "now": "Her work was rediscovered around 2010, and she is now recognised as one of the first people to show that carbon dioxide traps heat. Scientists today agree that burning coal, oil and gas has added carbon dioxide to the air and is warming the Earth, one reason why solar, wind and water power matter.",
+      "status": "accepted",
+      "ask": "Foote did a simple test with jars in the sun. What would you need to add to her experiment to be sure the carbon dioxide, and not something else, made the jar hotter?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What is energy, and why do we need it even when sleeping?", "a": "Energy is the power to do work. While we sleep our heart, lungs and brain keep working and the body stays warm, which all need energy."},
+    {"q": "What is the difference between renewable and non-renewable sources? Give two examples of each.", "a": "Non-renewable sources get used up and cannot be replaced in our lifetime, like coal and petrol. Renewable sources keep coming back, like sunlight and wind (also flowing water and food)."},
+    {"q": "Name the seven kinds of energy in the book.", "a": "Food energy, solar energy, wind energy, hydro energy, organic (biogas) energy, electrical energy and magnetic energy."},
+    {"q": "Why does a pinwheel spin faster when you run with it?", "a": "More air pushes on the blades, so the wind energy is greater and more work of spinning is done."},
+    {"q": "How is electricity made in a hydro power station?", "a": "Water stored behind a dam falls through pipes and spins turbines, which turn generators that make electricity."},
+    {"q": "What goes into a biogas plant and what comes out?", "a": "Animal dung, dead plants, dry leaves and crop waste go in; bacteria break them down without air and give a gas (mostly methane) for cooking and light, and the leftover is manure."},
+    {"q": "Give four ways to save energy at home.", "a": "Any four: switch off lights and fans when not needed, don't leave taps running, cover pots while cooking, use only as much water as needed, soak dal and rice before cooking, use a pressure cooker, use LED or CFL bulbs, take public transport."}
+  ]
+}

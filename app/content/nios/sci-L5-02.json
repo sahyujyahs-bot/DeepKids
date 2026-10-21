@@ -1,0 +1,528 @@
+{
+  "key": "nios|sci|5|2",
+  "board": "nios",
+  "subj": "sci",
+  "level": 5,
+  "n": 2,
+  "title": "Peace, Unity and Harmony in Indian Society",
+  "source": "NIOS Open Basic Education, Environmental Studies Level B, Lesson 2 (lesson pages 21–32)",
+  "summary": "India is home to people of many religions, communities, tribes and more than twenty officially recognised languages, yet they share one national identity. Your child learns where this diversity comes from (geography, climate and peoples who came and mingled over thousands of years), how it shows in festivals, crafts and words, what holds the country together (the freedom struggle, the Constitution, the flag, sport, the armed forces), what peace and harmony mean at home and between nations, and how Emperor Ashoka and Emperor Akbar tried to build respect between faiths.",
+  "goals": [
+    "By the end your child can describe India's diversity of religions, communities, tribes and languages using real facts, and explain the idea of 'unity in diversity'.",
+    "By the end your child can give reasons why India's culture is mixed: its size and climate, and peoples who came from outside and mingled, and show it in words we use every day.",
+    "By the end your child can name things that unite Indians: the freedom struggle, the Constitution, the national flag and anthem, sport and the armed forces.",
+    "By the end your child can explain peace and harmony at home, in the village and between countries, and say what the Constitution says about equality.",
+    "By the end your child can tell how Ashoka and Akbar tried to spread peace and respect for all faiths, and how historians know about them from evidence such as Ashoka's rock edicts.",
+    "By the end your child can say one way they themselves can help keep harmony with people who are different from them."
+  ],
+  "words": [
+    ["diversity", "many different kinds together, such as many languages, religions and foods in one country"],
+    ["unity", "being joined together as one, even when we are different"],
+    ["harmony", "living together peacefully, with respect, as if all are part of one tune; no one high or low"],
+    ["community", "a group of people who share things such as a place, language, religion or way of life"],
+    ["sect", "a smaller group within a religion that follows some different practices, such as Shia and Sunni in Islam"],
+    ["tribe (Adivasi)", "a community descended from India's early inhabitants, with its own customs, language and beliefs, such as the Gond, Bhil and Santhal"],
+    ["Scheduled Tribe / Scheduled Caste", "communities listed in a schedule of the Constitution so that they get special protection and support because they were treated unfairly in the past"],
+    ["Eighth Schedule", "the list in the Constitution of 22 officially recognised Indian languages"],
+    ["national integration", "the feeling and effort that keeps all Indians together as one nation"],
+    ["edict", "an official message from a ruler; Ashoka had his edicts carved on rocks and pillars"],
+    ["Dhamma", "Ashoka's word (from Prakrit) for right conduct: kindness, honesty, respect and tolerance"],
+    ["Sulh-i-kul", "Akbar's policy of 'peace with all', treating people of every faith fairly"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Many Indias in one India",
+      "goal": "Notice how much diversity there is in your own building or street, and read the book's opening on unity in diversity.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "How many languages do we know?",
+          "mins": 8,
+          "do": "Ask your child to list every language they have heard spoken by family, neighbours, the vegetable seller, the watchman, school friends and on TV. Count them together. Most Indian children can name five or more. Then ask: 'How do you say water in each?' (for example paani, neer/thanni, jal, jol, vellam, nīru). Ask: 'If people say water in so many ways, are they still talking about the same thing?' (Yes. The words differ but the thing and the need are the same: that is the heart of unity in diversity.)"
+        },
+        {
+          "kind": "read",
+          "title": "Opening of the lesson (lesson pages 21–22)",
+          "mins": 10,
+          "do": "Read the lesson opening aloud. Stop at the lines on identity: people may have a religious identity (Hindu, Muslim, Christian, Sikh, Buddhist, Parsi), a regional identity (Punjabi, Tamil, Bengali, Manipuri), but 'their national identity is paramount'. Ask: 'What are your identities?' Help them make a short list, for example 'I am Ananya; I am a girl; I am Marathi; I am from Pune; I am Indian.' Explain that a person has many identities at once and none cancels the others. Correct two old facts: the book says India is the second most populated country; since 2023 India has been estimated to have the largest population in the world. The book says 'more than 850 languages and dialects': the exact count depends on how you count dialects, but it is in the hundreds."
+        },
+        {
+          "kind": "act",
+          "title": "Neighbourhood diversity survey",
+          "mins": 17,
+          "do": "Start Activity a1. Make the survey sheet together and fill in your own family's row now. Your child then calls or visits three or four families you know well (neighbours, relatives in another city, a family friend) and asks the five survey questions politely: home language, state their family is from, one festival they celebrate, one special dish, and one word in their language for 'thank you'. Finish the rest over the next two days. Before they start, tell them: 'We ask these questions because we are curious and want to learn, never to judge or tease.'",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "A note on respectful words",
+          "mins": 6,
+          "do": "Parent note: this lesson touches religion, caste and tribe, which can be sensitive. Keep the tone curious and respectful. Tell your child: 'Every family's faith and customs matter to them as much as ours matter to us. We never make fun of how someone prays, dresses or eats.' Ask: 'Has anyone ever teased you or a friend for being different? How did it feel? What would have been a kind thing to say instead?' Listen fully before you answer."
+        },
+        {
+          "kind": "review",
+          "title": "Say it in one line",
+          "mins": 4,
+          "do": "Ask your child to explain 'unity in diversity' in one sentence using an example from today. A good answer: 'People in India speak many languages and follow many religions but we are all Indians together, like the different words for water all mean water.'"
+        }
+      ],
+      "need": ["Lesson pages 21–22", "a notebook for the survey sheet", "phone for calls"],
+      "prep": [{"task": "Message three or four families to ask if your child can ask them five short questions this week", "when": "2 days before"}]
+    },
+    {
+      "n": 2,
+      "title": "People of India: religions, tribes and languages",
+      "goal": "Learn the main religions and their sects, India's tribal communities, and the 22 languages of the Constitution.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Religions and communities (lesson pages 22–23)",
+          "mins": 12,
+          "do": "Read section 2.1 'People of India' up to the Jews of Maharashtra and Kerala. The book's figure of about 4,635 communities comes from the 'People of India' survey by the Anthropological Survey of India. Update one number: the 2011 Census counted about 80% of Indians as Hindus, about 14% Muslims, about 2% Christians, about 2% Sikhs, and smaller numbers of Buddhists, Jains, Parsis, Jews and followers of tribal faiths. Make a table of the sects the book names: Islam – Shia and Sunni; Christianity – Catholic and Protestant (there are also Orthodox churches, such as the old Syrian churches of Kerala); Buddhism – Mahayana and the older school the book calls Hinayana, which its followers call Theravada; Jainism – Digambara and Shvetambara. The '33 crore gods' is a traditional saying; many Hindus understand all gods as forms of one divine. Ask: 'Why might one religion split into groups?' (People came to understand teachings or practices differently over time.)"
+        },
+        {
+          "kind": "read",
+          "title": "Tribes of India (lesson pages 22–23)",
+          "mins": 8,
+          "do": "Read the part on tribes. Explain: Adivasi means 'original inhabitants'. The Gond, Bhil and Santhal are among the largest tribes; the Meena, Munda and Oraon are also large. Many tribal people have been pushed off their forest land and did not get fair chances, which is why the Constitution gives them reserved seats and protections. Tell them about Gond art: today artists such as Jangarh Singh Shyam (1962–2001) made Gond painting famous across the world. Show a Gond or Warli painting online if you can and let your child copy one small part (Warli uses circles, triangles and lines). Ask: 'Why would a community that lived in forests for thousands of years know things that city people don't?' (They know the plants, animals, seasons and medicines of the forest.)"
+        },
+        {
+          "kind": "do",
+          "title": "One name, many scripts",
+          "mins": 12,
+          "do": "Read the list of 22 languages on page 23 (the Eighth Schedule) aloud together. Then your child writes their own first name in three or four scripts, using a phone keyboard or an online transliteration tool to see how: Devanagari (Hindi, Marathi, Sanskrit, Nepali), Bengali-Assamese, Gurmukhi (Punjabi), Tamil, Telugu, Kannada, Malayalam, Odia, Gujarati, and Urdu (written right to left). Ask: 'Which scripts look similar to each other?' (Many Indian scripts come from the ancient Brahmi script, the one Ashoka used: you'll meet it on Day 6.) Note: the book says many languages have no script; they are spoken, and can be written in another script."
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 2.1 (lesson pages 23–24)",
+          "mins": 8,
+          "do": "Do 'Let's see, what you have learnt 2.1' aloud. Fill in the blanks: all (people of all religions of the world live in India); gods and goddesses (tribes have their own); Mahayana. Questions: the two sects of Islam are Shia and Sunni; two tribes, for example Gond and Bhil (also Santhal, Munda, Oraon, Meena). Then add two more rows to the Activity a1 survey with your child.",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Count the twenty-two",
+          "mins": 4,
+          "do": "Without looking, how many of the 22 languages can your child name? Give a clue for the hard ones: 'It is spoken in Goa' (Konkani); 'in Manipur' (Manipuri, also called Meitei); 'by the Santhal people' (Santali); 'in Jammu' (Dogri); 'in Assam's Bodoland' (Bodo); 'in Mithila, north Bihar' (Maithili). Note: the book lists English among the 22, but English is not in the Eighth Schedule; it is an official language of the Union alongside Hindi."
+        }
+      ],
+      "need": ["Lesson pages 22–24", "a phone or computer to see different scripts", "paper and pencils", "the survey sheet"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Our mixed culture",
+      "goal": "Find out why India's culture is mixed, and discover the mixing hiding in the words, crafts and festivals of our daily life.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Why our culture is mixed (lesson pages 24–25)",
+          "mins": 10,
+          "do": "Read section 2.2 'Our Mixed Culture: Unity in Diversity' up to the crafts. The book gives two reasons for diversity: the vastness and different climates of India, and peoples who came from outside over thousands of years (Iranians, Greeks, Kushanas, Shakas, Huns, Arabs, Turks, Mughals and Europeans) and settled and mingled. Ask: 'How would a cold climate change what people wear and eat?' (Woollens, pherans, more wheat and meat, hot drinks like kahwa.) Then read the crafts: chikankari embroidery of Lucknow, phulkari of Punjab, kantha embroidery of Bengal. One correction: patola silk sarees come mainly from Patan in Gujarat; Odisha is famous for its own ikat weaving, such as Sambalpuri sarees. Look at any embroidered or printed cloth in your home and ask: 'Where was this made?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Word detectives",
+          "mins": 15,
+          "do": "Do Experiment e1. Your child predicts which of 12 everyday words are 'pure Indian' and which came from another country, then checks with you using the answer list. Discuss the surprise: chabi (key), balti (bucket), almari (cupboard) and pav (bread roll) came from Portuguese; kitab (book) and kursi (chair) from Arabic; bazaar, darwaza (door) and sabzi from Persian. Ask: 'Did these words replace our language, or make it richer?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Festivals and folk dances (lesson pages 25–26)",
+          "mins": 10,
+          "do": "Read about festivals and folk music. Draw a map of India and mark the January harvest festival when the sun moves into Makara (Capricorn): Khichdi in Uttar Pradesh and Bihar, Lohri in Punjab, Haryana and Himachal (the night before), Magh Bihu or Bhogali Bihu in Assam, Pongal in Tamil Nadu, Makar Sankranti in Maharashtra, Karnataka, Gujarat (Uttarayan, the kite festival) and many other states. Correct one slip in the book: Onam is Kerala's harvest festival but it comes in August–September, not in January. Read the question 'What is common between the Bhangra of Punjab and Bihu of Assam?' (Both celebrate the harvest.) Play a short clip of each if you can and let your child try two steps."
+        },
+        {
+          "kind": "do",
+          "title": "Festival calendar",
+          "mins": 7,
+          "do": "Using the survey answers from Activity a1 and a calendar, your child marks every festival they now know of, from different faiths and regions: for example Eid-ul-Fitr, Diwali, Christmas, Guru Nanak Jayanti, Mahavir Jayanti, Buddha Purnima, Navroz (the Parsi new year), Onam, Durga Puja, Ganesh Chaturthi, Bihu, Pongal. Ask: 'Which festival from another community would you most like to see? Who could you ask to take you?'",
+          "ref": "a1"
+        },
+        {
+          "kind": "review",
+          "title": "Two reasons",
+          "mins": 3,
+          "do": "Ask: 'Give the book's two reasons why India's culture is so varied.' (Different geography and climate; people from outside came and mingled.) 'Give one word, one dish and one festival that show mixing.' (For example pav; samosa, which came from Central Asia; Christmas celebrated by people of all faiths.)"
+        }
+      ],
+      "need": ["Lesson pages 24–26", "word slips for Experiment e1", "a blank map of India", "a calendar", "an embroidered or printed cloth from home"],
+      "prep": [{"task": "Write the 12 word slips for Experiment e1 and keep the answer list hidden", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "What binds us together",
+      "goal": "Learn how the freedom struggle, the Constitution, national symbols, sport and the armed forces unite India, and test why a bundle is stronger than one stick.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "From princely states to one nation (lesson pages 25–26)",
+          "mins": 10,
+          "do": "Read the part beginning 'Earlier our country was divided into many princely states'. Explain: before 1947 India was a patchwork of British-ruled provinces and over 500 princely states ruled by kings and nawabs. The Indian National Congress, formed in 1885, brought people from every region and religion together against British rule, and after Independence most princely states joined India, with Sardar Vallabhbhai Patel and V.P. Menon leading that work. The Constitution makes unity and integrity a goal and a duty of every citizen. Ask: 'Why would people who speak different languages feel like one nation during the freedom struggle?' (They faced the same rulers, shared the same goal, worked and went to jail together.)"
+        },
+        {
+          "kind": "exp",
+          "title": "The bundle of sticks",
+          "mins": 12,
+          "do": "Do Experiment e2. First tell the old story (found in many cultures, including Aesop and Indian folk tales) of a father who shows his quarrelling sons that one stick breaks easily but a bundle cannot be broken. Then test it for real with ice-cream sticks or thin bamboo skewers. Your child predicts, then tries to snap one stick, then two, then a bundle of ten tied with a rubber band. Ask: 'Why is the bundle stronger? Is it just a story, or is there real science in it?' Explain using the 'why' of the experiment.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Sport, soldiers and the flag (lesson pages 26–27)",
+          "mins": 8,
+          "do": "Read about cricket, hockey, football and the armed forces. Ask your child to name sports stars they know and which state or community they come from, for example cricketers from Mumbai, Ranchi, Punjab, Kerala and Tamil Nadu, hockey players from Odisha's tribal districts and Punjab, boxer Mary Kom from Manipur, chess's D. Gukesh from Chennai. Ask: 'When India wins, do we ask which religion the player follows?' Then read about the national flag and anthem. Ask what the three colours and the Ashoka Chakra on the flag stand for. (Saffron is often explained as courage and sacrifice, white as truth and peace, green as faith, growth and the land; the 24-spoke wheel is from Ashoka's lion capital at Sarnath, which you will read about on Day 6.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Does meeting people change minds?",
+          "mins": 10,
+          "do": "Read Voice v4, Gordon Allport's contact idea. Ask: 'Why might soldiers from different states who eat, train and celebrate festivals together end up as friends, as the book describes on page 27?' Then ask the 'ask' question. Finally do 'Let's see, what you have learnt 2.2': unity; together; religions.",
+          "ref": "v4"
+        },
+        {
+          "kind": "review",
+          "title": "Things that unite us",
+          "mins": 5,
+          "do": "Your child draws a big circle labelled 'India' with spokes like the Ashoka Chakra, and writes one uniting thing on each spoke: the Constitution, the flag, the national anthem, the freedom struggle, cricket, the army, Indian Railways, festivals shared across faiths, shared foods, Hindi films and songs, and anything else they think of."
+        }
+      ],
+      "need": ["Lesson pages 25–27", "15 ice-cream sticks or thin bamboo skewers", "a rubber band", "a picture of the Indian flag"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Peace and harmony: at home, in the country, in the world",
+      "goal": "Understand peace and harmony from the family up to the world, and learn what the Constitution says about equality and the person who fought for it.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Peace begins at home (lesson pages 27–28)",
+          "mins": 10,
+          "do": "Read section 2.3 'Peace and Harmony' aloud. Pause at the book's questions and answer them honestly together: 'Do all the members of the family honour each other's views? Do they give each other enough importance?' Ask your child: 'When was the last time someone in our family did not feel listened to?' Accept their answer without arguing. Then read how peaceful families and countries prosper, while countries at war spend their strength and money on fighting. Ask: 'Where would a country rather spend money: on schools and hospitals, or on soldiers and weapons? Why does it sometimes have to spend on soldiers?'"
+        },
+        {
+          "kind": "act",
+          "title": "Family harmony agreement",
+          "mins": 10,
+          "do": "Do Activity a2. Hold a short family meeting. Each person, including the youngest, says one thing that helps them feel respected at home and one thing that upsets them. Your child writes the agreements on a chart, such as 'We let each person finish speaking' or 'We sort out fights by talking, not shouting'. Everyone signs it, and it goes up on the fridge.",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Peace with neighbours and equality (lesson page 28)",
+          "mins": 8,
+          "do": "Read the rest of 2.3: India's policy of peace with all countries, solving disputes by talking; harmony means 'to become soaked in one flavour', where nobody is high or low, rich or poor; and 'All people are equal in our Constitution.' Explain: Article 14 of the Constitution promises everyone equality before the law; Article 15 says the state cannot discriminate because of religion, caste, sex or place of birth; Article 17 ended 'untouchability'. Ask: 'If everyone is equal by law, why does the book still need to remind us?' (Laws are a start; people's behaviour must change too.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Dr B.R. Ambedkar",
+          "mins": 9,
+          "do": "Tell your child about Voice v3, Dr B.R. Ambedkar. Then ask the 'ask' question. Parent note: if your child asks about caste, say simply and honestly: 'Long ago, society was divided into groups by birth, and some groups were treated as lower and kept away from water, schools and temples. That was wrong and unfair, and the Constitution has made such treatment illegal. Some people still behave unfairly, and we must not.'",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Book check 2.3 and core worksheet",
+          "mins": 8,
+          "do": "Do 'Let's see, what you have learnt 2.3' aloud: respect; attack; relations; soaked; equal. Then your child does core worksheet ws1 in writing. Check it together and look back at the page for any wrong answer.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Lesson pages 27–28", "chart paper and sketch pens for the family agreement", "worksheet ws1"],
+      "prep": [{"task": "Ask everyone at home to be free for a 10-minute family meeting", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Ashoka and Akbar: rulers who spread peace",
+      "goal": "Learn how Ashoka and Akbar tried to bring peace and respect between faiths, and how historians know about them from evidence.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Ashoka after Kalinga (lesson pages 28–29)",
+          "mins": 10,
+          "do": "Read section 2.4 about Ashoka. Correct the date: the book says 'nearly 3400 years ago', but the Kalinga war was fought around 261 BCE, about 2,280 years ago. Kalinga is the old name for coastal Odisha. Ashoka himself, in his Rock Edict 13, says about 1,50,000 people were taken captive, 1,00,000 were killed and many more died, and that he felt deep regret. Read his problems (quarrels between religions, animal sacrifice, cruel treatment of servants) and his solution: Dhamma-Mahamattas, officers who travelled to teach right conduct, and messages carved on rocks and pillars and read aloud to people who could not read. Ask: 'Why carve messages on rocks instead of writing on paper?' (Rock lasts thousands of years and stands where people pass by.)"
+        },
+        {
+          "kind": "talk",
+          "title": "How do we know? Reading the rocks",
+          "mins": 8,
+          "do": "Read Voice v1, about James Prinsep and the decoding of Ashoka's Brahmi script. Show your child a picture of a Brahmi inscription and the Ashoka lion capital at Sarnath (on every Indian banknote and coin). Point out that many Indian scripts, including Devanagari, Tamil and Bengali, grew from Brahmi. Ask the 'ask' question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "read",
+          "title": "Ashoka's message and Akbar (lesson page 29)",
+          "mins": 10,
+          "do": "Read Ashoka's message: good behaviour to servants, respect for elders, compassion for all creatures, gifts to Brahmins and monks, and the famous line that praising only your own religion and criticising others harms your own religion. Then read about Akbar: he gave high posts to Hindu nobles and scholars such as Raja Todar Mal and Raja Man Singh, married a Rajput princess of Amber who kept her own faith, celebrated festivals of both faiths, and began 'Sulh-i-kul' (peace with all). Add two facts: in 1564 he abolished the jizya, a tax that non-Muslims had to pay, and he held debates between Hindu, Jain, Muslim, Zoroastrian and Christian scholars in his Ibadat Khana (house of worship) at Fatehpur Sikri. Note honestly that the name 'Jodhabai' for his wife became popular later; records of his time call her by other titles, such as Mariam-uz-Zamani."
+        },
+        {
+          "kind": "talk",
+          "title": "What was Din-i-Ilahi?",
+          "mins": 7,
+          "do": "Read Voice v2 about the historians' debate over Akbar's Din-i-Ilahi. Ask the 'ask' question. Point out that two people of the same time, Abul Fazl and Badauni, wrote very different accounts, so historians must compare sources, just as a scientist compares measurements.",
+          "ref": "v2"
+        },
+        {
+          "kind": "act",
+          "title": "Carve your own edict",
+          "mins": 10,
+          "do": "Do Activity a3. Your child writes their own three-line 'edict' of good conduct for your home or building, starting like Ashoka's, 'Thus speaks…', and 'carves' it into a slab of clay or atta dough with a toothpick, or writes it on a flat stone with a marker. Then do 'Let's see, what you have learnt 2.4' aloud: Dhamma; rocks; respect; roti and beti; Sulh-i-kul.",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Lesson pages 28–30", "a picture of an Ashokan inscription and the Sarnath lion capital (online or on a coin or note)", "clay or a ball of atta dough, or a flat stone and marker", "a toothpick"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Revise, check and teach it back",
+      "goal": "Review the lesson with the book's exercise and the stretch and challenge worksheets, check understanding and teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's Revise and Exercise (lesson pages 30–31)",
+          "mins": 8,
+          "do": "Read 'Let's Revise' together, letting your child finish each point. Then do the Exercise aloud. Fill-ins: second (but say India is now first); ancient; society or culture; gods and goddesses; 22; Indians. Questions: major religions are Hindu, Muslim, Christian, Sikh, Buddhist, Jain, Parsi (Zoroastrian) and Jewish; Islam, Christianity, Zoroastrianism and Judaism began outside India and arrived many centuries ago, and Indians have followed them for hundreds of years; two of Ashoka's teachings: respect elders, be kind to all living creatures, respect other religions. True/false: false (food and living habits differ); true (the Buddha and Mahavira taught that birth does not make a person high or low); true."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Your child does stretch worksheet ws2 alone. Check together, asking for the reason behind each answer.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do challenge worksheet ws3 together, talking through the 'different views' questions. Praise answers that see more than one side. Finish the survey poster from Activity a1: a chart showing all the languages, states, festivals and 'thank you' words collected.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 9,
+          "do": "Ask the check questions aloud, one at a time, without the book. Tick good answers. For any miss, open the page and read the part together, then ask again in other words. Six or more right is good; fewer than five, repeat Day 3 and Day 6 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 8,
+          "do": "Your child is the teacher. Using the survey poster, the festival calendar, the bundle of sticks and their edict, they teach you for five minutes: what unity in diversity means; why India's culture is mixed; what unites us; and what Ashoka and Akbar did. Ask two 'student' questions: 'If everyone is different, how can we be one country?' and 'How do we know what Ashoka said 2,000 years ago?'"
+        }
+      ],
+      "need": ["Lesson pages 30–31", "worksheets ws2 and ws3", "the survey sheet, festival calendar, sticks and edict"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "People, culture and unity",
+      "day": 5,
+      "sections": [
+        ["A. People of India", [
+          {"t": "match", "p": "Match each religion to its two sects named in the book.", "pairs": [["Islam", "Shia and Sunni"], ["Christianity", "Catholic and Protestant"], ["Buddhism", "Mahayana and Theravada (Hinayana)"], ["Jainism", "Digambara and Shvetambara"]]},
+          {"t": "fill", "p": "The Constitution of India recognises ____ languages in its Eighth Schedule.", "a": ["22", "twenty-two"]},
+          {"t": "write", "p": "Name three tribes of India.", "lines": 1}
+        ]],
+        ["B. Mixed culture", [
+          {"t": "mcq", "p": "Which of these is a reason the book gives for India's diverse culture?", "opts": ["Everyone in India eats the same food", "People from outside came, settled and mingled with local people", "India has only one kind of climate", "Nobody travels within India"], "a": 1},
+          {"t": "match", "p": "Match the January harvest festival to the state.", "pairs": [["Lohri", "Punjab"], ["Pongal", "Tamil Nadu"], ["Bihu", "Assam"], ["Uttarayan (kites)", "Gujarat"]]},
+          {"t": "fill", "p": "Bhangra and Bihu are both danced to celebrate a good ____.", "a": ["harvest", "crop"]}
+        ]],
+        ["C. Unity and harmony", [
+          {"t": "fill", "p": "It is the duty of every citizen to work towards the ____ and integrity of the nation.", "a": ["unity"]},
+          {"t": "mcq", "p": "In the Constitution of India, all people are:", "opts": ["equal", "ranked by caste", "ranked by wealth", "ranked by religion"], "a": 0},
+          {"t": "fill", "p": "Ashoka's officers who spread his message were called Dhamma-____.", "a": ["Mahamattas", "Mahamatta", "mahamattas"]},
+          {"t": "fill", "p": "Akbar's policy of 'peace with all' was called Sulh-i-____.", "a": ["kul", "Kul"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Applying the ideas",
+      "day": 7,
+      "sections": [
+        ["A. Identities", [
+          {"t": "write", "p": "Write five identities of yourself (for example name, language, state, religion or none, school, Indian). Which of these do you share with your best friend?", "lines": 3},
+          {"t": "mcq", "p": "Ravi is Tamil, Christian and a cricket fan. Which is true?", "opts": ["He cannot be Indian because he is Christian", "He has many identities and all of them can be true together", "He must choose only one identity", "Being Tamil means he cannot like cricket"], "a": 1}
+        ]],
+        ["B. Words and things", [
+          {"t": "sort", "p": "Sort these words by the language they came into Hindi from.", "items": ["chabi (key)", "balti (bucket)", "kitab (book)", "kursi (chair)", "bazaar", "darwaza (door)", "pav (bread roll)", "almari (cupboard)"], "cats": ["Portuguese", "Arabic", "Persian"]},
+          {"t": "write", "p": "Climate shapes culture. Give one example of how the clothes or food of a cold place in India differ from a hot, wet place, and why.", "lines": 3}
+        ]],
+        ["C. Peace", [
+          {"t": "write", "p": "Two neighbours fight over where to park their scooters. Using the book's idea for countries ('sort it through dialogue'), write what each could say to solve it peacefully.", "lines": 4},
+          {"t": "write", "p": "The bundle of ten sticks did not break. Explain why using the word 'share'.", "lines": 2},
+          {"t": "mcq", "p": "Why did Ashoka have his messages read aloud by officers?", "opts": ["Because most people could not read", "Because the rocks were too high", "Because he liked singing", "Because writing was not allowed"], "a": 0}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Weighing evidence and views",
+      "day": 7,
+      "sections": [
+        ["A. Evidence from the past", [
+          {"t": "write", "p": "Ashoka's own edict says he regretted the Kalinga war. Why might a historian want other evidence too, not only what a king says about himself?", "lines": 3},
+          {"t": "write", "p": "Abul Fazl praised Akbar's Din-i-Ilahi; Badauni criticised it. Both lived at Akbar's court. How would you decide what really happened?", "lines": 3}
+        ]],
+        ["B. Puzzles", [
+          {"t": "mcq", "p": "The book says India had 'more than 850 languages and dialects', and elsewhere '544 languages'. What is the best explanation for the two numbers?", "opts": ["One number is a lie", "Counts differ because experts disagree on what is a separate language and what is a dialect", "Languages disappear every year by hundreds", "Only one of them counts Hindi"], "a": 1},
+          {"t": "write", "p": "Allport said contact between groups reduces prejudice best when they are equals working on a shared goal. Design one activity for your building that would bring families of different backgrounds together in this way.", "lines": 4}
+        ]],
+        ["C. Your view", [
+          {"t": "write", "p": "Some people say a strong country needs everyone to be the same. The book says India is strong because of unity in diversity. Which do you agree with? Give two reasons.", "lines": 4},
+          {"t": "write", "p": "Write one thing you will do this month to keep harmony with someone who is different from you.", "lines": 2}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Word detectives: where do our words come from?",
+      "day": 3,
+      "question": "Are the everyday words we use all from Indian languages, or did some come from people who travelled to India from other lands?",
+      "need": ["12 slips with these words: paani, chabi, balti, almari, pav, kitab, kursi, bazaar, darwaza, sabzi, ghar, aankh", "a sheet with three columns: 'My guess', 'Real origin', 'Surprised? yes/no'", "the answer list (below) kept hidden"],
+      "steps": [
+        "Read each word aloud and say what it means.",
+        "Your child sorts the slips into two piles: 'Always Indian' and 'Came from outside', and writes each guess in the first column.",
+        "Reveal the answers one by one: chabi (key), balti (bucket), almari (cupboard) and pav (bread roll) came from Portuguese; kitab (book) and kursi (chair) from Arabic; bazaar (market), darwaza (door) and sabzi (vegetables) from Persian; paani, ghar (house) and aankh (eye) grew from old Indian languages related to Sanskrit.",
+        "Count how many guesses were right.",
+        "Ask your child to find two more 'traveller words' at home, and check them in a dictionary or with an elder."
+      ],
+      "predict": "Ask your child to guess first: how many of the 12 words came from outside India? Write the number down.",
+      "observe": "Record the number of correct guesses and which words surprised them most. Most children are surprised by chabi, balti and pav, because these feel completely Indian.",
+      "why": "When people meet and trade, live side by side or rule over each other, they borrow words for new things and ideas. Persian was the language of courts and government in India for about 600 years under the Delhi Sultans and the Mughals, so many words for government, buildings and daily life came from it (darwaza, bazaar). Persian itself had borrowed many words from Arabic (kitab, kursi). The Portuguese arrived by sea in 1498 and traded and ruled in Goa and other coastal places, bringing things like bread made with yeast (pão, which became pav) and words like chave (key) and balde (bucket). Linguists trace a word's origin by comparing old texts and the sounds and meanings of words in related languages. The result shows the book's point: culture mixes, and the mixed language becomes richer, not poorer.",
+      "safety": "",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "Is a bundle really stronger than one stick?",
+      "day": 4,
+      "question": "How much harder is it to snap a bundle of sticks than a single stick, and why?",
+      "need": ["15 wooden ice-cream sticks or thin bamboo skewers, all the same", "rubber bands or thread", "a table edge", "a notebook"],
+      "steps": [
+        "Hold one stick at both ends and bend it until it snaps. Note how easy it was on a scale of 1 (very easy) to 5 (impossible).",
+        "Try two sticks held together. Score it.",
+        "Tie five sticks tightly into a bundle. Try to bend and snap it. Score it.",
+        "Tie ten sticks into a bundle. Try again. Score it.",
+        "Make a simple table: number of sticks, score, did it break?"
+      ],
+      "predict": "Ask your child to guess first: if one stick needs a little push to break, will ten sticks need ten times the push, or more, or less?",
+      "observe": "One stick snaps easily. Two need more effort. A tight bundle of ten is very hard or impossible for a child (and often an adult) to break by hand.",
+      "why": "When you bend a stick, its outer side stretches and its inner side is squashed; it snaps when the wood on the stretched side can no longer hold together. In a tight bundle, the force from your hands is shared among all the sticks, so each one carries only a small part of the load. A bundle is also thicker, and a thicker beam resists bending much more strongly than its thickness alone suggests: doubling the thickness of a beam makes it several times stiffer. That is why bridges and buildings use thick beams and bundled steel cables. The old story uses this real fact as a picture of unity: people who stand together share the strain and are hard to break. Like all comparisons, it is not perfect: real people, unlike sticks, can also disagree and still stand together.",
+      "safety": "Snapped sticks can have sharp splinters; hold them away from faces and do not use skewers with sharp points towards anyone.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Neighbourhood diversity survey",
+      "day": 1,
+      "mins": 17,
+      "need": ["a notebook", "a pen", "phone for calls", "chart paper for the final poster"],
+      "steps": [
+        "Draw a table with columns: Family, Home language, State family is from, One festival, One special dish, 'Thank you' in their language.",
+        "Fill in your own family's row first.",
+        "Ask three or four other families, politely, and thank them.",
+        "Add rows over Days 1–3.",
+        "On Day 7, make a poster showing the languages, states, festivals and thank-you words, with a heading 'Unity in diversity on our street'."
+      ],
+      "outcome": "A real survey of diversity in your own neighbourhood and a poster that shows how many cultures live side by side."
+    },
+    {
+      "id": "a2",
+      "title": "Family harmony agreement",
+      "day": 5,
+      "mins": 10,
+      "need": ["chart paper", "sketch pens", "everyone at home"],
+      "steps": [
+        "Each person says one thing that makes them feel respected at home.",
+        "Each person says one thing that upsets them.",
+        "Together, agree on four or five rules, such as 'We let each person finish speaking.'",
+        "Your child writes them neatly on the chart.",
+        "Everyone signs, and the chart goes on the fridge. Look at it again after one week: which rule was hardest to keep?"
+      ],
+      "outcome": "A signed family agreement that shows peace and harmony starting at home, as the book says."
+    },
+    {
+      "id": "a3",
+      "title": "Carve your own edict",
+      "day": 6,
+      "mins": 10,
+      "need": ["clay or a ball of stiff atta dough rolled flat (or a smooth flat stone and a permanent marker)", "a toothpick or blunt pencil"],
+      "steps": [
+        "Write three rules of good conduct for your home or building, in Ashoka's style: 'Thus speaks Meera, friend of all…'",
+        "Include one rule about kindness to animals, one about respect for elders or helpers, and one about respecting other faiths or views.",
+        "Flatten the clay or dough into a slab and scratch the words in with the toothpick.",
+        "Let clay dry; take a photo of the dough version.",
+        "Read the edict aloud to the family, as Ashoka's officers did."
+      ],
+      "outcome": "A home-made 'rock edict' and a feel for why Ashoka chose stone to make his message last."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "James Prinsep (1799–1840), who decoded Ashoka's script, and Emperor Ashoka (ruled about 268–232 BCE)",
+      "idea": "For centuries nobody in India could read the old letters on Ashoka's pillars. Prinsep, an Englishman working at the Calcutta mint, compared hundreds of short inscriptions, including gifts recorded at Sanchi, and in 1837–38 worked out the Brahmi script. The edicts spoke of a king called 'Devanampiya Piyadasi' (beloved of the gods, of gracious looks). In 1915 an edict found at Maski in Karnataka used the name 'Asoka' together with this title, confirming that Piyadasi was Ashoka.",
+      "then": "Scholars were thrilled: suddenly a great Indian emperor could speak in his own words. Prinsep built on the work of others, including Indian pandits and earlier scholars, and the work was checked by many people afterwards.",
+      "now": "The decipherment of Brahmi is fully accepted, and more than 30 Ashokan inscriptions are now known across India, Nepal, Pakistan and Afghanistan, some in Greek and Aramaic too. Historians accept that Ashoka promoted Dhamma, but they also note that his own Rock Edict 13 warns forest peoples that he still has the power to punish, so he did not give up force completely.",
+      "status": "accepted",
+      "ask": "Prinsep cracked the code by comparing many short inscriptions. Why does having lots of examples help you decode a script? What single discovery proved that Piyadasi was Ashoka?",
+      "day": 6
+    },
+    {
+      "id": "v2",
+      "who": "The Din-i-Ilahi debate: Abul Fazl (1551–1602) and Abd al-Qadir Badauni (about 1540–1615), courtiers of Akbar, and later historians",
+      "idea": "Around 1582 Akbar started a circle of followers sometimes called Din-i-Ilahi ('faith of God') or Tauhid-i-Ilahi. Abul Fazl, his friend and official historian, described Akbar as a wise ruler bringing together the best of all faiths under 'Sulh-i-kul', peace with all.",
+      "then": "Badauni, another scholar at the court, wrote in secret that Akbar was abandoning Islam and inventing a new religion. Later writers often repeated one side or the other.",
+      "now": "Many modern historians argue that Din-i-Ilahi was not a full religion at all but a small circle of loyal nobles (only around 18–20 are known by name) who pledged devotion to the emperor, while Sulh-i-kul was a wider policy of fairness in government. Others still describe it as an attempt at a new faith. Historians agree that Sulh-i-kul was real and important; what Din-i-Ilahi was is still debated.",
+      "status": "debated",
+      "ask": "Two people who knew Akbar wrote opposite things about him. What questions would you ask about each writer to decide whom to trust more?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Dr Bhimrao Ramji Ambedkar (1891–1956), Mhow (now in Madhya Pradesh), India",
+      "idea": "Born into the Mahar community, which was treated as 'untouchable', Ambedkar was made to sit apart at school and was refused water from the common tap. He went on to earn doctorates from Columbia University in New York and the London School of Economics. He argued that every person has equal dignity and that caste discrimination must end by law and in society. As Chairman of the Drafting Committee of the Constitution, he helped write the promises of equality (Article 14), no discrimination (Article 15) and the ending of untouchability (Article 17).",
+      "then": "Many people of his time opposed him, and his public campaigns were attacked. In 1927 he led the Mahad Satyagraha, where people of 'untouchable' castes drank water from a public tank they had been kept away from. He and Mahatma Gandhi disagreed strongly on how to end untouchability, especially in 1932 over separate electorates.",
+      "now": "His idea that the Constitution must guarantee equal rights to all is the law of India today. He was given the Bharat Ratna in 1990. Discrimination by caste is illegal, but surveys and news show it still happens, so the work he began is not finished.",
+      "status": "accepted",
+      "ask": "Ambedkar was refused water as a boy. Why did he think a law was needed, and not just asking people to be kind? Can a law change how people think?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "Gordon Allport (1897–1967), psychologist, USA, 'The Nature of Prejudice' (1954); tested by Thomas Pettigrew and Linda Tropp (2006)",
+      "idea": "Allport proposed the 'contact hypothesis': when people of different groups spend time together as equals, working towards a shared goal, with support from those in charge, their unfair dislike or fear of each other (prejudice) usually goes down.",
+      "then": "Many people thought prejudice was fixed and could not be changed, and some worried that bringing groups together would only cause more fights. Allport warned that contact helps only under the right conditions.",
+      "now": "In 2006 Pettigrew and Tropp combined the results of 515 studies from many countries and found that contact between groups generally reduces prejudice, and works best under Allport's conditions. Scientists also find that bad, forced or unequal contact can sometimes make things worse.",
+      "status": "accepted",
+      "ask": "Soldiers from many states train and celebrate festivals together. By Allport's idea, why would that build friendship? What kind of meeting might NOT reduce prejudice?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "What does 'unity in diversity' mean? Give one example.", "a": "People with many different languages, religions, foods and customs living together as one nation. For example, Lohri, Pongal and Bihu are different names for harvest festivals, but all celebrate the same season."},
+    {"q": "Name four religions followed in India and the two sects of Islam.", "a": "Any four of Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism, Zoroastrianism (Parsi) and Judaism, and tribal faiths. Islam: Shia and Sunni."},
+    {"q": "How many languages does the Constitution recognise, and name four.", "a": "22, for example Hindi, Tamil, Bangla, Marathi, Telugu, Urdu, Santali, Konkani."},
+    {"q": "Give two reasons why India's culture is mixed.", "a": "India's large size and different climates and land; and peoples from outside (Greeks, Kushanas, Shakas, Huns, Arabs, Turks, Mughals, Europeans) came, settled and mingled with local people."},
+    {"q": "Name three things that unite all Indians.", "a": "Any three: the Constitution, the national flag, the national anthem, the shared freedom struggle, sport such as cricket and hockey, the armed forces, shared festivals."},
+    {"q": "What is harmony, and what does the Constitution say about equality?", "a": "Harmony is living together peacefully with no one treated as high or low, rich or poor. The Constitution says everyone is equal before the law and no one may be discriminated against because of religion, caste, sex or place of birth."},
+    {"q": "Why did Ashoka change after the Kalinga war, and what did he do to spread peace?", "a": "He was horrified by the killing and suffering and was inspired by the Buddha's teachings. He appointed Dhamma-Mahamattas, had messages carved on rocks and pillars and read aloud, and taught respect for all religions and kindness to all creatures."},
+    {"q": "What did Akbar do to build harmony between Hindus and Muslims?", "a": "He gave high posts to Hindu nobles and scholars, married a Rajput princess who kept her own faith, celebrated festivals of both, abolished the jizya tax, held debates between faiths and followed Sulh-i-kul, peace with all."}
+  ]
+}

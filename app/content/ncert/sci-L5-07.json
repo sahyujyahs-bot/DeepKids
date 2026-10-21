@@ -1,0 +1,792 @@
+{
+  "key": "ncert|sci|5|7",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 7,
+  "title": "Energy — How Things Work",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 4 'Things Around Us', Chapter 7 (pages 112–130), Reprint 2026-27",
+  "summary": "Starting from a busy kitchen, your child learns that energy is what makes things move, light up, make sound, do work and get hotter or colder. They make a balloon rocket, a rubber band guitar, a pinwheel and a water wheel, test sunlight, food, oil, electricity, wind and flowing water as sources of energy, learn how to use electricity safely, and see why clean energy from the Sun, wind and water is better for the Earth than burning coal and wood.",
+  "goals": [
+    "By the end your child can say what energy does (makes things move, light up, make sound, do work, and change temperature) and spot each of these in the kitchen and on the road.",
+    "By the end your child can name the main sources of energy in the chapter (the Sun, food, fuel, electricity, wind and flowing water) and give a household example of each.",
+    "By the end your child can follow an energy chain from its source to its use, such as Sun → plants → food → my muscles → pedalling a cycle.",
+    "By the end your child can explain from their own experiments why the oiled diya burns, why water in the Sun gets warm and why the pinwheel and water wheel turn.",
+    "By the end your child can follow the five electricity safety rules on page 122 and suggest ways their family can save energy, such as LED bulbs and switching off fans.",
+    "By the end your child can explain why burning coal and wood pollutes and why sunlight, wind and water are called clean energy, and how scientists found out where energy, and the Sun's energy, come from."
+  ],
+  "words": [
+    ["energy", "what makes things move, light up, make sound, do work and get hotter or colder"],
+    ["source of energy", "where energy comes from, such as the Sun, food, fuel, electricity, wind or flowing water"],
+    ["fuel", "something we burn to get heat and light, such as cooking gas, wood, coal, petrol, diesel or diya oil"],
+    ["vibrate", "move quickly back and forth; vibrating things make sound"],
+    ["electricity", "a form of energy that flows through wires and runs fans, lights, fridges and machines"],
+    ["energy efficiency", "using less energy to do the same work, like an LED bulb giving the same light as an old bulb with much less electricity"],
+    ["solar panel", "a flat panel that turns sunlight into electricity"],
+    ["windmill", "a machine with big blades that the wind turns; modern ones (wind turbines) make electricity"],
+    ["turbine", "a wheel with blades that is turned by moving wind, water or steam to make electricity"],
+    ["clean energy", "electricity made from sunlight, wind or flowing water without smoke or harmful gases"],
+    ["pollution", "harmful smoke, gases or waste that make air, water or land dirty"],
+    ["stored energy", "energy kept for later, like in food, a battery, a stretched rubber band or a wound-up toy"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "What is energy?",
+      "goal": "Watch the kitchen like a scientist, notice things moving, lighting up, making sound and getting hot or cold, learn the word energy, and launch a balloon rocket.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Sit and watch the kitchen (page 114)",
+          "mins": 10,
+          "do": "Do the book's opening task on page 114 for real. Sit with your child in the kitchen for 5 minutes while someone cooks (or while you boil water and make tea together). Draw the 'I Observe / I Wonder' table from page 114 in the notebook and copy the book's first row: 'The food is getting cooked' / 'How is it being cooked?'. Your child adds at least four more rows. Good examples: 'The pressure cooker whistles' / 'What makes the whistle?'; 'The fridge hums' / 'How does the fridge keep things cold?'; 'Steam rises from the pot' / 'Where does the water go?'; 'The tube light is on' / 'How does it light up?'; 'The mixie spins' / 'What makes it turn?'"
+        },
+        {
+          "kind": "read",
+          "title": "Moving, shining, sounding, heating (page 115)",
+          "mins": 8,
+          "do": "Read page 115 aloud. Do the task: from the kitchen table, your child finds at least one example under each heading: moving (mixie blades, fan, boiling water bubbling), making things hot (gas stove, tawa, iron), providing light (bulb, tube light, flame), making a sound (cooker whistle, mixie noise), making things cool (fridge, fan). Then ask the Discuss question: 'What makes these things move, shine, make a sound or get warm and cold?' Let them guess (gas, electricity, fire). Read the key sentence in the middle of page 115 aloud twice and have your child say it from memory: 'Energy is what makes things move, light up, produce sound, do work and change temperature.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 1: balloon and balloon rocket (page 116)",
+          "mins": 17,
+          "do": "Do Experiment e1, which is Activity 1 and its 'Balloon Air Rocket' extension on page 116. First blow up a balloon, hold it, let go and watch it zoom about the room. Then tie a 4-metre string between two chair backs with a straw threaded on it, tape a blown-up balloon under the straw, and let go. Before each test, ask your child to guess how far it will go. Mark where it stops with a slipper. Then answer the book's question: 'What would you change to make the toy move faster or slower?' Test their idea: blow the balloon only half as big and compare the distance. Ask: 'Where did the energy to move the rocket come from?' (From your lungs, stored in the stretched balloon and squeezed air; when the air rushes out backwards, it pushes the balloon forwards.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Energy spotting in nature (page 115)",
+          "mins": 6,
+          "do": "Read the fun fact on page 115 about the flying snake of Indian forests that glides by flattening its body. Ask: 'Where does the snake get the energy to climb the tree before it glides?' (From the food it ate: lizards, frogs.) Then play a quick round: you name a thing, your child says what it is doing with energy (moving, light, sound, heat or cooling). Try: a running dog (moving), a firefly (light), a thunderclap (sound), the Sun (light and heat), a matka keeping water cool (cooling), a crow cawing (sound)."
+        },
+        {
+          "kind": "talk",
+          "title": "Energy in one sentence",
+          "mins": 4,
+          "do": "Ask your child to write in the notebook: 'Energy is …' in their own words, and then draw one thing at home that uses energy in two ways at once. Good example: a pressure cooker makes heat AND sound; a TV makes light AND sound; a fan makes movement AND sound. If stuck, point to the mixie: 'It spins and it is noisy.'"
+        }
+      ],
+      "need": [
+        "Textbook pages 114–116",
+        "notebook and pencil",
+        "3 balloons, a drinking straw, sticky tape, about 4 metres of thin string, 2 chairs",
+        "a slipper or chalk to mark distances"
+      ],
+      "prep": [
+        {"task": "Plan to cook or make tea together during the lesson so there is something to watch in the kitchen", "when": "morning"}
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Sound energy and heat from the Sun",
+      "goal": "Make a rubber band guitar to discover that vibrations make sound, test how sunlight heats water and dries clothes, and learn how mountain families keep warm using their animals.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Book Activity 2: rubber band guitar (page 117)",
+          "mins": 14,
+          "do": "Do Activity a1, the Rubber Band Guitar on page 117. Cut a round hole in the lid of a shoebox or tissue box, stretch 4 rubber bands of different thickness across it and slide a pencil under them at one end. Your child plucks each band and listens. Ask the book's question: 'What happens with thinner or thicker bands?' (Thin, tight bands give a high sound; thick, loose bands give a low sound.) Ask your child to touch a band gently just after plucking it. 'What do you feel?' (It is shaking, or vibrating.) Read the sentence on page 117: plucking makes the bands vibrate and produce sound. Then ask: 'Where did the energy for the sound come from?' (From my finger's push.) Ask them to put a hand on their own throat and hum: they feel their voice box vibrating too.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 3: Sun-powered water warmer (page 117)",
+          "mins": 6,
+          "do": "Set up Experiment e2. Fill three identical steel tumblers with tap water: one goes in direct sunlight, one in the shade, and one in sunlight wrapped in black paper or cloth. At the same time hang two equally wet handkerchiefs, one in the Sun and one in the shade (the task on page 123). Ask your child to guess first: 'Which water will be warmest after 20 minutes? Which cloth will dry first?' Write the guesses down and set a 20-minute timer.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Warm houses in the mountains (page 118)",
+          "mins": 7,
+          "do": "While waiting, read the 'Do you know?' box on page 118: in parts of Himachal Pradesh, Uttarakhand and Ladakh, families keep cattle on the ground floor while they live upstairs, and the animals' body heat warms the rooms. Ask: 'Where does a cow's body heat come from?' (From the energy in the grass and fodder it eats.) Ask: 'Why is this a clever idea?' (It saves firewood and electricity, so less smoke and fewer trees cut.) Ask: 'Why does warm air from below reach the upstairs rooms?' (Warm air rises.) Also read the fun fact on page 121: old Indian houses had thick walls and small windows to stay cool in summer and warm in winter."
+        },
+        {
+          "kind": "exp",
+          "title": "Check the water and cloths",
+          "mins": 10,
+          "do": "After 20 minutes, your child dips a finger in each tumbler (or uses a thermometer if you have one) and ranks them warmest to coolest. Feel both handkerchiefs. Usually the black-wrapped tumbler in sunlight is warmest, then the plain one in sunlight, and the shade one is coolest; the sunny cloth is drier. Read the explanation on page 117: the Sun heats the water, so sunlight gives us heat energy. Explain the 'why' from e2, including why black things soak up more sunlight. Ask: 'Why do we dry papads and pickles on the terrace?' (The Sun's heat dries out the water so they keep for months.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Sound, heat or both?",
+          "mins": 8,
+          "do": "Make two columns in the notebook: 'Energy from the Sun' and 'Energy from moving things'. Ask your child to put each of these in the right column and say why: drying clothes on the line (Sun), the cooker whistle (moving steam), a tabla beat (moving hand), warm water in the solar geyser on the roof if you have one (Sun), ripening mangoes on the tree (Sun), a temple bell (moving clapper). Then ask: 'Is there anything in the house that makes sound without anything vibrating?' (No; every sound comes from something vibrating, even a speaker, whose cone shakes.)"
+        }
+      ],
+      "need": [
+        "Textbook pages 117–118, 121, 123",
+        "a shoebox or tissue box, 4 rubber bands of different thickness, a pencil, scissors",
+        "3 identical steel tumblers, black paper or cloth, 2 handkerchiefs",
+        "a timer; a thermometer if you have one",
+        "a sunny spot"
+      ],
+      "prep": [
+        {"task": "Check which spot gets direct sun at lesson time, and collect a box and rubber bands", "when": "night before"}
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Food: the energy that moves us",
+      "goal": "Feel how our bodies use energy from food, learn that all animals get energy from food, start reading the electricity meter, and meet the doctor who first said energy is never lost, only changed.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "The jump test (page 118)",
+          "mins": 8,
+          "do": "Read the classroom story on page 118 where the teacher asks the children to stretch, jump and run in place. Do it: your child does 20 star jumps or runs on the spot for one minute. Then ask: 'How do you feel? Is your heart beating faster? Are you warmer?' (Yes: the body is using energy fast, and some of it comes out as heat, which is why we sweat.) Ask the teacher's question: 'How are you able to move?' (Because of energy from food.) Ask: 'How do you feel when you are hungry?' (Tired, slow, grumpy.) Read the 'Do you know?' box: our brain uses energy even when we sit, sleep or think. Tell them the brain is only about 2% of an adult's weight but uses about a fifth of the body's energy."
+        },
+        {
+          "kind": "read",
+          "title": "Animals and food (page 119)",
+          "mins": 5,
+          "do": "Read the part on page 119 about animals: a dog running and a bird flying also need energy, and they get it from food too. Ask: 'Where does a cow get its energy? A tiger? A plant?' (Grass; other animals that ate plants; plants make their own food using sunlight.) Draw an energy chain on paper: Sun → grass → cow → milk → me → playing cricket. Explain: almost all the energy in our food started as sunlight caught by plant leaves."
+        },
+        {
+          "kind": "think",
+          "title": "Julius Robert Mayer: the ship's doctor who saw energy change",
+          "mins": 10,
+          "do": "Share Voice v1 in your own words: a young German ship's doctor in 1840 noticed the blood of sailors in hot Java looked brighter red than in cold Europe, and wondered if the body burned less food to keep warm in heat. This led him to the big idea that energy is never made or destroyed, only changed from one form to another, for example from food into movement and heat. Scientists ignored him at first. Ask the voice question. Then try the change-chain: 'When you ran on the spot, food energy changed into …?' (movement, and heat in your body).",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Start the home energy watch",
+          "mins": 10,
+          "do": "Start Activity a5. Go with your child to the electricity meter (in a box near the door or downstairs). Show them the number that shows 'kWh' (units of electricity). Write today's reading and time in a new notebook page called 'Energy Watch'. Tell them they will read it at the same time each lesson day this week. Then walk around the house and count how many lights and fans are on in empty rooms right now. Ask: 'If one unit of electricity costs about ₹6 to ₹8, what does a fan left on all day cost us?' (A ceiling fan uses roughly one unit in about 12–15 hours, so about ₹6–8 a day, or around ₹200 a month.) Check your own bill for the rate.",
+          "ref": "a5"
+        },
+        {
+          "kind": "talk",
+          "title": "Energy foods on our plate",
+          "mins": 7,
+          "do": "Look at what your family ate today. Ask your child to point to the foods that give most of our energy: rice, roti, dosa, poha, potatoes, sugar, ghee and oil. Tell them carbohydrates (rice, wheat, millets, sugar) and fats (ghee, oil, nuts) are our main energy foods, while dal, eggs and paneer mostly build the body. Read the 'Do you know?' box on page 129: our body stores energy for later, so we can still walk if we skip a meal. Ask: 'Why do athletes eat bananas or chikki before a race?' (Quick energy that the body can use soon.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Feel the energy change",
+          "mins": 5,
+          "do": "Ask your child to rub their palms together hard for 15 seconds and then press them on their cheeks. 'What do you feel?' (Warmth.) 'Where did that heat come from?' (Movement energy from my arms, which came from my food, changed into heat.) This is Mayer's idea in your hands. Write in the notebook: 'Energy changes from one form to another.'"
+        }
+      ],
+      "need": [
+        "Textbook pages 118–119, 129",
+        "notebook for the Energy Watch page",
+        "access to the electricity meter",
+        "your latest electricity bill (optional)"
+      ],
+      "prep": [
+        {"task": "Find where your electricity meter is and check you can read it safely without opening any box", "when": "night before"}
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Fuels: cooking gas, petrol and the oil in a diya",
+      "goal": "Learn that fuels are energy sources for vehicles and stoves, test the diya with and without oil, and find out why smoke from wood and coal is harmful, especially inside kitchens.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Meter reading",
+          "mins": 2,
+          "do": "Read the electricity meter with your child and write the reading in the Energy Watch page from Activity a5. Subtract yesterday's (or the last) reading: 'How many units did our home use?'",
+          "ref": "a5"
+        },
+        {
+          "kind": "read",
+          "title": "Fuel for vehicles and kitchens (pages 119–120)",
+          "mins": 8,
+          "do": "Read pages 119 and 120: vehicles need petrol and diesel just as we need food, cooking gas is a fuel, and burning wood or coal makes smoke and pollution. Do the Write question on page 119: 'How is food cooked in your house?' (LPG stove, induction, pressure cooker, microwave, chulha at Nani's village.) Then ask the Discuss questions on page 120: 'What fuel do you use for cooking?' and 'What are the problems with using too much wood or coal?' Good answers: smoke hurts eyes and lungs, blackens walls and pots, trees are cut down, coal must be dug from mines, and it adds harmful gases to the air."
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 4: the two diyas (page 120)",
+          "mins": 12,
+          "do": "Do Experiment e3, the book's Activity 4 on page 120. An adult does all the lighting. Put two clay diyas on a steel plate away from curtains. Diya 1 has a dry cotton wick only; Diya 2 has a wick with a spoon of oil around it. Ask your child to guess first: 'Which will burn longer? Will the dry one even light?' Light both and time them. The dry wick flares briefly and goes out in seconds, leaving black ash; the oiled one burns steadily for many minutes. Answer the book's questions: '(a) Which diya burns longer? Why?' (The oiled one, because the oil keeps feeding the flame.) '(b) What is acting as a fuel here?' (The oil.) Read the 'why' from e3 about how the wick draws oil up.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Kirk Smith and the smoke in the kitchen",
+          "mins": 9,
+          "do": "Share Voice v4 in your own words: for many years people thought air pollution meant smoke from factories and cars. An American scientist, Kirk Smith, spent decades measuring the smoke inside Indian village kitchens where women cooked on wood and dung-cake chulhas, and showed that this smoke was a huge cause of lung illness, especially for mothers and small children. His work helped persuade India to bring cooking gas to millions of homes. Ask the voice question. Ask: 'Who in a family breathes the most chulha smoke?' (The person cooking, and the baby on their hip.)",
+          "ref": "v4"
+        },
+        {
+          "kind": "do",
+          "title": "Kilometres per litre (page 130)",
+          "mins": 10,
+          "do": "Start the Let us reflect question 5 from page 130 now. Together, phone or ask two or three people (a neighbour with a scooter, an auto driver, a relative with a car) 'How many kilometres does your vehicle go on one litre of petrol or diesel?' Write the answers in a table: Vehicle, Fuel, km per litre. Typical answers: a scooter or motorcycle 40–60 km, a small car 15–20 km, an SUV 10–14 km, a bus about 4–5 km (but a bus carries 50 people). Ask: 'How will you compare them?' Help your child see that a bus uses more fuel per km, but much less fuel per person, than 50 people driving 50 cars."
+        },
+        {
+          "kind": "talk",
+          "title": "Fuel or not?",
+          "mins": 4,
+          "do": "Quick quiz aloud: is it a fuel (burned for heat or movement)? LPG (yes), petrol (yes), water (no), firewood (yes), sand (no), kerosene (yes), coal (yes), cow-dung cakes (yes), the diya's cotton wick (it burns, but it only carries the real fuel, oil). Ask for one reason each time."
+        }
+      ],
+      "need": [
+        "Textbook pages 119–120, 130",
+        "2 clay diyas, 2 cotton wicks, a spoon of cooking oil, matches (adult use), a steel plate",
+        "a timer",
+        "a phone to ask about vehicle mileage"
+      ],
+      "prep": [
+        {"task": "Ask a neighbour or relative with a scooter or car how many km it goes per litre, or arrange to phone them", "when": "2 days before"}
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Electricity: useful and dangerous",
+      "goal": "List the electrical devices in our home and what each does, imagine a day with no electricity, learn the five safety rules and find out why LED bulbs save energy.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Meter reading",
+          "mins": 2,
+          "do": "Read the meter and add today's reading to the Energy Watch page from Activity a5. Ask: 'Did we use more or less than last time? Why might that be?' (More if the AC or geyser ran, if guests came, or if it was hotter.)",
+          "ref": "a5"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 5: electricity hunt (page 121)",
+          "mins": 12,
+          "do": "Do Activity 5 on page 121. Copy the table into the notebook: S. No., Device, What it does, What it requires (light/sound/heat/movement/cooling/other). Fill the first row from the book: Fan, Blows air, Movement. Your child walks round the home and fills at least five more rows, for example: tube light, gives light, light; mixie, grinds food, movement; geyser, heats water, heat; fridge, keeps food cold, cooling; TV, shows pictures and plays sound, light and sound; phone charger, fills the battery, stored energy. Then ask the book's question: 'Did you notice that electricity can be used for movement, sound, light and heat?'"
+        },
+        {
+          "kind": "talk",
+          "title": "A day with no electricity (page 122)",
+          "mins": 7,
+          "do": "Ask the question at the top of page 122: 'What would your day be like if there was no electricity at all?' Go through the day hour by hour: waking (no fan, no light), water (no motor to pump water to the tank, no geyser), food (no fridge, no mixie; we could still cook on gas), school (no computer, no lift), evening (no TV, no phone charging). Read the rest of page 122: industries also run machines with electricity to make clothes, toys, books and scooters. Ask: 'What did people use 150 years ago instead?' (Oil lamps, hand fans, wells, grinding stones.)"
+        },
+        {
+          "kind": "read",
+          "title": "LED bulbs and safety rules (page 122)",
+          "mins": 9,
+          "do": "Read the 'Do you know?' box on page 122 about energy efficiency. If you have both an old yellow bulb and an LED, hold your hand near each after a minute (not touching): the old bulb is hot, the LED barely warm. Explain: the old bulb turns most of its electricity into heat, not light; a 9-watt LED gives about as much light as a 60-watt old bulb. Then read the five 'Safe Use of Electricity' rules aloud. For each rule, ask your child 'Why?': wet hands or touching wires lets electricity pass through your body; sockets are live; fallen wires can still carry electricity; transformers carry very high electricity; only trained electricians should fix things. Have your child point to one socket, the main switch and the meter box, and say what they must never do near each."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 15,
+          "do": "Give Worksheet ws1 (core). Your child reads each question aloud and answers. Help only by pointing to the page: page 115 for what energy does, page 117 for sound and heat, page 120 for the diya, page 122 for safety. Check it together and redo any wrong ones aloud.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Textbook pages 121–122",
+        "notebook",
+        "an old filament bulb and an LED bulb if you have them (adult to switch on)",
+        "Worksheet ws1"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Energy from the Sun and the wind",
+      "goal": "Learn that most of our electricity comes from burning coal, then catch the energy of wind with a pinwheel and the Sun's energy with a magnifying glass, and see how ships sailed by wind long ago.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Coal or something cleaner? (page 123)",
+          "mins": 6,
+          "do": "Read page 123 aloud: most of our electricity comes from burning fuels like coal, which makes smoke and harmful gases; there are other sources that do not pollute. Ask the book's question: 'Can you find out what these sources are?' Let your child guess (Sun, wind, water). Remind them of the damp cloths from Day 2 (the task on page 123): 'Which dried first, and what dried it?' (The one in the Sun.) Read the fun fact about gharaats, watermills in the hills that use flowing water to grind grain."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 6: pinwheel (pages 123–124)",
+          "mins": 14,
+          "do": "Do Activity a2, the pinwheel on pages 123–124. Your child takes a square of paper (15 cm or bigger), draws both diagonals with a ruler, cuts halfway along each line from the corners, folds alternate corners to the centre and pins them to the end of a pencil or a stick with a pin pushed through a small bead or piece of eraser so it spins freely. Test it in front of a fan, at a window, and by running with it. Ask the book's question: 'What happens to your pinwheel?' (It spins.) Then ask: 'Where did the energy come from?' (Moving air, which is wind energy.) Try it near the fan on speed 1 and speed 5: 'Faster wind, faster spin. A wind turbine works the same way, but the spinning drives a machine that makes electricity.'",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 7: sunlight in focus (page 124)",
+          "mins": 12,
+          "do": "Do Experiment e4, the book's Activity 7 on page 124, outdoors, with an adult holding or guiding the magnifying glass. Ask your child to guess first: 'If we gather the sunlight into one spot, what will happen to the paper?' Hold the lens over a piece of old newspaper (a dark printed area works fastest) on a brick or steel plate, and move it up and down until the bright spot is as small as possible. Within seconds to a minute the spot starts smoking and turns black, and may char a hole. Ask: 'Why does the paper burn when ordinary sunlight does not burn it?' Explain the 'why' from e4. Pour a little water on the paper afterwards.",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Ships with sails (page 125)",
+          "mins": 6,
+          "do": "Read the 'Do you know?' box on page 125: ancient ships had huge sails, and traders from Gujarat and Tamil Nadu sailed to Africa, Arabia and Southeast Asia using the wind. Tell your child that sailors learned the monsoon winds blow from the southwest in summer and from the northeast in winter, so they sailed one way in one season and came home in the other. Ask: 'Why couldn't a sailing ship leave any day it liked?' (It had to wait for the right wind.) Ask: 'What would a ship's sail and your pinwheel have in common?' (Both catch moving air.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Sun, wind or water?",
+          "mins": 7,
+          "do": "Do the Write question on page 125: 'Have you ever seen papads being dried in sunlight and clothes hung out to dry? Can you think of more examples where we use the Sun, the wind or flowing water?' Look at the picture on page 125 together and list every example your child can see. Add your own: winnowing grain in the wind with a soop (the wind blows away the husk), kites, solar geysers, salt pans (the Sun dries sea water), floating logs down a river, a gharaat grinding atta."
+        }
+      ],
+      "need": [
+        "Textbook pages 123–125",
+        "square paper, ruler, scissors, a pin, a pencil with an eraser end or a stick and a bead",
+        "a magnifying glass, old newspaper, a brick or steel plate, a mug of water",
+        "a sunny spot outdoors"
+      ],
+      "prep": [
+        {"task": "Find or buy a magnifying glass (many stationery shops sell them for about ₹50)", "when": "2 days before"}
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Water power and clean electricity",
+      "goal": "Make a water wheel, learn how solar panels, windmills and dams make clean electricity, build a solar oven, and find out how scientists once got the age of the Sun badly wrong.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Book Activity 8: water wheel (page 124)",
+          "mins": 12,
+          "do": "Do Activity a3, the water wheel on page 124. An adult makes five evenly spaced small slits round the middle of a paper cup with a knife point. Your child pushes in five plastic spoons, bowl ends facing the same way round. Push a pencil through the centre of the cup's base and its open end (cover the open end with a paper circle taped on so the pencil has two holes to pass through). Rest the pencil ends across the top of a bucket or big dabba so the wheel can turn. Pour water from a mug onto the spoons from a height. Ask the book's question: 'Does the water make the wheel move?' Then try pouring from higher and from lower: 'Which turns it faster?' (Water falling from higher has more energy.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "Clean energy (pages 125–127)",
+          "mins": 7,
+          "do": "Read pages 125–127 aloud: solar panels turn sunlight into electricity, windmills spin to make electricity, and fast rivers or falling water can also generate it; this is called clean energy because it does not pollute with smoke or waste; even vehicles can run on electricity. Read the fun facts about the Bhadla Solar Park in Rajasthan (page 117) and Cochin International Airport, the first airport fully powered by solar energy (page 119). Ask: 'Why is Rajasthan a good place for a solar park?' (Lots of sunny days and flat land with few people.) Ask: 'Is an electric scooter clean if the electricity came from coal?' (Not fully; it is only as clean as the power that charged it.)"
+        },
+        {
+          "kind": "think",
+          "title": "Where does the Sun get its energy?",
+          "mins": 9,
+          "do": "Read the 'Do you know?' box on page 125: the Sun is the main source of energy for life on Earth. Ask: 'But what makes the Sun shine?' Let your child guess (fire? coal?). Then share Voice v2: in the 1860s the great scientist Lord Kelvin worked out that if the Sun were a burning lump of coal it would have gone out in a few thousand years, so he proposed it shines by slowly shrinking, and concluded the Sun and Earth were only tens of millions of years old. Geologists and Charles Darwin thought the Earth was much older. Kelvin was wrong, because nobody yet knew about the energy inside atoms. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "exp",
+          "title": "Build a pizza-box solar oven",
+          "mins": 14,
+          "do": "Build Experiment e5 today and test it on Day 8. Take a pizza box or shoebox. Cut a flap in the lid on three sides, leaving 2 cm border, and cover the inside of the flap with aluminium foil (shiny side out) to reflect sunlight into the box. Line the bottom of the box with black paper. Tape cling film tightly over the hole under the flap to make a window that traps heat. Prop the flap open with a pencil. Ask your child to guess: 'How hot will it get inside? Hot enough to melt chocolate? To warm a roti?' Write the guess.",
+          "ref": "e5"
+        },
+        {
+          "kind": "act",
+          "title": "Meter reading",
+          "mins": 3,
+          "do": "Add today's meter reading to Activity a5. Ask your child to find the two biggest energy users in your home (usually the AC, geyser, fridge, iron or water motor) by looking at the wattage stickers on them with you.",
+          "ref": "a5"
+        }
+      ],
+      "need": [
+        "Textbook pages 117, 119, 124–127",
+        "a paper cup, 5 plastic spoons, a pencil, a bucket or big dabba, a mug of water, tape, card",
+        "a pizza box or shoebox, aluminium foil, black paper, cling film, tape, scissors",
+        "chocolate or a cold roti for tomorrow's oven test"
+      ],
+      "prep": [
+        {"task": "Save a pizza box or shoebox and get foil, black chart paper and cling film", "when": "2 days before"}
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Energy all around us and energy stored for later",
+      "goal": "Find the energy source behind every action in the market picture, play the energy flow game, discover stored energy in batteries and rubber bands, test the solar oven and meet the Indian scientist who read the Sun's temperature from its light.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Solar oven test",
+          "mins": 6,
+          "do": "Put Experiment e5's solar oven in full sun (late morning to early afternoon works best), angle the foil flap so sunlight bounces onto the black floor, and put a small piece of chocolate on a steel plate inside and a cold roti beside it. Note the time. You will check in 30 minutes, at the end of the lesson. Ask: 'Why black paper? Why the cling film?'",
+          "ref": "e5"
+        },
+        {
+          "kind": "talk",
+          "title": "Energy all around us (page 127)",
+          "mins": 8,
+          "do": "Look at the big picture on page 127. Copy the table: Activity, Source of Energy, and fill the book's example: 'A child carrying a school bag, Food'. Your child finds at least six more actions in the picture and writes the energy source for each: for example, a bus moving (diesel or CNG fuel), street lights (electricity), clothes drying (Sun), a kite flying (wind), a vendor pushing a cart (food), a fan in a shop (electricity). For each, ask 'And where did that energy come from before?' to make a longer chain."
+        },
+        {
+          "kind": "game",
+          "title": "Book Activity 9: energy flow game (page 128)",
+          "mins": 12,
+          "do": "Play Activity a4, the book's Energy Flow Game from page 128 adapted for home. Make three sets of slips: sources (Sun, wind, water, food, fuel, electricity), types (heat, light, movement, sound) and uses (drying clothes, lighting a bulb, turning a turbine, cooking, running, ringing a doorbell). Shuffle each set face down. Each player draws one of each and says whether it makes a real chain, for example 'Sun → heat → dries clothes' is a match; 'Wind → light → cooking' is not. Then play the Energy Chains version: lay out a longer chain card by card (Sun → grass → cow → milk → my muscles → bicycle → dynamo → bulb); the other player can challenge any link and must say why.",
+          "ref": "a4"
+        },
+        {
+          "kind": "do",
+          "title": "Stored energy (page 129)",
+          "mins": 7,
+          "do": "Read the 'Do you know?' box on page 129 about batteries containing stored energy. Show three kinds of stored energy: a torch (put in the batteries, switch on: stored energy becomes light); a rubber band stretched on a ruler and let go (flies across the room: energy stored in the stretch becomes movement); a wound-up spring toy or the balloon from Day 1. Ask Let us reflect question 3 on page 130: 'Give two examples where you have seen energy being stored.' (Battery, phone, food in our body, a stretched catapult, water held up behind a dam, firewood, a charged power bank.)"
+        },
+        {
+          "kind": "think",
+          "title": "Meghnad Saha reads the stars",
+          "mins": 6,
+          "do": "Read the fact on page 129: the Sun gives the Earth more energy in one hour than all humans use in a year. Then share Voice v3: in 1920 a young Indian physicist, Meghnad Saha, worked out an equation that let astronomers tell how hot a star is, and what it is made of, just from the colours in its light. His work helped confirm that the Sun's glowing surface is about 5,500 °C. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Open the oven",
+          "mins": 6,
+          "do": "After about 30 minutes, open Experiment e5's oven. Has the chocolate gone soft or melted? Is the roti warm? If you have a thermometer, read the inside temperature (often 50–80 °C on a sunny day, sometimes higher). Compare with your child's guess. Ask: 'What would make it hotter?' (More sun, a second reflector, better sealing, insulating the sides with newspaper.) Plan the Solar Cooker Challenge: test the oven on three sunny days and try to warm leftover khichdi.",
+          "ref": "e5"
+        }
+      ],
+      "need": [
+        "Textbook pages 127–130",
+        "the solar oven from Day 7, a small piece of chocolate, a cold roti, a steel plate, a thermometer if you have one",
+        "18 paper slips and a pen for the game",
+        "a torch and batteries, a rubber band, a ruler, a wind-up toy if you have one"
+      ],
+      "prep": [
+        {"task": "Make the three sets of energy game slips (sources, types, uses)", "when": "night before"}
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Finish the Energy Watch, answer the book's reflection questions, design a clean energy home, check understanding and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Energy Watch results",
+          "mins": 6,
+          "do": "Take the final meter reading for Activity a5. Your child works out how many units your home used across the week and the cost at your bill's rate. Ask Let us reflect question 4 on page 130: 'What is one thing you can do at home to save energy?' Pick two together and write them on a card for the switchboard, for example 'Last one out switches off the fan and light' and 'Use the pressure cooker; it cooks dal with less gas'.",
+          "ref": "a5"
+        },
+        {
+          "kind": "review",
+          "title": "Let us reflect (page 130)",
+          "mins": 8,
+          "do": "Ask Let us reflect questions 1, 2 and 6 on page 130 aloud. 1: 'What will happen if there is no electricity at home for a day?' (Remember Day 5.) 2: 'Why is solar or wind energy better than coal?' Good answer: 'Coal makes smoke and harmful gases and will run out one day; sunlight and wind do not pollute and do not run out.' 6: three objects at home and their energy sources (fan → electricity; gas stove → LPG fuel; cycle → food in my muscles). Then do the challenge worksheet Section A together.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Give Worksheet ws2 (stretch). Your child works alone for 8 minutes, then you check together. Ask them to explain their answer to the energy chain question aloud.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 9,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page for a minute (page 115 for what energy is, page 120 for the diya, page 122 for safety, page 126 for clean energy) and ask again in different words. Six or more right is good; fewer than five means repeat the Day 4 diya and Day 6 pinwheel lessons next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back with a clean energy home",
+          "mins": 12,
+          "do": "Do Let us reflect question 7(a): your child draws a simple plan of a 'clean energy home' with solar panels, a solar water heater, a small wind turbine, big windows and a courtyard for light and breeze, and a clothesline in the Sun. Then they teach you the chapter in 5 minutes using the drawing and the things made this week (balloon rocket, guitar, pinwheel, water wheel, solar oven): what energy does, its sources, how it changes form, safety rules and why clean energy matters. Ask two 'student' questions such as 'Why did the dry diya go out?' and 'Why is a bus better than 50 cars?' For homework, start 7(b): 'my energy diary' for one full day, writing each time they use electricity, fuel or their own muscles."
+        }
+      ],
+      "need": [
+        "Textbook page 130",
+        "the Energy Watch page and electricity bill",
+        "Worksheets ws2 and ws3",
+        "drawing paper and colours",
+        "the balloon rocket, guitar, pinwheel, water wheel and solar oven"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "What energy does and where it comes from",
+      "day": 5,
+      "sections": [
+        ["A. What is energy?", [
+          {"t": "fill", "p": "Energy is what makes things move, light up, produce ____, do work and change temperature.", "a": ["sound"]},
+          {"t": "match", "p": "Match each thing to what its energy is doing.", "pairs": [["Ceiling fan", "Movement"], ["Tube light", "Light"], ["Pressure cooker whistle", "Sound"], ["Gas stove", "Heat"], ["Fridge", "Cooling"]]},
+          {"t": "mcq", "p": "When you pluck a rubber band on the guitar, it makes sound because it:", "opts": ["Gets hot", "Vibrates", "Lights up", "Stores water"], "a": 1}
+        ]],
+        ["B. Sources of energy", [
+          {"t": "sort", "p": "Sort by the source of energy.", "items": ["Clothes drying on the line", "A scooter moving", "A child running", "A pinwheel spinning", "A mixie grinding", "A gharaat grinding grain", "Papads drying", "A dog chasing a ball"], "cats": ["Sun", "Food", "Fuel", "Electricity", "Wind", "Flowing water"]},
+          {"t": "mcq", "p": "In the diya experiment, what was the fuel?", "opts": ["The clay diya", "The cotton wick", "The oil", "The matchstick"], "a": 2},
+          {"t": "fill", "p": "Petrol and diesel are ____ for vehicles, just as food is for us.", "a": ["fuels", "fuel"]}
+        ]],
+        ["C. Safe and clean", [
+          {"t": "mcq", "p": "You see a broken electric wire lying on the road after a storm. What should you do?", "opts": ["Pick it up and move it", "Poke it with a stick", "Stay away and tell an adult at once", "Step over it quickly"], "a": 2},
+          {"t": "fill", "p": "Electricity made from the Sun, wind or flowing water that does not pollute is called ____ energy.", "a": ["clean"]},
+          {"t": "write", "p": "Give two reasons why burning a lot of wood or coal is a problem.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Energy chains and changes",
+      "day": 9,
+      "sections": [
+        ["A. Follow the chain", [
+          {"t": "write", "p": "Write an energy chain from the Sun to a cricket ball flying through the air. Use at least four steps.", "lines": 2},
+          {"t": "mcq", "p": "When you rub your palms together they get warm. Which change is this?", "opts": ["Heat to light", "Movement to heat", "Sound to movement", "Light to sound"], "a": 1},
+          {"t": "mcq", "p": "Which of these has energy stored in it?", "opts": ["A flat, empty balloon", "A charged phone battery", "A switched-off bulb", "An empty diya"], "a": 1}
+        ]],
+        ["B. Explain our experiments", [
+          {"t": "write", "p": "In the Sun-powered water warmer, the tumbler wrapped in black was the warmest. Why?", "lines": 2},
+          {"t": "write", "p": "Why did the water wheel spin faster when water was poured from higher up?", "lines": 2},
+          {"t": "mcq", "p": "To make the balloon rocket go further, you should:", "opts": ["Blow the balloon up bigger", "Use a heavier string", "Let only a little air in", "Tie a stone to it"], "a": 0}
+        ]],
+        ["C. Using energy wisely", [
+          {"t": "table", "p": "From your vehicle survey, fill in the table.", "cols": ["Vehicle", "Fuel", "km per litre", "People it carries"], "rows": 3},
+          {"t": "write", "p": "An LED bulb gives the same light as an old bulb but uses much less electricity. Where does the old bulb's extra electricity go?", "lines": 2},
+          {"t": "fill", "p": "Using less energy to do the same work is called energy ____.", "a": ["efficiency"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Think like an energy scientist",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles and what ifs", [
+          {"t": "write", "p": "An electric scooter makes no smoke on the road. Is it always clean energy? Explain what it depends on.", "lines": 3},
+          {"t": "write", "p": "What if the Sun stopped shining? Trace what would happen to plants, then to cows, then to us, then to our electricity from coal (coal is made from plants that lived millions of years ago).", "lines": 4},
+          {"t": "mcq", "p": "Julius Robert Mayer said energy is never made or destroyed, only changed. When a diya burns, the energy in the oil:", "opts": ["Disappears", "Changes into light and heat", "Turns into more oil", "Goes into the clay"], "a": 1}
+        ]],
+        ["B. Weighing evidence", [
+          {"t": "write", "p": "Lord Kelvin calculated that the Sun was only tens of millions of years old. He was a great scientist but he was wrong. What did he not know about?", "lines": 2},
+          {"t": "write", "p": "Kirk Smith found that kitchen smoke harms health. What would you measure, and in which homes, to test whether it is worse for the cook than for other family members?", "lines": 3}
+        ]],
+        ["C. Design", [
+          {"t": "draw", "p": "Design a 'clean energy' village for a sunny, windy place in Rajasthan or Gujarat. Show how it gets electricity, cooks food, heats water and pumps water. Label each energy source."},
+          {"t": "table", "p": "Your solar oven test: record three days.", "cols": ["Day", "Weather", "Time in oven", "What happened to the food"], "rows": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Balloon air rocket (book Activity 1 and extension, page 116)",
+      "day": 1,
+      "question": "How does air rushing out of a balloon make it move, and what makes it go further?",
+      "need": ["3 balloons", "a drinking straw", "sticky tape", "about 4 m of thin string", "2 chairs", "a slipper or chalk to mark distances"],
+      "steps": [
+        "Blow up a balloon, pinch the neck, then let go. Watch where it goes.",
+        "Thread the string through the straw and tie the string tightly between two chair backs, as level as you can.",
+        "Blow up a balloon fully, pinch the neck (do not tie it) and tape it under the straw with two pieces of tape.",
+        "Pull the balloon back to one chair, then let go. Mark where it stops and measure the distance in footsteps.",
+        "Repeat with the balloon blown up only half as big, starting from the same place.",
+        "Try your child's own idea from the book question (a longer straw, a slope in the string, two balloons)."
+      ],
+      "predict": "Ask your child to guess first: which way will the balloon go when air comes out of the back? Will a half-full balloon go half as far, the same, or further?",
+      "observe": "The balloon always moves in the opposite direction to the air rushing out. The fully blown balloon travels further and faster than the half-blown one. A string sloping upwards makes it stop sooner.",
+      "why": "When you blow up the balloon, the energy from your breathing muscles gets stored in the stretched rubber and squeezed air. When you let go, the rubber squeezes the air out backwards fast; as the air is pushed backwards, it pushes the balloon forwards with equal force. This push-back is how real rockets work, throwing hot gas out of the bottom to go up. A bigger balloon stores more energy and pushes air out for longer, so it goes further. Some energy is always lost as sound (the whoosh) and as rubbing on the string, which is why it slows down and stops.",
+      "safety": "Keep burst balloon pieces away from small children, who can choke on them.",
+      "time": "17 min"
+    },
+    {
+      "id": "e2",
+      "title": "Sun-powered water warmer and drying cloths (book Activity 3, page 117, and task on page 123)",
+      "day": 2,
+      "question": "Does sunlight heat water and dry clothes, and does a black covering help it heat faster?",
+      "need": ["3 identical steel tumblers", "tap water", "black paper or cloth and a rubber band", "2 handkerchiefs", "a sunny spot and a shady spot", "a timer", "a thermometer if available"],
+      "steps": [
+        "Fill all three tumblers with the same amount of tap water from the same tap.",
+        "Wrap one tumbler in black paper or cloth.",
+        "Put the wrapped tumbler and one plain tumbler in direct sunlight; put the third plain tumbler in the shade.",
+        "Wet two handkerchiefs equally, wring them out the same way, and hang one in the Sun and one in the shade.",
+        "Wait 20 minutes.",
+        "Dip a finger in each tumbler (or use a thermometer) and rank them from warmest to coolest. Feel both cloths."
+      ],
+      "predict": "Ask your child to guess first: which tumbler will be warmest after 20 minutes? Will the black wrapping make a difference? Which cloth will dry first?",
+      "observe": "Record the order of warmth and, if you have a thermometer, the temperature of each. Usually the black-wrapped sunny tumbler is warmest, the plain sunny one next, the shade one coolest. The sunny handkerchief is drier.",
+      "why": "Sunlight carries energy. When it falls on water, the water takes in that energy and gets warmer. Black things take in (absorb) almost all the light that falls on them and turn it into heat, while shiny or light-coloured things bounce much of it back; that is why the black tumbler gets warmest, and why solar water heaters on roofs have black pipes. The wet cloth in the Sun dries faster because the Sun's heat gives the water in it energy to turn into water vapour (evaporate) and float away into the air.",
+      "safety": "",
+      "time": "6 min to set up + 20 min wait + 10 min to check"
+    },
+    {
+      "id": "e3",
+      "title": "The two diyas: what is a fuel? (book Activity 4, page 120)",
+      "day": 4,
+      "question": "Does a wick burn by itself, or does it need oil as fuel?",
+      "need": ["2 clay diyas", "2 cotton wicks", "1 spoon cooking oil", "matches (adult use only)", "a steel plate", "a timer"],
+      "steps": [
+        "Place both diyas on a steel plate on a table, away from curtains, papers and fans.",
+        "Put a dry cotton wick in Diya 1. Put a wick in Diya 2 and pour oil around it; let the wick soak for one minute.",
+        "An adult lights both wicks.",
+        "Time how long each flame burns.",
+        "Look at the flames and what is left in each diya."
+      ],
+      "predict": "Ask your child to guess first: will the dry wick even light? Which diya will burn longer, and how much longer?",
+      "observe": "The dry wick catches quickly, flares, and goes out within seconds, leaving black ash. The oiled wick burns with a steady flame for many minutes, and the wick itself hardly burns down. The oil level slowly drops.",
+      "why": "A fuel is something that burns to give heat and light. Oil is the fuel here. The wick is made of cotton threads with tiny gaps that soak oil upwards, the same way a tissue soaks up spilled water. The flame's heat turns the oil at the top of the wick into vapour, and it is this oil vapour that burns. As oil burns away, more is drawn up, so the wick is protected and hardly burns. Without oil, the flame burns the cotton itself, which is used up in seconds. Burning turns the energy stored in the oil into light and heat. Cooking gas, petrol, wood and coal all work as fuels the same way.",
+      "safety": "An adult lights and watches the diyas the whole time. Keep hair, sleeves and dupattas away. Keep a mug of water nearby. Blow out both flames at the end.",
+      "time": "12 min"
+    },
+    {
+      "id": "e4",
+      "title": "Sunlight in focus (book Activity 7, page 124)",
+      "day": 6,
+      "question": "What happens when sunlight is gathered into one tiny spot?",
+      "need": ["a magnifying glass", "old newspaper (a dark printed area)", "a brick or steel plate", "a mug of water", "a sunny spot outdoors"],
+      "steps": [
+        "Go outside to a spot in direct sunlight, away from dry grass and anything that can catch fire.",
+        "Put the newspaper on a brick or steel plate.",
+        "The adult holds the magnifying glass between the Sun and the paper.",
+        "Move the lens slowly up and down until the bright spot on the paper is as small and sharp as possible.",
+        "Hold it still and watch. Count the seconds until the paper smokes.",
+        "Try a white part of the paper and compare. Pour water on the paper when you finish."
+      ],
+      "predict": "Ask your child to guess first: will gathered sunlight just make a bright spot, or will it do something to the paper? Will a dark or a white area react first?",
+      "observe": "The bright spot gets smaller and very bright. On a dark area the paper starts smoking within seconds and turns black; it may char a hole or glow. White paper takes much longer.",
+      "why": "Ordinary sunlight is spread over a wide area, so each part of the paper gets only a little energy. The curved glass of the lens bends all the sunlight falling on it so that it meets in one tiny spot. Now all that energy lands on a very small area, which heats up enough to burn. Dark ink absorbs more light, so it heats faster. Large solar power plants use the same idea with many mirrors to focus sunlight onto a tower, heat water into steam and spin a turbine.",
+      "safety": "An adult must supervise all the time. Never look at the Sun, or at the bright spot for long, through or near the lens; it can damage eyes. Do it on a brick or plate outdoors, away from dry leaves, with water ready. Store the lens out of sunlight afterwards.",
+      "time": "12 min"
+    },
+    {
+      "id": "e5",
+      "title": "Pizza-box solar oven",
+      "day": 7,
+      "question": "Can we trap enough of the Sun's energy in a box to melt chocolate or warm food?",
+      "need": ["a pizza box or shoebox with a lid", "aluminium foil", "black chart paper", "cling film", "tape", "scissors", "a pencil", "a small piece of chocolate and a cold roti", "a steel plate", "a thermometer if available"],
+      "steps": [
+        "On the lid, draw a square 2 cm in from the edges. Cut along three sides and fold the flap up.",
+        "Glue or tape foil on the inside of the flap, shiny side out, as smooth as possible.",
+        "Tape cling film tightly over the opening under the flap, sealing all edges.",
+        "Line the bottom of the box with black paper. Stuff rolled newspaper along the inside walls if you can, to keep heat in.",
+        "Next day, put the food on a steel plate inside, close the lid and set the box in full sun, propping the flap so it bounces sunlight in through the window.",
+        "Check after 30 minutes; record the result, and repeat on two more sunny days."
+      ],
+      "predict": "Ask your child to guess first: how hot will it get inside? Will the chocolate melt? Will the roti get warm? What if the day is cloudy?",
+      "observe": "Record the weather, the time in the oven and what happened to the food (and temperature if you have a thermometer). On a sunny day the chocolate usually goes soft or melts and the roti warms; inside temperatures of 50–80 °C are common.",
+      "why": "The foil flap reflects extra sunlight into the box. The black paper absorbs that light and turns it into heat. The cling film lets sunlight in but stops the warm air from escaping, so heat builds up, the same way a closed car gets very hot in summer. Newspaper on the walls slows heat leaking out. Real solar cookers, like box cookers used in many Indian homes and the big dish-shaped ones, use these same three ideas: reflect, absorb, trap.",
+      "safety": "The inside can get hot; use a cloth to take things out. Never look at the Sun's reflection in the foil.",
+      "time": "14 min to build + 6 min to set out + 30 min wait"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Rubber band guitar (book Activity 2, page 117)",
+      "day": 2,
+      "mins": 14,
+      "need": ["a shoebox or tissue box", "4 rubber bands of different thickness", "a pencil or ruler", "scissors"],
+      "steps": [
+        "Cut a round hole about 8 cm across in the top of the box.",
+        "Stretch the rubber bands round the box so they cross the hole.",
+        "Slide a pencil under the bands at one end to lift them off the box.",
+        "Pluck each band and listen. Put them in order from lowest to highest sound.",
+        "Touch a band right after plucking to feel it vibrate.",
+        "Make one band tighter by pulling it more and pluck again. Play a simple tune like 'Twinkle Twinkle'."
+      ],
+      "outcome": "A working guitar and the discovery that sound is made by things vibrating; thin, tight bands vibrate faster and sound higher, thick, loose bands sound lower, and the energy comes from your finger."
+    },
+    {
+      "id": "a2",
+      "title": "Pinwheel (book Activity 6, pages 123–124)",
+      "day": 6,
+      "mins": 14,
+      "need": ["a square of stiff paper, 15–20 cm", "ruler and pencil", "scissors", "a pin", "a small bead or bit of eraser", "a pencil with an eraser end or a thin stick"],
+      "steps": [
+        "Draw both diagonals of the square with a ruler.",
+        "Cut from each corner halfway towards the centre along the lines.",
+        "Fold every other point into the centre and hold them with the pin.",
+        "Push the pin through the centre, then through a bead, and into the eraser end of the pencil, leaving room to spin.",
+        "Hold it in front of a fan, at a window and while running. Compare fan speeds 1 and 5.",
+        "Blow on it from the front and the side: which way works?"
+      ],
+      "outcome": "A spinning pinwheel that shows moving air carries energy, and that faster wind gives faster turning, which is how wind turbines make electricity."
+    },
+    {
+      "id": "a3",
+      "title": "Water wheel (book Activity 8, page 124)",
+      "day": 7,
+      "mins": 12,
+      "need": ["a paper cup", "5 plastic spoons", "a pencil", "a paper circle and tape", "a bucket or big dabba", "a mug of water"],
+      "steps": [
+        "An adult makes five evenly spaced slits round the cup's middle with a knife point.",
+        "Push the spoons in, all bowls facing the same way round.",
+        "Tape a paper circle over the open end of the cup and push the pencil through the centre of both ends.",
+        "Rest the pencil across the top of the bucket so the wheel hangs and turns freely.",
+        "Pour water onto the spoons from 10 cm and then from 40 cm. Compare the speed.",
+        "Count how many turns the wheel makes for one mug of water from each height."
+      ],
+      "outcome": "A working water wheel and the finding that flowing and falling water carry energy, more when the water falls from higher, which is how gharaats grind grain and hydroelectric dams make electricity."
+    },
+    {
+      "id": "a4",
+      "title": "Energy flow and energy chains game (book Activity 9, page 128)",
+      "day": 8,
+      "mins": 12,
+      "need": ["18 paper slips", "a pen", "optional: 8 more slips for the long chain"],
+      "steps": [
+        "Write 6 source slips (Sun, wind, water, food, fuel, electricity), 6 type slips (heat, light, movement, sound, heat, movement) and 6 use slips (drying clothes, lighting a bulb, turning a turbine, cooking, running, ringing a doorbell).",
+        "Shuffle each set face down.",
+        "Each player draws one source, one type and one use, and says whether it is a true chain.",
+        "If it is not, they may swap one slip from the pile to make it true and say the chain aloud, like 'We are the heat of the Sun and we help to dry clothes.'",
+        "Long-chain round: build the longest chain you can, one card at a time; the other player may challenge any link and the builder must explain it."
+      ],
+      "outcome": "Your child can link any energy source to a type of energy and a use, and can build and defend a long chain of energy changes."
+    },
+    {
+      "id": "a5",
+      "title": "Home energy watch",
+      "day": 3,
+      "mins": 10,
+      "need": ["the electricity meter", "notebook", "the latest electricity bill"],
+      "steps": [
+        "Read the kWh number on the meter at about the same time each lesson day and write it down with the date.",
+        "Each time, subtract the last reading to find the units used.",
+        "Count lights and fans left on in empty rooms during the week.",
+        "Look at wattage stickers on big appliances to find the biggest energy users.",
+        "At the end, work out the week's total and cost using your bill's rate.",
+        "Choose two energy-saving rules for the family."
+      ],
+      "outcome": "A week's record of your home's electricity use and cost, a list of the biggest users, and two family rules for saving energy."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Julius Robert Mayer (1814–1878), Germany",
+      "idea": "Mayer was a ship's doctor. On a voyage to Java (in present-day Indonesia) in 1840, he noticed that the blood he took from sailors' veins was a brighter red in the tropics than in Europe. He reasoned that in the heat the body burns less food to keep warm, so less oxygen is used up. This led him to a much bigger idea: energy (he called it 'force') is never created or destroyed, only changed from one form into another, such as from food into movement and heat. He even calculated how much heat equals a certain amount of work, and published it in 1842.",
+      "then": "His first paper was rejected by a leading physics journal, and many scientists ignored him because he was a doctor, not a physicist, and his arguments were more ideas than experiments. James Joule in England did careful experiments a little later and got most of the credit. Mayer was so upset by the arguments over who came first that he became very ill.",
+      "now": "The law of conservation of energy, that energy only changes form and is never lost, is one of the most firmly accepted laws in all of science. Mayer is now honoured as one of its discoverers alongside Joule and Hermann von Helmholtz; the Royal Society in London gave him its Copley Medal in 1871.",
+      "status": "accepted",
+      "ask": "Mayer had a good idea but not many experiments. Joule had careful experiments. Who do you think deserves more credit, and why do scientists want experiments and not just good ideas?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Lord Kelvin (William Thomson, 1824–1907), Britain, and the puzzle of the Sun's age",
+      "idea": "Kelvin was one of the most famous physicists of his time. In 1862 he argued that the Sun could not be burning like coal, because then it would have burned out within a few thousand years. Instead he suggested, following Hermann von Helmholtz, that the Sun shines because it is slowly shrinking under its own weight, turning that energy into heat. From this he calculated that the Sun, and so the Earth, could only be tens of millions of years old.",
+      "then": "Geologists studying rock layers and Charles Darwin, who needed long ages for living things to change, thought the Earth was far older. But Kelvin's maths seemed so strong that many scientists sided with him for decades.",
+      "now": "Kelvin was wrong, because nobody then knew that atoms hold enormous energy. In 1920 Arthur Eddington suggested that the Sun turns hydrogen into helium, and in 1939 Hans Bethe worked out exactly how this nuclear fusion powers the Sun. Today we know the Sun is about 4.6 billion years old. Kelvin's shrinking-Sun idea is rejected, but it is a famous example of how even brilliant calculations fail when an unknown source of energy is missing.",
+      "status": "rejected",
+      "ask": "Kelvin's sums were right, but his answer was wrong because something was missing. When you do an experiment, how can you check whether you have missed something important?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Meghnad Saha (1893–1956), India",
+      "idea": "Saha grew up in a poor family in a village near Dhaka (now in Bangladesh) and became a physicist in Kolkata. In 1920 he worked out an equation, now called the Saha ionisation equation, which explains how the light coming from a star changes with its temperature. Using it, astronomers could read how hot a star's surface is and what it is made of just from the dark lines in its rainbow of light. It helped explain why stars of different temperatures show different patterns of lines, and confirmed that the Sun's glowing surface is about 5,500 °C.",
+      "then": "His work was quickly recognised by astronomers around the world and he was elected to the Royal Society in London in 1927. He was nominated several times for the Nobel Prize but did not win.",
+      "now": "His equation is still taught to every astrophysics student and is a foundation of how we study stars. Saha also founded the Institute of Nuclear Physics in Kolkata (now the Saha Institute), pushed for planning India's rivers and dams after terrible floods, and was elected to Parliament in 1952.",
+      "status": "accepted",
+      "ask": "Saha found out how hot the Sun is without going there, just by studying its light. What else can we learn about something far away, just by looking carefully at the light or sound it sends us?",
+      "day": 8
+    },
+    {
+      "id": "v4",
+      "who": "Kirk R. Smith (1947–2020), United States, who worked in India for decades",
+      "idea": "Smith was an environmental health scientist at the University of California, Berkeley. From the early 1980s he measured the smoke inside rural Indian kitchens where families cooked on chulhas burning wood, crop waste and dung cakes. He showed that the people who cooked, mostly women, and the small children near them breathed far more smoke than people standing in the dirtiest city streets, and that this smoke caused pneumonia in children, lung disease and other illness.",
+      "then": "For a long time most experts thought of air pollution as an outdoor problem of factories and traffic. Smoke in home kitchens was seen as a normal part of village life and was hardly studied.",
+      "now": "His findings are widely accepted. The World Health Organization now counts household smoke from cooking with solid fuels as one of the world's biggest health risks, linked to millions of early deaths each year. His work helped shape India's push to bring LPG cooking gas to poorer homes, including the Pradhan Mantri Ujjwala Yojana launched in 2016.",
+      "status": "accepted",
+      "ask": "Smoke from a chulha was always there, but no one measured it carefully for a long time. Why do you think scientists study some problems and not others? What problem near you do you think nobody has measured yet?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "What is energy? Say the five things it makes happen.", "a": "Energy is what makes things move, light up, produce sound, do work and change temperature (get hotter or colder)."},
+    {"q": "Where do we and other animals get our energy from? Where did that energy come from first?", "a": "From food. Almost all of it first came from the Sun, caught by plants in their leaves."},
+    {"q": "In the diya experiment, which diya burned longer and what was the fuel?", "a": "The diya with oil burned much longer; the oil was the fuel, while the wick only carried it to the flame."},
+    {"q": "Why does a rubber band guitar make a sound?", "a": "Plucking makes the band vibrate (shake quickly back and forth), and vibrations make sound energy."},
+    {"q": "Name three sources of energy that do not cause pollution and say how each can make electricity.", "a": "The Sun (solar panels turn sunlight into electricity), wind (windmills or wind turbines spin), and flowing or falling water (turns turbines at dams)."},
+    {"q": "Why is it better to use solar or wind energy than coal?", "a": "Burning coal makes smoke and harmful gases that pollute the air and harm health, and coal will run out; sunlight and wind are clean and keep coming."},
+    {"q": "Give two electricity safety rules and say why they matter.", "a": "Never put fingers or things into sockets; never touch wires or plugged-in parts; stay away from broken wires and fallen poles and tell an adult; do not play near transformers. Electricity can flow through our bodies and badly hurt us."},
+    {"q": "Give two examples of stored energy.", "a": "A battery, food in our body, a stretched rubber band or catapult, a blown-up balloon, a wound-up toy, oil or gas before it is burned."}
+  ]
+}

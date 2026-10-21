@@ -1,0 +1,593 @@
+{
+  "key": "ncert|sci|3|2",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 3,
+  "n": 2,
+  "title": "Going to the Mela",
+  "source": "NCERT Our Wondrous World, Class 3, Unit 1, Chapter 2 (pages 19–33), Reprint 2026-27",
+  "summary": "Nita and Radha, their Dadiji, their neighbours Sneha and Rohit and Mohan Chacha's family travel together by bus and autorickshaw to a mela. Your child learns how to prepare for a trip, how to travel safely and care for elders, what keeps people safe at a crowded mela (a map, a Lost and Found booth, ambulance, fire engine, police and a police dog), why we wash hands before eating, and how to read a simple sketch map. Along the way they test how mela toys like the firki and lattu work and meet scientists who changed how we think about germs, crowds and a dog's nose.",
+  "goals": [
+    "By the end your child can list what to prepare before a trip and say how to help an elder who finds walking hard.",
+    "By the end your child can name vehicles they see around them and give at least four safety rules for walking on the road and travelling by bus.",
+    "By the end your child can explain the jobs of the Lost and Found booth, the police and police dog, the ambulance and the fire engine at a mela, and say what to do if they get lost.",
+    "By the end your child can explain how a firki is turned by moving air and why a lattu slows down, from tests they ran themselves.",
+    "By the end your child can explain why we wash hands with soap before eating, using their own test, and tell the story of Ignaz Semmelweis.",
+    "By the end your child can read a simple sketch map, find places on it and draw the route from home to school."
+  ],
+  "words": [
+    ["mela", "a fair: a big gathering in an open ground with stalls, rides, food, shows and many people"],
+    ["stall", "a small shop set up for a short time at a mela, selling one kind of thing"],
+    ["conductor", "the person on a bus who sells tickets and helps passengers"],
+    ["reserved seat", "a seat kept for certain people, like elders, people with disabilities or women"],
+    ["volunteer", "a person who helps others without being paid, like the helpers at the Lost and Found booth"],
+    ["Lost and Found", "a booth where lost children and lost things are kept safely until their families come"],
+    ["map", "a drawing of a place seen from above, showing where things are; a quick rough map is called a sketch"],
+    ["route", "the path you take to get from one place to another"],
+    ["germs", "living things too small to see that can make us sick; many stick to dirty hands"],
+    ["friction", "the rubbing force between two surfaces that slows down moving things"],
+    ["crowd", "a large number of people close together in one place"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Getting ready for the mela",
+      "goal": "Remember a fair or outing of our own, read how Nita's family prepares, and pack our own trip bag with a checklist.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "My mela memory",
+          "mins": 5,
+          "do": "Ask: 'Have you ever been to a mela, a fair, an exhibition or a big festival ground? What did you see, hear, smell and eat?' If they have never been, ask about the busiest place they have been (a railway station, a temple on a festival day, a wedding). Good answers use the senses: 'loud music', 'smell of jalebi', 'giant wheel lights', 'so many people'. Write three of their words in the notebook under 'Mela'."
+        },
+        {
+          "kind": "read",
+          "title": "Preparing for the Mela (pages 19–21)",
+          "mins": 10,
+          "do": "Read pages 19–21 aloud, sharing the speaking parts: your child reads Nita and Radha, you read Dadiji and Nita's father. Ask: 'Why did Dadiji first say no?' (Her legs hurt.) 'What did Nita's father say to change her mind?' (Many people are going, the neighbours Sneha and Rohit and Mohan Chacha's family, and they will take care of her.) 'What did Dadiji ask the children to check?' (That they had filled their water bottles.) 'How will Mohan Chacha's family reach the mela?' (By train to the city, then a city bus, then an autorickshaw.) Point out the word 'Paternal uncle' on page 20: Mohan Chacha is Nita's father's brother."
+        },
+        {
+          "kind": "do",
+          "title": "Pack the special bag",
+          "mins": 15,
+          "do": "Answer the page 21 question: 'How do you prepare yourself for a trip?' Then, like Nita's 'special bag', your child packs a real bag for a pretend trip to a mela. First they write a checklist; then they pack it and tick each item. A good list includes: a filled water bottle, a cap, a small towel or hanky, a little money in a pouch, a snack, a tissue or wipes, a plastic bag for rubbish, a card with the family's phone number and address, and any medicine an elder needs (Dadiji's knee balm or tablets). Ask after each item: 'Why do we need this?' If they pack toys only, ask: 'What will you do if you get thirsty, or lost?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Caring for an elder on a trip",
+          "mins": 6,
+          "do": "Ask: 'Dadiji's legs hurt. What could we do so she can enjoy the mela too?' Good answers: walk slowly with her, hold her hand, find her a seat, take a wheelchair, carry her bag, stop for rests, buy food she can chew. Then ask: 'Is there someone in our family who needs help when we go out? What do they need?' Tell your child that later in the story Mohan Chacha and Rohit fetch a wheelchair for Dadiji (page 25), and we will read that on Day 3."
+        },
+        {
+          "kind": "do",
+          "title": "Phone-number card",
+          "mins": 4,
+          "do": "On a small card, your child writes their full name, a parent's name and two phone numbers, and slips it into the special bag or a pocket. Practise: you say 'What is your Papa's phone number?' and they say it from memory. Repeat until they can say one number without looking. Explain: 'At a mela, this card and this number are how the Lost and Found volunteers will find us.'"
+        }
+      ],
+      "need": ["Textbook pages 19–21", "a small bag and things to pack (bottle, cap, hanky, snack, coins)", "notebook and pencil", "a small card"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "On the way: buses, tickets and safe roads",
+      "goal": "Follow the families to the bus stop, learn road and bus safety, work out the bus tickets, and survey the vehicles near our home.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "On the way to the Mela (pages 22–23)",
+          "mins": 8,
+          "do": "Read pages 22–23 aloud. Ask: 'What is Sneha checking before she leaves?' (That she has taken everything she needs.) 'How did Nita help Dadiji?' (She held her hand and led her slowly to the bus stop.) 'How did they walk on the road?' (Carefully, watching vehicles moving in both directions.) 'Where did Dadiji sit?' (In a seat reserved for older people.) 'What did Rohit's father tell the children on the bus?' (Sit on your seats, don't jump around, don't put your hands or head out of the window.) 'Why?' (A passing vehicle, pole or branch could hit them.)"
+        },
+        {
+          "kind": "think",
+          "title": "Five full and four half tickets",
+          "mins": 7,
+          "do": "Read again Rohit's father's words on page 23: 'Five full and four half tickets please.' Ask: 'Who might the five full tickets be for, and the four half tickets?' (Five adults: Dadiji, Nita's father and mother, Sneha and Rohit's father and mother; four children: Nita, Radha, Sneha, Rohit.) Then do the sum: 'If a full ticket costs ₹20 and a half ticket costs half of that, what does he pay?' (5 × ₹20 = ₹100; 4 × ₹10 = ₹40; total ₹140.) Use real coins or play money if your child needs to count. Ask: 'Why do children pay half?' (They are smaller and take less space; it helps families travel.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Vehicle tally",
+          "mins": 13,
+          "do": "Stand with your child at the gate, a balcony or a safe spot near the road for 10 minutes. In the notebook, make tally columns: Walking, Cycle, Scooter or motorbike, Autorickshaw or e-rickshaw, Car, Bus, Truck or tempo, Other (bullock cart, tractor, handcart, ambulance). Your child makes one tally mark for each one that passes. At the end, count each column. Ask: 'Which was most common? Which carries the most people at once?' (A bus.) 'Which uses no fuel?' (Walking, cycle, handcart, bullock cart.) Also answer the page 24 question: 'What transport do you take to travel within your city, town or village?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Road safety rules",
+          "mins": 7,
+          "do": "Ask your child to give you five safety rules for walking and for the bus, from today's reading and the street. Good answers: walk on the footpath or on the edge facing oncoming traffic, look right, left and right again before crossing, cross at a zebra crossing or with a grown-up, hold an elder's or a small child's hand, never run behind a reversing vehicle, wait for the bus to stop fully before getting on or off, and keep hands and head inside the window. Ask: 'Why should we look both ways even on a one-way road?' (A cycle or bike may come the wrong way.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Describe a trip (page 24)",
+          "mins": 5,
+          "do": "Do the page 24 task: your child writes or tells you, in 4–5 sentences, about a trip they took with friends, neighbours or family. Prompt with: 'Where did you go? How did you travel? Who came? What did you carry? What was the best part?' Write their words down if writing is slow."
+        }
+      ],
+      "need": ["Textbook pages 22–24", "coins or play money", "notebook and pencil", "a safe spot to watch the road"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "At the mela: helpers, toys and the firki lab",
+      "goal": "See who keeps a mela safe, find out which toys the children bought, and test what makes a paper firki spin fastest.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "At the Mela (pages 25–27)",
+          "mins": 9,
+          "do": "Read pages 25–27 aloud and look at the big picture. Ask: 'What was at the entrance?' (A map of the mela ground showing the stalls; an ambulance, a police jeep and a fire engine; a Lost and Found booth with volunteers.) 'What did Mohan Chacha and Rohit fetch for Dadiji?' (A wheelchair.) 'What did the children buy at the toy stall?' (Spinning tops, puppets, phirkis and dolls.) 'Which rides did they take?' (The merry-go-round and the giant wheel.) 'What did Sneha and Radha buy?' (Bangles and other trinkets.) Ask your child to find in the picture three different stalls and say what each sells."
+        },
+        {
+          "kind": "talk",
+          "title": "Why are they there? (page 29)",
+          "mins": 6,
+          "do": "Ask the questions on page 29: 'What is the purpose of the Lost and Found booth?' (To keep lost children and lost things safe and help families find them.) 'Why are fire engines and ambulances present in a mela?' (Many people, cooking fires, electric lights and rides mean fire or injury can happen; help must reach fast in a crowd.) Then ask: 'If you got lost at a mela, what would you do?' Good plan: stop and stay where you are, do not walk off searching, go to a volunteer, a police officer or the Lost and Found booth, tell them your name and your family's phone number. Never leave with a stranger."
+        },
+        {
+          "kind": "exp",
+          "title": "Firki lab",
+          "mins": 20,
+          "do": "Do Experiment e1. Make three paper firkis (pinwheels) together from squares of paper: one with 4 blades, one big 4-blade firki from a bigger square, and one with 8 blades (glue two 4-blade firkis back to back, turned slightly). Pin each loosely to a pencil eraser or a stick with a pin and a bead. Before testing, ask your child to guess which will spin fastest. Hold each in front of a table fan at the same speed and distance, and count how many times a dot on one blade goes round in 10 seconds. Then blow on one gently and then hard. Explain the 'why' of e1.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Toys that need no battery",
+          "mins": 5,
+          "do": "Ask: 'What makes the firki go? What makes a lattu go? A puppet? A doll?' (Moving air; a pull of the string; the puppeteer's hands and strings; the child's own imagination.) 'Which mela toys need electricity?' Ask your child to name two toys at home that need no battery and say what makes each move. Tell them tomorrow they will test spinning tops and make a dugdugi."
+        }
+      ],
+      "need": ["Textbook pages 25–27, 29", "3 squares of paper (two 15 cm, one 20 cm)", "scissors, glue", "3 drawing pins and 3 beads or small pieces of eraser", "3 pencils with erasers or thin sticks", "a table fan", "a phone timer"],
+      "prep": [{"task": "Cut three paper squares and find pins and beads for the firkis", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Spinning tops and toys from trash",
+      "goal": "Find out why a lattu slows down, make a mela toy from waste, and meet Arvind Gupta, who teaches science through toys.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Lattu surface test",
+          "mins": 13,
+          "do": "Do Experiment e2. Spin a lattu (a wooden top, or a homemade top made of a pencil stub pushed through a cardboard circle or a CD) on three surfaces: a steel thali, the bare floor and a carpet or folded towel. Before you start, ask your child to guess where it will spin longest. Time each spin three times and write the times in a table. Ask: 'Where did it stop fastest? Why?' Explain friction using the 'why' of e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Make a dugdugi",
+          "mins": 12,
+          "do": "Do Activity a1. Make a dugdugi (a pellet drum, the little twisting drum sold at melas and played by monkey and bear-show performers in old times) from two paper cups, a pencil, string and two beads. Let your child twist it and listen. Ask: 'What is hitting what?' (The beads on strings hit the paper drum skins.) 'Why does it stop when you stop twisting?' (The beads swing only while the handle turns back and forth.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "Arvind Gupta: toys from trash",
+          "mins": 5,
+          "do": "Tell the story in Voice v4: an engineer from IIT Kanpur who left factory work to make thousands of toys from waste, each teaching some science. Ask the voice question. If you have internet, look at one short 'Toys from Trash' video together (the website is arvindguptatoys.com) and choose one toy to make on the weekend.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: The mela trip",
+          "mins": 10,
+          "do": "Do Worksheet ws1 (core). Read items aloud if needed. For the safety items, ask your child to explain their answer, not just pick it. Mark it together; for any mistake, open the page that shows it (bus safety p23, mela helpers p25, toys p27).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["a lattu (wooden top) or a CD/cardboard circle and a pencil stub", "a steel thali, a carpet or towel", "phone timer", "2 paper cups, a pencil, string, 2 beads or buttons, tape", "worksheet ws1"],
+      "prep": [{"task": "Keep aside 2 paper cups and 2 beads or buttons for the dugdugi", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Clean hands, clean grounds and the police dog",
+      "goal": "Understand why the children washed hands before eating, test how well water and soap remove 'germs', and find out how a police dog uses its nose.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Magic show, food and the police dog (page 28)",
+          "mins": 6,
+          "do": "Read page 28 aloud. Ask: 'What did Mohan Chacha say before they ate?' (Wash your hands properly before you eat.) 'Where did they wash?' (At the water point.) 'What did they eat?' (Gol gappas, chaat, chhole kulche, hot jalebis with rabri, kulfi.) 'What did they do with the waste?' (Put it all in the dustbin.) 'Who was with the police officer?' (A police dog.) Ask: 'What would the mela ground look like if everyone threw their leaf plates on the ground?' (Dirty, smelly, flies, cows eating plastic, slippery.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Haldi germ test",
+          "mins": 14,
+          "do": "Do Experiment e3. Rub a few drops of cooking oil and a pinch of haldi on both your child's palms and the backs of their hands; this is our pretend 'germs'. First they rinse one hand under plain water for 5 seconds, then wash the other hand with soap for 20 seconds (sing 'Happy Birthday' twice), scrubbing between fingers, thumbs and under nails. Before washing, ask them to guess which hand will be cleaner. Compare both hands on a white cloth or tissue. Explain the 'why' of e3.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Ignaz Semmelweis: the doctor who said 'wash your hands'",
+          "mins": 8,
+          "do": "Tell the story in Voice v1 in your own words: in a hospital in Vienna in 1847, mothers were dying of fever after giving birth, and Dr Semmelweis made the doctors wash their hands in a strong cleaning liquid, and far fewer mothers died, but many doctors refused to believe him. Ask: 'Why do you think the other doctors did not want to believe him?' Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "game",
+          "title": "Sniff like a police dog",
+          "mins": 7,
+          "do": "Put a pinch each of 4 strong-smelling things into 4 identical cups covered with a cloth with a few holes: elaichi (cardamom), jeera, a piece of lemon peel and a little coffee or tea leaves. Your child sniffs each, with eyes closed, and guesses. Then hide one more elaichi pod in the room while they wait outside, and let them try to find it by smell alone (they usually can't!). Ask: 'A police dog can find a hidden thing by smell. How is its nose different from ours?' (It has many millions more smell sensors and a big part of its brain works on smells.)"
+        },
+        {
+          "kind": "think",
+          "title": "Can dogs smell an illness?",
+          "mins": 5,
+          "do": "Tell the story in Voice v3: scientists are training dogs to sniff out some illnesses from a person's breath, sweat or urine. It works in some tests and not as well in others, so scientists are still arguing about it. Ask the voice question.",
+          "ref": "v3"
+        }
+      ],
+      "need": ["Textbook page 28", "a spoon of cooking oil, a pinch of haldi, soap, a white cloth or tissue", "4 identical cups, a cloth, elaichi, jeera, lemon peel, coffee or tea leaves"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "The biggest mela of all and staying safe in crowds",
+      "goal": "Read about the Kumbh Mela, learn what really makes crowds dangerous and how people help each other, and find out how melas have changed since our elders were young.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Kumbh Mela fact box (page 28)",
+          "mins": 6,
+          "do": "Read the box on page 28: the Kumbh Mela is the world's biggest festival and the largest gathering of people, held on the banks of the Ganga, Yamuna, Godavari and Shipra, once every 12 years at each of Haridwar, Prayagraj, Nashik and Ujjain. Find these four places on a map of India (in an atlas or on a phone) and point to the rivers. Ask: 'Which river flows through each city?' (Haridwar: Ganga; Prayagraj: where the Ganga and Yamuna meet; Nashik: Godavari; Ujjain: Shipra.) Ask: 'Why might so many people come together by a river?' (For a holy bath, and water is needed for so many people.)"
+        },
+        {
+          "kind": "think",
+          "title": "Do crowds really panic?",
+          "mins": 10,
+          "do": "Ask: 'What do you think happens when something scary happens in a big crowd?' Many children say 'everyone panics and runs'. Tell the story in Voice v2: scientists who study crowds found that people mostly stay calm and help each other, and that the real danger is too many people squeezed into too small a space. Do this demonstration: draw a 1-metre square on the floor with chalk or tape. Stand 2 people in it: easy to move. Then 4, then 6 (with cushions or pillows if there are not enough people). Ask: 'At 6, can anyone move their arms? What if someone fell?' Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "do",
+          "title": "Our family's mela safety plan",
+          "mins": 10,
+          "do": "Make a safety plan with your child and write it on a card for the special bag. It should answer: 1. Where do we meet if we get separated? (Choose something easy to find and tall, like the entrance gate or the giant wheel.) 2. Whom do we ask for help? (A police officer, a volunteer, a stall-keeper with a family, the Lost and Found booth.) 3. What do I say? (My name, my parent's name and phone number.) 4. What do I never do? (Leave the mela ground or go with a stranger.) Role-play it: you are the volunteer; your child comes up and tells you they are lost."
+        },
+        {
+          "kind": "talk",
+          "title": "Melas when elders were young (page 29)",
+          "mins": 9,
+          "do": "Do the page 29 task: call or ask an elder, 'How were melas different when you were young?' Your child asks three questions: 'How did you go to the mela? What did you buy and how much did it cost? What rides and shows were there?' Write the answers. Good things to listen for: walking or a bullock cart, toys for a few paise or one or two rupees, a bioscope (a box with pictures you looked into), a hand-turned wooden giant wheel, a snake charmer or puppet show. Ask your child: 'What has changed and what is still the same?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Sharing experience (page 29)",
+          "mins": 5,
+          "do": "Do 'Sharing Experience' on page 29: your child imagines being Nita, Radha, Sneha or Rohit and tells you three interesting things they would do at the mela, and why. Ask them to include one thing they would do to help Dadiji."
+        }
+      ],
+      "need": ["Textbook pages 28–29", "an atlas or a phone map of India", "chalk or tape, a metre tape", "a card for the safety plan", "a phone to call an elder"],
+      "prep": [{"task": "Ask a grandparent or elder to be ready for a 10-minute call about melas in their childhood", "when": "2 days before"}]
+    },
+    {
+      "n": 7,
+      "title": "Reading a sketch and drawing my route",
+      "goal": "Read the book's sketch map, find houses and routes on it, and draw the route from home to school.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Book Activity 1: Reading a Sketch (page 30)",
+          "mins": 10,
+          "do": "Look at the sketch on page 30 together. Do the four tasks: circle Rohit and Sneha's house; circle Nita and Radha's house; say whose house is closer to the parade ground (count the blocks or measure each path with a strip of paper or a thread); and trace with a finger the way from the police station to the parade ground, saying aloud each place you pass. Ask: 'How did you decide which house is closer?' (A good answer compares the length of the paths, not just a straight line.)"
+        },
+        {
+          "kind": "do",
+          "title": "Bird's-eye view",
+          "mins": 7,
+          "do": "Put three things on a table: a cup, a book and a pencil box. Ask your child to draw them from the side as they see them. Then ask them to stand on a stool (holding on safely) or kneel on a chair and look straight down, and draw them again: the cup becomes a circle, the book a rectangle. Say: 'A map is drawn as if you were a bird looking down. That's why houses on the page 30 sketch look like boxes.'"
+        },
+        {
+          "kind": "act",
+          "title": "Draw my route to school (page 31)",
+          "mins": 15,
+          "do": "Do Activity a2, the page 31 task. On the way to school or a known place (the market, a friend's house, the temple or park), your child notes the turns and landmarks: a shop, a tree, a signal, a temple, a water tank. Then they draw the route from above in the book's space, with home at one end and school at the other, a key for symbols, and an arrow for each turn. Ask them to explain the route to you, turn by turn, as if you were a visitor.",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: maps and money",
+          "mins": 8,
+          "do": "Do Worksheet ws2 (stretch). Your child can use coins for the money items. For the map items, let them draw on the grid with a pencil first.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 30–31", "a strip of paper or thread", "a cup, a book and a pencil box", "a stool or chair", "colour pencils", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Our mini mela",
+      "goal": "Answer the book's reflection questions, match the mela helpers, and run a mock mela with stalls, money and a Lost and Found rule.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect A and B (page 32)",
+          "mins": 8,
+          "do": "Ask the three discussion questions on page 32. A1: 'How can we care for our elders?' (Walk at their pace, give them a seat, carry their bags, help them with stairs, keep their medicines, listen to their stories.) A2: 'What kinds of vehicles do we see around us?' (Use the Day 2 tally.) A3: 'How can we ensure safety during travel?' (Use the Day 2 rules.) Then do B: match each picture on page 32 with a word from the list: firefighter, halwai or confectioner, toy seller, puppeteer, bangle seller, volunteer (already done), police officer, medical attendant, mehendi artist. Ask for each: 'What does this person do at a mela?'"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity D: mock mela (page 33)",
+          "mins": 22,
+          "do": "Do Activity a3, the mock mela from page 33, with family or friends. Set up 3 stalls on tables or a bedsheet: a toy stall (the firkis, dugdugi and top from this week), a food stall (real or pretend chaat and laddoos) and a bangle or craft stall. Make price cards in ₹ and give each customer ₹100 in paper notes and coins. Your child runs one stall and must give correct change. Set a Lost and Found corner with a 'volunteer' (a grandparent is perfect). Halfway through, play the 'lost child' card: a younger cousin or a teddy is 'lost', and your child must follow the Day 6 safety plan. Keep a money log of what each stall sold.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing what scientists found. Let your child answer the write items aloud while you scribe if writing slows them. For section C, praise answers that use evidence from this week's tests.",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["Textbook pages 32–33", "the firkis, dugdugi and top from this week", "a bedsheet or tables for stalls", "paper notes and coins as play money", "price cards and a marker", "worksheet ws3"],
+      "prep": [{"task": "Invite a sibling, cousin, neighbour or grandparent to be customers and the Lost and Found volunteer; make play money", "when": "night before"}]
+    },
+    {
+      "n": 9,
+      "title": "Check and teach it back",
+      "goal": "Draw the vehicles around us, check understanding, and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Draw the vehicles (page 33)",
+          "mins": 8,
+          "do": "Do Activity C on page 33: your child draws and labels the different vehicles they see around home and school, using the Day 2 tally to remember. Under each, they write one word for what it carries (people, goods, sick people, water, rubbish). Ask: 'Which of these has a siren and why?' (Ambulance, fire engine, police jeep: so others move aside and they reach help fast.)"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page that shows it and look together for a minute, then ask again in other words. Most children get 5 or more; fewer than 4 means redo the Day 6 safety plan role-play and the Day 5 haldi germ test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is now the teacher and you are a family going to a mela for the first time. Using the special bag, the safety card, the firki and the route map, they must teach you in 5 minutes: what to pack, how to travel safely, what to do if you get lost, why to wash hands before eating, and how a firki works. Ask two 'student' questions: 'Why can't I just rinse my hands with water?' and 'Why does the top stop faster on the carpet?' Praise answers that use what they saw in their tests."
+        },
+        {
+          "kind": "talk",
+          "title": "Plan a real mela visit",
+          "mins": 5,
+          "do": "Find out together whether a mela, haat, exhibition or festival fair is coming up near you (ask neighbours, check a local newspaper). If there is one, plan the visit using the special bag and safety card, and decide one thing to observe there, such as counting how many kinds of toys need no battery, or spotting the Lost and Found booth and the ambulance."
+        }
+      ],
+      "need": ["Textbook page 33", "colour pencils", "the special bag, safety card, firki and route map"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "The mela trip",
+      "day": 4,
+      "sections": [
+        ["A. Getting there", [
+          {"t": "mcq", "p": "Why did Dadiji at first not want to go to the mela?", "opts": ["She was busy cooking", "Her legs hurt", "She did not like melas", "There was no bus"], "a": 1},
+          {"t": "fill", "p": "On the bus, Dadiji sat in a seat ____ for older people.", "a": ["reserved", "kept"]},
+          {"t": "sort", "p": "Is it safe or unsafe on a bus or road?", "items": ["Putting your head out of the window", "Holding an elder's hand while walking", "Jumping around on the bus", "Looking both ways before crossing", "Sitting on your seat", "Getting off before the bus stops"], "cats": ["Safe", "Unsafe"]}
+        ]],
+        ["B. At the mela", [
+          {"t": "match", "p": "Match each helper to their job at the mela.", "pairs": [["Lost and Found volunteer", "Helps lost children find their families"], ["Ambulance", "Takes sick or hurt people for treatment"], ["Fire engine", "Puts out fires"], ["Police dog", "Sniffs out hidden or dangerous things"]]},
+          {"t": "fill", "p": "The children bought spinning tops, puppets, ____ and dolls at the toy stall.", "a": ["phirkis", "firkis", "pinwheels"]},
+          {"t": "write", "p": "You are lost at the mela. Write three things you will do.", "lines": 3}
+        ]],
+        ["C. Clean and healthy", [
+          {"t": "mcq", "p": "Why did Mohan Chacha ask the children to wash their hands before eating?", "opts": ["To make them cold", "To wash off germs that can make us sick", "Because the food was hot", "To pass time"], "a": 1},
+          {"t": "fill", "p": "After eating, the children put all the waste in the ____.", "a": ["dustbin", "bin"]},
+          {"t": "draw", "p": "Draw one mela food you would like to eat and the dustbin where its plate will go."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Mela maps and money",
+      "day": 7,
+      "sections": [
+        ["A. Spend wisely", [
+          {"t": "table", "p": "You have ₹100. Prices: balloon ₹15, chaat ₹30, bangles ₹40, firki ₹10, ride ₹25, kulfi ₹20. Choose four things.", "cols": ["Item", "Price (₹)"], "rows": 5, "prefill": ["", "", "", "", "Total"]},
+          {"t": "mcq", "p": "Which set costs exactly ₹100?", "opts": ["Bangles, chaat, kulfi, firki", "Ride, kulfi, chaat, balloon", "Bangles, ride, chaat", "Kulfi, firki, balloon, ride"], "a": 0},
+          {"t": "fill", "p": "A full bus ticket costs ₹20 and a half ticket ₹10. Five full and four half tickets cost ₹____.", "a": ["140"]}
+        ]],
+        ["B. Read a map", [
+          {"t": "draw", "p": "Draw a mela map from above with the entrance, 4 stalls, a giant wheel, a Lost and Found booth, a water point and a dustbin. Add a key."},
+          {"t": "write", "p": "On your map, write the route from the entrance to the water point, using words like 'turn left at', 'go past'.", "lines": 3},
+          {"t": "mcq", "p": "On a map, a round water tank seen from above looks like a:", "opts": ["Circle", "Triangle", "Tall rectangle", "Star"], "a": 0}
+        ]],
+        ["C. How toys work", [
+          {"t": "draw", "p": "Draw a firki and arrows to show where the air comes from and which way the firki turns."},
+          {"t": "write", "p": "Your top spun longest on the steel thali and shortest on the carpet. Why?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Mela puzzles and scientists' ideas",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Nine people went on the bus. Five tickets were full and four were half. If the conductor got ₹175 in all and a half ticket costs half a full ticket, how much is a full ticket? (Hint: a half ticket is half a full one, so 4 halves cost the same as 2 fulls.)", "lines": 2},
+          {"t": "write", "p": "A firki with 8 blades spun slower in a gentle breeze than one with 4 blades, but in a strong fan both spun fast. Give one possible reason.", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a mela had no map at the entrance and no Lost and Found booth? What could go wrong, and what would you add?", "lines": 3},
+          {"t": "write", "p": "What if nobody at the mela put their waste in a dustbin for a week? Think about flies, cows, rain and smell.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "In 1847 many doctors refused to believe Semmelweis when he said washing hands saved mothers' lives. What evidence did he have? Why might people refuse to believe evidence?", "lines": 4},
+          {"t": "mcq", "p": "Crowd scientists say the biggest danger in a big crowd is usually:", "opts": ["People panicking for no reason", "Too many people squeezed into too small a space", "Loud music", "Too many stalls"], "a": 1},
+          {"t": "write", "p": "Some dogs sniffed out an illness well in a laboratory but less well in a real hospital. What would you need to see before you trusted a dog instead of a doctor's test?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Firki lab: what makes a pinwheel spin fastest?",
+      "day": 3,
+      "question": "Does the number and size of blades change how fast a paper firki spins in moving air?",
+      "need": ["3 squares of paper (two 15 cm and one 20 cm)", "scissors and glue", "3 drawing pins and 3 small beads", "3 pencils with erasers or thin sticks", "a table fan", "a felt pen", "a phone timer"],
+      "steps": [
+        "For each firki: draw both diagonals on a square, cut from each corner along the diagonal two-thirds of the way to the centre, and fold every other corner to the middle. Push a pin through the corners and the centre, add a bead behind, and pin it loosely into the eraser or stick.",
+        "Make one small 4-blade firki (15 cm), one big 4-blade firki (20 cm), and an 8-blade firki by gluing a second small firki behind the first, turned so its blades sit between the first one's blades.",
+        "Put a felt-pen dot on one blade of each.",
+        "Hold each firki 50 cm in front of the fan on the same speed. Count how many times the dot goes round in 10 seconds. Do it twice.",
+        "Now blow on each firki, gently and then hard, and watch.",
+        "Write the counts in a table: firki, blades, size, turns in 10 seconds."
+      ],
+      "predict": "Ask your child to guess first: will more blades or bigger blades make the firki spin faster or slower? What happens if the air stops?",
+      "observe": "Record the turns for each firki. Look at which way it turns and whether it stops at once when the fan is switched off. Results vary with how carefully the firkis are made: often the small firki spins fastest, the big one turns slower but more strongly, and the 8-blade one starts more easily in a gentle breeze.",
+      "why": "Moving air (wind) pushes on everything it meets. Each blade of a firki is bent at a slant, so when the air hits it, the air is pushed sideways off the blade and the blade is pushed the other way. All the blades are slanted the same way round, so all the pushes turn the firki in the same direction. More blades catch more air, so the firki starts in a lighter breeze, but it is also heavier and blades can block each other's air. Bigger blades catch more air but are heavier and travel a longer way round each turn, so they usually turn fewer times. Windmills and wind turbines that make electricity work in the same way.",
+      "safety": "Keep fingers away from the fan blades and always use a fan with a guard. An adult should push the pins in.",
+      "time": "20 min"
+    },
+    {
+      "id": "e2",
+      "title": "Lattu surface test",
+      "day": 4,
+      "question": "On which surface does a spinning top spin longest, and why does it slow down at all?",
+      "need": ["a lattu (wooden top with string) or a homemade top: a pencil stub pushed through the centre of a CD or a cardboard circle", "a steel thali or a smooth tile", "the bare floor", "a carpet, mat or folded towel", "a phone timer", "notebook"],
+      "steps": [
+        "Make a table: surface, spin 1, spin 2, spin 3 (seconds).",
+        "Spin the top on the steel thali and time it until it falls over.",
+        "Spin it on the bare floor and time it.",
+        "Spin it on the carpet or towel and time it.",
+        "Do each surface three times, spinning as equally as you can, and circle the longest time for each.",
+        "Feel each surface with your fingers: which is smoothest, which is roughest?"
+      ],
+      "predict": "Ask your child to guess first: on which surface will the top spin longest? Why does a top stop at all?",
+      "observe": "Record the times. Usually the top spins longest on the smooth steel thali, a little less on the floor, and only a few seconds on the carpet or towel. Watch the tip of the top: on the carpet it digs in and wobbles.",
+      "why": "A spinning top keeps spinning until something slows it down. The main thing slowing it is friction: the rubbing between its tip and the surface, and a little between the top and the air. A smooth, hard surface like steel rubs very little, so the top keeps spinning a long time. A soft, rough carpet grips and drags the tip, so the spin is used up quickly. As the top slows, it starts to wobble and then falls over, because a fast spin is what keeps it standing upright. That is why lattu players at a mela choose hard, smooth ground.",
+      "safety": "A wooden lattu has a metal tip: do not throw it towards anyone, and keep it off glass tables.",
+      "time": "13 min"
+    },
+    {
+      "id": "e3",
+      "title": "The haldi germ test",
+      "day": 5,
+      "question": "Does rinsing with water clean our hands as well as washing with soap?",
+      "need": ["a few drops of cooking oil", "a pinch of haldi (turmeric)", "soap", "running water or a mug and bucket", "a white cloth or tissue", "a timer"],
+      "steps": [
+        "Rub a few drops of oil and a pinch of haldi all over both hands, including between the fingers and under the nails. This is our pretend 'germs'.",
+        "Rinse the left hand only under water for 5 seconds, without soap.",
+        "Wash the right hand with soap for 20 seconds, scrubbing palms, backs, between fingers, thumbs and under nails, then rinse.",
+        "Wipe each hand on a different part of the white cloth.",
+        "Compare the two hands and the two marks on the cloth.",
+        "Finally wash the left hand properly with soap too."
+      ],
+      "predict": "Ask your child to guess first: will the water-only hand or the soap hand be cleaner? Where will the haldi hide most?",
+      "observe": "The water-only hand stays yellow and oily, especially between the fingers, around the thumb and under the nails, and leaves a yellow mark. The soap hand is almost clean. These hiding places are where real germs hide too.",
+      "why": "Many germs stick to our hands in grease and dirt, and oil does not mix with water, so plain water slides over it. Soap is special: one end of each soap particle grabs on to oil and grease and the other end holds on to water. So when you rub with soap, the grease (with the germs in it) is lifted off the skin and wrapped up in tiny balls that rinse away. Soap also breaks apart the outer coat of many germs. Scrubbing for 20 seconds gives the soap time to work. That is why Mohan Chacha made the children wash their hands before eating chaat.",
+      "safety": "Use only a little haldi; it stains clothes and skin yellow for a while. Keep soap away from eyes.",
+      "time": "14 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Make a dugdugi (pellet drum)",
+      "day": 4,
+      "mins": 12,
+      "need": ["2 paper cups", "a pencil", "2 pieces of string about 10 cm long", "2 beads or buttons", "tape", "colour pens"],
+      "steps": [
+        "Cut the two cups so each is about 3 cm tall, keeping the bottoms. These bottoms are the drum skins.",
+        "Make a hole in the side of each cup near the open edge and push the pencil through both, so the cups sit open-end to open-end with the pencil between them as a handle.",
+        "Tape the two open ends together so they make a drum.",
+        "Tie a bead to each string. Tape one string on each side of the drum's middle, so a bead can swing out and hit each drum skin.",
+        "Decorate the drum.",
+        "Hold the pencil and twist it quickly back and forth. Listen and watch the beads."
+      ],
+      "outcome": "A working dugdugi that rattles when twisted, and a child who can explain that the beads hitting the drum skins make the sound."
+    },
+    {
+      "id": "a2",
+      "title": "My route to school (Book page 31)",
+      "day": 7,
+      "mins": 15,
+      "need": ["the book's space on page 31 or a sheet of paper", "pencil, colour pencils, a ruler"],
+      "steps": [
+        "On the next walk or ride to school (or another place you go often), say aloud every turn and every landmark, and note them on a slip of paper.",
+        "On the page, draw home at one edge and school at the other.",
+        "Draw the roads as two parallel lines, seen from above.",
+        "Add each landmark as a simple symbol (a circle for a tree, a square for a shop, a triangle for a temple) and make a key.",
+        "Draw arrows along the route for each turn.",
+        "Explain the route to a family member, turn by turn, using the map."
+      ],
+      "outcome": "A bird's-eye sketch map of the route from home to school with a key and landmarks, which your child can explain."
+    },
+    {
+      "id": "a3",
+      "title": "Our mini mela (Book Activity D, page 33)",
+      "day": 8,
+      "mins": 22,
+      "need": ["3 tables or a bedsheet", "toys made this week", "pretend or real snacks", "bangles or craft items", "price cards", "play money: ₹100 per customer in paper notes and coins", "a money log sheet"],
+      "steps": [
+        "Decide three stalls and who runs each.",
+        "Make price cards in ₹ for every item.",
+        "Set up a Lost and Found corner and choose a volunteer.",
+        "Give each customer ₹100 in play money. Stall-keepers write each sale in the money log and give correct change.",
+        "Halfway, play the 'lost child' card: the 'lost' child follows the family safety plan.",
+        "At the end, add up the money log: which stall earned most and why?"
+      ],
+      "outcome": "A real mini mela run by your child, with a money log showing what each stall sold, and a practised lost-child plan."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Ignaz Semmelweis (1818–1865), Hungary, worked in Vienna",
+      "idea": "In 1847, at the Vienna General Hospital, Semmelweis noticed that many more mothers died of 'childbed fever' in the ward run by doctors and medical students than in the ward run by midwives. The doctors often came straight from cutting up dead bodies. He guessed they were carrying something deadly on their hands, and made them wash their hands in a chlorinated lime solution before examining mothers. Deaths in his ward fell sharply, from about one mother in ten to about one or two in a hundred.",
+      "then": "Many senior doctors refused to accept his idea. They did not like being told that they themselves were spreading disease, and Semmelweis could not explain why handwashing worked, because germs had not yet been discovered. He lost his job in Vienna, and died in 1865 without being widely believed.",
+      "now": "His idea is fully accepted. In the 1860s and after, Louis Pasteur and Robert Koch showed that tiny germs cause many diseases, and Joseph Lister began cleaning wounds and instruments in surgery. Handwashing is now one of the most important ways to stop the spread of disease in hospitals and homes.",
+      "status": "accepted",
+      "ask": "Semmelweis had the numbers but could not explain why handwashing worked. Should people believe something that works even before anyone knows why? What made his numbers good evidence?",
+      "day": 5
+    },
+    {
+      "id": "v2",
+      "who": "John Drury (University of Sussex, England) and other crowd scientists",
+      "idea": "Many people think that in an emergency a crowd 'panics' and everyone selfishly runs. John Drury, a psychologist who studies crowds, interviewed survivors of real emergencies, such as the London bomb attacks of 2005, and found that most people stayed calm, helped strangers and stayed together. Crowd-safety scientists also show that crushes usually happen when too many people are packed into too small a space, so that nobody can move and the pressure of bodies builds up, often at narrow gates, bridges or exits.",
+      "then": "For a long time newspapers and some officials blamed disasters on 'panic' and 'stampedes'. Researchers had to collect careful evidence from survivors, videos and building plans to show that this story was mostly wrong.",
+      "now": "Among crowd scientists, this is widely accepted: mass panic is rare, and good design and control of crowd density (wide exits, one-way paths, limits on numbers, clear information) is what keeps people safe. The word 'stampede' is still common in the news, so the old idea has not gone away.",
+      "status": "accepted",
+      "ask": "If people in a crowd mostly help each other, why might news reports still say 'panic'? What would you need to see in a video to decide whether a crowd panicked or was simply squeezed?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Medical detection dog researchers, for example Claire Guest, who co-founded the charity Medical Detection Dogs in England (2008)",
+      "idea": "A dog's nose has many millions more smell sensors than ours, which is why police dogs can find hidden things. Some scientists and dog trainers say dogs can also be trained to smell certain illnesses, such as some cancers, low blood sugar in people with diabetes, or a virus infection, from a person's breath, sweat, skin or urine.",
+      "then": "Early reports, from the 1980s onward, were mostly single stories of a pet sniffing at a spot on its owner's skin. Many doctors were doubtful until scientists ran tests where neither the dog handlers nor the dogs could get clues about the answer.",
+      "now": "Some careful studies have found dogs can pick out samples from sick people well, and dogs are already used to warn some people with diabetes. But other studies found the dogs did much worse in real-life settings than in the laboratory, and results vary from dog to dog. Scientists still debate how far dogs can be trusted for this, and many are trying to build 'electronic noses' that copy them.",
+      "status": "debated",
+      "ask": "If a dog sniffs at 10 jars and picks the right one 8 times, is that good enough? What if the handler knew which jar was right and gave clues without meaning to? How would you design a fair test?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "Arvind Gupta (born 1953), India",
+      "idea": "Arvind Gupta studied engineering at IIT Kanpur and worked in a truck factory before turning to children's science. Starting with the Hoshangabad Science Teaching Programme in the villages of Madhya Pradesh in the 1970s, he showed that children can learn real science by making toys from waste: matchsticks, straws, old bottles, paper and cycle valve tubes. His 'Toys from Trash' films and books, free online in many Indian languages, show thousands of such toys, and he was given the Padma Shri in 2018.",
+      "then": "Many people believed science needed costly laboratories and that village children could only learn by reading textbooks. His programmes showed otherwise, and his toys spread to schools across India and the world.",
+      "now": "Research on teaching supports the idea that hands-on activities help children understand science, especially when an adult also explains the idea and asks good questions. Scientists who study learning still debate how much children should discover by themselves and how much they should be told directly.",
+      "status": "accepted",
+      "ask": "Did you understand the firki better by making and testing it, or would reading about it have been enough? How could we find out which way helps children learn more?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "Name four things you should pack before going to a mela, and say why one of them matters.", "a": "For example a filled water bottle, a cap, a little money, a snack, a hanky, a bag for rubbish, a card with your name and phone number. The phone-number card helps the Lost and Found volunteers find your family if you get lost."},
+    {"q": "How did the families help Dadiji on the trip?", "a": "Nita held her hand and led her slowly to the bus stop, the conductor and Nita's father helped her get on, she sat in a seat reserved for older people, and Mohan Chacha and Rohit fetched her a wheelchair at the mela."},
+    {"q": "Give three rules for travelling safely on a bus or a road.", "a": "Look both ways before crossing; walk carefully watching vehicles from both directions; sit on your seat and don't jump around; never put your hands or head out of the window; wait for the bus to stop before getting on or off."},
+    {"q": "Why are a Lost and Found booth, an ambulance and a fire engine kept at a mela?", "a": "Lost and Found keeps lost children and things safe until families come; the ambulance takes sick or hurt people for treatment; the fire engine puts out any fire. In a crowd, help must be ready close by."},
+    {"q": "What should you do if you get lost at a mela?", "a": "Stay where you are or go to the meeting point, ask a police officer, a volunteer or the Lost and Found booth for help, tell them your name and your parent's phone number, and never go away with a stranger."},
+    {"q": "In our haldi test, why did the soap hand come clean but the water-only hand stay yellow?", "a": "The haldi was stuck in oil, and oil does not mix with water. Soap grabs the oil with one end and water with the other, so it lifts the oil and the 'germs' off and they rinse away."},
+    {"q": "What makes a firki spin, and why does a top stop sooner on a carpet?", "a": "Moving air pushes on the slanted blades and turns the firki. A top is slowed by friction; a soft, rough carpet rubs and drags its tip much more than a smooth steel plate."}
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "key": "ncert|sci|4|1",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 1,
+  "title": "Living Together",
+  "source": "NCERT Our Wondrous World, Class 4, Chapter 1 (pages 3–16), Reprint 2026-27",
+  "summary": "Chandan shows us round his village, and his friends and their families clean up the park, repair it and plant trees for Van Mahotsav, then share a community meal on banana leaves. Your child explores the people and places of their own locality and how they depend on one another, learns how communities in Kanker, Assam and Sikkim solve problems together, compares human teamwork with ant and bee colonies, and plans a real improvement for their own neighbourhood.",
+  "goals": [
+    "By the end your child can name at least six people and places in their locality (shopkeeper, road, health centre, police, school, park, bus stop, post office) and say how each one connects to the others.",
+    "By the end your child can explain what Van Mahotsav is, when it is held (1–7 July, in the rainy season) and why planting and caring for trees helps a whole community.",
+    "By the end your child can list the occupations, tools and skills needed to repair and run a shared place like a park, and interview a family member about their work.",
+    "By the end your child can explain, with an example from the book (the Kanker bamboo bridge, Bhela Ghar, Khetala), why working together solves problems one person cannot.",
+    "By the end your child can describe how an ant or bee colony divides work, test it by watching real ants, and explain how buried leaves turn into manure.",
+    "By the end your child can weigh the views of scientists who studied how groups share things (Garrett Hardin and Elinor Ostrom) and why animals help each other."
+  ],
+  "words": [
+    ["community", "a group of people who live in the same place and share its spaces, resources and celebrations, and depend on one another"],
+    ["locality", "the area around your home: your lane, colony, mohalla or village"],
+    ["public place", "a place that belongs to everyone and that everyone can use, like a park, road, bus stop, school or post office"],
+    ["occupation", "the work a person does to earn a living, like mason, electrician, nurse or shopkeeper"],
+    ["interdependence", "needing one another: the farmer needs the shopkeeper to sell vegetables, and the shopkeeper needs the farmer to grow them"],
+    ["Van Mahotsav", "'forest festival' (van = forest, mahotsav = big festival); India's tree-planting week, 1–7 July"],
+    ["sapling", "a young tree, small enough to plant by hand"],
+    ["volunteer", "a person who offers to do a job for the community without being paid"],
+    ["manure", "rotted plant and animal waste that is mixed into soil to feed plants"],
+    ["decompose", "to rot and break down into tiny pieces, with the help of tiny living things such as bacteria, fungi and earthworms"],
+    ["colony", "a large group of animals of one kind living together and dividing the work, like ants in an anthill or bees in a hive"],
+    ["commons", "something a whole community shares and must look after together, like a village pond, a park or grazing land"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Who helped me today?",
+      "goal": "Start from the child's own day, meet Chandan and his village, map how people and places in our locality are connected, and start our 'what turns into manure' experiment.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The helpers in my morning",
+          "mins": 6,
+          "do": "Ask your child: 'Think about this morning from the moment you woke up. Who did something that helped you, even if you never saw them?' Help them go beyond the family: the milkman or Mother Dairy booth, the newspaper delivery person, the farmer who grew the wheat for the roti, the driver of the truck that brought it, the person who keeps the water tank running, the sweeper who cleaned the lane. Count them on fingers. Good answers reach at least eight. If stuck, hold up the breakfast plate and ask, 'Where did each thing on this plate come from, and who touched it before you?'"
+        },
+        {
+          "kind": "read",
+          "title": "A tour around Chandan's village (pages 3–5)",
+          "mins": 9,
+          "do": "Read page 3 aloud: Chandan plays kabaddi in the big playground, and the elders gather under the banyan tree. Look at the big picture of the village on page 4 and do the page 4 task aloud: 'What do you see in the picture?' Ask your child to find at least six places and say who uses each (for example: 'the school - children and teachers', 'the shop - everyone who needs rice or soap'). Ask: 'Why do you think the elders meet under the banyan tree and not in the sun?' (It gives deep shade and is a shared spot everyone knows.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Book Activity 1: People and places connect (page 4)",
+          "mins": 15,
+          "do": "Copy the Activity 1 table from page 4 into the notebook (Place/People and Connections). Walk to the end of your lane or round your building compound and look for each one: a shopkeeper, the road, a health centre or clinic, police (a beat constable, a chowki or a security guard), a school. Back home, your child fills in the blanks. Listen for real connections, not just jobs: 'The road lets the vegetable seller bring sabzi from the mandi', 'The health centre gives vaccines so illness does not spread to everyone', 'The police help when there is an accident on the road', 'The school teaches children who will later become the shopkeeper, nurse and police.' Start Activity a1 by drawing lines between the places that need each other.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the manure test",
+          "mins": 12,
+          "do": "Set up Experiment e1, which we will check all chapter. In a bucket or a large pot of damp garden soil, bury four things side by side, about a hand's depth down, and mark each place with an ice-cream stick: a piece of banana leaf (or any big leaf), a handful of vegetable peels, a square of newspaper, and a piece of plastic bag. Ask your child to guess first, and write down: 'Which will disappear first? Which will never change?' Tell them: 'In the book, Chandan's village buries the leaf plates from their feast in a pit. We will find out why.' Water lightly and keep the pot in shade.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions from page 5",
+          "mins": 3,
+          "do": "Ask the three questions at the top of page 5. 'Why is it important to have parks, schools, hospitals and bus stops in your locality?' (People need them every day and cannot each build their own.) 'How would life be different if one did not exist?' (Without a bus stop, people who have no scooter could not reach work; without a clinic, a sick baby would have to travel far.) 'What can you do to keep these places clean and safe?' Write their best answer to the last one in the notebook."
+        }
+      ],
+      "need": ["Textbook pages 3–5", "notebook and pencil", "a bucket or big pot of damp soil", "a piece of banana leaf or any large leaf", "a handful of vegetable peels", "a small square of newspaper", "a piece of plastic bag", "4 ice-cream sticks and a marker"],
+      "prep": [{"task": "Fill a bucket or large pot with garden soil and keep aside vegetable peels and a banana leaf (or any large leaf)", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Van Mahotsav: a festival for planting trees",
+      "goal": "Read the Van Mahotsav story, find out why a whole country plants trees in July, make the invitation poster, and hear how village women in the Himalaya saved their forest together.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Getting ready for Van Mahotsav (pages 5–6)",
+          "mins": 8,
+          "do": "Read the paragraph on page 5 that begins 'People and places are part of our community', then the dialogue between John, Mallika and Chandan. Ask: 'Why does Mallika want to plant trees in the park?' (So her grandmother and friends enjoy their morning walks more and have better air to breathe.) Read the 'Do you know?' box on page 6. Ask: 'Why do you think Van Mahotsav is held in the first week of July and not in May?' Good answer: 'The monsoon has started, so the soil is wet and saplings get rain to grow roots; in May the heat would dry them out.' Tell your child that Van Mahotsav was started in 1950 by K.M. Munshi, India's minister for food and agriculture at the time."
+        },
+        {
+          "kind": "talk",
+          "title": "Is Mallika right about better air?",
+          "mins": 7,
+          "do": "Ask: 'How can trees give better air?' Build the answer together: leaves take in carbon dioxide from the air and give out oxygen while making food in sunlight; leaves also catch dust on their surface (show your child a dusty leaf from a roadside plant and wipe it with a wet finger); and trees cool the air with shade and the water they give off from their leaves. Then ask a fair-thinking question: 'Will ten small saplings clean the air of the whole village tomorrow?' (No; it takes years for a sapling to grow big, which is why the children promise to look after the park from then on.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: The invitation poster (page 6)",
+          "mins": 15,
+          "do": "Do Activity a2. Your child makes a colourful poster inviting the neighbourhood to Chandan's Van Mahotsav. It must answer: What? (tree planting and park cleaning), When? (pick a date between 1 and 7 July), Where? (the park near the school), Why? (one strong reason, like 'more shade and cleaner air for everyone'), and What to bring? (gloves, a khurpi, a bucket, a sapling if you have one). Ask them to draw at least one tree that really grows in your region (neem, peepal, jamun, amaltas, gulmohar, coconut). Ask: 'Who in our building would you invite first, and why?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Gaura Devi and the Chipko women",
+          "mins": 10,
+          "do": "Tell the story in Voice v2 in your own words: in 1974, in Reni village in the Himalaya, Gaura Devi and the village women stood guard over their forest so that it could not be cut down. Ask: 'Why did the women care so much about trees that were not even in their own courtyards?' (The forest gave them firewood, fodder for cattle, and held the soil and water on the slopes; it was the whole village's.) Then ask the voice question and let your child answer fully before you share your view.",
+          "ref": "v2"
+        },
+        {
+          "kind": "exp",
+          "title": "Manure test check-in",
+          "mins": 3,
+          "do": "Check Experiment e1. Do not dig everything up; just scrape away the soil above the vegetable peels and look. Ask: 'Has anything changed yet?' (Probably not much; it is early.) Your child writes the date and 'no change' or what they see. Sprinkle a little water if the soil is dry and cover it again.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Textbook pages 5–6", "chart paper or an A4 sheet, crayons or sketch pens", "a dusty leaf from a roadside plant", "the manure-test pot"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Helping hands: work, tools and skills",
+      "goal": "Find out how different people with different skills repaired the park, list the occupations, tools and materials needed, and interview a family member about their work.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Helping hands in the community (pages 6–7)",
+          "mins": 7,
+          "do": "Read 'Helping Hands in the Community' from page 6 to the top of page 7. Make a quick list as you go: Sameer fixes the benches with wood and nails, Babita repairs the street light, Noor brings saplings from her plant nursery to plant along the boundary. Ask: 'What would happen if only Sameer came, and nobody else?' (The benches would be fixed, but the park would still be dark at night and have no new trees; no single person has every skill.) Read Babita's line: 'If we all work together, the park will be ready in no time.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Book Activity 3, question 1: Who looks after our locality? (page 7)",
+          "mins": 6,
+          "do": "Ask question 1 on page 7: 'Identify the people who help in maintaining your locality. What are their occupations?' Your child writes at least five in the notebook. Prompt with places you saw on Day 1: who cleans the lane (sweeper or safai karmachari), who collects the garbage, who fixes the street light (electrician from the municipality or panchayat), who repairs the water pipe (plumber), who looks after the park plants (mali, gardener), who guards the gate (security guard)."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 3, question 2: Work, tools, skills (page 8)",
+          "mins": 12,
+          "do": "Copy the table on page 8: People at work, Occupation, What they do, Material/Tool. The book's example is a mason mending walls with bricks and cement, using a trowel. Your child adds at least four rows for the park, for example: carpenter (Sameer) - repairs benches - wood, nails, hammer, saw; electrician (Babita) - repairs the street light - wires, bulb, screwdriver, tester; gardener or nursery owner (Noor) - grows and plants saplings - khurpi, spade, watering can, manure; painter - paints the walls - brush, roller, paint; sweeper - cleans paths - broom, dustpan. If you have a hammer, screwdriver or khurpi at home, bring it out and let your child hold it and say what job it makes easier."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 3, question 3: Interview a family member (page 8)",
+          "mins": 15,
+          "do": "Start Activity a4. Your child interviews one adult at home or a neighbour about their work, using the three questions on page 8: 'What do you like most about your work? What tools or things do you use? What challenges do you face?' Ask them to add two questions of their own, such as 'Who depends on your work?' and 'Whose work do you depend on?' Your child writes or draws the answers. After the interview, ask: 'Whose work does this person need, to do their own job?' (A teacher needs the bus driver, the bookseller and the electricity board.)",
+          "ref": "a4"
+        },
+        {
+          "kind": "exp",
+          "title": "Manure test check-in",
+          "mins": 3,
+          "do": "Check Experiment e1. Scrape away the soil above the peels and the leaf. Ask: 'Do you see any white fuzz (mould), a bad smell, small insects or an earthworm?' These are signs that tiny living things have started breaking things down. Write it down with the date and cover again.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Textbook pages 6–8", "notebook", "any household tool such as a hammer, screwdriver or khurpi", "a family member or neighbour willing to be interviewed", "the manure-test pot"],
+      "prep": [{"task": "Ask a family member or neighbour to give your child 10 minutes for an interview about their work", "when": "2 days before"}]
+    },
+    {
+      "n": 4,
+      "title": "Celebrating together and the bamboo bridge",
+      "goal": "Read how groups shared out the work on the big day and how the Kanker community built a bridge in two days, then test why many weak things together can carry much more than one.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Celebrating Van Mahotsav and the community bridge (page 9)",
+          "mins": 8,
+          "do": "Read 'Celebrating Van Mahotsav' on page 9: Mallika makes announcements on a microphone, and groups are formed for cleaning, planting, watering and cooking. Ask: 'Why make groups instead of everyone doing everything?' (Each group can focus on one job and do it well, and nobody gets in each other's way.) Then read the box 'Community Bridge Across a River': in Kanker, Chhattisgarh, the river overflows in the rains, and in 2024 the community built a simple, strong bridge in just two days using bamboo and stones. Ask: 'Why could they build it in two days when one family could not build it in a year?' (Many hands, many skills, and everyone brought material.)"
+        },
+        {
+          "kind": "exp",
+          "title": "One straw or a bundle?",
+          "mins": 17,
+          "do": "Do Experiment e2. Make a gap between two stacks of books, about 15 cm wide. Lay one paper straw (or one thin sheet of paper rolled into a tube) across the gap and hang a small plastic bag from the middle with a paper clip. Ask your child to guess how many one-rupee coins it will hold, then add coins one at a time until it bends and drops. Now tie 5 straws or tubes together with a rubber band at each end and test again. Then try 10. Your child records: number of straws, guess, coins held. Ask: 'Did 10 straws hold 10 times more, or even more than that?' Connect it to the Kanker bridge: bamboo poles tied together with stones underneath can carry people and goods.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Coming together in times of need (page 10)",
+          "mins": 8,
+          "do": "Ask the two questions at the top of page 10. 'It is important for communities to come together in times of need. What do you think about this statement?' Good answers give a reason: 'In a flood or an accident, help is needed fast, and neighbours are the closest.' 'Do people in your locality come together and support each other? Can you remember one such occasion?' Help your child recall a real event: a wedding, a funeral, a puja or Eid preparation, a power cut, a flood, a neighbour's illness, or the COVID-19 lockdown when people delivered groceries to the elderly. Your child writes 3–4 lines about it."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: People, places and helping hands",
+          "mins": 12,
+          "do": "Do Worksheet ws1 (core). Read items aloud if needed. For the match item, ask your child to say aloud why each tool goes with each worker. Mark it together; for any wrong answer, open the page the answer comes from (pages 4–5 for places, pages 6–8 for workers and tools, page 6 for Van Mahotsav, page 9 for the bridge).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 9–10", "10 paper straws or 10 sheets of thin paper rolled into tubes", "rubber bands", "a small plastic bag and a paper clip", "about 40 one-rupee or two-rupee coins", "2 stacks of books", "worksheet ws1"],
+      "prep": [{"task": "Collect 10 paper straws (or roll 10 thin paper tubes and tape them) and a jar of coins", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Ant and bee communities",
+      "goal": "Read how ants and bees divide their work, watch real ants work as a team, and hear a live scientific argument about why worker ants help their colony.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Do you know? Ant and bee colonies (page 10)",
+          "mins": 6,
+          "do": "Read the 'Do you know?' box on page 10: in an ant colony some ants collect food, some care for the babies and some protect the home; in a beehive members gather food, protect the young and build the hive. Add the real details: most of the ants you see outside are female workers; one or a few queens lay all the eggs; worker honeybees change jobs as they grow older (cleaning cells, feeding young, making wax, guarding, and last of all flying out to collect nectar). Ask: 'How is this like the Van Mahotsav groups on page 9? How is it different?' (Both divide the work; but ants do not choose their jobs or vote, and a person can change occupation.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Ant teamwork test",
+          "mins": 18,
+          "do": "Do Experiment e3. Find an ant trail near the kitchen door, a wall, or a tree trunk. Put down three baits about a hand's length apart, a little way from the trail: a few grains of sugar, a biscuit crumb the size of a pea, and a tiny piece of cucumber. Ask your child to predict which bait the ants will find first and which will draw the most ants. Start a stopwatch on the phone. Your child records: time until the first ant arrives at each bait, and the number of ants at each bait after 5, 10 and 15 minutes. Watch how the ants carry the crumb: one ant alone, or several together? Look for ants touching antennae when they meet.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Why do worker ants help? (Hamilton and his critics)",
+          "mins": 10,
+          "do": "Ask: 'Most worker ants never have babies of their own. They spend their whole lives feeding the queen's babies. Why would they do that?' Let your child guess. Then tell the story in Voice v3: W.D. Hamilton's idea that workers help because the babies are their own sisters and share many of their family features, and the 2010 argument by Martin Nowak, Corina Tarnita and E.O. Wilson that this is not the full explanation. Make it clear that scientists are still arguing, although most side with Hamilton. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "game",
+          "title": "Herd or Alone?",
+          "mins": 8,
+          "do": "Play the DeepKids game 'Herd or Alone?'. You and your child are deer on a grassland. Make 8 Danger cards on scraps of paper (leopard, leopard, wild dogs, drought, flood, no danger, no danger, hunter). Each round, both of you secretly choose 'Herd' or 'Alone', then flip a card. Alone: you get 3 food tokens (use rajma or chana), but a leopard, wild dogs or hunter takes 1 life. Herd: you get only 1 food token because you share, but you lose a life only to a drought or flood. Each player starts with 3 lives. After 8 rounds, count food and lives. Ask: 'Which choice kept you alive? Why do elephants, deer, ants and humans live in groups even though they must share?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Manure test check-in",
+          "mins": 3,
+          "do": "Check Experiment e1. Look at the vegetable peels: are they softer, darker or slimy? Has the newspaper become soft? Has the plastic changed at all? Write it down with the date.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Textbook page 10", "a little sugar, a biscuit crumb and a small piece of cucumber", "a phone stopwatch", "8 paper scraps for Danger cards", "about 40 rajma or chana as tokens", "the manure-test pot"],
+      "prep": [{"task": "Find where ants walk near your home (kitchen door, wall, tree trunk or balcony)", "when": "morning"}]
+    },
+    {
+      "n": 6,
+      "title": "Sharing a meal and sharing a pond",
+      "goal": "Read about the community feast on banana leaves, see how leaves become manure, learn about Bhela Ghar and Khetala, and play a game that shows how a community must share a resource wisely.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Sharing a meal (pages 10–11)",
+          "mins": 7,
+          "do": "Read 'Sharing a Meal' from the bottom of page 10 to page 11: villagers bring vegetables and cereals, children hand out banana leaves, volunteers serve, and afterwards the leaves go into a pit. Read the 'Do you know?' box on page 11: leaves buried in a pit become manure and improve the soil. Ask: 'Why are banana leaves better than plastic plates for a feast of 200 people?' (They are free from the plant, they rot into manure in the pit in a few weeks, and plastic plates would lie in the ground or a drain for hundreds of years.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Manure test: halfway look",
+          "mins": 6,
+          "do": "Dig up and look carefully at all four items in Experiment e1 with an old spoon, then bury them again. Your child draws each one. Ask: 'Which is changing fastest? Which has not changed at all?' Usually the peels are breaking up and dark, the banana leaf is brown and soft at the edges, the newspaper is soggy and torn, and the plastic is exactly the same. Read the 'why' of e1: bacteria, fungi and small animals like earthworms eat things that were once alive; they have no way to eat plastic.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Festivals together: Uruka and Khetala (pages 11–13)",
+          "mins": 8,
+          "do": "Do the writing task on page 11: 'How do you work together in your family or community while preparing for a festival?' Your child writes 3 lines about a real festival in your home (Diwali cleaning, making modak for Ganesh Chaturthi, Eid biryani, Christmas cake, Pongal kolam). Then read the 'Do you know?' box on page 12 about Uruka, the first day of Magh Bihu in Assam on 14 January, when people build a hut of bamboo and hay called Bhela Ghar and feast together. Read the box on page 13 about Khetala in Sikkim, the people skilled in farming who help each other harvest. Ask: 'What is the same in Van Mahotsav, Bhela Ghar and Khetala?' (Everyone gives work, and everyone shares the result.)"
+        },
+        {
+          "kind": "game",
+          "title": "The village pond game",
+          "mins": 14,
+          "do": "Play the commons game from Voice v1. Put 20 small sweets or peanuts in a bowl: this is the village pond and the sweets are fish. You need at least 3 players (you, your child and a sibling, grandparent or toy players you take turns for). Each round, each player secretly takes 0, 1, 2 or 3 fish. After each round, the fish left in the pond breed: add one fish for every two left (if 10 are left, add 5), but the pond can never hold more than 20. Play 6 rounds with no talking: usually the pond is empty within a few rounds. Then play again, but this time the players may talk first and make a rule (for example 'everyone takes only 1 a round'). Ask: 'Which game gave everyone more fish in the end? Why?' Then tell the story in Voice v1 and ask its question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Who watches out? Birds in a group",
+          "mins": 10,
+          "do": "Go to a balcony, terrace or park where pigeons, mynas, crows or sparrows gather to feed. Watch for 10 minutes in silence. Your child notes: 'How many birds? Do they all eat with their heads down at the same time? Does any bird keep looking around? What happens when a dog or person comes close?' (Usually one or two birds look up, and when one flies off in alarm the whole group follows.) Ask: 'How does living in a group help the birds eat more safely?' (More eyes see danger sooner, so each bird can spend more time eating.)"
+        }
+      ],
+      "need": ["Textbook pages 10–13", "the manure-test pot and an old spoon", "20 small sweets, peanuts or raisins", "a bowl", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Our school, our team",
+      "goal": "Think about the roles people play in a school, make a useful artefact from nature, solve and write riddles about public places, and practise a stretch worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Taking care of the park (pages 12–13)",
+          "mins": 5,
+          "do": "Read the end of the story on page 12: everyone was tired but happy, and the children decided to take care of the park from then on. Ask the two questions on page 13: 'What are some ways we can take care of nature and our neighbourhood?' (Water the saplings, not litter, use a cloth bag, switch off taps and lights, report a broken street light.) 'How does helping others and working together make our community better?' (Jobs get done faster, people get to know and trust each other, and everyone enjoys the result.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Our School, Our Team (pages 13–14)",
+          "mins": 7,
+          "do": "Do question 1 on pages 13–14. Your child fills in the 'Person / How do they help in the school?' table: teacher (helps students learn new things), school bus driver (brings children safely and on time), principal, peon or helper, sweeper, librarian, cook (mid-day meal), security guard, students. Since you learn at home, also make a second small table for 'our home school': who teaches, who arranges books, who cooks lunch, who cleans up, and what your child's own job is. Ask (a) and (b) on page 14: 'Why must everyone work as a team in a school?' and 'What is your role as a member of your school community?'"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity: make a leaf plate (page 14)",
+          "mins": 15,
+          "do": "Do Activity a3, the 'making artefacts with materials from nature' task on page 14. Make a pattal (leaf plate) like the ones used in many parts of India: overlap 6–8 large fallen leaves (sal, banana, teak, banyan or palash) in a circle and pin them together with short pieces of broom stick (seenk) or toothpicks. Then fill in the page 14 table for your 'group' (the family): group name, activity chosen, material used, what did you learn. Ask: 'Where will this plate go after a meal?' (Into the manure pit, like Chandan's banana leaves.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "game",
+          "title": "Riddles about public places (pages 14–16)",
+          "mins": 8,
+          "do": "Read the four riddles on page 15 aloud one by one and let your child find the answers in the pictures: (a) bus stop, (b) post office, (c) market, (d) park or playground. Then do the task at the top of page 16: your child writes their own 4-line riddle about another public place (a hospital, railway station, library, temple, bank or police station) and tries it on someone in the family. A good riddle gives three clues about what happens there, not just its name."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Living together, new cases",
+          "mins": 10,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to apply the chapter's ideas to new situations. Let them answer the write items aloud while you scribe if writing slows them down. Praise answers that name who depends on whom.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 12–16", "6–8 large fallen leaves (sal, banana, teak, banyan or palash)", "toothpicks or short pieces of broom stick (seenk)", "notebook", "worksheet ws2"],
+      "prep": [{"task": "Collect 8 large, clean fallen leaves for the leaf plate and keep them flat under a book", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Make a difference, check and teach it back",
+      "goal": "Finish the manure test, plan a real improvement for our locality, find a local craft, check understanding and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Manure test results",
+          "mins": 6,
+          "do": "Finish Experiment e1 (or do this step again in two weeks if things are still changing). Dig up all four items and lay them on newspaper. Your child fills in a results table: item, how it looked on Day 1, how it looks today, 'will it become manure?'. Ask: 'Why does Chandan's village bury the leaf plates but should never bury plastic?' (Leaves are eaten by tiny living things and become food for plants; plastic stays as plastic and harms soil and animals.) Mix the soil from the pot into a plant pot at home.",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 4: A situation to improve (page 16)",
+          "mins": 10,
+          "do": "Do activity 4 on page 16 as a family. Copy the table: Group, Situation, Activity, Your role. Your child picks one real problem near home (an overflowing garbage point, a broken bench, a bare patch with no trees, stray dogs with no water bowl, plastic in the drain) and plans one thing the family or building could do together, with a role for each person. Then ask (a) 'Do you think working together can make your activities more useful? Give reasons.' and (b) 'How will your involvement help the community?' Finish Activity a1 by adding this plan to the helpers map. If possible, pick a date to actually do it.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Book Activity 5: A craft from our region (page 16)",
+          "mins": 4,
+          "do": "Do activity 5 on page 16: ask a grandparent or elder on the phone about one special skill or craft famous in your region (for example Madhubani painting in Bihar, Warli painting in Maharashtra, blue pottery in Jaipur, bamboo and cane work in Assam and Tripura, Channapatna toys in Karnataka, Kalamkari in Andhra Pradesh). Your child asks: 'Who makes it? What material comes from nature? Does the whole family or village help?' Add one line to the notebook and to Activity a4 if the craftsperson can be one of the helpers interviewed."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page with your child and look at it together for one minute, then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 1 locality walk and the Day 3 workers-and-tools table next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 7,
+          "do": "Do Worksheet ws3 (challenge) sections A and B now, and section C (comparing views) at bedtime or tomorrow. There is no single right answer for the 'what if' and 'comparing views' items; praise answers that use evidence from this week, such as the pond game, the straw bridge or the ant test.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 8,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. In 5 minutes they must teach, using real things from the week: the helpers map, the poster, the straw bundle, the manure-test results and the leaf plate. They should cover: how people and places in a locality depend on each other; what Van Mahotsav is and why it is in July; why working together (the Kanker bridge, the ants) achieves more than one alone; and why leaves go into a pit but plastic must not. Ask two 'student' questions: 'Why did the pond run out of fish the first time?' and 'Why did ten straws hold so much more than one?' End by finishing Activity a4 over the next two weeks: interview two more helpers and make the photo-story.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Textbook page 16", "the manure-test pot and old newspaper", "the helpers map, poster, straw bundle and leaf plate from the week", "worksheet ws3", "a phone to call an elder"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "People, places and helping hands",
+      "day": 4,
+      "sections": [
+        ["A. Places in our locality", [
+          {"t": "match", "p": "Match each place to how it helps the community.", "pairs": [["Road", "Connects people and lets goods move from place to place"], ["Health centre", "Treats illness and gives vaccines"], ["Police station", "Keeps people safe"], ["Shop", "Sells food and things for daily needs"], ["School", "Helps children learn"]]},
+          {"t": "fill", "p": "Places that belong to everyone, like parks and bus stops, are called ____ places.", "a": ["public"]},
+          {"t": "write", "p": "Name one public place near your home. Write two ways you can help keep it clean and safe.", "lines": 3}
+        ]],
+        ["B. Van Mahotsav", [
+          {"t": "fill", "p": "Van Mahotsav is celebrated every year from 1 July to ____ July.", "a": ["7", "seven"]},
+          {"t": "mcq", "p": "Why is Van Mahotsav held during the rainy season?", "opts": ["Schools are closed", "The wet soil and rain help young saplings grow roots", "Trees are cheaper in July", "It is too cold to plant in winter"], "a": 1},
+          {"t": "mcq", "p": "Mallika wants to plant trees in the park mainly so that:", "opts": ["The park looks dark", "Her grandmother and friends enjoy their walks and have better air to breathe", "The children can climb them", "Noor can sell more saplings"], "a": 1}
+        ]],
+        ["C. Workers and tools", [
+          {"t": "match", "p": "Match each worker to a tool or material they use.", "pairs": [["Mason", "Trowel, bricks and cement"], ["Carpenter", "Wood, nails and hammer"], ["Electrician", "Wires and screwdriver"], ["Gardener", "Khurpi and watering can"]]},
+          {"t": "mcq", "p": "How did the people of Kanker cross the river after it overflowed in 2024?", "opts": ["They waited for the government to send a boat", "The whole community built a bamboo and stone bridge in two days", "They swam across", "They moved to another village"], "a": 1}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Living together: new cases",
+      "day": 7,
+      "sections": [
+        ["A. Who depends on whom?", [
+          {"t": "write", "p": "The bus driver in your area falls ill and no bus runs for a week. Name three people whose lives change, and how.", "lines": 3},
+          {"t": "sort", "p": "Sort these by what they are.", "items": ["Park", "Mason", "Bus stop", "Electrician", "Post office", "Gardener", "Market", "Nurse"], "cats": ["Public place", "Occupation"]},
+          {"t": "mcq", "p": "A farmer grows tomatoes. Who does the farmer depend on to get the tomatoes to your kitchen?", "opts": ["Only the farmer's family", "The truck driver, the mandi trader and the vegetable seller", "Only the police", "Nobody"], "a": 1}
+        ]],
+        ["B. Working together", [
+          {"t": "write", "p": "In our straw test, why did a bundle of straws hold far more coins than one straw? How is this like the Kanker bridge?", "lines": 3},
+          {"t": "table", "p": "Plan a cleanliness drive for your building. Write who does what.", "cols": ["Person", "Job", "Tool or material"], "rows": 4},
+          {"t": "fill", "p": "A person who offers to do a job for the community without being paid is a ____.", "a": ["volunteer"]}
+        ]],
+        ["C. Colonies and compost", [
+          {"t": "match", "p": "Match each colony member to its job.", "pairs": [["Queen ant", "Lays the eggs"], ["Worker ant", "Collects food and cares for the young"], ["Soldier or guard ant", "Protects the nest"], ["Older worker bee", "Flies out to collect nectar"]]},
+          {"t": "sort", "p": "Which of these will rot into manure in a pit, and which will not?", "items": ["Banana leaf", "Vegetable peels", "Plastic plate", "Sal-leaf pattal", "Steel spoon", "Dry flowers", "Polythene bag", "Tea leaves"], "cats": ["Becomes manure", "Does not rot"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles, what ifs and scientists who disagree",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "mcq", "p": "In our ant test, the first ant found the sugar after 4 minutes but after 15 minutes there were 30 ants. What best explains this?", "opts": ["30 ants found it by luck at the same time", "The first ant went back and laid a scent trail that others followed", "Ants can see sugar from far away", "The sugar grew bigger"], "a": 1},
+          {"t": "write", "p": "Pigeons feeding in a group can spend more time pecking and less time looking around than a pigeon feeding alone. Explain why.", "lines": 3},
+          {"t": "fill", "p": "In the pond game, the fish ran out fastest when the players were not allowed to ____ and make a rule.", "a": ["talk", "speak", "discuss"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if every family in Chandan's village used plastic plates at the feast instead of banana leaves, and buried them in the pit? What would happen to the pit after one year?", "lines": 3},
+          {"t": "write", "p": "What if everyone in your locality decided to do only their own work and never help with shared places? Describe the park after one year.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Garrett Hardin said people sharing a pasture will always ruin it. Elinor Ostrom found many villages that shared forests and water well for hundreds of years. Using our pond game, write what made the difference.", "lines": 4},
+          {"t": "mcq", "p": "Which of these would be the best evidence for Elinor Ostrom's view?", "opts": ["One village pond that dried up", "Many villages around the world that kept their shared forests healthy for a long time, using their own rules", "A story about a greedy farmer", "A picture of a cow"], "a": 1},
+          {"t": "write", "p": "W.D. Hamilton said worker ants help because the young ones they raise are their close family. What could you look for in nature to test this idea?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "What turns into manure?",
+      "day": 1,
+      "question": "Chandan's village buries the leaf plates from the feast in a pit (page 11). Which things rot into manure in soil, and which do not?",
+      "need": ["a bucket or large pot of garden soil", "a piece of banana leaf or other large leaf", "a handful of vegetable peels", "a small square of newspaper", "a piece of plastic bag", "4 ice-cream sticks and a marker", "an old spoon", "water"],
+      "steps": [
+        "Bury the four items side by side, about a hand's depth down, in damp soil. Mark each spot with a labelled ice-cream stick.",
+        "Keep the pot in the shade. Sprinkle water every two days so the soil stays damp but not muddy.",
+        "Every two or three days, gently scrape the soil off one or two items, look, write the date and what you see, and cover them again.",
+        "On Day 6, dig up all four, draw them, and bury them again.",
+        "On Day 8 (or after two more weeks), dig them all up and fill in a results table: item, Day 1, last day, 'becomes manure?'."
+      ],
+      "predict": "Ask your child to guess first: which item will disappear first? Which will look exactly the same at the end? Write the guesses on a slip and keep it with the pot.",
+      "observe": "Look for softening, darkening, holes, white or green fuzz (mould), a sour smell, and small animals such as earthworms, ants or tiny white mites. Peels usually break down first, then the leaf and the newspaper; the plastic does not change at all.",
+      "why": "Soil is full of living things too small to see, such as bacteria and fungi, along with earthworms, beetles and mites. They feed on anything that was once alive: peels, leaves and newspaper (which is made from wood). As they eat, they break it into tiny pieces and leave behind dark, crumbly stuff full of the nutrients that plants need. That is manure, or compost. Water and warmth make them work faster, which is why a damp pit works better than a dry heap. Plastic is made from oil in a factory, and almost no living thing in the soil can eat it, so it stays for hundreds of years, only breaking into smaller and smaller bits. A banana-leaf feast feeds next year's crops; a plastic-plate feast leaves rubbish behind for the rest of your life.",
+      "safety": "Wear gloves or wash hands well with soap after touching the soil and rotting things. Do not smell the rotting items from very close.",
+      "time": "12 min to set up + 3 min checks on Days 2, 3, 5 + 6 min looks on Days 6 and 8"
+    },
+    {
+      "id": "e2",
+      "title": "One straw or a bundle? The bamboo-bridge test",
+      "day": 4,
+      "question": "The Kanker community built a strong bridge from bamboo poles (page 9). Do many weak sticks tied together hold more than the same number used one at a time?",
+      "need": ["10 paper straws (or 10 thin paper tubes rolled and taped)", "4 rubber bands", "a small plastic bag and a paper clip", "about 40 one-rupee or two-rupee coins", "2 equal stacks of books", "a ruler"],
+      "steps": [
+        "Make two equal stacks of books with a 15 cm gap between them.",
+        "Lay one straw across the gap. Hang the plastic bag from its middle with the paper clip.",
+        "Guess how many coins it will hold, then add coins one at a time until the straw bends badly or the bag touches the table. Record the number.",
+        "Tie 5 straws into a bundle with a rubber band near each end. Guess, then test the same way.",
+        "Tie all 10 into a bundle. Guess, then test.",
+        "Make a table: number of straws, guess, coins held. Work out: coins held ÷ number of straws."
+      ],
+      "predict": "Ask your child to guess first: if one straw holds 3 coins, will 10 straws hold 30 coins, fewer, or more?",
+      "observe": "Record coins held for 1, 5 and 10 straws. Often the bundle holds as much as or more than the single-straw number multiplied by the number of straws, because the tied straws cannot bend or roll on their own.",
+      "why": "A single straw bends easily because it is thin; once it starts to bend, it folds. When straws are tied tightly together, the load is shared between them, and they also hold each other straight, so none of them can buckle on its own. A thick bundle is also much harder to bend than a thin one. Bamboo is itself a natural tube: a hollow stem with hard joints (nodes) that stop it from folding. Tie many bamboo poles together and rest them on stones, and you get a bridge strong enough for people and cycles. The same rule works for communities: each person can do a little, but people who share the load and support each other can carry far more.",
+      "safety": "Keep coins away from very young siblings, who may swallow them.",
+      "time": "17 min"
+    },
+    {
+      "id": "e3",
+      "title": "Ant teamwork test",
+      "day": 5,
+      "question": "How do ants find food, and do they work as a team to bring it home? (Builds on the ant colony box, page 10.)",
+      "need": ["a few grains of sugar", "a biscuit crumb the size of a pea", "a tiny piece of cucumber or fruit", "3 small squares of paper to put the baits on", "a phone stopwatch", "notebook"],
+      "steps": [
+        "Find an ant trail outdoors or near a door. Put the three baits on paper squares about a hand's length apart, a little way off the trail.",
+        "Start the stopwatch. Write down the time when the first ant reaches each bait.",
+        "Count the ants on each bait at 5, 10 and 15 minutes.",
+        "Watch the biscuit crumb closely: do ants carry it alone, break it into bits, or pull it together?",
+        "Watch two ants meeting on the trail: do they touch antennae?",
+        "Afterwards, pick up the papers and baits so the ants do not come into the house."
+      ],
+      "predict": "Ask your child to guess first: which bait will ants find first? Will one ant tell the others? How?",
+      "observe": "Record the time to the first ant at each bait and the count at 5, 10 and 15 minutes. Usually one 'scout' ant finds a bait, and then the number rises quickly as more ants follow the same path. Sugar is often the most popular.",
+      "why": "Many ants that find food lay a chemical scent trail (a pheromone) from the food back to the nest by touching the tip of their body to the ground. Other workers smell the trail with their antennae and follow it, and each one that finds food adds more scent, so a good food source gets a stronger and stronger trail and more ants. When the food is gone, ants stop adding scent and the trail fades. No ant is in charge: hundreds of ants following simple rules make the whole colony act cleverly. That is why we see a line of ants and not ants wandering everywhere. A large crumb is often broken up or pulled by several ants together.",
+      "safety": "Some ants bite or sting (the red fire ants and some big black ants). Watch from a little distance and do not put fingers on the trail. Wash hands afterwards.",
+      "time": "18 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Our helpers-and-places map",
+      "day": 1,
+      "mins": 15,
+      "need": ["a large sheet of paper or chart paper", "pencil and colours", "notebook notes from the locality walk"],
+      "steps": [
+        "Draw your home in the middle of the sheet.",
+        "Draw the places you saw on the walk around it: shop, road, clinic, school, park, bus stop, temple or mosque or church, post office.",
+        "Next to each place, draw or write the person who works there.",
+        "Draw arrows between places and people that need each other, and write on each arrow what moves along it (vegetables, letters, children, medicines).",
+        "On Day 8, add your family's 'make a difference' plan in a star at the spot where it will happen."
+      ],
+      "outcome": "A hand-drawn map of your locality that shows not just where things are but who depends on whom."
+    },
+    {
+      "id": "a2",
+      "title": "Van Mahotsav invitation poster (Book Activity 2, page 6)",
+      "day": 2,
+      "mins": 15,
+      "need": ["chart paper or an A4 sheet", "crayons or sketch pens", "pictures of local trees (optional)"],
+      "steps": [
+        "Write a big title, such as 'Come, Plant a Tree!'.",
+        "Write what, when (a date between 1 and 7 July), where and why.",
+        "Add 'What to bring': gloves, a khurpi, a bucket, a sapling.",
+        "Draw at least one tree that grows in your region and label it in English and your home language.",
+        "Put the poster up on the fridge, the building notice board or the gate."
+      ],
+      "outcome": "A clear, colourful invitation poster that answers what, when, where, why and what to bring."
+    },
+    {
+      "id": "a3",
+      "title": "Leaf plate (pattal) from nature (page 14)",
+      "day": 7,
+      "mins": 15,
+      "need": ["6–8 large clean fallen leaves (sal, banana, teak, banyan or palash)", "toothpicks or short pieces of broom stick (seenk)", "a heavy book"],
+      "steps": [
+        "Wipe the leaves clean and flatten them overnight under a heavy book.",
+        "Place one leaf shiny side up in the middle.",
+        "Overlap the other leaves around it in a circle, like petals, each covering the edge of the one before.",
+        "Pin the overlaps together with short pieces of seenk or toothpicks pushed in and out of the leaves.",
+        "Trim any long tips with scissors to make a round plate.",
+        "Use it for a dry snack like peanuts or poha, then put it in the manure pot."
+      ],
+      "outcome": "A home-made leaf plate like those used at community feasts across India, and a child who knows where it goes after use."
+    },
+    {
+      "id": "a4",
+      "title": "Community helpers photo-story",
+      "day": 3,
+      "mins": 15,
+      "need": ["notebook", "a phone camera (an adult takes the photos)", "paper and stapler for a booklet"],
+      "steps": [
+        "Interview one family member about their work using the three questions on page 8 and two of your own.",
+        "Over the next two weeks, interview two more helpers you meet, such as the vegetable seller, the building guard, the postman or the mali, with an adult present.",
+        "Ask each: 'What do you like about your work? What tools do you use? What is hard? Who do you depend on?'",
+        "With their permission, take one photo of each helper at work, or draw them.",
+        "Make a booklet: one page per helper, with the photo or drawing and three sentences in your own words.",
+        "Give a thank-you note to each helper."
+      ],
+      "outcome": "A booklet or short phone video about three real people who keep your community running, in their own words."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Elinor Ostrom (1933–2012), USA, and Garrett Hardin (1915–2003), USA",
+      "idea": "In 1968 the biologist Garrett Hardin wrote a famous essay in the journal Science called 'The Tragedy of the Commons'. He argued that when a pasture is shared by everyone, each herder gains by adding one more cow, so they all keep adding cows until the pasture is ruined; he said the only answers were government control or dividing it up as private property. The political scientist Elinor Ostrom studied real communities that share forests, fish, grazing land and irrigation water, such as farmers sharing canals in Nepal and herders sharing alpine meadows in Switzerland. In her 1990 book 'Governing the Commons' she showed that many communities look after shared resources well for centuries, by making their own rules, watching that people follow them, and settling arguments locally.",
+      "then": "Hardin's idea was very popular and was used to argue that local people could not be trusted with their own forests and pastures. Many economists at first did not take Ostrom's field studies seriously, partly because she was not a trained economist.",
+      "now": "In 2009 Ostrom became the first woman to win the Nobel Memorial Prize in Economic Sciences. Her finding is widely accepted: shared resources are not always ruined, and communities that can talk, make fair rules and check each other often manage them well. She also showed that this does not always work, especially when the group is very large or outsiders ignore the rules.",
+      "status": "accepted",
+      "ask": "In our pond game, the fish lasted longer when the players could talk and make a rule. What would you need to see in real villages before you believed that people can share a pond well without anyone forcing them?",
+      "day": 6
+    },
+    {
+      "id": "v2",
+      "who": "Gaura Devi (about 1925–1991) and the women of Reni village, Uttarakhand, India",
+      "idea": "In the early 1970s, villagers in the Garhwal Himalaya started the Chipko movement ('chipko' means 'to hug' or 'cling to'), refusing to let contractors cut their forests. In March 1974, when the men of Reni village were away, Gaura Devi led the village women into the forest and stood in the way of the workers sent to fell the trees, refusing to move. Their point was that the forest was not just timber to be sold: it gave the village firewood, fodder and water, and its roots held the steep slopes together.",
+      "then": "At the time, forests were mostly managed by the government for timber, and village people's needs were often ignored. The protest was at first seen as a local quarrel, but it spread to other villages, and leaders such as Chandi Prasad Bhatt and Sunderlal Bahuguna carried its message across India and the world.",
+      "now": "In 1980 the government stopped the felling of green trees in those Himalayan forests for 15 years. Today scientists and governments widely accept that forests protect soil and water and that local communities are often among their best protectors. India's Forest Rights Act of 2006 gives village communities the right to protect and manage their community forests.",
+      "status": "accepted",
+      "ask": "The Reni women could not stop a contractor alone, but together they did. Why do you think a group of people standing together is harder to ignore than one person?",
+      "day": 2
+    },
+    {
+      "id": "v3",
+      "who": "W.D. Hamilton (1936–2000), UK, and the 2010 challenge by Martin Nowak, Corina Tarnita and E.O. Wilson, USA",
+      "idea": "Charles Darwin was puzzled by worker ants and bees, which spend their lives helping the colony but usually never have young of their own. In 1964 the young British biologist W.D. Hamilton offered an answer called kin selection: helping close relatives survive is another way of passing on your own family features, because relatives share many of them. Worker ants raise their own sisters and brothers. In 2010 Martin Nowak, Corina Tarnita and the famous ant scientist E.O. Wilson argued in the journal Nature that Hamilton's maths was not needed to explain ant colonies and that other explanations, focused on the whole colony living and working together in one nest, worked better.",
+      "then": "Hamilton's idea was not widely noticed at first and took some years to catch on; by the 1970s it was at the heart of the study of animal behaviour. The 2010 paper caused an uproar: in 2011 more than 130 scientists signed a reply in Nature defending Hamilton's idea.",
+      "now": "Most scientists who study animal behaviour still accept kin selection as an important explanation for why animals help relatives, and it is used to study everything from ants to birds that help their parents raise chicks. A smaller group still argues that other explanations matter more. The argument is still going on.",
+      "status": "debated",
+      "ask": "If Hamilton is right that animals help their relatives most, what would you expect to see if a worker ant met a baby ant from a different colony? What experiment could test this?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "Name four public places in your locality and say how each one helps people.", "a": "For example: road (connects people and lets goods move), school (helps children learn), health centre (treats illness), park (a place to play, walk and meet), bus stop (lets people travel), post office (sends letters and parcels)."},
+    {"q": "What is Van Mahotsav, and why is it held in the first week of July?", "a": "India's tree-planting festival, 1–7 July. It is in the rainy season so the soil is wet and the saplings get rain to grow roots."},
+    {"q": "Name three people who helped get the park ready and what each did.", "a": "Sameer fixed the benches with wood and nails, Babita repaired the street light, and Noor brought saplings from her nursery to plant along the boundary (also cleaners, painters, cooks)."},
+    {"q": "How did the people of Kanker solve the problem of the overflowing river?", "a": "In 2024 the whole community came together and built a simple, strong bridge in two days using bamboo, stones and other material, so students and villagers could cross."},
+    {"q": "Why were the banana leaves from the feast put in a pit, and why should plastic plates not go there?", "a": "Leaves are eaten by tiny living things in the soil and rot into manure that improves the soil. Plastic cannot be eaten by them, so it does not rot and stays as rubbish for hundreds of years."},
+    {"q": "How is an ant colony like a human community?", "a": "Each member has a job: some collect food, some care for the young, some protect the home, and together they make life better for all. In honeybees the jobs change as the bee gets older."},
+    {"q": "What are Bhela Ghar and Khetala?", "a": "Bhela Ghar is a hut of bamboo and hay that people in Assam build together on Uruka, the first day of Magh Bihu, before a big feast. Khetala are people in Sikkim skilled in farming who help each other harvest crops."},
+    {"q": "Garrett Hardin said shared things like a village pasture will always be ruined. What did Elinor Ostrom find?", "a": "That many real communities share forests, water and pastures well for a long time when they can talk, make their own fair rules and check that everyone follows them, though it does not always work."}
+  ]
+}

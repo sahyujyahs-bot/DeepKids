@@ -1,0 +1,692 @@
+{
+  "key": "ncert|sci|5|2",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 2,
+  "title": "Journey of a River",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 1 'Life Around Us', Chapter 2 (pages 21–37), Reprint 2026-27",
+  "summary": "The river Godavari tells its own story: it starts as a stream at Trimbakeshwar in the Western Ghats, grows with its tributaries, flows 1,465 km across five states and spreads into a delta at the Coringa mangroves on the Bay of Bengal. Your child learns how a river supports forests, farms, towns and festivals, what dams give and take away, how waste, soapy water and fertilisers pollute a river, why rivers flood and why they sometimes run dry, and what each of us can do to help.",
+  "goals": [
+    "By the end your child can trace a river from its source through its tributaries to its delta and mouth, using the Godavari map, and explain perennial and seasonal rivers.",
+    "By the end your child can list at least five ways a river supports people and wildlife, and explain why towns and cities grew up beside rivers.",
+    "By the end your child can explain what a dam and a reservoir are, and give both the benefits and the costs of dams, including for people who must leave their homes.",
+    "By the end your child can explain why river water that looks clean may not be safe, using what dissolves and what does not, and how fertilisers make a 'green blanket' that chokes river life.",
+    "By the end your child can explain why heavy rain and cleared forests lead to floods, and give flood safety steps for before, during and after a flood.",
+    "By the end your child can suggest sensible rules to keep a river clean and have enough water for everyone, and weigh two sides of a real debate about big dams."
+  ],
+  "words": [
+    ["source", "the place where a river begins, such as a spring, a glacier or a lake in the hills"],
+    ["tributary", "a smaller river or stream that joins a bigger river and adds its water to it"],
+    ["perennial river", "a river that flows all year round, like the Godavari"],
+    ["seasonal river", "a river that flows only in the rainy season and dries up in other months"],
+    ["delta", "the fan-shaped land at a river's mouth where it splits into many small streams and drops the soil it carried"],
+    ["mouth", "the place where a river ends by flowing into a sea, a lake or another river"],
+    ["mangrove", "trees that grow in salty, muddy water where rivers meet the sea; their roots stick up out of the mud to breathe"],
+    ["dam", "a strong wall built across a river to hold back its water"],
+    ["reservoir", "the big lake of water that collects behind a dam"],
+    ["dissolve", "to mix into water so completely that the pieces can no longer be seen, like sugar in tea"],
+    ["pollution", "harmful waste, such as plastic, dirty water or chemicals, that gets into water, air or soil"],
+    ["flood", "when a river overflows its banks and water covers land that is usually dry"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "I am Godavari",
+      "goal": "Meet the river as a storyteller, trace the Godavari from its source to the sea on the map, and start a slow experiment on what fertiliser does to water.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The riddle (page 21)",
+          "mins": 5,
+          "do": "Read the poem 'Where I Begin, Where I Flow' on page 21 aloud, slowly, and stop before 'Yes! I am a river.' Ask: 'Who am I?' After the answer, ask: 'Which line gave you the biggest clue?' Then ask: 'Have you ever seen a river? Which one, and where?' If not, ask about a canal, a nala or a stream after rain."
+        },
+        {
+          "kind": "read",
+          "title": "Godavari begins (page 21)",
+          "mins": 6,
+          "do": "Read the rest of page 21, where the river says: 'I am Godavari.' Stop after each idea and ask. 'Where does Godavari begin?' (At Trimbakeshwar in the Western Ghats, in Maharashtra.) 'How does a small stream become a big river?' (Rainwater and other streams join it.) 'What do we call the streams that join?' (Tributaries.) 'How long is it, and where does it end?' (1,465 kilometres, in the Bay of Bengal; it is India's second longest river after the Ganga.) Help your child picture 1,465 km: 'That is like driving from Mumbai to Kolkata… almost.'"
+        },
+        {
+          "kind": "act",
+          "title": "Map questions (page 22)",
+          "mins": 14,
+          "do": "Start Activity a1. Look at the map on page 22 together. Your child places a finger on the Brahmagiri Hills at Trimbakeshwar and slowly traces the river east to the sea, saying each state aloud. Then answer the three page 22 questions in the notebook. 1: States: Maharashtra, Telangana, Chhattisgarh, Odisha and Andhra Pradesh (as on the map). 2: A dam: the Sriram Sagar Project or the Polavaram Dam; a wildlife area: Pench National Park, Kawal Tiger Reserve or Coringa Wildlife Sanctuary. 3: Tributaries: Manjira, Indravati and Sabari. Ask: 'In which direction does Godavari flow?' (From west to east.) 'Why? Remember the mustard seeds in Chapter 1.' (The land slopes down from the Western Ghats towards the east.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the green blanket jars",
+          "mins": 12,
+          "do": "Set up Experiment e3 now, because it needs one to two weeks. Fill two identical clear jars or bottles with water from a pond, an aquarium, or a flower-pot saucer that has a little green in it (or tap water with a spoon of garden soil). Label one 'Plain' and one 'Fertiliser'. Add a small pinch of plant fertiliser (urea, NPK or a few drops of liquid plant food) to the second jar only, and stir. Put both side by side on a sunny windowsill. Ask your child to guess: 'In a week, will the jars look the same? If not, how will they differ?' Write the guess and today's date on the labels.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "A river near us",
+          "mins": 8,
+          "do": "Ask: 'Which river is nearest to our home? Where does it start and where does it end?' Look it up together on the chapter 1 map (page 12) or a phone map. Write its name in the notebook with three facts: where it starts, one city on it, and the sea or river it flows into. Ask a grandparent to tell one story or festival about it by Day 5 (Let us reflect question 2, page 37), and to remember what it was like when they were young (question 3)."
+        }
+      ],
+      "need": ["Textbook pages 21–22, and the map on page 12", "notebook and coloured pencils", "2 identical clear jars or bottles", "pond, aquarium or green-saucer water (or tap water and a spoon of soil)", "a small pinch of plant fertiliser", "labels or masking tape"],
+      "prep": [{"task": "Collect 2 jars of pond, aquarium or green flower-pot water and buy a small packet of plant fertiliser", "when": "2 days before"}]
+    },
+    {
+      "n": 2,
+      "title": "From stream to delta",
+      "goal": "Understand perennial and seasonal rivers and the delta, and watch a river carve its own path in a stream tray.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The life I hold (pages 23–24)",
+          "mins": 8,
+          "do": "Read pages 23–24. Ask: 'Why is Godavari called a perennial river?' (It flows all year.) 'What is a seasonal river?' (One that flows only in the rainy season.) Ask your child to guess why Godavari never dries: listen for 'lots of tributaries' and 'groundwater keeps feeding it'. Point out the animals and trees named: tiger, barking deer, Indian golden gecko, red sandalwood. Read how the river spreads into many small streams to form a delta and meets the salty sea at the Coringa mangrove forests. Read the box on page 23 about the Bhupen Hazarika Setu over the Brahmaputra, more than 9 km long."
+        },
+        {
+          "kind": "exp",
+          "title": "Stream tray: make a river",
+          "mins": 22,
+          "do": "Do Experiment e1. Fill a large baking tray or a plastic tub lid with damp sand (mixed with a little soil), packed into a smooth slope: high at one end on a book, low at the other. Ask your child to guess first: 'If we trickle water from the top, will it run in a straight line? What will happen where it reaches the bottom?' Poke a small hole in a bottle cap and let water drip from the top. Watch together for 5 minutes and point out: the water cuts a channel, it bends (meanders), it carries sand and drops it at the bottom in a fan shape. Say: 'That fan is a delta!' Then make the slope steeper with two books and try again. Ask: 'Which slope cut a deeper, straighter channel? Which made more bends?' (Steep: faster, straighter, deeper cut, like a mountain stream; gentle: slower, more bends and a wider delta, like the river near the sea.) Add a second trickle from the side to make a tributary join the main channel.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Stories and festivals (page 23)",
+          "mins": 7,
+          "do": "Read the part of page 23 about stories: Godavari appears in the Ramayana and the Puranas, is called Dakshina Ganga (the Ganga of the south) and is sacred to many people. In Nashik, near its source, people come to bathe in its waters during events like the Godavari Pushkaram, held once every 12 years. Nashik also hosts the Kumbh Mela. Ask: 'Why do you think so many festivals happen at rivers?' Good answers: 'Rivers gave people water, food and life, so people were thankful', 'big gatherings need lots of water'."
+        },
+        {
+          "kind": "do",
+          "title": "Label your stream tray",
+          "mins": 8,
+          "do": "Your child draws the stream tray from above in the notebook and labels it with the chapter's words: source (where the drip started), tributary, channel, bend (meander), delta and mouth (where it reached the 'sea'). Then they write one sentence comparing it to the Godavari: 'Like Godavari, my river started high, was joined by a tributary, and spread out into a delta at the end.'"
+        }
+      ],
+      "need": ["Textbook pages 23–24", "a large tray or tub lid", "sand and a little soil, slightly damp", "2–3 books to prop the tray", "a plastic bottle with a small hole in the cap", "old newspaper or a towel under the tray"],
+      "prep": [{"task": "Get a bucket of sand (building site, garden shop) and let it stay slightly damp", "when": "2 days before"}]
+    },
+    {
+      "n": 3,
+      "title": "The many ways I support lives",
+      "goal": "Learn why people settled by rivers, how the Godavari supports farms, homes, factories and livelihoods, and make a poster of it.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Green blanket jars check",
+          "mins": 3,
+          "do": "Look at the two jars from Experiment e3. Hold a white paper behind each. Ask: 'Is either jar greener or cloudier yet?' Usually not much change yet; that is fine. Your child draws both with the date.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Guess: why live near a river? (page 24)",
+          "mins": 6,
+          "do": "Read the question at the top of page 24: 'Since ancient times, people have always built their homes near rivers or water bodies. Can you guess why?' Let your child list at least four reasons before you read on. Good answers: drinking and cooking water, water for fields, fish to eat, rich soft soil left by floods, boats for travel and trade, washing and bathing. Tell them: the earliest cities of India, like Harappa and Mohenjo-daro, grew up near the Indus river and its tributaries."
+        },
+        {
+          "kind": "read",
+          "title": "How I help people (pages 24–26)",
+          "mins": 10,
+          "do": "Read pages 24–25 aloud. Then answer the four page 25–26 questions in the notebook. 1: Three ways people depend on the Godavari: drinking and household water, irrigation for crops, water for factories (and fishing, boats, electricity). 2: Occupations near the river: farmers, fishermen, boat-makers and boatmen, people in ecotourism, pilgrims and priests at the ghats, factory workers. 3: Crops near the Godavari from the pictures (rice/paddy is the biggest one in the delta; also sugarcane, cotton, turmeric, banana and coconut in parts). 4: 'Which crops grow in our region? Where does the irrigation water come from?' Find out with your child: from rain, a canal, a well, a borewell or a tank. Read the box on ecotourism: visiting nature to enjoy and learn without harming it."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 1: The river helps us poster (page 26)",
+          "mins": 20,
+          "do": "Do Activity a2, the book's Activity 1. On a big sheet or two A4 sheets taped together, your child draws a river winding from hills at the top to the sea at the bottom. Along it they draw and label at least 8 ways the river helps: homes and a water tank, farms with canals, a fishing boat and a fisherwoman, a factory, a temple ghat with a festival, a dam with electricity wires, birds and a deer drinking, a mangrove forest at the delta, a ferry carrying people. Ask them to add one thing they found on the map: 'Which national park or tiger reserve will you draw?' Stick the poster up where you will see it all week.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Pipes and canals",
+          "mins": 6,
+          "do": "Read the last line of page 24: 'My water is carried in pipes and canals, and shared by many.' Ask: 'If a town upstream takes a lot of water, who feels it?' (Towns, farmers and animals downstream.) 'If a factory upstream dumps waste, who feels it?' (Everyone downstream.) Say: 'This is why rivers belong to everyone along them. Next time we will see what happens when we build a wall across a river.'"
+        }
+      ],
+      "need": ["Textbook pages 24–26", "a big sheet of chart paper (or 2 A4 sheets), sketch pens or crayons", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Dams: storing my water, changing my flow",
+      "goal": "Understand how a dam and reservoir work, weigh the benefits against what is lost, and meet a real debate about big dams.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Dams (pages 26–27)",
+          "mins": 8,
+          "do": "Read the 'Dams' section on pages 26–27. Ask: 'How many dams store Godavari's water?' (More than 900.) 'What is a reservoir?' (The big water body that forms behind the dam.) 'What three things is the stored water used for?' (Drinking, growing crops and making electricity, even in dry seasons.) Then ask the river's own question: 'What happens to the forests, animals and people living near me when a dam is built?' (The reservoir floods the land; animals lose their homes and many people must move.) Read the box on page 31 about Hirakud dam in Odisha, one of the longest earthen dams in the world (more than 25 km)."
+        },
+        {
+          "kind": "do",
+          "title": "Build a dam in the stream tray",
+          "mins": 12,
+          "do": "Rebuild the slope from Experiment e1 in the tray. Halfway down the channel, build a small wall of clay, plasticine or packed wet soil across it. Before you drip water, ask your child to predict: 'What will happen above the wall? What will happen below it?' Drip water from the top for 3 minutes. Watch: a 'reservoir' fills behind the wall, the land behind it goes under water (put a few small stones or toy animals there as 'villages'), and below the wall the channel gets little water and the 'delta' stops growing. Now cut a small notch in the top of the dam: a gentle stream flows out, like a dam's gate. Ask: 'Who gains from this dam, and who loses?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Should we build big dams? (Medha Patkar and the Sardar Sarovar debate)",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words: the Sardar Sarovar Dam on the Narmada in Gujarat now gives water and electricity to millions, but it also flooded the villages and forests of many thousands of families, and Medha Patkar and the Narmada Bachao Andolan fought for years for those families. Make it clear that people still disagree. Ask the voice question, and ask your child to give one reason on each side before choosing.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Write: problems after a dam (page 27)",
+          "mins": 6,
+          "do": "Do the Write box on page 27: 'What problems can arise after a dam is built? How can they be solved?' Your child writes at least three problem–solution pairs. Good answers: people lose homes and land, so give them fair new land, houses and jobs before the flooding; forests and animals are drowned, so protect other forests and make corridors; fish like hilsa cannot swim upstream to lay eggs, so build fish ladders; less water and silt reach the delta, so release some water all year. Then read the line on page 27: 'When you open a tap, it is hard to imagine the journey that water has taken and the many sacrifices that were made so you could have it.'"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: the river's journey",
+          "mins": 9,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark together; for each wrong answer, open the page: source and tributaries page 21, perennial and delta page 23, uses page 24, dams pages 26–27.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 26–27 and 31", "the stream tray, damp sand and a dripping bottle", "a lump of clay, plasticine or wet soil", "small stones or toy animals", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "What pollutes me, and why it matters",
+      "goal": "Find out how waste and dirty water reach a river, interview an elder about rivers long ago, and test what dissolves in water.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Green blanket jars check",
+          "mins": 3,
+          "do": "Check the two jars of Experiment e3 against a white paper. Ask: 'Is the fertiliser jar turning greener or cloudier than the plain jar? Is there a green film on the side facing the window?' Draw both with today's date.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "What pollutes me (pages 27–28)",
+          "mins": 7,
+          "do": "Read pages 27–28 aloud, in the river's voice. Ask: 'What three kinds of things pollute the river?' (Waste, plastic, and dirty water from homes and factories.) 'Why is it dangerous even if people still use the water?' (It can make them sick.) 'What does the river say is the best way to help?' (Make less waste in the first place, using eco-friendly products.) Then do the two Write questions on page 28. 1: 'Where do the plastic wrappers and bags we litter end up?' (In drains, then in rivers and finally in the sea, where animals swallow them or get tangled.) 2: Go to the bathroom and kitchen with your child and read the labels on the soap, shampoo, dishwash and floor cleaner. Ask: 'Where does this soapy water go after the drain?' (To a sewer, a septic tank or straight into a nala that runs to a river or lake.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Discuss with an elder (page 28)",
+          "mins": 8,
+          "do": "Do the Discuss box on page 28 by phone or in person with a grandparent or older neighbour. Your child asks: 'What was the river, lake or pond near your home like when you were my age? Could you swim in it or drink from it? Were there fish? What is it like now?' Your child writes three things that have changed and one reason the elder gives. Also ask them for the story or festival you asked for on Day 1."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 2: our bin and the river (page 29)",
+          "mins": 8,
+          "do": "Do the book's Activity 2. Your child looks (with gloves, or just by listing) at what went into the home waste bin today: vegetable peels, a chips packet, a milk pouch, a used battery, old medicine, a broken toy, paper. For each, they write how it would harm life if it reached a river: peels rot and use up the oxygen fish need; plastic packets choke turtles and fish and never fully break down; batteries and medicines leak poisons; paper is less harmful but clogs drains. Ask: 'Which of these could we stop using or throw away in a better way?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Activity 3: what dissolves? (pages 29–30)",
+          "mins": 19,
+          "do": "Do Experiment e2, which begins with the book's Activity 3. Set out six clear glasses of water. Ask your child to guess first, for each, whether it will dissolve: sugar, cooking oil, salt, sand, haldi, and a few drops of liquid soap. Write the guesses in a table. Add one spoon of each, stir 20 times, wait one minute and look. Answer the book's questions: 'Which one appears clear?' (Sugar and salt; you cannot see them but you can taste them.) Oil floats as a layer; sand sinks; haldi colours the water and some settles; soap makes it cloudy and bubbly. Fill the page 29–30 table: dissolve / do not dissolve. Then read page 30: 'Harmful things like chemicals or dirty soapy water can hide in rivers… even when my water looks clean, it might still carry things that can hurt the living beings.' Ask: 'So can you tell by looking whether water is safe to drink?' (No.)",
+          "ref": "e2"
+        }
+      ],
+      "need": ["Textbook pages 27–30", "6 clear glasses, a spoon", "sugar, cooking oil, salt, sand, haldi, liquid soap", "a phone to call an elder", "notebook"],
+      "prep": [{"task": "Ask a grandparent or elder if they can talk with your child about rivers when they were young", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "The green blanket",
+      "goal": "See how fertilisers make water plants and algae grow out of control, learn how a scientist proved what causes it, and build a sand-and-charcoal filter while learning its limits.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Activity 4: which river is healthy? (page 30)",
+          "mins": 7,
+          "do": "Look at the two pictures in Activity 4 on page 30: a clear river and one covered by a 'green blanket'. Ask the book's questions. 'Which river looks healthy and why?' (The clear one; light reaches the bottom and the water moves freely.) 'How do so many plants grow in water?' Let your child guess. 'What happens when too many plants grow?' Then read the text below the pictures: fertilisers from fields wash into the river, plants and tiny living things grow very fast and cover the surface, and this slowly chokes the life inside, so fish find it hard to breathe."
+        },
+        {
+          "kind": "exp",
+          "title": "Green blanket results",
+          "mins": 7,
+          "do": "Look at Experiment e3. By now the fertiliser jar is often clearly greener, cloudier or has a green scum or film; the plain jar much less. Your child draws both and writes what is different. Ask: 'We only changed one thing. What was it?' (The fertiliser.) 'So what caused the extra green?' Read the 'why' of e3 together, and explain the key surprise: the fish do not die because of the green plants themselves, but because when that huge crop of algae dies and rots, the rotting uses up the oxygen in the water. Keep watching the jars for one more week if you like.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "The lake with a curtain (David Schindler)",
+          "mins": 9,
+          "do": "Tell the story in Voice v2: in Canada, a scientist split a real lake in two with a plastic curtain and fed each half different things, to settle an argument about what was causing green blankets. A photo from the air showed one half bright green and the other half clear. Ask the voice question. Then link back to the soap labels you read on Day 5: many detergents used to contain a lot of phosphate, which is why many countries limited it.",
+          "ref": "v2"
+        },
+        {
+          "kind": "exp",
+          "title": "Can we clean dirty water? Build a filter (page 37, question 7)",
+          "mins": 15,
+          "do": "Do Experiment e4, which answers Let us reflect question 7 on page 37. Cut a plastic bottle in half and turn the top half upside down into the bottom half like a funnel. Inside the cap end, layer: a piece of cotton or cloth, a layer of crushed charcoal (from a coal or a burnt-out agarbatti stand, wrapped in cloth and crushed), then fine sand, then coarse sand, then small pebbles on top. Make 'river water' with soil, a few leaves, a pinch of haldi and a pinch of sugar. Ask your child to guess first: 'Will the water come out clean? Will it be safe to drink?' Pour it through slowly. The water usually comes out much clearer. Then ask: 'Taste test? NO. Why not?' (The filter removes mud and bits, but dissolved things like sugar, salt and chemicals, and invisible germs, can pass through. Drinking water must be boiled or treated properly.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "talk",
+          "title": "Write: three things I can do (page 31)",
+          "mins": 7,
+          "do": "Read the 'Do you know?' box on page 31 about the Namami Gange programme for cleaning the Ganga. Then do the Write box on page 31: 'Can you list three things you can do to protect the water bodies near you?' Push for specific, doable answers: 'never throw plastic or puja flowers into the river or lake; put them in a compost pit or a collection bin', 'use less soap and detergent and choose phosphate-free', 'pick up litter at the lake with an adult on a Sunday', 'do not let used cooking oil go down the drain'."
+        }
+      ],
+      "need": ["Textbook pages 30–31 and 37", "the two green-blanket jars", "a plastic bottle and scissors (adult use)", "cotton or cloth, a few pieces of charcoal, fine sand, coarse sand, small pebbles", "soil, leaves, haldi and sugar for 'river water'"],
+      "prep": [{"task": "Wash sand and pebbles, and crush a few pieces of charcoal wrapped in an old cloth", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "When a river floods",
+      "goal": "Understand why heavy rain and bare land cause floods, test it with two trays, weigh a scientific debate about forests and floods, and learn flood safety.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "When a river floods (pages 31–32)",
+          "mins": 6,
+          "do": "Read the 'When a River Floods' section on pages 31–32. Ask: 'What happens to the river when there is too much rain?' (It becomes faster, deeper and bigger and overflows its banks.) 'What does a flood damage?' (Houses, fields, roads; people and animals must leave their homes.) Look at the two pictures on page 32 and read their labels: trees slow down rainwater and help the soil soak it up; without trees water runs off the land faster and causes flooding."
+        },
+        {
+          "kind": "exp",
+          "title": "Trees or bare land? The runoff test",
+          "mins": 14,
+          "do": "Do Experiment e5. Fill two identical trays or cut plastic bottles lying on their side with the same soil. Cover one with a mat of grass sods, moss, or thickly packed leaves and small plants (our 'forest'); leave the other bare. Prop both at the same slope and put a cup under each low end. Ask your child to guess first: 'If the same rain falls on both, which cup will fill more, and which water will be muddier?' Pour 2 cups of water slowly over each through a strainer or a bottle with holes. Compare the cups: the bare tray usually sends more water, faster, and it is brown with soil; the covered tray sends less and clearer water, because more soaked in.",
+          "ref": "e5"
+        },
+        {
+          "kind": "think",
+          "title": "Do forests stop big floods? (a live debate)",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: everyone agrees that our runoff test is right for small and medium rain; but scientists still argue about whether forests can stop the biggest floods, when the ground is already soaked for days. Ask the voice question. Help your child see that both can be partly right: 'Forests help a lot for most rain, but in a giant flood even a forest's soil fills up.'",
+          "ref": "v3"
+        },
+        {
+          "kind": "do",
+          "title": "Activity 5: flood problems match (page 32)",
+          "mins": 7,
+          "do": "Do the matching in Activity 5 on page 32, remembering the note that one problem can affect more than one thing. Expected matches: dirty water to (b) safe drinking and (f) health; broken roads to (d) travel and transport; lost crops to (g) food supply; no electricity to (e) lights, fans and phones; spread of diseases to (f) people's health; damaged homes to (a) shelter; schools shut to (c) learning. Ask: 'Which problem lasts longest after the water goes down?' (Disease and lost crops; and families must rebuild homes.)"
+        },
+        {
+          "kind": "read",
+          "title": "Activity 6: flood safety tips (page 33)",
+          "mins": 10,
+          "do": "Read the flood safety chart on page 33 in its three columns: before, during and after. Your child says each tip in their own words and why. Ask: 'Why should we not walk or drive in flood water?' (It can be deeper and faster than it looks, can hide open drains and manholes, and may carry electricity from fallen wires.) 'Why disconnect electricity and gas?' (To stop shocks and fires.) 'Why clean and disinfect after?' (Flood water carries sewage and germs.) Then ask your child to pick the 3 tips that matter most for your own home and write them on a card for the fridge."
+        }
+      ],
+      "need": ["Textbook pages 31–33", "2 identical trays or 2 large plastic bottles cut lengthwise", "soil, grass sods or moss or many leaves and small plants", "2 cups to catch water, a strainer or a bottle with holes", "a card and pen"],
+      "prep": [{"task": "Dig up two small squares of grass or collect a bag of leaves and moss for the runoff test", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Sarpanch for a day, and when a river runs dry",
+      "goal": "Plan for floods as a leader, pack an emergency kit, and understand water shortage and the small daily actions that save water.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 7: Sarpanch or Corporator role-play (page 34)",
+          "mins": 14,
+          "do": "Do the role-play in Activity 7 on page 34. Your child is the Sarpanch of your village or the Municipal Corporator of your ward; you and any family members are villagers who come with worries. They must announce what they will do to: prevent flooding (clean drains before the monsoon, stop building on lake beds and river banks, plant trees, keep open soil), prevent damage (warnings on loudspeakers and phones, sandbags, raised platforms), keep elderly people and people with disabilities safe (a list of who needs help, volunteers assigned to each, ramps and boats ready), and keep animals safe (untie cattle, move them to higher ground with fodder). Play a worried grandmother who cannot walk fast, and a farmer with three cows, and see how the 'Sarpanch' answers."
+        },
+        {
+          "kind": "do",
+          "title": "Pack an emergency kit (page 34)",
+          "mins": 8,
+          "do": "Look at the 'Have a Disaster Emergency Kit Ready' picture on page 34. Together, put together a real kit in a bag (or make a checklist if you cannot spare things): a torch with batteries, a power bank, drinking water bottles, dry food (chana, biscuits), basic medicines and a first-aid kit, copies of important papers in a plastic bag, a whistle, a small rope, a change of clothes, ORS packets, a list of emergency phone numbers (112 is India's emergency number). Your child writes the list and you agree on where the bag will be kept."
+        },
+        {
+          "kind": "read",
+          "title": "When a river runs dry (pages 35–36)",
+          "mins": 8,
+          "do": "Read pages 35–36. Answer the two questions aloud: 'What would you do if you had no water in your home for an entire day?' and 'What if there was no water for a week? How would you bathe, drink, cook or clean? Where would you go?' Read the 'Do you know?' box: in 2019 Chennai's reservoirs dried up and water came by train from other districts, while in 2022 heavy rain flooded parts of Bengaluru. Ask: 'Can one country have both too little water and too much water at the same time?' (Yes; it depends on where and when rain falls and on how well we store it.) Read the caption about hilsa fish that swim from the sea into rivers to lay eggs, and ask how a dam could affect them."
+        },
+        {
+          "kind": "talk",
+          "title": "Every drop counts (page 36)",
+          "mins": 5,
+          "do": "Read the bullet list on page 36. Do a 1-minute test: let a tap run into a bucket for the time it takes to brush teeth (about 2 minutes, or 1 minute if you are in a hurry), then measure with a 1-litre bottle. Usually several litres. Ask: 'How much is that for our whole family in a year?' Read about water ATMs and the National Water Mission."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: rivers in new cases",
+          "mins": 10,
+          "do": "Do Worksheet ws2 (stretch). It applies the chapter to new rivers and new situations. Let your child answer write items aloud while you scribe, if that helps. Praise answers that use the chapter's words (tributary, delta, reservoir, dissolve, runoff).",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 34–36", "a bag and items for an emergency kit (torch, water, dry food, first-aid, ORS, whistle, rope, document copies)", "a bucket and a 1-litre bottle", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "River Run and the river model",
+      "goal": "Play a board game that recaps the river's whole journey, build a labelled river model, and take on the challenge worksheet.",
+      "steps": [
+        {
+          "kind": "game",
+          "title": "River Run",
+          "mins": 15,
+          "do": "Play Activity a3. Draw a winding path of 30 squares on chart paper from 'Glacier/Source' to 'Delta'. Mark 4 tributary squares (jump forward 3), 3 dam squares (miss a turn), 3 pollution squares (go back 3) and 3 flood squares (roll again; an even number lets you pass). On every 5th square write a real fact to read aloud when landed on, for example: 'Godavari begins at Trimbakeshwar', 'The Ganges river dolphin is almost blind and finds its way by sound', 'Majuli in Assam is a huge river island in the Brahmaputra', 'The Kaveri is shared by Karnataka and Tamil Nadu', 'The Narmada flows west to the Arabian Sea'. Play with dice and buttons. The first to reach the delta must say what a delta is to win.",
+          "ref": "a3"
+        },
+        {
+          "kind": "act",
+          "title": "River model with a profile card",
+          "mins": 18,
+          "do": "Start Activity a4. On a tray or a cardboard sheet, use clay, atta dough or wet sand to make hills at one end and a 'sea' (blue paper) at the other. Press a winding channel from the hills to the sea, with two tributaries joining it and a fan-shaped delta with mangroves (small twigs) at the mouth. Add a dam with a reservoir, a town, fields and a forest. Use small paper flags to label: source, tributary, main river, dam, reservoir, town, delta, mouth. Then your child writes a one-page profile card of your nearest river (from Day 1): name, source, length if known, states, mouth, one dam, one use, one problem and one fix. Finish any remaining parts on the weekend.",
+          "ref": "a4"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and comparing views about dams and forests. There is no single right answer in section C; praise reasons that use evidence from our experiments ('in my runoff test…', 'in the curtain lake…').",
+          "ref": "ws3"
+        }
+      ],
+      "need": ["chart paper, sketch pens, a die and buttons", "a tray or cardboard, clay or atta dough or wet sand", "blue paper, twigs, toothpicks and paper for flags", "worksheet ws3"],
+      "prep": [{"task": "Draw the 30-square River Run board, or let your child draw it the evening before", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "Let us reflect, check and teach it back",
+      "goal": "Answer the book's reflection questions, check understanding, and have your child teach the river's journey back using the model.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect (page 37)",
+          "mins": 13,
+          "do": "Go through Let us reflect on page 37. Question 1: your state's river, its uses and dams (from the profile card). Questions 2 and 3: your child retells the elder's story and what changed (from Day 5). Question 4: 'Why did people build houses near rivers? Are rivers still as important?' (Water, food, fertile soil and transport; still important for water, farms and electricity, though we now carry water by pipes far away.) Question 5: 'One new rule to protect rivers.' Question 6: 'A time you wasted water and what you could do differently.' Question 8: 'Plan a new city by a river: keep it clean, prevent floods, ensure enough water.' Good answers: treat all sewage before it reaches the river, no building on the floodplain, keep lakes, wetlands and trees, harvest rain on every roof, store water in tanks and recharge the ground."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any miss, open the page for a minute and ask again in different words (source and tributaries page 21, delta page 23, uses page 24, dams pages 26–27, pollution pages 27–31, floods pages 31–33, dry rivers page 35). Most children get 6 or more right; fewer than 5 means repeat the Day 2 stream tray and the Day 5 dissolving test next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 15,
+          "do": "Your child is the teacher; you (or a sibling or grandparent) are the student. Using the river model, they must tell the river's journey in the first person, as the book does: 'I am the… river. I begin at… My tributaries are… I am used for… A dam stores my water but… I get polluted when… When it rains too much I… Please help me by…'. Ask two 'student' questions: 'My river water looks clear. Can I drink it?' and 'Why does a dam help a city but upset a village?' End with applause and a photo of the model."
+        },
+        {
+          "kind": "talk",
+          "title": "A river promise",
+          "mins": 5,
+          "do": "Ask your child to write one promise for the river near you (for example 'I will not throw puja flowers or plastic into the lake; we will put them in compost') and stick it beside the water promise from Chapter 1. Look at the green blanket jars one last time and then pour them out onto garden soil, not down a drain."
+        }
+      ],
+      "need": ["Textbook page 37", "the river model and profile card", "notebook, a phone for a photo"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "The journey of the Godavari",
+      "day": 4,
+      "sections": [
+        ["A. From source to sea", [
+          {"t": "fill", "p": "The Godavari begins at ____ in the Western Ghats in Maharashtra.", "a": ["Trimbakeshwar", "Trimbak"]},
+          {"t": "fill", "p": "Small streams that join a bigger river are called ____.", "a": ["tributaries", "tributary"]},
+          {"t": "mcq", "p": "Where does the Godavari end?", "opts": ["The Arabian Sea", "The Bay of Bengal", "The Rann of Kutch", "The Ganga"], "a": 1},
+          {"t": "match", "p": "Match the word to its meaning.", "pairs": [["Perennial river", "Flows all year round"], ["Seasonal river", "Flows only in the rainy season"], ["Delta", "Fan of small streams where a river meets the sea"], ["Mangrove", "Trees that grow where river water meets salty sea"]]}
+        ]],
+        ["B. How the river helps", [
+          {"t": "write", "p": "Write four ways the Godavari supports people.", "lines": 3},
+          {"t": "mcq", "p": "Why did people in the past build their homes near rivers?", "opts": ["Rivers are noisy", "For water, food, fertile soil and travel", "Because there were no hills", "To be far from forests"], "a": 1}
+        ]],
+        ["C. Dams", [
+          {"t": "fill", "p": "The big lake of water stored behind a dam is called a ____.", "a": ["reservoir"]},
+          {"t": "sort", "p": "Sort these into what a dam gives and what it can cost.", "items": ["Water in dry seasons", "Electricity", "Villages flooded", "Water for crops", "Forests drowned", "Fish cannot swim upstream"], "cats": ["Gives", "Costs"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Rivers in new cases",
+      "day": 8,
+      "sections": [
+        ["A. Read the river", [
+          {"t": "mcq", "p": "A stream in the mountains is narrow and fast and cuts a deep valley. Near the sea the same river is wide and slow. Why?", "opts": ["The sea pulls it", "The land is steep in the mountains and nearly flat near the sea", "It is colder near the sea", "Fish slow it down"], "a": 1},
+          {"t": "write", "p": "A river in Rajasthan flows only from July to September. Is it perennial or seasonal? Give one reason why it might dry up.", "lines": 2},
+          {"t": "write", "p": "In your stream tray, the water dropped sand at the bottom in a fan. Why does a river drop its soil when it reaches the sea?", "lines": 3}
+        ]],
+        ["B. Clean or not?", [
+          {"t": "sort", "p": "Will it dissolve in water?", "items": ["Sugar", "Salt", "Cooking oil", "Sand", "Detergent", "Plastic wrapper"], "cats": ["Dissolves", "Does not dissolve"]},
+          {"t": "write", "p": "A glass of lake water looks perfectly clear. Your friend wants to drink it. What would you tell them, and why?", "lines": 3}
+        ]],
+        ["C. Floods and droughts", [
+          {"t": "match", "p": "Match the flood problem to what it affects.", "pairs": [["Dirty water", "Safe drinking"], ["Broken roads", "Travel and transport"], ["Lost crops", "Food supply"], ["Schools shut", "Learning"], ["No electricity", "Lights, fans and phones"]]},
+          {"t": "write", "p": "Chennai is next to the sea and gets heavy rain, yet its reservoirs dried up in 2019. Give two reasons a city can run short of water even when it gets rain.", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "River puzzles and hard choices",
+      "day": 9,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "The fertiliser jar went green, but fish in a green-blanket river die mostly at night and after the algae die. Explain why. (Hint: what do rotting things use up?)", "lines": 3},
+          {"t": "mcq", "p": "Our sand-and-charcoal filter made muddy water clear. What can still get through?", "opts": ["Leaves", "Pebbles", "Dissolved salt, sugar and germs", "Sand"], "a": 2},
+          {"t": "fill", "p": "The Ganges river dolphin is almost blind and finds its way using ____.", "a": ["sound", "echoes", "echolocation"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a big dam stopped all the silt (soil) from reaching the Godavari delta? What might happen to the delta and the farms there over many years?", "lines": 3},
+          {"t": "write", "p": "What if every house in your city sent its rooftop rainwater into the ground? What would change in the monsoon, and in summer?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "A farmer in Gujarat says the Sardar Sarovar dam saved her crops. A family from a drowned village in Madhya Pradesh says they lost everything. Write what each would want, and one fair solution.", "lines": 4},
+          {"t": "mcq", "p": "Scientists argue about whether forests can stop the BIGGEST floods. Which evidence would help most?", "opts": ["One photo of a flood", "Records of floods over many years in similar valleys, some with forests and some without, after the same rain", "Asking one person", "Counting trees in a park"], "a": 1},
+          {"t": "write", "p": "Schindler split a lake with a curtain. Why was it better to use one lake split in two than two different lakes?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Stream tray: watch a river carve its path",
+      "day": 2,
+      "question": "How does flowing water make channels, bends and a delta, and does the steepness of the land change this?",
+      "need": ["a large tray or plastic lid", "damp sand mixed with a little soil", "2–3 books", "a plastic bottle with a small hole in the cap", "water", "newspaper or a towel underneath"],
+      "steps": [
+        "Pack damp sand into a smooth slope in the tray, high end on one book.",
+        "Let water drip steadily from the bottle at the top for 5 minutes.",
+        "Watch the channel form; note bends and where the sand ends up.",
+        "Smooth the sand, raise the high end to two or three books, and repeat.",
+        "Add a second drip from the side so a tributary joins the main channel.",
+        "Later (Day 4): build a small clay wall across the channel as a dam and watch both sides."
+      ],
+      "predict": "Ask your child to guess first: will the water run straight? What will happen to the sand it carries when it reaches the bottom? Will a steeper slope make a deeper or shallower channel?",
+      "observe": "Water cuts a channel, which bends around firmer bits. Sand is carried down and dropped where the slope flattens, building a fan (a delta). A steep slope gives a faster, straighter, deeper channel; a gentle slope gives slower water, more bends and a wider fan. With a dam, a pool forms upstream and the channel below gets little water.",
+      "why": "Moving water has energy, and the faster it moves the more sand and soil it can push and carry. On a steep slope, water rushes and digs down, as mountain streams cut deep V-shaped valleys. Where the land flattens, water slows down, loses its carrying power and drops its load, first the heavier sand, then fine mud. Near the sea, this dropped soil builds new land and the river splits into many channels around it: a delta. The Godavari and Krishna deltas are built from soil carried down from the Deccan over thousands of years, which is why they are such rich farmland. A dam traps much of this soil in its reservoir.",
+      "safety": "Work on newspaper; wipe up spills so no one slips.",
+      "time": "22 min (and 12 min for the dam on Day 4)"
+    },
+    {
+      "id": "e2",
+      "title": "What dissolves? (from Book Activity 3, page 29)",
+      "day": 5,
+      "question": "Which things dissolve in water and disappear from sight, and which do not?",
+      "need": ["6 clear glasses of water", "a spoon", "sugar, salt, cooking oil, sand, haldi, liquid soap"],
+      "steps": [
+        "Write a table: substance, my guess, what happened.",
+        "Add one spoon of each substance to its own glass.",
+        "Stir each 20 times and wait 1 minute.",
+        "Look from the side and from above. Can you still see it?",
+        "For the clear glasses, taste one drop (sugar and salt only) to prove it is still there."
+      ],
+      "predict": "Ask your child to guess first, for each one: will it dissolve and disappear, float, sink, or make the water cloudy?",
+      "observe": "Sugar and salt disappear and the water stays clear, but it tastes sweet or salty. Oil floats in a layer or drops. Sand sinks to the bottom. Haldi colours the water yellow and some settles. Soap makes the water cloudy and bubbly.",
+      "why": "When sugar or salt dissolves, it breaks into pieces so tiny (molecules and particles) that they spread out between the water's own particles, far too small to see or to be caught by cloth or sand. Oil does not mix with water at all and is lighter, so it floats. Sand is too heavy and does not break up, so it sinks. This is why river water can look clear and still be unsafe: harmful chemicals from factories, farms and our drains can be dissolved in it, invisible, just like the sugar. Germs are also too small to see. Clear is not the same as clean.",
+      "safety": "Taste only the sugar and salt glasses, and only one drop. Do not taste soap or haldi water.",
+      "time": "19 min"
+    },
+    {
+      "id": "e3",
+      "title": "The green blanket jars",
+      "day": 1,
+      "question": "What happens to water life when fertiliser washes into it?",
+      "need": ["2 identical clear jars or bottles", "pond, aquarium or green flower-pot water (or tap water with a spoon of garden soil)", "a small pinch of plant fertiliser (urea, NPK or liquid plant food)", "labels", "a sunny windowsill", "white paper"],
+      "steps": [
+        "Fill both jars with the same water to the same level.",
+        "Label them 'Plain' and 'Fertiliser' with the date.",
+        "Add a small pinch of fertiliser to the 'Fertiliser' jar only. Stir both.",
+        "Place them side by side on a sunny windowsill.",
+        "Every 2–3 days, hold white paper behind each and draw what you see.",
+        "After 1–2 weeks, compare colour, cloudiness and any green film or scum."
+      ],
+      "predict": "Ask your child to guess first: will the jars look the same after a week? If one changes, which one, and how?",
+      "observe": "Over one to two weeks, the fertiliser jar usually turns greener and cloudier, often with a green film on the side facing the light; the plain jar changes much less. Smell both at the end: the green jar may smell stale.",
+      "why": "Algae (tiny water plants) need light and nutrients to grow, especially nitrogen and phosphorus. In natural water these are scarce, which keeps algae in check. Fertiliser is made of exactly these nutrients, so when it washes from fields into a river or lake, algae and floating plants grow out of control into a 'green blanket'. This blocks light from plants below. When the huge crop of algae dies, bacteria rot it, and rotting uses up the oxygen dissolved in the water, so fish and other animals suffocate. Scientists call this eutrophication. Soapy water with phosphates and sewage do the same thing. Changing only one thing (the fertiliser) between the jars makes this a fair test.",
+      "safety": "Wash hands after handling pond water and fertiliser. Keep the jars away from younger children and pets. Pour out on garden soil at the end.",
+      "time": "12 min to set up + 3 min checks over 1–2 weeks"
+    },
+    {
+      "id": "e4",
+      "title": "Build a water filter (Let us reflect question 7, page 37)",
+      "day": 6,
+      "question": "Can layers of sand, pebbles and charcoal clean dirty water, and is cleaned-looking water safe to drink?",
+      "need": ["a plastic bottle cut in half (adult use)", "cotton or a cloth", "a few pieces of charcoal, crushed in a cloth", "fine sand and coarse sand, washed", "small pebbles", "soil, leaves, a pinch of haldi and a pinch of sugar", "2 glasses"],
+      "steps": [
+        "Turn the top half of the bottle upside down into the bottom half.",
+        "Layer inside it, from the cap upward: cotton or cloth, charcoal, fine sand, coarse sand, pebbles.",
+        "Pour clean water through first to rinse the layers; throw that water away.",
+        "Make 'river water' with soil, leaves, haldi and sugar in a glass. Keep a little aside to compare.",
+        "Pour the dirty water slowly into the filter and collect what drips out.",
+        "Compare the two glasses side by side. Do not drink."
+      ],
+      "predict": "Ask your child to guess first: will the water come out clear? Will it still be yellow from the haldi? Will it still be sweet? Is it safe to drink?",
+      "observe": "Leaves and mud are caught at the top layers; the water drips out much clearer and paler. Some colour may remain, and if an adult tastes a drop of the raw mix before filtering and compares, the sugar still passes through.",
+      "why": "Pebbles and coarse sand catch big bits; fine sand traps smaller grains of mud in its tiny gaps; charcoal has a huge, rough, sponge-like surface that grabs some colours and smells. Water treatment plants also use sand filters. But a filter like ours cannot remove what is dissolved (sugar, salt, many chemicals), and it cannot reliably stop germs, which are far smaller than the gaps. That is why drinking water must also be boiled, or treated with chlorine or UV or a proper purifier.",
+      "safety": "An adult should cut the bottle. Never drink water from a home-made filter.",
+      "time": "15 min"
+    },
+    {
+      "id": "e5",
+      "title": "Trees or bare land? The runoff test (page 32)",
+      "day": 7,
+      "question": "Does land covered with plants send less rain running off than bare land?",
+      "need": ["2 identical trays or large plastic bottles cut lengthwise", "the same soil for both", "grass sods, moss or a thick layer of leaves and small plants", "2 cups to catch water", "a strainer or a bottle with holes for 'rain'", "4 cups of water", "books to prop the trays"],
+      "steps": [
+        "Fill both trays with the same amount of soil and pat it flat.",
+        "Cover one tray fully with grass sods, moss or packed leaves and plants. Leave the other bare.",
+        "Prop both at the same slope with the low end over a cup.",
+        "Pour 2 cups of water slowly over each through the strainer, like rain.",
+        "Compare how fast water reaches each cup, how much collects, and how muddy it is."
+      ],
+      "predict": "Ask your child to guess first: which cup will fill more, and which water will be muddier?",
+      "observe": "Water usually reaches the bare tray's cup sooner and more of it collects, brown with soil. The covered tray sends less water, more slowly, and it is clearer.",
+      "why": "Leaves and plants break the force of falling drops and slow the water down, roots and dead leaves keep the soil loose and full of tiny tunnels, so more water soaks in. On bare ground, drops hit the soil hard, seal its surface, and the water rushes off downhill carrying soil with it. In a real valley, faster runoff means the river rises sooner and higher after rain, and the soil it carries fills up rivers and reservoirs. That is why the book says trees help prevent floods. In very long, heavy rains even forest soil fills up, so scientists still argue about how much forests help in the very biggest floods (see Voice v3).",
+      "safety": "Do it outdoors or on a towel. Wash hands after.",
+      "time": "14 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Trace a river on the map",
+      "day": 1,
+      "mins": 14,
+      "need": ["the map on page 22", "the India map on page 12", "notebook and coloured pencils"],
+      "steps": [
+        "Put a finger on the source and trace the river slowly to its mouth.",
+        "Say each state, tributary, dam and wildlife area as you pass it.",
+        "Answer the three page 22 questions in the notebook.",
+        "Draw a simple sketch map of the Godavari with its three tributaries and the delta.",
+        "Do the same for the river nearest your home and mark two cities on it."
+      ],
+      "outcome": "A sketch map of the Godavari and of your own river, from source to mouth, with tributaries, states and cities marked."
+    },
+    {
+      "id": "a2",
+      "title": "The river helps us poster (Book Activity 1, page 26)",
+      "day": 3,
+      "mins": 20,
+      "need": ["chart paper or 2 A4 sheets taped together", "sketch pens or crayons"],
+      "steps": [
+        "Draw a river winding from hills at the top to the sea at the bottom.",
+        "Draw at least 8 ways it helps people and wildlife along its banks.",
+        "Label each one.",
+        "Add a national park or tiger reserve from the page 22 map.",
+        "Put the poster up and add to it during the week."
+      ],
+      "outcome": "A poster of all the ways a river supports life, to display at home."
+    },
+    {
+      "id": "a3",
+      "title": "River Run board game",
+      "day": 9,
+      "mins": 15,
+      "need": ["chart paper", "sketch pens", "a die", "a button for each player"],
+      "steps": [
+        "Draw 30 squares in a winding path from 'Source' to 'Delta'.",
+        "Mark 4 tributary squares (forward 3), 3 dam squares (miss a turn), 3 pollution squares (back 3) and 3 flood squares (roll an even number to pass).",
+        "Write a true river fact on every 5th square.",
+        "Take turns to roll and move, reading out facts and obeying squares.",
+        "To win, land on the delta and explain what a delta is."
+      ],
+      "outcome": "A home-made board game that recaps the whole journey of a river and real facts about Indian rivers."
+    },
+    {
+      "id": "a4",
+      "title": "River model and river profile",
+      "day": 9,
+      "mins": 18,
+      "need": ["a tray or cardboard sheet", "clay, atta dough or wet sand", "blue paper", "twigs, toothpicks and paper for flags", "an A4 sheet for the profile"],
+      "steps": [
+        "Shape hills at one end and a sea at the other.",
+        "Press in a winding river with two tributaries and a delta.",
+        "Add a dam and reservoir, a town, fields, a forest and mangroves.",
+        "Label every part with paper flags.",
+        "Write a one-page profile of your nearest river: name, source, mouth, states, a dam, one use, one problem, one fix.",
+        "Use the model to tell the river's story on the last day."
+      ],
+      "outcome": "A 3D labelled river model and a one-page profile of a river near you."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Medha Patkar (born 1954) and the Narmada Bachao Andolan, India",
+      "idea": "The Sardar Sarovar Dam on the Narmada river in Gujarat was planned to bring drinking water and irrigation to large dry areas of Gujarat and parts of Rajasthan, and electricity to several states. Medha Patkar, a social worker, and the Narmada Bachao Andolan ('Save Narmada Movement'), which grew in the late 1980s, argued that the reservoir would drown the villages, fields and forests of many tens of thousands of families, many of them Adivasi, mostly in Madhya Pradesh and Maharashtra, and that these families were not being given fair land and homes. They held marches, long fasts and protests in the villages that were being flooded.",
+      "then": "The campaign became famous around the world. The World Bank, which was helping to pay for the dam, ordered an independent review in the early 1990s, which was very critical of how people and the environment were being treated, and the Bank withdrew in 1993. Supporters of the dam, including the Gujarat government and many farmers, said the water was badly needed and that the project would help far more people than it harmed.",
+      "now": "In 2000 the Supreme Court of India allowed the dam to be completed, on the condition that displaced families were properly resettled, and it was finished in 2017. It now supplies water and power to millions. Arguments continue about whether all affected families were fairly resettled and about how big dams should be planned. This is a live debate about values and evidence, not just science.",
+      "status": "debated",
+      "ask": "A dam helps millions of people in one place and forces thousands to leave their homes in another. What would you need to know to decide if it is fair? Who should get a say?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "David Schindler (1940–2021), Canada (lake experiment 1973–1974)",
+      "idea": "In the 1960s many lakes were turning into green, smelly soup. Some scientists and detergent companies argued that carbon or nitrogen was the cause, not the phosphate found in many detergents and in sewage. Schindler, working at the Experimental Lakes Area in Ontario, stretched a plastic curtain across the middle of a real lake (Lake 226) in 1973. To one half he added carbon, nitrogen and phosphorus; to the other half only carbon and nitrogen. Within weeks the half with phosphorus turned bright green with algae, and the other half stayed clear. An aerial photograph showed the difference plainly.",
+      "then": "The result, published in 1974, was hard to argue with because it was done in a whole lake, not a jar, and only one thing was different between the two halves. It helped persuade governments to limit phosphates in detergents and to treat sewage before it reached lakes.",
+      "now": "It is accepted that too much phosphorus (and often nitrogen too) causes 'green blankets' in lakes and rivers. Scientists still study how much nitrogen matters in each place, especially in rivers and the sea, but the main finding stands, and his whole-lake experiments are a famous example of a fair test.",
+      "status": "accepted",
+      "ask": "Why was a curtain across one lake a better test than comparing two different lakes? What could be different between two lakes that might fool you?",
+      "day": 6
+    },
+    {
+      "id": "v3",
+      "who": "Forests and floods: Corey Bradshaw and colleagues (2007) and Albert van Dijk and colleagues (2009)",
+      "idea": "Everyone agrees that plants and forest soil help rain soak in and slow runoff, as in our tray test, and that cleared hillsides send more mud into rivers. But do forests prevent big floods? In 2007, Corey Bradshaw and colleagues compared flood records from many developing countries and reported that countries that had lost more natural forest had more floods.",
+      "then": "In 2009, Albert van Dijk and colleagues re-examined the same data and argued that the link mostly disappeared once they took into account things like how many people lived in each country (more people means more floods get reported). They said that for the very largest floods, after days of heavy rain, the ground is soaked whether or not there is forest, so forests make less difference.",
+      "now": "Most hydrologists now say forests clearly reduce small and medium floods and soil erosion, help locally, and are worth protecting; how much they reduce the biggest, river-wide floods is still argued about and seems to depend on the place and the size of the storm. Protecting forests and keeping buildings off floodplains are both still advised.",
+      "status": "debated",
+      "ask": "If you found that places with fewer trees had more floods, what else could explain it besides the trees? How would you design a fairer comparison?",
+      "day": 7
+    }
+  ],
+  "check": [
+    {"q": "Where does the Godavari begin and end, and how long is it?", "a": "It begins at Trimbakeshwar in the Western Ghats in Maharashtra, and ends in the Bay of Bengal after 1,465 km; it is India's second longest river after the Ganga."},
+    {"q": "What is a tributary? Name one tributary of the Godavari.", "a": "A smaller river or stream that joins a bigger one; for example the Manjira, Indravati or Sabari."},
+    {"q": "What is the difference between a perennial and a seasonal river?", "a": "A perennial river flows all year round; a seasonal river flows only in the rainy season."},
+    {"q": "What is a delta and how does it form?", "a": "The fan-shaped land at a river's mouth where it splits into many small streams. It forms when the river slows down near the sea and drops the soil it carried."},
+    {"q": "Give one benefit and one problem of a dam.", "a": "Benefit: it stores water for drinking, crops and electricity, even in dry seasons. Problem: the reservoir floods land, forests and villages, and people and animals must leave their homes."},
+    {"q": "Why can river water be unsafe even if it looks clear?", "a": "Harmful chemicals and soapy water can be dissolved in it and invisible, like sugar in water, and germs are too small to see."},
+    {"q": "How do fertilisers harm a river?", "a": "They feed algae and water plants so they grow into a 'green blanket' that blocks light; when these die and rot, the oxygen in the water is used up and fish cannot breathe."},
+    {"q": "Why do trees help reduce flooding? Give two flood safety tips.", "a": "Leaves and roots slow rainwater and help the soil soak it up, so less rushes into the river. Tips: move to higher ground, do not walk or drive through flood water, switch off electricity and gas, keep an emergency bag ready."}
+  ]
+}

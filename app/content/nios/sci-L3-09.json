@@ -1,0 +1,556 @@
+{
+  "key": "nios|sci|3|9",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 9,
+  "title": "Care and cleanliness of external organs",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 9 (pages 114–123), 2016",
+  "summary": "Our external organs (hair, eyes, ears, nose, mouth and teeth, hands, feet, skin and private parts) each do their own job and work together. Your child learns what each one does and how to care for it: washing and combing hair, protecting eyes and ears, using a handkerchief, brushing and rinsing teeth, washing hands with soap, cutting nails, bathing, and keeping private parts clean and private. Experiments with bread, eggshells, our noses and our eyes show why these habits matter.",
+  "goals": [
+    "By the end your child can name the external organs of the head and the trunk, say what each does, and explain that the organs work together.",
+    "By the end your child can describe at least two care rules each for hair, eyes, ears, nose, mouth, hands and feet, skin and private parts, and give the reason for each rule.",
+    "By the end your child can show correct handwashing and toothbrushing and explain, from their own bread experiment, why soap matters.",
+    "By the end your child can explain why we never put sharp things in our ears or medicine in our eyes without a doctor, and why paan, gutka and tobacco harm the mouth.",
+    "By the end your child knows the correct names of their private parts, how to keep them clean, and that private parts are private: no one should touch them or ask to see them except for health or cleaning, and they should tell a trusted adult if anyone does.",
+    "By the end your child can discuss how ideas about cleanliness have changed, from Semmelweis's handwashing to the question of whether we can be 'too clean'."
+  ],
+  "words": [
+    ["external organ", "a body part on or near the outside of the body that we can see, like the eyes, ears, nose, hands and skin"],
+    ["internal organ", "a body part inside the body that we cannot see, like the heart, lungs and stomach"],
+    ["trunk", "the main part of the body below the head, from which the arms and legs come out"],
+    ["hygiene", "habits that keep our body and surroundings clean so that we stay healthy"],
+    ["lice", "tiny insects that live in hair, bite the scalp and lay eggs (nits) stuck to the hair"],
+    ["eardrum", "a thin skin stretched inside the ear that shakes when sound reaches it; it tears easily if poked"],
+    ["pupil", "the black hole in the middle of the eye that lets light in; it gets bigger in dim light and smaller in bright light"],
+    ["enamel", "the hard, shiny outer layer of a tooth; acids from food and germs can wear it away"],
+    ["datoon", "a twig, often of neem or babool, chewed at one end to make a brush for cleaning teeth"],
+    ["private parts", "the parts of the body we keep covered, which we use to pass urine and stool; they are private and belong only to us"],
+    ["pores", "tiny openings in the skin through which sweat comes out"],
+    ["ubtan", "a paste of gram flour (besan), turmeric and other natural things rubbed on the skin to clean it"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Our body from the outside",
+      "goal": "Learn what external organs are and what each does, trace a life-size body map, talk about keeping private parts private, and start the bread experiment on dirty and clean hands.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Who is the healthiest old person you know?",
+          "mins": 4,
+          "do": "Ask: 'Think of the oldest person you know who is still strong and active, maybe a Nani, Dadaji or a neighbour. What can they still do?' (Walk to the market, read the newspaper, hear well, chew roasted chana.) Read the opening paragraphs on page 114 aloud: some people are healthy even at 70 to 75 because they take care of their body and keep it clean. Ask: 'What do you think they did every day for so many years?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Start the bread and hands test",
+          "mins": 9,
+          "do": "Set up Experiment e1 first, before anyone washes their hands. You need 4 slices of bread and 4 clean zip bags or steel dabbas with lids. Label them: 'Not touched', 'Dirty hands', 'Washed with water only', 'Washed with soap'. Using a clean spoon, drop slice 1 into its bag without touching it. Your child, after playing outside or handling coins, rubs their unwashed hands all over slice 2. Then they rinse hands under water only and touch slice 3, then wash with soap for 20 seconds and touch slice 4. Sprinkle a few drops of water on each slice, seal, and keep all four in a warm dark place. Ask your child to guess which slice will grow the most mould.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "9.1 External body organs (page 115)",
+          "mins": 7,
+          "do": "Read section 9.1 on page 115 aloud up to 'we are able to lead normal life'. Ask: 'What is an external organ?' (A body part on or near the surface of the body.) 'The book divides the body into two parts. What are they?' (Head and trunk.) 'Which organs are in the head?' (Hair, eyes, ears, nose, mouth and teeth.) 'In the trunk?' (Hands, legs, feet, private parts.) 'Which external organ covers the whole body?' (The skin.) Then ask the book's question: 'How would our body look without skin?' Let your child imagine and describe it; then say: 'Skin is the body's raincoat, wall and air-conditioner all in one.'"
+        },
+        {
+          "kind": "act",
+          "title": "Trace a life-size body map",
+          "mins": 12,
+          "do": "Start Activity a1. Your child lies on a big sheet of chart paper or old newspapers taped together, and you trace round them with a marker. Your child draws in the external organs on the outline and labels each with its job: eyes (see), ears (hear), nose (smell and breathe), tongue (taste), teeth (cut and chew), hands (hold and work), legs and feet (walk), skin (protect, feel, sweat). Ask: 'Which organs are you using right now to do this?' (Eyes to see, hands to draw, skin to feel the floor, ears to hear me.) Say: 'They all work together; that is what the book calls coordination.' Stick the map on a wall; you will add care rules to it each day.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Private parts are private (page 115)",
+          "mins": 8,
+          "do": "Read the paragraph about private parts on page 115 in simple words: the parts we always keep covered, which we use to pass urine and stool, are called private parts. Teach the correct names calmly (penis and testicles for boys, vulva for girls, bottom or anus for both); correct names help children explain clearly if something is wrong. Then teach the safety rule plainly: 'Your private parts belong to you. No one should touch them, look at them or ask you to touch theirs, except a parent helping you wash or a doctor checking you with a parent present. If anyone tries, say No, get away, and tell me or another trusted grown-up, even if they said it is a secret. You will never be in trouble for telling.' Ask your child to name two trusted adults. Keep the tone matter-of-fact, the same as for any other safety rule."
+        }
+      ],
+      "need": ["Textbook pages 114–115", "4 slices of bread (no preservatives if possible)", "4 zip bags or dabbas with lids, labels, a spoon", "soap", "a large sheet of chart paper or taped newspaper, markers"],
+      "prep": [{"task": "Buy a fresh packet of bread (bakery bread without preservatives grows mould fastest) and keep 4 zip bags or dabbas ready", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Hair and eyes",
+      "goal": "Answer the book's first questions, learn how to care for hair and eyes, test what bright light does to our pupils, and check the bread.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Let's see 9.1 (page 116)",
+          "mins": 4,
+          "do": "Ask the three 'Let's see, what you have learnt 9.1' questions on page 116 aloud: name four external organs (eyes, ears, hands, legs and others); how many parts is our body divided into? (Two: head and trunk); what are private parts? (The parts we always keep hidden and covered.) Check with the answers on page 123. Then look at the bread bags from Experiment e1: anything yet? (Usually nothing on Day 2.)",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "9.2.1 Hair (page 116)",
+          "mins": 6,
+          "do": "Read the introduction to section 9.2 and the hair rules in 9.2.1 aloud. Ask: 'How often does the book say to wash hair, and with what?' (Twice a week, with a good shampoo, besan or triphala.) 'Why comb daily?' (To keep it tidy and untangled.) 'Why not very hot water in winter?' (It can hurt the scalp and dry the hair.) One honest correction: the book says lice grow in dirty hair. Scientists have found that lice live just as happily on clean hair; they spread when heads touch or when people share combs, caps and pillows. So clean hair is good for the scalp, but the way to stop lice is not sharing combs and checking often."
+        },
+        {
+          "kind": "do",
+          "title": "Comb and scalp check",
+          "mins": 6,
+          "do": "Sit your child in good light. Part their hair in a few places and look at the scalp together using a hand mirror and a second mirror behind. Look for dandruff flakes, tiny white nits stuck near the roots (nits do not brush off easily, unlike dandruff), or small red bumps. Then teach combing: start at the ends and work up, so knots do not pull. Ask: 'Why should each person have their own comb?' (So lice and scalp infections do not pass from one head to another.) Add 'Hair: wash twice a week, comb daily, own comb' to the body map from Activity a1.",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "9.2.2 Eyes (page 117)",
+          "mins": 6,
+          "do": "Read section 9.2.2 aloud. Ask: 'What should we do if dust gets into our eye?' (Do not rub; blink and wash with clean water; if it stays, see a doctor.) 'Why not rub?' (The bit of dust can scratch the eye and make a wound.) 'Why never put medicine in the eyes without a doctor?' (The wrong drops can harm the eye.) 'What should we protect our eyes from?' (Dirt, smoke, very bright light, flying insects and injury.) Add one modern rule: rest the eyes from phone and TV screens by looking at something far away every 20 minutes, and never look straight at the Sun, even during an eclipse."
+        },
+        {
+          "kind": "exp",
+          "title": "Watch your pupils change",
+          "mins": 10,
+          "do": "Do Experiment e2. In a dim room, your child looks into a mirror and notices the size of the black pupil in the middle of the eye. Ask them to guess: 'What will happen to the pupil when a light shines near your eye?' You switch on a bright light or open the curtain (never shine a torch straight into the eye; hold it to the side). Watch the pupil shrink in about a second. Switch off and watch it slowly grow. Your child draws the eye in dim light and in bright light. Read the 'why' of e2. Ask: 'So why does the book say to protect eyes from very bright light?' (Too much light can damage the inside of the eye; the pupil can only shrink so far.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Eye-care rule on the map",
+          "mins": 4,
+          "do": "Your child writes two eye rules on the body map from Activity a1, next to the eyes: 'Don't rub, wash with clean water' and 'No eye drops without a doctor'. Then teach the eye-wash: cup clean water in your hands, lower the open eye into it and blink several times. Your child practises once.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 116–117 and 123", "the bread bags", "a comb, a hand mirror and a second mirror", "a dim room, a bright lamp or a window with curtains", "markers for the body map"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Ears and nose",
+      "goal": "Learn how to care for ears and nose, find out how the nose helps us taste, hear how an ancient Indian surgeon rebuilt noses, and set up the eggshell test for tomorrow.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "9.2.3 Ear (page 117)",
+          "mins": 7,
+          "do": "Read section 9.2.3 aloud. Ask: 'Why should we never put a matchstick, pin or seenkh (broom straw) into the ear?' (It can tear the eardrum.) 'If something gets stuck in the ear, what should we do?' (Not poke it with fingers or anything else, because it can go deeper; go to a doctor.) 'What if there is pain or pus?' (See a doctor at once; don't use oil or medicine from a quack, that is, a person who pretends to be a doctor.) Make the 'clean inside' rule exact: we clean only the outer ear and the opening with a soft cloth. Earwax is not dirt; it traps dust and slowly moves out by itself. Ask: 'Why does the book say avoid loud noises?' (Very loud sounds, like crackers close by or loud music in earphones, can damage hearing for ever.)"
+        },
+        {
+          "kind": "read",
+          "title": "9.2.4 Nose (pages 117–118)",
+          "mins": 4,
+          "do": "Read section 9.2.4 aloud. Ask: 'What does the book say to do when we sneeze?' (Cover the nose with a handkerchief.) 'Why use only a clean handkerchief?' (A dirty one carries germs back to the nose.) Show the modern back-up: if there is no hanky, sneeze into the bend of your elbow, not your hand, because hands then touch door handles and food."
+        },
+        {
+          "kind": "do",
+          "title": "Sneeze spray demo",
+          "mins": 5,
+          "do": "Fill a plant spray bottle with water and a few drops of food colour. Hold a sheet of newspaper on the floor in front of you and give one quick spray towards it from your nose height: this is a sneeze. Your child sees how far the spots go. Spray again with a hanky held over the nozzle. Ask: 'How far did the sneeze go without the hanky? With it?' Add 'Nose: hanky or elbow when you sneeze' to the body map (Activity a1).",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Can you taste without your nose?",
+          "mins": 10,
+          "do": "Do Experiment e3. Peel and cut small cubes of raw apple, raw potato and raw onion (or cucumber), the same size. Your child closes their eyes and pinches their nose. You put one cube on their tongue; they chew and guess which it is, still pinching. Then repeat with the nose open. Ask them to guess first: 'Will you be able to tell apple from potato with your nose pinched?' Most children find it hard. Read the 'why' of e3 and ask: 'So which two organs work together when we taste?' (Tongue and nose.) This is the 'coordination' the book talks about on page 115.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Sushruta and the new nose",
+          "mins": 9,
+          "do": "Tell the story in Voice v1: an ancient Indian text named after the surgeon Sushruta describes how to make a new nose using a flap of skin from the cheek; much later, in 1794, a London magazine reported a nose rebuilt in a similar way, with skin from the forehead, in Pune, and English surgeons learned the method. Ask your child to touch their own cheek and forehead skin and nose skin and feel that they are alike. Then ask the voice question. Before you finish, set up Experiment e4 for tomorrow: put one whole raw eggshell (or a large piece of shell) in a glass of vinegar and another in a glass of water, and leave them overnight.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Textbook pages 117–118", "a spray bottle, water, food colour, newspaper, a handkerchief", "a raw apple, a raw potato and an onion or cucumber, a knife (adult)", "2 eggshells (or 2 raw eggs), 2 glasses, white vinegar"],
+      "prep": [{"task": "Save 2 clean eggshells (rinse them) or keep 2 raw eggs, and buy white vinegar", "when": "night before"}]
+    },
+    {
+      "n": 4,
+      "title": "Mouth and teeth",
+      "goal": "Learn the parts of the mouth and how to care for teeth and gums, see what acid does to a shell like tooth enamel, learn to brush properly, and check the main ideas with the core worksheet.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Eggshell results and the bread check",
+          "mins": 7,
+          "do": "Look at Experiment e4. The shell in vinegar has tiny bubbles on it and has become soft, thin or rubbery; the shell in water has not changed. Your child presses each gently. Read the 'why' of e4 aloud: the shell is made of a chalky mineral a bit like tooth enamel, and acid dissolves it. Ask: 'Where do acids in the mouth come from?' (Sour and sugary food, fizzy drinks, and germs that eat sugar left on our teeth and make acid.) Then check the bread bags from Experiment e1 and draw any spots.",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "9.2.5 Mouth (page 118)",
+          "mins": 7,
+          "do": "Read section 9.2.5 aloud. Ask: 'What is inside the mouth?' (Tongue, teeth, gums and palate, the roof of the mouth.) 'How often should we brush?' (Twice a day, morning and before bed.) 'With what?' (A brush and toothpaste, or toothpowder, or a datoon.) 'What should we do after every meal?' (Rinse the mouth with water.) 'Why must we never chew paan, gutka or tobacco?' (They stain and damage teeth, cause wounds in the mouth and can cause mouth cancer.) 'Why not clean teeth with coal, ash or sand?' (They are rough and scratch away the enamel.)"
+        },
+        {
+          "kind": "do",
+          "title": "Brush like a dentist",
+          "mins": 9,
+          "do": "In front of a mirror, your child brushes with a pea-sized amount of fluoride toothpaste while you guide: brush held at a slant towards the gums; small gentle circles, a few teeth at a time; outer sides, inner sides, chewing tops; then gently brush the tongue from back to front. Time it with a 2-minute song. Then they rinse and look: are the teeth smooth when you run the tongue over them? Show how to rinse after a meal: swish water hard round the mouth for 10 seconds and spit. If you have floss, show it between two front teeth. Add 'Mouth: brush 2 times, rinse after eating, no paan or gutka' to the body map.",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: our external organs",
+          "mins": 17,
+          "do": "Do Worksheet ws1 (core). Read items aloud if needed. For each wrong answer, open the section of the book together (9.1 on page 115, hair and eyes on pages 116–117, ears and nose on pages 117–118, mouth on page 118) and read the line, then try again.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook page 118", "the eggshell glasses", "toothbrush, fluoride toothpaste, mirror, dental floss if you have it", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Hands, feet and private parts",
+      "goal": "Learn how dirt enters the body through hands and feet, see the bread results, hear how a doctor proved handwashing saves lives, cut nails, and learn how to keep private parts clean.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Bread test results",
+          "mins": 8,
+          "do": "Lay out the four bread bags from Experiment e1 without opening them. Your child counts the mould spots on each and draws them. Usually the 'Dirty hands' slice has the most fuzzy green, black or white mould, 'Water only' has less, and 'Soap' and 'Not touched' have least. Ask: 'Was your guess right? What does this tell you about washing with water only?' (It removes some germs but soap removes many more.) Read the 'why' of e1. Then throw the bags away unopened.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "9.2.6 Hands and feet (pages 118–119)",
+          "mins": 6,
+          "do": "Read section 9.2.6 aloud. Ask: 'How does dirt come into the house?' (On feet and footwear.) 'How does it come into our body?' (On dirty hands and food.) 'When must we wash hands with soap?' (Before eating, before cooking or touching food, after using the toilet.) 'Why does the book say keep separate chappals for inside the house?' (Outdoor slippers carry mud, spit and animal droppings from the road.) 'Why cut nails?' (Dirt and germs collect under long nails and go into the mouth when we eat with our hands.)"
+        },
+        {
+          "kind": "think",
+          "title": "Semmelweis: the doctor who said 'wash your hands'",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: in Vienna in 1847, Dr Ignaz Semmelweis noticed that many more new mothers died in the ward where doctors came straight from cutting dead bodies than in the ward run by midwives. He made doctors wash their hands in chlorine water and the deaths dropped sharply, yet many doctors refused to believe him. Ask: 'Our bread test showed germs on hands. What did Semmelweis have to go on, without a microscope that could see germs?' Then ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "do",
+          "title": "Nail-cutting time",
+          "mins": 7,
+          "do": "Cut your child's nails (or let them cut their own with your help, if they are ready). First let them scrape a toothpick under one long nail and look at what comes out on a white paper. Cut fingernails in a gentle curve and toenails straight across (to stop them growing into the skin). Wash hands and scrub under the nails with an old toothbrush and soap. Add 'Hands: soap before eating and after toilet; short nails. Feet: separate home chappals' to the body map (Activity a1)."
+        },
+        {
+          "kind": "talk",
+          "title": "9.3 Keeping private parts clean (page 119)",
+          "mins": 6,
+          "do": "Read rules (i), (ii), (iii) and (v) of section 9.3 on page 119 to your child: wash private parts carefully while bathing; always use clean water after passing stool; after passing urine, wash and dry with a clean dry cloth or tissue. Teach girls to wash and wipe from front to back, so germs from the bottom do not reach the place urine comes out. Then wash hands with soap. Rule (iv) is about periods (menstruation), for older girls and women; if your child asks, you can say simply that when girls grow older their body has a few days of bleeding each month, which is normal and healthy, and they then use clean pads or cloth. Remind them of the Day 1 safety rule: private parts are private."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet, part 1",
+          "mins": 5,
+          "do": "Do section A of Worksheet ws2 (stretch) aloud now: what would you do in each situation? Keep sections B and C for tomorrow.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 118–119", "the 4 bread bags", "nail cutter, a toothpick, white paper, an old toothbrush, soap", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Skin, the body's raincoat",
+      "goal": "Learn what skin does and how to care for it, catch our own sweat, ask whether we can be too clean, and start the book's habit check.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "9.4 Skin (page 119)",
+          "mins": 6,
+          "do": "Read section 9.4 and the summary box after it aloud. Ask: 'What does skin protect us from?' (Heat and cold, air, dust and dirt; it covers all the inside organs.) 'What comes out through the skin's pores?' (Sweat, which carries some waste and cools us down.) 'Why does the book say do not bathe with washing soap or detergent?' (They are made for clothes and are too strong; they dry and hurt the skin.) 'What is ubtan?' (A paste of besan, turmeric and other natural things rubbed on the skin.)"
+        },
+        {
+          "kind": "do",
+          "title": "Catch your sweat",
+          "mins": 8,
+          "do": "Put a clean, dry plastic bag over your child's hand and tie it loosely at the wrist with a rubber band (not tight, and never over the face). Ask them to guess: 'Will anything appear inside the bag in 10 minutes?' While you wait, they look at the skin of their palm and the back of the hand under a magnifying glass: lines, tiny hairs, and if you look hard, tiny dots that are pores. After 10 minutes, the inside of the bag is misty with droplets. Ask: 'Where did the water come from?' (Sweat from the pores, even though we did not feel sweaty.) Remove the bag. Add 'Skin: daily bath, clean towel, no detergent' to the body map."
+        },
+        {
+          "kind": "think",
+          "title": "Can we be too clean?",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: a scientist noticed in 1989 that children with many older brothers and sisters got hay fever (a sneezing allergy) less often, and wondered whether meeting more germs when small trains the body's defences. Make it clear that this does NOT mean we should stop washing hands: the scientists who study this say handwashing before food and after the toilet is still essential. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Start the habit check",
+          "mins": 8,
+          "do": "Start Activity a2, the book's 'Let's do and learn' on pages 121–122. Read the 11 questions aloud and your child marks Yes or No honestly for each (brush twice, rinse after eating, clean water after toilet, wash hands before food, daily bath, soap after toilet, private parts clean, hanky when sneezing, wash hair regularly, comb daily, nails clean). Count the Yes answers and read the book's scale. Then copy every 'No' habit into a 7-day tick chart for the fridge. Say: 'The book says, once these become habits, all your answers will be Yes.'",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet, part 2",
+          "mins": 10,
+          "do": "Do sections B and C of Worksheet ws2 (stretch). Let your child answer the write items aloud while you scribe if writing slows them down. Praise answers that give a reason ('because germs...').",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 119–122", "a clean plastic bag and a rubber band", "a magnifying glass if you have one", "paper for a 7-day habit chart", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Let's revise, check and teach it back",
+      "goal": "Review the lesson with the book's questions and exercise, do the challenge worksheet, check understanding, and have your child teach the lesson back using the body map.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's see 9.2 and Let's revise (page 120)",
+          "mins": 7,
+          "do": "Ask the five 'Let's see, what you have learnt 9.2' questions on page 120 aloud. Expected answers (page 123): lice spread where hair is not cared for (and remind them, from Day 2, that lice actually spread by heads touching and shared combs); eye medicine without a doctor may harm the eyes; if something gets into the ear, go to a doctor; the parts of the mouth are teeth, gums, tongue and palate; long nails collect dirt. Then read the 'Let's revise' list on page 120, and after each line your child points to the matching rule on the body map."
+        },
+        {
+          "kind": "talk",
+          "title": "Exercise (page 121)",
+          "mins": 6,
+          "do": "Do the Exercise on page 121 aloud. Question 1: filth; handkerchief; rinse; clean. Question 2: we chew food with our teeth; hair fall increases due to dirty hair (the book's answer; scalp care helps); paan, tobacco and gutka can cause mouth cancer. Question 3, two functions of skin: it protects the inner organs from heat, cold, dust and dirt; it removes waste as sweat (and it also helps us feel touch, heat and pain)."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing scientists' views. Section C has no single right answer; praise reasons that use evidence from the week's experiments.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 7,
+          "do": "Ask the 7 check questions aloud without the book. Tick the ones answered well. For any miss, find the rule on the body map or in the book and read it together, then ask again in different words. Most children get 5 or more; fewer than 4 means go through the body map again next week, one organ a day."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 11,
+          "do": "Your child is the teacher and you, a grandparent or a sibling are the student. Standing by the body map, they go from head to toe: name each external organ, say its job and one care rule with the reason. They should show handwashing and toothbrushing for real, and tell the story of the bread slices. Ask two 'student' questions: 'Can I clean my ear with a hairpin?' and 'Is rinsing hands with water enough?' End by looking at the habit chart from Activity a2 and ticking today's habits.",
+          "ref": "a2"
+        }
+      ],
+      "need": ["Textbook pages 120–121 and 123", "the body map", "soap, toothbrush and toothpaste for the demo", "the habit chart", "worksheet ws3"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "External organs and their care",
+      "day": 4,
+      "sections": [
+        ["A. Organs and jobs", [
+          {"t": "sort", "p": "Sort these external organs: are they in the head or the trunk?", "items": ["Hair", "Eyes", "Hands", "Ears", "Feet", "Nose", "Legs", "Teeth"], "cats": ["Head", "Trunk"]},
+          {"t": "match", "p": "Match each organ to its job.", "pairs": [["Eyes", "See"], ["Ears", "Hear"], ["Nose", "Smell and breathe"], ["Tongue", "Taste"], ["Teeth", "Cut and chew food"], ["Skin", "Covers and protects the whole body"]]},
+          {"t": "fill", "p": "The external organ that covers the whole body is the ____.", "a": ["skin"]}
+        ]],
+        ["B. Care rules", [
+          {"t": "mcq", "p": "Dust has gone into your eye. What should you do?", "opts": ["Rub it hard", "Put any eye drops you find", "Don't rub; wash with clean water, and see a doctor if it stays", "Ignore it"], "a": 2},
+          {"t": "mcq", "p": "Which of these is safe for cleaning your ear?", "opts": ["A matchstick", "A hairpin", "A soft cloth on the outer ear only", "A seenkh (broom straw)"], "a": 2},
+          {"t": "fill", "p": "While sneezing, cover your nose with a ____.", "a": ["handkerchief", "hanky", "clean handkerchief"]},
+          {"t": "fill", "p": "We should brush our teeth ____ times a day.", "a": ["two", "2"]}
+        ]],
+        ["C. Draw it", [
+          {"t": "draw", "p": "Draw a face and label: hair, eyes, ears, nose, mouth, teeth. Next to each, write one care rule."}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "What would you do?",
+      "day": 5,
+      "sections": [
+        ["A. Situations", [
+          {"t": "write", "p": "Your friend at school has lice and wants to borrow your comb. What do you say and why?", "lines": 2},
+          {"t": "write", "p": "A bead has gone into your little brother's nose. He wants to push it out with a pencil. What should you do?", "lines": 2},
+          {"t": "write", "p": "An uncle offers you a packet of gutka or sweet supari. What will you say, and why?", "lines": 2}
+        ]],
+        ["B. Why the rule?", [
+          {"t": "match", "p": "Match each rule to its reason.", "pairs": [["Wash hands with soap before eating", "Germs on hands go into the mouth with food"], ["Keep separate chappals at home", "Outdoor slippers carry dirt from the road"], ["Cut nails often", "Dirt and germs collect under long nails"], ["Don't bathe with detergent", "It is too strong and dries the skin"], ["Rinse your mouth after eating", "So bits of food don't stay between teeth"]]},
+          {"t": "mcq", "p": "In our bread test, which slice usually grew the most mould?", "opts": ["Not touched", "Touched with dirty hands", "Touched after washing with soap", "All the same"], "a": 1}
+        ]],
+        ["C. Body thinking", [
+          {"t": "write", "p": "When you have a cold and a blocked nose, food tastes boring. Use our nose-pinch test to explain why.", "lines": 3},
+          {"t": "write", "p": "The plastic bag on your hand got misty inside even though you did not feel hot. What does this tell you about skin?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles about keeping clean",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "The eggshell went soft in vinegar. A child drinks a fizzy cola every day and never rinses. What might happen to their teeth, and why?", "lines": 3},
+          {"t": "mcq", "p": "Your pupils get smaller in bright light. What is the best reason?", "opts": ["To look nice", "To let less light in and protect the inside of the eye", "Because the eye is tired", "To see colours better"], "a": 1},
+          {"t": "fill", "p": "Earwax is not dirt; it ____ dust and slowly moves out of the ear by itself.", "a": ["traps", "catches", "stops"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if we had no skin? Write three problems our body would have.", "lines": 3},
+          {"t": "write", "p": "In our bread test, what would you change to make it fairer? (Think about the bread, the hands and where the bags were kept.)", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Semmelweis said doctors' hands carried something that killed mothers. Other doctors said disease came from 'bad air'. What evidence did Semmelweis have? Why do you think they did not believe him?", "lines": 4},
+          {"t": "write", "p": "Some scientists say children who meet more germs when small get fewer allergies. Does that mean we should stop washing our hands? Explain what you think.", "lines": 3},
+          {"t": "mcq", "p": "Old Indian texts describe rebuilding a nose with a flap of skin. Why did surgeons use skin from the person's own cheek or forehead?", "opts": ["It was the prettiest skin", "Skin from your own body is accepted by your body and stays alive", "It was the thickest skin", "It was easiest to see"], "a": 1}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Dirty hands, clean hands: the bread test",
+      "day": 1,
+      "question": "Does washing with soap remove more germs from our hands than washing with water alone?",
+      "need": ["4 slices of fresh bread (bakery bread without preservatives works fastest)", "4 zip bags or dabbas with lids", "labels and a marker", "a clean spoon", "soap and water"],
+      "steps": [
+        "Label the bags: Not touched, Dirty hands, Water only, Soap.",
+        "Using a clean spoon, put slice 1 into its bag without touching it.",
+        "After playing outside or handling coins, the child rubs unwashed hands all over slice 2.",
+        "The child rinses hands under water only for 5 seconds and touches slice 3 all over.",
+        "The child washes with soap for 20 seconds, rinses and dries on a clean towel, then touches slice 4 all over.",
+        "Sprinkle a few drops of water on each slice, seal the bags, and keep them together in a warm, dark place.",
+        "Look through the bags every day for 5–7 days without opening them, and draw what you see."
+      ],
+      "predict": "Ask your child to guess first: which slice will grow the most mould? Will 'water only' be as good as 'soap'?",
+      "observe": "Count and draw the fuzzy spots of mould (green, black, white or orange) on each slice each day. Usually the dirty-hands slice grows mould first and most, water-only next, and the soap and untouched slices least.",
+      "why": "Our hands pick up tiny living things from everything we touch: bacteria and the spores (seeds) of moulds. They are too small to see, but on moist bread in the warm dark they feed and multiply until each one becomes a spot big enough to see. Plain water washes off some, but many stick to the natural oil on our skin. Soap molecules have one end that grabs oil and one end that holds on to water, so they lift the oil, dirt and germs off the skin and let the water carry them away. Mould grows a little even on the untouched slice because spores also float in the air.",
+      "safety": "Never open the bags once mould grows; some moulds can cause allergies or sickness if breathed in. Throw the bags away sealed. Wash hands after handling them.",
+      "time": "9 min to set up + 2 min checks daily for 5–7 days"
+    },
+    {
+      "id": "e2",
+      "title": "Watch your pupils change",
+      "day": 2,
+      "question": "What does the eye do when the light gets brighter?",
+      "need": ["a mirror", "a dim room", "a bright lamp, or a window with curtains to open"],
+      "steps": [
+        "Sit in a dim room for 1 minute. Look closely at the black pupil of one eye in the mirror.",
+        "Ask an adult to switch on a bright light to one side of you, or open the curtains. Do not look straight into the light.",
+        "Watch your pupil in the mirror as the light comes on.",
+        "Switch off the light again and watch for 30 seconds.",
+        "Draw your eye in dim light and in bright light."
+      ],
+      "predict": "Ask your child to guess first: will the black pupil get bigger, smaller, or stay the same when the light comes on?",
+      "observe": "In bright light the pupil shrinks to a small dot within about a second. When it gets dim again, the pupil slowly gets bigger. Both eyes change together, even if light falls on only one.",
+      "why": "The pupil is a hole that lets light into the eye. The coloured ring around it, the iris, is a muscle. In dim light it opens the pupil wide to let in as much light as possible so we can see; in bright light it squeezes the pupil small so too much light does not dazzle or harm the light-sensing layer at the back of the eye (the retina). This happens by itself without us deciding: it is a reflex. Even a small pupil cannot protect the eye from staring at the Sun, which is why we never look at it directly.",
+      "safety": "Never shine a torch straight into anyone's eyes, and never look at the Sun.",
+      "time": "10 min"
+    },
+    {
+      "id": "e3",
+      "title": "Can you taste without your nose?",
+      "day": 3,
+      "question": "Do we taste food with our tongue alone, or does the nose help?",
+      "need": ["small cubes of raw apple, raw potato and raw onion or cucumber, all the same size", "a knife and plate (adult use)", "a glass of water"],
+      "steps": [
+        "Your child closes their eyes and pinches their nose shut.",
+        "Place one cube on their tongue. They chew and guess what it is, still pinching.",
+        "Write down the guess, then let them rinse with water.",
+        "Repeat with the other cubes in a mixed-up order.",
+        "Now repeat the whole test with the nose open.",
+        "Compare the number of correct guesses with and without the nose."
+      ],
+      "predict": "Ask your child to guess first: will you be able to tell apple from potato with your nose pinched?",
+      "observe": "With the nose pinched, apple and potato often taste almost the same: just a little sweet or plain and crunchy. Onion may be guessed by its sharpness. With the nose open, guessing is easy.",
+      "why": "The tongue can sense only a few basic tastes: sweet, salty, sour, bitter and savoury (umami). Most of what we call 'flavour' comes from smell. When we chew, smell molecules from the food rise from the back of the mouth into the nose. Pinching the nose stops that air flowing, so the brain gets only the tongue's message. This is why food tastes dull when we have a blocked nose from a cold, and an example of organs working together, as the book says.",
+      "safety": "An adult cuts the food. Check for allergies. Use clean hands and a clean plate.",
+      "time": "10 min"
+    },
+    {
+      "id": "e4",
+      "title": "What does acid do to a shell?",
+      "day": 3,
+      "question": "What happens to a hard, chalky shell (a bit like tooth enamel) when it sits in acid?",
+      "need": ["2 clean eggshells or 2 raw eggs", "2 glasses", "white vinegar", "water"],
+      "steps": [
+        "Put one eggshell (or whole raw egg) into a glass and cover it with vinegar.",
+        "Put the other into a glass of plain water.",
+        "Watch the vinegar glass for 2 minutes: look for tiny bubbles.",
+        "Leave both overnight (about 24 hours).",
+        "Next day, take them out with a spoon and gently press each one."
+      ],
+      "predict": "Ask your child to guess first: will the shell in vinegar change? Will it get harder, softer, or stay the same?",
+      "observe": "Tiny bubbles form on the shell in vinegar within minutes. After a day it is thin, soft or gone (a whole egg becomes rubbery). The shell in water does not change.",
+      "why": "Eggshell is made mostly of calcium carbonate, a chalky mineral. Vinegar is an acid, and acid reacts with calcium carbonate, dissolving it and giving off carbon dioxide gas (the bubbles). Tooth enamel is a different calcium mineral, but acid dissolves it too, more slowly. In our mouth, acid comes from sour and fizzy drinks, and from bacteria that feed on sugar left on the teeth. Brushing twice a day, rinsing after meals and fluoride toothpaste (which makes enamel harder) help protect teeth.",
+      "safety": "Do not eat the egg afterwards. Wash hands after handling raw egg.",
+      "time": "3 min to set up + overnight + 5 min to check"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Life-size body map of care rules",
+      "day": 1,
+      "mins": 12,
+      "need": ["a large sheet of chart paper or newspapers taped together", "markers and crayons", "tape"],
+      "steps": [
+        "Your child lies on the paper and an adult traces round them.",
+        "Draw in and label the external organs: hair, eyes, ears, nose, mouth, teeth, hands, legs, feet, skin.",
+        "Write each organ's job next to it.",
+        "Each day, add the care rules learned for that organ next to it.",
+        "Stick the map on a wall at your child's height.",
+        "On the last day, use it to teach the whole lesson back."
+      ],
+      "outcome": "A life-size, labelled body map with every organ's job and care rules, made by your child over the week."
+    },
+    {
+      "id": "a2",
+      "title": "Habit check and 7-day chart (book's 'Let's do and learn', pages 121–122)",
+      "day": 6,
+      "mins": 8,
+      "need": ["the book's 11 questions on pages 121–122", "paper and pencil", "a magnet or tape for the fridge"],
+      "steps": [
+        "Read each of the book's questions aloud and answer honestly Yes or No.",
+        "Count the Yes answers and read the book's scale.",
+        "Write every 'No' habit as a row on a chart with 7 day-columns.",
+        "Each evening, tick each habit done that day.",
+        "At the end of the week, do the book's check again and compare."
+      ],
+      "outcome": "An honest self-check and a week of tracked habits, with the number of Yes answers going up."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Sushruta and the Sushruta Samhita, ancient India",
+      "idea": "The Sushruta Samhita, an ancient Sanskrit text on medicine and surgery named after the surgeon Sushruta, describes many operations, including rebuilding a cut-off nose using a flap of skin taken from the cheek, kept attached at one end so it stays alive while it heals. Historians date the text roughly to the first millennium BCE, compiled and expanded over centuries.",
+      "then": "For a long time, this knowledge was hardly known outside India. In 1794 a London magazine, the Gentleman's Magazine, published a report of an Indian man in Pune whose nose had been rebuilt with skin from his forehead by a local surgeon. The English surgeon Joseph Carpue practised the method and performed it in England in 1814.",
+      "now": "Historians of medicine accept that Indian surgeons developed skin-flap nose repair long before Europe, and the forehead-flap repair is still called the 'Indian method' by plastic surgeons. The exact date of the original Sushruta text is uncertain and is still discussed by historians.",
+      "status": "accepted",
+      "ask": "We know about ancient operations from old writings and from a report in 1794. How can historians check whether an old text really describes something people did?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Ignaz Semmelweis (1818–1865), Hungary, working in Vienna",
+      "idea": "At Vienna General Hospital, Semmelweis noticed that far more mothers died of 'childbed fever' after giving birth in the ward run by doctors and medical students than in the ward run by midwives. The doctors often came straight from cutting up dead bodies. In 1847 he made them wash their hands in a chlorine solution before examining mothers, and deaths in his ward fell sharply, to about the same low level as the midwives' ward.",
+      "then": "Many senior doctors rejected his idea. Germs had not yet been shown to cause disease, and some doctors were offended at the suggestion that their own hands were killing patients. He lost his job in Vienna, and he died in 1865 in a mental asylum.",
+      "now": "He was right. A few years later Louis Pasteur and Robert Koch showed that germs cause disease, and Joseph Lister brought antiseptics into surgery. Handwashing is now one of the most important ways hospitals and homes prevent infection. Semmelweis is remembered as a pioneer of hand hygiene.",
+      "status": "accepted",
+      "ask": "Semmelweis had numbers showing fewer deaths, but no way to see the germs. Is good evidence enough if you cannot explain why it works? What else could he have done to convince people?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "David Strachan (1989) and the 'hygiene hypothesis'",
+      "idea": "In 1989, the British epidemiologist David Strachan reported in the British Medical Journal that children with more older brothers and sisters were less likely to get hay fever and eczema. He suggested that catching more infections in early childhood might train the body's defence system so it does not overreact later. This became known as the 'hygiene hypothesis'.",
+      "then": "The idea became very popular, and some people took it to mean that being clean is bad for children. Other scientists warned that this was a misunderstanding and that infections themselves are dangerous.",
+      "now": "Scientists still debate how it works. Many now prefer the 'old friends' idea, developed by Graham Rook and others: what helps may be early contact with harmless microbes from nature, soil, animals and other people, not catching diseases or skipping handwashing. Researchers agree that washing hands before eating and after the toilet still prevents many illnesses and should not be given up.",
+      "status": "debated",
+      "ask": "If children from big families get fewer allergies, is it definitely because of germs? What else is different in a big family that could explain it?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "What is an external organ? Name three in the head and three in the trunk.", "a": "A body part on or near the surface of the body. Head: hair, eyes, ears, nose, mouth, teeth. Trunk: hands, legs, feet, private parts. Skin covers the whole body."},
+    {"q": "What should you do if something gets into your eye? Into your ear?", "a": "Eye: don't rub; wash with clean water; see a doctor if it stays. Ear: don't poke with fingers or anything; go to a doctor."},
+    {"q": "Why should we never clean our ears with a matchstick or pin?", "a": "It can tear the eardrum and damage hearing. We clean only the outer ear with a soft cloth; earwax moves out by itself."},
+    {"q": "How should we look after our teeth, and why not chew paan, gutka or tobacco?", "a": "Brush twice a day, clean the tongue and rinse after every meal. Paan, gutka and tobacco stain teeth, cause mouth wounds and can cause mouth cancer."},
+    {"q": "What did our bread test show about handwashing?", "a": "Bread touched with dirty hands grew the most mould, water-only less, and soap-washed least. Washing with soap removes many more germs than water alone."},
+    {"q": "Give two jobs of the skin and two ways to care for it.", "a": "It protects the inner organs from heat, cold, dust and dirt, and removes waste as sweat (and feels touch). Bathe daily with clean water, dry with a clean towel, don't use detergent or rough scrubbers."},
+    {"q": "What are private parts, how do we keep them clean, and what is the safety rule?", "a": "The parts we keep covered, used to pass urine and stool. Wash them while bathing and after the toilet with clean water, then wash hands with soap. They are private: no one should touch or look at them except a parent helping or a doctor with a parent present; if anyone tries, say no and tell a trusted adult."}
+  ]
+}

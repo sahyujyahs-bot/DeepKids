@@ -1,0 +1,762 @@
+{
+  "key": "ncert|sci|5|6",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 6,
+  "title": "Some Unique Places",
+  "source": "NCERT Our Wondrous World, Class 5, Chapter 6 (pages 94–111), Reprint 2026-27",
+  "summary": "Shanti travels with Appa and Amma from the Andaman and Nicobar Islands to the Sundarbans mangroves, the hills of Northeast India and the forests of the Western Ghats, ending at Kanyakumari. Along the way your child learns why some plants and animals live only in one place (they are 'endemic'), how buttress roots, breathing roots and living root bridges help trees and people, why corals and mangroves matter to the whole Earth, what a biodiversity hotspot and a protected area are, and how ordinary people, like the Hargila Army and the Save Silent Valley campaigners, protect these places.",
+  "goals": [
+    "By the end your child can find on a map of India the Andaman and Nicobar Islands, the Sundarbans, the eight states of Northeast India, the Western Ghats and Kanyakumari, and say one special thing about each.",
+    "By the end your child can explain how buttress roots hold up a tall tree in thin soil, and how mangrove breathing roots let a tree live in salty, airless mud, using their own paper and soil experiments as evidence.",
+    "By the end your child can explain what 'found only here' (endemic) means, why islands and isolated hills have so many such animals, and what makes a place a biodiversity hotspot.",
+    "By the end your child can describe how people in these places depend on nature and look after it, for example honey collectors in the Sundarbans, Khasi root-bridge builders and the Hargila Army in Assam.",
+    "By the end your child can say what a protected area is, name some in the Western Ghats, and tell the story of how people saved Silent Valley.",
+    "By the end your child can weigh evidence in a real debate: how much did mangroves really protect villages in the 2004 tsunami?"
+  ],
+  "words": [
+    ["island", "land surrounded by water on all sides, like the Andaman and Nicobar Islands"],
+    ["endemic", "found naturally in only one place in the world, like the Andaman hornbill or the lion-tailed macaque"],
+    ["buttress roots", "wide, flat roots that spread out from the bottom of a tall tree trunk, like walls holding it up"],
+    ["coral", "tiny sea animals that build hard, stony homes; millions of them together make a coral reef"],
+    ["coral reef", "a rocky structure under the sea made by corals, which gives food and shelter to fish and many other creatures"],
+    ["mangrove", "a tree that can grow in muddy, salty water where rivers meet the sea"],
+    ["breathing roots", "pencil-like roots of mangroves that stick up out of the mud to take in air (scientists call them pneumatophores)"],
+    ["tsunami", "a series of giant sea waves caused by an earthquake under the sea"],
+    ["living root bridge", "a bridge made by guiding the roots of rubber fig trees across a stream until they grow strong enough to walk on"],
+    ["biodiversity hotspot", "a place with a great many kinds of plants and animals, many found nowhere else, which is also in danger of losing them"],
+    ["protected area", "a forest, river or hill that the government keeps safe, where trees must not be cut or animals harmed, such as a national park or wildlife sanctuary"],
+    ["erosion", "the slow washing or blowing away of soil by water, waves or wind"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Shanti's big trip and the forests of the islands",
+      "goal": "Start the journey with Shanti, find the southernmost point of India on a map, learn what an island is and why island forests have animals found nowhere else, and test how buttress roots hold up a tree.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The farthest I have been",
+          "mins": 5,
+          "do": "Ask your child: 'What is the farthest place you have ever travelled to? How did you get there: bus, train, plane, boat?' Then ask: 'If you could go anywhere in India this summer, where would you go and what would you hope to see?' Write their answer at the top of a fresh notebook page titled 'My India Journey'. Tell them: 'Shanti, a girl about your age, is going on a trip across India. We will travel with her for the next nine days.'"
+        },
+        {
+          "kind": "read",
+          "title": "Where is the southern tip? (pages 94–95)",
+          "mins": 8,
+          "do": "Read pages 94 and 95 aloud together, from Shanti asking her parents about the summer vacation to the 'Islands of India' part where Rani the guide takes them through the forest. When Appa says 'No, Shanti!' to Kanyakumari, stop and ask: 'Why do you think the southernmost tip is not Kanyakumari?' (Because some islands lie even further south.) Read the 'Do you know?' box: an island is land surrounded by water on all sides, and India has over a thousand islands. Ask: 'Is Sri Lanka an island? Is Mumbai?' (Sri Lanka is a whole island country; the old city of Mumbai was built on seven islands joined together.)"
+        },
+        {
+          "kind": "do",
+          "title": "Map hunt: Indira Point and other islands",
+          "mins": 7,
+          "do": "Open a map of India (an atlas, a school map, or a map on a phone). Do the 'Find out' tasks on page 95: find the Andaman and Nicobar Islands and put a finger on Indira Point at the southern end of Great Nicobar. Ask: 'Which sea are these islands in?' (They lie between the Bay of Bengal to the west and the Andaman Sea to the east.) Then ask: 'Can you find any other islands of India?' Help them find Lakshadweep in the Arabian Sea, Rameswaram near Tamil Nadu and, if your map shows rivers, Majuli in the Brahmaputra in Assam, one of the world's largest river islands. Mark Sri Vijaya Puram (the capital, earlier called Port Blair) with a small sticker; this is where Shanti's trip starts."
+        },
+        {
+          "kind": "exp",
+          "title": "Book Activity 1: can a paper tree stand up? (page 96)",
+          "mins": 13,
+          "do": "Do Experiment e1, which is the book's Activity 1 on page 96 made into a fair test. Read page 96 first, where Shanti notices the big roots spreading out from the bottom of the tree. Roll two paper tubes; give one of them 3–4 paper triangle 'roots' glued round the bottom. Before testing, ask your child to guess which will stay up and which will fall when you blow on it or wave a notebook at it. Test both and count how many waves each survives. Then ask: 'Why does the tree in the picture need such big roots?' Good answer: 'They spread out wide like the triangles and stop the tall tree from toppling over.' Read the line at the bottom of page 96 aloud: 'Nature often has the best designs.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Birds found only here (pages 96–97)",
+          "mins": 7,
+          "do": "Read the end of page 96 and the top of page 97, where Rani says the Andaman wood pigeon and Andaman hornbill are found only in these islands. Teach the word 'endemic': found naturally in only one place in the world. Ask the book question on page 97: 'Why do you think some birds and animals are found only on these islands?' Help your child reason it out: the islands are far from the mainland across the sea; animals that reached them long ago could not easily go back and forth; over a very long time they changed to suit the island and became different kinds from their mainland cousins. If stuck, ask: 'Could a deer swim hundreds of kilometres of sea? Could a small bird fly it easily?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Sow the root mat for Day 4",
+          "mins": 5,
+          "do": "Start Experiment e2 now so the roots grow in time. Fill two identical trays or cut-open milk cartons with garden soil, pressed down. In one tray sprinkle two tablespoons of mustard (rai) or methi seeds thickly and cover lightly with soil; leave the other tray bare. Water both the same. Label them 'Roots' and 'No roots'. Tell your child: 'On Day 4 we will make waves crash on both trays and see what roots do. That is a secret of the mangrove forest we will visit.'",
+          "ref": "e2"
+        }
+      ],
+      "need": [
+        "Textbook pages 94–97",
+        "a map of India (atlas, wall map or phone)",
+        "2 sheets of newspaper or used paper, glue or tape, scissors, thick paper or card for triangles",
+        "a notebook to fan with",
+        "2 identical trays or cut milk cartons, garden soil, 2 tablespoons mustard or methi seeds",
+        "a small sticker"
+      ],
+      "prep": [
+        {"task": "Collect garden soil for two trays and find mustard (rai) or methi seeds in the kitchen", "when": "night before"}
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Ferries, life jackets and the coral reef",
+      "goal": "Find out why a life jacket keeps us afloat, meet the corals that give shelter to sea creatures, and think about how the people of North Sentinel Island may have read nature's warning signs.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Water the root mat",
+          "mins": 2,
+          "do": "Look at the two trays from Experiment e2. Water both with exactly the same amount, for example 4 spoons each. Ask: 'Has anything happened in the seeded tray yet?' (Mustard often splits and shows white root tips within a day or two.) Your child writes the date and draws what they see.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Safety on the ferry (page 97)",
+          "mins": 4,
+          "do": "Read the 'Safety Measures' box on page 97 aloud: everyone must wear a life jacket even if they know how to swim, because it keeps you afloat if you fall into the water. Ask: 'Why should even a good swimmer wear one?' Good answers: 'The sea can be rough, you can get tired or hurt, and the water can be cold. The jacket holds your head up even if you can't swim.' Ask: 'Where else should we wear one?' (On any boat, river ferry, or boating in a lake.)"
+        },
+        {
+          "kind": "exp",
+          "title": "The life jacket test",
+          "mins": 10,
+          "do": "Do Experiment e3. Fill a bucket with water. Take a small toy that sinks (a steel spoon, a plastic figure with a coin taped to it or a small stone 'person'). Ask your child to guess first: 'If we tie this toy to an empty, closed plastic bottle, will it float or sink?' Drop the toy alone (it sinks), then tie it with a rubber band to a small empty bottle with its cap on and drop it again. Try a bottle filled with water too. Ask: 'Why did the empty bottle hold the toy up?' Explain the 'why' from e3: the bottle is full of air, which is very light for its size, so the water pushes up on it more strongly than the toy's weight pulls down. A life jacket is filled with foam full of tiny air bubbles that does the same job.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Sea animals and the coral reef (pages 97–98)",
+          "mins": 10,
+          "do": "Do the 'Write' tasks at the bottom of page 97 and top of page 98: your child draws their favourite fish or sea animal and lists three living things found in the sea (for example fish, crabs, prawns, octopus, turtles, dolphins, seaweed, corals). Then read page 98 about the Marine Interpretation Centre. Explain corals properly: a coral is a tiny soft animal, smaller than your fingernail, related to jellyfish. Thousands live together and each one builds a hard stony cup around itself. Over hundreds of years these stony cups pile up into a reef. Tiny plant-like algae live inside the corals, make food from sunlight and give them their bright colours. Ask the Discuss questions on page 98: 'How does the coral reef help fish?' (It gives them holes to hide in, places to lay eggs and food.) 'Why is life under the sea as important as life in forests?' (The sea's tiny plants make a large share of the oxygen we breathe; fish feed millions of people; reefs break waves before they reach the coast.)"
+        },
+        {
+          "kind": "think",
+          "title": "North Sentinel Island and nature's signs (page 98)",
+          "mins": 9,
+          "do": "Read the part on page 98 about North Sentinel Island: the people there live as hunter-gatherers, do not want visitors, and survived the 2004 tsunami, possibly by noticing changes in the wind, the sea and the behaviour of animals. Explain that a tsunami is a series of giant waves caused by an earthquake under the sea, and that before it reached some coasts in 2004 the sea pulled far back from the beach. Ask the Discuss question: 'How might their knowledge have helped them stay safe?' Good answers: 'They noticed the sea going back or birds flying away and ran to high ground.' Then ask: 'Why do you think they are left alone and no one is allowed to visit?' (It is their home and their choice; also our common illnesses, like flu, could make them very sick because their bodies have never met these germs.) Tell your child that the Moken sea people of Thailand's islands also escaped that tsunami because of old stories warning that a retreating sea means run uphill."
+        },
+        {
+          "kind": "game",
+          "title": "Where in India? (first round)",
+          "mins": 10,
+          "do": "Introduce the travel guessing game. You read clues one at a time; your child guesses the place. Fewer clues means more points (3 points after clue 1, 2 after clue 2, 1 after clue 3). Round 1: 'I am surrounded by water. My capital is Sri Vijaya Puram. Hornbills here live nowhere else.' (Andaman and Nicobar Islands.) Round 2: 'I am in the Arabian Sea. I am made of tiny coral islands. My name means a hundred thousand islands.' (Lakshadweep.) Round 3: 'I am a river island in Assam, in the Brahmaputra.' (Majuli.) Then swap: your child writes three clues about the Andamans for you. Tell them each new place this week gets added to the game."
+        }
+      ],
+      "need": [
+        "Textbook pages 97–98",
+        "a bucket of water",
+        "a small sinking toy or steel spoon, 2 small plastic bottles with caps, a rubber band",
+        "drawing paper and colours"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "The Sundarbans: a forest in salty mud",
+      "goal": "Travel to the Sundarbans, the world's largest mangrove forest, and discover with a cucumber experiment why salty water is so hard for most plants, and how mangroves manage it.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Root mat check",
+          "mins": 3,
+          "do": "Check Experiment e2. Water both trays the same. Gently lift a corner of the soil in the seeded tray with a spoon and show your child the thin white roots already spreading. Ask: 'Are the roots going down, sideways or both?' (Both, criss-crossing like a net.) Draw and date.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Off to the Sundarbans (pages 98–99)",
+          "mins": 7,
+          "do": "Read from the bottom of page 98 ('Before this trip, Shanti had only seen islands on television') through page 99. On the map, trace the journey: Sri Vijaya Puram by ship to Kolkata, then south to the Sundarbans where the Ganga (with the Brahmaputra) reaches the Bay of Bengal. Tell your child the Sundarbans is shared by India and Bangladesh. Read the description: muddy, salty land where special trees called mangroves grow. Do the 'Write' questions on page 99: 'What do you find in the mangrove forest? List three.' (Mangrove trees, mud, salty water, crabs, fish, tigers, crocodiles, birds, honey bees.) 'What makes this forest different from other forests?' (It grows in salty, muddy water that floods twice a day with the tide.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Cucumber in salt water",
+          "mins": 15,
+          "do": "Do Experiment e4. Cut 4 thin, equal slices of cucumber (or raw potato). Put 2 in a bowl of plain water and 2 in a bowl of water with 3 spoons of salt stirred in. Ask your child to guess first: 'After 15 minutes, will the slices look or feel different?' While you wait, do the next step. After 15 minutes, take the slices out and try to bend each one. The salt-water slices go floppy and bendy; the plain-water ones stay stiff and crisp. Explain the 'why' from e4: salty water pulls water out of plant cells, so a normal plant standing in salty mud would lose water instead of drinking it. Mangroves are special: many keep most of the salt out at their roots, and some, like the Avicennia mangrove, push extra salt out through their leaves, where you can sometimes see white salt crystals.",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Roots that breathe (page 100)",
+          "mins": 8,
+          "do": "While the slices soak, read Shanti's question on page 99 ('what are those tiny stick-like things coming out of the water?') and Appa's answer at the top of page 100. Explain: roots need air, just like our lungs. In wet, sticky mud there is almost no air, so mangroves send up pencil-like roots that poke out of the mud and take in air through tiny holes. They are called breathing roots (pneumatophores). Show it: push a drinking straw into a bowl of wet mud or wet atta dough so that one end sticks up, and breathe gently through it. 'The air comes in through the part sticking up, just like a breathing root.' Ask: 'What happens to these roots at high tide?' (Most get covered; they take in air when the tide goes down.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Tiger masks and the honey collectors (page 101)",
+          "mins": 7,
+          "do": "Read page 101 where Shanti asks why someone would wear a mask on the back of their head. Explain: people of the Sundarbans who go into the forest to collect honey, wood or fish worry about tigers, which usually attack from behind. A face on the back of the head makes the tiger think it is being watched. Remind them of the line on page 95: India has about three-quarters of the world's wild tigers, and Sundarbans tigers are famous for swimming between islands. Ask: 'If tigers are dangerous, why don't people just cut the forest down?' Good answer: 'They depend on it: honey, fish, crabs and wood come from it, and the mangroves protect their land from the sea.' We will test that last idea tomorrow."
+        },
+        {
+          "kind": "game",
+          "title": "Add a Sundarbans card",
+          "mins": 4,
+          "do": "Your child writes three clues for the 'Where in India?' game about the Sundarbans, from hard to easy, on a small card. For example: 'My trees have roots that breathe. Honey collectors wear masks here. I am the largest mangrove forest in the world.' Keep the card with the others from Day 2."
+        }
+      ],
+      "need": [
+        "Textbook pages 98–101",
+        "1 cucumber or raw potato, a knife (adult use), 2 bowls, salt, water",
+        "a drinking straw and a bowl of wet mud or soft atta dough",
+        "the map of India",
+        "small cards for the game"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "How mangroves hold the land",
+      "goal": "Test with the root mat whether roots stop waves washing soil away, look for special features in living things around us, and weigh real evidence about mangroves and the 2004 tsunami.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Roots hold the soil (page 100)",
+          "mins": 5,
+          "do": "Read the rest of page 100: mangroves' roots hold the soil together and help stop waves from washing the land away, and people living near the forest depend on it. Do the 'Write' question: 'In what ways do people in the Sundarbans depend on the mangrove forests?' (Honey, fish, crabs and prawns, wood and leaves, protection from storms and waves.) Ask the Discuss question: 'Why is it important to take care of places like the Sundarbans?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Wave test on the root mat",
+          "mins": 15,
+          "do": "Do Experiment e2's final test. Prop up one end of each tray on a book so they slope the same way, with a plate at the low end to catch what washes off. Ask your child to guess first: 'When the waves hit, which tray will lose more soil?' Pour one mug of water slowly from the top of each tray, the same way, then splash 'waves' from the low end with a cupped hand five times. Compare the plates: how much mud washed into each? Then gently pull a clump from the root tray and look at how the soil clings to the roots. If your seeds did not grow well, use a palm-sized clump of grass dug up with its soil instead. Ask: 'How is this like the Sundarbans?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Did mangroves stop the tsunami?",
+          "mins": 12,
+          "do": "Share Voice v1 in your own words. In 2004, after the tsunami, some scientists reported that villages in Tamil Nadu behind mangrove forests had less damage than villages without them. Others pointed out that those villages were also further from the sea or on higher ground, so it was hard to know what really protected them. Draw two simple pictures: a village right on the beach and a village behind a belt of mangroves but also further back. Ask: 'If the second village was safer, what are two possible reasons?' (The mangroves, or simply being further away and higher.) Then ask the voice question and let your child answer fully before you share what scientists think today: mangroves really do weaken ordinary storm waves and storm surges, but a very big tsunami can flatten even a forest, so moving to high ground is still the most important thing.",
+          "ref": "v1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Special features hunt (page 101 Find out)",
+          "mins": 10,
+          "do": "Do the 'Find out' task on page 101: 'Look around yourself. Do you see any living thing that has something special to help it live there?' Walk around the house, balcony or building compound for 8 minutes. Help your child find at least three. Examples: a cactus or aloe with thick leaves storing water and spines instead of leaves; a lizard with sticky toe pads for walls; a pigeon's claws for gripping ledges; a lotus or water lily with waxy leaves that water rolls off; a peepal growing in a wall crack with roots that find tiny gaps; an ant's feelers. For each, your child writes 'Who', 'Special feature', 'How it helps' in the notebook."
+        },
+        {
+          "kind": "talk",
+          "title": "One-line summary",
+          "mins": 3,
+          "do": "Ask your child to finish these sentences aloud: 'Mangroves can live in salty mud because …' (they keep salt out or push it out, and their breathing roots take in air). 'Mangroves help people because …' (they hold soil, weaken waves, and give honey, fish and wood). Write their best sentence on the 'My India Journey' page."
+        }
+      ],
+      "need": [
+        "Textbook pages 100–101",
+        "the two trays from Experiment e2",
+        "2 books to prop the trays, 2 plates, a mug of water",
+        "a clump of grass with soil (backup)",
+        "paper for two quick pictures"
+      ],
+      "prep": [
+        {"task": "If the mustard or methi in the root tray did not grow, dig up a palm-sized clump of grass with its soil and roots from a park or garden", "when": "morning"}
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Northeast India: hills, markets and the Hargila",
+      "goal": "Name the eight states of Northeast India, read the market picture for how people live with nature, meet the Hargila Army that saved the Greater Adjutant Stork, and build a bird's nest.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "The Seven Sisters and Sikkim (page 101)",
+          "mins": 6,
+          "do": "Read the 'Northeast India: Green Hills and Great Traditions' part on page 101. On the map, help your child find and say the seven sister states: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura, plus Sikkim, which together make up Northeast India. Ask: 'How is this region joined to the rest of India?' (By a narrow strip of land in West Bengal, sometimes called the Siliguri Corridor or 'chicken's neck'.) Point to Assam's Brahmaputra river and Meghalaya's hills."
+        },
+        {
+          "kind": "talk",
+          "title": "Reading the market picture (pages 102–103)",
+          "mins": 9,
+          "do": "Look at the big picture on pages 102–103 together and do the five 'Write' questions on page 102 aloud. 1: Three things sold in the market (look for fruit, vegetables, fish, baskets, cloth, chillies). 2: The festival in the picture (look for clues such as dancers in feathered headgear and hornbill decorations; the Hornbill Festival of Nagaland is a common one shown). 3: 'Why are the houses built on bamboo stilts?' Good answers: to stay above floodwater and mud in heavy rain; to keep out snakes and animals; bamboo grows quickly nearby and is light and strong; air flows under the floor and keeps the house dry. 4: Animals you see. 5: 'What does the picture tell you about people living with nature?' (They use bamboo, cane and plants from the forest for houses, crafts and food.) Read the 'Do you know?' box about the bhut jolokia chilli used even to keep elephants away from crops."
+        },
+        {
+          "kind": "think",
+          "title": "Purnima Devi Barman and the Hargila Army (pages 103–104)",
+          "mins": 9,
+          "do": "Read the end of page 103 and the top of page 104, where Amma explains the women are protecting the Hargila bird, the Greater Adjutant Stork, and Shanti learns their numbers are growing. Then tell the true story in Voice v3 in your own words: many people thought this big bald stork that eats rubbish was dirty and unlucky, and cut down the trees where it nested; a wildlife biologist from Assam, Purnima Devi Barman, changed their minds by bringing village women together, holding baby showers for the birds and weaving stork patterns into gamochas and mekhelas. Ask the voice question and let your child answer fully.",
+          "ref": "v3"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: build a bird's nest (page 104)",
+          "mins": 16,
+          "do": "Do Activity a1, the book's Activity 2 on page 104. Collect twigs, dry grass, leaves, cotton and paper strips (fallen ones only). Your child builds a nest in a small bowl first as a mould, then lifts it out. Ask the book's questions as they work: 'What makes a good nest? What does the nest need to keep the eggs safe?' (A deep cup so eggs don't roll out, a soft lining to keep them warm, strong outer twigs woven together, and a hidden, high place away from cats and crows.) Test it: put 3 small marbles or chickpeas in as 'eggs' and gently tilt it. Do they stay in?",
+          "ref": "a1"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 5,
+          "do": "Start Worksheet ws1 (core). Today do Section A (islands and the sea) together; your child reads each question aloud and answers. Keep Sections B and C for Day 6. Where they get stuck, point to the right page: page 96 for buttress roots, page 98 for corals.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Textbook pages 101–104",
+        "the map of India",
+        "fallen twigs, dry grass, leaves, cotton, paper strips, a small bowl, 3 marbles or chickpeas",
+        "Worksheet ws1"
+      ],
+      "prep": [
+        {"task": "Collect fallen twigs, dry grass and leaves on a walk (or ask your child to)", "when": "night before"}
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Living root bridges and nature's hotspots",
+      "goal": "Learn how Khasi people grow bridges from living tree roots, try the book's root bridge challenge, and understand what makes a place a biodiversity hotspot.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Bridges made of roots (pages 104–105)",
+          "mins": 7,
+          "do": "Read page 104 from Shanti's question to Chandan the guide ('What are they? How are these made?') and his answer. Then explain the true details: in the hills of Meghalaya, Khasi and Jaintia people guide the roots of the rubber fig tree (Ficus elastica) across a stream, sometimes along hollow betel-nut trunks or bamboo, and wait. It takes 10 to 15 years or more before people can walk on it. Because the roots are alive, the bridge grows stronger every year, while a wooden bridge would rot in the heavy rain. Some are believed to be well over a hundred years old, and the village of Nongriat has a famous 'double-decker' one. Ask: 'Why would a living bridge be better than a wooden one in the wettest place on Earth?' (Wood rots in rain; living roots keep growing and mend themselves.) Read the fun fact on page 109 that Mawsynram in Meghalaya is the wettest inhabited place on Earth."
+        },
+        {
+          "kind": "act",
+          "title": "Root bridge challenge (page 105)",
+          "mins": 15,
+          "do": "Do Activity a2, the book's 'Root bridge challenge' on page 105. Put two chairs about 50 cm apart. Using only string, ice-cream sticks, straws or thin twigs (no tape across the gap at first), your child must build a bridge that holds a small toy in the middle. Let them try their own design first. If it sags, hint: 'The Khasi people twist many thin roots together. What if you twist three strings into one rope? What if you make a criss-cross net?' Test how many coins it holds before it sags. Compare: single string vs three twisted strings vs a woven net.",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "What is a hotspot? (page 105)",
+          "mins": 5,
+          "do": "Read page 105 from 'As they explored the islands and the Northeast' to Appa's line about nature's hotspot. Ask: 'What did Appa say makes these places special?' (Many plants and animals found here are found nowhere else in the world.) Add the second part of the scientific meaning: a biodiversity hotspot is a place that has a huge number of kinds of living things found nowhere else, AND is in danger of losing them because so much of its forest has already been cut. Tell your child that India has parts of four hotspots: the Himalaya, the Indo-Burma region (which includes Northeast India and the Andaman Islands), the Western Ghats (shared with Sri Lanka), and Sundaland (which includes the Nicobar Islands)."
+        },
+        {
+          "kind": "think",
+          "title": "Norman Myers and his map of hotspots",
+          "mins": 8,
+          "do": "Share Voice v4 in your own words: in 1988 a British ecologist, Norman Myers, said there was not enough money to save every forest at once, so we should first protect the few places that hold the most plants found nowhere else and are disappearing fastest. His first list included the Western Ghats. Ask the voice question. Then ask: 'Can you think of a place that is not a hotspot but is still worth saving?' (A local lake, the Thar desert, the grasslands where the Great Indian Bustard lives, the park near our home.) There is no single right answer.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Finish the core worksheet",
+          "mins": 10,
+          "do": "Finish Worksheet ws1, Sections B (Sundarbans) and C (Northeast). Check answers together. For the sort question, ask your child to explain one choice aloud: 'Why does the breathing root go with the Sundarbans?' Mark any wrong ones and look at the page again together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Textbook pages 104–105 and 109",
+        "2 chairs, string, ice-cream sticks or straws, thin twigs, a small toy, some coins",
+        "Worksheet ws1 from Day 5"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "The Western Ghats: forests, rivers and 200 kinds of mango",
+      "goal": "Locate the Western Ghats and its six states, learn which rivers start there and which animals live only there, and begin our own family survey of fruit varieties like Satish's mango survey.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Book Activity 3: map the Ghats (page 105)",
+          "mins": 8,
+          "do": "Do the book's Activity 3 on page 105. On a physical map of India (the kind with green lowlands and brown hills), trace the Western Ghats running down the west side of India, parallel to the Arabian Sea coast. Help your child name the six states it passes through, north to south: Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu. Ask: 'Where is the Western Ghats compared with the sea?' (Close to the west coast, like a long wall.) Explain that clouds blowing in from the sea in the monsoon hit this wall of hills, rise, cool and drop huge amounts of rain on the western side."
+        },
+        {
+          "kind": "talk",
+          "title": "The forest picture and the hilltop fort (pages 105–106)",
+          "mins": 7,
+          "do": "Look at the pictures on pages 105–106 and answer the 'Write' questions. 'What animals can you spot in the forest?' (Look for the lion-tailed macaque, hornbills, the Indian giant squirrel, elephants, tigers.) 'What are the people doing in the picture?' (Describe what you see.) 'Why were forts built on hilltops instead of flat land?' Good answers: from high up you can see enemies coming from far away; it is hard for an enemy to climb up while carrying weapons; it is easier to defend. Read the fun fact on page 105 about Kumbhalgarh Fort in Rajasthan, whose wall stretches over 36 km."
+        },
+        {
+          "kind": "read",
+          "title": "Animals found only here, and the rivers (pages 106–107)",
+          "mins": 7,
+          "do": "Read page 106 and the top of page 107: the lion-tailed macaque is found only here, several rivers begin in these hills, and many medicinal plants grow only here. Do the Write question: 'Name three rivers that start from the Western Ghats.' (Godavari, Krishna and Kaveri all begin in the Western Ghats and flow east across India to the Bay of Bengal; others include the Tungabhadra and Periyar.) Find them on the map. Ask: 'If the forests on these hills are cut, what might happen to these rivers far away?' (Less rain soaks into the ground, so springs dry up and the rivers get less water in the dry season; soil washes into the rivers.) Remind them that the Indian giant squirrel from Grade 4 lives here too (page 105)."
+        },
+        {
+          "kind": "read",
+          "title": "The mango survey (page 107)",
+          "mins": 5,
+          "do": "Read the story on page 107 of Satish the researcher and the students who found and recorded over 200 types of mangoes in the Western Ghats with help from schools and farmers. Ask: 'Why would scientists want to record so many kinds of mangoes?' Good answers: some may resist disease or drought, some taste special, some might be lost forever if no one plants them again. Ask Shanti's question: 'Can we do something like this for our place too?'"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 4: our fruit and vegetable varieties (page 107)",
+          "mins": 13,
+          "do": "Start Activity a3, the book's Activity 4 on page 107. Your child picks one fruit or vegetable that grows in your state (mango, banana, rice, brinjal, chilli or jackfruit work well). Together, list every variety you already know in a table: Name, Colour/shape, Taste, Where it grows. For mango you might list Alphonso (Hapus), Banganapalli, Dasheri, Langra, Kesar, Totapuri, Neelam. Then your child phones or visits one elder (a grandparent, the vegetable seller, a neighbour) to ask for varieties they remember, including old ones not seen in shops any more. Add those to the table in a different colour.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 5,
+          "do": "Give Worksheet ws2 (stretch). Your child does Section A today on their own, then you check it together. Keep the rest for Day 8.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Textbook pages 105–107",
+        "a physical map of India (in an atlas or on a phone)",
+        "a notebook page with a 4-column table",
+        "a phone to call an elder",
+        "Worksheet ws2"
+      ],
+      "prep": [
+        {"task": "Tell a grandparent or neighbour your child may call or visit to ask about old fruit and vegetable varieties", "when": "2 days before"}
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Silent Valley and protected places",
+      "goal": "Learn how ordinary people saved Silent Valley from being flooded, what protected areas are, and make our own protection plan and trip plan.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Survey update",
+          "mins": 3,
+          "do": "Look at the variety table from Activity a3. Add any new names from the elder your child spoke to. Ask: 'Which varieties have you never tasted? Why do you think they are hard to find now?' (Shops sell only a few popular kinds that travel and store well.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "The forest that was saved (page 108)",
+          "mins": 7,
+          "do": "Read page 108 aloud: Appa's story of the Silent Valley National Park in Kerala, the dam that would have flooded it, and the Save Silent Valley Movement of villagers, students and scientists. Ask: 'Why was the valley called silent?' (The book says it lacks the loud sound of cicada insects common in other rainforests.) Read the 'Do you know?' box on protected areas, then do the Write question on page 109: 'List three protected areas in the Western Ghats.' Examples: Silent Valley National Park and Periyar Tiger Reserve (Kerala), Bandipur and Nagarhole (Karnataka), Mudumalai (Tamil Nadu), Eravikulam National Park (Kerala, home of the Nilgiri tahr), Koyna Wildlife Sanctuary (Maharashtra)."
+        },
+        {
+          "kind": "think",
+          "title": "The people who saved Silent Valley",
+          "mins": 9,
+          "do": "Share Voice v2 in your own words: the science teachers' and writers' group Kerala Sastra Sahitya Parishad, the poet Sugathakumari and scientists argued that this untouched forest and its lion-tailed macaques were worth more than the electricity the dam would make. The fight lasted years; the dam plan was dropped and the park was made in 1984. Then hold a mini debate. You argue for the dam ('People need electricity and jobs!'); your child argues for the forest. Then swap sides. Ask the voice question at the end.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Our protection plan (page 104 Discuss)",
+          "mins": 8,
+          "do": "Do the Discuss task from page 104: choose one animal or bird near your home that needs protection (sparrows, a nesting pigeon pair, street dogs, a neighbourhood tree full of bats, frogs in a park pond, butterflies). Make a plan together on one page: What is the problem? (for example no nesting places, no water in summer). What can we do? (put out a shallow water bowl, plant native flowering plants, don't cut the old tree, keep plastic out of the pond). Who can help? (neighbours, school). Like the Hargila Army, think about how to get other people to care too."
+        },
+        {
+          "kind": "ws",
+          "title": "Finish stretch, try the challenge",
+          "mins": 10,
+          "do": "Your child finishes Worksheet ws2 (stretch). Then give Worksheet ws3 (challenge) and do Section A together, talking through the puzzles. These are harder thinking questions; it is fine to discuss them before writing. Keep the rest of ws3 for Day 9 or a free afternoon.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "act",
+          "title": "Plan a trip to one unique place",
+          "mins": 8,
+          "do": "Start Activity a4. Your child picks one place from Shanti's journey and plans a trip from your home: route on the map (train, bus, ferry, flight), number of days, a simple budget in ₹ (look up one train fare together), a packing list suited to the place (raincoat for Meghalaya, life jacket rule for the Andamans, mosquito net and long sleeves for the Sundarbans), and three things to see. If they want, they can turn it into a shoebox diorama over the weekend.",
+          "ref": "a4"
+        }
+      ],
+      "need": [
+        "Textbook pages 104, 108–109",
+        "the variety table from Day 7",
+        "Worksheets ws2 and ws3",
+        "map of India, a phone to look up a train fare",
+        "optional: a shoebox, clay, coloured paper for a diorama"
+      ],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Kanyakumari: let us reflect, check and teach it back",
+      "goal": "Finish the journey where three seas meet, answer the book's reflection questions, check understanding and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Where three seas meet (page 109)",
+          "mins": 5,
+          "do": "Read page 109 aloud, the end of the journey at Kanyakumari, the southernmost point of the Indian mainland where three seas meet. Ask: 'Which three?' (The Arabian Sea, the Bay of Bengal and the Indian Ocean.) Ask: 'What is the difference between Kanyakumari and Indira Point?' (Kanyakumari is the southern tip of the mainland; Indira Point, on an island, is further south.) Then do Write questions 1–3 on page 109 aloud: what surprised you most, which place you would like to visit, and how your region is similar to or different from one of the places."
+        },
+        {
+          "kind": "review",
+          "title": "Sea animal match (page 110)",
+          "mins": 8,
+          "do": "Do question 4 on page 110, matching the sea animals to their features. The features describe: starfish (no brain, can regrow arms), seahorse (swims upright, face like a horse), sea turtle (hard shell, returns to the beach where it was born to lay eggs), octopus (eight arms, changes colour to hide), clownfish (lives safely among stinging sea anemones), coral (tiny animals that form reefs), jellyfish (soft see-through body, stings with tentacles) and dolphin (smart mammal that breathes air and lives in groups). Then ask question 5: 'What is special about mangroves?' and question 6: 'How do people in different regions live in harmony with nature?' Expect at least three examples from the week (root bridges, Hargila Army, Sundarbans honey collectors, Apatani rice-and-fish farming from the page 97 fact)."
+        },
+        {
+          "kind": "game",
+          "title": "Where in India? Final round",
+          "mins": 7,
+          "do": "Play the full 'Where in India?' game with all the clue cards made this week, plus these from you: 'I am the wettest inhabited place on Earth.' (Mawsynram.) 'My bridges are alive.' (Meghalaya.) 'A dam nearly flooded me, but people saved me.' (Silent Valley.) 'Three seas meet at my feet.' (Kanyakumari.) 'Women here hold baby showers for storks.' (Assam.) Keep score; the loser has to name one endemic animal of the winner's choice of place."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 12,
+          "do": "Ask the 8 check questions aloud, one at a time, and let your child answer without the book. Tick the ones answered well. For any missed answer, open the page together for a minute (page 96 for buttress roots, 98 for corals, 100 for mangroves, 105 for hotspots, 108 for Silent Valley), then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 3 and Day 4 mangrove lessons next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child becomes a tour guide like Rani or Chandan, and you (or a grandparent) are the tourist. Using the map and real things from the week (the paper tree with roots, the root tray, the nest, the root bridge, the variety table), they take you on Shanti's trip in 5 minutes, covering: one special thing in each place; why some animals live only there; how mangrove roots help; what a hotspot and a protected area are. Ask two 'tourist' questions such as 'Why do mangroves have roots sticking up?' and 'Why can't I visit North Sentinel Island?' End with the book's idea on page 109: what can our family do to protect the land we call home? Start the page 111 collage of 'vibrant India' (question 7) as a weekend project, along with the diorama if your child chose one."
+        }
+      ],
+      "need": [
+        "Textbook pages 109–111",
+        "the clue cards from the week",
+        "the map, paper tree, root tray, nest and root bridge from earlier days",
+        "old magazines or newspapers, glue and chart paper for the collage"
+      ],
+      "prep": [
+        {"task": "Collect old magazines or newspaper pictures of Indian places, festivals and animals for the collage", "when": "2 days before"}
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Islands, mangroves and the Northeast",
+      "day": 5,
+      "sections": [
+        ["A. Islands and the sea", [
+          {"t": "fill", "p": "Land surrounded by water on all sides is called an ____.", "a": ["island"]},
+          {"t": "fill", "p": "The southernmost point of India is ____ Point, in the Nicobar Islands.", "a": ["Indira"]},
+          {"t": "mcq", "p": "Why do some trees in the Andaman forests have wide roots spreading out from the bottom of the trunk?", "opts": ["To catch rain", "To support the tall tree so it stays upright", "To store food", "To scare away animals"], "a": 1},
+          {"t": "mcq", "p": "A coral is:", "opts": ["A coloured stone", "A kind of seaweed", "A tiny sea animal that builds a hard home", "A fish"], "a": 2},
+          {"t": "write", "p": "Why must everyone wear a life jacket on a ferry, even good swimmers?", "lines": 2}
+        ]],
+        ["B. The Sundarbans", [
+          {"t": "fill", "p": "The Sundarbans is the largest ____ forest in the world.", "a": ["mangrove"]},
+          {"t": "mcq", "p": "The stick-like roots poking out of the mud help mangroves to:", "opts": ["Breathe air", "Catch fish", "Drink sea water faster", "Climb other trees"], "a": 0},
+          {"t": "write", "p": "Give two ways people of the Sundarbans depend on the mangrove forest.", "lines": 2}
+        ]],
+        ["C. Northeast India", [
+          {"t": "sort", "p": "Sort these into the place where Shanti saw them.", "items": ["Andaman hornbill", "Breathing roots", "Living root bridge", "Coral reef", "Tiger masks", "Hargila stork", "Bhut jolokia chilli", "Buttress roots"], "cats": ["Andaman and Nicobar Islands", "Sundarbans", "Northeast India"]},
+          {"t": "mcq", "p": "Many houses in the Northeast are built on bamboo stilts. One good reason is:", "opts": ["To keep them above floodwater and mud", "Bamboo is very heavy", "So people can fish from the window", "Because it never rains there"], "a": 0}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Using what we learned in new places",
+      "day": 7,
+      "sections": [
+        ["A. Why only here?", [
+          {"t": "write", "p": "The Nicobar pigeon and the Andaman hornbill live on islands far from the mainland. Explain why islands often have animals found nowhere else.", "lines": 3},
+          {"t": "mcq", "p": "Which of these is endemic to the Western Ghats (found naturally nowhere else)?", "opts": ["House crow", "Lion-tailed macaque", "Rock pigeon", "Domestic cow"], "a": 1},
+          {"t": "fill", "p": "A place with many plants and animals found nowhere else, which is also in danger of losing them, is called a biodiversity ____.", "a": ["hotspot"]}
+        ]],
+        ["B. Roots at work", [
+          {"t": "match", "p": "Match each root to how it helps.", "pairs": [["Buttress roots", "Hold a tall tree upright in thin soil"], ["Breathing roots", "Take in air from above the airless mud"], ["Rubber fig roots in Meghalaya", "Grow into a living bridge"], ["Grass roots on a slope", "Hold soil so rain does not wash it away"]]},
+          {"t": "write", "p": "In our root tray test, which tray lost more soil to the waves? What does this tell you about cutting down mangroves to build fish ponds?", "lines": 3},
+          {"t": "mcq", "p": "We put cucumber slices in very salty water and they went floppy. This shows that:", "opts": ["Salt makes plants grow faster", "Salty water pulls water out of plant cells", "Cucumbers like salt", "Salt water is the same as tap water for plants"], "a": 1}
+        ]],
+        ["C. Map and rivers", [
+          {"t": "table", "p": "Fill in the table for each place on Shanti's trip.", "cols": ["Place", "Which part of India?", "One plant or animal", "How people care for it"], "rows": 4, "prefill": ["Andaman Islands", "Sundarbans", "Meghalaya", "Western Ghats"]},
+          {"t": "fill", "p": "The Godavari, Krishna and Kaveri rivers begin in the ____ Ghats.", "a": ["Western"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Think like a scientist and a planner",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "A living root bridge takes 15 years to become strong. A wooden bridge can be built in a week. Give one reason a village might still choose the root bridge.", "lines": 3},
+          {"t": "mcq", "p": "After the 2004 tsunami, villages behind mangroves seemed to have less damage. A scientist says, 'But they were also further from the sea.' What should we do to find out whether the mangroves really helped?", "opts": ["Believe the first report", "Compare villages that are the same distance from the sea and at the same height, some with mangroves and some without", "Ask only the people who planted the mangroves", "Count the tigers"], "a": 1},
+          {"t": "write", "p": "What if all the forests on the Western Ghats were cut down? Describe two things that might happen to a farmer living far away near the Kaveri river.", "lines": 3}
+        ]],
+        ["B. Weighing both sides", [
+          {"t": "table", "p": "Silent Valley: list the reasons for and against the dam that was planned.", "cols": ["For the dam", "Against the dam"], "rows": 3},
+          {"t": "write", "p": "The people of North Sentinel Island do not want visitors. Give two reasons why it is right to respect their wish.", "lines": 3},
+          {"t": "write", "p": "Norman Myers said: protect the hotspots first, because money is short. Do you agree? Name one place that is not a hotspot but you think is still worth protecting, and say why.", "lines": 4}
+        ]],
+        ["C. Design it", [
+          {"t": "draw", "p": "Design a nest for the Hargila stork in a tall tree. Label what keeps the eggs safe from wind, rain and crows."},
+          {"t": "write", "p": "Write three clues, from hardest to easiest, for a 'Where in India?' card about a unique place NOT in this chapter (for example the Rann of Kutch, Loktak Lake or Ladakh).", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Can a paper tree stand up? Buttress roots (book Activity 1, page 96)",
+      "day": 1,
+      "question": "Do wide roots spreading out from the bottom of a trunk help a tall tree stay upright?",
+      "need": ["2 sheets of newspaper or used paper the same size", "glue or tape", "thick paper or card", "scissors", "a notebook to fan with"],
+      "steps": [
+        "Roll each sheet tightly into a thin tube about 25 cm tall and glue the edge so it does not open.",
+        "Stand tube 1 on a flat table. Does it stay up? Fan it gently 5 times with a notebook from 30 cm away and count how many fans it survives.",
+        "Cut 4 right-angled triangles from card, each about 5 cm tall. Fold a small flap on the long sides and glue them evenly round the bottom of tube 2, like fins.",
+        "Stand tube 2 up and fan it in exactly the same way, from the same distance.",
+        "Now fan harder, from closer, and see which falls first. Try 2 triangles instead of 4 and see if it matters which way you fan."
+      ],
+      "predict": "Ask your child to guess first: which tube will stay up longer when we make wind? Will the side without a triangle be weaker?",
+      "observe": "Count how many fans each tube survives. The plain tube usually falls easily or will not stand at all; the tube with triangles stands much more firmly. With only 2 triangles, it falls more easily when fanned from the side with no triangle.",
+      "why": "A tall, thin thing standing on a small base tips over easily, because a small push at the top turns it around its narrow bottom edge. The triangles make the base much wider, so the tube would have to lift a whole fin off the table to tip over. Rainforest trees in places like the Andamans grow very tall to reach the light, but the rich soil is often only a thin layer, so their roots cannot go very deep. Wide, flat buttress roots spread out on all sides like the triangles and brace the tree against wind and its own weight. Builders use the same idea: old temple and church walls have thick 'buttress' supports.",
+      "safety": "",
+      "time": "13 min"
+    },
+    {
+      "id": "e2",
+      "title": "Do roots stop waves washing land away?",
+      "day": 1,
+      "question": "Does soil held by roots wash away less than bare soil when water and waves hit it?",
+      "need": ["2 identical trays or cut-open milk cartons", "garden soil", "2 tablespoons mustard (rai) or methi seeds", "water and a mug", "2 books", "2 plates", "a clump of grass with soil (backup)"],
+      "steps": [
+        "Day 1: Fill both trays with the same amount of soil and press it down. Sow the seeds thickly in one tray and cover lightly; leave the other bare. Label 'Roots' and 'No roots'.",
+        "Water both the same amount every day and keep them in the same place.",
+        "Day 4: Prop the same end of each tray on a book so both slope equally, with a plate at the low end.",
+        "Pour one mug of water slowly over the top of each tray in the same way.",
+        "Splash five 'waves' from the low end with a cupped hand, the same for each tray.",
+        "Compare the mud on the two plates and how much soil is left in each tray."
+      ],
+      "predict": "Ask your child to guess first: which tray will lose more soil? Will tiny roots only 3 days old make any difference?",
+      "observe": "Look at how muddy the water on each plate is and whether the bare tray has a groove washed into it. Usually the bare tray loses much more soil and gets channels cut into it; the root tray holds together like a mat. Pull up a clump and see how soil clings to the roots.",
+      "why": "Roots grow in every direction and wrap around soil grains, binding them into a net, while leaves above slow down falling water. So the water has to carry soil away grain by grain against the grip of the roots. Mangroves do this on a giant scale: their tangled roots trap mud brought by rivers, so the coast can even grow outwards, and the roots and trunks slow down waves before they reach the land. When mangroves are cut down for fish ponds or buildings, coasts wash away much faster.",
+      "safety": "Wash hands after handling soil.",
+      "time": "5 min to sow + 2 min checks + 15 min test on Day 4"
+    },
+    {
+      "id": "e3",
+      "title": "The life jacket test",
+      "day": 2,
+      "question": "How does something full of air keep a heavy thing afloat?",
+      "need": ["a bucket of water", "a small sinking toy, steel spoon or stone", "2 small plastic bottles with caps", "a rubber band", "water"],
+      "steps": [
+        "Drop the toy into the bucket alone. Does it sink or float?",
+        "Tie the toy to an empty, capped bottle with the rubber band and drop it in.",
+        "Fill the second bottle completely with water, cap it, tie it to the toy and drop it in.",
+        "Push the empty bottle under the water with your hand and feel how hard it pushes back up.",
+        "Try with two toys tied to one empty bottle. How much can one bottle hold up?"
+      ],
+      "predict": "Ask your child to guess first: will the toy float when tied to the empty bottle? What about the bottle full of water?",
+      "observe": "The toy alone sinks. Tied to the empty bottle it floats. Tied to the water-filled bottle it sinks again. Your hand feels a strong push upwards when holding the empty bottle under water.",
+      "why": "Water pushes up on anything put into it; this push is called buoyancy, and it is bigger when the object pushes more water out of the way. An empty bottle takes up lots of space but is very light, because it is full of air, so the upward push of the water is stronger than its weight and it floats, with enough extra push to hold up the toy too. The water-filled bottle is as heavy as the water it pushes aside, so it adds no extra lift. A life jacket is made of foam full of tiny air pockets, so it is big but light and holds a person's head above water even if they are tired, hurt or cannot swim.",
+      "safety": "Always stay with your child near a bucket of water and empty it afterwards.",
+      "time": "10 min"
+    },
+    {
+      "id": "e4",
+      "title": "Cucumber in salt water: why salty mud is hard for plants",
+      "day": 3,
+      "question": "What does very salty water do to a plant's living cells?",
+      "need": ["1 cucumber or raw potato", "a knife (adult use)", "2 bowls", "3 spoons of salt", "water", "a clock"],
+      "steps": [
+        "An adult cuts 4 thin slices of cucumber, all about the same thickness.",
+        "Fill both bowls with the same amount of water. Stir 3 spoons of salt into one bowl until it dissolves.",
+        "Put 2 slices in the plain water and 2 in the salt water.",
+        "Wait 15 minutes.",
+        "Take out one slice from each bowl and try to bend it gently. Feel and compare them.",
+        "Optional: put a floppy slice back into plain water for 30 minutes and see if it stiffens again."
+      ],
+      "predict": "Ask your child to guess first: after 15 minutes will the slices in salt water feel the same, stiffer or softer than the ones in plain water?",
+      "observe": "The salt-water slices go limp and bendy and may look a little shrunk; the plain-water slices stay stiff and crisp. A floppy slice put back in plain water often firms up again.",
+      "why": "A plant is made of tiny cells, each full of watery juice, and when cells are full they press outwards and keep the plant stiff. Water moves through the thin cell walls from where it is less salty to where it is more salty. So in salty water, water leaves the cucumber cells, the cells shrink and the slice goes floppy. That is why most plants die when sea water floods a field. Mangroves have special tricks: many keep most of the salt out at their root surface, some store salt in old leaves that then drop off, and some, like the grey mangrove (Avicennia), push salt out through tiny glands on their leaves, where white crystals can sometimes be seen.",
+      "safety": "Only an adult uses the knife. Do not eat the salty slices.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Build a bird's nest (book Activity 2, page 104)",
+      "day": 5,
+      "mins": 16,
+      "need": ["fallen twigs", "dry grass and leaves", "cotton or soft paper strips", "a small bowl as a mould", "3 marbles or chickpeas"],
+      "steps": [
+        "Look at the nest picture in the book or a photo of a weaver bird's or tailorbird's nest, and talk about what nests are made of.",
+        "Bend the longest twigs round inside the bowl to make the outer ring, weaving shorter twigs in and out.",
+        "Push dry grass into the gaps to make it firm.",
+        "Line the inside with cotton or soft paper for warmth.",
+        "Lift the nest out of the bowl. Put in 3 marbles as eggs and tilt it gently. Fix any weak spots.",
+        "Talk about where a real bird would hide this nest to keep it safe from cats, crows and rain."
+      ],
+      "outcome": "A handmade nest that holds 'eggs', and an understanding that a good nest needs strength, a deep cup, a soft warm lining and a safe place, the same things the Hargila Army protects for the Greater Adjutant Stork."
+    },
+    {
+      "id": "a2",
+      "title": "Root bridge challenge (book, page 105)",
+      "day": 6,
+      "mins": 15,
+      "need": ["2 chairs", "string", "ice-cream sticks or straws", "thin twigs", "a small toy", "coins for testing"],
+      "steps": [
+        "Place two chairs about 50 cm apart.",
+        "Your child designs and builds a bridge between them using only string, sticks or twigs.",
+        "Test it with the small toy in the middle, then add coins one at a time until it sags.",
+        "Improve it: twist three strings into one rope, or weave strings into a net like tangled roots.",
+        "Test again and record the number of coins each design holds."
+      ],
+      "outcome": "A tested bridge and a record showing that many strands twisted or woven together are far stronger than one, which is how many thin rubber-fig roots, grown together over years, become a bridge strong enough for people."
+    },
+    {
+      "id": "a3",
+      "title": "Our own variety survey (book Activity 4, page 107)",
+      "day": 7,
+      "mins": 13,
+      "need": ["notebook with a 4-column table", "a phone to call an elder", "two pen colours"],
+      "steps": [
+        "Pick one fruit or vegetable grown in your state.",
+        "List every variety your family knows, with colour or shape, taste and where it grows.",
+        "Call or visit an elder or the local vegetable seller and ask about varieties, especially old ones no longer seen in shops.",
+        "Add the new ones in a different colour.",
+        "Count the total and circle the ones you have never tasted. Try to find one at the market this month."
+      ],
+      "outcome": "A family record of local varieties, like Satish's mango survey, and the understanding that variety within one fruit is also biodiversity that can be lost if no one remembers or plants it."
+    },
+    {
+      "id": "a4",
+      "title": "Plan a trip to one unique place",
+      "day": 8,
+      "mins": 8,
+      "need": ["map of India", "notebook", "a phone to look up a fare", "optional: a shoebox, clay and coloured paper"],
+      "steps": [
+        "Choose one place from Shanti's journey.",
+        "Draw the route from your home on the map and choose how to travel.",
+        "Write a simple budget in ₹: travel, food per day, stay.",
+        "Write a packing list that suits the place's weather and rules.",
+        "List three things to see and one rule visitors must follow to protect the place.",
+        "Optional weekend project: build a shoebox diorama of the place and record a one-minute 'tour guide' video."
+      ],
+      "outcome": "A trip plan (and, if chosen, a diorama and short video) that shows your child knows where the place is, what makes it unique and how a visitor should behave there."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Farid Dahdouh-Guebas, Finn Danielsen and other scientists who studied mangroves after the 2004 Indian Ocean tsunami, and their critics",
+      "idea": "After the tsunami of 26 December 2004, several research teams reported that coastal villages sheltered by mangrove forests or other coastal trees suffered less damage than villages without them. A widely read 2005 paper in the journal Science, led by Finn Danielsen, compared villages in Cuddalore district of Tamil Nadu and suggested the trees had protected people. This became a strong argument for replanting mangroves.",
+      "then": "Other scientists soon pushed back. In 2006 and 2007 papers, critics pointed out that the 'protected' villages were often also further from the sea or on higher ground, and that for a very large tsunami the distance and height of a village mattered much more than the trees in front of it.",
+      "now": "Most scientists today agree that mangroves do weaken ordinary waves, storm surges from cyclones and small tsunamis, and they protect coasts from erosion; this is why India and Bangladesh replant them. But how much they can do against a giant tsunami is still debated, and everyone agrees that warning systems and running to high ground save the most lives.",
+      "status": "debated",
+      "ask": "Two villages were hit by the same tsunami. One, behind mangroves, was safer. What else would you want to know about the two villages before you decided it was the mangroves that saved it?",
+      "day": 4
+    },
+    {
+      "id": "v2",
+      "who": "The Save Silent Valley campaigners, Kerala (1970s–1984): the Kerala Sastra Sahitya Parishad, the poet Sugathakumari and scientists",
+      "idea": "In the 1970s the Kerala government planned a hydroelectric dam on the Kunthipuzha river in Silent Valley, which would have flooded part of one of India's last untouched rainforests. The people's science group Kerala Sastra Sahitya Parishad, the poet Sugathakumari, students, villagers and scientists argued that the forest, its rare plants and the endemic lion-tailed macaque were worth more standing than the electricity the dam would make, and that power could be found in other ways.",
+      "then": "Many people in Kerala wanted the dam for electricity and jobs, and the campaigners were accused of caring more about monkeys than people. The debate went on for years and reached the Prime Minister, Indira Gandhi.",
+      "now": "The dam plan was dropped, and Silent Valley was declared a National Park in 1984. Today it is a core part of the Nilgiri Biosphere Reserve, and the campaign is remembered as one of India's first big public movements to save a forest. Scientists now know that the forests of the Western Ghats feed rivers that millions of people depend on.",
+      "status": "accepted",
+      "ask": "People needed electricity, and the forest was precious. Was there a way to get both? What questions should a government ask before building a dam in a forest?",
+      "day": 8
+    },
+    {
+      "id": "v3",
+      "who": "Purnima Devi Barman, wildlife biologist, Assam, India",
+      "idea": "The Greater Adjutant Stork, called Hargila ('bone-swallower') in Assamese, is a huge bald stork that eats carrion and scraps at rubbish dumps. It had become endangered, partly because people cut down the trees where it nests, thinking the bird was dirty and a bad omen. Purnima Devi Barman, a biologist working with the conservation group Aaranyak, started in about 2007 to change people's minds instead of just guarding nests. She brought village women together into the 'Hargila Army', who hold baby showers for the chicks, sing songs about the bird and weave its shape into gamochas and mekhelas they can sell.",
+      "then": "At first many villagers laughed at her and some were angry; few people believed you could make anyone love a bird that smells of rotten food.",
+      "now": "In the villages of Kamrup district where the Hargila Army works, nesting stork numbers have grown many times over, and the Kamrup colonies are now among the largest breeding colonies of this bird in the world. Her work has won international awards, including the United Nations Environment Programme's Champions of the Earth award in 2022.",
+      "status": "accepted",
+      "ask": "Purnima Devi Barman protected a bird by changing what people felt about it, not by building fences. Why might that work better? Can you think of an animal near us that people dislike but that is useful?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "Norman Myers (1934–2019), British ecologist",
+      "idea": "In 1988 Norman Myers argued that conservation money is limited, so we should first protect 'hotspots': places with very large numbers of plant species found nowhere else that are also losing their natural forests fastest. His first list of hotspots included the Western Ghats. In 2000 he and colleagues published a world list of 25 hotspots in the journal Nature.",
+      "then": "The idea was taken up by big conservation groups such as Conservation International, which used it to decide where to spend money. Some scientists warned that it focuses mostly on plants and on tropical forests, and could leave out places like grasslands, deserts, rivers and the sea that are also rich and threatened.",
+      "now": "Today 36 hotspots are recognised, and India has parts of four: the Himalaya, Indo-Burma (including Northeast India and the Andaman Islands), the Western Ghats and Sri Lanka, and Sundaland (including the Nicobar Islands). Scientists accept hotspots as a useful tool, but most say we also need other ways of choosing which places to protect.",
+      "status": "accepted",
+      "ask": "If you had money to save only one place, would you choose the place with the most kinds of animals, the place in the most danger, or the place most people depend on? Why?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "What is an island? Name two groups of islands that belong to India.", "a": "Land surrounded by water on all sides. The Andaman and Nicobar Islands, and Lakshadweep."},
+    {"q": "Why do some birds, like the Andaman hornbill, live only on these islands?", "a": "The islands are far out at sea, so animals that reached them long ago stayed separate and slowly became their own kinds, found nowhere else (endemic)."},
+    {"q": "How do buttress roots help a tall rainforest tree?", "a": "They spread out wide at the bottom of the trunk like walls or triangles, making a wide base so the tall tree does not topple over, even in thin soil."},
+    {"q": "What is a coral, and how does a coral reef help fish?", "a": "A coral is a tiny sea animal that builds a hard stony home; together they form reefs, which give fish places to hide, lay eggs and find food."},
+    {"q": "Name two special things about mangroves.", "a": "They grow in salty, muddy water by keeping out or pushing out salt; they have breathing roots that stick up out of the mud for air; their roots hold soil and weaken waves."},
+    {"q": "What is a living root bridge and where is it found?", "a": "A bridge grown from the living roots of rubber fig trees guided across a stream over many years, made by Khasi and Jaintia people in Meghalaya."},
+    {"q": "What is a protected area? Name one in the Western Ghats.", "a": "A place kept safe by the government where trees must not be cut and animals must not be harmed; for example Silent Valley National Park, Periyar Tiger Reserve or Bandipur."},
+    {"q": "Who is the Hargila Army and what did they do?", "a": "Village women in Assam, led by biologist Purnima Devi Barman, who protect the nests of the Greater Adjutant Stork (Hargila) and changed people's minds about the bird, so its numbers grew."}
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "key": "cambridge|sci|3|1",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 3,
+  "n": 1,
+  "title": "Looking after plants",
+  "source": "Cambridge Primary Science Learner's Book 3 (Board and Cross, 1st edition, 2014), Unit 1 'Looking after plants' (pages 6–15)",
+  "summary": "Your child learns the four main parts of a plant (roots, stem, leaves, flowers) and what each does, and how to tell a healthy plant from an unhealthy one. Through real fair tests at home they find out that plants need light and water to stay healthy, that roots absorb water and the stem transports it (seen with a celery stalk turning blue), and that temperature changes how fast plants grow.",
+  "goals": [
+    "By the end your child can name and point to the roots, stem, leaves and flowers on a real plant and say the job of each.",
+    "By the end your child can look at a plant and say whether it is healthy or unhealthy, giving reasons (yellow or spotted leaves, a floppy stem, crowded or damaged roots).",
+    "By the end your child can explain, from their own fair tests, that plants need light and water to grow and keep their stems and leaves healthy, and what wilting is.",
+    "By the end your child can describe how water travels from the soil into the roots, up the stem and out to the leaves and flowers, using the celery experiment as evidence.",
+    "By the end your child can plan a fair test (change one thing, keep everything else the same), measure plant height with a ruler, read a thermometer, record results in a table and draw a simple bar chart.",
+    "By the end your child can say that plants grow more slowly in the cold, more quickly when it is warm, and die if they get too hot or too cold."
+  ],
+  "words": [
+    ["roots", "the parts of a plant, usually under the ground, that hold it firmly in the soil and absorb water"],
+    ["stem", "the part that holds the plant up and transports water from the roots to the leaves and flowers"],
+    ["leaves", "the flat, usually green parts of a plant that make food for the plant using light"],
+    ["flowers", "the parts of a plant that help it make seeds"],
+    ["transport", "to carry something from one place to another; the stem transports water"],
+    ["absorb", "to soak up, like a sponge soaking up water; roots absorb water from the soil"],
+    ["healthy", "growing well and strong; a healthy plant has firm green leaves, a firm stem and spread-out roots"],
+    ["unhealthy", "not growing well; for example yellow, spotted or dry leaves, or swollen, rotten or crowded roots"],
+    ["wilt", "when a plant droops and goes floppy because it has not had enough water (or light)"],
+    ["fair test", "an investigation where you change only one thing and keep everything else the same, so you know what caused the result"],
+    ["temperature", "how hot or cold something is, measured in degrees Celsius (°C) with a thermometer"],
+    ["conclusion", "what you have found out from your results, said in one or two sentences"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Plants and their four main parts",
+      "goal": "Notice how different plants look, learn the four main parts and their jobs on a real plant, and make a model plant with labels.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Three very different plants",
+          "mins": 5,
+          "do": "Bring three very different plants (or point to them from the balcony or in the colony garden): for example a tulsi pot, a bunch of coriander from the sabzi bag with its roots still on, and a big tree like neem or mango. Ask: 'Are these all plants? How are they different?' Good answers: size (tiny coriander, huge neem), leaf shape (round, feathery, long), some have flowers and some do not, a tree's stem is thick, brown and woody while coriander's is thin and green. Then ask: 'What do all of them have?' Let them guess before you open the book. If they are stuck, point to the coriander roots and ask, 'Does the neem tree have these too, hidden under the ground?'"
+        },
+        {
+          "kind": "read",
+          "title": "Plants and their parts (page 6)",
+          "mins": 8,
+          "do": "Open the Learner's Book at page 6, Topic 1.1 'Plants and their parts'. Read aloud: 'Plants can look very different. Most have four main parts.' Read the 'Words to learn' box together: leaves, flowers, stem, transport, roots, healthy, unhealthy. Then point to each label in the big tree picture and read it: leaves make food for the plant; flowers help the plant to make seeds; the stem transports water around the plant; roots support the plant and collect water from the soil. Ask: 'Which part is under the ground?' (Roots.) 'What does transport mean?' (Carry from one place to another, like a truck transports vegetables to the mandi.) 'Which part makes the plant's food?' (Leaves.)"
+        },
+        {
+          "kind": "do",
+          "title": "Find the parts on a real plant",
+          "mins": 10,
+          "do": "Use the coriander bunch, or gently pull up a small weed from a pot or a crack in the pavement with its roots and soil. Lay it on newspaper. Your child points to and names the roots, stem and leaves, and a flower if there is one (weeds often have tiny ones). Ask them to tug the root gently against the soil: 'What would happen in the wind without roots?' (The plant would blow over; roots hold it firm.) Show the fine hairy threads on the roots and say: 'These tiny root hairs soak up water.' Then snap the stem and ask: 'Is it wet inside?' (Yes, the stem carries water.) Ask them to draw the plant in their notebook and label the four parts."
+        },
+        {
+          "kind": "act",
+          "title": "Activity 1.1: Make a model plant (page 6)",
+          "mins": 15,
+          "do": "Do Activity a1, the book's Activity 1.1 on page 6. Your child makes a model plant like the one in the picture: a straw for the stem, bits of string or wool for the roots, coloured paper leaves and a paper flower. Then they write four labels (stem, roots, leaves, flower) and, on the back of each label, the job of that part. Stick the labels on with sticky tape. If they write only the name, ask, 'And what does it do for the plant?' and help them write a short job line, for example 'roots: hold the plant and collect water'.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Seedling check and tomorrow",
+          "mins": 2,
+          "do": "Show your child the cups of moong seedlings you sowed last week (see prep). Say: 'These baby plants will help us do real experiments, like scientists, from Day 3.' Ask them to count how many cups have healthy seedlings and point to the roots, stem and leaves on one."
+        }
+      ],
+      "need": [
+        "Learner's Book page 6",
+        "a coriander bunch with roots, or a small weed pulled up with roots",
+        "newspaper",
+        "2–3 straws, string or wool, coloured paper or card, sticky tape, glue, scissors",
+        "notebook and pencil",
+        "the moong seedling cups (see prep)"
+      ],
+      "prep": [
+        {
+          "task": "Sow 17 small paper or plastic cups of soil with 3 whole moong seeds each (poke holes in the bottom of each cup), water them and keep them on a bright windowsill. These become the young plants for the light, water and temperature tests. If you prefer, buy small seedlings from a nursery instead.",
+          "when": "1 week before"
+        },
+        {
+          "task": "Buy a coriander bunch with roots still on",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Healthy and unhealthy plants",
+      "goal": "Learn to tell a healthy plant from an unhealthy one by looking at roots, stems and leaves, and become a 'plant doctor' in the neighbourhood.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "What does each part do?",
+          "mins": 4,
+          "do": "Hold up yesterday's model plant and cover the labels with your hand. Point to each part and ask your child to name it and say its job. Good answers: 'Roots hold the plant and collect water from the soil. The stem carries water. Leaves make food. Flowers help make seeds.' If they say 'roots eat soil', gently correct: 'Roots take up water from the soil, with tiny amounts of minerals dissolved in it. The plant's food is made in the leaves.'"
+        },
+        {
+          "kind": "read",
+          "title": "Healthy plants (page 7)",
+          "mins": 8,
+          "do": "Read page 7 aloud: 'Healthy plants have healthy roots, stems and leaves. A plant with unhealthy roots, stems and leaves will not grow well.' Look at the four photos together: healthy leaves; a plant with healthy roots (lots of fine, spread-out roots); unhealthy roots with root knot disease (swollen lumpy roots); unhealthy leaves with rust disease (orange spots). Ask: 'How can you tell the leaves in the rust picture are unhealthy?' (Orange-brown spots, patches that are not green.) 'What is different about the knotty roots?' (They are swollen and lumpy instead of thin and spread out.) Tell them: root knot is caused by tiny worms called nematodes living in the roots, and rust is caused by a fungus. Both are common on Indian farms, for example on tomato, brinjal and wheat."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Plant doctor walk",
+          "mins": 15,
+          "do": "Do Activity a2. Walk around your home, balcony, building garden or the road outside with a notebook. Your child is the 'plant doctor' and examines at least 6 plants. For each one, they write the plant's name (or describe it), then tick: leaves green and firm? stem firm or floppy? any spots, holes, yellow or brown edges, white powder, insects? Ask them to decide 'healthy' or 'unhealthy' and give a reason. Good reasoning: 'The money plant has yellow leaves at the bottom, so it may be unhealthy; maybe too much water or not enough light.' Collect one fallen spotted or yellow leaf to stick in the notebook.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: Why don't plants have flowers all year round? (page 7)",
+          "mins": 8,
+          "do": "Read the 'Talk about it!' question on page 7. Let your child think and answer first. Then help with Indian examples: mango trees flower in January–March, amaltas turns yellow in April–May, marigold (genda) is grown for Diwali in autumn, and mustard fields turn yellow in winter in Punjab. Ideas to listen for: plants flower at the time of year that suits them (right warmth, day length or rain); making flowers and seeds uses up a lot of the plant's food, so it cannot do it all the time; flowers come when insects like bees are around to carry pollen. Say honestly: 'Scientists have found that many plants can sense how long the day or night is and how warm it has been, and that tells them when to flower.'"
+        },
+        {
+          "kind": "think",
+          "title": "Questions 1 and 2 (page 7)",
+          "mins": 5,
+          "do": "Your child answers in the notebook. Question 1: 'List four things that most plants have.' (Roots, a stem, leaves and flowers.) Question 2: 'Describe how plants are different from each other.' Good answer has at least three differences: size or height, shape and colour of leaves, colour of flowers or no flowers, thick woody stem or thin green stem, where they grow. Read the 'What you have learnt' box together at the end."
+        }
+      ],
+      "need": [
+        "Learner's Book page 7",
+        "the model plant from Day 1",
+        "notebook, pencil, glue or tape"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Do plants need light and water? Set up two fair tests",
+      "goal": "Meet Sunil's unhealthy plant, learn the words predict, investigation and fair test, and set up the book's light test and water test with our moong seedlings.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "The droopy plant",
+          "mins": 4,
+          "do": "Look at the picture of Sunil and his drooping plant at the top of page 8. Ask: 'What is wrong with Sunil's plant? Why might it look like this?' Let your child give as many ideas as they can: no water, too much sun, no light, too cold, too hot, pot too small. Say: 'Those are all good guesses. Today we will test two of them properly, like scientists.'"
+        },
+        {
+          "kind": "read",
+          "title": "Plants need light and water (page 8)",
+          "mins": 6,
+          "do": "Read page 8 aloud: the 'Words to learn' box (predict, investigation, fair test, wilt, explain) and Activity 1.2a 'Do plants need light to grow?' Look at the two pictures: three plants in the light, three covered with a box. Read: 'Water all the plants every day.' Then read the box at the bottom: if plants do not get enough light and water, the roots, stem or leaves become unhealthy and the plant will wilt. Ask: 'What does predict mean?' (Say what you think will happen before you test it, and why.)"
+        },
+        {
+          "kind": "talk",
+          "title": "What makes a test fair?",
+          "mins": 8,
+          "do": "Ask the book's question: 'In this investigation both groups of plants are given water. What else do you need to keep the same to make this a fair test?' Write their answers in a list. Good answers: same kind of plant, same size of plant, same size of cup, same soil, same amount of water at the same time, same room so the same warmth. Only one thing is different: light or no light. Use a cricket example if they find it hard: 'If you want to know which bat hits further, should Rohan use one bat and Papa the other? No, the same person must hit with both bats, or you will not know if it was the bat or the person.'"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up Activity 1.2a: the light test",
+          "mins": 10,
+          "do": "Set up Experiment e1. Choose 6 moong seedling cups that look the same size. Your child puts 3 on a bright windowsill and puts the other 3 next to them under an upturned cardboard box (a shoe box or an old carton). Label them 'Light' and 'Dark'. Measure the height of the tallest seedling in each cup with a ruler and write it in a table with today's date. Your child writes a prediction: 'I think the plants in the dark will … because …'",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up Activity 1.2b: the water test (page 9)",
+          "mins": 10,
+          "do": "Turn to page 9, Activity 1.2b 'Do plants need water to grow?' and look at the three pictures. Set up Experiment e2 with 9 more seedling cups that look alike: 3 labelled 'Every day', 3 labelled 'Twice a week' and 3 labelled 'No water', all side by side on the same bright windowsill. Make a calendar page on the fridge showing which days each group is watered (for example 'Twice a week' on Monday and Thursday), and choose one spoon so every watering is the same amount, for example 3 spoons per cup. Ask the book's question: 'What do you predict will happen to the plants' leaves, stems and roots in each case?' and write the predictions down.",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Who waters?",
+          "mins": 2,
+          "do": "Agree who will water the light-test cups and the 'Every day' cups each day this week (your child, with a reminder). Stick a small chart next to the windowsill with a tick box for each day. Ask: 'Why must the dark cups get exactly the same water as the light cups?' (So that light is the only difference.)"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 8–9",
+        "15 moong seedling cups of similar size",
+        "a cardboard box big enough to cover 3 cups",
+        "a ruler, a spoon for measuring water",
+        "paper labels, a pencil, a chart paper for the fridge"
+      ],
+      "prep": [
+        {
+          "task": "Find a cardboard box that fits over 3 cups and blocks all light; choose a bright windowsill with space for 15 cups",
+          "when": "night before"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Roots absorb water: Helene's crowded plant",
+      "goal": "Learn that roots absorb water from the soil and need room to spread out, by looking closely at real roots and moving a crowded plant to a bigger pot.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the light and water tests",
+          "mins": 5,
+          "do": "Lift the box on Experiment e1 for one minute only and compare the two groups. Water the cups that are due (same spoons for every cup). Your child writes one line for each group, for example 'Dark: stems a bit longer and paler.' For e2, ask: 'Is the soil in the No water cups dry? Are any leaves drooping yet?' Put the box back carefully.",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "Transporting water (page 10)",
+          "mins": 7,
+          "do": "Read page 10, Topic 1.3 'Transporting water'. Helene has a plant that looks unhealthy. Look at the picture of the roots: 'This pot is too small for the roots. The roots are really close together and cannot absorb water well. Putting the plant in a bigger pot will allow the roots to spread out.' Then read the labels on the second picture: the roots absorb water from the soil, the roots transport water to the stem, the stem transports water to the leaves and flowers. Ask your child to trace the path of water with a finger, from the soil to the flower, saying each step aloud."
+        },
+        {
+          "kind": "do",
+          "title": "Look closely at roots",
+          "mins": 10,
+          "do": "Take one spare moong seedling cup (one you did not use in the tests). Tip it out gently over newspaper and wash the soil off the roots in a katori of water. Look with a magnifying glass if you have one. Ask: 'How many roots can you see? Are they thick or thin?' Point out the long main root and the many side roots, and the very fine fuzz on them, the root hairs. Explain: 'Root hairs make the root's surface huge, so it can touch lots of soil and absorb lots of water, like how a towel with lots of loops soaks up more than a smooth cloth.' Then show a sponge: dip one corner in water and watch the water creep up. 'Roots absorb water a bit like this.'"
+        },
+        {
+          "kind": "act",
+          "title": "Re-pot a crowded plant",
+          "mins": 15,
+          "do": "Do Activity a3. Find a household plant that has been in the same small pot for a long time (money plant, tulsi or aloe vera often get crowded), or ask a neighbour for one. Water it an hour before. Your child helps tip it out of the pot. Look at the root ball: 'Are the roots going round and round the pot? Are they coming out of the bottom hole?' If yes, it is pot-bound, just like Helene's plant. Loosen the outer roots gently with your fingers, put it in a pot about 5 cm wider with fresh soil (mix in a handful of compost if you have it), press the soil down and water well. Ask: 'How will this help the plant?' (The roots can spread out, reach more soil and absorb more water.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Question 1 (page 11)",
+          "mins": 3,
+          "do": "Ask Question 1 on page 11: 'Why do plants sometimes need to be moved to a bigger pot?' Good answer: 'When a plant grows, its roots fill the pot and get squashed together. Then they cannot absorb water well and the plant becomes unhealthy. A bigger pot gives the roots room to spread out.' Your child writes this in the notebook."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 10–11",
+        "1 spare moong seedling cup",
+        "newspaper, a katori of water, a magnifying glass if you have one, a kitchen sponge",
+        "a crowded household plant, a pot about 5 cm wider, fresh soil (and compost if you have it)"
+      ],
+      "prep": [
+        {
+          "task": "Choose a pot-bound household plant and buy or borrow a slightly bigger pot and a small bag of potting soil",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Making plants go blue, and could plants grow on the Moon?",
+      "goal": "Set up the book's celery and white flower test to see water moving up a stem, start the temperature test, and think about growing plants on the Moon.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the light and water tests",
+          "mins": 3,
+          "do": "Water the cups that are due today in Experiments e1 and e2. Peek under the box for one minute. Your child adds one line to the record for each group. Ask: 'Is anything different between the light and dark plants yet? What colour are the dark plants' leaves?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Activity 1.3: Making plants go blue (page 11)",
+          "mins": 5,
+          "do": "Read Activity 1.3 on page 11: 'A plant stem can transport water to the leaves and flowers. Predict what would happen if the water was blue.' Look at the two pictures: the apparatus (knife, dropper, white flower, food colouring, celery, container of water) and step 2 (place the celery and the flower in the water and add a few drops of colouring). Ask your child to predict out loud and write it down: 'Will the colour go into the plant? Which parts? How long will it take?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the coloured water test",
+          "mins": 10,
+          "do": "Set up Experiment e3. You cut 2 cm off the bottom of a celery stalk with leaves (or a stalk of pak choi, or a white chrysanthemum or white rose from the flower shop) so the cut is fresh. Your child puts 2–3 cm of water in two glasses and adds about 10 drops of blue or red food colouring to one glass. Stand the celery in the coloured glass and the white flower in the same glass (or a second coloured glass). Put a plain-water celery or flower in the other glass to compare. Note the time on the clock, like the clock in the book's picture. Check after 1 hour and before bed.",
+          "ref": "e3"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the temperature test (page 12)",
+          "mins": 12,
+          "do": "We are starting Topic 1.4 early because plants grow slowly. Turn to page 12, Activity 1.4 'At which temperatures do plants grow best?' and look at both pictures. Set up Experiment e4: choose 2 moong seedling cups of the same height. Choose the option that fits today's weather (see e4): in hot weather, one cup indoors and one on a sunny terrace or balcony under an upturned clear plastic jar or cut bottle; in a cold north Indian winter, one indoors and one outside on the balcony day and night. Measure both plants with a ruler and read the temperature next to each with a thermometer. Your child copies the results table from page 12 into the notebook (Day, Temperature in °C, Height in cm, for each plant) and fills in Day 1. Ask them to predict which plant will grow best.",
+          "ref": "e4"
+        },
+        {
+          "kind": "think",
+          "title": "Talk about it: Could plants ever grow on the Moon? (page 9)",
+          "mins": 10,
+          "do": "Look at the photo of the Moon's surface on page 9 and read the 'Talk about it!' question. Ask your child: 'What does a plant need? Which of these does the Moon have?' Good thinking: there is sunlight, but no liquid water in the soil, no air to breathe, it is boiling hot in the day and freezing at night, and the Moon's dust is very different from garden soil. Then tell the true story in Voice v1: in 2022 scientists in Florida, USA, grew tiny plants in real Moon soil brought back by the Apollo astronauts. Ask the voice question and let your child answer before you share your view.",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 9, 11 and 12",
+        "1–2 celery stalks with leaves (or pak choi stalks) and 1–2 white flowers",
+        "2–3 glasses, blue or red food colouring, a knife (adult use)",
+        "2 moong seedling cups of the same height",
+        "a clear plastic jar or a cut 2-litre bottle",
+        "a ruler and a room thermometer (a cheap digital one is fine)"
+      ],
+      "prep": [
+        {
+          "task": "Buy celery or pak choi with leaves from a big vegetable shop, a white flower (chrysanthemum, white rose or tuberose/rajnigandha) and a bottle of food colouring",
+          "when": "night before"
+        },
+        {
+          "task": "Get a room thermometer (a digital one costs about ₹150–300), or borrow one",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Inside the blue celery: how the stem transports water",
+      "goal": "Cut open the coloured celery and flower, see the tubes that carry water, answer the book's questions, and meet J.C. Bose's idea about how water climbs a plant.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Results: cut the celery and look inside",
+          "mins": 12,
+          "do": "Finish Experiment e3. Look at the white flower first: 'Has the colour reached the petals? Where is it darkest?' (Often at the edges and in thin lines.) Then you cut across the celery stalk about halfway up. Your child looks at the cut end: there is a ring of coloured dots. Ask: 'What are these dots?' Explain: 'They are tiny tubes running all the way up the stem, like drinking straws. The water climbed up them.' Cut a thin slice and peel a coloured string out with your nail to show the tube runs along the whole stalk. Compare with the plain-water celery. Your child draws the cut end and the flower and writes: 'The coloured water went up the tubes in the stem to the leaves and flower.'",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 2 and 3 (page 11)",
+          "mins": 8,
+          "do": "Ask Question 2: 'How do plants get water to their leaves?' Good answer: 'The roots absorb water from the soil and transport it to the stem. The stem transports it up through tiny tubes to the leaves.' Ask Question 3: 'What would happen to a plant with no roots? Why?' Good answer: 'It would fall over, because roots hold it in the soil, and it would wilt and die, because nothing would absorb water from the soil.' Then ask: 'But the celery had no roots and still drank water. How?' (The cut stem sucked up water directly from the glass. A cut plant can survive for a while like this but will not grow well for long.) Read the 'What you have learnt' box on page 11 together."
+        },
+        {
+          "kind": "talk",
+          "title": "Talk about it: What happens to flowers when they are cut and put into water? (page 11)",
+          "mins": 5,
+          "do": "Read the 'Talk about it!' question on page 11. Use a real example: the flowers for puja, a vase of roses, or the rajnigandha stems from the flower seller. Ask: 'Why do flower sellers keep stems standing in a bucket of water? Why do they cut the stem again?' Good ideas: the stem keeps drinking water up its tubes, which keeps the petals firm; a fresh cut opens the tubes again when they get blocked; but without roots and with no way to make enough food, cut flowers still wilt after a few days."
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose and the climbing water",
+          "mins": 12,
+          "do": "Tell the story in Voice v3 in your own words. Ask: 'A coconut palm can be 20 metres tall. How does water get from the roots all the way to the top leaves? Does something push it, or pull it?' Let your child guess. Then explain the two ideas: Bose thought living cells in the stem pumped the water upwards like tiny hearts; other scientists said the water is pulled up from the top as it dries out of the leaves, like drinking through a straw. Show the straw idea: your child sucks juice up a straw and you say 'the leaves do the sucking, by letting water dry away into the air'. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Measure the temperature test",
+          "mins": 3,
+          "do": "Measure the height of both plants in Experiment e4 and read the thermometer next to each. Your child fills in the next row of the table. Water both cups with the same number of spoons. (Hot-terrace plants dry out faster; check the soil and keep both damp, so that warmth stays the only difference.)",
+          "ref": "e4"
+        }
+      ],
+      "need": [
+        "the coloured celery and flower from Day 5, and the plain-water ones",
+        "a knife (adult use), a plate",
+        "a straw and a glass of juice or water",
+        "ruler and thermometer"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Results: what do plants need?",
+      "goal": "Finish the light and water tests, explain the results, answer the book's questions, and learn how a 400-year-old willow tree experiment got the right result and the wrong conclusion.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Results of the light and water tests",
+          "mins": 15,
+          "do": "Finish Experiments e1 and e2. Take the box off and line up all the cups. Measure the tallest seedling in each cup and write the heights in the table. Then look carefully at leaves (colour, size), stems (thick or thin, firm or floppy) and, for one cup from each group, tip it out and look at the roots. Your child describes each group in a sentence. Typical results: Dark plants are taller, thin, pale yellow and floppy; Light plants are shorter, sturdy and green. No water plants have wilted, dry leaves and dry roots; Twice a week plants may be a little droopy; Every day plants are firm and green. Ask: 'Was your prediction right? What surprised you?' Then the book's question from page 9: 'What do plants need to grow? How do you know?' Good answer: 'Light and water. I know because the plants without light went yellow and weak, and the ones without water wilted, but the ones with both stayed healthy.' After the test, put the dark and dry plants back in the light and water them, and watch over the next days if they recover.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 (page 9)",
+          "mins": 6,
+          "do": "Ask Question 1: 'What does a plant need to grow and stay healthy?' (Light and water; also air, warmth and some minerals from the soil.) Question 2: 'Explain what happens to the stem and leaves when you put a plant in a dark place.' (The stem grows long and thin and weak, the leaves stay small and turn pale yellow, because the plant cannot make its food without light; it stretches as if searching for light.) Question 3: 'Would a plant grow if it was given juice instead of water? Draw a picture to show how you could investigate this.' Your child draws two plant groups, one watered with water and one with juice, everything else the same. (Prediction to discuss: sugary juice usually harms plants; it can draw water out of roots and lets moulds grow in the soil. This is a good one to think about, but you do not have to do it.)"
+        },
+        {
+          "kind": "think",
+          "title": "Van Helmont's willow tree",
+          "mins": 9,
+          "do": "Read the last line on page 8 again: 'Light and water both help the plant to make food.' Ask: 'A tiny seed becomes a huge mango tree. Where does all that wood come from?' Most children say 'the soil'. Tell the story in Voice v2: Jan Baptist van Helmont weighed a willow tree and its soil for five years. Then ask the voice question. Finish by saying: 'Leaves use light to join water from the roots with a gas from the air, carbon dioxide, to make the plant's food. Most of a tree is really made from air and water!'",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: parts and needs",
+          "mins": 10,
+          "do": "Your child does Worksheet ws1 (core). Read each question aloud if needed, but let them answer on their own. Check together: for any wrong answer, go back to the page in the book (page 6 for parts, pages 8–9 for needs) and look again before correcting.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 8–9",
+        "the 15 test cups from e1 and e2",
+        "ruler, newspaper, notebook"
+      ],
+      "prep": []
+    },
+    {
+      "n": 8,
+      "title": "Plant growth and temperature",
+      "goal": "Learn how warmth and cold change how fast plants grow, and think about the places plants grow well and badly, from rainforests to Antarctica and from Kerala to Ladakh.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Measure the temperature test",
+          "mins": 4,
+          "do": "Measure both plants in Experiment e4 with the ruler and read the thermometer next to each. Your child fills in the next row of the table. Ask: 'Which plant is taller now? Is the difference big or small?'",
+          "ref": "e4"
+        },
+        {
+          "kind": "read",
+          "title": "Plant growth and temperature (pages 12–13)",
+          "mins": 8,
+          "do": "Read the 'Words to learn' box on page 12 (thermometer, temperature, results, bar chart, conclusion) and remind your child that they are already doing Activity 1.4. Then read page 13: the rainforest photo ('It is warm but not too hot and there is plenty of water') and the Antarctica photo ('At −89 °C, Antarctica is the coldest place on Earth'). Read the 'What you have learnt' box: plants grow more slowly when it is cold, more quickly when it is warm, and die when they get too cold or too hot. Ask: 'Why do you think hardly any plants grow in Antarctica?' (Too cold; water is frozen as ice so roots cannot absorb it.)"
+        },
+        {
+          "kind": "talk",
+          "title": "Think about the place you live (page 13)",
+          "mins": 10,
+          "do": "Ask the questions on page 13: 'Is there enough warmth for plants to grow where you live? When is the warmest time of year? When is the coldest? Can plants grow all year?' Use your own city's weather: look up today's temperature on a phone weather app. Then compare India's places: Kerala and the Western Ghats (warm and wet all year, thick forests like a rainforest); Rajasthan in May (over 45 °C, plants like khejri and cactus survive with deep roots and small or spiny leaves); Ladakh in winter (below −20 °C, almost nothing grows until summer). Ask: 'Why do farmers in Punjab grow wheat in winter and rice in the rainy season?' (Each crop grows best at its own temperature and with its own amount of water.)"
+        },
+        {
+          "kind": "do",
+          "title": "Read a thermometer like a scientist",
+          "mins": 8,
+          "do": "Practise with the room thermometer. Your child reads the temperature in 4 places and writes them down: inside the room, next to the window in the sun, inside the fridge (leave the thermometer in for 5 minutes), and next to a cup of warm water. Ask: 'Which place is hottest? Which coldest? Where would a moong seedling grow fastest?' If the thermometer has a scale, practise reading the line where the liquid stops. Explain °C: water freezes at 0 °C and boils at 100 °C; a nice day is about 25 °C; our body is about 37 °C."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: new plant problems",
+          "mins": 10,
+          "do": "Your child does Worksheet ws2 (stretch). These questions use what they know in new situations. Talk through any answer they are unsure about by asking 'Which part of the plant is in trouble, and what does it need?'",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 12–13",
+        "the e4 plants, ruler and thermometer",
+        "a phone weather app or the newspaper weather box",
+        "a cup of warm water"
+      ],
+      "prep": []
+    },
+    {
+      "n": 9,
+      "title": "Temperature results: table, bar chart and conclusion",
+      "goal": "Finish the temperature test, draw a bar chart of the results, write a conclusion and answer the book's questions about temperature.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Final measurements and the results table",
+          "mins": 8,
+          "do": "Measure both plants in Experiment e4 one last time and read both temperatures. Your child fills in the last row of the table. Ask: 'How much did each plant grow from Day 1 to today?' Help them subtract the first height from the last (for example 9 cm − 4 cm = 5 cm). Also look at the leaves: 'Is either plant wilted, scorched or pale?' (A plant under a jar on a hot terrace in summer may have scorched or wilted leaves; a plant outside on a cold winter night may have grown very little.)",
+          "ref": "e4"
+        },
+        {
+          "kind": "do",
+          "title": "Draw a bar chart (page 12)",
+          "mins": 9,
+          "do": "Do the book's task on page 12: 'Draw a bar chart to show the height of the plants on the last day.' On squared paper, draw a line across the bottom and a line up the side. Write the names of the two plants under the bottom line (for example 'Indoors' and 'Terrace jar'). Number the side line 0, 1, 2, 3 … up to a bit more than the tallest height, one square for each cm, and label it 'Height in cm'. Your child draws one bar for each plant up to its height and colours it. Give the chart a title: 'Height of moong plants on the last day'."
+        },
+        {
+          "kind": "think",
+          "title": "Our conclusion",
+          "mins": 5,
+          "do": "Ask the book's question: 'What is your conclusion? At what temperatures do plants grow best?' Help your child write two sentences, starting 'We found that …' and 'This shows that …'. Good example: 'We found that the plant at 28 °C indoors grew 5 cm but the plant under the jar at 45 °C grew only 1 cm and some leaves went brown. This shows that plants grow best when it is warm, but not too hot.' If your result was surprising, say so honestly, and ask 'What might have gone wrong? Was it really a fair test?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–3 (page 13)",
+          "mins": 6,
+          "do": "Ask Question 1: 'Where do plants grow best? Cold places, hot places or warm places?' (Warm places, with enough water.) Question 2: 'What happens when a plant gets too hot?' (It wilts because it loses water quickly, its leaves can scorch and turn brown, and it can die.) Question 3: 'How is plant growth affected by temperature?' (Plants grow slowly in the cold, faster in the warm, and die if too hot or too cold.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Your child does Worksheet ws3 (challenge). It has puzzles about fair tests, a 'what if' and a question comparing the old ideas of van Helmont and Bose with what scientists think now. Let them talk through their thinking aloud; there is more than one good way to answer the open questions.",
+          "ref": "ws3"
+        }
+      ],
+      "need": [
+        "the e4 plants, ruler, thermometer",
+        "squared paper (or draw squares with a ruler), coloured pencils"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the whole unit with the book's Check your progress questions, check understanding, and have your child teach it back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 14–15)",
+          "mins": 12,
+          "do": "Do the 'Check your progress' questions on pages 14–15 together. Question 1: label parts A–D of the flowering plant and complete 'A is the …'. Question 2: copy and complete the sentences with roots, flowers, stem, leaves, water. Good completed version: 'Plants have roots that are under the ground. These hold the plant up and also absorb water. The water is transported to the stem and then to the leaves and the flowers. The leaves make food for the plant. The flowers help the plant to make seeds.' Question 3: which two does a plant need to grow (water, light, food, plant pot)? Answer: water and light. Question 4: look at Luiz and Cheng's investigation picture and answer: what are they investigating, what must they keep the same to make it fair, and which plant will grow best."
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 10,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, go back to the page or the experiment and look again together for a minute, then ask it again in different words. 5 or more right is good; fewer than 4 means repeat the celery test (Day 5–6) and the results day (Day 7) next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 13,
+          "do": "Your child is the teacher and you (or a grandparent) are the student. Using the real things from this unit (the model plant, a dark-test seedling, the blue celery slice if still there, the bar chart), they teach for 5 minutes: the four parts and their jobs, what a plant needs and how we tested it fairly, how water travels through a plant, and how temperature affects growth. Then ask two 'student' questions: 'Why did the plant in the box go yellow?' and 'Why did you keep the water the same for all the plants?' Praise any answer that uses evidence from their own tests."
+        },
+        {
+          "kind": "act",
+          "title": "Plant care plan",
+          "mins": 5,
+          "do": "Together, write a care card for one plant at home, using everything learnt: where it should stand (enough light), how often to water (for example 'every morning in summer, every two days in winter'), when to check if it needs a bigger pot, and how to spot if it is unhealthy. Stick it near the plant. Plant the healthy moong seedlings together in one big pot or a patch of soil; they may flower and make pods in a few weeks."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 14–15",
+        "model plant, seedlings, bar chart from this unit",
+        "a card and pen, a big pot or patch of soil"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Plant parts and what plants need",
+      "day": 7,
+      "sections": [
+        ["A. Parts and jobs", [
+          {"t": "draw", "p": "Draw a plant with a flower. Label the roots, stem, leaves and flower."},
+          {"t": "match", "p": "Match each part to its job.", "pairs": [
+            ["Roots", "Hold the plant in the soil and absorb water"],
+            ["Stem", "Holds the plant up and transports water"],
+            ["Leaves", "Make food for the plant"],
+            ["Flowers", "Help the plant to make seeds"]
+          ]},
+          {"t": "fill", "p": "The stem ____ water from the roots to the leaves and flowers.", "a": ["transports", "carries"]}
+        ]],
+        ["B. Healthy or unhealthy?", [
+          {"t": "sort", "p": "Sort these into signs of a healthy plant and signs of an unhealthy plant.", "items": ["firm green leaves", "orange spots on leaves", "swollen lumpy roots", "lots of fine spread-out roots", "drooping floppy stem", "firm upright stem"], "cats": ["Healthy", "Unhealthy"]},
+          {"t": "fill", "p": "When a plant does not get enough water it droops and goes floppy. This is called ____.", "a": ["wilting", "wilt"]}
+        ]],
+        ["C. Our tests", [
+          {"t": "mcq", "p": "Which two things does a plant need to grow?", "opts": ["Water and a plant pot", "Light and water", "Food and a plant pot", "Juice and light"], "a": 1},
+          {"t": "mcq", "p": "Our moong plants under the box grew:", "opts": ["Short, green and strong", "Tall, thin and pale yellow", "Exactly the same as the ones in the light", "Blue"], "a": 1},
+          {"t": "mcq", "p": "To make the light test a fair test, we:", "opts": ["Gave the dark plants more water", "Used different kinds of plants", "Kept everything the same except light", "Put the dark plants in the fridge"], "a": 2},
+          {"t": "write", "p": "What happened to the plants that had no water? Why?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Plant problems to solve",
+      "day": 8,
+      "sections": [
+        ["A. Plant doctor", [
+          {"t": "write", "p": "Priya's tulsi has been in a small pot for three years. Its roots come out of the hole at the bottom and its leaves are small and dry even though she waters it. What is wrong and what should she do?", "lines": 3},
+          {"t": "write", "p": "Arjun left his money plant in a dark store-room during a two-week holiday. When he came back the new leaves were pale and the stem was long and thin. Explain why.", "lines": 3},
+          {"t": "mcq", "p": "Dadi puts white tuberose (rajnigandha) stems in a vase of water with red food colouring. What will she see the next day?", "opts": ["Nothing changes", "Red streaks in the petals", "The water turns white", "New roots"], "a": 1}
+        ]],
+        ["B. Water's journey", [
+          {"t": "table", "p": "Write the steps of water's journey through a plant, in order.", "cols": ["Step", "Where the water is", "What is happening"], "rows": 4, "prefill": ["1", "2", "3", "4"]},
+          {"t": "fill", "p": "When we cut across the blue celery, we saw coloured dots. These are tiny ____ that carry water up the stem.", "a": ["tubes", "pipes", "straws"]}
+        ]],
+        ["C. Temperature", [
+          {"t": "sort", "p": "Where would a moong plant grow fastest, slowly, or not at all?", "items": ["a balcony in Bengaluru at 26 °C", "a freezer at −18 °C", "a closed car in the Delhi sun at 60 °C", "outdoors in Shimla in January at 5 °C"], "cats": ["Grows fast", "Grows slowly", "Dies"]},
+          {"t": "fill", "p": "We measure temperature with a ____.", "a": ["thermometer"]},
+          {"t": "write", "p": "Why do you think farmers in Ladakh can grow crops only in summer?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Fair tests, puzzles and old ideas",
+      "day": 9,
+      "sections": [
+        ["A. Spot the unfair test", [
+          {"t": "write", "p": "Meera wants to know if plants need light. She puts a big tomato plant on the sunny windowsill and a tiny chilli seedling in the cupboard. She waters only the tomato. Write two things that make this test unfair, and how to fix them.", "lines": 4},
+          {"t": "mcq", "p": "Rohan says: 'My dark plant grew taller, so plants grow better in the dark!' What is wrong with his idea?", "opts": ["Nothing, he is right", "Taller is not healthier: it was thin, pale and weak", "He measured wrongly", "Dark plants are always shorter"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a plant had leaves and a stem but its tubes were blocked? Predict what would happen to the leaves and explain why.", "lines": 3},
+          {"t": "write", "p": "Plants in a hot desert like the Thar often have tiny or spiny leaves and very long roots. Suggest why each of these helps them survive.", "lines": 3}
+        ]],
+        ["C. Comparing ideas", [
+          {"t": "match", "p": "Match each scientist to their idea.", "pairs": [
+            ["Van Helmont (1600s)", "A willow tree's extra weight came only from water"],
+            ["J.C. Bose (1920s)", "Living cells in the stem pump water upwards"],
+            ["Dixon and Joly (1890s)", "Water is pulled up as it dries out of the leaves"]
+          ]},
+          {"t": "write", "p": "Van Helmont's soil lost only about 2 ounces in five years, while the tree gained about 164 pounds. Today we know most of the tree's weight came from the air. What did he measure well, and what did he miss?", "lines": 4},
+          {"t": "write", "p": "Scientists grew plants in real Moon soil and they grew, but small and stressed. Would you call this 'plants can grow on the Moon'? What else would you want to test?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Do plants need light to grow? (Activity 1.2a)",
+      "day": 3,
+      "question": "What happens to a plant's leaves, stem and roots if it gets water but no light?",
+      "need": ["6 moong seedling cups of similar size", "a cardboard box that blocks all light", "a bright windowsill", "a ruler", "a spoon for measuring water", "labels and a record table"],
+      "steps": [
+        "Choose 6 seedling cups that look the same size and are the same kind of plant.",
+        "Measure the tallest seedling in each cup and write it in a table with the date.",
+        "Put 3 cups on a bright windowsill (label 'Light') and the other 3 right next to them under an upturned cardboard box (label 'Dark').",
+        "Water every cup every day with the same number of spoons of water.",
+        "Lift the box for only a minute when you check, and put it back at once.",
+        "After 4–5 days, measure each tallest seedling again and describe the colour of the leaves, the thickness and firmness of the stem, and (for one cup per group) the roots.",
+        "Afterwards, put the dark plants back in the light and watch if they turn green again."
+      ],
+      "predict": "Ask your child to guess first: will the plants in the dark grow at all? Will they be taller or shorter, greener or paler than the plants in the light? Write the guess and the reason down.",
+      "observe": "Record height, leaf colour, stem thickness and firmness for each group. Usually the dark plants are taller but thin, pale yellow or white, with small leaves, and they flop over. The light plants are shorter, sturdier and green. Dark plants put back in the light usually turn green within a few days if they are not too weak.",
+      "why": "Leaves make the plant's food using light; light and water both help the plant to make food, as page 8 says. To catch light, leaves need a green colouring called chlorophyll, and a plant only makes it when there is light. In the dark the seedling cannot make food, so it uses up the food stored in the seed and spends it on stretching its stem as fast as possible, as if trying to reach light (scientists call this etiolation). That is why it is tall, thin and pale. Once the stored food runs out, a plant left in the dark dies. Taller does not mean healthier here.",
+      "safety": "Wash hands after handling soil.",
+      "time": "10 min to set up + 3 min checks + 15 min results after 4–5 days"
+    },
+    {
+      "id": "e2",
+      "title": "Do plants need water to grow? (Activity 1.2b)",
+      "day": 3,
+      "question": "How does the amount of water a plant gets change its leaves, stem and roots?",
+      "need": ["9 moong seedling cups of similar size", "a bright windowsill", "a spoon for measuring water", "a calendar chart for watering days", "a ruler and labels"],
+      "steps": [
+        "Choose 9 seedling cups that look alike and put them side by side on the same windowsill.",
+        "Label 3 cups 'Every day', 3 'Twice a week' and 3 'No water'.",
+        "Decide the amount of water for one watering (for example 3 spoons) and use it every time.",
+        "Water the 'Every day' cups daily, the 'Twice a week' cups on two fixed days (for example Monday and Thursday), and never water the 'No water' cups.",
+        "Each day, write one line about each group: soil dry or damp, leaves firm or drooping, colour.",
+        "After 4–5 days, measure the tallest seedling in each cup, and tip one cup from each group out to look at the roots."
+      ],
+      "predict": "Ask your child to guess first: which group will stay healthiest? Will the twice-a-week plants be fine or only partly fine? How long will the no-water plants last?",
+      "observe": "Usually the 'No water' plants wilt first (within 2–4 days in warm weather), then their leaves dry and turn brown and the roots are dry and shrivelled. The 'Twice a week' plants droop between waterings and recover after watering. The 'Every day' plants stay firm and green. In very humid or cool weather, differences take longer to show.",
+      "why": "Water does several jobs in a plant. It is one of the things leaves use to make food. It also fills the plant's cells and pushes outwards on their walls, like air in a football; that pressure is what keeps the leaves and soft stems firm. When there is not enough water, the cells go soft and the plant wilts. Water lost from the leaves into the air must be replaced by the roots; if the soil is dry, the roots cannot absorb any, and the plant eventually dies. Too much water can also harm a plant, because roots sitting in soggy soil cannot get air and may rot.",
+      "safety": "Wash hands after handling soil.",
+      "time": "10 min to set up + 2 min daily watering + 15 min results after 4–5 days"
+    },
+    {
+      "id": "e3",
+      "title": "Making plants go blue (Activity 1.3)",
+      "day": 5,
+      "question": "Does water really travel up a stem to the leaves and flowers? Where does it go?",
+      "need": ["1–2 celery stalks with leaves (or pak choi stalks)", "1–2 white flowers (chrysanthemum, white rose or rajnigandha)", "2–3 glasses or jars", "blue or red food colouring", "a knife (adult use)", "a clock"],
+      "steps": [
+        "An adult cuts 2 cm off the bottom of each celery stalk and flower stem so the cut is fresh.",
+        "Put 2–3 cm of water in two glasses. Add about 10 drops of food colouring to one glass and stir.",
+        "Stand a celery stalk and a white flower in the coloured water. Stand the others in plain water to compare.",
+        "Note the time. Look after 1 hour, after 4 hours and the next day.",
+        "The next day, an adult cuts across the celery halfway up. Look at the cut end and at the flower petals and leaves.",
+        "Draw what you see."
+      ],
+      "predict": "Ask your child to guess first: will the colour go into the plant? Will it reach the leaves and petals? How long will it take?",
+      "observe": "After a few hours the leaf tips and petal edges start to show colour. The next day the cut celery shows a ring of coloured dots, and thin coloured threads can be pulled out of the stalk. The plain-water celery and flower stay their usual colour.",
+      "why": "A stem has bundles of very thin tubes (scientists call them xylem) that run from the roots to the leaves and flowers, like a bundle of drinking straws. Water moves up these tubes. As water evaporates (dries away) from tiny holes in the leaves and petals, more water is pulled up behind it, because water molecules cling to each other in a long chain. The food colouring travels with the water, so it shows us the path. It collects where the water evaporates, which is why petal edges and leaf tips go darkest. In a living plant in soil, the roots absorb the water first and pass it to these same tubes.",
+      "safety": "An adult does all cutting. Food colouring stains clothes and hands; use old newspaper.",
+      "time": "10 min to set up + check after a few hours + 12 min results the next day"
+    },
+    {
+      "id": "e4",
+      "title": "At which temperatures do plants grow best? (Activity 1.4)",
+      "day": 5,
+      "question": "Does a plant grow faster when it is cold, warm or very hot?",
+      "need": ["2 moong (or bean) seedling cups of the same height", "a ruler", "a room thermometer", "a clear plastic jar or a cut 2-litre bottle (for hot weather)", "a results table"],
+      "steps": [
+        "Choose two plants of the same kind and the same height, in the same size of cup with the same soil.",
+        "Choose an option. Hot weather (most of India from March to June): put one plant indoors in a bright spot and one on a sunny terrace or balcony under an upturned clear jar or cut bottle, which traps heat. Cold weather (north Indian December–January): put one plant indoors and one outside on the balcony day and night.",
+        "Put the thermometer next to each plant for 5 minutes and record the temperature, at the same time of day each time.",
+        "Measure the height of each plant with a ruler from the soil to the tip.",
+        "Keep the soil of both plants damp with the same amount of water, checking the hot plant more often so it never dries out.",
+        "Measure height and temperature every 2 days for 1–2 weeks and record them in the table copied from page 12.",
+        "On the last day, draw a bar chart of the two heights and write a conclusion."
+      ],
+      "predict": "Ask your child to guess first: which plant will grow the most? Will the very hot or very cold plant grow at all?",
+      "observe": "Record temperature and height for each plant every 2 days, plus how the leaves look. Usually the plant at a comfortable warm temperature (about 20–30 °C) grows most. A plant in cold weather grows very slowly. A plant under a jar in strong summer sun can reach 45 °C or more and may wilt, scorch and stop growing or die.",
+      "why": "Everything inside a living plant, including making food from light and water and building new cells, is done by chemical reactions. These go slowly when it is cold and faster when it is warm, so plants grow faster in warmth. But if it gets too hot, the plant loses water from its leaves faster than its roots can replace it, so it wilts, and the plant's delicate working parts (proteins) get damaged by heat, much as heat changes an egg white when you cook it. If water freezes inside a plant, ice crystals can burst its cells. Different plants have different best temperatures: wheat likes cool winters, rice and moong like warmth.",
+      "safety": "Do not leave a child alone on a terrace or roof. In summer, check the hot plant in the morning or evening, not in the midday sun.",
+      "time": "12 min to set up + 3–4 min measurements every 2 days for 1–2 weeks + 15 min to draw the bar chart"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Make a model plant (Activity 1.1)",
+      "day": 1,
+      "mins": 15,
+      "need": ["2–3 straws", "string or wool", "coloured paper or card", "sticky tape", "glue", "scissors", "a pen"],
+      "steps": [
+        "Tape 4–6 pieces of string or wool to the bottom of a straw for the roots.",
+        "Cut 3–4 green paper leaves and tape them along the straw.",
+        "Cut a flower shape from coloured paper and stick it on the top of the straw.",
+        "Write four labels: stem, roots, leaves, flower.",
+        "On the back of each label write its job (roots: hold the plant and collect water; stem: transports water; leaves: make food; flower: helps make seeds).",
+        "Stick the labels on the right parts with sticky tape and stand the model in a cup of sand or a lump of clay."
+      ],
+      "outcome": "A labelled model plant your child can use to explain the four parts and their jobs, kept for the teach-back on Day 10."
+    },
+    {
+      "id": "a2",
+      "title": "Plant doctor walk",
+      "day": 2,
+      "mins": 15,
+      "need": ["notebook and pencil", "glue or tape", "a magnifying glass if you have one"],
+      "steps": [
+        "Make a small table in the notebook with columns: Plant, Leaves, Stem, Spots or insects?, Healthy or unhealthy?, Why?",
+        "Walk around home, balcony or colony garden and examine at least 6 plants closely.",
+        "For each, look at the top and underside of the leaves, feel if the stem is firm, and look at the soil and any roots you can see.",
+        "Fill in a row for each plant and decide 'healthy' or 'unhealthy' with a reason.",
+        "Pick up (do not pluck) one fallen yellow or spotted leaf and stick it in the notebook with a label."
+      ],
+      "outcome": "A plant health survey of 6 plants with reasons, and one sample leaf showing a sign of an unhealthy plant."
+    },
+    {
+      "id": "a3",
+      "title": "Re-pot a crowded plant",
+      "day": 4,
+      "mins": 15,
+      "need": ["a pot-bound household plant", "a pot about 5 cm wider with a drainage hole", "fresh potting soil", "a handful of compost (optional)", "newspaper", "a watering can or mug"],
+      "steps": [
+        "Water the plant an hour before so the root ball holds together.",
+        "Lay down newspaper. Tip the pot on its side and gently ease the plant out, holding it at the base of the stem.",
+        "Look at the roots together: are they circling the pot, crowded, coming out of the hole?",
+        "Gently loosen the outside roots with your fingers.",
+        "Put some soil in the new pot, place the plant at the same depth it was before, and fill around it with soil.",
+        "Press the soil down lightly and water well. Keep the plant out of strong sun for 2 days while it settles."
+      ],
+      "outcome": "A plant in a bigger pot whose roots now have room to spread and absorb water; your child can explain why it was needed."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Anna-Lisa Paul and Robert Ferl, University of Florida, USA (study published 2022)",
+      "idea": "Using tiny amounts of real Moon soil (about a gram per plant) brought back by the Apollo 11, 12 and 17 astronauts, they planted seeds of thale cress (Arabidopsis), a small weed often used in plant science, and gave them water, light and nutrients. Almost all the seeds sprouted, but the plants grew more slowly, stayed smaller, and showed signs of stress compared with plants grown in volcanic soil from Earth. Plants in the Apollo 11 soil, which had lain longest on the Moon's surface, did worst. They published this in the journal Communications Biology in May 2022.",
+      "then": "For decades scientists had very little Moon soil to experiment with, because NASA kept the Apollo samples carefully stored. Many people assumed Moon soil, which is sharp, dusty and has no living things in it, might not support plants at all.",
+      "now": "The result is accepted: plants can sprout and grow in Moon soil if people bring water, air, warmth and nutrients, but the soil itself stresses them. Scientists are now working on how to treat Moon soil, or which plants cope best, for future bases on the Moon. Note that the plants still needed everything on our list; the Moon itself gives sunlight but no water, air or comfortable temperature.",
+      "status": "accepted",
+      "ask": "The plants grew in Moon soil, but only inside a lab on Earth with water, air and light given to them. Does that mean 'plants can grow on the Moon'? What would you need to see before you believed it?",
+      "day": 5
+    },
+    {
+      "id": "v2",
+      "who": "Jan Baptist van Helmont (1580–1644), Flanders (now Belgium)",
+      "idea": "Van Helmont planted a 5-pound willow shoot in a pot holding 200 pounds of dried soil, covered the pot so no dust fell in, and gave it only rainwater for five years. The tree then weighed about 169 pounds, but the soil had lost only about 2 ounces. He concluded that the tree's new weight had come from the water alone. His account was published after his death, in 1648.",
+      "then": "His careful weighing was unusual for his time and was admired; it was one of the first experiments to measure a plant's growth. At the time nobody knew that air contains gases plants can use, so his conclusion seemed sensible.",
+      "now": "His measurement was good, but his conclusion was wrong. Over the next two centuries scientists such as Jan Ingenhousz (1779) showed that green plants in sunlight take in a gas from the air (now called carbon dioxide) and give out oxygen. Today we know most of a plant's dry weight is carbon taken from carbon dioxide in the air, joined with water in the leaves using light. The 2 ounces lost from the soil were minerals the plant needed in small amounts.",
+      "status": "rejected",
+      "ask": "Van Helmont weighed everything he could think of, but not the air. Why is it so easy to forget something invisible? How could you test whether a plant takes something from the air?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Jagadish Chandra Bose (1858–1937), India, and the cohesion-tension idea of Henry Dixon and John Joly (1894), Ireland",
+      "idea": "Bose, the Kolkata scientist famous for showing that plants respond to light, touch and injury, also studied how sap (water) climbs up a plant. In his book 'The Physiology of the Ascent of Sap' (1923) he argued that a layer of living cells in the stem squeezes in rhythm, like tiny pulsing pumps, pushing the water upwards. Earlier, in 1894, Henry Dixon and John Joly in Dublin had proposed instead that water is pulled up from the top: as water evaporates from the leaves, it pulls on an unbroken thread of water in the tubes below, because water molecules cling tightly together.",
+      "then": "Bose's instruments and plant experiments were admired and he was elected a Fellow of the Royal Society in 1920. But many plant scientists were not convinced by his pumping idea, partly because the German botanist Eduard Strasburger had shown in 1891 that liquids still rise up long stems even after their living cells are killed with poison or heat.",
+      "now": "The cohesion-tension (pulling) idea of Dixon and Joly is the accepted explanation today; the main water tubes (xylem) are actually made of dead cells. Bose's pumping explanation is rejected, though roots can give a small push (root pressure, which makes some cut stems ooze). Bose remains honoured as a great pioneer for his other plant work: being wrong about one idea is a normal part of doing real science.",
+      "status": "rejected",
+      "ask": "Strasburger killed the living cells in a stem and the water still climbed. Why was that strong evidence against the 'living pumps' idea? What would Bose have needed to show to win the argument?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Name the four main parts of most plants and say the job of each.", "a": "Roots hold the plant in the soil and absorb water; the stem holds the plant up and transports water; leaves make food for the plant; flowers help the plant make seeds."},
+    {"q": "How can you tell if a plant is unhealthy?", "a": "Its leaves may be yellow, brown, spotted or dry; its stem may droop or be floppy; its roots may be crowded, swollen or rotten; it does not grow well."},
+    {"q": "What happened to our moong plants under the box, and why?", "a": "They grew tall, thin, weak and pale yellow, because without light the leaves cannot make food or their green colour, so the plant stretched while using up the seed's stored food."},
+    {"q": "What does 'wilt' mean, and what makes a plant wilt?", "a": "Wilting is when a plant droops and goes floppy. It happens when the plant does not get enough water (or light, or gets too hot)."},
+    {"q": "Why must we keep everything the same except one thing in a fair test?", "a": "So that we know the one thing we changed caused the result, and not something else like a different amount of water or a different plant."},
+    {"q": "Describe the journey of water through a plant. How did the celery prove it?", "a": "Roots absorb water from the soil, pass it to the stem, and the stem transports it through tiny tubes to the leaves and flowers. The coloured water showed up as dots in the cut stem and colour in the leaves and petals."},
+    {"q": "How does temperature affect plant growth?", "a": "Plants grow slowly when it is cold, more quickly when it is warm, and die if they get too hot or too cold."}
+  ]
+}

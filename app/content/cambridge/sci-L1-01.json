@@ -1,0 +1,1015 @@
+{
+  "key": "cambridge|sci|1|1",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 1,
+  "n": 1,
+  "title": "Being alive",
+  "source": "Cambridge Primary Science Learner's Book 1 (Cambridge University Press, 2014), Unit 1 'Being alive' (pages 6–15)",
+  "summary": "Your child learns to tell living things from things that are non-living and things that have never been alive, looks at where plants and animals live (their local environment) and why, finds out that all animals make babies that grow into adults, and learns which foods and drinks help a body grow healthy and strong. Along the way they hunt for living things outside, set up a bird table, build a model nursery for a baby animal and plan a healthy plate of Indian food.",
+  "goals": [
+    "By the end your child can sort things into living, non-living and never alive, and give reasons (living things grow, feed, breathe, move, sense and make young).",
+    "By the end your child can say that every living thing lives in a local environment that gives it a home, food and water, and name animals that live in a desert, a pond, a forest and our home.",
+    "By the end your child can match adult animals to their young (hen and chick, cow and calf, frog and tadpole) and say that young animals grow into adults.",
+    "By the end your child can pick out the healthier lunch box, plan a healthy plate, and say why too much fat, sugar and salt is not healthy and why we drink lots of water.",
+    "By the end your child can make a guess, look carefully, and say whether what they saw matched their guess."
+  ],
+  "words": [
+    [
+      "living",
+      "alive now: it grows, feeds, breathes, moves on its own, senses and can make young, like a dog, a neem tree or you"
+    ],
+    [
+      "non-living",
+      "not alive; a stone, the Sun, a chair or a car is non-living"
+    ],
+    [
+      "alive",
+      "living; a seed is alive even though it looks still, because it can grow"
+    ],
+    [
+      "animal",
+      "a living thing that eats food and can move about on its own, like a cow, an ant, a fish or a person"
+    ],
+    [
+      "plant",
+      "a living thing that makes its own food in its green leaves using sunlight, like grass, tulsi or a mango tree"
+    ],
+    [
+      "environment",
+      "the place where a living thing lives, with everything around it: the home, food, water and other living things"
+    ],
+    [
+      "farm",
+      "a place where people grow crops and keep animals such as cows, goats and hens"
+    ],
+    [
+      "pet",
+      "an animal that lives with people in their home and is cared for, like a dog, cat or fish"
+    ],
+    [
+      "baby / young",
+      "the small new animals that parents make; 'young' means the babies of an animal"
+    ],
+    [
+      "calf",
+      "the baby of a cow, buffalo or elephant"
+    ],
+    [
+      "healthy",
+      "good for your body, helping you grow strong and stay well"
+    ],
+    [
+      "fat, sugar, salt",
+      "parts of food that the body needs only a little of; too much of them is not healthy"
+    ]
+  ],
+  "day_mins": 30,
+  "days": [
+    {
+      "n": 1,
+      "title": "Is it alive?",
+      "goal": "Start from things in our own home to ask what makes something alive, look at the big picture on page 6, and start a seed experiment.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Alive or not, around the house",
+          "mins": 6,
+          "do": "Walk around your home with your child and point at six things one at a time: the tulsi or any plant, a spoon, a fly or ant, the fan, a family member, a stone or the TV. For each ask: 'Is it alive?' and 'How do you know?' Do not correct yet; just listen and remember their reasons. Children this age often say the fan is alive 'because it moves' and the plant is not 'because it doesn't move'. Say, 'Good thinking. Let's find out this week if moving is the only clue.'"
+        },
+        {
+          "kind": "read",
+          "title": "The big picture (page 6)",
+          "mins": 8,
+          "do": "Open page 6, 'Animals and plants alive!'. Read the three questions under the picture aloud. Ask your child to point to: a living plant (the tree, the flowers, the grass), a living animal (squirrel, birds, bees, butterfly, frog, worms, rabbits under the ground) and something that has never been alive (the Sun, the rainbow, the stones, the water in the pond). Read the last line: 'The Sun is hot but it is not alive. It is a non-living thing.' Ask: 'The Sun gives light and heat and it seems to move across the sky. Why isn't it alive?' Good answer: 'It doesn't eat, grow, breathe or have babies.' Read the 'Words to learn' box together: living, animal, non-living, plant, alive, look."
+        },
+        {
+          "kind": "talk",
+          "title": "Clues that something is alive",
+          "mins": 6,
+          "do": "Teach the clues of life on your fingers, one per finger: 1. It grows. 2. It needs food (animals eat; plants make food in their leaves). 3. It breathes (takes in air). 4. It moves by itself (a plant moves slowly, turning its leaves to the light). 5. It senses things (feels, sees, smells). 6. It makes young (babies or seeds). Go back to the fan: 'Does the fan grow? Eat? Have baby fans?' (No, it only moves when electricity pushes it, so it is non-living.) Go back to the tulsi: 'Does it grow? Does it make seeds?' (Yes, so it is living, even though it stays in its pot.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Is a dry seed alive? Set up the test",
+          "mins": 10,
+          "do": "Do Experiment e1. Put 10 dry moong seeds and 10 small pebbles (or dry rice-sized stones) side by side on wet cotton in a katori, and put a second katori with 10 moong seeds on dry cotton next to it. Ask your child to guess first: 'Seeds and stones both look hard and still. Which will change in two days? Which is alive?' Write the guess on a slip and stick it on the fridge. Keep the wet cotton damp each day.",
+          "ref": "e1"
+        }
+      ],
+      "need": [
+        "Learner's Book pages 6–7",
+        "20 whole dry moong seeds",
+        "10 small pebbles",
+        "2 katoris or small bowls",
+        "cotton wool",
+        "a slip of paper and tape"
+      ],
+      "prep": [
+        {
+          "task": "Find 20 whole (not split) moong seeds and 10 small pebbles",
+          "when": "morning"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Living-things hunt",
+      "goal": "Do the book's Activity 1.1 outdoors, finding six living things, the largest and the smallest, and sort the photos on page 7.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Check the seeds",
+          "mins": 3,
+          "do": "Look at the e1 katoris. Ask: 'Has anything happened to the seeds on wet cotton? To the stones? To the seeds on dry cotton?' By now the wet seeds are fatter and some skins have split, with a tiny white tip (the first root). The stones and dry seeds have not changed. Your child draws what they see. Say: 'The wet seeds are starting to grow. Growing is one clue of life.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Activity 1.1: What living things can we find? (page 7)",
+          "mins": 17,
+          "do": "Read Activity 1.1 on page 7 aloud. Take a clipboard (a notebook on a steel plate works) and a phone camera to your building compound, park or lane. Your child must: photograph or draw six living things; find the largest living thing they can see (usually a tree such as a neem, peepal or gulmohar); and find the smallest (an ant, a tiny weed in a crack, a mosquito, moss on a wet wall). Help them look low: under pots, in cracks, on the underside of leaves. For each find, ask one clue question: 'How do you know the ant is alive?' (It moves by itself, it carries food.) 'How do you know the grass is alive?' (It grows; it is green; it gets cut and grows again.) If they pick a dead dry leaf, ask: 'Was it alive once? Is it alive now?' (It was once part of a living tree, but it is not growing any more.)"
+        },
+        {
+          "kind": "talk",
+          "title": "The photos on page 7",
+          "mins": 6,
+          "do": "Look at the three photos on page 7: the clownfish in the sea anemone, the green chair and the red car. Ask the book's questions: 'Which photos show things that are alive?' (The fish and the anemone around it, which is an animal too.) 'Which are non-living?' (The chair and the car.) 'How do you know which things are alive?' Push for a clue: 'The fish swims by itself, eats and grows; the car moves only when a person drives it and needs petrol, but it never grows or has baby cars.' Read 'What you have learnt' on page 7 together."
+        },
+        {
+          "kind": "talk",
+          "title": "Was it ever alive?",
+          "mins": 4,
+          "do": "Show three things: a wooden spoon or pencil, a cotton cloth, and a steel tumbler. Ask: 'Are these alive now?' (No.) 'Were any of them ever part of something alive?' Wood came from a tree and cotton came from a cotton plant, so they were once alive; steel was made from rock that was never alive. Say: 'Scientists sort things into three groups: living, once alive, and never alive.' Your child sorts five more kitchen things this way (a potato is living, it can sprout; a dry chapati was made from wheat seeds, so once alive; salt was never alive)."
+        }
+      ],
+      "need": [
+        "Learner's Book page 7",
+        "notebook on a plate as a clipboard",
+        "a phone camera",
+        "wooden spoon, cotton cloth, steel tumbler",
+        "a potato, a chapati, a pinch of salt"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Where do animals live?",
+      "goal": "Learn that every living thing lives in a local environment that gives it a home, food and water, using the picture on page 8 and places in India.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed check: is the seed alive?",
+          "mins": 3,
+          "do": "Look at e1 again. The wet seeds now have clear white roots and maybe a little hooked shoot. Ask: 'So was the dry seed alive?' Good answer: 'Yes, it was alive but resting. When it got water, it started to grow.' 'Were the stones alive?' (No, they never grow.) Ask whether their Day 1 guess was right.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Local environments (page 8)",
+          "mins": 9,
+          "do": "Read page 8 aloud: 'Each living thing needs a place to live and lives in a local environment.' Point to each animal in the big picture and ask, as the book does, 'Where does it live? Why does it live there?' Good answers: the owl lives in a hole in the tree, safe by day; the birds build a nest in the branches; the rabbits dig burrows in the ground to hide; the bat hangs in the cave where it is dark; the fish and tadpoles live in the river because they need water to breathe; the frog lives by the water; the mushrooms grow in the damp shade. Read the last two lines: animals live in natural environments, and also on farms, in zoos and in homes as pets."
+        },
+        {
+          "kind": "talk",
+          "title": "Indian homes for animals",
+          "mins": 8,
+          "do": "Talk about four Indian environments and ask your child to name an animal for each and say what the place gives it: the Thar desert in Rajasthan (camel: it can go days without drinking, its wide feet don't sink in sand); a village pond (frogs, fish, ducks, dragonflies: water, food, a place to lay eggs); a forest like Kaziranga or the Western Ghats (tigers, elephants, rhinos, hornbills: trees, food and shelter); our own home (house sparrows under the roof, lizards on the wall eating insects near the tube light, ants in the kitchen). Ask: 'Why does the lizard come near the light at night?' (Insects gather at the light, so its food is there.) Then: 'A cow on a farm, a tiger in a zoo, a dog as a pet: who gives them food and water?' (People.)"
+        },
+        {
+          "kind": "think",
+          "title": "The voice: where do maggots come from?",
+          "mins": 10,
+          "do": "Tell the story in Voice v1 in your own words, simply: long ago people believed that worms (maggots) grew out of rotting meat all by themselves. Francesco Redi in Italy put meat in jars, covered some with thin cloth so flies could not reach it, and left others open. Maggots appeared only where flies had landed. Ask your child: 'So where did the maggots really come from?' (From eggs laid by flies.) Then ask the voice question and let them answer fully before you share your view. Link it to e1: 'Our moong sprouts came from living seeds, not from wet cotton.'",
+          "ref": "v1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 8",
+        "pictures of a desert, pond or forest if you have a book or phone (optional)"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Where do plants grow?",
+      "goal": "Do Activity 1.2a: look for plants growing outside, say why they grow where they do, and compare how many plants grow in different places.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Guess where plants grow",
+          "mins": 4,
+          "do": "Read Activity 1.2a on page 9 aloud and the first line: 'Think about where you will find plants growing outside.' Before going out, ask your child to guess three places they will find plants and one place where they will find none. Write the guesses down. Point to the little drawing on page 9 of a plant growing out of a crack in a wall."
+        },
+        {
+          "kind": "exp",
+          "title": "Count plants in two places",
+          "mins": 18,
+          "do": "Do Experiment e2. Choose two spots outside that are different: for example a sunny patch of open ground (or garden bed) and a shady, paved corner such as the parking area or the side of the building. In each spot, lay a hula hoop, a dupatta in a ring or a 1-metre loop of string on the ground. Your child counts every plant inside the loop (each grass blade clump, weed and seedling counts as one) and makes a tally. Also look in walls, between paving stones and in drains. Ask the book's questions: 'Where do they grow? Why do they grow where they do?' Good answers: 'Plants grow where there is soil, water and light; few plants grow on hard concrete or in deep shade because there's no soil for roots and not enough light.' A plant in a wall crack grows there because a seed blew in and dust and rainwater collected in the crack.",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Compare and explain",
+          "mins": 5,
+          "do": "Back home, look at the two tallies together and ask: 'Which place had more plants? Why?' Help your child say a full sentence: 'The sunny soil had 23 plants and the parking corner had 4, because plants need soil, water and light.' Compare with this morning's guesses."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet, section A",
+          "mins": 3,
+          "do": "Do Section A of Worksheet ws1 (core) together: living, non-living or never alive. Read each word aloud; your child points to the right box. Leave sections B and C for Day 7.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 9",
+        "a hula hoop, a dupatta or 4 m of string",
+        "notebook and pencil for tallies",
+        "Worksheet ws1 printed or on screen"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Birds come to our home",
+      "goal": "Do Activity 1.2b: notice where birds live near us, and make the environment better for them with a bird table and water bowl.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Birds we have seen (page 9)",
+          "mins": 6,
+          "do": "Read Activity 1.2b, 'Birds come to school', on page 9. Change 'school' to 'home'. Ask: 'Which birds have you seen near our home? Where do you see them?' Good answers: crows on the wall, pigeons on the window ledge or AC unit, sparrows in the bushes, mynahs on the lawn, koel calling from a tree, kites circling high up. Ask: 'Why do they come here?' (Food scraps, water from taps and AC drips, trees and ledges to nest.)"
+        },
+        {
+          "kind": "act",
+          "title": "Make a bird table and water bowl",
+          "mins": 14,
+          "do": "Do Activity a1. Ask the book's questions first: 'Can we make the environment better for them? How could we make a feeding table?' Let your child draw their plan, as the book asks. Then make it: a shallow clay saucer or old plate for water, and a second plate or a flat piece of wood for food (a few grains of bajra or broken rice, a little cooked rice, pieces of banana or papaya). Place them on a balcony ledge or wall where cats cannot jump, near a bush or tree so birds can hide. Your child predicts which bird will come first.",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali, the Birdman of India",
+          "mins": 10,
+          "do": "Tell your child about Voice v2: Salim Ali, who as a boy in Bombay found a sparrow with a yellow patch on its throat and grew up to spend his life studying where Indian birds live, what they eat and where they nest. Ask: 'What did Salim Ali do to learn about birds?' (He watched them very carefully and wrote down what he saw.) Ask the voice question. Then your child copies Salim Ali: sit quietly near the bird table for 3 minutes and write or draw one thing a bird does.",
+          "ref": "v2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 9",
+        "2 shallow clay saucers or old plates",
+        "a few grains of bajra or broken rice, a slice of banana or papaya",
+        "paper and crayons"
+      ],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Animal babies at the zoo",
+      "goal": "Look at the zoo picture on page 10, name baby animals, and notice that some babies look like their parents and some do not.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Bird table check",
+          "mins": 3,
+          "do": "Check the bird table from Activity a1. Ask: 'Did any birds come? Which ones? What did they eat or drink?' Refill the water. Your child adds a tally to a chart: crow, pigeon, sparrow, mynah, other.",
+          "ref": "a1"
+        },
+        {
+          "kind": "read",
+          "title": "Animal babies (page 10)",
+          "mins": 9,
+          "do": "Open page 10, 'Animal babies'. Read the speech bubble ('Look at the little bear cub') and the book's question: 'How many baby animals can you see?' Count together: bear cub, baby elephant (calf), goat kids, ducklings, baby seal, baby penguin, and a human baby in the pram. Read 'Can you see the baby elephant calf?' and point. Read the 'Words to learn' box: baby, calf, human, young. Ask the last question: 'Are all the babies like their parents?' Good answer: 'Mostly yes: the cub looks like a small bear and the ducklings look like small ducks, but with fluffy feathers instead of smooth ones.'"
+        },
+        {
+          "kind": "game",
+          "title": "Baby names game",
+          "mins": 8,
+          "do": "Say an adult animal; your child says the baby's name: cow (calf), dog (puppy), cat (kitten), hen (chick), goat (kid), horse (foal), lion and tiger (cub), elephant (calf), frog (tadpole), butterfly (caterpillar), duck (duckling), human (baby). Then swap: your child says the adult and you answer. If they don't know, give the answer and use it in a sentence: 'The buffalo's calf drinks its mother's milk.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Babies that don't look like their parents",
+          "mins": 10,
+          "do": "Tell your child that some babies look nothing like their parents. A tadpole lives in water, has a tail and no legs, and breathes in water with gills; it slowly grows legs, loses its tail and becomes a frog. A caterpillar munches leaves, makes a hard case around itself (a pupa) and comes out as a butterfly. Ask: 'If you found a tadpole in a monsoon puddle, how would you know it would become a frog?' (Keep watching it as it grows, or see frogs laying eggs there.) Draw the frog's life together in four boxes: eggs (frogspawn), tadpole, tadpole with legs, frog. If you can, find frogspawn or tadpoles in a puddle in the rains and watch, without taking them away."
+        }
+      ],
+      "need": [
+        "Learner's Book page 10",
+        "paper and pencil"
+      ],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Young animals grow up",
+      "goal": "Learn that all animals make babies that grow into adults, think about why some have one baby and some have many, and build a model nursery.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "All animals make babies (page 11)",
+          "mins": 6,
+          "do": "Read page 11 aloud. Look at the three photos: polar bear with cubs, a meerkat family, and swans with their young (cygnets). Read: 'A human mother usually has just one baby at a time. Why?' Good answers: 'A human baby needs a lot of care for many years, so the parents can look after one at a time; one baby grows big inside the mother.' Read: 'Birds and rabbits can have eight or nine young at a time.' Ask: 'Why might a rabbit have so many?' (Many baby rabbits get eaten by foxes, snakes and birds, so having lots means some survive to grow up.) Say: 'An elephant usually has just one calf at a time, and it grows inside its mother for nearly two years.'"
+        },
+        {
+          "kind": "act",
+          "title": "Activity 1.3: Make a nursery for a baby animal",
+          "mins": 17,
+          "do": "Do Activity a2, the book's Activity 1.3 on page 11. Your child chooses a baby animal (a calf, a puppy, a chick, a baby monkey like the one on page 11, a tiger cub) and builds a model nursery for it from a shoebox, clay or play dough, and scrap card. Read the book's rule aloud: 'Make sure you include food, water and a home.' As they build, ask: 'What does a calf eat at first?' (Its mother's milk, then grass.) 'Where does a chick sleep?' (Under its mother's wings, in a warm nest of straw.) 'Where will your baby drink water?' Ask them to explain each part to you when they finish.",
+          "ref": "a2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet, sections B and C",
+          "mins": 7,
+          "do": "Finish Worksheet ws1 (core): Section B on environments and Section C on babies. Read each question aloud and let your child answer by pointing, matching or drawing.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Learner's Book page 11",
+        "a shoebox or cardboard",
+        "clay or play dough",
+        "scissors, glue, sticky tape",
+        "scraps of cloth, cotton wool, small bottle caps for food and water bowls",
+        "Worksheet ws1"
+      ],
+      "prep": [
+        {
+          "task": "Collect a shoebox, cardboard scraps and bottle caps",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Which lunch box is healthier?",
+      "goal": "Learn that some foods and drinks are healthy and that too much fat, sugar and salt is not, using the lunch-box picture on page 12 and a sugar test on a real drink.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Healthy food and drink (page 12)",
+          "mins": 7,
+          "do": "Read page 12 aloud: 'Do you want to grow up healthy and strong? Eat lots of healthy food like fruit and vegetables. Also drink lots of water.' Look at the two lunch boxes. Ask: 'What is in the blue one?' (Water, a banana, an apple, sandwiches with salad.) 'In the yellow one?' (A fizzy drink, a cupcake, a chocolate bar, a white bread sandwich.) Ask the book's question: 'Which lunch bag is healthier?' Good answer: 'The blue one, because it has fruit, vegetables and water; the yellow one has lots of sugar and fat.' Read the 'Words to learn': healthy, food, fat, sugar, salt."
+        },
+        {
+          "kind": "exp",
+          "title": "How much sugar is in a sweet drink?",
+          "mins": 15,
+          "do": "Do Experiment e3. Take a bottle or can of any sweet drink, packaged juice or flavoured milk (from the shop or the fridge). Find the 'Nutrition information' on the label and read the grams of sugar for the whole bottle (if it is given per 100 ml, multiply for the size of the bottle). Ask your child to guess first: 'How many spoons of sugar are in this?' Then work it out together: one level teaspoon of sugar is about 4 grams. Your child spoons that many level teaspoons of sugar onto a plate next to the bottle. Compare with a glass of water (0 spoons) and a fresh orange or a guava (natural sugar, plus fibre that fills you up).",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "James Lind and the sailors' fruit",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: sailors on long voyages fell ill with scurvy (bleeding gums, wounds that would not heal). In 1747 James Lind, a Scottish ship's doctor, gave different foods to different pairs of sick sailors, and the two who got oranges and lemons got better fastest. Ask: 'What does this tell us about fruit?' (Fruit has something the body needs.) Then ask the voice question. Say: 'Today we know that thing is vitamin C. Amla, guava and oranges are full of it.'",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Learner's Book page 12",
+        "1 bottle or can of a sweet drink, packaged juice or flavoured milk with a nutrition label",
+        "a bowl of sugar, a teaspoon, a plate",
+        "a glass of water",
+        "an orange or guava"
+      ],
+      "prep": [
+        {
+          "task": "Keep one sweet drink bottle or can with its label (an empty one is fine)",
+          "when": "2 days before"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "My healthy plate",
+      "goal": "Do Activity 1.4: draw today's plate of food, compare it with a healthy plate, and learn that fruit and vegetables come from plants.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Activity 1.4: My healthy plate (page 13)",
+          "mins": 14,
+          "do": "Do Activity a3, the book's Activity 1.4 on page 13. Ask the girl's question in the thought bubble: 'What have I eaten today?' Your child draws a big circle (a plate or thali) and draws, or sticks on pictures cut from old magazines or food packets, everything they ate today: for example poha and milk for breakfast, dal, rice, sabzi and curd for lunch, biscuits for a snack. Then draw a second plate: a healthy plate. Show a healthy thali: half the plate vegetables and fruit (palak, bhindi, carrot salad, a banana), a quarter grains (rice, roti, ragi), a quarter dal, paneer, egg or fish, with a glass of water and a small bowl of curd. Compare the two plates, as the book asks: 'What is the same? What would you add or swap?' Good answer: 'I ate lots of rice but no fruit; I could add a guava and swap the biscuits for chana.'",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "Fruit and vegetables come from plants (page 13)",
+          "mins": 6,
+          "do": "Read the text next to the market picture on page 13: fruit and vegetables come from plants; they are full of good things for your body; they do not have too much fat, sugar and salt, and too much of these is not healthy. Ask: 'Which plant does a mango come from? A potato? Spinach?' (A mango tree; a potato plant, whose potato grows underground; the palak plant, whose leaves we eat.) Ask: 'Name three foods that have too much salt.' (Chips, namkeen, pickle, papad.) 'Too much sugar?' (Jalebi, cola, toffees.) 'Too much fat?' (Pakoras, samosas, fried bhature.) Say: 'We can enjoy these sometimes, as a treat, but not every day.' Read 'What you have learnt' on page 13 together."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to use the week's ideas on new cases: a living thing in a new place, an animal family that is not in the book, and a new lunch box. Read each item aloud; your child answers aloud or by drawing, and you write their words.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Learner's Book page 13",
+        "2 sheets of paper, crayons",
+        "old magazines or food packets, scissors and glue (optional)",
+        "Worksheet ws2"
+      ],
+      "prep": []
+    },
+    {
+      "n": 10,
+      "title": "Is a virus alive? Thinking like a scientist",
+      "goal": "Use the clues of life on a hard case that scientists still argue about, do the challenge worksheet, and drink water like a scientist.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Bird table and water check",
+          "mins": 3,
+          "do": "Look at the bird table tally from Activity a1. Ask: 'Which bird came most often? Why do you think so?' (Pigeons and crows are common near homes and eat almost anything.) Refill water. Explain that the bird table changed their local environment by adding food and water.",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "A live debate: is a virus alive?",
+          "mins": 10,
+          "do": "Tell your child about Voice v4. 'When you had a cold or flu, a tiny thing called a virus was making you ill. It is far too small to see. A virus cannot eat, grow or make copies of itself on its own. But when it gets inside a living cell in your nose, it uses that cell to make many copies of itself.' Count the clues of life on your fingers with your child: 'Does it eat? Grow? Breathe? Make young?' Then ask the voice question. Tell them honestly that scientists still argue about this, and both sides have good reasons.",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 12,
+          "do": "Do Worksheet ws3 (challenge) together. These are harder puzzles: things that are tricky to sort (a seed, fire, a cloud, a robot), a mystery animal from clues, and a choice about lunch. There is no shame in a wrong answer; ask 'What clue did you use?' every time.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "do",
+          "title": "Water detectives",
+          "mins": 5,
+          "do": "Ask: 'The book says drinking lots of water is healthy. Why?' (Our bodies are mostly water; we lose water when we sweat, breathe and go to the toilet, and we need to put it back, especially in Indian summers.) Mark a steel bottle with a sticker line for each glass and let your child tick how many glasses they drink today. Most children aged 5–8 need around 5 to 7 glasses a day, more on hot days or after playing."
+        }
+      ],
+      "need": [
+        "Worksheet ws3",
+        "a steel water bottle and stickers"
+      ],
+      "prep": []
+    },
+    {
+      "n": 11,
+      "title": "Check your progress and teach it back",
+      "goal": "Do the book's Check your progress on pages 14–15, answer the unit check questions and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress, questions 1 and 2 (page 14)",
+          "mins": 8,
+          "do": "Open page 14. Question 1: Matt the librarian has dropped books and must put them on the 'ALIVE' shelf or the 'NEVER ALIVE' shelf. Look at each book cover with your child and decide which shelf (books about frogs and bears go on 'ALIVE'; books about cars or the Sun go on 'NEVER ALIVE'). Question 2: look at the two local environments, a hot sandy desert and a pond. Ask which animals live in each: desert: meerkat, snake, scorpion, camel; pond: duck, frog, newt, dragonfly. Ask: 'Why can't a frog live in the desert?' (Its skin must stay damp and it lays its eggs in water.) Some snakes do live in ponds, so accept that if your child explains it."
+        },
+        {
+          "kind": "review",
+          "title": "Check your progress, questions 3 and 4 (page 15)",
+          "mins": 6,
+          "do": "Question 3: match each adult with its young: hen and chick, cheetah and cubs, frog and tadpoles, goat and kid. Ask: 'Which baby looks least like its parent?' (The tadpole.) Question 4: look at the picnic picture and point to the healthy foods (pineapple, fruit, rice, fish, milk, water) and the less healthy ones (the fizzy drink, sugar, jam, cream, chocolate, the burger, chips, cake). Ask: 'What could the children drink instead of cola?' (Water, nimbu pani without much sugar, buttermilk.)"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 7,
+          "do": "Ask the 7 check questions aloud, one at a time, without the book. Tick those answered well. For any missed one, open the page and look at it together for a minute, then ask again in different words. Most children get 5 or more right; fewer than 4 means repeat the Day 2 hunt and the Day 7 nursery talk next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 9,
+          "do": "Your child is the teacher; you (or a grandparent) are the student. Using the sprouted seeds from e1, the nursery model and the healthy plate drawing, they teach you in 5 minutes: how you know something is alive, where animals live and why, how babies grow into adults, and what makes a healthy plate. Ask two 'student' questions: 'Is the fan alive? It moves!' and 'Why should I drink water and not cola?' Praise the reasons they give, not just the answers."
+        }
+      ],
+      "need": [
+        "Learner's Book pages 14–15",
+        "the sprouted seeds, nursery model and healthy plate drawing"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Alive, homes and babies",
+      "day": 4,
+      "sections": [
+        [
+          "A. Living, non-living or never alive?",
+          [
+            {
+              "t": "sort",
+              "p": "Sort these things.",
+              "items": [
+                "Cow",
+                "Stone",
+                "Neem tree",
+                "Car",
+                "Ant",
+                "The Sun",
+                "Grass",
+                "Spoon"
+              ],
+              "cats": [
+                "Living",
+                "Never alive"
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "A seed is:",
+              "opts": [
+                "Non-living, because it does not move",
+                "Alive, because it can grow into a plant",
+                "Never alive"
+              ],
+              "a": 1
+            },
+            {
+              "t": "fill",
+              "p": "Living things grow, feed and make ____.",
+              "a": [
+                "young",
+                "babies",
+                "babies or seeds",
+                "seeds"
+              ]
+            }
+          ]
+        ],
+        [
+          "B. Where do they live?",
+          [
+            {
+              "t": "match",
+              "p": "Match each animal to its home.",
+              "pairs": [
+                [
+                  "Camel",
+                  "Desert"
+                ],
+                [
+                  "Fish",
+                  "Pond or river"
+                ],
+                [
+                  "Owl",
+                  "Hole in a tree"
+                ],
+                [
+                  "Rabbit",
+                  "Burrow under the ground"
+                ],
+                [
+                  "Dog",
+                  "Our home, as a pet"
+                ]
+              ]
+            },
+            {
+              "t": "fill",
+              "p": "The local environment gives a living thing a home, food and ____.",
+              "a": [
+                "water"
+              ]
+            }
+          ]
+        ],
+        [
+          "C. Animal babies",
+          [
+            {
+              "t": "match",
+              "p": "Match the adult to its young.",
+              "pairs": [
+                [
+                  "Hen",
+                  "Chick"
+                ],
+                [
+                  "Cow",
+                  "Calf"
+                ],
+                [
+                  "Frog",
+                  "Tadpole"
+                ],
+                [
+                  "Goat",
+                  "Kid"
+                ],
+                [
+                  "Cat",
+                  "Kitten"
+                ]
+              ]
+            },
+            {
+              "t": "draw",
+              "p": "Draw a baby animal in its home. Show its food and water."
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Using what we know",
+      "day": 9,
+      "sections": [
+        [
+          "A. New places, new living things",
+          [
+            {
+              "t": "mcq",
+              "p": "A small plant is growing in a crack in a wall. Why can it grow there?",
+              "opts": [
+                "Plants can grow without water",
+                "Dust and rainwater collect in the crack, and a seed landed there",
+                "The wall is alive"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "Which place will have the most plants?",
+              "opts": [
+                "A concrete parking lot",
+                "A sunny patch of soil that gets rain",
+                "Inside a dark cupboard"
+              ],
+              "a": 1
+            },
+            {
+              "t": "write",
+              "p": "A peacock lives near your Nani's village. What does its environment need to give it? Say three things.",
+              "lines": 2
+            }
+          ]
+        ],
+        [
+          "B. Families",
+          [
+            {
+              "t": "match",
+              "p": "Match the adult to its young.",
+              "pairs": [
+                [
+                  "Butterfly",
+                  "Caterpillar"
+                ],
+                [
+                  "Horse",
+                  "Foal"
+                ],
+                [
+                  "Duck",
+                  "Duckling"
+                ],
+                [
+                  "Elephant",
+                  "Calf"
+                ]
+              ]
+            },
+            {
+              "t": "mcq",
+              "p": "A rabbit has many babies at a time. Why does this help?",
+              "opts": [
+                "Rabbits like noise",
+                "Many babies get eaten, so some still grow up",
+                "Big families need less food"
+              ],
+              "a": 1
+            }
+          ]
+        ],
+        [
+          "C. A new lunch box",
+          [
+            {
+              "t": "sort",
+              "p": "Sort Riya's lunch-box choices.",
+              "items": [
+                "Guava",
+                "Water",
+                "Chips",
+                "Roti and sabzi",
+                "Cola",
+                "Sprouts chaat",
+                "Jalebi",
+                "Buttermilk"
+              ],
+              "cats": [
+                "Healthy every day",
+                "Only sometimes (too much fat, sugar or salt)"
+              ]
+            },
+            {
+              "t": "draw",
+              "p": "Draw a healthy tiffin box for a school trip."
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Tricky cases",
+      "day": 10,
+      "sections": [
+        [
+          "A. Hard to sort",
+          [
+            {
+              "t": "mcq",
+              "p": "Fire grows, moves and 'eats' wood. Is fire alive?",
+              "opts": [
+                "Yes, it grows and moves",
+                "No, it cannot make young and does not grow from inside itself",
+                "Yes, because it is hot"
+              ],
+              "a": 1
+            },
+            {
+              "t": "mcq",
+              "p": "A robot dog walks and barks. Is it alive?",
+              "opts": [
+                "Yes, it moves",
+                "No, it does not grow, feed or make young; it uses a battery",
+                "Yes, it is a dog"
+              ],
+              "a": 1
+            },
+            {
+              "t": "sort",
+              "p": "Sort these.",
+              "items": [
+                "A dry seed",
+                "A wooden table",
+                "A cloud",
+                "A cotton shirt",
+                "A mushroom",
+                "A plastic toy"
+              ],
+              "cats": [
+                "Living",
+                "Once alive",
+                "Never alive"
+              ]
+            }
+          ]
+        ],
+        [
+          "B. Mystery animal",
+          [
+            {
+              "t": "write",
+              "p": "I live in the Thar desert. I can walk for days without drinking. My wide feet don't sink in the sand. My baby is called a calf. Who am I? How does my environment give me food?",
+              "lines": 2
+            },
+            {
+              "t": "write",
+              "p": "What if all the ponds in a village dried up? Which animals would have to move away or would die? Why?",
+              "lines": 3
+            }
+          ]
+        ],
+        [
+          "C. Thinking about evidence",
+          [
+            {
+              "t": "write",
+              "p": "Redi's open jars got maggots, his covered jars did not. Why did he need the covered jars too?",
+              "lines": 3
+            },
+            {
+              "t": "mcq",
+              "p": "Arjun says, 'My moong seed is not alive because it doesn't move.' What test would show him?",
+              "opts": [
+                "Look at it for one minute",
+                "Put it on wet cotton for two days and see if it grows",
+                "Ask a friend"
+              ],
+              "a": 1
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Seed or stone: which is alive?",
+      "day": 1,
+      "question": "A dry seed and a pebble both look hard and still. Is the seed alive?",
+      "need": [
+        "20 whole dry moong seeds",
+        "10 small pebbles",
+        "2 katoris",
+        "cotton wool",
+        "water"
+      ],
+      "steps": [
+        "Line both katoris with cotton wool.",
+        "Katori 1: wet the cotton so it is damp, not flooded. Put 10 moong seeds on one side and 10 pebbles on the other side.",
+        "Katori 2: keep the cotton dry. Put 10 moong seeds on it.",
+        "Keep both in a warm place out of direct hot sun. Add a few drops of water to katori 1 every day.",
+        "Each day, your child draws the seeds and stones in each katori."
+      ],
+      "predict": "Ask your child to guess first: 'Which will change: the wet seeds, the dry seeds, or the stones? Which are alive?' Write the guess down.",
+      "observe": "Within a day the wet seeds swell and their green skins split; by Day 2 or 3 a white root pokes out and then a little shoot. The dry seeds and the pebbles do not change.",
+      "why": "A dry seed is a living baby plant resting inside a coat, with its own stored food (the two halves you see in split moong dal). Because it is resting, it doesn't grow, so it looks like a stone. When it takes in water it wakes up and starts to grow, which is one of the clues of life. A pebble never grows however much water it gets, because it has never been alive. The dry seeds are still alive too; they are just waiting for water.",
+      "safety": "Wash hands after handling the seeds. Do not eat seeds that have sat in water for several days.",
+      "time": "10 min to set up + 3 min check on Days 2 and 3"
+    },
+    {
+      "id": "e2",
+      "title": "Where do more plants grow?",
+      "day": 4,
+      "question": "Do more plants grow in a sunny patch of soil or on a shady, paved spot?",
+      "need": [
+        "a hula hoop, a dupatta or 4 m of string to make a ring",
+        "notebook and pencil",
+        "two different places outside"
+      ],
+      "steps": [
+        "Choose two places: a sunny spot with soil, and a shady or paved spot.",
+        "Lay the ring on the ground in the first place. Count every plant inside it and make a tally.",
+        "Lay the ring the same way in the second place and count again.",
+        "Write down what the ground is like in each place: soil or concrete, wet or dry, sunny or shady."
+      ],
+      "predict": "Ask your child to guess first: 'Which place will have more plants? Why?'",
+      "observe": "The number of plants in each ring and what the ground was like. Usually the sunny soil has many more plants than the shady, paved spot.",
+      "why": "Plants need light to make their food, water to drink and soil to hold their roots and give them minerals. A sunny patch of soil gives all three, so many seeds that land there can grow. Concrete has no soil for roots, and deep shade has too little light, so only a few tough plants manage, mostly in cracks where dust and water collect. Using the same size ring in both places makes it a fair comparison.",
+      "safety": "Watch for ants, broken glass and snakes in long grass; do not put hands into holes. Wash hands afterwards.",
+      "time": "20 min"
+    },
+    {
+      "id": "e3",
+      "title": "Spoon out the sugar",
+      "day": 8,
+      "question": "How many spoons of sugar are hidden in one sweet drink?",
+      "need": [
+        "1 sweet drink, packaged juice or flavoured milk with a nutrition label",
+        "a bowl of sugar",
+        "a teaspoon",
+        "a plate",
+        "a glass of water"
+      ],
+      "steps": [
+        "Read the label with your child and find 'Sugars' or 'Total sugars' in grams.",
+        "If the label gives sugar per 100 ml, multiply by the size of the bottle (for a 300 ml bottle, multiply by 3).",
+        "Divide the grams by 4 to get teaspoons (one level teaspoon of sugar is about 4 grams).",
+        "Your child spoons that many level teaspoons onto the plate next to the bottle.",
+        "Put a glass of water beside it: 0 spoons."
+      ],
+      "predict": "Ask your child to guess first: 'How many spoons of sugar are in this bottle?' Write the number down.",
+      "observe": "How many spoons the label really means, and how big the pile is next to the bottle. Many 300 ml sweet drinks have more than 6 teaspoons.",
+      "why": "Sugar dissolves into the drink, so we cannot see it, but it is still there. Our bodies use sugar for energy, but too much of it every day can rot teeth (the germs on our teeth feed on sugar and make acid) and add more energy than we use, which the body stores as fat. Health experts advise that children have only a few teaspoons of added sugar in a whole day, so one sweet drink can be more than a day's worth. Fruit also has sugar, but it comes with fibre and water that fill you up, so you don't eat as much.",
+      "safety": "Do not eat the sugar from the plate; pour it back into a jar to use in cooking.",
+      "time": "15 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "A bird table and water bowl (book Activity 1.2b)",
+      "day": 5,
+      "mins": 14,
+      "need": [
+        "2 shallow clay saucers or old plates",
+        "a few grains of bajra or broken rice, a little cooked rice, pieces of banana or papaya",
+        "water",
+        "paper and crayons for the plan"
+      ],
+      "steps": [
+        "Your child draws a plan of how they will help the birds, as the book asks.",
+        "Fill one saucer with clean water.",
+        "Put a little food on the other saucer: grains for sparrows and pigeons, fruit pieces for mynahs and bulbuls.",
+        "Place both on a balcony ledge or wall, near a bush or tree, where cats cannot reach.",
+        "Change the water every day and remove old food so it doesn't rot.",
+        "Keep a tally of which birds visit."
+      ],
+      "outcome": "A small bird station that improves the local environment for birds, and a tally chart of visitors over a week."
+    },
+    {
+      "id": "a2",
+      "title": "A nursery for a baby animal (book Activity 1.3)",
+      "day": 7,
+      "mins": 17,
+      "need": [
+        "a shoebox or cardboard",
+        "clay or play dough",
+        "scissors, glue and sticky tape",
+        "cloth scraps, cotton wool, bottle caps"
+      ],
+      "steps": [
+        "Choose a baby animal and say what it eats, drinks and where it sleeps.",
+        "Make the baby from clay or play dough.",
+        "Make a home inside the shoebox: a nest, a shed, a den or a cave.",
+        "Add food (milk bottle, grass, grain, meat) and a water bowl from a bottle cap.",
+        "Your child explains each part of the nursery to the family."
+      ],
+      "outcome": "A model nursery with food, water and a home, and a child who can say what a baby animal needs."
+    },
+    {
+      "id": "a3",
+      "title": "My healthy plate (book Activity 1.4)",
+      "day": 9,
+      "mins": 14,
+      "need": [
+        "2 sheets of paper",
+        "crayons",
+        "old magazines or food packets, scissors and glue (optional)"
+      ],
+      "steps": [
+        "Draw a big plate or thali and draw or stick on everything eaten today.",
+        "Draw a second plate: half vegetables and fruit, a quarter grains, a quarter dal, paneer, egg or fish, plus water.",
+        "Compare the two plates: what is the same, and what could be swapped?",
+        "Write one swap to try tomorrow."
+      ],
+      "outcome": "Two plate drawings and one healthy swap your child chose."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Francesco Redi (1626–1697), Italy",
+      "idea": "For a very long time many people believed that some living things simply appeared out of non-living things: that maggots grew out of rotting meat, for example. In 1668 Redi, a doctor and scientist, put pieces of meat in jars. He left some jars open and covered others with fine gauze cloth so that air could get in but flies could not. Maggots appeared only on meat that flies could reach, and he saw flies laying eggs on the gauze. He concluded that maggots come from flies' eggs, not from the meat.",
+      "then": "Redi's experiment convinced many people about maggots and flies, but the old belief lasted for tiny living things such as germs. It was argued about for nearly two hundred more years.",
+      "now": "Around 1860 Louis Pasteur in France showed with special flasks that germs also come only from other germs. Today it is accepted that every living thing we know comes from other living things: animals from parent animals, plants from seeds or parts of parent plants.",
+      "status": "accepted",
+      "ask": "Redi covered some jars and left others open. Why did he need both kinds of jar? What would he have learnt if he had used only open jars?",
+      "day": 3
+    },
+    {
+      "id": "v2",
+      "who": "Salim Ali (1896–1987), India",
+      "idea": "Salim Ali grew up in Bombay (now Mumbai). As a boy he shot a sparrow with an unusual yellow patch on its throat and took it to the Bombay Natural History Society, where it was identified as a yellow-throated sparrow. He spent the rest of his life watching Indian birds carefully: where each kind lives, what it eats, how it nests and when it moves from place to place. His 'The Book of Indian Birds' (1941) helped ordinary Indians name the birds around them.",
+      "then": "Bird study in India was mostly done by collectors who named and counted dead birds. Salim Ali insisted on watching living birds in their environments, which made his work new and important.",
+      "now": "He is called the 'Birdman of India'. He was awarded the Padma Vibhushan in 1976, and his work helped protect bird places such as the Bharatpur (Keoladeo) wetland. The Salim Ali Centre for Ornithology and Natural History in Coimbatore is named after him.",
+      "status": "accepted",
+      "ask": "Salim Ali learnt about birds by watching them in their homes for a long time. What can you learn by watching a bird at your bird table that you can't learn from a picture?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "James Lind (1716–1794), Scotland",
+      "idea": "On long sea voyages many sailors got scurvy: their gums bled, they felt weak and their wounds would not heal. In 1747, on the ship HMS Salisbury, the doctor James Lind took 12 sick sailors, kept them on the same basic food, and gave each pair a different extra treatment, such as cider, vinegar, sea water, or two oranges and a lemon a day. The pair given oranges and lemons got better fastest. He published his results in 1753.",
+      "then": "His result was not acted on quickly. Lind himself was not sure fruit was the whole answer, and fresh fruit was hard to keep on ships. The British navy began giving sailors lemon juice regularly only in 1795, more than 40 years later.",
+      "now": "Today we know scurvy is caused by not getting enough vitamin C, which is found in fresh fruit and vegetables such as amla, guava, oranges, lemons and capsicum. Lind's trial is remembered as one of the first fair tests in medicine, because he compared groups that were alike except for one thing.",
+      "status": "accepted",
+      "ask": "Lind gave each pair of sailors a different food but kept everything else the same. Why was that important? What if the lemon sailors had also been given more rest?",
+      "day": 8
+    },
+    {
+      "id": "v4",
+      "who": "A live debate among scientists today: are viruses alive?",
+      "idea": "Viruses, such as the ones that give us colds and flu, are far too small to see even with an ordinary microscope. On their own they do not eat, grow or breathe. But when a virus gets inside a living cell, it takes over the cell's machinery and makes many copies of itself, and those copies can change over time.",
+      "then": "When the first virus (which harms tobacco plants) was studied in the 1890s, the Dutch scientist Martinus Beijerinck described it as a 'contagious living fluid'. Then in 1935 the American scientist Wendell Stanley made that virus into crystals, like salt or sugar crystals, and many people decided it could not be alive.",
+      "now": "Scientists still disagree. Some say viruses are not alive because they cannot do anything outside a cell. Others say they are a kind of life, because inside a cell they make copies of themselves and change over generations, as living things do. There is no single agreed answer; it depends on how you define 'alive'.",
+      "status": "debated",
+      "ask": "A virus can only make copies inside a living cell. A seed can only grow if it gets water. Is that the same kind of thing, or different? Which clues of life would you need to see to call something alive?",
+      "day": 10
+    }
+  ],
+  "check": [
+    {
+      "q": "Name three clues that tell you something is alive.",
+      "a": "It grows, it needs food, it breathes, it moves by itself, it senses things, and it makes young (any three)."
+    },
+    {
+      "q": "The Sun is hot and seems to move. Is it alive? Why?",
+      "a": "No. It does not grow, feed, breathe or make young, so it is non-living."
+    },
+    {
+      "q": "Is a dry moong seed alive? How do we know?",
+      "a": "Yes. When we gave it water it grew a root and a shoot. A stone never grew."
+    },
+    {
+      "q": "What does a local environment give a living thing?",
+      "a": "A home, food and water."
+    },
+    {
+      "q": "Name an animal that lives in a desert and one that lives in a pond.",
+      "a": "Desert: camel, scorpion, meerkat or snake. Pond: frog, duck, fish or dragonfly."
+    },
+    {
+      "q": "What is a baby frog called, and does it look like its parent?",
+      "a": "A tadpole. No, it has a tail and no legs and lives in water, but it grows into a frog."
+    },
+    {
+      "q": "Why is cola not a healthy drink, and what should we drink instead?",
+      "a": "It has a lot of sugar, which is bad for teeth and health if we have too much; water is healthiest."
+    }
+  ]
+}

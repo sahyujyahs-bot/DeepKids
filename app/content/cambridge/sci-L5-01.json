@@ -1,0 +1,712 @@
+{
+  "key": "cambridge|sci|5|1",
+  "board": "cambridge",
+  "subj": "sci",
+  "level": 5,
+  "n": 1,
+  "title": "Life cycles of flowering plants",
+  "source": "Cambridge Primary Science Learner's Book 5 (2nd edition), Unit 1 'Life cycles of flowering plants' (pages 2–30): 1.1 Flowering and non-flowering plants (pages 2–8), 1.2 Pollination, fruits and seeds (pages 9–14), 1.3 How seeds are spread (pages 15–21), 1.4 Seed germination (pages 22–26), Project: Pollinators and pesticides (pages 27–28), Check your progress (pages 29–30)",
+  "summary": "Your child learns that some plants flower and others (ferns, mosses, conifers) do not, and follows the full life cycle of a flowering plant: flower, pollination, fertilisation, fruit and seed, seed dispersal and germination. They take a real flower apart, watch insects visit flowers and graph what they see, test how seeds travel, build a key, and run an eight-day fair test on what seeds need to germinate. The unit ends with the real-world question of how pesticides affect bees.",
+  "goals": [
+    "By the end your child can say how flowering plants differ from non-flowering plants (ferns and mosses make spores; pines make seeds in cones) and give Indian examples of each.",
+    "By the end your child can draw the life cycle of a flowering plant as a circle with the stages in order: germination, growth, flowering, pollination, fertilisation, fruit and seed formation, seed dispersal.",
+    "By the end your child can name the parts of a flower (petals, sepals, stamen with anther and filament, carpel with stigma and ovary) on a real flower and say what each does.",
+    "By the end your child can explain the difference between pollination and fertilisation, and say how insect-pollinated and wind-pollinated flowers are adapted.",
+    "By the end your child can sort seeds by how they are dispersed (animals, wind, water, explosion, drop and roll), say how each is adapted, and use a key.",
+    "By the end your child can plan and run a fair test on germination, keep a results table over eight days, and write a conclusion about the conditions seeds need."
+  ],
+  "words": [
+    ["life cycle", "all the changes in a living thing's life, from seed to adult plant to new seeds, that happen over and over again; we draw it as a circle"],
+    ["reproduce", "to make new living things of the same kind; flowers help plants reproduce"],
+    ["spores", "tiny specks, too small to see one by one, that ferns and mosses make instead of seeds; each can grow into a new plant"],
+    ["stamen", "the male part of a flower, made of a stalk (filament) with a head (anther) that makes pollen"],
+    ["carpel", "the female part of a flower, made of the sticky stigma on top, a neck (style) and the ovary at the bottom, which holds the tiny eggs"],
+    ["pollen", "the fine powder made in the anthers; it carries the male cells a plant needs to make seeds"],
+    ["pollination", "the movement of pollen from the anther of a flower to the stigma of a flower of the same kind, by insects, birds, bats or wind"],
+    ["fertilisation", "the joining of the male cell from pollen with an egg inside the ovary; this starts a seed"],
+    ["nectar", "the sweet liquid inside many flowers that pollinators come to drink"],
+    ["adaptation", "a feature that helps a living thing survive and reproduce where it lives, like bright petals to attract bees or wings on a seed"],
+    ["seed dispersal", "the spreading of seeds away from the parent plant, so the new plants do not crowd each other"],
+    ["germination", "the moment a seed starts to grow: it absorbs water, swells, splits its coat and sends out a root and then a shoot"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "Do all plants have flowers?",
+      "goal": "Start from the flowers in your child's own life, draw and label a plant, and meet the idea of a life cycle.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Flowers in our week",
+          "mins": 7,
+          "do": "Ask your child: 'Where did you see flowers this week?' Help them remember: the marigold (genda) garland at the temple or on the car, jasmine (mogra) in Amma's hair, the tulsi with its tiny purple spikes, the hibiscus (gudhal) used in puja, the banana flower (kele ka phool) sold as a vegetable, the cauliflower (which is really a tight bunch of flower buds). Ask: 'Why do you think a plant bothers to make a flower? It does not need it to eat or drink.' Accept any answer for now and write it on a sticky note: 'My first idea about why plants make flowers'. You will come back to it."
+        },
+        {
+          "kind": "do",
+          "title": "Getting started: draw and label a plant (page 2)",
+          "mins": 10,
+          "do": "Open page 2 and read the 'We are going to' box aloud. Then do the three 'Getting started' tasks. 1: Your child draws a whole plant from memory and colours it, labelling root, stem, leaf and any flower, fruit or seed. 2: For each label ask, 'Why does the plant need this part?' Good answers: roots hold the plant and take in water and minerals; the stem holds it up and carries water; leaves make food using sunlight; flowers make seeds; seeds grow into new plants. 3: Ask, 'Does your plant have flowers? Do you think ALL plants have flowers?' Many children say yes. Do not correct them yet; say, 'Let's find out.' Read the orange word box on page 2 together and say you will learn every one of these words by the end of the unit."
+        },
+        {
+          "kind": "read",
+          "title": "Plants with flowers (page 3) and Activity 1 (page 4)",
+          "mins": 10,
+          "do": "Read page 3 aloud: many plants have flowers; some are big, some small, some colourful, some not; some have a scent. Look at the five photos and ask your child to describe each in one word (spiky, tiny, bright, purple, yellow). Then do Activity 1 'Your favourite flowers' on page 4 at home: your child picks three favourite flowers (real ones from the house or market, or pictures on a phone) and says why they like each one: colour, smell, shape. If you have old magazines or wedding cards with flowers, they can cut and paste a small collage in their notebook. Ask: 'Which of your flowers has a strong scent? Which is very bright?' Note that the answers already hint at what flowers are for."
+        },
+        {
+          "kind": "talk",
+          "title": "Plant life cycles (page 4)",
+          "mins": 12,
+          "do": "Read 'Plant life cycles' on page 4 aloud and trace the red arrows on the circle diagram with your finger: the seed germinates, the plant grows, the plant flowers, the flower produces fruit, the fruit releases seeds, and round again. Stop at 'All flowers do the same important job. Can you think what it is?' Good answer: 'They make seeds so new plants can grow' (the book says flowers help the plant reproduce). Then use a real example from your kitchen: take a whole tomato or a bhindi (okra) and say, 'This was a flower once. Where are its seeds?' Cut it open and look. Ask: 'Why do we call it a CYCLE?' (Because it goes round and round: the seeds grow into plants that make seeds again.) Go back to the sticky note from the warm-up and let your child improve their first idea."
+        },
+        {
+          "kind": "do",
+          "title": "Start a flower diary",
+          "mins": 6,
+          "do": "Pick one flowering plant at home or in the compound (hibiscus, rose, marigold, chilli or a tomato plant are ideal). Your child draws one bud and one open flower on it today and writes the date. Explain: 'Over this unit we will watch what happens to the flower after it opens.' Tie a loose thread around the stalk of one open flower so you can find it again on Day 5 and Day 9 and see whether it has turned into a fruit."
+        }
+      ],
+      "need": ["Learner's Book pages 2–4", "notebook and coloured pencils", "a tomato or bhindi and a knife (adult use)", "3 flowers or flower pictures", "a piece of thread", "sticky notes"],
+      "prep": [{"task": "Find a flowering plant your child can visit every few days (home pot, compound, neighbour's garden)", "when": "morning"}]
+    },
+    {
+      "n": 2,
+      "title": "Plants without flowers, and the seed jars",
+      "goal": "Learn that ferns and mosses make spores and pines make seeds in cones, meet Birbal Sahni, and start the eight-day germination test.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Plants without flowers (page 5)",
+          "mins": 8,
+          "do": "Read page 5 aloud: not all plants have flowers; mosses, ferns and plants with cones are non-flowering plants. Ferns and mosses do not make seeds but tiny spores; pine trees do make seeds, but in a cone, not a flower. Look at the four photos (fern, moss, a cycad cone, pine cones). Ask: 'Where have you seen moss?' (The green velvet on old walls and steps in the monsoon.) 'And ferns?' (Pots in hotels, damp walls, hill stations.) If you can, find a fern leaf and turn it over: the brown dots in rows underneath are spore cases. Tap one over white paper; the brown dust is spores. If you have been to a hill station like Shimla, Mussoorie or Ooty, remind your child of the pine and deodar trees and their cones."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–6 (pages 5–6)",
+          "mins": 8,
+          "do": "Ask questions 1–4 on page 5 aloud. 1: a flowering plant you know (mango, rose, mustard). 2: a non-flowering plant (fern, moss, pine, deodar, cycad). 3: How are they different? (Flowering plants make flowers and form seeds inside fruits; ferns and mosses make spores; conifers make seeds in cones.) 4: 'Why don't we usually find flowers and fruits on a peach tree at the same time?' Good answer: 'The fruit grows from the flower, after the petals fall off, so the flowers come first and the fruits later.' (Point out that a mango tree in March has flowers (baur) and in May has mangoes.) Then do question 5 on page 6: your child writes the bean stages in order in a circle: seed → seedling → adult plant → flower → bean pod → seed. Question 6: 'Why do we draw life cycles in a circle?' (Because the last stage makes the first stage again.)"
+        },
+        {
+          "kind": "think",
+          "title": "Birbal Sahni and plants older than flowers",
+          "mins": 7,
+          "do": "Tell the story in Voice v1: Birbal Sahni studied fossil plants found in India, including ferns and seed plants that lived long before any flower existed. Explain the big idea: ferns, mosses and conifers are very old groups; flowering plants came much later, and now there are far more kinds of them than any other plants. Ask the voice question and let your child answer fully first.",
+          "ref": "v1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the germination jars (Think like a scientist 2, page 25)",
+          "mins": 20,
+          "do": "Set up Experiment e1 now, because it needs eight days. Use 5 clear glass jars or cut plastic bottles. Fill each with soil or sawdust and push 5 rajma or chana seeds against the glass so you can see them from outside. Label: 1 'Dry soil', 2 'Moist soil', 3 'Moist, cold' (goes in the fridge), 4 'Moist, warm' (a warm shelf, not in direct sun), 5 'Moist, dark' (inside a cupboard). Jars 1 and 2 sit side by side in the same place. Use a measuring cup and add the same amount of water (about 50 ml) to jars 2–5. Before closing up, ask your child to predict for each jar: 'Will the seeds germinate? Fast or slow?' Write the predictions in a table in the notebook, copying the book's table on page 25 with an extra column for 'Moist, dark'. Ask: 'Why must every jar have the same kind of seed, the same number and the same amount of water?' (So that only one condition is different each time; that makes it a fair test.)",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Learner's Book pages 5–6 and 25", "a fern leaf if you can find one, white paper", "5 clear jars or cut plastic bottles", "soil or sawdust", "25 dry rajma or kabuli chana seeds", "a measuring cup", "labels, marker"],
+      "prep": [{"task": "Collect 5 clear jars or cut bottles and some garden soil; buy rajma or kabuli chana", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Inside a flower",
+      "goal": "Collect and group flowers, then take one flower apart and find every part shown on page 6.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jars: first look",
+          "mins": 3,
+          "do": "Look at the jars from Experiment e1 without opening them. Ask: 'Has anything changed? Are any seeds fatter?' Add a little water to any moist jar that has dried at the top. Check the fridge jar and the cupboard jar too. Nothing much will have happened yet; say, 'We will count properly on Day 4 (the book's day 2).'",
+          "ref": "e1"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Collect flowers (Think like a scientist 1, page 6)",
+          "mins": 10,
+          "do": "Do Think like a scientist 1 on page 6. Walk around the compound, park or a flower stall and collect 6–8 different flowers, picking only fallen ones or asking permission (flower sellers often give away broken ones). Good mixes: hibiscus, marigold, rose, periwinkle (sadabahar), ixora, jasmine, a grass flower head, a tulsi spike. Back home, your child groups them by size, then again by colour, then again by scent. Ask: 'How many groups did you make each time? Does a flower ever fit more than one group?' Wash hands afterwards, as the book says."
+        },
+        {
+          "kind": "read",
+          "title": "The parts of a flower (pages 6–7)",
+          "mins": 7,
+          "do": "Read 'The parts of a flower' on pages 6–7 aloud with the labelled diagram. Flowers have four main parts arranged in rings, one inside the other: sepals (outer green leaves that protected the bud), petals (often brightly coloured to attract insects), stamens (male part: the anther makes pollen and sits on a stalk called the filament), and the carpel (female part: the sticky stigma on top catches pollen and the ovary at the bottom contains tiny eggs). Read the top of page 7: most flowers have both male and female parts, but some have only one. Ask: 'Which ring is on the outside? Which is right in the middle?' (Sepals outside; carpel in the middle.)"
+        },
+        {
+          "kind": "act",
+          "title": "Observe and draw a flower (Think like a scientist 2, page 7)",
+          "mins": 20,
+          "do": "Do Activity a1, based on Think like a scientist 2 on page 7. Use a big hibiscus because every part is easy to see. Your child draws and labels the whole flower first. Then they count petals, sepals and stamens and record them in a table. They gently pull off the sepals and petals with tweezers (or fingers), and use a hand lens or a phone camera zoomed in to look at the stamens and the carpel. They touch an anther and look at their finger (yellow dust: pollen) and touch the stigma (slightly sticky, so pollen grains stay on it). Finally, slice the swollen ovary across with a blade (you do this) and look for the tiny white eggs (ovules) inside. Answer question 1 on page 7 aloud: the jobs of petals, anthers, stigma and ovary.",
+          "ref": "a1"
+        },
+        {
+          "kind": "talk",
+          "title": "Smelly flowers (page 7, questions 2–3)",
+          "mins": 5,
+          "do": "Ask question 2: 'Which part of the flower do you think makes scent?' (Mostly the petals; smell your jasmine petals after taking them off.) Then question 3 with the photo on page 8: 'Why are some flowers dark reddish-brown with a smell like rotting meat?' Help your child reason: such flowers attract flies and beetles that lay eggs in rotting meat, so the flower 'pretends' to be meat to get its pollen carried. The giant rafflesia of South-East Asia and the elephant-foot yam flower (suran or jimikand, Amorphophallus, grown in India for its tuber) both do this."
+        }
+      ],
+      "need": ["Learner's Book pages 6–8", "6–8 different flowers (fallen or bought)", "one big hibiscus flower", "tweezers, a hand lens or phone camera", "a blade (adult use)", "white paper"],
+      "prep": [{"task": "Buy or collect one large fresh hibiscus (and a spare)", "when": "morning"}]
+    },
+    {
+      "n": 4,
+      "title": "How pollen travels: insects and wind",
+      "goal": "Learn what pollination is, compare insect-pollinated and wind-pollinated flowers, and design a flower that would attract insects.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jars: count on 'day 2'",
+          "mins": 5,
+          "do": "This is the book's 'day 2' check for Experiment e1. For each jar, count how many seeds have germinated (a white root showing counts) and write the number in the table. Typical result now: some swelling in the moist jars, maybe a first root in the warm jar; nothing in the dry jar. Ask: 'Which jar is ahead? Is that what you predicted?' Top up moist jars with the same small amount of water each.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Getting started and Pollination by insects (pages 9–10)",
+          "mins": 10,
+          "do": "Read the 'We are going to' box on page 9 and ask the four 'Getting started' questions. 'Why do you think flowers are different colours?' and 'Why do flowers need pollen?' are the important ones; accept guesses. Then read page 10 aloud: pollination is the movement of pollen from the stamen of one flower to the stigma of the same kind of flower, mainly by insects or by wind. Read how a butterfly or bee feeds on nectar, brushes against the anthers, and carries pollen on its body to another flower. Read the four adaptations: white or bright petals, scent, nectar, and marks on the petals that guide the insect inside. Look at the photo on page 10: ask your child to find the dark streaks on the petals. These are nectar guides."
+        },
+        {
+          "kind": "read",
+          "title": "Pollination by wind (page 11)",
+          "mins": 7,
+          "do": "Read 'Pollination by wind' on page 11. Grass, rice and corn (maize) flowers are wind pollinated. They have small, dull petals, no scent or nectar, and make lots of smooth, light pollen. Show the real thing if you can: the tassel at the top of a maize plant (bhutta), a flowering grass head, or the feathery flower of sugarcane (kans grass on riverbanks in autumn looks the same). Shake a grass head over black paper and look for the dust. Ask: 'Why does a wind flower need SO much pollen?' Good answer: 'The wind blows it everywhere, so most is wasted; only a tiny bit lands on the right stigma by luck.' Ask: 'Why do some people sneeze in certain seasons?' (Wind pollen in the air, called hay fever or pollen allergy.)"
+        },
+        {
+          "kind": "act",
+          "title": "Design a flower (Activity, page 11)",
+          "mins": 10,
+          "do": "Do the 'Design a flower' activity on page 11. Your child designs and draws a flower that would attract insect pollinators. Insist on labels for each adaptation and a reason: bright colour (to be seen), scent (to be smelled from far), nectar deep inside (so the insect must push past the anthers), nectar-guide lines (to show the way), a landing platform petal (for bees). Then ask them to design the OPPOSITE: a wind-pollinated flower, with dangling anthers outside the flower and feathery stigmas to catch pollen from the air. They explain both drawings to you as if you were another pair of learners."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Which type of pollination? (Think like a scientist 1, page 11)",
+          "mins": 13,
+          "do": "Do Think like a scientist 1 on page 11 in the compound or park, with a hand lens, paper and pencils. Look at 5 different flowers. For each one your child draws and labels it, decides 'insect' or 'wind', and writes the evidence: colour, scent, nectar (pull a flower such as ixora or lantana and taste the drop at the base), size of petals, and how much loose pollen. Sort them into two groups in the notebook. At the end ask: 'Which type of scientific enquiry did we use?' Answer: identifying and classifying (sorting things into groups by their features)."
+        }
+      ],
+      "need": ["Learner's Book pages 9–11", "a maize tassel or grass flower head if possible", "black paper", "hand lens or phone camera", "notebook and coloured pencils"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "From flower to fruit, and a pollinator watch",
+      "goal": "Learn why flowers must be pollinated and how fertilisation turns the ovary into a fruit, then watch real insects visit flowers and make a bar chart.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Why must flowers be pollinated? (page 12)",
+          "mins": 8,
+          "do": "Read page 12 aloud. Plants reproduce by making seeds; the pollen and the eggs join to make seeds, and this joining is called fertilisation. Pollination brings pollen from the male anther to the female stigma; then fertilisation happens inside the ovary, and only if pollen and eggs are from the same kind of flower. After fertilisation the petals and stamens die, the ovary grows into the fruit, and the seeds form inside. Trace the three drawings: flower, small fruit forming from the ovary, mature fruit. Then go and check the flower with the thread from Day 1: have its petals dropped? Is a small fruit swelling? Your child draws it next to the Day 1 drawing."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–5 (page 12)",
+          "mins": 7,
+          "do": "Ask the five questions on page 12 aloud. 1: Insect flowers have bright, scented petals and nectar to attract insects. 2a: Wind flowers do not need to attract anyone, so they do not waste food on colour, petals or scent. 2b: They make lots of dry pollen because most of it is lost in the wind. 3: Pollination gets pollen to the stigma so that fertilisation can happen and seeds can form. 4: The key one. 'Pollination is the journey of the pollen to the stigma; fertilisation is the joining of the pollen's male cell with the egg inside the ovary, which happens afterwards.' Use a comparison: pollination is the letter reaching the right house; fertilisation is the letter being opened and read. 5a: The ovary forms the fruit. 5b: The fruit protects the seeds and helps spread them."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Observing insect pollinators (Think like a scientist 2, page 13)",
+          "mins": 22,
+          "do": "Do Activity a2, based on Think like a scientist 2 on page 13. Choose four flowering plants close together, some bright (marigold, lantana, ixora, sunflower, drumstick flowers, a pumpkin vine) and one dull (a grass or a neem in flower). Your child copies the book's table: name of flower, description, prediction of how pollinated, insects that visit, number of visits. Sit quietly, and use a watch or phone timer. The book suggests half an hour; with one child, watch each plant for 5 minutes in turn, then do a second round. Make a tally mark for every visit and write who visited (honeybee, small black bee, butterfly, wasp, fly, ant, sunbird). Do this in the morning between 9 and 11, when insects are busiest.",
+          "ref": "a2"
+        },
+        {
+          "kind": "think",
+          "title": "Sprengel, the man who watched flowers",
+          "mins": 8,
+          "do": "Tell the story in Voice v2: Christian Konrad Sprengel, a German teacher, spent his summers doing exactly what your child just did, and in 1793 he wrote that flower colours, scents and nectar marks exist to bring insects to carry pollen. Hardly anyone believed him for over sixty years. Ask the voice question. Let your child use their own tally sheet as evidence.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Learner's Book pages 12–13", "4 flowering plants close together", "a watch or phone timer", "notebook with the page 13 table copied in", "a hat and water bottle"],
+      "prep": [{"task": "Find four flowering plants near each other where insects come, and plan to be there between 9 and 11 a.m.", "when": "2 days before"}]
+    },
+    {
+      "n": 6,
+      "title": "Bar charts, moths at night and birds that pollinate",
+      "goal": "Turn the pollinator tally into a bar chart, find patterns, make predictions about other pollinators, and check our core understanding.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jars: count on 'day 4'",
+          "mins": 5,
+          "do": "Count the germinated seeds in each jar of Experiment e1 and add them to the table under 'day 4'. Look closely through the glass: which way is the first root growing? (Down.) Has a shoot appeared yet in the warm jar? Ask your child to describe the dark jar: are those seeds germinating too? Write it down, but do not explain yet.",
+          "ref": "e1"
+        },
+        {
+          "kind": "do",
+          "title": "Draw the bar chart (page 13)",
+          "mins": 12,
+          "do": "Using yesterday's tally from Activity a2, your child draws a bar chart on squared paper of the number of times each type of insect visited (as the book asks). Put insect types along the bottom and 'Number of visits' up the side, numbered in ones or twos. Each bar must be the same width with a gap between bars. Then answer questions 1–4 on page 13: which flowers did insects visit most and why (usually the brightest, most scented ones with nectar); which insects visited most (often honeybees); were the predictions correct; what pattern do you see (bright, scented flowers get many visits; grass flowers get none) and a reason (they offer nectar and are easy to see).",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Night moths and bird pollinators (page 14, questions 5–6)",
+          "mins": 8,
+          "do": "Ask question 5 on page 14: 'Moths pollinate flowers at night. What colour flowers do you think they pollinate?' (White or pale, because they show up in the dark.) 'What other adaptations would night flowers have?' (A strong scent, opening in the evening.) Go outside after sunset if you have raat ki rani (night jasmine), parijat (harsingar) or mogra: smell them, and notice that they are white and smell strongest at night. For question 6, about birds and red flowers: birds see red well and have little sense of smell, while bees see red poorly. In India the sunbird and the purple-rumped sunbird visit red and orange flowers like the flame of the forest (palash), coral tree (pangara) and silk cotton (semal), and get pollen on their heads."
+        },
+        {
+          "kind": "think",
+          "title": "Darwin's moth prediction",
+          "mins": 5,
+          "do": "Tell the story in Voice v3: Charles Darwin saw an orchid with a nectar tube about 30 cm long and predicted that somewhere there must be a moth with a tongue that long. Ask the voice question. This is exactly the book's skill 'use knowledge to make predictions about pollinators'.",
+          "ref": "v3"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Flowers and their life cycle",
+          "mins": 15,
+          "do": "Do Worksheet ws1 (core) now. Read the items aloud if needed. For any wrong answer go back to the page in the book: flower parts page 6, plants without flowers page 5, pollination pages 10–12, life cycle page 4. Let your child correct their own answer in a different colour.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Learner's Book pages 13–14", "yesterday's tally sheet", "squared paper, ruler, coloured pencils", "worksheet ws1", "a night-scented flower if one grows nearby"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Fruits and why seeds must be spread",
+      "goal": "Cut open and describe real fruits, learn the two jobs of a fruit, and find out how animals spread seeds.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Mind map: fruits and seeds (page 15)",
+          "mins": 7,
+          "do": "Read the 'We are going to' box on page 15. Do 'Getting started': your child writes 'Fruits and seeds' in a circle in the middle of a page and adds everything they know around it: names of fruits, seeds we eat (dal, rice, peanuts, coconut), seeds we spit out (watermelon, jamun, mango gutli), seeds that stick to clothes. Then they explain the mind map to you. Read 'Fruits and seeds' on page 15: a fruit is the part of a flowering plant that contains the seeds, and it has two jobs: to protect the seeds and to help spread them. Ask: 'Is a tomato a fruit? Is a bhindi? Is a pea pod?' (Yes to all, because they hold seeds and grew from a flower's ovary.)"
+        },
+        {
+          "kind": "act",
+          "title": "Observe and draw a fruit (Activity, page 16)",
+          "mins": 15,
+          "do": "Do the 'Observe and draw a fruit' activity on page 16 with two contrasting fruits, for example a guava and a mango (or papaya and a pea pod). You cut, or your child cuts with a table knife under your eye; the book says be very careful with sharp knives. For each fruit your child draws the cut fruit, labels skin, flesh and seeds, and answers the book's questions: Is the skin smooth or rough? What colour is the flesh? Firm or soft? Dry or juicy? What colour are the seeds? More than ten? Big or small? Then ask: 'Which fruit has many small seeds, and which has one big one? Which animals would eat each?'"
+        },
+        {
+          "kind": "read",
+          "title": "Why seeds must be spread (pages 16–17)",
+          "mins": 8,
+          "do": "Read 'Why seeds must be spread' on page 16: seedlings need room to grow, and light and water; they cannot grow into healthy plants if they all have to share in a small area under the parent. This spreading is called seed dispersal. Look at the three pictures at the bottom of page 16 (floating coconuts, seeds on socks, a dandelion blowing) and ask your child to name the way each one travels. Then read 'Some seeds are dispersed by animals' on page 17: colourful, soft, juicy fruits get eaten and the seeds pass out in the droppings far away; other seeds have spines and hooks that stick to fur and clothes. Indian examples: birds eating lantana, banyan and peepal figs (which is why peepal seedlings sprout on walls and roofs); monkeys and elephants eating mangoes; 'chor kanta' and other prickly seeds that stick to your socks in a field."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–4 (page 17)",
+          "mins": 7,
+          "do": "Ask questions 1–4 on page 17 aloud. 1: Seeds in a tomato eaten by a bird will usually grow better, because they are dropped far from the parent, with their own space, light and water (and with a little dropping as fertiliser). 2: Peach (or mango) seeds: animals eat the flesh and drop or carry away the big stone, so yes, but the stone is too big to swallow for small birds. 3: Your child draws a seed with hooks or spines that would catch in fur. 4: People spread seeds by planting them, trading them across the world (chillies and tomatoes reached India from the Americas only a few hundred years ago), and by carrying them on shoes and clothes."
+        },
+        {
+          "kind": "outdoor",
+          "title": "Sock walk",
+          "mins": 8,
+          "do": "Your child pulls an old pair of thick socks over their shoes (or wears an old woollen sock on one hand) and walks slowly through a patch of long grass or a vacant plot. Back home, pick off everything stuck to the socks onto white paper and look with the hand lens. Count the seeds and look for the tiny hooks or barbs that made them stick. Keep the best ones in a labelled envelope for Day 8. If you are in a city with no long grass, brush a sock along the edges of a park path."
+        }
+      ],
+      "need": ["Learner's Book pages 15–17", "2 different fruits (guava and mango, or papaya and pea pods)", "a knife (adult use), a plate", "an old pair of thick socks", "hand lens, white paper, envelopes"],
+      "prep": [{"task": "Buy two contrasting fruits", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Seeds that float, fly, explode and roll",
+      "goal": "Learn the other ways seeds are spread, investigate real seeds with a hand lens, and test which winged seed falls slowest.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Seed jars: count on 'day 6'",
+          "mins": 4,
+          "do": "Count germinated seeds in each jar of Experiment e1 and record under 'day 6'. Measure the longest shoot in the warm jar and the dark jar with a ruler held against the glass. Ask: 'What colour is the shoot in the dark jar compared with the others?' (Usually pale yellow and long.) Write it down.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Wind, water, explode, drop and roll (pages 17–19)",
+          "mins": 10,
+          "do": "Read 'Some seeds are dispersed by wind' on page 17 (light seeds, parachutes of hairs, papery wings, the poppy 'pepper pot'), then page 18 (fruits that float, with a spongy covering, like the coconut; mangrove 'sea pencils'; fruits that dry and split or explode, like bean pods) and page 19 (heavy round fruits that drop and roll). After each part, give an Indian example: wind - silk cotton (semal) and madar (aak) seeds with white fluff, drumstick (moringa) seeds with three papery wings; water - coconuts on the Kerala coast and the mangroves of the Sundarbans; explode - garden balsam (gulmehendi) pods that pop when touched, and dry moong or urad pods crackling in the field; drop and roll - mangoes and jackfruit falling, then animals carry them further."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions 1–4 (page 19)",
+          "mins": 6,
+          "do": "Ask questions 1–4 on page 19. 1: The spongy covering traps air so the water lily seed floats away on the water. 2: Farmers pick bean pods before hot dry weather because the dry pods would split and shoot the seeds onto the ground. 3: Apple seeds can also be spread by animals and people who eat the fruit and throw away the core. 4: The red seeds in the picture have a flat wing that makes them spin and fall slowly, so the wind can carry them away from the tree."
+        },
+        {
+          "kind": "exp",
+          "title": "Paper helicopter seeds",
+          "mins": 15,
+          "do": "Do Experiment e2. Make three paper 'seeds' from the template in the experiment steps: one with no wings (a folded paper square with a paper clip), one with short wings and one with long wings, all with one paper clip as the 'seed'. Ask your child to predict which will take longest to fall. Stand on a chair (you hold it steady) and drop each from the same height, while your child times it with a phone stopwatch. Do three drops each and take the middle time. Then switch on a table fan at the same speed and see how far each one lands from the chair. Ask: 'How does the long wing help a real seed?'",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Investigate how seeds are dispersed (Think like a scientist 1, page 19)",
+          "mins": 10,
+          "do": "Do Think like a scientist 1 on page 19. Lay out at least five different seeds or fruits: the sock-walk seeds, a coconut husk fibre, a drumstick seed, a dry pea or moong pod, a jamun or tomato seed, a tamarind pod, a cotton or madar fluff seed. Your child looks at each with the hand lens, draws and labels it, writes how they think it is dispersed and which feature is the adaptation (wing, fluff, hook, spongy coat, juicy flesh, pod that splits). Then they sort them into groups on the table: animal, wind, water, explode, drop and roll."
+        }
+      ],
+      "need": ["Learner's Book pages 17–19", "the sock-walk seeds from Day 7", "5 or more seeds and fruits (drumstick seed, pea pod, tamarind, coconut husk, cotton fluff)", "paper, scissors, paper clips", "a chair, phone stopwatch, table fan", "hand lens"],
+      "prep": [{"task": "Collect a few seeds and pods: drumstick, tamarind, dried moong or pea pods, a coconut husk, cotton or madar fluff", "when": "2 days before"}]
+    },
+    {
+      "n": 9,
+      "title": "Make a key, and look inside a seed",
+      "goal": "Build a yes/no key that identifies how seeds are dispersed, then soak and open a bean seed to see the tiny plant and its food store.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Complete a key (Think like a scientist 2, pages 20–21)",
+          "mins": 18,
+          "do": "Do Activity a3, based on Think like a scientist 2 on pages 20–21. Look at photos A–F on page 20 with your child (A winged seeds, B cherries, C a hooked seed head, D a seed with fluffy hairs, E an avocado, F a split pod with round seeds). They note shape and size, wings, spines or hooks, how smooth the surface is, and what fruit the seed is inside. Then they make a key of yes/no questions in pencil. The book suggests starting: 'Is the seed almost round?' Each question splits the seeds into two groups until each path ends in a method of dispersal (for example 'wind dispersal'). Test the key on you: you secretly pick a seed and follow the questions; if the key gives the wrong answer, your child changes a question. Finish with the 'How are we doing?' questions on page 21.",
+          "ref": "a3"
+        },
+        {
+          "kind": "read",
+          "title": "How seeds grow (pages 22–23)",
+          "mins": 7,
+          "do": "Read the 'We are going to' box on page 22, then 'How seeds grow' on page 23 aloud. Seeds look dead but there is a tiny plant inside and a food store. When conditions are right the seed germinates and uses the food store for energy. It first absorbs water and swells, then the seed coat splits, the first root grows down, the first shoot grows up, the shoot comes above ground and the first leaves grow; the seed shrivels after germination as its food is used up. Trace the drawing on page 23 left to right. Read the last line: the oldest seed known to have germinated was a 1300-year-old lotus seed from a lake bed in China. Ask: 'How could a seed stay alive that long?' (It was dry, cool and sealed in mud, so its tiny plant was resting and using almost no food.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Observe a seed (Think like a scientist 1, page 24)",
+          "mins": 15,
+          "do": "Do Experiment e3. You soaked rajma or broad beans last night in a saucer of water, and you kept one dry bean. Your child compares the dry and soaked bean side by side: size, colour, wrinkles, how soft. Ask: 'Was your prediction right? Why has it changed?' (It absorbed water and swelled.) Then they peel off the soaked bean's seed coat, open the two halves with a thumbnail and use the hand lens to find the tiny plant: a little root tip and two folded baby leaves. The two big halves are the food store (cotyledons). Answer question 1 on page 24: seeds need water to wake the tiny plant and soften the coat so it can split.",
+          "ref": "e3"
+        },
+        {
+          "kind": "exp",
+          "title": "Seed jars: count on 'day 8' and the direction question",
+          "mins": 5,
+          "do": "Do the final 'day 8' count for Experiment e1 and record it. Look through the glass and answer questions 2 and 3 on page 24 using the jars: 2a: the root grows first; 2b: it grows down because that is where water and anchoring soil are (roots grow towards the pull of gravity). 3a: the first shoot grows up; 3b: towards the light and air, where leaves can make food. Keep the jars for tomorrow.",
+          "ref": "e1"
+        }
+      ],
+      "need": ["Learner's Book pages 20–24", "pencil and eraser", "2 rajma or broad beans soaked overnight and 1 dry bean", "a saucer, hand lens", "the seed jars"],
+      "prep": [{"task": "Soak 2–3 rajma or broad beans in a saucer of water", "when": "night before"}]
+    },
+    {
+      "n": 10,
+      "title": "What seeds need: our conclusion, and bees in danger",
+      "goal": "Analyse the eight-day germination results, write a conclusion, decide whether seeds need light, and think about pollinators and pesticides.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Results and questions (pages 24–26)",
+          "mins": 15,
+          "do": "Lay out the five jars and the completed table from Experiment e1. Answer question 1 on page 25 for Part A and Part B: a) we measured the number of seeds germinated every two days; b) we changed one factor (water in Part A; temperature in Part B); c) we kept the same kind and number of seeds, soil, amount of water and place; d) describe the differences; e) suggest reasons. Then page 26: question 2, 'Why would ten seeds be better than five?' (Some seeds are dead or damaged anyway; with more seeds one bad seed matters less and the result is more reliable.) Question 3, 'Why eight days?' (Germination is slow; some seeds take several days, so we must observe over time.) Question 4: your child writes a conclusion: 'Seeds need water and warmth to germinate. Without water they do not germinate; in the cold they germinate slowly or not at all.' Question 5: 'Do seeds need light?' Look at the dark jar: they germinated anyway, because they use their food store, but the shoots are pale and thin because a seedling needs light to make its own food once the store runs out.",
+          "ref": "e1"
+        },
+        {
+          "kind": "read",
+          "title": "Project Part 1: Pollinators and pesticides (pages 27–28)",
+          "mins": 10,
+          "do": "Read page 27 aloud together. Honeybees are important pollinators (the photo shows them on onion flowers); bees also pollinate apples, potatoes and beans, and the book says 80% of the plants we eat are pollinated by bees. (Tell your child scientists give different figures for this; what is well agreed is that most kinds of food crops need or benefit from animal pollinators, though staple grains like rice and wheat are wind-pollinated.) Read why pesticides are a problem: they kill pests but can also harm bees, which take them in with nectar and pollen; some make bees lose their way home or have fewer young. Then discuss questions 1–8 on page 28. Good answers for 6: 'Many fruits, vegetables, dals and oilseeds would become rare and costly; we would still have rice and wheat.' For 8: neem oil spray, picking off pests by hand, sticky traps, marigolds planted between vegetables, and birds and ladybirds that eat pests."
+        },
+        {
+          "kind": "think",
+          "title": "The pesticide debate",
+          "mins": 7,
+          "do": "Tell the story in Voice v4 about neonicotinoid pesticides and bees, and how scientists and countries have argued about the evidence. Ask the voice question. Help your child see that both farmers and beekeepers have real interests here.",
+          "ref": "v4"
+        },
+        {
+          "kind": "act",
+          "title": "Project Part 2 or 3: start the pollinator sheet",
+          "mins": 13,
+          "do": "Start Activity a4. Your child chooses Part 2 (an information sheet for people in your area: why bees and other pollinators matter, why pesticides harm them, how to use pesticides safely) or Part 3 (interview someone who grows plants: a neighbour with a terrace garden, the mali, a relative who farms; ask the six questions on page 28 and write a short report). Today, plan the sheet with headings and pictures, or write the interview questions and phone or visit the person. Finish it before Day 11.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Learner's Book pages 24–28", "the seed jars and results table", "A4 paper, coloured pens, old magazines", "phone to call a grower for Part 3"],
+      "prep": [{"task": "If doing Part 3, ask a neighbour, gardener or farming relative if your child can interview them", "when": "2 days before"}]
+    },
+    {
+      "n": 11,
+      "title": "Check your progress and teach it back",
+      "goal": "Review the whole life cycle, answer the book's Check your progress questions, try the challenge sheet, and have your child teach the unit back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Check your progress (pages 29–30)",
+          "mins": 12,
+          "do": "Work through Check your progress on pages 29–30. 1: order the processes in a circle: pollination → fertilisation → fruit and seed formation → seed dispersal → germination (→ growth and flowering). 2: Two ways a fern differs from a tomato plant (no flowers; makes spores not seeds; no fruit). 3: Your child redraws the flower and adds sepals, stamens, anther, ovary, stigma and eggs; the ovary forms the seeds; the process is fertilisation; it happens in the ovary. 4: Pollination is pollen moving from anther to stigma; the lily is insect pollinated; adaptations: big bright petals, stamens sticking out where insects brush them; another could be scent or nectar. 5: seed dispersal; hooks or spines that catch on fur, and juicy fruit that animals eat. 6: fill the germination sentences (absorbs water and swells; food store; root grows downwards; shoot grows upwards; seeds need water and warmth). 7: Junaid's table: warm and dark is best; seeds do not need light (dark had more than light); the seeds must have had water since they germinated; draw a bar chart, because the conditions are separate groups, not numbers on a scale."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Seeds on the move",
+          "mins": 7,
+          "do": "Do Worksheet ws2 (stretch) sections A and B now; section C uses your own jar results, so copy the numbers from the e1 table. For the peepal question, a full answer says that birds eat the tiny figs and drop the seeds in their droppings on walls and roofs. Mark answers together and go back to pages 16–19 for any mistake.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet: Thinking like a plant scientist",
+          "mins": 6,
+          "do": "Do Worksheet ws3 (challenge) section A now and sections B and C over the weekend. Read each question aloud and talk it through before your child writes; the best answers give a reason, not just a word. For the Junaid question, listen for 'repeat it with more seeds and keep everything else the same', because 15 against 10 could happen by chance.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Unit check",
+          "mins": 8,
+          "do": "Ask the 8 check questions aloud without the book. Tick each one answered well. For any missed answer open the right page (flower parts page 6, pollination page 10–12, dispersal pages 16–19, germination pages 23–25) and look together for a minute, then ask again in different words. Six or more is good; fewer than five means repeat Day 3 and Day 5 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 12,
+          "do": "Your child is the teacher. Using real things from the unit (the hibiscus drawing, the bar chart, the paper helicopters, the seed key and the five jars), they teach you the life cycle of a flowering plant in 6 minutes, going round the circle and saying what happens at each stage and why. Then they present their pollinator sheet or interview report from Activity a4. Ask two 'student' questions: 'Is pollination the same as fertilisation?' and 'Why did the dark jar's seeds still germinate?' Plant the healthiest seedlings from the jars in a pot so the life cycle can continue.",
+          "ref": "a4"
+        }
+      ],
+      "need": ["Learner's Book pages 29–30", "worksheets ws2 and ws3", "all the drawings, charts and jars from the unit", "a pot of soil for the seedlings"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Flowers, pollination and the life cycle",
+      "day": 6,
+      "sections": [
+        ["A. Flowering or not?", [
+          {"t": "sort", "p": "Sort these plants.", "items": ["Mango", "Fern", "Moss", "Hibiscus", "Pine", "Rice", "Deodar", "Mustard"], "cats": ["Flowering plant", "Non-flowering plant"]},
+          {"t": "mcq", "p": "Ferns and mosses make new plants from:", "opts": ["Seeds in cones", "Spores", "Fruits", "Pollen"], "a": 1},
+          {"t": "fill", "p": "Pine trees make seeds, but in a ____ instead of a flower.", "a": ["cone"]}
+        ]],
+        ["B. Parts of a flower", [
+          {"t": "match", "p": "Match each part to its job.", "pairs": [["Petals", "Brightly coloured to attract insects"], ["Sepals", "Protect the flower bud"], ["Anther", "Makes pollen"], ["Stigma", "Sticky, catches pollen"], ["Ovary", "Contains the eggs and becomes the fruit"]]},
+          {"t": "draw", "p": "Draw the hibiscus you took apart. Label sepals, petals, stamen (anther and filament) and carpel (stigma and ovary)."}
+        ]],
+        ["C. Pollination and the life cycle", [
+          {"t": "fill", "p": "The movement of pollen from an anther to a stigma is called ____.", "a": ["pollination"]},
+          {"t": "mcq", "p": "Which flower is most likely to be wind pollinated?", "opts": ["A big red flower with nectar", "A scented white jasmine", "A small dull grass flower with lots of light pollen", "A marigold"], "a": 2},
+          {"t": "table", "p": "Write the stages of the bean plant's life cycle in order.", "cols": ["Stage number", "Stage"], "rows": 5, "prefill": ["1", "2", "3", "4", "5"]},
+          {"t": "write", "p": "Why do we draw a life cycle as a circle?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Seeds on the move",
+      "day": 11,
+      "sections": [
+        ["A. How does it travel?", [
+          {"t": "sort", "p": "Sort these by how their seeds are dispersed.", "items": ["Coconut", "Drumstick (moringa) seed", "Balsam (gulmehendi) pod", "Jamun", "Prickly 'chor kanta' seed", "Silk cotton (semal) fluff", "Jackfruit", "Mangrove 'sea pencil'"], "cats": ["Animals", "Wind", "Water", "Explode", "Drop and roll"]},
+          {"t": "mcq", "p": "A seed has a spongy, air-filled covering. It is most likely spread by:", "opts": ["Wind", "Water", "Explosion", "Sticking to fur"], "a": 1},
+          {"t": "write", "p": "Peepal seedlings often grow out of cracks high up on old walls and temple roofs. Explain how the seeds got there.", "lines": 3}
+        ]],
+        ["B. Apply it", [
+          {"t": "write", "p": "Ravi plants 50 mango seeds all in one small pot. Predict what will happen and explain why, using the words light, water and space.", "lines": 3},
+          {"t": "write", "p": "A farmer in Punjab sees that his moong pods split open in the hot sun before harvest. What should he do and why?", "lines": 2},
+          {"t": "draw", "p": "Design a new seed that would be spread by BOTH wind and water. Label its adaptations."}
+        ]],
+        ["C. Germination results", [
+          {"t": "table", "p": "Copy your own germination results for day 8.", "cols": ["Jar", "Seeds germinated (out of 5)", "What the shoot looked like"], "rows": 5, "prefill": ["Dry", "Moist", "Moist, cold", "Moist, warm", "Moist, dark"]},
+          {"t": "fill", "p": "A seed gets the energy to start growing from its ____.", "a": ["food store", "food stores", "cotyledons"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking like a plant scientist",
+      "day": 11,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "Junaid's results (page 30): warm and dark 15 seeds, warm and light 10. Meera says this proves darkness helps seeds germinate. What would you need to do to be more sure?", "lines": 4},
+          {"t": "mcq", "p": "A flower has a nectar tube 15 cm long. Which visitor is most likely to pollinate it?", "opts": ["A honeybee", "A moth or bird with a very long tongue or beak", "The wind", "An ant"], "a": 1},
+          {"t": "write", "p": "Pollination is not the same as fertilisation. Write a short comparison that a younger child would understand.", "lines": 3}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if all the bees in your district disappeared for one year? Name three foods that would become rare and one that would not, and say why.", "lines": 4},
+          {"t": "write", "p": "Some plants (like many bananas we eat) make no seeds at all. How do you think farmers grow new banana plants? What problem might this cause if a disease arrives?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "A farmer says, 'Without pesticides, insects eat my crop and my family has no income.' A beekeeper says, 'Pesticides are killing my bees.' Write one sentence agreeing with each, then suggest a plan that helps both.", "lines": 5},
+          {"t": "write", "p": "Sprengel was not believed for over sixty years. What kind of evidence finally convinced scientists that insects carry pollen?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "What do seeds need to germinate? (Think like a scientist 2, page 25)",
+      "day": 2,
+      "question": "Do seeds need water, warmth and light to germinate?",
+      "need": ["5 clear glass jars or cut plastic bottles", "soil or sawdust", "25 dry rajma or kabuli chana seeds", "a measuring cup and water", "labels and marker", "space in the fridge and in a dark cupboard", "a ruler"],
+      "steps": [
+        "Fill all 5 jars with the same amount of soil or sawdust.",
+        "Push 5 seeds against the glass in each jar, at the same depth, so they can be seen from outside.",
+        "Label the jars: 1 Dry soil, 2 Moist soil, 3 Moist cold, 4 Moist warm, 5 Moist dark.",
+        "Add the same amount of water (about 50 ml) to jars 2–5. Leave jar 1 dry.",
+        "Put jars 1 and 2 side by side in the same place in the room. Put jar 3 in the fridge, jar 4 on a warm shelf (not in direct sun), and jar 5 in a dark cupboard in the same room as jars 1 and 2.",
+        "Check every day that the moist jars do not dry out, adding the same small amount of water to each.",
+        "Every two days (book days 2, 4, 6, 8) count the germinated seeds in each jar and record them in the table.",
+        "On day 8 measure the longest shoot in each jar and note its colour."
+      ],
+      "predict": "Ask your child to guess first, jar by jar: will these seeds germinate? Fast or slow? Will the dark jar's seeds grow? Write the guesses in the table before you start.",
+      "observe": "The number of seeds germinated in each jar on days 2, 4, 6 and 8, and on day 8 the length and colour of the shoots. Usually: dry jar, none; moist jar, most by day 4–6; cold jar, very few or slow; warm jar, fastest; dark jar, germinates like the moist jar but with long, pale yellow shoots.",
+      "why": "A seed holds a tiny resting plant and a food store. Water is the trigger: the seed absorbs it, swells, and its living chemistry switches on, so the food store starts being broken down to give energy, and the swelling splits the seed coat. That chemistry is made of reactions that run faster when warm and very slowly when cold, so warmth speeds germination and the fridge slows it almost to a stop. Light is not needed to germinate, because the seed lives on its stored food. But once that store runs out, the seedling must make its own food in its leaves using sunlight; without light it cannot make the green chlorophyll and it stretches up tall and pale, as if searching for light. Using several seeds in each jar matters because some seeds are dead or damaged; more seeds make the result more reliable.",
+      "safety": "Wash hands after handling soil. Do not eat seeds that have sat in soil or water. Tell family members the fridge jar is an experiment.",
+      "time": "20 min to set up + 5 min checks on four later days (8 days in all)"
+    },
+    {
+      "id": "e2",
+      "title": "Paper helicopter seeds: do wings slow a fall?",
+      "day": 8,
+      "question": "Does a seed with longer wings fall more slowly and travel further in the wind?",
+      "need": ["3 strips of paper about 4 cm wide and 20 cm long", "scissors", "3 identical paper clips", "a chair to stand on (adult holds it)", "a phone stopwatch", "a table fan", "a measuring tape"],
+      "steps": [
+        "Make a 'helicopter': cut a strip 4 cm wide and 20 cm long. Cut down the middle from the top for 8 cm to make two wings. Fold one wing forward and one backward. Fold the bottom end up twice and add a paper clip as the 'seed'.",
+        "Make a second helicopter the same way but with wings only 4 cm long (cut the strip shorter at the top).",
+        "Make a 'no-wing seed' by folding a third strip into a small tight square with a paper clip.",
+        "Stand safely on a chair (an adult holds it) and hold each one at the same height. Drop it while your child starts the stopwatch; stop when it touches the floor.",
+        "Drop each one three times and take the middle time.",
+        "Switch on a table fan at the same speed, 1 metre away, and drop each one in front of it. Measure how far from the chair each lands."
+      ],
+      "predict": "Ask your child to guess first: which will take longest to fall? Which will land furthest away in the fan's wind? Why?",
+      "observe": "Fall time (3 tries) and distance from the chair for each paper seed. Usually the long-wing helicopter spins and falls slowest and lands furthest; the no-wing seed drops straight down fastest.",
+      "why": "As the winged seed falls, air pushes up on its wings and makes it spin. The spinning wings work like a little helicopter rotor, pushing air down and so slowing the fall. Air resistance is bigger when the surface is bigger, so longer wings slow it more. The longer a seed stays in the air, the further the wind can carry it sideways, away from the parent tree, where it has its own space, light and water. Real winged seeds like the drumstick (moringa) and the big-leaf mahogany, and fluffy ones like the silk cotton, use exactly this.",
+      "safety": "An adult must hold the chair. Keep fingers away from the fan blades.",
+      "time": "15 min"
+    },
+    {
+      "id": "e3",
+      "title": "Observe a seed (Think like a scientist 1, page 24)",
+      "day": 9,
+      "question": "How does a seed change when it soaks in water, and what is inside it?",
+      "need": ["3 rajma or broad beans", "a saucer of water", "a hand lens", "notebook"],
+      "steps": [
+        "The night before, put 2 beans in a saucer of water. Keep 1 bean dry.",
+        "Before going to bed, your child writes a prediction of how the soaked beans will change, and why.",
+        "Next day, put the dry and soaked beans side by side. Compare size, colour, wrinkles and softness. Measure their length if you have a ruler.",
+        "Peel the seed coat off one soaked bean.",
+        "Gently open the two halves with a thumbnail. Use the hand lens to find the tiny root tip and the two folded baby leaves.",
+        "Draw and label: seed coat, food store (cotyledons), tiny root, tiny shoot."
+      ],
+      "predict": "Ask your child to guess first: will the soaked bean be bigger, smaller or the same? Will it be harder or softer? What do you think is inside?",
+      "observe": "The soaked bean is about one and a half to two times bigger, softer, and its wrinkled skin goes smooth and loose. Inside, two large creamy halves and, at one edge, a tiny plant with a root tip and two small folded leaves.",
+      "why": "A dry seed has very little water in it, which keeps the tiny plant resting. Its coat lets water in slowly, and the dry food store soaks it up like a sponge, so the seed swells. The water softens the coat so it can split, and wakes up the tiny plant's chemistry. The two big halves (cotyledons) are packed with starch and protein, the food store that feeds the tiny plant until its own leaves can make food. This is why a germinated seed shrivels: its food has been used up. It is also why dals, which are these same food stores, are such good food for us.",
+      "safety": "Do not eat the soaked seeds after they have been handled. Use a thumbnail, not a knife, to open them.",
+      "time": "5 min the night before + 15 min next day"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Take a hibiscus apart (Think like a scientist 2, page 7)",
+      "day": 3,
+      "mins": 20,
+      "need": ["one large hibiscus flower", "tweezers", "a hand lens or phone camera", "a blade (adult use)", "white paper and pencil"],
+      "steps": [
+        "Draw the whole flower and label the parts you know.",
+        "Count the petals, sepals and stamens and record them in a table. (A single hibiscus has 5 petals and 5 sepals; its many stamens grow on a long tube around the style.)",
+        "Pull off the sepals, then the petals, and lay them in rings on white paper.",
+        "Look at the stamens with a hand lens; touch an anther and look at the pollen on your finger.",
+        "Touch the stigmas at the very top (the hibiscus has five little pads). Feel how they are slightly sticky.",
+        "An adult slices the ovary at the bottom across; look for the tiny eggs inside with the lens.",
+        "Stick the parts onto the paper with tape in rings and label each with its job."
+      ],
+      "outcome": "A labelled 'exploded flower' page showing sepals, petals, stamens and carpel in their rings, with a table of counts and a sentence on each part's job. Your child will have seen pollen and eggs with their own eyes."
+    },
+    {
+      "id": "a2",
+      "title": "Pollinator watch and bar chart (Think like a scientist 2, page 13)",
+      "day": 5,
+      "mins": 22,
+      "need": ["4 flowering plants close together", "a phone timer", "notebook with the page 13 table", "squared paper for the bar chart"],
+      "steps": [
+        "Choose 4 plants: at least 3 with bright flowers and one with dull flowers such as grass.",
+        "Fill in the first three columns of the table: name, description, prediction of how it is pollinated.",
+        "Watch each plant for 5 minutes, sitting still, and make a tally for every insect visit and note what kind of insect.",
+        "Do a second round of 5 minutes each if time allows.",
+        "Next day: total the tallies and draw a bar chart of visits by each type of insect.",
+        "Write the pattern you see and a reason for it."
+      ],
+      "outcome": "A completed observation table and a bar chart of real pollinator visits, plus a written pattern such as 'bright, scented flowers with nectar got the most visits; grass got none because it is wind pollinated'."
+    },
+    {
+      "id": "a3",
+      "title": "Build a seed dispersal key (Think like a scientist 2, pages 20–21)",
+      "day": 9,
+      "mins": 18,
+      "need": ["Learner's Book page 20 photos A–F", "the real seeds from Day 8", "pencil, eraser and paper"],
+      "steps": [
+        "Look at photos A–F and the real seeds. Note shape and size, wings, spines or hooks, smoothness and the fruit each comes from.",
+        "Write a first yes/no question that splits them into two groups (the book suggests 'Is the seed almost round?').",
+        "Under each group write another yes/no question, until each seed is alone.",
+        "End each path with the dispersal method: wind, animal (eaten), animal (hooks), water, explode, drop and roll.",
+        "Test the key: a parent picks a seed secretly and follows the questions. If it gives a wrong answer, change a question.",
+        "Copy the finished key neatly in pen."
+      ],
+      "outcome": "A tested branching key that a stranger could use to find out how a seed is dispersed, and the understanding that a good key question has only two clear answers."
+    },
+    {
+      "id": "a4",
+      "title": "Pollinators and pesticides project (pages 27–28)",
+      "day": 10,
+      "mins": 13,
+      "need": ["A4 paper, coloured pens, magazine pictures", "a phone or a visit to someone who grows plants (Part 3)"],
+      "steps": [
+        "Choose Part 2 (information sheet) or Part 3 (interview).",
+        "Part 2: plan three headings: Why pollinators matter; How pesticides harm them; How to use pesticides safely and what to use instead. Add pictures.",
+        "Part 3: ask a grower the six questions on page 28: which plants, which pollinators, do they use pesticides, when, spray or powder, and how they protect plants without them.",
+        "Write the sheet or a short report of half a page.",
+        "Present it to the family on Day 11, and put the sheet up in the building notice board or share it in the family WhatsApp group."
+      ],
+      "outcome": "A finished information sheet or interview report about local pollinators and pesticide use, presented to the family."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Birbal Sahni (1891–1949), India",
+      "idea": "Sahni, born in Bhera (now in Pakistan) and trained in Lahore and at Cambridge, became India's best-known palaeobotanist: a scientist who studies fossil plants. He studied fossil ferns and seed plants from India, including plants from the Rajmahal Hills in Jharkhand that lived long before flowering plants appeared, and described new fossil plant groups. He founded the institute in Lucknow that now carries his name, the Birbal Sahni Institute of Palaeosciences.",
+      "then": "His work was respected internationally; he was elected a Fellow of the Royal Society of London in 1936, one of the first Indian botanists to be so honoured.",
+      "now": "The picture he helped build is accepted: mosses, ferns and cone-bearing plants are very old groups, and flowering plants appear in the fossil record much later, but today make up most kinds of land plants. Fossils remain the main evidence for when each group appeared.",
+      "status": "accepted",
+      "ask": "No one was there to watch the first flowers appear. How can a fossil in a rock tell us that ferns are older than flowers? What would you need to find to prove it wrong?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Christian Konrad Sprengel (1750–1816), Germany",
+      "idea": "Sprengel, a school headmaster, spent summers watching insects on flowers. In his 1793 book 'The Secret of Nature Discovered in the Form and Fertilisation of Flowers' he argued that colours, scents, nectar and the marks on petals (he called them nectar guides) are there to attract insects that carry pollen from flower to flower. He also noticed that many flowers' anthers and stigmas ripen at different times, so that pollen has to come from another flower.",
+      "then": "His book was mostly ignored or dismissed; some thought it fanciful that flowers were 'designed' for insects. He died with little recognition.",
+      "now": "About seventy years later Charles Darwin read Sprengel's book, praised it and built on it in his own work on orchids and on cross-pollination. Today insect pollination and flower adaptations to pollinators are a basic, accepted part of biology, and the term 'nectar guide' is still used. Some nectar guides are visible only in ultraviolet light, which bees can see and we cannot.",
+      "status": "accepted",
+      "ask": "Sprengel used only his eyes and patience, just like your pollinator watch. Why do you think people did not believe him? What extra evidence could he have collected?",
+      "day": 5
+    },
+    {
+      "id": "v3",
+      "who": "Charles Darwin (1809–1882), England, and the Madagascar star orchid",
+      "idea": "In 1862 Darwin was sent the Madagascar star orchid (Angraecum sesquipedale), whose nectar sits at the bottom of a tube about 30 cm long. He predicted that a moth must exist on Madagascar with a tongue long enough to reach the nectar, and that it pollinates the orchid.",
+      "then": "Many people thought the prediction was far-fetched, because no such moth was known.",
+      "now": "In 1903 a hawk moth from Madagascar with an enormous tongue was described and named Xanthopan morganii praedicta, 'praedicta' meaning 'predicted'. Later observers recorded these moths visiting the orchid. The prediction is a famous example of using a theory to predict something no one had yet seen.",
+      "status": "accepted",
+      "ask": "Darwin had never seen the moth. What did he know about flowers and pollinators that let him predict it? If no such moth had ever been found, what would that have told scientists?",
+      "day": 6
+    },
+    {
+      "id": "v4",
+      "who": "The neonicotinoid debate: bee scientists, farmers and regulators (2010s–today)",
+      "idea": "Neonicotinoids are a group of insecticides, often coated on seeds so the whole growing plant becomes poisonous to sap-sucking pests. Laboratory and field studies showed that small amounts can reach pollen and nectar and can harm bees, for example by making it harder for them to find their way home, which is exactly what your book describes on page 27.",
+      "then": "Some farmers and pesticide companies argued that the laboratory doses were higher than bees meet in real fields, and that banning the chemicals would mean more spraying of older pesticides. The European Union restricted three neonicotinoids in 2013 and banned their outdoor use in 2018.",
+      "now": "Most bee scientists agree these chemicals can harm bees and especially wild bees. How much harm they do in real farms, compared with other causes of bee decline such as habitat loss, disease and parasites, is still debated, and large field studies have found different results in different countries. Countries, including India, have taken different decisions.",
+      "status": "debated",
+      "ask": "If you had to decide whether to ban a pesticide, what would you want to know first? Would one experiment be enough, or would you want many?",
+      "day": 10
+    }
+  ],
+  "check": [
+    {"q": "How are ferns and pine trees different from flowering plants?", "a": "They have no flowers. Ferns (and mosses) make tiny spores instead of seeds; pine trees make seeds, but inside cones, not inside fruits from flowers."},
+    {"q": "Say the stages of the life cycle of a flowering plant in order.", "a": "Seed germinates, plant grows, plant flowers, pollination, fertilisation, fruit and seeds form, seeds are dispersed, and the seeds germinate again."},
+    {"q": "Name the male and female parts of a flower and say what each part does.", "a": "Male: the stamen, with the anther (makes pollen) on a filament (stalk). Female: the carpel, with the stigma (sticky, catches pollen) and the ovary (contains eggs and becomes the fruit)."},
+    {"q": "What is the difference between pollination and fertilisation?", "a": "Pollination is pollen being carried from an anther to a stigma; fertilisation happens afterwards inside the ovary, when the male cell from the pollen joins with an egg to start a seed."},
+    {"q": "Give two ways an insect-pollinated flower differs from a wind-pollinated one.", "a": "Insect flowers have bright petals, scent, nectar and nectar guides; wind flowers have small dull petals, no scent or nectar, and lots of light, smooth pollen."},
+    {"q": "Why do plants need to spread their seeds? Name three ways they do it with an example of each.", "a": "So the seedlings are not crowded under the parent and can get enough light, water and space. Animals (jamun eaten by birds, hooked seeds on socks), wind (drumstick wings, silk cotton fluff), water (coconut), exploding pods (balsam, bean pods), drop and roll (mango)."},
+    {"q": "What happens to a seed when it germinates?", "a": "It absorbs water and swells, the seed coat splits, the root grows first and downwards, then the shoot grows upwards and the first leaves open; the seed uses its food store and shrivels."},
+    {"q": "In our jars, what did seeds need to germinate? Did they need light?", "a": "Water and warmth. They germinated in the dark because they use their food store, but the shoots grew pale and thin; seedlings need light later to make their own food."}
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "key": "ncert|sci|4|2",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 2,
+  "title": "Exploring Our Neighbourhood",
+  "source": "NCERT Our Wondrous World, Class 4, Chapter 2 (pages 17–32), Reprint 2026-27",
+  "summary": "Navya rides the bus home from school with her Dada ji, past a postbox, a metro line and flyovers, a hospital holding an eye check-up camp and a bank with an ATM, and then draws a map of her neighbourhood using the rising sun to find east. Your child learns how communication and transport have changed from letters and drumbeats to the internet and metros, what hospitals, post offices and banks do, why we save money, and how to read and draw maps with directions and landmarks.",
+  "goals": [
+    "By the end your child can describe how people communicated long ago (drumbeats, rock carvings, messengers, pigeons, letters) and today (phones, internet), and compare speed, cost and challenges using an interview with an elder.",
+    "By the end your child can explain how a letter travels from a postbox to its destination, and write and post a real letter.",
+    "By the end your child can say how metros and flyovers save time, why they can harm trees and animals, and how a balance can be kept.",
+    "By the end your child can name the people who work at a hospital and a bank and say what each does, read the main details on a passbook page and a currency note, and plan a simple ₹100 budget with savings.",
+    "By the end your child can find east from the rising sun or a shadow, show north, south, east and west on a map, and draw a route map with landmarks.",
+    "By the end your child can explain how sound travels along a string and how a magnetised needle points north, and weigh a live debate on how homing pigeons find their way."
+  ],
+  "words": [
+    ["communication", "sharing news, ideas or feelings with someone else, by talking, writing, signals or machines"],
+    ["postbox", "a red box where you drop letters; a postman collects them and takes them to the post office to be sorted by region (using the PIN code) and sent on"],
+    ["telegram", "a short message sent along wires as electric signals and printed out at the other end; India's telegram service closed in 2013"],
+    ["internet", "a worldwide network that joins computers and phones, so messages, pictures and calls reach anywhere in seconds"],
+    ["flyover", "a high road built above busy roads and crossings so that vehicles do not have to stop"],
+    ["metro", "a fast electric train that runs on its own track, often raised on pillars or underground, inside a city"],
+    ["ATM", "Automated Teller Machine: a machine that lets you take money out of your bank account at any time with a card and a secret number (PIN)"],
+    ["savings", "money you keep aside instead of spending now, so you can use it later"],
+    ["passbook", "a small book from the bank that records your account details and the money you put in and take out"],
+    ["barter", "exchanging goods or services directly without money, like wheat for milk"],
+    ["direction", "the way something lies from where you stand: north, south, east or west"],
+    ["landmark", "an easy-to-spot place that helps you find your way, like a temple, a big tree, a water tank or a petrol pump"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "On our way back home: the postbox",
+      "goal": "Start from the child's own journeys and messages, follow Navya from school to the bus, find out how a letter travels, and write a real letter to post.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Messages I sent this week",
+          "mins": 5,
+          "do": "Ask your child: 'In the last week, how did our family send news to someone who was not in the room?' List every way together: a phone call to Nani, a WhatsApp photo, a video call, a voice message, a wedding card that came by post, a courier parcel, a note on the fridge. Then ask: 'Which one was fastest? Which one could you keep and touch afterwards?' Good answers notice that a call is instant but a card or letter can be kept for years."
+        },
+        {
+          "kind": "read",
+          "title": "Navya and Dada ji take the bus (pages 17–18)",
+          "mins": 8,
+          "do": "Read pages 17 and 18 aloud: school ends, Navya meets Dada ji, they take the market route by bus, and Navya spots a red postbox. Stop after Dada ji's words about letters and ask: 'What are all the steps a letter goes through from the postbox to Dada ji's brother?' Good answer: 'Dropped in the postbox, collected by the postman, taken to the post office, sorted by region, sent to the city, then delivered by another postman to the house.' Tell your child that the 6-digit PIN code (Postal Index Number, started in India in 1972) on every address tells the post office exactly which region and which delivery post office a letter goes to. Find your own PIN code on an old envelope or bill."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: Write a letter and post it (page 18)",
+          "mins": 20,
+          "do": "Do Activity a1. Your child writes a real letter to a grandparent, cousin or friend in another town: date at the top right, 'Dear ___,' then three short paragraphs (news about themselves, a question for the reader, something they are looking forward to), then 'With love,' and their name. On an inland letter card or an envelope, help them write the full address with the PIN code on the last line, and your own address on the back. Ask: 'Why must the PIN code be correct?' (Sorting is done by PIN code; a wrong one sends the letter to the wrong post office.) Tell the person to expect it and to write back, so your child can count how many days the reply takes."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions from page 19",
+          "mins": 7,
+          "do": "Ask the two questions at the top of page 19. 'Have you or your family ever sent or received a letter or a parcel?' (Let a parent or grandparent tell one true story: a letter from a relative, an exam admit card, a passport, a rakhi in the post.) 'How does the post office help people stay connected?' Good answers include: letters and parcels, speed post, money orders, savings accounts and pensions, and reaching villages where couriers do not go. Tell your child that India Post has more than 1.5 lakh post offices, most of them in villages, which makes it one of the biggest postal networks in the world."
+        },
+        {
+          "kind": "do",
+          "title": "Plan the post office visit",
+          "mins": 5,
+          "do": "Book Activity 1 part 2 on page 18 is a trip to a post office. Plan it for this week or the next: find the nearest post office on the phone map. Your child writes three questions to ask the postal staff, such as 'How many letters come here every day?', 'How do you sort them?', and 'What else can people do here?' On the visit, buy one postcard or stamp and post the letter from today in the post office box."
+        }
+      ],
+      "need": ["Textbook pages 17–19", "an inland letter card, or an envelope and a stamp", "a pen and writing paper", "an old envelope or bill showing your PIN code", "a phone map"],
+      "prep": [{"task": "Buy an inland letter card or envelope and stamp, and choose a relative who will write back", "when": "2 days before"}]
+    },
+    {
+      "n": 2,
+      "title": "From drumbeats to the internet",
+      "goal": "Trace how communication changed over time, build a string telephone to see how sound travels, interview an elder, and think about how to check that news is true.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Do you know? Communication long ago (pages 19–20)",
+          "mins": 7,
+          "do": "Read the 'Do you know?' box on page 19: drumbeats and rock carvings, then messengers and pigeons, then the postal service, then telephone, radio and television, and today mobile phones and the internet. Ask your child to put these in order on a timeline drawn across the notebook page. Then read the top of page 20, where Navya asks 'Did you not have mobile phones?' and Dada ji says replies took weeks. Ask: 'What does Dada ji miss about letters?' (The joy of writing and receiving a handwritten letter.)"
+        },
+        {
+          "kind": "exp",
+          "title": "Build a string telephone",
+          "mins": 15,
+          "do": "Do Experiment e1. Make a small hole in the bottom of two paper cups with a pencil tip, thread about 5 metres of string through and tie a knot inside each cup. One person speaks softly into one cup while the other holds the other cup to their ear, first with the string hanging loose, then pulled tight. Ask your child to guess first whether loose or tight will work better. Then test: pinch the string in the middle while talking; let the string touch a wall. Ask: 'What is carrying your voice along the string?' (Tiny shakes, called vibrations.) Connect to the drumbeats on page 19: a drum also sends a message by making the air shake.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "J.C. Bose: sending signals with no wire",
+          "mins": 8,
+          "do": "Say: 'A string telephone needs a string. A mobile phone needs no wire at all. How?' Tell the story in Voice v1: in 1895, in Kolkata, Jagadish Chandra Bose sent invisible waves across a room and through walls to ring a bell. Explain that mobile phones also send invisible waves (radio waves) to a tower. Ask the voice question and let your child answer fully.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Is this news true? (page 21)",
+          "mins": 10,
+          "do": "Read the paragraph at the top of page 21 and ask the three questions under it. For question 3, 'How can we ensure the news we share is true?', play a quick test: tell your child, 'I read that eating bananas at night makes your hair turn green.' Ask: 'Would you forward this? What would you check first?' Build a family rule of three checks together: Who said it, and do they really know (a doctor, a newspaper, a government website)? Do other trusted sources say the same? Does it sound made to scare or excite people? Write the three checks in the notebook. Explain that a false message can reach thousands of people in minutes, faster than any correction."
+        },
+        {
+          "kind": "do",
+          "title": "Get ready for Book Activity 2: Interview with elders (page 20)",
+          "mins": 5,
+          "do": "Copy the table from page 20 into the notebook with three columns: Category, Communication in earlier times, Communication in present time. The rows are: type of communication, speed, frequency (how often), language, challenges faced. Your child fills in the 'present time' column now (for example: WhatsApp and video calls; seconds; many times a day; English, Hindi and emoji; phone battery and network problems, fake messages). Tomorrow they interview a grandparent or elderly neighbour for the 'earlier times' column."
+        }
+      ],
+      "need": ["Textbook pages 19–21", "2 paper cups", "about 5 metres of thin string or fishing line", "a pencil", "notebook"],
+      "prep": [{"task": "Ask a grandparent or elderly neighbour to be interviewed on Day 3, in person or on a call", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Metros, flyovers and travel across three generations",
+      "goal": "Finish the elder interview, read how metros and flyovers save time, think about what fast development costs nature, and survey traffic and trees on our own street.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Book Activity 2: Interview with elders (page 20)",
+          "mins": 10,
+          "do": "Your child interviews a grandparent or elderly neighbour using the rows of the page 20 table: 'When you were my age, how did you send news to someone far away? How long did it take? How often did you write? In which language? What was hard?' Likely answers: letters, postcards, telegrams for urgent news ('Arriving Tuesday' cost money per word), a neighbour's landline or a PCO/STD booth, waiting weeks for replies. Your child fills in the 'earlier times' column. Then ask question 1 on page 21: 'Letters took a long time. How do you think it affected communication between people?' (People wrote longer letters less often, news arrived late, and people had to plan ahead.)"
+        },
+        {
+          "kind": "read",
+          "title": "The metro and the flyover (pages 21–22)",
+          "mins": 7,
+          "do": "Read from the bottom of page 21 to page 22: Navya sees a metro, Dada ji explains flyovers, and they talk about the animals, birds and trees that are no longer around. Ask: 'How does a flyover save time?' (Vehicles go over the crossing instead of stopping at red lights and jams.) Read Navya's line, 'I wonder if we can have such developments even while keeping our environment safe.' Ask: 'What did Dada ji suggest?' (Creating a balance, for example by planting trees.) Ask your child for one more idea: replanting trees cut for a road, leaving green strips, building wildlife crossings, using the metro instead of cars so the air is cleaner."
+        },
+        {
+          "kind": "talk",
+          "title": "Questions from pages 22–23",
+          "mins": 8,
+          "do": "Ask both questions on page 22: 'Which mode of transport do you use the most?' and 'Can you identify the structures in the pictures and explain how they made travel faster?' (Flyover, metro, bridges, wide roads.) Then do the table at the top of page 23: three columns, You, Parents, Grandparents, for how each went to school. Phone a grandparent if needed. Typical answers: you - school van or scooter; parents - bus or cycle; grandparents - walking several kilometres or a bullock cart. Ask: 'What changed, and what did we lose?' (Faster, but less walking and exercise, and more smoke and noise.)"
+        },
+        {
+          "kind": "outdoor",
+          "title": "Traffic and trees survey",
+          "mins": 12,
+          "do": "Stand safely at the gate, a balcony or a footpath beside your street for 10 minutes with your child. Make a tally chart with columns: walking, cycle, two-wheeler, auto or e-rickshaw, car, bus, truck, and a last column for trees and big plants on the stretch of street you can see. Count everything that passes. Back inside, ask: 'Which vehicle passed most? How many people does one bus carry compared to one car?' (A full city bus carries 50 or more, a car usually 1–4.) 'How many trees are there for all these vehicles? What would make our street better?' Write their idea down for the Day 8 neighbourhood plan."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet, sections A and B",
+          "mins": 8,
+          "do": "Do sections A and B of Worksheet ws1 (core) on communication and transport. Keep section C for Day 5 after the bank lesson. Read each item aloud if needed and mark it together; for any wrong answer, open the page it comes from (page 18 for the postbox, page 19 for the timeline, pages 21–22 for metros and flyovers).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 20–23", "the interview table from Day 2", "a grandparent or elder, in person or by phone", "notebook and pencil for the tally", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "The hospital and the eye camp",
+      "goal": "Read about the eye check-up camp, list the people who work at a hospital and what they do, see how our eyes react to light, and hear how an Indian doctor brought sight to millions.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "An eye check-up camp (page 23)",
+          "mins": 6,
+          "do": "Read page 23 from 'After some time, a few people got down' to the end of Dada ji's words: the bus stops near a hospital with an 'Eye Check-up Camp' banner, and Dada ji tells how Navya's grandmother had an eye operation there that helped her see better. Ask: 'Why do you think the hospital holds a free camp instead of waiting for people to come?' (Many people do not know their eyes are getting weak, or cannot afford a check-up; a camp finds problems early.) Tell your child that the most common reason older people in India lose their sight is a cataract, when the clear lens inside the eye becomes cloudy, and that a short operation can replace it with a clear plastic lens."
+        },
+        {
+          "kind": "do",
+          "title": "Hospital roles table (page 23)",
+          "mins": 10,
+          "do": "Copy the table at the bottom of page 23: People, Role in the Hospital/Health Centre. The book's example is a doctor (treats patients and prescribes medicines). Your child adds at least six more: nurse (cares for patients, gives medicines and injections, checks temperature and blood pressure), pharmacist (gives out medicines and explains how to take them), lab technician (tests blood and urine), receptionist (registers patients and gives them a slip), ambulance driver (brings patients quickly and safely), ward attendant and cleaner (keeps wards clean so germs do not spread), and at an eye camp an optometrist (tests eyesight with the letter chart). Ask: 'Which of these people do you never see, but the hospital could not run without?'"
+        },
+        {
+          "kind": "exp",
+          "title": "Watch your pupils change",
+          "mins": 10,
+          "do": "Do Experiment e2. Your child sits facing a mirror in a fairly bright room and looks closely at the black dot in the middle of their eye (the pupil). Ask them to guess first: 'If you cover your eyes for a while, will the black dot be bigger, smaller or the same when you uncover them?' Then they cover both eyes with their palms for 30 seconds, uncover and look into the mirror at once. Then shine a phone torch from the side (not straight into the eye, and only for a second) while you watch their pupil. Your child draws the eye 'in the dark' and 'in bright light'. Explain using the 'why' of e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "do",
+          "title": "Make a home eye chart",
+          "mins": 7,
+          "do": "On a sheet of paper, write rows of capital letters in a line: the top row one letter about 5 cm tall, the next row two letters 3 cm tall, then four letters 2 cm, then six letters 1 cm, then eight letters about half a centimetre. Stick it on a wall at eye level. Your child stands 3 metres away (about 4 big steps), covers one eye with a palm, and reads down as far as they can, then the other eye. Then test each family member. Ask: 'Why do doctors test one eye at a time?' (One eye can be weak while the other is fine, and the good eye hides the problem.) Make clear this is a game; a real eye test is done by an optometrist or eye doctor."
+        },
+        {
+          "kind": "think",
+          "title": "Dr G. Venkataswamy and Aravind Eye Hospital",
+          "mins": 12,
+          "do": "Tell the story in Voice v2 in your own words: a doctor in Madurai who started an 11-bed eye hospital in 1976 after he retired, held eye camps in villages, and built one of the biggest eye-care systems in the world, where poor patients are treated free. Ask: 'Navya's grandmother got her eyesight back. Why does one operation change a whole family's life, not just one person's?' (She can cook, read, walk safely and look after the grandchildren again, and nobody has to stay home to look after her.) Then ask the voice question.",
+          "ref": "v2"
+        }
+      ],
+      "need": ["Textbook page 23", "a mirror", "a phone torch", "a sheet of paper, ruler and thick marker for the eye chart", "notebook"],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Savings for the future: banks and money",
+      "goal": "Find out what banks and ATMs do and why we save, read a passbook page and a currency note closely, and play a barter game to see why money was invented.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Savings for the future (pages 24–25)",
+          "mins": 7,
+          "do": "Read page 24 aloud: Navya sees an ATM, Dada ji explains that banks keep money safe and help us save, he remembers long queues and Money Orders through the post office, and Navya's Mama sends money by phone for Raksha Bandhan. Ask: 'What did ATM stand for?' (Automated Teller Machine.) Do the question at the top of page 25: 'If you had to send money to someone, which method would you choose: phone, Money Order or something else? Why?' A good answer weighs both: 'Phone (UPI) is instant, but Nani has no smartphone, so a Money Order brought by the postman would reach her.'"
+        },
+        {
+          "kind": "talk",
+          "title": "Saving questions and the passbook (pages 25–26)",
+          "mins": 9,
+          "do": "Ask questions 1–3 on page 25: 'If you get pocket money, do you save it, and where?' 'Why is it important to save?' (For bigger things later, for emergencies like an illness, and to avoid borrowing.) 'What could you do to save more?' (Skip one packet of chips a week, keep birthday money, share books instead of buying.) Then do question 4: show your child the first page of a real passbook (cover the balance if you prefer) next to the sample on page 26. Your child finds and copies the names of the boxes: account number, IFSC code, customer name, address, date of birth, opening date, branch name. Explain: 'The account number is like the house address of your money; the IFSC code tells which branch of which bank it lives in.' Never write down or share the real numbers outside the family."
+        },
+        {
+          "kind": "do",
+          "title": "Book Activity 3: Look closely at a currency note (page 26)",
+          "mins": 10,
+          "do": "Give your child a ₹10, ₹20, ₹50 or ₹100 note and a magnifying glass if you have one. Answer the three questions on page 26. (a) Value: the number in figures and in words. (b) Languages: Hindi and English on the front, and a panel on the back with the value written in 15 more Indian languages, so 17 in all; let your child count and try to name a few (Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Marathi, Punjabi, Odia, Urdu, Assamese, Kashmiri, Konkani, Nepali, Sanskrit). (c) Pictures and symbols: Mahatma Gandhi's portrait, the Ashoka lion emblem, the Governor's signature with the promise 'I promise to pay the bearer', the Swachh Bharat spectacles logo and a picture of a heritage site on the back (on the newer notes, for example the Konark wheel on the ₹10, Ellora caves on the ₹20, Hampi's stone chariot on the ₹50, Rani ki Vav on the ₹100). Then do Book Activity 3 question 1: ask a family member (a) what else people use banks for (loans, fixed deposits, paying bills, getting salary and pension) and (b) what an ATM does."
+        },
+        {
+          "kind": "game",
+          "title": "The barter market (page 27)",
+          "mins": 12,
+          "do": "Read the 'Do you know?' box on page 27 about the barter system. Then play: give your child 'goods' (5 spoons of rice in a bowl, standing for a farmer's wheat) and give other family members different goods (a toy for 'milk', pencils for 'cloth', a banana for 'fruit'). Each person secretly writes what they want. Try to trade without money: your child will find that the person with milk may not want wheat. Count how many swaps it takes to get what they want. Then play again with 20 paper 'coins' each and a price list. Ask: 'Why is money easier?' (Everyone accepts it, so you need only one trade; it is easy to carry, divide and save.) Ask: 'What problem did the farmer and shepherd have?' (Finding the right partner and agreeing how much wheat equals how much milk.)"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet, section C",
+          "mins": 7,
+          "do": "Finish Worksheet ws1 (core) section C on hospitals, banks and money. Mark it together and, for any wrong answer, open pages 23–27.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 24–27", "a family bank passbook (optional)", "one currency note and a magnifying glass if available", "rice, a toy, pencils and a banana for the barter game", "20 paper 'coins' per player", "worksheet ws1"],
+      "prep": [{"task": "Ask a family member if your child may look at the first page of their passbook, and keep one currency note aside", "when": "night before"}]
+    },
+    {
+      "n": 6,
+      "title": "Which way is north? Directions from the sun",
+      "goal": "Find east and west from the sun's shadow, make a floating compass, learn how directions are shown on a map, and weigh a live debate about how homing pigeons find their way.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Shadow stick: find east and west",
+          "mins": 7,
+          "do": "Start Experiment e3 first thing in the morning (between 8 and 10 a.m.). Push a straight stick upright into soil, or stand a pencil in a lump of atta dough on a sunny balcony floor. Your child puts a small stone at the tip of the shadow. Ask: 'Where do you think the shadow tip will be in an hour?' Come back after about an hour (later in today's lesson or at the next break) and put a second stone at the new tip. The line from the first stone to the second points from west to east.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "Navya draws her neighbourhood (pages 27–28)",
+          "mins": 7,
+          "do": "Read 'Looking Around the Neighbourhood' on page 27: Navya identifies east from the rising sun and draws places in other directions. Read the last paragraph slowly: on a map, north is at the top, south at the bottom, east on the right and west on the left. Stand with your child facing east (the sunrise side; your shadow stick line tells you). Say: 'Stretch your arms out. Your left hand points north, your right hand south, and west is behind you.' Then do question 1 on page 28: look at the picture of Navya's neighbourhood and fill in the table with the places in the north, east, west and south of her home."
+        },
+        {
+          "kind": "exp",
+          "title": "Make a floating compass",
+          "mins": 12,
+          "do": "Do Experiment e4. Stroke a steel sewing needle 30 times from the eye to the point with one end of a magnet (a fridge magnet often works; a stronger one is better), always in the same direction and lifting the magnet away between strokes. Lay the needle on a small piece of leaf or a disc cut from a cork or a bottle cap, floating in a steel bowl of still water away from metal things. Ask your child to guess first which way it will point. Watch it turn and settle. Compare with the east-west line from the shadow stick: the needle should lie across it, along north and south. Turn the leaf gently with a finger and watch it swing back.",
+          "ref": "e4"
+        },
+        {
+          "kind": "do",
+          "title": "Directions around our school or home (pages 28–29)",
+          "mins": 7,
+          "do": "Do question 2 on pages 28–29: look at the picture on page 29 with the compass rose (N, S, E, W), imagine the school is in the centre and write the places in each direction. Then do question 3 on page 29: your child writes directions for a friend to walk from your gate to their favourite nearby place, using landmarks and turns ('Go out of the gate and turn left. Walk straight past the temple. At the big peepal tree, turn right. The sweet shop is next to the blue water tank.'). Test the directions by following them exactly on your next walk."
+        },
+        {
+          "kind": "think",
+          "title": "How do pigeons find home? (Floriano Papi and the debate)",
+          "mins": 9,
+          "do": "Remind your child that page 19 said people once sent letters by pigeon. Ask: 'A pigeon taken 100 km away in a closed basket still flies home. It has no map and no phone. How could it know which way to go?' Let them list ideas (the sun, a magnetic sense like our needle, smells, landmarks). Tell the story in Voice v3, and make clear that scientists are still working it out. Ask the voice question. Finally, check the second shadow-stick stone and mark the east-west line with chalk.",
+          "ref": "v3"
+        },
+        {
+          "kind": "talk",
+          "title": "Draw your house on a map",
+          "mins": 3,
+          "do": "On a fresh notebook page, your child draws N at the top, S at the bottom, E on the right and W on the left, puts their house in the middle and draws one real place in each direction (for example the park to the north, the main road to the east). Keep it for tomorrow's route map."
+        }
+      ],
+      "need": ["Textbook pages 27–29", "a straight stick or pencil, soil or a lump of dough, 2 small stones, chalk", "a steel sewing needle and a magnet", "a small leaf, cork slice or plastic bottle cap", "a steel or plastic bowl of water"],
+      "prep": [{"task": "Find a sunny spot and plan to start the shadow stick between 8 and 10 a.m.", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "Route maps, treasure hunts and a ₹100 budget",
+      "goal": "Draw a route map with landmarks, follow and draw treasure maps, plan how to spend and save ₹100, and practise with a stretch worksheet.",
+      "steps": [
+        {
+          "kind": "act",
+          "title": "Book Activity 4: Route map with landmarks (page 30)",
+          "mins": 14,
+          "do": "Start Activity a2. Your child draws a map of the route from your home to the nearest public library, post office, park or market (Book Activity 4 on page 30 uses the school; use whichever route you walk most). Put a north arrow in one corner. Draw the route as a road and mark at least five landmarks along it: a shop, a temple, a bus stop, a big tree, a hospital or clinic. Make a key (legend) in a box: a small symbol for each kind of place (a cross for a clinic, a tree shape for the park, a book for the library). Ask: 'If a visitor had only your map, could they find their way?' Walk the route together this week to check it."
+        },
+        {
+          "kind": "game",
+          "title": "Treasure Map Hunt",
+          "mins": 12,
+          "do": "Play the DeepKids game. Before the lesson, hide a small treasure (a sweet or a coin) in the house or compound and draw a simple map with a north arrow and a key. Write steps on it: '5 steps north from the main door, turn east at the tulsi pot, 3 steps, look under the blue bucket.' Your child uses the map, and the floating compass or the chalk east-west line from Day 6 if needed, to find it. Then swap: your child hides something and draws a map for you. Level 2: they must use only directions (north, east) and no left or right, which is harder because left and right change when you turn but north stays the same."
+        },
+        {
+          "kind": "act",
+          "title": "₹100 a month budget (page 31)",
+          "mins": 10,
+          "do": "Do Activity a3, based on activity 1 on page 31. Your child imagines they have ₹100 to use in a month. On the page 31 table, they plan the amounts for Savings and for Expenditure (stationery, snacks, a toy, a gift), and write why for each. The total must be exactly ₹100. Ask: 'If you save ₹20 every month, how much will you have in a year?' (₹240.) 'What could you buy then that you cannot buy now?' Put a real piggy bank or a labelled jar on the shelf and start the savings with one coin.",
+          "ref": "a3"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: maps, money and messages",
+          "mins": 9,
+          "do": "Do Worksheet ws2 (stretch). It applies the chapter to new situations, such as reading a small map and choosing how to send news or money. Let your child explain each answer aloud before writing.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 30–31", "a large sheet of paper, pencil, colours", "a small treasure (a sweet or coin) and a hand-drawn treasure map", "the compass bowl from Day 6", "a piggy bank or jar", "worksheet ws2"],
+      "prep": [{"task": "Hide the treasure and draw its map with a north arrow, key and steps", "when": "morning"}]
+    },
+    {
+      "n": 8,
+      "title": "Making our neighbourhood better: check and teach back",
+      "goal": "Think about services and the people who helped during COVID-19, plan a better neighbourhood, finish the experiments, check understanding and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "Services, people and vehicles (pages 31–32)",
+          "mins": 8,
+          "do": "Do activity 4 on page 32. The example is the police station: police officers, constables, a patrolling jeep. Your child fills in the boxes for the hospital (doctors, nurses, ambulance), fire station (firefighters, fire engine with a water tank, ladder), post office (postmaster, postman, mail van, bicycle) and library (librarian, a mobile library van in some cities). Then do activity 3 on page 31: ask an elder to name people in your area who helped during COVID-19 (doctors, nurses, ASHA workers, garbage collectors, kirana shopkeepers, milk sellers, teachers who taught online). Ask: 'Why is it important to thank them?' Your child writes one thank-you note to give to one of them."
+        },
+        {
+          "kind": "do",
+          "title": "Our better neighbourhood (page 31)",
+          "mins": 8,
+          "do": "Do activity 2 on page 31 as a family. Use the traffic-and-trees survey from Day 3 and the route map from Day 7. Your child picks two new or improved services or facilities (a zebra crossing near the school, more trees along the road, a public library corner, a cycle lane, a bus shelter, a water cooler) and presents them to the family in two minutes: what, where on the map, who it helps, and how. Mark them on the Activity a2 map with a star. Ask: 'Could this hurt any animal or tree? How would you keep a balance, like Dada ji said?'",
+          "ref": "a2"
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page with your child for one minute, then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 6 directions lesson and the Day 5 bank lesson next week. Also ask: 'Has a reply to your Day 1 letter come yet? How many days did it take?'"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views. Your child can answer the write items aloud while you scribe. There is no single right answer in section C; praise reasons that use evidence ('because in my compass test...').",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back",
+          "mins": 11,
+          "do": "Your child is now the teacher, and you (or a grandparent or sibling) are the student. In 5–6 minutes they teach, using real things from the week: the string telephone, the floating compass, the route map, a currency note and the elder-interview table. They should cover: how communication changed from drumbeats to the internet; how a letter travels; what a bank and an ATM do and why we save; and how to find directions and read a map. Ask two 'student' questions: 'Why did the string telephone stop working when you pinched the string?' and 'Which way would you face to see the sunrise, and where is north then?' Finish Activity a1 by noting the date the reply letter arrives.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 31–32", "the route map, survey tally and interview table", "paper for a thank-you note", "worksheet ws3", "the string telephone and compass bowl"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Messages, journeys and services",
+      "day": 3,
+      "sections": [
+        ["A. Communication then and now", [
+          {"t": "sort", "p": "Sort these ways of communicating.", "items": ["Drumbeats", "Carvings on rocks", "Pigeon carrying a message", "Video call", "Email", "Telegram", "Text message", "Letter by messenger"], "cats": ["Long ago", "Today"]},
+          {"t": "fill", "p": "After the postman collects letters from the postbox, the post office ____ them by region and sends them on.", "a": ["sorts", "sort"]},
+          {"t": "mcq", "p": "Why did Dada ji say he sometimes misses letters?", "opts": ["They were faster than phones", "He misses the joy of writing and receiving a handwritten letter", "Phones are too costly", "Letters had pictures"], "a": 1}
+        ]],
+        ["B. Transport", [
+          {"t": "mcq", "p": "How does a flyover save time?", "opts": ["It makes cars go faster", "Vehicles pass above busy roads and crossings without stopping", "It has no traffic lights inside cars", "It is shorter than the road"], "a": 1},
+          {"t": "write", "p": "Dada ji said many animals, birds and trees are gone because of new roads and metros. Write one way to build new things and still keep a balance with nature.", "lines": 2}
+        ]],
+        ["C. Hospitals, banks and money", [
+          {"t": "match", "p": "Match each person or thing to what it does.", "pairs": [["Doctor", "Treats patients and prescribes medicines"], ["Nurse", "Cares for patients and gives medicines"], ["ATM", "Lets you take out money from your account at any time"], ["Bank", "Keeps money safe and helps you save"], ["Money Order", "Sends money through the post office"]]},
+          {"t": "fill", "p": "Exchanging wheat for milk without using money is called the ____ system.", "a": ["barter"]},
+          {"t": "write", "p": "Give two reasons why it is important to save money.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Maps, money and messages: new cases",
+      "day": 7,
+      "sections": [
+        ["A. Reading a map", [
+          {"t": "mcq", "p": "On a map, the market is drawn on the right side of the school. In which direction is the market from the school?", "opts": ["North", "South", "East", "West"], "a": 2},
+          {"t": "mcq", "p": "You stand facing the rising sun. Which direction is on your left?", "opts": ["North", "South", "West", "East"], "a": 0},
+          {"t": "fill", "p": "An easy-to-spot place that helps you find your way, like a water tank or a big tree, is called a ____.", "a": ["landmark"]},
+          {"t": "draw", "p": "Draw a small map with a north arrow showing your home, a park to the north, a shop to the east and a bus stop to the south. Add a key."}
+        ]],
+        ["B. Choosing the best way", [
+          {"t": "write", "p": "Your aunt in a village has no smartphone and there is no bank near her. You want to send her ₹500 for Diwali. Which way would you choose, and why?", "lines": 2},
+          {"t": "write", "p": "You get a message: 'Schools closed tomorrow because of a storm! Forward to everyone!' What three things would you check before forwarding it?", "lines": 3}
+        ]],
+        ["C. Sound and signals", [
+          {"t": "mcq", "p": "The string telephone works best when the string is:", "opts": ["Loose and touching the floor", "Pulled tight and not touching anything", "Wet", "Cut in the middle"], "a": 1},
+          {"t": "table", "p": "Plan a ₹100 monthly budget.", "cols": ["Item", "Amount (₹)", "Why"], "rows": 4, "prefill": ["Savings", "Stationery", "Snacks", "Other"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Puzzles, what ifs and a pigeon debate",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "In the shadow-stick test, the shadow tip moved from the first stone to the second. Why does the shadow move at all, if the stick does not?", "lines": 3},
+          {"t": "mcq", "p": "Your floating needle points along a line. You put a steel spoon next to the bowl and the needle swings. Why?", "opts": ["The spoon is heavy", "The needle is a magnet and is pulled by the iron in the steel", "The water moved", "Spoons point south"], "a": 1},
+          {"t": "write", "p": "If you save ₹15 every month, how much will you have after one year? After 3 years? Show your working.", "lines": 2}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if the internet stopped working in all of India for one week? Name three things that would become hard, and three older ways people could use instead.", "lines": 4},
+          {"t": "write", "p": "What if there were no money and everyone had to barter? How would a teacher get rice and vegetables?", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "Floriano Papi found that pigeons that could not smell got lost more often. Other scientists say pigeons use the sun and the earth's magnetism. Could both be right? Explain.", "lines": 4},
+          {"t": "mcq", "p": "Which experiment would best test whether pigeons need smell to find home from a new place?", "opts": ["Feed them more grain", "Release pigeons that can smell and pigeons that cannot from the same new place, and compare how many get home", "Paint the pigeons", "Release one pigeon near home"], "a": 1},
+          {"t": "write", "p": "Jagadish Chandra Bose sent invisible waves through walls in 1895. Name two things in your home today that work with invisible waves.", "lines": 2}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The string telephone",
+      "day": 2,
+      "question": "How can a voice travel along a string, and what stops it? (Links to drumbeats and early communication, page 19.)",
+      "need": ["2 paper cups", "about 5 metres of thin string or fishing line", "a pencil to make holes", "2 matchsticks or paper clips (optional, to stop the knots slipping)"],
+      "steps": [
+        "Make a small hole in the centre of the bottom of each cup with a pencil tip.",
+        "Push one end of the string through each hole and tie a big knot (or tie it round a matchstick) inside the cup.",
+        "Two people stand apart holding the cups. First let the string hang loose; one speaks softly into a cup, the other listens.",
+        "Walk apart until the string is tight and straight. Speak softly again.",
+        "While talking, pinch the string in the middle. Then let it touch a wall or a door.",
+        "Record what you heard each time: clear, faint or nothing."
+      ],
+      "predict": "Ask your child to guess first: will the voice come through better with the string loose or tight? What will happen if someone pinches the string?",
+      "observe": "With a tight, straight string, a soft voice is heard clearly and sounds closer than it does through the air. With a loose string, or when the string is pinched or touching something, the sound becomes faint or stops.",
+      "why": "Every sound is made by something shaking back and forth very fast (vibrating). When you speak, your voice makes the air shake, which makes the bottom of the cup shake. The cup pulls and pushes on the string, so the vibrations run along the string to the other cup, whose bottom shakes the air inside it, and that reaches the listener's ear. Sound travels well through a tight string, which is solid, but a loose string cannot pass on the pulls; pinching the string or letting it touch a wall soaks up the vibrations. Drums sent messages in the same way, by making the air vibrate, and old telephones turned these vibrations into electric signals along a wire.",
+      "safety": "Do not shout into the cup while someone is listening at the other end; keep voices soft.",
+      "time": "15 min"
+    },
+    {
+      "id": "e2",
+      "title": "Watch your pupils change",
+      "day": 4,
+      "question": "How does the eye control how much light goes in? (Links to the eye check-up camp, page 23.)",
+      "need": ["a mirror", "a fairly bright room", "a phone torch"],
+      "steps": [
+        "Sit facing the mirror in a bright room. Look closely at the black circle in the middle of your eye (the pupil) and the coloured ring around it (the iris).",
+        "Draw the eye: how big is the black circle compared to the coloured ring?",
+        "Cover both eyes with your palms for 30 seconds without pressing.",
+        "Uncover and look at the mirror at once. Draw the eye again.",
+        "The parent shines the phone torch towards the child's eye from the side for one second only, while watching the pupil.",
+        "Compare the drawings."
+      ],
+      "predict": "Ask your child to guess first: after covering your eyes, will the pupil be bigger, smaller or the same? What will happen in bright light?",
+      "observe": "After the eyes are covered, the pupils look large and then shrink within a second or two. In the torchlight, the pupil quickly becomes smaller.",
+      "why": "The pupil is not a black spot; it is a hole that lets light into the eye, and it looks black because the inside of the eye is dark. The coloured iris is a ring of tiny muscles that makes the hole bigger or smaller. In dim light the pupil opens wide to let in as much light as possible; in bright light it closes down to protect the inside of the eye. Behind the pupil is a clear lens that focuses the light onto the back of the eye. In a cataract, this lens turns cloudy, so the person sees as if through frosted glass; the operation removes the cloudy lens and puts a clear artificial lens in its place.",
+      "safety": "Never shine a torch straight into anyone's eye for more than a second, and never look at the sun.",
+      "time": "10 min"
+    },
+    {
+      "id": "e3",
+      "title": "Shadow stick: find east and west from the sun",
+      "day": 6,
+      "question": "Navya found east from the rising sun (page 27). Can we find east and west from a shadow?",
+      "need": ["a straight stick about 30 cm long, or a pencil", "soil, a flower pot, or a lump of atta dough to stand it in", "2 small stones", "chalk", "a sunny spot"],
+      "steps": [
+        "Between 8 and 10 a.m., stand the stick upright in a sunny place on flat ground.",
+        "Put a stone exactly at the tip of the stick's shadow.",
+        "Wait about an hour. Do not move the stick.",
+        "Put a second stone at the new tip of the shadow.",
+        "Draw a chalk line from the first stone to the second. The first stone is towards the west and the second towards the east.",
+        "Stand with your left foot on the first stone and your right foot on the second: you are facing north."
+      ],
+      "predict": "Ask your child to guess first: in an hour, will the shadow be longer or shorter? Will its tip move to the left, to the right or not at all?",
+      "observe": "The shadow gets shorter during the morning and its tip moves round. The line between the two stones runs roughly west to east.",
+      "why": "The sun seems to rise in the east, cross the sky and set in the west, because the earth spins from west to east once every day. A shadow always falls on the side away from the sun, so as the sun moves across the sky from east to west, the shadow tip moves the opposite way, from west towards east. Joining the two tips gives an east-west line, and north is at right angles to it. In the morning, the sun is low and shadows are long; as it climbs higher, shadows get shorter.",
+      "safety": "Never look straight at the sun.",
+      "time": "7 min to set up + 2 min after about an hour"
+    },
+    {
+      "id": "e4",
+      "title": "Make a floating compass",
+      "day": 6,
+      "question": "Can a magnetised needle show us which way is north?",
+      "need": ["a steel sewing needle", "a magnet (a strong fridge magnet or a bar magnet)", "a small piece of leaf, a thin slice of cork or a plastic bottle cap", "a bowl of water", "the east-west chalk line from the shadow stick"],
+      "steps": [
+        "Stroke the needle with one end of the magnet 30 times, always from the eye to the point, lifting the magnet away each time.",
+        "Fill the bowl with water and put it on a table away from steel things and phones.",
+        "Float the leaf or cap in the middle and gently lay the needle on it.",
+        "Wait for it to stop turning. Mark the direction it points with two small pieces of paper on the table.",
+        "Turn the leaf a little with a finger and let go. Does it swing back?",
+        "Compare with the shadow-stick line: the needle should lie across it, along north and south. Bring a steel spoon near the bowl and watch."
+      ],
+      "predict": "Ask your child to guess first: will the needle point in any direction, or always the same one? Will it point along our east-west chalk line or across it?",
+      "observe": "The needle turns and settles pointing roughly north and south, and swings back to the same line when pushed. A steel spoon or magnet nearby pulls it off course.",
+      "why": "Stroking the needle with a magnet lines up billions of tiny magnetic regions inside the steel so that they all point the same way, and the needle becomes a weak magnet itself. The earth behaves like a giant magnet, with magnetic poles near the North and South Poles. A floating magnet is free to turn, so it lines up with the earth's magnetism and points north-south. This is how a compass works. Sailors in China were using magnetic compasses to find their way at sea about 900 years ago.",
+      "safety": "Handle the needle carefully; push it into a cork or eraser when you finish. Keep magnets away from phones, cards and very young children.",
+      "time": "12 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Write and post a real letter (Book Activity 1, page 18)",
+      "day": 1,
+      "mins": 20,
+      "need": ["an inland letter card, or an envelope and stamp", "a pen", "the receiver's full address with PIN code"],
+      "steps": [
+        "Write the date at the top right and 'Dear ___,' below it.",
+        "Write three short paragraphs: news about you, a question for the reader, and something you are looking forward to.",
+        "End with 'With love,' and your name.",
+        "Write the receiver's address on the front with the PIN code on the last line, and your own address on the back.",
+        "Post it at a postbox or post office, and write the date you posted it in your notebook.",
+        "When the reply comes, count the days it took and stick it in the notebook."
+      ],
+      "outcome": "A real letter posted, a reply received, and a record of how many days a letter takes, to compare with a phone message that takes seconds."
+    },
+    {
+      "id": "a2",
+      "title": "Route map and neighbourhood atlas (Book Activity 4, page 30)",
+      "day": 7,
+      "mins": 14,
+      "need": ["a large sheet of paper", "pencil, eraser, colours", "a ruler"],
+      "steps": [
+        "Draw a north arrow in the top corner.",
+        "Draw your home and the place you are going (library, post office, park or market).",
+        "Draw the road between them, with each turn in the right place.",
+        "Mark at least five landmarks along the way with small symbols.",
+        "Make a key (legend) that explains each symbol.",
+        "Walk the route together and correct the map. On Day 8, add stars for the new facilities you would like."
+      ],
+      "outcome": "A hand-drawn route map with a north arrow, landmarks and a key that a visitor could follow, the start of a 'My Neighbourhood Atlas'."
+    },
+    {
+      "id": "a3",
+      "title": "My ₹100 budget and savings jar (page 31)",
+      "day": 7,
+      "mins": 10,
+      "need": ["the budget table from page 31 copied in the notebook", "a piggy bank or a labelled jar", "a few coins"],
+      "steps": [
+        "Decide how much of ₹100 to save and how much to spend on stationery, snacks, toys or gifts.",
+        "Write each amount and why you chose it. Check that the total is exactly ₹100.",
+        "Work out how much the savings would grow to in 6 months and in a year.",
+        "Choose one thing you are saving for and write it on the jar.",
+        "Put any pocket or gift money into the jar and write the amount and date on a slip inside.",
+        "Count the jar together at the end of each month."
+      ],
+      "outcome": "A written budget that adds up to ₹100, and a real savings jar with a goal."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Jagadish Chandra Bose (1858–1937), India",
+      "idea": "Before he became famous for his plant research, Bose was a physicist at Presidency College in Kolkata. In 1895 he gave a public demonstration in Kolkata in which he sent invisible electromagnetic waves (very short radio waves, now called microwaves or millimetre waves) from one place to another, through walls, to ring a bell and set off a small charge of gunpowder. He built his own senders and very sensitive receivers, and in 1897 lectured on this work at the Royal Institution in London.",
+      "then": "Few people in India had laboratories for such work, and Bose had to build his equipment with very little money. His work was praised in Europe, but he did not try to turn it into a business, and the Italian Guglielmo Marconi became famous for long-distance radio. For many years Bose's part in the story was mostly forgotten outside India.",
+      "now": "Bose is recognised as a pioneer of the very short radio waves now used in radar, satellite links and modern wireless and mobile technology. In 2012 the IEEE, the world's largest engineering society, honoured his 1890s work in Kolkata as an official milestone in the history of engineering.",
+      "status": "accepted",
+      "ask": "Bose sent waves through a wall to ring a bell, but nobody could see the waves. How could you convince someone that something invisible is really travelling from one place to another?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "Dr Govindappa Venkataswamy (1918–2006), India",
+      "idea": "Dr Venkataswamy, known as 'Dr V', was an eye surgeon in Tamil Nadu who believed that nobody should go blind just because they were poor. As a young doctor he developed rheumatoid arthritis, which badly twisted his fingers, but he trained himself to operate again. After retiring from government service, in 1976 he started the Aravind Eye Hospital in Madurai with just 11 beds. Its doctors held eye camps in villages, brought patients in by bus for cataract operations, and organised the work so carefully that each surgeon could do many safe operations a day. Patients who could pay helped cover the cost for those who could not, who were treated free.",
+      "then": "Many people doubted that high-quality surgery could be done in such large numbers and so cheaply, or that a hospital could survive while treating most of its poor patients free.",
+      "now": "Aravind has grown into one of the largest eye-care systems in the world, carrying out hundreds of thousands of eye operations every year, with results as good as expensive hospitals. Its way of working is studied in business and medical schools and has been copied in other countries. Dr V was awarded the Padma Shri in 1973.",
+      "status": "accepted",
+      "ask": "People said cheap surgery could not be good surgery. What evidence would you want to see before you believed that a hospital doing operations very cheaply was also doing them well?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Floriano Papi (1926–2016), Italy, and the homing-pigeon debate",
+      "idea": "Homing pigeons, once used to carry messages, can fly home from places they have never seen, hundreds of kilometres away. In the early 1970s the Italian scientist Floriano Papi and his team at the University of Pisa found that pigeons that could not smell were much worse at finding home from unfamiliar places. He proposed that pigeons learn a 'smell map': at home they learn which smells the wind brings from which direction, and when released far away they use the smell of the air to work out which way home lies.",
+      "then": "Many scientists, especially in the USA and Germany, doubted him. Some experiments in other countries did not give the same results, and many researchers believed pigeons used the sun as a compass and the earth's magnetism instead.",
+      "now": "Many experiments since have supported the idea that smell matters for pigeons in Italy and Germany, and studies of seabirds such as shearwaters also point to smell. Scientists also have good evidence that pigeons use the sun as a compass and familiar landmarks near home, and many think a magnetic sense plays a part, though how birds sense magnetism is still not fully understood. How these senses are combined is still argued about.",
+      "status": "debated",
+      "ask": "If you thought pigeons used smell, and your friend thought they used magnetism, what experiment could you both agree on that might show who is right? Could you both be right?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Put these in order from oldest to newest: telephone, drumbeats, internet, postal service, messengers and pigeons.", "a": "Drumbeats (and rock carvings), messengers and pigeons, postal service, telephone (then radio and television), internet."},
+    {"q": "What happens to a letter after you drop it in a postbox?", "a": "A postman collects it and takes it to the post office, where letters are sorted by region (using the PIN code) and sent to the right city; another postman delivers it to the house."},
+    {"q": "How do flyovers and metros make travel faster, and what problem did Dada ji point out?", "a": "Flyovers let vehicles pass above busy roads and crossings without stopping, and metros run fast on their own tracks. But many trees, birds and animals have disappeared because of these changes, so we need a balance, such as planting trees."},
+    {"q": "Name three people who work in a hospital and what each does.", "a": "For example: doctor (treats patients and prescribes medicines), nurse (cares for patients and gives medicines), pharmacist (gives out medicines), lab technician (tests blood), ambulance driver (brings patients quickly)."},
+    {"q": "Why do people keep money in a bank, and what is an ATM?", "a": "A bank keeps money safe and helps people save for the future (and gives loans, pays bills). An ATM, Automated Teller Machine, lets you take out money from your account at any time."},
+    {"q": "What was the problem with the barter system?", "a": "It was hard to find someone who had what you wanted and wanted what you had, and to agree how much of one thing equals another. Money made exchange simple."},
+    {"q": "On a map, where are north, south, east and west? How can you find east outdoors?", "a": "North is at the top, south at the bottom, east on the right and west on the left. The sun rises in the east; or use a shadow stick: the shadow tip moves from west to east."},
+    {"q": "Why does the string telephone need a tight string?", "a": "Sound is made of vibrations. A tight string carries the vibrations from one cup to the other; a loose or pinched string cannot pass them on."}
+  ]
+}
