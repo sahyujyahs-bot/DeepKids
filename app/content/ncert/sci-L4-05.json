@@ -1,0 +1,574 @@
+{
+  "key": "ncert|sci|4|5",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 4,
+  "n": 5,
+  "title": "Food for Health",
+  "source": "NCERT Our Wondrous World, Class 4, Chapter 5 (pages 71–84), Reprint 2026-27",
+  "summary": "At a school food festival, children taste dishes from all over India, guess the six tastes in Ugadi Pachadi, discover millets as 'super food', and learn that food gives us energy, builds our bodies and protects us from disease. Your child keeps a food diary, sorts foods into the three groups, tests foods for starch, learns why junk food should be eaten rarely, designs a balanced plate and a regional thali, finds out why water matters, sorts dishes by cooking method and reads a food label.",
+  "goals": [
+    "By the end your child can name the six tastes (shad rasa: sweet, sour, salty, pungent, bitter, astringent) with an example of each, and explain that much of what we call 'taste' is really smell.",
+    "By the end your child can sort common Indian foods into energy-giving, body-building and protective foods and explain what each group does.",
+    "By the end your child can explain why millets are called 'super food' and name a millet dish made at home.",
+    "By the end your child can say why junk food is unhealthy when eaten often, read a food label for expiry date and ingredients, and keep a week's food diary that spots missing food groups.",
+    "By the end your child can draw a balanced plate, describe a regional thali, explain why we need water, and sort dishes by cooking method (steaming, boiling, frying, roasting, grilling, baking).",
+    "By the end your child can test a food for starch, explain how salt, sugar and cold stop food from spoiling, and describe how scientists corrected wrong ideas about taste."
+  ],
+  "words": [
+    ["shad rasa", "the six tastes in Ayurveda: sweet (meetha), sour (khatta), salty (namkeen), pungent (teekha), bitter (karva) and astringent (kasaila)"],
+    ["astringent", "the dry, puckery feeling in the mouth from raw mango, raw banana, amla or strong tea"],
+    ["millet", "small, hardy grains such as jowar (sorghum), bajra (pearl millet) and ragi (finger millet), rich in fibre and minerals"],
+    ["nutrient", "a substance in food that the body needs to grow, get energy and stay healthy, such as carbohydrates, fats, proteins, vitamins and minerals"],
+    ["energy-giving food", "food rich in carbohydrates (starch and sugar) or fat, like rice, wheat, potato, banana, honey, ghee and oil, which gives the body fuel"],
+    ["body-building food", "food rich in protein, like dal, chana, rajma, soybean, peanuts, milk, paneer, eggs, fish and meat, which builds muscles and helps us grow"],
+    ["protective food", "fruits and vegetables, rich in vitamins and minerals, like amla, guava, papaya, spinach, carrot and tomato, which help the body fight disease"],
+    ["starch", "the main stored energy food in grains and potatoes; it turns blue-black with iodine"],
+    ["junk food", "food with a lot of oil, salt or sugar and little goodness, like chips, soft drinks, burgers and over-processed packaged snacks"],
+    ["balanced plate", "a meal with foods from all three groups in the right amounts: protective foods the most, then body-building foods, and some energy-giving foods"],
+    ["expiry date", "the date on a food packet after which the food should not be eaten; 'best before' says until when it stays at its best"],
+    ["solar cooker", "a box or dish that traps sunlight to cook food without fire, smoke or ash"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "The food festival",
+      "goal": "Start from what our family eats, visit the food festival stalls, find where the dishes come from, start a week's food diary and set up a food-spoiling experiment.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Yesterday's plate",
+          "mins": 5,
+          "do": "Ask your child: 'Tell me everything you ate and drank yesterday, from morning to night.' Write the list as they speak. Then ask: 'Which meal was your favourite? Which food came from a plant, which from an animal? Which was made at home and which came in a packet?' Keep the list: it becomes Day 1 of the food diary."
+        },
+        {
+          "kind": "read",
+          "title": "The food festival (pages 71–73)",
+          "mins": 10,
+          "do": "Read pages 71–72 aloud and look at the pictures of the stalls: fresh fruit, sprouts, dhokla, litti-chowkha, dal-baati-churma, bajre-ki-khichdi, chhena-poda, kadhi-pakoda, ker-sangri, siddu, roasted corn, chutney, dosa, vada, jowar upma, ragi laddu. On a map of India (phone or atlas), find where each comes from with your child: dhokla (Gujarat), litti-chowkha (Bihar), dal-baati-churma and ker-sangri (Rajasthan), chhena-poda (Odisha, a baked cheese sweet), siddu (Himachal Pradesh, a steamed stuffed bread), dosa and vada (south India), bajre-ki-khichdi (Rajasthan and Haryana). Ask: 'Which have you eaten? Which would you like to try?'"
+        },
+        {
+          "kind": "talk",
+          "title": "Our own food festival list (page 73)",
+          "mins": 5,
+          "do": "Do the task at the top of page 73: 'If you had to organise a food festival, which dishes would you include?' Your child makes a list of at least eight dishes: some from your own family and region, some from other states, and at least one sweet, one millet dish and one dish with no cooking at all (a fruit chaat or salad). Keep it for the Day 8 home food festival."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: Start the food diary (page 79)",
+          "mins": 8,
+          "do": "Start Activity a1, the food diary from Activity 1 on page 79. Rule a table in the notebook for 7 days with rows for breakfast, lunch, dinner, and add a row for snacks and drinks. Copy yesterday's list into Day 1. The book's example is idli, sambhar and chutney for breakfast. Tell your child they will fill it in every evening this week, and on Day 5 they will circle healthy items and mark unhealthy ones with an X.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the spoil-or-keep lemon test",
+          "mins": 17,
+          "do": "Set up Experiment e2. Cut a lemon (or a cucumber) into 4 thick slices and put each in a clean small glass bowl or steel katori. Label them: 'Plain', 'Salt', 'Sugar', 'Fridge'. Leave the first plain on the kitchen shelf; cover the second completely with salt; cover the third completely with sugar; put the fourth, plain, in the fridge. Cover all four loosely with a plate. Ask your child to guess first which will go bad first and which will last longest, and write the guesses on a slip. Explain: 'Grandmothers keep nimbu achar for a year without a fridge. We will find out how.' Your child draws all four today.",
+          "ref": "e2"
+        }
+      ],
+      "need": ["Textbook pages 71–73 and 79", "a map of India (phone or atlas)", "notebook", "1 lemon (or a cucumber), a knife (adult)", "4 small bowls or katoris and plates to cover them", "salt and sugar, about a cup each", "labels and a pencil"],
+      "prep": [{"task": "Buy a lemon and keep a cup each of salt and sugar for the experiment", "when": "night before"}]
+    },
+    {
+      "n": 2,
+      "title": "Mystery Masala: the six tastes",
+      "goal": "Taste the six tastes of shad rasa ourselves, find foods for each, discover how much of flavour comes from the nose, and hear how scientists corrected wrong ideas about taste.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Mystery Masala and Ugadi Pachadi (page 73)",
+          "mins": 6,
+          "do": "Read 'Mystery Masala' on page 73 aloud: Mukesh and his friends taste a food that is sweet, salty and bitter all at once, and learn it is Ugadi Pachadi, made for the Ugadi new year in Andhra Pradesh, Karnataka and Telangana, with six tastes: sweet (meetha), sour (khatta), salty (namkeen), pungent (teekha), bitter (karva) and astringent (kasaila). Tell your child what goes into it: jaggery (sweet), tamarind (sour), salt, green chilli or pepper (pungent), neem flowers (bitter) and raw mango (astringent and sour). Ask: 'Why do you think it is eaten on new year's day?' (It is said to remind us that life brings all kinds of experiences, sweet and bitter.)"
+        },
+        {
+          "kind": "do",
+          "title": "Six-taste plate and table (page 74)",
+          "mins": 12,
+          "do": "Put six tiny tastes on a steel plate: a crumb of jaggery, a drop of tamarind water or lemon, a pinch of salt, a sliver of green chilli or a crushed peppercorn (tiny!), a bit of bitter gourd (karela), a neem leaf or a fenugreek seed, and a piece of raw mango, raw banana, amla or a sip of strong tea. Your child tastes each with eyes closed, sips water in between, and says which taste it is. Then do the table on page 74: five foods for each taste, after the book's examples (jaggery, tamarind, salt, green chilli, neem, raw mango). Then do the discussion task: name foods with at least three tastes (sambhar: sour, salty, pungent; chaat: sweet, sour, salty, pungent; Ugadi Pachadi: all six). Read the 'Do you know?' box on page 74 about shad rasa in Ayurveda."
+        },
+        {
+          "kind": "exp",
+          "title": "Hold your nose: taste or smell?",
+          "mins": 10,
+          "do": "Do Experiment e3. While your child looks away, cut small cubes of the same size of raw apple, raw potato and raw pear, or cucumber, and put them on three spoons. Blindfold your child with a dupatta. They pinch their nose shut, chew one cube and guess what it is, then let go of their nose and keep chewing. Repeat for each. Ask them to guess first whether holding the nose will make any difference. Record: guessed right with nose closed? With nose open? Then try a pinch of sugar and a pinch of salt with the nose closed.",
+          "ref": "e3"
+        },
+        {
+          "kind": "think",
+          "title": "Ikeda's fifth taste and the tongue map",
+          "mins": 12,
+          "do": "Tell the story in Voice v1: a Japanese chemist, Kikunae Ikeda, wondered why his wife's seaweed soup tasted so good, and in 1908 he found a taste that was not sweet, sour, salty or bitter, which he called umami. Then tell the story in Voice v2: for most of the 1900s, school books showed a 'tongue map' with sweet at the tip and bitter at the back, and it was wrong. Test it right away: your child puts a little sugar on the back of the tongue and a little bitter karela juice on the tip. Can they taste both? (Yes.) Ask both voice questions.",
+          "ref": "v2"
+        },
+        {
+          "kind": "talk",
+          "title": "Umami at home",
+          "mins": 5,
+          "do": "Ask: 'Which foods in our kitchen might have the umami, savoury taste?' Help them find: ripe tomatoes, tomato ketchup, mushrooms, paneer and cheese, dal and rasam, dried fish, soy sauce. Ask Voice v1's question if you have not yet: 'Why do you think it took nearly a hundred years for scientists everywhere to agree umami is a real taste?' Tell them the astringent taste of Ayurveda is felt as a dry, puckering touch on the tongue rather than through taste buds, which is why modern scientists do not count it among the basic tastes.",
+          "ref": "v1"
+        }
+      ],
+      "need": ["Textbook pages 73–74", "a crumb of jaggery, tamarind or lemon, salt, a green chilli or peppercorn, a slice of karela, a neem leaf or methi seed, raw mango or amla", "a raw apple, raw potato and a pear or cucumber, a knife (adult)", "3 spoons, a dupatta for a blindfold, water"],
+      "prep": [{"task": "Buy a karela, amla or raw mango, an apple and a pear for the taste tests", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "Millets and the three food groups",
+      "goal": "Find out why millets are called super food, see why we need many kinds of food, and sort our own kitchen into energy-giving, body-building and protective foods.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Lemon test check",
+          "mins": 3,
+          "do": "Check Experiment e2. Your child draws all four lemon slices and notes any change: drying, browning, softness, juice coming out, any spots of white or green mould. Ask: 'Has the salt or sugar become wet? Where did that water come from?' (Out of the lemon.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "read",
+          "title": "A stall of 'super food' (pages 74–75)",
+          "mins": 9,
+          "do": "Read 'A Stall of Super Food' on page 74: Surbhi remembers that her grandmother ate jowar and bajra roti in winter and jau (barley) roti in summer, and the children order jowar upma. Ask: 'Why do you think Grandmother changed the roti with the season?' (Elders believe bajra keeps the body warm in winter and jau is cooling in summer; and different grains grow in different seasons.) Show your child any millets you have: jowar, bajra, ragi, or packets of millet flour. Tell them millets grow with little water and in poor soil, are rich in fibre and minerals (ragi is especially rich in calcium for bones, bajra in iron), and that 2023 was named the International Year of Millets by the United Nations after India proposed it. Do the page 75 task: your child asks a family member about one millet food made at home (bajre ki roti, ragi mudde, ragi dosa, jowar bhakri, makka roti is maize, not a millet) and writes how it is made."
+        },
+        {
+          "kind": "read",
+          "title": "How does food help us? (pages 75–77)",
+          "mins": 8,
+          "do": "Read 'How Does Food Help Us?' on page 75: the banner 'Colours on Plate, Wellness in Life'. Ask the page 75 question: 'Why do we need to eat different kinds of food items?' (No single food has all the nutrients the body needs.) Read page 76 and the three food groups on page 77. For each group your child says in their own words what it does: energy-giving foods are fuel, like petrol for a scooter; body-building foods are bricks for building and repairing muscles, bones and skin; protective foods are the guards that help the body fight disease and keep eyes, skin and gums healthy."
+        },
+        {
+          "kind": "do",
+          "title": "Kitchen sort",
+          "mins": 13,
+          "do": "Put three steel plates on the floor labelled 'Energy', 'Body-building', 'Protective'. Your child goes through the kitchen and places one real item (or a slip with its name) on each plate: rice, atta, potato, banana, sugar, ghee, oil and jaggery on Energy; dals, rajma, chana, peanuts, milk, curd, paneer, eggs on Body-building; spinach, tomato, carrot, onion, lemon, amla, guava, papaya on Protective. Discuss tricky ones: 'Peanuts? (body-building, but also rich in energy-giving oil.) Milk? (body-building, and gives calcium too.) Millets? (mostly energy, with some protein and many minerals.)' Explain that many foods belong to more than one group; we sort by what they give most."
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet: Tastes and food groups",
+          "mins": 12,
+          "do": "Do Worksheet ws1 (core). Read each item aloud if needed. Mark it together; for any wrong answer, go back to the page it comes from (pages 73–74 for tastes, pages 74–75 for millets, pages 76–77 for food groups).",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["the lemon slices from Day 1", "Textbook pages 74–77", "any millets or millet flour you have", "3 steel plates and paper labels", "foods from the kitchen", "worksheet ws1"],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Finding the energy: the starch test",
+      "goal": "Test foods for starch to see which are energy-giving, find out what happens if we eat from only one group, and hear how an Indian woman scientist studied the food of India's poor.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The iodine starch test",
+          "mins": 16,
+          "do": "Do Experiment e1 (adult handles the iodine). On a steel or white plate, put a small piece each of raw potato, cooked rice, bread, a slice of banana, paneer or boiled egg white, cucumber and apple, plus a pinch of sugar and of atta. Mix 5 drops of tincture of iodine or povidone-iodine antiseptic (such as Betadine) with 2 spoons of water in a cup. Ask your child to guess first which foods will turn blue-black. With a dropper or straw, the adult puts one drop on each food. Watch for 1 minute. Your child records a tick for blue-black (starch) and a cross for brown-yellow (no starch). Then throw away all the tested food.",
+          "ref": "e1"
+        },
+        {
+          "kind": "talk",
+          "title": "What if we ate from only one group? (page 77)",
+          "mins": 8,
+          "do": "Ask the question at the bottom of page 77: 'What will happen if we eat food from a single group of foods every day?' Work through each case: only energy foods (rice, potatoes, sweets): enough fuel, but weak muscles, slow growth and falling sick often, and too much can make the body fat; only body-building foods: the body would use the protein as fuel and feel tired, and miss vitamins; only protective foods: lots of vitamins, but not enough fuel or bricks, so the child would be thin and tired. Tell them that sailors on long voyages long ago, who had no fresh fruit or vegetables for months, got a disease called scurvy, with bleeding gums, which was cured by lemons and oranges, rich in vitamin C."
+        },
+        {
+          "kind": "think",
+          "title": "Kamala Sohonie: food for the poorest",
+          "mins": 10,
+          "do": "Tell the story in Voice v3 in your own words: Kamala Sohonie was at first refused a research place at the Indian Institute of Science because she was a woman, proved herself, became the first Indian woman to get a PhD in science, and later studied cheap, local foods like neera (palm sap) to improve the health of poor children. Ask: 'Why is it important for scientists to study foods that poor families can actually afford, not only expensive ones?' Then ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "game",
+          "title": "Nutrient Ninjas",
+          "mins": 11,
+          "do": "Play the DeepKids game 'Nutrient Ninjas'. Make 16 food cards, each with a food, its group symbol (E for energy, B for body-building, P for protective) and a price: roti ₹5 (E), rice ₹10 (E), banana ₹6 (E), dal ₹15 (B), egg ₹7 (B), paneer ₹20 (B), chana ₹10 (B), curd ₹10 (B), guava ₹10 (P), carrot ₹5 (P), spinach ₹8 (P), orange ₹10 (P), chips ₹20 (junk), cold drink ₹25 (junk), poha ₹8 (E), sprouts ₹10 (B and P). Deal 6 cards each. Read a challenge card: 'A tiffin with all three groups under ₹40', 'Breakfast for a cricketer before a match', 'A dinner that protects you from a cold'. Each player builds an answer from their hand; the other scores it: 1 point per group covered, minus 2 for any junk card, minus 1 if over budget. Play 4 challenges."
+        }
+      ],
+      "need": ["a small piece each of raw potato, cooked rice, bread, banana, paneer or boiled egg white, cucumber and apple", "a pinch of sugar and atta", "tincture of iodine or povidone-iodine antiseptic, a cup, a dropper or straw", "a white or steel plate", "16 food cards and 4 challenge cards made from paper"],
+      "prep": [{"task": "Buy or find a small bottle of povidone-iodine antiseptic (or tincture of iodine), and make the Nutrient Ninjas cards", "when": "2 days before"}]
+    },
+    {
+      "n": 5,
+      "title": "Say 'No' to junk food, and read the label",
+      "goal": "Find out what makes junk food unhealthy, see how much sugar hides in a drink, read a real food label, and review the food diary.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Say 'No' to junk food (page 78)",
+          "mins": 6,
+          "do": "Read page 78 aloud: some foods are unhealthy if eaten regularly and in large amounts, because they contain a lot of oil, salt and sugar; examples are soft drinks, chips, bread pakoda, burgers, pizza and over-processed packaged food; fresh home-cooked food is better. Ask the three questions on page 78: name more junk foods (instant noodles, packaged namkeen, candy, sugary cereals, cream biscuits, French fries); why avoid them (they fill us up without giving us the bricks and guards we need, too much sugar rots teeth and too much salt is bad for the heart and blood pressure later, too much oil and sugar adds body fat); and which junk foods they will try to avoid. Make it fair: 'Is one samosa at a festival a problem?' (No; the problem is eating them often.)"
+        },
+        {
+          "kind": "do",
+          "title": "Book activity 2: Check the label (page 83)",
+          "mins": 12,
+          "do": "Do question 2 on page 83. First look at the honey label in the book together: net weight 400 gram, packed on 08.03.2025, best before 07.03.2026. Ask: 'For how long is this honey good?' (One year.) Then your child picks two packaged foods from your kitchen: one everyday (atta, biscuits, a jam) and one snack (chips, a cold drink, noodles). For each they write the expiry or best-before date and the first two ingredients (the first ingredient is the one there is most of). On the snack, find the 'Nutrition information' table and the sugar and salt (sodium) numbers. Ask question (b): 'Why is it important to check labels?' (To avoid food that is too old and may make us sick, to know what is inside, and to spot ingredients someone is allergic to.)"
+        },
+        {
+          "kind": "do",
+          "title": "How much sugar in a cold drink?",
+          "mins": 8,
+          "do": "Take the sugar figure from a cold-drink or packaged-juice label (a 300 ml bottle of cola often has about 30 grams; use your label's real number). One level teaspoon of sugar weighs about 4 grams. Your child works out how many teaspoons are in the bottle (30 ÷ 4 = about 7 or 8) and spoons that much sugar into a glass. Then put the same amount of water in another glass. Ask: 'Would you eat this many spoons of sugar straight? Then why is it easy to drink it?' (The bubbles, cold and flavour hide the sweetness.) Compare with nimbu pani made with one spoon of sugar."
+        },
+        {
+          "kind": "exp",
+          "title": "Lemon test check",
+          "mins": 4,
+          "do": "Check Experiment e2. Your child draws all four slices again. The plain slice on the shelf may now show mould, smell sour or look slimy; the salt and sugar slices may look shrunken but clean; the fridge slice may look almost fresh. Ask: 'Which is changing fastest? Is it what you guessed?' Do not taste any of them.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Food diary review (page 79)",
+          "mins": 15,
+          "do": "Go through Activity a1 with your child, as Activity 1 on page 79 asks. Question 2: they circle the healthy items and put an X on the unhealthy ones. Question 3: they write E, B or P next to each food and look for a group that is missing or very small on some days (often protective foods at breakfast, or body-building foods at dinner). Then plan with you: 'How can we add the missing group tomorrow?' For example: a fruit with breakfast, sprouts in the evening, a bowl of curd or dal with dinner. Write two changes at the bottom of the diary and try them for the rest of the week.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["Textbook pages 78–79 and 83", "2 packaged foods from the kitchen, including a cold drink or packaged juice", "sugar, a teaspoon, 2 glasses", "the lemon slices", "the food diary"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "A balanced plate, a regional thali, and water",
+      "goal": "Draw and build a balanced plate, find out about the thali of our region, and learn why water is part of a healthy diet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "A balanced food plate (page 79)",
+          "mins": 5,
+          "do": "Read 'A Balanced Food Plate' on page 79: it has food from all three groups in the right amounts, with protective foods (fruits and vegetables) the most, then body-building foods, and some energy-giving foods. Ask: 'Look at our usual lunch. Which group takes up most of the plate?' (In many Indian homes, the rice or roti takes the most room.) 'What would we change to match the book's plate?'"
+        },
+        {
+          "kind": "act",
+          "title": "Build a real balanced plate",
+          "mins": 12,
+          "do": "Do Activity a2. On a round steel thali or a paper plate drawn in the notebook, your child plans and builds today's lunch to match page 79: half the plate vegetables and fruit (a sabzi, a salad of cucumber, carrot and tomato, a piece of guava), a quarter body-building food (dal, chana, curd or paneer, or egg, fish or chicken), and a quarter energy food (roti, rice or millet bhakri), with a little ghee or oil. Your child draws it in the notebook and labels each part E, B or P. Then the family eats it at lunch.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "The thali of our region (page 80)",
+          "mins": 7,
+          "do": "Read the top of page 80: every region of India has a special thali with a variety of foods and tastes, and Atul and his friends are excited to taste it. Do the task: your child lists the items in a thali from your region, with help from an elder. Examples: a Gujarati thali (dal, kadhi, two sabzis, rotli, rice, farsan like dhokla, a sweet, chaas); a south Indian meal on a banana leaf (rice, sambhar, rasam, poriyal, kootu, curd, pickle, payasam); a Bengali thali (rice, shukto, dal, fish curry, chutney, mishti doi). Your child marks each item E, B or P and names its main taste. Ask: 'Is your thali balanced? How many of the six tastes does it have?'"
+        },
+        {
+          "kind": "read",
+          "title": "Water for health (page 80)",
+          "mins": 8,
+          "do": "Read 'Water for Health' on page 80: water helps digest food, keeps skin and body healthy, removes waste through urine, sweat and faeces, and water-rich fruits like watermelon and cucumber also help. Ask: 'When do you need more water?' (On hot days, after running and playing, when you have a fever or loose motions.) Tell your child a simple body check: pale yellow urine means you are drinking enough; dark yellow means drink more. Most children need about 6 to 8 glasses of water a day, more in summer. Your child makes a water chart for tomorrow with 8 boxes to tick each time they finish a glass."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet: Plates, labels and new cases",
+          "mins": 13,
+          "do": "Do Worksheet ws2 (stretch). It applies the chapter to new situations, such as fixing an unbalanced tiffin and reading a label. Let your child explain each answer aloud before writing.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 79–80", "a steel thali or a paper plate", "the foods for a balanced lunch", "a paper for the water chart", "worksheet ws2"],
+      "prep": [{"task": "Plan lunch so that it can include a sabzi, a salad, a fruit, a dal or curd and roti or rice", "when": "morning"}]
+    },
+    {
+      "n": 7,
+      "title": "Different methods of cooking and a solar cooker",
+      "goal": "Sort dishes by how they are cooked, help cook a dish, think about why everyone should know how to cook, and build a solar cooker.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Cooking methods table (page 81)",
+          "mins": 10,
+          "do": "Read page 81: Surbhi and her friends wonder how the festival foods were made. Copy the table: Methods of cooking (steaming, boiling, frying, roasting, grilling, baking) and Food. The book's example is idiyappam (steaming). Your child places each dish from the book's list: idli (steaming), dosa (roasting on a hot tawa; some call it shallow frying), rice (boiling), sambhar (boiling), papad (roasting on a flame, or frying), kheer (boiling), samosa (frying), peda (cooking milk down by slow boiling and stirring), gulab jamun (frying, then soaking in syrup). Then they add at least two more foods to each row from home: dhokla and momos (steaming), dal and chai (boiling), puri and pakoda (frying), roasted corn and phulka (roasting), paneer tikka (grilling), cake, bread and naan in a tandoor (baking). Read the line on page 82 about foods eaten without cooking: fruit chaat, salads."
+        },
+        {
+          "kind": "talk",
+          "title": "Steam or fry? Which is healthier?",
+          "mins": 6,
+          "do": "Ask: 'Idli is steamed and vada is fried, but both are made of rice and urad dal batter. Which is healthier to eat every day, and why?' (Idli, because frying makes food soak up oil, which adds a lot of energy-rich fat.) Then ask: 'Why do we cook food at all?' (To make it soft and easy to digest, to kill germs, and to make it tasty; raw rice and raw dal cannot be digested well.) 'Which foods lose some goodness if overcooked?' (Vegetables, which lose some vitamins, especially vitamin C, if boiled too long; so cook them lightly and use the cooking water in the dal.)"
+        },
+        {
+          "kind": "act",
+          "title": "Help cook, and the chef questions (page 82)",
+          "mins": 12,
+          "do": "Your child helps an adult make one simple dish using a method from the table: for example, washing and steaming idlis, boiling and tempering dal, or making a fruit chaat with no cooking. They measure, wash, stir and serve, while the adult handles the flame and knife. Then read the 'Do you know?' box on page 82 about the word 'chef' (French for 'head' or 'director' of the kitchen) and answer the two questions on page 82: 'Do you help in cooking at home?' and 'Do you think all family members should know how to cook? Why?' (Yes: everyone eats, so everyone can help; if one person is ill or away, others can still eat well; and cooking is a life skill for boys and girls alike.)"
+        },
+        {
+          "kind": "act",
+          "title": "Build a box solar cooker (page 82)",
+          "mins": 17,
+          "do": "Read the 'Do you know?' box on page 82: a solar cooker uses sunlight instead of gas or electricity, and makes no smoke or ash. Do Activity a3: line a shoebox with black paper, cover the inside of its lid flap with aluminium foil to act as a mirror, and cover the box opening tightly with cling film. Put a small steel katori with a spoon of butter, a piece of chocolate or a small piece of jaggery inside. Prop the foil flap so it reflects sunlight into the box and place it in strong sun. Ask your child to guess how long the butter will take to melt. Check every 10 minutes. Ask: 'Why black inside? Why foil? Why the cling film?'",
+          "ref": "a3"
+        }
+      ],
+      "need": ["Textbook pages 81–82", "ingredients for one simple dish", "a shoebox with a lid, black paper, aluminium foil, cling film, glue and tape, a stick to prop the lid", "a small steel katori, a spoon of butter or a piece of chocolate or jaggery", "a sunny spot"],
+      "prep": [{"task": "Collect a shoebox, black paper, foil and cling film for the solar cooker", "when": "2 days before"}]
+    },
+    {
+      "n": 8,
+      "title": "Our home food festival: check and teach it back",
+      "goal": "Finish the spoil test, make a food collage, solve the word puzzle, hold a small home food festival, check understanding and teach the chapter back.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Spoil-or-keep results",
+          "mins": 6,
+          "do": "Finish Experiment e2. Lay out the four lemon slices (look; do not taste or sniff from too close). Your child fills in a results table: slice, how it looked on Day 1, how it looks today, mould yes/no. Ask: 'Which lasted best? Why did the salt and sugar ones not grow mould even though they sat on the shelf?' Read the 'why' of e2 together. Ask: 'Now can you explain how nimbu achar and murabba keep for months?' Then throw all four away and wash the bowls with soap.",
+          "ref": "e2"
+        },
+        {
+          "kind": "act",
+          "title": "Food collage and word puzzle (pages 83–84)",
+          "mins": 10,
+          "do": "Do question 1 on page 83, the food collage: divide a sheet into three sections, energy-giving, body-building and protective foods, and paste pictures of food cut from old magazines, newspapers and leaflets. Ask your child to put one picture of junk food outside all three sections, with a reason. Then do question 4 on page 84: circle the food words hidden in the grid, such as MANGO, TOMATO, WATER and AMLA, and say which food group each belongs to."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 9,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the page with your child for one minute, then ask again in different words. Most children get 6 or more right; fewer than 5 means repeat the Day 3 kitchen sort and the Day 6 balanced plate next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Do Worksheet ws3 (challenge). It has puzzles, 'what if' questions and a section comparing views on taste. Your child can answer the write items aloud while you scribe. Praise answers that use evidence from this week's tests.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Home food festival and teach it back (page 84)",
+          "mins": 12,
+          "do": "Do question 3 on page 84 at home: for dinner, your child chooses two dishes from their Day 1 festival list that the family can make, and runs a 'stall', with a small card for each dish saying where it comes from, its main tastes, its food groups and how it was cooked. Then they teach it back: in 5 minutes they explain to the family the six tastes, the three food groups, why junk food is a 'sometimes' food, what a balanced plate looks like, why we drink water, and how salt and sugar keep food from spoiling. Ask two 'student' questions: 'Why did the potato turn blue-black with iodine?' and 'Why couldn't you tell apple from potato with your nose closed?' Keep using the food diary from Activity a1 for one more week with the two changes you planned.",
+          "ref": "a1"
+        }
+      ],
+      "need": ["the four lemon slices", "Textbook pages 83–84", "old magazines and newspapers, scissors, glue, a sheet of paper", "worksheet ws3", "ingredients for two festival dishes", "small cards for the 'stall'"],
+      "prep": [{"task": "Plan and buy ingredients for the two dishes your child chose for the home food festival", "when": "night before"}]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Tastes, millets and food groups",
+      "day": 3,
+      "sections": [
+        ["A. The six tastes", [
+          {"t": "match", "p": "Match each taste to a food.", "pairs": [["Sweet", "Jaggery"], ["Sour", "Tamarind"], ["Salty", "Salt"], ["Pungent", "Green chilli"], ["Bitter", "Neem"], ["Astringent", "Raw mango"]]},
+          {"t": "fill", "p": "The six tastes are called ____ rasa in Ayurveda.", "a": ["shad", "shada"]},
+          {"t": "mcq", "p": "Ugadi Pachadi is special because:", "opts": ["It is very spicy", "It has all six tastes blended together", "It is made of millets only", "It is eaten cold"], "a": 1}
+        ]],
+        ["B. Millets", [
+          {"t": "sort", "p": "Which of these are millets?", "items": ["Jowar", "Bajra", "Ragi", "Rice", "Wheat", "Maize"], "cats": ["Millet", "Not a millet"]},
+          {"t": "write", "p": "Surbhi's grandmother ate bajra roti in winter and jau roti in summer. Write one millet food made in your home and how it is made.", "lines": 2}
+        ]],
+        ["C. Food groups", [
+          {"t": "sort", "p": "Sort these foods into their main food group.", "items": ["Rice", "Ghee", "Honey", "Dal", "Paneer", "Egg", "Spinach", "Amla", "Papaya", "Potato", "Peanuts", "Carrot"], "cats": ["Energy-giving", "Body-building", "Protective"]},
+          {"t": "mcq", "p": "Why do we need to eat many kinds of food?", "opts": ["Because one kind is boring", "Because no single food has all the nutrients our body needs", "Because the shop has many kinds", "We do not need to"], "a": 1},
+          {"t": "fill", "p": "Fruits and vegetables help us fight diseases, so they are called ____ foods.", "a": ["protective"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Plates, labels and new cases",
+      "day": 6,
+      "sections": [
+        ["A. Fix the tiffin", [
+          {"t": "write", "p": "Rohan's tiffin every day is aloo paratha with butter and a packet of chips. Which food groups are missing? Change two things to balance it.", "lines": 3},
+          {"t": "draw", "p": "Draw a balanced plate for dinner. Label E, B or P on each food and make protective foods the biggest part."},
+          {"t": "mcq", "p": "A cricketer has a long match tomorrow. Which breakfast gives energy, body-building food and protection?", "opts": ["Two packets of biscuits", "Poha with peanuts and vegetables, a glass of milk and a banana", "A cold drink and chips", "Only an apple"], "a": 1}
+        ]],
+        ["B. Reading labels", [
+          {"t": "mcq", "p": "A jar of jam says 'Best before: 6 months from packing. Packed on: 10.01.2026'. Until when is it best to eat it?", "opts": ["10.01.2026", "10.07.2026", "10.01.2027", "Forever"], "a": 1},
+          {"t": "fill", "p": "On a food label, the ingredient written ____ is the one there is most of.", "a": ["first"]},
+          {"t": "write", "p": "A 300 ml bottle of cold drink has 32 grams of sugar. One teaspoon of sugar is about 4 grams. How many teaspoons is that? Show your working.", "lines": 2}
+        ]],
+        ["C. Cooking and water", [
+          {"t": "match", "p": "Match each dish to its cooking method.", "pairs": [["Idli", "Steaming"], ["Samosa", "Frying"], ["Rice", "Boiling"], ["Bread", "Baking"], ["Roasted corn (bhutta)", "Roasting"]]},
+          {"t": "write", "p": "On a hot day, Meera played football for an hour and her urine became dark yellow. What does her body need, and which foods could also help?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Food puzzles and how science changed its mind",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "In the iodine test, raw potato turned blue-black but cucumber did not. Bread turned blue-black too. What does that tell you about where bread's energy comes from?", "lines": 2},
+          {"t": "write", "p": "With a cold, food seems to 'have no taste'. Using your nose test, explain why.", "lines": 3},
+          {"t": "mcq", "p": "Why did the lemon slice covered in salt not grow mould, even on the kitchen shelf?", "opts": ["Salt is cold", "Salt pulls water out, and germs and moulds cannot grow without water", "Salt is a kind of mould", "Lemons do not grow mould"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if a family ate only rice and potatoes for a month? What might happen to them, and why?", "lines": 3},
+          {"t": "write", "p": "What if there were no fridges anywhere? Write three ways your family could still keep food from spoiling.", "lines": 3}
+        ]],
+        ["C. Comparing views", [
+          {"t": "write", "p": "For about 80 years, many school books showed a 'tongue map' with sweet only at the tip. Your own test showed you can taste sweet at the back too. Why do you think the wrong map lasted so long?", "lines": 3},
+          {"t": "mcq", "p": "Kikunae Ikeda said umami is a real basic taste in 1908. What evidence finally convinced most scientists, around the year 2000?", "opts": ["A famous chef said so", "Scientists found special receptors on the tongue that detect glutamate", "People voted", "A new soup became popular"], "a": 1},
+          {"t": "write", "p": "Ayurveda counts astringent (kasaila) as a taste, but many modern scientists say it is a feeling of touch, not a taste. What test could help decide?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Which foods have starch? The iodine test",
+      "day": 4,
+      "question": "Energy-giving foods like rice, wheat and potato are rich in starch (page 77). Which foods turn blue-black with iodine, showing they contain starch?",
+      "need": ["tincture of iodine or povidone-iodine antiseptic (for example Betadine)", "a cup and 2 spoons of water", "a dropper or a straw", "a white or steel plate", "small pieces of raw potato, cooked rice, bread, banana, paneer or boiled egg white, cucumber and apple", "a pinch of sugar and a pinch of atta"],
+      "steps": [
+        "An adult mixes 5 drops of iodine with 2 spoons of water in a cup.",
+        "Put a small piece of each food in a row on the plate, with a label beside it.",
+        "The adult puts one drop of iodine solution on each food.",
+        "Watch for 1 minute. A blue-black colour means starch; a brown or yellow-orange colour means little or no starch.",
+        "Record each result as a tick or a cross in a table.",
+        "Throw away all the tested food and wash the plate."
+      ],
+      "predict": "Ask your child to guess first: which foods will turn blue-black? Will sugar, which is very sweet and gives energy, turn blue-black too?",
+      "observe": "Potato, rice, bread and atta turn blue-black; green banana does strongly, ripe banana less. Paneer, egg white, cucumber and sugar stay brown-yellow. Apple may show a little starch if it is not fully ripe.",
+      "why": "Plants store the food they make as starch, packed in their seeds (rice, wheat, millets), underground stems (potato) and some fruits (unripe banana). Starch is made of long chains of sugar units joined together, and the iodine fits inside the coiled chains, which makes the blue-black colour. When our body digests starch, it breaks these chains back into sugar, which our cells burn for energy. Table sugar gives energy too, but it is not starch, so it does not change colour. As a banana ripens, its starch turns into sugar, which is why a ripe banana is sweeter and turns less blue. Paneer and egg white are mostly protein and fat, the body-building foods, so they show no starch.",
+      "safety": "Iodine is poisonous to drink and stains skin and clothes. Only an adult should handle it. Never eat food that has iodine on it; throw it away. Wash hands afterwards.",
+      "time": "16 min"
+    },
+    {
+      "id": "e2",
+      "title": "Spoil or keep? The lemon slice test",
+      "day": 1,
+      "question": "Why does food spoil, and how do salt, sugar and cold keep it fresh for longer? (Links to junk food, labels and traditional pickles.)",
+      "need": ["1 lemon (or a cucumber) cut into 4 thick slices by an adult", "4 small glass bowls or steel katoris", "about a cup of salt and a cup of sugar", "plates to cover the bowls loosely", "space in the fridge", "labels and a pencil"],
+      "steps": [
+        "Put one slice in each bowl and label them: Plain, Salt, Sugar, Fridge.",
+        "Cover the 'Salt' slice completely with salt and the 'Sugar' slice completely with sugar.",
+        "Keep Plain, Salt and Sugar on the kitchen shelf. Put Fridge in the fridge. Cover all loosely with a plate.",
+        "Draw all four on Day 1.",
+        "Look and draw them again on Days 3, 5 and 8: note colour, softness, smell from a little distance, and any white, green or black spots of mould.",
+        "On Day 8, fill in a results table and then throw them all away."
+      ],
+      "predict": "Ask your child to guess first: which slice will go bad first? Which will last longest? Will salt and sugar work the same way?",
+      "observe": "The plain slice on the shelf usually softens, smells sour and grows mould within a few days. The salt and sugar slices shrink as juice is drawn out (the salt or sugar becomes wet and syrupy) but grow little or no mould. The fridge slice changes slowly and stays nearly fresh.",
+      "why": "Food spoils mainly because tiny living things, bacteria and moulds (a kind of fungus), land on it from the air and our hands, feed on it and multiply. They need water, warmth and food to grow. Thick salt or sugar pulls water out of the lemon and out of any germs that land on it, so they dry up and cannot grow. That is how nimbu achar (salt, oil and sun-drying), murabba (sugar) and dried fish keep for months. Cold does not kill germs but slows them down a lot, so food in the fridge spoils slowly. This is also why packets have expiry dates: even sealed food slowly changes, and companies test how long it stays safe.",
+      "safety": "Never taste or sniff closely at mouldy food; some moulds can make you ill. Wash hands after handling the slices and throw everything away at the end.",
+      "time": "17 min to set up + 3–4 min checks on Days 3 and 5 + 6 min on Day 8"
+    },
+    {
+      "id": "e3",
+      "title": "Hold your nose: taste or smell?",
+      "day": 2,
+      "question": "Mukesh's friends each tasted Ugadi Pachadi differently (page 73). How much of a food's flavour comes from the tongue, and how much from the nose?",
+      "need": ["small same-size cubes of raw apple, raw potato and pear or cucumber", "3 spoons", "a dupatta for a blindfold", "a pinch of sugar and of salt", "a glass of water"],
+      "steps": [
+        "While your child looks away, an adult cuts the cubes and puts one on each spoon.",
+        "Blindfold your child. They pinch their nose firmly shut.",
+        "Give one cube. They chew it with the nose still pinched and guess what it is.",
+        "Then they let go of the nose and keep chewing. Do they change their guess?",
+        "Sip water and repeat with the other two cubes.",
+        "Try a pinch of sugar and of salt with the nose pinched. Record all results in a table."
+      ],
+      "predict": "Ask your child to guess first: will you still be able to tell apple from potato with your nose closed? What about sugar and salt?",
+      "observe": "With the nose pinched, apple, pear and potato often taste much the same (just a bit sweet and crunchy), and guesses are often wrong. As soon as the nose is let go, the flavour 'arrives' and the food is easy to name. Sugar and salt can still be told apart with the nose closed.",
+      "why": "The tongue has taste buds that sense only a few basic tastes: sweet, sour, salty, bitter and umami (savoury). The rich 'flavour' of an apple, mango or masala is mostly smell. When we chew, smell molecules from the food rise from the back of the mouth into the nose, where smell sensors pick up thousands of different smells. Pinching the nose stops the air from flowing, so only the basic tastes are left, and sugar and salt can still be told apart because they are pure tastes. That is why food seems tasteless when you have a blocked nose. Pungent (chilli) is not a taste either: it is a burning feeling from pain sensors, and astringent is a dry, puckering feeling of touch.",
+      "safety": "An adult should cut the food. Check for food allergies first. Use tiny amounts of salt.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "One-week food diary (Book Activity 1, page 79)",
+      "day": 1,
+      "mins": 8,
+      "need": ["notebook ruled for 7 days", "a pencil and two colour pencils"],
+      "steps": [
+        "Make a table for 7 days with rows for breakfast, lunch, snacks and drinks, and dinner.",
+        "Every evening, write everything you ate and drank that day.",
+        "On Day 5, circle the healthy items in green and put a red X on unhealthy ones.",
+        "Write E, B or P next to each food for its food group.",
+        "Find the food group that is missing or small on most days.",
+        "Plan two changes with your parents and try them for the rest of the week; note how it went."
+      ],
+      "outcome": "A week's food diary that shows your real eating pattern, the food group you miss most, and two changes you tried."
+    },
+    {
+      "id": "a2",
+      "title": "Build a balanced plate (page 79)",
+      "day": 6,
+      "mins": 12,
+      "need": ["a round steel thali or a paper plate", "the foods for lunch", "notebook and colour pencils"],
+      "steps": [
+        "Draw a circle and divide it: half for vegetables and fruit, a quarter for body-building food, a quarter for energy food.",
+        "Choose real foods for each part from what is cooked today.",
+        "Serve them on the thali in the right amounts.",
+        "Draw the plate and label each part E, B or P.",
+        "Count how many of the six tastes the plate has.",
+        "Eat it at lunch and note how full and energetic you feel in the afternoon."
+      ],
+      "outcome": "A real balanced lunch plate built by your child, and a labelled drawing that matches the book's plate on page 79."
+    },
+    {
+      "id": "a3",
+      "title": "Box solar cooker (page 82)",
+      "day": 7,
+      "mins": 17,
+      "need": ["a shoebox with a lid that opens on one side", "black paper", "aluminium foil", "cling film", "glue and tape", "a stick to prop the lid", "a small steel katori with a spoon of butter, a piece of chocolate or jaggery"],
+      "steps": [
+        "Line the inside of the box with black paper.",
+        "Glue aluminium foil, shiny side out, on the inside of the lid so it works as a mirror.",
+        "Put the katori with the butter or chocolate inside the box.",
+        "Cover the opening of the box tightly with cling film and tape the edges.",
+        "Place the box in strong sun and prop the foil lid with a stick so it shines sunlight into the box.",
+        "Check every 10 minutes and note how long the butter takes to melt. Compare with a katori of butter left outside the box in the sun."
+      ],
+      "outcome": "A working solar cooker that melts butter or chocolate using only sunlight, with a timed record compared with a katori left in open sun."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Kikunae Ikeda (1864–1936), Japan",
+      "idea": "Ikeda, a chemistry professor in Tokyo, noticed that dashi, a soup made with kombu seaweed, had a delicious taste that was not sweet, sour, salty or bitter. In 1908 he found that the taste came from glutamate, a substance in the seaweed, and named this fifth taste 'umami', meaning roughly 'delicious savoury taste'. Glutamate is also found in ripe tomatoes, cheese, mushrooms and many cooked foods.",
+      "then": "For most of the 1900s, many scientists outside Japan did not accept umami as a basic taste. They said it might just be a mix of the four known tastes or a flavour enhancer, not a taste of its own.",
+      "now": "Around 2000, scientists found special receptors on the taste buds of the tongue that detect glutamate, which showed that umami is a real basic taste. It is now accepted as the fifth basic taste. Modern science counts sweet, sour, salty, bitter and umami as basic tastes; the pungent and astringent tastes of Ayurveda's shad rasa are explained as feelings of heat and touch.",
+      "status": "accepted",
+      "ask": "Ikeda was sure umami was real, but many scientists did not believe him for nearly a hundred years. What kind of evidence finally changed their minds, and why was that better than people simply saying a soup tasted good?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "The 'tongue map': D.P. Hänig (Germany, 1901) and Edwin G. Boring (USA, 1942)",
+      "idea": "In 1901 the German scientist David Hänig tested how strongly people sensed tastes on different parts of the tongue and found small differences. In 1942 the American psychologist Edwin Boring redrew his results in a way that made the differences look much bigger. School books then printed a 'tongue map' showing sweet only at the tip, salty and sour on the sides and bitter only at the back.",
+      "then": "The map was copied into textbooks around the world for most of the 1900s and taught as fact. Few people checked it by tasting for themselves.",
+      "now": "The tongue map is rejected. Scientists have shown that every area of the tongue that has taste buds can sense all the basic tastes; there are only small differences in sensitivity. A 1974 study by Virginia Collings re-tested Hänig's idea and found the differences were tiny. The map is now used as an example of how a mistake can spread when people copy instead of testing.",
+      "status": "rejected",
+      "ask": "You tested the tongue map yourself in one minute and found it was wrong. Why do you think people kept printing it for so many years? What does that tell you about checking things you read?",
+      "day": 2
+    },
+    {
+      "id": "v3",
+      "who": "Kamala Sohonie (1911–1998), India",
+      "idea": "Kamala Sohonie studied chemistry in Mumbai. In 1933 she applied to do research at the Indian Institute of Science in Bengaluru, but its director, the Nobel prize winner C.V. Raman, did not want to admit women. She insisted, and was allowed in on probation; her excellent work changed his mind and the institute began to admit women. At Cambridge University she found that an important substance used by cells to release energy from food (cytochrome C) is present in all plant cells, and in 1939 she became the first Indian woman to earn a PhD in science. Back in India she studied the nutrition of cheap foods eaten by poor families, including pulses, rice and neera, the sweet sap of palm trees.",
+      "then": "As a woman scientist she faced doubts and unfair treatment at every step, and was sometimes passed over for posts she deserved.",
+      "now": "Her work on neera showed that it contains useful vitamins and minerals, and giving neera to children and pregnant women among poor communities improved their health. She received the Rashtrapati Award for this work. She is remembered as a pioneer who opened the way for women in Indian science and who used chemistry to help the poorest families eat better.",
+      "status": "accepted",
+      "ask": "Kamala Sohonie studied foods that poor families could afford, not expensive ones. If you were a food scientist, which cheap Indian food would you test, and how would you find out whether it really makes children healthier?",
+      "day": 4
+    }
+  ],
+  "check": [
+    {"q": "Name the six tastes of shad rasa and give a food for each.", "a": "Sweet (jaggery), sour (tamarind), salty (salt), pungent (green chilli), bitter (neem or karela), astringent (raw mango or amla)."},
+    {"q": "What are the three food groups and what does each do? Give two examples of each.", "a": "Energy-giving foods give fuel (rice, wheat, potato, banana, honey, ghee). Body-building foods help us grow and build muscles (dal, chana, milk, paneer, eggs, fish). Protective foods help fight disease (fruits and vegetables like amla, guava, spinach, carrot)."},
+    {"q": "Why are millets called 'super food'? Name three millets.", "a": "They are rich in nutrients such as fibre and minerals (ragi is rich in calcium, bajra in iron), and grow with little water. Jowar, bajra and ragi."},
+    {"q": "What makes junk food unhealthy, and why is home-cooked food better?", "a": "Junk food has a lot of oil, salt and sugar and little goodness, so eating it often can harm teeth, heart and weight. Fresh home-cooked food has more of the nutrients we need."},
+    {"q": "What does a balanced plate look like?", "a": "It has foods from all three groups in the right amounts: protective foods (fruits and vegetables) the most, then body-building foods, then some energy-giving foods."},
+    {"q": "Why do we need water? Give two reasons.", "a": "It helps digest food, keeps skin and body healthy, and removes waste through urine, sweat and faeces. Water-rich fruits like watermelon and cucumber also help."},
+    {"q": "Name a food cooked by each method: steaming, boiling, frying, roasting, baking.", "a": "For example: idli (steaming), rice or dal (boiling), samosa or puri (frying), papad or bhutta (roasting), bread or cake (baking)."},
+    {"q": "Why did the lemon slices in salt and sugar not grow mould, and what does a food label tell us?", "a": "Salt and sugar pull out the water that moulds and bacteria need to grow. A label tells us the expiry or best-before date, the ingredients (the first one is the most) and nutrition information, so we can avoid old food and know what we are eating."}
+  ]
+}

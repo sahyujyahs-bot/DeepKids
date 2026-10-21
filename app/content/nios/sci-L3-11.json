@@ -1,0 +1,533 @@
+{
+  "key": "nios|sci|3|11",
+  "board": "nios",
+  "subj": "sci",
+  "level": 3,
+  "n": 11,
+  "title": "National Identity",
+  "source": "NIOS Open Basic Education, Environmental Studies Level A (A 102), Lesson 11 (pages 142–151), 2016",
+  "summary": "India is a country of many religions, languages, foods and festivals, held together by shared national symbols. Your child learns about the Tricolour and how to respect it, the Lion Capital of Ashoka and 'Satyamev Jayate', the rupee symbol, the tiger, peacock, lotus and hockey, the national anthem and national song, and the three national days. Along the way they measure and build a flag, test why lotus-family leaves stay clean, see how peacock feathers make colour without blue paint, and check facts, such as whether India really has an official national game.",
+  "goals": [
+    "By the end your child can describe the national flag exactly (3:2 ratio, saffron, white and green bands, a navy-blue Ashoka Chakra with 24 spokes), say what each part stands for, and list the main rules for respecting it.",
+    "By the end your child can describe the national emblem from the Sarnath Lion Capital, explain 'Satyamev Jayate' and where it comes from, and recognise the ₹ symbol.",
+    "By the end your child can name the national animal, bird and flower, explain why the tiger and peacock are protected, and explain the science behind the lotus leaf's clean surface and the peacock's colours.",
+    "By the end your child can say who wrote the national anthem and the national song, find the regions and rivers named in the anthem on a map, and stand correctly while it is sung.",
+    "By the end your child can explain why we celebrate 15 August, 26 January and 2 October, including the difference between adopting the Constitution (26 November 1949) and its coming into force (26 January 1950).",
+    "By the end your child can check a claim (like 'hockey is our official national game') against evidence, and discuss people whose role in our national story was overlooked or argued about."
+  ],
+  "words": [
+    ["national identity", "the things that a whole country shares and that show who we are as a nation, like the flag, the anthem and the Constitution"],
+    ["Tricolour", "our national flag, called Tiranga, with three colours: saffron, white and green"],
+    ["Ashoka Chakra", "the navy-blue wheel with 24 spokes in the middle of the flag, taken from Emperor Ashoka's pillar"],
+    ["half mast", "flying the flag partway down the pole to show sadness when an important person dies"],
+    ["emblem", "an official sign of a country; India's emblem is the Lion Capital of Ashoka from Sarnath"],
+    ["Satyamev Jayate", "a Sanskrit line from the Mundaka Upanishad meaning 'truth alone triumphs'"],
+    ["anthem", "a country's official song, sung on special occasions; ours is 'Jana Gana Mana'"],
+    ["Constitution", "the book of the most important rules of a country, saying how it is governed and what rights people have"],
+    ["Republic", "a country where the head of state is chosen, not a king or queen; India became a republic on 26 January 1950"],
+    ["endangered", "in danger of disappearing for ever because very few are left in the wild"],
+    ["pugmark", "the footprint of a big cat such as a tiger"],
+    ["patriotism", "love for and pride in one's country"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Many ways of life, one flag",
+      "goal": "Notice how different Indians are and what we share, learn the flag's parts and meanings, build an exactly measured flag, and hear the story of the man who first designed it.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Different and the same",
+          "mins": 6,
+          "do": "Ask your child to think of three people they know from different parts of India or different families (a neighbour from Kerala, a friend who speaks Bengali, a cousin in Punjab). Ask: 'What is different about them?' (Language, food, clothes, festivals, prayers.) 'What do you all share?' Help them reach answers like: we all use rupees, we all see the same flag on Independence Day, we all have the same Constitution and the same anthem at school. Read the opening paragraph on page 142 aloud and say: 'These shared things are our national identity.'"
+        },
+        {
+          "kind": "read",
+          "title": "11.1 Our national flag (pages 142–143)",
+          "mins": 7,
+          "do": "Read section 11.1 aloud from 'You would know that every country has its own flag' to 'keep moving and going forward'. Ask: 'Where have you seen the flag flying?' (School, government buildings, cricket and hockey matches, rooftops on 15 August.) 'Why is it called the Tricolour?' (It has three colours.) 'What do saffron, white and green stand for?' (Saffron: sacrifice and renunciation, which means giving things up for others; white: peace and truth; green: greenery, prosperity and faith.) 'How many spokes does the wheel have, and where was it taken from?' (24, from the pillar of Ashoka.) Add that the wheel's official colour is navy blue."
+        },
+        {
+          "kind": "act",
+          "title": "Make an exact flag",
+          "mins": 15,
+          "do": "Do Activity a1. The book says length and breadth are in the ratio 3:2. Your child draws a rectangle 30 cm long and 20 cm high, then divides the height into three equal bands of about 6.7 cm (help with the measuring), colours them saffron, white and green, saffron on top. For the chakra, cut out a white paper circle a little smaller than the white band and fold it to make 24 spokes: fold it in half, then fold that into three equal parts like a fan, then fold in half twice more. Open it: the creases make 24 equal spokes. Draw over them in blue and stick the wheel in the middle. Ask: 'If a flag is 3 metres long, how high should it be?' (2 metres.)",
+          "ref": "a1"
+        },
+        {
+          "kind": "think",
+          "title": "Pingali Venkayya, the flag's first designer",
+          "mins": 8,
+          "do": "Tell the story in Voice v1: a teacher from Andhra Pradesh who studied flags of many countries and showed Mahatma Gandhi a design in 1921; our flag grew out of his design, but for many years few people remembered his name. Ask: 'Why do you think a country changes its flag design over the years?' (To include more people, or because its ideas change.) Then ask the voice question.",
+          "ref": "v1"
+        },
+        {
+          "kind": "talk",
+          "title": "Why does a flag matter?",
+          "mins": 4,
+          "do": "Ask: 'It is only a piece of cloth. Why do people feel proud or sad when they see it?' Good answers: 'It stands for all the people of the country', 'soldiers protect it', 'it reminds us of the freedom struggle'. Ask: 'When an Indian athlete wins a medal and the flag goes up, how do people feel?' Put your child's flag on the wall where it will stay clean."
+        }
+      ],
+      "need": ["Textbook pages 142–143", "a ruler, pencil, white chart paper", "saffron, green and blue crayons or paint", "a sheet of white paper for the chakra, scissors, glue"],
+      "prep": []
+    },
+    {
+      "n": 2,
+      "title": "Respecting the flag, the Lion Capital and the rupee",
+      "goal": "Learn the rules for respecting the flag, study the national emblem and where 'Satyamev Jayate' comes from, find the emblem on our money, and learn the story of the ₹ symbol.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "How to respect the flag (page 143)",
+          "mins": 7,
+          "do": "Read the list of flag rules on page 143 and the paragraph on half mast. Then play 'Right or wrong?': you say a situation and your child says if it is right and why. 'Flying a torn flag' (wrong). 'Saffron at the bottom' (wrong; saffron is always on top). 'Folding it neatly after taking it down' (right). 'Using a flag as a tablecloth or a handkerchief' (wrong). 'A flag at half mast' (right, to show national mourning when an important person dies). 'A paper flag left on the road after 15 August' (wrong; pick it up and keep or dispose of it respectfully). Tell them insulting the flag is an offence under Indian law."
+        },
+        {
+          "kind": "read",
+          "title": "11.2 National symbol (pages 143–144)",
+          "mins": 7,
+          "do": "Read section 11.2 aloud and look at the picture of the Pillar of Ashoka. Ask: 'How many lions are there? How many can you see from one side?' (Four; only three.) 'Which animals are carved on the base, and in which directions?' (Elephant east, bull west, lion north, horse south, with wheels between them.) 'What is written under the emblem, and what does it mean?' (Satyamev Jayate: truth alone triumphs.) 'Where does that line come from?' (The Mundaka Upanishad.) Tell them the real Lion Capital was carved about 2,250 years ago in Emperor Ashoka's time and can still be seen in the museum at Sarnath, near Varanasi."
+        },
+        {
+          "kind": "do",
+          "title": "Emblem hunt on money and papers",
+          "mins": 9,
+          "do": "Collect coins and notes of different values, a passport or Aadhaar letter, a government school certificate or a stamp. With a magnifying glass, your child finds the Lion Capital emblem on each and the words 'Satyamev Jayate' (in Devanagari) beneath it. On the notes they also find Gandhiji's picture, the ₹ symbol and the amount written in many Indian languages on the back panel. Ask: 'Count how many languages you can find on the note. Why do you think the government prints so many?' (So that people across India can read it, which shows unity in diversity.)"
+        },
+        {
+          "kind": "act",
+          "title": "11.3 The ₹ symbol: design your own",
+          "mins": 10,
+          "do": "Read section 11.3 aloud. Tell your child the true story: in 2010 the government held an open competition for a rupee symbol, and the winning design by D. Udaya Kumar, then a young design teacher, was adopted on 15 July 2010. It mixes the Devanagari letter 'र' (ra) and the Roman letter 'R', and the two lines at the top look like the Indian flag and an equals sign. Your child practises writing ₹ correctly, then designs their own symbol for something in the family (a family symbol or a symbol for their school), explaining what each part stands for, just like the flag colours."
+        },
+        {
+          "kind": "talk",
+          "title": "Ashoka's wheel twice",
+          "mins": 5,
+          "do": "Put the flag from Day 1 next to a coin with the emblem. Ask: 'Where else have you seen this 24-spoke wheel?' (In the middle of the flag, and at the base of the Lion Capital.) Ask: 'The book says the wheel tells us to keep moving forward. What is one way you want to keep moving forward this year?'"
+        }
+      ],
+      "need": ["Textbook pages 143–144", "coins and notes of different values", "a passport, Aadhaar letter, certificate or postage stamp", "a magnifying glass", "paper and pencils", "the flag from Day 1"],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Tiger and peacock",
+      "goal": "Learn why the tiger and peacock are our national animal and bird and why they are protected, test how pugmarks change with the ground, and look at the science of a peacock feather's colours.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.4 and 11.5 National animal and bird (page 144)",
+          "mins": 7,
+          "do": "Read sections 11.4 and 11.5 aloud. Ask: 'What does the tiger stand for?' (Courage, strength, grace and speed.) 'How does a tiger help the environment?' (It hunts deer and wild pigs, keeping their numbers in balance so forests are not over-grazed; protecting tigers means protecting whole forests, rivers and all the animals in them.) 'Is it allowed to hunt tigers or peacocks?' (No; it is a crime under India's Wildlife Protection Act.) Add facts: the tiger has been our national animal since 1973, when Project Tiger began; the peacock became national bird in 1963. The 2022 tiger count found at least 3,167 tigers in India, about three-quarters of all wild tigers in the world."
+        },
+        {
+          "kind": "exp",
+          "title": "Pugmark puzzle",
+          "mins": 10,
+          "do": "Do Experiment e1. Fill one tray with dry sand or dry atta, one with damp sand or soil, and one with wet mud. Your child presses the same hand (closed into a soft fist, like a paw) into each with the same push. Ask them to guess first: 'Will all three prints look the same size and shape?' Compare with a ruler. The prints look different: blurred and small in dry sand, sharp in damp soil, spread and big in wet mud. Read the 'why' of e1. Ask: 'If forest guards counted tigers only by looking at footprints, what mistakes could they make?'",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Ullas Karanth and counting tigers",
+          "mins": 9,
+          "do": "Tell the story in Voice v2: for years India counted tigers mainly by their pugmarks; scientist Ullas Karanth argued this was unreliable and used hidden cameras to recognise each tiger by its stripes, like a fingerprint. Then in 2005 it was found that Sariska Tiger Reserve had lost all its tigers, even though official counts had shown tigers there. Show your child two tiger photos online and ask them to compare the stripes. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "exp",
+          "title": "Peacock feather colours",
+          "mins": 10,
+          "do": "Do Experiment e2. Hold a peacock feather (often sold near temples or at fairs; never pull one from a bird) under a bright light. Your child slowly tilts it and describes the colours of the 'eye'. Then look closely with a magnifying glass. Ask them to guess first: 'Is there blue and green paint in the feather?' Then dip the tip of one barb in water, or look at it in dim light from behind: the shine fades and it looks brown. Read the 'why' of e2. Ask: 'Why does the peacock dance and spread its tail in the rainy season?' (To attract peahens; this is the breeding season.)",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Peacocks in our stories",
+          "mins": 4,
+          "do": "Ask your child where they have seen peacocks in stories, art or religion: Lord Krishna's peacock feather, Kartikeya (Murugan) riding a peacock, the Mughal Peacock Throne, peacocks on saris, rangoli and temple walls. Tell them the book says the peacock has a special place in our literature and folk tales. Ask: 'Why might a country choose a bird that appears in so many stories?'"
+        }
+      ],
+      "need": ["Textbook page 144", "3 trays or plates with dry sand or atta, damp soil and wet mud", "a ruler", "a peacock feather (bought, not taken from a bird)", "a magnifying glass, a bright light", "a phone to look up two tiger photos"],
+      "prep": [{"task": "Buy or borrow a peacock feather; collect sand or soil for the trays", "when": "2 days before"}]
+    },
+    {
+      "n": 4,
+      "title": "Lotus and hockey",
+      "goal": "Learn about the national flower and game, test why lotus-type leaves stay clean in mud, check whether India really has an official national game, and check the main ideas with the core worksheet.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.6 National flower (page 145)",
+          "mins": 5,
+          "do": "Read section 11.6 aloud. Ask: 'The lotus grows in muddy water. What message does the book take from this?' (Even in bad or difficult conditions, we should stay good and make others happy.) Ask: 'Have you seen lotus in temples, in pictures of Goddess Lakshmi or Saraswati, or on a building?' (The Lotus Temple in Delhi is shaped like a lotus.) Then say: 'Let's find out how a lotus leaf really stays clean, using science.'"
+        },
+        {
+          "kind": "exp",
+          "title": "The lotus-leaf effect",
+          "mins": 10,
+          "do": "Do Experiment e3. Use a lotus leaf if you can get one, or a colocasia (arbi or taro) leaf from the vegetable seller, which works in the same way, and an ordinary leaf such as a mango or money-plant leaf. Ask your child to guess first: 'If we drip water on each, what will happen?' Drop water on both. On the lotus or arbi leaf, the drops become round silver balls that roll off; on the mango leaf they spread flat. Sprinkle a little chalk dust or haldi on both leaves, then drip water: on the lotus leaf the rolling drops pick up the dust and carry it away. Read the 'why' of e3.",
+          "ref": "e3"
+        },
+        {
+          "kind": "read",
+          "title": "11.7 National game, and a fact check (page 145)",
+          "mins": 7,
+          "do": "Read section 11.7 aloud. Then do the fact check: tell your child that in 2012, a schoolgirl filed a question under the Right to Information law asking the government when hockey was declared the national game. The Ministry of Youth Affairs and Sports replied that India has not declared any sport as its official national game. So hockey is often called our national game because of its great history, but it is not official. Share that history: India won 8 Olympic gold medals in hockey (1928, 1932, 1936, 1948, 1952, 1956, 1964, 1980), and the great player Dhyan Chand's birthday, 29 August, is celebrated as National Sports Day."
+        },
+        {
+          "kind": "do",
+          "title": "Family survey: what is our national game?",
+          "mins": 6,
+          "do": "Your child phones or asks 5 family members or neighbours: 'What is India's national game? Is it official?' and records the answers in a table: Name, Answer, Sure or not sure. Count how many said hockey, cricket or kabaddi, and how many knew it is not official. Ask: 'Why do so many people believe something that is not quite true?' (It is printed in many books and repeated; it sounds right because India was so good at hockey.) Your child tells each person the RTI answer."
+        },
+        {
+          "kind": "ws",
+          "title": "Let's see 11.1 and the core worksheet",
+          "mins": 12,
+          "do": "First ask the seven 'Let's see, what you have learnt 11.1' questions on pages 145–146 aloud: white means peace and truth; the wheel says keep moving forward; tiger; peacock; hockey (the book's answer, with today's fact check); Satyamev Jayate; on government documents and money. Answers are on page 151. Then do Worksheet ws1 (core). For any wrong answer, open the section of the book and read the line together.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["Textbook pages 145–146 and 151", "a lotus or arbi (colocasia) leaf and a mango or money-plant leaf", "a dropper or spoon of water, chalk dust or haldi", "a phone to call family", "worksheet ws1"],
+      "prep": [{"task": "Buy a bunch of arbi (colocasia) leaves from the vegetable market, or find a lotus leaf", "when": "night before"}]
+    },
+    {
+      "n": 5,
+      "title": "Our anthem and our song",
+      "goal": "Learn the words and meaning of the national anthem and national song, find the places in the anthem on a map, time it, and weigh up a famous claim about the anthem.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.8 National anthem (page 146)",
+          "mins": 8,
+          "do": "Read section 11.8 aloud, then read the words of 'Jana Gana Mana' slowly together, line by line. Explain the meaning simply: 'You are the ruler of the minds of all people, giver of India's destiny. Your name awakens Punjab, Sindh, Gujarat, Maratha land, the Dravida south, Odisha (Utkala) and Bengal (Banga). It echoes in the Vindhya and Himalaya mountains, mingles with the music of the Yamuna and the Ganga, and is chanted by the waves of the ocean. They pray for your blessing and sing your praise. Victory to you.' Tell them it was written by Rabindranath Tagore in Bengali, first sung in 1911, and adopted as the anthem on 24 January 1950."
+        },
+        {
+          "kind": "do",
+          "title": "Map the anthem and time it",
+          "mins": 9,
+          "do": "On a map of India (and a map of the subcontinent for Sindh), your child finds and marks each place in the anthem: Punjab, Sindh (now in Pakistan), Gujarat, Maharashtra (Maratha), the southern states (Dravida), Odisha (Utkala), Bengal (Banga), the Vindhya hills, the Himalayas (Himachal), the Yamuna and Ganga rivers and the oceans. Ask: 'Why does the anthem name places from all directions?' (To show every part of India together, which is national unity.) Then stand at attention together and sing it while someone times it on a phone. The book says it takes 52 seconds; how close were you? Teach the rules: stand still, arms by the side, no talking or moving."
+        },
+        {
+          "kind": "think",
+          "title": "Was the anthem written for a king?",
+          "mins": 8,
+          "do": "Tell the story in Voice v3: when 'Jana Gana Mana' was first sung in December 1911, King George V was visiting India, and some newspapers reported that it praised him; this claim is still repeated today. Tagore said clearly, in a letter in 1937, that the 'Bharat Bhagya Vidhata' (dispenser of India's destiny) in his song could never be a king. Ask the voice question.",
+          "ref": "v3"
+        },
+        {
+          "kind": "read",
+          "title": "11.9 National song (page 147)",
+          "mins": 6,
+          "do": "Read section 11.9 aloud, the words of 'Vande Mataram' and the 'Essence' list. Ask: 'Who wrote Vande Mataram?' (Bankim Chandra Chattopadhyay, a Bengali writer; it appears in his 1882 novel 'Anandamath'.) 'How did it help the freedom movement?' (Freedom fighters sang and shouted 'Vande Mataram' in protests; it filled people with love for the country.) 'What does the song say about our land?' (It is full of water, fruits and crops, has cool breezes, moonlit nights, flowering trees, sweet language and brings happiness.) Ask: 'Which line describes your own town best?' Tell them the anthem and the national song have equal honour."
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws2 (stretch). It asks your child to use the ideas in new situations: flag mistakes to spot, a design for a state flower poster, and what to do at a cricket match when the anthem plays. Let them answer write items aloud while you scribe if needed.",
+          "ref": "ws2"
+        }
+      ],
+      "need": ["Textbook pages 146–147", "a map of India and of the subcontinent (printed or on a phone)", "a phone stopwatch", "worksheet ws2"],
+      "prep": []
+    },
+    {
+      "n": 6,
+      "title": "Our national days and our Constitution",
+      "goal": "Learn why 15 August, 26 January and 2 October are national days, make a time-line of the freedom story, read the Preamble, and hear the warning given by the Constitution's chief architect.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "11.10 National days (page 148)",
+          "mins": 6,
+          "do": "Read section 11.10 aloud and the summary box after it. Ask: 'What happened on 15 August 1947?' (India became free from British rule.) 'And on 26 January 1950?' (Our Constitution came into force and India became a republic.) 'Whose birthday is 2 October?' (Mahatma Gandhi's; he led the freedom struggle by the path of non-violence.) Make one fact exact: the Constitution was adopted (finally agreed) on 26 November 1949, now called Constitution Day, and came into force on 26 January 1950. Bonus fact: Lal Bahadur Shastri, India's second Prime Minister, was also born on 2 October, in 1904."
+        },
+        {
+          "kind": "act",
+          "title": "Freedom story time-line",
+          "mins": 9,
+          "do": "Do Activity a2. On a long strip of paper your child marks and draws: 26 January 1930 (the Congress called for 'Purna Swaraj', complete independence, and people celebrated it as Independence Day each year); 15 August 1947 (Independence); 26 November 1949 (Constitution adopted); 24 January 1950 (anthem and national song adopted); 26 January 1950 (Constitution comes into force; first Republic Day). Ask: 'Why do you think the leaders chose 26 January for the Constitution to begin?' (To honour the 1930 Purna Swaraj day.)",
+          "ref": "a2"
+        },
+        {
+          "kind": "read",
+          "title": "Read the Preamble together",
+          "mins": 8,
+          "do": "Read aloud the Preamble of the Constitution (it is printed in many school books and on the government's website): 'We, the people of India, having solemnly resolved to constitute India into a Sovereign Socialist Secular Democratic Republic and to secure to all its citizens: Justice, social, economic and political; Liberty of thought, expression, belief, faith and worship; Equality of status and of opportunity; and to promote among them all Fraternity assuring the dignity of the individual and the unity and integrity of the Nation...' Explain four big words with examples from home: justice (fairness), liberty (freedom to think and pray as you choose), equality (same chances for all), fraternity (feeling like brothers and sisters). Ask: 'Who does the Preamble say gave India its Constitution?' (We, the people.)"
+        },
+        {
+          "kind": "think",
+          "title": "Dr B.R. Ambedkar's warning",
+          "mins": 8,
+          "do": "Tell the story in Voice v4: Dr Ambedkar, who as a child was made to sit apart in school because of his caste, became the chairman of the committee that drafted the Constitution. On 25 November 1949 he warned that India was entering a 'life of contradictions': equal votes for all, but great inequality in daily life. Ask the voice question.",
+          "ref": "v4"
+        },
+        {
+          "kind": "talk",
+          "title": "Let's see 11.2 (pages 148–149)",
+          "mins": 9,
+          "do": "Ask the four 'Let's see, what you have learnt 11.2' questions aloud. (i) The national days and why (from today). (ii) Two states and two rivers in the anthem (for example Punjab and Gujarat; Ganga and Yamuna). (iii) The message of the national song (love for our land and pride in its beauty). (iv) How to behave during the anthem (stand at attention, quietly, with respect). Check with page 151. Then ask: 'How does our family celebrate 15 August and 26 January? How could we celebrate with our neighbours this year?'"
+        }
+      ],
+      "need": ["Textbook pages 148–149 and 151", "a long strip of paper and crayons", "the text of the Preamble (from a book or the government website)"],
+      "prep": []
+    },
+    {
+      "n": 7,
+      "title": "Let's revise, check and teach it back",
+      "goal": "Review the lesson with the book's revision list, exercise and 'Let's do and learn', do the challenge worksheet, check understanding, and teach the lesson back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let's revise and Exercise (pages 149–150)",
+          "mins": 8,
+          "do": "Read the 'Let's Revise' list on page 149 aloud. Then do the Exercise. Q1: saffron, white, green (and the navy-blue chakra). Q2: 24. Q3: Rabindranath Tagore. Q4: wheel; hockey (the book's answer, though it is not official); Jana Gana Mana; Mahatma Gandhi. Q5: flag with Tricolour, animal with tiger, bird with peacock, flower with lotus, game with hockey, song with Vande Mataram. Q6: truth; mud; attention; Vande Mataram; freedom (the book's word list says 'free')."
+        },
+        {
+          "kind": "talk",
+          "title": "Let's do and learn, for a child (page 151)",
+          "mins": 6,
+          "do": "Read the two tasks on page 151. Adapt the first for your child: 'If you see someone hurting or catching a peacock or any wild animal, do not go near them; tell a grown-up at once, who can call the police or the forest department.' Ask: 'Why is it important to report it rather than ignore it?' For the second, plan with your child one thing to do with neighbours on the next 15 August or 26 January: a flag hoisting in the building, singing the anthem together, a drawing competition on national symbols, or cleaning a local park."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 9,
+          "do": "Do Worksheet ws3 (challenge). Section C asks your child to compare views and weigh evidence; there is no single right answer, so praise reasons that use evidence from the week.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "check",
+          "title": "Lesson check",
+          "mins": 7,
+          "do": "Ask the 8 check questions aloud without the book. Tick the ones answered well. For any miss, look at the right page together (flag 142–143, emblem 143–144, animals and flower 144–145, anthem and song 146–147, national days 148), then ask again in other words. Most children get 6 or more; fewer than 5 means redo Day 1 and Day 5 next week."
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: our national identity museum",
+          "mins": 10,
+          "do": "Your child sets up a small 'museum' on a table: the flag they made, a coin and note with the emblem and ₹, the peacock feather, the arbi leaf, the anthem map and the freedom time-line. You (and other family members) are visitors. They explain each object: what it is, what it stands for, and one science or fact-check surprise (the lotus effect, structural colour of the feather, the RTI answer about hockey, steam versus horses is not here, but 26 November versus 26 January is). Ask two 'visitor' questions: 'How many spokes are in the chakra and why does it matter?' and 'Who wrote Vande Mataram?'"
+        }
+      ],
+      "need": ["Textbook pages 149–151", "all the things made this week for the museum table", "worksheet ws3"],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Our national symbols",
+      "day": 4,
+      "sections": [
+        ["A. The flag", [
+          {"t": "fill", "p": "The length and breadth of our flag are in the ratio ____ : 2.", "a": ["3"]},
+          {"t": "match", "p": "Match each part of the flag to what it stands for.", "pairs": [["Saffron", "Sacrifice and renunciation"], ["White", "Peace and truth"], ["Green", "Greenery, prosperity and faith"], ["Chakra", "Keep moving forward"]]},
+          {"t": "fill", "p": "The Ashoka Chakra has ____ spokes.", "a": ["24", "twenty-four"]},
+          {"t": "mcq", "p": "Which of these shows respect for the flag?", "opts": ["Flying it upside down", "Using it as a tablecloth", "Folding it neatly after taking it down", "Flying a torn flag"], "a": 2}
+        ]],
+        ["B. Emblem and money", [
+          {"t": "mcq", "p": "'Satyamev Jayate' means:", "opts": ["Long live India", "Truth alone triumphs", "Victory to the king", "Work is worship"], "a": 1},
+          {"t": "fill", "p": "Our national emblem was taken from the Lion Capital of Ashoka at ____.", "a": ["Sarnath"]},
+          {"t": "draw", "p": "Draw the rupee symbol and the Lion Capital as you saw them on a coin."}
+        ]],
+        ["C. Animal, bird, flower", [
+          {"t": "match", "p": "Match.", "pairs": [["National animal", "Tiger"], ["National bird", "Peacock"], ["National flower", "Lotus"], ["National song", "Vande Mataram"], ["National anthem", "Jana Gana Mana"]]},
+          {"t": "write", "p": "Why is hunting tigers and peacocks a crime? Give two reasons.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Using what we know",
+      "day": 5,
+      "sections": [
+        ["A. Spot the mistake", [
+          {"t": "write", "p": "On 15 August you see a building with the flag hung green side up. What is wrong, and what should be done?", "lines": 2},
+          {"t": "write", "p": "After a school function, small paper flags are lying on the ground. What should you do and why?", "lines": 2},
+          {"t": "mcq", "p": "A shop is selling handkerchiefs printed with the national flag. According to the flag rules in the book, this is:", "opts": ["Correct", "Not allowed", "Allowed only on 26 January", "Allowed if they are clean"], "a": 1}
+        ]],
+        ["B. The anthem and the song", [
+          {"t": "sort", "p": "Sort these names from the anthem.", "items": ["Punjab", "Gujarat", "Utkala", "Banga", "Vindhya", "Himachal", "Yamuna", "Ganga"], "cats": ["Region or state", "Mountains", "River"]},
+          {"t": "write", "p": "You are at a cricket match and the national anthem starts. Your cousin keeps eating popcorn and talking. What will you tell him, kindly?", "lines": 2}
+        ]],
+        ["C. Science of the symbols", [
+          {"t": "mcq", "p": "On a lotus or arbi leaf, water drops roll off and carry dust away because:", "opts": ["The leaf is hot", "The leaf has tiny bumps and wax so water cannot stick", "The leaf is very thin", "The leaf drinks the water"], "a": 1},
+          {"t": "write", "p": "A peacock feather looks shining blue-green in sunlight but dull brown from behind. What does this tell you about where its colour comes from?", "lines": 3}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Thinking about national identity",
+      "day": 7,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "write", "p": "You want to make a flag 60 cm long. How high must it be, and how high is each colour band?", "lines": 2},
+          {"t": "mcq", "p": "From any one side of the Lion Capital you can see only three lions. Why?", "opts": ["One lion is missing", "The four lions sit back to back, so one is always hidden behind", "One lion is very small", "The fourth lion is painted"], "a": 1},
+          {"t": "fill", "p": "The Constitution was adopted on 26 November 1949 and came into ____ on 26 January 1950.", "a": ["force", "effect"]}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if India had no national symbols at all: no flag, anthem or emblem? Would people still feel Indian? Explain.", "lines": 3},
+          {"t": "write", "p": "If you could choose a national insect or a national tree for India, what would you choose and why?", "lines": 3}
+        ]],
+        ["C. Weighing evidence", [
+          {"t": "write", "p": "Some people say Tagore wrote 'Jana Gana Mana' to praise King George V. Tagore said he did not. What evidence would help you decide who is right?", "lines": 3},
+          {"t": "write", "p": "Many books say hockey is India's national game, but the government said in 2012 there is no official national game. Which source would you trust more, and why?", "lines": 3},
+          {"t": "write", "p": "Counting tigers by footprints gave wrong numbers at Sariska. Why are camera photos of stripes better evidence?", "lines": 2}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Pugmark puzzle",
+      "day": 3,
+      "question": "Does the same paw leave the same footprint on different ground?",
+      "need": ["3 trays or plates", "dry sand or dry atta", "damp sand or soil", "wet mud", "a ruler", "a cloth for wiping hands"],
+      "steps": [
+        "Fill one tray with dry sand, one with damp soil and one with wet mud, each about 3 cm deep and smoothed flat.",
+        "Make a soft fist like a paw and press it into each tray with the same push.",
+        "Measure the width and length of each print.",
+        "Draw each print and note how sharp its edges are.",
+        "Ask someone else to press their 'paw' in too, and compare: can you tell whose is whose?"
+      ],
+      "predict": "Ask your child to guess first: will the three prints be the same size and shape?",
+      "observe": "Prints differ: in dry sand the edges crumble and the print looks smaller and blurred; in damp soil it is sharp and clear; in wet mud it spreads out and looks bigger. Two different people's prints can look alike on one surface.",
+      "why": "A footprint depends not only on the foot but also on the ground: how wet, soft or loose it is, and how fast and heavily the animal was moving. For many years tiger counts in India depended mostly on pugmarks, so the same tiger could be counted twice, or two tigers counted as one. That is why scientists now use camera traps: each tiger's stripe pattern is unique, like our fingerprints, so a photo identifies the individual for certain.",
+      "safety": "Wash hands after handling soil and mud.",
+      "time": "10 min"
+    },
+    {
+      "id": "e2",
+      "title": "Where does a peacock's blue come from?",
+      "day": 3,
+      "question": "Is a peacock feather blue and green because of coloured pigment, or something else?",
+      "need": ["a peacock feather (bought, not taken from a bird)", "a bright lamp or sunlight", "a magnifying glass", "a few drops of water"],
+      "steps": [
+        "Hold the feather in bright light and look at the 'eye'.",
+        "Tilt it slowly and note how the colours change.",
+        "Look at the feather from behind, with the light coming from the front, or in dim light.",
+        "Look at the barbs with a magnifying glass.",
+        "Wet the tip of one barb and look again in bright light."
+      ],
+      "predict": "Ask your child to guess first: is there blue paint inside the feather? Will the colour change when you tilt it?",
+      "observe": "The colours shimmer and shift as you tilt the feather. From behind or in dim light, the feather looks dull brown. A wet barb loses some shine.",
+      "why": "Most of the peacock's dazzling colour is 'structural colour', not paint. Inside each tiny barb are extremely small, regularly arranged rods of a dark substance called melanin, with gaps in between. When light bounces off the many layers, some colours (like blue and green) add up and become strong, while others cancel out. Which colour wins depends on the spacing of the rods and the angle you look from, so the colour shifts as you tilt it. The underlying pigment is brown. Soap bubbles and the shimmer on a CD work in a similar way. Water fills the tiny gaps and spoils the effect.",
+      "safety": "Use only a feather that has dropped naturally and was bought legally; never pull feathers from a bird. Peacock feathers that have been moulted may be sold in India, but harming peacocks is a crime.",
+      "time": "10 min"
+    },
+    {
+      "id": "e3",
+      "title": "The lotus-leaf effect",
+      "day": 4,
+      "question": "Why does a lotus leaf stay clean even in muddy water?",
+      "need": ["a lotus leaf or a colocasia (arbi/taro) leaf", "an ordinary leaf such as mango or money plant", "a dropper or spoon", "water", "a pinch of chalk dust or haldi"],
+      "steps": [
+        "Lay both leaves flat on a plate.",
+        "Drip a few drops of water on each leaf. Watch the shape of the drops.",
+        "Tilt each leaf a little and watch the drops.",
+        "Sprinkle a little chalk dust or haldi on both leaves.",
+        "Drip water on the dusty leaves and tilt them again. Compare which leaf gets clean."
+      ],
+      "predict": "Ask your child to guess first: will water behave the same on both leaves? Which leaf will get rid of the dust?",
+      "observe": "On the lotus or arbi leaf, drops form shining round balls that roll off at the slightest tilt and pick up the dust as they go, leaving a clean track. On the mango leaf, drops spread flat and the dust stays or turns muddy.",
+      "why": "The surface of a lotus leaf is covered with tiny bumps, far too small to see, each coated with wax crystals. Water touches only the very tips of the bumps, with air trapped underneath, so the drop cannot spread and stays almost a perfect ball. Dust also sits only on the tips, so a rolling drop picks it up easily. Scientists call this the 'lotus effect'; it was explained by the German botanist Wilhelm Barthlott in the 1990s and is now copied in self-cleaning paints and fabrics. So the lotus really does stay clean in mud, as the book says, and now we know how.",
+      "safety": "Raw arbi leaves can make skin itch; wash hands after handling, and do not eat them raw.",
+      "time": "10 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Make an exact Tricolour",
+      "day": 1,
+      "mins": 15,
+      "need": ["white chart paper", "a ruler and pencil", "saffron, green and navy-blue crayons or paint", "a white paper circle, scissors and glue"],
+      "steps": [
+        "Draw a rectangle 30 cm long and 20 cm high (ratio 3:2).",
+        "Divide the height into three equal bands.",
+        "Colour the top band saffron, leave the middle white, colour the bottom green.",
+        "Fold the paper circle in half, then into three like a fan, then in half twice more, to get 24 equal sections.",
+        "Open it, draw the 24 creases as spokes in navy blue, draw a blue rim and stick it in the centre of the white band.",
+        "Display it neatly, saffron on top."
+      ],
+      "outcome": "A correctly proportioned flag with a 24-spoke chakra, and a child who can explain each part."
+    },
+    {
+      "id": "a2",
+      "title": "Freedom story time-line",
+      "day": 6,
+      "mins": 9,
+      "need": ["a long strip of paper", "crayons and pencils"],
+      "steps": [
+        "Draw a line and mark the years 1930, 1947, 1949 and 1950.",
+        "26 January 1930: draw people declaring 'Purna Swaraj'.",
+        "15 August 1947: draw the flag rising for Independence.",
+        "26 November 1949: draw the Constitution being adopted.",
+        "24 January 1950: write 'Jana Gana Mana and Vande Mataram adopted'.",
+        "26 January 1950: draw the first Republic Day; add 2 October for Gandhi Jayanti."
+      ],
+      "outcome": "A picture time-line that explains why we celebrate our national days."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Pingali Venkayya (1876–1963), Andhra Pradesh, India",
+      "idea": "Venkayya, a teacher and freedom fighter from the Machilipatnam area, studied flags from many countries and published a booklet of possible flags for India. In 1921, at a Congress meeting in Vijayawada (then Bezwada), he showed Mahatma Gandhi a flag of red and green; Gandhi suggested adding white and a spinning wheel (charkha). In 1931 Congress adopted a saffron, white and green flag with a charkha, and in July 1947 the Constituent Assembly replaced the charkha with the Ashoka Chakra.",
+      "then": "The flag became the symbol of the freedom struggle, but Venkayya himself was largely forgotten and died poor in 1963.",
+      "now": "His role as the original designer is now widely recognised: India Post issued a stamp in his honour in 2009, and he is remembered on many anniversaries of the flag.",
+      "status": "accepted",
+      "ask": "The flag changed several times before it became today's Tricolour. Is it still 'Venkayya's flag' if other people changed it? Who should get credit for a design many people improve?",
+      "day": 1
+    },
+    {
+      "id": "v2",
+      "who": "K. Ullas Karanth (born 1948), wildlife scientist, Karnataka, India",
+      "idea": "For decades, India counted tigers mainly by collecting pugmark tracings and judging which prints came from which tiger. From the 1990s Karanth argued, with careful studies, that this method was unreliable and could not tell individual tigers apart. He used camera traps (hidden cameras set off by movement) in forests such as Nagarahole, identifying each tiger by its unique stripes and estimating numbers with statistics.",
+      "then": "Many forest officials defended the pugmark census, which often showed rising numbers. The problem became clear in 2004–05, when it was found that Sariska Tiger Reserve in Rajasthan had lost all its tigers to poaching, although official records had shown tigers there.",
+      "now": "Since 2006, India's national tiger estimates use camera traps and scientific methods along with field signs. These counts have shown tiger numbers rising again, to at least 3,167 in the 2022 count. Scientists still discuss the best ways to count wildlife, but the camera-trap approach is accepted.",
+      "status": "accepted",
+      "ask": "Official counts said Sariska had tigers when it had none. What should we learn about checking numbers, even when they come from officials?",
+      "day": 3
+    },
+    {
+      "id": "v3",
+      "who": "Rabindranath Tagore (1861–1941), Bengal, India, and the 1911 claim about 'Jana Gana Mana'",
+      "idea": "Tagore, the first Asian to win the Nobel Prize for Literature (1913), wrote 'Bharoto Bhagyo Bidhata', whose first verse became our national anthem. It was first sung on 27 December 1911 at the Indian National Congress session in Calcutta, the same week King George V was visiting India. Some English newspapers then reported that the song praised the King, and that claim is still repeated today.",
+      "then": "In a letter in 1937, Tagore wrote that he had been asked to write a song praising the King, but that the 'Bharat Bhagya Vidhata', the dispenser of India's destiny who guides people through all ages, could never be George V or any king. The confusion came partly because another song praising the King was sung at the same session.",
+      "now": "Most historians accept Tagore's own account and reject the claim that the anthem was written for the King, though it is still argued about in some places. Tagore's songs are also the national anthem of Bangladesh ('Amar Shonar Bangla').",
+      "status": "rejected",
+      "ask": "A newspaper in 1911 said one thing; Tagore himself said another. Whose word should count for more, and what other evidence (like the full words of the song) could help decide?",
+      "day": 5
+    },
+    {
+      "id": "v4",
+      "who": "Dr B.R. Ambedkar (1891–1956), Maharashtra, India",
+      "idea": "Born into a caste then treated as 'untouchable', Ambedkar was made to sit apart at school and could not drink from the common water tap. He went on to earn doctorates from Columbia University in New York and the London School of Economics, and became chairman of the committee that drafted India's Constitution. In his speech on 25 November 1949, he warned that on 26 January 1950 India would 'enter into a life of contradictions': in politics everyone would be equal, with one person one vote, but in social and economic life there would still be great inequality, and if this was not removed it could endanger democracy.",
+      "then": "Many people respected his work on the Constitution, but his fight against caste discrimination and his proposals on women's rights in family law (the Hindu Code Bill) were strongly opposed; he resigned from the cabinet in 1951, partly over the stalled bill.",
+      "now": "His central role in drafting the Constitution is accepted, and his birthday, 14 April, is celebrated across India. He received the Bharat Ratna in 1990. His warning about social and economic inequality is still widely quoted and discussed.",
+      "status": "accepted",
+      "ask": "Ambedkar said equal votes are not enough if people are not treated equally in daily life. Can you think of an example of fairness at school or at home that rules alone do not guarantee?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Describe our national flag. What do its colours and wheel stand for?", "a": "Length to breadth 3:2; saffron on top (sacrifice), white in the middle (peace and truth), green at the bottom (prosperity and faith); a navy-blue Ashoka Chakra with 24 spokes in the middle (keep moving forward)."},
+    {"q": "Name three rules for respecting the flag.", "a": "Keep it clean and don't fly a torn flag; saffron always on top; no other flag higher; don't use it as clothing, tablecloth or handkerchief; fold it and keep it safely after lowering; fly it at half mast for national mourning."},
+    {"q": "What is our national emblem, and what is written below it?", "a": "The four lions of the Lion Capital of Ashoka from Sarnath, with a wheel, horse and bull on the base. Below it is written 'Satyamev Jayate', truth alone triumphs, from the Mundaka Upanishad."},
+    {"q": "Name the national animal, bird and flower, and say why the tiger and peacock are protected.", "a": "Tiger, peacock, lotus. Hunting them is a crime because their numbers fell and they need protection; saving tigers also saves whole forests."},
+    {"q": "Why does a lotus leaf stay clean in muddy water?", "a": "Its surface has tiny waxy bumps, so water forms balls that roll off and carry dust away; this is called the lotus effect."},
+    {"q": "Who wrote the national anthem and the national song? Name two places mentioned in the anthem.", "a": "Rabindranath Tagore wrote 'Jana Gana Mana'; Bankim Chandra Chattopadhyay wrote 'Vande Mataram'. The anthem names Punjab, Sindh, Gujarat, Maratha, Dravida, Utkala, Banga, the Vindhya, the Himalaya, the Yamuna and the Ganga."},
+    {"q": "What are our three national days and why do we celebrate them?", "a": "15 August: Independence in 1947. 26 January: the Constitution came into force in 1950 and India became a republic (it was adopted on 26 November 1949). 2 October: Mahatma Gandhi's birthday."},
+    {"q": "Is hockey India's official national game? How do we know?", "a": "No. Hockey is often called our national game because of India's 8 Olympic golds, but in 2012 the sports ministry said, in reply to a Right to Information question, that no sport has been officially declared the national game."}
+  ]
+}

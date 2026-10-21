@@ -1,0 +1,687 @@
+{
+  "key": "ncert|sci|5|10",
+  "board": "ncert",
+  "subj": "sci",
+  "level": 5,
+  "n": 10,
+  "title": "Earth — Our Shared Home",
+  "source": "NCERT Our Wondrous World, Class 5, Unit 5 'Our Amazing Planet', Chapter 10 (pages 161–176) and the Seasons' Journal at the end of the book, Reprint 2026-27",
+  "summary": "Seen from space, as astronauts Rakesh Sharma and Shubhanshu Shukla saw it, the Earth has no borders. Through six stories, rosy starlings flying from Russia to eat locusts in India, yoga travelling from India to the world, chillies arriving from South America, sugar travelling out from India, marigolds from Mexico and Gir cows in Brazil, your child learns that air, water, seeds, animals, foods and ideas move across the planet and connect us all. They test how seeds hitch rides, catch dust from the air, model the greenhouse effect in a jar, trace journeys on a globe and end with 'Vasudhaiva Kutumbakam', the world is one family, and a pledge to care for our shared home.",
+  "goals": [
+    "By the end your child can write their full address down to 'Planet: Earth' and show on a globe that all the oceans are connected and where India is.",
+    "By the end your child can explain what 'nature has no boundaries' means, with examples of air, water, seeds and animals (like the rosy starling) crossing borders, backed by their own seed and dust experiments.",
+    "By the end your child can tell the travel stories of at least four things in the chapter (chilli, sugar, marigold, Gir cows, yoga) and find where three things in their own home came from.",
+    "By the end your child can trace on a globe things that came to India and things that went from India to the world.",
+    "By the end your child can explain how a glass jar traps heat and connect it to how the Earth's air keeps it warm, and why the whole world must share the job of caring for it.",
+    "By the end your child can explain 'Vasudhaiva Kutumbakam' in their own words and make and keep one pledge to care for the Earth."
+  ],
+  "words": [
+    ["planet", "a huge round body that travels around a star; the Earth is the planet we live on and goes around the Sun"],
+    ["astronaut", "a person trained to travel into space, like Rakesh Sharma and Shubhanshu Shukla"],
+    ["border", "a line on a map that separates one country or state from another; it cannot be seen from space"],
+    ["migrate", "to travel a long way at the same time every year, as rosy starlings do from Central Asia to India in winter"],
+    ["pest", "an animal, such as a locust, that damages crops"],
+    ["trade", "buying, selling and exchanging things between people and countries"],
+    ["origin", "the place where something first came from"],
+    ["breed", "a group of animals of one kind with special features, like Gir, Kankrej and Ongole cows"],
+    ["jaggery", "gur: a brown sweet made by boiling sugarcane juice until it thickens and sets"],
+    ["atmosphere", "the layer of air around the Earth that we breathe and that keeps the planet warm"],
+    ["greenhouse effect", "the way some gases in the air trap the Sun's heat near the Earth, like the glass of a closed jar or car"],
+    ["Vasudhaiva Kutumbakam", "a Sanskrit saying from ancient India meaning 'the world is one family'"]
+  ],
+  "day_mins": 45,
+  "days": [
+    {
+      "n": 1,
+      "title": "The blue planet and my address in space",
+      "goal": "See the Earth as astronauts saw it, write our address all the way out to 'Planet: Earth', explore the globe's connected oceans, and start two experiments on things that cross borders.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Look at the Earth from space",
+          "mins": 6,
+          "do": "Show your child a photo of the whole Earth from space on a phone (search 'Blue Marble photo' or 'Earth from ISS'). Ask: 'What can you see? Can you see India? Can you see our city? Can you see the lines between countries?' Good answers: blue oceans, white clouds, brown and green land, ice at the poles; no lines, no cities. Ask: 'Why do you think it is called the blue planet?' (Water covers about three-fourths of it, as we learned in Chapter 9.)"
+        },
+        {
+          "kind": "read",
+          "title": "Astronauts' words (pages 161–162)",
+          "mins": 7,
+          "do": "Read page 161 aloud: Group Captain Shubhanshu Shukla, the first Indian to reach the International Space Station (in 2025), said the Earth looks completely one, with no borders. Read the 'Do you know?' box: Wing Commander Rakesh Sharma, the first Indian in space (in 1984), said India looked 'Saare Jahaan Se Achcha'. Then read page 162: from space we see only the broad shapes of land and sea. Ask: 'Why did the astronaut say no countries exist?' (Borders are lines people draw on maps; nature doesn't see them.) Ask: 'Do borders still matter on the ground?' (Yes, for countries and laws; but air, water and birds ignore them.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 1: my address and the globe (pages 162–163)",
+          "mins": 12,
+          "do": "Do Activity a1, the book's Activity 1. Your child writes their full address: name, house number or building, street, village/town/city, district, state or union territory, country, planet. Ask: 'Which part of the address would a letter from the Moon need?' (All of it, including Earth!) Read the 'Do you know?' box on page 163 about DIGIPIN, India Post's 10-character digital code for every small place; if you can, find your home's DIGIPIN online together. Then do part 2 with a globe: 'Are all the oceans connected?' Your child traces a finger from the Indian Ocean to the Atlantic round Africa, and to the Pacific past Indonesia. (Yes, the oceans are all joined into one world ocean.) 'Where is India?' Find it and point out its neighbours.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Set up the dust catcher",
+          "mins": 6,
+          "do": "Start Experiment e2. Smear a thin layer of Vaseline on two white cards or plastic lids. Ask your child to guess first: 'If we leave these outside for 2 days, will anything stick? What?' Tape one on a balcony railing or window ledge outside and one inside the house on a shelf. Label with the date. Explain: 'Air moves all over the world. Some dust in the air may have come from far away, even from deserts in other countries.'",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "The sock walk: do seeds travel?",
+          "mins": 14,
+          "do": "Start Experiment e3. Your child pulls an old fuzzy sock over one shoe (or wears old socks over their feet in chappals) and walks for 5 minutes through a grassy, weedy patch: a park edge, an empty plot or a garden. Back home, look at the sock with a magnifying glass: 'What has stuck to it?' (Burrs, tiny seeds, grass bits.) Ask them to guess first: 'If we plant this sock, will anything grow?' Lay the sock flat in a tray of damp soil, cover it lightly, put it in a sunny spot and water it a little every day. Tell them: 'Seeds hitch rides on animals' fur and people's clothes; this is one way plants cross rivers, mountains and even borders.'",
+          "ref": "e3"
+        }
+      ],
+      "need": [
+        "Textbook pages 161–163",
+        "a phone to show a photo of Earth from space",
+        "a globe",
+        "2 white cards or plastic lids, Vaseline, tape",
+        "an old fuzzy sock, a tray of soil, water, a magnifying glass",
+        "a grassy or weedy patch nearby"
+      ],
+      "prep": [
+        {"task": "Find an old fuzzy sock and a tray or cut carton of soil, and choose a weedy patch for the sock walk", "when": "night before"}
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Nature has no boundaries: the travelling rosy starlings",
+      "goal": "Read how rosy starlings fly from Russia and Mongolia to India and help farmers, meet Salim Ali who studied bird journeys, write a bird's postcard and look at the dust we caught.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Nature has no boundaries (page 163)",
+          "mins": 5,
+          "do": "Read page 163 aloud: from far above we see no borders; air, water, clouds, seeds and animals move freely; people are linked by clothes, food, toys, music, stories and inventions. Do the Write question on page 165 now: 'What does it mean when we say nature has no boundaries?' Good answer: 'The wind, rivers, clouds, birds and seeds don't stop at a country's border; they move across the world, so what happens in one place can affect another.' Ask for an example: the Brahmaputra flows from Tibet (China) through India into Bangladesh."
+        },
+        {
+          "kind": "read",
+          "title": "Story 1: the travelling birds (page 164)",
+          "mins": 7,
+          "do": "Read Story 1 on page 164: rosy starlings, pink and black, fly thousands of kilometres each winter from southern Russia, Mongolia and nearby countries to India, and eat locusts and grasshoppers, helping farmers. Find Russia and Mongolia on the globe and measure with a string roughly how far it is to India. Do the Write questions: 'Does the rosy starling visit your area? What is it called locally?' (In Hindi it is often called 'tilyar' or 'gulabi maina'; ask an elder for your local name; it is common in winter in many parts of India.) 'What does this story tell us about nature?' (Living things depend on places across the world; a bird from Russia protects crops in India.)"
+        },
+        {
+          "kind": "think",
+          "title": "Salim Ali and the secret of bird journeys",
+          "mins": 9,
+          "do": "Share Voice v1 in your own words: Salim Ali, India's 'Birdman', and the Bombay Natural History Society put tiny numbered metal rings on the legs of thousands of birds, especially in the 1960s and 1970s, at places like Bharatpur in Rajasthan. When a ringed bird was found later in another country, it proved where it had flown. Ask the voice question. Ask: 'Why would a bird need to fly so far?' (To escape the freezing winter and find food, then return in summer to nest where the days are long and insects plenty.)",
+          "ref": "v1"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 2: winter birds and a bird's postcard (page 165)",
+          "mins": 15,
+          "do": "Do Activity a2, the book's Activity 2 on page 165. Part 1: list (and draw) 5 birds that visit India in winter and where they come from, for example rosy starling (Central Asia), bar-headed goose (Mongolia and Tibet, flies over the Himalayas), greater flamingo (parts come from Iran and Central Asia; many also breed in the Rann of Kutch), demoiselle crane (Mongolia and Kazakhstan, famous at Khichan in Rajasthan), northern pintail duck (Siberia and Europe). Part 2: tie a string on the globe from Mongolia/southern Russia to India to show the rosy starling's path. Part 3: your child imagines being a rosy starling and writes a postcard home: what they see on the way (mountains, deserts, rivers), what helps them (tailwinds, warm weather, food in fields) and what dangers they meet.",
+          "ref": "a2"
+        },
+        {
+          "kind": "exp",
+          "title": "Read the dust catcher",
+          "mins": 6,
+          "do": "Bring in the two cards from Experiment e2 (if 2 days have not passed, do this step on Day 3). Look with a magnifying glass: 'Which card has more dust? What colours and shapes can you see?' Usually the outside card is much dirtier, with grey and black specks, tiny fibres, sand grains and maybe pollen or an insect wing. Ask: 'Where could this dust have come from?' (Roads, construction, smoke, soil, and some from far away.) Read the 'why' from e2.",
+          "ref": "e2"
+        },
+        {
+          "kind": "exp",
+          "title": "Water the sock",
+          "mins": 3,
+          "do": "Water the sock tray from Experiment e3 lightly. Ask: 'Any green yet?' (Usually not yet; most seeds take a few days to a week.) Your child writes the date and 'nothing yet' or what they see.",
+          "ref": "e3"
+        }
+      ],
+      "need": [
+        "Textbook pages 163–165",
+        "the globe and a piece of string",
+        "drawing paper and colours",
+        "the two dust cards, a magnifying glass",
+        "the sock tray"
+      ],
+      "prep": []
+    },
+    {
+      "n": 3,
+      "title": "Yoga goes to the world, chilli comes to India",
+      "goal": "Learn how yoga travelled from India to the world and try some poses, then trace how chillies came from South America to Indian kitchens and taste a pre-chilli recipe.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Story 2: yoga, India's gift (pages 166–167)",
+          "mins": 6,
+          "do": "Read Story 2 on pages 166–167: yoga has been practised in India for more than 3,000 years to keep body and mind healthy; travellers, scholars and teachers shared it, and today it is practised in almost every country; in 2014 the United Nations declared 21 June the International Day of Yoga. Ask the Discuss question: 'Why do you think yoga became popular in so many countries?' Good answers: it needs no equipment or money, anyone can do it at home, it helps people feel calm and flexible. Ask: 'Why 21 June?' (It is the longest day of the year in the northern half of the Earth, remember Chapter 9.)"
+        },
+        {
+          "kind": "do",
+          "title": "Try three poses (page 167 Write)",
+          "mins": 10,
+          "do": "Do the Write question on page 167: 'Can you name a yoga pose you have tried or seen? What does it help with?' Then do three simple poses together on a mat or durrie, holding each for 5 slow breaths: tadasana (mountain pose: stand tall, feet together, arms up; helps posture and balance), vrikshasana (tree pose: one foot on the other leg's inner calf or thigh, never on the knee, hands joined; helps balance and focus), and balasana (child's pose: kneel, sit back on heels, fold forward; helps relax). Ask: 'How did your breathing feel at the end?' Your child writes the names and what each helps with."
+        },
+        {
+          "kind": "read",
+          "title": "Story 3: chilli, the spice that changed our lives (pages 167–168)",
+          "mins": 7,
+          "do": "Read Story 3 on pages 167–168: chilli plants were found only in South America; about 400–500 years ago travellers from Portugal brought them to India, and now we can't imagine our food without them; before that, black pepper spiced our food. Do the Write questions on page 168: 'What would happen if chillies disappeared from our kitchens for a week?' (No green chutney, no tadka with red chilli, pickles and sambar would taste different, we would use more pepper, ginger and mustard.) 'Ask your parents for a recipe that uses black pepper and not red chillies.' (For example pepper rasam, pongal, kali mirch chicken, milagu kuzhambu, or a kadha.) Read the fact on page 166: traders called pepper 'black gold'."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 3: trace the chilli's journey (page 168)",
+          "mins": 10,
+          "do": "Start Activity a3, part 1 of the book's Activity 3 on page 168. With a red string on the globe, trace the chilli's journey: from South America (Brazil) across the Atlantic to Portugal, then round the southern tip of Africa and across the Indian Ocean to Goa on India's west coast, where the Portuguese traded. Ask: 'About how many months did such a ship journey take?' (Many months; ships depended on winds, as in Chapter 7.) Tell your child that the Portuguese sailor Vasco da Gama first reached India by this sea route in 1498. Ask: 'Why might the chilli have grown well in India?' (Warm, sunny climate like its home.)",
+          "ref": "a3"
+        },
+        {
+          "kind": "do",
+          "title": "Pepper or chilli taste test",
+          "mins": 9,
+          "do": "Make two small bowls of plain curd or dal. Add a pinch of crushed black pepper to one and a pinch of red chilli powder to the other. Your child tastes a tiny amount of each (start very small) and describes the difference: where in the mouth they feel it, how long it lasts, the smell. Explain: chilli's heat comes from a chemical called capsaicin, pepper's from piperine; both trick our tongue's heat sensors. Ask: 'If you were a cook in India 600 years ago, which would you have used?' (Pepper, long pepper, ginger and mustard; chilli had not arrived.) Water the sock tray from Experiment e3 at the end.",
+          "ref": "e3"
+        },
+        {
+          "kind": "exp",
+          "title": "Dust catcher (if not done)",
+          "mins": 3,
+          "do": "If you could not look at the Experiment e2 dust cards on Day 2, do it now. Otherwise, your child draws the two cards side by side and labels 'outside' and 'inside', and writes one sentence: 'The outside card had more dust because…'",
+          "ref": "e2"
+        }
+      ],
+      "need": [
+        "Textbook pages 166–168",
+        "a yoga mat or durrie",
+        "the globe and a red string",
+        "a little curd or dal, black pepper, red chilli powder, 2 small bowls, spoons",
+        "the sock tray and dust cards"
+      ],
+      "prep": []
+    },
+    {
+      "n": 4,
+      "title": "Food travellers: sugar, potatoes and the idea of zero",
+      "goal": "Learn that the method of making jaggery and sugar began in India and spread to the world, write the travel story of a food that came to India, and weigh the evidence about where zero was first written.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Story 4: the sweet story of sugar (pages 168–169)",
+          "mins": 7,
+          "do": "Read Story 4 on pages 168–169: long ago people elsewhere used honey for sweetness; making jaggery from sugarcane juice was first discovered in India, and later a way to make it into sugar; this spread through trade and travel; rice, mangoes and bananas also travelled from India. Tell your child the word trail: the Sanskrit 'sharkara' (grit, sugar) became 'sukkar' in Arabic, 'zucchero' in Italian and 'sugar' in English, and 'khanda' became 'candy'. Ask: 'What does it tell you that so many languages use a word that started in India?' (The thing and its name travelled together.) Do the Discuss questions on page 169: 'If you could share one Indian food with the world, what would it be?' and 'What food items might travel in the future?'"
+        },
+        {
+          "kind": "do",
+          "title": "Jaggery and sugar side by side",
+          "mins": 7,
+          "do": "Put a piece of jaggery (gur), a spoon of white sugar and, if you have it, a spoon of brown sugar or mishri on a plate. Look with a magnifying glass and taste a crumb of each. Ask: 'Which looks like crystals? Which is soft and lumpy?' Explain: sugarcane juice is boiled until most of the water goes; if it is just thickened and set, it is jaggery, which keeps the brown molasses; if it is cleaned and made to form crystals, and the brown liquid is separated, it becomes white sugar. Ancient Indians learned to make the crystals, which kept for a long time and could travel far by ship, which is why sugar could become a world trade."
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 3 part 2: a food's travel story (page 168)",
+          "mins": 12,
+          "do": "Continue Activity a3 with part 2: your child chooses one of potato, tomato, peanut or cashew and writes its travel story in 6–8 sentences, using a book or a safe search with you. Key facts: potato came from the Andes mountains of South America (Peru); tomato from western South America and Mexico; peanut from South America; cashew from Brazil, brought by the Portuguese to Goa, where it was planted along the coast. All of them reached India in the last 500 years. Then add a different-coloured string on the globe for their journey. Ask: 'What would samosa, pav bhaji or chikki be without these travellers?'",
+          "ref": "a3"
+        },
+        {
+          "kind": "think",
+          "title": "Where was zero first written?",
+          "mins": 10,
+          "do": "Read the fun fact on page 165: zero was first written down in India, and this idea of 'nothing' helped the world do mathematics. Then share Voice v2 in your own words: the Bakhshali manuscript, a birch-bark maths book found in 1881 in a field near Peshawar, uses a dot as a zero. In 2017, scientists at Oxford tested bits of the bark and said some pages were from the 3rd or 4th century, which would make it the oldest written zero. Other historians of mathematics disagree with that early date. Everyone agrees that by 628 CE Brahmagupta wrote rules for calculating with zero as a number. Ask the voice question.",
+          "ref": "v2"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 9,
+          "do": "Give Worksheet ws1 (core). Your child reads each question aloud and answers. Point to the page if stuck: page 164 for rosy starlings, page 167 for chillies, page 169 for sugar. Check together. Water the sock tray afterwards.",
+          "ref": "ws1"
+        }
+      ],
+      "need": [
+        "Textbook pages 165, 168–169",
+        "jaggery, white sugar, brown sugar or mishri, a plate, a magnifying glass",
+        "a phone or book to look up a food's origin",
+        "the globe and a second colour of string",
+        "Worksheet ws1"
+      ],
+      "prep": []
+    },
+    {
+      "n": 5,
+      "title": "Marigolds from Mexico and cows that went to Brazil",
+      "goal": "Learn how the marigold came from Mexico and became part of Indian festivals, how Indian cows became important in Brazil, and find where the things in our own home came from.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Story 5: the Mexican marigold (page 170)",
+          "mins": 7,
+          "do": "Read Story 5 on page 170: the marigold (genda) came from Mexico, where it is special in festivals, and travelled across the world to India, where it is now in temples, weddings and Diwali. If you have marigolds at home or can buy a few from a flower seller, hold one. Do the Write questions on pages 170–171: 'Why do both Indian and Mexican cultures use marigolds in festivals?' Good answers: bright sun-like orange and yellow, a strong smell, they stay fresh for days, they grow easily. Tell your child: in Mexico they decorate for the Day of the Dead festival (Día de Muertos) to remember family who have died. 'Why do people include flowers in celebrations?' Ask: 'Where do the marigold seeds come from?' Pull apart a dried flower head to find the thin black seeds; your child can plant a few in a pot."
+        },
+        {
+          "kind": "read",
+          "title": "Story 6: the cows that went to Brazil (page 171)",
+          "mins": 7,
+          "do": "Read Story 6 on page 171: Portuguese traders took Indian cows to Brazil; they were strong, gave good milk and handled the hot weather; today three Indian breeds, Gir (Gujarat), Kankrej (Gujarat and Rajasthan) and Ongole (Andhra Pradesh), are very important to Brazil's milk and appear on stamps and coins. Explain one more detail: Brazilian farmers crossed Gir cows with European Holstein cows to make the 'Girolando' breed, which gives lots of milk and stands the heat. Find Gujarat and Andhra Pradesh, and then Brazil, on the globe. Do the Write question: 'What does this story tell us about animals moving from one place to another?' (Animals suited to heat can help farmers in other hot countries; good breeds are a treasure we should protect.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 4: cow breeds and where things came from (page 172)",
+          "mins": 16,
+          "do": "Do Activity a4, the book's Activity 4 on page 172. Part 1: with an elder or a book, your child names at least 5 Indian cow breeds and their home state, for example Gir (Gujarat), Sahiwal (Punjab), Red Sindhi, Tharparkar (Rajasthan), Ongole (Andhra Pradesh), Kankrej (Gujarat), Hallikar (Karnataka), Kangayam (Tamil Nadu), Vechur (Kerala, one of the smallest cows in the world). Part 2: copy the page 172 table with rows Clothing, Food, Sports, Musical instruments, Tree, and columns Items, Names, Origin from. Fill the book's example (Clothing: jeans, America) and find one more for each row: food: tomato (South America) or tea (China); sport: cricket (England) or chess (India, page 167 fact); instrument: guitar (Spain) or harmonium (Europe, now loved in India); tree: gulmohar (Madagascar), eucalyptus (Australia) or subabul (Central America).",
+          "ref": "a4"
+        },
+        {
+          "kind": "exp",
+          "title": "Sock walk check",
+          "mins": 6,
+          "do": "Look at the sock tray from Experiment e3. Count the seedlings that have come up and look closely: 'Are they all the same kind, or different?' (Usually several different grasses and weeds.) Your child draws three different seedlings. Ask: 'If you walked from one country to another, how many seeds might you carry?' This is why airports ask travellers not to bring in soil, seeds or fruit: new plants and pests can spread.",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Travellers in one room",
+          "mins": 9,
+          "do": "Stand in your kitchen. Your child names as many things as possible whose origin is outside India, and says where from: tomato and potato and chilli and cashew (Americas), tea (China), coffee (Ethiopia, first grown in India on the Baba Budan hills of Karnataka), cauliflower and cabbage (Mediterranean), pineapple and papaya (Americas). Then name things that went from India to the world: rice, sugar, black pepper, cardamom, turmeric, mangoes, bananas, cotton cloth, indigo (fact on page 170). Make two lists, 'Came to India' and 'Went from India', which you will use on Day 6."
+        }
+      ],
+      "need": [
+        "Textbook pages 167, 170–172",
+        "a few marigold flowers (fresh or dried), a small pot with soil",
+        "the globe",
+        "an elder or a book for cow breeds",
+        "the sock tray",
+        "notebook"
+      ],
+      "prep": [
+        {"task": "Buy or collect a few marigold flowers, including a dried one with seeds", "when": "morning"}
+      ]
+    },
+    {
+      "n": 6,
+      "title": "The web of life: things that travel, and heat that is trapped",
+      "goal": "Interview an elder about something new in their lifetime, map two-way journeys on the globe, and test with a glass jar how the Earth's air traps heat, a problem all countries share.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Web of life (pages 172–173)",
+          "mins": 5,
+          "do": "Read 'Web of Life' on pages 172–173: these stories are about people, journeys, sharing and blending of cultures; the Earth is a living web where people, animals, plants and ideas travel, mix and grow together. Ask: 'What is a web? What happens to a spider's web if you pull one thread?' (The whole web shakes.) 'How is the Earth like a web?' (A change in one place, like cutting forests or polluting the air, is felt in other places.)"
+        },
+        {
+          "kind": "act",
+          "title": "Book Activity 5: interview and two-colour journey map (page 173)",
+          "mins": 15,
+          "do": "Do Activity a5, the book's Activity 5 on page 173. Part 1: your child phones or sits with a grandparent or neighbour and asks: 'What food, song, game or custom was not there in your childhood but is common today? Where did it come from?' (Answers might be noodles, pizza, birthday cakes, cricket on TV, mobile phones, Valentine's Day, Korean songs, idli in north India.) Write the answer. Part 2: use the 'Came to India' and 'Went from India' lists from Day 5 and the stories. Using two colours of string or wool, your child traces at least three journeys of each on the globe or a world map: in one colour chilli, potato, marigold; in the other sugar, yoga, Gir cows.",
+          "ref": "a5"
+        },
+        {
+          "kind": "exp",
+          "title": "Greenhouse in a jar",
+          "mins": 15,
+          "do": "Do Experiment e1. Put two identical small steel bowls, each with 3 ice cubes of the same size (or two thermometers if you have them), side by side in full sunlight. Cover one bowl with a clear glass jar turned upside down. Ask your child to guess first: 'Which ice will melt faster: under the jar or in the open? Why?' Check every 5 minutes and note which has more water. Usually the covered one melts faster and the air inside the jar feels warmer. Explain the 'why' from e1: sunlight passes in through the glass, warms what's inside, and the warmth can't escape easily. The Earth's atmosphere does something similar with gases like carbon dioxide; burning coal, petrol and wood adds more of these gases and makes the whole planet warmer.",
+          "ref": "e1"
+        },
+        {
+          "kind": "think",
+          "title": "Eunice Foote and the warm jar",
+          "mins": 10,
+          "do": "While waiting for the ice, share Voice v3 in your own words: in 1856, an American woman scientist, Eunice Foote, put glass cylinders filled with different gases in the sunlight and found that the one with carbon dioxide got the hottest, and wrote that more of this gas in the air would make the Earth warmer. Because she was a woman, a man had to read her paper aloud at the science meeting, and she was forgotten for more than 150 years. Ask the voice question. Then ask: 'If one country makes lots of smoke, whose air gets warmer?' (Everyone's, because air has no borders.)",
+          "ref": "v3"
+        }
+      ],
+      "need": [
+        "Textbook pages 172–173",
+        "a phone to call a grandparent or neighbour",
+        "the globe or a world map, two colours of string or wool, tape",
+        "2 identical small steel bowls, 6 ice cubes of the same size (or 2 thermometers), a clear glass jar, a sunny spot",
+        "a clock"
+      ],
+      "prep": [
+        {"task": "Tell a grandparent or neighbour your child will call to interview them for 5 minutes; freeze a full ice tray", "when": "night before"}
+      ]
+    },
+    {
+      "n": 7,
+      "title": "One Earth, one family",
+      "goal": "Understand 'Vasudhaiva Kutumbakam', read the meaning of the environment ministry's logo, play the cooperative Planet Keepers game and choose an Earth pledge.",
+      "steps": [
+        {
+          "kind": "read",
+          "title": "Vasudhaiva Kutumbakam (pages 173–175)",
+          "mins": 8,
+          "do": "Read 'One Earth, One Family!' on pages 173–174: the ancient Indian saying 'Vasudhaiva Kutumbakam' means the world is one family; people, animals, trees, rivers, air and sky all belong; Earth is the only planet we know that has life, and it needs care. Tell your child the saying comes from an old Sanskrit text, the Maha Upanishad, and that India used 'One Earth, One Family, One Future' as its theme when it hosted the G20 meeting of world leaders in 2023. Then read the 'Do you know?' box on page 175 about the logo of the Ministry of Environment, Forest and Climate Change and look at the logo together (search it on a phone): it shows humans and nature in balance. Do the Write questions on page 176: 'What does Vasudhaiva Kutumbakam teach us? Write its meaning in your own words. How can we live like one big family, even when we are different?'"
+        },
+        {
+          "kind": "game",
+          "title": "Planet Keepers (a cooperative game)",
+          "mins": 17,
+          "do": "Play Planet Keepers together; everyone is on the same team. Start with 20 Earth-health tokens (coins, beads or rajma beans) in a bowl. Make 10 event cards (forest fire: −3; new coal factory: −2; tree-planting drive: +2; a river cleaned: +2; plastic dumped in the sea: −2; Amur falcons protected: +1; heatwave: −2; city switches to solar: +2; locust swarm, rosy starlings help: +1; car-free day: +1) and 8 action cards (plant a tree, carry a cloth bag, switch off fans, walk to the shop, fix a leaking tap, compost kitchen waste, protect a bird's nest, buy local seasonal food), each worth +1. Each round, flip one event and adjust the tokens; then each player plays one action card and must explain how it helps. Play 10 rounds; if Earth-health is above 10 at the end, everyone wins. Ask afterwards: 'Could one player alone have saved the Earth?'"
+        },
+        {
+          "kind": "act",
+          "title": "Choose our Earth pledge",
+          "mins": 10,
+          "do": "Start Activity a6. Do Let us reflect question 2 on page 176: 'Write one way you can care for the Earth.' Together, choose ONE family change you can measure for 4 weeks, for example: 'We will carry cloth bags and count plastic bags refused', 'We will switch off fans and lights when leaving a room; we'll check the electricity meter weekly (as in Chapter 7)', 'We will put no food in the dustbin; leftovers go to compost'. Your child writes the pledge on a card, everyone signs it, and you stick it on the fridge with a 4-week tick chart below.",
+          "ref": "a6"
+        },
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Give Worksheet ws2 (stretch). Your child works alone for 8 minutes, then you check it together. Ask them to explain aloud their answer about the greenhouse jar.",
+          "ref": "ws2"
+        }
+      ],
+      "need": [
+        "Textbook pages 173–176",
+        "a phone to look at the MoEFCC logo",
+        "20 coins, beads or beans, 18 small cards for the game",
+        "a card for the pledge and a tick chart",
+        "Worksheet ws2"
+      ],
+      "prep": [
+        {"task": "Write the 10 event cards and 8 action cards for Planet Keepers", "when": "night before"}
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Let us reflect, start the Seasons' Journal, check and teach it back",
+      "goal": "Answer the book's reflection questions, set up the year-long Seasons' Journal at the end of the book, check understanding and have your child teach the chapter back.",
+      "steps": [
+        {
+          "kind": "review",
+          "title": "Let us reflect (page 176)",
+          "mins": 10,
+          "do": "Do Let us reflect questions 1 and 3 on page 176. Question 1: your child picks one idea that travelled (zero, chess, yoga, sugar-making, the charkha, Ayurveda from the page 164 fact, or paper from China from page 169) and writes a short story of 8–10 sentences about how it might have travelled long ago, by whom (a trader, a monk, a sailor) and how it changed people's lives. Question 3: 'Name an item that can travel from India to other parts of the world and write about it.' (For example ragi or other millets, Kanjeevaram silk, a cricket bat from Jalandhar, an Indian medicine, a Bollywood song.) Your child reads the story aloud."
+        },
+        {
+          "kind": "do",
+          "title": "Set up the Seasons' Journal (end of the book)",
+          "mins": 8,
+          "do": "Open the Seasons' Journal pages at the end of the book. Read the first page aloud: make four entries during the year, once every term, observing the same place and recording five themes: plant life, birds and animals, air, heat and light, water and water bodies, and human activities. Read the questions in the theme table (for example 'Does it flower or fruit? When?' and 'What are people wearing?'). Choose the place together (your season tree from Chapter 9 is ideal). Fill the page for the current time period today, and write the dates of the next three entries on the family calendar."
+        },
+        {
+          "kind": "check",
+          "title": "Chapter check",
+          "mins": 10,
+          "do": "Ask the 8 check questions aloud, one at a time, without the book. Tick the ones answered well. For any missed answer, open the right page for a minute (page 163 for nature has no boundaries, page 164 for rosy starlings, page 167 for chilli, page 169 for sugar, page 174 for Vasudhaiva Kutumbakam), then ask again in different words. Six or more right is good; fewer than five means retell the six stories together with the globe and strings next week."
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 7,
+          "do": "Do Worksheet ws3 (challenge), Sections A and B, together. Talk through each puzzle before writing. Keep Section C for a free afternoon.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Teach it back: a tour of the globe",
+          "mins": 10,
+          "do": "Your child becomes a 'world guide' and, using the globe with its coloured strings, the sock tray seedlings, the dust card and the bird postcard, teaches you the chapter in 5 minutes: why astronauts see no borders, how birds, seeds, dust and air cross the world, three things that came to India and three that went from India, how a glass jar traps heat and why the Earth's warming is everyone's problem, and what Vasudhaiva Kutumbakam means. Ask two 'visitor' questions such as 'Did people in India eat chillies in Ashoka's time?' and 'Why does smoke in one country matter to another?' End by checking the first tick on the family Earth pledge from Activity a6, and plan to share the 4-week results with neighbours or your learning group.",
+          "ref": "a6"
+        }
+      ],
+      "need": [
+        "Textbook page 176 and the Seasons' Journal pages at the end of the book",
+        "the globe with strings, the sock tray, the dust card, the bird postcard",
+        "Worksheet ws3",
+        "the pledge card and tick chart"
+      ],
+      "prep": []
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Our connected Earth",
+      "day": 4,
+      "sections": [
+        ["A. The blue planet", [
+          {"t": "fill", "p": "The first Indian to reach the International Space Station was Group Captain Shubhanshu ____.", "a": ["Shukla"]},
+          {"t": "fill", "p": "Wing Commander Rakesh ____ was the first Indian in space.", "a": ["Sharma"]},
+          {"t": "mcq", "p": "Are all the oceans on Earth connected to each other?", "opts": ["Yes, they are all joined", "No, each is separate", "Only the Indian and Pacific Oceans", "Only in the monsoon"], "a": 0},
+          {"t": "write", "p": "What does 'nature has no boundaries' mean? Give one example.", "lines": 2}
+        ]],
+        ["B. The travelling stories", [
+          {"t": "match", "p": "Match each traveller to its story.", "pairs": [["Rosy starling", "Flies from Russia and Mongolia to India and eats locusts"], ["Chilli", "Came from South America with Portuguese travellers"], ["Sugar-making", "Began in India and spread to the world"], ["Marigold", "Came from Mexico and is now used in Indian festivals"], ["Gir cow", "Went from India to Brazil and gives milk there"], ["Yoga", "Began in India and is now practised in almost every country"]]},
+          {"t": "mcq", "p": "Before chillies came to India, Indian food was spiced mainly with:", "opts": ["Tomato", "Black pepper", "Potato", "Marigold"], "a": 1}
+        ]],
+        ["C. Came or went?", [
+          {"t": "sort", "p": "Sort these.", "items": ["Chilli", "Sugar", "Potato", "Yoga", "Marigold", "Gir cows", "Tomato", "Black pepper"], "cats": ["Came to India", "Went from India"]},
+          {"t": "fill", "p": "'Vasudhaiva Kutumbakam' means 'the world is one ____'.", "a": ["family"]}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Explaining our experiments and journeys",
+      "day": 7,
+      "sections": [
+        ["A. Our experiments", [
+          {"t": "write", "p": "Plants grew from the sock after our walk. What does this tell you about how seeds travel? Name two other ways seeds travel.", "lines": 3},
+          {"t": "write", "p": "The ice under the glass jar melted faster. Explain why, and say what in the Earth's air acts like the jar.", "lines": 3},
+          {"t": "mcq", "p": "The outside dust card was much dirtier than the inside one. Which is the best conclusion?", "opts": ["All the dust came from our house", "Air carries dust from many places, near and far", "Dust only falls when it rains", "Vaseline makes dust"], "a": 1}
+        ]],
+        ["B. Journeys", [
+          {"t": "table", "p": "Fill in the journeys.", "cols": ["Thing", "Came from", "Went to", "How it travelled"], "rows": 4, "prefill": ["Chilli", "Gir cow", "Rosy starling", "Sugar-making"]},
+          {"t": "write", "p": "Why might rosy starlings be called 'farmers' friends'?", "lines": 2}
+        ]],
+        ["C. Origins at home", [
+          {"t": "match", "p": "Match each food to where it first came from.", "pairs": [["Potato", "The Andes mountains of South America"], ["Cashew", "Brazil"], ["Tea", "China"], ["Mango", "India"], ["Marigold", "Mexico"]]},
+          {"t": "write", "p": "Write one thing in your home that came from another country and one thing from India that is now used around the world.", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Big questions about our shared home",
+      "day": 8,
+      "sections": [
+        ["A. What if?", [
+          {"t": "write", "p": "What if all the rosy starlings stopped coming to India? What might happen to the crops and the farmers?", "lines": 3},
+          {"t": "write", "p": "What if every country put up a giant wall at its border? Which things would the wall NOT stop? Name three.", "lines": 3},
+          {"t": "mcq", "p": "Airports often do not allow travellers to bring in soil, seeds or fresh fruit from other countries. Based on our sock walk, the best reason is:", "opts": ["Fruit is too heavy for planes", "New plants, seeds and pests could spread and harm local crops", "Soil is too dirty to carry", "They want to sell their own fruit"], "a": 1}
+        ]],
+        ["B. Weighing evidence", [
+          {"t": "write", "p": "Oxford scientists dated the bark of some Bakhshali manuscript pages to the 3rd or 4th century. Other historians say the writing may be younger than the bark. How could writing be younger than the bark it is written on? What other clues could help?", "lines": 4},
+          {"t": "write", "p": "Eunice Foote did her experiment in 1856, but most people only learned her name after 2010. Why do you think good science is sometimes forgotten? What can we do so it is not?", "lines": 3}
+        ]],
+        ["C. Plan and design", [
+          {"t": "draw", "p": "Draw a poster for your family's Earth pledge: show the problem, your action and how you will measure it for 4 weeks."},
+          {"t": "table", "p": "Plan your 4-week pledge results chart.", "cols": ["Week", "What we did", "What we measured", "Did we keep the pledge?"], "rows": 4, "prefill": ["Week 1", "Week 2", "Week 3", "Week 4"]}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Greenhouse in a jar",
+      "day": 6,
+      "question": "Does a closed glass cover trap the Sun's heat, and how is this like the Earth's air?",
+      "need": ["2 identical small steel bowls", "6 ice cubes of the same size (or 2 thermometers)", "a clear glass jar big enough to cover one bowl", "a sunny spot", "a clock"],
+      "steps": [
+        "Put 3 ice cubes in each bowl (or lay a thermometer in each spot instead) side by side in full sunlight.",
+        "Cover one bowl with the glass jar turned upside down. Leave the other open.",
+        "Check every 5 minutes for 20–30 minutes.",
+        "Note which bowl has more melted water each time (or read both thermometers).",
+        "At the end, lift the jar and feel the air inside with your hand."
+      ],
+      "predict": "Ask your child to guess first: will the ice melt faster under the jar or in the open? Or will they melt at the same speed?",
+      "observe": "Usually the ice under the jar melts faster and the air inside the jar feels warmer than the air outside. A thermometer under a jar often reads several degrees higher than one in the open.",
+      "why": "Sunlight passes easily through clear glass and warms the bowl and the air inside. The warm air under the jar cannot rise away or be blown off by the breeze, and the glass slows the heat escaping, so heat builds up, just as a closed car gets very hot in the summer sun. The Earth's atmosphere does a similar job in a different way: certain gases, such as carbon dioxide and water vapour, let sunlight in but absorb some of the heat the warm ground gives off, keeping the Earth warm enough for life. This is called the greenhouse effect. Without it the Earth would be frozen; but burning coal, petrol, diesel and wood adds extra carbon dioxide, so more heat is trapped and the whole planet gets warmer. Because the air is shared, this affects every country, no matter where the smoke was made.",
+      "safety": "Handle the glass jar carefully; it may get hot in the sun.",
+      "time": "15 min + 20 min watching"
+    },
+    {
+      "id": "e2",
+      "title": "Dust catcher",
+      "day": 1,
+      "question": "What does the air carry, and is there more outside than inside?",
+      "need": ["2 white cards or plastic lids", "Vaseline", "tape", "a magnifying glass", "a pen"],
+      "steps": [
+        "Smear a thin, even layer of Vaseline on one side of each card.",
+        "Label one 'Outside' and one 'Inside' with the date.",
+        "Tape the outside card on a balcony railing or window ledge, sticky side up, where rain won't fall on it.",
+        "Put the inside card on a high shelf indoors.",
+        "After 2 days, collect both and look at them under the magnifying glass.",
+        "Draw what you see on each card."
+      ],
+      "predict": "Ask your child to guess first: will anything stick to the cards? Which card will have more? What kinds of things will we see?",
+      "observe": "The outside card is usually much greyer, with black specks (soot from traffic and smoke), sand and soil grains, tiny fibres, and sometimes pollen, seeds or insect parts. The inside card has less, often fibres from clothes and a little fine dust.",
+      "why": "Air is always moving, and it lifts tiny particles from roads, building sites, fields, smoke and plants and carries them along. Most of the dust on our card came from nearby, but the smallest particles can travel very far: satellites show dust storms from the Thar and from deserts in the Middle East reaching north India, and smoke from crop burning drifting hundreds of kilometres. Air has no borders, so what one place puts into it, others breathe. The dirtiest specks, soot, come from burning fuels, which is why cleaner fuels (Chapter 7) matter for everyone.",
+      "safety": "Wash hands after handling the cards. Do not put Vaseline near eyes.",
+      "time": "6 min to set up + 2 days + 6 min to look"
+    },
+    {
+      "id": "e3",
+      "title": "The sock walk: how seeds travel",
+      "day": 1,
+      "question": "Do seeds hitch rides on clothes and fur, and will they grow somewhere new?",
+      "need": ["an old fuzzy sock", "a weedy or grassy patch", "a tray or cut carton of soil", "water", "a magnifying glass"],
+      "steps": [
+        "Pull the sock over one shoe (or wear it over your foot in a chappal).",
+        "Walk slowly for 5 minutes through tall grass and weeds.",
+        "Take off the sock and look at what has stuck to it with a magnifying glass.",
+        "Lay the sock flat on a tray of damp soil and cover it lightly with more soil.",
+        "Keep it in a sunny spot and sprinkle water on it every day.",
+        "Count and draw the seedlings after 1 week and 2 weeks."
+      ],
+      "predict": "Ask your child to guess first: will any seeds stick to the sock? Will anything grow? How many plants, and will they be the same kind?",
+      "observe": "Burrs, hooked seeds and tiny grass seeds stick to the sock. After about 5–10 days, seedlings start coming up from the sock, often several different kinds of grasses and weeds.",
+      "why": "Plants cannot walk, so many have clever ways of sending their seeds to new places. Some seeds have hooks or sticky coats that cling to animal fur, feathers and people's clothes, and drop off far away; others float on wind (like the cotton-like seeds of the semal tree) or water (like coconuts), or are eaten in fruits by birds and dropped later. This is how plants spread across rivers, mountains and countries. Today, people carry seeds even further, on shoes, in cargo and on purpose, as with chillies and marigolds. Some newcomers are welcome; others, like lantana from Central and South America, spread out of control and crowd out Indian forest plants.",
+      "safety": "Wear shoes, check for thorns, and avoid patches where snakes might hide. Wash hands after handling soil.",
+      "time": "14 min to set up + 3 min checks over 1–2 weeks"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "My address to Planet Earth (book Activity 1, pages 162–163)",
+      "day": 1,
+      "mins": 12,
+      "need": ["notebook", "a globe", "a phone to look up DIGIPIN (optional)"],
+      "steps": [
+        "Write the full address: name, house number or building, street, village/town/city, district, state or union territory, country, planet.",
+        "Find your home's DIGIPIN online with an adult, if you can, and add it.",
+        "On the globe, trace a path connecting the Indian, Atlantic and Pacific Oceans.",
+        "Find India and name the countries around it.",
+        "Draw yourself as a dot inside India inside the Earth, like nesting boxes."
+      ],
+      "outcome": "Your child's complete address out to 'Planet: Earth' and the discovery that all the oceans are connected into one."
+    },
+    {
+      "id": "a2",
+      "title": "Winter visitors poster and a bird's postcard (book Activity 2, page 165)",
+      "day": 2,
+      "mins": 15,
+      "need": ["drawing paper and colours", "the globe and string", "a bird book or phone to check facts"],
+      "steps": [
+        "Draw 5 birds that visit India in winter and write where each comes from.",
+        "Tie a string from southern Russia or Mongolia to India on the globe for the rosy starling's path.",
+        "Imagine you are a rosy starling and write a postcard home about your journey.",
+        "Mention what you see and what helps you (winds, warm weather, food) and one danger.",
+        "Read the postcard aloud to the family."
+      ],
+      "outcome": "A winter-bird poster, a traced migration route and a postcard that shows how birds link far-away countries."
+    },
+    {
+      "id": "a3",
+      "title": "Journeys of chilli and other foods (book Activity 3, page 168)",
+      "day": 3,
+      "mins": 22,
+      "need": ["the globe", "red string and a second colour", "tape", "a book or phone for research", "notebook"],
+      "steps": [
+        "Trace the chilli's route with red string: South America → Portugal → round Africa → Goa.",
+        "Choose potato, tomato, peanut or cashew.",
+        "Find out where it came from and how it reached India.",
+        "Write its travel story in 6–8 sentences.",
+        "Trace its route with the second colour of string."
+      ],
+      "outcome": "Two traced food journeys on the globe and a written travel story, showing that many everyday Indian foods are world travellers."
+    },
+    {
+      "id": "a4",
+      "title": "Cow breeds and where our things came from (book Activity 4, page 172)",
+      "day": 5,
+      "mins": 16,
+      "need": ["notebook with the page 172 table", "an elder or a book", "a phone for research"],
+      "steps": [
+        "List at least 5 Indian cow breeds with their home states.",
+        "Copy the page 172 table: Items, Names, Origin from.",
+        "Fill in one example each for clothing, food, sports, musical instruments and trees.",
+        "Check each origin with an elder or a reliable source.",
+        "Circle the ones that surprised you."
+      ],
+      "outcome": "A list of Indian cow breeds and a table showing the origins of things in your home, proving how connected the world is."
+    },
+    {
+      "id": "a5",
+      "title": "Interview and two-colour journey map (book Activity 5, page 173)",
+      "day": 6,
+      "mins": 15,
+      "need": ["a grandparent or neighbour to interview", "the globe or a world map", "two colours of string or wool", "tape", "the 'Came to India' and 'Went from India' lists"],
+      "steps": [
+        "Ask an elder about a food, song, game or custom that was not there in their childhood but is common today, and where it came from.",
+        "Write their answer.",
+        "Choose three things that came to India and three that went from India.",
+        "Trace each journey on the globe or map, one colour for 'came', one for 'went'.",
+        "Explain the map to a family member."
+      ],
+      "outcome": "An interview note and a two-colour map of journeys into and out of India, showing that sharing goes both ways."
+    },
+    {
+      "id": "a6",
+      "title": "Our family Earth pledge",
+      "day": 7,
+      "mins": 10,
+      "need": ["a card", "pens", "a 4-week tick chart"],
+      "steps": [
+        "Choose one family change you can measure.",
+        "Write the pledge on a card and have everyone sign it.",
+        "Make a tick chart for 4 weeks and decide what you will count each week.",
+        "Fill the chart each week.",
+        "After 4 weeks, make a results poster and share it with neighbours or your learning group."
+      ],
+      "outcome": "A signed family pledge, a 4-week record of keeping it, and a results poster, putting Vasudhaiva Kutumbakam into practice at home."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Salim Ali (1896–1987), India, and the Bombay Natural History Society's bird-ringing work",
+      "idea": "Salim Ali, often called the 'Birdman of India', spent his life studying Indian birds and wrote the famous 'The Book of Indian Birds' (1941) and, with S. Dillon Ripley, the ten-volume 'Handbook of the Birds of India and Pakistan'. To find out where migrating birds came from and went, he and the Bombay Natural History Society caught birds in nets at places like Bharatpur in Rajasthan and Point Calimere in Tamil Nadu, fitted each with a tiny numbered metal ring on its leg, and let it go. When a ringed bird was later found in another country, the ring proved its journey. Large ringing programmes ran especially in the 1960s and 1970s.",
+      "then": "When Salim Ali started in the 1920s and 1930s, bird study in India was mostly done by British officers, and few Indians made a career of it; he struggled to find a job and paid for much of his early fieldwork himself. His careful field studies of how birds actually live, not just collecting dead specimens, slowly won respect.",
+      "now": "His work is accepted and honoured. Ringing showed that many of India's winter birds, including ducks, waders and starlings, come from Central Asia, Russia and beyond. Today scientists also use satellite tags and tiny GPS trackers. Salim Ali received the Padma Vibhushan in 1976, and the Salim Ali Centre for Ornithology and Natural History in Coimbatore is named after him.",
+      "status": "accepted",
+      "ask": "A ring on a bird's leg is found 4,000 km away. What does that prove, and what does it not prove? How many ringed birds would you want to find before saying 'rosy starlings come from Central Asia'?",
+      "day": 2
+    },
+    {
+      "id": "v2",
+      "who": "The Bakhshali manuscript and the debate over the oldest written zero (Bodleian Library, Oxford, 2017, and its critics)",
+      "idea": "The Bakhshali manuscript is an old Indian mathematics text written on birch bark, dug up in 1881 in a field at Bakhshali, near Peshawar in today's Pakistan, and now kept at the Bodleian Library in Oxford. It uses a dot as a placeholder zero, as in writing 101. In 2017 the library announced that radiocarbon dating showed some of its leaves came from the 3rd or 4th century CE, and said this made it the oldest known written zero in the world.",
+      "then": "The announcement made headlines worldwide. Several historians of Indian mathematics, including Kim Plofker, quickly published objections: the radiocarbon tests gave very different dates for different leaves, hundreds of years apart, though the text looks like a single work; and bark can be stored for a long time before it is written on. They argued the manuscript was more likely written around the 8th to 12th century.",
+      "now": "The early date is still debated. What is not in doubt is that Indian mathematicians developed zero as a number: by 628 CE Brahmagupta wrote rules for adding, subtracting and multiplying with zero, and a zero carved in a temple inscription at Gwalior dated 876 CE is widely accepted. This Indian place-value system, with zero, travelled through the Arab world to Europe and is the one we use today.",
+      "status": "debated",
+      "ask": "The bark of some pages is very old, but the writing might be younger. What else, apart from testing the bark, could tell you when something was written? Why is it wise to wait before calling something 'the oldest'?",
+      "day": 4
+    },
+    {
+      "id": "v3",
+      "who": "Eunice Newton Foote (1819–1888), United States",
+      "idea": "Foote was an amateur scientist and campaigner for women's rights. In 1856 she put thermometers inside glass cylinders filled with different gases (ordinary air, damp air, dry air and carbon dioxide) and set them in sunlight. The cylinder with carbon dioxide got the hottest and stayed hot longest. She wrote that if the air had more of this gas, the Earth would be warmer, and that this might explain warmer periods in the Earth's past.",
+      "then": "Women were not usually allowed to present papers at major science meetings, so her paper was read aloud by a male scientist, Joseph Henry, at the American Association for the Advancement of Science meeting in August 1856. It was briefly reported and then forgotten. Three years later the Irish physicist John Tyndall did more detailed experiments on how gases absorb heat, and for 150 years he alone got the credit for the discovery.",
+      "now": "Her finding that carbon dioxide traps heat is part of the firmly accepted science of the greenhouse effect and global warming. Her work was rediscovered around 2010, and she is now honoured as one of the first people to link carbon dioxide to the Earth's temperature.",
+      "status": "accepted",
+      "ask": "Foote's simple experiment was right, but she was ignored for 150 years. What questions should scientists ask about a new idea, so that they judge the evidence and not who the person is?",
+      "day": 6
+    }
+  ],
+  "check": [
+    {"q": "Why did astronaut Shubhanshu Shukla say no borders exist when he saw the Earth from space?", "a": "From space the Earth looks like one whole; borders are lines people draw on maps and cannot be seen. We are all part of one humanity living on one Earth."},
+    {"q": "What does 'nature has no boundaries' mean? Give two examples.", "a": "Air, water, clouds, seeds and animals move freely across countries. For example rosy starlings fly from Russia and Mongolia to India; rivers like the Brahmaputra flow through several countries; dust and smoke drift in the wind."},
+    {"q": "How do rosy starlings help Indian farmers?", "a": "They come to India in winter and eat locusts and grasshoppers, which are pests on crops."},
+    {"q": "Where did chillies come from, and who brought them to India?", "a": "From South America; Portuguese travellers brought them about 400–500 years ago. Before that, Indian food was spiced with black pepper."},
+    {"q": "Name two things that went from India to the world and two that came to India.", "a": "Went from India: sugar-making, yoga, rice, mangoes, bananas, black pepper, Gir cows, indigo, zero. Came to India: chilli, potato, tomato, peanut, cashew, marigold, paper (from China)."},
+    {"q": "Why did the ice under the glass jar melt faster? How is the Earth's air like the jar?", "a": "Sunlight came in through the glass but the warmth could not escape easily, so it got hotter inside. Gases in the Earth's air, like carbon dioxide, trap heat in a similar way, and burning fuels adds more, warming the whole planet."},
+    {"q": "How did our sock walk show that seeds travel?", "a": "Seeds stuck to the sock and grew into seedlings in the tray, showing that seeds hitch rides on clothes and animal fur and can grow in new places."},
+    {"q": "What does 'Vasudhaiva Kutumbakam' mean and what does it teach us?", "a": "'The world is one family.' It teaches us that all people, animals, plants, rivers and the air share one home, the Earth, so we should respect and care for one another and for the planet."}
+  ]
+}
