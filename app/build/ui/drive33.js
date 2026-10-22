@@ -14,7 +14,7 @@ await p.click('#sheetBody .wkctl >> nth=0 >> [data-to="planned"]');await p.waitF
 await p.click('#sheetBody .wkctl >> nth=1 >> [data-to="started"]');await p.waitForTimeout(200);
 await p.click('#sheetBody .wkctl >> nth=2 >> [data-to="done"]');await p.waitForTimeout(200);
 console.log('3.',await p.$$eval('#sheetBody .wkctl',x=>x.slice(0,3).map(e=>e.querySelector('b').textContent)));
-console.log('   work:',JSON.stringify(await p.evaluate(()=>S.work)).slice(0,400));
+console.log('   work:',JSON.stringify(await p.evaluate(()=>S.wk)).slice(0,400));
 const ins=id=>p.evaluate(id=>{const u=unitBy('ncert|sci|3|4');const st=packDay(u,9).find(x=>x.html.includes('data-act="qz"'));document.getElementById('sheetBody').insertAdjacentHTML('afterbegin','<div id="'+id+'">'+st.html+'</div>')},id);
 await ins('qq');const qb=await p.$$('#qq [data-act="qz"]');console.log('4. quiz buttons:',qb.length);await qb[0].click();await p.waitForTimeout(150);
 await ins('qq2');await (await p.$$('#qq2 [data-act="qz"]'))[3].click();await p.waitForTimeout(200);
@@ -26,5 +26,5 @@ console.log('6. folder:',(await p.$eval('#sheetBody',e=>e.innerText)).slice(0,90
 const dl=p.waitForEvent('download',{timeout:3000}).catch(()=>null);await p.click('[data-act="fsave"]');const D=await dl;
 if(D){const f=SP+'/folder_test.html';await D.saveAs(f);console.log('7. downloaded',require('fs').statSync(f).size)}else console.log('7. no download');
 await p.screenshot({path:SP+'/d33.png'});
-await p.reload();await p.waitForTimeout(600);console.log('8. after reload work keys:',await p.evaluate(()=>Object.keys(S.work||{}).length),'quiz:',await p.evaluate(()=>Object.keys(S.quiz||{}).length));
+await p.reload();await p.waitForTimeout(600);console.log('8. after reload work keys:',await p.evaluate(()=>Object.keys(S.wk||{}).length),'quiz:',await p.evaluate(()=>Object.keys(S.quiz||{}).length));
 console.log('errors:',errs);await b.close()})();

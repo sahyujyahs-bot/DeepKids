@@ -1,5 +1,6 @@
 const WKID=id=>/^(e|a|exp|act)\d+$|^proj$|^st\d+_\d+$/.test(id);
-const WK=()=>S.work||(S.work={});
+const WK=()=>S.wk||(S.wk={});
+function fixWork(){if(S.work&&!Array.isArray(S.work)){const ph=[],wk={};Object.entries(S.work).forEach(([k,v])=>{if(/^\d+$/.test(k)&&v&&v.id)ph.push(v);else if(k.includes("|")&&v&&v.st)wk[k]=v});S.wk={...wk,...(S.wk||{})};S.work=ph}}
 const wkOf=(k,id)=>{const w=WK()[k+"|"+id];if(w)return w;const t=S.tasks[k]?.[id];return t?{st:"done",done:t}:null};
 function wkTitle(u,id,text){if(u.c?.p){const [,x]=pkFind(u,id);if(x)return x.title}if(id==="proj"&&u.c?.proj)return u.c.proj[0];const m=/^(exp|act)(\d+)$/.exec(id);if(m){const s=(m[1]==="exp"?u.c?.exp:u.c?.act)?.[+m[2]];if(s)return s.split(":")[0].slice(0,70)}return text}
 const taskLine=(u,id,text)=>{if(WKID(id))return workCtl(u,id,text);const d=taskDone(u.k,id);return `<button class="tline ${d?"done":""}" data-act="task" data-k="${u.k}" data-id="${id}"><span class="ck">${icon("check")}</span><span>${esc(text)}</span></button>`};

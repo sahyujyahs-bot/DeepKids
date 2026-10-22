@@ -22,10 +22,11 @@ s='\n'.join('\n'.join(b) for b in B)
 def rep(a,b,c=1):
     global s
     assert s.count(a)==c,(s.count(a),a[:90]);s=s.replace(a,b)
-logic=logic.replace('games:{...(b.games||{}),...(a.games||{})}','games:{...(b.games||{}),...(a.games||{})},work:{...(b.work||{}),...(a.work||{})},quiz:{...(b.quiz||{}),...(a.quiz||{})}',1)
-assert 'work:{...(b.work' in logic
+if 'wk:{...(b.wk' not in logic: logic=logic.replace('games:{...(b.games||{}),...(a.games||{})}','games:{...(b.games||{}),...(a.games||{})},wk:{...(b.wk||{}),...(a.wk||{})},quiz:{...(b.quiz||{}),...(a.quiz||{})}',1)
+assert 'wk:{...(b.wk' in logic
 rep('html:srcLine(s)+packStep(u,s),name:`pk:${d.n}:${i}`','html:srcLine(s)+packStep(u,s)+(s.kind==="check"&&P.check?.length?quizList(u.k,d.n,P.check):"")+(stepSec(u,s)==="lab"&&!s.ref?workCtl(u,"st"+d.n+"_"+i,s.title):""),name:`pk:${d.n}:${i}`')
 rep('<ol class="sm">${Q.map(q=>`<li><b>${esc(q.q)}</b><details><summary class="xs muted">Answer</summary><p class="sm">${esc(q.a)}</p></details></li>`).join("")}</ol>','${quizList(u.k,d.n,Q)}')
+rep('function render(){','function render(){fixWork();')
 rep('todo:todoView,','todo:todoView,folder:folderView,')
 rep('   case "todo":{','''   case "wkst":{const id=b.dataset.id,to=b.dataset.to,key=k+"|"+id,W=WK(),w=W[key]||{};w.title=b.dataset.t||w.title;const untask=()=>{if(S.tasks[k])delete S.tasks[k][id]};
      if(to==="none"||(to==="undo"&&!w.started)){delete W[key];untask();sfx("flip")}
