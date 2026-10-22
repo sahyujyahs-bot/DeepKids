@@ -447,6 +447,9 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 
 .src{display:grid;gap:2px;padding:10px 12px;border-radius:14px;margin-bottom:10px}.src b{font:600 15px var(--display)}.src span{font-size:13px;opacity:.8}.src.book{background:#FFF0C9;color:#5C4300}.src.dk{background:#E3F3EC;color:#24553A}
 .spent{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border-radius:14px;background:var(--surface)}.spent b{font:600 22px var(--display)}
+
+.readbtn{margin-left:auto;padding:6px 10px;border-radius:99px;background:var(--surface);box-shadow:inset 0 0 0 1.5px var(--line);font:600 13px var(--display);color:var(--ink)}.stage .kind{display:flex;align-items:center;gap:8px}
+#voxbar{position:fixed;left:50%;transform:translateX(-50%);bottom:96px;z-index:60;display:flex;align-items:center;gap:4px;padding:6px 8px;border-radius:99px;background:#2B2340;color:#fff;box-shadow:0 10px 30px rgba(0,0,0,.25);max-width:calc(100vw - 24px)}dialog #voxbar{bottom:20px}#voxbar .vt{font:600 12px var(--display);padding:0 6px;white-space:nowrap}#voxbar button{width:36px;height:36px;border-radius:50%;background:rgba(255,255,255,.12);color:#fff;font-size:16px;display:grid;place-items:center;flex:none}
 </style>
 
 <header class="top"><div class="wrap">
@@ -473,6 +476,18 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -688,7 +703,7 @@ function sfx(k){if(!soundOn||!SFX[k])return;try{AC=AC||new (window.AudioContext|
 function confetti(){if(matchMedia("(prefers-reduced-motion: reduce)").matches)return;const c=document.createElement("canvas");c.className="confetti";c.width=innerWidth;c.height=innerHeight;document.body.appendChild(c);const x=c.getContext("2d");
   const cols=["#F2603F","#FFB21E","#38A862","#3E86F5","#8C5CF0","#F06BA8"];const P=Array.from({length:90},()=>({x:innerWidth/2,y:innerHeight*.6,vx:(Math.random()-.5)*12,vy:-Math.random()*14-4,r:Math.random()*6+4,c:cols[Math.random()*6|0],a:Math.random()*6}));
   let n=0;(function f(){x.clearRect(0,0,c.width,c.height);P.forEach(p=>{p.x+=p.vx;p.y+=p.vy;p.vy+=.45;p.a+=.2;x.save();x.translate(p.x,p.y);x.rotate(p.a);x.fillStyle=p.c;x.fillRect(-p.r/2,-p.r/2,p.r,p.r*.6);x.restore()});if(++n<80)requestAnimationFrame(f);else c.remove()})()}
-function toast(m){document.querySelectorAll(".toast").forEach(t=>t.remove());const t=document.createElement("div");t.className="toast";t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),2200)}
+function toast(m,ms){document.querySelectorAll(".toast").forEach(t=>t.remove());const t=document.createElement("div");t.className="toast";t.textContent=m;const sh=document.getElementById("sheet");(sh&&sh.open?sh:document.body).appendChild(t);setTimeout(()=>t.remove(),ms||Math.max(2200,m.length*60))}
 
 /* ---------- persistence: one private document per viewer; the newer copy wins ---------- */
 let ACC=null,DBR=null,UIDR=null,unsub=null;
@@ -772,7 +787,7 @@ function schedule(subj,limitDays=420,fromTomorrow=false){
   for(let k=0;k<limitDays&&queue.length;k++){const s=iso(d);if(days.includes(d.getDay())&&!S.skips[s+"|"+subj]&&!(s===today&&(doneToday||fromTomorrow)))out.push({date:s,subj,...queue.shift()});d.setDate(d.getDate()+1)}
   return out}
 const nextUp=s=>{const q=[];plannedUnits(s).forEach(u=>{if(rank[coverage(u)]>=2)return;const tot=sessionsFor(u);for(let i=Math.min(done(u.k),tot-1);i<tot;i++)q.push({u,n:i+1,tot})});return pinOrder(s,q)[0]};
-function pinOrder(s,q){const pin=S.pin&&S.pin[s],P=q.filter(x=>x.u.k===pin),R=q.filter(x=>x.u.k!==pin);return [...P,...R.filter(x=>coverage(x.u)==="learning"),...R.filter(x=>coverage(x.u)!=="learning")]}
+function pinOrder(s,q){const pin=S.pin&&S.pin[s],NX=(S.next||{})[s]||[],P=q.filter(x=>x.u.k===pin),N=NX.flatMap(k=>q.filter(x=>x.u.k===k&&x.u.k!==pin)),R=q.filter(x=>x.u.k!==pin&&!NX.includes(x.u.k));return [...P,...N,...R.filter(x=>coverage(x.u)==="learning"),...R.filter(x=>coverage(x.u)!=="learning")]}
 function logSession(u,kind){const p=S.progress[u.k]||{status:"none",sessions:0};p.sessions=(p.sessions||0)+1;if(p.status==="none")p.status="learning";if(p.sessions>=sessionsFor(u)&&p.status==="learning")p.status="completed";p.updated=today;S.progress[u.k]=p;
   {const d=new Date();S.log.unshift({date:today,key:u.k,subj:u.subj,title:u.title,kind,n:p.sessions,at:d.getHours()*60+d.getMinutes(),t:d.getTime()})}S.log=S.log.slice(0,400);
   if(u.board==="dk")(PRESET_EXP[u.n]||[]).forEach(t=>addExp(t,u.title))}
@@ -896,6 +911,29 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+let voxQ=[],voxDone=[],voxOn=false,voxPaused=false,voxCur="",_vv=null;
+function pickVoice(){if(!("speechSynthesis" in window))return null;const V=speechSynthesis.getVoices();if(!V.length)return null;const fem=/female|woman|veena|heera|neerja|kajal|aditi|swara|lekha|priya|isha|google/i,male=/\bmale\b|rishi|ravi|prabhat|hemant|madhur|kumar/i,en=V.filter(v=>/en[-_]IN/i.test(v.lang));
+  return en.find(v=>fem.test(v.name)&&!male.test(v.name))||en.find(v=>!male.test(v.name))||en[0]||V.find(v=>/^en/i.test(v.lang)&&/female|samantha|zira|susan|karen|moira|tessa/i.test(v.name))||V.find(v=>/^en/i.test(v.lang))||null}
+if("speechSynthesis" in window)speechSynthesis.onvoiceschanged=()=>{_vv=null};
+const voxRate=()=>S.voiceRate||0.8;
+function speak(text){if(!("speechSynthesis" in window)){toast("Read-aloud isn't available on this phone's browser.");return}speechSynthesis.cancel();
+  const parts=String(text).replace(/\s+/g," ").replace(/ ?([·•]) ?/g,". ").match(/[^.!?।:;]+[.!?।:;]*/g)||[];voxQ=parts.map(x=>x.trim()).filter(x=>x.length>1);voxDone=[];voxOn=!!voxQ.length;voxPaused=false;voxNext();voxBar()}
+function voxNext(){if(!voxOn||voxPaused)return;const t=voxQ.shift();if(!t){voxOn=false;voxBar();return}voxCur=t;voxDone.push(t);const u=new SpeechSynthesisUtterance(t),v=_vv||(_vv=pickVoice());u.lang=v?.lang||"en-IN";if(v)try{u.voice=v}catch(e){}u.rate=voxRate();u.pitch=1.05;
+  u.onend=()=>{if(voxCur===t)setTimeout(voxNext,S.voiceGap??450)};u.onerror=()=>{if(voxCur===t&&!voxPaused)setTimeout(voxNext,50)};speechSynthesis.speak(u);voxBar()}
+function voxCtl(c){if(c==="stop"){voxOn=false;voxQ=[];voxPaused=false;voxCur="";speechSynthesis.cancel();voxBar();return}
+  if(c==="pause"){if(!voxPaused){voxPaused=true;if(voxDone.length)voxQ.unshift(voxDone.pop());voxCur="";speechSynthesis.cancel()}else{voxPaused=false;voxNext()}voxBar();return}
+  if(c==="back"){const cur=voxDone.pop(),prev=voxDone.pop();if(cur)voxQ.unshift(cur);if(prev)voxQ.unshift(prev);voxCur="";speechSynthesis.cancel();voxPaused=false;voxNext();return}
+  if(c==="skip"){voxCur="";speechSynthesis.cancel();voxPaused=false;voxNext();return}
+  if(c==="slower"||c==="faster"){S.voiceRate=Math.round(Math.min(1.3,Math.max(0.5,voxRate()+(c==="faster"?0.1:-0.1)))*10)/10;save();if(voxOn&&!voxPaused){if(voxDone.length)voxQ.unshift(voxDone.pop());voxCur="";speechSynthesis.cancel();voxNext()}voxBar()}}
+function voxBar(){let b=document.getElementById("voxbar");if(!voxOn&&!voxPaused){if(b)b.remove();return}if(!b){b=document.createElement("div");b.id="voxbar"}const host=sheet.open?sheet:document.body;if(b.parentNode!==host)host.appendChild(b);
+  b.innerHTML=`<span class="vt">${voxPaused?"Paused":"Reading"} · ${voxRate().toFixed(1)}×</span><button data-vox="back" aria-label="Repeat the last sentence">⏮</button><button data-vox="pause" aria-label="${voxPaused?"Resume":"Pause"}">${voxPaused?"▶":"⏸"}</button><button data-vox="skip" aria-label="Next sentence">⏭</button><button data-vox="slower" aria-label="Slower">🐢</button><button data-vox="faster" aria-label="Faster">🐇</button><button data-vox="stop" aria-label="Stop reading">✕</button>`}
+document.addEventListener("click",e=>{const b=e.target.closest("[data-vox]");if(b){e.preventDefault();e.stopPropagation();voxCtl(b.dataset.vox)}},true);
+function readable(el){if(!el)return "";const c=el.cloneNode(true);c.querySelectorAll(".spent,.secbar,.kind,button,.ptrack,svg,.tasks-inline,summary,.xs.muted,#voxbar,.readbtn").forEach(x=>x.remove());c.querySelectorAll("h1,h2,h3,p,li,.ask,.src b,.src span,.eyebrow,.idea,.kv span,.kv b").forEach(x=>x.append(" ¶ "));return (c.textContent||"").replace(/\s*¶\s*/g,". ").replace(/([.!?:;])\s*\.\s/g,"$1 ").replace(/\.\s*\./g,".").replace(/[📖✨🔊]/g,"").replace(/\s+/g," ").trim()}
+function readNow(){if(sheet.open){const st=document.querySelector("#sheetBody .stage");if(st)return speak(readable(st));return speak(document.getElementById("sheetTitle").textContent+". "+readable(document.getElementById("sheetBody")))}speak(readable(document.getElementById("main")))}
+function autoRead(){if(S.autoRead&&sheet.open&&ui.sheet?.mode==="player")setTimeout(()=>{const st=document.querySelector("#sheetBody .stage");if(st)speak(readable(st))},250)}
+function isNextUp(u){return ((S.next||{})[u.subj]||[])[0]===u.k}
+function nextMsg(s,k){_sess=null;const sc=schedule(s,60)[0],u=unitBy(k);if(sc&&sc.u.k===k)return sc.date===today?`Done. Today's ${SUBJ[s]} lesson is now ${chT(sc.u)}, day ${sc.n} of ${sc.tot}.`:`Done. ${chT(sc.u)} is your next ${SUBJ[s]} lesson, on ${fmt(sc.date)}.`;return `Done. ${chT(u)} is now first in the ${SUBJ[s]} queue.`}
+
 const ACTN={read:"reading",talk:"talking",think:"thinking",warmup:"warm-up",do:"activity",act:"activity",outdoor:"outdoor activity",exp:"experiment",ws:"worksheet",check:"quiz",review:"review",game:"game",watch:"video"};
 function srcOf(s){const t=(s.title||"")+" · "+(s.do||""),m=[...t.matchAll(/\b(?:pages?|pp?\.?)\s?(\d{1,3})(?:\s*(?:–|-|to|and)\s*(\d{1,3}))?/gi)],raw=[...new Set(m.map(x=>x[2]?x[1]+"–"+x[2]:x[1]))],rng=raw.filter(p=>p.includes("–")).map(p=>p.split("–").map(Number)),pages=raw.filter(p=>p.includes("–")||!rng.some(([a,b])=>+p>=a&&+p<=b));return {book:(pages.length>0||/\bthe book['’]s\b|\bActivity \d+\.\d+|\bin the book\b|\bLearner['’]s Book\b/i.test(t))&&!/\bwithout the book\b/i.test(t),pages}}
 function srcLine(s){const {book,pages}=srcOf(s),a=ACTN[s.kind]||"step";return book?`<div class="src book"><b>📖 Open the book${pages.length?`: page${pages.length>1||pages[0].includes("–")?"s":""} ${pages.join(", ")}`:""}</b><span>Book ${a}. Have the textbook open for this step.</span></div>`:`<div class="src dk"><b>✨ DeepKids ${a}</b><span>No book needed. Everything you need is on this screen.</span></div>`}
@@ -1005,7 +1043,7 @@ function scienceTab(){const R=DATA.resources||[],C=DATA.rconcepts||[],cn=ui.rc||
    ${S.age?`<button class="chip" aria-pressed="${fit}" data-act="rfit" style="justify-self:start">Suits age ${S.age}</button>`:""}
    <p class="xs muted">${L.length} shown</p><div class="grid2">${resSort(L).slice(0,ui.rmore||40).map(resCard).join("")}</div>${L.length>(ui.rmore||40)?`<button class="btn line sm" data-act="rmore">Show more</button>`:""}</section>`}
 document.addEventListener("change",e=>{if(e.target.id==="rcSel"){ui.rc=e.target.value;ui.rmore=40;delete e.target.dataset.dirty;render()}});
-const greetBar=sub=>`<section class="greetbar"><b>${greetWord()}${pname()?", "+esc(pname()):""}!</b><span class="xs muted">${sub}</span></section>`;
+const greetBar=sub=>`<section class="greetbar"><button class="readbtn" data-act="readnow" aria-label="Read the screen aloud" style="order:3;margin-left:auto">🔊</button><b>${greetWord()}${pname()?", "+esc(pname()):""}!</b><span class="xs muted">${sub}</span></section>`;
 function calHead(d){const lab=d===today?"Today":d===addDays(today,1)?"Tomorrow":d===addDays(today,-1)?"Yesterday":parse(d).toLocaleDateString(undefined,{weekday:"long"}),sub=parse(d).toLocaleDateString(undefined,{weekday:d===today||Math.abs(parse(d)-parse(today))<2*864e5?"short":undefined,day:"numeric",month:"short"});
   return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d!==today?`<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>`:`<button class="link xs" data-act="quick" style="margin-left:auto">+ Add</button>`}</div>`}
 const navSnap=()=>({tab,lt:ui.lt,pv:ui.pv,pday:ui.pday,tday:ui.tday,sheet:ui.sheet?JSON.parse(JSON.stringify(ui.sheet)):null,ctab:ui.sheet?.k?ui.ctab[ui.sheet.k]:undefined,y:scrollY});
@@ -1311,7 +1349,7 @@ function nightView(){const tm=tomorrow(),its=nightItems(),dn=its.filter(p=>S.pre
      <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="nAlarm" ${al.on?"checked":""} data-alarm="on"><span><b style="font:600 16px var(--display)">Wake-up alarm</b><br><span class="xs muted">Rings only while DeepKids is open on this phone. For a sure wake-up, also set your phone's alarm for ${clock(hm(al.time))}.</span></span></label></section>
    <section class="card"><h3 style="font-size:19px">Any other plans tomorrow?</h3>${quickAdd(tm)}</section>
    <button class="btn green" data-act="nightdone">${icon("check")}${(S.night||{})[today]?"Tomorrow is ready":"All set for tomorrow"}</button>`}
-function quickAdd(date){const w=ui.qwho||"you";return `<div class="col" style="gap:10px"><input class="inp" id="qa-t" maxlength="80" placeholder="Doctor visit, grocery run, cousin's birthday"><div class="row"><div class="whos">${[["you","Mine"],["kid",S.child?esc(S.child)+"'s":"Child's"],["both","Together"]].map(([k,n])=>`<button type="button" aria-pressed="${w===k}" data-act="qwho" data-w="${k}">${n}</button>`).join("")}</div><input class="inp" id="qa-s" type="time" style="width:auto" aria-label="Time (optional)"><input class="inp" id="qa-d" type="date" value="${date}" style="width:auto" aria-label="Date"></div><button class="btn sm" data-act="qadd" style="justify-self:start">Add</button><p class="xs muted">Leave the time empty for a to-do any time that day.</p></div>`}
+function quickAdd(date){const w=ui.qwho||"you";return `<div class="col" style="gap:10px"><input class="inp" id="qa-t" maxlength="80" placeholder="Doctor visit, grocery run, cousin's birthday"><div class="row"><div class="whos">${[["you","Mine"],["kid",S.child?esc(S.child)+"'s":"Child's"],["both","Together"]].map(([k,n])=>`<button type="button" aria-pressed="${w===k}" data-act="qwho" data-w="${k}">${n}</button>`).join("")}</div><input class="inp" id="qa-s" type="time" style="width:auto" aria-label="Time (optional)"><input class="inp" id="qa-d" type="date" value="${date}" style="width:auto" aria-label="Date"></div><button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">Leave the time empty for a to-do any time that day.</p></div>`}
 
 /* ---------- parent profile ---------- */
 function parentView(){const p=S.parent||{},al=S.alarm||{on:false,time:"06:30"},d=D();document.getElementById("sheetTitle").textContent="About you";
@@ -1545,7 +1583,7 @@ function viewToday(){const items=dayPlan(today),real=items.filter(i=>i.kind!=="b
   if(f)h+=nowCard(f);
   if(lessonsDone||!real.length)h+=`<section class="donecard">${blob("var(--sun)",4,"happy","mascot bob")}<h2>${lessons.length?"Lessons done! Keep going?":"Want to start something?"}</h2>${offerList()}</section>`;
   if(left.length)h+=`<div class="sech" style="margin-top:12px"><h3>Later today</h3></div><div class="tt compact">${left.map(i=>tRow(i,today,null)).join("")}</div>`;
-  if(doneL.length)h+=`<div class="row" style="justify-content:space-between;margin-top:8px"><button class="link" data-act="showdone">${ui.showDone?"Hide":"Show"} ${doneL.length} done today</button><button class="link" data-act="hist">Full history</button></div>${ui.showDone?`<div class="tt compact">${doneL.map(i=>tRow(i,today,null)).join("")}</div>`:""}`;
+  if(doneL.length)h+=`<div class="row" style="justify-content:space-between;margin-top:8px"><button class="link" data-act="showdone">${ui.showDone?"Hide":"Show"} ${doneL.length} done today</button><span class="row" style="gap:14px"><button class="link" data-act="plsheet" data-p="queue">Up next</button><button class="link" data-act="hist">Full history</button></span></div>${ui.showDone?`<div class="tt compact">${doneL.map(i=>tRow(i,today,null)).join("")}</div>`:""}`;
   h+=`</section><button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
   return h}
 /* ---------- lesson player ---------- */
@@ -1556,8 +1594,8 @@ function playerView(){const P=ui.sheet,it={u:unitBy(P.k),n:P.n,tot:P.tot,bonus:P
   h+=secBar(st,P.i);
   if(P.i>=st.length){const okN=st.filter(x=>x.ok).length,all=okN===st.length;h+=`<section class="stage finish">${sblob(P.s,all?"happy":"calm","bob",'width="120" height="120"')}<div class="stars">${[0,1,2].map(i=>`<svg width="44" height="44" viewBox="0 0 24 24" style="transform:rotate(${(i-1)*12}deg)"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z" fill="${i<Math.max(1,Math.round(okN/st.length*3))?"var(--sun)":"var(--line)"}"/></svg>`).join("")}</div><h2>${all?"Congrats!":"Nearly there"}</h2><p class="muted">${esc(chT(it.u))} · ${all?"every step done.":`${st.length-okN} step${st.length-okN>1?"s":""} still open. They move to the next lesson day automatically.`}</p>${photoBtn(P.k,"Add a photo of today's work")}<div class="row" style="justify-content:center"><button class="btn green" data-act="finish">${icon("check")}Finish the lesson</button><button class="btn soft" data-act="pstep" data-d="-1">Back</button></div></section>`;return h+`<details class="card hub"><summary><b>Want more? Everything for this chapter</b></summary><div class="hubb">${chapterHub(it.u)}</div></details>`}
   const x=st[P.i];
-  h+=`<section class="stage"><div class="kind"><span class="k">${icon(x.kind==="step"?"spark":x.kind)}</span><span>${SECN[x.sec||"book"]} · step ${P.i+1} of ${st.length}</span></div><h2>${esc(x.title)}</h2>
-   <div class="spent"><span class="xs muted">Take your time. Time on this step</span><b class="num" id="spent">${mmss(stepSecs())}</b></div>
+  h+=`<section class="stage"><div class="kind"><span class="k">${icon(x.kind==="step"?"spark":x.kind)}</span><span>${SECN[x.sec||"book"]} · step ${P.i+1} of ${st.length}</span><button class="readbtn" data-act="readnow" aria-label="Read this step aloud">🔊 Read aloud</button></div><h2>${esc(x.title)}</h2>
+   <div class="spent"><span class="xs muted">Take your time. Time on this step<br><button class="link xs" data-act="autoread">${S.autoRead?"✓ Reading each step aloud":"Read each step aloud as we go"}</button></span><b class="num" id="spent">${mmss(stepSecs())}</b></div>
    <div class="body">${x.html}</div>
    <div class="row"><button class="btn soft" data-act="pstep" data-d="-1" ${P.i===0?"disabled":""} aria-label="Previous step">${icon("back")}</button><button class="btn green wide" data-act="pdone">${x.ok?"Next":"Done! Next step"}${icon("next")}</button></div></section>`;
   return h}
@@ -1578,7 +1616,7 @@ function chapterView(){const u=unitBy(ui.sheet.k);if(!u)return "";const c=u.c,x=
   const t=tabs[ui.ctab[u.k]]?ui.ctab[u.k]:"overview",inPlan=everyUnit().some(z=>z.k===u.k)&&plannedUnits(u.subj).some(z=>z.k===u.k);
   let h=`<section class="chero ${SC(u.subj)}"><span class="n">${/^\d+$/.test(u.n)?u.n:esc(u.n)}</span><span class="eyebrow" style="color:#2B2340;opacity:.7">${u.board==="gen"?"DeepKids topic · Level "+u.level:esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs}" style="justify-self:start">${STATUS[cs]}${cs==="learning"&&done(u.k)?` · day ${done(u.k)} of ${sessionsFor(u)}`:""}</span><p>${c?.p?`${c.p.days.length} days · ${c.p.day_mins} minutes a day`:`${fh(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fh(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj,"happy","mascot sway")}</section>
    ${u.board==="gen"&&!u.gen.reviewed?`<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>`:""}
-   <div class="row">${inPlan?`<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`:S.subjects.includes(u.subj)&&(u.board==="gen"||(u.board==="dk"&&plusOn()))?`<button class="btn sm" data-act="qadd" data-s="${u.subj}" data-k="${u.k}">${icon("plus")}Add to the plan</button>`:""}</div>
+   <div class="row">${inPlan?`${isNextUp(u)?`<span class="pill completed" style="align-self:center">✓ Next up in ${SUBJ[u.subj]}</span><button class="btn line sm" data-act="plsheet" data-p="queue">See the queue</button>`:`<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}`:S.subjects.includes(u.subj)&&(u.board==="gen"||(u.board==="dk"&&plusOn()))?`<button class="btn sm" data-act="qadd" data-s="${u.subj}" data-k="${u.k}">${icon("plus")}Add to the plan</button>`:""}</div>
    
    ${Object.keys(tabs).length>1?`<div class="seg" role="tablist">${Object.entries(tabs).map(([k,v])=>`<button aria-pressed="${t===k}" data-act="ctab" data-k="${u.k}" data-t="${k}">${v}</button>`).join("")}</div>`:""}`;
   if(t==="overview"){if(c?.p)h+=packOverview(u);{const sh=shelfFor(u);if(sh.length)h+=`<section class="card"><span class="eyebrow">From your shelf</span>${sh.map(i=>`<div class="sm"><b>${esc(i.name)}</b>${i.note?` · <span class="muted">${esc(i.note)}</span>`:""}</div>`).join("")}</section>`}h+=topicOverview(u);if(x&&m!=="books")h+=`<section class="card ${SC(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l,i)=>`<div class="idea"><span class="k">${i+1}</span><p>${esc(l)}</p></div>`).join("")}</section>`;
@@ -1713,14 +1751,14 @@ function obNext(){const d=ob.d;if(ob.step===0){d.child=document.getElementById("
 /* ---------- sheet + render ---------- */
 const sheet=document.getElementById("sheet");
 function openSheet(o){navPush();ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true);updBack()}
-function renderSheet(top){if(!ui.sheet)return;const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
+function renderSheet(top){if(!ui.sheet)return;{const ex=document.getElementById("sheetExtra");if(ex&&!ex.querySelector(".readbtn"))ex.innerHTML=`<button class="readbtn" data-act="readnow" aria-label="Read this page aloud">🔊</button>`}const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
   const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   updBack();
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
 document.getElementById("sheetClose").onclick=()=>{sfx("tap");goBack()};
-sheet.addEventListener("close",()=>{ui.phelp=null;sheet.className="sheet";ui.sheet=null;clearInterval(tick);render();updBack()});
+sheet.addEventListener("close",()=>{if(sheet.open)return;ui.phelp=null;sheet.className="sheet";ui.sheet=null;clearInterval(tick);render();updBack()});
 const NAV=[["today","Today"],["week","Planner"],["journey","Journey"],["library","Library"]];
 function render(){rollDay();_sess=null;const m=document.getElementById("main"),nav=document.getElementById("nav");
   if(!ACC){nav.hidden=true;document.getElementById("me").hidden=true;document.getElementById("snd").hidden=true;document.getElementById("hello").innerHTML=`${youBlob("bl bob")}<div><b>Welcome</b><span>DeepKids home planner</span></div>`;m.replaceChildren(el(`<div class="wrap">${loginView()}</div>`));if(sheet.open)sheet.close();return}
@@ -1739,7 +1777,7 @@ function render(){rollDay();_sess=null;const m=document.getElementById("main"),n
 document.getElementById("nav").addEventListener("click",e=>{const b=e.target.closest("button[data-tab]");if(!b)return;if(tab!==b.dataset.tab)navPush();tab=b.dataset.tab;sfx("tap");render();scrollTo(0,0)});
 document.getElementById("snd").onclick=()=>{soundOn=!soundOn;try{localStorage.setItem("dk-sound",soundOn?"on":"off")}catch(e){}sfx("tick");render()};
 document.getElementById("me").onclick=()=>{sfx("tap");openSheet({mode:"settings"})};
-function playItem(it){openSheet({mode:"player",s:it.s,k:it.u.k,n:it.n,tot:it.tot,bonus:it.bonus,i:Math.max(0,stepState(it).findIndex(x=>!x.ok))});if(ui.sheet.i<0)ui.sheet.i=0}
+function playItem(it){setTimeout(autoRead,100);openSheet({mode:"player",s:it.s,k:it.u.k,n:it.n,tot:it.tot,bonus:it.bonus,i:Math.max(0,stepState(it).findIndex(x=>!x.ok))});if(ui.sheet.i<0)ui.sheet.i=0}
 function onAct(e){
   if(ob){const d=ob.d,t=e.target.closest("[data-ob],button[data-age],button[data-b],button.choice[data-s],button[data-mode]");if(!t)return;sfx("tap");
     if(t.dataset.ob==="next")return obNext();if(t.dataset.ob==="back"){ob.step--;return render()}
@@ -1752,8 +1790,10 @@ function onAct(e){
   switch(a){
    case "topen":{const id=b.dataset.id,items=dayPlan(b.closest("[data-date]")?.dataset.date||today),cur=ui.open[id]??(focusOf(dayPlan(today),today)?.id===id);ui.open[id]=!cur;sfx(cur?"tap":"flip");render();break}
    case "play":{const it=findItem(b.dataset.id);if(it){sfx("flip");playItem(it)}break}
-   case "pstep":{ui.sheet.i=Math.max(0,ui.sheet.i+(+b.dataset.d));sfx("tap");renderSheet(true);break}
-   case "pdone":{const P=ui.sheet,it={u:unitBy(P.k),n:P.n,tot:P.tot,bonus:P.bonus},x=stepState(it)[P.i],key=stepKey(it),set=new Set(S.steps[key]||[]);if(x){const sec=Math.round(stepSecs());if(sec>=3){S.pace=(S.pace||[]).concat([{k:P.k,sec:x.sec||"book",kind:x.kind,est:Math.round(x.mins*60),took:Math.round(sec/60*10)/10,date:today}]).slice(-500)}stepT=null}if(x&&!x.ok){set.add(sid(x));S.steps[key]=[...set];sfx("tick")}else sfx("tap");P.i++;S.updatedAt=Date.now();save();renderSheet(true);break}
+   case "pstep":{ui.sheet.i=Math.max(0,ui.sheet.i+(+b.dataset.d));sfx("tap");renderSheet(true);autoRead();break}
+   case "readnow":{readNow();break}
+   case "autoread":{S.autoRead=!S.autoRead;save();toast(S.autoRead?"Each step will be read aloud as you go.":"Steps won't be read automatically.");renderSheet();break}
+   case "pdone":{const P=ui.sheet,it={u:unitBy(P.k),n:P.n,tot:P.tot,bonus:P.bonus},x=stepState(it)[P.i],key=stepKey(it),set=new Set(S.steps[key]||[]);if(x){const sec=Math.round(stepSecs());if(sec>=3){S.pace=(S.pace||[]).concat([{k:P.k,sec:x.sec||"book",kind:x.kind,est:Math.round(x.mins*60),took:Math.round(sec/60*10)/10,date:today}]).slice(-500)}stepT=null}if(x&&!x.ok){set.add(sid(x));S.steps[key]=[...set];sfx("tick")}else sfx("tap");P.i++;S.updatedAt=Date.now();save();renderSheet(true);autoRead();break}
    case "timer":{sfx("tap");timerToggle();break}
    case "finish":{const P=ui.sheet,u=unitBy(P.k);if(!u)return;const it={u,n:P.n,tot:P.tot,bonus:P.bonus},open=stepState(it).filter(x=>!x.ok);
      S.carry=S.carry||{};S.carry[u.k]=open.length&&P.n<P.tot?open.map(x=>({kind:x.kind,label:x.label,title:x.title.replace(/^From last time: /,""),mins:x.mins,name:x.name,forN:P.n+1})):[];
@@ -1785,10 +1825,10 @@ function onAct(e){
    case "shuffle":{const s=b.dataset.s;S.shuffle={...(S.shuffle||{}),[s]:!(S.shuffle||{})[s]};S.seed={...(S.seed||{}),[s]:Math.floor(Math.random()*9999)};sfx("flip");commit();break}
    case "reshuffle":{const s=b.dataset.s;S.seed={...(S.seed||{}),[s]:Math.floor(Math.random()*9999)};sfx("flip");commit();break}
    case "exam":{S.exam=!S.exam;sfx("tick");toast(S.exam?"Exam track on: syllabus first":"Exam track off");commit();break}
-   case "qnext":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};S.later={...(S.later||{}),[s]:((S.later||{})[s]||[]).filter(x=>x!==k)};sfx("ok");toast("Up next");commit();break}
+   case "qnext":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};S.later={...(S.later||{}),[s]:((S.later||{})[s]||[]).filter(x=>x!==k)};sfx("ok");commit();toast(nextMsg(s,k),5000);if(sheet.open)renderSheet();break}
    case "qlater":{const s=b.dataset.s;S.later={...(S.later||{}),[s]:[...((S.later||{})[s]||[]).filter(x=>x!==k),k]};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==k)};sfx("flip");toast("Moved to later");commit();break}
    case "qrem":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:((S.extra||{})[s]||[]).filter(x=>x!==k)};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==k)};sfx("flip");commit();break}
-   case "qadd":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:[...new Set([...((S.extra||{})[s]||[]),k])]};sfx("ok");toast("Added to Up next");commit();break}
+   case "qadd":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:[...new Set([...((S.extra||{})[s]||[]),k])]};sfx("ok");commit();toast(`Added. ${chT(unitBy(k))} is in the ${SUBJ[s]} queue (Planner → Up next).`,5000);if(sheet.open)renderSheet();break}
    case "lt2":{ui.lt="topics";tab="library";render();scrollTo(0,0);break}
    case "quickplan":{tab="week";render();scrollTo(0,0);break}
    case "free":{openPicker();break}
@@ -1806,7 +1846,7 @@ function onAct(e){
    case "psave":{const g=id=>document.getElementById(id).value;S.parent={...(S.parent||{}),name:g("pName").trim(),langs:g("pLang").trim(),help:[...(ui.phelp||new Set((S.parent||{}).help||[]))],saved:Date.now()};ui.phelp=null;S.alarm={on:document.getElementById("pAlarm").checked,time:g("pWake")||"06:30"};S.day={...D(),prepAt:g("pPrep")||D().prepAt,start:g("pStart")||D().start,eveAt:g("pEve")||D().eveAt};sfx("win");S.updatedAt=Date.now();sheet.close();render();saveNow().then(ok=>toast(ok?(S.parent.name?"Saved. Hi, "+S.parent.name+"!":"Saved to your account"):store?"Couldn't reach your account. Saved on this phone; it will retry.":"Saved"));break}
    case "quick":{sfx("flip");ui.pday=today;tab="week";ui.pv="day";render();setTimeout(()=>document.getElementById("dumpText")?.focus(),100);break}
    case "qwho":{ui.qwho=b.dataset.w;b.parentElement.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));sfx("tap");break}
-   case "qadd":{const root=b.closest("#sheetBody")||document.getElementById("main"),t=root.querySelector("#qa-t").value.trim(),s=root.querySelector("#qa-s").value,d=root.querySelector("#qa-d").value||today,w=ui.qwho||"you";if(!t){sfx("no");toast("Type what the plan is");return}const id=Math.random().toString(36).slice(2,9);
+   case "qaddq":{const root=b.closest("#sheetBody")||document.getElementById("main"),t=root.querySelector("#qa-t").value.trim(),s=root.querySelector("#qa-s").value,d=root.querySelector("#qa-d").value||today,w=ui.qwho||"you";if(!t){sfx("no");toast("Type what the plan is");return}const id=Math.random().toString(36).slice(2,9);
      if(s)S.events=[...(S.events||[]),{id,title:t,kind:"other",who:w,start:s,end:clock24(hm(s)+60),rep:"once",date:d,days:[],from:today,note:""}];else S.todos=[...(S.todos||[]),{id,title:t,who:w,date:d,note:"",done:false}];sfx("ok");toast("Added for "+fmt(d));commit();clearIn("qa-t");break}
    case "todomove":{const x=(S.todos||[]).find(z=>z.id===b.dataset.t);if(x){x.date=tomorrow();sfx("flip");toast("Moved to tomorrow");commit()}break}
    case "tododel":{S.todos=(S.todos||[]).filter(z=>z.id!==b.dataset.t);sfx("flip");commit();break}
@@ -1856,7 +1896,7 @@ function onAct(e){
    case "hubres":{ui.hubres=true;renderSheet();break}
    case "jall":{ui.jall=true;render();break}
    case "refresh":{sfx("flip");openSheet({mode:"refresh",date:b.dataset.date||today});break}
-   case "pjump":{ui.sheet.i=Math.max(0,+b.dataset.i);sfx("tap");renderSheet(true);break}
+   case "pjump":{ui.sheet.i=Math.max(0,+b.dataset.i);sfx("tap");renderSheet(true);autoRead();break}
    case "hist":{sfx("flip");openSheet({mode:"hist"});break}
    case "lt":{navPush();ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}
