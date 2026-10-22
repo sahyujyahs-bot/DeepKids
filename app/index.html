@@ -454,6 +454,8 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 .pts{list-style:none;margin:6px 0;padding:0;display:grid;gap:10px}.pts li{position:relative;padding-left:30px;line-height:1.45;display:grid;gap:4px}.pts li::before{position:absolute;left:0;top:0;width:22px;height:22px;border-radius:50%;display:grid;place-items:center;font-size:12px;content:"•";background:var(--sunk);font-weight:700}.pts li.p-ask::before{content:"?";background:#E6E8F6;color:#46508A}.pts li.p-say::before{content:"💬";background:#FFF0C9}.pts li.p-read::before{content:"📖";background:#FFF0C9}.pts li.p-note::before{content:"!";background:#F1E6E6;color:#7A3B3B}.pts li.p-pl::before{content:"";width:8px;height:8px;top:8px;left:8px;background:var(--muted)}.pts li.p-do::before{content:"→";background:#E3F3EC;color:#24553A}.pts .ans{font-size:14px;padding:6px 10px;border-radius:10px;background:#E3F3EC;color:#24553A}
 
 .tt.compact .tr.focus .tcard{box-shadow:inset 0 0 0 2.5px var(--tang,#FD8326)}.tt.compact .tag{display:inline-block;font-size:11px;padding:1px 8px;border-radius:99px;margin-right:6px;line-height:1.6;min-height:0;height:auto}.tt.compact .tag.now{background:var(--tang,#FD8326);color:#fff}
+
+.chip[aria-pressed="true"]{background:var(--ink);color:#fff;box-shadow:none}
 </style>
 
 <header class="top"><div class="wrap">
@@ -480,6 +482,10 @@ dialog.mini::backdrop{background:rgba(30,20,50,.45)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
 
 
 
@@ -1884,7 +1890,7 @@ function onAct(e){
    case "qi":{ui.qi[k]=Math.max(0,(ui.qi[k]||0)+(+b.dataset.d));sfx("flip");renderSheet(true);break}
    case "ws":{sfx("flip");openSheet({mode:"ws",k,w:b.dataset.w});break}
    case "wsec":{ui.wsec[k]=Math.max(0,(ui.wsec[k]||0)+(+b.dataset.d));sfx("flip");renderSheet(true);break}
-   case "wsdone":{S.tasks[k]=S.tasks[k]||{};S.tasks[k].ws=S.tasks[k].ws||today;sfx("win");confetti();toast("Worksheet finished");commit();break}
+   case "wsdone":{S.tasks[k]=S.tasks[k]||{};S.tasks[k].ws=S.tasks[k].ws||today;sfx("win");confetti();toast("Worksheet finished! Taking you back…",1400);commit();setTimeout(()=>{if(ui.sheet?.mode==="ws")goBack()},1400);break}
    case "games":{sfx("flip");openSheet({mode:"games"});break}
    case "night":{sfx("flip");openSheet({mode:"night"});break}
    case "nightdone":{S.night={...(S.night||{}),[today]:1};sfx("win");toast("All set. Sleep well!");sheet.close();commit();break}
