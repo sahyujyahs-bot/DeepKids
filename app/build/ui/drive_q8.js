@@ -1,0 +1,14 @@
+const { chromium } = require('/opt/node-tools/node_modules/playwright');
+(async()=>{const SP=process.argv[2];const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const ctx=await b.newContext({viewport:{width:400,height:860}});await ctx.clock.install({time:new Date('2026-10-23T08:00:00')});const p=await ctx.newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('file://'+SP+'/app_prev.html');await p.waitForTimeout(500);await p.fill('#lgPhone','98765 43210');await p.fill('#lgName','S');await p.click('[data-act="login"]');await p.waitForTimeout(500);
+await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="ncert"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(400);
+await p.click('#nav button:has-text("Plan")');await p.waitForTimeout(200);console.log('tell has pace:',await p.$$eval('#paceSec [id^="hpd-"]',x=>x.map(e=>e.id).join(',')));
+await p.selectOption('#hpd-dks','1');await p.waitForTimeout(200);console.log('dks hpd now:',await p.evaluate(()=>hpdOf('dks')));
+await p.click('.segmain [data-v="queue"]');await p.click('[data-act="pacego"]');await p.waitForTimeout(400);console.log('pace link ->',await p.evaluate(()=>seg('week')),'| pace on screen:',await p.$eval('#paceSec',e=>{const r=e.getBoundingClientRect();return r.top<innerHeight&&r.bottom>0}));
+await p.click('#nav button:has-text("Progress")');await p.click('.segmain [data-v="work"]');await p.waitForTimeout(200);console.log('progress work:',(await p.$eval('#main',e=>e.innerText)).replace(/\n+/g,' | ').slice(0,420));
+await p.click('#main [data-act="todo"]');await p.waitForTimeout(200);console.log('unfinished ->',await p.evaluate(()=>tab+'/'+seg('week')));
+await p.evaluate(()=>{S.subjects=["math","eng","hin","sci"];S.dksMig=1;commit()});await p.click('#nav button:has-text("Plan")');await p.click('.segmain [data-v="tell"]');await p.waitForTimeout(200);
+console.log('subject chips:',await p.$$eval('[data-act="subtog"]',x=>x.map(e=>e.textContent).join(' | ')));await p.click('[data-act="subtog"][data-s="dks"]');await p.waitForTimeout(200);
+console.log('after tap:',await p.evaluate(()=>S.subjects.join(',')),'| toast:',await p.$eval('.toast',e=>e.innerText).catch(()=>'-'),'| today has dks:',await p.evaluate(()=>dayPlan(today).some(i=>i.s==='dks')));
+console.log('errors:',errs);await b.close()})();

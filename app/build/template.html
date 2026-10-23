@@ -1050,6 +1050,14 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 
 
 
+
+
+
+
+
+
+
+
 const DATA = /*DATA*/;
 const SUBJ = {...DATA.subjects,dks:"DeepKids Science"}, SUBJ_KEYS = Object.keys(SUBJ);
 DATA.prepgen.guide.dks=DATA.prepgen.guide.dks||"DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
@@ -1297,6 +1305,8 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+function subjCard(){return `<section class="sec"><div class="sech"><h3>Subjects</h3><span class="xs muted">Tap to add or leave out</span></div><div class="row chips">${SUBJ_KEYS.map(k=>`<button class="chip ${SC(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k)?"✓ ":"+ "}${SUBJ[k]}</button>`).join("")}</div></section>`}
+
 /* DeepKids Science is its own subject now (it used to ride inside EVS): move a family's DeepKids topics across once */
 function dksMigrate(){if(!S||!S.setup||S.dksMig)return;S.dksMig=1;const mv=o=>{if(!o||!o.sci)return o;const dk=o.sci.filter(k=>String(k).startsWith("dk|"));if(!dk.length)return o;return {...o,sci:o.sci.filter(k=>!String(k).startsWith("dk|")),dks:[...new Set([...(o.dks||[]),...dk])]}};
   S.extra=mv(S.extra);S.next=mv(S.next);S.later=mv(S.later);S.levels={...S.levels,dks:S.levels?.dks||S.levels?.sci||1};
@@ -1534,7 +1544,7 @@ document.addEventListener("visibilitychange",()=>{if(document.hidden){hiddenAt=D
 const SEGS={
   week:[["tell","Tell DeepKids","Chat, type or add by hand. What DeepKids asked, routines, classes and rest"],["cal","Calendar","See the plan by day, week, month or year"],["todo","To do","Your own to-dos, and prep and things to gather for coming lessons"],["queue","Queue","What comes next, by kind and subject. Drag or use the arrows to change the order"],["pending","Pending","From lessons you've done: not started yet"],["ongoing","Ongoing","Started and not finished yet"]],
   tasks:[["going","Started","Started and not finished yet: lessons, worksheets, quizzes, projects and more"],["new","Not started","From lessons you've done: things that weren't started yet"],["queue","Queues","What comes next for each kind. Drag or use the arrows to change the order"]],
-  journey:[["overview","Overview","How each subject is going, chapter by chapter"],["time","Time","Time spent each day and subject, and everything done"],["work","Work","Things to finish, finished work with answers, and photos"],["school","School","Report, entrance test and a folder to send to a school"]],
+  journey:[["overview","Overview","How each subject is going, chapter by chapter"],["time","Time","Time spent each day and subject, and everything done"],["work","Work","Finished work with answers, and photos"],["school","School","Report, entrance test and a folder to send to a school"]],
 };
 const seg=k=>{ui.seg=ui.seg||{};const L=SEGS[k];return L.some(x=>x[0]===ui.seg[k])?ui.seg[k]:L[0][0]};
 function segBar(k){const cur=seg(k),L=SEGS[k];return `<div class="seg segmain">${L.map(([v,n])=>`<button aria-pressed="${cur===v}" data-act="seg" data-k="${k}" data-v="${v}">${n}</button>`).join("")}</div><p class="xs muted segdesc">${esc(L.find(x=>x[0]===cur)[2])}</p>`}
@@ -1542,7 +1552,7 @@ const pageHead=(t,extra="")=>`<section class="sec" style="margin-top:8px"><div c
 function viewJourneyTabs(){const k=seg("journey"),kid=esc(S.child||"Your child");let h=pageHead(`${kid}'s progress`,kidBlob("","happy",'width="50" height="50"'))+segBar("journey")+`</section>`;
   if(k==="overview"){const o=viewJourney0().replace(/<button class="menurow" data-act="(rem|told|track|uploads|school|folder|todo|hist)"[\s\S]*?<\/button>/g,"");h+=o.replace(/^<section class="sec" style="margin-top:8px"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,'<section class="sec"><div class="sech"><h3>By subject</h3></div>')}
   else if(k==="time")h+=`<section class="sec"><button class="menurow" data-act="hist">${blob("var(--pist)",9,"happy","",'width="40" height="40"')}<span><b>Everything done, day by day</b><br><span class="xs muted">${S.log.length} lessons with times</span></span>${icon("next")}</button>${trackView()}</section>`;
-  else if(k==="work")h+=`<section class="sec">${todoView()}</section><section class="sec"><div class="sech"><h3>Finished work</h3></div><button class="menurow" data-act="folder">${blob("var(--leaf)",14,"wow","",'width="40" height="40"')}<span><b>Work folder</b><br><span class="xs muted">Every worksheet with answers, quizzes and projects. Save or print.</span></span>${icon("next")}</button></section><section class="sec"><div class="sech"><h3>Photos and files</h3></div>${uploadsView()}</section>`;
+  else if(k==="work")h+=`<section class="sec"><button class="menurow" data-act="todo">${blob("var(--tang)",11,"calm","",'width="40" height="40"')}<span><b>Unfinished work</b><br><span class="xs muted">Started, pending and queued things are in Plan → Ongoing, Pending and Queue</span></span>${icon("next")}</button></section><section class="sec"><div class="sech"><h3>Finished work</h3></div><button class="menurow" data-act="folder">${blob("var(--leaf)",14,"wow","",'width="40" height="40"')}<span><b>Work folder</b><br><span class="xs muted">Every worksheet with answers, quizzes and projects. Save or print.</span></span>${icon("next")}</button></section><section class="sec"><div class="sech"><h3>Photos and files</h3></div>${uploadsView()}</section>`;
   else h+=`<section class="sec">${schoolView()}</section>`;
   return h}
 const LIBT=[["topics","Syllabus","Every chapter of every board, by subject and class"],["science","Resources","Free activities, simulations and videos, tagged to chapters"],["have","Home shelf","Books, games and kits you have at home. We suggest them in the right lesson"],["suggest","Worth buying","Books, games and kits picked for your child's age and syllabus"],["read","Read","Books and stories to read together"],["watch","Watch","Videos and shows worth watching"]];
@@ -2559,14 +2569,13 @@ function dumpCard(){const D_=ui.dump||{},n=(S.events||[]).length+(S.todos||[]).f
 function parsedLine(it){if(it.type==="have")return "Library · "+(it.category||"other");if(it.type==="update"){const e=(S.events||[]).find(z=>z.id===it.id);return "Change"+(e?` “${e.title}”`:"")+": "+[it.days?.length?dayList(it.days):"",it.start?clock(hm(it.start))+(it.end?"–"+clock(hm(it.end)):""):""].filter(Boolean).join(" · ")}
   const when=it.days&&it.days.length?dayList(it.days):it.date?fmt(it.date):"Today";return [it.type==="tuition"?"class":it.type,when,it.start?clock(hm(it.start))+(it.end?"–"+clock(hm(it.end)):""):it.type==="todo"||it.type==="note"?"":"time not set",it.note].filter(Boolean).join(" · ")}
 function viewPlanner(){const k=seg("week"),v=ui.pv||"week";initDrag();let h=pageHead("Plan")+segBar("week")+`</section>`;
-  if(k==="tell"){const Q=askList();h+=`<section class="sec">${dumpCard()}</section>`+(Q.length?plPart("asks"):"")+(ui.sheet?.mode==="told"?"":`<section class="sec">${toldView()}</section>`)}
+  if(k==="tell"){const Q=askList();h+=`<section class="sec">${dumpCard()}</section>`+(Q.length?plPart("asks"):"")+(ui.sheet?.mode==="told"?"":`<section class="sec">${toldView()}</section>`)+`<div id="paceSec">${subjCard()}${plPart("pace")}</div>`}
   else if(k==="cal")h+=`<section class="sec"><div class="seg">${Object.entries(PV).map(([kk,nm])=>`<button aria-pressed="${v===kk}" data-act="pv" data-v="${kk}">${nm}</button>`).join("")}</div>${{year:yearOrbit,month:monthView,week:weekView,day:dayView}[v]()}</section>`;
   else if(k==="todo")h+=todoTab();
-  else if(k==="queue")h+=queuesView()+((WT[ui.tq]?ui.tq:"les")==="les"?plPart("pace"):"");
+  else if(k==="queue")h+=queuesView()+((WT[ui.tq]?ui.tq:"les")==="les"?`<section class="sec"><button class="link" data-act="pacego" style="justify-self:start">Pace: hours, days and class for each subject → Tell DeepKids</button></section>`:"");
   else if(k==="pending")h+=newView();
   else h+=goingView();
   return h}
-
 async function runDump(){const ta=document.getElementById("dumpText"),D_=ui.dump=ui.dump||{},typed=(ta?.value||"").trim(),text=(D_.items&&typed&&D_.text&&!D_.text.includes(typed)?D_.text+"\n"+typed:typed||D_.text||"").trim();D_.text=text;if(!SAMPLE){if(!text){D_.err="Type something first.";sfx("no");return render()}localDump(text);return}
   if(!text&&!D_.files?.length){D_.err="Type something or add a photo first.";sfx("no");return render()}
   D_.busy=true;D_.err="";render();
@@ -3166,6 +3175,8 @@ function onAct(e){
    case "morejg":{ui.jg=(ui.jg||0)+1;sfx("flip");renderSheet();break}
    case "tdtick":{const x=(S.todos||[]).find(z=>z.id===b.dataset.t);if(x){x.done=!x.done;x.doneOn=x.done?today:null;sfx(x.done?"tick":"flip");commit()}break}
    case "tdadd":{ui.tdAdd=!ui.tdAdd;break}
+   case "subtog":{const s=b.dataset.s,on=S.subjects.includes(s);if(on&&S.subjects.length<2){sfx("no");toast("Keep at least one subject");break}S.subjects=on?S.subjects.filter(x=>x!==s):SUBJ_KEYS.filter(x=>x===s||S.subjects.includes(x));if(!on){S.levels={...S.levels,[s]:S.levels?.[s]||S.levels?.sci||1}}sfx(on?"flip":"ok");commit();toast(on?`${SUBJ[s]} left out. Its progress is kept.`:`${SUBJ[s]} added. It's in Today and the Queue now.`);break}
+   case "pacego":{navPush();ui.seg={...(ui.seg||{}),week:"tell"};sfx("flip");render();setTimeout(()=>document.getElementById("paceSec")?.scrollIntoView({behavior:"smooth",block:"start"}),60);break}
    case "tqt":{ui.tq=b.dataset.t;ui.qpick=null;sfx("tap");render();break}
    case "qzs":{sfx("flip");openSheet({mode:"qzs",k,n:+b.dataset.n});break}
    case "dkmin":{const i=Math.max(0,DKSTEPS.indexOf(dkMinsOf()));S.dkMins=DKSTEPS[Math.min(DKSTEPS.length-1,Math.max(0,i+ +b.dataset.d))];sfx("tap");commit();break}
