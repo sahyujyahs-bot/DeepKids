@@ -1067,6 +1067,10 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 
 
 
+
+
+
+
 const DATA = /*DATA*/;
 const SUBJ = {...DATA.subjects,dks:"DeepKids Science"}, SUBJ_KEYS = Object.keys(SUBJ);
 DATA.prepgen.guide.dks=DATA.prepgen.guide.dks||"DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
@@ -1314,19 +1318,25 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* Queued is a flag on top of an item's own state, so an item can be Pending + Queued, Not started + Queued, Ongoing + Queued */
+const isQ=(u,id)=>{const w=WK()[u.k+"|"+id];return !!(w&&(w.q||w.st==="planned"))};
+const stPills=x=>`<span class="pill st-${x.st==="going"?"going":x.pend?"new":"none"}" style="font-size:11px">${x.st==="going"?"Ongoing":x.pend?"Pending":"Not started"}</span>${x.q?` <span class="pill st-queued" style="font-size:11px">Queued</span>`:""}`;
+function unQueue(ty,key){const W=WK(),w=W[key];if(w){delete w.q;delete w.planned;if(w.st==="planned")delete w.st}WQ()[ty]=(WQ()[ty]||[]).filter(x=>x!==ty+":"+key)}
+const qCtl=(ty,u,id,st)=>{if(st==="done"||st==="skip")return "";const r=ty+":"+u.k+"|"+id;return isQ(u,id)?`<button class="link xs" data-act="qx" data-ty="${ty}" data-r="${esc(r)}">Take out of the queue</button>`:qPick(ty,u.subj,r,"+ Queue","btn xs soft")};
+const qTag=(ty,u,id,st)=>{if(st==="done"||st==="skip"||!isQ(u,id))return "";const r=ty+":"+u.k+"|"+id,n=wqList(ty).findIndex(x=>x.ref===r)+1;return ` <span class="pill st-queued" style="font-size:11px">Queued${n?" · no. "+n:""}</span>`};
 /* Every worksheet, experiment, activity, project and quiz has its own state, whatever state its lesson is in:
    none (not started) · queued · going (ongoing) · done (completed) · skip (not doing) */
 const ISTATE={none:"Not started",queued:"Queued",going:"Ongoing",done:"Completed",skip:"Not doing"};
-function itemState(ty,u,id){const W=WK(),w=W[u.k+"|"+id];if(w?.st==="skip")return "skip";
-  if(ty==="ws"){const P=u.c?.p,x=(P?.worksheets||[]).find(z=>z.id===id),k2=u.k+"#"+id;if(taskDone(k2,"ws")||w?.st==="done")return "done";if((x&&wsCount(k2,x.sections).ans>0)||w?.st==="started")return "going";return w?.st==="planned"?"queued":"none"}
-  if(ty==="qz"){const n=+id.slice(1),Q=quizQ(u,n),a=Object.keys(S.quiz?.[u.k+"|"+n]||{}).length;if((Q.length&&a>=Q.length)||w?.st==="done")return "done";if(a>0||w?.st==="started")return "going";return w?.st==="planned"?"queued":"none"}
-  if(taskDone(u.k,id)||w?.st==="done"||stepTicked(u,id))return "done";if(w?.st==="started")return "going";
+function itemState(ty,u,id){const W=WK(),w=W[u.k+"|"+id],st=w?.st==="planned"?null:w?.st;if(st==="skip")return "skip";
+  if(ty==="ws"){const P=u.c?.p,x=(P?.worksheets||[]).find(z=>z.id===id),k2=u.k+"#"+id;if(taskDone(k2,"ws")||st==="done")return "done";if((x&&wsCount(k2,x.sections).ans>0)||st==="started")return "going";return "none"}
+  if(ty==="qz"){const n=+id.slice(1),Q=quizQ(u,n),a=Object.keys(S.quiz?.[u.k+"|"+n]||{}).length;if((Q.length&&a>=Q.length)||st==="done")return "done";if(a>0||st==="started")return "going";return "none"}
+  if(taskDone(u.k,id)||st==="done"||stepTicked(u,id))return "done";if(st==="started")return "going";
   if(ty==="proj"){const R=refParts(u,id),dn=done(u.k);if(R.length&&R[0]<=dn&&rank[coverage(u)]<2)return "going"}
-  return w?.st==="planned"?"queued":"none"}
+  return "none"}
 /* the state line shown on a worksheet or quiz wherever it appears */
-function stateCtl(ty,u,id){const s=itemState(ty,u,id),r=ty+":"+u.k+"|"+id,cls={going:"started",queued:"planned",done:"done",skip:"skip"}[s]||"";
-  const b=(to,l)=>`<button class="link xs" data-act="ist" data-ty="${ty}" data-k="${u.k}" data-id="${id}" data-to="${to}">${l}</button>`,pos=s==="queued"?wqList(ty).findIndex(x=>x.ref===r)+1:0;
-  return `<div class="wkctl ${cls}"><span class="xs"><b>${ISTATE[s]}${s==="done"?" ✓":""}</b>${pos?` · no. ${pos} in the ${WT[ty][0].toLowerCase()} queue`:""}</span><div class="row" style="gap:8px;flex-wrap:wrap">${s==="none"?qPick(ty,u.subj,r,"+ Queue","btn xs soft")+(ui.qpick===r?"":b("skip","Not doing this")):s==="queued"?b("none","Take out of the queue"):s==="skip"?b("none","Undo"):s==="done"&&ty==="ws"?b("undo","Undo finished"):""}</div></div>`}
+function stateCtl(ty,u,id){const s=itemState(ty,u,id),cls={going:"started",done:"done",skip:"skip"}[s]||"",reached=(()=>{const P=u.c?.p;if(!P)return false;const dn=rank[coverage(u)]>=2?P.days.length:done(u.k);if(ty==="qz")return +id.slice(1)<=dn;const w=(P.worksheets||[]).find(z=>z.id===id);return (w?.day||99)<=dn})();
+  const lab=s==="none"&&reached?"Pending":ISTATE[s],b=(to,l)=>`<button class="link xs" data-act="ist" data-ty="${ty}" data-k="${u.k}" data-id="${id}" data-to="${to}">${l}</button>`;
+  return `<div class="wkctl ${cls}"><span class="xs"><b>${lab}${s==="done"?" ✓":""}</b>${qTag(ty,u,id,s)}</span><div class="row" style="gap:8px;flex-wrap:wrap">${qCtl(ty,u,id,s)}${s==="none"&&ui.qpick!==ty+":"+u.k+"|"+id?b("skip","Not doing this"):s==="skip"?b("none","Undo"):s==="done"&&ty==="ws"?b("undo","Undo finished"):""}</div></div>`}
 function subjCard(){return `<section class="sec"><div class="sech"><h3>Subjects</h3><span class="xs muted">Tap to add or leave out</span></div><div class="row chips">${SUBJ_KEYS.map(k=>`<button class="chip ${SC(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k)?"✓ ":"+ "}${SUBJ[k]}</button>`).join("")}</div></section>`}
 
 /* DeepKids Science is its own subject now (it used to ride inside EVS): move a family's DeepKids topics across once */
@@ -1395,18 +1405,19 @@ function stepTicked(u,id){const P=u.c?.p;if(!P)return false;const names=new Set(
 function quizTicked(u,n){const tk=(S.steps||{})[u.k+"|"+n]||[],d=pkDay(u,n);return tk.some(x=>/^ws\|(Quick quiz|End-of-chapter quiz)$/.test(x))||d.steps.some(s=>s.kind==="check"&&tk.includes("ws|"+s.title))}
 function workItems(){const out=[],W=WK(),refK=r=>{const x=r.slice(r.indexOf(":")+1);return x.slice(0,x.lastIndexOf("|"))};
   const seenK=new Set([...S.log.map(l=>l.key),...Object.keys(S.progress||{}).filter(k=>(S.progress[k].sessions||0)>0||rank[S.progress[k].status]>=2),...Object.keys(W).map(k=>k.slice(0,k.lastIndexOf("|"))),...Object.values(WQ()).flat().map(refK),...Object.keys(S.quiz||{}).map(k=>k.slice(0,k.lastIndexOf("|")))]);
-  const add=(ty,u,id,title,o)=>{const st=itemState(ty,u,id);if(st==="done"||st==="skip")return;const reached=o.day<=o.dn;if(st==="none"&&!reached)return;
-    const state=st==="going"?"going":st==="queued"?"queued":"new";out.push({ref:ty+":"+u.k+"|"+id,ty,u,id,title,state,st,sub:o.sub(st,reached),open:o.open,go:st==="going"?"Continue":"Start"})};
+  const add=(ty,u,id,title,o)=>{const st=itemState(ty,u,id);if(st==="done"||st==="skip")return;const reached=o.day<=o.dn,q=isQ(u,id),pend=st==="none"&&reached;if(st==="none"&&!reached&&!q)return;
+    out.push({ref:ty+":"+u.k+"|"+id,ty,u,id,title,st,q,pend,state:st==="going"?"going":pend?"new":"queued",sub:o.sub(st,reached),open:o.open,go:st==="going"?"Continue":"Start"})};
   [...seenK].map(unitByK).filter(Boolean).forEach(u=>{const P=u.c?.p;if(!P)return;const real=done(u.k),dn=rank[coverage(u)]>=2?P.days.length:real,from=d=>d<=real?`From Part ${d}, which you've done`:"From a chapter marked done",when=d=>d<=dn?from(d):`Comes up in Part ${d}`;
-    (P.worksheets||[]).forEach(w=>{const k2=u.k+"#"+w.id;add("ws",u,w.id,w.title,{day:w.day||99,dn,open:`data-act="ws" data-k="${u.k}" data-w="${esc(w.id)}"`,sub:(st)=>{const c=wsCount(k2,w.sections);return st==="going"?`${c.ans} of ${c.tot} answered`:when(w.day||99)}})});
+    (P.worksheets||[]).forEach(w=>{const k2=u.k+"#"+w.id;add("ws",u,w.id,w.title,{day:w.day||99,dn,open:`data-act="ws" data-k="${u.k}" data-w="${esc(w.id)}"`,sub:st=>{const c=wsCount(k2,w.sections);return st==="going"?`${c.ans} of ${c.tot} answered`:when(w.day||99)}})});
     [...(P.experiments||[]),...(P.activities||[])].forEach(e=>{const R=refParts(u,e.id),a=R[0]||99,z=R[R.length-1]||99,w0=W[u.k+"|"+e.id];
       add(wType(u,e.id),u,e.id,e.title,{day:a,dn,open:`data-act="chapter" data-k="${u.k}" data-t="lab"`,sub:st=>st==="going"?(w0?.st==="started"?`Started ${fmt(w0.started)}`:dn>=z?"All its parts are done · mark it finished":`Parts ${a}–${z} · next check-in Part ${R.find(r=>r>dn)}`):when(a)})});
     for(let n=1;n<=P.days.length;n++){const Q=quizQ(u,n);if(!Q.length)continue;add("qz",u,"q"+n,`Quiz · Part ${n}`,{day:n,dn,open:`data-act="qzs" data-k="${u.k}" data-n="${n}"`,sub:st=>{const a=Object.keys(S.quiz?.[u.k+"|"+n]||{}).length;return st==="going"?`${a} of ${Q.length} asked`:when(n)+` · ${Q.length} questions`}})}});
-  Object.entries(W).forEach(([key,w])=>{if(!["started","planned"].includes(w.st))return;const j=key.lastIndexOf("|"),u=unitByK(key.slice(0,j)),id=key.slice(j+1);if(!u||/^q\d+$/.test(id)||out.some(x=>x.u.k===u.k&&x.id===id))return;const ty=wType(u,id);if(u.c?.p&&((u.c.p.worksheets||[]).some(x=>x.id===id)||[...(u.c.p.experiments||[]),...(u.c.p.activities||[])].some(x=>x.id===id)))return;
-    out.push({ref:ty+":"+key,ty,u,id,title:w.title||wkTitle(u,id,""),state:w.st==="started"?"going":"queued",st:w.st==="started"?"going":"queued",sub:w.st==="started"?`Started ${fmt(w.started)}`:"Added by you",open:`data-act="chapter" data-k="${u.k}" data-t="lab"`,go:"Open"})});
+  Object.entries(W).forEach(([key,w])=>{const q=!!(w.q||w.st==="planned");if(!(w.st==="started"||q)||["done","skip"].includes(w.st))return;const j=key.lastIndexOf("|"),u=unitByK(key.slice(0,j)),id=key.slice(j+1);if(!u||/^q\d+$/.test(id)||out.some(x=>x.u.k===u.k&&x.id===id))return;
+    if(u.c?.p&&((u.c.p.worksheets||[]).some(x=>x.id===id)||[...(u.c.p.experiments||[]),...(u.c.p.activities||[])].some(x=>x.id===id)))return;const ty=wType(u,id),st=w.st==="started"?"going":"none";
+    out.push({ref:ty+":"+key,ty,u,id,title:w.title||wkTitle(u,id,""),st,q,pend:false,state:st==="going"?"going":"queued",sub:st==="going"?`Started ${fmt(w.started)}`:"Added by you",open:`data-act="chapter" data-k="${u.k}" data-t="lab"`,go:"Open"})});
   return out}
 function lessonsGoing(){return S.subjects.flatMap(s=>plannedUnits(s).filter(u=>coverage(u)==="learning").slice(0,3).map(u=>{const n=done(u.k),tot=sessionsFor(u);return {ref:"les:"+u.k,ty:"les",u,id:"",title:chT(u),state:"going",sub:`${n} of ${tot} parts done`,open:`data-act="chapter" data-k="${u.k}"`,go:"Open"}}))}
-function wqList(ty){const its=workItems().filter(x=>x.ty===ty&&x.state==="queued"),o=WQ()[ty]||[],pos=r=>{const i=o.indexOf(r);return i<0?1e6:i};return its.map((x,i)=>({x,i})).sort((a,b)=>pos(a.x.ref)-pos(b.x.ref)||a.i-b.i).map(z=>z.x)}
+function wqList(ty){const its=workItems().filter(x=>x.ty===ty&&x.q),o=WQ()[ty]||[],pos=r=>{const i=o.indexOf(r);return i<0?1e6:i};return its.map((x,i)=>({x,i})).sort((a,b)=>pos(a.x.ref)-pos(b.x.ref)||a.i-b.i).map(z=>z.x)}
 function qItems(t,s){if(t==="les"){const ex=(S.extra||{})[s]||[];return plannedUnits(s).filter(u=>rank[coverage(u)]<2).filter((u,i)=>i<12||ex.includes(u.k)).map(u=>({ref:"les:"+u.k,u,title:chT(u),sub:`${u.board==="gen"?"DeepKids topic":u.board==="dk"?"DeepKids Plus":u.book} · ${sessionsFor(u)} days`,open:`data-act="chapter" data-k="${u.k}"`,rm:ex.includes(u.k)}))}
   return bySubj(wqList(t)).map(x=>({...x,sub:`${chT(x.u)} · ${SUBJ[x.u.subj]}`,rm:true}))}
 function setOrder(ty,s,refs){if(ty==="les"){const ks=refs.map(r=>r.slice(4));S.next={...(S.next||{}),[s]:ks};S.later={...(S.later||{}),[s]:((S.later||{})[s]||[]).filter(k=>!ks.includes(k))}}
@@ -1416,29 +1427,29 @@ function qPut(ty,s,r,where){const key=r.slice(r.indexOf(":")+1);
   if(ty==="les"){const k=key,u=unitBy(k);if(!plannedUnits(s).some(z=>z.k===k))S.extra={...(S.extra||{}),[s]:[...new Set([...((S.extra||{})[s]||[]),k])]};
     const nx=((S.next||{})[s]||[]).filter(x=>x!==k),cur=plannedAt(s,S.levels[s]).filter(z=>rank[coverage(z)]<2&&z.k!==k).map(z=>z.k);
     S.next={...(S.next||{}),[s]:where==="first"?[k,...nx]:[...new Set([...nx,...cur]),k]};S.later={...(S.later||{}),[s]:((S.later||{})[s]||[]).filter(x=>x!==k)};commit();return qPos(u)}
-  const W=WK(),w=W[key]||{};if(!["started","done"].includes(w.st))W[key]={...w,st:"planned",planned:w.st==="planned"?w.planned:today};
+  const W=WK(),w={...(W[key]||{})};if(w.st==="planned")delete w.st;W[key]={...w,q:true,planned:w.planned||today};
   const all=wqList(ty).map(x=>x.ref).filter(x=>x!==r);WQ()[ty]=where==="first"?[r,...all]:[...all,r];commit();return WQ()[ty].indexOf(r)+1}
 function qPick(ty,s,r,label,cls){const a=w=>`data-act="qput" data-ty="${ty}" data-s="${s}" data-r="${esc(r)}" data-w="${w}"`;
   if(ui.qpick===r)return `<span class="qpick"><button class="btn xs accent" ${a("first")}>${ty==="les"?"Do it next":"First in queue"}</button><button class="btn xs soft" ${a("last")}>${ty==="les"?"End of this class":"Last in queue"}</button><button class="link xs" data-act="qpick" data-r="">Cancel</button></span>`;
   return `<button class="${cls||"btn sm"}" data-act="qpick" data-r="${esc(r)}">${label}</button>`}
 function viewTasks(){initDrag();const k=seg("tasks");let h=pageHead("To do")+segBar("tasks")+`</section>`;return h+(k==="going"?goingView():k==="new"?newView():queuesView())}
-const taskRow=(x,extra="")=>`<div class="trow"><span class="tic" aria-hidden="true">${WT[x.ty][1]}</span><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> <span class="pill st-${x.st||x.state}" style="font-size:11px">${x.ty==="les"?"Ongoing":ISTATE[x.st]||""}</span><br><span class="xs muted">${x.ty==="les"?"":esc(chT(x.u))+" · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state==="going"?"accent":"soft"}" ${x.open}>${x.go}</button></div>`;
+const taskRow=(x,extra="")=>`<div class="trow"><span class="tic" aria-hidden="true">${WT[x.ty][1]}</span><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty==="les"?`<span class="pill st-going" style="font-size:11px">Ongoing</span>`:stPills(x)}<br><span class="xs muted">${x.ty==="les"?"":esc(chT(x.u))+" · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state==="going"?"accent":"soft"}" ${x.open}>${x.go}</button></div>`;
 function grouped(list,empty,rowFn){const by=Object.keys(WT).map(t=>[t,list.filter(x=>x.ty===t)]).filter(([,l])=>l.length);if(!by.length)return `<section class="sec"><p class="note">${empty}</p></section>`;
   return by.map(([t,l])=>`<section class="sec"><div class="sech"><h3 style="font-size:18px">${WT[t][1]} ${WT[t][0]}</h3><span class="pill">${l.length}</span></div><div class="col" style="gap:8px">${l.map(rowFn).join("")}</div></section>`).join("")}
 function goingView(){const L=bySubj([...lessonsGoing(),...workItems().filter(x=>x.state==="going")]),ex=(S.exps||[]).filter(e=>!e.closed);
   let h=`<section class="sec">${subjChips()}</section>`+grouped(L,"Nothing started yet. When you start a lesson, worksheet, quiz or project, it stays here until it's finished.",x=>taskRow(x));
   if(ex.length)h+=`<section class="sec"><div class="sech"><h3 style="font-size:18px">🌱 Daily check-ins</h3><span class="pill">${ex.length}</span></div><div class="col" style="gap:8px">${ex.map(e=>{const day=Math.round((parse(today)-parse(e.start))/864e5)+1,c=e.checks.includes(today);return `<div class="trow"><span class="tic">🌱</span><div style="min-width:0;flex:1"><b>${esc(e.title)}</b><br><span class="xs muted">Day ${day}${e.topic?" · "+esc(e.topic):""}${c?" · checked today":""}</span><br><button class="link xs" data-act="close" data-e="${e.id}">Finish it</button></div><button class="btn xs ${c?"soft":"accent"}" data-act="check" data-e="${e.id}">${c?"Checked ✓":"Check today"}</button></div>`}).join("")}</div></section>`;
   return h}
-function newView(){const L=bySubj(workItems().filter(x=>x.state==="new"));
-  return `<section class="sec">${subjChips()}<p class="sm muted">Not started yet, from lesson parts you've done. Add each one to its queue, or mark it not doing.</p></section>`+
-   grouped(L,"Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",x=>taskRow(x,`<div class="row" style="gap:10px;margin-top:4px">${qPick(x.ty,x.u.subj,x.ref,"+ Queue","link xs")}${ui.qpick===x.ref?"":`<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`))}
+function newView(){const L=bySubj(workItems().filter(x=>x.pend));
+  return `<section class="sec">${subjChips()}<p class="sm muted">Not started yet, from lesson parts you've done. Queued ones stay here too, tagged Queued, until you start them.</p></section>`+
+   grouped(L,"Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",x=>taskRow(x,`<div class="row" style="gap:10px;margin-top:4px">${x.q?`<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}">Take out of the queue</button>`:qPick(x.ty,x.u.subj,x.ref,"+ Queue","link xs")}${ui.qpick===x.ref?"":`<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`))}
 
 function queuesView(){const t=WT[ui.tq]?ui.tq:"les",s=S.subjects.includes(ui.qs)?ui.qs:S.subjects[0];
   let h=`<section class="sec"><div class="seg qtypes">${Object.entries(WT).map(([k,[n,ic]])=>`<button aria-pressed="${k===t}" data-act="tqt" data-t="${k}">${ic} ${n}${k==="les"?"":` <small>${bySubj(wqList(k)).length}</small>`}</button>`).join("")}</div>`;
   h+=t==="les"?`<div class="seg">${S.subjects.map(x=>`<button aria-pressed="${x===s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>`:subjChips();
   const L=qItems(t,s),mv=(x,d,on,lab,ch)=>`<button class="iconbtn qb" data-act="qmv" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" data-d="${d}" ${on?"":"disabled"} aria-label="${lab}">${ch}</button>`;
   h+=`<div class="row"><button class="btn soft sm" data-act="qshuf" data-ty="${t}" data-s="${s}">${icon("spark")}Shuffle</button>${t==="les"?`<button class="btn ${S.exam?"":"soft"} sm" data-act="exam">${S.exam?"Exam track on":"Exam track off"}</button>`:""}</div>`;
-  h+=L.length?`<div class="qlist" data-ty="${t}" data-s="${s}">${L.map((x,i)=>`<div class="qrow2${x.ref===ui.flash?" flash":""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i+1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b><br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x,-1,i>0,"Move up","▲")}${mv(x,1,i<L.length-1,"Move down","▼")}${x.rm?`<button class="iconbtn qb" data-act="qx" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>`:""}</span></div>`).join("")}</div>`
+  h+=L.length?`<div class="qlist" data-ty="${t}" data-s="${s}">${L.map((x,i)=>`<div class="qrow2${x.ref===ui.flash?" flash":""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i+1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty&&x.ty!=="les"?" "+stPills(x).replace(/ <span class="pill st-queued"[^]*$/,""):""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x,-1,i>0,"Move up","▲")}${mv(x,1,i<L.length-1,"Move down","▼")}${x.rm?`<button class="iconbtn qb" data-act="qx" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>`:""}</span></div>`).join("")}</div>`
     :`<p class="note">${t==="les"?"No chapters waiting.":`No ${WT[t][0].toLowerCase()} queued${qfOf()==="all"?"":" in "+SUBJ[qfOf()]}. Tap “+ Queue” on one in Pending, in a lesson or in a chapter.`}</p>`;
   if(t==="les")h+=`<button class="link" data-act="lt2" style="justify-self:start">Find more chapters and topics in the Library →</button>`;
   return h+`</section>`}
@@ -1997,9 +2008,9 @@ const WK=()=>S.wk||(S.wk={});
 function fixWork(){if(S.work&&!Array.isArray(S.work)){const ph=[],wk={};Object.entries(S.work).forEach(([k,v])=>{if(/^\d+$/.test(k)&&v&&v.id)ph.push(v);else if(k.includes("|")&&v&&v.st)wk[k]=v});S.wk={...wk,...(S.wk||{})};S.work=ph}}
 const wkOf=(k,id)=>{const w=WK()[k+"|"+id];if(w)return w;const t=S.tasks[k]?.[id];return t?{st:"done",done:t}:null};
 function wkTitle(u,id,text){if(u.c?.p){const [,x]=pkFind(u,id);if(x)return x.title}if(id==="proj"&&u.c?.proj)return u.c.proj[0];const m=/^(exp|act)(\d+)$/.exec(id);if(m){const s=(m[1]==="exp"?u.c?.exp:u.c?.act)?.[+m[2]];if(s)return s.split(":")[0].slice(0,70)}return text}
-function workCtl(u,id,text){const w=wkOf(u.k,id),st=w?.st,t=esc(wkTitle(u,id,text)),a=(to,l,cls)=>`<button class="${cls==="link"?"link xs":"btn xs "+cls}" data-act="wkst" data-k="${u.k}" data-id="${id}" data-to="${to}" data-t="${t}">${l}</button>`;
-  const line=st==="done"?`Completed ${fmt(w.done)}${w.started&&w.started!==w.done?` · started ${fmt(w.started)}`:""} ✓`:st==="started"?`Ongoing · started ${fmt(w.started)}`:st==="planned"?`Queued · no. ${wqList(wType(u,id)).findIndex(x=>x.ref===wType(u,id)+":"+u.k+"|"+id)+1} in the ${WT[wType(u,id)][0].toLowerCase()} queue`:st==="skip"?"Not doing this one":"Not started";
-  return `<div class="wkctl ${st||""}"><span class="xs"><b>${esc(line)}</b></span><div class="row" style="gap:6px;flex-wrap:wrap">${st==="done"?a("undo","Undo","link"):st==="skip"?a("none","Undo","link"):st==="started"?a("done","Mark finished","accent")+a("none","Clear","link"):(st==="planned"?a("none","Take out of the queue","link"):qPick(wType(u,id),u.subj,wType(u,id)+":"+u.k+"|"+id,"+ Queue","btn xs soft"))+a("started","Mark started","soft")+a("done","Finished","accent")+a("skip","Not doing this","link")}</div></div>`}
+function workCtl(u,id,text){const w=wkOf(u.k,id),st=w?.st==="planned"?null:w?.st,ty=wType(u,id),t=esc(wkTitle(u,id,text)),a=(to,l,cls)=>`<button class="${cls==="link"?"link xs":"btn xs "+cls}" data-act="wkst" data-k="${u.k}" data-id="${id}" data-to="${to}" data-t="${t}">${l}</button>`;
+  const s=st==="done"?"done":st==="started"?"going":st==="skip"?"skip":"none",line=st==="done"?`Completed ${fmt(w.done)}${w.started&&w.started!==w.done?` · started ${fmt(w.started)}`:""} ✓`:st==="started"?`Ongoing · started ${fmt(w.started)}`:st==="skip"?"Not doing this":"Not started";
+  return `<div class="wkctl ${st||""}"><span class="xs"><b>${esc(line)}</b>${qTag(ty,u,id,s)}</span><div class="row" style="gap:6px;flex-wrap:wrap">${st==="done"?a("undo","Undo","link"):st==="skip"?a("none","Undo","link"):st==="started"?a("done","Mark finished","accent")+a("none","Clear","link")+qCtl(ty,u,id,s):qCtl(ty,u,id,s)+a("started","Mark started","soft")+a("done","Finished","accent")+a("skip","Not doing this","link")}</div></div>`}
 function quizBtns(k,n,i,q){const r=S.quiz?.[k+"|"+n]?.[i]?.r,b=(v,l)=>`<button class="btn xs ${r===v?(v?"accent":"soft"):""}" aria-pressed="${r===v}" data-act="qz" data-k="${k}" data-n="${n}" data-i="${i}" data-r="${v}" data-q="${esc(q.q)}" data-a="${esc(q.a)}">${l}</button>`;return `<div class="row" style="gap:6px;margin:4px 0 8px">${b(1,"Got it")}${b(0,"Not yet")}</div>`}
 const padKey=p=>"dk-pad-"+(ACC||"guest")+"-"+p;
 function ansHtml(it,v,pad){try{return ansHtml_(it,v,pad)}catch(e){return `<p class="sm">${esc(typeof v==="object"?JSON.stringify(v):String(v))}</p>`}}
@@ -3111,7 +3122,7 @@ function onAct(e){
    case "pjump":{ui.sheet.i=Math.max(0,+b.dataset.i);sfx("tap");renderSheet(true);autoRead();break}
    case "hist":{sfx("flip");openSheet({mode:"hist"});break}
    case "wkst":{const id=b.dataset.id,to=b.dataset.to,key=k+"|"+id,W=WK(),w=W[key]||{};w.title=b.dataset.t||w.title;const untask=()=>{if(S.tasks[k])delete S.tasks[k][id]};
-     if(to==="none"||(to==="undo"&&!w.started)){delete W[key];untask();sfx("flip")}
+     if(to==="none"||(to==="undo"&&!w.started)){const q=w.q;delete W[key];if(q)W[key]={q:true,planned:w.planned,title:w.title};untask();sfx("flip")}
      else if(to==="undo"){w.st="started";delete w.done;delete w.doneAt;untask();W[key]=w;sfx("flip")}
      else{w.st=to;w[to]=w[to]||today;w[to+"At"]=w[to+"At"]||Date.now();if(to==="done"){w.started=w.started||today;S.tasks[k]=S.tasks[k]||{};S.tasks[k][id]=w.done;sfx("win");toast("Finished · saved to your Work folder")}else{untask();sfx("ok");toast(to==="planned"?"Added to your pipeline · see To finish":to==="skip"?"Okay, not doing this one":"Marked started · finish it any time")}W[key]=w}
      commit();break}
@@ -3182,7 +3193,7 @@ function onAct(e){
    case "qput":{const ty=b.dataset.ty,r=b.dataset.r,n=qPut(ty,b.dataset.s,r,b.dataset.w);ui.qpick=null;ui.flash=r;setTimeout(()=>{ui.flash=null},2500);sfx("ok");toast(`${b.dataset.w==="first"?"Put first":"Added at the end"}: no. ${n} in the ${ty==="les"?SUBJ[b.dataset.s]:WT[ty][0].toLowerCase()} queue. See Plan → Queue.`,4500);render();if(sheet.open)renderSheet();break}
    case "qmv":{const ty=b.dataset.ty,s=b.dataset.s,L=qItems(ty,s).map(x=>x.ref),i=L.indexOf(b.dataset.r),j=i+ +b.dataset.d;if(i<0||j<0||j>=L.length)break;[L[i],L[j]]=[L[j],L[i]];ui.flash=b.dataset.r;setTimeout(()=>{ui.flash=null},1500);sfx("tap");setOrder(ty,s,L);break}
    case "qshuf":{const ty=b.dataset.ty,s=b.dataset.s;if(ty==="les"){S.next={...(S.next||{}),[s]:[]};S.shuffle={...(S.shuffle||{}),[s]:true};S.seed={...(S.seed||{}),[s]:Math.floor(Math.random()*9999)};sfx("flip");commit();toast("Shuffled. Each topic still comes after what it needs first.")}else{const L=qItems(ty,s).map(x=>x.ref);for(let i=L.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[L[i],L[j]]=[L[j],L[i]]}sfx("flip");setOrder(ty,s,L);toast("Shuffled")}break}
-   case "qx":{const ty=b.dataset.ty,r=b.dataset.r,key=r.slice(r.indexOf(":")+1);if(ty!=="les"&&b.dataset.how!=="skip"){const W=WK(),w=W[key]||{};delete w.st;W[key]=w;WQ()[ty]=(WQ()[ty]||[]).filter(x=>x!==r);sfx("flip");commit();toast("Taken out of the queue");break}if(ty==="les"){const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:((S.extra||{})[s]||[]).filter(x=>x!==key)};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==key)}}else{const W=WK();W[key]={...(W[key]||{}),st:"skip"};WQ()[ty]=(WQ()[ty]||[]).filter(x=>x!==r)}sfx("flip");commit();toast("Taken out. You can bring it back from its chapter.");break}
+   case "qx":{const ty=b.dataset.ty,r=b.dataset.r,key=r.slice(r.indexOf(":")+1);if(ty!=="les"&&b.dataset.how!=="skip"){unQueue(ty,key);sfx("flip");commit();if(sheet.open)renderSheet();toast("Taken out of the queue");break}if(ty==="les"){const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:((S.extra||{})[s]||[]).filter(x=>x!==key)};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==key)}}else{const W=WK();W[key]={...(W[key]||{}),st:"skip"};WQ()[ty]=(WQ()[ty]||[]).filter(x=>x!==r)}sfx("flip");commit();toast("Taken out. You can bring it back from its chapter.");break}
    case "qf":{ui.qf=b.dataset.s;sfx("tap");render();break}
    case "hty":{ui.hty=b.dataset.t;ui.hn=25;sfx("tap");render();break}
    case "hs":{ui.hs=b.dataset.s;ui.hn=25;sfx("tap");render();break}
@@ -3192,8 +3203,8 @@ function onAct(e){
    case "tdadd":{ui.tdAdd=!ui.tdAdd;break}
    case "subtog":{const s=b.dataset.s,on=S.subjects.includes(s);if(on&&S.subjects.length<2){sfx("no");toast("Keep at least one subject");break}S.subjects=on?S.subjects.filter(x=>x!==s):SUBJ_KEYS.filter(x=>x===s||S.subjects.includes(x));if(!on){S.levels={...S.levels,[s]:S.levels?.[s]||S.levels?.sci||1}}sfx(on?"flip":"ok");commit();toast(on?`${SUBJ[s]} left out. Its progress is kept.`:`${SUBJ[s]} added. It's in Today and the Queue now.`);break}
    case "pacego":{navPush();ui.seg={...(ui.seg||{}),week:"tell"};sfx("flip");render();setTimeout(()=>document.getElementById("paceSec")?.scrollIntoView({behavior:"smooth",block:"start"}),60);break}
-   case "ist":{const key=k+"|"+b.dataset.id,W=WK(),w=W[key]||{},to=b.dataset.to;if(to==="none"){delete w.st;W[key]=w}else if(to==="skip")W[key]={...w,st:"skip"};else if(to==="undo"){if(S.tasks[k+"#"+b.dataset.id])delete S.tasks[k+"#"+b.dataset.id].ws;delete w.st;W[key]=w}
-     WQ()[b.dataset.ty]=(WQ()[b.dataset.ty]||[]).filter(x=>x!==b.dataset.ty+":"+key);sfx("flip");commit();if(sheet.open)renderSheet();toast(to==="skip"?"Marked not doing":to==="undo"?"Back to not finished":"Done");break}
+   case "ist":{const key=k+"|"+b.dataset.id,W=WK(),w=W[key]||{},to=b.dataset.to;if(to==="none"){if(w.st!=="planned")delete w.st;W[key]=w}else if(to==="skip")W[key]={...w,st:"skip"};else if(to==="undo"){if(S.tasks[k+"#"+b.dataset.id])delete S.tasks[k+"#"+b.dataset.id].ws;delete w.st;W[key]=w}
+     sfx("flip");commit();if(sheet.open)renderSheet();toast(to==="skip"?"Marked not doing":to==="undo"?"Back to not finished":"Done");break}
    case "tqt":{ui.tq=b.dataset.t;ui.qpick=null;sfx("tap");render();break}
    case "qzs":{sfx("flip");openSheet({mode:"qzs",k,n:+b.dataset.n});break}
    case "dkmin":{const i=Math.max(0,DKSTEPS.indexOf(dkMinsOf()));S.dkMins=DKSTEPS[Math.min(DKSTEPS.length-1,Math.max(0,i+ +b.dataset.d))];sfx("tap");commit();break}
