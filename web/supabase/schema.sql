@@ -66,7 +66,13 @@ create policy "own uploads add" on storage.objects for insert to authenticated
 create policy "own uploads remove" on storage.objects for delete to authenticated
   using (bucket_id = 'uploads' and (storage.foldername(name))[1] = auth.uid()::text);
 
--- 6. A simple view for you (dashboard only): families, last active, Claude use this month.
+-- 6. Who may use which table through the app (row-level security above still limits each family to its own rows)
+grant select, insert, update, delete on public.docs to authenticated;
+grant select, insert, update on public.shared to authenticated;
+revoke all on public.docs, public.shared, public.ai_usage, public.invites from anon;
+revoke all on public.ai_usage, public.invites from authenticated;
+
+-- 7. A simple view for you (dashboard only): families, last active, Claude use this month.
 create or replace view public.admin_families with (security_invoker = true) as
 select u.email, u.created_at as joined, max(d.updated_at) as last_saved,
        (select coalesce(sum(calls),0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())) as claude_calls_this_month,
