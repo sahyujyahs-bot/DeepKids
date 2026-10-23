@@ -1,4 +1,4 @@
-async function runDump(){const ta=document.getElementById("dumpText"),D_=ui.dump=ui.dump||{},typed=(ta?.value||"").trim(),text=(D_.items&&typed&&D_.text&&!D_.text.includes(typed)?D_.text+"\n"+typed:typed||D_.text||"").trim();D_.text=text;if(!SAMPLE){D_.err="Sorting needs Claude, which isn't available in this view.";return render()}
+async function runDump(){const ta=document.getElementById("dumpText"),D_=ui.dump=ui.dump||{},typed=(ta?.value||"").trim(),text=(D_.items&&typed&&D_.text&&!D_.text.includes(typed)?D_.text+"\n"+typed:typed||D_.text||"").trim();D_.text=text;if(!SAMPLE){if(!text){D_.err="Type something first.";sfx("no");return render()}localDump(text);return}
   if(!text&&!D_.files?.length){D_.err="Type something or add a photo first.";sfx("no");return render()}
   D_.busy=true;D_.err="";render();
   const prompt=`You are the planning helper inside DeepKids, a homeschool planner used by a parent in India. Today is ${new Date().toLocaleDateString("en-IN",{weekday:"long"})} ${today}. The child is ${S.child||"the child"}, age ${S.age}. The day's lessons start at ${D().start}; lunch is at ${D().lunch}.
